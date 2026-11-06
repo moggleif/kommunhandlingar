@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2d8c151a19bc22c303820a1c/1768561005
 sha256: a520a5e8d5626e035d0920c6eb67059e48193ad16bd77bdf7b148cb7481b78dc
 bytes: 3972415
 sidor: 92
-hamtad: 2026-10-23T06:44:07+00:00
-konverterad: 2026-10-23T06:44:29+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:23:36+00:00
+konverterad: 2026-11-06T08:24:04+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -848,22 +848,30 @@ tredje år vid makten.    rådsremiss                medlingen 2026.
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 En   önskning
 INNEHÅLL
+
 i juletid
 DECEMBER    2025
 
-Julen är traditionellt en tid för bokslut. För att summera året som gått, 3 Nya socialtjänstlagen
-men också för att ställa de obekväma frågorna om vart vi egentligen är Intervju med socialtjänstminis-
-på väg.                                             ter Camilla Waltersson Grövall.
+Julen är traditionellt en tid för bokslut. För att summera året som gått,
+men också för att ställa de obekväma frågorna om vart vi egentligen är
+på väg.
 Det gångna året har inte präglats av brist på rapporter, utredningar eller
-5   Werkets Årskrönika 2025
 politiska utspel. Tvärtom, problembeskrivningen är välkänd. Långtidsar-
-Vi tittar tillbaka på regeringens
 betslösheten har bitit sig fast. Kompetensbrist råder inom många yrken.
-tredje år vid makten
 Samtidigt har utbildning för arbetslösa blivit allt mer ovanligt. Det är som
+
+3    Nya socialtjänstlagen
+Intervju med socialtjänstminis-
+ter Camilla Waltersson Grövall.
+
+5    Werkets Årskrönika 2025
+Vi tittar tillbaka på regeringens
+tredje år vid makten
+
 om alla ser samma tomma stolar runt bordet, men ingen riktigt vill duka 7 Aktivitetskravet
 fram det som faktiskt behövs.                       Vi tittar på den nya lagrådsre-
 missen om aktivitetskravet.
@@ -885,6 +893,7 @@ De senaste nyheterna i
 först när snön redan frusit till is.
 kortform.
 Det som saknas är inte reformer under granen. Det som saknas är en
+
 sammanhängande idé om vad arbetsmarknadspolitiken ska vara till för. 13 Statistik – makro
 Ska den främst vara ett skydd mot fel, eller en investering i människor? Vi mäter temperaturen
 Ska den styras av kortsiktiga besparingar, eller av insikten att omställ- på arbetsmarknaden.
@@ -893,17 +902,22 @@ ning kostar innan den lönar sig?
 När ljusen tänds och året går mot sitt slut finns det anledning att stanna Statistik för ROM2, STA,
 upp. Inte för att vara nostalgisk, utan för att vara ärlig. Utan en tydligare KVL och IPSU.
 kompass riskerar arbetsmarknadspolitiken att fortsätta göra mycket,
+
 även nästa år, men åstadkomma allt mindre.      20      Statistik – utbildning
 Antalet deltagare i AUB
 I detta nummer av Werkets Månadsrapport tittar vi
 och FUB.
 närmare på Aktivitetskravets lagrådsremiss, Arbetsför-
 medlingens regleringsbrev, en intervju med social-
+
 tjänstministern och inte minst Arbetsförmedlingens
 IT-skandal samt mycket mer.
+
 Trevlig läsning!’
 Björn       Elmqvist
+
 (e-post borttagen) | (mobilnummer borttaget)
+
 2
 
 <!-- sida 26 -->
@@ -912,7 +926,8 @@ Björn       Elmqvist
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Regeringen
 
 Lagen         möter       verkligheten:
@@ -921,62 +936,112 @@ Lagen         möter       verkligheten:
 
 Den nya socialtjänstlagen har varit i kraft i ett knappt halv-
 år. Förväntningarna är höga, men även oron är påtaglig. När
+
 Werkets Månadsrapport intervjuar socialtjänstminister Ca-
-
 milla Waltersson Grönvall beskriver hon en lag som både är
-efterlängtad och krävande och där kommunerna befinner
 
+efterlängtad och krävande och där kommunerna befinner
 sig på olika platser i införandet.
-Det tog många år innan den nya social- – Det finns kommuner som redan arbetat man tänker på att den gamla social-
-tjänstlagen till slut blev verklighet. Direk- i linje med intentionerna i flera år. Andra tjänstlagen skrevs i slutet av 70-talet
-tiven till den tidigare utredningen satte uttrycker oro, särskilt inför att behöva och började gälla i början av 80-talet
-hårda ramar, framhåller ministern. hantera två system parallellt. Där vill jag säger det en hel del, även om den natur-
-verkligen understryka att det aldrig varit ligtvis lappats och lagats under många
+
+Det tog många år innan den nya social-
+tjänstlagen till slut blev verklighet. Direk-
+tiven till den tidigare utredningen satte
+hårda ramar, framhåller ministern.
 – Direktivens utgångspunkt var att lagen
-tanken att man ska driva två fullskaliga år.
 inte fick vara kostnadsdrivande. Det
-system samtidigt, säger ministern.
-oroade mig. Det är svårt att modernisera           – Jag har nog aldrig mött en lag som
-en lag från 1970-talet utan att ta höjd för Hon lyfter en del av reformen som omgivits av så mycket positiv förväntan
-vad en verklig omställning kräver, säger hon menar var avgörande: möjligheten från professionen, säger ministern.
-Camilla Waltersson Grönvall. för alla kommuner att rekvirera medel
-Lagstadgade krav att förebygga
-motsvarande en heltidstjänst redan den
+oroade mig. Det är svårt att modernisera
+en lag från 1970-talet utan att ta höjd för
+vad en verklig omställning kräver, säger
+Camilla Waltersson Grönvall.
+
 När hon tillträdde samlade hon SKR,
-1 januari 2024, ett och ett halvt år före En av de mest genomgripande föränd-
 Föreningen Sveriges socialchefer, Vision
-ikraftträdandet.          ringarna i den nya socialtjänstlagen
 och Akademikerförbundet för att fråga
-är att det nu för första gången finns
-om underlaget räckte för att gå vidare. – Det här är ovanligt och var särskilt vik-
-lagstadgade krav på förebyggande ar-
-tigt för små kommuner. Hade vi fördelat
-– Jag ville veta om vi hade ett tillräckligt       bete. Det är inte längre upp till enskilda
-pengarna strikt efter befolkningsmängd
-starkt första steg. Samtidigt var jag tyd-         kommuner att välja om man vill arbeta
-hade vissa glesbygdskommuner fått 38
-lig med att den här regeringen ville mer,          förebyggande eller inte. Socialtjänstmi-
-000 kronor. Det går inte att genomföra
-förklarar ministern.                               nistern beskriver hur stort skiftet är.
-en så stor reform med sådana belopp,
-Utredningen pekade själv på delar som framhåller hon. – Det här är inte längre en fråga som
-saknades. Regeringen valde därför att              socialtjänsten kan bära ensam. Hela
-– Jag har själv 25 års erfarenhet som
-bygga ut lagen med bland annat ett                 kommunen måste vara med, från högsta
-kommunpolitiker i en liten kommun. Jag
-tydligare barnrättsperspektiv och en               politiska ledning till tjänstemannanivå,
-är väldigt glad att jag har med mig den
-brottsförebyggande dimension.                      säger Camilla Waltersson Grönvall.
-erfarenheten och har sett många tidiga-
-– Vi bedömde att det var viktigare att få re satsningar från olika regeringar som Hon framhåller att kommuner som tidigt
-med dessa delar från början än att skyn- inte blivit särskilt betydelsefulla för de bestämt sig för att se reformen som en
-da fram ett beslut, konstaterar hon. mindre kommunerna. Här har det varit kommunövergripande fråga också har
-viktigt för mig att försöka undvika det. kommit längre.
+om underlaget räckte för att gå vidare.
+– Jag ville veta om vi hade ett tillräckligt
+starkt första steg. Samtidigt var jag tyd-
+lig med att den här regeringen ville mer,
+förklarar ministern.
+
+Utredningen pekade själv på delar som
+saknades. Regeringen valde därför att
+bygga ut lagen med bland annat ett
+tydligare barnrättsperspektiv och en
+brottsförebyggande dimension.
+– Vi bedömde att det var viktigare att få
+med dessa delar från början än att skyn-
+da fram ett beslut, konstaterar hon.
+
 Kommunerna olika långt fram
-Att lagen är efterlängtad märks enligt – När socialtjänstens perspektiv finns
 Efter det första halvåret ser ministern
-ministern tydligt när hon reser runt. Om med när man planerar bostadsområden,
 stora skillnader mellan kommunerna.
+
+– Det finns kommuner som redan arbetat
+i linje med intentionerna i flera år. Andra
+uttrycker oro, särskilt inför att behöva
+hantera två system parallellt. Där vill jag
+verkligen understryka att det aldrig varit
+tanken att man ska driva två fullskaliga
+system samtidigt, säger ministern.
+Hon lyfter en del av reformen som
+hon menar var avgörande: möjligheten
+för alla kommuner att rekvirera medel
+motsvarande en heltidstjänst redan den
+1 januari 2024, ett och ett halvt år före
+ikraftträdandet.
+
+– Det här är ovanligt och var särskilt vik-
+tigt för små kommuner. Hade vi fördelat
+pengarna strikt efter befolkningsmängd
+hade vissa glesbygdskommuner fått 38
+000 kronor. Det går inte att genomföra
+en så stor reform med sådana belopp,
+framhåller hon.
+– Jag har själv 25 års erfarenhet som
+kommunpolitiker i en liten kommun. Jag
+är väldigt glad att jag har med mig den
+erfarenheten och har sett många tidiga-
+re satsningar från olika regeringar som
+inte blivit särskilt betydelsefulla för de
+mindre kommunerna. Här har det varit
+viktigt för mig att försöka undvika det.
+
+Att lagen är efterlängtad märks enligt
+ministern tydligt när hon reser runt. Om
+
+man tänker på att den gamla social-
+tjänstlagen skrevs i slutet av 70-talet
+och började gälla i början av 80-talet
+säger det en hel del, även om den natur-
+ligtvis lappats och lagats under många
+år.
+– Jag har nog aldrig mött en lag som
+omgivits av så mycket positiv förväntan
+från professionen, säger ministern.
+
+Lagstadgade krav att förebygga
+En av de mest genomgripande föränd-
+ringarna i den nya socialtjänstlagen
+är att det nu för första gången finns
+lagstadgade krav på förebyggande ar-
+bete. Det är inte längre upp till enskilda
+kommuner att välja om man vill arbeta
+förebyggande eller inte. Socialtjänstmi-
+nistern beskriver hur stort skiftet är.
+
+– Det här är inte längre en fråga som
+socialtjänsten kan bära ensam. Hela
+kommunen måste vara med, från högsta
+politiska ledning till tjänstemannanivå,
+säger Camilla Waltersson Grönvall.
+Hon framhåller att kommuner som tidigt
+bestämt sig för att se reformen som en
+kommunövergripande fråga också har
+kommit längre.
+
+– När socialtjänstens perspektiv finns
+med när man planerar bostadsområden,
+
 3
 
 <!-- sida 27 -->
@@ -985,92 +1050,162 @@ stora skillnader mellan kommunerna.
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
-utvecklar äldreomsorgen eller arbetar ser utan fullständig behovsprövning fri- kopplingen tydlig mellan utanförskap,
-med utsatta barn i skolan, då ser man gör personalresurser. I dag lägger social- kriminalitet och otrygghet, och här spe-
-en helt annan effekt. Socialtjänstlagen tjänsten mycket tid på långa utredningar lar arbete en avgörande roll.
-ska in i kommunens kapillärsystem, och som ibland inte leder till någon insats
-– För mig är arbete helt centralt, inte
-det kräver samverkan på riktigt, betonar alls. Det är inte ett effektivt arbetssätt,
-minst ur ett barnperspektiv. Barn ska ha
-ministern.               betonar ministern.
-en tro på framtiden och inte se krimi-
-Det förebyggande arbetet är också tätt Personalfrågan fortsatt avgörande nalitet som ett alternativ. Att se sina
-kopplat till den ekonomiska hållbarhe-             föräldrar gå till jobbet på morgonen
-Trots förenklingarna återstår den kanske
-ten på sikt. Staten gör stora satsningar,          betyder oerhört mycket, säger Camilla
-största utmaningen: kompetensför-
-men kommunerna kommer ändå behöva                  Waltersson Grönvall.
-sörjningen. Socialtjänsten dras sedan
+WERKET MÅNADSRAPPORT
+
+utvecklar äldreomsorgen eller arbetar
+med utsatta barn i skolan, då ser man
+en helt annan effekt. Socialtjänstlagen
+ska in i kommunens kapillärsystem, och
+det kräver samverkan på riktigt, betonar
+ministern.
+Det förebyggande arbetet är också tätt
+kopplat till den ekonomiska hållbarhe-
+ten på sikt. Staten gör stora satsningar,
+men kommunerna kommer ändå behöva
 prioritera och i vissa fall skjuta upp andra
-länge med hög personalomsättning och Hon återkommer till ett studiebesök i
 investeringar. Enligt Waltersson Grönvall
-svårigheter att rekrytera. Hackney i London, där flera generatio-
 är det dock en nödvändig utveckling.
-ners arbetslöshet satt djupa spår.
-– Kommunerna måste vara attraktiva
+
 – Vi kan inte fortsätta lägga enorma
-arbetsgivare. Jag har besökt kommuner – Där talade man om fyra generationer
 summor på placeringar på HVB eller SIS
-som lyckats vända utvecklingen genom utan arbete. Man såg hur hopplösheten
 och sedan inte ha tillräckligt bra stöd
-mentorskap, strukturerad introduktion påverkade barnen, hur skolan upplevdes
 när ungdomarna kommer hem igen. Det
-och kompetensutveckling. Andra går som meningslös och hur svårt det var att
 här handlar om att använda resurserna
-samman och organiserar socialtjänsten ens föreställa sig ett annat liv. När man
 klokare och bryta negativa spiraler tidigt.
-gemensamt över flera kommuner. Det började bryta den utvecklingen och ge
-Hon påminner om att kostnaderna ofta skapar både stöd och hållbarhet, säger barnen framtidstro såg man också något
-springer iväg snabbt.    Camilla Waltersson Grönvall. nytt hända.
-– Det mänskliga lidandet är alltid det Hon nämner Bengtsfors och Mellerud När vuxna kom i arbete förändrades
-viktigaste, men vi får inte bortse från som exempel på sådana lösningar, lik- barnens förväntningar, och för första
-ekonomin. En enda placering kan snabbt som Grästorp och Essunga. gången började unga från området ta sig
-nå miljonbelopp. Ett tidigt och systema-           vidare till universitet som Cambridge och
-– Det är initiativ som växer fram ur
-tiskt arbete är helt avgörande om vi vill          Oxford.
-konkreta behov, och jag hoppas fler ser
+Hon påminner om att kostnaderna ofta
+springer iväg snabbt.
+
+– Det mänskliga lidandet är alltid det
+viktigaste, men vi får inte bortse från
+ekonomin. En enda placering kan snabbt
+nå miljonbelopp. Ett tidigt och systema-
+tiskt arbete är helt avgörande om vi vill
 vända utvecklingen.
-kraften i dem, utvecklar hon. – Det är den typen av resa vi vill möjlig-
-Ekonomi och detaljstyrning                         göra, säger hon.
-Aktivitetskravet
-Vision och andra aktörer har pekat på att          Enligt ministern finns en tydlig gemen-
-Samtidigt som den nya socialtjänstlagen
-de öronmärkta medlen inte är tillräckli-           sam kärna mellan socialtjänstlagens
-pågår flera andra reformer som på olika
-ga för en tioårig omställning. Ministern           intentioner och andra reformer, som
-sätt griper in i socialtjänstens arbete. Ett
-betonar att staten gjort en historiskt             aktivitetskravet. Med rätt stöd ska
-exempel är det kommande aktivitetskra-
-stor satsning, både i direkta medel och i          människor kunna stå på egna ben, känna
-vet för försörjningsstödsmottagare, som
-omfattande uppdrag till myndigheter.               delaktighet i samhället och inte fastna i
-formellt ligger på en annan minister.
-bidragsberoende eller kriminalitet, säger
+Ekonomi och detaljstyrning
+
+Vision och andra aktörer har pekat på att
+de öronmärkta medlen inte är tillräckli-
+ga för en tioårig omställning. Ministern
+betonar att staten gjort en historiskt
+stor satsning, både i direkta medel och i
+omfattande uppdrag till myndigheter.
 Regeringen har avsatt nästan 10 miljar-
-Camilla Waltersson Grönvall menar att Camilla Waltersson Grönvall.
 der samt finansierat omfattande upp-
-risken för målkonflikter är reell, men att
-drag till Socialstyrelsen, Myndigheten för         Ett försiktigt hopp
-regeringens ambition är att hålla ihop
+drag till Socialstyrelsen, Myndigheten för
 vård och omsorgsanalys och SBU.
-reformerna kring en gemensam riktning. Mot slutet av intervjun kommer vi in på
-– Men kommunerna har också ett an-                 arbetets fortsättning. Är hon nöjd med
-– Formellt ligger vissa frågor hos andra
-svar. Det kommunala självstyret innebär            lagstiftningen som den nu ser ut?
-ministrar, men i praktiken hänger mycket
+– Men kommunerna har också ett an-
+svar. Det kommunala självstyret innebär
 ibland att man behöver prioritera om
-ihop. I grunden handlar det om att vi ska – Det är för tidigt att tala om nöjdhet.
 mellan investeringar för att klara kärn-
-kunna göra tidiga, förebyggande insat- Jag kommer inte vara nöjd förrän vi fak-
 verksamheten, förklarar hon.
-ser så att människor inte fastnar i ett tiskt ser att de stora samhällsproblemen
-En viktig del av nya lagen är minskad långvarigt utanförskap, säger hon. minskar. Men jag känner hopp. Vi har nu
-detaljstyrning och enklare processer.              verktyg som inte funnits tidigare, och
+
+En viktig del av nya lagen är minskad
+detaljstyrning och enklare processer.
+– Möjligheten att besluta om vissa insat-
+
+ser utan fullständig behovsprövning fri-
+gör personalresurser. I dag lägger social-
+tjänsten mycket tid på långa utredningar
+som ibland inte leder till någon insats
+alls. Det är inte ett effektivt arbetssätt,
+betonar ministern.
+Personalfrågan fortsatt avgörande
+
+Trots förenklingarna återstår den kanske
+största utmaningen: kompetensför-
+sörjningen. Socialtjänsten dras sedan
+länge med hög personalomsättning och
+svårigheter att rekrytera.
+– Kommunerna måste vara attraktiva
+arbetsgivare. Jag har besökt kommuner
+som lyckats vända utvecklingen genom
+mentorskap, strukturerad introduktion
+och kompetensutveckling. Andra går
+samman och organiserar socialtjänsten
+gemensamt över flera kommuner. Det
+skapar både stöd och hållbarhet, säger
+Camilla Waltersson Grönvall.
+
+Hon nämner Bengtsfors och Mellerud
+som exempel på sådana lösningar, lik-
+som Grästorp och Essunga.
+– Det är initiativ som växer fram ur
+konkreta behov, och jag hoppas fler ser
+kraften i dem, utvecklar hon.
+
+Aktivitetskravet
+Samtidigt som den nya socialtjänstlagen
+pågår flera andra reformer som på olika
+sätt griper in i socialtjänstens arbete. Ett
+exempel är det kommande aktivitetskra-
+vet för försörjningsstödsmottagare, som
+formellt ligger på en annan minister.
+Camilla Waltersson Grönvall menar att
+risken för målkonflikter är reell, men att
+regeringens ambition är att hålla ihop
+reformerna kring en gemensam riktning.
+
+– Formellt ligger vissa frågor hos andra
+ministrar, men i praktiken hänger mycket
+ihop. I grunden handlar det om att vi ska
+kunna göra tidiga, förebyggande insat-
+ser så att människor inte fastnar i ett
+långvarigt utanförskap, säger hon.
 Ju längre insatser dröjer, desto svårare
-jag ser kommuner som arbetar offensivt
-– Möjligheten att besluta om vissa insat- blir vägen tillbaka. Enligt ministern är
+blir vägen tillbaka. Enligt ministern är
+
 4
+
+kopplingen tydlig mellan utanförskap,
+kriminalitet och otrygghet, och här spe-
+lar arbete en avgörande roll.
+– För mig är arbete helt centralt, inte
+minst ur ett barnperspektiv. Barn ska ha
+en tro på framtiden och inte se krimi-
+nalitet som ett alternativ. Att se sina
+föräldrar gå till jobbet på morgonen
+betyder oerhört mycket, säger Camilla
+Waltersson Grönvall.
+
+Hon återkommer till ett studiebesök i
+Hackney i London, där flera generatio-
+ners arbetslöshet satt djupa spår.
+– Där talade man om fyra generationer
+utan arbete. Man såg hur hopplösheten
+påverkade barnen, hur skolan upplevdes
+som meningslös och hur svårt det var att
+ens föreställa sig ett annat liv. När man
+började bryta den utvecklingen och ge
+barnen framtidstro såg man också något
+nytt hända.
+
+När vuxna kom i arbete förändrades
+barnens förväntningar, och för första
+gången började unga från området ta sig
+vidare till universitet som Cambridge och
+Oxford.
+– Det är den typen av resa vi vill möjlig-
+göra, säger hon.
+
+Enligt ministern finns en tydlig gemen-
+sam kärna mellan socialtjänstlagens
+intentioner och andra reformer, som
+aktivitetskravet. Med rätt stöd ska
+människor kunna stå på egna ben, känna
+delaktighet i samhället och inte fastna i
+bidragsberoende eller kriminalitet, säger
+Camilla Waltersson Grönvall.
+Ett försiktigt hopp
+Mot slutet av intervjun kommer vi in på
+arbetets fortsättning. Är hon nöjd med
+lagstiftningen som den nu ser ut?
+
+– Det är för tidigt att tala om nöjdhet.
+Jag kommer inte vara nöjd förrän vi fak-
+tiskt ser att de stora samhällsproblemen
+minskar. Men jag känner hopp. Vi har nu
+verktyg som inte funnits tidigare, och
+jag ser kommuner som arbetar offensivt
 
 <!-- sida 28 -->
 
@@ -1078,72 +1213,100 @@ jag ser kommuner som arbetar offensivt
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Tillbakablick
 
 Werkets
 
 Årskrönika
-Januari
-Statskontoret riktar skarp kritik mot Arbetsförmedlingen
+
 När vi lägger 2025 bakom oss är det
-och dess hantering av förvaltningsmedel. Man pekar på
-med fler frågor än svar. Inte minst
-bristande styrning, och ineffektiv resursfördelning.
+med  fler frågor än svar. Inte minst
 kring vem som egentligen ska bära
-JO:s rapport om AF:s telefon-tillgänglighet nådde reger-
 ansvaret för de grupper som står
-ingen som i sin tur riktade kritik mot myndigheten.
 längst från arbetsmarknaden.
-Februari
+
 Om 2024 präglades av lågmäld reträtt
-Arbetsförmedlingen placerar sig åter igen i botten på
 från den stora ”privatiseringsreformen”,
-Medieakademins Förtroendebarometer 2025.
 blev 2025 året då sprickorna i fasaden
-på Arbetsförmedlingen blev omöjliga      I årets första prognos visar Arbetsförmedlingen minskat
-att ignorera. Statskontoret, JO och      deltagande i insatser trots ökande arbetslöshet och en
-Riksrevisionen levererade under året en  växande grupp långtidsarbetslösa.
+på Arbetsförmedlingen blev omöjliga
+att ignorera. Statskontoret, JO och
+Riksrevisionen levererade under året en
 samstämmig bild av en myndighet med
-bristande tillgänglighet, svag intern    Mars
+bristande tillgänglighet, svag intern
 styrning och begränsad förmåga att omsätta politiska ambi-
-Samhallsutredningen presenteras med skärpta kvalitets-
 tioner i praktiskt stöd. Samtidigt som myndigheten skickade
-krav. Utredningen föreslår att idéburna organisationer får
 tillbaka miljardbelopp till staten, trots hög arbetslöshet och
-möjlighet att anställa inom ramen för ett nytt stödformat.
 utbredd kompetensbrist. För den som varit med ett tag är
-det inga nyheter, men sammantaget har kritiken i år varit Arbetsförmedlingen annonserar en första resultatöversyn
-massiv och samstämmig.                   i Rusta och Matcha 2.
-April
+det inga nyheter, men sammantaget har kritiken i år varit
+massiv och samstämmig.
+
 Parallellt har matchningssystemet fortsatt att krympa. Rusta
-och Matcha 2 blev under året allt mer ett system för färre Arbetsförmedlingens prognos spår kraftiga ökningar av
-arbetssökande och med hårdare resultatkrav för leverantö- arbetsmarknadsutbildningar samtidigt som myndigheten
-rer,. För leverantörsmarknaden innebar det fortsatt osäker- släpper en rapport om att dessa är mycket kostnadsef-
-het kring framtiden och för allt fler arbetssökande innebar fektiva.
+och Matcha 2 blev under året allt mer ett system för färre
+arbetssökande och med hårdare resultatkrav för leverantö-
+rer,. För leverantörsmarknaden innebar det fortsatt osäker-
+het kring framtiden och för allt fler arbetssökande innebar
 det längre perioder utan aktivitet.
-Maj
 Men 2025 handlade inte bara om Arbetsförmedlingen. Det
-var också året då kommunerna på allvar klev fram som Arbetsförmedlingens interna projekt ”Uppdrag: Uttömda
-arbetsmarknadspolitiska aktörer. Det kommande införandet möjligheter”, för att definiera vilka målgrupper som inte
-av aktivitetskrav inom försörjningsstödet längre bör tillhöra myndighetens kärnuppdrag läcker ut i
-och den nya socialtjänstlagen förändrade media.
+var också året då kommunerna på allvar klev fram som
+arbetsmarknadspolitiska aktörer. Det kommande införandet
+av aktivitetskrav inom försörjningsstödet
+och den nya socialtjänstlagen förändrade
 spelplanen. Runt om i landet har vi sett
-JO:s riktar förnyad kritik om AF:s telefon-tillgänglighet.
 kommuner bygga upp, förstärka eller i vissa
-Juni
 fall helt och hållet förnya sitt arbete med
 arbetssökande. I vissa fall, som i Helsing-
-En granskning från Riksrevisionen slår fast att Arbetsför-
 borg och Eskilstuna, med tydliga ambitioner,
-medlingens frånvaro av stöd och långa handläggnings-
 strukturer och arbetsgivarfokus. I andra fall
-tider gör att många personer med funktionsnedsättning
 mer trevande, med oklara gränssnitt mot
-står utan rätt insatser trots att stödet är lagstadgat.
 staten och begränsade resurser.
+
+Januari
+
+Statskontoret riktar skarp kritik mot Arbetsförmedlingen
+och dess hantering av förvaltningsmedel. Man pekar på
+bristande styrning, och ineffektiv resursfördelning.
+JO:s rapport om AF:s telefon-tillgänglighet nådde reger-
+ingen som i sin tur riktade kritik mot myndigheten.
+
+Februari
+Arbetsförmedlingen placerar sig åter igen i botten på
+Medieakademins Förtroendebarometer 2025.
+
+I årets första prognos visar Arbetsförmedlingen minskat
+deltagande i insatser trots ökande arbetslöshet och en
+växande grupp långtidsarbetslösa.
+
+Mars
+Samhallsutredningen presenteras med skärpta kvalitets-
+krav. Utredningen föreslår att idéburna organisationer får
+möjlighet att anställa inom ramen för ett nytt stödformat.
+
+Arbetsförmedlingen annonserar en första resultatöversyn
+i Rusta och Matcha 2.
+April
+Arbetsförmedlingens prognos spår kraftiga ökningar av
+arbetsmarknadsutbildningar samtidigt som myndigheten
+släpper en rapport om att dessa är mycket kostnadsef-
+fektiva.
+
+Maj
+
+Arbetsförmedlingens interna projekt ”Uppdrag: Uttömda
+möjligheter”, för att definiera vilka målgrupper som inte
+längre bör tillhöra myndighetens kärnuppdrag läcker ut i
+media.
+JO:s riktar förnyad kritik om AF:s telefon-tillgänglighet.
+Juni
+
+En granskning från Riksrevisionen slår fast att Arbetsför-
+medlingens frånvaro av stöd och långa handläggnings-
+tider gör att många personer med funktionsnedsättning
+står utan rätt insatser trots att stödet är lagstadgat.
 94 avtal i Rusta och Matcha sägs upp efter årets första
 resultatöversyn.
+
 5
 
 <!-- sida 29 -->
@@ -1152,74 +1315,105 @@ resultatöversyn.
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
-Det var också här som årets              Juli
+WERKET MÅNADSRAPPORT
+
+Det var också här som årets
 stora ideologiska utspel på ar-
-betsmarknadsområdet tog form.            Arbetsförmedlingens släpper ny prognos och de tidigare
-Kristdemokraternas utspel om             kraftigt höjda ambitionerna för antalet deltagare arbets-
-att i praktiken lägga ned Arbets-        marknadsutbildning justeras ned.
-förmedlingen och låta kommu-             En utredning föreslår ett ”tjänstemannaansvar” för att
-nerna ta över huvudansvaret              motverka korruption och stärka ansvarsutkrävande.
+betsmarknadsområdet tog form.
+Kristdemokraternas utspel om
+att i praktiken lägga ned Arbets-
+förmedlingen och låta kommu-
+nerna ta över huvudansvaret
 för arbetsmarknadspolitiken satte fingret på en fråga som
-Augusti
 länge legat och pyrt: är den statliga arbetsmarknadspoliti-
 ken fortfarande ändamålsenlig? Moderaterna svarade med
-Kristdemokraterna, föreslår i en debattartikel i Svenska
 försiktig öppenhet för förslaget, Liberalerna med tystnad,
-Dagbladet att Arbetsförmedlingen ska läggas ned helt
 och Socialdemokraterna med en kritik av den rådande poli-
-och vill ge kommunerna hela ansvaret för arbetsmark-
 tiken som mer handlade om styrning. Frågan om kommuna-
-nadspolitiken.
 lisering kan kanske bli intressant för valrörelsen 2026.
-September
 Samtidigt fortsatte regeringen att tala
-varmt om utbildning. Höstbudgeten        Regeringens budgetproposition för 2026 präglas av tre
-innehöll stora satsningar på yrkesut-    tydliga spår: aktivitetskrav för försörjningsstödsmotta-
-bildning, men i praktiken minskade       gare, bidragsreform och satsningar på yrkesutbildning i
-anslagen till aktiva program medan       flera former.
+varmt om utbildning. Höstbudgeten
+innehöll stora satsningar på yrkesut-
+bildning, men i praktiken minskade
+anslagen till aktiva program medan
 Arbetsförmedlingens förvaltningsmedel
-LO släpper rapporten ”Arbetarlandet Sverige” och förbe-
 ökade. Den stackars arbetsmarknads-
-reder krav på en generell arbetstidsförkortning för första
 utbildningen framstod allt mer som ett
-gången sedan 1970-talet.
 politiskt slagträ snarare än ett funge-
-rande verktyg. Politiken ville ha mer,   Oktober
+rande verktyg. Politiken ville ha mer,
 platser fanns, behovet var uppenbart,
-men anvisningarna uteblev.               Produktivitetskommissionens slutbetänkande på 660 sid-
-or släpps med tydliga besked om hur arbetsmarknadens
+men anvisningarna uteblev.
+
 På det politiska planet blev 2025 också ett år av ovanligt
-bidrag till ekonomin kan förbättras.
 hög personalomsättning. Tre liberala arbetsmarknadsmi-
-nistrar på en mandatperiod satte sin prägel på en arbets- Arbetsförmedlingens släpper en återrapport som beskri-
-marknadspolitik som snarare hade behövt kontinuitet än ver stora framsteg i sitt arbete med att öka den geogra-
-nya ministrar. När Johan Britz tog över posten fanns en fiska och yrkesmässiga rörligheten bland arbetssökande.
+nistrar på en mandatperiod satte sin prägel på en arbets-
+marknadspolitik som snarare hade behövt kontinuitet än
+nya ministrar. När Johan Britz tog över posten fanns en
 försiktig förhoppning om ett tonläge präglat av mer respekt
-November
 och mindre tillrättavisning, men tyvärr har utrymmet för
 större reformer varit begränsat. Ljusglimten i mörkret är att
-Werkets kommunenkät för att undersöka hur väl rusta-
 konjunkturen nu, om än långsamt, visar tydliga tecken på
-de kommunerna är inför det kommande aktivitetskravet
 förbättring.
-presenteras. Kommunerna anser att de är väl förberedda
-Kanske är det just detta som är 2025 års arv: att arbets- men att samarbetet med Arbetsförmedlingen i många fall
-marknadspolitiken åter blivit en verklig politisk fråga. Inte haltar.
+Kanske är det just detta som är 2025 års arv: att arbets-
+marknadspolitiken åter blivit en verklig politisk fråga. Inte
 om vem som ska stramas åt eller
-kontrolleras mer, utan om hur syste-     December
+kontrolleras mer, utan om hur syste-
 met ska organiseras för att faktiskt
-Arbetsförmedlingens kontrollplattform baserad på en
 fungera. Om det leder till kloka
-kinesisk AI visar sig ha blivit matad med känslig sekre-
 beslut eller ännu en period av
-tesskyddad information utan att varken säkerhets- eller
 passivitet avgörs i den valrörelse
-laglighetsprövning gjorts. Fyra personer arbetsbefriades.
 som närmar sig.
+
+Juli
+
+Arbetsförmedlingens släpper ny prognos och de tidigare
+kraftigt höjda ambitionerna för antalet deltagare arbets-
+marknadsutbildning justeras ned.
+En utredning föreslår ett ”tjänstemannaansvar” för att
+motverka korruption och stärka ansvarsutkrävande.
+Augusti
+
+Kristdemokraterna, föreslår i en debattartikel i Svenska
+Dagbladet att Arbetsförmedlingen ska läggas ned helt
+och vill ge kommunerna hela ansvaret för arbetsmark-
+nadspolitiken.
+
+September
+Regeringens budgetproposition för 2026 präglas av tre
+tydliga spår: aktivitetskrav för försörjningsstödsmotta-
+gare, bidragsreform och satsningar på yrkesutbildning i
+flera former.
+
+LO släpper rapporten ”Arbetarlandet Sverige” och förbe-
+reder krav på en generell arbetstidsförkortning för första
+gången sedan 1970-talet.
+
+Oktober
+Produktivitetskommissionens slutbetänkande på 660 sid-
+or släpps med tydliga besked om hur arbetsmarknadens
+bidrag till ekonomin kan förbättras.
+
+Arbetsförmedlingens släpper en återrapport som beskri-
+ver stora framsteg i sitt arbete med att öka den geogra-
+fiska och yrkesmässiga rörligheten bland arbetssökande.
+November
+
+Werkets kommunenkät för att undersöka hur väl rusta-
+de kommunerna är inför det kommande aktivitetskravet
+presenteras. Kommunerna anser att de är väl förberedda
+men att samarbetet med Arbetsförmedlingen i många fall
+haltar.
+
+December
+
+Arbetsförmedlingens kontrollplattform baserad på en
+kinesisk AI visar sig ha blivit matad med känslig sekre-
+tesskyddad information utan att varken säkerhets- eller
+laglighetsprövning gjorts. Fyra personer arbetsbefriades.
 Nästa års regleringsbrev landade in och såg i många
 delar väldigt mycket ut som de föregående årens regle-
 ringsbrev.
+
 6
 
 <!-- sida 30 -->
@@ -1244,51 +1438,94 @@ kommunal  verksamhet och statens tillsyn skärps. Sammantaget pekar föränd-
 ringarna mot en mer genomförbar reform, men också mot ett ökat ansvar och nya
 risker för kommunerna.
 
-När regeringen i december presente- Förändringen innebär ett längre initialt I lagrådsremissen klargörs att arbets-
-rade lagrådsremissen Aktivitetskrav för handlingsutrymme för socialtjänsten platsförlagda aktiviteter kan genomföras
-mottagare av försörjningsstöd var det och minskar risken för att personer med även utanför kommunal verksamhet, ex-
-formellt nästa steg efter bokstavsutred- kortvariga försörjningsproblem omedel- empelvis hos privata arbetsgivare, idé-
-ningen Aktivitetskrav inom försörjnings- bart omfattas av ett formellt aktivitets- burna organisationer eller andra externa
-stödet – för arbete, egenförsörjning och krav.     aktörer. Detta är en viktig justering som
-nationell likformighet (Ds 2024:29). På            många remissinstanser efterfrågat, inte
-Arbetsplatsförlagda aktiviteter
-ytan kan förändringarna framstå som                minst mot bakgrund av kommunernas
-begränsade. Vid en närmare genomgång En central, men ibland förbisedd, skill- begränsade kapacitet att själva erbjuda
-framträder dock flera justeringar som nad rör arbetsplatsförlagda aktiviteter. meningsfulla arbetsplatser.
+När regeringen i december presente-
+rade lagrådsremissen Aktivitetskrav för
+mottagare av försörjningsstöd var det
+formellt nästa steg efter bokstavsutred-
+ningen Aktivitetskrav inom försörjnings-
+stödet – för arbete, egenförsörjning och
+nationell likformighet (Ds 2024:29). På
+ytan kan förändringarna framstå som
+begränsade. Vid en närmare genomgång
+framträder dock flera justeringar som
 tydligt speglar remissinstansernas kritik
-I Ds 2024:29 låg tyngdpunkten i prakti- Förändringen stärker kopplingen till
 och regeringens behov av att göra refor-
-ken på kommunalt organiserade akti- reguljärt arbetsliv och minskar risken för
 men mer praktiskt genomförbar.
-viteter. Även om externa aktörer inte att aktivitetskravet reduceras till intern
-Senare startpunkt för aktivitetskravet uttryckligen uteslöts, var möjligheten kommunal sysselsättning.
-att lägga arbetsplatsförlagda aktiviteter
-En av de tydligaste förändringarna gäller          Större flexibilitet i heltidsperspektivet
-utanför kommunens egen verksamhet
+Senare startpunkt för aktivitetskravet
+
+En av de tydligaste förändringarna gäller
 när aktivitetskravet blir obligatoriskt.
-otydlig och svagt reglerad. Både Ds 2024:29 och lagrådsremissen
-I Ds 2024:29 föreslogs att socialnämn-             utgår från att aktivitetskravet i normalfal-
-den skulle vara skyldig att ställa aktivi-         let ska motsvara heltid. Skillnaden ligger
-tetskrav redan efter två månader med               i hur strikt detta formuleras i lagtexten.
+I Ds 2024:29 föreslogs att socialnämn-
+den skulle vara skyldig att ställa aktivi-
+tetskrav redan efter två månader med
 försörjningsstöd, med möjlighet att göra
-Utredningen hade ett mer normativt hel-
 det ännu tidigare i vissa fall. I lagrådsre-
-tidsperspektiv, medan lagrådsremissen
 missen flyttas denna gräns fram till tre
-tydligare betonar att omfattningen ska
 sammanhängande månader.
-anpassas efter den enskildes förmåga
-Sammantaget beräknar regeringen att                och livssituation. Heltid kvarstår som
-cirka 26 000 individer i genomsnitt per            riktmärke, men formuleringarna ger soci-
-månad kommer att beröras av aktivitets-            alnämnden större utrymme för individu-
-kravet. Kostnaderna för kommunerna att             ella anpassningar.
+
+Sammantaget beräknar regeringen att
+cirka 26 000 individer i genomsnitt per
+månad kommer att beröras av aktivitets-
+kravet. Kostnaderna för kommunerna att
 tillhandahålla aktiviteter beräknas sam-
-Detta kan ses som ett försök att mins-
 mantaget uppgå till 1 miljarder kronor
+2026 och 2 miljarder kronor årligen från
+och med 2027.
+
+Förändringen innebär ett längre initialt
+handlingsutrymme för socialtjänsten
+och minskar risken för att personer med
+kortvariga försörjningsproblem omedel-
+bart omfattas av ett formellt aktivitets-
+krav.
+Arbetsplatsförlagda aktiviteter
+
+En central, men ibland förbisedd, skill-
+nad rör arbetsplatsförlagda aktiviteter.
+I Ds 2024:29 låg tyngdpunkten i prakti-
+ken på kommunalt organiserade akti-
+viteter. Även om externa aktörer inte
+uttryckligen uteslöts, var möjligheten
+att lägga arbetsplatsförlagda aktiviteter
+utanför kommunens egen verksamhet
+otydlig och svagt reglerad.
+
+AAnnnnaa TTeennjjee,,
+ssoocciiaallfföörrssääkkrriinnggssmmiinniisstteerr
+
+I lagrådsremissen klargörs att arbets-
+platsförlagda aktiviteter kan genomföras
+även utanför kommunal verksamhet, ex-
+empelvis hos privata arbetsgivare, idé-
+burna organisationer eller andra externa
+aktörer. Detta är en viktig justering som
+många remissinstanser efterfrågat, inte
+minst mot bakgrund av kommunernas
+begränsade kapacitet att själva erbjuda
+meningsfulla arbetsplatser.
+Förändringen stärker kopplingen till
+reguljärt arbetsliv och minskar risken för
+att aktivitetskravet reduceras till intern
+kommunal sysselsättning.
+
+Större flexibilitet i heltidsperspektivet
+Både Ds 2024:29 och lagrådsremissen
+utgår från att aktivitetskravet i normalfal-
+let ska motsvara heltid. Skillnaden ligger
+i hur strikt detta formuleras i lagtexten.
+
+Utredningen hade ett mer normativt hel-
+tidsperspektiv, medan lagrådsremissen
+tydligare betonar att omfattningen ska
+anpassas efter den enskildes förmåga
+och livssituation. Heltid kvarstår som
+riktmärke, men formuleringarna ger soci-
+alnämnden större utrymme för individu-
+ella anpassningar.
+Detta kan ses som ett försök att mins-
 ka risken för rättsliga prövningar och
-2026 och 2 miljarder kronor årligen från AAnnnnaa TTeennjjee,,
 tillämpningsproblem, samtidigt som
-och med 2027.                 ssoocciiaallfföörrssääkkrriinnggssmmiinniisstteerr
+
 7
 
 <!-- sida 31 -->
@@ -1297,90 +1534,148 @@ och med 2027.                 ssoocciiaallfföörrssääkkrriinnggssmmiinniisstt
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
-reformens grundidé bibehålls. Detta gör förslaget mer genomförbart i
-Notiser
-praktiken, men innebär samtidigt att ak-
+WERKET MÅNADSRAPPORT
+
+reformens grundidé bibehålls.
 Skärpt statlig tillsyn av kommunerna
-tivitetskravet blir en mer styrande reform
-DO  och  ålders-
-En tydlig nyhet i lagrådsremissen är sta- för både kommuner och lokala arbets-
-tens förstärkta kontroll av kommunernas marknadsaktörer. Frågan är inte längre diskriminering
-tillämpning.             om aktivitetskravet ska införas, utan hur
-väl systemet förmår leverera faktiska
-Ds 2024:29 fokuserade främst på sank-             Regeringen ger Diskrimineringsombuds-
-vägar till arbete och egenförsörjning
-tioner riktade mot den enskilde mot-              mannen i uppdrag att tillsammans med
-snarare än administrerad sysselsättning.
-tagaren av försörjningsstöd. I lagråds-           arbetsmarknadens parter analysera
-remissen införs därutöver en möjlighet            behov av stöd, och vid behov föreslå
-för Inspektionen för vård och omsorg              åtgärder, mot åldersdiskriminering i
-att besluta om sanktionsavgifter mot              arbetslivet. Syftet är att stärka arbetsgi-
-kommuner som systematiskt brister i               vares kunskap och förmåga att förebyg-
-tillämpningen av aktivitetskravet.                ga diskriminering och bättre ta tillvara
-Werket
-kompetens i alla åldrar.
+
+En tydlig nyhet i lagrådsremissen är sta-
+tens förstärkta kontroll av kommunernas
+tillämpning.
+Ds 2024:29 fokuserade främst på sank-
+tioner riktade mot den enskilde mot-
+tagaren av försörjningsstöd. I lagråds-
+remissen införs därutöver en möjlighet
+för Inspektionen för vård och omsorg
+att besluta om sanktionsavgifter mot
+kommuner som systematiskt brister i
+tillämpningen av aktivitetskravet.
+
 Detta ger reformen ett bredare fokus.
-kommenterar
-Reformen riktar sig inte längre enbart            Bakgrunden är återkommande rapporter
-mot individens beteende, utan också               om att både yngre och äldre missgyn-
-mot kommunernas organisering, uppfölj-            nas, särskilt vid rekrytering och kompe-
-Lagrådsremissen innebär att reger-
-ning och styrning av aktivitetskravet.            tensutveckling. Arbetsmarknadsminister
-ingen i flera avseenden har omarbetat
-Johan Britz beskriver ålderism som ett
-Tydligare regler för informationsöver- aktivitetskravet i en mer genomförbar
-slöseri med kompetens som hämmar
-föring                      riktning. Att startpunkten flyttas fram,
-både individ och konkurrenskraft.
-att arbetsplatsförlagda aktiviteter kan
+Reformen riktar sig inte längre enbart
+mot individens beteende, utan också
+mot kommunernas organisering, uppfölj-
+ning och styrning av aktivitetskravet.
+Tydligare regler för informationsöver-
+föring
+
 En annan konkret skillnad gäller samver-
-ske utanför kommunal verksamhet och Uppdraget ska redovisas senast den 31
 kan mellan socialnämnden och Arbets-
-att heltidsperspektivet formuleras mer mars 2027.
 förmedlingen.
-flexibelt är alla svar på relevant remiss-
-I Ds 2024:29 behandlades samverkan kritik.
+I Ds 2024:29 behandlades samverkan
 främst på principiell nivå. I lagrådsremis-
-Den avgörande frågan blir vilken typ av Studier efter folk-
 sen införs uttryckliga bestämmelser om
-aktiviteter som faktiskt kan erbjudas i
-informationsöverföring mellan myndig-              högskola
-tillräcklig skala och kvalitet. Kommuner
+informationsöverföring mellan myndig-
 heterna kopplat till deltagande i aktivi-
-som redan i dag har etablerad verksam-
 teter.
-het med arbetsgivarsamarbeten har helt En ny statistiknyhet från Statistiska cen-
-Syftet är att minska parallella processer andra förutsättningar än kommuner där tralbyrån visar att över hälften av dem
-och förbättra samordningen kring indivi- aktivitetskravet måste sättas upp från som fått behörighet till eftergymnasiala
-der som rör sig mellan försörjningsstöd ruta ett.  studier via folkhögskolans allmänna kurs
-och arbetsmarknadspolitiska insatser.              befinner sig i studier ett år efter avslutad
-Samtidigt innebär den förstärkta statliga
-Samtidigt aktualiseras frågor om an-               kurs. Högskolestudier är den vanligaste
-tillsynen att kommunernas handlingsut-
-svarsfördelning och integritet som ännu            sysselsättningen, men många fortsätter
-rymme minskar. Med sanktionsavgifter
-inte är fullt ut lösta.                            även inom andra studieformer som kom-
-som yttersta verktyg skapas starka
-vux, yrkeshögskola eller folkhögskolans
-Från principförslag till mer styrande incitament att formellt uppfylla lagkra-
-särskilda kurser.
-lagstiftning                ven. Sanktionsavgifterna kompletterar
-det initiala incitament många kommuner Efter tre år har andelen som arbetar
+Syftet är att minska parallella processer
+och förbättra samordningen kring indivi-
+der som rör sig mellan försörjningsstöd
+och arbetsmarknadspolitiska insatser.
+Samtidigt aktualiseras frågor om an-
+svarsfördelning och integritet som ännu
+inte är fullt ut lösta.
+
+Från principförslag till mer styrande
+lagstiftning
 Lagrådsremissen konkretiserar och
-redan har gällande att minska antalet ökat tydligt, samtidigt som deltagandet i
 justerar Ds 2024:29 i flera avseenden..
-försörjningsstödsmottagare. Risken med övriga studier minskar. Högskolestudier
 Regeringen har flyttat fram startpunkten
-sanktionerna är dock att fokus hamnar ligger dock kvar på en relativt hög nivå,
 för kravet, öppnat upp för arbetsplats-
-på dokumentation och processer snara- vilket enligt SCB hänger samman med
 förlagda aktiviteter utanför kommunen,
-re än faktisk effekt.  att högskoleutbildningar ofta är längre
 stärkt statens tillsyn och gjort samver-
-än andra utbildningsformer.
 kanskraven mer operativa.
+
+Detta gör förslaget mer genomförbart i
+praktiken, men innebär samtidigt att ak-
+tivitetskravet blir en mer styrande reform
+för både kommuner och lokala arbets-
+marknadsaktörer. Frågan är inte längre
+om aktivitetskravet ska införas, utan hur
+väl systemet förmår leverera faktiska
+vägar till arbete och egenförsörjning
+snarare än administrerad sysselsättning.
+
+Werket
+kommenterar
+
+Lagrådsremissen innebär att reger-
+ingen i flera avseenden har omarbetat
+aktivitetskravet i en mer genomförbar
+riktning. Att startpunkten flyttas fram,
+att arbetsplatsförlagda aktiviteter kan
+ske utanför kommunal verksamhet och
+att heltidsperspektivet formuleras mer
+flexibelt är alla svar på relevant remiss-
+kritik.
+
+Den avgörande frågan blir vilken typ av
+aktiviteter som faktiskt kan erbjudas i
+tillräcklig skala och kvalitet. Kommuner
+som redan i dag har etablerad verksam-
+het med arbetsgivarsamarbeten har helt
+andra förutsättningar än kommuner där
+aktivitetskravet måste sättas upp från
+ruta ett.
+Samtidigt innebär den förstärkta statliga
+tillsynen att kommunernas handlingsut-
+rymme minskar. Med sanktionsavgifter
+som yttersta verktyg skapas starka
+incitament att formellt uppfylla lagkra-
+ven. Sanktionsavgifterna kompletterar
+det initiala incitament många kommuner
+redan har gällande att minska antalet
+försörjningsstödsmottagare. Risken med
+sanktionerna är dock att fokus hamnar
+på dokumentation och processer snara-
+re än faktisk effekt.
+
 8
+
+Notiser
+
+DO  och  ålders-
+diskriminering
+
+Regeringen ger Diskrimineringsombuds-
+mannen i uppdrag att tillsammans med
+arbetsmarknadens parter analysera
+behov av stöd, och vid behov föreslå
+åtgärder, mot åldersdiskriminering i
+arbetslivet. Syftet är att stärka arbetsgi-
+vares kunskap och förmåga att förebyg-
+ga diskriminering och bättre ta tillvara
+kompetens i alla åldrar.
+Bakgrunden är återkommande rapporter
+om att både yngre och äldre missgyn-
+nas, särskilt vid rekrytering och kompe-
+tensutveckling. Arbetsmarknadsminister
+Johan Britz beskriver ålderism som ett
+slöseri med kompetens som hämmar
+både individ och konkurrenskraft.
+Uppdraget ska redovisas senast den 31
+mars 2027.
+
+Studier   efter folk-
+högskola
+
+En ny statistiknyhet från Statistiska cen-
+tralbyrån visar att över hälften av dem
+som fått behörighet till eftergymnasiala
+studier via folkhögskolans allmänna kurs
+befinner sig i studier ett år efter avslutad
+kurs. Högskolestudier är den vanligaste
+sysselsättningen, men många fortsätter
+även inom andra studieformer som kom-
+vux, yrkeshögskola eller folkhögskolans
+särskilda kurser.
+Efter tre år har andelen som arbetar
+ökat tydligt, samtidigt som deltagandet i
+övriga studier minskar. Högskolestudier
+ligger dock kvar på en relativt hög nivå,
+vilket enligt SCB hänger samman med
+att högskoleutbildningar ofta är längre
+än andra utbildningsformer.
 
 <!-- sida 32 -->
 
@@ -1388,13 +1683,13 @@ kanskraven mer operativa.
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
 
 OBS! Bilden är skapad av med hjälp av ett AI-verktyg. Dock inte ett kinesiskt.
 
 Ny    IT-skandal        på   Arbetsförmedlingen
 
-\- fem     arbetsbefriade
+\-  fem    arbetsbefriade
 
 En intern AI-satsning på Arbetsförmedlingen har utvecklats till en omfattande led-
 nings- och säkerhetskris. Fyra medarbetare, däribland tre höga chefer, har arbets-
@@ -1404,21 +1699,39 @@ ning av en kinesisk AI-modell, samtidigt som både regeringen och oppositionen
 
 kräver svar.
 
-Fyra arbetsbefrias efter visselblåsning- pågår och de berörda har tagits ur tjänst för att identifiera felaktiga utbetalningar.
-ar och AI-satsning       medan granskningen fortsätter. Arbetet ska ha innefattat omfattande
-personuppgifter om arbetssökande och,
-Fyra personer på Arbetsförmedlingen, Uppgifterna har först rapporterats av
-enligt källor, även data om deras anhöri-
-däribland tre högt uppsatta chefer inom Aftonbladet.
-ga genom kopplingar till folkbokförings-
+Fyra arbetsbefrias efter visselblåsning-
+ar och AI-satsning
+Fyra personer på Arbetsförmedlingen,
+däribland tre högt uppsatta chefer inom
 IT-verksamheten, har arbetsbefriats
-AI-satsning med känsliga data väckte systemet Navet.
 med omedelbar verkan. Bakgrunden är
+misstänkta oegentligheter och säker-
+hetsbrister kopplade till myndighet-
+ens arbete med ny teknik, i synnerhet
+artificiell intelligens. En intern utredning
+
+pågår och de berörda har tagits ur tjänst
+medan granskningen fortsätter.
+Uppgifterna har först rapporterats av
+Aftonbladet.
+
+AI-satsning med känsliga data väckte
 intern kritik
-misstänkta oegentligheter och säker-              Detta väckte intern oro. Flera medarbe-
-hetsbrister kopplade till myndighet- Enligt uppgifter som framkommit ska tare ska ha reagerat på både integritets-
-ens arbete med ny teknik, i synnerhet Arbetsförmedlingen ha arbetat med att risker och bristande transparens kring
-artificiell intelligens. En intern utredning bygga en AI-baserad kontrollplattform vilka data som faktiskt användes och i
+Enligt uppgifter som framkommit ska
+Arbetsförmedlingen ha arbetat med att
+bygga en AI-baserad kontrollplattform
+
+för att identifiera felaktiga utbetalningar.
+Arbetet ska ha innefattat omfattande
+personuppgifter om arbetssökande och,
+enligt källor, även data om deras anhöri-
+ga genom kopplingar till folkbokförings-
+systemet Navet.
+Detta väckte intern oro. Flera medarbe-
+tare ska ha reagerat på både integritets-
+risker och bristande transparens kring
+vilka data som faktiskt användes och i
+
 9
 
 <!-- sida 33 -->
@@ -1427,76 +1740,133 @@ artificiell intelligens. En intern utredning bygga en AI-baserad kontrollplattfo
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
-vilket syfte. Enligt presschefen Hans G som ett ChatGPT-liknande verktyg för Hultqvist har varit särskilt tydlig med att
-Larsson var det just signaler till vissel- IT-avdelningen och var installerad lokalt kinesiska bolag enligt lag är skyldiga att
-blåsarfunktionen och internrevisionen utan uppkoppling mot internet. samarbeta med landets underrättelse-
-som utlöste den nu pågående utred-                 tjänst, något som enligt honom borde ha
-Generaldirektören Maria Hemström
-ningen.                                            uteslutit användning av kinesiska AI-mo-
-Hemmingsson nödstoppade verktyget
-deller i känslig statlig verksamhet.
-Reklam för leverantör och stoppad den 1:a december efter att säkerhetsris-
-intervju                 ker lyfts. Även om experter bedömt att Utredning tar tid
-den tekniska risken för dataläckage varit
-En av de arbetsbefriade är IT-direk-               I ett internt mejl till personalen har
-begränsad, har andra, mer långsiktiga
-tören Krister Dackland, som tidigare               generaldirektören betonat att myndighe-
-risker pekats ut, bland annat ideologisk
-uppmärksammats för att ha medverkat i              ten inte kan kommentera alla uppgifter
-partiskhet och påverkan på hur myndig-
-marknadsföring för konsultbolaget Cap-             medan utredningen pågår.
-hetsutövning och medborgarsyn formas
+WERKET MÅNADSRAPPORT
+
+vilket syfte. Enligt presschefen Hans G
+Larsson var det just signaler till vissel-
+blåsarfunktionen och internrevisionen
+som utlöste den nu pågående utred-
+ningen.
+Reklam för leverantör och stoppad
+intervju
+
+En av de arbetsbefriade är IT-direk-
+tören Krister Dackland, som tidigare
+uppmärksammats för att ha medverkat i
+marknadsföring för konsultbolaget Cap-
 gemini, samtidigt som bolaget anlitats
-över tid.                 ”Utredningen kommer att ta tid, just för
 av Arbetsförmedlingen. Annonsen drogs
-att vi tar uppgifterna på allvar”, skriver
-senare tillbaka och en planerad intervju Politiska reaktioner och krav på svar
-hon.
+senare tillbaka och en planerad intervju
 med Dackland ställdes in med hänvis-
-Avslöjandena har fått starka politiska re-
-ning till ärendets känslighet.                     Vad utredningen i slutändan kommer att
-aktioner. Arbetsmarknadsminister Johan
-visa återstår att se.
-Enligt Arbetsförmedlingen var formu- Britz (L) har beskrivit säkerhetshot kopp-
-leringarna i annonsen oacceptabla och lade till Kina som allvarliga och uppgett
-borde aldrig ha godkänts. att departementet följer frågan. Oppo-
-sitionen, med företrädare som Ardalan
+ning till ärendets känslighet.
+Enligt Arbetsförmedlingen var formu-
+leringarna i annonsen oacceptabla och
+borde aldrig ha godkänts.
+
 Kinesisk AI-modell nödstoppades
-Shekarabi och Peter Hultqvist (S), har
-Parallellt med detta avslöjades att samtidigt kritiserat både myndigheten
-Arbetsförmedlingen internt använt den och regeringen och krävt klarhet i när
-kinesiska språkmodellen Qwen 3, ut- Johan Britz informerades i frågan.
+Parallellt med detta avslöjades att
+Arbetsförmedlingen internt använt den
+kinesiska språkmodellen Qwen 3, ut-
 vecklad av Alibaba. Modellen fungerade
+
+som ett ChatGPT-liknande verktyg för
+IT-avdelningen och var installerad lokalt
+utan uppkoppling mot internet.
+Generaldirektören Maria Hemström
+Hemmingsson nödstoppade verktyget
+den 1:a december efter att säkerhetsris-
+ker lyfts. Även om experter bedömt att
+den tekniska risken för dataläckage varit
+begränsad, har andra, mer långsiktiga
+risker pekats ut, bland annat ideologisk
+partiskhet och påverkan på hur myndig-
+hetsutövning och medborgarsyn formas
+över tid.
+
+Politiska reaktioner och krav på svar
+Avslöjandena har fått starka politiska re-
+aktioner. Arbetsmarknadsminister Johan
+Britz (L) har beskrivit säkerhetshot kopp-
+lade till Kina som allvarliga och uppgett
+att departementet följer frågan. Oppo-
+sitionen, med företrädare som Ardalan
+Shekarabi och Peter Hultqvist (S), har
+samtidigt kritiserat både myndigheten
+och regeringen och krävt klarhet i när
+Johan Britz informerades i frågan.
+
 Werket
+
 kommenterar
-Det finns flera intressanta och problematiska kännedom om AI-satsningen den 1 decem- ningen att frågan då antingen är förbrukad
-aspekter i den här härvan som nystats upp ber framstår märkligt. För det andra, är det eller drunknar i nyhetsredaktionernas som-
-av Aftonbladets reporter Erik Melin. En första anmärkningsvärt att inga arbetsbefrielser marbemanning.
-iakttagelse är tajmingen. Arbetsbefriandet av sker förrän elva dagar senare, och då först i
-Den här affären hade alla förutsättningar
-de tre cheferna och medarbetaren på IT-av- direkt anslutning till att media börjar granska
-att utvecklas till den borgerliga regeringens
-delningen skedde först den 12 december, frågan. Sammantaget ger detta intrycket av
-Transportstyrelse-skandal. Än så länge ser
-alltså efter att media börjat ställa frågor. Sam- att ansvaret nu koncentreras nedåt i organi-
-det ut som om man lyckas undvika ett sådant
-tidigt uppger presschefen Hans G Larsson att sationen.
-scenario. Få saker är så efterlängtade i såda-
+
+Det finns flera intressanta och problematiska
+aspekter i den här härvan som nystats upp
+av Aftonbladets reporter Erik Melin. En första
+iakttagelse är tajmingen. Arbetsbefriandet av
+de tre cheferna och medarbetaren på IT-av-
+delningen skedde först den 12 december,
+alltså efter att media börjat ställa frågor. Sam-
+tidigt uppger presschefen Hans G Larsson att
 Arbetsförmedlingens AI-plattform stängdes
-Lika anmärkningsvärt är att både ansvarigt na här lägen som julhelgen, både för ministrar
 ned redan den 1 december, då generaldirek-
-statsråd och generaldirektör konsekvent och för generaldirektörer.
 tören Maria Hemström Hemmingsson enligt
-undviker intervjuer. Strategin nu verkar vara
 honom först informerades om den.
+Här uppstår flera frågor. För det första varför
+inte Arbetsförmedlingens generaldirektör
+skulle vara löpande informerad om den här
+typen av omfattande och strategiskt viktiga
+utvecklingsinitiativ. Att hon först skulle ha fått
+
+kännedom om AI-satsningen den 1 decem-
+ber framstår märkligt. För det andra, är det
+anmärkningsvärt att inga arbetsbefrielser
+sker förrän elva dagar senare, och då först i
+direkt anslutning till att media börjar granska
+frågan. Sammantaget ger detta intrycket av
+att ansvaret nu koncentreras nedåt i organi-
+sationen.
+Lika anmärkningsvärt är att både ansvarigt
+statsråd och generaldirektör konsekvent
+undviker intervjuer. Strategin nu verkar vara
 att hoppas på att medieintresset klingar av
-Här uppstår flera frågor. För det första varför över julhelgen. Att hänvisa till en pågående
-inte Arbetsförmedlingens generaldirektör utredning och betona att den måste få ta tid
-skulle vara löpande informerad om den här ”just för att vi tar uppgifterna på allvar” är ett
-typen av omfattande och strategiskt viktiga välkänt grepp. Det ger utrymme att dra ut på
-utvecklingsinitiativ. Att hon först skulle ha fått processen, möjligen till sommaren, i förhopp-
+över julhelgen. Att hänvisa till en pågående
+utredning och betona att den måste få ta tid
+”just för att vi tar uppgifterna på allvar” är ett
+välkänt grepp. Det ger utrymme att dra ut på
+processen, möjligen till sommaren, i förhopp-
+
 10
+
+Hultqvist har varit särskilt tydlig med att
+kinesiska bolag enligt lag är skyldiga att
+samarbeta med landets underrättelse-
+tjänst, något som enligt honom borde ha
+uteslutit användning av kinesiska AI-mo-
+deller i känslig statlig verksamhet.
+Utredning tar tid
+
+I ett internt mejl till personalen har
+generaldirektören betonat att myndighe-
+ten inte kan kommentera alla uppgifter
+medan utredningen pågår.
+”Utredningen kommer att ta tid, just för
+att vi tar uppgifterna på allvar”, skriver
+hon.
+
+Vad utredningen i slutändan kommer att
+visa återstår att se.
+
+ningen att frågan då antingen är förbrukad
+eller drunknar i nyhetsredaktionernas som-
+marbemanning.
+
+Den här affären hade alla förutsättningar
+att utvecklas till den borgerliga regeringens
+Transportstyrelse-skandal. Än så länge ser
+det ut som om man lyckas undvika ett sådant
+scenario. Få saker är så efterlängtade i såda-
+na här lägen som julhelgen, både för ministrar
+och för generaldirektörer.
 
 <!-- sida 34 -->
 
@@ -1505,73 +1875,127 @@ utvecklingsinitiativ. Att hon först skulle ha fått processen, möjligen till s
 REBMECED
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
+
 Arbetsförmedlingen
-Bekanta        Arbetsförmedlings-refränger                     i
+
+Bekanta        Arbetsförmedlings-refränger                      i
 
 årets     regleringsbrev
 
 Regleringsbrevet för Arbetsförmedlingen 2026 innehåller få överraskningar. Myck-
 et känns igen från de föregående åren, med återkommande formuleringar om kon-
-
 troll, felaktiga utbetalningar och prioritering av långtidsarbetslösa. Samtidigt finns
+
 några områden där regeringen markerar tydligare än tidigare, inte minst när det
 gäller utbildning, Samhall och aktivitetskravet i försörjningsstödet. Det är i dessa
 
 delar, snarare än i de övergripande målen, som regleringsbrevet förtjänar att läsas.
 
-Vid en första genomläsning är det svårt ningar av utbildningsbehov, utan också av ett område som under lång tid varit
-att komma ifrån känslan av déjà vu. följa upp i vilken utsträckning arbetssö- politiskt känsligt.
-Regleringsbrevet för Arbetsförmedlingen kande faktiskt påbörjar och genomför
-Matchning med tydligare redovisning
-2026 följer i stora drag samma struktur utbildning.
-och problemformuleringar som tidigare              När det gäller matchningen är tonen mer
-Särskilt betonas det förbättrade infor-
-år. Regeringen upprepar sitt fokus på              lågmäld. Regleringsbrevet innehåller
-mationsutbytet med kommunal vuxen-
-kontroll, uppföljning och minskade felak-          inga tydliga ifrågasättanden av match-
-utbildning som träder i kraft under 2026.
-tiga utbetalningar, med detaljerade krav           ningsinsatsernas roll eller inriktning. Dä-
-Sammantaget ger detta intrycket av att
-på redovisning av återkrav, polisanmäl-            remot ställs relativt detaljerade krav på
-regeringen upplever att utbildningsspå-
-ningar och kostnadseffektivitet i kon-             hur resultatbaserade matchningstjänster
-ret länge har varit prioriterat på papp-
-trollarbetet. För den som följt styrningen         ska redovisas i de finansiella delarna av
-ret, men att genomslaget i praktiken
-av myndigheten under senare år är detta            styrningen.
-varit begränsat. Här handlar styrningen
+Vid en första genomläsning är det svårt
+att komma ifrån känslan av déjà vu.
+Regleringsbrevet för Arbetsförmedlingen
+2026 följer i stora drag samma struktur
+och problemformuleringar som tidigare
+år. Regeringen upprepar sitt fokus på
+kontroll, uppföljning och minskade felak-
+tiga utbetalningar, med detaljerade krav
+på redovisning av återkrav, polisanmäl-
+ningar och kostnadseffektivitet i kon-
+trollarbetet. För den som följt styrningen
+av myndigheten under senare år är detta
 knappast nytt.
-mindre om nya idéer och mer om att sä- Här efterfrågar regeringen prognoser
-Att dessa skrivningar återkommer år kerställa att redan beslutade inriktningar som bättre speglar vad som faktiskt
-efter år kan tolkas på två sätt. Antingen faktiskt får effekt. förväntas leda till infriade resultat, sna-
-som ett uttryck för att problemen fort-            rare än redovisning av enbart ingångna
+Att dessa skrivningar återkommer år
+efter år kan tolkas på två sätt. Antingen
+som ett uttryck för att problemen fort-
+farande bedöms vara olösta, eller som
+ett tecken på att kontrollretoriken blivit
+ett mer eller mindre permanent inslag i
+den statliga styrningen. Oavsett vilket
+är det svårt att se detta som en egentlig
+kursändring. Snarare handlar det om en
+fortsatt betoning av redan etablerade
+prioriteringar.
+
+Trycket på utbildning skruvas upp
+Mer intressant är regeringens tydliga
+tryck på utbildning. Regleringsbrevet
+innehåller flera skrivningar som pekar på
+en växande otålighet med att arbets-
+marknadsutbildning och reguljär utbild-
+ning inte används i tillräcklig omfattning
+eller tillräckligt tidigt. Arbetsförmedling-
+en ska inte bara göra tidigare bedöm-
+
+ningar av utbildningsbehov, utan också
+följa upp i vilken utsträckning arbetssö-
+kande faktiskt påbörjar och genomför
+utbildning.
+Särskilt betonas det förbättrade infor-
+mationsutbytet med kommunal vuxen-
+utbildning som träder i kraft under 2026.
+Sammantaget ger detta intrycket av att
+regeringen upplever att utbildningsspå-
+ret länge har varit prioriterat på papp-
+ret, men att genomslaget i praktiken
+varit begränsat. Här handlar styrningen
+mindre om nya idéer och mer om att sä-
+kerställa att redan beslutade inriktningar
+faktiskt får effekt.
+
 Samhall förblir ett bekymmer
-farande bedöms vara olösta, eller som              åtaganden. För övriga insatser anges
-ett tecken på att kontrollretoriken blivit Även Samhall ges en framträdande uttryckligen att nuvarande redovis-
-ett mer eller mindre permanent inslag i plats i regleringsbrevet, på ett sätt som ningsprinciper ska fortsätta att gälla.
-den statliga styrningen. Oavsett vilket vid det här laget är välbekant. Arbets- Det handlar alltså mindre om kritik mot
-är det svårt att se detta som en egentlig förmedlingen ska utveckla enhetliga matchningen som sådan och mer om en
-kursändring. Snarare handlar det om en arbetssätt för prioritering och urval när ambition att förbättra budgetkontroll och
-fortsatt betoning av redan etablerade det finns fler kandidater än platser, och prognossäkerhet i vissa delar av syste-
-prioriteringar.          särskilda volymkrav och prioriterade met.
+Även Samhall ges en framträdande
+plats i regleringsbrevet, på ett sätt som
+vid det här laget är välbekant. Arbets-
+förmedlingen ska utveckla enhetliga
+arbetssätt för prioritering och urval när
+det finns fler kandidater än platser, och
+särskilda volymkrav och prioriterade
 grupper pekas ut.
-Trycket på utbildning skruvas upp                  Aktivitetskravet
+
 Att dessa uppdrag återkommer är i sig
-Mer intressant är regeringens tydliga              Den tydligaste nyheten i regleringsbre-
 talande. Trots återkommande utred-
-tryck på utbildning. Regleringsbrevet              vet är uppdraget att förbereda införan-
 ningar, uppföljningar och regeringsupp-
-innehåller flera skrivningar som pekar på          det av ett aktivitetskrav i försörjnings-
 drag tycks förtroendet för att systemet
-en växande otålighet med att arbets-               stödet. Arbetsförmedlingen ska utveckla
 fungerar tillfredsställande vara fortsatt
-marknadsutbildning och reguljär utbild-            digitala system, rutiner och arbetssätt
 begränsat. Regleringsbrevet signale-
-ning inte används i tillräcklig omfattning         för informationsutbyte med kommuner-
 rar inte någon ny lösning, men väl en
-eller tillräckligt tidigt. Arbetsförmedling-       nas socialnämnder och spela en central
 fortsatt vilja att strama upp styrningen
-en ska inte bara göra tidigare bedöm-              roll i bedömningen av om personer i ar-
+
+av ett område som under lång tid varit
+politiskt känsligt.
+Matchning med tydligare redovisning
+
+När det gäller matchningen är tonen mer
+lågmäld. Regleringsbrevet innehåller
+inga tydliga ifrågasättanden av match-
+ningsinsatsernas roll eller inriktning. Dä-
+remot ställs relativt detaljerade krav på
+hur resultatbaserade matchningstjänster
+ska redovisas i de finansiella delarna av
+styrningen.
+Här efterfrågar regeringen prognoser
+som bättre speglar vad som faktiskt
+förväntas leda till infriade resultat, sna-
+rare än redovisning av enbart ingångna
+åtaganden. För övriga insatser anges
+uttryckligen att nuvarande redovis-
+ningsprinciper ska fortsätta att gälla.
+Det handlar alltså mindre om kritik mot
+matchningen som sådan och mer om en
+ambition att förbättra budgetkontroll och
+prognossäkerhet i vissa delar av syste-
+met.
+
+Aktivitetskravet
+Den tydligaste nyheten i regleringsbre-
+vet är uppdraget att förbereda införan-
+det av ett aktivitetskrav i försörjnings-
+stödet. Arbetsförmedlingen ska utveckla
+digitala system, rutiner och arbetssätt
+för informationsutbyte med kommuner-
+nas socialnämnder och spela en central
+roll i bedömningen av om personer i ar-
+
 11
 
 <!-- sida 35 -->
@@ -1580,69 +2004,131 @@ en ska inte bara göra tidigare bedöm-              roll i bedömningen av om p
 \#
 REBMECED
 5202
-WERKET  MÅNADSRAPPORT
-betsmarknadspolitiska program uppfyller Sammanfattande bild
+WERKET MÅNADSRAPPORT
+
+betsmarknadspolitiska program uppfyller
 kraven på tillräcklig sysselsättning.
-Regleringsbrevet för 2026 är i stora
-Fokus på långtidsarbetslösa delar ett välbekant dokument. Mycket
-kan läsas med en viss trötthet av den
+Fokus på långtidsarbetslösa
+
 Regleringsbrevet upprepar också den
-initierade läsaren. Samtidigt finns tydliga
 välkända prioriteringen av personer som
-markeringar på några utvalda områden:
 är eller riskerar att bli långtidsarbetslö-
-utbildning, Samhall och aktivitetskravet i
 sa, med särskild betoning på dem som
-försörjningsstödet. Det är här regering-
 varit utan arbete i mer än två år. Det är
-en sätter sitt tydligaste avtryck. I övrigt
 en formulering som återkommit i tidigare
-fortsätter styrningen i samma spår som
 regleringsbrev och som samtidigt skaver
-tidigare, med återkommande krav på
 mot den samlade forskningen.
-kontroll och uppföljning, men utan att på
-Det är väl belagt att tidiga insatser, innan allvar ompröva några gamla sanningar.
+Det är väl belagt att tidiga insatser, innan
 arbetslösheten blivit långvarig, har störst
 effekt. Ändå fortsätter styrningen att rik-
 ta blicken mot dem som redan befinner
 sig långt från arbetsmarknaden.
+
+Sammanfattande bild
+Regleringsbrevet för 2026 är i stora
+delar ett välbekant dokument. Mycket
+kan läsas med en viss trötthet av den
+initierade läsaren. Samtidigt finns tydliga
+markeringar på några utvalda områden:
+utbildning, Samhall och aktivitetskravet i
+försörjningsstödet. Det är här regering-
+en sätter sitt tydligaste avtryck. I övrigt
+fortsätter styrningen i samma spår som
+tidigare, med återkommande krav på
+kontroll och uppföljning, men utan att på
+allvar ompröva några gamla sanningar.
+
 Notiser
-IAF  kritik mot  AFs     Storstadslöner     till   Servicekontor     ska
-handlingsplaner          landsbygden               öppna   på fler orter
-Inspektionen för arbetslöshetsförsäk- En ny rapport från Tillväxtanalys visar Efter att ett 30-tal statliga servicekontor
-ringen riktar kritik mot Arbetsförmedling- att distansarbete kan öka den samlade lagts ned under året planerar Statens
-en i två nya rapporter. Granskningarna produktiviteten i ekonomin och samti- servicecenter nu för nya etableringar.
-visar brister i arbetet med individuella digt sprida storstädernas lönepremier till Myndigheten ska öppna kontor på flera
-handlingsplaner och i uppföljningen av mindre städer, tätorter och landsbygd. orter som nyligen förlorat statlig service,
-platsanvisningar.        Genom att arbeta på distans kan anställ- bland annat Arvika, Ludvika och Boll-
-da ta del av produktiva storstadsmiljöer näs, samt på nya platser som Pajala och
+
+IAF  kritik mot  AFs
+handlingsplaner
+
+Inspektionen för arbetslöshetsförsäk-
+ringen riktar kritik mot Arbetsförmedling-
+en i två nya rapporter. Granskningarna
+visar brister i arbetet med individuella
+handlingsplaner och i uppföljningen av
+platsanvisningar.
+
 Enligt IAF saknar handlingsplaner i vissa
-och högre löner utan att behöva bära Dorotea.
 fall relevanta aktiviteter eller innehåll-
-storstädernas höga levnadskostnader.
-er åtgärder som inte motsvarar den                 Bakgrunden är regeringens mål om stat-
-arbetssökandes behov. Planerna förnyas Rapporten pekar på att minskat behov lig service i samtliga funktionella ana-
-inte alltid i tid och kan vara uppdaterade av daglig pendling gör det möjligt att lysregioner (FA-regioner), som nyligen
-i systemen utan faktisk kontakt eller nya arbeta för storstadsarbetsgivare även på utökats från 60 till 71. För att möjliggöra
-insatser. Det ökar risken för långtidsar- längre geografiska avstånd. Det kan i sin detta får Statens servicecenter ett till-
-betslöshet och försvårar myndighetens tur bidra till ett ökat arbetskraftsutbud i skott på 10 miljoner kronor. Enligt civilmi-
-kontrollarbete.          produktiva miljöer, högre total produkti- nister Erik Slottner har neddragningarna
-vitet och en geografisk omfördelning av varit för omfattande i förhållande till den
+er åtgärder som inte motsvarar den
+arbetssökandes behov. Planerna förnyas
+inte alltid i tid och kan vara uppdaterade
+i systemen utan faktisk kontakt eller nya
+insatser. Det ökar risken för långtidsar-
+betslöshet och försvårar myndighetens
+kontrollarbete.
 IAF pekar också på brister i arbetet med
-inkomster.                nya regionindelningen.
 platsanvisningar. Uppföljningen sker inte
-tillräckligt snabbt och underrättelser En viktig slutsats är att distansarbete Totalt finns i dag 125 servicekontor i
-skickas ibland för sent eller inte alls när kan avlasta bostadsmarknaden i stör- landet, jämfört med 148 vid utgången av
-arbetssökande misstänks ha uteblivit re städer, samtidigt som orter utanför 2024. Myndigheten ska redovisa en ny
-från att söka anvisade jobb. Det bedöms storstadsregionerna får bättre möjlighe- långsiktig plan för servicekontorsnätet
-som rättsosäkert, ineffektivt och riskerar ter att attrahera nya invånare. De flesta senast i oktober 2026.
-felaktiga utbetalningar. som arbetar på distans kombinerar dock
-hemarbete en eller två dagar i veckan
+tillräckligt snabbt och underrättelser
+skickas ibland för sent eller inte alls när
+arbetssökande misstänks ha uteblivit
+från att söka anvisade jobb. Det bedöms
+som rättsosäkert, ineffektivt och riskerar
+felaktiga utbetalningar.
+
 Myndigheten uppmanas nu att redovisa
-med arbete på plats.
 hur bristerna ska åtgärdas.
+
+Storstadslöner     till
+
+landsbygden
+
+En ny rapport från Tillväxtanalys visar
+att distansarbete kan öka den samlade
+produktiviteten i ekonomin och samti-
+digt sprida storstädernas lönepremier till
+mindre städer, tätorter och landsbygd.
+Genom att arbeta på distans kan anställ-
+da ta del av produktiva storstadsmiljöer
+och högre löner utan att behöva bära
+storstädernas höga levnadskostnader.
+Rapporten pekar på att minskat behov
+av daglig pendling gör det möjligt att
+arbeta för storstadsarbetsgivare även på
+längre geografiska avstånd. Det kan i sin
+tur bidra till ett ökat arbetskraftsutbud i
+produktiva miljöer, högre total produkti-
+vitet och en geografisk omfördelning av
+inkomster.
+En viktig slutsats är att distansarbete
+kan avlasta bostadsmarknaden i stör-
+re städer, samtidigt som orter utanför
+storstadsregionerna får bättre möjlighe-
+ter att attrahera nya invånare. De flesta
+som arbetar på distans kombinerar dock
+hemarbete en eller två dagar i veckan
+med arbete på plats.
+
 12
+
+Servicekontor     ska
+
+öppna   på  fler orter
+
+Efter att ett 30-tal statliga servicekontor
+lagts ned under året planerar Statens
+servicecenter nu för nya etableringar.
+Myndigheten ska öppna kontor på flera
+orter som nyligen förlorat statlig service,
+bland annat Arvika, Ludvika och Boll-
+näs, samt på nya platser som Pajala och
+Dorotea.
+Bakgrunden är regeringens mål om stat-
+lig service i samtliga funktionella ana-
+lysregioner (FA-regioner), som nyligen
+utökats från 60 till 71. För att möjliggöra
+detta får Statens servicecenter ett till-
+skott på 10 miljoner kronor. Enligt civilmi-
+nister Erik Slottner har neddragningarna
+varit för omfattande i förhållande till den
+nya regionindelningen.
+Totalt finns i dag 125 servicekontor i
+landet, jämfört med 148 vid utgången av
+2024\. Myndigheten ska redovisa en ny
+långsiktig plan för servicekontorsnätet
+senast i oktober 2026.
 
 <!-- sida 36 -->
 
@@ -1665,45 +2151,65 @@ REBMECED
 5202
 statistik
 makro
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 TEMPERATUREN         PÅ  ARBETSMARKNADEN
+
 MAKROLÄGET
+
 Arbetsmarknaden visar nu tydliga tecken
 5
-på återhämtning. Fem av sex indikatorer är Antalet lediga jobb uppgick i november till
-positiva, vilket för första gången på länge 76 623 stycken. Den långsiktiga tren-
-4                  gör temperaturen på arbetsmarknaden den är fortsatt negativ, men trots det var
-varm.                    antalet lediga jobb högre i november i år
-än i fjol.
+på återhämtning. Fem av sex indikatorer är
+positiva, vilket för första gången på länge
+4
+gör temperaturen på arbetsmarknaden
+varm.
 3
 Arbetslösheten fortsatte att sjunka under
-november och är nu på den lägsta nivån Barometerindikatorn har stigit sedan juni
-2                  sedan juni 2024.         i år, och nådde för andra månaden i rad
-över 100, vilket indikerar ett något starka-
-Långtidsarbetslösheten är fortsatt högre re stämningsläge än normalt i ekonomin.
+november och är nu på den lägsta nivån
+2                   sedan juni 2024.
+Långtidsarbetslösheten är fortsatt högre
 1
-än för 12 månader sedan, men har nu Störst förändring kan ses inom byggindu-
-sjunkit 3 månader i rad. Trendmässigt har strin, men också indikatorerna för tjänste-
-0                  antalet långtidsarbetslösa planat ut. sektorn och industrin ökade i november.
+än för 12 månader sedan, men har nu
+sjunkit 3 månader i rad. Trendmässigt har
+0                   antalet långtidsarbetslösa planat ut.
+
+Antalet lediga jobb uppgick i november till
+76 623 stycken. Den långsiktiga tren-
+den är fortsatt negativ, men trots det var
+antalet lediga jobb högre i november i år
+än i fjol.
+
+Barometerindikatorn har stigit sedan juni
+i år, och nådde för andra månaden i rad
+över 100, vilket indikerar ett något starka-
+re stämningsläge än normalt i ekonomin.
+Störst förändring kan ses inom byggindu-
+strin, men också indikatorerna för tjänste-
+sektorn och industrin ökade i november.
+
 Antal varslade visar på en svagt nedåtgå-
 −1
 ende trend, och antalet var något lägre i
 Fyra av fem indikatorer är positiva. Arbetsmarknaden
 november 2025 än föregående år.
 är varm.
-Arbetslöshet            Antal långtidsarbetslösa Antal varslade personer
+
+Arbetslöshet           Antal långtidsarbetslösa Antal varslade personer
+
 Förändring 12 mån: −0,21 procentenheter Förändring 12 mån: 4 043 personer Förändring 12 mån: −1 671 personer
 7,2%                  155K
 10K
-7,0%                  150K           151 217   8K
-6,8%                                           6K
+7,0%                  150K           151 217  8K
+
+6,8%                                          6K
 145K
 6,7%
-6,6%                                           4K
+6,6%                                          4K
 4 089
 140K
 2024     2025          2024     2025          2024     2025
-Antal lediga jobb       Barometerindikatorn
+Antal lediga jobb      Barometerindikatorn
 Förändring 12 mån: 1 593 kvarstående platser Förändring 12 mån: 4,7 enheter
 140
 150K
@@ -1715,7 +2221,7 @@ Förändring 12 mån: 1 593 kvarstående platser Förändring 12 mån: 4,7 enhet
 50K
 80
 0K                   60
-2024     2025         2022      2023      2024       2025     2026
+2024     2025         2022      2023      2024      2025      2026
 14
 
 <!-- sida 38 -->

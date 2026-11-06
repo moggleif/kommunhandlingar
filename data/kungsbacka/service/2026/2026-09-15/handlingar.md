@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a086271040b82ab/1789363875
 sha256: e6c883c7af687ad2caaa6c64b2382df8614a63acf2baa1d0c3b80c38bd36e46f
 bytes: 12325929
 sidor: 856
-hamtad: 2026-10-23T10:38:33+00:00
-konverterad: 2026-10-23T10:40:36+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T12:27:57+00:00
+konverterad: 2026-11-06T12:30:15+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3831,17 +3831,16 @@ SOU 2026:33                               Sammanfattning
 
 Figur 1 Sammanfattning av utredningens förslag
 
-Uppdaterad reduktionsplikt Ökad elektrifiering i närtid
+Uppdaterad reduktionsplikt
 
-• Reduktionspliktsnivån höjs successivt • Skatten på bensin och diesel höjs
-• Malusgränsenför lätta fordon sänks
-Kostnadseffektivt och flexibelt system och malusperiodenförlängs till 5 år
-• Ett gemensamt krav på diesel och • Klimatpremien för tunga lastbilar och
-bensin införs        arbetsmaskiner förlängs
-• Reduktionspliktens elkrediteranvänds • Möjligheten att återbetala elskatt för
-mer effektivt        laddning av tunga lastbilar och bussar
-• Möjligheten att spara utsläpps- analyseras vidare
-minskningar mellan åren utökas • Miljözon klass 3 delas upp
+• Reduktionspliktsnivån höjs successivt
+Kostnadseffektivt och flexibelt system
+• Ett gemensamt krav på diesel och
+bensin införs
+• Reduktionspliktens elkrediteranvänds
+mer effektivt
+• Möjligheten att spara utsläpps-
+minskningar mellan åren utökas
 • Ett system med prisgolv och pristak
 införs i reduktionsplikten
 • Reduktionspliktsavgiften justeras
@@ -3851,27 +3850,59 @@ av reduktionspliktskrav införs
 och RFNBO införs
 • Rena och höginblandade förnybara
 drivmedel inkluderas senast 2031
-Anpassad och effektivare
+
+Ökad elektrifiering i närtid
+
+• Skatten på bensin och diesel höjs
+• Malusgränsenför lätta fordon sänks
+och malusperiodenförlängs till 5 år
+• Klimatpremien för tunga lastbilar och
+arbetsmaskiner förlängs
+• Möjligheten att återbetala elskatt för
+laddning av tunga lastbilar och bussar
+analyseras vidare
+• Miljözon klass 3 delas upp
+
 Accepterad och trygg omställning
-energibeskattning
-• Energiskatten på el sänks • Principer för direkt prissättning av
-• Anslaget till elbilspremien höjs koldioxidutsläpp uppdateras
-• Den tillfälligt utökade nedsättningen av • Uppdelningen i energi-och
-skatt på jordbruksdiesel förlängs tills koldioxidskatt tas bort
-vidare              • En ny struktur för beskattning av
-• Bränslefaktorn respektive uppvärmningsbränslen införs
-bränsletillägget i fordonsskatten för • Skatten på naturgas och gasol för
-dieseldrivna personbilar och lätta motordrift höjs
-lastbilar tas bort  • Nedsättningen av förmånsvärdet för
-• Skatten på uppvärmningsbränslen laddbara bilar och gasbilar fasas ut
-sänks                stegvis
-• Energi-och klimatrådgivningen • Grund-resp. koldioxidbeloppet höjs i
-förstärks            fordonsskatten och gränsen för när
-• Medel för stöd till grundläggande koldioxidbeloppet tas ut sänks
-kommersiell service öronmärks även • Miljöklasserna för bensin respektive
-fortsättningsvis och stödet utvärderas diesel tas bort 2031
+
+• Energiskatten på el sänks
+• Anslaget till elbilspremien höjs
+• Den tillfälligt utökade nedsättningen av
+skatt på jordbruksdiesel förlängs tills
+vidare
+• Bränslefaktorn respektive
+bränsletillägget i fordonsskatten för
+dieseldrivna personbilar och lätta
+lastbilar tas bort
+• Skatten på uppvärmningsbränslen
+sänks
+• Energi-och klimatrådgivningen
+förstärks
+• Medel för stöd till grundläggande
+kommersiell service öronmärks även
+fortsättningsvis och stödet utvärderas
 • Pumplagen upphör att gälla
 Källa: Utredningens egen sammanställning.
+
+Anpassad och effektivare
+energibeskattning
+• Principer för direkt prissättning av
+koldioxidutsläpp uppdateras
+• Uppdelningen i energi-och
+koldioxidskatt tas bort
+• En ny struktur för beskattning av
+uppvärmningsbränslen införs
+• Skatten på naturgas och gasol för
+motordrift höjs
+• Nedsättningen av förmånsvärdet för
+laddbara bilar och gasbilar fasas ut
+stegvis
+• Grund-resp. koldioxidbeloppet höjs i
+fordonsskatten och gränsen för när
+koldioxidbeloppet tas ut sänks
+• Miljöklasserna för bensin respektive
+diesel tas bort 2031
+
 31
 
 <!-- sida 88 -->
@@ -6504,26 +6535,35 @@ SOU 2026:33       Utvecklingen av klimatpolitiken i EU – utgångsläge och pro
 
 Figur 3.1 Centrala rättsakter i EU:s 55-procentspaket
 
-Utsläppsminskningar      Energi
+Utsläppsminskningar       Energi
 och upptag av växthusgaser och transport
 
-EU:s utsläppshandel, ETS1 Övergripande
-• Koldioxidpris på importer, CBAM • Förnybartdirektivet
-• EU-regler om energieffektivitet
+EU:s utsläppshandel, ETS1
+• Koldioxidpris på importer, CBAM
 Ansvarsfördelning för
-• Skattelagstiftning inom energi
 utsläppsminskningar, ESR
 • ETS2, utsläppshandel för transport,
-bostäder och industri utanför ETS1 Transport
-• Den sociala klimatfonden • RefuelEUaviation
-• FuelEUmaritime
-LULUCF-förordningen  • Transportmål, förnybartdirektivet
+bostäder och industri utanför ETS1
+• Den sociala klimatfonden
+LULUCF-förordningen
 • Fördelning av ansvar för upptag och
-• Infrastruktur för alternativa bränslen, AFIR
 avgång av växthusgaser från
-markanvändning och skogsbruk • Koldioxidkrav, tunga och lätta vägfordon
+markanvändning och skogsbruk
 Källa: Egen bearbetning.
+
+Övergripande
+• Förnybartdirektivet
+• EU-regler om energieffektivitet
+• Skattelagstiftning inom energi
+Transport
+• RefuelEUaviation
+• FuelEUmaritime
+• Transportmål, förnybartdirektivet
+• Infrastruktur för alternativa bränslen, AFIR
+• Koldioxidkrav, tunga och lätta vägfordon
+
 Fördelningen av ansvar för utsläppsminskningar, ESR
+
 Sektorer och utsläpp som omfattas av ESR, består främst av väg-
 transporter, arbetsmaskiner, bostäder och lokaler, produktanvänd-
 ning och avfall, utsläpp från industri-, och energitillförsel som inte
@@ -6544,7 +6584,9 @@ ESR- och LULUCF-bestämmelserna är utformade mer i detalj.
 Från 2028 kommer ett nytt utsläppshandelsystem, ETS 2, införas
 som ska omfatta koldioxidutsläpp från uppvärmning och kylning av
 byggnader, vägtransporter och mindre industrier. Det nya utsläpps-
+
 11 Upptag- och utsläpp av växthusgaser från jordbruksmark ingår i LULUCF-sektorn.
+
 93
 
 <!-- sida 150 -->
@@ -16691,57 +16733,96 @@ kapitel 14.
 
 Tabell 7.1 Vad händer i tre olika EU-scenarier där omställningen av transportsektorn mot klimatmål 2040 och 2050 i EU
 analyseras?
+SOU
+2026:33
 
 EU-kommissionen-(2024) CONCAWE (SPGCI) (2025) ELS-analysis (2025)
-Elektrifiering av vägfordon Koldioxidkraven uppfylls för lätta och Ett scenariofall med något lägre Ett scenariofall med kommissionens
-tunga fordon (i fyra scenario-alternativ elektrifieringstakt, och ett på elektrifieringstakt.
-där S3 och LIFE når längst). kommissionens nivå Två scenariofall med lägre
-elektrifieringstakt
-Transporteffektivitet-modala skiften Finns med men antaganden om relativt Antar en kraftfull järnvägsutbyggnad och Antar lägre trafiktillväxt i flyg och sjöfart
-hög trafiktillväxt har stor betydelse för därmed en lägre flygtillväxt. Förutsätter jämfört med kommissionens scenarier
-resultatet     omfattande investeringar i järnvägs-
-infrastruktur.
-Samspel och konkurrens mellan Fyra gånger så stor användning av Scenarierna är partiella men balanserar HVO-produktion konkurrerar med SAF om
-vägtransporter, flyg och sjöfart biobränslen i transportsektorn totalt 2040 de olika transportsektorerna mot oljor och fetter. Virke från gallring och
-jämfört med 2015. Den största delen av varandra. röjning och skogsrester kan även komma
-ökningen sker i flyg och sjöfart. att användas för marina bränslen.
-Bio- och elektrobränslen utvecklas utifrån Partiell analys i övrigt.
+
+Elektrifiering av vägfordon Koldioxidkraven uppfylls för lätta och
+tunga fordon (i fyra scenario-alternativ
+där S3 och LIFE når längst).
+
+Transporteffektivitet-modala skiften Finns med men antaganden om relativt
+hög trafiktillväxt har stor betydelse för
+resultatet
+Samspel och konkurrens mellan Fyra gånger så stor användning av
+vägtransporter, flyg och sjöfart biobränslen i transportsektorn totalt 2040
+jämfört med 2015. Den största delen av
+ökningen sker i flyg och sjöfart.
+Bio- och elektrobränslen utvecklas utifrån
 behovet i flyg och sjöfart, i samspel med
 vägtransporter. Effekter i LULUCF-sektorn
 finns med.
+
 321
-SOU
-2026:33
+
+Ett scenariofall med något lägre Ett scenariofall med kommissionens
+elektrifieringstakt, och ett på elektrifieringstakt.
+kommissionens nivå Två scenariofall med lägre
+elektrifieringstakt
+Antar en kraftfull järnvägsutbyggnad och Antar lägre trafiktillväxt i flyg och sjöfart
+därmed en lägre flygtillväxt. Förutsätter jämfört med kommissionens scenarier
+omfattande investeringar i järnvägs-
+infrastruktur.
+Scenarierna är partiella men balanserar HVO-produktion konkurrerar med SAF om
+de olika transportsektorerna mot oljor och fetter. Virke från gallring och
+varandra.      röjning och skogsrester kan även komma
+att användas för marina bränslen.
+Partiell analys i övrigt.
 Drivmedelsmarknaden
 –
 utgångsläge
+
 och
 problembild
 
 <!-- sida 378 -->
 
 322
+
+EU-kommissionen-(2024)
+Tillgång till bioråvara, inklusive lignin Modelleringen har ett tak för hållbar
+biomassa-användning i EU. Ligninråvara
+kommer in men kommer från energiskog
+på marginalmarker och inte från ökad
+skogsavverkning. Begränsningarna styr
+även in elektrobränslen i bensin och
+diesel.
+
+CONCAWE (SPGCI) (2025)
+Biomassaanvändningen begränsad till
+hållbara uttagsnivåer. (Imperial College
+UK) Hamnar på maxnivån i fallet med
+lägre elektrifieringstakt.
+Produktionskapacitet för biodrivmedel
+byggs ut inom befintlig raffinaderi-
+infrastruktur.
+Lignin antas fungera även för drivmedel
+som kan användas som diesel- och
+bensinersättning.
+
 Drivmedelsmarknaden
+
 –
 utgångsläge
 
 och
-
 problembild
+ELS-analysis (2025)
+I målsättningsscenariot kommer EU-
+potentialer från ligninråvara in samtidigt
+som importerad och grödobaserad bio-
+råvara fasas ut. Kapacitet för HVO byggs
+ut kopplad till SAF-produktion. SAF antas
+kunna produceras med ligninråvara.
+Grödobaserad råvara antas kunna
+användas i viss utsträckning (bioetanol).
+Lägre priser om fortsatt import av
+bioråvara tillåts.
 
 SOU
+
 2026:33
-EU-kommissionen-(2024) CONCAWE (SPGCI) (2025) ELS-analysis (2025)
-Tillgång till bioråvara, inklusive lignin Modelleringen har ett tak för hållbar Biomassaanvändningen begränsad till I målsättningsscenariot kommer EU-
-biomassa-användning i EU. Ligninråvara hållbara uttagsnivåer. (Imperial College potentialer från ligninråvara in samtidigt
-kommer in men kommer från energiskog UK) Hamnar på maxnivån i fallet med som importerad och grödobaserad bio-
-på marginalmarker och inte från ökad lägre elektrifieringstakt. råvara fasas ut. Kapacitet för HVO byggs
-skogsavverkning. Begränsningarna styr Produktionskapacitet för biodrivmedel ut kopplad till SAF-produktion. SAF antas
-även in elektrobränslen i bensin och byggs ut inom befintlig raffinaderi- kunna produceras med ligninråvara.
-diesel.       infrastruktur. Grödobaserad råvara antas kunna
-Lignin antas fungera även för drivmedel användas i viss utsträckning (bioetanol).
-som kan användas som diesel-och Lägre priser om fortsatt import av
-bensinersättning. bioråvara tillåts.
 E-bränslen vägtransporter Används 2040 i lätta och tunga fordon, Används som ersättning för bensin och Antar inte att e-bensin kommer in.
 minskar till nära noll 2050 diesel.
 Försörjnings-trygghet, inhemsk råvara / Ingen ökad import av biomassa. Grödo- EU självförsörjande på biomassa (annex I målsättningsscenariot antas EU bli
@@ -29030,17 +29111,16 @@ SOU 2026:33                               Konsekvensanalys
 
 Figur 14.2 Sammanfattning av utredningens förslag
 
-Uppdaterad reduktionsplikt Ökad elektrifiering i närtid
+Uppdaterad reduktionsplikt
 
-• Reduktionspliktsnivån höjs successivt • Skatten på bensin och diesel höjs
-• Malusgränsenför lätta fordon sänks
-Kostnadseffektivt och flexibelt system och malusperiodenförlängs till 5 år
-• Ett gemensamt krav på diesel och • Klimatpremien för tunga lastbilar och
-bensin införs        arbetsmaskiner förlängs
-• Reduktionspliktens elkrediteranvänds • Möjligheten att återbetala elskatt för
-mer effektivt        laddning av tunga lastbilar och bussar
-• Möjligheten att spara utsläpps- analyseras vidare
-minskningar mellan åren utökas • Miljözon klass 3 delas upp
+• Reduktionspliktsnivån höjs successivt
+Kostnadseffektivt och flexibelt system
+• Ett gemensamt krav på diesel och
+bensin införs
+• Reduktionspliktens elkrediteranvänds
+mer effektivt
+• Möjligheten att spara utsläpps-
+minskningar mellan åren utökas
 • Ett system med prisgolv och pristak
 införs i reduktionsplikten
 • Reduktionspliktsavgiften justeras
@@ -29050,27 +29130,59 @@ av reduktionspliktskrav införs
 och RFNBO införs
 • Rena och höginblandade förnybara
 drivmedel inkluderas senast 2031
-Anpassad och effektivare
+
+Ökad elektrifiering i närtid
+
+• Skatten på bensin och diesel höjs
+• Malusgränsenför lätta fordon sänks
+och malusperiodenförlängs till 5 år
+• Klimatpremien för tunga lastbilar och
+arbetsmaskiner förlängs
+• Möjligheten att återbetala elskatt för
+laddning av tunga lastbilar och bussar
+analyseras vidare
+• Miljözon klass 3 delas upp
+
 Accepterad och trygg omställning
-energibeskattning
-• Energiskatten på el sänks • Principer för direkt prissättning av
-• Anslaget till elbilspremien höjs koldioxidutsläpp uppdateras
-• Den tillfälligt utökade nedsättningen av • Uppdelningen i energi-och
-skatt på jordbruksdiesel förlängs tills koldioxidskatt tas bort
-vidare              • En ny struktur för beskattning av
-• Bränslefaktorn respektive uppvärmningsbränslen införs
-bränsletillägget i fordonsskatten för • Skatten på naturgas och gasol för
-dieseldrivna personbilar och lätta motordrift höjs
-lastbilar tas bort  • Nedsättningen av förmånsvärdet för
-• Skatten på uppvärmningsbränslen laddbara bilar och gasbilar fasas ut
-sänks                stegvis
-• Energi-och klimatrådgivningen • Grund-resp. koldioxidbeloppet höjs i
-förstärks            fordonsskatten och gränsen för när
-• Medel för stöd till grundläggande koldioxidbeloppet tas ut sänks
-kommersiell service öronmärks även • Miljöklasserna för bensin respektive
-fortsättningsvis och stödet utvärderas diesel tas bort 2031
+
+• Energiskatten på el sänks
+• Anslaget till elbilspremien höjs
+• Den tillfälligt utökade nedsättningen av
+skatt på jordbruksdiesel förlängs tills
+vidare
+• Bränslefaktorn respektive
+bränsletillägget i fordonsskatten för
+dieseldrivna personbilar och lätta
+lastbilar tas bort
+• Skatten på uppvärmningsbränslen
+sänks
+• Energi-och klimatrådgivningen
+förstärks
+• Medel för stöd till grundläggande
+kommersiell service öronmärks även
+fortsättningsvis och stödet utvärderas
 • Pumplagen upphör att gälla
 Källa: Utredningens egen sammanställning.
+
+Anpassad och effektivare
+energibeskattning
+• Principer för direkt prissättning av
+koldioxidutsläpp uppdateras
+• Uppdelningen i energi-och
+koldioxidskatt tas bort
+• En ny struktur för beskattning av
+uppvärmningsbränslen införs
+• Skatten på naturgas och gasol för
+motordrift höjs
+• Nedsättningen av förmånsvärdet för
+laddbara bilar och gasbilar fasas ut
+stegvis
+• Grund-resp. koldioxidbeloppet höjs i
+fordonsskatten och gränsen för när
+koldioxidbeloppet tas ut sänks
+• Miljöklasserna för bensin respektive
+diesel tas bort 2031
+
 595
 
 <!-- sida 652 -->
@@ -32673,25 +32785,36 @@ SOU 2026:33                              Författningsförslag
 
 Utsläppsminskningar från Utsläppsminskningar från
 leverans av fossilfri el från leverans av fossilfri el, förnybara
-
 publika laddningsstationer bränslen av icke-biologiskt
 ursprung och mellanprodukter
 
 6 §5
 Den som inte har reduktions- Den som inte har reduktions-
-plikt och som under ett kalen- plikt och som under ett kalen-
-derår har minskat utsläppen av derår har minskat utsläppen av
-växthusgaser genom leverans av växthusgaser får överlåta ut-
-fossilfri el från publika ladd- släppsminskningen till någon
-ningsstationer får överlåta ut- annan som därefter får använda
-släppsminskningen till någon den för att uppfylla sin reduk-
-annan som därefter får använda tionsplikt för samma kalenderår,
-den för att uppfylla sin reduk- om utsläppen har minskats genom
-tionsplikt för samma kalenderår. leverans av
+
+plikt och som under ett kalen-
+derår har minskat utsläppen av
+växthusgaser genom leverans av
+fossilfri el från publika ladd-
+ningsstationer får överlåta ut-
+släppsminskningen till någon
+annan som därefter får använda
+den för att uppfylla sin reduk-
+tionsplikt för samma kalenderår.
+
+plikt och som under ett kalen-
+derår har minskat utsläppen av
+växthusgaser får överlåta ut-
+släppsminskningen till någon
+annan som därefter får använda
+den för att uppfylla sin reduk-
+tionsplikt för samma kalenderår,
+om utsläppen har minskats genom
+leverans av
 1\. fossilfri el från publika ladd-
 ningsstationer,
 2\. förnybara bränslen av icke-
 biologiskt ursprung som används
+
 för väg, sjö eller flyg, eller
 3\. mellanprodukter som är för-
 nybara bränslen av icke-biolo-
@@ -32701,11 +32824,10 @@ drivmedel.
 En utsläppsminskning som har
 överlåtits enligt första stycket får
 inte användas för att uppfylla
-
 kravet i 5 a § andra stycket.
+
 7 §6
 Den som har reduktionsplikt och har minskat utsläppen för ett
-
 visst drivmedel på det sätt som anges i denna lag och mer än vad som
 krävs enligt 5 § får använda överskottet för att uppfylla reduktions-
 plikten eller överlåta överskottet till någon annan som därefter får
@@ -32722,7 +32844,6 @@ Författningsförslag                        SOU 2026:33
 
 Ett överskott som har uppstått
 genom inblandning av förnybara
-
 eller andra fossilfria drivmedel i
 diesel eller genom leverans av
 fossilfri el från publika laddnings-
@@ -32730,17 +32851,24 @@ stationer får inte användas för att
 uppfylla kravet i 5 a § andra stycket.
 
 8 a §7
-Den som har överlåtit ut- Den som har överlåtit ut-
-släppsminskningar enligt 6 § ska släppsminskningar enligt 6 § ska
-till tillsynsmyndigheten redovisa till tillsynsmyndigheten redovisa
+
+Den som har överlåtit ut-
+släppsminskningar enligt 6 § ska
+till tillsynsmyndigheten redovisa
 leveranser av fossilfri el från
 publika laddningsstationer och
 överlåtelser av utsläppsminsk-
 ningar.
+
+Den som har överlåtit ut-
+släppsminskningar enligt 6 § ska
+till tillsynsmyndigheten redovisa
+
 1\. leveranser av fossilfri el
 från publika laddningsstationer,
 2\. leveranser av förnybara
 bränslen av icke- biologiskt ur-
+
 sprung som används för väg, sjö
 eller flyg,
 3\. leveranser av mellanpro-
@@ -32752,13 +32880,21 @@ konventionella drivmedel, och
 minskningar.
 
 10 §
-Tillsynsmyndigheten ska ta Tillsynsmyndigheten ska ta
-ut en reduktionspliktsavgift av ut en reduktionspliktsavgift av
 
-den som har reduktionsplikt och den som har reduktionsplikt och
-inte har uppfyllt plikten för ett inte har uppfyllt plikten för ett
-kalenderår. Avgiften får vara kalenderår. Avgiften får vara
-högst 7 kronor per kilogram kol- högst 8 kronor per kilogram kol-
+Tillsynsmyndigheten ska ta
+ut en reduktionspliktsavgift av
+den som har reduktionsplikt och
+inte har uppfyllt plikten för ett
+kalenderår. Avgiften får vara
+högst 7 kronor per kilogram kol-
+
+Tillsynsmyndigheten ska ta
+ut en reduktionspliktsavgift av
+den som har reduktionsplikt och
+inte har uppfyllt plikten för ett
+kalenderår. Avgiften får vara
+högst 8 kronor per kilogram kol-
+
 dioxidekvivalenter som i fråga dioxidekvivalenter som i fråga
 
 7 Senaste lydelse 2025:576.
@@ -32885,11 +33021,10 @@ Denna lag träder i kraft den 1 januari 2028.
 Författningsförslag                        SOU 2026:33
 
 15.4  Förslag till förordning om ändring
-
 i trafikförordningen (1998:1276)
+
 Härigenom föreskrivs i fråga om trafikförordningen (1998:1276)
 dels att 4 kap. 22, 22 d, 23–24 a §§, 11 kap. 4 §, 13 kap. 3 § och
-
 14 kap. 3 § ska ha följande lydelse,
 dels att det ska införas en ny paragraf, 4 kap. 22 e §, av följande
 lydelse.
@@ -32908,21 +33043,32 @@ omfattas av bestämmelser för omfattas av bestämmelser för
 fordon som anges i 1 och 2. bussar och lastbilar.
 4\. Miljözon klass 4. Klass 4 om-
 fattas av bestämmelser för person-
+
 bilar.
 
 22 d §2
 I miljözon klass 3 får lätta I miljözon klass 3 får lätta
 bussar, lätta lastbilar och person- bussar och lätta lastbilar föras
-bilar föras endast om fordonet endast om fordonet enligt kom-
-enligt kommissionens förord- missionens förordning
-ning (EU) 2017/1151 om kom- (EU) 2017/1151 om komplette-
-plettering av Europaparlamen- ring av Europaparlamentets och
-tets och rådets förordning (EG) rådets förordning (EG)
-nr 715/2007 om typgodkänn- nr 715/2007 om typgodkänn-
-ande av motorfordon med avse- ande av motorfordon med av-
-ende på utsläpp från lätta per- seende på utsläpp från lätta per-
 
-sonbilar och lätta nyttofordon sonbilar och lätta nyttofordon
+bilar föras endast om fordonet
+enligt kommissionens förord-
+ning (EU) 2017/1151 om kom-
+plettering av Europaparlamen-
+tets och rådets förordning (EG)
+nr 715/2007 om typgodkänn-
+ande av motorfordon med avse-
+ende på utsläpp från lätta per-
+sonbilar och lätta nyttofordon
+
+endast om fordonet enligt kom-
+missionens    förordning
+(EU) 2017/1151 om komplette-
+ring av Europaparlamentets och
+rådets förordning (EG)
+nr 715/2007 om typgodkänn-
+ande av motorfordon med av-
+seende på utsläpp från lätta per-
+sonbilar och lätta nyttofordon
 
 1 Senaste lydelse 2018:1562.
 2 Senaste lydelse 2018:1562.
@@ -33031,7 +33177,6 @@ SOU 2026:33                              Författningsförslag
 
 6\. Fordon vars motor har an-
 passats för att uppfylla de emis-
-
 sionskrav som anges i 2 får föras i
 miljözon klass 1 till och med ut-
 gången av 2016.
@@ -33040,31 +33185,56 @@ passats för att uppfylla de emis-
 sionskrav som anges i 3 får föras i
 miljözon klass 1 till och med ut-
 gången av 2020.
-8\. Fordon vars motor har an- 6. Fordon vars motor har an-
-passats för att uppfylla de emis- passats för att uppfylla de emis-
-sionskrav som anges i 5 får föras sionskrav som anges i 5 får föras
-i miljözon klass 1.   i miljözon klass 1.
-9\. EG-mobilkran får föras i 7. EG-mobilkran får föras i
-miljözon klass 1.     miljözon klass 1.
+8\. Fordon vars motor har an-
+passats för att uppfylla de emis-
+sionskrav som anges i 5 får föras
+
+i miljözon klass 1.
+9\. EG-mobilkran får föras i
+miljözon klass 1.
+
+6\. Fordon vars motor har an-
+passats för att uppfylla de emis-
+sionskrav som anges i 5 får föras
+i miljözon klass 1.
+7\. EG-mobilkran får föras i
+miljözon klass 1.
 
 24 §4
 Vid färd i miljözon klass 1 Vid färd i miljözon klass 1
 med en tung buss eller tung med en tung buss eller tung
-lastbil som har registrerats för lastbil som har registrerats för
-mer än sex år sedan, innevarande mer än sex år sedan, innevarande
-år oräknat, ska handlingar med- år oräknat, ska handlingar med-
-föras som visar vilka emissions- föras som visar vilka emissions-
-krav som fordonets motor upp- krav som fordonets motor upp-
-fyllde vid tidpunkten för typ- fyllde vid tidpunkten för typ-
-godkännande, registrering, godkännande, registrering,
-ibruktagande eller när motorn ibruktagande eller när motorn
-anpassats enligt vad som anges i anpassats enligt vad som anges i
 
-23 § 6–8. Detta gäller dock inte 23 § 6. Detta gäller dock inte om
-om uppgiften framgår av vägtra- uppgiften framgår av vägtrafik-
-fikregistret eller om fordonet registret eller om fordonet om-
-omfattas av undantag enligt fattas av undantag enligt 11 kap.
-11 kap. 4 § eller 13 kap. 3 § 13. 4 § eller 13 kap. 3 § 13.
+lastbil som har registrerats för
+mer än sex år sedan, innevarande
+år oräknat, ska handlingar med-
+föras som visar vilka emissions-
+krav som fordonets motor upp-
+fyllde vid tidpunkten för typ-
+godkännande, registrering,
+ibruktagande eller när motorn
+anpassats enligt vad som anges i
+23 § 6–8. Detta gäller dock inte
+om uppgiften framgår av vägtra-
+fikregistret eller om fordonet
+omfattas av undantag enligt
+
+11 kap. 4 § eller 13 kap. 3 § 13.
+
+lastbil som har registrerats för
+mer än sex år sedan, innevarande
+år oräknat, ska handlingar med-
+föras som visar vilka emissions-
+krav som fordonets motor upp-
+fyllde vid tidpunkten för typ-
+godkännande, registrering,
+ibruktagande eller när motorn
+anpassats enligt vad som anges i
+23 § 6. Detta gäller dock inte om
+uppgiften framgår av vägtrafik-
+registret eller om fordonet om-
+fattas av undantag enligt 11 kap.
+
+4 § eller 13 kap. 3 § 13.
 
 4 Senaste lydelse 2018:1562.
 
@@ -33076,17 +33246,27 @@ Författningsförslag                        SOU 2026:33
 
 24 a §5
 Vid färd i miljözon klass 2 Vid färd i miljözon klass 2, 3
-
 eller 3 ska handlingar medföras eller 4 ska handlingar medföras
-som visar vilka emissionskrav som visar vilka emissionskrav
-som fordonets motor uppfyllde som fordonets motor uppfyllde
-vid tidpunkten för typgodkänn- vid tidpunkten för typgodkänn-
-ande, registrering eller ibruktag- ande, registrering eller ibruktag-
-ande. Detta gäller dock inte om ande. Detta gäller dock inte om
-uppgiften framgår av vägtrafik- uppgiften framgår av vägtrafik-
-registret eller om fordonet om- registret eller om fordonet om-
-fattas av undantag enligt 11 kap. fattas av undantag enligt 11 kap.
-4 § eller 13 kap. 3 § 13. 4 § eller 13 kap. 3 § 13.
+
+som visar vilka emissionskrav
+som fordonets motor uppfyllde
+vid tidpunkten för typgodkänn-
+ande, registrering eller ibruktag-
+ande. Detta gäller dock inte om
+uppgiften framgår av vägtrafik-
+registret eller om fordonet om-
+fattas av undantag enligt 11 kap.
+4 § eller 13 kap. 3 § 13.
+
+som visar vilka emissionskrav
+som fordonets motor uppfyllde
+vid tidpunkten för typgodkänn-
+ande, registrering eller ibruktag-
+ande. Detta gäller dock inte om
+uppgiften framgår av vägtrafik-
+registret eller om fordonet om-
+fattas av undantag enligt 11 kap.
+4 § eller 13 kap. 3 § 13.
 
 11 kap.
 4 §6
@@ -33100,11 +33280,11 @@ sköterska, barnmorska eller veterinär.
 läkare eller sjukvårdsanstalt.
 3\. Fordon som används vid räddningstjänst.
 4\. Fordon som används i andra jämförliga trängande fall.
+
 5\. Utryckningsfordon i andra fall än som avses i 1–4.
 6\. Fordon som definieras som 6. Fordon som definieras som
 veteranfordon i 2 kap. 2 § vägtra- veteranfordon i 2 kap. 2 § vägtra-
 fikskattelagen (2006:227). Vete- fikskattelagen (2006:227). Vete-
-
 ranfordon får dock inte föras i en ranfordon får dock inte föras i en
 miljözon klass 3.     miljözon klass 3 eller 4.
 7\. Fordon som används av personal inom Kriminalvården vid
@@ -33329,7 +33509,6 @@ rubriken närmast före 3 § 2017:1298.
 SOU 2026:33                              Författningsförslag
 
 15.7  Förslag till förordning om ändring i förordningen
-
 (2025:589) om reduktion av växthusgasutsläpp
 från bensin och diesel
 
@@ -33349,6 +33528,7 @@ mentets och rådets direktiv (EU)
 2018/2001 av den 11 december
 2018 om främjande av använd-
 ningen av energi från förnybara
+
 energikällor och som används för
 motordrift,
 förnybara bränslen: biodrivmedel och förnybara bränslen av icke-
@@ -33356,19 +33536,32 @@ biologiskt ursprung,
 förnybara bränslen av icke- förnybara bränslen av icke-
 biologiskt ursprung: flytande biologiskt ursprung: flytande och
 bränslen vars energiinnehåll gasformiga bränslen vars energi-
-hämtas från andra förnybara innehåll hämtas från andra för-
-energikällor än biomassa, nybara energikällor än biomassa,
-operatör av en laddningsstation: operatör av en laddningsstation:
 
-den som ansvarar för förvaltning den som ansvarar för förvaltning
-och drift av en eller flera ladd- och drift av en eller flera ladd-
-ningspunkter på en laddnings- ningspunkter på en laddnings-
-station och som tillhandahåller station och som tillhandahåller
-en laddningstjänst till slut- en laddningstjänst till slut-
-användare, även när detta utförs användare, även när detta utförs
-på uppdrag av en leverantör av på uppdrag av en leverantör av
-mobilitetstjänster och i leveran- mobilitetstjänster och i leveran-
-törens namn.          törens namn,
+hämtas från andra förnybara
+energikällor än biomassa,
+operatör av en laddningsstation:
+den som ansvarar för förvaltning
+och drift av en eller flera ladd-
+ningspunkter på en laddnings-
+station och som tillhandahåller
+en laddningstjänst till slut-
+användare, även när detta utförs
+på uppdrag av en leverantör av
+mobilitetstjänster och i leveran-
+törens namn.
+
+innehåll hämtas från andra för-
+nybara energikällor än biomassa,
+operatör av en laddningsstation:
+den som ansvarar för förvaltning
+och drift av en eller flera ladd-
+ningspunkter på en laddnings-
+station och som tillhandahåller
+en laddningstjänst till slut-
+användare, även när detta utförs
+på uppdrag av en leverantör av
+mobilitetstjänster och i leveran-
+törens namn,
 
 691
 
@@ -33516,7 +33709,6 @@ SOU 2026:33                              Författningsförslag
 
 Ombud får även anlitas av
 följande:
-
 1\. operatör av en tanknings-
 station,
 2\. leverantör av flytande förny-
@@ -33528,6 +33720,7 @@ dukter som används för att pro-
 ducera konventionella drivmedel
 och som är förnybara bränslen av
 icke-biologiskt ursprung eller
+
 vätgas.
 
 20 §
@@ -33543,15 +33736,24 @@ Ett överskott som uppkom- Ett överskott som uppkom-
 mit under ett kalenderår får mit under ett kalenderår får
 användas för att uppfylla reduk- användas för att uppfylla reduk-
 tionsplikten under det följande tionsplikten under det följande
-kalenderåret. I ett sådant fall får kalenderåret. I ett sådant fall får
-överskottet endast användas till överskottet endast användas till
-den del det motsvarar högst den del det motsvarar högst
-10 procent av den totala ut- 20 procent av den totala ut-
-släppsminskning som ska upp- släppsminskning som ska upp-
 
-nås enligt 5 § lagen (2017:1201) nås enligt 5 § lagen (2017:1201)
-om reduktion av växthusgasut- om reduktion av växthusgasut-
-släpp från bensin och diesel. släpp från bensin och diesel.
+kalenderåret. I ett sådant fall får
+överskottet endast användas till
+den del det motsvarar högst
+10 procent av den totala ut-
+släppsminskning som ska upp-
+nås enligt 5 § lagen (2017:1201)
+om reduktion av växthusgasut-
+släpp från bensin och diesel.
+
+kalenderåret. I ett sådant fall får
+överskottet endast användas till
+den del det motsvarar högst
+20 procent av den totala ut-
+släppsminskning som ska upp-
+nås enligt 5 § lagen (2017:1201)
+om reduktion av växthusgasut-
+släpp från bensin och diesel.
 
 695
 
@@ -33561,17 +33763,24 @@ Författningsförslag                        SOU 2026:33
 
 25 §
 Den reduktionspliktsavgift Den reduktionspliktsavgift
-
 som  avses i 10 § lagen som avses i 10 § lagen
-(2017:1201) om reduktion av (2017:1201) om reduktion av
-växthusgasutsläpp från bensin växthusgasutsläpp från bensin
-och diesel ska vara   och diesel ska vara 6,50 kronor
-1\. fem kronor per kilogram kol- per kilogram koldioxidekvival-
-dioxidekvivalenter, om avgiften av- enter, om avgiften avser bensin
-ser bensin, och       eller diesel.
+
+(2017:1201) om reduktion av
+växthusgasutsläpp från bensin
+och diesel ska vara
+1\. fem kronor per kilogram kol-
+dioxidekvivalenter, om avgiften av-
+ser bensin, och
 2\. fyra kronor per kilogram kol-
 dioxidekvivalenter, om avgiften
 avser diesel.
+
+(2017:1201) om reduktion av
+växthusgasutsläpp från bensin
+och diesel ska vara 6,50 kronor
+per kilogram koldioxidekvival-
+enter, om avgiften avser bensin
+eller diesel.
 
 Denna förordning träder i kraft den 1 januari 2028.
 
@@ -36689,125 +36898,169 @@ persontransporter
 
 <!-- sida 825 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Kronologisk förteckning
 
-1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
-utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
-på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
-A.                     – förslag för att motverka
-4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
-ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
-m.m. Fi.               kommunalskattesatser. Fi.
-6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
-hälso- och sjukvården. Styrning med Ju.
-tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
-S.                     i samverkan. Nationella åtgärder för
-7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
-av folkhälsopolitiken. vid brist. S.
-Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
-genom hälsoekonomiska analyser. mot barntolkning. A.
-Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
-politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+1\. Skatteincitament för forskning och
+utveckling – ett nytt incitament baserat
+på utgifter för FoU-personal. Fi.
+2\. 710 miljoner skäl till reformer. Ju.
+3\. Genomförande av plattformsdirektivet.
+A.
+4\. Rektor i fokus – förutsättningar för
+ett pedagogiskt ledarskap. U.
+5\. Utvidgad avdragsrätt för sponsring
+m.m. Fi.
+6\. En nationell digital infrastruktur i
+hälso- och sjukvården. Styrning med
+tydliga roller och ansvar för aktörerna.
+S.
+7\. Förstärkt uppföljning och utvärdering
+av folkhälsopolitiken.
+Del I: Effektivare folkhälsoinsatser
+genom hälsoekonomiska analyser.
+Del II: Utvärdering av alkohol-
+politikens styrmedel. S.
+8\. Rättssäker samhällsvård för barn och
 unga. S.
-26\. Digitala verktyg inom bolagsrätten.
-9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
-brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
-verksamhet och tillgångar till Tredje rapportering. Ju.
-och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
-verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
-AP-fonden. Fi.         för pälsproduktion. LI.
-13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
-med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+9\. Registrering av EES-medborgare. Ju.
+10\. Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. Ju.
+11\. Om överföring av Första AP-fondens
+verksamhet och tillgångar till Tredje
+och Fjärde AP-fonderna. Fi.
+12\. Om överföring av Sjätte AP-fondens
+verksamhet och tillgångar till Andra
+AP-fonden. Fi.
+13\. Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar. Ju.
+14\. Ädelmetallutredningen – en modernise-
 rad reglering av handel med ädelmetall-
-32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
-ningar att ta emot stora företagsetable-
-15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
-ett fossilfritt samhälle. KN.
 16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
 
+17\. Öresundsförbindelser 2050 – behov
+av kapacitet, redundans och svenskt-
+danskt samarbete. LI.
+18\. Odlingstorv och klimatet. Fi.
+19\. Stärkt tillsyn och uppföljning
+– förslag för att motverka
+oegentlig läkemedelsförskrivning. S.
+20\. Belägg för broms? Åtgärder
+för starkare incitament till lägre
+kommunalskattesatser. Fi.
+21\. Återkallelse av svenskt medborgarskap.
+Ju.
+22\. Stärkt läkemedelsförsörjning
+i samverkan. Nationella åtgärder för
+fördelning, omfördelning och inköp
+vid brist. S.
+23\. Tolkavgift och förbud
+mot barntolkning. A.
+24\. Mervärdesskatt vid uthyrning
+och överlåtelse av fastighet. Fi.
+25\. Ett smittskydd för framtiden. S.
+26\. Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. Ju.
+27\. Lättnader i kraven på hållbarhets-
+rapportering. Ju.
+28\. Tillgång till passageraruppgifter
+i brottsbekämpningen. Ju.
+29\. Förbud mot uppfödning av djur
+för pälsproduktion. LI.
+30\. Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. Ju.
+31\. Ett investeringsprogram för kultur. Ku.
+32\. Att säga ja! Kommunernas förutsätt-
+ningar att ta emot stora företagsetable-
+ringar och företagsexpansioner. KN.
+33\. Vägen mot utfasning. Styrmedel för
+ett fossilfritt samhälle. KN.
+
 <!-- sida 826 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Digitala verktyg inom bolagsrätten.
-Genomförande av plattformsdirektivet. [3] Genomförande av EU:s direktiv om
-ytterligare digitalisering inom bolags-
+Arbetsmarknadsdepartementet
+Genomförande av plattformsdirektivet. [3]
 Tolkavgift och förbud mot barntolkning.
-rätten. [26]
 [23]
-Lättnader i kraven på hållbarhets-
-rapportering. [27]
+
 Finansdepartementet
-Tillgång till passageraruppgifter
 Skatteincitament för forskning och ut-
-i brottsbekämpningen. [28]
 veckling – ett nytt incitament baserat
-Mer flexibla regler om verkställighet av
 på utgifter för FoU-personal. [1]
-häktning och fängelsestraff. [30]
 Utvidgad avdragsrätt för sponsring m.m.
 [5]
-Klimat- och näringslivsdepartementet
 Om överföring av Första AP-fondens
-verksamhet och tillgångar till Tredje Ädelmetallutredningen – en moderniserad
-och Fjärde AP-fonderna. [11] reglering av handel med ädelmetallarbeten.
-[14]
+verksamhet och tillgångar till Tredje
+och Fjärde AP-fonderna. [11]
 Om överföring av Sjätte AP-fondens
-verksamhet och tillgångar till Andra Att säga ja! Kommunernas förutsättningar
-AP-fonden. [12]        att ta emot stora företagsetableringar
-och företagsexpansioner. [32]
+verksamhet och tillgångar till Andra
+AP-fonden. [12]
 Odlingstorv och klimatet. [18]
-Vägen mot utfasning. Styrmedel för
 Belägg för broms? Åtgärder för starkare
-ett fossilfritt samhälle. [33]
 incitament till lägre kommunal-
 skattesatser. [20]
-Kulturdepartementet
 Mervärdesskatt vid uthyrning och
-överlåtelse av fastighet. [24] Marken, vattnet, tankarna.
-Konsekvenser för samer av svensk
-politik. Volym 1 och 2. [15]
+överlåtelse av fastighet. [24]
 Försvarsdepartementet
-Ett investeringsprogram för kultur. [31]
 Försvarsexportinitiativ. För gemensam
 säkerhet. [16]
-Landsbygds- och
-infrastrukturdepartementet
 Justitiedepartementet
-Öresundsförbindelser 2050 – behov av
 710 miljoner skäl till reformer. [2]
-kapacitet, redundans och svenskt-danskt
 Registrering av EES-medborgare. [9]
-samarbete. [17]
 Ökade möjligheter till tillgångsinriktad
-Förbud mot uppfödning av djur
 brottsbekämpning. Del 1 och 2. [10]
-för pälsproduktion. [29]
 Straffansvar för deltagande i och samröre
 med kriminella sammanslutningar.
-Socialdepartementet
 [13]
-En nationell digital infrastruktur i hälso-
 Återkallelse av svenskt medborgarskap.
-och sjukvården. Styrning med tydliga
 [21]
+
+Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. [26]
+Lättnader i kraven på hållbarhets-
+rapportering. [27]
+Tillgång till passageraruppgifter
+i brottsbekämpningen. [28]
+Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. [30]
+Klimat- och näringslivsdepartementet
+Ädelmetallutredningen – en moderniserad
+reglering av handel med ädelmetallarbeten.
+[14]
+Att säga ja! Kommunernas förutsättningar
+att ta emot stora företagsetableringar
+och företagsexpansioner. [32]
+Vägen mot utfasning. Styrmedel för
+ett fossilfritt samhälle. [33]
+Kulturdepartementet
+Marken, vattnet, tankarna.
+Konsekvenser för samer av svensk
+politik. Volym 1 och 2. [15]
+Ett investeringsprogram för kultur. [31]
+Landsbygds- och
+infrastrukturdepartementet
+Öresundsförbindelser 2050 – behov av
+kapacitet, redundans och svenskt-danskt
+samarbete. [17]
+Förbud mot uppfödning av djur
+för pälsproduktion. [29]
+Socialdepartementet
+En nationell digital infrastruktur i hälso-
+och sjukvården. Styrning med tydliga
 roller och ansvar för aktörerna. [6]
 
 <!-- sida 827 -->

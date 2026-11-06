@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e78245d19a7bafa93f13df8/1763126440
 sha256: e1e854bdd5c335e5564520902a6ee31c97e887dc63346ec4e438b86efc5df417
 bytes: 16227751
 sidor: 255
-hamtad: 2026-10-23T06:42:18+00:00
-konverterad: 2026-10-23T06:43:33+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:21:40+00:00
+konverterad: 2026-11-06T08:23:01+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4017,27 +4017,47 @@ topparna, samtidigt som dalarna blivit djupare”, säger Ola Bergqvist
 
 på Treudden Transport i Växjö.
 
-Alla tjugofem anställda på Treudden är lastbilschaufförer Har ni behövt säga upp medarbetare på grund
-i grunden, vilket innebär att kontorspersonalen kan ta av lågkonjunkturen?
-körningar vid behov och tvärtom.  – Nej, vi har medarbetare som förstår läget och företagets
-förutsättningar. Det svåra är att vi har kvar topparna i
+Alla tjugofem anställda på Treudden är lastbilschaufförer
+i grunden, vilket innebär att kontorspersonalen kan ta
+körningar vid behov och tvärtom.
 
-– Det är en fördel att alla vet hur det fungerar där ute och verksamheten, samtidigt som dalarna blivit allt djupare.
-det skapar även en flexibilitet i företaget, säger ägaren Ola Det påverkar lönsamheten i företaget.
+– Det är en fördel att alla vet hur det fungerar där ute och
+det skapar även en flexibilitet i företaget, säger ägaren Ola
 Bergqvist som precis avslutat ett pass i lastbilen.
-Hur ser du på möjligheten att rekrytera framåt?
-Den lågkonjunktur Sverige befunnit sig i sedan 2023 har – En effekt av läget på marknaden är att det blivit lättare
-påverkat efterfrågan på godstransporter, särskilt i vissa att hitta bra förare. Vi har inga planer på att utöka
-branscher. När det gäller livsmedelsverksamheten har verksamheten just nu, men vi har viss personalomsättning.
-Växjöåkeriet inte märkt någon större skillnad. Däremot är Då är det positivt att det finns mer kompetens att tillgå.
+
+Den lågkonjunktur Sverige befunnit sig i sedan 2023 har
+påverkat efterfrågan på godstransporter, särskilt i vissa
+branscher. När det gäller livsmedelsverksamheten har
+Växjöåkeriet inte märkt någon större skillnad. Däremot är
 det stor variation på uppdragen för företagets betongbilar.
-Allt fler kvinnor söker sig till lastbilföraryrket,
-– Vi har klarat oss bra fram till nu. De byggen som hur ser du på den trenden?
-påbörjades innan lågkonjunkturen har fortsatt som – Det är positivt – vi har själva rekryterat tre kvinnliga
-planerat, men nu ser vi en nedåtgående trend på förare de senaste åren. Jag upplever att medarbetare som
-betongsidan. Tidigare hade vi körningar inbokade hela verkligen valt yrket har bättre förståelse för branschen och
-veckan, nu är det mer förfrågningar från dag till dag vilket snabbare inlärningskurva.
+
+– Vi har klarat oss bra fram till nu. De byggen som
+påbörjades innan lågkonjunkturen har fortsatt som
+planerat, men nu ser vi en nedåtgående trend på
+betongsidan. Tidigare hade vi körningar inbokade hela
+veckan, nu är det mer förfrågningar från dag till dag vilket
 gör det svårare att planera.
+
+Har ni behövt säga upp medarbetare på grund
+av lågkonjunkturen?
+– Nej, vi har medarbetare som förstår läget och företagets
+förutsättningar. Det svåra är att vi har kvar topparna i
+verksamheten, samtidigt som dalarna blivit allt djupare.
+Det påverkar lönsamheten i företaget.
+
+Hur ser du på möjligheten att rekrytera framåt?
+– En effekt av läget på marknaden är att det blivit lättare
+att hitta bra förare. Vi har inga planer på att utöka
+verksamheten just nu, men vi har viss personalomsättning.
+Då är det positivt att det finns mer kompetens att tillgå.
+
+Allt fler kvinnor söker sig till lastbilföraryrket,
+hur ser du på den trenden?
+– Det är positivt – vi har själva rekryterat tre kvinnliga
+förare de senaste åren. Jag upplever att medarbetare som
+verkligen valt yrket har bättre förståelse för branschen och
+snabbare inlärningskurva.
+
 Hur viktig är transportutbildningen för den framtida
 kompetensförsörjningen?
 – Väldigt viktig. Vi tar regelbundet emot APL-elever.
@@ -6392,31 +6412,43 @@ chef Malin Normann.       ESO varnar för ökad politisering. verksamhet åt?
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 När   förvaltningen
 INNEHÅLL
-blir  politikens       scen
+
+blir  politikens      scen
 OKTOBER   2025
 
-Det sägs att svensk välfärd styrs av lag, av kunskap och av professi- 3 Politisering
-on. Men allt oftare styrs den av politikens behov av att synas. Politik flyttar in i förvaltningen,
-ESO varnar för ökad politisering.
+Det sägs att svensk välfärd styrs av lag, av kunskap och av professi-
+on. Men allt oftare styrs den av politikens behov av att synas.
 I kommun efter kommun ser vi hur förvaltningar politiseras. Social-
 tjänsten blir spelplan för symbolpolitik, äldreomsorgen en arena för
-5   SBU Växlar upp
 partipolitiska profileringar. En ny lag, en ny styrmodell, en ny organi-
-En intervju om SBUs roll med
 sationsförändring - allt i reformens namn, men sällan med uthållighet
-den nya socialtjänstlagen.
 nog att ge effekt. När den politiska cykel är fyra år, men stora föränd-
 ringar tar tio, uppstår en systemisk kortslutning.
-7   Månadens djupdykning
-Förvaltningen ska vara långsam av en anledning. Den ska stå för Hur skiljer sig privat och enskild
-kontinuitet när politiken byter riktning. Men i dagens styrkedja är hemtjänst sig åt?
+
+Förvaltningen ska vara långsam av en anledning. Den ska stå för
+kontinuitet när politiken byter riktning. Men i dagens styrkedja är
 det snarare snabbheten som premieras. Kommunchefer förväntas
+
+3    Politisering
+Politik flyttar in i förvaltningen,
+ESO varnar för ökad politisering.
+
+5    SBU Växlar upp
+En intervju om SBUs roll med
+den nya socialtjänstlagen.
+
+7    Månadens djupdykning
+Hur skiljer sig privat och enskild
+hemtjänst sig åt?
+
 leverera resultat i takt med mediecykeln, inte med verklighetens tid. 9 Krafttag i Uddevalla
 Det är ett högt spel och det är omsorgens personal och brukare som Intervju med Malin Normann,
 får ta notan.                                       socialchef i Uddevalla kommun.
+
 Att professionalisera omsorgen handlar därför inte bara om utbild-
 11     Socialchefsrapporten
 ning, evidens och verktyg, utan också om att återupprätta förvalt-
@@ -6430,11 +6462,15 @@ farenhet. Men frågan är om den politiska nivån klarar av att ge lagen
 korthet.
 det den mest av allt behöver: tid.
 I detta nummer av Werkets Månadsrapport tittar vi närmare på hur
+
 SBU kommer stötta socialtjänsten i kommunerna, politiseringen av
+
 förvaltningarna, hur privat och offentlig hemtjänst skiljer sig åt samt
 en lång intervju med socialchef Malin Normann i Uddevalla och
 mycket mer.
+
 Trevlig läsning!
+
 Björn       Elmqvist
 
 (e-post borttagen) | (mobilnummer borttaget)
@@ -6447,7 +6483,8 @@ Björn       Elmqvist
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Expertgruppen för studier i offentlig ekonomi (ESO)
 
 Politiken       flyttar    in  i kommunhuset
@@ -6455,79 +6492,117 @@ Politiken       flyttar    in  i kommunhuset
 \-  ESO     varnar       för   ökad      politisering
 
 Kommunchefer  som tidigare kandiderat för det styrande partiet har större chans
-
 att få jobbet – och större risk att förlora det när makten skiftar. En ny rapport från
 Expertgruppen för studier i offentlig ekonomi (ESO) visar att politiska hänsyn allt
 
 oftare styr vem som leder kommunernas förvaltningar. Forskarna varnar för att
 gränsen mellan politik och förvaltning håller på att suddas ut.
 
-Svenska kommunchefer har en central återkommande mönster: att tappa sin neutralitet och kontinuitet,
-roll i styrkedjan mellan politik och för-          vilket kan leda till ineffektivitet, svaga-
-•  Kommunchefer med tidigare par-
-valtning. De leder verksamheten utifrån            re kompetensförsörjning och minskat
-tipolitisk koppling till det styrande
-kommunstyrelsens mål, har det övergri-             förtroende.
-partiet anställs oftare.
+Svenska kommunchefer har en central
+roll i styrkedjan mellan politik och för-
+valtning. De leder verksamheten utifrån
+kommunstyrelsens mål, har det övergri-
 pande ansvaret för organisationen och
-”Att bemanna förvaltningen efter politis-
-fungerar som länken mellan de folkvalda • När kommunledningen byts ut, sär-
-ka preferenser kan kortsiktigt underlätta
-och tjänstemännen. Samtidigt är de inte skilt vid maktskiften mellan partier,
-för ett styre att genomföra sin poli-
-folkvalda, utan ska verka professionellt ökar sannolikheten att kommunche-
-tik, men på längre sikt riskerar det att
-och opartiskt oavsett politiskt styre. fen lämnar sin post.
-urholka förvaltningens självständighet”,
-Men i praktiken tycks den gränsen ha • Effekten är något svagare men fort- skriver författarna.
-försvagats. I ESO-rapporten Lika barn farande märkbar även vid byte av
-Samtidigt pekar rapporten på att
-leka bäst – en rapport om politisering av kommunstyrelsens ordförande inom
-politiseringen ofta sker i det tysta.
-kommunchefsposten (ESO 2025:6) har samma parti.
-Kommunallagen reglerar varken hur
+fungerar som länken mellan de folkvalda
+och tjänstemännen. Samtidigt är de inte
+folkvalda, utan ska verka professionellt
+och opartiskt oavsett politiskt styre.
+Men i praktiken tycks den gränsen ha
+försvagats. I ESO-rapporten Lika barn
+leka bäst – en rapport om politisering av
+kommunchefsposten (ESO 2025:6) har
 forskarna Nora Anter, Rasmus Broms
-•  Kommunchefer som återvänder till kommunchefer ska rekryteras eller på
 och Emanuel Wittberg analyserat samt-
-yrket tenderar att få nya uppdrag i vilka grunder de får avsättas. I praktiken
 liga kommunchefers karriärutfall mellan
-kommuner där samma parti styr som har kommunstyrelsen nästan full frihet
 1973 och 2024. Resultatet visar att
-vid deras tidigare anställning. att tillsätta eller entlediga sin högsta
 politiska överväganden fått ett allt större
-tjänsteman. De flesta kommunchefer har
-Forskarna ser dessutom en tydlig
 genomslag i tillsättningar, avgångar och
-så kallade VD-avtal, vilket innebär att
-förändring över tid. Under 1970- och
 återanställningar.
-anställningsskyddet enligt LAS förhand-
-80-talen, när de flesta kommunche-
-”Kommunchefer som tidigare kandide-                lats bort.
-fer hade en mer administrativ roll och
+
+”Kommunchefer som tidigare kandide-
 rat för det styrande partiet har en klart
-ofta kallades kanslichefer, var politiska Det är därför fullt lagligt – men inte alltid
 högre sannolikhet att anställas i just den
-hänsyn mindre vanliga. I takt med att legitimt – att avsätta en kommunchef
 kommunen”, konstaterar forskarna. ”Och
-uppdraget professionaliserats och fått efter ett maktskifte.
 när makten skiftar ökar risken att de som
-ett starkare strategiskt och politiskt
-rekryterats under det avgående styret              Stockholm det enda öppna exemplet
-inslag – inte minst under 1990-talet – har
+rekryterats under det avgående styret
 får lämna.”
-också politiseringen ökat. Stockholm är den enda kommun i lan-
-Tydliga mönster vid maktskiften                    det som öppet tillämpar en politiserad
-Risk för urholkad opartiskhet
-modell. När en ny majoritet tar över byts
+Tydliga mönster vid maktskiften
+
 Studien bygger på två omfattande
-ESO-rapporten beskriver politisering stadsdirektören ut. Stadsledningen moti-
 datamaterial med uppgifter om samtli-
-som en risk för både rättssäkerhet och verar ordningen med att den underlättar
 ga kommunchefer och kommunstyren
-effektivitet. En förvaltning som beman- styrningen av en komplex organisation
 under drygt femtio år. Analysen visar
-nas utifrån partipolitiska hänsyn riskerar och tydliggör ansvaret.
+
+återkommande mönster:
+• Kommunchefer med tidigare par-
+tipolitisk koppling till det styrande
+partiet anställs oftare.
+
+• När kommunledningen byts ut, sär-
+skilt vid maktskiften mellan partier,
+ökar sannolikheten att kommunche-
+fen lämnar sin post.
+• Effekten är något svagare men fort-
+farande märkbar även vid byte av
+kommunstyrelsens ordförande inom
+samma parti.
+
+• Kommunchefer som återvänder till
+yrket tenderar att få nya uppdrag i
+kommuner där samma parti styr som
+vid deras tidigare anställning.
+Forskarna ser dessutom en tydlig
+förändring över tid. Under 1970- och
+80-talen, när de flesta kommunche-
+fer hade en mer administrativ roll och
+ofta kallades kanslichefer, var politiska
+hänsyn mindre vanliga. I takt med att
+uppdraget professionaliserats och fått
+ett starkare strategiskt och politiskt
+inslag – inte minst under 1990-talet – har
+också politiseringen ökat.
+
+Risk för urholkad opartiskhet
+ESO-rapporten beskriver politisering
+som en risk för både rättssäkerhet och
+effektivitet. En förvaltning som beman-
+nas utifrån partipolitiska hänsyn riskerar
+
+att tappa sin neutralitet och kontinuitet,
+vilket kan leda till ineffektivitet, svaga-
+re kompetensförsörjning och minskat
+förtroende.
+”Att bemanna förvaltningen efter politis-
+ka preferenser kan kortsiktigt underlätta
+för ett styre att genomföra sin poli-
+tik, men på längre sikt riskerar det att
+urholka förvaltningens självständighet”,
+skriver författarna.
+
+Samtidigt pekar rapporten på att
+politiseringen ofta sker i det tysta.
+Kommunallagen reglerar varken hur
+kommunchefer ska rekryteras eller på
+vilka grunder de får avsättas. I praktiken
+har kommunstyrelsen nästan full frihet
+att tillsätta eller entlediga sin högsta
+tjänsteman. De flesta kommunchefer har
+så kallade VD-avtal, vilket innebär att
+anställningsskyddet enligt LAS förhand-
+lats bort.
+Det är därför fullt lagligt – men inte alltid
+legitimt – att avsätta en kommunchef
+efter ett maktskifte.
+
+Stockholm det enda öppna exemplet
+Stockholm är den enda kommun i lan-
+det som öppet tillämpar en politiserad
+modell. När en ny majoritet tar över byts
+stadsdirektören ut. Stadsledningen moti-
+verar ordningen med att den underlättar
+styrningen av en komplex organisation
+och tydliggör ansvaret.
+
 3
 
 <!-- sida 161 -->
@@ -6536,95 +6611,134 @@ nas utifrån partipolitiska hänsyn riskerar och tydliggör ansvaret.
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 I övriga kommuner sker förändringarna
-Notis
 mer diskret, ofta med hänvisning till ”nytt
-ledarskap” eller ”förbrukat förtroende”. Werket
-100   000   USK  har
+ledarskap” eller ”förbrukat förtroende”.
 Forskarna menar att detta skapar en
-kommenterar
-normativ gråzon där politiska hänsyn kan          beviljats  bevis
+normativ gråzon där politiska hänsyn kan
 påverka rekrytering och avsked utan att
-ESO:s rapport ger en sällsynt in-
-det uttalas öppet.                                Sedan den 1 juli 2023 är undersköterska
-blick i hur den kommunala makten
-en skyddad yrkestitel i Sverige. För att få
-Efterlyser transparens och ny praxis faktiskt utövas bortom formella
-använda titeln krävs ett yrkesbevis utfär-
-regelverk och organisationssche-
-Författarna vill inte lagstifta om hur            dat av Socialstyrelsen, på samma sätt som
-man. Att politiska hänsyn påverkar
-rekryteringar ska gå till, men betonar be-        för legitimerade yrken inom hälso- och
-vem som blir kommunchef är
-hovet av större öppenhet. Kommunerna              sjukvården. Syftet är att stärka kvaliteten
-inte överraskande, men rappor-
-bör tydligt redovisa hur processen ser ut         i vården och tydliggöra undersköterskans
-ten visar att fenomenet är både
-och vilka kriterier som ligger till grund för     kompetens och ansvar. Den som inte har
-systematiskt och växande. Det
-besluten.                                         bevis får inte kalla sig undersköterska i
-som tidigare sågs som enstaka
-yrkesmässiga sammanhang.
+det uttalas öppet.
+Efterlyser transparens och ny praxis
+
+Författarna vill inte lagstifta om hur
+rekryteringar ska gå till, men betonar be-
+hovet av större öppenhet. Kommunerna
+bör tydligt redovisa hur processen ser ut
+och vilka kriterier som ligger till grund för
+besluten.
 De föreslår också att kommunerna inför
-undantag framträder nu som ett
-en praxis att inte entlediga kommun- mönster.     En övergångsregel gör dock att personer
-chefer under det första året efter ett            som hade en tillsvidareanställning som
-För kommunerna innebär detta
-maktskifte. Det skulle kunna dämpa de             undersköterska när lagen trädde i kraft får
-en risk på två fronter. Dels kan
-mest politiskt färgade besluten och bidra         fortsätta använda titeln till och med den
-frekventa chefsbyten undermi-
-till större stabilitet.                           30 juni 2033 utan yrkesbevis. Socialsty-
-nera kontinuitet och strategiskt
-relsen bedömer att detta ger arbetsgivare
+en praxis att inte entlediga kommun-
+chefer under det första året efter ett
+maktskifte. Det skulle kunna dämpa de
+mest politiskt färgade besluten och bidra
+till större stabilitet.
+
 Rapporten avslutas med en uppma-
-ledarskap. Dels hotar det tilliten
-och utbildningsanordnare tid att anpassa
 ning till kommunerna att reflektera över
-till att tjänstemannaorganisationen
-sig till de nya reglerna.
 balansen mellan politisk styrning och
+administrativ autonomi. ”Kommunchefen
+är länken mellan politik och förvaltning.
+Om den länken blir alltför politiserad kan
+hela styrkedjan förskjutas.”
+
+Werket
+
+kommenterar
+
+ESO:s rapport ger en sällsynt in-
+blick i hur den kommunala makten
+faktiskt utövas bortom formella
+regelverk och organisationssche-
+man. Att politiska hänsyn påverkar
+vem som blir kommunchef är
+inte överraskande, men rappor-
+ten visar att fenomenet är både
+systematiskt och växande. Det
+som tidigare sågs som enstaka
+undantag framträder nu som ett
+mönster.
+För kommunerna innebär detta
+en risk på två fronter. Dels kan
+frekventa chefsbyten undermi-
+nera kontinuitet och strategiskt
+ledarskap. Dels hotar det tilliten
+till att tjänstemannaorganisationen
 är oberoende och rättssäker. En
-administrativ autonomi. ”Kommunchefen förvaltning som uppfattas som Fram till utgången av 2024 hade 105 121
-är länken mellan politik och förvaltning. partibunden riskerar att förlora sin personer beviljats yrkesbevis. Det gör un-
-Om den länken blir alltför politiserad kan roll som stabil kraft när det politis- dersköterskor till den näst största yrkes-
-hela styrkedjan förskjutas.” ka läget svänger.    gruppen i Socialstyrelsens register över
-legitimerad hälso- och sjukvårdspersonal
+förvaltning som uppfattas som
+partibunden riskerar att förlora sin
+roll som stabil kraft när det politis-
+ka läget svänger.
 Samtidigt är rapportens bud-
-och personal. En tidigare kartläggning från
 skap inte svartvitt. I ett allt mer
-2022 visade att det då fanns 175 305 per-
 komplext styrsystem krävs nära
-soner med yrkeskod undersköterska, vilket
 samspel mellan politik och förvalt-
-innebär att antalet bevis sannolikt kommer
 ning. Utmaningen är att upprätt-
-att öka de kommande åren.
 hålla tillräcklig politisk följsamhet
-utan att förlora den administrativa De senaste sysselsättningsuppgifterna,
-integriteten.         visar att gruppen arbetar i högre utsträck-
-ning inom vård och omsorg med boende
+utan att förlora den administrativa
+integriteten.
+
 Förslagen om ökad transparens
-än legitimerade yrkesgrupper som läkare
 och en frivillig karens mot att byta
-och sjuksköterskor, och har lägre andel
 ut kommunchefer under mandat-
-pensionerade och arbetslösa. Socialstyrel-
 periodens första år är därför värda
-sen konstaterar att införandet av yrkes-
 att ta på allvar. De skulle kunna
-beviset innebär en tydligare avgränsning
 stärka förtroendet och bidra till
-av yrkesrollen och på sikt kan bidra till
 en mer professionell hantering av
-både ökad status och högre kvalitet inom
 kommunernas högsta tjänsteman-
-äldreomsorgen.
 naposter. En fråga som i förläng-
 ningen handlar om demokratins
 funktionssätt i praktiken.
+
 4
+
+Notis
+
+100  000   USK   har
+
+beviljats  bevis
+
+Sedan den 1 juli 2023 är undersköterska
+en skyddad yrkestitel i Sverige. För att få
+använda titeln krävs ett yrkesbevis utfär-
+dat av Socialstyrelsen, på samma sätt som
+för legitimerade yrken inom hälso- och
+sjukvården. Syftet är att stärka kvaliteten
+i vården och tydliggöra undersköterskans
+kompetens och ansvar. Den som inte har
+bevis får inte kalla sig undersköterska i
+yrkesmässiga sammanhang.
+En övergångsregel gör dock att personer
+som hade en tillsvidareanställning som
+undersköterska när lagen trädde i kraft får
+fortsätta använda titeln till och med den
+30 juni 2033 utan yrkesbevis. Socialsty-
+relsen bedömer att detta ger arbetsgivare
+och utbildningsanordnare tid att anpassa
+sig till de nya reglerna.
+
+Fram till utgången av 2024 hade 105 121
+personer beviljats yrkesbevis. Det gör un-
+dersköterskor till den näst största yrkes-
+gruppen i Socialstyrelsens register över
+legitimerad hälso- och sjukvårdspersonal
+och personal. En tidigare kartläggning från
+2022 visade att det då fanns 175 305 per-
+soner med yrkeskod undersköterska, vilket
+innebär att antalet bevis sannolikt kommer
+att öka de kommande åren.
+De senaste sysselsättningsuppgifterna,
+visar att gruppen arbetar i högre utsträck-
+ning inom vård och omsorg med boende
+än legitimerade yrkesgrupper som läkare
+och sjuksköterskor, och har lägre andel
+pensionerade och arbetslösa. Socialstyrel-
+sen konstaterar att införandet av yrkes-
+beviset innebär en tydligare avgränsning
+av yrkesrollen och på sikt kan bidra till
+både ökad status och högre kvalitet inom
+äldreomsorgen.
 
 <!-- sida 162 -->
 
@@ -6632,7 +6746,8 @@ funktionssätt i praktiken.
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Statens beredning för medicinsk och social utvärdering (SBU)
 
 SBU      växlar      upp
@@ -6640,63 +6755,110 @@ SBU      växlar      upp
 för   socialtjänsten
 
 När socialtjänstlagen nu ställer krav på vetenskap och beprövad erfarenhet får
-
 Statens beredning för medicinsk och social utvärdering, SBU, en allt tyngre roll.
-Myndigheten organiserar om, startar nya verktyg för socialtjänsten och vill bidra
 
+Myndigheten organiserar om, startar nya verktyg för socialtjänsten och vill bidra
 till att göra forskningen mer tillgänglig för en sektor som ofta haft svårt att dra full
 nytta av den. Werket har fått en pratstund med Sofia Tranæus, stabschef på SBU.
 
-När SBU 2015 fick ansvaret för att ta ska utgå från vetenskap och beprövad det som inte är relevant för svenska för-
-fram vetenskapliga underlag även inom erfarenhet och myndigheten samt dess hållanden och väger sedan ihop resulta-
-socialtjänstens område var det en helt roll har vuxit. Sedan september finns en ten. Det är ofta mycket som faller bort,
-ny värld för myndigheten. Tidigare hade särskild avdelning för socialtjänstfrå- för det finns väldigt mycket forskning
-uppdraget legat hos Socialstyrelsen, gor med runt 20 medarbetare. Den är som helt enkelt inte håller tillräckligt bra
-men regeringen ville skapa tydligare uppdelad i två enheter. En för äldre- och kvalitet, säger hon.
-ansvar och minska den rörighet som funktionshinderfrågor och en för individ,
-Inom socialtjänstområdet blir den natio-
-många kommuner vittnade om. familj och samhälle.
-nella kontexten särskilt viktig.
-– I början var vi väldigt vilsna. Vi hade Der här passar oss perfekt, men
-– När det gäller läkemedel spelar det
+När SBU 2015 fick ansvaret för att ta
+fram vetenskapliga underlag även inom
+socialtjänstens område var det en helt
+ny värld för myndigheten. Tidigare hade
+uppdraget legat hos Socialstyrelsen,
+men regeringen ville skapa tydligare
+ansvar och minska den rörighet som
+många kommuner vittnade om.
+– I början var vi väldigt vilsna. Vi hade
 inga kontaktvägar och kunde inte särskilt
-det är också det svåraste vi gjort. mindre roll var i världen man bor. Men
 mycket om socialtjänsten. Många här
-inom socialt arbete påverkar lagstift-
 kom från hälso- och sjukvården, och det
-Sofia Tranæus, ning, samhällsstruktur och kultur resul-
 tog tid att förstå logiken i socialt arbe-
-stabschef taten. Därför behöver vi ofta luta oss
 te, berättar Sofia Tranæus, som då var
-mot nordisk eller svensk forskning för
 avdelningschef för socialtjänstfrågor och
-att det ska bli meningsfullt.
 i dag är stabschef på SBU.
-Vetenskap i praktiken
+
 De första åren handlade mycket om att
-bygga relationer med forskningen. Men – Den indelningen känns igen från hur Den nya socialtjänstlagen innebär att
-det var inte alltid lätt. kommunerna själva arbetar, så det arbetet i socialtjänsten ska vila på ve-
-blir lättare för dem att hitta rätt i våra tenskap och beprövad erfarenhet, något
+bygga relationer med forskningen. Men
+det var inte alltid lätt.
 – Det finns en stark tradition inom socialt
-underlag. Och det är precis det som är som enligt Tranæus är en större omställ-
 arbete av att göra samhälls- och policy-
-poängen: att det ska bli begripligt och ning för kommunerna än för SBU.
 forskning, men inte lika mycket av den
-användbart, säger Tranæus.
-tillämpade, praktiska forskning som vi             – Socialtjänsten har inte samma forsk-
-behöver kunna sammanställa. Vi försök- SBU gör ingen egen forskning, utan ningstradition som sjukvården, där det
-te få till en dialog om vad som krävs för sammanställer den som redan finns. finns etablerade professionsstrukturer
-att forskningen ska gå att använda, och Arbetet börjar med en fråga, till exem- och en vana vid vetenskap. Här handlar
-det var lite motigt i början. pel vilken insats som fungerar bäst för det mer om att bygga ett förhållnings-
-ungdomar med gängkriminell bakgrund sätt, säger hon.
+tillämpade, praktiska forskning som vi
+behöver kunna sammanställa. Vi försök-
+te få till en dialog om vad som krävs för
+att forskningen ska gå att använda, och
+det var lite motigt i början.
+
 Ny avdelning och ny riktning
-och följs av en systematisk genomgång
-För att stötta det arbetet lanserar SBU
-I dag är läget ett annat. Den nya so- av internationella studier.
-en ny webbaserad plattform vid årsskif-
+I dag är läget ett annat. Den nya so-
 cialtjänstlagen trädde i kraft i somras,
-– Vi dammsuger forskningen, rensar bort tet.
 med krav på att socialtjänstens arbete
+
+ska utgå från vetenskap och beprövad
+erfarenhet och myndigheten samt dess
+roll har vuxit. Sedan september finns en
+särskild avdelning för socialtjänstfrå-
+gor med runt 20 medarbetare. Den är
+uppdelad i två enheter. En för äldre- och
+funktionshinderfrågor och en för individ,
+familj och samhälle.
+
+Der här passar oss perfekt, men
+det är också det svåraste vi gjort.
+
+Sofia Tranæus,
+stabschef
+
+– Den indelningen känns igen från hur
+kommunerna själva arbetar, så det
+blir lättare för dem att hitta rätt i våra
+underlag. Och det är precis det som är
+poängen: att det ska bli begripligt och
+användbart, säger Tranæus.
+SBU gör ingen egen forskning, utan
+sammanställer den som redan finns.
+Arbetet börjar med en fråga, till exem-
+pel vilken insats som fungerar bäst för
+ungdomar med gängkriminell bakgrund
+och följs av en systematisk genomgång
+av internationella studier.
+– Vi dammsuger forskningen, rensar bort
+
+det som inte är relevant för svenska för-
+hållanden och väger sedan ihop resulta-
+ten. Det är ofta mycket som faller bort,
+för det finns väldigt mycket forskning
+som helt enkelt inte håller tillräckligt bra
+kvalitet, säger hon.
+Inom socialtjänstområdet blir den natio-
+nella kontexten särskilt viktig.
+
+– När det gäller läkemedel spelar det
+mindre roll var i världen man bor. Men
+inom socialt arbete påverkar lagstift-
+ning, samhällsstruktur och kultur resul-
+taten. Därför behöver vi ofta luta oss
+mot nordisk eller svensk forskning för
+att det ska bli meningsfullt.
+Vetenskap i praktiken
+
+Den nya socialtjänstlagen innebär att
+arbetet i socialtjänsten ska vila på ve-
+tenskap och beprövad erfarenhet, något
+som enligt Tranæus är en större omställ-
+ning för kommunerna än för SBU.
+– Socialtjänsten har inte samma forsk-
+ningstradition som sjukvården, där det
+finns etablerade professionsstrukturer
+och en vana vid vetenskap. Här handlar
+det mer om att bygga ett förhållnings-
+sätt, säger hon.
+
+För att stötta det arbetet lanserar SBU
+en ny webbaserad plattform vid årsskif-
+tet.
+
 5
 
 <!-- sida 163 -->
@@ -6705,83 +6867,120 @@ med krav på att socialtjänstens arbete
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-– Det blir som en ingång till vetenska- – Det var ganska massivt motstånd i är där de svåra frågorna finns, och där
-pen. Man ska kunna göra självstudier, början, men nu har flera lärosäten dok- evidensen verkligen behövs, säger hon.
-diskutera på APT och lära sig hur man torander som gör just den här typen av
-Hon avslutar med ett leende:
-läser forskning, hur man undviker dåliga studier. Det går långsamt, men det går
-underlag och hur man värjer sig mot framåt.        – Vi ska inte tala med många röster, men
-oseriösa aktörer som vill sälja insatser           vi ska tala tydligt. Och vi ska göra veten-
-Ekonomiska utvärderingar och fram-
-utan bevisad effekt. Kort sagt: hur man            skapen användbar för dem som faktiskt
-tidsfrågor
-får ett kritiskt förhållningssätt, säger           gör jobbet.
-Tranæus.                 SBU arbetar också med att utveckla
-metoder för ekonomiska utvärderingar
+WERKET MÅNADSRAPPORT
+
+– Det blir som en ingång till vetenska-
+pen. Man ska kunna göra självstudier,
+diskutera på APT och lära sig hur man
+läser forskning, hur man undviker dåliga
+underlag och hur man värjer sig mot
+oseriösa aktörer som vill sälja insatser
+utan bevisad effekt. Kort sagt: hur man
+får ett kritiskt förhållningssätt, säger
+Tranæus.
 Samtidigt ska myndigheten göra sina
-inom socialt arbete, en motsvarighet till
 egna rapporter mer tillgängliga.
-hälsoekonomin i sjukvården.
+
 – Våra rapporter är i dag helt oläsba-
-– I vården analyserar man vad som ger
 ra för många. Vi arbetar med att göra
-mest nytta för pengarna. I socialtjänsten
 korta, begripliga sammanfattningar som
-är det svårare, eftersom lagen är en rät-
 automatiskt hämtar data från våra rap-
-tighetslag. Men resurserna måste ändå
 porter och presenterar resultaten på ett
-räcka till fler, så vi behöver hitta sätt att
 lättbegripligt sätt. Man ska inte behöva
-väga kostnad och effekt utan att tumma
 sitta och lägga ihop knaster torra siffror
-på rättigheterna, förklarar Tranæus.
 själv, säger hon med ett skratt.
-Hon ser framför sig att socialtjänstens
 Fortsatt samspel med Socialstyrelsen
-vetenskapskultur successivt stärks när
-Samtidigt betonar hon vikten av att hålla fler kommuner börjar använda forskning-
-fast vid den struktur som byggdes upp sunderlag i vardagens beslut.
+
+Samtidigt betonar hon vikten av att hålla
+fast vid den struktur som byggdes upp
 efter 2015.
-– Det bästa sättet att få med sig med-
-– Vi vill undvika att socialtjänsten får arbetarna är inte att komma med krav
-budskap från flera håll. Därför fortsätter uppifrån, utan att väcka nyfikenhet. När
-vi att leverera våra underlag främst till man själv börjar leta, läsa och förstå
-Socialstyrelsen, som tar fram vägled- varför något fungerar. Då händer det på
-ningar och rekommendationer. Bara när riktigt, säger hon.
+– Vi vill undvika att socialtjänsten får
+budskap från flera håll. Därför fortsätter
+vi att leverera våra underlag främst till
+Socialstyrelsen, som tar fram vägled-
+ningar och rekommendationer. Bara när
 det saknas riktlinjer från andra myn-
-”Det här är det svåraste vi har gjort”
 digheter vänder vi oss direkt till social-
-tjänsten. Vi ska störa så lite som möjligt, För Tranæus handlar det ytterst om att
-säger hon.               SBU ska vara en stödjande, inte styran-
-de aktör.
+tjänsten. Vi ska störa så lite som möjligt,
+säger hon.
+
 Akademin behöver närma sig verklig-
-heten                    – Vårt uppdrag är smalt, men viktigt. Vi
-ska hjälpa socialtjänsten att bygga sin
+heten
 En viktig del i arbetet framåt är dialogen
-egen resa mot ett starkt vetenskapligt
 med akademin. Tranæus menar att det
-förhållningssätt. Det här passar oss per-
 behövs fler studier som mäter effekt.
-fekt men det är också det svåraste vi har
-– Lärosätena är väldigt bra på kvalitativ gjort, säger hon.
+– Lärosätena är väldigt bra på kvalitativ
 metodik, men vi behöver också effek-
-SBU:s socialtjänstavdelning arbetar
 tutvärdering. Det finns en lucka där. Vi
-redan med ett brett spektrum av projekt,
 försöker uppmuntra forskare att bredda
-från insatser för unga med kriminalitet till
 sin metodpalett, och vi erbjuder en kurs
-återgång i arbete för personer långt från
 i hur man gör sunda effektstudier. Den
-arbetsmarknaden.
 är öppen för alla, men särskilt tänkt för
-doktorander, säger hon.  – Ofta handlar det om gränslandet mel-
-lan flera samhällsaktörer; socialtjänst,
+doktorander, säger hon.
+
 Efter tio år märks förändringen.
+
+– Det var ganska massivt motstånd i
+början, men nu har flera lärosäten dok-
+torander som gör just den här typen av
+studier. Det går långsamt, men det går
+framåt.
+Ekonomiska utvärderingar och fram-
+tidsfrågor
+
+SBU arbetar också med att utveckla
+metoder för ekonomiska utvärderingar
+inom socialt arbete, en motsvarighet till
+hälsoekonomin i sjukvården.
+– I vården analyserar man vad som ger
+mest nytta för pengarna. I socialtjänsten
+är det svårare, eftersom lagen är en rät-
+tighetslag. Men resurserna måste ändå
+räcka till fler, så vi behöver hitta sätt att
+väga kostnad och effekt utan att tumma
+på rättigheterna, förklarar Tranæus.
+
+Hon ser framför sig att socialtjänstens
+vetenskapskultur successivt stärks när
+fler kommuner börjar använda forskning-
+sunderlag i vardagens beslut.
+– Det bästa sättet att få med sig med-
+arbetarna är inte att komma med krav
+uppifrån, utan att väcka nyfikenhet. När
+man själv börjar leta, läsa och förstå
+varför något fungerar. Då händer det på
+riktigt, säger hon.
+
+”Det här är det svåraste vi har gjort”
+För Tranæus handlar det ytterst om att
+SBU ska vara en stödjande, inte styran-
+de aktör.
+– Vårt uppdrag är smalt, men viktigt. Vi
+ska hjälpa socialtjänsten att bygga sin
+egen resa mot ett starkt vetenskapligt
+förhållningssätt. Det här passar oss per-
+fekt men det är också det svåraste vi har
+gjort, säger hon.
+
+SBU:s socialtjänstavdelning arbetar
+redan med ett brett spektrum av projekt,
+från insatser för unga med kriminalitet till
+återgång i arbete för personer långt från
+arbetsmarknaden.
+– Ofta handlar det om gränslandet mel-
+lan flera samhällsaktörer; socialtjänst,
 skola, civilsamhälle, arbetsgivare. Det
+
 6
+
+är där de svåra frågorna finns, och där
+evidensen verkligen behövs, säger hon.
+Hon avslutar med ett leende:
+
+– Vi ska inte tala med många röster, men
+vi ska tala tydligt. Och vi ska göra veten-
+skapen användbar för dem som faktiskt
+gör jobbet.
 
 <!-- sida 164 -->
 
@@ -6789,49 +6988,78 @@ skola, civilsamhälle, arbetsgivare. Det
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Månadens djupdykning
 
-Hur    skiljer     sig   offentlig       och     enskild
+Hur     skiljer    sig   offentlig       och     enskild
 
 hemtjänstverksamhet                       åt?
 
 I Socialstyrelsens senaste undersökningar framkommer intressanta skillnader och
-likheter inom hemtjänstens olika regiformer. På många sätt är mottagarnas upp-
 
+likheter inom hemtjänstens olika regiformer. På många sätt är mottagarnas upp-
 fattning mycket likartad, trots relativt stora skillnader i bemanningsstrategier och
+
 delaktighet.
 
-När resultaten ur Socialstyrelsens årliga mottagare per personal i offentlig regi Andelen undersköterskor är ett annat
-Enhetsundersökning om äldreomsorg kontra enskild. Dels att antalet mottaga- centralt mått som följts upp de senaste
-och kommunal hälso- och sjukvård re per personal är högre på helger än på två åren. Mellan 2024 och 2025 var an-
-publicerades i oktober visade sig flera vardagar. delen oförändrad på riksnivå, 64 procent
-intressanta saker.                                för vardagspersonalen. På helger ökade
-På riksnivå ökade måttet från 2024 till
-andelen från 57 till 58 procent.
-• Mottagartätheten har ökat inom 2025, oavsett utförare, med nästan en
-hemtjänsten            hel mottagare per personal. På vardagar
-och helger ansvarade personalen för 0,9
-• Tydliga skillnader mellan enskilda              Andelen undersköterskor i personalen
-fler mottagare 2025.
-och offentliga enheter inom hem-                är betydligt högre i offentlig än i enskild
-tjänsten på riksnivå   Under vardagar var ökningen i offentlig verksamhet, dessutom ökade skillnaden
-verksamhet större än i enskild, +0,94 från föregående år.
+När resultaten ur Socialstyrelsens årliga
+Enhetsundersökning om äldreomsorg
+och kommunal hälso- och sjukvård
+publicerades i oktober visade sig flera
+intressanta saker.
+• Mottagartätheten har ökat inom
+hemtjänsten
+
+• Tydliga skillnader mellan enskilda
+och offentliga enheter inom hem-
+tjänsten på riksnivå
 Mottagartäthet är en av de centrala frå-
+gorna i undersökningen. Den mäts som
+hemtjänsttagare per omsorgspersonal.
+
+Resultaten är uppdelade efter vardagar
+och helger och visar dels att det går fler
+
+mottagare per personal i offentlig regi
+kontra enskild. Dels att antalet mottaga-
+re per personal är högre på helger än på
+vardagar.
+På riksnivå ökade måttet från 2024 till
+2025, oavsett utförare, med nästan en
+hel mottagare per personal. På vardagar
+och helger ansvarade personalen för 0,9
+fler mottagare 2025.
+
+Under vardagar var ökningen i offentlig
+verksamhet större än i enskild, +0,94
 respektive +0,67 mottagare per per-
-gorna i undersökningen. Den mäts som              Bland vardagspersonalen sjönk andelen
 sonal. Under helgerna var det istället i
-hemtjänsttagare per omsorgspersonal.              i enskild verksamhet från 56 till 53 pro-
 enskild verksamhet som mottagartäthe-
+ten ökade mer (+1,23 per personal) än i
+offentlig regi (+0,8).
+
+Andelen undersköterskor är ett annat
+centralt mått som följts upp de senaste
+två åren. Mellan 2024 och 2025 var an-
+delen oförändrad på riksnivå, 64 procent
+för vardagspersonalen. På helger ökade
+andelen från 57 till 58 procent.
+
+Andelen undersköterskor i personalen
+är betydligt högre i offentlig än i enskild
+verksamhet, dessutom ökade skillnaden
+från föregående år.
+Bland vardagspersonalen sjönk andelen
+i enskild verksamhet från 56 till 53 pro-
 cent. Samtidigt ökade andelen i offentlig
-Resultaten är uppdelade efter vardagar ten ökade mer (+1,23 per personal) än i
 verksamhet till 67 procent.För vardag-
-och helger och visar dels att det går fler offentlig regi (+0,8).
+
+Antal hemtjänsttagare per en omsorgspersonal
+
 Riket          Riket Enskild    Riket Offentlig
 
-2024     2025     2024    2025     2024     2025
-
-7
+2024    2025     2024     2025    2024     2025
 ,lanosrep
 rep
 eragattoM
@@ -6840,7 +7068,6 @@ rep
 eragattoM
 ragadrav
 regleh
-Antal hemtjänsttagare per en omsorgspersonal
 15
 10,75
 10,06                     9,81
@@ -6857,79 +7084,133 @@ Antal hemtjänsttagare per en omsorgspersonal
 5
 0
 
+7
+
 <!-- sida 165 -->
 
 3
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-spersonal innebär det en skillnad på 14 eller enskild regi. tensnivån är högre bland personalen på
-procentenheter.                                    enheter i offentlig regi.
-Bland mottagare av hemtjänst i offentlig
-För helgpersonal är andelen underskö- regi hade 74 procent erbjudits en fast Vidare uppdaterar enheter i enskild regi
-terskor lägre men ökande, från 57 till 58 kontaktperson. För mottagare av hem- sina genomförandeplaner mer frekvent
-procent i riket 2025 jämfört med 2024. tjänst från enskilda verksamheter var och erbjuder fasta kontaktpersoner i
-Även i helgpersonalen är andelen under- andelen 84 procent. högre utsträckning än enheter i offentlig
-sköterskor lägre bland enskilda verksam-           regi. Ett tecken på en mer högfrekvent
-Möjligen är detta relaterat till en obser-
-heter, 48 respektive 61 procent 2025.              mottagarkontakt som möjligen även
-vation från systerundersökningen Vad
-Skillnaden är alltså ungefär lika stor som         återspeglas i att bemanningsgraden i
-tycker de äldre om äldreomsorgen? och
-för vardagspersonalen, 13 procent.                 relation till mottagarna är något högre,
-frågan kring möjligheten att påverka vil-
-om än bestående av personal med lägre
-Aktuella genomförandeplaner beskriver ken tid personalen kommer. Där påpekar
-formell kompetensnivå.
-hur den beslutade insatsen praktiskt ska mottagare av hemtjänst i enskild regi att
-genomföras. För att räknas som aktuell de oftast kan påverka i tiderna i större Enligt undersökningen Vad tycker de
-måste den ha skapats eller uppdaterats utsträckning (+7 procentenheter) jämfört äldre om äldreomsorgen? med 83 401
-under de senaste 6 månaderna. På riks- med mottagare av offentlig hemtjänst. svarande skiljer sig de äldres uppfatt-
-nivå var andelen aktuella genomförande-            ningar inte nämnvärt åt mellan regi-for-
-Svaren ovan är också de där skillnaden
-planer oförändrad från 2024, 75 procent.           merna. I centrala frågor om hälsotill-
-mellan mottagare av offentlig respektive
-Dock är det relativt stor skillnad mellan          stånd, personalens hänsyn, respekt,
-enskild regi är som störst. Detta innebär
-enskild och offentlig verksamhet även              språkkunskaper och hur de utför sina
-att de äldre inte uppfattar någon större
-här. I offentlig verksamhet sjönk andelen          arbetsuppgifter är svaren mycket likarta-
-skillnad i sin hemtjänst beroende på
-mottagare med aktuell genomförande-                de. Mot den bakgrunden är det intres-
-utförarens regiform på riksnivå.
-plan från 72 till 71 procent 2025. Inom            sant att en likvärdig nöjdhet hos motta-
-enskild verksamhet var den oförändrad Sammanfattningsvis ses tydligast skill- garna kan uppnås på flera sätt.
-på 91 procent.           nader mellan enskild och offentlig regi
-i personalfrågor både sett till personal-
+WERKET MÅNADSRAPPORT
+
+spersonal innebär det en skillnad på 14
+procentenheter.
+För helgpersonal är andelen underskö-
+terskor lägre men ökande, från 57 till 58
+procent i riket 2025 jämfört med 2024.
+Även i helgpersonalen är andelen under-
+sköterskor lägre bland enskilda verksam-
+heter, 48 respektive 61 procent 2025.
+Skillnaden är alltså ungefär lika stor som
+för vardagspersonalen, 13 procent.
+
+Aktuella genomförandeplaner beskriver
+hur den beslutade insatsen praktiskt ska
+genomföras. För att räknas som aktuell
+måste den ha skapats eller uppdaterats
+under de senaste 6 månaderna. På riks-
+nivå var andelen aktuella genomförande-
+planer oförändrad från 2024, 75 procent.
+Dock är det relativt stor skillnad mellan
+enskild och offentlig verksamhet även
+här. I offentlig verksamhet sjönk andelen
+mottagare med aktuell genomförande-
+plan från 72 till 71 procent 2025. Inom
+enskild verksamhet var den oförändrad
+på 91 procent.
 Fasta kontaktpersoner har erbjudits
-täthet och kompetensnivå, där beman-
 mottagare i olika utsträckning beroende
-ningen i genomsnitt är högre i enskild
 på om de mottagit hemtjänst i offentlig
+
+eller enskild regi.
+Bland mottagare av hemtjänst i offentlig
+regi hade 74 procent erbjudits en fast
+kontaktperson. För mottagare av hem-
+tjänst från enskilda verksamheter var
+andelen 84 procent.
+
+Möjligen är detta relaterat till en obser-
+vation från systerundersökningen Vad
+tycker de äldre om äldreomsorgen? och
+frågan kring möjligheten att påverka vil-
+ken tid personalen kommer. Där påpekar
+mottagare av hemtjänst i enskild regi att
+de oftast kan påverka i tiderna i större
+utsträckning (+7 procentenheter) jämfört
+med mottagare av offentlig hemtjänst.
+Svaren ovan är också de där skillnaden
+mellan mottagare av offentlig respektive
+enskild regi är som störst. Detta innebär
+att de äldre inte uppfattar någon större
+skillnad i sin hemtjänst beroende på
+utförarens regiform på riksnivå.
+
+Sammanfattningsvis ses tydligast skill-
+nader mellan enskild och offentlig regi
+i personalfrågor både sett till personal-
+täthet och kompetensnivå, där beman-
+ningen i genomsnitt är högre i enskild
 verksamhet medan den formella kompe-
-Riket            Riket Enskild      Riket Offentlig
 
-2024      2025     2024      2025     2024      2025
+Andel omsorgspersonal som är undersköterskor
 
-8
+Riket            Riket Enskild
+
+2024      2025     2024      2025
 ,roksretöksrednu
 lednA
 ,roksretöksrednu
 lednA
 ragadrav
 regleh
-Andel omsorgspersonal som är undersköterskor
-64%       64%                         66%       67%
+64%       64%
 60%                      56%       53%
 40%
 20%
 0%
-60%   57%       58%                         60%       61%
+60%   57%       58%
 47%       48%
 40%
 20%
 0%
+
+8
+
+tensnivån är högre bland personalen på
+enheter i offentlig regi.
+Vidare uppdaterar enheter i enskild regi
+sina genomförandeplaner mer frekvent
+och erbjuder fasta kontaktpersoner i
+högre utsträckning än enheter i offentlig
+regi. Ett tecken på en mer högfrekvent
+mottagarkontakt som möjligen även
+återspeglas i att bemanningsgraden i
+relation till mottagarna är något högre,
+om än bestående av personal med lägre
+formell kompetensnivå.
+
+Enligt undersökningen Vad tycker de
+äldre om äldreomsorgen? med 83 401
+svarande skiljer sig de äldres uppfatt-
+ningar inte nämnvärt åt mellan regi-for-
+merna. I centrala frågor om hälsotill-
+stånd, personalens hänsyn, respekt,
+språkkunskaper och hur de utför sina
+arbetsuppgifter är svaren mycket likarta-
+de. Mot den bakgrunden är det intres-
+sant att en likvärdig nöjdhet hos motta-
+garna kan uppnås på flera sätt.
+
+Riket Offentlig
+
+```osaker-tabell
+66%      67%
+
+60%      61%
+
+2024     2025
+```
 
 <!-- sida 166 -->
 
@@ -6937,7 +7218,8 @@ Andel omsorgspersonal som är undersköterskor
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Hemtjänst
 
 Krafttag        i Uddevallas           hemtjänst:
@@ -6946,59 +7228,104 @@ nytt    ledarskap           och     kulturförändring
 
 När allvarliga brister upptäcktes inom Uddevalla kommuns natthemtjänst i somras blev
 det början på en av kommunens mest genomgripande granskningar på decennier. En hel
-arbetsgrupp stängdes av, en Lex Sarah-utredning inleddes och kommunen har nu på-
 
+arbetsgrupp stängdes av, en Lex Sarah-utredning inleddes och kommunen har nu på-
 börjat ett omfattande kvalitetsarbete. I vår intervju beskriver Uddevallas socialtjänstchef
 Malin Normann hur krishanteringen blev startpunkten.
 
-–Det var en chock för alla, men också enstaka misstag utan om systemfel. tation. Vi behövde veta när det hände,
-ett uppvaknande, säger socialchefen Vi behövde stanna upp och se hela verk- vem som var på plats och vad följden
-Malin Normann när Werket träffar henne samheten med nya ögon, säger hon. blev, förklarar hon.
+–Det var en chock för alla, men också
+ett uppvaknande, säger socialchefen
+Malin Normann när Werket träffar henne
 på socialförvaltningen i Uddevalla.
-Avstängning och parallella utredningar Det handlar inte om att peka finger
 En ny chef började ställa frågor
-I slutet av sommaren fattade kommunen När Malin Normann beskriver vad som
-Det var när en ny enhetschef tog över beslutet att stänga av en hel arbets- gått fel återkommer hon till att pro-
-nattverksamheten, den del av hemtjäns- grupp medan utredningarna pågick. blemen inte kan förklaras av enskilda
-ten som bland annat hanterar trygghets-            personer.
-– Det var inget lätt beslut. Men för att
+
+Det var när en ny enhetschef tog över
+nattverksamheten, den del av hemtjäns-
+ten som bland annat hanterar trygghets-
 larm och matdistribution under natten
-skydda både brukare och medarbeta- – Det här är inte en fråga om synda-
 som det hela upptäcktes.
-re behövde vi agera snabbt och skapa bockar. Vi måste förstå varför det kunde
-– Hon reagerade snabbt på att schemat arbetsro. Det hade varit oansvarigt att ske. Natten är alltid speciell, alla vi
-inte gick ihop. Det var mycket tid som låta verksamheten fortsätta som vanligt, andra sover och verksamheten behöver
-inte var brukartid och flera rutiner som säger Malin Normann. kunna arbeta och agera på egen hand.
-inte följdes, berättar Malin Normann.              På så vis blir den mer isolerad än andra
-Lex Sarah-utredningen är nu avslutad,
-verksamheter, det ligger i sakens natur,
-När hon försökte ta upp det möttes hon medan de arbetsrättsliga utredningen
-säger hon.
-av ett visst motstånd, och då förstod vi fortfarande pågår.
-att något inte stod rätt till. Chefen bör-         Det skapar risker, särskilt i verksamheter
-– Varje händelse måste gås igenom i
-jade själv följa verksamheten med hög              där brukarna är helt beroende av oss.
-detalj. Vi har suttit kvällar och helger
+– Hon reagerade snabbt på att schemat
+inte gick ihop. Det var mycket tid som
+inte var brukartid och flera rutiner som
+inte följdes, berättar Malin Normann.
+
+När hon försökte ta upp det möttes hon
+av ett visst motstånd, och då förstod vi
+att något inte stod rätt till. Chefen bör-
+jade själv följa verksamheten med hög
 närvaro, ibland mitt i natten.
-med loggar, stämplingar och dokumen- Hon menar att händelserna blottlade ett
-– Hon var ute både sena kvällar och tidi-          strukturellt problem i hur omsorgen är
-ga morgnar, och ibland mitt i natten. Hon          organiserad.
+– Hon var ute både sena kvällar och tidi-
+ga morgnar, och ibland mitt i natten. Hon
 såg saker som inte borde få förekomma.
-– Vi behöver se hela kedjan, från led-
 Personal som sov under arbetspass,
-arskap och bemanning till kultur och
 som körde ensamma i bilar trots krav på
-kommunikation. Annars riskerar vi att
 dubbelbemanning, fortsätter hon.
-bara laga symtomen, fortsätter hon.
+
 När hon rapporterade vidare till förvalt-
-Styrmodellen ska ge ansvar
 ningen under sommaren inleddes en
-intern granskning. Kort därefter kom en            Styrmodellen är inte ny. Vi har den
-Lex Sarah-anmälan in, och då blev det              sedan några år tillbaka och den bygger
-tydligt att problemen var omfattande.              på fyra hörnstenar; verksamhet, brukare,
+intern granskning. Kort därefter kom en
+Lex Sarah-anmälan in, och då blev det
+tydligt att problemen var omfattande.
+– Vi insåg att det inte handlade om
+
+enstaka misstag utan om systemfel.
+Vi behövde stanna upp och se hela verk-
+samheten med nya ögon, säger hon.
+Avstängning och parallella utredningar
+
+I slutet av sommaren fattade kommunen
+beslutet att stänga av en hel arbets-
+grupp medan utredningarna pågick.
+– Det var inget lätt beslut. Men för att
+skydda både brukare och medarbeta-
+re behövde vi agera snabbt och skapa
+arbetsro. Det hade varit oansvarigt att
+låta verksamheten fortsätta som vanligt,
+säger Malin Normann.
+
+Lex Sarah-utredningen är nu avslutad,
+medan de arbetsrättsliga utredningen
+fortfarande pågår.
+– Varje händelse måste gås igenom i
+detalj. Vi har suttit kvällar och helger
+med loggar, stämplingar och dokumen-
+
+MMaalliinn NNoorrmmaannnn,, ssoocciiaallcchheeff
+
+tation. Vi behövde veta när det hände,
+vem som var på plats och vad följden
+blev, förklarar hon.
+Det handlar inte om att peka finger
+
+När Malin Normann beskriver vad som
+gått fel återkommer hon till att pro-
+blemen inte kan förklaras av enskilda
+personer.
+– Det här är inte en fråga om synda-
+bockar. Vi måste förstå varför det kunde
+ske. Natten är alltid speciell, alla vi
+andra sover och verksamheten behöver
+kunna arbeta och agera på egen hand.
+På så vis blir den mer isolerad än andra
+verksamheter, det ligger i sakens natur,
+säger hon.
+
+Det skapar risker, särskilt i verksamheter
+där brukarna är helt beroende av oss.
+Hon menar att händelserna blottlade ett
+strukturellt problem i hur omsorgen är
+organiserad.
+
+– Vi behöver se hela kedjan, från led-
+arskap och bemanning till kultur och
+kommunikation. Annars riskerar vi att
+bara laga symtomen, fortsätter hon.
+Styrmodellen ska ge ansvar
+Styrmodellen är inte ny. Vi har den
+sedan några år tillbaka och den bygger
+på fyra hörnstenar; verksamhet, brukare,
 ekonomi och medarbetare.
-– Vi insåg att det inte handlade om MMaalliinn NNoorrmmaannnn,, ssoocciiaallcchheeff
+
 9
 
 <!-- sida 167 -->
@@ -7007,96 +7334,162 @@ ekonomi och medarbetare.
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-Utifrån de olika delarna ska chefen äga bakgrundskontroll inom omsorgen. Tidi- gräns som riktlinje, men med möjlighet
-sin verksamhet och bedriva ett kontinu- gare använde kommunen samma typ av till undantag.
-erligt utvecklingsarbete tillsammans med registerutdrag som krävs för boende för
-– Vi har satt fem år som gräns. I vissa
-medarbetare och de vi är till för. barn inom LSS, vilket bara visar de allra
-fall kan vi göra undantag, och då hamnar
-grövsta brotten.
-– Efter händelsen har vi tittat på che-            beslutet på mitt bord. Det handlar om att
-fens närvaro, hur försäkrar vi oss om – Vi har tidigare tagit belastningsregis- kunna väga risk och förtroende på ett
-att ansvarig chef har en tillräckligt hög ter på alla medarbetare i omsorgen, men ansvarsfullt sätt.
-närvaro för sina verksamheter nattetid det utdraget visar bara de sju grövsta
-Kompetenslyft för chefer och medar-
-för att försäkra sig om en god kvalitet. brotten, säger Malin Normann.
-betare
-– Varje chef ska äga sin verksamhet Hon menar att det är otillräckligt för
-Samtidigt pågår ett arbete för att stärka
-fullt ut. Det handlar om att ta ansvar inte omsorgsverksamhet.
-kompetensen i organisationen.
+WERKET MÅNADSRAPPORT
+
+Utifrån de olika delarna ska chefen äga
+sin verksamhet och bedriva ett kontinu-
+erligt utvecklingsarbete tillsammans med
+medarbetare och de vi är till för.
+– Efter händelsen har vi tittat på che-
+fens närvaro, hur försäkrar vi oss om
+att ansvarig chef har en tillräckligt hög
+närvaro för sina verksamheter nattetid
+för att försäkra sig om en god kvalitet.
+
+– Varje chef ska äga sin verksamhet
+fullt ut. Det handlar om att ta ansvar inte
 bara för ekonomi och resultat, utan ock-
-– Det visar för lite och även om samhäl-
-så för vardagen. För kvalitet, arbetsmiljö         – Vi för dialog med Högskolan Väst om
-let ser ut som det gör är det ju inte så att
-och bemötande, säger Normann.                      en särskild ledarskapsutbildning för
-folk går runt och mördar varandra. Men
-chefer inom omsorgen. Våra enhetsche-
-Ett konkret förslag är att chefer ska det finns många andra brott som kan
-fer står mitt i stormen. De behöver stöd,
-tjänstgöra på obekväm arbetstid, bland vara olämpliga för vår bransch och som
-verktyg och tid för att leda på riktigt,
-annat kvällar och nätter, för att få bättre inte syns i det utdraget.
-säger hon.
+så för vardagen. För kvalitet, arbetsmiljö
+och bemötande, säger Normann.
+Ett konkret förslag är att chefer ska
+tjänstgöra på obekväm arbetstid, bland
+annat kvällar och nätter, för att få bättre
 inblick i verksamheten.
-Vi vill att lärande ska vara Också medarbetarna ska få mer konti-
+
 – Vi behöver vara närvarande för att
-en del av vardagen, inte nå- nuerlig kompetensutveckling.
 leda verksamheten. När chefer finns på
-got man gör vart femte år.
-plats ser de både bristerna och enga-              – Vi vill att lärande ska vara en del
-gemanget. Det skapar en gemensam                   av vardagen, inte något man gör vart
-förståelse mellan ledning och personal, Kommunen har därför valt att kräva att femte år. Det handlar både om vård och
-förklarar hon.           den sökande själv inhämtar utdraget omsorg som till exampel demensvård,
-”kontroll av egna uppgifter” där samtliga bemötande och etik, men också om att
+plats ser de både bristerna och enga-
+gemanget. Det skapar en gemensam
+förståelse mellan ledning och personal,
+förklarar hon.
 – Jag förstår att det väcker känslor,
-domar framkommer. För barn och unga bygga stolthet och yrkesidentitet, berät-
 när det blir krav om arbete del av natt
-på institution ska man se allt, men för tar Malin Normann.
 för chefer men jag tror att vi behöver
-andra grupper, till exempel barn med
-pröva nya sätt. Vi kan inte fortsätta som          Från kris till lärande organisation
-funktionsvariation, syns bara de grövsta
+pröva nya sätt. Vi kan inte fortsätta som
 tidigare och hoppas på andra resultat,
-Händelserna i Uddevalla har blivit ett
-brotten.
 säger hon.
-exempel på hur snabbt en till synes
-\- Det finns ett problem där, säger Malin
-Från kontroll till kultur                          fungerande verksamhet kan förlora
-Normann.
-fotfästet, men också hur en kommun kan
+
+Från kontroll till kultur
 För Malin Normann handlar förändringen
-Hon beskriver också hur polisen numera resa sig igen.
 i grunden om kultur.
-fattar beslut om vistelseförbud, något
-– Många kommuner känner nog igen sig
-– Vi måste gå från kontroll till kultur. som tidigare inte framgått av utdragen.
-i det här. Vi har fått hårda rubriker, men
+– Vi måste gå från kontroll till kultur.
 Kvalitet handlar inte om checklistor, utan
-– Då får vi även upp de här besluten om också en möjlighet att förändra. Om an-
 om hur vi beter oss mot varandra och
-vistelseförbud som polisen börjat fatta. dra kan lära av våra misstag så har det
 mot dem vi är till för. Det ska vara natur-
-Det gör kontrollerna mer användbara. åtminstone kommit något gott ur det,
 ligt att prata om kvalitet varje dag.
-säger Malin Normann.
-Samtidigt handlar det om att göra rimliga
+
 – Alla ska känna ansvar. Om någon ser
-avvägningar.              Hon gör en kort paus innan hon avslutar:
 något som inte stämmer ska det vara
-självklart att säga ifrån. Vi måste bort – Har någon fått böter för felparkering – Vi är inte färdiga, men vi har tagit
-från tystnadskulturen, fortsätter hon. för sju år sen, så är det ju inget problem. viktiga första steg. Det handlar om att
-Men om någon har suttit i fängelse för bygga en verksamhet där både brukare
+självklart att säga ifrån. Vi måste bort
+från tystnadskulturen, fortsätter hon.
 Skärpta rutiner för rekrytering och
-våldsbrott för två år sen – då måste vi och medarbetare känner trygghet, och
 registerkontroller
-kunna göra en bedömning, säger hon. där vi som chefer tar ansvar för att det
-Efter händelserna har Uddevalla kom-               fungerar.
-Kommunen har därför infört en femårs-
+
+Efter händelserna har Uddevalla kom-
 mun beslutat att skärpa rutinerna för
+
+bakgrundskontroll inom omsorgen. Tidi-
+gare använde kommunen samma typ av
+registerutdrag som krävs för boende för
+barn inom LSS, vilket bara visar de allra
+grövsta brotten.
+– Vi har tidigare tagit belastningsregis-
+ter på alla medarbetare i omsorgen, men
+det utdraget visar bara de sju grövsta
+brotten, säger Malin Normann.
+
+Hon menar att det är otillräckligt för
+omsorgsverksamhet.
+– Det visar för lite och även om samhäl-
+let ser ut som det gör är det ju inte så att
+folk går runt och mördar varandra. Men
+det finns många andra brott som kan
+vara olämpliga för vår bransch och som
+inte syns i det utdraget.
+
+Vi vill att lärande ska vara
+en del av vardagen, inte nå-
+got man gör vart femte år.
+
+Kommunen har därför valt att kräva att
+den sökande själv inhämtar utdraget
+”kontroll av egna uppgifter” där samtliga
+domar framkommer. För barn och unga
+på institution ska man se allt, men för
+andra grupper, till exempel barn med
+funktionsvariation, syns bara de grövsta
+brotten.
+\- Det finns ett problem där, säger Malin
+Normann.
+
+Hon beskriver också hur polisen numera
+fattar beslut om vistelseförbud, något
+som tidigare inte framgått av utdragen.
+– Då får vi även upp de här besluten om
+vistelseförbud som polisen börjat fatta.
+Det gör kontrollerna mer användbara.
+Samtidigt handlar det om att göra rimliga
+avvägningar.
+
+– Har någon fått böter för felparkering
+för sju år sen, så är det ju inget problem.
+Men om någon har suttit i fängelse för
+våldsbrott för två år sen – då måste vi
+kunna göra en bedömning, säger hon.
+Kommunen har därför infört en femårs-
+
 10
+
+gräns som riktlinje, men med möjlighet
+till undantag.
+– Vi har satt fem år som gräns. I vissa
+fall kan vi göra undantag, och då hamnar
+beslutet på mitt bord. Det handlar om att
+kunna väga risk och förtroende på ett
+ansvarsfullt sätt.
+
+Kompetenslyft för chefer och medar-
+betare
+Samtidigt pågår ett arbete för att stärka
+kompetensen i organisationen.
+
+– Vi för dialog med Högskolan Väst om
+en särskild ledarskapsutbildning för
+chefer inom omsorgen. Våra enhetsche-
+fer står mitt i stormen. De behöver stöd,
+verktyg och tid för att leda på riktigt,
+säger hon.
+Också medarbetarna ska få mer konti-
+nuerlig kompetensutveckling.
+
+– Vi vill att lärande ska vara en del
+av vardagen, inte något man gör vart
+femte år. Det handlar både om vård och
+omsorg som till exampel demensvård,
+bemötande och etik, men också om att
+bygga stolthet och yrkesidentitet, berät-
+tar Malin Normann.
+Från kris till lärande organisation
+Händelserna i Uddevalla har blivit ett
+exempel på hur snabbt en till synes
+fungerande verksamhet kan förlora
+fotfästet, men också hur en kommun kan
+resa sig igen.
+
+– Många kommuner känner nog igen sig
+i det här. Vi har fått hårda rubriker, men
+också en möjlighet att förändra. Om an-
+dra kan lära av våra misstag så har det
+åtminstone kommit något gott ur det,
+säger Malin Normann.
+Hon gör en kort paus innan hon avslutar:
+
+– Vi är inte färdiga, men vi har tagit
+viktiga första steg. Det handlar om att
+bygga en verksamhet där både brukare
+och medarbetare känner trygghet, och
+där vi som chefer tar ansvar för att det
+fungerar.
 
 <!-- sida 168 -->
 
@@ -7104,7 +7497,8 @@ mun beslutat att skärpa rutinerna för
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Socialchefsrapporten 2025
 
 Åtta    av    tio  socialchefer:
@@ -7113,60 +7507,111 @@ Svårt      att   ge    stöd     enligt      lagen
 
 Fyra månader efter att den nya socialtjänstlagen trätt i kraft beskriver socialchefer en allt
 mer pressad vardag. Vision varnar för underfinansiering, men frågan är om problemen
+
 verkligen beror på lagen eller på åratal av strukturell obalans.
 
-När den nya socialtjänstlagen började på en långsiktig försvagning, snarare Samarbetet med andra aktörer framstår
-gälla den 1 juli utlovades ett skifte. So- än ett plötsligt ras. Sedan 2023 har också som en svag punkt. Den nya lagen
-cialtjänsten skulle bli mer förebyggande, andelen socialchefer som upplever att betonar det förebyggande arbetet, men
-tillitsbaserad och jämställd. Men i Visions de inte kan ge stöd enligt lag ökat från enligt rapporten fungerar samverkan
-Socialchefsrapport 2025 tecknas en drygt hälften till nästan åtta av tio. Det sämst med hälso- och sjukvården.
-annan bild: en sektor där ambitionerna är en utveckling som började långt innan
-Personalbrist och konsultberoende
-växer snabbare än resurserna. reformen trädde i kraft.
-Rekryteringsläget är fortsatt kritiskt. 62
-Nästan åtta av tio socialchefer uppger Det antyder att lagen inte har skapat
-procent av socialcheferna uppger att det
-att de har svårt att ge människor det krisen, men riskerar att ärva den.
-är svårt att rekrytera socialsekreterare,
+När den nya socialtjänstlagen började
+gälla den 1 juli utlovades ett skifte. So-
+cialtjänsten skulle bli mer förebyggande,
+tillitsbaserad och jämställd. Men i Visions
+Socialchefsrapport 2025 tecknas en
+annan bild: en sektor där ambitionerna
+växer snabbare än resurserna.
+Nästan åtta av tio socialchefer uppger
+att de har svårt att ge människor det
 stöd de har rätt till. En tredjedel har dra-
-Pengar, men inga marginaler och åtta av tio har under året använt
 git ned på personal, avvecklat verksam-
-konsulter för att klara bemanningen.
-het eller gjort mer restriktiva bedöm- Regeringen har avsatt åtta miljarder
-ningar för att hålla budgeten. kronor fram till 2028 för att stödja kom- Vision tolkar det som ett resultat av
-munernas omställning. Vision menar att underfinansiering. Men flera chefer
+het eller gjort mer restriktiva bedöm-
+ningar för att hålla budgeten.
+
 – Socialtjänsten är samhällets yttersta
-det är långt ifrån tillräckligt. Men andra uttrycker också självkritik. I rapportens
 skyddsnät och står i frontlinjen i kam-
-pekar på att problemen inte bara handlar fokusgrupper talar de om en kultur präg-
 pen mot gängens rekrytering av barn
-om pengar.                lad av detaljstyrning och administration.
 och unga. Samtidigt får verksamheten
-”När vi är stressade backar vi till det vi
-bara smulor i jämförelse med de mil- I rapporten beskriver socialchefer hur
-känner igen”, säger en av dem.
-jardsatsningar som regeringen nu gör på det saknas både tid, struktur och an-
-rättsväsendet och på repressiva åtgär- svar för att driva förändringen. Många En reform på svag grund
-der. Socialtjänsten måste få långsiktig kommuner har ingen person som arbetar
-Fyra månader in i reformen är det alltså
-finansiering för att den nya lagen ska heltid med omställningen, och de flesta
-inte lagen som står i skottgluggen, utan
-få effekt, säger Veronica Magnusson, tvingas hantera nya krav samtidigt som
-förutsättningarna för att den ska funge-
-förbundsordförande i Vision. de kämpar med gamla underskott.
-ra. Vision efterlyser långsiktig finansie-
-För tidigt att döma lagen                          ring och arbetsro. Men bakom siffrorna
-anas ett djupare problem:
+bara smulor i jämförelse med de mil-
+jardsatsningar som regeringen nu gör på
+rättsväsendet och på repressiva åtgär-
+der. Socialtjänsten måste få långsiktig
+finansiering för att den nya lagen ska
+få effekt, säger Veronica Magnusson,
+förbundsordförande i Vision.
+För tidigt att döma lagen
+
 Att socialtjänsten kämpar i motvind är
-inget nytt. Men att redan nu tala om               Socialtjänsten ska bli mer förebyggan-
-ett misslyckande för den nya lagen                 de, men är fast i akuta insatser. Den ska
-vore förhastat. Den har bara funnits i             bli mer tillitsbaserad, men brottas med
-fyra månader, och mycket av det som                misstro och kontroll. Och den ska bli mer
-socialcheferna beskriver (personalbrist,           kunskapsbaserad, men saknar system
-ekonomiska underskott och hög arbets-              för uppföljning.
+inget nytt. Men att redan nu tala om
+ett misslyckande för den nya lagen
+vore förhastat. Den har bara funnits i
+fyra månader, och mycket av det som
+socialcheferna beskriver (personalbrist,
+ekonomiska underskott och hög arbets-
 belastning) är gamla problem.
+I själva verket tyder siffrorna i rapporten
+
+på en långsiktig försvagning, snarare
+än ett plötsligt ras. Sedan 2023 har
+andelen socialchefer som upplever att
+de inte kan ge stöd enligt lag ökat från
+drygt hälften till nästan åtta av tio. Det
+är en utveckling som började långt innan
+reformen trädde i kraft.
+Det antyder att lagen inte har skapat
+krisen, men riskerar att ärva den.
+
+Pengar, men inga marginaler
+Regeringen har avsatt åtta miljarder
+kronor fram till 2028 för att stödja kom-
+munernas omställning. Vision menar att
+det är långt ifrån tillräckligt. Men andra
+pekar på att problemen inte bara handlar
+om pengar.
+
+I rapporten beskriver socialchefer hur
+det saknas både tid, struktur och an-
+svar för att driva förändringen. Många
+kommuner har ingen person som arbetar
+heltid med omställningen, och de flesta
+tvingas hantera nya krav samtidigt som
+de kämpar med gamla underskott.
+
+VVeerroonniiccaa MMaaggnnuussssoonn,, fföörrbbuunnddssoorrddfföörraannddee
+
+Samarbetet med andra aktörer framstår
+också som en svag punkt. Den nya lagen
+betonar det förebyggande arbetet, men
+enligt rapporten fungerar samverkan
+sämst med hälso- och sjukvården.
+Personalbrist och konsultberoende
+
+Rekryteringsläget är fortsatt kritiskt. 62
+procent av socialcheferna uppger att det
+är svårt att rekrytera socialsekreterare,
+och åtta av tio har under året använt
+konsulter för att klara bemanningen.
+Vision tolkar det som ett resultat av
+underfinansiering. Men flera chefer
+uttrycker också självkritik. I rapportens
+fokusgrupper talar de om en kultur präg-
+lad av detaljstyrning och administration.
+”När vi är stressade backar vi till det vi
+känner igen”, säger en av dem.
+
+En reform på svag grund
+Fyra månader in i reformen är det alltså
+inte lagen som står i skottgluggen, utan
+förutsättningarna för att den ska funge-
+ra. Vision efterlyser långsiktig finansie-
+ring och arbetsro. Men bakom siffrorna
+anas ett djupare problem:
+
+Socialtjänsten ska bli mer förebyggan-
+de, men är fast i akuta insatser. Den ska
+bli mer tillitsbaserad, men brottas med
+misstro och kontroll. Och den ska bli mer
+kunskapsbaserad, men saknar system
+för uppföljning.
 Lagen är ny, men verkligheten är gam-
-I själva verket tyder siffrorna i rapporten VVeerroonniiccaa MMaaggnnuussssoonn,, fföörrbbuunnddssoorrddfföörraannddee mal.
+mal.
+
 11
 
 <!-- sida 169 -->
@@ -7175,59 +7620,126 @@ I själva verket tyder siffrorna i rapporten VVeerroonniiccaa MMaaggnnuussssoonn
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Notiser
+
 Regeringen         backar      om
 
 indexering         av  assistansen
 
 Regeringen får hård kritik efter att löftet om att införa en indexering av assistan-
-
 sersättningen 2026 uteblivit i årets budget. På en pressträff hösten 2024 lovade
-regeringens företrädare en automatisk uppräkning för att skapa stabilitet för kom-
 
+regeringens företrädare en automatisk uppräkning för att skapa stabilitet för kom-
 muner, utförare och brukare. Nu höjs röster om svek från både brukarorganisatio-
+
 ner och branschen.
 
-Regeringen får nu kritik för att ha backat vad som kan uppfattas som löften från löfte. Ordförande Nicklas Mårtensson
-från sitt tidigare löfte om att införa in- regeringspartierna. Utan en indexering säger att löftet gavs gemensamt av hela
-dexering av assistansersättningen 2026. ser vi tyvärr en fortsättning på tio år av regeringsunderlaget. Han pekar också
-Vid en pressträff i september 2024 alltför låga uppräkningar av assistanser- på att ersättningen urholkas när lönerna
-utlovade företrädare för Tidöpartierna sättningen. Konsekvenserna blir kännba- ökar med än den
-att schablonbeloppet skulle indexeras ra, framför allt för de direkt berörda, per- föreslagna upp-
-för att skapa större förutsägbarhet för soner med svår funktionsnedsättning. räkningen.
-kommuner, utförare och brukare. Men Men även med en ökad risk för fusk från
-i budgetpropositionen för 2026 finns mindre nogräknade aktörer som inte
-ingen sådan indexering med. Endast en följer regelverken, säger Hans Dahlgren,
-uppräkning med 1,5 procent. vd Humana Assistans i ett uttalande till
-Werket.
+Regeringen får nu kritik för att ha backat
+från sitt tidigare löfte om att införa in-
+dexering av assistansersättningen 2026.
+Vid en pressträff i september 2024
+utlovade företrädare för Tidöpartierna
+att schablonbeloppet skulle indexeras
+för att skapa större förutsägbarhet för
+kommuner, utförare och brukare. Men
+i budgetpropositionen för 2026 finns
+ingen sådan indexering med. Endast en
+uppräkning med 1,5 procent.
 \- Det är oväntat, mot bakgrund av att
-riksdagen uppmanat regeringen att Funktionsrätt Sverige anser att reger-
-utreda en indexering, och att det kommit ingspartierna backat från ett tydligt HHaannss DDaahhllggrreenn,, vvdd HHuummaannaa AAssssiissttaannss
-Fler barn  i tvångs-     Fler placeringar    i    Fler  barn  placeras
+riksdagen uppmanat regeringen att
+utreda en indexering, och att det kommit
 
-vård  enligt LVU         utsatta   områden        på  HVB-hem
+vad som kan uppfattas som löften från
+regeringspartierna. Utan en indexering
+ser vi tyvärr en fortsättning på tio år av
+alltför låga uppräkningar av assistanser-
+sättningen. Konsekvenserna blir kännba-
+ra, framför allt för de direkt berörda, per-
+soner med svår funktionsnedsättning.
+Men även med en ökad risk för fusk från
+mindre nogräknade aktörer som inte
+följer regelverken, säger Hans Dahlgren,
+vd Humana Assistans i ett uttalande till
+Werket.
+Funktionsrätt Sverige anser att reger-
+ingspartierna backat från ett tydligt
 
-Allt fler barn och unga tas om hand med Barn som växer upp i socioekonomiskt Placeringar på HVB ökar igen efter flera
-stöd av lagen om vård av unga (LVU), svaga områden löper nästan fyra gånger års nedgång. Under 2024 placerades 5
-medan de frivilliga placeringarna enligt så stor risk att bli placerade i heldygnsvård 300 barn och unga på HVB, vilket mot-
-socialtjänstlagen (SoL) minskar. Det visar som barn i områden med mycket goda svarar en ökning med drygt åtta procent
-Socialstyrelsens nya rapport Statistik om förutsättningar. Skillnaderna är stabila över jämfört med året innan. Det innebär att
-socialtjänstinsatser till barn och unga tid och syns både i frivilliga placeringar var femte placerat barn nu bor på HVB.
-2024\. Under perioden 2020–2024 ökade enligt SoL och i tvångsvård enligt LVU. Samtidigt är familjehem fortsatt den van-
-antalet barn i tvångsvård med 22 procent,          ligaste placeringsformen, med knappt 19
-Heldygnsvård är alltså betydligt vanligare i
-från omkring 9 000 till drygt 11 000 barn,         000 barn.
-områden med hög arbetslöshet, låg utbild-
+löfte. Ordförande Nicklas Mårtensson
+säger att löftet gavs gemensamt av hela
+regeringsunderlaget. Han pekar också
+på att ersättningen urholkas när lönerna
+ökar med än den
+föreslagna upp-
+räkningen.
+
+HHaannss DDaahhllggrreenn,, vvdd HHuummaannaa AAssssiissttaannss
+
+Fler barn  i tvångs-
+
+vård  enligt  LVU
+Allt fler barn och unga tas om hand med
+stöd av lagen om vård av unga (LVU),
+medan de frivilliga placeringarna enligt
+socialtjänstlagen (SoL) minskar. Det visar
+Socialstyrelsens nya rapport Statistik om
+socialtjänstinsatser till barn och unga
+2024\. Under perioden 2020–2024 ökade
+antalet barn i tvångsvård med 22 procent,
+från omkring 9 000 till drygt 11 000 barn,
 medan antalet frivilliga placeringar sjönk.
-ningsnivå och fler hushåll med ekonomiskt Antalet placeringar på SiS särskilda ung-
-Totalt fick 26 300 barn och unga någon bistånd. Skillnaderna mellan pojkar och domshem minskade med tio procent, till
-gång under 2024 en heldygnsinsats, vilket flickor är däremot små. Socialstyrelsen be- knappt 1 000 barn och unga. Socialstyrel-
-är cirka 500 fler än året innan. Ökningen tonar att de socioekonomiska skillnaderna sen ser en fortsatt hög belastning på kom-
-var tydligast bland barn i åldern 7–9 år, där speglar hur barns uppväxtvillkor påverkar munerna, där ökningen av HVB-placering-
-antalet placerade steg med närmare elva risken att hamna i utsatta situationer som ar kan kopplas till både brist på familjehem
-procent.                 kräver ingripande från socialtjänsten. och en mer komplex problematik bland
+
+Totalt fick 26 300 barn och unga någon
+gång under 2024 en heldygnsinsats, vilket
+är cirka 500 fler än året innan. Ökningen
+var tydligast bland barn i åldern 7–9 år, där
+antalet placerade steg med närmare elva
+procent.
+
+Fler placeringar    i
+
+utsatta  områden
+Barn som växer upp i socioekonomiskt
+svaga områden löper nästan fyra gånger
+så stor risk att bli placerade i heldygnsvård
+som barn i områden med mycket goda
+förutsättningar. Skillnaderna är stabila över
+tid och syns både i frivilliga placeringar
+enligt SoL och i tvångsvård enligt LVU.
+
+Heldygnsvård är alltså betydligt vanligare i
+områden med hög arbetslöshet, låg utbild-
+ningsnivå och fler hushåll med ekonomiskt
+bistånd. Skillnaderna mellan pojkar och
+flickor är däremot små. Socialstyrelsen be-
+tonar att de socioekonomiska skillnaderna
+speglar hur barns uppväxtvillkor påverkar
+risken att hamna i utsatta situationer som
+kräver ingripande från socialtjänsten.
+
+Fler barn  placeras
+
+på  HVB-hem
+Placeringar på HVB ökar igen efter flera
+års nedgång. Under 2024 placerades 5
+300 barn och unga på HVB, vilket mot-
+svarar en ökning med drygt åtta procent
+jämfört med året innan. Det innebär att
+var femte placerat barn nu bor på HVB.
+Samtidigt är familjehem fortsatt den van-
+ligaste placeringsformen, med knappt 19
+000 barn.
+
+Antalet placeringar på SiS särskilda ung-
+domshem minskade med tio procent, till
+knappt 1 000 barn och unga. Socialstyrel-
+sen ser en fortsatt hög belastning på kom-
+munerna, där ökningen av HVB-placering-
+ar kan kopplas till både brist på familjehem
+och en mer komplex problematik bland
 barn och unga.
+
 12
 
 <!-- sida 170 -->
@@ -7329,7 +7841,8 @@ Björn       Elmqvist
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Arbetsförmedlingen
 
 AFs      senaste          prognos:
@@ -7341,55 +7854,76 @@ nosen för 2025. Ambitionsnivån för matchningstjänster har återigen justerat
 
 och den annonserade ökningen av deltagare i arbetsmarknadsutbildning har kom-
 mit av sig något. Samtidigt visar en genomgång av tidigare prognoser att de har
+
 ett tveksamt värde vad gäller att bedöma framtiden.
 
 Utvecklingen på arbetsmarknaden och
-90K
 Arbetsförmedlingens prioriteringar
-80K
 Arbetsförmedlingens bedömning av ar-
-70K
 betslöshetens utveckling är identisk med
-föregående prognos från i juli. Myndig- 60K
+föregående prognos från i juli. Myndig-
 heten bedömer att arbetslösheten slutar
-50K
 att öka under 2025 och sedan faller till
-40K
 6,8 procent under 2026. Arbetsförmed-
-lingen gör även i denna prognos bedöm- 30K
-ningen att långtidsarbetslösheten ökar 20K
+lingen gör även i denna prognos bedöm-
+ningen att långtidsarbetslösheten ökar
 under kommande år.
-10K
-Regeringens budgetproposition innebär 0K
-2022  2023  2024  2025  2026 2027  2028  2029
+
+Regeringens budgetproposition innebär
 en minskning av medel för arbetsmark-
-nadspolitiska program. Minskningen Antal deltagare i matchningstjänster - utfall och prognoser. Senaste prognosen i grön linje.
+nadspolitiska program. Minskningen
 motsvarar ca 500 miljoner kronor 2026,
-2 under de kommande åren. Faktum är nat markant under prognoserna. Den
 200 miljoner kr 2027 och 700 miljoner
-att ingen av de senaste årens prognoser stora osäkerheten och de tvära kasten
 kronor 2028. De lägre anslagsnivåerna
-förutspått så långa nivåer av deltagare. har över åren gjort det mycket svårt för
 är enligt myndigheten en av orsakerna
-Under 2025 förväntas antalet deltagare leverantörerna i systemet att dimensio-
 till de nedjusterade förväntningarna på
-i genomsnitt per månad landa på 40 700
 antalet deltagare i arbetsmarknadsut-
-och sedan falla till 40 000 under 2026
 bildning och matchningstjänster under
-och 33 100 under 2027.
 kommande år.
-Diagrammet ovan, som visar utfallet
 Matchningstjänster
+
+Arbetsförmedlingen upprepar i den
+senaste prognosen mantrat att match-
+ningstjänster, i form av Rusta och matcha
+2, passar de arbetssökande som har
+ett måttligt stödbehov, men att många
+arbetssökande har behov av mer omfat-
+tande stöd. Prognosen målar följaktligen
+upp en dyster bild för Rusta och matcha
+
+90K
+80K
+
+70K
+60K
+50K
+40K
+
+30K
+20K
+10K
+0K
+2022  2023  2024 2025  2026  2027  2028  2029
+Antal deltagare i matchningstjänster - utfall och prognoser. Senaste prognosen i grön linje.
+
+2 under de kommande åren. Faktum är nat markant under prognoserna. Den
+att ingen av de senaste årens prognoser stora osäkerheten och de tvära kasten
+förutspått så långa nivåer av deltagare. har över åren gjort det mycket svårt för
+Under 2025 förväntas antalet deltagare leverantörerna i systemet att dimensio-
+i genomsnitt per månad landa på 40 700
+och sedan falla till 40 000 under 2026
+och 33 100 under 2027.
+Diagrammet ovan, som visar utfallet
 och samtliga de senaste årens prog-
-Arbetsförmedlingen upprepar i den noser, illustrerar svårigheterna för de
-senaste prognosen mantrat att match- leverantörer som tillhandahåller match-
-ningstjänster, i form av Rusta och matcha ningstjänster. Med några få undantag
-2, passar de arbetssökande som har har prognoserna för antalet deltagare
-ett måttligt stödbehov, men att många konsekvent överskattat utvecklingen.
-arbetssökande har behov av mer omfat- Arbetsförmedlingens prognoser har
-tande stöd. Prognosen målar följaktligen målat upp ambitionsnivåer som sedan
-upp en dyster bild för Rusta och matcha inte infriats, och ofta har utfallet ham- MMaarriiaa HHeemmssttrröömm HHeemmmmiinnggssssoonn,, ggdd
+noser, illustrerar svårigheterna för de
+leverantörer som tillhandahåller match-
+ningstjänster. Med några få undantag
+har prognoserna för antalet deltagare
+konsekvent överskattat utvecklingen.
+Arbetsförmedlingens prognoser har
+målat upp ambitionsnivåer som sedan
+inte infriats, och ofta har utfallet ham- MMaarriiaa HHeemmssttrröömm HHeemmmmiinnggssssoonn,, ggdd
+
 3
 
 <!-- sida 173 -->
@@ -7398,76 +7932,128 @@ upp en dyster bild för Rusta och matcha inte infriats, och ofta har utfallet ha
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-nera sin verksamhet.     ningarna dock nedjusterade jämfört med
-Notiser
-förra prognosen. Enligt myndigheten be-
+WERKET MÅNADSRAPPORT
+
+nera sin verksamhet.
 Arbetsförmedlingen kan inte ensam
-ror detta på de sänkta anslagsnivåer för
-klandras för den bristande träffsäkerhe-          Saco-ordförande
-arbetsmarknadspolitiska program som
+klandras för den bristande träffsäkerhe-
 ten i prognosarbetet. Politiska beslut har
-annonserades i budgetpropositionen.
-också format verkligheten för match-              utses   i november
-Arbetsförmedlingen anser fortsatt att
+också format verkligheten för match-
 ningstjänsterna. Den senaste tiden, inte
-arbetsmarknadsutbildning är ett viktigt Valberedningen föreslår Läkarförbundets
 minst sedan Arbetsförmedlingen fått i
-verktyg, inte minst för de som står läng- ordförande Sofia Rydgren Stale som ny
 uppdrag att utföra matchningstjänster i
-re från arbetsmarknaden, och anser inte ordförande för Saco, efter Göran Arrius
 egen regi, har det blivit allt tydligare att
-att anslagna medel motsvarar behoven. som lett organisationen i 14 år. Hon har
 ambitionsnivån för Rusta och matcha bli-
-stöd från flera förbund inom offentlig
-vit allt lägre. Denna förskjutning förstärks Även för arbetsmarknadsutbildningen är
-sektor och blir, om hon väljs, Sacos andra
-nu ytterligare. Eftersom aviserade medel prognoserna ett tvivelaktigt verktyg för
-kvinnliga ordförande någonsin.
-för kommande år ger ett minskat utrym- att bedöma framtida volymer. Träffsä-
-me för upphandlade matchningstjänster, kerheten i prognoserna har konsekvent Utmanarna är Ulrika Lindstrand från
-skriver arbetsförmedlingen att de behö- varit låg, och trots konsensus kring att Sveriges Ingenjörer, Magnus Hedberg
-ver ”kompensera detta med annat aktivt antalet deltagare bör öka har volymerna från Akavia och Åsa Fahlén från Sveriges
-matchningsstöd i egen regi till arbetssö- snarare trendmässigt minskat över tid. Lärare. Valet avgörs vid Sacos kongress
-kande som har behov av det.” De åtgärder myndigheten har identifierat den 12–13 november 2025.
-har hittills inte visat sig leda till någon
+vit allt lägre. Denna förskjutning förstärks
+nu ytterligare. Eftersom aviserade medel
+för kommande år ger ett minskat utrym-
+me för upphandlade matchningstjänster,
+skriver arbetsförmedlingen att de behö-
+ver ”kompensera detta med annat aktivt
+matchningsstöd i egen regi till arbetssö-
+kande som har behov av det.”
+
 Arbetsmarknadsutbildning
+För arbetsmarknadsutbildningen finns
+fortsatt en högre ambitionsnivå, och
+Arbetsförmedlingen räknar med att
+de åtgärder de identifierat för att öka
+deltagarantalet kommer att innebära fler
+deltagare under hösten och våren. På
+längre sikt, 2027 och 2028, är förvänt-
+
+ningarna dock nedjusterade jämfört med
+förra prognosen. Enligt myndigheten be-
+ror detta på de sänkta anslagsnivåer för
+arbetsmarknadspolitiska program som
+annonserades i budgetpropositionen.
+Arbetsförmedlingen anser fortsatt att
+arbetsmarknadsutbildning är ett viktigt
+verktyg, inte minst för de som står läng-
+re från arbetsmarknaden, och anser inte
+att anslagna medel motsvarar behoven.
+Även för arbetsmarknadsutbildningen är
+prognoserna ett tvivelaktigt verktyg för
+att bedöma framtida volymer. Träffsä-
+kerheten i prognoserna har konsekvent
+varit låg, och trots konsensus kring att
+antalet deltagare bör öka har volymerna
+snarare trendmässigt minskat över tid.
+De åtgärder myndigheten har identifierat
+har hittills inte visat sig leda till någon
 märkbar förändring. Liksom för match-
-För arbetsmarknadsutbildningen finns ningstjänsterna har detta skapat stora
-Låg sysselsättning
-fortsatt en högre ambitionsnivå, och problem för många utbildningsanord-
-Arbetsförmedlingen räknar med att nare, som riggat sin verksamhet för en bland medföljande
-de åtgärder de identifierat för att öka viss volym, för att sedan få endast en
-deltagarantalet kommer att innebära fler bråkdel av de deltagare de förväntat sig. Bara fyra av tio medföljande partner till
-deltagare under hösten och våren. På Det finns exempel på leverantörer som arbetskraftsinvandrare från länder utanför
-längre sikt, 2027 och 2028, är förvänt- lämnat marknaden helt av detta skäl. EU/EES hade arbete ett år efter att de
+ningstjänsterna har detta skapat stora
+problem för många utbildningsanord-
+nare, som riggat sin verksamhet för en
+viss volym, för att sedan få endast en
+bråkdel av de deltagare de förväntat sig.
+Det finns exempel på leverantörer som
+lämnat marknaden helt av detta skäl.
+
+12K
+
+10K
+
+8K
+6K
+
+4K
+
+2K
+0K
+2021 2022 2023 2024  2025 2026 2027 2028 2029
+Antal deltagare i arbetsmarknadsutbildning - utfall och prognoser. Senaste prognosen i grön linje.
+
+4
+
+Notiser
+
+Saco-ordförande
+
+utses  i november
+
+Valberedningen föreslår Läkarförbundets
+ordförande Sofia Rydgren Stale som ny
+ordförande för Saco, efter Göran Arrius
+som lett organisationen i 14 år. Hon har
+stöd från flera förbund inom offentlig
+sektor och blir, om hon väljs, Sacos andra
+kvinnliga ordförande någonsin.
+Utmanarna är Ulrika Lindstrand från
+Sveriges Ingenjörer, Magnus Hedberg
+från Akavia och Åsa Fahlén från Sveriges
+Lärare. Valet avgörs vid Sacos kongress
+den 12–13 november 2025.
+
+Låg  sysselsättning
+
+bland  medföljande
+
+Bara fyra av tio medföljande partner till
+arbetskraftsinvandrare från länder utanför
+EU/EES hade arbete ett år efter att de
 kommit till Sverige. Det visar en ny rapport
 från SCB inom ramen för regeringens upp-
 drag Work in Sweden, som ska underlätta
-12K
 etablering för internationell kompetens
-10K                                             och deras familjer.
+och deras familjer.
 Bland de medföljande 2022 var 39 pro-
-8K
 cent sysselsatta året därpå. Men skillna-
 derna mellan könen är stora: 58 procent
-6K
 av männen hade arbete, jämfört med
-4K                                              endast 34 procent av kvinnorna.
+endast 34 procent av kvinnorna.
+
 De flesta medföljande var kvinnor, ofta
-2K
 från Indien, och medianåldern var 33 år.
-0K                                              Många kvinnor stod utanför både arbete
-2021  2022 2023 2024 2025 2026 2027  2028 2029
+Många kvinnor stod utanför både arbete
 och studier, och saknade egna inkomster.
-Antal deltagare i arbetsmarknadsutbildning - utfall och prognoser. Senaste prognosen i grön linje. Vanliga branscher för de som arbetar var
+Vanliga branscher för de som arbetar var
 IT samt hotell och restaurang.
 Totalt kom 2 600 partners och 2 500 barn
 till arbetskraftsinvandrare under 2023.
 Drygt 70 procent av barnen var under nio
 år, och de flesta var inskrivna i förskola
 eller skola året efter ankomsten.
-4
 
 <!-- sida 174 -->
 
@@ -7475,12 +8061,13 @@ eller skola året efter ankomsten.
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Produktivitetskomissionen
 
 Produktivitetsutredningen
 
-Hur     kan    arbetsmarknaden                    förbättras?
+Hur     kan     arbetsmarknaden                   förbättras?
 
 Den första oktober lämnade produktiviteskommissionens sitt slutbetänkande till
 regeringen, en 660 sidor tjock lunta där den svenska ekonomin skärskådats. Wer-
@@ -7502,40 +8089,69 @@ ett centralt mått på hur effektivt resur-
 ser, exempelvis humankapital, används
 för att skapa värde. Werket noterar att
 kommissionen särskilt framhåller tek-
-Produktivitetskomissionens ordförande Clas Olsson lämnar över utredningen till finansminister Svantesson
 nologisk utveckling som den viktigaste
-har varit att analysera vilka faktorer det är på arbetsmarknaden som human-
 drivkraften.
-som påverkar produktivitetstillväxten, kapitalet fördelas mellan olika verksam-
-Teknologisk utveckling lyfts ofta fram identifiera hinder och möjligheter kring heter i ekonomin. I bred bemärkelse kan
-som den viktigaste drivkraften för ökad att höja produktivitetstillväxten i Sverige humankapitalet beskrivas som summan
-produktivitet. Innovationer som kan ge samt föreslå hur produktivitetstillväxten av människors utbildning, färdigheter,
-nya möjligheter eller öka effektiviteten. i både näringslivet och offentlig sektor talanger och kompetenser. Vad vi som
-Så kallade genombrottsteknologier har kan öka.     människor bidrar med helt enkelt.
+
+Teknologisk utveckling lyfts ofta fram
+som den viktigaste drivkraften för ökad
+produktivitet. Innovationer som kan ge
+nya möjligheter eller öka effektiviteten.
+Så kallade genombrottsteknologier har
 historiskt visat sig vara tätt kopplade
-Slutbetänkandet överlämnades den När mindre produktiva företag går om-
 med stora lyft i produktivitet. Elektricitet
-första oktober till Finansdepartementet i kull, exempelvis vid en strukturomställ-
 är ett exempel. Den har skapat helt nya
-form av SOU 2025:96 - Fler möjligheter ning orsakad av en ny genombrottstek-
 branscher och omfattande strukturom-
-till ökat välstånd. Kommissionen presen- nik, frigörs deras humankapital.
 vandlingar. I närtid ser internet och AI ut
-terade ett delbetänkande i april 2024.
-att påverka världens ekonomier på ett              På en illa fungerande arbetsmarknad kan
-Remissvar på del- och slutbetänkandet
-liknande sätt.                                     humankapitalet inte omfördelas effektivt
-väntas i början av februari 2026.
-till andra arbetsgivare och produktivi-
+att påverka världens ekonomier på ett
+liknande sätt.
 För att produktiviteten ska öka är det
-Arbetsmarknaden           tetstillväxten når därmed inte sin fulla
 också viktigt att innovationerna kan spri-
-potential. På grund av bristen på human-
-das ut så att hela ekonomin stärks. Werket delar kommissionens bedömning
-kapital i produktiva företag försvåras im-
+das ut så att hela ekonomin stärks.
+
+Produktivitetskommissionens uppdrag
+
+Produktivitetskomissionens ordförande Clas Olsson lämnar över utredningen till finansminister Svantesson
+
+har varit att analysera vilka faktorer
+som påverkar produktivitetstillväxten,
+identifiera hinder och möjligheter kring
+att höja produktivitetstillväxten i Sverige
+samt föreslå hur produktivitetstillväxten
+i både näringslivet och offentlig sektor
+kan öka.
+Slutbetänkandet överlämnades den
+första oktober till Finansdepartementet i
+form av SOU 2025:96 - Fler möjligheter
+till ökat välstånd. Kommissionen presen-
+terade ett delbetänkande i april 2024.
+Remissvar på del- och slutbetänkandet
+väntas i början av februari 2026.
+
+Arbetsmarknaden
+Werket delar kommissionens bedömning
 av arbetsmarknaden som avgörande för
-Produktivitetskommissionens uppdrag                plementeringen av nya innovationer och
 den svenska produktiviteten. Eftersom
+
+det är på arbetsmarknaden som human-
+kapitalet fördelas mellan olika verksam-
+heter i ekonomin. I bred bemärkelse kan
+humankapitalet beskrivas som summan
+av människors utbildning, färdigheter,
+talanger och kompetenser. Vad vi som
+människor bidrar med helt enkelt.
+När mindre produktiva företag går om-
+kull, exempelvis vid en strukturomställ-
+ning orsakad av en ny genombrottstek-
+nik, frigörs deras humankapital.
+
+På en illa fungerande arbetsmarknad kan
+humankapitalet inte omfördelas effektivt
+till andra arbetsgivare och produktivi-
+tetstillväxten når därmed inte sin fulla
+potential. På grund av bristen på human-
+kapital i produktiva företag försvåras im-
+plementeringen av nya innovationer och
+
 5
 
 <!-- sida 175 -->
@@ -7544,112 +8160,154 @@ den svenska produktiviteten. Eftersom
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-tillväxten uteblir, trots stora investeringar Regeringens arbetslinje, som kan exem- vare och arbetstagare.
-i forskning, utveckling och innovation. plifieras av tidigare arbetsmarknadsmi-
-Att underlätta högkvalificerad arbets-
-nister Johan Perssons utspel “det ska
-Två nyckelfaktorer för en välfungerande            kraftsinvandring är ett centralt förslag
-inte vara fett att vara arbetslös”, stöter
-arbetsmarknad som lyfts fram av kom-               från kommissionen. Här uppmanas
-alltså åter på patrull från tunga experter
-missionen är:                                      regeringen genomföra de förslag som
-på området.
-tagits fram i utredningen om en behov-
+WERKET MÅNADSRAPPORT
+
+tillväxten uteblir, trots stora investeringar
+i forskning, utveckling och innovation.
+Två nyckelfaktorer för en välfungerande
+arbetsmarknad som lyfts fram av kom-
+missionen är:
+
 • En fungerande matchning mellan
-sprövad arbetskraftsinvandring (SOU
 arbetsgivare och arbetstagare är
-2024:15):
 central för strukturomvandling och
-tillväxt.                                        • Förlängd tillståndstid för EU-blåkort.
-• Omställningsförmåga, utbildning och              • En utökad möjlighet att ansöka
-livslångt lärande måste stärkas för                om uppehållstillstånd för forskning
-att möta teknologiska och demogra-                 och studier på forskarnivå inifrån
-fiska förändringar.                                Sverige.
-Nuläge                                             • Nyfödda barn till innehavare av
-vissa EU-relaterade tillstånd ska få
-Kommissionen bedömer att den hu- F.d. arbetsmarknadsminister Johan Pehrson
-ansöka om uppehållstillstånd inifrån
+tillväxt.
+• Omställningsförmåga, utbildning och
+livslångt lärande måste stärkas för
+att möta teknologiska och demogra-
+fiska förändringar.
+
+Nuläge
+Kommissionen bedömer att den hu-
 vudsakliga drivkraften bakom nuläget
-Även när det gäller den geografiska Sverige.
 på arbetsmarknaden, med både hög
-rörligheten hos arbetssökande, som är
-arbetslöshet och kompetensbrist, består            • Ett undantag från lönekrav för
-en del av regeringens arbetslinje och ett
-i ökade pensionsavgångar kombinerat                  utlänningar som innehar uppehålls-
-fokusområde för Arbetsförmedlingen,
-med att befolkningstillväxten de senaste             tillstånd för forskning, studier inom
-instämmer kommissionen i Finanspoli-
-åren till stor del bestått av utrikes födda          högre utbildning m.m. samt för vissa
-tiska rådets bedömning att den endast
-som i vissa fall haft svårare att etablera           legitimerade yrken inom sjukvården.
-förklarar en mindre del av arbetslöshe-
+arbetslöshet och kompetensbrist, består
+i ökade pensionsavgångar kombinerat
+med att befolkningstillväxten de senaste
+åren till stor del bestått av utrikes födda
+som i vissa fall haft svårare att etablera
 sig på arbetsmarknaden eftersom de
-Hur dessa förslag tas emot blir intres-
-ten i landet.
 saknat rätt kompetens.
-sant att följa givet regeringens samman-
-Den åldrande befolkningen kombinerat
-Genom att höja kompetensnivån bland                sättning och nyligen införda lönekrav för
-med att efterfrågan på högkvalificerad
-arbetslösa bedömer kommissionen att                arbetskraftsinvandring, vilket inte har
-arbetskraft ökar, samtidigt som den
-kompetensbristen kan minskas.                      tagits väl emot av arbetsmarknadens
-minskat för lågkvalificerad arbetskraft,
-parter som i den svenska modellen styr
+
+Genom att höja kompetensnivån bland
+arbetslösa bedömer kommissionen att
+kompetensbristen kan minskas.
 Rätt diagnos leder till rätt åtgärder
-är en utmaning som behöver mötas på
-över lönebildningen.
-Kommissionens slutsatser ligger i linje flera fronter.
-Utbildning
+Kommissionens slutsatser ligger i linje
 med tidigare bedömningar från Finans-
-Mer flexibel lönebildning
-politiska rådet.                                   “Det bör skapas fler möjligheter för
-Även om det relativt snäva lönespan-
-personer som saknar rätt kompetens att
+politiska rådet.
+
 “Bristande ekonomiska incitament är
-net ökar jämlikheten jämfört med andra
-utbilda sig genom t.ex. vuxenutbildning,
 därför inte en central förklaring till
-länder, tappar trögrörliga lönenivåer sin
-yrkesutbildning eller arbetsmarknads-
 arbetslösheten utan förklaringen ska i
-styrförmåga på arbetsmarknaden. I för-
-utbildningar så att den grupp som i
 stället sökas i skillnaden mellan ar-
-längningen leder det till att lönerna inte
-dag står utanför arbetsmarknaden kan
 betskraftens kompetensnivå och den
-ökar i bristyrken såsom sjuksköterskor
-matchas med de lediga jobben.”
 kompetensnivå som efterfrågas på
-och civilingenjörer.
-arbetsmarknaden”                                   Trots att den svenska arbetskraften har
-Industriavtalets ledande ställning och
-höga färdighetsnivåer i jämförelse med
+arbetsmarknaden”
 Werket noterar att detta innebär en
-förhandlingsordningen mellan parterna
-övriga OECD-länder ser kommissionen
 indirekt kritik mot regeringens arbets-
-gör att förändringar i relativa löner är
-förbättringspotential i det svenska
 linje. Inkomstskillnaden mellan att ha
-svåra att åstadkomma. En större flexibi-
-utbildningssystemet. Svensk skola pre-
 ett arbete och att inte ha ett arbete har
-litet skulle underlätta för efterfrågan på
-sterar relativt väl, men dess uppdrag har
 ökat markant i Sverige sedan början
-arbetskraft att få ett större genomslag
-blivit svårare bl.a. till följd av ett föränd-
 av 2000-talet. Det finns därmed starka
-på lönebildningen för olika yrken, vilket
-rat elevunderlag.
 ekonomiska incitament till att ta arbete
+för de arbetslösa i Sverige.
+
+Regeringens arbetslinje, som kan exem-
+plifieras av tidigare arbetsmarknadsmi-
+nister Johan Perssons utspel “det ska
+inte vara fett att vara arbetslös”, stöter
+alltså åter på patrull från tunga experter
+på området.
+
+F.d. arbetsmarknadsminister Johan Pehrson
+
+Även när det gäller den geografiska
+rörligheten hos arbetssökande, som är
+en del av regeringens arbetslinje och ett
+fokusområde för Arbetsförmedlingen,
+instämmer kommissionen i Finanspoli-
+tiska rådets bedömning att den endast
+förklarar en mindre del av arbetslöshe-
+ten i landet.
+Den åldrande befolkningen kombinerat
+med att efterfrågan på högkvalificerad
+arbetskraft ökar, samtidigt som den
+minskat för lågkvalificerad arbetskraft,
+är en utmaning som behöver mötas på
+flera fronter.
+
+Mer flexibel lönebildning
+Även om det relativt snäva lönespan-
+net ökar jämlikheten jämfört med andra
+länder, tappar trögrörliga lönenivåer sin
+styrförmåga på arbetsmarknaden. I för-
+längningen leder det till att lönerna inte
+ökar i bristyrken såsom sjuksköterskor
+och civilingenjörer.
+
+Industriavtalets ledande ställning och
+förhandlingsordningen mellan parterna
+gör att förändringar i relativa löner är
+svåra att åstadkomma. En större flexibi-
+litet skulle underlätta för efterfrågan på
+arbetskraft att få ett större genomslag
+på lönebildningen för olika yrken, vilket
 i förlängningen kan bidra till en bättre
-för de arbetslösa i Sverige.                       För att möta kompetensbristen efterly-
 fungerande matchning mellan arbetsgi-
+
 6
+
+vare och arbetstagare.
+Att underlätta högkvalificerad arbets-
+kraftsinvandring är ett centralt förslag
+från kommissionen. Här uppmanas
+regeringen genomföra de förslag som
+tagits fram i utredningen om en behov-
+sprövad arbetskraftsinvandring (SOU
+2024:15):
+
+• Förlängd tillståndstid för EU-blåkort.
+• En utökad möjlighet att ansöka
+om uppehållstillstånd för forskning
+och studier på forskarnivå inifrån
+Sverige.
+
+• Nyfödda barn till innehavare av
+vissa EU-relaterade tillstånd ska få
+ansöka om uppehållstillstånd inifrån
+Sverige.
+• Ett undantag från lönekrav för
+utlänningar som innehar uppehålls-
+tillstånd för forskning, studier inom
+högre utbildning m.m. samt för vissa
+legitimerade yrken inom sjukvården.
+
+Hur dessa förslag tas emot blir intres-
+sant att följa givet regeringens samman-
+sättning och nyligen införda lönekrav för
+arbetskraftsinvandring, vilket inte har
+tagits väl emot av arbetsmarknadens
+parter som i den svenska modellen styr
+över lönebildningen.
+Utbildning
+“Det bör skapas fler möjligheter för
+personer som saknar rätt kompetens att
+utbilda sig genom t.ex. vuxenutbildning,
+yrkesutbildning eller arbetsmarknads-
+utbildningar så att den grupp som i
+dag står utanför arbetsmarknaden kan
+matchas med de lediga jobben.”
+
+Trots att den svenska arbetskraften har
+höga färdighetsnivåer i jämförelse med
+övriga OECD-länder ser kommissionen
+förbättringspotential i det svenska
+utbildningssystemet. Svensk skola pre-
+sterar relativt väl, men dess uppdrag har
+blivit svårare bl.a. till följd av ett föränd-
+rat elevunderlag.
+För att möta kompetensbristen efterly-
 
 <!-- sida 176 -->
 
@@ -7657,86 +8315,143 @@ fungerande matchning mellan arbetsgi-
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-ser kommissionen snabbare vägar in på förlorat upphandlingen, vilket förse- incitament på deras upphandlade mark-
-arbetsmarknaden för ungdomar. Framför nar utbildningen kraftigt. nader som ligger i linje med verksamhet-
-allt genom att de ges en bättre och mer            ens målsättning. Ironiskt nog verkar de
-relevant utbildning.                               politiska vindarna ha vänt just som de
-mest grundläggande förutsättningarna
+WERKET MÅNADSRAPPORT
+
+ser kommissionen snabbare vägar in på
+arbetsmarknaden för ungdomar. Framför
+allt genom att de ges en bättre och mer
+relevant utbildning.
 Vidare efterfrågas bättre förutsättningar
-för förra regeringens marknadslösning
 för elever och studenter att prognostise-
-kommit på plats.
 ra den framtida arbetsmarknaden för att
-förbättra matchningen på arbetsmarkna-             Konkurrens inom välfärdssektorn
+förbättra matchningen på arbetsmarkna-
 den. Även här spelar lönerna in, om lö-
-Utgångspunkten för kommissionen i det
 nebildningen inte avspeglar olika yrkens
-här ämnet är att den offentliga sektorn
 samhälleliga värde kan de ekonomiska
-är i behov av lösningar som kan bidra till
 incitamenten att välja värdeskapande
-ökad effektivitet. Där konkurrensutsätt-
 yrken vara för svaga.
-ning kan vara ett potentiellt verktyg för
-Arbetsmarknadutbildning                            att åstadkomma detta.
-Werket konstaterar att kommissionens               Produktivitetskommissionen drar den
-slutsatser kring AUB ligger nära arbets-           generella slutsatsen att det fortfarande
-marknadens parters tidigare kritik. I              saknas tillräcklig kunskap för att defini-
-rapporten framhålls exempelvis, i linje            tivt kunna uttala sig om konkurrensut-
-med Svenskt Näringslivs analys, att                sättningens effekter på de olika väl-
-deltagande i AUB behöver öka. Arbets-              färdssystemens resultat, måluppfyllelse
-marknadens parter har i flera års tid              och kostnadseffektivitet. De effekter
-Svenskt Näringslivs rapport ”Vrid upp volymen”
-påtalat behovet. Regeringar har höjt               som kunnat identifieras är överlag små.
-ambitionsnivån men Arbetsförmedlingen              Samtidigt har flera konkurrensutsatta
-Detta skapar stora effektivitetsproblem
-har haft förtvivlat svårt att leverera.            kvasi-/ välfärdsmarknader, väsentliga
-i utformningen av AUB. Ibland på grund
-brister i reglering och utformning.
-Myndigheten har genom åren förklarat av att försenade utbildningsstarter lett
-detta med att det är svårt att hitta delta- till att det behov på arbetsmarknaden Det som kännetecknar en kvasimarknad
-gare, men här stämmer kommissionen in som den planerade utbildningen var är ett trepartsförhållande: den offentliga
-i kritiken som tydligt formulerats i bland tänkt att möta förändrats. sektorn betalar, en utförare producerar
-annat Svenskt Näringslivs rapport Vrid             tjänsten och en individ konsumerar den.
-Två huvudsakliga förslag förs fram:
+
+Arbetsmarknadutbildning
+Werket konstaterar att kommissionens
+slutsatser kring AUB ligger nära arbets-
+marknadens parters tidigare kritik. I
+rapporten framhålls exempelvis, i linje
+med Svenskt Näringslivs analys, att
+deltagande i AUB behöver öka. Arbets-
+marknadens parter har i flera års tid
+påtalat behovet. Regeringar har höjt
+ambitionsnivån men Arbetsförmedlingen
+har haft förtvivlat svårt att leverera.
+
+Myndigheten har genom åren förklarat
+detta med att det är svårt att hitta delta-
+gare, men här stämmer kommissionen in
+i kritiken som tydligt formulerats i bland
+annat Svenskt Näringslivs rapport Vrid
 upp volymen - fler i arbetsmarknadsut-
-Marknadernas framväxt
-bildningar som leder till jobb: 1. Omdefiniera målgruppen för AUB,
-så att den i högre utsträckning utgår Det var framför allt från 90-talet och
+bildningar som leder till jobb:
 “Det är i nuläget endast två procent av
-ifrån den arbetssökandes jobbchan- framåt som större kvasimarknadsrefor-
 de inskrivna arbetslösa som deltar i en
-ser efter avslutad utbildning, snara- mer genomfördes. Exempel är Frisko-
 arbetsmarknadsutbildning och det fram-
-re än tiden i arbetslöshet. lereformen som genomfördes 1992,
 står inte som troligt att det därför på det
-Assistansreformen som tillkom 1994 och
-stora hela skulle saknas kandidater.” 2. Dela upp Arbetsförmedlingens upp-
-LOV som infördes 2009.
-handlingar av AUB i regionala kon-
+stora hela skulle saknas kandidater.”
+
 Två problem har identifierats:
-trakt för att minska risken för och På 90-talet präglades tidsandan av en
-1\. Arbetsförmedlingens målgrupps- konsekvenserna av överprövningar. tilltro till marknadens potential att lösa
-defintion och syftet med insatsen                komplexa problem. Sverige var mitt i en
-Kritiken pekar på ett, för månadsrap-
-behöver ses över. Allt för stor vikt             djup lågkonjunktur med stor inverkan på
-portens läsare, välkänt och omfattande
-läggs vid att en person ska ha varit             arbetsmarknaden, till och med arbets-
-problem: Arbetsförmedlingens långva-
-arbetslös tillräckligt länge för att             kraften inom den offentliga sektorn på-
-riga svårighet att effektivt upphandla
-tilldelas insatsen.                              verkades kraftigt i krisen, en sektor som
-insatser och tjänster.
-annars brukar vara fredad i kristider.
+1\. Arbetsförmedlingens målgrupps-
+defintion och syftet med insatsen
+behöver ses över. Allt för stor vikt
+läggs vid att en person ska ha varit
+arbetslös tillräckligt länge för att
+tilldelas insatsen.
 2\. Myndigheten väljer att upphandla
+utbildningar med för stora värden.
+Detta skapar incitament för över-
+prövningar från leverantörer som
+
+förlorat upphandlingen, vilket förse-
+nar utbildningen kraftigt.
+
+Svenskt Näringslivs rapport ”Vrid upp volymen”
+
+Detta skapar stora effektivitetsproblem
+i utformningen av AUB. Ibland på grund
+av att försenade utbildningsstarter lett
+till att det behov på arbetsmarknaden
+som den planerade utbildningen var
+tänkt att möta förändrats.
+Två huvudsakliga förslag förs fram:
+
+1\. Omdefiniera målgruppen för AUB,
+så att den i högre utsträckning utgår
+ifrån den arbetssökandes jobbchan-
+ser efter avslutad utbildning, snara-
+re än tiden i arbetslöshet.
+2\. Dela upp Arbetsförmedlingens upp-
+handlingar av AUB i regionala kon-
+trakt för att minska risken för och
+konsekvenserna av överprövningar.
+
+Kritiken pekar på ett, för månadsrap-
+portens läsare, välkänt och omfattande
+problem: Arbetsförmedlingens långva-
+riga svårighet att effektivt upphandla
+insatser och tjänster.
 Werket kan konstatera att myndigheten
-utbildningar med för stora värden.               Stora förhoppningar fanns om att privata
 över lång tid kämpat med att få till de
-Detta skapar incitament för över-                aktörer, med starka drivkrafter att bidra
 mest basala hygienfaktorerna och skapa
-prövningar från leverantörer som                 med nya arbetssätt, skulle vitalisera den
+
 7
+
+incitament på deras upphandlade mark-
+nader som ligger i linje med verksamhet-
+ens målsättning. Ironiskt nog verkar de
+politiska vindarna ha vänt just som de
+mest grundläggande förutsättningarna
+för förra regeringens marknadslösning
+kommit på plats.
+Konkurrens inom välfärdssektorn
+
+Utgångspunkten för kommissionen i det
+här ämnet är att den offentliga sektorn
+är i behov av lösningar som kan bidra till
+ökad effektivitet. Där konkurrensutsätt-
+ning kan vara ett potentiellt verktyg för
+att åstadkomma detta.
+Produktivitetskommissionen drar den
+generella slutsatsen att det fortfarande
+saknas tillräcklig kunskap för att defini-
+tivt kunna uttala sig om konkurrensut-
+sättningens effekter på de olika väl-
+färdssystemens resultat, måluppfyllelse
+och kostnadseffektivitet. De effekter
+som kunnat identifieras är överlag små.
+Samtidigt har flera konkurrensutsatta
+kvasi-/ välfärdsmarknader, väsentliga
+brister i reglering och utformning.
+
+Det som kännetecknar en kvasimarknad
+är ett trepartsförhållande: den offentliga
+sektorn betalar, en utförare producerar
+tjänsten och en individ konsumerar den.
+Marknadernas framväxt
+
+Det var framför allt från 90-talet och
+framåt som större kvasimarknadsrefor-
+mer genomfördes. Exempel är Frisko-
+lereformen som genomfördes 1992,
+Assistansreformen som tillkom 1994 och
+LOV som infördes 2009.
+På 90-talet präglades tidsandan av en
+tilltro till marknadens potential att lösa
+komplexa problem. Sverige var mitt i en
+djup lågkonjunktur med stor inverkan på
+arbetsmarknaden, till och med arbets-
+kraften inom den offentliga sektorn på-
+verkades kraftigt i krisen, en sektor som
+annars brukar vara fredad i kristider.
+Stora förhoppningar fanns om att privata
+aktörer, med starka drivkrafter att bidra
+med nya arbetssätt, skulle vitalisera den
 
 <!-- sida 177 -->
 
@@ -7744,69 +8459,117 @@ prövningar från leverantörer som                 med nya arbetssätt, skulle 
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
 
 Finansminister Elisabeth Svantesson debatterar budgeten med oppositionens Mikael Damberg.
-offentliga sektorn och öka produktivite- ga aktörer. Å andra sidan skulle ett illa Att just dessa komponenter, uppföljning
-ten.                     utformat system kunna tillåta privata ak- och kontroll, ofta behandlats med vän-
-törer att tjäna pengar genom att leverera sterhanden kan ha en stor förklaring till
+
+offentliga sektorn och öka produktivite-
+ten.
 I efterhand är det dock tydligt att det på
-undermålig kvalitet.      varför vissa marknader misslyckats med
 flera håll fanns brister i förståelsen för
-att leverera det beställaren eftersträvar.
-vikten av marknadernas utformning och För det andra skulle konkurrensen om
-dess incitament att kostnadseffektivt brukare eller kontrakt kunna förmå Å andra sidan har uppföljning och insikt
-driva mot kvalitativ slutprodukt. En brist aktörer, såväl privata som offentliga, även en stor påverkan på kvaliteten i
-som höll i sig över tid. att prestera bättre eller sämre. Denna offentlig verksamhets leverans.
-systemeffekt kan vara positiv om aktörer
-I betänkandet för LOV saknades analys              För att undvika att en alltför stor del
-pressas att erbjuda högre kvalitet eller
-av eventuell etablering av kriminella och          välfärdsstatens resurser går till tvära
-minska kostnaderna, t.ex. för att tilldel-
-oseriösa aktörer. I regeringens proposi-           kast mellan olika system istället för till
-ningsgrunden i en upphandling pre-
-tion gjordes heller ingen analys av kon-           huvudverksamheten, verkar löpande
-mierar det eller att brukarnas val driver
-sekvenser för brottsligheten eller kost-           och djupgående uppföljning av den
-högre kvalitet.
-nader för kontroller (prop. 2008/09:29).           välfärd som levereras vara nyckeln. Då
-Systemeffekten kan dock också vara ne- finns möjligheten att fånga upp och
+vikten av marknadernas utformning och
+dess incitament att kostnadseffektivt
+driva mot kvalitativ slutprodukt. En brist
+som höll i sig över tid.
+
+I betänkandet för LOV saknades analys
+av eventuell etablering av kriminella och
+oseriösa aktörer. I regeringens proposi-
+tion gjordes heller ingen analys av kon-
+sekvenser för brottsligheten eller kost-
+nader för kontroller (prop. 2008/09:29).
 Dagens välfärdsmarknader
-gativ, t.ex. om privata utförare segrege- implementera små förbättringar succes-
-Även om privata aktörer ofta står för en rar deltagarunderlaget och därigenom sivt över tid, vilket leder till en iterativ
-mindre del inom olika välfärdsområden kan genomföra enbart de insatser som förbättring snarare än tvära, kostsamma
-har privata inslag etablerats på många ger högre lönsamhet. kast med oklar nytta.
+
+Även om privata aktörer ofta står för en
+mindre del inom olika välfärdsområden
+har privata inslag etablerats på många
 håll inom välfärdssektorn. Andelen pri-
-Werket tolkar kommissionens reso- Insikt saknas
 vata utförare varierar, mellan en tiondel
-nemang som ett starkt argument för
-av regional hälso- och sjukvård till nära          Kommissionen konstaterar att varje kva-
-kontinuerlig utvärdering och lärande
-tre fjärdedelar av alla HVB. Dock finns            simarknad och tjänst bör analyseras var
-styrning inom välfärden. “The devil is in
-det stora regionala skillnader runt om i           för sig. De har alla olika förutsättningar
-the details” som engelsmännen brukar
-landet beroende på sektor.                         att bli framgångsrika.
-säga. Kommissionen pekar på att det
-Huvudsakliga effekter    ligger i hur kvasimarknaderna utformas, Trots att det är länge sedan reformer-
-vilka incitament som etableras och hur na genomfördes saknas tillräckligt god
+av regional hälso- och sjukvård till nära
+tre fjärdedelar av alla HVB. Dock finns
+det stora regionala skillnader runt om i
+landet beroende på sektor.
+Huvudsakliga effekter
+
 Kommissionen fastslår att två huvudsak-
-drivkrafterna regleras som avgör hur kunskap för att definitivt kunna bedöma
 liga typer av effekter kan uppkomma när
-kostnadseffektiv en marknadslösning hur väl kvasimarknader fungerar.
 verksamhet läggs ut på privata utförare.
-blir. Utan förståelse och kontinuerlig
-Flera av systemen präglas också av reg-
 I ett väl utformat system skulle för det
-uppföljning finns det även risk för att
-leringsmisslyckanden. Tillräcklig hänsyn
 första företags starka drivkrafter att
-systemen fortsätter att leva efter gamla
-har inte tagits till vikten av att incita-
 generera vinst kunna få dem att göra ett
-sanningar och slutar leverera nytta.
-mentsstrukturen ska peka åt rätt håll.
 effektivare och bättre jobb än offentli-
+
+ga aktörer. Å andra sidan skulle ett illa
+utformat system kunna tillåta privata ak-
+törer att tjäna pengar genom att leverera
+undermålig kvalitet.
+För det andra skulle konkurrensen om
+brukare eller kontrakt kunna förmå
+aktörer, såväl privata som offentliga,
+att prestera bättre eller sämre. Denna
+systemeffekt kan vara positiv om aktörer
+pressas att erbjuda högre kvalitet eller
+minska kostnaderna, t.ex. för att tilldel-
+ningsgrunden i en upphandling pre-
+mierar det eller att brukarnas val driver
+högre kvalitet.
+
+Systemeffekten kan dock också vara ne-
+gativ, t.ex. om privata utförare segrege-
+rar deltagarunderlaget och därigenom
+kan genomföra enbart de insatser som
+ger högre lönsamhet.
+Werket tolkar kommissionens reso-
+nemang som ett starkt argument för
+kontinuerlig utvärdering och lärande
+styrning inom välfärden. “The devil is in
+the details” som engelsmännen brukar
+säga. Kommissionen pekar på att det
+ligger i hur kvasimarknaderna utformas,
+vilka incitament som etableras och hur
+drivkrafterna regleras som avgör hur
+kostnadseffektiv en marknadslösning
+blir. Utan förståelse och kontinuerlig
+uppföljning finns det även risk för att
+systemen fortsätter att leva efter gamla
+sanningar och slutar leverera nytta.
+
+Att just dessa komponenter, uppföljning
+och kontroll, ofta behandlats med vän-
+sterhanden kan ha en stor förklaring till
+varför vissa marknader misslyckats med
+att leverera det beställaren eftersträvar.
+Å andra sidan har uppföljning och insikt
+även en stor påverkan på kvaliteten i
+offentlig verksamhets leverans.
+
+För att undvika att en alltför stor del
+välfärdsstatens resurser går till tvära
+kast mellan olika system istället för till
+huvudverksamheten, verkar löpande
+och djupgående uppföljning av den
+välfärd som levereras vara nyckeln. Då
+finns möjligheten att fånga upp och
+implementera små förbättringar succes-
+sivt över tid, vilket leder till en iterativ
+förbättring snarare än tvära, kostsamma
+kast med oklar nytta.
+Insikt saknas
+
+Kommissionen konstaterar att varje kva-
+simarknad och tjänst bör analyseras var
+för sig. De har alla olika förutsättningar
+att bli framgångsrika.
+Trots att det är länge sedan reformer-
+na genomfördes saknas tillräckligt god
+kunskap för att definitivt kunna bedöma
+hur väl kvasimarknader fungerar.
+
+Flera av systemen präglas också av reg-
+leringsmisslyckanden. Tillräcklig hänsyn
+har inte tagits till vikten av att incita-
+mentsstrukturen ska peka åt rätt håll.
+
 8
 
 <!-- sida 178 -->
@@ -7815,80 +8578,139 @@ effektivare och bättre jobb än offentli-
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-En av kommissionen centrala slutsatser 3. Det bör införas fler konkurrensfräm- och styrning är för Sveriges långsiktiga
-är att om förändringar i kvasimarknader- jande mekanismer i kvasimarkna- produktivitet. Många av utmaningarna
-nas utformning genomförs finns potenti- der, exempelvis standardval som är välkända, men betänkandet under-
-al för ytterligare positiva resultat, framför premierar de bästa aktörerna. stryker vikten av att de hanteras samlat,
-allt inom skolans område. Potential för            inte som separata reformområden. Det
-Kommissionen uppskattar även några
-att undvika negativa effekter bedöms               handlar ytterst om förmågan att skapa
-effekter som kan uppstå. Stärkt uppfölj-
-finnas i nästan alla system.                       institutioner som lär, justerar och för-
-ning, kontroll och analys av kvasimark-
-bättras över tid. Där avgörs produktivite-
-Bedömningar och förslag  nader förväntas medföra högre kostna-
-tens framtid.
-der för ansvariga kommuner, regioner
+WERKET MÅNADSRAPPORT
+
+En av kommissionen centrala slutsatser
+är att om förändringar i kvasimarknader-
+nas utformning genomförs finns potenti-
+al för ytterligare positiva resultat, framför
+allt inom skolans område. Potential för
+att undvika negativa effekter bedöms
+finnas i nästan alla system.
+Bedömningar och förslag
+
 Kommissionen gör tre bedömningar gäl-
-och myndigheter. I den mån felaktiga
 lande befintlig konkurrens inom välfärds-
-utbetalningar då också förhindras kan
 sektorn:
-nettokostnaden ändå minska.
 1\. Kvasimarknader bör regelbundet
-Kommissionen förväntar sig att be-
 utvärderas och omregleras i syfte
-dömningarna har positiva effekter på
 att åtgärda problem som eventuellt
-konkurrensen mellan aktörerna på
 uppstått. Kapacitet för detta behö-
-kvasimarknaderna och en positiv effekt
 ver säkerställas. Information som tas
-på kostnadseffektiviteten i de tjänster
 fram inom sådant arbete bör delas
-som levereras. Medborgare som nyttjar
 till allmänheten.
-tjänsterna kan därför också förväntas
-2\. Det bör generellt ställas höga krav påverkas positivt.
+
+2\. Det bör generellt ställas höga krav
 på aktörer för att få delta på en kva-
-Avslutningsvis
 simarknad. Att kraven uppfylls bör
-säkerställas både genom kontroll vid Sammantaget visar Produktivitetskom-
-aktörers inträde och genom löpande missionens arbete hur centralt samspe-
-tillsyn.               let mellan arbetsmarknad, utbildning
+säkerställas både genom kontroll vid
+aktörers inträde och genom löpande
+tillsyn.
+
+3\. Det bör införas fler konkurrensfräm-
+jande mekanismer i kvasimarkna-
+der, exempelvis standardval som
+premierar de bästa aktörerna.
+Kommissionen uppskattar även några
+effekter som kan uppstå. Stärkt uppfölj-
+ning, kontroll och analys av kvasimark-
+nader förväntas medföra högre kostna-
+der för ansvariga kommuner, regioner
+och myndigheter. I den mån felaktiga
+utbetalningar då också förhindras kan
+nettokostnaden ändå minska.
+
+Kommissionen förväntar sig att be-
+dömningarna har positiva effekter på
+konkurrensen mellan aktörerna på
+kvasimarknaderna och en positiv effekt
+på kostnadseffektiviteten i de tjänster
+som levereras. Medborgare som nyttjar
+tjänsterna kan därför också förväntas
+påverkas positivt.
+Avslutningsvis
+
+Sammantaget visar Produktivitetskom-
+missionens arbete hur centralt samspe-
+let mellan arbetsmarknad, utbildning
+
 Notiser
-Tre  pristagare   i      Fler nyanlända            Fler gymnasieplat-
-ekonomi                  barn  i förskola          ser påverkade     val
-Årets ekonomipris till Alfred Nobels Sedan hösten 2023 erbjuder kommu- När gymnasieskolan byggdes ut föränd-
-minne går till Joel Mokyr, Philippe Aghion nerna reserverade förskoleplatser till rades elevers studieval, men inte deras
-och Peter Howitt för deras forskning nyanlända barn i åldern 3–5 år, även framtida inkomster eller sysselsättning.
-om hur innovationer driver ekonomisk när föräldrarna inte själva ansökt. En ny
-En ny studie från IFAU omfattar 1,2 miljo-
-tillväxt. Pristagarna har visat hur ny tek- rapport från IFAU visar att åtgärden haft
-ner elever som sökte till gymnasiet mel-
-nik och vetenskapliga genombrott kan viss effekt. Fler barn börjar i förskolan,
-lan 1975-1986. Fler platser på teoretiska
-skapa en självförstärkande process där men långt ifrån alla.
-linjer ledde till att fler elever antogs och
+
+Tre  pristagare   i
+ekonomi
+
+Årets ekonomipris till Alfred Nobels
+minne går till Joel Mokyr, Philippe Aghion
+och Peter Howitt för deras forskning
+om hur innovationer driver ekonomisk
+tillväxt. Pristagarna har visat hur ny tek-
+nik och vetenskapliga genombrott kan
+skapa en självförstärkande process där
 varje innovation banar väg för nästa.
-Forskarna har följt drygt 2 000 nyanlän- började gymnasiet, men inte fler som
-Joel Mokyr belönas för att ha identifierat da barn som stod utanför förskolan vå- slutförde utbildningen. För de tvååriga
-de historiska förutsättningarna för ihål- ren 2023. Utan automatiska erbjudanden yrkeslinjerna var effekten den motsatta.
-lande tillväxt genom teknologisk utveck- skulle 29 procent ha börjat till hösten,
-När eleverna följdes upp vid 42 års
-ling, medan Philippe Aghion och Peter men med erbjudanden ökade andelen till
-ålder syntes tydliga skillnader mellan
-Howitt prisas för sin teori om ”kreativ 34 procent.
-utbildningstyper: teoretiska linjer gav i
+Joel Mokyr belönas för att ha identifierat
+de historiska förutsättningarna för ihål-
+lande tillväxt genom teknologisk utveck-
+ling, medan Philippe Aghion och Peter
+Howitt prisas för sin teori om ”kreativ
 förstörelse”, att nya innovationer ersätter
-Effekten var tydligast bland barn till genomsnitt högre lön och sysselsättning
 gamla och därmed driver utvecklingen
-mammor med eftergymnasial utbildning, än yrkesinriktade. Men platsutbudet
 framåt.
-medan barn till föräldrar med kortare påverkade inte elevernas långsiktiga
-utbildning påverkades mindre. inkomster eller arbetsmarknadsutfall.
+
+Fler nyanlända
+
+barn  i förskola
+Sedan hösten 2023 erbjuder kommu-
+nerna reserverade förskoleplatser till
+nyanlända barn i åldern 3–5 år, även
+när föräldrarna inte själva ansökt. En ny
+rapport från IFAU visar att åtgärden haft
+viss effekt. Fler barn börjar i förskolan,
+men långt ifrån alla.
+
+Forskarna har följt drygt 2 000 nyanlän-
+da barn som stod utanför förskolan vå-
+ren 2023. Utan automatiska erbjudanden
+skulle 29 procent ha börjat till hösten,
+men med erbjudanden ökade andelen till
+34 procent.
+Effekten var tydligast bland barn till
+mammor med eftergymnasial utbildning,
+medan barn till föräldrar med kortare
+utbildning påverkades mindre.
+
 9
+
+och styrning är för Sveriges långsiktiga
+produktivitet. Många av utmaningarna
+är välkända, men betänkandet under-
+stryker vikten av att de hanteras samlat,
+inte som separata reformområden. Det
+handlar ytterst om förmågan att skapa
+institutioner som lär, justerar och för-
+bättras över tid. Där avgörs produktivite-
+tens framtid.
+
+Fler gymnasieplat-
+
+ser  påverkade    val
+
+När gymnasieskolan byggdes ut föränd-
+rades elevers studieval, men inte deras
+framtida inkomster eller sysselsättning.
+En ny studie från IFAU omfattar 1,2 miljo-
+ner elever som sökte till gymnasiet mel-
+lan 1975-1986. Fler platser på teoretiska
+linjer ledde till att fler elever antogs och
+började gymnasiet, men inte fler som
+slutförde utbildningen. För de tvååriga
+yrkeslinjerna var effekten den motsatta.
+När eleverna följdes upp vid 42 års
+ålder syntes tydliga skillnader mellan
+utbildningstyper: teoretiska linjer gav i
+genomsnitt högre lön och sysselsättning
+än yrkesinriktade. Men platsutbudet
+påverkade inte elevernas långsiktiga
+inkomster eller arbetsmarknadsutfall.
 
 <!-- sida 179 -->
 
@@ -7896,7 +8718,8 @@ utbildning påverkades mindre. inkomster eller arbetsmarknadsutfall.
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Skolverket
 
 Försämrad             etablering
@@ -7904,8 +8727,8 @@ Försämrad             etablering
 efter      gymnasieskolan
 
 Ny statistik från Skolverket visar att andelen ungdomar som efter avslutad gym-
-nasieutbildning antingen är etablerade på arbetsmarknaden eller studerar på hög-
 
+nasieutbildning antingen är etablerade på arbetsmarknaden eller studerar på hög-
 skola har minskat jämfört med tidigare år.
 
 Skolverket mäter årligen, med hjälp av Högskoleförberedande program Yrkesprogram
@@ -7920,58 +8743,79 @@ avslutade sin gymnasieutbildning läsåret
 2021/2022, visar på en försämring jäm-
 20%                   21,4%
 fört med föregående år.
-10%
-Mätperioden täcker in Covid-pandemin,                                   5,1%
-som skulle kunna utgöra en förklaring för 0%
-den minskade etableringen på arbets- 2015 2016 2017 2018 2019 2020 2021 2022 2023 2015 2016 2017 2018 2019 2020 2021 2022 2023
-Etablerad ställning Högskole-studerande
+
+Mätperioden täcker in Covid-pandemin,
+som skulle kunna utgöra en förklaring för
+den minskade etableringen på arbets-
 marknaden och den ökade andelen i
-Andelen ungdomar som är etablerade på arbetsmarknaden eller studerar på högskola ett år efter avslutad
-högskolestudier under 2020 och 2021.         gymnasieutbildning
+högskolestudier under 2020 och 2021.
 Pandemin ändrade sannolikt ungdo-
-gymnasieutbildning studerar på hög-
 marnas förutsättningar och beteenden
-skola har varit mer eller mindre konstant
-under denna period, men kan inte på                    Werket
-under hela perioden, och låg 2023 på
+under denna period, men kan inte på
 samma sätt förklara minskningen mellan
-5,1 procent. Männen som studerat på yr- kommenterar
 2022 och 2023.
-kesprogram är i högre grad än kvinnorna
-Andelen ungdomar som efter ett yrkes- etablerade på arbetsmarknaden, medan
-Under 2022 gick ekonomin in
-program hade en etablerad ställning på kvinnorna i högre utsträckning studerar
-i en utdragen kostnadsdriven
-arbetsmarknaden minskade 2023 med på högskola än männen.
-lågkonjunktur, där både besök-
+Andelen ungdomar som efter ett yrkes-
+program hade en etablerad ställning på
+arbetsmarknaden minskade 2023 med
 cirka två procentenheter jämfört med
-Andelen som är etablerade på arbets- snäring men framförallt byggs-
 året innan, till 52,7 procent. Minskning-
-marknaden har minskat med cirka en ektorn drabbades hårt. Troligtvis
 en kan konstateras i alla yrkesprogram,
-procentenhet också för ungdomar som kan den minskade etableringen
 men störst var den för de ungdomar
-studerat på högskoleförberedande i de branscherna förklaras av
 som studerat på Hotell- och turismpro-
-program. I denna grupp är det dock av- sjunkande efterfrågan.
 grammet där andelen med en etablerad
-sevärt vanligare att ett år efter avslutad
-Sedan tidigare vet vi att unga
 ställning på arbetsmarknaden minskade
-gymnasieutbildning studera på högskola,
-och nyanställda påverkas tidigt i
 med 6 procentenheter. Även elever som
-men även där har andelen minskat - från
-kriser. Därmed konstaterar Wer-
 avslutat studier på bygg- och anlägg-
-44 procent 2022 till 42,5 procent 2023.
-ket att utfallet från skolverkets
 ningsprogrammet var hårt drabbade,
-mätning är intressant men inte
 med en minskad etableringsgrad om fem
-förvånande.
 procentenheter. Andelen ungdomar från
 yrkesprogram som ett år efter avslutad
+
+10%
+5,1%
+0%
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Etablerad ställning Högskole-studerande
+Andelen ungdomar som är etablerade på arbetsmarknaden eller studerar på högskola ett år efter avslutad
+gymnasieutbildning
+
+gymnasieutbildning studerar på hög-
+skola har varit mer eller mindre konstant
+under hela perioden, och låg 2023 på
+5,1 procent. Männen som studerat på yr-
+kesprogram är i högre grad än kvinnorna
+etablerade på arbetsmarknaden, medan
+kvinnorna i högre utsträckning studerar
+på högskola än männen.
+Andelen som är etablerade på arbets-
+marknaden har minskat med cirka en
+procentenhet också för ungdomar som
+studerat på högskoleförberedande
+program. I denna grupp är det dock av-
+sevärt vanligare att ett år efter avslutad
+gymnasieutbildning studera på högskola,
+men även där har andelen minskat - från
+44 procent 2022 till 42,5 procent 2023.
+
+Werket
+
+kommenterar
+
+Under 2022 gick ekonomin in
+i en utdragen kostnadsdriven
+lågkonjunktur, där både besök-
+snäring men framförallt byggs-
+ektorn drabbades hårt. Troligtvis
+kan den minskade etableringen
+i de branscherna förklaras av
+sjunkande efterfrågan.
+Sedan tidigare vet vi att unga
+och nyanställda påverkas tidigt i
+kriser. Därmed konstaterar Wer-
+ket att utfallet från skolverkets
+mätning är intressant men inte
+förvånande.
+
 10
 
 <!-- sida 180 -->
@@ -7980,65 +8824,127 @@ yrkesprogram som ett år efter avslutad
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Arbetsförmedlingen
 
 Skärpta       krav     men     oklart
 
-om    matchningen              förbättrats
+om     matchningen             förbättrats
 
 Arbetsförmedlingen beskriver stora framsteg i sitt arbete med att öka den geogra-
-
 fiska och yrkesmässiga rörligheten bland arbetssökande. Men bakom de positiva
 formuleringarna döljer sig främst administrativa förbättringar och fler kontroller –
 
 inte nödvändigtvis en bättre matchning på arbetsmarknaden.
 
-I sin återrapport Förbättrad matchning arbetssökande som inte följer denna lin-
-och kontroll, som lämnades till regering- je kan förlora ersättningen i flera dagar. Werket
-en den 1 oktober, framhåller Arbetsför- Myndigheten följer dessutom numera
-kommenterar
-medlingen att kvaliteten i handlingspla- upp IP-adresser för att kontrollera om
-nerna har ”förbättrats kraftigt” och att arbetssökande befinner sig utomlands.
-Det finns en rimlighet i att ar-
+I sin återrapport Förbättrad matchning
+och kontroll, som lämnades till regering-
+en den 1 oktober, framhåller Arbetsför-
+medlingen att kvaliteten i handlingspla-
+nerna har ”förbättrats kraftigt” och att
 myndigheten nu har ”tydligare för-
-Samtidigt har regeringen höjt ersätt- betslöshetsförsäkringen förknip-
 väntningar” på arbetssökande att söka
-ningsnivåerna för intervjuresor och pro- pas med krav. I många andra
 jobb även utanför sitt yrkesområde och
-gramresor i syfte att stimulera rörlighet, länder talar man om ”mutual
 bortom dagpendlingsavstånd.
-men Arbetsförmedlingen noterar att obligations”, ett ömsesidigt an-
-Enligt rapporten har andelen handlings- antalet intervjuresor tvärtom minskat. svar mellan stat och medborg-
-planer med dokumenterade sökområden Myndigheten hänvisar till att de nya are. Den som får stöd förväntas
-ökat från 30 till 77 procent under våren, nivåerna infördes i januari 2025 och att vara aktiv, men staten har i sin
-och antalet varningar och sanktioner det därför är för tidigt för att dra slutsat- tur ett ansvar att ge stöd.
-mot arbetssökande som begränsat sitt ser, men tillräckligt länge för att väcka
-Arbetslöshetsersättningen är
-sökområde har mer än fyrdubblats mel- frågan om effekten av höjningen är så
-inte ett bidrag utan en omställ-
-lan maj och augusti.     stark som regeringen hoppats.
-ningsförsäkring. Den ska ge
-Men några belägg för att de skärpta Den kanske tydligaste utveckling- ekonomisk trygghet mellan två
-reglerna lett till bättre matchning eller en ligger snarare i kontrollsystemen. jobb och hjälpa individen att
-snabbare övergång till arbete finns ännu Handlingsplaner, aktivitetsrapporter och ta nästa steg. För att den ska
-inte. Myndigheten konstaterar själv att sanktionsärenden har digitaliserats och fungera så krävs mer än kontroll
-andelen arbetssökande som fått jobb strukturerats för att kunna följas upp och sanktionssystem. Inte minst
-inom 90 dagar efter beslut om intervju- automatiskt. Myndigheten kan nu ma- krävs dialog och konkret stöd
-resa har minskat under både 2024 och skinellt identifiera om en arbetssökande i att förstå vilka jobb som är möj-
-2025\. Förklaringen sägs ligga i konjunk- sökt ”fel” typ av jobb. liga, hur långt man rimligen kan
-turen och i att fler arbetssökande nu                  pendla och vilka yrken som går
+Enligt rapporten har andelen handlings-
+planer med dokumenterade sökområden
+ökat från 30 till 77 procent under våren,
+och antalet varningar och sanktioner
+mot arbetssökande som begränsat sitt
+sökområde har mer än fyrdubblats mel-
+lan maj och augusti.
+
+Men några belägg för att de skärpta
+reglerna lett till bättre matchning eller
+snabbare övergång till arbete finns ännu
+inte. Myndigheten konstaterar själv att
+andelen arbetssökande som fått jobb
+inom 90 dagar efter beslut om intervju-
+resa har minskat under både 2024 och
+2025\. Förklaringen sägs ligga i konjunk-
+turen och i att fler arbetssökande nu
+deltar i längre program.
+Arbetsförmedlingen har i praktiken
+skärpt tillämpningen av Inspektionen
+för arbetslöshetsförsäkringens (IAF)
+föreskrifter om ”lämpligt arbete”. Att söka
+jobb utanför det egna yrkesområdet
+eller bortom tre timmars daglig pendling
+betraktas nu som en del av kravet att
+stå till arbetsmarknadens förfogande. En
+
+arbetssökande som inte följer denna lin-
+je kan förlora ersättningen i flera dagar.
+Myndigheten följer dessutom numera
+upp IP-adresser för att kontrollera om
+arbetssökande befinner sig utomlands.
+Samtidigt har regeringen höjt ersätt-
+ningsnivåerna för intervjuresor och pro-
+gramresor i syfte att stimulera rörlighet,
+men Arbetsförmedlingen noterar att
+antalet intervjuresor tvärtom minskat.
+Myndigheten hänvisar till att de nya
+nivåerna infördes i januari 2025 och att
+det därför är för tidigt för att dra slutsat-
+ser, men tillräckligt länge för att väcka
+frågan om effekten av höjningen är så
+stark som regeringen hoppats.
+
+Den kanske tydligaste utveckling-
+en ligger snarare i kontrollsystemen.
+Handlingsplaner, aktivitetsrapporter och
+sanktionsärenden har digitaliserats och
+strukturerats för att kunna följas upp
+automatiskt. Myndigheten kan nu ma-
+skinellt identifiera om en arbetssökande
+sökt ”fel” typ av jobb.
 Arbetsförmedlingen understryker i
-deltar i längre program.                               att växla till.
 rapporten att de nya metoderna ska
-Arbetsförmedlingen har i praktiken bidra till ”bättre matchning och snabb- Om kontrollen blir ett självända-
-skärpt tillämpningen av Inspektionen are väg till arbete”. De skärpta kraven mål, utan motsvarande inves-
-för arbetslöshetsförsäkringens (IAF) följer av regeringens uppdrag och IAF:s tering i stöd, förvandlas den
-föreskrifter om ”lämpligt arbete”. Att söka nya föreskrifter, men innebär också en ömsesidiga skyldigheten till en
-jobb utanför det egna yrkesområdet förskjutning mot mer kontroll i arbetet ensidig piska. Då riskerar myn-
-eller bortom tre timmars daglig pendling med arbetssökande. Hur balansen mel- digheten att missa syftet med
-betraktas nu som en del av kravet att lan krav och stöd kommer att påverka försäkringen: att skapa rörlighet
-stå till arbetsmarknadens förfogande. En resultaten återstår att se. genom trygghet.
+bidra till ”bättre matchning och snabb-
+are väg till arbete”. De skärpta kraven
+följer av regeringens uppdrag och IAF:s
+nya föreskrifter, men innebär också en
+förskjutning mot mer kontroll i arbetet
+med arbetssökande. Hur balansen mel-
+lan krav och stöd kommer att påverka
+resultaten återstår att se.
+
+Werket
+
+kommenterar
+Det finns en rimlighet i att ar-
+betslöshetsförsäkringen förknip-
+pas med krav. I många andra
+länder talar man om ”mutual
+obligations”, ett ömsesidigt an-
+svar mellan stat och medborg-
+are. Den som får stöd förväntas
+vara aktiv, men staten har i sin
+tur ett ansvar att ge stöd.
+
+Arbetslöshetsersättningen är
+inte ett bidrag utan en omställ-
+ningsförsäkring. Den ska ge
+ekonomisk trygghet mellan två
+jobb och hjälpa individen att
+ta nästa steg. För att den ska
+fungera så krävs mer än kontroll
+och sanktionssystem. Inte minst
+krävs dialog och konkret stöd
+i att förstå vilka jobb som är möj-
+liga, hur långt man rimligen kan
+pendla och vilka yrken som går
+att växla till.
+Om kontrollen blir ett självända-
+mål, utan motsvarande inves-
+tering i stöd, förvandlas den
+ömsesidiga skyldigheten till en
+ensidig piska. Då riskerar myn-
+digheten att missa syftet med
+försäkringen: att skapa rörlighet
+genom trygghet.
+
 11
 
 <!-- sida 181 -->
@@ -8048,7 +8954,9 @@ stå till arbetsmarknadens förfogande. En resultaten återstår att se. genom t
 REBOTKO
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
+
 Universitet och högskolor
+
 Underfinansierad              och    underreformerad?
 
 Kampen         om     högskolans           framtid
@@ -8059,50 +8967,101 @@ sierade som det ofta påstås eller handlar problemen snarare om hur resurserna
 används? En ny rapport från Arena Idé väcker frågan om hur högskolans ekonomi
 påverkar Sveriges framtida kompetensförsörjning.
 
-I rapporten Underfinansierad och un- Samtidigt har universiteten också varje ämne?
-derreformerad argumenterar Kristina effektiviserat sin verksamhet. Antalet
-Produktivitetsavdraget: symbol för en
-Persdotter för att svensk högskola be- examinerade har ökat, trots mindre
-större konflikt
-finner sig i en utdragen svältkur. Sedan pengar per student. Digitalisering, sam-
-mitten av 1990-talet har resurserna per läsning och nya undervisningsformer har Produktivitetsavdraget har blivit en sym-
-student minskat med upp till 40 procent, gjort det möjligt att undervisa fler utan bolfråga för högskolornas frustration.
-menar hon, till följd av det så kallade motsvarande resurstillskott. Frågan blir Det är lätt att förstå. För varje år minskar
-produktivitetsavdraget; en årlig nedräk- därför inte bara hur mycket pengar som den faktiska köpkraften något, samtidigt
-ning av statsanslagen som bygger på behövs, utan hur de används. som nya krav tillkommer: kvalitetssys-
-antagandet att offentlig verksamhet kan            tem, digital infrastruktur, studentstöd
-effektiviseras i takt med den privata. Re-         och rapportering.
+I rapporten Underfinansierad och un-
+derreformerad argumenterar Kristina
+Persdotter för att svensk högskola be-
+finner sig i en utdragen svältkur. Sedan
+mitten av 1990-talet har resurserna per
+student minskat med upp till 40 procent,
+menar hon, till följd av det så kallade
+produktivitetsavdraget; en årlig nedräk-
+ning av statsanslagen som bygger på
+antagandet att offentlig verksamhet kan
+effektiviseras i takt med den privata. Re-
 sultatet, hävdar rapporten, är en stegvis
-Men avdraget är inte riktat mot univer-
 urholkning av utbildningskvaliteten.
-siteten utan är en del av den generella
-Persdotters lösning är lika tydlig som             budgetmodellen som gäller hela stats-
-ambitiös: höj anslagen till minst en               förvaltningen. Grundtanken är att också
-procent av BNP, minska produktivitets-             statliga verksamheter ska kunna effek-
-avdraget och låt staten dimensionera               tiviseras över tid. Frågan är alltså inte
-utbildningsutbudet efter arbetsmark-               om avdraget i sig är orimligt, utan om
-nadens behov. Enligt rapporten krävs               utbildning är en sådan verksamhet där
-det om Sverige ska behålla sin konkur-             effektivisering faktiskt är möjlig.
+Persdotters lösning är lika tydlig som
+ambitiös: höj anslagen till minst en
+procent av BNP, minska produktivitets-
+avdraget och låt staten dimensionera
+utbildningsutbudet efter arbetsmark-
+nadens behov. Enligt rapporten krävs
+det om Sverige ska behålla sin konkur-
 renskraft i en tid av teknisk omställning,
-Persdotter menar att undervisning krä-
 klimatpolitik och geopolitisk oro.
-ver tid och mänsklig kontakt, något som
-Men frågan är om bilden av en underfi-             inte kan rationaliseras utan att kvaliteten
-nansierad högskola är lika entydig som             sjunker. Kritiker invänder att högsko-
-rapporten gör gällande.                            lan tvärtom har potential för strukturell
-effektivisering, men att styrningen är för
+
+Men frågan är om bilden av en underfi-
+nansierad högskola är lika entydig som
+rapporten gör gällande.
 En urholkning men också effektivise-
-stel för att premiera innovation i under-
 ring
-visningen.
-Det stämmer att högskolans resurser per Rapporten ”Underfinansierad och underreformerad” Kvalitet: svår att mäta, lätt att förlora
+
+Det stämmer att högskolans resurser per
 student har minskat i reala termer. Pris-
-och löneomräkningen i statsbudgeten Att tala om underfinansiering blir därför Rapporten hävdar att kvaliteten i un-
-har inte hållit jämna steg med kostnads- problematiskt. Det beror på vilken ambi- dervisningen försämrats kraftigt, men
-utvecklingen, och produktivitetsavdra- tionsnivå man anser att högre utbildning den slutsatsen stöds inte entydigt av
-get har bidragit till en reell urholkning. ska ha: är syftet att ge bred tillgång till tillgängliga data. UKÄ:s kvalitetsutvärde-
-Den trenden bekräftas av både UKÄ, grundutbildning, eller att garantera små ringar visar snarare stabila resultat över
-Statskontoret och fackliga beräkningar. seminariegrupper och hög lärartäthet i tid, även om flera lärosäten rapporterar
+och löneomräkningen i statsbudgeten
+har inte hållit jämna steg med kostnads-
+utvecklingen, och produktivitetsavdra-
+get har bidragit till en reell urholkning.
+Den trenden bekräftas av både UKÄ,
+Statskontoret och fackliga beräkningar.
+
+Samtidigt har universiteten också
+effektiviserat sin verksamhet. Antalet
+examinerade har ökat, trots mindre
+pengar per student. Digitalisering, sam-
+läsning och nya undervisningsformer har
+gjort det möjligt att undervisa fler utan
+motsvarande resurstillskott. Frågan blir
+därför inte bara hur mycket pengar som
+behövs, utan hur de används.
+
+Rapporten ”Underfinansierad och underreformerad”
+
+Att tala om underfinansiering blir därför
+problematiskt. Det beror på vilken ambi-
+tionsnivå man anser att högre utbildning
+ska ha: är syftet att ge bred tillgång till
+grundutbildning, eller att garantera små
+seminariegrupper och hög lärartäthet i
+
+varje ämne?
+Produktivitetsavdraget: symbol för en
+större konflikt
+
+Produktivitetsavdraget har blivit en sym-
+bolfråga för högskolornas frustration.
+Det är lätt att förstå. För varje år minskar
+den faktiska köpkraften något, samtidigt
+som nya krav tillkommer: kvalitetssys-
+tem, digital infrastruktur, studentstöd
+och rapportering.
+Men avdraget är inte riktat mot univer-
+siteten utan är en del av den generella
+budgetmodellen som gäller hela stats-
+förvaltningen. Grundtanken är att också
+statliga verksamheter ska kunna effek-
+tiviseras över tid. Frågan är alltså inte
+om avdraget i sig är orimligt, utan om
+utbildning är en sådan verksamhet där
+effektivisering faktiskt är möjlig.
+
+Persdotter menar att undervisning krä-
+ver tid och mänsklig kontakt, något som
+inte kan rationaliseras utan att kvaliteten
+sjunker. Kritiker invänder att högsko-
+lan tvärtom har potential för strukturell
+effektivisering, men att styrningen är för
+stel för att premiera innovation i under-
+visningen.
+Kvalitet: svår att mäta, lätt att förlora
+
+Rapporten hävdar att kvaliteten i un-
+dervisningen försämrats kraftigt, men
+den slutsatsen stöds inte entydigt av
+tillgängliga data. UKÄ:s kvalitetsutvärde-
+ringar visar snarare stabila resultat över
+tid, även om flera lärosäten rapporterar
+
 12
 
 <!-- sida 182 -->
@@ -8111,71 +9070,112 @@ Statskontoret och fackliga beräkningar. seminariegrupper och hög lärartäthet
 \#
 REBOTKO
 5202
-WERKET  MÅNADSRAPPORT
-pressad personal och mindre lärarledd automatiskt krymper i reala termer, men Notiser
-tid.                     också en tydligare idé om vad högre ut-
-bildning ska vara: arbetsmarknadspolitik,
-Det finns heller inget tydligt samband            S  vill ge AFs  över-
-forskningsmotor eller bildningsprojekt.
+WERKET MÅNADSRAPPORT
+
+pressad personal och mindre lärarledd
+tid.
+Det finns heller inget tydligt samband
 mellan kostnadsnivå och utbildnings-
-skott  till kommuner
-resultat internationellt. Länder som När den frågan får ett svar blir också
-Nederländerna och Finland har liknande finansieringen mindre av en budgetpost
-Socialdemokraterna vill sätta stopp för att
-eller lägre kostnader per student, men och mer av en framtidsinvestering.
-Arbetsförmedlingen varje år skickar till-
+resultat internationellt. Länder som
+Nederländerna och Finland har liknande
+eller lägre kostnader per student, men
 presterar väl i jämförelser av utbildnings-
-baka miljarder till staten. Under 2022 och
 kvalitet och arbetsmarknadsutfall.
-2023 återfördes sammanlagt närmare 24
-Kvalitet är svår att mäta, men lätt att för-       miljarder kronor, och i år väntas ytterligare
-lora. Och det är kanske där diskussionen           fyra miljarder gå samma väg.
+
+Kvalitet är svår att mäta, men lätt att för-
+lora. Och det är kanske där diskussionen
 behöver börja: inte i hur stor andel av
-– Det är pengar som skulle kunna använ-
 BNP som ska gå till universiteten, utan i
-das i arbetsmarknadspolitiska insatser
 vilka resultat samhället vill uppnå.
-som inte används. Det är katastrof, säger
-Arbetsmarknaden som måttstock                      Socialdemokraternas arbetsmarknadspo-
-litiska talesperson Ardalan Shekarabi till
+Arbetsmarknaden som måttstock
+
 Rapporten knyter frågan till produktivitet
-Altinget.
 och tillväxt. Det är klokt. Högskolans för-
-måga att möta arbetsmarknadens behov               För att lösa problemet vill partiet införa en
-är avgörande för Sveriges långsiktiga              ny princip för hur myndighetens medel får
-konkurrenskraft. Samtidigt är bristen på           användas. Tanken är att Arbetsförmed-
-rätt kompetens inte bara ett utbildnings-          lingen ska tillhandahålla arbetsmarknads-
-problem. Den handlar ofta om yrkens                utbildningar när ett överskott identifieras,
-attraktivitet, arbetsvillkor och status.           och att kommunerna sedan ska kunna an-
-Faktorer som ligger bortom universite-             visa arbetssökande till dessa utbildningar.
+måga att möta arbetsmarknadens behov
+är avgörande för Sveriges långsiktiga
+konkurrenskraft. Samtidigt är bristen på
+rätt kompetens inte bara ett utbildnings-
+problem. Den handlar ofta om yrkens
+attraktivitet, arbetsvillkor och status.
+Faktorer som ligger bortom universite-
 tens kontroll.
-– Vi vill att Arbetsförmedlingen ska ha en
-Att öka antalet utbildningsplatser hjälper         skyldighet att göra en prognos, och mär-
-föga om söktrycket till bristyrken är lågt.        ker de att det kommer att bli ett överskott
-Där har arbetsgivarna ett större ansvar            så ska kommunerna kunna anvisa. För
-än vad debatten ofta medger. Kompe-                kommunerna har anvisningskapacitet,
-tensförsörjning handlar lika mycket om             säger Shekarabi.
+Att öka antalet utbildningsplatser hjälper
+föga om söktrycket till bristyrken är lågt.
+Där har arbetsgivarna ett större ansvar
+än vad debatten ofta medger. Kompe-
+tensförsörjning handlar lika mycket om
 att behålla och utveckla personal som
-Han menar att reformen skulle kunna
 om att utbilda ny.
-samspela med de nya bestämmelserna
-En sektor i behov av riktning                      om aktivitetskrav i försörjningsstödet, som
-träder i kraft nästa år. Genom att kommu-
+
+En sektor i behov av riktning
 Sammantaget sätter rapporten Underfi-
-nerna får en starkare roll kan fler arbets-
 nansierad och underreformerad fingret
-sökande matchas till utbildningar som
 på något viktigt: ett utbildningssystem
-motsvarar arbetsgivarnas behov.
 som för länge har styrts med kortsiktig
-budgetlogik snarare än med en tydlig               Enligt Shekarabi trodde partiet att reger-
-framtidsvision. Men den föreslagna                 ingen skulle lösa problemet i sin styrning
-lösningen: mer pengar och mer statlig              av myndigheten, men när det inte skett
-styrning är inte självklart rätt väg.              krävs nya idéer.
-Svensk högskola behöver sannolikt både             Även Centerpartiet ställer sig bakom tan-
-mer resurser och mer ansvar. Den be-               ken på ökad flexibilitet.
+budgetlogik snarare än med en tydlig
+framtidsvision. Men den föreslagna
+lösningen: mer pengar och mer statlig
+styrning är inte självklart rätt väg.
+Svensk högskola behöver sannolikt både
+mer resurser och mer ansvar. Den be-
 höver ett finansieringssystem som inte
+
+automatiskt krymper i reala termer, men
+också en tydligare idé om vad högre ut-
+bildning ska vara: arbetsmarknadspolitik,
+forskningsmotor eller bildningsprojekt.
+När den frågan får ett svar blir också
+finansieringen mindre av en budgetpost
+och mer av en framtidsinvestering.
+
 13
+
+Notiser
+
+S vill ge AFs  över-
+
+skott  till kommuner
+
+Socialdemokraterna vill sätta stopp för att
+Arbetsförmedlingen varje år skickar till-
+baka miljarder till staten. Under 2022 och
+2023 återfördes sammanlagt närmare 24
+miljarder kronor, och i år väntas ytterligare
+fyra miljarder gå samma väg.
+– Det är pengar som skulle kunna använ-
+das i arbetsmarknadspolitiska insatser
+som inte används. Det är katastrof, säger
+Socialdemokraternas arbetsmarknadspo-
+litiska talesperson Ardalan Shekarabi till
+Altinget.
+
+För att lösa problemet vill partiet införa en
+ny princip för hur myndighetens medel får
+användas. Tanken är att Arbetsförmed-
+lingen ska tillhandahålla arbetsmarknads-
+utbildningar när ett överskott identifieras,
+och att kommunerna sedan ska kunna an-
+visa arbetssökande till dessa utbildningar.
+– Vi vill att Arbetsförmedlingen ska ha en
+skyldighet att göra en prognos, och mär-
+ker de att det kommer att bli ett överskott
+så ska kommunerna kunna anvisa. För
+kommunerna har anvisningskapacitet,
+säger Shekarabi.
+
+Han menar att reformen skulle kunna
+samspela med de nya bestämmelserna
+om aktivitetskrav i försörjningsstödet, som
+träder i kraft nästa år. Genom att kommu-
+nerna får en starkare roll kan fler arbets-
+sökande matchas till utbildningar som
+motsvarar arbetsgivarnas behov.
+Enligt Shekarabi trodde partiet att reger-
+ingen skulle lösa problemet i sin styrning
+av myndigheten, men när det inte skett
+krävs nya idéer.
+Även Centerpartiet ställer sig bakom tan-
+ken på ökad flexibilitet.
 
 <!-- sida 183 -->
 
@@ -8198,25 +9198,27 @@ REBOTKO
 5202
 statistik
 makro
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 TEMPERATUREN         PÅ  ARBETSMARKNADEN
+
 MAKROLÄGET
-Temperaturen på arbetsmarknaden är Lediga jobb steg till 77 773 från föregå-
+
+Temperaturen på arbetsmarknaden är
 5
-fortsatt sval - två av fem indikatorer är ende månad men var tydligt lägre än i
-positiva.                september 2024. Den långsiktiga trenden
+fortsatt sval - två av fem indikatorer är
+positiva.
 4
-fortsätter att sjunka. Återhämtningsfasen
-Arbetslösheten sjönk för andra månad- i ekonomin har ännu inte gjort tydligt av-
-en i rad och landade i september på 6,9 tryck i efterfrågan på arbetskraft.
+Arbetslösheten sjönk för andra månad-
+en i rad och landade i september på 6,9
 3
 procent, dock fortsatt 0,1 procentenheter
-högre än för 12 månader sedan. Barometerindikatorn steg något i sep-
-2                                           tember. Stämningsläget i ekonomin är
-Långtidsarbetslösheten sjönk marginellt i bättre än för 12 månader sedan, men lig-
-september och hamnade på 153 828 per- ger under 100, vilket indikerar ett svagare
+högre än för 12 månader sedan.
+2
+Långtidsarbetslösheten sjönk marginellt i
+september och hamnade på 153 828 per-
 1
-soner, men ligger fortsatt avsevärt högre stämningsläge än normalt.
+soner, men ligger fortsatt avsevärt högre
 än i fjol och över den långsiktiga trenden.
 0
 Antal varslade personer steg något i sep-
@@ -8225,21 +9227,36 @@ den långsiktiga nedåtgående trenden och
 Två av fem indikatorer är positiva. Arbetsmarknaden
 även under noteringen för september i fjol.
 är sval.
-Arbetslöshet            Antal långtidsarbetslösa Antal varslade personer
+
+Lediga jobb steg till 77 773 från föregå-
+ende månad men var tydligt lägre än i
+september 2024. Den långsiktiga trenden
+fortsätter att sjunka. Återhämtningsfasen
+i ekonomin har ännu inte gjort tydligt av-
+tryck i efterfrågan på arbetskraft.
+
+Barometerindikatorn steg något i sep-
+tember. Stämningsläget i ekonomin är
+bättre än för 12 månader sedan, men lig-
+ger under 100, vilket indikerar ett svagare
+stämningsläge än normalt.
+
+Arbetslöshet           Antal långtidsarbetslösa Antal varslade personer
 Förändring 12 mån: 0,06 procentenheter Förändring 12 mån: 8 982 personer Förändring 12 mån: −2 524 personer
+
 7,2%                  155K
 10K
 153 828
 7,0%                  150K
 8K
 6,8%             6,9%
-145K                     6K              5 057
+145K                    6K               5 057
 6,6%
 4K
 140K
 6,4%
-2024     2025         2024      2025         2024      2025
-Antal lediga jobb       Barometerindikatorn
+2024     2025         2024     2025          2024      2025
+Antal lediga jobb      Barometerindikatorn
 Förändring 12 mån: −5 376 platser Förändring 12 mån: 2,7 enheter
 150K                  140
 120

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b49f86518ecb777ac8a5fb/17131681386
 sha256: d4ee4016ccaa3e1c8e4e69235fdc83c17ba7a376f1bb158ee8e31b7e22b6c6f8
 bytes: 5015007
 sidor: 125
-hamtad: 2026-10-23T07:04:28+00:00
-konverterad: 2026-10-23T07:04:48+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:44:56+00:00
+konverterad: 2026-11-06T08:45:16+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2922,10 +2922,10 @@ Blomstergatans förskola pausas och lokalerna kommer i dagsläget inte att anvä
 Arbete med att utreda helheten kring lokalbehov kopplat till förskola och grundskola, utifrån
 befolkningsprognos, befintliga lokaler samt ny och ombyggnationer, kommer att fortsätta löpande. Hur
 Blomstergatans lokaler ska användas i framtiden behöver utredas ytterligare.
+
 Förskolorna i centrum ges möjlighet till en ökad täckningsgrad i förhållande till kapaciteten i lokalerna när
 Blomstergatans 60 platser pausas. För de förskolor som får tillströmning av barn skapas bättre ekonomiska
 förutsättningar genom exempelvis möjlighet att schemalägga en större personalgrupp mer kostnadseffektivt.
-
 Det ges även möjlighet att fördela och anpassa resurser som till exempel vikarier, samarbete mellan
 avdelningar vid öppning/stängning gynnas samt vid personalmöten på ett mer kostnadseffektivt sätt.
 
@@ -2939,16 +2939,24 @@ Blomstergatans förskola exkluderat först 2025 då befolkningsprognosen räknar
 
 Vad vinner vi på förändringen?
 
-Ekonomiskt                    Pedagogiskt/Organisatoriskt
+Ekonomiskt
 -Kostnaden för lokalvård, måltid och övriga
--Bättre möjligheter till kollegialt lärande
 servicetjänster minskar.
--Möjlighet att schemalägga en större och pedagogisk utveckling.
-personalgrupp mer kostnadseffektivt. -Större möjligheter att optimera
--Möjlighet att fördela och anpassa resurser som pedagogernas kvalitéer och kompetens till
+-Möjlighet att schemalägga en större
+personalgrupp mer kostnadseffektivt.
+-Möjlighet att fördela och anpassa resurser som
 t ex vikarier, öppning/stängning samt
-förmån för alla barn.
 personalmöten på ett mer kostnadseffektivt sätt.
+
+Pedagogiskt/Organisatoriskt
+
+-Bättre möjligheter till kollegialt lärande
+och pedagogisk utveckling.
+-Större möjligheter att optimera
+pedagogernas kvalitéer och kompetens till
+
+förmån för alla barn.
+
 Enligt senaste regiongemensamma förskoleenkäten mot vårdnadshavare som genomfördes under januari-
 februari 2024 får Blomstergatans förskola 4,1 i snittbetyg vilket är lägre än snittbetyget för
 Göteborgsregionen (GR) på 4,4 och för Kungsbacka kommun totalt på 4,5. Svarsfrekvensen var 69%.

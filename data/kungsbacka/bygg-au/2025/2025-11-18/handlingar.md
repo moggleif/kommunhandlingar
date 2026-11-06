@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.74cc8c0e19a55b65f7f7cfc4/1762933243
 sha256: b80e70553ede9857ad735a9ac3dcfc0d962f95dd848c8bf73027ba2167bd4858
 bytes: 15828624
 sidor: 366
-hamtad: 2026-10-23T08:48:05+00:00
-konverterad: 2026-10-23T08:50:28+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T10:33:11+00:00
+konverterad: 2026-11-06T10:35:41+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -633,10 +633,10 @@ Sandsjöbacka eller Särö Västerskog.
 PLANBESTÄMMELSER
 Plankarta   tillhörande   Byggnadsplan      S21A   från 1942   med   förslag  till ändring markerat    i rött.
 
-Följande gäller inom  områden   med  nedanstående    beteckningar.
+Följande  gäller inom  områden   med  nedanstående    beteckningar.
 
-Endast  angiven  användning   och utformning  är tillåten. Där beteckning
-saknas  gäller bestämmelsen    inom  hela området.
+Endast   angiven  användning   och utformning  är tillåten. Där beteckning
+saknas   gäller bestämmelsen    inom hela  området.
 
 GRÄNSER
 
@@ -650,6 +650,35 @@ Kvartersmark
 
 Bostäder.
 
+BESTÄMMELSER      SOM   UPPHÖR    ATT GÄLLA   INOM  OMRÅDE    FÖR  ÄNDRING    AV DETALJPLAN
+
+ANVÄNDNING     AV MARK
+B II Bostäder
+
+UTNYTTJANDEGRAD
+Minsta tomtstorlek är 1000 kvadratmeter.
+
+Största sammanlagda   byggnadsarea  är 250 kvadratmeter, därav friliggande garage, carport etc högst
+50 kvadratmeter.
+
+Endast en bostadslägenhet  per fastighet. Därutöver får en komplementbostad anordnas intill halva
+bostadslägenhetens  bruttoarea, dock högst 50 kvm.
+Endast en huvudbyggnad   och ett garage eller annan komplementbyggnad   får uppföras per fastighet.
+
+PLACERING
+
+Huvudbyggnad   och garage  skall placeras minst 4,0 meter resp 2,0 meter från tomtgräns.
+Garage, carport etc får placeras i tomtgräns under förutsättning att sammanbyggnad sker med
+motsvarande  byggnad  på angränsande  tomt.
+
+UTFORMNING
+Högsta byggnadshöjd   för huvudbyggnad  är 5,5 m
+
+Högsta nockhöjd  för huvudbyggnad  är 8,0 m
+Högsta byggnadshöjd   för garage, carport, förråd etc är 3,0 m
+
+Högsta nockhöjd  för garage, carport, förråd etc är 4,5 m
+
 EGENSKAPSBESTÄMMELSER                      FÖR    ALL
 
 KVARTERSMARK
@@ -660,49 +689,45 @@ Minsta fastighetsstorlek är 1400  m².
 
 Höjd  på  byggnadsverk
 
-Högsta  nockhöjd  på  komplementbyggnad     är 4,5 meter.
+Högsta  nockhöjd  på  komplementbyggnad      är 4,5 meter.
 
 Placering
 
-Huvudbyggnad    ska  placeras  minst 4,0 meter  från fastighetsgräns.
+Huvudbyggnad     ska placeras  minst 4,0 meter  från fastighetsgräns.
 
 Komplementbyggnad      ska placeras  minst  2,0 meter från
-BESTÄMMELSER      SOM   UPPHÖR   ATT  GÄLLA  INOM   OMRÅDE    FÖR  ÄNDRING    AV DETALJPLAN
 fastighetsgräns.
-ANVÄNDNING     AV MARK                                                                                                                                                                                                  Utformning
 
-B II Bostäder
+Utformning
+
 Endast  friliggande enbostadshus.
 
-UTNYTTJANDEGRAD
 Utnyttjandegrad
-Minsta tomtstorlek är 1000 kvadratmeter.
+
 Största byggnadsarea    är 50 m² per  komplementbyggnad.
-Största sammanlagda  byggnadsarea   är 250 kvadratmeter, därav friliggande garage, carport etc högst
-50 kvadratmeter.
+
 Största byggnadsarea    är 250 m².
-Endast en bostadslägenhet  per fastighet. Därutöver får en komplementbostad anordnas intill halva
-bostadslägenhetens  bruttoarea, dock högst 50 kvm.
+
 EGENSKAPSBESTÄMMELSER                      FÖR
-Endast en huvudbyggnad   och ett garage eller annan komplementbyggnad  får uppföras per fastighet.
 Detaljplanen är baserad på koordinatsystemet SWEREF 99     KVARTERSMARK
+
 1200 och höjdsystemet RH 2000
 Skala 1:500 i A1, skala 1:1000 i A3
-PLACERING                                                                                                                                                                                                               Avgränsad      via egenskapsgräns         och   användningsgräns
-Huvudbyggnad   och garage skall placeras minst 4,0 meter resp 2,0 meter från tomtgräns.                            TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-05-16
-Garage, carport etc får placeras i tomtgräns under förutsättning att sammanbyggnad sker med
-motsvarande  byggnad  på angränsande  tomt.                                                                                     Registernummer, tomtnummer                    Höjdkurva 5,0 m                           Begränsning     av  markens    utnyttjande
+Avgränsad      via egenskapsgräns         och   användningsgräns
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-05-16
+
+Registernummer, tomtnummer                    Höjdkurva 5,0 m                           Begränsning     av  markens    utnyttjande
 Höjdpunkt                                     Vägbana
 Marken  får inte förses med  byggnad.
-UTFORMNING                                                                                                                      Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
-Högsta byggnadshöjd  för huvudbyggnad  är 5,5 m
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
 Fastighetsgräns                               Uthus fasad, resp. tak                    Höjd  på  byggnadsverk
-Högsta nockhöjd för huvudbyggnad  är 8,0 m
+
 Gång- och cykelbana                           Skärmtak
-Högsta byggnadshöjd  för garage, carport, förråd etc är 3,0 m                                                                                                                                                                        Högsta  nockhöjd  på  huvudbyggnad    är \<angivet>  meter
+Högsta  nockhöjd  på  huvudbyggnad    är \<angivet>  meter
 Höjdkurva 1,0 m
-Högsta nockhöjd för garage, carport, förråd etc är 4,5 m                                                                                                                                                                             över angivet nollplan.
+över angivet  nollplan.
 Takvinkel
+
 Största takvinkel är 15,0 grader.
 
 GENOMFÖRANDETID
@@ -710,14 +735,14 @@ GENOMFÖRANDETID
 Genomförandetiden     är 5 år från den dag detaljplanen  får laga kraft
 
 ORIENTERINGSKARTA
-Ändring   av  del av  detaljplan
+Ändring    av del  av detaljplan
 Antagandehandling
-S21A   för bostäder    inom
+S21A    för bostäder   inom
 
-Beslutsdatum   Instans
+Beslutsdatum  Instans
 Malevik  1:39
 Samråd
-i Malevik                                                 BN § 103
+i Malevik                                                  BN § 103
 2025-05-15
 Kungsbacka    kommun                           Granskning
 Tjm
@@ -728,11 +753,11 @@ xxxx-xx-xx
 Laga kraft
 xxxx-xx-xx
 Plankostnads-
-Ida Lennartsson             Björn Vikström      Diarenummer
+Ida Lennartsson            Björn Vikström      Diarenummer
 avtal
 2025-00047
-Verksamhetschef Plan        Planarkitekt                    Ja
-PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
+Verksamhetschef Plan       Planarkitekt                    Ja
+PLANKARTA             Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med standardförfarande
 
 <!-- sida 21 -->
@@ -1927,125 +1952,208 @@ Antagandehandling                                          11 (11)
 
 <!-- sida 49 -->
 
+Gällande    plankarta
+
+Ofta  vill vi tydliggöra  hur  gällande   plankarta   ser  ut för att skapa
+
+bättre  förståelse,   exempelvis    vilken  del  i originalkartan   det är  som
+ändras   m.m.   Denna    ruta  beskriver   hur  du  lägger  in gällande
+
+plankarta.
+
+-Enklast   är att ta en  skärmbild    av gällande    plankarta   med
+
+exempelvis     skärmklippverktyget.
+-Tänk   på  att du  behöver   tydliggöra   vilken  del  av plankarta    det är
+
+som   ändras.   Du  kan   tydliggöra   detta  på  två sätt, rita direkt i PDF
+
+alternativt  att du  ritar i skärmklippverktyget     när  du  klippt ut bilden.
+
+-När  du  ska  lägga   in skärmbild   av  gällande    plankarta   klickar  du på
+"bild" i menyraden.
+
+-Klicka
+
 PLANBESTÄMMELSER
+
+Följande    gäller   inom   områden      med   nedanstående
+
+beteckningar.      Endast    angiven    användning       och
+
+utformning     är  tillåten. Där   beteckning     saknas    gäller
+
+bestämmelsen        inom    hela  området.
+
+GRÄNSER
+
 EGENSKAPSBESTÄMMELSER                                 FÖR
 
 KVARTERSMARK
-Följande     gäller  inom   områden      med    nedanstående
 
-beteckningar.      Endast    angiven     användning      och            Avgränsad          via   egenskapsgräns              och
+Avgränsad          via  egenskapsgräns               och
 
-utformning     är  tillåten. Där   beteckning     saknas     gäller     användningsgräns
+användningsgräns
 
-bestämmelsen         inom   hela   området.
 Begränsning         av   markens       utnyttjande
 
-GRÄNSER
 Marken     får inte  förses   med    byggnad.
-Detta   är  en  mall   som    beskriver     vad   som    behöver      ingå   i
-Planområdesgräns.                                                       Marken     får endast    förses   med                                                          layouten     när   du  gör   en  plankarta     för  ändring     av  detaljplan.
 
-komplementbyggnad.                                                                             Beroende       på  hur   stor  plankartan      är  och   hur   många
+Planområdesgräns.                                                       Marken     får endast    förses   med
+
+komplementbyggnad.
 Egenskapsgräns.
-planbestämmelser           som    upphävs      kan   du   behöva     anpassa
 Höjd    på   byggnadsverk
-ANVÄNDNING                AV    MARK                                                                                                                                                mallen.
+
+ANVÄNDNING                AV    MARK
 Högsta    nockhöjd     på  huvudbyggnad         är
+
 Kvartersmark
-13,0   meter.
-Du   kan   ta bort   denna     och   övrig   hjälptext    när   du  följt
+13,0  meter.
 Användningen        är  angiven    som    "område     för
-Markreservat         för  allmännyttiga        ändamål                                                      instruktionerna        i respektive     ruta.
+Markreservat         för  allmännyttiga        ändamål
 allmänt    ändamål".     Bestämmelsen         har  inte
 Markreservat      för  allmännyttiga
-tolkats   i samband      med   ändring    av
-Mallen    innehåller     följande:
+tolkats   i samband     med    ändring    av
 underjordiska      ledningar.
-detaljplan    utan   kvarstår   oförändrad.
-\- plankarta     (genereras      från   ditt arbete)
+detaljplan    utan  kvarstår    oförändrad.
+
 Takvinkel
-\- legend    för  planbestämmelser           (genereras      från   ditt arbete)
-EGENSKAPSBESTÄMMELSER                                 FÖR      ALL
-Minsta    takvinkel   för  huvudbyggnad        är  30                                          - Teckenförklaring         kartdata    (genereras      från   ditt arbete)
+EGENSKAPSBESTÄMMELSER                                 FÖR     ALL
+Minsta   takvinkel    för huvudbyggnad         är 30
+
 KVARTERSMARK
-grader.                                                                                        - instruktioner      om   hur   du  lägger    in  gällande     plankarta,
-Höjd    på   byggnadsverk                                                                                                                                                           - ruta  för  planbestämmelser           som    upphävs      i samband       med
+grader.
+Höjd    på   byggnadsverk
 Utnyttjandegrad
-ändringen.      Observera       att vi  vill att rutan   för  upphävda
-Högsta     nockhöjd     på  komplementbyggnad           är  4,0
+
+Högsta    nockhöjd     på  komplementbyggnad            är  4,0
 Största   byggnadsarea        är  6000   m².
-bestämmelser         ska   vara   röd   för att  tydliggöra     bestämmelser
 meter.
-som    upphävs.
+
 GENOMFÖRANDETID
 Placering
-Genomförandetiden          är  5 år  från  den   dag
-Byggnad      ska   placeras    minst   4 meter    från
+Genomförandetiden          är  5 år  från  den  dag
+Byggnad      ska  placeras    minst   4  meter   från
 detaljplanen     får laga   kraft.
 fastighetsgräns.
 
-Planbestämmelser          som   upphör    att  gälla  inom              Planbestämmelser          som   upphör     att gälla  inom
-
-område     för ändring    av  detaljplan    T16                         område     för  ändring    av  detaljplan    K35
-
-§ 2 MARK    SOM   ICKE   FÅR   BEBYGGAS                                 § 2  MARK   SOM    ICKE  FÅR   BEBYGGAS
-
-Med   punktprickning  betecknad   mark,  får icke bebyggas.             Med   punktprickning   betecknad   mark,  får icke bebyggas.
-Gällande plankarta
-
-Ofta vill vi tydliggöra hur gällande plankarta ser ut för att skapa                                      Detaljplanen är baserad på koordinatsystemet SWEREF 99                     § 5 BYGGNADS       HÖJD                                                 § 6  VÅNINGSANTAL
+Detaljplanen är baserad på koordinatsystemet SWEREF 99
 Skala 1:500 i A1, skala 1:1000 i A3
-bättre förståelse, exempelvis vilken del i originalkartan det är som                                     1200 och höjdsystemet RH 2000                                              Mom   2 På  med   siffra i romb betecknat  område   får byggnad         Mom    1 Å med   I och II betecknat område   får byggnad   uppföras
-uppföras  till högst den höjd i meter  som  siffran anger.              med   resp högst  en  eller två våningar.
-ändras m.m. Denna ruta beskriver hur du lägger in gällande TECKENFÖRKLARING KARTDATA Aktualitetsdatum: 2025-10-02
-plankarta.
+1200 och höjdsystemet RH 2000
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-10-02
+
 Registernummer, tomtnummer                    Höjdkurva 5,0 m
-§ 7  BYGGNADS      HÖJD
 Höjdpunkt                                     Vägbana
-Mom    2 Å med   I eller II betecknat område  får byggnad   icke
--Enklast är att ta en skärmbild av gällande plankarta med Traktnamn, kvartersnamn Bostadshus fasad, resp. tak
-uppföras   till större höjd än respektive 3,5 och 7,0  m.
+
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
 Fastighetsgräns                               Uthus fasad, resp. tak
-exempelvis skärmklippverktyget.
-endast   med  hus, som   uppförs  fristående.
+
 Gång- och cykelbana                           Skärmtak
--Tänk på att du behöver tydliggöra vilken del av plankarta det är
 Höjdkurva 1,0 m
-som ändras. Du kan tydliggöra detta på två sätt, rita direkt i PDF                                                                                                                                                                                          § 9  FÖNSTER
-alternativt att du ritar i skärmklippverktyget när du klippt ut bilden.                                                                                                                                                                                     I fasad  som  uppföres  på  mindre  avstånd  från gräns  mot
--När du ska lägga in skärmbild av gällande plankarta klickar du på Plankarta för K35 från 1959. Område markerat med                                                                                                                                         granntomt   än  3,0 m  får fönster till bonings- och arbetsrum  icke
+
+Plankarta    för K35   från  1959.   Område     markerat     med
 Plankarta    för  T16   från  1974.  Område      markerat    med    röd  linje visar
+röd  linje visar   område    för  ändring    av  detaljplan
+område     för ändring     av detaljplan
+
+Planbestämmelser          som   upphör    att  gälla  inom
+
+område     för ändring    av  detaljplan    T16
+
+§ 2 MARK    SOM   ICKE   FÅR  BEBYGGAS
+
+Med   punktprickning  betecknad   mark,  får icke bebyggas.
+
+§ 5 BYGGNADS       HÖJD
+Mom   2 På  med   siffra i romb betecknat  område   får byggnad
+
+uppföras  till högst den höjd i meter  som  siffran anger.
+
+Planbestämmelser          som   upphör    att  gälla  inom
+
+område     för ändring    av  detaljplan    K35
+
+§ 2 MARK    SOM   ICKE   FÅR  BEBYGGAS
+
+Med   punktprickning  betecknad   mark,  får icke bebyggas.
+
+§ 6 VÅNINGSANTAL
+Mom   1 Å  med  I och II betecknat  område   får byggnad   uppföras
+
+med   resp högst  en eller två våningar.
+
+§ 7 BYGGNADS       HÖJD
+
+Mom   2 Å  med  I eller II betecknat område   får byggnad  icke
+uppföras  till större höjd än respektive 3,5 och  7,0 m.
+
+endast  med   hus, som  uppförs  fristående.
+
+§ 9 FÖNSTER
+
+I fasad som   uppföres  på mindre   avstånd  från gräns  mot
+granntomt   än 3,0 m  får fönster till bonings- och arbetsrum   icke
+
 anbringas.
-"bild" i menyraden. röd linje visar område    för  ändring    av  detaljplan
-område     för ändring    av  detaljplan
--Klicka
+
+Detta   är  en  mall   som    beskriver     vad   som    behöver      ingå   i
+
+layouten     när   du  gör   en  plankarta     för  ändring     av  detaljplan.
+
+Beroende       på  hur   stor  plankartan      är  och   hur   många
+
+planbestämmelser           som    upphävs      kan   du   behöva     anpassa
+
+mallen.
+
+Du   kan   ta bort   denna     och   övrig   hjälptext    när   du  följt
+instruktionerna        i respektive     ruta.
+
+Mallen    innehåller     följande:
+
+\- plankarta     (genereras      från   ditt arbete)
+
+\- legend    för  planbestämmelser           (genereras       från  ditt  arbete)
+
+\- Teckenförklaring         kartdata    (genereras      från   ditt arbete)
+
+\- instruktioner      om   hur   du  lägger    in  gällande     plankarta,
+
+\- ruta  för  planbestämmelser           som    upphävs       i samband      med
+
+ändringen.      Observera       att vi  vill att rutan    för upphävda
+
+bestämmelser         ska   vara   röd   för att  tydliggöra     bestämmelser
+
+som    upphävs.
 
 ORIENTERINGSKARTA
-Ändring   av  detaljplan   K35   och
+Ändring    av  detaljplan  K35   och
 Antagandehandling
 T16
-I senare framtagna   detaljplaner  redovisas  upphävda    bestämmelser    på
-Beslutsdatum   Instans
+I senare  framtagna   detaljplaner redovisas  upphävda    bestämmelser    på
+Beslutsdatum  Instans
 inom  Spoven   1
 detta vis:
 Samråd
-i Kungsbacka                                              BN § 104
+i Kungsbacka                                               BN § 104
 2025-05-15
 Kungsbacka    kommun                           Granskning
 Tjm                                Utformning
 2025-10-03
-Antagande                                      f6 - Byggnader   inom  egenskapsområdet      ska uppföras  i minst tre olika
-Upprättad 2025-10-02, reviderad 2025-11-04                 BN § xxx
+Antagande                                      f6 - Byggnader   inom  egenskapsområdet      ska uppföras   i minst tre olika
+Upprättad 2025-10-02,  reviderad 2025-11-04                BN § xxx
 2025-12-11
 våningsantal.
 Laga kraft
 xxxx-xx-xx
 Plankostnads-                      Utförande
-Ida Lennartsson             Björn Vikström      Diarenummer
+Ida Lennartsson            Björn Vikström      Diarenummer
 avtal
 2025-00084
-Verksamhetschef Plan        Planarkitekt                    Nej                                Vibrationsnivå  i bostad får inte överskrida  0,4 mm/s   vägd  RMS.
-PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
+Verksamhetschef Plan       Planarkitekt                    Nej                                Vibrationsnivå  i bostad  får inte överskrida 0,4 mm/s   vägd  RMS.
+PLANKARTA             Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med standardförfarande
 
 <!-- sida 50 -->
@@ -5179,35 +5287,30 @@ Granskningshandling                                        54 (54)
 
 <!-- sida 129 -->
 
-PLANBESTÄMMELSER                                                           Utförande
+PLANBESTÄMMELSER
 
-Minst hälften av skolgårdens yta (inkl. parkering och körytor)
-Följande  gäller inom områden  med  nedanstående   beteckningar. Endast
-ska vara genomsläpplig.
-angiven  användning  och utformning  är tillåten. Där beteckning saknas
-Utnyttjandegrad
-gäller bestämmelsen   inom hela området.
-Största byggnadsarea   är \<angivet> m².
+Följande gäller inom områden  med  nedanstående   beteckningar. Endast
+angiven  användning  och utformning är tillåten. Där beteckning saknas
+
+gäller bestämmelsen  inom  hela området.
+
 GRÄNSER
 
-Planområdesgräns.                                              EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+Planområdesgräns.
 
-Avgränsad     via sekundär    egenskapsgräns        och
 Användningsgräns.
-användningsgräns
+
 Egenskapsgräns.
-Höjd  på byggnadsverk
-Sekundär   egenskapsgräns.
-Högsta  nockhöjd är \<angivet> meter.
+
+Sekundär  egenskapsgräns.
 
 Sammanfallande    sekundär  och egenskapsgräns.
-Markreservat    för allmännyttiga  ändamål
-Markreservat  för allmännyttiga underjordiska ledningar.
+
 ANVÄNDNING         AV   MARK
 
 Kvartersmark
-GENOMFÖRANDETID
-Återvinningsstation.                                           Genomförandetiden   är 5 år.
+
+Återvinningsstation.
 
 Transformatorstation.
 
@@ -5217,63 +5320,86 @@ Skola.
 
 Besöksanläggningar.
 
-EGENSKAPSBESTÄMMELSER                    FÖR   KVARTERSMARK
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+Avgränsad     via egenskapsgräns        och  användningsgräns
 
-Avgränsad     via  egenskapsgräns       och  användningsgräns
+Begränsning    av  markens   utnyttjande
 
-Begränsning     av markens    utnyttjande
-
-Marken   får inte förses med byggnad.
+Marken  får inte förses med byggnad.
 
 Höjd  på  byggnadsverk
 
 Högsta  nockhöjd  är \<angivet> meter.
 
-Markens    anordnande     och vegetation
+Markens    anordnande    och  vegetation
 
-Marken   ska höjdsättas så att befintliga dagvattenflöden över
+Marken  ska höjdsättas så att befintliga dagvattenflöden över
 fastigheten inte skärs av.
 
 Placering
 
-Byggnadsverk   ska placeras  så att befintliga dagvattenflöden
+Byggnadsverk   ska placeras så att befintliga dagvattenflöden
 
-över planområdet   inte skärs av.
-
+över planområdet  inte skärs av.
 Skydd   mot  störningar
 
-Minst 50  procent av skolgårdens vistelseytor ska hålla en
+Minst 50 procent av skolgårdens  vistelseytor ska hålla en
 ekvivalent ljudnivå på högst 50 dBA. För övriga vistelseytor
+ska högsta  ekvivalenta ljudnivå vara 55 dBA.
 
-ska  högsta ekvivalenta ljudnivå vara 55 dBA.
+Skolområdet  ska  vara tillgängligt för fördröjning av minst 712
 
-Skolområdet   ska vara tillgängligt för fördröjning av minst 712
-m³  dagvatten.
+m³ dagvatten.
 
-Marken   ska vara tillgänglig för underjordisk fördröjning av
-minst 300  m³ dagvatten.
+Marken  ska vara tillgänglig för underjordisk fördröjning av
+minst 300 m³  dagvatten.
+
+Utförande
+
+Minst hälften av skolgårdens yta (inkl. parkering och körytor)
+
+ska vara genomsläpplig.
+Utnyttjandegrad
+
+Största byggnadsarea   är \<angivet> m².
+
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+
+Avgränsad     via sekundär     egenskapsgräns       och
+användningsgräns
+
+Höjd  på  byggnadsverk
+
+Högsta  nockhöjd  är \<angivet> meter.
+
+Markreservat    för allmännyttiga   ändamål
+
+Markreservat  för allmännyttiga underjordiska ledningar.
+
+GENOMFÖRANDETID
+
+Genomförandetiden    är 5 år.
 
 Detaljplanen är baserad på koordinatsystemet SWEREF 99
-
 1200 och höjdsystemet RH 2000
 Skala 1:1000 i A1, skala 1:2000 i A3
 
-TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-06-16
+TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2025-06-16
 
 Registernummer, tomtnummer                    Höjdkurva 5,0 m
+
 Höjdpunkt                                     Vägbana
-
 Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
-Fastighetsgräns                               Uthus fasad, resp. tak
 
+Fastighetsgräns                               Uthus fasad, resp. tak
 Gång- och cykelbana                           Skärmtak
 ORIENTERINGSKARTA
-Höjdkurva 1,0 m                                                                                                                                                                                                       Detaljplan    för ny skola   inom          Antagandehandling
+Höjdkurva 1,0 m                                                                                                                                                                                                        Detaljplan   för ny skola   inom           Antagandehandling
 
-Beslutsdatum   Instans
+Beslutsdatum  Instans
 del av Åsa  5:246
 Samråd
-i Åsa,                                                    BN
+i Åsa,                                                     BN
 2025-02-20
 Kungsbacka    kommun                           Granskning
 tjm
@@ -14167,17 +14293,27 @@ vägas mot behovet av nya bostäder.
 <!-- sida 343 -->
 
 PLANBESTÄMMELSER
-EGENSKAPSBESTÄMMELSER                    FÖR   ALLMÄN      PLATS
-Avgränsad      via egenskapsgräns       och  användningsgräns
+
 Följande gäller inom områden  med  nedanstående   beteckningar. Endast
-angiven användning   och utformning är tillåten. Där beteckning saknas
-Huvudmannaskap
+angiven  användning  och utformning är tillåten. Där beteckning saknas
+
 gäller bestämmelsen  inom  hela området.
-Huvudmannaskapet     är enskilt för den allmänna platsen.
+
 GRÄNSER
-Utformning    av allmän   plats
+
 Planområdesgräns.
-Damm    för dagvattenhantering.
+
+EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN      PLATS
+
+Avgränsad     via egenskapsgräns        och  användningsgräns
+
+Huvudmannaskap
+
+Huvudmannaskapet     är enskilt för den allmänna platsen.
+
+Utformning   av  allmän  plats
+
+Damm   för dagvattenhantering.
 
 Användningsgräns.
 EGENSKAPSBESTÄMMELSER                    FÖR   KVARTERSMARK
@@ -14186,43 +14322,45 @@ Avgränsad      via egenskapsgräns       och  användningsgräns
 
 Illustrationsgräns.
 Begränsning     av markens    utnyttjande
-Marken   får inte förses med byggnad.
+Marken  får inte förses med byggnad.
 ANVÄNDNING         AV   MARK
 
 Markreservat    för allmännyttiga   ändamål
 Allmän   platsmark
-Markreservat  för allmännyttiga underjordiska ledningar.
+Markreservat för allmännyttiga underjordiska ledningar.
 Lokalgata.
+
 Utformning
 Natur.
-Endast  friliggande enbostadshus.
+Endast friliggande enbostadshus.
 Park.
 
-Endast  parhus.
+Endast parhus.
 Kvartersmark
-Endast  radhus.
+Endast radhus.
 Bostäder.
-
-Endast  kedjehus.
+Endast kedjehus.
 Tekniska  anläggningar.
-Endast  friliggande flerbostadshus.
+
+Endast friliggande flerbostadshus.
 
 EGENSKAPSBESTÄMMELSER                   FÖR    ALL
 GENOMFÖRANDETID
 KVARTERSMARK
 Genomförandetiden    är 10 år.
 Höjd  på  byggnadsverk
+Högsta  nockhöjd på  komplementbyggnad    är 4,5 meter.
 
-Högsta  nockhöjd på komplementbyggnad     är 4,5 meter.
+Högsta  nockhöjd på  huvudbyggnad   är 8,0 meter.
 
-Högsta  nockhöjd på huvudbyggnad    är 8,0 meter.
 Placering
 
 Garage  och carport ska placeras minst 6,0 meter från fastighetsgräns mot
+
 allmän plats GATA.
 
-Komplement   byggnad  ska  placeras minst 1,0 meter från fastighetsgräns
-alternativt i fastighetsgräns om komplement byggnader  sammanbyggs    i
+Komplement   byggnad   ska placeras minst 1,0 meter från fastighetsgräns
+alternativt i fastighetsgräns om komplement byggnader  sammanbyggs     i
 
 fastighetsgräns.
 
@@ -14235,40 +14373,39 @@ Minsta takvinkel för huvudbyggnad  är 15 grader.
 
 Utformning
 
-Byggnader  ska  anpassas  med  hänsyn  till befintlig terräng.
+Byggnader   ska anpassas  med  hänsyn  till befintlig terräng.
 
 Utnyttjandegrad
 
 Största byggnadsarea   är 50 % av fastighetsarean inom
-
 användningsområdet.
 
 Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                         ORIENTERINGSKARTA
-1200 och höjdsystemet RH 2000                                                                                                                                                                    Detaljplan    för bostäder   inom          Samrådshandling
+1200 och höjdsystemet RH 2000                                                                                                                                                                     Detaljplan   för bostäder    inom          Samrådshandling
 Skala 1:1000 i A1, skala 1:2000 i A3
 
-TECKENFÖRKLARING     KARTDATA       Aktualitetsdatum: XXXX-XX-XX
-Beslutsdatum   Instans
-Registernummer, tomtnummer                   Höjdkurva 5,0 m                                                                                                                                                                      Bolsheden   1:9 och  1:39
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: XXXX-XX-XX
+Beslutsdatum  Instans
+Registernummer, tomtnummer                    Höjdkurva 5,0 m                                                                                                                                                                     Bolsheden    1:9 och 1:39
 Samråd
-Höjdpunkt                                    Vägbana                                                                                                                                                                              i Kullavik                                                BN/KX § xxx
+Höjdpunkt                                     Vägbana                                                                                                                                                                             i Kullavik                                                 BN/KX § xxx
 xxxx-xx-xx
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak                                                                                                                                                          Kungsbacka    kommun                           Granskning
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak                                                                                                                                                         Kungsbacka    kommun                           Granskning
 BN/KX § xxx
 xxxx-xx-xx
-Fastighetsgräns                              Uthus fasad, resp. tak
+Fastighetsgräns                               Uthus fasad, resp. tak
 Antagande
 Upprättad 2025-11-04                                       BN/KX § xxx
-Gång- och cykelbana                          Skärmtak
+Gång- och cykelbana                           Skärmtak
 xxxx-xx-xx
 Höjdkurva 1,0 m                                                                                                                                                                                                                                                                  Laga kraft
 xxxx-xx-xx
 Plankostnads-
-Ida Lennartsson             Linda Bergström     Diarienummer
+Ida Lennartsson            Linda Bergström     Diarienummer
 avtal
 2021-00028
-Verksamhetschef Plan        Planarkitekt                    Ja
-PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
+Verksamhetschef Plan       Planarkitekt                    Ja
+PLANKARTA             Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med standardförfarande
 
 <!-- sida 344 -->

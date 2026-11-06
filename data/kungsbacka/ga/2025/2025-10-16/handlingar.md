@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7d495738199c8fe75281b0dc/1760095325
 sha256: d5b496b9df24682123bd92be27f8cd0c1ee35ac101ed972de4317d2a5ee9e5a2
 bytes: 11756247
 sidor: 190
-hamtad: 2026-10-23T06:41:31+00:00
-konverterad: 2026-10-23T06:42:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:20:47+00:00
+konverterad: 2026-11-06T08:21:40+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -7270,7 +7270,8 @@ Björn       Elmqvist
 \#
 REBMETPES
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Regeringen
 
 Höstbudgeten:
@@ -7283,48 +7284,89 @@ vitetskrav inom försörjningsstödet, en omfattande bidragsreform med bidragsta
 och kvalificeringsregler, samt kraftigt ökade satsningar på yrkesutbildning i flera
 former.
 
-När regeringen presenterar höstbud- Aktivitetskravet i ekonomiskt bistånd Bidragsreformen
+När regeringen presenterar höstbud-
 geten för 2026 sker det i ett läge där
-Ett av de mest omfattande förslagen i Utöver aktivitetskravet presenteras en
 arbetslösheten fortfarande är hög. Trots
-budgeten är införandet av aktivitetskrav rad förändringar inom försörjningsstödet
 det minskar anslagen till aktiva arbets-
-för mottagare av ekonomiskt bistånd. och socialförsäkringen.
 marknadspolitiska program med närmare
-Kravet börjar gälla från halvårsskiftet
-sex miljarder kronor jämfört med 2025.             En ny regel införs där hushållens sam-
-2026\.
-Samtidigt förstärker regeringen Arbets-            lade försörjningsstöd begränsas. Det
-förmedlingens interna resurser. Grundprincipen är att den som får gäller framför allt större hushåll. Full
-försörjningsstöd ska delta i en heltidsak- norm gäller för upp till tre barn. Från det
+sex miljarder kronor jämfört med 2025.
+Samtidigt förstärker regeringen Arbets-
+förmedlingens interna resurser.
 Minskade program, ökad förvaltning
-tivitet som motsvarar arbetsförmågan. fjärde barnet räknas normnivån ned. För
-Utgifterna för arbetsmarknadspolitiken Undantag görs för personer som redan sammanboende hushåll blir beräkningen
-uppgår 2026 till drygt 91 miljarder kro- deltar på heltid i ett arbetsmarknadspo-
-nor, vilket är nästan sex miljarder mindre litiskt program via Arbetsförmedlingen.
-än året innan. Minskningen förklaras Kommunerna blir ansvariga för att ordna
-framför allt av lägre anslag till arbets- aktiviteterna, medan Arbetsförmedlingen
-marknadspolitiska program och insatser. förväntas stödja med system, uppfölj-
-Dessa minskar med cirka 900 miljoner ning och samordning.
+
+Utgifterna för arbetsmarknadspolitiken
+uppgår 2026 till drygt 91 miljarder kro-
+nor, vilket är nästan sex miljarder mindre
+än året innan. Minskningen förklaras
+framför allt av lägre anslag till arbets-
+marknadspolitiska program och insatser.
+Dessa minskar med cirka 900 miljoner
 2026 och ska därefter ligga kvar på en
-Aktiviteterna som kan komma ifråga
 lägre nivå under perioden fram till 2028.
-beskrivs i budgetpropositionen i linje
-Arbetsförmedlingens förvaltningsan- med tidigare utredningsförslag. Akti-
-slag går däremot upp med 250 miljoner viteterna kan handla om språkträning,
-kronor, till totalt 7,8 miljarder. Anslag- arbetsplatsförlagda insatser, jobbsökan-
-sökningen motiveras bland annat av de eller samhällsnyttiga uppgifter samt
-att myndigheten ska hantera stöd vid stödjande insatser som bryter isolering,
-införandet av aktivitetskravet för försörj- förbättrar hälsa eller stärker förmågan
-ningsstödsmottagare och att matchning att arbeta.
+Arbetsförmedlingens förvaltningsan-
+slag går däremot upp med 250 miljoner
+kronor, till totalt 7,8 miljarder. Anslag-
+sökningen motiveras bland annat av
+att myndigheten ska hantera stöd vid
+införandet av aktivitetskravet för försörj-
+ningsstödsmottagare och att matchning
 och kontroll ska förstärkas.
+
+Ersättningar till arbetssökande i form av
+arbetslöshetsersättning, aktivitetsstöd,
+utvecklingsersättning och etableringser-
+sättning ökar något 2026, till knappt 46
+miljarder kronor, men beräknas sjunka
+igen 2027 och 2028.
+
+Aktivitetskravet i ekonomiskt bistånd
+Ett av de mest omfattande förslagen i
+budgeten är införandet av aktivitetskrav
+för mottagare av ekonomiskt bistånd.
+Kravet börjar gälla från halvårsskiftet
+2026\.
+
+Grundprincipen är att den som får
+försörjningsstöd ska delta i en heltidsak-
+tivitet som motsvarar arbetsförmågan.
+Undantag görs för personer som redan
+deltar på heltid i ett arbetsmarknadspo-
+litiskt program via Arbetsförmedlingen.
+Kommunerna blir ansvariga för att ordna
+aktiviteterna, medan Arbetsförmedlingen
+förväntas stödja med system, uppfölj-
+ning och samordning.
+Aktiviteterna som kan komma ifråga
+beskrivs i budgetpropositionen i linje
+med tidigare utredningsförslag. Akti-
+viteterna kan handla om språkträning,
+arbetsplatsförlagda insatser, jobbsökan-
+de eller samhällsnyttiga uppgifter samt
+stödjande insatser som bryter isolering,
+förbättrar hälsa eller stärker förmågan
+att arbeta.
+
 För att underlätta deltagande aviseras
-Ersättningar till arbetssökande i form av finansiering även för barnomsorg, så att
-arbetslöshetsersättning, aktivitetsstöd, föräldrar kan delta i aktiviteter. Totalt av-
-utvecklingsersättning och etableringser- sätts drygt två miljarder kronor per helår
-sättning ökar något 2026, till knappt 46 för reformen, med en halvårskostnad på
-miljarder kronor, men beräknas sjunka cirka en miljard när den införs 2026.
-igen 2027 och 2028.                                      EElliissaabbeetthh SSvvaanntteessssoonn
+finansiering även för barnomsorg, så att
+föräldrar kan delta i aktiviteter. Totalt av-
+sätts drygt två miljarder kronor per helår
+för reformen, med en halvårskostnad på
+cirka en miljard när den införs 2026.
+
+Bidragsreformen
+Utöver aktivitetskravet presenteras en
+rad förändringar inom försörjningsstödet
+och socialförsäkringen.
+
+En ny regel införs där hushållens sam-
+lade försörjningsstöd begränsas. Det
+gäller framför allt större hushåll. Full
+norm gäller för upp till tre barn. Från det
+fjärde barnet räknas normnivån ned. För
+sammanboende hushåll blir beräkningen
+
+EElliissaabbeetthh SSvvaanntteessssoonn
+
 3
 
 <!-- sida 166 -->
@@ -7333,72 +7375,51 @@ igen 2027 och 2028.                                      EElliissaabbeetthh SSvv
 \#
 REBMETPES
 5202
-WERKET  MÅNADSRAPPORT
-0,75 av normen för varje barn utöver tre, kronor, pilotprojektet med nationell yr-
-och för ensamstående 0,4. Dessutom kesutbildning på gymnasial nivå förlängs
-slopas möjligheten för kommuner att till 2028 med 50 miljoner per år, och ar-
-göra lokala tillägg utöver riksnormen. betsmarknadsutbildningar inom vård får Werket
-ett tillskott på 30 miljoner. Den största
-Från 2027 införs en regel där nyinflytta-              kommenterar
-enskilda satsningen gäller yrkeshög-
+WERKET MÅNADSRAPPORT
+
+0,75 av normen för varje barn utöver tre,
+och för ensamstående 0,4. Dessutom
+slopas möjligheten för kommuner att
+göra lokala tillägg utöver riksnormen.
+Från 2027 införs en regel där nyinflytta-
 de måste ha bott i Sverige under femton
-skolan, som byggs ut stegvis med 180
 år, eller uppfyllt ett inkomstvillkor (12 av
-miljoner 2026, 360 miljoner 2027 och
-24 månader i arbete), för att kvalificera              Budgetpropositionen för 2026
-därefter 590 miljoner per år från 2028.
-sig till vissa förmåner. Regeln gäller dock            präglas av en tydlig omför-
-inte retroaktivt och omfattar inte ekono- Sammantaget omfattar satsningarna delning: programanslagen
-miskt bistånd.           över 500 miljoner kronor 2026, med minskar, Arbetsförmedlingens
-gradvisa ökningar de följande åren. Syf- förvaltningskostnader ökar och
+24 månader i arbete), för att kvalificera
+sig till vissa förmåner. Regeln gäller dock
+inte retroaktivt och omfattar inte ekono-
+miskt bistånd.
+
 En ny jobbpremie införs för personer
-tet är att möta arbetsgivarnas rekryte- kommunerna får ett utökat an-
 som lämnar försörjningsstödet för ar-
-ringsbehov, särskilt inom bristyrken där svar genom aktivitetskravet och
 bete. Premien motsvarar 15 procent av
-både offentliga och privata arbetsgivare förändrade regler för ekonomiskt
 lönen, upp till 3 700 kronor per månad.
-signalerat stora behov.       bistånd. Samtidigt förstärks
 Utbetalningen ska hanteras av Försäk-
-satsningarna på yrkesutbildning
 ringskassan.
-från komvux och regionalt yrkes-
-Etableringsjobb och subventionerade                    vux till den nationella yrkesut-
-anställningar                                          bildningen. Dessutom byggs
-yrkeshögskolan ut i större skala
+Etableringsjobb och subventionerade
+anställningar
+
 Satsningen på etableringsjobb förlängs
-än tidigare.
 till 2034. Staten står för en del av löne-
-kostnaden, men reformen är beroende                    För kommunerna innebär höst-
-av att parterna förnyar det centrala av-               budgeten mer tydlighet kring fi-
-talet om etableringsjobb. Regeringen vill              nansieringen av aktivitetskravs-
-anslå 11 miljoner kronor 2026, 84 miljo-               reformen samt en större tyngd i
-ner 2027 och 196 miljoner 2028. Utfallet               arbetsmarknadspolitiken, medan
-hittills har dock varit mycket begränsat.              vuxenutbildningen får bättre
-Av de 260 miljoner kronor som avsattes                 finansiering och mer långsiktiga
-2024 användes endast 1,2 miljoner.                     planeringsförutsättningar.
-Vuxenutbildningen                                      Det som väcker viss förvåning
-är att Arbetsförmedlingen, trots
+kostnaden, men reformen är beroende
+av att parterna förnyar det centrala av-
+talet om etableringsjobb. Regeringen vill
+anslå 11 miljoner kronor 2026, 84 miljo-
+ner 2027 och 196 miljoner 2028. Utfallet
+hittills har dock varit mycket begränsat.
+Av de 260 miljoner kronor som avsattes
+2024 användes endast 1,2 miljoner.
+Vuxenutbildningen
+
 På utbildningsområdet innehåller budge-
-över 11 000 anställda, återigen
 ten flera nyheter som får direkt betydel-
-får ökade förvaltningsanslag.
 se för kommuner och anordnare. Stats-
-Denna gång för att stärka arbe-
 bidragen till komvux ska i fortsättningen
-tet med aktivitetsstöd, kontroll
 kunna sökas för tre år i taget, i stället för
-och matchning. Frågan inställer
 ett eller två, vilket ger en längre plane-
-sig om myndigheten verkligen
 ringshorisont. Anslaget förstärks också
-måste tillföras extra medel varje
 med 100 miljoner kronor under 2026,
-gång regeringen ger den ett nytt
 vilket gör att den totala potten uppgår till
-uppdrag? Särskilt när det hand-
 drygt 3,7 miljarder. Ersättningsnivåerna
-lar om kärnverksamhet.
 höjs dessutom för kostsamma yrkesut-
 bildningar, bland annat inom vårdsektorn
 och för elever med funktionsnedsätt-
@@ -7406,7 +7427,66 @@ ning.
 Utöver detta satsar regeringen på flera
 kompletterande insatser. Regionalt
 yrkesvux förstärks med 100 miljoner
+
+kronor, pilotprojektet med nationell yr-
+kesutbildning på gymnasial nivå förlängs
+till 2028 med 50 miljoner per år, och ar-
+betsmarknadsutbildningar inom vård får
+ett tillskott på 30 miljoner. Den största
+enskilda satsningen gäller yrkeshög-
+skolan, som byggs ut stegvis med 180
+miljoner 2026, 360 miljoner 2027 och
+därefter 590 miljoner per år från 2028.
+Sammantaget omfattar satsningarna
+över 500 miljoner kronor 2026, med
+gradvisa ökningar de följande åren. Syf-
+tet är att möta arbetsgivarnas rekryte-
+ringsbehov, särskilt inom bristyrken där
+både offentliga och privata arbetsgivare
+signalerat stora behov.
+
 4
+
+Werket
+
+kommenterar
+
+Budgetpropositionen för 2026
+präglas av en tydlig omför-
+delning: programanslagen
+minskar, Arbetsförmedlingens
+förvaltningskostnader ökar och
+kommunerna får ett utökat an-
+svar genom aktivitetskravet och
+förändrade regler för ekonomiskt
+bistånd. Samtidigt förstärks
+satsningarna på yrkesutbildning
+från komvux och regionalt yrkes-
+vux till den nationella yrkesut-
+bildningen. Dessutom byggs
+yrkeshögskolan ut i större skala
+än tidigare.
+
+För kommunerna innebär höst-
+budgeten mer tydlighet kring fi-
+nansieringen av aktivitetskravs-
+reformen samt en större tyngd i
+arbetsmarknadspolitiken, medan
+vuxenutbildningen får bättre
+finansiering och mer långsiktiga
+planeringsförutsättningar.
+Det som väcker viss förvåning
+är att Arbetsförmedlingen, trots
+över 11 000 anställda, återigen
+får ökade förvaltningsanslag.
+Denna gång för att stärka arbe-
+tet med aktivitetsstöd, kontroll
+och matchning. Frågan inställer
+sig om myndigheten verkligen
+måste tillföras extra medel varje
+gång regeringen ger den ett nytt
+uppdrag? Särskilt när det hand-
+lar om kärnverksamhet.
 
 <!-- sida 167 -->
 
@@ -7414,72 +7494,96 @@ yrkesvux förstärks med 100 miljoner
 \#
 REBMETPES
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Forskning
 
 När     tron    på    den     arbetssökande
 
-gör    skillnad
+gör     skillnad
 
 En ny studie från Danmark visar att arbetsförmedlarnas tro på sina klienters jobb-
-möjligheter kan vara avgörande, inte bara för chanserna att få ett arbete, utan
 
+möjligheter kan vara avgörande, inte bara för chanserna att få ett arbete, utan
 också för hälsan. Vi har talat med forskaren Michael Rosholm vid Aarhus universi-
 tet om resultaten och vad de kan betyda för svensk arbetsmarknadspolitik.
 
-I forskningsrapporten Knockin’ on Mekanismerna bakom Däremot finns det privata aktörer i
-Employment’s Door: The Power of Ca-                Danmark (Væksthuset) som har testat
-Hur uppstår då effekten? Rosholm ser
-seworker Beliefs on Job and Health Out-            kurser för att stärka handläggarnas för-
-flera möjliga mekanismer. En förklaring
-comes for the Long-Term Unemployed                 hållningssätt. Vi diskuterar att utvärdera
-kan vara att handläggare med stark tro
-har Michael Rosholm och Søren Albeck               sådana insatser mer systematiskt. Men
-på sina klienter i högre grad använder
-Nielsen undersökt långvarigt arbetslösa            innan dess behöver vi veta mer om de
-jobborienterade insatser, som praktik el-
-socialbidragstagare i Danmark. Studien             exakta mekanismerna.
-ler anställningsstöd, snarare än allmänna
+I forskningsrapporten Knockin’ on
+Employment’s Door: The Power of Ca-
+seworker Beliefs on Job and Health Out-
+comes for the Long-Term Unemployed
+har Michael Rosholm och Søren Albeck
+Nielsen undersökt långvarigt arbetslösa
+socialbidragstagare i Danmark. Studien
 bygger på data från BIP-projektet (Be-
-insatser. En annan kan vara det så kall-
 skæftigelses Indikator Projektet), som är
-lade Rosenthal- eller Pygmalioneffekten,
 välkänt i Sverige, och genom att utnyttja
-det vill säga att människors prestationer
 det danska systemets slumpmässiga
-påverkas av andras förväntningar.
 fördelning av klienter till olika handläg-
-gare kunde forskarna isolera effekten av – Jag tror att det är en kombination,
-handläggarens inställning. säger Rosholm. Vi ser i andra samman-
-hang att förväntningar i sig kan ha en
+gare kunde forskarna isolera effekten av
+handläggarens inställning.
 Resultaten är tydliga: när klienten möter
-direkt effekt. Men vi ser också att de
 en handläggare som tror på deras
-optimistiska handläggarna tenderar att
 möjligheter ökar chansen att få arbete
-styra klienterna mot mer arbetsnära
 eller börja studera. Men det kanske mest
-aktiviteter.
 oväntade var att även hälsan förbättras.
-För vissa grupper, särskilt de utan full- Svårt att förändra attityder
+För vissa grupper, särskilt de utan full-
 ständig utbildning eller äldre klienter, var
-En central fråga är förstås om det
 hälsoeffekten större än jobbresultaten.
-går att påverka handläggarnas
-– Vi letade från början efter sysselsätt- tro. Forskarna fann att attityderna
-ningseffekter, berättar Michael Rosholm. verkar vara relativt stabila över
-Hälsoeffekterna kom in som en eftertan- tid, mer en del av personligheten
-ke. Men det visade sig att klienter vars än något som snabbt kan ändras
-handläggare hade höga förväntningar med instruktioner.
+
+– Vi letade från början efter sysselsätt-
+ningseffekter, berättar Michael Rosholm.
+Hälsoeffekterna kom in som en eftertan-
+ke. Men det visade sig att klienter vars
+handläggare hade höga förväntningar
 minskade sin användning av smärtstil-
-– Du kan inte bara säga till en
 lande och andra mediciner. Det tyder på
-handläggare att nu måste du
 att tron från handläggaren faktiskt kan
-tro på klienten, det fungerar
 ha en direkt påverkan på måendet.
+
+Mekanismerna bakom
+Hur uppstår då effekten? Rosholm ser
+flera möjliga mekanismer. En förklaring
+kan vara att handläggare med stark tro
+på sina klienter i högre grad använder
+jobborienterade insatser, som praktik el-
+ler anställningsstöd, snarare än allmänna
+insatser. En annan kan vara det så kall-
+lade Rosenthal- eller Pygmalioneffekten,
+det vill säga att människors prestationer
+påverkas av andras förväntningar.
+
+– Jag tror att det är en kombination,
+säger Rosholm. Vi ser i andra samman-
+hang att förväntningar i sig kan ha en
+direkt effekt. Men vi ser också att de
+optimistiska handläggarna tenderar att
+styra klienterna mot mer arbetsnära
+aktiviteter.
+Svårt att förändra attityder
+
+En central fråga är förstås om det
+går att påverka handläggarnas
+tro. Forskarna fann att attityderna
+verkar vara relativt stabila över
+tid, mer en del av personligheten
+än något som snabbt kan ändras
+med instruktioner.
+– Du kan inte bara säga till en
+handläggare att nu måste du
+tro på klienten, det fungerar
 inte, konstaterar Rosholm.
+
+Däremot finns det privata aktörer i
+Danmark (Væksthuset) som har testat
+kurser för att stärka handläggarnas för-
+hållningssätt. Vi diskuterar att utvärdera
+sådana insatser mer systematiskt. Men
+innan dess behöver vi veta mer om de
+exakta mekanismerna.
+
 MMiicchhaaeell RRoosshhoollmm
+
 5
 
 <!-- sida 168 -->
@@ -7488,66 +7592,136 @@ MMiicchhaaeell RRoosshhoollmm
 \#
 REBMETPES
 5202
-WERKET  MÅNADSRAPPORT
-Konsekvenser för politiken Äldre arbetssökande får främst hälso- roll i olika kontexter. Målet är att fördjupa
-effekter                  kunskapen om vilka faktorer som gör
+WERKET MÅNADSRAPPORT
+
+Konsekvenser för politiken
 Vad betyder detta för arbetsmarknads-
-skillnad för de mest utsatta grupperna
-politiken? En slutsats är att lägre ärende- För äldre arbetslösa, 55 år och uppåt,
-på arbetsmarknaden.
-nivåer kan ge handläggare mer tid att se visar studien att hälsoeffekterna är tydli-
-potentialen i varje individ, att diskutera gare än möjligheten att faktiskt komma i – Det här är något som ligger mig varmt
-med kollegor och att dela framgångs- arbete. Rosholm menar att detta framför om hjärtat, säger han. Det har legat vi-
-strategier.              allt handlar om efterfrågan. lande några år, men nu vill jag gå vidare
-och förstå mer om hur vi kan stödja dem
-– Det finns internationella exempel på – Arbetsgivare efterfrågar helt enkelt
-som står allra längst ifrån arbetsmark-
-att lägre caseload är kostnadseffektivt, inte äldre och lågutbildade. Men på en
-naden.
-säger Rosholm. Ett tyskt experiment stram arbetsmarknad, som vi har sett i
-visade att effekterna på arbetslösheten Danmark, kommer arbetsgivarna förr el-
-vida översteg kostnaden för att anställa ler senare att behöva vända sig till dessa
-fler handläggare.        grupper. Och då kan tron från en enga-
-gerad handläggare göra stor skillnad.
+politiken? En slutsats är att lägre ärende-
+nivåer kan ge handläggare mer tid att se
+potentialen i varje individ, att diskutera
+med kollegor och att dela framgångs-
+strategier.
+
+– Det finns internationella exempel på
+att lägre caseload är kostnadseffektivt,
+säger Rosholm. Ett tyskt experiment
+visade att effekterna på arbetslösheten
+vida översteg kostnaden för att anställa
+fler handläggare.
 En annan implikation är vikten av att inte
-enbart fokusera på tekniska färdigheter Nästa steg: internationell forskning
+enbart fokusera på tekniska färdigheter
 vid rekrytering och utbildning av hand-
-Rosholm arbetar nu för att bygga sam-
 läggare, utan också på deras förmåga
-arbeten med forskare i andra europeiska
 att förmedla hopp och tilltro.
+
+Äldre arbetssökande får främst hälso-
+effekter
+För äldre arbetslösa, 55 år och uppåt,
+visar studien att hälsoeffekterna är tydli-
+gare än möjligheten att faktiskt komma i
+arbete. Rosholm menar att detta framför
+allt handlar om efterfrågan.
+
+– Arbetsgivare efterfrågar helt enkelt
+inte äldre och lågutbildade. Men på en
+stram arbetsmarknad, som vi har sett i
+Danmark, kommer arbetsgivarna förr el-
+ler senare att behöva vända sig till dessa
+grupper. Och då kan tron från en enga-
+gerad handläggare göra stor skillnad.
+Nästa steg: internationell forskning
+
+Rosholm arbetar nu för att bygga sam-
+arbeten med forskare i andra europeiska
 länder för att undersöka handläggarnas
+
 Notiser
-Lönedumpning       i     Sammanslagning            Riksdagen    enig  om
-upphandling?             stoppas                   ”gas”  i pensionen
-Trots att myndigheter sedan 2017 är Regeringen går inte vidare med förslaget Riksdagens samtliga åtta partier har
-skyldiga att ställa krav på skäliga arbets- att slå ihop Delmi, IAF och ISF, enligt enats om att införa en så kallad gas
-villkor i vissa upphandlingar, följs lagen höstbudgeten. Därmed kan de tre myn- i pensionssystemet, som innebär att
-sällan. En ny granskning från Riksrevi- digheterna fortsätta sina uppdrag, efter överskott delas ut till pensionärerna när
-sionen visar att endast i hälften av fallen månader av ovisshet. bufferten överstiger 15 procent. Föränd-
-gjordes en bedömning om krav behöv-               ringen ska börja gälla 2027 och beräknas
-– Tiden i ovisshet är över. Nu kan vi fo-
-des – och bara en tredjedel av avtalen            ge omkring 100 kronor mer i pension.
-kusera på den nya arbetslöshetsförsäk-
+
+Lönedumpning       i
+upphandling?
+
+Trots att myndigheter sedan 2017 är
+skyldiga att ställa krav på skäliga arbets-
+villkor i vissa upphandlingar, följs lagen
+sällan. En ny granskning från Riksrevi-
+sionen visar att endast i hälften av fallen
+gjordes en bedömning om krav behöv-
+des – och bara en tredjedel av avtalen
 innehöll sådana villkor.
-ringen som träder i kraft 1 oktober, sade – Detta borde kanske ha gjorts tidigare,
-– Det riskerar att leda till lönedumpning IAF:s generaldirektör Mathias Wahlsten sade äldre- och socialförsäkringsminister
-när offentliga medel går till arbetsgivare vid ett personalmöte. Anna Tenje (M) vid presentationen.
+
+– Det riskerar att leda till lönedumpning
+när offentliga medel går till arbetsgivare
 som inte följer kollektivavtal, säger pro-
-Även Delmi, Delegationen för migra- LO kallar beslutet ”ett svek mot arbe-
 jektledaren Yvonne Thorsén.
-tionsstudier, får förlängt efter årsskiftet tarna” och menar att överskottsgränsen
-Bristande uppföljning, svårigheter att tol- – något kanslichefen Agneta Carlberger satts för högt. – De hade kunnat få mer
-ka kollektivavtal och avsaknad av tydlig Kundoori beskriver som ”betryggande”. pengar här och nu, säger LO:s ordfö-
-tillsyn lyfts fram som orsaker. Riksrevi- Samtidigt efterlyser hon en mer långsik- rande Johan Lindholm. Även pensio-
-sionen vill nu se skarpare kontroll, med tig plan för kommitténs roll. närsorganisationen PRO är kritisk och
-Danmark som förebild, där en central              varnar för att många inte hinner ta del av
+Bristande uppföljning, svårigheter att tol-
+ka kollektivavtal och avsaknad av tydlig
+tillsyn lyfts fram som orsaker. Riksrevi-
+sionen vill nu se skarpare kontroll, med
+Danmark som förebild, där en central
+enhet ansvarar för uppföljningen.
+
+Sammanslagning
+
+stoppas
+
+Regeringen går inte vidare med förslaget
+att slå ihop Delmi, IAF och ISF, enligt
+höstbudgeten. Därmed kan de tre myn-
+digheterna fortsätta sina uppdrag, efter
+månader av ovisshet.
+– Tiden i ovisshet är över. Nu kan vi fo-
+kusera på den nya arbetslöshetsförsäk-
+ringen som träder i kraft 1 oktober, sade
+IAF:s generaldirektör Mathias Wahlsten
+vid ett personalmöte.
+
+Även Delmi, Delegationen för migra-
+tionsstudier, får förlängt efter årsskiftet
+– något kanslichefen Agneta Carlberger
+Kundoori beskriver som ”betryggande”.
+Samtidigt efterlyser hon en mer långsik-
+tig plan för kommitténs roll.
 Regeringen meddelar att man avser se
-enhet ansvarar för uppföljningen.                 pengarna innan de går bort.
 över Delmis organisation framöver, men
 att någon ny utredning inte planeras i
 nuläget.
+
 6
+
+roll i olika kontexter. Målet är att fördjupa
+kunskapen om vilka faktorer som gör
+skillnad för de mest utsatta grupperna
+på arbetsmarknaden.
+– Det här är något som ligger mig varmt
+om hjärtat, säger han. Det har legat vi-
+lande några år, men nu vill jag gå vidare
+och förstå mer om hur vi kan stödja dem
+som står allra längst ifrån arbetsmark-
+naden.
+
+Riksdagen     enig  om
+
+”gas”  i pensionen
+
+Riksdagens samtliga åtta partier har
+enats om att införa en så kallad gas
+i pensionssystemet, som innebär att
+överskott delas ut till pensionärerna när
+bufferten överstiger 15 procent. Föränd-
+ringen ska börja gälla 2027 och beräknas
+ge omkring 100 kronor mer i pension.
+– Detta borde kanske ha gjorts tidigare,
+sade äldre- och socialförsäkringsminister
+Anna Tenje (M) vid presentationen.
+
+LO kallar beslutet ”ett svek mot arbe-
+tarna” och menar att överskottsgränsen
+satts för högt. – De hade kunnat få mer
+pengar här och nu, säger LO:s ordfö-
+rande Johan Lindholm. Även pensio-
+närsorganisationen PRO är kritisk och
+varnar för att många inte hinner ta del av
+pengarna innan de går bort.
 
 <!-- sida 169 -->
 
@@ -7555,7 +7729,8 @@ nuläget.
 \#
 REBMETPES
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Månadens djupdykning
 
 Vart     tog     deltagarna
@@ -7563,12 +7738,12 @@ Vart     tog     deltagarna
 i de    hävda        avtalen         vägen?
 
 I våras tillämpade Arbetsförmedlingen en ny mekanism i Rusta och matcha 2. Efter
-att avtalet i mars uppdaterats med skärpta kvalitetskrav och en resultatöversyn
 
+att avtalet i mars uppdaterats med skärpta kvalitetskrav och en resultatöversyn
 granskades leverantörernas prestationer. De som vid två mättillfällen i rad endast
+
 fått betyg 1, och haft ett resultatmått under 20 procent såg sina avtal hävda. Be-
 slutet innebar att drygt 1 500 deltagare behövde byta leverantör. Frågan är: vart
-
 tog de vägen och hur påverkades deras valmöjligheter?
 
 I ljuset av hävningarna är det lätt att tro 600
@@ -7583,33 +7758,10 @@ betyg över tid.             200
 I 62 av 63 leveransområden (undantaget 100
 Luleå) fanns leverantörer med minst tre
 stjärnor i betyg i maj – alltså bättre än 0
-\-        1        2        3        4
+\-       1        2        3        4
 det regionala genomsnittet. Tillgången
 på duktiga leverantörer var alltså god när
 deltagarna skulle göra sina nyval.
-Hur gjorde deltagarna sina val?
-Av de 1 559 deltagare som behövde byta • Ett poängvärde beräknas genom att resultaten för respektive leverantör
-leverantör valde flest en aktör med 2 vägs samman med deltagares individuella jobbchans från den statistiska
-stjärnor – alltså under genomsnittet. modellen i myndighetens bedömningsstöd. Här tar modellen hänsyn till
-deltagarens avstånd till arbetsmarknaden, hur lång tid hen varit i tjänsten
-• 891 personer (57,1 %) valde anting-
-samt hur stor del av deltagarens arbetsutbud som uppfylls.
-en en obetygsatt eller en svagare
-leverantör (≤2 stjärnor). • Betyg tas fram genom att leverantörers poängvärde jämförs med varan-
-dra inom respektive region, för att ta hänsyn till lokala arbetsmarknads-
-• 260 personer (16,7 %) valde en leve-
-förhållanden.
-rantör helt utan betyg.
-•  En fyrgradig skala används sedan, från en till fyra stjärnor. En stjärna
-Det skedde trots att det fanns högpres-
-innebär ett poängvärde mer än en standardavvikelse under medel. Vid
-terande alternativ i hela landet.
-två och tre stjärnor ligger poängvärdet inom en standardavvikelse(+/-)
-Skillnader mellan leveransområden från medel. Fyra stjärnor innebär ett poängvärde mer än en standardav-
-vikelse över medel.
-I diagrammet på nästa sida är de nyvalda
-leverantörerna grupperade efter deras
-7
 renosreP
 latnA
 34,6%
@@ -7622,7 +7774,42 @@ latnA
 5,8%
 91
 Antalet deltagare fördelat efter deras nya leverantörs betyg. Källa: Arbetsförmedlingen
+
+Hur gjorde deltagarna sina val?
+Av de 1 559 deltagare som behövde byta
+leverantör valde flest en aktör med 2
+stjärnor – alltså under genomsnittet.
+
+• 891 personer (57,1 %) valde anting-
+en en obetygsatt eller en svagare
+leverantör (≤2 stjärnor).
+• 260 personer (16,7 %) valde en leve-
+rantör helt utan betyg.
+
+Det skedde trots att det fanns högpres-
+terande alternativ i hela landet.
+Skillnader mellan leveransområden
+
+I diagrammet på nästa sida är de nyvalda
+leverantörerna grupperade efter deras
+
 Faktaruta:  Betygsmodell  ROM2
+• Ett poängvärde beräknas genom att resultaten för respektive leverantör
+vägs samman med deltagares individuella jobbchans från den statistiska
+modellen i myndighetens bedömningsstöd. Här tar modellen hänsyn till
+deltagarens avstånd till arbetsmarknaden, hur lång tid hen varit i tjänsten
+samt hur stor del av deltagarens arbetsutbud som uppfylls.
+
+• Betyg tas fram genom att leverantörers poängvärde jämförs med varan-
+dra inom respektive region, för att ta hänsyn till lokala arbetsmarknads-
+förhållanden.
+• En fyrgradig skala används sedan, från en till fyra stjärnor. En stjärna
+innebär ett poängvärde mer än en standardavvikelse under medel. Vid
+två och tre stjärnor ligger poängvärdet inom en standardavvikelse(+/-)
+från medel. Fyra stjärnor innebär ett poängvärde mer än en standardav-
+vikelse över medel.
+
+7
 
 <!-- sida 170 -->
 
@@ -7630,70 +7817,24 @@ Faktaruta:  Betygsmodell  ROM2
 \#
 REBMETPES
 5202
-WERKET  MÅNADSRAPPORT
-betyg i maj, där leverantörer som saknar Troligtvis kan en stor del av problema- Notiser
-betyg, eller har betyg ett eller två, ligger tiken tillskrivas deltagarnas informa-
-i en grupp. I den andra ligger leverantö- tionstillgång och möjlighet att göra ett
-AF  lanserar   ny  ver-
-rerna med tre stjärnor eller mer i betyg, välgrundat val av leverantör. Betygen,
-dvs de som utmärkt sig i positiv bemär- som vi antar är den primära styrmeka- sion av MFSA
-kelse regionalt.         nismen för valet av leverantör, ser ut att
-spela olika stor roll runt om i landet. Arbetsförmedlingen fortsätter att fasa
+WERKET MÅNADSRAPPORT
+
+betyg i maj, där leverantörer som saknar
+betyg, eller har betyg ett eller två, ligger
+i en grupp. I den andra ligger leverantö-
+rerna med tre stjärnor eller mer i betyg,
+dvs de som utmärkt sig i positiv bemär-
+kelse regionalt.
 Bilden varierar stort mellan områden:
-ut KA Webb och flytta anvisningar och
-informationsutbyte för arbetsmarknadsut-
-bildningar till Mina sidor fristående aktörer
-(MSFA). Under hösten går fler utbild-
-ningsavtal in i systemet, bland annat inom
-buss- och lastbil, lokalvård, hemservice,
-vårdbiträde samt serviceutbildningar.
-Den 25 september lanserades dessutom
-en ny version av MSFA med förbättringar
-för leverantörer. Bland annat kan resultat
-för certifikat nu redovisas och ersättning
-begäras direkt i systemet från den 1 okto-
-ber. Leverantörer kan också redigera sina
-hemsidor i MSFA Administration och få
-enklare tillgång till användarstöd.
-Syftet med övergången är att skapa ett
-mer enhetligt och effektivt arbetssätt i
-Men det kan även finnas andra bidra- hanteringen av Arbetsförmedlingens upp-
-• Det är skillnad runt om i landet,
-gande förklaringar. Exempelvis lokala handlade tjänster.
-genomsnittet ger inte en korrekt bild
-faktorer såsom närhet, relationer eller
-av valen på lokal nivå.
-praktiska omständigheter kan väga AF-leverantör ut-
-• I 5 av 49 områden valde samtliga
-tyngre än kvalitet. Vidare har Werket
-deltagare en högpresterande leve-                reds  för fusk
-tidigare rapporterat om arbetsmiljön för
-rantör (≥3 stjärnor).
-coacher och hur hot och villkorat del-
-En av Arbetsförmedlingens största leve-
-• I 9 av 49 områden valde samtliga tagande förekommer, ett fenomen som
-rantörer misstänks för avtalsfusk. Enligt
-deltagare en lågpresterande leve- troligtvis fortsatt.
-Konkurrensverket ska bolaget, via sina
-rantör (≥2 stjärnor).
-Arbetsförmedlingens betygssystem är dotterbolag, ha betalat konkurrenter för att
-• I 17 av 49 områden valde majorite- tänkt att styra mot de bästa leverantö- dra sig ur upphandlingar av arbetsmark-
-ten av deltagarna en välpresterande rerna. Ändå valde en majoritet av delta- nadsutbildningar.
-leverantör (≥3 stjärnor). garna alternativ under genomsnittet.
-Konkurrensverket har genomfört oannon-
-• I 30 av 49 områden var det vanliga- Det pekar på att konkurrensen ännu inte serade tillslag mot bolagen och konstate-
-re att deltagarna valde en lågpres- främst bygger på kvalitet, andra faktorer rar att misstankarna rör allvarliga överträ-
-terande leverantör än en högpres- verkar fortfarande påverka deltagarnas delser med betydande samhällsekonomisk
-terande.               val i stor utsträckning. Vill myndigheten påverkan.
-attrahera och behålla seriösa leverantö-
-Sammantaget indikerar observationerna             Leverantören tillbakavisar anklagelserna
-rer måste betygen spela en större roll.
-ovan att det finns påtaglig förbättring-          och förväntar sig att utredningen läggs
-spotential i deltagarnas urvalsprocess Kunskap om dessa konkurrensförhållan- ned.
-av leverantör, givet att ambitionen är att den är också avgörande när tjänsten ut-
-driva deltagare till de bästa leverantö- värderas. Annars riskerar både forskare
-rerna.                   och politiker att dra fel slutsatser.
-8
+
+Troligtvis kan en stor del av problema-
+tiken tillskrivas deltagarnas informa-
+tionstillgång och möjlighet att göra ett
+välgrundat val av leverantör. Betygen,
+som vi antar är den primära styrmeka-
+nismen för valet av leverantör, ser ut att
+spela olika stor roll runt om i landet.
+
 kivretsäV sånarT nmahsirmiS akivduL ramlaK tsÖ-dyS
 grobetöG
 elväG gnipöknöJ alasppU llavsdnuS egnälroB-nulaF grobgnisleH omanräV nmahredöS-sänlloB gnipökrroN egnikelB tsÖ
@@ -7727,13 +7868,113 @@ lednA
 Betyg -, 1, 2 3 & 4
 Antalet deltagare fördelat efter deras nya leverantörs betyg. Källa: Arbetsförmedlingen
 
+• Det är skillnad runt om i landet,
+genomsnittet ger inte en korrekt bild
+av valen på lokal nivå.
+• I 5 av 49 områden valde samtliga
+deltagare en högpresterande leve-
+rantör (≥3 stjärnor).
+
+• I 9 av 49 områden valde samtliga
+deltagare en lågpresterande leve-
+rantör (≥2 stjärnor).
+• I 17 av 49 områden valde majorite-
+ten av deltagarna en välpresterande
+leverantör (≥3 stjärnor).
+
+• I 30 av 49 områden var det vanliga-
+re att deltagarna valde en lågpres-
+terande leverantör än en högpres-
+terande.
+Sammantaget indikerar observationerna
+ovan att det finns påtaglig förbättring-
+spotential i deltagarnas urvalsprocess
+av leverantör, givet att ambitionen är att
+driva deltagare till de bästa leverantö-
+rerna.
+
+Men det kan även finnas andra bidra-
+gande förklaringar. Exempelvis lokala
+faktorer såsom närhet, relationer eller
+praktiska omständigheter kan väga
+tyngre än kvalitet. Vidare har Werket
+tidigare rapporterat om arbetsmiljön för
+coacher och hur hot och villkorat del-
+tagande förekommer, ett fenomen som
+troligtvis fortsatt.
+Arbetsförmedlingens betygssystem är
+tänkt att styra mot de bästa leverantö-
+rerna. Ändå valde en majoritet av delta-
+garna alternativ under genomsnittet.
+
+Det pekar på att konkurrensen ännu inte
+främst bygger på kvalitet, andra faktorer
+verkar fortfarande påverka deltagarnas
+val i stor utsträckning. Vill myndigheten
+attrahera och behålla seriösa leverantö-
+rer måste betygen spela en större roll.
+Kunskap om dessa konkurrensförhållan-
+den är också avgörande när tjänsten ut-
+värderas. Annars riskerar både forskare
+och politiker att dra fel slutsatser.
+
+8
+
+Notiser
+
+AF  lanserar   ny ver-
+
+sion  av MFSA
+
+Arbetsförmedlingen fortsätter att fasa
+ut KA Webb och flytta anvisningar och
+informationsutbyte för arbetsmarknadsut-
+bildningar till Mina sidor fristående aktörer
+(MSFA). Under hösten går fler utbild-
+ningsavtal in i systemet, bland annat inom
+buss- och lastbil, lokalvård, hemservice,
+vårdbiträde samt serviceutbildningar.
+Den 25 september lanserades dessutom
+en ny version av MSFA med förbättringar
+för leverantörer. Bland annat kan resultat
+för certifikat nu redovisas och ersättning
+begäras direkt i systemet från den 1 okto-
+ber. Leverantörer kan också redigera sina
+hemsidor i MSFA Administration och få
+enklare tillgång till användarstöd.
+
+Syftet med övergången är att skapa ett
+mer enhetligt och effektivt arbetssätt i
+hanteringen av Arbetsförmedlingens upp-
+handlade tjänster.
+
+AF-leverantör     ut-
+reds  för fusk
+
+En av Arbetsförmedlingens största leve-
+rantörer misstänks för avtalsfusk. Enligt
+Konkurrensverket ska bolaget, via sina
+dotterbolag, ha betalat konkurrenter för att
+dra sig ur upphandlingar av arbetsmark-
+nadsutbildningar.
+
+Konkurrensverket har genomfört oannon-
+serade tillslag mot bolagen och konstate-
+rar att misstankarna rör allvarliga överträ-
+delser med betydande samhällsekonomisk
+påverkan.
+Leverantören tillbakavisar anklagelserna
+och förväntar sig att utredningen läggs
+ned.
+
 <!-- sida 171 -->
 
 9
 \#
 REBMETPES
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Studieförbundet Näringsliv och Samhälle (SNS)
 
 Kommunerna              bär    risken
@@ -7741,71 +7982,114 @@ Kommunerna              bär    risken
 i den     gröna      omställningen
 
 De stora industrisatsningarna i norra Sverige beskrivs ofta som Sveriges fram-
-
 tidshopp, men de innebär också att kommunerna förväntas ta ett oproportionerligt
 stort ansvar för risker och investeringar. En ny SNS-rapport visar att arbetsmark-
 
 naden, elförsörjningen och säkerheten är de största flaskhalsarna, och att statens
 roll behöver bli mer samordnande.
 
-I Norrbotten och Västerbotten planeras klimatmålen, men kommunerna står lokal tillväxt. Staten behöver dessutom
-enorma investeringar under de kom- med uppgiften att snabbt bygga ut fungera som sammanhållande aktör för
-mande 20 åren. Stål, malm, batterier och skola, vård, barnomsorg och bostäder. att koordinera erfarenheter, kunskap
-vätgas lyfts fram som motorerna i den Rapporten pekar på att investeringarna och beslut. Annars riskerar de enskilda
-gröna omställningen, med tusentals nya i offentlig infrastruktur ofta måste ske kommunerna att bli förlorare i en alltför
-arbetstillfällen som lockbete. innan jobben faktiskt uppstår. En ordning ojämn riskfördelning.
-som skapar stor osäkerhet.
+I Norrbotten och Västerbotten planeras
+enorma investeringar under de kom-
+mande 20 åren. Stål, malm, batterier och
+vätgas lyfts fram som motorerna i den
+gröna omställningen, med tusentals nya
+arbetstillfällen som lockbete.
 Men Northvolts konkurs i Skellefteå
-har visat att den gröna industriboomen El, säkerhet och regleringsrisker
+har visat att den gröna industriboomen
 inte är immun mot företagsekonomiska
-Utöver arbetskraften pekar rapporten på Werket
 realiteter. Trots massivt statligt och kom-
-systemrisker som påverkar hela landet.
-munalt stöd tvingades bolaget säljas ut                kommenterar
-Elmarknaden pressas hårt av industrins
+munalt stöd tvingades bolaget säljas ut
 till en annan aktör för en bråkdel av det
-växande behov, vilket kan leda till både
-ursprungliga värdet.                                   Även om satsningarna är kon-
-högre priser och fördröjda investeringar.
-centrerade till norr är frågorna
-Arbetsmarknadspolitik    Samtidigt har säkerhetspolitiska risker
-nationella. Fördelningen av
-blivit mer framträdande efter kriget i
-Rapporten Risker i den gröna omställ-                  ansvar mellan stat, Arbetsför-
-Ukraina, där etableringar kan stoppas av
-ningen, skriven av Sofia Lundberg vid                  medlingen och kommuner blir
-försvars- eller säkerhetsskäl.
-Umeå universitet, pekar på att arbets-                 avgörande för hur Sverige klarar
-marknaden är en av de största utma- Staten måste ta ett större ansvar den gröna omställningen.
+ursprungliga värdet.
+
+Arbetsmarknadspolitik
+Rapporten Risker i den gröna omställ-
+ningen, skriven av Sofia Lundberg vid
+Umeå universitet, pekar på att arbets-
+marknaden är en av de största utma-
 ningarna. Den kanske tydligaste handlar
-Enligt Lundberg är det svårt att hitta ett Erfarenheten från Northvolt
 om arbetskraften. De berörda kommu-
-enda initiativ som är helt privatfinansie- visar att industrins storslagna
 nerna har redan låg arbetslöshet och ar-
-rat. Offentliga garantier, stöd och inves- löften kan slå fel och att no-
 betskraftsbristen riskerar att bli akut. För
-teringar finns alltid med i bilden. Men tan då riskerar att hamna hos
 Arbetsförmedlingen och kommunerna
-riskfördelningen är otydlig. Kommunerna kommunerna och i förlängning-
 blir frågan hur man kan möta industrins
-förväntas agera proaktivt och bära de en skattebetalarna. Den gröna
 behov utan att dränera annan offentlig
-initiala kostnaderna, men saknar muskler omställningen är därför inte
 service och lokala arbetsgivare. Om
-för att hantera ett misslyckande. bara en näringslivsfråga, utan i
 kompetensbristen löses genom inpend-
-högsta grad en arbetsmarknads-
-ling i stället för inflyttning uteblir dessut- Rapportens slutsats är att näringslivet
-fråga om kompetensförsörjning,
-om de skatteintäkter som kommunerna bör bära den kommersiella risken, att
-kommunal ekonomi och vilket
-räknar med.              staten och EU ska ta ansvar för klimat,
-ansvar som ska ligga på staten
-innovation och konkurrenskraft, och att
-Här hamnar arbetsmarknadspolitiken                     respektive kommunerna.
-kommunala insatser kan motiveras när
+ling i stället för inflyttning uteblir dessut-
+om de skatteintäkter som kommunerna
+räknar med.
+
+Här hamnar arbetsmarknadspolitiken
 i centrum. Den statliga nivån driver
+
+klimatmålen, men kommunerna står
+med uppgiften att snabbt bygga ut
+skola, vård, barnomsorg och bostäder.
+Rapporten pekar på att investeringarna
+i offentlig infrastruktur ofta måste ske
+innan jobben faktiskt uppstår. En ordning
+som skapar stor osäkerhet.
+El, säkerhet och regleringsrisker
+
+Utöver arbetskraften pekar rapporten på
+systemrisker som påverkar hela landet.
+Elmarknaden pressas hårt av industrins
+växande behov, vilket kan leda till både
+högre priser och fördröjda investeringar.
+Samtidigt har säkerhetspolitiska risker
+blivit mer framträdande efter kriget i
+Ukraina, där etableringar kan stoppas av
+försvars- eller säkerhetsskäl.
+Staten måste ta ett större ansvar
+
+Enligt Lundberg är det svårt att hitta ett
+enda initiativ som är helt privatfinansie-
+rat. Offentliga garantier, stöd och inves-
+teringar finns alltid med i bilden. Men
+riskfördelningen är otydlig. Kommunerna
+förväntas agera proaktivt och bära de
+initiala kostnaderna, men saknar muskler
+för att hantera ett misslyckande.
+Rapportens slutsats är att näringslivet
+bör bära den kommersiella risken, att
+staten och EU ska ta ansvar för klimat,
+innovation och konkurrenskraft, och att
+kommunala insatser kan motiveras när
 det tydligt stärker arbetsmarknad och
+
+lokal tillväxt. Staten behöver dessutom
+fungera som sammanhållande aktör för
+att koordinera erfarenheter, kunskap
+och beslut. Annars riskerar de enskilda
+kommunerna att bli förlorare i en alltför
+ojämn riskfördelning.
+
+Werket
+
+kommenterar
+Även om satsningarna är kon-
+centrerade till norr är frågorna
+nationella. Fördelningen av
+ansvar mellan stat, Arbetsför-
+medlingen och kommuner blir
+avgörande för hur Sverige klarar
+den gröna omställningen.
+
+Erfarenheten från Northvolt
+visar att industrins storslagna
+löften kan slå fel och att no-
+tan då riskerar att hamna hos
+kommunerna och i förlängning-
+en skattebetalarna. Den gröna
+omställningen är därför inte
+bara en näringslivsfråga, utan i
+högsta grad en arbetsmarknads-
+fråga om kompetensförsörjning,
+kommunal ekonomi och vilket
+ansvar som ska ligga på staten
+respektive kommunerna.
+
 9
 
 <!-- sida 172 -->
@@ -7815,10 +8099,12 @@ det tydligt stärker arbetsmarknad och
 REBMETPES
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
+
 Landsorganisationen i Sverige (LO)
+
 Sverige       arbetar      mest     i Europa
 
-Nu    växer     krav     på   kortare       arbetstid
+Nu    växer     krav     på   kortare      arbetstid
 
 Svenskar hör till de mest arbetande i Europa. Det visar LO:s nya rapport Arbetar-
 landet Sverige, som tecknar en tydlig bild av ett land där både individer och hus-
@@ -7829,55 +8115,111 @@ familjer än i andra länder har två heltidsarbetande föräldrar. LO förbered
 
 på en generell arbetstidsförkortning, den första sedan 1970-talet.
 
-Sverige har länge haft en självbild som av ett land där lönearbetet tar en mycket an etablerades som norm. Därefter
-balanserad mellan arbete och fritid, stor plats i både individers och familjers har arbetstiden stått stilla, trots stora
-med starka rättigheter kring semester, vardag.     produktivitetsökningar i ekonomin. LO:s
-föräldraledighet och vård av barn. Men             mål är att åter sätta frågan på dagord-
-Stämmer myterna?
-den nya rapporten från LO visar att                ningen och peka på samhällsvinster som
-verkligheten ser annorlunda ut. Tvärtom Rapporten tar också ett grepp på den ökad jämställdhet, bättre folkhälsa och
-är Sverige ett av de länder i Europa där politiska och fackliga debatt som länge fler jobb.
-människor arbetar allra mest. präglats av motstridiga påståenden om
-svenskarnas arbetstid. LO pekar på att
-Enligt rapporten arbetar svenskar fler                 Werket
-det ofta hänvisas till statistik som ger
+Sverige har länge haft en självbild som
+balanserad mellan arbete och fritid,
+med starka rättigheter kring semester,
+föräldraledighet och vård av barn. Men
+den nya rapporten från LO visar att
+verkligheten ser annorlunda ut. Tvärtom
+är Sverige ett av de länder i Europa där
+människor arbetar allra mest.
+Enligt rapporten arbetar svenskar fler
 timmar per person i arbetsför ålder än
-sken av att svenskar arbetar i snitt bara kommenterar
 invånarna i länder som Tyskland, Frank-
-27 timmar i veckan. Det stämmer inte,
-rike och Nederländerna. Den vanliga menar LO, utan beror på att deltidsar- Förslagen om sex timmars ar-
-arbetsveckan är också längre. I Sverige bete och frånvaro vägs in i beräkningen. betsdag eller 35-timmarsvecka
-är normen fortfarande 40 timmar, medan För den stora majoriteten heltidsan- har länge diskuterats i mindre
-exempelvis Danmark ligger på 37 timmar ställda är arbetsveckan fortfarande 40 skala, men har ännu inte vunnit
-och Frankrike på 35 timmar. timmar.                    brett politiskt stöd. LO:s nya
-satsning kan därför bli startskot-
+rike och Nederländerna. Den vanliga
+arbetsveckan är också längre. I Sverige
+är normen fortfarande 40 timmar, medan
+exempelvis Danmark ligger på 37 timmar
+och Frankrike på 35 timmar.
+
 Hushållens samlade arbetsbörda
-Inte heller är bilden av Sverige som ett
-tet för en större debatt.
-Det är inte bara individens arbetsvecka land med särskilt generösa ledigheter
-som är lång. Rapporten lyfter fram att korrekt. Antalet röda dagar ligger i nivå Arbetsgivarorganisationer har
-svenska barnfamiljer sticker ut i ett med övriga Europa, och semesterlag- dock redan ifrågasatt LO:s sätt
-europeiskt perspektiv: i de allra flesta stiftningen med fem veckors betald att presentera statistiken. De
-hushåll med barn arbetar båda föräldrar- ledighet delas med flera andra länder. menar att rapporten bortser från
-de samhällsekonomiska kostna-
+Det är inte bara individens arbetsvecka
+som är lång. Rapporten lyfter fram att
+svenska barnfamiljer sticker ut i ett
+europeiskt perspektiv: i de allra flesta
+hushåll med barn arbetar båda föräldrar-
 na heltid. Det gör att den totala arbets-
-LO trappar upp inför förhandlingar
-derna av kortare arbetstid och
 bördan i hushållen blir högre än i nästan
-alla jämförbara länder. Endast Danmark För LO kommer rapporten bli ett verktyg att en generell arbetstidsför-
-visar ett liknande mönster, men där är i det förberedelsearbete som nu pågår kortning skulle kunna försämra
-heltidsmåttet kortare.   inför kommande avtalsrörelser. Fackför- företagens konkurrenskraft. Från
-bundet driver sedan kongressbeslutet arbetsgivarsidan pekar man ock-
+alla jämförbara länder. Endast Danmark
+visar ett liknande mönster, men där är
+heltidsmåttet kortare.
+
 Även ensamstående föräldrar arbetar
-2024 linjen att en ny generell arbetstids- så på att svensk industri redan
 mer i Sverige. Särskilt ensamstående
-förkortning är nödvändig.     tampas med höga lönekostnader
 mammor har en hög sysselsättningsgrad
+och arbetar oftare heltid än i övriga Eu-
+ropa. Sammantaget skapar detta en bild
+
+av ett land där lönearbetet tar en mycket
+stor plats i både individers och familjers
+vardag.
+Stämmer myterna?
+
+Rapporten tar också ett grepp på den
+politiska och fackliga debatt som länge
+präglats av motstridiga påståenden om
+svenskarnas arbetstid. LO pekar på att
+det ofta hänvisas till statistik som ger
+sken av att svenskar arbetar i snitt bara
+27 timmar i veckan. Det stämmer inte,
+menar LO, utan beror på att deltidsar-
+bete och frånvaro vägs in i beräkningen.
+För den stora majoriteten heltidsan-
+ställda är arbetsveckan fortfarande 40
+timmar.
+Inte heller är bilden av Sverige som ett
+land med särskilt generösa ledigheter
+korrekt. Antalet röda dagar ligger i nivå
+med övriga Europa, och semesterlag-
+stiftningen med fem veckors betald
+ledighet delas med flera andra länder.
+
+LO trappar upp inför förhandlingar
+För LO kommer rapporten bli ett verktyg
+i det förberedelsearbete som nu pågår
+inför kommande avtalsrörelser. Fackför-
+bundet driver sedan kongressbeslutet
+2024 linjen att en ny generell arbetstids-
+förkortning är nödvändig.
+
+Senast en sådan reform genomfördes
+var på 1970-talet, då 40-timmarsveck-
+
+an etablerades som norm. Därefter
+har arbetstiden stått stilla, trots stora
+produktivitetsökningar i ekonomin. LO:s
+mål är att åter sätta frågan på dagord-
+ningen och peka på samhällsvinster som
+ökad jämställdhet, bättre folkhälsa och
+fler jobb.
+
+Werket
+
+kommenterar
+
+Förslagen om sex timmars ar-
+betsdag eller 35-timmarsvecka
+har länge diskuterats i mindre
+skala, men har ännu inte vunnit
+brett politiskt stöd. LO:s nya
+satsning kan därför bli startskot-
+tet för en större debatt.
+Arbetsgivarorganisationer har
+dock redan ifrågasatt LO:s sätt
+att presentera statistiken. De
+menar att rapporten bortser från
+de samhällsekonomiska kostna-
+derna av kortare arbetstid och
+att en generell arbetstidsför-
+kortning skulle kunna försämra
+företagens konkurrenskraft. Från
+arbetsgivarsidan pekar man ock-
+så på att svensk industri redan
+tampas med höga lönekostnader
 och att ytterligare reformer ris-
-och arbetar oftare heltid än i övriga Eu- Senast en sådan reform genomfördes
 kerar att urholka sysselsättning-
-ropa. Sammantaget skapar detta en bild var på 1970-talet, då 40-timmarsveck-
 en i vissa branscher.
+
 10
 
 <!-- sida 173 -->
@@ -7901,22 +8243,23 @@ REBMETPES
 5202
 statistik
 makro
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 TEMPERATUREN         PÅ  ARBETSMARKNADEN
+
 MAKROLÄGET
-Temperaturen på arbetsmarknaden är sval Antalet lediga jobb ökade marginellt i
+
+Temperaturen på arbetsmarknaden är sval
 5
-\- 2 av fem indikatorer är positiva. augusti, men trenden är fortsatt nedåtgå-
-ende och de lediga jobben 10 000 färre
+\- 2 av fem indikatorer är positiva.
 4
-Arbetslösheten sjönk marginellt till 7 pro- än i fjol.
+Arbetslösheten sjönk marginellt till 7 pro-
 cent, men ligger fortsatt 0,2 procentenhe-
-ter över noteringen för augusti 2024. Barometerindikatorn steg i augusti mar-
+ter över noteringen för augusti 2024.
 3
-ginellt till 96, drygt 10 punkter högre än i
-Långtidsarbetslösheten fortsätter sin sti- augusti förra året, men är fortsatt under
-2                  gande trend och hamnade i augusti 2025 100 och indikerar därmed ett svagare
-på 154 834 personer, drygt 10 000 fler än i stämningsläge i ekonomin än normalt.
+Långtidsarbetslösheten fortsätter sin sti-
+2                  gande trend och hamnade i augusti 2025
+på 154 834 personer, drygt 10 000 fler än i
 augusti i fjol.
 1
 Antal varslade är på en nedåtgående
@@ -7925,31 +8268,44 @@ soner jämfört med augusti 2024.
 -1
 Två av fem indikatorer är positiva. Arbetsmarknaden
 är sval.
-Arbetslöshet            Antal långtidsarbetslösa Antal varslade personer
+
+Antalet lediga jobb ökade marginellt i
+augusti, men trenden är fortsatt nedåtgå-
+ende och de lediga jobben 10 000 färre
+än i fjol.
+
+Barometerindikatorn steg i augusti mar-
+ginellt till 96, drygt 10 punkter högre än i
+augusti förra året, men är fortsatt under
+100 och indikerar därmed ett svagare
+stämningsläge i ekonomin än normalt.
+
+Arbetslöshet           Antal långtidsarbetslösa Antal varslade personer
 Förändring 12 mån: 0,20 procentenheter Förändring 12 mån: 10 812 personer Förändring 12 mån: −1 669 personer
+
 7,2%                  155K           154 834
 10K
 7,0%                  150K
-7,0%                          8K
+7,0%                         8K
 6,8%
-145K                     6K
+145K                    6K
 6,6%
 4K
 140K
 6,4%                                                           2 457
-2024    2025          2024     2025          2024      2025
-Antal lediga jobb       Barometerindikatorn
+2024     2025          2024     2025          2024     2025
+Antal lediga jobb      Barometerindikatorn
 Förändring 12 mån: −11 106 platser Förändring 12 mån: 1,7 enheter
 150K                  140
+
 120
 100K
 69 681                                           96,0
 100
 50K
 80
-
 0K                    60
-2024    2025           2022      2023      2024      2025
+2024     2025           2022      2023      2024      2025
 
 12
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.49d36ef2191e50b88501ae51/1726210611
 sha256: b0d2f2db37859771e6dabeaf17e19223f64ef2a2dd0ccf86ad9a9f816ccb5982
 bytes: 1958792
 sidor: 48
-hamtad: 2026-10-23T10:30:30+00:00
-konverterad: 2026-10-23T10:30:46+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T12:19:15+00:00
+konverterad: 2026-11-06T12:19:32+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1015,7 +1015,6 @@ Delårsrapport augusti 2024
 4.3.1 Engagerade medarbetare
 
 Nyckeltal         Juni     Målvärde Kommentar
-
 Sjukfrånvaro
 Sjukfrånvaron har ökat jämfört med perioden januari
 (Andel sjukfrånvarotimmar av
@@ -1041,17 +1040,24 @@ Mätserien är förhållandevis kort men indikerar att
 Andel praktikanter i
 förhållande till ordinarie 9,7 % 15 % förvaltningen rör sig i rätt riktning avseende
 bemanning.                         nyckeltalet.
+
 Rekommendationsvilja
-(Andel procent som svarar att      Rekommendationsviljan skiljer sig mycket åt mellan
-de skulle rekommendera             Service verksamheter. Under våren har UM-
-Kungsbacka kommun som              projektgruppen arbetat för att undersöka utfallet
--11      0
+(Andel procent som svarar att
+de skulle rekommendera
+Kungsbacka kommun som
 arbetsgivare, minus de som
-närmare. Kungsbacka kommuns totala
 gett en låg poäng på frågan.
-rekommendationsvilja för samma period är -25.
 Resultatet blir ett värde
+
+Rekommendationsviljan skiljer sig mycket åt mellan
+Service verksamheter. Under våren har UM-
+projektgruppen arbetat för att undersöka utfallet
+-11      0
+närmare. Kungsbacka kommuns totala
+rekommendationsvilja för samma period är -25.
+
 mellan -100 och 100.)
+
 Medarbetarengagemang (Ett
 frågeområde i kommunens            Marginell skillnad mellan kvartal 1 och 2. Behövs en
 pulsmätningsverktyg. 7,3   8       längre mätserie för att bättre tolka trenden.
@@ -1060,14 +1066,18 @@ skala.)
 Antalet har ökat jämfört med 2023 då 7
 Antal riskobservationer 8          riskobservationer rapporterades under perioden
 januari-juni.
+
 Ingen förändring sedan 2023 då 27 tillbud
 Antal tillbud     27               rapporterades under perioden januari-juni.
+
 Antalet har ökat jämfört med 2023 då 54 olycksfall
 Antal olycksfall  58               rapporterades under perioden januari-juni. Fokus på
 att vända trenden under hösten.
+
 Andel medarbetare som
 89 %     88 %
 arbetar heltid
+
 20
 
 <!-- sida 23 -->

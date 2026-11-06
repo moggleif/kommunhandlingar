@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1e6538661929de083d26f9c5/1729605178
 sha256: 487cb897711850c71a4b34f09020e695f050ada85601e5624f282aecb4ba6f46
 bytes: 10613489
 sidor: 153
-hamtad: 2026-10-23T07:41:37+00:00
-konverterad: 2026-10-23T07:42:08+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T09:23:44+00:00
+konverterad: 2026-11-06T09:24:15+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -441,26 +441,42 @@ Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 <!-- sida 14 -->
 
 Nämndens mål 2024
-Ökad undervisningskvalitet    Utbildningen ska stimulera till ökad
-Våra skolor ska arbeta systematiskt med trygghet, glädje och fysisk aktivitet
-utformning av lärmiljöer och struktur i Kungsbackas lärmiljöer ska präglas av
-lärandet, för att göra undervisningen trygghet, glädje och studiero. Fysisk
-tillgänglig för alla. Våra lärare ska bli bättre aktivitet och social interaktion mellan elever
-rustade i att möta elever med olika prioriteras. Mobiltelefoner, smartklockor
-förutsättningar och behov, till exempel de eller motsvarande enheter ska inte vara
-med neuropsykiatriska         tillåtna på våra skolor, varken på lektionstid
-funktionsnedsättningar (NPF). eller under rast.
 
-Fokusområde                   Fokusområde
-•  Tillgänglig lärmiljö för alla • Trygghet och studiero
-•  Kompetenshöjning hos pedagogisk • Fysisk aktivitet
-personal inom undervisning av • Social interaktion
+Ökad undervisningskvalitet
+Våra skolor ska arbeta systematiskt med
+utformning av lärmiljöer och struktur i
+lärandet, för att göra undervisningen
+tillgänglig för alla. Våra lärare ska bli bättre
+rustade i att möta elever med olika
+förutsättningar och behov, till exempel de
+med neuropsykiatriska
+funktionsnedsättningar (NPF).
+
+Fokusområde
+•  Tillgänglig lärmiljö för alla
+•  Kompetenshöjning hos pedagogisk
+personal inom undervisning av
 elever med NPF
 •  Stärka arbetet för särskilt begåvade
 elever i samarbete med
 gymnasieskolorna
 
 Nämndens direktiv 2024
+
+Utbildningen ska stimulera till ökad
+trygghet, glädje och fysisk aktivitet
+Kungsbackas lärmiljöer ska präglas av
+trygghet, glädje och studiero. Fysisk
+aktivitet och social interaktion mellan elever
+prioriteras. Mobiltelefoner, smartklockor
+eller motsvarande enheter ska inte vara
+tillåtna på våra skolor, varken på lektionstid
+eller under rast.
+
+Fokusområde
+•  Trygghet och studiero
+•  Fysisk aktivitet
+•  Social interaktion
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 

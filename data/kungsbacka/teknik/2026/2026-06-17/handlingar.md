@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.41e129a519eb4ab19c469d5/17812481384
 sha256: 7f2b52cea211568b2bee06d911ee29bfff380a7cc910f2935533635e18448bbb
 bytes: 26837941
 sidor: 124
-hamtad: 2026-10-23T09:58:47+00:00
-konverterad: 2026-10-23T09:59:23+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T11:46:43+00:00
+konverterad: 2026-11-06T11:47:19+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
@@ -2907,16 +2907,15 @@ Fotografi: Kungsbacka kommun, om inget annat anges
 
 Inledning
 
-Bakgrund                          Syfte                             Avgränsning
+Bakgrund
 
-Förvaltningen för Teknik förvaltar och sköter Åtgärdsplanen ska:    Åtgärdsplanen beskriver samtliga lekplatser som
-Kungsbackas allmänna lekplatser. Dessa är place- – säkerställa en genomtänkt utveckling förvaltas av förvaltningen för Teknik. Detta innebär
-rade inom Kungsbacka centralort.     och upprustning av lekplatserna. att lekplatser på förskolor och skolor inte ingår då de
-Lekplatserna är väl omhändertagna men dagens                        förvaltas av Serviceförvaltningen. De lekplatser som
-–  se över lekplatsernas geografiska placering och
-samhälle ställer allt högre krav på lekplatsens                     bedöms utvecklas inom den närmaste 5-årsperioden
-fördelning i staden samt lekplatstyp.
-utformning, tillgänglighet och funktion. De är olika                har sammanställts i en åtgärdslista.
+Förvaltningen för Teknik förvaltar och sköter
+Kungsbackas allmänna lekplatser. Dessa är place-
+rade inom Kungsbacka centralort.
+Lekplatserna är väl omhändertagna men dagens
+samhälle ställer allt högre krav på lekplatsens
+utformning, tillgänglighet och funktion. De är olika
+
 stora och fördelar sig på olika sätt som en följd av att
 bebyggelse varierar mellan flerbostadshus, villor och
 radhus och är från olika tidsepoker. Antalet ökar
@@ -2925,6 +2924,7 @@ bostadsområden byggs. För att få en genomtänkt
 och systematisk planering för de upprustnings- och
 ombyggnadsarbeten som Teknik utför varje år har
 denna åtgärdsplan tagits fram.
+
 Åtgärdsplanen utgår från dokumentet Målbild och
 riktlinjer för Lekplatser som antogs av nämnden för
 Teknik i december 2020. Åtgärder för fem år,
@@ -2932,33 +2932,83 @@ Teknik i december 2020. Åtgärder för fem år,
 
 upp och revideras vart 5:e år.
 
+4
+
+Syfte
+
+Åtgärdsplanen ska:
+– säkerställa en genomtänkt utveckling
+och upprustning av lekplatserna.
+– se över lekplatsernas geografiska placering och
+
+fördelning i staden samt lekplatstyp.
+
+Avgränsning
+
+Åtgärdsplanen beskriver samtliga lekplatser som
+förvaltas av förvaltningen för Teknik. Detta innebär
+att lekplatser på förskolor och skolor inte ingår då de
+förvaltas av Serviceförvaltningen. De lekplatser som
+bedöms utvecklas inom den närmaste 5-årsperioden
+har sammanställts i en åtgärdslista.
+
 Kungsbackaskogen
-4                                                                                                                                                                                                                       5
+5
 
 <!-- sida 82 -->
 
-Förvaltning                och       drift
+Förvaltning                 och      drift
 
-Lekplatsens livslängd             Upprustning och komplettering     Ombyggnad och nyanläggning                      Löpande drift                     Avveckling av lekplats
-Lekutrustning har en genomsnittlig livslängd på 15 Upprustning och komplettering av lekplatser är Ombyggnad och nyanläggning innebär att ett hel- Den större delen av driften för en lekplats består av En lekplats är en skötselintensiv anläggning. Vid
-år. I Kungsbacka kommun finns idag (2023) 36 st åtgärder, som utöver att förebygga risken för person- hetsgrepp tas för lekplatsen. Utformningen ses över tillsyn, städning och tömning av sopkärl. Andra utveckling av en lekplats från närområdes lekplats
-lekplatser som är på allmän plats. Det innebär att skador, berikar lekplatsen. Exempel på detta är att och platsen omgestaltas för att ge lekfunktioner en moment är harvning av sand- och grusytor, vår- till områdeslekplats kan det vara motiverat att
-ungefär två till tre lekplatser måste rustas upp per år tillföra fler lekfunktioner, utöka samvaroytor, bygga bra placering och eventuellt utökas i antal. Samva- och höststädning, gräsklippning, häckklippning och avveckla närliggande lekplatser som saknar stra-
-för att alla lekplatser ska hinna ses över inom en 15 väderskydd, utföra åtgärder för att gynna biologisk roytor, väderskydd, växtlighet och andra åtgärder ogräsrensning. tegiskt läge i bostadsområdet och inte har samma
-årsperiod.                        mångfald, tillgänglighetsanpassningar samt trygg- för biologisk mångfald, tillgänglighetsanpassningar               potential att utvecklas. Ytan görs då om till lämplig
+Lekplatsens livslängd
 
-hetsskapande åtgärder såsom bättre belysning. ur olika aspekter samt trygghetsskapande åtgärder En mindre del går också till enklare underhåll parkmiljö, ofta någon mötesfunktion med sittplat-
-såsom bättre belysning ses också över.          såsom målning, reparationer samt åtgärder av ser.
-Upprustning och komplettering av lekplatser plane-                                besiktningsanmärkningar. Detta är ett förebyg-
-ras och prioriteras gemensamt av drift och planering Planering Trafik och Utemiljö ansvarar för ny gande arbete för att minimera risken för personska- I åtgärdsplanen beskrivs vad som ska göras och när
-på Trafik och Utemiljö. Arbetena utförs vanligtvis i utformning av lekplats, ta fram behovsbeskrivning dor.         åtgärderna bör utföras.
-egen regi, som en löpande investering. I åtgärdspla- och söker investeringsmedel. Arbetet görs i samråd
-nen beskrivs i grova drag vad som ska göras och när med driftenheterna park och gata, som bevakar att En väl genomtänkt planering och väl vald utrust- Om det finns intresse bland boende kan det finnas
-åtgärderna bör utföras.           utformning görs på ett driftmässigt acceptabelt sätt. ning och växtmaterial ger goda förutsättningar att möjlighet att skriva ett nyttjanderättsavtal om de
-hålla driftkostnaderna nere.      bildar en förening. Föreningen åtar sig då skötse-
-Genomförande, det vill säga framtagning av bygg-                                  lansvaret. Kommunen är som fastighetsägare fort-
-handling och anläggning, beställs oftast hos Projekt Löpande drift ingår i ordinarie driftbudget och han- farande ansvarig för ytan och att den är i ett skick så
-och Bygg och sker i samråd med planering Trafik teras inte i åtgärdsplanen.       att det inte finns risk för skador.
+Lekutrustning har en genomsnittlig livslängd på 15
+år. I Kungsbacka kommun finns idag (2023) 36 st
+lekplatser som är på allmän plats. Det innebär att
+ungefär två till tre lekplatser måste rustas upp per år
+för att alla lekplatser ska hinna ses över inom en 15
+årsperiod.
+
+Upprustning och komplettering
+
+Upprustning och komplettering av lekplatser är
+åtgärder, som utöver att förebygga risken för person-
+skador, berikar lekplatsen. Exempel på detta är att
+tillföra fler lekfunktioner, utöka samvaroytor, bygga
+väderskydd, utföra åtgärder för att gynna biologisk
+mångfald, tillgänglighetsanpassningar samt trygg-
+hetsskapande åtgärder såsom bättre belysning.
+
+Upprustning och komplettering av lekplatser plane-
+ras och prioriteras gemensamt av drift och planering
+på Trafik och Utemiljö. Arbetena utförs vanligtvis i
+egen regi, som en löpande investering. I åtgärdspla-
+nen beskrivs i grova drag vad som ska göras och när
+
+åtgärderna bör utföras.
+
+6
+
+Ombyggnad och nyanläggning
+
+Ombyggnad och nyanläggning innebär att ett hel-
+hetsgrepp tas för lekplatsen. Utformningen ses över
+och platsen omgestaltas för att ge lekfunktioner en
+bra placering och eventuellt utökas i antal. Samva-
+roytor, väderskydd, växtlighet och andra åtgärder
+för biologisk mångfald, tillgänglighetsanpassningar
+ur olika aspekter samt trygghetsskapande åtgärder
+såsom bättre belysning ses också över.
+
+Planering Trafik och Utemiljö ansvarar för ny
+utformning av lekplats, ta fram behovsbeskrivning
+och söker investeringsmedel. Arbetet görs i samråd
+med driftenheterna park och gata, som bevakar att
+
+utformning görs på ett driftmässigt acceptabelt sätt.
+
+Genomförande, det vill säga framtagning av bygg-
+handling och anläggning, beställs oftast hos Projekt
+och Bygg och sker i samråd med planering Trafik
 och Utemiljö och driftenheterna.
 
 När ombyggnaden eller nyanläggning är klar och
@@ -2966,35 +3016,114 @@ inlagd i driftplanen sker ett överlämnande till
 driftenheterna. I åtgärdsplanen beskrivs i grova drag
 vad som ska göras och när åtgärderna bör utföras.
 
-6                                                                                                                                                                                                                       7
+Löpande drift
+
+Den större delen av driften för en lekplats består av
+tillsyn, städning och tömning av sopkärl. Andra
+moment är harvning av sand- och grusytor, vår-
+och höststädning, gräsklippning, häckklippning och
+ogräsrensning.
+
+En mindre del går också till enklare underhåll
+såsom målning, reparationer samt åtgärder av
+besiktningsanmärkningar. Detta är ett förebyg-
+gande arbete för att minimera risken för personska-
+dor.
+
+En väl genomtänkt planering och väl vald utrust-
+
+ning och växtmaterial ger goda förutsättningar att
+hålla driftkostnaderna nere.
+
+Löpande drift ingår i ordinarie driftbudget och han-
+teras inte i åtgärdsplanen.
+
+Avveckling av lekplats
+
+En lekplats är en skötselintensiv anläggning. Vid
+utveckling av en lekplats från närområdes lekplats
+till områdeslekplats kan det vara motiverat att
+avveckla närliggande lekplatser som saknar stra-
+tegiskt läge i bostadsområdet och inte har samma
+potential att utvecklas. Ytan görs då om till lämplig
+parkmiljö, ofta någon mötesfunktion med sittplat-
+ser.
+
+I åtgärdsplanen beskrivs vad som ska göras och när
+åtgärderna bör utföras.
+
+Om det finns intresse bland boende kan det finnas
+
+möjlighet att skriva ett nyttjanderättsavtal om de
+bildar en förening. Föreningen åtar sig då skötse-
+lansvaret. Kommunen är som fastighetsägare fort-
+farande ansvarig för ytan och att den är i ett skick så
+att det inte finns risk för skador.
+
+7
 
 <!-- sida 83 -->
 
-Utveckling                av    Lekplatser
+Utveckling                av     Lekplatser
 
 Lekplatsstyp och upptagningsområde
-Stadslekplatsen ska fungera som ett besöksmål. Den Närlekplatsen är främst till för mindre barns lek
-Fördelningen av allmänna lekplatser över staden ska ha ett innehåll och omgivning som attraherar och ska tas om hand i respektive bostadsområde till
-varierar. I vissa områden ligger de tätt placerade barn i alla åldrar och från hela staden och har därför exempel på gårdarna, främst på mark som är plan-
-medan det i andra områden finns få. Att det under ett stort upptagningsområde. lagd som kvartersmark, och är inte prioriterad på
-olika tidsperioder har funnits olika ideal inom                     kommunal mark. Om det är brist på områdeslek-
-stadsplanering och att tillgången på offentliga ytor Områdeslekplatsen ska fungera som en mötesplats plats kan närlekplatsen i vissa fall få fungera som
-varierar är exempel på varför det ser olika ut i olika för området och målsättningen är att barn ska nå en ersättning. Den kan också ha ett värde som ett
-områden. En del av arbetet med Åtgärdsplanen är den inom 300 m från bostad utan att behöva korsa inslag i parkmiljö.
-att se över fördelningen av lekplatser och lekplatsty- större barriärer som till exempel en större trafikerad
-per över staden.                  väg, järnväg eller vattendrag.    Läs mer i Målbild och riktlinjer för lekplatser för krite-
-rierna av de olika lekplatstyperna.
-Majoriteten av barnen i Kungsbacka stad har god En områdeslekplats är mer ytkrävande än en
-tillgång till lekplatser. I dag finns det 36 kommu- närlekplats och har ett större upptagningsområde.
-nala lekplatser på allmän platsmark i Kungsbacka Här ska det finnas en variation i lekutrustning för
-stad. Dessa är indelade i tre lekplatstyper - stads- att passa barn i olika åldrar och med olika behov.
-lekplatser (3 st), områdeslekplatser (8 st) och närlek- Det ska finnas sittmöjligheter och vegetation som
-platser (25 st).                  inbjuder till vistelse. Den ska gärna ha en placering
+
+Fördelningen av allmänna lekplatser över staden
+varierar. I vissa områden ligger de tätt placerade
+medan det i andra områden finns få. Att det under
+olika tidsperioder har funnits olika ideal inom
+stadsplanering och att tillgången på offentliga ytor
+varierar är exempel på varför det ser olika ut i olika
+områden. En del av arbetet med Åtgärdsplanen är
+att se över fördelningen av lekplatser och lekplatsty-
+per över staden.
+
+Majoriteten av barnen i Kungsbacka stad har god
+tillgång till lekplatser. I dag finns det 36 kommu-
+nala lekplatser på allmän platsmark i Kungsbacka
+
+stad. Dessa är indelade i tre lekplatstyper - stads-
+lekplatser (3 st), områdeslekplatser (8 st) och närlek-
+platser (25 st).
+
+Stadslekplatsen ska fungera som ett besöksmål. Den
+ska ha ett innehåll och omgivning som attraherar
+barn i alla åldrar och från hela staden och har därför
+ett stort upptagningsområde.
+
+Områdeslekplatsen ska fungera som en mötesplats
+för området och målsättningen är att barn ska nå
+
+den inom 300 m från bostad utan att behöva korsa
+större barriärer som till exempel en större trafikerad
+väg, järnväg eller vattendrag.
+
+En områdeslekplats är mer ytkrävande än en
+närlekplats och har ett större upptagningsområde.
+Här ska det finnas en variation i lekutrustning för
+att passa barn i olika åldrar och med olika behov.
+Det ska finnas sittmöjligheter och vegetation som
+inbjuder till vistelse. Den ska gärna ha en placering
 nära naturmark och ha intilliggande gräsytor för att
 möjliggöra till fler funktioner.
 
+8
+
+Närlekplatsen är främst till för mindre barns lek
+och ska tas om hand i respektive bostadsområde till
+exempel på gårdarna, främst på mark som är plan-
+lagd som kvartersmark, och är inte prioriterad på
+kommunal mark. Om det är brist på områdeslek-
+plats kan närlekplatsen i vissa fall få fungera som
+en ersättning. Den kan också ha ett värde som ett
+
+inslag i parkmiljö.
+
+Läs mer i Målbild och riktlinjer för lekplatser för krite-
+rierna av de olika lekplatstyperna.
+
 Idrottslekparken
-8                                                                                                                                                                                                                       9
+9
 
 <!-- sida 84 -->
 
@@ -3002,6 +3131,19 @@ Björkris
 
 Hede
 Varla industriområde
+Göteborgvägen
+Utveckling
+
+Utifrån dokumentet Målbild och riktlinjer för
+lekplatser har en mall för inventering av lekplatser
+tagits fram som underlag för att få en systematisk
+genomgång av alla lekplatser på allmän plats.
+
+Alla lekplatser har inventerats under 2021-2022 och
+en geografisk översyn av lekplatsernas placering och
+
+inbördes förhållande för att få bra spridning har
+genomförts.
 
 Varla
 
@@ -3012,33 +3154,31 @@ Fors
 Västra villastaden
 Kungsbackaskogen
 Hålabäck
+järnnväg
+Då närlekplatser främst ska finnas i bostadsområ- Det finns tre stadsdelslekplatser, Kungsbackasko-
+dena på kvartersmark är dessa för många till antalet gen, Borgmästargatan och Idrottslekparken vid
+på allmän plats mark i förhållande till antalet områ- simhallen. I Kungsbackas norra delar saknas stads-                                      Tölö
+deslekplatser. Under arbetet med åtgärdsplanen har delslekplats men i Björkris finns en områdeslekplats
+de närlekplatser som har en potential att utvecklas som föreslås utvecklas till stadsdelslekplats.
+till områdeslekplats setts ut liksom de närlekplatser
+som föreslås avvecklas.           Kartan till höger visar planerad utveckling av all-
+männa lekplatser i Kungsbacka stad. Avståndet visas
+I andra fall behövs en mindre upprustning av schematiskt utan hänsyn till exempel barriärer.
+lekplatsen för att bättre motsvara den standard som                                                                 Tingberget       Östra villastaden                     Närlekplats
+eftersträvas för närlekplatser respektive områdeslek-                                                                       Centrum
+platser.
+Aranässtadsdel Inlag                           Områdeslekplats
+
+Kolla
 
 Hammerö
-
 Kollaparkstad     VästraHammerö
+Stadslekplats
 
 10                                                                                                                                                                                                                     11
 
 Skala: 1:25 000 (vid A3 liggande)
 1 000 m
-Göteborgvägen
-järnnväg
-Utveckling
-Utifrån dokumentet Målbild och riktlinjer för Då närlekplatser främst ska finnas i bostadsområ- Det finns tre stadsdelslekplatser, Kungsbackasko-
-lekplatser har en mall för inventering av lekplatser dena på kvartersmark är dessa för många till antalet gen, Borgmästargatan och Idrottslekparken vid
-tagits fram som underlag för att få en systematisk på allmän plats mark i förhållande till antalet områ- simhallen. I Kungsbackas norra delar saknas stads-                     Tölö
-genomgång av alla lekplatser på allmän plats. deslekplatser. Under arbetet med åtgärdsplanen har delslekplats men i Björkris finns en områdeslekplats
-de närlekplatser som har en potential att utvecklas som föreslås utvecklas till stadsdelslekplats.
-Alla lekplatser har inventerats under 2021-2022 och till områdeslekplats setts ut liksom de närlekplatser
-en geografisk översyn av lekplatsernas placering och som föreslås avvecklas. Kartan till höger visar planerad utveckling av all-
-inbördes förhållande för att få bra spridning har                   männa lekplatser i Kungsbacka stad. Avståndet visas
-genomförts.                       I andra fall behövs en mindre upprustning av schematiskt utan hänsyn till exempel barriärer.
-lekplatsen för att bättre motsvara den standard som                                                                 Tingberget       Östra villastaden                     Närlekplats
-eftersträvas för närlekplatser respektive områdeslek-                                                                       Centrum
-platser.
-Aranässtadsdel Inlag                           Områdeslekplats
-Kolla
-Stadslekplats
 
 <!-- sida 85 -->
 
@@ -3079,35 +3219,50 @@ Lars Runebergsgatan      Kaktusvägen                                    Område
 Luktärtsvägen            Kaprifolvägen
 Lekplats som avvecklas
 Gullregnsvägen
+
 Kaprifolvägen
 
-I den södra delen av Hammerö ligger del av bebyg- Lekplatsen i sydvästra Hammerö, Lars Runebergs-
-gelse naturnära. De norra delarna har en trafikfri gatan föreslås inom en 10-års period att utvecklas
-bebyggelsestruktur med likartade grönytor inom till områdeslekplats.
-
+I den södra delen av Hammerö ligger del av bebyg-
+gelse naturnära. De norra delarna har en trafikfri
+bebyggelsestruktur med likartade grönytor inom
 Luktärtsvägen                                   området med stora skogspartier runt om. Den syd-
-Lars Runebergsgatan                                                   västra delen av Hammerö är dåligt sammankopplad Lukärtsvägen är nyligen renoverad med till-
-med övriga Hammerö då Varbergsvägen utgör en gängligt markmaterial, men saknar rumslighet.
-barriär mellan de två delarna.    Placering vid tallskog medför att platsen upplevs
-grönskande. Platsen borde på sikt kompletteras
-I området finns idag 6 st lekplatser varav en är med trevligare utformad vistelseyta, men är nu i
-Luktärtsvägen
-upprustad 2021 till en områdeslekplats, Gullregns- relativt gott skick.
+Lars Runebergsgatan                                                   västra delen av Hammerö är dåligt sammankopplad
+med övriga Hammerö då Varbergsvägen utgör en
+
+barriär mellan de två delarna.
+
+I området finns idag 6 st lekplatser varav en är
+upprustad 2021 till en områdeslekplats, Gullregns-
 vägens lekplats. Lekplatserna ligger också tätt, därav
 föreslås följande lekplatser avvecklas Kaktusvägen
 och Kaprifolvägen.
+
 Lövkojevägens lekplats är i gott skick, men dess pla-
 cering i nära anslutning till Gullregnvägens lekplats
-
 medför att den på sikt föreslås att avvecklas.
-
-Gullregnsvägen
-Lars Runebergsgatan                          Kaktusvägen
 
 Skala: 1:10 000 (vid A4 liggande)
 500 m
 
-14                                                                                                                                                                                                                     15
+14
+
+Lekplatsen i sydvästra Hammerö, Lars Runebergs-
+gatan föreslås inom en 10-års period att utvecklas
+till områdeslekplats.
+
+Lukärtsvägen är nyligen renoverad med till-
+gängligt markmaterial, men saknar rumslighet.
+Placering vid tallskog medför att platsen upplevs
+
+grönskande. Platsen borde på sikt kompletteras
+med trevligare utformad vistelseyta, men är nu i
+Luktärtsvägen
+relativt gott skick.
+
+Gullregnsvägen
+Lars Runebergsgatan                         Kaktusvägen
+
+15
 
 <!-- sida 87 -->
 
@@ -3182,49 +3337,71 @@ Skala: 1:10 000 (vid A4 liggande)
 
 <!-- sida 89 -->
 
-Centrum    och   Signeskulle
+Centrum     och  Signeskulle
 
 Bergsgatan
-Borgmästareplatsen       Bergsgatan              Valand                 Närlekplats
+
+Borgmästareplatsen       Bergsgatan               Valand                Närlekplats
 Idrottslekplatsen
 Områdeslekplats
 Arnanäsallé              Vallgatan/Badhusparken
-
 Tillkommande områdeslekplats
 Borgmästareplatsen
 i exploateringsprojekt
 Valand
 Fyren
 Stadslekplats
+
 Vallgatan
 
-Lekplatserna i centrum har ett högre besökstryck Valand får en ny områdeslekplats i och med exploa-
-än andra de i andra delar av staden, dels av boende tering.
+Lekplatserna i centrum har ett högre besökstryck
+än andra de i andra delar av staden, dels av boende
 på grund av tätare beyggelsestruktur och dels av
-besökare till centrum.            I Vallgatan/Badhusparken finns endast en klät-
-terkub. Lekfunktionen behöver utvecklas och om
-Aranäsallé                                                           Vid Borgmästarplatsen byggdes 2019 en ny stadslek- parkens yta på sikt utökas bör den vara en områ-
-plats med temat fågel, fisk eller mittimellan. deslekplats.
-Aranäsallé
-Borgmästareplatsen
-Vid Kulturhuset Fyren finns en närlekplats. Lekut- Områdeslekplatsen Aranäsallé är behov av upp-
-rustning är endel av ett konstverk som förvaltas av rustning av gummiasfalt. Lekplatsen bör omges av
-Kultur och fritid och som också ansvarar för eventu- mer friyta och kopplas samman med Teaterparkens
-ell upprustning.                  gröna oas.
+besökare till centrum.
 
-Bergsgatans närlekplats ligger intill ett kuperat och Idrottslekplatsen färdigställdes 2021 och är en popu-
-lekvänligt skogsområde. Utrymmet mellan vägen lär stadslekplats och attraherar båda stora som små.
+Aranäsallé                                                           Vid Borgmästarplatsen byggdes 2019 en ny stadslek-
+plats med temat fågel, fisk eller mittimellan.
+
+Vid Kulturhuset Fyren finns en närlekplats. Lekut-
+rustning är endel av ett konstverk som förvaltas av
+Kultur och fritid och som också ansvarar för eventu-
+ell upprustning.
+
+Bergsgatans närlekplats ligger intill ett kuperat och
+lekvänligt skogsområde. Utrymmet mellan vägen
 och berget är smalt. Lekplatsen behöver på sikt
 Idrottslekplatsen                                                       upprustas.
-Idrottslekplatsen
-Bergsgatan
+
 Skala: 1:10 000 (vid A4 liggande)
 500 m
-20                                                                                                                                                                                                                     21
+
+20
+
+Valand får en ny områdeslekplats i och med exploa-
+tering.
+
+I Vallgatan/Badhusparken finns endast en klät-
+terkub. Lekfunktionen behöver utvecklas och om
+parkens yta på sikt utökas bör den vara en områ-
+deslekplats.
+Aranäsallé
+Borgmästareplatsen
+Områdeslekplatsen Aranäsallé är behov av upp-
+rustning av gummiasfalt. Lekplatsen bör omges av
+mer friyta och kopplas samman med Teaterparkens
+gröna oas.
+
+Idrottslekplatsen färdigställdes 2021 och är en popu-
+lär stadslekplats och attraherar båda stora som små.
+
+Idrottslekplatsen
+Bergsgatan
+
+21
 
 <!-- sida 90 -->
 
-Västra   Villastaden,    Tingberget    och  Kungsbackaskogen
+Västra   Villastaden,   Tingberget    och   Kungsbackaskogen
 
 Kungsbackaskogen        Guldgubbegatan                              Stadslekplats
 
@@ -3236,17 +3413,17 @@ Lundgrens gata
 Lekplats som avvecklas
 Tingbergsvägen
 
-Bissmarksgatan                            Västra Villastaden har en trafikerad bebyggelse- och nära till skogsområde.
-
+Bissmarksgatan                            Västra Villastaden har en trafikerad bebyggelse-
 struktur med genomfartsgator.
-Mellan villakvarteren återfinns små grönområden Närlekplatsen, Tingbergsvägen upplevs privat då den
-Kungsbackaskogen                                                        och Kungsbackaåns parkrum är i nära anslutning. är placerad i anslutning till en bostadsgård.
-Lekplatsen förelås att ombildas till bostadsgård.
+Mellan villakvarteren återfinns små grönområden
+Kungsbackaskogen                                                        och Kungsbackaåns parkrum är i nära anslutning.
+
 Bissmarksgatan upprustades till områdeslekplats
-2018\. Lekplatsen behöver kompletteras med växtlig- Lundgrens gata, närlekplats avvecklas i samband
-het för ökad biologisk mångfald och rumslighet. med ombildning av lekplatsen på Guldgubbegatan.
-Guldgubbegatan
-Kungsbackaskogen, är stadslekplats. Placeringen                                        Kungsbackaskogen
+2018\. Lekplatsen behöver kompletteras med växtlig-
+
+het för ökad biologisk mångfald och rumslighet.
+
+Kungsbackaskogen, är stadslekplats. Placeringen
 mitt i Kungsbackaskogen och dess utformning
 och innehåll gör att den är ett populärt besöksmål.
 Lekplatsen saknar permanent toalett, men det finns
@@ -3255,10 +3432,25 @@ en portabel toalett.
 Tingberget har en trafikfri bebyggelsestruktur
 med radhus i norr och flerbostadshus i södra delen
 av området. Guldgubbegatan, är en närlekplats som
-föreslås att utvecklas till områdeslekplats. Den har Lundgrens gata
-Guldgubbegatan
+föreslås att utvecklas till områdeslekplats. Den har
 en placering i området med omgivande gröntytor
+
+och nära till skogsområde.
+
+Närlekplatsen, Tingbergsvägen upplevs privat då den
+är placerad i anslutning till en bostadsgård.
+Lekplatsen förelås att ombildas till bostadsgård.
+
+Lundgrens gata, närlekplats avvecklas i samband
+
+med ombildning av lekplatsen på Guldgubbegatan.
+Guldgubbegatan
+Kungsbackaskogen
+
+Lundgrens gata
+Guldgubbegatan
 Bissmarksgatan
+
 22                                                                                                                                                                                                                     23
 Skala: 1:10 000 (vid A4 liggande)
 500 m
@@ -3456,39 +3648,69 @@ Skala: 1:10 000 (vid A4 liggande)
 
 <!-- sida 96 -->
 
-Bilaga          Inventering                                                                                         Utrustning
-Väderskydd
-Bedömningen är gjord efter ett förväntat basutbud för en lekplats som till exem- Regnskydd, vindskydd och solskydd är en förutsättning för att använda lekplat-
-pel sittplats, belysning och lekredskap. Utrustningens skick har inte bedömts. sen över hela året. Väderskydd bidrar också till att lekplatsen blir en mötesplats.
-Parameter
-Med mobilt väderskydd avses ett enkelt skydd som kan placeras över ett bänk-
+Bilaga          Inventering
+
 Metod
-Skylt                                              bord. För att ett träd ska räknas som väderskydd så ska det finnas en trädkrona
-Storlek
-Skylt med kontaktuppgifter till kommunen och lekplatsnummer. som skyddar.
-Under 2021 inventerades alla 36 allmänna lekplatser i Kungsbacka kommun Storleken på ytan för lekplatsen påverkar platsens utbud och förutsättningar. På
-med utgångspunkt från platsbesök där utformningen bedömdes utifrån ett barn- en större yta är det lättare att tillgodose olika målgrupper. Bedömingen utgår
-perspektiv avseende trygghet, tillgänglighet, biologisk mångfald, giftfri miljö från lekplatsens typ, en områdeslekplats och närlekplats kan få samma poäng.
+
+Under 2021 inventerades alla 36 allmänna lekplatser i Kungsbacka kommun
+med utgångspunkt från platsbesök där utformningen bedömdes utifrån ett barn-
+perspektiv avseende trygghet, tillgänglighet, biologisk mångfald, giftfri miljö
 samt lekvärde. Ett poängsystem har använts för att prioritera åtgärderna mellan
 varandra.
+
 Parametrar som använts vid bedömning är framtagna utifrån dokumentet
 Målbild och riktlinjer för lekplatser. Varje parameter har betygsatts i en skala
 0-3, där 0 anses bäst och 3 sämst. 19 antal parametrar har använts vid bedöm-
-ningen, säkerhetsbesiktningar har ej använts i denna bedömning                                                      Sittplatser och bord
-Sittplats är viktigt ur ett tillgänglighetsperspektiv. En sittplats ökar också Papperskorg
-användningsmöjligheten av platsen bland annat som mötesplats. Finns det bord Papperskorg som är förankrad med fundament bedöms som mer värdefull än en
+
+ningen, säkerhetsbesiktningar har ej använts i denna bedömning
+
+34
+
+Parameter
+
+Storlek
+
+Storleken på ytan för lekplatsen påverkar platsens utbud och förutsättningar. På
+en större yta är det lättare att tillgodose olika målgrupper. Bedömingen utgår
+från lekplatsens typ, en områdeslekplats och närlekplats kan få samma poäng.
+
 Omgivning
-förstärks detta ytterligare.                       som saknar fast fundament och därmed allt för lätt kan förflyttas.
+
 En bra placering i förhållande till naturförutsättningarna, grönområden, par-
 kytor, lokala målpunkterna med mera är viktigt för upplevelsen och möjligheten
 till lek.
+
 Exempel på Mycket bra - Lekplatsen ligger i en skyddande park med bra natur-
 liga förutsättningar för att skapa en variationsrik miljö. Gärna angränsande
 naturmark och ytor för fri lek
 Mycket dålig - Placerad tätt intill byggnader och saknar vidder. Nära byggnation,
 gata eller annat som hindrar lekmöjligheterna och begränsar upplevelsen.
 
-34                                                                                                                                                                                                                     35
+Utrustning
+
+Bedömningen är gjord efter ett förväntat basutbud för en lekplats som till exem-
+pel sittplats, belysning och lekredskap. Utrustningens skick har inte bedömts.
+
+Skylt
+Skylt med kontaktuppgifter till kommunen och lekplatsnummer.
+
+Sittplatser och bord
+Sittplats är viktigt ur ett tillgänglighetsperspektiv. En sittplats ökar också
+användningsmöjligheten av platsen bland annat som mötesplats. Finns det bord
+förstärks detta ytterligare.
+
+Väderskydd
+Regnskydd, vindskydd och solskydd är en förutsättning för att använda lekplat-
+sen över hela året. Väderskydd bidrar också till att lekplatsen blir en mötesplats.
+Med mobilt väderskydd avses ett enkelt skydd som kan placeras över ett bänk-
+bord. För att ett träd ska räknas som väderskydd så ska det finnas en trädkrona
+som skyddar.
+
+Papperskorg
+Papperskorg som är förankrad med fundament bedöms som mer värdefull än en
+som saknar fast fundament och därmed allt för lätt kan förflyttas.
+
+35
 
 [Tabell 96-1](handlingar.tabeller/96-1.csv)
 
@@ -3529,32 +3751,50 @@ gata eller annat som hindrar lekmöjligheterna och begränsar upplevelsen.
 
 <!-- sida 97 -->
 
-Lokalklimat
-Belysning                                          Markmaterial                                                     Lekvärden
-Belysning är viktigt ur flera aspekter, så som upplevelse av trygghet, säkerhet För att skapa upplevelse och dynamik på platsen krävs en variation och kontrast Finns något av följande lekvärde; Solchanser, vandrande skugga, nederbördsskydd, läplatser och vindskydd är en
-och tillgänglighet.                                av olika markmaterial. Löst markmaterial, såsom sand eller barkflis tillsam- Gunga, åka rutchkana, klättra, gräva i sand, leka i naturen, spela fotboll , viktig förutsättning för att skapa god tillgänglighet till lekplatsen i alla väder
-mans med gummiasfalt ger en mycket bra variation. Övriga ytors markmaterial snurra, volta, leka med vatten, gå balans, vipp, rolllekar, friyta för lek. och temperaturer. Lekplatsens lokalklimat bedöms här. Finns det buskage som
-bedöms också utefter estetik.Exempel på bedömningskriterier;                                                        stoppar vinden, finns större träd som att ta skydd för regn och sol.
-
-Fallunderlag                                                                                                        Exempel på bedömningskriterier;
-Mycket dålig - Ogestaltad endast ett markmaterial.                                                                  Mycket dålig - Inget skydd.
-Mycket bra - 3 stycken olika markmaterial och väl gestaltad yta.                                                    Mycket bra - Går att välja om man vill lek/sitta i sol eller skugga.
-
-Övriga ytor
-Mycket dålig - Endast asfalt med sittplacerad placerad utan sammanhang.
-Mycket bra - Tilltalande och inbjudande viloplats. Trevlig plantering i anslut-
-ning.
+Belysning
+Belysning är viktigt ur flera aspekter, så som upplevelse av trygghet, säkerhet
+och tillgänglighet.
 
 Lekredskap
 Bedömningen är gjord om det finns något tillgänglighetsanpassat lekredskap
 samt om placering av redskapen är gjord utefter åldersuppdelning.
 
 Exempel på bedömningskriterier;
+
 Mycket dålig- Alla lekredskap är placerat blandat.
 Mycket bra - Lekredskapen har en genomtänkt placering utifrån platsens förut-
 sättningar och tänkt användning. Tillgängligt redskap finns.
 
-36                                                                                                                                                                                                                     37
+36
+
+Markmaterial
+För att skapa upplevelse och dynamik på platsen krävs en variation och kontrast
+av olika markmaterial. Löst markmaterial, såsom sand eller barkflis tillsam-
+mans med gummiasfalt ger en mycket bra variation. Övriga ytors markmaterial
+bedöms också utefter estetik.Exempel på bedömningskriterier;
+
+Fallunderlag
+
+Mycket dålig - Ogestaltad endast ett markmaterial.
+Mycket bra - 3 stycken olika markmaterial och väl gestaltad yta.
+
+Övriga ytor
+Mycket dålig - Endast asfalt med sittplacerad placerad utan sammanhang.
+Mycket bra - Tilltalande och inbjudande viloplats. Trevlig plantering i anslut-
+ning.
+
+Lokalklimat
+Lekvärden
+Finns något av följande lekvärde;                  Solchanser, vandrande skugga, nederbördsskydd, läplatser och vindskydd är en
+Gunga, åka rutchkana, klättra, gräva i sand, leka i naturen, spela fotboll , viktig förutsättning för att skapa god tillgänglighet till lekplatsen i alla väder
+snurra, volta, leka med vatten, gå balans, vipp, rolllekar, friyta för lek. och temperaturer. Lekplatsens lokalklimat bedöms här. Finns det buskage som
+stoppar vinden, finns större träd som att ta skydd för regn och sol.
+
+Exempel på bedömningskriterier;
+Mycket dålig - Inget skydd.
+Mycket bra - Går att välja om man vill lek/sitta i sol eller skugga.
+
+37
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
@@ -3593,33 +3833,70 @@ sättningar och tänkt användning. Tillgängligt redskap finns.
 
 <!-- sida 98 -->
 
-Målgruppsanpassning                                                                                                 Rumslighet
-Vegetation
-För att skapa gröna mötesplatser för alla målgrupper gäller det att det finns                                       En variation i rumslighet samt en hög kvalitet på dessa rum skapar många akti- Variation av vegetationstyper, arter och sammansättning för att ge varierad
-anpassningar för detta.                                                                                             vitetsmöjligheter och gör platsen mer attraktiv.   gestaltning och karaktär på ytan. Årstidsvariationer och sinnliga kvaliteter är
-essentiellt i leklandskapet. Tillgång till löst material så som kottar, blommor,
-Exempel på bedömningskriterier;                                                                                                                                        hängen bedöms här.
-Småbarn och Skolbarn                                                                                                Exempel på bedömningskriterier;
-Mycket liten - Saknas lekfunktioner för antingen småbarn eller skolbarn.                                                                                               Exempel på bedömningskriterier;
-Mycket bra - Olika typer av ordnad lekfunktioner men också naturliga lekfunk-                                       Olika zoner, väggar                                Mycket liten - Endast gräs, ingen annan vegetation.
-tioner (stenar, stockar, lekbuskage).                                                                               Mycket liten - Ingen rumslighet.                   Mycket bra - Gräs, träd och buskar.
-Småbarn - t ex ska det finnas baksand, minirutch, lekhus, gungdjur.                                                 Mycket bra - Bra om den inte är helt överblickbar och indelad i olika rum.
-Skolbarn - t ex ska det finnas klätterställning, gunga, balansfunktion.                                             Bramed avskärmande väggar av växter, plank, pergola.
+Målgruppsanpassning
 
-Tonåring.                                                                                                           Topografi
-Mycket liten - Finns inget för målgrupp.                                                                            Mycket liten - Inga höjdskillnader.
-Mycket bra - Ska finnas mycket t ex hängyta, gräsyta, lekredskap, större                                            Mycket bra - Möjlighet att springa på kullar, fin utsikt. Topografin ger gott mik-
+För att skapa gröna mötesplatser för alla målgrupper gäller det att det finns
+anpassningar för detta.
 
-klätterställning, möjlighet till aktivitet som t.ex. fotboll. Räcker inte bara med                                  roklimat.
-gunga som lekredskap. Kompisgunga kan räknas som hängyta.Vuxna, senior                                                                                                 Biologisk mångfald
-och andra                                                                                                                                                              Variation av arter med fokus på biologisk mångfald som t ex inhemska arter och-
-Mycket liten - Finns inget för målgrupp.                                                                                                                               variation i art- och sortval.
+Exempel på bedömningskriterier;
+Småbarn och Skolbarn
+Mycket liten - Saknas lekfunktioner för antingen småbarn eller skolbarn.
+Mycket bra - Olika typer av ordnad lekfunktioner men också naturliga lekfunk-
+tioner (stenar, stockar, lekbuskage).
+Småbarn - t ex ska det finnas baksand, minirutch, lekhus, gungdjur.
+Skolbarn - t ex ska det finnas klätterställning, gunga, balansfunktion.
+
+Tonåring.
+Mycket liten - Finns inget för målgrupp.
+
+Mycket bra - Ska finnas mycket t ex hängyta, gräsyta, lekredskap, större
+klätterställning, möjlighet till aktivitet som t.ex. fotboll. Räcker inte bara med
+gunga som lekredskap. Kompisgunga kan räknas som hängyta.Vuxna, senior
+och andra
+Mycket liten - Finns inget för målgrupp.
 Mycket bra - Inbjudande utformning, gestaltade planteringsytor, sittgrupp och
-aktivitet (typ bouleplan).                                                                                                                                             Exempel på bedömningskriterier;
+aktivitet (typ bouleplan).
+
+38
+
+Rumslighet
+
+En variation i rumslighet samt en hög kvalitet på dessa rum skapar många akti-
+vitetsmöjligheter och gör platsen mer attraktiv.
+
+Exempel på bedömningskriterier;
+
+Olika zoner, väggar
+Mycket liten - Ingen rumslighet.
+Mycket bra - Bra om den inte är helt överblickbar och indelad i olika rum.
+Bramed avskärmande väggar av växter, plank, pergola.
+
+Topografi
+Mycket liten - Inga höjdskillnader.
+
+Mycket bra - Möjlighet att springa på kullar, fin utsikt. Topografin ger gott mik-
+roklimat.
+
+Vegetation
+Variation av vegetationstyper, arter och sammansättning för att ge varierad
+gestaltning och karaktär på ytan. Årstidsvariationer och sinnliga kvaliteter är
+essentiellt i leklandskapet. Tillgång till löst material så som kottar, blommor,
+hängen bedöms här.
+
+Exempel på bedömningskriterier;
+
+Mycket liten - Endast gräs, ingen annan vegetation.
+Mycket bra - Gräs, träd och buskar.
+
+Biologisk mångfald
+Variation av arter med fokus på biologisk mångfald som t ex inhemska arter och-
+variation i art- och sortval.
+
+Exempel på bedömningskriterier;
 Mycket liten - Endast gräs.
 Mycket bra - Gräs, träd, blommande buskar och perenner.
 
-38                                                                                                                                                                                                                     39
+39
 
 [Tabell 98-1](handlingar.tabeller/98-1.csv)
 
@@ -3650,12 +3927,12 @@ Mycket bra - Gräs, träd, blommande buskar och perenner.
 
 <!-- sida 99 -->
 
-Tillgänglighet                                     Trygghet                                                         Miljöinventering, Giftfri lekplats
-Anslutande väg fram till lekplatsen, fallyta under redskap samt vistelseytan, Närmiljö, fysisk planering, insyn är faktorer som påverkar den upplevda Platser för barn och unga utomhus har ofta material och produkter som inte är
+Tillgänglighet
 
-lutning, typ av terräng och utformning beaktas vid värdering. tryggheten.                                           tillverkade för att vara lekmaterial från början. Detta kan till exempel vara gum-
-midäck, slipers eller tryckimpregnerat trä. Konstgräs och äldre fallskyddsmattor
-Exempel på bedömningskriterier;                                                                                     ka också innehålla miljögifter.
+Anslutande väg fram till lekplatsen, fallyta under redskap samt vistelseytan,
+lutning, typ av terräng och utformning beaktas vid värdering.
+
+Exempel på bedömningskriterier;
 Fallyta
 Mycket otillgänglig- Endast sand.
 Mycket tillgänglig- Gummiasfalt/konstgräs.
@@ -3665,13 +3942,26 @@ Mycket otillgänglig - Höga sarger och brant lutning till lekplats
 Mycket tillgänglig - Ingen lutning, sarger med öppning till alla redskap. Gång-
 vägar och lösningar är väl integrerade i gestaltning. God orienterbarhet.
 
-Räddningstjänst
 Vistelseyta, lutning, terräng
-Mycket otillgänglig - Brant lutning inom området, ojämn markbeläggning, place- Vägbredd och fysisk planering är faktorer som påverkar åtkomsten för rädd-
-ring av möbler är ej tillgänglighetsanpassad.      ningstjänsten.
+Mycket otillgänglig - Brant lutning inom området, ojämn markbeläggning, place-
+ring av möbler är ej tillgänglighetsanpassad.
 Mycket tillgänglig - Tillgängliga möbler, ingen lutning. God orienterbarhet.
 
-40                                                                                                                                                                                                                     41
+40
+
+Trygghet                                                         Miljöinventering, Giftfri lekplats
+
+Närmiljö, fysisk planering, insyn är faktorer som påverkar den upplevda Platser för barn och unga utomhus har ofta material och produkter som inte är
+tryggheten.                                                      tillverkade för att vara lekmaterial från början. Detta kan till exempel vara gum-
+midäck, slipers eller tryckimpregnerat trä. Konstgräs och äldre fallskyddsmattor
+ka också innehålla miljögifter.
+
+Räddningstjänst
+
+Vägbredd och fysisk planering är faktorer som påverkar åtkomsten för rädd-
+ningstjänsten.
+
+41
 
 [Tabell 99-1](handlingar.tabeller/99-1.csv)
 

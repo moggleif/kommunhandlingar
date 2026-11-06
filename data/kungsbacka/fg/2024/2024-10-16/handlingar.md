@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1e6538661929de083d2536df/1729507792
 sha256: fe4bc39d67c92cf56f29ad94656af52952e499b69325add79c77a6cd6c8d27fc
 bytes: 10596381
 sidor: 162
-hamtad: 2026-10-23T07:07:13+00:00
-konverterad: 2026-10-23T07:07:38+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:47:54+00:00
+konverterad: 2026-11-06T08:48:20+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2659,8 +2659,7 @@ skolan få utvecklas, känna växandets glädje och få erfara den
 tillfredställelse som det ger att göra framsteg och övervinna
 svårigheter
 
-7.4 Barnperspektivet
-
+7.4  Barnperspektivet
 Barn och unga vistas i olika lärmiljöer en stor del av sin
 uppväxttid, och därför måste vi använda oss av två viktiga
 perspektiv:
@@ -2679,27 +2678,25 @@ visar att barns möjlighet att röra sig fritt och leka utomhus minskar
 generellt. Daglig utevistelse och fysisk aktivitet är nödvändig för
 barn, och ju mer organiserad och strukturerad utevistelsen blir,
 desto färre möjligheter blir det för barnen att leka fritt på sitt sätt, på
+
 olika sätt. Det är viktigt på så många plan att få uppleva frihet och
-VAD ÄR DET BARNEN/ELEVERNA SKA
 upptäckarglädje, att få skapa egna minnen, relationer och ha sina
-FÅ MÖJLIGHET ATT GÖRA, TRÄNA PÅ
 hemliga platser. Det är det som skapar den rumsliga kompetens som
-OCH LÄRA I VÅRA FYSISKA MILJÖER?
 hjälper oss att hantera både oss själva och vår omvärld.
-HUR HÄNGER DE FYSISKA
-MILJÖERNA IHOP MED DE SOCIALA
+
 Vuxnas uppfattningar om barndom baseras på erfarenheter från en
-OCH PEDAGOGISKA?
 annan tid eller av föräldraskap. Detta är givetvis värdefulla
 erfarenheter men det är andra positioner än att leva som barn här
 och nu. Därför krävs också att barnens eget perspektiv beaktas i
 planeringsprocesserna genom exempelvis genom Ifous gåturer för
 både barn, elever och vuxna.
-7.5 Utformning
+
+7.5  Utformning
 Det är viktigt att de utbildningslokaler som byggs blir
 genomtänkta och nytänkande så att de kan bidra till de bästa
 förutsättningar för alla elevers behov. Varje till-, om-, och
 nybyggnationer ska utgå från konceptet.
+
 Lokalerna utformning ska stödja arbetet utifrån läroplaner och
 övriga styrdokument för utbildningen.
 Utformningen ska utgå ifrån ett individorienterat bemötande och
@@ -2710,7 +2707,15 @@ grupperingar av barn, elever och personal samt ger förutsättning
 att använda modern teknik.
 Lokalerna ska präglas av tillgänglighet, öppenhet och goda
 kommunikationsmöjligheter.
+
 16
+
+VAD ÄR DET BARNEN/ELEVERNA SKA
+FÅ MÖJLIGHET ATT GÖRA, TRÄNA PÅ
+OCH LÄRA I VÅRA FYSISKA MILJÖER?
+HUR HÄNGER DE FYSISKA
+MILJÖERNA IHOP MED DE SOCIALA
+OCH PEDAGOGISKA?
 
 <!-- sida 90 -->
 
@@ -2752,58 +2757,67 @@ UTEMILJÖER, ZONINDELNING
 Konceptet sätter fokus på fem områden inom utemiljön/friytan:
 
 1\. Situationer i social gemenskap
-
 Det är viktigt att alla barn/ elever känner sig trygga, att de tillhör en
 gemenskap och att de lär sig känna empati och ta ansvar. Miljön ska
 uppmuntra till aktiviteter som skapar detta.
 
 2\. Aktivera alla sinnen
+
 Det är viktigt att miljön ger upplevelser och inbjuder till roliga
 aktiviteter.
-
 Barn/ elever ska även få en känsla av att de kan påverka miljön och
 vara delaktig i den.
 
 3\. Ge plats för rörelse
-Miljön ska inbjuda till rörelse och rörliga aktiviteter.
 
+Miljön ska inbjuda till rörelse och rörliga aktiviteter.
 Det ska också erbjuda balans- och tekniska övningar för utveckling
 av motoriken.
+
 4\. Stimulera kreativitet
 
 Miljön ska inbjuda till skapande och erbjuda variation av
 skapandematerial.
-
 Det ska vara en miljö som går att utforska och testa över tid.
-5\. Lek och lärande
 
+5\. Lek och lärande
 Utomhusmiljön ska även kunna användas som resurs i
+
 undervisningen.
 
-8.2 Definitioner, begrepp
-FRIYTA
-Friytans värde                                 FRIYTA SOM BEGREPP OMFATTAR
-DEN YTA SOM BARNEN/ELEVER HAR
+8.2  Definitioner, begrepp
+Friytans värde
+
 En utemiljö/friyta som är rymlig, varierad och mångfunktionell
-TILLGÅNG TILL OCH KAN ANVÄNDA
 gynnar barns och ungas sociala utveckling. Ju större gård desto
-VID SIN UTEVISTELSE.
 mindre slitage på de ytor som finns tillgängliga och framförallt
-FRIYTAN VID SKOLA OCH FÖRSKOLA
 spelar storleken roll för möjligheten till naturlek med vegetation,
-BÖR VARA SÅ PASS STOR ATT DEN
 gräsytor och naturmaterial.
-KAN ERBJUDA BARN OCH
-Den fysiska utvecklingen gynnas av många olika funktioner samt PEDAGOGER OLIKA KVALITETER OCH
-naturmark med varierad terräng. Motoriska färdigheter förbättras av FUNKTIONER.
+
+Den fysiska utvecklingen gynnas av många olika funktioner samt
+naturmark med varierad terräng. Motoriska färdigheter förbättras av
 naturliga ojämlikheter i mark, stenar att balansera på och klätterträd.
 En utemiljö som innehåller många funktioner och är varierad och
+
 med olika rum bidrar till alla barns lek. En grön gård bidrar till både
 jämlik och jämställd utbildning.
 Det är lämpligt att det finns möjlighet till lek i både skugga och i
 soliga lägen. En indikator är himmelsvyer. Om mer än halva himlen,
-HIMMELSVYER
+
 18
+
+FRIYTA
+FRIYTA SOM BEGREPP OMFATTAR
+DEN YTA SOM BARNEN/ELEVER HAR
+TILLGÅNG TILL OCH KAN ANVÄNDA
+VID SIN UTEVISTELSE.
+FRIYTAN VID SKOLA OCH FÖRSKOLA
+BÖR VARA SÅ PASS STOR ATT DEN
+KAN ERBJUDA BARN OCH
+PEDAGOGER OLIKA KVALITETER OCH
+FUNKTIONER.
+
+HIMMELSVYER
 
 <!-- sida 92 -->
 
@@ -4350,22 +4364,37 @@ Snabbt utreda kapacitetsbehovet för Liljans skola.
 
 Aktualitetsprövning                      Kvarteret           Liljan      skola
 
-Kapacitet     525   elever   2027                      Kapacitet     350   elever    2027
+Kapacitet     525   elever    2027
 
-• Arbetar på i linje med beslut i KF för               • Arbetar på i linje med beslut I KF för
+• Arbetar på i linje med beslut i KF för
 
-färdigställande 2027                                   färdigställande 2027 men..
+färdigställande 2027
 
-• En etablering för byggnation utan påverkan för       • Projektering får ske för båda varianterna
-skolverksamhet                                         samtidigt vilket får påverkan för projektkostnader
+• En etablering för byggnation utan påverkan för
+skolverksamhet
 
-• Byggkostnad  blir baserad på kostnadsindex år        • Om  projektet behöver pausas I avvaktan på KS-
-2027                                                   beslut (tidigast sluten av November) uppstår
+• Byggkostnad  blir baserad på kostnadsindex år
+2027
 
-tidsförskjutning med minst motsvarande tid.
 • (Bärande funktioner som krävs för en kapacitet om 525 elever
-som kök, matsal, admin, angöring etc. färdigställs år 2027.) • Skolans storlek reduceras från 5 266 kvm BRA till
-4 050 kvm  BRA (minskning med 1 216 kvm)
+som kök, matsal, admin, angöring etc. färdigställs år 2027.)
+
+Kapacitet     350   elever    2027
+
+• Arbetar på i linje med beslut I KF för
+
+färdigställande 2027 men..
+
+• Projektering får ske för båda varianterna
+samtidigt vilket får påverkan för projektkostnader
+
+• Om  projektet behöver pausas I avvaktan på KS-
+beslut (tidigast sluten av November) uppstår
+tidsförskjutning med minst motsvarande tid.
+
+• Skolans storlek reduceras från 5 266 kvm BRA till
+
+4 050 kvm  BRA (minskning med  1 216 kvm)
 Investeringen reduceras med 50 mnkr.
 
 • Två etableringar för byggnation, andra
@@ -4374,7 +4403,7 @@ skolverksamheten
 
 • Byggkostnad  blir baserad på kostnadsindex år
 
-2027 samt framtida år X vid behov
+2027 samt  framtida år X vid behov
 
 <!-- sida 136 -->
 
@@ -4443,25 +4472,38 @@ upptagningsområdet som väljer skolan.
 
 <!-- sida 139 -->
 
-Om     vi   bygger        Liljan      skola      med      en    kapacitet          på    350
+Om      vi  bygger        Liljan      skola      med      en    kapacitet           på   350
 
 elever
 
-Möjligheter                                             Risker
+Möjligheter
 
-Att skjuta på viss del av investeringskostnaden.        Att skolan inte kan erbjuda alla elever, som bor i
+Att skjuta på viss del av investeringskostnaden.
 
-upptagningsområdet, plats..
 Driftskostnader betalas för en byggnad som man garanterat
-vet att man fyller med elever.                          Upptagningsområdet för Varla/Tingberget måste göras
-om vilket i sin tur
-Utöka elevantalet på Skårbyskolan, Hålabäcksskolan och  •  även ger minskat underlag för Varlaskolan
-Toråsskolan, vilka har en överkapacitet i dagsläget.    •  tvingar oss att bussa elever
-•  kan skapa missnöje hos vårdnadshavare
+vet att man fyller med elever.
+
+Utöka elevantalet på Skårbyskolan, Hålabäcksskolan och
+Toråsskolan, vilka har en överkapacitet i dagsläget.
 
 Det mindre elevantalet får
-en större friyta.                                       Att besparingen inte blir så stor som önskat då de
+en större friyta.
+
+Risker
+
+Att skolan inte kan erbjuda alla elever, som bor i
+upptagningsområdet, plats..
+
+Upptagningsområdet för Varla/Tingberget måste göras
+
+om vilket i sin tur
+•  även ger minskat underlag för Varlaskolan
+•  tvingar oss att bussa elever
+•  kan skapa missnöje hos vårdnadshavare
+
+Att besparingen inte blir så stor som önskat då de
 gemensamma ytorna ändå måste byggas i första skedet,
+
 såsom matsal och kök, praktisk-estetiska salar, expedition
 och elevhälsa samt idrottshall och p-garage.
 

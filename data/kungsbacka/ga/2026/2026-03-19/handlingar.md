@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5deddcf719cc8cfc836d6c17/1773655708
 sha256: baebddecf9f30aa070e8536408f0940cb2210245e5c604224fa83a7b43513cb0
 bytes: 11083508
 sidor: 344
-hamtad: 2026-10-23T06:46:18+00:00
-konverterad: 2026-10-23T06:48:16+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:26:04+00:00
+konverterad: 2026-11-06T08:28:09+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1602,38 +1602,54 @@ nätverket
 
 Ställningstaganden
 
-I huvudsak oförändrat innehåll jämfört med nuvarande avtal,  •   Planering och dimensionering: tydligare beskrivning av hur
-men uppdaterat efter återkoppling från medlemskommunerna         ungdomars efterfrågan och arbetsmarknadens behov vägs
+I huvudsak oförändrat innehåll jämfört med nuvarande avtal,
 
-med bättre struktur och formalia.                                in, planeringshorisont, process och beslutsordning samt
-vilket gemensamt underlag som används. Även
+men uppdaterat efter återkoppling från medlemskommunerna
+med bättre struktur och formalia.
+
 Terminologi och språk har moderniserats; hänvisningar till
-förtydliganden om hur samverkan med enskilda huvudmän
 relevanta lagrum är inarbetade och innehållet är uppdaterat
-och branscher sker.
+
 utifrån lagändringar och aktuella styrdokument.
-•   Överlämning, stöd och uppföljning: ansvar och process vid
+
 Avtalet har kompletterats med förtydliganden:
-överlämning av elever med stödbehov har tydliggjorts,
-inklusive användning av Indras överlämningsfunktion.
+
 •   Syfte och bakgrund har integrerats i avtalet (ersätter
 tidigare bilaga) för att tydliggöra medlemskommunernas
-•   Ekonomiska förutsättningar: utvecklade skrivningar för
+
 gemensamma  ansvar för elevens rätt till utbildning och
-likvärdig hantering och ersättning vid förlängd
 möjligheter att fullfölja studier, särskilt vid förändrat
-undervisning, utifrån respektive huvudmans beskrivning av
 elevantal och eventuella lagändringar under
-behov.
+
 avtalsperioden.
-•   Modell för interkommunal ersättning (IKE) beskrivs i ny
+
 •   Antagning och ansvarsfördelning: tidslinjen för
-bilaga som speglar det underlag som årligen bifogas
 antagningsåret är uppdaterad, inklusive förtydligande om
-prislistan inför kommande år när den skickas till
 när nödvändiga tillstånd måste vara på plats för att en
-medlemskommunerna   för beslut.
+
 utbildning ska kunna erbjudas som sökbar.
+
+•   Planering och dimensionering: tydligare beskrivning av hur
+ungdomars efterfrågan och arbetsmarknadens behov vägs
+
+in, planeringshorisont, process och beslutsordning samt
+vilket gemensamt underlag som används. Även
+förtydliganden om hur samverkan med enskilda huvudmän
+och branscher sker.
+
+•   Överlämning, stöd och uppföljning: ansvar och process vid
+överlämning av elever med stödbehov har tydliggjorts,
+inklusive användning av Indras överlämningsfunktion.
+
+•   Ekonomiska förutsättningar: utvecklade skrivningar för
+likvärdig hantering och ersättning vid förlängd
+undervisning, utifrån respektive huvudmans beskrivning av
+behov.
+
+•   Modell för interkommunal ersättning (IKE) beskrivs i ny
+bilaga som speglar det underlag som årligen bifogas
+prislistan inför kommande år när den skickas till
+medlemskommunerna  för beslut.
 
 <!-- sida 36 -->
 
@@ -1698,30 +1714,53 @@ gymnasieskolans    personal
 
 Avtalets            områden                med         exempel               på     innehåll
 
-Syfte och intentioner: Avtalet ska genom regional            Information, vägledning och marknadsföring:
-samverkan  ge elever tillgång till ett brett och kvalitativt Kommunernas    information ska vara bland annat vara
+Syfte och intentioner: Avtalet ska genom regional
+samverkan  ge elever tillgång till ett brett och kvalitativt
 
-utbud som  möter både ungdomars   efterfrågan och            saklig och lättillgänglig. Vägledning ska vara neutral.
-arbetsmarknadens   behov.                                    Marknadsföring  ska följa god sed och gemensamma
+utbud som  möter både ungdomars  efterfrågan och
+arbetsmarknadens  behov.
+
+Antagnings och ansvarsfördelning: Antagningen
+hanteras regionalt av Antagningsnämnden  (GR). Med
+
+regionsgemensamt   system och enligt gemensam
+tidplan/principer. Kommunerna ansvarar för korrekta
+
+uppgifter och att tidplan/etiska regler följs.
+
+Planering och dimensionering – ansvarsfördelning:
+
+Anordnarkommunen    beslutar om sitt utbud och antal
+platser. Antagningsnämnden  och GR samordnar
+
+samverkan  för regional långsiktighet och balans mellan
+elevantal, efterfrågan och arbetsmarknadens behov,
+
+genom  strukturerade samråd och uppföljningar.
+
+Information, vägledning och marknadsföring:
+Kommunernas   information ska vara bland annat vara
+
+saklig och lättillgänglig. Vägledning ska vara neutral.
+Marknadsföring ska följa god sed och gemensamma
 
 etiska regler. Sker både genom regionala och lokala
-Antagnings och ansvarsfördelning: Antagningen
-kanaler som  stöd inför gymnasievalet.
-hanteras regionalt av Antagningsnämnden  (GR). Med
-regionsgemensamt   system och enligt gemensam                Ekonomiska   förutsättningar: Interkommunal ersättning
-tidplan/principer. Kommunerna ansvarar för korrekta          (IKE) tas fram genom gemensam   modell och prislista,
+kanaler som stöd inför gymnasievalet.
 
-uppgifter och att tidplan/etiska regler följs.               med  månadsvis  avstämning. Beskriver hantering av
+Ekonomiska  förutsättningar: Interkommunal ersättning
+(IKE) tas fram genom gemensam   modell och prislista,
+
+med  månadsvis  avstämning. Beskriver hantering av
 bland annat särskilt stöd, utökade/reducerade
-Planering och dimensionering – ansvarsfördelning:
-program,  resor och regional garanti
-Anordnarkommunen    beslutar om sitt utbud och antal
-platser. Antagningsnämnden  och GR samordnar                 Idé- och erfarenhetsutbyte: Beskriver hur regionens
 
-samverkan  för regional långsiktighet och balans mellan      samlade  kompetens  tas tillvara genom strukturerat
-elevantal, efterfrågan och arbetsmarknadens behov,           erfarenhetsutbyte, gemensamma    insatser och
+program, resor och regional garanti
 
-genom  strukturerade samråd och uppföljningar.               kompetensutveckling  i regionala nätverk.
+Idé- och erfarenhetsutbyte: Beskriver hur regionens
+
+samlade  kompetens  tas tillvara genom strukturerat
+erfarenhetsutbyte, gemensamma   insatser och
+
+kompetensutveckling  i regionala nätverk.
 
 <!-- sida 40 -->
 
@@ -3274,35 +3313,55 @@ nätverket
 
 Ställningstaganden
 
-I huvudsak oförändrat innehåll jämfört med nuvarande avtal,  •   Planering och dimensionering: tydligare beskrivning
-men uppdaterat efter återkoppling från medlemskommunerna         planeringshorisont, process och beslutsordning samt vilket
-med bättre struktur och formalia.                                gemensamt  underlag som används. Även förtydliganden
+I huvudsak oförändrat innehåll jämfört med nuvarande avtal,
+men uppdaterat efter återkoppling från medlemskommunerna
 
-om hur samverkan med enskilda huvudmän och branscher
+med bättre struktur och formalia.
+
 Terminologi och språk har moderniserats; hänvisningar till
-sker.
 relevanta lagrum är inarbetade och innehållet är uppdaterat
-utifrån lagändringar och aktuella styrdokument.              •   Överlämning, stöd och uppföljning: ansvar och process vid
-överlämning av elever med stödbehov har tydliggjorts.
+utifrån lagändringar och aktuella styrdokument.
+
 Avtalet har kompletterats med förtydliganden:
-•   Ekonomiska förutsättningar: utvecklade skrivningar för
+
 •   Syfte och bakgrund har integrerats i avtalet (ersätter
-likvärdig hantering och ersättning vid förlängd
 tidigare bilaga) för att tydliggöra medlemskommunernas
-undervisning, utifrån respektive huvudmans beskrivning av
 gemensamma  ansvar för elevens rätt till utbildning och
-behov.
+
 möjligheter att fullfölja studier, särskilt vid förändrat
-elevantal och eventuella lagändringar under              •   Modell för interkommunal ersättning (IKE) beskrivs i ny
-avtalsperioden.                                              bilaga som speglar det underlag som årligen bifogas
-prislistan inför kommande år när den skickas till
+elevantal och eventuella lagändringar under
+avtalsperioden.
+
 •   Antagning och ansvarsfördelning: tidslinjen för
-medlemskommunerna   för beslut.
 antagningsåret är uppdaterad, inklusive förtydligande om
 när nödvändiga tillstånd måste vara på plats för att en
 utbildning ska kunna erbjudas som sökbar. Texten har
+
 även förtydligats när det gäller urval, regional samverkan
 vid urval och mottagande i andra hand.
+
+•   Planering och dimensionering: tydligare beskrivning
+planeringshorisont, process och beslutsordning samt vilket
+
+gemensamt underlag som används. Även förtydliganden
+om hur samverkan med enskilda huvudmän och branscher
+sker.
+
+•   Överlämning, stöd och uppföljning: ansvar och process vid
+
+överlämning av elever med stödbehov har tydliggjorts.
+
+•   Ekonomiska förutsättningar: utvecklade skrivningar för
+likvärdig hantering och ersättning vid förlängd
+undervisning, utifrån respektive huvudmans beskrivning av
+
+behov.
+
+•   Modell för interkommunal ersättning (IKE) beskrivs i ny
+bilaga som speglar det underlag som årligen bifogas
+
+prislistan inför kommande år när den skickas till
+medlemskommunerna  för beslut.
 
 <!-- sida 80 -->
 
@@ -3362,28 +3421,49 @@ gymnasieskolans    personal
 
 Avtalets            områden                med         exempel               på     innehåll
 
-Syfte och intentioner: Avtalet ska genom regional            Information, vägledning och marknadsföring:
-samverkan  ge eleverna i målgruppen tillgång till ett        Kommunernas    information ska vara bland annat vara
+Syfte och intentioner: Avtalet ska genom regional
+samverkan  ge eleverna i målgruppen tillgång till ett
 
-brett, rikt och kvalitativt utbud.                           saklig och lättillgänglig. Vägledning ska vara neutral.
-Marknadsföring  ska följa god sed och gemensamma
+brett, rikt och kvalitativt utbud.
+
 Antagnings och ansvarsfördelning: Reglerar hur elever
-etiska regler. Sker både genom regionala och lokala
+
 söker till det fritt sökbara utbudet, hur
-kanaler som  stöd inför gymnasievalet.
 mottagande/antagning   och urval ska genomföras samt
-hur kommuner   kan samverka  vid urval och vid               Ekonomiska   förutsättningar: Interkommunal ersättning
-mottagande  i andra hand.                                    (IKE) tas fram genom gemensam   modell och prislista,
+
+hur kommuner   kan samverka vid urval och vid
+mottagande  i andra hand.
+
+Planering och dimensionering – ansvarsfördelning:
+Anordnarkommunen    beslutar om sitt utbud och antal
+
+platser. Antagningsnämnden  och GR samordnar
+samverkan  för regional långsiktighet och balans mellan
+
+elevantal och efterfrågan genom strukturerade samråd
+och uppföljningar.
+
+Information, vägledning och marknadsföring:
+Kommunernas   information ska vara bland annat vara
+
+saklig och lättillgänglig. Vägledning ska vara neutral.
+Marknadsföring ska följa god sed och gemensamma
+
+etiska regler. Sker både genom regionala och lokala
+kanaler som stöd inför gymnasievalet.
+
+Ekonomiska  förutsättningar: Interkommunal ersättning
+(IKE) tas fram genom gemensam   modell och prislista,
 
 med  månadsvis  avstämning. Beskriver hantering av
-Planering och dimensionering – ansvarsfördelning:
 bland annat särskilt stöd, utökade/reducerade
-Anordnarkommunen    beslutar om sitt utbud och antal
-program,  resor och regional garanti
-platser. Antagningsnämnden  och GR samordnar
-samverkan  för regional långsiktighet och balans mellan      Idé- och erfarenhetsutbyte: Beskriver hur regionens
-elevantal och efterfrågan genom strukturerade samråd         samlade  kompetens  tas tillvara genom strukturerat
-och uppföljningar.                                           erfarenhetsutbyte, gemensamma    insatser och
+
+program, resor och regional garanti
+
+Idé- och erfarenhetsutbyte: Beskriver hur regionens
+
+samlade  kompetens  tas tillvara genom strukturerat
+erfarenhetsutbyte, gemensamma   insatser och
 
 kompetensutveckling  i regionala nätverk.
 

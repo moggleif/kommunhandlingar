@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf83a0cd/173374840838
 sha256: 6a98ddc397ae9d6b48033160da6045e7553cb1eb31b0ed39f8de2fa989d15e32
 bytes: 4448100
 sidor: 288
-hamtad: 2026-10-23T10:31:29+00:00
-konverterad: 2026-10-23T10:32:10+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T12:20:20+00:00
+konverterad: 2026-11-06T12:21:05+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -511,47 +511,58 @@ uppdraget. Åtgärderna som kan snabba på utfasningen av f-gaser är:
 
 NATURVÅRDSVERKET
 
-1\.     Författningsförslag
+1\.      Författningsförslag
 
-1.1    Ändringar   med   anledning   av EU-
+1.1     Ändringar   med  anledning   av EU-
 
 förordningar
 
-1.1.1  Förslag till lag om ändring i miljöbalken
+1.1.1   Förslag till lag om ändring i miljöbalken
 (1998:808)
 
 Härigenom föreskrivs i fråga om miljöbalken (1998:808)
-
 dels att 26 kap. 1 och 21 §§, 29 kap. 3 § andra stycket 6–8 och 12–14, 29 kap. 6 § första
 stycket 4, 29 kap. 12 § och 30 kap. 1 § ska ha följande lydelse
+
 dels att det ska införas en ny paragraf, 29 kap. 16§.
-Nuvarande lydelse         Föreslagen lydelse
+Nuvarande lydelse        Föreslagen lydelse
 
 26 kap.
 Tillsyn
-Allmänt om tillsyn och tillsynsvägledningen
 
+Allmänt om tillsyn och tillsynsvägledningen
 1 §
 Tillsynen ska säkerställa syftet med denna balk och föreskrifter som har meddelats med stöd
 av balken.
-Med tillsyn avses att tillsynsmyndigheten ska
 
+Med tillsyn avses att tillsynsmyndigheten ska
 1\. på eget initiativ eller efter anmälan i nödvändig utsträckning kontrollera att miljöbalken
 samt föreskrifter, domar och andra beslut som har meddelats med stöd av balken följs samt
 vidta de åtgärder som behövs för att åstadkomma rättelse,
-2\. underlätta för en enskild att fullgöra sina 2. underlätta för en enskild att fullgöra sina
-skyldigheter enligt de handlingsregler som skyldigheter enligt de handlingsregler som
-avses i 1 genom information och liknande avses i 1 genom information och liknande
-verksamhet, och           verksamhet,
-3\. fortlöpande bedöma om villkor för 3. fortlöpande bedöma om villkor för
-miljöfarlig verksamhet eller miljöfarlig verksamhet eller
-vattenverksamhet som omfattas av tillstånd vattenverksamhet som omfattas av tillstånd
-är tillräckliga.          är tillräckliga, och
+
+2\. underlätta för en enskild att fullgöra sina
+skyldigheter enligt de handlingsregler som
+avses i 1 genom information och liknande
+verksamhet, och
+3\. fortlöpande bedöma om villkor för
+miljöfarlig verksamhet eller
+vattenverksamhet som omfattas av tillstånd
+är tillräckliga.
+
+2\. underlätta för en enskild att fullgöra sina
+skyldigheter enligt de handlingsregler som
+avses i 1 genom information och liknande
+verksamhet,
+3\. fortlöpande bedöma om villkor för
+miljöfarlig verksamhet eller
+vattenverksamhet som omfattas av tillstånd
+är tillräckliga, och
 
 4\. besluta om miljösanktionsavgift och bestämma
 avgiftens storlek i de fall det behövs till följd av att
 beloppet inte bestämts i föreskrifter samt upprätta
 anmälan om överträdelse enligt 2 §.
+
 21 §
 Tillsynsmyndigheten får förelägga den som Tillsynsmyndigheten får förelägga den som
 bedriver verksamhet eller vidtar en åtgärd bedriver verksamhet eller vidtar en åtgärd
@@ -563,13 +574,21 @@ som det finns bestämmelser om i denna balk som det finns bestämmelser om i den
 
 NATURVÅRDSVERKET
 
-eller i föreskrifter som meddelats med stöd av i föreskrifter som meddelats med stöd av
-balken, att till myndigheten lämna de balken eller i bestämmelser i EU-förordningar inom
-uppgifter och handlingar som behövs för balkens tillämpningsområde, att till myndigheten
-tillsynen. Detsamma gäller också för den som lämna de uppgifter och handlingar som
-annars är skyldig att avhjälpa olägenheter från behövs för tillsynen. Detsamma gäller också
-sådan verksamhet.         för den som annars är skyldig att avhjälpa
+eller i föreskrifter som meddelats med stöd av
+balken, att till myndigheten lämna de
+uppgifter och handlingar som behövs för
+tillsynen. Detsamma gäller också för den som
+annars är skyldig att avhjälpa olägenheter från
+sådan verksamhet.
+
+i föreskrifter som meddelats med stöd av
+balken eller i bestämmelser i EU-förordningar inom
+balkens tillämpningsområde, att till myndigheten
+lämna de uppgifter och handlingar som
+behövs för tillsynen. Detsamma gäller också
+för den som annars är skyldig att avhjälpa
 olägenheter från sådan verksamhet.
+
 Tillsynsmyndigheten får även förelägga den som
 bedriver en verksamhet eller vidtar en åtgärd som det
 finns bestämmelser om i denna balk, i föreskrifter
@@ -578,41 +597,70 @@ förordningar inom balkens tillämpningsområde att
 lämna de uppgifter som behövs för att
 tillsynsmyndigheten ska kunna bestämma storleken
 på
+
 1\. miljösanktionsavgifter enligt 30 kap. 1 § andra
 stycket 2, och
 2\. vite.
 
 29 kap.
 3 §
-6\. i fråga om åtgärder för att hindra eller 6. i fråga om åtgärder för att hindra eller
-åtgärda läckage av fluorerade växthusgaser åtgärda läckage av fluorerade växthusgaser
-bryter mot bestämmelserna i artikel 3.2 eller bryter mot bestämmelserna i artikel 4.1, 4.2,
-3.3 första stycket i Europaparlamentets och 4.3 eller 4.5 första stycket i Europaparlamentets
-rådets förordning (EU) nr 517/2014 av den 16 och rådets förordning (EU) 2024/573 av den
-april 2014 om fluorerade växthusgaser, 7 februari 2024 om fluorerade växthusgaser,
-7\. i fråga om att återvinning av fluorerade 7. i fråga om att återvinning av fluorerade
-växthusgaser ska utföras av certifierad växthusgaser ska utföras av certifierad
-personal eller personal med lämplig personal eller personal med lämplig
-utbildning bryter mot en bestämmelse i artikel utbildning bryter mot en bestämmelse i artikel
-8.1 eller 8.3 i förordning (EU) nr 517/2014, 8.1, 8.2, 8.3, 8.4 eller 8.10 i förordning (EU)
-2024/573,
 
-8\. släpper ut en fluorerad växthusgas på 8. bryter mot ett förbud eller en begränsning för att
-marknaden eller använder en sådan gas och använda, importera, exportera eller på marknaden
-därigenom bryter mot ett förbud i artikel 11.1 släppa ut en fluorerad växthusgas, en produkt eller
-eller 13 i förordning (EU) nr 517/2014, en utrustning enligt artikel 11.1 första stycket, 13.1,
+6\. i fråga om åtgärder för att hindra eller
+åtgärda läckage av fluorerade växthusgaser
+bryter mot bestämmelserna i artikel 3.2 eller
+3.3 första stycket i Europaparlamentets och
+rådets förordning (EU) nr 517/2014 av den 16
+april 2014 om fluorerade växthusgaser,
+7\. i fråga om att återvinning av fluorerade
+växthusgaser ska utföras av certifierad
+personal eller personal med lämplig
+utbildning bryter mot en bestämmelse i artikel
+8.1 eller 8.3 i förordning (EU) nr 517/2014,
+
+8\. släpper ut en fluorerad växthusgas på
+marknaden eller använder en sådan gas och
+därigenom bryter mot ett förbud i artikel 11.1
+eller 13 i förordning (EU) nr 517/2014,
+
+12\. bryter mot ett förbud eller en
+begränsning för att producera, använda,
+importera, exportera eller på marknaden
+släppa ut ett ämne, en produkt eller en
+utrustning enligt artikel 4, 5, 6, 15.1, 17.1, 20.1
+eller 24.1 i Europaparlamentets och rådets
+förordning (EG) nr 1005/2009 av den 16
+september 2009 om ämnen som bryter ned
+ozonskiktet,
+
+6\. i fråga om åtgärder för att hindra eller
+åtgärda läckage av fluorerade växthusgaser
+bryter mot bestämmelserna i artikel 4.1, 4.2,
+4.3 eller 4.5 första stycket i Europaparlamentets
+och rådets förordning (EU) 2024/573 av den
+7 februari 2024 om fluorerade växthusgaser,
+7\. i fråga om att återvinning av fluorerade
+växthusgaser ska utföras av certifierad
+personal eller personal med lämplig
+utbildning bryter mot en bestämmelse i artikel
+8.1, 8.2, 8.3, 8.4 eller 8.10 i förordning (EU)
+2024/573,
+8\. bryter mot ett förbud eller en begränsning för att
+använda, importera, exportera eller på marknaden
+släppa ut en fluorerad växthusgas, en produkt eller
+en utrustning enligt artikel 11.1 första stycket, 13.1,
 13.2, 13.3, 13.4, 13.5, 13.7, 13.9, 13.11, 13.12,
 13.18, 13.19, 13.20, 22.1 eller 22.3 i förordning
 (EU) 2024/573,
-12\. bryter mot ett förbud eller en 12. bryter mot ett förbud eller en
-begränsning för att producera, använda, begränsning för att producera, använda,
-importera, exportera eller på marknaden importera, exportera, återexportera, på
-släppa ut ett ämne, en produkt eller en marknaden släppa ut eller annars tillhandahålla
-utrustning enligt artikel 4, 5, 6, 15.1, 17.1, 20.1 ett ämne, en produkt eller en utrustning enligt
-eller 24.1 i Europaparlamentets och rådets artikel 4.1, 4.2, 5.1, 5.2, 11.1, 15.1, 15.2 eller 19
-förordning (EG) nr 1005/2009 av den 16 i Europaparlamentets och rådets förordning
-september 2009 om ämnen som bryter ned (EU) 2024/590 av den 7 februari 2024 om
-ozonskiktet,              ämnen som bryter ned ozonskiktet,
+
+12\. bryter mot ett förbud eller en
+begränsning för att producera, använda,
+importera, exportera, återexportera, på
+marknaden släppa ut eller annars tillhandahålla
+ett ämne, en produkt eller en utrustning enligt
+artikel 4.1, 4.2, 5.1, 5.2, 11.1, 15.1, 15.2 eller 19
+i Europaparlamentets och rådets förordning
+(EU) 2024/590 av den 7 februari 2024 om
+ämnen som bryter ned ozonskiktet,
 
 9
 
@@ -620,14 +668,24 @@ ozonskiktet,              ämnen som bryter ned ozonskiktet,
 
 NATURVÅRDSVERKET
 
-13\. i fråga om åtgärder för återvinning och 13. i fråga om åtgärder för återvinning och
-destruktion av ozonnedbrytande ämnen destruktion av ozonnedbrytande ämnen
-bryter mot artikel 22.1, 22.2 eller 22.4 i bryter mot artikel 20.1, 20.5 eller 20.6 i
-förordning (EG) nr 1005/2009, förordning (EU) 2024/590,
-14\. i fråga om åtgärder för att hindra eller 14. i fråga om åtgärder för att hindra eller
-minska läckage av ozonnedbrytande ämnen minska läckage av ozonnedbrytande ämnen
-bryter mot artikel 23.1, 23.5 eller 23.6 i bryter mot artikel 21.2 i förordning (EU)
-förordning (EG) nr 1005/2009, 2024/590,
+13\. i fråga om åtgärder för återvinning och
+destruktion av ozonnedbrytande ämnen
+bryter mot artikel 22.1, 22.2 eller 22.4 i
+förordning (EG) nr 1005/2009,
+14\. i fråga om åtgärder för att hindra eller
+minska läckage av ozonnedbrytande ämnen
+bryter mot artikel 23.1, 23.5 eller 23.6 i
+förordning (EG) nr 1005/2009,
+
+13\. i fråga om åtgärder för återvinning och
+destruktion av ozonnedbrytande ämnen
+bryter mot artikel 20.1, 20.5 eller 20.6 i
+förordning (EU) 2024/590,
+14\. i fråga om åtgärder för att hindra eller
+minska läckage av ozonnedbrytande ämnen
+bryter mot artikel 21.2 i förordning (EU)
+2024/590,
+
 6 §
 
 4\. i fråga om produkter och utrustning som 4. i fråga om produkter och utrustning som
@@ -635,6 +693,7 @@ innehåller fluorerade växthusgaser bryter innehåller fluorerade växthusgaser
 mot förordning (EU) nr 517/2014 genom att mot förordning (EU) 2024/573 genom att inte
 inte märka produkter och utrustning enligt märka produkter och utrustning enligt vad
 vad som krävs i förordningens artikel 12, som krävs i förordningens artikel 12,
+
 12 §
 Egendom får förklaras förverkad, om det inte är uppenbart oskäligt och egendomen
 
@@ -1506,25 +1565,26 @@ påverka systemets säkerhet mot köldmedieutsläpp.
 
 NATURVÅRDSVERKET
 
-Behörig myndighet         Myndigheter med uppgifter enligt
+Behörig myndighet        Myndigheter med uppgifter enligt
 förordningen om ozonnedbrytande
 ämnen
 13 §
+
 Naturvårdsverket är den behöriga myndighet som Tillsynsmyndigheterna är de behöriga myndigheterna
 avses i EU-förordningen om ozonnedbrytande enligt artikel 26 i EU-förordningen om
-ämnen.                    ozonnedbrytande ämnen.
-
+ämnen.                   ozonnedbrytande ämnen.
 Med tillsynsmyndigheten avses i denna förordning den
 som enligt 26 kap. 3 § miljöbalken eller
 miljötillsynsförordningen (2011:13) utövar tillsyn
 över verksamheten eller åtgärden.
+
 13 a §
 Naturvårdsverket ska fullgöra uppgifter enligt
 artiklarna 9.1, 9.4, 10.1, 16.11, 20.8, 21.6, 23.1,
 27.1, 28 och 29.4 i EU-förordningen om
 ozonnedbrytande ämnen.
-
 13 b §
+
 Kemikalieinspektionen ska fullgöra uppgifter enligt
 artiklarna 14.2, 15.2–4, 15.6, 16.7, 16.11,
 17.1–12, 24.1, 24.2 och 27.3 i EU-förordningen
@@ -1532,6 +1592,7 @@ om ozonnedbrytande ämnen.
 Anmälningsplikt
 
 13 c §
+
 Bestämmelser om anmälningsplikt finns i 28 a § i
 förordning (1998:899) om miljöfarlig verksamhet
 och hälsoskydd för den som yrkesmässigt renoverar
@@ -1545,13 +1606,22 @@ Rapportering till den behöriga Rapportering till Naturvårdsverket
 myndigheten
 
 14 §
-Företag inom sådana användningsområden Företag inom sådana användningsområden
-av avgörande betydelse som avses i artikel av avgörande betydelse för haloner som avses i
-13.1  i   EU-förordningen om artikel 9.1 i EU-förordningen om
-ozonnedbrytande ämnen ska senast den 31 ozonnedbrytande ämnen ska senast den 31
-mars varje år lämna en rapport till den behöriga mars varje år lämna en rapport till
-myndigheten med de uppgifter som anges i Naturvårdsverket med de uppgifter som anges
-artikel 26.1 b i EU-förordningen. i artikel 23.1 a i EU-förordningen.
+
+Företag inom sådana användningsområden
+av avgörande betydelse som avses i artikel
+13.1  i  EU-förordningen om
+ozonnedbrytande ämnen ska senast den 31
+mars varje år lämna en rapport till den behöriga
+myndigheten med de uppgifter som anges i
+artikel 26.1 b i EU-förordningen.
+
+Företag inom sådana användningsområden
+av avgörande betydelse för haloner som avses i
+artikel 9.1 i EU-förordningen om
+ozonnedbrytande ämnen ska senast den 31
+mars varje år lämna en rapport till
+Naturvårdsverket med de uppgifter som anges
+i artikel 23.1 a i EU-förordningen.
 
 26
 
@@ -1892,14 +1962,15 @@ NATURVÅRDSVERKET
 förordningen om f-gaser även om anges i artikel 7.1 och 7.2 5i EU-förordningen
 utrustningen inte omfattas av artikelns krav. om f-gaser, även om utrustningen inte
 omfattas av artikelns krav
-13 a §
 
+13 a §
 Den som tillhandahåller f-gas avsedd att användas i en
 mobil kyl-, luftkonditionerings- eller
 värmepumpsutrustning ska föra register i enlighet med
 det som anges i artikel 7.36 i EU-förordningen om f-
 gaser, även om utrustningen inte omfattas av artikelns
 krav.
+
 16 §
 Personal som utför en läckagekontroll enligt Personal som utför en läckagekontroll enligt
 10 eller 11 § på kyl-, luftkonditionerings- eller 10 § i samband med installation eller första
@@ -1912,21 +1983,32 @@ om EU-förordningen om f-gaser inte innebär att
 personalen behöver vara certifierad.
 
 17 §
-De krav på certifiering som anges i Personal som utför läckagekontroll,
-genomförandeförordningen om certifiering för kyl- och återvinning, installation eller underhåll av eller
-värmeutrustning ska också uppfyllas av personal service på mobil utrustning som innehåller f-
-som utför läckagekontroll, återvinning, gas ska vara certifierad enligt kraven i artiklarna 3
-installation eller underhåll av eller service på och 4 i genomförandeförordningen om
-mobil utrustning som innehåller f-gaser. certifiering för kyl- och värmeutrustning, även om EU-
-Certifieringen ska uppfylla kraven i artiklarna 3 förordningen om f-gaser inte innebär att personalen
-och 4 i genomförandeförordningen. behöver vara certifierad.
+
+De krav på certifiering som anges i
+genomförandeförordningen om certifiering för kyl- och
+värmeutrustning ska också uppfyllas av personal
+som utför läckagekontroll, återvinning,
+installation eller underhåll av eller service på
+mobil utrustning som innehåller f-gaser.
+Certifieringen ska uppfylla kraven i artiklarna 3
+och 4 i genomförandeförordningen.
+
+Personal som utför läckagekontroll,
+återvinning, installation eller underhåll av eller
+service på mobil utrustning som innehåller f-
+gas ska vara certifierad enligt kraven i artiklarna 3
+och 4 i genomförandeförordningen om
+certifiering för kyl- och värmeutrustning, även om EU-
+förordningen om f-gaser inte innebär att personalen
+behöver vara certifierad.
+
 Personal som omfattas av kraven i EU-förordningen
 om utbildning för luftkonditionering i motorfordon
 behöver inte vara certifierad enligt kraven i
 genomförandeförordningen om certifiering för kyl- och
 värmeutrustning.
-
 18 §
+
 De krav på certifiering som anges i Ett företag som bedriver verksamhet med
 genomförandeförordningen om certifiering för kyl- och läckagekontroll, återvinning, installation eller
 värmeutrustning ska också uppfyllas av företag som underhåll av eller service på mobil utrustning
@@ -6680,37 +6762,46 @@ som bryter ned ozonskiktet) föreslås förtydligas.
 1\. Författningsförslag
 
 1.1 Förslag till förordning om ändring i förordningen (2016:1128) om
-
 fluorerade växthusgaser
+
 Regeringen föreskriver i fråga om förordningen (2016:1128) om fluorerade
 växthusgaser
 dels att 6, 23–25 och 30 §§ ska upphöra att gälla,
-
 dels att 1, 3, 4, 7, 10, 11, 13, 15–19, 22, 26–29, 31, 34 och 43 §§ ska ha
+
 följande lydelse,
 dels att det ska införas fem nya paragrafer, 11 a, 12 a, 13 a, 19 a och 30 §§,
 och närmast före 12 a och 30 §§ nya rubriker av följande lydelse.
 
-Nuvarande lydelse        Föreslagen lydelse
+Nuvarande lydelse         Föreslagen lydelse
 
 1 §
-Denna förordning är meddelad med stöd av
 
+Denna förordning är meddelad med stöd av
 – 14 kap. 8 § miljöbalken i fråga – 14 kap. 8 § miljöbalken i fråga
 om 7–11, 13–43 och 45 §§, om 7–11 a, 12 a–43 och 45 §§,
 – 15 kap. 6 § miljöbalken i fråga – 15 kap. 39 § miljöbalken i fråga
-om 12 §, och             om 12 §, och
+om 12 §, och              om 12 §, och
 – 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
 
 3 §
 
 I denna förordning avses med I denna förordning avses med
-ackrediterat certifieringsorgan en ackrediterat certifieringsorgan en
-fysisk eller juridisk person som fysisk eller juridisk person som
-genom att uppfylla kraven i Inter- genom att uppfylla kraven i Inter-
-nationella standardiseringsorga- nationella standardiseringsorga-
-nisationens och Internationella nisationens och Internationella
-elektrotekniska kommissionens elektrotekniska kommissionens
+
+ackrediterat certifieringsorgan en
+fysisk eller juridisk person som
+genom att uppfylla kraven i Inter-
+nationella standardiseringsorga-
+nisationens och Internationella
+elektrotekniska kommissionens
+
+ackrediterat certifieringsorgan en
+fysisk eller juridisk person som
+genom att uppfylla kraven i Inter-
+nationella standardiseringsorga-
+nisationens och Internationella
+elektrotekniska kommissionens
+
 standard för bedömning av över- standard för bedömning av över-
 ensstämmelse med allmänna krav ensstämmelse med allmänna krav
 på organ som certifierar personer på organ som certifierar personer
@@ -6781,20 +6872,27 @@ köldmediesystemet öppnas, oavsett om systemet är trycksatt eller inte,
 <!-- sida 135 -->
 
 eller en åtgärd på en kringutrustning som kan påverka systemets säkerhet
-mot köldmedieutsläpp, och
-konvertering: en åtgärd som konvertering: en åtgärd som
-innebär att fluorkolväten (HFC) i innebär att fluorkolväten (HFC) i
-en kyl-, luftkonditionerings- eller en kyl-, luftkonditionerings- eller
-värmepumpsutrustning byts ut mot värmepumpsutrustning byts ut mot
-ett annat köldmedium.    ett köldmedium med större klimatupp-
 
+mot köldmedieutsläpp, och
+konvertering: en åtgärd som
+innebär att fluorkolväten (HFC) i
+en kyl-, luftkonditionerings- eller
+värmepumpsutrustning byts ut mot
+ett annat köldmedium.
+
+konvertering: en åtgärd som
+innebär att fluorkolväten (HFC) i
+en kyl-, luftkonditionerings- eller
+värmepumpsutrustning byts ut mot
+ett köldmedium med större klimatupp-
 värmningspotential än tidigare använd gas
 eller mot en gas som anges i bilaga II i
+
 EU-förordningen om f-gaser.
 
 6 §
-Bestämmelser om förbud i denna
 
+Bestämmelser om förbud i denna
 förordning gäller endast om motsvarande
 förbud inte redan följer av EU-
 förordningen om f-gaser. Bestämmelser om
@@ -6804,26 +6902,42 @@ EU-förordningen om f-gaser.
 
 7 §
 
-Det är förbjudet att leverera köldmedium F-gas för användning i en verksamhet
-till andra mottagare än  enligt 17 eller 18 § får endast säljas till
-1\. den som enligt denna förordning får och köpas av företag som har
-fylla på f-gaser i kyl-, luftkonditionerings- 1. ett certifikat enligt kraven i artikel
-och värmepumpsutrustning, 6 i genomförandeförordningen om
-2\. den som tillverkar kyl-, luftkondi- certifiering för kyl- och värmeutrustning,
-tionerings- och värmepumpsutrustning som 2. en anställd som har ett certifikat
-innehåller f-gaser, och  enligt kraven i artiklarna 3 och 4 i
-3\. den som bedriver verksamhet för genomförandeförordningen om certifiering
-rening eller destruktion av f-gaser. för kyl- och värmeutrustning, eller
-Trots första stycket får köldmedium 3. en anställd som har ett intyg enligt
+Det är förbjudet att leverera köldmedium
+till andra mottagare än
+1\. den som enligt denna förordning får
+fylla på f-gaser i kyl-, luftkonditionerings-
+och värmepumpsutrustning,
+2\. den som tillverkar kyl-, luftkondi-
+tionerings- och värmepumpsutrustning som
 
-som är avsett för en verksamhet för forsk- bestämmelserna i EU-förordningen om
-ning, utbildning och utveckling av kyl-, utbildning för luftkonditionering i
-luftkonditionerings- och värmepumps- motorfordon.
+innehåller f-gaser, och
+3\. den som bedriver verksamhet för
+rening eller destruktion av f-gaser.
+Trots första stycket får köldmedium
+som är avsett för en verksamhet för forsk-
+ning, utbildning och utveckling av kyl-,
+luftkonditionerings- och värmepumps-
 utrustning levereras till den som bedriver
 verksamheten. Detsamma gäller köld-
 medium som är avsett för verksamhet som
 bedrivs av Försvarsmakten, Försvarets
 materielverk eller Fortifikationsverket.
+
+F-gas för användning i en verksamhet
+enligt 17 eller 18 § får endast säljas till
+och köpas av företag som har
+1\. ett certifikat enligt kraven i artikel
+6 i genomförandeförordningen om
+certifiering för kyl- och värmeutrustning,
+2\. en anställd som har ett certifikat
+
+enligt kraven i artiklarna 3 och 4 i
+genomförandeförordningen om certifiering
+för kyl- och värmeutrustning, eller
+3\. en anställd som har ett intyg enligt
+bestämmelserna i EU-förordningen om
+utbildning för luftkonditionering i
+motorfordon.
 
 5 (80)
 
@@ -6838,7 +6952,7 @@ installerar, bygger om eller gör något annat ning av en hermetiskt sluten utru
 ingrepp i köldmediesystemet i en kyl-, luft- och
 konditionerings- eller värmepumpsutrust- 2. installation, ombyggnad eller något
 ning, ska se till att läckagekontroll utförs annat ingrepp i köldmediesystemet i en
-i samband med arbetet.   kyl-, luftkonditionerings- eller värme-
+i samband med arbetet.    kyl-, luftkonditionerings- eller värme-
 pumpsutrustning.
 Första stycket gäller inte statio- Första stycket gäller inte statio-
 när hermetiskt sluten utrustning när hermetiskt sluten utrustning
@@ -6847,17 +6961,30 @@ som innehåller mindre än 5 ton som innehåller mindre än 5 ton
 koldioxidekvivalenter f-gaser. koldioxidekvivalenter f-gas.
 
 11 §
-Den som är operatör av en mobil Den som är operatör av en mobil
-kyl-, luftkonditionerings- eller kyl-, luftkonditionerings- eller
-värmepumpsutrustning ska i fråga värmepumpsutrustning ska i fråga
-om sådan utrustning vidta de om sådan utrustning vidta de
 
-förebyggande åtgärder mot utsläpp förebyggande åtgärder mot utsläpp
-av f-gaser som anges i artikel 3.2, 3.3, av f-gas som anges i artikel 3.2, 3.3,
-4.1, 4.2, 4.3, 4.4 eller 5.1 i EU- 4.1, 4.2, 4.3, 4.4 och 5.1 i EU-
-förordningen om f-gaser även om förordningen om f-gaser, även om
-utrustningen inte omfattas av utrustningen inte omfattas av
-artikelns krav.          artikelns krav.
+Den som är operatör av en mobil
+kyl-, luftkonditionerings- eller
+värmepumpsutrustning ska i fråga
+om sådan utrustning vidta de
+förebyggande åtgärder mot utsläpp
+av f-gaser som anges i artikel 3.2, 3.3,
+4.1, 4.2, 4.3, 4.4 eller 5.1 i EU-
+
+förordningen om f-gaser även om
+utrustningen inte omfattas av
+artikelns krav.
+
+Den som är operatör av en mobil
+kyl-, luftkonditionerings- eller
+värmepumpsutrustning ska i fråga
+om sådan utrustning vidta de
+förebyggande åtgärder mot utsläpp
+av f-gas som anges i artikel 3.2, 3.3,
+4.1, 4.2, 4.3, 4.4 och 5.1 i EU-
+
+förordningen om f-gaser, även om
+utrustningen inte omfattas av
+artikelns krav.
 
 11 a §
 
@@ -6874,7 +7001,6 @@ vid överlåtelse
 
 12 a §
 Den som säljer icke-hermetiskt sluten
-
 utrustning som är påfylld med f-gas till
 slutanvändare ska dokumentera det bevis
 för att installationen kommer att utföras
@@ -6901,14 +7027,25 @@ med tillsyn.
 
 13 §
 
-Den som är operatör av en mobil Den som är operatör av en mobil
-kyl-, luftkonditionerings- eller kyl-, luftkonditionerings- eller
-värmepumpsutrustning ska i fråga värmepumpsutrustning ska i fråga
-om sådan utrustning föra register i om sådan utrustning föra register i
-enlighet med det som anges i artikel enlighet med det som anges i artikel
-6.1, 6.2 och 6.3 i EU-förordningen 6.1 och 6.2 i EU-förordningen om
-om f-gaser även om utrustningen f-gaser, även om utrustningen inte
-inte omfattas av artikelns krav. omfattas av artikelns krav.
+Den som är operatör av en mobil
+kyl-, luftkonditionerings- eller
+värmepumpsutrustning ska i fråga
+om sådan utrustning föra register i
+enlighet med det som anges i artikel
+6.1, 6.2 och 6.3 i EU-förordningen
+om f-gaser även om utrustningen
+
+inte omfattas av artikelns krav.
+
+Den som är operatör av en mobil
+kyl-, luftkonditionerings- eller
+värmepumpsutrustning ska i fråga
+om sådan utrustning föra register i
+enlighet med det som anges i artikel
+6.1 och 6.2 i EU-förordningen om
+f-gaser, även om utrustningen inte
+
+omfattas av artikelns krav.
 
 13 a §
 
@@ -6918,19 +7055,25 @@ erings- eller värmepumpsutrustning ska
 föra register i enlighet med det som anges i
 artikel 6.3 i EU-förordningen om f-gaser,
 även om utrustningen inte omfattas av
-
 artikelns krav.
 
-15 §
-Den som är operatör ska lämna en Den som är operatör för en utrustning
-rapport till tillsynsmyndigheten om det eller anläggning som under någon del
-under någon del av ett kalenderår av ett kalenderår innehåller minst 14
-finns minst 14 ton koldioxidekvi- ton koldioxidekvivalenter f-gas ska
-
-valenter i en stationär anläggning, i en lämna en rapport till tillsynsmyndigheten.
+Den som är operatör ska lämna en
+rapport till tillsynsmyndigheten om det
+under någon del av ett kalenderår
+finns minst 14 ton koldioxidekvi-
+valenter i en stationär anläggning, i en
 anläggning på ett fartyg eller i en mobil
 utrustning som omfattas av läckagekon-
+
 troll enligt 11 § eller enligt artikel 3.3
+
+15 §
+
+Den som är operatör för en utrustning
+eller anläggning som under någon del
+av ett kalenderår innehåller minst 14
+ton koldioxidekvivalenter f-gas ska
+lämna en rapport till tillsynsmyndigheten.
 
 7 (80)
 
@@ -6941,11 +7084,11 @@ ningen om f-gaser.
 Rapporten ska lämnas in senast den 31 mars året efter kalenderåret och
 vara undertecknad av operatören eller försedd med dennes elektroniska
 underskrift.
-Rapporten ska innehålla  Rapporten ska innehålla
-1\. resultatet av de      1. datum för och resultatet av de
+Rapporten ska innehålla   Rapporten ska innehålla
+1\. resultatet av de       1. datum för och resultatet av de
 
 läckagekontroller som gjorts under läckagekontroller som gjorts under
-kalenderåret,            kalenderåret,
+kalenderåret,             kalenderåret,
 2\. information om utrustning som skrotats under kalenderåret,
 3\. de uppgifter som anges i arti- 3. de uppgifter som anges i arti-
 kel 6.1 i förordningen om f-gaser, kel 6.1 i EU-förordningen om f-gaser,
@@ -6962,8 +7105,8 @@ Personal som utför en läckagekont- Personal som utför en läckage-
 roll enligt 10 eller 11 § på kyl-, luft- kontroll enligt 10 § i samband med
 konditionerings- eller värmepumpsutrust- installation eller första driftsättning av en
 ning ska ha ett personalcertifikat hermetiskt sluten utrustning som inne-
-enligt artiklarna 3 och 4 i genomför- håller mer än 5 ton koldioxidekvivalenter
 
+enligt artiklarna 3 och 4 i genomför- håller mer än 5 ton koldioxidekvivalenter
 andeförordningen om certifiering f-gas ska ha ett personalcertifikat
 för kyl- och värmeutrustning. enligt artiklarna 3 och 4 i genom-
 förandeförordningen om
@@ -6974,21 +7117,32 @@ behöver vara certifierad.
 
 17 §
 
-De krav på certifiering som anges i Personal som utför läckagekontroll,
-genomförandeförordningen om certifiering återvinning, installation eller under-
-för kyl- och värmeutrustning ska också håll av eller service på mobil utrust-
-uppfyllas av personal som utför ning som innehåller f-gas ska vara
-läckagekontroll, återvinning, instal- certifierad enligt kraven i artiklarna 3
-lation eller underhåll av eller service och 4 i genomförandeförordningen
-på mobil utrustning som innehåller om certifiering för kyl- och värmeutrust-
-f-gaser. Certifieringen ska uppfylla ning, även om EU-förordningen om
+De krav på certifiering som anges i
+genomförandeförordningen om certifiering
+för kyl- och värmeutrustning ska också
+uppfyllas av personal som utför
+läckagekontroll, återvinning, instal-
+lation eller underhåll av eller service
+på mobil utrustning som innehåller
+
+f-gaser. Certifieringen ska uppfylla
+
+Personal som utför läckagekontroll,
+återvinning, installation eller under-
+håll av eller service på mobil utrust-
+ning som innehåller f-gas ska vara
+certifierad enligt kraven i artiklarna 3
+och 4 i genomförandeförordningen
+om certifiering för kyl- och värmeutrust-
+
+ning, även om EU-förordningen om
 
 8 (80)
 
 <!-- sida 139 -->
 
 kraven i artiklarna 3 och 4 i genom- f-gaser inte innebär att personalen behöver
-förandeförordningen.     vara certifierad.
+förandeförordningen.      vara certifierad.
 Personal som omfattas av kraven i
 EU-förordningen om utbildning för
 luftkonditionering i motorfordon behöver
@@ -6998,34 +7152,47 @@ genomförandeförordningen om certifiering
 för kyl- och värmeutrustning.
 
 18 §
-De krav på certifiering som anges i Ett företag som bedriver verksam-
-genomförandeförordningen om certifiering het med läckagekontroll, återvin-
-för kyl- och värmeutrustning ska också ning, installation eller underhåll av
 
-uppfyllas av företag som bedriver eller service på mobil utrustning som
-verksamhet med läckagekontroll, innehåller f-gas ska vara certifierat enligt
-återvinning, installation eller under- kraven i artikel 6 i genomförande-
-håll av eller service på mobil utrust- förordningen om certifiering för kyl- och
-ning eller luftkonditioneringsutrustning i värmeutrustning, även om EU-
-fordon. Certifieringen ska uppfylla kra- förordningen om f-gaser inte innebär att
-ven i artikel 6 i genomförandeför- företaget behöver vara certifierat.
+De krav på certifiering som anges i
+genomförandeförordningen om certifiering
+för kyl- och värmeutrustning ska också
+uppfyllas av företag som bedriver
+verksamhet med läckagekontroll,
+återvinning, installation eller under-
+håll av eller service på mobil utrust-
+
+ning eller luftkonditioneringsutrustning i
+fordon. Certifieringen ska uppfylla kra-
+ven i artikel 6 i genomförandeför-
 ordningen.
+
+Ett företag som bedriver verksam-
+het med läckagekontroll, återvin-
+ning, installation eller underhåll av
+eller service på mobil utrustning som
+innehåller f-gas ska vara certifierat enligt
+kraven i artikel 6 i genomförande-
+förordningen om certifiering för kyl- och
+
+värmeutrustning, även om EU-
+förordningen om f-gaser inte innebär att
+företaget behöver vara certifierat.
 
 19 §
 
 För installation, service och under- För installation, service och under-
 håll av mobil luftkonditioneringsut- håll av luftkonditioneringsutrust-
 rustning i fordon är det trots 18 § ning i fordon som innehåller mindre än
-tillräckligt att         20 ton koldioxidekvivalenter f-gas, är det
+tillräckligt att          20 ton koldioxidekvivalenter f-gas, är det
 trots 17 § tillräckligt att
 1\. certifieringen avser de minimikrav på färdigheter och kunskaper
 enligt kategori I och II i bilaga I till genomförandeförordningen om
 certifiering för kyl- och värmeutrustning som är relevanta för arbetet, eller
 2\. arbetet leds av någon som är 2. i fråga om utrustning som innehål-
-
 certifierad och det finns tillgång till ler mindre än 5 ton koldioxidekvivalenter
 nödvändiga verktyg och rutiner, om köldmedier,
 utrustningen innehåller mindre än 5 ton a) arbetet leds av någon som är
+
 koldioxidekvivalenter köldmedier. certifierad enligt kraven i artiklarna 3
 och 4 i genomförandeförordningen om
 certifiering för kyl- och värmeutrustning,
@@ -7037,28 +7204,19 @@ nödvändiga verktyg och rutiner.
 
 <!-- sida 140 -->
 
-19 a §
-
-Naturvårdsverket får meddela närmare
-föreskrifter om de krav som avses i 19 §
-första stycket 1.
-
-22 §
-Ett certifikat enligt denna förordning Ett certifikat för arbete med utrustning
-ska vara utfärdat av ett som innehåller f-gas ska vara utfärdat
-
-certifieringsorgan som är av ett certifieringsorgan som
-ackrediterat för de uppgifter som 1. är ackrediterat för de uppgifter
-certifikatet gäller och har sin som certifikatet gäller, och
-certifieringsverksamhet anmäld hos 2. har anmält sin
-Naturvårdsverket.        certifieringsverksamhet hos
+Ett certifikat enligt denna förordning
+ska vara utfärdat av ett
+certifieringsorgan som är
+ackrediterat för de uppgifter som
+certifikatet gäller och har sin
+certifieringsverksamhet anmäld hos
 Naturvårdsverket.
 
 23 §
-
 Ett personalcertifikat enligt artikel 4 i
 genomförandeförordningen om certifiering
 för kyl- och värmeutrustning ska vara
+
 utfärdat av någon enligt 22 § som har
 1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
@@ -7067,23 +7225,40 @@ uppfyllda och vidta åtgärder enligt artikel
 2\. utsett ett sådant bedömningsorgan
 som avses i artiklarna 4.1 och 4.4 i
 genomförandeförordningen för den
-
 kompetens som certifikatet gäller.
 
 24 §
+
 Ett företagscertifikat enligt artikel 6 i
 genomförandeförordningen om certifiering
 för kyl- och värmeutrustning ska vara
-
 utfärdat av någon enligt 22 § som har
 1\. rutiner för att fortlöpande bevaka
 att förutsättningarna för certifikatet är
 uppfyllda och vidta åtgärder enligt artikel
 7 i genomförandeförordningen, och
+
 2\. utsett ett sådant bedömningsorgan
 som avses i artikel 8 i
 genomförandeförordningen för den
 kompetens som certifikatet gäller.
+
+19 a §
+
+Naturvårdsverket får meddela närmare
+föreskrifter om de krav som avses i 19 §
+första stycket 1.
+
+22 §
+Ett certifikat för arbete med utrustning
+
+som innehåller f-gas ska vara utfärdat
+av ett certifieringsorgan som
+1\. är ackrediterat för de uppgifter
+som certifikatet gäller, och
+2\. har anmält sin
+certifieringsverksamhet hos
+Naturvårdsverket.
 
 10 (80)
 
@@ -7107,15 +7282,16 @@ förordningen för den kompetens som
 certifikatet gäller.
 
 26 §
-Ett certifikat om sådana kunskaper och Ett certifikat enligt artikel 3 i
-färdigheter som avses i artikel 3 genomförandeförordningen om
-i genomförandeförordningen om certifiering för elektriska brytare
-certifiering för elektriska brytare ska får trots 22 § 1 utfärdas av någon som
 
-vara utfärdat av någon enligt 22 § som får utfärda personalcertifikat enligt
-1\. uppfyller kraven på opartiskhet i artikel 4 i genomförandeförordningen
-artikel 4.1 i genomförandeförordningen, om certifiering för kyl- och värmeutrust-
-2\. har kontrollerat att de förutsätt- ning.
+Ett certifikat om sådana kunskaper och
+färdigheter som avses i artikel 3
+i genomförandeförordningen om
+certifiering för elektriska brytare ska
+vara utfärdat av någon enligt 22 § som
+1\. uppfyller kraven på opartiskhet i
+artikel 4.1 i genomförandeförordningen,
+
+2\. har kontrollerat att de förutsätt-
 ningar som anges i artikel 3 i genomför-
 andeförordningen är uppfyllda, och
 3\. har rutiner för att fortlöpande
@@ -7123,16 +7299,26 @@ bevaka att förutsättningarna för
 certifikatet är uppfyllda och vidta åtgärder
 enligt artikel 4.2 i
 genomförandeförordningen.
-Certifieringsorganet ska utse det
 
+Ett certifikat enligt artikel 3 i
+genomförandeförordningen om
+certifiering för elektriska brytare
+får trots 22 § 1 utfärdas av någon som
+får utfärda personalcertifikat enligt
+artikel 4 i genomförandeförordningen
+om certifiering för kyl- och värmeutrust-
+
+ning.
+
+Certifieringsorganet ska utse det
 bedömningsorgan som ska anordna
 prov för certifieringen.
 
 27 §
+
 Ett företagscertifikat enligt 24 eller Ett företagscertifikat enligt artikel 6
 25 § får inte vara äldre än fem år. i genomförandeförordningen om certifiering
 för kyl- och värmeutrustning eller artikel
-
 8 i EU-förordningen om certifiering för
 brandskyddssystem får inte vara äldre
 än fem år.
@@ -7154,21 +7340,29 @@ till den angivna EU-förordningen
 inte avse en examination som är
 äldre än fem år.
 
+Ett intyg enligt denna förordning ska
+vara utfärdat av ett certifierings-
+organ som har ackrediterats för att
+utfärda personalcertifikat enligt 23
+eller 25 § och yrkesmässigt bedriver en
+intygsverksamhet som är anmäld hos
+Naturvårdsverket.
+
 29 §
 
-Ett intyg enligt denna förordning ska Ett intyg om sådana kunskaper och fär-
-vara utfärdat av ett certifierings- digheter som fastställs i bilagan till EU-
-organ som har ackrediterats för att förordningen om utbildning för luftkondi-
-utfärda personalcertifikat enligt 23 tionering i motorfordon ska vara utfär-
-eller 25 § och yrkesmässigt bedriver en dat av ett certifieringsorgan som
-intygsverksamhet som är anmäld hos 1. är ackrediterat för att utfärda
-Naturvårdsverket.        personalcertifikat
-
+Ett intyg om sådana kunskaper och fär-
+digheter som fastställs i bilagan till EU-
+förordningen om utbildning för luftkondi-
+tionering i motorfordon ska vara utfär-
+dat av ett certifieringsorgan som
+1\. är ackrediterat för att utfärda
+personalcertifikat
 a) för de uppgifter som intyget gäller,
 b) enligt artikel 4 i genomförande-
 förordningen om certifiering för kyl- och
 värmeutrustning,
 c) enligt de krav som avses i 19 §
+
 första stycket 1, eller
 d) enligt artikel 5 i EU-förordningen
 om certifiering för brandskyddssystem, och
@@ -7198,29 +7392,36 @@ med utrustning som innehåller f-gas ska
 utse det bedömningsorgan som ska
 anordna prov för certifieringen.
 
-31 §
-Ackreditering enligt 22 § första Ackreditering enligt 22 § ska vara
-stycket ska vara gjord av Styrelsen gjord av Styrelsen för ackreditering
-för ackreditering och teknisk och teknisk kontroll enligt förord-
-kontroll enligt förordning (EG) nr ning (EG) nr 765/2008 och lagen
-765/2008 och lagen (2011:791) om (2011:791) om ackreditering och
+Ackreditering enligt 22 § första
+stycket ska vara gjord av Styrelsen
+för ackreditering och teknisk
+kontroll enligt förordning (EG) nr
+765/2008 och lagen (2011:791) om
+ackreditering och teknisk kontroll.
 
-ackreditering och teknisk kontroll. teknisk kontroll.
+31 §
+
+Ackreditering enligt 22 § ska vara
+gjord av Styrelsen för ackreditering
+och teknisk kontroll enligt förord-
+ning (EG) nr 765/2008 och lagen
+(2011:791) om ackreditering och
+teknisk kontroll.
 
 34 §
+
 Bestämmelserna i 22–30 §§ gäller Bestämmelserna i 22–29 §§ gäller
 inte om certifikatet eller intyget inte om certifikatet eller intyget
 1\. har utfärdats i ett annat land i Europeiska unionen eller Europeiska
 ekonomiska samarbetsområdet och enligt det landets bestämmelser
-
 uppfyller kraven i de angivna EU-förordningarna eller
 genomförandeförordningarna, och
 2\. visas upp i översättning till svenska.
 
 43 §
+
 Kravet på drift- och skötselinstruk- Kravet på drift- och skötselinstruk-
 tioner i 8 § första stycket, kravet på tioner i 8 § första stycket gäller inte
-
 läckagekontroll i 10 §, åtgärdsskyl- kyl-, luftkonditionerings- och
 digheten i 11 §, registerkravet i 13 §, värmepumpsutrustning som innehåller
 underrättelseskyldigheten i 14 §, f-gas och som enbart används för
@@ -7231,6 +7432,7 @@ pumpsutrustningar som innehåller f- läckagekontroll i 10 §, åtgärds-
 gaser och som enbart används för skyldigheten i 11 och 11 a §§,
 forskning, utbildning och utveckling registerkravet i 13 §, underrättelse-
 inom kyl- och värmeområdet. skyldigheten i 14 § och
+
 rapporteringskravet i 15 §.
 
 Denna förordning träder i kraft den 1 juli 2022.
@@ -7292,11 +7494,11 @@ Regeringen föreskriver i fråga om förordningen (2012:259) om miljö-
 sanktionsavgifter
 dels att 9 kap. 17 § ska betecknas 9 kap. 17 b §
 dels att 9 kap. 4, 6 och 21 §§ ska ha följande lydelse,
-dels att det ska införas sju nya paragrafer, 9 kap. 1 a, 4 a, 4 b och 17–
 
+dels att det ska införas sju nya paragrafer, 9 kap. 1 a, 4 a, 4 b och 17–
 17 c §§.
 
-Nuvarande lydelse        Föreslagen lydelse
+Nuvarande lydelse         Föreslagen lydelse
 
 9 kap.
 
@@ -7304,9 +7506,9 @@ Nuvarande lydelse        Föreslagen lydelse
 För en överträdelse av artikel 3.4 i förord-
 ning (EU) nr 517/2014 genom att inte
 inneha ett föreskrivet certifikat ska en
-
 miljösanktionsavgift betalas
 1\. med 3 000 kronor, om den som är
+
 skyldig att betala avgiften är en fysisk
 person eller en ideell förening, och
 2\. med 10 000 kronor, om den som
@@ -7314,19 +7516,27 @@ person eller en ideell förening, och
 juridisk person som inte är en ideell
 förening.
 
+För en överträdelse av artikel 11.4
+eller 11.5 i förordning (EU) nr
+517/2014 genom att inte uppfylla
+föreskrivna krav på certifiering eller intyg
+ska en miljösanktionsavgift betalas
+med 5 000 kronor.
+
 4 §1
 
-För en överträdelse av artikel 11.4 För en överträdelse av artikel 11.4
-eller 11.5 i förordning (EU) nr i förordning (EU) nr 517/2014
-517/2014 genom att inte uppfylla genom att sälja fluorerad växthusgas till
-föreskrivna krav på certifiering eller intyg någon annan än ett företag som innehar
-ska en miljösanktionsavgift betalas ett föreskrivet certifikat eller intyg eller har
-med 5 000 kronor.        anställda som innehar föreskrivet
+För en överträdelse av artikel 11.4
+i förordning (EU) nr 517/2014
+genom att sälja fluorerad växthusgas till
+någon annan än ett företag som innehar
+ett föreskrivet certifikat eller intyg eller har
+anställda som innehar föreskrivet
 certifikat eller utbildningsintyg ska en
 miljösanktionsavgift betalas med
 5 000 kronor.
 
 4 a §
+
 För en överträdelse av artikel 11.4 i
 förordning (EU) nr 517/2014 genom att
 

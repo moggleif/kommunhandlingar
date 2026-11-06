@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b900193d/17924801464
 sha256: 9eee2a3dcc32e13f71c7a847b923eceaf2e7b8aeaacd117d167deb7cf744dd09
 bytes: 7088473
 sidor: 700
-hamtad: 2026-10-23T06:12:06+00:00
-konverterad: 2026-10-23T06:13:42+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T12:37:41+00:00
+konverterad: 2026-11-06T12:39:37+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2493,11 +2493,10 @@ takterna med vårdnadshavaren när
 
 <!-- sida 63 -->
 
-Författningsförslag                        SOU 2026:8
+Författningsförslag                         SOU 2026:8
 
 ett barn vårdas utanför det egna
 hemmet.
-
 Socialsekreteraren ansvarar för
 att vårdnadshavaren får råd, stöd
 och annan hjälp enligt 22 kap. 10 §.
@@ -2505,19 +2504,35 @@ och annan hjälp enligt 22 kap. 10 §.
 23 kap.
 1 §
 När en utredning som gäller När en utredning som gäller
-ett barns behov av skydd eller ett barns behov av skydd eller
-stöd har avslutats utan beslut om stöd har avslutats utan beslut om
-insats, kan socialnämnden besluta insats, ska socialnämnden över-
-om uppföljning av barnets situ- väga att besluta om uppföljning
-ation. Ett sådant beslut får fattas av barnets situation. Ett sådant
-utan vårdnadshavarens och bar- beslut får fattas utan vårdnads-
-nets samtycke, om barnet be- havarens och barnets samtycke,
-döms vara i särskilt behov av om barnet bedöms vara i särskilt
-nämndens skydd eller stöd utan behov av nämndens skydd eller
-att förhållandena är sådana som stöd och samtycke till insats saknas,
-avses i lagen (1990:52) med sär- utan att förhållandena är sådana
-skilda bestämmelser om vård av som avses i lagen (1990:52) med
-unga.                 särskilda bestämmelser om vård
+
+ett barns behov av skydd eller
+stöd har avslutats utan beslut om
+insats, kan socialnämnden besluta
+om uppföljning av barnets situ-
+ation. Ett sådant beslut får fattas
+utan vårdnadshavarens och bar-
+nets samtycke, om barnet be-
+döms vara i särskilt behov av
+nämndens skydd eller stöd utan
+att förhållandena är sådana som
+avses i lagen (1990:52) med sär-
+skilda bestämmelser om vård av
+unga.
+
+ett barns behov av skydd eller
+stöd har avslutats utan beslut om
+insats, ska socialnämnden över-
+väga att besluta om uppföljning
+av barnets situation. Ett sådant
+beslut får fattas utan vårdnads-
+havarens och barnets samtycke,
+om barnet bedöms vara i särskilt
+behov av nämndens skydd eller
+stöd och samtycke till insats saknas,
+utan att förhållandena är sådana
+som avses i lagen (1990:52) med
+särskilda bestämmelser om vård
+
 av unga.
 
 2 §
@@ -2525,7 +2540,6 @@ När placeringen av ett barn i När placeringen av ett barn i
 ett familjehem, skyddat boende ett familjehem, skyddat boende
 eller hem för vård eller boende eller hem för vård eller boende,
 har upphört, kan socialnämnden eller andra omfattande insatser till
-
 besluta om uppföljning av bar- skydd och stöd för ett barn har
 nets situation. Ett sådant beslut upphört oplanerat, ska social-
 får fattas utan vårdnadshavarens nämnden överväga att besluta om
@@ -2533,6 +2547,7 @@ eller barnets samtycke, om bar- uppföljning av barnets situation.
 net bedöms vara i särskilt behov Ett sådant beslut får fattas utan
 av nämndens skydd eller stöd vårdnadshavarens eller barnets
 utan att förhållandena är sådana samtycke, om barnet bedöms vara
+
 som avses i lagen (1990:52) med i särskilt behov av nämndens
 särskilda bestämmelser om vård skydd eller stöd och samtycke till
 av unga.              insats saknas, utan att förhållan-

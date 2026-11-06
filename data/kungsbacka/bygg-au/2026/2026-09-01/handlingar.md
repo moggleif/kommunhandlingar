@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5e2c84351a01f5efca7ae074/1787734006
 sha256: a3494cca6e21af975c9be36b69d844804e713e650762976a7b3f365e26674d0f
 bytes: 29060964
 sidor: 149
-hamtad: 2026-10-23T08:56:38+00:00
-konverterad: 2026-10-23T08:57:37+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T10:42:16+00:00
+konverterad: 2026-11-06T10:43:14+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5513,9 +5513,10 @@ Antagandehandling                                          25 (25)
 
 PLANBESTÄMMELSER
 
-Följande gäller inom områden   med  nedanstående  beteckningar. Endast
-angiven  användning  och utformning är tillåten. Där beteckning saknas
-gäller bestämmelsen   inom hela området.
+Följande gäller inom områden  med  nedanstående   beteckningar. Endast
+angiven användning   och utformning är tillåten. Där beteckning saknas
+
+gäller bestämmelsen  inom  hela området.
 
 GRÄNSER
 
@@ -5539,38 +5540,48 @@ EGENSKAPSBESTÄMMELSER                   FÖR    ALL
 
 KVARTERSMARK
 
-Upphävande      av strandskydd
+Upphävande     av  strandskydd
 
 Strandskyddet  är upphävt.
 
-EGENSKAPSBESTÄMMELSER                    FÖR   ALLMÄN      PLATS
+EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN      PLATS
 
-Avgränsad     via  egenskapsgräns       och  användningsgräns
+Avgränsad     via egenskapsgräns        och  användningsgräns
 
-Upphävande      av strandskydd
+Upphävande     av  strandskydd
 
 Strandskyddet  är upphävt.
 
-EGENSKAPSBESTÄMMELSER                    FÖR   KVARTERSMARK
-Avgränsad     via  egenskapsgräns       och  användningsgräns
-
-Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                                                                    Begränsning    av  markens    utnyttjande
-
+Detaljplanen är baserad på koordinatsystemet SWEREF 99
 1200 och höjdsystemet RH 2000
 Skala 1:500 i A1, skala 1:1000 i A3
+
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2026-05-29
+
+Registernummer, tomtnummer                    Vägbana
+Höjdpunkt                                     Bostadshus fasad, resp. tak
+
+Traktnamn, kvartersnamn                       Uthus fasad, resp. tak
+
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+
+Avgränsad     via egenskapsgräns        och  användningsgräns
+
+Begränsning    av  markens   utnyttjande
+
 Marken  får inte förses med byggnad.
-TECKENFÖRKLARING     KARTDATA       Aktualitetsdatum: 2026-05-29
+
 Stängsel,   utfart och annan   utgång
-Registernummer, tomtnummer                   Vägbana
+
 Utfartsförbud.
-Höjdpunkt                                    Bostadshus fasad, resp. tak
-Traktnamn, kvartersnamn                      Uthus fasad, resp. tak
+
 Fastighetsgräns                              Skärmtak                                                                                                                                                                    GENOMFÖRANDETID
+
 Höjdkurva 1,0 m
 Genomförandetiden    är 5 år.
 Höjdkurva 5,0 m
 
-Del     av     plankarta,             skala        1:250         i
+Del      av    plankarta,             skala        1:250         i
 Skällared      3:45
 
 A1
@@ -5579,22 +5590,24 @@ Skällared      3:88
 
 Skällared      2:8
 
-ORIENTERINGSKARTA                                 Detaljplan   för  del av
+ORIENTERINGSKARTA                                  Detaljplan   för del  av
+
 Antagandehandling
-Gottskärsvägen       inom
+Gottskärsvägen      inom
 
 Instans
 Skällared  s:5 m  fl.
-i Onsala                                                  BN § 11
+i Onsala                                                   BN § 11
 
-Kungsbacka    kommun
+Kungsbacka     kommun
 Tjm
+
 Upprättad 2026-08-18                                       BN § xxx
 
 Plankostnads-
 Ida Lennartsson
 avtal
-Verksamhetschef Plan                                        Nej
+Verksamhetschef Plan                                       Nej
 PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med standardförfarande
 

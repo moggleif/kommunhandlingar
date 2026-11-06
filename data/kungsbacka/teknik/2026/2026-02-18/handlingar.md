@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4dbd19e519c47bd57e654e57/1770969052
 sha256: b4df77ccd1793a66a5f03b3dae9bd9ae51d53a1ddb4745f7e07e44b75ee76c54
 bytes: 44998633
 sidor: 312
-hamtad: 2026-10-23T09:50:49+00:00
-konverterad: 2026-10-23T09:57:42+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T11:38:31+00:00
+konverterad: 2026-11-06T11:45:38+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok]
@@ -7242,18 +7242,27 @@ All kvartersmark
 <!-- sida 200 -->
 
 Bestämmelserna gäller all kvartersmark och saknar beteckning i plankartan
-Placering
 
-Byggnad ska placeras minst 4,0 Syftar till att säkerställa utrymme
-meter från fastighetsgräns mellan byggnadskroppar över
-alternativt sammanbyggas i fastighetsgränser för att förhindra
-fastighetsgräns.      brandspridning. Planbestämmelsen
+Placering
+Byggnad ska placeras minst 4,0
+meter från fastighetsgräns
+alternativt sammanbyggas i
+fastighetsgräns.
+
+Byggnadsverk ska placeras minst
+15 meter från Almedalsvägen.
+
+Syftar till att säkerställa utrymme
+mellan byggnadskroppar över
+fastighetsgränser för att förhindra
+brandspridning. Planbestämmelsen
 syftar även till att säkerställa att
 byggnader kan sammanbyggas för att
 möjliggöra en ändamålsenlig byggnad
 inom fastigheten/fastigheterna.
-Byggnadsverk ska placeras minst Bestämmelsen syftar till att hålla ett
-15 meter från Almedalsvägen. område fritt från bebyggelse utmed
+
+Bestämmelsen syftar till att hålla ett
+område fritt från bebyggelse utmed
 Almedalsvägen, eftersom den är en
 transportled för farligt gods.
 
@@ -7267,6 +7276,7 @@ För etablering på ett avstånd av Syftar till att säkerställa
 15-30 meter ifrån Almedalsvägen riskreducerande åtgärder om byggnad
 vägkant ska åtgärder införas som uppförs inom riskområde. Exempel på
 förhindrar mekanisk konflikt. åtgärder
+
 Vid all byggnation inom 60 meter Syftar till att säkerställa
 från Almedalsvägens vägkant ska riskreducerande åtgärder om byggnad
 området i så stor utsträckning som uppförs inom riskområde.
@@ -10864,75 +10874,70 @@ Granskningshandling
 <!-- sida 288 -->
 
 PLANBESTÄMMELSER
-EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN      PLATS
-Avgränsad     via egenskapsgräns       och   användningsgräns
-Följande gäller inom områden   med  nedanstående   beteckningar. Endast
+EGENSKAPSBESTÄMMELSER                   FÖR   ALLMÄN       PLATS
+
+Avgränsad     via egenskapsgräns       och  användningsgräns
+Följande gäller inom områden  med   nedanstående  beteckningar.  Endast
 angiven  användning  och utformning är tillåten. Där beteckning saknas
 Utformning   av allmän   plats
-gäller bestämmelsen   inom hela området.
+gäller bestämmelsen  inom  hela området.
 Damm   för omhändertagande   av dagvatten  ska finnas.
 GRÄNSER
-
-EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+EGENSKAPSBESTÄMMELSER                   FÖR   KVARTERSMARK
 Planområdesgräns.
-Avgränsad     via egenskapsgräns       och   användningsgräns
+Avgränsad     via egenskapsgräns       och  användningsgräns
 Användningsgräns.
 Begränsning    av markens    utnyttjande
+
 Egenskapsgräns.
 Marken  får inte förses med byggnad.
 
 Illustrationsgräns.
-Höjd  på byggnadsverk
-Högsta nockhöjd  på 30 %  av byggnadsarean   är +49 meter
-ANVÄNDNING         AV   MARK
-över angivet nollplan .
-Allmän   platsmark
-Högsta nockhöjd  på 70 %  av byggnadsarean   är +45 meter
-Lokalgata.                                                                  över angivet nollplan.
 
-Högsta nockhöjd  är 30 meter.
+ANVÄNDNING         AV   MARK
+
+Allmän   platsmark
+
+Lokalgata.
+
 Natur.
 
-Markens   anordnande     och  vegetation
 Väg.
-Markens  höjd får inte vara lägre än +13,8 meter över
-Kvartersmark                                                                             nollplanet.
 
-Industri.                                                      Markreservat   för allmännyttiga   ändamål
+Kvartersmark
 
-Markreservat för allmännyttiga underjordiska ledningar.
+Industri.
+
 Lager.
 
-Markreservat   för gemensamhetsanläggningar
 Tekniska  anläggningar.
-Markreservat för gemensamhetsanläggning.
+
 Logistik.
-Skydd   mot  störningar
 
-EGENSKAPSBESTÄMMELSER                   FÖR    ALL                                       Erforderlig anläggning för dagvatten ska utföras så att
+EGENSKAPSBESTÄMMELSER                   FÖR    ALL
 
-tillbörlig markstabilitet bibehålls.
 KVARTERSMARK
-Ytan ska vara tillgänglig för hantering av skyfall.
+
 Placering
-Byggnadsverk   ska placeras minst 15 meter  från Almedalsvägen.             Utformning
+
+Byggnadsverk   ska placeras minst 15 meter  från Almedalsvägen.
 
 Byggnad   ska placeras minst 2 meter från fastighetsgräns.
-Byggnadens   fasadfärg ska anpassas  till omgivningen.
+
 Skydd   mot  störningar
-Utförande
-För alla byggnader  inom 50 meter  från Almedalsvägens  vägkant  ska minst
-Tak på huvudbyggnad   ska utformas  så att dagvatten avrinner
+
+För alla byggnader inom  50 meter från Almedalsvägens   vägkant ska  minst
 en utrymmningsväg   finnas som  inte vetter mot Almedalsvägen.
-i riktning mot det rätade diket i nordvästra plangränsen.
+
 För etablering på ett avstånd av 15-30 meter ifrån Almedalsvägen  vägkant
-ska åtgärder införas som  förhindrar mekanisk konflikt.
-Vid all byggnation inom 60 meter  från Almedalsvägens  vägkant  ska         GENOMFÖRANDETID
 
-området  i så stor utsträckning som möjligt utformas på ett sätt som        Genomförandetiden   är 5 år.
+ska åtgärder införas som förhindrar mekanisk  konflikt.
+
+Vid all byggnation inom 60 meter från Almedalsvägens   vägkant ska
+området  i så stor utsträckning som möjligt utformas på ett sätt som
+
 motverkar  spridning av vätska in på området.
-
-Vid all byggnation inom 60 meter  från Almedalsvägens  vägkant  ska
+Vid all byggnation inom 60 meter från Almedalsvägens   vägkant ska
 
 sidoområdet  längs med  vägen  utformas på ett sätt som begränsar
 konsekvensen   av ett avåkande  fordon. På detta sätt minskas risken för
@@ -10941,45 +10946,92 @@ punktering av tank.
 
 Utförande
 
-Fasad  som  vetter mot Almedalsvägen  ska  inom ett avstånd av 30 - 50
+Fasad  som  vetter mot Almedalsvägen  ska inom  ett avstånd av 30 - 50
 meter från Almedalsvägens   vägbana  utformas  i obrännbart material.
 
 Fasad,  inklusive dörrar och fönster, som vetter mot Almedalsvägen, ska
-inom  ett avstånd av 15 - 30 meter från Almedalsvägens  vägkant, motsvara
 
-brandteknisk  klass EI30.
+inom  ett avstånd av 15 - 30 meter från Almedalsvägens  vägkant, motsvara
+brandteknisk klass EI30.
+
+Höjd  på  byggnadsverk
+
+Högsta  nockhöjd  på 30 % av byggnadsarean    är +49 meter
+
+över angivet nollplan .
+Högsta  nockhöjd  på 70 % av byggnadsarean    är +45 meter
+
+över angivet nollplan.
+
+Högsta  nockhöjd  är 30 meter.
+
+Markens    anordnande    och  vegetation
+
+Markens  höjd får inte vara lägre än +13,8 meter över
+
+nollplanet.
+
+Markreservat    för allmännyttiga   ändamål
+
+Markreservat  för allmännyttiga underjordiska ledningar.
+
+Markreservat    för gemensamhetsanläggningar
+
+Markreservat  för gemensamhetsanläggning.
+
+Skydd   mot  störningar
+
+Erforderlig anläggning för dagvatten ska utföras så att
+tillbörlig markstabilitet bibehålls.
+
+Ytan ska vara  tillgänglig för hantering av skyfall.
+
+Utformning
+
+Byggnadens   fasadfärg ska anpassas   till omgivningen.
+
+Utförande
+
+Tak på huvudbyggnad    ska utformas så att dagvatten avrinner
+
+i riktning mot det rätade diket i nordvästra plangränsen.
+
+GENOMFÖRANDETID
+
+Genomförandetiden    är 5 år.
 
 Utnyttjandegrad
 
 Största byggnadsarea   är 60 % av fastighetsarean inom
+
 användningsområdet.
 
 Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                         ORIENTERINGSKARTA
-1200 och höjdsystemet RH 2000                                                                                                                                                                    Detaljplan   för verksamheter      inom    Granskningshandling
+1200 och höjdsystemet RH 2000                                                                                                                                                                    Detaljplan   för verksamheter      inom     Granskningshandling
 Skala 1:3000 i A1, skala 1:6000 i A3
 
-TECKENFÖRKLARING     KARTDATA       Aktualitetsdatum: 2025-11-27
-Beslutsdatum   Instans
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak                                                                                                                                                          Frillesås-Rya  3:77 m.fl.
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-11-27
+Beslutsdatum  Instans
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak                                                                                                                                                         Frillesås-Rya  3:77  m.fl.
 Samråd
 BN § 241
-Fastighetsgräns                              Uthus fasad, resp. tak                                                                                                                                                               i Frillesås                                    2020-10-22
+Fastighetsgräns                               Uthus fasad, resp. tak                                                                                                                                                              i Frillesås                                     2020-10-22
 Granskning 1
-Gång- och cykelbana                          Skärmtak                                                                                                                                                                             Kungsbacka    kommun                                      BN § 204
+Gång- och cykelbana                           Skärmtak                                                                                                                                                                            Kungsbacka    kommun                                      BN § 204
 2021-07-08
-Höjdkurva 1,0 m                                                                                                                                                                                                                                                                  Granskning 2
+Höjdkurva 1,0 m                                                                                                                                                                                                                                                                   Granskning 2
 BN § xxx
-Upprättad 2025-11-04, rev 2025-12-01           2025-12-11
+Upprättad 2025-11-04,  rev 2025-12-01           2025-12-11
 Höjdkurva 5,0 m
 Antagande
 KF § xxx
 Vägbana                                                                                                                                                                                                                                                                          xxxx-xx-xx
 Laga kraft
 xxxx-xx-xx
-Ida Lennartsson             Johanna Vinterhav
+Ida Lennartsson            Johanna Vinterhav
 Diarienummer Plankostnadsavtal
-Verksamhetschef Plan        Planarkitekt        2024-00196 Nej
-PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
+Verksamhetschef Plan       Planarkitekt        2024-00196 Nej
+PLANKARTA             Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med utökat förfarande
 
 <!-- sida 289 -->

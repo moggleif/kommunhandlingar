@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.342d4f8619eb49a8271f17/178116242972
 sha256: 0a2e45c1010883a47da85ac83041ed1e7038716a2e84af68d9434047fb2dca85
 bytes: 10542103
 sidor: 215
-hamtad: 2026-10-23T06:51:03+00:00
-konverterad: 2026-10-23T06:51:36+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:31:05+00:00
+konverterad: 2026-11-06T08:31:44+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4385,81 +4385,109 @@ D      031-743 60 00                              www.goteborgstingsratt.domstol
 
 <!-- sida 106 -->
 
-GÖTEBORGS  TINGSRÄTT                                             Mål T 627-26
+GÖTEBORGS  TINGSRÄTT                                            Mål T 627-26
 
 Bifogade informationsblad: Information om förenklad delgivning och E-tjänst för att signera
 o skicka handlingar digitalt (TR)
 
-Upplysningar  stämning i tvistemål (dispositivt)
+Upplysningar stämning i tvistemål (dispositivt)
 
-Här följer förklaring av några vanliga begrepp i tviste- Bevisning
-mål, samt en del annan information som är bra att För att bevisa att det som du har beskrivit stämmer kan
-känna till i det här skedet av målet. du skicka in exempelvis skriftliga handlingar eller foton.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Du kan också begära att någon ska höras som vittne.
+Här följer förklaring av några vanliga begrepp i tviste-
+mål, samt en del annan information som är bra att
+känna till i det här skedet av målet.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Tänk på att alltid förklara vad du vill visa med varje
 Bekräfta att du tagit emot stämningen
-bevis (till exempel att du och svaranden kommit
 Det är viktigt att du så snart som möjligt bekräftar för
-överens om ett visst pris för en beställd vara).
 domstolen att du tagit emot stämningen.
-Skriftliga bevis: Tala om vilka handlingar i målet som
-Parterna i ett tvistemål              du lägger fram som bevis. Skicka in handling-arna till
-Kärande kallas den som framför krav av något slag, domstolen, om de inte redan finns i målet.
+
+Parterna i ett tvistemål
+Kärande kallas den som framför krav av något slag,
 till exempel att få betalt för en vara. Den som kravet
-riktas mot kallas svarande.           Muntliga bevis: Lämna namn och aktuella kontakt-
-uppgifter till den som ska vittna (adress, e-post,
-telefon). Tala också om vilken händelse eller vilket
+riktas mot kallas svarande.
+
 Tredskodom
-tillfälle som förhöret ska handla om.
 Om det kan bli aktuellt med tredskodom står det på
 första sidan. En tredskodom innebär att man förlorar
-Mer omfattande bevismaterial (exempelvis pärmar med
 målet för att man inte medverkar i rättegången.
-dokument) och bevisning på usb/cd, bör lämnas i ett
-Domstolen kan meddela en tredskodom om du inte exemplar för domstolens bruk och ett för varje motpart.
+
+Domstolen kan meddela en tredskodom om du inte
 lämnar ett motiverat skriftligt svar i rätt tid, eller om
-de skäl du uppger inte är relevanta för domstolens Rättegångskostnader
-bedömning.                            Den part som förlorar ett tvistemål ska i de flesta fall
-betala motpartens rättegångskostnader, så som ansök-
+de skäl du uppger inte är relevanta för domstolens
+bedömning.
+
 En tredskodom kan meddelas omedelbart efter det att
-ningsavgifter eller kostnader för ombud. En part som
 svarstiden har löpt ut och käranden, om det behövs,
-vill få ersättning för rättegångskostnader måste begära
 har beretts tillfälle att slutföra sin talan.
-det särskilt innan huvudförhandlingen avslutas.
+
 En tredskodom kan medföra en betalningsanmär-
-Om målnumret inleds med FT är målet ett så kallat
 kning hos kreditupplysningsföretagen. Det är inget
-förenklat tvistemål. Det är mål som rör högst ett halvt
 som domstolen styr över. Läs mer hos Integritets-
-prisbasbelopp (aktuellt belopp hos Statistiska central-
 skyddsmyndigheten, imy.se.
-byrån, scb.se). Möjligheten att få ersättning för rätte-
-gångskostnader är då begränsad.
+
 Skriftligt fordringsbevis
 Om kärandens talan grundar sig på ett skriftligt
-Förlikning
 fordringsbevis gäller särskilda regler. Det framgår på
-Parterna kan när som helst under rättegången ingå en
 första sidan om det gäller i ditt fall.
-förlikning. Det innebär att parterna kommer överens om
-en lösning i stället för att domstolen prövar tvisten. Om
 Vid skriftligt fordringsbevis kan domstolen i regel
-parterna kommer överens ska käranden meddela
 meddela tredskodom även om du lämnat ett motiv-
-domstolen. I de flesta fall kan domstolen då fastställa
 erat svar, ifall domstolen anser att du inte har visat
-förlikningen i en dom, om parterna begär det.
 sannolika skäl för din inställning. Undantaget är om
 du enligt ett avtal har rätt till en motprestation av
-käranden, till exempel att få ut en köpt vara. Om du Vill du veta mer?
-då gör invändning om en sådan motprestation behöv- Läs mer på www.goteborgstingsratt.domstol.se.
+käranden, till exempel att få ut en köpt vara. Om du
+då gör invändning om en sådan motprestation behöv-
 er du inte visa sannolika skäl, utan då räcker det med
-Om du behöver rättslig hjälp i tvisten bör du kontakta
 ett motiverat svar.
+
+Bevisning
+För att bevisa att det som du har beskrivit stämmer kan
+du skicka in exempelvis skriftliga handlingar eller foton.
+Du kan också begära att någon ska höras som vittne.
+
+Tänk på att alltid förklara vad du vill visa med varje
+bevis (till exempel att du och svaranden kommit
+överens om ett visst pris för en beställd vara).
+Skriftliga bevis: Tala om vilka handlingar i målet som
+du lägger fram som bevis. Skicka in handling-arna till
+domstolen, om de inte redan finns i målet.
+
+Muntliga bevis: Lämna namn och aktuella kontakt-
+uppgifter till den som ska vittna (adress, e-post,
+telefon). Tala också om vilken händelse eller vilket
+tillfälle som förhöret ska handla om.
+
+Mer omfattande bevismaterial (exempelvis pärmar med
+dokument) och bevisning på usb/cd, bör lämnas i ett
+exemplar för domstolens bruk och ett för varje motpart.
+
+Rättegångskostnader
+Den part som förlorar ett tvistemål ska i de flesta fall
+betala motpartens rättegångskostnader, så som ansök-
+ningsavgifter eller kostnader för ombud. En part som
+vill få ersättning för rättegångskostnader måste begära
+det särskilt innan huvudförhandlingen avslutas.
+
+Om målnumret inleds med FT är målet ett så kallat
+förenklat tvistemål. Det är mål som rör högst ett halvt
+prisbasbelopp (aktuellt belopp hos Statistiska central-
+byrån, scb.se). Möjligheten att få ersättning för rätte-
+gångskostnader är då begränsad.
+
+Förlikning
+Parterna kan när som helst under rättegången ingå en
+förlikning. Det innebär att parterna kommer överens om
+en lösning i stället för att domstolen prövar tvisten. Om
+parterna kommer överens ska käranden meddela
+domstolen. I de flesta fall kan domstolen då fastställa
+förlikningen i en dom, om parterna begär det.
+
+Vill du veta mer?
+Läs mer på www.goteborgstingsratt.domstol.se.
+
+Om du behöver rättslig hjälp i tvisten bör du kontakta
 en advokat eller annan jurist. Domstolen får inte lämna
 juridisk rådgivning.
+
 Dok.Id 3375950                                                    Sida 2 (av 2)
 
 <!-- sida 107 -->
@@ -8899,19 +8927,29 @@ Sida 101 av 101
 E-tjänst för att signera och skicka handlingar digitalt
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-På domstol.se finns en e-tjänst för att digitalt Dokumenten måste vara av PDF-format och
-signera och skicka in handlingar till domstolar får inte sammanlagt överstiga 20 MB.
+På domstol.se finns en e-tjänst för att digitalt
+signera och skicka in handlingar till domstolar
 och nämnder i Sveriges Domstolar.
-När du loggat in i e-tjänsten väljer du den
-tjänst ditt ärende gäller och bifogar sedan de
-Vad kan jag använda tjänsten till? dokument du vill skicka in.
+
+Vad kan jag använda tjänsten till?
 Via e-tjänsten är det möjligt att signera och
-När du skickat in handlingarna får du en
 skicka in:
-bekräftelse till den e-postadress du angett.
+
 • olika ansökningshandlingar
 • fullmakt
+
 • övriga handlingar i pågående mål
+
+Dokumenten måste vara av PDF-format och
+får inte sammanlagt överstiga 20 MB.
+
+När du loggat in i e-tjänsten väljer du den
+tjänst ditt ärende gäller och bifogar sedan de
+dokument du vill skicka in.
+
+När du skickat in handlingarna får du en
+bekräftelse till den e-postadress du angett.
+
 Genom att använda e-tjänsten behöver du inte
 längre skicka sådana handlingar som ska vara
 undertecknade med post.
@@ -8920,9 +8958,8 @@ undertecknade med post.
 4-
 2
 0 2    Om det är en ansökan eller fullmakt som
-g n
 •
-behöver signeras kan flera personer använda e-
+g n    behöver signeras kan flera personer använda e-
 ilk
 cev    tjänsten och signera handlingen.
 tu

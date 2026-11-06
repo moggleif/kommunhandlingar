@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f92b1d1/1749806738
 sha256: e93982bc60a03eb778eee2469010b71cc59ec2b68ea4cfe66c304964a5bf45d7
 bytes: 41611983
 sidor: 407
-hamtad: 2026-10-23T09:31:55+00:00
-konverterad: 2026-10-23T09:35:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T11:19:00+00:00
+konverterad: 2026-11-06T11:22:58+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -11562,86 +11562,75 @@ Lantmäteriet, (e-post borttagen)
 
 <!-- sida 307 -->
 
-PLANBESTÄMMELSER                                                            Skydd   mot  störningar
+PLANBESTÄMMELSER
 
-Fasader  som vetter mot järnvägen  ska utformas i obrännbart
-Följande gäller inom områden   med  nedanstående  beteckningar. Endast
-material. Luftintag placeras högt och på fasad som vetter bort
+Följande gäller inom områden  med  nedanstående   beteckningar. Endast
 angiven  användning  och utformning är tillåten. Där beteckning saknas
-från järnvägen.
-gäller bestämmelsen   inom hela området.
-Utrymning  ska vara möjlig bort från Västkustbanan.
-GRÄNSER
-Större entréer på byggnaden  ska placeras så att de inte
-Planområdesgräns.                                                           vetter mot Västkustbanan.
-Om  hotell eller annan liknande övernattningsverksamhet
-Användningsgräns.
-uppförs ska fasader som  vetter mot Västkustbanan  utföras i
-Egenskapsgräns.                                                             brandklass minst EI30.
 
-Stängsel,  utfart och  annan   utgång
+gäller bestämmelsen  inom  hela området.
+
+GRÄNSER
+
+Planområdesgräns.
+
+Användningsgräns.
+
+Egenskapsgräns.
 
 ANVÄNDNING         AV   MARK
-Utfartsförbud.
-Allmän   platsmark
-Utformning
-Gata.
-Byggnad  får kraga ut från en höjd av 4,0 meter över
-Torg.                                                                       marknivå.
 
-Byggnaders  utformning  ska samspela  med  arenabyggnaden
+Allmän   platsmark
+
+Gata.
+
+Torg.
+
 Kvartersmark
-vad gäller material och färgsättning.
+
 Besöksanläggningar.
-Byggnaderna   får sammanbyggas   från en höjd av +11,0
-meter i RH2000  till en tredjedel av fasadens längd.
+
 Arena.
-Utförande
+
 Idrottsplats.
-Källare får inte finnas.
 
 Centrum.
-Nivå på färdigt golv och öppningar i konstruktioner ska vara
-lägst +2,3 i RH2000 om  inte annat översvämningsskydd
-EGENSKAPSBESTÄMMELSER                    FÖR   ALLMÄN      PLATS
-anordnas  till denna nivå.
-Avgränsad     via  egenskapsgräns       och  användningsgräns
-Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över
-Utformning    av allmän  plats                                                           marknivå i förbindelsepunkten för att avloppsanslutning med
-självfall ska tillåtas.
+
+EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN      PLATS
+
+Avgränsad     via egenskapsgräns        och  användningsgräns
+
+Utformning   av  allmän  plats
+
 Dagvattendike  .
-Byggnaders  tak och fasader får inte uppföras med koppar,
 
-zink och dess legeringar eller plastbelagda plåttak som avger
-EGENSKAPSBESTÄMMELSER                    FÖR   KVARTERSMARK
-organiska föroreningar.
-Avgränsad     via  egenskapsgräns       och  användningsgräns
-Utnyttjandegrad
-Begränsning    av  markens    utnyttjande
-Största totala byggnadsarea för komplementbyggnader    är
-Marken  får inte förses med byggnad.                                        100 kvm  till en högsta nockhöjd om 4,0 meter.
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+Avgränsad     via egenskapsgräns        och  användningsgräns
 
-Största totala byggnadsarea för komplementbyggnader    och
+Begränsning    av  markens   utnyttjande
+
+Marken  får inte förses med byggnad.
+
 Marken  får endast förses med  komplementbyggnad.
-tekniska anläggningar är 200 kvm  till en högsta nockhöjd om
-Marken  får endast förses med  lastkaj eller liknande som                   4,0 meter.
+
+Marken  får endast förses med  lastkaj eller liknande som
+
 behövs  av logistiska skäl för arenan.
-Villkor för startbesked
+
 Höjd  på  byggnadsverk
-Startbesked får inte ges för byggnad förrän markförorening
-Högsta  nockhöjd  på arenabyggnaden   är 20,0 meter. Utöver                 ned till KM (känslig markanvändning) uppfylls.
-högsta  nockhöjd får endast mindre byggnadsdelar,
 
-belysningsmaster  samt  tekniska anordningar för arenan        GENOMFÖRANDETID
+Högsta  nockhöjd  på arenabyggnaden   är 20,0 meter. Utöver
+högsta nockhöjd  får endast mindre byggnadsdelar,
+
+belysningsmaster  samt  tekniska anordningar för arenan
 ordnas.
-Genomförandetiden   är 5 år.
-Högsta  nockhöjd  för läktare är 20,0 meter. Utöver tillåten
-nockhöjd  tillåts tekniska anordningar såsom kameratorn,
 
+Högsta  nockhöjd  för läktare är 20,0 meter. Utöver tillåten
+
+nockhöjd  tillåts tekniska anordningar såsom kameratorn,
 belysningsmaster  eller liknande att sticka upp.
 
-Högsta  nockhöjd  på byggnaden   är 30,0 meter som får
-uppföras  i högst åtta våningar.
+Högsta  nockhöjd  på byggnaden  är 30,0 meter som  får
+uppföras i högst åtta våningar.
 
 Markens    anordnande    och  vegetation
 
@@ -11658,11 +11647,83 @@ Placering
 Stängsel, staket eller liknande inhägnad får inte placeras
 längre norrut än arenabyggnadens   första våningsplan.
 
+Skydd   mot  störningar
+
+Fasader  som  vetter mot järnvägen ska utformas  i obrännbart
+
+material. Luftintag placeras högt och på fasad som vetter bort
+från järnvägen.
+
+Utrymning  ska vara möjlig bort från Västkustbanan.
+
+Större entréer på byggnaden   ska placeras så att de inte
+
+vetter mot Västkustbanan.
+
+Om  hotell eller annan liknande övernattningsverksamhet
+uppförs ska fasader  som vetter mot Västkustbanan   utföras i
+
+brandklass  minst EI30.
+
+Stängsel,   utfart och annan   utgång
+
+Utfartsförbud.
+
+Utformning
+
+Byggnad   får kraga ut från en höjd av 4,0 meter över
+
+marknivå.
+
+Byggnaders   utformning ska samspela  med  arenabyggnaden
+vad gäller material och färgsättning.
+
+Byggnaderna   får sammanbyggas    från en höjd av +11,0
+meter i RH2000   till en tredjedel av fasadens längd.
+
+Utförande
+
+Källare får inte finnas.
+
+Nivå på färdigt golv och öppningar i konstruktioner ska vara
+lägst +2,3 i RH2000  om inte annat översvämningsskydd
+
+anordnas  till denna nivå.
+
+Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över
+marknivå  i förbindelsepunkten för att avloppsanslutning med
+
+självfall ska tillåtas.
+Byggnaders   tak och fasader får inte uppföras med koppar,
+
+zink och dess legeringar eller plastbelagda plåttak som avger
+organiska föroreningar.
+
+Utnyttjandegrad
+
+Största totala byggnadsarea  för komplementbyggnader    är
+
+100 kvm  till en högsta nockhöjd om 4,0 meter.
+
+Största totala byggnadsarea  för komplementbyggnader    och
+tekniska anläggningar  är 200 kvm till en högsta nockhöjd om
+
+4,0 meter.
+
+Villkor för startbesked
+
+Startbesked  får inte ges för byggnad förrän markförorening
+ned till KM (känslig markanvändning)  uppfylls.
+
+GENOMFÖRANDETID
+
+Genomförandetiden    är 5 år.
+
 ORIENTERINGSKARTA
 Detaljplan   för Kungsbackas       arena   Granskningshandling
 
-Beslutsdatum   Instans
-inom  Kungsbacka    4:65  och 4:6
+Beslutsdatum  Instans
+inom  Kungsbacka    4:65  och  4:6
 Detaljplanen är baserad på koordinatsystemet SWEREF 99
 Samråd
 i Kungsbacka   stad                                        BN § 332
@@ -11673,14 +11734,14 @@ BN § 332
 TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-04-29                                                                                                                                                                                                                           2019-10-24
 Antagande
 Upprättad 2025-04-29
-Registernummer, tomtnummer                   Höjdkurva 5,0 m
-Höjdpunkt                                    Vägbana                                                                                                                                                                                                                            Laga kraft
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak
+Registernummer, tomtnummer                    Höjdkurva 5,0 m
+Höjdpunkt                                     Vägbana                                                                                                                                                                                                                           Laga kraft
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
 Plankostnads-
-Fastighetsgräns                              Uthus fasad, resp. tak                                                                                                                                                             Ida Lennartsson             Magnus Björned      Diarenummer avtal
+Fastighetsgräns                               Uthus fasad, resp. tak                                                                                                                                                            Ida Lennartsson             Magnus Björned      Diarenummer avtal
 2019-00020
 Verksamhetschef Plan        Planarkitekt                    Nej
-Gång och cykelbana                           Skärmtak
+Gång och cykelbana                            Skärmtak
 Höjdkurva 1,0 m                                                                                                                                                                                                                PLANKARTA            Detaljplanen är upprättad enligt PBL
 2010:900 med utökat förfarande
 

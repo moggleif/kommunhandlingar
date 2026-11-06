@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f255c0d1/17685665935
 sha256: b33308882f189a7ee325523ceba61dce8f9ab124713e489116e0c42d8cf72dfd
 bytes: 13919443
 sidor: 193
-hamtad: 2026-10-23T08:19:10+00:00
-konverterad: 2026-10-23T08:20:43+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T10:02:26+00:00
+konverterad: 2026-11-06T10:04:01+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1052,20 +1052,20 @@ Samhällsbyggnadschef               Verksamhetschef plan
 
 <!-- sida 32 -->
 
-PLANBESTÄMMELSER                                                           EGENSKAPSBESTÄMMELSER            FÖR  ALLMÄN   PLATS
-
-Avgränsad  via egenskapsgräns   och användningsgräns
+PLANBESTÄMMELSER                                                            EGENSKAPSBESTÄMMELSER           FÖR  ALLMÄN    PLATS
+Avgränsad  via egenskapsgräns  och användningsgräns
 Följande gäller inom områden med nedanstående beteckningar. Endast angiven användning
 Huvudmannaskap
 och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom hela området.
 Huvudmannaskapet är enskilt för den allmänna platsen.
+
 Utformning av allmän plats
 GRÄNSER
 Markens höjd över nollplanet ska vara \<angivet> meter.
 Planområdesgräns.
 Minsta lutning är 1:100. (Pilen pekar uppåt).
 Användningsgräns.
-Damm  för hantering av dagvatten.
+Damm för hantering av dagvatten.
 Egenskapsgräns.
 Varsamhet
 Illustrationsgräns.
@@ -1073,102 +1073,152 @@ Befintlig stenmur ska bevaras.
 Sekundär egenskapsgräns.
 Sammanfallande sekundär och egenskapsgräns.
 EGENSKAPSBESTÄMMELSER            FÖR  KVARTERSMARK
-Avgränsad  via egenskapsgräns   och användningsgräns
+Avgränsad   via egenskapsgräns  och användningsgräns
 GENERELLT
-Begränsning av markens  utnyttjande
+Begränsning  av markens utnyttjande
 Beteckningar inom parentes
 Marken får inte förses med byggnad.
 Beteckning i kartan som omgärdas av parentes anger bestämmelse i annat
-plan än markplan.                                                          Marken får endast förses med carport och anläggning för dagvattenrening.
-Fastighetsstorlek
+plan än markplan.                                                           Marken får endast förses med carport och anläggning för dagvattenrening.
+
 ANVÄNDNING     AV  MARK   OCH  VATTEN
-Minsta fastighetsstorlek är \<angivet> m².
+
 Allmän platsmark
-Höjd på byggnadsverk
 Huvudgata.
-Högsta nockhöjd på huvudbyggnad är \<angivet> meter.
+
 Lokalgata.
-Markens  anordnande och vegetation
+
 Gång- och cykelväg.
-Största lutning är 1:4. (Pilen pekar uppåt).
 Natur.
-Dagvattenbrunn ska anordnas, där ovankanten på brunnen ska vara högst
+
 Park.
-+10,2 meter över angivet nollplan.
+
 Kvartersmark
-Stenmur ska uppföras och bevaras.
 Bostäder.
-Markreservat för allmännyttiga ändamål
+
 Bostäder i flerbostadshus.
-Markreservat för allmännyttiga underjordiska ledningar.
+
 Transformatorstation.
-Markreservat för gemensamhetsanläggningar
-Pumpstation.                                                               Markreservat för gemensamhetsanläggning.
-Parkering.                                                      Stängsel, utfart och annan utgång
-Vattenområde                                                                          Utfartsförbud.
-Vattenområde.                                                   Takvinkel
-Vattenområde.                                                              Minsta takvinkel är \<angivet> grader.
-Största takvinkel är 37 grader.
-EGENSKAPSBESTÄMMELSER           FÖR  ALL  ALLMÄN    PLATS
-Utformning
+Pumpstation.
+
+Parkering.
+
+Vattenområde
+Vattenområde.
+
+Vattenområde.
+
+EGENSKAPSBESTÄMMELSER           FÖR   ALL ALLMÄN    PLATS
+
 Utformning av allmän plats
-Endast kedjehus eller parhus.
 Allmän plats inom 30 meter från Almedalsvägen respektive Göteborgsvägen ska utformas så
-att de inte uppmuntrar till stadigvarande vistelse.                                   Endast friliggande hus, parhus, radhus eller kedjehus.
-Utnyttjandegrad
-EGENSKAPSBESTÄMMELSER           FÖR  ALL  KVARTERSMARK
-Största byggnadsarea är 400 m² per huvudbyggnad.
-Begränsning av markens utnyttjande
-Största sammanlagda byggnadsarea för huvudbyggnader är 1600 kvm. Utöver
-Marken får inte förses med byggnad eller annan anläggning som är högre än 0,7 meter inom
-detta får balkonger och komplementbyggnader uppföras.
-1 meter från allmän plats.
-Byggnaders användning
-EGENSKAPSBESTÄMMELSER            FÖR  KVARTERSMARK
-Inom kvartersmark ska, om ekvivalent ljudnivå vid bostadens fasad är högre än 60 dBA, Avgränsad via sekundär egenskapsgräns och användningsgräns
-minst hälften av bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med
+att de inte uppmuntrar till stadigvarande vistelse.
+
+EGENSKAPSBESTÄMMELSER           FÖR   ALL KVARTERSMARK
 Begränsning av markens  utnyttjande
+
+Marken får inte förses med byggnad eller annan anläggning som är högre än 0,7 meter inom
+1 meter från allmän plats.
+Byggnaders  användning
+
+Inom kvartersmark ska, om ekvivalent ljudnivå vid bostadens fasad är högre än 60 dBA,
+minst hälften av bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med
 boarea max 35 kvm gäller i stället att minst hälften av bostadsrummen ska vara vända mot
-ljuddämpad sida om ekvivalent ljudnivå vid bostadens fasad är högre än 65 dBA. Med    Marken får endast förses med komplementbyggnad, uterum, altan, miljöhus,
-ljuddämpad sida menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal förråd, stödmur och parkering.
+ljuddämpad sida om ekvivalent ljudnivå vid bostadens fasad är högre än 65 dBA. Med
+
+ljuddämpad sida menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal
 ljudnivå nattetid på högst 70 dBA.
-Markens  anordnande och vegetation
 Höjd på byggnadsverk
-Befintlig stenmur ska bevaras.
+
 Högsta nockhöjd på komplementbyggnad är 4,5 meter.
-Markreservat för allmännyttiga ändamål
 Skydd mot störningar
-Markreservat för allmännyttiga underjordiska ledningar.
+
 Färdigt golv ska anläggas minst 0,3 meter över angränsande gata.
-GENOMFÖRANDETID
+
 Ändrad lovplikt
-Genomförandetiden är 10 år.
 Marklov krävs även för att förändra markens nivå mindre än 0,5 meter.
 
+Fastighetsstorlek
+
+Minsta fastighetsstorlek är \<angivet> m².
+Höjd på byggnadsverk
+
+Högsta nockhöjd på huvudbyggnad är \<angivet> meter.
+
+Markens  anordnande och vegetation
+Största lutning är 1:4. (Pilen pekar uppåt).
+
+Dagvattenbrunn ska anordnas, där ovankanten på brunnen ska vara högst
++10,2 meter över angivet nollplan.
+Stenmur ska uppföras och bevaras.
+
+Markreservat för allmännyttiga ändamål
+
+Markreservat för allmännyttiga underjordiska ledningar.
+Markreservat för gemensamhetsanläggningar
+
+Markreservat för gemensamhetsanläggning.
+
+Stängsel, utfart och annan utgång
+Utfartsförbud.
+
+Takvinkel
+
+Minsta takvinkel är \<angivet> grader.
+Största takvinkel är 37 grader.
+
+Utformning
+Endast kedjehus eller parhus.
+
+Endast friliggande hus, parhus, radhus eller kedjehus.
+
+Utnyttjandegrad
+Största byggnadsarea är 400 m² per huvudbyggnad.
+
+Största sammanlagda byggnadsarea för huvudbyggnader är 1600 kvm. Utöver
+detta får balkonger och komplementbyggnader uppföras.
+
+EGENSKAPSBESTÄMMELSER           FÖR   KVARTERSMARK
+
+Avgränsad  via sekundär  egenskapsgräns   och användningsgräns
+Begränsning av markens  utnyttjande
+
+Marken får endast förses med komplementbyggnad, uterum, altan, miljöhus,
+förråd, stödmur och parkering.
+
+Markens  anordnande och vegetation
+Befintlig stenmur ska bevaras.
+
+Markreservat för allmännyttiga ändamål
+Markreservat för allmännyttiga underjordiska ledningar.
+
+GENOMFÖRANDETID
+Genomförandetiden är 10 år.
+
 Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                         ORIENTERINGSKARTA
-1200 och höjdsystemet RH 2000                                                                                                                                                                    Detaljplan    för bostäder   inom           Antagandehandling
+1200 och höjdsystemet RH 2000                                                                                                                                                                     Detaljplan   för bostäder    inom          Antagandehandling
 Skala 1:1000 i A1, skala 1:2000 i A3
 
-TECKENFÖRKLARING     KARTDATA       Aktualitetsdatum: 2025-05-13
-Beslutsdatum   Instans
-Registernummer, tomtnummer                   Höjdkurva 5,0 m                                                                                                                                                                      Rågelund   1:127  m.fl.
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-05-13
+Beslutsdatum  Instans
+Registernummer, tomtnummer                    Höjdkurva 5,0 m                                                                                                                                                                     Rågelund   1:127  m.fl.
 Samråd
-Höjdpunkt                                    Vägbana                                                                                                                                                                              i Frillesås                                               BN § 243
+Höjdpunkt                                     Vägbana                                                                                                                                                                             i Frillesås                                                BN § 243
 2023-12-14
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak                                                                                                                                                          Kungsbacka    kommun                           Granskning
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak                                                                                                                                                         Kungsbacka    kommun                           Granskning
 BN del.beslut
 2025-05-15
-Fastighetsgräns                              Uthus fasad, resp. tak
+Fastighetsgräns                               Uthus fasad, resp. tak
 Antagande
 Upprättad 2025-12-02                                       BN § xxx
-Gång- och cykelbana                          Skärmtak
+Gång- och cykelbana                           Skärmtak
 2026-01-22
 Höjdkurva 1,0 m                                                                                                                                                                                                                                                                  Laga kraft
 xxxx-xx-xx
-Ida Lennartsson             Johanna Vinterhav   Diarienummer Plankostnadsavtal
+Ida Lennartsson            Johanna Vinterhav   Diarienummer Plankostnadsavtal
 BN-2020-00010 Ja
-Verksamhetschef Plan        Planarkitekt
-PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
+Verksamhetschef Plan       Planarkitekt
+PLANKARTA             Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med standardförfarande
 
 <!-- sida 33 -->

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4a1683f319957f8b68c4024a/1758263545
 sha256: 6998a3ff1f34913c984908eff01ed12be9be74d7b4563b4ee117197bea96cfbf
 bytes: 145383386
 sidor: 607
-hamtad: 2026-10-23T09:35:39+00:00
-konverterad: 2026-10-23T09:40:41+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T11:22:58+00:00
+konverterad: 2026-11-06T11:28:01+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
@@ -11969,124 +11969,194 @@ Sid 18
 
 <!-- sida 286 -->
 
-Statens offentliga utredningar  2025
+Statens  offentliga utredningar 2025
 
 Kronologisk förteckning
 
-1\. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
-skap. Ju.              ningsmyndighetens verksamhet. Fi.
-2\. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
-fri- och rättigheter. Ju. strategi för hur Sverige ska leva upp
-3\. Skatteincitament för forskning till EU:s åtaganden inom biologisk
-och utveckling. En översyn av mångfald respektive nettoupptag av
-FoU-avdraget och expertskatte- växthusgaser från markanvändnings-
-reglerna. Fi.          sektorn (LULUCF). KN.
-4\. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
-för arbetslivet. Fi.   privat verksamhet. KN.
-5\. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
-– och andra åtgärder för trygghet i fokus. Ju.
-i byggd miljö. LI.   24. Publiken i fokus
-6\. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
-försörjning av det civila försvaret. Fö. 25. Arbetslivskriminalitet – upplägg,
-7\. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
-tillståndsprövning och ändamålsenliga 26. Tid för undervisningsuppdraget –
-avgifter. KN.          åtgärder för god undervisning och
-8\. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
-och studiero i skolan. U. 27. En socionomutbildning i tiden. U.
-9\. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
-10\. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
-säker och tillgänglig abortvård. S. mot våld och en stärkt styrning av
-centrala myndigheter. A.
+1\. Skärpta krav för svenskt medborgar-
+skap. Ju.
+2\. Några frågor om grundläggande
+fri- och rättigheter. Ju.
+3\. Skatteincitament för forskning
+och utveckling. En översyn av
+FoU-avdraget och expertskatte-
+reglerna. Fi.
+4\. Moderna och enklare skatteregler
+för arbetslivet. Fi.
+5\. Avgift för områdessamverkan
+– och andra åtgärder för trygghet
+i byggd miljö. LI.
+6\. Plikten kallar! En modern personal-
+försörjning av det civila försvaret. Fö.
+7\. Ny kärnkraft i Sverige – effektivare
+tillståndsprövning och ändamålsenliga
+avgifter. KN.
+8\. Bättre förutsättningar för trygghet
+och studiero i skolan. U.
+9\. På språklig grund. U.
+10\. En förändrad abortlag – för en god,
+säker och tillgänglig abortvård. S.
 11\. Straffbarhetsåldern. Ju.
-29\. Ökad kvalitet hos Samhall
 12\. AI-kommissionens
-och fler vägar till skyddat arbete. A.
 Färdplan för Sverige. Fi.
-30\. Enklare mervärdesskatteregler vid
 13\. En effektivare organisering av mindre
-försäljning av begagnade varor och
 myndigheter – analys och förslag. Fi.
-donation av livsmedel. Fi.
 14\. En skärpt miljöstraffrätt och
-31\. Utmönstring av permanent uppehålls-
 ett effektivt sanktionssystem. KN.
+15\. Stärkta drivkrafter och möjligheter för
+biståndsmottagare. Volym 1 och 2. S.
+16\. Ett nytt regelverk för uppsikt och
+förvar. Ju.
+17\. Anpassning av svensk rätt till EU:s
+avskogningsförordning. LI.
+18\. Ett likvärdigt betygssystem.
+Volym 1 och 2. U.
+19\. Kunskap för alla – nya läroplaner med
+fokus på undervisning och lärande. U.
+
+20\. Kommunal anslutning till Utbetal-
+ningsmyndighetens verksamhet. Fi.
+21\. Miljömålsberedningens förslag om en
+strategi för hur Sverige ska leva upp
+till EU:s åtaganden inom biologisk
+mångfald respektive nettoupptag av
+växthusgaser från markanvändnings-
+sektorn (LULUCF). KN.
+22\. Förbättrad konkurrens i offentlig och
+privat verksamhet. KN.
+23\. Ersättningsregler med brottsoffret
+i fokus. Ju.
+24\. Publiken i fokus
+– reformer för ett starkare filmland. Ku.
+25\. Arbetslivskriminalitet – upplägg,
+verktyg och åtgärder, fortsatt arbete. A.
+26\. Tid för undervisningsuppdraget –
+åtgärder för god undervisning och
+läraryrkenas attraktivitet. U.
+27\. En socionomutbildning i tiden. U.
+28\. Frihet från våld, förtryck och utnytt-
+jande. En jämställdhetspolitisk strategi
+mot våld och en stärkt styrning av
+centrala myndigheter. A.
+29\. Ökad kvalitet hos Samhall
+och fler vägar till skyddat arbete. A.
+30\. Enklare mervärdesskatteregler vid
+försäljning av begagnade varor och
+donation av livsmedel. Fi.
+31\. Utmönstring av permanent uppehålls-
 tillstånd och vissa anpassningar till
-15\. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
-biståndsmottagare. Volym 1 och 2. S. och asylpakt. Ju.
-16\. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
-förvar. Ju.            LI.
-17\. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
-avskogningsförordning. LI. för uppehållstillstånd. Ju.
-18\. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
-Volym 1 och 2. U.      distansavtal. Ju.
-19\. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
-fokus på undervisning och lärande. U. – ett nytt system för bosättning
+miniminivån enligt EU:s migrations-
+och asylpakt. Ju.
+32\. Vissa förändringar av jaktlagstiftningen.
+LI.
+33\. Skärpta och tydligare krav på vandel
+för uppehållstillstånd. Ju.
+34\. Ett modernare konsumentskydd vid
+distansavtal. Ju.
+35\. Etableringsboendelagen
+– ett nytt system för bosättning
 för vissa nyanlända. A.
 
 <!-- sida 287 -->
 
-36\. Skydd för biologisk mångfald i havs- 61. Sveriges internationella adoptionsverk-
-områden utanför nationell jurisdiktion. samhet − lärdomar och vägen framåt.
-UD.                   Volym 1 och 2. S.
-37\. Skärpta villkor för friskolesektorn. U. 62. Ansvaret för hälso- och sjukvården.
-38\. Att omhänderta barn och unga. S. Volym 1 Bedömningar och förslag.
-Volym 2 Underlagsrapporter. S.
+36\. Skydd för biologisk mångfald i havs-
+områden utanför nationell jurisdiktion.
+UD.
+37\. Skärpta villkor för friskolesektorn. U.
+38\. Att omhänderta barn och unga. S.
 39\. Digital teknik på lika villkor.
-En reglering för socialtjänsten och 63. Stärkt patientsäkerhet genom rätt
-verksamhet enligt LSS. S. kompetens − utifrån hälso- och
-sjukvårdens och tandvårdens behov. S.
+En reglering för socialtjänsten och
+verksamhet enligt LSS. S.
 40\. Säkrare tivoli. Ju.
-64\. En ny kontrollorganisation i livs-
 41\. Pensionsnivåer och pensionsavgiften
-medelskedjan – för ökad effektivitet,
 – analyser på hundra års sikt. S.
-likvärdighet och konkurrenskraft. LI.
 42\. Säkerhetsskyddslagen – ytterligare
-65\. En mer flexibel hyresmarknad. Ju.
 kompletteringar. Ju.
-66\. En straffreform. Volym 1, 2, 3 och 4. Ju.
 43\. Säkerställ tillgången till läkemedel
-– förordnande och utlämnande 67. Arlanda – en viktig port för det svenska
-i bristsituationer. S. välståndet. Åtgärder som stärker
-konkurrenskraften för Arlanda
+– förordnande och utlämnande
+i bristsituationer. S.
 44\. Förbättrat stöd i skolan. U.
-flygplats. LI.
 45\. Ökat informationsutbyte mellan
-68\. Nya samverkansformer, modern bygg-
 myndigheter – några anslutande
-nads- och reparationsberedskap – för
 frågor. Ju.
-ökad försörjningsberedskap. KN.
 46\. Tryggare idrottsarrangemang. Ju.
-69\. Effektivare samverkan för djur- och
-47\. Spänning i tillvaron – hur säkrar vi vår folkhälsa. LI.
+47\. Spänning i tillvaron – hur säkrar vi vår
 framtida elförsörjning? KN.
+48\. Stärkt pandemiberedskap. S.
+49\. Säkerhetspolisens behandling
+av personuppgifter. Ju.
+50\. En ny nationell myndighet för
+viltförvaltning. LI.
+51\. Bättre förutsättningar för
+klimatanpassning. KN.
+52\. Ökad insyn i politiska processer. Ju.
+53\. Kvalificering till socialförsäkring
+och ekonomiskt bistånd
+för vissa grupper. S.
+54\. Ett skärpt regelverk om utvisning
+på grund av brott. Ju.
+55\. En reformerad samhällsorientering
+för bättre integration. A.
+56\. Stärkt skydd för domstolarnas
+och domarnas oberoende. Ju.
+57\. Polisiär beredskap i fred, kris och krig.
+Ju.
+58\. En stärkt hästnäring – för företagande,
+jämställdhet, jämlikhet och folkhälsa.
+LI.
+59\. Stärkt lagstiftning mot hedersrelaterat
+våld och förtryck. Ju.
+60\. En starkare fondmarknad. Fi.
+
+61\. Sveriges internationella adoptionsverk-
+samhet − lärdomar och vägen framåt.
+Volym 1 och 2. S.
+62\. Ansvaret för hälso- och sjukvården.
+Volym 1 Bedömningar och förslag.
+Volym 2 Underlagsrapporter. S.
+63\. Stärkt patientsäkerhet genom rätt
+kompetens − utifrån hälso- och
+sjukvårdens och tandvårdens behov. S.
+64\. En ny kontrollorganisation i livs-
+medelskedjan – för ökad effektivitet,
+likvärdighet och konkurrenskraft. LI.
+65\. En mer flexibel hyresmarknad. Ju.
+66\. En straffreform. Volym 1, 2, 3 och 4. Ju.
+67\. Arlanda – en viktig port för det svenska
+välståndet. Åtgärder som stärker
+konkurrenskraften för Arlanda
+flygplats. LI.
+68\. Nya samverkansformer, modern bygg-
+nads- och reparationsberedskap – för
+ökad försörjningsberedskap. KN.
+69\. Effektivare samverkan för djur- och
+folkhälsa. LI.
 70\. Längre liv, längre arbetsliv – förlängd
-48\. Stärkt pandemiberedskap. S. rätt att kvarstå i anställningen. A.
-49\. Säkerhetspolisens behandling 71. Fortsatt utveckling av en nationell
-av personuppgifter. Ju. läkemedelslista – en del i en ny nationell
-50\. En ny nationell myndighet för infrastruktur för datadelning.
-viltförvaltning. LI.  Del 1 och 2. S.
-51\. Bättre förutsättningar för 72. Verktyg för en mer likvärdig
-klimatanpassning. KN. resursfördelning till skolan. U.
-52\. Ökad insyn i politiska processer. Ju. 73. En arbetsmiljöstrategi för ett förändrat
-53\. Kvalificering till socialförsäkring arbetsliv. A.
-och ekonomiskt bistånd 74. Ny reglering för den arbetsmarknads-
-för vissa grupper. S. politiska verksamheten. A.
-54\. Ett skärpt regelverk om utvisning 75. Folkbokföringsverksamhet, biometri
-på grund av brott. Ju. och brottsbekämpning. Fi.
-55\. En reformerad samhällsorientering 76. Det handlar om oss
-för bättre integration. A. – så bryter vi utanförskapet
-56\. Stärkt skydd för domstolarnas och bygger en starkare gemenskap. A.
-och domarnas oberoende. Ju. 77. En översyn av den statliga löne-
-57\. Polisiär beredskap i fred, kris och krig. garantin. A.
-Ju.                  78. En reformerad underrättelse-
-58\. En stärkt hästnäring – för företagande, verksamhet. Fö.
-jämställdhet, jämlikhet och folkhälsa. 79. Samlade förmågor för ökad
-LI.                   cybersäkerhet. Fö.
-59\. Stärkt lagstiftning mot hedersrelaterat 80. Koordinatbestämda fastighetsgränser.
-våld och förtryck. Ju. Ju.
-60\. En starkare fondmarknad. Fi. 81. En ny organisation av ekobrotts-
+rätt att kvarstå i anställningen. A.
+71\. Fortsatt utveckling av en nationell
+läkemedelslista – en del i en ny nationell
+infrastruktur för datadelning.
+Del 1 och 2. S.
+72\. Verktyg för en mer likvärdig
+resursfördelning till skolan. U.
+73\. En arbetsmiljöstrategi för ett förändrat
+arbetsliv. A.
+74\. Ny reglering för den arbetsmarknads-
+politiska verksamheten. A.
+75\. Folkbokföringsverksamhet, biometri
+och brottsbekämpning. Fi.
+76\. Det handlar om oss
+– så bryter vi utanförskapet
+och bygger en starkare gemenskap. A.
+77\. En översyn av den statliga löne-
+garantin. A.
+78\. En reformerad underrättelse-
+verksamhet. Fö.
+79\. Samlade förmågor för ökad
+cybersäkerhet. Fö.
+80\. Koordinatbestämda fastighetsgränser.
+Ju.
+81\. En ny organisation av ekobrotts-
 bekämpningen. Ju.
 
 <!-- sida 288 -->
@@ -12100,146 +12170,183 @@ serna. LI.
 
 <!-- sida 289 -->
 
-Statens offentliga utredningar  2025
+Statens  offentliga utredningar 2025
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Folkbokföringsverksamhet, biometri och
-Arbetslivskriminalitet – upplägg, verktyg brottsbekämpning. [75]
+Arbetsmarknadsdepartementet
+Arbetslivskriminalitet – upplägg, verktyg
 och åtgärder, fortsatt arbete. [25]
-Frihet från våld, förtryck och utnyttjande. Försvarsdepartementet
-En jämställdhetspolitisk strategi mot Plikten kallar! En modern personal-
-våld och en stärkt styrning av centrala försörjning av det civila försvaret. [6]
+Frihet från våld, förtryck och utnyttjande.
+En jämställdhetspolitisk strategi mot
+våld och en stärkt styrning av centrala
 myndigheter. [28]
-En reformerad underrättelse-
-Ökad kvalitet hos Samhall och fler vägar verksamhet. [78]
+Ökad kvalitet hos Samhall och fler vägar
 till skyddat arbete. [29]
-Samlade förmågor för ökad
-Etableringsboendelagen – ett nytt system cybersäkerhet. [79]
+Etableringsboendelagen – ett nytt system
 för bosättning för vissa nyanlända. [35]
-En reformerad samhällsorientering Justitiedepartementet
+En reformerad samhällsorientering
 för bättre integration. [55]
-Skärpta krav för svenskt medborgarskap.
 Längre liv, längre arbetsliv – förlängd rätt
-[1]
 att kvarstå i anställningen. [70]
-Några frågor om grundläggande
 En arbetsmiljöstrategi för ett förändrat
-fri- och rättigheter. [2]
 arbetsliv. [73]
-Straffbarhetsåldern. [11]
 Ny reglering för den arbetsmarknads-
-Ett nytt regelverk för uppsikt och förvar.
 politiska verksamheten. [74]
-[16]
 Det handlar om oss
-Ersättningsregler med brottsoffret i fokus.
 – så bryter vi utanförskapet
-[23]
 och bygger en starkare gemenskap. [76]
-Utmönstring av permanent uppehålls-
 En översyn av den statliga löne -
-tillstånd och vissa anpassningar till
 garantin. [77]
-miniminivån enligt EU:s migrations-
-och asylpakt. [31]
 Finansdepartementet
-Skärpta och tydligare krav på vandel
-Skatteincitament för forskning för uppehållstillstånd. [33]
+Skatteincitament för forskning
 och utveckling. En översyn av
-Ett modernare konsumentskydd
 FoU-avdraget och expertskatte-
-vid distansavtal. [34]
 reglerna. [3]
-Säkrare tivoli. [40]
 Moderna och enklare skatteregler
-Säkerhetsskyddslagen – ytterligare
 för arbetslivet. [4]
-kompletteringar. [42]
 AI-kommissionens Färdplan för Sverige. [12]
-Ökat informationsutbyte mellan
 En effektivare organisering av mindre
-myndigheter – några anslutande
 myndigheter – analys och förslag. [13]
-frågor. [45]
 Kommunal anslutning till Utbetalnings-
-Tryggare idrottsarrangemang. [46]
 myndighetens verksamhet. [20]
-Säkerhetspolisens behandling
 Enklare mervärdesskatteregler vid
-av personuppgifter. [49]
 försäljning av begagnade varor
-Ökad insyn i politiska processer. [52]
 och donation av livsmedel. [30]
 En starkare fondmarknad. [60]
 
+Folkbokföringsverksamhet, biometri och
+brottsbekämpning. [75]
+
+Försvarsdepartementet
+Plikten kallar! En modern personal-
+försörjning av det civila försvaret. [6]
+En reformerad underrättelse-
+verksamhet. [78]
+Samlade förmågor för ökad
+cybersäkerhet. [79]
+Justitiedepartementet
+Skärpta krav för svenskt medborgarskap.
+[1]
+Några frågor om grundläggande
+fri- och rättigheter. [2]
+Straffbarhetsåldern. [11]
+Ett nytt regelverk för uppsikt och förvar.
+[16]
+Ersättningsregler med brottsoffret i fokus.
+[23]
+Utmönstring av permanent uppehålls-
+tillstånd och vissa anpassningar till
+miniminivån enligt EU:s migrations-
+och asylpakt. [31]
+Skärpta och tydligare krav på vandel
+för uppehållstillstånd. [33]
+Ett modernare konsumentskydd
+vid distansavtal. [34]
+Säkrare tivoli. [40]
+Säkerhetsskyddslagen – ytterligare
+kompletteringar. [42]
+Ökat informationsutbyte mellan
+myndigheter – några anslutande
+frågor. [45]
+Tryggare idrottsarrangemang. [46]
+Säkerhetspolisens behandling
+av personuppgifter. [49]
+Ökad insyn i politiska processer. [52]
+
 <!-- sida 290 -->
 
-Ett skärpt regelverk om utvisning Vissa förändringar av jaktlagstiftningen.
-på grund av brott. [54] [32]
-Stärkt skydd för domstolarnas En ny nationell myndighet
-och domarnas oberoende. [56] för viltförvaltning. [50]
-Polisiär beredskap i fred, kris och krig. En stärkt hästnäring – för företagande,
-[57]                  jämställdhet, jämlikhet och folkhälsa.
-Stärkt lagstiftning mot hedersrelaterat [58]
-våld och förtryck. [59] En ny kontrollorganisation i livsmedels-
-En mer flexibel hyresmarknad. [65] kedjan – för ökad effektivitet, lik-
-värdighet och konkurrenskraft. [64]
+Ett skärpt regelverk om utvisning
+på grund av brott. [54]
+Stärkt skydd för domstolarnas
+och domarnas oberoende. [56]
+Polisiär beredskap i fred, kris och krig.
+[57]
+Stärkt lagstiftning mot hedersrelaterat
+våld och förtryck. [59]
+En mer flexibel hyresmarknad. [65]
 En straffreform. Volym 1, 2, 3 och 4. [66]
-Arlanda – en viktig port för det svenska
 Koordinatbestämda fastighetsgränser. [80]
-välståndet. Åtgärder som stärker
-En ny organisation av ekobrotts- konkurrenskraften för Arlanda
-bekämpningen. [81]    flygplats. [67]
-Ett nationellt förbud mot tiggeri. [83] Effektivare samverkan för djur- och folk-
-hälsa. [69]
-Klimat- och näringslivsdepartementet Sysselsättning och boende på landsbygden
-Ny kärnkraft i Sverige – effektivare – Juridiska personers förvärv av jord-
-tillståndsprövning och ändamålsenliga bruksmark och en effektiv tillämpning
-avgifter. [7]         av glesbygdsbestämmelserna. [82]
+En ny organisation av ekobrotts-
+bekämpningen. [81]
+Ett nationellt förbud mot tiggeri. [83]
+Klimat- och näringslivsdepartementet
+Ny kärnkraft i Sverige – effektivare
+tillståndsprövning och ändamålsenliga
+avgifter. [7]
 En skärpt miljöstraffrätt och
-ett effektivt sanktionssystem. [14] Socialdepartementet
-Miljömålsberedningens förslag om en En förändrad abortlag
-strategi för hur Sverige ska leva upp – för en god, säker och tillgänglig
-till EU:s åtaganden inom biologisk abortvård. [10]
+ett effektivt sanktionssystem. [14]
+Miljömålsberedningens förslag om en
+strategi för hur Sverige ska leva upp
+till EU:s åtaganden inom biologisk
 mångfald respektive nettoupptag av
-Stärkta drivkrafter och möjligheter för
 växthusgaser från markanvändnings-
-biståndsmottagare Volym 1 och 2. [15]
 sektorn (LULUCF). [21]
-Att omhänderta barn och unga. [38]
 Förbättrad konkurrens i offentlig och
-Digital teknik på lika villkor.
 privat verksamhet. [22]
-En reglering för socialtjänsten
 Spänning i tillvaron – hur säkrar vi vår
-och verksamhet enligt LSS. [39]
 framtida elförsörjning? [47]
-Pensionsnivåer och pensionsavgiften
 Bättre förutsättningar för
-– analyser på hundra års sikt. [41]
 klimatanpassning. [51]
-Säkerställ tillgången till läkemedel
 Nya samverkansformer, modern bygg-
-– förordnande och utlämnande
 nads- och reparationsberedskap – för
-i bristsituationer. [43]
 ökad försörjningsberedskap. [68]
-Stärkt pandemiberedskap. [48]
-Kvalificering till socialförsäkring
 Kulturdepartementet
-och ekonomiskt bistånd
-Publiken i fokus – reformer för ett star- för vissa grupper. [53]
+Publiken i fokus – reformer för ett star-
 kare filmland. [24]
-Sveriges internationella adoptionsverk-
-samhet − lärdomar och vägen framåt.
-Landsbygds- och         Volym 1 och 2. [61]
-infrastrukturdepartementet Ansvaret för hälso- och sjukvården.
-Avgift för områdessamverkan Volym 1 Bedömningar och förslag.
-– och andra åtgärder för trygghet Volym 2 Underlagsrapporter. [62]
+Landsbygds- och
+infrastrukturdepartementet
+Avgift för områdessamverkan
+– och andra åtgärder för trygghet
 i byggd miljö. [5]
 Anpassning av svensk rätt till EU:s
 avskogningsförordning. [17]
+
+Vissa förändringar av jaktlagstiftningen.
+[32]
+En ny nationell myndighet
+för viltförvaltning. [50]
+En stärkt hästnäring – för företagande,
+jämställdhet, jämlikhet och folkhälsa.
+[58]
+En ny kontrollorganisation i livsmedels-
+kedjan – för ökad effektivitet, lik-
+värdighet och konkurrenskraft. [64]
+Arlanda – en viktig port för det svenska
+välståndet. Åtgärder som stärker
+konkurrenskraften för Arlanda
+flygplats. [67]
+Effektivare samverkan för djur- och folk-
+hälsa. [69]
+Sysselsättning och boende på landsbygden
+– Juridiska personers förvärv av jord-
+bruksmark och en effektiv tillämpning
+av glesbygdsbestämmelserna. [82]
+Socialdepartementet
+En förändrad abortlag
+– för en god, säker och tillgänglig
+abortvård. [10]
+Stärkta drivkrafter och möjligheter för
+biståndsmottagare Volym 1 och 2. [15]
+Att omhänderta barn och unga. [38]
+Digital teknik på lika villkor.
+En reglering för socialtjänsten
+och verksamhet enligt LSS. [39]
+Pensionsnivåer och pensionsavgiften
+– analyser på hundra års sikt. [41]
+Säkerställ tillgången till läkemedel
+– förordnande och utlämnande
+i bristsituationer. [43]
+Stärkt pandemiberedskap. [48]
+Kvalificering till socialförsäkring
+och ekonomiskt bistånd
+för vissa grupper. [53]
+Sveriges internationella adoptionsverk-
+samhet − lärdomar och vägen framåt.
+Volym 1 och 2. [61]
+Ansvaret för hälso- och sjukvården.
+Volym 1 Bedömningar och förslag.
+Volym 2 Underlagsrapporter. [62]
 
 <!-- sida 291 -->
 
@@ -16037,57 +16144,101 @@ och förvalta ett nytt system för företagens miljöinformation och rapporterin
 
 <!-- sida 408 -->
 
-NATURVÅRDSVERKET                                             6(29)
+NATURVÅRDSVERKET
 
-respektive andra stycket miljöbalken, 6 a § miljöbalken, ska lämna varje år
-ska lämna varje år till tillsyns- till tillsynsmyndigheten enligt 26 kap.
-myndigheten enligt 26 kap. 20 § 20 § första stycket miljöbalken,
+respektive andra stycket miljöbalken,
+
+ska lämna varje år till tillsyns-
+myndigheten enligt 26 kap. 20 §
 första stycket miljöbalken,
-/…/                        /…/
-3\. skyldighet för utövare av 3. skyldighet för utövare av
-verksamhet som inte är     verksamhet som inte är
-tillståndspliktig eller förelagts att tillståndspliktig eller förelagts att
-ansöka om tillstånd, men som ansöka om tillstånd, men som
-omfattas av bilaga 1 till  omfattas av bilaga 1 till
-Europaparlamentets och rådets Europaparlamentets och rådets
+/…/
+3\. skyldighet för utövare av
+verksamhet som inte är
+tillståndspliktig eller förelagts att
+ansöka om tillstånd, men som
+omfattas av bilaga 1 till
+Europaparlamentets och rådets
+förordning (EG) nr 166/2006, att
+lämna miljörapport och vad den ska
+innehålla, och
+4\. skyldighet för utövare av
+verksamhet som omfattar
+avloppsledningsnät som är allmänna
+enligt lagen (2006:412) om allmänna
 
-förordning (EG) nr 166/2006, att förordning (EG) nr 166/2006, att
-lämna miljörapport och vad den ska lämna miljörapport och vad den ska
-innehålla, och             innehålla,
-4\. skyldighet för utövare av 4. skyldighet för utövare av
-verksamhet som omfattar    verksamhet som omfattar
-avloppsledningsnät som är allmänna avloppsledningsnät som är allmänna
-enligt lagen (2006:412) om allmänna enligt lagen (2006:412) om allmänna
-vattentjänster och som är anslutna till vattentjänster och som är anslutna till
-en avloppsreningsanläggning som är en avloppsreningsanläggning som är
-tillståndspliktig enligt   tillståndspliktig enligt
-miljöprövningsförordningen miljöprövningsförordningen
-(2013:251) att lämna miljörapport (2013:251) att lämna miljörapport
-och vad den ska innehålla. och vad den ska innehålla, och
+vattentjänster och som är anslutna till
+en avloppsreningsanläggning som är
+tillståndspliktig enligt
+miljöprövningsförordningen
+(2013:251) att lämna miljörapport
+och vad den ska innehålla.
+
+Miljörapporter som avser
+tillståndspliktiga verksamheter eller
+
+verksamheter som förelagts att
+ansöka om tillstånd ska dessutom
+innehålla följande uppgifter:
+/…/
+2\. Datum och tillståndsgivande
+myndighet för gällande
+tillståndsbeslut enligt 9 kap. 6 §
+miljöbalken eller motsvarande i
+miljöskyddslagen samt en kort
+beskrivning av vad beslutet eller
+besluten avser.
+/…/
+
+6(29)
+
+6 a § miljöbalken, ska lämna varje år
+till tillsynsmyndigheten enligt 26 kap.
+20 § första stycket miljöbalken,
+
+/…/
+3\. skyldighet för utövare av
+verksamhet som inte är
+tillståndspliktig eller förelagts att
+ansöka om tillstånd, men som
+omfattas av bilaga 1 till
+Europaparlamentets och rådets
+förordning (EG) nr 166/2006, att
+lämna miljörapport och vad den ska
+innehålla,
+4\. skyldighet för utövare av
+verksamhet som omfattar
+
+avloppsledningsnät som är allmänna
+enligt lagen (2006:412) om allmänna
+vattentjänster och som är anslutna till
+en avloppsreningsanläggning som är
+tillståndspliktig enligt
+miljöprövningsförordningen
+(2013:251) att lämna miljörapport
+och vad den ska innehålla, och
 5\. vilka uppgifter som en
 verksamhetsutövare enligt 31 c §
 förordningen (1998:899) om
-
 miljöfarlig verksamhet och
 hälsoskydd ska lämna i en
 miljörapport.
 
 5 §
-Miljörapporter som avser   Miljörapporter som avser
-tillståndspliktiga verksamheter eller tillståndspliktiga verksamheter eller
-verksamheter som förelagts att verksamheter som förelagts att
-ansöka om tillstånd ska dessutom ansöka om tillstånd ska dessutom
-innehålla följande uppgifter: innehålla följande uppgifter:
-/…/                        /…/
-2\. Datum och tillståndsgivande 2. Datum och tillståndsgivande
-myndighet för gällande     myndighet för gällande
-tillståndsbeslut enligt 9 kap. 6 § tillståndsbeslut enligt 9 kap. 6 § eller
-miljöbalken eller motsvarande i 6 a § miljöbalken eller motsvarande i
-miljöskyddslagen samt en kort miljöskyddslagen samt en kort
 
-beskrivning av vad beslutet eller beskrivning av vad beslutet eller
-besluten avser.            besluten avser.
-/…/                        /…/
+Miljörapporter som avser
+tillståndspliktiga verksamheter eller
+verksamheter som förelagts att
+ansöka om tillstånd ska dessutom
+innehålla följande uppgifter:
+/…/
+2\. Datum och tillståndsgivande
+myndighet för gällande
+tillståndsbeslut enligt 9 kap. 6 § eller
+6 a § miljöbalken eller motsvarande i
+miljöskyddslagen samt en kort
+beskrivning av vad beslutet eller
+besluten avser.
+/…/
 
 <!-- sida 409 -->
 
@@ -16156,6 +16307,7 @@ Alternativa lösningar
 Vi bedömer att det inte finns några alternativa lösningar till förslagen.
 
 2.1.3. Analys
+
 Eftersom ändringarna endast avser att dels ge en fullständig bild över innehållet i
 föreskrifterna, dels rätta till felaktiga hänvisningar innebär förslagen inte några
 konsekvenser av betydelse för myndigheter, verksamhetsutövare eller andra.
@@ -16164,24 +16316,40 @@ konsekvenser av betydelse för myndigheter, verksamhetsutövare eller andra.
 
 2.2.1. Författningsförslag
 
-Nuvarande lydelse          Föreslagen lydelse
+Nuvarande lydelse
 
-5 §
-Miljörapporter som avser   Miljörapporter som avser
-tillståndspliktiga verksamheter eller tillståndspliktiga verksamheter eller
-verksamheter som förelagts att verksamheter som förelagts att
-ansöka om tillstånd ska dessutom ansöka om tillstånd ska dessutom
-innehålla följande uppgifter: innehålla följande uppgifter:
-/…/                        /…/
-13\. Redovisning av de betydande 13. Redovisning av de betydande
-åtgärder som genomförts under året i åtgärder som genomförts under året i
+Miljörapporter som avser
+tillståndspliktiga verksamheter eller
+verksamheter som förelagts att
+ansöka om tillstånd ska dessutom
+innehålla följande uppgifter:
+/…/
 
-syfte att minska volymen avfall från syfte att minska volymen avfall från
-verksamheten och avfallets verksamheten och avfallets farliga
-miljöfarlighet.            egenskaper.
-/…/                        /…/
+13\. Redovisning av de betydande
+åtgärder som genomförts under året i
+syfte att minska volymen avfall från
+verksamheten och avfallets
+miljöfarlighet.
+/…/
 
 2.2.2. Problem och lösning
+
+Föreslagen lydelse
+
+5 §
+Miljörapporter som avser
+tillståndspliktiga verksamheter eller
+verksamheter som förelagts att
+ansöka om tillstånd ska dessutom
+innehålla följande uppgifter:
+/…/
+
+13\. Redovisning av de betydande
+åtgärder som genomförts under året i
+syfte att minska volymen avfall från
+verksamheten och avfallets farliga
+egenskaper.
+/…/
 
 Beskrivning av problemet och föreslagen lösning
 Enligt 5 § miljörapportsföreskrifterna ska verksamhetsutövaren redovisa vilka
@@ -16192,6 +16360,7 @@ avfallets miljöfarlighet.
 
 Vi bedömer att syftet med bestämmelsen är att verksamhetsutövaren ska
 redovisa hur verksamheten arbetar med att minska farligheten med avseende på
+
 fler aspekter än miljöfarligheten (som exempelvis hälsofarligheten) hos avfallet
 som uppkommer och hur det hanteras. Begreppet ”miljöfarlighet” används inte i
 avfallsförordningen (2020:614) och är för snävt. Det är 15 olika egenskaper, som
@@ -16211,7 +16380,6 @@ ovan, i bilaga III till avfallsdirektivet. Vi föreslår därför att begreppet 
 miljöfarlighet” ersätts med ”avfallets farliga egenskaper”.
 
 Nollalternativet
-
 Om begreppet inte ändras kvarstår ett för snävt begrepp. Det kan innebära en
 risk för att verksamhetsutövare endast redovisar hur verksamheten arbetar med
 att minska miljöfarligheten hos avfallet och inte annan typ av farlighet, såsom
@@ -16224,6 +16392,7 @@ Vi har inte funnit något annat lämpligt begrepp som kan användas i stället.
 2.2.3. Analys
 Bytet av begrepp förtydligar endast det som vi bedömer är syftet med
 bestämmelsen. Att förstå hur avfallet har uppkommit och vad det består av är
+
 grundläggande för att uppfylla miljöbalkens krav på egenkontroll och hur det
 uttrycks genom allmänna hänsynsregler och kunskapskravet enligt 2 kap. 2 §
 miljöbalken.
@@ -16239,13 +16408,20 @@ Nuvarande lydelse          Föreslagen lydelse
 5 i §
 Miljörapporter som avses i 1 § 1 och Miljörapporter som avses i 1 § 1 och
 som avser verksamheter som omfattas som avser verksamheter som omfattas
-av Naturvårdsverkets föreskrifter av Naturvårdsverkets föreskrifter NFS
-SNFS 1994:2 ska dessutom innehålla 2016:6 ska dessutom innehålla
-en kommenterad sammanfattning av uppgifter om avloppsslammet
-de uppgifter som behövs för att kunna avseende
 
-bedöma efterlevnaden av       1. producerade och hanterade
-föreskrifterna.                 mängder,
+av Naturvårdsverkets föreskrifter
+SNFS 1994:2 ska dessutom innehålla
+en kommenterad sammanfattning av
+de uppgifter som behövs för att kunna
+bedöma efterlevnaden av
+föreskrifterna.
+
+av Naturvårdsverkets föreskrifter NFS
+2016:6 ska dessutom innehålla
+uppgifter om avloppsslammet
+avseende
+1\. producerade och hanterade
+mängder,
 2\. behandlingsmetoder,
 
 4 Bilaga till kommissionens förordning (EU) nr 1357/2014 av den 18 december 2014 om
@@ -16814,21 +16990,32 @@ miljörapporteringsportalen (SMP). miljörapporteringsportalen (SMP)
 
 NATURVÅRDSVERKET                                            20(29)
 
-Eventuella kompletteringar som görs eller på det sätt Naturvårdsverket
-ska också lämnas via SMP.  anvisar.
-Tillsynsmyndigheten får bevilja Tillsynsmyndigheten får bevilja
-anstånd i högst en månad med sådana anstånd i högst en månad med sådana
-uppgifter som anges i 4 § och 5 a § uppgifter som anges i 4 § och 5 a §
-och högst tre månader med övriga och högst tre månader med övriga
-uppgifter, om det finns särskilda skäl. uppgifter, om det finns särskilda skäl.
-Bestämmelsen gäller inte  Bestämmelsen gäller inte
-miljörapporter som avses i 1 § 2. miljörapporter som avses i 1 § 2.
+Eventuella kompletteringar som görs
+ska också lämnas via SMP.
+Tillsynsmyndigheten får bevilja
+anstånd i högst en månad med sådana
+uppgifter som anges i 4 § och 5 a §
+och högst tre månader med övriga
+uppgifter, om det finns särskilda skäl.
+Bestämmelsen gäller inte
+miljörapporter som avses i 1 § 2.
+
+eller på det sätt Naturvårdsverket
+anvisar.
+Tillsynsmyndigheten får bevilja
+anstånd i högst en månad med sådana
+uppgifter som anges i 4 § och 5 a §
+och högst tre månader med övriga
+uppgifter, om det finns särskilda skäl.
+Bestämmelsen gäller inte
+miljörapporter som avses i 1 § 2.
 
 2.5.2. Problem och lösning
 
 Beskrivning av problemet och föreslagen lösning
 Enligt 26 kap. 20 § miljöbalken ska miljörapporten lämnas in till den tillsyns-
 myndighet som utövar tillsynen över verksamheten. Detta sker genom att miljö-
+
 rapporten lämnas in elektroniskt via SMP, vilket regleras i 6 § andra stycket
 miljörapportsföreskrifterna. Där anges också att eventuella kompletteringar som
 görs ska lämnas in via SMP.
@@ -16839,7 +17026,6 @@ pågår ett arbete med att ersätta SMP med det nya systemet FMR till årsskifte
 6 § miljörapportsföreskrifterna ska utgå och att det i stället ska föreskrivas i
 FMH att miljörapporten ska lämnas in till länsstyrelserna via länsstyrelsernas
 informationssystem.15 Naturvårdsverket fick i regleringsbrevet för budgetåret
-
 2025 ett uppdrag att komplettera nämnda redovisning. I kompletterings-
 uppdraget ingick en utredning som redogör för vad alternativet att den nationella
 digitala lösningen som föreslås i skrivelsen utvecklas och förvaltas vid
@@ -16847,6 +17033,7 @@ Naturvårdsverket skulle innebära. Ett av förslagen i kompletteringsuppdraget 
 att 6 § miljörapportsföreskrifterna ska utgå och att det i stället ska föreskrivas i
 FMH att miljörapporten ska lämnas till Naturvårdsverket via Naturvårdsverkets
 informationssystem.16 Nyligen har regeringen beslutat att ge Naturvårdsverket i
+
 uppdrag att ansvara för utveckling, drift och förvaltning av ett nytt system för
 företagens miljöinformation och rapportering.17
 
@@ -16856,7 +17043,6 @@ in miljörapporter och uppgifter på ett annat sätt än via SMP. Det behovet fi
 redan idag med anledning av EU:s bevattningsförordning (se avsnitt 2.4). Vi
 föreslår därför att 6 § miljörapportsföreskrifterna kompletteras så att det även
 blir möjligt att ge in miljörapporten på det sätt Naturvårdsverket anvisar. Då kan
-
 Naturvårdsverket anvisa att hela miljörapporten eller delar av den ska lämnas in
 
 15 Se Naturvårdsverket (2025), Nytt system för företagens miljörapportering, Redovisning av
@@ -16993,9 +17179,9 @@ påverkas också om hela eller delar av miljörapporterna ges in på ett annat s
 via SMP.22 Användningen av uppgifter ur miljörapporterna försvåras om
 miljörapporterna lämnas in ostrukturerat utanför SMP. Även extern åtkomst till
 uppgifterna försvåras eftersom varje enskild miljörapport behöver begäras ut
+
 från den myndighet där den förvaras. Precis som ovan är detta dock en
 konsekvens av att SMP är föråldrat och riskerar att stängas ned och inte en direkt
-
 konsekvens av vårt förslag. Dessa konsekvenser går därför inte att undvika
 genom att inte genomföra förslaget. Konsekvenserna av förslaget i sig bedöms
 därmed som marginella eller obefintliga.
@@ -17011,25 +17197,41 @@ möjliggör alternativa vägar att lämna in miljörapporten under en
 Nuvarande lydelse          Föreslagen lydelse
 
 Bilaga 5
-/…/                        /…/
 
-Termerna i tabellen ovan har följande Termerna i tabellen ovan har följande
-betydelse (presenteras i   betydelse (presenteras i
-bokstavsordning):          bokstavsordning):
-Avfallskod: den sexsiffriga kod (i Avfallskod: den sexsiffriga kod (i
-formuläret inledd med 17 eller 19) formuläret inledd med 17 eller 19)
-som används för att beteckna var och som används för att beteckna var och
-en av de olika avfallstyper som listas en av de olika avfallstyper som listas
-och kodas i bilaga 4 till  och kodas i bilaga 3 till
-avfallsförordningen (2011:927). avfallsförordningen (2020:614).
-Hanteringskod: en kod som börjar Hanteringskod: en kod som börjar
-med R som beteckning för   med R som beteckning för
-återvinning eller D som beteckning återvinning eller D som beteckning
+/…/
+Termerna i tabellen ovan har följande
+betydelse (presenteras i
+bokstavsordning):
+Avfallskod: den sexsiffriga kod (i
+formuläret inledd med 17 eller 19)
+som används för att beteckna var och
+en av de olika avfallstyper som listas
+och kodas i bilaga 4 till
+
+avfallsförordningen (2011:927).
+Hanteringskod: en kod som börjar
+med R som beteckning för
+återvinning eller D som beteckning
+
+/…/
+Termerna i tabellen ovan har följande
+betydelse (presenteras i
+bokstavsordning):
+Avfallskod: den sexsiffriga kod (i
+formuläret inledd med 17 eller 19)
+som används för att beteckna var och
+en av de olika avfallstyper som listas
+och kodas i bilaga 3 till
+
+avfallsförordningen (2020:614).
+Hanteringskod: en kod som börjar
+med R som beteckning för
+återvinning eller D som beteckning
+
 för bortskaffande, följt av ett för bortskaffande, följt av ett
 ordningstal, som med utgångspunkt i ordningstal, som med utgångspunkt i
 bilaga 2 och 3 till avfallsförordningen bilaga 1 och 2 till avfallsförordningen
 ytterligare specificerar aktuell ytterligare specificerar aktuell
-
 hanteringstyp.             hanteringstyp.
 
 22 Andra som använder miljörapporterna som underlag på olika sätt är till exempel Havs- och
@@ -17039,33 +17241,59 @@ vattenmyndigheten, SGU, forskare vid universitet samt mark- och miljödomstolar.
 
 NATURVÅRDSVERKET                                            24(29)
 
-Interna (internt uppkomna) Interna (internt uppkomna)
-avfallstyper: avser avfallstyper som avfallstyper: avser avfallstyper som
-enligt bilaga 4 till avfallsförordningen enligt bilaga 3 till avfallsförordningen
-härrör från bygg- och rivningssektorn härrör från bygg- och rivningssektorn
-med avfallskoder som börjar med 19 med avfallskoder som börjar med 19
-och utgör s.k. sekundärt avfall (avfall och utgör s.k. sekundärt avfall (avfall
-från avfall), som efter behandling från avfall), som efter behandling
-transporteras vidare från  transporteras vidare från
-anläggningen till annan mottagare. anläggningen till annan mottagare.
-/…/                        /…/
-Mottagna avfallstyper: avser de Mottagna avfallstyper: avser de
+Interna (internt uppkomna)
+avfallstyper: avser avfallstyper som
+enligt bilaga 4 till avfallsförordningen
+härrör från bygg- och rivningssektorn
+med avfallskoder som börjar med 19
+och utgör s.k. sekundärt avfall (avfall
+från avfall), som efter behandling
+transporteras vidare från
+anläggningen till annan mottagare.
 
-avfallstyper som enligt bilaga 4 till avfallstyper som enligt bilaga 3 till
-avfallsförordningen härrör från bygg- avfallsförordningen härrör från bygg-
-och rivningssektorn med avfallskoder och rivningssektorn med avfallskoder
-som börjar med 17 och utgör s.k. som börjar med 17 och utgör s.k.
-primärt avfall (ursprungligt avfall) primärt avfall (ursprungligt avfall)
-vilket behandlas/ sorteras inom den vilket behandlas/ sorteras inom den
-rapporterande anläggningen. rapporterande anläggningen.
-Mottagna avfallstyper som redan Mottagna avfallstyper som redan
-behandlats och klassificerats med 19- behandlats och klassificerats med 19-
-koder på annan anläggning ska inte koder på annan anläggning ska inte
-redovisas även om detta avfall har sitt redovisas även om detta avfall har sitt
-ursprung i bygg- och rivningssektorn. ursprung i bygg- och rivningssektorn.
-/…/                        /…/
+/…/
+Mottagna avfallstyper: avser de
+avfallstyper som enligt bilaga 4 till
+avfallsförordningen härrör från bygg-
+och rivningssektorn med avfallskoder
+som börjar med 17 och utgör s.k.
+primärt avfall (ursprungligt avfall)
+vilket behandlas/ sorteras inom den
+rapporterande anläggningen.
+Mottagna avfallstyper som redan
+behandlats och klassificerats med 19-
+koder på annan anläggning ska inte
+redovisas även om detta avfall har sitt
+ursprung i bygg- och rivningssektorn.
+/…/
 
 2.6.2. Problem och lösning
+
+Interna (internt uppkomna)
+avfallstyper: avser avfallstyper som
+enligt bilaga 3 till avfallsförordningen
+härrör från bygg- och rivningssektorn
+med avfallskoder som börjar med 19
+och utgör s.k. sekundärt avfall (avfall
+från avfall), som efter behandling
+transporteras vidare från
+anläggningen till annan mottagare.
+
+/…/
+Mottagna avfallstyper: avser de
+avfallstyper som enligt bilaga 3 till
+avfallsförordningen härrör från bygg-
+och rivningssektorn med avfallskoder
+som börjar med 17 och utgör s.k.
+primärt avfall (ursprungligt avfall)
+vilket behandlas/ sorteras inom den
+rapporterande anläggningen.
+Mottagna avfallstyper som redan
+behandlats och klassificerats med 19-
+koder på annan anläggning ska inte
+redovisas även om detta avfall har sitt
+ursprung i bygg- och rivningssektorn.
+/…/
 
 Beskrivning av problemet och föreslagen lösning
 Bilaga 5 till miljörapportsföreskrifterna reglerar uppgifter om in- och utgående
@@ -17076,6 +17304,7 @@ I bilagan finns idag hänvisningar till annan författning som inte stämmer. I 
 om avfallskoder görs en hänvisning till bilaga 4 i avfallsförordningen
 (2011:927). Den 1 augusti 2020 trädde en ny avfallsförordning (2020:614) i
 kraft. I den nya förordningen återfinns avfallskoderna i bilaga 3. Hänvisningen
+
 till hanteringskoder 2 och 3 till den tidigare avfallsförordningen stämmer inte
 heller. I den nya avfallsförordningen återfinns koderna i bilaga 1 och 2.
 
@@ -17107,24 +17336,45 @@ Nuvarande lydelse          Föreslagen lydelse
 
 Bilaga 6
 För tillståndspliktiga     För tillståndspliktiga
-avloppsreningsanläggningar som avloppsreningsanläggningar som
-omfattas av Naturvårdsverkets omfattas av Naturvårdsverkets
-föreskrifter (NFS 2016:6) om rening föreskrifter (NFS 2016:6) om rening
-och kontroll av utsläpp av och kontroll av utsläpp av
-avloppsvatten från tätbebyggelse ska avloppsvatten från tätbebyggelse ska
-följande rapporteras:      följande rapporteras:
-/…/                        /…/
-Efterlevnad av begränsningsvärden i Efterlevnad av begränsningsvärden i
-NFS 2026:6                 NFS 2026:6
-COD  (förvalda alternativ anges)\*\* COD (förvalda alternativ anges)\*\*
-Cr                         Cr
-BOD  (förvalda alternativ anges)\*\* BOD (förvalda alternativ anges)\*\*
-7                          7
-Totalkväve (förvalda alternativ Totalkväve (förvalda alternativ
-anges)\*\*\*                  anges)\*\*\*
+
+avloppsreningsanläggningar som
+omfattas av Naturvårdsverkets
+föreskrifter (NFS 2016:6) om rening
+och kontroll av utsläpp av
+avloppsvatten från tätbebyggelse ska
+följande rapporteras:
+/…/
+Efterlevnad av begränsningsvärden i
+NFS 2026:6
+
+COD  (förvalda alternativ anges)\*\*
+Cr
+BOD (förvalda alternativ anges)\*\*
+7
+Totalkväve (förvalda alternativ
+anges)\*\*\*
+/…/
+
+avloppsreningsanläggningar som
+omfattas av Naturvårdsverkets
+föreskrifter (NFS 2016:6) om rening
+och kontroll av utsläpp av
+avloppsvatten från tätbebyggelse ska
+följande rapporteras:
+/…/
+Efterlevnad av begränsningsvärden i
+NFS 2026:6
+
+COD  (förvalda alternativ anges)\*\*
+Cr
+BOD (förvalda alternativ anges)\*\*
+7
+Totalkväve (förvalda alternativ
+anges)\*\*\*
 Totalfosfor (förvalda alternativ
 anges)
-/…/                        /…/
+/…/
+
 2.7.2. Problem och lösning
 
 Beskrivning av problemet och föreslagen lösning
@@ -17133,7 +17383,6 @@ började gälla den 1 januari 2023. I 22 § avloppsföreskrifterna anges att
 bestämmelser om rapportering av efterlevnaden av dessa föreskrifter finns i
 miljörapportsföreskrifterna. I bilaga 6 till miljörapportsföreskrifterna finns
 bestämmelser om att verksamhetsutövare som omfattas av avloppsföreskrifterna
-
 ska redovisa efterlevnaden av vissa begränsningsvärden. Det saknas dock
 begränsningsvärde för totalfosfor i bilaga 6.
 
@@ -18189,46 +18438,48 @@ Gestaltningsprogram Sydöstra centrum
 BAKGRUND
 
 Arbetet med att utveckla planområdet från verksamhetsområde till blandad stadsbebyggelse började
-
 med ett uppdrag att ta fram ett planprogram för sydöstra centrum, se område inom prickad linje nedan.
+
 Området har en mycket strategisk placering i Kungsbacka stad med sitt läge gränsande till innerstaden
 och resecentrum inom 500 meter. Området delas i två delar av Varbergsvägen, en västlig och en östlig
-
 del. Planprogram och även en Planinriktning har tagits fram för hela området. Arbetet med att ta fram
+
 detaljplan har startats med den västra delen, etapp 1.
 
 Sydöstra Centrum är i kommunens strategiska övergripande dokument utpekat som lämpligt att
 omvandla från verksamhetsområde till blandstad. Inriktningarna från planprogrammet för Sydöstra
-
 centrum-etapp 1 har varit följande:
-• Skapa en attraktiv stadsdel som är en integrerad del av Kungsbacka centrum.
 
+• Skapa en attraktiv stadsdel som är en integrerad del av Kungsbacka centrum.
 • Skapa en tät och blandad stadsdel med bostäder, verksamheter, arbetsplatser och service som är
 attraktiv för alla målgrupper.
-• Bygga bort barriärer och koppla samman områden.
 
+• Bygga bort barriärer och koppla samman områden.
 • Förbättra och tydliggöra stråk och mötesplatser.
+
 • Förstärka den gröna närvaron inom programområdet.
 • Skapa en gång- och cykelvänlig stadsdel.
-
 • Samordna och samla parkering.
-• Utveckla stråket längs Varbergsvägen. Möjliggöra för körbana med fyra körfält varav ett för buss.
 
+• Utveckla stråket längs Varbergsvägen. Möjliggöra för körbana med fyra körfält varav ett för buss.
 Utmed Söderå finns ett parkstråk som börjar vid Lindens torg och som sträcker sig vidare öster ut.
+
 Inom detaljplaneområdet är det avgränsat av vägar, järnvägen och bebyggelse. I delen mot järnvägen
 finns en kommunal lekplats. Parkens yta minskar jämfört med idag för att ge plats till en förlängning av
-
-Lantmannagatan österut till Söderåleden.                              1. PLANPROGRAM FÖR BLANDAD STADSBEBYGGELSE INOM 2. UTDRAG UR SYDÖSTRA KUNGSBACKA, PLANINRIKTNING,
-SYDÖSTRA CENTRUM, KUNGSBACKA, DNR 2018-00312. 2018-10-04.
+Lantmannagatan österut till Söderåleden.
 
 Flera gator kantas av trädrader och alléer. Många omfattas av biotopskydd och dispens från
 Länsstyrelsen krävs för nedtagning av dessa. För att undvika nedtagning kan vissa komma att flyttas,
-helst inom området. För de som tas ner kommer kompensation att krävas genom plantering av nya
 
+helst inom området. För de som tas ner kommer kompensation att krävas genom plantering av nya
 träd, också det helst inom området. Allén som går längs med hela Varbergsvägen utgör en viktig
+
 spridningskorridor för fåglar och insekter.
 
 För övrigt finns det idag få inslag av grönska i området.
+
+1\. PLANPROGRAM FÖR BLANDAD STADSBEBYGGELSE INOM 2. UTDRAG UR SYDÖSTRA KUNGSBACKA, PLANINRIKTNING,
+SYDÖSTRA CENTRUM, KUNGSBACKA, DNR 2018-00312. 2018-10-04.
 
 4\. UTDRAG UR SYDÖSTRA KUNGSBACKA, PLANINRIKTNING,
 3\. SYDÖSTRA KUNGSBACKA, PLANINRIKTNING, 2018-10-04.
@@ -18303,64 +18554,102 @@ Gestaltningsprogram Sydöstra centrum
 
 GESTALTNINGSPRINCIPER
 
-ÖVERGRIPANDE    GESTALTNINGSPRINCIPER                                         JÄMSTÄLLDHET    OCH  JÄMLIKHET
+ÖVERGRIPANDE    GESTALTNINGSPRINCIPER
 
-Den framtida gestaltningen av Sydöstra centrums allmänna platser ska genomsyras av en omsorg om detaljer och I Sverige har vi ett övergripande nationellt mål för jämställdhetspolitiken, som ofta används för att definiera
+Den framtida gestaltningen av Sydöstra centrums allmänna platser ska genomsyras av en omsorg om detaljer och
+materialval, med en hög ambitionsnivå som sänder tydliga signaler om ett omhändertaget offentligt rum. Med en
 
-materialval, med en hög ambitionsnivå som sänder tydliga signaler om ett omhändertaget offentligt rum. Med en jämställdhet. Målet är att ”Kvinnor och män ska ha samma makt att forma samhället och sina egna liv”.
-genomtänkt gestaltning i kombination med väl valda material och utrustning styrs hur olika ytor ska användas efter Jämställdhet blandas ibland ihop med jämlikhet. Jämlikhet är ett mer omfattande begrepp, som handlar om alla
-funktion och ger en identitetsskapande miljö.                                 människors lika värde, oavsett könstillhörighet, etnicitet, sexuell läggning, funktionsnedsättning med mera. Begreppet
+genomtänkt gestaltning i kombination med väl valda material och utrustning styrs hur olika ytor ska användas efter
+funktion och ger en identitetsskapande miljö.
 
-jämställdhet fokuserar specifikt på jämlikhet mellan kvinnor och män.
 TILLGÄNGLIGHET
-I det fortsatta arbetet med gestaltningen för Sydöstra centrum är faktorerna jämställdhet och jämlikhet viktiga att ta i
-För att skapa en inkluderande och tillgänglig stadsdel är det viktigt att tillgänglighetsfrågor lyfts i ett tidigt skede i beaktande. Syftet är att skapa trygga, inkluderande och inbjudande platser. Detta betyder till exempel att vi vid dialoger
-gestaltnings- och projekteringsprocessen. Områden och platser ska i alla lägen där det är möjligt utformas med en om gestaltningen ska säkerställa att dialogen sker på ett jämlikt och jämställt sätt. SKA- och BKA-analyser (social
-tydlighet och omsorg så att de blir tillgängliga och lätta att använda för alla. konsekvensanalys och barnkonsekvensanalys) är ett verktyg för att ta fram underlag för gestaltning.
 
-Nedanstående utformningsprinciper ska också användas vid utformning av utomhusmiljöer:
+För att skapa en inkluderande och tillgänglig stadsdel är det viktigt att tillgänglighetsfrågor lyfts i ett tidigt skede i
+gestaltnings- och projekteringsprocessen. Områden och platser ska i alla lägen där det är möjligt utformas med en
+
+tydlighet och omsorg så att de blir tillgängliga och lätta att använda för alla.
+
 BELYSNING
-Miljöer som uppfattas omhändertagna upplevs mer trygga, detta kan uppnås genom belysning i mänsklig skala genom • Multifunktionella, flexibla platser med ett varierat innehåll
 
-exempelvis belysning av bänkar, trappor, räcken, ljus på entréer, växtlighet och vatten. • Plats som möjliggör för besökare att vara on stage, off stage och back stage - både vid vila och vid fysisk aktivitet.
-Belysning är ett sätt för att få en levande stad under fler timmar och möjliggöra för aktiviteter för olika målgrupper. • God orienterbarhet till och inom platsen.
+Miljöer som uppfattas omhändertagna upplevs mer trygga, detta kan uppnås genom belysning i mänsklig skala genom
+exempelvis belysning av bänkar, trappor, räcken, ljus på entréer, växtlighet och vatten.
 
-Belysningen behöver inte vara statisk utan kan variera under dygnet och året. •  Undvik stereotypa normer av kvinnor och män i bild- och figurval.
-Genom rumsskapande, identitetsskapande och social belysning ökar den upplevda tryggheten. Dessa aspekter ska finnas • Viktigt är också att följa hur normerna ändras över tid och anpassa arbetssätt efter detta.
+Belysning är ett sätt för att få en levande stad under fler timmar och möjliggöra för aktiviteter för olika målgrupper.
+Belysningen behöver inte vara statisk utan kan variera under dygnet och året.
+
+Genom rumsskapande, identitetsskapande och social belysning ökar den upplevda tryggheten. Dessa aspekter ska finnas
 med vid planering av en genomtänkt belysning.
+
+JÄMSTÄLLDHET    OCH  JÄMLIKHET
+
+I Sverige har vi ett övergripande nationellt mål för jämställdhetspolitiken, som ofta används för att definiera
+jämställdhet. Målet är att ”Kvinnor och män ska ha samma makt att forma samhället och sina egna liv”.
+
+Jämställdhet blandas ibland ihop med jämlikhet. Jämlikhet är ett mer omfattande begrepp, som handlar om alla
+människors lika värde, oavsett könstillhörighet, etnicitet, sexuell läggning, funktionsnedsättning med mera. Begreppet
+jämställdhet fokuserar specifikt på jämlikhet mellan kvinnor och män.
+
+I det fortsatta arbetet med gestaltningen för Sydöstra centrum är faktorerna jämställdhet och jämlikhet viktiga att ta i
+beaktande. Syftet är att skapa trygga, inkluderande och inbjudande platser. Detta betyder till exempel att vi vid dialoger
+
+om gestaltningen ska säkerställa att dialogen sker på ett jämlikt och jämställt sätt. SKA- och BKA-analyser (social
+konsekvensanalys och barnkonsekvensanalys) är ett verktyg för att ta fram underlag för gestaltning.
+Nedanstående utformningsprinciper ska också användas vid utformning av utomhusmiljöer:
+
+• Multifunktionella, flexibla platser med ett varierat innehåll
+• Plats som möjliggör för besökare att vara on stage, off stage och back stage - både vid vila och vid fysisk aktivitet.
+
+• God orienterbarhet till och inom platsen.
+• Undvik stereotypa normer av kvinnor och män i bild- och figurval.
+
+• Viktigt är också att följa hur normerna ändras över tid och anpassa arbetssätt efter detta.
 
 9
 Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 455 -->
 
-BARNPERSPEKTIV                                                                DAGVATTEN
+BARNPERSPEKTIV
 
-En trivsam och trygg stad för barn är också trygg för alla medborgare. Brist på platser för barn att mötas, leka och vila Dagvatten från de mest förorenade ytorna så som vägar, gator och ytor omkring det södra parkeringshuset ska renas.
+En trivsam och trygg stad för barn är också trygg för alla medborgare. Brist på platser för barn att mötas, leka och vila
+utgör globalt ett allt större hinder för att tillgodose barns behov av utemiljö. Leken i planområdets norra del ska innehålla
 
-utgör globalt ett allt större hinder för att tillgodose barns behov av utemiljö. Leken i planområdets norra del ska innehålla Dagvattenutredning föreslår att dagvatten omhändertas i regnbäddar nära källan. I genomförandestudien har läge för ca
-aktiviteter för många åldrar men också lugnare platser för vila och återhämtning. Då parkens yta minskar är behovet av en 2500 m2 regnbäddar föreslagits. Regnbäddarna ska utformas täta och i botten ska dränledning finnas som ansluter till
-god gestaltning än viktigare för att få en bra fördelning och bra samspel mellan olika funktioner. I den bostadsnära parken dagvattenledningar i gatan med utlopp i Söderå. Utloppet anpassas för att minimera risk för grumling i Söderå.
-
+aktiviteter för många åldrar men också lugnare platser för vila och återhämtning. Då parkens yta minskar är behovet av en
+god gestaltning än viktigare för att få en bra fördelning och bra samspel mellan olika funktioner. I den bostadsnära parken
 kommer det finnas lugnare platser för samvaro och vila, men också en gräsyta som är flexibel för olika typer av användning
-SKYFALL
+
 efter behov och ålder. Sekundära sittplatser, såsom murkanter och räcken uppskattas av barn och unga och kan både
-fungera som lekredskap och sittmöbler.                                        Skyfall ska avledas ytligt. Varbergsvägen kommer fungera som en skyfallsled och för att inte belasta området öster om
-detaljplanen mer än i dagsläget föreslås en längsgående barriär utmed den östra planområdesgränsen.
+fungera som lekredskap och sittmöbler.
+
 GRÖNSKA
 
 En av de viktigaste gestaltningsprinciperna är att området skall upplevas som grönt med många träd, solitärbuskar och
+
 grönskande ytor. En mångfald av träd av olika arter, anpassade för dagens och framtidens klimat bidrar till att stärka
 området på lång sikt.
 
 Träd bidrar till klimatanpassning genom att minska risken för översvämningar eftersom vattnet vid häftiga skyfall fångas
-
 upp av trädens bladverk och kan rinna ner i marken under gräsmattan. Skugga och temperaturutjämning och dämpar vind
+
 är andra positiva effekter. De tar också upp koldioxid och partiklar samt renar vatten i marken samtidigt som de dessutom
 bidrar till ökad biologisk mångfald.
-
 De påverkar också människors hälsa positivt och ger upplevelser i form av doft, ljud och synintryck. De bidrar till att skapa
+
 naturliga mötesplatser och ge identitet till platser.
+
+DAGVATTEN
+
+Dagvatten från de mest förorenade ytorna så som vägar, gator och ytor omkring det södra parkeringshuset ska renas.
+Dagvattenutredning föreslår att dagvatten omhändertas i regnbäddar nära källan. I genomförandestudien har läge för ca
+
+2500 m2 regnbäddar föreslagits. Regnbäddarna ska utformas täta och i botten ska dränledning finnas som ansluter till
+dagvattenledningar i gatan med utlopp i Söderå. Utloppet anpassas för att minimera risk för grumling i Söderå.
+
+SKYFALL
+
+Skyfall ska avledas ytligt. Varbergsvägen kommer fungera som en skyfallsled och för att inte belasta området öster om
+
+detaljplanen mer än i dagsläget föreslås en längsgående barriär utmed den östra planområdesgränsen.
 
 10
 Gestaltningsprogram Sydöstra centrum
@@ -18371,41 +18660,61 @@ GESTALTNINGSKONCEPT
 
 IDÉFÖRSLAG
 
-Gestaltningsidén är att forma en modern Det gröna stråket i mitten ska skapa en skön
-stadsdel som speglar framtidens förutsättningar och inkluderande passage genom stadsdelen.
-
+Gestaltningsidén är att forma en modern
+stadsdel som speglar framtidens förutsättningar
 för ett hållbart, miljövänligt och inkluderande
-samhälle. Boende ska få närhet till handel, Indragna hörn vid Varbergsvägen är inbjudande
 
-butiker, restauranger, caféer, skolor, och öppnar upp mot de innerliggande delarna
-kommunkontor samt nära gångavstånd till av den nya stadsdelen.
+samhälle. Boende ska få närhet till handel,
+butiker, restauranger, caféer, skolor,
+kommunkontor samt nära gångavstånd till
+
 pendeltågsstationen och centrala Kungsbacka.
-Möjlighet till konstnärlig utsmyckning finns på
 
-Bostadskvarteren är som högst mot vissa ställen.
+Bostadskvarteren är som högst mot
 Varbergsvägen vilket skapar ett skydd för för
-
-bebyggelsen innanför.         En ny park med takterrasser på de närliggande
-byggnaderna finns i mitten av stadsdelen.
+bebyggelsen innanför.
 
 Husvolymerna i varje kvarter trappas upp
-mot norr och skapar en naturlig rytm med Hållbara material med ljusa färger som tegel
-högpunkter på hörn.           eller puts ger stadsdelen en upplyftande känsla
 
-av glädje.
+mot norr och skapar en naturlig rytm med
+högpunkter på hörn.
+
 När man närmar sig det nya området söder
+ifrån så möts man vid rondellen av den första
+hörnbyggnaden som kommer att vara en viktig
 
-ifrån så möts man vid rondellen av den första Enkel takutformning på utvalda platser
-hörnbyggnaden som kommer att vara en viktig påminner om förr i tidens sadeltak och ger
-orienteringspunkt för framtiden. möjlighet till takkupor och loft.
+orienteringspunkt för framtiden.
 
 Parkering kan ske under mark och i 2 st
 parkeringshus som är formerade för att ge
-
 möjligheter till träkonstruktion och växlighet.
 
 KVARTER 1 FRÅN VARBERGSVÄGEN                                                                 Öppna gårdar mellan bostadshus utformas med
+
 plats för alla.
+
+Det gröna stråket i mitten ska skapa en skön
+och inkluderande passage genom stadsdelen.
+
+Indragna hörn vid Varbergsvägen är inbjudande
+
+och öppnar upp mot de innerliggande delarna
+av den nya stadsdelen.
+
+Möjlighet till konstnärlig utsmyckning finns på
+vissa ställen.
+
+En ny park med takterrasser på de närliggande
+byggnaderna finns i mitten av stadsdelen.
+
+Hållbara material med ljusa färger som tegel
+eller puts ger stadsdelen en upplyftande känsla
+
+av glädje.
+
+Enkel takutformning på utvalda platser
+påminner om förr i tidens sadeltak och ger
+möjlighet till takkupor och loft.
 
 11
 Gestaltningsprogram Sydöstra centrum
@@ -20154,6 +20463,16 @@ Gestaltningsprogram Sydöstra centrum
 
 INSPIRATION      - PARKERINGSHUS
 
+2 Grafiska vägen
+
+Göteborg, Västra Götalands län
+P-HUS SÖDRA - RIBBOR AV TRÄ
+Google Street View
+aug. 2022 Se fler datum
+
+FASADGESTALTNING MED METALL OCH FASADGESTALTING MED BETONG
+SPALJEER
+
 När det kommer till gestaltning av stora ytor
 är träspaljén ett både kostnadseffektivt, kreativt
 
@@ -20168,15 +20487,14 @@ parkeringshuset kan vara solida och istället kläs
 med växtlighet för ett grönt och brandsäkert
 
 skydd.
-2 Grafiska vägen
 
 På bottenvåning kan en betongsockel vara
-Göteborg, Västra Götalands län
-Google Street V P ie - w HUS SÖDRA - RIBBOR AV TRÄ                 P-HUS SÖDRA - METALL FASAD SOM ALTERNATIV                    en plats för konstnärliga utsmyckningar där
-aug. 2022 Se fler datum
+P-HUS SÖDRA - METALL FASAD SOM ALTERNATIV                     en plats för konstnärliga utsmyckningar där
 lokala konstnärer får uttrycka sig och skapa en
+
 byggnad som talar om Kungsbackas kulturella
 identitet.
+
 Bottenplanet i P-hus Norrra kommer också
 hysa en hörnlokal för att bidra med trygghet
 runt parkeringshuset.
@@ -20189,8 +20507,8 @@ vilket är extra viktigt här då parkeringshuset
 
 stadsdelen.
 
-FASADGESTALTNING MED METALL OCH FASADGESTALTING MED BETONG    P-HUS LINDEN, KUNGSBACKA       P-HUS NORRA - HÖRNLOKAL MOT NORRA
-SPALJEER                                                                                     PARKEN GER ÖKAD TRYGGHET
+P-HUS LINDEN, KUNGSBACKA       P-HUS NORRA - HÖRNLOKAL MOT NORRA
+PARKEN GER ÖKAD TRYGGHET
 
 Bildinsamling: aug. 2022 © 2025 Google
 42
@@ -23265,171 +23583,293 @@ www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 567 -->
 
-PLANBESTÄMMELSER                                                  Trädet får endast fällas om det är sjukt eller       Bullerskydd ska anordnas.
+PLANBESTÄMMELSER                                                  Trädet får endast fällas om det är sjukt eller
 utgör en säkerhetsrisk.
-Stängsel, utfart och annan utgång
 Följande gäller inom områden med nedanstående
 Varsamhet
-beteckningar. Endast angiven användning och utformning är                                                              Utfartsförbud.
+beteckningar. Endast angiven användning och utformning är
 Maximal tillåten markbelastning ur
 tillåten. Där beteckning saknas gäller bestämmelsen inom
-Takvinkel
 stabilitetssynpunkt är 5 kPa.
 hela området.
-Sadeltak är inte tillåtet.
-EGENSKAPSBESTÄMMELSER            FÖR
+
+EGENSKAPSBESTÄMMELSER             FÖR
 GRÄNSER
-Upphävande   av strandskydd
 KVARTERSMARK
 Planområdesgräns.
-Strandskyddet är upphävt.
-Avgränsad  via egenskapsgräns    och
+Avgränsad   via egenskapsgräns   och
 Användningsgräns.
-användningsgräns                                     Utformning
+användningsgräns
 Egenskapsgräns.
-Begränsning  av markens utnyttjande                               Våningshöjden i sockelvåning ska vara lägst
-Sekundär egenskapsgräns.                                                                                  3,6 meter.Ett demonterbart mellanbjälklag
+Begränsning  av markens utnyttjande
+Sekundär egenskapsgräns.
 Marken får inte förses med byggnad.
-som inte är en förutsättning för byggnadens
 Balkonger och burspråk får kraga ut högst 1,5
-ANVÄNDNING      AV  MARK                                                                                               bärande konstruktion får uppföras.
+ANVÄNDNING      AV  MARK
 meter från fasad och 3,5 meter ovan mark.
-Utöver angivet antal våningar får vind inredas
 Allmän platsmark                                                  Skärmtak får finnas.
-för lägenheter. För vindsvåning får takkupor
 Marken får endast förses med
 Gata.
-och frontespiser anordnas till en längd
 komplementbyggnad.
-motsvarande 50% av fasadens längd.
 Gata upp till en höjd av 2,7 meter ovan mark.
 Höjd på byggnadsverk
-Endast lägenheter i bottenvåning medges ej
-Gata upp till en höjd av 4,7 meter ovan mark.        Högsta nockhöjd är \<angivet> meter över              inom kvarteret som helhet.
+Gata upp till en höjd av 4,7 meter ovan mark.        Högsta nockhöjd är \<angivet> meter över
 angivet nollplan.
-Park.                                                                                                     Byggnadens djup får vara högst 14,0 meter.
-Högsta nockhöjd på byggnad är \<angivet>              Utöver detta får burspråk och balkonger
+Park.
+Högsta nockhöjd på byggnad är \<angivet>
 Väg.
-meter över angivet nollplan som får uppföras i       finnas.
+meter över angivet nollplan som får uppföras i
 högst fem våningar.
-Väg upp till en höjd av 3,6 meter ovan mark.                                                              Mast för teknisk anläggning tillåts sticka upp
-Högsta nockhöjd på byggnad är \<angivet>              ovan högsta tillåtna nockhöjd.
+Väg upp till en höjd av 3,6 meter ovan mark.
+Högsta nockhöjd på byggnad är \<angivet>
 Kvartersmark
 meter över angivet nollplan som får uppföras i
-Byggnader inom egenskapsområdet ska
 Bostäder.                                            högst sju våningar.
-uppföras i minst två olika våningsantal.
-Högsta nockhöjd på byggnad är \<angivet>
-Centrum.                                                                                                  Byggnader inom egenskapsområdet ska
-meter över angivet nollplan som får uppföras i
-uppföras i minst tre olika våningsantal.
-Pumpstation.                                         högst sex våningar.
-Entré/entréer ska finnas mot Varbergsvägen.
-Högsta nockhöjd på byggnad är \<angivet>
+
+Centrum.
+
+Pumpstation.
+
 Transformatorstation.
-meter över angivet nollplan som får uppföras i       Byggnader ska vara sammanbyggda mot
-Detaljhandel.                                        högst fyra våningar.                                 Varbergsvägen.
-Industri.                                            Högsta nockhöjd på byggnad är +51,5 meter            I bottenplan ska öppna passager in till gården
-över angivet nollplan som får uppföras i högst       finnas för varje kvarter. Bestämmelsen gäller
-Kontor.                                              fjorton (14) våningar.                               inom hela egenskapsområdet.
-Parkeringshus.                                       Högsta nockhöjd på byggnad är \<angivet>
-Marken får inte förses med byggnad upp till en
-meter över angivet nollplan som får uppföras i
-Bostäder från och med en höjd av 2,7 meter                                                                höjd av 4,7 meter ovan mark.
-högst två våningar.
+
+Detaljhandel.
+
+Industri.
+Kontor.
+
+Parkeringshus.
+
+Bostäder från och med en höjd av 2,7 meter
 ovan mark där balkonger och burspråk är
-Minst 25% av bottenvåningen inom
-Markens  anordnande  och vegetation
+
 tillåtna att kraga ut över allmän plats.
-egenskapsområdet ska innehålla
-Marken får inte förses med byggnad eller
-Centrumlokaler ska finnas i bottenvåning.                                                                 centrumfunktioner.
-anläggning ovan mark, undantaget parkering
-Laddning av elfordon.                                för rörelsehindrad samt cykelparkering. Utförande
-Balkonger och burspråk får kraga ut 1,5 meter        Fasad ska utformas i obrännbart material mot
+Centrumlokaler ska finnas i bottenvåning.
+
+Laddning av elfordon.
+
 Underjordiskt garage. Parkering för
-4,0 meter ovan mark.                                 järnvägen.
 flerbostadshus får endast uppföras i garage,
-Maximalt tillåten markbelastning ur                  Fasad ska utformas så att utblick mot söder
 undantaget handikapparkering.
-stabilitetssynpunkt är 10 kPa.                       förhindras.
-Beteckningar inom parentes
-Markreservat för allmännyttiga ändamål                            Takvåning ska utformas så att utblick mot
+
+Beteckningar inom  parentes
 Beteckning i kartan som omgärdas av
-söder förhindras.
-Markreservat för allmännyttiga underjordiska
+
 parentes anger bestämmelse i annat plan än
-ledningar.                                           Tak och andra byggnadsdelar som avger
 markplan.
-kemiska föroreningar får inte uppföras.
-Skydd mot  störningar
-EGENSKAPSBESTÄMMELSER             FÖR  ALL                                                                             Koppar, zink eller plastbelagda plåttak är inte
-Dike, plank eller mur ska finnas för att
-tillåtet. Plåttak ska lackeras enligt SS-EN
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALL
 KVARTERSMARK
-förhindra att vätska från olycka på järnvägen
-10169:2022.
-Utförande                                                         läcker ut och rinner in på området.
-Byggnader tyngre än 10 kPa ska grundläggas
-Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över        Området utformas fritt från oeftergivliga och
-genom pålning.
-marknivå i förbindelsepunkten för att avloppsanslutning med       spetsiga föremål som kan punktera avåkande
-Passsage för gående och cyklister ska finnas
-självfall ska tillåtas.                                           godsbehållare.
-mot GATA i norr och söder.
-Villkor för startbesked                                           Fasader ska utformas i obrännbart material
-Utnyttjandegrad
-som vetter mot järnvägen. Luftintag placeras
+
+Utförande
+Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över
+
+marknivå i förbindelsepunkten för att avloppsanslutning med
+självfall ska tillåtas.
+Villkor för startbesked
+
 Startbesked får inte ges för byggnation förrän markförorening
-högt och på fasad som vetter bort från               Största byggnadsarea för
 ner till känslig markanvändning har avhjälpts från platsen.
-järnvägen.                                           komplementbyggnader är 40 kvm med en
-högsta nockhöjd om 4,0 meter. Utöver detta
-Om ekvivalent ljudnivå vid bostadens fasad är
-får infart till garage uppföras.
-EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN                     >60 dBA ska minst hälften av bostadsrummen
-PLATS                                                             vara vända mot ljuddämpad sida. För     Varsamhet
-bostäder med en största boarea om 35 kvm             Schaktning ska genomföras varsamt för att
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN
+
+PLATS
 Avgränsad   via egenskapsgräns   och
-gäller istället att minst hälften av                 inte skada befintliga träd och dess rotsystem.
+
 användningsgräns
-bostadsrummen ska vara vända mot
-Upphävande   av strandskydd                                       ljuddämpad sida om ekvivalent ljudnivå vid GENOMFÖRANDETID
-Strandskyddet är upphävt.                            bostadens fasad är >65dBA.              Genomförandetiden är 15 år.
-Medelljuddämpad sida menas fasad som har
+
+Upphävande   av strandskydd
+Strandskyddet är upphävt.
+
 Utformning av allmän plats
-en ekvivalent ljudnivå nattetid om högst 70
-Markens höjd över nollplanet ska vara                dBA.
-\<angivet> meter.                                     Högst en in- och utfart för fordon får anordnas
-Stödmur eller liknande till en höjd av 0,2 meter     samt högst två entréer för fotgängare får
-får uppföras.                                        anordnas i fasad som vetter mot järnvägen.
+Markens höjd över nollplanet ska vara
+
+\<angivet> meter.
+Stödmur eller liknande till en höjd av 0,2 meter
+får uppföras.
+
 Trädrad ska finnas.
-Vibrationsnivå i bostad får ej överskrida 0,4
+
 ORIENTERINGSKARTA
+
+Högsta nockhöjd på byggnad är \<angivet>
+meter över angivet nollplan som får uppföras i
+högst sex våningar.
+
+Högsta nockhöjd på byggnad är \<angivet>
+meter över angivet nollplan som får uppföras i
+högst fyra våningar.
+
+Högsta nockhöjd på byggnad är +51,5 meter
+över angivet nollplan som får uppföras i högst
+fjorton (14) våningar.
+
+Högsta nockhöjd på byggnad är \<angivet>
+meter över angivet nollplan som får uppföras i
+högst två våningar.
+
+Markens  anordnande  och vegetation
+Marken får inte förses med byggnad eller
+anläggning ovan mark, undantaget parkering
+
+för rörelsehindrad samt cykelparkering.
+Balkonger och burspråk får kraga ut 1,5 meter
+4,0 meter ovan mark.
+Maximalt tillåten markbelastning ur
+
+stabilitetssynpunkt är 10 kPa.
+Markreservat för allmännyttiga ändamål
+
+Markreservat för allmännyttiga underjordiska
+ledningar.
+Skydd  mot störningar
+
+Dike, plank eller mur ska finnas för att
+förhindra att vätska från olycka på järnvägen
+läcker ut och rinner in på området.
+
+Området utformas fritt från oeftergivliga och
+spetsiga föremål som kan punktera avåkande
+godsbehållare.
+
+Fasader ska utformas i obrännbart material
+som vetter mot järnvägen. Luftintag placeras
+högt och på fasad som vetter bort från
+järnvägen.
+
+Om  ekvivalent ljudnivå vid bostadens fasad är
+\>60 dBA ska minst hälften av bostadsrummen
+vara vända mot ljuddämpad sida. För
+bostäder med en största boarea om 35 kvm
+
+gäller istället att minst hälften av
+bostadsrummen ska vara vända mot
+ljuddämpad sida om ekvivalent ljudnivå vid
+bostadens fasad är >65dBA.
+Medelljuddämpad sida menas fasad som har
+
+en ekvivalent ljudnivå nattetid om högst 70
+dBA.
+Högst en in- och utfart för fordon får anordnas
+samt högst två entréer för fotgängare får
+
+anordnas i fasad som vetter mot järnvägen.
+
+Vibrationsnivå i bostad får ej överskrida 0,4
 mm/s vägd RMS.
+
+Bullerskydd ska anordnas.
+
+Stängsel, utfart och annan utgång
+Utfartsförbud.
+
+Takvinkel
+
+Sadeltak är inte tillåtet.
+
+Upphävande   av strandskydd
+Strandskyddet är upphävt.
+
+Utformning
+
+Våningshöjden i sockelvåning ska vara lägst
+3,6 meter.Ett demonterbart mellanbjälklag
+som inte är en förutsättning för byggnadens
+bärande konstruktion får uppföras.
+
+Utöver angivet antal våningar får vind inredas
+för lägenheter. För vindsvåning får takkupor
+och frontespiser anordnas till en längd
+motsvarande 50% av fasadens längd.
+
+Endast lägenheter i bottenvåning medges ej
+inom kvarteret som helhet.
+Byggnadens djup får vara högst 14,0 meter.
+Utöver detta får burspråk och balkonger
+
+finnas.
+Mast för teknisk anläggning tillåts sticka upp
+ovan högsta tillåtna nockhöjd.
+
+Byggnader inom egenskapsområdet ska
+uppföras i minst två olika våningsantal.
+Byggnader inom egenskapsområdet ska
+
+uppföras i minst tre olika våningsantal.
+Entré/entréer ska finnas mot Varbergsvägen.
+
+Byggnader ska vara sammanbyggda mot
+Varbergsvägen.
+
+I bottenplan ska öppna passager in till gården
+finnas för varje kvarter. Bestämmelsen gäller
+inom hela egenskapsområdet.
+
+Marken får inte förses med byggnad upp till en
+höjd av 4,7 meter ovan mark.
+Minst 25% av bottenvåningen inom
+egenskapsområdet ska innehålla
+
+centrumfunktioner.
+Utförande
+
+Fasad ska utformas i obrännbart material mot
+järnvägen.
+Fasad ska utformas så att utblick mot söder
+
+förhindras.
+Takvåning ska utformas så att utblick mot
+söder förhindras.
+
+Tak och andra byggnadsdelar som avger
+kemiska föroreningar får inte uppföras.
+Koppar, zink eller plastbelagda plåttak är inte
+tillåtet. Plåttak ska lackeras enligt SS-EN
+
+10169:2022.
+Byggnader tyngre än 10 kPa ska grundläggas
+genom pålning.
+
+Passsage för gående och cyklister ska finnas
+mot GATA i norr och söder.
+Utnyttjandegrad
+
+Största byggnadsarea för
+komplementbyggnader är 40 kvm med en
+högsta nockhöjd om 4,0 meter. Utöver detta
+får infart till garage uppföras.
+
+Varsamhet
+
+Schaktning ska genomföras varsamt för att
+inte skada befintliga träd och dess rotsystem.
+
+GENOMFÖRANDETID
+Genomförandetiden är 15 år.
+
 Detaljplan   för sydöstra    centrum
 Granskningshandling
 etapp   1
-Beslutsdatum   Instans
+
+Beslutsdatum  Instans
 Verkmästaren    6 m.fl.
 Samråd
-i Kungsbacka                                    BN § 90
-Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                                                                                                                             2022-03-17
-1200 och höjdsystemet RH 2000                                                                                                                                                                                 Kungsbacka    kommun                 Granskning
-Skala 1:1000 i A1, skala 1:2000 i A3                                                                                                                                                                                                                                                                     BN § 82
+i Kungsbacka                                     BN § 90
+Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                                                                                                                              2022-03-17
+1200 och höjdsystemet RH 2000                                                                                                                                                                                 Kungsbacka    kommun                  Granskning
+Skala 1:1000 i A1, skala 1:2000 i A3                                                                                                                                                                                                                                                                      BN § 82
 2025-04-24
-TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2025-04-23                                                                                                                                                                                                                             Antagande
-Upprättad 2025-03-18, reviderad 2025-04-24
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-04-23                                                                                                                                                                                                                              Antagande
+Upprättad 2025-03-18,  reviderad 2025-04-24
 Laga kraft
-Registernummer, tomtnummer                   Höjdkurva 1,0 m                               Skärmtak
-Höjdpunkt                                    Höjdkurva 5,0 m                                                                                                                                                                                                                                 Plankostnads-
-Ida Lennartsson             Sofia Wiman         Diarenummer
+Registernummer, tomtnummer                    Höjdkurva 1,0 m                              Skärmtak
+Höjdpunkt                                     Höjdkurva 5,0 m                                                                                                                                                                                                                                Plankostnads-
+Ida Lennartsson            Sofia Wiman          Diarenummer
 avtal
-Traktnamn, kvartersnamn                      Vägbana                                                                                                                                                                                                                             2020-00012
-Verksamhetschef Plan        Planarkitekt                    Ja
-Fastighetsgräns                              Bostadshus fasad, resp. tak
+Traktnamn, kvartersnamn                       Vägbana                                                                                                                                                                                                                             2020-00012
+Verksamhetschef Plan       Planarkitekt                    Ja
+Fastighetsgräns                               Bostadshus fasad, resp. tak
 PLANKARTA            Detaljplanen är upprättad enligt PBL
-Gång- och cykelbana                          Uthus fasad, resp. tak                                                                                                                                                                                  2010:900 med utökat förfarande
+Gång- och cykelbana                           Uthus fasad, resp. tak                                                                                                                                                                                  2010:900 med utökat förfarande
 
 <!-- sida 568 -->
 

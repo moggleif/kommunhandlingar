@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e913d1e/1713531349
 sha256: ad8a95adb634a217fa3515277fb16042343b58ed224e6f09c2c7f754f462cbc3
 bytes: 31102782
 sidor: 402
-hamtad: 2026-10-23T09:12:46+00:00
-konverterad: 2026-10-23T09:15:43+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T10:58:55+00:00
+konverterad: 2026-11-06T11:01:57+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
@@ -1071,65 +1071,93 @@ Bilagor                                      21
 
 Om   projektet
 
-Kungsbacka kommun tillsammans med bland annat Envidan och Inom ramen för denna studie så studeras fyra alternativ för
-ByggDialog utreder ett antal alternativ för att bygga om Hammar- slamhanteringen år 2037:
+Kungsbacka kommun tillsammans med bland annat Envidan och
+ByggDialog utreder ett antal alternativ för att bygga om Hammar-
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
-\-  Rötning av slam där biogasen uppgraderas till fordonsgas.
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
-(benämns även som Grundfall i denna rapport)
+
 Inom ramen för tidigare analyser har man studerat alternativ och
-förutsättningar både för åren 2037 och 2050. Man räknar med att - Rötning av slam där biogasen förbränns i en gasmotor för
-flöden och belastning gradvis kommer att öka från idag fram till elproduktion.
+förutsättningar både för åren 2037 och 2050. Man räknar med att
+flöden och belastning gradvis kommer att öka från idag fram till
 2050\. Året 2037 speglar förutsättningarna ungefär i mitten av
-perioden från idag till 2050.                       -  Rötning av slam där biogasen förbränns i en gaspanna för
-värmeproduktion.
+perioden från idag till 2050.
+
 I detta projekt studeras klimatpåverkan från Hammargårds avlopps-
 reningsverk. Utredningen beskriver avloppsreningsverkets
-\-  Pyrolys av slammet med spridning av biokol på åkermark
 klimatpåverkan i ett övergripande perspektiv. Detta innebär att
 klimatbokslutet beskriver både direkta utsläpp från den egna
-Utöver detta studeras också ett fall där Grundfallet kombineras med
 verksamheten och indirekta utsläpp som uppkommer eller undviks i
-läkemedelsrening i form av ozonering i kombination med fluidiserad
 andras verksamheter men som orsakas av avloppsreningsverkets
-bädd med aktivt kol.
 verksamhet. Klimatbokslutet presenterar en sammanfattande bild
-över avloppsreningsverkets klimatpåverkan i samhället. Utöver de kvantitativa resultaten för år 2037, så ingår i den andra
-delen av projektet också en kvalitativ diskussion om hur resultaten
+över avloppsreningsverkets klimatpåverkan i samhället.
+
 I den första delen av projektet studeras det verkliga utfallet under år
-kan utvecklas till år 2050.
 2022 och ett klimatbokslut tas fram för detta år. Detta utgör en viktig
 referens till den andra delen av projektet som innefattar en
 framtidsanalys för ett antal möjliga alternativ för det nya/ombyggda
 verket år 2037.
+
 I det underlag som Profu tagit del av så förutsätts att AGS1 är vald
 vattenreningsprocessteknik år 2037 och kompletterar befintlig
 biologisk rening.
+
 1 Utbyggnadskonceptet AGS består av en process som selekterar fram en
 biomassa som bildar granulära strukturer vilket förbättrar biomassans
 sedimenteringsegenskaper
+
+Inom ramen för denna studie så studeras fyra alternativ för
+slamhanteringen år 2037:
+
+\- Rötning av slam där biogasen uppgraderas till fordonsgas.
+(benämns även som Grundfall i denna rapport)
+
+\- Rötning av slam där biogasen förbränns i en gasmotor för
+elproduktion.
+
+\- Rötning av slam där biogasen förbränns i en gaspanna för
+värmeproduktion.
+
+\- Pyrolys av slammet med spridning av biokol på åkermark
+Utöver detta studeras också ett fall där Grundfallet kombineras med
+läkemedelsrening i form av ozonering i kombination med fluidiserad
+bädd med aktivt kol.
+
+Utöver de kvantitativa resultaten för år 2037, så ingår i den andra
+delen av projektet också en kvalitativ diskussion om hur resultaten
+kan utvecklas till år 2050.
+
 3
 
 <!-- sida 30 -->
 
-Beskrivning     av klimatbokslutet
+Beskrivning     av  klimatbokslutet
 
-Klimatbokslutet är ett verktyg för förbättring!    med de utsläpp som avloppsreningsverket genom sin verksamhet
-indirekt orsakar eller undviker i omvärlden.
+Klimatbokslutet är ett verktyg för förbättring!
+
 Ett klimatbokslut sammanställer all klimatpåverkan som en
-företag/verksamhet gett upphov till, på samma sätt som ett Metoden som används i detta klimatbokslut benämns ”konsekvens-
-ekonomiskt bokslut innebär en sammanställning av samtliga metoden” vilket innebär att alla konsekvenser på klimatpåverkan som
-affärstransaktioner. I klimatbokslutet studeras Hammargårds företaget ger upphov till studeras och kvantifieras, både positiva och
-avloppsreningsverks samlade klimatpåverkan, vilket innebär att alla negativa. Klimatbokslutet beskriver därmed både direkt och indirekt
-de utsläpp som skett på grund av avloppsreningsverkets klimatpåverkan (se Figur 1). Metoden beskrivs mer utförligt i den
-verksamheter kartläggs och kvantifieras.           fristående fördjupningsrapporten ”Klimatbokslut – Fördjupning”.
+företag/verksamhet gett upphov till, på samma sätt som ett
+ekonomiskt bokslut innebär en sammanställning av samtliga
+affärstransaktioner. I klimatbokslutet studeras Hammargårds
+avloppsreningsverks samlade klimatpåverkan, vilket innebär att alla
+de utsläpp som skett på grund av avloppsreningsverkets
+verksamheter kartläggs och kvantifieras.
+
+med de utsläpp som avloppsreningsverket genom sin verksamhet
+indirekt orsakar eller undviker i omvärlden.
+
+Metoden som används i detta klimatbokslut benämns ”konsekvens-
+metoden” vilket innebär att alla konsekvenser på klimatpåverkan som
+företaget ger upphov till studeras och kvantifieras, både positiva och
+negativa. Klimatbokslutet beskriver därmed både direkt och indirekt
+klimatpåverkan (se Figur 1). Metoden beskrivs mer utförligt i den
+fristående fördjupningsrapporten ”Klimatbokslut – Fördjupning”.
 
 Huvuduppgiften för ett klimatbokslut är att vara ett verktyg för
 förbättring. Genom att klimatbokslutet svarar på var och hur
 klimatpåverkan sker kan organisationen sedan sätta in åtgärder för Konsekvensperspektivet
 att minska sin klimatpåverkan. För att klimatbokslutet ska vara ett
 Indirekta tillförda och
-användbart hjälpmedel för att styra arbetet mot minskad                Alternativ   Alternativ
+användbart hjälpmedel för att styra arbetet mot minskad                Alternativ    Alternativ
 undvikna utsläpp
 avloppsbehandling värmeproduktion
 klimatpåverkan behöver det beskriva hela organisationens
@@ -1147,11 +1175,11 @@ mot andra alternativ.                                      (t.ex. deponitäcknin
 Alternativ
 I denna studie analyseras först klimatbokslutet för Hammargårds                   gödselproduktion
 Kolinbindning
-avloppsreningsverk baserat på det verkliga utfallet år 2022. Därefter på åkermark    (N,P)
+avloppsreningsverk baserat på det verkliga utfallet år 2022. Därefter  på åkermark   (N,P)
 studeras ett antal tänkbara framtidsalternativ för ny- och
 ombyggnation och utveckling av avloppsreningsverket för att möta
 framtida krav och behov. Detta studeras kvantitativt för året 2037
-och kvalitativt för året 2050.                     Figur 1 Hammargårds ARV och dess omgivning. I omgivningen både tillförs och
+och kvalitativt för året 2050.                      Figur 1 Hammargårds ARV och dess omgivning. I omgivningen både tillförs och
 undviks klimatpåverkan (indirekta utsläpp) på grund av de produkter och tjänster
 som köps respektive säljs på marknaden. Avloppsreningsverkets egna
 Hur beräknas klimatpåverkan?
@@ -1159,61 +1187,84 @@ anläggningar, transporter m.m. ger upphov till direkta utsläpp.
 I klimatbokslutet studeras Hammargårds avloppsreningsverk totala
 nettoklimatpåverkan i samhället. Detta innebär att alla utsläpp från
 avloppsreningsverkets egna verksamheter finns med, tillsammans
+
 4
 
 <!-- sida 31 -->
 
-Direkt klimatpåverkan visar de utsläpp som Hammargårds avlopps- dessa finns det några utsläpp som i jämförelse har något större
-reningsverks egen verksamhet ger upphov till. Här återfinns fram- påverkan på resultatet vilka beskrivs mer utförligt i punktform nedan:
+Direkt klimatpåverkan visar de utsläpp som Hammargårds avlopps-
+reningsverks egen verksamhet ger upphov till. Här återfinns fram-
 förallt utsläpp av metan och lustgas från avloppshanteringen och
-•  Vid rening av avloppsvatten sker utsläpp av metan och lustgas.
 utsläpp från egna fordon (transporter och arbetsmaskiner).
-(Röda staplar, direkt tillförd klimatpåverkan)
+
 Indirekt klimatpåverkan är utsläpp som sker på grund av avlopps-
-•  Elkonsumtion vid avloppsrening står för en stor del av verkets
 reningsverkets verksamhet men de uppkommer inte i verksamheten.
-indirekt tillförda klimatpåverkan. (Gul stapel, indirekt tillförd
 Med andra ord sker utsläppen utanför Hammargårds avloppsrenings-
-klimatpåverkan)
 verks system från andra företags verksamheter men de orsakas av
-•  Det renade avloppsvattnet innehåller kväve och BOD. En liten
 agerandet vid avloppsreningsverket. De indirekta utsläppen kan
-del av detta omvandlas till lustgas och metan i recipienten efter
 antingen ske ”uppströms” eller ”nedströms”.
-avloppsreningen. (Brun stapel, indirekt tillförd klimatpåverkan)
+
 Med begreppet ”uppströms” avses utsläpp som uppkommer på
-•  Vid användning av slam på åkermark sker utsläpp vid transport
 grund av material och energi som kommer till avloppsreningsverket.
-och hantering av slam till åkermarken. (Ljusbrun stapel, indirekt
 Här finns t.ex. de utsläpp som orsakas av att ta fram och transpor-
-tillförd klimatpåverkan)
 tera kemikalier till avloppsreningsverket. En stor post utgörs av för-
-•  Vid reningen av avloppsvattnet används olika former av
 brukningen av el. Avloppsreningsverket både producerar (genom
-kemikalier. (Röd stapel, indirekt tillförd klimatpåverkan)
 solceller) och konsumerar el och den mängd som konsumeras
-belastar bokslutet som ett indirekt tillfört utsläpp. • Man genomför med olika frekvens ny- och ombyggnationer vid
-avloppsreningsverket. Under 2022 byggde man om sandfiltret
+belastar bokslutet som ett indirekt tillfört utsläpp.
+
 Med begreppet ”nedströms” avses de utsläpp som uppkommer eller
-och installerade även solceller. I denna post inkluderas utsläpp
 undviks på grund av de produkter som levereras från avloppsren-
-från produktion och installation av de material som ingår i dessa
 ingsverket. I denna grupp redovisas undvikna utsläpp från den alter-
-byggnationer. (Brun stapel, indirekt tillförd klimatpåverkan)
 nativa produktionen av nyttigheter och även den kolinlagring som
-sker när slam (från reningen av avloppsvatten) sprids på åkermark. • Slammet från avloppsreningen sprids på åkermark och nyttig-
-görs som gödselmedel. Detta innebär att utsläpp kan undvikas
-från produktion av mineralgödsel. Vidare lagras en del av det
+sker när slam (från reningen av avloppsvatten) sprids på åkermark.
+
 Klimatbokslut     2022
-biogena kolet in i marken som en kolsänka. (Ljusgröna respek-
-En redovisning och presentation av Hammargårds avloppsrenings- tive lila staplar, indirekt undviken klimatpåverkan)
-verks klimatbokslut ges i Figur 2 (och i tabellform i bilagan). I dia- • Elproduktionen i det nordeuropeiska kraftsystemet ger ett rela-
-grammet presenteras den sammanlagda klimatpåverkan under 2022 tivt stort bidrag till klimatpåverkan. Genom att verket producerar
-uppdelat i de grupper som beskrevs tidigare. Diagrammet visar att el från solceller kan man undvika alternativ produktion för denna
-Hammargårds avloppsreningsverks totala nettoklimatpåverkan var mängd el. (Gul stapel, indirekt undviken klimatpåverkan)
+
+En redovisning och presentation av Hammargårds avloppsrenings-
+verks klimatbokslut ges i Figur 2 (och i tabellform i bilagan). I dia-
+grammet presenteras den sammanlagda klimatpåverkan under 2022
+uppdelat i de grupper som beskrevs tidigare. Diagrammet visar att
+Hammargårds avloppsreningsverks totala nettoklimatpåverkan var
 knappt 2860 ton CO2e under 2022 (blå stapel).
+
 Det finns ett stort antal enskilda utsläpp, tillförda och undvikna, som
 sammantaget ger det resultat som presenterades i Figur 2. Bland
+
+dessa finns det några utsläpp som i jämförelse har något större
+påverkan på resultatet vilka beskrivs mer utförligt i punktform nedan:
+
+• Vid rening av avloppsvatten sker utsläpp av metan och lustgas.
+(Röda staplar, direkt tillförd klimatpåverkan)
+• Elkonsumtion vid avloppsrening står för en stor del av verkets
+indirekt tillförda klimatpåverkan. (Gul stapel, indirekt tillförd
+klimatpåverkan)
+
+• Det renade avloppsvattnet innehåller kväve och BOD. En liten
+del av detta omvandlas till lustgas och metan i recipienten efter
+avloppsreningen. (Brun stapel, indirekt tillförd klimatpåverkan)
+• Vid användning av slam på åkermark sker utsläpp vid transport
+och hantering av slam till åkermarken. (Ljusbrun stapel, indirekt
+tillförd klimatpåverkan)
+
+• Vid reningen av avloppsvattnet används olika former av
+kemikalier. (Röd stapel, indirekt tillförd klimatpåverkan)
+• Man genomför med olika frekvens ny- och ombyggnationer vid
+avloppsreningsverket. Under 2022 byggde man om sandfiltret
+och installerade även solceller. I denna post inkluderas utsläpp
+från produktion och installation av de material som ingår i dessa
+byggnationer. (Brun stapel, indirekt tillförd klimatpåverkan)
+
+• Slammet från avloppsreningen sprids på åkermark och nyttig-
+görs som gödselmedel. Detta innebär att utsläpp kan undvikas
+från produktion av mineralgödsel. Vidare lagras en del av det
+biogena kolet in i marken som en kolsänka. (Ljusgröna respek-
+tive lila staplar, indirekt undviken klimatpåverkan)
+• Elproduktionen i det nordeuropeiska kraftsystemet ger ett rela-
+tivt stort bidrag till klimatpåverkan. Genom att verket producerar
+el från solceller kan man undvika alternativ produktion för denna
+
+mängd el. (Gul stapel, indirekt undviken klimatpåverkan)
+
 5
 
 <!-- sida 32 -->
@@ -1244,48 +1295,63 @@ Elproduktion solceller
 
 <!-- sida 33 -->
 
-Klimatpåverkan från investeringar                  projekt och data från andra källor har Profu uppskattat utsläppen
-som dessa investeringar gett upphov till. Vissa beräkningar har till
+Klimatpåverkan från investeringar
+
 I princip alla aktiviteter som innefattar användning av energi och för-
-stor del baserats på schabloner då detaljerade data inte funnits att
 ädling av material ger upphov till någon form av klimatpåverkande
-tillgå. Dessa utsläpp redovisas i Figur 3.
 utsläpp. Därmed är det klart att investeringar i byggnader, infrastruk-
 tur och anläggningar för t ex avloppsrening eller energiproduktion
 ger upphov till klimatpåverkan. Utsläppen sker både vid produk-
-Klimatbokslutet 2022 presenterat enligt
 tionen av de material som används i byggnationen och vid produk-
-tionen av den energi och de material som förbrukas vid byggna- Greenhouse gas protocol
+tionen av den energi och de material som förbrukas vid byggna-
 tionen. Klimatbokslutet studerar den totala klimatpåverkan och
-The Greenhouse gas protocol (GHG-protokollet) är ett ramverk
 därför ingår även klimatpåverkan från investeringar. Du kan läsa mer
-innehållande flera standarder för hur man ska beräkna och present-
 om varför och hur dessa utsläpp beräknas i rapporten ”Klimatbokslut
-era klimatpåverkan. Ramverket har utvecklats som ett samarbete
 – Fördjupning”. Investeringsutsläppen för år 2022 visas i figur 3.
+
+Figur 3 Utsläpp som skett till följd av Hammargårds avloppsreningsverks
+investeringar i fasta installationer under 2022.
+
+Under 2022 har Hammargårds avloppsreningsverk genomfört två
+större investeringar i fasta installationer. Man har byggt om ett sand-
+filter och installerat solceller. Utifrån uppgifter som har levererats
+från Hammargårds avloppsreningsverk om materialåtgång för olika
+
+projekt och data från andra källor har Profu uppskattat utsläppen
+som dessa investeringar gett upphov till. Vissa beräkningar har till
+stor del baserats på schabloner då detaljerade data inte funnits att
+tillgå. Dessa utsläpp redovisas i Figur 3.
+
+Klimatbokslutet 2022 presenterat enligt
+Greenhouse gas protocol
+
+The Greenhouse gas protocol (GHG-protokollet) är ett ramverk
+innehållande flera standarder för hur man ska beräkna och present-
+era klimatpåverkan. Ramverket har utvecklats som ett samarbete
 mellan World Resources Institute och World Business Council for
 Sustainable Development. GHG-protokollets standard för redovis-
 ning av ett företags klimatpåverkan (Corporate Reporting Standard)
 är idag en av de mest vedertagna standarderna för detta syfte.
 GHG-protokollet anger att klimatpåverkan ska delas in i och
 presenteras i tre grupper av utsläpp, eller scopes:
-• Scope 1: Direkt tillförda utsläpp från den egna verksamheten
-• Scope 2: Indirekt tillförda utsläpp från köpt energi
-• Scope 3: Övriga indirekt tillförda utsläpp
+
+•  Scope 1: Direkt tillförda utsläpp från den egna verksamheten
+•  Scope 2: Indirekt tillförda utsläpp från köpt energi
+•  Scope 3: Övriga indirekt tillförda utsläpp
+
 Om det rapporterande företaget vill presentera undvikna emissioner
 ska detta enligt GHG-protokollets standard göras i en separat grupp
 skiljt från de tillförda utsläppen (Scope 1-3). För detta ändamål har vi
 valt att lägga till ett Scope 4, i denna grupp bokför vi klimatpåverkan
 som undviks eller tillförs i omvärlden till följd av de produkter och
 tjänster som Hammargårds avloppsreningsverk levererar. Dessa eff-
-Figur 3 Utsläpp som skett till följd av Hammargårds avloppsreningsverks
+
 ekter beror på att alternativ produktion i omvärlden undviks, exem-
-investeringar i fasta installationer under 2022.
 pelvis att alternativ elproduktion undviks om företaget producerar
-Under 2022 har Hammargårds avloppsreningsverk genomfört två och säljer el. Oftast innebär detta att klimatpåverkan undviks då
-större investeringar i fasta installationer. Man har byggt om ett sand- företagets produkter och tjänster ersätter utsläpp från annan
-filter och installerat solceller. Utifrån uppgifter som har levererats produktion. Ibland gäller dock det motsatta.
-från Hammargårds avloppsreningsverk om materialåtgång för olika
+och säljer el. Oftast innebär detta att klimatpåverkan undviks då
+företagets produkter och tjänster ersätter utsläpp från annan
+produktion. Ibland gäller dock det motsatta.
+
 7
 
 <!-- sida 34 -->
@@ -1336,89 +1402,142 @@ Summa av tillförda och undvikna utsläpp 2 864
 
 <!-- sida 35 -->
 
-\-  Rötning av slam där biogasen förbränns i en gasmotor för
-Framtidsanalys      2037
-elproduktion. Det rötade slammet sprids på åkermark. Den
-ökade elproduktionen bidrar till att ersätta annan elproduktion i
-Hammargårds   avloppsreningsverk måste byggas          det nordeuropeiska sammankopplade kraftsystemet. Jämfört
-om för att klara framtida krav                         med 2022 bedöms dock klimatnyttan av elproduktionen vara
-tydligt lägre år 2037 på grund av den pågående utfasningen av
+Framtidsanalys       2037
+
+Hammargårds   avloppsreningsverk måste byggas
+
+om för att klara framtida krav
 Kungsbacka kommun tillsammans med bland annat Envidan och
-fossila kraftslag i det nordeuropeiska kraftsystemet. Hantering
 ByggDialog utreder ett antal alternativ för att bygga om Hammar-
-av slam och nyttor av detta är desamma som i Grundfallet.
+
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
-\-  Rötning av slam där biogasen förbränns i en gaspanna för
-Inom ramen för tidigare analyser har man studerat alternativ och värmeproduktion. Det rötade slammet sprids på åkermark. Den
-förutsättningar både för åren 2037 och 2050. Man räknar med att ökade värmeproduktionen bidrar till att ersätta annan
-flöden och belastning gradvis kommer att öka från idag fram till värmeproduktion i Kungsbackas fjärrvärmenät och undviker
-2050\. Året 2037 speglar förutsättningarna ungefär i mitten av därmed förbränning av biobränsle. Hantering av slam och nyttor
-perioden från idag till 2050.                          av detta är desamma som i Grundfallet.
+Inom ramen för tidigare analyser har man studerat alternativ och
+förutsättningar både för åren 2037 och 2050. Man räknar med att
+flöden och belastning gradvis kommer att öka från idag fram till
+2050\. Året 2037 speglar förutsättningarna ungefär i mitten av
+perioden från idag till 2050.
+
 I det underlag som Profu tagit del av så förutsätts att AGS2 är vald
-\-  Pyrolys av slammet som energimässigt drivs av den gas som
 vattenreningsprocessteknik och kompletterar befintlig biologisk
-bildas vid pryrolysen och som förbränns. Processen genererar
 rening.
+
+Inom ramen för denna studie så studeras fyra alternativ för
+slamhanteringen:
+
+\- Rötning av slam där biogasen uppgraderas till fordonsgas.
+Det rötade slammet sprids på åkermark. Fordonsgasen bedöms
+år 2037 kunna ersätta fossila drivmedel i transportsystemet.
+Slammet sprids på åkermark och ersätter alternativ kväve- och
+gödselproduktion samtidigt som en del av det biogena kolet i
+slammet binds in i åkermarken. Detta fall benämns också
+Grundfall.
+
+2 Utbyggnadskonceptet AGS består av en process som selekterar fram en
+biomassa som bildar granulära strukturer vilket förbättrar biomassans
+sedimenteringsegenskaper
+
+\- Rötning av slam där biogasen förbränns i en gasmotor för
+elproduktion. Det rötade slammet sprids på åkermark. Den
+ökade elproduktionen bidrar till att ersätta annan elproduktion i
+det nordeuropeiska sammankopplade kraftsystemet. Jämfört
+med 2022 bedöms dock klimatnyttan av elproduktionen vara
+tydligt lägre år 2037 på grund av den pågående utfasningen av
+fossila kraftslag i det nordeuropeiska kraftsystemet. Hantering
+av slam och nyttor av detta är desamma som i Grundfallet.
+
+\- Rötning av slam där biogasen förbränns i en gaspanna för
+värmeproduktion. Det rötade slammet sprids på åkermark. Den
+ökade värmeproduktionen bidrar till att ersätta annan
+värmeproduktion i Kungsbackas fjärrvärmenät och undviker
+därmed förbränning av biobränsle. Hantering av slam och nyttor
+av detta är desamma som i Grundfallet.
+
+\- Pyrolys av slammet som energimässigt drivs av den gas som
+bildas vid pryrolysen och som förbränns. Processen genererar
 överskottsvärme i form av uppvärmt vatten med en temperatur
 på ca 80 grader. Denna överskottsvärme antas kunna utnyttjas i
-Inom ramen för denna studie så studeras fyra alternativ för
 det lokala fjärrvärmenätet i Kungsbacka och därigenom ersätta
-slamhanteringen:
 förbränning av biobränsle. Pyrolysen generar också ett biokol
-\-  Rötning av slam där biogasen uppgraderas till fordonsgas. som antas spridas på åkermark. Biokolet förutsätts innehålla lika
-Det rötade slammet sprids på åkermark. Fordonsgasen bedöms mycket fosfor som det rötade slammet i fallen med rötning, men
-år 2037 kunna ersätta fossila drivmedel i transportsystemet. innehållet av kväve är lägre på grund av förluster vid pyrolysen.
-Slammet sprids på åkermark och ersätter alternativ kväve- och
+som antas spridas på åkermark. Biokolet förutsätts innehålla lika
+mycket fosfor som det rötade slammet i fallen med rötning, men
+
+innehållet av kväve är lägre på grund av förluster vid pyrolysen.
 Utöver detta studeras också ett fall där Grundfallet kombineras med
-gödselproduktion samtidigt som en del av det biogena kolet i
 läkemedelsrening i form av ozonering i kombination med fluidiserad
-slammet binds in i åkermarken. Detta fall benämns också
 bädd med aktivt kol3.
-Grundfall.
-2 Utbyggnadskonceptet AGS består av en process som selekterar fram en 3 Observera att framtidsanalysen 2037 enbart avser driftsfas, dvs inga
-biomassa som bildar granulära strukturer vilket förbättrar biomassans investeringsutsläpp för byggnation inkluderas.
-sedimenteringsegenskaper
+
+3 Observera att framtidsanalysen 2037 enbart avser driftsfas, dvs inga
+
+investeringsutsläpp för byggnation inkluderas.
+
 9
 
 <!-- sida 36 -->
 
-Centrala förändringar i omvärlden år 2037 jämfört  anläggningen skulle kunna hantera de större flöden och belastning
-med år 2022                                        som finns då.
+Centrala förändringar i omvärlden år 2037 jämfört
+med  år 2022
 
-Omvärlden förutsätts gradvis förbättras i takt med de hårda krav Detta är som sagt ett hypotetiskt fall eftersom nuvarande renings-
-som ställts upp nationellt och inom EU för att minska världens klimat- verk inte klarar av att hantera 2037 års flöden och belastning. Men
-påverkande utsläpp. Inom EU har detta omsatts till att tydliga tack vare att vi tar fram detta referensfall kan vi jämföra om de nya
-utsläppsreduktioner ska ske inom alla sektorer. Viktiga år för satta alternativen tekniskt är mer eller mindre klimateffektiva jämfört med
-mål är bland annat 2030, 2040 och 2050.            dagens teknik.
+Omvärlden förutsätts gradvis förbättras i takt med de hårda krav
+som ställts upp nationellt och inom EU för att minska världens klimat-
+påverkande utsläpp. Inom EU har detta omsatts till att tydliga
+utsläppsreduktioner ska ske inom alla sektorer. Viktiga år för satta
+mål är bland annat 2030, 2040 och 2050.
 
-I denna analys utnyttjar vid framtidsanalyser för utvecklingen av det För att få fram detta referensfall så har vi från den faktiska situa-
-nordeuropeiska kraftsystemet som Profu arbetar omfattande med. tionen år 2022 ”stegat oss” fram till år 2037. Det första steget
-Man kan konstatera att i princip alla scenarier pekar på att utsläppen illustreras i figur 5. Figuren visar dels klimatbokslutet för år 2022 med
-från det nordeuropeiska kraftsystemet kommer minska tydligt. 2022 års omvärld (dvs det tidigare redovisade resultatet i rapporten)
-Osäkerheterna ligger framförallt i hur fort detta kommer att gå. I och dels samma avloppsreningsverk med samma flöden och belast-
-denna studie har vi räknat med att utsläppen drygt halveras jämfört ning som 2022 men med 2037 års omvärld.
+I denna analys utnyttjar vid framtidsanalyser för utvecklingen av det
+nordeuropeiska kraftsystemet som Profu arbetar omfattande med.
+Man kan konstatera att i princip alla scenarier pekar på att utsläppen
+från det nordeuropeiska kraftsystemet kommer minska tydligt.
+Osäkerheterna ligger framförallt i hur fort detta kommer att gå. I
+denna studie har vi räknat med att utsläppen drygt halveras jämfört
 med år 2022 och hamnar på ca 200 kg CO2e/MWh4.
-Alla poster som inte är beroende av omvärlden (t ex de direkta
-När det gäller kemikalier och alternativ produktion av kväve- och utsläppen från avloppsreningsverket) är oförändrade i de två
-fosforgödsel har vi antagit att den specifika klimatpåverkan (per ton) figurerna. Men poster som beror av omvärlden (t ex elkonsumtion,
-minskar med 20 % fram till 2037. Alla industrier omfattas av målen elproduktion och kemikalier) förändras jämfört med år 2022 och
-inom bland annat EU, och detta kommer att driva fram processför- innebär totalt sett en mindre klimatpåverkande belastning.
+
+När det gäller kemikalier och alternativ produktion av kväve- och
+fosforgödsel har vi antagit att den specifika klimatpåverkan (per ton)
+minskar med 20 % fram till 2037. Alla industrier omfattas av målen
+inom bland annat EU, och detta kommer att driva fram processför-
 bättringar och utsläppsminskande åtgärder även vid denna produk-
-Slutsats:
 tion.
-Om precis samma anläggning med samma avloppsflöden som för
-Nuvarande anläggning med 2037  års flöden och      år 2022 skulle användas år 2037 kommer nettoklimatpåverkan att
-minska med 1 100 ton CO2e jämfört med år 2022. Detta beror på
-med 2037  års omvärld (Referens)
-att klimatpåverkan i omvärlden minskar.
+
+Nuvarande  anläggning med 2037 års flöden och
+med  2037 års omvärld (Referens)
+
 För att få fram en referens att jämföra de studerade fallen för år
 2037 med har vi valt att göra en teoretisk illustration av vilka
 klimatpåverkande utsläpp det ”gamla” avloppsreningsverket (med
 prestanda enligt år 2022) skulle ge upphov till år 2037 om
+
 4 Exakt värde beror på vilken elkonsumtions-/elproduktionsprofil man har.
 Exempelvis har solceller en annorlunda produktionsprofil än elproduktion
 från en gasmotor.
+
+anläggningen skulle kunna hantera de större flöden och belastning
+som finns då.
+
+Detta är som sagt ett hypotetiskt fall eftersom nuvarande renings-
+verk inte klarar av att hantera 2037 års flöden och belastning. Men
+tack vare att vi tar fram detta referensfall kan vi jämföra om de nya
+alternativen tekniskt är mer eller mindre klimateffektiva jämfört med
+dagens teknik.
+
+För att få fram detta referensfall så har vi från den faktiska situa-
+tionen år 2022 ”stegat oss” fram till år 2037. Det första steget
+illustreras i figur 5. Figuren visar dels klimatbokslutet för år 2022 med
+2022 års omvärld (dvs det tidigare redovisade resultatet i rapporten)
+och dels samma avloppsreningsverk med samma flöden och belast-
+ning som 2022 men med 2037 års omvärld.
+
+Alla poster som inte är beroende av omvärlden (t ex de direkta
+utsläppen från avloppsreningsverket) är oförändrade i de två
+figurerna. Men poster som beror av omvärlden (t ex elkonsumtion,
+elproduktion och kemikalier) förändras jämfört med år 2022 och
+innebär totalt sett en mindre klimatpåverkande belastning.
+Slutsats:
+
+Om precis samma anläggning med samma avloppsflöden som för
+år 2022 skulle användas år 2037 kommer nettoklimatpåverkan att
+minska med 1 100 ton CO2e jämfört med år 2022. Detta beror på
+att klimatpåverkan i omvärlden minskar.
 
 10
 
@@ -1811,30 +1930,44 @@ removed.
 
 <!-- sida 46 -->
 
-Kvalitativt om utvecklingen fram till 2050 och hur kemikalieintensiva (pyrolys av slam samt fall med läkemedelsrening)
-det kan komma  att påverka utfallet.               och missgynna det fall som producerar el (rötning av slam med
-elproduktion).
+Kvalitativt om utvecklingen fram till 2050 och hur
+det kan komma  att påverka utfallet.
+
 Både flöden och belastning i den nya/ombyggda anläggningen
-kommer att öka till år 2050 jämfört med år 2037. Exempelvis När det gäller Grundfallet (rötning av slam med fordonsgas) är en
-stor fråga hur fort omställningen av transportsystemet sker, dvs när
+kommer att öka till år 2050 jämfört med år 2037. Exempelvis
 förväntas årsmedelbelastningen öka från 53 600 pe till 70 000 pe.
-det inte längre är aktuellt att fordonsgas ersätter fossila drivmedel.
-Om man först tittar på enbart effekten av större flöden och Om man lyckas med detta, så ser vi ändå det som rimligt att man
-belastning så får vi en kvalitativ vägledning av Figur 6 där större fortfarande att räkna med att biogas kan ersätta naturgas som en
-flöden och belastning ”förstärker” storleken på de olika posterna, allt industriråvara. De europeiska biogastillgångarna är begränsade i
-annat lika. Med enbart denna effekt skulle man därför kunna förvänta förhållande till naturgaskonsumtionen och i och med att Sverige på
-sig att skillnaderna mellan de olika alternativen för att hantera slam västkusten är sammankopplat med det övriga gasnätet i Europa så
-skulle öka fram till 2050.                         finns alltid en möjlighet att injicera uppgraderad biogas och därmed
-ersätta naturgas. Detta kommer dock ge mindre klimatnytta än
+
+Om man först tittar på enbart effekten av större flöden och
+belastning så får vi en kvalitativ vägledning av Figur 6 där större
+flöden och belastning ”förstärker” storleken på de olika posterna, allt
+annat lika. Med enbart denna effekt skulle man därför kunna förvänta
+sig att skillnaderna mellan de olika alternativen för att hantera slam
+skulle öka fram till 2050.
+
 Men samtidigt ser vi att det är rimligt att anta en fortsatt minskning
-ersättningen av fossila drivmedel. I våra beräkningar skulle
 av klimatpåverkande utsläpp i omvärlden. Detta kommer att innebära
-klimatnyttan från biogasen, inklusive hänsyn till naturgasens
 att utsläppen från det nordeuropeiska kraftsystemet kommer att
-uppströms utsläpp från produktion och distribution, sjunka med drygt
 minska, liksom ”uppströms” utsläpp från produktionen av kemikalier.
-21 % jämfört med utfallet år 2037.
 Detta kommer generellt gynna de fall som är mer el- och
+
+kemikalieintensiva (pyrolys av slam samt fall med läkemedelsrening)
+och missgynna det fall som producerar el (rötning av slam med
+elproduktion).
+
+När det gäller Grundfallet (rötning av slam med fordonsgas) är en
+stor fråga hur fort omställningen av transportsystemet sker, dvs när
+det inte längre är aktuellt att fordonsgas ersätter fossila drivmedel.
+Om man lyckas med detta, så ser vi ändå det som rimligt att man
+fortfarande att räkna med att biogas kan ersätta naturgas som en
+industriråvara. De europeiska biogastillgångarna är begränsade i
+förhållande till naturgaskonsumtionen och i och med att Sverige på
+västkusten är sammankopplat med det övriga gasnätet i Europa så
+finns alltid en möjlighet att injicera uppgraderad biogas och därmed
+ersätta naturgas. Detta kommer dock ge mindre klimatnytta än
+ersättningen av fossila drivmedel. I våra beräkningar skulle
+klimatnyttan från biogasen, inklusive hänsyn till naturgasens
+uppströms utsläpp från produktion och distribution, sjunka med drygt
+21 % jämfört med utfallet år 2037.
 
 20
 

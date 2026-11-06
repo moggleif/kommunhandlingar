@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c172736/17652048268
 sha256: e1315e47dd56cc68dbbcb2dac4b8e1b3f2e50909dd51d717d8a3294cd86a278f
 bytes: 15118802
 sidor: 197
-hamtad: 2026-10-23T07:14:45+00:00
-konverterad: 2026-10-23T07:15:36+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:55:51+00:00
+konverterad: 2026-11-06T08:56:42+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6035,7 +6035,6 @@ och  pedagogisk    omsorg   i
 Göteborgsregionen
 
 1\. Bakgrund och motiv
-
 Skollagen reglerar kommunens skyldigheter och vårdnadshavarnas rättigheter när det
 gäller förskola. Folkbokföringskommun svarar för att barn som är bosatta i Sverige
 erbjuds förskola. När vårdnadshavaren har anmält behov av plats ska
@@ -6045,9 +6044,8 @@ som möjligt med hänsyn till vad som krävs för att kommunen effektivt ska utn
 lokaler och andra resurser. Ett barn har rätt att bli mottaget i förskola med offentlig
 huvudman i en annan kommun än hemkommunen, om barnet med hänsyn till sina
 personliga förhållanden har särskilda skäl att få gå i den kommunens förskola. I dessa
-fall ska hemkommunen ha möjlighet att yttra sig. Efter önskemål av barnets Kommenterad [TB1]: Markerad mening har
-vårdnadshavare får en kommun även i annat fall i sin förskola ta emot ett barn från en lagts till för att förtydliga att hemkommunen
-ska yttra sig vid placering pga särskilda skäl
+fall ska hemkommunen ha möjlighet att yttra sig. Efter önskemål av barnets
+vårdnadshavare får en kommun även i annat fall i sin förskola ta emot ett barn från en
 annan kommun.
 (8 kap. 12-15 § skollagen)
 Syftet med samverkansavtalet är att stärka valfriheten och öppna upp för en generös
@@ -6056,9 +6054,7 @@ mellan kommunerna och en öppenhet att välja skola/utbildning när det gäller 
 flertal skolformer. Det stärker vårdnadshavarnas val. Det kan ge möjlighet att ge plats
 närmare det egna hemmet för familjer som bor nära en kommungräns. Det kan bidra
 till att kunna erbjuda plats inom skälig tid för en kommun som har brist på platser om
-det samtidigt finns en kommun som har tillgång på platser. Kommenterad [TB2]: Detta stycke har
-strukits då bedömningen är att den inte
-behövs som avtalstext
+det samtidigt finns en kommun som har tillgång på platser.
 2\. Avtalsparter
 Avtalets parter utgörs av medlemskommunerna inom Göteborgsregionens
 kommunalförbund; Ale, Alingsås, Göteborg, Härryda, Kungsbacka, Kungälv, Lerum,
@@ -6071,6 +6067,14 @@ kommun beslutar om det finns plats att erbjuda barn från andra kommuner.
 Samverkansavtalets tillämpningar kan även gälla vid placeringar där det finns
 särskilda skäl.
 1 (3)
+
+Kommenterad [TB1]: Markerad mening har
+lagts till för att förtydliga att hemkommunen
+ska yttra sig vid placering pga särskilda skäl
+
+Kommenterad [TB2]: Detta stycke har
+strukits då bedömningen är att den inte
+behövs som avtalstext
 
 <!-- sida 156 -->
 
@@ -6085,15 +6089,13 @@ barnomsorgsplats på obekväm arbetstid innebär. I de fallen det blir aktuellt 
 sådan verksamhet träffas individuella överenskommelser mellan kommunerna, vad
 gäller omfattning och pris.
 4\. Tillämpningar
+
 Ansökan
 Ansökan sker via varje kommuns hemsida. Vårdnadshavaren ansöker i den kommun
 där plats önskas. Innan den kommunen erbjuder vårdnadshavaren en plats tar
 kommunen kontakt med folkbokföringskommunen om folkbokföringskommun och
-anordnarkommun fortfarande är olika vid placeringstillfället. Kommenterad [TB3]: Denna mening har
-strukits då den beskriver en
-mellankommunal hantering som inte
+anordnarkommun fortfarande är olika vid placeringstillfället.
 Överenskommelser
-behöver regleras i avtalet
 Vid varje placering träffas en skriftlig överenskommelse mellan berörda kommuner
 enligt tillämpningsanvisningarna. Varje enskild placeringsöverenskommelse fortsätter
 att gälla även om samverkansavtalet skulle upphöra.
@@ -6107,12 +6109,11 @@ Interkommunal ersättning
 En kommun som inom sin förskola eller pedagogisk omsorg tar emot ett barn från en
 annan kommun har rätt till ersättning för sina kostnader från barnets
 folkbokföringskommun enligt fastställd prislista. Debitering sker månadsvis utifrån var
-barnet är placerad och vistas den 15:e i varje månad. Kommenterad [TB4]: Denna mening har
-förtydligats med markerat tillägg
+barnet är placerad och vistas den 15:e i varje månad.
 Barn i behov av särskilt stöd
 Barn som av fysiska, psykiska eller andra skäl behöver särskilt stöd i sin utveckling ska
 ges den omsorg som deras speciella behov kräver. Grundläggande bestämmelser finns i
-8 kap. 13 § skollagen.                         Kommenterad [TB5]: Uppdatering av paragraf
+8 kap. 13 § skollagen.
 Då behov av särskilt stöd blir aktuellt för ett redan placerat barn sker samråd med
 folkbokföringskommunen. Anordnarkommun utreder och bedömer.
 Folkbokföringskommunen prövar och beslutar om ersättning. Då behov av särskilt
@@ -6121,7 +6122,18 @@ med den skriftliga överenskommelsen.
 Till stöd för kommunernas hantering av samverkansavtalet finns
 tillämpningsanvisningar för praktisk hantering. Revideringar av detta dokument görs
 vid behov av Barnomsorgsgruppen.
+
 2 (3)
+
+Kommenterad [TB3]: Denna mening har
+strukits då den beskriver en
+mellankommunal hantering som inte
+behöver regleras i avtalet
+
+Kommenterad [TB4]: Denna mening har
+förtydligats med markerat tillägg
+
+Kommenterad [TB5]: Uppdatering av paragraf
 
 <!-- sida 157 -->
 

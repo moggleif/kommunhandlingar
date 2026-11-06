@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f18dd4b18ecb6094451bb/171281514625
 sha256: 8b160f62a894d21d7778e24a5d3fe3fa54f72730b8ae4bd794c5554291f5f47a
 bytes: 11698784
 sidor: 314
-hamtad: 2026-10-23T06:28:02+00:00
-konverterad: 2026-10-23T06:30:30+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:06:19+00:00
+konverterad: 2026-11-06T08:08:54+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1173,25 +1173,43 @@ Att bli utsatt för våld kan medföra fysiska skador och psykiska besvär, båd
 4 (6)
 långvariga. Våldsutsatthet ger dock inte alltid upphov till tydliga tecken på just våldsutsatthet.
 Nedan ges exempel på tecken och besvär som kan vara orsakade av våld i nära relationer.
-Fysiska tecken                   Psykiska tecken
 
-Blåmärken, rodnader, sår, klösmärken, Depression, ångest och nedstämdhet
+Fysiska tecken
+
+Blåmärken, rodnader, sår, klösmärken,
 brännskador, avslitet hår, tandskador
-Värk och smärta (t.ex. i huvud, bröstkorg, rygg Stresskänslighet och stressymptom
+Värk och smärta (t.ex. i huvud, bröstkorg, rygg
 och bål)
 
-Sömnstörningar (svårt att sova, dålig sömn, Låg självkänsla, personlighetsförändringar och
-mardrömmar)                      social isolering
-Ätstörningar (äter lite eller inte alls, eller äter Utagerande beteende eller självdestruktivitet
+Sömnstörningar (svårt att sova, dålig sömn,
+mardrömmar)
+Ätstörningar (äter lite eller inte alls, eller äter
 ovanligt mycket)
 
-Kräkningsreflexer, svårigheter att svälja Undvikande av vissa personer eller vissa
+Kräkningsreflexer, svårigheter att svälja
+
+Yrsel, magont och andra psykosomatiska
+problem
+Återkommande kontakt med hälso- och
+sjukvården för oklar smärtproblematik
+
+Psykiska tecken
+
+Depression, ångest och nedstämdhet
+
+Stresskänslighet och stressymptom
+
+Låg självkänsla, personlighetsförändringar och
+social isolering
+Utagerande beteende eller självdestruktivitet
+
+Undvikande av vissa personer eller vissa
 platser
 
-Yrsel, magont och andra psykosomatiska Somatisering, det vill säga psykisk ohälsa
-problem                          uttrycks genom varierande kroppsliga symtom
-Återkommande kontakt med hälso- och Svårighet att genomgå gynekologiska
-sjukvården för oklar smärtproblematik undersökningar
+Somatisering, det vill säga psykisk ohälsa
+uttrycks genom varierande kroppsliga symtom
+Svårighet att genomgå gynekologiska
+undersökningar
 
 Tandvårdsrädsla
 
@@ -1208,7 +1226,6 @@ Kvinnofridslinjen      020-50 50 50 För yrkesverksamma och enskilda. Stöd och 
 dygnet runt
 
 Stödtelefon Hedersförtryck 010-223 57 60 För yrkesverksamma. Stöd och råd.
-
 Välj att sluta         020-555 666 För enskilda som utövar våld mot sin partner
 
 <!-- sida 31 -->
@@ -6220,26 +6237,38 @@ FR-03
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3\. Tala om vilka bevis du vill hänvisa till.
-Förklara vad du vill visa med varje bevis.
+
 Överklaga skriftligt inom 3 veckor
-Skicka med skriftliga bevis som inte redan
-Tiden räknas oftast från den dag som du fick finns i målet.
+Tiden räknas oftast från den dag som du fick
 del av det skriftliga beslutet. I vissa fall räknas
-tiden i stället från beslutets datum. Det gäller 4. Lämna namn och personnummer eller
-om beslutet avkunnades vid en muntlig organisationsnummer.
+
+tiden i stället från beslutets datum. Det gäller
+om beslutet avkunnades vid en muntlig
 förhandling, eller om rätten vid förhandlingen
-Lämna aktuella och fullständiga uppgifter
 gav besked om datum för beslutet.
-om var domstolen kan nå dig: postadresser,
-e-postadresser och telefonnummer.
+
 För en part som företräder det allmänna (till
-exempel myndigheter) räknas tiden alltid från Om du har ett ombud, lämna också
-5 0    den dag domstolen meddelade beslutet. ombudets kontaktuppgifter.
+exempel myndigheter) räknas tiden alltid från
+5 0    den dag domstolen meddelade beslutet.
 0-
 2
 0
 2
+
+3\. Tala om vilka bevis du vill hänvisa till.
+Förklara vad du vill visa med varje bevis.
+Skicka med skriftliga bevis som inte redan
+finns i målet.
+
+4\. Lämna namn och personnummer eller
+organisationsnummer.
+Lämna aktuella och fullständiga uppgifter
+om var domstolen kan nå dig: postadresser,
+
+e-postadresser och telefonnummer.
+Om du har ett ombud, lämna också
+ombudets kontaktuppgifter.
+
 g •    Observera att överklagandet måste ha kommit 5. Skicka eller lämna in överklagandet till
 n
 ilk cev in till domstolen när tiden går ut. förvaltningsrätten. Du hittar adressen i
@@ -6297,8 +6326,9 @@ T
 •
 handlingar i målet vidare till kammarrätten.
 P
-v
 \-
+
+v
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -6326,6 +6356,7 @@ in siv
 n
 Sida 1 av 2
 A
+
 www.domstol.se
 
 <!-- sida 205 -->
@@ -6435,23 +6466,36 @@ Bilaga B
 Hur man  överklagar
 KR-01
 
-Vill du att beslutet ska ändras i någon del kan att målets utgång i kammarrätten
-du överklaga det till Högsta förvaltnings- uppenbarligen beror på grovt förbiseende
-domstolen. Överklagandet ska skickas till eller grovt misstag.
+Vill du att beslutet ska ändras i någon del kan
+du överklaga det till Högsta förvaltnings-
+domstolen. Överklagandet ska skickas till
 kammarrätten. Här får du veta hur det går till.
+
+Överklaga skriftligt inom 3 veckor
+Tiden räknas oftast från den dag som du fick
+del av det skriftliga beslutet.
+
+I vissa fall räknas tiden i stället från beslutets
+datum. Det gäller om beslutet avkunnades vid
+en muntlig förhandling, eller om rätten vid
+förhandlingen gav besked om datum för
+beslutet.
+
+att målets utgång i kammarrätten
+uppenbarligen beror på grovt förbiseende
+eller grovt misstag.
+
 Om du inte får prövningstillstånd gäller
 kammarrättens beslut. Det är därför viktigt att
-Överklaga skriftligt inom 3 veckor du i överklagandet tar med allt som du vill föra
-Tiden räknas oftast från den dag som du fick fram.
-del av det skriftliga beslutet.
+du i överklagandet tar med allt som du vill föra
+fram.
+
 Så här gör du
-I vissa fall räknas tiden i stället från beslutets
 1\. Skriv kammarrättens namn, målnummer
-datum. Det gäller om beslutet avkunnades vid
 och beslutsdatum.
-en muntlig förhandling, eller om rätten vid
-förhandlingen gav besked om datum för 2. Förklara vilken ändring du vill ha och
-beslutet.                            varför du tycker att beslutet ska ändras.
+2\. Förklara vilken ändring du vill ha och
+varför du tycker att beslutet ska ändras.
+
 För en part som företräder det allmänna (till 3. Förklara varför du anser att Högsta
 exempel myndigheter) räknas tiden alltid från förvaltningsdomstolen ska ta upp ditt
 den dag domstolen meddelade beslutet. överklagande (läs mer om prövnings-
@@ -6461,9 +6505,8 @@ Observera att överklagandet måste ha kommit
 4 0 -  in till domstolen senast den dag tiden går ut.
 2 0                                         Förklara vad du vill visa med varje bevis.
 2
-g
 •
-Bifoga de skriftliga bevis du hänvisar till om
+g                                           Bifoga de skriftliga bevis du hänvisar till om
 n
 ilk
 cev

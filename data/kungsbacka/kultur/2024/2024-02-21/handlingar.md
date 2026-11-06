@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf122a1/1707991707
 sha256: 91304d585e6baa493397136d8471e5c8429ff2abc1f684511da6ed73a8baf286
 bytes: 4998297
 sidor: 121
-hamtad: 2026-10-23T10:56:19+00:00
-konverterad: 2026-10-23T10:56:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T12:54:48+00:00
+konverterad: 2026-11-06T12:55:17+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3058,55 +3058,68 @@ Barn och ungdomsföreningar/ Lokalt
 <!-- sida 77 -->
 
 Barn och ungdomsföreningar/
-
 15007 Judoklubben Aktiv Utbildning och utvecklingsbidrag 2024-01-23 12 600,00
 Barn och ungdomsföreningar/ Lokalt
 15059 Kullavik Basket   aktivitetsstöd 2         2024-02-13 10 358,00
 Barn och ungdomsföreningar/
+
 15060 Kullavik Basket   Utbildning och utvecklingsbidrag 2024-02-13 15 000,00
 Barn och ungdomsföreningar/ Lokalt
 14976 Kungsbacka Bmx-Klubb aktivitetsstöd 2      2024-01-16 9 278,00
 Barn och ungdomsföreningar/
-14987 Kungsbacka Bmx-Klubb Utbildning och utvecklingsbidrag 2024-01-16 9 800,00
 
-14997 Kungsbacka Fotoklubb Kulturföreningar/ Enskilda 2024-01-23 5 100,00
-Barn och ungdomsföreningar/ Lokalt
-14977 Kungsbacka IF     aktivitetsstöd 2         2024-01-16 112 935,00
-Barn och ungdomsföreningar/
-14985 Kungsbacka IF     Utbildning och utvecklingsbidrag 2024-01-16 126 200,00
-Barn och ungdomsföreningar/ Lokalt
-15038 Kungsbacka Judoklubb aktivitetsstöd 2      2024-01-30 5 362,00
-Barn och ungdomsföreningar/
-15037 Kungsbacka Judoklubb Utbildning och utvecklingsbidrag 2024-01-30 9 600,00
+14987 Kungsbacka Bmx-Klubb
+14997 Kungsbacka Fotoklubb
 
+14977 Kungsbacka IF
+
+14985 Kungsbacka IF
+
+15038 Kungsbacka Judoklubb
+
+15037 Kungsbacka Judoklubb
+
+Utbildning och utvecklingsbidrag 2024-01-16 9 800,00
+Kulturföreningar/ Enskilda 2024-01-23 5 100,00
 Barn och ungdomsföreningar/ Lokalt
+aktivitetsstöd 2         2024-01-16 112 935,00
+Barn och ungdomsföreningar/
+
+Utbildning och utvecklingsbidrag 2024-01-16 126 200,00
+Barn och ungdomsföreningar/ Lokalt
+aktivitetsstöd 2         2024-01-30 5 362,00
+Barn och ungdomsföreningar/
+Utbildning och utvecklingsbidrag 2024-01-30 9 600,00
+Barn och ungdomsföreningar/ Lokalt
+
 15051 Kungsbacka Konståkningsklubb aktivitetsstöd 2 2024-02-13 59 288,00
 Barn och ungdomsföreningar/
 15056 Kungsbacka Konståkningsklubb Utbildning och utvecklingsbidrag 2024-02-13 37 600,00
 Barn och ungdomsföreningar/ Lokalt
 15000 Kungsbacka Motionsförening aktivitetsstöd 2 2024-01-23  285
+
 Barn och ungdomsföreningar/
 15002 Kungsbacka Motionsförening Utbildning och utvecklingsbidrag 2024-01-23 1 400,00
-
 Barn och ungdomsföreningar/ Lokalt
 15010 Kungsbacka Tennisklubb aktivitetsstöd 2    2024-01-29 52 972,00
 Barn och ungdomsföreningar/
 15012 Kungsbacka Tennisklubb Utbildning och utvecklingsbidrag 2024-01-29 74 600,00
 Barn och ungdomsföreningar/ Lokalt
 15020 Lerkils IF        aktivitetsstöd 2         2024-01-29 106 245,00
+
 Barn och ungdomsföreningar/
 15025 Lerkils IF        Utbildning och utvecklingsbidrag 2024-01-29 96 800,00
 Barn och ungdomsföreningar/ Lokalt
-
 15019 Löftadalens Scoutkår aktivitetsstöd 2      2024-01-29 2 190,00
 Barn och ungdomsföreningar/
+
 15023 Löftadalens Scoutkår Utbildning och utvecklingsbidrag 2024-01-29 4 600,00
 15024 Löftadalens Scoutkår Barn och ungdomsföreningar/ 2024-01-29 230
 15031 Medborgarskolan   Kultur &Fritid/ Studieförbundsbidrag 2024-02-01 101 500,00
 15032 NBV Väst          Kultur &Fritid/ Studieförbundsbidrag 2024-02-01 194 011,00
 Barn och ungdomsföreningar/ Lokalt
-15049 OK Löftan         aktivitetsstöd 2         2024-02-13 6 270,00
 
+15049 OK Löftan         aktivitetsstöd 2         2024-02-13 6 270,00
 Barn och ungdomsföreningar/
 15050 OK Löftan         Utbildning och utvecklingsbidrag 2024-02-13 6 800,00
 15054 OK Löftan         Barn och ungdomsföreningar/ 2024-02-13 340

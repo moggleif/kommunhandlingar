@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a0862710404491b/1789109262
 sha256: e5215ddc38b5f1370cea8c1a4db30cb04bcecbb12beddceacfb1160b690d69d6
 bytes: 11653586
 sidor: 380
-hamtad: 2026-10-23T10:00:28+00:00
-konverterad: 2026-10-23T10:01:52+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T11:48:29+00:00
+konverterad: 2026-11-06T11:50:01+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -2877,306 +2877,475 @@ Sida 20 av 290
 
 1\.   Bakgrund                 och       ramverk
 
-Som kollektivtrafikmyndighet ska Region Halland upprätta ett
+Som  kollektivtrafikmyndighet ska Region Halland upprätta ett
 
 Trafikförsörjningsprogram där kollektivtrafikens omfattning och
 utveckling beskrivs strategiskt på kort- och lång sikt.
 
 1.1 Organisation, uppdrag och
+styrdokument
 
-styrdokument                     Region Halland
-Region Halland ansvarar för att samordna
 Kollektivtrafik kan indelas i lokal och
-och leda processer som bidrar till regional
 regional, interregional samt internationell
-utveckling. I uppdraget ingår bland annat att
+
 kollektivtrafik. I kollektivtrafiklagen som
-ta fram Regional utvecklingsstrategi (RUS)
 inrättades 2012, regleras den lokala och
-och Regional fysisk plan. Region Halland är
 regionala kollektivtrafiken. Regional
-även länsplaneupprättare, med ansvar för
 kollektivtrafik definieras i lagen som ”sådan
-den långsiktiga planeringen av länets
 kollektivtrafik som äger rum inom ett län
-infrastruktur. Detta ökar
+
 eller om den sträcker sig över flera län, med
-samordningsmöjligheterna mellan
 avseende på trafikutbudet huvudsakligen är
-kollektivtrafikens utveckling och
 ägnad att tillgodose resenärernas behov av
-investeringar i infrastruktur på regionala
 arbets- och studiependling eller annat
-vägar och till viss del även på järnvägar.
 vardagsresande\* och som med hänsyn till sitt
 faktiska nyttjande tillgodoser ett sådant
-Kollektivtrafiken är en samhällsviktig
+
 behov”. Beslut om allmän trafikplikt gäller
-funktion och utgör en central del av Sveriges
 regional kollektivtrafik.
+
+\* Med arbets- och studieresor samt annat
+vardagsresande avses miljövänliga och
+energieffektiva transportsätt för att nå
+skolor, arbetsplatser, aktiviteter, friluftsliv
+och andra viktiga servicepunkter. Resorna
+är en förutsättning för att uppnå attraktiva
+livs- och boendemiljöer.
+
+Region Halland
+Region Halland ansvarar för att samordna
+
+och leda processer som bidrar till regional
+utveckling. I uppdraget ingår bland annat att
+ta fram Regional utvecklingsstrategi (RUS)
+och Regional fysisk plan. Region Halland är
+även länsplaneupprättare, med ansvar för
+
+den långsiktiga planeringen av länets
+infrastruktur. Detta ökar
+samordningsmöjligheterna mellan
+kollektivtrafikens utveckling och
+investeringar i infrastruktur på regionala
+
+vägar och till viss del även på järnvägar.
+Kollektivtrafiken är en samhällsviktig
+
+funktion och utgör en central del av Sveriges
 civila försvar. Region Halland har därför i
 uppdrag att säkerställa att kollektivtrafiken
-\* Med arbets- och studieresor samt annat fungerar såväl under normala förhållanden
-vardagsresande avses miljövänliga och som vid kris och höjd beredskap. Detta
-energieffektiva transportsätt för att nå
+fungerar såväl under normala förhållanden
+som vid kris och höjd beredskap. Detta
+
 innebär ett ansvar att reducera sårbarheter,
-skolor, arbetsplatser, aktiviteter, friluftsliv
 stärka verksamhetens motståndskraft mot
-och andra viktiga servicepunkter. Resorna
 samhällsstörningar samt utveckla och
-är en förutsättning för att uppnå attraktiva
 upprätthålla en grundläggande förmåga inom
-livs- och boendemiljöer.
 civilt försvar.
+
 Trafikförsörjningsprogram 2026-2030 7
 Sida 21 av 290
 
 <!-- sida 63 -->
 
-Regional kollektivtrafikmyndighet konkret beskrivning av kollektivtrafiken på
-Region Halland är regional       kortare sikt. Programmet innehåller även en
-kollektivtrafikmyndighet. Enligt redovisning av färdtjänst och sjukresor,
-kollektivtrafiklagen ska det i varje län finnas information om arbetet med
+Regional kollektivtrafikmyndighet
+Region Halland är regional
 
-en regional kollektivtrafikmyndighet som har tillgänglighetsanpassning av hållplatser samt
-ansvar för den allmänna kollektivtrafiken och Region Hallands inställning till kommersiell
-för att ta fram ett regionalt    trafik. Programmet aktualiseras vart fjärde år
-trafikförsörjningsprogram. Fem av Hallands i samband med ny mandatperiod.
+kollektivtrafikmyndighet. Enligt
+kollektivtrafiklagen ska det i varje län finnas
+en regional kollektivtrafikmyndighet som har
+ansvar för den allmänna kollektivtrafiken och
+för att ta fram ett regionalt
+trafikförsörjningsprogram. Fem av Hallands
+
 sex kommuner har även överlämnat ansvar
-Kommersiell kollektivtrafik
 för färdtjänsten och riksfärdtjänsten till
-I trafikförsörjningsprogrammet görs en
 Region Halland.
-avvägning mellan vilken trafik som samhället
-Regional utvecklingsstrategi     tar ansvar för och vilken trafik som bedrivs
-Den regionala utvecklingsstrategin (RUS) är kommersiellt. Det förenklar för företag att
-det övergripande styrdokumentet för komma in på kollektivtrafikmarknaden,
-Halland. Här återfinns Hallands vision: vilket kan bidra till ett större utbud för
-Halland – bästa livsplatsen 2035. invånarna. Kollektivtrafiklagen gör det fritt
-för kommersiella aktörer att bedriva
-Regional fysisk plan             kollektivtrafik.
-Den regionala fysiska planen har ett
-Allmän trafikplikt
-tidsperspektiv som sträcker sig till år 2050.
-Planen utgör både en geografisk och fysisk Med allmän trafikplikt avses den
-dimension av de strategiska val och kollektivtrafik som den regionala
-prioriteringar som preciseras i RUS och i kollektivtrafikmyndigheten fastställer ska
-Strategi för hållbar tillväxt. Därutöver ger den vara ett ansvar för samhället. Denna trafik
-förutsättningar för utvecklingen av de fysiska ska beskrivas och formellt beslutas av
-strukturerna som sträcker sig över kommun- myndigheten. Trafiken ska därefter
 
-och regiongränserna.             upphandlas och regleras enligt politiskt
-beslutade riktlinjer. Beslut om allmän
-Strategi för hållbar tillväxt    trafikplikt är information till invånare och
-Hallands strategi för hållbar tillväxt utgår näringsliv samt till trafikföretag som avser
-från RUS och riktar in sig på de utföra kommersiell trafik.
+Regional utvecklingsstrategi
+Den regionala utvecklingsstrategin (RUS) är
+
+det övergripande styrdokumentet för
+Halland. Här återfinns Hallands vision:
+Halland – bästa livsplatsen 2035.
+
+Regional fysisk plan
+Den regionala fysiska planen har ett
+
+tidsperspektiv som sträcker sig till år 2050.
+Planen utgör både en geografisk och fysisk
+dimension av de strategiska val och
+prioriteringar som preciseras i RUS och i
+Strategi för hållbar tillväxt. Därutöver ger den
+förutsättningar för utvecklingen av de fysiska
+
+strukturerna som sträcker sig över kommun-
+och regiongränserna.
+
+Strategi för hållbar tillväxt
+Hallands strategi för hållbar tillväxt utgår
+från RUS och riktar in sig på de
+
 tillväxtskapande faktorerna. Strategin
-Hallandstrafiken
 beskriver hur hela Halland ska växa och
-utvecklas på ett ekologiskt, socialt och Hallandstrafiken är sedan 2023 del av Region
-ekonomiskt hållbart sätt.        Hallands förvaltningsorganisation och har
-som huvuduppgift att sköta den operativa
+utvecklas på ett ekologiskt, socialt och
+ekonomiskt hållbart sätt.
+
 Regionalt trafikförsörjningsprogram
-planeringen av kollektivtrafiken i länet.
-Kollektivtrafiklagen beskriver att Hallandstrafiken upphandlar och samordnar
-trafikförsörjningsprogrammet bland annat den regionala kollektivtrafiken i Halland på
-ska innehålla mål och riktlinjer för utveckling uppdrag av kollektivtrafikmyndigheten,
-av kollektivtrafiken. Det ska rymma både en bereder ärenden åt
+
+Kollektivtrafiklagen beskriver att
+trafikförsörjningsprogrammet bland annat
+ska innehålla mål och riktlinjer för utveckling
+av kollektivtrafiken. Det ska rymma både en
 långsiktig och strategisk del och en mer
 
-Trafikförsörjningsprogram 2026-2030 8
+konkret beskrivning av kollektivtrafiken på
+kortare sikt. Programmet innehåller även en
+redovisning av färdtjänst och sjukresor,
 
+information om arbetet med
+tillgänglighetsanpassning av hållplatser samt
+Region Hallands inställning till kommersiell
+trafik. Programmet aktualiseras vart fjärde år
+i samband med ny mandatperiod.
+
+Kommersiell kollektivtrafik
+
+I trafikförsörjningsprogrammet görs en
+avvägning mellan vilken trafik som samhället
+tar ansvar för och vilken trafik som bedrivs
+kommersiellt. Det förenklar för företag att
+komma in på kollektivtrafikmarknaden,
+
+vilket kan bidra till ett större utbud för
+invånarna. Kollektivtrafiklagen gör det fritt
+för kommersiella aktörer att bedriva
+kollektivtrafik.
+
+Allmän trafikplikt
+
+Med allmän trafikplikt avses den
+kollektivtrafik som den regionala
+kollektivtrafikmyndigheten fastställer ska
+vara ett ansvar för samhället. Denna trafik
+ska beskrivas och formellt beslutas av
+
+myndigheten. Trafiken ska därefter
+upphandlas och regleras enligt politiskt
+beslutade riktlinjer. Beslut om allmän
+trafikplikt är information till invånare och
+näringsliv samt till trafikföretag som avser
+
+utföra kommersiell trafik.
+
+Hallandstrafiken
+Hallandstrafiken är sedan 2023 del av Region
+Hallands förvaltningsorganisation och har
+som huvuduppgift att sköta den operativa
+
+planeringen av kollektivtrafiken i länet.
+Hallandstrafiken upphandlar och samordnar
+den regionala kollektivtrafiken i Halland på
+uppdrag av kollektivtrafikmyndigheten,
+bereder ärenden åt
+
+Trafikförsörjningsprogram 2026-2030 8
 Sida 22 av 290
 
 <!-- sida 64 -->
 
-kollektivtrafikmyndigheten och upprättar utvecklingen av Halland. Trafikverket
-Kollektivtrafikplan för Halland. ansvarar för att ta fram den nationella
-transportplanen och denna plan är grunden
+kollektivtrafikmyndigheten och upprättar
+Kollektivtrafikplan för Halland.
+
 Kollektivtrafikplan
-för utveckling av det statliga
+
 Varje år utformar Hallandstrafiken en
-transportsystemet. I nationell plan för
 Kollektivtrafikplan utifrån riktlinjerna i det
-transportsystemet beslutas om
 regionala trafikförsörjningsprogrammet.
-nyinvesteringar bland annat på järnvägssidan
 Framtagandet av planen sker i nära dialog
-och där finns även medel till drift och
 med kommunerna i länet. I planen beskrivs
-underhåll.
 det operativa genomförandet av
-Trafikförsörjningsprogrammet, exempelvis Kommunerna i Halland
-linjeförändringar och turutbud för det Kommunerna i Halland är viktiga aktörer i
-kommande året med utblick ytterligare fyra utvecklingen av Halland och av
-år framåt.                       kollektivtrafiken. Genom det kommunala
+
+Trafikförsörjningsprogrammet, exempelvis
+linjeförändringar och turutbud för det
+kommande året med utblick ytterligare fyra
+år framåt.
+
+Samarbete för utveckling av
+
+kollektivtrafiken
+Kort- och långsiktig utveckling av
+kollektivtrafiken enligt
+trafikförsörjningsprogrammet görs i
+
+samarbete mellan bland andra de halländska
+kommunerna, Region Halland,
+Hallandstrafiken och Trafikverket. En mer
+ingående beskrivning av ansvarsfördelningen
+och hur samverkan ser ut görs i kapitel 7.
+
+Trafikverket
+
+Trafikverket är ansvarigt för investeringar,
+drift och underhåll av statliga (nationella och
+regionala) vägar och järnvägar. Dialogen,
+samarbetet och samplanering med
+Trafikverket är en viktig del i utvecklingen av
+
+kollektivtrafiken och därmed också i
+
+utvecklingen av Halland. Trafikverket
+ansvarar för att ta fram den nationella
+transportplanen och denna plan är grunden
+
+för utveckling av det statliga
+transportsystemet. I nationell plan för
+transportsystemet beslutas om
+nyinvesteringar bland annat på järnvägssidan
+och där finns även medel till drift och
+
+underhåll.
+
+Kommunerna i Halland
+Kommunerna i Halland är viktiga aktörer i
+utvecklingen av Halland och av
+kollektivtrafiken. Genom det kommunala
 planmonopolet har kommunerna ansvaret för
+
 hur bebyggelse- och samhällsplaneringen
 utformas lokalt. Utformning av staden och
 nya bostadsområden sätter ramarna för vad
 som kan åstadkommas med kollektivtrafiken.
 Kollektivtrafiken bör integreras i samtliga
+
 delar av samhällsplaneringsprocessen och
 beaktas i tidiga skeden i kommunens
 planering. Det krävs samplanering för att
 lösningarna ska bli bra för invånarna vilket
-Samarbete för utveckling av
 förutsätter nära samarbete mellan Region
-kollektivtrafiken                Halland, Hallandstrafiken och kommunerna.
-Kort- och långsiktig utveckling av
+
+Halland, Hallandstrafiken och kommunerna.
+
 Samarbetet med kommunerna på politisk
-kollektivtrafiken enligt
 nivå sker genom fortlöpande dialog med
-trafikförsörjningsprogrammet görs i
 kommun-och regionledningsforum.
-samarbete mellan bland andra de halländska
 Hallandstrafiken träffar kommunerna
-kommunerna, Region Halland,
 regelbundet på en mer operativ basis och har
-Hallandstrafiken och Trafikverket. En mer
+
 dialoger vid framtagandet av den årliga
-ingående beskrivning av ansvarsfördelningen
 Kollektivtrafikplanen. Region Halland
-och hur samverkan ser ut görs i kapitel 7.
 tillsammans med Hallandstrafiken anordnar
 regelbundet möten för
-Trafikverket
 kommunrepresentanter som arbetar med
-Trafikverket är ansvarigt för investeringar,
 frågor som berör kollektivtrafik och
-drift och underhåll av statliga (nationella och
+
 infrastruktur.
-regionala) vägar och järnvägar. Dialogen,
-samarbetet och samplanering med
+
 Angränsande regioner
-Trafikverket är en viktig del i utvecklingen av
 Halland gränsar till Västra
-kollektivtrafiken och därmed också i
 Götalandsregionen, Region Jönköpings län,
+
 Trafikförsörjningsprogram 2026-2030 9
 Sida 23 av 290
 
 <!-- sida 65 -->
 
-Region Kronoberg och Region Skåne. målsättningar med fokus på den
-Utveckling av den länsöverskridande gränsöverskridande persontågtrafiken, med
-kollektivtrafiken kräver samarbete med utblick mot 2040. Handlingsplanen
-närliggande regioner och         prioriterar pendlingsbara relationer det vill
-kollektivtrafikmyndigheter.      säga stärkandet av förbindelser inom en
+Region Kronoberg och Region Skåne.
+Utveckling av den länsöverskridande
+kollektivtrafiken kräver samarbete med
 
-Öresundstågssystemet är ett sådant exempel timme och att få till fler relationer inom eller
-på samarbete, vilket är ett mellanregionalt i närheten av en timme. För att uppnå detta
-och internationellt tågsystem i  krävs bland annat parallella tågtrafiksystem
-Öresundsregionen. Arbetspendlingen mellan med olika hastighet och uppehållsbild, nya
-Kungsbacka kommun och Västra     snabbare tåg och investeringar i
+närliggande regioner och
+kollektivtrafikmyndigheter.
+Öresundstågssystemet är ett sådant exempel
+på samarbete, vilket är ett mellanregionalt
+och internationellt tågsystem i
 
-Götalandsregionen är mycket omfattande. järnvägsanläggningen.
+Öresundsregionen. Arbetspendlingen mellan
+Kungsbacka kommun och Västra
+Götalandsregionen är mycket omfattande.
 Kollektivtrafikmyndigheterna i Halland och
-Greater Copenhagen och STRING
 Västra Götaland har i en avsiktsförklaring
-Greater Copenhagen-samarbetet är ett
+
 angivit att intentionen är att det pågående
-näringslivspolitiskt partnerskap mellan
 samarbetet ska fortsätta för att minimera
-Region Skåne och Region Halland i Sverige,
 effekterna av länsgränsen samt underlätta
-Region Sjælland och Region Hovedstaden i
 planerings- och beslutsprocesser.
-Danmark och de tillhörande 85
-Regionsamverkan Sydsverige       kommunerna. Tillsammans arbetar de olika
-Regionsamverkan Sydsverige (RSS) är ett parterna för att skapa ökad tillväxt, växande
-samarbetsorgan för Sveriges sex sydligaste arbetsmarknad och god livskvalitet för
-regioner: Region Blekinge, Region Halland, regionens totalt 4,3 miljoner invånare. Ett av
-Region Jönköpings län, Region Kalmar län, målen är att bygga en region av internationell
-Region Kronoberg samt Region Skåne. betydelse.
+
+Regionsamverkan Sydsverige
+Regionsamverkan Sydsverige (RSS) är ett
+
+samarbetsorgan för Sveriges sex sydligaste
+regioner: Region Blekinge, Region Halland,
+Region Jönköpings län, Region Kalmar län,
+Region Kronoberg samt Region Skåne.
 Regionsamverkan Sydsverige arbetar för en
-STRING (Southwestern Baltic Sea
+
 långsiktigt hållbar tillväxt och utveckling i de
-Transnational Area - Implementing New
 sydligaste regionerna. Infrastruktur och
-Geography) är ett gränsöverskridande
 kollektivtrafik är två av flera områden där
-samarbete mellan regioner och städer i
 samarbete pågår.
-Sverige, Norge, Danmark och Tyskland, som
-Inom RSS har ett positionspapper för Halland är med i. Syftet med STRING är att
-kollektivtrafiken i Sydsverige tagits fram. stärka den regionala utvecklingen i
-Syftet med positionspapperet är att förbättra tillväxtbältet Oslo–Göteborg–Halland–
-den regionöverskridande kollektivtrafiken till Malmö–Köpenhamn–Hamburg.
+
+Inom RSS har ett positionspapper för
+kollektivtrafiken i Sydsverige tagits fram.
+
+Syftet med positionspapperet är att förbättra
+den regionöverskridande kollektivtrafiken till
 gagn för större arbetsmarknadsregioner,
 nåbarhet till högre studier och en ökad
-1.2 Kollektivtrafiklagen – 2kap.
 tillväxt. I positionspapperet har
-Regional kollektivtrafik
 gemensamma ställningstaganden och
-prioriteringar tagits fram kring utvecklingen Kollektivtrafiklagen i
+
+prioriteringar tagits fram kring utvecklingen
 av den gränsöverskridande kollektivtrafiken i
-sammandrag
 Sydsverige. Inom ramen för RSS har även en
-1§ Regionen och kommunerna inom ett län
 handlingsplan för kollektivtrafik tagits fram. I
-ansvarar gemensamt för den regionala
 denna konkretiseras positionspapperets
+
+målsättningar med fokus på den
+gränsöverskridande persontågtrafiken, med
+utblick mot 2040. Handlingsplanen
+
+prioriterar pendlingsbara relationer det vill
+säga stärkandet av förbindelser inom en
+timme och att få till fler relationer inom eller
+i närheten av en timme. För att uppnå detta
+krävs bland annat parallella tågtrafiksystem
+
+med olika hastighet och uppehållsbild, nya
+snabbare tåg och investeringar i
+järnvägsanläggningen.
+
+Greater Copenhagen och STRING
+Greater Copenhagen-samarbetet är ett
+näringslivspolitiskt partnerskap mellan
+
+Region Skåne och Region Halland i Sverige,
+Region Sjælland och Region Hovedstaden i
+Danmark och de tillhörande 85
+kommunerna. Tillsammans arbetar de olika
+parterna för att skapa ökad tillväxt, växande
+
+arbetsmarknad och god livskvalitet för
+regionens totalt 4,3 miljoner invånare. Ett av
+målen är att bygga en region av internationell
+betydelse.
+
+STRING (Southwestern Baltic Sea
+Transnational Area - Implementing New
+
+Geography) är ett gränsöverskridande
+samarbete mellan regioner och städer i
+Sverige, Norge, Danmark och Tyskland, som
+Halland är med i. Syftet med STRING är att
+stärka den regionala utvecklingen i
+
+tillväxtbältet Oslo–Göteborg–Halland–
+Malmö–Köpenhamn–Hamburg.
+
+1.2 Kollektivtrafiklagen – 2kap.
+
+Regional kollektivtrafik
+
+Kollektivtrafiklagen i
+sammandrag
+
+1§ Regionen och kommunerna inom ett län
+ansvarar gemensamt för den regionala
+
 Trafikförsörjningsprogram 2026-2030 10
 Sida 24 av 290
 
 <!-- sida 66 -->
 
-kollektivtrafiken. […] Regionen och (2019:950). 13§ Den regionala
-kommunerna får dock komma överens om att kollektivtrafikmyndigheten ska verka för att
-antingen regionen eller kommunerna ska den regionala kollektivtrafiken är tillgänglig
-bära ansvaret.                   för alla resenärsgrupper.
+kollektivtrafiken. […] Regionen och
+kommunerna får dock komma överens om att
+antingen regionen eller kommunerna ska
 
-1b§ Om en region ensam ska ansvara för den 14§ Den regionala kollektivtrafikmyndigheten
-regionala kollektivtrafiken i länet, får en ska verka för en tillfredsställande
+bära ansvaret.
 
-kommun inom länet träffa avtal med taxiförsörjning i länet.
+1b§ Om en region ensam ska ansvara för den
+regionala kollektivtrafiken i länet, får en
+kommun inom länet träffa avtal med
 regionen om kostnadsansvar för regional
 kollektivtrafik som är av bättre kvalitet eller
+
 billigare för resenärerna än vad regionen
 annars skulle tillhandahålla.
 
 2§ I varje län ska det finnas en regional
-
 kollektivtrafikmyndighet (RKM)
 
 8§ Den regionala kollektivtrafikmyndigheten
 ska regelbundet i ett
 trafikförsörjningsprogram (TFP) fastställa
 mål för den regionala kollektivtrafiken.
+
 Programmet ska vid behov uppdateras.
-Närmare om innehållet i
+
 9§ Det regionala
-regionala
 trafikförsörjningsprogrammet ska upprättas
-trafikförsörjningsprogram
 efter samråd med motsvarande myndigheter i
-10 § Ett regionalt trafikförsörjningsprogram
 angränsande län. Samråd ska även ske med
-ska innehålla en redovisning av:
 övriga berörda myndigheter, organisationer,
+
 kollektivtrafikföretag samt företrädare för
-1\. behovet av regional kollektivtrafik i länet
 näringsliv och resenärer. I de fall en region
-samt mål för kollektivtrafikförsörjningen,
 ensam är regional kollektivtrafikmyndighet
-ska samråd även ske med kommunerna i 2. alla former av regional kollektivtrafik i
-länet.                           länet, både trafik som bedöms kunna utföras
-på kommersiell grund och trafik som
+ska samråd även ske med kommunerna i
+länet.
+
 Övriga uppgifter för den
-myndigheten avser att ombesörja på grundval
-regionala                        av allmän trafikplikt,
+
+regionala
 kollektivtrafikmyndigheten
-3\. åtgärder för att skydda miljön,
+
 12§ Efter överenskommelse med regionen
-eller en kommun i länet får den regionala 4. tidsbestämda mål och åtgärder för
-kollektivtrafikmyndigheten upphandla anpassning av kollektivtrafik med hänsyn till
-persontransport- och samordningstjänster behov hos personer med
-för sådana transportändamål som  funktionsnedsättning,
+eller en kommun i länet får den regionala
+kollektivtrafikmyndigheten upphandla
+persontransport- och samordningstjänster
+
+för sådana transportändamål som
 kommunerna eller regionen ska tillgodose
-5\. de bytespunkter och linjer som ska vara
 samt samordna sådana transporttjänster. Lag
+
+(2019:950). 13§ Den regionala
+kollektivtrafikmyndigheten ska verka för att
+den regionala kollektivtrafiken är tillgänglig
+
+för alla resenärsgrupper.
+
+14§ Den regionala kollektivtrafikmyndigheten
+ska verka för en tillfredsställande
+taxiförsörjning i länet.
+
+Närmare om innehållet i
+
+regionala
+trafikförsörjningsprogram
+
+10 § Ett regionalt trafikförsörjningsprogram
+ska innehålla en redovisning av:
+
+1\. behovet av regional kollektivtrafik i länet
+samt mål för kollektivtrafikförsörjningen,
+
+2\. alla former av regional kollektivtrafik i
+länet, både trafik som bedöms kunna utföras
+på kommersiell grund och trafik som
+
+myndigheten avser att ombesörja på grundval
+av allmän trafikplikt,
+
+3\. åtgärder för att skydda miljön,
+
+4\. tidsbestämda mål och åtgärder för
+anpassning av kollektivtrafik med hänsyn till
+behov hos personer med
+funktionsnedsättning,
+
+5\. de bytespunkter och linjer som ska vara
+
 fullt tillgängliga för alla resenärer, samt
+
 Trafikförsörjningsprogram 2026-2030 11
 Sida 25 av 290
 
@@ -3199,7 +3368,7 @@ Sida 26 av 290
 
 2\.   Förutsättningar                        för      en
 
-attraktiv             kollektivtrafik
+attraktiv              kollektivtrafik
 
 Kapitlet beskriver de faktorer som skapar förutsättningar att
 
@@ -3209,124 +3378,165 @@ beskrivs hur en utvecklad kollektivtrafik i samplanering med annan
 samhällsbyggnad  kan bidra till att skapa samhällsnyttor för
 Hallands invånare.
 
-2.1 Framgångsfaktorer för att    resandet med kollektivtrafiken ska fortsätta
-åstadkomma  en attraktiv         utvecklas behöver regionen arbeta vidare
-med framgångsfaktorer för en attraktiv
+2.1 Framgångsfaktorer för att
+åstadkomma   en attraktiv
+
 kollektivtrafik i Halland
-kollektivtrafik.
 Kännetecknande för en attraktiv
-Trafikförsörjningsprogrammets uppgift är att
+
 kollektivtrafik är att den erbjuder
-peka ut dessa faktorer och visa hur de ska tas
 resenärerna snabba och effektiva resor, har
-om hand. En attraktiv kollektivtrafik är en
 hög turtäthet, är pålitlig samt erbjuder god
-förutsättning för att öka resandet och nå de
 kvalitet och service. Den behöver vara
-mål som finns angivna i
 användarvänlig oavsett kön, ålder, bakgrund,
-Trafikförsörjningsprogrammet.
+
 eller funktionsvariation. Därtill är
 grundläggande krav på trygghet och
-Framgångsfaktorer
 tillgänglighet för alla resenärsgrupper, såväl
-geografisk som demografisk, en förutsättning  Förkorta restider
-för att åstadkomma en attraktiv     Enkelhet, tillgänglighet och
+geografisk som demografisk, en förutsättning
+för att åstadkomma en attraktiv
+
 kollektivtrafik.
-trygghet
-Under en längre tid har utvecklingen av  Infrastrukturinvesteringar
-antalet resenärer i den halländska  Hela resan – perspektivet
+Under en längre tid har utvecklingen av
+
+antalet resenärer i den halländska
 kollektivtrafiken varit positiv när allt fler valt
-  Kollektivtrafikorienterad
 den som sitt resalternativ. Det är bland annat
-bebyggelseplanering (KOB)
 en konsekvens av ett mångårigt och
 kontinuerligt arbete med att utveckla
+
 kollektivtrafiksystemet i Halland. För att
+
+resandet med kollektivtrafiken ska fortsätta
+utvecklas behöver regionen arbeta vidare
+med framgångsfaktorer för en attraktiv
+
+kollektivtrafik.
+Trafikförsörjningsprogrammets uppgift är att
+peka ut dessa faktorer och visa hur de ska tas
+om hand. En attraktiv kollektivtrafik är en
+förutsättning för att öka resandet och nå de
+
+mål som finns angivna i
+Trafikförsörjningsprogrammet.
+
+Framgångsfaktorer
+  Förkorta restider
+
+  Enkelhet, tillgänglighet och
+trygghet
+  Infrastrukturinvesteringar
+
+  Hela resan – perspektivet
+  Kollektivtrafikorienterad
+
+bebyggelseplanering (KOB)
+
 Trafikförsörjningsprogram 2026-2030 13
 Sida 27 av 290
 
 <!-- sida 69 -->
 
-Förkorta restider                flödena inte lika stora. Mellan södra Halland
-och nordvästra Skåne finns det däremot
+Förkorta restider
 För att skapa goda förutsättningar för en
-potential att skapa en gemensam
+
 attraktiv kollektivtrafik i Halland är det
-arbetsmarknad och därmed öka utbytet
 viktigt att förkorta restiderna. Åtgärder i
-mellan orterna. Resandet över länsgränserna
 infrastrukturen för ökad framkomlighet och
-mot Smålandslänen och de sydöstra delarna
 kapacitet, eller översyn av uppehållsbilder
-av Västra Götaland (Boråsregionen) är
 och körsträckor är sätt på vilka detta kan
-betydligt mindre i omfattning.
+
 åstadkommas. I det löpande arbetet behöver
 en större andel av resandet flyttas över till
-För att hela Halland ska kunna fortsätta växa
 kollektivtrafik, gång och cykel i strävan mot
-är det viktigt att arbetsmarknaderna både
 ett hållbart och mer yteffektivt
-inom Halland och i angränsande regioner
 transportsystem.
-fortsätter att tillgängliggöras för så många
-som möjligt. Snabba och hållbara transporter
+
 Hallands geografi möjliggör för korta restider
-med ett utbud som motsvarar resbehovet i
 mellan orterna längs kusten och inlandet och
-Halland är därför en grundförutsättning för
+
 har historiskt inneburit att
-den halländska utvecklingen. Det behövs
 arbetsmarknaderna vuxit. Länet är
-även information om vilket utbud som
 flerkärnigt med Halmstad och Varberg som
-faktiskt erbjuds. Här blir marknads- och
 regionala tillväxtmotorer, Falkenberg och
-informationsinsatser gentemot resenärerna
 Kungsbacka som regionala kärnor samt
-viktiga att genomföra. Kommande år behöver
+
 Laholm och Hylte som lokala kärnor. Den
-tågtrafiken på Västkustbanan och
 starka tillväxten i Halland har historiskt
-kollektivtrafiken som förbinder kusten med
 fördelats mellan flera orter snarare än
-inlandet utvecklas för att korta ner restider
 koncentrerats till en dominerande kärna.
-och öka dess konkurrenskraft gentemot bilen.
 Geografin präglas av starka funktionella
+
 samband på flera nivåer och regionen är en
-Enkelhet, tillgänglighet och
 del av flera lokala och regionala arbets-,
-trygghet
 bostads- och studiemarknader.
-När kollektivtrafiken utvecklas och blir
+
 De största pendlingsströmmarna inom länet
-tillgänglig för fler ökar tillgången till arbete,
 löper i nord-sydlig riktning mellan de
-studier, nöjen, fritidsaktiviteter, rekreation
 regionala kärnorna längs kusten och mellan
-samt offentlig- och privat service.
+
 de regionala kärnorna och deras omland. I de
-Kollektivtrafiken kan på så sätt skapa
 östra delarna av regionen sker pendling dels
-förutsättningar för integration genom att
 till kuststäderna, dels till större
-minska sociala och fysiska barriärer för
 arbetsmarknader inåt landet. De
-socioekonomiskt sårbara grupper, samtidigt
 länsöverskridande pendlingsströmmarna går
-som den kan skapa en rättvisare tillgänglighet
 i huvudsak norrut till Göteborgs och
-då barn, äldre och personer med
+
 Mölndals kommuner. Arbetspendlingen över
-funktionsnedsättningar kan nyttja
 Hallands norra länsgräns är den näst största
-kollektivtrafiken i större utsträckning för sin
 regionöverskridande pendlingsrelationen i
-mobilitet.
 Sverige och medför att en stor del av Halland
 ingår i Göteborgs arbetsmarknad. Söderut är
+
+flödena inte lika stora. Mellan södra Halland
+och nordvästra Skåne finns det däremot
+potential att skapa en gemensam
+
+arbetsmarknad och därmed öka utbytet
+mellan orterna. Resandet över länsgränserna
+mot Smålandslänen och de sydöstra delarna
+av Västra Götaland (Boråsregionen) är
+betydligt mindre i omfattning.
+
+För att hela Halland ska kunna fortsätta växa
+
+är det viktigt att arbetsmarknaderna både
+inom Halland och i angränsande regioner
+fortsätter att tillgängliggöras för så många
+som möjligt. Snabba och hållbara transporter
+med ett utbud som motsvarar resbehovet i
+Halland är därför en grundförutsättning för
+
+den halländska utvecklingen. Det behövs
+även information om vilket utbud som
+faktiskt erbjuds. Här blir marknads- och
+informationsinsatser gentemot resenärerna
+viktiga att genomföra. Kommande år behöver
+
+tågtrafiken på Västkustbanan och
+kollektivtrafiken som förbinder kusten med
+inlandet utvecklas för att korta ner restider
+och öka dess konkurrenskraft gentemot bilen.
+
+Enkelhet, tillgänglighet och
+
+trygghet
+När kollektivtrafiken utvecklas och blir
+tillgänglig för fler ökar tillgången till arbete,
+
+studier, nöjen, fritidsaktiviteter, rekreation
+samt offentlig- och privat service.
+Kollektivtrafiken kan på så sätt skapa
+förutsättningar för integration genom att
+minska sociala och fysiska barriärer för
+
+socioekonomiskt sårbara grupper, samtidigt
+som den kan skapa en rättvisare tillgänglighet
+då barn, äldre och personer med
+funktionsnedsättningar kan nyttja
+kollektivtrafiken i större utsträckning för sin
+mobilitet.
+
 Trafikförsörjningsprogram 2026-2030 14
 Sida 28 av 290
 
@@ -3342,326 +3552,453 @@ Sida 29 av 290
 
 <!-- sida 71 -->
 
-Vidare kan en utvecklad och attraktiv Infrastrukturinvesteringar
+Vidare kan en utvecklad och attraktiv
 kollektivtrafik bidra till ett ökat resande inom
-Att det finns tillräckligt med kapacitet i
 de socioekonomiskt starka grupperna som i
-järnvägssystemet och att kollektivtrafiken har
+
 mindre utsträckning nyttjar kollektivtrafiken
-god framkomlighet i länets tätorter är viktigt
 i jämförelse.
-för Hallands utveckling och för
-kollektivtrafikens attraktivitet. Under en
+
 Genom att, så långt det är möjligt, arbeta för
-längre tid har en investeringsskuld byggts
 enkelhet, trygghet och tillgänglighet för alla
-upp för transportinfrastrukturen.
 resenärsgrupper oavsett demografi eller
-Samhällsförändringar kopplat till demografi,
 geografi, skapas en attraktiv och
-klimat, digitalisering och beredskap leder till
+
 inkluderande kollektivtrafik. Det innebär
-ökade krav på den fysiska infrastrukturen.
 tillgänglighetsanpassning av hållplatser och
-Behovet av infrastrukturinvesteringar är
 stationer, tydliga och enkla resevillkor, ännu
-därför stort och kommer att vara så även
 bättre komfort i fordonen, ett gemensamt
-framöver. Eftersom Halland växer och
 användarvänligt biljettsystem med
-resbehovet ökar är det viktigt att genomföra
 grannlänen samt att tillskapa upplysta och
-nödvändiga infrastrukturinvesteringar,
+
 trygga hållplatser för resenärerna. Även
-särskilt på Västkustbanan, men även i andra
 trafiksäkra och upplysta gång- och cykelvägar
-delar av trafiksystemet.
 till och från hållplatserna utgör ett viktigt led
 i arbetet med en attraktiv kollektivtrafik.
-Att Halland växer gör att mängden trafik i
 Viktigt är också tillskapandet av parkeringar
-länets tätorter ökar och belastar vägnätens
+
 för cykel och bil i anslutning till välplanerade
-kapacitet. Infrastrukturinsatser i gaturummet
 bytespunkter på landsbygden. Det ger
-som innebär att kollektivtrafikens restider
 invånarna bättre möjligheter att kunna resa
-prioriteras är viktigt för att öka dess
 med kollektivtrafiken till arbete, studier,
-framkomlighet. En god och fortsatt
 service, kultur- och fritidsaktiviteter som ofta
-förbättrad framkomlighet för
+
 är koncentrerade till större tätorter.
-kollektivtrafiken skapar förutsättningar för
-att den fortsatt ska vara ett attraktivt val.
+
 I Halland väntas grupperna barn och unga
 samt personer äldre än 65 år att öka i
-För att stärka det hållbara resandet i stort är
 snabbare takt än antalet personer i arbetsför
-det viktigt att även främja gång- och
 ålder. Redan idag utgör grupperna en stor del
-cykeltrafiken. I detta sammanhang är
 av befolkningen i länet. Gruppen i åldern 80+
-trafiksäkerheten en betydelsefull faktor att ta
+
 år väntas samtidigt fördubblas fram till 2050.
-hänsyn till. Placeringen av hållplatser och de
 Detta kan medföra ett ökat behov av
-anslutande vägarna för gång- och cykeltrafik
 kollektivtrafik och infrastruktur som är
-måste planeras och utformas på ett
 anpassad och tillgänglig för äldre och
-trafiksäkert sätt. Faktorer som omgivande
 personer med funktionsnedsättningar. Det
-fordonshastigheter, trafiktäthet, utrymme
 ökar behovet av tydliga målsättningar och
-och belysning behöver därutöver beaktas.
+
 strategier för den anpassade kollektivtrafiken
-Infrastruktur i form av cykelparkeringar vid
 och behovet av en anpassad och en för alla
-kollektivtrafiknoder och förbättrad
 tillgänglig allmän kollektivtrafik.
+
+Infrastrukturinvesteringar
+Att det finns tillräckligt med kapacitet i
+
+järnvägssystemet och att kollektivtrafiken har
+god framkomlighet i länets tätorter är viktigt
+för Hallands utveckling och för
+kollektivtrafikens attraktivitet. Under en
+längre tid har en investeringsskuld byggts
+
+upp för transportinfrastrukturen.
+Samhällsförändringar kopplat till demografi,
+klimat, digitalisering och beredskap leder till
+ökade krav på den fysiska infrastrukturen.
+Behovet av infrastrukturinvesteringar är
+
+därför stort och kommer att vara så även
+framöver. Eftersom Halland växer och
+resbehovet ökar är det viktigt att genomföra
+nödvändiga infrastrukturinvesteringar,
+särskilt på Västkustbanan, men även i andra
+delar av trafiksystemet.
+
+Att Halland växer gör att mängden trafik i
+
+länets tätorter ökar och belastar vägnätens
+kapacitet. Infrastrukturinsatser i gaturummet
+som innebär att kollektivtrafikens restider
+prioriteras är viktigt för att öka dess
+framkomlighet. En god och fortsatt
+
+förbättrad framkomlighet för
+kollektivtrafiken skapar förutsättningar för
+att den fortsatt ska vara ett attraktivt val.
+
+För att stärka det hållbara resandet i stort är
+det viktigt att även främja gång- och
+cykeltrafiken. I detta sammanhang är
+
+trafiksäkerheten en betydelsefull faktor att ta
+hänsyn till. Placeringen av hållplatser och de
+anslutande vägarna för gång- och cykeltrafik
+måste planeras och utformas på ett
+trafiksäkert sätt. Faktorer som omgivande
+fordonshastigheter, trafiktäthet, utrymme
+
+och belysning behöver därutöver beaktas.
+Infrastruktur i form av cykelparkeringar vid
+kollektivtrafiknoder och förbättrad
 trafiksäkerhet för fotgängare och cyklister
 utgör åtgärder som kan öka färdslagens
+
 Trafikförsörjningsprogram 2026-2030 16
 Sida 30 av 290
 
 <!-- sida 72 -->
 
-attraktivitet och underlätta det kombinerade fordon är en viktig del i att göra
-resandet med kollektivtrafiken.  kollektivtrafiken attraktiv. I dagens flexibla
-arbetsliv där fler helt eller delvis arbetar på
+attraktivitet och underlätta det kombinerade
+resandet med kollektivtrafiken.
+
 Arbetet med att utveckla kollektivtrafiken och
-distans och många pendlar längre avstånd
 dess infrastruktur behöver ske i samverkande
-blir en god uppkoppling ett attraktivt
+
 former och samplaneras gemensamt mellan
-erbjudande från kollektivtrafiken och ett led i
 Trafikverket, Region Halland,
-att stärka hela resan.
 grannregionerna och kommunerna.
+
 Hela resan-perspektivet
 För att skapa goda förutsättningar för
+
 kollektivtrafiken och få fler att välja den för
 hela eller delar av sina resor behöver den ses
 utifrån ett Hela resan-perspektiv.
 Planeringen behöver inriktas på att skapa
 lösningar och goda förutsättningar för
+
 resenärerna att kombinera olika färdmedel.
+
 Genom att kollektivtrafiken kompletteras
 med andra färdsätt kan upptagningsområdet
-Kollektivtrafikorienterad
 för kollektivtrafiken öka och restiderna från
-dörr till dörr minska i såväl städer som på bebyggelseplanering (KOB)
-landsbygden. Åtgärder som kan främja Kollektivtrafik är inte bara en
-kombinationsresor utgörs bland annat av transportfunktion utan också ett av många
-trygga och säkra pendlarparkeringar för bil verktyg för samhällsutveckling. Genom att
+dörr till dörr minska i såväl städer som på
+landsbygden. Åtgärder som kan främja
+kombinationsresor utgörs bland annat av
 
-och cykel vid kollektivtrafikens bytespunkter, väga in kollektivtrafiken i
-god anslutning till bytespunkter genom gång- bebyggelseplaneringen kan både
-och cykelstråk och utveckling av digitala kollektivtrafikens attraktions- och
-verktyg för att underlätta byten mellan konkurrenskraft och invånarnas närhet till
-färdslag. Pendlarparkeringar för bil blir olika samhällsfunktioner öka. Ett sätt att
+trygga och säkra pendlarparkeringar för bil
+och cykel vid kollektivtrafikens bytespunkter,
+god anslutning till bytespunkter genom gång-
+och cykelstråk och utveckling av digitala
+verktyg för att underlätta byten mellan
 
-särskilt viktigt vid bytespunkter på sammanföra kollektivtrafiken och
-landsbygden då behovet av bilen som bebyggelseplanering är att fokusera på KOB
-transportmedel är större i länets glesare och använda den halländska
-geografier. Möjligheten att kombinera olika samplaneringsmodellen för att åstadkomma
-färdmedel utifrån behov kan föra med sig att en sådan utveckling. KOB innebär att skapa
+färdslag. Pendlarparkeringar för bil blir
+särskilt viktigt vid bytespunkter på
+landsbygden då behovet av bilen som
+transportmedel är större i länets glesare
+geografier. Möjligheten att kombinera olika
 
-hela eller delar av resan kan ske med ett en tätare och mer stadsmässig bebyggelse
-hållbart transportmedel.         kring kollektivtrafikens noder och stråk för
-att få fler att välja kollektivtrafiken. Genom
+färdmedel utifrån behov kan föra med sig att
+hela eller delar av resan kan ske med ett
+hållbart transportmedel.
+
 En styrka som kollektivtrafiken har är
-att förtäta och blanda bostadsbebyggelse,
 möjligheten för resenären att nyttja restiden
-arbetsplatser, servicefunktioner och
 till annat, exempelvis till att arbeta och
-grönområden ges invånarna närhet till olika
-studera. Att resenärer har en fullt fungerande
-aktiviteter och fler ges möjlighet att resa med
-uppkoppling ombord på kollektivtrafikens
-kollektivtrafiken.
-Trafikförsörjningsprogram 2026-2030 17
 
+studera. Att resenärer har en fullt fungerande
+uppkoppling ombord på kollektivtrafikens
+
+fordon är en viktig del i att göra
+kollektivtrafiken attraktiv. I dagens flexibla
+arbetsliv där fler helt eller delvis arbetar på
+
+distans och många pendlar längre avstånd
+blir en god uppkoppling ett attraktivt
+erbjudande från kollektivtrafiken och ett led i
+att stärka hela resan.
+
+Kollektivtrafikorienterad
+
+bebyggelseplanering (KOB)
+Kollektivtrafik är inte bara en
+transportfunktion utan också ett av många
+
+verktyg för samhällsutveckling. Genom att
+väga in kollektivtrafiken i
+bebyggelseplaneringen kan både
+kollektivtrafikens attraktions- och
+konkurrenskraft och invånarnas närhet till
+
+olika samhällsfunktioner öka. Ett sätt att
+sammanföra kollektivtrafiken och
+bebyggelseplanering är att fokusera på KOB
+och använda den halländska
+samplaneringsmodellen för att åstadkomma
+
+en sådan utveckling. KOB innebär att skapa
+en tätare och mer stadsmässig bebyggelse
+kring kollektivtrafikens noder och stråk för
+att få fler att välja kollektivtrafiken. Genom
+att förtäta och blanda bostadsbebyggelse,
+
+arbetsplatser, servicefunktioner och
+grönområden ges invånarna närhet till olika
+aktiviteter och fler ges möjlighet att resa med
+kollektivtrafiken.
+
+Trafikförsörjningsprogram 2026-2030 17
 Sida 31 av 290
 
 <!-- sida 73 -->
 
-2.2 Kollektivtrafik som medel
-att uppnå samhällsnyttor
 Ett acceptabelt avstånd till kollektivtrafikens
-hållplatser i tätorterna är cirka 400 meter och Syftet med kollektivtrafiken är att göra
-utanför tätorterna cirka 2 kilometer. Av samhället tillgängligt genom att skapa
-befolkningen i Hallands tätorter har cirka 79 möjligheter för människor att resa till och
-procent tillgång till en kollektivtrafikstation från arbete, studier, fritidsaktiviteter och
+hållplatser i tätorterna är cirka 400 meter och
+utanför tätorterna cirka 2 kilometer. Av
 
-eller hållplats från sina bostäder. Utanför service. Genom att utveckla kollektivtrafiken i
-tätort är motsvarande siffra 62 procent. Det linje med framgångsfaktorerna som
-är en relativt låg andel jämfört med riket och beskrivits ovan skapas förutsättningar att
-Halland placerar sig under medianen för riket uppnå flertalet samhällsnyttor till gagn för
-som helhet. Här krävs bland annat en invånarna.
+befolkningen i Hallands tätorter har cirka 79
+procent tillgång till en kollektivtrafikstation
+eller hållplats från sina bostäder. Utanför
+tätort är motsvarande siffra 62 procent. Det
+är en relativt låg andel jämfört med riket och
 
+Halland placerar sig under medianen för riket
+som helhet. Här krävs bland annat en
 samplanering som främjar förtätning runt
-En väl utvecklad kollektivtrafik kan
 tågstationer, utvecklingen av attraktiva
-exempelvis bidra till att vidga
 bytespunkter i strategiska
-arbetsmarknadsregionerna, yteffektivisera
+
 kollektivtrafiknoderna på landsbygden och
-transportsystemet, förbättra folkhälsan och
 sammanhängande bebyggelse i
-minska klimatutsläppen. Men för att uppnå
 kollektivtrafikstråken.
-samhällsnyttor behöver kollektivtrafiken
-Nybyggnation av bostäder i närheten av också samplaneras tillsammans med andra
-kollektivtrafikens noder och stråk skapar ett områden i samhällsplaneringen.
+
+Nybyggnation av bostäder i närheten av
+kollektivtrafikens noder och stråk skapar ett
 ökat underlag för kollektivtrafiken vilket i sin
 tur kan motivera ytterligare satsningar på
+
 kollektivtrafiken. Vetskapen om var i Halland
-Yteffektivare transportsystem
 det kommer att gå kollektivtrafik utgör ett
-viktigt planeringsunderlag i den kommunala I städer kan ett ökat kollektivtrafikresande ge
-översiktsplaneringen. Kollektivtrafikstråken i tydliga fördelar. Kollektivtrafiken är betydligt
-detta program kan också ge en hänvisning till mer yteffektiv och kapacitetsstark än
-vad som behövs i form av nybyggnation och biltrafiken. Genom att öka kollektivtrafikens
-ökat befolkningsunderlag för att nya områden framkomlighet och få fler att nyttja den som
-eller stråk ska klassas som      sitt transportmedel frigörs ytor i
-kollektivtrafikstråk. Det kan på sikt leda till stadsrummet som kan omvandlas till mer
-ett ökat utbud av kollektivtrafik trivsamma, tillgängliga och säkra
+viktigt planeringsunderlag i den kommunala
+översiktsplaneringen. Kollektivtrafikstråken i
+detta program kan också ge en hänvisning till
+
+vad som behövs i form av nybyggnation och
+ökat befolkningsunderlag för att nya områden
+eller stråk ska klassas som
+kollektivtrafikstråk. Det kan på sikt leda till
+ett ökat utbud av kollektivtrafik
+
+2.2 Kollektivtrafik som medel
+att uppnå samhällsnyttor
+
+Syftet med kollektivtrafiken är att göra
+samhället tillgängligt genom att skapa
+
+möjligheter för människor att resa till och
+från arbete, studier, fritidsaktiviteter och
+service. Genom att utveckla kollektivtrafiken i
+linje med framgångsfaktorerna som
+beskrivits ovan skapas förutsättningar att
+
+uppnå flertalet samhällsnyttor till gagn för
+invånarna.
+
+En väl utvecklad kollektivtrafik kan
+exempelvis bidra till att vidga
+arbetsmarknadsregionerna, yteffektivisera
+transportsystemet, förbättra folkhälsan och
+minska klimatutsläppen. Men för att uppnå
+
+samhällsnyttor behöver kollektivtrafiken
+också samplaneras tillsammans med andra
+områden i samhällsplaneringen.
+
+Yteffektivare transportsystem
+
+I städer kan ett ökat kollektivtrafikresande ge
+tydliga fördelar. Kollektivtrafiken är betydligt
+mer yteffektiv och kapacitetsstark än
+biltrafiken. Genom att öka kollektivtrafikens
+
+framkomlighet och få fler att nyttja den som
+sitt transportmedel frigörs ytor i
+stadsrummet som kan omvandlas till mer
+trivsamma, tillgängliga och säkra
 trafikmiljöer. Ett transportsystem med större
 kapacitet för de hållbara färdmedlen skapar
+
 förutsättningar för ett Halland som är mer
 anpassat för människan, mer jämlikt och mer
 tillgängligt.
+
 Transportsystemet behöver bli mer yteffektivt
 för att kunna möta demografiska
 förändringar, urbanisering och
+
 hållbarhetsutmaningar. Det innebär att fler
 
 Trafikförsörjningsprogram 2026-2030 18
-
 Sida 32 av 290
 
 <!-- sida 74 -->
 
-av Hallands invånare kommer att behöva åka Välutformade Informations- och
-kollektivt, cykla eller gå. Bilen kommer tekniklösningar kan bidra till trygga och
-fortsatt ha en roll i transportsystemet och ska tillgängliga reseupplevelser i
-ges förutsättningar där den behövs. Däremot kollektivtrafiken. Detta är särskilt
-kommer trängsel- och bullerproblematik betydelsefullt för socioekonomiskt sårbara
+av Hallands invånare kommer att behöva åka
+kollektivt, cykla eller gå. Bilen kommer
+fortsatt ha en roll i transportsystemet och ska
 
-kvarstå i städerna om inte fler väljer de grupper som ofta är mer beroende av
-yteffektiva färdmedlen. Fortsatt utveckling av kollektivtrafiken och kan påverkas negativt av
-transportalternativen blir därför viktigt. För otydliga byten, förseningar eller
-att detta ska kunna bli verklighet är svårbegripliga biljettsystem. Ur ett
-samverkan och samplanering med de jämställdhetsperspektiv är tillgång till
+ges förutsättningar där den behövs. Däremot
+kommer trängsel- och bullerproblematik
+kvarstå i städerna om inte fler väljer de
+yteffektiva färdmedlen. Fortsatt utveckling av
+transportalternativen blir därför viktigt. För
 
-halländska kommunerna av största vikt. information och trygghetsskapande teknik
-avgörande, då kvinnor generellt rapporterar
+att detta ska kunna bli verklighet är
+samverkan och samplanering med de
+halländska kommunerna av största vikt.
+
 Förbättrad jämställdhet och ökad
-högre otrygghet i kollektivtrafiken, särskilt
-tillgänglighet för sårbara grupper under kvällstid.
+tillgänglighet för sårbara grupper
+
 Den ökade tillgängligheten blir särskilt viktigt
-Bättre folkhälsa
 för sårbara grupper såsom barn, äldre,
-För samhället är stora kostnader och vinster
 personer med funktionsnedsättning och
-kopplade till folkhälsan. Fysisk aktivitet från
 socioekonomiskt sårbara grupper. Barn är i
-cykel, gång samt förflyttningar till och från
+
 större utsträckning beroende av
-kollektivtrafik medför en positiv
 kollektivtrafiken eller av att resa ihop med en
-folkhälsoeffekt. Genom att få fler av Hallands
 vuxen för att ta sig till skola, service och
-invånare att nyttja kollektivtrafiken och
 aktiviteter. Om den vuxnes möjlighet att resa
-andra hållbara transportmedel för sina
 kollektivt ökar gör även barnens möjligheter
-vardagsresor kan folkhälsan påverkas
+
 det. Äldre och personer med
-positivt. Kollektivtrafikresenärer går eller
 funktionsnedsättning är på samma sätt
-cyklar mer regelbundet jämfört med bilister.
 beroende av kollektivtrafiken för sitt
-Därigenom bidrar ett ökat
 vardagsresande. En förbättrad och trygg
-kollektivtrafikresande till människors
 kollektivtrafik kan samtidigt öka
-vardagsmotion när fysisk rörelse blir en
+
 jämställdheten mellan kvinnor och män vad
-naturlig del av hela resan. Vidare minskar
 gäller tillgänglighet till olika aktiviteter i
-exponeringen för buller och luftföroreningar
 samhället. Resmönster skiljer sig åt mellan
 könen, särskilt valet av färdmedel och
 reslängden. Män väljer gärna bil och flyg.
+
 Kvinnor tenderar att i högre utsträckning
 använda kollektivtrafiken för kortare resor.
 Därutöver har fler kvinnor än män
 kollektivtrafiken som sitt enda resalternativ.
 God framkomlighet för kollektivtrafikens
+
 fordon och trygghetsskapande åtgärder kan
 bidra till att öka kvinnors tillgänglighet och
 upplevelse av trygghet när de nyttjar
 kollektivtrafiken.
+
+Välutformade Informations- och
+tekniklösningar kan bidra till trygga och
+tillgängliga reseupplevelser i
+
+kollektivtrafiken. Detta är särskilt
+betydelsefullt för socioekonomiskt sårbara
+grupper som ofta är mer beroende av
+kollektivtrafiken och kan påverkas negativt av
+otydliga byten, förseningar eller
+
+svårbegripliga biljettsystem. Ur ett
+jämställdhetsperspektiv är tillgång till
+information och trygghetsskapande teknik
+avgörande, då kvinnor generellt rapporterar
+högre otrygghet i kollektivtrafiken, särskilt
+
+under kvällstid.
+
+Bättre folkhälsa
+För samhället är stora kostnader och vinster
+kopplade till folkhälsan. Fysisk aktivitet från
+cykel, gång samt förflyttningar till och från
+
+kollektivtrafik medför en positiv
+folkhälsoeffekt. Genom att få fler av Hallands
+invånare att nyttja kollektivtrafiken och
+andra hållbara transportmedel för sina
+vardagsresor kan folkhälsan påverkas
+
+positivt. Kollektivtrafikresenärer går eller
+cyklar mer regelbundet jämfört med bilister.
+Därigenom bidrar ett ökat
+kollektivtrafikresande till människors
+vardagsmotion när fysisk rörelse blir en
+naturlig del av hela resan. Vidare minskar
+
+exponeringen för buller och luftföroreningar
+
 Trafikförsörjningsprogram 2026-2030 19
 Sida 33 av 290
 
 <!-- sida 75 -->
 
-om en större andel av invånarnas resor sker arbetsgivare som gör arbetsplatser mer
-med kapacitetsstarka och hållbara produktiva och genomsnittslönen högre än
-transportalternativ så som kollektivtrafik, om människor hade haft tillgång till färre
-gång och cykel.                  arbetsplatser. Effekten gynnar särskilt
-grupper i samhället som har en svagare
-Minskade klimatutsläpp från
-ställning på arbetsmarknaden. Dessutom kan
-transporter                      en sådan utveckling öka kommunernas,
-Kollektivtrafiken är avgörande för att minska regionernas och statens skatteintäkter.
-klimatpåverkan från transportsystemet. Den
+om en större andel av invånarnas resor sker
+med kapacitetsstarka och hållbara
+transportalternativ så som kollektivtrafik,
 
+gång och cykel.
+
+Minskade klimatutsläpp från
+transporter
+
+Kollektivtrafiken är avgörande för att minska
+klimatpåverkan från transportsystemet. Den
 Halländska transportsektorn står för en stor
 del av regionens koldioxidutsläpp. Samtidigt
 har den snabba befolkningstillväxten ökat
+
 trafikmängden. Trots minskade utsläpp från
 personbilar är nivåerna fortfarande höga
-
 jämfört med andra regioner.
 
 I Halland drivs kollektivtrafiken till 99,5%
 med fossilfria drivmedel. Genom att göra
 kollektivtrafiken mer attraktiv kan den bidra
 till ett hållbart transportsystem med
-minskade utsläpp. Elektrifiering av
 
+minskade utsläpp. Elektrifiering av
 personbilsflottan kommer inte räcka för att
 hinna ersätta bensin- och dieselbilarna i
 tillräcklig utsträckning och kunna nå
 klimatmålen till 2030. Därför behöver en
-större andel av resorna ske med hållbara och
 
+större andel av resorna ske med hållbara och
 kapacitetsstarka alternativ där så är möjligt.
 
 Vidgade arbetsmarknadsregioner
 En utbyggd och effektiv kollektivtrafik som är
 attraktiv att använda gör det möjligt för
-människor att förflytta sig snabbare och
 
+människor att förflytta sig snabbare och
 längre sträckor. Därigenom bidrar
 kollektivtrafiken till att vidga
 arbetsmarknader så att människor kan nå fler
 arbetsplatser. Samtidigt underlättar den för
-företagen att rekrytera personal med rätt
 
+företagen att rekrytera personal med rätt
 kompetens. Resultatet av en sådan utveckling
 är i förlängningen ökad produktivitet,
 sysselsättning och tillväxt. När människor får
 fler arbetsplatser att välja mellan uppstår en
+
 matchningseffekt mellan arbetstagare och
 
-Trafikförsörjningsprogram 2026-2030 20
+arbetsgivare som gör arbetsplatser mer
+produktiva och genomsnittslönen högre än
+om människor hade haft tillgång till färre
 
+arbetsplatser. Effekten gynnar särskilt
+grupper i samhället som har en svagare
+ställning på arbetsmarknaden. Dessutom kan
+en sådan utveckling öka kommunernas,
+regionernas och statens skatteintäkter.
+
+Trafikförsörjningsprogram 2026-2030 20
 Sida 34 av 290
 
 <!-- sida 76 -->
@@ -3681,103 +4018,177 @@ Detta kapitel beskriver ett urval av mål och riktlinjer som har
 bäring på ramverket för programmet. Mot bakgrund av ramverket
 har strategiska mål för kollektivtrafiken arbetats fram.
 
-3.1 Globala och nationella mål   till att det övergripande generationsmålet för
-med bäring på                    miljö och miljökvalitetsmålen nås samt bidra
-till ökad hälsa. Hälsa är ett av
+3.1 Globala och nationella mål
+med  bäring på
+
 Trafikförsörjningsprogrammet
-transportpolitikens hänsynsmål. Det innebär
-Transportpolitiska målen         att kollektivtrafiksystemet i den utsträckning
-Kollektivtrafiklagen bygger på nationella det kan ske, ska bidra till ökad folkhälsa.
+Transportpolitiska målen
+
+Kollektivtrafiklagen bygger på nationella
 transportpolitiska mål. Det transportpolitiska
-Agenda 2030
 målet är att säkerställa en
-samhällsekonomiskt effektiv och långsiktigt Trafikförsörjningsprogrammet ska också
-hållbar transportförsörjning för invånare och bidra till att uppnå de globala målen för
-näringslivet i hela landet. Ett funktionsmål hållbar utveckling i Agenda 2030. Agenda
-för tillgänglighet och ett hänsynsmål för 2030 innehåller 17 mål som lyfter behovet av
-säkerhet, miljö och hälsa ska bidra till att att se hur sociala, ekologiska och ekonomiska
+samhällsekonomiskt effektiv och långsiktigt
 
-uppfylla det övergripande målet. frågor hänger samman. Hur vi planerar,
-Funktionsmålet- innebär att      bygger och utvecklar våra städer och
-transportsystemets utformning, funktion och samhällen påverkar i stor utsträckning ett
-användning ska medverka till att ge alla en stort antal delmål i Agenda 2030 där
-grundläggande tillgänglighet med god kollektivtrafiken har en viktig roll.
+hållbar transportförsörjning för invånare och
+näringslivet i hela landet. Ett funktionsmål
+för tillgänglighet och ett hänsynsmål för
+säkerhet, miljö och hälsa ska bidra till att
+uppfylla det övergripande målet.
 
+Funktionsmålet- innebär att
+transportsystemets utformning, funktion och
+användning ska medverka till att ge alla en
+grundläggande tillgänglighet med god
 kvalitet och användbarhet samt bidra till
-Svenska miljömål
+
 utvecklingskraft i hela landet.
-Riksdagen har beslutat om 16 nationella
 Transportsystemet ska vara jämställt, dvs.
-miljökvalitetsmål med preciseringar samt
 likvärdigt svara mot kvinnors respektive
-etappmål. Där ingår även Generationsmålet.
 mäns transportbehov. Hänsynsmålet-
-Det övergripande målet för miljöpolitiken är
 innebär att transportsystemets utformning,
-att till nästa generation lämna över ett
+
 funktion och användning ska anpassas till att
-samhälle där de stora miljöproblemen är
 ingen ska dödas eller skadas allvarligt, bidra
+
+till att det övergripande generationsmålet för
+miljö och miljökvalitetsmålen nås samt bidra
+till ökad hälsa. Hälsa är ett av
+
+transportpolitikens hänsynsmål. Det innebär
+att kollektivtrafiksystemet i den utsträckning
+det kan ske, ska bidra till ökad folkhälsa.
+
+Agenda 2030
+Trafikförsörjningsprogrammet ska också
+
+bidra till att uppnå de globala målen för
+hållbar utveckling i Agenda 2030. Agenda
+2030 innehåller 17 mål som lyfter behovet av
+att se hur sociala, ekologiska och ekonomiska
+frågor hänger samman. Hur vi planerar,
+
+bygger och utvecklar våra städer och
+samhällen påverkar i stor utsträckning ett
+stort antal delmål i Agenda 2030 där
+kollektivtrafiken har en viktig roll.
+
+Svenska miljömål
+
+Riksdagen har beslutat om 16 nationella
+miljökvalitetsmål med preciseringar samt
+etappmål. Där ingår även Generationsmålet.
+Det övergripande målet för miljöpolitiken är
+att till nästa generation lämna över ett
+
+samhälle där de stora miljöproblemen är
+
 Trafikförsörjningsprogram 2026-2030 22
 Sida 36 av 290
 
 <!-- sida 78 -->
 
-lösta, utan att orsaka ökade miljö- och minskad klimatpåverkan och god
-hälsoproblem utanför Sveriges gränser. tillgänglighet i hela regionen. Genom att utgå
-från RUS och Strategi för Hållbar tillväxt i
-Barnkonventionen
-utvecklingen av kollektivtrafiken säkerställs
-FN:s konvention om barnets rättigheter, eller att kollektivtrafiken stödjer regionens
-barnkonventionen som den också kallas, långsiktiga ambitioner inom bland annat
-innehåller bestämmelser om mänskliga näringslivsutveckling, attraktiva livsmiljöer
-rättigheter för barn. Konventionen innehåller och omställningen till ett fossilfritt
-54 rättigheter (artiklar) Som barn räknas transportsystem.
-varje människa under 18 år.
+lösta, utan att orsaka ökade miljö- och
+hälsoproblem utanför Sveriges gränser.
 
-Barnkonventionen är svensk lag sedan 1 Koppling till Regional fysisk plan
-januari 2020. Eftersom barn inte alltid har Halland 2050 (RFP)
+Barnkonventionen
+
+FN:s konvention om barnets rättigheter, eller
+barnkonventionen som den också kallas,
+innehåller bestämmelser om mänskliga
+rättigheter för barn. Konventionen innehåller
+54 rättigheter (artiklar) Som barn räknas
+
+varje människa under 18 år.
+Barnkonventionen är svensk lag sedan 1
+januari 2020. Eftersom barn inte alltid har
 möjlighet att påverka var de vistas, är det
-Målområde 1
 viktigt att samhällsplaneringen tar hänsyn till
-deras behov.                     Den Regionala Fysiska Planen pekar i
+
+deras behov.
+
+3.2 Kollektivtrafikens roll i den
+
+regionala utvecklingen
+Halland är en växande region med en
+
+flerkärnig ortstruktur och med starka
+funktionella samband både inom och utanför
+länets gränser. Kollektivtrafiken spelar en
+avgörande roll för att knyta samman
+arbetsmarknader, utbildningsmöjligheter och
+
+samhällsservice. Syftet med kollektivtrafiken
+är att göra samhället tillgängligt genom att
+skapa möjligheter för människor att resa till
+och från arbete, utbildning, fritidsaktiviteter
+och service. Kollektivtrafiken har en viktig
+
+roll för att nå visionen i den regionala
+utvecklingsstrategin: Halland bästa
+livsplatsen.
+
+Koppling till Regional
+utvecklingsstrategi (RUS) och
+
+Strategi för Hållbar tillväxt
+Trafikförsörjningsprogrammets mål och
+
+inriktning är nära kopplade till Hallands
+regionala utvecklingsstrategi (RUS) och
+Strategi för Hållbar tillväxt. RUS betonar
+vikten av hållbar samhällsutveckling med
+
+minskad klimatpåverkan och god
+tillgänglighet i hela regionen. Genom att utgå
+från RUS och Strategi för Hållbar tillväxt i
+
+utvecklingen av kollektivtrafiken säkerställs
+att kollektivtrafiken stödjer regionens
+långsiktiga ambitioner inom bland annat
+näringslivsutveckling, attraktiva livsmiljöer
+och omställningen till ett fossilfritt
+
+transportsystem.
+
+Koppling till Regional fysisk plan
+Halland 2050 (RFP)
+
+Målområde 1
+Den Regionala Fysiska Planen pekar i
+
 målområde 1 ut att Halland ska vara en
 tillgänglig, inkluderande och sammanhållen
-3.2 Kollektivtrafikens roll i den
 region. För att uppnå detta krävs ett
-regionala utvecklingen
 transportsystem som är robust,
-Halland är en växande region med en sammanlänkat och hållbart - där
-flerkärnig ortstruktur och med starka kollektivtrafiken är ett centralt verktyg.
-funktionella samband både inom och utanför Kollektivtrafiken ska bidra till ökad
-länets gränser. Kollektivtrafiken spelar en tillgänglighet, minskad sårbarhet och
-avgörande roll för att knyta samman möjliggöra att invånare kan välja hållbara
-arbetsmarknader, utbildningsmöjligheter och resor.
-samhällsservice. Syftet med kollektivtrafiken
+sammanlänkat och hållbart - där
+
+kollektivtrafiken är ett centralt verktyg.
+Kollektivtrafiken ska bidra till ökad
+tillgänglighet, minskad sårbarhet och
+möjliggöra att invånare kan välja hållbara
+resor.
+
 Målområde 2
-är att göra samhället tillgängligt genom att
-skapa möjligheter för människor att resa till Regional Fysisk Plan lyfter i målområde 2
-och från arbete, utbildning, fritidsaktiviteter vikten av en flerkärnig region med attraktiva
-och service. Kollektivtrafiken har en viktig och hållbara livsmiljöer. För att uppnå detta
-roll för att nå visionen i den regionala krävs en samordnad planering där bebyggelse
-utvecklingsstrategin: Halland bästa lokaliseras på ett sätt som stärker
-livsplatsen.                     kollektivtrafikens förutsättningar.
+
+Regional Fysisk Plan lyfter i målområde 2
+vikten av en flerkärnig region med attraktiva
+och hållbara livsmiljöer. För att uppnå detta
+
+krävs en samordnad planering där bebyggelse
+lokaliseras på ett sätt som stärker
+kollektivtrafikens förutsättningar.
 Genom kollektivtrafikorienterad
-Koppling till Regional
 bebyggelseplanering kan kollektivtrafikens
-utvecklingsstrategi (RUS) och    konkurrenskraft öka samtidigt som
+
+konkurrenskraft öka samtidigt som
 klimatpåverkan minskar. Det innebär att nya
-Strategi för Hållbar tillväxt
 bostäder, verksamheter och
-Trafikförsörjningsprogrammets mål och
 samhällsfunktioner lokaliseras nära
-inriktning är nära kopplade till Hallands
 kollektivtrafikstråk och
-regionala utvecklingsstrategi (RUS) och
 mobilitets/kollektivtrafiknoder. Detta stärker
-Strategi för Hållbar tillväxt. RUS betonar
+
 kopplingen mellan kollektivtrafikförsörjning
-vikten av hållbar samhällsutveckling med
+
 Trafikförsörjningsprogram 2026-2030 23
 Sida 37 av 290
 
@@ -3785,62 +4196,97 @@ Sida 37 av 290
 
 och fysisk planering och bidrar till en
 sammanhållen, flerkärnig regional struktur.
-Målet uttrycker den övergripande ambitionen
-Jämlika livsmiljöer, folkhälsa och för programmets roll i samhällsutvecklingen.
-Detta mål är starkt kopplat till RUS och
+
+Jämlika livsmiljöer, folkhälsa och
+
 delaktighet
-Regional fysisk plan.
 Regional fysisk plan tydliggör fyra grupper i
-samhället att ha extra fokus på i För att uppnå det långsiktiga målet krävs ett
-samhällsplaneringen: barn och unga, äldre, förändrat resmönster där fler väljer
-personer med funktionsnedsättning och kollektivtrafik. Därför har ett kortsiktigt mål
-socioekonomiskt sårbara grupper. Oavsett formulerats.
+samhället att ha extra fokus på i
+
+samhällsplaneringen: barn och unga, äldre,
+personer med funktionsnedsättning och
+socioekonomiskt sårbara grupper. Oavsett
 behov, förutsättningar och boendeplats ska
 alla ges lika möjlighet till en livsmiljö där de
-Det kortsiktiga målet:
+
 kan utvecklas, tillgodogöra sig kunskap och
-ha förutsättningar för en god hälsa. Goda Resandet med kollektivtrafiken ska
-hälsovanor grundas under uppväxten. öka och vara attraktivt.
+ha förutsättningar för en god hälsa. Goda
+hälsovanor grundas under uppväxten.
 Satsningar på uppväxtmiljöer som främjar
-fysisk aktivitet för barn och unga gynnar även De mätbara delmålen bryter sedan ner denna
-vardagsrörelser för vuxna och äldre. Skapas utveckling i specifika insatsområden.
-bra miljöer för vardagsrörelse kommer det att Delmålen är både kvantitativa och kvalitativa
+fysisk aktivitet för barn och unga gynnar även
+vardagsrörelser för vuxna och äldre. Skapas
 
-påverka folkhälsan. Vid all form av planering och fungerar som verktyg för att systematiskt
-är det också viktigt att skapa förutsättningar följa upp och styra utvecklingen mot det
-för medborgardeltagande som involverar de kortsiktiga och långsiktiga målet. Dessa
-människor som berörs.            delmål är inte isolerade utan samverkar.
+bra miljöer för vardagsrörelse kommer det att
+påverka folkhälsan. Vid all form av planering
+är det också viktigt att skapa förutsättningar
+för medborgardeltagande som involverar de
+människor som berörs.
 
-På så sätt skapas en strategisk röd tråd
 3.3 Målstruktur för
-genom målstrukturen: från vision och
 Trafikförsörjningsprogrammet
-övergripande ambition (långsiktigt mål), till
-eftersträvad förändring (kortsiktigt mål), till
+
 Med utgångspunkt i globala, nationella och
-konkreta, uppföljningsbara delmål som
 regionala mål har en målstruktur arbetats
-fokuserar på förutsättningar, kvalitet och
+
 fram. Målstrukturen i
-resultat i kollektivtrafiksystemet. Enligt lag
 Trafikförsörjningsprogrammet bygger på en
-om kollektivtrafik ska
 logisk kedja från långsiktig vision till mer
-Trafikförsörjningsprogrammet följas upp
 konkreta och uppföljningsbara delmål. Målen
-årligen. Denna uppföljning görs som en del
 nedan hanterar den allmänna
-av regionala styrdokumentens uppföljning.
+
 kollektivtrafiken. Mål för den anpassade
-Nedan beskrivs förutsättningar för
 kollektivtrafiken beskrivs i kapitel 8.
-måluppfyllelse för marknadsandelsmålet. I
-tabell 2 presenteras uppföljning inkluderat
+
 Det långsiktiga målet:
-övriga delmål.
 Kollektivtrafiken ska bidra till en
 tillgänglig, inkluderande och
+
 sammanhållen region
+
+Målet uttrycker den övergripande ambitionen
+för programmets roll i samhällsutvecklingen.
+Detta mål är starkt kopplat till RUS och
+
+Regional fysisk plan.
+
+För att uppnå det långsiktiga målet krävs ett
+förändrat resmönster där fler väljer
+kollektivtrafik. Därför har ett kortsiktigt mål
+formulerats.
+
+Det kortsiktiga målet:
+
+Resandet med kollektivtrafiken ska
+öka och vara attraktivt.
+
+De mätbara delmålen bryter sedan ner denna
+utveckling i specifika insatsområden.
+
+Delmålen är både kvantitativa och kvalitativa
+och fungerar som verktyg för att systematiskt
+följa upp och styra utvecklingen mot det
+kortsiktiga och långsiktiga målet. Dessa
+delmål är inte isolerade utan samverkar.
+
+På så sätt skapas en strategisk röd tråd
+genom målstrukturen: från vision och
+
+övergripande ambition (långsiktigt mål), till
+eftersträvad förändring (kortsiktigt mål), till
+konkreta, uppföljningsbara delmål som
+fokuserar på förutsättningar, kvalitet och
+resultat i kollektivtrafiksystemet. Enligt lag
+
+om kollektivtrafik ska
+Trafikförsörjningsprogrammet följas upp
+årligen. Denna uppföljning görs som en del
+av regionala styrdokumentens uppföljning.
+Nedan beskrivs förutsättningar för
+
+måluppfyllelse för marknadsandelsmålet. I
+tabell 2 presenteras uppföljning inkluderat
+övriga delmål.
+
 Trafikförsörjningsprogram 2026-2030 24
 Sida 38 av 290
 
@@ -3848,38 +4294,52 @@ Sida 38 av 290
 
 Figur 2 Schematisk bild över trafikförsörjningsprogrammets målstruktur
 
-Marknadsandelen kan förändras även om
 3.4 Delmål kollektivtrafikens
-antalet kollektivtrafikresor förblir oförändrat
 marknadsandel
-eftersom den påverkas av hur bilresandet
-utvecklas. Exempelvis om fler börjar gå och
-Mål om marknadsandel            cykla i stället för att köra bil minskar antalet
-motoriserade resor medan
+
+Mål om marknadsandel
+
 Marknadsandel för kollektivtrafiken
-kollektivtrafikresandet kan förbli konstant –
 ska vara 30% år 2050 (av de
-vilket ger en högre marknadsandel för
 motoriserade resorna)
-kollektivtrafiken.
-Förutsättningar för måluppfyllelse För att nå målet krävs samplanering mellan
-om marknadsandel 30% år 2050     många aktörer som alla har olika
-ansvarsfördelning. Marknadsandelsmålet bör
+
+Förutsättningar för måluppfyllelse
+om marknadsandel 30% år 2050
 Marknadsandelen för kollektivtrafik
-därför ses som ett gemensamt
+
 definieras som andelen resor med
-ansvarstagande inom respektive aktörs
 kollektivtrafik i förhållande till samtliga
-ansvarsområde, där kollektivtrafiken är ett
 motoriserade resor i länet. Detta nyckeltal
-verktyg för en transporteffektiv och hållbar
 påverkas av två huvudfaktorer: antal
-utveckling. Målet att öka kollektivtrafikens
 kollektivtrafikresor och totalt antal
-marknadsandel till minst 30% år 2050 är ett
+
 motoriserade resor (kollektivtrafik plus
-ambitiöst men nåbart mål som ligger i linje
 privata motorfordon).
+
+Marknadsandelen kan förändras även om
+antalet kollektivtrafikresor förblir oförändrat
+eftersom den påverkas av hur bilresandet
+
+utvecklas. Exempelvis om fler börjar gå och
+cykla i stället för att köra bil minskar antalet
+motoriserade resor medan
+kollektivtrafikresandet kan förbli konstant –
+vilket ger en högre marknadsandel för
+
+kollektivtrafiken.
+
+För att nå målet krävs samplanering mellan
+många aktörer som alla har olika
+ansvarsfördelning. Marknadsandelsmålet bör
+därför ses som ett gemensamt
+ansvarstagande inom respektive aktörs
+ansvarsområde, där kollektivtrafiken är ett
+
+verktyg för en transporteffektiv och hållbar
+utveckling. Målet att öka kollektivtrafikens
+marknadsandel till minst 30% år 2050 är ett
+ambitiöst men nåbart mål som ligger i linje
+
 Trafikförsörjningsprogram 2026-2030 25
 Sida 39 av 290
 
@@ -3888,28 +4348,42 @@ Sida 39 av 290
 med nationella och regionala transport- och från dagens nivå. Samtidigt skulle bilresandet
 miljömål.                        behöva minska något jämfört med nuläget.
 
-Idag (2025) görs ungefär 19,4 miljoner Detta är endast ett scenario baserat på dagens
-påstigningar i Hallands kollektivtrafik, vilket förhållanden. Framtida förändringar i
-motsvarar en marknadsandel på 13,9 procent resmönster, demografisk sammansättning,
-av alla motoriserade resor. Målet är att öka bosättningsmönster och teknisk utveckling
+Idag (2025) görs ungefär 19,4 miljoner
+påstigningar i Hallands kollektivtrafik, vilket
+motsvarar en marknadsandel på 13,9 procent
 
-denna andel till 30 procent år 2050, med kommer att påverka det faktiska utfallet.
-etappmål på 20 procent till 2030 och 25 Målet innebär en inriktning mot att
-procent till 2040.               kollektivtrafiken behöver vara ett
-förstahandsval i vardagsresandet, särskilt i de
+av alla motoriserade resor. Målet är att öka
+denna andel till 30 procent år 2050, med
+etappmål på 20 procent till 2030 och 25
+procent till 2040.
+
 Till 2050 förväntas Hallands befolkning öka
-starka stråken, regionala tillväxtmotorerna
 med cirka 40 000 invånare. Om dagens
-och kärnorna. Men också att det görs
+
 resmönster kvarstår kommer det totala
-åtgärder för att förbättra kollektivtrafikens
 antalet motoriserade resor öka proportionellt
-framkomlighet i tillväxtmotorer och kärnor.
 med befolkningstillväxten. För att nå målet
 om 30 procents marknadsandel behöver
 kollektivtrafikresandet mer än fördubblas
-Etappmål för kollektivtrafikens marknadsandel i
+
+Detta är endast ett scenario baserat på dagens
+förhållanden. Framtida förändringar i
+resmönster, demografisk sammansättning,
+
+bosättningsmönster och teknisk utveckling
+kommer att påverka det faktiska utfallet.
+Målet innebär en inriktning mot att
+kollektivtrafiken behöver vara ett
+förstahandsval i vardagsresandet, särskilt i de
+
+starka stråken, regionala tillväxtmotorerna
+och kärnorna. Men också att det görs
+åtgärder för att förbättra kollektivtrafikens
+framkomlighet i tillväxtmotorer och kärnor.
+
+Etappmål  för kollektivtrafikens marknadsandel i
 Halland 2025-2030 (%)
+
 35
 
 ```osaker-tabell
@@ -3917,7 +4391,7 @@ Halland 2025-2030 (%)
 
 25                                 25%
 
-20                   20%
+20                    20%
 ```
 
 15
@@ -3926,46 +4400,41 @@ Halland 2025-2030 (%)
 
 5
 0
-2025         2030          2040          2050
+2025          2030         2040          2050
 
 Figur 3. Graf över möjlig utveckling av kollektivtrafikens marknadsandel fram till 2050, med
 etappmål 2030 och 2040.
 
 Trafikförsörjningsprogram 2026-2030 26
-
 Sida 40 av 290
 
 <!-- sida 82 -->
 
-3.5 Delmål Kollektivtrafikens    ekonomisk bakgrund. Det är också viktigt att
-roll för ekologisk, ekonomisk    planera för en tillgänglighet som ska främja
-en god och jämlik hälsa. Det innebär att få
+3.5 Delmål Kollektivtrafikens
+roll för ekologisk, ekonomisk
+
 och social hållbarhet
-tillgång till kultur, natur, idrott, utbildningar
-och arbetsmarknaden på jämlika villkor. En
-välplanerad kollektivtrafik behöver ta hänsyn
+
 Social hållbarhet
-till alla människors behov och
-rörelsemönster. Olika befolkningsgrupper
-med sina olika förutsättningar ska kunna ta
+
 Delmål tillgänglighetsanpassning
-sig enkelt, tryggt, bekvämt och säkert till
 • Samtliga hållplatser i stadsbusstrafikens
-önskade platser och aktiviteter. Utbudet av
 kollektivtrafikstråk ska vara
-kollektivtrafik skiljer sig åt i länet men
+
 tillgänglighetsanpassade senast år 2030. 1
-grundläggande resmöjligheter ska erbjudas
-• Samtliga hållplatser med mer än 20 alla invånarna i Halland. Utifrån tillgången
-påstigande per dygn ska vara   till kollektivtrafiken måste både
-tillgänglighetsanpassade senast år 2030 markanvändningen och transportsystemet
-med en långsiktig ambition att samtliga samspela. För att människor ska välja ett
-tätorter med kollektivtrafik ska ha minst kollektivt färdsätt i stället för bilen krävs
-en tillgänglighetsanpassad hållplats. därför god tillgång till kollektivtrafiken. Med
-• Samtliga fordon i kollektivtrafiken ska god tillgång avses både fysisk närhet till en
-vara tillgänglighetsanpassade. station och avgångar som svarar mot
-resbehoven.
+• Samtliga hållplatser med mer än 20
+påstigande per dygn ska vara
+
+tillgänglighetsanpassade senast år 2030
+med en långsiktig ambition att samtliga
+tätorter med kollektivtrafik ska ha minst
+en tillgänglighetsanpassad hållplats.
+
+• Samtliga fordon i kollektivtrafiken ska
+vara tillgänglighetsanpassade.
+
 Delmål social inkludering
+
 • Kollektivtrafiken ska uppfattas som
 attraktiv, trygg och säker.
 • Beakta särskilt barn och ungas, äldres,
@@ -3973,106 +4442,188 @@ attraktiv, trygg och säker.
 funktionsnedsattas och socioekonomiskt
 sårbara gruppers behov.
 • Andelen hallänningar som bor i
-kollektivtrafiknära läge ska öka.
 
+kollektivtrafiknära läge ska öka.
 • Antalet arbetstillfällen tillgängliga inom
 60 minuter med kollektivtrafik ska öka
 
-Det är viktigt att inom varje område av
-Det ska vara en självklarhet för alla att kunna kollektivtrafikens utformning beakta olika
-välja att resa kollektivt oavsett kön, ålder, perspektiv och hur lösningar och beslut kan
+Det ska vara en självklarhet för alla att kunna
 
-etnicitet, funktionsnedsättning eller socio- påverka olika grupper i samhället. Det kan
+välja att resa kollektivt oavsett kön, ålder,
+etnicitet, funktionsnedsättning eller socio-
 
 1 En bedömning ska göras i nära dialog med berörda
 kommuner och samsyn ska gälla.
 
-Trafikförsörjningsprogram 2026-2030 27
+ekonomisk bakgrund. Det är också viktigt att
+planera för en tillgänglighet som ska främja
+en god och jämlik hälsa. Det innebär att få
 
+tillgång till kultur, natur, idrott, utbildningar
+och arbetsmarknaden på jämlika villkor. En
+välplanerad kollektivtrafik behöver ta hänsyn
+till alla människors behov och
+rörelsemönster. Olika befolkningsgrupper
+
+med sina olika förutsättningar ska kunna ta
+sig enkelt, tryggt, bekvämt och säkert till
+önskade platser och aktiviteter. Utbudet av
+kollektivtrafik skiljer sig åt i länet men
+grundläggande resmöjligheter ska erbjudas
+
+alla invånarna i Halland. Utifrån tillgången
+till kollektivtrafiken måste både
+markanvändningen och transportsystemet
+samspela. För att människor ska välja ett
+kollektivt färdsätt i stället för bilen krävs
+därför god tillgång till kollektivtrafiken. Med
+
+god tillgång avses både fysisk närhet till en
+station och avgångar som svarar mot
+resbehoven.
+
+Det är viktigt att inom varje område av
+
+kollektivtrafikens utformning beakta olika
+perspektiv och hur lösningar och beslut kan
+påverka olika grupper i samhället. Det kan
+
+Trafikförsörjningsprogram 2026-2030 27
 Sida 41 av 290
 
 <!-- sida 83 -->
 
-handla om att inventera nuläget, kostnadseffektiv kollektivtrafik. Behovet av
-bytespunkternas utformning och läge, vägen en ökad budgetram ökar när fler väljer att
-till och från bytespunkterna samt att fortsätta resa med kollektivtrafiken. Detta förklaras av
-att möjliggöra för god tillgång till att drygt hälften av kollektivtrafikens
-kollektivtrafiksystemet. För att möjliggöra kostnader belastar resenären och resterande
+handla om att inventera nuläget,
+bytespunkternas utformning och läge, vägen
+till och från bytespunkterna samt att fortsätta
 
-detta är det viktigt att skapa förutsättningar hälft Region Halland.
+att möjliggöra för god tillgång till
+kollektivtrafiksystemet. För att möjliggöra
+detta är det viktigt att skapa förutsättningar
 för medborgardeltagande som involverar de
-Det utbud som myndigheten tar ansvar för är
 människor som berörs. Det är viktigt att
-det som bedöms vara regionalt motiverat.
+
 Kollektivtrafikmyndigheten fortsätter att
-Hallands kollektivtrafik ska ses som ett
 verka för att, så långt som det är möjligt,
-system där resbehoven är styrande. Målet att
 tillgänglighetsanpassa den kommersiella
-uppnå 55% procents kostnadstäckningsgrad
 kollektivtrafiken.
-handlar om hur mycket skattemedel Region
-Halland är beredd att satsa i
+
 Ekonomisk hållbarhet
-kollektivtrafiksystemet.
+
 Delmål kostnadstäckningsgrad
-Ekologisk hållbarhet
+
 • Kollektivtrafikens kostnadstäckningsgrad
 ska utgöra 55% av trafikkostnaderna.
-Delmål klimat och miljö
-• Kollektivtrafikens ska vara fossilfri.
+
 Den ekonomiska dimensionen av hållbarhet
-innebär för kollektivtrafiken att möta • Framkomlighetsåtgärder för stadsbuss och
-efterfrågan med ett lämpligt utbud samtidigt regionbuss ska prioriteras i
+innebär för kollektivtrafiken att möta
+
+efterfrågan med ett lämpligt utbud samtidigt
 som kollektivtrafiken ska bidra till en
-stadsbusstrafikstråken.
 arbetsmarknadsförstoring som i sin tur
 bidrar till ekonomisk tillväxt. Den allmänna
-upphandlade kollektivtrafiken ska Kollektivtrafiken spelar en avgörande roll i
-kännetecknas av att den bedrivs med hög att skapa ett hållbart och transporteffektivt
-effektivitet och med företagsekonomiska samhälle. Genom att erbjuda effektiva och
-hänsyn. Genom att prioritera     miljövänliga transportalternativ bidrar
-kundorientering, ökat resande och effektiv kollektivtrafiken till att minska
-resursanvändning blir det möjligt att klimatpåverkan och förbättra luftkvaliteten.
-långsiktigt bygga ut kollektivtrafiken. Kollektivtrafik kan transportera betydligt fler
-personer per ytenhet än biltrafik, vilket
-En välutbyggd kollektivtrafik ökar minskar trängsel och frigör utrymme i
-tillgängligheten till arbetsplatser och service, städerna. Detta möjliggör en mer effektiv
-vilket stärker arbetsmarknaden och främjar användning av infrastrukturen och bidrar till
-en bättre stadsmiljö.
+upphandlade kollektivtrafiken ska
+kännetecknas av att den bedrivs med hög
+effektivitet och med företagsekonomiska
+hänsyn. Genom att prioritera
+kundorientering, ökat resande och effektiv
+resursanvändning blir det möjligt att
+långsiktigt bygga ut kollektivtrafiken.
+
+En välutbyggd kollektivtrafik ökar
+tillgängligheten till arbetsplatser och service,
+vilket stärker arbetsmarknaden och främjar
+
 ekonomisk tillväxt. Detta är särskilt viktigt i
 växande regioner där en effektiv
-Genom att fler reser kollektivt minskar
 transportlösning är avgörande för hållbar
-utsläppen av växthusgaser och
 utveckling.
-luftföroreningar per personkilometer, vilket
-är avgörande för att nå klimatmålen och
+
 Ökad efterfrågan på resor genererar fler
-förbättra folkhälsan. Det förbättrar
 avgångar och fler fordon, vilket leder till
-livskvaliteten för invånarna och skapar mer
 ökade driftkostnader. Samtidigt ökar antalet
-attraktiva livsmiljöer. För att kollektivtrafiken
+
 resenärer vilket möjliggör en mer
+
+kostnadseffektiv kollektivtrafik. Behovet av
+en ökad budgetram ökar när fler väljer att
+resa med kollektivtrafiken. Detta förklaras av
+
+att drygt hälften av kollektivtrafikens
+kostnader belastar resenären och resterande
+hälft Region Halland.
+
+Det utbud som myndigheten tar ansvar för är
+det som bedöms vara regionalt motiverat.
+Hallands kollektivtrafik ska ses som ett
+
+system där resbehoven är styrande. Målet att
+uppnå 55% procents kostnadstäckningsgrad
+handlar om hur mycket skattemedel Region
+Halland är beredd att satsa i
+kollektivtrafiksystemet.
+
+Ekologisk hållbarhet
+
+Delmål klimat och miljö
+• Kollektivtrafikens ska vara fossilfri.
+
+• Framkomlighetsåtgärder för stadsbuss och
+regionbuss ska prioriteras i
+stadsbusstrafikstråken.
+
+Kollektivtrafiken spelar en avgörande roll i
+att skapa ett hållbart och transporteffektivt
+samhälle. Genom att erbjuda effektiva och
+miljövänliga transportalternativ bidrar
+kollektivtrafiken till att minska
+klimatpåverkan och förbättra luftkvaliteten.
+Kollektivtrafik kan transportera betydligt fler
+personer per ytenhet än biltrafik, vilket
+minskar trängsel och frigör utrymme i
+städerna. Detta möjliggör en mer effektiv
+användning av infrastrukturen och bidrar till
+en bättre stadsmiljö.
+
+Genom att fler reser kollektivt minskar
+utsläppen av växthusgaser och
+luftföroreningar per personkilometer, vilket
+
+är avgörande för att nå klimatmålen och
+förbättra folkhälsan. Det förbättrar
+livskvaliteten för invånarna och skapar mer
+attraktiva livsmiljöer. För att kollektivtrafiken
+
 Trafikförsörjningsprogram 2026-2030 28
 Sida 42 av 290
 
 <!-- sida 84 -->
 
-ska bidra till utsläppsminskningar krävs att framkomlighetsåtgärder i busstråk bör
-det kollektivtrafikutbud som erbjuds prioriteras i form av bussgator/filer,
-används. Vid en alltför låg användning av den signalprioritering med mera. Arbetet med
-linjelagda kollektivtrafiken är det inte ökad framkomlighet för stadsbussar och
-miljömässigt motiverat att bedriva trafiken. regionbussar kräver samverkan mellan flera
+ska bidra till utsläppsminskningar krävs att
+det kollektivtrafikutbud som erbjuds
+används. Vid en alltför låg användning av den
 
-För att förbättra resurs- och    aktörer. I programmets kapitel 7
-energieffektiviteten behöver därför ”Samplanering och ansvarsfördelning”
-beläggningen i fordonen inom den linjelagda tydliggörs kollektivtrafikaktörernas roller och
-kollektivtrafiken vara hög och   ansvar.
+linjelagda kollektivtrafiken är det inte
+miljömässigt motiverat att bedriva trafiken.
+För att förbättra resurs- och
+energieffektiviteten behöver därför
+beläggningen i fordonen inom den linjelagda
+
+kollektivtrafiken vara hög och
+
+framkomlighetsåtgärder i busstråk bör
+prioriteras i form av bussgator/filer,
+signalprioritering med mera. Arbetet med
+
+ökad framkomlighet för stadsbussar och
+regionbussar kräver samverkan mellan flera
+aktörer. I programmets kapitel 7
+”Samplanering och ansvarsfördelning”
+tydliggörs kollektivtrafikaktörernas roller och
+
+ansvar.
 
 Trafikförsörjningsprogram 2026-2030 29
-
 Sida 43 av 290
 
 <!-- sida 85 -->
@@ -4162,7 +4713,7 @@ Sida 46 av 290
 
 <!-- sida 88 -->
 
-4\.   Utveckling                 av      den
+4\.    Utveckling                 av     den
 
 allmänna
 
@@ -4171,36 +4722,48 @@ kollektivtrafiken                        –
 principer              och       riktlinjer
 
 Detta kapitel beskriver strategi och principer för den allmänna
-kollektivtrafikens utveckling i riktning mot de mål som fastslagits i
 
+kollektivtrafikens utveckling i riktning mot de mål som fastslagits i
 programmet.
 
-ska i möjligaste mån anpassas till tågens
 4.1 Trafikeringsstrategi
-ankomst och avgångar på Västkustbanan.
-Utgångspunkten är att tåg och buss komplet-
+
 Strategin för den allmänna kollektivtrafiken i
-terar varandra.
 Halland är att koncentrera resurser till stråk
 där förutsättningar för ökat resande är goda.
-För att stödja en socialt hållbar utveckling Trafikeringsstrategi
+För att stödja en socialt hållbar utveckling
+
 kompletteras detta med grundläggande
-  Koncentrera resurser till stråk där
 resmöjligheter för hela länet. Strategin bidrar
-förutsättningar för ökat resande
 till det långsiktiga målet för kollektivtrafiken:
-är goda.
 Kollektivtrafiken ska bidra till en tillgänglig,
-  Grundläggande resmöjligheter för
 inkluderande och sammanhållen region.
-hela länet.
+
 Västkustbanan har högst prioritet i det
-  Tågtrafiken på Västkustbanan
+
 Halländska kollektivtrafiksystemet. Banans
-utgör stommen i det halländska
 betydelse för fortsatt tillväxt och regional
-kollektivtrafiksystemet.
 utveckling är identifierad i Regional fysisk
+
+ska i möjligaste mån anpassas till tågens
+ankomst och avgångar på Västkustbanan.
+Utgångspunkten är att tåg och buss komplet-
+
+terar varandra.
+
+Trafikeringsstrategi
+
+  Koncentrera resurser till stråk där
+förutsättningar för ökat resande
+är goda.
+
+  Grundläggande resmöjligheter för
+hela länet.
+
+  Tågtrafiken på Västkustbanan
+utgör stommen i det halländska
+kollektivtrafiksystemet.
+
 plan för Halland. Utvecklingen av
 Västkustbanan är därför ett prioriterat
 4.2 Principer för
@@ -4208,490 +4771,747 @@ område. Tågtrafiken på Västkustbanan utgör
 trafikutveckling
 stommen i det halländska
 kollektivtrafiksystemet och all annan trafik
+
 Trafikförsörjningsprogram 2026-2030 33
 Sida 47 av 290
 
 <!-- sida 89 -->
 
-Principerna för trafikutveckling beskriver hur intervaller med avgångar på samma minuttal
-den allmänna kollektivtrafiken ska utvecklas varje timme, vilket skapar enkelhet och
-med grund i trafikeringsstrategin. tydlighet för resenärerna.
+Principerna för trafikutveckling beskriver hur
+den allmänna kollektivtrafiken ska utvecklas
+med grund i trafikeringsstrategin.
+
 Principerna är de samma för tåg, regionbuss
-Lågfrekvent resande
 och stadsbuss.
+
+Principer för trafikutveckling
+  Resbehoven styr utvecklingen av
+kollektivtrafiken.
+
+  Lågfrekvent resande.
+  Grundläggande resmöjlighet.
+
+  Snabba restider ska prioriteras i
+de starka stråken.
+
+  Förenklat resande över
+länsgränser.
+  Arbeta med marknads-och
+
+informationsinsatser.
+
+Resbehov är styrande
+Den grundläggande
+trafikutvecklingsprincipen är att resbehoven
+ska styra utvecklingen av kollektivtrafiken i
+
+Halland med huvudsakligt fokus på arbets-
+och studiependling samt annat
+vardagsresande. I områden med stort
+befolkningsunderlag finns ett större utbud av
+kollektivtrafik och i mer glesbefolkade
+
+områden är utbudet mindre. Principen
+innebär att stråk och tider med stort resande
+prioriteras. En kontinuerlig översyn av
+utbudet i kollektivtrafiken i förhållande till
+resbehov utgör en naturlig del av
+
+trafikplaneringsprocessen vilket kopplar an
+till riktlinjerna för lågfrekvent resande. I
+kollektivtrafikstråken bör en god turtäthet
+eftersträvas som möjliggör resa under större
+delen av dygnet. Det är också av vikt att
+
+utforma tidtabellerna utifrån taktfasta
+
+intervaller med avgångar på samma minuttal
+varje timme, vilket skapar enkelhet och
+tydlighet för resenärerna.
+
+Lågfrekvent resande
+
 Utgångspunkten för lågfrekvent resande är
 att linjer med en kostnadstäckningsgrad
-Principer för trafikutveckling
 mindre än 30 procent, eller ett resande som
-  Resbehoven styr utvecklingen av understiger fyra personer per busstur, ska
-kollektivtrafiken.           vara föremål för översyn. Denna översyn ska
-  Lågfrekvent resande.         beakta strukturen på dagens kollektivtrafik
+understiger fyra personer per busstur, ska
+
+vara föremål för översyn. Denna översyn ska
+beakta strukturen på dagens kollektivtrafik
 som ska ses som ett sammanhängande
-  Grundläggande resmöjlighet.
 system. Indragningar eller omförflyttning av
-  Snabba restider ska prioriteras i
 turer från linjer i de utpekade
-de starka stråken.
+
 kollektivtrafikstråken ska undvikas. Frigjorda
-  Förenklat resande över       resurser kan omfördelas till andra delar av
-länsgränser.                 kollektivtrafiksystemet där nyttan förväntas
+resurser kan omfördelas till andra delar av
+kollektivtrafiksystemet där nyttan förväntas
 bli större för fler resenärer. Vid införande av
-  Arbeta med marknads-och
 ny trafik tar det ofta något år innan
-informationsinsatser.
+
 resenärerna upptäcker de nya
 resmöjligheterna och detta ska tas i
 beaktande när analyser för lågfrekvent
-Resbehov är styrande
 resande görs.
-Den grundläggande
-trafikutvecklingsprincipen är att resbehoven Grundläggande resmöjlighet
-ska styra utvecklingen av kollektivtrafiken i Alla invånare i Halland ska ha tillgång till
-Halland med huvudsakligt fokus på arbets- någon form av kollektivtrafik. Som lägstanivå
-och studiependling samt annat    erbjuds ett basutbud av kollektivtrafiken som
-vardagsresande. I områden med stort omfattar busstrafik, närtrafik och
-befolkningsunderlag finns ett större utbud av anropsstyrd trafik. Samordning av
-kollektivtrafik och i mer glesbefolkade samhällsfinansierade trafikformer i
-områden är utbudet mindre. Principen landsbygden kan därtill utgöra ett
-innebär att stråk och tider med stort resande komplement till den allmänna
-prioriteras. En kontinuerlig översyn av kollektivtrafiken och skapa fler
-utbudet i kollektivtrafiken i förhållande till resmöjligheter i områden med begränsat
-resbehov utgör en naturlig del av resandeunderlag. Skolskjutstrafiken har en
-trafikplaneringsprocessen vilket kopplar an potential att i högre grad samplaneras med
-till riktlinjerna för lågfrekvent resande. I linjetrafik och kan också göras tillgängliga för
-kollektivtrafikstråken bör en god turtäthet allmänheten under förutsättning att det sker
-eftersträvas som möjliggör resa under större på skolresandets villkor.
-delen av dygnet. Det är också av vikt att
-utforma tidtabellerna utifrån taktfasta
+
+Grundläggande resmöjlighet
+
+Alla invånare i Halland ska ha tillgång till
+någon form av kollektivtrafik. Som lägstanivå
+erbjuds ett basutbud av kollektivtrafiken som
+omfattar busstrafik, närtrafik och
+anropsstyrd trafik. Samordning av
+
+samhällsfinansierade trafikformer i
+landsbygden kan därtill utgöra ett
+komplement till den allmänna
+kollektivtrafiken och skapa fler
+resmöjligheter i områden med begränsat
+
+resandeunderlag. Skolskjutstrafiken har en
+potential att i högre grad samplaneras med
+linjetrafik och kan också göras tillgängliga för
+allmänheten under förutsättning att det sker
+på skolresandets villkor.
 
 Trafikförsörjningsprogram 2026-2030 34
-
 Sida 48 av 290
 
 <!-- sida 90 -->
 
-Snabba restider                  Marknads-och
-För att kollektivtrafiken ska bli mer attraktiv informationsinsatser
+Snabba restider
+För att kollektivtrafiken ska bli mer attraktiv
+
 är det nödvändigt att restiderna blir kortare.
-En viktig aspekt är också att synliggöra
 En viktig trafikutvecklingsprincip är därför
-kollektivtrafiken som ett attraktivt
 att prioritera snabba restider i de utpekade
-resalternativ. Det handlar om
 kollektivtrafikstråken i syfte att stärka
-beteendepåverkan mobilitetsåtgärder som
 kollektivtrafikens konkurrenskraft mot bilen.
-påverkar resebeteende och val av färdsätt.
+
 Resan med kollektivtrafik som utförs med
-Syftet är att skapa en överflyttning till
 buss bör inte ta mer än 50 procent längre tid
-hållbara färdmedel så som gång, cykel och
 än med bil, det vill säga en restidskvot under
-kollektivtrafik och öka kollektivtrafikens
 1,5 ska eftersträvas. För vissa relationer och
-marknadsandel. Mobilitetsåtgärderna kan
 trafikkoncept bör målsättningen vara högre
-exempelvis vara kampanjer för att främja
+
 än så. I tågtrafiken bör restiden vara 20
-gång, cykel och kollektivtrafik,
 procent snabbare än motsvarande resa med
-informationskampanjer, prova-på-
 bil, det vill säga en restidskvot på 0,8 eller
-erbjudanden med mera. Det handlar också
 lägre. En förutsättning för att kunna sänka
-om att förenkla köpflöden i Hallandstrafikens
 restiden är investeringar i infrastruktur,
-försäljningskanaler, samt att göra
 översyn av linjesträckningar och körvägar
-biljettsortimentet mer attraktivt.
+
 samt översyn av antalet uppehåll. Ett
 acceptabelt avstånd till hållplatser i tätort är
-4.3 Metod för trafikutveckling
 cirka 400 meter och utanför tätort cirka 2
-kilometer.                       Metoden för trafikutveckling har tagits fram i
-syfte att systematisera arbetssättet kring
+kilometer.
+
 Förenklat resande över
-utvecklingen av den allmänna
-länsgränser                      kollektivtrafiken med koppling till
-Att utveckla och förenkla        övergripande strategi och principerna för
-kollektivtrafikresandet över länsgränser är en trafikutveckling. Metoden bygger på att
-viktig del i att skapa ett mer hållbart och resbehovet ska styra utvecklingen och den
-effektivt transportsystem för såväl Hallands ska ses som ett allmänt förhållningssätt i
-invånare som för de invånare i grannregioner utvecklingen av kollektivtrafiken i Halland.
-som reser in och ut i Halland. Genom att Metoden ska bidra till att stärka
-underlätta för människor att resa sömlöst och kollektivtrafikens attraktionskraft.
+
+länsgränser
+Att utveckla och förenkla
+kollektivtrafikresandet över länsgränser är en
+
+viktig del i att skapa ett mer hållbart och
+effektivt transportsystem för såväl Hallands
+invånare som för de invånare i grannregioner
+som reser in och ut i Halland. Genom att
+underlätta för människor att resa sömlöst och
+
 effektivt med kollektivtrafiken kan trängseln
-Metoden består av följande fyra steg:
 på vägarna minska, utsläppen reduceras och
 kollektivtrafiken göras mer attraktiv. Det
-Förädla innebär att förvalta det utbud som
 stärker inte bara den regionala utvecklingen,
-finns. Här handlar det om att bibehålla
 utan bidrar också till en ökad tillgång till
-dagens utbud och att få människor att
+
 jobb, utbildning och fritidsmöjligheter, och
-använda det i större utsträckning. Till
 främjar social integration genom att skapa ett
-exempel kan marknads- och
 mer sammanhållet och rättvist
-informationsinsatser genomföras för att visa
 transportsystem.
+
+Marknads-och
+informationsinsatser
+
+En viktig aspekt är också att synliggöra
+kollektivtrafiken som ett attraktivt
+resalternativ. Det handlar om
+beteendepåverkan mobilitetsåtgärder som
+
+påverkar resebeteende och val av färdsätt.
+Syftet är att skapa en överflyttning till
+hållbara färdmedel så som gång, cykel och
+kollektivtrafik och öka kollektivtrafikens
+marknadsandel. Mobilitetsåtgärderna kan
+
+exempelvis vara kampanjer för att främja
+gång, cykel och kollektivtrafik,
+informationskampanjer, prova-på-
+erbjudanden med mera. Det handlar också
+om att förenkla köpflöden i Hallandstrafikens
+
+försäljningskanaler, samt att göra
+biljettsortimentet mer attraktivt.
+
+4.3 Metod för trafikutveckling
+
+Metoden för trafikutveckling har tagits fram i
+
+syfte att systematisera arbetssättet kring
+utvecklingen av den allmänna
+kollektivtrafiken med koppling till
+övergripande strategi och principerna för
+trafikutveckling. Metoden bygger på att
+
+resbehovet ska styra utvecklingen och den
+ska ses som ett allmänt förhållningssätt i
+utvecklingen av kollektivtrafiken i Halland.
+Metoden ska bidra till att stärka
+kollektivtrafikens attraktionskraft.
+
+Metoden består av följande fyra steg:
+
+Förädla innebär att förvalta det utbud som
+finns. Här handlar det om att bibehålla
+
+dagens utbud och att få människor att
+använda det i större utsträckning. Till
+exempel kan marknads- och
+informationsinsatser genomföras för att visa
 på fördelarna med att åka kollektivt. Att
+
 Trafikförsörjningsprogram 2026-2030 35
 Sida 49 av 290
 
 <!-- sida 91 -->
 
-justera avgångs- och ankomsttider, har en potential för ett ökat resande. Även
-linjedragningar, förbättra om-   här är marknads- och informationsinsatser
-stigningsmöjligheter till andra linjer samt att en viktig del av trafikutvecklingen.
+justera avgångs- och ankomsttider,
+linjedragningar, förbättra om-
+stigningsmöjligheter till andra linjer samt att
+
 öka enkelheten är sätt att öka relevansen av
-Förnya innebär att resbehov finns och att
 befintligt utbud, vilket är viktigt i detta första
-det finns utrymme för att utveckla och införa
 steg.
-nya trafikeringskoncept för att ytterligare
-Fördela innebär att resurser omfördelas och höja attraktiviteten. Det ska finnas en
-linjer effektiviseras. Om arbetet med att potential i att få fler att välja att åka kollektivt
-förädla och förvalta inte ger resultat behöver och fördelarna gentemot bilen ska vara stora.
-resurser förflyttas från linjer med lågt Detta steg är nära knutet till samhälls-
-resande till linjer som har en potential för ett byggande och infrastruktur och ska ses som
-ökat resande. Resurser omfördelas till andra ett ömsesidigt åtagande från väghållare och
-delar av kollektivtrafiksystemet där nyttan ansvarig för av kollektivtrafiken. Vid större
-och användningen bedöms vara större. projekt bör avtal eller avsiktsförklaring
-tecknas mellan väghållare och ansvarig för
+
+Fördela innebär att resurser omfördelas och
+linjer effektiviseras. Om arbetet med att
+förädla och förvalta inte ger resultat behöver
+
+resurser förflyttas från linjer med lågt
+resande till linjer som har en potential för ett
+ökat resande. Resurser omfördelas till andra
+delar av kollektivtrafiksystemet där nyttan
+och användningen bedöms vara större.
+
 Förtäta innebär att utöka antalet turer. Här
-kollektivtrafiken. Även i detta steg är behovet
 finns ett identifierat resbehov eller att linjen
+
+4.4 Basutbud av kollektivtrafik
+
+Utbudet av kollektivtrafik planeras utifrån
+principen om att resbehovet är styrande, det
+vill säga efterfrågan och resandepotential i
+olika områden, stråk och reserelationer.
+
+Områden med hög efterfrågan och stort
+resandeunderlag får ett större utbud med fler
+turer och linjer. I områden med lägre
+efterfrågan erbjuds färre resmöjligheter.
+Tillgängligheten säkerställs i form av ett
+
+grundutbud, ett så kallat basutbud. Som del
+av basutbudet erbjuds grundläggande
+
+har en potential för ett ökat resande. Även
+här är marknads- och informationsinsatser
+en viktig del av trafikutvecklingen.
+
+Förnya innebär att resbehov finns och att
+
+det finns utrymme för att utveckla och införa
+nya trafikeringskoncept för att ytterligare
+höja attraktiviteten. Det ska finnas en
+potential i att få fler att välja att åka kollektivt
+och fördelarna gentemot bilen ska vara stora.
+
+Detta steg är nära knutet till samhälls-
+byggande och infrastruktur och ska ses som
+ett ömsesidigt åtagande från väghållare och
+ansvarig för av kollektivtrafiken. Vid större
+projekt bör avtal eller avsiktsförklaring
+tecknas mellan väghållare och ansvarig för
+
+kollektivtrafiken. Även i detta steg är behovet
 av marknads- och informationsinsatser stort.
 
-4.4 Basutbud av kollektivtrafik  resmöjligheter genom närtrafik eller
+resmöjligheter genom närtrafik eller
 beställningstrafik.
-Utbudet av kollektivtrafik planeras utifrån
-principen om att resbehovet är styrande, det Basutbudet och dess funktion
-vill säga efterfrågan och resandepotential i
+
+Basutbudet och dess funktion
+
 Basutbudet syftar till att ge alla invånare i
-olika områden, stråk och reserelationer.
 Halland en basnivå av tillgänglighet med
-Områden med hög efterfrågan och stort
 kollektivtrafik, vilket skapar en tydlighet
-resandeunderlag får ett större utbud med fler
 kring vilken form av kollektivtrafik som kan
-turer och linjer. I områden med lägre
 förväntas i olika delar av regionen. Detta är
-efterfrågan erbjuds färre resmöjligheter.
+
 särskilt viktigt för att främja ett inkluderande
-Tillgängligheten säkerställs i form av ett
 samhälle och möjliggöra för att kunna bo och
-grundutbud, ett så kallat basutbud. Som del
 leva även utanför de större orterna.
-av basutbudet erbjuds grundläggande
 Basutbudet omfattar busstrafik och
 anropsstyrd trafik, anpassat efter efterfrågan
+
 Trafikförsörjningsprogram 2026-2030 36
 Sida 50 av 290
 
 <!-- sida 92 -->
 
-och de geografiska och demografiska kollektivtrafiken som erbjuds, är det en
-förutsättningarna.               förutsättning att vägarna är tillgängliga för
-bussar med trafik i båda riktningar och att
-I områden med högre efterfrågan kan
-vändmöjligheter finns.
-utbudet utöver basnivån anpassas och utökas
-för att möta invånarnas behov. Mindre orter Flexibilitet och resurseffektivitet
-belägna i stråken och mellan större orter kan
-Kollektivtrafiken ska vara resurseffektiv, och
-också få ett högre utbud genom att dra nytta
-majoriteten av invånarna ska ha möjlighet att
-av stråkens övergripande tillgänglighet. Det
-använda den för sina arbets- och studieresor
-förväntade utbudet i kollektivtrafikstråken
-samt annat vardagsresande. Med fokus på
-avser den trafik som Region Halland har
-funktionell geografi snarare än administrativ
-ambitionen att upprätthålla en högre
-geografi ska utvecklingen av kollektivtrafik i
-turtäthet för än vad som gäller för
-Halland bidra till att förenkla resandet för
-basutbudet. Detta beskrivs i kapitel 5
-invånarna och göra hållbara transporter
-”Kollektivtrafikstråk i Halland”. I stråk som
-tillgängliga för fler.
-går över länsgränser krävs samarbete och
-samfinansiering med andra regioner för att I nedanstående tabell beskrivs önskvärt
-säkerställa en sammanhängande    trafikutbud utifrån invånarantal inom
-trafik. Oavsett dignitet eller storlek för ett respektive tätort.
-område, och hur stort utbud av
-Tätort-inv.antal Mån-fre                         Lör     Sön
-<300            Närtrafik/Anropsstyrd trafik     -       -
-300–499         5                                -       -
-500–999         7                                -       -
-1000–2999       10                               6       5
-\>3000           18                               10      6
-Tabell 1. Basutbud för orter utefter invånarantal. Antal turer/resmöjligheter per dag i båda
+och de geografiska och demografiska
+förutsättningarna.
 
+I områden med högre efterfrågan kan
+utbudet utöver basnivån anpassas och utökas
+
+för att möta invånarnas behov. Mindre orter
+belägna i stråken och mellan större orter kan
+också få ett högre utbud genom att dra nytta
+av stråkens övergripande tillgänglighet. Det
+förväntade utbudet i kollektivtrafikstråken
+
+avser den trafik som Region Halland har
+ambitionen att upprätthålla en högre
+turtäthet för än vad som gäller för
+basutbudet. Detta beskrivs i kapitel 5
+”Kollektivtrafikstråk i Halland”. I stråk som
+går över länsgränser krävs samarbete och
+
+samfinansiering med andra regioner för att
+säkerställa en sammanhängande
+trafik. Oavsett dignitet eller storlek för ett
+område, och hur stort utbud av
+
+kollektivtrafiken som erbjuds, är det en
+förutsättning att vägarna är tillgängliga för
+bussar med trafik i båda riktningar och att
+
+vändmöjligheter finns.
+
+Flexibilitet och resurseffektivitet
+Kollektivtrafiken ska vara resurseffektiv, och
+majoriteten av invånarna ska ha möjlighet att
+använda den för sina arbets- och studieresor
+
+samt annat vardagsresande. Med fokus på
+funktionell geografi snarare än administrativ
+geografi ska utvecklingen av kollektivtrafik i
+Halland bidra till att förenkla resandet för
+invånarna och göra hållbara transporter
+
+tillgängliga för fler.
+
+I nedanstående tabell beskrivs önskvärt
+trafikutbud utifrån invånarantal inom
+respektive tätort.
+
+Tätort-inv.antal Mån-fre                         Lör     Sön
+
+<300             Närtrafik/Anropsstyrd trafik    -       -
+
+300–499          5                               -       -
+500–999          7                               -       -
+
+1000–2999        10                              6       5
+
+\>3000            18                              10      6
+Tabell 1. Basutbud för orter utefter invånarantal. Antal turer/resmöjligheter per dag i båda
 riktningarna. Antal turer i stadstrafiken bestäms enligt efterfrågan samt stråk i stadstrafiken.
 
 Trafikförsörjningsprogram 2026-2030 37
-
 Sida 51 av 290
 
 <!-- sida 93 -->
 
-4.5 Kollektivtrafikens           och benägenheten att välja kollektivtrafiken.
-infrastruktur                    Framkomlighetsåtgärder är viktiga för att
-kunna implementera attraktiva
+4.5 Kollektivtrafikens
+infrastruktur
+
 Utvecklingen av kollektivtrafikens
-kollektivtrafikkoncept så som Bus rapid
 infrastruktur är en viktig del av
-transit (BRT). Konceptets grundidé är att
+
 trafikutvecklingen i länet. Att hållplatser,
-försöka efterlikna spårtrafik. Det
 bytespunkter och stationer har bra väntytor,
-kännetecknas av dess fordonstyp, hög
 väderskydd, belysning samt är väl
-framkomlighet i stadsrummet, särskilt
 underhållna är avgörande för att kol-
-anpassad infrastruktur och säregen design.
 lektivtrafiken ska uppfattas som attraktiv och
-Införandet av BRT är ett sätt att ytterligare
+
 ett alternativ till bilen. Välskötta och trygga
-stärka kollektivtrafikens attraktivitet. I
 hållplatser marknadsför kollektivtrafiken på
-kapitel 7 ”Samplanering och
 ett positivt sätt och stärker varumärket för
-ansvarsfördelning” går det att läsa om vilka
 nya potentiella resenärer. Det är av stor vikt
-roller och ansvar som de olika
 att ha med ”hela resan”-perspektivet i
-kollektivtrafikaktörerna har i arbetet med
 planeringen och att underlätta för resenärer
-utvecklingen av kollektivtrafiken.
+
 att ta sig till bytespunkter oavsett om det sker
-med bil, cykel eller gång. Anslutande gång- Busstrafikens hållplatser
-och cykelvägar till kollektivtrafikens Prioritering av investeringar i hållplatsobjekt
-bytespunkter behöver vara trygga och sker i samråd mellan Hallandstrafiken,
-utformas på ett trafiksäkert sätt. Goda kommunerna och Trafikverket. I
-möjligheter att kunna parkera cykel och bil Hallandstrafikens hållplatshandbok beskrivs
-bör i så stor utsträckning som möjligt finnas principerna för arbetet med busstrafikens
-vid kollektivtrafikens bytespunkter för att hållplatser samt krav på utformning av
-underlätta hela resan.           hållplatserna i länet. Standarden på
-hållplatserna runt om i länet varierar men
+med bil, cykel eller gång. Anslutande gång-
+och cykelvägar till kollektivtrafikens
+bytespunkter behöver vara trygga och
+utformas på ett trafiksäkert sätt. Goda
+
+möjligheter att kunna parkera cykel och bil
+bör i så stor utsträckning som möjligt finnas
+vid kollektivtrafikens bytespunkter för att
+underlätta hela resan.
+
 Det är av vikt att fortsätta arbeta med
-sammanfattningsvis kan det konstateras att
 utvecklingen av bytespunkter och
-den till vissa delar är god samtidigt som
+
 kollektivtrafiknoder med samplanering som
-andra delar behöver förbättras. Fokus ligger
 utgångspunkt. Därigenom skapas möjligheter
-på att i första hand förbättra de delar där
 att stärka attraktiva och sammanhållna
-nyttan är som störst. Hållplatshandboken
 reskedjor ur ett hela resan-perspektiv. Inom
-beskriver att åtgärder ska prioriteras utifrån
 ramen för programmet finns även möjlighet
-följande kriterier:
+
 att pröva och utveckla innovativa lösningar
-som kan förbättra kopplingen mellan olika • Antal påstigande.
+som kan förbättra kopplingen mellan olika
 mobilitetsformer och underlätta hållbara val.
-• Ingår i de huvudlinjer som trafikerar i
-För att stärka kollektivtrafikens attraktivitet utpekade kollektivtrafikstråk.
-är det viktigt att framkomligheten för • Trafiksäkerhet.
+
+För att stärka kollektivtrafikens attraktivitet
+är det viktigt att framkomligheten för
 kollektivtrafiken är god. Om kollektivtrafiken
-genom till exempel eget körfält eller I den regionala infrastrukturplanen avsätts
-signalljusprioritet får bättre framkomlighet medel för att bland annat förbättra
-än biltrafiken, ökar både konkurrenskraften kollektivtrafikens infrastruktur. Åtgärder på
+genom till exempel eget körfält eller
+
+signalljusprioritet får bättre framkomlighet
+än biltrafiken, ökar både konkurrenskraften
+
+och benägenheten att välja kollektivtrafiken.
+Framkomlighetsåtgärder är viktiga för att
+kunna implementera attraktiva
+
+kollektivtrafikkoncept så som Bus rapid
+transit (BRT). Konceptets grundidé är att
+försöka efterlikna spårtrafik. Det
+kännetecknas av dess fordonstyp, hög
+framkomlighet i stadsrummet, särskilt
+
+anpassad infrastruktur och säregen design.
+Införandet av BRT är ett sätt att ytterligare
+stärka kollektivtrafikens attraktivitet. I
+kapitel 7 ”Samplanering och
+ansvarsfördelning” går det att läsa om vilka
+
+roller och ansvar som de olika
+kollektivtrafikaktörerna har i arbetet med
+utvecklingen av kollektivtrafiken.
+
+Busstrafikens hållplatser
+Prioritering av investeringar i hållplatsobjekt
+
+sker i samråd mellan Hallandstrafiken,
+kommunerna och Trafikverket. I
+Hallandstrafikens hållplatshandbok beskrivs
+principerna för arbetet med busstrafikens
+hållplatser samt krav på utformning av
+
+hållplatserna i länet. Standarden på
+hållplatserna runt om i länet varierar men
+sammanfattningsvis kan det konstateras att
+den till vissa delar är god samtidigt som
+andra delar behöver förbättras. Fokus ligger
+på att i första hand förbättra de delar där
+
+nyttan är som störst. Hållplatshandboken
+beskriver att åtgärder ska prioriteras utifrån
+följande kriterier:
+
+• Antal påstigande.
+
+• Ingår i de huvudlinjer som trafikerar i
+utpekade kollektivtrafikstråk.
+• Trafiksäkerhet.
+
+I den regionala infrastrukturplanen avsätts
+medel för att bland annat förbättra
+kollektivtrafikens infrastruktur. Åtgärder på
+
 Trafikförsörjningsprogram 2026-2030 38
 Sida 52 av 290
 
 <!-- sida 94 -->
 
-regionalt vägnät finansieras till 100 procent Hållplatser och dess placering samt
-med medel från den regionala     gångvägar till och från hållplatsen ska vara
-infrastrukturplanen. Kommunerna har väl utformade och planerade på ett
-möjlighet att ansöka om statlig  trafiksäkert sätt. Hållplatserna ska uppfattas
-medfinansiering upp till 50 procent för som ljusa och inbjudande och inge trygghet
+regionalt vägnät finansieras till 100 procent
+med medel från den regionala
+infrastrukturplanen. Kommunerna har
 
-åtgärder på kommunalt vägnät. Åtgärderna för resenären, oavsett tid på dygnet. Fordon
-för om- och nybyggnation av bytespunkter som trafikerar i den allmänna
-prioriteras i huvudsak till      kollektivtrafiken ska vara
-kollektivtrafikstråken.          tillgänglighetsanpassade enligt de
-branschgemensamma rekommendationer
+möjlighet att ansöka om statlig
+medfinansiering upp till 50 procent för
+åtgärder på kommunalt vägnät. Åtgärderna
+för om- och nybyggnation av bytespunkter
+prioriteras i huvudsak till
+
+kollektivtrafikstråken.
+
 Trafikförsörjningsprogrammet sätter följande
-som finns utarbetade. Utöver de
 mål för utbyggnaden av hållplatser och
-branschgemensamma rekommendationerna
 bytespunkter:
-kan ytterligare krav tillkomma och denna
-avvägning hanteras i kommande
+
 • Samtliga hållplatser i stadsbusstrafikens
-upphandling.
 kollektivtrafikstråk ska vara
 tillgänglighetsanpassade senast år 2030.
 (En bedömning ska göras i nära dialog
-med berörda kommuner och samsyn ska Utifrån ovanstående kriterier och målbild för
-gälla).                        utbyggnaden samt tillgänglighetsanpassning
-av hållplatser/bytespunkter kommer
+
+med berörda kommuner och samsyn ska
+gälla).
 • Samtliga hållplatser med mer än 20
-tillgänglighetsanpassning av hållplatser i
+
 påstigande per dygn ska vara
-regionbusstrafiken i första hand ske i de
 tillgänglighetsanpassade senast år 2030,
-utpekade kollektivtrafikstråken.
 med en långsiktig ambition om att
-Anpassningen ska föregås av en
 samtliga tätorter med kollektivtrafik ska
-behovsbedömning, vilket kan innebära att
 ha minst en tillgänglighetsanpassad
-även enstaka hållplatser utanför stråken
+
 hållplats.
-tillgänglighetsanpassas. För
-stadsbusstrafiken är utgångspunkten att
-En viktig aspekt är att göra kollektivtrafiken tillgänglighetsanpassningen kommer ske i de
-tillgänglig för äldre och personer med utpekade lokala kollektivtrafikstråken.
-funktionsnedsättning. Tillgängliga och trygga Undantag kan göras om samsyn nås ihop
-hållplatser, bytespunkter och stationer utgör med berörd kommun. Kollektivtrafikstråken
-en viktig del i möjligheten för dessa grupper beskrivs i programmets kapitel 5.
+
+En viktig aspekt är att göra kollektivtrafiken
+tillgänglig för äldre och personer med
+funktionsnedsättning. Tillgängliga och trygga
+hållplatser, bytespunkter och stationer utgör
+en viktig del i möjligheten för dessa grupper
+
 att åka med kollektivtrafiken. Som en
 trygghetsskapande åtgärd har Region
+Halland även infört möjligheten till
+trygghetsstopp under sen kväll och nattid på
+alla regionbussar i länet. Detta gör det möjligt
+
+för en resenär att längs en linje och mellan
+två hållplatser kunna stiga av på en plats som
+känns tryggare för den enskilde.
+
+Hållplatser och dess placering samt
+gångvägar till och från hållplatsen ska vara
+väl utformade och planerade på ett
+
+trafiksäkert sätt. Hållplatserna ska uppfattas
+som ljusa och inbjudande och inge trygghet
+för resenären, oavsett tid på dygnet. Fordon
+som trafikerar i den allmänna
+kollektivtrafiken ska vara
+
+tillgänglighetsanpassade enligt de
+branschgemensamma rekommendationer
+som finns utarbetade. Utöver de
+branschgemensamma rekommendationerna
+kan ytterligare krav tillkomma och denna
+
+avvägning hanteras i kommande
+upphandling.
+
+Utifrån ovanstående kriterier och målbild för
+utbyggnaden samt tillgänglighetsanpassning
+av hållplatser/bytespunkter kommer
+tillgänglighetsanpassning av hållplatser i
+regionbusstrafiken i första hand ske i de
+
+utpekade kollektivtrafikstråken.
+Anpassningen ska föregås av en
+behovsbedömning, vilket kan innebära att
+även enstaka hållplatser utanför stråken
+tillgänglighetsanpassas. För
+
+stadsbusstrafiken är utgångspunkten att
+tillgänglighetsanpassningen kommer ske i de
+utpekade lokala kollektivtrafikstråken.
+Undantag kan göras om samsyn nås ihop
+med berörd kommun. Kollektivtrafikstråken
+
+beskrivs i programmets kapitel 5.
+
 Framkomlighet
-Halland även infört möjligheten till Då principerna för utveckling av
-trygghetsstopp under sen kväll och nattid på kollektivtrafiken i länet prioriterar minskad
-alla regionbussar i länet. Detta gör det möjligt restid är trafikförändringar ibland avhängigt
-för en resenär att längs en linje och mellan om- eller nybyggnation av hållplatser. Att
-två hållplatser kunna stiga av på en plats som räta ut och snabba upp linjer innebär att
-känns tryggare för den enskilde. antalet hållplatser kan behöva minskas vilket
+Då principerna för utveckling av
+kollektivtrafiken i länet prioriterar minskad
+restid är trafikförändringar ibland avhängigt
+
+om- eller nybyggnation av hållplatser. Att
+räta ut och snabba upp linjer innebär att
+antalet hållplatser kan behöva minskas vilket
 också innebär att de kvarvarande håll-
+
 Trafikförsörjningsprogram 2026-2030 39
 Sida 53 av 290
 
 <!-- sida 95 -->
 
-platserna blir viktigare då de får ett större BRT-systemet ska ha gena linjesträckningar
-upptagningsområde.               vilket ger en mjuk färd med få krängningar
-och sidoförflyttningar. Körvägen ska vara
+platserna blir viktigare då de får ett större
+upptagningsområde.
+
 Ökad framkomlighet och prioritet för
-jämn och väl synlig i stadsmiljön. För att
 busstrafiken är en identifierad
-möjliggöra korta restider och ostörd färd är
+
 framgångsfaktor för att stärka busstrafikens
-det viktigt att bussen ges prioritet genom
 konkurrenskraft. Med
-exempelvis signalljusreglering och egna
 framkomlighetsåtgärder kan punktligheten
-busskörfält. Det är av vikt att turtätheten är
 förbättras och restiden förkortas. Raka
-hög under stora delar av dygnet med relativt
 körvägar och kort restid innebär i många fall
-få stopp. Hållplatserna ska hålla en hög
+
 att kollektivtrafiken behöver ges prioritet
-standard med till exempel pendlarparkering
 framför bilen och på vissa gator även framför
-för cykel och bil, samt ha realtidsinformation.
 cykeln. Hastighetsdämpande åtgärder som
-En förutsättning är också att hållplatserna
 hindrar busstrafiken, där flödena av
-har goda kopplingar till gång och cykel.
 kollektivtrafik är stora, ska undvikas.
-För de av stadsbusstrafikens lokala
+
 Generellt bör både buss och cykel ha en tydlig
-kollektivtrafikstråk som i programmet
 prioritering och dessa färdmedel bör inte
-klassificeras som mycket starka kan det vara
+
 hamna i konflikt med varandra utan ska ses
-aktuellt att införa nya trafikeringskoncept.
 som komplement till varandra. Det är inte
-Inspiration för nya trafikeringskoncept kan
 enbart stadsbussarna som behöver
-hämtas från BRT-systemet. Även
 prioriteras i stadsrummet utan även
-utvecklingen av linjerna i de starka lokala
 regionbussarnas körväg in till resecentrum
-kollektivtrafikstråken kan inspireras av BRT.
+
 eller annan större bytespunkt. Om fler
-boende i orterna utanför centralorten väljer I de regionala kollektivtrafikstråken kan
-att åka kollektivt in till staden kan antalet regionbusstrafiken utvecklas ytterligare. Ett
-bilar minska, och därmed också trängseln. sätt att öka regionbusstrafikens
-konkurrenskraft är att trafikera med
+boende i orterna utanför centralorten väljer
+att åka kollektivt in till staden kan antalet
+bilar minska, och därmed också trängseln.
+
 Bus rapid transit (BRT)
-snabbare expressturer eller renodlade
-BRT-konceptet handlar om att skapa ett expresslinjer. Regional BRT kan då användas
-högklassigt bussystem som kännetecknas av som trafikeringskoncept eller som inspiration
-hög framkomlighet, god komfort, tydlighet, till nya lösningar för att utveckla
-egen identitet samt har strukturbildande regionbusstrafiken i stråken.
+
+BRT-konceptet handlar om att skapa ett
+högklassigt bussystem som kännetecknas av
+hög framkomlighet, god komfort, tydlighet,
+egen identitet samt har strukturbildande
 funktion. Grundidén är att försöka efterlikna
-spårtrafik utan att behöva bygga Bytespunkt med utökad
-spårinfrastruktur. BRT omfattar en resenärsservice i strategiska
+
+spårtrafik utan att behöva bygga
+spårinfrastruktur. BRT omfattar en
 kombination av åtgärder inom infrastruktur,
-kollektivtrafiknoder
 stadsplanering, fordonsutformning och
-Attraktiva och välfungerande bytespunkter
 informationsteknik. Det kan handla om
-utgör viktiga delar av resenärernas resekedjor
+
 infrastruktur i form av särskilda busskörfält
-och har därför en stor betydelse för ett ökat
 eller bussgator och en trafikering som
-kollektivtrafikresande. Bytespunkternas
 används för att åstadkomma en snabb,
-tillgänglighet och dess utformning påverkar
 pålitlig och attraktiv kollektivtrafik.
+
+BRT-systemet ska ha gena linjesträckningar
+vilket ger en mjuk färd med få krängningar
+och sidoförflyttningar. Körvägen ska vara
+
+jämn och väl synlig i stadsmiljön. För att
+möjliggöra korta restider och ostörd färd är
+det viktigt att bussen ges prioritet genom
+exempelvis signalljusreglering och egna
+busskörfält. Det är av vikt att turtätheten är
+
+hög under stora delar av dygnet med relativt
+få stopp. Hållplatserna ska hålla en hög
+standard med till exempel pendlarparkering
+för cykel och bil, samt ha realtidsinformation.
+En förutsättning är också att hållplatserna
+
+har goda kopplingar till gång och cykel.
+För de av stadsbusstrafikens lokala
+
+kollektivtrafikstråk som i programmet
+klassificeras som mycket starka kan det vara
+aktuellt att införa nya trafikeringskoncept.
+Inspiration för nya trafikeringskoncept kan
+hämtas från BRT-systemet. Även
+
+utvecklingen av linjerna i de starka lokala
+kollektivtrafikstråken kan inspireras av BRT.
+
+I de regionala kollektivtrafikstråken kan
+regionbusstrafiken utvecklas ytterligare. Ett
+sätt att öka regionbusstrafikens
+konkurrenskraft är att trafikera med
+
+snabbare expressturer eller renodlade
+expresslinjer. Regional BRT kan då användas
+som trafikeringskoncept eller som inspiration
+till nya lösningar för att utveckla
+regionbusstrafiken i stråken.
+
+Bytespunkt med utökad
+
+resenärsservice i strategiska
+kollektivtrafiknoder
+
+Attraktiva och välfungerande bytespunkter
+utgör viktiga delar av resenärernas resekedjor
+och har därför en stor betydelse för ett ökat
+kollektivtrafikresande. Bytespunkternas
+
+tillgänglighet och dess utformning påverkar
+
 Trafikförsörjningsprogram 2026-2030 40
 Sida 54 av 290
 
 <!-- sida 96 -->
 
-bland annat restider, trygghet och den samtidigt som det också kan stärka orternas
-allmänna upplevelsen av att resa med attraktivitet. Bytespunkterna innebär att den
-kollektivtrafiken.               omgivande geografin kopplas ihop med
-kollektivtrafikstråken. Utbyggnaden av bytes-
+bland annat restider, trygghet och den
+allmänna upplevelsen av att resa med
+kollektivtrafiken.
+
 Ett led i öka kollektivtrafikens attraktivitet
-punkterna är avhängigt att kommunerna tar
+
 utanför de Halländska städerna och stärka
-initiativ till att utveckla dem då konceptet är
 hela resan är tillskapandet av bytespunkter
-kopplat till en bredare platsutveckling i de
 med utökad resenärsservice i de strategiska
-strategiska kollektivtrafiknoderna.
 kollektivtrafiknoder som finns utpekade i
-Regional fysisk plan och i       Tågtrafik
+Regional fysisk plan och i
+
 trafikförsörjningsprogrammets stråkkarta.
-En ort med tågstation har goda
 Noderna utgörs i huvudsak av tätorter som är
-förutsättningar för utveckling genom att
 belägna i de utpekade kollektivtrafikstråken.
-locka både nya invånare och företag. Det är
 En bytespunkt med utökad resenärsservice
-dock inte själva stationen som ensam avgör
 karaktäriseras av att den har en högre
-ortens attraktivitet. Flera faktorer spelar in,
 standard än en ordinarie bytespunkt.
-såsom tillgången till service och bostäder,
+
 Standarden avspeglas i dess utrustningsnivå.
-avståndet till större arbetsmarknader,
 Utöver högre standard ska utvecklingen av
-tågförbindelserna samt restiden i förhållande
 bytespunkter med utökad resenärsservice
-till bilen. Potentialen för ett ökat tågresande
 kopplas ihop med samhälls- och
-finns framför allt på längre sträckor där tåget
 centrumutvecklingen i de strategiska
-är ett snabbare alternativ än bilen. Tågets
+
 kollektivtrafiknoderna. Därigenom kan
-konkurrenskraft kan också påverkas av till
 kollektivtrafiken bidra till att stärka centrum-
-exempel tillgången till parkeringsplatser och
 funktioner i tätorter och utgöra ett positivt
-trängselproblem för biltrafik. Utvecklingen av
 ansikte utåt för kollektivtrafiken.
-tågtrafiken och dess infrastruktur beskrivs
-ingående i programmets kapitel 6
+
 Att utveckla bytespunkter med utökad
-”Trafikeringsbehov tåg 2028–2050”.
 resenärsservice kan bidra till ett ökat resande
 
-Trafikförsörjningsprogram 2026-2030 41
+samtidigt som det också kan stärka orternas
+attraktivitet. Bytespunkterna innebär att den
+omgivande geografin kopplas ihop med
 
+kollektivtrafikstråken. Utbyggnaden av bytes-
+punkterna är avhängigt att kommunerna tar
+initiativ till att utveckla dem då konceptet är
+kopplat till en bredare platsutveckling i de
+strategiska kollektivtrafiknoderna.
+
+Tågtrafik
+
+En ort med tågstation har goda
+förutsättningar för utveckling genom att
+locka både nya invånare och företag. Det är
+dock inte själva stationen som ensam avgör
+
+ortens attraktivitet. Flera faktorer spelar in,
+såsom tillgången till service och bostäder,
+avståndet till större arbetsmarknader,
+tågförbindelserna samt restiden i förhållande
+till bilen. Potentialen för ett ökat tågresande
+
+finns framför allt på längre sträckor där tåget
+är ett snabbare alternativ än bilen. Tågets
+konkurrenskraft kan också påverkas av till
+exempel tillgången till parkeringsplatser och
+trängselproblem för biltrafik. Utvecklingen av
+
+tågtrafiken och dess infrastruktur beskrivs
+ingående i programmets kapitel 6
+”Trafikeringsbehov tåg 2028–2050”.
+
+Trafikförsörjningsprogram 2026-2030 41
 Sida 55 av 290
 
 <!-- sida 97 -->
@@ -4702,7 +5522,7 @@ Sida 56 av 290
 
 <!-- sida 98 -->
 
-5\.   Kollektivtrafikstråk                            i
+5\.   Kollektivtrafikstråk                             i
 
 Halland
 
@@ -4713,32 +5533,31 @@ kollektivtrafikstråk, trafikutbudet i dem och hur stråken
 
 klassificeras.
 
-ligger utmed Västkustbanan. Att tågtrafiken
 5.1 Kollektivtrafikstråk i
-på Västkustbanan tillgodoser resbehov
 Halland
-mellan kommunhuvudorterna innebär att
-den parallella busstrafiken mellan
+
 Utifrån de identifierade resbehoven som ska
-kommunhuvudorterna har som huvuduppgift
 tillgodoses i Halland har kollektivtrafikstråk
-att tillgodose resbehov från de mindre
+
 identifierats.
-tätorterna utanför städerna in till just
-Kollektivtrafik för regionala resor kommunhuvudorten. Befolkningsunderlaget
-Avgränsningen för denna typ av resor är mellan kommunhuvudorterna är betydligt
-tidsåtgången för resan. Vid identifieringen av mindre och därmed är också underlaget för
-kollektivtrafikstråk i Halland har potentialen de busslinjer som trafikerar mellan
-i målpunkter i och utanför Halland kommunhuvudorterna mindre. I analyserna
-identifierats. Parametrar som befintlig av de regionala kollektivtrafikstråken har
-arbetspendling, befolkningsmängd, även de korta resorna inom städerna
-befolkningsutveckling, åldersstruktur, uteslutits, vilket innebär att städernas
-arbetstillfällen samt kommunens bedömning befolkningsunderlag inte ingår som underlag
-av nybyggnation har inkluderats. Antalet i stråkanalyserna för regionbussarna.
-resor i den kollektivtrafik som finns i stråket Anledningen är att regionbussarna inte har
-idag har också ingått i analyserna samt som syfte att tillgodose resbehovet för korta
-framtida potential för en utökad arbets- och resor inom städer.
+
+Kollektivtrafik för regionala resor
+Avgränsningen för denna typ av resor är
+tidsåtgången för resan. Vid identifieringen av
+kollektivtrafikstråk i Halland har potentialen
+
+i målpunkter i och utanför Halland
+identifierats. Parametrar som befintlig
+arbetspendling, befolkningsmängd,
+befolkningsutveckling, åldersstruktur,
+arbetstillfällen samt kommunens bedömning
+
+av nybyggnation har inkluderats. Antalet
+resor i den kollektivtrafik som finns i stråket
+idag har också ingått i analyserna samt
+framtida potential för en utökad arbets- och
 studiependling.
+
 Kollektivtrafiksystemet i Halland är uppbyggt
 kring tågtrafiken på Västkustbanan. Denna
 
@@ -4746,30 +5565,53 @@ tågtrafik tillgodoser behovet av arbets- och
 studieresor mellan kommunhuvudorterna i
 Halland. Undantaget är Hyltebruk som inte
 
-Trafikförsörjningsprogram 2026-2030 43
+ligger utmed Västkustbanan. Att tågtrafiken
+på Västkustbanan tillgodoser resbehov
+mellan kommunhuvudorterna innebär att
 
+den parallella busstrafiken mellan
+kommunhuvudorterna har som huvuduppgift
+att tillgodose resbehov från de mindre
+tätorterna utanför städerna in till just
+kommunhuvudorten. Befolkningsunderlaget
+
+mellan kommunhuvudorterna är betydligt
+mindre och därmed är också underlaget för
+de busslinjer som trafikerar mellan
+kommunhuvudorterna mindre. I analyserna
+av de regionala kollektivtrafikstråken har
+
+även de korta resorna inom städerna
+uteslutits, vilket innebär att städernas
+befolkningsunderlag inte ingår som underlag
+i stråkanalyserna för regionbussarna.
+Anledningen är att regionbussarna inte har
+som syfte att tillgodose resbehovet för korta
+
+resor inom städer.
+
+Trafikförsörjningsprogram 2026-2030 43
 Sida 57 av 290
 
 <!-- sida 99 -->
 
-Resbehov - kategorier            utföras av kommersiella aktörer. Denna
-aspekt är dock viktig och därför inkluderas
+Resbehov - kategorier
 Regionala resor
-denna typ av resor även i detta
-Huvudsyftet med regionala resor är att Trafikförsörjningsprogram. För Halland är
-tillgodose resbehovet för arbets- och det viktigt med interregionala resmöjligheter,
-studiependling samt annat vardagsresande. inte minst till Stockholm och Köpenhamn.
+
+Huvudsyftet med regionala resor är att
+tillgodose resbehovet för arbets- och
+studiependling samt annat vardagsresande.
 En snabb och effektiv kollektivtrafik bidrar
 till arbetsmarknadsförstoring. Det är av vikt
-att arbeta för minskade restider för de
 
+att arbeta för minskade restider för de
 regionala resorna. Om restiden uppgår till
 mer än 45-60 minuter så minskar andelen
 pendlare drastiskt. När stråken för de
 regionala resorna pekas ut är det funktionella
 regioner snarare än region- och/eller
-kommungränser som i huvudsak ligger till
 
+kommungränser som i huvudsak ligger till
 grund för utpekande av stråk.
 
 Lokala resor
@@ -4778,75 +5620,115 @@ Med denna kategori avses kortare resor i
 staden, det vill säga resor som kan utföras
 med stadsbuss. Även här är fokus på arbets-
 och studieresor samt annat vardagsresande.
-5.2 Klassificering av
 Resorna med stadsbussarna är ofta en del av
-kollektivtrafikstråk i Halland
 en längre reskedja. Det kan vara en
+
 anslutande tåg-, gång- eller cykelresa som ska
-Utifrån ovanstående tre kategorier av resor:
 göras i relation till resan med stadsbussen.
+
+Interregionala resor
+Interregionala resor ska tillgodose funktionen
+
+fjärresor, det vill säga längre resor. Här ingår
+till exempel tjänsteresor, längre fritidsresor
+och semesterresor. Den interregionala
+kollektivtrafiken är knuten till det regionala
+tillväxt- och utvecklingsperspektivet. Det
+
+handlar om vilka svenska eller internationella
+städer som Halland bör ha förbindelse med.
+Kollektivtrafiken och framför allt tågtrafiken
+har en viktig funktion genom att den skapar
+tillgänglighet vilket i sin tur kan bidra till
+
+tillväxt och utveckling. Primärt är det inte
+Region Hallands uppgift att tillgodose
+interregional kollektivtrafik utan detta ska
+
+utföras av kommersiella aktörer. Denna
+aspekt är dock viktig och därför inkluderas
+denna typ av resor även i detta
+
+Trafikförsörjningsprogram. För Halland är
+det viktigt med interregionala resmöjligheter,
+inte minst till Stockholm och Köpenhamn.
+
+5.2 Klassificering av
+kollektivtrafikstråk i Halland
+
+Utifrån ovanstående tre kategorier av resor:
 regionala, lokala och interregionala har
 kollektivtrafikstråk identifieras. Under
-Interregionala resor
+
 följande avsnitt kommer
-Interregionala resor ska tillgodose funktionen
 kollektivtrafikstråken i Halland att redovisas
-fjärresor, det vill säga längre resor. Här ingår
 utifrån dessa kategorier. Även utanför de
-till exempel tjänsteresor, längre fritidsresor
 identifierade kollektivtrafikstråken kommer
-och semesterresor. Den interregionala
 det att finnas kollektivtrafik men med en
-kollektivtrafiken är knuten till det regionala
+
 annan karaktär och ett annat syfte.
-tillväxt- och utvecklingsperspektivet. Det
-handlar om vilka svenska eller internationella För invånarna är det viktigt att veta vilken typ
-städer som Halland bör ha förbindelse med. av kollektivtrafik som kan förväntas.
-Kollektivtrafiken och framför allt tågtrafiken Trafikeringen ska kännetecknas av stabilitet
-har en viktig funktion genom att den skapar och långsiktighet. Långsiktiga bedömningar
-tillgänglighet vilket i sin tur kan bidra till och mål bör alltid ligga till grund för
-tillväxt och utveckling. Primärt är det inte prioriteringar, ställningstaganden och beslut
-Region Hallands uppgift att tillgodose om nya satsningar. Avvägningen mellan
-interregional kollektivtrafik utan detta ska marknadsorientering och bra
+
+För invånarna är det viktigt att veta vilken typ
+av kollektivtrafik som kan förväntas.
+Trafikeringen ska kännetecknas av stabilitet
+och långsiktighet. Långsiktiga bedömningar
+och mål bör alltid ligga till grund för
+
+prioriteringar, ställningstaganden och beslut
+om nya satsningar. Avvägningen mellan
+marknadsorientering och bra
+
 Trafikförsörjningsprogram 2026-2030 44
 Sida 58 av 290
 
 <!-- sida 100 -->
 
-trafikförsörjning är en ständigt närvarande kommer gå inom överskådlig framtid. Det
-del i uppbyggnaden av kollektivtrafiken. De finns då möjlighet att förhålla sig till detta i
-geografiska områden som klassas som den översiktliga planeringen och samplanera
-kollektivtrafikstråk kommer att trafikeras av för ett växande Halland.
+trafikförsörjning är en ständigt närvarande
+del i uppbyggnaden av kollektivtrafiken. De
+geografiska områden som klassas som
+
+kollektivtrafikstråk kommer att trafikeras av
 en kollektivtrafik med tillräckligt utbud för
-För de kommersiella aktörerna ger
 att tillgodose behovet av arbets- och
-klassificeringen av kollektivtrafikstråken en
 studiependling, samt annat vardagsresande.
-indikation på vilka geografiska områden i
 Kollektivtrafikstråken klassificeras för att
-Halland som skulle kunna vara intressanta
+
 påvisa skillnaderna i det förväntade utbudet.
-att bedriva kommersiell kollektivtrafik i.
 Genom att klassificera stråken påvisas
-Trafikförsörjningsprogrammet aktualiseras
 potentialen i att utveckla kollektivtrafiken.
-vart fjärde år och då kommer
 Att tydligt peka ut de kollektivtrafikstråk som
-kollektivtrafikstråken att analyseras och
 under överskådlig framtid kommer att
-bedömas på nytt.
+
 trafikeras med kollektivtrafik innebär ett
 åtagande från Region Hallands sida.
+
 Kollektivtrafik är nära knuten till samhälls-
 och infrastrukturplanering. Samplaneringen
 mellan kollektivtrafiken och kommunernas
 bostads- och bebyggelseplanering är därför
 viktig för att gynna hållbar
+
 samhällsutveckling. Detta underlättas genom
 att peka ut de stråk där kollektivtrafik
 
-Trafikförsörjningsprogram 2026-2030 45
+kommer gå inom överskådlig framtid. Det
+finns då möjlighet att förhålla sig till detta i
+den översiktliga planeringen och samplanera
 
+för ett växande Halland.
+
+För de kommersiella aktörerna ger
+klassificeringen av kollektivtrafikstråken en
+indikation på vilka geografiska områden i
+Halland som skulle kunna vara intressanta
+att bedriva kommersiell kollektivtrafik i.
+
+Trafikförsörjningsprogrammet aktualiseras
+vart fjärde år och då kommer
+kollektivtrafikstråken att analyseras och
+bedömas på nytt.
+
+Trafikförsörjningsprogram 2026-2030 45
 Sida 59 av 290
 
 <!-- sida 101 -->
@@ -4875,26 +5757,36 @@ Sida 63 av 290
 
 <!-- sida 105 -->
 
-De lokala kollektivtrafikstråken i städerna
 5.3 Kollektivtrafikutbud i
-klassificeras som mycket starka eller starka.
 Halland
-För stadsbusstrafiken krävs ett tätare
-Om kollektivtrafikstråket bedöms som intervall av turer. Avstånden är kortare och
-mycket starkt är utgångspunkten att det ska lägsta nivån bör bestå av fler dubbelturer än
-finnas ett lägsta utbud på 24    för regionbusstrafiken där avstånden är
+
+Om kollektivtrafikstråket bedöms som
+mycket starkt är utgångspunkten att det ska
+
+finnas ett lägsta utbud på 24
 dubbelturer/vardag. I stråk som klassas som
-längre. För de mycket starka stråken i
 starkt är utgångspunkten att minsta utbud
-stadsbusstrafiken är utgångspunkten att som
 ska bestå av 18 dubbelturer/vardag. Samtliga
-lägsta nivå erbjuda 54 dubbelturer/vardag
 stråk ska alla tillgodose resbehov för arbets-
-och i de starka stråken är utgångspunkten att
+
 och studiependling samt annat
-det minst ska finnas 28 dubbelturer/vardag.
 vardagsresande. Därför bör det finnas ett
 utbud under större delen av dagen.
+
+De lokala kollektivtrafikstråken i städerna
+klassificeras som mycket starka eller starka.
+För stadsbusstrafiken krävs ett tätare
+
+intervall av turer. Avstånden är kortare och
+lägsta nivån bör bestå av fler dubbelturer än
+för regionbusstrafiken där avstånden är
+
+längre. För de mycket starka stråken i
+stadsbusstrafiken är utgångspunkten att som
+lägsta nivå erbjuda 54 dubbelturer/vardag
+
+och i de starka stråken är utgångspunkten att
+det minst ska finnas 28 dubbelturer/vardag.
 
 Trafikförsörjningsprogram 2026-2030 50
 
@@ -4904,623 +5796,932 @@ Sida 64 av 290
 
 Tabell 2. Utbud i regionala och lokala kollektivtrafikstråk. Antal turer/resmöjligheter per dag i båda
 riktningarna. Antal turer i stadstrafiken bestäms enligt efterfrågan samt stråk i stadstrafiken.
+
 Stråk            Mån-fre           Lör              Sön
 
 ```osaker-tabell
-Mycket starka     24               12               8
-Starka            18               12               8
+Mycket starka     24               12                8
+Starka            18               12                8
 
-Lokalt mycket starkt 54            36               32
-Lokalt starkt     28               20               12
+Lokalt mycket starkt 54            36                32
+Lokalt starkt     28               20                12
 ```
 
-Utbudet som finns i stråken idag ska Kollektivtrafikutbud utanför stråken
-upprätthållas så långt det är möjligt förutsatt Även i områden utanför
+Utbudet som finns i stråken idag ska
+upprätthållas så långt det är möjligt förutsatt
+att befintligt utbud motsvarar resbehovet.
 
-att befintligt utbud motsvarar resbehovet. kollektivtrafikstråken kan det finnas linjelagd
-Kollektivtrafikutbudet i Halland ska ses som kollektivtrafik. Lägsta utbudet av
-ett system och i kollektivtrafikstråken ska ett kollektivtrafik utanför kollektivtrafikstråken
-utbud över hela dagen eftersträvas. Lägsta utgörs av Närtrafik som garanterar
-nivån ska ses som garanti att det under grundläggande resmöjlighet i hela Halland.
+Kollektivtrafikutbudet i Halland ska ses som
+ett system och i kollektivtrafikstråken ska ett
+utbud över hela dagen eftersträvas. Lägsta
+nivån ska ses som garanti att det under
+överskådlig framtid kommer att gå
 
-överskådlig framtid kommer att gå Den linjelagda kollektivtrafik som finns ska
-kollektivtrafik.                 vara styrd av efterfrågan. Nya mer
-resurseffektiva alternativ till traditionell
+kollektivtrafik.
+
 Hallandstrafiken ska kunna göra en egen
-kollektivtrafik kan då behöva utvecklas.
 bedömning av stråket och det går inte enbart
-att fokusera på statistik som exempelvis Enligt de principer som beskrivs i kapitel 4 är
-befolkningsunderlag och befintlig det viktigt att förvalta dagens utbud av
-arbetspendling. Faktorer som framkomlighet kollektivtrafik. Men används inte de turer
-spelar också in och detta är faktorer som som erbjuds kan dessa turer omfördelas till
-Hallandstrafiken tar med i sin bedömning av andra delar av kollektivtrafiksystemet där de
-resbehovet i stråket. Inte sällan finns det ett gör mer nytta, vilket beskrivs i avsnittet
-större resbehov som motsvarar fler turer än ”Metod för trafikutveckling” i kapitel 4. Det
-vad lägsta nivån anger och detta ska då omvända gäller om befintligt resbehov ökar
+att fokusera på statistik som exempelvis
+befolkningsunderlag och befintlig
+arbetspendling. Faktorer som framkomlighet
+spelar också in och detta är faktorer som
 
-tillgodoses med ett utbud som matchar eller nytt uppstår, vilket kan leda till ökat
-behovet. Att just lägsta utbud redovisas beror antal turer.
+Hallandstrafiken tar med i sin bedömning av
+resbehovet i stråket. Inte sällan finns det ett
+större resbehov som motsvarar fler turer än
+vad lägsta nivån anger och detta ska då
+tillgodoses med ett utbud som matchar
+
+behovet. Att just lägsta utbud redovisas beror
 på att det måste finnas utrymme för
-Nätet utanför kollektivtrafikstråken styrs till
 flexibilitet i utvecklingen av kollektivtrafiken
-stor del av gymnasielevers resor till och från
 för att kunna justera utbudet baserat på
-studier. Kollektivtrafik som benämns övriga
 efterfrågan.
-linjer ska vara mer flexibel än
-Kommunerna i Halland kan påverka utbudet kollektivtrafiken i stråken. De övriga linjerna
-genom sin bebyggelseplanering och öka kan med fördel kompletteras med anropstyrd
-underlaget för kollektivtrafiken. På så sätt trafik eller andra alternativ till traditionell
-kan fler få tillgång till en kollektivtrafik som kollektivtrafik som till exempel samordning
-kan vara ett alternativ till bilen och trafiken med skolskjutstrafik eller samåkning.
+
+Kommunerna i Halland kan påverka utbudet
+
+genom sin bebyggelseplanering och öka
+underlaget för kollektivtrafiken. På så sätt
+kan fler få tillgång till en kollektivtrafik som
+kan vara ett alternativ till bilen och trafiken
 kan fortsätta att utvecklas.
 
-Trafikförsörjningsprogram 2026-2030 51
+Kollektivtrafikutbud utanför stråken
+Även i områden utanför
 
+kollektivtrafikstråken kan det finnas linjelagd
+kollektivtrafik. Lägsta utbudet av
+kollektivtrafik utanför kollektivtrafikstråken
+utgörs av Närtrafik som garanterar
+grundläggande resmöjlighet i hela Halland.
+Den linjelagda kollektivtrafik som finns ska
+
+vara styrd av efterfrågan. Nya mer
+resurseffektiva alternativ till traditionell
+kollektivtrafik kan då behöva utvecklas.
+
+Enligt de principer som beskrivs i kapitel 4 är
+det viktigt att förvalta dagens utbud av
+kollektivtrafik. Men används inte de turer
+
+som erbjuds kan dessa turer omfördelas till
+andra delar av kollektivtrafiksystemet där de
+gör mer nytta, vilket beskrivs i avsnittet
+”Metod för trafikutveckling” i kapitel 4. Det
+omvända gäller om befintligt resbehov ökar
+
+eller nytt uppstår, vilket kan leda till ökat
+antal turer.
+
+Nätet utanför kollektivtrafikstråken styrs till
+stor del av gymnasielevers resor till och från
+studier. Kollektivtrafik som benämns övriga
+linjer ska vara mer flexibel än
+
+kollektivtrafiken i stråken. De övriga linjerna
+kan med fördel kompletteras med anropstyrd
+trafik eller andra alternativ till traditionell
+kollektivtrafik som till exempel samordning
+med skolskjutstrafik eller samåkning.
+
+Trafikförsörjningsprogram 2026-2030 51
 Sida 65 av 290
 
 <!-- sida 107 -->
 
+5.4 Sammanställning
+kollektivtrafikstråk
+
+Nedan beskrivs stråkens karaktär utifrån dess
+pendlingsflöden, orterna,
+
+befolkningsutveckling och utblick mot ett
+2050-perspektiv.
+
+Orterna i stråkkartan är kategoriserade
+utifrån olika kriterier som syftar till att
+beskriva deras funktioner inom den
+halländska geografin. Kategoriseringen
+innehåller fem nivåer och baseras på
+
+betydelse i den regionala geografin som
+helhet. Kriterier som använts för
+kategoriseringen är invånarantal,
+arbetstillfällen och utbud av kommersiell och
+offentlig service samt om orten är utpekad i
+
+de kommunala översiktsplanerna.
+
+Västkuststråket/ Västkustbanan
+Västkuststråket är det största och viktigaste
+
+transportstråket i Halland. I stråket nås
+Göteborg med möjligheten att resa vidare
+mot Oslo och Stockholm, samt Malmö &
+Köpenhamn med kopplingen söderut mot
+Hamburg.
+
+I västkuststråket bor mer än en tiondel av
+Sveriges befolkning, en andel som har ökat
+
+kraftigt de senaste åren. I stråket finns även
+Kastrup, Nordens största flygplats.
+Tillgången till Kastrup är viktig då det
+innebär en effektiv uppkoppling mot
+internationella marknader.
+
+Västkuststråket som kollektivtrafikstråk
+
+innefattar järnvägen Västkustbanan.
+Västkustbanan är en viktig
+järnvägsförbindelse i Sverige som sträcker sig
+mellan Göteborg och Lund och utgör
+
 ryggraden i Hallands infrastruktur för
 regionalt resande. Den har en central roll i att
 förbinda de stora städerna längs västkusten
-5.4 Sammanställning
+
 och underlättar både person- och godstrafik.
-kollektivtrafikstråk
 Banan går genom några av landets mest
 tätbefolkade och industribetonade områden,
-Nedan beskrivs stråkens karaktär utifrån dess
 vilket gör den till en av Sveriges mest
-pendlingsflöden, orterna,
 trafikerade järnvägar. Stråket förbinder flera
-befolkningsutveckling och utblick mot ett
+
 regionalt och nationellt viktiga funktioner.
-2050-perspektiv.
+
 I stråket ligger fem halländska
-Orterna i stråkkartan är kategoriserade
 kommunhuvudorter – Falkenberg, Halmstad,
-utifrån olika kriterier som syftar till att
 Kungsbacka, Laholm och Varberg samt
-beskriva deras funktioner inom den
 ytterligare ett flertal större tätorter.
-halländska geografin. Kategoriseringen
 Kommunerna Falkenberg, Kungsbacka och
-innehåller fem nivåer och baseras på
 Varberg tillhör idag Göteborgs
-betydelse i den regionala geografin som
+
 arbetsmarknadsregioner. Kommunerna
-helhet. Kriterier som använts för
 Laholm, Hylte och Halmstad utgör en egen
-kategoriseringen är invånarantal,
 arbetsmarknadsregion.
-arbetstillfällen och utbud av kommersiell och
-offentlig service samt om orten är utpekad i
+
 Den största pendlingsdestinationen är
-de kommunala översiktsplanerna.
 Göteborg och Mölndal, följt av Halmstad,
 Kungsbacka, Varberg och Falkenberg. I
-Västkuststråket/ Västkustbanan
+
 regionens norra delar är rörligheten större på
-Västkuststråket är det största och viktigaste
 grund av Göteborgsregionens storlek och
-transportstråket i Halland. I stråket nås
 attraktionskraft. I södra delen fungerar
-Göteborg med möjligheten att resa vidare
 Halmstad som det starkaste navet. Bortsett
-mot Oslo och Stockholm, samt Malmö &
 från Kungsbacka har alla kommuner starka
-Köpenhamn med kopplingen söderut mot
+
 pendlingsrelationer med Halmstad.
-Hamburg.
 Pendlingen mot Skåne är betydligt mer
 begränsad jämfört med pendlingen till
-I västkuststråket bor mer än en tiondel av
 Göteborgsregionen. I Skåne är Ängelholm
-Sveriges befolkning, en andel som har ökat
 och Helsingborg de främsta destinationerna.
-kraftigt de senaste åren. I stråket finns även
+
 Det finns potential att ytterligare stärka
-Kastrup, Nordens största flygplats.
 kopplingen söderut mellan Halland och
-Tillgången till Kastrup är viktig då det
 Skåne, med särskild tyngdpunkt på Halmstad
-innebär en effektiv uppkoppling mot
 och Helsingborg.
-internationella marknader.
+
 Västkustbanan är också en viktig del av det
-Västkuststråket som kollektivtrafikstråk
 transeuropeiska transportnätet (TEN-T) för
-innefattar järnvägen Västkustbanan.
 järnvägar, där också Halmstad är utpekad
-Västkustbanan är en viktig
+
 som en urban nod. Syftet med TEN-T är att
-järnvägsförbindelse i Sverige som sträcker sig
 bygga upp ett tillförlitligt, sammanhängande
-mellan Göteborg och Lund och utgör
+
 Trafikförsörjningsprogram 2026-2030 52
 Sida 66 av 290
 
 <!-- sida 108 -->
 
-och högkvalitativt transportnät som Vallda-Kungsbacka-(Göteborg)
+och högkvalitativt transportnät som
 ger hållbar konnektivitet i hela Europa utan
-Stråket Vallda–Kungsbacka–Göteborg utgör
 fysiska avbrott, flaskhalsar och felande
-en viktig pendlingsväg i västra delen av
+
 länkar. I ett 2050-perspektiv blir det viktigt
-Kungsbacka kommun och utgörs av både väg
 att de infrastrukturbehov som krävs för att
-158, Sandövägen och Valldavägen. Stråket
 framtidssäkra Västkustbanan prioriteras. Det
-sammanbinder Vallda med Kungsbacka stad.
 blir viktigt att verka för insatser som leder till
-I förlängningen ingår Göteborg som ett
 ökad kapacitet och minskade restider på
-naturligt mål för pendlingen, där många av
+
 Västkustbanan. I ett beredskapsperspektiv är
-resenärerna fortsätter vidare från
 kopplingarna till och från Västkustbanan
-Kungsbacka med tåg eller buss.
 viktiga att säkra.
-Befolkningen i Vallda har vuxit de senaste
+
 Mycket starka kollektivtrafikstråk
-åren och orten pekas ut som ett större lokalt
-centrum och kollektivtrafiknod i den
+
 Onsala-Kungsbacka-(Göteborg)
-regionala fysiska planen. Även om
-Stråket Onsala–Kungsbacka–Göteborg utgör pendlingsströmmarna inte är lika stora som i
-ett av Hallands mest pendlingsintensiva stråket Onsala–Kungsbacka, är de tillräckligt
-relationer. Stråket följer Onsalavägen (väg starka för att motivera en tydlig satsning på
-940\) från Onsala in till Kungsbacka stad, och kollektivtrafikens utveckling.
+
+Stråket Onsala–Kungsbacka–Göteborg utgör
+ett av Hallands mest pendlingsintensiva
+relationer. Stråket följer Onsalavägen (väg
+940\) från Onsala in till Kungsbacka stad, och
 vidare mot Göteborg. Onsala är Hallands
-I ett 2050-perspektiv pekas Vallda ut som ett
+
 största tätort efter kommunhuvudorterna och
-område med fortsatt potential för
 utgör tillsammans med Kungsbacka en viktig
-bostadsutveckling. Effektiva
 kollektivtrafiknod i regionen. Pendlingen mot
-kollektivtrafiklösningar kommer att vara en
 Göteborg är mycket stark och förväntas
-avgörande faktor för att stödja ortens tillväxt
 fortsätta öka, vilket ställer höga krav på
-och minska beroendet av bilresor.
+
 kollektivtrafikens kapacitet och attraktivitet.
 Befolkningsökningen i stråket har varit stabil
-Kungsbacka-Särö-(Göteborg)
 men några omfattande nya exploateringar är
-Stråket Kungsbacka–Särö–Göteborg följer
 inte planerade i närtid. Stråket har en viktig
-väg 158 och utgör en av Hallands mest
 roll i att binda samman den lokala
-befolkade och pendlingstäta relationer.
+
 arbetsmarknaden i Kungsbacka och den
-Stråket binder samman Kungsbacka stad och
 större arbetsmarknadsregionen kring
-Särö med Göteborg och omfattar även orter
 Göteborg. För att kollektivtrafiken ska vara
-som Kullavik och Billdal på vägen mot
 ett konkurrenskraftigt alternativ till bilen
-Göteborg. Både Kungsbacka, Särö och
 krävs förbättrade framkomlighetsåtgärder,
-Kullavik är utpekade som viktiga
+
 särskilt längs väg 940. Dessa åtgärder är
-kollektivtrafiknoder i den regionala fysiska
 viktiga både ur ett tillgänglighets- och
-planen.
 hållbarhetsperspektiv.
+
+Vallda-Kungsbacka-(Göteborg)
+Stråket Vallda–Kungsbacka–Göteborg utgör
+
+en viktig pendlingsväg i västra delen av
+Kungsbacka kommun och utgörs av både väg
+158, Sandövägen och Valldavägen. Stråket
+sammanbinder Vallda med Kungsbacka stad.
+I förlängningen ingår Göteborg som ett
+
+naturligt mål för pendlingen, där många av
+resenärerna fortsätter vidare från
+Kungsbacka med tåg eller buss.
+
+Befolkningen i Vallda har vuxit de senaste
+åren och orten pekas ut som ett större lokalt
+centrum och kollektivtrafiknod i den
+
+regionala fysiska planen. Även om
+pendlingsströmmarna inte är lika stora som i
+stråket Onsala–Kungsbacka, är de tillräckligt
+starka för att motivera en tydlig satsning på
+kollektivtrafikens utveckling.
+
+I ett 2050-perspektiv pekas Vallda ut som ett
+område med fortsatt potential för
+
+bostadsutveckling. Effektiva
+kollektivtrafiklösningar kommer att vara en
+avgörande faktor för att stödja ortens tillväxt
+och minska beroendet av bilresor.
+
+Kungsbacka-Särö-(Göteborg)
+
+Stråket Kungsbacka–Särö–Göteborg följer
+väg 158 och utgör en av Hallands mest
+befolkade och pendlingstäta relationer.
+Stråket binder samman Kungsbacka stad och
+
+Särö med Göteborg och omfattar även orter
+som Kullavik och Billdal på vägen mot
+Göteborg. Både Kungsbacka, Särö och
+Kullavik är utpekade som viktiga
+kollektivtrafiknoder i den regionala fysiska
+
+planen.
+
 Tätorterna i stråket, särskilt Kullavik och
 Särö, har haft en kraftig befolkningstillväxt,
 och pendlingen mot Göteborg är omfattande.
 Genomförda utredningar i stråket pekar ut
+
 Trafikförsörjningsprogram 2026-2030 53
 Sida 67 av 290
 
 <!-- sida 109 -->
 
-behovet av ett mer kapacitetsstarkt mellan orterna. I ett 2050-perspektiv är det
-kollektivtrafikkoncept i stråket. Rörligheten i viktigt att verka för god farbarhet och
-stråket är inte bara viktig för  restidssänkande åtgärder i stråken med öst-
-arbetsmarknadsintegration utan även för västliga riktningar.
+behovet av ett mer kapacitetsstarkt
+kollektivtrafikkoncept i stråket. Rörligheten i
+stråket är inte bara viktig för
+
+arbetsmarknadsintegration utan även för
 tillgång till utbildning och service samt
-
 möjligheten till fortsatt bostadsbyggande.
-Starka kollektivtrafikstråk
+
 Halmstad-Hyltebruk-(Gislaved)
-Stråket förbinder Halmstad med Hyltebruk Fjärås- Kungsbacka-(Göteborg)
 
-och utgör Hyltebruks koppling till Stråket Fjärås–Kungsbacka–Göteborg är ett
-Västkustbanan. I stråket ingår Halmstad viktigt pendlingsstråk i norra delen av
-Nässjö Järnvägar (HNJ-banan) och väg 26. Halland. I den regionala fysiska planen pekas
-Väg 26 är en viktig förbindelse inte minst för Fjärås ut som ett lokalt centrum och en
-boende i Hylte kommun. Trafikmängden är utpekad kollektivtrafiknod. Fjärås har en
-som störst mellan Hyltebruk och Halmstad stark koppling till Kungsbacka och vidare mot
+Stråket förbinder Halmstad med Hyltebruk
+och utgör Hyltebruks koppling till
+Västkustbanan. I stråket ingår Halmstad
+Nässjö Järnvägar (HNJ-banan) och väg 26.
+Väg 26 är en viktig förbindelse inte minst för
 
-och utgörs även av många pendlare. Mellan Göteborg. Stråket har goda
-Hylte och Gislaved är det ett betydande utvecklingsförutsättningar i ett 2050
-arbetskraftsutbyte men norr om Gislaved är perspektiv, där Kungsbacka stad pekas ut
-trafikmängderna betydligt mindre. Större som en särskilt prioriterad utvecklingsort och
-orter i stråket är Halmstad, Hyltebruk, Fjärås som utvecklingsort i den kommunala
+boende i Hylte kommun. Trafikmängden är
+som störst mellan Hyltebruk och Halmstad
+och utgörs även av många pendlare. Mellan
+Hylte och Gislaved är det ett betydande
+arbetskraftsutbyte men norr om Gislaved är
 
-Kinnared, Oskarström, Torup och Åled. översiktsplanen.
+trafikmängderna betydligt mindre. Större
+orter i stråket är Halmstad, Hyltebruk,
+Kinnared, Oskarström, Torup och Åled.
 Längs med HNJ-banan finns också Kinnared,
-Befolkningsutvecklingen i Fjärås har varit
 Landeryd, Oskarström, Sannarp och Torup
-stabil och kommunen planerar för ytterligare
 som har station/hållplats. I den regionala
-tillväxt, vilket förväntas stärka
+
 fysiska planen benämns orterna Torup och
-pendlingsflödena ytterligare fram mot 2050.
 Åled som lokala centrum, medan Oskarström
-Stråket utgör därför en viktig del i regionens
 räknas som ett större lokalt centrum.
-ambition att förstärka kollektivtrafikens roll i
 Hyltebruk är en delregional kärna. Hyltebruk,
-vardagsresandet och minska bilberoendet.
 Torup och Oskarström är även utpekade som
+
 kollektivtrafiknoder.
-Varberg-Kungsbacka-(Göteborg)
-I ett 2050-perspektiv pekas flera orter ut i Stråket Varberg–Kungsbacka–Göteborg
-kommunala översiktsplaner och här finns utgör ett viktigt regionalt och interregionalt
-mycket planlagd mark för både bostads- såväl samband längs västkusten. Stråket följer
-som verksamhetsutveckling till 2050. huvudsakligen Varbergsvägen och omfattar
-Samtliga orter som pekas ut som lokala orter som Väröbacka, Bua, Frillesås och Åsa
-centrum i stråket har växt historiskt sett till som om alla är utpekade som
-både befolkning och arbetstillfällen. kollektivtrafiknoder. Varberg är en regional
-Tillväxten väntas fortsätta, särskilt i delarna tillväxtmotor och Kungsbacka en regional
-av stråket som ligger nära den regionala kärna, vilket skapar ett stråk med stark
-tillväxtmotorn Halmstad. Det kommer potential för ökat kollektivtrafikresande.
+
+I ett 2050-perspektiv pekas flera orter ut i
+kommunala översiktsplaner och här finns
+mycket planlagd mark för både bostads- såväl
+som verksamhetsutveckling till 2050.
+Samtliga orter som pekas ut som lokala
+
+centrum i stråket har växt historiskt sett till
+både befolkning och arbetstillfällen.
+Tillväxten väntas fortsätta, särskilt i delarna
+av stråket som ligger nära den regionala
+tillväxtmotorn Halmstad. Det kommer
+
 innebära ökad arbets- och gymnasiependling
 
-Trafikförsörjningsprogram 2026-2030 54
+mellan orterna. I ett 2050-perspektiv är det
+viktigt att verka för god farbarhet och
+restidssänkande åtgärder i stråken med öst-
 
+västliga riktningar.
+
+Starka kollektivtrafikstråk
+
+Fjärås- Kungsbacka-(Göteborg)
+
+Stråket Fjärås–Kungsbacka–Göteborg är ett
+viktigt pendlingsstråk i norra delen av
+Halland. I den regionala fysiska planen pekas
+
+Fjärås ut som ett lokalt centrum och en
+utpekad kollektivtrafiknod. Fjärås har en
+stark koppling till Kungsbacka och vidare mot
+Göteborg. Stråket har goda
+utvecklingsförutsättningar i ett 2050
+perspektiv, där Kungsbacka stad pekas ut
+
+som en särskilt prioriterad utvecklingsort och
+Fjärås som utvecklingsort i den kommunala
+översiktsplanen.
+
+Befolkningsutvecklingen i Fjärås har varit
+stabil och kommunen planerar för ytterligare
+tillväxt, vilket förväntas stärka
+
+pendlingsflödena ytterligare fram mot 2050.
+Stråket utgör därför en viktig del i regionens
+ambition att förstärka kollektivtrafikens roll i
+vardagsresandet och minska bilberoendet.
+
+Varberg-Kungsbacka-(Göteborg)
+
+Stråket Varberg–Kungsbacka–Göteborg
+utgör ett viktigt regionalt och interregionalt
+samband längs västkusten. Stråket följer
+huvudsakligen Varbergsvägen och omfattar
+
+orter som Väröbacka, Bua, Frillesås och Åsa
+som om alla är utpekade som
+kollektivtrafiknoder. Varberg är en regional
+tillväxtmotor och Kungsbacka en regional
+kärna, vilket skapar ett stråk med stark
+
+potential för ökat kollektivtrafikresande.
+
+Trafikförsörjningsprogram 2026-2030 54
 Sida 68 av 290
 
 <!-- sida 110 -->
 
-Pendlingsflödena i stråket visar att de flesta stort på ortsutveckling genom
-resenärer pendlar mot sina egna  utvecklingsprogram i Veinge och Knäred. I
-kommunhuvudorter, men det finns också en ett 2050-perspektiv finns potential att genom
-tydlig ström vidare mot Göteborg, särskilt samplanering fortsätta utveckla attraktiva
-från Kungsbacka. Stora arbetsplatser som livsmiljöer längs med stråket. Halmstad
+Pendlingsflödena i stråket visar att de flesta
+resenärer pendlar mot sina egna
+kommunhuvudorter, men det finns också en
 
-Ringhals och Väröbruk genererar också kommun planerar för att Trönninge ska
-omfattande arbetsresor.          kunna växa kraftigt med flera
-bostadsområden. Pendlingen i stråket
+tydlig ström vidare mot Göteborg, särskilt
+från Kungsbacka. Stora arbetsplatser som
+Ringhals och Väröbruk genererar också
+omfattande arbetsresor.
+
 I ett 2050-perspektiv planeras nya stationer,
-bedöms öka in mot Halmstads tätort
 bland annat i Väröbacka, vilket förväntas
-samtidigt som pendlaren får mycket bättre
+
 förändra resmönstren och öka andelen
-förutsättningar att resa hållbart med
 kollektivtrafikresor ytterligare. Stråket är
-tågtrafik.
 dessutom en viktig omledningsväg för E6:an
-och har en roll för beredskap och redundans i Halmstad-Trönninge-Veinge-Laholm
+och har en roll för beredskap och redundans i
 transportsystemet.
-Stråket är ett viktigt nord-sydligt samband
-som går genom kommunerna Halmstad och
+
 Halmstad-Markaryd-Hässleholm
-Laholm via väg 15 och Tjärbyvägen. Stråket
+
 I stråket klassas Halmstad som regional
-binder samman flera mindre tätorter såsom
 tillväxtmotor och Knäred, Trönninge och
-Trönninge, Veinge, Genevad och Lilla Tjärby
 Veinge som lokala centrum. Nämnda orter
-med Laholms tätort och Halmstad.
 klassas också som kollektivtrafiknoder.
-Pendlingen är särskilt stark mellan Laholm
+
 Stråket går genom kommunerna Halmstad
-och Halmstad. Ju närmare Halmstad tätort
 och Laholm. När tågtrafiken på
-desto större pendlingsflöden. Närheten till
 Markarydsbanan startar finns möjligheten för
-Halmstad medför att flera orter, exempelvis
 interregionala resor mellan södra Halland
-Trönninge och Veinge, fungerar som
 och nordöstra Skåne där kopplingen till
-pendlingsorter. Resbehoven skapar
+
 Södra stambanan via Hässleholm blir viktig.
-tillsammans ett behov som motiverar att peka
 Stråket används i sin fulla sträckning för
-ut stråket som ett kollektivtrafikstråk. I
 såväl person- som godstransporter mellan
-stråket är det Trönninge och Veinge som är
 Blekinge/Norra Skåne/Västkusten.
-utpekade som kollektivtrafiknoder. Stråket
-präglas av en historiskt stark tillväxt och är
+
 När tågtrafiken på Markarydsbanan startar
-viktigt för Halmstads och Laholms
 ska den vara ett attraktivt och pålitlig val för
-gemensamma arbetsmarknad. I stråket finns
+
 arbets-och studiependling samt för mer
-tätorter med en stark koppling till Halmstads
 långväga resor. En väl fungerande
-kommunhuvudort. Kopplingen från orterna i
 timmestrafik är till stor nytta för invånarna
-stråket är större till Halmstad än söderut mot
 och främjar utvecklingen av orterna i stråket.
-Skåne. I ett 2050-perspektiv väntas en
 Samplanering mellan ett flertal aktörer är
-fortsatt utveckling i stråket, särskilt kring
+
 viktigt för att tågtrafiken ska bli ett attraktivt
-Veinge, där en framtida tågstation kan
 val. Infrastrukturinvesteringar som nya
-komma att stärka kollektivtrafikens roll
 stationer i Veinge och Knäred, ett nytt
-ytterligare.
 mötesspår och åtgärder på Halmstad C är
 under planering. Laholms kommun satsar
+
+stort på ortsutveckling genom
+utvecklingsprogram i Veinge och Knäred. I
+ett 2050-perspektiv finns potential att genom
+
+samplanering fortsätta utveckla attraktiva
+livsmiljöer längs med stråket. Halmstad
+kommun planerar för att Trönninge ska
+kunna växa kraftigt med flera
+bostadsområden. Pendlingen i stråket
+
+bedöms öka in mot Halmstads tätort
+samtidigt som pendlaren får mycket bättre
+förutsättningar att resa hållbart med
+tågtrafik.
+
+Halmstad-Trönninge-Veinge-Laholm
+
+Stråket är ett viktigt nord-sydligt samband
+som går genom kommunerna Halmstad och
+Laholm via väg 15 och Tjärbyvägen. Stråket
+binder samman flera mindre tätorter såsom
+
+Trönninge, Veinge, Genevad och Lilla Tjärby
+med Laholms tätort och Halmstad.
+Pendlingen är särskilt stark mellan Laholm
+och Halmstad. Ju närmare Halmstad tätort
+desto större pendlingsflöden. Närheten till
+Halmstad medför att flera orter, exempelvis
+
+Trönninge och Veinge, fungerar som
+pendlingsorter. Resbehoven skapar
+tillsammans ett behov som motiverar att peka
+ut stråket som ett kollektivtrafikstråk. I
+stråket är det Trönninge och Veinge som är
+
+utpekade som kollektivtrafiknoder. Stråket
+präglas av en historiskt stark tillväxt och är
+viktigt för Halmstads och Laholms
+gemensamma arbetsmarknad. I stråket finns
+tätorter med en stark koppling till Halmstads
+
+kommunhuvudort. Kopplingen från orterna i
+stråket är större till Halmstad än söderut mot
+Skåne. I ett 2050-perspektiv väntas en
+fortsatt utveckling i stråket, särskilt kring
+Veinge, där en framtida tågstation kan
+
+komma att stärka kollektivtrafikens roll
+ytterligare.
+
 Trafikförsörjningsprogram 2026-2030 55
 Sida 69 av 290
 
 <!-- sida 111 -->
 
-Laholm-Våxtorp                   Mellbystrand och Skummeslövsstrand ut som
-utvecklingsorter med fortsatt expansion av
+Laholm-Våxtorp
 Stråket Laholm–Våxtorp är ett växande lokalt
-bostäder och verksamheter. Effektiva
+
 pendlingsstråk i södra Halland. Våxtorp är
-kollektivtrafiklösningar är avgörande för att
 utpekat som en kollektivtrafiknod och ett
-stärka hållbara pendlingsmönster och minska
 lokalt centrum i regional fysisk plan. I
-belastningen på vägnätet, särskilt E6 och
 stråket ligger också orterna Ränneslöv och
-kustvägarna.
 Vallberga. Laholms kommun planerar i sin
+
 översiktsplan för fortsatt bostads- och
-Halmstad-Simlångsdalen
 verksamhetsutveckling. Stråket spelar en
-Stråket Halmstad–Simlångsdalen är ett
 viktig roll för att stärka kopplingen mellan
-kollektivtrafikstråk som kopplar samman
 omlandet och Laholms stad och därigenom
-Halmstad med inlandets samhällen längs väg
 tillgången till service, arbete och utbildning.
-25 mot Simlångsdalen. Trafikmängderna är
-I ett 2050-perspektiv väntas stråket få ökad störst närmast Halmstad.
+
+I ett 2050-perspektiv väntas stråket få ökad
+
 betydelse i takt med att Våxtorp utvecklas och
-Simlångsdalen har haft en medelstor tillväxt i
 pendling till Laholm och vidare mot
-invånarantal och orten är starkt knuten till
 Halmstad ökar. God tillgång till
-Halmstads arbetsmarknad. I ett 2050-
 kollektivtrafik är avgörande för att möjliggöra
-perspektiv fyller stråket en viktig roll för
 hållbart resande och minska beroendet av bil.
-Halmstad kommuns inland där
-Laholm-                          Simlångsdalen som lokalt centrum och
-Mellbystrand/Skummeslövsstrand och kollektivtrafiknod blir en samlingsnod för
+
+Laholm-
+
+Mellbystrand/Skummeslövsstrand och
 norra Skåne
-service och kollektivtrafik. Simlångsdalen
-I stråket ligger Laholm tätort som är utpekat pekas ut som en serviceort i Halmstads
-som en delregional kärna samt    kommunala översiktsplan och kommunen
-Mellbystrand/Skummeslövstrand som är planerar för viss utveckling av bostäder och
-utpekad som lokal ort och kollektivtrafiknod närservice. Stråket har potential att på sikt få
-med koppling till Båstad station i norra ökade pendlingsflöden mot Halmstad och
-Skåne. Stråket Laholm–Mellbystrand– därmed behov av att pekas ut som ett
-Skummeslövsstrand binder samman Laholms kollektivtrafiksstråk.
+I stråket ligger Laholm tätort som är utpekat
+som en delregional kärna samt
+Mellbystrand/Skummeslövstrand som är
+
+utpekad som lokal ort och kollektivtrafiknod
+med koppling till Båstad station i norra
+Skåne. Stråket Laholm–Mellbystrand–
+Skummeslövsstrand binder samman Laholms
 stad med kustorterna Mellbystrand och
-Halmstad-Falkenberg östra
+
 Skummeslövsstrand. Området är starkt
-präglat av turism, fritidsboende och växande Stråket binder samman Falkenberg och
-bostadsområden, särskilt under   Halmstad. Det går längs med den gamla
-sommarmånaderna då befolkningen ökar motorvägen öster om Västkustbanan. Stråket
-starkt. Året runt är kopplingen till Laholm har en viktig funktion i att binda samman
-viktig för arbets- och gymnasiependling, tätorterna öster om E6 med varandra och går
-service och handel. Båstad station bidrar till genom tre lokala centrum: Getinge, Kvibille
-ökad attraktivitet för området vilket kan och Slöinge. Dessa är även utpekade som
-bidrar till inflyttning och utökat utbyte med kollektivtrafiknoder. Pendlingen är relativt
-Båstad och kommuner söderut på   stark i stråket och från orterna på Halmstads
-Västkustbanan. I ett 2050-perspektiv pekas sida kommungränsen dominerar pendlingen
+präglat av turism, fritidsboende och växande
+bostadsområden, särskilt under
+sommarmånaderna då befolkningen ökar
+starkt. Året runt är kopplingen till Laholm
+
+viktig för arbets- och gymnasiependling,
+service och handel. Båstad station bidrar till
+ökad attraktivitet för området vilket kan
+bidrar till inflyttning och utökat utbyte med
+Båstad och kommuner söderut på
+
+Västkustbanan. I ett 2050-perspektiv pekas
+
+Mellbystrand och Skummeslövsstrand ut som
+utvecklingsorter med fortsatt expansion av
+bostäder och verksamheter. Effektiva
+
+kollektivtrafiklösningar är avgörande för att
+stärka hållbara pendlingsmönster och minska
+belastningen på vägnätet, särskilt E6 och
+kustvägarna.
+
+Halmstad-Simlångsdalen
+
+Stråket Halmstad–Simlångsdalen är ett
+kollektivtrafikstråk som kopplar samman
+Halmstad med inlandets samhällen längs väg
+25 mot Simlångsdalen. Trafikmängderna är
+
+störst närmast Halmstad.
+
+Simlångsdalen har haft en medelstor tillväxt i
+invånarantal och orten är starkt knuten till
+Halmstads arbetsmarknad. I ett 2050-
+perspektiv fyller stråket en viktig roll för
+Halmstad kommuns inland där
+Simlångsdalen som lokalt centrum och
+
+kollektivtrafiknod blir en samlingsnod för
+service och kollektivtrafik. Simlångsdalen
+pekas ut som en serviceort i Halmstads
+kommunala översiktsplan och kommunen
+planerar för viss utveckling av bostäder och
+
+närservice. Stråket har potential att på sikt få
+ökade pendlingsflöden mot Halmstad och
+därmed behov av att pekas ut som ett
+kollektivtrafiksstråk.
+
+Halmstad-Falkenberg östra
+
+Stråket binder samman Falkenberg och
+Halmstad. Det går längs med den gamla
+motorvägen öster om Västkustbanan. Stråket
+har en viktig funktion i att binda samman
+
+tätorterna öster om E6 med varandra och går
+genom tre lokala centrum: Getinge, Kvibille
+och Slöinge. Dessa är även utpekade som
+kollektivtrafiknoder. Pendlingen är relativt
+stark i stråket och från orterna på Halmstads
+
+sida kommungränsen dominerar pendlingen
+
 Trafikförsörjningsprogram 2026-2030 56
 Sida 70 av 290
 
 <!-- sida 112 -->
 
-mot kommunhuvudorten. Det finns även ett utbildning, fritid och service. Området är
-par större arbetsplatser i stråket idag som också av stor betydelse för fritidsboende och
-genererar pendling.              turism vilket skapar en säsongsvariation i
-efterfrågan på transporter.
+mot kommunhuvudorten. Det finns även ett
+par större arbetsplatser i stråket idag som
+genererar pendling.
+
 Orterna har haft en relativt stark tillväxt både
-gällande befolkning och antalet  I ett 2050-perspektiv bedöms befolkningen i
-arbetstillfällen. Flera orter pekas ut i stråket öka, särskilt i kustnära lägen, vilket
 
-kommunala översiktsplaner och det finns kan komma att skapa behov av stärkt
-mycket planlagd mark för bostads- såväl som kollektivtrafikutbud. Dock medför den
-verksamhetsutveckling. Särskilt mycket nuvarande infrastrukturen som finns att
-verksamhetsmark finns planerad i Getinge tillgå i den norra delen av detta stråk att det
-med närhet till påfart till E6. Pendlingen i är svårt att skapa en effektiv kollektivtrafik
+gällande befolkning och antalet
+arbetstillfällen. Flera orter pekas ut i
+kommunala översiktsplaner och det finns
+mycket planlagd mark för bostads- såväl som
+verksamhetsutveckling. Särskilt mycket
 
-stråket förmodas därmed öka. Utöver som kan bli konkurrenskraftig gentemot
-arbetspendling har stråket också stor bilen.
+verksamhetsmark finns planerad i Getinge
+med närhet till påfart till E6. Pendlingen i
+stråket förmodas därmed öka. Utöver
+arbetspendling har stråket också stor
 betydelse för tillgänglighet till
-Falkenberg-Ullared
 gymnasieskolor och vårdinrättningar i
-Halmstad och Falkenberg.         I stråket ligger Falkenberg som är utpekat
-som en regional kärna, samt Ullared som är
+
+Halmstad och Falkenberg.
+
 I ett 2050-perspektiv väntas fortsatt
-ett större lokalt centrum. I Ullared ligger
 befolkningstillväxt i flera av stråkets orter,
-varuhuset Gekås som är Hallands största
 vilket ställer krav på attraktiva och hållbara
-besöksmål. Stråket Falkenberg–Ullared är ett
 kollektivtrafiklösningar som kan möta ökad
-viktigt öst-västligt samband som binder
 efterfrågan.
+
+Halmstad-Falkenberg västra Halland
+Stråket Halmstad–Falkenberg–västra
+Halland utgör ett viktigt regionalt samband
+som knyter samman två av Hallands största
+
+städer - Falkenberg utpekad som regional
+kärna samt Halmstad utpekad som regional
+tillväxtmotor, samt flera kustsamhällen och
+tätorter däremellan. Stråket går utmed
+kusten. I Regional fysisk plan är Haverdal och
+
+Harplinge sammanlänkat och är utpekade
+som lokalt centrum och kollektivtrafiknod.
+Stråket går även genom orterna Ugglarp och
+Steninge. Orterna är mycket starka och
+särskilt mycket bostadsbebyggelse planeras i
+
+Haverdal enligt kommunens översiktsplan.
+Detta skapar högt tryck, både genom ökad
+pendling till centralorterna och genom ökat
+ianspråktagande av mark i stråket. Stråket
+präglas av starka relationer för arbete,
+
+utbildning, fritid och service. Området är
+också av stor betydelse för fritidsboende och
+turism vilket skapar en säsongsvariation i
+
+efterfrågan på transporter.
+
+I ett 2050-perspektiv bedöms befolkningen i
+stråket öka, särskilt i kustnära lägen, vilket
+kan komma att skapa behov av stärkt
+kollektivtrafikutbud. Dock medför den
+nuvarande infrastrukturen som finns att
+
+tillgå i den norra delen av detta stråk att det
+är svårt att skapa en effektiv kollektivtrafik
+som kan bli konkurrenskraftig gentemot
+bilen.
+
+Falkenberg-Ullared
+
+I stråket ligger Falkenberg som är utpekat
+som en regional kärna, samt Ullared som är
+ett större lokalt centrum. I Ullared ligger
+varuhuset Gekås som är Hallands största
+besöksmål. Stråket Falkenberg–Ullared är ett
+
+viktigt öst-västligt samband som binder
 samman Falkenbergs kustnära områden med
 inlandet och vidare in i Ullared. Stråket har
-Halmstad-Falkenberg västra Halland
 betydelse både för arbets- och
-Stråket Halmstad–Falkenberg–västra
 utbildningspendling samt för omfattande
-Halland utgör ett viktigt regionalt samband
+
 handelsresor kopplat till Ullareds stora
-som knyter samman två av Hallands största
 handelscentrum. Ullared är utpekat som
-städer - Falkenberg utpekad som regional
 kollektivtrafiknod. Stråket mellan Falkenberg
-kärna samt Halmstad utpekad som regional
 och Ullared har en stark pendling.
-tillväxtmotor, samt flera kustsamhällen och
-tätorter däremellan. Stråket går utmed I ett 2050-perspektiv finns potential att
-kusten. I Regional fysisk plan är Haverdal och fortsätta att utveckla kopplingen mellan
-Harplinge sammanlänkat och är utpekade Falkenberg och Ullared. I kommunens
-som lokalt centrum och kollektivtrafiknod. översiktsplan från 2014 föreslås vidare
-Stråket går även genom orterna Ugglarp och utveckling av Ullared, både genom ny
-Steninge. Orterna är mycket starka och verksamhetsmark och fler bostäder. Ullared
-särskilt mycket bostadsbebyggelse planeras i fungerar som ett regionalt handelsnav och
-Haverdal enligt kommunens översiktsplan. besöksmål, inte bara för Halland utan även
-Detta skapar högt tryck, både genom ökad nationellt. Detta genererar stora trafikflöden
-pendling till centralorterna och genom ökat under hela året, med tydliga
-ianspråktagande av mark i stråket. Stråket säsongsvariationer under semesterperioder
-präglas av starka relationer för arbete, och helger. I ett 2050-perspektiv förväntas
+
+I ett 2050-perspektiv finns potential att
+fortsätta att utveckla kopplingen mellan
+
+Falkenberg och Ullared. I kommunens
+översiktsplan från 2014 föreslås vidare
+utveckling av Ullared, både genom ny
+verksamhetsmark och fler bostäder. Ullared
+fungerar som ett regionalt handelsnav och
+
+besöksmål, inte bara för Halland utan även
+nationellt. Detta genererar stora trafikflöden
+under hela året, med tydliga
+säsongsvariationer under semesterperioder
+och helger. I ett 2050-perspektiv förväntas
+
 Trafikförsörjningsprogram 2026-2030 57
 Sida 71 av 290
 
 <!-- sida 113 -->
 
-stråket fortsätta ha stor betydelse både för busstrafik som finns i stråket idag används
-vardaglig tillgänglighet för boende i inlandet främst av arbetspendlare. Kollektivtrafiken är
-och för att möjliggöra hållbara transporter för i den mån det är möjligt, anpassad till
-handels- och fritidsresor.       varuhuspersonalens behov.
+stråket fortsätta ha stor betydelse både för
+vardaglig tillgänglighet för boende i inlandet
+och för att möjliggöra hållbara transporter för
 
-Falkenberg-Tvååker-Varberg       Ullared utgör en viktig nod i stråket, med
-både ett starkt lokalt arbetsmarknadsområde
+handels- och fritidsresor.
+
+Falkenberg-Tvååker-Varberg
 Stråket går längs med kusten och präglas av
-och regionens största besöksmål, varuhuset
 arbetspendling, framför allt mellan de två
-Gekås. Orten räknas som större lokalt
+
 kommunhuvudorterna, men även från
-centrum och kollektivtrafiknod. I den
 Tvååker med tyngdpunkt mot Varberg.
-kommunala översiktsplanen föreslås Ullared
 Stråket löper mellan kommunhuvudorterna
-utvecklas vidare med både ny
 Falkenberg och Varberg. Tvååker som är ett
-verksamhetsmark och fler bostäder genom
 större lokalt centrum ligger i stråket. Långås,
-förtätning av den blandade bebyggelsen.
+
 ett lokalt centrum, ligger strax utanför
-Satsningar i stråken runt Ullared och snabb
 stråket. Likt övriga orter längs Hallands kust
-kollektivtrafik till Falkenberg och Varberg
 har orterna historiskt haft hög tillväxt.
-prioriteras högt. I stråket är också Rolfstorp
 Tvååker är Varbergs största tätort utanför
-utpekat som kollektivtrafiknod.
 kommunhuvudorten och pekas i regional
+
 fysisk plan ut som ett lokalt centrum och
-I ett 2050-perspektiv pekas fortsatt
 kollektivtrafiknod. Tvååker pekas ut som
-utveckling av såväl Ullared som Varberg ut i
 serviceort i Varbergs kommuns översiktsplan
-kommunernas översiktsplaner. Stråket
 och planeras växa ytterligare med
-bedöms få ökade trafikflöden i takt med
 bostadsområden och verksamhetsmark.
-fortsatt tillväxt av befolkning, handel och
-transporter, vilket ställer krav på förbättrade
+
 Västkustbanan täcker dock upp för resandet
-kollektivtrafiklösningar och fortsatt god
 mellan kommunhuvudorterna, vilket innebär
-farbarhet.
+
 att befolkningsunderlaget för en väl utbyggd
 kollektivtrafik är relativt litet i nuläget. I ett
-Varberg-Borås
 2050-perspektiv förväntas fortsatt tillväxt i
-I stråket mellan Varberg och Borås ingår
 området och pendlingen förväntas att öka,
-Viskadalsbanan och väg 41. Stråket förbinder
 särskilt kring Tvååker och södra Varberg,
-de två stora orterna och har stor
+
 vilket kommer öka behovet av attraktiva
-arbetspendling, dock främst i ändarna av
 kollektivtrafikförbindelser.
-stråket nära de två huvudorterna. Stråket
-Varberg-Ullared                  Varberg–Borås är ett regionalt och
-interregionalt samband som förbinder
+
+Varberg-Ullared
 I stråket mellan Varberg och Ullared ingår
-kustområdet i Halland med inlandet i Västra
+
 väg 153. På sträckan Varberg–Ullared samsas
-Götaland. Pendlingen mellan Varberg och
 godstransporter med många
-Borås är idag inte särskilt stor. Eftersom de
 persontransporter. Det handlar både om
-båda orterna växer i hög takt finns potential
 besökare som ska till och från Ullared för att
-att stärka deras koppling genom
 handla, och pendlare. Handelsområdet kring
-kollektivtrafiken. I stråket ligger även två
+
 Gekås är Hallands största besöksmål. Den
+
+busstrafik som finns i stråket idag används
+främst av arbetspendlare. Kollektivtrafiken är
+i den mån det är möjligt, anpassad till
+
+varuhuspersonalens behov.
+
+Ullared utgör en viktig nod i stråket, med
+både ett starkt lokalt arbetsmarknadsområde
+och regionens största besöksmål, varuhuset
+Gekås. Orten räknas som större lokalt
+centrum och kollektivtrafiknod. I den
+
+kommunala översiktsplanen föreslås Ullared
+utvecklas vidare med både ny
+verksamhetsmark och fler bostäder genom
+förtätning av den blandade bebyggelsen.
+Satsningar i stråken runt Ullared och snabb
+kollektivtrafik till Falkenberg och Varberg
+
+prioriteras högt. I stråket är också Rolfstorp
+utpekat som kollektivtrafiknod.
+
+I ett 2050-perspektiv pekas fortsatt
+utveckling av såväl Ullared som Varberg ut i
+kommunernas översiktsplaner. Stråket
+bedöms få ökade trafikflöden i takt med
+
+fortsatt tillväxt av befolkning, handel och
+transporter, vilket ställer krav på förbättrade
+kollektivtrafiklösningar och fortsatt god
+farbarhet.
+
+Varberg-Borås
+
+I stråket mellan Varberg och Borås ingår
+Viskadalsbanan och väg 41. Stråket förbinder
+de två stora orterna och har stor
+arbetspendling, dock främst i ändarna av
+
+stråket nära de två huvudorterna. Stråket
+Varberg–Borås är ett regionalt och
+interregionalt samband som förbinder
+kustområdet i Halland med inlandet i Västra
+Götaland. Pendlingen mellan Varberg och
+
+Borås är idag inte särskilt stor. Eftersom de
+båda orterna växer i hög takt finns potential
+att stärka deras koppling genom
+kollektivtrafiken. I stråket ligger även två
 lokala centrum: Derome och Veddige som
+
 Trafikförsörjningsprogram 2026-2030 58
 Sida 72 av 290
 
 <!-- sida 114 -->
 
-växt sett till både antalet invånare och • Hede: Järnvägsstationen i Kungsbacka
-arbetstillfällen. De båda pekas ut som trafikeras av regionaltåg såväl som
-kollektivtrafiknoder i regional fysisk plan. pendeltåg mot Göteborg vid högtrafik.
+växt sett till både antalet invånare och
+arbetstillfällen. De båda pekas ut som
+kollektivtrafiknoder i regional fysisk plan.
+
+Trafikmängderna är stora i stråkets samtliga
+
+delar men tyngdpunkten finns i stråkets båda
+ändar. De största tätorterna i stråket är
+Kinna, Viskafors och Veddige. Stråket har
+mycket persontrafik på såväl korta som långa
+sträckor. Flertalet industrier i, eller nära
+
+stråket leder också till många
+godstransporter mellan de inre delarna av
+Västra Götaland och Hallandskusten. Stråket
+spelar även en viktig roll för tillgång till
+gymnasieutbildningar, högre utbildningar
+och arbetsplatser i båda ändar. I ett 2050-
+
+perspektiv pekas stråket ut som strategiskt
+för fortsatt utveckling av kopplingen till
+Boråsregionen.
+
+5.5 Järnvägsstationer
+
+• Halmstad: Centralstationen ligger längs
+Västkustbanan, men här ansluter även
+HNJ-banan (Halmstad-Nässjö järnväg)
+och Markarydsbanan. Halmstad spelar en
+viktig roll i persontrafiken med byten
+
+mellan dessa banor. Halmstad är även en
+viktig nod för godstransporter, med
+bakgrund av det järnvägsgeografiska läget.
+Halmstad tätort är utpekad som urban
+nod i TEN-T nätverket.
+
+• Kungsbacka: Järnvägsstationen i
+Kungsbacka trafikeras av regional- och
+godståg såväl som pendeltåg mot
+
+Göteborg vid högtrafik.
+• Anneberg: Järnvägsstationen i
+Kungsbacka trafikeras av regionaltåg såväl
+som pendeltåg mot Göteborg vid
+
+högtrafik.
+
+• Hede: Järnvägsstationen i Kungsbacka
+trafikeras av regionaltåg såväl som
+pendeltåg mot Göteborg vid högtrafik.
 
 • Varberg: Järnvägsstationen i Varberg
-Trafikmängderna är stora i stråkets samtliga
 trafikeras av regional- och godståg.
-delar men tyngdpunkten finns i stråkets båda
 Stationen utgör en knutpunkt för byten
-ändar. De största tätorterna i stråket är
 mellan Västkustbanan och
-Kinna, Viskafors och Veddige. Stråket har
+
 Viskadalsbanan.
-mycket persontrafik på såväl korta som långa
-sträckor. Flertalet industrier i, eller nära • Falkenberg: Järnvägsstationen i
-stråket leder också till många     Falkenberg trafikeras av regional- och
-godstransporter mellan de inre delarna av godståg.
-Västra Götaland och Hallandskusten. Stråket
+• Falkenberg: Järnvägsstationen i
+Falkenberg trafikeras av regional- och
+
+godståg.
 • Laholm: Järnvägsstationen i Laholm
-spelar även en viktig roll för tillgång till
 trafikeras av regional- och godståg.
-gymnasieutbildningar, högre utbildningar
+
 • Åsa: Järnvägsstationen i Åsa trafikeras av
-och arbetsplatser i båda ändar. I ett 2050-
 regional- och godståg.
-perspektiv pekas stråket ut som strategiskt
+
 • Väröbacka: Planerad järnvägsstation:
-för fortsatt utveckling av kopplingen till
 Värö station.
-Boråsregionen.
 • Veddige: Järnvägsstationen i Veddige
 trafikeras av person- och godståg.
-5.5 Järnvägsstationer
+
 • Derome: Järnvägsstationen i Derome
-• Halmstad: Centralstationen ligger längs
 trafikeras av persontåg.
-Västkustbanan, men här ansluter även
+
 • Tofta: Järnvägsstationen i Tofta trafikeras
-HNJ-banan (Halmstad-Nässjö järnväg)
 av persontåg.
-och Markarydsbanan. Halmstad spelar en
-viktig roll i persontrafiken med byten • Sannarp: Järnvägsstationen i Sannarp
-mellan dessa banor. Halmstad är även en trafikeras av persontåg.
-viktig nod för godstransporter, med
+• Sannarp: Järnvägsstationen i Sannarp
+
+trafikeras av persontåg.
 • Oskarström: Järnvägsstationen i
-bakgrund av det järnvägsgeografiska läget.
 Oskarström trafikeras av persontåg.
-Halmstad tätort är utpekad som urban
+
 • Torup: Järnvägsstationen i Torup
-nod i TEN-T nätverket.
 trafikeras av person- och godståg.
-• Kungsbacka: Järnvägsstationen i
+
 • Kinnared: Järnvägsstationen i Kinnared
-Kungsbacka trafikeras av regional- och
 trafikeras av persontåg.
-godståg såväl som pendeltåg mot
-Göteborg vid högtrafik.        • Landeryd: Järnvägsstationen i Landeryd
+• Landeryd: Järnvägsstationen i Landeryd
+
 trafikeras av persontåg.
-• Anneberg: Järnvägsstationen i
-Kungsbacka trafikeras av regionaltåg såväl • Veinge: Planerad järnvägsstation.
-som pendeltåg mot Göteborg vid • Knäred: Planerad järnvägsstation.
-högtrafik.
+• Veinge: Planerad järnvägsstation.
+
+• Knäred: Planerad järnvägsstation.
+
 Trafikförsörjningsprogram 2026-2030 59
 Sida 73 av 290
 
@@ -5532,486 +6733,711 @@ Sida 74 av 290
 
 <!-- sida 116 -->
 
-6\.   Trafikeringsbehov                            tåg
+6\.   Trafikeringsbehov                             tåg
 
 2028–2050
 
 Detta kapitel beskriver Region Hallands inriktning och ambitioner
 
 för hur tågtrafiken planeras att utvecklas på kort sikt fram till 2035
-
 och på lång sikt mellan 2035 och 2050.
 
-Tågtrafiken utgör en viktig länk inom detta krävs hänsyn till fordonens egenskaper,
-Halland samt mellan Halland och dess mängden tågtrafik och järnvägens
-omgivning. Tågtrafiken prioriteras som ett utformning. Insatser för ökad kapacitet och
-medel för att öka tillgängligheten och vidga minskade restider i järnvägsanläggningen är
+Tågtrafiken utgör en viktig länk inom
+Halland samt mellan Halland och dess
+omgivning. Tågtrafiken prioriteras som ett
 
-arbetsmarknadsregionerna. Allt fler väljer att här av stor betydelse.
+medel för att öka tillgängligheten och vidga
+arbetsmarknadsregionerna. Allt fler väljer att
 resa med tåg, särskilt på Västkustbanan.
 Tågtrafiken på Västkustbanan utgör
-6.1 Tågsystem i Halland
 stommen i Hallands kollektivtrafiksystem,
-och all annan kollektivtrafik ska i möjligaste För att stärka hela regionen behöver Halland
-mån anpassas till tågens ankomster och knytas samman med en väl utbyggd tågtrafik.
-avgångar på Västkustbanan.       En attraktiv tågtrafik som ska uppfylla
-Transportkapaciteten på järnvägen behöver restidsmålen måste vara snabb, vilket är svårt
-öka, och restiderna mellan de halländska att uppnå om samma tågtrafik ska stanna vid
-kommunerna samt över länsgränserna alla stationer längs järnvägen. För att möta
 
-behöver minska.                  de olika resbehoven är det därför viktigt att
-erbjuda parallella tågsystem med olika
+och all annan kollektivtrafik ska i möjligaste
+mån anpassas till tågens ankomster och
+avgångar på Västkustbanan.
+Transportkapaciteten på järnvägen behöver
+öka, och restiderna mellan de halländska
+
+kommunerna samt över länsgränserna
+behöver minska.
+
 Region Hallands ambition om minskade
-hastigheter och uppehållsmönster.
 restider, som beskrivs i detta kapitel, visar
-Tidtabellen är avsedd att utformas med
 hur kollektivtrafiken är nära kopplad till
-taktfasta intervaller, där avgångarna sker på
 samhällsutvecklingen och att tågtrafiken
-samma minuttal varje timme, vilket skapar
 fungerar som ett verktyg för att skapa
-enkelhet och tydlighet för resenärerna.
-tillgänglighet och knyta samman Halland
-med dess omvärld. Ju större      Principen om parallella tågsystem och en
-arbetsmarknadsregioner som tillgängliggörs, tågtidtabell med taktfasta intervaller hämtas
-desto större utvecklings- och valmöjligheter från Regionsamverkan Sydsverige genom ett
-för Halland och dess invånare. För att uppnå positionspapper för kollektivtrafiken. Syftet
-med positionspapperet är att förbättra den
-Trafikförsörjningsprogram 2026-2030 61
 
+tillgänglighet och knyta samman Halland
+med dess omvärld. Ju större
+arbetsmarknadsregioner som tillgängliggörs,
+desto större utvecklings- och valmöjligheter
+för Halland och dess invånare. För att uppnå
+
+detta krävs hänsyn till fordonens egenskaper,
+mängden tågtrafik och järnvägens
+utformning. Insatser för ökad kapacitet och
+
+minskade restider i järnvägsanläggningen är
+här av stor betydelse.
+
+6.1 Tågsystem i Halland
+
+För att stärka hela regionen behöver Halland
+
+knytas samman med en väl utbyggd tågtrafik.
+En attraktiv tågtrafik som ska uppfylla
+restidsmålen måste vara snabb, vilket är svårt
+att uppnå om samma tågtrafik ska stanna vid
+alla stationer längs järnvägen. För att möta
+
+de olika resbehoven är det därför viktigt att
+erbjuda parallella tågsystem med olika
+hastigheter och uppehållsmönster.
+Tidtabellen är avsedd att utformas med
+taktfasta intervaller, där avgångarna sker på
+samma minuttal varje timme, vilket skapar
+
+enkelhet och tydlighet för resenärerna.
+
+Principen om parallella tågsystem och en
+tågtidtabell med taktfasta intervaller hämtas
+från Regionsamverkan Sydsverige genom ett
+positionspapper för kollektivtrafiken. Syftet
+med positionspapperet är att förbättra den
+
+Trafikförsörjningsprogram 2026-2030 61
 Sida 75 av 290
 
 <!-- sida 117 -->
 
-regionöverskridande tågtrafiken till gagn för Lokaltåg
+regionöverskridande tågtrafiken till gagn för
 större arbetsmarknadsregioner, ökad
-Lokaltåg stannar på alla stationer.
 tillgänglighet till högre studier samt främjad
-Inriktningen är att tågen ska köras i 140–160
+
 tillväxt.
-km/h och ha en komfort för resor som är 15
-minuter upp till 60 minuter. I Halland utgörs
+
 Storregiontåg
-de lokala tågen av Västtåg och Pågatåg.
 Storregiontåg stannar på stora stationer, i
-kommunhuvudort. Inriktning är att tågen ska Kommersiell persontågstrafik
+kommunhuvudort. Inriktning är att tågen ska
 köras i 200 km/h och ha hög komfort för
-Utöver den tågtrafik som Region Halland
+
 resor som är 60 minuter upp till 120 minuter.
-avser att ansvara för och bedriva, behöver det
 I Halland utgörs de storregionala tågen av
-finnas kapacitet för kommersiella aktörer att
 Öresundståg.
-bedriva tågtrafik. Justeringar av den
-upphandlade persontågtrafiken kan behöva
+
 Regiontåg
-göras för att anpassa och harmonisera den
 Regiontåg stannar på regionalt stora
-med det kommersiella utbudet av
+
 stationer. Inriktningen är att tågen ska köras
-persontågstrafik. Upphandlad och
 i 180 – 200 km/h och ha normal komfort för
-kommersiell tågtrafik kompletterar varandra
 resor som är 30 minuter upp till 60 minuter.
-och bidrar tillsammans till att öka det totala
 I Halland utgörs de regionala tågen av
-utbudet av tågtrafik.
 Västtåg, Krösatåg och Pågatåg.
 
-Trafikförsörjningsprogram 2026-2030 62
+Lokaltåg
+Lokaltåg stannar på alla stationer.
 
+Inriktningen är att tågen ska köras i 140–160
+km/h och ha en komfort för resor som är 15
+minuter upp till 60 minuter. I Halland utgörs
+de lokala tågen av Västtåg och Pågatåg.
+
+Kommersiell persontågstrafik
+
+Utöver den tågtrafik som Region Halland
+avser att ansvara för och bedriva, behöver det
+finnas kapacitet för kommersiella aktörer att
+bedriva tågtrafik. Justeringar av den
+upphandlade persontågtrafiken kan behöva
+
+göras för att anpassa och harmonisera den
+med det kommersiella utbudet av
+persontågstrafik. Upphandlad och
+kommersiell tågtrafik kompletterar varandra
+och bidrar tillsammans till att öka det totala
+
+utbudet av tågtrafik.
+
+Trafikförsörjningsprogram 2026-2030 62
 Sida 76 av 290
 
 <!-- sida 118 -->
 
 Figur 4. Schematisk bild över tågsystemen i Halland och deras parallella
-
 förhållanden till varandra.
 
-utvecklingsförutsättningarna är som mest
 6.2 Trafikering Västkustbanan
-gynnsamma. Det är också här som
-majoriteten av bostadsbyggandet förväntas
+
 Västkuststråket är det största och viktigaste
-ske. Kopplingen till Göteborgs- och
 transportstråket i Halland. Västkustbanan
 spelar en central roll i att förbinda städerna
-Öresundsregionen samt utbytet mellan
 längs kusten. Inom detta stråk nås Göteborg,
-orterna längs kusten i Halland är avgörande
+
 med möjlighet att resa vidare till Oslo och
-för regionens fortsatta utveckling. Ju större
 Stockholm, samt Malmö/Köpenhamn med
-arbetsmarknadsregioner som tillgängliggörs,
 koppling söderut genom Fehmarn Bält-
-desto större utvecklings- och valmöjligheter
 förbindelsen mot Hamburg. Majoriteten av
-för Halland och dess invånare.
 hallänningarna bor längs västkuststråket, där
+
+utvecklingsförutsättningarna är som mest
+gynnsamma. Det är också här som
+majoriteten av bostadsbyggandet förväntas
+
+ske. Kopplingen till Göteborgs- och
+
+Öresundsregionen samt utbytet mellan
+orterna längs kusten i Halland är avgörande
+för regionens fortsatta utveckling. Ju större
+arbetsmarknadsregioner som tillgängliggörs,
+desto större utvecklings- och valmöjligheter
+
+för Halland och dess invånare.
+
 Trafikförsörjningsprogram 2026-2030 63
 Sida 77 av 290
 
 <!-- sida 119 -->
 
-Öresundståg                      varje timme i båda riktningarna mellan
-Göteborg och Malmö/Köpenhamn.
+Öresundståg
 Öresundståg är ett storregionalt tågsystem i
+
 samarbete med grannregionerna, som binder
-Västtåg Kungsbacka – Göteborg
 samman det flerkärniga Halland med
-(Kungsbackapendeln)
 omvärlden. Behovet av ett tågsystem med
-högre hastighet och stopp i      Västtåg Kungsbacka – Göteborg är ett
-kommunhuvudorterna bedöms gagna  lokaltågsystem i samarbete med Västra
-Halland, med hänsyn till dess geografiska Götalandsregionen. Tågen gör uppehåll vid
-läge mellan två storstadslän och det de halländska stationerna i Kungsbacka,
-tillhörande behovet av korta restider över Hede och Anneberg. När Västlänken är tagen
-länsgränserna. Befintlig säckstationen vid i drift stannar tågen vid de nya stationerna
-Göteborgs Central kommer även    vid Korsvägen och Haga följt av Göteborg C.
-fortsättningsvis vara slutdestination för Tågsystemet planeras fortsätta utmed
-Öresundståg, vilket innebär att Öresundståg Norge/Vänerbanan och sammankopplas med
-inte kommer att trafikera genom Västlänken. Ale-pendeln.
+högre hastighet och stopp i
+kommunhuvudorterna bedöms gagna
 
-Nuläge                           Nuläge
-Öresundståg trafikerar i dag sträckan mellan Kungsbackapendeln trafikerar i dag med två
+Halland, med hänsyn till dess geografiska
+läge mellan två storstadslän och det
+tillhörande behovet av korta restider över
+länsgränserna. Befintlig säckstationen vid
+Göteborgs Central kommer även
 
-Göteborg och Malmö/Köpenhamn med en avgångar varje timme i båda riktningarna
-avgång varje timme i båda riktningarna. På mellan Kungsbacka och Göteborg. På
-vardagar förstärks utbudet med ytterligare vardagar förstärks utbudet under morgon och
-avgångar under morgon och eftermiddag på eftermiddag, vilket resulterar i en avgång
-delar av sträckan, vilket resulterar i en varje kvart i båda riktningarna.
+fortsättningsvis vara slutdestination för
+Öresundståg, vilket innebär att Öresundståg
+inte kommer att trafikera genom Västlänken.
 
+Nuläge
+
+Öresundståg trafikerar i dag sträckan mellan
+Göteborg och Malmö/Köpenhamn med en
+avgång varje timme i båda riktningarna. På
+vardagar förstärks utbudet med ytterligare
+avgångar under morgon och eftermiddag på
+
+delar av sträckan, vilket resulterar i en
 avgång varje halvtimme i båda riktningarna
-Trafikering 2028–2034
 mellan Göteborg och Halmstad.
+
+Trafikering 2028–2034
+
 Inriktningen är att, när järnvägens
-Trafikering 2028–2034            infrastruktur så möjliggör och i takt med ett
-Inriktningen är att, när järnvägens ökat resbehov, trafikera med två avgångar
-infrastruktur så möjliggör och i takt med ett varje timme i båda riktningarna mellan
-ökat resbehov, trafikera med en avgång varje Kungsbacka och Göteborg. På vardagar
-timme i båda riktningarna mellan Göteborg förstärks trafiken under dagtid, vilket
-och Malmö/Köpenhamn. På vardagar resulterar i en avgång varje kvart i båda
-förstärks utbudet med fler avgångar under riktningarna.
+infrastruktur så möjliggör och i takt med ett
+ökat resbehov, trafikera med en avgång varje
+timme i båda riktningarna mellan Göteborg
+och Malmö/Köpenhamn. På vardagar
+förstärks utbudet med fler avgångar under
 
 morgon och eftermiddag, vilket resulterar i
-Trafikering 2035–2050
 en avgång varje halvtimme i båda
-riktningarna mellan Göteborg och Inriktningen är att, när järnvägens
-Malmö/Köpenhamn.                 infrastruktur så möjliggör och i takt med ett
+riktningarna mellan Göteborg och
+Malmö/Köpenhamn.
+
+Trafikering 2035–2050
+
+Inriktningen är att, när järnvägens
+infrastruktur så möjliggör och i takt med ett
 ökat resbehov, trafikera med två avgångar
-Trafikering 2035–2050            varje timme i båda riktningarna mellan
-Inriktningen är att, när järnvägens Kungsbacka och Göteborg. Under stora delar
-infrastruktur så möjliggör och i takt med ett av trafikdygnet förstärks trafiken med
+
+varje timme i båda riktningarna mellan
+Göteborg och Malmö/Köpenhamn.
+
+Västtåg Kungsbacka – Göteborg
+
+(Kungsbackapendeln)
+Västtåg Kungsbacka – Göteborg är ett
+lokaltågsystem i samarbete med Västra
+
+Götalandsregionen. Tågen gör uppehåll vid
+de halländska stationerna i Kungsbacka,
+Hede och Anneberg. När Västlänken är tagen
+i drift stannar tågen vid de nya stationerna
+vid Korsvägen och Haga följt av Göteborg C.
+
+Tågsystemet planeras fortsätta utmed
+Norge/Vänerbanan och sammankopplas med
+Ale-pendeln.
+
+Nuläge
+
+Kungsbackapendeln trafikerar i dag med två
+avgångar varje timme i båda riktningarna
+mellan Kungsbacka och Göteborg. På
+vardagar förstärks utbudet under morgon och
+eftermiddag, vilket resulterar i en avgång
+
+varje kvart i båda riktningarna.
+
+Trafikering 2028–2034
+Inriktningen är att, när järnvägens
+infrastruktur så möjliggör och i takt med ett
+
 ökat resbehov, trafikera med två avgångar
+varje timme i båda riktningarna mellan
+Kungsbacka och Göteborg. På vardagar
+förstärks trafiken under dagtid, vilket
+resulterar i en avgång varje kvart i båda
+riktningarna.
+
+Trafikering 2035–2050
+Inriktningen är att, när järnvägens
+infrastruktur så möjliggör och i takt med ett
+
+ökat resbehov, trafikera med två avgångar
+varje timme i båda riktningarna mellan
+Kungsbacka och Göteborg. Under stora delar
+av trafikdygnet förstärks trafiken med
 
 Trafikförsörjningsprogram 2026-2030 64
-
 Sida 78 av 290
 
 <!-- sida 120 -->
 
-ytterligare avgångar, vilket resulterar i en ytterligare avgångar, vilket resulterar i en
-avgång varje kvart i båda riktningarna. avgång varje halvtimme i båda riktningarna.
-Ett framtida scenario är att förlänga
-Västtåg Varberg – Göteborg
-tågsystemet söderut till Halmstad, förutsatt
-(Hallandståg)                    att detta svarar mot nya resbehov. En
-Västtåg Varberg – Göteborg är ett förutsättning, i det fall tågsystemet förlängs
-regiontågsystem i samarbete med Västra söderut, är att detta inte påverkar restiderna
-Götalandsregionen. Tågen gör uppehåll vid för snabbtågen och de storregionala
-de halländska stationerna i Varberg, Åsa och Öresundstågen.
+ytterligare avgångar, vilket resulterar i en
+avgång varje kvart i båda riktningarna.
 
+Västtåg Varberg – Göteborg
+
+(Hallandståg)
+Västtåg Varberg – Göteborg är ett
+regiontågsystem i samarbete med Västra
+
+Götalandsregionen. Tågen gör uppehåll vid
+de halländska stationerna i Varberg, Åsa och
 Kungsbacka. Tågsystemet är en förutsättning
-Pågatåg Halmstad – Helsingborg
 för att tillgodose resbehovet vid den
-Pågatåg Halmstad – Helsingborg är ett
 planerade tågstationen i Värö. När
-lokaltågsystem i samarbete med Region
+
 Västlänken är tagen i drift stannar tågen vid
-Skåne. Tågen gör uppehåll vid de halländska
 de nya stationerna vid Korsvägen och Haga
-stationerna i Halmstad och Laholm.
 följt av Göteborg C. Tågsystemet planeras
-Tågtrafiken startade i december 2015 i
 fortsätta utmed Västra Stambanan mot
-samband med invigningen av
 Skaraborg.
-Hallandsåstunneln. Idag vänder de Pågatåg
-Nuläge                           vilka trafikerar under hela trafikdygnet, i
-Förslöv. Region Skåne, tillsammans med
-Hallandståg trafikerar i dag med avgångar
-Trafikverket, planerar att bygga ett vändspår i
-som kompletterar och avlastar de
-Båstad och genom detta kan Pågatågen
-storregionala Öresundstågen mellan Varberg
-förlängas norrut och trafikera
-och Göteborg, i den utsträckning järnvägens
-kommunhuvudorten Båstad.
-infrastruktur tillåter.
+
 Nuläge
+
+Hallandståg trafikerar i dag med avgångar
+som kompletterar och avlastar de
+storregionala Öresundstågen mellan Varberg
+och Göteborg, i den utsträckning järnvägens
+
+infrastruktur tillåter.
+
 Trafikering 2028–2034
-Pågatåg trafikerar i dag med avgångar som
 Inriktningen är att, när järnvägens
-kompletterar och avlastar de storregionala
+
 infrastruktur så möjliggör och i takt med ett
-Öresundstågen mellan Halmstad och
 ökat resbehov, trafikera med en avgång varje
-Helsingborg. På vardagar under morgon och
 timme i båda riktningarna mellan Varberg
-eftermiddag skapar Pågatåg tillsammans med
 och Göteborg. På vardagar förstärks trafiken
-Öresundståg ett samlat utbud med en avgång
 under morgon och eftermiddag, vilket
-varje halvtimme i båda riktningarna.
 resulterar i en avgång varje halvtimme i båda
+
 riktningarna.
-Trafikering 2028–2034
-Trafikering 2035–2050            Inriktningen är att, när järnvägens
-infrastruktur så möjliggör och i takt med ett
+
+Trafikering 2035–2050
 Inriktningen är att, när järnvägens
-ökat resbehov, Pågatåg ska trafikera sträckan
+
 infrastruktur så möjliggör och i takt med ett
-mellan Helsingborg och Båstad. Vid denna
 ökat resbehov, trafikera med en avgång varje
-tidpunkt förstärks utbudet med fler
 timme i båda riktningarna mellan Varberg
-storregionala Öresundståg under morgon och
 och Göteborg. Under stora delar av
-eftermiddag, vilket resulterar i en avgång
 trafikdygnet förstärks trafiken med
+
+ytterligare avgångar, vilket resulterar i en
+avgång varje halvtimme i båda riktningarna.
+Ett framtida scenario är att förlänga
+
+tågsystemet söderut till Halmstad, förutsatt
+att detta svarar mot nya resbehov. En
+förutsättning, i det fall tågsystemet förlängs
+söderut, är att detta inte påverkar restiderna
+för snabbtågen och de storregionala
+
+Öresundstågen.
+
+Pågatåg Halmstad – Helsingborg
+Pågatåg Halmstad – Helsingborg är ett
+lokaltågsystem i samarbete med Region
+Skåne. Tågen gör uppehåll vid de halländska
+
+stationerna i Halmstad och Laholm.
+Tågtrafiken startade i december 2015 i
+samband med invigningen av
+Hallandsåstunneln. Idag vänder de Pågatåg
+vilka trafikerar under hela trafikdygnet, i
+
+Förslöv. Region Skåne, tillsammans med
+Trafikverket, planerar att bygga ett vändspår i
+Båstad och genom detta kan Pågatågen
+förlängas norrut och trafikera
+kommunhuvudorten Båstad.
+
+Nuläge
+
+Pågatåg trafikerar i dag med avgångar som
+kompletterar och avlastar de storregionala
+Öresundstågen mellan Halmstad och
+
+Helsingborg. På vardagar under morgon och
+eftermiddag skapar Pågatåg tillsammans med
+Öresundståg ett samlat utbud med en avgång
+varje halvtimme i båda riktningarna.
+
+Trafikering 2028–2034
+
+Inriktningen är att, när järnvägens
+infrastruktur så möjliggör och i takt med ett
+ökat resbehov, Pågatåg ska trafikera sträckan
+mellan Helsingborg och Båstad. Vid denna
+
+tidpunkt förstärks utbudet med fler
+storregionala Öresundståg under morgon och
+eftermiddag, vilket resulterar i en avgång
+
 Trafikförsörjningsprogram 2026-2030 65
 Sida 79 av 290
 
 <!-- sida 121 -->
 
-varje halvtimme i båda riktningarna mellan stationerna i Varberg, Tofta, Derome och
-Göteborg och Malmö/Köpenhamn.    Veddige.
+varje halvtimme i båda riktningarna mellan
+Göteborg och Malmö/Köpenhamn.
 
-Trafikering 2035–2050            Nuläge
+Trafikering 2035–2050
 
-Ett framtida scenario är att förlänga Västtåg trafikerar i dag med en avgång varje
-tågsystemet norrut till Halmstad, förutsatt att timme i båda riktningarna på vardagar under
-detta svarar mot nya resbehov. En morgon och eftermiddag. Under övriga tider
-förutsättning, i det fall tågsystemet förlängs trafikeras sträckan mellan Varberg och Borås
-söderut, är att detta inte påverkar restiderna med en avgång varannan timme i båda
+Ett framtida scenario är att förlänga
+tågsystemet norrut till Halmstad, förutsatt att
+detta svarar mot nya resbehov. En
+förutsättning, i det fall tågsystemet förlängs
 
-för snabbtågen och de storregionala riktningarna.
+söderut, är att detta inte påverkar restiderna
+för snabbtågen och de storregionala
 Öresundstågen.
+
+6.3 Trafikering Viskadalsbanan
+
+Viskadalsbanan förbinder Varberg och Borås,
+två expansiva orter med delvis
+kompletterande arbetsmarknader. Genom att
+tillhandahålla en attraktiv persontågtrafik på
+Viskadalsbanan finns det en betydande
+
+potential för att ytterligare stärka och
+integrera arbetsmarknaderna.
+
+Med sikte på 2050 är målsättningen att
+restiden mellan Varberg och Borås ska
+reduceras till 50 minuter. För att uppnå detta
+mål krävs fortsatta investeringar i
+järnvägsanläggningen tillsammans med en
+
+eventuell minskning av antalet tågstationer.
+Det är av särskild vikt att tidtabellerna
+utformas utifrån taktfasta intervaller med
+avgångar på samma minuttal varje timme,
+vilket skapar enkelhet och tydlighet för
+
+resenärerna. Viskadalsbanan har även en
+nationell betydelse som omledningsbana för
+Västkustbanan.
+
+Västtåg Varberg – Borås
+
+(Viskadalsbanan)
+Västtåg Varberg – Borås är ett
+regiontågsystem i samarbete med Region
+Skåne. Tågen gör uppehåll vid de halländska
+
+stationerna i Varberg, Tofta, Derome och
+Veddige.
+
+Nuläge
+
+Västtåg trafikerar i dag med en avgång varje
+timme i båda riktningarna på vardagar under
+morgon och eftermiddag. Under övriga tider
+trafikeras sträckan mellan Varberg och Borås
+
+med en avgång varannan timme i båda
+riktningarna.
+
 Trafikering 2028–2034
 Inriktningen är att, när järnvägens
-6.3 Trafikering Viskadalsbanan
+
 infrastruktur så möjliggör och i takt med ett
-Viskadalsbanan förbinder Varberg och Borås,
 ökat resbehov, trafikera med en avgång varje
-två expansiva orter med delvis
 timme i båda riktningarna på vardagar
-kompletterande arbetsmarknader. Genom att
 mellan Varberg och Borås. Under övriga tider
-tillhandahålla en attraktiv persontågtrafik på
 trafikeras sträckan med en avgång varannan
-Viskadalsbanan finns det en betydande
+
 timme i båda riktningarna.
-potential för att ytterligare stärka och
-integrera arbetsmarknaderna.     Trafikering 2035–2050
+
+Trafikering 2035–2050
 Inriktningen är att, när järnvägens
-Med sikte på 2050 är målsättningen att
 infrastruktur så möjliggör och i takt med ett
-restiden mellan Varberg och Borås ska
+
 ökat resbehov, trafikera med en avgång varje
-reduceras till 50 minuter. För att uppnå detta
 timme i båda riktningarna mellan Varberg
-mål krävs fortsatta investeringar i
 och Borås.
-järnvägsanläggningen tillsammans med en
-eventuell minskning av antalet tågstationer.
-Det är av särskild vikt att tidtabellerna 6.4 Trafikering Halmstad
-utformas utifrån taktfasta intervaller med Nässjö Järnväg (HNJ-banan)
-avgångar på samma minuttal varje timme,
+
+6.4 Trafikering Halmstad
+Nässjö Järnväg (HNJ-banan)
+
 HNJ-banan förbinder Halmstad med
-vilket skapar enkelhet och tydlighet för
 Värnamo. Dagens persontågstrafik på HNJ-
-resenärerna. Viskadalsbanan har även en
 banan har en karaktär av såväl regional som
-nationell betydelse som omledningsbana för
 interregional kollektivtrafik.
-Västkustbanan.
+
 Med sikte på 2050 är målsättningen att
-Västtåg Varberg – Borås
+
 restiden mellan Halmstad och Värnamo ska
-(Viskadalsbanan)                 reduceras till 90 minuter. För vidare resande
-Västtåg Varberg – Borås är ett   mot Jönköping är målsättningen en total
-regiontågsystem i samarbete med Region restid på 140 minuter. För att uppnå detta
-Skåne. Tågen gör uppehåll vid de halländska mål krävs fortsatta investeringar i
+reduceras till 90 minuter. För vidare resande
+mot Jönköping är målsättningen en total
+restid på 140 minuter. För att uppnå detta
+mål krävs fortsatta investeringar i
+
 järnvägsanläggningen tillsammans med en
+
 Trafikförsörjningsprogram 2026-2030 66
 Sida 80 av 290
 
 <!-- sida 122 -->
 
-eventuell minskning av antalet tågstationer. ökat resbehov, trafikera med en avgång
-Det är av särskild vikt att tidtabellerna varannan timme i båda riktningarna mellan
-utformas utifrån taktfasta intervaller med Halmstad och Värnamo/Jönköping.
+eventuell minskning av antalet tågstationer.
+Det är av särskild vikt att tidtabellerna
+utformas utifrån taktfasta intervaller med
+
 avgångar på samma minuttal varje timme,
-Testperiod HNJ, 2017 – 2020
 vilket skapar enkelhet och tydlighet för
-resenärerna.                     En treårig satsning i projektform inleddes vid
-tidtabellsskiftet i december 2017, med
+resenärerna.
+
 I det tidigare Regionala
-målsättningen att öka antalet resenärer och
 Trafikförsörjningsprogrammet för åren 2021
-att kostnadstäckningsgraden skulle uppgå till
 \- 2025 beskrevs att en treårig satsning i
-minst 30 procent. Som en del av projektet
+
 projektform skulle genomföras med
-utökades antalet avgångar och miljön runt
 målsättningen att antalet resenärer skulle
-stationerna på den halländska delen av banan
 öka. I senare del av detta kapitel finns en
-rustades upp. I samarbete med kommunerna
 redogörelse av testperiodens utfall
-genomfördes påverkans-, informations- och
 tillsammans med en genomförd studie i
-marknadsföringsåtgärder.
 stråket Halmstad – Hyltebruk.
-Slutsatserna av den genomförda testperioden
+
 Krösatåg Halmstad – Värnamo –
-visade att resandet ökade med 36 procent,
-Jönköping (Nässjö)               medan trafikkostnaderna ökade med 30
-Krösatåg Halmstad – Värnamo –    procent, vilket innebar att
-Jönköping/Nässjö är ett regiontågsystem i kostnadstäckningsgraden låg kvar på cirka 25
-procent. I Halmstad ökade antalet påstigande
+Jönköping (Nässjö)
+Krösatåg Halmstad – Värnamo –
+
+Jönköping/Nässjö är ett regiontågsystem i
 samarbete med Region Jönköpings län.
-med 40 procent, samtidigt som snittresandet
 Tågen gör uppehåll vid de halländska
-per tur låg kvar på samma nivå som tidigare.
 stationerna i Halmstad, Sannarp,
-Inom projektet genomfördes
 Oskarström, Torup, Kinnared och Landeryd.
+
+Nuläge
+Krösatåg trafikerar i dag med fem avgångar i
+båda riktningarna på vardagar. På lördagar
+och söndagar trafikeras sträckan av fyra
+
+avgångar i båda riktningarna.
+
+Trafikering 2028–2034
+Inriktningen är att, när järnvägens
+infrastruktur så möjliggör och i takt med ett
+
+ökat resbehov, trafikera med en avgång
+varannan timme i båda riktningarna mellan
+Halmstad och Värnamo/Jönköping.
+
+Trafikering 2035–2050
+
+Inriktningen är att, när järnvägens
+infrastruktur så möjliggör och i takt med ett
+
+ökat resbehov, trafikera med en avgång
+varannan timme i båda riktningarna mellan
+Halmstad och Värnamo/Jönköping.
+
+Testperiod HNJ, 2017 – 2020
+
+En treårig satsning i projektform inleddes vid
+tidtabellsskiftet i december 2017, med
+målsättningen att öka antalet resenärer och
+att kostnadstäckningsgraden skulle uppgå till
+
+minst 30 procent. Som en del av projektet
+utökades antalet avgångar och miljön runt
+stationerna på den halländska delen av banan
+rustades upp. I samarbete med kommunerna
+genomfördes påverkans-, informations- och
+
+marknadsföringsåtgärder.
+
+Slutsatserna av den genomförda testperioden
+visade att resandet ökade med 36 procent,
+medan trafikkostnaderna ökade med 30
+procent, vilket innebar att
+kostnadstäckningsgraden låg kvar på cirka 25
+
+procent. I Halmstad ökade antalet påstigande
+med 40 procent, samtidigt som snittresandet
+per tur låg kvar på samma nivå som tidigare.
+Inom projektet genomfördes
 kundundersökningar som visade att
 resenärernas helhetsintryck i stort sett
-Nuläge
 förblev oförändrat. Testperioden indikerade
-Krösatåg trafikerar i dag med fem avgångar i
+
 att det finns en större marknad för
-båda riktningarna på vardagar. På lördagar
 vardagsresande i stråket för att tillgodose
-och söndagar trafikeras sträckan av fyra
 resor till arbete och studier. Men för att möta
-avgångar i båda riktningarna.
 detta behov krävs dock fler avgångar än ett
 tåg varannan timme, vilket HNJ-banan idag
-Trafikering 2028–2034
 inte möjliggör. En av projektets slutsatser är
-Inriktningen är att, när järnvägens
+
 därmed att den parallella regionbusstrafiken i
-infrastruktur så möjliggör och i takt med ett
 stråket fortsatt är av stor betydelse.
-ökat resbehov, trafikera med en avgång Analyserna bakom slutsatserna omfattar
-varannan timme i båda riktningarna mellan bedömningar av resbehov och kostnader. De
-Halmstad och Värnamo/Jönköping.  visar att nuvarande infrastruktur, kapacitet
+Analyserna bakom slutsatserna omfattar
+bedömningar av resbehov och kostnader. De
+visar att nuvarande infrastruktur, kapacitet
 och trafikupplägg inte möjliggör tätare trafik
-Trafikering 2035–2050
 än tvåtimmarsintervall utan att äventyra
-Inriktningen är att, när järnvägens stabilitet och punktlighet.
-infrastruktur så möjliggör och i takt med ett
+
+stabilitet och punktlighet.
+
 Trafikförsörjningsprogram 2026-2030 67
 Sida 81 av 290
 
 <!-- sida 123 -->
 
-Stråkutredning Halmstad –        kostnadsbild. Dessutom skulle det totala
-kollektivtrafikutbudet till och från Hyltebruk
+Stråkutredning Halmstad –
 Hyltebruk, 2021
-minska på grund av färre bussavgångar.
+
 En stråkutredning har genomförts baserat på
 det regionala trafikförsörjnings-programmet
 som antogs i december 2020. Programmet
-6.5 Trafikering
-betonade behovet av ett långsiktigt beslut Markarydsbanan
+betonade behovet av ett långsiktigt beslut
+
 angående HNJ-banan, vilken delvis passerar
-Markarydsbanan sträcker sig mellan
 genom stråket. Syftet med utredningen var
-Eldsberga och Hässleholm. Genom att starta
 att undersöka möjligheterna till
-persontågstrafik på Markarydsbanan
 samhällsutveckling genom samverkan mellan
-tillgodoses behovet av arbets- och
 berörda kommuner, regioner och andra
-studiependling samt annat vardagsresande i
+
 intressenter med inriktningen att skapa
-stråket. Tågtrafiken innebär även att nya
 förutsättningar för fler bostäder,
-kopplingar skapas mellan södra Halland och
 näringslivsetableringar och hållbara resor.
-regionala kärnor längs Södra stambanan och
-Stockholm, genom byten i Hässleholm.
+
 Inom ramen för stråkstudien genomfördes en
 kollektivtrafikutredning mellan
-Med sikte på 2050 är målsättningen att
 kommunhuvudorten Hyltebruk och
-restiden mellan Halmstad och Hässleholm
+
 Halmstad. Utredningen omfattade olika
-ska reduceras till 50 minuter. För att uppnå
 alternativ, inklusive ett regionalt
-detta mål krävs fortsatta investeringar i
 superbusskoncept och en utvecklad tågtrafik.
-järnvägsanläggningen. Det är av särskild vikt
 Superbusskonceptet innebär fordon med hög
-att tidtabellerna utformas utifrån taktfasta
 komfort och prioritet i trafikmiljön, med
-intervaller med avgångar på samma minuttal
+
 stopp endast vid stationsliknande hållplatser.
-varje timme, vilket skapar enkelhet och
 Restiden med buss beräknades enligt
-tydlighet för resenärerna. Markarydsbanan
 utredningen kunna uppgå till 53 minuter
-har även en nationell betydelse som
 mellan kommunhuvudorterna.
-omledningsbana för Västkustbanan.
+
 Utredningen undersökte även tågtrafik med
-Pågatåg Halmstad – Hässleholm
 stopp i Sannarp, Åled, Oskarström, Torup
-Pågatåg Halmstad – Hässleholm är ett
 och Rydöbruk. Restiden för tåget beräknades
-regiontågsystem i samarbete med Region
+
 till 45 minuter mellan kommunhuvudorterna.
-Skåne. Tågen ska göra uppehåll vid de
 Utredningen konstaterade att stora
-halländska stationerna i Halmstad, Veinge
 investeringar i järnvägens infrastruktur
-och Knäred. Tågtrafiken planeras att starta i
 krävs, och att en ny lokaltågslinje mellan
-december 2027, vilket förutsätter att två nya
 Halmstad och Hyltebruk skulle innebära att
-stationer samt ett nytt mötesspår i Knäred
+
 den befintliga regionaltågslinjen till Värnamo
-färdigställs.
 behöver läggas ned. Denna slutats grundas
 på, utöver investeringar i järnvägens
-Trafikering 2028–2034
 infrastruktur, att två parallella tågsystem inte
-Inriktningen är att, när järnvägens
 bedöms samhällsekonomiskt motiverade
-infrastruktur så möjliggör och i takt med ett
+
 utifrån dagens resandeunderlag och
+
+kostnadsbild. Dessutom skulle det totala
+kollektivtrafikutbudet till och från Hyltebruk
+minska på grund av färre bussavgångar.
+
+6.5 Trafikering
+Markarydsbanan
+
+Markarydsbanan sträcker sig mellan
+Eldsberga och Hässleholm. Genom att starta
+
+persontågstrafik på Markarydsbanan
+tillgodoses behovet av arbets- och
+studiependling samt annat vardagsresande i
+stråket. Tågtrafiken innebär även att nya
+kopplingar skapas mellan södra Halland och
+
+regionala kärnor längs Södra stambanan och
+Stockholm, genom byten i Hässleholm.
+
+Med sikte på 2050 är målsättningen att
+restiden mellan Halmstad och Hässleholm
+ska reduceras till 50 minuter. För att uppnå
+detta mål krävs fortsatta investeringar i
+
+järnvägsanläggningen. Det är av särskild vikt
+att tidtabellerna utformas utifrån taktfasta
+intervaller med avgångar på samma minuttal
+varje timme, vilket skapar enkelhet och
+tydlighet för resenärerna. Markarydsbanan
+har även en nationell betydelse som
+
+omledningsbana för Västkustbanan.
+
+Pågatåg Halmstad – Hässleholm
+Pågatåg Halmstad – Hässleholm är ett
+regiontågsystem i samarbete med Region
+
+Skåne. Tågen ska göra uppehåll vid de
+halländska stationerna i Halmstad, Veinge
+och Knäred. Tågtrafiken planeras att starta i
+december 2027, vilket förutsätter att två nya
+stationer samt ett nytt mötesspår i Knäred
+färdigställs.
+
+Trafikering 2028–2034
+Inriktningen är att, när järnvägens
+infrastruktur så möjliggör och i takt med ett
+
 ökat resbehov, trafikera med en avgång varje
+
 Trafikförsörjningsprogram 2026-2030 68
 Sida 82 av 290
 
 <!-- sida 124 -->
 
-timme i båda riktningarna på vardagar ökat resbehov, erbjuda en avgång varje
-mellan Halmstad och Hässleholm. Under timme i båda riktningarna mellan Halmstad
-övriga tider trafikeras sträckan med en och Hässleholm.
+timme i båda riktningarna på vardagar
+mellan Halmstad och Hässleholm. Under
+övriga tider trafikeras sträckan med en
+
 avgång varannan timme i båda riktningarna.
 
 Trafikering 2035–2050
-
 Inriktningen är att, när järnvägens
 infrastruktur så möjliggör och i takt med ett
 
-Trafikförsörjningsprogram 2026-2030 69
+ökat resbehov, erbjuda en avgång varje
+timme i båda riktningarna mellan Halmstad
+och Hässleholm.
 
+Trafikförsörjningsprogram 2026-2030 69
 Sida 83 av 290
 
 <!-- sida 125 -->
@@ -6024,130 +7450,185 @@ Sida 84 av 290
 
 <!-- sida 126 -->
 
-Halland är ett starkt växande län och har alla utvecklas. Tillgången till omloppsnära
-förutsättningar att bidra till Sveriges tillväxt. En uppställning av tågfordon utgör en
-väl fungerande och utbyggd       grundläggande förutsättning för effektiva och
-transportinfrastruktur är ett viktigt redskap för robusta trafikeringsupplägg. Genom ytterligare
-att Halland fortsatt ska kunna bidra till kapacitetshöjande investeringar i
+Halland är ett starkt växande län och har alla
+förutsättningar att bidra till Sveriges tillväxt. En
+väl fungerande och utbyggd
 
-välfärden och skapa möjligheter för ett hållbara järnvägssystemet, exempelvis genom fler mötes-
-resor och transporter. Den beskrivna målbilden och förbigångsspår, kan nyttan av genomförda
-för tågtrafiken, som redogörs för i detta kapitel, infrastrukturobjekt realiseras.
+transportinfrastruktur är ett viktigt redskap för
+att Halland fortsatt ska kunna bidra till
+välfärden och skapa möjligheter för ett hållbara
+resor och transporter. Den beskrivna målbilden
+för tågtrafiken, som redogörs för i detta kapitel,
+
 förutsätter att staten, genom Trafikverket, tar
-sitt ansvar för byggande, drift och underhåll av Kapaciteten behöver öka i Sveriges
-
+sitt ansvar för byggande, drift och underhåll av
 järnvägsanläggningen. För att öka det hållbara
-näst största regionöverskridande
 resandet är det av yttersta vikt att takten i
-pendlingsstråk.
 genomförandet av åtgärder inom järnvägens
-De regionala Västtågen mellan Varberg och
+
 infrastruktur intensifieras.
-Göteborg planeras för att möta en ökad
-efterfrågan på kollektivtrafikresor och på allvar
+
 Västkuststråket är en livsnerv i
-bidra till de transportpolitiska målen. Sträckan
 Sydvästsverige och påbörjade
-Kungsbacka–Göteborg har redan idag
-projekt längs Västkustbanan      kapacitetsbrist, och åtgärder behövs för att
-behöver slutföras. Detta inkluderar skapa tillräckligt utrymme för både gods- och
-persontrafik. På Kungsbacka C behöver
+
+projekt längs Västkustbanan
+behöver slutföras. Detta inkluderar
+
 framför allt ombyggnaden av Halmstad C
-kapaciteten förbättras med vändspår och ett
 bangård, förbigångsspår för godståg vid
-partiellt fyrspår från Kungsbacka C till Hede
 Lekarekulle och en ny station i Värö. Även
-station. På något längre sikt krävs fyrspår hela
 projekt utanför länet, såsom dubbelspår mellan
-vägen mellan Kungsbacka och Göteborg.
+
 Helsingborg och Maria, Västlänken i Göteborg
 och åtgärder i Mölndal, behöver färdigställas.
-När Fehmarn Bält-förbindelsen öppnar 2029, Inlandsjärnvägarna behöver bli
-förväntas trycket på det sydsvenska robustare samt möjliggöra tåg i
+När Fehmarn Bält-förbindelsen öppnar 2029,
+förväntas trycket på det sydsvenska
 transportsystemet att öka. Detta ställer krav på
-högre hastighet.
+
 förbättrad kapacitet i järnvägssystemet,
-Det förebyggande underhållet av järnvägen
 eftersom både gods- och persontrafiken behöver
-behöver förstärkas. Idag finns det delar av
 kunna samsas.
+
+Nya investeringar är nödvändiga
+för att realisera nyttan av tidigare
+
+genomförda och pågående
+infrastrukturobjekt.
+Ett tydligt behov föreligger för en ny
+
+uppställningsbangård i närheten av Halmstad C,
+vilket är av yttersta vikt för att
+persontågstrafiken ska kunna fortsätta
+
+utvecklas. Tillgången till omloppsnära
+uppställning av tågfordon utgör en
+grundläggande förutsättning för effektiva och
+
+robusta trafikeringsupplägg. Genom ytterligare
+kapacitetshöjande investeringar i
+järnvägssystemet, exempelvis genom fler mötes-
+och förbigångsspår, kan nyttan av genomförda
+infrastrukturobjekt realiseras.
+
+Kapaciteten behöver öka i Sveriges
+näst största regionöverskridande
+
+pendlingsstråk.
+De regionala Västtågen mellan Varberg och
+Göteborg planeras för att möta en ökad
+
+efterfrågan på kollektivtrafikresor och på allvar
+bidra till de transportpolitiska målen. Sträckan
+Kungsbacka–Göteborg har redan idag
+kapacitetsbrist, och åtgärder behövs för att
+skapa tillräckligt utrymme för både gods- och
+
+persontrafik. På Kungsbacka C behöver
+kapaciteten förbättras med vändspår och ett
+partiellt fyrspår från Kungsbacka C till Hede
+station. På något längre sikt krävs fyrspår hela
+vägen mellan Kungsbacka och Göteborg.
+
+Inlandsjärnvägarna behöver bli
+robustare samt möjliggöra tåg i
+
+högre hastighet.
+Det förebyggande underhållet av järnvägen
+behöver förstärkas. Idag finns det delar av
+
 järnvägsanläggningen som är över hundra år
 gamla, vilket medför ett ökat behov av
-Nya investeringar är nödvändiga
 avhjälpande underhåll. Kollektivtrafiken, som
-för att realisera nyttan av tidigare utgör en samhällsviktig funktion, måste
-genomförda och pågående          kunna upprätthållas även under
+utgör en samhällsviktig funktion, måste
+kunna upprätthållas även under
+
 ogynnsamma väderförhållanden. En
-infrastrukturobjekt.
 förebyggande åtgärd är att genomföra
-Ett tydligt behov föreligger för en ny
 trädsäkring av specifika sträckor, vilket skulle
-uppställningsbangård i närheten av Halmstad C,
 möjliggöra att tågtrafiken på Viskadalsbanan
-vilket är av yttersta vikt för att
 och HNJ-banan kan fortgå även vid kraftiga
-persontågstrafiken ska kunna fortsätta
+
 vindar. Dessutom behöver obevakade
+
 Trafikförsörjningsprogram 2026-2030 71
 Sida 85 av 290
 
 <!-- sida 127 -->
 
-plankorsningar byggas bort, vilket är av stor en unik möjlighet att öka kapaciteten genom
-vikt för att möjliggöra kortare restider. Behov att använda längre och mer kapacitetsstarka
-av samtidig infart och fler mötesspår finns på tåg. Att köra med längre fordon innebär att
-vissa sträckor inom järnvägsanläggningen vissa perronger behöver förlängas, men detta
-samt att fjärrstyrning av        bedöms vara en mycket kostnadseffektiv
+plankorsningar byggas bort, vilket är av stor
+vikt för att möjliggöra kortare restider. Behov
+av samtidig infart och fler mötesspår finns på
 
-signalanläggningarna förespråkas. Ett metod för att öka kapaciteten i
-alternativ för att minska restiderna är att se järnvägssystemet jämfört med den
-över uppehållsbilden för persontågstrafiken omfattande utbyggnad av spårkapaciteten
-utmed inlandsjärnvägarna.        som annars skulle krävas. Denna strategi är i
-linje med Trafikverkets fyrstegsprincip, som
+vissa sträckor inom järnvägsanläggningen
+samt att fjärrstyrning av
+signalanläggningarna förespråkas. Ett
+alternativ för att minska restiderna är att se
+över uppehållsbilden för persontågstrafiken
+
+utmed inlandsjärnvägarna.
+
 För att effektivt öka kapaciteten
-förespråkar att man först överväger åtgärder
-behöver trafikering med längre   som kan påverka behovet av transporter och
-resor samt valet av transportsätt, och därefter
+behöver trafikering med längre
+
 persontåg möjliggöras med hög
-optimerar användningen av befintlig
 resenärskapacitet.
-infrastruktur innan man överväger större
+
 Den förestående anskaffningen av nya
-ombyggnationer eller nyinvesteringar.
 tågfordon för Öresundstågssystemet erbjuder
+
+en unik möjlighet att öka kapaciteten genom
+att använda längre och mer kapacitetsstarka
+tåg. Att köra med längre fordon innebär att
+
+vissa perronger behöver förlängas, men detta
+bedöms vara en mycket kostnadseffektiv
+metod för att öka kapaciteten i
+järnvägssystemet jämfört med den
+omfattande utbyggnad av spårkapaciteten
+
+som annars skulle krävas. Denna strategi är i
+linje med Trafikverkets fyrstegsprincip, som
+förespråkar att man först överväger åtgärder
+som kan påverka behovet av transporter och
+resor samt valet av transportsätt, och därefter
+
+optimerar användningen av befintlig
+infrastruktur innan man överväger större
+ombyggnationer eller nyinvesteringar.
+
 Infrastrukturella behov
+
 Planerade och pågående projekt
 (preliminär byggtid)
 
 1\. Västlänken: Etapp 1 och 2                (2020–2027 och -2030)
-
 2\. Pilekrogen: Uppställningsspår            (2028–2029)
+
 5\. Lekarekulle: Förbigångsspår              (2030–2032)
-
 7\. Värö station: Ny station                 (2030–2032)
+
 8\. Tyllered: Förbigångsspår                 (2033–2035)
-
 9\. Brännarp: Förbigångsspår                 (2033–2035)
-10\. Halmstad C: Bangårdsombyggnad           (2029–2030)
 
+10\. Halmstad C: Bangårdsombyggnad           (2029–2030)
 11\. Halmstad C: Uppställningsbangård
-och hamnanslutning                       (2033–2037)
+
+och hamnanslutning                        (2033–2037)
 12\. Knäred och Veinge: Mötesspår och två stationer (2025–2027)
 
 13\. Båstad: Vändspår                        (2026–2027)
-
 14\. Helsingborg C – Maria: Dubbelspår       (2032 -)
+
 ERTMS etapputbyggnad: Nytt signalsystem     (2033–2035)
 
 Behov av investeringar
 
 3\. Kungsbacka – Göteborg: Fyrspår Hede - Mölndal
-
 4\. Kungsbacka C: Vändspår inkl. partiellt fyrspår Kungsbacka - Hede
+
 6\. Viskadalsbanan: Hastighetshöjning och mötesspår
 
 Trafikförsörjningsprogram 2026-2030 72
-
 Sida 86 av 290
 
 <!-- sida 128 -->
@@ -6160,161 +7641,224 @@ Sida 87 av 290
 
 <!-- sida 129 -->
 
-6.6 Nya tågstationer             Stationskriterier
-För att bedöma behovet av en ny station har
+6.6 Nya tågstationer
+
 En ort med tågstation har en god
-ett antal kriterier arbetats fram. Kriterierna
 utgångspunkt för utveckling genom att
-kommer att användas vid en analys om en ny
 attrahera inflyttare och företagsetableringar.
-station ska öppnas eller inte, oberoende
 Det är dock inte stationen i sig som avgör
-vilken järnväg det gäller. Kriterierna kan
+
 ortens attraktivitet. Faktorer som påverkar
-också tillämpas vid en analys av att ta bort en
 utvecklingen i en stationsort inkluderar bland
-befintlig station. Först om samtliga kriterier
 annat ortens service- och bostadsutbud,
-uppfylls ska Region Halland och
 pendlingsavstånd till större arbetsmarknader,
-Hallandstrafiken tillsammans med berörd
 turutbudet i tågsystemet samt restiden i
-kommun arbeta vidare med etableringen av
+
 förhållande till bil.
-en eventuellt ny station. Kriterierna är fem
-Nya tågstationer ska vara tydligt kopplade till till antalet och beskrivs nedan.
+
+Nya tågstationer ska vara tydligt kopplade till
 samhällsutveckling och bostadsbyggande. Det
 måste kunna påvisas regionala
-Kriterie 1: Restiden med tåg får inte
 samhällsnyttor för att fler stationer ska bli
-öka mellan befintliga stationer i
 aktuella och generellt gäller att en ny station
-snabbtågssystemet och det
+
 ska bidra till ett nettotillskott av resor. Nya
-storregionala Öresundstågssystemet.
 stationsetableringar ska byggas på ett sådant
 sätt att robustheten och pålitligheten i
 befintlig tågtrafik inte försämras. Det är även
-En viktig förutsättning vid öppnandet av en
 viktigt att framtida utvecklingsmöjligheter,
-ny station är att det inte får påverka de
+
 exempelvis en uppgradering av
-snabbaste förbindelserna på Västkustbanan.
 Västkustbanan till 250 km/h, inte försämras
-Den främsta anledningen till detta är att
 av en nyetablerad station och att restiderna i
-Västkustbanan i stor utsträckning nyttjas för
 befintliga tågsystem värnas. De stationer som
-mer långväga resor samt pendling till och
 byggs idag måste kunna möjliggöra för en
-från angränsande regioner. Restiden i dessa
 utveckling av tågtrafiken på banan i
-relationer får därför inte förlängas utan
+
 framtiden. Trafikverkets allmänna
-snarare ska restidsförkortningar eftersträvas.
 bedömning för nya stationer på
 Västkustbanan är att sådana ska byggas med
-förbigångsspår.                   Kriterie 2: Nettoresandet på den
-aktuella banan ska öka, det vill säga
+förbigångsspår.
+
 För att möta ett ökat resande, stärka
-att man ska vinna fler resenärer än
 kopplingarna till angränsande
-man förlorar. Även framtida
+
 arbetsmarknadsregioner och bidra till en
-utveckling ska beaktas vid
 överflyttning från bil till kollektivtrafik, krävs
-bedömningen
 insatser som stärker kapaciteten och
 bibehåller eller förbättrar restiderna i
 järnvägssystemet. Detta är särskilt relevant i
-En annan viktig förutsättning för att en ny
+
 stråk med växande pendling, såsom längs
-station ska öppnas är att tågresandet totalt
 Västkuststråket.
+
+Stationskriterier
+För att bedöma behovet av en ny station har
+
+ett antal kriterier arbetats fram. Kriterierna
+kommer att användas vid en analys om en ny
+station ska öppnas eller inte, oberoende
+vilken järnväg det gäller. Kriterierna kan
+också tillämpas vid en analys av att ta bort en
+
+befintlig station. Först om samtliga kriterier
+uppfylls ska Region Halland och
+Hallandstrafiken tillsammans med berörd
+kommun arbeta vidare med etableringen av
+en eventuellt ny station. Kriterierna är fem
+
+till antalet och beskrivs nedan.
+
+Kriterie 1: Restiden med tåg får inte
+öka mellan befintliga stationer i
+
+snabbtågssystemet och det
+storregionala Öresundstågssystemet.
+
+En viktig förutsättning vid öppnandet av en
+ny station är att det inte får påverka de
+snabbaste förbindelserna på Västkustbanan.
+Den främsta anledningen till detta är att
+
+Västkustbanan i stor utsträckning nyttjas för
+mer långväga resor samt pendling till och
+från angränsande regioner. Restiden i dessa
+relationer får därför inte förlängas utan
+snarare ska restidsförkortningar eftersträvas.
+
+Kriterie 2: Nettoresandet på den
+aktuella banan ska öka, det vill säga
+
+att man ska vinna fler resenärer än
+man förlorar. Även framtida
+utveckling ska beaktas vid
+bedömningen
+
+En annan viktig förutsättning för att en ny
+station ska öppnas är att tågresandet totalt
 sett ska öka. När en ny station öppnas medför
+
 Trafikförsörjningsprogram 2026-2030 74
 Sida 88 av 290
 
 <!-- sida 130 -->
 
 det längre restid för de resenärer som redan
-Kriterie 4: Infrastrukturens
 befinner sig på tåget. En förlängd restid gör
-kostnadseffektivitet ska beaktas, det
 resan mindre attraktiv och kan leda till att
-vill säga att investeringskostnaden
+
 tåget förlorar resenärer. Potentialen för hur
-för kapacitetsförstärkning av järnväg
 många som kan komma att resa från en ny
-och stationer ska vägas mot det
 station måste också bedömas. Faktorer att
-förväntade resandetillskottet.
 beakta inkluderar demografiska
 förutsättningar, såsom var och hur många
+
 som bor och arbetar inom
-upptagningsområdet för en eventuell ny Även kostnaderna för de
-station, samt hur arbetspendlingen ser ut. infrastrukturåtgärder som krävs för att öppna
-Dessutom behöver förutsättningarna för att en ny station måste beaktas. För samtliga nya
-nå nya arbetsmarknader och kommande stationer krävs investeringar i form av nya
-utbyggnadsplaner vägas in. Om potentialen plattformar och gångförbindelser till
-för nya resenärer är större än den beräknade plattformarna, samt i vissa fall även mötes-
-resandeförlusten kan det, ur ett och förbigångsspår. Hur stora dessa
-resandeperspektiv, vara motiverat att öppna kostnader blir beror på den befintliga
-en ny station.                   infrastrukturen och vilken kvalitetsstandard
-som måste uppfyllas, vilket kan variera från
-bana till bana och från ort till ort.
+upptagningsområdet för en eventuell ny
+station, samt hur arbetspendlingen ser ut.
+Dessutom behöver förutsättningarna för att
+nå nya arbetsmarknader och kommande
+
+utbyggnadsplaner vägas in. Om potentialen
+för nya resenärer är större än den beräknade
+resandeförlusten kan det, ur ett
+resandeperspektiv, vara motiverat att öppna
+en ny station.
+
 Kriterie 3: Tågtrafikens
 kostnadseffektivitet ska beaktas. För
-En bedömning av huruvida det är möjligt och
 att en ny tågstation ska vara aktuell,
-ekonomiskt rimligt att motivera kostnaderna
+
 ska satsningen bidra till
-måste göras i förhållande till antalet
 måluppfyllelse avseende
-tillkommande resenärer som investeringen
 kollektivtrafikens
-förväntas bidra med. Även potentiell framtida
 kostnadstäckningsgrad.
+
+Även om det skulle kunna finnas ett
+tillräckligt resandeunderlag för att motivera
+
+öppnandet av en ny station, måste de
+ekonomiska konsekvenserna noggrant
+övervägas. Ytterligare tågstopp innebär
+längre körtider, vilket kan leda till ökade
+kostnader för personal och drift. Om
+
+tåglinjernas omloppstider påverkas,
+tillkommer kostnader för ytterligare personal
+och fordon. Kostnaden för att erbjuda några
+få personer en bättre resa med tåg kan
+därmed snabbt bli orimligt hög för samhället.
+
+Kriterie 4: Infrastrukturens
+kostnadseffektivitet ska beaktas, det
+vill säga att investeringskostnaden
+
+för kapacitetsförstärkning av järnväg
+och stationer ska vägas mot det
+förväntade resandetillskottet.
+
+Även kostnaderna för de
+infrastrukturåtgärder som krävs för att öppna
+en ny station måste beaktas. För samtliga nya
+
+stationer krävs investeringar i form av nya
+plattformar och gångförbindelser till
+plattformarna, samt i vissa fall även mötes-
+och förbigångsspår. Hur stora dessa
+kostnader blir beror på den befintliga
+
+infrastrukturen och vilken kvalitetsstandard
+som måste uppfyllas, vilket kan variera från
+bana till bana och från ort till ort.
+
+En bedömning av huruvida det är möjligt och
+ekonomiskt rimligt att motivera kostnaderna
+måste göras i förhållande till antalet
+tillkommande resenärer som investeringen
+
+förväntas bidra med. Även potentiell framtida
 tillväxt ska beaktas. För att kunna etablera en
 ny station kan kapacitetshöjande åtgärder,
 såsom förbigångs- eller mötesspår, vara
-Även om det skulle kunna finnas ett nödvändiga. Dessa åtgärder kan finansieras
-tillräckligt resandeunderlag för att motivera genom nationell och regional plan.
-öppnandet av en ny station, måste de
-ekonomiska konsekvenserna noggrant
+nödvändiga. Dessa åtgärder kan finansieras
+
+genom nationell och regional plan.
+
 Kriterie 5: Region Halland och berörd
-övervägas. Ytterligare tågstopp innebär
+
 kommun ska tillsammans ta fram en
-längre körtider, vilket kan leda till ökade
 avsiktsförklaring där kommunen
-kostnader för personal och drift. Om
 förbinder sig till att utveckla orten
-tåglinjernas omloppstider påverkas,
 genom ökad attraktivitet och en
-tillkommer kostnader för ytterligare personal
 aktiv kommunal planering för att
-och fordon. Kostnaden för att erbjuda några
+
 säkerställa och bygga upp ytterligare
-få personer en bättre resa med tåg kan
 resandeunderlag.
-därmed snabbt bli orimligt hög för samhället.
+
 Trafikförsörjningsprogram 2026-2030 75
 Sida 89 av 290
 
 <!-- sida 131 -->
 
-exempelvis genom utbyggnad av bostäder
-För att Region Halland ska satsa på att öppna eller satsningar på service som gör orten mer
-en ny station är det en förutsättning att attraktiv att bo i. På så sätt skapas
-berörd kommun och regionen samplanerar förutsättningar för att upprätthålla och
-för att maximera utväxlingen av de förstärka stationens resandeunderlag,
+För att Region Halland ska satsa på att öppna
+en ny station är det en förutsättning att
+berörd kommun och regionen samplanerar
 
-investeringar som krävs. Utöver  samtidigt som det gynnar befolkningen i
-infrastrukturinvesteringar ska kommunen orten och dess omland.
+för att maximera utväxlingen av de
+investeringar som krävs. Utöver
+infrastrukturinvesteringar ska kommunen
 arbeta för att öka ortens attraktivitet,
 
-Trafikförsörjningsprogram 2026-2030 76
+exempelvis genom utbyggnad av bostäder
+eller satsningar på service som gör orten mer
+attraktiv att bo i. På så sätt skapas
 
+förutsättningar för att upprätthålla och
+förstärka stationens resandeunderlag,
+samtidigt som det gynnar befolkningen i
+orten och dess omland.
+
+Trafikförsörjningsprogram 2026-2030 76
 Sida 90 av 290
 
 <!-- sida 132 -->
@@ -6373,157 +7917,209 @@ Sida 92 av 290
 
 <!-- sida 134 -->
 
-är väghållare ansvarar den för
 7.2 Hållplatser och stationer
-markanläggningar och ytor för fordon,
-gående och cyklister. Region Halland
+
 Region Hallands avsätter medel i den
-ansvarar, genom Hallandstrafiken, för
 regionala infrastrukturplanen för att
-väderskydd, och servicefunktioner för
 stimulera och medverka till att hållplatser
-resenärerna. Utformning, design, placering
 kan byggas ut. Grundregeln är att
-med mera ska följa Hallandstrafikens
+
 väghållaren, kommunen eller staten, ansvarar
-riktlinjer. I Kungsbacka gäller Västtrafiks
 för markanläggningar och
-riktlinjer för utformning av
 kollektivtrafikmyndigheten ansvarar för
-hållplatsutrustning.
 anordningar för resenärerna. I
 Hallandstrafiken hållplatshandbok beskrivs
-Utveckling av bytespunkter och
+
 hur kostnadsansvaret fördelas mellan Region
-pendlarparkeringar kan möjliggöra att fler
 Halland och kommunerna. När kommunen
+
+är väghållare ansvarar den för
+markanläggningar och ytor för fordon,
+gående och cyklister. Region Halland
+
+ansvarar, genom Hallandstrafiken, för
+väderskydd, och servicefunktioner för
+resenärerna. Utformning, design, placering
+med mera ska följa Hallandstrafikens
+riktlinjer. I Kungsbacka gäller Västtrafiks
+
+riktlinjer för utformning av
+hållplatsutrustning.
+
+Utveckling av bytespunkter och
+pendlarparkeringar kan möjliggöra att fler
+
 Trafikförsörjningsprogram 2026-2030 79
 Sida 93 av 290
 
 <!-- sida 135 -->
 
-använder kollektivtrafiken för delar av sin tågtrafiken. I många relationer delas detta
-resa. Västkustbanans upptagningsområde ansvar med Hallands grannregioner. Det
-kan till exempel utvecklas vidare och nå innebär bland annat ansvar för upphandling
-områden som inte har underlag för en av tågfordon, att definiera behoven av lokal
-anslutande kollektivtrafik om möjligheterna och regional tågtrafik samt nödvändig
+använder kollektivtrafiken för delar av sin
+resa. Västkustbanans upptagningsområde
+kan till exempel utvecklas vidare och nå
 
-är goda för att ansluta med bil. Genom kapacitet i järnvägens infrastruktur för denna
-samplanering mellan bebyggelse,  trafik.
+områden som inte har underlag för en
+anslutande kollektivtrafik om möjligheterna
+är goda för att ansluta med bil. Genom
+samplanering mellan bebyggelse,
 infrastruktur- och kollektivtrafikplanering
-God tillgänglighet till kollektivtrafiken för alla
+
 kan planeringen av dessa platser bidra till att
-resenärsgrupper och hög standard på större
 skapa bättre förutsättningar för att använda
-bytespunkter är viktiga förutsättningar för
 och kombinera gång, cykel, bil och
-kollektivtrafiken. Ansvaret för denna del av
 kollektivtrafik.
-kollektivtrafikens infrastruktur är en
-gemensam angelägenhet för staten genom
+
 7.3 Trafikering och fordon
-Trafikverket, Region Halland och
-kommunerna. Det är därför viktigt att
+
 Region Halland har rådighet över
-parterna samplanerar och når samsyn i frågor
 busstrafikens utbud och linjedragningar
-som rör utvecklingen av kollektivtrafikens
 medan kommunerna genom fysisk planering
-infrastruktur.
 och trafikplanering kan skapa långsiktiga
 förutsättningar för ökat resande. För att
-Staten har ansvar för investeringar på statliga
+
 skapa en attraktiv busstrafik för resenärerna
-vägar och järnvägar. Regionen har stort
 finns det ett antal parametrar som är särskilt
-inflytande över de regionala investeringarna
 viktiga att beakta: avgångstider, restider,
-genom att regionen upprättar förslag till
 pålitlighet, framkomlighet och enkelhet.
-regional infrastrukturplan. I den regionala
-planen finns medel avsatta för investeringar i
+
 En god turtäthet skapar flexibilitet och
-kollektivtrafiken. För kommunernas del
 innebär att kollektivtrafiken kan användas för
-omfattar ansvaret kommunala gator, vägar
+
 pendling till arbete och studier, men det är
-och bussgator.
 även viktigt att trafiken trafikerar under stora
 delar av dygnet. Restiderna får inte vara för
-Från den regionala infrastrukturplanen kan
 långa jämfört med en bilresa och systemet
-det utgå medfinansiering till
 behöver vara pålitligt och lätt att ta till sig.
-kollektivtrafikanläggningar inom kommunalt
+
 För att lyckas skapa en konkurrenskraftig och
-väghållarområde. Samfinansiering mellan
 attraktiv busstrafik krävs också att satsningar
-flera berörda parter är vanligt förekommande
 görs för att låta bussen få plats och företräde i
-och utgår ofta från en bedömning av hur stor
 stadsmiljön. Sådana satsningar förutsätter ett
-samhällsekonomisk nytta varje part kan
 ömsesidigt åtagande från kommun och
-tillgodoräkna sig. Vid byggnation av nya eller
+
 Region Halland och en samsyn parterna
-upprustning av befintliga tågstationer med
 emellan.
+
+Som regional kollektivtrafikmyndighet är det
+Region Halland som ansvarar för att planera,
+finansiera och bedriva den regionala
+
+tågtrafiken. I många relationer delas detta
+ansvar med Hallands grannregioner. Det
+innebär bland annat ansvar för upphandling
+
+av tågfordon, att definiera behoven av lokal
+och regional tågtrafik samt nödvändig
+kapacitet i järnvägens infrastruktur för denna
+trafik.
+
+God tillgänglighet till kollektivtrafiken för alla
+resenärsgrupper och hög standard på större
+
+bytespunkter är viktiga förutsättningar för
+kollektivtrafiken. Ansvaret för denna del av
+kollektivtrafikens infrastruktur är en
+gemensam angelägenhet för staten genom
+Trafikverket, Region Halland och
+kommunerna. Det är därför viktigt att
+
+parterna samplanerar och når samsyn i frågor
+som rör utvecklingen av kollektivtrafikens
+infrastruktur.
+
+Staten har ansvar för investeringar på statliga
+vägar och järnvägar. Regionen har stort
+inflytande över de regionala investeringarna
+
+genom att regionen upprättar förslag till
+regional infrastrukturplan. I den regionala
+planen finns medel avsatta för investeringar i
+kollektivtrafiken. För kommunernas del
+omfattar ansvaret kommunala gator, vägar
+
+och bussgator.
+
+Från den regionala infrastrukturplanen kan
+det utgå medfinansiering till
+kollektivtrafikanläggningar inom kommunalt
+väghållarområde. Samfinansiering mellan
+flera berörda parter är vanligt förekommande
+och utgår ofta från en bedömning av hur stor
+
+samhällsekonomisk nytta varje part kan
+tillgodoräkna sig. Vid byggnation av nya eller
+upprustning av befintliga tågstationer med
 angränsande ytor, ska avtal upprättas mellan
 berörda parter och Region Halland om
-Som regional kollektivtrafikmyndighet är det
+
 stationsutformning inklusive angränsande
-Region Halland som ansvarar för att planera,
 resenärsfunktioner och framtida drift och
-finansiera och bedriva den regionala
+
 Trafikförsörjningsprogram 2026-2030 80
 Sida 94 av 290
 
 <!-- sida 136 -->
 
-underhåll. Grundprinciperna är att staten I den första fasen ska parterna enas och nå
-genom Trafikverket finansierar åtgärder på samsyn om det gemensamma åtagande de
-järnvägsanläggningen. Kommunen   står inför. Denna fas kännetecknas av samtal
-finansierar alla övriga investeringar som och politisk beredning. När parterna är
-behövs för att stationen ska fungera väl för överens tecknas detta ned i en gemensam
+underhåll. Grundprinciperna är att staten
+genom Trafikverket finansierar åtgärder på
+järnvägsanläggningen. Kommunen
 
-resenärerna.                     avsiktsförklaring. Avsiktsförklaringen blir
-även den gemensamma målbilden för den
-fortsatta planeringen.
+finansierar alla övriga investeringar som
+behövs för att stationen ska fungera väl för
+resenärerna.
+
 7.4 Samplaneringsmodellen
-I den andra fasen startar planeringen.
+
 Som ett led i att konkretisera och öka
-Planeringen av åtgärder i
 samplaneringen har en modell för
-transportinfrastrukturen och samhälls- och
 samplanering tagits fram. Modellen beskriver
-bebyggelseplanering är kopplad till lagen om
 processen för samplaneringsobjekt och ska
-byggande av väg och järnväg respektive plan-
 användas vid större satsningar för att
-och bygglagen. Parterna ska gemensamt och
+
 underlätta att kollektivtrafik- och
-var för sig arbeta mot det som beskrivs i
 infrastrukturplanering samt samhälls- och
-avsiktsförklaringen.
 bebyggelseplanering går i takt. Med hjälp av
 modellen blir den gemensamma
-Den tredje fasen är en fas med
 viljeinriktningen tydlig och den gemensamma
-genomförande, vilken föregås av ett
 planeringen kan påbörjas utan att alla bitar
-genomförandeavtal där kostnadsbärare
+
 är på plats. Modellen bygger på tre faser:
-reglerats. Investeringarna i infrastruktur och
 samsyn, planering och
-kollektivtrafik ska driftsättas och
 genomförande/byggande. Faserna regleras
-investeringar i samhälls- och
 med en avsiktsförklaring och ett
-bebyggelseplanering färdigställas.
 genomförandeavtal.
 
-Trafikförsörjningsprogram 2026-2030 81
+I den första fasen ska parterna enas och nå
+samsyn om det gemensamma åtagande de
+står inför. Denna fas kännetecknas av samtal
 
+och politisk beredning. När parterna är
+överens tecknas detta ned i en gemensam
+avsiktsförklaring. Avsiktsförklaringen blir
+även den gemensamma målbilden för den
+fortsatta planeringen.
+
+I den andra fasen startar planeringen.
+
+Planeringen av åtgärder i
+transportinfrastrukturen och samhälls- och
+bebyggelseplanering är kopplad till lagen om
+byggande av väg och järnväg respektive plan-
+och bygglagen. Parterna ska gemensamt och
+var för sig arbeta mot det som beskrivs i
+
+avsiktsförklaringen.
+
+Den tredje fasen är en fas med
+genomförande, vilken föregås av ett
+genomförandeavtal där kostnadsbärare
+reglerats. Investeringarna i infrastruktur och
+kollektivtrafik ska driftsättas och
+
+investeringar i samhälls- och
+bebyggelseplanering färdigställas.
+
+Trafikförsörjningsprogram 2026-2030 81
 Sida 95 av 290
 
 <!-- sida 137 -->
@@ -6535,32 +8131,47 @@ Detta kapitel beskriver den särskilda kollektivtrafikens
 förutsättningar samt strategier och målsättningar.
 
 8.1 Bakgrund och ramverk
-Den anpassade kollektivtrafiken utgörs skolbuss- och sjukreselinjer. Den anpassade
 
-primärt av olika former av transporter som kollektivtrafiken har sin utgångspunkt i olika
-utförs med grund i olika lagrum och som ger lagrum och har organisatoriskt olika
-en resenär rätt att resa under vissa villkor. uppdragsgivare och kostnadsbärare.
-Detta inkluderar både ett beviljande av resan, Samordning och samplanering sker inom och
-en beställning/planering av resan samt själva mellan respektive trafikslag för att uppnå
+Den anpassade kollektivtrafiken utgörs
+primärt av olika former av transporter som
+utförs med grund i olika lagrum och som ger
+en resenär rätt att resa under vissa villkor.
 
-utförandet av denna. Dessa benämns på högsta kostnadseffektivitet. Syftet med
-nationellt plan som Särskilda    samverkan rörande uppdragen är att få ut
-persontransporter vilket erbjuds en mer samhällsnytta än om de hanterats var
-definierad målgrupp med särskilt tillstånd och en för sig. Den anpassade
-eller behörighet.                kollektivtrafiken ska sträva efter att spegla
+Detta inkluderar både ett beviljande av resan,
+en beställning/planering av resan samt själva
+utförandet av denna. Dessa benämns på
+nationellt plan som Särskilda
+persontransporter vilket erbjuds en
 
-den allmänna kollektivtrafiken, där det är
+definierad målgrupp med särskilt tillstånd
+eller behörighet.
+
 I Halland benämns färdtjänst, sjukresor och
-rimligt och möjligt. Hänsyn tas dock till
 skolskjuts som former av anpassad
-resenärens behov utifrån rättigheter som ges
 kollektivtrafik och utförs med anropsstyrd
-i lagstiftning och följande
 trafik eller särskilt arrangerade linjer såsom
+
+skolbuss- och sjukreselinjer. Den anpassade
+kollektivtrafiken har sin utgångspunkt i olika
+lagrum och har organisatoriskt olika
+
+uppdragsgivare och kostnadsbärare.
+Samordning och samplanering sker inom och
+mellan respektive trafikslag för att uppnå
+högsta kostnadseffektivitet. Syftet med
+samverkan rörande uppdragen är att få ut
+
+mer samhällsnytta än om de hanterats var
+och en för sig. Den anpassade
+kollektivtrafiken ska sträva efter att spegla
+den allmänna kollektivtrafiken, där det är
+rimligt och möjligt. Hänsyn tas dock till
+
+resenärens behov utifrån rättigheter som ges
+i lagstiftning och följande
 myndighetsutövning.
 
 Trafikförsörjningsprogram 2026-2030 82
-
 Sida 96 av 290
 
 <!-- sida 138 -->
@@ -6568,262 +8179,393 @@ Sida 96 av 290
 Figur 6. Schematisk beskrivning av ansvarsfördelning och funktioner för färdtjänst, skolskjuts, sjukresor och allmän
 kollektivtrafik.
 
-Figuren ovan visar ansvar och funktioner har av samtliga kommuner i Halland
-inom de olika formerna av särskilda överlämnats till Region Halland, undantaget
+Figuren ovan visar ansvar och funktioner
+inom de olika formerna av särskilda
 persontransporter som överlämnats till
-myndighetsutövningen i Kungsbacka
+
 Region Halland och de transporter som
-kommun.
 utförs i nära anslutning till dessa som allmän
 kollektivtrafik. Hallandstrafiken utför
-Riksfärdtjänst
 uppdragen enligt en självkostnadsprincip dvs
-Riksfärdtjänst (Lag om Riksfärdtjänst
 att det är kommunerna som bekostar den
-1997:735) avser de resor inom Sverige som
+
 totala verksamheten. Hallandstrafiken har
-görs utanför länsfärdtjänstområdet. Dessa
 ingen egen budget för verksamheten men ska
-utförs primärt med allmän kollektivtrafik och
 inte heller göra något överskott. Syftet med
-efter särskild prövning.
 denna samverkan är att få en mer socialt och
 ekonomisk trafik än om varje huvudman
-Sjukresor
+
 hade hanterat sin egen trafik.
+
+Färdtjänst
+Färdtjänsten regleras i Lag (1997:736) om
+färdtjänst och enligt lagen är kommunen
+ansvarig för färdtjänst.
+
+Myndighetsutövningen och utförandet av
+färdtjänst, riksfärdtjänst och länsfärdtjänst
+
+har av samtliga kommuner i Halland
+överlämnats till Region Halland, undantaget
+
+myndighetsutövningen i Kungsbacka
+kommun.
+
+Riksfärdtjänst
+
+Riksfärdtjänst (Lag om Riksfärdtjänst
+1997:735) avser de resor inom Sverige som
+görs utanför länsfärdtjänstområdet. Dessa
+utförs primärt med allmän kollektivtrafik och
+
+efter särskild prövning.
+
+Sjukresor
 Grunderna för sjukresor styrs av Lag om
 resekostnadsersättning vid sjukresa
-Färdtjänst
 (1991:419). Sjukvårdshuvudmannen, det vill
-Färdtjänsten regleras i Lag (1997:736) om
+
 säga Region Halland, ansvarar för prövning
-färdtjänst och enligt lagen är kommunen
 och resekostnadsersättning vid sjukresor.
-ansvarig för färdtjänst.
 Resorna samplaneras med övrig anropsstyrd
-Myndighetsutövningen och utförandet av
 trafik och organiseras av
-färdtjänst, riksfärdtjänst och länsfärdtjänst
 Ambulanssjukvården Halland. Beställning av
+
 Trafikförsörjningsprogram 2026-2030 83
 Sida 97 av 290
 
 <!-- sida 139 -->
 
-sjukresor görs via Hallandstrafikens förändringar och resvanor är avgörande för
-beställningscentral.             att kunna möta framtida behov.
+sjukresor görs via Hallandstrafikens
+beställningscentral.
 
 Skolskjuts
-Beräknad procentuell förändring
+
 Enligt Skollagen (2010:800) har elever i
-av befolkning 75+ år fram till 2040
 grundskola med offentlig huvudman rätt till
-– Halländska kommuner
 kostnadsfri skolskjuts till den skola som
-eleven placeras i av kommunen. Kommunen  Varberg: +49%
-är därmed skyldig att anordna skolskjuts om  Falkenberg: +42%
+eleven placeras i av kommunen. Kommunen
+är därmed skyldig att anordna skolskjuts om
+
 skolskjuts behövs på grund av färdvägens
-  Laholm: +42%
 längd, trafikförhållanden,
-  Kungsbacka: +38%
 funktionsnedsättning hos elev eller någon
-annan särskild omständighet.        Halmstad: +33%
-Myndighetsutövningen utförs av kommunen.  Hylte: +25%
+annan särskild omständighet.
+Myndighetsutövningen utförs av kommunen.
+
 Planeringen, utefter elevens förutsättningar,
 sker hos Hallandstrafiken där allmän
 kollektivtrafik, skolbussar och anropsstyrd
-Befolkningsdemografin med en högre andel
 trafik används.
+
+8.2 Planeringsförutsättningar
+
+Befolkningsprognoser och
+framtida resandeutveckling
+
+Region Halland beaktar
+befolkningsprognoser och resandeutveckling
+för att planera framtidens anpassade
+kollektivtrafik. Andelen äldre i Halland
+
+förväntas öka mellan 25–50 procent
+beroende på kommun, vilket kommer ställa
+krav på ökad kapacitet och effektivitet inom
+den anpassade kollektivtrafiken. En
+detaljerad analys av demografiska
+
+förändringar och resvanor är avgörande för
+att kunna möta framtida behov.
+
+Beräknad procentuell förändring
+av befolkning 75+ år fram till 2040
+– Halländska kommuner
+
+  Varberg: +49%
+
+  Falkenberg: +42%
+  Laholm: +42%
+
+  Kungsbacka: +38%
+  Halmstad: +33%
+
+  Hylte: +25%
+
+Befolkningsdemografin med en högre andel
 äldre kommer ställa höga krav på samhällets
 resurser, även inom Serviceresor och framför
-8.2 Planeringsförutsättningar
 allt färdtjänst. Även sjukresor förväntas öka
 dock kommer detta endast ske med hänsyn
-Befolkningsprognoser och
+
 taget till vårdkapaciteten och
-framtida resandeutveckling
 vårdinrättningarnas möjlighet att möta ett
-Region Halland beaktar           ökat behov av vårdbesök.
-befolkningsprognoser och resandeutveckling
+ökat behov av vårdbesök.
+
 Elevunderlaget förväntas bli mindre under de
-för att planera framtidens anpassade
 kommande åren. Hur detta påverkar antalet
-kollektivtrafik. Andelen äldre i Halland
 skolresor beror till stor del på var
-förväntas öka mellan 25–50 procent
 kommunerna planerar att bedriva
-beroende på kommun, vilket kommer ställa
+
 skolundervisning och huruvida dessa beslut
-krav på ökad kapacitet och effektivitet inom
 innebär ett ökat behov av skolskjuts. Om
-den anpassade kollektivtrafiken. En
 beslut tas att lägga ner skolor på grund av
-detaljerad analys av demografiska
 sviktande elevunderlag kan behovet av
 skolskjuts vara fortsatt högt, eftersom
+
 avståndet till närmaste skola ökar och fler
 tillstånd för skolskjuts därmed beviljas.
+
 8.3 Mål och vision
 Halland som bästa livsplatsen ska även
+
 återspeglas inom den anpassade
 kollektivtrafiken. Det grundläggande
+
 Trafikförsörjningsprogram 2026-2030 84
 Sida 98 av 290
 
 <!-- sida 140 -->
 
-uppdraget är att tillgodose behovet av 10% av trafikkostnaderna sett över en
-särskilda persontransporter (färdtjänst, längre period.
+uppdraget är att tillgodose behovet av
+särskilda persontransporter (färdtjänst,
 sjukresor och skolskjuts) och med dessa
-• Arbeta för att fler resor ska ske i den
+
 behov som bas bidra till en ökad tillgång av
-allmänna kollektivtrafiken där det är
 regional kollektivtrafik, primärt i form av
-rimligt och möjligt.
 grundläggande resmöjligheter, till exempel
 Närtrafik. I denna symbios ligger en
-Ovan nämnda mål innebär att verksamheten
 tvärfunktionell samverkan där fokus
-bedrivs kostnadseffektivt och långsiktigt
+
 förflyttas till att utforma transportsystem
-hållbart. Genom att samordna resor och
 som ger så mycket samhällsnytta som möjligt
-effektivisera transporterna kan den
 för hallänningen. Detta kräver fortsatt god
-förväntade resandeökningen mötas
 samverkan mellan kommun och region.
-ekonomiskt utan att det äventyrar
-uppdragens sociala hållbarhet.
+
 Region Halland och de halländska
 kommunerna har idag kommit långt inom
-Inriktning för Social hållbarhet
 detta område. Samtliga halländska
-kommuner har idag överlåtit      Mål som ska bidra till social hållbarhet
+
+kommuner har idag överlåtit
 transportbehovet för färdtjänst och sjukresor
-• Den anpassade kollektivtrafiken ska
 och skolskjuts till Region Halland vilket
-uppfattas som trygg och säker.
 möjliggör samplanering och samordning av
-• Bidra till att överbrygga
 dessa behov på bästa sätt. Halland har därför
-förflyttningshinder och underlätta ett
+
 idag goda förutsättningar att fortsätta
-aktivt deltagande i samhällslivet för
 utveckla en anpassad kollektivtrafik som
-personer med särskilda behov, vilket
 uppfyller behoven både för särskilda
-främjar jämlikhet och social inkludering.
 persontransporter och regional
-kollektivtrafik, för mer samhällsnytta. • Fortsatt digitalisering för ökad inkludering
-och självservice via digitala tjänster med
+kollektivtrafik, för mer samhällsnytta.
+
 Region Halland arbetar aktivt med hållbarhet
-möjlighet att få hjälp och stöd av
+
 inom den anpassade kollektivtrafiken.
-Hallandstrafiken.
 Hållbarhetsperspektivet omfattar tre
-• Bidra till att fler invånare inom Halland
 dimensioner: ekonomisk, social och ekologisk
-har tillgång till allmän kollektivtrafik.
 hållbarhet.
+
 Inriktning för ekonomisk hållbarhet
-Inriktning för ekologisk
-Mål som ska bidra till ekonomisk hållbarhet
+
+Mål som ska bidra till ekonomisk
 hållbarhet
-Mål som ska bidra till hållbar miljö
+
 • Samordningsgraden ska vara god. Målet
-är att 50% av alla resor ska ske med • Anpassad kollektivtrafik ska drivas med
-samåkning och att 90% ska ske med fossilfria bränslen senast år 2030.
-samplanering.                  • Samordningsgraden ska vara god för ett
-• Egenavgiftsintäkter från resenärer inom bättre resurs-och energiutnyttjande.
+är att 50% av alla resor ska ske med
+samåkning och att 90% ska ske med
+
+samplanering.
+• Egenavgiftsintäkter från resenärer inom
 färdtjänst och sjukresor ska utgöra minst
+
+10% av trafikkostnaderna sett över en
+längre period.
+
+• Arbeta för att fler resor ska ske i den
+allmänna kollektivtrafiken där det är
+rimligt och möjligt.
+
+Ovan nämnda mål innebär att verksamheten
+
+bedrivs kostnadseffektivt och långsiktigt
+hållbart. Genom att samordna resor och
+effektivisera transporterna kan den
+förväntade resandeökningen mötas
+ekonomiskt utan att det äventyrar
+
+uppdragens sociala hållbarhet.
+
+Inriktning för Social hållbarhet
+
+Mål som ska bidra till social hållbarhet
+• Den anpassade kollektivtrafiken ska
+
+uppfattas som trygg och säker.
+• Bidra till att överbrygga
+förflyttningshinder och underlätta ett
+aktivt deltagande i samhällslivet för
+
+personer med särskilda behov, vilket
+främjar jämlikhet och social inkludering.
+• Fortsatt digitalisering för ökad inkludering
+
+och självservice via digitala tjänster med
+möjlighet att få hjälp och stöd av
+Hallandstrafiken.
+
+• Bidra till att fler invånare inom Halland
+har tillgång till allmän kollektivtrafik.
+
+Inriktning för ekologisk
+hållbarhet
+
+Mål som ska bidra till hållbar miljö
+
+• Anpassad kollektivtrafik ska drivas med
+fossilfria bränslen senast år 2030.
+
+• Samordningsgraden ska vara god för ett
+bättre resurs-och energiutnyttjande.
+
 Trafikförsörjningsprogram 2026-2030 85
 Sida 99 av 290
 
 <!-- sida 141 -->
 
-Hallandstrafiken strävar efter att använda Social hållbarhet
+Hallandstrafiken strävar efter att använda
 fossilfria fordon och att optimera resvägar för
-Samråd
 att minimera utsläppen. Målet är att alla
-transporter ska vara fossilfria inom en snar Samråd ska löpnade ske med
-framtid.                         brukarorganisationer inom ramen för
-Regional samverkan.
+
+transporter ska vara fossilfria inom en snar
+framtid.
+
 8.4 Utveckling av anpassad
-Digitalisering
+
 kollektivtrafik
-Utveckling av digitala tjänster för att möta
-Den anpassade kollektivtrafikens tidigare ökat behov av digitalisering och
-beskriva visioner och mål anger den tillgänglighet.
+
+Den anpassade kollektivtrafikens tidigare
+beskriva visioner och mål anger den
 strategiska riktningen och sätter ramen för
-verksamhetens utveckling. Framtida Trygghet och säkerhet
+verksamhetens utveckling. Framtida
 utmaningar inom den anpassade
-Trygghet och säkerhet följs idag upp inom
+
 kollektivtrafiken inkluderar ökat behov av
-ramen för den ordinarie verksamheten. Det
 Serviceresor, samt krav på hållbarhet,
-fortsatta arbetet ska syfta till att både
 effektivitet och digitalisering. Mer konkreta
-bibehålla och stärka resenärernas upplevelse
 strategier för att möta de övergripande målen
-av en trygg och säker resa. Detta ska ske
 och visioner benämns nedan.
-genom ett resenärcentrerat arbetssätt som
-utgår från en fördjupad förståelse för
+
 Ekonomisk hållbarhet
-resenärens behov. Parallellt ska arbetet med
-att utveckla och använda rätt systemstöd
+
 Regelverk
-fortgå, för att möjliggöra en snabbare och
 Fortsatt anpassning av regelverk för att
-mer effektiv uppföljning.
 fortsatt säkerställa en god ekonomisk och
 social hållbarhet. Detta sker genom dialog
-Ekologisk hållbarhet
+
 med uppdragsgivare och resenärer. I största
-mån ska regelverken sträva mot att vara Samordning
+mån ska regelverken sträva mot att vara
 regiongemensamma.
+
+Trafikutveckling
+
+Vid en fortsatt resandeutveckling är ingången
+att primärt förädla och fördela om resurser
+för en god kostnadseffektivitet. Detta sker
+genom kontinuerlig översyn av resurserna så
+att det används vid rätt tid och rätt plats.
+
+Detta kräver god dialog och kravställning
+med verksamheter som påverkar resandet. I
+sista hand utökas resurserna. Utöver detta
+ska nya lösningar kontinuerligt bevakas och
+prövas om det finns potential för högre
+
+effektivitet.
+
+Social hållbarhet
+
+Samråd
+Samråd ska löpnade ske med
+
+brukarorganisationer inom ramen för
+Regional samverkan.
+
+Digitalisering
+
+Utveckling av digitala tjänster för att möta
+ökat behov av digitalisering och
+tillgänglighet.
+
+Trygghet och säkerhet
+
+Trygghet och säkerhet följs idag upp inom
+ramen för den ordinarie verksamheten. Det
+fortsatta arbetet ska syfta till att både
+bibehålla och stärka resenärernas upplevelse
+av en trygg och säker resa. Detta ska ske
+
+genom ett resenärcentrerat arbetssätt som
+utgår från en fördjupad förståelse för
+resenärens behov. Parallellt ska arbetet med
+att utveckla och använda rätt systemstöd
+fortgå, för att möjliggöra en snabbare och
+mer effektiv uppföljning.
+
+Ekologisk hållbarhet
+
+Samordning
 Verka för god samordning av serviceresor
 vilket bidrar till mindre klimatavtryck.
-Trafikutveckling
+
 Inkluderar även att få fler att nyttja den
-Vid en fortsatt resandeutveckling är ingången allmänna kollektivtrafiken där det är rimligt
-att primärt förädla och fördela om resurser och möjligt.
-för en god kostnadseffektivitet. Detta sker
-genom kontinuerlig översyn av resurserna så Utveckling
-att det används vid rätt tid och rätt plats.
+allmänna kollektivtrafiken där det är rimligt
+och möjligt.
+
+Utveckling
+
 Ökad användning av fossilfria bränslen och
-Detta kräver god dialog och kravställning
 satsningar på hållbara transportlösningar.
-med verksamheter som påverkar resandet. I
 Optimering av resvägar och samordning
-sista hand utökas resurserna. Utöver detta
 mellan olika trafikslag för att minska
-ska nya lösningar kontinuerligt bevakas och
 kostnader och öka tillgängligheten.
-prövas om det finns potential för högre
-effektivitet.
+
 Trafikförsörjningsprogram 2026-2030 86
 Sida 100 av 290
 
 <!-- sida 142 -->
 
-8.5 Samverkan och uppföljning    berör samtliga. Särskilt viktigt är samverkan
-vid förändringar som berör regelverk och
+8.5 Samverkan och uppföljning
+
 En tät och strukturerad samverkan är en av
-riktlinjer eller förändringar inom
 de viktigaste faktorerna för en positiv
-verksamheten för att uppnå god
 utveckling av den anpassade
-samplanering och samordning av resorna.
 kollektivtrafiken. Regionen har idag en
-väletablerad modell för samverkan och Nuvarande samverkansmodell mellan
-planering av den anpassade kollektivtrafiken kommuner och Region innebär att
-där regelbundna möten och forum ingår kravställning på transporterna behöver
-såsom Forum för Serviceresor, Forum för utformas lika för samtliga, dels med hänsyn
-Färdtjänst samt Samordningsträff skolskjuts. till kostnadsbild och servicenivå, dels
-I dessa forum förs dialog kring  utformning av miljökrav vilket för
-leveranskvalitet och kostnadsutveckling samt närvarande innebär fossilfria bränslen till
-övergripande strategiska vägval i frågor som 2030.
+
+väletablerad modell för samverkan och
+planering av den anpassade kollektivtrafiken
+där regelbundna möten och forum ingår
+såsom Forum för Serviceresor, Forum för
+Färdtjänst samt Samordningsträff skolskjuts.
+
+I dessa forum förs dialog kring
+leveranskvalitet och kostnadsutveckling samt
+övergripande strategiska vägval i frågor som
+
+berör samtliga. Särskilt viktigt är samverkan
+vid förändringar som berör regelverk och
+riktlinjer eller förändringar inom
+
+verksamheten för att uppnå god
+samplanering och samordning av resorna.
+
+Nuvarande samverkansmodell mellan
+kommuner och Region innebär att
+kravställning på transporterna behöver
+utformas lika för samtliga, dels med hänsyn
+
+till kostnadsbild och servicenivå, dels
+utformning av miljökrav vilket för
+närvarande innebär fossilfria bränslen till
+2030\.
 
 Målformulering och indikatorer för uppföljning
 
@@ -6837,8 +8579,8 @@ klimatavtryck
 
 Bättre resurs- och
 energiutnyttjande
-
 Minst 90 procent av Summan av samåkning Kollektivtrafikplan
+
 alla resor ska ske och slingåkning som
 med samplanering andel av antal resor
 
@@ -6856,7 +8598,6 @@ säkerhet        mycket nöjda med
 resan
 
 Trafikförsörjningsprogram 2026-2030 87
-
 Sida 101 av 290
 
 <!-- sida 143 -->
@@ -6897,457 +8638,659 @@ förutsättningar                       och
 
 finansiering.
 
-9.1 Samhällsnytta                9.2 Finansiering av den
-allmänna kollektivtrafiken
-Kollektivtrafiken skapar samhällsekonomisk
-nytta för över 75 miljarder kronor årligen i Kostnaderna för den allmänna
-Sverige genom att öka skatteintäkter och kollektivtrafiken i Halland fördelas mellan
-minska kostnader för bland annat vägar, resenärerna och Region Halland.
+9.1 Samhällsnytta
 
-parkeringar och hälso- och sjukvård. Biljettintäkternas andel av trafikkostnaderna,
-även kallad kostnadstäckningsgraden, har
+Kollektivtrafiken skapar samhällsekonomisk
+nytta för över 75 miljarder kronor årligen i
+Sverige genom att öka skatteintäkter och
+minska kostnader för bland annat vägar,
+
+parkeringar och hälso- och sjukvård.
+
 Syftet med Kollektivtrafiken är att göra
-under många år varit god i Halland och
 samhället tillgängligt genom att underlätta
-uppgick år 2024 till 53,6 procent. Vid en
 resor till arbete, utbildning, service och
-jämförelse mellan länen i Sverige kan
 fritidsaktiviteter. Ökad tillgänglighet stärker
-konstateras att Halland finansierar
 arbetsmarknadsregioner, förbättrar
-kollektivtrafiken med en relativt liten andel
+
 matchningen mellan jobb och arbetskraft,
-skattemedel per invånare. En hög
 och ökar produktivitet, löner och skattekraft.
-kostnadstäckningsgrad indikerar att utbudet
 Utan kollektivtrafik uteblir dessa
-är väl anpassat till efterfrågan, vilket innebär
 samhällsekonomiska vinster. Därför bör
-att kollektivtrafiken utförs när flest
 kollektivtrafik ses som en investering i
-människor reser. Detta ger även en indikation
+
 samhällsnytta, inte bara som en kostnad.
-på att antalet resenärer är stort i förhållande
-till utbudet.
+
 Kollektivtrafiken bidrar också till att uppfylla
 politiska mål om minskade klimatutsläpp,
-Sett utifrån andra mått tillhör Halland en av
 ökad jämställdhet och minskat utanförskap.
-de mest kostnadseffektiva regionerna i
 Genom att ge jämlik tillgång till samhället
-Sverige. Exempelvis var marginalkostnaden
 främjar den ett hållbart, jämlikt och
-per påstigning, beräknad som totala
 integrerat samhälle. Eftersom fler kvinnor än
-kostnader minus trafikintäkter, 30 kronor år
+
 män reser kollektivt förbättrar god
-2024\. Detta placerar Halland på sjätte plats i
 kollektivtrafik deras rörlighet och stärker
-landet, där endast de tre storstadsregionerna
 jämställdheten. Dessutom främjar den
-samt Uppsala och Östergötland har lägre
 vardagsmotion och minskar antalet
-marginalkostnad på påstigning.
 trafikolyckor.
+
+9.2 Finansiering av den
+allmänna kollektivtrafiken
+
+Kostnaderna för den allmänna
+kollektivtrafiken i Halland fördelas mellan
+
+resenärerna och Region Halland.
+Biljettintäkternas andel av trafikkostnaderna,
+även kallad kostnadstäckningsgraden, har
+under många år varit god i Halland och
+uppgick år 2024 till 53,6 procent. Vid en
+
+jämförelse mellan länen i Sverige kan
+konstateras att Halland finansierar
+kollektivtrafiken med en relativt liten andel
+skattemedel per invånare. En hög
+kostnadstäckningsgrad indikerar att utbudet
+är väl anpassat till efterfrågan, vilket innebär
+
+att kollektivtrafiken utförs när flest
+människor reser. Detta ger även en indikation
+på att antalet resenärer är stort i förhållande
+till utbudet.
+
+Sett utifrån andra mått tillhör Halland en av
+de mest kostnadseffektiva regionerna i
+
+Sverige. Exempelvis var marginalkostnaden
+per påstigning, beräknad som totala
+kostnader minus trafikintäkter, 30 kronor år
+2024\. Detta placerar Halland på sjätte plats i
+landet, där endast de tre storstadsregionerna
+
+samt Uppsala och Östergötland har lägre
+marginalkostnad på påstigning.
+
 Trafikförsörjningsprogram 2026-2030 90
 Sida 104 av 290
 
 <!-- sida 146 -->
 
-9.3 Riktlinjer för ekonomin      linjelagda trafiken ska vara god. Detta mål
-ska säkerställa att den kollektivtrafik som
+9.3 Riktlinjer för ekonomin
+
 Kostnaderna i kollektivtrafiken ökar årligen.
-erbjuds verkligen används. Det är varken
 Dessa kostnadsökningar beror på stigande
-miljömässigt eller ekonomiskt motiverat att
 priser för befintlig trafik, såsom drivmedel,
-bedriva kollektivtrafik om den inte används.
 löner och fordon, samt på utveckling och
-Principer för arbetet med att säkerställa att
+
 satsningar på ny trafik. I vilken takt och
-befintliga resurser utnyttjas beskrivs i kapitel
 omfattning den allmänna kollektivtrafiken i
-4 och benämns som "Lågfrekvent resande".
 Halland kan byggas ut hanteras i Region
-Sammanfattningsvis innebär det att den
 Hallands årliga budgetprocess. Inom
-linjelagda kollektivtrafik som har eller
 trafikförsörjningsprogrammets tidshorisont
-riskerar att få en täckningsgrad lägre än 30
+
 kommer viktiga investeringar i
-procent, eller ett resande som understiger
 järnvägsanläggningen att färdigställas.
-fyra personer per tur, ska vara föremål för
 Dessutom förväntas tre nya tågstationer i
-översyn. Mål för ekonomin på sikt finns
 Halland tas i drift före år 2030. Tillsammans
-formulerat i kapitel 3. Där framgår att
 med nya kapacitetsstarka Öresundståg med
-intäkterna från resenärerna ska medföra att
+
 högre hastighet skapas förutsättningar att
-kostnadstäckningsgraden ska utgöra 55
 uppnå visionen om att Halland ska vara den
-procent av trafikkostnaderna.
 bästa livsplatsen år 2035.
+
+Nya satsningar på kollektivtrafiken behöver
+
+motiveras med hög samhällsnytta. Det utbud
+som myndigheten tar ansvar för är det som
+bedöms vara regionalt motiverat och trafiken
+ska vara samhällsnyttig. En fortsatt
+effektivisering av trafiken är nödvändig och
+
+utökningar ska ske i enlighet med den
+övergripande trafikeringsprincipen att
+kollektivtrafiken byggs ut i starka stråk där
+förutsättningarna för ökat resande är goda.
+
+I detta trafikförsörjningsprogram beskrivs ett
+mål om att beläggningen i fordonen i den
+
+linjelagda trafiken ska vara god. Detta mål
+ska säkerställa att den kollektivtrafik som
+erbjuds verkligen används. Det är varken
+
+miljömässigt eller ekonomiskt motiverat att
+bedriva kollektivtrafik om den inte används.
+Principer för arbetet med att säkerställa att
+befintliga resurser utnyttjas beskrivs i kapitel
+4 och benämns som "Lågfrekvent resande".
+
+Sammanfattningsvis innebär det att den
+linjelagda kollektivtrafik som har eller
+riskerar att få en täckningsgrad lägre än 30
+procent, eller ett resande som understiger
+fyra personer per tur, ska vara föremål för
+
+översyn. Mål för ekonomin på sikt finns
+formulerat i kapitel 3. Där framgår att
+intäkterna från resenärerna ska medföra att
+kostnadstäckningsgraden ska utgöra 55
+procent av trafikkostnaderna.
+
 Kollektivtrafiken genererar betydande
 samhällsnyttor genom att minska trängsel
+
 och utsläpp samt genom att stärka
 tillgängligheten och arbetsmarknadens
 funktion. Detta bidrar till regionens
 långsiktiga attraktivitet och hållbara tillväxt.
 Investeringar i kollektivtrafiken utgör därför
+
 en strategisk åtgärd som ökar
 produktiviteten, reducerar klimatpåverkan
 och främjar ett mer sammanhållet Halland.
+
 En ökning av det kollektiva resandet medför
-Nya satsningar på kollektivtrafiken behöver
 samtidigt stigande kostnader. I dagsläget
-motiveras med hög samhällsnytta. Det utbud
 finansierar resenärerna drygt hälften av
-som myndigheten tar ansvar för är det som
+
 biljettpriset, medan Region Halland står för
-bedöms vara regionalt motiverat och trafiken
 resterande del. När antalet resande ökar,
-ska vara samhällsnyttig. En fortsatt
 tilltar därmed också behovet av regional
-effektivisering av trafiken är nödvändig och
 finansiering. Detta är särskilt betydelsefullt
-utökningar ska ske i enlighet med den
 mot bakgrund av att kollektivtrafiken är
-övergripande trafikeringsprincipen att
 målstyrd och siktar på att fördubbla sin
-kollektivtrafiken byggs ut i starka stråk där
+
 marknadsandel till år 2050, vilket i praktiken
-förutsättningarna för ökat resande är goda.
 motsvarar en fördubbling av det totala
-I detta trafikförsörjningsprogram beskrivs ett antalet resor.
-mål om att beläggningen i fordonen i den
+antalet resor.
+
 Trafikförsörjningsprogram 2026-2030 91
 Sida 105 av 290
 
 <!-- sida 147 -->
 
-Från dagens nivå på cirka 20 miljoner resor grundprincip är att biljettsortimentet ska
-per år krävs en genomsnittlig årlig ökning om vara lätt att förstå, och att prissättningen
-omkring 2,8 procent under perioden 2025– samt eventuella rabatter ska vara logiska.
+Från dagens nivå på cirka 20 miljoner resor
+per år krävs en genomsnittlig årlig ökning om
+omkring 2,8 procent under perioden 2025–
+
 2050 för att målet ska uppnås. Även med viss
-Principer för utformning av
 potential för effektiviseringar bedöms detta i
-biljettsortiment
 huvudsak medföra ett behov av ungefär
-fördubblade regionala anslag för att • Det ska vara billigare att resa ofta än att
-finansiera den samhällsstyrda      resa sällan. För den som pendlar erbjuds
-kollektivtrafiken.                 periodbiljetter som är utformade och
-prissatta efter hur frekvent du reser samt
-hur lång giltighetstid de har. Jämfört med
+fördubblade regionala anslag för att
+finansiera den samhällsstyrda
+
+kollektivtrafiken.
+
 9.4 Principer för
-enkelbiljetter lönar det sig snabbare att
 biljettsortiment och
-köpa periodbiljetter vid långa resor än vid
+
 prissättning
-korta resor.
+
 Prissättning
-• Det ska vara lätt att på förhand veta vad
-Priset på kollektivtrafikresan är en faktor som resan kommer kosta.
+Priset på kollektivtrafikresan är en faktor som
 påverkar människors benägenhet att åka
-• En biljett av samma typ ska kosta lika
+
 kollektivt. En generell tumregel för prisets
-mycket oavsett i vilken kommun kunden
 påverkan på resandet är att en prisökning på
-bor.
 10 procent leder till en minskning av resandet
-• Prisjusteringar ska göras med hänsyn
 med 4 procent. Därför bör höjningar av
-tagen till priselasticitet och Region
 biljettpriset föregås av noggranna
-Hallands budgetprocess.
 överväganden. Vid kraftiga höjningar finns
+
 risken att människor upplever
-Tillsammans ska principerna sänka tröskeln
 kollektivtrafiken som mindre prisvärd och
-till att resa kollektivt och bidra till att fler
 därmed väljer bort den. Att enbart höja
-reser på ett hållbart sätt.
 biljettpriserna för att finansiera
 kollektivtrafiken är således inte en hållbar
-Biljett- och Betalsystem
+
 lösning på lång sikt.
+
+När det kommer till prissänkningar visar
+Hallandstrafikens egna undersökningar att
+ett sänkt pris, tillsammans med ett bra
+trafikutbud och närhet till hållplatser kan ge
+ökat resande med 10,4 procent vid en
+
+prissänkning om 10 procent för enkelbiljetter.
+Samma effekt nås inte för resenärer som
+reser med periodbiljett, åtminstone inte på
+kort sikt.
+
+Hur enkelt det är att köpa biljetter och hur
+begripligt systemet är, har stor betydelse för
+
+viljan att åka kollektivt. Hallandstrafikens
+
+grundprincip är att biljettsortimentet ska
+vara lätt att förstå, och att prissättningen
+samt eventuella rabatter ska vara logiska.
+
+Principer för utformning av
+biljettsortiment
+• Det ska vara billigare att resa ofta än att
+resa sällan. För den som pendlar erbjuds
+periodbiljetter som är utformade och
+
+prissatta efter hur frekvent du reser samt
+hur lång giltighetstid de har. Jämfört med
+enkelbiljetter lönar det sig snabbare att
+köpa periodbiljetter vid långa resor än vid
+korta resor.
+
+• Det ska vara lätt att på förhand veta vad
+resan kommer kosta.
+
+• En biljett av samma typ ska kosta lika
+mycket oavsett i vilken kommun kunden
+bor.
+
+• Prisjusteringar ska göras med hänsyn
+tagen till priselasticitet och Region
+Hallands budgetprocess.
+
+Tillsammans ska principerna sänka tröskeln
+
+till att resa kollektivt och bidra till att fler
+reser på ett hållbart sätt.
+
+Biljett- och Betalsystem
 Under 2020 lanserade Region Halland,
-När det kommer till prissänkningar visar tillsammans med Kronoberg, Kalmar och
-Hallandstrafikens egna undersökningar att Jönköping, ett nytt biljett- och betalsystem.
-ett sänkt pris, tillsammans med ett bra Den viktigaste komponenten i
-trafikutbud och närhet till hållplatser kan ge försäljningssystemet är Kundappen. Via
-ökat resande med 10,4 procent vid en Kundappen ska man kunna hantera hela sin
-prissänkning om 10 procent för enkelbiljetter. resa – från att söka fram en resa, köpa en
-Samma effekt nås inte för resenärer som biljett och få information. För de kunder som
-reser med periodbiljett, åtminstone inte på inte har mobiltelefon finns fortsatt möjlighet
-kort sikt.                       att köpa biljett på kort eller papper.
-Hur enkelt det är att köpa biljetter och hur Biljett- och betalsystemet är utvecklat enligt
-begripligt systemet är, har stor betydelse för den av branschen framtagna standarden BoB
-viljan att åka kollektivt. Hallandstrafikens (standard för biljettdistribution och
+tillsammans med Kronoberg, Kalmar och
+
+Jönköping, ett nytt biljett- och betalsystem.
+Den viktigaste komponenten i
+försäljningssystemet är Kundappen. Via
+Kundappen ska man kunna hantera hela sin
+resa – från att söka fram en resa, köpa en
+
+biljett och få information. För de kunder som
+inte har mobiltelefon finns fortsatt möjlighet
+att köpa biljett på kort eller papper.
+
+Biljett- och betalsystemet är utvecklat enligt
+den av branschen framtagna standarden BoB
+(standard för biljettdistribution och
+
 Trafikförsörjningsprogram 2026-2030 92
 Sida 106 av 290
 
 <!-- sida 148 -->
 
-biljettvisering), som förvaltas av Samtrafiken parterna. På så vis blir det enkelt och
-på uppdrag av ägarna. BoB-standarden är en begripligt för kunder som reser mellan två
-öppen och frivillig standard som definierar eller flera parter inom södra Sverige, oavsett
-hur kollektivtrafikens biljetter kan om de är pendlare eller fritidsresenärer.
+biljettvisering), som förvaltas av Samtrafiken
+på uppdrag av ägarna. BoB-standarden är en
+öppen och frivillig standard som definierar
+
+hur kollektivtrafikens biljetter kan
 distribueras och viseras. Syftet med
-Region Halland och Hallandstrafiken
 standarden är att underlätta för resenärer att
-kommer att fortsätta samverka med
 köpa och använda biljetter kombinerade
-omkringliggande regioner för att göra det
 mellan olika trafikområden och operatörer,
-ännu enklare och smidigare att resa över
+
 samt att främja interoperabilitet och
-länsgränser i framtiden. Högsta prioritet är
 innovation inom biljettsystem.
-att fortsätta dialogen med Västra
-Genom att följa den, av branschen framtagna Götalandsregionen och Västtrafik, där det för
-standarden bidrar Region Halland till att närvarande saknas förutsättningar för ett lika
-förenkla och främja resor mellan regioner för enkelt och sömlöst resande.
+
+Genom att följa den, av branschen framtagna
+standarden bidrar Region Halland till att
+förenkla och främja resor mellan regioner för
 resenärerna. Idag tillämpas standarden för
 nästan samtliga interregionala resor i södra
+
 Sverige samt till Köpenhamnsområdet, med
 undantag för resor till Västra
 Götalandsregionen.
+
 Biljettsamverkan inom södra
+
 Sverige
 Ungefär 30 procent av alla biljetter som säljs
 av Hallandstrafiken utfärdas för resor till
-9.5 Riktlinjer för tillköp av
 andra trafikområden. Av dessa biljetter avser
-biljetter
+
 cirka 60 procent resor till Västtrafiks
 trafikområde. För att underlätta resor mellan
-Samtliga kommuner inom Hallandstrafikens
 olika trafikområden har Regionsamverkan
-trafikområde ges möjlighet att köpa biljetter
 Sydsverige ingått avtal om gemensamma
-till sina invånare. För Kungsbacka kommun
 biljett- och resevillkor för interregionala
-sker tillköp genom Västtrafik. För tillköpen
+
 resor, vilket benämns som ”Sydtaxan”.
-inom Hallandstrafikens trafikområde gäller
 Sydtaxan omfattar Blekingetrafiken,
-fastställda principer som utgår från den
 Hallandstrafiken, Jönköpings länstrafik,
-övergripande prismodellen, vilken inkluderar
 Kalmar Länstrafik, Länstrafiken Kronoberg
-biljettsortiment, taxa, zonstruktur,
 samt Skånetrafiken. Skånetrafikens bilaterala
-giltighetstider och resenärsrabatter. Ett
+
 avtal med Trafikstyrelsen i Danmark
-kommunalt tillköp av biljetter avser antingen
 möjliggör även resor till
-den egna kommunen eller den egna
 Köpenhamnsområdet.
-kommunen i kombination med angränsande
-kommun(er), i enlighet med gällande
+
 Sydtaxan kan beskrivas utifrån principen om
-zonstruktur och dess villkor.
 minsta gemensamma nämnare, både vad
 gäller de biljetter som erbjuds och det
 regelverk som gäller för resor mellan
+
+parterna. På så vis blir det enkelt och
+begripligt för kunder som reser mellan två
+eller flera parter inom södra Sverige, oavsett
+
+om de är pendlare eller fritidsresenärer.
+
+Region Halland och Hallandstrafiken
+kommer att fortsätta samverka med
+omkringliggande regioner för att göra det
+ännu enklare och smidigare att resa över
+länsgränser i framtiden. Högsta prioritet är
+
+att fortsätta dialogen med Västra
+Götalandsregionen och Västtrafik, där det för
+närvarande saknas förutsättningar för ett lika
+enkelt och sömlöst resande.
+
+9.5 Riktlinjer för tillköp av
+biljetter
+
+Samtliga kommuner inom Hallandstrafikens
+trafikområde ges möjlighet att köpa biljetter
+
+till sina invånare. För Kungsbacka kommun
+sker tillköp genom Västtrafik. För tillköpen
+inom Hallandstrafikens trafikområde gäller
+fastställda principer som utgår från den
+övergripande prismodellen, vilken inkluderar
+
+biljettsortiment, taxa, zonstruktur,
+giltighetstider och resenärsrabatter. Ett
+kommunalt tillköp av biljetter avser antingen
+den egna kommunen eller den egna
+kommunen i kombination med angränsande
+
+kommun(er), i enlighet med gällande
+zonstruktur och dess villkor.
+
 Trafikförsörjningsprogram 2026-2030 93
 Sida 107 av 290
 
 <!-- sida 149 -->
 
 Riktlinjer för tillköp
-”Om en region ensam ska
+
 • Tillköpet får inte innebära att andra
-ansvara för den regionala
 biljetter än de som tillköpet avser behöver
-kollektivtrafiken i länet, får en
 förändras i pris.
-kommun  inom länet träffa avtal
 • Tillköpet får inte påverka den beslutade,
-med regionen om
+
 övergripande prismodellen om likvärdiga
-kostnadsansvar för regional
 tillköp skulle beviljas för flera kommuner.
-kollektivtrafik som är av bättre
 • Tillköpen erbjuds, så långt det är möjligt, i
-kvalitet eller billigare för
+
 befintliga säljkanaler, och omfattas av
-resenärerna än vad regionen
 Hallandstrafikens ordinarie köpvillkor.
-annars skulle tillhandahålla”.
 • I det fall den övergripande prismodellen
 förändras ska avtalade tillköp omprövas.
+
 Region Halland ska i god tid föra dialog
-med kommun som innehar tillköp för att Med tillköp avses beställningar som helt eller
-möjliggöra eventuell anpassning av tillköp delvis finansieras av annan part än Region
-till ny prismodell.            Halland och som innebär lokal anpassning av
-• Kommunen har kostnadsansvar för regional kollektivtrafik. Alla tillköp som är
-utredning av tillköp i de fall en utredning förenliga med målen och strategierna i
-kräver omfattande resurser.    Trafikförsörjningsprogrammet, och som inte
-Hallandstrafikens utredningskostnader påverkar kollektivtrafiksystemet negativt, ska
-ska tydligt redovisas innan arbetet inleds. tillåtas.
-Om tillköp av trafik ska genomföras, tecknas
+med kommun som innehar tillköp för att
+möjliggöra eventuell anpassning av tillköp
+till ny prismodell.
+
+• Kommunen har kostnadsansvar för
+utredning av tillköp i de fall en utredning
+kräver omfattande resurser.
+Hallandstrafikens utredningskostnader
+
+ska tydligt redovisas innan arbetet inleds.
+
 Vid förfrågan om tillköp vänder sig
-avtal mellan Hallandstrafiken och
 kommunen till Hallandstrafiken som utreder.
-kommunen. Eftersom kollektivtrafik är en
 Riktlinjer för tillköp av biljetter omfattar inte
-långsiktig investering, och det ofta tar tid för
 skolbiljetter. Skolskjuts och elevresor
-invånarna att upptäcka nyheterna i
 omfattas av förutsättningar som anges i
-kollektivtrafikutbudet, är den
+
 Skollagen.
+
+9.6 Riktlinjer för tillköp av
+
+trafik
+Region Halland och Hallandstrafiken ska
+
+tillämpa ett arbetssätt som så långt det är
+möjligt minimerar behovet av tillköp av
+trafik. Kollektivtrafiklagen (kap.2, § 1b)
+medger att kommuner själva finansierar ett
+utbud som är större än vad
+
+kollektivtrafikmyndigheten tillhandahåller:
+
+”Om en region ensam ska
+ansvara för den regionala
+
+kollektivtrafiken i länet, får en
+kommun  inom länet träffa avtal
+med regionen om
+
+kostnadsansvar för regional
+kollektivtrafik som är av bättre
+kvalitet eller billigare för
+
+resenärerna än vad regionen
+annars skulle tillhandahålla”.
+
+Med tillköp avses beställningar som helt eller
+delvis finansieras av annan part än Region
+Halland och som innebär lokal anpassning av
+
+regional kollektivtrafik. Alla tillköp som är
+förenliga med målen och strategierna i
+Trafikförsörjningsprogrammet, och som inte
+påverkar kollektivtrafiksystemet negativt, ska
+tillåtas.
+
+Om tillköp av trafik ska genomföras, tecknas
+
+avtal mellan Hallandstrafiken och
+kommunen. Eftersom kollektivtrafik är en
+långsiktig investering, och det ofta tar tid för
+invånarna att upptäcka nyheterna i
+kollektivtrafikutbudet, är den
+
 rekommenderade avtalslängden minst tre år.
 Om kostnadstäckningsgraden för den
-9.6 Riktlinjer för tillköp av
 tillköpta trafiken ökar, överväger Region
-trafik
 Halland att inkludera tillköpet i det ordinarie
 utbudet av kollektivtrafik i Halland.
-Region Halland och Hallandstrafiken ska
+
 Riktlinjen är att kostnadstäckningsgraden för
-tillämpa ett arbetssätt som så långt det är
 tillköpet ska överstiga minst 30 procent för
-möjligt minimerar behovet av tillköp av
 att detta ska övervägas. Tillköp av
-trafik. Kollektivtrafiklagen (kap.2, § 1b)
 beställnings- och evenemangstrafik bör
-medger att kommuner själva finansierar ett
 undvikas.
-utbud som är större än vad
-kollektivtrafikmyndigheten tillhandahåller:
+
 Trafikförsörjningsprogram 2026-2030 94
 Sida 108 av 290
 
 <!-- sida 150 -->
 
-10\.     Kommersiell                    trafik
+10\.     Kommersiell                     trafik
 
-Kollektivtrafiklagen ger kommersiella aktörer samhällsbyggandet som på många sätt
-möjlighet att med 21 dagars framförhållning påverkar människors val av arbete, boende,
-starta linjelagd kollektivtrafik. Samma utbildning och fritid. Kollektivtrafiken i
-framförhållning gäller vid avveckling av Halland utgör ett sammanhängande system
-kollektivtrafik. Innan kommersiell med förgreningar in i grannlänen.
+Kollektivtrafiklagen ger kommersiella aktörer
+möjlighet att med 21 dagars framförhållning
+starta linjelagd kollektivtrafik. Samma
 
-kollektivtrafik startas ska den anmälas till Trafikförsörjningsprogrammet ska beskriva
-Kollektivtrafikmyndigheten.      sådana omständigheter som motiverar beslut
-om trafikplikt. I
-Trafikförsörjningsprogrammet redovisas
+framförhållning gäller vid avveckling av
+kollektivtrafik. Innan kommersiell
+kollektivtrafik startas ska den anmälas till
+Kollektivtrafikmyndigheten.
+
 Kontaktuppgifter och instruktioner
-kollektivtrafikstråk som är klassificerade
 för anmälan om kommersiell trafik
-utefter parametrar så som
 finns på Region Hallands webbplats:
-befolkningsunderlag, pendlingsmönster med
+
 https://www.regionhalland.se/utvec
-mera. Genom den klassificering av stråken
 kling-och-tillvaxt/samhallsplanering-
-som görs i kapitel 5, ges en indikation på
 och-trafik/kollektivtrafik
+
+Utgångspunkten är att den kommersiella och
+den upphandlade kollektivtrafiken ska
+fungera väl tillsammans och komplettera
+varandra för resenärernas bästa.
+
+10.1 Allmän trafikplikt
+
+Kollektivtrafikmyndigheten kan besluta om
+allmän trafikplikt för att säkerställa sådan
+trafik som anses nödvändig och som inte
+bedöms komma till stånd i önskvärd
+
+omfattning utan att trafiken upphandlas och
+bedrivs i regionens regi. Beslut om allmän
+trafikplikt ska ses som ett ansvar gentemot
+Hallands invånare att tillhandahålla den
+beslutade kollektivtrafiken.
+
+Kollektivtrafik kräver långsiktiga
+
+förutsättningar och är en del av
+
+samhällsbyggandet som på många sätt
+påverkar människors val av arbete, boende,
+utbildning och fritid. Kollektivtrafiken i
+
+Halland utgör ett sammanhängande system
+med förgreningar in i grannlänen.
+Trafikförsörjningsprogrammet ska beskriva
+sådana omständigheter som motiverar beslut
+om trafikplikt. I
+
+Trafikförsörjningsprogrammet redovisas
+kollektivtrafikstråk som är klassificerade
+utefter parametrar så som
+befolkningsunderlag, pendlingsmönster med
+mera. Genom den klassificering av stråken
+
+som görs i kapitel 5, ges en indikation på
 vilka områden i Halland som skulle kunna
 vara intressanta för kommersiella aktörer att
-Utgångspunkten är att den kommersiella och
 bedriva kollektivtrafik i. Efterfrågar
-den upphandlade kollektivtrafiken ska
 kommersiella aktörer ytterligare statistisk för
-fungera väl tillsammans och komplettera
 marknadsanalyser kan Kollektivtrafik-
-varandra för resenärernas bästa.
+
 myndigheten vara behjälplig med detta.
 Region Halland gör bedömningen att
-10.1 Allmän trafikplikt          Västkuststråket har ett resande som innebär
+Västkuststråket har ett resande som innebär
 att trafik kan bedrivas kommersiellt. Redan
-Kollektivtrafikmyndigheten kan besluta om
 idag finns kommersiell tågtrafik i stråket.
-allmän trafikplikt för att säkerställa sådan
-trafik som anses nödvändig och som inte Region Halland kommer att ta ställning till
-bedöms komma till stånd i önskvärd allmän trafikplikt efter noggranna
-omfattning utan att trafiken upphandlas och överväganden. Beslut om allmän trafikplikt
-bedrivs i regionens regi. Beslut om allmän fattas löpande, oftast i samband med att nya
-trafikplikt ska ses som ett ansvar gentemot trafikavtal ska slutas. Beslut och bedömning
-Hallands invånare att tillhandahålla den om allmän trafikplikt ska föreligga i god tid
-beslutade kollektivtrafiken.     före planerad upphandling av trafiken.
+
+Region Halland kommer att ta ställning till
+
+allmän trafikplikt efter noggranna
+överväganden. Beslut om allmän trafikplikt
+fattas löpande, oftast i samband med att nya
+trafikavtal ska slutas. Beslut och bedömning
+om allmän trafikplikt ska föreligga i god tid
+
+före planerad upphandling av trafiken.
 Utgångspunkten i bedömning av trafikplikt är
-Kollektivtrafik kräver långsiktiga
 Trafikförsörjningsprogrammet. När
-förutsättningar och är en del av
+
 Trafikförsörjningsprogram 2026-2030 95
 Sida 109 av 290
 
 <!-- sida 151 -->
 
-marknadens möjligheter värderas kommer 10.3 Tillgång till biljett-och
-långsiktighet och                betalsystem
+marknadens möjligheter värderas kommer
+långsiktighet och
 Trafikförsörjningsprogrammets mål vara ett
-Det finns möjlighet för kommersiella aktörer
+
 tungt vägande argument. Om regionen i sin
-att samverka med Hallandstrafiken i frågor
 prövning inte finner att det är mycket
-som rör biljettsystem, biljetter och försäljning
 sannolikt att önskad trafik kan komma till
-av dessa. För att skapa ett sammanhängande
 stånd genom kommersiella aktörers försorg
-kollektivtrafiksystem, vilket underlättar för
 (utan finansiering från regionen), kommer
-resenärerna, finns möjlighet för
+
 allmän trafikplikt tillämpas för den aktuella
-kommersiella aktörer att använda samma
 trafiken.
-biljettmaskiner eller liknande teknisk
-utrustning som Hallandstrafiken. Dessutom
+
 10.2 Tillgång till infrastruktur
-kan överenskommelser slutas om biljetters
-Inom kollektivtrafikmyndighetens giltighet. Användningen av biljettmaskinerna
-geografiska område finns ett stort antal eller annan liknande teknisk utrustning
-bytespunkter längs vägar och gator. Utöver finansieras helt av den kommersiella aktören.
+
+Inom kollektivtrafikmyndighetens
+
+geografiska område finns ett stort antal
+bytespunkter längs vägar och gator. Utöver
 dessa bytespunkter finns även ett antal större
-bytespunkter, terminaler och resecentra både 10.4 Tillgång till
+bytespunkter, terminaler och resecentra både
 i anslutning till allmänna vägar och inne i
-informationssystem
 städerna och i större tätorter. Tillträde till
-Det finns möjlighet att samverka med
+
 befintliga och framtida bytespunkter,
-Hallandstrafiken i frågor som rör information
 terminaler och annan offentligt ägd
-till resenärerna. Mot ett självkostnadspris
 infrastruktur ska behandlas
-kan Hallandstrafiken upplåta plats åt
 konkurrensneutralt. Bedömningen är att det
-kommersiella aktörer i reseplanerare,
 endast på ett fåtal platser kan komma att
-tidtabeller och i anslagen vid bytespunkter.
+
 uppstå en konkurrenssituation mellan
-Trafikföretag tillhandahåller tryckt material
 kommersiell och subventionerad
-enligt anvisningar och Hallandstrafiken
 kollektivtrafik för tillträde till infrastruktur i
-ansvarar för uppsättning av anslag. Även
 Halland. Därmed bör inte behovet av en
-detta sker mot ett självkostnadspris.
 tidsstyrd process för tilldelning av kapacitet
-Hallandstrafiken ansvarar för drift och
+
 vara stort. För platser där en
-underhåll av anläggning och därmed även
 konkurrenssituation kan komma att uppstå
-kommersiella aktörers anslag. Trafikföretag
 ska en beskrivning tas fram för
-ansvarar fullt ut för leverans av
 konkurrensneutral tilldelning. I det fall det
-kvalitetssäkrade data enligt upprättad
 uppstår kapacitetsbrist kallar
-tidplan. Överenskommelser gällande
+
 kollektivtrafikmyndigheten berörda parter för
-bytespunkter, terminaler, reseplanerare,
 dialog där utgångspunkten är att företräde
-biljettsamverkan med mera regleras i
 ges utifrån trafikens utbud, kundnytta och
-skriftliga avtal.
 funktion. Trafik som avser att tillgodose
 resbehov för arbets- och studiependling samt
+
 annat vardagsresande värderas högt.
+
+10.3 Tillgång till biljett-och
+betalsystem
+
+Det finns möjlighet för kommersiella aktörer
+att samverka med Hallandstrafiken i frågor
+
+som rör biljettsystem, biljetter och försäljning
+av dessa. För att skapa ett sammanhängande
+kollektivtrafiksystem, vilket underlättar för
+resenärerna, finns möjlighet för
+kommersiella aktörer att använda samma
+
+biljettmaskiner eller liknande teknisk
+utrustning som Hallandstrafiken. Dessutom
+kan överenskommelser slutas om biljetters
+giltighet. Användningen av biljettmaskinerna
+eller annan liknande teknisk utrustning
+finansieras helt av den kommersiella aktören.
+
+10.4 Tillgång till
+informationssystem
+
+Det finns möjlighet att samverka med
+
+Hallandstrafiken i frågor som rör information
+till resenärerna. Mot ett självkostnadspris
+kan Hallandstrafiken upplåta plats åt
+kommersiella aktörer i reseplanerare,
+tidtabeller och i anslagen vid bytespunkter.
+Trafikföretag tillhandahåller tryckt material
+
+enligt anvisningar och Hallandstrafiken
+ansvarar för uppsättning av anslag. Även
+detta sker mot ett självkostnadspris.
+Hallandstrafiken ansvarar för drift och
+underhåll av anläggning och därmed även
+
+kommersiella aktörers anslag. Trafikföretag
+ansvarar fullt ut för leverans av
+kvalitetssäkrade data enligt upprättad
+tidplan. Överenskommelser gällande
+bytespunkter, terminaler, reseplanerare,
+
+biljettsamverkan med mera regleras i
+skriftliga avtal.
+
 Trafikförsörjningsprogram 2026-2030 96
 Sida 110 av 290
 
@@ -16127,232 +18070,337 @@ för färdtjänsten har kommunen en skyldighet att upprätta ett Trafikförsörj
 följa lagstiftningen ska programmet omfatta minst tre fastställda punkter kopplat till miljö, resor-
 nas omfattning samt prissättning. Kungsbackas kommunala trafikförsörjningsprogram utgår ifrån
 Regionens och följer därför struktur och tidsperiod så långt det är möjligt.
+
 Detta dokument beskriver den särskilda kollektivtrafikens förutsättningar samt strategier och
 målsättningar och är en komplettering av Region Hallands Trafikförsörjningsprogram 2021-
-
 2025, Kapitel 8 Särskild kollektivtrafik, I övrigt gäller för Kungsbacka, likt Hallands resterande
 kommuner, Region Hallands Trafikförsörjningsprogram.
 
-Särskild Kollektivtrafik          Färdtjänst
-Färdtjänsten regleras i Lag (1997:736) om
+Särskild Kollektivtrafik
+
 Den särskilda kollektivtrafiken erbjuds en
-färdtjänst och enligt lagen är kommunen
 definierad målgrupp med särskilt tillstånd
-ansvarig för färdtjänst. Färdtjänst ska enligt
 eller behörighet till skillnad från den
-färdtjänstlagen ses som en form av kollektiv-
 allmänna kollektivtrafiken som är öppen för
-trafik. 2022 var genomsnittet i Sverige drygt
 alla. I Halland benämns färdtjänst, sjukresor
-33 personer med färdtjänsttillstånd per 1000
 och skolskjuts som former av särskild kollek-
-invånare. För Halland var samma siffra ca
 tivtrafik
-37 per 1 000 invånare och 32 per 1 000
-Den särskilda kollektivtrafiken erbjuds en de- invånare för Kungsbacka1.
+
+Den särskilda kollektivtrafiken erbjuds en de-
 finierad målgrupp med särskilt tillstånd eller
-Riktlinjerna är att en resa som kan ske med den
 behörighet till skillnad från den allmänna
-allmänna kollektivtrafiken ska ske med den all-
 kollektivtrafiken som är öppen för alla. I
-männa kollektivtrafiken och att en resa ska
 Halland benämns färdtjänst, sjukresor och
-samordnas när så är möjligt. Till skillnad från
 skolskjuts som former av särskild kollektiv-
-Hallands övriga kommuner, som lämnat över
 trafik. Den särskilda kollektivtrafiken utförs
-ansvaret till Region Halland, ansvarar
 med anropsstyrd trafik eller särskilt arrange-
-Kungsbacka kommun för myndighets-
 rade linjer såsom skolbuss- och sjukrese-
-utövningen och utföranden av färdtjänst och
 linjer.
-riksfärdtjänst.
+
 Gemensamt för den särskilda kollektiv-
-Nämnden för Teknik beslutar om regelverket för
 trafiken är att det är olika uppdragsgivare
-färdtjänst i dokumentet Tillämpningsregler2 som
 och kostnadsbärare men att samordning och
-ses över och revideras varje år för att hållas
 samplanering sker inom respektive trafikslag
-uppdaterade utefter rådande nationell praxis.
 vilket beskrivs nedan under varje område.
-Den särskilda kollektivtrafiken ska sträva Egenavgifterna och den geografiska zonindel-
-efter att spegla den allmänna kollektiv- ningen för färdtjänsten baseras på den av
-trafiken, där det är rimligt och möjligt, men kommunfullmäktige beslutade Taxan3. Taxan är
-med hänsyn till resenärens behov utifrån kopplad till taxan för den allmänna kollektiv-
-rättigheter som ges i lagstiftning och följande trafiken och justeras av nämnden för Teknik
-myndighetsutövning.               utefter Västtrafiks beslutade ändringar av
-kollektivtrafiken.
+Den särskilda kollektivtrafiken ska sträva
+efter att spegla den allmänna kollektiv-
+trafiken, där det är rimligt och möjligt, men
+med hänsyn till resenärens behov utifrån
+rättigheter som ges i lagstiftning och följande
+
+myndighetsutövning.
 Särskild Kollektivtrafik är Region Hallands
-och även Kungsbackas, benämning på det För att resenären ska kunna använda färdtjänst
-som på nationellt plan kallas Särskilda krävs ett individuellt beslut och dessa beslut
-persontransporter.                fattas av Förvaltningen för Teknik i Kungsbacka
+och även Kungsbackas, benämning på det
+som på nationellt plan kallas Särskilda
+persontransporter.
+
+Färdtjänst
+Färdtjänsten regleras i Lag (1997:736) om
+färdtjänst och enligt lagen är kommunen
+
+ansvarig för färdtjänst. Färdtjänst ska enligt
+färdtjänstlagen ses som en form av kollektiv-
+trafik. 2022 var genomsnittet i Sverige drygt
+33 personer med färdtjänsttillstånd per 1000
+invånare. För Halland var samma siffra ca
+37 per 1 000 invånare och 32 per 1 000
+invånare för Kungsbacka1.
+
+Riktlinjerna är att en resa som kan ske med den
+allmänna kollektivtrafiken ska ske med den all-
+männa kollektivtrafiken och att en resa ska
+samordnas när så är möjligt. Till skillnad från
+Hallands övriga kommuner, som lämnat över
+ansvaret till Region Halland, ansvarar
+Kungsbacka kommun för myndighets-
+utövningen och utföranden av färdtjänst och
+riksfärdtjänst.
+
+Nämnden för Teknik beslutar om regelverket för
+färdtjänst i dokumentet Tillämpningsregler2 som
+ses över och revideras varje år för att hållas
+uppdaterade utefter rådande nationell praxis.
+Egenavgifterna och den geografiska zonindel-
+ningen för färdtjänsten baseras på den av
+kommunfullmäktige beslutade Taxan3. Taxan är
+
+kopplad till taxan för den allmänna kollektiv-
+trafiken och justeras av nämnden för Teknik
+utefter Västtrafiks beslutade ändringar av
+kollektivtrafiken.
+För att resenären ska kunna använda färdtjänst
+krävs ett individuellt beslut och dessa beslut
+fattas av Förvaltningen för Teknik i Kungsbacka
+
 1 Regionfakta.com/hallands-lan/samhallets- 3 Särskild kollektivtrafik – Taxa,
 service/fardtjansttillstand/      Kommunfullmäktige 9 april 2024 § 58
 2 Tillämpningsregler särskild kollektivtrafik – KS2023-00666
 Färdtjänst, § 9 TE-2023-00717
-Kungsbacka kommun            Trafikförsörjningsprogram          2 (5)
+
+Kungsbacka kommun             Trafikförsörjningsprogram         2 (5)
 
 <!-- sida 337 -->
 
-kommun. Innehållet i besluten används av • Region Halland har som mål att minst 30
-beställningscentralen när resenären gör sin procent av alla sjukresor över kommun-
-resebeställning och i detta beslut framgår om gränsen sker med sjukreselinjen.
-resenären har särskilda behov. Det kan till • Fler resor bör ske inom den allmänna
-exempel framgå om resenären enbart kan sitta kollektivtrafiken.
+kommun. Innehållet i besluten används av
+beställningscentralen när resenären gör sin
+resebeställning och i detta beslut framgår om
+resenären har särskilda behov. Det kan till
+exempel framgå om resenären enbart kan sitta
 fram i fordonet eller om det finns restriktioner
-• Resorna samordnas när så är möjligt både
 för samåkning.
-med andra sjukresor men även med färd-
-• Färdtjänst kompenserar inte brist på tjänst och skolskjutsar.
+
+• Färdtjänst kompenserar inte brist på
 allmänna kommunikationer.
-Skolskjutstrafik5
 • En resa som kan ske med den allmänna
-kollektivtrafiken ska ske med den allmänna Enligt Skollagen (2010:800) har elever i grund-
-kollektivtrafiken.              skola med offentlig huvudman rätt till kostnads-
-fri skolskjuts till den skola som eleven placeras i
+kollektivtrafiken ska ske med den allmänna
+kollektivtrafiken.
+
 • Riktlinjer och tillämpningar ska så långt det
-av kommunen. Det finns även möjlighet för
 är möjligt anpassas till kollektivtrafiken.
-elever att bli berättigade skolskjuts till annan
 • Resorna samordnas när så är möjligt
+
+Riksfärdtjänst
+Resor med beviljade tillstånd till riksfärdtjänst
+bokas hos företaget Riksfärdtjänst i Sverige AB.
+
+RIAK
+
+I Kungsbacka erbjuds resenärer också möjlig-
+heten till så kallade RIAK-resor (Resor i annan
+kommun), vilket ger resenären möjligheten att
+åka med upphandlade taxibolag till ett
+subventionerat pris. RIAK är en del av riksf-
+ärdtjänst.
+
+Sjukresor4
+Grunderna för sjukresor styrs av Lag om rese-
+
+kostnadsersättning vid sjukresa (1991:419).
+Sjukvårdshuvudmannen, det vill säga Region
+Halland, ansvarar för prövning och resekost-
+nadsersättning vid sjukresor. För sjukresor finns
+ett särskilt regelverk om vilket Regionstyrelsen
+beslutar. Ungefär 10–12 procent av alla
+vårdbesök ger upphov till en sjukresa. Utgångs-
+punkten för en sjukresa är att den ska utföras
+med det för samhället billigaste färdsättet.
+Resorna samplaneras med övrig anropsstyrd
+trafik och organiseras av Ambulanssjukvården
+Halland. Beställning av sjukresor görs via
+Hallandstrafikens beställningscentral.
+
+4 Kapitlet är kopierat från Regionens
+trafikförsörjningsprogram för att skapa en
+helhetsöversikt
+
+• Region Halland har som mål att minst 30
+procent av alla sjukresor över kommun-
+gränsen sker med sjukreselinjen.
+• Fler resor bör ske inom den allmänna
+kollektivtrafiken.
+
+• Resorna samordnas när så är möjligt både
+med andra sjukresor men även med färd-
+tjänst och skolskjutsar.
+
+Skolskjutstrafik5
+Enligt Skollagen (2010:800) har elever i grund-
+skola med offentlig huvudman rätt till kostnads-
+fri skolskjuts till den skola som eleven placeras i
+av kommunen. Det finns även möjlighet för
+elever att bli berättigade skolskjuts till annan
+
 skola, såväl privata som offentliga, än den
 kommunen har placerat eleven om skolskjutsen
-Riksfärdtjänst
 kan ske utan ekonomiska eller organisatoriska
-Resor med beviljade tillstånd till riksfärdtjänst
 svårigheter. Kommunen är huvudman för
-bokas hos företaget Riksfärdtjänst i Sverige AB.
 skolan och står för hela kostnaden. Kommunen
 är därmed skyldig att anordna skolskjuts om
-RIAK
 skolskjuts behövs på grund av färdvägens
-I Kungsbacka erbjuds resenärer också möjlig- längd, trafikförhållanden, funktionsnedsättning
-heten till så kallade RIAK-resor (Resor i annan hos elev eller någon annan särskild
-kommun), vilket ger resenären möjligheten att omständighet. Myndighetsutövningen, beslut
-åka med upphandlade taxibolag till ett om vem som har rätt till skolskjuts och hur, får
-subventionerat pris. RIAK är en del av riksf- inte överlåtas till någon annan organisation utan
-ärdtjänst.                        det är kommunens angelägenhet. Det finns
+längd, trafikförhållanden, funktionsnedsättning
+hos elev eller någon annan särskild
+omständighet. Myndighetsutövningen, beslut
+om vem som har rätt till skolskjuts och hur, får
+inte överlåtas till någon annan organisation utan
+det är kommunens angelägenhet. Det finns
 stöd i kollektivtrafiklagen (2010:1065) för
-Sjukresor4
 kommunen att överlåta upphandling och sam-
-Grunderna för sjukresor styrs av Lag om rese- ordning till den regionala kollektivtrafik-
-kostnadsersättning vid sjukresa (1991:419). myndigheten. I Halland upphandlar och
-Sjukvårdshuvudmannen, det vill säga Region samordnar Hallandstrafiken skolskjutstrafiken i
-Halland, ansvarar för prövning och resekost- samtliga kommuner. Detta är en bra förut-
-nadsersättning vid sjukresor. För sjukresor finns sättning för att samordning och samplanering
-ett särskilt regelverk om vilket Regionstyrelsen mellan skolskjutstrafik och den allmänna
-beslutar. Ungefär 10–12 procent av alla kollektivtrafiken ska kunna ske. En utökad sam-
-vårdbesök ger upphov till en sjukresa. Utgångs- ordning, vid till exempel upphandling ger
-punkten för en sjukresa är att den ska utföras fördelar såsom bättre kostnadseffektivitet, till-
-med det för samhället billigaste färdsättet. gänglighet till kollektivtrafik på landsbygd samt
-Resorna samplaneras med övrig anropsstyrd mindre utsläpp då samma fordon kan användas
-trafik och organiseras av Ambulanssjukvården till både skolelever och resenärer i den
-Halland. Beställning av sjukresor görs via allmänna kollektivtrafiken.
-Hallandstrafikens beställningscentral.
+ordning till den regionala kollektivtrafik-
+myndigheten. I Halland upphandlar och
+samordnar Hallandstrafiken skolskjutstrafiken i
+samtliga kommuner. Detta är en bra förut-
+sättning för att samordning och samplanering
+
+mellan skolskjutstrafik och den allmänna
+kollektivtrafiken ska kunna ske. En utökad sam-
+ordning, vid till exempel upphandling ger
+fördelar såsom bättre kostnadseffektivitet, till-
+gänglighet till kollektivtrafik på landsbygd samt
+mindre utsläpp då samma fordon kan användas
+till både skolelever och resenärer i den
+allmänna kollektivtrafiken.
+
 • Samordning ska ske med den allmänna
 kollektivtrafiken.
-4 Kapitlet är kopierat från Regionens 5 Kapitlet är kopierat från Regionens
-trafikförsörjningsprogram för att skapa en trafikförsörjningsprogram för att skapa en
-helhetsöversikt                   helhetsöversikt
+
+5 Kapitlet är kopierat från Regionens
+trafikförsörjningsprogram för att skapa en
+helhetsöversikt
 
 <!-- sida 338 -->
 
-• Regelverk och riktlinjer ska så långt det är öka nyttjandet av kommunens digitala tjänster6
-möjligt utformas gemensamt.     varför ett stort arbete kring förenkling och
-• Resorna samordnas när så är möjligt både digitalisering av processen för ansökan av
-med allmän kollektivtrafik men även med färdtjänst där kommunen bistår den sökande
-andra skolskjutsresor samt färdtjänst och med kontakten med vården har gjorts och
-sjukresor.                      kommer att fortsätta utvecklas.
+• Regelverk och riktlinjer ska så långt det är
+möjligt utformas gemensamt.
+• Resorna samordnas när så är möjligt både
+med allmän kollektivtrafik men även med
+andra skolskjutsresor samt färdtjänst och
+sjukresor.
 
-Målbild Särskild kollektivtrafik
 Strategier och målsättningar
-Kungsbacka kommuns målsättning är att öka
 Den särskilda kollektivtrafiken har sin ut-
-integrationen av färdtjänst och allmän kollektiv-
+
 gångspunkt i olika lagrum och har
-trafik. I takt med att den allmänna kollektiv-
 organisatoriskt olika uppdragsgivare och
-trafiken anpassas allt mer till olika personers
 kostnadsbärare. Samverkansavtal och riktlinjer
-fysiska och psykiska förutsättningar minskar
 ser olika ut men den gemensamma nämnaren
-också behovet av färdtjänst och riksfärdtjänst
 är fokus på den tjänst som ska levereras och
-med personbil och specialfordon. Men
 under vilka förutsättningar. Samverkan mellan
-kommunen räknar ändå med att behovet av
 de olika parterna, kostnadsbärare och utförare,
-färdtjänst kommer att kvarstå för ett visst antal
 är ett viktigt inslag för att nå en ökad förståelse
-personer.
 kring den komplexa process som styr verksam-
 heten och driver kostnader. Denna samverkan
-Grunder  för prissättning
 är viktig för att gemensamt identifiera dessa
 faktorer och möjliga åtgärder för att uppnå en
-Färdtjänst
 social- och ekonomisk hållbarhet. Särskilt viktigt
-är det att samverka när förändringar sker Enligt beskrivning ovan baseras färdtjänstens
-gällande regelverk och riktlinjer eller egenavgifter på den, av kommunfullmäktige,
-beslutade Taxan7. Taxan är kopplad till taxan
-för den allmänna kollektivtrafiken och justeras
+är det att samverka när förändringar sker
+gällande regelverk och riktlinjer eller
+
 ÖVERGRIPANDE STRATEGIER
-av nämnden för Teknik utefter Västtrafiks
 GÄLLANDE DEN SÄRSKILDA
-beslutade ändringar av kollektivtrafiken. Detta
 KOLLEKTIVTRAFIKEN FÖR HALLAND
-beslut fastställdes av Kommunfullmäktige den 9
-april 2024, § 58 KS2023-00666,
+
 • Säkra samhällstjänsterna inom den
 särskilda kollektivtrafiken med fokus
-Riksfärdtjänst
 på långsiktig social och ekonomisk
-hållbarhet.                    ”Vid resa med riksfärdtjänst skall resenären
-betala en viss avgift, den s k egenavgiften.
+hållbarhet.
+
 • Utveckla former för samverkan och
-Egenavgiftens storlek skall motsvara normala
 samplanering mellan den allmänna-
-reskostnader med allmänna färdmedel och
 och särskilda kollektivtrafiken till
-beräknas efter vägavståndet i kilometer.
 exempel utvecklad Närtrafik och
-Resenärer under 26 år och studerande som
 Öppna upp skolskjutsar.
-innehar Centrala Studiestödsnämndens rabatt-
-kort eller något av Studentkårernas studentkort
 förändringar inom verksamheten för att uppnå
-som Mecenat och Studentkortet betalar endast
+
 en god samplanering och samordning av
-70% av egenavgiften”.8
 resorna.
 Härtill arbetar Kungsbacka för att minska det
 digitala utanförskapet bland våra invånare och
-6 Digital strategi, Kommunstyrelsen 2017-03- 7 Särskild kollektivtrafik – Taxa,
-14, § 61                          Kommunfullmäktige 9 april 2024 § 58
+
+6 Digital strategi, Kommunstyrelsen 2017-03-
+14, § 61
+
+öka nyttjandet av kommunens digitala tjänster6
+varför ett stort arbete kring förenkling och
+digitalisering av processen för ansökan av
+färdtjänst där kommunen bistår den sökande
+med kontakten med vården har gjorts och
+kommer att fortsätta utvecklas.
+
+Målbild Särskild kollektivtrafik
+
+Kungsbacka kommuns målsättning är att öka
+integrationen av färdtjänst och allmän kollektiv-
+trafik. I takt med att den allmänna kollektiv-
+trafiken anpassas allt mer till olika personers
+fysiska och psykiska förutsättningar minskar
+också behovet av färdtjänst och riksfärdtjänst
+med personbil och specialfordon. Men
+kommunen räknar ändå med att behovet av
+färdtjänst kommer att kvarstå för ett visst antal
+personer.
+
+Grunder  för prissättning
+
+Färdtjänst
+Enligt beskrivning ovan baseras färdtjänstens
+egenavgifter på den, av kommunfullmäktige,
+beslutade Taxan7. Taxan är kopplad till taxan
+för den allmänna kollektivtrafiken och justeras
+av nämnden för Teknik utefter Västtrafiks
+beslutade ändringar av kollektivtrafiken. Detta
+beslut fastställdes av Kommunfullmäktige den 9
+april 2024, § 58 KS2023-00666,
+
+Riksfärdtjänst
+
+”Vid resa med riksfärdtjänst skall resenären
+betala en viss avgift, den s k egenavgiften.
+Egenavgiftens storlek skall motsvara normala
+reskostnader med allmänna färdmedel och
+beräknas efter vägavståndet i kilometer.
+Resenärer under 26 år och studerande som
+innehar Centrala Studiestödsnämndens rabatt-
+kort eller något av Studentkårernas studentkort
+som Mecenat och Studentkortet betalar endast
+70% av egenavgiften”.8
+
+7 Särskild kollektivtrafik – Taxa,
+Kommunfullmäktige 9 april 2024 § 58
 KS2023-00666
 8 Riksfärdtjänsten Sverige AB
 
 <!-- sida 339 -->
 
-Åtgärder  för att skydda miljön   upphandling som utförts under 2021 stämdes
-miljöfrågan av med varje kostnadsbärare
-Som en del av Hallandstrafikens kollektivtrafik (kommun och region) och utifrån de samtalen
-omfattas färdtjänsten av gällande miljöarbete i samt Hallandstrafikens professionella
-’Regionalt Trafikförsörjningsprogram’ som bedömning blev ingången att påbörja en
-antogs av Regionfullmäktige den 9 december omställning till ett fossilfritt samhälle senast
-2020\. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
-Hallands kommuner och Region Halland funktionell kravställning på fossilfrihet (ingen
-gällande överlåtelse av färdtjänsten pekas de specifik teknik) som när trafikavtal 2022–2026
-strategiska frågorna ut till det regionala trafikf- går igång ska vara 50 procent fossilfritt vid
-örsörjningsprogrammet. För den trafik- avtalsstart och 75 procent innan avtalet tar slut.
+Åtgärder  för att skydda miljön
+
+Som en del av Hallandstrafikens kollektivtrafik
+omfattas färdtjänsten av gällande miljöarbete i
+’Regionalt Trafikförsörjningsprogram’ som
+antogs av Regionfullmäktige den 9 december
+2020\. I de riktlinjer som skapades mellan
+Hallands kommuner och Region Halland
+gällande överlåtelse av färdtjänsten pekas de
+strategiska frågorna ut till det regionala trafikf-
+örsörjningsprogrammet. För den trafik-
 
 Uppföljning  och indikatorer9
 
 9 Kapitlet är kopierat från Regionens
 trafikförsörjningsprogram för att skapa en
 helhetsöversikt
+
+upphandling som utförts under 2021 stämdes
+miljöfrågan av med varje kostnadsbärare
+(kommun och region) och utifrån de samtalen
+samt Hallandstrafikens professionella
+bedömning blev ingången att påbörja en
+omställning till ett fossilfritt samhälle senast
+2030\. Aktuella avtalskrav blev därför en
+funktionell kravställning på fossilfrihet (ingen
+specifik teknik) som när trafikavtal 2022–2026
+går igång ska vara 50 procent fossilfritt vid
+
+avtalsstart och 75 procent innan avtalet tar slut.
 
 <!-- sida 340 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3270c14f1a086398421c217a/1789464225
 sha256: 6db7fe9e98577ca2784611c9e50a0f38d71a4241df1242484b50b7182ce1ab16
 bytes: 9291668
 sidor: 606
-hamtad: 2026-10-23T07:28:03+00:00
-konverterad: 2026-10-23T07:29:42+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T09:09:31+00:00
+konverterad: 2026-11-06T09:11:20+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4478,7 +4478,6 @@ Författningsförslag                        SOU 2026:37
 
 12 d §
 Hemkommunen ansvarar inte
-
 för att ett barn genomgår en språk-
 bedömning i svenska enligt 12 c §
 om barnets vårdnadshavare begär
@@ -4495,17 +4494,26 @@ språkutvecklande stöd i svenska
 
 14 a §2
 Ett barn som ska erbjudas Ett barn som vid språk-
-förskola enligt 4 § ska av hem- bedömning enligt 12 c § bedöms
-kommunen erbjudas en plats vid ha behov av språkutvecklande stöd
-en förskoleenhet även utan att i svenska ska av hemkommunen
-något önskemål om förskola har tilldelas en plats vid en förskole-
-anmälts av barnets vårdnadshavare enhet även om barnets vårdnads-
-om                    havare inte har anmält något
-önskemål om förskola.
-1\. barnet är fött utomlands och
 
+förskola enligt 4 § ska av hem-
+kommunen erbjudas en plats vid
+en förskoleenhet även utan att
+något önskemål om förskola har
+anmälts av barnets vårdnadshavare
+om
+
+1\. barnet är fött utomlands och
 vistas i Sverige sedan högst fem år,
 eller
+
+bedömning enligt 12 c § bedöms
+ha behov av språkutvecklande stöd
+i svenska ska av hemkommunen
+tilldelas en plats vid en förskole-
+enhet även om barnets vårdnads-
+havare inte har anmält något
+önskemål om förskola.
+
 2\. barnets vårdnadshavare som
 är bosatta i Sverige är födda utom-
 lands och vistas i Sverige sedan
@@ -4575,14 +4583,22 @@ Författningsförslag                        SOU 2026:37
 
 16 §
 En kommun får ta ut avgift för plats i förskolan som den anordna.
-
 Avgifterna ska vara skäliga.
-Från och med höstterminen Från och med höstterminen
-det år barnet fyller tre år får av- det år barnet fyller tre år får av-
-giften avse bara den del av verk- giften avse bara den del av verk-
-samheten som överstiger 525 tim- samheten som överstiger 875 tim-
-mar om året.          mar om året.
-För barn som erbjudits för- För barn som erbjudits för-
+
+Från och med höstterminen
+det år barnet fyller tre år får av-
+giften avse bara den del av verk-
+samheten som överstiger 525 tim-
+mar om året.
+För barn som erbjudits för-
+
+Från och med höstterminen
+det år barnet fyller tre år får av-
+giften avse bara den del av verk-
+samheten som överstiger 875 tim-
+mar om året.
+För barn som erbjudits för-
+
 skola enligt 7 § får avgiften avse skola enligt 7 § får avgiften avse
 bara den del av verksamheten som bara den del av verksamheten som
 överstiger 15 timmar i veckan. överstiger 25 timmar i veckan.
@@ -24074,56 +24090,91 @@ gruppstorlekar och personaltäthet.
 
 <!-- sida 562 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Kronologisk förteckning
 
-1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
-utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
-på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
-A.                     – förslag för att motverka
-4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
-ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
-m.m. Fi.               kommunalskattesatser. Fi.
-6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
-hälso- och sjukvården. Styrning med Ju.
-tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
-S.                     i samverkan. Nationella åtgärder för
-7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
-av folkhälsopolitiken. vid brist. S.
-Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
-genom hälsoekonomiska analyser. mot barntolkning. A.
-Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
-politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+1\. Skatteincitament för forskning och
+utveckling – ett nytt incitament baserat
+på utgifter för FoU-personal. Fi.
+2\. 710 miljoner skäl till reformer. Ju.
+3\. Genomförande av plattformsdirektivet.
+A.
+4\. Rektor i fokus – förutsättningar för
+ett pedagogiskt ledarskap. U.
+5\. Utvidgad avdragsrätt för sponsring
+m.m. Fi.
+6\. En nationell digital infrastruktur i
+hälso- och sjukvården. Styrning med
+tydliga roller och ansvar för aktörerna.
+S.
+7\. Förstärkt uppföljning och utvärdering
+av folkhälsopolitiken.
+Del I: Effektivare folkhälsoinsatser
+genom hälsoekonomiska analyser.
+Del II: Utvärdering av alkohol-
+politikens styrmedel. S.
+8\. Rättssäker samhällsvård för barn och
 unga. S.
-26\. Digitala verktyg inom bolagsrätten.
-9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
-brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
-verksamhet och tillgångar till Tredje rapportering. Ju.
-och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
-verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
-AP-fonden. Fi.         för pälsproduktion. LI.
-13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
-med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+9\. Registrering av EES-medborgare. Ju.
+10\. Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. Ju.
+11\. Om överföring av Första AP-fondens
+verksamhet och tillgångar till Tredje
+och Fjärde AP-fonderna. Fi.
+12\. Om överföring av Sjätte AP-fondens
+verksamhet och tillgångar till Andra
+AP-fonden. Fi.
+13\. Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar. Ju.
+14\. Ädelmetallutredningen – en modernise-
 rad reglering av handel med ädelmetall-
-32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
-ningar att ta emot stora företagsetable-
-15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
-ett fossilfritt samhälle. KN.
 16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
+
+17\. Öresundsförbindelser 2050 – behov
+av kapacitet, redundans och svenskt-
+danskt samarbete. LI.
+18\. Odlingstorv och klimatet. Fi.
+19\. Stärkt tillsyn och uppföljning
+– förslag för att motverka
+oegentlig läkemedelsförskrivning. S.
+20\. Belägg för broms? Åtgärder
+för starkare incitament till lägre
+kommunalskattesatser. Fi.
+21\. Återkallelse av svenskt medborgarskap.
+Ju.
+22\. Stärkt läkemedelsförsörjning
+i samverkan. Nationella åtgärder för
+fördelning, omfördelning och inköp
+vid brist. S.
+23\. Tolkavgift och förbud
+mot barntolkning. A.
+24\. Mervärdesskatt vid uthyrning
+och överlåtelse av fastighet. Fi.
+25\. Ett smittskydd för framtiden. S.
+26\. Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. Ju.
+27\. Lättnader i kraven på hållbarhets-
+rapportering. Ju.
+28\. Tillgång till passageraruppgifter
+i brottsbekämpningen. Ju.
+29\. Förbud mot uppfödning av djur
+för pälsproduktion. LI.
+30\. Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. Ju.
+31\. Ett investeringsprogram för kultur. Ku.
+32\. Att säga ja! Kommunernas förutsätt-
+ningar att ta emot stora företagsetable-
+ringar och företagsexpansioner. KN.
+33\. Vägen mot utfasning. Styrmedel för
+ett fossilfritt samhälle. KN.
 
 <!-- sida 563 -->
 
@@ -24141,67 +24192,83 @@ språkutvecklande förskola. U.
 
 <!-- sida 564 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Digitala verktyg inom bolagsrätten.
-Genomförande av plattformsdirektivet. [3] Genomförande av EU:s direktiv om
-ytterligare digitalisering inom bolags-
+Arbetsmarknadsdepartementet
+Genomförande av plattformsdirektivet. [3]
 Tolkavgift och förbud mot barntolkning.
-rätten. [26]
 [23]
-Lättnader i kraven på hållbarhets-
-rapportering. [27]
+
 Finansdepartementet
-Tillgång till passageraruppgifter
 Skatteincitament för forskning och ut-
-i brottsbekämpningen. [28]
 veckling – ett nytt incitament baserat
-Mer flexibla regler om verkställighet av
 på utgifter för FoU-personal. [1]
-häktning och fängelsestraff. [30]
 Utvidgad avdragsrätt för sponsring m.m.
-Nya nätbrott och andra åtgärder för
 [5]
-genomförandet av direktivet om
 Om överföring av Första AP-fondens
-bekämpning av våld mot kvinnor och
 verksamhet och tillgångar till Tredje
-våld i nära relationer. Volym 1 & 2.
 och Fjärde AP-fonderna. [11]
-[34]
 Om överföring av Sjätte AP-fondens
 verksamhet och tillgångar till Andra
-Klimat- och näringslivsdepartementet
 AP-fonden. [12]
-Ädelmetallutredningen – en moderniserad
 Odlingstorv och klimatet. [18]
-reglering av handel med ädelmetallarbeten.
-Belägg för broms? Åtgärder för starkare [14]
+Belägg för broms? Åtgärder för starkare
 incitament till lägre kommunal-
-Att säga ja! Kommunernas förutsättningar
 skattesatser. [20]
-att ta emot stora företagsetableringar
-Mervärdesskatt vid uthyrning och och företagsexpansioner. [32]
+Mervärdesskatt vid uthyrning och
 överlåtelse av fastighet. [24]
+Försvarsdepartementet
+Försvarsexportinitiativ. För gemensam
+säkerhet. [16]
+Justitiedepartementet
+710 miljoner skäl till reformer. [2]
+Registrering av EES-medborgare. [9]
+Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. [10]
+Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar.
+[13]
+Återkallelse av svenskt medborgarskap.
+[21]
+
+Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. [26]
+Lättnader i kraven på hållbarhets-
+rapportering. [27]
+Tillgång till passageraruppgifter
+i brottsbekämpningen. [28]
+Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. [30]
+Nya nätbrott och andra åtgärder för
+genomförandet av direktivet om
+bekämpning av våld mot kvinnor och
+våld i nära relationer. Volym 1 & 2.
+[34]
+Klimat- och näringslivsdepartementet
+Ädelmetallutredningen – en moderniserad
+reglering av handel med ädelmetallarbeten.
+[14]
+Att säga ja! Kommunernas förutsättningar
+att ta emot stora företagsetableringar
+och företagsexpansioner. [32]
 Vägen mot utfasning. Styrmedel för
 ett fossilfritt samhälle. [33]
-Försvarsdepartementet
-Försvarsexportinitiativ. För gemensam Kulturdepartementet
-säkerhet. [16]
+Kulturdepartementet
 Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-Justitiedepartementet   politik. Volym 1 och 2. [15]
-710 miljoner skäl till reformer. [2] Ett investeringsprogram för kultur. [31]
-Registrering av EES-medborgare. [9]
-Ökade möjligheter till tillgångsinriktad Landsbygds- och
-brottsbekämpning. Del 1 och 2. [10] infrastrukturdepartementet
-Straffansvar för deltagande i och samröre Öresundsförbindelser 2050 – behov av
-med kriminella sammanslutningar. kapacitet, redundans och svenskt-danskt
-[13]                  samarbete. [17]
-Återkallelse av svenskt medborgarskap. Förbud mot uppfödning av djur
-[21]                  för pälsproduktion. [29]
+politik. Volym 1 och 2. [15]
+Ett investeringsprogram för kultur. [31]
+Landsbygds- och
+infrastrukturdepartementet
+Öresundsförbindelser 2050 – behov av
+kapacitet, redundans och svenskt-danskt
+samarbete. [17]
+Förbud mot uppfödning av djur
+för pälsproduktion. [29]
 
 <!-- sida 565 -->
 
