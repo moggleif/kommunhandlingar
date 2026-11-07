@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.c04ab511a1158f057731ac/179137291749
 sha256: 20bb4abfbf84c1f94fca250db5a1cfa38b443d4bd5a8de72d8438ce0308e0ae6
 bytes: 698301
 sidor: 5
-hamtad: 2026-10-24T07:20:03+00:00
-konverterad: 2026-10-24T07:20:10+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:43:04+00:00
+konverterad: 2026-11-06T21:43:10+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
@@ -146,15 +146,25 @@ Serienummer: a3673656b4da772[…]4798fc5ed86332 Serienummer: e98bded6d36442d[…
 IP: 81.237.xxx.xxx                    IP: 95.193.xxx.xxx
 2026-10-07 10:55:01 UTC               2026-10-07 11:06:52 UTC
 
-Detta dokument är undertecknat digitalt via Penneo.com. De signerade Så här verifierar du dokumentets äkthet:
-uppgifternas integritet är validerad med hjälp av ett beräknat hashvärde för När du öppnar dokumentet i Adobe Reader kan du se att det är
-originaldokumentet. Alla kryptografiska bevis är inbäddade i denna PDF, vilket certifierat av Penneo A/S. Detta bekräftar att dokumentets innehåll
-säkerställer både autenticitet och möjlighet till framtida validering. förblir oförändrat sedan tidpunkten för undertecknandet. Bevis för de
-enskilda undertecknarnas digitala signaturer bifogas dokumentet.
-Detta dokument är försett med ett kvalificerat elektroniskt sigill. För mer
-information om Penneos kvalificerade betrodda tjänster, se De kryptografiska bevisen kan kontrolleras med hjälp av Penneos
-https://eutl.penneo.com.              validator, https://penneo.com/validator, eller andra validerings
-verktyg för digitala signaturer.
 Q8AYZ-0S824-2EUPV-8TUP6-1F3HN-SZ0HO
+
 :lekcyntnemukod
+
 oenneP
+
+Detta dokument är undertecknat digitalt via Penneo.com. De signerade
+uppgifternas integritet är validerad med hjälp av ett beräknat hashvärde för
+originaldokumentet. Alla kryptografiska bevis är inbäddade i denna PDF, vilket
+säkerställer både autenticitet och möjlighet till framtida validering.
+Detta dokument är försett med ett kvalificerat elektroniskt sigill. För mer
+information om Penneos kvalificerade betrodda tjänster, se
+https://eutl.penneo.com.
+
+Så här verifierar du dokumentets äkthet:
+När du öppnar dokumentet i Adobe Reader kan du se att det är
+certifierat av Penneo A/S. Detta bekräftar att dokumentets innehåll
+förblir oförändrat sedan tidpunkten för undertecknandet. Bevis för de
+enskilda undertecknarnas digitala signaturer bifogas dokumentet.
+De kryptografiska bevisen kan kontrolleras med hjälp av Penneos
+validator, https://penneo.com/validator, eller andra validerings
+verktyg för digitala signaturer.

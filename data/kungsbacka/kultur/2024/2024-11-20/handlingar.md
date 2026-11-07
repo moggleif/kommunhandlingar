@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe6036320/1731937622
 sha256: e8e1cd9d8545c2313145a43c4abe47c89b89de52f24a83024a48d1416504a210
 bytes: 20933688
 sidor: 317
-hamtad: 2026-10-23T11:02:32+00:00
-konverterad: 2026-10-23T11:03:27+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T20:04:02+00:00
+konverterad: 2026-11-06T20:04:58+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -10125,32 +10125,42 @@ föreningar.
 
 Vägen framåt –Konsekvenser och åtgärdsförslag
 
-Princip:         Likvärdighet
+Princip:          Likvärdighet
 
-Konsekvenser        att  hantera                       Förslag    på  åtgärder
+Konsekvenser         att hantera
 
-• Det behöver vara lätt att få tydlig information om   • Tydliggör grundläggande krav som måste uppfyllas
-hur man blir en bidragsberättigad förening             för att en förening ska vara bidragsberättigad, t.ex.
+• Det behöver vara lätt att få tydlig information om
+hur man blir en bidragsberättigad förening
 
-•  lägsta nivå för antalet aktiva medlemmar
 • KFT behöver kunna neka bidrag till föreningar som
-•  att föreningen måste registrera sig i föreningsregistret och
 inte uppfyller grundläggande demokratikrav
-årligen uppdatera sina uppgifter
-• KFT behöver kontinuerligt kunna följa upp att           •  att föreningen ska vara ideell, allmännyttig och öppen för alla
-och där det av stadgarna ska framgå att alla som instämmer i
+
+• KFT behöver kontinuerligt kunna följa upp att
+
 föreningar är fortsatt bidragsberättigade
+
+Förslag    på  åtgärder
+
+• Tydliggör grundläggande krav som måste uppfyllas
+
+för att en förening ska vara bidragsberättigad, t.ex.
+• lägsta nivå för antalet aktiva medlemmar
+• att föreningen måste registrera sig i föreningsregistret och
+årligen uppdatera sina uppgifter
+
+• att föreningen ska vara ideell, allmännyttig och öppen för alla
+och där det av stadgarna ska framgå att alla som instämmer i
 föreningens målsättningar har rätt till medlemskap
-•  att föreningen normalt ska ha sitt säte i Kungsbacka kommun
+• att föreningen normalt ska ha sitt säte i Kungsbacka kommun
 och i huvudsak bedriva sin verksamhet i Kungsbacka kommun
-•  att föreningar som bedriver verksamhet för barn och unga
+• att föreningar som bedriver verksamhet för barn och unga
 ansvarar för att verksamheten bedrivs i enlighet med FN:s
 barnkonvention och lagstiftning kopplat till denna
-•  att föreningar som bedriver verksamhet för personer med
+• att föreningar som bedriver verksamhet för personer med
 funktionsnedsättning ansvarar för att verksamheten bedrivs i
 enlighet med FN-konventionen om rättigheter för personer
 med funktionsnedsättning
-•  att föreningen inte agerar odemokratiskt, t.ex. genom att
+• att föreningen inte agerar odemokratiskt, t.ex. genom att
 kränka den enskildes grundläggande fri- och rättigheter,
 genom att diskriminera eller på annat sätt bryta mot
 principen om alla människors lika värde, eller genom att
@@ -10160,30 +10170,41 @@ motarbeta det demokratiska styrelseskicket.
 
 Vägen framåt –Konsekvenser och åtgärdsförslag
 
-Princip:         Klubblokaler
+Princip:          Klubblokaler
 
-Konsekvenser        att  hantera                       Förslag    på  åtgärder
+Konsekvenser         att hantera
 
-• Det kan bli dyrare för vissa föreningar att ha samma • Utred hur olika klubbar påverkas
+• Det kan bli dyrare för vissa föreningar att ha samma
 standard som idag. T.ex. Särö, Onsala och Lerkil
-• Tydliggör vad som är klubblokal och vad som är
+
 kommer  få betydligt högre hyra eller mindre yta att
-verksamhetsyta, där det är oklart
 disponera
-• Ta fram en plan för övergång för klubbar där det får
+
 • Det kommer  innebära omfattande förändringar för
-ohållbart stora konsekvenser
 ridklubbarna gällande ägande och underhåll
+
 • Svårt att sära på vad som är klubblokal och vad
-som är verksamhetsyta när det ligger i samma
+som  är verksamhetsyta när det ligger i samma
 byggnad
+
 • Risk för minskade möjligheter för barn och
-ungdomar att använda klubblokal som "fritids"
+ungdomar  att använda klubblokal som "fritids"
 
 • Föreningarna behöver själva tillgodose sitt behov av
 klubblokaler
 
 • Ökar fokus på föreningarnas egna ägande
+
+Förslag    på  åtgärder
+
+• Utred hur olika klubbar påverkas
+
+• Tydliggör vad som är klubblokal och vad som är
+
+verksamhetsyta, där det är oklart
+• Ta fram en plan för övergång för klubbar där det får
+
+ohållbart stora konsekvenser
 
 <!-- sida 276 -->
 

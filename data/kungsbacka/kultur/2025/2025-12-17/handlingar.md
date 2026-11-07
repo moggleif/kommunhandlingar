@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3f323d7b19afcca1016279a5/1765532195
 sha256: d224779e87c6b1753452e67edfe9be814135b1d4936796ce4c6fed4faa8474f1
 bytes: 37727361
 sidor: 974
-hamtad: 2026-10-24T06:07:52+00:00
-konverterad: 2026-10-24T06:10:26+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T20:14:54+00:00
+konverterad: 2026-11-06T20:18:20+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -93,27 +93,38 @@ Kontakt
 
 Om    undersökningen
 
-Bakgrund och syfte                                        Metod
-Indikator har, på uppdrag av Kungsbacka kommun, genomfört en lokal kulturvaneundersökning för Datainsamling
-andra året i rad.                                         Undersökningen genomfördes genom flera steg av utskick för att maximera svarsfrekvensen.
-Först skickades en brevinbjudan med länk och QR-kod till webbenkäten. Därefter skickades en
-Undersökningen ger kommunen en unik möjlighet att följa invånarnas kulturvanor och attityder SMS-påminnelse till de personer som ännu inte hade svarat. En tid senare följde en påminnelse
-över tid. Den kombinerar generellt formulerade frågor om kulturvanor och deltagande med mer via Kivra, kompletterad med ett SMS till dem som inte var anslutna till Kivra. Slutligen skickades
-lokalt anpassade frågor om Kungsbacka kommuns kulturutbud, aktuella teman och särskilda även en pappersenkät ut till kvarvarande mottagare.
+Bakgrund och syfte
+Indikator har, på uppdrag av Kungsbacka kommun, genomfört en lokal kulturvaneundersökning för
+andra året i rad.
+Undersökningen ger kommunen en unik möjlighet att följa invånarnas kulturvanor och attityder
+över tid. Den kombinerar generellt formulerade frågor om kulturvanor och deltagande med mer
+lokalt anpassade frågor om Kungsbacka kommuns kulturutbud, aktuella teman och särskilda
 satsningar. Syftet är att ge ett brett och nyanserat underlag för kommunens fortsatta arbete med
-kulturplanering, prioriteringar och utveckling av verksamheter. Enkät
-Enkäten bestod av nio kultur-och fritidsfrågor/matriser, 10 bakgrundsfrågor samt fem frågor på
-Genomförande                                              årets tema Offentlig konst. Frågeformuläret har tagits fram i samråd mellan Kungsbacka kommun
-Undersökningen pågick mellan den 2 september och den 22 oktober –cirka 7 veckor. och Indikator, med utgångspunkt i frågor från välbeprövade och etablerade nationella
-undersökningar där detta varit relevant. Indikator har lång erfarenhet av att utforma
+kulturplanering, prioriteringar och utveckling av verksamheter.
+Genomförande
+Undersökningen pågick mellan den 2 september och den 22 oktober –cirka 7 veckor.
+
 Målgrupp och urval
-frågeformulär som på ett tillförlitligt sätt fångar det som undersökningen avser att mäta.
 Målgruppen utgjordes av personer i åldersspannet 18-75 år folkbokförda i Kungsbacka kommun.
 Urvalet omfattade 2 000 personer, varav totalt 839 personer besvarade hela eller delar av enkäten.
-Rapport
 Det motsvarar en svarsfrekvens på 42 procent. Undersökningen ger därmed en god grund för att
-Resultaten redovisas per fråga i form av diagram och tolkande text, med syfte att på ett
 belysa invånarnas kulturvanor, intressen och upplevelser av kommunens kulturutbud.
+
+Metod
+Datainsamling
+Undersökningen genomfördes genom flera steg av utskick för att maximera svarsfrekvensen.
+Först skickades en brevinbjudan med länk och QR-kod till webbenkäten. Därefter skickades en
+SMS-påminnelse till de personer som ännu inte hade svarat. En tid senare följde en påminnelse
+via Kivra, kompletterad med ett SMS till dem som inte var anslutna till Kivra. Slutligen skickades
+även en pappersenkät ut till kvarvarande mottagare.
+Enkät
+Enkäten bestod av nio kultur-och fritidsfrågor/matriser, 10 bakgrundsfrågor samt fem frågor på
+årets tema Offentlig konst. Frågeformuläret har tagits fram i samråd mellan Kungsbacka kommun
+och Indikator, med utgångspunkt i frågor från välbeprövade och etablerade nationella
+undersökningar där detta varit relevant. Indikator har lång erfarenhet av att utforma
+frågeformulär som på ett tillförlitligt sätt fångar det som undersökningen avser att mäta.
+Rapport
+Resultaten redovisas per fråga i form av diagram och tolkande text, med syfte att på ett
 överskådligt och intuitivt sätt presentera undersökningens resultat.
 I denna rapport redovisas svaren från Kungsbacka kommuns invånare 2025, med jämförelser mot
 2024 där motsvarande data finns tillgänglig. Utöver föreliggande rapport levereras resultatet i
@@ -123,6 +134,7 @@ kommunens befolkning så representativt som möjligt.
 Kontaktpersoner Indikator
 Klara Bové
 (e-post borttagen)
+
 Simon Nygren Greus
 (e-post borttagen)
 
@@ -9612,49 +9624,87 @@ nämndemän ingå i rätten.
 
 Härigenom föreskrivs att 36 kap. 5 § rättegångsbalken ska ha följande
 lydelse.
-
 Nuvarande lydelse    Föreslagen lydelse
+
 36 kap.
 5 §1
 Den som till följd av 15 kap. 1 eller 2 §, 16 kap. 1 § eller 18 kap. 5, 6 eller
 7 § offentlighets- och sekretesslagen (2009:400) eller någon bestämmelse,
 till vilken det hänvisas i något av dessa lagrum, inte får lämna en uppgift
 får inte höras som vittne om uppgiften utan att den myndighet, i vars
+
 verksamhet uppgiften har inhämtats, har gett sitt tillstånd.
 Advokater, läkare, tandläkare, Advokater, läkare, tandläkare,
 barnmorskor, sjuksköterskor, psy- barnmorskor, sjuksköterskor, psy-
 kologer, psykoterapeuter, familje- kologer, psykoterapeuter eller
 rådgivare enligt socialtjänstlagen familjerådgivare enligt socialtjänst-
-(2025:400) och deras biträden samt lagen (2025:400) och deras
-auktoriserade patentombud och biträden samt auktoriserade patent-
-deras biträden såvitt avser patent- ombud och deras biträden såvitt
-rättsliga angelägenheter enligt 2 § 1 avser patenträttsliga angelägen-
-lagen (2010:1052) om auktori- heter enligt 2 § 1 lagen (2010:1052)
-sation av patentombud, får höras om auktorisation av patentombud,
-som vittnen om något som i denna får höras som vittnen om något som
-deras yrkesutövning anförtrotts i denna deras yrkesutövning
-dem eller som de i samband därmed anförtrotts dem eller som de i
-har erfarit, endast om det är med- samband därmed har erfarit, endast
-givet i lag eller den till vars förmån om det är medgivet i lag eller den
-tystnadsplikten gäller samtycker till till vars förmån tystnadsplikten
-det. Medlare enligt denna balk, gäller samtycker till det. Medlare
-6 kap. 18 a § föräldrabalken, lagen enligt denna balk, 6 kap. 18 a §
-(1973:188) om arrendenämnder föräldrabalken, lagen (1973:188)
-och hyresnämnder eller lagen om arrendenämnder och hyres-
-(2011:860) om medling i vissa nämnder eller lagen (2011:860) om
-privaträttsliga tvister och deras medling i vissa privaträttsliga
-biträden, får höras som vittnen om tvister och deras biträden, får höras
-vad som anförtrotts dem vid som vittnen om vad som anförtrotts
-medlingen eller som de i samband dem vid medlingen eller som de i
-därmed erfarit, endast om det är samband därmed erfarit, endast om
-medgivet i lag eller den till vars det är medgivet i lag eller den till
-förmån tystnadsplikten gäller vars förmån tystnadsplikten gäller
-samtycker till det. Den som till samtycker till det. Den som till
-följd av 24 kap. 8 § offentlighets- följd av 24 kap. 8 § offentlighets-
-och sekretesslagen inte får lämna och sekretesslagen inte får lämna
-uppgifter som avses där får höras uppgifter som avses där får höras
-som vittne om dem endast om det som vittne om dem endast om det
-är medgivet i lag eller den till vars är medgivet i lag eller den till vars
+
+(2025:400) och deras biträden samt
+auktoriserade patentombud och
+deras biträden såvitt avser patent-
+rättsliga angelägenheter enligt 2 § 1
+lagen (2010:1052) om auktori-
+sation av patentombud, får höras
+
+lagen (2025:400) och deras
+biträden samt auktoriserade patent-
+ombud och deras biträden såvitt
+avser patenträttsliga angelägen-
+heter enligt 2 § 1 lagen (2010:1052)
+om auktorisation av patentombud,
+
+som vittnen om något som i denna
+deras yrkesutövning anförtrotts
+dem eller som de i samband därmed
+har erfarit, endast om det är med-
+givet i lag eller den till vars förmån
+tystnadsplikten gäller samtycker till
+det. Medlare enligt denna balk,
+6 kap. 18 a § föräldrabalken, lagen
+(1973:188) om arrendenämnder
+och hyresnämnder eller lagen
+(2011:860) om medling i vissa
+
+får höras som vittnen om något som
+i denna deras yrkesutövning
+anförtrotts dem eller som de i
+samband därmed har erfarit, endast
+om det är medgivet i lag eller den
+till vars förmån tystnadsplikten
+gäller samtycker till det. Medlare
+enligt denna balk, 6 kap. 18 a §
+föräldrabalken, lagen (1973:188)
+om arrendenämnder och hyres-
+nämnder eller lagen (2011:860) om
+
+privaträttsliga tvister och deras
+biträden, får höras som vittnen om
+vad som anförtrotts dem vid
+medlingen eller som de i samband
+därmed erfarit, endast om det är
+medgivet i lag eller den till vars
+förmån tystnadsplikten gäller
+samtycker till det. Den som till
+följd av 24 kap. 8 § offentlighets-
+och sekretesslagen inte får lämna
+uppgifter som avses där får höras
+som vittne om dem endast om det
+är medgivet i lag eller den till vars
+
+medling i vissa privaträttsliga
+tvister och deras biträden, får höras
+som vittnen om vad som anförtrotts
+dem vid medlingen eller som de i
+samband därmed erfarit, endast om
+det är medgivet i lag eller den till
+vars förmån tystnadsplikten gäller
+samtycker till det. Den som till
+följd av 24 kap. 8 § offentlighets-
+och sekretesslagen inte får lämna
+uppgifter som avses där får höras
+som vittne om dem endast om det
+är medgivet i lag eller den till vars
+
 1 Senaste lydelse 2025:401.                        49
 
 <!-- sida 227 -->
@@ -9729,25 +9779,35 @@ Denna lag träder i kraft den 1 januari 2027.
 
 Härigenom föreskrivs att 7 kap. 4 § och 32 kap. 1 § brottsbalken ska ha
 följande lydelse.
-
 Nuvarande lydelse    Föreslagen lydelse
+
 7 kap.
 4 §1
 Den som obehörigen skiljer ett barn under femton år från någon som har
 vårdnaden om barnet döms för egenmäktighet med barn till böter eller
 fängelse i högst ett år, om gärningen inte utgör brott mot frihet. Detsamma
 gäller, om den som gemensamt med någon annan har vårdnaden om ett
+
 barn under femton år utan beaktansvärt skäl egenmäktigt skiljer barnet från
 den andra vårdnadshavaren eller om den som ska ha vårdnaden obehörigen
 bemäktigar sig barnet och därigenom själv tar sig rätt.
 Till ansvar enligt första stycket döms också den som
 1\. obehörigen skiljer ett barn 1. obehörigen skiljer ett barn
-under femton år från någon som under femton år från någon som
-vårdar barnet med stöd av lagen vårdar barnet med stöd av lagen
-(1990:52) med särskilda bestäm- (2026:000) om omhändertagande
-melser om vård av unga, om för vård av barn och unga, om
-gärningen inte utgör brott mot gärningen inte utgör brott mot
-frihet eller främjande av flykt, eller frihet eller främjande av flykt, eller
+
+under femton år från någon som
+vårdar barnet med stöd av lagen
+(1990:52) med särskilda bestäm-
+melser om vård av unga, om
+gärningen inte utgör brott mot
+frihet eller främjande av flykt, eller
+
+under femton år från någon som
+vårdar barnet med stöd av lagen
+(2026:000) om omhändertagande
+för vård av barn och unga, om
+gärningen inte utgör brott mot
+frihet eller främjande av flykt, eller
+
 2\. för bort eller annars undan- 2. för bort eller annars undan-
 håller ett barn under femton år, om håller ett barn under femton år, om
 gärningen är ägnad att hindra att gärningen är ägnad att hindra att
@@ -9757,6 +9817,7 @@ påbörjas och gärningen inte utgör påbörjas och gärningen inte utgör
 brott mot frihet.    brott mot frihet.
 Om ett brott som avses i första eller andra stycket är grovt, döms till
 fängelse i lägst sex månader och högst fyra år.
+
 32 kap.
 1 §2
 Den som har begått brott innan han Den som har begått brott innan han
@@ -9770,8 +9831,9 @@ melser om vård av unga och sådan för vård av barn och unga och
 vård eller åtgärd kan beredas den sådan vård eller åtgärd kan beslutas
 unge. Vården och åtgärderna ska för den unge. Vården och
 syfta till att motverka att den unge åtgärderna ska syfta till att
+
 1 Senaste lydelse 2024:271.
-52           2 Senaste lydelse 2025:403.
+52          2 Senaste lydelse 2025:403.
 
 <!-- sida 230 -->
 
@@ -9869,32 +9931,57 @@ eller
 – på grund av skyddstillsyn med särskild behandlingsplan vistas i ett
 sådant familjehem, stödboende eller hem för vård eller boende som avses
 i socialtjänstlagen (2025:400).
+
 106 kap.
 3 c §3
 Vid tillämpning av andra bestäm- Vid tillämpning av andra bestäm-
 melser än 5 § i detta kapitel likställs melser än 5 § i detta kapitel likställs
 med intagen i ett hem som avses i med intagen i ett hem som avses i
-12 § lagen (1990:52) med särskilda 15 kap. 1 § lagen (2026:000) om
-bestämmelser om vård av unga för omhändertagande för vård av barn
-verkställighet av sluten ungdoms- och unga för verkställighet av slu-
-vård och frihetsberövad den som är ten ungdomsvård och frihetsberö-
-dömd till sluten ungdomsvård men vad den som är dömd till sluten
-som inte har inställt sig vid ett ungdomsvård men som inte har
-sådant hem den dag som påföljden inställt sig vid ett sådant hem den
-ska verkställas.     dag som påföljden ska verkställas.
+
+12 § lagen (1990:52) med särskilda
+bestämmelser om vård av unga för
+verkställighet av sluten ungdoms-
+vård och frihetsberövad den som är
+dömd till sluten ungdomsvård men
+som inte har inställt sig vid ett
+sådant hem den dag som påföljden
+ska verkställas.
+
+15 kap. 1 § lagen (2026:000) om
+omhändertagande för vård av barn
+och unga för verkställighet av slu-
+ten ungdomsvård och frihetsberö-
+vad den som är dömd till sluten
+ungdomsvård men som inte har
+inställt sig vid ett sådant hem den
+dag som påföljden ska verkställas.
+
 5 §
-Om en kvinna vid tiden för förloss- Om en kvinna vid tiden för förloss-
-ningen är intagen i kriminalvårds- ningen är intagen i kriminalvårds-
-anstalt eller ett hem som avses i anstalt eller ett hem som avses i
-12 § lagen (1990:52) med särskilda 15 kap. 1 § lagen (2026:000) om
-bestämmelser om vård av unga, får omhändertagande för vård av barn
-Försäkringskassan på framställning och unga, får Försäkringskassan på
-av föreståndaren för inrättningen framställning av föreståndaren för
-besluta att den föräldrapenning som inrättningen besluta att den föräl-
-kvinnan har rätt till ska betalas ut drapenning som kvinnan har rätt till
-till föreståndaren att användas för ska betalas ut till föreståndaren att
-kvinnans och barnets nytta. användas för kvinnans och barnets
+Om en kvinna vid tiden för förloss-
+ningen är intagen i kriminalvårds-
+anstalt eller ett hem som avses i
+12 § lagen (1990:52) med särskilda
+bestämmelser om vård av unga, får
+Försäkringskassan på framställning
+av föreståndaren för inrättningen
+besluta att den föräldrapenning som
+kvinnan har rätt till ska betalas ut
+till föreståndaren att användas för
+kvinnans och barnets nytta.
+
+Om en kvinna vid tiden för förloss-
+ningen är intagen i kriminalvårds-
+anstalt eller ett hem som avses i
+15 kap. 1 § lagen (2026:000) om
+omhändertagande för vård av barn
+och unga, får Försäkringskassan på
+framställning av föreståndaren för
+inrättningen besluta att den föräl-
+drapenning som kvinnan har rätt till
+ska betalas ut till föreståndaren att
+användas för kvinnans och barnets
 nytta.
+
 12 §
 Sjukpenning lämnas inte för tid när den försäkrade
 1\. fullgör någon annan tjänstgöring enligt lagen (1994:1809) om total-
@@ -9904,6 +9991,7 @@ avses i 12 § lagen (1990:52) med avses i 15 kap. 1 § lagen
 särskilda bestämmelser om vård av (2026:000) om omhändertagande
 unga med stöd av 3 § samma lag, för vård av barn och unga med stöd
 av 5 kap. 3 § samma lag,
+
 3 Senaste lydelse 2025:611.                        55
 
 <!-- sida 233 -->
@@ -9932,8 +10020,8 @@ Denna lag träder i kraft den 1 januari 2027.
 
 2.7   Förslag till lag om ändring i lagen (1964:167)
 med särskilda bestämmelser om unga
-
 lagöverträdare
+
 Härigenom föreskrivs att 9, 11 och 17 §§ lagen (1964:167) med särskilda
 bestämmelser om unga lagöverträdare ska ha följande lydelse.
 
@@ -9942,17 +10030,30 @@ Nuvarande lydelse    Föreslagen lydelse
 9 §1
 Om någon, som med stöd av 3 § Om någon, som med stöd av 3 kap.
 lagen (1990:52) med särskilda 3 § lagen (2026:000) om omhän-
-bestämmelser om vård av unga har dertagande för vård av barn och
-intagits i ett sådant hem som avses unga har intagits i ett sådant hem
-i 12 § den lagen, misstänks för att som avses i 15 kap. 1 § den lagen,
-ha begått brott som hör under all- misstänks för att ha begått brott
-mänt åtal, innan vården vid hemmet som hör under allmänt åtal, innan
-har avslutats, skall åklagaren pröva vården vid hemmet har avslutats,
-om åtal lämpligen bör ske. Innan ska åklagaren pröva om åtal
-åtalsfrågan avgörs, skall förestån- lämpligen bör ske. Innan åtalsfrå-
-daren för hemmet höras, om det gan avgörs, ska föreståndaren för
-inte är obehövligt.  hemmet höras, om det inte är
+
+bestämmelser om vård av unga har
+intagits i ett sådant hem som avses
+i 12 § den lagen, misstänks för att
+ha begått brott som hör under all-
+mänt åtal, innan vården vid hemmet
+har avslutats, skall åklagaren pröva
+om åtal lämpligen bör ske. Innan
+åtalsfrågan avgörs, skall förestån-
+daren för hemmet höras, om det
+inte är obehövligt.
+
+dertagande för vård av barn och
+unga har intagits i ett sådant hem
+som avses i 15 kap. 1 § den lagen,
+misstänks för att ha begått brott
+som hör under allmänt åtal, innan
+vården vid hemmet har avslutats,
+ska åklagaren pröva om åtal
+lämpligen bör ske. Innan åtalsfrå-
+gan avgörs, ska föreståndaren för
+hemmet höras, om det inte är
 obehövligt.
+
 11 §2
 I fråga om den som misstänks för att ha begått brott innan han eller hon
 fyllt arton år ska åklagaren, innan beslut fattas i åtalsfrågan, inhämta
@@ -9976,6 +10077,7 @@ behov av åtgärder som syftar till att behov av åtgärder som syftar till att
 motverka att han eller hon utveck- motverka att han eller hon utveck-
 las ogynnsamt. Yttrandet ska i före- las ogynnsamt. Yttrandet ska i före-
 kommande fall även innehålla en kommande fall även innehålla en
+
 1 Senaste lydelse 1994:1760.
 2 Senaste lydelse 2025:405.                        57
 
@@ -9983,26 +10085,44 @@ kommande fall även innehålla en kommande fall även innehålla en
 
 redovisning av i vilken utsträck- redovisning av i vilken utsträck-
 ning den unge fullgjort en sådan ning den unge fullgjort en sådan
+
 tidigare utdömd ungdomsvård eller tidigare utdömd ungdomsvård eller
+
 ungdomstjänst som nämnden har ungdomstjänst som nämnden har
+
 uppgift om. Vidare ska yttrandet uppgift om. Vidare ska yttrandet
+
 innehålla en redovisning av de innehålla en redovisning av de
+
 åtgärder som nämnden avser att åtgärder som nämnden avser att
 vidta. Åtgärderna ska redovisas i ett vidta. Åtgärderna ska redovisas i ett
+
 ungdomskontrakt om de vidtas med ungdomskontrakt om de vidtas med
+
 stöd av socialtjänstlagen och i en stöd av socialtjänstlagen och i en
+
 vårdplan om de vidtas med stöd av vårdplan om de vidtas med stöd av
+
 lagen (1990:52) med särskilda lagen (2026:000) om omhänderta-
 bestämmelser om vård av unga. gande för vård av barn och unga.
 Arten, omfattningen och varaktig- Arten, omfattningen och varaktig-
 heten av åtgärderna ska framgå av heten av åtgärderna ska framgå av
 kontraktet eller vårdplanen. Yttran- kontraktet eller vårdplanen. Yttran-
-det ska, om undersökningsledaren det ska, om undersökningsledaren
-eller, i de fall som avses i första eller, i de fall som avses i första
-stycket, åklagaren begär det eller stycket, åklagaren begär det eller
-om nämnden finner det nödvändigt, om nämnden finner det nödvändigt,
-även innehålla en redogörelse för även innehålla en redogörelse för
-den unges personliga utveckling den unges personliga utveckling
+
+det ska, om undersökningsledaren
+eller, i de fall som avses i första
+stycket, åklagaren begär det eller
+om nämnden finner det nödvändigt,
+även innehålla en redogörelse för
+den unges personliga utveckling
+
+det ska, om undersökningsledaren
+eller, i de fall som avses i första
+stycket, åklagaren begär det eller
+om nämnden finner det nödvändigt,
+även innehålla en redogörelse för
+den unges personliga utveckling
+
 och levnadsomständigheter i och levnadsomständigheter i
 övrigt. Ett yttrande ska också övrigt. Ett yttrande ska också
 innehålla en bedömning av om ung- innehålla en bedömning av om
@@ -10012,6 +10132,7 @@ och övriga omständigheter. person och övriga omständigheter.
 Nämnden ska även utan samband med yttrande lämna den som har
 ansvar för att inhämta yttrande de upplysningar som denne begär i fråga
 om den unge.
+
 17 §3
 Straffvarning får beslutas, om den unge blir föremål för sådan åtgärd som
 anges nedan och det med skäl kan antas att därigenom vidtas vad som är
@@ -10028,7 +10149,8 @@ Vid bedömningen av om straffvarning ska beslutas ska åklagaren utöver
 vad som följer av första och andra styckena särskilt beakta den unges vilja
 att ersätta målsäganden för skada som uppkommit genom brottet, att
 avhjälpa eller begränsa skadan, att på annat sätt gottgöra målsäganden eller
-58           3 Senaste lydelse 2025:405.
+
+58          3 Senaste lydelse 2025:405.
 
 <!-- sida 236 -->
 
@@ -10058,6 +10180,7 @@ En förvaltningsrätt är domför med en lagfaren domare ensam
 1\. vid åtgärder som endast avser måls beredande,
 2\. vid förhör med vittne eller sakkunnig som begärts av en annan förvalt-
 ningsrätt,
+
 3\. vid beslut som endast avser rättelse av felräkning, felskrivning eller
 annat uppenbart förbiseende, och
 4\. vid annat beslut som inte innefattar slutligt avgörande av mål.
@@ -10080,51 +10203,96 @@ enligt skatteförfarandelagen eller någon annan skatteförfattning,
 tagande enligt 6 och 6 a §§ lagen tagande för vård eller tillfällig vård
 (1990:52) med särskilda bestäm- enligt 5 kap. 1 och 2 §§ lagen
 melser om vård av unga, mål om (2026:000) om omhändertagande
-vård vid en låsbar enhet enligt för vård av barn och unga, mål om
-15 b § samma lag, mål om avskild- tillfälligt flyttningsförbud enligt
-het enligt 15 c § samma lag, mål 12 kap. 6 § samma lag, mål om till-
-om vård i enskildhet enligt 15 d § fälligt utreseförbud enligt 13 kap.
-samma lag, mål om tillfälligt flytt- 6 § samma lag, mål om vård i
-ningsförbud enligt 27 § samma lag, enskildhet enligt 6 kap. 2 § lagen
-mål om tillfälligt utreseförbud en- (2026:000) om särskilda befogen-
-ligt 31 d § samma lag, mål om ome- heter för den statliga barn- och
-delbar insats enligt 4 kap. 1 § lagen ungdomsvården, mål om vård på
-(2024:79) om placering av barn i låsbar enhet enligt 6 kap. 3 §
-skyddat boende, mål om omedel- samma lag, mål om avskildhet i
-bart omhändertagande enligt 13 § anslutning till dygnsvilan enligt
-lagen (1988:870) om vård av miss- 6 kap. 4 § samma lag, mål om
-60           1 Senaste lydelse 2025:670.
+
+vård vid en låsbar enhet enligt
+15 b § samma lag, mål om avskild-
+het enligt 15 c § samma lag, mål
+om vård i enskildhet enligt 15 d §
+samma lag, mål om tillfälligt flytt-
+ningsförbud enligt 27 § samma lag,
+mål om tillfälligt utreseförbud en-
+ligt 31 d § samma lag, mål om ome-
+delbar insats enligt 4 kap. 1 § lagen
+(2024:79) om placering av barn i
+skyddat boende, mål om omedel-
+bart omhändertagande enligt 13 §
+lagen (1988:870) om vård av miss-
+
+för vård av barn och unga, mål om
+tillfälligt flyttningsförbud enligt
+12 kap. 6 § samma lag, mål om till-
+fälligt utreseförbud enligt 13 kap.
+6 § samma lag, mål om vård i
+enskildhet enligt 6 kap. 2 § lagen
+(2026:000) om särskilda befogen-
+heter för den statliga barn- och
+ungdomsvården, mål om vård på
+låsbar enhet enligt 6 kap. 3 §
+samma lag, mål om avskildhet i
+anslutning till dygnsvilan enligt
+6 kap. 4 § samma lag, mål om
+
+60          1 Senaste lydelse 2025:670.
 
 <!-- sida 238 -->
 
-brukare i vissa fall, mål om vård i avskildhet på grund av barnets
-enskildhet enligt 34 a § samma lag, eller den unges eget uppträdande
-mål om avskildhet enligt 34 b § enligt 6 kap. 6 § samma lag, mål
-samma lag, mål om vård vid en om omedelbar insats enligt 4 kap.
-låsbar enhet enligt 14 § lagen 1 § lagen (2024:79) om placering
-(1998:603) om verkställighet av av barn i skyddat boende, mål om
-sluten ungdomsvård, mål om vård i omedelbart omhändertagande en-
-enskildhet enligt 14 a § samma lag, ligt 13 § lagen (1988:870) om vård
-mål om avskildhet enligt 17 § sam- av missbrukare i vissa fall, mål om
-ma lag, mål om tillfällig isolering vård i enskildhet enligt 34 a § sam-
-enligt 5 kap. 3 § smittskyddslagen ma lag, mål om avskildhet enligt
-(2004:168), mål enligt 12 § första 34 b § samma lag, mål om vård vid
-stycket och 33 § lagen (1991:1128) en låsbar enhet enligt 14 § lagen
-om psykiatrisk tvångsvård, mål en- (1998:603) om verkställighet av
-ligt 18 § första stycket 3–5 och 9 sluten ungdomsvård, mål om vård i
-när det gäller de fall då vården inte enskildhet enligt 14 a § samma lag,
-har förenats med särskild utskriv- mål om avskildhet enligt 17 §
-ningsprövning eller 6 lagen samma lag, mål om tillfällig isole-
-(1991:1129) om rättspsykiatrisk ring enligt 5 kap. 3 § smittskydds-
-vård, mål om förvar och uppsikt lagen (2004:168), mål enligt 12 §
-enligt utlänningslagen (2005:716), första stycket och 33 § lagen
-mål  enligt strafftidslagen (1991:1128) om psykiatrisk tvångs-
-(2018:1251), mål enligt fängelse- vård, mål enligt 18 § första stycket
-lagen (2010:610) och mål enligt 3–5 och 9 när det gäller de fall då
-lagen (1963:193) om samarbete vården inte har förenats med sär-
-med Danmark, Finland, Island och skild utskrivningsprövning eller 6
-Norge angående verkställighet av lagen (1991:1129) om rättspsykia-
-straff m.m.,         trisk vård, mål om förvar och
+brukare i vissa fall, mål om vård i
+enskildhet enligt 34 a § samma lag,
+mål om avskildhet enligt 34 b §
+samma lag, mål om vård vid en
+låsbar enhet enligt 14 § lagen
+(1998:603) om verkställighet av
+sluten ungdomsvård, mål om vård i
+enskildhet enligt 14 a § samma lag,
+mål om avskildhet enligt 17 § sam-
+ma lag, mål om tillfällig isolering
+enligt 5 kap. 3 § smittskyddslagen
+(2004:168), mål enligt 12 § första
+stycket och 33 § lagen (1991:1128)
+om psykiatrisk tvångsvård, mål en-
+ligt 18 § första stycket 3–5 och 9
+när det gäller de fall då vården inte
+har förenats med särskild utskriv-
+ningsprövning eller 6 lagen
+(1991:1129) om rättspsykiatrisk
+vård, mål om förvar och uppsikt
+enligt utlänningslagen (2005:716),
+mål  enligt strafftidslagen
+(2018:1251), mål enligt fängelse-
+lagen (2010:610) och mål enligt
+lagen (1963:193) om samarbete
+med Danmark, Finland, Island och
+Norge angående verkställighet av
+straff m.m.,
+
+avskildhet på grund av barnets
+eller den unges eget uppträdande
+enligt 6 kap. 6 § samma lag, mål
+om omedelbar insats enligt 4 kap.
+1 § lagen (2024:79) om placering
+av barn i skyddat boende, mål om
+omedelbart omhändertagande en-
+ligt 13 § lagen (1988:870) om vård
+av missbrukare i vissa fall, mål om
+vård i enskildhet enligt 34 a § sam-
+ma lag, mål om avskildhet enligt
+34 b § samma lag, mål om vård vid
+en låsbar enhet enligt 14 § lagen
+(1998:603) om verkställighet av
+sluten ungdomsvård, mål om vård i
+enskildhet enligt 14 a § samma lag,
+mål om avskildhet enligt 17 §
+samma lag, mål om tillfällig isole-
+ring enligt 5 kap. 3 § smittskydds-
+lagen (2004:168), mål enligt 12 §
+första stycket och 33 § lagen
+(1991:1128) om psykiatrisk tvångs-
+vård, mål enligt 18 § första stycket
+3–5 och 9 när det gäller de fall då
+vården inte har förenats med sär-
+skild utskrivningsprövning eller 6
+lagen (1991:1129) om rättspsykia-
+trisk vård, mål om förvar och
 uppsikt enligt utlänningslagen
 (2005:716), mål enligt strafftids-
 lagen (2018:1251), mål enligt fän-
@@ -10132,6 +10300,7 @@ gelselagen (2010:610) och mål en-
 ligt lagen (1963:193) om samarbete
 med Danmark, Finland, Island och
 Norge angående verkställighet av
+
 straff m.m.,
 4\. mål enligt folkbokföringsförfattningarna, mål om preliminär skatt
 eller om anstånd med att betala skatt eller avgifter enligt skatteförfatt-
@@ -10180,18 +10349,33 @@ Ansökan om pass ska, utöver vad Ansökan om pass ska, utöver vad
 som anges i 7 §, avslås om sökan- som anges i 7 §, avslås om sökan-
 den är underkastad ett utreseförbud den är föremål för ett utreseförbud
 enligt 31 a § lagen (1990:52) med enligt 13 kap. 1 § lagen (2026:000)
-särskilda bestämmelser om vård av om omhändertagande för vård av
-unga eller ett tillfälligt utreseförbud barn och unga eller ett tillfälligt ut-
-enligt 31 d § samma lag. reseförbud enligt 13 kap. 6 § sam-
+
+särskilda bestämmelser om vård av
+unga eller ett tillfälligt utreseförbud
+enligt 31 d § samma lag.
+
+Om det finns hinder mot att utfär-
+da ett pass enligt första stycket och
+sökanden har meddelats ett till-
+fälligt undantag från utreseförbudet
+enligt 31 i § samma lag, har sökan-
+den rätt att på ansökan få ett provi-
+soriskt pass utfärdat om inte annat
+följer av denna lag.
+
+om omhändertagande för vård av
+barn och unga eller ett tillfälligt ut-
+reseförbud enligt 13 kap. 6 § sam-
 ma lag.
-Om det finns hinder mot att utfär- Om det finns hinder mot att utfär-
-da ett pass enligt första stycket och da ett pass enligt första stycket och
-sökanden har meddelats ett till- sökanden har meddelats ett till-
-fälligt undantag från utreseförbudet fälligt undantag från utreseförbudet
-enligt 31 i § samma lag, har sökan- enligt 13 kap. 12 § samma lag, har
-den rätt att på ansökan få ett provi- sökanden rätt att på ansökan få ett
-soriskt pass utfärdat om inte annat provisoriskt pass utfärdat om inte
-följer av denna lag. annat följer av denna lag.
+Om det finns hinder mot att utfär-
+da ett pass enligt första stycket och
+sökanden har meddelats ett till-
+fälligt undantag från utreseförbudet
+enligt 13 kap. 12 § samma lag, har
+sökanden rätt att på ansökan få ett
+provisoriskt pass utfärdat om inte
+annat följer av denna lag.
+
 12 §2
 Passmyndigheten ska återkalla ett gällande pass, om
 1\. passinnehavaren har förlorat eller efter ansökan har befriats från sitt
@@ -10212,6 +10396,7 @@ att avtjäna är fängelse i minst ett år och innehavaren inte har villkorligt
 frigetts,
 6\. passinnehavaren genomgår sluten ungdomsvård och den
 sammanlagda vårdtiden är minst ett år,
+
 1 Senaste lydelse 2020:351.
 2 Senaste lydelse 2020:351.                        63
 
@@ -10254,17 +10439,29 @@ Polismyndigheten och Säkerhetspolisen får överlämna till Kriminalvården
 att transportera någon som är berövad friheten. Vid en sådan transport
 tillämpas följande bestämmelser i häkteslagen (2010:611):
 – 4 kap. 4 § om kroppsvisitation,
+
 – 4 kap. 10 § första stycket om användning av fängsel, och
 – 8 kap. 2 a § om möjligheten att i vissa fall begära hjälp av Polis-
 myndigheten.
-Om det behövs för planeringen Om det behövs för planeringen
-och genomförandet av transporten, och genomförandet av transporten,
-ska Polismyndigheten eller Säker- ska Polismyndigheten eller Säker-
-hetspolisen, utan hinder av sekre- hetspolisen, utan hinder av sekre-
-tess, lämna Kriminalvården de upp- tess, lämna Kriminalvården de
-gifter som avses i 45 b § lagen uppgifter som avses i 45 b § lagen
-(1988:870) om vård av missbrukare (1988:870) om vård av missbrukare
-i vissa fall, 43 b § lagen (1990:52) i vissa fall, 20 kap. 3 § lagen
+
+Om det behövs för planeringen
+och genomförandet av transporten,
+ska Polismyndigheten eller Säker-
+hetspolisen, utan hinder av sekre-
+tess, lämna Kriminalvården de upp-
+gifter som avses i 45 b § lagen
+(1988:870) om vård av missbrukare
+i vissa fall, 43 b § lagen (1990:52)
+
+Om det behövs för planeringen
+och genomförandet av transporten,
+ska Polismyndigheten eller Säker-
+hetspolisen, utan hinder av sekre-
+tess, lämna Kriminalvården de
+uppgifter som avses i 45 b § lagen
+(1988:870) om vård av missbrukare
+i vissa fall, 20 kap. 3 § lagen
+
 med särskilda bestämmelser om (2026:000) om omhändertagande
 vård av unga, 47 b § lagen för vård av barn och unga, 47 b §
 (1991:1128) om psykiatrisk lagen (1991:1128) om psykiatrisk
@@ -10274,6 +10471,7 @@ lagen (1998:603) om verkställighet lagen (1998:603) om verkställighet
 av sluten ungdomsvård eller av sluten ungdomsvård eller
 10 kap. 19 c § utlänningslagen 10 kap. 19 c § utlänningslagen
 (2005:716).          (2005:716).
+
 Denna lag träder i kraft den 1 januari 2027.
 
 1 Senaste lydelse 2017:137.                        65
@@ -10282,9 +10480,9 @@ Denna lag träder i kraft den 1 januari 2027.
 
 2.11  Förslag till lag om ändring i lagen (1989:14)
 om erkännande och verkställighet av utländska
-
 vårdnadsavgöranden m.m. och om
 överflyttning av barn
+
 Härigenom föreskrivs att 22 § lagen (1989:14) om erkännande och verk-
 ställighet av utländska vårdnadsavgöranden m.m. och om överflyttning av
 barn ska ha följande lydelse.
@@ -10295,30 +10493,52 @@ Nuvarande lydelse    Föreslagen lydelse
 Om det i ett mål om vårdnad om Om det i ett mål om vårdnad om
 barn eller i ett mål om vård av barn barn eller i ett mål om
 enligt lagen (1990:52) med omhändertagande för vård av barn
-särskilda bestämmelser om vård av enligt lagen (2026:000) om
-unga framkommer att ansökan har omhändertagande för vård av barn
-gjorts om överflyttning av barnet och unga framkommer att ansökan
-enligt 11 § första stycket, får rätten har gjorts om överflyttning av
-inte besluta i frågan om vårdnaden barnet enligt 11 § första stycket, får
-eller vården förrän denna ansökan rätten inte besluta i frågan om
-har prövats.         vårdnaden eller omhändertagandet
+
+särskilda bestämmelser om vård av
+unga framkommer att ansökan har
+gjorts om överflyttning av barnet
+enligt 11 § första stycket, får rätten
+inte besluta i frågan om vårdnaden
+eller vården förrän denna ansökan
+har prövats.
+Får rätten i ett mål som avses i
+första stycket underrättelse av
+centralmyndigheten om att ett barn,
+på sätt som sägs i 11 § andra
+stycket, olovligen har förts hit till
+landet eller olovligen hålls kvar här
+utan att ansökan har gjorts om
+överflyttning av barnet enligt 11 §
+första stycket, får rätten inte besluta
+i frågan om vårdnaden eller vården
+förrän det har förflutit en rimlig tid
+
+enligt lagen (2026:000) om
+omhändertagande för vård av barn
+och unga framkommer att ansökan
+har gjorts om överflyttning av
+barnet enligt 11 § första stycket, får
+rätten inte besluta i frågan om
+vårdnaden eller omhändertagandet
 förrän denna ansökan har prövats.
-Får rätten i ett mål som avses i Får rätten i ett mål som avses i
-första stycket underrättelse av första stycket underrättelse av
-centralmyndigheten om att ett barn, centralmyndigheten om att ett barn,
-på sätt som sägs i 11 § andra på sätt som sägs i 11 § andra
-stycket, olovligen har förts hit till stycket, olovligen har förts hit till
-landet eller olovligen hålls kvar här landet eller olovligen hålls kvar här
-utan att ansökan har gjorts om utan att ansökan har gjorts om
-överflyttning av barnet enligt 11 § överflyttning av barnet enligt 11 §
-första stycket, får rätten inte besluta första stycket, får rätten inte besluta
-i frågan om vårdnaden eller vården i frågan om vårdnaden eller omhän-
-förrän det har förflutit en rimlig tid dertagandet förrän det har förflutit
+Får rätten i ett mål som avses i
+första stycket underrättelse av
+centralmyndigheten om att ett barn,
+på sätt som sägs i 11 § andra
+stycket, olovligen har förts hit till
+landet eller olovligen hålls kvar här
+utan att ansökan har gjorts om
+överflyttning av barnet enligt 11 §
+första stycket, får rätten inte besluta
+i frågan om vårdnaden eller omhän-
+dertagandet förrän det har förflutit
+
 för att göra en sådan ansökan. en rimlig tid för att göra en sådan
 ansökan.
+
 Denna lag träder i kraft den 1 januari 2027.
 
-66           1 Senaste lydelse 1993:212.
+66          1 Senaste lydelse 1993:212.
 
 <!-- sida 244 -->
 
@@ -10394,28 +10614,53 @@ Vid sluten rättspsykiatrisk vård enligt denna lag gäller, om inte annat anges
 i 8 a §, i tillämpliga delar bestämmelserna i 18–24 §§ lagen (1991:1128)
 om psykiatrisk tvångsvård.
 I fråga om den som är anhållen, I fråga om den som är anhållen,
-häktad eller intagen i eller ska för- häktad eller intagen i eller ska för-
-passas till kriminalvårdsanstalt får passas till kriminalvårdsanstalt får
-Kriminalvården i särskilda fall, om Kriminalvården i särskilda fall, om
-det behövs från ordnings- eller det behövs från ordnings- eller
-säkerhetssynpunkt, besluta om sär- säkerhetssynpunkt, besluta om sär-
-skilda inskränkningar i rätten att ta skilda inskränkningar i rätten att ta
-emot eller skicka försändelser, att emot eller skicka försändelser, att
-ta emot besök eller att stå i förbin- ta emot besök eller att stå i förbin-
-delse med utomstående genom delse med utomstående genom
-elektronisk kommunikation. I fråga elektronisk kommunikation. I fråga
-om den som är intagen i eller ska om den som är intagen i eller ska
-förpassas till ett särskilt ungdoms- förpassas till ett särskilt ungdoms-
-hem till följd av en dom på sluten hem till följd av en dom på sluten
-ungdomsvård enligt 32 kap. 5 § ungdomsvård enligt 32 kap. 5 §
-brottsbalken får Statens institu- brottsbalken får Statens institu-
-tionsstyrelse fatta motsvarande tionsstyrelse fatta motsvarande
-beslut. Försändelser som avses i beslut. Försändelser som avses i
-3 kap. 6 § häkteslagen (2010:611) 3 kap. 6 § häkteslagen (2010:611)
-från den som är häktad eller anhål- från den som är häktad eller anhål-
-len, försändelser som avses i 7 kap. len, försändelser som avses i 7 kap.
-6 § fängelselagen (2010:610) från 6 § fängelselagen (2010:610) från
-den som är intagen liksom brev den som är intagen liksom brev
+
+häktad eller intagen i eller ska för-
+passas till kriminalvårdsanstalt får
+Kriminalvården i särskilda fall, om
+det behövs från ordnings- eller
+säkerhetssynpunkt, besluta om sär-
+skilda inskränkningar i rätten att ta
+emot eller skicka försändelser, att
+ta emot besök eller att stå i förbin-
+delse med utomstående genom
+elektronisk kommunikation. I fråga
+om den som är intagen i eller ska
+förpassas till ett särskilt ungdoms-
+hem till följd av en dom på sluten
+ungdomsvård enligt 32 kap. 5 §
+brottsbalken får Statens institu-
+tionsstyrelse fatta motsvarande
+beslut. Försändelser som avses i
+3 kap. 6 § häkteslagen (2010:611)
+från den som är häktad eller anhål-
+len, försändelser som avses i 7 kap.
+6 § fängelselagen (2010:610) från
+den som är intagen liksom brev
+
+häktad eller intagen i eller ska för-
+passas till kriminalvårdsanstalt får
+Kriminalvården i särskilda fall, om
+det behövs från ordnings- eller
+säkerhetssynpunkt, besluta om sär-
+skilda inskränkningar i rätten att ta
+emot eller skicka försändelser, att
+ta emot besök eller att stå i förbin-
+delse med utomstående genom
+elektronisk kommunikation. I fråga
+om den som är intagen i eller ska
+förpassas till ett särskilt ungdoms-
+hem till följd av en dom på sluten
+ungdomsvård enligt 32 kap. 5 §
+brottsbalken får Statens institu-
+tionsstyrelse fatta motsvarande
+beslut. Försändelser som avses i
+3 kap. 6 § häkteslagen (2010:611)
+från den som är häktad eller anhål-
+len, försändelser som avses i 7 kap.
+6 § fängelselagen (2010:610) från
+den som är intagen liksom brev
+
 som avses i 19 § andra stycket som avses i 4 kap. 7 § tredje stycket
 lagen (1990:52) med särskilda lagen (2026:000) om särskilda
 bestämmelser om vård av unga ska befogenheter för den statliga barn-
@@ -10429,6 +10674,7 @@ vistelsen på sjukvårdsinrättningen medverkar till terroristbrott enligt 4 §
 terroristbrottslagen (2022:666), besluta om särskilda inskränkningar i
 rätten att ta emot eller skicka försändelser, ta emot besök eller stå i
 förbindelse med utomstående genom elektronisk kommunikation.
+
 1 Senaste lydelse 2022:669.                        69
 
 <!-- sida 247 -->
@@ -10529,18 +10775,28 @@ vid sådana särskilda ungdomshem sådana särskilda ungdomshem som
 som avses i 12 § lagen (1990:52) avses i 15 kap. 1 § lagen
 med särskilda bestämmelser om (2026:000) om omhändertagande
 vård av unga.        för vård av barn och unga.
+
 10 §
 Är den dömde, när domen får Är den dömde, när domen får
 verkställas, häktad eller intagen på verkställas, häktad eller intagen på
 ett särskilt ungdomshem med stöd ett särskilt ungdomshem med stöd
 av lagen (1990:52) med särskilda av lagen (2026:000) om omhänder-
 bestämmelser om vård av unga, tagande för vård av barn och unga,
-skall häktet eller det särskilda ung- ska häktet eller det särskilda ung-
-domshemmet omedelbart se till att domshemmet omedelbart se till att
-domen verkställs och att den dömde domen verkställs och att den dömde
-omedelbart förpassas till det sär- omedelbart förpassas till det sär-
-skilda ungdomshem som Statens skilda ungdomshem som Statens
-institutionsstyrelse bestämmer. institutionsstyrelse bestämmer.
+
+skall häktet eller det särskilda ung-
+domshemmet omedelbart se till att
+domen verkställs och att den dömde
+omedelbart förpassas till det sär-
+skilda ungdomshem som Statens
+institutionsstyrelse bestämmer.
+
+ska häktet eller det särskilda ung-
+domshemmet omedelbart se till att
+domen verkställs och att den dömde
+omedelbart förpassas till det sär-
+skilda ungdomshem som Statens
+institutionsstyrelse bestämmer.
+
 14 a §2
 Om det krävs med hänsyn till den Om det krävs med hänsyn till den
 dömdes speciella behov av vård, dömdes speciella behov av vård,
@@ -10555,6 +10811,7 @@ omprövas inom sju dagar från senaste prövning.
 15 §3
 Vad som sägs i 16, 17, 17 b, 17 c, Vad som sägs i 4 kap. 1–3, 5 och
 19 och 20 §§ lagen (1990:52) med 7 §§ och 5 kap. 1 och 2 §§ lagen
+
 1 Senaste lydelse 2006:898.
 2 Senaste lydelse 2018:653
 3 Senaste lydelse 2018:653.                        73
@@ -10886,8 +11143,8 @@ Denna lag träder i kraft den 1 januari 2027.
 
 2.24  Förslag till lag om ändring i lagen (2017:151)
 om meddelarskydd i vissa enskilda
-
 verksamheter
+
 Härigenom föreskrivs att 2 § lagen (2017:151) om meddelarskydd i vissa
 enskilda verksamheter ska ha följande lydelse.
 
@@ -10896,17 +11153,28 @@ Nuvarande lydelse    Föreslagen lydelse
 2 §1
 Lagen gäller i yrkesmässigt bedriven enskild verksamhet som till någon
 del är offentligt finansierad och som
+
 1\. tillhör skolväsendet, de särskilda utbildningsformerna eller annan
 pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen
+
 (2010:800),
 2\. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårds-
 lagen (2017:30) eller tandvårdslagen (1985:125), eller
-3\. bedrivs enligt socialtjänstlagen 3. bedrivs enligt socialtjänstlagen
-(2025:400), lagen (1988:870) om (2025:400), lagen (1988:870) om
-vård av missbrukare i vissa fall, vård av missbrukare i vissa fall,
-lagen (1990:52) med särskilda be- lagen (2026:000) om omhänder-
-stämmelser om vård av unga, lagen tagande för vård av barn och unga,
-(1993:387) om stöd och service till lagen (1993:387) om stöd och ser-
+
+3\. bedrivs enligt socialtjänstlagen
+(2025:400), lagen (1988:870) om
+vård av missbrukare i vissa fall,
+lagen (1990:52) med särskilda be-
+stämmelser om vård av unga, lagen
+(1993:387) om stöd och service till
+
+3\. bedrivs enligt socialtjänstlagen
+(2025:400), lagen (1988:870) om
+vård av missbrukare i vissa fall,
+lagen (2026:000) om omhänder-
+tagande för vård av barn och unga,
+lagen (1993:387) om stöd och ser-
+
 vissa funktionshindrade eller utgör vice till vissa funktionshindrade
 personlig assistans som utförs med eller utgör personlig assistans som
 assistansersättning enligt 51 kap. utförs med assistansersättning
@@ -10915,6 +11183,7 @@ ken.
 Upphör verksamheten att vara en sådan verksamhet som avses i första
 stycket, gäller skyddet fortfarande i fråga om uppgifter som lämnas om
 den tidigare verksamheten för offentliggörande.
+
 Denna lag träder i kraft den 1 januari 2027.
 
 1 Senaste lydelse 2025:447.                        83
@@ -10998,8 +11267,8 @@ Denna lag träder i kraft den 1 januari 2027.
 
 2.27  Förslag till lag om ändring i lagen (2020:914)
 om tystnadsplikt vid utkontraktering av teknisk
-
 bearbetning eller lagring av uppgifter
+
 Härigenom föreskrivs att 2 § lagen (2020:914) om tystnadsplikt vid utkon-
 traktering av teknisk bearbetning eller lagring av uppgifter ska ha följande
 lydelse.
@@ -11008,6 +11277,7 @@ Nuvarande lydelse    Föreslagen lydelse
 
 2 §1
 Vid tillämpningen av denna lag ska med myndigheter jämställas
+
 1\. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftel-
 ser där kommuner, regioner eller kommunalförbund utövar ett rättsligt
 bestämmande inflytande enligt 2 kap. 3 § offentlighets- och sekretesslagen
@@ -11019,29 +11289,40 @@ verksamhet som till någon del är offentligt finansierad och som
 1\. tillhör skolväsendet, de särskilda utbildningsformerna eller annan
 pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen
 (2010:800),
+
 2\. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårds-
 lagen (2017:30) eller tandvårdslagen (1985:125), eller
 3\. bedrivs enligt socialtjänstlagen 3. bedrivs enligt socialtjänstlagen
 (2025:400), lagen (1988:870) om (2025:400), lagen (1988:870) om
 vård av missbrukare i vissa fall, vård av missbrukare i vissa fall,
-lagen (1990:52) med särskilda be- lagen (2026:000) om omhänderta-
-stämmelser om vård av unga, lagen gande för vård av barn och unga,
-(1993:387) om stöd och service till lagen (1993:387) om stöd och ser-
-vissa funktionshindrade eller utgör vice till vissa funktionshindrade
-personlig assistans som utförs med eller utgör personlig assistans som
-assistansersättning enligt 51 kap. utförs med assistansersättning
+
+lagen (1990:52) med särskilda be-
+stämmelser om vård av unga, lagen
+(1993:387) om stöd och service till
+vissa funktionshindrade eller utgör
+personlig assistans som utförs med
+assistansersättning enligt 51 kap.
+
+lagen (2026:000) om omhänderta-
+gande för vård av barn och unga,
+lagen (1993:387) om stöd och ser-
+vice till vissa funktionshindrade
+eller utgör personlig assistans som
+utförs med assistansersättning
+
 socialförsäkringsbalken. enligt 51 kap. socialförsäkringsbal-
 ken.
+
 Denna lag träder i kraft den 1 januari 2027.
 
-86           1 Senaste lydelse 2025:458.
+86          1 Senaste lydelse 2025:458.
 
 <!-- sida 264 -->
 
 2.28  Förslag till lag om ändring i lagen (2023:704)
 om auktorisationssystem i fråga om tjänster för
-
 elektronisk identifiering och för digital post
+
 Härigenom föreskrivs att 4 § lagen (2023:704) om auktorisationssystem i
 fråga om tjänster för elektronisk identifiering och för digital post ska ha
 följande lydelse.
@@ -11050,6 +11331,7 @@ Nuvarande lydelse    Föreslagen lydelse
 
 4 §1
 Med en offentlig aktör avses i denna lag
+
 1\. en statlig eller kommunal myndighet,
 2\. en beslutande församling i en kommun eller region,
 3\. en sammanslutning som inrättats särskilt för att tillgodose behov i det
@@ -11061,17 +11343,27 @@ b) ett eller flera organ enligt andra stycket,
 del är offentligt finansierad och som
 a) aktören bedriver i egenskap av enskild huvudman inom skolväsendet
 eller huvudman för en sådan internationell skola som avses i 24 kap. skol-
+
 lagen (2010:800),
 b) utgör hälso- och sjukvård enligt hälso- och sjukvårdslagen (2017:30)
 eller tandvård enligt tandvårdslagen (1985:125),
 c) bedrivs enligt socialtjänstla- c) bedrivs enligt socialtjänstla-
 gen (2025:400), lagen (1988:870) gen (2025:400), lagen (1988:870)
-om vård av missbrukare i vissa fall, om vård av missbrukare i vissa fall,
-lagen (1990:52) med särskilda be- lagen (2026:000) om omhänderta-
-stämmelser om vård av unga eller gande för vård av barn och unga
-lagen (1993:387) om stöd och ser- eller lagen (1993:387) om stöd och
-vice till vissa funktionshindrade, service till vissa funktionshindrade,
-eller                eller
+
+om vård av missbrukare i vissa fall,
+lagen (1990:52) med särskilda be-
+stämmelser om vård av unga eller
+lagen (1993:387) om stöd och ser-
+vice till vissa funktionshindrade,
+eller
+
+om vård av missbrukare i vissa fall,
+lagen (2026:000) om omhänderta-
+gande för vård av barn och unga
+eller lagen (1993:387) om stöd och
+service till vissa funktionshindrade,
+eller
+
 d) utgör personlig assistans som utförs med assistansersättning enligt
 51 kap. socialförsäkringsbalken, eller
 5\. en enskild utbildningsanordnare med tillstånd att utfärda examina
@@ -11085,6 +11377,7 @@ behovet inte är av industriell eller kommersiell karaktär, och
 eller någon av de offentliga aktörer som avses i första stycket 1–4,
 2\. vars verksamhet står under kontroll av staten, en kommun, en region
 eller någon av de offentliga aktörer som avses i första stycket 1–4, eller
+
 1 Senaste lydelse 2025:462.                        87
 
 <!-- sida 265 -->
@@ -11161,32 +11454,56 @@ ensamkommande barn.
 Socialnämnden ska särskilt uppmärksamma barnets eller den unges
 hälsa, utveckling, sociala beteende, skolgång samt relationer till föräldrar,
 syskon och andra närstående.
+
 16 §
 Om ett barn är placerat i ett Om ett barn är placerat i ett
 familjehem eller annat enskilt hem familjehem eller annat enskilt hem
-och en vårdnadshavare eller barnet, och en vårdnadshavare eller barnet,
-om barnet har fyllt 15 år, begär att om barnet har fyllt 15 år, begär att
-vården ska upphöra, ska social- vården ska upphöra, ska social-
-nämnden överväga om det finns nämnden överväga om det finns
-skäl att ansöka om flyttningsförbud skäl att ansöka om flyttningsförbud
-enligt 24 § lagen (1990:52) med enligt 12 kap. 1 § lagen (2026:000)
-särskilda bestämmelser om vård av om omhändertagande för vård av
-unga.                barn och unga.
+
+och en vårdnadshavare eller barnet,
+om barnet har fyllt 15 år, begär att
+vården ska upphöra, ska social-
+nämnden överväga om det finns
+skäl att ansöka om flyttningsförbud
+enligt 24 § lagen (1990:52) med
+särskilda bestämmelser om vård av
+unga.
+
+och en vårdnadshavare eller barnet,
+om barnet har fyllt 15 år, begär att
+vården ska upphöra, ska social-
+nämnden överväga om det finns
+skäl att ansöka om flyttningsförbud
+enligt 12 kap. 1 § lagen (2026:000)
+om omhändertagande för vård av
+barn och unga.
+
 23 kap.
 1 §
-När en utredning som gäller ett När en utredning som gäller ett
-barns behov av skydd eller stöd har barns behov av skydd eller stöd har
-avslutats utan beslut om insats, kan avslutats utan beslut om insats, kan
-socialnämnden besluta om uppfölj- socialnämnden besluta om uppfölj-
-ning av barnets situation. Ett sådant ning av barnets situation. Ett sådant
-beslut får fattas utan vårdnads- beslut får fattas utan vårdnads-
-havarens och barnets samtycke, om havarens och barnets samtycke, om
-barnet bedöms vara i särskilt behov barnet bedöms vara i särskilt behov
+
+När en utredning som gäller ett
+barns behov av skydd eller stöd har
+avslutats utan beslut om insats, kan
+socialnämnden besluta om uppfölj-
+ning av barnets situation. Ett sådant
+beslut får fattas utan vårdnads-
+havarens och barnets samtycke, om
+barnet bedöms vara i särskilt behov
+
+När en utredning som gäller ett
+barns behov av skydd eller stöd har
+avslutats utan beslut om insats, kan
+socialnämnden besluta om uppfölj-
+ning av barnets situation. Ett sådant
+beslut får fattas utan vårdnads-
+havarens och barnets samtycke, om
+barnet bedöms vara i särskilt behov
+
 av nämndens skydd eller stöd utan av nämndens skydd eller stöd utan
 att förhållandena är sådana som att förhållandena är sådana som
 avses i lagen (1990:52) med avses i lagen (2026:000) om
 särskilda bestämmelser om vård av omhändertagande för vård av barn
 unga.                och unga.
+
 2 §
 När placeringen av ett barn i ett När placeringen av ett barn i ett
 familjehem, skyddat boende eller familjehem, skyddat boende eller
@@ -11196,7 +11513,7 @@ besluta om uppföljning av barnets besluta om uppföljning av barnets
 situation. Ett sådant beslut får fattas situation. Ett sådant beslut får fattas
 utan vårdnadshavarens eller barnets utan vårdnadshavarens eller barnets
 samtycke, om barnet bedöms vara i samtycke, om barnet bedöms vara i
-90           särskilt behov av nämndens skydd särskilt behov av nämndens skydd
+90          särskilt behov av nämndens skydd särskilt behov av nämndens skydd
 
 <!-- sida 268 -->
 
@@ -11211,29 +11528,48 @@ när vård enligt lagen med särskilda när omhändertagande för vård
 bestämmelser om vård av unga enligt lagen om omhändertagande
 upphör finns i 21 b och 21 c §§ den för vård av barn och unga upphör
 lagen.               finns i 10 kap. 5 och 6 §§ den lagen.
+
 30 kap.
 7 §
 I fråga om lagen (1990:52) med I fråga om lagen (2026:000) om
 särskilda bestämmelser om vård av omhändertagande för vård av barn
-unga får socialnämnden endast och unga får socialnämnden endast
-delegera beslutanderätten till ett delegera beslutanderätten till ett
-utskott i ärenden som anges i utskott i ärenden som anges i
-följande bestämmelser i den lagen: följande bestämmelser i den lagen:
-1\. ansökan om vård enligt 4 §, 1. ansökan om omhändertagande
-för vård enligt 4 kap. 1 §,
-2\. omedelbart omhändertagande 2. omedelbart omhändertagande
-enligt 6 och 6 a §§, för vård eller tillfällig vård enligt
-5 kap. 1 och 2 §§,
-3\. ansökan om fortsatt omhän- 3. ansökan om fortsatt omhän-
-dertagande enligt 9 a §, dertagande för tillfällig vård enligt
-5 kap. 9 §,
-4\. vårdens innehåll och utform- 4. vårdens genomförande enligt
-ning enligt 11 § första och andra 6 kap. 1 §,
+
+unga får socialnämnden endast
+delegera beslutanderätten till ett
+utskott i ärenden som anges i
+följande bestämmelser i den lagen:
+1\. ansökan om vård enligt 4 §,
+2\. omedelbart omhändertagande
+enligt 6 och 6 a §§,
+
+3\. ansökan om fortsatt omhän-
+dertagande enligt 9 a §,
+
+4\. vårdens innehåll och utform-
+ning enligt 11 § första och andra
 styckena,
-5\. övervägande av fortsatt vård, 5. umgänge och hemlighållande
-vårdens inriktning och utformning av vistelseort enligt 7 kap. 2 §,
+5\. övervägande av fortsatt vård,
+vårdens inriktning och utformning
 samt omprövning av vårdbeslut
 enligt 13 §,
+
+och unga får socialnämnden endast
+delegera beslutanderätten till ett
+utskott i ärenden som anges i
+följande bestämmelser i den lagen:
+1\. ansökan om omhändertagande
+för vård enligt 4 kap. 1 §,
+2\. omedelbart omhändertagande
+för vård eller tillfällig vård enligt
+5 kap. 1 och 2 §§,
+3\. ansökan om fortsatt omhän-
+dertagande för tillfällig vård enligt
+5 kap. 9 §,
+4\. vårdens genomförande enligt
+6 kap. 1 §,
+5\. umgänge och hemlighållande
+av vistelseort enligt 7 kap. 2 §,
+
 6\. övervägande av ansökan om 6. övervägande av om
 flyttningsförbud enligt 13 b §, omhändertagande för vård
 fortfarande behövs, vårdens
@@ -11255,28 +11591,49 @@ styckena,
 
 10\. förebyggande insatser enligt 10. drogtest inför umgänge och
 22 §,                drogtest inför upphörande av
+
 omhändertagande för vård enligt
+
 11 kap. 1 och 2 §§,
+
 11\. ansökan om flyttningsförbud 11. ansökan om flyttningsförbud
-och beslut om tillfälligt och beslut om tillfälligt flyttnings-
+
+och  beslut om tillfälligt och beslut om tillfälligt flyttnings-
+
 flyttningsförbud enligt 24 och förbud enligt 12 kap. 2 och 6 §§,
 27 §§,
+
 12\. övervägande av fortsatt 12. övervägande av om
+
 flyttningsförbud samt upphörande flyttningsförbud fortfarande
+
 av flyttningsförbud enligt 26 §, behövs och upphörande av
-flyttningsförbud enligt 12 kap. 4
-och 5 §§,
-13\. umgängesbegränsning vid ett 13. umgänge vid ett flyttnings-
-flyttningsförbud enligt 31 §, förbud enligt 12 kap. 12 §,
-14\. utreseförbud enligt 31 b–d 14. utreseförbud enligt 13 kap. 2,
-och 31 i §§,         4–6 och 12 §§,
-15\. provtagning inför umgänge 15. förebyggande insatser enligt
-och provtagning inför upphörande 14 kap. 1 §, eller
+
+13\. umgängesbegränsning vid ett
+flyttningsförbud enligt 31 §,
+14\. utreseförbud enligt 31 b–d
+och 31 i §§,
+15\. provtagning inför umgänge
+och provtagning inför upphörande
 av vård enligt 32 a och 32 b §§,
 eller
-16\. begäran om hjälp av Polis- 16. begäran om hjälp av Polis-
-myndigheten eller Kriminalvården myndigheten eller Kriminalvården
-enligt 43 §.         enligt 20 kap. 1 §.
+16\. begäran om hjälp av Polis-
+myndigheten eller Kriminalvården
+enligt 43 §.
+
+flyttningsförbud enligt 12 kap. 4
+och 5 §§,
+13\. umgänge vid ett flyttnings-
+förbud enligt 12 kap. 12 §,
+14\. utreseförbud enligt 13 kap. 2,
+4–6 och 12 §§,
+15\. förebyggande insatser enligt
+14 kap. 1 §, eller
+
+16\. begäran om hjälp av Polis-
+myndigheten eller Kriminalvården
+enligt 20 kap. 1 §.
+
 8 §
 I fråga om lagen (2024:79) om placering av barn i skyddat boende får
 socialnämnden endast delegera beslutanderätten till ett utskott i ärenden
@@ -11291,6 +11648,7 @@ hemlighållande av vistelseort enligt av vistelseort enligt 5 kap. 4 § och
 sådana beslut enligt 5 kap. 6 §, enligt 5 kap. 6 §,
 6\. upphörande av insats enligt 7 kap. 1 §, eller
 7\. begäran om hjälp av Polismyndigheten enligt 8 kap. 7 §.
+
 12 §
 Bestämmelser om rätt för ordföran- Bestämmelser om rätt för ordföran-
 den, eller någon annan ledamot den, eller någon annan ledamot
@@ -11301,7 +11659,7 @@ vård av missbrukare i vissa fall, vård av missbrukare i vissa fall,
 lagen (1990:52) med särskilda lagen (2024:79) om placering av
 bestämmelser om vård av unga och barn i skyddat boende och lagen
 lagen (2024:79) om placering av (2026:000) om omhändertagande
-92           barn i skyddat boende. för vård av barn och unga.
+92          barn i skyddat boende. för vård av barn och unga.
 
 <!-- sida 270 -->
 
@@ -40378,23 +40736,37 @@ hem, och
 eller god man enligt lagen
 (2005:429) om god man för
 ensamkommande barn.
+
+Vårdas ett barn med stöd av
+denna lag i ett annat hem än det
+egna, ska socialnämnden minst en
+gång var sjätte månad överväga om
+vården fortfarande behövs och hur
+vården bör inriktas och utformas.
+
+När barnet har varit placerat i
+samma familjehem under tre år från
+det att placeringen verkställdes, ska
+socialnämnden särskilt överväga
+662          om det finns skäl att ansöka om
+
 8 §
-Vårdas ett barn med stöd av Vårdas ett barn med stöd av
-denna lag i ett annat hem än det denna lag i ett annat hem än det
-egna, ska socialnämnden minst en egna, ska barnets särskilda so-
-gång var sjätte månad överväga om cialsekreterare som avses i 6 kap.
-vården fortfarande behövs och hur 7 c §, minst en gång var sjätte
-vården bör inriktas och utformas. månad rapportera till social-
+Vårdas ett barn med stöd av
+denna lag i ett annat hem än det
+egna, ska barnets särskilda so-
+cialsekreterare som avses i 6 kap.
+7 c §, minst en gång var sjätte
+månad rapportera till social-
 nämnden om hur barnets behov
 tillgodoses, hur vårdnadshavarnas
 förhållanden utvecklar sig och, om
 vården ska fortsätta, hur den bör
 inriktas och utformas.
-När barnet har varit placerat i När barnet har varit placerat i
-samma familjehem under tre år från samma familjehem under tre år från
-det att placeringen verkställdes, ska det att placeringen verkställdes, ska
-socialnämnden särskilt överväga socialnämnden särskilt överväga
-662          om det finns skäl att ansöka om om det finns skäl att ansöka om
+När barnet har varit placerat i
+samma familjehem under tre år från
+det att placeringen verkställdes, ska
+socialnämnden särskilt överväga
+om det finns skäl att ansöka om
 
 <!-- sida 840 -->
 
@@ -40418,20 +40790,36 @@ inställning till och förmåga att
 tillgodose barnets behov av kontakt
 med  föräldrar och andra
 närstående.
+
 10 kap.
+
 4 §
-Uppdrag att besluta på Uppdrag att besluta på
-socialnämndens vägnar får ges socialnämndens vägnar får ges
-endast åt en särskild avdelning som endast åt en särskild avdelning som
-består av ledamöter eller ersättare i består av ledamöter eller ersättare i
-nämnden i ärenden som är en nämnden i ärenden som är en
-uppgift för nämnden enligt 6 kap. 6, uppgift för nämnden enligt 6 kap. 6,
-8 och 11 a–13 §§ denna lag, 4 och 8 och 11 a–13 §§ denna lag, 4 kap.
-6 §§, 11 § första och andra 1, 2 och 3 §§, 5 kap. 4 §, 6 kap. 1
-styckena, 13 §, 14 § tredje stycket, och 2 § och 6 § tredje stycket, 7 kap.
-21, 22, 24, 26, 27 och 43 §§ lagen 1 och 13 §§, 9 kap. 4 §, 10 kap. 1 §,
-(1990:52) med särskilda 11 kap. 1 §, 12 kap. 1, 3 och 4 §§
-bestämmelser om vård av unga och 16 kap. 1 § lagen (2017:00)
+Uppdrag att besluta på
+socialnämndens vägnar får ges
+endast åt en särskild avdelning som
+består av ledamöter eller ersättare i
+nämnden i ärenden som är en
+uppgift för nämnden enligt 6 kap. 6,
+8 och 11 a–13 §§ denna lag, 4 och
+6 §§, 11 § första och andra
+styckena, 13 §, 14 § tredje stycket,
+21, 22, 24, 26, 27 och 43 §§ lagen
+(1990:52) med särskilda
+bestämmelser om vård av unga
+
+Uppdrag att besluta på
+socialnämndens vägnar får ges
+endast åt en särskild avdelning som
+består av ledamöter eller ersättare i
+nämnden i ärenden som är en
+uppgift för nämnden enligt 6 kap. 6,
+8 och 11 a–13 §§ denna lag, 4 kap.
+1, 2 och 3 §§, 5 kap. 4 §, 6 kap. 1
+och 2 § och 6 § tredje stycket, 7 kap.
+1 och 13 §§, 9 kap. 4 §, 10 kap. 1 §,
+11 kap. 1 §, 12 kap. 1, 3 och 4 §§
+och 16 kap. 1 § lagen (2017:00)
+
 samt 11 och 13 §§ lagen (1988:870) med särskilda bestämmelser om
 om vård av missbrukare i vissa fall. vård av barn och unga samt 11 och
 13 §§ lagen (1988:870) om vård av
@@ -40447,6 +40835,7 @@ särskilda bestämmelser om vård av särskilda bestämmelser om vård av
 unga och lagen (1988:870) om vård barn och unga och lagen
 av missbrukare i vissa fall. (1988:870) om vård av missbrukare
 i vissa fall.
+
 663
 
 <!-- sida 841 -->
@@ -40469,6 +40858,7 @@ familjehem ska en plan upprättas över hur vården ska genomföras
 (genomförandeplan).
 Vård- och genomförandeplanen ska även uppta åtgärder och insatser
 som andra huvudmän har ansvar för.
+
 3 a §
 I anslutning till att vård i
 familjehem eller hem för vård eller
@@ -40479,18 +40869,29 @@ avses i lagen (2017:00) om hälso-
 undersökning av barn och unga vid
 beslut om vård utanför det egna
 hemmet.
+
 4 a §
 Socialnämnden får besluta om uppföljning av ett barns situation när en
 utredning som gäller barnets behov av stöd eller skydd avslutats utan
 beslut om insats.
 En sådan uppföljning får ske om En sådan uppföljning får ske om
-barnet, utan att förhållanden som barnet, utan att förhållanden som
-avses i lagen (1990:52) med avses i lagen (2017:00) med
-särskilda bestämmelser om vård av särskilda bestämmelser om vård av
-unga föreligger, bedöms vara i barn och unga föreligger, bedöms
-särskilt behov av nämndens stöd vara i särskilt behov av nämndens
-eller skydd men samtycke till sådan stöd eller skydd men samtycke till
-åtgärd saknas.       sådan åtgärd saknas
+
+barnet, utan att förhållanden som
+avses i lagen (1990:52) med
+särskilda bestämmelser om vård av
+unga föreligger, bedöms vara i
+särskilt behov av nämndens stöd
+eller skydd men samtycke till sådan
+åtgärd saknas.
+
+barnet, utan att förhållanden som
+avses i lagen (2017:00) med
+särskilda bestämmelser om vård av
+barn och unga föreligger, bedöms
+vara i särskilt behov av nämndens
+stöd eller skydd men samtycke till
+sådan åtgärd saknas
+
 4 b §
 Socialnämnden får besluta om uppföljning av ett barns situation efter det
 att en placering i ett familjehem eller i ett hem för vård eller boende har
@@ -40554,25 +40955,43 @@ Nuvarande lydelse    Föreslagen lydelse
 Särskilda befogenheter Skyddsåtgärder
 
 31 §
+
 Den som vårdas enligt denna lag Den som vårdas i ett LVM-hem
 i ett LVM-hem får inte inneha får inte inneha alkoholhaltiga
 alkoholhaltiga drycker, narkotika, drycker, narkotika, flyktiga lös-
+
 flyktiga lösningsmedel, sådana ningsmedel, sådana medel som
 medel som avses i lagen avses i lagen (1991:1969) om
 (1991:1969) om förbud mot vissa förbud mot vissa dopningsmedel
-dopningsmedel eller sådana varor eller sådana varor som omfattas av
-som omfattas av lagen (1999:42) lagen (1999:42) om förbud mot
-om förbud mot vissa hälsofarliga vissa hälsofarliga varor eller
-varor eller injektionssprutor, injektionssprutor, kanyler eller
-kanyler eller andra föremål som är andra föremål som är särskilt
-särskilt ägnade att användas för ägnade att användas för missbruk
-missbruk av eller annan befattning av eller annan befattning med
-med narkotika. Han eller hon får narkotika. Han eller hon får inte
-inte heller inneha något annat som heller inneha något annat som kan
-kan vara till men för vården eller vara till men för vården eller
-ordningen vid hemmet. Om sådan äventyra säkerheten vid hemmet.
-egendom påträffas, skall den Om sådan egendom påträffas, ska
-omhändertas.         den omhändertas.
+
+dopningsmedel eller sådana varor
+som omfattas av lagen (1999:42)
+om förbud mot vissa hälsofarliga
+varor eller injektionssprutor,
+kanyler eller andra föremål som är
+särskilt ägnade att användas för
+missbruk av eller annan befattning
+med narkotika. Han eller hon får
+inte heller inneha något annat som
+kan vara till men för vården eller
+ordningen vid hemmet. Om sådan
+egendom påträffas, skall den
+omhändertas.
+
+eller sådana varor som omfattas av
+lagen (1999:42) om förbud mot
+vissa hälsofarliga varor eller
+injektionssprutor, kanyler eller
+andra föremål som är särskilt
+ägnade att användas för missbruk
+av eller annan befattning med
+narkotika. Han eller hon får inte
+heller inneha något annat som kan
+vara till men för vården eller
+äventyra säkerheten vid hemmet.
+Om sådan egendom påträffas, ska
+den omhändertas.
+
 31 a §
 Om det under vistelsen i hemmet
 uppkommer misstanke att den
@@ -40614,24 +41033,37 @@ i vilka situationer sådana visita-
 tioner får verkställas. Sådana
 beslut ska anmälas till Inspektionen
 för vård och omsorg.
+
 32 a §
 Den intagne är, om inte annat Vid behov är den intagne, om inte
 motiveras av medicinska eller annat motiveras av medicinska
 liknande skäl, skyldig att efter eller liknande skäl, skyldig att efter
-uppmaning lämna blod-, urin-, uppmaning lämna blod-, urin-,
-utandnings-, saliv- eller svettprov utandnings-, saliv- eller svettprov
-för kontroll av om han eller hon är för kontroll av om han eller hon är
-påverkad av narkotika, alkohol- påverkad av narkotika, alkohol-
-haltiga drycker, andra berusnings- haltiga drycker, andra berusnings-
-medel, sådant medel som avses i 1 medel, sådant medel som avses i 1
-§ lagen (1991:1969) om förbud mot § lagen (1991:1969) om förbud mot
-vissa dopningsmedel eller sådan vissa dopningsmedel eller sådan
+
+uppmaning lämna blod-, urin-,
+utandnings-, saliv- eller svettprov
+för kontroll av om han eller hon är
+påverkad av narkotika, alkohol-
+haltiga drycker, andra berusnings-
+medel, sådant medel som avses i 1
+§ lagen (1991:1969) om förbud mot
+vissa dopningsmedel eller sådan
+
+uppmaning lämna blod-, urin-,
+utandnings-, saliv- eller svettprov
+för kontroll av om han eller hon är
+påverkad av narkotika, alkohol-
+haltiga drycker, andra berusnings-
+medel, sådant medel som avses i 1
+§ lagen (1991:1969) om förbud mot
+vissa dopningsmedel eller sådan
+
 vara som omfattas av lagen vara som omfattas av lagen
 (1999:42) om förbud mot vissa (1999:42) om förbud mot vissa
 hälsofarliga varor, om det kan hälsofarliga varor.
 misstänkas att den intagne är
 påverkad av något sådant medel
 eller någon sådan vara.
+
 33 §
 Bestämmelserna i 31 och 32 §§ Bestämmelserna i 32 § ska gälla
 skall gälla för alla som vårdas i ett för alla som vårdas i ett LVM-hem,
@@ -40673,17 +41105,30 @@ senast när beslutet om begränsning
 upphör att gälla.
 I lagen (1996:981) om besöksinskränkningar vid viss tvångsvård finns
 bestämmelser om besök på vårdinstitutioner enligt denna lag.
+
+Försändelser till den som vårdas
+enligt denna lag i ett LVM-hem för
+särskilt noggrann tillsyn får
+kontrolleras, om det behövs med
+hänsyn till ordningen vid hemmet
+eller till den intagnes särskilda för-
+hållanden. Om en ankommande
+försändelse innehåller egendom
+som inte får innehas enligt 31 §, får
+egendomen omhändertas.
+
 35 §
-Försändelser till den som vårdas Försändelser till den som vårdas
-enligt denna lag i ett LVM-hem för enligt denna lag i ett LVM-hem för
-särskilt noggrann tillsyn får särskilt noggrann tillsyn får
-kontrolleras, om det behövs med kontrolleras, om det behövs med
-hänsyn till ordningen vid hemmet hänsyn till säkerheten vid hemmet
-eller till den intagnes särskilda för- eller till den intagnes särskilda
-hållanden. Om en ankommande förhållanden. Om en ankommande
-försändelse innehåller egendom försändelse innehåller egendom
-som inte får innehas enligt 31 §, får som inte får innehas enligt 31 §, får
-egendomen omhändertas. egendomen omhändertas.
+Försändelser till den som vårdas
+enligt denna lag i ett LVM-hem för
+särskilt noggrann tillsyn får
+kontrolleras, om det behövs med
+hänsyn till säkerheten vid hemmet
+eller till den intagnes särskilda
+förhållanden. Om en ankommande
+försändelse innehåller egendom
+som inte får innehas enligt 31 §, får
+egendomen omhändertas.
+
 36 a §
 Tvångsåtgärder enligt 32–35 §§ Skyddsåtgärder enligt 32–35 §§
 får användas endast om de står i får användas endast om de står i
@@ -40715,44 +41160,83 @@ sluten ungdomsvård
 dels att 17 § ska upphöra att gälla,
 dels att 1, 10, 15, 16, 17 a och 18 b, ska ha följande lydelse.
 
-Nuvarande lydelse    Föreslagen lydelse
+Nuvarande lydelse
+
+Denna lag avser verkställighet av
+sluten ungdomsvård enligt 32 kap.
+5 § brottsbalken. Verkställigheten
+av sluten ungdomsvård skall ske
+vid sådana särskilda ungdomshem
+som avses i 12 § lagen (1990:52)
+med särskilda bestämmelser om
+vård av unga.
+Är den dömde, när domen får
+verkställas, häktad eller intagen på
+ett särskilt ungdomshem med stöd
+av lagen (1990:52) med särskilda
+bestämmelser om vård av unga,
+skall häktet eller det särskilda
+ungdomshemmet omedelbart se till
+att domen verkställs och att den
+dömde omedelbart förpassas till det
+särskilda ungdomshem som Statens
+institutionsstyrelse bestämmer.
+
+Vad som sägs i 16, 17, 19 och 20
+§§ lagen (1990:52) med särskilda
+bestämmelser om vård av unga
+skall gälla även för den som är
+föremål för verkställighet av sluten
+ungdomsvård.
+
+Den dömde har rätt att ringa och
+ta emot telefonsamtal och ta emot
+besök i den utsträckning det
+lämpligen kan ske. Den dömde får
+dock förvägras telefonsamtal och
+besök, om det kan äventyra
+säkerheten vid det särskilda
+ungdomshemmet eller kan
+
+Föreslagen lydelse
+
 1 §
-Denna lag avser verkställighet av Denna lag avser verkställighet av
-sluten ungdomsvård enligt 32 kap. sluten ungdomsvård enligt 32 kap.
-5 § brottsbalken. Verkställigheten 5 § brottsbalken. Verkställigheten
-av sluten ungdomsvård skall ske av sluten ungdomsvård ska ske vid
-vid sådana särskilda ungdomshem sådana särskilda ungdomshem som
-som avses i 12 § lagen (1990:52) avses i 13 kap. 1 § lagen (2017:00)
-med särskilda bestämmelser om med särskilda bestämmelser om
-vård av unga.        vård av barn och unga.
+Denna lag avser verkställighet av
+sluten ungdomsvård enligt 32 kap.
+5 § brottsbalken. Verkställigheten
+av sluten ungdomsvård ska ske vid
+sådana särskilda ungdomshem som
+avses i 13 kap. 1 § lagen (2017:00)
+med särskilda bestämmelser om
+vård av barn och unga.
 10 §
-Är den dömde, när domen får Är den dömde, när domen får
-verkställas, häktad eller intagen på verkställas, häktad eller intagen på
-ett särskilt ungdomshem med stöd ett särskilt ungdomshem med stöd
-av lagen (1990:52) med särskilda av lagen (2017:00) med särskilda
-bestämmelser om vård av unga, bestämmelser om vård av barn och
-skall häktet eller det särskilda unga, ska häktet eller det särskilda
-ungdomshemmet omedelbart se till ungdomshemmet omedelbart se till
-att domen verkställs och att den att domen verkställs och att den
-dömde omedelbart förpassas till det dömde omedelbart förpassas till det
-särskilda ungdomshem som Statens särskilda ungdomshem som Statens
-institutionsstyrelse bestämmer. institutionsstyrelse bestämmer.
+Är den dömde, när domen får
+verkställas, häktad eller intagen på
+ett särskilt ungdomshem med stöd
+av lagen (2017:00) med särskilda
+bestämmelser om vård av barn och
+unga, ska häktet eller det särskilda
+ungdomshemmet omedelbart se till
+att domen verkställs och att den
+dömde omedelbart förpassas till det
+särskilda ungdomshem som Statens
+institutionsstyrelse bestämmer.
 15 §
-Vad som sägs i 16, 17, 19 och 20 Vad som sägs i 13 kap. 4–8 och
-§§ lagen (1990:52) med särskilda 15–19 §§ lagen (2017:00) med
-bestämmelser om vård av unga särskilda bestämmelser om vård av
-skall gälla även för den som är barn och unga ska gälla även för
-föremål för verkställighet av sluten den som är föremål för verk-
-ungdomsvård.         ställighet av sluten ungdomsvård.
+Vad som sägs i 13 kap. 4–8 och
+15–19 §§ lagen (2017:00) med
+särskilda bestämmelser om vård av
+barn och unga ska gälla även för
+den som är föremål för verk-
+ställighet av sluten ungdomsvård.
 16 §
-Den dömde har rätt att ringa och Den dömde har rätt att använda
-ta emot telefonsamtal och ta emot elektroniska kommunikations-
-besök i den utsträckning det tjänster och ta emot besök i den
-lämpligen kan ske. Den dömde får utsträckning det lämpligen kan ske.
-dock förvägras telefonsamtal och Den dömde får dock begränsas i
-besök, om det kan äventyra sin rätt att använda elektroniska
-säkerheten vid det särskilda kommunikationstjänster och ta
-ungdomshemmet eller kan emot besök om det kan äventyra
+Den dömde har rätt att använda
+elektroniska kommunikations-
+tjänster och ta emot besök i den
+utsträckning det lämpligen kan ske.
+Den dömde får dock begränsas i
+sin rätt att använda elektroniska
+kommunikationstjänster och ta
+emot besök om det kan äventyra
 671
 
 <!-- sida 849 -->
@@ -40774,24 +41258,41 @@ gäller. Omhändertagen utrustning
 ska återlämnas till den dömde
 senast när beslutet om begränsning
 upphör att gälla.
-17 a
-Den dömde är, om inte annat Vid behov är den dömde, om inte
-motiveras av medicinska eller annat motiveras av medicinska
-liknande skäl, skyldig att efter eller liknande skäl, skyldig att efter
-uppmaning lämna blod-, urin-, uppmaning lämna blod-, urin-,
-utandnings-, saliv- eller svettprov utandnings-, saliv- eller svettprov
-för kontroll av om han eller hon är för kontroll av om han eller hon är
-påverkad av narkotika, alkohol- påverkad av narkotika, alkohol-
-haltiga drycker, andra berusnings- haltiga drycker, andra berusnings-
-medel, sådant medel som avses i 1 medel, sådant medel som avses i 1
-§ lagen (1991:1969) om förbud mot § lagen (1991:1969) om förbud mot
-vissa dopningsmedel eller sådan vissa dopningsmedel eller sådan
-vara som omfattas av lagen vara som omfattas av lagen
-(1999:42) om förbud mot vissa (1999:42) om förbud mot vissa
-hälsofarliga varor, om det kan hälsofarliga varor.
+
+Den dömde är, om inte annat
+motiveras av medicinska eller
+liknande skäl, skyldig att efter
+uppmaning lämna blod-, urin-,
+utandnings-, saliv- eller svettprov
+för kontroll av om han eller hon är
+påverkad av narkotika, alkohol-
+haltiga drycker, andra berusnings-
+medel, sådant medel som avses i 1
+§ lagen (1991:1969) om förbud mot
+vissa dopningsmedel eller sådan
+vara som omfattas av lagen
+(1999:42) om förbud mot vissa
+hälsofarliga varor, om det kan
 misstänkas att den dömde är
 påverkad av något sådant medel
 eller någon sådan vara.
+
+17 a
+Vid behov är den dömde, om inte
+annat motiveras av medicinska
+eller liknande skäl, skyldig att efter
+uppmaning lämna blod-, urin-,
+utandnings-, saliv- eller svettprov
+för kontroll av om han eller hon är
+påverkad av narkotika, alkohol-
+haltiga drycker, andra berusnings-
+medel, sådant medel som avses i 1
+§ lagen (1991:1969) om förbud mot
+vissa dopningsmedel eller sådan
+vara som omfattas av lagen
+(1999:42) om förbud mot vissa
+hälsofarliga varor.
+
 18 b §
 En kontroll- eller tvångsåtgärd En skyddsåtgärd enligt denna lag
 enligt denna lag får användas får användas endast om den står i
@@ -40803,6 +41304,7 @@ vändas om nyttan av åtgärden klart
 skaderisker åtgärden kan innebära.
 De får inte användas som någon
 form av bestraffning
+
 672
 
 <!-- sida 850 -->
@@ -40859,28 +41361,53 @@ Vid sluten rättspsykiatrisk vård enligt denna lag gäller, om inte annat
 anges i 8 a §, i tillämpliga delar bestämmelserna i 18–24 §§ lagen
 (1991:1128) om psykiatrisk tvångsvård.
 I fråga om den som är anhållen, I fråga om den som är anhållen,
-häktad eller intagen i eller ska häktad eller intagen i eller ska
-förpassas till kriminalvårdsanstalt förpassas till kriminalvårdsanstalt
-får Kriminalvården i särskilda fall, får Kriminalvården i särskilda fall,
-om det behövs från ordnings- eller om det behövs från ordnings- eller
-säkerhetssynpunkt, besluta om säkerhetssynpunkt, besluta om
-särskilda inskränkningar i rätten att särskilda inskränkningar i rätten att
-ta emot eller skicka försändelser, ta emot eller skicka försändelser,
-att ta emot besök eller att stå i att ta emot besök eller att stå i
-förbindelse med utomstående förbindelse med utomstående
-genom elektronisk kommunika- genom elektronisk kommunika-
-tion. I fråga om den som är intagen tion. I fråga om den som är intagen
-i eller ska förpassas till ett särskilt i eller ska förpassas till ett särskilt
-ungdomshem till följd av en dom ungdomshem till följd av en dom
-på sluten ungdomsvård enligt 32 på sluten ungdomsvård enligt 32
-kap. 5 § brottsbalken får Statens kap. 5 § brottsbalken får Statens
-institutionsstyrelse fatta motsvar- institutionsstyrelse fatta motsvar-
-ande beslut. Försändelser som ande beslut. Försändelser som
-avses i 3 kap. 6 § häkteslagen avses i 3 kap. 6 § häkteslagen
-(2010:611) från den som är häktad (2010:611) från den som är häktad
-eller anhållen, försändelser som eller anhållen, försändelser som
-avses i 7 kap. 6 § fängelselagen avses i 7 kap. 6 § fängelselagen
-(2010:610) från den som är intagen (2010:610) från den som är intagen
+
+häktad eller intagen i eller ska
+förpassas till kriminalvårdsanstalt
+får Kriminalvården i särskilda fall,
+om det behövs från ordnings- eller
+säkerhetssynpunkt, besluta om
+särskilda inskränkningar i rätten att
+ta emot eller skicka försändelser,
+att ta emot besök eller att stå i
+förbindelse med utomstående
+genom elektronisk kommunika-
+tion. I fråga om den som är intagen
+i eller ska förpassas till ett särskilt
+ungdomshem till följd av en dom
+på sluten ungdomsvård enligt 32
+kap. 5 § brottsbalken får Statens
+institutionsstyrelse fatta motsvar-
+ande beslut. Försändelser som
+avses i 3 kap. 6 § häkteslagen
+(2010:611) från den som är häktad
+eller anhållen, försändelser som
+avses i 7 kap. 6 § fängelselagen
+(2010:610) från den som är intagen
+
+häktad eller intagen i eller ska
+förpassas till kriminalvårdsanstalt
+får Kriminalvården i särskilda fall,
+om det behövs från ordnings- eller
+säkerhetssynpunkt, besluta om
+särskilda inskränkningar i rätten att
+ta emot eller skicka försändelser,
+att ta emot besök eller att stå i
+förbindelse med utomstående
+genom elektronisk kommunika-
+tion. I fråga om den som är intagen
+i eller ska förpassas till ett särskilt
+ungdomshem till följd av en dom
+på sluten ungdomsvård enligt 32
+kap. 5 § brottsbalken får Statens
+institutionsstyrelse fatta motsvar-
+ande beslut. Försändelser som
+avses i 3 kap. 6 § häkteslagen
+(2010:611) från den som är häktad
+eller anhållen, försändelser som
+avses i 7 kap. 6 § fängelselagen
+(2010:610) från den som är intagen
+
 liksom brev som avses i 19 § andra liksom brev som avses i 13 kap. 15
 stycket lagen (1990:52) med sär- § tredje stycket lagen (2017:00)
 skilda bestämmelser om vård av med särskilda bestämmelser om
@@ -40895,6 +41422,7 @@ lagen (2003:148) om straff för terroristbrott, besluta om särskilda
 inskränkningar i rätten att ta emot eller skicka försändelser, ta emot besök
 eller stå i förbindelse med utomstående genom elektronisk
 kommunikation.
+
 675
 
 <!-- sida 853 -->
@@ -40989,8 +41517,8 @@ Förslag till lag om ändring i utlänningslagen (2005:716) Bilaga 2
 
 Härigenom föreskrivs i fråga om utlänningslagen (2005:716) att 5 kap.
 12 § och 23 kap. 2 § ska ha följande lydelse.
-
 Nuvarande lydelse    Föreslagen lydelse
+
 5 kap.
 12 §
 Ett tidsbegränsat uppehålls- Ett tidsbegränsat uppehålls-
@@ -40998,15 +41526,25 @@ tillstånd får beviljas en utlänning tillstånd får beviljas en utlänning
 som behöver vård enligt lagen som behöver vård enligt lagen
 (1990:52) med särskilda bestäm- (2017:00) med särskilda bestäm-
 melser om vård av unga. melser om vård av barn och unga.
+
 23 kap.
 2 §
 Regeringen får meddela före- Regeringen får meddela före-
-skrifter om att sända hem ut- skrifter om att sända hem ut-
-länningar som inte är flyktingar och länningar som inte är flyktingar och
-som har tagits om hand enligt lagen som har tagits om hand enligt lagen
-(1990:52) med särskilda bestäm- (2017:00) med särskilda bestäm-
-melser om vård av unga, lagen melser om vård av barn och unga,
-(1991:1128) om psykiatrisk lagen (1991:1128) om psykiatrisk
+
+skrifter om att sända hem ut-
+länningar som inte är flyktingar och
+som har tagits om hand enligt lagen
+(1990:52) med särskilda bestäm-
+melser om vård av unga, lagen
+(1991:1128) om psykiatrisk
+
+skrifter om att sända hem ut-
+länningar som inte är flyktingar och
+som har tagits om hand enligt lagen
+(2017:00) med särskilda bestäm-
+melser om vård av barn och unga,
+lagen (1991:1128) om psykiatrisk
+
 tvångsvård eller lagen (1991:1129) tvångsvård eller lagen (1991:1129)
 om rättspsykiatrisk vård. om rättspsykiatrisk vård.
 Regeringen får, efter avtal med annat land om behandling av fri-
@@ -41218,6 +41756,7 @@ dels att 5 kap. 1 a § ska ha följande lydelse,
 dels att det i lagen ska införas en ny paragraf, 3 kap. 3 b §.
 
 Nuvarande lydelse    Föreslagen lydelse
+
 3 kap.
 3 b §
 Den som förestår verksamheten
@@ -41234,6 +41773,7 @@ Ordningsreglerna ska vara
 kända för både boende och
 personal och vara anslagna inom
 enheten väl synliga för de boende.
+
 5 kap.
 1 a §
 En vårdplan enligt 11 kap. 3 § första stycket socialtjänstlagen
@@ -41242,13 +41782,22 @@ En vårdplan enligt 11 kap. 3 § första stycket socialtjänstlagen
 behövs,               2. de särskilda insatser som
 2\. det sätt på vilket den unges behövs, och
 umgänge med föräldrar, vård- 3. den vårdbehövandes syn
-nadshavare och andra närstående på den planerade vården.
-ska ordnas,           En vårdplan som gäller barn ska
-3\. målet med vården, och även, om det inte möter särskilda
-4\. den vårdbehövandes och, i hinder, beskriva
-fråga om barn, även hans eller 4. det sätt på vilket barnets
-hennes vårdnadshavares syn på den umgänge med föräldrar, vårdnads-
-planerade vården     havare och andra närstående ska
+
+nadshavare och andra närstående
+ska ordnas,
+3\. målet med vården, och
+4\. den vårdbehövandes och, i
+fråga om barn, även hans eller
+hennes vårdnadshavares syn på den
+planerade vården
+
+på den planerade vården.
+En vårdplan som gäller barn ska
+även, om det inte möter särskilda
+hinder, beskriva
+4\. det sätt på vilket barnets
+umgänge med föräldrar, vårdnads-
+havare och andra närstående ska
 ordnas,
 5\. vilka förändringar som krävs
 för att barnet ska kunna återvända
@@ -41569,8 +42118,8 @@ Ikraftträdande
 Bilaga 5    Promemorians lagförslag
 
 Förslag till lag om ändring i lagen (1990:52) med
-
 särskilda bestämmelser om vård av unga
+
 Härigenom föreskrivs i fråga om lagen (1990:52) med särskilda
 bestämmelser om vård av unga
 dels att lagen ska heta lagen med särskilda bestämmelser om vård av
@@ -41584,7 +42133,9 @@ lydelse,
 dels att det ska införas två nya paragrafer, 21 a och 21 b §§, av följande
 lydelse,
 dels att rubriken närmast före 2 § ska lyda ”Förutsättningar för vård”:
+
 Nuvarande lydelse    Föreslagen lydelse
+
 1 §
 Insatser inom socialtjänsten för Insatser inom socialtjänsten för
 barn och ungdom ska göras i barn och ungdom ska göras i
@@ -41598,22 +42149,39 @@ integritet.          människovärde och integritet.
 Den som är under 18 år ska dock Den som är under 18 år ska dock
 beredas vård enligt denna lag, om ges vård enligt denna lag, om någon
 någon av de situationer som anges i av de förutsättningar som anges i 2,
-2 eller 3 § föreligger och det kan 3 § eller 21 § andra stycket är
-antas att behövlig vård inte kan ges uppfyllda och det kan antas att
-den unge med samtycke av den behövlig vård inte kan ges barnet
-eller dem som har vårdnaden om med samtycke av den eller dem
-honom eller henne och, när den som har vårdnaden om honom eller
-unge har fyllt 15 år, av honom eller henne och, när barnet har fyllt 15
-henne själv.         år, av honom eller henne själv.
-Vård med stöd av 3 § får även Vård med stöd av 3 § får även ges
-beredas den som har fyllt 18 men till den som har fyllt 18 men inte
-inte 20 år, om sådan vård med 20 år, om sådan vård med hänsyn
-hänsyn till den unges behov och till den unges behov och personliga
-personliga förhållanden i övrigt är förhållanden i övrigt är lämpligare
-lämpligare än någon annan vård än någon annan vård och det kan
-och det kan antas att behövlig vård antas att behövlig vård inte kan ges
-inte kan ges med den unges med den unges samtycke.
+
+2 eller 3 § föreligger och det kan
+antas att behövlig vård inte kan ges
+den unge med samtycke av den
+eller dem som har vårdnaden om
+honom eller henne och, när den
+unge har fyllt 15 år, av honom eller
+henne själv.
+Vård med stöd av 3 § får även
+beredas den som har fyllt 18 men
+inte 20 år, om sådan vård med
+hänsyn till den unges behov och
+personliga förhållanden i övrigt är
+lämpligare än någon annan vård
+och det kan antas att behövlig vård
+inte kan ges med den unges
 694          samtycke.
+
+3 § eller 21 § andra stycket är
+uppfyllda och det kan antas att
+behövlig vård inte kan ges barnet
+med samtycke av den eller dem
+som har vårdnaden om honom eller
+henne och, när barnet har fyllt 15
+år, av honom eller henne själv.
+Vård med stöd av 3 § får även ges
+till den som har fyllt 18 men inte
+20 år, om sådan vård med hänsyn
+till den unges behov och personliga
+förhållanden i övrigt är lämpligare
+än någon annan vård och det kan
+antas att behövlig vård inte kan ges
+med den unges samtycke.
 
 <!-- sida 872 -->
 
@@ -41629,31 +42197,57 @@ under 18 år.
 Med ung person eller den unge
 avses varje människa mellan 18
 och 20 år.
+
+Vård skall beslutas om det på
+grund av fysisk eller psykisk miss-
+handel, otillbörligt utnyttjande,
+brister i omsorgen eller något annat
+förhållande i hemmet finns en
+påtaglig risk för att den unges hälsa
+eller utveckling skadas.
+
 Förutsättningar för vård
 2 §
-Vård skall beslutas om det på Vård ska beslutas om det på
-grund av fysisk eller psykisk miss- grund av fysisk eller psykisk
-handel, otillbörligt utnyttjande, misshandel, otillbörligt utnyttjande,
-brister i omsorgen eller något annat brister i omsorgen eller något annat
-förhållande i hemmet finns en förhållande i hemmet finns en
-påtaglig risk för att den unges hälsa påtaglig risk för att barnets hälsa
-eller utveckling skadas. eller utveckling skadas.
+Vård ska beslutas om det på
+grund av fysisk eller psykisk
+misshandel, otillbörligt utnyttjande,
+brister i omsorgen eller något annat
+förhållande i hemmet finns en
+påtaglig risk för att barnets hälsa
+eller utveckling skadas.
+
+Vård skall också beslutas om den
+unge utsätter sin hälsa eller utveck-
+ling för en påtaglig risk att skadas
+genom missbruk av beroendefram-
+kallande medel, brottslig verksam-
+het eller något annat socialt
+nedbrytande beteende.
+Vård skall också beslutas om den
+som dömts till sluten ungdomsvård
+enligt 32 kap. 5 § brottsbalken vid
+verkställighetens slut bedöms vara
+i uppenbart behov av fortsatt vård
+för att inte löpa sådan risk som
+avses i första stycket.
+
 3 §
-Vård skall också beslutas om den Vård ska också beslutas om
-unge utsätter sin hälsa eller utveck- barnet eller den unge utsätter sin
-ling för en påtaglig risk att skadas hälsa eller utveckling för en
-genom missbruk av beroendefram- påtaglig risk att skadas genom
-kallande medel, brottslig verksam- missbruk av beroendeframkallande
-het eller något annat socialt medel, brottslig verksamhet eller
-nedbrytande beteende. något annat socialt nedbrytande
+Vård ska också beslutas om
+barnet eller den unge utsätter sin
+hälsa eller utveckling för en
+påtaglig risk att skadas genom
+missbruk av beroendeframkallande
+medel, brottslig verksamhet eller
+något annat socialt nedbrytande
 beteende.
-Vård skall också beslutas om den Vård ska också beslutas om den
-som dömts till sluten ungdomsvård som dömts till sluten ungdomsvård
-enligt 32 kap. 5 § brottsbalken vid enligt 32 kap. 5 § brottsbalken vid
-verkställighetens slut bedöms vara verkställighetens slut bedöms vara i
-i uppenbart behov av fortsatt vård uppenbart behov av fortsatt vård för
-för att inte löpa sådan risk som att inte löpa sådan risk som avses i
-avses i första stycket. första stycket.
+Vård ska också beslutas om den
+som dömts till sluten ungdomsvård
+enligt 32 kap. 5 § brottsbalken vid
+verkställighetens slut bedöms vara i
+uppenbart behov av fortsatt vård för
+att inte löpa sådan risk som avses i
+första stycket.
+
 4 §
 Beslut om vård med stöd av denna lag meddelas av förvaltningsrätten
 efter ansökan av socialnämnden.
@@ -41677,41 +42271,78 @@ ats till den unge,   till barnet eller den unge,
 inställning.
 
 6 §
-Socialnämnden får besluta att Socialnämnden får besluta att
-den som är under 20 år omedelbart den som är under 20 år omedelbart
-skall omhändertas, om ska omhändertas, om
-1\. det är sannolikt att den unge 1. det är sannolikt att barnet eller
-behöver beredas vård med stöd av den unge behöver ges vård med
-denna lag, och       stöd av denna lag, och
-2\. rättens beslut om vård inte kan 2. rättens beslut om vård inte kan
-avvaktas med hänsyn till risken för avvaktas med hänsyn till risken för
-den unges hälsa eller utveckling barnets eller den unges hälsa eller
-eller till att den fortsatta ut- utveckling eller till att den fortsatta
-redningen allvarligt kan försvåras utredningen allvarligt kan försvåras
-eller vidare åtgärder hindras. eller vidare åtgärder hindras.
-Om socialnämndens beslut om Om socialnämndens beslut om
-omhändertagande inte kan avvak- omhändertagande inte kan avvak-
-tas, får nämndens ordförande eller tas, får nämndens ordförande eller
-någon annan ledamot som någon annan ledamot som
-nämnden har förordnat besluta om nämnden har förordnat besluta om
-omhändertagande. Beslutet skall omhändertagande. Beslutet ska
-anmälas vid nämndens nästa anmälas vid nämndens nästa
-sammanträde.         sammanträde.
-När socialnämnden har ansökt När socialnämnden har ansökt
-om vård med stöd av lagen, får även om vård med stöd av lagen, får även
-rätten besluta att den unge rätten besluta att barnet eller den
-omedelbart skall omhändertas. unge omedelbart ska omhändertas.
+
+Socialnämnden får besluta att
+den som är under 20 år omedelbart
+skall omhändertas, om
+1\. det är sannolikt att den unge
+behöver beredas vård med stöd av
+denna lag, och
+2\. rättens beslut om vård inte kan
+avvaktas med hänsyn till risken för
+den unges hälsa eller utveckling
+eller till att den fortsatta ut-
+redningen allvarligt kan försvåras
+eller vidare åtgärder hindras.
+Om socialnämndens beslut om
+omhändertagande inte kan avvak-
+tas, får nämndens ordförande eller
+någon annan ledamot som
+nämnden har förordnat besluta om
+omhändertagande. Beslutet skall
+anmälas vid nämndens nästa
+sammanträde.
+När socialnämnden har ansökt
+om vård med stöd av lagen, får även
+rätten besluta att den unge
+omedelbart skall omhändertas.
+
+Socialnämnden får besluta att
+den som är under 20 år omedelbart
+ska omhändertas, om
+1\. det är sannolikt att barnet eller
+den unge behöver ges vård med
+stöd av denna lag, och
+2\. rättens beslut om vård inte kan
+avvaktas med hänsyn till risken för
+barnets eller den unges hälsa eller
+utveckling eller till att den fortsatta
+utredningen allvarligt kan försvåras
+eller vidare åtgärder hindras.
+Om socialnämndens beslut om
+omhändertagande inte kan avvak-
+tas, får nämndens ordförande eller
+någon annan ledamot som
+nämnden har förordnat besluta om
+omhändertagande. Beslutet ska
+anmälas vid nämndens nästa
+sammanträde.
+När socialnämnden har ansökt
+om vård med stöd av lagen, får även
+rätten besluta att barnet eller den
+unge omedelbart ska omhändertas.
+
 6a §
 Är svensk domstol inte behörig Är svensk domstol inte behörig
 att besluta om beredande av vård att besluta om vård enligt denna
 enligt denna lag, får socialnämnden lag, får socialnämnden besluta att
-besluta att den som är under 18 år den som är under 18 år omedelbart
-omedelbart ska omhändertas, om ska omhändertas, om
-1\. åtgärder av behörig utländsk 1. åtgärder av behörig utländsk
-myndighet inte kan avvaktas med myndighet inte kan avvaktas med
-hänsyn till risken för den unges hänsyn till risken för barnets hälsa
-hälsa eller utveckling eller till att eller utveckling eller till att den
-den fortsatta utredningen allvarligt fortsatta utredningen allvarligt kan
+
+besluta att den som är under 18 år
+omedelbart ska omhändertas, om
+1\. åtgärder av behörig utländsk
+myndighet inte kan avvaktas med
+hänsyn till risken för den unges
+hälsa eller utveckling eller till att
+den fortsatta utredningen allvarligt
+
+den som är under 18 år omedelbart
+ska omhändertas, om
+1\. åtgärder av behörig utländsk
+myndighet inte kan avvaktas med
+hänsyn till risken för barnets hälsa
+eller utveckling eller till att den
+fortsatta utredningen allvarligt kan
+
 kan försvåras eller vidare åtgärder försvåras eller vidare åtgärder
 hindras, och         hindras, och
 2\. det är sannolikt att den unge 2. det är sannolikt att barnet
@@ -41731,6 +42362,7 @@ behörighet och om erkännande och verkställighet av domar i
 äktenskapsmål och mål om föräldraansvar samt om upphävande av
 förordning (EG) nr 1347/2000 (Bryssel II-förordningen) och lagen
 (2012:318) om 1996 års Haagkonvention.
+
 8 §
 Om förvaltningsrätten fastställer Om förvaltningsrätten fastställer
 ett beslut om omedelbart ett beslut om omedelbart
@@ -41745,6 +42377,7 @@ denna lag, eller     lag, eller
 2\. vara fortsatt omhändertagen för tillfällig vård enligt 9 a §.
 Förvaltningsrätten får medge förlängning av denna tid, om ytterligare
 utredning eller någon annan särskild omständighet gör det nödvändigt.
+
 9 §
 Ett omedelbart omhändertagande upphör
 1\. om ansökan om vård eller ansökan om fortsatt omhändertagande för
@@ -41759,15 +42392,25 @@ Om det inte längre finns skäl för ett omhändertagande, ska
 socialnämnden besluta att detta genast ska upphöra. Ett sådant beslut får
 meddelas också av den rätt som prövar en fråga om vård med stöd av lagen
 eller en fråga om fortsatt omhändertagande enligt 9 a §.
+
+Förvaltningsrätten får medge att
+ett omhändertagande enligt 6 a §
+ska fortsätta om den unge fortsatt
+behöver tillfällig vård och
+socialnämnden har ansökt om
+fortsatt omhändertagande inom den
+tid som anges i 8 § första stycket,
+tiden för ett beslut om förlängd
+
 9 a §
-Förvaltningsrätten får medge att Förvaltningsrätten får medge att
-ett omhändertagande enligt 6 a § ett omhändertagande enligt 6 a §
-ska fortsätta om den unge fortsatt ska fortsätta om barnet fortsatt
-behöver tillfällig vård och behöver tillfällig vård och
-socialnämnden har ansökt om socialnämnden har ansökt om
-fortsatt omhändertagande inom den fortsatt omhändertagande inom den
-tid som anges i 8 § första stycket, tid som anges i 8 § första stycket,
-tiden för ett beslut om förlängd tiden för ett beslut om förlängd 697
+Förvaltningsrätten får medge att
+ett omhändertagande enligt 6 a §
+ska fortsätta om barnet fortsatt
+behöver tillfällig vård och
+socialnämnden har ansökt om
+fortsatt omhändertagande inom den
+tid som anges i 8 § första stycket,
+tiden för ett beslut om förlängd 697
 
 <!-- sida 875 -->
 
@@ -41804,6 +42447,7 @@ omhändertagen, ska social- ska socialnämnden eller, i förekom-
 nämnden eller, i förekommande mande fall, rätten besluta att
 fall, rätten besluta att omhänder- omhändertagandet genast ska
 tagandet genast ska upphöra. upphöra.
+
 10 §
 Vården skall anses påbörjad när Vården ska anses påbörjad när
 den unge på grund av ett beslut om barnet eller den unge på grund av
@@ -41812,65 +42456,119 @@ om vård har placerats utanför sitt omhändertagande eller om vård har
 eget hem.            placerats utanför sitt eget hem.
 För vårdens innehåll och utformning gäller bestämmelserna i
 socialtjänstlagen (2001:453) och föreskrifterna i 11–20 §§.
+
+Socialnämnden bestämmer hur
+vården av den unge skall ordnas
+och var han eller hon skall vistas
+under vårdtiden. I fråga om den
+som vårdas i ett hem som avses i 12
+698          § första stycket får dock Statens
+
 11 §
-Socialnämnden bestämmer hur Socialnämnden bestämmer hur
-vården av den unge skall ordnas vården av barnet eller den unge ska
-och var han eller hon skall vistas ordnas och var han eller hon ska
-under vårdtiden. I fråga om den vistas under vårdtiden. I fråga om
-som vårdas i ett hem som avses i 12 den som vårdas i ett hem som avses
-698          § första stycket får dock Statens i 12 § första stycket får dock
+Socialnämnden bestämmer hur
+vården av barnet eller den unge ska
+ordnas och var han eller hon ska
+vistas under vårdtiden. I fråga om
+den som vårdas i ett hem som avses
+i 12 § första stycket får dock
 
 <!-- sida 876 -->
 
-institutionsstyrelse i samband med Statens institutionsstyrelse i Bilaga 5
-att den unge transporteras besluta samband med att barnet eller den
-att han eller hon tillfälligt skall unge transporteras besluta att han
-vistas i ett annat sådant hem. eller hon tillfälligt ska vistas i ett
+institutionsstyrelse i samband med
+att den unge transporteras besluta
+att han eller hon tillfälligt skall
+vistas i ett annat sådant hem.
+Nämnden får medge att den unge
+vistas i sitt eget hem, om detta kan
+antas vara bäst ägnat att främja
+vården av honom eller henne. Vård
+med stöd av denna lag skall dock
+alltid inledas utanför den unges
+eget hem.
+Om nämndens beslut enligt första
+eller andra stycket inte kan
+avvaktas, får ordföranden eller
+någon annan ledamot som
+nämnden har förordnat besluta i
+frågan. Beslutet skall anmälas vid
+nämndens nästa sammanträde.
+Nämnden eller den åt vilken
+nämnden har uppdragit vården
+skall ha uppsikt över den unge och,
+i den utsträckning det behövs för att
+genomföra vården, bestämma om
+hans eller hennes personliga
+förhållanden.
+Nämnden har under vårdtiden
+samma ansvar som vårdnads-
+havaren för att den unges
+grundläggande rättigheter enligt 6
+kap. 1 § föräldrabalken tillgodoses.
+För vård av unga som på någon
+grund som anges i 3 § behöver stå
+under särskilt noggrann tillsyn ska
+det finnas särskilda ungdomshem.
+
+Om socialnämnden har beslutat
+att den unge ska vistas i ett hem
+som avses i första stycket ska
+Statens institutionsstyrelse anvisa
+plats i ett sådant hem. I akuta
+situationer ska Statens institutions-
+styrelse omedelbart anvisa en sådan
+plats.
+Om den unge är placerad på ett
+särskilt ungdomshem och vårdas
+
+Statens institutionsstyrelse i Bilaga 5
+samband med att barnet eller den
+unge transporteras besluta att han
+eller hon tillfälligt ska vistas i ett
 annat sådant hem.
-Nämnden får medge att den unge Nämnden får medge att barnet
-vistas i sitt eget hem, om detta kan eller den unge vistas i sitt eget hem,
-antas vara bäst ägnat att främja om detta kan antas vara bäst ägnat
-vården av honom eller henne. Vård att främja vården av honom eller
-med stöd av denna lag skall dock henne. Vård med stöd av denna lag
-alltid inledas utanför den unges ska dock alltid inledas utanför
-eget hem.            barnets eller den unges eget hem.
-Om nämndens beslut enligt första Om nämndens beslut enligt första
-eller andra stycket inte kan eller andra stycket inte kan
-avvaktas, får ordföranden eller avvaktas, får ordföranden eller
-någon annan ledamot som någon annan ledamot som
-nämnden har förordnat besluta i nämnden har förordnat besluta i
-frågan. Beslutet skall anmälas vid frågan. Beslutet ska anmälas vid
-nämndens nästa sammanträde. nämndens nästa sammanträde.
-Nämnden eller den åt vilken Nämnden eller den åt vilken
-nämnden har uppdragit vården nämnden har uppdragit vården ska
-skall ha uppsikt över den unge och, ha uppsikt över barnet eller den
-i den utsträckning det behövs för att unge och, i den utsträckning det
-genomföra vården, bestämma om behövs för att genomföra vården,
-hans eller hennes personliga bestämma om hans eller hennes
-förhållanden.        personliga förhållanden.
-Nämnden har under vårdtiden Nämnden har under vårdtiden
-samma ansvar som vårdnads- samma ansvar som vårdnads-
-havaren för att den unges havaren för att barnets eller den
-grundläggande rättigheter enligt 6 unges grundläggande rättigheter
-kap. 1 § föräldrabalken tillgodoses. enligt 6 kap. 1 § föräldrabalken
+Nämnden får medge att barnet
+eller den unge vistas i sitt eget hem,
+om detta kan antas vara bäst ägnat
+att främja vården av honom eller
+henne. Vård med stöd av denna lag
+ska dock alltid inledas utanför
+barnets eller den unges eget hem.
+Om nämndens beslut enligt första
+eller andra stycket inte kan
+avvaktas, får ordföranden eller
+någon annan ledamot som
+nämnden har förordnat besluta i
+frågan. Beslutet ska anmälas vid
+nämndens nästa sammanträde.
+Nämnden eller den åt vilken
+nämnden har uppdragit vården ska
+ha uppsikt över barnet eller den
+unge och, i den utsträckning det
+behövs för att genomföra vården,
+bestämma om hans eller hennes
+personliga förhållanden.
+Nämnden har under vårdtiden
+samma ansvar som vårdnads-
+havaren för att barnets eller den
+unges grundläggande rättigheter
+enligt 6 kap. 1 § föräldrabalken
 tillgodoses.
 12 §
-För vård av unga som på någon För vård av barn eller unga som
-grund som anges i 3 § behöver stå på någon grund som anges i 3 §
-under särskilt noggrann tillsyn ska behöver stå under särskilt noggrann
-det finnas särskilda ungdomshem. tillsyn ska det finnas särskilda
+För vård av barn eller unga som
+på någon grund som anges i 3 §
+behöver stå under särskilt noggrann
+tillsyn ska det finnas särskilda
 ungdomshem.
-Om socialnämnden har beslutat Om socialnämnden har beslutat
-att den unge ska vistas i ett hem att barnet eller den unge ska vistas
-som avses i första stycket ska i ett hem som avses i första stycket
-Statens institutionsstyrelse anvisa ska Statens institutionsstyrelse
-plats i ett sådant hem. I akuta anvisa plats i ett sådant hem. I akuta
-situationer ska Statens institutions- situationer ska Statens institutions-
-styrelse omedelbart anvisa en sådan styrelse omedelbart anvisa en sådan
-plats.               plats.
+Om socialnämnden har beslutat
+att barnet eller den unge ska vistas
+i ett hem som avses i första stycket
+ska Statens institutionsstyrelse
+anvisa plats i ett sådant hem. I akuta
+situationer ska Statens institutions-
+styrelse omedelbart anvisa en sådan
+plats.
 12 a
-Om den unge är placerad på ett Om barnet eller den unge är
-särskilt ungdomshem och vårdas placerad på ett särskilt 699
+Om barnet eller den unge är
+placerad på ett särskilt     699
 
 <!-- sida 877 -->
 
@@ -41893,32 +42591,60 @@ Statens institutionsstyrelse under- sjukdom, ska Statens institutions-
 rättas, om det inte står klart att det styrelse underrättas, om det inte
 inte finns någon risk för står klart att det inte finns någon
 smittspridning.      risk för smittspridning.
+
+Har den unge beretts vård med
+stöd av 2 §, ska socialnämnden
+minst en gång var sjätte månad
+överväga om vård enligt lagen
+fortfarande behövs och hur vården
+bör inriktas och utformas.
+
+Har den unge beretts vård med
+stöd av 3 §, ska socialnämnden
+inom sex månader från dagen för
+verkställighet av vårdbeslutet pröva
+om vård med stöd av lagen ska
+upphöra. Denna fråga ska därefter
+
 13 §
-Har den unge beretts vård med Har barnet getts vård med stöd av
-stöd av 2 §, ska socialnämnden 2 § eller har vården därefter
-minst en gång var sjätte månad fortsatt med stöd av 21 § andra
-överväga om vård enligt lagen stycket, ska socialnämnden minst
-fortfarande behövs och hur vården en gång var sjätte månad överväga
-bör inriktas och utformas. om vård enligt lagen fortfarande
+Har barnet getts vård med stöd av
+2 § eller har vården därefter
+fortsatt med stöd av 21 § andra
+stycket, ska socialnämnden minst
+en gång var sjätte månad överväga
+om vård enligt lagen fortfarande
 behövs och hur vården bör inriktas
 och utformas.
-Har den unge beretts vård med Har barnet eller den unge getts
-stöd av 3 §, ska socialnämnden vård med stöd av 3 § eller har
-inom sex månader från dagen för vården därefter fortsatt med stöd av
-verkställighet av vårdbeslutet pröva 21 § andra stycket, ska social-
-om vård med stöd av lagen ska nämnden inom sex månader från
-upphöra. Denna fråga ska därefter dagen för verkställighet av vård-
-prövas fortlöpande inom sex beslutet pröva om vård med stöd av
-månader från senaste prövning. lagen ska upphöra. Denna fråga ska
+Har barnet eller den unge getts
+vård med stöd av 3 § eller har
+vården därefter fortsatt med stöd av
+21 § andra stycket, ska social-
+nämnden inom sex månader från
+dagen för verkställighet av vård-
+
+prövas fortlöpande inom sex
+månader från senaste prövning.
+
+När den unge har varit placerad i
+samma familjehem under tre år från
+det att placeringen verkställdes, ska
+socialnämnden särskilt överväga
+om det finns skäl att ansöka om
+överflyttning av vårdnaden enligt 6
+kap. 8 § föräldrabalken. Därefter
+
+beslutet pröva om vård med stöd av
+lagen ska upphöra. Denna fråga ska
 därefter prövas fortlöpande inom
 sex månader från senaste prövning.
-När den unge har varit placerad i När barnet har varit placerat i
-samma familjehem under tre år från samma familjehem under tre år från
-det att placeringen verkställdes, ska det att placeringen verkställdes, ska
-socialnämnden särskilt överväga socialnämnden särskilt överväga
-om det finns skäl att ansöka om om det finns skäl att ansöka om
-överflyttning av vårdnaden enligt 6 överflyttning av vårdnaden enligt 6
-kap. 8 § föräldrabalken. Därefter kap. 8 § föräldrabalken. Därefter
+När barnet har varit placerat i
+samma familjehem under tre år från
+det att placeringen verkställdes, ska
+socialnämnden särskilt överväga
+om det finns skäl att ansöka om
+överflyttning av vårdnaden enligt 6
+kap. 8 § föräldrabalken. Därefter
+
 ska frågan övervägas årligen. ska frågan övervägas årligen.
 Vid övervägande enligt tredje stycket ska följande särskilt beaktas:
 – den unges och familjehemsför- – barnets och familjehemsföräld-
@@ -41929,15 +42655,26 @@ Vid övervägande enligt tredje stycket ska följande särskilt beaktas:
 
 – den unges relation till familje- – barnets relation till Bilaga 5
 hemsföräldrarna och deras förmåga familjehemsföräldrarna och deras
-att tillgodose den unges behov av förmåga att tillgodose barnets
-en trygg och god uppväxt, behov av en trygg och god uppväxt,
-– familjehemsföräldrarnas in- – familjehemsföräldrarna inställ-
-ställning till och förmåga att ning till och förmåga att tillgodose
-tillgodose den unges behov av barnets behov av kontakt med sina
-kontakt med sina föräldrar och föräldrar och andra närstående, och
+
+att tillgodose den unges behov av
+en trygg och god uppväxt,
+– familjehemsföräldrarnas in-
+ställning till och förmåga att
+tillgodose den unges behov av
+kontakt med sina föräldrar och
 andra närstående, och
-– den unges relation till sina – barnets relation till sina
-föräldrar.           föräldrar.
+– den unges relation till sina
+föräldrar.
+
+förmåga att tillgodose barnets
+behov av en trygg och god uppväxt,
+– familjehemsföräldrarna inställ-
+ning till och förmåga att tillgodose
+barnets behov av kontakt med sina
+föräldrar och andra närstående, och
+– barnets relation till sina
+föräldrar.
+
 13 a §
 Socialnämnden ska noga följa vården av den som får vård med stöd av
 denna lag.
@@ -41974,6 +42711,7 @@ vistelseort inte ska röjas för inte ska röjas för föräldrar eller
 föräldrar eller vårdnadshavare. vårdnadshavare.
 Socialnämnden ska minst en gång var tredje månad överväga om ett
 sådant beslut som avses i andra stycket fortfarande behövs.
+
 701
 
 <!-- sida 879 -->
@@ -41996,6 +42734,7 @@ rörelsefrihet får också inskränkas unges rörelsefrihet får också in-
 när det behövs av hänsyn till andra skränkas när det behövs av hänsyn
 intagnas eller personalens säkerhet. till andra intagnas eller personalens
 säkerhet.
+
 15 b §
 Den som omfattas av bestämmel- Den som omfattas av bestämmel-
 serna i 15 § får beredas vård vid en serna i 15 § får ges vård vid en
@@ -42012,18 +42751,31 @@ för att i övrigt genomföra vården. avviker eller för att i övrigt
 genomföra vården.
 Den som vårdas vid en låsbar enhet ska ges möjlighet att dagligen vistas
 utomhus och ges möjlighet att ägna sig åt fysisk aktivitet eller någon annan
+
 fritidssysselsättning.
-Vård vid en låsbar enhet får pågå Vård vid en låsbar enhet får pågå
-under högst två månader i följd. under högst två månader i följd.
-Om  särskilda behandlingsskäl Om särskilda behandlingsskäl
-föranleder det, får dock vården vid föranleder det, får dock vården vid
-enheten pågå längre tid, förutsatt att enheten pågå längre tid, förutsatt att
-någon av de omständigheter som någon av de omständigheter som
-anges i första stycket fortfarande anges i första stycket fortfarande
-gäller och att den unge samtidigt gäller och att barnet eller den unge
-ges möjlighet till vistelse i öppnare samtidigt ges möjlighet till vistelse
-former eller utanför hemmet. i öppnare former eller utanför
+Vård vid en låsbar enhet får pågå
+under högst två månader i följd.
+Om  särskilda behandlingsskäl
+föranleder det, får dock vården vid
+enheten pågå längre tid, förutsatt att
+någon av de omständigheter som
+anges i första stycket fortfarande
+gäller och att den unge samtidigt
+ges möjlighet till vistelse i öppnare
+former eller utanför hemmet.
+
+Vård vid en låsbar enhet får pågå
+under högst två månader i följd.
+Om  särskilda behandlingsskäl
+föranleder det, får dock vården vid
+enheten pågå längre tid, förutsatt att
+någon av de omständigheter som
+anges i första stycket fortfarande
+gäller och att barnet eller den unge
+samtidigt ges möjlighet till vistelse
+i öppnare former eller utanför
 hemmet.
+
 15 c §
 Den som omfattas av bestämmel- Den som omfattas av bestämmel-
 702          serna i 15 § får, om det är särskilt serna i 15 § får, om det är särskilt
@@ -42047,26 +42799,48 @@ följd.
 En läkare eller sjuksköterska ska skyndsamt yttra sig om varje åtgärd
 som vidtas enligt första stycket. Om läkaren eller sjuksköterskan begär det,
 ska åtgärden genast avbrytas.
+
+Den som omfattas av bestämmel-
+serna i 15 § får inte inneha
+narkotika, alkoholhaltiga drycker,
+andra berusningsmedel, sådana
+medel som avses i lagen
+(1991:1969) om förbud mot vissa
+dopningsmedel eller sådana varor
+som omfattas av lagen (1999:42)
+om förbud mot vissa hälsofarliga
+varor eller injektionssprutor,
+kanyler eller andra föremål som är
+särskilt ägnade att användas för
+missbruk av eller annan befattning
+med narkotika. Den unge får inte
+heller inneha något annat som kan
+vara till men för vården eller
+ordningen vid hemmet. Om sådan
+egendom påträffas, skall den om-
+händertas.
+
 16 §
-Den som omfattas av bestämmel- Den som omfattas av bestämmel-
-serna i 15 § får inte inneha serna i 15 § får inte inneha
-narkotika, alkoholhaltiga drycker, narkotika, alkoholhaltiga drycker,
-andra berusningsmedel, sådana andra berusningsmedel, sådana
-medel som avses i lagen medel som avses i lagen
-(1991:1969) om förbud mot vissa (1991:1969) om förbud mot vissa
-dopningsmedel eller sådana varor dopningsmedel eller sådana varor
-som omfattas av lagen (1999:42) som omfattas av lagen (1999:42)
-om förbud mot vissa hälsofarliga om förbud mot vissa hälsofarliga
-varor eller injektionssprutor, varor eller injektionssprutor,
-kanyler eller andra föremål som är kanyler eller andra föremål som är
-särskilt ägnade att användas för särskilt ägnade att användas för
-missbruk av eller annan befattning missbruk av eller annan befattning
-med narkotika. Den unge får inte med narkotika. Barnet eller den
-heller inneha något annat som kan unge får inte heller inneha något
-vara till men för vården eller annat som kan vara till men för
-ordningen vid hemmet. Om sådan vården eller ordningen vid hemmet.
-egendom påträffas, skall den om- Om sådan egendom påträffas, ska
-händertas.           den omhändertas.
+Den som omfattas av bestämmel-
+serna i 15 § får inte inneha
+narkotika, alkoholhaltiga drycker,
+andra berusningsmedel, sådana
+medel som avses i lagen
+(1991:1969) om förbud mot vissa
+dopningsmedel eller sådana varor
+som omfattas av lagen (1999:42)
+om förbud mot vissa hälsofarliga
+varor eller injektionssprutor,
+kanyler eller andra föremål som är
+särskilt ägnade att användas för
+missbruk av eller annan befattning
+med narkotika. Barnet eller den
+unge får inte heller inneha något
+annat som kan vara till men för
+vården eller ordningen vid hemmet.
+Om sådan egendom påträffas, ska
+den omhändertas.
+
 17 §
 Den som omfattas av bestämmelserna i 15 § får, om det behövs,
 kroppsvisiteras eller ytligt kroppsbesiktigas vid ankomst till hemmet för
@@ -42090,90 +42864,162 @@ kroppsbesiktningen. Den unges ytliga kroppsbesiktningen. Barnets
 tillgodoses.         långt det är möjligt tillgodoses.
 All den hänsyn som omständigheterna medger ska iakttas vid
 kroppsvisitation och ytlig kroppsbesiktning.
+
 17 a §
-Den som omfattas av bestämmel- Den som omfattas av bestämmel-
-serna i 15 § är, om inte annat serna i 15 § är, om inte annat
-motiveras av medicinska eller motiveras av medicinska eller
-liknande skäl, skyldig att vid an- liknande skäl, skyldig att vid an-
-komsten till hemmet lämna blod-, komsten till hemmet lämna blod-,
-urin-, utandnings-, saliv- eller urin-, utandnings-, saliv- eller
-svettprov för kontroll av om han svettprov för kontroll av om han
-eller hon är påverkad av narkotika, eller hon är påverkad av narkotika,
-alkoholhaltiga drycker, andra alkoholhaltiga drycker, andra
-berusningsmedel, sådant medel berusningsmedel, sådant medel
-som avses i 1 § lagen (1991:1969) som avses i 1 § lagen (1991:1969)
-om förbud mot vissa dopnings- om förbud mot vissa dopnings-
-medel eller sådan vara som medel eller sådan vara som
-omfattas av lagen (1999:42) om omfattas av lagen (1999:42) om
-förbud mot vissa hälsofarliga varor. förbud mot vissa hälsofarliga varor.
-Den unge får uppmanas att lämna Barnet eller den unge får uppmanas
-prov endast om det finns anledning att lämna prov endast om det finns
-till det.            anledning till det.
-Första stycket första meningen Första stycket första meningen
-gäller också om det under vistelsen gäller också om det under vistelsen
-i hemmet kan misstänkas att den i hemmet kan misstänkas att barnet
-unge är påverkad av någon sådan eller den unge är påverkad av
-dryck eller vara eller något sådant någon sådan dryck eller vara eller
-medel som anges i första stycket. något sådant medel som anges i
+
+Den som omfattas av bestämmel-
+serna i 15 § är, om inte annat
+motiveras av medicinska eller
+liknande skäl, skyldig att vid an-
+komsten till hemmet lämna blod-,
+urin-, utandnings-, saliv- eller
+svettprov för kontroll av om han
+eller hon är påverkad av narkotika,
+alkoholhaltiga drycker, andra
+berusningsmedel, sådant medel
+som avses i 1 § lagen (1991:1969)
+om förbud mot vissa dopnings-
+medel eller sådan vara som
+omfattas av lagen (1999:42) om
+förbud mot vissa hälsofarliga varor.
+Den unge får uppmanas att lämna
+prov endast om det finns anledning
+till det.
+Första stycket första meningen
+gäller också om det under vistelsen
+i hemmet kan misstänkas att den
+unge är påverkad av någon sådan
+dryck eller vara eller något sådant
+medel som anges i första stycket.
+
+Den som omfattas av bestämmel-
+serna i 15 § är, om inte annat
+motiveras av medicinska eller
+liknande skäl, skyldig att vid an-
+komsten till hemmet lämna blod-,
+urin-, utandnings-, saliv- eller
+svettprov för kontroll av om han
+eller hon är påverkad av narkotika,
+alkoholhaltiga drycker, andra
+berusningsmedel, sådant medel
+som avses i 1 § lagen (1991:1969)
+om förbud mot vissa dopnings-
+medel eller sådan vara som
+omfattas av lagen (1999:42) om
+förbud mot vissa hälsofarliga varor.
+Barnet eller den unge får uppmanas
+att lämna prov endast om det finns
+anledning till det.
+Första stycket första meningen
+gäller också om det under vistelsen
+i hemmet kan misstänkas att barnet
+eller den unge är påverkad av
+någon sådan dryck eller vara eller
+något sådant medel som anges i
 första stycket.
+
 17 b §
 Om det behövs för att genomföra Om det behövs för att genomföra
 vården eller upprätthålla ordningen vården eller upprätthålla ordningen
-vid hemmet, får bostadsrum och vid hemmet, får bostadsrum och
-andra slutna förvaringsställen som andra slutna förvaringsställen som
-disponeras av någon som omfattas disponeras av någon som omfattas
-av bestämmelserna i 15 § av bestämmelserna i 15 §
-undersökas (rumsvisitation). En undersökas (rumsvisitation). En
-rumsvisitation får endast utföras för rumsvisitation får endast utföras för
-att söka efter föremål som den unge att söka efter föremål som barnet
+
+vid hemmet, får bostadsrum och
+andra slutna förvaringsställen som
+disponeras av någon som omfattas
+av bestämmelserna i 15 §
+undersökas (rumsvisitation). En
+rumsvisitation får endast utföras för
+att söka efter föremål som den unge
+
+vid hemmet, får bostadsrum och
+andra slutna förvaringsställen som
+disponeras av någon som omfattas
+av bestämmelserna i 15 §
+undersökas (rumsvisitation). En
+rumsvisitation får endast utföras för
+att söka efter föremål som barnet
+
 inte får inneha enligt 16 §. eller den unge inte får inneha enligt
 16 §.
 En rumsvisitation ska genomföras i närvaro av ett vittne. All den hänsyn
 som omständigheterna medger ska iakttas.
+
 704
 
 <!-- sida 882 -->
 
 17 c §                 Bilaga 5
 Om det behövs för att genomföra Om det behövs för att genomföra
-vården eller upprätthålla ordningen vården eller upprätthålla ordningen
-vid hemmet, får säkerhetskontroll vid hemmet, får säkerhetskontroll
-genomföras med metalldetektor genomföras med metalldetektor
-eller annan liknande anordning på eller annan liknande anordning på
-de särskilda ungdomshem som de särskilda ungdomshem som
-Statens institutionsstyrelse bestäm- Statens institutionsstyrelse bestäm-
-mer. Det ska för varje särskilt mer. Det ska för varje särskilt
-ungdomshem anges i vilka ungdomshem anges i vilka
-situationer kontroller får ge- situationer kontroller får ge-
-nomföras. Sådan kontroll får bara nomföras. Sådan kontroll får bara
-genomföras på unga som omfattas genomföras på barn eller unga som
-av bestämmelserna i 15 § för att om- fattas av bestämmelserna i 15
-söka efter föremål som den unge § för att söka efter föremål som
-inte får inneha enligt 16 §. barnet eller den unge inte får
+
+vården eller upprätthålla ordningen
+vid hemmet, får säkerhetskontroll
+genomföras med metalldetektor
+eller annan liknande anordning på
+de särskilda ungdomshem som
+Statens institutionsstyrelse bestäm-
+mer. Det ska för varje särskilt
+ungdomshem anges i vilka
+situationer kontroller får ge-
+nomföras. Sådan kontroll får bara
+genomföras på unga som omfattas
+av bestämmelserna i 15 § för att
+söka efter föremål som den unge
+inte får inneha enligt 16 §.
+
+vården eller upprätthålla ordningen
+vid hemmet, får säkerhetskontroll
+genomföras med metalldetektor
+eller annan liknande anordning på
+de särskilda ungdomshem som
+Statens institutionsstyrelse bestäm-
+mer. Det ska för varje särskilt
+ungdomshem anges i vilka
+situationer kontroller får ge-
+nomföras. Sådan kontroll får bara
+genomföras på barn eller unga som
+om- fattas av bestämmelserna i 15
+§ för att söka efter föremål som
+barnet eller den unge inte får
 inneha enligt 16 §.
+
 19 §
 Den  som  omfattas av Den som  omfattas av
 bestämmelserna i 15 § får bestämmelserna i 15 § får
 underkastas övervakning av sina underkastas övervakning av sina
-brev och andra försändelser, om brev och andra försändelser, om
-detta behövs med hänsyn till detta behövs med hänsyn till
-ordningen vid hemmet eller till den ordningen vid hemmet eller till
-unges särskilda förhållanden. För barnets eller den unges särskilda
-detta ändamål får Statens förhållanden. För detta ändamål får
-institutionsstyrelse öppna och ta del Statens institutionsstyrelse öppna
-av försändelser som kommer till och ta del av försändelser som
-eller sänds från den unge. Om en kommer till eller sänds från barnet
-ankommande försändelse inne- eller den unge. Om en
-håller egendom som den unge inte ankommande försändelse inne-
-får inneha enligt 16 §, skall håller egendom som barnet eller
-egendomen omhändertas. den unge inte får inneha enligt 16 §,
+
+brev och andra försändelser, om
+detta behövs med hänsyn till
+ordningen vid hemmet eller till den
+unges särskilda förhållanden. För
+detta ändamål får Statens
+institutionsstyrelse öppna och ta del
+av försändelser som kommer till
+eller sänds från den unge. Om en
+ankommande försändelse inne-
+håller egendom som den unge inte
+får inneha enligt 16 §, skall
+egendomen omhändertas.
+
+brev och andra försändelser, om
+detta behövs med hänsyn till
+ordningen vid hemmet eller till
+barnets eller den unges särskilda
+förhållanden. För detta ändamål får
+Statens institutionsstyrelse öppna
+och ta del av försändelser som
+kommer till eller sänds från barnet
+eller den unge. Om en
+ankommande försändelse inne-
+håller egendom som barnet eller
+den unge inte får inneha enligt 16 §,
 ska egendomen omhändertas.
+
 Brev mellan den unge och en Brev mellan barnet eller den
 svensk myndighet eller advokat unge och en svensk myndighet eller
 eller hans eller hennes offentliga advokat eller hans eller hennes
 biträde skall vidarebefordras utan offentliga biträde ska vidare-
 föregående granskning. befordras utan föregående
 granskning.
+
 20 c §
 Den unge ska erbjudas ett uppföl- Barnet eller den unge ska
 jande samtal efter ett verkställt erbjudas ett uppföljande samtal
@@ -42191,14 +43037,23 @@ behövde tillgripas och ges tvångsåtgärden behövde tillgripas
 möjlighet att framföra sin och ges möjlighet att framföra sin
 uppfattning om den vidtagna uppfattning om den vidtagna
 åtgärden.            åtgärden.
+
 21 §
 När vård med stöd av denna lag När det inte längre finns
-inte längre behövs, skall förutsättningar för vård enligt 2
-socialnämnden besluta att vården eller 3 § och de omständigheter
-skall upphöra. Nämnden skall noga som ledde till ett beslut om vård har
-förbereda den unges återförening förändrats på ett varaktigt och
-med den eller dem som har genomgripande sätt ska social-
-vårdnaden om honom eller henne. nämnden besluta att vården ska
+
+inte längre behövs, skall
+socialnämnden besluta att vården
+skall upphöra. Nämnden skall noga
+förbereda den unges återförening
+med den eller dem som har
+vårdnaden om honom eller henne.
+
+förutsättningar för vård enligt 2
+eller 3 § och de omständigheter
+som ledde till ett beslut om vård har
+förändrats på ett varaktigt och
+genomgripande sätt ska social-
+nämnden besluta att vården ska
 upphöra. Nämnden ska noga
 förbereda barnets återförening med
 den eller de som har vårdnaden om
@@ -42220,6 +43075,7 @@ och fortsatt placering samt vad
 barnet uttryckt i övrigt,
 – barnets relation till vårdnads-
 havare, syskon, familjehemmet
+
 eller annan omsorgsgivare,
 – barnets förankring i förskola
 eller skola och i den sociala miljön,
@@ -42247,6 +43103,7 @@ unge fyller 21 år. Vård som har
 beslutats med stöd av 3 § och som
 fortsätter med stöd av andra stycket
 ska upphöra när barnet fyller 18 år.
+
 21 a
 Ett barn som har fyllt 15 år och
 den eller de som har vårdnaden om
@@ -42274,18 +43131,31 @@ från dagen för beslutet.
 Om beslutet inte har underställts
 förvaltningsrätten inom föreskriven
 tid, upphör beslutet om vård.
+
+Om det kan antas att den som är
+under 20 år till följd av ett beteende
+som avses i 3 § kommer att behöva
+beredas vård enligt denna lag om
+beteendet fortsätter och det stöd
+eller den behandling som den unge
+behöver inte kan ges med samtycke
+av den unge själv, om han eller hon
+har fyllt 15 år, och av den unges
+vårdnadshavare, får socialnämnden
+besluta
+
 22 §
-Om det kan antas att den som är Om det kan antas att den som är
-under 20 år till följd av ett beteende under 20 år till följd av ett beteende
-som avses i 3 § kommer att behöva som avses i 3 § kommer att behöva
-beredas vård enligt denna lag om ges vård enligt denna lag om
-beteendet fortsätter och det stöd beteendet fortsätter och det stöd
-eller den behandling som den unge eller den behandling som barnet
-behöver inte kan ges med samtycke eller den unge behöver inte kan ges
-av den unge själv, om han eller hon med samtycke av barnet eller den
-har fyllt 15 år, och av den unges unge själv, om han eller hon har
-vårdnadshavare, får socialnämnden fyllt 15 år, och av barnets
-besluta              vårdnadshavare, får socialnämnden
+Om det kan antas att den som är
+under 20 år till följd av ett beteende
+som avses i 3 § kommer att behöva
+ges vård enligt denna lag om
+beteendet fortsätter och det stöd
+eller den behandling som barnet
+eller den unge behöver inte kan ges
+med samtycke av barnet eller den
+unge själv, om han eller hon har
+fyllt 15 år, och av barnets
+vårdnadshavare, får socialnämnden
 besluta                      707
 
 <!-- sida 885 -->
@@ -42352,41 +43222,76 @@ ordnat besluta om ett sådant förbud. Beslutet ska anmälas vid nämndens
 nästa sammanträde.
 När socialnämnden har ansökt om utreseförbud, får även rätten besluta
 om ett tillfälligt utreseförbud.
+
 31 i §
 Socialnämnden får för en viss Socialnämnden får för en viss
 resa besluta om ett tillfälligt resa besluta om ett tillfälligt
 undantag från ett utreseförbud. undantag från ett utreseförbud.
-Sådant beslut får endast fattas om Sådant beslut får endast fattas om
-det inte finns någon risk för att den det inte finns någon risk för att
-unge förs utomlands eller lämnar barnet förs utomlands eller lämnar
-Sverige eller under resan förs eller Sverige eller under resan förs eller
-beger sig till annat land i syfte att beger sig till annat land i syfte att
-ingå äktenskap eller en äkten- ingå äktenskap eller en äkten-
-skapsliknande förbindelse eller skapsliknande förbindelse eller
-könsstympas          könsstympas
+
+Sådant beslut får endast fattas om
+det inte finns någon risk för att den
+unge förs utomlands eller lämnar
+Sverige eller under resan förs eller
+beger sig till annat land i syfte att
+ingå äktenskap eller en äkten-
+skapsliknande förbindelse eller
+könsstympas
+
+Sådant beslut får endast fattas om
+det inte finns någon risk för att
+barnet förs utomlands eller lämnar
+Sverige eller under resan förs eller
+beger sig till annat land i syfte att
+ingå äktenskap eller en äkten-
+skapsliknande förbindelse eller
+könsstympas
+
 31 h §
 Beslut om utreseförbud eller till- Beslut om utreseförbud eller till-
-fälligt utreseförbud hindrar inte fälligt utreseförbud hindrar inte
-beslut enligt 21 a § första stycket. beslut enligt 21 c § första stycket.
-Ett utreseförbud eller ett tillfälligt Ett utreseförbud eller ett tillfälligt
-utreseförbud upphör när ett beslut utreseförbud upphör när ett beslut
-enligt 21 a § första stycket har enligt 21 c § första stycket har
-verkställts.         verkställts.
-32 §
-I ett ärende enligt denna lag får I ett ärende enligt denna lag får
-socialnämnden besluta om läkar- socialnämnden besluta om läkar-
-undersökning av den unge samt undersökning av barnet eller den
-utse läkare för undersökningen. Om unge samt utse läkare för under-
-undersökningen inte lämpligen kan sökningen. Om undersökningen
-genomföras i den unges hem, får inte lämpligen kan genomföras i
-nämnden bestämma någon annan barnets eller den unges hem, får
-plats för den. I ett mål enligt denna nämnden bestämma någon annan
-lag har rätten samma befogenhet. plats för den. I ett mål enligt denna
+
+fälligt utreseförbud hindrar inte
+beslut enligt 21 a § första stycket.
+Ett utreseförbud eller ett tillfälligt
+utreseförbud upphör när ett beslut
+enligt 21 a § första stycket har
+verkställts.
+
+fälligt utreseförbud hindrar inte
+beslut enligt 21 c § första stycket.
+Ett utreseförbud eller ett tillfälligt
+utreseförbud upphör när ett beslut
+enligt 21 c § första stycket har
+verkställts.
+
+I ett ärende enligt denna lag får
+socialnämnden besluta om läkar-
+undersökning av den unge samt
+utse läkare för undersökningen. Om
+undersökningen inte lämpligen kan
+genomföras i den unges hem, får
+nämnden bestämma någon annan
+plats för den. I ett mål enligt denna
 lag har rätten samma befogenhet.
-Läkarundersökning skall, om den Läkarundersökning ska, om den
-inte av särskilda skäl är obehövlig, inte av särskilda skäl är obehövlig,
-ske innan nämnden gör ansökan ske innan nämnden gör ansökan
-enligt 4 §.          enligt 4 §.
+Läkarundersökning skall, om den
+inte av särskilda skäl är obehövlig,
+ske innan nämnden gör ansökan
+enligt 4 §.
+
+32 §
+I ett ärende enligt denna lag får
+socialnämnden besluta om läkar-
+undersökning av barnet eller den
+unge samt utse läkare för under-
+sökningen. Om undersökningen
+inte lämpligen kan genomföras i
+barnets eller den unges hem, får
+nämnden bestämma någon annan
+plats för den. I ett mål enligt denna
+lag har rätten samma befogenhet.
+Läkarundersökning ska, om den
+inte av särskilda skäl är obehövlig,
+ske innan nämnden gör ansökan
+enligt 4 §.
 34 §                          709
 
 <!-- sida 887 -->
@@ -42405,13 +43310,23 @@ rätten får förlänga denna tid, om utredning eller någon annan
 ytterligare utredning eller någon särskild omständighet gör det
 annan särskild omständighet gör nödvändigt.
 det nödvändigt.
+
 35 §
-I mål om beredande eller upphör- I mål om vård eller upphörande
-ande av vård, flyttningsförbud, av vård, fortsatt omhändertagande
-fortsatt omhändertagande för för tillfällig vård eller utreseförbud
-tillfällig vård eller utreseförbud enligt denna lag ska förvaltnings-
-enligt denna lag ska förvaltnings- rätten och kammarrätten hålla
-rätten och kammarrätten hålla muntlig förhandling, om detta inte
+
+I mål om beredande eller upphör-
+ande av vård, flyttningsförbud,
+fortsatt omhändertagande för
+tillfällig vård eller utreseförbud
+enligt denna lag ska förvaltnings-
+rätten och kammarrätten hålla
+
+I mål om vård eller upphörande
+av vård, fortsatt omhändertagande
+för tillfällig vård eller utreseförbud
+enligt denna lag ska förvaltnings-
+rätten och kammarrätten hålla
+muntlig förhandling, om detta inte
+
 muntlig förhandling, om detta inte är uppenbart obehövligt. Muntlig
 är uppenbart obehövligt. Muntlig förhandling ska alltid hållas, om
 förhandling ska alltid hållas, om någon part begär det. Parterna ska
@@ -42421,74 +43336,137 @@ muntlig förhandling.
 Om en enskild part som har kallats vid vite att inställa sig personligen
 till en förhandling uteblir, får rätten förordna att han eller hon ska hämtas
 till rätten antingen omedelbart eller till en senare dag.
-36 §
-Den unge ska få relevant Barnet eller den unge ska få rele-
-information. Den unge ska ges vant information. Barnet eller den
-möjlighet att framföra sina åsikter i unge ska ges möjlighet att framföra
-frågor som rör honom eller henne. sina åsikter i frågor som rör honom
-Om den unge inte framför sina eller henne. Om barnet eller den
-åsikter, ska hans eller hennes unge inte framför sina åsikter, ska
-inställning så långt det är möjligt hans eller hennes inställning så
-klarläggas på annat sätt. Den unges långt det är möjligt klarläggas på
-åsikter och inställning ska tillmätas annat sätt. Barnets eller den unges
-betydelse i förhållande till hans åsikter och inställning ska tillmätas
-eller hennes ålder och mognad. betydelse i förhållande till hans
+
+Den unge ska få relevant
+information. Den unge ska ges
+möjlighet att framföra sina åsikter i
+frågor som rör honom eller henne.
+Om den unge inte framför sina
+åsikter, ska hans eller hennes
+inställning så långt det är möjligt
+klarläggas på annat sätt. Den unges
+åsikter och inställning ska tillmätas
+betydelse i förhållande till hans
 eller hennes ålder och mognad.
-Om den unge har fyllt 15 år, har Om barnet har fyllt 15 år, har han
-han eller hon rätt att själv föra sin eller hon rätt att själv föra sin talan
-talan i mål och ärenden enligt i mål och ärenden enligt denna lag.
-denna lag. Den som är yngre får Den som är yngre får höras i
-höras i domstol, om han eller hon domstol, om han eller hon inte kan
-710          inte kan antas ta skada av det. antas ta skada av det.
+Om den unge har fyllt 15 år, har
+han eller hon rätt att själv föra sin
+talan i mål och ärenden enligt
+denna lag. Den som är yngre får
+höras i domstol, om han eller hon
+710          inte kan antas ta skada av det.
+
+36 §
+Barnet eller den unge ska få rele-
+vant information. Barnet eller den
+unge ska ges möjlighet att framföra
+sina åsikter i frågor som rör honom
+eller henne. Om barnet eller den
+unge inte framför sina åsikter, ska
+hans eller hennes inställning så
+långt det är möjligt klarläggas på
+annat sätt. Barnets eller den unges
+åsikter och inställning ska tillmätas
+betydelse i förhållande till hans
+eller hennes ålder och mognad.
+Om barnet har fyllt 15 år, har han
+eller hon rätt att själv föra sin talan
+i mål och ärenden enligt denna lag.
+Den som är yngre får höras i
+domstol, om han eller hon inte kan
+antas ta skada av det.
 
 <!-- sida 888 -->
 
-Den som är förordnad som Den som är förordnad som Bilaga 5
-offentligt biträde enligt 39 § för offentligt biträde enligt 39 § för
-någon som är under 15 år, utan att någon som är under 15 år, utan att
-samtidigt vara biträde för samtidigt vara biträde för
-vårdnadshavaren, är utan särskilt vårdnadshavaren, är utan särskilt
-förordnande den unges förordnande barnets eller den
-ställföreträdare i det mål eller unges ställföreträdare i det mål eller
-ärende som förordnandet avser. ärende som förordnandet avser.
-37 §
-Vid handläggning i kammarrätt Vid handläggning i kammarrätt
-av andra mål enligt denna lag än av andra mål enligt denna lag än
-mål om omedelbart omhänder- mål om omedelbart omhänder-
-tagande, tillfälligt flyttningsförbud tagande och tillfälligt utreseförbud
-och tillfälligt utreseförbud ska ska nämndemän ingå i rätten.
+Den som är förordnad som
+offentligt biträde enligt 39 § för
+någon som är under 15 år, utan att
+samtidigt vara biträde för
+vårdnadshavaren, är utan särskilt
+förordnande den unges
+ställföreträdare i det mål eller
+ärende som förordnandet avser.
+
+Vid handläggning i kammarrätt
+av andra mål enligt denna lag än
+mål om omedelbart omhänder-
+tagande, tillfälligt flyttningsförbud
+och tillfälligt utreseförbud ska
 nämndemän ingå i rätten.
-39 §
-I mål och ärenden om beredande I mål och ärenden om vård enligt
-av vård enligt 2 eller 3 §, 2 eller 3 §, omedelbart omhänderta-
-omedelbart omhändertagande gande enligt 6 eller 6 a §, fortsatt
-enligt 6 eller 6 a §, fortsatt om- omhändertagande enligt 9 a §,
-händertagande enligt 9 a §, upphör- upphörande av fortsatt omhänder-
-ande av fortsatt omhändertagande tagande enligt 9 b §, upphörande av
-enligt 9 b §, upphörande av vård vård eller fortsatt vård enligt 21 §,
-enligt 21 §, flyttningsförbud enligt utreseförbud enligt 31 a §, upp-
-24 §, upphörande av flyttnings- hörande av utreseförbud enligt 31 c
-förbud enligt 26 §, utreseförbud § eller tillfälligt utreseförbud enligt
-enligt 31 a §, upphörande av 31 d § eller vid överklagande enligt
-utreseförbud enligt 31 c § eller 41 § första stycket 1 ska offentligt
-tillfälligt utreseförbud enligt 31 d § biträde förordnas för den som
-eller vid överklagande enligt 41 § åtgärden avser samt för dennes
-första stycket 1 ska offentligt vårdnadshavare, om det inte måste
-biträde förordnas för den som antas att behov av biträde saknas.
+
+I mål och ärenden om beredande
+av vård enligt 2 eller 3 §,
+omedelbart omhändertagande
+enligt 6 eller 6 a §, fortsatt om-
+händertagande enligt 9 a §, upphör-
+ande av fortsatt omhändertagande
+enligt 9 b §, upphörande av vård
+enligt 21 §, flyttningsförbud enligt
+24 §, upphörande av flyttnings-
+förbud enligt 26 §, utreseförbud
+enligt 31 a §, upphörande av
+utreseförbud enligt 31 c § eller
+tillfälligt utreseförbud enligt 31 d §
+eller vid överklagande enligt 41 §
+första stycket 1 ska offentligt
+biträde förordnas för den som
 åtgärden avser samt för dennes
 vårdnadshavare, om det inte måste
 antas att behov av biträde saknas.
-Till offentligt biträde för den Till offentligt biträde för barnet
-unge får endast den förordnas som eller den unge får endast den
-på grund av sina kunskaper och förordnas som på grund av sina
-erfarenheter och även i övrigt är kunskaper och erfarenheter och
-särskilt lämplig för uppdraget. även i övrigt är särskilt lämplig för
+Till offentligt biträde för den
+unge får endast den förordnas som
+på grund av sina kunskaper och
+erfarenheter och även i övrigt är
+särskilt lämplig för uppdraget.
+Behövs offentligt biträde både
+för den unge och för dennes
+vårdnadshavare, förordnas gemen-
+samt biträde, om det inte finns
+motstridiga intressen mellan dem.
+
+Den som är förordnad som Bilaga 5
+offentligt biträde enligt 39 § för
+någon som är under 15 år, utan att
+samtidigt vara biträde för
+vårdnadshavaren, är utan särskilt
+förordnande barnets eller den
+unges ställföreträdare i det mål eller
+ärende som förordnandet avser.
+37 §
+Vid handläggning i kammarrätt
+av andra mål enligt denna lag än
+mål om omedelbart omhänder-
+tagande och tillfälligt utreseförbud
+ska nämndemän ingå i rätten.
+
+39 §
+I mål och ärenden om vård enligt
+2 eller 3 §, omedelbart omhänderta-
+gande enligt 6 eller 6 a §, fortsatt
+omhändertagande enligt 9 a §,
+upphörande av fortsatt omhänder-
+tagande enligt 9 b §, upphörande av
+vård eller fortsatt vård enligt 21 §,
+utreseförbud enligt 31 a §, upp-
+hörande av utreseförbud enligt 31 c
+§ eller tillfälligt utreseförbud enligt
+31 d § eller vid överklagande enligt
+41 § första stycket 1 ska offentligt
+biträde förordnas för den som
+åtgärden avser samt för dennes
+vårdnadshavare, om det inte måste
+antas att behov av biträde saknas.
+
+Till offentligt biträde för barnet
+eller den unge får endast den
+förordnas som på grund av sina
+kunskaper och erfarenheter och
+även i övrigt är särskilt lämplig för
 uppdraget.
-Behövs offentligt biträde både Behövs offentligt biträde både
-för den unge och för dennes för barnet eller den unge och för
-vårdnadshavare, förordnas gemen- barnets vårdnadshavare, förordnas
-samt biträde, om det inte finns gemensamt biträde, om det inte
-motstridiga intressen mellan dem. finns motstridiga intressen mellan
+Behövs offentligt biträde både
+för barnet eller den unge och för
+barnets vårdnadshavare, förordnas
+gemensamt biträde, om det inte
+finns motstridiga intressen mellan
 dem.
 711
 
@@ -43101,43 +44079,76 @@ vården av den unge skall ordnas vården av den unge ska ordnas och
 
 <!-- sida 902 -->
 
-och var han eller hon skall vistas var han eller hon skall vistas under Bilaga 7
-under vårdtiden. I fråga om den vårdtiden. I fråga om den som
-som vårdas i ett hem som avses i vårdas i ett hem som avses i 12 §
-12 § första stycket får dock Statens första stycket får dock Statens
-institutionsstyrelse i samband med att institutionsstyrelse i samband med att
-den unge transporteras besluta att den unge transporteras besluta att
-han eller hon tillfälligt skall vistas i han eller hon tillfälligt skall vistas i
-ett annat sådant hem. ett annat sådant hem.
-Nämnden får medge att den unge Nämnden får bestämma att den
-vistas i sitt eget hem, om detta kan unge vistas i sitt eget hem, om det kan
-antas vara bäst ägnat att främja antas att den unges behov av vård
-vården av honom eller henne. Vård bäst kan tillgodoses där.
+och var han eller hon skall vistas
+under vårdtiden. I fråga om den
+som vårdas i ett hem som avses i
+12 § första stycket får dock Statens
+institutionsstyrelse i samband med att
+den unge transporteras besluta att
+han eller hon tillfälligt skall vistas i
+ett annat sådant hem.
+Nämnden får medge att den unge
+vistas i sitt eget hem, om detta kan
+antas vara bäst ägnat att främja
+vården av honom eller henne. Vård
 med stöd av denna lag skall dock
 alltid inledas utanför den unges
 eget hem.
-Om nämndens beslut enligt första Om nämndens beslut enligt första
-eller andra stycket inte kan avvak- eller andra stycket inte kan avvak-
-tas, får ordföranden eller någon tas, får ordföranden eller någon
-annan ledamot som nämnden har annan ledamot som nämnden har
-förordnat besluta i frågan. Beslutet förordnat besluta i frågan. Beslutet
-skall anmälas vid nämndens nästa ska anmälas vid nämndens nästa
-sammanträde.         sammanträde.
-Nämnden eller den åt vilken Nämnden eller den åt vilken
-nämnden har uppdragit vården skall nämnden har uppdragit vården ska
-ha uppsikt över den unge och, i den ha uppsikt över den unge och
-utsträckning det behövs för att bestämma om den unges personliga
-genomföra vården, bestämma om förhållanden i den utsträckning det
-hans eller hennes personliga behövs för att genomföra vården.
-förhållanden.        Det innefattar att verka för att den
+Om nämndens beslut enligt första
+eller andra stycket inte kan avvak-
+tas, får ordföranden eller någon
+annan ledamot som nämnden har
+förordnat besluta i frågan. Beslutet
+skall anmälas vid nämndens nästa
+sammanträde.
+Nämnden eller den åt vilken
+nämnden har uppdragit vården skall
+ha uppsikt över den unge och, i den
+utsträckning det behövs för att
+genomföra vården, bestämma om
+hans eller hennes personliga
+förhållanden.
+Nämnden har under vårdtiden
+samma ansvar som vårdnadshava-
+ren för att den unges grundläggande
+rättigheter enligt 6 kap. 1 §
+föräldrabalken tillgodoses.
+
+var han eller hon skall vistas under Bilaga 7
+vårdtiden. I fråga om den som
+vårdas i ett hem som avses i 12 §
+första stycket får dock Statens
+institutionsstyrelse i samband med att
+den unge transporteras besluta att
+han eller hon tillfälligt skall vistas i
+ett annat sådant hem.
+Nämnden får bestämma att den
+unge vistas i sitt eget hem, om det kan
+antas att den unges behov av vård
+bäst kan tillgodoses där.
+
+Om nämndens beslut enligt första
+eller andra stycket inte kan avvak-
+tas, får ordföranden eller någon
+annan ledamot som nämnden har
+förordnat besluta i frågan. Beslutet
+ska anmälas vid nämndens nästa
+sammanträde.
+Nämnden eller den åt vilken
+nämnden har uppdragit vården ska
+ha uppsikt över den unge och
+bestämma om den unges personliga
+förhållanden i den utsträckning det
+behövs för att genomföra vården.
+Det innefattar att verka för att den
 unge får den utbildning, tandvård
 och hälso- och sjukvård som den
 unge behöver.
-Nämnden har under vårdtiden Nämnden har under vårdtiden
-samma ansvar som vårdnadshava- samma ansvar som vårdnadshava-
-ren för att den unges grundläggande ren annars har för att den unges
-rättigheter enligt 6 kap. 1 § grundläggande rättigheter enligt
-föräldrabalken tillgodoses. 6 kap. 1 § föräldrabalken tillgodoses.
+Nämnden har under vårdtiden
+samma ansvar som vårdnadshava-
+ren annars har för att den unges
+grundläggande rättigheter enligt
+6 kap. 1 § föräldrabalken tillgodoses.
 11 a §
 För unga som vårdas med stöd av
 3 § får socialnämnden besluta om
@@ -43156,23 +44167,39 @@ eller hårprov.
 
 Bilaga 7                       13 §4
 Har den unge beretts vård med stöd Har den unge beretts vård med stöd
-av 2 §, ska socialnämnden minst en av 2 §, ska socialnämnden minst en
-gång var sjätte månad överväga om gång var sjätte månad överväga
-vård enligt lagen fortfarande behövs 1. om behovet av vård har för-
-och hur vården bör inriktas och ändrats, och
-utformas.             2. om barnets eller den unges
+
+av 2 §, ska socialnämnden minst en
+gång var sjätte månad överväga om
+vård enligt lagen fortfarande behövs
+och hur vården bör inriktas och
+utformas.
+
+Har den unge beretts vård med
+stöd av 3 §, ska socialnämnden
+inom sex månader från dagen för
+verkställighet av vårdbeslutet pröva
+om vård med stöd av lagen ska
+upphöra. Denna fråga ska därefter
+prövas fortlöpande inom sex
+månader från senaste prövning.
+
+av 2 §, ska socialnämnden minst en
+gång var sjätte månad överväga
+1\. om behovet av vård har för-
+ändrats, och
+2\. om barnets eller den unges
 behov av vård och stöd tillgodoses.
 Vid övervägandet ska nämnden
 beakta den unges inställning till
 vården.
-Har den unge beretts vård med Har den unge beretts vård med
-stöd av 3 §, ska socialnämnden stöd av 3 §, ska socialnämnden inom
-inom sex månader från dagen för sex månader från dagen för
-verkställighet av vårdbeslutet pröva verkställighet av vårdbeslutet pröva
-om vård med stöd av lagen ska om vård med stöd av lagen ska
-upphöra. Denna fråga ska därefter upphöra, och om den unges behov
-prövas fortlöpande inom sex av vård tillgodoses. Denna fråga
-månader från senaste prövning. ska därefter prövas fortlöpande
+Har den unge beretts vård med
+stöd av 3 §, ska socialnämnden inom
+sex månader från dagen för
+verkställighet av vårdbeslutet pröva
+om vård med stöd av lagen ska
+upphöra, och om den unges behov
+av vård tillgodoses. Denna fråga
+ska därefter prövas fortlöpande
 inom sex månader från senaste
 prövning. Vid prövningen ska nämn-
 den beakta den unges inställning
@@ -43188,6 +44215,7 @@ avser hälsa för barn och unga i
 samhällsvård har erbjudits samt om
 en bedömning enligt 3 kap. 12 k §
 skollagen (2010:800) har utförts.
+
 13 a §5
 Socialnämnden ska noga följa Socialnämnden ska noga följa
 vården av den som får vård med vården av unga som vårdas med
@@ -43200,6 +44228,7 @@ hälsa, utbildning, utveckling, bete-
 ende, sociala relationer samt even-
 tuell utsatthet för våld.
 Vården ska följas främst genom
+
 4 Senaste lydelse 2022:664.
 726          5 Senaste lydelse 2012:777.
 
@@ -43219,6 +44248,7 @@ uppmärksamma den unges hälsa, skolan, tandvården och hälso- och
 utveckling, sociala beteende, sjukvården hämtas in.
 skolgång samt relationer till
 anhöriga och andra närstående.
+
 17 §6
 Den som omfattas av bestämmelserna i 15 § får, om det behövs, kropps-
 visiteras eller ytligt kroppsbesiktigas vid ankomst till hemmet för kontroll
@@ -43239,17 +44269,29 @@ unges önskemål ska så långt det är
 möjligt tillgodoses.
 All den hänsyn som omständigheterna medger ska iakttas vid
 kroppsvisitation och ytlig kroppsbesiktning.
+
 32 §7
 I ett ärende enligt denna lag får I ett ärende enligt denna lag ska
 socialnämnden besluta om läkar- socialnämnden besluta om läkar-
-undersökning av den unge samt undersökning av den unge om det
-utse läkare för undersökningen. Om finns anledning att anta att sådan
-undersökningen inte lämpligen kan undersökning är behövlig för be-
-genomföras i den unges hem, får dömning av om det finns hinder för
-nämnden bestämma någon annan vård eller för att på annat sätt sär-
-plats för den. I ett mål enligt denna skilt beakta hälsotillståndet inför
-lag har rätten samma befogenhet. beslutet om vård. Nämnden får utse
+
+undersökning av den unge samt
+utse läkare för undersökningen. Om
+undersökningen inte lämpligen kan
+genomföras i den unges hem, får
+nämnden bestämma någon annan
+plats för den. I ett mål enligt denna
+lag har rätten samma befogenhet.
+
+undersökning av den unge om det
+finns anledning att anta att sådan
+undersökning är behövlig för be-
+dömning av om det finns hinder för
+vård eller för att på annat sätt sär-
+skilt beakta hälsotillståndet inför
+beslutet om vård. Nämnden får utse
+
 läkare för undersökningen. Om
+
 6 Senaste lydelse 2018:652.
 7 Senaste lydelse 1990:52.                        727
 
@@ -43264,37 +44306,61 @@ Läkarundersökning skall, om den
 inte av särskilda skäl är obehövlig,
 ske innan nämnden gör ansökan
 enligt 4 §.
+
 41 §8
+
 Socialnämndens beslut får överklagas till allmän förvaltningsdomstol, när
 nämnden har
 1\. beslutat om var vården av den unge ska inledas eller beslutat i fråga
 om att flytta den unge från det hem där han eller hon vistas,
 2\. beslutat i fråga om fortsatt 2. beslutat i fråga om särskilda
-vård med stöd av lagen, villkor enligt 11 a §,
+
+vård med stöd av lagen,
+
+3\. med stöd av 14 § beslutat i
+fråga om umgänge eller beslutat att
+den unges vistelseort inte ska röjas,
+4\. fattat beslut enligt 22 § eller
+prövat om ett sådant beslut ska
+upphöra att gälla,
+5\. med stöd av 31 § beslutat i
+fråga om umgänge,
+6\. beslutat i fråga om fortsatt
+flyttningsförbud,
+7\. beslutat i fråga om upphörande
+av ett fortsatt omhändertagande för
+tillfällig vård,
+8\. beslutat i fråga om fortsatt
+utreseförbud, eller
+9\. beslutat i fråga om tillfälligt
+
+villkor enligt 11 a §,
 3\. beslutat i fråga om fortsatt
 vård med stöd av lagen,
-3\. med stöd av 14 § beslutat i 4. med stöd av 14 § beslutat i
-fråga om umgänge eller beslutat att fråga om umgänge eller beslutat att
-den unges vistelseort inte ska röjas, den unges vistelseort inte ska röjas,
-4\. fattat beslut enligt 22 § eller 5. fattat beslut enligt 22 § eller
-prövat om ett sådant beslut ska prövat om ett sådant beslut ska
-upphöra att gälla,   upphöra att gälla,
-5\. med stöd av 31 § beslutat i 6. med stöd av 31 § beslutat i
-fråga om umgänge,    fråga om umgänge,
-6\. beslutat i fråga om fortsatt 7. beslutat i fråga om fortsatt
-flyttningsförbud,    flyttningsförbud,
-7\. beslutat i fråga om upphörande 8. beslutat i fråga om upphörande
-av ett fortsatt omhändertagande för av ett fortsatt omhändertagande för
-tillfällig vård,     tillfällig vård,
-8\. beslutat i fråga om fortsatt 9. beslutat i fråga om fortsatt
-utreseförbud, eller  utreseförbud, eller
-9\. beslutat i fråga om tillfälligt 10. beslutat i fråga om tillfälligt
+4\. med stöd av 14 § beslutat i
+fråga om umgänge eller beslutat att
+den unges vistelseort inte ska röjas,
+5\. fattat beslut enligt 22 § eller
+prövat om ett sådant beslut ska
+upphöra att gälla,
+6\. med stöd av 31 § beslutat i
+fråga om umgänge,
+7\. beslutat i fråga om fortsatt
+flyttningsförbud,
+8\. beslutat i fråga om upphörande
+av ett fortsatt omhändertagande för
+tillfällig vård,
+9\. beslutat i fråga om fortsatt
+utreseförbud, eller
+10\. beslutat i fråga om tillfälligt
+
 undantag från ett utreseförbud. undantag från ett utreseförbud.
 10\. beslutat i fråga om tillfälligt 11. beslutat i fråga om tillfälligt
 undantag från ett utreseförbud. undantag från ett utreseförbud.
 Andra beslut av nämnden enligt denna lag får inte överklagas.
 Rättens beslut enligt 8 och 31 f §§ i fråga om förlängd ansökningstid och
 enligt 32 § om läkarundersökning får inte överklagas.
+
 1\. Denna lag träder i kraft den 1 november 2025.
 2\. Äldre föreskrifter gäller fortfarande för ärenden och mål om tillsyn
 som har inletts före ikraftträdandet.

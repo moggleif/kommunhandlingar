@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4d978f5f1a01d631f6a3820/17872129439
 sha256: 534c7dd0e4183c202f77e127084e587a882cd40cf17b8912d4c06dfd37ba1ef6
 bytes: 23494024
 sidor: 1097
-hamtad: 2026-10-24T06:12:29+00:00
-konverterad: 2026-10-24T06:15:12+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T20:20:59+00:00
+konverterad: 2026-11-06T20:24:57+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3820,7 +3820,6 @@ ning av våld mot kvinnor och våld i nära relationer, i den ursprungliga lydel
 SOU 2026:34                              Författningsförslag
 
 1.4   Förslag till lag om ändring i lagen (1982:316)
-
 om förbud mot könsstympning av kvinnor och
 oskuldsingrepp på kvinnor
 
@@ -3840,21 +3839,29 @@ inte, för kvinnlig könsstympning
 till fängelse i lägst två och högst
 sex år. Detsamma gäller den som
 genom olaga tvång eller på annat sätt
+
 förmår någon annan att genomgå
 könsstympning eller tillåter att en
 person som inte har fyllt arton år
 könsstympas.
 Är brottet med hänsyn till Om brottet med hänsyn till
 omständigheterna mindre grovt, omständigheterna är mindre
-
 döms till fängelse i högst fyra år. grovt, döms till fängelse i högst
 fyra år.
-Är brottet grovt, döms till Om brottet är grovt, döms
-fängelse i lägst fem och högst tio år. för grov kvinnlig könsstympning
-Vid bedömningen av om brottet till fängelse i lägst fem och högst
-är grovt ska det särskilt beaktas tio år. Vid bedömningen av om
-om könsstympningen är särskilt brottet är grovt ska det särskilt
-omfattande eller om gärningen har beaktas om könsstympningen är
+
+Är brottet grovt, döms till
+fängelse i lägst fem och högst tio år.
+Vid bedömningen av om brottet
+är grovt ska det särskilt beaktas
+om könsstympningen är särskilt
+omfattande eller om gärningen har
+
+Om brottet är grovt, döms
+för grov kvinnlig könsstympning
+till fängelse i lägst fem och högst
+tio år. Vid bedömningen av om
+brottet är grovt ska det särskilt
+beaktas om könsstympningen är
 
 1 Jfr Europaparlamentets och rådets direktiv (EU) 2024/1385 av den 14 maj 2024 om bekämp-
 ning av våld mot kvinnor och våld i nära relationer, i den ursprungliga lydelsen.
@@ -3863,6 +3870,7 @@ lagens rubrik 2025:1010
 1 § 2025:1010
 1 a § 2025:1010.
 3 Senaste lydelse 2017:333.
+
 59
 
 <!-- sida 93 -->
@@ -3902,14 +3910,15 @@ Denna lag träder i kraft den 14 juni 2027.
 SOU 2026:34                              Författningsförslag
 
 1.5   Förslag till lag om ändring i lagen (1988:688)
-
 om kontaktförbud
+
 Härigenom föreskrivs1 att 1 a § lagen (1988:688) om kontaktförbud
 ska ha följande lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
 
 1 a §2
+
 Förutsättningarna i 1 § för att meddela ett kontaktförbud enligt
 den paragrafen ska alltid anses uppfyllda om
 1\. den som förbudet avses gälla mot har dömts för brott mot den
@@ -3919,18 +3928,28 @@ frid,
 3\. brottsligheten har begåtts mot en närstående eller tidigare
 närstående,
 4\. brottslighetens straffvärde uppgår till fängelse i sex månader
+
 eller mer, och
+
 5\. det inte finns särskilda skäl mot att meddela ett kontaktförbud.
-Om domen avser olaga för- Om domen avser olaga för-
-följelse eller hedersförtryck enligt följelse, grov olaga förföljelse eller
-4 kap. 4 b eller 4 e § brottsbalken, hedersförtryck enligt 4 kap. 4 b
-gäller första stycket även om de eller 4 e § brottsbalken, gäller första
-krav som följer av första stycket stycket även om de krav som följer
-3 eller 4 inte är uppfyllda. av första stycket 3 eller 4 inte är
+
+Om domen avser olaga för-
+följelse eller hedersförtryck enligt
+4 kap. 4 b eller 4 e § brottsbalken,
+gäller första stycket även om de
+krav som följer av första stycket
+3 eller 4 inte är uppfyllda.
+
+Om domen avser olaga för-
+följelse, grov olaga förföljelse eller
+hedersförtryck enligt 4 kap. 4 b
+eller 4 e § brottsbalken, gäller första
+stycket även om de krav som följer
+av första stycket 3 eller 4 inte är
 uppfyllda.
+
 Ett kontaktförbud får meddelas med stöd av första och andra
 styckena inom följande tider när den som förbudet avses gälla mot
-
 har dömts till
 1\. fängelse, fram till dess att påföljden helt har verkställts, dock
 under minst ett år från frigivningen,
@@ -3960,14 +3979,15 @@ Denna lag träder i kraft den 14 juni 2027.
 SOU 2026:34                              Författningsförslag
 
 1.6   Förslag till lag om ändring i lagen (1998:112)
-
 om ansvar för elektroniska anslagstavlor
+
 Härigenom föreskrivs1 att 2 § lagen (1998:112) om ansvar för elek-
 troniska anslagstavlor ska ha följande lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
 
 2 §2
+
 Lagen gäller dock inte
 1\. tillhandahållande endast av nät eller andra förbindelser för över-
 föring av meddelanden eller av andra anordningar som krävs för att
@@ -3977,18 +3997,28 @@ myndigheter eller inom ett företag eller en koncern,
 3\. tjänster som skyddas av tryckfrihetsförordningen eller yttrande-
 frihetsgrundlagen,
 4\. meddelanden som är avsedda 4. meddelanden som är avsedda
-bara för en viss mottagare eller en bara för en viss mottagare eller en
-bestämd krets av mottagare (elek- bestämd krets av mottagare (elek-
-tronisk post), eller  tronisk post),
-5\. meddelanden som omfattas 5. meddelanden som omfattas
-av Europaparlamentets och rådets av Europaparlamentets och rådets
-förordning (EU) 2021/784 av den förordning (EU) 2021/784 av den
-29 april 2021 om åtgärder mot 29 april 2021 om åtgärder mot
-spridning av terrorisminnehåll spridning av terrorisminnehåll
-online.               online, eller
+
+bara för en viss mottagare eller en
+bestämd krets av mottagare (elek-
+tronisk post), eller
+5\. meddelanden som omfattas
+av Europaparlamentets och rådets
+förordning (EU) 2021/784 av den
+29 april 2021 om åtgärder mot
+spridning av terrorisminnehåll
+online.
+
+bara för en viss mottagare eller en
+bestämd krets av mottagare (elek-
+tronisk post),
+5\. meddelanden som omfattas
+av Europaparlamentets och rådets
+förordning (EU) 2021/784 av den
+29 april 2021 om åtgärder mot
+spridning av terrorisminnehåll
+online, eller
 6\. meddelanden som omfattas av
 lagen (2027:000) om avlägsnande
-
 av nätbrottsinnehåll.
 
 Denna lag träder i kraft den 14 juni 2027.
@@ -4004,11 +4034,10 @@ ning av våld mot kvinnor och våld i nära relationer, i den ursprungliga lydel
 Författningsförslag                        SOU 2026:34
 
 1.7   Förslag till lag om ändring i offentlighets-
-
 och sekretesslagen (2009:400)
+
 Härigenom föreskrivs1 att 35 kap. 23 c § och rubriken närmast före
 35 kap. 23 c § offentlighets- och sekretesslagen (2009:400) ska ha
-
 följande lydelse.
 
 Lydelse enligt lagrådsremissen Nya Föreslagen lydelse
@@ -4022,21 +4051,34 @@ nätbrottsinnehåll online2
 
 23 c §3
 Sekretess gäller hos Polismyndigheten för uppgift om en enskilds
+
 personliga eller ekonomiska förhållanden, om det kan antas att den
+
 enskilde eller någon närstående till denne lider skada eller men om
+
 uppgiften röjs och uppgiften förekommer i ärende enligt
-1\. Europaparlamentets och 1. Europaparlamentets och
-rådets förordning (EU) 2021/784 rådets förordning (EU) 2021/784
-av den 29 april 2021 om åtgärder av den 29 april 2021 om åtgärder
-mot spridning av terrorisminnehåll mot spridning av terrorisminnehåll
-online och enligt lagen (2023:319) online och enligt lagen (2023:319)
-med kompletterande bestämmelser med kompletterande bestämmelser
-till EU:s förordning om åtgärder till EU:s förordning om åtgärder
-mot spridning av terrorisminnehåll mot spridning av terrorisminnehåll
+
+1\. Europaparlamentets och
+rådets förordning (EU) 2021/784
+av den 29 april 2021 om åtgärder
+mot spridning av terrorisminnehåll
+online och enligt lagen (2023:319)
+med kompletterande bestämmelser
+till EU:s förordning om åtgärder
+mot spridning av terrorisminnehåll
+
+1\. Europaparlamentets och
+rådets förordning (EU) 2021/784
+av den 29 april 2021 om åtgärder
+mot spridning av terrorisminnehåll
+online och enligt lagen (2023:319)
+med kompletterande bestämmelser
+till EU:s förordning om åtgärder
+mot spridning av terrorisminnehåll
+
 online, eller         online,
 2\. lagen (2026:000) om av- 2. lagen (2026:000) om av-
 lägsnande av rekryteringsinnehåll lägsnande av rekryteringsinnehåll
-
 online.               online, eller
 3\. lagen (2027:000) om avlägs-
 nande av nätbrottsinnehåll.
@@ -4046,6 +4088,7 @@ För uppgift i en allmän handling gäller sekretessen i högst sjuttio år.
 ning av våld mot kvinnor och våld i nära relationer, i den ursprungliga lydelsen.
 2 Senaste lydelse 2026:000.
 3 Ibid.
+
 64
 
 <!-- sida 98 -->
@@ -4216,7 +4259,6 @@ ning av våld mot kvinnor och våld i nära relationer, i den ursprungliga lydel
 Författningsförslag                        SOU 2026:34
 
 1.10  Förslag till förordning om ändring
-
 i förordningen (1998:641) om
 verkställighet av sluten ungdomsvård
 
@@ -4234,17 +4276,28 @@ person, ska Statens institutionsstyrelse underrätta Polismyndigheten
 om tidpunkten för frigivning. I samband med en sådan underrättelse
 ska Statens institutionsstyrelse på begäran av Polismyndigheten eller
 Åklagarmyndigheten även lämna ut uppgifter som kan antas ha betyd-
-else i frågor om kontaktförbud enligt lagen (1988:688) om kontakt-
-förbud.
-Om den dömde avtjänar sluten Om den dömde avtjänar sluten
-ungdomsvård för olaga förföljelse ungdomsvård för olaga förföljelse,
-eller hedersförtryck enligt 4 kap. grov olaga förföljelse eller heders-
-4 b eller 4 kap. 4 e § brottsbalken förtryck enligt 4 kap. 4 b eller 4 e §
-eller överträdelse av kontaktförbud brottsbalken eller överträdelse av
-eller överträdelse av utvidgat eller kontaktförbud eller överträdelse
 
-särskilt utvidgat kontaktförbud av utvidgat eller särskilt utvidgat
-enligt 24 § lagen (1988:688) om kontaktförbud enligt 24 § lagen
+else i frågor om kontaktförbud enligt lagen (1988:688) om kontakt-
+
+förbud.
+Om den dömde avtjänar sluten
+ungdomsvård för olaga förföljelse
+eller hedersförtryck enligt 4 kap.
+4 b eller 4 kap. 4 e § brottsbalken
+eller överträdelse av kontaktförbud
+eller överträdelse av utvidgat eller
+särskilt utvidgat kontaktförbud
+enligt 24 § lagen (1988:688) om
+
+Om den dömde avtjänar sluten
+ungdomsvård för olaga förföljelse,
+grov olaga förföljelse eller heders-
+förtryck enligt 4 kap. 4 b eller 4 e §
+brottsbalken eller överträdelse av
+kontaktförbud eller överträdelse
+av utvidgat eller särskilt utvidgat
+kontaktförbud enligt 24 § lagen
+
 kontaktförbud, ska en underrätt- (1988:688) om kontaktförbud,
 else enligt första stycket lämnas ska en underrättelse enligt första
 även om den dömde inte är när- stycket lämnas även om den dömde
@@ -4263,8 +4316,8 @@ Denna förordning träder i kraft den 14 juni 2027.
 SOU 2026:34                              Författningsförslag
 
 1.11  Förslag till förordning om ändring
-
 i fängelseförordningen (2010:2010)
+
 Härigenom föreskrivs att 36 a § fängelseförordningen (2010:2010)
 ska ha följande lydelse.
 
@@ -4280,18 +4333,29 @@ på begäran av Polismyndigheten eller Åklagarmyndigheten även lämna
 ut uppgifter som kan antas ha betydelse i frågor om kontaktförbud
 enligt lagen (1988:688) om kontaktförbud.
 Om den intagne avtjänar straff Om den intagne avtjänar straff
-för olaga förföljelse eller heders- för olaga förföljelse, grov olaga för-
-förtryck enligt 4 kap. 4 b eller följelse eller hedersförtryck enligt
-4 kap. 4 e § brottsbalken eller över- 4 kap. 4 b eller 4 e § brottsbalken
-trädelse av kontaktförbud eller eller överträdelse av kontaktförbud
-överträdelse av utvidgat eller sär- eller överträdelse av utvidgat eller
-skilt utvidgat kontaktförbud enligt särskilt utvidgat kontaktförbud
-24 § lagen (1988:688) om kontakt- enligt 24 § lagen (1988:688) om
-förbud, ska en underrättelse enligt kontaktförbud, ska en underrätt-
-första stycket lämnas även om den else enligt första stycket lämnas
+
+för olaga förföljelse eller heders-
+förtryck enligt 4 kap. 4 b eller
+4 kap. 4 e § brottsbalken eller över-
+trädelse av kontaktförbud eller
+överträdelse av utvidgat eller sär-
+skilt utvidgat kontaktförbud enligt
+24 § lagen (1988:688) om kontakt-
+förbud, ska en underrättelse enligt
+första stycket lämnas även om den
+
+för olaga förföljelse, grov olaga för-
+följelse eller hedersförtryck enligt
+4 kap. 4 b eller 4 e § brottsbalken
+eller överträdelse av kontaktförbud
+eller överträdelse av utvidgat eller
+särskilt utvidgat kontaktförbud
+enligt 24 § lagen (1988:688) om
+kontaktförbud, ska en underrätt-
+else enligt första stycket lämnas
+
 intagne inte är närstående eller även om den intagne inte är när-
 tidigare närstående till målsägan- stående eller tidigare närstående
-
 den.                  till målsäganden.
 En underrättelse ska lämnas i lämplig tid före frigivningen.
 
@@ -4306,8 +4370,8 @@ Denna förordning träder i kraft den 14 juni 2027.
 Författningsförslag                        SOU 2026:34
 
 1.12  Förslag till förordning om ändring
-
 i häktesförordningen (2010:2011)
+
 Härigenom föreskrivs att 28 a § häktesförordningen (2010:2011) ska
 ha följande lydelse.
 
@@ -4323,18 +4387,29 @@ på begäran av Polismyndigheten eller Åklagarmyndigheten även lämna
 ut uppgifter som kan antas ha betydelse i frågor om kontaktförbud
 enligt lagen (1988:688) om kontaktförbud.
 Om  den intagne avtjänar Om den intagne avtjänar
-straff för olaga förföljelse eller straff för olaga förföljelse, grov
-hedersförtryck enligt 4 kap. 4 b olaga förföljelse eller hedersför-
-eller 4 kap. 4 e § brottsbalken eller tryck enligt 4 kap. 4 b eller 4 e §
-överträdelse av kontaktförbud brottsbalken eller överträdelse av
-eller överträdelse av utvidgat eller kontaktförbud eller överträdelse
-särskilt utvidgat kontaktförbud av utvidgat eller särskilt utvidgat
-enligt 24 § lagen (1988:688) om kontaktförbud enligt 24 § lagen
-kontaktförbud, ska en underrätt- (1988:688) om kontaktförbud,
-else enligt första stycket lämnas ska en underrättelse enligt första
+
+straff för olaga förföljelse eller
+hedersförtryck enligt 4 kap. 4 b
+eller 4 kap. 4 e § brottsbalken eller
+överträdelse av kontaktförbud
+eller överträdelse av utvidgat eller
+särskilt utvidgat kontaktförbud
+enligt 24 § lagen (1988:688) om
+kontaktförbud, ska en underrätt-
+else enligt första stycket lämnas
+
+straff för olaga förföljelse, grov
+olaga förföljelse eller hedersför-
+tryck enligt 4 kap. 4 b eller 4 e §
+brottsbalken eller överträdelse av
+kontaktförbud eller överträdelse
+av utvidgat eller särskilt utvidgat
+kontaktförbud enligt 24 § lagen
+(1988:688) om kontaktförbud,
+ska en underrättelse enligt första
+
 även om den intagne inte är när- stycket lämnas även om den in-
 stående eller tidigare närstående tagne inte är närstående eller tidi-
-
 till målsäganden.     gare närstående till målsäganden.
 En underrättelse ska lämnas i lämplig tid före frigivningen.
 
@@ -4349,12 +4424,13 @@ Denna förordning träder i kraft den 14 juni 2027.
 SOU 2026:34                              Författningsförslag
 
 1.13  Förslag till förordning om ändring i förordningen
-
 (2015:646) om europeisk skyddsorder
+
 Härigenom föreskrivs1 att 3 kap. 3 § förordningen (2015:646) om
 europeisk skyddsorder ska ha följande lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
+
 3 kap.
 
 3 §
@@ -4366,19 +4442,36 @@ och verkställighet av en europeisk och verkställighet av en europeisk
 skyddsorder ska delges den mot skyddsorder ska delges den mot
 vilken skyddsorden gäller framgår vilken skyddsordern gäller framgår
 av 3 kap. 10 § lagen om europeisk av 3 kap. 10 § lagen om europeisk
-skyddsorder. I samband med att skyddsorder. I samband med att
-ett beslut enligt 3 kap. 5 § samma ett beslut enligt 3 kap. 5 § samma
-lag meddelas ska den mot vilken lag meddelas ska den mot vilken
-förbudet avses gälla särskilt under- förbudet avses gälla särskilt under-
-rättas om innebörden av beslutet. rättas om innebörden av beslutet.
-I fråga om underrättelser i I fråga om underrättelser i
-övrigt tillämpas 3–4 c §§ förord- övrigt tillämpas 3–4 c och 4 f §§ för-
-ningen (1988:691) om kontakt- ordningen (1988:691) om kontakt-
-förbud. Vid denna tillämpning ska förbud. Vid denna tillämpning ska
-bestämmelserna om kontaktför- bestämmelserna om kontaktför-
-bud i stället avse förbud enligt bud i stället avse förbud enligt
-3 kap. 5 § lagen om europeisk 3 kap. 5 § lagen om europeisk
-skyddsorder.          skyddsorder.
+
+skyddsorder. I samband med att
+ett beslut enligt 3 kap. 5 § samma
+lag meddelas ska den mot vilken
+förbudet avses gälla särskilt under-
+rättas om innebörden av beslutet.
+I fråga om underrättelser i
+övrigt tillämpas 3–4 c §§ förord-
+ningen (1988:691) om kontakt-
+förbud. Vid denna tillämpning ska
+bestämmelserna om kontaktför-
+bud i stället avse förbud enligt
+3 kap. 5 § lagen om europeisk
+
+skyddsorder.
+
+skyddsorder. I samband med att
+ett beslut enligt 3 kap. 5 § samma
+lag meddelas ska den mot vilken
+förbudet avses gälla särskilt under-
+rättas om innebörden av beslutet.
+I fråga om underrättelser i
+övrigt tillämpas 3–4 c och 4 f §§ för-
+ordningen (1988:691) om kontakt-
+förbud. Vid denna tillämpning ska
+bestämmelserna om kontaktför-
+bud i stället avse förbud enligt
+3 kap. 5 § lagen om europeisk
+
+skyddsorder.
 
 Denna förordning träder i kraft den 14 juni 2027.
 
@@ -4481,7 +4574,6 @@ Denna förordning träder i kraft den 14 juni 2027.
 Författningsförslag                        SOU 2026:34
 
 1.15  Förslag till förordning om ändring i förordningen
-
 (2025:1323) om verkställighet av fängelsestraff
 med elektronisk övervakning
 
@@ -4499,19 +4591,30 @@ brottet har begåtts mot en närstående eller tidigare närstående person,
 ska Kriminalvården underrätta Polismyndigheten om tidpunkten för
 när den elektroniska övervakningen upphör. I samband med en sådan
 underrättelse ska Kriminalvården på begäran av Polismyndigheten eller
+
 Åklagarmyndigheten även lämna ut uppgifter som kan antas ha betyd-
+
 else i frågor om kontaktförbud enligt lagen (1988:688) om kontakt-
+
 förbud.
-Om den dömde avtjänar straff Om den dömde avtjänar straff
-för olaga förföljelse eller heders- för olaga förföljelse, grov olaga för-
-förtryck enligt 4 kap. 4 b eller 4 e § följelse eller hedersförtryck enligt
-brottsbalken eller överträdelse av 4 kap. 4 b eller 4 e § brottsbalken
-kontaktförbud eller överträdelse eller överträdelse av kontaktförbud
-av utvidgat eller särskilt utvidgat eller överträdelse av utvidgat eller
+Om den dömde avtjänar straff
+för olaga förföljelse eller heders-
+förtryck enligt 4 kap. 4 b eller 4 e §
+brottsbalken eller överträdelse av
+kontaktförbud eller överträdelse
+av utvidgat eller särskilt utvidgat
+
+Om den dömde avtjänar straff
+för olaga förföljelse, grov olaga för-
+följelse eller hedersförtryck enligt
+4 kap. 4 b eller 4 e § brottsbalken
+eller överträdelse av kontaktförbud
+eller överträdelse av utvidgat eller
+
 kontaktförbud enligt 24 § lagen särskilt utvidgat kontaktförbud
+
 om kontaktförbud, ska en under- enligt 24 § lagen om kontakt-
 rättelse enligt första stycket lämnas förbud, ska en underrättelse enligt
-
 även om den dömde inte är när- första stycket lämnas även om den
 stående eller tidigare närstående dömde inte är närstående eller
 till målsäganden.     tidigare närstående till målsägan-
@@ -4528,7 +4631,6 @@ Denna förordning träder i kraft den 14 juni 2027.
 SOU 2026:34                              Författningsförslag
 
 1.16  Förslag till förordning om ändring
-
 i förordningen (2026:266) om
 verkställighet av säkerhetsförvaring
 
@@ -4546,17 +4648,29 @@ utanför anstalt enligt 4 kap. 1 § lagen (2026:252) om verkställighet
 av säkerhetsförvaring, eller om den dömde helt har avtjänat påföljden.
 I samband med en sådan underrättelse ska Kriminalvården på begäran
 av Polismyndigheten eller Åklagarmyndigheten även lämna ut upp-
-gifter som kan antas ha betydelse i frågor om kontaktförbud enligt
-lagen (1988:688) om kontaktförbud.
-Om den dömde avtjänar säker- Om den dömde avtjänar säker-
-hetsförvaring för olaga förföljelse hetsförvaring för olaga förföljelse,
-eller hedersförtryck enligt 4 kap. grov olaga förföljelse eller heders-
-4 b eller 4 e § brottsbalken eller förtryck enligt 4 kap. 4 b eller 4 e §
-överträdelse av kontaktförbud eller brottsbalken eller överträdelse av
-överträdelse av utvidgat eller sär- kontaktförbud eller överträdelse
 
-skilt utvidgat kontaktförbud enligt av utvidgat eller särskilt utvidgat
-24 § lagen om kontaktförbud, ska kontaktförbud enligt 24 § lagen
+gifter som kan antas ha betydelse i frågor om kontaktförbud enligt
+
+lagen (1988:688) om kontaktförbud.
+
+Om den dömde avtjänar säker-
+hetsförvaring för olaga förföljelse
+eller hedersförtryck enligt 4 kap.
+4 b eller 4 e § brottsbalken eller
+överträdelse av kontaktförbud eller
+överträdelse av utvidgat eller sär-
+skilt utvidgat kontaktförbud enligt
+24 § lagen om kontaktförbud, ska
+
+Om den dömde avtjänar säker-
+hetsförvaring för olaga förföljelse,
+grov olaga förföljelse eller heders-
+förtryck enligt 4 kap. 4 b eller 4 e §
+brottsbalken eller överträdelse av
+kontaktförbud eller överträdelse
+av utvidgat eller särskilt utvidgat
+kontaktförbud enligt 24 § lagen
+
 en underrättelse enligt första om kontaktförbud, ska en under-
 stycket lämnas även om den in- rättelse enligt första stycket lämnas
 tagne inte är närstående eller tidi- även om den intagne inte är när-
@@ -30284,56 +30398,91 @@ genomförande medför en sänkning av skyddsnivån för brottsoffer.
 
 <!-- sida 656 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Kronologisk förteckning
 
-1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
-utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
-på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
-A.                     – förslag för att motverka
-4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
-ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
-m.m. Fi.               kommunalskattesatser. Fi.
-6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
-hälso- och sjukvården. Styrning med Ju.
-tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
-S.                     i samverkan. Nationella åtgärder för
-7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
-av folkhälsopolitiken. vid brist. S.
-Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
-genom hälsoekonomiska analyser. mot barntolkning. A.
-Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
-politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+1\. Skatteincitament för forskning och
+utveckling – ett nytt incitament baserat
+på utgifter för FoU-personal. Fi.
+2\. 710 miljoner skäl till reformer. Ju.
+3\. Genomförande av plattformsdirektivet.
+A.
+4\. Rektor i fokus – förutsättningar för
+ett pedagogiskt ledarskap. U.
+5\. Utvidgad avdragsrätt för sponsring
+m.m. Fi.
+6\. En nationell digital infrastruktur i
+hälso- och sjukvården. Styrning med
+tydliga roller och ansvar för aktörerna.
+S.
+7\. Förstärkt uppföljning och utvärdering
+av folkhälsopolitiken.
+Del I: Effektivare folkhälsoinsatser
+genom hälsoekonomiska analyser.
+Del II: Utvärdering av alkohol-
+politikens styrmedel. S.
+8\. Rättssäker samhällsvård för barn och
 unga. S.
-26\. Digitala verktyg inom bolagsrätten.
-9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
-brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
-verksamhet och tillgångar till Tredje rapportering. Ju.
-och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
-verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
-AP-fonden. Fi.         för pälsproduktion. LI.
-13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
-med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+9\. Registrering av EES-medborgare. Ju.
+10\. Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. Ju.
+11\. Om överföring av Första AP-fondens
+verksamhet och tillgångar till Tredje
+och Fjärde AP-fonderna. Fi.
+12\. Om överföring av Sjätte AP-fondens
+verksamhet och tillgångar till Andra
+AP-fonden. Fi.
+13\. Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar. Ju.
+14\. Ädelmetallutredningen – en modernise-
 rad reglering av handel med ädelmetall-
-32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
-ningar att ta emot stora företagsetable-
-15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
-ett fossilfritt samhälle. KN.
 16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
+
+17\. Öresundsförbindelser 2050 – behov
+av kapacitet, redundans och svenskt-
+danskt samarbete. LI.
+18\. Odlingstorv och klimatet. Fi.
+19\. Stärkt tillsyn och uppföljning
+– förslag för att motverka
+oegentlig läkemedelsförskrivning. S.
+20\. Belägg för broms? Åtgärder
+för starkare incitament till lägre
+kommunalskattesatser. Fi.
+21\. Återkallelse av svenskt medborgarskap.
+Ju.
+22\. Stärkt läkemedelsförsörjning
+i samverkan. Nationella åtgärder för
+fördelning, omfördelning och inköp
+vid brist. S.
+23\. Tolkavgift och förbud
+mot barntolkning. A.
+24\. Mervärdesskatt vid uthyrning
+och överlåtelse av fastighet. Fi.
+25\. Ett smittskydd för framtiden. S.
+26\. Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. Ju.
+27\. Lättnader i kraven på hållbarhets-
+rapportering. Ju.
+28\. Tillgång till passageraruppgifter
+i brottsbekämpningen. Ju.
+29\. Förbud mot uppfödning av djur
+för pälsproduktion. LI.
+30\. Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. Ju.
+31\. Ett investeringsprogram för kultur. Ku.
+32\. Att säga ja! Kommunernas förutsätt-
+ningar att ta emot stora företagsetable-
+ringar och företagsexpansioner. KN.
+33\. Vägen mot utfasning. Styrmedel för
+ett fossilfritt samhälle. KN.
 
 <!-- sida 657 -->
 
@@ -30344,67 +30493,83 @@ våld i nära relationer. Volym 1 & 2. Ju.
 
 <!-- sida 658 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Digitala verktyg inom bolagsrätten.
-Genomförande av plattformsdirektivet. [3] Genomförande av EU:s direktiv om
-ytterligare digitalisering inom bolags-
+Arbetsmarknadsdepartementet
+Genomförande av plattformsdirektivet. [3]
 Tolkavgift och förbud mot barntolkning.
-rätten. [26]
 [23]
-Lättnader i kraven på hållbarhets-
-rapportering. [27]
+
 Finansdepartementet
-Tillgång till passageraruppgifter
 Skatteincitament för forskning och ut-
-i brottsbekämpningen. [28]
 veckling – ett nytt incitament baserat
-Mer flexibla regler om verkställighet av
 på utgifter för FoU-personal. [1]
-häktning och fängelsestraff. [30]
 Utvidgad avdragsrätt för sponsring m.m.
-Nya nätbrott och andra åtgärder för
 [5]
-genomförandet av direktivet om
 Om överföring av Första AP-fondens
-bekämpning av våld mot kvinnor och
 verksamhet och tillgångar till Tredje
-våld i nära relationer. Volym 1 & 2.
 och Fjärde AP-fonderna. [11]
-[34]
 Om överföring av Sjätte AP-fondens
 verksamhet och tillgångar till Andra
-Klimat- och näringslivsdepartementet
 AP-fonden. [12]
-Ädelmetallutredningen – en moderniserad
 Odlingstorv och klimatet. [18]
-reglering av handel med ädelmetallarbeten.
-Belägg för broms? Åtgärder för starkare [14]
+Belägg för broms? Åtgärder för starkare
 incitament till lägre kommunal-
-Att säga ja! Kommunernas förutsättningar
 skattesatser. [20]
-att ta emot stora företagsetableringar
-Mervärdesskatt vid uthyrning och och företagsexpansioner. [32]
+Mervärdesskatt vid uthyrning och
 överlåtelse av fastighet. [24]
+Försvarsdepartementet
+Försvarsexportinitiativ. För gemensam
+säkerhet. [16]
+Justitiedepartementet
+710 miljoner skäl till reformer. [2]
+Registrering av EES-medborgare. [9]
+Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. [10]
+Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar.
+[13]
+Återkallelse av svenskt medborgarskap.
+[21]
+
+Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. [26]
+Lättnader i kraven på hållbarhets-
+rapportering. [27]
+Tillgång till passageraruppgifter
+i brottsbekämpningen. [28]
+Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. [30]
+Nya nätbrott och andra åtgärder för
+genomförandet av direktivet om
+bekämpning av våld mot kvinnor och
+våld i nära relationer. Volym 1 & 2.
+[34]
+Klimat- och näringslivsdepartementet
+Ädelmetallutredningen – en moderniserad
+reglering av handel med ädelmetallarbeten.
+[14]
+Att säga ja! Kommunernas förutsättningar
+att ta emot stora företagsetableringar
+och företagsexpansioner. [32]
 Vägen mot utfasning. Styrmedel för
 ett fossilfritt samhälle. [33]
-Försvarsdepartementet
-Försvarsexportinitiativ. För gemensam Kulturdepartementet
-säkerhet. [16]
+Kulturdepartementet
 Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-Justitiedepartementet   politik. Volym 1 och 2. [15]
-710 miljoner skäl till reformer. [2] Ett investeringsprogram för kultur. [31]
-Registrering av EES-medborgare. [9]
-Ökade möjligheter till tillgångsinriktad Landsbygds- och
-brottsbekämpning. Del 1 och 2. [10] infrastrukturdepartementet
-Straffansvar för deltagande i och samröre Öresundsförbindelser 2050 – behov av
-med kriminella sammanslutningar. kapacitet, redundans och svenskt-danskt
-[13]                  samarbete. [17]
-Återkallelse av svenskt medborgarskap. Förbud mot uppfödning av djur
-[21]                  för pälsproduktion. [29]
+politik. Volym 1 och 2. [15]
+Ett investeringsprogram för kultur. [31]
+Landsbygds- och
+infrastrukturdepartementet
+Öresundsförbindelser 2050 – behov av
+kapacitet, redundans och svenskt-danskt
+samarbete. [17]
+Förbud mot uppfödning av djur
+för pälsproduktion. [29]
 
 <!-- sida 659 -->
 
@@ -45498,56 +45663,91 @@ Ordförande           Ordförande
 
 <!-- sida 989 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Kronologisk förteckning
 
-1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
-utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
-på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
-A.                     – förslag för att motverka
-4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
-ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
-m.m. Fi.               kommunalskattesatser. Fi.
-6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
-hälso- och sjukvården. Styrning med Ju.
-tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
-S.                     i samverkan. Nationella åtgärder för
-7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
-av folkhälsopolitiken. vid brist. S.
-Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
-genom hälsoekonomiska analyser. mot barntolkning. A.
-Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
-politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+1\. Skatteincitament för forskning och
+utveckling – ett nytt incitament baserat
+på utgifter för FoU-personal. Fi.
+2\. 710 miljoner skäl till reformer. Ju.
+3\. Genomförande av plattformsdirektivet.
+A.
+4\. Rektor i fokus – förutsättningar för
+ett pedagogiskt ledarskap. U.
+5\. Utvidgad avdragsrätt för sponsring
+m.m. Fi.
+6\. En nationell digital infrastruktur i
+hälso- och sjukvården. Styrning med
+tydliga roller och ansvar för aktörerna.
+S.
+7\. Förstärkt uppföljning och utvärdering
+av folkhälsopolitiken.
+Del I: Effektivare folkhälsoinsatser
+genom hälsoekonomiska analyser.
+Del II: Utvärdering av alkohol-
+politikens styrmedel. S.
+8\. Rättssäker samhällsvård för barn och
 unga. S.
-26\. Digitala verktyg inom bolagsrätten.
-9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
-brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
-verksamhet och tillgångar till Tredje rapportering. Ju.
-och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
-verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
-AP-fonden. Fi.         för pälsproduktion. LI.
-13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
-med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+9\. Registrering av EES-medborgare. Ju.
+10\. Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. Ju.
+11\. Om överföring av Första AP-fondens
+verksamhet och tillgångar till Tredje
+och Fjärde AP-fonderna. Fi.
+12\. Om överföring av Sjätte AP-fondens
+verksamhet och tillgångar till Andra
+AP-fonden. Fi.
+13\. Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar. Ju.
+14\. Ädelmetallutredningen – en modernise-
 rad reglering av handel med ädelmetall-
-32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
-ningar att ta emot stora företagsetable-
-15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
-ett fossilfritt samhälle. KN.
 16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
+
+17\. Öresundsförbindelser 2050 – behov
+av kapacitet, redundans och svenskt-
+danskt samarbete. LI.
+18\. Odlingstorv och klimatet. Fi.
+19\. Stärkt tillsyn och uppföljning
+– förslag för att motverka
+oegentlig läkemedelsförskrivning. S.
+20\. Belägg för broms? Åtgärder
+för starkare incitament till lägre
+kommunalskattesatser. Fi.
+21\. Återkallelse av svenskt medborgarskap.
+Ju.
+22\. Stärkt läkemedelsförsörjning
+i samverkan. Nationella åtgärder för
+fördelning, omfördelning och inköp
+vid brist. S.
+23\. Tolkavgift och förbud
+mot barntolkning. A.
+24\. Mervärdesskatt vid uthyrning
+och överlåtelse av fastighet. Fi.
+25\. Ett smittskydd för framtiden. S.
+26\. Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. Ju.
+27\. Lättnader i kraven på hållbarhets-
+rapportering. Ju.
+28\. Tillgång till passageraruppgifter
+i brottsbekämpningen. Ju.
+29\. Förbud mot uppfödning av djur
+för pälsproduktion. LI.
+30\. Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. Ju.
+31\. Ett investeringsprogram för kultur. Ku.
+32\. Att säga ja! Kommunernas förutsätt-
+ningar att ta emot stora företagsetable-
+ringar och företagsexpansioner. KN.
+33\. Vägen mot utfasning. Styrmedel för
+ett fossilfritt samhälle. KN.
 
 <!-- sida 990 -->
 
@@ -45558,67 +45758,83 @@ våld i nära relationer. Volym 1 & 2. Ju.
 
 <!-- sida 991 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Digitala verktyg inom bolagsrätten.
-Genomförande av plattformsdirektivet. [3] Genomförande av EU:s direktiv om
-ytterligare digitalisering inom bolags-
+Arbetsmarknadsdepartementet
+Genomförande av plattformsdirektivet. [3]
 Tolkavgift och förbud mot barntolkning.
-rätten. [26]
 [23]
-Lättnader i kraven på hållbarhets-
-rapportering. [27]
+
 Finansdepartementet
-Tillgång till passageraruppgifter
 Skatteincitament för forskning och ut-
-i brottsbekämpningen. [28]
 veckling – ett nytt incitament baserat
-Mer flexibla regler om verkställighet av
 på utgifter för FoU-personal. [1]
-häktning och fängelsestraff. [30]
 Utvidgad avdragsrätt för sponsring m.m.
-Nya nätbrott och andra åtgärder för
 [5]
-genomförandet av direktivet om
 Om överföring av Första AP-fondens
-bekämpning av våld mot kvinnor och
 verksamhet och tillgångar till Tredje
-våld i nära relationer. Volym 1 & 2.
 och Fjärde AP-fonderna. [11]
-[34]
 Om överföring av Sjätte AP-fondens
 verksamhet och tillgångar till Andra
-Klimat- och näringslivsdepartementet
 AP-fonden. [12]
-Ädelmetallutredningen – en moderniserad
 Odlingstorv och klimatet. [18]
-reglering av handel med ädelmetallarbeten.
-Belägg för broms? Åtgärder för starkare [14]
+Belägg för broms? Åtgärder för starkare
 incitament till lägre kommunal-
-Att säga ja! Kommunernas förutsättningar
 skattesatser. [20]
-att ta emot stora företagsetableringar
-Mervärdesskatt vid uthyrning och och företagsexpansioner. [32]
+Mervärdesskatt vid uthyrning och
 överlåtelse av fastighet. [24]
+Försvarsdepartementet
+Försvarsexportinitiativ. För gemensam
+säkerhet. [16]
+Justitiedepartementet
+710 miljoner skäl till reformer. [2]
+Registrering av EES-medborgare. [9]
+Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. [10]
+Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar.
+[13]
+Återkallelse av svenskt medborgarskap.
+[21]
+
+Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. [26]
+Lättnader i kraven på hållbarhets-
+rapportering. [27]
+Tillgång till passageraruppgifter
+i brottsbekämpningen. [28]
+Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. [30]
+Nya nätbrott och andra åtgärder för
+genomförandet av direktivet om
+bekämpning av våld mot kvinnor och
+våld i nära relationer. Volym 1 & 2.
+[34]
+Klimat- och näringslivsdepartementet
+Ädelmetallutredningen – en moderniserad
+reglering av handel med ädelmetallarbeten.
+[14]
+Att säga ja! Kommunernas förutsättningar
+att ta emot stora företagsetableringar
+och företagsexpansioner. [32]
 Vägen mot utfasning. Styrmedel för
 ett fossilfritt samhälle. [33]
-Försvarsdepartementet
-Försvarsexportinitiativ. För gemensam Kulturdepartementet
-säkerhet. [16]
+Kulturdepartementet
 Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-Justitiedepartementet   politik. Volym 1 och 2. [15]
-710 miljoner skäl till reformer. [2] Ett investeringsprogram för kultur. [31]
-Registrering av EES-medborgare. [9]
-Ökade möjligheter till tillgångsinriktad Landsbygds- och
-brottsbekämpning. Del 1 och 2. [10] infrastrukturdepartementet
-Straffansvar för deltagande i och samröre Öresundsförbindelser 2050 – behov av
-med kriminella sammanslutningar. kapacitet, redundans och svenskt-danskt
-[13]                  samarbete. [17]
-Återkallelse av svenskt medborgarskap. Förbud mot uppfödning av djur
-[21]                  för pälsproduktion. [29]
+politik. Volym 1 och 2. [15]
+Ett investeringsprogram för kultur. [31]
+Landsbygds- och
+infrastrukturdepartementet
+Öresundsförbindelser 2050 – behov av
+kapacitet, redundans och svenskt-danskt
+samarbete. [17]
+Förbud mot uppfödning av djur
+för pälsproduktion. [29]
 
 <!-- sida 992 -->
 

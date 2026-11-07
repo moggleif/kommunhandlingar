@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17194bc/1765442358
 sha256: b300f6d21c0578f62568c01a23fda64d75b72a8229f98cedf09021846426f4df
 bytes: 102246330
 sidor: 665
-hamtad: 2026-10-24T09:28:21+00:00
-konverterad: 2026-10-24T09:34:50+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-07T00:23:18+00:00
+konverterad: 2026-11-07T00:32:19+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, tom, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -12702,12 +12702,13 @@ miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-91       761       663      442       568
+
+91       761       663       442       568
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-18       24        58        57        36
+18        24        58       57        36
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -12717,19 +12718,24 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 
 Lokaltyp och beskrivning       2026 2027 2028 2029 2030
 140 Onsala fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-145 Enkel isyta för träning (ishall)                  x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+
+145 Enkel isyta för träning (ishall)                 x
+147 Evakuering klubbstugor Inlag  x
+
+Noter
+140 Onsala fullmåttshall
+Ny fullmåttsidrottshall som fyller både skolverksamhetens
+och föreningslivets behov.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
 
 145 Enkel isyta för träning
-Noter
 Träningsishall som är något mindre än publika arenor.
-140 Onsala fullmåttshall
-Ny fullmåttsidrottshall som fyller både skolverksamhetens 147 Ersättning klubblokaler Inlag
-och föreningslivets behov.        Tillfällig ersättning av föreningslokaler som för närvarande
+147 Ersättning klubblokaler Inlag
+Tillfällig ersättning av föreningslokaler som för närvarande
 är placerade på Inlagsområdet. Vi behöver ersättningslokaler
-143 Åsa fullmåttshall             med anledning av arenans byggnation.
-Vi planerar för en ny idrottshall i Åsa.
+med anledning av arenans byggnation.
 
 Kommunbudget 2026 och plan 2027–2028 51
 
@@ -12770,34 +12776,20 @@ Foto: Emelie Asplund
 
 <!-- sida 356 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-351 Tingbergsskolan avveckling lokal och flytt
+
 227 Gräskärr förskola
-Avveckling av Tingbergsskolans lokaler i samband med färdig-
 Exploatering av bostäder i centrala Kungsbacka har gett ökade
-ställande av ny skola i kvarteret Liljan.
 behov av förskola. Därför måste vi bygga nya förskolelokaler.
-345 Tingbergsskolan avveckling lokal och flytt
 227 a Gräskärrs förskola infrastruktur
-I samband med att vi bygger Kvarteret Liljan skola kommer det
 Infrastruktur i form av tillfartsväg, vatten och avlopp och fjärr-
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
 värme för etablering av Gräskärrs förskola.
-avveckla den befintliga inhyrda lokalen.
 236 Åsa förskola
-341 Fjordskolan avveckling lokal och flytt
 Området är föremål för exploatering av nytt bostadsområde. Vi
-På grund av överkapacitet av lokaler ser kommunen över möjlig-
 bygger nya utbildningsplatser genom att anpassa befintliga skollo-
-heten att avveckla lokalen.
 kaler till förskolelokaler. Vi färdigställer funktionen i två etapper.
-359 Anpassad grundskola
 346 Åsa förskola avveckling
-Utbildningsplatser för anpassad grundskola utökas vid centrum-
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
-nära Kollaskolan.
 flytt till permanenta lokaler i närområdet.
 347 Åsa förskola avveckling
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
@@ -12833,6 +12825,23 @@ föreningslivets behov. Samordning sker med behov 338 Kvarteret
 Liljan skola.
 339b Kvarteret Liljan garage
 Parkeringsgarage i direkt anslutning till framtida grundskola.
+
+INVESTERING OCH EXPLOATERING
+
+351 Tingbergsskolan avveckling lokal och flytt
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+345 Tingbergsskolan avveckling lokal och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+341 Fjordskolan avveckling lokal och flytt
+På grund av överkapacitet av lokaler ser kommunen över möjlig-
+heten att avveckla lokalen.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2026 och plan 2027–2028 53
 
 <!-- sida 357 -->
@@ -12848,24 +12857,31 @@ stycken gruppbostad och sex stycken som servicebostad eller att alla tolv nyttja
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 413 Boende med särskild service, barn           4
-414 Boende med särskild service  12
-513 Stödboende                                 12
+414 Boende med särskild service   12
+513 Stödboende                                  12
 514 Boende med särskild service       12
-515 Boende med särskild service            12
 
-516 Boende med särskild service                12
+515 Boende med särskild service            12
+516 Boende med särskild service                 12
 
 Noter
-413 Boende med särskild service, barn 514 Boende med särskild service
-Gruppbostad för barn med fyra platser för att verkställa Boende med tolv platser för att verkställa biståndsbeslut.
+
+413 Boende med särskild service, barn
+Gruppbostad för barn med fyra platser för att verkställa
 biståndsbeslut.
-515 Boende med särskild service
-414 Boende med särskild service   Boende med tolv platser för att verkställa biståndsbeslut.
+414 Boende med särskild service
 Boende med tolv platser för att verkställa biståndsbeslut.
-516 Boende med särskild service
-513 Stödboende                    Boende med tolv platser för att verkställa biståndsbeslut.
+513 Stödboende
 Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 platser för att verkställa biståndsbeslut.
+
+514 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
 
 Gymnasium och arbetsmarknad
 Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem år räknar vi med att antal elever är cirka
@@ -12873,6 +12889,7 @@ Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem �
 användande av lokaler för att klara av denna elevmängd i befintliga lokaler.
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+
 1412 Fordons och Transportprogrammet       x
 1413 Kompetenscentrum             x
 
@@ -12905,31 +12922,34 @@ Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 819 Verksamhetslokal digital Hemtjänst och x
 Hemsjukvård
 820 Centralförråd grundutrustning Hjälpmedel x
-821 Verksamhetslokal för Hemtjänsten och    x
+821 Verksamhetslokal för Hemtjänsten och   x
 Hemsjukvård i Åsa med tillhörande parke-
 ringsplatser med laddstolpar för tjänste-
 bilar
 
 Noter
-819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+
 811 Reservkraft
-Möjlighet till samlokalisering i Signes Hus.
 Vi behöver ersätta flertalet befintliga vård­ och omsorgs­
 boendens mobila reservkraftverk med stationära för att uppfylla
-820 Centralförråd grundutrustning Hjälpmedel
 lagkrav och patientsäkerhet.
-Möjlighet till samlokalisering i Signes Hus.
 813 Administrativ lokal avveckling
-821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
 Hyresavtal som löper ut år 2026.
-tillhörande parkeringsplatser med laddstolpar för tjänstebilar
-Vi har genomfört en utredning och det finns möjlighet för nämn-
 817 Ekhaga vård-och omsorgsboende
-den att börja använda dem innan 2029, om det finns önskemål
 Mindre anpassningar av lokalerna
-om det.
 818 Ersättning verksamhetslokal
 Permanent lokallösning för administrativa lokaler.
+
+819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+Möjlighet till samlokalisering i Signes Hus.
+820 Centralförråd grundutrustning Hjälpmedel
+Möjlighet till samlokalisering i Signes Hus.
+
+821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
+tillhörande parkeringsplatser med laddstolpar för tjänstebilar
+Vi har genomfört en utredning och det finns möjlighet för nämn-
+den att börja använda dem innan 2029, om det finns önskemål
+om det.
 
 Kommunbudget 2026 och plan 2027–2028 55
 
@@ -12940,33 +12960,41 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 1503 Förråd                                x
 1514 Förråd 2                                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
 1519 Administrativa lokaler evakuering x
-238 Villa Emilia paviljong avveckling x
+238 Villa Emilia paviljong avveckling  x
 
 Noter
 
-1503 Förråd                       1518 Avveckling administrativa lokaler
-Lagring för flertalet av kommunens verksamheter. Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-1514 Förråd 2                     med behov 1516 Samlokalisering administrativa lokaler.
+1503 Förråd
 Lagring för flertalet av kommunens verksamheter.
-1519 Administrativa lokaler evakuering
-1516 Samlokalisering administrativa lokaler Tillfällig lokallösning i samband med evakuering. Samordnas med
-Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka- behov 1516 Samlokalisering administrativa lokaler.
+1514 Förråd 2
+Lagring för flertalet av kommunens verksamheter.
+
+1516 Samlokalisering administrativa lokaler
+Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
-flera verksamheter.               238 Villa Emilia förskola paviljong avveckling
-Avveckling av inhyrd lokal.
+flera verksamheter.
 1517 Avveckling administrativa lokaler
 Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
 sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
 med behov 1516 Samlokalisering administrativa lokaler.
+
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Administrativa lokaler evakuering
+Tillfällig lokallösning i samband med evakuering. Samordnas med
+behov 1516 Samlokalisering administrativa lokaler.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal.
 
 56 Kommunbudget 2026 och plan 2027–2028
 
@@ -12975,22 +13003,32 @@ med behov 1516 Samlokalisering administrativa lokaler.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
-131 Arena inklusive skyddsrum          x
 
-1202 Oförutsedda behov        x   x    x    x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+131 Arena inklusive skyddsrum         x
+1202 Oförutsedda behov       x    x   x    x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst                            x
 
 Noter
-131 Arena inklusive skyddsrum     1410 Engångskostnader
-Arena som består av hall med läktarfunktion, utomhusläktare Medel för oplanerade lokalbehov som exempelvis rivning eller
-för fotboll och kommersiella lokaler. Lokalisering söder om sanering som kan uppstå vid främst ombyggnationer av befintliga
-Kungsbacka Sportcenter.           lokaler.
-1202 Oförutsedda behov            1411 Räddningstjänst
-Medel för hantering av oförutsedda behov som uppstår under Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-planeringsperioden. Exempel är iordningsställande av tillfälliga vi planerar exploatering i sydöstra centrum där de befintliga
-lokaler.                          lokalerna finns
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Oförutsedda behov
+Medel för hantering av oförutsedda behov som uppstår under
+planeringsperioden. Exempel är iordningsställande av tillfälliga
+lokaler.
+
+1410 Engångskostnader
+Medel för oplanerade lokalbehov som exempelvis rivning eller
+sanering som kan uppstå vid främst ombyggnationer av befintliga
+lokaler.
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+vi planerar exploatering i sydöstra centrum där de befintliga
+lokalerna finns
 
 Foto: Berit Prohaszka
 
@@ -16154,66 +16192,73 @@ Bilaga 2. Källförteckning ....................................................
 
 Sammanfattning
 
-Utifrån granskningen rekommenderas kommunstyrelsen att:
 På uppdrag av kommunrevisionen i Kungsbacka kommun har
 EY granskat kommunstyrelsens uppsiktsplikt. Granskningen har
-genomförts som en fördjupad insats inom ramen för ► Överväga att besluta om riktlinjer för kommunstyrelsens
-uppsikt som tydliggör uppsiktens inriktning, omfattning och
+genomförts som en fördjupad insats inom ramen för
 grundläggande granskning 2025. Granskningen har sin grund i
-genomförande samt former för rapporteringen till fullmäktige
 att revisionen vid den grundläggande granskningen under flera
-i syfte att skapa en transparens och överskådlighet av
 år uppmärksammat utvecklingsområden avseende kommun-
-uppsiktsplikten i dess helhet.
 styrelsens uppsiktsplikt.
-► Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
-den utökade uppsiktsplikten över kommunens bolag.
+
 Den sammanfattande bedömningen utifrån granskningen syfte
-är att kommunstyrelsen utövar sin uppsiktsplikt på ett i huvudsak ► Säkerställa transparens och tydlighet kring årligt ärende om
-avtalssamverkan i enlighet med 9 kap. 38 § KL.
+
+är att kommunstyrelsen utövar sin uppsiktsplikt på ett i huvudsak
 ändamålsenligt sätt.
+
 Uppsiktsplikten över kommunens nämnder bedöms
 ändamålsenlig. Uppsiktsplikten i övrigt, det vill säga över
 verksamhet bedriven på annat sätt än genom nämnd, bedrivs i
 huvudsak ändamålsenligt men bedöms kunna tydliggöras. Det
 saknas idag dokumenterade riktlinjer för uppsiktsplikten utifrån
+
 ett helhetsperspektiv vilket vi bedömer försvårar kontroll- och
 transparens. Vi bedömer att detta är en brist som bör åtgärdas.
+
 Vi noterar också ett par brister vad avser formella krav kring
 uppföljning av avtalssamverkan samt den förstärkta uppsikts-
 plikten av kommunens bolag.
+
+Utifrån granskningen rekommenderas kommunstyrelsen att:
+
+►  Överväga att besluta om riktlinjer för kommunstyrelsens
+uppsikt som tydliggör uppsiktens inriktning, omfattning och
+genomförande samt former för rapporteringen till fullmäktige
+
+i syfte att skapa en transparens och överskådlighet av
+uppsiktsplikten i dess helhet.
+►  Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
+den utökade uppsiktsplikten över kommunens bolag.
+►  Säkerställa transparens och tydlighet kring årligt ärende om
+avtalssamverkan i enlighet med 9 kap. 38 § KL.
 
 3
 
 <!-- sida 435 -->
 
-1\. Inledning                                   1.3. Revisionskriterier
-Med revisionskriterier avses de bedömningsgrunder som bildar
-1.1. Bakgrund                                  underlag för revisionens analyser, slutsatser och bedömningar.
-Den grundläggande granskningen har under flera år visat att det Revisionskriterierna beskrivs närmare i bilaga 1.
+1\. Inledning
+
+1.1. Bakgrund
+Den grundläggande granskningen har under flera år visat att det
+
 finns utvecklingsområden avseende kommunstyrelsens
-1.4. Metod
 uppsiktsplikt. Granskningen har visat att kommunstyrelsen inte
-Granskningen har genomförts genom dokumentstudier samt
 närmare definierat hur uppsiktsplikten över övriga nämnder,
-genom en utökad dialog med kommunstyrelsens presidium inom
 bolag och stiftelsen ska utövas samt att det inte finns riktlinjer för
-ramen för den grundläggande granskningen.
 arbetet.
-Källförteckning framgår av bilaga 2. Samtliga intervjuade har
+
 Kommunrevisionen har bedömt att det är väsentligt att granska
-getts tillfälle att sakfelsgranska rapporten.
 kommunstyrelsens uppsiktsplikt. Granskningen genomförs som
+
 en fördjupad insats inom ramen för grundläggande granskning
-1.5. Avgränsningar och ansvarig nämnd
 2025\.
-Granskningen avser kommunstyrelsen utifrån presenterade
-revisionsfrågor.
+
 1.2. Syfte och revisionsfrågor
 Granskningen har syftat till att bedöma om kommunstyrelsen
 utövar sin uppsiktsplikt över den kommunala verksamheten på
 ett ändamålsenligt sätt.
+
 Granskningen besvarar följande revisionsfrågor:
+
 ► Har kommunstyrelsen utarbetat ändamålsenliga riktlinjer,
 rutiner eller styrdokument som beskriver hur uppsiktsplikten
 ska bedrivas?
@@ -16223,59 +16268,94 @@ ska ske till kommunfullmäktige?
 ► Utövar kommunstyrelsen sin uppsikt över nämnder, bolag,
 stiftelser, kommunalförbund samt eventuella ytterligare
 instanser ändamålsenligt?
+
+1.3. Revisionskriterier
+Med revisionskriterier avses de bedömningsgrunder som bildar
+underlag för revisionens analyser, slutsatser och bedömningar.
+Revisionskriterierna beskrivs närmare i bilaga 1.
+
+1.4. Metod
+
+Granskningen har genomförts genom dokumentstudier samt
+genom en utökad dialog med kommunstyrelsens presidium inom
+ramen för den grundläggande granskningen.
+
+Källförteckning framgår av bilaga 2. Samtliga intervjuade har
+getts tillfälle att sakfelsgranska rapporten.
+
+1.5. Avgränsningar och ansvarig nämnd
+Granskningen avser kommunstyrelsen utifrån presenterade
+revisionsfrågor.
+
 4
 
 <!-- sida 436 -->
 
-2\. Uppsiktsplikt i lag och praxis              Uppsiktsplikten kan sägas ha två olika funktioner; en reaktiv och
-proaktiv funktion. Den förstnämnda innebär att en uppföljning
+2\. Uppsiktsplikt i lag och praxis
 I kommunallagen (2017:725), KL, framgår att styrelsen ska leda
-sker i efterhand att utförd verksamhet och dess förenlighet med
+
 och samordna förvaltningen av kommunens eller regionens
-lag och riktlinjer i övrigt. Den sistnämnda har en riskhanterande
 angelägenheter och ha uppsikt över övriga nämnders och
-utgångspunkt och syftar till att minska risken för att något
 eventuella gemensamma nämnders verksamhet. Styrelsen ska
-oönskat inträffar.
 också ha uppsikt över sådan avtalssamverkan som sker enligt 9
 kap. 37 § KL eller enligt annan lag eller författning. Vidare
-Uppsiktsplikten kan vidare delas in i en formell del och en mer
 framgår att uppsikt även ska utövas över verksamhet som
-praktisk del. I den formella strukturen ingår att följa mål och
 bedrivs som kommunala bolag, stiftelser och föreningar liksom
-budget samt övergripande styrmodell, reglemente för styrelse,
 verksamhet i kommunalförbund och samordningsförbund.1
-specifika styrdokument (generella eller riktade mot något bolag),
-reglemente för intern kontroll samt instruktion för direktören.
+
 KL är en ramlag och förarbetena ger inga tydliga anvisningar om
-Uppsikt i praktiken innebär bland annat uppföljning enligt
 innehållet i uppsiktsplikten. Detta innebär att det är upp till
-styrmodell (månad, tertial, delår och helår), protokoll och
 respektive kommun att utforma formerna för uppsiktspliktens
-handlingar från nämnder och bolag samt dialogmöten och
 innehåll och hur den ska genomföras i praktiken. KL betonar
-kommunikation i olika former.
 vikten av styrningen av den kommunala verksamheten oavsett
 juridisk form. Detta innebär således att det inte har någon
-Sedan 2013 gäller förstärkt uppsiktsplikt över kommunala
 betydelse om verksamheten bedrivs i förvaltnings- eller
-bolag.2 Styrelsen ska i årliga beslut pröva om den verksamhet
 bolagsform eller annan form. Det förekommer att det finns s.k.
-som bolaget har bedrivit under föregående kalenderår har varit
+
 personunion mellan ledamöter i kommunstyrelsen och
-förenlig med det fastställda kommunala ändamålet och utförts
 exempelvis bolagsstyrelser och förbund. Detta fråntar inte
-inom ramen för de kommunala befogenheterna. Det framgår inte
 kommunstyrelsens skyldighet som helhet att utöva uppsikt över
-av lagtexten när beslutet ska överlämnas, men det anges att en
 exempelvis nämnderna, bolagen och förbunden.
+
+En praxis på området har utvecklats och redogörs för nedan.
+
+1 6 kap. 1 § KL
+2 6 kap. 9 § KL
+
+Uppsiktsplikten kan sägas ha två olika funktioner; en reaktiv och
+proaktiv funktion. Den förstnämnda innebär att en uppföljning
+sker i efterhand att utförd verksamhet och dess förenlighet med
+lag och riktlinjer i övrigt. Den sistnämnda har en riskhanterande
+utgångspunkt och syftar till att minska risken för att något
+
+oönskat inträffar.
+
+Uppsiktsplikten kan vidare delas in i en formell del och en mer
+praktisk del. I den formella strukturen ingår att följa mål och
+budget samt övergripande styrmodell, reglemente för styrelse,
+specifika styrdokument (generella eller riktade mot något bolag),
+reglemente för intern kontroll samt instruktion för direktören.
+Uppsikt i praktiken innebär bland annat uppföljning enligt
+
+styrmodell (månad, tertial, delår och helår), protokoll och
+handlingar från nämnder och bolag samt dialogmöten och
+kommunikation i olika former.
+
+Sedan 2013 gäller förstärkt uppsiktsplikt över kommunala
+bolag.2 Styrelsen ska i årliga beslut pröva om den verksamhet
+som bolaget har bedrivit under föregående kalenderår har varit
+förenlig med det fastställda kommunala ändamålet och utförts
+
+inom ramen för de kommunala befogenheterna. Det framgår inte
+av lagtexten när beslutet ska överlämnas, men det anges att en
 lämplig tidpunkt kan vara i samband med att den kommunala
 årsredovisningen lämnas. De flesta kommuner tycks också ha
-En praxis på området har utvecklats och redogörs för nedan.
 valt denna ordning beträffande när rapporteringen sker till
 fullmäktige.3 Lagstiftaren har i förarbeten anfört att det är
-1 6 kap. 1 § KL                                3 Förstärkta uppsiktspliktregler över kommun- och landstingsägda
-2 6 kap. 9 § KL                                bolag, Daniel Stattin, 2 juli 2018
+
+3 Förstärkta uppsiktspliktregler över kommun- och landstingsägda
+bolag, Daniel Stattin, 2 juli 2018
+
 5
 
 <!-- sida 437 -->
@@ -16307,146 +16387,253 @@ för uppsiktsplikten.
 3.2. Riktlinjer, rutiner och styrdokument
 3.1. Vår bedömning
 I detta avsnitt redovisas våra iakttagelser kring vilka
+
 Vår bedömning är att kommunstyrelsen utövar sin uppsiktsplikt styrdokument, riktlinjer och rutiner för uppsiktsplikt som finns i
 på ett i huvudsak ändamålsenligt sätt. Uppsiktsplikten över Kungsbacka kommun.
 kommunens nämnder bedöms ändamålsenlig. Uppsiktsplikten
 i övrigt, det vill säga över verksamhet bedriven på annat sätt än Kommunstyrelsens ansvar för uppsiktsplikten framgår av
+
 genom nämnd, bedöms kunna tydliggöras. Det saknas idag kommunstyrelsens reglemente.
+
 dokumenterade riktlinjer för uppsiktsplikten utifrån ett
 helhetsperspektiv vilket vi bedömer är en brist utifrån ett I gemensamt reglemente för kommunstyrelsen och nämnderna
 kontroll- och transparensperspektiv. Vi noterar också ett par anges att nämnderna ska redovisa till fullmäktige hur de har
 brister vad avser:                            fullgjort de uppdrag som fullmäktige lämnat till dem.
 Redovisningen ska ske enligt principer fastställda av
+
 ► Uppföljningen av avtalssamverkan är begränsad till en fullmäktige.6 Redovisningen ska lämnas till kommunstyrelsen
 redovisning av vilken avtalssamverkan som finns i som har att samordna nämndernas olika redovisningar.
 kommunen. Hur aktuell samverkan följs upp framgår inte. Nämnderna har också ett ansvar för en tillräcklig intern kontroll i
-
 ► Den förstärkta uppsiktsplikten innebär att styrelsen i årliga enlighet med kommunens styrdokument för intern kontroll.
-beslut för varje bolag ska pröva om. Något uttalande om
-huruvida den verksamhet som bolaget har bedrivit under Härutöver hänvisas såvitt avser tillämpningen av uppsiktsplikten
-föregående kalenderår har varit förenlig med det fastställda till kommunens ekonomistyrningsprinciper. Dessa ingår i
-kommunala ändamålet och utförts inom ramen för de budgetbeslutet och antas härigenom årligen. Av dessa följer
-kommunala befogenheterna framgår inte av det årliga bland annat att nämnderna är skyldiga att göra uppföljning med
-ärendet om Eksta och Tempohus årsredovisningar. så täta intervaller som krävs för att ha en god kontroll. Efter 30
-april och 31 augusti rapporterar nämnden sin uppföljning och
-Sammanfattningsvis bedöms uppsiktsplikten utifrån ett prognos till kommunstyrelsen. Kommunstyrelsen i sin tur gör en
 
+beslut för varje bolag ska pröva om. Något uttalande om
+huruvida den verksamhet som bolaget har bedrivit under
+föregående kalenderår har varit förenlig med det fastställda
+kommunala ändamålet och utförts inom ramen för de
+kommunala befogenheterna framgår inte av det årliga
+
+ärendet om Eksta och Tempohus årsredovisningar.
+
+Härutöver hänvisas såvitt avser tillämpningen av uppsiktsplikten
+till kommunens ekonomistyrningsprinciper. Dessa ingår i
+budgetbeslutet och antas härigenom årligen. Av dessa följer
+bland annat att nämnderna är skyldiga att göra uppföljning med
+så täta intervaller som krävs för att ha en god kontroll. Efter 30
+
+april och 31 augusti rapporterar nämnden sin uppföljning och
+
+Sammanfattningsvis bedöms uppsiktsplikten utifrån ett prognos till kommunstyrelsen. Kommunstyrelsen i sin tur gör en
 helhetsperspektiv kunna utvecklas och göras mer transparent uppföljning och prognos för kommunen som helhet som
 och spårbar.                                  redovisas till fullmäktige. Detsamma gäller årsbokslutet efter den
 31 december.
 
 6 Former för rapportering till fullmäktige redovisas i avsnitt 3.4
+
 7
 
 <!-- sida 439 -->
 
-Av styrprinciperna framgår också att nämnderna har ansvaret för moderbolagets delårsuppföljning två gånger om året samt vid
-den interna kontrollen inom sitt verksamhetsområde. årsredovisningsrapporteringen.
+Av styrprinciperna framgår också att nämnderna har ansvaret för
+den interna kontrollen inom sitt verksamhetsområde.
 Kommunstyrelsen ska, med utgångspunkt i nämndernas
-uppföljningsrapporter, utvärdera kommunens samlade system Dessutom anges i ägardirektiven för bägge bolagen att ett antal
-för intern kontroll. Den samlade utvärderingen ska i ägardirektivet specificerade handlingar och information ska
-kommunstyrelsen rapportera till fullmäktige. Den samlade lämnas i anslutning till kommunens budgetprocess. Båda
-redovisningen av i uppföljningsrapport intern kontroll är bolagen har vidare att fortlöpande informera kommunstyrelsens
-begränsad till en redovisning av de tre identifierade presidium och kommundirektören om större eller viktigare frågor
+uppföljningsrapporter, utvärdera kommunens samlade system
+för intern kontroll. Den samlade utvärderingen ska
 
-kommunövergripande riskerna som granskats enligt plan i alla och förändringar i bolagets verksamhet.
+kommunstyrelsen rapportera till fullmäktige. Den samlade
+redovisningen av i uppföljningsrapport intern kontroll är
+begränsad till en redovisning av de tre identifierade
+kommunövergripande riskerna som granskats enligt plan i alla
 nämnderna.
-I bolagsordningen för såväl Eksta som Tempohus att
-För processerna kring budget och uppföljning finns mallar i kommunstyrelsen har inspektionsrätt, dvs kommunstyrelsens
-Stratsys, det system kommunen använder för bl.a. planering och har rätt att ta del av bolagets handlingar och räkenskaper samt i
-uppföljning. Måluppfyllelse följs upp i begränsad omfattning i övrigt inspektera bolaget och dess verksamhet.
+
+För processerna kring budget och uppföljning finns mallar i
+Stratsys, det system kommunen använder för bl.a. planering och
+
+uppföljning. Måluppfyllelse följs upp i begränsad omfattning i
 samband med delår och i dess helhet i samband med helår.
-Tidplan för uppföljningar publiceras på kommunens intranät. I Enligt uppgift hanteras den förstärkta uppsiktsplikten av bolagen
-Stratsys finns också checklistor kopplat till uppföljning av genom årligt ärende om årsredovisning för Eksta Bostads AB
+Tidplan för uppföljningar publiceras på kommunens intranät. I
+Stratsys finns också checklistor kopplat till uppföljning av
+arbetsmiljö, internkontroll och krisberedskap.
 
-arbetsmiljö, internkontroll och krisberedskap. och Tempohus Kungsbacka AB”.7
+För Eksta Bostäder AB (nedan Eksta) respektive dess
+dotterbolag Tempohus Kungsbacka AB (nedan Tempohus)
 
-För Eksta Bostäder AB (nedan Eksta) respektive dess Förstärkt uppsiktsplikt gäller bara bolag och inte stiftelser. Enligt
-dotterbolag Tempohus Kungsbacka AB (nedan Tempohus) kommunstyrelsen reglemente ska kommunstyrelsen ha uppsikt
-anges i ägardirektiven att kommunstyrelsen ska ha en överblick över verksamhet som bedrivs i kommunala bolag, stiftelse och
-och kontroll över bolagets/dotterbolagets verksamhet, den så kommunalförbund. Stiftelsen Tjolöholms stadgar innehåller
-kallade uppsiktsplikten. Vidare anges för Eksta att all information ingen skrivning om rapportering till kommunstyrelsen. Hur och
-enligt ägardirektivet ska rapporteras till kommunstyrelsen i om uppföljning av kommunens stiftelser sker framgår inte av
-
-anslutning till delårsuppföljningen två gånger om året samt vid något styrdokument.
+anges i ägardirektiven att kommunstyrelsen ska ha en överblick
+och kontroll över bolagets/dotterbolagets verksamhet, den så
+kallade uppsiktsplikten. Vidare anges för Eksta att all information
+enligt ägardirektivet ska rapporteras till kommunstyrelsen i
+anslutning till delårsuppföljningen två gånger om året samt vid
 årsredovisningsrapporteringen. För Tempohus anges att i
-ägardirektivet att all information enligt ägardirektivet ska Vi har inte tagit del av något styrdokument som beskriver hur
-rapporteras till kommunstyrelsens förvaltning i anslutning till uppsiktsplikt över kommunalförbund, gemensamma nämnder
+ägardirektivet att all information enligt ägardirektivet ska
+rapporteras till kommunstyrelsens förvaltning i anslutning till
 
 7 Sammanträdesprotokoll, Kommunfullmäktige 2025-06-16, § 118
+
+moderbolagets delårsuppföljning två gånger om året samt vid
+årsredovisningsrapporteringen.
+
+Dessutom anges i ägardirektiven för bägge bolagen att ett antal
+i ägardirektivet specificerade handlingar och information ska
+
+lämnas i anslutning till kommunens budgetprocess. Båda
+bolagen har vidare att fortlöpande informera kommunstyrelsens
+presidium och kommundirektören om större eller viktigare frågor
+och förändringar i bolagets verksamhet.
+
+I bolagsordningen för såväl Eksta som Tempohus att
+kommunstyrelsen har inspektionsrätt, dvs kommunstyrelsens
+har rätt att ta del av bolagets handlingar och räkenskaper samt i
+
+övrigt inspektera bolaget och dess verksamhet.
+
+Enligt uppgift hanteras den förstärkta uppsiktsplikten av bolagen
+genom årligt ärende om årsredovisning för Eksta Bostads AB
+och Tempohus Kungsbacka AB”.7
+
+Förstärkt uppsiktsplikt gäller bara bolag och inte stiftelser. Enligt
+kommunstyrelsen reglemente ska kommunstyrelsen ha uppsikt
+
+över verksamhet som bedrivs i kommunala bolag, stiftelse och
+kommunalförbund. Stiftelsen Tjolöholms stadgar innehåller
+ingen skrivning om rapportering till kommunstyrelsen. Hur och
+om uppföljning av kommunens stiftelser sker framgår inte av
+något styrdokument.
+
+Vi har inte tagit del av något styrdokument som beskriver hur
+uppsiktsplikt över kommunalförbund, gemensamma nämnder
+
 8
 
 <!-- sida 440 -->
 
-och avtalade samarbeten följs upp. Av protokoll från Enligt uppgift informeras ny kommunstyrelse vid mandat-
-kommunstyrelsens sammanträden framgår en stående punkt periodens start om uppsiktsplikten och hur den utövas i
-”Information om aktuella händelser från nämnder, bolag, Kungsbacka kommun.8
+och avtalade samarbeten följs upp. Av protokoll från
+kommunstyrelsens sammanträden framgår en stående punkt
+”Information om aktuella händelser från nämnder, bolag,
 intresseorganisationer (SKR, GR med fler).” Ärendet innehåller
-en kortfattad redovisning av den information som utsedda Av den presentation ”Uppsiktsplikt i en kommun – Hur gör vi i
-representanter återrapporterar från respektive organ. Kungsbacka” som föredragits för kommunstyrelsen framgår
-bland annat att det varierar hur olika kommuner styr och följer
-Inom Räddningstjänstförbundet Storgöteborgs (RSG) finns ett samt att det inte finns något krav på särskilda styrdokument/
+en kortfattad redovisning av den information som utsedda
 
-medlemssamråd till vilket kommunfullmäktige utsett rutiner för uppsikten. Det anges dock att det ska vara möjligt att
-representanter som regelbundet deltar i medlemssamråd. spåra och verifiera den uppföljning som görs.
+representanter återrapporterar från respektive organ.
+
+Inom Räddningstjänstförbundet Storgöteborgs (RSG) finns ett
+medlemssamråd till vilket kommunfullmäktige utsett
+representanter som regelbundet deltar i medlemssamråd.
 Göteborgsregionens kommunalförbund (GR) och RSG skickar
-remiss inför kommande budget som hanteras som information I presentationen beskrivs den årliga processen för planering och
-och dialoger.                                  uppföljning som bestående av tre delvis parallella processer;
-budgetprocess, process för uppföljning av delår och helår samt
-Av protokoll från kommunstyrelsen framgår att rapportering sker kvalitetsuppföljning.9
-från överförmyndarnämnden vid ett antal tillfällen per år. Bland
-annat ärenden i mars 2024 respektive 2025 avseende Vidare anges i den presentation som redovisas för
+remiss inför kommande budget som hanteras som information
+och dialoger.
 
-Överförmyndare i samverkans verksamhetsberättelse. kommunstyrelsen att det utöver årliga processer för styrning och
+Av protokoll från kommunstyrelsen framgår att rapportering sker
+från överförmyndarnämnden vid ett antal tillfällen per år. Bland
+annat ärenden i mars 2024 respektive 2025 avseende
+Överförmyndare i samverkans verksamhetsberättelse.
+
+3.3. Forum för uppsiktsplikt och kommunstyrelsens
+utövande av densamma
+I detta avsnitt redovisas våra iakttagelser kring forum för
+
+uppsiktsplikt i Kungsbacka kommun och kommunens utövande
+av densamma.
+
+8 Kommunstyrelsens protokoll 230110, § 1
+
+Enligt uppgift informeras ny kommunstyrelse vid mandat-
+periodens start om uppsiktsplikten och hur den utövas i
+Kungsbacka kommun.8
+
+Av den presentation ”Uppsiktsplikt i en kommun – Hur gör vi i
+
+Kungsbacka” som föredragits för kommunstyrelsen framgår
+bland annat att det varierar hur olika kommuner styr och följer
+samt att det inte finns något krav på särskilda styrdokument/
+rutiner för uppsikten. Det anges dock att det ska vara möjligt att
+spåra och verifiera den uppföljning som görs.
+
+I presentationen beskrivs den årliga processen för planering och
+uppföljning som bestående av tre delvis parallella processer;
+
+budgetprocess, process för uppföljning av delår och helår samt
+kvalitetsuppföljning.9
+
+Vidare anges i den presentation som redovisas för
+kommunstyrelsen att det utöver årliga processer för styrning och
 uppföljning också finns dialogmöten med nämnder och bolag,
 ledningsdialog (Framtidsdagen och Budgetdagen) samt
-3.3. Forum för uppsiktsplikt och kommunstyrelsens uppföljningsärenden till kommunstyrelsen och fullmäktige.
-utövande av densamma
-I detta avsnitt redovisas våra iakttagelser kring forum för Av dialoganteckningar från grundläggande granskning framgår
-uppsiktsplikt i Kungsbacka kommun och kommunens utövande att alla protokoll från nämnder och Eksta skickas till
-av densamma.                                   kommunstyrelsen.
+uppföljningsärenden till kommunstyrelsen och fullmäktige.
 
-8 Kommunstyrelsens protokoll 230110, § 1       9 Enligt muntlig uppgift sker uppföljning av måluppfyllelsen i begränsad
+Av dialoganteckningar från grundläggande granskning framgår
+att alla protokoll från nämnder och Eksta skickas till
+kommunstyrelsen.
+
+9 Enligt muntlig uppgift sker uppföljning av måluppfyllelsen i begränsad
 omfattning i anslutning till delår samt i dess helhet i samband med
 helåret.
+
 9
 
 <!-- sida 441 -->
 
-Kommunstyrelsen och Eksta har presidiemöte fyra gånger/år. bild av data- och integritetsskyddet i kommunen under det
-Vid mötet deltar presidiet för kommunstyrelsen respektive Eksta gångna året.
+Kommunstyrelsen och Eksta har presidiemöte fyra gånger/år.
+Vid mötet deltar presidiet för kommunstyrelsen respektive Eksta
 samt kommundirektör, VD för Eksta samt samhällsbyggnads-
-chef. Mötena har en fast agenda och protokoll från mötena Kommunstyrelsen tar också regelbundet del av uppföljning av ej
-skickas till kommunstyrelsen.10                verkställda beslut enligt socialtjänstlagen samt avstämning av
-lokalplanering. På kommunstyrelsens sammanträden finns
-Någon samlad beskrivning härutöver av när, hur och var dialog stående informationspunkter om bland annat information om
-och uppföljning inom ramen för uppsiktsplikten sker framgår inte aktuella händelser från nämnder, bolag, intresseorganisationer
+chef. Mötena har en fast agenda och protokoll från mötena
+skickas till kommunstyrelsen.10
 
-av något styrdokument.                         (SKR, GR med flera).
+Någon samlad beskrivning härutöver av när, hur och var dialog
+och uppföljning inom ramen för uppsiktsplikten sker framgår inte
+av något styrdokument.
 
-I uppföljningsrapport intern kontroll, som behandlas i kommun- Härutöver finns ett årshjul för information till KSAU som uppges
-styrelsen redovisas årets riskanalys och årets arbete med intern vara en del av uppsiktsplikten. Av årshjulet framgår bland annat
-kontroll på ett kommunövergripande plan. Uppföljningen är information om näringsliv, hållbar utveckling, internkontroll,
-begränsad till de tre observerade kommungemensamma säkerhet och beredskap samt kommunikation. Rapporteringen
-riskerna.                                      sker muntligt till KSAU. Skriftligt underlag från rapporteringen i
-KSAU går vidare till kommunstyrelsen.
+I uppföljningsrapport intern kontroll, som behandlas i kommun-
+styrelsen redovisas årets riskanalys och årets arbete med intern
+kontroll på ett kommunövergripande plan. Uppföljningen är
+
+begränsad till de tre observerade kommungemensamma
+riskerna.
+
 I uppföljningsrapporten för intern kontroll presenteras också
-
 bland annat följande.
-► Resultat av annan granskning av kommunens verksamhet 3.4. Fastställda former för rapportering till fullmäktige
-(bland annat granskningar av kommunrevisionen, Nedan redovisas våra iakttagelser kring omfattningen på
-länsstyrelsen, Skolinspektionen, Inspektionen för vård och fastställda former för rapporteringen till fullmäktige.
-omsorg (IVO) samt Justitieombudsmannen (JO).
-► Resultat av granskning och uppföljning av privata utförare i Av kommunstyrelsens reglemente framgår att kommunstyrelsen
-de nämnder där detta finns.                  två gånger per år ska rapportera till fullmäktige hur samtliga
+► Resultat av annan granskning av kommunens verksamhet
+(bland annat granskningar av kommunrevisionen,
+länsstyrelsen, Skolinspektionen, Inspektionen för vård och
 
-► Avtalssamverkan och annan samverkan.         kommunens verksamheter utvecklas mot bakgrund av fastlagda
-mål och hur den ekonomiska ställningen är under budgetåret.
-Kommunstyrelsen tar vidare del av dataskyddsombudets (DSO) Detta sker genom delårsbokslut och helårsbokslut.
+omsorg (IVO) samt Justitieombudsmannen (JO).
+► Resultat av granskning och uppföljning av privata utförare i
+de nämnder där detta finns.
+► Avtalssamverkan och annan samverkan.
+
+Kommunstyrelsen tar vidare del av dataskyddsombudets (DSO)
 årsrapport som avser nämnderna samt Eksta och Tempohus AB
 samt Stiftelsen Tjolöholm slott. I denna sammanfattar DSO sin
 
 10 Ärende KS-2024-00026
+
+bild av data- och integritetsskyddet i kommunen under det
+gångna året.
+
+Kommunstyrelsen tar också regelbundet del av uppföljning av ej
+verkställda beslut enligt socialtjänstlagen samt avstämning av
+
+lokalplanering. På kommunstyrelsens sammanträden finns
+stående informationspunkter om bland annat information om
+aktuella händelser från nämnder, bolag, intresseorganisationer
+(SKR, GR med flera).
+
+Härutöver finns ett årshjul för information till KSAU som uppges
+vara en del av uppsiktsplikten. Av årshjulet framgår bland annat
+information om näringsliv, hållbar utveckling, internkontroll,
+
+säkerhet och beredskap samt kommunikation. Rapporteringen
+sker muntligt till KSAU. Skriftligt underlag från rapporteringen i
+KSAU går vidare till kommunstyrelsen.
+
+3.4. Fastställda former för rapportering till fullmäktige
+Nedan redovisas våra iakttagelser kring omfattningen på
+fastställda former för rapporteringen till fullmäktige.
+
+Av kommunstyrelsens reglemente framgår att kommunstyrelsen
+
+två gånger per år ska rapportera till fullmäktige hur samtliga
+kommunens verksamheter utvecklas mot bakgrund av fastlagda
+mål och hur den ekonomiska ställningen är under budgetåret.
+Detta sker genom delårsbokslut och helårsbokslut.
+
 10
 
 <!-- sida 442 -->
@@ -16506,52 +16693,87 @@ Någon dokumentation kring fastställda former för rapportering i
 <!-- sida 444 -->
 
 4.2. Slutsatser och rekommendationer
-Granskningens syfte har varit att bedöma om kommunstyrelsen Vidare saknas ett uttalande från kommunstyrelsen om huruvida
-utövar sin uppsiktsplikt över den kommunala verksamheten på bolagens verksamhet varit förenlig med det fastställda
-ett ändamålsenligt sätt. Vår sammanfattande bedömning utifrån kommunala ändamålet och utförts inom ramen för de
-granskningens syfte och grunderna för ansvarsprövning är att kommunala befogenheterna i det årliga ärende om bolagens
-kommunstyrelsen utövar sin uppsiktplikt på ett i huvudsak årsredovisning som uppges utgöra underlaget för den förstärkta
-ändamålsenligt sätt.                           uppsiktsplikten över bolagen.
+Granskningens syfte har varit att bedöma om kommunstyrelsen
+utövar sin uppsiktsplikt över den kommunala verksamheten på
+ett ändamålsenligt sätt. Vår sammanfattande bedömning utifrån
+granskningens syfte och grunderna för ansvarsprövning är att
 
-Kommunstyrelsen utövar sin uppsiktsplikt inom ramen för Slutligen finns otydligheter kring huruvida uppföljningen av
-processen för den ordinarie styrningen och uppföljningen genom Tempohus omfattas av den protokollförda dialog som hålls med
-beslut om budget och plan samt uppföljning genom delårs- och Eksta som delges kommunstyrelsen. I detta sammanhang
-helårsbokslut. Härutöver utövas uppsiktsplikten genom noteras även att det inte framgår att det sker någon uppföljning
-uppföljning av internkontroll, andra granskningar av nämndernas av kommunens stiftelse idag.
+kommunstyrelsen utövar sin uppsiktplikt på ett i huvudsak
+ändamålsenligt sätt.
+
+Kommunstyrelsen utövar sin uppsiktsplikt inom ramen för
+processen för den ordinarie styrningen och uppföljningen genom
+beslut om budget och plan samt uppföljning genom delårs- och
+helårsbokslut. Härutöver utövas uppsiktsplikten genom
+uppföljning av internkontroll, andra granskningar av nämndernas
+
 verksamheter samt uppföljning av privata utförare.
-Uppsiktsplikten av nämnderna bedöms härmed ändamålsenlig. Utifrån granskningen rekommenderar vi kommunstyrelsen att:
+Uppsiktsplikten av nämnderna bedöms härmed ändamålsenlig.
 
-► Överväga att besluta om riktlinjer för kommunstyrelsens
-Vi bedömer däremot att det finns en bristande överskådlighet av uppsikt som tydliggör uppsiktens inriktning, omfattning och
-uppsiktsplikten utifrån ett helhetsperspektiv avseende gemen- genomförande samt former för rapporteringen till fullmäktige
-samma nämnder, kommunalförbund, bolag, stiftelser och i syfte att skapa en transparens och överskådlighet av
-avtalssamverkan. Vi kan konstatera att kommunstyrelsen får uppsiktsplikten i dess helhet.
-information om verksamhet i andra organ än kommunens egna ► Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
-nämnder. Det saknas dock riktlinjer, rutiner och styrdokument den utökade uppsiktsplikten över kommunens bolag.
-som tydligt beskriver hur uppsikten är tänkt att genomföras. ► Säkerställa transparens och tydlighet kring årligt ärende om
-avtalssamverkan i enlighet med 9 kap. 38 § KL.
+Vi bedömer däremot att det finns en bristande överskådlighet av
+uppsiktsplikten utifrån ett helhetsperspektiv avseende gemen-
+samma nämnder, kommunalförbund, bolag, stiftelser och
+avtalssamverkan. Vi kan konstatera att kommunstyrelsen får
+information om verksamhet i andra organ än kommunens egna
+
+nämnder. Det saknas dock riktlinjer, rutiner och styrdokument
+som tydligt beskriver hur uppsikten är tänkt att genomföras.
+
 Det finns en redovisning över vilken avtalssamverkan som finns
-
-i kommunen i uppföljningsrapport intern kontroll. Hur den Göteborg den 27 oktober 2025
+i kommunen i uppföljningsrapport intern kontroll. Hur den
 verksamhet som bedrivs genom denna avtalssamverkan följs
-upp framgår dock inte. Det finns också viss otydlighet kring årlig Johanna Rössberger Karin Knutsson Friberg
-rapportering från kommunstyrelsen till fullmäktige av Verksamhetsrevisor Certifierad kommunal yrkesrevisor
-kommunens samverkan. Denna bedömning gäller oaktat Ernst & Young AB Ernst & Young AB
-omfattningen på förekomst av eventuell avtalssamverkan.             Kvalitetssäkrare
+upp framgår dock inte. Det finns också viss otydlighet kring årlig
+rapportering från kommunstyrelsen till fullmäktige av
+kommunens samverkan. Denna bedömning gäller oaktat
+
+omfattningen på förekomst av eventuell avtalssamverkan.
+
+Vidare saknas ett uttalande från kommunstyrelsen om huruvida
+bolagens verksamhet varit förenlig med det fastställda
+kommunala ändamålet och utförts inom ramen för de
+kommunala befogenheterna i det årliga ärende om bolagens
+årsredovisning som uppges utgöra underlaget för den förstärkta
+
+uppsiktsplikten över bolagen.
+
+Slutligen finns otydligheter kring huruvida uppföljningen av
+Tempohus omfattas av den protokollförda dialog som hålls med
+Eksta som delges kommunstyrelsen. I detta sammanhang
+noteras även att det inte framgår att det sker någon uppföljning
+av kommunens stiftelse idag.
+
+Utifrån granskningen rekommenderar vi kommunstyrelsen att:
+►  Överväga att besluta om riktlinjer för kommunstyrelsens
+uppsikt som tydliggör uppsiktens inriktning, omfattning och
+genomförande samt former för rapporteringen till fullmäktige
+i syfte att skapa en transparens och överskådlighet av
+uppsiktsplikten i dess helhet.
+►  Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
+den utökade uppsiktsplikten över kommunens bolag.
+
+►  Säkerställa transparens och tydlighet kring årligt ärende om
+avtalssamverkan i enlighet med 9 kap. 38 § KL.
+
+Göteborg den 27 oktober 2025
+
+Johanna Rössberger  Karin Knutsson Friberg
+Verksamhetsrevisor  Certifierad kommunal yrkesrevisor
+Ernst & Young AB    Ernst & Young AB
+Kvalitetssäkrare
 
 13
 
 <!-- sida 445 -->
 
-Bilaga 1. Revisionskriterier                   Kommunstyrelsens reglemente
+Bilaga 1. Revisionskriterier                    Kommunstyrelsens reglemente
 Av  kommunstyrelsens reglemente framgår bl.a. att
-kommunstyrelsen är kommunens  ledande politiska
+kommunstyrelsen är kommunens ledande politiska
 Kommunallagen (KL)
 förvaltningsorgan. Den har ett helhetsansvar för att leda,
 Av 6 kap. 1 § KL framgår att styrelsen ska leda och samordna
 samordna och följa kommunens verksamheter, utveckling
 förvaltningen av kommunens angelägenheter och ha uppsikt
-och  ekonomiska ställning (§ 1). Vidare anges att
+och ekonomiska ställning (§ 1). Vidare anges att
 över övriga nämnders och eventuella gemensamma nämnders
 kommunstyrelsen ska utöva uppsikt över övriga nämnders och
 verksamhet. Styrelsen ska även ha uppsikt över sådan
@@ -16561,32 +16783,42 @@ sådan avtalssamverkan som sker enligt 9 kap. 37 § KL eller
 lag eller författning samt över kommunal verksamhet som
 enligt annan lag eller författning (3 § p 3).
 bedrivs i sådana juridiska personer som avses i 10 kap. 2–6 §§
+
 och sådana kommunalförbund som kommunen eller regionen
-I 11 § regleras hur kommunstyrelsens uppföljning. Här anges
 är medlem i.
-bl.a. att kommunstyrelsen ska följa upp hur den interna
+
 Nämndernas ansvar framgår av 6 kap. 6 § KL av vilken framgår
-kontrollen sköts i nämnderna, att kommunstyrelsen två gånger
 bl.a. att nämnderna var och en inom sitt område ska se till att
-per år ska rapportera till kommunfullmäktige hur samtliga
 verksamheten bedrivs i enlighet med de mål och riktlinjer som
-kommunens verksamheter utvecklas mot bakgrund av fastlagda
 fullmäktige har bestämt samt de bestämmelser i lag eller annan
-mål och hur den ekonomiska ställningen är under budgetåret
 författning som gäller för verksamheten.
+
+De ska också se till att den interna kontrollen är tillräcklig för att
+förebygga fel och oegentligheter i verksamheten, och att
+
+I 11 § regleras hur kommunstyrelsens uppföljning. Här anges
+bl.a. att kommunstyrelsen ska följa upp hur den interna
+kontrollen sköts i nämnderna, att kommunstyrelsen två gånger
+per år ska rapportera till kommunfullmäktige hur samtliga
+kommunens verksamheter utvecklas mot bakgrund av fastlagda
+
+mål och hur den ekonomiska ställningen är under budgetåret
 samt en gång årligen till kommunfullmäktige rapportera om
-De ska också se till att den interna kontrollen är tillräcklig för att kommunens avtalssamverkan enligt 9 kap. 37 § kommunallagen
-förebygga fel och oegentligheter i verksamheten, och att eller enligt annan lag eller författning.
+kommunens avtalssamverkan enligt 9 kap. 37 § kommunallagen
+eller enligt annan lag eller författning.
+
 verksamheten bedrivs på ett i övrigt tillfredsställande sätt.
-Gemensamt  reglemente för kommunstyrelsen och
+Gemensamt reglemente för kommunstyrelsen och
 Styrelsen har vidare ålagts en förstärkt uppsiktsplikt avseende nämnderna
 sådan företagsverksamhet som bedrivs i aktiebolagsform. Av 6 Av 6 § framgår bl.a. att nämnder ska redovisa till kommun-
 kap. 9 § KL framgår bl.a. att styrelsen i årliga beslut för varje fullmäktige hur de har fullgjort de uppdrag som
+
 sådant aktiebolag som avses i 10 kap. 2 § ska pröva om den kommunfullmäktige har lämnat till dem. Redovisning ska ske
 verksamhet som bolaget har bedrivit under föregående enligt riktlinjer som fastställs av kommunfullmäktige.
 kalenderår har varit förenlig med det fastställda kommunala Redovisningen lämnas till kommunstyrelsen som samordnar de
 ändamålet och utförts inom ramen för de kommunala olika nämndernas redovisningar.
 befogenheterna.
+
 14
 
 <!-- sida 446 -->

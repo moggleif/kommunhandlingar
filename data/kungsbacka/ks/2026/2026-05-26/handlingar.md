@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.41c3c8151a01f3423c0131b2/1787300369
 sha256: 603f11ca59d1352bc9a01a239380f9fd33b44a3c98aacb00261540bd8a854896
 bytes: 205915322
 sidor: 950
-hamtad: 2026-10-24T09:48:46+00:00
-konverterad: 2026-10-24T09:59:49+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-07T00:49:05+00:00
+konverterad: 2026-11-07T01:04:31+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [80, 83, 84, 176, 180, 183, 184, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 333, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 610, 611, 623, 626, 629, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 643, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 659, 660, 661, 662, 663, 664, 665, 668, 670, 674, 675, 676, 677, 678, 680, 681, 682, 683, 684, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 706, 707, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 764, 765, 766, 767, 768, 769, 770, 771, 772, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 792, 793, 794, 795, 796, 797, 798, 799, 919, 920, 941, 950]
 figurer: [23, 34, 46, 50, 52, 54, 56, 57, 61, 62, 63, 64, 65, 66, 67, 71, 76, 80, 83, 84, 86, 90, 93, 94, 95, 97, 98, 99, 100, 107, 108, 109, 110, 119, 148, 159, 161, 164, 165, 166, 167, 170, 175, 180, 183, 184, 186, 187, 188, 189, 190, 192, 193, 194, 195, 197, 198, 199, 200, 209, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 309, 313, 321, 323, 324, 325, 340, 341, 371, 374, 378, 379, 384, 386, 391, 397, 398, 399, 400, 401, 402, 404, 405, 406, 407, 410, 412, 414, 418, 420, 426, 430, 437, 442, 447, 450, 451, 453, 462, 464, 465, 466, 467, 473, 474, 475, 477, 478, 481, 495, 506, 510, 512, 514, 516, 517, 519, 520, 521, 524, 525, 528, 529, 532, 536, 537, 540, 544, 548, 549, 554, 558, 560, 562, 564, 566, 567, 571, 573, 574, 578, 591, 592, 593, 594, 596, 601, 603, 604, 605, 606, 607, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 641, 642, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 662, 664, 665, 666, 667, 668, 670, 674, 675, 676, 677, 678, 679, 683, 684, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 698, 699, 700, 701, 702, 703, 705, 706, 707, 709, 725, 740, 741, 742, 743, 744, 745, 817, 893]
 tolkade: []
@@ -1541,100 +1541,180 @@ ALLIANSENS SKRIVELSE
 
 För    trygghet,         frihet     och     framtidstro
 
-En värdig och trygg äldreomsorg
 Alliansens budget för 2027 är en budget för det som är viktigt
-på riktigt. Den skapar förutsättningar för en trygg uppväxt för De som byggt vår kommun förtjänar en äldreomsorg präglad av
-våra barn, en värdig välfärd för våra äldre och ett samhälle där kvalitet, kontinuitet och respekt. Alliansen prioriterar en omsorg
-människor känner trygghet i vardagen. Kungsbacka är och ska där den enskildes behov står i centrum, med hög personalkontinu­
-förbli en fantastisk kommun där människor vill bo, starta företag itet, valfrihet och trygghet. Vi säkerställer god bemanning, stärker
-och bygga sin framtid. Det är ett kvitto på att kommunen fungerar. det förebyggande arbetet och utvecklar fler boendeformer som möter
-Utvecklingen ska ske med omtanke och kvalitet, så att Kungsbacka olika behov.
+på riktigt. Den skapar förutsättningar för en trygg uppväxt för
+våra barn, en värdig välfärd för våra äldre och ett samhälle där
+människor känner trygghet i vardagen. Kungsbacka är och ska
+förbli en fantastisk kommun där människor vill bo, starta företag
+och bygga sin framtid. Det är ett kvitto på att kommunen fungerar.
+Utvecklingen ska ske med omtanke och kvalitet, så att Kungsbacka
 fortsätter vara en plats där människor känner sig hemma.
-Våra elever ska fyllas med kunskap och framtidstro, våra företagare Vi fortsätter utveckla arbetssätt, kompetens och valfrihet för att
-ska ges goda förutsättningar att nå framgång och våra äldre ska få omsorgen ska vara både mänsklig och modern. Välfärdsteknik
-en omsorg präglad av frihet och värdighet. Kungsbacka är, och ska införs för att öka självständigheten och frigöra tid för personalens
-fortsatt vara, en kommun att känna stolthet över. kärnuppgifter. För att äldre ska möta personal de känner igen görs
-en särskild satsning på stärkt personalkontinuitet genom höjd
-Vår kommun står inför fortsatt befolkningstillväxt, samtidigt som grundbemanning.
+Våra elever ska fyllas med kunskap och framtidstro, våra företagare
+ska ges goda förutsättningar att nå framgång och våra äldre ska få
+en omsorg präglad av frihet och värdighet. Kungsbacka är, och ska
+fortsatt vara, en kommun att känna stolthet över.
+
+Vår kommun står inför fortsatt befolkningstillväxt, samtidigt som
 antalet barn minskar. Det är en direkt följd av den demografiska
-God kvalitet på maten som serveras.
 utveckling vi ser i hela västvärlden. Fler äldre och färre i arbetsför
-ålder innebär ökade krav på omsorg, infrastruktur och samhälls­ Vi satsar på en fortsatt god kvalitet på maten som serveras till våra
-service. Samtidigt påverkar ekonomisk osäkerhet och ökade barn och äldre. En satsning som är särskilt viktig i tider med ökade
-kostnader kommunens förutsättningar. I detta läge krävs politiskt kostnader för hushållen, då maten i skolan är en viktig måltid för
-ledarskap som prioriterar det viktigaste. Alliansen fortsätter den de flesta barn och ungdomar. För att orka hela dagen i skolan är det
-linje som gjort Kungsbacka till en av Sveriges mest välskötta viktigt att vi serverar god mat som eleverna äter och tycker om. Även
-kommuner: ordning och reda i ekonomin, tydliga mål och förmågan för de äldre är det viktigt med god och näringsrik mat som de tycker
-att säga nej när det behövs.      om. I årets budget utökar vi återigen budgeten för att öka kvalitén på
-råvarorna till måltiderna.
+ålder innebär ökade krav på omsorg, infrastruktur och samhälls­
+service. Samtidigt påverkar ekonomisk osäkerhet och ökade
+kostnader kommunens förutsättningar. I detta läge krävs politiskt
+ledarskap som prioriterar det viktigaste. Alliansen fortsätter den
+linje som gjort Kungsbacka till en av Sveriges mest välskötta
+kommuner: ordning och reda i ekonomin, tydliga mål och förmågan
+att säga nej när det behövs.
+
 Trygg uppväxt för varje barn
-Barn och unga är vår viktigaste investering. En trygg uppväxt Självförsörjningsgraden av livsmedel i Sverige är för låg och måste
-börjar i familjen och fortsätter i förskolan och skolan. Fokus ligger höjas. I Kungsbacka fortsätter vi därför att köpa en hög andel
-på kunskap, studiero och tidiga insatser. Vi stärker elevhälsan, närproducerat för att stödja svenskt jordbruk.
+Barn och unga är vår viktigaste investering. En trygg uppväxt
+börjar i familjen och fortsätter i förskolan och skolan. Fokus ligger
+på kunskap, studiero och tidiga insatser. Vi stärker elevhälsan,
 kunskapsuppdraget och kvaliteten i undervisningen. Extra stöd ges
-Ett tryggt samhälle att leva och verka i
 till dem som behöver, och spetsutbildningar införs för dem som vill
-gå längre. Skolan ska präglas av tydliga förväntningar, engagerade Trygghet är en förutsättning för frihet. Vi prioriterar det brotts­
-lärare och en arbetsmiljö som ger både elever och personal goda förebyggande arbetet, samverkar med polis och andra aktörer samt
-förutsättningar att lyckas. Ingen elev ska lämna grundskolan utan insatser som ökar tryggheten i offentliga miljöer. För att ytterligare
-fullgoda kunskaper. För att fler barn ska nå sina drömmar görs en stärka det arbetet görs en särskild satsning på brottsförebyggande
-särskild på stärkt utbildning. Den ska leda till höjda meritvärden arbete för att nå ut till fler både i den offentliga miljön och den
-och ökad andel elever som lämnar grundskolan med behörighet till digitala. Krafttag tas för att stoppa rekrytering av barn och unga
-gymnasieskolan och fler som lämnar gymnasiet med fullständiga till kriminella nätverk. Här behövs samverkan mellan många
-betyg. Varje elev ska ha förutsättningar att lyckas i skolan och må förvaltningar men även samhället.
+gå längre. Skolan ska präglas av tydliga förväntningar, engagerade
+lärare och en arbetsmiljö som ger både elever och personal goda
+förutsättningar att lyckas. Ingen elev ska lämna grundskolan utan
+fullgoda kunskaper. För att fler barn ska nå sina drömmar görs en
+särskild på stärkt utbildning. Den ska leda till höjda meritvärden
+och ökad andel elever som lämnar grundskolan med behörighet till
+gymnasieskolan och fler som lämnar gymnasiet med fullständiga
+betyg. Varje elev ska ha förutsättningar att lyckas i skolan och må
 gott på vägen.
+
+En trygg uppväxt är grunden för framtida trygghet och framtida
+arbetskraft. Vi gör därför en särskild satsning på projektet Trygg
+uppväxt. Tillsammans med civilsamhället förstärker vi även
+det förebyggande arbetet, så att fler unga väljer gemenskap och
+framtidstro framför utanförskap. Föreningsliv, idrott, kultur och
+öppna mötesplatser har en viktig roll i detta, då de skapar trygga
+sammanhang och meningsfull fritid för barn och unga.
+
+En värdig och trygg äldreomsorg
+De som byggt vår kommun förtjänar en äldreomsorg präglad av
+kvalitet, kontinuitet och respekt. Alliansen prioriterar en omsorg
+där den enskildes behov står i centrum, med hög personalkontinu­
+itet, valfrihet och trygghet. Vi säkerställer god bemanning, stärker
+det förebyggande arbetet och utvecklar fler boendeformer som möter
+olika behov.
+
+Vi fortsätter utveckla arbetssätt, kompetens och valfrihet för att
+omsorgen ska vara både mänsklig och modern. Välfärdsteknik
+införs för att öka självständigheten och frigöra tid för personalens
+kärnuppgifter. För att äldre ska möta personal de känner igen görs
+en särskild satsning på stärkt personalkontinuitet genom höjd
+grundbemanning.
+
+God kvalitet på maten som serveras.
+Vi satsar på en fortsatt god kvalitet på maten som serveras till våra
+barn och äldre. En satsning som är särskilt viktig i tider med ökade
+kostnader för hushållen, då maten i skolan är en viktig måltid för
+de flesta barn och ungdomar. För att orka hela dagen i skolan är det
+viktigt att vi serverar god mat som eleverna äter och tycker om. Även
+för de äldre är det viktigt med god och näringsrik mat som de tycker
+om. I årets budget utökar vi återigen budgeten för att öka kvalitén på
+råvarorna till måltiderna.
+
+Självförsörjningsgraden av livsmedel i Sverige är för låg och måste
+höjas. I Kungsbacka fortsätter vi därför att köpa en hög andel
+närproducerat för att stödja svenskt jordbruk.
+
+Ett tryggt samhälle att leva och verka i
+Trygghet är en förutsättning för frihet. Vi prioriterar det brotts­
+förebyggande arbetet, samverkar med polis och andra aktörer samt
+insatser som ökar tryggheten i offentliga miljöer. För att ytterligare
+stärka det arbetet görs en särskild satsning på brottsförebyggande
+arbete för att nå ut till fler både i den offentliga miljön och den
+digitala. Krafttag tas för att stoppa rekrytering av barn och unga
+till kriminella nätverk. Här behövs samverkan mellan många
+förvaltningar men även samhället.
+
 En väl fungerande kärnverksamhet är i sig trygghetsskapande. När
-En trygg uppväxt är grunden för framtida trygghet och framtida skolan fungerar, när det finns en meningsfull fritid, när social­
-arbetskraft. Vi gör därför en särskild satsning på projektet Trygg tjänsten agerar tidigt och när det offentliga rummet upplevs som
-uppväxt. Tillsammans med civilsamhället förstärker vi även ordnat och säkert. Även i år görs en särskild satsning på förebyg­
-det förebyggande arbetet, så att fler unga väljer gemenskap och gande insatser. Vi ser allt fler unga tjejer som hamnar i riskzonen
-framtidstro framför utanförskap. Föreningsliv, idrott, kultur och för kriminalitet, här måste vi agera. En annan grupp vi vill stödja
-öppna mötesplatser har en viktig roll i detta, då de skapar trygga är “Skuggsyskon”, syskon till någon med stora behov hamnar lätt i
-sammanhang och meningsfull fritid för barn och unga. skymundan, dessa vill vi stödja för att få en bra uppväxt.
+skolan fungerar, när det finns en meningsfull fritid, när social­
+tjänsten agerar tidigt och när det offentliga rummet upplevs som
+ordnat och säkert. Även i år görs en särskild satsning på förebyg­
+gande insatser. Vi ser allt fler unga tjejer som hamnar i riskzonen
+för kriminalitet, här måste vi agera. En annan grupp vi vill stödja
+är “Skuggsyskon”, syskon till någon med stora behov hamnar lätt i
+skymundan, dessa vill vi stödja för att få en bra uppväxt.
+
 4 Kommunbudget 2027 och plan 2028–2029
 
 <!-- sida 46 -->
 
-ALLIANSENS SKRIVELSE
+Med fler sociala mötesplatser vill vi motverka den ofrivillig
+ensamheten och utanförskap inom olika grupper och åldrar. Här
+spelar även biblioteken en viktig roll, både i vardagen och i kris
 
-Med fler sociala mötesplatser vill vi motverka den ofrivillig grön och välkomnande kommun. Välskötta miljöer skapar trygghet,
-ensamheten och utanförskap inom olika grupper och åldrar. Här trivsel och stolthet. Vi satsar därför medel för ett långsiktigt
-spelar även biblioteken en viktig roll, både i vardagen och i kris underhåll och bra skötsel av våra offentliga miljöer.
+Även 2027 avsätts medel för att främja välmående och motverka
+psykisk ohälsa. Insatser görs i skolan, på fritiden och för äldre.
+Kommunen ska fungera även vid kriser och ytterst krig därför är
+arbetet med civilberedskap prioriterat. Vi fortsätter arbetet med
+robusta lokaler och trygghetspunkter och investerar bland annat i
+reservkraft, nödvatten och livsmedel.
 
-Även 2027 avsätts medel för att främja välmående och motverka För att underlätta invånarnas vardag bygger vi ut vägarna så att
-psykisk ohälsa. Insatser görs i skolan, på fritiden och för äldre. det blir lättare att ta sig fram, både med bil och kollektivtrafik.
-Kommunen ska fungera även vid kriser och ytterst krig därför är Samtidigt utvecklar vi gång­ och cykelvägar i och utanför staden.
-arbetet med civilberedskap prioriterat. Vi fortsätter arbetet med Återbruk och återanvändning ska vara en självklarhet när vi bygger
-robusta lokaler och trygghetspunkter och investerar bland annat i nytt eller renoverar, likaså att våra bilar och transporter ska vara
-reservkraft, nödvatten och livsmedel. fossilfria. Arbetet med energieffektivisering och utbyggnad av
-solceller på kommunens tak är delar i vårt Agenda 2030 arbete,
 Ett starkt och välmående näringsliv
-likaså vårt arbete med skyfallshantering, översvämningsskydd och
-Våra företagare är en av Kungsbackas största styrkor. De skapar det yttre skyddet mot havet. Omställning till planteringar som
-jobb, innovation och livskraft i hela kommunen. Vi fortsätter gynnar den biologiska mångfalden och plantering av fler träd är
-förenkla processer och skapa goda förutsättningar för både små och några andra viktiga delar.
+Våra företagare är en av Kungsbackas största styrkor. De skapar
+jobb, innovation och livskraft i hela kommunen. Vi fortsätter
+förenkla processer och skapa goda förutsättningar för både små och
 stora företag att växa.
-Respekt för skattebetalarnas pengar
-Det ska vara enkelt att komma i kontakt med kommunen och Alliansens budget vilar på ekonomiskt ansvarstagande. Vi tar ansvar
-bemötandet ska hålla hög kvalitet. När fler processer automatiseras för befintliga byggnader och ledningar genom att avsätta rejält
-behöver taxor och avgifter sänkas så att de speglar den faktiska med reinvesteringsmedel, särskilt i VA­nätet där vi även bygger nya
-tidsåtgången. Ett starkt näringsliv är avgörande för kommunens ledningar. Varje skattekrona är resultatet av människors arbete och
-välstånd och för att finansiera den välfärd vi vill erbjuda. Tidigare ska användas effektivt och med fokus på kärnverksamheterna.
-i vår antogs Alliansens kraftfulla initiativ kring förbättringar av En stark ekonomi är en förutsättning för långsiktighet och
-företagsklimatet.                 handlingsfrihet. I år lägger vi ett direktiv om effektivisering av
-den interna administrationen samt ett om ökat samutnyttjande av
+
+Det ska vara enkelt att komma i kontakt med kommunen och
+bemötandet ska hålla hög kvalitet. När fler processer automatiseras
+behöver taxor och avgifter sänkas så att de speglar den faktiska
+tidsåtgången. Ett starkt näringsliv är avgörande för kommunens
+välstånd och för att finansiera den välfärd vi vill erbjuda. Tidigare
+i vår antogs Alliansens kraftfulla initiativ kring förbättringar av
+företagsklimatet.
+
 Vår kommun ska växa med omtanke och hållbarhet
-kommunens lokaler.
 Utvecklingen ska ske med respekt för befintlig bebyggelse och
-gröna miljöer. Vi planerar för fler småhus, olika former av trygg­ Med denna budget fortsätter Alliansen att ta ansvar för Kungs­
-hetsboenden och levande stadsdelar med god gestaltning, idrott och backas utveckling. Vi väljer trygghet före otydlighet, kvalitet före
-kulturanläggningar, samt en infrastruktur som håller över tid. kortsiktighet och ekonomiskt ansvar före lånedrivande löften.
-Stadsutveckling handlar om mer än bostäder – det handlar om Så bygger vi ett starkt Kungsbacka – för dagens invånare och för
-livsmiljö. Grönområden, närhet till service och trygga bostadsom­ kommande generationer.
+gröna miljöer. Vi planerar för fler småhus, olika former av trygg­
+hetsboenden och levande stadsdelar med god gestaltning, idrott och
+kulturanläggningar, samt en infrastruktur som håller över tid.
+Stadsutveckling handlar om mer än bostäder – det handlar om
+livsmiljö. Grönområden, närhet till service och trygga bostadsom­
 råden ska vara vägledande. Vi gör därför en särskild satsning på en
 
-Lisa Andersson   Fredrik Hansson    Monica Neptun   Fredrik Kollberg
-moderaterna       centerpartiet      liberalerna   kristdemokraterna
+Lisa Andersson    Fredrik Hansson
+moderaterna      centerpartiet
+
+ALLIANSENS SKRIVELSE
+
+grön och välkomnande kommun. Välskötta miljöer skapar trygghet,
+trivsel och stolthet. Vi satsar därför medel för ett långsiktigt
+underhåll och bra skötsel av våra offentliga miljöer.
+
+För att underlätta invånarnas vardag bygger vi ut vägarna så att
+det blir lättare att ta sig fram, både med bil och kollektivtrafik.
+Samtidigt utvecklar vi gång­ och cykelvägar i och utanför staden.
+Återbruk och återanvändning ska vara en självklarhet när vi bygger
+nytt eller renoverar, likaså att våra bilar och transporter ska vara
+fossilfria. Arbetet med energieffektivisering och utbyggnad av
+solceller på kommunens tak är delar i vårt Agenda 2030 arbete,
+likaså vårt arbete med skyfallshantering, översvämningsskydd och
+det yttre skyddet mot havet. Omställning till planteringar som
+gynnar den biologiska mångfalden och plantering av fler träd är
+några andra viktiga delar.
+
+Respekt för skattebetalarnas pengar
+Alliansens budget vilar på ekonomiskt ansvarstagande. Vi tar ansvar
+för befintliga byggnader och ledningar genom att avsätta rejält
+med reinvesteringsmedel, särskilt i VA­nätet där vi även bygger nya
+ledningar. Varje skattekrona är resultatet av människors arbete och
+ska användas effektivt och med fokus på kärnverksamheterna.
+En stark ekonomi är en förutsättning för långsiktighet och
+handlingsfrihet. I år lägger vi ett direktiv om effektivisering av
+den interna administrationen samt ett om ökat samutnyttjande av
+kommunens lokaler.
+
+Med denna budget fortsätter Alliansen att ta ansvar för Kungs­
+backas utveckling. Vi väljer trygghet före otydlighet, kvalitet före
+kortsiktighet och ekonomiskt ansvar före lånedrivande löften.
+Så bygger vi ett starkt Kungsbacka – för dagens invånare och för
+kommande generationer.
+
+Monica Neptun   Fredrik Kollberg
+liberalerna  kristdemokraterna
 
 Kommunbudget 2027 och plan 2028–2029 5
 
@@ -1701,122 +1781,213 @@ Annas Omsorg
 
 <!-- sida 48 -->
 
+Politik
+Den politiska organisationen i Kungsbacka kommun består
+av kommunfullmäktige, kommunstyrelsen, kommunrevi­
+sion, elva facknämnder, två fullmäktige beredningar och tre
+samverkansnämnder. Kommun styrelsen och facknämn­
+derna har förvaltningar som sköter det dagliga arbetet.
+
+Kommunen styrs av "Alliansen", bestående av Modera­
+terna, Centerpartiet, Liberalerna och Kristdemokraterna.
+Mandaten i kommunfullmäktige är fördelade enligt
+följande: Moderaterna 19, Socialdemokraterna 12,
+Sverigedemokraterna 10, Centerpartiet 6, Liberalerna 4,
+Kristdemokraterna 4, Miljöpartiet de gröna 2, Vänsterpar­
+tiet 2 och Kungsbackaborna 2.
+
+Byggnadsnämnden
+Byggnadsnämnden ansvarar för kommunens uppgifter
+inom plan och bygglagen. Det innebär framför allt att
+hantera frågor om förhandsbesked, bygglov, rivningslov
+samt tillsyn över byggnadsverksamheten. Nämnden
+ansvarar även för kommunens detaljplaneverksamhet samt
+kart och mätningsverksamhet. Sedan 2020 har nämnden
+gemensam förvaltningsorganisation med nämnden för
+Miljö & Hälsoskydd.
+
+Individ & Familjeomsorg
+Nämnden för Individ & Familjeomsorg ansvarar för
+kommunens individ och familjeomsorg. Det innefattar
+social barn ­ och ungdomsvård, missbruks ­ och bero­
+endevård, familjerätt, familjerådgivning samt medling
+vid ungdomsbrott. Nämnden erbjuder också stöd och
+hjälp vid våld i nära relationer. Nämnden för Individ &
+Familjeomsorg ansvarar för att tillhandahålla kommunens
+skyldigheter avseende vissa omsorger, insatser och vård för
+personer med funktionshinder. Nämnden ansvarar också
+för sysselsättning och arbetsträning för personer i yrkes­
+verksam ålder med psykiskt funktions hinder i enlighet
+med psykiatrisamordningens definition av målgruppen.
+
+Förskola & Grundskola
+Nämnden för Förskola & Grundskola ansvarar för
+kommunens förskola, grundskola, anpassad grundskola,
+fritidshem samt pedagogisk omsorg. I ansvarsområdet
+ingår även korttidstillsyn för skolungdomar över tolv år
+enligt lagen om stöd och service till vissa funktionshin­
+drade, LSS. Nämnden ansvarar även för att godkänna,
+utöva tillsyn och bevilja bidrag till fristående förskolor,
+pedagogisk omsorg och fritidshem. Nämnden lämnar
+bidrag till fristående grundskolor och har rätt till insyn i
+deras verksamhet.
+
 ORGANISATIONEN
 
-Politik                           Gymnasium & Arbetsmarknad
-Den politiska organisationen i Kungsbacka kommun består Nämnden ansvarar för utbildning i gymnasieskola,
-av kommunfullmäktige, kommunstyrelsen, kommunrevi­ anpassad gymnasieskola och kommunal vuxenutbildning
-sion, elva facknämnder, två fullmäktige beredningar och tre inklusive Komvux som särskild utbildning. Nämnden har
-samverkansnämnder. Kommun styrelsen och facknämn­ det kommunala aktivitetsansvaret för personer mellan
-derna har förvaltningar som sköter det dagliga arbetet. 16–20 år, korttidstillsyn för elever i frivilliga skolformer
+Gymnasium & Arbetsmarknad
+Nämnden ansvarar för utbildning i gymnasieskola,
+anpassad gymnasieskola och kommunal vuxenutbildning
+inklusive Komvux som särskild utbildning. Nämnden har
+det kommunala aktivitetsansvaret för personer mellan
+16–20 år, korttidstillsyn för elever i frivilliga skolformer
 samt all studie ­ och yrkesvägledning i kommunen.
-Kommunen styrs av "Alliansen", bestående av Modera­ Nämnden ansvarar för etablering av ensamkommande barn
-terna, Centerpartiet, Liberalerna och Kristdemokraterna. och nyanlända vuxna och familjer. Nämnden har också
-Mandaten i kommunfullmäktige är fördelade enligt ansvar för försörjningsstöd och övrigt ekonomiskt bistånd.
-följande: Moderaterna 19, Socialdemokraterna 12, Det gäller även vård av unga ensamkommande och
-Sverigedemokraterna 10, Centerpartiet 6, Liberalerna 4, asylsökande som har fyllt 18 år, men inte 21 år. Nämnden
-Kristdemokraterna 4, Miljöpartiet de gröna 2, Vänsterpar­ ansvarar också för enheten för arbetsmarknad.
-tiet 2 och Kungsbackaborna 2.
+Nämnden ansvarar för etablering av ensamkommande barn
+och nyanlända vuxna och familjer. Nämnden har också
+ansvar för försörjningsstöd och övrigt ekonomiskt bistånd.
+Det gäller även vård av unga ensamkommande och
+asylsökande som har fyllt 18 år, men inte 21 år. Nämnden
+ansvarar också för enheten för arbetsmarknad.
+
 Kommunrevisionen
-Byggnadsnämnden
 Kommunrevisionen har en oberoende roll i verksamheten
-Byggnadsnämnden ansvarar för kommunens uppgifter och dess uppgift är att granska och bedöma hur kommun­
-inom plan och bygglagen. Det innebär framför allt att styrelsen, nämnder och beredningar utför sina uppgifter. I
-hantera frågor om förhandsbesked, bygglov, rivningslov uppdraget ingår även att granska de kommunala bolagen
-samt tillsyn över byggnadsverksamheten. Nämnden och kommunala stiftelser.
-ansvarar även för kommunens detaljplaneverksamhet samt
+och dess uppgift är att granska och bedöma hur kommun­
+styrelsen, nämnder och beredningar utför sina uppgifter. I
+uppdraget ingår även att granska de kommunala bolagen
+och kommunala stiftelser.
+
 Kommunstyrelsen
-kart och mätningsverksamhet. Sedan 2020 har nämnden
-gemensam förvaltningsorganisation med nämnden för Kommunstyrelsen är kommunens ledande politiska
-Miljö & Hälsoskydd.               förvaltningsorgan och har ett helhetsansvar för att leda,
+Kommunstyrelsen är kommunens ledande politiska
+förvaltningsorgan och har ett helhetsansvar för att leda,
 samordna och följa kommunens verksamheter, utveckling
-Individ & Familjeomsorg
 och ekonomiska ställning. Kommunstyrelsen har fokus
-Nämnden för Individ & Familjeomsorg ansvarar för på utveckling av kommungemensamma frågor, strategisk
-kommunens individ och familjeomsorg. Det innefattar styrning, strategiskt stöd och utövar uppsikt över andra
-social barn ­ och ungdomsvård, missbruks ­ och bero­ nämnder, kommunala bolag, stiftelser och kommunalför­
-endevård, familjerätt, familjerådgivning samt medling bund. Kommunstyrelsen har också till uppgift att bereda
-vid ungdomsbrott. Nämnden erbjuder också stöd och ärenden inför kommunfullmäktiges sammanträden.
-hjälp vid våld i nära relationer. Nämnden för Individ &
+på utveckling av kommungemensamma frågor, strategisk
+styrning, strategiskt stöd och utövar uppsikt över andra
+nämnder, kommunala bolag, stiftelser och kommunalför­
+bund. Kommunstyrelsen har också till uppgift att bereda
+ärenden inför kommunfullmäktiges sammanträden.
+
 Kultur & Fritid
-Familjeomsorg ansvarar för att tillhandahålla kommunens
-skyldigheter avseende vissa omsorger, insatser och vård för Nämnden ansvarar för kommunens kultur ­ och fritidsverk­
-personer med funktionshinder. Nämnden ansvarar också samhet. Det innebär att nämnden i egen regi eller genom
-för sysselsättning och arbetsträning för personer i yrkes­ samarbetspartners driver till exempel teater, bibliotek,
-verksam ålder med psykiskt funktions hinder i enlighet kulturskola, bad och idrottsanläggningar och mötesplatser
-med psykiatrisamordningens definition av målgruppen. för unga och seniorer. Nämnden ger stöd och bidrag till
+Nämnden ansvarar för kommunens kultur ­ och fritidsverk­
+samhet. Det innebär att nämnden i egen regi eller genom
+samarbetspartners driver till exempel teater, bibliotek,
+kulturskola, bad och idrottsanläggningar och mötesplatser
+för unga och seniorer. Nämnden ger stöd och bidrag till
 olika organisationer inom området samt samordnar och
-Förskola & Grundskola
 utvecklar kulturområdet, friluftsliv, folkhälsoarbete, brotts
-Nämnden för Förskola & Grundskola ansvarar för och drogförebyggande arbete, barnrättsarbete, föräldra­
-kommunens förskola, grundskola, anpassad grundskola, skapsstöd och demokrati. Dessutom ger nämnden stöd
-fritidshem samt pedagogisk omsorg. I ansvarsområdet inom området kulturmiljö och ansvarar för kommunens
-ingår även korttidstillsyn för skolungdomar över tolv år platsvarumärke och turistinformation.
-enligt lagen om stöd och service till vissa funktionshin­
+och drogförebyggande arbete, barnrättsarbete, föräldra­
+skapsstöd och demokrati. Dessutom ger nämnden stöd
+inom området kulturmiljö och ansvarar för kommunens
+platsvarumärke och turistinformation.
+
 Miljö & Hälsoskydd
-drade, LSS. Nämnden ansvarar även för att godkänna,
-utöva tillsyn och bevilja bidrag till fristående förskolor, Nämnden för Miljö & Hälsoskydd ansvarar för
-pedagogisk omsorg och fritidshem. Nämnden lämnar prövning, tillsyn och kontroll inom främst miljöskydd
-bidrag till fristående grundskolor och har rätt till insyn i och hälsoskydd, livsmedel och receptfria läkemedel.
-deras verksamhet.
+Nämnden för Miljö & Hälsoskydd ansvarar för
+prövning, tillsyn och kontroll inom främst miljöskydd
+och hälsoskydd, livsmedel och receptfria läkemedel.
+
 Kommunbudget 2027 och plan 2028–2029 7
 
 <!-- sida 49 -->
 
 ORGANISATIONEN
 
-Gemensamma nämnder, bolag och förbund
 Nämnden medverkar också i planering inom miljö och
-hälsoskyddsområdet. Nämnden har också ansvar för Kungsbacka kommun samverkar med Region Halland
-kommunens tillstånd och tillsyn för alkoholservering och de övriga halländska kommunerna i Patientnämnden
-och försäljning av tobak och liknande produkter. Sedan Halland och i Gemensam nämnd för hemsjukvård och
-2020 har nämnden gemensam förvaltningsorganisation hjälpmedel. Kungsbacka kommun har också gemensam
-med Byggnadsnämnden. Vidare har nämnden för Miljö överförmyndarnämnd med Härryda, Mölndal, Partille
-& Hälsoskydd ingått ett samverkansavtal med Mölndals och Öckerö. Tillsammans med Arbetsförmedlingen,
-stad som innebär att Kungsbacka ska handlägga ärenden Försäkringskassan, Region Halland och övriga kommuner
-som gäller serveringstillstånd och försäljning av tobak på i Halland samverkar kommunen dessutom i Samordnings­
-uppdrag av Mölndals stad.         förbundet i Halland.
-Service                           Kommunala bolag och stiftelse
-Nämnden för Service ansvarar för kommunens lokal­ • Eksta Bostads AB är Kungsbacka kommuns bostads
-försörjning med uppdrag att bygga, förvalta och hyra ut bolag. Eksta äger och förvaltar hyresrätter samt vård
-lokaler till kommunens samtliga verksamheter. Nämnden och omsorgsboenden, förskolor och skolor samt ett
-ansvarar också för lokalvård i kommunens lokaler och fåtal kommersiella lokaler.
-måltidsverksamhet i förskolor, skolor och boenden. Dess­ • Tempohus i Kungsbacka AB är dotterbolag till Eksta
-utom ingår kundcentret med både intern och extern service Bostads AB. Bolaget har till uppgift att uppföra och
-Kungsbacka direkt, rådgivningstjänster, den interna förvalta temporära bostäder.
-supportfunktionen Service direkt, drift och utveckling • Stiftelsen Tjolöholm har i uppdrag att förvalta och
-inom it området, personalförsörjning, vikariecenter samt utveckla Tjolöholms slott.
-inköp och fordonshantering i nämndens ansvar. • Fastighets AB Sankta Gertrud. Bolaget är för närva­
-rande vilande.
+hälsoskyddsområdet. Nämnden har också ansvar för
+kommunens tillstånd och tillsyn för alkoholservering
+och försäljning av tobak och liknande produkter. Sedan
+2020 har nämnden gemensam förvaltningsorganisation
+med Byggnadsnämnden. Vidare har nämnden för Miljö
+& Hälsoskydd ingått ett samverkansavtal med Mölndals
+stad som innebär att Kungsbacka ska handlägga ärenden
+som gäller serveringstillstånd och försäljning av tobak på
+uppdrag av Mölndals stad.
+
+Service
+Nämnden för Service ansvarar för kommunens lokal­
+försörjning med uppdrag att bygga, förvalta och hyra ut
+lokaler till kommunens samtliga verksamheter. Nämnden
+ansvarar också för lokalvård i kommunens lokaler och
+måltidsverksamhet i förskolor, skolor och boenden. Dess­
+utom ingår kundcentret med både intern och extern service
+Kungsbacka direkt, rådgivningstjänster, den interna
+supportfunktionen Service direkt, drift och utveckling
+inom it området, personalförsörjning, vikariecenter samt
+inköp och fordonshantering i nämndens ansvar.
+
 Teknik
-Inera AB
 Nämnden för Teknik ansvarar för planering, drift och
-utbyggnad av samhällets infrastruktur. Det handlar till Kungsbacka kommun är dessutom delägare av Inera AB.
-exempel om gator och gatubelysning, gång och cykelvägar, Bolaget som har till uppgift att koordinera och utveckla
-allmänna platser och parker, dricksvatten och avloppsre­ digitala tjänster för regioner och kommuner ägs till största
-ning, sophämtning och återvinning samt det kommunala delen av Sveriges Kommuner och Regioner, SKR.
+utbyggnad av samhällets infrastruktur. Det handlar till
+exempel om gator och gatubelysning, gång och cykelvägar,
+allmänna platser och parker, dricksvatten och avloppsre­
+ning, sophämtning och återvinning samt det kommunala
 bredbandsnätet. Nämnden ansvarar också för trafik och
-Kommunalförbund
 parkeringsfrågor, lokala trafikföreskrifter, trafiksäkerhets­
-arbetet samt färdtjänst.          Kungsbacka kommun är tillsammans med kommunerna
-Göteborg, Härryda, Lerum, Lilla Edet, Mölndal, Partille,
+arbetet samt färdtjänst.
+
 Vård & Omsorg
-Stenungsund och Tjörn medlemmar i Räddningstjänstför­
-Nämnden för Vård & Omsorg ansvarar för myndighetsut­ bundet Storgöteborg, RSG. Räddningstjänstförbundet har
-övning och utförandet av insatser till invånare i alla åldrar som uppdrag att förhindra och begränsa olyckor, förbereda
-som har behov av vård och omsorg. Nämnden ansvarar för och genomföra räddningsinsatser, vidta åtgärder efter
-att tillgodose en vård och omsorg som är säker, har god olyckor samt medverka i samhällets krishantering.
+Nämnden för Vård & Omsorg ansvarar för myndighetsut­
+övning och utförandet av insatser till invånare i alla åldrar
+som har behov av vård och omsorg. Nämnden ansvarar för
+att tillgodose en vård och omsorg som är säker, har god
 kvalitet och som bedrivs i enlighet med socialtjänstlagen
-och hälso ­ och sjukvårdslagen samt andra föreskrifter. Tillsammans med kommunerna Ale, Alingsås, Göteborg,
-Inom ansvaret ingår både verksamhet i kommunal och Härryda, Kungälv, Lerum, Lilla Edet, Mölndal, Partille,
-privat regi. Nämnden har hälso­ och sjukvårdsansvaret Stenungsund, Tjörn och Öckerö ingår Kungsbacka även i
-i ordinärt och särskilt boende samt i verksamheter inom Göteborgsregionens kommunalförbund. Göteborgsregi­
-förvaltningen för Individ & Familjeomsorg. Ansvarsom­ onen har bland annat till uppgift att verka för samarbete
-råden inom socialtjänst är hemtjänst, vård och omsorgs­ över kommungränserna, skapa mervärde för medlemskom­
-boende, korttidsboende inklusive växelvård, delegerad munerna samt stärka regionen regionalt, nationellt och
-hemsjuk vård, dagomsorg, uppsökande verksamhet, internationellt.
+och hälso ­ och sjukvårdslagen samt andra föreskrifter.
+Inom ansvaret ingår både verksamhet i kommunal och
+privat regi. Nämnden har hälso­ och sjukvårdsansvaret
+i ordinärt och särskilt boende samt i verksamheter inom
+förvaltningen för Individ & Familjeomsorg. Ansvarsom­
+råden inom socialtjänst är hemtjänst, vård och omsorgs­
+boende, korttidsboende inklusive växelvård, delegerad
+hemsjuk vård, dagomsorg, uppsökande verksamhet,
 anhörigstöd, bostadsanpassning samt hjälpmedel.
+
 8 Kommunbudget 2027 och plan 2028–2029
+
+Gemensamma nämnder, bolag och förbund
+Kungsbacka kommun samverkar med Region Halland
+och de övriga halländska kommunerna i Patientnämnden
+Halland och i Gemensam nämnd för hemsjukvård och
+hjälpmedel. Kungsbacka kommun har också gemensam
+överförmyndarnämnd med Härryda, Mölndal, Partille
+och Öckerö. Tillsammans med Arbetsförmedlingen,
+Försäkringskassan, Region Halland och övriga kommuner
+i Halland samverkar kommunen dessutom i Samordnings­
+förbundet i Halland.
+
+Kommunala bolag och stiftelse
+• Eksta Bostads AB är Kungsbacka kommuns bostads
+bolag. Eksta äger och förvaltar hyresrätter samt vård
+och omsorgsboenden, förskolor och skolor samt ett
+fåtal kommersiella lokaler.
+• Tempohus i Kungsbacka AB är dotterbolag till Eksta
+Bostads AB. Bolaget har till uppgift att uppföra och
+förvalta temporära bostäder.
+• Stiftelsen Tjolöholm har i uppdrag att förvalta och
+utveckla Tjolöholms slott.
+• Fastighets AB Sankta Gertrud. Bolaget är för närva­
+rande vilande.
+
+Inera AB
+Kungsbacka kommun är dessutom delägare av Inera AB.
+Bolaget som har till uppgift att koordinera och utveckla
+digitala tjänster för regioner och kommuner ägs till största
+delen av Sveriges Kommuner och Regioner, SKR.
+
+Kommunalförbund
+Kungsbacka kommun är tillsammans med kommunerna
+Göteborg, Härryda, Lerum, Lilla Edet, Mölndal, Partille,
+Stenungsund och Tjörn medlemmar i Räddningstjänstför­
+bundet Storgöteborg, RSG. Räddningstjänstförbundet har
+som uppdrag att förhindra och begränsa olyckor, förbereda
+och genomföra räddningsinsatser, vidta åtgärder efter
+olyckor samt medverka i samhällets krishantering.
+
+Tillsammans med kommunerna Ale, Alingsås, Göteborg,
+Härryda, Kungälv, Lerum, Lilla Edet, Mölndal, Partille,
+Stenungsund, Tjörn och Öckerö ingår Kungsbacka även i
+Göteborgsregionens kommunalförbund. Göteborgsregi­
+onen har bland annat till uppgift att verka för samarbete
+över kommungränserna, skapa mervärde för medlemskom­
+munerna samt stärka regionen regionalt, nationellt och
+internationellt.
 
 <!-- sida 50 -->
 
@@ -1884,177 +2055,307 @@ Kommunbudget 2027 och plan 2028–2029 11
 
 OMVÄRLDSANALYS
 
-Viktiga   förhållanden            ökade folkmängden genom inflyttning från andra delar av
-landet. Eftersom antalet döda nu är fler än antalet födda är
-för  resultat   och               fortsatt befolkningstillväxt i hög grad beroende av att fler
-flyttar hit.Den statliga utredningen om minskat barnafö­
+Viktiga   förhållanden
+
+för  resultat   och
+
 ekonomisk       ställning
+
+I följande avsnitt beskriver vi faktorer i omvärlden som
+kommer ha påverkan under budgetåret och planperioden
+och som är viktiga för att förstå den kommunala koncer­
+nens utveckling, ställning och resultat. Här finns också en
+analys av väsentliga risker och osäkerhetsfaktorer.
+
+Omvärlden påverkar oss
+Världspolitiska förändringar
+Enligt Regeringskansliet befinner sig Sverige och Europa
+i det mest allvarliga säkerhetspolitiska läget sedan andra
+världskriget. Kriget i Ukraina har pågått i över fyra år
+och påverkar hela Europas säkerhet. Samtidigt bidrar
+konflikter i Mellanöstern till global instabilitet. Detta
+påverkar Europa indirekt, bland annat genom ekonomiska
+konsekvenser. USA:s utrikespolitik präglas av signaler
+om ett mer selektivt internationellt engagemang, vilket
+ökar kraven på europeiskt ansvarstagande för den egna
+säkerheten. Europa stärker därför sitt försvarssamarbete.
+Sverige är sedan 2024 medlem i Nato och deltar i det
+kollektiva försvaret.
+
+Terrorhotnivån i Sverige är sedan maj 2025 sänkt till nivå 3
+(förhöjt hot). Men det bredare säkerhetsläget innefattar hot
+från främmande makt, cyberangrepp och desinformation.
+För kommunala verksamheter kan detta bland annat
+innebära ett fortsatt behov av beredskap, robusthet och
+höga krav på informations­ och cybersäkerhet och behov
+att hantera informationspåverkan.
+
+Befolkningsförändringar
+Demografiska förändringar är en långsiktig global trend
+som påverkar ekonomier och välfärdssystem. I stora delar
+av världen, inklusive Sverige, ökar andelen äldre samtidigt
+som barnafödandet minskar. Detta innebär att färre
+personer i arbetsför ålder ska försörja fler, vilket påverkar
+både skattebas och efterfrågan på välfärdstjänster. Samti­
+digt råder brist på arbetskraft inom flera välfärdsyrken.
+
+Kungsbacka har haft en stark befolkningstillväxt över tid,
+men utvecklingen har de senaste åren varit mer varierad.
+Efter en minskning 2023 har befolkningen ökat igen från
+och med 2024, men i en lägre takt än tidigare. Under 2025
+
+12 Kommunbudget 2027 och plan 2028–2029
+
+ökade folkmängden genom inflyttning från andra delar av
+landet. Eftersom antalet döda nu är fler än antalet födda är
+fortsatt befolkningstillväxt i hög grad beroende av att fler
+flyttar hit.Den statliga utredningen om minskat barnafö­
 dande konstaterar att Sverige står inför en omfattande
 demografisk utmaning med historiskt låga födelsetal och
 en snabbt åldrande befolkning, vilket påverkar välfärd,
-I följande avsnitt beskriver vi faktorer i omvärlden som arbetsmarknad och ekonomi negativt. Utredningen
-kommer ha påverkan under budgetåret och planperioden visar att detta får stora konsekvenser för kommunernas
-och som är viktiga för att förstå den kommunala koncer­ långsiktiga planering av bostäder, skola, förskola, omsorg
-nens utveckling, ställning och resultat. Här finns också en och infrastruktur.
-analys av väsentliga risker och osäkerhetsfaktorer.
+arbetsmarknad och ekonomi negativt. Utredningen
+visar att detta får stora konsekvenser för kommunernas
+långsiktiga planering av bostäder, skola, förskola, omsorg
+och infrastruktur.
+
 Värderingsförändringar
-Omvärlden påverkar oss
 Internationellt är demokratin under press och många
-Världspolitiska förändringar
 undersökningar visar att läget försämras globalt.
-Enligt Regeringskansliet befinner sig Sverige och Europa
-i det mest allvarliga säkerhetspolitiska läget sedan andra Även i etablerade demokratier syns tendenser till ökade
-världskriget. Kriget i Ukraina har pågått i över fyra år auktoritära strömningar, polarisering och minskat
-och påverkar hela Europas säkerhet. Samtidigt bidrar förtroende för samhällsinstitutioner. Sverige är fortsatt en
-konflikter i Mellanöstern till global instabilitet. Detta mycket stark demokrati, men påverkas av ett mer frag­
-påverkar Europa indirekt, bland annat genom ekonomiska menterat informationslandskap och ökade motsättningar
-konsekvenser. USA:s utrikespolitik präglas av signaler i samhällsdebatten. Det finns också tecken på att synen på
-om ett mer selektivt internationellt engagemang, vilket demokrati och tillit varierar mellan generationer.
-ökar kraven på europeiskt ansvarstagande för den egna
-säkerheten. Europa stärker därför sitt försvarssamarbete. Den grova organiserade brottsligheten är ett problem
-Sverige är sedan 2024 medlem i Nato och deltar i det som påverkar tryggheten i många kommuner. Även om
-kollektiva försvaret.             Kungsbacka i ett nationellt perspektiv är en mycket trygg
+
+Även i etablerade demokratier syns tendenser till ökade
+auktoritära strömningar, polarisering och minskat
+förtroende för samhällsinstitutioner. Sverige är fortsatt en
+mycket stark demokrati, men påverkas av ett mer frag­
+menterat informationslandskap och ökade motsättningar
+i samhällsdebatten. Det finns också tecken på att synen på
+demokrati och tillit varierar mellan generationer.
+
+Den grova organiserade brottsligheten är ett problem
+som påverkar tryggheten i många kommuner. Även om
+Kungsbacka i ett nationellt perspektiv är en mycket trygg
 kommun har utvecklingen med skjutningar, hot och annan
-Terrorhotnivån i Sverige är sedan maj 2025 sänkt till nivå 3 grov brottslighet blivit mer märkbar även i närområdet.
-(förhöjt hot). Men det bredare säkerhetsläget innefattar hot Kommunanställda kan i ökande utsträckning utsättas för
-från främmande makt, cyberangrepp och desinformation. hot eller otillbörlig påverkan. För kommunen kan detta
-För kommunala verksamheter kan detta bland annat innebära ett ökat behov av arbete med tillit och demokra­
-innebära ett fortsatt behov av beredskap, robusthet och tisk delaktighet, stärkt förmåga att hantera desinformation
-höga krav på informations­ och cybersäkerhet och behov och ökade krav på säkerhet och stöd till medarbetare och
-att hantera informationspåverkan. invånare.
-Befolkningsförändringar           Klimat- och miljöförändringar
-Demografiska förändringar är en långsiktig global trend Klimatförändringarna fortsätter att påverka både globalt
-som påverkar ekonomier och välfärdssystem. I stora delar och lokalt. De senaste åren har varit de varmaste som
-av världen, inklusive Sverige, ökar andelen äldre samtidigt uppmätts globalt, enligt bland annat EU:s klimattjänst
-som barnafödandet minskar. Detta innebär att färre Copernicus och FN:s klimatpanel IPCC. De globala
-personer i arbetsför ålder ska försörja fler, vilket påverkar utsläppen av växthusgaser ligger fortsatt på höga nivåer,
-både skattebas och efterfrågan på välfärdstjänster. Samti­ även om utvecklingen varierar mellan länder.
-digt råder brist på arbetskraft inom flera välfärdsyrken.
+grov brottslighet blivit mer märkbar även i närområdet.
+Kommunanställda kan i ökande utsträckning utsättas för
+hot eller otillbörlig påverkan. För kommunen kan detta
+innebära ett ökat behov av arbete med tillit och demokra­
+tisk delaktighet, stärkt förmåga att hantera desinformation
+och ökade krav på säkerhet och stöd till medarbetare och
+invånare.
+
+Klimat- och miljöförändringar
+Klimatförändringarna fortsätter att påverka både globalt
+och lokalt. De senaste åren har varit de varmaste som
+uppmätts globalt, enligt bland annat EU:s klimattjänst
+Copernicus och FN:s klimatpanel IPCC. De globala
+utsläppen av växthusgaser ligger fortsatt på höga nivåer,
+även om utvecklingen varierar mellan länder.
+
 Ett par effekter av detta är ökade temperaturer och föränd­
-Kungsbacka har haft en stark befolkningstillväxt över tid, rade nederbördsmönster. SMHI bedömer att Sverige
-men utvecklingen har de senaste åren varit mer varierad. successivt får ett varmare och blötare klimat, särskilt under
-Efter en minskning 2023 har befolkningen ökat igen från vinterhalvåret. För västkusten innebär detta mer nederbörd
-och med 2024, men i en lägre takt än tidigare. Under 2025 och en högre risk för skyfall och översvämningar, men även
-12 Kommunbudget 2027 och plan 2028–2029
+rade nederbördsmönster. SMHI bedömer att Sverige
+successivt får ett varmare och blötare klimat, särskilt under
+vinterhalvåret. För västkusten innebär detta mer nederbörd
+och en högre risk för skyfall och översvämningar, men även
 
 <!-- sida 54 -->
 
-OMVÄRLDSANALYS
+värmeböljor och perioder av torka förväntas bli vanligare.
+Detta innebär ett växande behov av klimatanpassning.
+Kommuner behöver i ökad utsträckning planera för att
+hantera översvämningsrisker, värme och påverkan på
+infrastruktur, bebyggelse och samhällsviktig verksamhet.
 
-värmeböljor och perioder av torka förväntas bli vanligare. Den mest genomgripande tekniska förändringen är det
-Detta innebär ett växande behov av klimatanpassning. snabba genomslaget för artificiell intelligens (AI). Under
-Kommuner behöver i ökad utsträckning planera för att de senaste åren har AI­baserade system blivit alltmer
-hantera översvämningsrisker, värme och påverkan på avancerade och både privat och offentlig sektor använder
-infrastruktur, bebyggelse och samhällsviktig verksamhet. det inom en växande mängd verksamheter.
+Förlusten av biologisk mångfald är en parallell global
+utmaning. Internationella bedömningar visar att många
+arter och livsmiljöer är under press, vilket även kan påverka
+svenska ekosystem. Lokalt märks utvecklingen bland annat
+genom ökade problem med invasiva arter och förändrade
+förutsättningar för natur­ och vattenmiljöer.
 
-Förlusten av biologisk mångfald är en parallell global Samtidigt är utvecklingen föremål för ökad reglering,
-utmaning. Internationella bedömningar visar att många bland annat genom EU:s AI­förordning, som syftar till att
-arter och livsmiljöer är under press, vilket även kan påverka säkerställa säker och ansvarsfull användning. AI bedöms
-svenska ekosystem. Lokalt märks utvecklingen bland annat få stor påverkan på både arbetsmarknaden och arbetets
-genom ökade problem med invasiva arter och förändrade innehåll, där vissa uppgifter kan automatiseras samtidigt
-förutsättningar för natur­ och vattenmiljöer. som nya kompetenskrav uppstår. För kommunen innebär
-utvecklingen att allt fler verksamheter berörs av digitalise­
 Teknikförändringar
-ring och AI och att kraven på säkerhet, styrning och etisk
-Den tekniska utvecklingen skapar ökade möjligheter att användning av teknik ökar.
+Den tekniska utvecklingen skapar ökade möjligheter att
 effektivisera och utveckla kommunal service, genom bland
-Kungsbacka i världen
 annat digitalisering, automatisering och bättre användning
-av data. Nationella och europeiska regelverk ökar också Att analysera och diskutera hur förändringar i omvärlden
-kraven på offentlig sektor att tillhandahålla digital påverkar kommunen är avgörande för att stå väl rustade
-service och data, liksom på säker informationshantering. inför framtiden. Som stöd till detta bidrar medarbetare
-Myndigheten för civilt försvar (tidigare MSB) bedömer att på samtliga förvaltningar med att identifiera trender,
-cyberhoten mot offentlig sektor är omfattande och ökande, risker och möjligheter. Den årliga rapporten Kungsbacka
-med återkommande intrångsförsök och störningar. i världen ger en övergripande bild av omvärldsläget och
-Teknikutvecklingen påverkar även energianvändningen. möjliga konsekvenser.
+av data. Nationella och europeiska regelverk ökar också
+kraven på offentlig sektor att tillhandahålla digital
+service och data, liksom på säker informationshantering.
+Myndigheten för civilt försvar (tidigare MSB) bedömer att
+cyberhoten mot offentlig sektor är omfattande och ökande,
+med återkommande intrångsförsök och störningar.
+Teknikutvecklingen påverkar även energianvändningen.
 Digital infrastruktur och datacenter kräver betydande
 energiresurser och bidrar till en ökad efterfrågan på el,
 även om utvecklingen möjliggör minskad resursanvänd­
 ning inom andra områden.
+
+OMVÄRLDSANALYS
+
+Den mest genomgripande tekniska förändringen är det
+snabba genomslaget för artificiell intelligens (AI). Under
+de senaste åren har AI­baserade system blivit alltmer
+avancerade och både privat och offentlig sektor använder
+det inom en växande mängd verksamheter.
+
+Samtidigt är utvecklingen föremål för ökad reglering,
+bland annat genom EU:s AI­förordning, som syftar till att
+säkerställa säker och ansvarsfull användning. AI bedöms
+få stor påverkan på både arbetsmarknaden och arbetets
+innehåll, där vissa uppgifter kan automatiseras samtidigt
+som nya kompetenskrav uppstår. För kommunen innebär
+utvecklingen att allt fler verksamheter berörs av digitalise­
+ring och AI och att kraven på säkerhet, styrning och etisk
+användning av teknik ökar.
+
+Kungsbacka i världen
+Att analysera och diskutera hur förändringar i omvärlden
+påverkar kommunen är avgörande för att stå väl rustade
+inför framtiden. Som stöd till detta bidrar medarbetare
+på samtliga förvaltningar med att identifiera trender,
+risker och möjligheter. Den årliga rapporten Kungsbacka
+i världen ger en övergripande bild av omvärldsläget och
+möjliga konsekvenser.
+
 Kommunbudget 2027 och plan 2028–2029 13
 
 <!-- sida 55 -->
 
 OMVÄRLDSANALYS
 
-Finansiella risker
 Samhällsekonomin
+
+Sveriges Kommuner och Regioner (SKR) bedömer i
+Cirkulär 26:18 Aktuell ekonomi – Planeringsförutsättningar
+för åren 2026–2029 att den ekonomiska återhämtningen
+har skjutits fram något i tid. BNP väntas ändå växa mer
+under 2026 och 2027 än jämfört med 2025. Antalet
+arbetade timmar väntas öka 2026 men ännu mer under
+2027, efter att ha minskat under 2025. Skatteintäkterna
+ökar under 2026 och väntas öka ytterligare under 2027.
+
+Det ser ut att bli en svag utveckling för svensk export
+under 2026. Det beror på kriget i Mellanöstern, som
+påverkar världsekonomin negativt. Leveranser av olja har
+minskat och oljepriserna är höga. Det påverkar inte bara
+olja utan även andra energislag och råvaror. Hur konflikten
+utvecklas är osäkert, och det är också osäkert när trans­
+porter genom Hormuzsundet kommer i gång igen. Klart är
+att situationen bidrar till högre inflation i världen.
+
+Högre inflationsförväntningar har lett till att och räntorna
+har gått upp, särskilt de korta räntorna. Prognosen
+bygger på att oljepriset framöver följer marknadens
+förväntningar. De visar att oljepriset kan falla, vilket tyder
+på att energikrisen är tillfällig. Man räknar därför med
+att situationen förbättras och att fartygstrafiken i Persiska
+viken fungerar bättre igen fram mot sommaren.
+
+Trots osäkerhet i omvärlden tror SKR fortfarande på en
+återhämtning i Sverige. Efterfrågan inom landet väntas
+öka. Hushållens inkomster väntas också öka ovanligt
+mycket 2026, bland annat på grund av politiska satsningar
+i budgetpropositionen för 2026. BNP växer i år och ännu
+mer 2027. Fler arbetade timmar gör dessutom att lönerna
+totalt sett ökar, vilket ger högre skatteintäkter.
+
+Trots höga energipriser väntas inflationen i Sverige inte
+bli så hög under 2026. Lägre inflation på andra varor
+och sänkt moms på livsmedel bidrar till det. Under 2027
+minskar effekten av energipriserna, men då ökar i stället
+inflationen på andra områden. Samtidigt minskar effekten
+av den sänkta momsen. Bostadsräntorna väntas stiga under
+2027\. Totalt sett räknar SKR därför med att inflationen
+ökar något mellan 2026 och 2027.
+
+14 Kommunbudget 2027 och plan 2028–2029
+
+Finansiella risker
 Ränterisker
 Upplåningsräntorna har under många år legat på en
-Sveriges Kommuner och Regioner (SKR) bedömer i mycket låg nivå. Under 2022 och 2023 såg vi betydligt
-Cirkulär 26:18 Aktuell ekonomi – Planeringsförutsättningar högre räntor, som en följd av den då höga inflationen. För
-för åren 2026–2029 att den ekonomiska återhämtningen att få ner inflationen höjde Riksbanken styrräntan vid fem
-har skjutits fram något i tid. BNP väntas ändå växa mer tillfällen under 2023 till fyra procent. Under 2024 sänkte
-under 2026 och 2027 än jämfört med 2025. Antalet Riksbanken styrräntan fem gånger och i slutet av
-arbetade timmar väntas öka 2026 men ännu mer under året var den 2,5 procent. Under 2025 sänktes räntan
-2027, efter att ha minskat under 2025. Skatteintäkterna ytterligare och motsvarade i slutet av året 1,75 procent.
-ökar under 2026 och väntas öka ytterligare under 2027. Året 2026 har hittills präglats av en paus i räntesänkning­
+mycket låg nivå. Under 2022 och 2023 såg vi betydligt
+högre räntor, som en följd av den då höga inflationen. För
+att få ner inflationen höjde Riksbanken styrräntan vid fem
+tillfällen under 2023 till fyra procent. Under 2024 sänkte
+Riksbanken styrräntan fem gånger och i slutet av
+året var den 2,5 procent. Under 2025 sänktes räntan
+ytterligare och motsvarade i slutet av året 1,75 procent.
+Året 2026 har hittills präglats av en paus i räntesänkning­
 arna. Men även om styrräntan har sjunkit är den högre än
-Det ser ut att bli en svag utveckling för svensk export innan pandemin, vilket gör att kommunens räntekostnader
-under 2026. Det beror på kriget i Mellanöstern, som kommer öka i takt med att kommunen omsätter befintliga
-påverkar världsekonomin negativt. Leveranser av olja har lån eller tar upp nya lån. Ju högre låneskuld desto större
-minskat och oljepriserna är höga. Det påverkar inte bara effekt får räntehöjningarna på kommunkoncernens
-olja utan även andra energislag och råvaror. Hur konflikten ekonomi.
-utvecklas är osäkert, och det är också osäkert när trans­
+innan pandemin, vilket gör att kommunens räntekostnader
+kommer öka i takt med att kommunen omsätter befintliga
+lån eller tar upp nya lån. Ju högre låneskuld desto större
+effekt får räntehöjningarna på kommunkoncernens
+ekonomi.
+
 Borgensåtagande
-porter genom Hormuzsundet kommer i gång igen. Klart är
-att situationen bidrar till högre inflation i världen. Kommunen hade vid årsskiftet 2025/2026 ingått borgen
+Kommunen hade vid årsskiftet 2025/2026 ingått borgen
 till ett totalt belopp på 3 473 miljoner kronor, varav 3 455
-Högre inflationsförväntningar har lett till att och räntorna miljoner kronor är borgensåtagande för det helägda
-har gått upp, särskilt de korta räntorna. Prognosen kommunala bolaget Eksta Bostads AB. Kommunen har
-bygger på att oljepriset framöver följer marknadens även borgensåtagande för föreningar motsvarande 11,4
-förväntningar. De visar att oljepriset kan falla, vilket tyder miljoner kronor och för andra bolag motsvarande 7,1
-på att energikrisen är tillfällig. Man räknar därför med miljoner kronor. Även om borgensåtagandena till fören­
-att situationen förbättras och att fartygstrafiken i Persiska ingarna är en mindre andel av det totala borgensåtagandet
-viken fungerar bättre igen fram mot sommaren. så går det inte att bortse från att de utgör en högre risk i en
+miljoner kronor är borgensåtagande för det helägda
+kommunala bolaget Eksta Bostads AB. Kommunen har
+även borgensåtagande för föreningar motsvarande 11,4
+miljoner kronor och för andra bolag motsvarande 7,1
+miljoner kronor. Även om borgensåtagandena till fören­
+ingarna är en mindre andel av det totala borgensåtagandet
+så går det inte att bortse från att de utgör en högre risk i en
 omvärld med ökade kostnader.
-Trots osäkerhet i omvärlden tror SKR fortfarande på en
+
 Valutarisker
-återhämtning i Sverige. Efterfrågan inom landet väntas
-öka. Hushållens inkomster väntas också öka ovanligt Valutarisk handlar om risken för att drabbas av ökade
-mycket 2026, bland annat på grund av politiska satsningar kostnader på grund av valutakursförändringar. Det uppstår
-i budgetpropositionen för 2026. BNP växer i år och ännu när inköp, försäljning och upplåning sker i utländsk valuta.
-mer 2027. Fler arbetade timmar gör dessutom att lönerna Kommunen gör till allra största del affärer i svenska kronor
-totalt sett ökar, vilket ger högre skatteintäkter. och handel i annan valuta är bara en liten andel.
+Valutarisk handlar om risken för att drabbas av ökade
+kostnader på grund av valutakursförändringar. Det uppstår
+när inköp, försäljning och upplåning sker i utländsk valuta.
+Kommunen gör till allra största del affärer i svenska kronor
+och handel i annan valuta är bara en liten andel.
 Upplåning gör vi i svensk valuta. Därmed är bedömningen
-Trots höga energipriser väntas inflationen i Sverige inte att valutarisken är mycket liten för oss.
-bli så hög under 2026. Lägre inflation på andra varor
+att valutarisken är mycket liten för oss.
+
 Pensioner
-och sänkt moms på livsmedel bidrar till det. Under 2027
-minskar effekten av energipriserna, men då ökar i stället Kommunen hade i årsbokslutet 2025 pensionsåtagande
-inflationen på andra områden. Samtidigt minskar effekten på 2,2 miljarder kronor. Med pensionsåtagande menar vi
-av den sänkta momsen. Bostadsräntorna väntas stiga under resultatet av ett avtal med anställda om en ersättning som
-2027\. Totalt sett räknar SKR därför med att inflationen utgår efter avslutad anställning. Ur risksynpunkt är det
-ökar något mellan 2026 och 2027.  viktigt att ta hänsyn till kommunens pensionsförpliktelser
+Kommunen hade i årsbokslutet 2025 pensionsåtagande
+på 2,2 miljarder kronor. Med pensionsåtagande menar vi
+resultatet av ett avtal med anställda om en ersättning som
+utgår efter avslutad anställning. Ur risksynpunkt är det
+viktigt att ta hänsyn till kommunens pensionsförpliktelser
 eftersom vi ska finansiera skulden i framtiden. Kungs­
 backa kommun redovisar pensionsförpliktelserna enligt
 fullfondsmodellen. Detta innebär att ansvarsförbindelsen,
 som vid årsskiftet var 1,2 miljarder kronor, har lyfts in i
 balansräkningen som en avsättning.
-14 Kommunbudget 2027 och plan 2028–2029
 
 <!-- sida 56 -->
+
+Pensionskostnaderna är en allt större kostnadspost
+för kommunen. Sammantaget består kommunens
+pensions­kostnader av två olika delar, en avgiftsbestämd
+kostnad och en förmånsbaserad pension som delas upp
+i vad som tjänats in från och med 1998 och vad som
+tjänats in före 1998. Det nya pensionsavtalet AKAP­KR
+som gäller från 2023 är ett steg i övergången till ett mer
+avgiftsfinansierat pensionssystem, vilket över tid kommer
+att ge kommunerna en pensionskostnad som är lättare att
+förutse.
+
+Pensionskostnaderna ökade markant under 2023 och 2024
+på grund av kraftig ökning av prisbasbeloppet, högre
+löneökningar och nytt avgiftsbestämt pensionsavtal med
+höjda premienivåer. Ökningen av prisbasbeloppet berodde
+på den snabba uppgången av inflationen. Prisbasbeloppet
+har stor betydelse för värdesäkringen av pensionsskulden.
 
 OMVÄRLDSANALYS
 
 Skatteintäkter och statsbidrag
-Pensionskostnaderna är en allt större kostnadspost
-för kommunen. Sammantaget består kommunens Bedömningen av skatteintäkter och statsbidrag sker utifrån
-pensions­kostnader av två olika delar, en avgiftsbestämd underlag från Sveriges Kommuner och Regioner, SKR.
-kostnad och en förmånsbaserad pension som delas upp Bedömningen sker i kombination med befolkningsprog­
-i vad som tjänats in från och med 1998 och vad som nosen för kommunen. Om det blir avvikelser jämfört med
-tjänats in före 1998. Det nya pensionsavtalet AKAP­KR befolkningsprognosen så påverkar det skatter och generella
-som gäller från 2023 är ett steg i övergången till ett mer statsbidrag. Det finns också risk för minskade skattein­
-avgiftsfinansierat pensionssystem, vilket över tid kommer täkter till följd av ökad arbetslöshet i och med den rådande
-att ge kommunerna en pensionskostnad som är lättare att lågkonjunkturen. Dessutom bidrar både de generella och
-förutse.                          de riktade statsbidragen till att finansiera olika satsningar
+Bedömningen av skatteintäkter och statsbidrag sker utifrån
+underlag från Sveriges Kommuner och Regioner, SKR.
+Bedömningen sker i kombination med befolkningsprog­
+nosen för kommunen. Om det blir avvikelser jämfört med
+befolkningsprognosen så påverkar det skatter och generella
+statsbidrag. Det finns också risk för minskade skattein­
+täkter till följd av ökad arbetslöshet i och med den rådande
+lågkonjunkturen. Dessutom bidrar både de generella och
+de riktade statsbidragen till att finansiera olika satsningar
 inom olika verksamheter. Statsbidragen är svårare att
-Pensionskostnaderna ökade markant under 2023 och 2024 bedöma eftersom de ytterst beror på politiska beslut på
-på grund av kraftig ökning av prisbasbeloppet, högre riksnivå. Kungsbacka kommun får årligen skatteintäkter
-löneökningar och nytt avgiftsbestämt pensionsavtal med och generella statsbidrag på cirka sex miljarder kronor.
-höjda premienivåer. Ökningen av prisbasbeloppet berodde Även en mindre procentuell avvikelse får därför stort
-på den snabba uppgången av inflationen. Prisbasbeloppet genomslag.
-har stor betydelse för värdesäkringen av pensionsskulden.
+bedöma eftersom de ytterst beror på politiska beslut på
+riksnivå. Kungsbacka kommun får årligen skatteintäkter
+och generella statsbidrag på cirka sex miljarder kronor.
+Även en mindre procentuell avvikelse får därför stort
+genomslag.
 
 2025 tillbaka på en mer normal nivå. Prognosen från
 pensionsbolaget KPA Pension visar att pensionskostna­ Kostnadsutjäm- 13 7 15 11
@@ -2084,43 +2385,60 @@ Kommunbudget 2027 och plan 2028–2029 15
 
 SÅ STYRS KUNGSBACKA
 
-Känslighetsanalys                 Ränta
+Känslighetsanalys
 Skattesats
-Kommunens låneskuld ökar enligt senaste prognosen
-Skattesatsen i Kungsbacka kommun är 21,18 procent. Om under 2026 med 245 miljoner kronor och uppgår då till
-skatten skulle höjas med en krona, så ökar kommunens totalt 1 295 miljoner kronor. I budget för 2026 finns
-intäkter med cirka 308 miljoner kronor. Omvänt skulle en upptaget att låna upp till 350 miljoner kronor. Under
-kronas skattesänkning innebära att kommunens intäkter planperioden fram till 2029 väntar vi oss att skulden
-minskar med 308 miljoner.         kommer öka till 2 450 miljoner kronor. I maj 2026 är den
-genomsnittliga räntan på kommunens lån 2,5 procent.
-En ökning av skattesatsen med tio öre innebär 31 miljoner Förutom att kommunen kommer omsätta 100 miljoner
-i ytterligare intäkter, medan en tio öres sänkning minskar kronor av nuvarande låneskuld 2027, så har vi planerat för
-kommunens intäkter med 31 miljoner kronor. nyupplåning 2027 på ytterligare 750 miljoner kronor.
-Eftersom både låneskulden ökar och lån omsätts bedöms
+Skattesatsen i Kungsbacka kommun är 21,18 procent. Om
+skatten skulle höjas med en krona, så ökar kommunens
+intäkter med cirka 308 miljoner kronor. Omvänt skulle en
+kronas skattesänkning innebära att kommunens intäkter
+minskar med 308 miljoner.
+
+En ökning av skattesatsen med tio öre innebär 31 miljoner
+i ytterligare intäkter, medan en tio öres sänkning minskar
+kommunens intäkter med 31 miljoner kronor.
+
 Löner
-den genomsnittliga räntan stiga under 2027.
 Kommunen har cirka 6 700 anställda. I följande tabell
-framgår hur löneökningar påverkar kommunens ekonomi. Följande tabell visar hur räntekostnaden påverkas vid
-olika räntesatser och beroende på vad kommunen har för
+framgår hur löneökningar påverkar kommunens ekonomi.
+
 Löneökning     Ökade kostnader
-låneskuld.
 (miljoner kronor)
-1,0 %           39          Låneskuld (miljar- Genomsnittlig Räntekostnad
+
+Ränta
+Kommunens låneskuld ökar enligt senaste prognosen
+under 2026 med 245 miljoner kronor och uppgår då till
+totalt 1 295 miljoner kronor. I budget för 2026 finns
+upptaget att låna upp till 350 miljoner kronor. Under
+planperioden fram till 2029 väntar vi oss att skulden
+kommer öka till 2 450 miljoner kronor. I maj 2026 är den
+genomsnittliga räntan på kommunens lån 2,5 procent.
+Förutom att kommunen kommer omsätta 100 miljoner
+kronor av nuvarande låneskuld 2027, så har vi planerat för
+nyupplåning 2027 på ytterligare 750 miljoner kronor.
+Eftersom både låneskulden ökar och lån omsätts bedöms
+den genomsnittliga räntan stiga under 2027.
+
+Följande tabell visar hur räntekostnaden påverkas vid
+olika räntesatser och beroende på vad kommunen har för
+låneskuld.
+
+1,0 %            39         Låneskuld (miljar- Genomsnittlig Räntekostnad
 der kronor) ränta (procent) (miljoner kronor)
 
 ```osaker-tabell
 2,0 %            79
                                 1,05       2,0        21
-3,0 %           119
+3,0 %            119
                                            3,0        32
-3,5 %           138
+3,5 %            138
                                            4,0        42
                                 2,0        2,0        40
                                            3,0        60
                                            4,0        80
                                 3,0        2,0        60
                                            3,0        90
-                                           4,0       120
+
+4,0        120
 ```
 
 16 Kommunbudget 2027 och plan 2028–2029
@@ -2129,171 +2447,288 @@ der kronor) ränta (procent) (miljoner kronor)
 
 SÅ STYRS KUNGSBACKA
 
-Styrning    och  uppföljning      av den
+Styrning    och   uppföljning     av  den
 
-kommunala       verksamheten
+kommunala        verksamheten
 
-I detta avsnitt beskriver vi övergripande hur kommunen utmaningar utan en uppdelning i oss och dom. Vårt fokus
-styrs.                            ligger på hela kommunen, snarare än enskilda verksam­
-heter, vilket innebär en strävan efter likvärdighet, även om
+I detta avsnitt beskriver vi övergripande hur kommunen
+styrs.
+
 Det kommunala uppdraget
-det inte alltid blir lika överallt.
 Politiker på riksnivå styr kommunen genom att stifta
-Att arbeta med förnyelse och innovation
 lagar och förordningar, som socialtjänstlagen, skollagen
-och andra speciallagstiftningar. Det gör de också genom Förnyelse innebär att lösa uppdrag på nya, innovativa sätt.
-internationella överenskommelser med EU, FN och Förmågan att anpassa sig, finna nya lösningar och
-andra, exempelvis Agenda 2030. Lokalt i Kungsbacka tillämpa teknik är avgörande för att uppnå långsiktiga och
-styr politikerna i kommunfullmäktige, kommunstyrelsen kortsiktiga mål om välfärd och god livsmiljö för invånarna.
-och nämnder bland annat genom att fördela resurser och Det kan innebära nya tjänster, nya sätt att erbjuda tjänster,
-sätta mål för verksamheterna. Det kommunala uppdraget förändrade arbetssätt, nya organisatoriska lösningar och
-innefattar att främja demokrati, samhällsutveckling och samarbetsformer men också att sluta göra vissa saker eller
-tillhandahålla god kommunal service. uppgifter.
-Att möta framtidens samhälls-     Att arbeta med medskapande
-och välfärdsutmaningar            med dem vi är till för
-Världshändelser och förändrade invånarbehov påverkar Vi hanterar utmaningar och finner nya lösningar tillsam­
-Kungsbacka kommun. Därför är det avgörande att förstå mans med dem vi är till för. Medskapande säkerställer
-trender i omvärlden för att förbereda oss för framtiden. även att vår service och välfärd fortsätter vara relevant för
-Samhället står inför komplexa utmaningar inom befolk­ kommunens invånare.
+och andra speciallagstiftningar. Det gör de också genom
+internationella överenskommelser med EU, FN och
+andra, exempelvis Agenda 2030. Lokalt i Kungsbacka
+styr politikerna i kommunfullmäktige, kommunstyrelsen
+och nämnder bland annat genom att fördela resurser och
+sätta mål för verksamheterna. Det kommunala uppdraget
+innefattar att främja demokrati, samhällsutveckling och
+tillhandahålla god kommunal service.
+
+Att möta framtidens samhälls-
+och välfärdsutmaningar
+Världshändelser och förändrade invånarbehov påverkar
+Kungsbacka kommun. Därför är det avgörande att förstå
+trender i omvärlden för att förbereda oss för framtiden.
+Samhället står inför komplexa utmaningar inom befolk­
 ning, klimat, värderingar, teknologi och globalisering,
-Att samarbeta med andra för
 vilket kräver nya samarbetsformer. Agenda 2030 lyfter
-att få kraft i uppdraget
 fram behovet av genomgripande förändringar inom
-ekologiska, ekonomiska och sociala områden, och betonar Genom samarbete med civilsamhället, näringslivet,
-vikten av kunskap och innovation. Städer som Kungsbacka akademin och andra offentliga aktörer främjar vi innova­
-spelar en central roll för hållbar utveckling och anses vara tion, resurseffektivitet och legitimitet, och tar vara på den
-arenor för förnyelse och innovation ­ men ingen aktör kan potential som finns. Samarbeten kan också möjliggöra
-ensam lösa dessa utmaningar. Det behöver kommunen kunskapsdelning och bättre anpassning av tjänster till
-göra tillsammans med invånarna, näringslivet och andra lokala behov, vilket stärker kommunens förmåga till
-aktörer.                          långsiktig och hållbar planering. Involvering av olika
-aktörer leder till en mer integrerad och effektiv förvaltning
+ekologiska, ekonomiska och sociala områden, och betonar
+vikten av kunskap och innovation. Städer som Kungsbacka
+spelar en central roll för hållbar utveckling och anses vara
+arenor för förnyelse och innovation ­ men ingen aktör kan
+ensam lösa dessa utmaningar. Det behöver kommunen
+göra tillsammans med invånarna, näringslivet och andra
+aktörer.
+
 Principer som vägleder oss
-som möter invånares och företagares förväntningar.
 Att ha långsiktighet
-Strategisk, taktisk och operativ styrning
 Långsiktighet innebär att bedriva en hållbar verksamhet
-för både nuvarande och framtida generationer. Vi använder Tydlig riktning, struktur och kultur är centralt i kommu­
-omvärldsanalys och scenarier för att förutse framtida nens styrning.
+för både nuvarande och framtida generationer. Vi använder
+omvärldsanalys och scenarier för att förutse framtida
 behov, utmaningar och möjligheter.
-Strategisk styrning – att peka
-Att arbeta som ETT Kungsbacka     ut riktning vart vi ska
-Ett Kungsbacka innebär att vi tillsammans med alla som Strategisk styrning innebär politisk styrning. På en hög
-bor, verkar och vistas i kommunen gör det bästa vi kan strategisk nivå planerar politiken och följer upp långsiktiga
-med våra gemensamma resurser. Som Ett Kungsbacka är mål och ambitioner för kommunen.
+
+Att arbeta som ETT Kungsbacka
+Ett Kungsbacka innebär att vi tillsammans med alla som
+bor, verkar och vistas i kommunen gör det bästa vi kan
+med våra gemensamma resurser. Som Ett Kungsbacka är
 helheten större än summan av delarna, och vi tar oss an
+
+utmaningar utan en uppdelning i oss och dom. Vårt fokus
+ligger på hela kommunen, snarare än enskilda verksam­
+heter, vilket innebär en strävan efter likvärdighet, även om
+det inte alltid blir lika överallt.
+
+Att arbeta med förnyelse och innovation
+Förnyelse innebär att lösa uppdrag på nya, innovativa sätt.
+Förmågan att anpassa sig, finna nya lösningar och
+tillämpa teknik är avgörande för att uppnå långsiktiga och
+kortsiktiga mål om välfärd och god livsmiljö för invånarna.
+Det kan innebära nya tjänster, nya sätt att erbjuda tjänster,
+förändrade arbetssätt, nya organisatoriska lösningar och
+samarbetsformer men också att sluta göra vissa saker eller
+uppgifter.
+
+Att arbeta med medskapande
+med dem vi är till för
+Vi hanterar utmaningar och finner nya lösningar tillsam­
+mans med dem vi är till för. Medskapande säkerställer
+även att vår service och välfärd fortsätter vara relevant för
+kommunens invånare.
+
+Att samarbeta med andra för
+att få kraft i uppdraget
+Genom samarbete med civilsamhället, näringslivet,
+akademin och andra offentliga aktörer främjar vi innova­
+tion, resurseffektivitet och legitimitet, och tar vara på den
+potential som finns. Samarbeten kan också möjliggöra
+kunskapsdelning och bättre anpassning av tjänster till
+lokala behov, vilket stärker kommunens förmåga till
+långsiktig och hållbar planering. Involvering av olika
+aktörer leder till en mer integrerad och effektiv förvaltning
+som möter invånares och företagares förväntningar.
+
+Strategisk, taktisk och operativ styrning
+Tydlig riktning, struktur och kultur är centralt i kommu­
+nens styrning.
+
+Strategisk styrning – att peka
+ut riktning vart vi ska
+Strategisk styrning innebär politisk styrning. På en hög
+strategisk nivå planerar politiken och följer upp långsiktiga
+mål och ambitioner för kommunen.
+
 Kommunbudget 2027 och plan 2028–2029 17
 
 <!-- sida 59 -->
 
 SÅ STYRS KUNGSBACKA
 
-Vision 2030                       Planering och uppföljning
-Kommunbudget och plan
+Vision 2030
 Visionen skildrar den långsiktiga utvecklingen för att möta
-behoven inom arbete, boende, trygghet, utbildning och Enligt kommunallagen ska kommunen varje år upprätta
-upplevelser, attrahera företag och hantera Kungsbacka en budget för kommande kalenderår och en plan för de två
-stads tillväxt.                   efterföljande åren. I Kungsbacka kallar vi själva budget­
-dokumentet för Kommunbudget. Det är budgetbered­
+behoven inom arbete, boende, trygghet, utbildning och
+upplevelser, attrahera företag och hantera Kungsbacka
+stads tillväxt.
+
 Mål och direktiv
-ningen som arbetar fram underlaget och i praktiken består
-Utifrån visionen fastställer kommunfullmäktige långsik­ budgetberedningen av kommunstyrelsens arbetsutskott.
-tiga mål för mandatperioden med specifika fokusområden Det är kommunfullmäktige som beslutar om Kommun­
-för kraftsamling. Politikerna kan ompröva målen och budgeten och plan i juni.
+Utifrån visionen fastställer kommunfullmäktige långsik­
+tiga mål för mandatperioden med specifika fokusområden
+för kraftsamling. Politikerna kan ompröva målen och
 fokusområdena vid nytt budgetår. Politikerna kan också
-Uppföljning
 besluta om årliga direktiv för prioriterade förändrings­om­
-råden. Varje nämnd, med undantag för valnämnden, Uppföljningen är central för att utvärdera resultat och
-överförmyndare i samverkan och revisionen, ansvarar för integrera erfarenheter tillbaka i framtida planering. Ett
-att bidra till att kommunen som helhet når målen och aktivt arbete med uppföljning och intern kontroll ökar
-direktiven.                       förutsättningarna för att vi ska nål målen och att vi
-efterlever lagstiftningen. Kommunstyrelsen analyserar
+råden. Varje nämnd, med undantag för valnämnden,
+överförmyndare i samverkan och revisionen, ansvarar för
+att bidra till att kommunen som helhet når målen och
+direktiven.
+
 Ekonomistyrning och resurstilldelning
-kommunens resultat i den årliga gemensamma uppfölj­
-Fullmäktige beslutar om hur resurserna ska fördelas ningen i samband med delårs­ och årsbokslut.
+Fullmäktige beslutar om hur resurserna ska fördelas
 till nämnder och styrelse baserat på förväntad befolk­
-Kultur – det mänskliga perspektivet
 nings­utveckling. Nämndernas politiker ansvarar sedan
-för resursfördelningen till verksamheterna och att utveckla Kulturen ger vägledning i det dagliga arbetets beslut och
-och följa upp verksamhetens kvalitet och ekonomi enligt handlingar.
+för resursfördelningen till verksamheterna och att utveckla
+och följa upp verksamhetens kvalitet och ekonomi enligt
 politiska beslut.
-Vår tillitsbaserade styrning och ledning syftar till att möta
+
 Taktisk styrning – att göra rätt saker
-invånarnas behov effektivt och skapa en bättre arbetsmiljö
-På den taktiska nivån fokuserar kommunen på att planera med ökad frihet och ansvar inom givna ramar. Styrningen
-och följa upp den politiska viljan och säkerställa att vi gör grundar sig på förtroende mellan politiker, tjänstepersoner,
-rätt saker för att nå de strategiska målen. Då behöver vi ha chefer, medarbetare samt mellan kommunen och dess
-förmåga att balansera två sätt att arbeta med förändring. invånare, företag och organisationer.
+På den taktiska nivån fokuserar kommunen på att planera
+och följa upp den politiska viljan och säkerställa att vi gör
+rätt saker för att nå de strategiska målen. Då behöver vi ha
+förmåga att balansera två sätt att arbeta med förändring.
 Dels förbättring genom effektivisering av det vi redan gör
-idag, dels förnyelse inför framtiden genom innovation. I Kungsbacka kommun ska ledare och medarbetare agera
-Förnyelse handlar om att utforska och testa nya lösningar som förebilder, inspirera och visa omtanke, och de
-i nära samarbete med dem vi är till för. Det kan också förväntas driva utveckling och förändring både individuellt
-innebära att sluta göra saker. Genom att balansera den och tillsammans. Detta stärker motivation, arbetsglädje,
-så kallade tvåhäntheten säkerställer vi att vi fortsatt är engagemang, välmående och personlig utveckling. Vi
-relevanta för de vi är till för.  kallar det utvecklande ledarskap och medarbetarskap.
+idag, dels förnyelse inför framtiden genom innovation.
+Förnyelse handlar om att utforska och testa nya lösningar
+i nära samarbete med dem vi är till för. Det kan också
+innebära att sluta göra saker. Genom att balansera den
+så kallade tvåhäntheten säkerställer vi att vi fortsatt är
+relevanta för de vi är till för.
+
 Operativ styrning – att göra saker rätt
-Vår kultur är baserad på hörnstenarna att välkomna, göra
-På den operativa nivån fokuserar kommunen på att planera, nytt, samarbeta och leverera utifrån visionen 2030, där det
-genomföra och följa upp genom att leverera välfärd och står att här arbetar människor som vill, vågar och kan.
-service för dem vi är till för. Det handlar också om att Genom att agera enligt denna kultur fokuserar vi på dem vi
-genomföra de förändringsinsatser som krävs för att uppnå är till för, litar på varandra och arbetar mot gemensamma
-de nyttor som ska realiseras. Detta kan innebära utveckling mål. Det leder till hög kvalitet och effektivitet. Detta
-av förmågor, arbetssätt eller processer. Förändringsinsats­ resulterar i god service, tillgänglighet och möjligheter till
-erna kan vi göra antingen i form av mindre förbättringar inflytande och medskapande, vilket skapar trygghet för
-i kärnverksamheten eller som förnyelseinsatser i form av alla i kommunen.
+På den operativa nivån fokuserar kommunen på att planera,
+genomföra och följa upp genom att leverera välfärd och
+service för dem vi är till för. Det handlar också om att
+genomföra de förändringsinsatser som krävs för att uppnå
+de nyttor som ska realiseras. Detta kan innebära utveckling
+av förmågor, arbetssätt eller processer. Förändringsinsats­
+erna kan vi göra antingen i form av mindre förbättringar
+i kärnverksamheten eller som förnyelseinsatser i form av
 tillfälliga arbeten med hjälp av projekt och uppdrag.
+
 18 Kommunbudget 2027 och plan 2028–2029
+
+Planering och uppföljning
+Kommunbudget och plan
+Enligt kommunallagen ska kommunen varje år upprätta
+en budget för kommande kalenderår och en plan för de två
+efterföljande åren. I Kungsbacka kallar vi själva budget­
+dokumentet för Kommunbudget. Det är budgetbered­
+ningen som arbetar fram underlaget och i praktiken består
+budgetberedningen av kommunstyrelsens arbetsutskott.
+Det är kommunfullmäktige som beslutar om Kommun­
+budgeten och plan i juni.
+
+Uppföljning
+Uppföljningen är central för att utvärdera resultat och
+integrera erfarenheter tillbaka i framtida planering. Ett
+aktivt arbete med uppföljning och intern kontroll ökar
+förutsättningarna för att vi ska nål målen och att vi
+efterlever lagstiftningen. Kommunstyrelsen analyserar
+kommunens resultat i den årliga gemensamma uppfölj­
+ningen i samband med delårs­ och årsbokslut.
+
+Kultur – det mänskliga perspektivet
+Kulturen ger vägledning i det dagliga arbetets beslut och
+handlingar.
+
+Vår tillitsbaserade styrning och ledning syftar till att möta
+invånarnas behov effektivt och skapa en bättre arbetsmiljö
+med ökad frihet och ansvar inom givna ramar. Styrningen
+grundar sig på förtroende mellan politiker, tjänstepersoner,
+chefer, medarbetare samt mellan kommunen och dess
+invånare, företag och organisationer.
+
+I Kungsbacka kommun ska ledare och medarbetare agera
+som förebilder, inspirera och visa omtanke, och de
+förväntas driva utveckling och förändring både individuellt
+och tillsammans. Detta stärker motivation, arbetsglädje,
+engagemang, välmående och personlig utveckling. Vi
+kallar det utvecklande ledarskap och medarbetarskap.
+
+Vår kultur är baserad på hörnstenarna att välkomna, göra
+nytt, samarbeta och leverera utifrån visionen 2030, där det
+står att här arbetar människor som vill, vågar och kan.
+Genom att agera enligt denna kultur fokuserar vi på dem vi
+är till för, litar på varandra och arbetar mot gemensamma
+mål. Det leder till hög kvalitet och effektivitet. Detta
+resulterar i god service, tillgänglighet och möjligheter till
+inflytande och medskapande, vilket skapar trygghet för
+alla i kommunen.
 
 <!-- sida 60 -->
 
 VISION & MÅL
 
-Vision      2030
+Vision       2030
 
 I Kungsbacka skapar vi det goda livet tillsammans. Vi är öppna, trygga och nytänkande.
 Varje människas potential tas till vara och näringslivet blomstrar. Här växer du hela livet.
 
-Västsveriges bästa företagsklimat
 KUNGSBACKA ÄR EN NATURSKÖN och dynamisk tillväxt­
-kommun. Hit är alla lika välkomna, och möjligheterna till Kungsbacka kommun är känd för sitt goda värdskap och
-utveckling är goda för både individen, gruppen, föreningen är det självklara valet för företag som vill etablera sig i
-och företaget.                    Väst sverige. Vi har det bästa klimatet för entreprenörer.
-Den valfrihet, mångfald och livskvalitet som präglar Här är det lika naturligt att starta företag som att vara
-vardagen här lockar ständigt nya invånare. Växtkraften ger anställd. Entreprenörslusten väcks till liv redan i skolan,
-oss mer resurser till den gemensamma välfärden – så att och samarbetet mellan skola, akademi och näringsliv
-alla kan utvecklas och leva det goda livet, hela livet. utvecklar företagsamheten i hela kommunen.
+kommun. Hit är alla lika välkomna, och möjligheterna till
+utveckling är goda för både individen, gruppen, föreningen
+och företaget.
+
+Den valfrihet, mångfald och livskvalitet som präglar
+vardagen här lockar ständigt nya invånare. Växtkraften ger
+oss mer resurser till den gemensamma välfärden – så att
+alla kan utvecklas och leva det goda livet, hela livet.
+
+Vi växer i regionen genom att planera och bygga strate­
+giskt. Samhället utvecklas på ett hållbart sätt: socialt,
+ekologiskt och ekonomiskt. Vi lever inte över naturens
+tillgångar.
+
+Mångfald, puls och nära till naturen
+Kungsbacka är en sammanhållen, grönskande och
+lättillgänglig stad med tydlig profil och egen identitet.
+Staden växer och blir ett mer framträdande nav i
+kommunen. Här finns attraktiva bostäder för alla smaker,
+som möter behoven hos olika generationer och livsstilar.
+Mångfalden speglas i den inspirerande byggnadsmiljön
+där tradition möter innovation och där mötesplatserna är
+många. Utbudet av affärer, kultur och nöjen är stort.
+
+Staden är lättillgänglig och har goda kommunikationer
+med kommunens orter och omvärld. Välplanerad
+infrastruktur och lättillgänglig kollektivtrafik minimerar
+transporternas miljöpåverkan.
+
+Hav, öppna landskap och skogsbygd – vi förvaltar våra
+fantastiska naturmiljöer så att även kommande genera­
+tioner ska kunna njuta av den välgörande naturen, mitt i
+vardagen.
+
+Staden, landet, handeln, kulturlivet och naturen lockar
+turister och besökare till hela kommunen.
+
+Västsveriges bästa företagsklimat
+Kungsbacka kommun är känd för sitt goda värdskap och
+är det självklara valet för företag som vill etablera sig i
+Väst sverige. Vi har det bästa klimatet för entreprenörer.
+
+Här är det lika naturligt att starta företag som att vara
+anställd. Entreprenörslusten väcks till liv redan i skolan,
+och samarbetet mellan skola, akademi och näringsliv
+utvecklar företagsamheten i hela kommunen.
 
 Vi utvecklas hela livet
-Vi växer i regionen genom att planera och bygga strate­
-giskt. Samhället utvecklas på ett hållbart sätt: socialt, I våra skolor utvecklar var och en sin fulla kapacitet i en
-ekologiskt och ekonomiskt. Vi lever inte över naturens kreativ miljö där alla tar ansvar, visar respekt och bryr sig
-tillgångar.                       om varandra. Alla elever lämnar skolan med god kompe­
+I våra skolor utvecklar var och en sin fulla kapacitet i en
+kreativ miljö där alla tar ansvar, visar respekt och bryr sig
+om varandra. Alla elever lämnar skolan med god kompe­
 tens, god självkänsla och stark framtidstro.
-Mångfald, puls och nära till naturen
-Kungsbacka är en sammanhållen, grönskande och Livslångt lärande är en självklarhet. När vi växer som
-lättillgänglig stad med tydlig profil och egen identitet. människor utvecklas både näringslivet och samhället i
-Staden växer och blir ett mer framträdande nav i stort.
-kommunen. Här finns attraktiva bostäder för alla smaker,
+
+Livslångt lärande är en självklarhet. När vi växer som
+människor utvecklas både näringslivet och samhället i
+stort.
+
 Aktiviteter som engagerar,
-som möter behoven hos olika generationer och livsstilar.
 inspirerar och berikar livet
-Mångfalden speglas i den inspirerande byggnadsmiljön
-där tradition möter innovation och där mötesplatserna är Här har alla ett rikt fritids­ och kulturliv med både bredd
-många. Utbudet av affärer, kultur och nöjen är stort. och spets. Mångfalden av aktiviteter, upplevelser och
+Här har alla ett rikt fritids­ och kulturliv med både bredd
+och spets. Mångfalden av aktiviteter, upplevelser och
 gemenskaper främjar hälsa, välmående och kreativitet.
-Staden är lättillgänglig och har goda kommunikationer Framåtanda, mångfald och öppenhet spirar i nätverk och
-med kommunens orter och omvärld. Välplanerad föreningar.
-infrastruktur och lättillgänglig kollektivtrafik minimerar
-transporternas miljöpåverkan.     Vi är delaktiga i samhällets utveckling och får spännande
+Framåtanda, mångfald och öppenhet spirar i nätverk och
+föreningar.
+
+Vi är delaktiga i samhällets utveckling och får spännande
 saker att hända.
-Hav, öppna landskap och skogsbygd – vi förvaltar våra
+
 Den nytänkande kvalitetskommunen
-fantastiska naturmiljöer så att även kommande genera­
-tioner ska kunna njuta av den välgörande naturen, mitt i Kungsbacka kommun möter utmaningar med mod,
-vardagen.                         nytänkande och samarbete. Vi löser vårt uppdrag på ett
+Kungsbacka kommun möter utmaningar med mod,
+nytänkande och samarbete. Vi löser vårt uppdrag på ett
 innovativt sätt som överträffar invånarnas förväntningar,
-Staden, landet, handeln, kulturlivet och naturen lockar och är en förebild för andra. Här jobbar människor som
-turister och besökare till hela kommunen. vill, vågar och kan.
+och är en förebild för andra. Här jobbar människor som
+vill, vågar och kan.
 
 Kommunbudget 2027 och plan 2028–2029 19
 
@@ -2597,19 +3032,27 @@ Uppdraget ska återrapporteras med konkreta resultat under 2028.
 
 GOD EKONOMISK HUSHÅLLNING
 
-God     ekonomisk             hushållning
+God      ekonomisk            hushållning
+
+I följande avsnitt beskriver vi hur kommunfullmäktige
+i Kungsbacka har valt att definiera god ekonomisk
+hushållning.
+
+Kommunfullmäktiges definition
+Grunden för god ekonomisk hushållning och hållbar
+utveckling liknar varandra. Bägge bygger på långsiktigt
+tänkande och att varje generation står för de kostnader
+de ger upphov till.
 
 Bedömning av god ekonomisk hushållning
-I följande avsnitt beskriver vi hur kommunfullmäktige
-i Kungsbacka har valt att definiera god ekonomisk Varje del ekonomi, politisk inriktning och samhälle väger
-hushållning.                      lika mycket vid utvärderingen. Först gör vi en bedömning
+Varje del ekonomi, politisk inriktning och samhälle väger
+lika mycket vid utvärderingen. Först gör vi en bedömning
 av respektive område. Resultatet är godtagbart när minst
-Kommunfullmäktiges definition
 hälften måtten är uppfyllda. Därefter gör vi en samlad
-Grunden för god ekonomisk hushållning och hållbar utvärdering av de tre områdena. Om minst två områden
-utveckling liknar varandra. Bägge bygger på långsiktigt är på godtagbar nivå har kommunen god ekonomisk
-tänkande och att varje generation står för de kostnader hushållning.
-de ger upphov till.
+utvärdering av de tre områdena. Om minst två områden
+är på godtagbar nivå har kommunen god ekonomisk
+hushållning.
+
 Hållbar utveckling är ett viktigt begrepp för Kungsbacka
 kommuns långsiktiga planering. Ekonomisk, social
 och ekologisk hållbarhet är lika viktiga och ömsesidigt
@@ -2633,6 +3076,7 @@ inriktning
 arbete med de globala hållbarhetsmålen ger för
 resultat över tid.
 Ekonomi
+
 Mått/mål Krav
 Finansiering av Att kassaflödet (årets resultat och avskriv-
 investeringar ningar) ska vara så pass stort att planerade
@@ -2646,6 +3090,7 @@ budgetåren 2026–2029.
 Soliditet Att bokslutsårets soliditet i kommunen ska
 vara lika eller högre än den genomsnittliga
 soliditeten för femårsperioden, 2025–2029.
+
 Kommunbudget 2027 och plan 2028–2029 29
 
 <!-- sida 71 -->
@@ -2677,59 +3122,101 @@ EKONOMISTYRPRINCIPER
 
 Ekonomistyrprinciper
 
-Budgetansvar
 I följande avsnitt beskriver vi kommunens ekonomistyr­
-principer. Detta kan ses som ett komplement till lagar, Nämndernas och styrelsens budgetansvar innebär att
-rekommendationer och normeringar som styr kommunens fördela ramarna till olika verksamheter inom nämndens
-ekonomi, exempelvis kommunallagen, lagen om ansvarsområden. De ska också bidra till att uppnå de
-kommunal bokföring och redovisning, rekommendationer kommunövergripande målen och kommunfullmäktiges
-från rådet för kommunal redovisning samt praxis inom direktiv. Nämnderna och styrelsen kan sätta egna mål och
-ekonomiområdet.                   direktiv utifrån fokusområdena och sina ansvarsområden.
+principer. Detta kan ses som ett komplement till lagar,
+rekommendationer och normeringar som styr kommunens
+ekonomi, exempelvis kommunallagen, lagen om
+kommunal bokföring och redovisning, rekommendationer
+från rådet för kommunal redovisning samt praxis inom
+ekonomiområdet.
+
 Generell princip
-Förvaltningschefen delegerar budgetansvaret ut i
-Villkor för kommunens nämnder och styrelser är verksamheten på lämplig nivå. Budgetansvaret innebär en
-• att de följer kommunens mål, riktlinjer, principer, skyldighet att planera och genomföra verksamheten inom
-praxis, reglementen och policys med mera fastställda ramar för att nå uppsatta mål. För att verksam­
-• att de följer lagar, avtal och anvisningar heten ska kunna utföras så att resurstillgången ligger inom
-• att beslut ryms inom tilldelad budget fastställd budget, krävs att budgetansvariga fortlöpande
-• att de når de kvantitativa och kvalitativa mått som följer upp och analyserar budgetavvikelser. Budgetansvarig
-kommunfullmäktige har angett    ska också vidta nödvändiga åtgärder för att nämnden ska
-• att ha ett kvalitativt och ekonomiskt ansvar för den kunna hålla den ekonomiska ramen.
+Villkor för kommunens nämnder och styrelser är
+• att de följer kommunens mål, riktlinjer, principer,
+praxis, reglementen och policys med mera
+• att de följer lagar, avtal och anvisningar
+• att beslut ryms inom tilldelad budget
+• att de når de kvantitativa och kvalitativa mått som
+kommunfullmäktige har angett
+• att ha ett kvalitativt och ekonomiskt ansvar för den
 verksamhet som bedrivs av externa utförare.
-Ansvarig ska också hålla sin närmaste chef informerad om
-Kommunstyrelsen och kommunfullmäktige ska alltid enhetens ekonomiska läge. Budgetuppföljningen är en del
-behandla principiella ställningstaganden och ärenden av av budgetansvaret. Med det delegerade budgetansvaret
-större vikt. Det kan gälla till exempel tillämpnings­ följer rätten att fatta inköpsbeslut enligt gällande regler.
+
+Kommunstyrelsen och kommunfullmäktige ska alltid
+behandla principiella ställningstaganden och ärenden av
+större vikt. Det kan gälla till exempel tillämpnings­
 föreskrifter för taxor och avgifter och medfinansiering för
-Intern kontroll
 kommunen.
-Intern kontroll handlar om att ha ordning och reda, veta
-Regelsystemets bevarande och frihet kräver att nämnder att det som ska göras blir gjort och att det sker på ett
-och styrelser visar stor lojalitet mot Kungsbacka kommuns korrekt och säkert sätt. Arbetet med intern kontroll är
-beslut och intentioner.           en sammantagen process som vi kan beskriva med fyra
-byggstenar:
+
+Regelsystemets bevarande och frihet kräver att nämnder
+och styrelser visar stor lojalitet mot Kungsbacka kommuns
+beslut och intentioner.
+
 Ekonomiskt ansvar
-1\. En robust organisation
 Kommunfullmäktige tilldelar nämnder och styrelser en
-nettoram för driften. Inom ramen ska nämnderna ta ett Omfattar exempelvis organisationsstruktur, reglementen,
-självständigt ansvar för sin ekonomi. Nämnderna måste rutiner, verksamhetssystem, kvalitetskontroller, avtal,
-själva upprätta rutiner för budgetuppföljning och intern information, kommunikation och kultur.
+nettoram för driften. Inom ramen ska nämnderna ta ett
+självständigt ansvar för sin ekonomi. Nämnderna måste
+själva upprätta rutiner för budgetuppföljning och intern
 kontroll. Vid befarat underskott ska förvaltningschefen
-2\. Riskanalyser som riktar arbetet
 utarbeta förslag till åtgärder och presentera dessa för
-nämnden. Nämnden är skyldig att fatta beslut om åtgärder Ett reflekterande och framåtsyftande förhållningssätt.
-för att inte överskrida ramen. Om nämnden trots detta Omvärldsanalys och faktainsamling inom och utom den
-inte anser sig klara sig inom tilldelad ram ska nämnden egna organisationen.
+nämnden. Nämnden är skyldig att fatta beslut om åtgärder
+för att inte överskrida ramen. Om nämnden trots detta
+inte anser sig klara sig inom tilldelad ram ska nämnden
 omedelbart rapportera till kommunstyrelsen. Nämnden
-3\. Planerade åtgärder och kontroller
 är skyldig att göra uppföljning med så täta intervaller som
-krävs för att ha en god kontroll. Efter 30 april och 31 Utgår från riskanalysen och prioriterar och planerar
-augusti rapporterar nämnden sin uppföljning och prognos uppföljande kontroller.
+krävs för att ha en god kontroll. Efter 30 april och 31
+augusti rapporterar nämnden sin uppföljning och prognos
 till kommunstyrelsen som i sin tur gör en uppföljning
-4\. Uppföljning
 och prognos för kommunen som helhet och redovisar till
-fullmäktige. Detsamma gäller årsbokslutet efter den 31 Vi följer upp och analyserar den interna kontrollen.
-december som vi redovisar till fullmäktige. Resultatet återkopplar man till ansvarig nämnd.
+fullmäktige. Detsamma gäller årsbokslutet efter den 31
+december som vi redovisar till fullmäktige.
+
+Budgetansvar
+Nämndernas och styrelsens budgetansvar innebär att
+fördela ramarna till olika verksamheter inom nämndens
+ansvarsområden. De ska också bidra till att uppnå de
+kommunövergripande målen och kommunfullmäktiges
+direktiv. Nämnderna och styrelsen kan sätta egna mål och
+direktiv utifrån fokusområdena och sina ansvarsområden.
+
+Förvaltningschefen delegerar budgetansvaret ut i
+verksamheten på lämplig nivå. Budgetansvaret innebär en
+skyldighet att planera och genomföra verksamheten inom
+fastställda ramar för att nå uppsatta mål. För att verksam­
+heten ska kunna utföras så att resurstillgången ligger inom
+fastställd budget, krävs att budgetansvariga fortlöpande
+följer upp och analyserar budgetavvikelser. Budgetansvarig
+ska också vidta nödvändiga åtgärder för att nämnden ska
+kunna hålla den ekonomiska ramen.
+
+Ansvarig ska också hålla sin närmaste chef informerad om
+enhetens ekonomiska läge. Budgetuppföljningen är en del
+av budgetansvaret. Med det delegerade budgetansvaret
+följer rätten att fatta inköpsbeslut enligt gällande regler.
+
+Intern kontroll
+Intern kontroll handlar om att ha ordning och reda, veta
+att det som ska göras blir gjort och att det sker på ett
+korrekt och säkert sätt. Arbetet med intern kontroll är
+en sammantagen process som vi kan beskriva med fyra
+byggstenar:
+
+1\. En robust organisation
+Omfattar exempelvis organisationsstruktur, reglementen,
+rutiner, verksamhetssystem, kvalitetskontroller, avtal,
+information, kommunikation och kultur.
+
+2\. Riskanalyser som riktar arbetet
+Ett reflekterande och framåtsyftande förhållningssätt.
+Omvärldsanalys och faktainsamling inom och utom den
+egna organisationen.
+
+3\. Planerade åtgärder och kontroller
+Utgår från riskanalysen och prioriterar och planerar
+uppföljande kontroller.
+
+4\. Uppföljning
+Vi följer upp och analyserar den interna kontrollen.
+Resultatet återkopplar man till ansvarig nämnd.
 Kommunbudget 2027 och plan 2028–2029 31
 
 <!-- sida 73 -->
@@ -2737,117 +3224,204 @@ Kommunbudget 2027 och plan 2028–2029 31
 EKONOMISTYRPRINCIPER
 
 Nämndernas ansvar
-1\. Nämnden har inte utfört planerad verksamhet.
-I Kungsbacka arbetar varje nämnd i en årlig process för Nämnden ska normalt återredovisa överskottet.
+I Kungsbacka arbetar varje nämnd i en årlig process för
 internkontroll. Nämnderna har det yttersta ansvaret för
-den interna kontrollen inom sitt verksamhetsområde. De 2. Man har överfört verksamhet till annan nämnd eller
-antar en plan baserad på riskanalys och planering, styrelse. Normalt gör man ramjustering av budgeten under
-genomför granskningar i enlighet med planen och beslutar verksamhetsåret. I undantagsfall kan man återredovisa
-om åtgärder med anledning av resultaten. Årets arbete överskott eller överföra det till aktuell nämnd eller styrelse
-med internkontroll sammanfattar vi i en rapport som efter i samband med bokslutet.
+den interna kontrollen inom sitt verksamhetsområde. De
+antar en plan baserad på riskanalys och planering,
+genomför granskningar i enlighet med planen och beslutar
+om åtgärder med anledning av resultaten. Årets arbete
+med internkontroll sammanfattar vi i en rapport som efter
 nämndens beslut går till kommunstyrelsen och när det rör
-inköp till nämnden för Service.   3. Egna effektiviseringar eller besparingar. Redovisning av
-prestationer eller andra utvärderingskriterier som nämnden
+inköp till nämnden för Service.
+
 Kommunstyrelsens ansvar
-eller styrelsen använder ska jämföras med budget.
-Kommunstyrelsen ska utvärdera kommunens samlade Nämnden för över överskottet till deras resultatfond.
+Kommunstyrelsen ska utvärdera kommunens samlade
 system för intern kontroll med utgångspunkt från
-nämndernas uppföljningsrapporter. Om det finns saker 4. Pågående driftprojekt. Projekten ska vara igångsatta
-som behöver förbättras, ska kommunstyrelsen fatta beslut men inte avslutade. Nämnden kan ombudgetera över­
-om hur de ska gå tillväga för att förbättra dem. Den skottet till nya budgetåret.
-samlade utvärderingen ska kommunstyrelsen rapportera Man ska också analysera och redovisa orsaker till
-till kommunfullmäktige.           underskott av nämndens totala nettobudget. Normalt tar
-nämnden med sig underskottet och täcker det inom sin
+nämndernas uppföljningsrapporter. Om det finns saker
+som behöver förbättras, ska kommunstyrelsen fatta beslut
+om hur de ska gå tillväga för att förbättra dem. Den
+samlade utvärderingen ska kommunstyrelsen rapportera
+till kommunfullmäktige.
+
 Resultatfond och ombudget
-resultatfond.
 Resultatfonder innebär att nämnderna kan ta med sig
-Underskott
 överskott respektive underskott till kommande år. För de
-avgiftsfinansierade verksamheterna finns särskilda regler, Den totala resultatfonden för en nämnd kan vara negativ
-se rubrik avgiftsfinansierad verksamhet. ett enstaka år men nämnden ska då återställa underskottet
-nästföljande budgetår. I särskilda fall kan fullmäktige
-Motivet för nämndernas resultatfonder är att bevilja längre tid för att återställa underskottet. Nämnden
-• tydliggöra verksamhetsansvaret och möjliggöra en bra ska redovisa åtgärderna vid apriluppföljningen.
+avgiftsfinansierade verksamheterna finns särskilda regler,
+se rubrik avgiftsfinansierad verksamhet.
+
+Motivet för nämndernas resultatfonder är att
+• tydliggöra verksamhetsansvaret och möjliggöra en bra
 ekonomistyrning
-Resultatfondens storlek
 • möjliggöra bättre långsiktig planering över flera år i
-verksamheten och få en tydlig ordning för att hantera Fonden får vara högst tio procent av budgeterad bruttoom­
-över­ och underskott            slutning för bokslutsåret. Här kan fullmäktige besluta om
-• skapa större handlingsfrihet på nämndnivå genom att större eller mindre fond om det finns särskilda skäl.
+verksamheten och få en tydlig ordning för att hantera
+över­ och underskott
+• skapa större handlingsfrihet på nämndnivå genom att
 göra det möjligt att arbeta med resultatfonden som en
-Uttag ur fonden
 buffert
-• ta bort kalenderårsproblematiken, exempelvis undvika Resultatfonden är en öronmärkning av kommunens egna
-köp för att hålla sin budget i slutet av året. kapital. Nämnden kan inte budgetera om uttag ur fonden,
-men kan besluta under verksamhetsåret att de ska använda
-Nämndens totala resultatfond får inte vara negativ. Det fonden. Nämnden ska då uppmärksamma fullmäktige i
-är fullmäktige som fattar beslut om resultatfondernas början av året alternativt i samband med uppföljningarna
-avsättningar i samband med bokslutet och specifikt i 30 april, 31 augusti eller 31 december att nämnden kommer
-ärendet ombudgetering och resultatfonder. Under året kan använda fonden. Kommunfullmäktige beslutar om
-man göra ramjustering av resultatfonden i de fall då slutreglering av fonden i samband med bokslutet i ärendet
-verksamheten övergår till annan nämnd. I de fall nämnden ombudget och resultatfonder, då en notering sker i det egna
-önskar föra med ett överskott till resultatfonden ska kapitalet. Nämnden får en redovisning av utfallet för de
-nämnden tydligt beskriva och motivera utifrån kriterierna enheter som ingår i nämndens resultatfonder i bokslutet.
+• ta bort kalenderårsproblematiken, exempelvis undvika
+köp för att hålla sin budget i slutet av året.
+
+Nämndens totala resultatfond får inte vara negativ. Det
+är fullmäktige som fattar beslut om resultatfondernas
+avsättningar i samband med bokslutet och specifikt i
+ärendet ombudgetering och resultatfonder. Under året kan
+man göra ramjustering av resultatfonden i de fall då
+verksamheten övergår till annan nämnd. I de fall nämnden
+önskar föra med ett överskott till resultatfonden ska
+nämnden tydligt beskriva och motivera utifrån kriterierna
 1–4 nedan beroende på orsak till avvikelsen.
+
 32 Kommunbudget 2027 och plan 2028–2029
+
+1\. Nämnden har inte utfört planerad verksamhet.
+Nämnden ska normalt återredovisa överskottet.
+
+2\. Man har överfört verksamhet till annan nämnd eller
+styrelse. Normalt gör man ramjustering av budgeten under
+verksamhetsåret. I undantagsfall kan man återredovisa
+överskott eller överföra det till aktuell nämnd eller styrelse
+i samband med bokslutet.
+
+3\. Egna effektiviseringar eller besparingar. Redovisning av
+prestationer eller andra utvärderingskriterier som nämnden
+eller styrelsen använder ska jämföras med budget.
+Nämnden för över överskottet till deras resultatfond.
+
+4\. Pågående driftprojekt. Projekten ska vara igångsatta
+men inte avslutade. Nämnden kan ombudgetera över­
+skottet till nya budgetåret.
+Man ska också analysera och redovisa orsaker till
+underskott av nämndens totala nettobudget. Normalt tar
+nämnden med sig underskottet och täcker det inom sin
+resultatfond.
+
+Underskott
+Den totala resultatfonden för en nämnd kan vara negativ
+ett enstaka år men nämnden ska då återställa underskottet
+nästföljande budgetår. I särskilda fall kan fullmäktige
+bevilja längre tid för att återställa underskottet. Nämnden
+ska redovisa åtgärderna vid apriluppföljningen.
+
+Resultatfondens storlek
+Fonden får vara högst tio procent av budgeterad bruttoom­
+slutning för bokslutsåret. Här kan fullmäktige besluta om
+större eller mindre fond om det finns särskilda skäl.
+
+Uttag ur fonden
+Resultatfonden är en öronmärkning av kommunens egna
+kapital. Nämnden kan inte budgetera om uttag ur fonden,
+men kan besluta under verksamhetsåret att de ska använda
+fonden. Nämnden ska då uppmärksamma fullmäktige i
+början av året alternativt i samband med uppföljningarna
+30 april, 31 augusti eller 31 december att nämnden kommer
+använda fonden. Kommunfullmäktige beslutar om
+slutreglering av fonden i samband med bokslutet i ärendet
+ombudget och resultatfonder, då en notering sker i det egna
+kapitalet. Nämnden får en redovisning av utfallet för de
+enheter som ingår i nämndens resultatfonder i bokslutet.
 
 <!-- sida 74 -->
 
-EKONOMISTYRPRINCIPER
-
 Användning
-besluta om en omdisponering mellan projektportföljer,
-Nämnden får använda resultatfonden för att täcka huvudprojektet eller projekten inom budgetramen.
-underskott i bokslutet. Fonden får användas för alla Nämnden kan inte omdisponera mellan de olika investe­
-driftskostnader av engångskaraktär inom nämndens ringskategorierna som fullmäktige har fastställt.
+Nämnden får använda resultatfonden för att täcka
+underskott i bokslutet. Fonden får användas för alla
+driftskostnader av engångskaraktär inom nämndens
 verksamhetsområde. Däremot får nämnden inte använda
-fonden för kostnader som är nivåhöjande som innebär att För lokalinvesteringar är det nämnden för Service som
-nämnden långsiktigt binder sig för sådant som inte ryms rapporterar till kommunstyrelsen. Det är nämnden för
-inom budget.                      Service som utför lokalinvesteringarna på uppdrag av
-kommunstyrelsen, som äger budgeten för lokalinvestering­
+fonden för kostnader som är nivåhöjande som innebär att
+nämnden långsiktigt binder sig för sådant som inte ryms
+inom budget.
+
 Investeringar
-arna. Överskott eller underskott i lokalinvesteringar som
-Nämnderna får en budgetram för investeringarna från har påbörjats men ännu inte avslutats kan man överföra
-fullmäktige uppdelad per investeringskategori. Nämnden till nästa eller kommande budgetår. De ombudgeteras tills
-beslutar om fördelning i projektportföljer, huvudprojekt investeringen är helt genomförd och slutredovisad.
+Nämnderna får en budgetram för investeringarna från
+fullmäktige uppdelad per investeringskategori. Nämnden
+beslutar om fördelning i projektportföljer, huvudprojekt
 eller projekt som ingår i budgetramen. Avstämning av det
-ekonomiska utfallet jämfört med budget ska ske löpande Normalt kan man inte ombudgetera exploateringsprojekten
-under projektets genomförande. Om det vid den ekono­ utan dem ska man förklara och hantera i prognoserna
-miska uppföljningen visar sig att man inte kan genomföra under verksamhetsåret. Det finns möjlighet att omplanera
-projektportföljen, huvudprojektet eller projektet inom exploateringsprojekten över tid om tidsförskjutningar i
-tilldelad investeringsram ska förvaltningen rapportera det projekten sker.
+ekonomiska utfallet jämfört med budget ska ske löpande
+under projektets genomförande. Om det vid den ekono­
+miska uppföljningen visar sig att man inte kan genomföra
+projektportföljen, huvudprojektet eller projektet inom
+tilldelad investeringsram ska förvaltningen rapportera det
 till nämnden.
-Investeringar delas in i olika kategorier:
-Nämnden beslutar hur investeringsbudgeten ska fördelas • Löpande investeringar
-mellan sina projektportföljer, huvudprojekt eller projekt • Övriga investeringar
-samt hur budgeten ska anpassas vid händelse av nya • Reinvesteringar
-förutsättningar. Nämnden följer den budgetfördelning av • Lokalinvesteringar
-investeringskategorier som fullmäktige har beslutat om i • Avgiftsfinansierad verksamhet
-Kommunbudgeten. Förvaltningen behöver inte rapportera • Exploateringar
+
+Nämnden beslutar hur investeringsbudgeten ska fördelas
+mellan sina projektportföljer, huvudprojekt eller projekt
+samt hur budgeten ska anpassas vid händelse av nya
+förutsättningar. Nämnden följer den budgetfördelning av
+investeringskategorier som fullmäktige har beslutat om i
+Kommunbudgeten. Förvaltningen behöver inte rapportera
 om en avvikelse är mindre är fem procent till nämnden, om
-Löpande investeringar
 det inte motsvarar mer än fem miljoner kronor.
-Löpande investeringar är sådant som regelbundet
-Förvaltningen behöver inte rapportera mindre avvikelser återkommer och som ligger på en någorlunda jämn nivå.
-i enskilda projekt till nämnden så länge som avvikelsen Kapitalkostnader som orsakas av dessa investeringar tar
-finansieras inom projektportföljen eller huvudprojektet, om nämnden inom ram. Kapitalkostnaderna består av avskriv­
-nämnden har budgeterat på sådan övergripande nivå. ningar och internränta. Avskrivningar kan man disponera
-Förvaltningen ska slutredovisa ett investeringsprojekt över för alternativa verksamhetskostnader om det finns
-fem miljoner kronor till nämnden. utrymme i driftbudgeten och investeringsnivån över tid
-ligger på en lägre nivå än planen. Nämnden kan inte göra
-Huvudregeln är att överskott eller underskott för pågående motsvarande omdisponering med internränta eftersom
-men inte avslutade investeringsprojekt hanterar man i de endast är en intern post i budgeten som ska spegla
-första hand inom nämndens nästkommande års investe­ kommunens upplåningskostnad. Man ombudgeterar inte
-ringsram och ombudgeteras inte. Vid större investeringar löpande investeringar.
+
+Förvaltningen behöver inte rapportera mindre avvikelser
+i enskilda projekt till nämnden så länge som avvikelsen
+finansieras inom projektportföljen eller huvudprojektet, om
+nämnden har budgeterat på sådan övergripande nivå.
+Förvaltningen ska slutredovisa ett investeringsprojekt över
+fem miljoner kronor till nämnden.
+
+Huvudregeln är att överskott eller underskott för pågående
+men inte avslutade investeringsprojekt hanterar man i
+första hand inom nämndens nästkommande års investe­
+ringsram och ombudgeteras inte. Vid större investeringar
 som pågår under flera år kan man tillämpa undantag
-Övriga investeringar
 från huvudregeln. Då kan man överföra eller tillämpas
-ombudgetering till nästa eller kommande budgetår, tills Nämnderna får en budgetram för övriga investeringar.
-dess att investeringen är genomförd. Nämnden beslutar om de projekt som ingår i budgetramen.
-Nämnden blir kompenserad för de kapitalkostnader som
-Nämnden beslutar om avslutade investeringsprojekt som investeringarna ger upphov till.
+ombudgetering till nästa eller kommande budgetår, tills
+dess att investeringen är genomförd.
+
+Nämnden beslutar om avslutade investeringsprojekt som
 går med över­ eller underskott och hanterar detta inom
 nämndens budgetram. Nämnden kan även under året
+
+EKONOMISTYRPRINCIPER
+
+besluta om en omdisponering mellan projektportföljer,
+huvudprojektet eller projekten inom budgetramen.
+Nämnden kan inte omdisponera mellan de olika investe­
+ringskategorierna som fullmäktige har fastställt.
+
+För lokalinvesteringar är det nämnden för Service som
+rapporterar till kommunstyrelsen. Det är nämnden för
+Service som utför lokalinvesteringarna på uppdrag av
+kommunstyrelsen, som äger budgeten för lokalinvestering­
+arna. Överskott eller underskott i lokalinvesteringar som
+har påbörjats men ännu inte avslutats kan man överföra
+till nästa eller kommande budgetår. De ombudgeteras tills
+investeringen är helt genomförd och slutredovisad.
+
+Normalt kan man inte ombudgetera exploateringsprojekten
+utan dem ska man förklara och hantera i prognoserna
+under verksamhetsåret. Det finns möjlighet att omplanera
+exploateringsprojekten över tid om tidsförskjutningar i
+projekten sker.
+
+Investeringar delas in i olika kategorier:
+• Löpande investeringar
+• Övriga investeringar
+• Reinvesteringar
+• Lokalinvesteringar
+• Avgiftsfinansierad verksamhet
+• Exploateringar
+
+Löpande investeringar
+Löpande investeringar är sådant som regelbundet
+återkommer och som ligger på en någorlunda jämn nivå.
+Kapitalkostnader som orsakas av dessa investeringar tar
+nämnden inom ram. Kapitalkostnaderna består av avskriv­
+ningar och internränta. Avskrivningar kan man disponera
+för alternativa verksamhetskostnader om det finns
+utrymme i driftbudgeten och investeringsnivån över tid
+ligger på en lägre nivå än planen. Nämnden kan inte göra
+motsvarande omdisponering med internränta eftersom
+de endast är en intern post i budgeten som ska spegla
+kommunens upplåningskostnad. Man ombudgeterar inte
+löpande investeringar.
+
+Övriga investeringar
+Nämnderna får en budgetram för övriga investeringar.
+Nämnden beslutar om de projekt som ingår i budgetramen.
+Nämnden blir kompenserad för de kapitalkostnader som
+investeringarna ger upphov till.
+
 Kommunbudget 2027 och plan 2028–2029 33
 
 <!-- sida 75 -->
@@ -2855,82 +3429,122 @@ Kommunbudget 2027 och plan 2028–2029 33
 EKONOMISTYRPRINCIPER
 
 Reinvesteringar
-tidsförskjutningar i projekten sker.
 Nämnderna får en budgetram för reinvesteringar.
-Finansiell leasing
 Nämnden beslutar om de projektportföljer, huvudprojekt
-eller projekt som ingår i budgetramen. Nämnden blir Kommunen är restriktiv med leasing i enlighet med
-kompenserad för de kapitalkostnader som investeringarna finansiella styrande dokument. Ur ett redovisningsper­
-orsakar.                          spektiv kan ett hyresavtal eller leasingavtal klassificeras
-som finansiell leasing, vilket innebär att det redovisas som
+eller projekt som ingår i budgetramen. Nämnden blir
+kompenserad för de kapitalkostnader som investeringarna
+orsakar.
+
 Lokalinvesteringar
-en investering. När det gäller finansiell leasing av lokaler
-Följande gäller för ny­ till­ och ombyggnation av lokaler. ingår de i lokalplanen.
+Följande gäller för ny­ till­ och ombyggnation av lokaler.
 Det budgeterade beloppet tillhör kommunstyrelsen som
-Konstgestaltning
 kan justera mellan olika lokalobjekt under året. Byggpro­
-jekt i lokalplanen får startas av lokalstyrgruppen upp om Kommunen avsätter från och med Kommunbudget 2026
-de understiger 25 miljoner kronor i investeringsbelopp. 0,5 procent av byggnadernas byggutgift till konstgestalt­
-För projekt som överstiger 25 miljoner kronor eller är av ning i samband med kommunens investering i nya lokaler.
-särskild principiell karaktär ska kommunstyrelsen besluta Med byggutgift menar vi den del av projektkostnaden som
-om uppstart.                      omfattar uppförande av en byggnad exklusive markförvärv,
-projektering, markarbeten, installationer och byggher­
-Uppstartsbeslut krävs även för de hyresobjekt som ligger rekostnader. Nämnden för Kultur & Fritid ansvarar för
-i lokalplanen där hyran motsvarar en investering på 25 beslut om och inköp av konstgestaltning. Nämnden kan
-miljoner kronor. Det är Service som betalar kapitalkostna­ besluta att budgeten kan omfördelas mellan olika lokaler
-derna som tar ut detta i en hyra av hyresgästen. som vi bygger. Det innebär att det inte alltid blir 0,5
-Nämnderna bekostar behovsanalyser inom sin drifts­ procent i konstgestaltning per lokal utan det kan variera
-budget. Det är beställande nämnds driftsbudget som mellan olika lokaler.
+jekt i lokalplanen får startas av lokalstyrgruppen upp om
+de understiger 25 miljoner kronor i investeringsbelopp.
+För projekt som överstiger 25 miljoner kronor eller är av
+särskild principiell karaktär ska kommunstyrelsen besluta
+om uppstart.
+
+Uppstartsbeslut krävs även för de hyresobjekt som ligger
+i lokalplanen där hyran motsvarar en investering på 25
+miljoner kronor. Det är Service som betalar kapitalkostna­
+derna som tar ut detta i en hyra av hyresgästen.
+Nämnderna bekostar behovsanalyser inom sin drifts­
+budget. Det är beställande nämnds driftsbudget som
 bekostar investeringsprojekt som inte resulterar i en
-investering.                      Kommunen får ta ställning till konstgestaltning i varje
-enskilt projekt när det gäller investeringar i infrastruktur
-Hyresgästen betalar för verksamhetsanpassningar av som gator och vägar som en extern part betalar. Detsamma
-lokaler. Nämnderna får 80 procent av hyran, som orsakas gäller i de fall kommunen hyr en lokal från en extern
-av den nya lokalen, till sin budgetram. Detta gäller alla fastighetsägare.
+investering.
+
+Hyresgästen betalar för verksamhetsanpassningar av
+lokaler. Nämnderna får 80 procent av hyran, som orsakas
+av den nya lokalen, till sin budgetram. Detta gäller alla
 lokaler i lokalplanen. I samband med uppsägning av lokaler
-Internränta
 kan nämnden få behålla 20 procent av den budgeterade
-avgående hyran. Kommunstyrelsen prövar varje sådant Nivån på den interna räntan följer Sveriges Kommuner
-enskilt fall                      och Regioners, SKR:s, rekommendationer med ett års
-.                                 förskjutning om inte annat anges. Internräntan är 2,5
+avgående hyran. Kommunstyrelsen prövar varje sådant
+enskilt fall
+.
 Avgiftsfinansierad verksamhet
-procent år 2026 och ökar till 2,75 procent från 2027 för
-Investeringar inom den avgiftsfinansierade verksamheten samtliga verksamheter.
+Investeringar inom den avgiftsfinansierade verksamheten
 finns redovisade under respektive kollektiv. Avgiftskol­
-Avgiftsfinansierad verksamhet
 lektiven är avfall och återvinning, vatten och avlopp samt
-bredband. Kostnaderna för dessa investeringar täcks av Vatten & Avlopp, Avfall & Återvinning och Kungsbacka
-deras respektive intäkter och belastar inte skattekollektivet. bredbandsnät får inga skattemedel utan driver sin
-verksamhet på avgifter som de tar ut. Kommunfullmäktige
+bredband. Kostnaderna för dessa investeringar täcks av
+deras respektive intäkter och belastar inte skattekollektivet.
+
 Exploateringar
-fastställer taxan och nämnden för Teknik ska utifrån taxan
-Inom ett exploateringsområde finns det investeringar besluta om budget för verksamhetsåret.
+Inom ett exploateringsområde finns det investeringar
 som förblir kommunala, exempelvis gator och vägar.
-Vatten & Avlopp (VA)
 Nämnden får kompensation för de kapitalkostnaderna.
-Exploateringsprojekten ombudgeteras inte utan dem Tillfälliga över­ eller underskott ska vi i princip jämna
-förklarar och hanterar man i prognoserna jämfört med ut inom en tidsperiod på tre till tio år. Vid väsentliga
-budget under innevarande verksamhetsår. Det finns överskott som inte kan jämnas ut inom denna tid blir
-möjlighet att omplanera exploateringsprojekten över tid om VA­huvudmannen återbetalningsskyldig. En något
+Exploateringsprojekten ombudgeteras inte utan dem
+förklarar och hanterar man i prognoserna jämfört med
+budget under innevarande verksamhetsår. Det finns
+möjlighet att omplanera exploateringsprojekten över tid om
+
 34 Kommunbudget 2027 och plan 2028–2029
+
+tidsförskjutningar i projekten sker.
+
+Finansiell leasing
+Kommunen är restriktiv med leasing i enlighet med
+finansiella styrande dokument. Ur ett redovisningsper­
+spektiv kan ett hyresavtal eller leasingavtal klassificeras
+som finansiell leasing, vilket innebär att det redovisas som
+en investering. När det gäller finansiell leasing av lokaler
+ingår de i lokalplanen.
+
+Konstgestaltning
+Kommunen avsätter från och med Kommunbudget 2026
+0,5 procent av byggnadernas byggutgift till konstgestalt­
+ning i samband med kommunens investering i nya lokaler.
+Med byggutgift menar vi den del av projektkostnaden som
+omfattar uppförande av en byggnad exklusive markförvärv,
+projektering, markarbeten, installationer och byggher­
+rekostnader. Nämnden för Kultur & Fritid ansvarar för
+beslut om och inköp av konstgestaltning. Nämnden kan
+besluta att budgeten kan omfördelas mellan olika lokaler
+som vi bygger. Det innebär att det inte alltid blir 0,5
+procent i konstgestaltning per lokal utan det kan variera
+mellan olika lokaler.
+
+Kommunen får ta ställning till konstgestaltning i varje
+enskilt projekt när det gäller investeringar i infrastruktur
+som gator och vägar som en extern part betalar. Detsamma
+gäller i de fall kommunen hyr en lokal från en extern
+fastighetsägare.
+
+Internränta
+Nivån på den interna räntan följer Sveriges Kommuner
+och Regioners, SKR:s, rekommendationer med ett års
+förskjutning om inte annat anges. Internräntan är 2,5
+procent år 2026 och ökar till 2,75 procent från 2027 för
+samtliga verksamheter.
+
+Avgiftsfinansierad verksamhet
+Vatten & Avlopp, Avfall & Återvinning och Kungsbacka
+bredbandsnät får inga skattemedel utan driver sin
+verksamhet på avgifter som de tar ut. Kommunfullmäktige
+fastställer taxan och nämnden för Teknik ska utifrån taxan
+besluta om budget för verksamhetsåret.
+
+Vatten & Avlopp (VA)
+Tillfälliga över­ eller underskott ska vi i princip jämna
+ut inom en tidsperiod på tre till tio år. Vid väsentliga
+överskott som inte kan jämnas ut inom denna tid blir
+VA­huvudmannen återbetalningsskyldig. En något
 
 <!-- sida 76 -->
 
-EKONOMISTYRPRINCIPER
+längre tidsperiod för att justera under­ och överskott kan
+accepteras om VA­huvudmannen har en upprättad plan för
+hur utjämningen ska genomföras.
 
-längre tidsperiod för att justera under­ och överskott kan redovisas som en kostnad i resultaträkningen. Det
-accepteras om VA­huvudmannen har en upprättad plan för innebär att kommunen kan välja mellan att redovisa hela
-hur utjämningen ska genomföras.   med finansieringskostnaden under beslutsåret eller att
-fördela kostnaden med enhetliga belopp under högst 25 år,
-Skattefinansieringen får gå till att täcka kostnader som i samband med att man fattat beslut om och tecknat avtal.
+Skattefinansieringen får gå till att täcka kostnader som
 hela VA­kollektivet annars hade fått bära och inte för
-att täcka kostnader som gynnar enskilda fastigheter eller Vi tillämpar i första hand principen att vi tar kostnaden
-fastighetsgrupper.                direkt om finansieringen tillåter. Oavsett hantering
-i redovisningen sker finansiering inom kommunens
+att täcka kostnader som gynnar enskilda fastigheter eller
+fastighetsgrupper.
+
 Avfall & Återvinning
-finansverksamhet.
 Tillfälliga över­ eller underskott ska vi i princip jämna ut
 inom en tidsperiod på tre till tio år.
+
 Kungsbacka bredband
 Kungsbacka Bredbandsnät är ett öppet stadsnät. Det
 innebär att kommunen låter marknadens olika leverantörer
@@ -2968,6 +3582,19 @@ statlig infrastruktur. Medfinansiering får enligt lag om
 kommunal bokföring och redovisning redovisas
 i balansräkningen som Bidrag till infrastruktur, eller
 
+EKONOMISTYRPRINCIPER
+
+redovisas som en kostnad i resultaträkningen. Det
+innebär att kommunen kan välja mellan att redovisa hela
+med finansieringskostnaden under beslutsåret eller att
+fördela kostnaden med enhetliga belopp under högst 25 år,
+i samband med att man fattat beslut om och tecknat avtal.
+
+Vi tillämpar i första hand principen att vi tar kostnaden
+direkt om finansieringen tillåter. Oavsett hantering
+i redovisningen sker finansiering inom kommunens
+finansverksamhet.
+
 Kommunbudget 2027 och plan 2028–2029 35
 
 <!-- sida 77 -->
@@ -2976,44 +3603,43 @@ KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Ekonomiska              förutsättningar
 
-I följande avsnitt beskriver vi förutsättningarna för till historiska antal. Kungsbacka har haft en omfattande
-kommunens budget. Här redogör vi för befolkningsprog­ tillväxt under många år med hög inflyttning. I dag finns
-nosen, vad kommunen kan räkna med för skatteintäkter det inget som tyder på att inflyttningen framöver kommer
-och generella statsbidrag under budgetåret och planperi­ att bli högre än tidigare. Det beror bland annat på att
-oden, hur löner och priser räknas upp, kompensationen barnafödandet minskar i Sverige och i världen och att SCB
-för volymförändringar, vilka särskilda satsningar som är har sänkt sina antaganden om migration till Sverige.
+I följande avsnitt beskriver vi förutsättningarna för
+kommunens budget. Här redogör vi för befolkningsprog­
+nosen, vad kommunen kan räkna med för skatteintäkter
+och generella statsbidrag under budgetåret och planperi­
+oden, hur löner och priser räknas upp, kompensationen
+för volymförändringar, vilka särskilda satsningar som är
 planerade och hur budgeten kommer finansieras.
-Eftersom osäkerheten i omvärlden är stor, arbetar
+
 Befolkningsprognos
-kommunen utifrån scenarier, där det mest realistiska
-Hur antalet invånare och ålderssammansättningen utfallet är att befolkningsutvecklingen hamnar i intervallet
-utvecklas påverkar skatteintäkter och kostnader för mellan det högsta och det lägsta scenariot. De långsiktiga
-förskola, skola, äldreomsorg och annan service. Befolk­ antagandena bör man se som en genomsnittlig nivå över
-ningsprognosen är därför ett viktigt underlag för planering tid, inte som en bedömning av den mest sannolika nivån
-och ekonomisk fördelning i kommunbudgeten. Under ett enskilt år.
+Hur antalet invånare och ålderssammansättningen
+utvecklas påverkar skatteintäkter och kostnader för
+förskola, skola, äldreomsorg och annan service. Befolk­
+ningsprognosen är därför ett viktigt underlag för planering
+och ekonomisk fördelning i kommunbudgeten. Under
 många år har Kungsbacka haft en befolkningstillväxt
-på nära 1 000 nya invånare varje år. De senaste årens Befolkningsprognosen visar på en fortsatt folkökning.
-händelser – från flyktingvågen 2015 till pandemin och Fram till 2030 väntas befolkningen öka med 1 175
-krigen i Ukraina och Mellanöstern – visar hur snabbt invånare, vilket innebär en genomsnittlig ökning med
-demografiska förutsättningar kan förändras. Omvärlds­ 0,27 procent per år. Mellan åren 2030 till 2035 väntas
-förändringarna påverkar människors beteendemönster och befolkningen öka med 2 436 invånare, en genomsnittlig
-befolkningsprognosen. Ett exempel är att utflyttningen årlig ökning med 0,55 procent. Under den kommande
-plötsligt minskade till historiskt låga nivåer i Kungsbacka tioårsperioden väntas de yngre åldersgrupperna fortsatt
-under 2025, särskilt bland unga vuxna. Det ekonomiska att minska på grund av mindre födelsekullar. I slutet av
-läget med hög inflation och högre räntor har tydligt tioårsperioden väntar vi oss att förskolebarnen börja öka
-dämpat bostadsmarknaden.           marginellt igen, förutsatt att barnafödandet vänder upp i
-enlighet med SCB:s senaste riksprognos över fruktsam­
-Lågkonjunkturen har hållit i sig längre än nationella hetsutvecklingen.
+på nära 1 000 nya invånare varje år. De senaste årens
+händelser – från flyktingvågen 2015 till pandemin och
+krigen i Ukraina och Mellanöstern – visar hur snabbt
+demografiska förutsättningar kan förändras. Omvärlds­
+förändringarna påverkar människors beteendemönster och
+befolkningsprognosen. Ett exempel är att utflyttningen
+plötsligt minskade till historiskt låga nivåer i Kungsbacka
+under 2025, särskilt bland unga vuxna. Det ekonomiska
+läget med hög inflation och högre räntor har tydligt
+dämpat bostadsmarknaden.
+
+Lågkonjunkturen har hållit i sig längre än nationella
 bedömare hade trott och osäkerheten i omvärlden är stor.
-Statistikmyndigheten SCB har de senaste åren sänkt sina Under perioden 2026–2029 väntas antalet barn mellan
-prognoser för både barnafödande och migration 0–12 år minska med 543 personer, varav barnen mellan 1–5
-och befolkningsprognoser över hela Sverige har justerats år minskar med 197 personer. Antalet tonåringar mellan
-ned. Födelsetalen går ner i landet generellt, och även i 13–15 år minskar med 49 personer, medan gruppen 16–19
-Kungsbacka märker vi att det inte längre föds lika många år minskar med 250 personer. Vuxna i åldersgruppen
-barn som tidigare. Mycket tyder på att Sverige går mot en 20–64 år väntas öka med 211 personer. Antalet äldre
-period med lägre befolkningsökningar än vi vant oss vid de mellan 65–79 år ökar med 493 personer. Åldersgruppen
-senaste tjugo åren.                över 80 år ökar med 817 personer, varav personer över 85 år
-ökar med 785 personer.
+Statistikmyndigheten SCB har de senaste åren sänkt sina
+prognoser för både barnafödande och migration
+och befolkningsprognoser över hela Sverige har justerats
+ned. Födelsetalen går ner i landet generellt, och även i
+Kungsbacka märker vi att det inte längre föds lika många
+barn som tidigare. Mycket tyder på att Sverige går mot en
+period med lägre befolkningsökningar än vi vant oss vid de
+senaste tjugo åren.
+
 Befolkningsprognosen baseras på prognoser för bostads­
 byggandet i Kungsbacka, där läget på bostadsmarknaden
 påverkar byggandet. Flera byggplaner har flyttats fram i
@@ -3023,7 +3649,46 @@ färdigställda bostäder, där inflyttningen tidigare har
 tenderat att överskattas i prognosen. Inflyttningen justeras
 därför ner för att göra prognosen mer träffsäker och
 anpassas
+
 36 Kommunbudget 2027 och plan 2028–2029
+
+till historiska antal. Kungsbacka har haft en omfattande
+tillväxt under många år med hög inflyttning. I dag finns
+det inget som tyder på att inflyttningen framöver kommer
+att bli högre än tidigare. Det beror bland annat på att
+barnafödandet minskar i Sverige och i världen och att SCB
+har sänkt sina antaganden om migration till Sverige.
+
+Eftersom osäkerheten i omvärlden är stor, arbetar
+kommunen utifrån scenarier, där det mest realistiska
+utfallet är att befolkningsutvecklingen hamnar i intervallet
+mellan det högsta och det lägsta scenariot. De långsiktiga
+antagandena bör man se som en genomsnittlig nivå över
+tid, inte som en bedömning av den mest sannolika nivån
+ett enskilt år.
+
+Befolkningsprognosen visar på en fortsatt folkökning.
+Fram till 2030 väntas befolkningen öka med 1 175
+invånare, vilket innebär en genomsnittlig ökning med
+0,27 procent per år. Mellan åren 2030 till 2035 väntas
+befolkningen öka med 2 436 invånare, en genomsnittlig
+årlig ökning med 0,55 procent. Under den kommande
+tioårsperioden väntas de yngre åldersgrupperna fortsatt
+att minska på grund av mindre födelsekullar. I slutet av
+tioårsperioden väntar vi oss att förskolebarnen börja öka
+marginellt igen, förutsatt att barnafödandet vänder upp i
+enlighet med SCB:s senaste riksprognos över fruktsam­
+hetsutvecklingen.
+
+Under perioden 2026–2029 väntas antalet barn mellan
+0–12 år minska med 543 personer, varav barnen mellan 1–5
+år minskar med 197 personer. Antalet tonåringar mellan
+13–15 år minskar med 49 personer, medan gruppen 16–19
+år minskar med 250 personer. Vuxna i åldersgruppen
+20–64 år väntas öka med 211 personer. Antalet äldre
+mellan 65–79 år ökar med 493 personer. Åldersgruppen
+över 80 år ökar med 817 personer, varav personer över 85 år
+ökar med 785 personer.
 
 <!-- sida 78 -->
 
@@ -3031,20 +3696,20 @@ KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Befolkningsprognos 2023–2033
 
-Ålder  2025 2026  2027 2028  2029 2030  2031 2032 2033  2034 2035
-0     696   686  684   698  709   727  752   774  796   805  811
-1–5  4 553 4 440 4 318 4 270 4 243 4 242 4 312 4 389 4 483 4 580 4 657
+Ålder 2025  2026 2027  2028 2029 2030  2031 2032  2033 2034  2035
+0     696  686   684  698   709  727   752  774   796  805   811
+1–5   4 553 4 440 4 318 4 270 4 243 4 242 4 312 4 389 4 483 4 580 4 657
 6–12  7 826 7 753 7 682 7 555 7 383 7 312 7 198 7 079 7 014 6 940 6 946
 13–15 3 738 3 581 3 535 3 477 3 532 3 470 3 461 3 408 3 383 3 362 3 273
-16–19 5 046 4 989 4 929 4 884 4 739 4 654 4 608 4 606 4 583 4 554 4 536
-20–64 45 944 46 094 46 335 46 353 46 304 46 387 46 631 46 631 46 708 46 846 46 804
-65–69 4 384 4 500 4 589 4 831 5 058 5 343 5 558 5 836 5 885 5 855 5 874
+16–19  5 046 4 989 4 929 4 884 4 739 4 654 4 608 4 606 4 583 4 554 4 536
 
-70–74 3 829 3 898 4 015 4 024 4 156 4 225 4 342 4 428 4 653 4 864 5 121
+20–64 45 944 46 094 46 335 46 353 46 304 46 387 46 631 46 631 46 708 46 846 46 804
+65–69  4 384 4 500 4 589 4 831 5 058 5 343 5 558 5 836 5 885 5 855 5 874
+70–74  3 829 3 898 4 015 4 024 4 156 4 225 4 342 4 428 4 653 4 864 5 121
 75–79  4 160 3 948 3 805 3 689 3 624 3 627 3 703 3 813 3 831 3 957 4 022
-80–84 3 439 3 654 3 722 3 788 3 687 3 623 3 463 3 357 3 277 3 237 3 249
+80–84  3 439 3 654 3 722 3 788 3 687 3 623 3 463 3 357 3 277 3 237 3 249
 85–89  1 835 1 906 2 054 2 228 2 431 2 575 2 735 2 788 2 847 2 787 2 749
-90-   882   975  1 063 1 139 1 236 1 323 1 398 1 516 1 641 1 796 1 904
+90-    882  975  1 063 1 139 1 236 1 323 1 398 1 516 1 641 1 796 1 904
 Summa 86 332 86 424 86 730 86 937 87 102 87 507 88 164 88 626 89 102 89 582 89 944
 
 Skatter och generella statsbidrag
@@ -3052,35 +3717,41 @@ verksamhet, inte frivillig. Inkomstutjämningen räknas ut
 efter skattekraft och är statligt finansierad till 95 procent.
 Belopp i miljoner Budget Budget Plan Plan
 De femton kommunerna med högst skattekraft betalar
-kronor       2026 2027 2028 2029
+kronor      2026 2027 2028  2029
 en avgift. Resterande 275 kommuner får ett bidrag.
 Skatteintäkter 6 362 6 514 6 797 7 081
 Kungsbacka ligger i nuläget över 115 procent och i tabellen
 Inkomstutjämning -161 -96 -68 -60
 syns den beräknade nivån samt de kostnader vi får betala
+Kostnadsutjämning 13 7  15   11  respektive år i inkomstutjämningen.
+Regleringspost 200 223 205   171
 
-```osaker-tabell
-Kostnadsutjämning 13 7   15   11  respektive år i inkomstutjämningen.
-Regleringspost 200 223  205  171
 LSS-utjämning -21  -35  -35  -35  Skattesatsen som används i inkomstutjämningen är i
-```
-
 Fastighetsavgift 226 245 245 245  grunden lika i alla kommuner, men man har också tagit
 hänsyn till skillnader i uppdragets omfattning genom
 Inkomstutjämning, 118,7 117,1 116,4 116,2
 andel av rikets                   historiska skatteväxlingar. Alla kommuner i ett län
 skattek raft (%)                  har samma länsvisa skattesats. En enskild kommuns
 Summa intäkter 6 619 6 858 7 159 7 413 skattesats påverkar inte avgiften eller bidraget från
-inkomstutjämningen. Vid en skattehöjning tillfaller hela
-Vid uppskattning av vad skatteintäkterna kommer bli skattehöjningen därför kommunen. Kostnadsutjämningen
-under planperioden har vi utgått ifrån Sveriges Kommu­ är till för strukturella behov. Den är mellankommunal
-ners och Regioners, SKR:s, bedömning i Cirkulär 26:18. och utjämnar för skillnader i behov som kan bero på
-Kommunen får också olika statsbidrag. De generella demografi, geografi eller socioekonomiska förutsättningar.
-statsbidragen kommer ifrån utjämningssystemet. Systemet Under perioden 2027–2029 tar Kungsbacka emot medel i
-syftar till att skapa likvärdiga ekonomiska förutsättningar kostnadsutjämning.
+
+Vid uppskattning av vad skatteintäkterna kommer bli
+under planperioden har vi utgått ifrån Sveriges Kommu­
+ners och Regioners, SKR:s, bedömning i Cirkulär 26:18.
+Kommunen får också olika statsbidrag. De generella
+statsbidragen kommer ifrån utjämningssystemet. Systemet
+syftar till att skapa likvärdiga ekonomiska förutsättningar
 för alla kommuner och regioner att tillhandahålla
 service oberoende av skattekraft och kostnader som inte
 går att påverka. Utjämningssystemet gäller lagstadgad
+
+inkomstutjämningen. Vid en skattehöjning tillfaller hela
+skattehöjningen därför kommunen. Kostnadsutjämningen
+är till för strukturella behov. Den är mellankommunal
+och utjämnar för skillnader i behov som kan bero på
+demografi, geografi eller socioekonomiska förutsättningar.
+Under perioden 2027–2029 tar Kungsbacka emot medel i
+kostnadsutjämning.
+
 Kommunbudget 2027 och plan 2028–2029 37
 
 <!-- sida 79 -->
@@ -3088,27 +3759,25 @@ Kommunbudget 2027 och plan 2028–2029 37
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Resultat
-Volymberäkningarna utgår från befolkningsförändring av
-Kungsbacka är en kommun med behov av reinvesteringar antal invånare inom olika målgrupper. Befolkningsprog­
-för att ta hand om kommunens befintliga anläggningar. nosen som ingår i kommunbudgeten är framtagen i april
-Kommunen planerar även för nya investeringar i utbild­ 2026 och ligger till grund för beräkningarna. En
-ningslokaler, boenden och övrig infrastruktur. I budgeten målgrupp består exempelvis av antal barn inom respektive
-föreslår vi investeringar på höga nivåer. Kommunen måste åldersgrupp inom förskolan och grundskolan och andel
-därför budgetera för ett starkt resultat för att finansiera elever inom gymnasiet 16–19 år. För de äldre åldrarna
-delar av de stora investeringsvolymerna. är indelningen antal invånare över 65 år med olika ålder­
-sintervall. För skolverksamheterna är beräkningarna gjorda
+Kungsbacka är en kommun med behov av reinvesteringar
+för att ta hand om kommunens befintliga anläggningar.
+Kommunen planerar även för nya investeringar i utbild­
+ningslokaler, boenden och övrig infrastruktur. I budgeten
+föreslår vi investeringar på höga nivåer. Kommunen måste
+därför budgetera för ett starkt resultat för att finansiera
+delar av de stora investeringsvolymerna.
+
 Intäkter och kostnader som
-med hänsyn till att skolåret inte följer kalenderåret. Priset
 påverkar resultatet
-är rensat för hyreskostnader eftersom man budgeterar det
-I budgeterat resultat ingår inte kostnader eller separat. Kommunen budgeterar ersättning för nya hyror
-reavinster vid markförsäljningar, inte heller eventuella centralt och de tillkommer som ett tillägg till nämndernas
-exploaterings­ersättningar eller parkeringsavlösen. ramar. Tillägget är 80 procent av hyran vid tillträde till
-Eventuella intäkter för exploateringsersättningar och den nya lokalen. I samband med uppsägning av lokaler
-parkeringsavlösen kommer att påverka resultatet det år kan nämnden få behålla 20 procent av den budgeterade
-som gatan eller parkeringshuset är klart. Reavinster, avgående hyran. Det prövas i varje enskilt fall av kommun­
-exploaterings­ersättning och parkeringsavlösen budgeterar styrelsen.
+I budgeterat resultat ingår inte kostnader eller
+reavinster vid markförsäljningar, inte heller eventuella
+exploaterings­ersättningar eller parkeringsavlösen.
+Eventuella intäkter för exploateringsersättningar och
+parkeringsavlösen kommer att påverka resultatet det år
+som gatan eller parkeringshuset är klart. Reavinster,
+exploaterings­ersättning och parkeringsavlösen budgeterar
 vi däremot i kassaflödesanalysen.
+
 Driftramar
 Ramar är det belopp som fullmäktige tilldelar varje nämnd
 att använda för att bedriva verksamhet som ligger inom
@@ -3121,6 +3790,7 @@ viktigt. Ramtilldelningen är uppbyggd så att alla har fått
 en generell uppräkning. Därefter har några nämnder fått
 volymtilldelning och några har fått en speciell tilldelning
 som vi redovisar nedan.
+
 Generell uppräkning
 Alla nämnder får en uppräkning för löner och priser 2027
 och 2028 med tre procent på föregående års budgetsumma.
@@ -3130,6 +3800,7 @@ rekommenderad nivå enligt Sveriges Kommuner och
 Regioner, SKR, och regleras slutligt när nivån är fastställd.
 Internräntan är beräknad till 2,75 procent. I nämndernas
 budgetramar ingår beräkningarna utifrån dessa nivåer.
+
 Volymuppräkning
 Kommunen beräknar volymerna med en prislapp per ny
 invånare i respektive åldersklass. Prislappen kommer från
@@ -3138,6 +3809,25 @@ samband med räkenskapssammandraget. Den offentliga
 statistiken samlas i en kommungemensam databas, Kolada.
 
 38 Kommunbudget 2027 och plan 2028–2029
+
+Volymberäkningarna utgår från befolkningsförändring av
+antal invånare inom olika målgrupper. Befolkningsprog­
+nosen som ingår i kommunbudgeten är framtagen i april
+2026 och ligger till grund för beräkningarna. En
+målgrupp består exempelvis av antal barn inom respektive
+åldersgrupp inom förskolan och grundskolan och andel
+elever inom gymnasiet 16–19 år. För de äldre åldrarna
+är indelningen antal invånare över 65 år med olika ålder­
+sintervall. För skolverksamheterna är beräkningarna gjorda
+med hänsyn till att skolåret inte följer kalenderåret. Priset
+är rensat för hyreskostnader eftersom man budgeterar det
+separat. Kommunen budgeterar ersättning för nya hyror
+centralt och de tillkommer som ett tillägg till nämndernas
+ramar. Tillägget är 80 procent av hyran vid tillträde till
+den nya lokalen. I samband med uppsägning av lokaler
+kan nämnden få behålla 20 procent av den budgeterade
+avgående hyran. Det prövas i varje enskilt fall av kommun­
+styrelsen.
 
 <!-- sida 80 -->
 
@@ -3683,112 +4373,188 @@ INVESTERING OCH EXPLOATERING
 
 Lokaler        och     boenden
 
-Kungsbacka kommun är en attraktiv kommun, egna lokaler och genom inhyrda lokaler. I genomförande­
-geografiskt placerad i en av Sveriges starkaste tillväxt­ och fasen utför vi lokalprojekt för att omsätta behov till färdig
-arbetsmarknadsregioner. Antalet invånare förändras lokal.
+Kungsbacka kommun är en attraktiv kommun,
+geografiskt placerad i en av Sveriges starkaste tillväxt­ och
+arbetsmarknadsregioner. Antalet invånare förändras
 årligen och kommunen behöver anpassa sina lokaler för
-att möta behovet utifrån befolkningsförändringarna. Det övergripande målet med lokalförsörjningen är att nå
-en god ekonomisk hushållning med lokaler och service och
-Kommunen har en omfattande verksamhet som vi därmed kunna frigöra resurser till kommunens kärn­
-bedriver i olika lokaler. Dessutom förmedlar kommunen verksamheter. Det leder i förlängningen till ett effektivt
-olika slags boenden för grupper i samhället som har svårt lokalutnyttjande och lägre kostnader totalt sett för hela
-att få bostad på vanligt sätt eller fått biståndsbeslut. Det kommunen.
+att möta behovet utifrån befolkningsförändringarna.
+
+Kommunen har en omfattande verksamhet som vi
+bedriver i olika lokaler. Dessutom förmedlar kommunen
+olika slags boenden för grupper i samhället som har svårt
+att få bostad på vanligt sätt eller fått biståndsbeslut. Det
 kan handla om boenden för äldre, personer med funk­
-tionsnedsättning, nyanlända samt socialt utsatta personer. Handläggningen av lokalbehoven behöver ske enligt
-Kommunen både äger och hyr in lokaler och boenden. nedanstående principer:
+tionsnedsättning, nyanlända samt socialt utsatta personer.
+Kommunen både äger och hyr in lokaler och boenden.
 
-Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lokalbehoven enligt lokalförsörj­
-"Kommunen ska genom aktiv lokalförsörjning tillhanda­ ningsprocessens olika steg för effektiv hantering.
-hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings­
-lokaler över tiden".                principen1 i fallande ordning:
+Kommunfullmäktige har antagit följande lokalpolicy:
+"Kommunen ska genom aktiv lokalförsörjning tillhanda­
+hålla och bibehålla ändamålsenliga och kostnadseffektiva
+lokaler över tiden".
 
-• Lokalbehov som inte är lagstyrd verksam-
 Varje år beslutar nämnderna om hur de bedömer
-het och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
-höjningar i befintliga lokaler har lägst priori-
-på befolkningsprognoser och lokalprognoser. Det är tet.
+på befolkningsprognoser och lokalprognoser. Det är
 kommunens lokalstyrgrupp som sammanställer behoven
-• Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
-medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-• Lokalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av
-lingar och som ger minskade driftskostnader
 kommunens flerårsbudget. Det är kommunfullmäktige
-samt lokalbehov på grund av volymutökningar
-som beslutar om lokalplanen.            inom befintliga områden har högst prioritet.
+som beslutar om lokalplanen.
+
 Lokalförsörjningsprocessen
 Vi handlägger samtliga lokalbehov enligt den så kallade
 lokalförsörjningsprocessen som inleds med en lokalplane­
 ringsfas. Det gör vi för en enhetlig och tydlig hantering.
-Handläggningen av lokalbehov ska vara gemensam för 1 Modellen är antagen av nämnden för Service 2015-06-07 (Dnr
-SE/2015:82).
+Handläggningen av lokalbehov ska vara gemensam för
 kommunens samtliga nämnder och vi ska använda
 processen för behov som innebär behov av investeringar i
+
+egna lokaler och genom inhyrda lokaler. I genomförande­
+fasen utför vi lokalprojekt för att omsätta behov till färdig
+lokal.
+
+Det övergripande målet med lokalförsörjningen är att nå
+en god ekonomisk hushållning med lokaler och service och
+därmed kunna frigöra resurser till kommunens kärn­
+verksamheter. Det leder i förlängningen till ett effektivt
+lokalutnyttjande och lägre kostnader totalt sett för hela
+kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt
+nedanstående principer:
+
+• Vi ska omhänderta lokalbehoven enligt lokalförsörj­
+ningsprocessens olika steg för effektiv hantering.
+• Vi ska prioritera utifrån den så kallade Prioriterings­
+principen1 i fallande ordning:
+
+• Lokalbehov som inte är lagstyrd verksam-
+het och lokalbehov som utgörs av kvalitets-
+höjningar i befintliga lokaler har lägst priori-
+tet.
+• Lokalbehov på grund av ny exploatering har
+medel prioritet.
+• Lokalbehov som beror på strukturomvand-
+lingar och som ger minskade driftskostnader
+samt lokalbehov på grund av volymutökningar
+inom befintliga områden har högst prioritet.
+
+1 Modellen är antagen av nämnden för Service 2015-06-07 (Dnr
+SE/2015:82).
+
 Lokalplanering        Genomförande
+
 Behov     Insamling Förstudie Projektering Genomför- Avslut
-& utredning                    ande
+& utredning                     ande
 Behovsfas
+
 Kommunbudget 2027 och plan 2028–2029 49
 
 <!-- sida 91 -->
 
 INVESTERING OCH EXPLOATERING
 
-• Vi ska välja lokallösningar utifrån lokaleffektivitet Investeringsbudget och hyresmedel för lokaler och
-enligt den så kallade Fyrstegsmodellen. Modellen boenden tillhör kommunstyrelsen och kommunstyrelsen
-innebär att vi ska välja och överväga lokallösningar kan justera mellan olika lokalprojekt under året.
+• Vi ska välja lokallösningar utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att vi ska välja och överväga lokallösningar
 enligt följande prioriteringsordning:
-1\. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokalplanen
-2\. Leda om ”strömmar” av elever, boende till ledig får vi starta upp om de understiger 25 miljoner kronor i
-kapacitet i befintliga lokaler  investeringsbelopp. För behov som överstiger 25 miljoner
-3\. Bygga om eller till befintliga lokaler kronor eller är av särskild principiell karaktär ska
-4\. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
-• Vi ska föreslå och välja lokallösningar utifrån igångsättningsbeslut krävs för de behov som ska lösas
-att ”Minska behovet av att bygga nytt genom att genom inhyrning enligt lokalplanen där hyran motsvarar
-samutnyttja och bygga mer flexibelt” vilket innebär att en investering av 25 miljoner kronor.
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
+4\. Bygga nya lokaler
+• Vi ska föreslå och välja lokallösningar utifrån
+att ”Minska behovet av att bygga nytt genom att
+samutnyttja och bygga mer flexibelt” vilket innebär att
 lokaler eller lokaldelar så långt det är möjligt planeras
-för att kunna samnyttjas och användas för flera Nämnden för Service finansierar kapitalkostnaden genom
-ändamål.                        att ta hyra av hyresgästen. Behovsanalyserna bekostar
-• Vi ska genomföra investeringar i egenägda lokaler om nämnderna inom sin driftsbudget.
+för att kunna samnyttjas och användas för flera
+ändamål.
+• Vi ska genomföra investeringar i egenägda lokaler om
 verksamheten har ett långsiktigt lokalbehov.
-• Vi ska pröva inhyrning som ett alternativ till att äga Investeringsprojekt som inte resulterar i en investering
-fastigheter. Vi ska välja det om det råder osäkerhet om finansieras genom den beställande nämndens driftsbudget.
+• Vi ska pröva inhyrning som ett alternativ till att äga
+fastigheter. Vi ska välja det om det råder osäkerhet om
 verksamhetens framtida innehåll och eller omfattning.
-Vi ska också ta hänsyn till hur lång tid behovet finns I samband med uppsägning av lokaler kan nämnden få
-eller om vi saknar investeringsmedel för egna investe­ behålla 20 procent av den budgeterade avgående hyran. Det
-ringar.                         prövas i varje enskilt fall av kommunstyrelsen. Nämnderna
-• Vi ska arbeta med lokalförsörjning genom ett tätt får ingen ramtilldelning för verksamhetsanpassning av
-samarbete med berörda förvaltningar. lokaler.
+Vi ska också ta hänsyn till hur lång tid behovet finns
+eller om vi saknar investeringsmedel för egna investe­
+ringar.
+• Vi ska arbeta med lokalförsörjning genom ett tätt
+samarbete med berörda förvaltningar.
 
-Lokalbehov 2027–2031              Konstgestaltning
-Nämnderna i Kungsbacka kommun har lämnat in I samband med kommunens investering i nybyggda
-bostads­och lokalbehov för perioden 2026–2030 med lokaler avsätter vi 0,5 procent av byggnadens byggutgift
-utblicksår 2031–2035. Nämndernas beslutade behov till konstnärlig utsmyckning. Med byggutgift menar vi
-uttrycks i volymmått, till exempel antal platser, antal den del av projektkostnaden som omfattar uppförande av
-elever eller antal förskolebarn. Lokalstyrgruppen bearbetar en byggnad exklusive markförvärv, projektering, markar­
-och bedömer kostnader utifrån nyckeltal framtagna av beten, installationer och byggherrekostnader. Nämnden
-förvaltningen för Service med hänsyn till investeringsut­ för Kultur & Fritid får ansvaret att upphandla och besluta
-gifter och driftskostnader. Vi tar fram lokalplanen utifrån om den konstnärliga utsmyckningen. Kommunen avsätter
-ett planerings­ och genomförandeperspektiv samt med ett särskilt belopp som kan fördelas olika mellan de lokaler
-utgångspunkt i ovan nämnda principer. som byggs. Det innebär att det inte alltid blir 0,5 procent
-i konstnärlig utsmyckning per lokal utan det kan variera
-Vi budgeterar nya hyror för lokalinvesteringar och inhyrda mellan olika lokaler men det blir alltid max 0,5 procent
-boenden centralt och nämnden får en ram motsvarande 80 totalt per år. Detta gäller bara byggnaderna. Vid investe­
-procent av hyran när lokalen är klar att börjar användas. ringar i infrastruktur som till exempel gator och vägar så
-Resterande 20 procent finansierar vi inom respektive tar vi ställning till konstnärlig utsmyckning i varje enskilt
-nämnds ram. Nämnderna får ingen ramtilldelning projekt. Detsamma gäller i de fall kommunen hyr in lokal
-för verksamhetsanpassning av lokaler. I samband med från externa fastighetsägare.
+Lokalbehov 2027–2031
+Nämnderna i Kungsbacka kommun har lämnat in
+bostads­och lokalbehov för perioden 2026–2030 med
+utblicksår 2031–2035. Nämndernas beslutade behov
+uttrycks i volymmått, till exempel antal platser, antal
+elever eller antal förskolebarn. Lokalstyrgruppen bearbetar
+och bedömer kostnader utifrån nyckeltal framtagna av
+förvaltningen för Service med hänsyn till investeringsut­
+gifter och driftskostnader. Vi tar fram lokalplanen utifrån
+ett planerings­ och genomförandeperspektiv samt med
+utgångspunkt i ovan nämnda principer.
+
+Vi budgeterar nya hyror för lokalinvesteringar och inhyrda
+boenden centralt och nämnden får en ram motsvarande 80
+procent av hyran när lokalen är klar att börjar användas.
+Resterande 20 procent finansierar vi inom respektive
+nämnds ram. Nämnderna får ingen ramtilldelning
+för verksamhetsanpassning av lokaler. I samband med
 uppsägning av lokaler kan nämnden få behålla 20 procent
-Hållbarhet & återbruk
 av den budgeterade avgående hyran. Kommunstyrelsen
-prövar varje sådant enskilt fall. I lokalplanen avsätter vi även budget för inventarier (lös
+prövar varje sådant enskilt fall.
+
+50 Kommunbudget 2027 och plan 2028–2029
+
+Investeringsbudget och hyresmedel för lokaler och
+boenden tillhör kommunstyrelsen och kommunstyrelsen
+kan justera mellan olika lokalprojekt under året.
+
+Behov som vi ska lösa genom investering enligt lokalplanen
+får vi starta upp om de understiger 25 miljoner kronor i
+investeringsbelopp. För behov som överstiger 25 miljoner
+kronor eller är av särskild principiell karaktär ska
+kommunstyrelsen besluta om igångsättning. Motsvarande
+igångsättningsbeslut krävs för de behov som ska lösas
+genom inhyrning enligt lokalplanen där hyran motsvarar
+en investering av 25 miljoner kronor.
+
+Nämnden för Service finansierar kapitalkostnaden genom
+att ta hyra av hyresgästen. Behovsanalyserna bekostar
+nämnderna inom sin driftsbudget.
+
+Investeringsprojekt som inte resulterar i en investering
+finansieras genom den beställande nämndens driftsbudget.
+
+I samband med uppsägning av lokaler kan nämnden få
+behålla 20 procent av den budgeterade avgående hyran. Det
+prövas i varje enskilt fall av kommunstyrelsen. Nämnderna
+får ingen ramtilldelning för verksamhetsanpassning av
+lokaler.
+
+Konstgestaltning
+I samband med kommunens investering i nybyggda
+lokaler avsätter vi 0,5 procent av byggnadens byggutgift
+till konstnärlig utsmyckning. Med byggutgift menar vi
+den del av projektkostnaden som omfattar uppförande av
+en byggnad exklusive markförvärv, projektering, markar­
+beten, installationer och byggherrekostnader. Nämnden
+för Kultur & Fritid får ansvaret att upphandla och besluta
+om den konstnärliga utsmyckningen. Kommunen avsätter
+ett särskilt belopp som kan fördelas olika mellan de lokaler
+som byggs. Det innebär att det inte alltid blir 0,5 procent
+i konstnärlig utsmyckning per lokal utan det kan variera
+mellan olika lokaler men det blir alltid max 0,5 procent
+totalt per år. Detta gäller bara byggnaderna. Vid investe­
+ringar i infrastruktur som till exempel gator och vägar så
+tar vi ställning till konstnärlig utsmyckning i varje enskilt
+projekt. Detsamma gäller i de fall kommunen hyr in lokal
+från externa fastighetsägare.
+
+Hållbarhet & återbruk
+I lokalplanen avsätter vi även budget för inventarier (lös
 inredning och utrustning). Det kan till exempel vara
 budget för möbler, växter och AV­utrustning (audiovisuell)
 för de förändrade lokalbehoven. Kommunfullmäktiges
-50 Kommunbudget 2027 och plan 2028–2029
 
 <!-- sida 92 -->
 
@@ -3837,12 +4603,13 @@ lokaler och under 2029 är summan 382 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2027 Plan 2028 Plan 2029 Plan 2030 Plan 2031
-755       631       382      500       391
+
+755       631       382       500       391
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2027 Plan 2028 Plan 2029 Plan 2030 Plan 2031
-51,3      62,2     45,8      33,9      25,1
+51,3      62,2      45,8     33,9      25,1
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis sanering, restvärden, temporära ersättningslokaler
 och förbrukningsinventarier.
@@ -3853,20 +4620,25 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts­ och fritidsakt
 Lokaltyp och beskrivning       2027 2028 2029 2030 2031
 140 Onsala fullmåttshall                    x
 143 Åsa fullmåttshall                       x
-145 Enkel isyta för träning (ishall)                  x
+
+145 Enkel isyta för träning (ishall)                 x
 148 Kulturskolelokaler i Åsa                x
 
-145 Enkel isyta för träning
 Noter
-Träningsishall som är något mindre än publika arenor.
 140 Onsala fullmåttshall
-Ny fullmåttsidrottshall som fyller både skolverksamhetens 148 Kulturskolelokaler i Åsa
-och föreningslivets behov.        Skapa en kulturskolehubb i befintliga lokaler i Åsa skolan
-genom en tillkommande nybyggnationen. Samordnas med
-143 Åsa fullmåttshall             behov löpnummer 364 Åsa omställning årskurs 4–9.
+Ny fullmåttsidrottshall som fyller både skolverksamhetens
+och föreningslivets behov.
+143 Åsa fullmåttshall
 Ny fullmåttsidrottshall som fyller både skolverksamhetens
 och föreningslivets behov. Vissa utrymmen samnyttjas med
 föreningsverksamhet.
+
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
+148 Kulturskolelokaler i Åsa
+Skapa en kulturskolehubb i befintliga lokaler i Åsa skolan
+genom en tillkommande nybyggnationen. Samordnas med
+behov löpnummer 364 Åsa omställning årskurs 4–9.
 
 Kommunbudget 2027 och plan 2028–2029 53
 
@@ -3910,61 +4682,33 @@ Utblick Nybyggnation skola Skårby F-3
 
 <!-- sida 96 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-338 Kvarteret Liljan skola
+
 227 Gräskärr förskola
-Området är föremål för exploatering av nytt bostadsområde.
 Exploatering av bostäder i centrala Kungsbacka har gett ökade
-Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov av förskolor. Därför måste vi bygga nya förskolelokaler.
-behov 339 Liljans idrottssal.
 227 a Gräskärrs förskola infrastruktur
-339a Kvarteret Liljan idrottssal
 Infrastruktur i form av tillfartsväg, vatten och avlopp och fjärr-
-I samband med att kommunen planerar en ny skola planerar vi
 värme för etablering av Gräskärrs förskola.
-också en ny skolidrottssal som tillgodoser skolverksamhetens
-och föreningslivets behov. Samordning sker med behov 338 Kvar-
 236b Åsa gård förskola
-teret Liljan skola.
 Området är föremål för exploatering av nytt bostadsområde. Vi
 bygger nya utbildningsplatser genom att anpassa befintliga skollo-
-351 Tingbergsskolan avveckling lokal och flytt
 kaler till förskolelokaler.
-Avveckling av Tingbergsskolans lokaler i samband med färdig-
-ställande av ny skola i kvarteret Liljan.
 348 Åsa förskola avveckling paviljong
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
-345 Tingbergsskolan avveckling lokal och flytt
 flytt till permanenta lokaler i närområdet.
-I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
 349 Åsa förskola avveckling paviljong
-avveckla den befintliga inhyrda lokalen.
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
 flytt till permanenta lokaler i närområdet.
-359 Anpassad grundskola
-Vi utökar utbildningsplatserna i anpassad grundskola med fem
 Utblick Hede/Tölö förskola
-platser, vid centrumnära Kollaskolan.
 Vi tillskapar 120 förskoleplatser i området Hede/Tölö. Behovet
 tillhör utblicksåren 2032-2036.
-363 Anpassad grundskola utökat behov
-Anpassad grundskola får ytterligare behov av ökade lokaler på
 360 Volymändring förskola Nordväst
-grund av utökat elevunderlag med 50 elever och behöver fler
 Det finns ett ökat behov av förskoleplatser i de nordvästra kom-
-utbildningsplatser. Vi anpassar delar av Kollaskolan efter deras
 mundelarna och därför planerar vi för en förstärkning av försko-
-behov.
 leplatser i området.
-364 Åsa omställning Åk. 4–9
 361 Förskoleplatser Björkris
-Vi flyttar alla elever i årskurs 4-9 i Åsa till Åsaskolan. Det gör att
 Exploatering av bostäder i Björkris har gett ökade behov av för-
-skolan behöver fler salar för praktiska och estetiska ämnen.
 skola. Därför måste vi bygga nya förskolelokaler i skollokalerna på
 Björkrisskolan.
 Utblick Nybyggnation skola Skårby åk F-3
@@ -3988,6 +4732,37 @@ Planerar för expansionsmöjlighet.
 350 Utflytt Åsa Gårdsskolan
 När vi byggt färdigt Åsa grundskola kommer vi kunna använda
 delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+
+INVESTERING OCH EXPLOATERING
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nytt bostadsområde.
+Därför måste vi bygga nya utbildningsplatser. Samordning med
+behov 339 Liljans idrottssal.
+339a Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola.
+351 Tingbergsskolan avveckling lokal och flytt
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+345 Tingbergsskolan avveckling lokal och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+359 Anpassad grundskola
+Vi utökar utbildningsplatserna i anpassad grundskola med fem
+platser, vid centrumnära Kollaskolan.
+363 Anpassad grundskola utökat behov
+Anpassad grundskola får ytterligare behov av ökade lokaler på
+grund av utökat elevunderlag med 50 elever och behöver fler
+utbildningsplatser. Vi anpassar delar av Kollaskolan efter deras
+behov.
+364 Åsa omställning Åk. 4–9
+Vi flyttar alla elever i årskurs 4-9 i Åsa till Åsaskolan. Det gör att
+skolan behöver fler salar för praktiska och estetiska ämnen.
+
 Kommunbudget 2027 och plan 2028–2029 55
 
 <!-- sida 97 -->
@@ -4002,29 +4777,41 @@ med särskild service kan utformas på olika sätt. Det kan till exempel bestå 
 gruppbostäder och sex servicebostäder, eller där alla tolv används som servicebostäder.
 
 Lokaltyp och beskrivning 2027 2028 2029 2030 2031
-413 Boende med särskild service, barn       4
-514 Boende med särskild service        12
-515 Boende med särskild service   12
-516 Boende med särskild service            12
-517 Boende med särskild service                  x
-Utblick Boende med särskild service
 
-519 Administrativa lokaler avveckling       x
-520 Administrativa lokaler avveckling            x
+```osaker-tabell
+413  Boende med särskild service, barn      4
+514  Boende med särskild service       12
+515  Boende med särskild service  12
+516  Boende med särskild service            12
+```
+
+517  Boende med särskild service                 x
+Utblick Boende med särskild service
+519  Administrativa lokaler avveckling      x
+520  Administrativa lokaler avveckling           x
 
 Noter
-413 Boende med särskild service, barn 517 Boende med särskild service
-Gruppbostad för barn med fyra platser för att verkställa Boende med tolv platser för att verkställa biståndsbeslut.
+
+413 Boende med särskild service, barn
+Gruppbostad för barn med fyra platser för att verkställa
 biståndsbeslut.
+514 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+
+517 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
 Utblick 2032 Boende med särskild service
-514 Boende med särskild service   Behovet tillhör utblicksåren perioden 2032–2036.
-Boende med tolv platser för att verkställa biståndsbeslut.
+Behovet tillhör utblicksåren perioden 2032–2036.
+
 519 Administrativa lokaler avveckling
-515 Boende med särskild service   Avveckling av inhyrd administrativ lokal.
-Boende med tolv platser för att verkställa biståndsbeslut.
+Avveckling av inhyrd administrativ lokal.
 520 Administrativa lokaler avveckling
-516 Boende med särskild service   Avveckling av inhyrd administrativ lokal.
-Boende med tolv platser för att verkställa biståndsbeslut.
+Avveckling av inhyrd administrativ lokal.
 
 56 Kommunbudget 2027 och plan 2028–2029
 
@@ -4038,24 +4825,33 @@ med cirka 100 elever och då vara totalt cirka 2 800 elever. Det kommer att fort
 flexibelt användande av lokaler för att klara av denna elevmängd i befintliga lokaler.
 
 Lokaltyp och beskrivning 2027 2028 2029 2030 2031
-1412 Fordon- och Transportprogrammet x
-1413 Kompetenscentrum         x
 
+1412 Fordon- och Transportprogrammet x
+1413 Kompetenscentrum        x
 1414 Vård- och omsorgsprogrammet x
 1415 El- och energiprogrammet x
-1419 Administrativa lokaler avveckling      x
+1419 Administrativa lokaler avveckling     x
 
 Noter
-1412 Fordons och Transportprogrammet 1414 Vård- och omsorgsprogrammet
-Utökning av antalet elevplatser vid kommunens Fordons-och Ny typ av utbildningslokal för gymnasieprogrammet Vård- och
-transportprogram beläget på Marios gata i Varla. Vi kommer Omsorg. Utbildningslokalen samnyttjas med behov löpnummer
-avveckla delar av befintliga lokaler för att ge plats för nya som 825 Lokal för förvaltningens utbildningsbehov.
+
+1412 Fordons och Transportprogrammet
+Utökning av antalet elevplatser vid kommunens Fordons-och
+transportprogram beläget på Marios gata i Varla. Vi kommer
+avveckla delar av befintliga lokaler för att ge plats för nya som
 klarar dagens bygglovskrav.
-1415 El- och energiprogrammet
-1413 Kompetenscentrum             Programmet har högt söktryck och man behöver i dag tacka nej
-Verksamheten samordnas med andra verksamheter. Samordnas till många elever. Detta ger behov av utökning av programmets
-med behov löpnummer 1516 Samlokalisering administrativa loka- ytor för att i framtiden kunna möte behovet av elevplatser.
+1413 Kompetenscentrum
+Verksamheten samordnas med andra verksamheter. Samordnas
+med behov löpnummer 1516 Samlokalisering administrativa loka-
 ler, ombyggnation av Stadshuset Hus B.
+
+1414 Vård- och omsorgsprogrammet
+Ny typ av utbildningslokal för gymnasieprogrammet Vård- och
+Omsorg. Utbildningslokalen samnyttjas med behov löpnummer
+825 Lokal för förvaltningens utbildningsbehov.
+1415 El- och energiprogrammet
+Programmet har högt söktryck och man behöver i dag tacka nej
+till många elever. Detta ger behov av utökning av programmets
+ytor för att i framtiden kunna möte behovet av elevplatser.
 1419 Administrativa lokaler avveckling
 Lokalen avvecklas eftersom verksamheten föreslås dela lokaler
 med andra administrativa verksamheter i en ny lokal
@@ -4092,19 +4888,30 @@ trala Kungsbacka med parkeringsplatser
 828 Anpassning lokal hemtjänst x
 
 Noter
-822 Vård- och omsorgsboende, 80 platser 824 Centralförråd välfärdsteknik & digitala verktyg
-Behov av 80 boendeplatser.        Samordna verksamheten i kommunen egna lokaler City Varla
-Hemtjänst
+
+822 Vård- och omsorgsboende, 80 platser
+Behov av 80 boendeplatser.
 811 Vård- och omsorgsboenden, reservkraft
-Vi behöver ersätta flertalet befintliga vård- och omsorgs- 825 Lokal för förvaltningens utbildningsbehov
-boendens mobila reservkraftverk med stationära för att uppfylla Samordna verksamheten för Vård & Omsorgs utbildningsbehov i
-lagkrav och patientsäkerhet.      kommunens egna lokaler inom Aranäsgymnasiet.
-817 Ekhaga vård-och omsorgsboende 826 Verksamhetslokal för Hemsjukvård IF i centrala Kungsbacka
-Mindre anpassningar av lokalerna. med parkeringsplatser
-Samordna verksamheten i egna lokaler belägna på Blomster-
-823 Samlokalisering verksamhetslokal Nattpatrull och sjuk- gatan i Kungsbacka.
+Vi behöver ersätta flertalet befintliga vård- och omsorgs-
+boendens mobila reservkraftverk med stationära för att uppfylla
+lagkrav och patientsäkerhet.
+817 Ekhaga vård-och omsorgsboende
+Mindre anpassningar av lokalerna.
+823 Samlokalisering verksamhetslokal Nattpatrull och sjuk-
 sköterskor jourverksamhet kvarbo
-Samordna verksamheten inom kommunens egna lokaler. 827 Avveckling lokal hemtjänst
+Samordna verksamheten inom kommunens egna lokaler.
+
+824 Centralförråd välfärdsteknik & digitala verktyg
+Samordna verksamheten i kommunen egna lokaler City Varla
+Hemtjänst
+825 Lokal för förvaltningens utbildningsbehov
+Samordna verksamheten för Vård & Omsorgs utbildningsbehov i
+kommunens egna lokaler inom Aranäsgymnasiet.
+826 Verksamhetslokal för Hemsjukvård IF i centrala Kungsbacka
+med parkeringsplatser
+Samordna verksamheten i egna lokaler belägna på Blomster-
+gatan i Kungsbacka.
+827 Avveckling lokal hemtjänst
 Avveckling av inhyrd lokal inför samlokalisering på annat ställe.
 828 Anpassning lokal hemtjänst
 Hyresgästanpassning av inhyrd lokal i Kullavik.
@@ -4119,11 +4926,11 @@ Service
 Lokalbehoven omfattar lokalbehov främst inriktat på administrativa lokaler (kontor).
 
 Lokaltyp och beskrivning 2027 2028 2029 2030 2031
-
 1503 Förråd 1                          x
 1514 Förråd 2                               x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
+
 1518 Administrativa lokaler avveckling          x
 1519 Administrativa lokaler evakuering x
 238 Villa Emilia paviljong avveckling x
@@ -4131,28 +4938,41 @@ Lokaltyp och beskrivning 2027 2028 2029 2030 2031
 
 Noter
 
-1503 Förråd                       1518 Avveckling administrativa lokaler
-Lagring för flertalet av kommunens verksamheter. Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-sera oss i stadshuset. Samordnas med behov 1516 Samlokalise-
-1514 Förråd 2                     ring administrativa lokaler.
+1503 Förråd
 Lagring för flertalet av kommunens verksamheter.
-1519 Administrativa lokaler evakuering
-1516 Samlokalisering administrativa lokaler Tillfällig lokallösning i samband med evakuering. Samordnas med
-Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka- behov 1516 Samlokalisering administrativa lokaler.
+1514 Förråd 2
+Lagring för flertalet av kommunens verksamheter.
+
+1516 Samlokalisering administrativa lokaler
+Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
-flera verksamheter.               238 Villa Emilia förskola paviljong avveckling
-Avveckling av inhyrd lokal.
+flera verksamheter.
 1517 Avveckling administrativa lokaler
-Vi avvecklar kontorslokaler som vi hyr externt för att samlokali- 1520 Administrativa lokaler utökad funktion
-sera oss i stadshuset. Samordnas med behov 1516 Samlokalise- Samlokalisering av administrativa verksamheter.
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset. Samordnas med behov 1516 Samlokalise-
 ring administrativa lokaler.
+
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset. Samordnas med behov 1516 Samlokalise-
+ring administrativa lokaler.
+1519 Administrativa lokaler evakuering
+Tillfällig lokallösning i samband med evakuering. Samordnas med
+behov 1516 Samlokalisering administrativa lokaler.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal.
+1520 Administrativa lokaler utökad funktion
+Samlokalisering av administrativa verksamheter.
+
 Övriga lokaler
+
 Lokaltyp och beskrivning 2027 2028 2029 2030 2031
-131 Arena inklusive skyddsrum    x
-1202 Oförutsedda behov        x   x    x    x   x
+131 Arena inklusive skyddsrum     x
+1202 Oförutsedda behov       x    x   x    x    x
 1411 Räddningstjänst                            x
 
 Noter
+
 131 Arena inklusive skyddsrum     1411 Räddningstjänst
 Arena som består av hall med läktarfunktion, utomhusläktare Vi lokaliserar Räddningstjänsten i nybyggda lokaler i eftersom
 för fotboll och kommersiella lokaler. Lokalisering söder om vi planerar exploatering i sydöstra centrum där de befintliga
@@ -4170,20 +4990,35 @@ INVESTERING OCH EXPLOATERING
 
 Investeringar
 
-Investeringarna delas in i lokaler, exploateringar, löpande Övriga investeringar och reinvesteringar är av engångs­ka­
-årliga investeringar, investeringar inom den avgiftsfinan­ raktär, exempelvis i byggnader eller infrastruktur. Det är
-sierade verksamheten samt övriga­ och reinvesteringar. Vi nämnden som beslutar om dessa och om man ska binda
-budgeterar lokaler och exploateringar på kommunstyrelsen budgeten på projektportfölj, huvudprojekt eller projekt­
-och de redovisas i respektive avsnitt mer i detalj. I nedan nivå, om inte annat framgår. Här har nämnden möjlighet
-tabeller under kommungemensamt framgår summan för att omdisponera inom sin budgetram.
+Investeringarna delas in i lokaler, exploateringar, löpande
+årliga investeringar, investeringar inom den avgiftsfinan­
+sierade verksamheten samt övriga­ och reinvesteringar. Vi
+budgeterar lokaler och exploateringar på kommunstyrelsen
+och de redovisas i respektive avsnitt mer i detalj. I nedan
+tabeller under kommungemensamt framgår summan för
 lokaler, markköp och exploateringar.
-Investeringar inom den avgiftsfinansierade verksamheten
-Löpande årliga investeringar är nämndernas reinves­ finns redovisade under respektive avgiftskollektiv.
-teringar i främst inventarier. Investeringsbudget och Avgifts­kollektiven är avfall och återvinning, bredband
-kapitalkostnader för löpande investeringar budgeteras på samt vatten och avlopp. Kostnaderna för dessa investe­
-respektive nämnd. Investeringsnivån bestämmer nämnden ringar täcks av deras respektive intäkter och belastar inte
-själv utifrån det utrymme som finns för att finansiera skattekollektivet.
+
+Löpande årliga investeringar är nämndernas reinves­
+teringar i främst inventarier. Investeringsbudget och
+kapitalkostnader för löpande investeringar budgeteras på
+respektive nämnd. Investeringsnivån bestämmer nämnden
+själv utifrån det utrymme som finns för att finansiera
 driftskostnaderna.
+
+Övriga investeringar och reinvesteringar är av engångs­ka­
+raktär, exempelvis i byggnader eller infrastruktur. Det är
+nämnden som beslutar om dessa och om man ska binda
+budgeten på projektportfölj, huvudprojekt eller projekt­
+nivå, om inte annat framgår. Här har nämnden möjlighet
+att omdisponera inom sin budgetram.
+
+Investeringar inom den avgiftsfinansierade verksamheten
+finns redovisade under respektive avgiftskollektiv.
+Avgifts­kollektiven är avfall och återvinning, bredband
+samt vatten och avlopp. Kostnaderna för dessa investe­
+ringar täcks av deras respektive intäkter och belastar inte
+skattekollektivet.
+
 Följande tabeller visar investeringarna totalt och per
 nämnd.
 
@@ -4369,127 +5204,207 @@ Kommunbudget 2027 och plan 2028–2029 63
 
 INVESTERING OCH EXPLOATERING
 
-Bostäder                          Nordöstra Kungsbacka
+Bostäder
 Väster om ån
-Området för Nordöstra Kungsbacka är uppdelat i flera
-Området Väster om ån är ett av Kungsbackas störst detaljplaner och sträcker sig från Hede station i norr till
-stadsomvandlingsprojekt. Det omfattar ett område som Hällingsjövägen i söder.
+Området Väster om ån är ett av Kungsbackas störst
+stadsomvandlingsprojekt. Det omfattar ett område som
 sträcker sig från Alléskolan i söder till Kungsmässan i
-Tölö ängar 3, etapp 1
 norr. Området består av flera detaljplaner som kommer
-att möjliggöra att centrala staden kan byggas ut med Tölö ängar 3 (del 1) innehåller cirka 130 bostäder i en
-ytterligare bostäder, handel och kontor. blandning av småhus och flerbostadshus där JM är
-exploatör. Detaljplanen vann laga kraft under 2024 och just
+att möjliggöra att centrala staden kan byggas ut med
+ytterligare bostäder, handel och kontor.
+
 Valand
-nu pågår projektering och utbyggnad av infrastrukturen.
-I första etappen, kvarteret Valand, bygger man cirka 300 Byggstart av bostäderna är planerad till första halvan av
-bostäder varav hälften hyresrätter, kontor och lokaler 2026.
+I första etappen, kvarteret Valand, bygger man cirka 300
+bostäder varav hälften hyresrätter, kontor och lokaler
 för handel. Ett parkeringshus är redan klart sedan 2019.
-Tölö ängar syd, etapp 1
 Utbyggnaden av området kommer att pågå under flera år.
-Exploatören Aranäs har under 2022 färdigställt de två Tölöängar syd (del 1) innehåller cirka 400 bostäder i både
-första bostadskvarteren. Parallellt har kommunen projek­ småhus och flerbostadshus och det är Sverigehuset som
-terat och byggt ut omkringliggande gator. Under 2023 är exploatör. Vi räknar med att detaljplanen blir antagen
-bromsade byggandet in på grund av rådande marknadsläge, under 2026.
+Exploatören Aranäs har under 2022 färdigställt de två
+första bostadskvarteren. Parallellt har kommunen projek­
+terat och byggt ut omkringliggande gator. Under 2023
+bromsade byggandet in på grund av rådande marknadsläge,
 vilket gör att återstående fem kvarter i området inte har
-Voxlöv norra
 byggstartat ännu.
-Voxlöv norr ligger precis öster om Hedestation och
+
 Ejdern
-kommer att innehålla cirka 750 bostäder i både småhus och
-Andra etappen i projekt är kvarter Ejdern, där vi planerar flerbostadshus där Derome är exploatör. Vi räknar med att
-för cirka 250 bostäder och ett parkeringshus. Kommunen detaljplanen blir antagen under 2027.
+Andra etappen i projekt är kvarter Ejdern, där vi planerar
+för cirka 250 bostäder och ett parkeringshus. Kommunen
 äger marken i området och den kommer vi att markanvisa
-Björkris
 genom en markanvisningstävling inför start av detaljplan.
-Vi beräknar att det sker under första halvåret av 2027. Området är beläget längs Göteborgsvägen, norr om Hede
-station. Läget ger goda förutsättningar för gång och
+Vi beräknar att det sker under första halvåret av 2027.
+
 Gjutaren och Liljan
-cykeltrafik till stationen och annan service i närheten. Den
-Ytterligare ett område i anslutning till projektet Väster nya stadsdelen möjliggör för en varierad bebyggelse med
-om ån är kvarteret Gjutaren och Liljan, där detaljplanen olika byggnadstyper och upplåtelseformer och ger ett stort
-vann laga kraft under 2023. Projektet innehåller cirka 250 tillskott av bostäder.
+Ytterligare ett område i anslutning till projektet Väster
+om ån är kvarteret Gjutaren och Liljan, där detaljplanen
+vann laga kraft under 2023. Projektet innehåller cirka 250
 bostäder och en ny skola för cirka 500 barn. Kommunen
-Björkris, etapp 2
 äger ungefär hälften av kvartersmarken. Den andra halvan
-ägs av Riksbyggen som är exploatör. Inom detaljplanens Området innehåller cirka 800 bostäder med blandade
-område har Riksbyggen två kvarter med flerbostadshus upplåtelseformer men också förskola, skola och en
-och kommunen ett kvarter med flerbostadshus, ett kvarter fullmåttidrottshall. Kommunen antog detaljplanen för
-med radhus och skolområdet.       området väster om Göteborgsvägen 2021, medan en
-detaljplan för området öster om vägen dröjer ytterligare
-Vi har förberett marken i området för byggstart genom några år. Marken inom planområdet är huvudsakligen
-rivningsarbeten och marksanering, utbyggnad av allmän privatägd, kommunen äger endast en mindre del. Det
-plats har slutförts. Kommunen har genomfört en försäljning pågår utbyggnad av kommunal allmän plats samt
-av sitt flerbostadskvarter till Riksbyggen och vi kommer att byggnader på kvartersmarken och sker i etapper under
-markanvisa kvarteret med radhus till annan exploatör under en 10­årsperiod. Exploatören Trollängen har påbörjat
-första halvan av 2026. Riksbyggen planerar för byggstart av utbyggnaden av kvartersmarken och under 2024 blev två
-det första flerbostadskvarteret till andra halvan av 2026. kvarter klara i området. Under 2026 har man börjat bygga
-ytterligare ett bostadskvarter.
+ägs av Riksbyggen som är exploatör. Inom detaljplanens
+område har Riksbyggen två kvarter med flerbostadshus
+och kommunen ett kvarter med flerbostadshus, ett kvarter
+med radhus och skolområdet.
+
+Vi har förberett marken i området för byggstart genom
+rivningsarbeten och marksanering, utbyggnad av allmän
+plats har slutförts. Kommunen har genomfört en försäljning
+av sitt flerbostadskvarter till Riksbyggen och vi kommer att
+markanvisa kvarteret med radhus till annan exploatör under
+första halvan av 2026. Riksbyggen planerar för byggstart av
+det första flerbostadskvarteret till andra halvan av 2026.
+
 64 Kommunbudget 2027 och plan 2028–2029
+
+Nordöstra Kungsbacka
+Området för Nordöstra Kungsbacka är uppdelat i flera
+detaljplaner och sträcker sig från Hede station i norr till
+Hällingsjövägen i söder.
+
+Tölö ängar 3, etapp 1
+Tölö ängar 3 (del 1) innehåller cirka 130 bostäder i en
+blandning av småhus och flerbostadshus där JM är
+exploatör. Detaljplanen vann laga kraft under 2024 och just
+nu pågår projektering och utbyggnad av infrastrukturen.
+Byggstart av bostäderna är planerad till första halvan av
+2026\.
+
+Tölö ängar syd, etapp 1
+Tölöängar syd (del 1) innehåller cirka 400 bostäder i både
+småhus och flerbostadshus och det är Sverigehuset som
+är exploatör. Vi räknar med att detaljplanen blir antagen
+under 2026.
+
+Voxlöv norra
+Voxlöv norr ligger precis öster om Hedestation och
+kommer att innehålla cirka 750 bostäder i både småhus och
+flerbostadshus där Derome är exploatör. Vi räknar med att
+detaljplanen blir antagen under 2027.
+
+Björkris
+Området är beläget längs Göteborgsvägen, norr om Hede
+station. Läget ger goda förutsättningar för gång och
+cykeltrafik till stationen och annan service i närheten. Den
+nya stadsdelen möjliggör för en varierad bebyggelse med
+olika byggnadstyper och upplåtelseformer och ger ett stort
+tillskott av bostäder.
+
+Björkris, etapp 2
+Området innehåller cirka 800 bostäder med blandade
+upplåtelseformer men också förskola, skola och en
+fullmåttidrottshall. Kommunen antog detaljplanen för
+området väster om Göteborgsvägen 2021, medan en
+detaljplan för området öster om vägen dröjer ytterligare
+några år. Marken inom planområdet är huvudsakligen
+privatägd, kommunen äger endast en mindre del. Det
+pågår utbyggnad av kommunal allmän plats samt
+byggnader på kvartersmarken och sker i etapper under
+en 10­årsperiod. Exploatören Trollängen har påbörjat
+utbyggnaden av kvartersmarken och under 2024 blev två
+kvarter klara i området. Under 2026 har man börjat bygga
+ytterligare ett bostadskvarter.
 
 <!-- sida 106 -->
 
+Björkris, etapp 3
+Ytterligare en etapp är belägen norr om Skårby vård­ och
+omsorgsboende, där det vi planerar för cirka 250 bostäder.
+Kommunen äger marken i området ochvi har markanvisat
+den södra delen av området till Eksta och Jemmett, som
+är exploatörer. Vi kommer att markanvisa resterande del av
+området i ett senare skede. Start av detaljplan är planerad
+till 2026.
+
+Sydöstra centrum
+Sydöstra centrum är det andra stora stadsomvandlings­
+projektet i Kungsbacka. Där kommer vi att bygga ut
+centrala delar av staden med bostäder, handel och kontor.
+Området sträcker sig från Söderån i norr till Hantverks­
+gatan i söder och består av flera etapper på båda sidor om
+Varbergsvägen.
+
+Sydöstra centrum, etapp 1
+Detaljplan för etapp 1 innehåller cirka 800 bostäder i
+flerbostadshus, där Balder är exploatör. Detaljplanen blev
+antagen 2025, men har ännu inte fått laga kraft.
+
+Sydöstra centrum, etapp 2
+Det är huvudsakligen kommunen som äger marken inom
+etapp 2 och den är tänkt att innehålla ytterligare 400–500
+bostäder. Planstart av den andra etappen är ännu inte bestämd.
+
+Anneberg centrum
+Intill Annebergs pendelstation planerar vi för ett nytt
+centrum som ska stärka Anneberg som tätort. Planområdet
+kommer att innehålla cirka 400 bostäder, vård­ och
+omsorgsboende, gruppbostad, förskola, och lokaler för
+verksamheter och handel. Kommunen är markägare och
+vi har tilldelat Doxa markanvisningen. Arbetet med att ta
+fram en detaljplan pågår, där ett omtag skedde under 2023
+för att klara de svåra geotekniska utmaningarna i området.
+Vi räknar med att detaljplanen blir antagen under 2026.
+
+Skårby 2:3
+Inom fastigheten finns idag 52 lägenheter i flerbostadshus
+som tillhör Tempohus AB och 25 lägenheter i ett
+modulhus som tillhör kommunen. Bostäderna är byggda
+på kommunens mark med stöd av arrende och tillfälliga
+bygglov. I en första detaljplan har vi säkerställt markan­
+vändningen för den befintliga flerbostadsbebyggelsen och
+vi har sålt marken till Eksta.
+
+Nu pågår ytterligare en detaljplan för cirka 150 bostäder i
+både småhus och flerbostadshus på den omkringliggande
+
 INVESTERING OCH EXPLOATERING
 
-Björkris, etapp 3
 marken. Kommunen har markanvisade området till Eksta
-Ytterligare en etapp är belägen norr om Skårby vård­ och och räknar med att anta den andra detaljplanen under
-omsorgsboende, där det vi planerar för cirka 250 bostäder. 2027.
-Kommunen äger marken i området ochvi har markanvisat
+och räknar med att anta den andra detaljplanen under
+2027\.
+
 Verksamhetsområden
-den södra delen av området till Eksta och Jemmett, som
 Duvehed
-är exploatörer. Vi kommer att markanvisa resterande del av
-området i ett senare skede. Start av detaljplan är planerad Duvehed är ett av kommunens verksamhetsområden där
-till 2026.                        detaljplanen är klar och det pågår försäljning av verksam­
+Duvehed är ett av kommunens verksamhetsområden där
+detaljplanen är klar och det pågår försäljning av verksam­
 hetsmarken. Området ligger i Fjärås stationssamhälle med
-Sydöstra centrum
 närhet till E6:an och omfattar cirka 25 hektar. Infrastruk­
-Sydöstra centrum är det andra stora stadsomvandlings­ turen i området är färdig sedan en tid tillbaka och hittills
-projektet i Kungsbacka. Där kommer vi att bygga ut har sju företag etablerat sig och ett företag förbereder
-centrala delar av staden med bostäder, handel och kontor. byggstart. Den återstående marken är på totalt cirka 5,5
-Området sträcker sig från Söderån i norr till Hantverks­ hektar, vilket blir cirka fem tomter, och den räknar vi med
-gatan i söder och består av flera etapper på båda sidor om att sälja de kommande åren.
-Varbergsvägen.
+turen i området är färdig sedan en tid tillbaka och hittills
+har sju företag etablerat sig och ett företag förbereder
+byggstart. Den återstående marken är på totalt cirka 5,5
+hektar, vilket blir cirka fem tomter, och den räknar vi med
+att sälja de kommande åren.
+
 Klovsten
-Sydöstra centrum, etapp 1
 I Klovsten planerar Kungsbacka kommun ett nytt
-Detaljplan för etapp 1 innehåller cirka 800 bostäder i verksamhets område med närhet till Kungsbacka stad. Den
-flerbostadshus, där Balder är exploatör. Detaljplanen blev första etappens detaljplan omfattar totalt cirka 22,5 hektar
-antagen 2025, men har ännu inte fått laga kraft. och möjliggör lokaler för verksamheter, industri med tillhö­
+verksamhets område med närhet till Kungsbacka stad. Den
+första etappens detaljplan omfattar totalt cirka 22,5 hektar
+och möjliggör lokaler för verksamheter, industri med tillhö­
 rande kontorslokaler och centrumverksamhet. Detaljplanen
-Sydöstra centrum, etapp 2
 för första etappen har fått laga kraft och vi kommer påbörja
-Det är huvudsakligen kommunen som äger marken inom projektering av infrastrukturen under 2026.
-etapp 2 och den är tänkt att innehålla ytterligare 400–500
-bostäder. Planstart av den andra etappen är ännu inte bestämd. Företaget Viavest har fått godkänt att starta deponiverk­
+projektering av infrastrukturen under 2026.
+
+Företaget Viavest har fått godkänt att starta deponiverk­
 samhet inom den blivande andra etappen av området.
-Anneberg centrum
 Man startade deponiverksamheten i slutet av 2023 och den
-Intill Annebergs pendelstation planerar vi för ett nytt kommer att pågå under flera år. Start av detaljplan för den
-centrum som ska stärka Anneberg som tätort. Planområdet andra etappen blir aktuellt först om ett antal år.
-kommer att innehålla cirka 400 bostäder, vård­ och
+kommer att pågå under flera år. Start av detaljplan för den
+andra etappen blir aktuellt först om ett antal år.
+
 Rya
-omsorgsboende, gruppbostad, förskola, och lokaler för
-verksamheter och handel. Kommunen är markägare och Rya är ett nytt stort verksamhetsområde öster om
-vi har tilldelat Doxa markanvisningen. Arbetet med att ta Frillesås tätort, där detaljplanen omfattar cirka 36 hektar
-fram en detaljplan pågår, där ett omtag skedde under 2023 med möjlighet till etablering av bland annat höglager.
-för att klara de svåra geotekniska utmaningarna i området. Kommunen har tecknat en avsiktsförklaring med Dagab
-Vi räknar med att detaljplanen blir antagen under 2026. om en stor etablering inom hela planområdet. Arbetet med
+Rya är ett nytt stort verksamhetsområde öster om
+Frillesås tätort, där detaljplanen omfattar cirka 36 hektar
+med möjlighet till etablering av bland annat höglager.
+Kommunen har tecknat en avsiktsförklaring med Dagab
+om en stor etablering inom hela planområdet. Arbetet med
 att färdigställa detaljplanen pågår under 2026.
-Skårby 2:3
+
 Övrigt
-Inom fastigheten finns idag 52 lägenheter i flerbostadshus
 Kungsbacka arena
-som tillhör Tempohus AB och 25 lägenheter i ett
-modulhus som tillhör kommunen. Bostäderna är byggda Kungsbacka arenan kommer att ha en publikkapacitet på
-på kommunens mark med stöd av arrende och tillfälliga minst 2 500 sittande åskådare och upp till 5 500 vid större
-bygglov. I en första detaljplan har vi säkerställt markan­ evenemang. I anslutning till arenan ska man bygga en
-vändningen för den befintliga flerbostadsbebyggelsen och utvändig fotbollsarena med en läktare för 1 000 personer
-vi har sålt marken till Eksta.    som sedan är möjligt att bygga ut till 3 000 platser.
+Kungsbacka arenan kommer att ha en publikkapacitet på
+minst 2 500 sittande åskådare och upp till 5 500 vid större
+evenemang. I anslutning till arenan ska man bygga en
+utvändig fotbollsarena med en läktare för 1 000 personer
+som sedan är möjligt att bygga ut till 3 000 platser.
 Detaljplanen för arenan fick laga kraft under 2026 och
-Nu pågår ytterligare en detaljplan för cirka 150 bostäder i kommunen, som är exploatör, har påbörjat förberedande
-både småhus och flerbostadshus på den omkringliggande arbeten. Hela projektet beräknas vara klart 2028–2029.
+kommunen, som är exploatör, har påbörjat förberedande
+arbeten. Hela projektet beräknas vara klart 2028–2029.
+
 Kommunbudget 2027 och plan 2028–2029 65
 
 <!-- sida 107 -->
@@ -5932,70 +6847,109 @@ Kommunbudget                  2026      med      utblick
 mot     2028
 
 Inledning
-Förbättring av vägnätet i Kungsbacka fortsätter för att
-Kungsbacka kommun fortsätter leverera välfärd av hög underlätta tillgängligheten för de som bor, verkar och
-kvalitet trots en ansträngd omvärld. vistas i vår kommun. Framkomligheten ska vara god
-oavsett om man väljer bil, cykel eller kollektivtrafik.
-De senaste årens oroligheter har haft stor påverkan på vår I budgeten förstärker vi Tekniks investeringsram för
-kommun, både i den dagliga driften och i hur vi rustar utbyggnad av vägnätet, fler körfält i sträckan från rondellen
-oss för framtiden. Stort fokus ligger nu på säkerhetsfrågor vid Arendalsmotet.
+Kungsbacka kommun fortsätter leverera välfärd av hög
+kvalitet trots en ansträngd omvärld.
+
+De senaste årens oroligheter har haft stor påverkan på vår
+kommun, både i den dagliga driften och i hur vi rustar
+oss för framtiden. Stort fokus ligger nu på säkerhetsfrågor
 och civilt försvar. Med stora ansträngningar formar vi
-I Kungsbacka utvecklas vi hela livet
 en kommun som är stark, resilient och en bärande del av
-Sveriges totalförsvar.            Våra förskolor är omtyckta och våra skolresultat är höga.
-Nu fortsätter vi arbetet med att främja närvaro och stärka
-Även den kraftiga inbromsningen i Sveriges befolk- lärarens roll i klassrummet.
+Sveriges totalförsvar.
+
+Även den kraftiga inbromsningen i Sveriges befolk-
 ningsutveckling påverkar oss. Det ställer nya krav på
-bostadsförsörjning men också på en omfördelning av vår Genom att tidigt ta ansvar för att anpassa våra lokaler efter
-gemensamma välfärd. Eleverna blir färre samtidigt som de mängden elever så ser vi till att så mycket som möjligt av
-äldsta blir allt fler. Utan en arbetskraft som växer i samma barn- och elevpengen går till lärande och inte till tomhyra.
+bostadsförsörjning men också på en omfördelning av vår
+gemensamma välfärd. Eleverna blir färre samtidigt som de
+äldsta blir allt fler. Utan en arbetskraft som växer i samma
 takt behöver vi tänka nytt, klokt och rationellt.
-Vi satsar tre miljoner per år på ökad kvalité på råvarorna på
-En kommun kan inte göra allt, men det vi gör ska vi göra maten som serveras till våra barn och gamla. För att orka
-med höga ambitioner. I denna budget gör vi därför en hela dagen i skolan är det viktigt att vi serverar god mat
-tydlig prioritering på det förebyggande arbetet, på utbild- som eleverna äter och tycker om.
+
+En kommun kan inte göra allt, men det vi gör ska vi göra
+med höga ambitioner. I denna budget gör vi därför en
+tydlig prioritering på det förebyggande arbetet, på utbild-
 ning och på omsorg.
-Förutom att vi förstärker med mer pengar till skolan inför
-Alliansen i Kungsbacka har under decennier fokuserat vi en fond för Trygg uppväxt om tio miljoner per år i fem
-på det kommunala kärnuppdraget och på en välskött år. Här kan olika nämnder ansöka om medel för aktiviteter
-ekonomi.                          som stärker våra ungas uppväxt och motverkar att de
-hamnar i kriminalitet.
+
+Alliansen i Kungsbacka har under decennier fokuserat
+på det kommunala kärnuppdraget och på en välskött
+ekonomi.
+
 Det tänker vi fortsätta göra även 2026. I årets budget
-kan vi både göra historiskt stora satsningar på skola, vård Vi är stolta över att kunna ge yngre med demenssjukdom
-och omsorg samt underlätta invånarnas vardagsekonomi vård på en egen avdelning. Förutom fler äldreboende finns
-genom att sänka skatten.          det ett stort önskemål om fler trygghets- eller gemenskaps-
-boenden. Ett boende där man har sin egen lägenhet men
+kan vi både göra historiskt stora satsningar på skola, vård
+och omsorg samt underlätta invånarnas vardagsekonomi
+genom att sänka skatten.
+
 En attraktiv kommun att bo, verka och vistas i
-gott om gemensamhetsytor för att lätt kunna umgås. Ett
-För att ge fler människor chansen att bo i Kungsbacka större och ett mindre är på gång i Särö, planer på boenden
-planerar vi fler trivsamma och trygga områden. I de mest finns även i Åsa och Björkris. Vi vill se den här typen av
-centrala delarna, nära någon av våra tågstationer, är det boenden i varje kommundel.
+För att ge fler människor chansen att bo i Kungsbacka
+planerar vi fler trivsamma och trygga områden. I de mest
+centrala delarna, nära någon av våra tågstationer, är det
 rimligt att tillåta högre och något tätare byggnation.
-En hållbar utveckling och en hälsosam miljö
-Utanför stadskärnan prioriterar vi småskalig byggnation Arbetet med återvinning och återbruk är centralt för att
-med huvudsakligen äganderätt. Vi avsätter mark till hushålla med resurserna. 2025 höjde vi ambitionen ytter-
-företag i alla kommundelar och ser fram emot att komma i ligare och detta arbete fortsätter både gällande inventarier
-mål med Klovstensområdet.         och vid rivning av lokaler.
+
+Utanför stadskärnan prioriterar vi småskalig byggnation
+med huvudsakligen äganderätt. Vi avsätter mark till
+företag i alla kommundelar och ser fram emot att komma i
+mål med Klovstensområdet.
+
 4 Kommunbudget 2026 och plan 2027–2028
+
+Förbättring av vägnätet i Kungsbacka fortsätter för att
+underlätta tillgängligheten för de som bor, verkar och
+vistas i vår kommun. Framkomligheten ska vara god
+oavsett om man väljer bil, cykel eller kollektivtrafik.
+I budgeten förstärker vi Tekniks investeringsram för
+utbyggnad av vägnätet, fler körfält i sträckan från rondellen
+vid Arendalsmotet.
+
+I Kungsbacka utvecklas vi hela livet
+Våra förskolor är omtyckta och våra skolresultat är höga.
+Nu fortsätter vi arbetet med att främja närvaro och stärka
+lärarens roll i klassrummet.
+
+Genom att tidigt ta ansvar för att anpassa våra lokaler efter
+mängden elever så ser vi till att så mycket som möjligt av
+barn- och elevpengen går till lärande och inte till tomhyra.
+
+Vi satsar tre miljoner per år på ökad kvalité på råvarorna på
+maten som serveras till våra barn och gamla. För att orka
+hela dagen i skolan är det viktigt att vi serverar god mat
+som eleverna äter och tycker om.
+
+Förutom att vi förstärker med mer pengar till skolan inför
+vi en fond för Trygg uppväxt om tio miljoner per år i fem
+år. Här kan olika nämnder ansöka om medel för aktiviteter
+som stärker våra ungas uppväxt och motverkar att de
+hamnar i kriminalitet.
+
+Vi är stolta över att kunna ge yngre med demenssjukdom
+vård på en egen avdelning. Förutom fler äldreboende finns
+det ett stort önskemål om fler trygghets- eller gemenskaps-
+boenden. Ett boende där man har sin egen lägenhet men
+gott om gemensamhetsytor för att lätt kunna umgås. Ett
+större och ett mindre är på gång i Särö, planer på boenden
+finns även i Åsa och Björkris. Vi vill se den här typen av
+boenden i varje kommundel.
+
+En hållbar utveckling och en hälsosam miljö
+Arbetet med återvinning och återbruk är centralt för att
+hushålla med resurserna. 2025 höjde vi ambitionen ytter-
+ligare och detta arbete fortsätter både gällande inventarier
+och vid rivning av lokaler.
 
 <!-- sida 148 -->
 
-ALLIANSENS SKRIVELSE
-
-Vi avsätter stora summor för investeringar till vatten och tryggare när fler vuxna engagerar sig som nattvandrare.
-avlopp. Gamla ledningar renoveras och utbyggnaden av Under året påbörjar vi byggandet av Kungsbacka Arena,
-ett nytt reningsverk fortsätter; dels för att kunna koppla som är en stor satsning på idrotten och kulturen i Kungs-
-på fler hushåll, dels för att värna vattenkvaliteten i Kungs- backa.
+Vi avsätter stora summor för investeringar till vatten och
+avlopp. Gamla ledningar renoveras och utbyggnaden av
+ett nytt reningsverk fortsätter; dels för att kunna koppla
+på fler hushåll, dels för att värna vattenkvaliteten i Kungs-
 backafjorden.
-Den nya socialtjänstlagen skapar större fokus på att arbeta
+
 Västsveriges bästa företagsklimat
-förebyggande. Målsättningen är att antalet omhänderta-
-För att möjliggöra för både befintliga och nya företag ganden och tvingande insatser sjunker på sikt.
-att växa behövs mer detaljplanelagd verksamhetsmark. Genom att agera i tid och med rätt resurser kan vi ge alla
-Ett område som är oerhört attraktivt är Klovsten, där våra invånare chansen till ett gott, självständigt liv.
+För att möjliggöra för både befintliga och nya företag
+att växa behövs mer detaljplanelagd verksamhetsmark.
+Ett område som är oerhört attraktivt är Klovsten, där
 detaljplanen nu är klar och arbetet med vägar och vatten
-snart kan påbörjas. Vi fortsätter förenkla både handlägg- Tillsammans tar vi ansvar för Sveriges bästa kommun.
+snart kan påbörjas. Vi fortsätter förenkla både handlägg-
 ning och tillsyn av verksamheter.
+
 Ett medskapande samhälle
 och en öppen attityd.
 I en orolig tid är lokalsamhället särskilt viktigt. Tillsam-
@@ -6003,8 +6957,26 @@ mans med föreningar, volontärer och näringsliv utvecklar
 vi Kungsbacka. Fler mötesplatser, event och aktiviteter kan
 skapas när vi gör det tillsammans. Likaså blir Kungsbacka
 
-Lisa Andersson   Fredrik Hansson    Monica Neptun   Fredrik Kollberg
-moderaterna       centerpartiet      liberalerna   kristdemokraterna
+Lisa Andersson    Fredrik Hansson
+moderaterna      centerpartiet
+
+ALLIANSENS SKRIVELSE
+
+tryggare när fler vuxna engagerar sig som nattvandrare.
+Under året påbörjar vi byggandet av Kungsbacka Arena,
+som är en stor satsning på idrotten och kulturen i Kungs-
+backa.
+
+Den nya socialtjänstlagen skapar större fokus på att arbeta
+förebyggande. Målsättningen är att antalet omhänderta-
+ganden och tvingande insatser sjunker på sikt.
+Genom att agera i tid och med rätt resurser kan vi ge alla
+våra invånare chansen till ett gott, självständigt liv.
+
+Tillsammans tar vi ansvar för Sveriges bästa kommun.
+
+Monica Neptun   Fredrik Kollberg
+liberalerna   kristdemokraterna
 
 Kommunbudget 2026 och plan 2027–2028 5
 
@@ -6062,95 +7034,138 @@ och hjälpmedel\*\*\*
 
 <!-- sida 150 -->
 
-ORGANISATIONEN
+Politik
+Den politiska organisationen i Kungsbacka kommun består
+av kommunfullmäktige, kommunstyrelsen, kommunrevi-
+sion, elva facknämnder, två fullmäktigeberedningar och tre
+samverkansnämnder. Kommunstyrelsen och facknämn-
+derna har förvaltningar som sköter det dagliga arbetet.
 
-Politik                           Gymnasium & Arbetsmarknad
-Den politiska organisationen i Kungsbacka kommun består Nämnden ansvarar för utbildning i gymnasieskola,
-av kommunfullmäktige, kommunstyrelsen, kommunrevi- anpassad gymnasieskola och kommunal vuxenutbildning
-sion, elva facknämnder, två fullmäktigeberedningar och tre inklusive Komvux som särskild utbildning. Nämnden har
-samverkansnämnder. Kommunstyrelsen och facknämn- det kommunala aktivitetsansvaret för 16–20 år, korttids-
-derna har förvaltningar som sköter det dagliga arbetet. tillsyn för elever i frivilliga skolformer samt all studie-och
-yrkesvägledning i kommunen. Nämnden ansvarar för
-Kommunen styrs av "Alliansen", bestående av etablering av ensamkommande barn och nyanlända vuxna
-Moderaterna, Centerpartiet, Liberalerna och Kristdemo- och familjer. Den har också ansvar för försörjningsstöd
-kraterna. Mandaten i kommunfullmäktige är fördelade och övrigt ekonomiskt bistånd. Det gäller även vård av
-enligt följande: Moderaterna 19, Socialdemokraterna 12, unga ensamkommande och asylsökande som har fyllt 18
-Sverigedemokraterna 10, Centerpartiet 6, Liberalerna 4, år, men inte 21 år. Nämnden ansvarar också för enheten för
-Kristdemokraterna 4, Miljöpartiet de gröna 2, Vänster- arbetsmarknad.
+Kommunen styrs av "Alliansen", bestående av
+Moderaterna, Centerpartiet, Liberalerna och Kristdemo-
+kraterna. Mandaten i kommunfullmäktige är fördelade
+enligt följande: Moderaterna 19, Socialdemokraterna 12,
+Sverigedemokraterna 10, Centerpartiet 6, Liberalerna 4,
+Kristdemokraterna 4, Miljöpartiet de gröna 2, Vänster-
 partiet 2 och Kungsbackaborna 2.
-Kommunrevisionen
+
 Byggnadsnämnden
-Kommunrevisionen har en oberoende roll i verksamheten
-Byggnadsnämnden ansvarar för kommunens uppgifter och dess uppgift är att granska och bedöma hur kommun-
-inom plan-och bygglagen. Det innebär framför allt att styrelsen och nämnderna utför sina uppgifter. I uppdraget
-hantera frågor om förhandsbesked, bygglov, rivningslov ingår även att granska de kommunala bolagen och
-samt tillsyn över byggnadsverksamheten. Nämnden kommunala stiftelser.
+Byggnadsnämnden ansvarar för kommunens uppgifter
+inom plan-och bygglagen. Det innebär framför allt att
+hantera frågor om förhandsbesked, bygglov, rivningslov
+samt tillsyn över byggnadsverksamheten. Nämnden
 ansvarar även för kommunens detaljplaneverksamhet, samt
-Kommunstyrelsen
 kart-och mätningsverksamhet. Sedan 2020 har nämnden
-gemensam förvaltningsorganisation med nämnden för Kommunstyrelsen är kommunens ledande politiska
-Miljö & Hälsoskydd.               förvaltningsorgan och har ett helhetsansvar för att leda,
-samordna och följa kommunens verksamheter, utveckling
+gemensam förvaltningsorganisation med nämnden för
+Miljö & Hälsoskydd.
+
 Individ & Familjeomsorg
-och ekonomiska ställning. Styrelsen ska ha fokus på
-Nämnden för Individ & Familjeomsorg ansvarar för utveckling av kommungemensamma frågor, strategisk
-kommunens individ-och familjeomsorg. Det innefattar styrning, strategiskt stöd och ska ha uppsikt över andra
-social barn-och ungdomsvård, missbruks- och beroen- nämnder, kommunala bolag, stiftelser och kommunalför-
-devård, familjerätt, familjerådgivning, samt medling bund. Kommunstyrelsen har också till uppgift att bereda
-vid ungdomsbrott. Nämnden ska också erbjuda stöd och ärenden inför kommunfullmäktiges sammanträden.
+Nämnden för Individ & Familjeomsorg ansvarar för
+kommunens individ-och familjeomsorg. Det innefattar
+social barn-och ungdomsvård, missbruks- och beroen-
+devård, familjerätt, familjerådgivning, samt medling
+vid ungdomsbrott. Nämnden ska också erbjuda stöd och
 hjälp vid våld i nära relationer. Nämnden för Individ &
-Kultur & Fritid
 Familjeomsorg ansvarar för att tillhandahålla kommunens
-skyldigheter avseende vissa omsorger, insatser och vård för Nämnden ansvarar för kommunens kultur- och fritids-
-personer med funktionshinder. Nämnden ansvarar också verksamhet. Det innebär att vi i egen regi eller genom
-för sysselsättning och arbetsträning för personer i yrkes- samarbetspartners driver till exempel teater, bibliotek,
-verksam ålder med psykiskt funktionshinder i enlighet kulturskola, bad- och idrottsanläggningar och mötesplat-
-med psykiatrisamordningens definition av målgruppen. ser för unga och seniorer. Nämnden ger stöd och bidrag till
-olika organisationer inom området. Nämnden samordnar
+skyldigheter avseende vissa omsorger, insatser och vård för
+personer med funktionshinder. Nämnden ansvarar också
+för sysselsättning och arbetsträning för personer i yrkes-
+verksam ålder med psykiskt funktionshinder i enlighet
+med psykiatrisamordningens definition av målgruppen.
+
 Förskola & Grundskola
-och utvecklar kulturområdet, friluftsliv, folkhälsoarbete,
-Nämnden för Förskola & Grundskola ansvarar för brotts-och drogförebyggande arbete, barnrättsarbete,
-kommunens förskola, grundskola, anpassad grundskola, föräldraskapsstöd och demokrati. Dessutom ger den stöd
-fritidshem samt pedagogisk omsorg. I ansvarsområdet inom området kulturmiljö och ansvarar för platsvarumärke
-ingår även korttidstillsyn för skolungdomar över tolv år och turistinformation.
+Nämnden för Förskola & Grundskola ansvarar för
+kommunens förskola, grundskola, anpassad grundskola,
+fritidshem samt pedagogisk omsorg. I ansvarsområdet
+ingår även korttidstillsyn för skolungdomar över tolv år
 enligt Lagen om stöd och service till vissa funktionshin-
-Miljö & Hälsoskydd
 drade, LSS. Nämnden ansvarar även för att godkänna,
-utöva tillsyn och bevilja bidrag till fristående förskolor, Nämnden för Miljö & Hälsoskydd ansvarar för
-pedagogisk omsorg och fritidshem. Nämnden lämnar prövning, tillsyn och kontroll inom främst miljöskydd
+utöva tillsyn och bevilja bidrag till fristående förskolor,
+pedagogisk omsorg och fritidshem. Nämnden lämnar
 bidrag till fristående grundskolor och har rätt till insyn i
 deras verksamhet.
+
+ORGANISATIONEN
+
+Gymnasium & Arbetsmarknad
+Nämnden ansvarar för utbildning i gymnasieskola,
+anpassad gymnasieskola och kommunal vuxenutbildning
+inklusive Komvux som särskild utbildning. Nämnden har
+det kommunala aktivitetsansvaret för 16–20 år, korttids-
+tillsyn för elever i frivilliga skolformer samt all studie-och
+yrkesvägledning i kommunen. Nämnden ansvarar för
+etablering av ensamkommande barn och nyanlända vuxna
+och familjer. Den har också ansvar för försörjningsstöd
+och övrigt ekonomiskt bistånd. Det gäller även vård av
+unga ensamkommande och asylsökande som har fyllt 18
+år, men inte 21 år. Nämnden ansvarar också för enheten för
+arbetsmarknad.
+
+Kommunrevisionen
+Kommunrevisionen har en oberoende roll i verksamheten
+och dess uppgift är att granska och bedöma hur kommun-
+styrelsen och nämnderna utför sina uppgifter. I uppdraget
+ingår även att granska de kommunala bolagen och
+kommunala stiftelser.
+
+Kommunstyrelsen
+Kommunstyrelsen är kommunens ledande politiska
+förvaltningsorgan och har ett helhetsansvar för att leda,
+samordna och följa kommunens verksamheter, utveckling
+och ekonomiska ställning. Styrelsen ska ha fokus på
+utveckling av kommungemensamma frågor, strategisk
+styrning, strategiskt stöd och ska ha uppsikt över andra
+nämnder, kommunala bolag, stiftelser och kommunalför-
+bund. Kommunstyrelsen har också till uppgift att bereda
+ärenden inför kommunfullmäktiges sammanträden.
+
+Kultur & Fritid
+Nämnden ansvarar för kommunens kultur- och fritids-
+verksamhet. Det innebär att vi i egen regi eller genom
+samarbetspartners driver till exempel teater, bibliotek,
+kulturskola, bad- och idrottsanläggningar och mötesplat-
+ser för unga och seniorer. Nämnden ger stöd och bidrag till
+olika organisationer inom området. Nämnden samordnar
+och utvecklar kulturområdet, friluftsliv, folkhälsoarbete,
+brotts-och drogförebyggande arbete, barnrättsarbete,
+föräldraskapsstöd och demokrati. Dessutom ger den stöd
+inom området kulturmiljö och ansvarar för platsvarumärke
+och turistinformation.
+
+Miljö & Hälsoskydd
+Nämnden för Miljö & Hälsoskydd ansvarar för
+prövning, tillsyn och kontroll inom främst miljöskydd
+
 Kommunbudget 2026 och plan 2027–2028 7
 
 <!-- sida 151 -->
 
 ORGANISATIONEN
 
-Gemensamma nämnder
 och hälsoskydd, livsmedel och receptfria läkemedel.
-Nämnden medverkar också i planering inom miljö-och Kungsbacka kommun samverkar med Region Halland
-hälsoskyddsområdet. Miljö & Hälsoskydd har ansvar för och de övriga halländska kommunerna i Patientnämnden
-kommunens tillstånd och tillsyn för alkoholservering och Halland och i Gemensam nämnd för hemsjukvård och
-försäljning av tobak och liknande produkter. Från och med hjälpmedel. Kungsbacka kommun har också gemensam
-2020 har nämnden gemensam förvaltningsorganisation överförmyndarnämnd med Härryda, Mölndal, Partille
-med Byggnadsnämnden. Miljö & Hälsoskydd har från och Öckerö. Tillsammans med Arbetsförmedlingen,
-2023 ingått ett samverkansavtal med Mölndals stad som Försäkringskassan, Region Halland och övriga kommuner
-innebär att Kungsbacka ska handlägga ärenden som gäller i Halland samverkar kommunen dessutom i Samordnings-
-serveringstillstånd och försäljning av tobak på uppdrag av förbundet i Halland.
+Nämnden medverkar också i planering inom miljö-och
+hälsoskyddsområdet. Miljö & Hälsoskydd har ansvar för
+kommunens tillstånd och tillsyn för alkoholservering och
+försäljning av tobak och liknande produkter. Från och med
+2020 har nämnden gemensam förvaltningsorganisation
+med Byggnadsnämnden. Miljö & Hälsoskydd har från
+2023 ingått ett samverkansavtal med Mölndals stad som
+innebär att Kungsbacka ska handlägga ärenden som gäller
+serveringstillstånd och försäljning av tobak på uppdrag av
 Mölndals stad.
-Bolag
+
 Service
-• Eksta Bostads AB är Kungsbacka kommuns bostads-
-Nämnden för Service ansvarar för kommunens lokal- bolag. Eksta äger och förvaltar hyresrätter samt vård
-försörjning med uppdrag att bygga, förvalta och hyra ut och omsorgsboenden, förskolor och skolor samt ett
-lokaler till kommunens samtliga verksamheter. Nämnden fåtal kommersiella lokaler.
-ansvarar också för lokalvård i kommunens lokaler och mål- • Tempohus Kungsbacka AB. Dotterbolag till Eksta
-tidsverksamhet i förskolor, skolor och boenden. Dessutom Bostads AB. Bolaget har till uppgift att uppföra och
-ingår kundcentret Kungsbacka direkt, rådgivningstjänster, förvalta temporära bostäder.
-den interna supportfunktionen Service direkt, drift • Stiftelsen Tjolöholm har i uppdrag att förvalta och
-och utveckling inom IT-området, personalförsörjning, utveckla Tjolöholms slott.
-vikariecenter samt inköp och fordonshantering i nämndens • Fastighets AB Sankta Gertrud. Bolaget är vilande.
+Nämnden för Service ansvarar för kommunens lokal-
+försörjning med uppdrag att bygga, förvalta och hyra ut
+lokaler till kommunens samtliga verksamheter. Nämnden
+ansvarar också för lokalvård i kommunens lokaler och mål-
+tidsverksamhet i förskolor, skolor och boenden. Dessutom
+ingår kundcentret Kungsbacka direkt, rådgivningstjänster,
+den interna supportfunktionen Service direkt, drift
+och utveckling inom IT-området, personalförsörjning,
+vikariecenter samt inköp och fordonshantering i nämndens
 ansvar.
+
 Teknik
 Nämnden för Teknik ansvarar för planering, drift och
 utbyggnad av samhällets infrastruktur Det handlar till
@@ -6160,6 +7175,7 @@ ning, sophämtning och återvinning samt det kommunala
 bredbandsnätet. Nämnden ansvarar också för trafik och
 parkeringsfrågor, lokala trafikföreskrifter, trafiksäkerhets-
 arbetet samt färdtjänsten.
+
 Vård & Omsorg
 Nämnden för Vård & Omsorg ansvarar för myndig-
 hetsutövning och utförandet av insatser till invånare i
@@ -6178,6 +7194,29 @@ uppsökande verksamhet, anhörigstöd, bostadsanpassning
 samt hjälpmedel.
 
 8 Kommunbudget 2026 och plan 2027–2028
+
+Gemensamma nämnder
+Kungsbacka kommun samverkar med Region Halland
+och de övriga halländska kommunerna i Patientnämnden
+Halland och i Gemensam nämnd för hemsjukvård och
+hjälpmedel. Kungsbacka kommun har också gemensam
+överförmyndarnämnd med Härryda, Mölndal, Partille
+och Öckerö. Tillsammans med Arbetsförmedlingen,
+Försäkringskassan, Region Halland och övriga kommuner
+i Halland samverkar kommunen dessutom i Samordnings-
+förbundet i Halland.
+
+Bolag
+• Eksta Bostads AB är Kungsbacka kommuns bostads-
+bolag. Eksta äger och förvaltar hyresrätter samt vård
+och omsorgsboenden, förskolor och skolor samt ett
+fåtal kommersiella lokaler.
+• Tempohus Kungsbacka AB. Dotterbolag till Eksta
+Bostads AB. Bolaget har till uppgift att uppföra och
+förvalta temporära bostäder.
+• Stiftelsen Tjolöholm har i uppdrag att förvalta och
+utveckla Tjolöholms slott.
+• Fastighets AB Sankta Gertrud. Bolaget är vilande.
 
 <!-- sida 152 -->
 
@@ -6232,115 +7271,208 @@ kronor per invånare
 
 OMVÄRLDSANALYS
 
-Viktiga   förhållanden            Även det grova våldet är ett stort samhällsproblem. Många
-svenska kommuner har drabbats av skjutningar och
-för  resultat   och               sprängningar de senaste åren. Kungsbacka kommun var
-länge förskonat från detta, men trenden har nu blivit mer
+Viktiga   förhållanden
+
+för  resultat   och
+
 ekonomisk       ställning
-kännbar även för oss.
-Klimat- och miljöförändringar
-I följande avsnitt beskriver vi faktorer i omvärlden som Varje år ser vi nya temperaturrekord kopplade till utsläppen
-kommer ha påverkan under budgetåret och planperioden av växthusgaser. Dessa utsläpp ökar globalt och bedöms
-och som är viktiga för att förstå den kommunala koncer- öka i närtid även i Sverige. Extremväder, som översväm-
-nens utveckling, ställning och resultat. Här finns också en ningar och stormar, blir allt vanligare i både Europa och
-analys av väsentliga risker och osäkerhetsfaktorer. Sverige. Västkusten beräknas få ännu mer nederbörd i
-framtiden. Framöver kommer vi sannolikt att behöva lägga
+
+I följande avsnitt beskriver vi faktorer i omvärlden som
+kommer ha påverkan under budgetåret och planperioden
+och som är viktiga för att förstå den kommunala koncer-
+nens utveckling, ställning och resultat. Här finns också en
+analys av väsentliga risker och osäkerhetsfaktorer.
+
 Omvärlden påverkar oss
-mer resurser på klimatanpassning. Förlusten av biologisk
 Världspolitiska förändringar
-mångfald är en annan stor utmaning som allt oftare
-Våren 2025 präglas av en enorm osäkerhet, för Sverige såväl uppmärksammas. Bestånden av djurarter har minskat
-som för andra länder. Till viss del är detta en direkt följd kraftigt i flera decennier. Lokalt ser vi bland annat ökade
-av förändringar i amerikansk policy i och med den nya problem med invasiva växtarter.
+Våren 2025 präglas av en enorm osäkerhet, för Sverige såväl
+som för andra länder. Till viss del är detta en direkt följd
+av förändringar i amerikansk policy i och med den nya
 administrationens tillträde i början av året. Ekonomiskt
-Befolkningsförändringar
 har USA:s införande, och plötsliga pausande, av extrema
-tullar skakat om världsmarknaden. Säkerhetsmässigt har Åldrande befolkningar är en global trend som påverkar
-USA tydligt aviserat ett minskat intresse och engagemang ekonomier och välfärdssystem i många länder. I Sverige
-för Europa. Europeiska ledare har dragit slutsatsen att påverkas många kommuner av att andelen äldre invånare
-kontinenten framöver kommer att behöva ta ett mycket ökar, eftersom det betyder att färre personer kommer
-större ansvar för det egna försvaret. I mars 2024 blev att behöva försörja fler. Det finns också en stor brist på
-Sverige medlem i Nato, men vilket skydd och åtagande det arbetskraft.
+tullar skakat om världsmarknaden. Säkerhetsmässigt har
+USA tydligt aviserat ett minskat intresse och engagemang
+för Europa. Europeiska ledare har dragit slutsatsen att
+kontinenten framöver kommer att behöva ta ett mycket
+större ansvar för det egna försvaret. I mars 2024 blev
+Sverige medlem i Nato, men vilket skydd och åtagande det
 innebär verkar just nu inte självklart.
-Historiskt sett har Kungsbacka vuxit stadigt, men på
-Dessa omvälvande händelser sker mot en bakgrund av sistone har den trenden brutits. Det beror delvis på minskat
-allvarliga krig och konflikter. Det fullskaliga kriget mellan barnafödande, som också är en stark trend i många länder.
-Ryssland och Ukraina gick under våren in på sitt fjärde Minskningen innebär bland annat att antalet skolbarn
-år. Kriget i Gaza har pågått i mer än ett och ett halvt år. förväntas vara lägre i flera decennier framåt. Men i
-Säkerhetshotet mot Sverige ligger kvar på ”högt hot” (nivå Kungsbacka kommuns fall beror befolkningsminskningen
-4 av 5) enligt Säpo.              även på att inflyttningen har minskat de senaste åren.
+
+Dessa omvälvande händelser sker mot en bakgrund av
+allvarliga krig och konflikter. Det fullskaliga kriget mellan
+Ryssland och Ukraina gick under våren in på sitt fjärde
+år. Kriget i Gaza har pågått i mer än ett och ett halvt år.
+Säkerhetshotet mot Sverige ligger kvar på ”högt hot” (nivå
+4 av 5) enligt Säpo.
+
 Värderingsförändringar
-Minskat psykiskt välmående är en växande utmaning
-På global nivå är demokratin hotad. Snittbetyget för både nationellt och lokalt. Inte minst är det många unga
-världens grad av demokrati har visat en tydligt sjunkande människor som mår dåligt och känner stress. Nationella
-trend många år i rad. Det beror delvis på att auktoritära undersökningar visar att barn trivs allt sämre i skolan och
-regimer förvärras, men även på att många demokratiska mobbningen verkar ha ökat stort det senaste decenniet.
-länder får sämre betyg. Sveriges demokrati är mycket stark, Andra stora befolkningsutmaningar är ofrivillig ensamhet
-men uppvisar en lätt sjunkande trend och växande polari- och ökande socioekonomiska klyftor.
+På global nivå är demokratin hotad. Snittbetyget för
+världens grad av demokrati har visat en tydligt sjunkande
+trend många år i rad. Det beror delvis på att auktoritära
+regimer förvärras, men även på att många demokratiska
+länder får sämre betyg. Sveriges demokrati är mycket stark,
+men uppvisar en lätt sjunkande trend och växande polari-
 sering. Flera undersökningar visar också att demokrati inte
-betraktas som lika självklart för dagens ungdomar som det Förutsättningarna för arbete förändras. Under pandemin
-är för äldre generationer.        införde många organisationer distans- och hybridlös-
-ningar, en förändring som i många fall har visat sig
-Desinformationen ökar kraftigt i världen och Sverige. bestående och förändrat arbetstagares förväntningar. Det
-Socialtjänsten är utsatt för en stor kampanj, som tycks är en trend som har både fördelar och nackdelar för alla
-ha effekt. Påverkansförsöken på kommunanställda ökar. parter.
+betraktas som lika självklart för dagens ungdomar som det
+är för äldre generationer.
+
+Desinformationen ökar kraftigt i världen och Sverige.
+Socialtjänsten är utsatt för en stor kampanj, som tycks
+ha effekt. Påverkansförsöken på kommunanställda ökar.
+
 10 Kommunbudget 2026 och plan 2027–2028
+
+Även det grova våldet är ett stort samhällsproblem. Många
+svenska kommuner har drabbats av skjutningar och
+sprängningar de senaste åren. Kungsbacka kommun var
+länge förskonat från detta, men trenden har nu blivit mer
+kännbar även för oss.
+
+Klimat- och miljöförändringar
+Varje år ser vi nya temperaturrekord kopplade till utsläppen
+av växthusgaser. Dessa utsläpp ökar globalt och bedöms
+öka i närtid även i Sverige. Extremväder, som översväm-
+ningar och stormar, blir allt vanligare i både Europa och
+Sverige. Västkusten beräknas få ännu mer nederbörd i
+framtiden. Framöver kommer vi sannolikt att behöva lägga
+mer resurser på klimatanpassning. Förlusten av biologisk
+mångfald är en annan stor utmaning som allt oftare
+uppmärksammas. Bestånden av djurarter har minskat
+kraftigt i flera decennier. Lokalt ser vi bland annat ökade
+problem med invasiva växtarter.
+
+Befolkningsförändringar
+Åldrande befolkningar är en global trend som påverkar
+ekonomier och välfärdssystem i många länder. I Sverige
+påverkas många kommuner av att andelen äldre invånare
+ökar, eftersom det betyder att färre personer kommer
+att behöva försörja fler. Det finns också en stor brist på
+arbetskraft.
+
+Historiskt sett har Kungsbacka vuxit stadigt, men på
+sistone har den trenden brutits. Det beror delvis på minskat
+barnafödande, som också är en stark trend i många länder.
+Minskningen innebär bland annat att antalet skolbarn
+förväntas vara lägre i flera decennier framåt. Men i
+Kungsbacka kommuns fall beror befolkningsminskningen
+även på att inflyttningen har minskat de senaste åren.
+
+Minskat psykiskt välmående är en växande utmaning
+både nationellt och lokalt. Inte minst är det många unga
+människor som mår dåligt och känner stress. Nationella
+undersökningar visar att barn trivs allt sämre i skolan och
+mobbningen verkar ha ökat stort det senaste decenniet.
+Andra stora befolkningsutmaningar är ofrivillig ensamhet
+och ökande socioekonomiska klyftor.
+
+Förutsättningarna för arbete förändras. Under pandemin
+införde många organisationer distans- och hybridlös-
+ningar, en förändring som i många fall har visat sig
+bestående och förändrat arbetstagares förväntningar. Det
+är en trend som har både fördelar och nackdelar för alla
+parter.
 
 <!-- sida 154 -->
 
+Teknikutveckling
+Den snabba tekniska utvecklingen skapar många möjlig-
+heter till förbättrad kommunal service, optimering och
+innovation. Externa krav på att tillhandahålla så kallade
+öppna data ökar, liksom krav på att erbjuda en relevant
+servicenivå i en föränderlig värld. Men ny teknik skapar
+också nya utmaningar. Teknikutvecklingen driver på
+ökad energianvändning, vilket leder till ökade utsläpp
+av växthusgaser och förvärrar klimatkrisen. Och antalet
+digitala attacker och intrångsförsök har ökat, såväl globalt
+som i Kungsbacka kommun.
+
+Den största tekniska förändringen är det breda genom-
+slaget för AI, artificiell intelligens. Nu kommer allt fler
+system som kan agera självständigt, utan direkt mänsklig
+inblandning. AI-utvecklingen väntas få stor påverkan
+på arbetsmarknaden och kan skapa en kompetensklyfta
+om inte samhället hanterar omställningen aktivt. Men
+AI påverkar även allt från krigföring till kultur- och
+nöjessektorerna. På sikt är det mycket möjligt att de flesta
+av kommunens verksamheter blir berörda av utvecklingen.
+
+Kungsbacka i världen
+Att fundera på och diskutera hur förändringarna i vår
+omvärld påverkar oss är avgörande för att vi ska kunna för-
+bereda oss för framtiden. Till stöd för detta har kommunen
+ett samarbete kring omvärldsanalys som representanter
+från alla förvaltningar är delaktiga i. Det resulterar bland
+annat i den årliga rapporten ”Kungsbacka i världen” som
+finns tillgänglig på kungsbacka.se
+
+Samhällsekonomin
+Sveriges Kommuner och Regioner, SKR, bedömer i
+Cirkulär 25:21 Aktuell ekonomi – Planeringsförutsätt-
+ningar för åren 2025–2028, att den ökade osäkerheten
+förlänger lågkonjunkturen. Den senaste tidens ekonomiska
+oro, inte minst kopplad till osäkerheten vad som ska hända
+med USA:s handelspolitik, fortsätter att göra avtryck
+på ekonomin i omvärlden och i Sverige. Stora börsfall
+och ökade svängningar på börsen påverkar hushållens
+tillgångar och framtidstro negativt. Hushållen väntas vara
+mer avvaktande och den privata konsumtionen kommer
+dämpas. Även företagen blir avvaktande, vilket dämpar
+investeringarna. Motverkande effekter är stora satsningar
+inom grön omställning och militär upprustning i Sverige
+och EU. Den svenska exporten dämpas i närtid. Utveck-
+lingen vi nu ser leder till en relativt svag BNP-tillväxt
+2025, som väntas ta bättre fart under 2026.
+
 OMVÄRLDSANALYS
 
-Teknikutveckling
 En svagare konjunktur har dämpande effekt även på
-Den snabba tekniska utvecklingen skapar många möjlig- sysselsättningen både under 2025 och 2026. SKR räknar
-heter till förbättrad kommunal service, optimering och med att arbetslösheten ökar till 8,6 procent innan den
-innovation. Externa krav på att tillhandahålla så kallade vänder ner under 2026. Företagen väntas behålla sina
-öppna data ökar, liksom krav på att erbjuda en relevant anställda, medan det blir färre tillfälliga anställningar och
-servicenivå i en föränderlig värld. Men ny teknik skapar fler personer med låg utbildning som riskerar att hamna i
-också nya utmaningar. Teknikutvecklingen driver på långtidsarbetslöshet. 2024 var ett svagt år när man tittar på
-ökad energianvändning, vilket leder till ökade utsläpp skatteunderlagstillväxten. 2025 räknar SKR med att den
-av växthusgaser och förvärrar klimatkrisen. Och antalet är tillbaka på 4,2 procent, vilket är i linje med hur det sett
-digitala attacker och intrångsförsök har ökat, såväl globalt ut under tioårsperioden 2014–2023. Förklaringen är dels
-som i Kungsbacka kommun.          att antalet arbetade timmar vänder uppåt, dels den relativt
+sysselsättningen både under 2025 och 2026. SKR räknar
+med att arbetslösheten ökar till 8,6 procent innan den
+vänder ner under 2026. Företagen väntas behålla sina
+anställda, medan det blir färre tillfälliga anställningar och
+fler personer med låg utbildning som riskerar att hamna i
+långtidsarbetslöshet. 2024 var ett svagt år när man tittar på
+skatteunderlagstillväxten. 2025 räknar SKR med att den
+är tillbaka på 4,2 procent, vilket är i linje med hur det sett
+ut under tioårsperioden 2014–2023. Förklaringen är dels
+att antalet arbetade timmar vänder uppåt, dels den relativt
 höga ökningen av timlönen.
-Den största tekniska förändringen är det breda genom-
-slaget för AI, artificiell intelligens. Nu kommer allt fler Inflationen har överraskat på uppåtsidan under inledningen
-system som kan agera självständigt, utan direkt mänsklig av 2025 och kommer vara något över inflationsmålet på två
-inblandning. AI-utvecklingen väntas få stor påverkan procent. SKR gör bedömningen att den svaga konjunktu-
-på arbetsmarknaden och kan skapa en kompetensklyfta ren gör att KPIF-inflationen (KPI-inflation med fast ränta)
-om inte samhället hanterar omställningen aktivt. Men minskar till 1,8 procent under 2026. Det ger den samlade
-AI påverkar även allt från krigföring till kultur- och bedömningen att Riksbanken kommer sänka styrräntan
-nöjessektorerna. På sikt är det mycket möjligt att de flesta ytterligare under 2025 för att mildra lågkonjunkturen.
-av kommunens verksamheter blir berörda av utvecklingen.
+
+Inflationen har överraskat på uppåtsidan under inledningen
+av 2025 och kommer vara något över inflationsmålet på två
+procent. SKR gör bedömningen att den svaga konjunktu-
+ren gör att KPIF-inflationen (KPI-inflation med fast ränta)
+minskar till 1,8 procent under 2026. Det ger den samlade
+bedömningen att Riksbanken kommer sänka styrräntan
+ytterligare under 2025 för att mildra lågkonjunkturen.
+
 Finansiella risker
-Kungsbacka i världen              Ränterisker
-Att fundera på och diskutera hur förändringarna i vår Upplåningsräntorna har under många år legat på en
-omvärld påverkar oss är avgörande för att vi ska kunna för- mycket låg nivå. Under 2022 och 2023 såg vi betydligt
-bereda oss för framtiden. Till stöd för detta har kommunen högre räntor, som en följd av den då höga inflationen. För
-ett samarbete kring omvärldsanalys som representanter att få ner inflationen höjde Riksbanken styrräntan vid
-från alla förvaltningar är delaktiga i. Det resulterar bland fem tillfällen under 2023 till fyra procent. Under 2024
-annat i den årliga rapporten ”Kungsbacka i världen” som sänkte Riksbanken styrräntan fem gånger och i slutet av
-finns tillgänglig på kungsbacka.se året var den 2,5 procent. Även om styrräntan har sjunkit är
+Ränterisker
+Upplåningsräntorna har under många år legat på en
+mycket låg nivå. Under 2022 och 2023 såg vi betydligt
+högre räntor, som en följd av den då höga inflationen. För
+att få ner inflationen höjde Riksbanken styrräntan vid
+fem tillfällen under 2023 till fyra procent. Under 2024
+sänkte Riksbanken styrräntan fem gånger och i slutet av
+året var den 2,5 procent. Även om styrräntan har sjunkit är
 den högre än innan pandemin, vilket gör att kommunens
-Samhällsekonomin
 räntekostnader kommer öka i takt med att kommunen
-Sveriges Kommuner och Regioner, SKR, bedömer i omsätter befintliga lån eller tar upp nya lån. Ju högre
-Cirkulär 25:21 Aktuell ekonomi – Planeringsförutsätt- låneskuld desto större effekt får räntehöjningarna på
-ningar för åren 2025–2028, att den ökade osäkerheten kommunkoncernens ekonomi.
-förlänger lågkonjunkturen. Den senaste tidens ekonomiska
+omsätter befintliga lån eller tar upp nya lån. Ju högre
+låneskuld desto större effekt får räntehöjningarna på
+kommunkoncernens ekonomi.
+
 Borgensåtagande
-oro, inte minst kopplad till osäkerheten vad som ska hända
-med USA:s handelspolitik, fortsätter att göra avtryck Kommunen hade vid årsskiftet 2024/2025 ingått borgen
-på ekonomin i omvärlden och i Sverige. Stora börsfall till ett totalt belopp på 3 476 miljoner kronor, varav 3 459
-och ökade svängningar på börsen påverkar hushållens miljoner är borgensåtagande för det helägda kommunala
-tillgångar och framtidstro negativt. Hushållen väntas vara bolaget Eksta Bostads AB. Kommunen har även borgen-
-mer avvaktande och den privata konsumtionen kommer såtagande för föreningar motsvarande 9,9 miljoner kronor
-dämpas. Även företagen blir avvaktande, vilket dämpar och för andra bolag motsvarande 7,5 miljoner kronor. Även
-investeringarna. Motverkande effekter är stora satsningar om borgensåtagandena till föreningarna är en mindre
-inom grön omställning och militär upprustning i Sverige andel av det totala borgensåtagandet så går det inte att
-och EU. Den svenska exporten dämpas i närtid. Utveck- bortse från att de utgör en högre risk i en omvärld med
-lingen vi nu ser leder till en relativt svag BNP-tillväxt ökade kostnader.
-2025, som väntas ta bättre fart under 2026.
+Kommunen hade vid årsskiftet 2024/2025 ingått borgen
+till ett totalt belopp på 3 476 miljoner kronor, varav 3 459
+miljoner är borgensåtagande för det helägda kommunala
+bolaget Eksta Bostads AB. Kommunen har även borgen-
+såtagande för föreningar motsvarande 9,9 miljoner kronor
+och för andra bolag motsvarande 7,5 miljoner kronor. Även
+om borgensåtagandena till föreningarna är en mindre
+andel av det totala borgensåtagandet så går det inte att
+bortse från att de utgör en högre risk i en omvärld med
+ökade kostnader.
+
 Kommunbudget 2026 och plan 2027–2028 11
 
 <!-- sida 155 -->
@@ -6348,64 +7480,106 @@ Kommunbudget 2026 och plan 2027–2028 11
 OMVÄRLDSANALYS
 
 Valutarisker
-nosen för kommunen. Om det blir avvikelser jämfört med
-Valutarisk handlar om risken för att drabbas av ökade befolkningsprognosen så påverkar det skatter och generella
-kostnader på grund av valutakursförändringar. Det uppstår statsbidrag. Det finns också risk för minskade skatteintäk-
-när inköp, försäljning och upplåning sker i utländsk valuta. ter till följd av ökad arbetslöshet i och med den rådande
-Kommunen gör till allra största del affärer i svenska lågkonjunkturen. Dessutom bidrar både de generella och
-kronor och handel i annan valuta är bara en liten andel. de riktade statsbidragen till att finansiera olika satsningar
-Upplåning gör vi i svensk valuta. Därmed är bedömningen inom olika verksamheter. Statsbidragen är svårare att
-att valutarisken är mycket liten för oss. bedöma eftersom de ytterst beror på politiska beslut på
-riksnivå. Kungsbacka kommun får årligen skatteintäkter
+Valutarisk handlar om risken för att drabbas av ökade
+kostnader på grund av valutakursförändringar. Det uppstår
+när inköp, försäljning och upplåning sker i utländsk valuta.
+Kommunen gör till allra största del affärer i svenska
+kronor och handel i annan valuta är bara en liten andel.
+Upplåning gör vi i svensk valuta. Därmed är bedömningen
+att valutarisken är mycket liten för oss.
+
 Pensioner
-och generella statsbidrag på cirka sex miljarder kronor.
-Kommunen hade i årsbokslutet 2024 pensionsåtagande Även en mindre procentuell avvikelse får därför stort
-på 2,2 miljarder kronor. Med pensionsåtagande menar vi genomslag.
+Kommunen hade i årsbokslutet 2024 pensionsåtagande
+på 2,2 miljarder kronor. Med pensionsåtagande menar vi
 resultatet av ett avtal med anställda om en ersättning som
-Känslighetsanalys
 utgår efter avslutad anställning. Ur risksynpunkt är det
-Skattesats
 viktigt att ta hänsyn till kommunens pensionsförpliktelser
-eftersom vi ska finansiera skulden i framtiden. Kungs- Skattesatsen i Kungsbacka kommun är 21,18 procent. Om
-backa kommun redovisar pensionsförpliktelserna enligt skatten skulle höjas med en krona, så ökar kommunens
-fullfondsmodellen. Detta innebär att ansvarsförbindelsen, intäkter med cirka 300 miljoner kronor. Omvänt skulle en
-som vid årsskiftet var 1,2 miljarder kronor, har lyfts in i kronas skattesänkning innebära att kommunens intäkter
-balansräkningen som en avsättning. minskar med 300 miljoner.
-Pensionskostnaderna är en allt större kostnadspost för En ökning av skattesatsen med tio öre innebär 30 miljoner
-kommunen. Sammantaget består kommunens pensions- i ytterligare intäkter, medan en tio öres sänkning minskar
-kostnader av två olika delar, en avgiftsbestämd kostnad och kommunens intäkter med 30 miljoner kronor.
+eftersom vi ska finansiera skulden i framtiden. Kungs-
+backa kommun redovisar pensionsförpliktelserna enligt
+fullfondsmodellen. Detta innebär att ansvarsförbindelsen,
+som vid årsskiftet var 1,2 miljarder kronor, har lyfts in i
+balansräkningen som en avsättning.
+
+Pensionskostnaderna är en allt större kostnadspost för
+kommunen. Sammantaget består kommunens pensions-
+kostnader av två olika delar, en avgiftsbestämd kostnad och
 en förmånsbaserad pension som delas upp i vad som tjänats
-Löner
 in från och med 1998 och vad som tjänats in före 1998. Det
-nya pensionsavtalet AKAP-KR som gäller från 2023 är Kommunen har cirka 6 600 anställda. I följande tabell
-ett steg i övergången till ett mer avgiftsfinansierat pen- framgår hur löneökningar påverkar kommunens ekonomi.
+nya pensionsavtalet AKAP-KR som gäller från 2023 är
+ett steg i övergången till ett mer avgiftsfinansierat pen-
 sionssystem, vilket över tid kommer att ge kommunerna en
-Löneökning Ökade kostnader
 pensionskostnad som är lättare att förutse.
-(miljoner kronor)
-1,0 %        39
+
 Pensionskostnaderna ökade markant under 2023 och 2024
-2,0 %         77
 på grund av kraftig ökning av prisbasbeloppet, högre
-löneökningar och nytt avgiftsbestämt pensionsavtal med 3,0 % 116
-höjda premienivåer. Ökningen av prisbasbeloppet berodde 3,5 % 135
+löneökningar och nytt avgiftsbestämt pensionsavtal med
+höjda premienivåer. Ökningen av prisbasbeloppet berodde
 på den snabba uppgången av inflationen. Prisbasbeloppet
 har stor betydelse för värdesäkringen av pensionsskulden.
-Ränta
 Tidigare har prisbasbeloppet ökat långsamt och då hållit
-tillbaka pensionskostnaderna. Eftersom inflationen är Låneskulden minskar med 150 miljoner kronor till 1 050
-tillbaka på tvåprocentsmålet förväntas pensionskostna- miljoner kronor under 2025. Under planperioden fram till
-derna gå ned 2025 till en mer normal nivå. Prognosen från 2028 väntar vi oss att skulden kommer öka till 3 500 miljo-
-pensions bolaget KPA Pension visar att pensionskostna- ner kronor. Kommunens genomsnittliga ränta i maj 2025
-derna kommer att fortsätta minska med drygt 47 miljoner är 1,9 procent. Förutom att kommunen kommer omsätta
-kronor till 2026.                 300 miljoner kronor av nuvarande låneskuld 2026, så har
-vi planerat för nyupplåning på ytterligare 350 miljoner
+tillbaka pensionskostnaderna. Eftersom inflationen är
+tillbaka på tvåprocentsmålet förväntas pensionskostna-
+derna gå ned 2025 till en mer normal nivå. Prognosen från
+pensions bolaget KPA Pension visar att pensionskostna-
+derna kommer att fortsätta minska med drygt 47 miljoner
+kronor till 2026.
+
 Skatteintäkter och statsbidrag
-kronor. Därmed kan vi räkna med att den genomsnittliga
-Bedömningen av skatteintäkter och statsbidrag sker utifrån räntan kommer öka under 2026.
+Bedömningen av skatteintäkter och statsbidrag sker utifrån
 underlag från Sveriges Kommuner och Regioner, SKR.
 Bedömningen sker i kombination med befolkningsprog-
+
 12 Kommunbudget 2026 och plan 2027–2028
+
+nosen för kommunen. Om det blir avvikelser jämfört med
+befolkningsprognosen så påverkar det skatter och generella
+statsbidrag. Det finns också risk för minskade skatteintäk-
+ter till följd av ökad arbetslöshet i och med den rådande
+lågkonjunkturen. Dessutom bidrar både de generella och
+de riktade statsbidragen till att finansiera olika satsningar
+inom olika verksamheter. Statsbidragen är svårare att
+bedöma eftersom de ytterst beror på politiska beslut på
+riksnivå. Kungsbacka kommun får årligen skatteintäkter
+och generella statsbidrag på cirka sex miljarder kronor.
+Även en mindre procentuell avvikelse får därför stort
+genomslag.
+
+Känslighetsanalys
+Skattesats
+Skattesatsen i Kungsbacka kommun är 21,18 procent. Om
+skatten skulle höjas med en krona, så ökar kommunens
+intäkter med cirka 300 miljoner kronor. Omvänt skulle en
+kronas skattesänkning innebära att kommunens intäkter
+minskar med 300 miljoner.
+
+En ökning av skattesatsen med tio öre innebär 30 miljoner
+i ytterligare intäkter, medan en tio öres sänkning minskar
+kommunens intäkter med 30 miljoner kronor.
+
+Löner
+Kommunen har cirka 6 600 anställda. I följande tabell
+framgår hur löneökningar påverkar kommunens ekonomi.
+
+Löneökning Ökade kostnader
+(miljoner kronor)
+
+```osaker-tabell
+1,0 %         39
+2,0 %         77
+3,0 %        116
+3,5 %        135
+```
+
+Ränta
+Låneskulden minskar med 150 miljoner kronor till 1 050
+miljoner kronor under 2025. Under planperioden fram till
+2028 väntar vi oss att skulden kommer öka till 3 500 miljo-
+ner kronor. Kommunens genomsnittliga ränta i maj 2025
+är 1,9 procent. Förutom att kommunen kommer omsätta
+300 miljoner kronor av nuvarande låneskuld 2026, så har
+vi planerat för nyupplåning på ytterligare 350 miljoner
+kronor. Därmed kan vi räkna med att den genomsnittliga
+räntan kommer öka under 2026.
 
 <!-- sida 156 -->
 
@@ -6445,119 +7619,192 @@ Kommunbudget 2026 och plan 2027–2028 13
 
 SÅ STYRS KUNGSBACKA
 
-Styrning    och   uppföljning     av  den   kommunala
+Styrning    och   uppföljning     av  den  kommunala
 
 verksamheten
 
-I detta avsnitt beskriver vi övergripande hur kommunen helheten större än summan av delarna, och vi tar oss an
-styrs.                            utmaningar utan en uppdelning i vi och dom. Vårt fokus
-ligger på hela kommunen, snarare än enskilda verksamhe-
+I detta avsnitt beskriver vi övergripande hur kommunen
+styrs.
+
 Det kommunala uppdraget
-ter, vilket innebär en strävan efter likvärdighet, även om
-Politiker på riksnivå styr kommunen genom att stifta det inte alltid blir lika överallt.
+Politiker på riksnivå styr kommunen genom att stifta
 lagar och förordningar, som socialtjänstlagen, skollagen
-Att arbeta med förnyelse och innovation
 och andra speciallagstiftningar. Det gör de också genom
-internationella överenskommelser med EU, FN och Förnyelse innebär att lösa uppdrag på nya, innovativa
-andra, exempelvis Agenda 2030. Lokalt i Kungsbacka sätt. Förmågan att anpassa sig, finna nya lösningar och
-styr politikerna i kommunfullmäktige, kommunstyrelsen tillämpa teknik är avgörande för att uppnå långsiktiga och
-och nämnder bland annat genom att fördela resurser och kortsiktiga mål om välfärd och god livsmiljö för invånarna.
-sätta mål för verksamheterna. Det kommunala uppdraget Det kan innebära nya tjänster, nya sätt att erbjuda tjänster,
-innefattar att främja demokrati, samhällsutveckling och förändrade arbetssätt, nya organisatoriska lösningar och
-tillhandahålla god kommunal service. samarbetsformer men också att sluta göra vissa saker eller
-uppgifter.
+internationella överenskommelser med EU, FN och
+andra, exempelvis Agenda 2030. Lokalt i Kungsbacka
+styr politikerna i kommunfullmäktige, kommunstyrelsen
+och nämnder bland annat genom att fördela resurser och
+sätta mål för verksamheterna. Det kommunala uppdraget
+innefattar att främja demokrati, samhällsutveckling och
+tillhandahålla god kommunal service.
+
 Att möta framtidens samhälls-
-och välfärdsutmaningar            Att arbeta med medskapande
-med dem vi är till för
+och välfärdsutmaningar
 Världshändelser och förändrade invånarbehov påverkar
-Kungsbacka kommun. Därför är det avgörande att förstå Vi hanterar utmaningar och finner nya lösningar tillsam-
-trender i omvärlden för att förbereda oss för framtiden. mans med dem vi är till för. Medskapande säkerställer
-Samhället står inför komplexa utmaningar inom befolk- även att vår service och välfärd fortsätter vara relevant för
-ning, klimat, värderingar, teknologi och globalisering, kommunens invånare.
+Kungsbacka kommun. Därför är det avgörande att förstå
+trender i omvärlden för att förbereda oss för framtiden.
+Samhället står inför komplexa utmaningar inom befolk-
+ning, klimat, värderingar, teknologi och globalisering,
 vilket kräver nya samarbetsformer. Agenda 2030 lyfter
-Att samarbeta med andra för
 fram behovet av genomgripande förändringar inom
-att få kraft i uppdraget
 ekologiska, ekonomiska och sociala områden, och betonar
-vikten av kunskap och innovation. Städer som Kungsbacka Genom samarbete med civilsamhället, näringslivet,
-spelar en central roll för hållbar utveckling och anses vara akademin och andra offentliga aktörer främjar vi innova-
-arenor för förnyelse och innovation - men ingen aktör kan tion, resurseffektivitet och legitimitet, och tar vara på den
-ensam lösa dessa utmaningar. Det behöver kommunen potential som finns. Samarbeten kan också möjliggöra
-göra tillsammans med invånarna, näringslivet och andra kunskapsdelning och bättre anpassning av tjänster till
-aktörer.                          lokala behov, vilket stärker kommunens förmåga till
-långsiktig och hållbar planering. Involvering av olika
+vikten av kunskap och innovation. Städer som Kungsbacka
+spelar en central roll för hållbar utveckling och anses vara
+arenor för förnyelse och innovation - men ingen aktör kan
+ensam lösa dessa utmaningar. Det behöver kommunen
+göra tillsammans med invånarna, näringslivet och andra
+aktörer.
+
 Principer som vägleder oss
-aktörer leder till en mer integrerad och effektiv förvaltning
 Att ha långsiktighet
-som möter invånares och företagares förväntningar.
 Långsiktighet innebär att bedriva en hållbar verksamhet
 för både nuvarande och framtida generationer. Vi använder
 omvärldsanalys och scenarier för att förutse framtida
 behov, utmaningar och möjligheter.
+
 Att arbeta som ETT Kungsbacka
 Ett Kungsbacka innebär att vi tillsammans med alla som
 bor, verkar och vistas i kommunen gör det bästa vi kan
 med våra gemensamma resurser. Som Ett Kungsbacka är
+
 14 Kommunbudget 2026 och plan 2027–2028
+
+helheten större än summan av delarna, och vi tar oss an
+utmaningar utan en uppdelning i vi och dom. Vårt fokus
+ligger på hela kommunen, snarare än enskilda verksamhe-
+ter, vilket innebär en strävan efter likvärdighet, även om
+det inte alltid blir lika överallt.
+
+Att arbeta med förnyelse och innovation
+Förnyelse innebär att lösa uppdrag på nya, innovativa
+sätt. Förmågan att anpassa sig, finna nya lösningar och
+tillämpa teknik är avgörande för att uppnå långsiktiga och
+kortsiktiga mål om välfärd och god livsmiljö för invånarna.
+Det kan innebära nya tjänster, nya sätt att erbjuda tjänster,
+förändrade arbetssätt, nya organisatoriska lösningar och
+samarbetsformer men också att sluta göra vissa saker eller
+uppgifter.
+
+Att arbeta med medskapande
+med dem vi är till för
+Vi hanterar utmaningar och finner nya lösningar tillsam-
+mans med dem vi är till för. Medskapande säkerställer
+även att vår service och välfärd fortsätter vara relevant för
+kommunens invånare.
+
+Att samarbeta med andra för
+att få kraft i uppdraget
+Genom samarbete med civilsamhället, näringslivet,
+akademin och andra offentliga aktörer främjar vi innova-
+tion, resurseffektivitet och legitimitet, och tar vara på den
+potential som finns. Samarbeten kan också möjliggöra
+kunskapsdelning och bättre anpassning av tjänster till
+lokala behov, vilket stärker kommunens förmåga till
+långsiktig och hållbar planering. Involvering av olika
+aktörer leder till en mer integrerad och effektiv förvaltning
+som möter invånares och företagares förväntningar.
 
 <!-- sida 158 -->
 
+Strategisk, taktisk och operativ styrning
+Tydlig riktning, struktur och kultur är centralt i kommu-
+nens styrning.
+
+Strategisk styrning – att peka
+ut riktning vart vi ska
+Strategisk styrning innebär politisk styrning. På en hög
+strategisk nivå planerar politiken och följer upp långsiktiga
+mål och ambitioner för kommunen.
+
+Vision 2030
+Visionen skildrar den långsiktiga utvecklingen för att möta
+behoven inom arbete, boende, trygghet, utbildning och
+upplevelser, attrahera företag och hantera Kungsbacka
+stads tillväxt.
+
+Mål och direktiv
+Utifrån visionen fastställer kommunfullmäktige långsik-
+tiga mål för mandatperioden med specifika fokusområden
+för kraftsamling. Politikerna kan ompröva målen och
+fokusområdena vid nytt budgetår. Politikerna kan också
+besluta om årliga direktiv för prioriterade förändrings-
+områden. Varje nämnd, med undantag för valnämnden,
+överförmyndare i samverkan och revisionen, ansvarar för
+att bidra till att kommunen som helhet når målen och
+direktiven.
+
+Ekonomistyrning och resurstilldelning
+Fullmäktige beslutar om hur resurserna ska fördelas till
+nämnder och styrelse baserat på förväntad befolknings-
+utveckling. Nämndernas politiker ansvarar sedan för
+resursfördelningen till verksamheterna och att utveckla
+och följa upp verksamhetens kvalitet och ekonomi enligt
+politiska beslut.
+
+Taktisk styrning – att göra rätt saker
+På den taktiska nivån fokuserar kommunen på att planera
+och följa upp den politiska viljan och säkerställa att vi gör
+rätt saker för att nå de strategiska målen. Då behöver vi ha
+förmåga att balansera två sätt att arbeta med förändring.
+Dels förbättring genom effektivisering av det vi redan gör
+idag, dels förnyelse inför framtiden genom innovation.
+Förnyelse handlar om att utforska och testa nya lösningar
+i nära samarbete med dem vi är till för. Det kan också
+innebära att sluta göra saker. Genom att balansera den
+så kallade tvåhäntheten säkerställer vi att vi fortsatt är
+relevanta för de vi är till för.
+
 SÅ STYRS KUNGSBACKA
 
-Strategisk, taktisk och operativ styrning Operativ styrning – att göra saker rätt
-Tydlig riktning, struktur och kultur är centralt i kommu- På den operativa nivån fokuserar kommunen på att planera,
-nens styrning.                    genomföra och följa upp genom att leverera välfärd och
+Operativ styrning – att göra saker rätt
+På den operativa nivån fokuserar kommunen på att planera,
+genomföra och följa upp genom att leverera välfärd och
 service för dem vi är till för. Det handlar också om att
-Strategisk styrning – att peka
 genomföra de förändringsinsatser som krävs för att uppnå
-ut riktning vart vi ska
 de nyttor som ska realiseras. Detta kan innebära utveckling
-Strategisk styrning innebär politisk styrning. På en hög av förmågor, arbetssätt eller processer. Förändringsinsats-
-strategisk nivå planerar politiken och följer upp långsiktiga erna kan vi göra antingen i form av mindre förbättringar
-mål och ambitioner för kommunen.  i kärnverksamheten eller som förnyelseinsatser i form av
+av förmågor, arbetssätt eller processer. Förändringsinsats-
+erna kan vi göra antingen i form av mindre förbättringar
+i kärnverksamheten eller som förnyelseinsatser i form av
 tillfälliga arbeten med hjälp av projekt och uppdrag.
-Vision 2030
+
 Planering och uppföljning
-Visionen skildrar den långsiktiga utvecklingen för att möta
 Kommunbudget och plan
-behoven inom arbete, boende, trygghet, utbildning och
-upplevelser, attrahera företag och hantera Kungsbacka Enligt kommunallagen ska kommunen varje år upprätta
-stads tillväxt.                   en budget för kommande kalenderår och en plan för de två
+Enligt kommunallagen ska kommunen varje år upprätta
+en budget för kommande kalenderår och en plan för de två
 efterföljande åren. I Kungsbacka kallar vi själva budgetdo-
-Mål och direktiv                  kumentet för Kommunbudget. Det är budgetberedningen
-Utifrån visionen fastställer kommunfullmäktige långsik- som arbetar fram underlaget och i praktiken består
-tiga mål för mandatperioden med specifika fokusområden budgetberedningen av kommunstyrelsens arbetsutskott.
-för kraftsamling. Politikerna kan ompröva målen och Det är kommunfullmäktige som beslutar om Kommun-
-fokusområdena vid nytt budgetår. Politikerna kan också budgeten och plan i juni.
-besluta om årliga direktiv för prioriterade förändrings-
+kumentet för Kommunbudget. Det är budgetberedningen
+som arbetar fram underlaget och i praktiken består
+budgetberedningen av kommunstyrelsens arbetsutskott.
+Det är kommunfullmäktige som beslutar om Kommun-
+budgeten och plan i juni.
+
 Uppföljning
-områden. Varje nämnd, med undantag för valnämnden,
-överförmyndare i samverkan och revisionen, ansvarar för Uppföljningen är central för att utvärdera resultat och
-att bidra till att kommunen som helhet når målen och integrera erfarenheter tillbaka i framtida planering. Ett
-direktiven.                       aktivt arbete med uppföljning och intern kontroll ökar för-
+Uppföljningen är central för att utvärdera resultat och
+integrera erfarenheter tillbaka i framtida planering. Ett
+aktivt arbete med uppföljning och intern kontroll ökar för-
 utsättningarna för att vi ska nål målen och att vi efterlever
-Ekonomistyrning och resurstilldelning lagstiftningen. Kommunstyrelsen analyserar kommunens
-Fullmäktige beslutar om hur resurserna ska fördelas till resultat i den årliga gemensamma uppföljningen i samband
-nämnder och styrelse baserat på förväntad befolknings- med delårs- och årsbokslut.
-utveckling. Nämndernas politiker ansvarar sedan för
+lagstiftningen. Kommunstyrelsen analyserar kommunens
+resultat i den årliga gemensamma uppföljningen i samband
+med delårs- och årsbokslut.
+
 Kultur – det mänskliga perspektivet
-resursfördelningen till verksamheterna och att utveckla
-och följa upp verksamhetens kvalitet och ekonomi enligt Kulturen ger vägledning i det dagliga arbetets beslut och
-politiska beslut.                 handlingar.
-Taktisk styrning – att göra rätt saker
+Kulturen ger vägledning i det dagliga arbetets beslut och
+handlingar.
+
 Vår tillitsbaserade styrning och ledning syftar till att möta
-På den taktiska nivån fokuserar kommunen på att planera invånarnas behov effektivt och skapa en bättre arbetsmiljö
-och följa upp den politiska viljan och säkerställa att vi gör med ökad frihet och ansvar inom givna ramar. Styrningen
-rätt saker för att nå de strategiska målen. Då behöver vi ha grundar sig på förtroende mellan politiker, tjänstepersoner,
-förmåga att balansera två sätt att arbeta med förändring. chefer, medarbetare samt mellan kommunen och dess
-Dels förbättring genom effektivisering av det vi redan gör invånare, företag och organisationer.
-idag, dels förnyelse inför framtiden genom innovation.
-Förnyelse handlar om att utforska och testa nya lösningar I Kungsbacka kommun ska ledare och medarbetare
-i nära samarbete med dem vi är till för. Det kan också agera som förebilder, inspirera och visa omtanke, och de
-innebära att sluta göra saker. Genom att balansera den förväntas driva utveckling och förändring både individuellt
-så kallade tvåhäntheten säkerställer vi att vi fortsatt är och tillsammans. Detta stärker motivation, arbetsglädje,
-relevanta för de vi är till för.  engagemang, välmående och personlig utveckling. Vi
+invånarnas behov effektivt och skapa en bättre arbetsmiljö
+med ökad frihet och ansvar inom givna ramar. Styrningen
+grundar sig på förtroende mellan politiker, tjänstepersoner,
+chefer, medarbetare samt mellan kommunen och dess
+invånare, företag och organisationer.
+
+I Kungsbacka kommun ska ledare och medarbetare
+agera som förebilder, inspirera och visa omtanke, och de
+förväntas driva utveckling och förändring både individuellt
+och tillsammans. Detta stärker motivation, arbetsglädje,
+engagemang, välmående och personlig utveckling. Vi
 kallar det utvecklande ledarskap och medarbetarskap.
+
 Kommunbudget 2026 och plan 2027–2028 15
 
 <!-- sida 159 -->
@@ -6583,52 +7830,86 @@ vi på dem vi är till för.
 
 VISION & MÅL
 
-Vision      2030
+Vision       2030
 
 I Kungsbacka skapar vi det goda livet tillsammans. Vi är öppna, trygga och nytänkande.
 Varje människas potential tas till vara och näringslivet blomstrar. Här växer du hela livet.
 
-Västsveriges bästa företagsklimat
 KUNGSBACKA ÄR EN NATURSKÖN och dynamisk tillväxt-
-kommun. Hit är alla lika välkomna, och möjligheterna till Kungsbacka kommun är känd för sitt goda värdskap och
-utveckling är goda för både individen, gruppen, föreningen är det självklara valet för företag som vill etablera sig i
-och företaget.                    Väst sverige. Vi har det bästa klimatet för entreprenörer.
-Den valfrihet, mångfald och livskvalitet som präglar Här är det lika naturligt att starta företag som att vara
-vardagen här lockar ständigt nya invånare. Växtkraften ger anställd. Entreprenörslusten väcks till liv redan i skolan,
-oss mer resurser till den gemensamma välfärden – så att och samarbetet mellan skola, akademi och näringsliv
-alla kan utvecklas och leva det goda livet, hela livet. utvecklar företagsamheten i hela kommunen.
+kommun. Hit är alla lika välkomna, och möjligheterna till
+utveckling är goda för både individen, gruppen, föreningen
+och företaget.
+
+Den valfrihet, mångfald och livskvalitet som präglar
+vardagen här lockar ständigt nya invånare. Växtkraften ger
+oss mer resurser till den gemensamma välfärden – så att
+alla kan utvecklas och leva det goda livet, hela livet.
+
+Vi växer i regionen genom att planera och bygga strate-
+giskt. Samhället utvecklas på ett hållbart sätt: socialt,
+ekologiskt och ekonomiskt. Vi lever inte över naturens
+tillgångar.
+
+Mångfald, puls och nära till naturen
+Kungsbacka är en sammanhållen, grönskande och lättill-
+gänglig stad med tydlig profil och egen identitet. Staden
+växer och blir ett mer framträdande nav i kommunen.
+Här finns attraktiva bostäder för alla smaker, som möter
+behoven hos olika generationer och livsstilar. Mångfalden
+speglas i den inspirerande byggnadsmiljön där tradition
+möter innovation och där mötesplatserna är många.
+Utbudet av affärer, kultur och nöjen är stort.
+
+Staden är lättillgänglig och har goda kommunikationer
+med kommunens orter och omvärld. Välplanerad
+infrastruktur och lättillgänglig kollektivtrafik minimerar
+transporternas miljöpåverkan.
+
+Hav, öppna landskap och skogsbygd – vi förvaltar våra
+fantastiska naturmiljöer så att även kommande genera-
+tioner ska kunna njuta av den välgörande naturen, mitt i
+vardagen.
+
+Staden, landet, handeln, kulturlivet och naturen lockar
+turister och besökare till hela kommunen.
+
+Västsveriges bästa företagsklimat
+Kungsbacka kommun är känd för sitt goda värdskap och
+är det självklara valet för företag som vill etablera sig i
+Väst sverige. Vi har det bästa klimatet för entreprenörer.
+
+Här är det lika naturligt att starta företag som att vara
+anställd. Entreprenörslusten väcks till liv redan i skolan,
+och samarbetet mellan skola, akademi och näringsliv
+utvecklar företagsamheten i hela kommunen.
 
 Vi utvecklas hela livet
-Vi växer i regionen genom att planera och bygga strate-
-giskt. Samhället utvecklas på ett hållbart sätt: socialt, I våra skolor utvecklar var och en sin fulla kapacitet i en
-ekologiskt och ekonomiskt. Vi lever inte över naturens kreativ miljö där alla tar ansvar, visar respekt och bryr sig
-tillgångar.                       om varandra. Alla elever lämnar skolan med god kompe-
+I våra skolor utvecklar var och en sin fulla kapacitet i en
+kreativ miljö där alla tar ansvar, visar respekt och bryr sig
+om varandra. Alla elever lämnar skolan med god kompe-
 tens, god självkänsla och stark framtidstro.
-Mångfald, puls och nära till naturen
-Kungsbacka är en sammanhållen, grönskande och lättill- Livslångt lärande är en självklarhet. När vi växer som
-gänglig stad med tydlig profil och egen identitet. Staden människor utvecklas både näringslivet och samhället i
-växer och blir ett mer framträdande nav i kommunen. stort.
-Här finns attraktiva bostäder för alla smaker, som möter
+
+Livslångt lärande är en självklarhet. När vi växer som
+människor utvecklas både näringslivet och samhället i
+stort.
+
 Aktiviteter som engagerar,
-behoven hos olika generationer och livsstilar. Mångfalden
 inspirerar och berikar livet
-speglas i den inspirerande byggnadsmiljön där tradition
-möter innovation och där mötesplatserna är många. Här har alla ett rikt fritids- och kulturliv med både bredd
-Utbudet av affärer, kultur och nöjen är stort. och spets. Mångfalden av aktiviteter, upplevelser och
+Här har alla ett rikt fritids- och kulturliv med både bredd
+och spets. Mångfalden av aktiviteter, upplevelser och
 gemenskaper främjar hälsa, välmående och kreativitet.
-Staden är lättillgänglig och har goda kommunikationer Framåtanda, mångfald och öppenhet spirar i nätverk och
-med kommunens orter och omvärld. Välplanerad föreningar.
-infrastruktur och lättillgänglig kollektivtrafik minimerar
-transporternas miljöpåverkan.     Vi är delaktiga i samhällets utveckling och får spännande
+Framåtanda, mångfald och öppenhet spirar i nätverk och
+föreningar.
+
+Vi är delaktiga i samhällets utveckling och får spännande
 saker att hända.
-Hav, öppna landskap och skogsbygd – vi förvaltar våra
+
 Den nytänkande kvalitetskommunen
-fantastiska naturmiljöer så att även kommande genera-
-tioner ska kunna njuta av den välgörande naturen, mitt i Kungsbacka kommun möter utmaningar med mod,
-vardagen.                         nytänkande och samarbete. Vi löser vårt uppdrag på ett
+Kungsbacka kommun möter utmaningar med mod,
+nytänkande och samarbete. Vi löser vårt uppdrag på ett
 innovativt sätt som överträffar invånarnas förväntningar,
-Staden, landet, handeln, kulturlivet och naturen lockar och är en förebild för andra. Här jobbar människor som
-turister och besökare till hela kommunen. vill, vågar och kan.
+och är en förebild för andra. Här jobbar människor som
+vill, vågar och kan.
 
 Kommunbudget 2026 och plan 2027–2028 17
 
@@ -6896,17 +8177,25 @@ GOD EKONOMISK HUSHÅLLNING
 
 God      ekonomisk            hushållning
 
-Bedömning av god ekonomisk hushållning
 I följande avsnitt beskriver vi hur kommunfullmäktige
-i Kungsbacka har valt att definiera god ekonomisk Varje del ekonomi, politisk inriktning och samhälle väger
-hushållning.                      lika mycket vid utvärderingen. Först gör vi en bedömning
-av respektive område. Resultatet är godtagbart när minst
+i Kungsbacka har valt att definiera god ekonomisk
+hushållning.
+
 Kommunfullmäktiges definition
-hälften måtten är uppfyllda. Därefter gör vi en samlad
-Grunden för god ekonomisk hushållning och hållbar utvärdering av de tre områdena. Om minst två områden
-utveckling liknar varandra. Bägge bygger på långsiktigt är på godtagbar nivå har kommunen god ekonomisk
-tänkande och att varje generation står för de kostnader hushållning.
+Grunden för god ekonomisk hushållning och hållbar
+utveckling liknar varandra. Bägge bygger på långsiktigt
+tänkande och att varje generation står för de kostnader
 de ger upphov till.
+
+Bedömning av god ekonomisk hushållning
+Varje del ekonomi, politisk inriktning och samhälle väger
+lika mycket vid utvärderingen. Först gör vi en bedömning
+av respektive område. Resultatet är godtagbart när minst
+hälften måtten är uppfyllda. Därefter gör vi en samlad
+utvärdering av de tre områdena. Om minst två områden
+är på godtagbar nivå har kommunen god ekonomisk
+hushållning.
+
 Hållbar utveckling är ett viktigt begrepp för Kungsbacka
 kommuns långsiktiga planering. Ekonomisk, social
 och ekologisk hållbarhet är lika viktiga och ömsesidigt
@@ -6930,6 +8219,7 @@ i nriktning
 arbete med de globala hållbarhetsmålen ger för
 resultat över tid
 Ekonomi
+
 Mått/mål  Krav
 Finansiering av Att kassaflödet (årets resultat och avskriv-
 investeringar ningar) ska vara så pass stort att planerade
@@ -6943,6 +8233,7 @@ under femårsperioden samt budgetåren 2025
 Soliditet Att bokslutsårets soliditet i kommunen ska vara
 lika eller högre än den genomsnittliga solidite-
 ten för femårsperioden, 2023–2027.
+
 26 Kommunbudget 2026 och plan 2027–2028
 
 <!-- sida 170 -->
@@ -6974,242 +8265,416 @@ EKONOMISTYRPRINCIPER
 
 Ekonomistyrprinciper
 
-Budgetansvar
 I följande avsnitt beskriver vi kommunens ekonomistyr-
-principer. Detta kan ses som ett komplement till lagar, Nämndernas och styrelsens budgetansvar innebär att
-rekommendationer och normeringar som styr kommunens fördela ramarna till olika verksamheter inom nämndens
-ekonomi, exempelvis kommunallagen, lagen om kommunal ansvarsområden. De ska också bidra till att uppnå de
-bokföring och redovisning, rekommendationer från rådet för kommunövergripande målen och kommunfullmäktiges
-kommunal redovisning samt praxis inom ekonomiområdet. direktiv. Nämnderna och styrelsen kan sätta egna mål och
-direktiv utifrån fokusområdena och sina ansvarsområden.
+principer. Detta kan ses som ett komplement till lagar,
+rekommendationer och normeringar som styr kommunens
+ekonomi, exempelvis kommunallagen, lagen om kommunal
+bokföring och redovisning, rekommendationer från rådet för
+kommunal redovisning samt praxis inom ekonomiområdet.
+
 Generell princip
-Villkor för kommunens nämnder och styrelser är Förvaltningschefen delegerar budgetansvaret ut i
-• att de följer kommunens mål, riktlinjer, principer, verksamheten på lämplig nivå. Budgetansvaret innebär
-praxis, reglementen och policys med mera en skyldighet att planera och genomföra verksamheten
-• att de följer lagar, avtal och anvisningar inom fastställda ramar för att nå uppsatta mål. För att
-• att beslut ryms inom tilldelad budget verksamheten ska kunna utföras så att resurstillgången
-• att de når de kvantitativa och kvalitativa mått som ligger inom fastställd budget, krävs att budgetansvariga
-kommunfullmäktige har angett    fortlöpande följer upp och analyserar budgetavvikelser.
-• att ha ett kvalitativt och ekonomiskt ansvar för den Budgetansvarig ska också vidta nödvändiga åtgärder för
-verksamhet som bedrivs av externa utförare. att nämnden ska kunna hålla den ekonomiska ramen.
-Ansvarig ska också hålla sin närmaste chef informerad om
-Kommunstyrelsen och kommunfullmäktige ska alltid enhetens ekonomiska läge. Budgetuppföljningen är en del
-behandla principiella ställningstaganden och ärenden av budgetansvaret. Med det delegerade budgetansvaret
-av större vikt. Det kan gälla till exempel tillämpnings- följer rätten att fatta inköpsbeslut enligt gällande regler.
+Villkor för kommunens nämnder och styrelser är
+• att de följer kommunens mål, riktlinjer, principer,
+praxis, reglementen och policys med mera
+• att de följer lagar, avtal och anvisningar
+• att beslut ryms inom tilldelad budget
+• att de når de kvantitativa och kvalitativa mått som
+kommunfullmäktige har angett
+• att ha ett kvalitativt och ekonomiskt ansvar för den
+verksamhet som bedrivs av externa utförare.
+
+Kommunstyrelsen och kommunfullmäktige ska alltid
+behandla principiella ställningstaganden och ärenden
+av större vikt. Det kan gälla till exempel tillämpnings-
 föreskrifter för taxor och avgifter och medfinansiering för
-Intern kontroll
 kommunen.
-Intern kontroll handlar om att ha ordning och reda, veta
-Regelsystemets bevarande och frihet kräver att nämnder att det som ska göras blir gjort och att det sker på ett
-och styrelser visar stor lojalitet mot Kungsbacka kommuns korrekt och säkert sätt. Arbetet med intern kontroll är
-beslut och intentioner.           en sammantagen process som vi kan beskriva med fyra
-byggstenar:
+
+Regelsystemets bevarande och frihet kräver att nämnder
+och styrelser visar stor lojalitet mot Kungsbacka kommuns
+beslut och intentioner.
+
 Ekonomiskt ansvar
-1\. En robust organisation
 Kommunfullmäktige tilldelar nämnder och styrelser en
-nettoram för driften. Inom ramen ska nämnderna ta ett Omfattar exempelvis organisationsstruktur, reglementen,
-självständigt ansvar för sin ekonomi. Nämnderna måste rutiner, verksamhetssystem, kvalitetskontroller, avtal,
-själva upprätta rutiner för budgetuppföljning och intern information, kommunikation och kultur.
+nettoram för driften. Inom ramen ska nämnderna ta ett
+självständigt ansvar för sin ekonomi. Nämnderna måste
+själva upprätta rutiner för budgetuppföljning och intern
 kontroll. Vid befarat underskott ska förvaltningschefen
-2\. Riskanalyser som riktar arbetet
 utarbeta förslag till åtgärder och presentera dessa för
-nämnden. Nämnden är skyldig att fatta beslut om åtgärder Ett reflekterande och framåtsyftande förhållningssätt.
-för att inte överskrida ramen. Om nämnden trots detta Omvärldsanalys och faktainsamling inom och utom den
-inte anser sig klara sig inom tilldelad ram ska nämnden egna organisationen.
+nämnden. Nämnden är skyldig att fatta beslut om åtgärder
+för att inte överskrida ramen. Om nämnden trots detta
+inte anser sig klara sig inom tilldelad ram ska nämnden
 omedelbart rapportera till kommunstyrelsen. Nämnden
-3\. Planerade åtgärder och kontroller
 är skyldig att göra uppföljning med så täta intervaller
-som krävs för att ha en god kontroll. Efter 30 april och 31 Utgår från riskanalysen och prioriterar och planerar
-augusti rapporterar nämnden sin uppföljning och prognos uppföljande kontroller.
+som krävs för att ha en god kontroll. Efter 30 april och 31
+augusti rapporterar nämnden sin uppföljning och prognos
 till kommunstyrelsen som i sin tur gör en uppföljning
-4\. Uppföljning
 och prognos för kommunen som helhet och redovisar till
-fullmäktige. Detsamma gäller årsbokslutet efter den 31 Vi följer upp och analyserar den interna kontrollen.
-december som vi redovisar till fullmäktige. Resultatet återkopplar man till ansvarig nämnd.
+fullmäktige. Detsamma gäller årsbokslutet efter den 31
+december som vi redovisar till fullmäktige.
+
 28 Kommunbudget 2026 och plan 2027–2028
+
+Budgetansvar
+Nämndernas och styrelsens budgetansvar innebär att
+fördela ramarna till olika verksamheter inom nämndens
+ansvarsområden. De ska också bidra till att uppnå de
+kommunövergripande målen och kommunfullmäktiges
+direktiv. Nämnderna och styrelsen kan sätta egna mål och
+direktiv utifrån fokusområdena och sina ansvarsområden.
+
+Förvaltningschefen delegerar budgetansvaret ut i
+verksamheten på lämplig nivå. Budgetansvaret innebär
+en skyldighet att planera och genomföra verksamheten
+inom fastställda ramar för att nå uppsatta mål. För att
+verksamheten ska kunna utföras så att resurstillgången
+ligger inom fastställd budget, krävs att budgetansvariga
+fortlöpande följer upp och analyserar budgetavvikelser.
+Budgetansvarig ska också vidta nödvändiga åtgärder för
+att nämnden ska kunna hålla den ekonomiska ramen.
+Ansvarig ska också hålla sin närmaste chef informerad om
+enhetens ekonomiska läge. Budgetuppföljningen är en del
+av budgetansvaret. Med det delegerade budgetansvaret
+följer rätten att fatta inköpsbeslut enligt gällande regler.
+
+Intern kontroll
+Intern kontroll handlar om att ha ordning och reda, veta
+att det som ska göras blir gjort och att det sker på ett
+korrekt och säkert sätt. Arbetet med intern kontroll är
+en sammantagen process som vi kan beskriva med fyra
+byggstenar:
+
+1\. En robust organisation
+Omfattar exempelvis organisationsstruktur, reglementen,
+rutiner, verksamhetssystem, kvalitetskontroller, avtal,
+information, kommunikation och kultur.
+
+2\. Riskanalyser som riktar arbetet
+Ett reflekterande och framåtsyftande förhållningssätt.
+Omvärldsanalys och faktainsamling inom och utom den
+egna organisationen.
+
+3\. Planerade åtgärder och kontroller
+Utgår från riskanalysen och prioriterar och planerar
+uppföljande kontroller.
+
+4\. Uppföljning
+Vi följer upp och analyserar den interna kontrollen.
+Resultatet återkopplar man till ansvarig nämnd.
 
 <!-- sida 172 -->
 
+Nämndernas ansvar
+I Kungsbacka arbetar varje nämnd i en årlig process för
+internkontroll. Nämnderna har det yttersta ansvaret för
+den interna kontrollen inom sitt verksamhetsområde.
+De antar en plan baserad på riskanalys och planering,
+genomför granskningar i enlighet med planen och beslutar
+om åtgärder med anledning av resultaten. Årets arbete
+med internkontroll sammanfattar vi i en rapport som efter
+nämndens beslut går till kommunstyrelsen och när det rör
+inköp till nämnden för Service.
+
+Kommunstyrelsens ansvar
+Kommunstyrelsen ska utvärdera kommunens samlade
+system för intern kontroll med utgångspunkt från nämn-
+dernas uppföljningsrapporter. Om det finns saker som
+behöver förbättras, ska kommunstyrelsen fatta beslut om
+hur de ska gå tillväga för att förbättra dem. Den samlade
+utvärderingen ska kommunstyrelsen rapportera till
+kommunfullmäktige.
+
+Resultatfond och ombudget
+Resultatfonder innebär att nämnderna kan ta med sig
+överskott respektive underskott till kommande år. För de
+avgiftsfinansierade verksamheterna finns särskilda regler,
+se rubrik avgiftsfinansierad verksamhet.
+
+Motivet för nämndernas resultatfonder är att
+• tydliggöra verksamhetsansvaret och möjliggöra en bra
+ekonomistyrning
+• möjliggöra bättre långsiktig planering över flera år i
+verksamheten, och få en tydlig ordning för att hantera
+över- och underskott
+• skapa större handlingsfrihet på nämndnivå genom att
+göra det möjligt att arbeta med resultatfonden som en
+buffert
+• ta bort kalenderårsproblematiken, exempelvis undvika
+köp för att hålla sin budget i slutet av året.
+
+Nämndens totala resultatfond får inte vara negativ. Det
+är fullmäktige som fattar beslut om resultatfondernas
+avsättningar i samband med bokslutet och specifikt i
+ärendet ombudgetering och resultatfonder. Under året
+kan man göra ramjustering av resultatfonden i de fall då
+verksamheten övergår till annan nämnd. I de fall nämnden
+önskar föra med ett överskott till resultatfonden ska
+nämnden tydligt beskriva och motivera utifrån kriterierna
+1–4 nedan beroende på orsak till avvikelsen.
+
 EKONOMISTYRPRINCIPER
 
-Nämndernas ansvar
 1\. Nämnden har inte utfört planerad verksamhet.
-I Kungsbacka arbetar varje nämnd i en årlig process för Nämnden ska normalt återredovisa överskottet.
-internkontroll. Nämnderna har det yttersta ansvaret för
-den interna kontrollen inom sitt verksamhetsområde. 2. Man har överfört verksamhet till annan nämnd eller
-De antar en plan baserad på riskanalys och planering, styrelse. Normalt gör man ramjustering av budgeten under
-genomför granskningar i enlighet med planen och beslutar verksamhetsåret. I undantagsfall kan man återredovisa
-om åtgärder med anledning av resultaten. Årets arbete överskott eller överföra det till aktuell nämnd eller styrelse
-med internkontroll sammanfattar vi i en rapport som efter i samband med bokslutet.
-nämndens beslut går till kommunstyrelsen och när det rör
-inköp till nämnden för Service.   3. Egna effektiviseringar eller besparingar. Redovisning av
+Nämnden ska normalt återredovisa överskottet.
+
+2\. Man har överfört verksamhet till annan nämnd eller
+styrelse. Normalt gör man ramjustering av budgeten under
+verksamhetsåret. I undantagsfall kan man återredovisa
+överskott eller överföra det till aktuell nämnd eller styrelse
+i samband med bokslutet.
+
+3\. Egna effektiviseringar eller besparingar. Redovisning av
 prestationer eller andra utvärderingskriterier som nämnden
-Kommunstyrelsens ansvar
 eller styrelsen använder ska jämföras med budget. Över-
-Kommunstyrelsen ska utvärdera kommunens samlade skottet förs till nämndens resultatfond.
-system för intern kontroll med utgångspunkt från nämn-
-dernas uppföljningsrapporter. Om det finns saker som 4. Pågående driftprojekt. Projekten ska vara igångsatta
-behöver förbättras, ska kommunstyrelsen fatta beslut om men inte avslutade. Överskottet kan ombudgeteras till nya
-hur de ska gå tillväga för att förbättra dem. Den samlade budgetåret. Man ska också analysera och redovisa orsaker
-utvärderingen ska kommunstyrelsen rapportera till till underskott av nämndens totala nettobudget. Normalt
-kommunfullmäktige.                tar nämnden med sig underskottet och täcker det inom sin
+skottet förs till nämndens resultatfond.
+
+4\. Pågående driftprojekt. Projekten ska vara igångsatta
+men inte avslutade. Överskottet kan ombudgeteras till nya
+budgetåret. Man ska också analysera och redovisa orsaker
+till underskott av nämndens totala nettobudget. Normalt
+tar nämnden med sig underskottet och täcker det inom sin
 resultatfond.
-Resultatfond och ombudget
+
 Underskott
-Resultatfonder innebär att nämnderna kan ta med sig
-överskott respektive underskott till kommande år. För de Den totala resultatfonden för en nämnd kan vara negativ
-avgiftsfinansierade verksamheterna finns särskilda regler, ett enstaka år men nämnden ska då återställa underskottet
-se rubrik avgiftsfinansierad verksamhet. nästföljande budgetår. I särskilda fall kan fullmäktige
+Den totala resultatfonden för en nämnd kan vara negativ
+ett enstaka år men nämnden ska då återställa underskottet
+nästföljande budgetår. I särskilda fall kan fullmäktige
 bevilja längre tid för att återställa underskottet. Nämnden
-Motivet för nämndernas resultatfonder är att
 ska redovisa åtgärderna vid apriluppföljningen.
-• tydliggöra verksamhetsansvaret och möjliggöra en bra
+
 Resultatfondens storlek
-ekonomistyrning
-• möjliggöra bättre långsiktig planering över flera år i Fonden får vara högst tio procent av budgeterad bruttoom-
-verksamheten, och få en tydlig ordning för att hantera slutning för bokslutsåret. Här kan fullmäktige besluta om
-över- och underskott            större eller mindre fond om det finns särskilda skäl.
-• skapa större handlingsfrihet på nämndnivå genom att
+Fonden får vara högst tio procent av budgeterad bruttoom-
+slutning för bokslutsåret. Här kan fullmäktige besluta om
+större eller mindre fond om det finns särskilda skäl.
+
 Uttag ur fonden
-göra det möjligt att arbeta med resultatfonden som en
-buffert                         Resultatfonden är en öronmärkning av kommunens egna
-• ta bort kalenderårsproblematiken, exempelvis undvika kapital. Nämnden kan inte budgetera om uttag ur fonden,
-köp för att hålla sin budget i slutet av året. men kan besluta under verksamhetsåret att de ska använda
+Resultatfonden är en öronmärkning av kommunens egna
+kapital. Nämnden kan inte budgetera om uttag ur fonden,
+men kan besluta under verksamhetsåret att de ska använda
 fonden. Nämnden ska då uppmärksamma fullmäktige i
-Nämndens totala resultatfond får inte vara negativ. Det början av året alternativt i samband med uppföljningarna
-är fullmäktige som fattar beslut om resultatfondernas 30 april, 31 augusti eller 31 december att nämnden kommer
-avsättningar i samband med bokslutet och specifikt i använda fonden. Kommunfullmäktige beslutar om
-ärendet ombudgetering och resultatfonder. Under året slutreglering av fonden i samband med bokslutet i ärendet
-kan man göra ramjustering av resultatfonden i de fall då ombudget och resultatfonder, då en notering sker i det egna
-verksamheten övergår till annan nämnd. I de fall nämnden kapitalet. Nämnden får en redovisning av utfallet för de
-önskar föra med ett överskott till resultatfonden ska enheter som ingår i nämndens resultatfonder i bokslutet.
-nämnden tydligt beskriva och motivera utifrån kriterierna
+början av året alternativt i samband med uppföljningarna
+30 april, 31 augusti eller 31 december att nämnden kommer
+använda fonden. Kommunfullmäktige beslutar om
+slutreglering av fonden i samband med bokslutet i ärendet
+ombudget och resultatfonder, då en notering sker i det egna
+kapitalet. Nämnden får en redovisning av utfallet för de
+enheter som ingår i nämndens resultatfonder i bokslutet.
+
 Användning
-1–4 nedan beroende på orsak till avvikelsen.
 Nämnden får använda resultatfonden för att täcka
 underskott i bokslutet. Fonden får användas för alla
+
 Kommunbudget 2026 och plan 2027–2028 29
 
 <!-- sida 173 -->
 
 EKONOMISTYRPRINCIPER
 
-driftskostnader av engångskaraktär inom nämndens avslutade lokalinvesteringar överförs och ombudgeteras till
-verksamhetsområde. Däremot får nämnden inte använda nästa eller kommande budgetår tills dess investeringen är
-fonden för kostnader som är nivåhöjande som innebär att genomförd och slutredovisats. Exploateringsprojekten kan
-nämnden långsiktigt binder sig för sådant som inte ryms inte ombudgeteras utan dem ska man förklara och hantera i
-inom budget.                      prognoserna under verksamhetsåret.
+driftskostnader av engångskaraktär inom nämndens
+verksamhetsområde. Däremot får nämnden inte använda
+fonden för kostnader som är nivåhöjande som innebär att
+nämnden långsiktigt binder sig för sådant som inte ryms
+inom budget.
 
 Investeringar
-Investeringar delas in i olika kategorier:
-Nämnderna får en budgetram för investeringarna från • Löpande investeringar
-fullmäktige uppdelad per investeringskategori. Nämnden • Övriga investeringar
-beslutar om fördelning i projektportföljer, huvudprojekt • Reinvesteringar
-eller projekt som ingår i budgetramen. Avstämning av det • Lokalinvesteringar
-ekonomiska utfallet jämfört med budget ska ske löpande • Avgiftsfinansierad verksamhet
-under projektets genomförande. Om det vid den ekono- • Exploateringar
+Nämnderna får en budgetram för investeringarna från
+fullmäktige uppdelad per investeringskategori. Nämnden
+beslutar om fördelning i projektportföljer, huvudprojekt
+eller projekt som ingår i budgetramen. Avstämning av det
+ekonomiska utfallet jämfört med budget ska ske löpande
+under projektets genomförande. Om det vid den ekono-
 miska uppföljningen visar sig att man inte kan genomföra
-Löpande investeringar
 projektportföljen, huvudprojektet eller projektet inom
-tilldelad investeringsram ska förvaltningen rapportera det Löpande investeringar är sådant som regelbundet återkom-
-till nämnden.                     mer och som ligger på en någorlunda jämn nivå. Kapital-
-kostnader som orsakas av dessa investeringar tar nämnden
-Nämnden beslutar hur investeringsbudgeten ska fördelas inom ram. Kapitalkostnaderna består av avskrivningar
-mellan sina projektportföljer, huvudprojekt eller projekt och internränta. Avskrivningar kan man disponera för
-samt hur budgeten ska anpassas vid händelse av nya alternativa verksamhetskostnader om det finns utrymme i
-förutsättningar. Nämnden följer den budgetfördelning driftbudgeten och investeringsnivån över tid ligger på en
-av investeringskategorier som fullmäktige har beslutat lägre nivå än planen. Nämnden kan inte göra motsvarande
-om i Kommunbudgeten. En avvikelse på mindre än fem omdisponering med internränta eftersom de endast är
-procent behöver förvaltningen inte rapportera till nämnden en intern post i budgeten som ska spegla kommunens
-såvida det inte motsvarar mer än fem miljoner kronor. upplåningskostnad. Man ombudgeterar inte löpande
-Förvaltningen behöver inte rapportera mindre avvikelser investeringar.
+tilldelad investeringsram ska förvaltningen rapportera det
+till nämnden.
+
+Nämnden beslutar hur investeringsbudgeten ska fördelas
+mellan sina projektportföljer, huvudprojekt eller projekt
+samt hur budgeten ska anpassas vid händelse av nya
+förutsättningar. Nämnden följer den budgetfördelning
+av investeringskategorier som fullmäktige har beslutat
+om i Kommunbudgeten. En avvikelse på mindre än fem
+procent behöver förvaltningen inte rapportera till nämnden
+såvida det inte motsvarar mer än fem miljoner kronor.
+Förvaltningen behöver inte rapportera mindre avvikelser
 i enskilda projekt till nämnden så länge som avvikelsen
-Övriga investeringar
 finansieras inom projektportföljen eller huvudprojektet,
-om nämnden har budgeterat på sådan övergripande nivå. Nämnderna får en budgetram för övriga investeringar.
-Förvaltningen ska slutredovisa ett investeringsprojekt över Nämnden beslutar om de projekt som ingår i budgetramen.
-fem miljoner kronor till nämnden. Nämnden blir kompenserad för de kapitalkostnader som
-investeringarna ger upphov till.
+om nämnden har budgeterat på sådan övergripande nivå.
+Förvaltningen ska slutredovisa ett investeringsprojekt över
+fem miljoner kronor till nämnden.
+
 Överskott eller underskott för pågående men inte avslutade
-Reinvesteringar
 investeringsprojekt hanterar man inom nämndens
-nästkommande års investeringsram och ombudgeteras Nämnderna får en budgetram för reinvesteringar.
-inte. Nämnden beslutar om avslutade investeringsprojekt Nämnden beslutar om de projektportföljer, huvudprojekt
-som går med över- eller underskott och hanterar detta eller projekt som ingår i budgetramen. Nämnden blir
-inom nämndens budgetram. Nämnden kan även under kompenserad för de kapitalkostnader som investeringarna
-året besluta om en omdisponering mellan projektportföljer, orsakar.
+nästkommande års investeringsram och ombudgeteras
+inte. Nämnden beslutar om avslutade investeringsprojekt
+som går med över- eller underskott och hanterar detta
+inom nämndens budgetram. Nämnden kan även under
+året besluta om en omdisponering mellan projektportföljer,
 huvudprojektet eller projekten inom budgetramen.
-Lokalinvesteringar
 Nämnden kan inte omdisponera mellan de olika investe-
-ringskategorierna som fullmäktige har fastställt. Följande gäller för ny- till- och ombyggnation av lokaler.
-Det budgeterade beloppet tillhör kommunstyrelsen
-För lokalinvesteringar är det nämnden för Service som som kan justera mellan olika lokalobjekt under året.
-rapporterar till kommunstyrelsen. Det är nämnden för Byggprojekt i lokalplanen får startas upp om de understiger
-Service som utför lokalinvesteringarna på uppdrag av 25 miljoner kronor i investeringsbelopp. För projekt som
-kommunstyrelsen, som äger budgeten för lokalinvestering- överstiger 25 miljoner kronor eller är av särskild principiell
-arna. Överskott eller underskott för pågående men inte karaktär ska kommunstyrelsen besluta om uppstart.
+ringskategorierna som fullmäktige har fastställt.
+
+För lokalinvesteringar är det nämnden för Service som
+rapporterar till kommunstyrelsen. Det är nämnden för
+Service som utför lokalinvesteringarna på uppdrag av
+kommunstyrelsen, som äger budgeten för lokalinvestering-
+arna. Överskott eller underskott för pågående men inte
+
 30 Kommunbudget 2026 och plan 2027–2028
+
+avslutade lokalinvesteringar överförs och ombudgeteras till
+nästa eller kommande budgetår tills dess investeringen är
+genomförd och slutredovisats. Exploateringsprojekten kan
+inte ombudgeteras utan dem ska man förklara och hantera i
+prognoserna under verksamhetsåret.
+
+Investeringar delas in i olika kategorier:
+• Löpande investeringar
+• Övriga investeringar
+• Reinvesteringar
+• Lokalinvesteringar
+• Avgiftsfinansierad verksamhet
+• Exploateringar
+
+Löpande investeringar
+Löpande investeringar är sådant som regelbundet återkom-
+mer och som ligger på en någorlunda jämn nivå. Kapital-
+kostnader som orsakas av dessa investeringar tar nämnden
+inom ram. Kapitalkostnaderna består av avskrivningar
+och internränta. Avskrivningar kan man disponera för
+alternativa verksamhetskostnader om det finns utrymme i
+driftbudgeten och investeringsnivån över tid ligger på en
+lägre nivå än planen. Nämnden kan inte göra motsvarande
+omdisponering med internränta eftersom de endast är
+en intern post i budgeten som ska spegla kommunens
+upplåningskostnad. Man ombudgeterar inte löpande
+investeringar.
+
+Övriga investeringar
+Nämnderna får en budgetram för övriga investeringar.
+Nämnden beslutar om de projekt som ingår i budgetramen.
+Nämnden blir kompenserad för de kapitalkostnader som
+investeringarna ger upphov till.
+
+Reinvesteringar
+Nämnderna får en budgetram för reinvesteringar.
+Nämnden beslutar om de projektportföljer, huvudprojekt
+eller projekt som ingår i budgetramen. Nämnden blir
+kompenserad för de kapitalkostnader som investeringarna
+orsakar.
+
+Lokalinvesteringar
+Följande gäller för ny- till- och ombyggnation av lokaler.
+Det budgeterade beloppet tillhör kommunstyrelsen
+som kan justera mellan olika lokalobjekt under året.
+Byggprojekt i lokalplanen får startas upp om de understiger
+25 miljoner kronor i investeringsbelopp. För projekt som
+överstiger 25 miljoner kronor eller är av särskild principiell
+karaktär ska kommunstyrelsen besluta om uppstart.
 
 <!-- sida 174 -->
 
-EKONOMISTYRPRINCIPER
-
-Motsvarande uppstartsbeslut krävs även för de hyresobjekt som vi bygger. Det innebär att det inte alltid blir 0,5
-som ligger i lokalplanen där hyran motsvarar en investering procent i konstgestaltning per lokal utan det kan variera
-av 25 miljoner kronor. Kapitalkostnaderna betalar Service mellan olika lokaler.
+Motsvarande uppstartsbeslut krävs även för de hyresobjekt
+som ligger i lokalplanen där hyran motsvarar en investering
+av 25 miljoner kronor. Kapitalkostnaderna betalar Service
 Fastigheter som tar ut detta i en hyra av hyresgästen.
-Nämnderna bekostar behovsanalyser inom sin driftsbud- Kommunen får ta ställning till konstgestaltning i varje
-get. Det är beställande nämnds driftsbudget som bekostar enskilt projekt när det gäller investeringar i infrastruktur
-investeringsprojekt som inte resulterar i en investering. som gator och vägar som en extern part betalar. Detsamma
-gäller i de fall kommunen hyr en lokal från en extern
-Hyresgästen betalar för verksamhetsanpassningar av fastighetsägare.
+Nämnderna bekostar behovsanalyser inom sin driftsbud-
+get. Det är beställande nämnds driftsbudget som bekostar
+investeringsprojekt som inte resulterar i en investering.
+
+Hyresgästen betalar för verksamhetsanpassningar av
 lokaler. Nämnderna får 80 procent av hyran, som orsakas
-Internränta
 av den nya lokalen, till sin budgetram. Detta gäller alla
-lokaler i lokalplanen. I samband med uppsägning av lokaler Nivån på den interna räntan följer Sveriges Kommuner och
-kan nämnden få behålla 20 procent av den budgeterade Regioners, SKR:s, rekommendationer med ett års för-
-avgående hyran. Det prövas i varje enskilt fall av kommun- skjutning om inte annat anges. Internräntan ligger kvar på
-styrelsen.                        samma nivå som år 2025 på 2,5 procent under planperioden
-för samtliga verksamheter.
-Avgiftsfinansierad verksamhet
+lokaler i lokalplanen. I samband med uppsägning av lokaler
+kan nämnden få behålla 20 procent av den budgeterade
+avgående hyran. Det prövas i varje enskilt fall av kommun-
+styrelsen.
+
 Avgiftsfinansierad verksamhet
 Investeringar inom den avgiftsfinansierade verksamheten
-finns redovisade under respektive kollektiv. Avgiftskol- Vatten & Avlopp, Avfall & Återvinning och Kungsbacka
-lektiven är avfall och återvinning, vatten och avlopp samt bredbandsnät får inga skattemedel utan driver sin verk-
-bredband. Kostnaderna för dessa investeringar täcks av samhet på avgifter som de tar ut. Kommunfullmäktige
-deras respektive intäkter och belastar inte skattekollektivet. fastställer taxan och nämnden för Teknik ska utifrån taxan
-besluta om budget för verksamhetsåret.
+finns redovisade under respektive kollektiv. Avgiftskol-
+lektiven är avfall och återvinning, vatten och avlopp samt
+bredband. Kostnaderna för dessa investeringar täcks av
+deras respektive intäkter och belastar inte skattekollektivet.
+
 Exploateringar
-Vatten & Avlopp (VA)
 Inom ett exploateringsområde finns det investeringar som
-förblir kommunala, exempelvis gator och vägar. Nämnden Tillfälliga över- eller underskott ska vi i princip jämna
-får kompensation för de kapitalkostnaderna. Exploate- ut inom en tidsperiod om tre till tio år. Vid väsentliga
-ringsprojekten ombudgeteras inte utan dem förklarar och överskott som inte kan jämnas ut inom denna tid blir
-hanterar man i prognoserna jämfört med budget under VA-huvudmannen återbetalningsskyldig. En något längre
-innevarande verksamhetsår.        tidsperiod för att justera under- och överskott kan accep-
-teras om VA-huvudmannen har en upprättad plan för hur
+förblir kommunala, exempelvis gator och vägar. Nämnden
+får kompensation för de kapitalkostnaderna. Exploate-
+ringsprojekten ombudgeteras inte utan dem förklarar och
+hanterar man i prognoserna jämfört med budget under
+innevarande verksamhetsår.
+
 Finansiell leasing
-utjämningen ska genomföras.
 Kommunen är restriktiv med leasing i enlighet med
-finansiella styrande dokument. Ur ett redovisningsper- Om verksamheten går med underskott under en längre
-spektiv kan ett hyresavtal eller leasingavtal klassificeras tid, anses verksamheten delvis skattefinansierad. Det
-som finansiell leasing, vilket innebär att det redovisas som innebär att även kommuninvånare som inte är anslutna
-en investering. När det gäller finansiell leasing av lokaler till den allmänna VA-anläggningen är med och betalar
-ingår de i lokalplanen.           del av VA-avgifterna. Skattefinansieringen får gå till att
-täcka kostnader som hela VA-kollektivet annars hade fått
+finansiella styrande dokument. Ur ett redovisningsper-
+spektiv kan ett hyresavtal eller leasingavtal klassificeras
+som finansiell leasing, vilket innebär att det redovisas som
+en investering. När det gäller finansiell leasing av lokaler
+ingår de i lokalplanen.
+
 Konstgestaltning
-bära och inte för att täcka kostnader som gynnar enskilda
-Kommunen avsätter från och med Kommunbudget 2026 fastigheter eller fastighetsgrupper.
+Kommunen avsätter från och med Kommunbudget 2026
 0,5 procent av byggnadernas byggutgift till konstgestalt-
-Avfall & Återvinning
 ning i samband med kommunens investering i nya lokaler.
-Med byggutgift menar vi den del av projektkostnaden som Tillfälliga över- eller underskott ska vi i princip jämna ut
-omfattar uppförande av en byggnad exklusive markförvärv, inom en tidsperiod på tre till 10 år.
+Med byggutgift menar vi den del av projektkostnaden som
+omfattar uppförande av en byggnad exklusive markförvärv,
 projektering, markarbeten, installationer och byggher-
-Kungsbacka bredband
 rekostnader. Nämnden för Kultur & Fritid ansvarar för
-beslut om och inköp av konstgestaltning. Nämnden kan Kungsbacka Bredbandsnät är ett öppet stadsnät. Det
-besluta att budgeten kan omfördelas mellan olika lokaler innebär att kommunen låter marknadens olika leverantörer
+beslut om och inköp av konstgestaltning. Nämnden kan
+besluta att budgeten kan omfördelas mellan olika lokaler
+
+EKONOMISTYRPRINCIPER
+
+som vi bygger. Det innebär att det inte alltid blir 0,5
+procent i konstgestaltning per lokal utan det kan variera
+mellan olika lokaler.
+
+Kommunen får ta ställning till konstgestaltning i varje
+enskilt projekt när det gäller investeringar i infrastruktur
+som gator och vägar som en extern part betalar. Detsamma
+gäller i de fall kommunen hyr en lokal från en extern
+fastighetsägare.
+
+Internränta
+Nivån på den interna räntan följer Sveriges Kommuner och
+Regioners, SKR:s, rekommendationer med ett års för-
+skjutning om inte annat anges. Internräntan ligger kvar på
+samma nivå som år 2025 på 2,5 procent under planperioden
+för samtliga verksamheter.
+
+Avgiftsfinansierad verksamhet
+Vatten & Avlopp, Avfall & Återvinning och Kungsbacka
+bredbandsnät får inga skattemedel utan driver sin verk-
+samhet på avgifter som de tar ut. Kommunfullmäktige
+fastställer taxan och nämnden för Teknik ska utifrån taxan
+besluta om budget för verksamhetsåret.
+
+Vatten & Avlopp (VA)
+Tillfälliga över- eller underskott ska vi i princip jämna
+ut inom en tidsperiod om tre till tio år. Vid väsentliga
+överskott som inte kan jämnas ut inom denna tid blir
+VA-huvudmannen återbetalningsskyldig. En något längre
+tidsperiod för att justera under- och överskott kan accep-
+teras om VA-huvudmannen har en upprättad plan för hur
+utjämningen ska genomföras.
+
+Om verksamheten går med underskott under en längre
+tid, anses verksamheten delvis skattefinansierad. Det
+innebär att även kommuninvånare som inte är anslutna
+till den allmänna VA-anläggningen är med och betalar
+del av VA-avgifterna. Skattefinansieringen får gå till att
+täcka kostnader som hela VA-kollektivet annars hade fått
+bära och inte för att täcka kostnader som gynnar enskilda
+fastigheter eller fastighetsgrupper.
+
+Avfall & Återvinning
+Tillfälliga över- eller underskott ska vi i princip jämna ut
+inom en tidsperiod på tre till 10 år.
+
+Kungsbacka bredband
+Kungsbacka Bredbandsnät är ett öppet stadsnät. Det
+innebär att kommunen låter marknadens olika leverantörer
+
 Kommunbudget 2026 och plan 2027–2028 31
 
 <!-- sida 175 -->
@@ -7274,46 +8739,81 @@ KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Ekonomiska              förutsättningar
 
-I följande avsnitt beskriver vi förutsättningarna för till historiska antal. Kungsbacka har haft en omfattande
-kommunens budget. Här redogör vi för befolkningsprog- tillväxt under många år med hög inflyttning och det finns
-nosen, vad kommunen kan räkna med för skatteintäkter i nuläget ingenting som tyder på att inflyttningen framåt i
-och generella statsbidrag under budgetåret och planperi- tiden skulle bli högre än tidigare, särskilt relaterat till den
-oden, hur löner och priser räknas upp, kompensationen sjunkande fruktsamheten i hela Sverige och globalt samt
-för volymförändringar, vilka särskilda satsningar som är att SCB även har justerat ner antagandet om invandring till
-planerade och hur budgeten kommer finansieras. Sverige. Men då osäkerheten i omvärlden är stor, arbetar
-kommunen utifrån scenarier, där det mest realistiska
+I följande avsnitt beskriver vi förutsättningarna för
+kommunens budget. Här redogör vi för befolkningsprog-
+nosen, vad kommunen kan räkna med för skatteintäkter
+och generella statsbidrag under budgetåret och planperi-
+oden, hur löner och priser räknas upp, kompensationen
+för volymförändringar, vilka särskilda satsningar som är
+planerade och hur budgeten kommer finansieras.
+
 Befolkningsprognos
-utfallet är att befolkningsutvecklingen hamnar i intervallet
-Hur antalet invånare och ålderssammansättningen mellan det högsta och det lägsta scenariot. De långsiktiga
-utvecklas påverkar skatteintäkter och kostnader för antagandena bör uppfattas som en genomsnittlig framtida
-förskola, skola, äldreomsorg och annan service. Befolk- nivå och inte som ett antagande om den mest sannolika
-ningsprognosen är därför ett viktigt underlag för planering nivån ett enskilt år.
+Hur antalet invånare och ålderssammansättningen
+utvecklas påverkar skatteintäkter och kostnader för
+förskola, skola, äldreomsorg och annan service. Befolk-
+ningsprognosen är därför ett viktigt underlag för planering
 och ekonomisk fördelning i kommunbudgeten. Under
-många år har Kungsbacka haft en befolkningstillväxt på Befolkningsprognosen visar på en fortsatt folkökning,
-nära 1 000 nya invånare varje år. De senaste årens händel- men på lägre nivå jämfört fjolårets prognos. Fram till
-ser – från flyktingvågen 2015 till pandemin och kriget i 2029 väntas befolkningen öka med 892 invånare, vilket
-Ukraina – visar hur snabbt demografiska förutsättningar innebär en genomsnittlig ökning med 0,21 procent per år.
-kan förändras. Det ekonomiska läget med hög inflation Mellan åren 2029 till 2034 väntas befolkningen öka med
-och högre räntor har tydligt dämpat bostadsmarknaden. 3103 invånare, en genomsnittlig årlig ökning med 0,71
-Lågkonjunkturen har hållit i sig längre än nationella procent. På fem års sikt väntas de yngre åldersgrupperna
-bedömare hade trott och osäkerheten i omvärlden är stor. fortsatt minska, relaterat till både framflyttad byggnation
-Statistikmyndigheten SCB har de senaste åren sänkt och lägre fruktsamhetstal. Därefter väntas åldersgruppen
-sina prognoser för både barnafödande och migration öka något, relaterat till att det planeras fler bostäder samt
-och befolkningsprognoser över hela Sverige har justerats att fruktsamheten väntas vända uppåt igen enligt SCB:s
-ned. Födelsetalen går ner i landet generellt, och även i riksprognos.
+många år har Kungsbacka haft en befolkningstillväxt på
+nära 1 000 nya invånare varje år. De senaste årens händel-
+ser – från flyktingvågen 2015 till pandemin och kriget i
+Ukraina – visar hur snabbt demografiska förutsättningar
+kan förändras. Det ekonomiska läget med hög inflation
+och högre räntor har tydligt dämpat bostadsmarknaden.
+Lågkonjunkturen har hållit i sig längre än nationella
+bedömare hade trott och osäkerheten i omvärlden är stor.
+Statistikmyndigheten SCB har de senaste åren sänkt
+sina prognoser för både barnafödande och migration
+och befolkningsprognoser över hela Sverige har justerats
+ned. Födelsetalen går ner i landet generellt, och även i
 Kungsbacka märker vi att det inte längre föds lika många
-barn som tidigare. Mycket tyder på att Sverige går mot en Under perioden 2025–2028 väntas antalet barn mellan
-period med lägre befolkningsökningar än vi vant oss vid de 0–12 år minska med 453 personer, varav barnen mellan 1–5
-senaste tjugo åren.                år minskar med 187 personer. Antalet tonåringar mellan
-13–15 år minskar med 256 personer, medan gruppen 16–19
-Befolkningsprognosen baseras på prognoser för bostads- år minskar med 68 personer. Vuxna i åldersgruppen 20–64
-byggandet i Kungsbacka, där läget på bostadsmarknaden år väntas minska med 25 personer. Antalet äldre mellan
-påverkar byggandet. Flera byggplaner har flyttats fram i 65–79 år ökar med 97 personer. Åldersgruppen över 80 år
-tiden vilken påverkar flyttningar inom och till kommunen. ökar med 891 personer, varav 85+ ökar med 595 personer.
+barn som tidigare. Mycket tyder på att Sverige går mot en
+period med lägre befolkningsökningar än vi vant oss vid de
+senaste tjugo åren.
+
+Befolkningsprognosen baseras på prognoser för bostads-
+byggandet i Kungsbacka, där läget på bostadsmarknaden
+påverkar byggandet. Flera byggplaner har flyttats fram i
+tiden vilken påverkar flyttningar inom och till kommunen.
 Inflyttningen påverkas dock av andra faktorer än enbart
 färdigställda bostäder, där inflyttningen tenderar att
 överskattas i prognosen. Inflyttningen har därför justerats
 ner för att göra prognosen mer träffsäker och anpassas
+
+till historiska antal. Kungsbacka har haft en omfattande
+tillväxt under många år med hög inflyttning och det finns
+i nuläget ingenting som tyder på att inflyttningen framåt i
+tiden skulle bli högre än tidigare, särskilt relaterat till den
+sjunkande fruktsamheten i hela Sverige och globalt samt
+att SCB även har justerat ner antagandet om invandring till
+Sverige. Men då osäkerheten i omvärlden är stor, arbetar
+kommunen utifrån scenarier, där det mest realistiska
+utfallet är att befolkningsutvecklingen hamnar i intervallet
+mellan det högsta och det lägsta scenariot. De långsiktiga
+antagandena bör uppfattas som en genomsnittlig framtida
+nivå och inte som ett antagande om den mest sannolika
+nivån ett enskilt år.
+
+Befolkningsprognosen visar på en fortsatt folkökning,
+men på lägre nivå jämfört fjolårets prognos. Fram till
+2029 väntas befolkningen öka med 892 invånare, vilket
+innebär en genomsnittlig ökning med 0,21 procent per år.
+Mellan åren 2029 till 2034 väntas befolkningen öka med
+3103 invånare, en genomsnittlig årlig ökning med 0,71
+procent. På fem års sikt väntas de yngre åldersgrupperna
+fortsatt minska, relaterat till både framflyttad byggnation
+och lägre fruktsamhetstal. Därefter väntas åldersgruppen
+öka något, relaterat till att det planeras fler bostäder samt
+att fruktsamheten väntas vända uppåt igen enligt SCB:s
+riksprognos.
+
+Under perioden 2025–2028 väntas antalet barn mellan
+0–12 år minska med 453 personer, varav barnen mellan 1–5
+år minskar med 187 personer. Antalet tonåringar mellan
+13–15 år minskar med 256 personer, medan gruppen 16–19
+år minskar med 68 personer. Vuxna i åldersgruppen 20–64
+år väntas minska med 25 personer. Antalet äldre mellan
+65–79 år ökar med 97 personer. Åldersgruppen över 80 år
+ökar med 891 personer, varav 85+ ökar med 595 personer.
 
 34 Kommunbudget 2026 och plan 2027–2028
 
@@ -7323,20 +8823,20 @@ KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Befolkningsprognos 2023–2033
 
-Ålder  2024 2025  2026 2027  2028 2029 2030  2031 2032  2033 2034
-0     734   717  724   714  721   734  757   787  809   834  842
-1-5  4 656 4 567 4 495 4 402 4 380 4 405 4 456 4 557 4 636 4 741 4 839
+Ålder 2024  2025 2026  2027 2028 2029  2030  2031 2032 2033  2034
+0     734  717   724  714   721  734   757  787  809   834  842
+1-5   4 656 4 567 4 495 4 402 4 380 4 405 4 456 4 557 4 636 4 741 4 839
 6-12  7 895 7 819 7 734 7 654 7 549 7 395 7 360 7 301 7 236 7 234 7 204
 13-15 3 837 3 762 3 616 3 576 3 506 3 550 3 482 3 480 3 439 3 420 3 411
-16-19  5 011 4 996 4 973 4 952 4 928 4 800 4 736 4 691 4 679 4 650 4 610
+16-19 5 011 4 996 4 973 4 952 4 928 4 800 4 736 4 691 4 679 4 650 4 610
+
 20-64 45 527 45 891 45 913 45 917 45 866 45 938 46 210 46 590 46 618 46 781 46 890
 65-69 4 305 4 359 4 455 4 532 4 747 4 963 5 246 5 442 5 707 5 760 5 740
-
 70-74 3 820 3 814 3 883 3 984 3 985 4 096 4 154 4 258 4 338 4 540 4 738
 75-79 4 223 4 125 3 923 3 776 3 663 3 600 3 607 3 687 3 789 3 804 3 909
-80-84 3 238 3 424 3 605 3 664 3 721 3 628 3 560 3 411 3 306 3 233 3 194
-85-89  1 708 1 830 1 905 2 037 2 200 2 386 2 525 2 663 2 712 2 765 2 711
-90-   838   880  961  1 040 1 104 1 191 1 266 1 340 1 446 1 559 1 697
+80-84  3 238 3 424 3 605 3 664 3 721 3 628 3 560 3 411 3 306 3 233 3 194
+85-89 1 708 1 830 1 905 2 037 2 200 2 386 2 525 2 663 2 712 2 765 2 711
+90-    838  880   961 1 040 1 104 1 191 1 266 1 340 1 446 1 559 1 697
 Summa 85 792 86 183 86 187 86 248 86 369 86 684 87 358 88 206 88 715 89 323 89 787
 
 Skatter och generella statsbidrag
@@ -7344,35 +8844,41 @@ verksamhet, inte frivillig. Inkomstutjämningen räknas ut
 efter skattekraft, och är statligt finansierad till 95 procent.
 Belopp i miljoner Budget Budget Plan Plan
 De femton kommunerna med högst skattekraft betalar en
-kronor       2025 2026 2027 2028
+kronor      2025 2026 2027  2028
 avgift. Resterande 275 kommuner får ett bidrag. Kungs-
 Skatteintäkter 6 128 6 362 6 650 6 936
 backa ligger i nuläget över 115 procent och i tabellen ovan
 Inkomstutjämning -119 -161 -156 -168
 syns den beräknade nivån samt de kostnader vi får betala
-
-```osaker-tabell
-Kostnadsutjämning 17 13  11  29   respektive år i inkomstutjämningen.
+Kostnadsutjämning 17 13 11   29  respektive år i inkomstutjämningen.
 Regleringspost 206 200  151  117
-LSS-utjämning -12  -21  -21  -21  Skattesatsen som används i inkomstutjämningen är i
-```
 
+LSS-utjämning -12  -21  -21  -21  Skattesatsen som används i inkomstutjämningen är i
 Fastighetsavgift 220 226 226 226  grunden lika i alla kommuner, men man har också tagit
 hänsyn till skillnader i uppdragets omfattning genom
 Inkomstutjämning, 117,8 118,7 118,7 118,5
 andel av rikets                   historiska skatteväxlingar. Alla kommuner i ett län har
 skatte kraft (%)                  samma länsvisa skattesats. En enskild kommuns skattesats
 Summa intäkter 6 439 6 619 6 861 7 120 påverkar inte avgiften eller bidraget från inkomstutjäm-
-ningen. Vid en skattehöjning tillfaller hela skattehöjningen
-Vid uppskattning av vad skatteintäkterna kommer bli därför kommunen. Kostnadsutjämningen är till för
-under planperioden har vi utgått ifrån Sveriges Kommu- strukturella behov. Den är mellankommunal och utjämnar
-ners och Regioners, SKR:s, bedömning i Cirkulär 25:21. för skillnader i behov som kan bero på demografi, geografi
-Kommunen får också olika statsbidrag. De generella eller socioekonomiska förutsättningar. Under perioden
-statsbidragen kommer ifrån utjämningssystemet. Systemet 2026–2028 tar Kungsbacka emot medel i kostnadsutjäm-
-syftar till att skapa likvärdiga ekonomiska förutsättningar ning.
+
+Vid uppskattning av vad skatteintäkterna kommer bli
+under planperioden har vi utgått ifrån Sveriges Kommu-
+ners och Regioners, SKR:s, bedömning i Cirkulär 25:21.
+Kommunen får också olika statsbidrag. De generella
+statsbidragen kommer ifrån utjämningssystemet. Systemet
+syftar till att skapa likvärdiga ekonomiska förutsättningar
 för alla kommuner och regioner att tillhandahålla
 service oberoende av skattekraft och kostnader som inte
 går att påverka. Utjämningssystemet gäller lagstadgad
+
+ningen. Vid en skattehöjning tillfaller hela skattehöjningen
+därför kommunen. Kostnadsutjämningen är till för
+strukturella behov. Den är mellankommunal och utjämnar
+för skillnader i behov som kan bero på demografi, geografi
+eller socioekonomiska förutsättningar. Under perioden
+2026–2028 tar Kungsbacka emot medel i kostnadsutjäm-
+ning.
+
 Kommunbudget 2026 och plan 2027–2028 35
 
 <!-- sida 179 -->
@@ -7380,46 +8886,74 @@ Kommunbudget 2026 och plan 2027–2028 35
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Resultat
-Generell uppräkning
 Kungsbacka är en kommun med behov av reinvesteringar
-för att ta hand om kommunens befintliga anläggningar. Alla nämnder får en uppräkning för löner och priser 2026
-Kommunen planerar även för nya investeringar i utbild- och 2027 med 3,1 procent på föregående års budgetsumma.
-ningslokaler, boenden och övrig infrastruktur. I budgeten Detta skall täcka alla kostnadsökningar för löner, varor
-föreslår vi investeringar på höga nivåer. Kommunen måste och köpta tjänster. Personalomkostnadspålägget följer
-därför budgetera för ett starkt resultat för att finansiera rekommenderad nivå enligt Sveriges Kommuner och
-delar av de stora investeringsvolymerna. Regioner, SKR, och regleras slutligt när nivån är fastställd.
-Internräntan är beräknad till 2,5 procent. I nämndernas
+för att ta hand om kommunens befintliga anläggningar.
+Kommunen planerar även för nya investeringar i utbild-
+ningslokaler, boenden och övrig infrastruktur. I budgeten
+föreslår vi investeringar på höga nivåer. Kommunen måste
+därför budgetera för ett starkt resultat för att finansiera
+delar av de stora investeringsvolymerna.
+
 Intäkter och kostnader som
-budgetramar ingår beräkningarna utifrån dessa nivåer
 påverkar resultatet
-Volymuppräkning
 I budgeterat resultat ingår inte kostnader eller reavinster
-vid markförsäljningar, inte heller eventuella exploaterings- Kommunen beräknar volymerna med en prislapp per ny
-ersättningar eller parkeringsavlösen. Eventuella intäkter invånare i respektive åldersklass. Prislappen kommer från
-för exploateringsersättningar och parkeringsavlösen den offentliga statistiken som kommunerna redovisar i
-kommer att påverka resultatet det år som gatan eller samband med räkenskapssammandraget. Den offentliga
-parkeringshuset är klart. Reavinster, exploaterings- statistiken samlas i en kommungemensam databas, Kolada.
-ersättning och parkeringsavlösen budgeterar vi däremot i Volymberäkningarna utgår från befolkningsförändring
-kassaflödesanalysen.              av antal invånare inom olika målgrupper. Befolknings-
-prognosen som ingår i kommunbudgeten är framtagen
+vid markförsäljningar, inte heller eventuella exploaterings-
+ersättningar eller parkeringsavlösen. Eventuella intäkter
+för exploateringsersättningar och parkeringsavlösen
+kommer att påverka resultatet det år som gatan eller
+parkeringshuset är klart. Reavinster, exploaterings-
+ersättning och parkeringsavlösen budgeterar vi däremot i
+kassaflödesanalysen.
+
 Driftramar
+Ramar är det belopp som fullmäktige tilldelar varje nämnd
+att använda för att bedriva verksamhet som ligger inom
+respektive nämnds ansvarsområde. Hur stort utrymme
+som fullmäktige kan avsätta till ramar bestäms av hur
+stora skatteintäkterna och de generella statsbidragen är
+samt hur stort resultat vi behöver ha. Om vi inte vill låna
+till alla investeringar som vi planerar är resultatets storlek
+viktigt. Ramtilldelningen är uppbyggd så att alla har fått
+en generell uppräkning. Därefter har några nämnder fått
+volymtilldelning och några har fått en speciell tilldelning
+som vi redovisar nedan.
+
+36 Kommunbudget 2026 och plan 2027–2028
+
+Generell uppräkning
+Alla nämnder får en uppräkning för löner och priser 2026
+och 2027 med 3,1 procent på föregående års budgetsumma.
+Detta skall täcka alla kostnadsökningar för löner, varor
+och köpta tjänster. Personalomkostnadspålägget följer
+rekommenderad nivå enligt Sveriges Kommuner och
+Regioner, SKR, och regleras slutligt när nivån är fastställd.
+Internräntan är beräknad till 2,5 procent. I nämndernas
+budgetramar ingår beräkningarna utifrån dessa nivåer
+
+Volymuppräkning
+Kommunen beräknar volymerna med en prislapp per ny
+invånare i respektive åldersklass. Prislappen kommer från
+den offentliga statistiken som kommunerna redovisar i
+samband med räkenskapssammandraget. Den offentliga
+statistiken samlas i en kommungemensam databas, Kolada.
+Volymberäkningarna utgår från befolkningsförändring
+av antal invånare inom olika målgrupper. Befolknings-
+prognosen som ingår i kommunbudgeten är framtagen
 i april 2025 och ligger till grund för beräkningarna. En
-Ramar är det belopp som fullmäktige tilldelar varje nämnd målgrupp består exempelvis av antal barn inom respektive
-att använda för att bedriva verksamhet som ligger inom åldersgrupp inom förskolan och grundskolan och andel
-respektive nämnds ansvarsområde. Hur stort utrymme elever inom gymnasiet 16–19 år. För de äldre åldrarna
-som fullmäktige kan avsätta till ramar bestäms av hur är indelningen antal invånare över 65 år med fyra olika
-stora skatteintäkterna och de generella statsbidragen är åldersintervall. För skolverksamheterna är beräkningarna
-samt hur stort resultat vi behöver ha. Om vi inte vill låna gjorda med hänsyn till att skolåret inte följer kalenderåret.
-till alla investeringar som vi planerar är resultatets storlek Priset är rensat för hyreskostnader eftersom man budge-
-viktigt. Ramtilldelningen är uppbyggd så att alla har fått terar det separat. Kommunen budgeterar ersättning för
-en generell uppräkning. Därefter har några nämnder fått nya hyror centralt och de tillkommer som ett tillägg till
-volymtilldelning och några har fått en speciell tilldelning nämndernas ramar. Tillägget är 80 procent av hyran vid
-som vi redovisar nedan.           tillträde till den nya lokalen. I samband med uppsägning
+målgrupp består exempelvis av antal barn inom respektive
+åldersgrupp inom förskolan och grundskolan och andel
+elever inom gymnasiet 16–19 år. För de äldre åldrarna
+är indelningen antal invånare över 65 år med fyra olika
+åldersintervall. För skolverksamheterna är beräkningarna
+gjorda med hänsyn till att skolåret inte följer kalenderåret.
+Priset är rensat för hyreskostnader eftersom man budge-
+terar det separat. Kommunen budgeterar ersättning för
+nya hyror centralt och de tillkommer som ett tillägg till
+nämndernas ramar. Tillägget är 80 procent av hyran vid
+tillträde till den nya lokalen. I samband med uppsägning
 av lokaler kan nämnden få behålla 20 procent av den
 budgeterade avgående hyran. Det prövas i varje enskilt fall
 av kommunstyrelsen.
-
-36 Kommunbudget 2026 och plan 2027–2028
 
 <!-- sida 180 -->
 
@@ -8005,113 +9539,187 @@ INVESTERING OCH EXPLOATERING
 
 Lokaler        och     boenden
 
-Kungsbacka kommun är en attraktiv kommun, geo- egna lokaler och genom inhyrda lokaler. I genomförande-
-grafiskt placerad i en av Sveriges starkaste tillväxt- och fasen utför vi lokalprojekt för att omsätta behov till färdig
-arbetsmarknadsregioner. Antalet invånare förändras lokal.
+Kungsbacka kommun är en attraktiv kommun, geo-
+grafiskt placerad i en av Sveriges starkaste tillväxt- och
+arbetsmarknadsregioner. Antalet invånare förändras
 årligen och kommunen behöver anpassa sina lokaler för
-att möta behovet utifrån befolkningsförändringarna. Det övergripande målet med lokalförsörjningen är att nå
-en god ekonomisk hushållning med lokaler och service och
-Kommunen har en omfattande verksamhet som vi därmed kunna frigöra resurser till kommunens kärn-
-bedriver i olika lokaler. Dessutom förmedlar kommunen verksamheter. Det leder i förlängningen till ett effektivt
-olika slags boenden för grupper i samhället som har svårt lokalutnyttjande och lägre kostnader totalt sett för hela
-att få bostad på vanligt sätt eller fått biståndsbeslut. Det kommunen.
+att möta behovet utifrån befolkningsförändringarna.
+
+Kommunen har en omfattande verksamhet som vi
+bedriver i olika lokaler. Dessutom förmedlar kommunen
+olika slags boenden för grupper i samhället som har svårt
+att få bostad på vanligt sätt eller fått biståndsbeslut. Det
 kan handla om boenden för äldre, personer med funk-
-tionsnedsättning, nyanlända samt socialt utsatta personer. Handläggningen av lokalbehoven behöver ske enligt
-Kommunen både äger och hyr in lokaler och boenden. nedanstående principer:
+tionsnedsättning, nyanlända samt socialt utsatta personer.
+Kommunen både äger och hyr in lokaler och boenden.
 
-Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lokalbehoven enligt lokalförsörj-
-"Kommunen ska genom aktiv lokalförsörjning tillhanda- ningsprocessens olika steg för effektiv hantering.
-hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings-
-lokaler över tiden".                principen1 i fallande ordning:
+Kommunfullmäktige har antagit följande lokalpolicy:
+"Kommunen ska genom aktiv lokalförsörjning tillhanda-
+hålla och bibehålla ändamålsenliga och kostnadseffektiva
+lokaler över tiden".
 
-• Lokalbehov som inte är lagstyrd verksamhet
 Varje år beslutar nämnderna om hur de bedömer
-och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
-höjningar i befintliga lokaler har lägst prio-
-på befolkningsprognoser och lokalprognoser. Det är ritet.
+på befolkningsprognoser och lokalprognoser. Det är
 kommunens lokalstyrgrupp som sammanställer behoven
-• Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
-medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-• Lokalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av kom-
-lingar och som ger minskade driftskostnader
 munens flerårsbudget. Det är kommunfullmäktige som
-samt lokalbehov på grund av volymutök-
-beslutar om lokalplanen.                 ningar inom befintliga områden har högst
-prioritet.
+beslutar om lokalplanen.
+
 Lokalförsörjningsprocessen
-Vi handlägger samtliga lokalbehov enligt den så kallade 1 Modellen är antagen av nämnden för Service 2015-06-07
-(Dnr SE/2015:82).
+Vi handlägger samtliga lokalbehov enligt den så kallade
 lokalförsörjningsprocessen som inleds med en lokalplane-
 ringsfas. Det gör vi för en enhetlig och tydlig hantering.
 Handläggningen av lokalbehov ska vara gemensam
 för kommunens samtliga nämnder och vi ska använda
 processen för behov som innebär behov av investeringar i
+
+egna lokaler och genom inhyrda lokaler. I genomförande-
+fasen utför vi lokalprojekt för att omsätta behov till färdig
+lokal.
+
+Det övergripande målet med lokalförsörjningen är att nå
+en god ekonomisk hushållning med lokaler och service och
+därmed kunna frigöra resurser till kommunens kärn-
+verksamheter. Det leder i förlängningen till ett effektivt
+lokalutnyttjande och lägre kostnader totalt sett för hela
+kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt
+nedanstående principer:
+
+• Vi ska omhänderta lokalbehoven enligt lokalförsörj-
+ningsprocessens olika steg för effektiv hantering.
+• Vi ska prioritera utifrån den så kallade Prioriterings-
+principen1 i fallande ordning:
+
+• Lokalbehov som inte är lagstyrd verksamhet
+och lokalbehov som utgörs av kvalitets-
+höjningar i befintliga lokaler har lägst prio-
+ritet.
+• Lokalbehov på grund av ny exploatering har
+medel prioritet.
+• Lokalbehov som beror på strukturomvand-
+lingar och som ger minskade driftskostnader
+samt lokalbehov på grund av volymutök-
+ningar inom befintliga områden har högst
+prioritet.
+1 Modellen är antagen av nämnden för Service 2015-06-07
+(Dnr SE/2015:82).
+
 Lokalplanering        Genomförande
+
 Behov     Insamling Förstudie Projektering Genomför- Avslut
-& utredning                    ande
+& utredning                     ande
 Behovsfas
+
 Kommunbudget 2026 och plan 2027–2028 47
 
 <!-- sida 191 -->
 
 INVESTERING OCH EXPLOATERING
 
-• Vi ska välja lokallösningar utifrån lokaleffektivitet Investeringsbudget och hyresmedel för lokaler och
-enligt den så kallade Fyrstegsmodellen. Modellen boenden tillhör kommunstyrelsen och kommunstyrelsen
-innebär att vi ska välja och överväga lokallösningar kan justera mellan olika lokalprojekt under året.
+• Vi ska välja lokallösningar utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att vi ska välja och överväga lokallösningar
 enligt följande prioriteringsordning:
-1\. Inte tillgodose behovet alls Behov som vi ska lösa genom investering enligt lokal-
-2\. Leda om ”strömmar” av elever, boende till ledig planen får vi starta upp om de understiger 25 miljoner
-kapacitet i befintliga lokaler kronor i investeringsbelopp. För behov som överstiger 25
-3\. Bygga om eller till befintliga lokaler miljoner kronor eller är av särskild principiell karaktär ska
-4\. Bygga nya lokaler            kommunstyrelsen besluta om igångsättning. Motsvarande
-• Vi ska föreslå och välja lokallösningar utifrån att igångsättningsbeslut krävs för de behov som ska lösas
-”Minska behovet av att bygga nytt genom att sam- genom inhyrning enligt lokalplanen där hyran motsvarar
-utnyttja och bygga mer flexibelt” vilket innebär att en investering av 25 miljoner kronor.
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
+4\. Bygga nya lokaler
+• Vi ska föreslå och välja lokallösningar utifrån att
+”Minska behovet av att bygga nytt genom att sam-
+utnyttja och bygga mer flexibelt” vilket innebär att
 lokaler eller lokaldelar så långt det är möjligt planeras
-för att kunna samnyttjas och användas för flera Nämnden för Service betalar kapitalkostnaden och tar ut
-ändamål.                        detta som en hyra av hyresgästen. Behovsanalyserna bekos-
-• Vi ska genomföra investeringar i egenägda lokaler om tar nämnderna inom sin driftsbudget. Investeringsprojekt
-verksamheten har ett långsiktigt lokalbehov. som inte resulterar i en investering går på den beställande
-• Vi ska pröva inhyrning som ett alternativ till att äga nämndens driftsbudget.
+för att kunna samnyttjas och användas för flera
+ändamål.
+• Vi ska genomföra investeringar i egenägda lokaler om
+verksamheten har ett långsiktigt lokalbehov.
+• Vi ska pröva inhyrning som ett alternativ till att äga
 fastigheter. Vi ska välja det om det råder osäkerhet om
-Konstgestaltning
 verksamhetens framtida innehåll och eller omfattning.
-Vi ska också ta hänsyn till hur lång tid behovet finns I samband med kommunens investering i nya lokaler
-eller om vi saknar investeringsmedel för egna investe- avsätter vi 0,5 procent av byggnadens byggutgift till
-ringar.                         konstnärlig utsmyckning. Med byggutgift menar vi den
-• Vi ska arbeta med lokalförsörjning genom ett tätt del av projektkostnaden som omfattar uppförande av en
-samarbete med berörda förvaltningar. byggnad exklusive markförvärv, projektering, markarbe-
-ten, installationer och byggherrekostnader. Nämnden för
+Vi ska också ta hänsyn till hur lång tid behovet finns
+eller om vi saknar investeringsmedel för egna investe-
+ringar.
+• Vi ska arbeta med lokalförsörjning genom ett tätt
+samarbete med berörda förvaltningar.
+
 Lokalbehov 2026–2030
-Kultur & Fritid får ansvaret att upphandla och besluta om
-Nämnderna i Kungsbacka kommun har lämnat in bostads- den konstnärliga utsmyckningen. Kommunen avsätter ett
-och lokalbehov för perioden 2026–2030 med utblicksår särskilt belopp som kan fördelas olika mellan de lokaler
-2031–2035. Nämndernas beslutade behov uttrycks i volym- som byggs. Det innebär att det inte alltid blir 0,5 procent
-mått, till exempel antal platser, antal elever eller antal i konstnärlig utsmyckning per lokal utan det kan variera
-förskolebarn. Lokalstyrgruppen bearbetar och bedömer mellan olika lokaler men det blir alltid max 0,5 procent
-kostnader utifrån nyckeltal framtagna av förvaltningen för totalt per år. Detta gäller bara byggnaderna. Vid investe-
-Service med hänsyn till investeringsutgifter och driftskost- ringar i infrastruktur som till exempel gator och vägar så
-nader. Vi tar fram lokalplanen utifrån ett planerings- och tar vi ställning till konstnärlig utsmyckning i varje enskilt
-genomförandeperspektiv samt med utgångspunkt i ovan projekt. Detsamma gäller i de fall kommunen hyr in lokal
-nämnda principer.                 från externa fastighetsägare.
-Hållbarhet & återbruk
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2026–2030 med utblicksår
+2031–2035. Nämndernas beslutade behov uttrycks i volym-
+mått, till exempel antal platser, antal elever eller antal
+förskolebarn. Lokalstyrgruppen bearbetar och bedömer
+kostnader utifrån nyckeltal framtagna av förvaltningen för
+Service med hänsyn till investeringsutgifter och driftskost-
+nader. Vi tar fram lokalplanen utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 Vi budgeterar nya hyror för lokalinvesteringar och inhyrda
-boenden centralt och nämnden får en ram motsvarande 80 I lokalplanen avsätter vi även budget för inventarier (lös
-procent av hyran när lokalen är klar att börjar användas. inredning och utrustning). Det kan till exempel vara
-Resterande 20 procent finansierar vi inom respektive budget för möbler, växter och AV-utrustning (audiovisuell)
-nämnds ram. Nämnderna får ingen ramtilldelning för de förändrade lokalbehoven. Kommunfullmäktiges
-för verksamhetsanpassning av lokaler. I samband med mål om En hållbar utveckling och en hälsosam miljö anger
-uppsägning av lokaler kan nämnden få behålla 20 procent att Kungsbacka ska verka för ett fossilfritt och cirkulärt
-av den budgeterade avgående hyran. Det prövas i varje samhälle. Detta avspeglas genom ökat fokus på återbruk av
-enskilt fall av kommunstyrelsen.  inventarier. Det innebär att budgeten för nyinvesteringar
+boenden centralt och nämnden får en ram motsvarande 80
+procent av hyran när lokalen är klar att börjar användas.
+Resterande 20 procent finansierar vi inom respektive
+nämnds ram. Nämnderna får ingen ramtilldelning
+för verksamhetsanpassning av lokaler. I samband med
+uppsägning av lokaler kan nämnden få behålla 20 procent
+av den budgeterade avgående hyran. Det prövas i varje
+enskilt fall av kommunstyrelsen.
+
+48 Kommunbudget 2026 och plan 2027–2028
+
+Investeringsbudget och hyresmedel för lokaler och
+boenden tillhör kommunstyrelsen och kommunstyrelsen
+kan justera mellan olika lokalprojekt under året.
+
+Behov som vi ska lösa genom investering enligt lokal-
+planen får vi starta upp om de understiger 25 miljoner
+kronor i investeringsbelopp. För behov som överstiger 25
+miljoner kronor eller är av särskild principiell karaktär ska
+kommunstyrelsen besluta om igångsättning. Motsvarande
+igångsättningsbeslut krävs för de behov som ska lösas
+genom inhyrning enligt lokalplanen där hyran motsvarar
+en investering av 25 miljoner kronor.
+
+Nämnden för Service betalar kapitalkostnaden och tar ut
+detta som en hyra av hyresgästen. Behovsanalyserna bekos-
+tar nämnderna inom sin driftsbudget. Investeringsprojekt
+som inte resulterar i en investering går på den beställande
+nämndens driftsbudget.
+
+Konstgestaltning
+I samband med kommunens investering i nya lokaler
+avsätter vi 0,5 procent av byggnadens byggutgift till
+konstnärlig utsmyckning. Med byggutgift menar vi den
+del av projektkostnaden som omfattar uppförande av en
+byggnad exklusive markförvärv, projektering, markarbe-
+ten, installationer och byggherrekostnader. Nämnden för
+Kultur & Fritid får ansvaret att upphandla och besluta om
+den konstnärliga utsmyckningen. Kommunen avsätter ett
+särskilt belopp som kan fördelas olika mellan de lokaler
+som byggs. Det innebär att det inte alltid blir 0,5 procent
+i konstnärlig utsmyckning per lokal utan det kan variera
+mellan olika lokaler men det blir alltid max 0,5 procent
+totalt per år. Detta gäller bara byggnaderna. Vid investe-
+ringar i infrastruktur som till exempel gator och vägar så
+tar vi ställning till konstnärlig utsmyckning i varje enskilt
+projekt. Detsamma gäller i de fall kommunen hyr in lokal
+från externa fastighetsägare.
+
+Hållbarhet & återbruk
+I lokalplanen avsätter vi även budget för inventarier (lös
+inredning och utrustning). Det kan till exempel vara
+budget för möbler, växter och AV-utrustning (audiovisuell)
+för de förändrade lokalbehoven. Kommunfullmäktiges
+mål om En hållbar utveckling och en hälsosam miljö anger
+att Kungsbacka ska verka för ett fossilfritt och cirkulärt
+samhälle. Detta avspeglas genom ökat fokus på återbruk av
+inventarier. Det innebär att budgeten för nyinvesteringar
 minskar eftersom samtliga nämnder förväntas bidra till att
 återbruka inventarier som redan finns i kommunen.
-48 Kommunbudget 2026 och plan 2027–2028
 
 <!-- sida 192 -->
 
@@ -8151,12 +9759,13 @@ miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-91       761       663      442       568
+
+91       761       663       442       568
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-18       24        58        57        36
+18        24        58       57        36
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -8166,19 +9775,24 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 
 Lokaltyp och beskrivning       2026 2027 2028 2029 2030
 140 Onsala fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-145 Enkel isyta för träning (ishall)                  x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+
+145 Enkel isyta för träning (ishall)                 x
+147 Evakuering klubbstugor Inlag  x
+
+Noter
+140 Onsala fullmåttshall
+Ny fullmåttsidrottshall som fyller både skolverksamhetens
+och föreningslivets behov.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
 
 145 Enkel isyta för träning
-Noter
 Träningsishall som är något mindre än publika arenor.
-140 Onsala fullmåttshall
-Ny fullmåttsidrottshall som fyller både skolverksamhetens 147 Ersättning klubblokaler Inlag
-och föreningslivets behov.        Tillfällig ersättning av föreningslokaler som för närvarande
+147 Ersättning klubblokaler Inlag
+Tillfällig ersättning av föreningslokaler som för närvarande
 är placerade på Inlagsområdet. Vi behöver ersättningslokaler
-143 Åsa fullmåttshall             med anledning av arenans byggnation.
-Vi planerar för en ny idrottshall i Åsa.
+med anledning av arenans byggnation.
 
 Kommunbudget 2026 och plan 2027–2028 51
 
@@ -8219,34 +9833,20 @@ Foto: Emelie Asplund
 
 <!-- sida 196 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-351 Tingbergsskolan avveckling lokal och flytt
+
 227 Gräskärr förskola
-Avveckling av Tingbergsskolans lokaler i samband med färdig-
 Exploatering av bostäder i centrala Kungsbacka har gett ökade
-ställande av ny skola i kvarteret Liljan.
 behov av förskola. Därför måste vi bygga nya förskolelokaler.
-345 Tingbergsskolan avveckling lokal och flytt
 227 a Gräskärrs förskola infrastruktur
-I samband med att vi bygger Kvarteret Liljan skola kommer det
 Infrastruktur i form av tillfartsväg, vatten och avlopp och fjärr-
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
 värme för etablering av Gräskärrs förskola.
-avveckla den befintliga inhyrda lokalen.
 236 Åsa förskola
-341 Fjordskolan avveckling lokal och flytt
 Området är föremål för exploatering av nytt bostadsområde. Vi
-På grund av överkapacitet av lokaler ser kommunen över möjlig-
 bygger nya utbildningsplatser genom att anpassa befintliga skollo-
-heten att avveckla lokalen.
 kaler till förskolelokaler. Vi färdigställer funktionen i två etapper.
-359 Anpassad grundskola
 346 Åsa förskola avveckling
-Utbildningsplatser för anpassad grundskola utökas vid centrum-
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
-nära Kollaskolan.
 flytt till permanenta lokaler i närområdet.
 347 Åsa förskola avveckling
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
@@ -8282,6 +9882,23 @@ föreningslivets behov. Samordning sker med behov 338 Kvarteret
 Liljan skola.
 339b Kvarteret Liljan garage
 Parkeringsgarage i direkt anslutning till framtida grundskola.
+
+INVESTERING OCH EXPLOATERING
+
+351 Tingbergsskolan avveckling lokal och flytt
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+345 Tingbergsskolan avveckling lokal och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+341 Fjordskolan avveckling lokal och flytt
+På grund av överkapacitet av lokaler ser kommunen över möjlig-
+heten att avveckla lokalen.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2026 och plan 2027–2028 53
 
 <!-- sida 197 -->
@@ -8297,24 +9914,31 @@ stycken gruppbostad och sex stycken som servicebostad eller att alla tolv nyttja
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 413 Boende med särskild service, barn           4
-414 Boende med särskild service  12
-513 Stödboende                                 12
+414 Boende med särskild service   12
+513 Stödboende                                  12
 514 Boende med särskild service       12
-515 Boende med särskild service            12
 
-516 Boende med särskild service                12
+515 Boende med särskild service            12
+516 Boende med särskild service                 12
 
 Noter
-413 Boende med särskild service, barn 514 Boende med särskild service
-Gruppbostad för barn med fyra platser för att verkställa Boende med tolv platser för att verkställa biståndsbeslut.
+
+413 Boende med särskild service, barn
+Gruppbostad för barn med fyra platser för att verkställa
 biståndsbeslut.
-515 Boende med särskild service
-414 Boende med särskild service   Boende med tolv platser för att verkställa biståndsbeslut.
+414 Boende med särskild service
 Boende med tolv platser för att verkställa biståndsbeslut.
-516 Boende med särskild service
-513 Stödboende                    Boende med tolv platser för att verkställa biståndsbeslut.
+513 Stödboende
 Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 platser för att verkställa biståndsbeslut.
+
+514 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
 
 Gymnasium och arbetsmarknad
 Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem år räknar vi med att antal elever är cirka
@@ -8322,6 +9946,7 @@ Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem �
 användande av lokaler för att klara av denna elevmängd i befintliga lokaler.
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+
 1412 Fordons och Transportprogrammet       x
 1413 Kompetenscentrum             x
 
@@ -8354,31 +9979,34 @@ Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 819 Verksamhetslokal digital Hemtjänst och x
 Hemsjukvård
 820 Centralförråd grundutrustning Hjälpmedel x
-821 Verksamhetslokal för Hemtjänsten och    x
+821 Verksamhetslokal för Hemtjänsten och   x
 Hemsjukvård i Åsa med tillhörande parke-
 ringsplatser med laddstolpar för tjänste-
 bilar
 
 Noter
-819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+
 811 Reservkraft
-Möjlighet till samlokalisering i Signes Hus.
 Vi behöver ersätta flertalet befintliga vård­ och omsorgs­
 boendens mobila reservkraftverk med stationära för att uppfylla
-820 Centralförråd grundutrustning Hjälpmedel
 lagkrav och patientsäkerhet.
-Möjlighet till samlokalisering i Signes Hus.
 813 Administrativ lokal avveckling
-821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
 Hyresavtal som löper ut år 2026.
-tillhörande parkeringsplatser med laddstolpar för tjänstebilar
-Vi har genomfört en utredning och det finns möjlighet för nämn-
 817 Ekhaga vård-och omsorgsboende
-den att börja använda dem innan 2029, om det finns önskemål
 Mindre anpassningar av lokalerna
-om det.
 818 Ersättning verksamhetslokal
 Permanent lokallösning för administrativa lokaler.
+
+819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+Möjlighet till samlokalisering i Signes Hus.
+820 Centralförråd grundutrustning Hjälpmedel
+Möjlighet till samlokalisering i Signes Hus.
+
+821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
+tillhörande parkeringsplatser med laddstolpar för tjänstebilar
+Vi har genomfört en utredning och det finns möjlighet för nämn-
+den att börja använda dem innan 2029, om det finns önskemål
+om det.
 
 Kommunbudget 2026 och plan 2027–2028 55
 
@@ -8389,33 +10017,41 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 1503 Förråd                                x
 1514 Förråd 2                                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
 1519 Administrativa lokaler evakuering x
-238 Villa Emilia paviljong avveckling x
+238 Villa Emilia paviljong avveckling  x
 
 Noter
 
-1503 Förråd                       1518 Avveckling administrativa lokaler
-Lagring för flertalet av kommunens verksamheter. Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-1514 Förråd 2                     med behov 1516 Samlokalisering administrativa lokaler.
+1503 Förråd
 Lagring för flertalet av kommunens verksamheter.
-1519 Administrativa lokaler evakuering
-1516 Samlokalisering administrativa lokaler Tillfällig lokallösning i samband med evakuering. Samordnas med
-Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka- behov 1516 Samlokalisering administrativa lokaler.
+1514 Förråd 2
+Lagring för flertalet av kommunens verksamheter.
+
+1516 Samlokalisering administrativa lokaler
+Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
-flera verksamheter.               238 Villa Emilia förskola paviljong avveckling
-Avveckling av inhyrd lokal.
+flera verksamheter.
 1517 Avveckling administrativa lokaler
 Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
 sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
 med behov 1516 Samlokalisering administrativa lokaler.
+
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Administrativa lokaler evakuering
+Tillfällig lokallösning i samband med evakuering. Samordnas med
+behov 1516 Samlokalisering administrativa lokaler.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal.
 
 56 Kommunbudget 2026 och plan 2027–2028
 
@@ -8424,22 +10060,32 @@ med behov 1516 Samlokalisering administrativa lokaler.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
-131 Arena inklusive skyddsrum          x
 
-1202 Oförutsedda behov        x   x    x    x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+131 Arena inklusive skyddsrum         x
+1202 Oförutsedda behov       x    x   x    x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst                            x
 
 Noter
-131 Arena inklusive skyddsrum     1410 Engångskostnader
-Arena som består av hall med läktarfunktion, utomhusläktare Medel för oplanerade lokalbehov som exempelvis rivning eller
-för fotboll och kommersiella lokaler. Lokalisering söder om sanering som kan uppstå vid främst ombyggnationer av befintliga
-Kungsbacka Sportcenter.           lokaler.
-1202 Oförutsedda behov            1411 Räddningstjänst
-Medel för hantering av oförutsedda behov som uppstår under Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-planeringsperioden. Exempel är iordningsställande av tillfälliga vi planerar exploatering i sydöstra centrum där de befintliga
-lokaler.                          lokalerna finns
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Oförutsedda behov
+Medel för hantering av oförutsedda behov som uppstår under
+planeringsperioden. Exempel är iordningsställande av tillfälliga
+lokaler.
+
+1410 Engångskostnader
+Medel för oplanerade lokalbehov som exempelvis rivning eller
+sanering som kan uppstå vid främst ombyggnationer av befintliga
+lokaler.
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+vi planerar exploatering i sydöstra centrum där de befintliga
+lokalerna finns
 
 Foto: Berit Prohaszka
 
@@ -8451,23 +10097,38 @@ INVESTERING OCH EXPLOATERING
 
 Investeringar
 
-Investeringarna delas in i lokaler, exploateringar, löpande Övriga investeringar och reinvesteringar är av engångs-
-årliga investeringar, investeringar inom den avgiftsfinan- karaktär, exempelvis i byggnader eller infrastruktur. Det
-sierade verksamheten samt övriga- och reinvesteringar. Vi är nämnden som beslutar om dessa och om budgeten ska
-budgeterar lokaler och exploateringar på kommunstyrelsen bindas på projektportfölj, huvudprojekt eller projektnivå,
-och de redovisas i respektive avsnitt mer i detalj. I nedan om inte annat framgår. Här har nämnden möjlighet att
-tabeller under kommungemensamt framgår summan för omdisponera inom sin budgetram.
+Investeringarna delas in i lokaler, exploateringar, löpande
+årliga investeringar, investeringar inom den avgiftsfinan-
+sierade verksamheten samt övriga- och reinvesteringar. Vi
+budgeterar lokaler och exploateringar på kommunstyrelsen
+och de redovisas i respektive avsnitt mer i detalj. I nedan
+tabeller under kommungemensamt framgår summan för
 lokaler, markköp och exploateringar.
-Investeringar inom den avgiftsfinansierade verksamheten
-Löpande årliga investeringar är nämndernas reinves- finns redovisade under respektive avgiftskollektiv. Avgifts-
-teringar i främst inventarier. Investeringsbudget och kollektiven är avfall och återvinning, bredband samt vatten
-kapitalkostnader för löpande investeringar budgeteras på och avlopp. Kostnaderna för dessa investeringar täcks av
-respektive nämnd. Investeringsnivån bestämmer nämnden deras respektive intäkter och belastar inte skattekollektivet.
+
+Löpande årliga investeringar är nämndernas reinves-
+teringar i främst inventarier. Investeringsbudget och
+kapitalkostnader för löpande investeringar budgeteras på
+respektive nämnd. Investeringsnivån bestämmer nämnden
 själv utifrån det utrymme som finns för att finansiera
-driftskostnaderna.                Följande tabeller visar investeringarna totalt och per
-nämnd.
+driftskostnaderna.
 
 58 Kommunbudget 2026 och plan 2027–2028
+
+Övriga investeringar och reinvesteringar är av engångs-
+karaktär, exempelvis i byggnader eller infrastruktur. Det
+är nämnden som beslutar om dessa och om budgeten ska
+bindas på projektportfölj, huvudprojekt eller projektnivå,
+om inte annat framgår. Här har nämnden möjlighet att
+omdisponera inom sin budgetram.
+
+Investeringar inom den avgiftsfinansierade verksamheten
+finns redovisade under respektive avgiftskollektiv. Avgifts-
+kollektiven är avfall och återvinning, bredband samt vatten
+och avlopp. Kostnaderna för dessa investeringar täcks av
+deras respektive intäkter och belastar inte skattekollektivet.
+
+Följande tabeller visar investeringarna totalt och per
+nämnd.
 
 [Tabell 201-1](handlingar.tabeller/201-1.csv)
 
@@ -8645,116 +10306,187 @@ Kommunbudget 2026 och plan 2027–2028 61
 
 INVESTERING OCH EXPLOATERING
 
-Bostäder                          Nordöstra Kungsbacka
-Ett planprogram för nordöstra Kungsbacka godkändes av
+Bostäder
+
 Väster om ån
-kommunstyrelsen i 2019 och består av tre etapper uppde-
-Väster om ån är det hittills största stadsomvandlingspro- lade i nio olika detaljplaner. Syftet är att möjliggöra flera
-jektet i Kungsbacka. Centrala staden kommer att byggas nya stadsdelar i Voxlöv och Tölö ängar, där bostadsom-
-ut med bostäder, handel och kontor. Projektet omfattar ett rådena ska ha ett varierat bostadsutbud och utrymme för
-område från Alléskolan i söder till Kungsmässan i norr. kommunal service. Det planeras även för en ny trafikled,
-Hedeleden, som ska underlätta för transporter och koppla
+Väster om ån är det hittills största stadsomvandlingspro-
+jektet i Kungsbacka. Centrala staden kommer att byggas
+ut med bostäder, handel och kontor. Projektet omfattar ett
+område från Alléskolan i söder till Kungsmässan i norr.
+
 Valand
-ihop områdena. Vid Hede station ska vi skapa möjlighet för
-I första etappen, kvarteret Valand, bygger exploatören ett brett utbud av service. Marken inom programområdet
-Aranäs cirka 300 bostäder varav hälften hyresrätter, ägs av olika privata exploatörer samt kommunen. Totalt
-kontor och lokaler för handel. Ett parkeringshus är redan beräknar vi att kunna bygga mellan 2 500 och 3 000
-klart sedan 2019. Utbyggnaden av området kommer att bostäder inom hela området.
+I första etappen, kvarteret Valand, bygger exploatören
+Aranäs cirka 300 bostäder varav hälften hyresrätter,
+kontor och lokaler för handel. Ett parkeringshus är redan
+klart sedan 2019. Utbyggnaden av området kommer att
 pågå under flera år. Exploatören Aranäs har under 2022
-Etapp 1
 färdigställt de två första bostadskvarteren. Under 2023
-var byggstart av ytterligare två bostadskvarter planerade. Tölö ängar 3 (del 1) innehåller cirka 130 bostäder i en
-Dock har det pausats på grund av rådande läge i ekonomin. blandning av småhus och flerbostadshus där JM är
-Utöver detta återstår det ytterligare tre kvarter i området. exploatör. Detaljplanen vann laga kraft under 2024 och just
-Projektering och utbyggnad av omkringliggande gator sker nu pågår projektering och utbyggnad av infrastrukturen.
-löpande i takt med att kvarteren byggs ut, men utbyggnad Byggstart av bostäderna är planerad till andra halvan av
-har fått anpassa sig till den reviderade tidplanen för 2025.
+var byggstart av ytterligare två bostadskvarter planerade.
+Dock har det pausats på grund av rådande läge i ekonomin.
+Utöver detta återstår det ytterligare tre kvarter i området.
+Projektering och utbyggnad av omkringliggande gator sker
+löpande i takt med att kvarteren byggs ut, men utbyggnad
+har fått anpassa sig till den reviderade tidplanen för
 bostadskvarteren.
-Tölö ängar syd (del 1) innehåller cirka 400 bostäder i både
+
 Ejdern
-småhus och flerbostadshus och som kommer att uppföras
-Andra etappen i projektet är kvarter Ejdern, där vi planerar av Sverigehuset som är exploatör. Vi beräknar att anta
-att bygga cirka 250 bostäder och ett parkeringshus. Marken detaljplanen under 2026.
+Andra etappen i projektet är kvarter Ejdern, där vi planerar
+att bygga cirka 250 bostäder och ett parkeringshus. Marken
 i området ägs av kommunen och kommer att markanvisas i
-samband med att vi påbörjar detaljplanen, vilket beräknas Voxlöv norr ligger precis öster om Hede station och
-ske under andra halvan av 2025.   kommer att innehålla cirka 750 bostäder i både småhus och
-flerbostadshus där Derome är exploatör. Vi beräknar att
+samband med att vi påbörjar detaljplanen, vilket beräknas
+ske under andra halvan av 2025.
+
 Gjutaren och Liljan
-anta detaljplanen under 2027.
 Ytterligare ett område i anslutning till projektet Väster om
-Etapp 2
 ån är kvarteret Gjutaren och Liljan. Kommunen antog
-detaljplanen i slutet av 2023 och projektet innehåller cirka Den andra etappen består av Voxlöv sydväst och sydöst. Vi
-250 bostäder och en ny skola. Riksbyggen är exploatör planerar att starta detaljplanen under 2025.
+detaljplanen i slutet av 2023 och projektet innehåller cirka
+250 bostäder och en ny skola. Riksbyggen är exploatör
 och kommer att bygga tre kvarter med flerbostadshus, där
-Etapp 3
 byggstart för det första kvarteret är planerat till slutet av
-2025\. Byggnationen av skolan är planerad att starta 2025 Sista och tredje etappen består av Tölö ängar 3 (del 2),
-och kvarteret med radhus kommer att markanvisas av Tölöängar syd (del 2), samt Hede station. Vi planerar att
-kommunen till annan exploatör i ett senare skede under starta detaljplanen för dessa områden under 2026 och
-2026\. För närvarande pågår projektering av infrastruktu- framåt.
+2025\. Byggnationen av skolan är planerad att starta 2025
+och kvarteret med radhus kommer att markanvisas av
+kommunen till annan exploatör i ett senare skede under
+2026\. För närvarande pågår projektering av infrastruktu-
 ren.
 
 62 Kommunbudget 2026 och plan 2027–2028
 
+Nordöstra Kungsbacka
+Ett planprogram för nordöstra Kungsbacka godkändes av
+kommunstyrelsen i 2019 och består av tre etapper uppde-
+lade i nio olika detaljplaner. Syftet är att möjliggöra flera
+nya stadsdelar i Voxlöv och Tölö ängar, där bostadsom-
+rådena ska ha ett varierat bostadsutbud och utrymme för
+kommunal service. Det planeras även för en ny trafikled,
+Hedeleden, som ska underlätta för transporter och koppla
+ihop områdena. Vid Hede station ska vi skapa möjlighet för
+ett brett utbud av service. Marken inom programområdet
+ägs av olika privata exploatörer samt kommunen. Totalt
+beräknar vi att kunna bygga mellan 2 500 och 3 000
+bostäder inom hela området.
+
+Etapp 1
+Tölö ängar 3 (del 1) innehåller cirka 130 bostäder i en
+blandning av småhus och flerbostadshus där JM är
+exploatör. Detaljplanen vann laga kraft under 2024 och just
+nu pågår projektering och utbyggnad av infrastrukturen.
+Byggstart av bostäderna är planerad till andra halvan av
+2025\.
+
+Tölö ängar syd (del 1) innehåller cirka 400 bostäder i både
+småhus och flerbostadshus och som kommer att uppföras
+av Sverigehuset som är exploatör. Vi beräknar att anta
+detaljplanen under 2026.
+
+Voxlöv norr ligger precis öster om Hede station och
+kommer att innehålla cirka 750 bostäder i både småhus och
+flerbostadshus där Derome är exploatör. Vi beräknar att
+anta detaljplanen under 2027.
+
+Etapp 2
+Den andra etappen består av Voxlöv sydväst och sydöst. Vi
+planerar att starta detaljplanen under 2025.
+
+Etapp 3
+Sista och tredje etappen består av Tölö ängar 3 (del 2),
+Tölöängar syd (del 2), samt Hede station. Vi planerar att
+starta detaljplanen för dessa områden under 2026 och
+framåt.
+
 <!-- sida 206 -->
+
+Björkris
+
+Etapp 1
+Området ligger utmed Göteborgsvägen norr om Hede
+station där vi tillvaratar det strategiska läget med bra
+kopplingar för gång och cykel till stationen och annan
+närliggande service. Den nya stadsdelen möjliggör för en
+varierad bebyggelse med olika byggnadstyper och upplåtel-
+seformer och ger ett stort tillskott av bostäder.
+
+Etapp 2
+Området innehåller cirka 800 bostäder med blandade
+upplåtelseformer samt förskola, skola och en fullmåtts-
+idrottshall. I början av 2021 antog kommunen en detaljplan
+för området väster om Göteborgsvägen. Trollängen är
+exploatör och har under 2025 färdigställt de två första
+kvarteren längst in i området. Under 2025 kommer
+byggstart att ske för ytterligare ett kvarter. Utbyggnaden
+av kvarteren och infrastrukturen pågår parallellt och
+kommer att pågå under en tioårsperiod.
+
+Sydöstra centrum
+Sydöstra centrum är det andra stora stadsomvandlings-
+projektet i Kungsbacka, där vi kommer att bygga ut de
+centrala delarna av staden med bostäder, handel och
+kontor. Kommunstyrelsen godkände ett planprogram för
+sydöstra centrum i januari 2020 och programmet består av
+fyra etapper. Området sträcker sig från Söderån i norr till
+Hantverksgatan i söder.
+
+Etapp 1
+Detaljplan för etapp 1 innehåller cirka 800 bostäder i
+flerbostadshus, där Balder är exploatör. Vi räknar med att
+anta detaljplanen under andra halvan av 2025.
+
+Etapp 2
+Marken inom etapp 2 ägs huvudsakligen av kommunen
+och är tänkt att innehålla ytterligare 400–500 bostäder.
+Inom etapp 2 pågår klarläggande av de övergripande
+förutsättningarna för en planläggning, då det bland annat
+innefattar en omlokalisering av befintlig brandstation.
 
 INVESTERING OCH EXPLOATERING
 
-Björkris                          Verksamhetsområden
+Verksamhetsområden
 
-Etapp 1                           Duvehed
-Området ligger utmed Göteborgsvägen norr om Hede Duvehed är ett av kommunens verksamhetsområden där
-station där vi tillvaratar det strategiska läget med bra detaljplanen är klar och försäljning av verksamhetsmarken
-kopplingar för gång och cykel till stationen och annan pågår. Området ligger i Fjärås stationssamhälle med
-närliggande service. Den nya stadsdelen möjliggör för en närhet till E6:an och omfattar cirka 25 hektar. Under 2021
-varierad bebyggelse med olika byggnadstyper och upplåtel- färdigställde kommunen utbyggnaden av infrastrukturen i
-seformer och ger ett stort tillskott av bostäder. området och de första företagen etablerade sig. För tillfället
+Duvehed
+Duvehed är ett av kommunens verksamhetsområden där
+detaljplanen är klar och försäljning av verksamhetsmarken
+pågår. Området ligger i Fjärås stationssamhälle med
+närhet till E6:an och omfattar cirka 25 hektar. Under 2021
+färdigställde kommunen utbyggnaden av infrastrukturen i
+området och de första företagen etablerade sig. För tillfället
 har fyra företag etablerat sig och tre företag förbereder
-Etapp 2
 byggstart. Den återstående marken om totalt cirka 7,5
-Området innehåller cirka 800 bostäder med blandade hektar, vilket blir cirka sex tomter, beräknas att säljas de
-upplåtelseformer samt förskola, skola och en fullmåtts- kommande åren.
-idrottshall. I början av 2021 antog kommunen en detaljplan
+hektar, vilket blir cirka sex tomter, beräknas att säljas de
+kommande åren.
+
 Klovsten
-för området väster om Göteborgsvägen. Trollängen är
-exploatör och har under 2025 färdigställt de två första I Klovsten, där Säröleden möter E6:an, planerar
-kvarteren längst in i området. Under 2025 kommer kommunen ett nytt verksamhetsområde med närhet till
-byggstart att ske för ytterligare ett kvarter. Utbyggnaden Kungsbacka stad.
-av kvarteren och infrastrukturen pågår parallellt och
+I Klovsten, där Säröleden möter E6:an, planerar
+kommunen ett nytt verksamhetsområde med närhet till
+Kungsbacka stad.
+
 Etapp 1
-kommer att pågå under en tioårsperiod.
 Detaljplanen omfattar totalt cirka 22,5 hektar och kommer
-Sydöstra centrum
 att göra det möjligt att bygga lokaler för verksamheter,
-Sydöstra centrum är det andra stora stadsomvandlings- industri med tillhörande kontorslokaler samt centrumän-
-projektet i Kungsbacka, där vi kommer att bygga ut de damål. Marken i området ägs huvudsakligen av kommu-
-centrala delarna av staden med bostäder, handel och nen, men delar ägs av Balder och ViaVest. Vi kommer att
-kontor. Kommunstyrelsen godkände ett planprogram för anta detaljplanen under andra kvartalet 2025.
-sydöstra centrum i januari 2020 och programmet består av
+industri med tillhörande kontorslokaler samt centrumän-
+damål. Marken i området ägs huvudsakligen av kommu-
+nen, men delar ägs av Balder och ViaVest. Vi kommer att
+anta detaljplanen under andra kvartalet 2025.
+
 Etapp 2
-fyra etapper. Området sträcker sig från Söderån i norr till
-Hantverksgatan i söder.           Entreprenören ViaVest har fått tillstånd för fortsatt
+Entreprenören ViaVest har fått tillstånd för fortsatt
 deponiverksamhet inom området söder om första etappen.
-Etapp 1
 I slutet av 2023 startade ViaVest upp deponiverksamheten
-Detaljplan för etapp 1 innehåller cirka 800 bostäder i som beräknas pågå under fem till sju år. Start av detaljplan
-flerbostadshus, där Balder är exploatör. Vi räknar med att för den andra etappen blir aktuellt först om ett antal år.
-anta detaljplanen under andra halvan av 2025.
+som beräknas pågå under fem till sju år. Start av detaljplan
+för den andra etappen blir aktuellt först om ett antal år.
+
 Frillesås-Rya
-Etapp 2
 Frillesås-Rya är ett nytt stort verksamhetsområde
-Marken inom etapp 2 ägs huvudsakligen av kommunen mellan Frillesås tätort och E6:an och omfattar cirka 36
-och är tänkt att innehålla ytterligare 400–500 bostäder. hektar. Hösten 2022 antog kommunen en detaljplan för
-Inom etapp 2 pågår klarläggande av de övergripande industri- och verksamheter med ambitionen att kunna
-förutsättningarna för en planläggning, då det bland annat etablera många olika typer av verksamheter inklusive
-innefattar en omlokalisering av befintlig brandstation. höglager. Detaljplanen blev överklagad och Mark och
+mellan Frillesås tätort och E6:an och omfattar cirka 36
+hektar. Hösten 2022 antog kommunen en detaljplan för
+industri- och verksamheter med ambitionen att kunna
+etablera många olika typer av verksamheter inklusive
+höglager. Detaljplanen blev överklagad och Mark och
 Miljödomstolen meddelade i januari 2024 att de upphäver
 detaljplanen. Kommunen har valt att göra om vissa delar
 och detaljplanen kommer att ställas ut på granskning igen.
 Vi beräknar att kunna anta detaljplanen på nytt under
 2025\. Försäljning av verksamhetsmarken kommer sedan att
 pågå under ett antal år.
+
 Kommunbudget 2026 och plan 2027–2028 63
 
 <!-- sida 207 -->
@@ -9057,12 +10789,13 @@ miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-91       761       663      442       568
+
+91       761       663       442       568
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-18       24        58        57        36
+18        24        58       57        36
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -9072,19 +10805,24 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 
 Lokaltyp och beskrivning       2026 2027 2028 2029 2030
 140 Onsala fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-145 Enkel isyta för träning (ishall)                  x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+
+145 Enkel isyta för träning (ishall)                 x
+147 Evakuering klubbstugor Inlag  x
+
+Noter
+140 Onsala fullmåttshall
+Ny fullmåttsidrottshall som fyller både skolverksamhetens
+och föreningslivets behov.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
 
 145 Enkel isyta för träning
-Noter
 Träningsishall som är något mindre än publika arenor.
-140 Onsala fullmåttshall
-Ny fullmåttsidrottshall som fyller både skolverksamhetens 147 Ersättning klubblokaler Inlag
-och föreningslivets behov.        Tillfällig ersättning av föreningslokaler som för närvarande
+147 Ersättning klubblokaler Inlag
+Tillfällig ersättning av föreningslokaler som för närvarande
 är placerade på Inlagsområdet. Vi behöver ersättningslokaler
-143 Åsa fullmåttshall             med anledning av arenans byggnation.
-Vi planerar för en ny idrottshall i Åsa.
+med anledning av arenans byggnation.
 
 Kommunbudget 2026 och plan 2027–2028 51
 
@@ -9125,34 +10863,20 @@ Foto: Emelie Asplund
 
 <!-- sida 216 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-351 Tingbergsskolan avveckling lokal och flytt
+
 227 Gräskärr förskola
-Avveckling av Tingbergsskolans lokaler i samband med färdig-
 Exploatering av bostäder i centrala Kungsbacka har gett ökade
-ställande av ny skola i kvarteret Liljan.
 behov av förskola. Därför måste vi bygga nya förskolelokaler.
-345 Tingbergsskolan avveckling lokal och flytt
 227 a Gräskärrs förskola infrastruktur
-I samband med att vi bygger Kvarteret Liljan skola kommer det
 Infrastruktur i form av tillfartsväg, vatten och avlopp och fjärr-
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
 värme för etablering av Gräskärrs förskola.
-avveckla den befintliga inhyrda lokalen.
 236 Åsa förskola
-341 Fjordskolan avveckling lokal och flytt
 Området är föremål för exploatering av nytt bostadsområde. Vi
-På grund av överkapacitet av lokaler ser kommunen över möjlig-
 bygger nya utbildningsplatser genom att anpassa befintliga skollo-
-heten att avveckla lokalen.
 kaler till förskolelokaler. Vi färdigställer funktionen i två etapper.
-359 Anpassad grundskola
 346 Åsa förskola avveckling
-Utbildningsplatser för anpassad grundskola utökas vid centrum-
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
-nära Kollaskolan.
 flytt till permanenta lokaler i närområdet.
 347 Åsa förskola avveckling
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
@@ -9188,6 +10912,23 @@ föreningslivets behov. Samordning sker med behov 338 Kvarteret
 Liljan skola.
 339b Kvarteret Liljan garage
 Parkeringsgarage i direkt anslutning till framtida grundskola.
+
+INVESTERING OCH EXPLOATERING
+
+351 Tingbergsskolan avveckling lokal och flytt
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+345 Tingbergsskolan avveckling lokal och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+341 Fjordskolan avveckling lokal och flytt
+På grund av överkapacitet av lokaler ser kommunen över möjlig-
+heten att avveckla lokalen.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2026 och plan 2027–2028 53
 
 <!-- sida 217 -->
@@ -9203,24 +10944,31 @@ stycken gruppbostad och sex stycken som servicebostad eller att alla tolv nyttja
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 413 Boende med särskild service, barn           4
-414 Boende med särskild service  12
-513 Stödboende                                 12
+414 Boende med särskild service   12
+513 Stödboende                                  12
 514 Boende med särskild service       12
-515 Boende med särskild service            12
 
-516 Boende med särskild service                12
+515 Boende med särskild service            12
+516 Boende med särskild service                 12
 
 Noter
-413 Boende med särskild service, barn 514 Boende med särskild service
-Gruppbostad för barn med fyra platser för att verkställa Boende med tolv platser för att verkställa biståndsbeslut.
+
+413 Boende med särskild service, barn
+Gruppbostad för barn med fyra platser för att verkställa
 biståndsbeslut.
-515 Boende med särskild service
-414 Boende med särskild service   Boende med tolv platser för att verkställa biståndsbeslut.
+414 Boende med särskild service
 Boende med tolv platser för att verkställa biståndsbeslut.
-516 Boende med särskild service
-513 Stödboende                    Boende med tolv platser för att verkställa biståndsbeslut.
+513 Stödboende
 Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 platser för att verkställa biståndsbeslut.
+
+514 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
 
 Gymnasium och arbetsmarknad
 Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem år räknar vi med att antal elever är cirka
@@ -9228,6 +10976,7 @@ Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem �
 användande av lokaler för att klara av denna elevmängd i befintliga lokaler.
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+
 1412 Fordons och Transportprogrammet       x
 1413 Kompetenscentrum             x
 
@@ -9260,31 +11009,34 @@ Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 819 Verksamhetslokal digital Hemtjänst och x
 Hemsjukvård
 820 Centralförråd grundutrustning Hjälpmedel x
-821 Verksamhetslokal för Hemtjänsten och    x
+821 Verksamhetslokal för Hemtjänsten och   x
 Hemsjukvård i Åsa med tillhörande parke-
 ringsplatser med laddstolpar för tjänste-
 bilar
 
 Noter
-819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+
 811 Reservkraft
-Möjlighet till samlokalisering i Signes Hus.
 Vi behöver ersätta flertalet befintliga vård­ och omsorgs­
 boendens mobila reservkraftverk med stationära för att uppfylla
-820 Centralförråd grundutrustning Hjälpmedel
 lagkrav och patientsäkerhet.
-Möjlighet till samlokalisering i Signes Hus.
 813 Administrativ lokal avveckling
-821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
 Hyresavtal som löper ut år 2026.
-tillhörande parkeringsplatser med laddstolpar för tjänstebilar
-Vi har genomfört en utredning och det finns möjlighet för nämn-
 817 Ekhaga vård-och omsorgsboende
-den att börja använda dem innan 2029, om det finns önskemål
 Mindre anpassningar av lokalerna
-om det.
 818 Ersättning verksamhetslokal
 Permanent lokallösning för administrativa lokaler.
+
+819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+Möjlighet till samlokalisering i Signes Hus.
+820 Centralförråd grundutrustning Hjälpmedel
+Möjlighet till samlokalisering i Signes Hus.
+
+821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
+tillhörande parkeringsplatser med laddstolpar för tjänstebilar
+Vi har genomfört en utredning och det finns möjlighet för nämn-
+den att börja använda dem innan 2029, om det finns önskemål
+om det.
 
 Kommunbudget 2026 och plan 2027–2028 55
 
@@ -9295,33 +11047,41 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 1503 Förråd                                x
 1514 Förråd 2                                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
 1519 Administrativa lokaler evakuering x
-238 Villa Emilia paviljong avveckling x
+238 Villa Emilia paviljong avveckling  x
 
 Noter
 
-1503 Förråd                       1518 Avveckling administrativa lokaler
-Lagring för flertalet av kommunens verksamheter. Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-1514 Förråd 2                     med behov 1516 Samlokalisering administrativa lokaler.
+1503 Förråd
 Lagring för flertalet av kommunens verksamheter.
-1519 Administrativa lokaler evakuering
-1516 Samlokalisering administrativa lokaler Tillfällig lokallösning i samband med evakuering. Samordnas med
-Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka- behov 1516 Samlokalisering administrativa lokaler.
+1514 Förråd 2
+Lagring för flertalet av kommunens verksamheter.
+
+1516 Samlokalisering administrativa lokaler
+Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
-flera verksamheter.               238 Villa Emilia förskola paviljong avveckling
-Avveckling av inhyrd lokal.
+flera verksamheter.
 1517 Avveckling administrativa lokaler
 Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
 sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
 med behov 1516 Samlokalisering administrativa lokaler.
+
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Administrativa lokaler evakuering
+Tillfällig lokallösning i samband med evakuering. Samordnas med
+behov 1516 Samlokalisering administrativa lokaler.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal.
 
 56 Kommunbudget 2026 och plan 2027–2028
 
@@ -9330,22 +11090,32 @@ med behov 1516 Samlokalisering administrativa lokaler.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
-131 Arena inklusive skyddsrum          x
 
-1202 Oförutsedda behov        x   x    x    x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+131 Arena inklusive skyddsrum         x
+1202 Oförutsedda behov       x    x   x    x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst                            x
 
 Noter
-131 Arena inklusive skyddsrum     1410 Engångskostnader
-Arena som består av hall med läktarfunktion, utomhusläktare Medel för oplanerade lokalbehov som exempelvis rivning eller
-för fotboll och kommersiella lokaler. Lokalisering söder om sanering som kan uppstå vid främst ombyggnationer av befintliga
-Kungsbacka Sportcenter.           lokaler.
-1202 Oförutsedda behov            1411 Räddningstjänst
-Medel för hantering av oförutsedda behov som uppstår under Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-planeringsperioden. Exempel är iordningsställande av tillfälliga vi planerar exploatering i sydöstra centrum där de befintliga
-lokaler.                          lokalerna finns
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Oförutsedda behov
+Medel för hantering av oförutsedda behov som uppstår under
+planeringsperioden. Exempel är iordningsställande av tillfälliga
+lokaler.
+
+1410 Engångskostnader
+Medel för oplanerade lokalbehov som exempelvis rivning eller
+sanering som kan uppstå vid främst ombyggnationer av befintliga
+lokaler.
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+vi planerar exploatering i sydöstra centrum där de befintliga
+lokalerna finns
 
 Foto: Berit Prohaszka
 
@@ -9353,62 +11123,157 @@ Kommunbudget 2026 och plan 2027–2028 57
 
 <!-- sida 221 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-Lokaler         och     boenden                                                                                       Resterande 20 procent finansieras inom respektive nämnds
-• Lokallösningar ska föreslås och väljas utifrån att ram. Ramtilldelning utgår inte för verksamhetsanpass-
-”Minska behovet av att bygga nytt genom att samut- ningar av lokaler.
-nyttja och bygga mer flexibelt” vilket innebär att loka-
+Lokaler         och     boenden
+
 Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
-ler eller lokaldelar så långt det är möjligt planeras för Investeringsbudget och hyresmedel för lokaler och boen-
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner Antalet invånare ökar
-att kunna samnyttjas och användas för flera ändamål. den tillhör kommunstyrelsen och kommunstyrelsen kan
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen
-• Investeringar i egenägda lokaler ska genomföras om justera mellan olika lokalprojekt under året.
-verksamheten har ett långsiktigt lokalbehov.
-• Inhyrning ska prövas som ett alternativ till att äga Projekt i lokalplanen får omsättas till projekt och startas
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att fastigheter, och väljas om det råder osäkerhet om verk- upp om de understiger 15 miljoner i investeringsbe-
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och samhetens framtida innehåll och/eller omfattning och lopp. För projekt som överstiger 15 miljoner kronor ska
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu- med hänsyn till behovstid eller om investeringsmedel igångsättning beslutas av kommunstyrelsen. Inhyrda behov
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett saknas för egna investeringar. där hyran motsvarar en investering på 15 miljoner eller mer
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för • Arbetet med lokalförsörjning ska bedrivas genom ett kräver också beslut av kommunstyrelsen.
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.                tätt samarbete med berörda förvaltningar.
-och boenden.                                                                                                          I samband med kommunens investering i nya lokaler
-Lokalbehov 2023–2027
-Handläggningen av lokalbehoven behöver ske enligt ned-                              avsätts 1 procent av byggnadens byggutgift till konstnärlig
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:            Nämnderna i Kungsbacka kommun har lämnat in bostads- utsmyckning. Med byggutgift avses den del av projektkost-
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings- och lokalbehov för perioden 2023–2027. Nämndernas naden som omfattar uppförande av en byggnad exklusive
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering. beslutade behov uttrycks i volymmått, till exempel antal markförvärv, projektering, markarbeten, installationer
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade platser, antal elever eller antal förskolebarn. Behoven och byggherrekostnader. Nämnden för Kultur & Fritid
-Prioriteringsprincipen i fallande ordning: bearbetas och kostnadsbedöms utifrån nyckeltal framtagna får ansvaret att upphandla och besluta om den konstnär-
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk- av Förvaltningen för Service avseende både investerings- liga utsmyckningen. Ett särskilt belopp avsätts som kan
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av utgifter samt driftskostnader. Lokalplanen bereds utifrån fördelas olika mellan de lokaler som byggs. Det innebär att
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler ett planerings- och genomförandeperspektiv samt med det inte alltid blir 1 procent i konstnärlig utsmyckning per
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.   utgångspunkt i ovan nämnda principer. lokal utan det kan variera mellan olika lokaler men det blir
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering                      alltid max 1 procent totalt per år. Gäller bara byggnaderna.
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.      Nya hyror för lokalinvesteringar samt inhyrda boenden Vid investeringar i infrastruktur (gator och vägar mm)
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur- budgeteras centralt och nämnden erhåller ram motsva- samt i de fall kommunen hyr in lokal från extern fastig-
-tige.                                        omvandlingar och som ger minskade      rande 80 procent av hyran när lokalen är klar att tas i bruk. hetsägare får ställning tas till konstnärlig utsmyckning i
-driftskostnader samt lokalbehov på                                       varje enskilt projekt.
+
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
+och boenden.
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
+
 Insamling                Genomför-
 Behov            Förstudie Projektering   Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
+
+42 Kommunbudget 2023 och plan 2024–2025
+
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2023–2027
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2023–2027. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Förvaltningen för Service avseende både investerings-
+utgifter samt driftskostnader. Lokalplanen bereds utifrån
+ett planerings- och genomförandeperspektiv samt med
+utgångspunkt i ovan nämnda principer.
+
+Nya hyror för lokalinvesteringar samt inhyrda boenden
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+
+INVESTERING OCH EXPLOATERING
+
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
+
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får omsättas till projekt och startas
+upp om de understiger 15 miljoner i investeringsbe-
+lopp. För projekt som överstiger 15 miljoner kronor ska
+igångsättning beslutas av kommunstyrelsen. Inhyrda behov
+där hyran motsvarar en investering på 15 miljoner eller mer
+kräver också beslut av kommunstyrelsen.
+
+I samband med kommunens investering i nya lokaler
+avsätts 1 procent av byggnadens byggutgift till konstnärlig
+utsmyckning. Med byggutgift avses den del av projektkost-
+naden som omfattar uppförande av en byggnad exklusive
+markförvärv, projektering, markarbeten, installationer
+och byggherrekostnader. Nämnden för Kultur & Fritid
+får ansvaret att upphandla och besluta om den konstnär-
+liga utsmyckningen. Ett särskilt belopp avsätts som kan
+fördelas olika mellan de lokaler som byggs. Det innebär att
+det inte alltid blir 1 procent i konstnärlig utsmyckning per
+lokal utan det kan variera mellan olika lokaler men det blir
+alltid max 1 procent totalt per år. Gäller bara byggnaderna.
+Vid investeringar i infrastruktur (gator och vägar mm)
+samt i de fall kommunen hyr in lokal från extern fastig-
+hetsägare får ställning tas till konstnärlig utsmyckning i
+varje enskilt projekt.
+
 Foto: Amanda Liljevall, Kungsbacka kommun
-42 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 43
+
+Kommunbudget 2023 och plan 2024–2025 43
 
 <!-- sida 222 -->
 
@@ -9431,14 +11296,15 @@ Budget 2023 Plan 2024 Plan 2025 Plan 2026 Plan 2027
 136  Skårby fullmått idrottshall        x
 441       395       814       934       412
 232  Trollelyckan förskola avveckling   x
+
 233  Klockaregården förskola               160
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner kronor                                                            234  Klockaregården förskola avveckling paviljong -160
 
 ```osaker-tabell
 Budget 2023 Plan 2024 Plan 2025 Plan 2026 Plan 2027                              235  Stockalids förskola                   120
-     62        48        30       64        67                                   236  Åsa förskola                                    80
-                                                                                 237  Åsa förskola (Stora Loket) avveckling           -80
+     62        48       30        64        67                                   236  Åsa förskola                                    80
+                                                                                 237  Åsa förskola (Stora Loket) avveckling          -80
 ```
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis sanering, restvärden, paviljonghyror och inredning.
@@ -9452,201 +11318,355 @@ Lokaltyp och beskrivning 2023 2024 2025 2026 2027                               
 139 Toalettbyggnad Stättared     x                                                 143  Ölmevalla idrottshall (fullmått)                 x
 140 Iserås fullmåttshall                   x                                       337  Åsa skola och folkbibliotek        x
 142 Naturum Fjärås Bräcka    x                                                     338  Kvarteret Liljan skola                              500
-143 Ölmevalla idrottshall (fullmått)       x                                       339  Kvarteret Liljan idrottssal                           x
+143 Ölmevalla idrottshall (fullmått)       x                                       339  Kvarteret Liljan idrottssal                          x
 114 Fjärås fritidscenter omplanering x                                             340  Klinnekärrs förskola avveckling    x
 137 Elektronen avveckling    x                                                     341  Fjordskolans paviljong avveckling och flytt -100
-342  Utbildningspaviljong avveckling                       x
-Noter                                                                               343  Utbildningspaviljong och hus anpassning x
-344  Utbildningspaviljong avveckling        x
+342  Utbildningspaviljong avveckling                      x
+
+Noter
 136 Skårby fullmått idrottshall
-I samband med en ny skola planeras en ny fullmåtts idrotts- 142 Naturum Fjärås Bräcka 345 Tingberget paviljong avveckling och flytt          -100
-Utbyggnad och anpassning av köks- och personalytor utifrån
-hall som tillgodoser skolverksamhetens och föreningslivets                          1202 a Internationella engelska skolan, skolpeng x
-arbetsmiljöperspektiv
-behov Samordning sker med projekt 231 Skårby utbildnings-
-312  Åsaskolan matsal och klassrum   x
-143 Ölmevalla idrottshall (fullmått)
-lokal
 I samband med en ny skola planeras en ny fullmåtts idrotts-
-227 Kolla förskola
-138 Frillesås ridhus              hall som tillgodoser skolverksamhetens och föreningslivets Noter                    Stort underskott av förskoleplatser i Kollaområdet ger
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 231 Skårby utbildnings-
+lokal
+138 Frillesås ridhus
+Behov av en ny anläggning i Frillesås
+
+139 Toalettbyggnad Stättared
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 335 Iserås skola
+
+142 Naturum Fjärås Bräcka
+Utbyggnad och anpassning av köks- och personalytor utifrån
+arbetsmiljöperspektiv
+143 Ölmevalla idrottshall (fullmått)
+I samband med en ny skola planeras en ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
 behov Samordning sker med projekt 336 Åsa nya skola
-Behov av en ny anläggning i Frillesås                                                                                 behov av förskola med 160 platser
-207 Fjärås Må förskola
 114 Fjärås fritidscenter
-139 Toalettbyggnad Stättared                                                        Området är föremål för exploatering av nya bostäder Nya 227 a Kolla förskola infrastruktur
 Samlokalisering av närbibliotek ifrån Smedingeskolan till
-Befintlig byggnad har passerat sitt tekniska slutår och behö-                       förskolelokaler måste därför byggas Infrastruktur i form av tillfartsväg, VA och fjärrvärme där
 Fjärås simhall
-ver ersättas                                                                                                          Kolla förskola blir ensam kostnadsbärare
-226 Anneberg förskola
 137 Elektronen avveckling
-140 Iserås fullmått idrottshall                                                     Området är föremål för exploatering av nya bostäder Nya 230 Skårby utbildningslokaler etapp 1
 I samband med exploatering på kvarteren Gjutaren och
-I samband med en ny skola planeras ny fullmåtts idrotts-                            förskolelokaler måste därför byggas Samordning sker med Området är föremål för exploatering av nytt bostadsområde
 Liljan avvecklas befintliga byggnader genom rivning
-hall som tillgodoser skolverksamhetens och föreningslivets                          projekt 807 Anneberg vård- och omsorgsboende, projekt 414 Nya utbildningsplatser måste därför byggas Samordning
-behov Samordning sker med projekt 335 Iserås skola                                  Anneberg boende med särskild service med projekt 136 Skårby fullmåtts idrottshall
+
+343 Utbildningspaviljong och hus anpassning
+344 Utbildningspaviljong avveckling
+345 Tingberget paviljong avveckling och flytt
+1202 a Internationella engelska skolan, skolpeng
+312 Åsaskolan matsal och klassrum
+
+Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder Nya
+förskolelokaler måste därför byggas
+
+226 Anneberg förskola
+Området är föremål för exploatering av nya bostäder Nya
+förskolelokaler måste därför byggas Samordning sker med
+projekt 807 Anneberg vård- och omsorgsboende, projekt 414
+Anneberg boende med särskild service
+
+x
+x
+-100
+x
+x
+
+227 Kolla förskola
+Stort underskott av förskoleplatser i Kollaområdet ger
+behov av förskola med 160 platser
+227 a Kolla förskola infrastruktur
+Infrastruktur i form av tillfartsväg, VA och fjärrvärme där
+Kolla förskola blir ensam kostnadsbärare
+
+230 Skårby utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+med projekt 136 Skårby fullmåtts idrottshall
+
 44 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 45
 
 <!-- sida 223 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-231 Skårby utbildningslokaler etapp 2 336 Ölmevallaskolan                           345 Tingberget paviljong avveckling och flytt 312 Åsaskolan matsal och klassrum
-Området är föremål för exploatering av nytt bostadsområde Åsa är föremål för exploatering av nytt bostadsområden I samband med att Kvarteret Liljans utbildningslokaler byggs Matsalen utökas på Åsaskolan i syfte att ta emot högsta-
-Nya utbildningsplatser måste därför byggas Samordning och befolkningstillväxt Nya utbildningsplatser måste därför kommer det att uppstå en överkapacitet på Tingbergssko- dieelever hösten 2022 och hösten 2023 Likaså byggs lokaler
-med projekt 230 Skårby utbildningslokal etapp 1 byggas Samordning med projekt 143 Åsa nya fullmått- lan Detta medför att befintlig inhyrd paviljong kan avveck- om till ämnessalar för hemkunskapsundervisning
-sidrottshall                                      las Objektet är fortsatt under utredning
-136 Skårby fullmått idrottshall
-I samband med en ny skola planeras en ny fullmåtts 143 Ölmevalla idrottshall (fullmått) 1202 a Internationella engelska skolan, skolpeng
-idrottshall som tillgodoser skolverksamhetens och fören- I samband med en ny skola planeras ny fullmått idrotts- Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-ingslivets behov Samordning sker med projekt 231 Skårby hall som tillgodoser skolverksamhetens och föreningslivets skola till Internationella engelska skolan enligt tilldelnings-
-utbildningslokal                  behov Samordning sker med projekt 334 Åsa nya skola modell för privata utförare inom skolverksamheten och
-fritidshemsverksamheten
-232 Trollelyckan förskola avveckling 337 Åsa skola och folkbibliotek
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga P g a underkapacitet på Åsa Gårdsskolan avseende ele-
-lokaler samt att den tekniska livslängden har nått sitt slut vantal kommer en successiv flytt ske av högstadiet till
-Åsaskolan Detta kommer innebära anpassningar av lokaler
-233 Klockaregårdens förskola      för skolverksamhet och folkbibliotek på Åsaskolan och Åsa Kommunala boenden med särskild service (BMSS)
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Gårdsskolan Planering pågår och för närvarande ej beslut
-Boenden med särskild service är för personer med omfattande stödbehov på grund av fysiska och- eller socialpsykiatriska
-förskola                          om grad av anpassningar
-funktionsnedsättningar. Boenden består av enheter om ca 6 lägenheter med tillhörande lokaler för gemensamma aktivite-
-234 Klockaregården förskola avveckling 338 Kvarteret Liljan skola                   ter samt personalutrymmen. Kommunens behov uttrycks nedan i form av antal boendeplatser. Utformning av boende med
-Paviljong avvecklas när ny förskola projekt 233 i Frillesås Området är föremål för exploatering av nytt bostadsområde särskild service kan vara att man bygger 12 stycken bostäder som antingen kan nyttjas som 6 stycken gruppbostad och 6
-står färdig                       Nya utbildningsplatser måste därför byggas Samordning
-stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
-med projekt 339 Liljans idrottssal och 1408 skyddsrum kv
-235 Stockalids förskola           Liljan
-Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+231 Skårby utbildningslokaler etapp 2
 Området är föremål för exploatering av nytt bostadsområde
-405 Vallda BMSS              12
-Nya utbildningsplatser måste därför byggas 339 Kvarteret Liljan idrottssal
-I samband med en ny skola planeras ny skolidrottssal som 413 Boende med särskild service, barn 4
-236 Åsa förskola                  tillgodoser skolverksamhetens och föreningslivets behov 414 Anneberg Boende med särskild service  12
-Området är föremål för exploatering av nytt bostadsområde Samordning sker med projekt 338 Kvarteret Liljan skola (del av samverkanshus)
 Nya utbildningsplatser måste därför byggas Samordning
+med projekt 230 Skårby utbildningslokal etapp 1
+136 Skårby fullmått idrottshall
+I samband med en ny skola planeras en ny fullmåtts
+idrottshall som tillgodoser skolverksamhetens och fören-
+ingslivets behov Samordning sker med projekt 231 Skårby
+utbildningslokal
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut
+233 Klockaregårdens förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola
+234 Klockaregården förskola avveckling
+Paviljong avvecklas när ny förskola projekt 233 i Frillesås
+står färdig
+
+235 Stockalids förskola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas
+236 Åsa förskola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+projekt 237 Åsa förskola avveckling
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut
+239 Förskola centrum
+Området är föremål för exploatering av nya bostadsområ-
+den Nya utbildningsplatser måste därför byggas
+
+332 Björkris skola paviljong avveckling
+I samband med ny skola projekt 230 Skårby utbildningslokal
+etapp 1 avvecklas tillfällig skolpaviljong på Björkrisskolan
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastigheten har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 335 Iserås skola
+
+46 Kommunbudget 2023 och plan 2024–2025
+
+INVESTERING OCH EXPLOATERING
+
+336 Ölmevallaskolan                              345 Tingberget paviljong avveckling och flytt 312 Åsaskolan matsal och klassrum
+Åsa är föremål för exploatering av nytt bostadsområden I samband med att Kvarteret Liljans utbildningslokaler byggs Matsalen utökas på Åsaskolan i syfte att ta emot högsta-
+och befolkningstillväxt Nya utbildningsplatser måste därför kommer det att uppstå en överkapacitet på Tingbergssko- dieelever hösten 2022 och hösten 2023 Likaså byggs lokaler
+byggas Samordning med projekt 143 Åsa nya fullmått- lan Detta medför att befintlig inhyrd paviljong kan avveck- om till ämnessalar för hemkunskapsundervisning
+sidrottshall                                     las Objektet är fortsatt under utredning
+
+143 Ölmevalla idrottshall (fullmått)
+I samband med en ny skola planeras ny fullmått idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 334 Åsa nya skola
+337 Åsa skola och folkbibliotek
+P g a underkapacitet på Åsa Gårdsskolan avseende ele-
+vantal kommer en successiv flytt ske av högstadiet till
+Åsaskolan Detta kommer innebära anpassningar av lokaler
+för skolverksamhet och folkbibliotek på Åsaskolan och Åsa
+Gårdsskolan Planering pågår och för närvarande ej beslut
+om grad av anpassningar
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+med projekt 339 Liljans idrottssal och 1408 skyddsrum kv
+Liljan
+
+1202 a Internationella engelska skolan, skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Internationella engelska skolan enligt tilldelnings-
+modell för privata utförare inom skolverksamheten och
+fritidshemsverksamheten
+
+Kommunala boenden med särskild service (BMSS)
+
+Boenden med särskild service är för personer med omfattande stödbehov på grund av fysiska och- eller socialpsykiatriska
+funktionsnedsättningar. Boenden består av enheter om ca 6 lägenheter med tillhörande lokaler för gemensamma aktivite-
+ter samt personalutrymmen. Kommunens behov uttrycks nedan i form av antal boendeplatser. Utformning av boende med
+särskild service kan vara att man bygger 12 stycken bostäder som antingen kan nyttjas som 6 stycken gruppbostad och 6
+stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
+
+Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+
+405 Vallda BMSS              12
+339 Kvarteret Liljan idrottssal
+I samband med en ny skola planeras ny skolidrottssal som 413 Boende med särskild service, barn 4
+tillgodoser skolverksamhetens och föreningslivets behov 414 Anneberg Boende med särskild service  12
+Samordning sker med projekt 338 Kvarteret Liljan skola (del av samverkanshus)
+
 502 Kvarteret Aranäs boende med särskild 12
-projekt 237 Åsa förskola avveckling 340 Klinnekärrs förskola avveckling
+340 Klinnekärrs förskola avveckling
 service
 Förskolebyggnad avvecklas på grund av myndighetskrav
 504 Björkris boende med särskild service   10
-237 Åsa (Stora Loket) förskola avveckling
-Paviljong avvecklas när ny förskola i Åsa står färdig 341 Fjordskolan paviljong avveckling och flytt 505 Bostäder SBF och referensboende 10 10 10 10
+
+341 Fjordskolan paviljong avveckling och flytt    505 Bostäder SBF och referensboende 10 10 10 10
 I samband med att Iseråsskolan anpassas genom ny- och 507 Boende med särskild service 12
-238 Villa Emilia avveckling       ombyggnad kommer dess upptagningsområde förändras
+ombyggnad kommer dess upptagningsområde förändras
 508 a Boende med särskild service 12
-Avveckling av paviljong då inget behov finns och att hyresav- så att fler elever kommer att gå på Iseråsskolan Därmed
+så att fler elever kommer att gå på Iseråsskolan Därmed
 508 b Anneberg boende med särskild service      12
-talet löper ut                    kommer Fjordskolan att avlastas
+kommer Fjordskolan att avlastas
 508 c Boende med särskild service 8
-239 Förskola centrum              342 Utbildningspaviljong avveckling               508 d Boende med särskild service      2
-Området är föremål för exploatering av nya bostadsområ- I samband med att Skårbyskolan byggs kommer högsta-
-508 e Boende med särskild service      12
-den Nya utbildningsplatser måste därför byggas dieelever flyttas ifrån Hedeskolan dit Detta innebär att
+342 Utbildningspaviljong avveckling               508 d Boende med särskild service      2
+I samband med att Skårbyskolan byggs kommer högsta-
+508 e Boende med särskild service     12
+dieelever flyttas ifrån Hedeskolan dit Detta innebär att
 508 f Boende med särskild service      6
 ett färre antal elever kommer att gå på Hedeskolan vilket
-332 Björkris skola paviljong avveckling medför att befintlig inhyrd skolpaviljong kan avvecklas 508 g Boende med särskild service 12
-I samband med ny skola projekt 230 Skårby utbildningslokal                          508 h Boende med särskild service           6
-etapp 1 avvecklas tillfällig skolpaviljong på Björkrisskolan 343 Utbildningspaviljong och husanpassning
-508 i Boende med särskild service           2
+medför att befintlig inhyrd skolpaviljong kan avvecklas 508 g Boende med särskild service    12
+508 h Boende med särskild service          6
+343 Utbildningspaviljong och husanpassning
+508 i Boende med särskild service          2
 I samband med att Skårbyskolan byggs kommer högstadie-
-510 Ordinärt boende           2   2    2    2
-335 Iserås skola                  elever flyttas ifrån Älvsåkersskolan dit Detta innebär att ett
-Delar av Iseråsskolan måste avvecklas då fastigheten har färre antal elever kommer att gå på Älvsåkerskolan vilket 511 Boende med särskild service 18
-nått sin tekniska livslängd och behöver ersättas med nya sannolikt medför att befintliga lokaler kan behöva anpassas 512 Samlokalisering daglig verksamhet x
-lokaler Samordning sker med projekt 140 Iserås fullmåtts till viss del Planering pågår  Kyrkskolan
-idrottshall
-513 Drogfritt boende                   12
+510 Ordinärt boende          2    2    2   2
+elever flyttas ifrån Älvsåkersskolan dit Detta innebär att ett
+färre antal elever kommer att gå på Älvsåkerskolan vilket 511 Boende med särskild service        18
+sannolikt medför att befintliga lokaler kan behöva anpassas 512 Samlokalisering daglig verksamhet x
+till viss del Planering pågår                         Kyrkskolan
+513 Drogfritt boende                  12
 344 Utbildningspaviljong avveckling
 Summa boendeplatser och lägenheter 12 66 44 36 42
-140 Iserås fullmått idrottshall   I samband med att Skårbyskolan byggs kommer högstadie-
-I samband med en ny skola planeras ny fullmåtts idrotts- elever flyttas ifrån Björkrisskolan dit Detta innebär att ett
-hall som tillgodoser skolverksamhetens och föreningslivets färre antal elever kommer att gå på Björkrisskolan vilket
-behov Samordning sker med projekt 335 Iserås skola medför att befintlig lokal kan behöva anpassas för kvarva-
+I samband med att Skårbyskolan byggs kommer högstadie-
+elever flyttas ifrån Björkrisskolan dit Detta innebär att ett
+färre antal elever kommer att gå på Björkrisskolan vilket
+medför att befintlig lokal kan behöva anpassas för kvarva-
 rande verksamhet Planering pågår
-46 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 47
+
+Kommunbudget 2023 och plan 2024–2025 47
 
 <!-- sida 224 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-Noter                                                                               Vård- och omsorgsboende
-Vård- och omsorgsboende är boenden för äldre med behov av särskilt stöd enligt socialtjänstlagen. Ett
-405 Vallda boende med särskild service 507 Boende med särskild service
-vård- och omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutrymmen.
-Boende om 12 platser för att verkställa biståndsbeslut Boende om 12 platser i Särö för att verkställa biståndsbe-
-Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal platser.
-slut
-413 Boende med särskild service, barn 508 a–i Boende med särskild service
-Gruppbostad för barn, 4 platser, för att verkställa bistånds- Ett behov av ett flertal BMSS under kommande år där de
-beslut                            matchas mot försörjning av byggrätter, exploateringsprojekt
-men också inhyrningar ifrån externa hyresvärdar i syfte att
-Lokaltyp och beskrivning         2023 2024 2025 2026 2027
-414 Boende med särskild service Anneberg verkställa biståndsbeslut
-805 Ekhaga vård- och omsorgsboende    -26       40
-Behov av gruppbostäder planeras in i kommande nya
-område Samordnas med projekt 807 vård- och omsorgsbo- 510 Ordinärt boende           807 Anneberg vård- och omsorgsboende                     80
-ende Anneberg och projekt 226 Anneberg förskola Det finns behov av ordinära bostäder där personer som bor 808 Bukärrsgården vård- och omsorgsboende avveckling x
-på ett BMSS vill flytta till en ordinär bostad av diverse olika
-809 Hemtjänstlokal Hede flytt          x
-502 Kvarteret Aranäs boende med särskild service skäl Kommunen ombesörjer endast förmedling, ej byggna-
-Boende om 12 platser för att verkställa biståndsbeslut tion eller annan anskaffning 811 VOB Reservkraft (10 st)                 x
-812 Hemtjänst Vallda Anpassning/renovering x
-504 Boende med särskild service Björkris 511 Boende med särskild service            813 Administrativ lokal Omsorgenshus avveckling      x
-Boende om 10 platser för att verkställa biståndsbeslut Boende om 18 platser för att verkställa biståndsbeslut
-814 Sjöállen 9F, ersättningslokal           x
-815 Hemtjänst Sjöallén avveckling           x
-505 Bostäder SBF och referensboende 512 Samlokalisering daglig verksamhet Kyrkskolan
-Särskild bostadsförsörjningskö är avsedd för personer som Flera olika lokaler som är idag daglig verksamhet kommer
-inte själv kan skaffa en bostad på grund av starka sociala att avvecklas Verksamheterna ska samlokaliseras till Kyrk-
-och/eller medicinska skäl Referensboende hyrs ut till kom- skolan som då blir en större lokal för daglig verksamhet
-muninvånare som har starkt behov av en bostad och inte
 Noter
-på egen hand har förmåga att lösa sin situation Kommunen 513 Drogfritt boende
-ombesörjer endast förmedling, ej byggnation eller annan Bemannat boende inriktat mot missbruk och psykisk ohälsa
-anskaffning                       12 platser för att verkställa biståndsbeslut      805 Ekhaga vård- och omsorgsboende 812 Hemtjänst Vallda Anpassning/renovering
-Tillbyggnad av boendet Avveckling av 26 lägenheter samt
-Idag saknas adekvat omklädningsutrymme samt utrymme
-nybyggnation av 40 nya lägenheter
-för cirkulationstvätt vilket strider både mot arbetsmiljö-
-lagen och Hälso- och sjukvårdslagen En anpassning av
-807 Anneberg vård- och omsorgsboende
-befintliga hemtjänstlokalerna kommer äga rum i syfte att
-Planering av nytt vård- och omsorgsboende med 80 lägen-
-uppnå lagkraven
-heter i kommunen Samordnas med projekt 414 BMSS Anne-
-Gymnasium och arbetsmarknad                                                         berg och projekt 226 Anneberg förskola
-813 Administrativ lokal Omsorgenshus avveckling
-Hyresavtalet som hemtjänsten har på Omsorgens hus löper
+
+405 Vallda boende med särskild service
+Boende om 12 platser för att verkställa biståndsbeslut
+413 Boende med särskild service, barn
+Gruppbostad för barn, 4 platser, för att verkställa bistånds-
+beslut
+
+414 Boende med särskild service Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område Samordnas med projekt 807 vård- och omsorgsbo-
+ende Anneberg och projekt 226 Anneberg förskola
+502 Kvarteret Aranäs boende med särskild service
+Boende om 12 platser för att verkställa biståndsbeslut
+
+504 Boende med särskild service Björkris
+Boende om 10 platser för att verkställa biståndsbeslut
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte
+på egen hand har förmåga att lösa sin situation Kommunen
+ombesörjer endast förmedling, ej byggnation eller annan
+anskaffning
+
+507 Boende med särskild service
+Boende om 12 platser i Särö för att verkställa biståndsbe-
+slut
+508 a–i Boende med särskild service
+Ett behov av ett flertal BMSS under kommande år där de
+matchas mot försörjning av byggrätter, exploateringsprojekt
+men också inhyrningar ifrån externa hyresvärdar i syfte att
+verkställa biståndsbeslut
+510 Ordinärt boende
+Det finns behov av ordinära bostäder där personer som bor
+på ett BMSS vill flytta till en ordinär bostad av diverse olika
+skäl Kommunen ombesörjer endast förmedling, ej byggna-
+tion eller annan anskaffning
+511 Boende med särskild service
+Boende om 18 platser för att verkställa biståndsbeslut
+512 Samlokalisering daglig verksamhet Kyrkskolan
+Flera olika lokaler som är idag daglig verksamhet kommer
+att avvecklas Verksamheterna ska samlokaliseras till Kyrk-
+skolan som då blir en större lokal för daglig verksamhet
+513 Drogfritt boende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa
+12 platser för att verkställa biståndsbeslut
+
+Gymnasium och arbetsmarknad
 Idag går det ca 3 115 elever på de tre gymnasieskolorna. Om fem år, 2027 beräknas elevantalet uppgå till ca 3 300 elever,
-808 Bukärrsgården avveckling
-ut år 2026 Det är högst osäkert om detta förlängs därför
-dvs ca 185 antal fler elever än idag. Nya arbetssätt och ett betydligt mer flexibelt lokalanvändande kommer krävas för att Planeras att avyttras när hyrestiden upphör
-kan en avveckling genom hyresuppsägning äga rum
+dvs ca 185 antal fler elever än idag. Nya arbetssätt och ett betydligt mer flexibelt lokalanvändande kommer krävas för att
 klara av denna elevmängd i befintliga lokaler.
-809 Hemtjänstlokal Hede flytt
-814 Sjöállen 9F, ersättningslokal
-Lokaltyp och beskrivning                2023 2024 2025 2026 2027               Planeras att samordnas med projekt 803 Björkris vård- och
-På grund av myndighetskrav kan hemtjänsten inte sitta kvar
-600 Utökning i befintliga byggnader          33   21  48   35                      omsorgsboende
-på Sjöallén 9F Nya lokaler måste därför anskaffas
+
+Lokaltyp och beskrivning                2023 2024 2025 2026 2027
+600 Utökning i befintliga byggnader          33   21  48   35
 602 Samlokalisering Mobilen och Transport-programmet x
-811 Reservkraft
-815 Hemtjänst Sjöállen avveckling
-För att uppfylla lagkrav och patientsäkerhet måste flertalet
-Noter                                                                                                                 På grund av myndighetskrav kan hemtjänsten inte sitta kvar
-befintliga vård- och omsorgsboenden kompletteras med
-på Sjöallén 9F Därför måste befintlig verksamhet flyttas
-reservkraft
-och lokalen på Sjöallén 9F avvecklas genom rivning
+
+Noter
+
 600 Utökning i befintliga lokaler 602 Samlokalisering Mobilen och Transportprogrammet
 Utökningen kommer främst verkställas genom förändrat Som följd av exploateringsprojekt på kvarteret Liljan
 utbildnings- och arbetssätt samt schemaläggning kommer gymnasieverksamheten Mobilen att samlokalisera
 med Transportprogrammet som idag återfinns på Marios
 gata i Varla
-48 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 49
+
+48 Kommunbudget 2023 och plan 2024–2025
+
+INVESTERING OCH EXPLOATERING
+
+Vård- och omsorgsboende
+Vård- och omsorgsboende är boenden för äldre med behov av särskilt stöd enligt socialtjänstlagen. Ett
+vård- och omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutrymmen.
+Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal platser.
+
+Lokaltyp och beskrivning         2023 2024 2025 2026 2027
+805 Ekhaga vård- och omsorgsboende    -26      40
+807 Anneberg vård- och omsorgsboende                     80
+808 Bukärrsgården vård- och omsorgsboende avveckling x
+809 Hemtjänstlokal Hede flytt          x
+811 VOB Reservkraft (10 st)                 x
+812 Hemtjänst Vallda Anpassning/renovering x
+813 Administrativ lokal Omsorgenshus avveckling      x
+814 Sjöállen 9F, ersättningslokal           x
+815 Hemtjänst Sjöallén avveckling           x
+
+Noter
+
+805 Ekhaga vård- och omsorgsboende
+Tillbyggnad av boendet Avveckling av 26 lägenheter samt
+nybyggnation av 40 nya lägenheter
+
+807 Anneberg vård- och omsorgsboende
+Planering av nytt vård- och omsorgsboende med 80 lägen-
+heter i kommunen Samordnas med projekt 414 BMSS Anne-
+berg och projekt 226 Anneberg förskola
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård- och
+omsorgsboende
+
+811 Reservkraft
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård- och omsorgsboenden kompletteras med
+reservkraft
+
+812 Hemtjänst Vallda Anpassning/renovering
+Idag saknas adekvat omklädningsutrymme samt utrymme
+för cirkulationstvätt vilket strider både mot arbetsmiljö-
+lagen och Hälso- och sjukvårdslagen En anpassning av
+befintliga hemtjänstlokalerna kommer äga rum i syfte att
+uppnå lagkraven
+813 Administrativ lokal Omsorgenshus avveckling
+Hyresavtalet som hemtjänsten har på Omsorgens hus löper
+ut år 2026 Det är högst osäkert om detta förlängs därför
+kan en avveckling genom hyresuppsägning äga rum
+814 Sjöállen 9F, ersättningslokal
+På grund av myndighetskrav kan hemtjänsten inte sitta kvar
+på Sjöallén 9F Nya lokaler måste därför anskaffas
+
+815 Hemtjänst Sjöállen avveckling
+På grund av myndighetskrav kan hemtjänsten inte sitta kvar
+på Sjöallén 9F Därför måste befintlig verksamhet flyttas
+och lokalen på Sjöallén 9F avvecklas genom rivning
+
+Kommunbudget 2023 och plan 2024–2025 49
 
 <!-- sida 225 -->
 
@@ -9655,86 +11675,117 @@ INVESTERING OCH EXPLOATERING
 Service                                                                             Övriga lokaler
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
-Lokaltyp och beskrivning         2023 2024 2025 2026 2027                          Lokaltyp och beskrivning 2023 2024 2025 2026 2027
-1405 Anpassning myndighetskrav Elof Lindälv x                                      131 Arena                                   x
-1500 Kapareskolans kök ombyggnad       x                                           1202 Tillfälliga lösningar eller oförutsedda x x x x x
+Lokaltyp och beskrivning         2023 2024 2025 2026 2027                           Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+1405 Anpassning myndighetskrav Elof Lindälv x                                       131 Arena                                  x
+1500 Kapareskolans kök ombyggnad       x                                            1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
-1501 Fjordskolan mottagningskök            x
+1501 Fjordskolan mottagningskök             x
 1406 Duveheds omlastningscentral x
 1502 Iseråsskolan mottagningskök                x
 1408 Skyddsrum Kv Liljan                        x
-1503 Datahall                                            x
-1410 Engångsdriftskostnader allmänt x x x   x
+1503 Datahall                                             x
+1410 Engångsdriftskostnader allmänt x x x  x
 1504 Toalettbyggnad Åsa camping        x
-1411 Räddningstjänst                        x
+1411 Räddningstjänst                       x
 1505 Toalettbyggnad Åsa Gårda Brygga   x
+
 1506 Ombyggnad/Förändring av ”hemkök” på förskolor x x x x x
+
 1507 Bostadsmodul Tölöberg avveckling  x
+
 1508 Personalbyggnad Klovsten avveckling x
 Noter
 1509 Bostad mm Gustafs väg, rivning    x
-1510 Bostad Kallhällevägen rivning     x                                           131 Arena
-1408 Skyddsrum Kvarteret Liljan
-1511 Toalettbyggnad Hanhals badplats       x                                       Arenahall med kommersiella lokaler som placeras söder om
-Exploateringen av kvarteret gör att befintligt skyddsrum
-Kungsbacka Sportcenter
-1512 Toalettbyggnad Vallda Sandö           x                                                                          måste ersättas
+
+1510 Bostad Kallhällevägen rivning     x
+1511 Toalettbyggnad Hanhals badplats        x
+1512 Toalettbyggnad Vallda Sandö            x
 1513 Iseråsskolan paviljong avveckling och flytt x
-1202 Tillfälliga lösningar eller oförutsedda händelser
-1410 Engångskostnader
-1514 Datahall 2                            x                                       Medel för tillfälliga lokaler eller för hantering av oförutsedda
-Medel för oplanerade lokalbehov såsom rivning och sanering
-behov som uppstår under planeringsperioden
-som kan uppstå vid främst ombyggnationer av befintliga
-Noter                             1506 Ombyggnad/Förändring av ”hemkök” på förskolor
-lokaler
-Befintliga kök på flertalet förskolor måste anpassas utifrån 1406 Duveheds omlastningscentral
-arbetsmiljösynpunkt men även livsmedelshantering  Vid utbyggnad av Klovstens område behöver omlastnings-
-1405 Anpassning myndighetskrav Elof Lindälv                                                                            1411 Räddningstjänst
-station ny plats i Duvehed
-Anpassning av byggnad i syfte att erhålla permanent                                                                    Som följd av exploateringen i Sydöstra centrum måste rädd-
-1507 Bostadsmodul Tölöberg avveckling
-bygglovstillstånd                                                                                                      ningstjänsten omlokaliseras
-Avvecklas då hyreskontrakt löper ut och arrendeavtal sägs
-upp
+1514 Datahall 2                             x
+
+Noter
+
+1405 Anpassning myndighetskrav Elof Lindälv
+Anpassning av byggnad i syfte att erhålla permanent
+bygglovstillstånd
+
 1500 Kapareskolans kök ombyggnad
 Ombyggnad- och utbyggnad av mottagningskök och matsal
-1508 Personalbyggnad Klovsten avveckling
 som reinvestering och utökning av kapacitet i kök och
-Avvecklas då byggnaden har nått sin tekniska livslängd
 matsal
-1509 Bostad mm Gustafs väg, rivning
-1501 Fjordskolan mottagningskök
+
+1506 Ombyggnad/Förändring av ”hemkök” på förskolor
+Befintliga kök på flertalet förskolor måste anpassas utifrån
+arbetsmiljösynpunkt men även livsmedelshantering
+1507 Bostadsmodul Tölöberg avveckling
+Avvecklas då hyreskontrakt löper ut och arrendeavtal sägs
+upp
+
+1508 Personalbyggnad Klovsten avveckling
 Avvecklas då byggnaden har nått sin tekniska livslängd
+
+131 Arena
+Arenahall med kommersiella lokaler som placeras söder om
+Kungsbacka Sportcenter
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden
+
+1406 Duveheds omlastningscentral
+Vid utbyggnad av Klovstens område behöver omlastnings-
+station ny plats i Duvehed
+
+1408 Skyddsrum Kvarteret Liljan
+Exploateringen av kvarteret gör att befintligt skyddsrum
+måste ersättas
+1410 Engångskostnader
+Medel för oplanerade lokalbehov såsom rivning och sanering
+som kan uppstå vid främst ombyggnationer av befintliga
+lokaler
+
+1411 Räddningstjänst
+Som följd av exploateringen i Sydöstra centrum måste rädd-
+ningstjänsten omlokaliseras
+
+1501 Fjordskolan mottagningskök
 Samlokalisering av Fjordskolans 3 ”leveransställen” till ett
 mottagningskök
-1510 Bostad Kallhällevägen rivning
-Avvecklas då byggnaden har nått sin tekniska livslängd
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
-1511 Toalettbyggnad Hanhals badplats
 uppnått tekniskt slutdatum Samordnas med projekt 335
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolan
+
+1509 Bostad mm Gustafs väg, rivning
+Avvecklas då byggnaden har nått sin tekniska livslängd
+
+1510 Bostad Kallhällevägen rivning
+Avvecklas då byggnaden har nått sin tekniska livslängd
+1511 Toalettbyggnad Hanhals badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
 ver ersättas
+
 1503 Datahall
-1512 Toalettbyggnad Vallda Sandö
 Datahall/Serverrum och lagring för flertalet av kommunens
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 verksamhetssystem
-ver ersättas
 1504 Toalettbyggnad Åsa camping
-1513 Iseråsskolan paviljong avveckling och flytt
 Befintlig byggnad har passerat sitt tekniska slutår och behö-
-Avveckling av paviljong då inget behov finns och att hyresav-
 ver ersättas
-talet löper ut
+
 1505 Toalettbyggnad Gårda brygga badplats
-1514 Datahall 2
 Befintlig byggnad har passerat sitt tekniska slutår och behö-
-Datahall/Serverrum och lagring för flertalet av kommunens
 ver ersättas
+
+1512 Toalettbyggnad Vallda Sandö
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas
+1513 Iseråsskolan paviljong avveckling och flytt
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut
+
+1514 Datahall 2
+Datahall/Serverrum och lagring för flertalet av kommunens
 verksamhetssystem
+
 50 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 51
 
 <!-- sida 226 -->
@@ -17113,44 +19164,88 @@ Figur 17. Alternativa utredningskorridorer avfärdade innan myndighetsdialog.
 Tabell 4. Alternativa utredningskorridorer avfärdade innan myndighetsdialog samt
 motivering till avfärdande.
 
-Alternativ Beskrivning alternativ Motiv till avfärdande
-Hav – H3 Utgår från mötespunkt mot Onödigt lång sträcka utan
-Danmark, löper söderut och anledning som motiverar den
-viker sedan av österut för att extra sträckan.
+Alternativ Beskrivning alternativ
+
+Hav – H3 Utgår från mötespunkt mot
+Danmark, löper söderut och
+viker sedan av österut för att
 ansluta mot H2
-Hav – H4 Fortsätter söderut från H3 och Korridoren ansluter till ett
-ansluter mot landtag i Ringhals landtag som avfärdats, därmed
+Hav – H4 Fortsätter söderut från H3 och
+ansluter mot landtag i Ringhals
+
+Hav/land – Utgår norrut från H1 i havet
+1        och viker av österut vid Billdal.
+Följer befintliga Konti-Skan 1
+och 2. Ansluter på land mot
+avfärdade korridor N
+
+Motiv till avfärdande
+
+Onödigt lång sträcka utan
+anledning som motiverar den
+extra sträckan.
+
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
 avfärdas även anslutande
 korridor till havs.
-
-Hav/land – Utgår norrut från H1 i havet Korridoren ansluter till ett
-1        och viker av österut vid Billdal. landtag som avfärdats, därmed
-Följer befintliga Konti-Skan 1 avfärdas även anslutande
-och 2. Ansluter på land mot korridorer både till havs och på
-avfärdade korridor N land.
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
+avfärdas även anslutande
+korridorer både till havs och på
+land.
 
 39
 
 <!-- sida 413 -->
 
-Alternativ Beskrivning alternativ Motiv till avfärdande
+Alternativ Beskrivning alternativ
+Hav/land 2 Utgår norrut från korridor
+”Hav/land 3” i havet. Landtag i
+Örsvik och ansluter på land
+mot avfärdade ”Hav/land 1”
+samt C1.
 
-Hav/land 2 Utgår norrut från korridor Korridoren ansluter till ett
-”Hav/land 3” i havet. Landtag i landtag som avfärdats, därmed
-Örsvik och ansluter på land avfärdas även anslutande
-mot avfärdade ”Hav/land 1” korridorer både till havs och på
-samt C1.             land.
-Hav/land 3 Utgår norrut från havskorridor Korridoren ansluter till ett
-4 med landtag i Kyvik. landtag som avfärdats, därmed
-Fortsätter österut på land och avfärdas även anslutande
-ansluter mot C1.     korridorer både till havs och på
+Hav/land 3 Utgår norrut från havskorridor
+4 med landtag i Kyvik.
+Fortsätter österut på land och
+ansluter mot C1.
+
+Land b   Utredningskorridoren följer väg
+E6 på östra sidan av Natura
+2000-områdena Sandsjöbacka
+och Sandsjöbacka-Halland.
+Ont om utrymme mellan E6 och
+berg på flera ställen.
+
+Land g   Utgår från S3 som en kortare
+alternativ delsträcka öster om
+Lindome.
+
+Land N   Norra alternativet längs med
+Konti-Skans befintliga kablar
+och luftledning på land.
+
+40
+
+Motiv till avfärdande
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
+avfärdas även anslutande
+korridorer både till havs och på
 land.
-Land b   Utredningskorridoren följer väg I detta skede fanns inga
-E6 på östra sidan av Natura projektörer som kunde bedöma
-2000-områdena Sandsjöbacka framkomlighet inom korridoren.
-och Sandsjöbacka-Halland. Alternativet löper delvis inom
-Ont om utrymme mellan E6 och östra delen av Natura 2000
-berg på flera ställen. området Sandsjöbacka,
+
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
+avfärdas även anslutande
+korridorer både till havs och på
+land.
+I detta skede fanns inga
+projektörer som kunde bedöma
+framkomlighet inom korridoren.
+Alternativet löper delvis inom
+östra delen av Natura 2000
+området Sandsjöbacka,
 byggarbeten kan medföra
 påverkan på Natura 2000
 området genom sprängning
@@ -17160,12 +19255,12 @@ bedömdes finnas alternativ
 med bättre/enklare
 framkomlighet avfärdades
 detta alternativ.
-Land g   Utgår från S3 som en kortare Avfärdas med anledning av
-alternativ delsträcka öster om golfbana, längd och ingen
-Lindome.             tydlig struktur att följa.
-Land N   Norra alternativet längs med Det är byggtekniskt svårt samt
-Konti-Skans befintliga kablar förknippat med stora
-och luftledning på land. arbetsmiljörisker att anlägga
+Avfärdas med anledning av
+golfbana, längd och ingen
+tydlig struktur att följa.
+Det är byggtekniskt svårt samt
+förknippat med stora
+arbetsmiljörisker att anlägga
 nya kablar nära befintliga
 ledningar samtidigt som de
 befintliga är i drift. Befintlig
@@ -17179,8 +19274,6 @@ avfärdande. Vidare har de två
 landtagen som ansluter till N
 förkastats, vilket gör korridor N
 inaktuell.
-
-40
 
 <!-- sida 414 -->
 
@@ -17206,9 +19299,41 @@ Figur 18. Avfärdade alternativa utredningskorridorer efter myndighetsdialogen.
 Tabell 5. Avfärdade alternativa utredningskorridorer efter myndighetsdialogen samt
 motivering till avfärdande.
 
-Alternativ Beskrivning alternativ Motiv till avfärdande
-Hav – H2 Den södra av de två  Korridoren avfärdas då den i
-korridorerna i havet. större utsträckning berör
+Alternativ Beskrivning alternativ
+
+Hav – H2 Den södra av de två
+korridorerna i havet.
+
+Hav – h  En mindre korridor som ger
+möjlighet att byta mellan norra
+och södra korridoren i havet
+
+Hav – i  En mindre korridor som ger
+möjlighet att byta mellan norra
+och södra korridoren i havet
+Hav/land – Utgår från H2 med landtag vid
+6        Låddholmen/Lerkil. Fortsätter
+österut på land och ansluter till
+S1.
+
+Hav/land - Utgår från H2 med landtag vid
+7        Gate Klova. Fortsätter österut
+på land och ansluter till S1.
+
+Land – S1 Fortsätter norrut från Hav/land
+6 och 7. Ansluter till S2 väster
+om Kungsbacka tätort.
+
+Land – del Den norra delen av C2 som
+av C2    följer E6 norrut. Viker av
+österut längs med befintlig
+infrastruktur och ansluter till
+S3.
+
+Motiv till avfärdande
+
+Korridoren avfärdas då den i
+större utsträckning berör
 försiktighetsområde
 (Precautionary Area) där flera
 fartygsrutter går ihop vilket
@@ -17216,37 +19341,35 @@ inte är bra ur sjötrafiksynpunkt.
 Sjöfartsverket och
 Transportstyrelsen förespråkar
 H1 framför H2.
-Hav – h  En mindre korridor som ger Utgår till följd av att korridor
-möjlighet att byta mellan norra H2 utgår.
-och södra korridoren i havet
-Hav – i  En mindre korridor som ger Utgår till följd av att korridor
-möjlighet att byta mellan norra H2 utgår.
-och södra korridoren i havet
+Utgår till följd av att korridor
+H2 utgår.
 
-Hav/land – Utgår från H2 med landtag vid Korridoren avfärdas p.g.a.
-6        Låddholmen/Lerkil. Fortsätter Försvarsmaktens yttrande och
-österut på land och ansluter till att det inte finns någon annan
-S1.                  anledning som motiverar den
-extra längden. Det finns andra
-alternativ som är likvärdiga
-eller bättre avseende påverkan
-på förekommande intressen.
-Hav/land - Utgår från H2 med landtag vid Korridoren avfärdas p.g.a.
-7        Gate Klova. Fortsätter österut Försvarsmaktens yttrande och
-på land och ansluter till S1. att det inte finns någon annan
+Utgår till följd av att korridor
+H2 utgår.
+
+Korridoren avfärdas p.g.a.
+Försvarsmaktens yttrande och
+att det inte finns någon annan
 anledning som motiverar den
 extra längden. Det finns andra
 alternativ som är likvärdiga
 eller bättre avseende påverkan
 på förekommande intressen.
-Land – S1 Fortsätter norrut från Hav/land Utgår till följd av att landtag 6
-6 och 7. Ansluter till S2 väster och 7 utgår.
-om Kungsbacka tätort.
-Land – del Den norra delen av C2 som Avfärdas med anledning av
-av C2    följer E6 norrut. Viker av tekniskt mycket svår passage
-österut längs med befintlig av väg, järnväg och vatten vid
-infrastruktur och ansluter till Sagsjön.
-S3.
+Korridoren avfärdas p.g.a.
+Försvarsmaktens yttrande och
+att det inte finns någon annan
+anledning som motiverar den
+extra längden. Det finns andra
+alternativ som är likvärdiga
+eller bättre avseende påverkan
+på förekommande intressen.
+Utgår till följd av att landtag 6
+och 7 utgår.
+
+Avfärdas med anledning av
+tekniskt mycket svår passage
+av väg, järnväg och vatten vid
+Sagsjön.
 
 42
 
@@ -25739,40 +27862,73 @@ och värdegrundsarbete avgörande. På Eksta tar vi ansvar både som samhällsby
 trygga boendemiljöer. Våra medarbetare är en central del av denna utveckling och vi strävar efter att skapa en arbetsmiljö
 där engagemang, delaktighet och utveckling står i fokus. Målarbetet är ett viktigt verktyg för att skapa tydlig riktning,
 förankra vår värdegrund och säkerställa att vi tillsammans når våra mål.
-Måluppbyggnad                   Under året har vi även arbetat aktivt och strukturerat med
-För att vårt målarbete ska fungera behövs en tydlig röd vår värdegrund genom workshops och gemensamma dia-
-tråd – från kommunens ägardirektiv hela vägen ner till loger. Syftet har varit att stärka samsynen kring våra gemen-
-handlingsplaner på individ- och avdelningsnivå. Processen samma förhållningssätt och hur värdegrunden omsätts i
-börjar med att styrelsen tar fram övergripande mål och en det dagliga arbetet – i mötet med kollegor, hyresgäster och
-affärsplan utifrån ägardirektiven och vår vision. Därefter samarbetspartners. Värdegrundsarbetet har varit ett viktigt
-formulerar ledningsgruppen fokusområden som ligger stöd i målarbetet och bidragit till ökad tydlighet, samarbete
-till grund för våra bolagsmål. De övergripande målen ger och engagemang.
+
+Måluppbyggnad
+För att vårt målarbete ska fungera behövs en tydlig röd
+tråd – från kommunens ägardirektiv hela vägen ner till
+handlingsplaner på individ- och avdelningsnivå. Processen
+börjar med att styrelsen tar fram övergripande mål och en
+affärsplan utifrån ägardirektiven och vår vision. Därefter
+formulerar ledningsgruppen fokusområden som ligger
+till grund för våra bolagsmål. De övergripande målen ger
 riktningen för hela verksamheten, och utifrån dessa skapar
-varje avdelning sina egna mål och handlingsplaner. Genom Ett av årets mest betydelsefulla mål har varit förvaltningens
-detta arbetssätt säkerställer vi att målen får en direkt påver- arbete med ökat återbruk. Detta har blivit ett gemensamt
-kan på verksamheten och att vi kan mäta eller stämma av fokus som genomsyrat verksamheten och bidragit till
-förändringar löpande.           ett mer hållbart resursutnyttjande. Arbetet med återbruk
-har också stärkt samverkan mellan avdelningar och ökat
-Att arbeta strukturerat med målarbetet på detta sätt ger medvetenheten kring hållbara val i både förvaltning och
-medarbetarna ökad förståelse för helheten och för varan- utveckling.
+varje avdelning sina egna mål och handlingsplaner. Genom
+detta arbetssätt säkerställer vi att målen får en direkt påver-
+kan på verksamheten och att vi kan mäta eller stämma av
+förändringar löpande.
+Att arbeta strukturerat med målarbetet på detta sätt ger
+medarbetarna ökad förståelse för helheten och för varan-
 dras roller i organisationen. Genom att göra målen tydliga
-och närvarande i vardagen stärker vi vår kultur som en Parallellt har vi fortsatt att utveckla vårt arbete med inno-
-lärande organisation. Vår värdegrund är en integrerad del vation och hållbarhet, med utgångspunkt i vår värdegrund
-av målarbetet och utgör grunden för hur vi agerar – internt och med hyresgästens behov i centrum. Sammantaget har
-såväl som externt. En gemensamt förankrad värdegrund 2025 blivit ett år där målarbetet omsatts i konkret handling
-bidrar till trygghet, trivsel och ett hållbart arbetsklimat, och och där vi gjort verklig skillnad – för våra medarbetare, våra
-är ett ansvar som delas av alla i organisationen. hyresgäster och vår långsiktiga utveckling.
-Målperiod 2025 – Året då vi gjorde skillnad Målarbete 2026 – Fortsatt fokus och tydlig struktur
-Under 2025 kortade vi ner målarbetet till ett år. Arbetssättet Under 2026 fortsätter vi att arbeta med ettårig målperiod.
-har gett oss bättre förutsättningar att möta förändringar i Arbetssättet ger oss goda förutsättningar att vara lyhör-
-omvärlden och att snabbt anpassa verksamheten efter nya da för förändringar i omvärlden och att snabbt anpassa
-behov. Under året har målarbetet haft en tydlig förankring i verksamheten. Våra bolagsmål är samlade under våra
-organisationen och präglats av hög delaktighet. ledord Ekonomi, Kvalitet, Service, Trivsel och Ansvar, vilket
+och närvarande i vardagen stärker vi vår kultur som en
+lärande organisation. Vår värdegrund är en integrerad del
+av målarbetet och utgör grunden för hur vi agerar – internt
+såväl som externt. En gemensamt förankrad värdegrund
+bidrar till trygghet, trivsel och ett hållbart arbetsklimat, och
+är ett ansvar som delas av alla i organisationen.
+Målperiod 2025 – Året då vi gjorde skillnad
+Under 2025 kortade vi ner målarbetet till ett år. Arbetssättet
+har gett oss bättre förutsättningar att möta förändringar i
+omvärlden och att snabbt anpassa verksamheten efter nya
+behov. Under året har målarbetet haft en tydlig förankring i
+organisationen och präglats av hög delaktighet.
+Fokus under 2025 har legat på att konkretisera målen och
+göra dem mer tillgängliga och relevanta i det dagliga arbe-
+tet. Genom ett mer levande och strukturerat målarbete har
+vi uppnått en hög måluppfyllnad.
+
+Under året har vi även arbetat aktivt och strukturerat med
+vår värdegrund genom workshops och gemensamma dia-
+loger. Syftet har varit att stärka samsynen kring våra gemen-
+samma förhållningssätt och hur värdegrunden omsätts i
+det dagliga arbetet – i mötet med kollegor, hyresgäster och
+samarbetspartners. Värdegrundsarbetet har varit ett viktigt
+stöd i målarbetet och bidragit till ökad tydlighet, samarbete
+och engagemang.
+Ett av årets mest betydelsefulla mål har varit förvaltningens
+arbete med ökat återbruk. Detta har blivit ett gemensamt
+fokus som genomsyrat verksamheten och bidragit till
+ett mer hållbart resursutnyttjande. Arbetet med återbruk
+har också stärkt samverkan mellan avdelningar och ökat
+medvetenheten kring hållbara val i både förvaltning och
+utveckling.
+Parallellt har vi fortsatt att utveckla vårt arbete med inno-
+vation och hållbarhet, med utgångspunkt i vår värdegrund
+och med hyresgästens behov i centrum. Sammantaget har
+2025 blivit ett år där målarbetet omsatts i konkret handling
+och där vi gjort verklig skillnad – för våra medarbetare, våra
+hyresgäster och vår långsiktiga utveckling.
+Målarbete 2026 – Fortsatt fokus och tydlig struktur
+Under 2026 fortsätter vi att arbeta med ettårig målperiod.
+Arbetssättet ger oss goda förutsättningar att vara lyhör-
+da för förändringar i omvärlden och att snabbt anpassa
+verksamheten. Våra bolagsmål är samlade under våra
+ledord Ekonomi, Kvalitet, Service, Trivsel och Ansvar, vilket
 skapar en tydlig struktur och en gemensam riktning för
-Fokus under 2025 har legat på att konkretisera målen och hela organisationen. Ledorden fungerar som en vägledning
-göra dem mer tillgängliga och relevanta i det dagliga arbe- i det dagliga arbetet och säkerställer att målarbetet är väl
-tet. Genom ett mer levande och strukturerat målarbete har förankrat i både verksamhetens behov och våra långsiktiga
-vi uppnått en hög måluppfyllnad. ambitioner.
+hela organisationen. Ledorden fungerar som en vägledning
+i det dagliga arbetet och säkerställer att målarbetet är väl
+förankrat i både verksamhetens behov och våra långsiktiga
+ambitioner.
+
 EKSTA MÅLARBETE 2025
 
 8
@@ -25855,7 +28011,6 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 VÅR HISTORIA
 
 Fjärås centrum
-
 Redan under 70-talet gjordes stora satsningar på ökad
 service i Fjärås. Man visste redan då att ett välfungerande
 centrum behövdes.
@@ -25864,17 +28019,29 @@ klara centrumet för Fjäråsborna. Här finns tillgång till affärer
 och service som fördras för både gamla och unga i ett väl
 fungerande samhälle”
 
-90-talet        1995             2006              2008
-Miljöfrågorna handlar Eksta blir ett aktiebolag. Vårt första passivhus upp- Kungsbackabostäder var
-under 90-talet handlar Vi har nu 10 anställda och förs på Karl-Johans väg i Kungsbackas kommunala
-mycket om sopsortering 814 lägenheter runt om i Frillesås. 2007 fanns det bostadsbolag. Grundat
-och energibesparing. Det kommunen. Tidigare har vi totalt 200 passivhus i Sve- 1948. Ägde och förvaltade
-byggs också flera ekobyar. köpt tjänster av Hsb Göte- rige. Nu är det standard för ca 1 300 lägenheter. Kom-
-Vi bygger Förlanda ekoby. borg. Vinner prestigefyllda oss på Eksta. munfullmäktige beslutar
-priset: Sabos miljöpris.           2008 att fusionera AB
+90-talet        1995              2006              2008
+
+Miljöfrågorna handlar Eksta blir ett aktiebolag.
+under 90-talet handlar Vi har nu 10 anställda och
+mycket om sopsortering 814 lägenheter runt om i
+och energibesparing. Det kommunen. Tidigare har vi
+byggs också flera ekobyar. köpt tjänster av Hsb Göte-
+Vi bygger Förlanda ekoby. borg. Vinner prestigefyllda
+priset: Sabos miljöpris.
+
+Vårt första passivhus upp- Kungsbackabostäder var
+förs på Karl-Johans väg i Kungsbackas kommunala
+Frillesås. 2007 fanns det bostadsbolag. Grundat
+totalt 200 passivhus i Sve- 1948. Ägde och förvaltade
+rige. Nu är det standard för ca 1 300 lägenheter. Kom-
+oss på Eksta.  munfullmäktige beslutar
+2008 att fusionera AB
+
 Kungsbackabostäder och
 Eksta,
+
 Utdrag ur Ekstas årsredovisning 1995
+
 ”All utveckling kräver förändringar. De rätta förändringarna
 ger en god utveckling. Det är inte de stora omorganisatio-
 nerna som skapar det effektiva och trivsamma företaget,
@@ -25910,38 +28077,64 @@ Hållbarhet är en naturlig och integrerad del av vårt uppdrag och arbetssätt.
 en helhetssyn på ekonomi, miljö och sociala frågor arbetar vi för att skapa bestående värden för både människor och
 samhälle. Vår ambition är att varje dag bidra till en hållbar utveckling – i förvaltning, utveckling och i mötet med våra
 hyresgäster.
-Vårt hållbarhetsarbete          Intressenter och väsentlighetsanalys
-Eksta har en tydlig vision om ett hållbart fastighetsägande Att förstå vilka hållbarhetsfrågor som är mest betydelsefulla
-och en grönare framtid genom förnybar energiproduktion. för våra intressenter är en central del av Ekstas hållbarhets-
-Hållbarhetsarbetet är integrerat i bolagets övergripande arbete. Vi fortsätter arbetet med att identifiera vår värdeked-
-verksamhetsstyrning genom policys, strategier, målarbete ja och våra viktigaste intressenter som grund för en uppda-
-och handlingsplaner och har pågått under hela 2025. I tider terad väsentlighetsanalys. Analysen ska ge vägledning och
-av ekonomisk osäkerhet blir det ännu viktigare att hålla fast tydlig riktning för vårt fortsatta arbete.
+
+Vårt hållbarhetsarbete
+Eksta har en tydlig vision om ett hållbart fastighetsägande
+och en grönare framtid genom förnybar energiproduktion.
+Hållbarhetsarbetet är integrerat i bolagets övergripande
+verksamhetsstyrning genom policys, strategier, målarbete
+och handlingsplaner och har pågått under hela 2025. I tider
+av ekonomisk osäkerhet blir det ännu viktigare att hålla fast
 vid våra hållbarhetsmål. Vi värnar om kvalitet, trygghet och
-effektiv resursanvändning – grundpelare som vi aldrig kom- Våra hyresgäster är våra viktigaste intressenter, och deras
-promissar med för kortsiktiga ekonomiska vinster. Vårt mål trivsel och trygghet är utgångspunkten för vår verksamhet.
-är att ha nöjda hyresgäster, engagerade medarbetare och Samtidigt är vår ägare, våra medarbetare och våra samar-
-en tillfredsställd ägare, samtidigt som vi bidrar till Kungs- betspartners avgörande för att vi ska nå våra mål. Genom
-backas positiva utveckling. Bra bostäder är alltid efterfråga- dialog och samverkan bygger vi långsiktiga relationer som
-de, men vad som definierar en god bostad förändras över bidrar till ett hållbart och ömsesidigt värdeskapande.
+effektiv resursanvändning – grundpelare som vi aldrig kom-
+promissar med för kortsiktiga ekonomiska vinster. Vårt mål
+är att ha nöjda hyresgäster, engagerade medarbetare och
+en tillfredsställd ägare, samtidigt som vi bidrar till Kungs-
+backas positiva utveckling. Bra bostäder är alltid efterfråga-
+de, men vad som definierar en god bostad förändras över
 tid. Därför arbetar vi med ett långsiktigt perspektiv för att
-skapa hållbara boendemiljöer och värde – både idag och Med utgångspunkt i de mest väsentliga hållbarhetsfrågor-
-för framtida generationer.      na fortsätter vi att fokusera på områden där vi har störst
-möjlighet att göra skillnad. Särskilt prioriterade områden
-Kommande hållbarhetsrapportering är kundnöjdhet, medarbetare och klimatpåverkan. Vä-
-Vi följer noggrant utvecklingen kring den nya EU-lag- sentlighetsanalysen är och förblir ett viktigt verktyg för att
-stiftningen CSRD. Även om det ännu inte är fastställt om säkerställa att vårt hållbarhetsarbete är relevant, fokuserat
-vi kommer att omfattas av de nya rapporteringskraven, och långsiktigt.
+skapa hållbara boendemiljöer och värde – både idag och
+för framtida generationer.
+Kommande hållbarhetsrapportering
+Vi följer noggrant utvecklingen kring den nya EU-lag-
+stiftningen CSRD. Även om det ännu inte är fastställt om
+vi kommer att omfattas av de nya rapporteringskraven,
 fortsätter vi att successivt förbereda oss genom att utveckla
-våra arbetssätt och säkerställa att våra processer är ända- Ekstas hållbarhetsarbete handlar om att ta ansvar – varje
-målsenliga och håller god kvalitet. dag. Genom medvetna val och kontinuerlig utveckling av
-våra metoder och processer skapar vi förutsättningar för
-De förändrade omfattningskraven innebär att vi har längre en hållbar framtid för våra hyresgäster, medarbetare och
-tid på oss att anpassa verksamheten, vilket ger oss möj- samhället i stort.
+våra arbetssätt och säkerställa att våra processer är ända-
+målsenliga och håller god kvalitet.
+De förändrade omfattningskraven innebär att vi har längre
+tid på oss att anpassa verksamheten, vilket ger oss möj-
 lighet att arbeta strukturerat och långsiktigt med frågorna.
 Samverkan inom branschen och dialog med vår bransch-
 organisation Sveriges Allmännytta är fortsatt viktiga delar i
 vårt förberedande arbete inför kommande krav.
+
+Intressenter och väsentlighetsanalys
+Att förstå vilka hållbarhetsfrågor som är mest betydelsefulla
+för våra intressenter är en central del av Ekstas hållbarhets-
+arbete. Vi fortsätter arbetet med att identifiera vår värdeked-
+ja och våra viktigaste intressenter som grund för en uppda-
+terad väsentlighetsanalys. Analysen ska ge vägledning och
+tydlig riktning för vårt fortsatta arbete.
+Våra hyresgäster är våra viktigaste intressenter, och deras
+trivsel och trygghet är utgångspunkten för vår verksamhet.
+Samtidigt är vår ägare, våra medarbetare och våra samar-
+betspartners avgörande för att vi ska nå våra mål. Genom
+dialog och samverkan bygger vi långsiktiga relationer som
+bidrar till ett hållbart och ömsesidigt värdeskapande.
+Med utgångspunkt i de mest väsentliga hållbarhetsfrågor-
+na fortsätter vi att fokusera på områden där vi har störst
+möjlighet att göra skillnad. Särskilt prioriterade områden
+är kundnöjdhet, medarbetare och klimatpåverkan. Vä-
+sentlighetsanalysen är och förblir ett viktigt verktyg för att
+säkerställa att vårt hållbarhetsarbete är relevant, fokuserat
+och långsiktigt.
+Ekstas hållbarhetsarbete handlar om att ta ansvar – varje
+dag. Genom medvetna val och kontinuerlig utveckling av
+våra metoder och processer skapar vi förutsättningar för
+en hållbar framtid för våra hyresgäster, medarbetare och
+samhället i stort.
+
 Hållbara bostäder skapar värde
 över generationer.
 
@@ -25954,7 +28147,7 @@ HÅLLBARHET FÖR EKSTA
 
 Återbruk        på   Eksta     –  små     steg    som
 
-gör   stor    skillnad
+gör    stor   skillnad
 
 Under 2025 tog vi tydliga steg mot ett mer systema-
 tiskt och cirkulärt arbetssätt inom återbruk. Utgångs-
@@ -25962,6 +28155,7 @@ punkten är enkel: jordens resurser är begränsade, och
 genom att ta tillvara det vi redan har kan vi minska
 avfall, hushålla bättre med material och samtidigt
 använda våra resurser mer effektivt i förvaltningen.
+
 Det arbete som inleddes under våren utvecklades
 snabbt från idé till handling. Inspirerade av andra aktörer
 inom branschen och med ett starkt engagemang i orga-
@@ -25970,36 +28164,37 @@ turer för återbruk. Arbetet har resulterat i etableringen
 av två återbrukshubbar – en med fokus på vitvaror, där
 utrustning testas, repareras och återanvänds, och en för
 övrigt material såsom köksluckor, innerdörrar, lampor
-för att utveckla och förankra arbetssättet. Genom
 och inredning.
-tydliga rutiner, gemensamma arbetssätt och praktiska
-lösningar har återbruk blivit en naturlig del av det dag-
 Digitalt verktyg internt
-liga arbetet och en gemensam angelägenhet i organi-
 För att stödja arbetet har vi infört ett digitalt verktyg, Pa-
-sationen.
 lats, som gör återbruket tillgängligt i vardagen. Genom
 verktyget kan medarbetare enkelt se vilken utrustning
-Årets återbruksraket
 som finns tillgänglig och välja återbruk som alternativ
-Vårt arbete med återbruk har under året uppmärk-
 till nyinköp. Det möjliggör mer resurseffektiva lösningar,
-sammats externt, och vi tilldelades utmärkelsen Årets
 exempelvis att ersätta en trasig vitvara med en bättre
-återbruksraket 2025 (fastighetsägare). Utmärkelsen är
 begagnad eller att återbruka delar av ett kök i stället
-ett kvitto på att vår satsning ligger i framkant och visar
 för att genomföra en fullständig renovering. Det digitala
-att omställningen till cirkulära arbetssätt kan genomför-
 stödet bidrar både till minskad klimatpåverkan och till
-as på kort tid – med rätt vilja, engagemang och mod att
 kostnadseffektivitet.
-prova nya lösningar.
 Invigning av återbrukshubb i våras
-Möjliga samarbeten
 Återbrukshubbarna drivs av ett engagerat team inom
-Parallellt har vi fört dialog och erfarenhetsutbyte med
 förvaltningen, där medarbetare frivilligt har klivit fram
+
+för att utveckla och förankra arbetssättet. Genom
+tydliga rutiner, gemensamma arbetssätt och praktiska
+lösningar har återbruk blivit en naturlig del av det dag-
+liga arbetet och en gemensam angelägenhet i organi-
+sationen.
+Årets återbruksraket
+Vårt arbete med återbruk har under året uppmärk-
+sammats externt, och vi tilldelades utmärkelsen Årets
+återbruksraket 2025 (fastighetsägare). Utmärkelsen är
+ett kvitto på att vår satsning ligger i framkant och visar
+att omställningen till cirkulära arbetssätt kan genomför-
+as på kort tid – med rätt vilja, engagemang och mod att
+prova nya lösningar.
+Möjliga samarbeten
+Parallellt har vi fört dialog och erfarenhetsutbyte med
 andra aktörer, däribland Kungsbacka kommun och
 Kungsbacka Andra Chans, som också arbetar aktivt
 med återbruk och cirkulära flöden. Samverkan och
@@ -26010,10 +28205,13 @@ blicka framåt mot möjliga samarbeten, säger Johanna
 Guldbrandsson, en av initiativtagarna på Eksta.
 Med återbrukshubbarna på plats har vi tagit ytterligare
 ett steg mot ett mer hållbart byggande och förvaltande.
+
 Återbruksgruppen
 Johan, William, David
 & Johanna
+
 Invigning av återbrukshubb
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 13
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
@@ -26127,47 +28325,81 @@ en viktig kanal både för
 hyresgäster och andra
 intressenter.
 
-Kundtjänst och kommunikation – tillgänglighet, kvalitet Mina sidor, e-post och sms. Beslutet föregicks av tydlig och
-och digital utveckling          långsiktig information till hyresgästerna och har visat sig
-Kundtjänst och kommunikation är centrala delar i Ekstas vara uppskattat. Kundnöjdheten kopplat till information har
-arbete med att skapa trygga, tillgängliga och välfungerande ökat markant, samtidigt som kommunikationen blivit mer
-boendemiljöer. Genom personlig service, tydliga kontakt- effektiv och hållbar.
+Kundtjänst och kommunikation – tillgänglighet, kvalitet
+och digital utveckling
+Kundtjänst och kommunikation är centrala delar i Ekstas
+arbete med att skapa trygga, tillgängliga och välfungerande
+boendemiljöer. Genom personlig service, tydliga kontakt-
 vägar och kontinuerlig utveckling av digitala tjänster skapar
-vi goda förutsättningar för dialog och förtroende. Ny webbplats – tillgänglig, tydlig och användarvänlig
-Under 2025 lanserade vi en ny webbplats som en del av
-Personlig service med högt förtroende den fortsatta digitala utvecklingen. Webbplatsen har tagits
-I Ekstas kundtjänst arbetar erfarna medarbetare som varje fram med fokus på tydlighet, tillgänglighet och användar-
-dag strävar efter att ge våra hyresgäster ett professionellt, vänlighet, för att göra det enkelt för våra hyresgäster att
-tryggt och tillgängligt bemötande. Kundundersökningar hitta relevant information och utföra sina ärenden. Samtidigt
-visar fortsatt hög kundnöjdhet när det gäller service och ska webbplatsen fungera som en tydlig och informativ
-bemötande, vilket bekräftar det stora förtroendet för vår kanal även för andra intressenter.
+vi goda förutsättningar för dialog och förtroende.
+Personlig service med högt förtroende
+I Ekstas kundtjänst arbetar erfarna medarbetare som varje
+dag strävar efter att ge våra hyresgäster ett professionellt,
+tryggt och tillgängligt bemötande. Kundundersökningar
+visar fortsatt hög kundnöjdhet när det gäller service och
+bemötande, vilket bekräftar det stora förtroendet för vår
 kundtjänst.
-Som en del av lanseringen har vi även kopplat på ett
-Kundtjänst tar emot felanmälningar och frågor via telefon, tillgänglighetsverktyg som ger användaren möjlighet att
-e-post och chatt under våra öppettider. Hyresgästerna kan anpassa innehållet utifrån individuella behov, exempelvis
-även göra felanmälan digitalt dygnet runt via Mina sidor, genom förändrad textstorlek, kontrast eller uppläsning. På
-vilket bidrar till ökad tillgänglighet och flexibilitet. så sätt stärker vi tillgängligheten och säkerställer att vår
-digitala kommunikation är inkluderande och användbar för
-För att skapa bättre förutsättningar för kvalitativ service fler.
+Kundtjänst tar emot felanmälningar och frågor via telefon,
+e-post och chatt under våra öppettider. Hyresgästerna kan
+även göra felanmälan digitalt dygnet runt via Mina sidor,
+vilket bidrar till ökad tillgänglighet och flexibilitet.
+För att skapa bättre förutsättningar för kvalitativ service
 och en hållbar arbetssituation justerades kundtjänstens
-öppettider under föregående år. De anpassade öppettider- Chatt, självservice och vår digitala medarbetare Solvi
-na har gjort det enklare att ge snabbare och mer träffsäker Chattfunktionen på vår webbplats är ett välanvänt kom-
-återkoppling, utan att påverka tillgängligheten negativt. plement till telefon och e-post och ger hyresgäster snabb
-Under 2025 syns inga märkbara förändringar i kundnöjdhet kontakt med oss. Tillsammans med vår FAQ, som innehåller
-kopplat till telefontiderna, och förtroendet för kundtjänstens svar på vanliga frågor, och ett vidareutvecklat kontaktfor-
-bemötande och service är fortsatt högt. mulär blir det enkelt att hitta rätt information eller komma i
-kontakt med rätt funktion.
+öppettider under föregående år. De anpassade öppettider-
+na har gjort det enklare att ge snabbare och mer träffsäker
+återkoppling, utan att påverka tillgängligheten negativt.
+Under 2025 syns inga märkbara förändringar i kundnöjdhet
+kopplat till telefontiderna, och förtroendet för kundtjänstens
+bemötande och service är fortsatt högt.
 Digitala tjänster som förenklar vardagen
-Efter lanseringen av nya Mina sidor i samband med byte När kundtjänst är stängd tar vår chattbot Solvi vid. Solvi
-av fastighetssystem har den digitala användningen fortsatt lanserades i samband med den nya hemsidan och fungerar
-att öka. Via Mina sidor kan hyresgäster enkelt följa status som en digital medarbetare som kan svara på vanliga frågor
-på sina ärenden, ta del av hyresavier och betalningshistorik och guida hyresgäster vidare. Hon finns tillgänglig via vår
-samt söka bostad via internkön. All kundinformation som webbplats och bidrar till ökad service och tillgänglighet
-tidigare fanns i lägenhetspärmar är nu samlad digitalt, vilket även utanför ordinarie öppettider. Namnet Solvi är en kom-
-skapar bättre överblick och tillgänglighet. Under föregå- bination av sol, som speglar vårt hållbarhetsfokus, och vi,
-ende år tog vi steget till att kommunicera helt digitalt via som står för gemenskap.
+Efter lanseringen av nya Mina sidor i samband med byte
+av fastighetssystem har den digitala användningen fortsatt
+att öka. Via Mina sidor kan hyresgäster enkelt följa status
+på sina ärenden, ta del av hyresavier och betalningshistorik
+samt söka bostad via internkön. All kundinformation som
+tidigare fanns i lägenhetspärmar är nu samlad digitalt, vilket
+skapar bättre överblick och tillgänglighet. Under föregå-
+ende år tog vi steget till att kommunicera helt digitalt via
+
+Mina sidor, e-post och sms. Beslutet föregicks av tydlig och
+långsiktig information till hyresgästerna och har visat sig
+vara uppskattat. Kundnöjdheten kopplat till information har
+ökat markant, samtidigt som kommunikationen blivit mer
+effektiv och hållbar.
+Ny webbplats – tillgänglig, tydlig och användarvänlig
+Under 2025 lanserade vi en ny webbplats som en del av
+den fortsatta digitala utvecklingen. Webbplatsen har tagits
+fram med fokus på tydlighet, tillgänglighet och användar-
+vänlighet, för att göra det enkelt för våra hyresgäster att
+hitta relevant information och utföra sina ärenden. Samtidigt
+ska webbplatsen fungera som en tydlig och informativ
+kanal även för andra intressenter.
+Som en del av lanseringen har vi även kopplat på ett
+tillgänglighetsverktyg som ger användaren möjlighet att
+anpassa innehållet utifrån individuella behov, exempelvis
+genom förändrad textstorlek, kontrast eller uppläsning. På
+så sätt stärker vi tillgängligheten och säkerställer att vår
+digitala kommunikation är inkluderande och användbar för
+fler.
+Chatt, självservice och vår digitala medarbetare Solvi
+Chattfunktionen på vår webbplats är ett välanvänt kom-
+plement till telefon och e-post och ger hyresgäster snabb
+kontakt med oss. Tillsammans med vår FAQ, som innehåller
+svar på vanliga frågor, och ett vidareutvecklat kontaktfor-
+mulär blir det enkelt att hitta rätt information eller komma i
+kontakt med rätt funktion.
+När kundtjänst är stängd tar vår chattbot Solvi vid. Solvi
+lanserades i samband med den nya hemsidan och fungerar
+som en digital medarbetare som kan svara på vanliga frågor
+och guida hyresgäster vidare. Hon finns tillgänglig via vår
+webbplats och bidrar till ökad service och tillgänglighet
+även utanför ordinarie öppettider. Namnet Solvi är en kom-
+bination av sol, som speglar vårt hållbarhetsfokus, och vi,
+som står för gemenskap.
+
 Sedan lanseringen i juni 2025 har Solvi svarat på 1 258 chattar
 och kunnat avhjälpa 74 procent av frågorna.
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 15
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
@@ -26452,115 +28684,198 @@ Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 640 -->
 
+Mål- och värdegrundsarbete – ett gemensamt arbete
+Under året har det arbetats strukturerat med vårt mål- och
+värdegrundsarbete, ett arbete som både syftar till utveck-
+ling och till att skapa delaktighet hos våra medarbetare.
+Målperioden för 2025 färdigställdes vid årsskiftet och resul-
+taten redovisar vi i början av 2026. Parallellt har arbetsgrup-
+perna under senhösten arbetat fram nya konkreta mål för
+2026 vilka vi presenterade för varandra i december. Mål och
+handlingsplaner tydliggör riktningen för medarbetarna och
+stärker kopplingen till det dagliga arbetet.
+Målarbetet följer en tydlig struktur, från kommunens
+ägardirektiv och styrelsens affärsplan till bolagsmål, avdel-
+ningsmål och individuella handlingsplaner. Detta skapar
+en gemensam förståelse för helheten, tydliggör ansvar
+och möjliggör löpande uppföljning. Värdegrunden är en
+integrerad del av målarbetet och utgör grunden för hur vi
+agerar, både internt och i mötet med våra hyresgäster och
+samarbetspartners.
+Under 2025 valde vi att arbeta med en ettårig målperiod
+för att öka flexibiliteten och bättre kunna möta förändringar.
+Arbetssättet har bidragit till hög delaktighet och tydligare
+mer konkreta mål varför vi kopierar konceptet även under
+2026\. Parallellt har värdegrundsarbetet bedrivits genom
+gemensamma dialoger och workshops, vilket har stärkt
+medarbetarnas samsyn, engagemang och samarbete i
+organisationen.
+Personalomsättning, rekrytering och introduktion
+På årets sista dag hade Eksta 56 anställda. Under 2025 var
+personalomsättningen 3,9 % (12,2 % 2024). Två personer har
+slutat sin anställning, en för att gå vidare till annat arbete
+och en för att gå i pension. En person har bytt jobb internt.
+Vi har under året välkomnat fem nya medarbetare.
+Nyanställda genomgår en uppskattad intern introduktion
+i början av sin anställning. Under introduktionens första
+veckor följer den nyanställda bolagets medarbetare i deras
+olika arbetsmiljöer. Genom introduktionen får den nyan-
+ställda möjlighet att tidigt lära känna sina kollegor och få
+en överblick över deras arbetsuppgifter och yrkesroller. Det
+ger också en tidig förståelse för verksamheten och bolagets
+olika delar. Det bidrar till att den nyanställda snabbare får
+en överblick av organisationen. Praktikanter och nyanställda
+bjuds i början av sin tid på bolaget även in till en mer över-
+gripande HR-presentation av Eksta som bolag.
+Som nyanställd på Eksta är det även bra att få en god insyn
+i och förståelse för fastighetsbranschen varför alla genom-
+går ett antal introduktionsutbildningar. Där får man bland
+annat en inblick i vår särskilda roll som allmännyttigt bo-
+stadsbolag men även kunskap i hur man kan förebygga och
+bemöta situationer där det finns risk för hot och våld. Nya
+medarbetare medverkar exempelvis på kursen “Flygande
+start på jobbet” – en utbildning som anordnas av Sveriges
+Allmännytta och är till för alla oavsett befattning. Den ger
+en grundlig och bra översikt över olika områden som man
+kommer i kontakt med inom ett allmännyttigt bostadsbolag.
+Vägar in i fastighetsbranschen
+Olika sätt att väcka intresse för vår verksamhet och bransch
+är att erbjuda prao, praktik, examensarbete och sommar-
+jobb för ungdomar och studerande. Vi deltar också aktivt
+på mässor och i olika arrangemang anordnade av bransch-
+Dokument-ID 09222115557571174859
+
 SOCIAL HÅLLBARHET
 
-Mål- och värdegrundsarbete – ett gemensamt arbete och utbildningssamordnare. Fastighetsbranschen har en
-Under året har det arbetats strukturerat med vårt mål- och hög medelålder och står inför många pensionsavgångar
-värdegrundsarbete, ett arbete som både syftar till utveck- framöver, vilket gör att det är extra viktigt att marknadsföra
-ling och till att skapa delaktighet hos våra medarbetare. oss och locka unga talanger till vår verksamhet.
-Målperioden för 2025 färdigställdes vid årsskiftet och resul- Under året har flera ungdomar från högstadiet, gymnasiet
-taten redovisar vi i början av 2026. Parallellt har arbetsgrup- och yrkeshögskolan haft prao eller gjort sin praktik på våra
-perna under senhösten arbetat fram nya konkreta mål för olika avdelningar. Under sommaren erbjöd vi 18 ungdomar
-2026 vilka vi presenterade för varandra i december. Mål och mellan 16 och 20 år möjligheten att prova på arbete inom
-handlingsplaner tydliggör riktningen för medarbetarna och fastighetsbranschen. Att ta emot studenter under deras
-stärker kopplingen till det dagliga arbetet. praktikperioder är även det ett bra sätt för oss att bekanta
+och utbildningssamordnare. Fastighetsbranschen har en
+hög medelålder och står inför många pensionsavgångar
+framöver, vilket gör att det är extra viktigt att marknadsföra
+oss och locka unga talanger till vår verksamhet.
+Under året har flera ungdomar från högstadiet, gymnasiet
+och yrkeshögskolan haft prao eller gjort sin praktik på våra
+olika avdelningar. Under sommaren erbjöd vi 18 ungdomar
+mellan 16 och 20 år möjligheten att prova på arbete inom
+fastighetsbranschen. Att ta emot studenter under deras
+praktikperioder är även det ett bra sätt för oss att bekanta
 oss med varandra. Studenten får en inblick i arbetsuppgif-
-Målarbetet följer en tydlig struktur, från kommunens terna inom yrket, vi får en möjlighet att bidra till att studen-
-ägardirektiv och styrelsens affärsplan till bolagsmål, avdel- ten får en god bild av arbetslivet och vi får även se om vi
-ningsmål och individuella handlingsplaner. Detta skapar passar för varandra inför en eventuell framtida anställning.
-en gemensam förståelse för helheten, tydliggör ansvar
-och möjliggör löpande uppföljning. Värdegrunden är en Kompetensutveckling
-integrerad del av målarbetet och utgör grunden för hur vi På Eksta vill vi skapa en arbetsplats där medarbetare har
-agerar, både internt och i mötet med våra hyresgäster och möjlighet att växa och utvecklas. Genom att ge individen
-samarbetspartners.              chans att utvecklas i sin egen roll och växa inom bolaget,
+terna inom yrket, vi får en möjlighet att bidra till att studen-
+ten får en god bild av arbetslivet och vi får även se om vi
+passar för varandra inför en eventuell framtida anställning.
+Kompetensutveckling
+På Eksta vill vi skapa en arbetsplats där medarbetare har
+möjlighet att växa och utvecklas. Genom att ge individen
+chans att utvecklas i sin egen roll och växa inom bolaget,
 tror vi att vi inte bara kan attrahera och rekrytera kompe-
-Under 2025 valde vi att arbeta med en ettårig målperiod tent personal, utan också behålla dem länge. På de årliga
-för att öka flexibiliteten och bättre kunna möta förändringar. utvecklingssamtalen samtalar vi om varje medarbetares
-Arbetssättet har bidragit till hög delaktighet och tydligare förutsättningar, behov och önskemål. I den individuella
-mer konkreta mål varför vi kopierar konceptet även under utvecklingsplanen fokuserar vi på att sätta mål och skapa
-2026\. Parallellt har värdegrundsarbetet bedrivits genom utvecklingsvägar som gynnar både den anställde, arbets-
-gemensamma dialoger och workshops, vilket har stärkt gruppen och bolaget som helhet. Under året har det ge-
-medarbetarnas samsyn, engagemang och samarbete i nomförts både interna och externa kurser och utbildningar,
-organisationen.                 både för enskilda medarbetare och i grupp.
-Personalomsättning, rekrytering och introduktion Att vara en lärande organisation är ett av våra bolagsmål
-På årets sista dag hade Eksta 56 anställda. Under 2025 var och när det gäller introduktion är det väl så viktigt att ta
-personalomsättningen 3,9 % (12,2 % 2024). Två personer har tillvara på äldre och mer erfarna medarbetares kunskaper.
-slutat sin anställning, en för att gå vidare till annat arbete Detta görs bland annat genom praktik och bredvidgång.
-och en för att gå i pension. En person har bytt jobb internt. När vi har möjlighet, som när någon tidigt aviserar sin pen-
-Vi har under året välkomnat fem nya medarbetare. sionsavgång, rekryterar vi i god tid för att ge den nyanställ-
+tent personal, utan också behålla dem länge. På de årliga
+utvecklingssamtalen samtalar vi om varje medarbetares
+förutsättningar, behov och önskemål. I den individuella
+utvecklingsplanen fokuserar vi på att sätta mål och skapa
+utvecklingsvägar som gynnar både den anställde, arbets-
+gruppen och bolaget som helhet. Under året har det ge-
+nomförts både interna och externa kurser och utbildningar,
+både för enskilda medarbetare och i grupp.
+Att vara en lärande organisation är ett av våra bolagsmål
+och när det gäller introduktion är det väl så viktigt att ta
+tillvara på äldre och mer erfarna medarbetares kunskaper.
+Detta görs bland annat genom praktik och bredvidgång.
+När vi har möjlighet, som när någon tidigt aviserar sin pen-
+sionsavgång, rekryterar vi i god tid för att ge den nyanställ-
 da en så lång introduktion och bredvidgång som möjligt.
-Nyanställda genomgår en uppskattad intern introduktion Vi fortsätter även arbetet med internt lärande genom
-i början av sin anställning. Under introduktionens första erfarenhetsutbyte. Detta görs till exempel genom praktik på
-veckor följer den nyanställda bolagets medarbetare i deras varandras avdelningar. Då ges möjlighet att utbyta erfaren-
-olika arbetsmiljöer. Genom introduktionen får den nyan- heter med varandra och få en ökad förståelse för varandras
-ställda möjlighet att tidigt lära känna sina kollegor och få arbetsuppgifter och arbetssituation. Vi har även ett erfaren-
-en överblick över deras arbetsuppgifter och yrkesroller. Det hetsutbyte med andra fastighetsbolag där vi till exempel
-ger också en tidig förståelse för verksamheten och bolagets besöker varandras verksamheter och deltar på nätverksträf-
-olika delar. Det bidrar till att den nyanställda snabbare får far inom våra olika arbetsområden.
-en överblick av organisationen. Praktikanter och nyanställda
-bjuds i början av sin tid på bolaget även in till en mer över- Chefer och skyddsombud ska ha god kunskap om hur de
-gripande HR-presentation av Eksta som bolag. ska arbeta i det systematiska arbetsmiljöarbetet och har
+Vi fortsätter även arbetet med internt lärande genom
+erfarenhetsutbyte. Detta görs till exempel genom praktik på
+varandras avdelningar. Då ges möjlighet att utbyta erfaren-
+heter med varandra och få en ökad förståelse för varandras
+arbetsuppgifter och arbetssituation. Vi har även ett erfaren-
+hetsutbyte med andra fastighetsbolag där vi till exempel
+besöker varandras verksamheter och deltar på nätverksträf-
+far inom våra olika arbetsområden.
+Chefer och skyddsombud ska ha god kunskap om hur de
+ska arbeta i det systematiska arbetsmiljöarbetet och har
 under året gått olika arbetsmiljö- och ledarskapsutbildning-
-Som nyanställd på Eksta är det även bra att få en god insyn ar. Andra kurser och utbildningar som våra anställda deltagit
-i och förståelse för fastighetsbranschen varför alla genom- på har till exempel varit inom brandskydd, sprinkler, vitvaror,
-går ett antal introduktionsutbildningar. Där får man bland byggregler och projektledare inom fjärrvärme med flera
-annat en inblick i vår särskilda roll som allmännyttigt bo- inom det tekniska områden. Vi har också haft deltagare på
-stadsbolag men även kunskap i hur man kan förebygga och kurser inom kriskommunikation, fastighetsjuridik, Arbets-
-bemöta situationer där det finns risk för hot och våld. Nya miljöverkets nya föreskrifter, förebygga och bemöta hot &
-medarbetare medverkar exempelvis på kursen “Flygande våld samt flera olika administrativa kurser inom ekonomi- /
-start på jobbet” – en utbildning som anordnas av Sveriges HR- och hyresområdet.
-Allmännytta och är till för alla oavsett befattning. Den ger
-en grundlig och bra översikt över olika områden som man Vi fortsätter att digitalisera
-kommer i kontakt med inom ett allmännyttigt bostadsbolag. Implementeringen av nya datasystem går vidare. Under året
+ar. Andra kurser och utbildningar som våra anställda deltagit
+på har till exempel varit inom brandskydd, sprinkler, vitvaror,
+byggregler och projektledare inom fjärrvärme med flera
+inom det tekniska områden. Vi har också haft deltagare på
+kurser inom kriskommunikation, fastighetsjuridik, Arbets-
+miljöverkets nya föreskrifter, förebygga och bemöta hot &
+våld samt flera olika administrativa kurser inom ekonomi- /
+HR- och hyresområdet.
+Vi fortsätter att digitalisera
+Implementeringen av nya datasystem går vidare. Under året
 har bland annat Palats införts, ett system där det nystarta-
-Vägar in i fastighetsbranschen  de arbetet kring internt återbruk hanteras, ett arbete som
-Olika sätt att väcka intresse för vår verksamhet och bransch en handfull medarbetare driver framgångsrikt. Ett annat
-är att erbjuda prao, praktik, examensarbete och sommar- system är Hailey HR, där HR påbörjat arbetet med att gå
-jobb för ungdomar och studerande. Vi deltar också aktivt över till ett tryggt och säkert digitalt system. Systemet ska
-på mässor och i olika arrangemang anordnade av bransch- ge oss ett ökat digitalt stöd och underlätta administrationen
+de arbetet kring internt återbruk hanteras, ett arbete som
+en handfull medarbetare driver framgångsrikt. Ett annat
+system är Hailey HR, där HR påbörjat arbetet med att gå
+över till ett tryggt och säkert digitalt system. Systemet ska
+ge oss ett ökat digitalt stöd och underlätta administrationen
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 19
-Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 641 -->
 
 SOCIAL HÅLLBARHET
 
-för HR och chefer, automatisera flöden och ge möjlighet Friskvård
-till en större transparens och högre service av personalin- Vi arbetar aktivt med förebyggande och hälsofrämjande in-
-formation till våra medarbetare. Helt enkelt kvalitetssäkra satser för att främja medarbetarnas välmående. Fruktkorgar
-våra HR-processer. Inte minst är systemet till för en ökad levereras till våra olika arbetsställen och varje fredag sam-
-IT-säkerhet och för att säkerställa en trygg personuppgifts- las vi för en gemensam frukost på våra olika arbetsställen.
-hantering enia på med mer detaljrik information och jobba En trevlig och viktig stund för att stärka vår sammanhållning
-vidare med att finkalibrera nya arbetssätt. och gemenskap.
-Arbetsmiljö                     Friskvårdsbidraget är generöst och ger våra medarbetare
-Vi arbetar löpande med det systematiska arbetsmiljö- möjlighet att välja de aktiviteter som de bäst anser främja
-arbetet. Här ska beaktas fysiska, psykiska, sociala och ett friskare och mer hälsosamt liv. Dessutom kan med-
-organisatoriska aspekter. Uppföljning sker genom årliga arbetarna leasa en personalcykel för att underlätta aktiv
-utvecklingssamtal, avdelningsmöten och skyddsronder och transport, både till och från jobbet och på fritiden. Vi är
-vår skyddskommitté diskuterar och samråder i arbetsmil- medvetna om att både stillasittande och fysiskt krävande
-jöfrågor. Vi strävar ständigt efter att förbättra arbetsmiljön arbeten kan påverka hälsan negativt, särskilt när det gäller
-i det dagliga arbetet och utvärderar tillbud för att minska rygg- och nackbesvär. Därför har vi en legitimerad massör/
-riskerna.                       osteopat som besöker oss en gång i månaden och erbjuder
-massage till ett förmånligt pris. Vår företagshälsovård ge-
-För att säkerställa en god arbetsmiljö är ett aktivt och nomför hälsokontroller och ger då även individuella råd om
-gemensamt engagemang nödvändigt för att förebygga hur medarbetaren kan arbeta hälsoförebyggande. Vår frisk-
-framtida risker och arbetsskador. Anmälda och åtgärdade vårdsgrupp arrangerar trevliga gemensamma aktiviteter
-tillbud och arbetsskador rapporteras och hanteras enligt några gånger om året, aktiviteter som vi hoppas ska främja
-fastställda rutiner.            både hälsa och gemenskap bland personalen.
+för HR och chefer, automatisera flöden och ge möjlighet
+till en större transparens och högre service av personalin-
+formation till våra medarbetare. Helt enkelt kvalitetssäkra
+våra HR-processer. Inte minst är systemet till för en ökad
+IT-säkerhet och för att säkerställa en trygg personuppgifts-
+hantering enia på med mer detaljrik information och jobba
+vidare med att finkalibrera nya arbetssätt.
+Arbetsmiljö
+Vi arbetar löpande med det systematiska arbetsmiljö-
+arbetet. Här ska beaktas fysiska, psykiska, sociala och
+organisatoriska aspekter. Uppföljning sker genom årliga
+utvecklingssamtal, avdelningsmöten och skyddsronder och
+vår skyddskommitté diskuterar och samråder i arbetsmil-
+jöfrågor. Vi strävar ständigt efter att förbättra arbetsmiljön
+i det dagliga arbetet och utvärderar tillbud för att minska
+riskerna.
+För att säkerställa en god arbetsmiljö är ett aktivt och
+gemensamt engagemang nödvändigt för att förebygga
+framtida risker och arbetsskador. Anmälda och åtgärdade
+tillbud och arbetsskador rapporteras och hanteras enligt
+fastställda rutiner.
 Sjukfrånvaro
 Under året har sjukfrånvaron minskat till 4,6 %, tillbaka till
 nivån för 2023 som då var 4,8%. Stora delar av sjukfrånvaron
 avser ett par tre anställda som varit helt eller delvis sjuk-
 skrivna under hela eller delar av 2025, främst på grund av
 medicinska problem.
+
+20
+Dokument-ID 09222115557571174859
+
+Friskvård
+Vi arbetar aktivt med förebyggande och hälsofrämjande in-
+satser för att främja medarbetarnas välmående. Fruktkorgar
+levereras till våra olika arbetsställen och varje fredag sam-
+las vi för en gemensam frukost på våra olika arbetsställen.
+En trevlig och viktig stund för att stärka vår sammanhållning
+och gemenskap.
+Friskvårdsbidraget är generöst och ger våra medarbetare
+möjlighet att välja de aktiviteter som de bäst anser främja
+ett friskare och mer hälsosamt liv. Dessutom kan med-
+arbetarna leasa en personalcykel för att underlätta aktiv
+transport, både till och från jobbet och på fritiden. Vi är
+medvetna om att både stillasittande och fysiskt krävande
+arbeten kan påverka hälsan negativt, särskilt när det gäller
+rygg- och nackbesvär. Därför har vi en legitimerad massör/
+osteopat som besöker oss en gång i månaden och erbjuder
+massage till ett förmånligt pris. Vår företagshälsovård ge-
+nomför hälsokontroller och ger då även individuella råd om
+hur medarbetaren kan arbeta hälsoförebyggande. Vår frisk-
+vårdsgrupp arrangerar trevliga gemensamma aktiviteter
+några gånger om året, aktiviteter som vi hoppas ska främja
+både hälsa och gemenskap bland personalen.
+
 Friskvård hos Eksta
 handlar om rörelse, glädje och
 gemenskap. I år spelade vi bland
 annat brännboll – med fullt fokus på
 laganda och skratt!
 
-20
-Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 642 -->
 
@@ -26617,117 +28932,121 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 SOCIAL HÅLLBARHET
 
-Så bidrar vi lokalt och         Ekstaprojektet – fastighetsbranschen i praktiken
+Så bidrar vi lokalt och
+nationellt
+
+Som allmännyttigt bostadsbolag ser vi oss som en viktig
+samhällsaktör. Genom engagemang, samverkan och
+sponsring vill vi bidra till levande, trygga och inkluderan-
+de platser – både i våra bostadsområden och i samhället
+i stort.
+Närvaro på lokala mötesplatser och evenemang
+Under året har vi deltagit i flera lokala arrangemang där
+våra hyresgäster och andra invånare möts. I Fjärås har
+föreningen Hela Fjärås, som delvis består av hyresgäster
+och lokalhyresgäster, bildats med målet att skapa ett mer
+levande samhälle. Föreningen har under året arrangerat
+flera uppskattade aktiviteter på Fjärås torg, däribland en
+hantverksmarknad i april som vi deltog i.
+Vi har haft rollen som bollplank och bidragit med enkla-
+re sponsring och praktiskt stöd. Arrangemanget var väl
+genomfört och lockade många besökare. För oss var det
+särskilt värdefullt att möta hyresgäster, se engagemanget
+i området och bidra till att Fjärås torg fortsätter utvecklas
+som en levande mötesplats.
+I april deltog vi även på Särödagen, som arrangerades av
+Nordic Wellness i Särö. Där fanns vi på plats för att informe-
+ra om och samtala kring vårt kommande trygghetsboende
+i Särö. Att delta i lokala evenemang är ett viktigt sätt för oss
+att vara synliga och tillgängliga på platser där våra hyres-
+gäster redan befinner sig. Under hösten deltog vi också på
+bostadsmässan Bonytt, arrangerad av Boplats, som hölls på
+Clarion Hotel i Göteborg. Mässan hade många besökare och
+intresset för Kungsbacka som boendekommun var stort.
+Särskilt många frågor handlade om trygghetsboenden,
+vilket bekräftar ett växande behov och intresse för denna
+boendeform.
+Sponsring som stärker gemenskap och trygghet
+Varje år stödjer vi föreningar och organisationer som bidrar
+till aktivitet, gemenskap och trygghet i våra områden eller
+erbjuder verksamheter som kommer våra hyresgäster till
+del. En stor del av vår sponsring riktas mot ungdomsverk-
+samhet och idrott, med utgångspunkt i ett jämställdhets-
+och likabehandlingsperspektiv. Det är viktigt att mottag-
+ande förening eller verksamhet delar Ekstas värderingar,
+och all sponsring sker i enlighet med vår sponsringspolicy.
+Utöver idrott och föreningsliv sponsrar vi även organi-
+sationer som bidrar till tryggare och mer välfungerande
+områden. Under året har vi bland annat fortsatt att stödja
+Nattvandrarna. Nytt för i år är sponsring av Bostället 2.0, en
+förening som driver en fritidsgård i Frillesås och erbjuder
+ungdomar en trygg och meningsfull plats att vistas på.
+Vi har även sponsrat grundskolan med viktigt pedagogiskt
+material, bland annat kopplat till digital närvaro och trygg-
+het på nätet – ett område som är av stor betydelse för barn
+och unga idag.
+22
+Dokument-ID 09222115557571174859
+
+Ekstaprojektet – fastighetsbranschen i praktiken
 Under året har vi fortsatt vårt långvariga samarbete med
 Teknikcollege i Kungsbacka. Samarbetet, som nu pågått
-nationellt
 i 18 år, sker i nära samverkan med gymnasieskolan och
 näringslivet och syftar till att ge eleverna verklighetsnära
 erfarenheter samtidigt som vi bidrar till att väcka intresse för
-Som allmännyttigt bostadsbolag ser vi oss som en viktig
 fastighets- och samhällsbyggnadsbranschen. Utbildningen
-samhällsaktör. Genom engagemang, samverkan och
 är certifierad som Teknikcollege, vilket innebär ett tydligt
-sponsring vill vi bidra till levande, trygga och inkluderan-
 fokus på samarbete med arbetslivet. Verksamheten är idag
-de platser – både i våra bostadsområden och i samhället
 samlad på Lindälvsgymnasiet, där elever i årskurs ett på
-i stort.
 teknikprogrammet varje år deltar i det så kallade Ekstapro-
 jektet.
-Närvaro på lokala mötesplatser och evenemang
-Under året har vi deltagit i flera lokala arrangemang där
 Under vårterminen 2025 arbetade eleverna med ett skarpt
-våra hyresgäster och andra invånare möts. I Fjärås har
 uppdrag kopplat till Ekstas utveckling av Boställets väg,
-föreningen Hela Fjärås, som delvis består av hyresgäster
 etapp 3 i Frillesås. Projektet omfattade bland annat fram-
-och lokalhyresgäster, bildats med målet att skapa ett mer
 tagande av planlösningar, energiberäkningar för värme
-levande samhälle. Föreningen har under året arrangerat
 och varmvatten samt analyser av solenergi. Eleverna fick
-flera uppskattade aktiviteter på Fjärås torg, däribland en
 därmed möjlighet att arbeta med samma frågeställning-
-hantverksmarknad i april som vi deltog i.
 ar och processer som förekommer i verkliga bygg- och
 fastighetsprojekt. Eksta bidrar med sakkunskap från den
-Vi har haft rollen som bollplank och bidragit med enkla-
 egna organisationen och kompletterar med kompetens
-re sponsring och praktiskt stöd. Arrangemanget var väl
 från arkitekt, VVS-konsult och byggentreprenör. Arbetena
-genomfört och lockade många besökare. För oss var det
 presenterades och examinerades inför klasskamrater och
-särskilt värdefullt att möta hyresgäster, se engagemanget
 en jury bestående av branschrepresentanter samt Ekstas
-i området och bidra till att Fjärås torg fortsätter utvecklas
 vd, med återkoppling på både innehåll och presentation.
-som en levande mötesplats.
 Ekstas hållbarhetspris – att uppmuntra framtidens sam-
-I april deltog vi även på Särödagen, som arrangerades av
 hällsbyggare
-Nordic Wellness i Särö. Där fanns vi på plats för att informe-
 Som en del av samarbetet med Teknikcollege deltar
-ra om och samtala kring vårt kommande trygghetsboende
 Eksta även vid examensceremonin för avgångseleverna. I
-i Särö. Att delta i lokala evenemang är ett viktigt sätt för oss
 samband med detta delar vi ut Ekstas hållbarhetspris, ett
-att vara synliga och tillgängliga på platser där våra hyres-
 stipendium som uppmärksammar elevprojekt med särskilt
-gäster redan befinner sig. Under hösten deltog vi också på
 fokus på hållbar utveckling inom samhällsbyggande.
-bostadsmässan Bonytt, arrangerad av Boplats, som hölls på
-Clarion Hotel i Göteborg. Mässan hade många besökare och
 År 2025 tilldelades priset om 5 000 kronor Leo Bengtsson,
-intresset för Kungsbacka som boendekommun var stort.
 Anton Hallberg, Arthur Eriksson och Viggo Johansson för
-Särskilt många frågor handlade om trygghetsboenden,
 arbetet ”Vattenkvaliteten runt Kungsbacka”. Projektet be-
-vilket bekräftar ett växande behov och intresse för denna
 handlar ett aktuellt och samhällsrelevant ämne med tydlig
-boendeform.
 koppling till både miljöfrågor och kommunens långsiktiga
 utveckling. Genom vårt engagemang i Teknikcollege vill
-Sponsring som stärker gemenskap och trygghet
 vi bidra till kunskapsutveckling, stärka kopplingen mellan
-Varje år stödjer vi föreningar och organisationer som bidrar
 skola och arbetsliv samt vara med och forma framtidens
-till aktivitet, gemenskap och trygghet i våra områden eller
 kompetens inom fastighets- och samhällsbyggnadssektorn.
-erbjuder verksamheter som kommer våra hyresgäster till
-del. En stor del av vår sponsring riktas mot ungdomsverk-
 Föreläsningar
-samhet och idrott, med utgångspunkt i ett jämställdhets-
 Under året har vår vd haft förmånen att gästföreläsa vid
-och likabehandlingsperspektiv. Det är viktigt att mottag-
 Högskolan i Halmstad för blivande energiingenjörer och
-ande förening eller verksamhet delar Ekstas värderingar,
 fastighetsekonomer.
-och all sponsring sker i enlighet med vår sponsringspolicy.
 Det var hedrande att bli inbjuden att dela med sig av Ekstas
 erfarenheter – om hur vi genom åren har arbetat med ener-
-Utöver idrott och föreningsliv sponsrar vi även organi-
 gismarta lösningar, hållbar fastighetsutveckling och vikten
-sationer som bidrar till tryggare och mer välfungerande
 av kultur och samverkan i byggprojekt.
-områden. Under året har vi bland annat fortsatt att stödja
-Nattvandrarna. Nytt för i år är sponsring av Bostället 2.0, en
 Go Kungsbacka
-förening som driver en fritidsgård i Frillesås och erbjuder
 Vi är engagerade medlemmar i Kungsbackas frivillighet-
-ungdomar en trygg och meningsfull plats att vistas på.
 scenter Go-Kungsbacka. Frivilligcenter bidrar till delaktighet
-Vi har även sponsrat grundskolan med viktigt pedagogiskt
 i samhället, demokratisk utveckling och är en del av det
-material, bland annat kopplat till digital närvaro och trygg-
 förebyggande folkhälsoarbetet. Här matchas frivilliga ihop
-het på nätet – ett område som är av stor betydelse för barn
 med organisationer och skapar möten mellan människor.
-och unga idag.
 Ett samarbete mellan människor, föreningar/organisationer,
 kommun och företag som möjliggör nätverksbyggande och
 välkomnar alla.
-22
-Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 644 -->
 
@@ -26777,44 +29096,28 @@ tillsammans med stipen-
 diekommiténs ordförande
 Åsa Wahlström.
 
-Energikicken           2025
+Energikicken            2025
 
 eksta energistipendium till ivar franzéns minne
 
-Årligen delar vi ut Eksta Energistipendium till ningar och samtal med
-Ivar Franzéns minne i samband med vårt event fokus på hållbar resursan-
-Energikicken. Den 3 december sågs vi på biograf vändning, cirkulär ekonomi, beteende-
-förändring och framtidens samhällsutveckling. Ekstas vd
+Årligen delar vi ut Eksta Energistipendium till
+Ivar Franzéns minne i samband med vårt event
+Energikicken. Den 3 december sågs vi på biograf
 Biostaden i Kungsbacka.
-Christer Kilersjö gav en historisk tillbakablick över bolagets
-utveckling – från tidiga satsningar på solenergi till dagens
 Årets jubileumstema: 60 år av hållbart byggande – vad har
-arbete med återbruk, innovation och hållbar förvaltning.
 vi lärt oss och vad väntar framåt? I samband med Ener-
 gikicken delade Eksta för 18:e gången ut Ekstas Energis-
-Ett gemensamt kunskapsforum
 tipendium till Ivar Franzéns minne. Stipendiet syftar till
-Energikicken är ett viktigt forum för samverkan mellan
 att stimulera studier och forskning inom resurseffektiva
-akademi, kommun, näringsliv och fastighetsbransch.
 byggnader med låg klimatpåverkan, från produktion till
-Genom att samla olika perspektiv och dela kunskap
 avveckling. Genom stipendiet vill Eksta bidra till kunskaps-
-skapas förutsättningar för gemensam utveckling och ökad
 spridning och till att driva utvecklingen i bygg- och fastig-
-omställningstakt. Evenemanget genomfördes med stort
 hetsbranschen mot mer hållbar produktion och förvaltning.
-engagemang från både föreläsare, stipendiater och Ekstas
-medarbetare.
 Stipendiater och föreläsare
 Under 2025 delades totalt 65 000 kronor ut till fyra stipen-
-Energikicken blev samtidigt en påminnelse om Ekstas
 diater. Sedan starten har Eksta delat ut sammanlagt 958
-långsiktiga arbetssätt: att ta små, nyfikna steg framåt, våga
 000 kronor i energistipendier. Stipendiaterna presenterade
-förändra när det behövs och fortsätta utvecklas tillsam-
 sina arbeten för publiken och mottog diplom i samband
-mans med andra.
 med evenemanget. Programmet innehöll även föreläs-
 Årets stipendiater
 Elia Archesso
@@ -26835,10 +29138,34 @@ Maja Claesson
 Lunds universitet
 Tilldelades 15 000 kr för arbetet
 ” De beviljade rivningslovens klimatpåverkan”
-Du kan ta del av arbetena på www.eksta.se. Personal från Eksta: Karin Gustavsson, Christer Kilersjö, Johanna Gustavsson,
-Emelie Bengtsson, Ulrika Ojaste, Therese Skantz, Linda Westberg och Carina Klang.
+Du kan ta del av arbetena på www.eksta.se.
 24
-Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Dokument-ID 09222115557571174859
+
+ningar och samtal med
+fokus på hållbar resursan-
+vändning, cirkulär ekonomi, beteende-
+förändring och framtidens samhällsutveckling. Ekstas vd
+Christer Kilersjö gav en historisk tillbakablick över bolagets
+utveckling – från tidiga satsningar på solenergi till dagens
+arbete med återbruk, innovation och hållbar förvaltning.
+Ett gemensamt kunskapsforum
+Energikicken är ett viktigt forum för samverkan mellan
+akademi, kommun, näringsliv och fastighetsbransch.
+Genom att samla olika perspektiv och dela kunskap
+skapas förutsättningar för gemensam utveckling och ökad
+omställningstakt. Evenemanget genomfördes med stort
+engagemang från både föreläsare, stipendiater och Ekstas
+medarbetare.
+Energikicken blev samtidigt en påminnelse om Ekstas
+långsiktiga arbetssätt: att ta små, nyfikna steg framåt, våga
+förändra när det behövs och fortsätta utvecklas tillsam-
+mans med andra.
+
+Personal från Eksta: Karin Gustavsson, Christer Kilersjö, Johanna Gustavsson,
+Emelie Bengtsson, Ulrika Ojaste, Therese Skantz, Linda Westberg och Carina Klang.
+
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 646 -->
 
@@ -27123,41 +29450,72 @@ Vi på Eksta har arbetat med miljöfrågor under många år, redan från starten
 och det vi bygger ska vi också ta hand om i många år framöver. Vårt energikoncept är välkänt i landet
 och vi har länge legat i framkant när det gäller biobränsle, solenergi och passivhus. Strategin är att så
 långt som det är möjligt förlita oss på förnybara energikällor.
+
 Biobränsle och fjärrvärmeverksamhet
-I dagsläget har vi 19 små fjärrvärmeverk runt om i Kungs- Under året har Eksta vidareutvecklat den digitala servicen
-backa kommun som drivs av biobränsle, i huvudsak träpel- även för fjärrvärmekunder. Genom Mina sidor för fjärrvärme
-lets. Dessa förser våra bostäder med värme och varmvat- har kunderna nu möjlighet att följa sin energiförbrukning, ta
-ten. Våra områdesansvariga fastighetsskötare tillsammans del av fakturor och få en bättre överblick över sitt fjärrvär-
-med avdelningen för värmeproduktion kontrollerar verken meabonnemang. Tjänsten bidrar till ökad transparens, bätt-
-4 dagar per vecka så att de fungerar som de ska. Fjärrvär- re kundupplevelse och ger kunderna förbättrade förutsätt-
-meverken är så effektiva att uppvärmningskostnaderna för ningar att förstå och påverka sin energianvändning.
+I dagsläget har vi 19 små fjärrvärmeverk runt om i Kungs-
+backa kommun som drivs av biobränsle, i huvudsak träpel-
+lets. Dessa förser våra bostäder med värme och varmvat-
+ten. Våra områdesansvariga fastighetsskötare tillsammans
+med avdelningen för värmeproduktion kontrollerar verken
+4 dagar per vecka så att de fungerar som de ska. Fjärrvär-
+meverken är så effektiva att uppvärmningskostnaderna för
 våra hus är bland de lägsta i Sverige. För att säkra driften vid
-eventuellt fel eller störning finns en oljepanna som back-up. Beredskap för trygg och säker drift
-Storleken på våra fjärrvärmeanläggningar varierar från 100 För att kunna upprätthålla en säker drift för våra kunder
-KW till 5 MW. En stor del i att få lönsamma system grundas och hyresgäster har vi en beredskapsorganisation. Bered-
-i att få så många användare som möjligt, både internt och skapsorganisationen innebär att vi alltid har två personer i
-externt. Detta för att utnyttja energin till fullo. En orosfaktor beredskap på tider då kontoret är stängt. Syftet är att vi skall
-har varit den kraftiga och snabba prisökningen på bio- kunna avhjälpa fel i våra anläggningar och hos våra hyres-
-bränslen. Under 2025 så har priserna vikt nedåt men från en gäster utanför ordinarie arbetstid, dygnet runt året runt.
+eventuellt fel eller störning finns en oljepanna som back-up.
+Storleken på våra fjärrvärmeanläggningar varierar från 100
+KW till 5 MW. En stor del i att få lönsamma system grundas
+i att få så många användare som möjligt, både internt och
+externt. Detta för att utnyttja energin till fullo. En orosfaktor
+har varit den kraftiga och snabba prisökningen på bio-
+bränslen. Under 2025 så har priserna vikt nedåt men från en
 väldigt hög nivå. 2030 kommer också nya krav på rökgasre-
-ning att införas vilket kommer medföra stora investeringar i Ekstas bestånd i centrala Kungsbacka är anslutet till
-filteranläggningar.             Statkrafts fjärrvärmesystem. Statkrafts produktion är 100 %
-fossilfritt. Det innebär att företagets behov av värme i stort
-Fjärrvärmekunder                sett uteslutande är baserat på förnybar energi. Statkraft är
-Några av våra anläggningar producerar mer energi än vi också en bra samarbetspartner för utveckling inom hållbar
-själva förbrukar. Den överskottsenergi vi genererar gör det energiproduktion.
+ning att införas vilket kommer medföra stora investeringar i
+filteranläggningar.
+Fjärrvärmekunder
+Några av våra anläggningar producerar mer energi än vi
+själva förbrukar. Den överskottsenergi vi genererar gör det
 möjligt att erbjuda andra fastighetsägare att ansluta sig till
-vårt fjärrvärmenät och därmed ta del av våra hållbara upp- Ansvarsfull värmeproduktion
-värmningslösningar. De lämnar då kanske direktverkande el För att säkerställa en stabil, säker och effektiv drift ron-
-och oljepanna bakom sig och går över till Ekstas miljökloka deras våra fjärrvärmeanläggningar i stort sett dagligen av
-alternativ med sol och biobränsle. områdesansvariga fastighetsskötare och driftpersonal från
-avdelningen värmeproduktion. Den dagliga närvaron är
-I dagsläget har vi drygt 400 externa fjärrvärmekunder. viktig för att tidigt upptäcka avvikelser och säkerställa att
-Kunderna är både företag, kommun och privatpersoner, anläggningarna fungerar som avsett.
+vårt fjärrvärmenät och därmed ta del av våra hållbara upp-
+värmningslösningar. De lämnar då kanske direktverkande el
+och oljepanna bakom sig och går över till Ekstas miljökloka
+alternativ med sol och biobränsle.
+I dagsläget har vi drygt 400 externa fjärrvärmekunder.
+Kunderna är både företag, kommun och privatpersoner,
 Kungsbacka kommun är den enskilt största kunden med
-ett flertal skolor och förskolor. Under 2025 har vi inte anslutit Som stöd i arbetet används en digital driftjournal där aktuel-
-nya kunder men dessvärre tappat en kund som valt annat la värden dokumenteras. Journalen möjliggör löpande upp-
-uppvärmningssystem.             följning och statistikinsamling och utgör underlag för både
+ett flertal skolor och förskolor. Under 2025 har vi inte anslutit
+nya kunder men dessvärre tappat en kund som valt annat
+uppvärmningssystem.
+
+Under året har Eksta vidareutvecklat den digitala servicen
+även för fjärrvärmekunder. Genom Mina sidor för fjärrvärme
+har kunderna nu möjlighet att följa sin energiförbrukning, ta
+del av fakturor och få en bättre överblick över sitt fjärrvär-
+meabonnemang. Tjänsten bidrar till ökad transparens, bätt-
+re kundupplevelse och ger kunderna förbättrade förutsätt-
+ningar att förstå och påverka sin energianvändning.
+Beredskap för trygg och säker drift
+För att kunna upprätthålla en säker drift för våra kunder
+och hyresgäster har vi en beredskapsorganisation. Bered-
+skapsorganisationen innebär att vi alltid har två personer i
+beredskap på tider då kontoret är stängt. Syftet är att vi skall
+kunna avhjälpa fel i våra anläggningar och hos våra hyres-
+gäster utanför ordinarie arbetstid, dygnet runt året runt.
+Ekstas bestånd i centrala Kungsbacka är anslutet till
+Statkrafts fjärrvärmesystem. Statkrafts produktion är 100 %
+fossilfritt. Det innebär att företagets behov av värme i stort
+sett uteslutande är baserat på förnybar energi. Statkraft är
+också en bra samarbetspartner för utveckling inom hållbar
+energiproduktion.
+Ansvarsfull värmeproduktion
+För att säkerställa en stabil, säker och effektiv drift ron-
+deras våra fjärrvärmeanläggningar i stort sett dagligen av
+områdesansvariga fastighetsskötare och driftpersonal från
+avdelningen värmeproduktion. Den dagliga närvaron är
+viktig för att tidigt upptäcka avvikelser och säkerställa att
+anläggningarna fungerar som avsett.
+Som stöd i arbetet används en digital driftjournal där aktuel-
+la värden dokumenteras. Journalen möjliggör löpande upp-
+följning och statistikinsamling och utgör underlag för både
+
 Vi har 20 biobränsleanläggningar
 som vår värmeproduktionsavdelning
 tillsammans med områdesansvarig
@@ -27554,36 +29912,63 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 654 -->
 
-EKOLOGISK HÅLLBARHET
-
-Fiber                           att göra dessa vid rätt tillfälle har medfört en besparing
-Alla våra bostäder är digitalt uppkopplade via fiber i stads- på ca 600.000 kr för 2025 mot om vi legat helt rörligt mot
-nätet. Det gör att precisa och exakta driftmätningar kan gö- spotpriset. Det är positivt för våra hyresgäster vilka har sin
-ras. Resultatet är tillfredställande och vi ser att verkligheten hushållsel via Eksta.
-uppvisar bättre nyckeltal än vad husen projekterades för. För 2026 har vi säkrat 85% till en nivå kring 45 öre/kWh
-Ytterligare en fördel är att vi kan finjustera våra anläggning- exkl. skatter och avgifter. Även 2027 är till stor del säkrat till
-ar för att ge en bra inomhusmiljö i kombination med låga samma nivå. Det ger en trygghet framöver även om den
-driftskostnader.                ”billigaste KWh är den som inte behöver köpas alls”
-Bostäder för bin                Dagligt miljöarbete
-Pollinering är livsviktigt för att vårt ekosystem ska fungera. Det räcker inte att vi jobbar hållbart med nybyggnation och
-Tyvärr har antalet bin minskat drastiskt de senaste åren ny teknik. Miljöarbete i ett bostadsbolag handlar till stor del
-vilket på sikt kan få allvarliga konsekvenser. För att bidra om förvaltning och att hela tiden se till att vi bibehåller och
-med det vi kan och motverka den negativa utvecklingen har optimerar miljösmarta funktioner. Vi arbetar systematiskt
-vi nu tre bikupor utplacerade i våra områden, med planer med det i vardagen och trimmar in och driftoptimerar våra
-på fler.                        fastigheter. Vår fastighetsutvecklingsavdelning har tagit
-fram ett driftsystem som har direktkontakt med våra fastig-
-Inköp av el                     heter. Systemet larmar när värme-, vatten-, ventilation- eller
-Under slutet av 2022 ökade elpriserna markant och även solenergivärden avviker från det normala. På så sätt kan vi
-om prisnivån sjönk senare har det sedan dess varit en oför- tidigt upptäcka eventuella fel i våra fastigheter och åtgärda
-utseddbar marknad med stor prisvariation, både på lång dem direkt antingen via datorn eller på plats i våra under-
-och kort sikt. I stället för att som tidigare köpa fastprisavtal centraler innan det påverkar hyresgästen eller fastigheten
-har vi sedan 2023 övergått till en mer dynamisk inköpspro- i sig. Vi informerar våra hyresgäster löpande och ger hand-
-cess där vi varje månad ihop med partner analyserar, ut- fasta energispartips bland annat i vår hyresgästtidning.
+Fiber
+Alla våra bostäder är digitalt uppkopplade via fiber i stads-
+nätet. Det gör att precisa och exakta driftmätningar kan gö-
+ras. Resultatet är tillfredställande och vi ser att verkligheten
+uppvisar bättre nyckeltal än vad husen projekterades för.
+Ytterligare en fördel är att vi kan finjustera våra anläggning-
+ar för att ge en bra inomhusmiljö i kombination med låga
+driftskostnader.
+Bostäder för bin
+Pollinering är livsviktigt för att vårt ekosystem ska fungera.
+Tyvärr har antalet bin minskat drastiskt de senaste åren
+vilket på sikt kan få allvarliga konsekvenser. För att bidra
+med det vi kan och motverka den negativa utvecklingen har
+vi nu tre bikupor utplacerade i våra områden, med planer
+på fler.
+Inköp av el
+Under slutet av 2022 ökade elpriserna markant och även
+om prisnivån sjönk senare har det sedan dess varit en oför-
+utseddbar marknad med stor prisvariation, både på lång
+och kort sikt. I stället för att som tidigare köpa fastprisavtal
+har vi sedan 2023 övergått till en mer dynamisk inköpspro-
+cess där vi varje månad ihop med partner analyserar, ut-
 värderar utvecklingen och prognoser på lång och kort sikt.
 Varje månad görs olika former av prissäkringar. Resultatet
 för 2025 visar att vi lyckats väldigt bra med att kombinera
 rörligt pris och prissäkringar. Tryggheten att prissäkra och
+
+Dokument-ID 09222115557571174859
+
+EKOLOGISK HÅLLBARHET
+
+att göra dessa vid rätt tillfälle har medfört en besparing
+på ca 600.000 kr för 2025 mot om vi legat helt rörligt mot
+spotpriset. Det är positivt för våra hyresgäster vilka har sin
+hushållsel via Eksta.
+För 2026 har vi säkrat 85% till en nivå kring 45 öre/kWh
+exkl. skatter och avgifter. Även 2027 är till stor del säkrat till
+samma nivå. Det ger en trygghet framöver även om den
+”billigaste KWh är den som inte behöver köpas alls”
+Dagligt miljöarbete
+Det räcker inte att vi jobbar hållbart med nybyggnation och
+ny teknik. Miljöarbete i ett bostadsbolag handlar till stor del
+om förvaltning och att hela tiden se till att vi bibehåller och
+optimerar miljösmarta funktioner. Vi arbetar systematiskt
+med det i vardagen och trimmar in och driftoptimerar våra
+fastigheter. Vår fastighetsutvecklingsavdelning har tagit
+fram ett driftsystem som har direktkontakt med våra fastig-
+heter. Systemet larmar när värme-, vatten-, ventilation- eller
+solenergivärden avviker från det normala. På så sätt kan vi
+tidigt upptäcka eventuella fel i våra fastigheter och åtgärda
+dem direkt antingen via datorn eller på plats i våra under-
+centraler innan det påverkar hyresgästen eller fastigheten
+i sig. Vi informerar våra hyresgäster löpande och ger hand-
+fasta energispartips bland annat i vår hyresgästtidning.
+
 Individuell
+
 ti d ll e
 m
 b rä i
@@ -27608,7 +29993,7 @@ e t - r
 nader
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 33
-Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 655 -->
 
@@ -28374,70 +30759,112 @@ Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 662 -->
 
-FÖRVALTNINGSBERÄTTELSE
-
-och oförutsägbara kostnader ökar. Vi måste ta höjd och ha värdeförändringar till följd av höga produktionskostnader,
-med i planeringen att det kan komma till oplanerade större reglerade eller begränsade hyresnivåer samt ökade direkt-
-underhållsprojekt även under kommande år. avkastningskrav. Per balansdagen 2025 uppgick övervärdet
-i fastighetsbeståndet till 3 081 mnkr, vilket är en ökning med
-Efterfrågan på hyresrätter i Kungsbacka kommun är fortsatt 235 mnkr jämfört med föregående år då övervärdet uppgick
-hög, trots att befolkningstillväxten avtagit jämfört med tidi- till 2 847 mnkr.
+och oförutsägbara kostnader ökar. Vi måste ta höjd och ha
+med i planeringen att det kan komma till oplanerade större
+underhållsprojekt även under kommande år.
+Efterfrågan på hyresrätter i Kungsbacka kommun är fortsatt
+hög, trots att befolkningstillväxten avtagit jämfört med tidi-
 gare år. Kön till våra bostäder är lång och risken för vakanser
-bedöms som mycket låg. Detta gäller även inför kommande Hållbarhetsrapport
-nyproduktionsprojekt, där intresset för nyproducerade hy- Eksta Bostads AB har upprätthållit en hållbarhetsredovis-
-resrätter är stort. Samtidigt är vakanser i hyresrätter ett väx- ning. Rapportens innehåll presenteras på sidorna 12-36 i
-ande problem i branschen nationellt. Mot denna bakgrund årsredovisningen.
+bedöms som mycket låg. Detta gäller även inför kommande
+nyproduktionsprojekt, där intresset för nyproducerade hy-
+resrätter är stort. Samtidigt är vakanser i hyresrätter ett väx-
+ande problem i branschen nationellt. Mot denna bakgrund
 arbetar vi proaktivt och långsiktigt för att även framöver
-säkerställa stabil uthyrning och hög efterfrågan. Utblick mot framtiden
-Efterfrågan på bostäder i Kungsbacka kommun är fortsatt
-Det starka intresset gäller även inför kommande nyproduk- stor, inte minst när det gäller hyresrätter. Inriktningen för
-tionsprojekt, där efterfrågan på nyproducerade hyresrätter vår verksamhet står fast. Vi ska i första hand producera
-bedöms som mycket god. Genom ett proaktivt och långsik- och förvalta hyresrätter i nära relation till hyresgästerna
-tigt arbete med planering, förvaltning och kvalitet skapar vi och fortsätta utveckla vår kärnområden inom biobränsle,
-goda förutsättningar för fortsatt hög efterfrågan och stabil solenergi och energieffektiva hus. Vi vill fortsätta att inspi-
-uthyrning över tid.             rera och följa vår vision “Framtidens boende – i framkant
-för ett miljöklokt och tryggt Kungsbacka”. Flera spännande
-Marknadsräntorna bedöms även framöver ha en påverkan nyproduktionsprojekt ligger framför oss. Utmaningen med
-på bolaget, både avseende refinansiering av befintlig rän- att utveckla verksamheten med inriktning på ekologiskt
-tekorg och vid nyupplåning kopplad till större investerings- hållbart byggande med livscykelperspektiv står fast. Detta
-projekt. Bolagets starka och positiva kassaflöde från den samtidigt som vi vill fortsätta att hålla produktionskostna-
-löpande verksamheten bidrar till att delvis mildra ränteef- derna på rimliga nivåer, i en tid där byggpriserna stiger, utan
-fekten, då investeringar under året enbart finansierats med att göra avkall på kvalitén. Vår sedan länge trygga satsning
-egna medel för att begränsa behovet av nyupplåning. på biobränsle kommer att behöva ses över då priserna
-fortsätter att öka. Det kommer att kräva en kombination för
-Bolaget arbetar fortlöpande med planering av investerings- att bli ekonomiskt hållbart. Kungsbacka kommun har ett
-verksamheten samt med uppdaterade likviditetsprognoser ökat invånarantal även om ökningstakten minskat något de
-i syfte att säkerställa ett effektivt utnyttjande av upplåning, senaste åren står sig Kungsbacka starkt nationellt. Vi ser
-där kapital tas upp i den omfattning och vid den tidpunkt fram emot ett spännande år med nytt målarbete för 2026
-som bedöms mest ändamålsenlig.  där vi bjuder in all personal till delaktighet och möjligheten
-att vara med och påverka.
+säkerställa stabil uthyrning och hög efterfrågan.
+Det starka intresset gäller även inför kommande nyproduk-
+tionsprojekt, där efterfrågan på nyproducerade hyresrätter
+bedöms som mycket god. Genom ett proaktivt och långsik-
+tigt arbete med planering, förvaltning och kvalitet skapar vi
+goda förutsättningar för fortsatt hög efterfrågan och stabil
+uthyrning över tid.
+Marknadsräntorna bedöms även framöver ha en påverkan
+på bolaget, både avseende refinansiering av befintlig rän-
+tekorg och vid nyupplåning kopplad till större investerings-
+projekt. Bolagets starka och positiva kassaflöde från den
+löpande verksamheten bidrar till att delvis mildra ränteef-
+fekten, då investeringar under året enbart finansierats med
+egna medel för att begränsa behovet av nyupplåning.
+Bolaget arbetar fortlöpande med planering av investerings-
+verksamheten samt med uppdaterade likviditetsprognoser
+i syfte att säkerställa ett effektivt utnyttjande av upplåning,
+där kapital tas upp i den omfattning och vid den tidpunkt
+som bedöms mest ändamålsenlig.
 Bolaget bedömer att det fortsatt finns risk för negativa
 Prioriteringar i verksamheten
-Vi skall bygga bra hus för denna och kommande
-Vi skall arbeta målinriktat för våra befintliga generationer.
+Vi skall arbeta målinriktat för våra befintliga
 hyresgäster så att de och besökare trivs och känner
-trygghet i sitt boende.        Vi skall aktivt verka för rimliga byggproduktionskost-
-nader.
+trygghet i sitt boende.
 Vi skall tillföra fler nya och attraktiva bostäder med
-hyresrätt som upplåtelseform byggda i passivhus- Vi skall arbeta i samarbetsformer såsom partnering,
-teknik.                        där beställare och entreprenör driver projekt med
-gemensamt ansvar för ekonomi och kvalitet.
+hyresrätt som upplåtelseform byggda i passivhus-
+teknik.
 Vi skall ha en aktiv markstrategi för att långsiktigt
-säkerställa möjligheten att själva utveckla nya bo- Vi skall genom byggande av passivhus illustrera
-stadsområden.                  nödvändigheten och möjligheten att effektivisera
-energianvändningen ur ett LCA-perspektiv.
+säkerställa möjligheten att själva utveckla nya bo-
+stadsområden.
 Vi skall pröva standardiserade koncepthus för att
-möjliggöra rimliga byggkostnader och hyror. Vi skall ta steget mot ett ökat inslag av träbyggnation
-även konstruktionsmässigt.
+möjliggöra rimliga byggkostnader och hyror.
 Vi skall ta största möjliga miljöhänsyn när vi tillgo-
-doser behovet av bostäder i kommunen. På så vis Vi skall lägga vårt fokus på att använda så lite energi
-förstör vi inte kommande generationers möjligheter som möjligt ur ett livskostnadsperspektiv.
+doser behovet av bostäder i kommunen. På så vis
+förstör vi inte kommande generationers möjligheter
 att bygga och bo.
-Vi skall använda de energislag som ger minsta
-Vi skall med ett passionerat och nyfiket förhållnings- möjliga miljöpåverkan.
+Vi skall med ett passionerat och nyfiket förhållnings-
 sätt hela tiden vidareutveckla Ekstas energikoncept.
+
+Dokument-ID 09222115557571174859
+
+FÖRVALTNINGSBERÄTTELSE
+
+värdeförändringar till följd av höga produktionskostnader,
+reglerade eller begränsade hyresnivåer samt ökade direkt-
+avkastningskrav. Per balansdagen 2025 uppgick övervärdet
+i fastighetsbeståndet till 3 081 mnkr, vilket är en ökning med
+235 mnkr jämfört med föregående år då övervärdet uppgick
+till 2 847 mnkr.
+Hållbarhetsrapport
+Eksta Bostads AB har upprätthållit en hållbarhetsredovis-
+ning. Rapportens innehåll presenteras på sidorna 12-36 i
+årsredovisningen.
+Utblick mot framtiden
+Efterfrågan på bostäder i Kungsbacka kommun är fortsatt
+stor, inte minst när det gäller hyresrätter. Inriktningen för
+vår verksamhet står fast. Vi ska i första hand producera
+och förvalta hyresrätter i nära relation till hyresgästerna
+och fortsätta utveckla vår kärnområden inom biobränsle,
+solenergi och energieffektiva hus. Vi vill fortsätta att inspi-
+rera och följa vår vision “Framtidens boende – i framkant
+för ett miljöklokt och tryggt Kungsbacka”. Flera spännande
+nyproduktionsprojekt ligger framför oss. Utmaningen med
+att utveckla verksamheten med inriktning på ekologiskt
+hållbart byggande med livscykelperspektiv står fast. Detta
+samtidigt som vi vill fortsätta att hålla produktionskostna-
+derna på rimliga nivåer, i en tid där byggpriserna stiger, utan
+att göra avkall på kvalitén. Vår sedan länge trygga satsning
+på biobränsle kommer att behöva ses över då priserna
+fortsätter att öka. Det kommer att kräva en kombination för
+att bli ekonomiskt hållbart. Kungsbacka kommun har ett
+ökat invånarantal även om ökningstakten minskat något de
+senaste åren står sig Kungsbacka starkt nationellt. Vi ser
+fram emot ett spännande år med nytt målarbete för 2026
+där vi bjuder in all personal till delaktighet och möjligheten
+att vara med och påverka.
+Vi skall bygga bra hus för denna och kommande
+generationer.
+Vi skall aktivt verka för rimliga byggproduktionskost-
+nader.
+Vi skall arbeta i samarbetsformer såsom partnering,
+där beställare och entreprenör driver projekt med
+gemensamt ansvar för ekonomi och kvalitet.
+Vi skall genom byggande av passivhus illustrera
+nödvändigheten och möjligheten att effektivisera
+energianvändningen ur ett LCA-perspektiv.
+Vi skall ta steget mot ett ökat inslag av träbyggnation
+även konstruktionsmässigt.
+Vi skall lägga vårt fokus på att använda så lite energi
+som möjligt ur ett livskostnadsperspektiv.
+Vi skall använda de energislag som ger minsta
+möjliga miljöpåverkan.
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 41
-Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 663 -->
 
@@ -28872,7 +31299,7 @@ Byggnader
 Årsredovisningen har upprättats enligt årsredovisningsla-
 gen (1995:1554) och BFNAR 2012:1 Årsredovisning och Grund och stomme 100 år
 koncernredovisning (K3).
-Fasader                   50 år
+Fasader                    50 år
 Bedömningar och uppskattningar   Yttertak, fönster och dörrar 40 år
 Alla bedömningar och uppskattningar är i linje med vad
 som är normalt för branschen. Genomförda nedskrivningar VA-system, badrum, köksinredning 40 år
@@ -28881,57 +31308,86 @@ Elinstallationer, ventilation, hissar 40 år
 Intäktsredovisning               Lokalanpassningar          10 år
 Hyror och försäljning
 Intäkterna redovisas till nominellt värde. Övrigt\*         100 år
-Byggnadsinventarier       20 år
+Byggnadsinventarier        20 år
 Tjänste- och entreprenaduppdrag
 Företaget vinstavräknar utförda uppdrag till fast pris när Markanläggningar 50 år
 arbetet är fullgjort. Pågående uppdrag värderas till direkt
 nedlagda utgifter med tillägg för indirekta utgifter samt Markinventarier 20 år
 med avdrag för dellikvider.      Värmeproduktionsanläggningar
-Offentliga bidrag                Byggnader                 100 år
+
+Offentliga bidrag
 Offentliga bidrag intäktsförs när dom erhålls. I de fall
-Produktionsutrustning     40 år
 bidraget är kopplat till en investering i materiella tillgångar
-reducerar bidraget det bokförda värdet. Bränslehanterings-, el-, och styrsystem 20 år
-Låneutgifter                     Värmedistributionsanläggningar
+reducerar bidraget det bokförda värdet.
+Låneutgifter
 Låneutgifter kostnadsförs i den period de uppstår. Avser
-Kulvertar                 50 år
 låneutgifterna finansiering av tillverkning av tillgångar som
-tar betydande tid att färdigställa (exempelvis byggnader) Undercentraler 40 år
+tar betydande tid att färdigställa (exempelvis byggnader)
 räknas låneutgifterna (räntorna) in i anskaffningsvärdet.
-Inventarier                5 år
 Leasing
-\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
 Företaget redovisar leasingavtal som en kostnad linjärt över
-leasingperioden.                Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
-fastigheter till ett värde över 10 mkr.
+leasingperioden.
 Ersättningar till anställda
-Företagets ersättningar innefattar bl.a. löner, betald se- Finansiella instrument
-mester, betald frånvaro, och ersättningar efter avslutad Finansiella instrument värderas utifrån anskaffningsvärdet.
+Företagets ersättningar innefattar bl.a. löner, betald se-
+mester, betald frånvaro, och ersättningar efter avslutad
 anställning i form av pensioner. Redovisning sker i takt med
-intjänandet. Bonus och liknande förkommer ej. Företaget Varulager
-har endast avgiftsbestämda pensionsplaner. Utgifter för Varulagret består av bränslen och är värderat utifrån inköps-
-dessa redovisas som en kostnad under den period de an- priset baserat på senast mottagna fakturor.
+intjänandet. Bonus och liknande förkommer ej. Företaget
+har endast avgiftsbestämda pensionsplaner. Utgifter för
+dessa redovisas som en kostnad under den period de an-
 ställda arbetar.
-Koncernredovisning
-Skatt                           Koncernredovisningen omfattar Tempohus Kungsbacka
-Total skatt utgörs av aktuell skatt och uppskjuten skatt och AB, med organisationsnummer 559151-1349. Koncernredo-
-redovisas i resultaträkningen. Aktuell skatt avser inkomst- visningen är upprättad enligt förvärvsmetoden. Förvärvs-
-skatt för föregående räkenskapsår. Uppskjuten skatt är metoden innebär att koncernens anskaffningsvärden på
-inkomstskatt som avser framtida räkenskapsår till följd av aktier och andelar vid förvärvstidpunkten avräknas mot det
-tidigare händelser. Redovisning sker enligt balansräknings- förvärvade företagets egna kapital inkl. andelen eget kapital
-metoden. Enligt denna redovisas uppskjutna skatteskulder i obeskattade reserver. I koncernens egna kapital ingår här-
-och uppskjutna skattefordringar på temporära skillnader igenom endast den del av dotterbolagets egna kapital som
-som uppstår mellan bokförda och skattemässiga värden för tillkommit efter förvärvet. Vid upprättandet av koncern-
-tillgångar och skulder samt för övriga skattemässiga avdrag balansräkningen har obeskattade reserver uppdelats i två
-eller underskott.               delar, dels uppskjuten skatteskuld vilken redovisas under
-rubriken avsättningar och dels eget kapital. Den uppskjutna
-Anläggningstillgångar           skatteskulden upptas till aktuell skattesats. Därmed redo-
-Materiella och immateriella anläggningstillgångar redovisas visas inga bokslutsdispositioner och obeskattade reserver i
-till anskaffningsvärde minskat med ackumulerade avskriv- koncernredovisningen.
+Skatt
+Total skatt utgörs av aktuell skatt och uppskjuten skatt och
+redovisas i resultaträkningen. Aktuell skatt avser inkomst-
+skatt för föregående räkenskapsår. Uppskjuten skatt är
+inkomstskatt som avser framtida räkenskapsår till följd av
+tidigare händelser. Redovisning sker enligt balansräknings-
+metoden. Enligt denna redovisas uppskjutna skatteskulder
+och uppskjutna skattefordringar på temporära skillnader
+som uppstår mellan bokförda och skattemässiga värden för
+tillgångar och skulder samt för övriga skattemässiga avdrag
+eller underskott.
+Anläggningstillgångar
+Materiella och immateriella anläggningstillgångar redovisas
+till anskaffningsvärde minskat med ackumulerade avskriv-
 ningar och nedskrivningar. Materiella anläggningstillgångar
 har delats upp på betydande komponenter enligt princi-
 perna för komponentavskrivning. Följande avskrivningstider
 tillämpas byggnades komponenter:
+
+Byggnader                 100 år
+Produktionsutrustning     40 år
+Bränslehanterings-, el-, och styrsystem 20 år
+
+Värmedistributionsanläggningar
+Kulvertar                  50 år
+Undercentraler            40 år
+Inventarier                5 år
+
+\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
+fastigheter till ett värde över 10 mkr.
+Finansiella instrument
+Finansiella instrument värderas utifrån anskaffningsvärdet.
+Varulager
+Varulagret består av bränslen och är värderat utifrån inköps-
+priset baserat på senast mottagna fakturor.
+Koncernredovisning
+Koncernredovisningen omfattar Tempohus Kungsbacka
+AB, med organisationsnummer 559151-1349. Koncernredo-
+visningen är upprättad enligt förvärvsmetoden. Förvärvs-
+metoden innebär att koncernens anskaffningsvärden på
+aktier och andelar vid förvärvstidpunkten avräknas mot det
+förvärvade företagets egna kapital inkl. andelen eget kapital
+i obeskattade reserver. I koncernens egna kapital ingår här-
+igenom endast den del av dotterbolagets egna kapital som
+tillkommit efter förvärvet. Vid upprättandet av koncern-
+balansräkningen har obeskattade reserver uppdelats i två
+delar, dels uppskjuten skatteskuld vilken redovisas under
+rubriken avsättningar och dels eget kapital. Den uppskjutna
+skatteskulden upptas till aktuell skattesats. Därmed redo-
+visas inga bokslutsdispositioner och obeskattade reserver i
+koncernredovisningen.
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 49
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
@@ -29748,57 +32204,48 @@ REVISIONSBERÄTTELSE
 
 revisionsberättelse
 
-utvärderar vi den övergripande presentationen, strukturen Revisorns ansvar
-och innehållet i årsredovisningen och koncernredovisning- Vårt mål beträffande revisionen av förvaltningen, och därmed
-en, däribland upplysningarna, och om årsredovisningen vårt uttalande om ansvarsfrihet, är att inhämta revisionsbevis för
-och koncernredovisningen återger de underliggande att med en rimlig grad av säkerhet kunna bedöma om någon
-transaktionerna och händelserna på ett sätt som ger en styrelseledamot eller verkställande direktören i något väsentligt
-rättvisande bild.              avseende:
-planerar och utför vi koncernrevisionen för att inhämta företagit någon åtgärd eller gjort sig skyldig till någon
-tillräckliga och ändamålsenliga revisionsbevis avseende försummelse som kan föranleda ersättningsskyldighet mot
-den finansiella informationen för företag eller affärsenhe- bolaget, eller
+utvärderar vi den övergripande presentationen, strukturen
+och innehållet i årsredovisningen och koncernredovisning-
+en, däribland upplysningarna, och om årsredovisningen
+och koncernredovisningen återger de underliggande
+transaktionerna och händelserna på ett sätt som ger en
+rättvisande bild.
+planerar och utför vi koncernrevisionen för att inhämta
+tillräckliga och ändamålsenliga revisionsbevis avseende
+den finansiella informationen för företag eller affärsenhe-
 terna inom koncernen som grund för att göra ett uttalande
-avseende koncernredovisningen. Vi ansvarar för styrning, på något annat sätt handlat i strid med aktiebolagslagen,
-övervakning och genomgång av det revisionsarbete som årsredovisningslagen eller bolagsordningen.
+avseende koncernredovisningen. Vi ansvarar för styrning,
+övervakning och genomgång av det revisionsarbete som
 utförts för koncernrevisionens syfte. Vi är ensamt ansvariga
-för våra uttalanden.           Vårt mål beträffande revisionen av förslaget till dispositioner av
-bolagets vinst eller förlust, och därmed vårt uttalande om detta,
-är att med rimlig grad av säkerhet bedöma om förslaget är
-Vi måste informera styrelsen om bland annat revisionens förenligt med aktiebolagslagen.
+för våra uttalanden.
+Vi måste informera styrelsen om bland annat revisionens
 planerade omfattning och inriktning samt tidpunkten för den.
-Vi måste också informera om betydelsefulla iakttagelser under Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti
-revisionen, däribland de eventuella betydande brister i den för att en revision som utförs enligt god revisionssed i Sverige
-interna kontrollen som vi identifierat. alltid kommer att upptäcka åtgärder eller försummelser som
-kan föranleda ersättningsskyldighet mot bolaget, eller att ett
-förslag till dispositioner av bolagets vinst eller förlust inte är
+Vi måste också informera om betydelsefulla iakttagelser under
+revisionen, däribland de eventuella betydande brister i den
+interna kontrollen som vi identifierat.
 Rapport om andra krav enligt lagar och andra
-förenligt med aktiebolagslagen.
 författningar
-Som en del av en revision enligt god revisionssed i Sverige
-Uttalanden                      använder vi professionellt omdöme och har en professionellt
-Utöver vår revision av årsredovisningen och koncernredovis- skeptisk inställning under hela revisionen. Granskningen av
-ningen har vi även utfört en revision av styrelsens och verkstäl- förvaltningen och förslaget till dispositioner av bolagets vinst
-lande direktörens förvaltning av Eksta Bostads AB för år 2025 eller förlust grundar sig främst på revisionen av räkenskaperna.
-samt av förslaget till dispositioner beträffande bolagets vinst Vilka tillkommande granskningsåtgärder som utförs baseras
-eller förlust.                  på vår professionella bedömning med utgångspunkt i risk
-och väsentlighet. Det innebär att vi fokuserar granskningen på
-Vi tillstyrker att bolagsstämman disponerar vinsten enligt försla- sådana åtgärder, områden och förhållanden som är väsentliga
-get i förvaltningsberättelsen och beviljar styrelsens ledamöter för verksamheten och där avsteg och överträdelser skulle ha
-och verkställande direktören ansvarsfrihet för räkenskapsåret. särskild betydelse för bolagets situation. Vi går igenom och
-prövar fattade beslut, beslutsunderlag, vidtagna åtgärder och
-Grund för uttalanden            andra förhållanden som är relevanta för vårt uttalande om
-Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt ansvarsfrihet. Som underlag för vårt uttalande om styrelsens
-ansvar enligt denna beskrivs närmare i avsnittet Revisorns förslag till dispositioner beträffande bolagets vinst eller förlust
-ansvar. Vi är oberoende i förhållande till moderbolaget och kon- har vi granskat om förslaget är förenligt med aktiebolagslagen.
+Uttalanden
+Utöver vår revision av årsredovisningen och koncernredovis-
+ningen har vi även utfört en revision av styrelsens och verkstäl-
+lande direktörens förvaltning av Eksta Bostads AB för år 2025
+samt av förslaget till dispositioner beträffande bolagets vinst
+eller förlust.
+Vi tillstyrker att bolagsstämman disponerar vinsten enligt försla-
+get i förvaltningsberättelsen och beviljar styrelsens ledamöter
+och verkställande direktören ansvarsfrihet för räkenskapsåret.
+Grund för uttalanden
+Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt
+ansvar enligt denna beskrivs närmare i avsnittet Revisorns
+ansvar. Vi är oberoende i förhållande till moderbolaget och kon-
 cernen enligt god revisorssed i Sverige och har i övrigt fullgjort
-vårt yrkesetiska ansvar enligt dessa krav. Göteborg den den dag som framgår av vår elektroniska
-underskrift.
+vårt yrkesetiska ansvar enligt dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och
-ändamålsenliga som grund för våra uttalanden. Ernst & Young AB
+ändamålsenliga som grund för våra uttalanden.
 Styrelsens och verkställande direktörens ansvar
 Det är styrelsen som har ansvaret för förslaget till dispositioner
-beträffande bolagets vinst eller förlust. Vid förslag till utdelning Anders Linusson
-innefattar detta bland annat en bedömning av om utdelningen Auktoriserad revisor
+beträffande bolagets vinst eller förlust. Vid förslag till utdelning
+innefattar detta bland annat en bedömning av om utdelningen
 är försvarlig med hänsyn till de krav som bolagets och koncer-
 nens verksamhetsart, omfattning och risker ställer på storleken
 av moderbolagets och koncernens egna kapital, konsolide-
@@ -29814,6 +32261,50 @@ enligt styrelsens riktlinjer och anvisningar och bland annat vidta
 de åtgärder som är nödvändiga för att bolagets bokföring ska
 fullgöras i överensstämmelse med lag och för att medelsför-
 valtningen ska skötas på ett betryggande sätt.
+
+Revisorns ansvar
+Vårt mål beträffande revisionen av förvaltningen, och därmed
+vårt uttalande om ansvarsfrihet, är att inhämta revisionsbevis för
+att med en rimlig grad av säkerhet kunna bedöma om någon
+styrelseledamot eller verkställande direktören i något väsentligt
+avseende:
+företagit någon åtgärd eller gjort sig skyldig till någon
+försummelse som kan föranleda ersättningsskyldighet mot
+bolaget, eller
+på något annat sätt handlat i strid med aktiebolagslagen,
+årsredovisningslagen eller bolagsordningen.
+Vårt mål beträffande revisionen av förslaget till dispositioner av
+bolagets vinst eller förlust, och därmed vårt uttalande om detta,
+är att med rimlig grad av säkerhet bedöma om förslaget är
+förenligt med aktiebolagslagen.
+Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti
+för att en revision som utförs enligt god revisionssed i Sverige
+alltid kommer att upptäcka åtgärder eller försummelser som
+kan föranleda ersättningsskyldighet mot bolaget, eller att ett
+förslag till dispositioner av bolagets vinst eller förlust inte är
+förenligt med aktiebolagslagen.
+Som en del av en revision enligt god revisionssed i Sverige
+använder vi professionellt omdöme och har en professionellt
+skeptisk inställning under hela revisionen. Granskningen av
+förvaltningen och förslaget till dispositioner av bolagets vinst
+eller förlust grundar sig främst på revisionen av räkenskaperna.
+Vilka tillkommande granskningsåtgärder som utförs baseras
+på vår professionella bedömning med utgångspunkt i risk
+och väsentlighet. Det innebär att vi fokuserar granskningen på
+sådana åtgärder, områden och förhållanden som är väsentliga
+för verksamheten och där avsteg och överträdelser skulle ha
+särskild betydelse för bolagets situation. Vi går igenom och
+prövar fattade beslut, beslutsunderlag, vidtagna åtgärder och
+andra förhållanden som är relevanta för vårt uttalande om
+ansvarsfrihet. Som underlag för vårt uttalande om styrelsens
+förslag till dispositioner beträffande bolagets vinst eller förlust
+har vi granskat om förslaget är förenligt med aktiebolagslagen.
+Göteborg den den dag som framgår av vår elektroniska
+underskrift.
+Ernst & Young AB
+Anders Linusson
+Auktoriserad revisor
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 63
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
@@ -31164,81 +33655,48 @@ Signerat CK, HS, PW, AL
 
 Revisionsberättelse
 
-Vi måste informera styrelsen om bland annat revisionens företagit någon åtgärd eller gjort sig skyldig till någon
-planerade omfattning och inriktning samt tidpunkten för försummelse som kan föranleda ersättningsskyldighet
-den. Vi måste också informera om betydelsefulla iakttagel- mot bolaget, eller
+Vi måste informera styrelsen om bland annat revisionens
+planerade omfattning och inriktning samt tidpunkten för
+den. Vi måste också informera om betydelsefulla iakttagel-
 ser under revisionen, däribland de eventuella betydande
-brister i den interna kontrollen som vi identifierat. på något annat sätt handlat i strid med aktiebolagsla-
-gen, årsredovisningslagen eller bolagsordningen.
+brister i den interna kontrollen som vi identifierat.
 Rapport om andra krav enligt lagar och
 andra författningar
-Vårt mål beträffande revisionen av förslaget till dispositio-
-ner av bolagets vinst eller förlust, och därmed vårt uttalan-
+
 Uttalanden
-de om detta, är att med rimlig grad av säkerhet bedöma
 Utöver vår revision av årsredovisningen har vi även utfört
-om förslaget är förenligt med aktiebolagslagen.
 en revision av styrelsens och verkställande direktörens
 förvaltning av Tempohus Kungsbacka AB för år 2025 samt
-Rimlig säkerhet är en hög grad av säkerhet, men ingen
 av förslaget till dispositioner beträffande bolagets vinst
-garanti för att en revision som utförs enligt god revisions-
 eller förlust.
-sed i Sverige alltid kommer att upptäcka åtgärder eller för-
-summelser som kan föranleda ersättningsskyldighet mot
 Vi tillstyrker att bolagsstämman disponerar vinsten enligt
-bolaget, eller att ett förslag till dispositioner av bolagets
 förslaget i förvaltningsberättelsen och beviljar styrelsens
-vinst eller förlust inte är förenligt med aktiebolagslagen.
 ledamöter och verkställande direktören ansvarsfrihet för
 räkenskapsåret.
-Som en del av en revision enligt god revisionssed i
-Sverige använder vi professionellt omdöme och har en
 Grund för uttalanden
-professionellt skeptisk inställning under hela revisionen.
 Vi har utfört revisionen enligt god revisionssed i Sverige.
-Granskningen av förvaltningen och förslaget till disposi-
 Vårt ansvar enligt denna beskrivs närmare i avsnittet Revi-
-tioner av bolagets vinst eller förlust grundar sig främst på
 sorns ansvar. Vi är oberoende i förhållande till Tempohus
-revisionen av räkenskaperna. Vilka tillkommande gransk-
 Kungsbacka AB enligt god revisorssed i Sverige och har i
-ningsåtgärder som utförs baseras på vår professionella
 övrigt fullgjort vårt yrkesetiska ansvar enligt dessa krav.
-bedömning med utgångspunkt i risk och väsentlighet.
-Det innebär att vi fokuserar granskningen på sådana
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga
-åtgärder, områden och förhållanden som är väsentliga för
 och ändamålsenliga som grund för våra uttalanden.
-verksamheten och där avsteg och överträdelser skulle ha
-särskild betydelse för bolagets situation. Vi går igenom och
 Styrelsens och verkställande direktörens ansvar
-prövar fattade beslut, beslutsunderlag, vidtagna åtgärder
 Det är styrelsen som har ansvaret för förslaget till disposi-
-och andra förhållanden som är relevanta för vårt uttalande
 tioner beträffande bolagets vinst eller förlust. Vid förslag
-om ansvarsfrihet. Som underlag för vårt uttalande om sty-
 till utdelning innefattar detta bland annat en bedömning
-relsens förslag till dispositioner beträffande bolagets vinst
 av om utdelningen är försvarlig med hänsyn till de krav
-eller förlust har vi granskat om förslaget är förenligt med
 som bolagets verksamhetsart, omfattning och risker stäl-
-aktiebolagslagen.
 ler på storleken av bolagets egna kapital, konsoliderings-
 behov, likviditet och ställning i övrigt.
-Göteborg den dag som framgår av vår elektroniska under-
-skrift.
 Styrelsen ansvarar för bolagets organisation och förvalt-
 ningen av bolagets angelägenheter. Detta innefattar
-Ernst & Young AB
 bland annat att fortlöpande bedöma bolagets ekonomiska
 situation och att tillse att bolagets organisation är utfor-
 mad så att bokföringen, medelsförvaltningen och bolagets
 ekonomiska angelägenheter i övrigt kontrolleras på ett
 betryggande sätt. Verkställande direktören ska sköta den
-Anders Linusson
 löpande förvaltningen enligt styrelsens riktlinjer och anvis-
-Auktoriserad revisor
 ningar och bland annat vidta de åtgärder som är nödvän-
 diga för att bolagets bokföring ska fullgöras i överensstäm-
 melse med lag och för att medelsförvaltningen ska skötas
@@ -31249,8 +33707,53 @@ därmed vårt uttalande om ansvarsfrihet, är att inhämta
 revisionsbevis för att med en rimlig grad av säkerhet kun-
 na bedöma om någon styrelseledamot eller verkställande
 direktören i något väsentligt avseende:
-14                                                                                                                               Årsredovisning Tempohus 2025 15
-Dokument-ID 09222115557571073374 Signerat CK, HS, PW, AL
+14
+Dokument-ID 09222115557571073374
+
+företagit någon åtgärd eller gjort sig skyldig till någon
+försummelse som kan föranleda ersättningsskyldighet
+mot bolaget, eller
+på något annat sätt handlat i strid med aktiebolagsla-
+gen, årsredovisningslagen eller bolagsordningen.
+
+Vårt mål beträffande revisionen av förslaget till dispositio-
+ner av bolagets vinst eller förlust, och därmed vårt uttalan-
+de om detta, är att med rimlig grad av säkerhet bedöma
+om förslaget är förenligt med aktiebolagslagen.
+
+Rimlig säkerhet är en hög grad av säkerhet, men ingen
+garanti för att en revision som utförs enligt god revisions-
+sed i Sverige alltid kommer att upptäcka åtgärder eller för-
+summelser som kan föranleda ersättningsskyldighet mot
+bolaget, eller att ett förslag till dispositioner av bolagets
+vinst eller förlust inte är förenligt med aktiebolagslagen.
+Som en del av en revision enligt god revisionssed i
+Sverige använder vi professionellt omdöme och har en
+professionellt skeptisk inställning under hela revisionen.
+Granskningen av förvaltningen och förslaget till disposi-
+tioner av bolagets vinst eller förlust grundar sig främst på
+revisionen av räkenskaperna. Vilka tillkommande gransk-
+ningsåtgärder som utförs baseras på vår professionella
+bedömning med utgångspunkt i risk och väsentlighet.
+Det innebär att vi fokuserar granskningen på sådana
+åtgärder, områden och förhållanden som är väsentliga för
+verksamheten och där avsteg och överträdelser skulle ha
+särskild betydelse för bolagets situation. Vi går igenom och
+prövar fattade beslut, beslutsunderlag, vidtagna åtgärder
+och andra förhållanden som är relevanta för vårt uttalande
+om ansvarsfrihet. Som underlag för vårt uttalande om sty-
+relsens förslag till dispositioner beträffande bolagets vinst
+eller förlust har vi granskat om förslaget är förenligt med
+aktiebolagslagen.
+Göteborg den dag som framgår av vår elektroniska under-
+skrift.
+Ernst & Young AB
+
+Anders Linusson
+Auktoriserad revisor
+
+Årsredovisning Tempohus 2025 15
+Signerat CK, HS, PW, AL
 
 <!-- sida 708 -->
 
@@ -37729,52 +40232,50 @@ REVISIONSBERÄTTELSE
 
 Till styrelsen i Stiftelsen Tjolöholm
 Org.nr. 849400-4578
-
-Rapport om årsredovisningen          • identifierar och bedömer vi riskerna för väsentliga felaktigheter i
-Uttalanden                           årsredovisningen, vare sig dessa beror på oegentligheter eller
-Vi har utfört en revision av årsredovisningen för Stiftelsen misstag, utformar och utför granskningsåtgärder bland annat
-Tjolöholm för år 2025.               utifrån dessa risker och inhämtar revisionsbevis som är tillräckliga
-Enligt vår uppfattning har årsredovisningen upprättats i enlighet och ändamålsenliga för att utgöra en grund för våra uttalanden.
-med årsredovisningslagen och ger en i alla väsentliga avseenden Risken för att inte upptäcka en väsentlig felaktighet till följd av
-rättvisande bild av stiftelsens finansiella ställning per den 31 oegentligheter är högre än för en väsentlig felaktighet som beror på
-december 2025 och av dess finansiella resultat för året enligt misstag, eftersom oegentligheter kan innefatta agerande i maskopi,
-årsredovisningslagen. Förvaltningsberättelsen är förenlig med förfalskning, avsiktliga utelämnanden, felaktig information eller
-årsredovisningens övriga delar.      åsidosättande av intern kontroll.
-Grund för uttalanden                 • skaffar vi oss en förståelse av den del av stiftelsens interna
-Vi har utfört revisionen enligt International Standards on Auditing kontroll som har betydelse för vår revision för att utforma
-(ISA) och god revisionssed i Sverige. Vårt ansvar enligt dessa granskningsåtgärder som är lämpliga med hänsyn till
-standarder beskrivs närmare i avsnittet "Revisorns ansvar". Vi är omständigheterna, men inte för att uttala oss om effektiviteten i
-oberoende i förhållande till stiftelsen enligt god revisorssed i den interna kontrollen.
+Rapport om årsredovisningen
+Uttalanden
+Vi har utfört en revision av årsredovisningen för Stiftelsen
+Tjolöholm för år 2025.
+Enligt vår uppfattning har årsredovisningen upprättats i enlighet
+med årsredovisningslagen och ger en i alla väsentliga avseenden
+rättvisande bild av stiftelsens finansiella ställning per den 31
+december 2025 och av dess finansiella resultat för året enligt
+årsredovisningslagen. Förvaltningsberättelsen är förenlig med
+årsredovisningens övriga delar.
+Grund för uttalanden
+Vi har utfört revisionen enligt International Standards on Auditing
+(ISA) och god revisionssed i Sverige. Vårt ansvar enligt dessa
+standarder beskrivs närmare i avsnittet "Revisorns ansvar". Vi är
+oberoende i förhållande till stiftelsen enligt god revisorssed i
 Sverige och har i övrigt fullgjort vårt yrkesetiska ansvar enligt
-dessa krav.                          • utvärderar vi lämpligheten i de redovisningsprinciper som
-Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och används och rimligheten i styrelsens och verkställande direktörens
-ändamålsenliga som grund för våra uttalanden. uppskattningar i redovisningen och tillhörande upplysningar.
-Övriga upplysningar                  • drar vi en slutsats om lämpligheten i att styrelsen och
-Revisionen av årsredovisningen för föregående räkenskapsår har verkställande direktören använder antagandet om fortsatt drift vid
-utförts av en annan revisor som lämnat en revisionsberättelse upprättandet av årsredovisningen. Vi drar också en slutsats, med
-daterad 22 april 2025 med omodifierade uttalanden i Rapport om grund i de inhämtade revisionsbevisen, om huruvida det finns
-årsredovisningen.                    någon väsentlig osäkerhetsfaktor som avser sådana händelser eller
-förhållanden som kan leda till betydande tvivel om stiftelsens
-Styrelsens och verkställande direktörens ansvar förmåga att fortsätta verksamheten. Om vi drar slutsatsen att det
-Det är styrelsen och verkställande direktören som har ansvaret för finns en väsentlig osäkerhetsfaktor, måste vi i revisionsberättelsen
-att årsredovisningen upprättas och att den ger en rättvisande bild fästa uppmärksamheten på upplysningarna i årsredovisningen om
-enligt årsredovisningslagen. Styrelsen och verkställande direktören den väsentliga osäkerhetsfaktorn eller, om sådana upplysningar är
-ansvarar även för den interna kontroll som de bedömer är otillräckliga, modifiera uttalandet om årsredovisningen. Våra
-nödvändig för att upprätta en årsredovisning som inte innehåller slutsatser baseras på de revisionsbevis som inhämtas fram till
-några väsentliga felaktigheter, vare sig dessa beror på datumet för revisionsberättelsen. Dock kan framtida händelser eller
-oegentligheter eller misstag.        förhållanden göra att en stiftelse inte längre kan fortsätta
-Vid upprättandet av årsredovisningen ansvarar styrelsen och verksamheten.
+dessa krav.
+Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och
+ändamålsenliga som grund för våra uttalanden.
+Övriga upplysningar
+Revisionen av årsredovisningen för föregående räkenskapsår har
+utförts av en annan revisor som lämnat en revisionsberättelse
+daterad 22 april 2025 med omodifierade uttalanden i Rapport om
+årsredovisningen.
+Styrelsens och verkställande direktörens ansvar
+Det är styrelsen och verkställande direktören som har ansvaret för
+att årsredovisningen upprättas och att den ger en rättvisande bild
+enligt årsredovisningslagen. Styrelsen och verkställande direktören
+ansvarar även för den interna kontroll som de bedömer är
+nödvändig för att upprätta en årsredovisning som inte innehåller
+några väsentliga felaktigheter, vare sig dessa beror på
+oegentligheter eller misstag.
+Vid upprättandet av årsredovisningen ansvarar styrelsen och
 verkställande direktören för bedömningen av stiftelsens förmåga att
-fortsätta verksamheten. De upplyser, när så är tillämpligt, om • utvärderar vi den övergripande presentationen, strukturen och
-förhållanden som kan påverka förmågan att fortsätta verksamheten innehållet i årsredovisningen, däribland upplysningarna, och om
-och att använda antagandet om fortsatt drift. Antagandet om årsredovisningen återger de underliggande transaktionerna och
-fortsatt drift tillämpas dock inte om beslut har fattats om att händelserna i enlighet med stiftelselagen.
+fortsätta verksamheten. De upplyser, när så är tillämpligt, om
+förhållanden som kan påverka förmågan att fortsätta verksamheten
+och att använda antagandet om fortsatt drift. Antagandet om
+fortsatt drift tillämpas dock inte om beslut har fattats om att
 upphöra med verksamheten.
-Revisorns ansvar                     Vi måste informera styrelsen om bland annat revisionens planerade
-Våra mål är att uppnå en rimlig grad av säkerhet om huruvida omfattning och inriktning samt tidpunkten för den. Vi måste också
-årsredovisningen som helhet inte innehåller några väsentliga informera om betydelsefulla iakttagelser under revisionen,
-felaktigheter, vare sig dessa beror på oegentligheter eller misstag, däribland de eventuella betydande brister i den interna kontrollen
-och att lämna en revisionsberättelse som innehåller våra som vi identifierat.
+Revisorns ansvar
+Våra mål är att uppnå en rimlig grad av säkerhet om huruvida
+årsredovisningen som helhet inte innehåller några väsentliga
+felaktigheter, vare sig dessa beror på oegentligheter eller misstag,
+och att lämna en revisionsberättelse som innehåller våra
 uttalanden. Rimlig säkerhet är en hög grad av säkerhet, men är
 ingen garanti för att en revision som utförs enligt ISA och god
 revisionssed i Sverige alltid kommer att upptäcka en väsentlig
@@ -37786,6 +40287,50 @@ ekonomiska beslut som användare fattar med grund i
 Som del av en revision enligt ISA använder vi professionellt
 omdöme och har en professionellt skeptisk inställning under hela
 revisionen. Dessutom:
+
+• identifierar och bedömer vi riskerna för väsentliga felaktigheter i
+årsredovisningen, vare sig dessa beror på oegentligheter eller
+misstag, utformar och utför granskningsåtgärder bland annat
+utifrån dessa risker och inhämtar revisionsbevis som är tillräckliga
+och ändamålsenliga för att utgöra en grund för våra uttalanden.
+Risken för att inte upptäcka en väsentlig felaktighet till följd av
+oegentligheter är högre än för en väsentlig felaktighet som beror på
+misstag, eftersom oegentligheter kan innefatta agerande i maskopi,
+förfalskning, avsiktliga utelämnanden, felaktig information eller
+åsidosättande av intern kontroll.
+• skaffar vi oss en förståelse av den del av stiftelsens interna
+kontroll som har betydelse för vår revision för att utforma
+granskningsåtgärder som är lämpliga med hänsyn till
+omständigheterna, men inte för att uttala oss om effektiviteten i
+den interna kontrollen.
+• utvärderar vi lämpligheten i de redovisningsprinciper som
+används och rimligheten i styrelsens och verkställande direktörens
+uppskattningar i redovisningen och tillhörande upplysningar.
+• drar vi en slutsats om lämpligheten i att styrelsen och
+verkställande direktören använder antagandet om fortsatt drift vid
+upprättandet av årsredovisningen. Vi drar också en slutsats, med
+grund i de inhämtade revisionsbevisen, om huruvida det finns
+någon väsentlig osäkerhetsfaktor som avser sådana händelser eller
+förhållanden som kan leda till betydande tvivel om stiftelsens
+förmåga att fortsätta verksamheten. Om vi drar slutsatsen att det
+finns en väsentlig osäkerhetsfaktor, måste vi i revisionsberättelsen
+fästa uppmärksamheten på upplysningarna i årsredovisningen om
+den väsentliga osäkerhetsfaktorn eller, om sådana upplysningar är
+otillräckliga, modifiera uttalandet om årsredovisningen. Våra
+slutsatser baseras på de revisionsbevis som inhämtas fram till
+datumet för revisionsberättelsen. Dock kan framtida händelser eller
+förhållanden göra att en stiftelse inte längre kan fortsätta
+verksamheten.
+• utvärderar vi den övergripande presentationen, strukturen och
+innehållet i årsredovisningen, däribland upplysningarna, och om
+årsredovisningen återger de underliggande transaktionerna och
+händelserna i enlighet med stiftelselagen.
+Vi måste informera styrelsen om bland annat revisionens planerade
+omfattning och inriktning samt tidpunkten för den. Vi måste också
+informera om betydelsefulla iakttagelser under revisionen,
+däribland de eventuella betydande brister i den interna kontrollen
+som vi identifierat.
+
 Sida 1 av 2
 Dokument-ID 09222115557572544062 Signerat HL
 

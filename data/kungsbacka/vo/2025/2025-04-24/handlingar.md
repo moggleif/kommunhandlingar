@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6d76bb7f1963d5107e673c96/1745304843
 sha256: b3b5e65f7d7b2e572b701fa84edb7df622e4879b37cf63678c9157202220cd9f
 bytes: 8778359
 sidor: 154
-hamtad: 2026-10-24T06:52:27+00:00
-konverterad: 2026-10-24T06:52:55+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:08:26+00:00
+konverterad: 2026-11-06T21:09:07+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1652,48 +1652,80 @@ hos våra medarbetare.
 
 <!-- sida 40 -->
 
-I Halland    gör  vi vård   och   omsorg     bättre   tillsammans.
+I Halland    gör   vi vård  och   omsorg     bättre   tillsammans.
 GEMENSAM
 
-Jag är delaktig och tar
-Jag som medarbetare gör vård och                  aktivt ansvar för min Vi som organisation gör vård och omsorg
-omsorg gemensam …                                  hälsa utifrån mina  gemensam …
-förutsättningar.
-•  När jag frågar vad som är viktigt för                               •  När vi arbetar aktivt för att vårdoch omsorg i
-individen och sedan utformar vårdoch                                   Halland ska fungera och upplevas som en enda
-omsorgutifrån det.                                                     organisation.
-•  När jag stöttar individen att vara delaktig                         •  När vi ser till att gränserna för
-genom att lyssna på individens kunskap                                 huvudmannaskap och förvaltning inte utgör
-och egna förmågor.                                                     gränser för samverkan och kommunikation.
-•  När jag har kunskap om vård och                                     •  När vi skapar förutsättningar för en sömlös
-omsorgssystemet i Halland och på vilket                                organisation och ger medarbetaren tillgång till
-sätt jag bidrar till det gemensamma                                    plattformar/verktyg/forum för kommunikation
-utbudet och en sammanhängande vård                                     över organisationsgränserna.
-och omsorg.                                                         •  När vi skapar delaktighet med tydliga mål,
-•  När jag ger individen kunskap om sin                                   handlingsplaner och kontinuerlig uppföljning
-egen roll och vilket ansvar individen har i                            kring vårt gemensamma arbete.
+Jag som medarbetare gör vård och
+omsorg gemensam …
+
+•  När jag frågar vad som är viktigt för
+individen och sedan utformar vårdoch
+omsorgutifrån det.
+•  När jag stöttar individen att vara delaktig
+genom att lyssna på individens kunskap
+och egna förmågor.
+•  När jag har kunskap om vård och
+omsorgssystemet i Halland och på vilket
+sätt jag bidrar till det gemensamma
+utbudet och en sammanhängande vård
+och omsorg.
+•  När jag ger individen kunskap om sin
+egen roll och vilket ansvar individen har i
 den gemensamma vård-och
 omsorgsplaneringen.
 
+Jag är delaktig och tar
+aktivt ansvar för min Vi som organisation gör vård och omsorg
+hälsa utifrån mina  gemensam …
+förutsättningar.
+•  När vi arbetar aktivt för att vårdoch omsorg i
+Halland ska fungera och upplevas som en enda
+organisation.
+•  När vi ser till att gränserna för
+huvudmannaskap och förvaltning inte utgör
+gränser för samverkan och kommunikation.
+•  När vi skapar förutsättningar för en sömlös
+organisation och ger medarbetaren tillgång till
+plattformar/verktyg/forum för kommunikation
+över organisationsgränserna.
+•  När vi skapar delaktighet med tydliga mål,
+handlingsplaner och kontinuerlig uppföljning
+kring vårt gemensamma arbete.
+
 <!-- sida 41 -->
 
-TRYGG           I Halland    bygger    vård  och   omsorg     på  kompetens       och   tillit.
+TRYGG          I Halland    bygger    vård   och   omsorg     på  kompetens       och  tillit.
+
+Jag som medarbetare gör vård och
+omsorg trygg …
+
+• När jag bemöter individen med omtanke
+och respekt.
+• När jag hjälper individen med rätt
+kompetens och på rätt nivå.
+• När jag tillsammans med individen
+planerarnästa steg i vårdprocessen.
+• När jag arbetar med förtroendeskapande
+insatser gentemot individen.
+• När jag i största möjliga mån erbjuder
+individen samma vårdkontakt vid varje
+besök.
 
 Jaghar förtroende för
-Jag som medarbetare gör vård och                  vård och omsorg och  Vi som organisation gör vård och
-omsorg trygg …                                    känner mig sedd och  omsorg trygg …
+vård och omsorg och  Vi som organisation gör vård och
+känner mig sedd och omsorg trygg …
 lyssnad på.
-• När jag bemöter individen med omtanke                              •  När vård och omsorg baseras på
-och respekt.                                                           vetenskap och beprövad erfarenhet.
-• När jag hjälper individen med rätt                                 •  När vi arbetar aktivt för att öka och
-kompetens och på rätt nivå.                                            bevara kompetens inom organisationen
-• När jag tillsammans med individen                                     genom att förse alla medarbetare med
-planerarnästa steg i vårdprocessen.                                    kompetensutveckling, lärandemöjligheter
-• När jag arbetar med förtroendeskapande                                och arbetsredskap efter senaste evidens
-insatser gentemot individen.                                           (t. ex system, metoder, digitala verktyg).
-• När jag i största möjliga mån erbjuder                             •  När organisationen har en kultur som
-individen samma vårdkontakt vid varje                                  stödjer ett personcentrerat arbetssätt
-besök.                                                                 med hög kontinuitet.
+•  När vård och omsorg baseras på
+vetenskap och beprövad erfarenhet.
+•  När vi arbetar aktivt för att öka och
+bevara kompetens inom organisationen
+genom att förse alla medarbetare med
+kompetensutveckling, lärandemöjligheter
+och arbetsredskap efter senaste evidens
+(t. ex system, metoder, digitala verktyg).
+•  När organisationen har en kultur som
+stödjer ett personcentrerat arbetssätt
+med hög kontinuitet.
 •  När vi har strukturer, stöd och
 överenskommelser där det för
 medarbetaren ”är lätt att göra rätt”.
@@ -1703,22 +1735,36 @@ och omsorg.
 
 <!-- sida 42 -->
 
-ENKEL           I Halland    är vård   och   omsorg     nära   och   lätt att  nå.
+ENKEL          I Halland    är  vård   och  omsorg      nära  och   lätt  att nå.
+
+Jag som medarbetare gör vård och
+omsorg enkel …
+
+•  När jag är tillgänglig för individen på flera
+olika sätt (fysiskt, telefon, digitalt).
+•  När jag ger råd, stöd, vård och omsorg
+där individen befinner sig.
+•  När jag ger individen kunskap om var
+planering och dokumentation av vård och
+omsorgfinns tillgänglig.
+•  När jag agerar som en del av en
+sammanhållande vård och omsorg samt
+ser bortom organisationsgränserna.
 
 När jag behöver hjälp så
-Jag som medarbetare gör vård och    vet jag vart jag ska vända         Vi som organisation gör vård och omsorg
-omsorg enkel …                      mig och hur planeringen            enkel …
+vet jag vart jag ska vända          Vi som organisation gör vård och omsorg
+mig och hur planeringen            enkel …
 av min vård ser ut.
-•  När jag är tillgänglig för individen på flera                       •  När vi har ett gemensamt språk.
-olika sätt (fysiskt, telefon, digitalt).                            •  När vi skapar förutsättningar för
-•  När jag ger råd, stöd, vård och omsorg                                 medarbetaren att ge sammanhållen vård
-där individen befinner sig.                                            och omsorg nära individen.
-•  När jag ger individen kunskap om var                                •  När vi ger individen enkel tillgång till
-planering och dokumentation av vård och                                dokumentation och planering av sin vård
-omsorgfinns tillgänglig.                                               och omsorg.
-•  När jag agerar som en del av en                                     •  När vi skapar förutsättningar för
-sammanhållande vård och omsorg samt                                    gränsöverskridande kommunikation och
-ser bortom organisationsgränserna.                                     samverkan mellan olika huvudmän.
+•  När vi har ett gemensamt språk.
+•  När vi skapar förutsättningar för
+medarbetaren att ge sammanhållen vård
+och omsorg nära individen.
+•  När vi ger individen enkel tillgång till
+dokumentation och planering av sin vård
+och omsorg.
+•  När vi skapar förutsättningar för
+gränsöverskridande kommunikation och
+samverkan mellan olika huvudmän.
 •  När vi har tydliga och välkända
 processer där vi har kunskap om
 varandras uppdrag och det är tydligt

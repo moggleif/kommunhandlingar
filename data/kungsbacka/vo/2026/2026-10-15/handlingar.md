@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.dedd4261a115a113768e09a/17918092512
 sha256: e6a8a6361eb90d92e12caf7e791895decd894c9a81239745a60e16f8c267725d
 bytes: 12160129
 sidor: 360
-hamtad: 2026-10-24T07:04:56+00:00
-konverterad: 2026-10-24T07:07:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:25:46+00:00
+konverterad: 2026-11-06T21:29:49+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -985,32 +985,45 @@ därför   att  stödet   är  ändamålsenligt.
 
 <!-- sida 26 -->
 
-Förstudien                  visar        att      behoven               är    bredare              än
+Förstudien                  visar        att      behoven               är     bredare             än
 
 personalens                    arbetssituation
 
-•  Förstudien   bygger  på  kartläggning  av                  •  Fältstudierna   tydliggör  behovet   av större
+•  Förstudien   bygger  på  kartläggning   av
+personalens    behov  och  arbetsflöden.
 
-personalens   behov   och  arbetsflöden.                      användning    av välfärdsteknik   som   underlättar
-vård-  och  omsorgstagares     trygghet  och
-•  Den  har  kompletterats    med  fältstudier  av
-delaktighet   i vardagen.
+•  Den  har  kompletterats    med   fältstudier  av
+
 vård-  och  omsorgstagares     samt  anhörigas
-behov.                                                     •  Gränssnitt   och  kontaktvägar   behöver   bättre
-anpassas   till deras vardag,  bland   annat  genom
-•  Dessa  visar  behov  av  trygghet, kontinuitet,
-enklare  och  mer   röstbaserade   lösningar.
-självständighet   och  bättre  samverkan    kring
-individen  – både   inom  och  utanför                     •  De  pekar  också  på  behov   av väsentligt
-kommunen.                                                     starkare  samverkan    med   regional  vård.
-•  Vidare  ses  möjligheter  att integrera  flera
+behov.
 
+•  Dessa   visar behov  av  trygghet,  kontinuitet,
+självständighet   och  bättre  samverkan    kring
+
+individen  – både   inom  och  utanför
+kommunen.
+
+•  Fältstudierna   tydliggör  behovet   av större
+användning    av välfärdsteknik   som   underlättar
+
+vård-  och  omsorgstagares     trygghet  och
+delaktighet   i vardagen.
+
+•  Gränssnitt   och  kontaktvägar   behöver   bättre
+anpassas   till deras vardag,  bland   annat  genom
+
+enklare  och  mer   röstbaserade   lösningar.
+
+•  De  pekar  också  på  behov   av väsentligt
+starkare  samverkan    med   regional  vård.
+
+•  Vidare  ses  möjligheter  att integrera  flera
 aktörer  i civilsamhället,  för att exempelvis
+
 minska   social isolering  och  utsatthet.
 
 •  Ett framtida   stöd  behöver   möjliggöra  säkrare
 informationsdelning     och  tydligare
-
 kontaktvägar    med  flera  olika typer av  aktörer.
 
 <!-- sida 27 -->
@@ -1144,33 +1157,52 @@ Appendix
 
 Begreppslista
 
-•  Verksamhetsmodell                                          •  Förmåga
-Hur verksamheten arbetar för att skapa värde: roller, ansvar, Det verksamheten eller systemet måste kunna göra för att
-arbetssätt, processer, samverkan och uppföljning.             nå sitt mål, till exempel planera, dokumentera, följa upp
-eller samverka.
+•  Verksamhetsmodell
+Hur verksamheten arbetar för att skapa värde: roller, ansvar,
+arbetssätt, processer, samverkan och uppföljning.
+
 •  Verksamhetsplattform
-Den samlade tekniska och funktionella grund som stödjer    •  Interoperabilitet
-verksamhetsmodellen, inklusive systemstöd, data,              Förmågan hos olika system, organisationer eller aktörer att
-integrationer och gemensamma tjänster.                        fungera tillsammans och använda information på ett
-gemensamt  och användbart sätt.
+Den samlade tekniska och funktionella grund som stödjer
+verksamhetsmodellen, inklusive systemstöd, data,
+integrationer och gemensamma tjänster.
 •  Styrmodell
-Hur beslut fattas, följs upp och prioriteras, inklusive    •  Masterdata
-mandat, forum, ansvar, etapper och beslutspunkter.            Grundläggande och gemensam  information som behöver
-vara korrekt och enhetlig i flera system, till exempel
-•  Kärnprocess                                                   personer, insatser, enheter eller behörigheter.
+Hur beslut fattas, följs upp och prioriteras, inklusive
+mandat, forum, ansvar, etapper och beslutspunkter.
+•  Kärnprocess
 Ett centralt arbetsflöde som direkt bidrar till verksamhetens
-uppdrag och värde för invånaren, till exempel från behov   •  Målarkitektur
-och beslut till planering, genomförande och uppföljning.      De övergripande principer och strukturer som beskriver hur
-den framtida lösningen ska byggas upp för att vara öppen,
-•  Integration                                                   säker och utvecklingsbar över tid.
+uppdrag och värde för invånaren, till exempel från behov
+och beslut till planering, genomförande och uppföljning.
+
+•  Integration
 Koppling mellan system som gör att information kan
-överföras, delas eller användas i flera delar av           •  Anskaffningsobjekt
-verksamheten utan manuell hantering.                          Det som kommunen  faktiskt upphandlar eller ingår avtal
-om, till exempel en verksamhetsplattform, en
-•  API                                                           huvudleverantör eller båda delarna tillsammans.
+överföras, delas eller användas i flera delar av
+verksamheten utan manuell hantering.
+•  API
 Ett standardiserat gränssnitt som gör det möjligt för olika
 system att utbyta information och funktioner på ett
 kontrollerat sätt.
+
+•  Förmåga
+Det verksamheten eller systemet måste kunna göra för att
+nå sitt mål, till exempel planera, dokumentera, följa upp
+eller samverka.
+•  Interoperabilitet
+Förmågan hos olika system, organisationer eller aktörer att
+fungera tillsammans och använda information på ett
+gemensamt  och användbart sätt.
+
+•  Masterdata
+Grundläggande och gemensam  information som behöver
+vara korrekt och enhetlig i flera system, till exempel
+personer, insatser, enheter eller behörigheter.
+•  Målarkitektur
+De övergripande principer och strukturer som beskriver hur
+den framtida lösningen ska byggas upp för att vara öppen,
+säker och utvecklingsbar över tid.
+•  Anskaffningsobjekt
+Det som kommunen  faktiskt upphandlar eller ingår avtal
+om, till exempel en verksamhetsplattform, en
+huvudleverantör eller båda delarna tillsammans.
 
 <!-- sida 37 -->
 

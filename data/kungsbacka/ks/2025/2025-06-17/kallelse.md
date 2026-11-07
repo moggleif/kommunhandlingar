@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f92dfd/17497111062
 sha256: 43a7b659cebd3fc83eed465ff309d26b2ebd92d414df41f8bf0da29386d253e9
 bytes: 199282
 sidor: 7
-hamtad: 2026-10-24T07:25:46+00:00
-konverterad: 2026-10-24T07:25:52+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:49:08+00:00
+konverterad: 2026-11-06T21:49:13+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -120,29 +120,41 @@ kommunfullmäktige och
 Kommunstyrelsen sammanträder följande datum år
 kommunstyrelsen
 2026
-20 januari    16 juni    15 december
-17 februari   25 augusti
-17 mars       22 september
+20 januari   16 juni     15 december
+17 februari  25 augusti
 
-21 april      20 oktober
-26 maj        24 november
+17 mars      22 september
+21 april     20 oktober
+
+26 maj       24 november
+
+22\. Redovisning av kommunalt
+partistöd för år 2024 och
+utbetalning av partistöd för år
+2026
+
+23\. Svar på motion från Roger
+Larsson (KB) om kostnadsfri
+utdelning av broddar till
+invånare som är 65 år eller
+äldre
 
 Förslag till beslut i kommunfullmäktige
 Kommunfullmäktige sammanträder följande datum
 år 2026
 
-3 februari    11 augusti
+3 februari   11 augusti
 
-3 mars        8 september
-14 april      6 oktober
+3 mars       8 september
+14 april     6 oktober
 
-5 maj         3 november
+5 maj        3 november
 9 juni (heldag) 8 december
 
-22\. Redovisning av kommunalt 2025-00145 Förslag till beslut i kommunfullmäktige
-partistöd för år 2024 och      Kommunfullmäktige beviljar Moderaterna,
-utbetalning av partistöd för år Centerpartiet, Liberalerna, Kristdemokraterna,
-2026                           Socialdemokraterna, Miljöpartiet de gröna,
+2025-00145 Förslag till beslut i kommunfullmäktige
+Kommunfullmäktige beviljar Moderaterna,
+Centerpartiet, Liberalerna, Kristdemokraterna,
+Socialdemokraterna, Miljöpartiet de gröna,
 Vänsterpartiet, Sverigedemokraterna och
 Kungsbackaborna partistöd för år 2026.
 
@@ -152,11 +164,11 @@ respektive parti besitter i kommunfullmäktige efter
 de allmänna valen 2022. Partistödet betalas ut i
 januari 2026.
 
-23\. Svar på motion från Roger 2024-00851 Förslag till beslut i kommunfullmäktige
-Larsson (KB) om kostnadsfri    Kommunfullmäktige avslår motionen med
-utdelning av broddar till      hänvisning till att åtgärden bedöms ha begränsad
-invånare som är 65 år eller    påverkan på antal fallolyckor.
-äldre
+2024-00851 Förslag till beslut i kommunfullmäktige
+Kommunfullmäktige avslår motionen med
+hänvisning till att åtgärden bedöms ha begränsad
+
+påverkan på antal fallolyckor.
 
 <!-- sida 7 -->
 

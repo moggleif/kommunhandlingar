@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfb4cb5f/17767680061
 sha256: ef1315c35c4933f93c67a021c8c5d46de7e0d183699099d538c5089036f5d3c9
 bytes: 13393980
 sidor: 124
-hamtad: 2026-10-24T06:59:06+00:00
-konverterad: 2026-10-24T06:59:54+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:17:27+00:00
+konverterad: 2026-11-06T21:18:31+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1485,31 +1485,45 @@ medarbetare
 
 <!-- sida 37 -->
 
-Aktivitet                                                 Kommentar
+Aktivitet
 
-Testa Datapult och Medvind:                                                     Få ett komplett underlag för att kunna gå vidare till ev.
-upphandling – Finns det något system som uppfyller
+Testa Datapult och Medvind:
+
 Utvärdera:
-våra förväntningar:
 1\. Ifall Datapult eller Medvind Autoschema kan ge mer signifikanta resultat.
 2\. Uppfylls samtliga förväntningar/målbild.
 
-Diskutera strategiska åtgärder:                                                 För att uppnå signifikanta effekter bör detta
-utvärderas (70% av potentialen enl. Konvoj).
+Diskutera strategiska åtgärder:
+
 Då testerna endast visar marginella förbättringar på schemana skulle detta kräva ”strategiska förändringar”, dvs att man
-öppnar för att justera regler, policies, bemanningshandbok etc.                 .
+öppnar för att justera regler, policies, bemanningshandbok etc.
 Nästa steg: Besluta om detta är aktuellt. Om så är fallet skulle Konvoj kunna användas för effektiv scenario-simulering.
 
-Eventuell kortsiktig lösning, värdering och beslut bör
 Parallellt – Kortsiktigt operativt stöd (linjefråga):
-ägas av GIB/linjen.
+
 Avtalet med Konvoj sträcker sig fram till 18 maj 2026, och fram till dess kan kommunen utnyttja systemet till max för att både
 testa funktionaliteten i drift, få stöttning i arbetet med sommarplaneringen och ta fram en del av de analyser som kan ligga till
 grund för strategisk arbete med schemaläggning.
 
-Inte rekommenderat i detta läge.
 Gå vidare till kravställning och upphandlingsfas:
+
 Än så länge har vi inte sett att någon leverantör uppfyller vår målbild till 100%, vi bör därför avvakta vidare tester.
+
+Kommentar
+
+Få ett komplett underlag för att kunna gå vidare till ev.
+upphandling – Finns det något system som uppfyller
+våra förväntningar:
+
+För att uppnå signifikanta effekter bör detta
+utvärderas (70% av potentialen enl. Konvoj).
+
+.
+
+Eventuell kortsiktig lösning, värdering och beslut bör
+ägas av GIB/linjen.
+
+Inte rekommenderat i detta läge.
 
 <!-- sida 38 -->
 
@@ -2346,24 +2360,33 @@ Stärkta            insatser            för     äldre        och       för   
 
 vårdar          eller       stöder           närstående
 
-Proposition  2025/26:60                                 •  Socialnämnden     ska  erbjuda  en stödkontakt
-till den som vårdar  eller stöder närstående
+Proposition  2025/26:60
+
 Träder  i kraft 1 juli 2026
 
-•  Socialnämnden     ansvarar  för att ge insatser
-•  Fast omsorgskontakt     i SÄBO  (tidigare
-till barn som har  behov  av stöd  när en
+•  Fast  omsorgskontakt    i SÄBO   (tidigare
 enbart  hemtjänst)
-närstående   t.ex. är allvarligt sjuk eller
-oväntat  avlider
+
 •  Stödet  till anhöriga får samma   formulering
 oavsett  om  den  närstående   är äldre,
-•  Avlösarservice   enligt LSS  behöver   inte
-långvarigt sjuk eller har en
-längre  behöver  utföras  i hemmet
+
+långvarigt  sjuk eller har en
 funktionsnedsättning
+
 •  Socialnämnden     ska erbjuda  information
 och  vägledning  till anhöriga
+
+•  Socialnämnden     ska erbjuda  en  stödkontakt
+till den som vårdar  eller stöder närstående
+
+•  Socialnämnden     ansvarar  för att ge insatser
+till barn som har behov   av stöd  när en
+
+närstående   t.ex. är allvarligt sjuk eller
+oväntat  avlider
+
+•  Avlösarservice   enligt LSS  behöver   inte
+längre  behöver  utföras  i hemmet
 
 <!-- sida 92 -->
 

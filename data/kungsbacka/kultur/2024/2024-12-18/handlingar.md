@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf85ef93/173399351023
 sha256: b991e02d613944bd08cf47fc94b1dc152d681a5dd91772e694bcb0b7de8b37b7
 bytes: 20962353
 sidor: 257
-hamtad: 2026-10-23T11:03:27+00:00
-konverterad: 2026-10-23T11:04:17+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T20:04:58+00:00
+konverterad: 2026-11-06T20:05:49+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ocr, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -422,31 +422,49 @@ Riktade             enkäter             Hanhals               IF    (okt       
 Bakgrund U16:
 Bakgrund  U14:
 
-• För gruppen U16  så
 • Under  säsongen  så har vi i
-genomfördes  det ett arbete
-föreningen  genomfört  insatser,
-tillsammans med  laget där vi i
-både  genom  dialog med  barn och
-styrelsen, ordf samt vice
-ungdomarna    samt även
-ordförande, satte oss
-förändringar i organisationen kring
-tillsammans med  spelarna och
-lagen. Styrelsen tog beslut att                   hade många  bra samtal inför det
-under  senhösten  göra en                         förändringsarbete som
 
-uppföljningsenkät  för att följa upp              verkställdes med tränarbyte
-samt fokusförflyttning tillbaka till
+föreningen  genomfört  insatser,
+
+både  genom  dialog med  barn och
+
+ungdomarna    samt även
+förändringar i organisationen kring
+
+lagen. Styrelsen tog beslut att
+
+under  senhösten  göra en
+
+uppföljningsenkät  för att följa upp
+
 det arbete som  gjorts.
-hockeyutbildning samt arbetet
+
+• För gruppen  U16 så
+
+genomfördes   det ett arbete
+tillsammans med  laget där vi i
+
+styrelsen, ordf samt vice
+
+ordförande, satte oss
+
+tillsammans med  spelarna och
+hade  många  bra samtal inför det
+
+förändringsarbete som
+
+verkställdes med tränarbyte
+samt  fokusförflyttning tillbaka till
+
+hockeyutbildning samt  arbetet
 
 med  positiv förstärkning och
-feedback direkt i samband med
+feedback  direkt i samband med
 
 match  eller träning. Styrelsen
 
 ville med riktad enkät följa upp
+
 status detta genomförda arbete.
 
 <!-- sida 21 -->
@@ -549,37 +567,58 @@ Kontakt                             s. 22
 
 Om     undersökningen
 
-Bakgrund och syfte                                               Metod
-Kultur och fritid är ett ofta omdebatterat område där kommunerna har en stor uppgift i att hålla Utskicket skedde genom olika metoder. Först skickades en brevinbjudan med en länk/QR-kod till
-kultur-och fritidsområdet levande, samt leverera aktiviteter på området som deras invånare en webbenkät. Därefter skickades en SMS-påminnelse ut till de personer som ännu inte svarat på
-efterfrågar. Idag saknas en inblick i vad invånarna har för åsikter och vad de efterfrågar inom enkäten. En tid senare skickades en pappersenkät ut och avslutningsvis skickades ytterligare två
-kultur-och fritidsområdet på den lokala nivån och det är med bakgrund i detta som SMS-påminnelser ut med cirka en veckas mellanrum.
+Bakgrund och syfte
+Kultur och fritid är ett ofta omdebatterat område där kommunerna har en stor uppgift i att hålla
+kultur-och fritidsområdet levande, samt leverera aktiviteter på området som deras invånare
+efterfrågar. Idag saknas en inblick i vad invånarna har för åsikter och vad de efterfrågar inom
+kultur-och fritidsområdet på den lokala nivån och det är med bakgrund i detta som
 Kulturbarometern tagits fram.
-Enkät
-Kulturbarometern är ett initiativ till att bredda kommunernas förståelse över dess invånares vanor, Enkäten bestod av nio kultur-och fritidsfrågor/matriser, tolvbakgrundsfrågor och ett antal
-preferenser, åsikter, etcetera inom kultur-och fritidsområdet. Undersökningen ger kommunerna kommunspecifika frågor som varje kommun hade möjligheten att lägga till.
+
+Kulturbarometern är ett initiativ till att bredda kommunernas förståelse över dess invånares vanor,
+preferenser, åsikter, etcetera inom kultur-och fritidsområdet. Undersökningen ger kommunerna
 en unik möjlighet att mäta invånarnas åsikter på ett antal generella frågor som kan jämföras med
-andra kommuner eller andra undersökningar och som ger kommunen en möjlighet att följa upp Frågeformuläret har arbetats fram av Indikator och många av frågorna är inspirerade av frågor i
-resultatet i framtida omgångar av Kulturbarometern. Kommunerna har även möjlighet att designa välbeprövade och etablerade nationella undersökningar. Indikator har lång erfarenhet av att
-egna frågor som är utformade efter den specifika kommunens kultur-och fritidskontext. formulera frågor som fångar in det som undersökningen ämnar att mäta.
-Det är Institutet för kvalitetsindikatorer (Indikator) som initierat denna andra omgång av Rapport
+andra kommuner eller andra undersökningar och som ger kommunen en möjlighet att följa upp
+resultatet i framtida omgångar av Kulturbarometern. Kommunerna har även möjlighet att designa
+egna frågor som är utformade efter den specifika kommunens kultur-och fritidskontext.
+Det är Institutet för kvalitetsindikatorer (Indikator) som initierat denna andra omgång av
 Kulturbarometern och som ansvarar för hela processen från frågekonstruktion till leverans av
-Resultatet på varje fråga presenteras i form av diagram och text. Rapportens syfte är att på ett
 rapporter och data. Samtliga Sveriges kommuner har fått frågan att delta, varav totalt tre
-intuitivt sätt presentera och tolka resultatet. I denna rapport presenteras svaren från Kungsbacka
 kommuner tackat ja.
-kommuns invånare. I övrigt får samtliga deltagande kommunertillgång till resultatet från sin egen
-Rapporten som presenteras är Kungsbacka kommunrapport.           kommun i form av frekvenstabeller och rådata för varje kommun. Resultatet är viktat på kön och
-ålder mot befolkningsstatistik.
+
+Rapporten som presenteras är Kungsbacka kommunrapport.
 Genomförande
 Undersökningen pågick mellan den 2 september och den 30 oktober –cirka 8 veckor.
-Kontaktpersoner Indikator
+
 Målgrupp och urval
-Klara Bové
 Målgruppen var personer folkbokförda i Kungsbacka kommun och urvalet bestod av 2000
-(e-post borttagen)
 personer varav totalt 649 personer svarade på hela eller delar av enkäten, vilket ger en
 svarsfrekvens på 32 procent.
+
+Metod
+Utskicket skedde genom olika metoder. Först skickades en brevinbjudan med en länk/QR-kod till
+en webbenkät. Därefter skickades en SMS-påminnelse ut till de personer som ännu inte svarat på
+enkäten. En tid senare skickades en pappersenkät ut och avslutningsvis skickades ytterligare två
+SMS-påminnelser ut med cirka en veckas mellanrum.
+
+Enkät
+Enkäten bestod av nio kultur-och fritidsfrågor/matriser, tolvbakgrundsfrågor och ett antal
+kommunspecifika frågor som varje kommun hade möjligheten att lägga till.
+Frågeformuläret har arbetats fram av Indikator och många av frågorna är inspirerade av frågor i
+
+välbeprövade och etablerade nationella undersökningar. Indikator har lång erfarenhet av att
+formulera frågor som fångar in det som undersökningen ämnar att mäta.
+Rapport
+Resultatet på varje fråga presenteras i form av diagram och text. Rapportens syfte är att på ett
+intuitivt sätt presentera och tolka resultatet. I denna rapport presenteras svaren från Kungsbacka
+
+kommuns invånare. I övrigt får samtliga deltagande kommunertillgång till resultatet från sin egen
+kommun i form av frekvenstabeller och rådata för varje kommun. Resultatet är viktat på kön och
+ålder mot befolkningsstatistik.
+
+Kontaktpersoner Indikator
+Klara Bové
+(e-post borttagen)
+
 Simon Nygren Greus
 (e-post borttagen)
 
@@ -2869,32 +2908,42 @@ föreningar.
 
 Vägen framåt –Konsekvenser och åtgärdsförslag
 
-Princip:         Likvärdighet
+Princip:          Likvärdighet
 
-Konsekvenser        att  hantera                       Förslag    på  åtgärder
+Konsekvenser         att hantera
 
-• Det behöver vara lätt att få tydlig information om   • Tydliggör grundläggande krav som måste uppfyllas
-hur man blir en bidragsberättigad förening             för att en förening ska vara bidragsberättigad, t.ex.
+• Det behöver vara lätt att få tydlig information om
+hur man blir en bidragsberättigad förening
 
-•  lägsta nivå för antalet aktiva medlemmar
 • KFT behöver kunna neka bidrag till föreningar som
-•  att föreningen måste registrera sig i föreningsregistret och
 inte uppfyller grundläggande demokratikrav
-årligen uppdatera sina uppgifter
-• KFT behöver kontinuerligt kunna följa upp att           •  att föreningen ska vara ideell, allmännyttig och öppen för alla
-och där det av stadgarna ska framgå att alla som instämmer i
+
+• KFT behöver kontinuerligt kunna följa upp att
+
 föreningar är fortsatt bidragsberättigade
+
+Förslag    på  åtgärder
+
+• Tydliggör grundläggande krav som måste uppfyllas
+
+för att en förening ska vara bidragsberättigad, t.ex.
+• lägsta nivå för antalet aktiva medlemmar
+• att föreningen måste registrera sig i föreningsregistret och
+årligen uppdatera sina uppgifter
+
+• att föreningen ska vara ideell, allmännyttig och öppen för alla
+och där det av stadgarna ska framgå att alla som instämmer i
 föreningens målsättningar har rätt till medlemskap
-•  att föreningen normalt ska ha sitt säte i Kungsbacka kommun
+• att föreningen normalt ska ha sitt säte i Kungsbacka kommun
 och i huvudsak bedriva sin verksamhet i Kungsbacka kommun
-•  att föreningar som bedriver verksamhet för barn och unga
+• att föreningar som bedriver verksamhet för barn och unga
 ansvarar för att verksamheten bedrivs i enlighet med FN:s
 barnkonvention och lagstiftning kopplat till denna
-•  att föreningar som bedriver verksamhet för personer med
+• att föreningar som bedriver verksamhet för personer med
 funktionsnedsättning ansvarar för att verksamheten bedrivs i
 enlighet med FN-konventionen om rättigheter för personer
 med funktionsnedsättning
-•  att föreningen inte agerar odemokratiskt, t.ex. genom att
+• att föreningen inte agerar odemokratiskt, t.ex. genom att
 kränka den enskildes grundläggande fri- och rättigheter,
 genom att diskriminera eller på annat sätt bryta mot
 principen om alla människors lika värde, eller genom att
@@ -2904,30 +2953,41 @@ motarbeta det demokratiska styrelseskicket.
 
 Vägen framåt –Konsekvenser och åtgärdsförslag
 
-Princip:         Klubblokaler
+Princip:          Klubblokaler
 
-Konsekvenser        att  hantera                       Förslag    på  åtgärder
+Konsekvenser         att hantera
 
-• Det kan bli dyrare för vissa föreningar att ha samma • Utred hur olika klubbar påverkas
+• Det kan bli dyrare för vissa föreningar att ha samma
 standard som idag. T.ex. Särö, Onsala och Lerkil
-• Tydliggör vad som är klubblokal och vad som är
+
 kommer  få betydligt högre hyra eller mindre yta att
-verksamhetsyta, där det är oklart
 disponera
-• Ta fram en plan för övergång för klubbar där det får
+
 • Det kommer  innebära omfattande förändringar för
-ohållbart stora konsekvenser
 ridklubbarna gällande ägande och underhåll
+
 • Svårt att sära på vad som är klubblokal och vad
-som är verksamhetsyta när det ligger i samma
+som  är verksamhetsyta när det ligger i samma
 byggnad
+
 • Risk för minskade möjligheter för barn och
-ungdomar att använda klubblokal som "fritids"
+ungdomar  att använda klubblokal som "fritids"
 
 • Föreningarna behöver själva tillgodose sitt behov av
 klubblokaler
 
 • Ökar fokus på föreningarnas egna ägande
+
+Förslag    på  åtgärder
+
+• Utred hur olika klubbar påverkas
+
+• Tydliggör vad som är klubblokal och vad som är
+
+verksamhetsyta, där det är oklart
+• Ta fram en plan för övergång för klubbar där det får
+
+ohållbart stora konsekvenser
 
 <!-- sida 107 -->
 

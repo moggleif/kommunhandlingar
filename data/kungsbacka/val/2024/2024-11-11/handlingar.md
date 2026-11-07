@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.687e3942192fee12135294a3/1731061735
 sha256: 5615e8b78036d77633146bdbc7e76ec56517860ec12be89799f9379a68876c89
 bytes: 6564326
 sidor: 400
-hamtad: 2026-10-24T07:10:53+00:00
-konverterad: 2026-10-24T07:11:35+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:33:13+00:00
+konverterad: 2026-11-06T21:34:14+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7335,23 +7335,14 @@ Dnr VAL-328-2024
 
 <!-- sida 184 -->
 
-Dnr VAL-328-2024
-
-utsträckning som regeringen utsträckning som regeringen
-bestämmer, länsstyrelsen senast bestämmer, länsstyrelsen senast
-fredagen före valdagen.   fredagen före valdagen.
-En förklaring som avses i 9 § Om en unionsmedborgare som inte är
-andra stycket ska anses som ett svensk medborgare kandiderar i valet och
-samtycke till kandidaturen enligt 1. kandidaten inte har lämnat en
-första stycket för det parti försäkran enligt 2 kap. 11 § eller
-förklaringen avser.       2. den behöriga myndigheten i kandidatens
-Ett samtycke till kandidaturen för hemstat lämnar upplysningar som visar att
-ett parti i ett val gäller även för ett han eller hon har förlorat sin valbarhet där,
-omval i det valet.        ska samtycket inte beaktas.
-En förklaring som avses i 9 § andra
-stycket ska anses som ett samtycke
-till kandidaturen enligt första stycket
-för det parti förklaringen avser.
+utsträckning som regeringen
+bestämmer, länsstyrelsen senast
+fredagen före valdagen.
+En förklaring som avses i 9 §
+andra stycket ska anses som ett
+samtycke till kandidaturen enligt
+första stycket för det parti
+förklaringen avser.
 Ett samtycke till kandidaturen för
 ett parti i ett val gäller även för ett
 omval i det valet.
@@ -7359,6 +7350,28 @@ omval i det valet.
 5 kap. 5 §
 
 5 kap. 5 a §
+
+Dnr VAL-328-2024
+
+utsträckning som regeringen
+bestämmer, länsstyrelsen senast
+fredagen före valdagen.
+Om en unionsmedborgare som inte är
+svensk medborgare kandiderar i valet och
+1\. kandidaten inte har lämnat en
+
+försäkran enligt 2 kap. 11 § eller
+2\. den behöriga myndigheten i kandidatens
+hemstat lämnar upplysningar som visar att
+han eller hon har förlorat sin valbarhet där,
+ska samtycket inte beaktas.
+En förklaring som avses i 9 § andra
+stycket ska anses som ett samtycke
+till kandidaturen enligt första stycket
+för det parti förklaringen avser.
+Ett samtycke till kandidaturen för
+ett parti i ett val gäller även för ett
+omval i det valet.
 
 43
 
@@ -7423,20 +7436,30 @@ identifikationsuppgift.
 
 <!-- sida 187 -->
 
-Dnr VAL-328-2024
-
-6\. öppna de fönsterkuvert och 6. öppna de fönsterkuvert och
-ytterkuvert för brevröst som ytterkuvert för brevröst som
-uppfyller kraven under 2, 4 och 5 uppfyller kraven under 2, 4 och 5
-och kontrollera att kuverten och kontrollera att kuverten
-innehåller ytterkuvert för budröst innehåller ytterkuvert för budröst
-eller valkuvert och att kuverten uppfyller eller valkuvert och att väljaren inte
-kraven på hur sådana kuvert skall ha lämnat mer än ett valkuvert för vart och ett
-gjorts i ordning.         av de val väljaren har rösträtt i.
+6\. öppna de fönsterkuvert och
+ytterkuvert för brevröst som
+uppfyller kraven under 2, 4 och 5
+och kontrollera att kuverten
+innehåller ytterkuvert för budröst
+eller valkuvert och att kuverten uppfyller
+kraven på hur sådana kuvert skall ha
+gjorts i ordning.
 
 13 kap. 5 a §
 
 13 kap. 7 §
+
+Dnr VAL-328-2024
+
+6\. öppna de fönsterkuvert och
+ytterkuvert för brevröst som
+uppfyller kraven under 2, 4 och 5
+och kontrollera att kuverten
+innehåller ytterkuvert för budröst
+eller valkuvert och att väljaren inte
+
+lämnat mer än ett valkuvert för vart och ett
+av de val väljaren har rösträtt i.
 
 46
 
@@ -15339,23 +15362,14 @@ Dnr VAL-328-2024
 
 <!-- sida 383 -->
 
-Dnr VAL-328-2024
-
-utsträckning som regeringen utsträckning som regeringen
-bestämmer, länsstyrelsen senast bestämmer, länsstyrelsen senast
-fredagen före valdagen.   fredagen före valdagen.
-En förklaring som avses i 9 § Om en unionsmedborgare som inte är
-andra stycket ska anses som ett svensk medborgare kandiderar i valet och
-samtycke till kandidaturen enligt 1. kandidaten inte har lämnat en
-första stycket för det parti försäkran enligt 2 kap. 11 § eller
-förklaringen avser.       2. den behöriga myndigheten i kandidatens
-Ett samtycke till kandidaturen för hemstat lämnar upplysningar som visar att
-ett parti i ett val gäller även för ett han eller hon har förlorat sin valbarhet där,
-omval i det valet.        ska samtycket inte beaktas.
-En förklaring som avses i 9 § andra
-stycket ska anses som ett samtycke
-till kandidaturen enligt första stycket
-för det parti förklaringen avser.
+utsträckning som regeringen
+bestämmer, länsstyrelsen senast
+fredagen före valdagen.
+En förklaring som avses i 9 §
+andra stycket ska anses som ett
+samtycke till kandidaturen enligt
+första stycket för det parti
+förklaringen avser.
 Ett samtycke till kandidaturen för
 ett parti i ett val gäller även för ett
 omval i det valet.
@@ -15363,6 +15377,28 @@ omval i det valet.
 5 kap. 5 §
 
 5 kap. 5 a §
+
+Dnr VAL-328-2024
+
+utsträckning som regeringen
+bestämmer, länsstyrelsen senast
+fredagen före valdagen.
+Om en unionsmedborgare som inte är
+svensk medborgare kandiderar i valet och
+1\. kandidaten inte har lämnat en
+
+försäkran enligt 2 kap. 11 § eller
+2\. den behöriga myndigheten i kandidatens
+hemstat lämnar upplysningar som visar att
+han eller hon har förlorat sin valbarhet där,
+ska samtycket inte beaktas.
+En förklaring som avses i 9 § andra
+stycket ska anses som ett samtycke
+till kandidaturen enligt första stycket
+för det parti förklaringen avser.
+Ett samtycke till kandidaturen för
+ett parti i ett val gäller även för ett
+omval i det valet.
 
 43
 
@@ -15427,20 +15463,30 @@ identifikationsuppgift.
 
 <!-- sida 386 -->
 
-Dnr VAL-328-2024
-
-6\. öppna de fönsterkuvert och 6. öppna de fönsterkuvert och
-ytterkuvert för brevröst som ytterkuvert för brevröst som
-uppfyller kraven under 2, 4 och 5 uppfyller kraven under 2, 4 och 5
-och kontrollera att kuverten och kontrollera att kuverten
-innehåller ytterkuvert för budröst innehåller ytterkuvert för budröst
-eller valkuvert och att kuverten uppfyller eller valkuvert och att väljaren inte
-kraven på hur sådana kuvert skall ha lämnat mer än ett valkuvert för vart och ett
-gjorts i ordning.         av de val väljaren har rösträtt i.
+6\. öppna de fönsterkuvert och
+ytterkuvert för brevröst som
+uppfyller kraven under 2, 4 och 5
+och kontrollera att kuverten
+innehåller ytterkuvert för budröst
+eller valkuvert och att kuverten uppfyller
+kraven på hur sådana kuvert skall ha
+gjorts i ordning.
 
 13 kap. 5 a §
 
 13 kap. 7 §
+
+Dnr VAL-328-2024
+
+6\. öppna de fönsterkuvert och
+ytterkuvert för brevröst som
+uppfyller kraven under 2, 4 och 5
+och kontrollera att kuverten
+innehåller ytterkuvert för budröst
+eller valkuvert och att väljaren inte
+
+lämnat mer än ett valkuvert för vart och ett
+av de val väljaren har rösträtt i.
 
 46
 

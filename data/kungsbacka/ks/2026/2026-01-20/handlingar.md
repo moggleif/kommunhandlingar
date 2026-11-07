@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.10708ba619b353ddef6dfcb6/1768461381
 sha256: 43c0fb956e97f81f83acec1caa817ef041cc5762bb23cf0063871ea0a490ac7f
 bytes: 55022787
 sidor: 370
-hamtad: 2026-10-24T09:34:50+00:00
-konverterad: 2026-10-24T09:36:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-07T00:32:19+00:00
+konverterad: 2026-11-07T00:34:37+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -5032,44 +5032,70 @@ Insida    framsida
 
 Inledning
 
-Genom en regional fysisk plan ska den förutsättningar för att hantera region­
-kommunala och regionala nivån komplettera gemensamma utvecklingsfrågor vilket är
-varandra och bidra till den gemensamma av vikt i en v äxande region som Halland.
+Genom en regional fysisk plan ska den
+kommunala och regionala nivån komplettera
+varandra och bidra till den gemensamma
 utvecklingen i Halland. Den regionala fysiska
-planen ska omfatta hela Halland. Den ska Genom regional fysisk planering tas ett
-visa Hallands samlade vilja och ge för­ samlat grepp kring frågor och utmaningar
-utsättningar för utvecklingen av de fysiska på en regional nivå, en regional fysisk plan
-strukturerna som sträcker sig över kommun­ som bidrar till att fortsätta utveckla H allands
-och regiongränserna. Den regionala nivån attraktivitet, hållbara utveckling och
-ska fungera som en möjliggörare för att generera samhällsnytta.
+planen ska omfatta hela Halland. Den ska
+visa Hallands samlade vilja och ge för­
+utsättningar för utvecklingen av de fysiska
+strukturerna som sträcker sig över kommun­
+och regiongränserna. Den regionala nivån
+ska fungera som en möjliggörare för att
 bidra till samhandling samt komplettera och
-stötta den kommunala planeringen. Tillsammans kan då regionen, kommunerna
-och den nationella nivån hantera samhälls­
-Regional fysisk planering har som sitt utmaningar som är för stora och komplexa
-övergripande syfte att skapa goda för en enskild aktör.
+stötta den kommunala planeringen.
+
+Regional fysisk planering har som sitt
+övergripande syfte att skapa goda
 
 Innehåll
 
-Inledning                3   Uppföljning av planen   92
+Inledning                3
 
-Bakgrund och introduktion 4  Bilaga 1. Hallands inspel
-till nationell planering av
+Bakgrund och introduktion 4
 Ramverk                 12
-transportinfrastrukturen 97
 Övergripandeplaneringsprincip
-Bilaga 2. Beredskap och
 och planeringsförutsättningar 16
-säkerhet
 Mål och strategier      20
-Bilaga 3. Miljökonsekvensbeskrivning
-Strukturbild Halland och     och Hållbarhetsbedömning
+
+Strukturbild Halland och
 plankarta år 2050       42
-Bilaga 4. Barnkonsekvens och
-Planens genomförande    66   jämställdhetsanalys
-Målkonflikter och riksintressen Bilaga 5. Samrådsredogörelse
+Planens genomförande    66
+Målkonflikter och riksintressen
 i den fysiska planeringen 78
 
-REGIONAL FYSISK PLAN HALLAND                                        3
+REGIONAL FYSISK PLAN HALLAND
+
+förutsättningar för att hantera region­
+gemensamma utvecklingsfrågor vilket är
+av vikt i en v äxande region som Halland.
+
+Genom regional fysisk planering tas ett
+samlat grepp kring frågor och utmaningar
+på en regional nivå, en regional fysisk plan
+som bidrar till att fortsätta utveckla H allands
+attraktivitet, hållbara utveckling och
+generera samhällsnytta.
+
+Tillsammans kan då regionen, kommunerna
+och den nationella nivån hantera samhälls­
+utmaningar som är för stora och komplexa
+för en enskild aktör.
+
+Uppföljning av planen   92
+Bilaga 1. Hallands inspel
+till nationell planering av
+transportinfrastrukturen 97
+Bilaga 2. Beredskap och
+säkerhet
+Bilaga 3. Miljökonsekvensbeskrivning
+och Hållbarhetsbedömning
+
+Bilaga 4. Barnkonsekvens och
+jämställdhetsanalys
+Bilaga 5. Samrådsredogörelse
+
+3
 
 <!-- sida 135 -->
 
@@ -5088,103 +5114,172 @@ Samråd     Bearbetning  Granskning     Beslut    Antagen plan
 Dialoger
 
 Process Regional fysisk plan
-I 2–5 §§ miljöbedömningsförordningen
 Halland 2050
-(2017:966) framgår vilka planer som ska och
-Detta är granskningsversionen av Regional inte ska antas medföra betydande miljö­
-fysisk plan för Halland. Planförslaget är påverkan. En regionplan ska enligt 2 § p.2
-ute på granskning mellan 14 oktober 2025 antas medföra betydande miljöpåverkan,
-och 30 januari 2026. Under denna period dels eftersom den anger förutsättningar
-ges möjlighet att lämna synpunkter på för åtgärder och verksamheter som
-planförslaget.                  exempelvis tätortsbebyggelse, anläggande
-av industriområden och byggande av vägar,
-Efter granskningen sammanställs dels eftersom genomförandet av planen kan
-och bemöts inkomna synpunkter i ett kräva olika typer av tillstånd.
+
+Detta är granskningsversionen av Regional
+fysisk plan för Halland. Planförslaget är
+ute på granskning mellan 14 oktober 2025
+och 30 januari 2026. Under denna period
+ges möjlighet att lämna synpunkter på
+planförslaget.
+
+Efter granskningen sammanställs
+och bemöts inkomna synpunkter i ett
 gransknings utlåtande. Utifrån utlåtandet
-kan plan förslaget justeras innan det lämnas Regional fysisk plan för Halland omfattas
-vidare till regionfullmäktige för antagande, av kravet på strategisk miljöbedömning.
-planerat till juni 2026.        Inom ramen för detta har en hållbarhets­
-bedömning tagits fram, där en miljö­
-Arbetet med planen har skett i nära konsekvensbeskrivning (MKB) ingår som
-sam verkan med de halländska kommunerna en central del. Hållbarhets bedömningen
-och i dialog med myndigheter, organisa­ och MKB:n har varit integrerade i
-tioner och andra aktörer.       arbetet med planen och utgör en del av
-granskningshandlingarna.
+kan plan förslaget justeras innan det lämnas
+vidare till regionfullmäktige för antagande,
+planerat till juni 2026.
+
+Arbetet med planen har skett i nära
+sam verkan med de halländska kommunerna
+och i dialog med myndigheter, organisa­
+tioner och andra aktörer.
+
 Under samrådet våren 2025 inkom många
-synpunkter som bidragit till den reviderade Sammantaget visar miljö­ och hållbarhets­
-version som nu ställs ut för granskning. bedömningen att planen skapar goda förut­
-Granskningen utgör därmed det sista sättningar för att förena tillväxt med social,
-tillfället att påverka planens innehåll innan ekologisk och klimatmässig h ållbarhet.
-antagande.                      Samtidigt behöver vissa avvägningar och
-principer konkretiseras i efterföljande
-planering. Genom fortsatt samverkan och
-Strategisk miljöbedömning       fördjupning kan Halland utvecklas på ett
-av regionplanen                 sätt som stärker både livsmiljöer, natur­ och
-kulturvärden och regionens långsiktiga
-Enligt 6 kap. 3 § miljöbalken ska en myndig­ motståndskraft.
+synpunkter som bidragit till den reviderade
+version som nu ställs ut för granskning.
+Granskningen utgör därmed det sista
+tillfället att påverka planens innehåll innan
+antagande.
+
+Strategisk miljöbedömning
+
+av regionplanen
+
+Enligt 6 kap. 3 § miljöbalken ska en myndig­
 het eller en kommun som upprättar eller
-ändrar en plan eller ett program som krävs i Den fullständiga Miljökonsekvens­
-lag eller annan författning göra en strategisk beskrivningen och Hållbarhetsbedömningen
-miljöbedömning om genomförandet av återfinns i bilaga 3 till planen.
+ändrar en plan eller ett program som krävs i
+lag eller annan författning göra en strategisk
+miljöbedömning om genomförandet av
 planen eller programmet kan antas medföra
 en betydande miljöpåverkan.
+
+I 2–5 §§ miljöbedömningsförordningen
+(2017:966) framgår vilka planer som ska och
+inte ska antas medföra betydande miljö­
+påverkan. En regionplan ska enligt 2 § p.2
+antas medföra betydande miljöpåverkan,
+dels eftersom den anger förutsättningar
+för åtgärder och verksamheter som
+exempelvis tätortsbebyggelse, anläggande
+av industriområden och byggande av vägar,
+dels eftersom genomförandet av planen kan
+kräva olika typer av tillstånd.
+
+Regional fysisk plan för Halland omfattas
+av kravet på strategisk miljöbedömning.
+Inom ramen för detta har en hållbarhets­
+bedömning tagits fram, där en miljö­
+konsekvensbeskrivning (MKB) ingår som
+en central del. Hållbarhets bedömningen
+och MKB:n har varit integrerade i
+arbetet med planen och utgör en del av
+granskningshandlingarna.
+
+Sammantaget visar miljö­ och hållbarhets­
+bedömningen att planen skapar goda förut­
+sättningar för att förena tillväxt med social,
+ekologisk och klimatmässig h ållbarhet.
+Samtidigt behöver vissa avvägningar och
+principer konkretiseras i efterföljande
+planering. Genom fortsatt samverkan och
+fördjupning kan Halland utvecklas på ett
+sätt som stärker både livsmiljöer, natur­ och
+kulturvärden och regionens långsiktiga
+motståndskraft.
+
+Den fullständiga Miljökonsekvens­
+beskrivningen och Hållbarhetsbedömningen
+återfinns i bilaga 3 till planen.
 
 REGIONAL FYSISK PLAN HALLAND                                        5
 
 <!-- sida 137 -->
 
-Så här läser du planen          planens utformning. Här behandlas bland
-annat nationella riktlinjer, Agenda 2030,
-Planen inleds med en beskrivning av plan­ och bygglagen samt viktiga utmaning­
-uppdraget och den viljeinriktning som ar och möjligheter som motiverar planens
-Kommun­ och regionledningsforum antog strategier.
+Så här läser du planen
+
+Planen inleds med en beskrivning av
+uppdraget och den viljeinriktning som
+Kommun­ och regionledningsforum antog
 i september 2023. Här framgår också den
-geografiska avgränsningen, tidshorisonten Planen består av tre målområdena. Varje
-och de tre målområden som tagits fram i målområde innehåller strategier med
-dialog med kommunerna, med utgångs­ tillhörande inriktningar. Målområde 1,
-punkt i lagstiftning samt i koppling till den som behandlar infrastruktur, är mer
-Regionala utvecklingsstrategin och Strategi fördjupat än de övriga två. Fördjupning
-för hållbar tillväxt.           av målområde 1 är en politisk inriktning
-och speglar infrastrukturens betydelse som
-Därefter följer kapitlen Ramverk samt grund läggande förutsättning för Hallands
-Övergripande planeringsprincip och utveckling.
+geografiska avgränsningen, tidshorisonten
+och de tre målområden som tagits fram i
+dialog med kommunerna, med utgångs­
+punkt i lagstiftning samt i koppling till den
+Regionala utvecklingsstrategin och Strategi
+för hållbar tillväxt.
+
+Därefter följer kapitlen Ramverk samt
+Övergripande planeringsprincip och
 planeringsförutsättningar, som redogör för
 de förutsättningar som ligger till grund för
 
-6                                                   REGIONAL FYSISK PLAN HALLAND
+6
+
+planens utformning. Här behandlas bland
+annat nationella riktlinjer, Agenda 2030,
+plan­ och bygglagen samt viktiga utmaning­
+ar och möjligheter som motiverar planens
+strategier.
+
+Planen består av tre målområdena. Varje
+målområde innehåller strategier med
+tillhörande inriktningar. Målområde 1,
+som behandlar infrastruktur, är mer
+fördjupat än de övriga två. Fördjupning
+av målområde 1 är en politisk inriktning
+och speglar infrastrukturens betydelse som
+grund läggande förutsättning för Hallands
+utveckling.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 138 -->
+
+I planens avslutande kapitel behandlas
+Planens genomförande. Här beskrivs
+centrala förhållningssätt för att skapa
+samhandling mellan många aktörer samt
+hur uppföljning av planen kommer att ske.
+
+Till planen hör fem bilagor:
+• Hallands inspel till nationell planering av
+transportsystemet
+
+• Beredskap och säkerhet
+• Miljökonsekvensbeskrivning och
+Hållbarhetsbedömning
+
+• Barnkonsekvensanalys och
+jämställdhetsanalys
+• Samrådsredogörelse
+
+REGIONAL FYSISK PLAN HALLAND
 
 Uppdraget  och viljeinriktning
 
 Geografisk avgränsning
 Den halländska regionala fysiska planen
 ska redogöra för Hallands roll i tre
-I planens avslutande kapitel behandlas geog rafiska kontexter: den regionala och
-Planens genomförande. Här beskrivs mellan kommunala kontexten, den stor­
-centrala förhållningssätt för att skapa regionala kontexten samt den nationella och
-samhandling mellan många aktörer samt inter nationella kontexten.
-hur uppföljning av planen kommer att ske.
+geog rafiska kontexter: den regionala och
+mellan kommunala kontexten, den stor­
+regionala kontexten samt den nationella och
+inter nationella kontexten.
+
 Den regionala och mellankommunala
-Till planen hör fem bilagor:    kontexten
+kontexten
 Halland har en tydlig flerkärnig struktur.
-• Hallands inspel till nationell planering av
 Flerkärnighet i den halländska kontexten
-transportsystemet
 innebär flera jämnstora städer i relativ
-• Beredskap och säkerhet        närhet till varandra som är viktiga funktioner
+närhet till varandra som är viktiga funktioner
 för sitt omland. Det innebär också att det i
-• Miljökonsekvensbeskrivning och
 varje kommun finns städer som driver på den
-Hållbarhetsbedömning
 lokala såväl som den regionala utvecklingen.
-• Barnkonsekvensanalys och
 Mellan städerna finns orter i olika storlek
-jämställdhetsanalys
 men även landsbygd av olika karaktär i såväl
 kust som inland.
-• Samrådsredogörelse
-REGIONAL FYSISK PLAN HALLAND                                        7
+
+7
 
 <!-- sida 139 -->
 
@@ -5194,31 +5289,31 @@ Insida    baksida
 
 <!-- sida 140 -->
 
-Denna mångfald bidrar till Hallands Utifrån de starka funktionella kopplingar
-attraktivitet. Utvecklingen i en kommun som finns idag och med den förväntade
-påverkar ofta hela Hallands utveckling. utvecklingen i stråket Oslo – Hamburg, finns
-Detta skapar behov av att beskriva de det en stor potential för ökad tillväxt i Västra
-mellan kommunala och regionala frågor som Skandinavien.
+Denna mångfald bidrar till Hallands
+attraktivitet. Utvecklingen i en kommun
+påverkar ofta hela Hallands utveckling.
+Detta skapar behov av att beskriva de
+mellan kommunala och regionala frågor som
 kan gynna hela Hallands utveckling.
-Tidshorisont 2050
-Den storregionala kontexten     Regional fysisk plan Halland sträcker sig fram
-Halland är en del av flera lokala och regionala till år 2050. Det gör att planen kommer att
-arbets­, bostads­ och studiemarknader. kunna taktas in i det strategiska arbete som
-Det är många som pendlar över och inom sker på kommunal, regional, nationell såväl
-kommun­ och regiongränserna. För att som internationell nivå.
+
+Den storregionala kontexten
+Halland är en del av flera lokala och regionala
+arbets­, bostads­ och studiemarknader.
+Det är många som pendlar över och inom
+kommun­ och regiongränserna. För att
 hela Halland ska utvecklas är det viktigt att
-arbetsmarknaderna både inom Halland och Aktualitetsprövning
-i angränsande regioner tillgängliggörs för så Planen aktualitetsprövas av region­
-många som möjligt.              fullmäktige en gång per mandatperiod.
-Syftet är att säkerställa att innehållet
-Snabba och hållbara transporter är därför fortfarande är relevant och i linje med
-en grundförutsättning för den halländska regionens utveckling och behov.
+arbetsmarknaderna både inom Halland och
+i angränsande regioner tillgängliggörs för så
+många som möjligt.
+
+Snabba och hållbara transporter är därför
+en grundförutsättning för den halländska
 utvecklingen. Det faktum att Halland ligger
-mitt emellan två nationella tillväxtmotorer och Om planen bedöms vara inaktuell kan den
-i ett nätverk med stora och medelstora städer revideras, eller så kan beslut fattas om att
-skapar ett behov av att beskriva, förstå och ta fram en ny plan. På så sätt säkerställs att
-planera för hur Halland på bästa möjliga sätt planen förblir ett aktuellt och användbart
-kan dra nytta av sitt geo grafiska läge. verktyg för den fysiska planeringen i Halland.
+mitt emellan två nationella tillväxtmotorer och
+i ett nätverk med stora och medelstora städer
+skapar ett behov av att beskriva, förstå och
+planera för hur Halland på bästa möjliga sätt
+kan dra nytta av sitt geo grafiska läge.
 
 Den nationella och internationella kontexten
 Halland är nära sammankopplat med
@@ -5229,7 +5324,35 @@ Den transportkorridor som binder ihop denna
 geografi är en av Europas mest trafikerade,
 både vad gäller person­ och godstransporter.
 
-REGIONAL FYSISK PLAN HALLAND                                        9
+REGIONAL FYSISK PLAN HALLAND
+
+Utifrån de starka funktionella kopplingar
+som finns idag och med den förväntade
+utvecklingen i stråket Oslo – Hamburg, finns
+det en stor potential för ökad tillväxt i Västra
+Skandinavien.
+
+Tidshorisont 2050
+Regional fysisk plan Halland sträcker sig fram
+till år 2050. Det gör att planen kommer att
+kunna taktas in i det strategiska arbete som
+sker på kommunal, regional, nationell såväl
+som internationell nivå.
+
+Aktualitetsprövning
+Planen aktualitetsprövas av region­
+fullmäktige en gång per mandatperiod.
+Syftet är att säkerställa att innehållet
+fortfarande är relevant och i linje med
+regionens utveckling och behov.
+
+Om planen bedöms vara inaktuell kan den
+revideras, eller så kan beslut fattas om att
+ta fram en ny plan. På så sätt säkerställs att
+planen förblir ett aktuellt och användbart
+verktyg för den fysiska planeringen i Halland.
+
+9
 
 <!-- sida 141 -->
 
@@ -5290,160 +5413,273 @@ i relation till ett urval av dessa.
 
 <!-- sida 144 -->
 
-Agenda  2030                    rättigheter för barn. Konventionen innehåller
-54 rättigheter (artiklar) Som barn räknas
-Regional fysisk plan för Halland ska bidra varje människa under 18 år. Barnkonven­
-till att uppnå de globala målen för hållbar tionen är svensk lag sedan 1 januari 2020.
+Agenda  2030
+
+Regional fysisk plan för Halland ska bidra
+till att uppnå de globala målen för hållbar
 utveckling i Agenda 2030 och EU:s mål att
-uppnå klimatneutralitet 2050 i linje med Barn är en särskilt sårbar grupp i s amhället
-åtaganden enligt Parisavtalet.  och därför har den regionala fysiska
-planeringen en viktig roll i att skapa trygga,
-Agenda 2030 innehåller 17 mål som lyfter tillgängliga och utvecklande miljöer för barn
-behovet av att se hur sociala, ekologiska och och unga i Halland. Genom att fokusera
-ekonomiska frågor hänger samman. Hur vi på dessa aspekter kan vi säkerställa att
-planerar, bygger och utvecklar våra städer våra yngsta invånare växer upp i en miljö
-och samhällen har påverkan på flera av som främjar deras välbefinnande och
-målen till exempel klimatåtgärder, biologisk utveckling. I framtagandet av planen har en
-mångfald och minska ojämlikhet. Barnkonsekvens­ och en jämställdhetsanalys
-tagits fram.
+uppnå klimatneutralitet 2050 i linje med
+åtaganden enligt Parisavtalet.
+
+Agenda 2030 innehåller 17 mål som lyfter
+behovet av att se hur sociala, ekologiska och
+ekonomiska frågor hänger samman. Hur vi
+planerar, bygger och utvecklar våra städer
+och samhällen har påverkan på flera av
+målen till exempel klimatåtgärder, biologisk
+mångfald och minska ojämlikhet.
+
 Genom regional fysisk planering kan Halland
 ta ett samlat grepp för att bidra till att målen
-uppnås. Planen stödjer också EU:s ambition Fit for 55 och den gröna given
+uppnås. Planen stödjer också EU:s ambition
 om klimatneutralitet senast 2050, i linje med
-Parisavtalet.                   EU­kommissionen presenterade 2021 det
+Parisavtalet.
+
+Barnkonventionen
+
+FN:s konvention om barnets rättigheter, eller
+barnkonventionen som den också kallas,
+innehåller bestämmelser om mänskliga
+
+REGIONAL FYSISK PLAN HALLAND
+
+rättigheter för barn. Konventionen innehåller
+54 rättigheter (artiklar) Som barn räknas
+varje människa under 18 år. Barnkonven­
+tionen är svensk lag sedan 1 januari 2020.
+
+Barn är en särskilt sårbar grupp i s amhället
+och därför har den regionala fysiska
+planeringen en viktig roll i att skapa trygga,
+tillgängliga och utvecklande miljöer för barn
+och unga i Halland. Genom att fokusera
+på dessa aspekter kan vi säkerställa att
+våra yngsta invånare växer upp i en miljö
+som främjar deras välbefinnande och
+utveckling. I framtagandet av planen har en
+Barnkonsekvens­ och en jämställdhetsanalys
+tagits fram.
+
+Fit for 55 och den gröna given
+
+EU­kommissionen presenterade 2021 det
 så kallade Fit for 55­paketet, med förslag
 på å tgärder i syfte att nå EU:s skärpta
-Barnkonventionen                klimatmål för 2030. Fit for 55 innebär att
+klimatmål för 2030. Fit for 55 innebär att
 EU:s nettoutsläpp av växthusgaser ska
-FN:s konvention om barnets rättigheter, eller minska med minst 55 procent jämfört med
-barnkonventionen som den också kallas, år 1990. Ungefär samtidigt presenterade EU­
-innehåller bestämmelser om mänskliga kommissionen den så kallade Gröna given,
+minska med minst 55 procent jämfört med
+år 1990. Ungefär samtidigt presenterade EU­
+kommissionen den så kallade Gröna given,
 
-REGIONAL FYSISK PLAN HALLAND                                       13
+13
 
 <!-- sida 145 -->
 
-ett program för hur EU:s lagstiftning ska utvecklingsarbetet i Sverige. Strategin
-anpassas för att kunna ställa om ekonomin lyfter fram behovet av en hållbar samhälls­
-och samhället på ett hållbart sätt. omställning, ökad tillgänglighet, stärkt lokal
-och regional konkurrenskraft samt social
-Den regionala fysiska planeringen har en sammanhållning i hela landet.
-viktig roll i att omsätta dessa ambitioner i
-praktiken genom att planera för ett samhälle Genom att koppla den fysiska strukturen till
-som är både klimatsmart, motståndskraftigt mål för regional utveckling verkar regional
-och långsiktigt hållbart.       fysisk plan för att förverkliga strategins
-intentioner i den halländska kontexten.
+ett program för hur EU:s lagstiftning ska
+anpassas för att kunna ställa om ekonomin
+och samhället på ett hållbart sätt.
 
-Svenska miljömål                Målet är att främja en helhets inriktad
-planering där kommunala och regionala mål
-Riksdagen har beslutat om 16 nationella samverkar.
+Den regionala fysiska planeringen har en
+viktig roll i att omsätta dessa ambitioner i
+praktiken genom att planera för ett samhälle
+som är både klimatsmart, motståndskraftigt
+och långsiktigt hållbart.
+
+Svenska miljömål
+
+Riksdagen har beslutat om 16 nationella
 miljökvalitetsmål med preciseringar samt
 etappmål. Där ingår även Generationsmålet.
-Det övergripande målet för miljöpolitiken Regional utvecklingss trategi
-är att till nästa generation lämna över ett och Strategi för hållbar t illväxt
+Det övergripande målet för miljöpolitiken
+är att till nästa generation lämna över ett
 samhälle där de stora miljöproblemen är
-lösta, utan att orsaka ökade miljö­ och Den regionala fysiska planen är ett verktyg
-hälsoproblem utanför Sveriges gränser. som bidrar till att konkretisera och för­
-verkliga intentionerna i Hallands r egionala
-Sverige når i dagsläget inte de nationella utvecklingsstrategi Halland – bästa
-miljömålen och utvecklingen går åt fel l ivsplatsen 2035 och Strategi för hållbar
-håll. För att vända trenden krävs en mer tillväxt.
-samordnad och strategisk fysisk planering,
-där spelar den regional nivån en viktig roll. Genom att koppla den fysiska strukturen till
-Genom regional fysisk plan kan vi skapa en målen för hållbar regional utveckling tydlig­
-gemensam riktning för mark­och vatten­ görs hur olika strukturer hänger samman.
-användning, främja klimatanpassning, Planen omsätter strategiernas övergripande
-hållbara transporter samt stärka land­ inriktningar i ett territoriellt perspektiv och
-skapets ekologiska funktioner.  skapar förutsättningar för ett mer sam­
-ordnat och kunskapsbaserat genomförande
-Planen stödjer genomförandet av miljö­ av den regionala utvecklingspolitiken.
-målen: Ett rikt odlingslandskap, God
-bebyggd miljö, Levande sjöar och vatten­ På så sätt bidrar planen till en hållbar sam­
-drag, Ett rikt odlingslandskap, Hav i balans, hällsutveckling genom att klargöra rumsliga
-Levande kust och skärgård, Begränsad samband, territoriella avgränsningar samt
-klimatpåverkan, Ett rikt växt­och djurliv geografiska och fysiska förutsättningar och
-samt Grundvatten av god kvalitet. Miljö­ strukturer. Detta stärker planeringssyste­
-målen är integrerade i planen och följs upp mets förmåga att hantera komplexa och
-en gång per mandatperiod.       långsiktiga utmaningar och möjligheter.
+lösta, utan att orsaka ökade miljö­ och
+hälsoproblem utanför Sveriges gränser.
 
-Genom att planen aktualitetsprövas varje
-Nationell strategi för hållbar  mandatperiod skapas en levande process
-regional utveckling i hela      som bygger långsiktig kapacitet och
-lärande. Planen blir därmed ett nav för
+Sverige når i dagsläget inte de nationella
+miljömålen och utvecklingen går åt fel
+håll. För att vända trenden krävs en mer
+samordnad och strategisk fysisk planering,
+där spelar den regional nivån en viktig roll.
+Genom regional fysisk plan kan vi skapa en
+gemensam riktning för mark­och vatten­
+användning, främja klimatanpassning,
+hållbara transporter samt stärka land­
+skapets ekologiska funktioner.
+
+Planen stödjer genomförandet av miljö­
+målen: Ett rikt odlingslandskap, God
+bebyggd miljö, Levande sjöar och vatten­
+drag, Ett rikt odlingslandskap, Hav i balans,
+Levande kust och skärgård, Begränsad
+klimatpåverkan, Ett rikt växt­och djurliv
+samt Grundvatten av god kvalitet. Miljö­
+målen är integrerade i planen och följs upp
+en gång per mandatperiod.
+
+Nationell strategi för hållbar
+regional utveckling i hela
 landet 2021–2030
-uthålliga planeringsprocesser och fördjupad
-Den nationella strategin för hållbar samverkan – en förutsättning för att möta
-regional utveckling i hela landet utgör en framtidens hållbarhetsutmaningar.
+
+Den nationella strategin för hållbar
+regional utveckling i hela landet utgör en
 övergripande inriktning för det regionala
 
-14                                                  REGIONAL FYSISK PLAN HALLAND
+14
+
+utvecklingsarbetet i Sverige. Strategin
+lyfter fram behovet av en hållbar samhälls­
+omställning, ökad tillgänglighet, stärkt lokal
+och regional konkurrenskraft samt social
+sammanhållning i hela landet.
+
+Genom att koppla den fysiska strukturen till
+mål för regional utveckling verkar regional
+fysisk plan för att förverkliga strategins
+intentioner i den halländska kontexten.
+
+Målet är att främja en helhets inriktad
+planering där kommunala och regionala mål
+samverkar.
+
+Regional utvecklingss trategi
+och Strategi för hållbar t illväxt
+
+Den regionala fysiska planen är ett verktyg
+som bidrar till att konkretisera och för­
+verkliga intentionerna i Hallands r egionala
+utvecklingsstrategi Halland – bästa
+l ivsplatsen 2035 och Strategi för hållbar
+tillväxt.
+
+Genom att koppla den fysiska strukturen till
+målen för hållbar regional utveckling tydlig­
+görs hur olika strukturer hänger samman.
+Planen omsätter strategiernas övergripande
+inriktningar i ett territoriellt perspektiv och
+skapar förutsättningar för ett mer sam­
+ordnat och kunskapsbaserat genomförande
+av den regionala utvecklingspolitiken.
+
+På så sätt bidrar planen till en hållbar sam­
+hällsutveckling genom att klargöra rumsliga
+samband, territoriella avgränsningar samt
+geografiska och fysiska förutsättningar och
+strukturer. Detta stärker planeringssyste­
+mets förmåga att hantera komplexa och
+långsiktiga utmaningar och möjligheter.
+
+Genom att planen aktualitetsprövas varje
+mandatperiod skapas en levande process
+som bygger långsiktig kapacitet och
+lärande. Planen blir därmed ett nav för
+uthålliga planeringsprocesser och fördjupad
+samverkan – en förutsättning för att möta
+framtidens hållbarhetsutmaningar.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 146 -->
 
 Kommunernas   översiktsplaner
-Det innebär att:
+
 Regional fysisk plan och de halländska
 kommunernas översiktsplaner hänger
-samman och kompletterar varandra.  • tas fram i nära samarbete med berörda
-Översikts planerna är kommunernas verk­ aktörer
+samman och kompletterar varandra.
+Översikts planerna är kommunernas verk­
 tyg för att ta ställning till den långsiktiga
-• erbjuda vägledning för den kommunala
 användningen av mark­och vattenområden,
-planeringen
 medan den regionala fysiska planen utgör
-ett stöd i att samordna planeringen över • ange de grunddrag för användningen
-kommun­ och regiongränserna.         av mark­ och vattenområden och de
-rikt linjer för lokaliseringen av bebyggelse
-Genom att erbjuda ett regionalt perspektiv och byggnadsverk som har betydelse för
-kan planen bidra till att stärka översikts­ länet.
+ett stöd i att samordna planeringen över
+kommun­ och regiongränserna.
+
+Genom att erbjuda ett regionalt perspektiv
+kan planen bidra till att stärka översikts­
 planernas mellankommunala perspektiv.
-• verka för insatser som kan bidra till att
-det långsiktiga behovet av bostäder kan
-Kommunernas   handlings­             tillgodoses
+
+Kommunernas   handlings­
 planer för bostadsförsörjning
-• verka för insatser som kan bidra till att
-minska länets klimatpåverkan och dess
+
 Regional fysisk plan ska utgöra ett stöd i
-effekter.
 kommunernas arbete med bostadsförsörj­
-ning och bidra med ett regionalt perspektiv • ta fram prognoser, omvärldsanalyser och
-på förutsättningarna för ett hållbart olika utvecklingsscenarier för att skapa
-bostadsbyggande. Planen synliggör hur beredskap för olika samhällsutvecklingar.
+ning och bidra med ett regionalt perspektiv
+på förutsättningarna för ett hållbart
+bostadsbyggande. Planen synliggör hur
 tillgången till infrastruktur, kollektivtrafik,
-• beakta både nuvarande och framtida
 arbetsmarknad och grönstruktur påverkar
-behov samt hantera risker som kan upp­
 förutsättningarna för bostadsutveckling.
-komma kopplat till klimatförändringar
+
 Planen kan därmed fungera som ett gemen­
-• beskriva markanvändningen med fokus
 samt planeringsunderlag i dialogen om
-på ett effektivt och varsamt sätt med
 lokalisering, prioriteringar och samordning
-hänsyn till miljön
 över kommungränserna. Regional fysisk plan
-utgår från kommunernas handlingsplaner • framgå hur hänsyn har tagits till allmän­
-för bostadsförsörjning och kompletterar na intressen i 2 kap. PBL, riksintressen
-kommunernas planer med ett regionalt enligt 3 och 4 kap. miljöbalken och på
-helhetsperspektiv.                   vilket sätt miljökvalitetsnormer enligt
-förordning om tillsyn enligt miljöbalken
-5 kap. har följts
+utgår från kommunernas handlingsplaner
+för bostadsförsörjning och kompletterar
+kommunernas planer med ett regionalt
+helhetsperspektiv.
+
 7 kap. Plan­ och bygglagen
-• främja en hållbar utveckling som förenar
-ekologisk, social och ekonomisk hållbarhet
+
 Vid utformningen av de tre målområdena
 med tillhörande strategier och föreslagna
-• stämma överens med nationella mål och
 åtgärder för arbetet med den regionala
-intressen
 fysiska planen, har hänsyn tagits till vilka
-frågor Boverket pekar ut i lagstiftningen i • integreras med andra regionala och
-7 kap. plan­och bygglagen (PBL).     kommunala planer: Översiktsplaner­
+frågor Boverket pekar ut i lagstiftningen i
+7 kap. plan­och bygglagen (PBL).
+
+REGIONAL FYSISK PLAN HALLAND
+
+Det innebär att:
+
+• tas fram i nära samarbete med berörda
+aktörer
+• erbjuda vägledning för den kommunala
+planeringen
+
+• ange de grunddrag för användningen
+av mark­ och vattenområden och de
+rikt linjer för lokaliseringen av bebyggelse
+och byggnadsverk som har betydelse för
+länet.
+
+• verka för insatser som kan bidra till att
+det långsiktiga behovet av bostäder kan
+tillgodoses
+• verka för insatser som kan bidra till att
+minska länets klimatpåverkan och dess
+effekter.
+
+• ta fram prognoser, omvärldsanalyser och
+olika utvecklingsscenarier för att skapa
+beredskap för olika samhällsutvecklingar.
+
+• beakta både nuvarande och framtida
+behov samt hantera risker som kan upp­
+komma kopplat till klimatförändringar
+• beskriva markanvändningen med fokus
+på ett effektivt och varsamt sätt med
+hänsyn till miljön
+
+• framgå hur hänsyn har tagits till allmän­
+na intressen i 2 kap. PBL, riksintressen
+enligt 3 och 4 kap. miljöbalken och på
+vilket sätt miljökvalitetsnormer enligt
+förordning om tillsyn enligt miljöbalken
+5 kap. har följts
+
+• främja en hållbar utveckling som förenar
+ekologisk, social och ekonomisk hållbarhet
+• stämma överens med nationella mål och
+intressen
+
+• integreras med andra regionala och
+kommunala planer: Översiktsplaner­
 na, bostadsförsörjningsprogrammen
 samt att Regional infrastrukturplan
 och Trafikförsörjningsprogrammets
 inriktningar ska vara inarbetade
-REGIONAL FYSISK PLAN HALLAND                                       15
+
+15
 
 <!-- sida 147 -->
 
@@ -5461,149 +5697,256 @@ förutsättningar
 
 Varsam  och möjliggörande
 mark­och  vattenanvändning
-Konkret innebär att:
-Den övergripande planeringsprincipen
-i Regional fysisk plan Halland 2050 är • Fysisk planering ska skapa förut­
-Varsam och möjliggörande mark­ och   sättningar för bostäder, näringsliv,
-vattenanvändning.                    infrastruktur och energiomställning.
 
-• Areella näringar ges förutsättningar
-Denna princip är vägledande för hur den
-att fortsätta att verka och utvecklas,
-regionala fysiska strukturen i Halland ska
-i samspel med andra markanspråk.
-utvecklas fram till 2050.
-• Vikten av samplanering mellan
-Det innebär att utvecklingen i första hand bör
-kommuner i frågor där mark­och
-ske i redan etablerade strukturer, till exempel
-vattenanvändningen har gräns­
-inom kärnor och utmed befintliga stråk och
-överskridande konsekvenser.
-att ny mark ska prövas i relation till dess
-påverkan på landskapets funktion, produk­ • Värdefulla resurser som bördiga
-tionsförmåga och vattenbalans.       jordbruksmarker, känsliga
-vattenmiljöer, grundvattenmagasin
-Det innebär behovet att balansera tillväxt och naturliga översvämningsytor
-och utveckling med långsiktig hushållning av skyddas från fragmentering och
-landskapets resurser och kulturmiljövärden. ohållbar exploatering.
-• Den fysiska miljön ska vara planerad
 Den övergripande planeringsprincipen
-och utformad med universell
+i Regional fysisk plan Halland 2050 är
+Varsam och möjliggörande mark­ och
+vattenanvändning.
+
+Denna princip är vägledande för hur den
+regionala fysiska strukturen i Halland ska
+utvecklas fram till 2050.
+
+Det innebär att utvecklingen i första hand bör
+ske i redan etablerade strukturer, till exempel
+inom kärnor och utmed befintliga stråk och
+att ny mark ska prövas i relation till dess
+påverkan på landskapets funktion, produk­
+tionsförmåga och vattenbalans.
+
+Det innebär behovet att balansera tillväxt
+och utveckling med långsiktig hushållning av
+landskapets resurser och kulturmiljövärden.
+
+Den övergripande planeringsprincipen
 bygger på insikten att mark och vatten är
-utformning som grund, så att den
 begränsade tillgångar som måste användas
-möter olika behov och förutsätt­
 med omdöme, men också på att regionen
-ningar för kvinnor, män, barn och
 behöver växa, förnya sig och ställa om.
-unga, samt personer med funktions­
-nedsättning.
+
 Tillsammans ska vi skapa en fysisk miljö som
 är tillgänglig och användbar för alla, oavsett
-• Planering tar hänsyn till miljö­
 ålder eller funktionsförmåga.
+
+REGIONAL FYSISK PLAN HALLAND
+
+Konkret innebär att:
+
+• Fysisk planering ska skapa förut­
+sättningar för bostäder, näringsliv,
+infrastruktur och energiomställning.
+• Areella näringar ges förutsättningar
+att fortsätta att verka och utvecklas,
+i samspel med andra markanspråk.
+
+• Vikten av samplanering mellan
+kommuner i frågor där mark­och
+vattenanvändningen har gräns­
+överskridande konsekvenser.
+
+• Värdefulla resurser som bördiga
+jordbruksmarker, känsliga
+vattenmiljöer, grundvattenmagasin
+och naturliga översvämningsytor
+skyddas från fragmentering och
+ohållbar exploatering.
+• Den fysiska miljön ska vara planerad
+och utformad med universell
+utformning som grund, så att den
+möter olika behov och förutsätt­
+ningar för kvinnor, män, barn och
+unga, samt personer med funktions­
+nedsättning.
+
+• Planering tar hänsyn till miljö­
 kvalitetsnormer, klimatanpassning,
 kulturmiljö och ekosystemtjänster.
-REGIONAL FYSISK PLAN HALLAND                                       17
+
+17
 
 <!-- sida 149 -->
 
 Planeringsförutsättningar
 
-Planeringsförutsättningarna beskriver Halland är rikt på natur­ och kulturresurser:
-Hallands fysiska förutsättningar som har havet och stränderna, odlingslandskapet,
-betydelse för planens utformning och skogarna och de halländska åarna samt
-omfattning.                     materiella kulturarv. Dessa miljöer har
-formats över tid och är idag viktiga både för
-Befolkningsutveckling i Halland boende, rekreation och besöksnäring.
-Halland växer fortsatt, men i en något lägre
-takt än tidigare. Vid utgången av år 2024 Landskapets karaktär varierar; i norr med
-hade Halland 345 074 invånare. Befolkningen sprickdalar och skärgårdsliknande kust, i
-har ökat kraftigt under 2000­talet, men söder med kustslätter och sandstränder och i
-ökningstakten har dämpats de senaste åren öster med stora skogsområden som sträcker
-på grund av lägre födelsetal, högre dödstal sig in i grannlänen. Variationen bidrar till
-och minskat flyttnetto. SCB prognostiserar Hallands attraktivitet men innebär också att
-att Halland år 2040 har cirka 368 700 invåna­ olika delar av länet har olika förutsättningar
-re, en ökning med drygt 23 000 personer. för utveckling.
+Planeringsförutsättningarna beskriver
+Hallands fysiska förutsättningar som har
+betydelse för planens utformning och
+omfattning.
 
-Framskrivningar är dock alltid förenade Turismen är en stark tillväxtfaktor och bidrar
-med osäkerhet. Lågkonjunktur, migration, till att upprätthålla lokala samhällen men
-hushållsbildning och barnafödande är stora delar av de attraktiva miljöerna för
-faktorer som kan förändra utvecklingen. turism och rekreation sammanfaller med
-både skyddade och känsliga miljöer. Det
-En flerkärnig region med starka krävs därför extra hänsyn för hur dessa
-samband                         miljöer tillgängliggörs så att de fortsatt
-Hallands flerkärniga struktur är en styrka, kan bidra till Hallands attraktivitet utan att
-men ställer krav på infrastruktur och service äventyra viktiga ekologiska funktioner.
+Befolkningsutveckling i Halland
+Halland växer fortsatt, men i en något lägre
+takt än tidigare. Vid utgången av år 2024
+hade Halland 345 074 invånare. Befolkningen
+har ökat kraftigt under 2000­talet, men
+ökningstakten har dämpats de senaste åren
+på grund av lägre födelsetal, högre dödstal
+och minskat flyttnetto. SCB prognostiserar
+att Halland år 2040 har cirka 368 700 invåna­
+re, en ökning med drygt 23 000 personer.
+
+Framskrivningar är dock alltid förenade
+med osäkerhet. Lågkonjunktur, migration,
+hushållsbildning och barnafödande är
+faktorer som kan förändra utvecklingen.
+
+En flerkärnig region med starka
+samband
+Hallands flerkärniga struktur är en styrka,
+men ställer krav på infrastruktur och service
 som kan binda samman regionens olika delar
-och funktionella samband.       Det handlar också om att bidra till att de
-areella näringarna ska kunna utvecklas i
-Halland har en flerkärnig struktur där ett framtida Halland. Det växande behovet
-kommunhuvudorterna fungerar som av bostäder, infrastruktur och naturmiljöer
-regionala kärnor. Tillväxten är relativt spridd påverkar både jord­och skogsbrukets
-och kärnorna kompletterar varandra i en förutsättningar.
+och funktionella samband.
+
+Halland har en flerkärnig struktur där
+kommunhuvudorterna fungerar som
+regionala kärnor. Tillväxten är relativt spridd
+och kärnorna kompletterar varandra i en
 gemensam regional struktur.
-Hallands kustzon – en mångfald av
-Pendlingsmönstren är allra starkast i intressen
-nord–sydlig riktning längs kusten, med Kustzonen rymmer många samtidiga
-omfattande flöden mot Göteborg. Samtidigt intressen och risker, vilket kräver samordnad
-finns viktiga öst–västliga samband mellan och klimatanpassad planering på tvärs över
-kuststäder, inland och angränsande regio­ sektorer och kommungränser.
+
+Pendlingsmönstren är allra starkast i
+nord–sydlig riktning längs kusten, med
+omfattande flöden mot Göteborg. Samtidigt
+finns viktiga öst–västliga samband mellan
+kuststäder, inland och angränsande regio­
 ner. Kustzonen är starkt exploaterad, medan
-inlandet har andra utvecklingsförutsättning­ Kustzonen är en bärande del av Hallands
-ar där tillgång till service och infrastruktur är attraktionskraft med långa stränder, klippor,
-avgörande för att ta tillvara potentialen. fiskelägen och öppna vyer mot Kattegatt.
-Här finns starka värden för rekreation,
-Hallands natur­ och kulturlandskap friluftsliv och kulturmiljö, samtidigt som
-Hallands landskap utgör viktiga värden för besökstrycket och klimatförändringarna
-både rekreation, näringsliv och samhälls­ skapar nya utmaningar.
+inlandet har andra utvecklingsförutsättning­
+ar där tillgång till service och infrastruktur är
+avgörande för att ta tillvara potentialen.
+
+Hallands natur­ och kulturlandskap
+Hallands landskap utgör viktiga värden för
+både rekreation, näringsliv och samhälls­
 utveckling, men kräver en planering som
-balanserar tillväxt och bevarande. Havsplaneringen berör en rad intressen:
+balanserar tillväxt och bevarande.
+
+18
+
+Halland är rikt på natur­ och kulturresurser:
+havet och stränderna, odlingslandskapet,
+skogarna och de halländska åarna samt
+materiella kulturarv. Dessa miljöer har
+formats över tid och är idag viktiga både för
+boende, rekreation och besöksnäring.
+
+Landskapets karaktär varierar; i norr med
+sprickdalar och skärgårdsliknande kust, i
+söder med kustslätter och sandstränder och i
+öster med stora skogsområden som sträcker
+sig in i grannlänen. Variationen bidrar till
+Hallands attraktivitet men innebär också att
+olika delar av länet har olika förutsättningar
+för utveckling.
+
+Turismen är en stark tillväxtfaktor och bidrar
+till att upprätthålla lokala samhällen men
+stora delar av de attraktiva miljöerna för
+turism och rekreation sammanfaller med
+både skyddade och känsliga miljöer. Det
+krävs därför extra hänsyn för hur dessa
+miljöer tillgängliggörs så att de fortsatt
+kan bidra till Hallands attraktivitet utan att
+äventyra viktiga ekologiska funktioner.
+
+Det handlar också om att bidra till att de
+areella näringarna ska kunna utvecklas i
+ett framtida Halland. Det växande behovet
+av bostäder, infrastruktur och naturmiljöer
+påverkar både jord­och skogsbrukets
+förutsättningar.
+
+Hallands kustzon – en mångfald av
+intressen
+Kustzonen rymmer många samtidiga
+intressen och risker, vilket kräver samordnad
+och klimatanpassad planering på tvärs över
+sektorer och kommungränser.
+
+Kustzonen är en bärande del av Hallands
+attraktionskraft med långa stränder, klippor,
+fiskelägen och öppna vyer mot Kattegatt.
+Här finns starka värden för rekreation,
+friluftsliv och kulturmiljö, samtidigt som
+besökstrycket och klimatförändringarna
+skapar nya utmaningar.
+
+Havsplaneringen berör en rad intressen:
 sjöfart, hamnar, energiutbyggnad, fiske,
 
-18                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 150 -->
 
-turism och naturvård. Trycket på kusten De sociala och geografiska skillnaderna
-gör behovet av samordnad planering i länet påverkar jämlikheten i Halland.
-stort, särskilt då havsnivåhöjning, erosion Planeringen behöver ta hänsyn till olika
-och fler stormhändelser väntas påverka grupper i samhället och att platser har olika
-kustmiljöerna.                  förutsättningar.
+turism och naturvård. Trycket på kusten
+gör behovet av samordnad planering
+stort, särskilt då havsnivåhöjning, erosion
+och fler stormhändelser väntas påverka
+kustmiljöerna.
 
-Hallands kust har dessutom en strategisk roll Tillväxten skapar behov av varsam
-i övergången mellan Kattegatt och Öresund, men möjliggörande mark­ och
-med nära koppling till dansk och inter­ vattenanvändning
-nationell planering.            Tillväxten i Halland stärker regionens
-attraktionskraft men ökar trycket på
-Stora hållbarhetsutmaningar under jordbruksmark, naturmiljöer och grön­
-planperioden                    områden, särskilt i kustzoner och kring
-Transportsektorn är en av Hallands största större orter. Samtidigt innebär befolknings­
-klimatutmaningar. Trots viss minskning från tillväxten ett växande behov av bostäder och
-personbilar är utsläppen fortsatt höga och infrastruktur.
+Hallands kust har dessutom en strategisk roll
+i övergången mellan Kattegatt och Öresund,
+med nära koppling till dansk och inter­
+nationell planering.
+
+Stora hållbarhetsutmaningar under
+planperioden
+Transportsektorn är en av Hallands största
+klimatutmaningar. Trots viss minskning från
+personbilar är utsläppen fortsatt höga och
 tunga transporter ökar.
-Den långsiktiga utvecklingen kräver att
-Trafiken bidrar även till markanspråk, buller bostadsutbyggnad och markanvändning
-och luftföroreningar som påverkar hälsan. sker på ett sätt som både stödjer tillväxten
-Det innebär en planering som behöver stödja och värnar resurser. Universell utformning,
-både utsläppsminskningar och en resurs­ tillgänglighet och trygghet är centrala
-effektiv användning av mark     förutsättningar för att den fysiska miljön ska
-fungera för alla invånare.
+
+Trafiken bidrar även till markanspråk, buller
+och luftföroreningar som påverkar hälsan.
+Det innebär en planering som behöver stödja
+både utsläppsminskningar och en resurs­
+effektiv användning av mark
+
 Hallänningarnas olika förutsättningar
-Halland har generellt en god socioekonomisk Med utblick mot Halland år 2050 krävs
-situation med hög livslängd, höga inkomster en planering som förenar varsam och
-och låg arbetslöshet. Men det finns skillnader möjliggörande mark­ och vattenanvändning,
-mellan olika delar av länet och mellan olika utvecklar hållbara livsmiljöer och samtidigt
-grupper.                        minimerar negativ påverkan på värdefulla
-naturmiljöer.
+Halland har generellt en god socioekonomisk
+situation med hög livslängd, höga inkomster
+och låg arbetslöshet. Men det finns skillnader
+mellan olika delar av länet och mellan olika
+grupper.
+
 Avstånd till större städer påverkar tillgång
 till arbete, utbildning och service. Socio­
 ekonomiska skillnader förekommer både i
 städer och på landsbygder och kan i vissa
 fall förstärka varandra.
 
-REGIONAL FYSISK PLAN HALLAND                                       19
+REGIONAL FYSISK PLAN HALLAND
+
+De sociala och geografiska skillnaderna
+i länet påverkar jämlikheten i Halland.
+Planeringen behöver ta hänsyn till olika
+grupper i samhället och att platser har olika
+förutsättningar.
+
+Tillväxten skapar behov av varsam
+men möjliggörande mark­ och
+vattenanvändning
+Tillväxten i Halland stärker regionens
+attraktionskraft men ökar trycket på
+jordbruksmark, naturmiljöer och grön­
+områden, särskilt i kustzoner och kring
+större orter. Samtidigt innebär befolknings­
+tillväxten ett växande behov av bostäder och
+infrastruktur.
+
+Den långsiktiga utvecklingen kräver att
+bostadsutbyggnad och markanvändning
+sker på ett sätt som både stödjer tillväxten
+och värnar resurser. Universell utformning,
+tillgänglighet och trygghet är centrala
+förutsättningar för att den fysiska miljön ska
+fungera för alla invånare.
+
+Med utblick mot Halland år 2050 krävs
+en planering som förenar varsam och
+möjliggörande mark­ och vattenanvändning,
+utvecklar hållbara livsmiljöer och samtidigt
+minimerar negativ påverkan på värdefulla
+naturmiljöer.
+
+19
 
 <!-- sida 151 -->
 
@@ -5713,86 +6056,116 @@ målområde    1
 
 <!-- sida 156 -->
 
-Stärk tillgängligheten          Stärk tillgängligheten
-i det nationellt viktiga        mellan tillväxtmotorerna
-Västkuststråket                 och de r egionala kärnorna i
-öst­västlig riktning
+Stärk tillgängligheten
+i det nationellt viktiga
+Västkuststråket
+
 Majoriteten av hallänningarna bor längs
-med Västkuststråket och det är här utveck­ För att stärka förutsättningarna i hela
-lingsförutsättningarna är som mest gynn­ regionen behöver de olika delarna av
-samma. Det är också här som majoriteten av Halland knytas samman. Ett robust vägnät,
-bostadsbyggandet fortsatt kommer ske. en välutbyggd busstrafik och en tågtrafik
-mellan inlandet och kusten förstärker
-Kopplingen till Göteborgs­ och Öresunds­ utvecklingsmöjligheterna i hela geografin
-regionen samt utbytet mellan regionens och möjliggör för olika typer av boende­ och
-kärnor är en avgörande fråga för regionens livsmiljöer.
+med Västkuststråket och det är här utveck­
+lingsförutsättningarna är som mest gynn­
+samma. Det är också här som majoriteten av
+bostadsbyggandet fortsatt kommer ske.
+
+Kopplingen till Göteborgs­ och Öresunds­
+regionen samt utbytet mellan regionens
+kärnor är en avgörande fråga för regionens
 fortsatta utveckling. Det innebär att det
-under planperioden finns stora behov av De mindre kärnorna i regionen fyller i regel
-investeringar för att både säkerställa och en viktig roll för sitt direkta omland vad
-stärka tillgängligheten i det nationellt viktiga gäller arbets­ och servicetillfällen. En god
-Västkuststråket.                tillgänglighet mellan kust och inland gör att
-sårbarheten i de glesare delarna minskar.
-Därför behöver transportkapaciteten på Det möjliggör att bo, verka och driva företag
-sträckan öka och restiderna mellan de större i flera olika delar av regionen.
+under planperioden finns stora behov av
+investeringar för att både säkerställa och
+stärka tillgängligheten i det nationellt viktiga
+Västkuststråket.
+
+Därför behöver transportkapaciteten på
+sträckan öka och restiderna mellan de större
 kärnorna minska de kommande decen­
 nierna. Ju större arbetsmarknadsregioner
 som tillgängliggörs, desto större utveck­
 lings­ och valmöjligheter för Halland och
-hallänningarna.                     Inriktningar:
+hallänningarna.
+
+Inriktningar:
+• Verka för insatser som leder till
+ökad kapacitet och minskade
+restider på Västkustbanan.
+• Säkerställ E6:ans funktioner och
+långsiktiga kapacitet.
+
+REGIONAL FYSISK PLAN HALLAND
+
+Stärk tillgängligheten
+mellan tillväxtmotorerna
+och de r egionala kärnorna i
+
+öst­västlig riktning
+För att stärka förutsättningarna i hela
+regionen behöver de olika delarna av
+Halland knytas samman. Ett robust vägnät,
+en välutbyggd busstrafik och en tågtrafik
+mellan inlandet och kusten förstärker
+utvecklingsmöjligheterna i hela geografin
+och möjliggör för olika typer av boende­ och
+livsmiljöer.
+
+De mindre kärnorna i regionen fyller i regel
+en viktig roll för sitt direkta omland vad
+gäller arbets­ och servicetillfällen. En god
+tillgänglighet mellan kust och inland gör att
+sårbarheten i de glesare delarna minskar.
+Det möjliggör att bo, verka och driva företag
+i flera olika delar av regionen.
+
+Inriktningar:
 • Verka för god farbarhet och
 restidssänkande åtgärder
 i stråken med öst­västliga
 riktningar.
-Inriktningar:
-• Verka för insatser som leder till • Verka för ett robust smås kaligt
-ökad kapacitet och minskade      vägnät utanför de större
-restider på Västkustbanan.       stråken.
-• Säkerställ E6:ans funktioner och • Verka för utbyggnad av infra­
-långsiktiga kapacitet.           struktur som möjliggör fossilfri
+
+• Verka för ett robust smås kaligt
+vägnät utanför de större
+stråken.
+• Verka för utbyggnad av infra­
+struktur som möjliggör fossilfri
 personbilstrafik i stråken.
 
-REGIONAL FYSISK PLAN HALLAND                                       25
+25
 
 <!-- sida 157 -->
 
 Stärk infrastrukturen
 för gång, cykel och
-kollektiv trafik                    Inriktningar:
-• Samplanera infrastruktur­
-Halland, liksom övriga världen, står inför åtgärder som premierar
-stora hållbarhetsutmaningar. Dagens   buss­ och tågtrafik, särskilt i
-höga utsläppsnivåer är inte hållbara  stadsnära områden och längs
-och får negativa konsekvenser för både kollektivtrafikstråken.
+kollektiv trafik
+
+Halland, liksom övriga världen, står inför
+stora hållbarhetsutmaningar. Dagens
+höga utsläppsnivåer är inte hållbara
+och får negativa konsekvenser för både
 samhälle och miljö. Transportsektorn är en
-• Verka för cykelvägar som
 bidragande orsak och all ny bebyggelse
-möjliggör cykelpendling i och
 innebär ökad trafikbelastning på befintlig
-runt de större kärnorna.
 väg infrastruktur. Nuvarande resmönster, där
-bilen är norm, tar dessutom stora markytor i • Eftersträva ett hela resan­
-anspråk.                              perspektiv som möjliggör för
-cykel, gång och bil till och från
-För att möta utmaningarna behöver en  bytespunkt, med hög grad av
-större andel av resandet ske med hållbara tillgänglighetsanpassning.
+bilen är norm, tar dessutom stora markytor i
+anspråk.
+
+För att möta utmaningarna behöver en
+större andel av resandet ske med hållbara
 alternativ där detta är möjligt. Bilen kommer
-• Skapa trygga håll platser,
 fortsatt att spela en roll i transportsystemet
-cykelparkeringar och
 men kollektivtrafik som gång och cykel
-gångstråk.
 måste stärkas.
+
 Förutsättningarna för detta är särskilt goda
 i Halland vad gäller kortväga pendling i och
 runt de större kärnorna. På landsbygden
 behöver möjligheterna att parkera bilen
 vid bytespunkter och kollektivtrafiknoder
 förbättras.
+
 Det är viktigt att samplanera kring
 infrastruktur och hållplatser för att skapa
 trygg och säker tillgänglighet och för
 att k ollektivtrafiken görs användbar för
 personer med funktionsnedsättning.
+
 Investeringar i cykelleder, gångstråk och
 åtgärder som främjar kollektivt resande
 är nödvändiga för att skapa attraktiva
@@ -5801,46 +6174,62 @@ trygghetsaspekter i samhälls planeringen
 kan vi utveckla miljöer som stärker
 människors välbefinnande och livskvalitet.
 
-26                                                  REGIONAL FYSISK PLAN HALLAND
+26
+
+Inriktningar:
+• Samplanera infrastruktur­
+åtgärder som premierar
+buss­ och tågtrafik, särskilt i
+stadsnära områden och längs
+kollektivtrafikstråken.
+• Verka för cykelvägar som
+möjliggör cykelpendling i och
+runt de större kärnorna.
+
+• Eftersträva ett hela resan­
+perspektiv som möjliggör för
+cykel, gång och bil till och från
+bytespunkt, med hög grad av
+tillgänglighetsanpassning.
+• Skapa trygga håll platser,
+cykelparkeringar och
+gångstråk.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 158 -->
 
 Utveckla en hållbar
-Flygplatsen i Halmstad är viktig för närings­
-infrastruktur för gods och      livets resor men används därtill även för
-en god beredskapsförmåga        andra samhällsnyttiga funktioner för
-samhällsskydd och beredskap, sjukvård och
-Dagligen flödar stora mängder gods inom av Försvarsmakten.
+infrastruktur för gods och
+en god beredskapsförmåga
+
+Dagligen flödar stora mängder gods inom
 och genom Halland. Placeringen mellan två
 storstadsregioner, tillgången till två större
 hamnar samt en transporintensiv näring,
 leder till hög belastning från tung trafik,
-särskilt på E6:an.                  Inriktningar:
-• Säkerställ E6:ans och övriga
-Andra viktiga godsleder i regionen är godsstråks funktioner, robust­
-riks­ och länsvägarna som sammanbinder het och långsiktiga kapacitet.
+särskilt på E6:an.
+
+Andra viktiga godsleder i regionen är
+riks­ och länsvägarna som sammanbinder
 Halland med större orter inåt landet. De
-• Verka för kompatibla om­
 närmaste decennierna förväntas godsflöde­
-lastningslösningar för gods i
 na att öka som en följd av större befolkning
-strategiskt fördelaktiga lägen.
 och ökad tung trafik med anledning av
-Fehrman­Belt­förbindelsen. Under plan­ • Verka för utbyggnad av
-perioden behöver därför kapaciteten på de infrastruktur som möjliggör
-hårt belastade stråken öka.           fossilfria tung trafik.
-• Bidra till att testa och utveckla
+Fehrman­Belt­förbindelsen. Under plan­
+perioden behöver därför kapaciteten på de
+hårt belastade stråken öka.
+
 Samtidigt som godstrafiken är avgörande
-nya innovativa lösningar för
 för regionens ekonomiska utveckling och
-framtidens transportsystem.
 dynamik finns behov av omställning av
-godstransporter. Den tunga trafiken för med • Förstärk skyddet och kapaci­
-sig utsläpp och orsakar trafikstockningar på teten hos viktig infrastruktur
-sträckor med hög belastning. Infrastruktur som hamnar, flygplats, kraft­
-för fossilfri tung trafik och lösningar för nät, vägar och järnvägar.
+godstransporter. Den tunga trafiken för med
+sig utsläpp och orsakar trafikstockningar på
+sträckor med hög belastning. Infrastruktur
+för fossilfri tung trafik och lösningar för
 intermodala transporter kan mildra dessa
 negativa effekter.
+
 Med sitt strategiska läge mellan två stor­
 stadsregioner och dess närhet till viktiga
 hamnar, flygplatser och transportleder,
@@ -5849,6 +6238,7 @@ säkerhet och beredskap. Regionens infra­
 struktur spelar en viktig roll i hanteringen av
 potentiella kriser och konflikter och behöver
 därför rustas och förberedas därefter.
+
 Det innebär bland annat att de halländska
 hamnarna och flygplatsens funktion som
 beredskapsflygplats samt kopplingarna
@@ -5859,36 +6249,58 @@ Markarydsbanan och Viskadalsbanan
 kan fungera som omedningsbanor vid
 trafikstörningar.
 
-REGIONAL FYSISK PLAN HALLAND                                       27
+REGIONAL FYSISK PLAN HALLAND
+
+Flygplatsen i Halmstad är viktig för närings­
+livets resor men används därtill även för
+andra samhällsnyttiga funktioner för
+samhällsskydd och beredskap, sjukvård och
+av Försvarsmakten.
+
+Inriktningar:
+• Säkerställ E6:ans och övriga
+godsstråks funktioner, robust­
+het och långsiktiga kapacitet.
+• Verka för kompatibla om­
+lastningslösningar för gods i
+strategiskt fördelaktiga lägen.
+
+• Verka för utbyggnad av
+infrastruktur som möjliggör
+fossilfria tung trafik.
+• Bidra till att testa och utveckla
+nya innovativa lösningar för
+framtidens transportsystem.
+
+• Förstärk skyddet och kapaci­
+teten hos viktig infrastruktur
+som hamnar, flygplats, kraft­
+nät, vägar och järnvägar.
+
+27
 
 <!-- sida 159 -->
 
 Stärk och utveckla den
 digitala infrastrukturen
-Inriktningar:
 i samhällsplaneringen
-• Stärk och utveckla möjligheter
-Utbudet av och efterfrågan på digitala till en mer robust och resilient
-tjänster ökar snabbt. Beroendet av den digital infrastruktur som möter
-digitala infrastrukturen blir därmed större användarens och användan­
-och som en konsekvens av det behöver  dets behov.
+
+Utbudet av och efterfrågan på digitala
+tjänster ökar snabbt. Beroendet av den
+digitala infrastrukturen blir därmed större
+och som en konsekvens av det behöver
 tillförlitligheten och säkerheten öka.
-• Säkerställ tillgången till digital
-infrastruktur vid all fysisk
+
 En tillgänglig och robust infrastruktur för
-planering både i mark, luft och
 digital konnektivitet skapar förutsättningar
-vatten.
 för en hållbar utveckling och möjligheter att
-• Säkerställ digital uppkoppling
 bo och verka i hela länet. Digital konnektivi­
-längs järnväg och högtrafike­
 tet bidrar till inkludering, tillgång till service
-rade vägstråk.
 och jobb, ger företag en möjlighet att växa
 och utvecklas på en global marknad, bidrar
 till minskat behov av arbetsresor samt är en
 förutsättning för grön omställning.
+
 Avbrott och störningar i den digitala infra­
 strukturen leder till omfattande problem och
 kostnader för verksamheter och samhället i
@@ -5899,6 +6311,7 @@ och fungerande digital infrastruktur är en
 förutsättning för att företag, myndigheter
 och samhällsfunktioner ska kunna verka
 effektivt och innovativt.
+
 En stabil uppkoppling minskar plats­
 beroendet för verksamheter och möjliggör
 distansarbete, fjärrstyrning av processer och
@@ -5911,34 +6324,76 @@ medverka till en uppbyggnad och utbyggnad
 av infrastruktur för digital konnektivitet på
 samma sätt som för övriga transportslag.
 
-28                                                  REGIONAL FYSISK PLAN HALLAND
+28
+
+Inriktningar:
+• Stärk och utveckla möjligheter
+till en mer robust och resilient
+digital infrastruktur som möter
+användarens och användan­
+dets behov.
+• Säkerställ tillgången till digital
+infrastruktur vid all fysisk
+planering både i mark, luft och
+vatten.
+
+• Säkerställ digital uppkoppling
+längs järnväg och högtrafike­
+rade vägstråk.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 160 -->
 
-Stärk och utveckla              Under planperioden väntas dessutom
-elnäts kapaciteten och          befolkningen öka, vilket ytterligare
-för stärker behovet av en tillförlitlig och
+Stärk och utveckla
+elnäts kapaciteten och
 energisystemet
-kapacitetss tark elinfrastruktur.
+
 Halland är en betydande producent av
-fossilfri el, inte minst genom Ringhals I södra Sverige har brist på effektkapacitet,
-kärnkraftverk. Samhället genomgår begränsningar i transmissionsnätet och
-samtidigt en omfattande elektrifiering som höga elpriser de senaste åren hämmat
-påverkar alla sektorer; från transporter och tillväxt och konkurrenskraft. Genom att
-industri till hushåll och offentlig verksamhet. stärka elnäten och samtidigt öka den
-Den ökade användningen av elfordon, lokala produktionen av fossilfri energi kan
-digitala tjänster och elektrifierade processer vi minska flaskhalsar, stabilisera elpriser
-leder till en snabbt stigande efterfrågan på och skapa bättre förutsättningar för både
-både el och effekt.             näringslivet och en växande befolkning. Det
-gör Halland mer attraktivt för investeringar
-För att möta denna efterfrågan behöver vi och etableringar.
+fossilfri el, inte minst genom Ringhals
+kärnkraftverk. Samhället genomgår
+samtidigt en omfattande elektrifiering som
+påverkar alla sektorer; från transporter och
+industri till hushåll och offentlig verksamhet.
+Den ökade användningen av elfordon,
+digitala tjänster och elektrifierade processer
+leder till en snabbt stigande efterfrågan på
+både el och effekt.
+
+För att möta denna efterfrågan behöver vi
 energieffektivisera, öka produktionen av
-fossilfri el och framför allt säkerställa att Det är också viktigt att belysa möjligheterna
-elnäten dvs. transmissions­, region­ och i Halland i relation till innovativa lösningar
-lokalnäten, har tillräcklig kapacitet för att och näringslivets utveckling. Genom att
-hantera den ökade belastningen. Detta investera i fossilfri energiproduktion, förbätt­
-är avgörande för att minska utsläppen av ra energieffektiviteten och stärka elnätets
-växthusgaser och nå klimatmålen. kapacitet på alla nivåer kan vi säkerställa
+fossilfri el och framför allt säkerställa att
+elnäten dvs. transmissions­, region­ och
+lokalnäten, har tillräcklig kapacitet för att
+hantera den ökade belastningen. Detta
+är avgörande för att minska utsläppen av
+växthusgaser och nå klimatmålen.
+
+REGIONAL FYSISK PLAN HALLAND
+
+Under planperioden väntas dessutom
+befolkningen öka, vilket ytterligare
+för stärker behovet av en tillförlitlig och
+kapacitetss tark elinfrastruktur.
+
+I södra Sverige har brist på effektkapacitet,
+begränsningar i transmissionsnätet och
+höga elpriser de senaste åren hämmat
+tillväxt och konkurrenskraft. Genom att
+stärka elnäten och samtidigt öka den
+lokala produktionen av fossilfri energi kan
+vi minska flaskhalsar, stabilisera elpriser
+och skapa bättre förutsättningar för både
+näringslivet och en växande befolkning. Det
+gör Halland mer attraktivt för investeringar
+och etableringar.
+
+Det är också viktigt att belysa möjligheterna
+i Halland i relation till innovativa lösningar
+och näringslivets utveckling. Genom att
+investera i fossilfri energiproduktion, förbätt­
+ra energieffektiviteten och stärka elnätets
+kapacitet på alla nivåer kan vi säkerställa
 ett tillförlitligt energisystem som möter både
 dagens och framtidens behov.
 
@@ -5948,16 +6403,16 @@ användningen och behovet av
 eleffekt genom effektivare tek­
 nik, flexibel energianvändning,
 fjärrvärme och energilager.
-
 • Verka för investeringar i
 transmissionsnätet och
 regionnäten.
+
 • Främja etablering av fossilfri
 elproduktion såväl på kort­
 och medellång sikt, som på
 lång sikt.
 
-REGIONAL FYSISK PLAN HALLAND                                       29
+29
 
 <!-- sida 161 -->
 
@@ -6015,41 +6470,33 @@ målområde    2
 <!-- sida 164 -->
 
 Kollektivtrafikorienterad
-För att fler ska få del av de fördelar som
 bebyggelseplanering  för ett
-finns i de mer tätbefolkade delarna behöver
-hållbart och växande Halland    strategiska kollektivtrafiknoder utvecklas
-utanför städernas direkta influensområden.
-Halland står inför fortsatt tillväxt och efter­ På så sätt kan utvecklingsförutsättningarna
-frågan på bostäder för olika målgrupper är stärkas i en större del av regionen.
+hållbart och växande Halland
+
+Halland står inför fortsatt tillväxt och efter­
+frågan på bostäder för olika målgrupper är
 stor. För att möta behoven och nyttja regio­
 nens utvecklingspotential krävs ett bostads­
 byggande i en takt som även säkerställer
 framtida kompetensförsörjning och en stabil
-befolkningsutveckling.              Inriktningar:
-• Främja förtätning runt
-Samtidigt måste expansionen ske på ett tågstationer för att tillvarata
-hållbart sätt så att viktiga naturvärden stationssamhällenas
-skyddas och människor ges möjlighet att möjligheter.
+befolkningsutveckling.
+
+Samtidigt måste expansionen ske på ett
+hållbart sätt så att viktiga naturvärden
+skyddas och människor ges möjlighet att
 göra miljövänliga livsval. Genom att fokusera
-• Främja sammanhängande
 på kollektivtrafikorienterad bebyggelsepla­
-bebyggelse i kollektivtrafiks­
 nering (KOB) och använda samplanerings­
-stråken.
 modellen kan vi både minska klimatpåver­
-kande utsläpp och främja regional tillväxt. • Främja utvecklingen av
-strategiska kollektivtrafik­
-Efterfrågan på nya bostäder är som störst noder.
+kande utsläpp och främja regional tillväxt.
+
+Efterfrågan på nya bostäder är som störst
 längs kusten, särskilt i och runt de större
-• Utveckla en starkare bostads­
 städerna samt i angränsande tätortsnära
-utveckling i kärnor och lokala
 landsbygd. För hela regionens utveckling är
-centrum öster om Västkust­
 det av stor betydelse att detta område fort­
-stråket.
 sätter att expandera under planperioden.
+
 Det höga planeringstrycket ställer dock krav
 på varsam mark­ och vattenanvändning,
 exempelvis bevarandet av den bördiga
@@ -6059,6 +6506,7 @@ också viktigt att bebyggelse lokaliseras så
 att den inte riskerar att påverkas av klimat­
 relaterade hot eller hamna i konflikt med
 naturvärden.
+
 I övriga delar av Halland är trycket på
 nybyggnation och förutsättningarna för
 bostadsbyggande lägre. Med ett starkt
@@ -6067,109 +6515,155 @@ bostadsutvecklingen under planperioden
 därför även stärkas i kärnor och lokala
 centrum öster om Västkuststråket.
 
-REGIONAL FYSISK PLAN HALLAND                                       33
+REGIONAL FYSISK PLAN HALLAND
+
+För att fler ska få del av de fördelar som
+finns i de mer tätbefolkade delarna behöver
+strategiska kollektivtrafiknoder utvecklas
+utanför städernas direkta influensområden.
+På så sätt kan utvecklingsförutsättningarna
+stärkas i en större del av regionen.
+
+Inriktningar:
+• Främja förtätning runt
+tågstationer för att tillvarata
+stationssamhällenas
+möjligheter.
+• Främja sammanhängande
+bebyggelse i kollektivtrafiks­
+stråken.
+
+• Främja utvecklingen av
+strategiska kollektivtrafik­
+noder.
+• Utveckla en starkare bostads­
+utveckling i kärnor och lokala
+centrum öster om Västkust­
+stråket.
+
+33
 
 <!-- sida 165 -->
 
 Platsutveckling för a ttraktiva
-stadsnära landsbygden har andra förutsätt­
-livsmiljöer i stad­ och         ningar än den glesare landsbygden, men
-landsbygd                       gemensamt är att det finns stora utveck­
-lingsmöjligheter för att stärka service­
-En plats med hög boendeattraktivitet är utbudet och förbättra tillgängligheten till
-en plats dit människor vill flytta och där exempelvis dagligvarubutiker, drivmedels­
-människor vill bo kvar. Besöksattraktivitet stationer och vårdgivare.
+livsmiljöer i stad­ och
+landsbygd
+
+En plats med hög boendeattraktivitet är
+en plats dit människor vill flytta och där
+människor vill bo kvar. Besöksattraktivitet
 överlappar på många sätt boende­
 attraktivitet och hänger nära samman med
 hur platser, bebyggelse och områden är
 gestaltade. Väl utformade miljöer kan skapa
-trygghet, uppmuntra till fysisk aktivitet och Inriktningar:
-främja folkhälsan. Det handlar både om • Möjliggör god tillgänglighet till
-vardagsnära platser och större besöksmål regionalt viktiga funktioner.
+trygghet, uppmuntra till fysisk aktivitet och
+främja folkhälsan. Det handlar både om
+vardagsnära platser och större besöksmål
 med regionalt viktiga funktioner.
-• Främja tillgången till grönytor
-och naturupplevelser i hela
+
 Hallands starka utveckling bygger på
-regionen.
 kombinationen av god tillgång till arbete
-och en mångfald av attraktiva livsmiljöer. I • Främja ett brett och kvalitativt
-Halland ska det vara möjligt att bo, leva och kulturutbud samt förutsätt­
-verka i olika typer av miljöer; i städer såväl ningarna att skapa, ta del av
-som landsbygder. För många platser handlar och utöva kultur i regionens
-det om att hitta sin egen nisch och stärka det alla delar.
+och en mångfald av attraktiva livsmiljöer. I
+Halland ska det vara möjligt att bo, leva och
+verka i olika typer av miljöer; i städer såväl
+som landsbygder. För många platser handlar
+det om att hitta sin egen nisch och stärka det
 som gör just den platsen unik. Det är därför
-• Stärk Hallands besöksanled­
 viktigt att utgå från varje plats förutsätt­
-ningar och integrera turismen i
 ningar, möjligheter och utmaningar, oavsett
-platsutvecklingen.
 om det gäller kust eller inland.
-• Utveckla tillgången till service
-Det finns ett ömsesidigt beroende mellan inom rimlig restid i hela regi­
-städer och landsbygder i Halland, vilka onen, med särskild prioritet
-sammanlänkas genom flöden och synergier. för landsbygd och stadsnära
-Tillgängligheten till platser med levande landsbygd.
+
+Det finns ett ömsesidigt beroende mellan
+städer och landsbygder i Halland, vilka
+sammanlänkas genom flöden och synergier.
+Tillgängligheten till platser med levande
 kulturmiljöer, ett rikt kulturarv och kultur­
 upplevelser är viktig, eftersom dessa utgör
 en potential för platsutveckling.
+
 För att möta hallänningarnas behov behöver
 vi under planperioden säkerställa att alla
 delar av regionen har tillgång till regionalt
 viktiga funktioner som lärosäten, sjukhus
 och ett brett utbud av kultur, nöje och
 handel.
+
 En viktig del av en plats attraktivitet är
 tillgången till service. Den varierar inom
 regionen: stark längs den tätbefolkade
 kusten, men svagare i inlandet. Den
 
-34                                                  REGIONAL FYSISK PLAN HALLAND
+34
+
+stadsnära landsbygden har andra förutsätt­
+ningar än den glesare landsbygden, men
+gemensamt är att det finns stora utveck­
+lingsmöjligheter för att stärka service­
+utbudet och förbättra tillgängligheten till
+exempelvis dagligvarubutiker, drivmedels­
+stationer och vårdgivare.
+
+Inriktningar:
+• Möjliggör god tillgänglighet till
+regionalt viktiga funktioner.
+• Främja tillgången till grönytor
+och naturupplevelser i hela
+regionen.
+
+• Främja ett brett och kvalitativt
+kulturutbud samt förutsätt­
+ningarna att skapa, ta del av
+och utöva kultur i regionens
+alla delar.
+• Stärk Hallands besöksanled­
+ningar och integrera turismen i
+platsutvecklingen.
+
+• Utveckla tillgången till service
+inom rimlig restid i hela regi­
+onen, med särskild prioritet
+för landsbygd och stadsnära
+landsbygd.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 166 -->
 
 Stärk de fysiska förutsätt­
 ningarna för det halländska
-Inriktningar:
 näringslivet
-• Möjliggör etablering av
-En plats med hög näringslivsattraktivitet kunskapsintensiva företag i
-är en plats där företag vill etablera sig. närheten av storregionala tåg­
-Hallands näringslivsattraktivitet hänger nära stationer i de större städerna.
+
+En plats med hög näringslivsattraktivitet
+är en plats där företag vill etablera sig.
+Hallands näringslivsattraktivitet hänger nära
 samman med att vara både en attraktiv
-• Samplanera etableringslägen
 boende­ och besöksregion.
-inom logistik och tillverkning
-längs med de större stråken.
+
 Tillgång till försörjning är avgörande för
-• Utveckla verksamhets­
 tillväxt. Därför är det centralt att näringslivet
-områden som har god
 i och nära Halland fortsätter att utvecklas.
-tillgång till infrastruktur för
 Regionen har ett differentierat näringsliv
-transporter, digital kommuni­
 och en god tillgänglighet till arbetsmark­
-kation, energi och vatten.
 nader både inom och utanför Halland. Det
-bidrar till låg sårbarhet och ger arbetsgivare • Planera för hållbar energi­
-goda möjligheter att hitta rätt kompetens. försörjning för näringslivet i
-regionens olika delar.
+bidrar till låg sårbarhet och ger arbetsgivare
+goda möjligheter att hitta rätt kompetens.
+
 För att stärka regionens utvecklingskraft
-• Främja besöksattraktiviteten i
 behöver planen under perioden skapa
-både inland och kust.
 förutsättningar för fortsatt tillväxt. En viktig
 uppgift blir att följa och möta den snabba
 strukturomvandling som digitalisering och
 artificiell intelligens driver, så att Halland kan
 omsätta förändringarna i stärkt konkurrens­
 kraft och hållbar tillväxt.
+
 Att kunna erbjuda mark i bra lägen är en
 viktig del av attraktiviteten, men framtidens
 näringsliv formas av mer än markfrågor.
 Platsens helhetserbjudande blir alltmer
 betydelsefullt med kultur, fritid, bostäder och
 en god livsmiljö som centrala delar.
+
 Platsens egenskaper har stor betydelse
 och varierar mellan olika branscher.
 Kunskaps intensiva företag och företag
@@ -6182,7 +6676,31 @@ beroende och mer beroende av effektiva
 transporter till större marknader. Därför är
 infrastrukturen avgörande, både för gods­
 och persontransporter.
-REGIONAL FYSISK PLAN HALLAND                                       35
+
+REGIONAL FYSISK PLAN HALLAND
+
+Inriktningar:
+• Möjliggör etablering av
+kunskapsintensiva företag i
+närheten av storregionala tåg­
+stationer i de större städerna.
+• Samplanera etableringslägen
+inom logistik och tillverkning
+längs med de större stråken.
+
+• Utveckla verksamhets­
+områden som har god
+tillgång till infrastruktur för
+transporter, digital kommuni­
+kation, energi och vatten.
+• Planera för hållbar energi­
+försörjning för näringslivet i
+regionens olika delar.
+
+• Främja besöksattraktiviteten i
+både inland och kust.
+
+35
 
 <!-- sida 167 -->
 
@@ -6246,44 +6764,36 @@ målområde    3
 
 Utveckla och bevara
 naturresurser för ett
-Inriktningar:
 attraktivt Halland
-• Främja samexistens i
-Halland har många unika naturtyper med havs miljöerna och integrera
-höga naturvärden som samlas på en relativt havsplanerna i samhälls­
-liten yta. På land gäller detta framför allt planeringen.
+
+Halland har många unika naturtyper med
+höga naturvärden som samlas på en relativt
+liten yta. På land gäller detta framför allt
 gräsmarker, lövskog, ädellövskog, ljunghed,
-• Skapa förutsättningar för
 slåtteräng och sandmarker.
-välfungerande ekosystem
-längs hela kusten, även där
+
 Även i vattnet finns det höga naturvärden,
-utvecklingstakten är hög.
 som till exempel havsmynnande vattendrag,
-• Utveckla stora, samman­
 specifika sjömiljöer och delar av kust­
-hängande grönblå strukturer
 miljön. Många av dessa är även utpekade
-för att främja rekreativa och
 regionala ansvarsbiotoper. Dessa miljöer är
-ekologiska samband.
 väl representerade i Halland och har höga
-natur värden och/eller är viktiga biotoper för • Säkerställ det rörliga frilufts­
-hotade arter.                         livet utmed kuststräckan.
-• Värna om viktiga vatten­
+natur värden och/eller är viktiga biotoper för
+hotade arter.
+
 De halländska naturmiljöerna är en central del
-miljöer för att främja biologisk
 av halländsk attraktionskraft. Naturmiljöerna
-mångfald.
 bidrar med många viktiga ekosystemtjänster
 för både boende och besökare samt har en
 stor betydelse för regionens identitet.
+
 Halland är också en region i omvandling med
 hög utvecklingstakt i både befolkningsmängd
 och näringsliv. Utvecklingstakten skapar stora
 markanspråk, särskilt i kustbandet. Exempel­
 vis hotas många strandängar av igenväxning,
 exploatering och översvämningsrisk.
+
 Kusten och havsmiljöerna är av stor vikt
 för Hallands attraktivitet. God miljöstatus i
 havet är en förutsättning för att både växter,
@@ -6291,6 +6801,7 @@ djur, människor och blå näringar ska kunna
 utvecklas. Därför är det av vikt att sam­
 existens främjas mellan olika verksamheter
 och användningsområden.
+
 För att möjliggöra tillväxt och samtidigt
 bevara attraktiviteten i regionen behöver
 naturens långsiktiga hållbarhet säkras, både
@@ -6300,66 +6811,135 @@ rätthålla, särskilt i naturmiljöer som är rika på
 ekosystemtjänster och biologisk mångfald
 samt utgör viktiga länkar i de större blågröna
 systemen.
-REGIONAL FYSISK PLAN HALLAND                                       39
+
+REGIONAL FYSISK PLAN HALLAND
+
+Inriktningar:
+• Främja samexistens i
+havs miljöerna och integrera
+havsplanerna i samhälls­
+planeringen.
+• Skapa förutsättningar för
+välfungerande ekosystem
+längs hela kusten, även där
+utvecklingstakten är hög.
+
+• Utveckla stora, samman­
+hängande grönblå strukturer
+för att främja rekreativa och
+ekologiska samband.
+• Säkerställ det rörliga frilufts­
+livet utmed kuststräckan.
+
+• Värna om viktiga vatten­
+miljöer för att främja biologisk
+mångfald.
+
+39
 
 <!-- sida 171 -->
 
 Beredskap  för ett förändrat
-grundläggande tjänster som vatten, mat
-klimat                          och hälsovård. Sådana åtgärder stärker
-regionens motståndskraft, bevarar biologisk
-Hallands geografiska läge i kombination mångfald och värnar ekosystemtjänster.
+klimat
+
+Hallands geografiska läge i kombination
 med klimatförändringarnas effekter innebär
 ökade risker för händelser som hotar både liv,
 hälsa och samhällsviktiga funktioner. Klimat­
 scenarier visar på mer nederbörd under
-vintern, vilket ökar risken för översvämningar Inriktningar:
-i vattendrag och sjöar. Somrarna väntas • Fördröj vattnets tid i land­
-samtidigt präglas av längre torrperioder och skapet och stärk markens
-lägre vattenflöden, vilket förstärker behovet vattenhållande förmåga.
+vintern, vilket ökar risken för översvämningar
+i vattendrag och sjöar. Somrarna väntas
+samtidigt präglas av längre torrperioder och
+lägre vattenflöden, vilket förstärker behovet
 av klimatanpassade lösningar i den fysiska
-• Stärk landskapets
 planeringen.
-robusthet och minska
-klimatgas utsläppen genom
+
 MSB (Myndigheten för samhällsskydd och be­
-natur baserade och multi­
 redskap) pekar ut stora delar av Hallands kust
-funktionella åtgärder.
 som särskilt känsliga för havsnivåhöjningar,
-kusterosion och översvämningar från vatten­ • Öka kunskapen om och plane­
-drag. Erosion hotar både naturmiljöer och ra gemensamt för att hantera
-bebyggelse, särskilt i lågt belägna och expo­ klimatförändringar, på både
-nerade delar av kusten. Hårda erosionsskydd kort och lång sikt.
+kusterosion och översvämningar från vatten­
+drag. Erosion hotar både naturmiljöer och
+bebyggelse, särskilt i lågt belägna och expo­
+nerade delar av kusten. Hårda erosionsskydd
 kan i vissa fall förvärra problemen genom att
 störa den naturliga sedimenttransporten.
+
 Höga flöden och översvämningar kan ge om­
-fattande konsekvenser för infrastruktur och Hållbar och säker
-jordbruk. Ras och skred innebär risk för både vatten hantering
+fattande konsekvenser för infrastruktur och
+jordbruk. Ras och skred innebär risk för både
 människor och egendom och kan u tlösas
-av översvämningar, skyfall efter torka, I takt med att Halland växer ökar också
-skogsavverkning eller mänskliga ingrepp som behovet av rent vatten. För att uppfylla miljö­
-vägbyggen, järnvägar, hamnar och dammar. kvalitetsnormerna för vatten och säkerställa
-tillgången året runt krävs en långsiktig och
-Ett särskilt problem är kustzonsinklämning hållbar vattenplanering.
+av översvämningar, skyfall efter torka,
+skogsavverkning eller mänskliga ingrepp som
+vägbyggen, järnvägar, hamnar och dammar.
+
+Ett särskilt problem är kustzonsinklämning
 dvs. när stigande havsnivåer och erosion gör
-att kustzonen krymper, samtidigt som bebyg­ Klimatförändringar och risk för förorening­
-gelse och infrastruktur förhindrar en naturlig ar, både från historiska och nya utsläpp,
-reträtt inåt land. Detta hotar livs miljöer, påverkar regionens vattenresurser. Även
-kulturvärden och ekosystemtjänster. Här landskapets förmåga att hålla kvar vatten
-behövs fysisk planering som skapar utrymme minskar när markavvattning och hårdgjorda
-för naturbaserade lösningar, buffert zoner ytor ökar. Till detta kommer föroreningar
-och reträttytor. På samma sätt kan natur­ från exempelvis reningsverk och jordbruk
-baserade lösningar i stadsmiljö minska som försämrar vattenkvaliteten. Kustnära
-värmee ffekter, hantera skyfall och stärka den grundvattenresurser riskerar dessutom
-urbana livskvaliteten.          saltvatteninträngning, särskilt vid högt uttag i
-kombination med låg nederbörd.
+att kustzonen krymper, samtidigt som bebyg­
+gelse och infrastruktur förhindrar en naturlig
+reträtt inåt land. Detta hotar livs miljöer,
+kulturvärden och ekosystemtjänster. Här
+behövs fysisk planering som skapar utrymme
+för naturbaserade lösningar, buffert zoner
+och reträttytor. På samma sätt kan natur­
+baserade lösningar i stadsmiljö minska
+värmee ffekter, hantera skyfall och stärka den
+urbana livskvaliteten.
+
 För att främja social hållbarhet i ett förändrat
-klimat krävs åtgärder som skyddar och stär­ Förutsättningarna för vattenförsörjning
-ker de mest sårbara. Det innebär att bygga varierar inom Halland och mellan olika
-resilient infrastruktur, förbättra katastrof­ årstider. Under sommaren samman­
-beredskap och säkerställa tillgången till faller ofta torrperioder med jordbrukets
-40                                                  REGIONAL FYSISK PLAN HALLAND
+klimat krävs åtgärder som skyddar och stär­
+ker de mest sårbara. Det innebär att bygga
+resilient infrastruktur, förbättra katastrof­
+beredskap och säkerställa tillgången till
+
+40
+
+grundläggande tjänster som vatten, mat
+och hälsovård. Sådana åtgärder stärker
+regionens motståndskraft, bevarar biologisk
+mångfald och värnar ekosystemtjänster.
+
+Inriktningar:
+• Fördröj vattnets tid i land­
+skapet och stärk markens
+vattenhållande förmåga.
+• Stärk landskapets
+robusthet och minska
+klimatgas utsläppen genom
+natur baserade och multi­
+funktionella åtgärder.
+
+• Öka kunskapen om och plane­
+ra gemensamt för att hantera
+klimatförändringar, på både
+kort och lång sikt.
+
+Hållbar och säker
+vatten hantering
+
+I takt med att Halland växer ökar också
+behovet av rent vatten. För att uppfylla miljö­
+kvalitetsnormerna för vatten och säkerställa
+tillgången året runt krävs en långsiktig och
+hållbar vattenplanering.
+
+Klimatförändringar och risk för förorening­
+ar, både från historiska och nya utsläpp,
+påverkar regionens vattenresurser. Även
+landskapets förmåga att hålla kvar vatten
+minskar när markavvattning och hårdgjorda
+ytor ökar. Till detta kommer föroreningar
+från exempelvis reningsverk och jordbruk
+som försämrar vattenkvaliteten. Kustnära
+grundvattenresurser riskerar dessutom
+saltvatteninträngning, särskilt vid högt uttag i
+kombination med låg nederbörd.
+
+Förutsättningarna för vattenförsörjning
+varierar inom Halland och mellan olika
+årstider. Under sommaren samman­
+faller ofta torrperioder med jordbrukets
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 172 -->
 
@@ -6434,31 +7014,44 @@ REGIONAL FYSISK PLAN HALLAND                                       43
 
 Strukturbild
 
-Halland växer mitt i ett växande Den regionala strukturen bygger på:
-Sydvästsverige                  • Den västsvenska kustkorridoren som ett
-Strukturbilden beskriver de breda pensel­ strategiskt och nationellt viktigt stråk
-dragen och den strategiska viljan för ett som utgör ryggraden för ett sammanhållet
-flerkärnigt Halland år 2050, där funktionella Halland.
+Halland växer mitt i ett växande
+Sydvästsverige
+Strukturbilden beskriver de breda pensel­
+dragen och den strategiska viljan för ett
+flerkärnigt Halland år 2050, där funktionella
 samband inom länet och med omvärlden
-• Tvärgående kopplingar mellan kust och
 fortsätter stärkas. Det sker genom
-inland som stärker tillgängligheten och
 investeringar i hållbart resande, transport­
-framtida utvecklingsmöjligheter.
 infrastruktur, attraktiva livsmiljöer samt
-infrastruktur kopplat till både energi och • Utpekade tillväxtmotorer och kärnor
-digitalisering.                   som har särskilda förutsättningar utifrån
-befolkningstillväxt och arbetsmarknader.
+infrastruktur kopplat till både energi och
+digitalisering.
+
 Genom att visualisera sambanden mellan
-• Samspel med omkringliggande regioner
 Hallands städer och de omgivande
-Västra Götaland, Skåne, Jönköping och
 regionerna tydliggörs de fysiska och
-Kronoberg samt ned mot Danmark och
 funktionella strukturer som planeringen
-kontinenten där Halland utgör en viktig
 behöver förhålla sig till.
+
+44
+
+Den regionala strukturen bygger på:
+• Den västsvenska kustkorridoren som ett
+strategiskt och nationellt viktigt stråk
+som utgör ryggraden för ett sammanhållet
+Halland.
+• Tvärgående kopplingar mellan kust och
+inland som stärker tillgängligheten och
+framtida utvecklingsmöjligheter.
+
+• Utpekade tillväxtmotorer och kärnor
+som har särskilda förutsättningar utifrån
+befolkningstillväxt och arbetsmarknader.
+• Samspel med omkringliggande regioner
+Västra Götaland, Skåne, Jönköping och
+Kronoberg samt ned mot Danmark och
+kontinenten där Halland utgör en viktig
 länk i ett större funktionellt sammanhang.
+
 • Farleder och havsbaserad infra struktur
 där den halländska kusten har en
 strategisk betydelse för farlederna
@@ -6468,7 +7061,7 @@ avgörande och bärande struktur som
 säkrar likvärdiga möjligheter till arbete,
 utbildning och företagande i hela Halland.
 
-44                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 176 -->
 
@@ -6531,18 +7124,33 @@ REGIONAL FYSISK PLAN HALLAND                                       45
 
 Plankarta
 
-Plankartan visar den samlade utvecklings­ Objekt i plankartan
-inriktningen för Halland i ett 2050­perspek­ Nedan presenteras plankartan och därefter
-tiv. De strategiska inriktningar som beskrivs i en beskrivning av de objekt som redovisas.
-målområdena synliggörs i kartan. I plankartans digitala version är kartan
-interaktiv och texten visas när läsaren klickar
-Utvecklingen ska i huvudsak ske inom på ett objekt.
+Plankartan visar den samlade utvecklings­
+inriktningen för Halland i ett 2050­perspek­
+tiv. De strategiska inriktningar som beskrivs i
+målområdena synliggörs i kartan.
+
+Utvecklingen ska i huvudsak ske inom
 befintliga strukturer, med utgångspunkt
-i en varsam och möjliggörande mark­ och Stråk beskrivs utifrån sin karaktär, de orter
-vatten användning. För att vidareutveckla som ingår samt hur utvecklingen sett ut
-Hallands flerkärniga struktur är samspelet historiskt och hur den förväntas utvecklas i
-mellan tillväxtmotorer, kärnor och lokala ett 2050­perspektiv.
+i en varsam och möjliggörande mark­ och
+vatten användning. För att vidareutveckla
+Hallands flerkärniga struktur är samspelet
+mellan tillväxtmotorer, kärnor och lokala
 centrum av central betydelse.
+
+46
+
+Objekt i plankartan
+Nedan presenteras plankartan och därefter
+en beskrivning av de objekt som redovisas.
+I plankartans digitala version är kartan
+interaktiv och texten visas när läsaren klickar
+på ett objekt.
+
+Stråk beskrivs utifrån sin karaktär, de orter
+som ingår samt hur utvecklingen sett ut
+historiskt och hur den förväntas utvecklas i
+ett 2050­perspektiv.
+
 Orter i kartan är kategoriserade i fem nivåer
 som beskriver deras funktion i den halländ­
 ska geografin. Kategoriseringen baseras
@@ -6551,7 +7159,7 @@ utbud av kommersiell och offentlig service,
 samt om orten är utpekad i de kommunala
 översiktsplanerna.
 
-46                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 178 -->
 
@@ -6563,147 +7171,283 @@ REGIONAL FYSISK PLAN HALLAND                                       47
 
 Stråk
 
-Västkuststråket                 Den största pendlingsdestinationen är
-Västkuststråket är det största och viktigaste Göteborg och Mölndal, följt av Halmstad,
-transportstråket i Halland. I stråket nås Kungsbacka, Varberg och Falkenberg. I
-Göteborg med möjligheten att resa vidare regionens norra delar är rörligheten större
-mot Oslo och Stockholm, samt Malmö och på grund av Göteborgsregionens storlek
-Köpenhamn med kopplingen söderut mot och attraktionskraft. I södra delen fungerar
-Hamburg.                        Halmstad som det starkaste navet, bortsett
-från Kungsbacka har alla kommuner starka
-I Västkuststråket bor mer än en tiondel av pendlingsrelationer med Halmstad.
+Västkuststråket
+Västkuststråket är det största och viktigaste
+transportstråket i Halland. I stråket nås
+Göteborg med möjligheten att resa vidare
+mot Oslo och Stockholm, samt Malmö och
+Köpenhamn med kopplingen söderut mot
+Hamburg.
+
+I Västkuststråket bor mer än en tiondel av
 Sveriges befolkning, en andel som har ökat
-kraftigt de senaste åren. Västkuststråket Pendlingen mot Skåne är betydligt mer
-innefattar järnvägen Västkustbanan och begränsad jämfört med pendlingen till
-motorvägen E6. Stråket förbinder flera Göteborgsregionen. I Skåne är Ängelholm
-regionalt och nationellt viktiga funktioner. och Helsingborg de främsta destina­
-tionerna. Det finns potential att ytterligare
-I stråket finns även Kastrup, Nordens största stärka kopplingen söderut mellan Halland
-flygplats. Tillgången till Kastrup är viktig och Skåne, med särskild tyngdpunkt på
-då det innebär en effektiv uppkoppling Halmstad och Helsingborg.
+kraftigt de senaste åren. Västkuststråket
+innefattar järnvägen Västkustbanan och
+motorvägen E6. Stråket förbinder flera
+regionalt och nationellt viktiga funktioner.
+
+I stråket finns även Kastrup, Nordens största
+flygplats. Tillgången till Kastrup är viktig
+då det innebär en effektiv uppkoppling
 mot internationella marknader. Stråket
-ingår i det transeuropeiska transportnätet Genom att korta restiden, främst med tåg,
-(TEN­T). Syftet med TEN­T är att bygga förbättra infrastrukturen och möjliggöra för
-upp ett till förlitligt, sammanhängande och en ökad rörlighet mellan de många orterna
-hög kvalitativt transportnät som ger hållbar längs kusten blir arbetsmarknadsregionerna
-konnektivitet i hela Europa utan fysiska större. Det innebär exempelvis att sårbar­
-avbrott, flaskhalsar och felande länkar. heten minskar och matchningen på arbets­
-marknaden blir bättre.
+ingår i det transeuropeiska transportnätet
+(TEN­T). Syftet med TEN­T är att bygga
+upp ett till förlitligt, sammanhängande och
+hög kvalitativt transportnät som ger hållbar
+konnektivitet i hela Europa utan fysiska
+avbrott, flaskhalsar och felande länkar.
+
 Att pekas ut som väg­ eller järnvägsstråk,
-urban nod, hamn, flygplats eller terminal E6
-i TEN­T innebär bland annat ett synlig­ Motorvägen E6 är en del av TEN­T för vägar
-görande av EU­mervärdet att det ska finnas som förbinder Skandinavien med övriga
-fungerande transportlösningar till, kring och Europa. Både person­ och godstransporter
-i området.                      är omfattande, med dominans av person­
-transporter mot Göteborg.
+urban nod, hamn, flygplats eller terminal
+i TEN­T innebär bland annat ett synlig­
+görande av EU­mervärdet att det ska finnas
+fungerande transportlösningar till, kring och
+i området.
+
 I stråket ligger fem halländska kommun­
-huvudorter: Falkenberg, Halmstad, Kungs­ Stråket används både för kortare inom­
-backa, Laholm och Varberg samt ytterligare regionala resor längs kusten och för lång­
-ett flertal större tätorter. Utifrån pendlingen väga transporter. I ett 2050­perspektiv är
-över kommungräns är den starkaste regio­ det viktigt att säkerställa E6:ans funktioner
-nala kopplingen till Västra Götaland framför och långsiktiga kapacitet.
+huvudorter: Falkenberg, Halmstad, Kungs­
+backa, Laholm och Varberg samt ytterligare
+ett flertal större tätorter. Utifrån pendlingen
+över kommungräns är den starkaste regio­
+nala kopplingen till Västra Götaland framför
 allt mellan Kungsbacka och Göteborg men
-också mellan Kungsbacka och Mölndal. Västkustbanan
-Västkustbanan är en viktig järnvägsför­
-Kommunerna Falkenberg, Kungsbacka bindelse i Sverige som sträcker sig mellan
-och Varberg tillhör idag Göteborgs Göteborg och Lund och utgör ryggraden i
-arbetsmarknadsregioner. Kommunerna Hallands infrastruktur för regionalt resande.
+också mellan Kungsbacka och Mölndal.
+
+Kommunerna Falkenberg, Kungsbacka
+och Varberg tillhör idag Göteborgs
+arbetsmarknadsregioner. Kommunerna
 Laholm, Hylte och Halmstad utgör en egen
-arbetsmarknadsregion.           Den har en central roll i att förbinda de stora
+arbetsmarknadsregion.
+
+48
+
+Den största pendlingsdestinationen är
+Göteborg och Mölndal, följt av Halmstad,
+Kungsbacka, Varberg och Falkenberg. I
+regionens norra delar är rörligheten större
+på grund av Göteborgsregionens storlek
+och attraktionskraft. I södra delen fungerar
+Halmstad som det starkaste navet, bortsett
+från Kungsbacka har alla kommuner starka
+pendlingsrelationer med Halmstad.
+
+Pendlingen mot Skåne är betydligt mer
+begränsad jämfört med pendlingen till
+Göteborgsregionen. I Skåne är Ängelholm
+och Helsingborg de främsta destina­
+tionerna. Det finns potential att ytterligare
+stärka kopplingen söderut mellan Halland
+och Skåne, med särskild tyngdpunkt på
+Halmstad och Helsingborg.
+
+Genom att korta restiden, främst med tåg,
+förbättra infrastrukturen och möjliggöra för
+en ökad rörlighet mellan de många orterna
+längs kusten blir arbetsmarknadsregionerna
+större. Det innebär exempelvis att sårbar­
+heten minskar och matchningen på arbets­
+marknaden blir bättre.
+
+E6
+Motorvägen E6 är en del av TEN­T för vägar
+som förbinder Skandinavien med övriga
+Europa. Både person­ och godstransporter
+är omfattande, med dominans av person­
+transporter mot Göteborg.
+
+Stråket används både för kortare inom­
+regionala resor längs kusten och för lång­
+väga transporter. I ett 2050­perspektiv är
+det viktigt att säkerställa E6:ans funktioner
+och långsiktiga kapacitet.
+
+Västkustbanan
+Västkustbanan är en viktig järnvägsför­
+bindelse i Sverige som sträcker sig mellan
+Göteborg och Lund och utgör ryggraden i
+Hallands infrastruktur för regionalt resande.
+
+Den har en central roll i att förbinda de stora
 städerna längs västkusten och underlättar
 både person­ och godstrafik. Banan går
 
-48                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 180 -->
 
-genom några av landets mest tätbefolkade och utanför Halland. Trafikmängderna är
-och industribetonade områden, vilket gör mycket stora mellan Veinge/Laholm och
-den till en av Sveriges mest trafikerade E6 mot Halmstad och minskar successivt
-järnvägar.                      mot länsgränsen och vidare österut. Ju
-närmare Halmstad tätort desto större
-Västkustbanan är också en viktig del av pendlingsflöden.
-TEN­T för järnvägar, där också Halm­
-stad är utpekad som en urban nod. I ett I stråket klassas Laholm som delregional
-2050­p erspektiv blir det viktigt att de kärna och Knäred, Trönninge och Veinge
-infrastrukturbehov som krävs för att fram­ som lokala centrum. När tågtrafiken på
-tidssäkra Västkustbanan prioriteras. Det Markarydsbanan startar finns möjligheten
-blir viktigt att verka för insatser som leder för interregionala resor mellan södra Halland
-till ökad kapacitet och minskade restider på och nordöstra Skåne där kopplingen till
-Västkustbanan. I ett beredskapsperspektiv Södra stambanan via Hässleholm blir viktig.
-är kopplingarna till och från Västkustbanan Stråket används i sin fulla sträckning för
-viktiga att säkra.              såväl person­ som godstransporter mellan
-Blekinge/Norra Skåne/Västkusten.
-Halmstad­Norra Skåne­Blekinge
-I stråket mellan Halmstad­norra Skåne Tågtrafiken på Markarydsbanan ska vara
-och vidare mot Blekinge ingår: Markaryds­ ett attraktivt och pålitlig val för arbets­och
-banan, väg 15, väg 24, Halmstad hamn samt studiependling samt för mer långväga resor.
-flygplatsen i Halmstad.         En väl fungerande timmestrafik är till stor
-nytta för invånarna och främjar utvecklingen
-Stråket är den mest direkta förbindelsen av orterna i stråket. Samplanering mellan ett
-mellan Halmstad och Hässleholm samt flertal aktörer är viktigt för att tågtrafiken
-Kristianstad. Men också mellan Halmstad ska bli ett attraktivt val.
-och Karlshamn samt Karlskrona. Stråket
-är viktigt för orterna i Laholms kommun Infrastrukturinvesteringar som nya stationer
-för koppling till närliggande orter inom i Veinge och Knäred, ett nytt mötesspår och
+genom några av landets mest tätbefolkade
+och industribetonade områden, vilket gör
+den till en av Sveriges mest trafikerade
+järnvägar.
 
-REGIONAL FYSISK PLAN HALLAND                                       49
+Västkustbanan är också en viktig del av
+TEN­T för järnvägar, där också Halm­
+stad är utpekad som en urban nod. I ett
+2050­p erspektiv blir det viktigt att de
+infrastrukturbehov som krävs för att fram­
+tidssäkra Västkustbanan prioriteras. Det
+blir viktigt att verka för insatser som leder
+till ökad kapacitet och minskade restider på
+Västkustbanan. I ett beredskapsperspektiv
+är kopplingarna till och från Västkustbanan
+viktiga att säkra.
+
+Halmstad­Norra Skåne­Blekinge
+I stråket mellan Halmstad­norra Skåne
+och vidare mot Blekinge ingår: Markaryds­
+banan, väg 15, väg 24, Halmstad hamn samt
+flygplatsen i Halmstad.
+
+Stråket är den mest direkta förbindelsen
+mellan Halmstad och Hässleholm samt
+Kristianstad. Men också mellan Halmstad
+och Karlshamn samt Karlskrona. Stråket
+är viktigt för orterna i Laholms kommun
+för koppling till närliggande orter inom
+
+REGIONAL FYSISK PLAN HALLAND
+
+och utanför Halland. Trafikmängderna är
+mycket stora mellan Veinge/Laholm och
+E6 mot Halmstad och minskar successivt
+mot länsgränsen och vidare österut. Ju
+närmare Halmstad tätort desto större
+pendlingsflöden.
+
+I stråket klassas Laholm som delregional
+kärna och Knäred, Trönninge och Veinge
+som lokala centrum. När tågtrafiken på
+Markarydsbanan startar finns möjligheten
+för interregionala resor mellan södra Halland
+och nordöstra Skåne där kopplingen till
+Södra stambanan via Hässleholm blir viktig.
+Stråket används i sin fulla sträckning för
+såväl person­ som godstransporter mellan
+Blekinge/Norra Skåne/Västkusten.
+
+Tågtrafiken på Markarydsbanan ska vara
+ett attraktivt och pålitlig val för arbets­och
+studiependling samt för mer långväga resor.
+En väl fungerande timmestrafik är till stor
+nytta för invånarna och främjar utvecklingen
+av orterna i stråket. Samplanering mellan ett
+flertal aktörer är viktigt för att tågtrafiken
+ska bli ett attraktivt val.
+
+Infrastrukturinvesteringar som nya stationer
+i Veinge och Knäred, ett nytt mötesspår och
+
+49
 
 <!-- sida 181 -->
 
-åtgärder på Halmstad C är under planering. Skummeslövsstrand har varit expansivt och
-Laholms kommun satsar stort på ortsutveck­ befolkningen längs Laholms kust förväntas
-ling genom utvecklingsprogram i Veinge och fortsatt att öka.
+åtgärder på Halmstad C är under planering.
+Laholms kommun satsar stort på ortsutveck­
+ling genom utvecklingsprogram i Veinge och
 Knäred.
-Laholm – Våxtorp – Nordvästra Skåne
-I ett 2050­perspektiv finns potential att Stråket Laholm–Våxtorp är ett växande
-genom samplanering fortsätta utveckla lokalt pendlingsstråk i södra Halland som är
-attraktiva livsmiljöer längs med stråket. utpekat som ett kollektivtrafikstråk. Våxtorp
-Halmstad kommun planerar för att är utpekat som en kollektivtrafiknod och
-Trönninge ska kunna växa kraftigt med lokalt centrum.
+
+I ett 2050­perspektiv finns potential att
+genom samplanering fortsätta utveckla
+attraktiva livsmiljöer längs med stråket.
+Halmstad kommun planerar för att
+Trönninge ska kunna växa kraftigt med
 flera bostadsområden. Pendlingen i strå­
-ket bedöms öka in mot Halmstads tätort Laholms kommun planerar i sin översiktsplan
-sam tidigt som pendlaren får mycket bättre för fortsatt bostads­ och verksamhets­
-förutsättningar att resa hållbart med utveckling i stråket. Stråket har en viktig
-tågtrafik.                      roll för att knyta samman omlandet med
-Laholms tätort och därigenom förbättra
-Halmstad­Trönninge­Veinge­Laholm tillgången till service, arbete och utbildning.
+ket bedöms öka in mot Halmstads tätort
+sam tidigt som pendlaren får mycket bättre
+förutsättningar att resa hållbart med
+tågtrafik.
+
+Halmstad­Trönninge­Veinge­Laholm
 Stråket går genom kommunerna Halmstad
-och Laholm via väg 15 och Tjärbyvägen. Österut finns kopplingar mot Örkelljunga
-Stråket präglas av en historiskt stark tillväxt och E4:an, vilket förstärker kontakterna
-och är viktigt för Halmstads och Laholms med nordvästra Skåne och vidare mot
-gemensamma arbetsmarknad.       Hässleholm.
+och Laholm via väg 15 och Tjärbyvägen.
+Stråket präglas av en historiskt stark tillväxt
+och är viktigt för Halmstads och Laholms
+gemensamma arbetsmarknad.
 
-I stråket finns tätorter med en stark koppling I ett 2050­perspektiv väntas stråket få ökad
-till Halmstads kommunhuvudort. Kopplingen betydelse i takt med att Våxtorp utvecklas,
-från orterna i stråket är större till Halmstad pendlingen till Laholm och Halmstad ökar
-än söderut mot Skåne. I Veinge planeras för och länkarna mot Skåne och E4:an stärks.
+I stråket finns tätorter med en stark koppling
+till Halmstads kommunhuvudort. Kopplingen
+från orterna i stråket är större till Halmstad
+än söderut mot Skåne. I Veinge planeras för
 en järnvägsstation tillsammans med stark
-bostads­ och verksamhetsutveckling. Halmstad­Simlångsdalen­södra/ östra
-Småland
-Redundansen är en viktig beredskaps­ I stråket Halmstad­Simlångsdalen­södra/
-fråga och stråket möjliggör att gods­ och östra Småland ingår väg 25, Halmstad hamn
-persontransporter samt transporter med samt flygplatsen i Halmstad. Stråket är den
-utryckningsfordon i nord­sydlig riktning kan mest direkta förbindelsen från Halmstad till
-fortgå vid större händelser då E6 behöver Ljungby, vidare mot Växjö och i förlängning­
-stängas av.                     en även Kalmar och Stockholm.
+bostads­ och verksamhetsutveckling.
 
-Laholm­Mellbystrand/            Med bil är väg 25 den snabbaste vägen
-Skummeslövsstrand och norra Skåne mellan Halmstad och E4 samt Stockholm och
-I stråket ligger Laholm tätort som är en det är ett av två alternativ för godstranspor­
-delregional kärna samt Mellbystrand/ ter från Halmstad till Stockholm. Trafik­
-Skummeslövstrand som är utpekad som mängderna är störst närmast Halmstad på
-lokal ort och i förlängningen kopplingen till den halländska sidan men ökar efter E4.
-Båstad station i norra Skåne.   Stråket är viktigt för långväga person­ och
-godstransporter, mellan Halland och södra
-Orterna längs med kusten präglas av en samt östra Småland mot Kalmar respektive
-stark turism och det finns många sommar­ Stockholm.
+Redundansen är en viktig beredskaps­
+fråga och stråket möjliggör att gods­ och
+persontransporter samt transporter med
+utryckningsfordon i nord­sydlig riktning kan
+fortgå vid större händelser då E6 behöver
+stängas av.
+
+Laholm­Mellbystrand/
+Skummeslövsstrand och norra Skåne
+I stråket ligger Laholm tätort som är en
+delregional kärna samt Mellbystrand/
+Skummeslövstrand som är utpekad som
+lokal ort och i förlängningen kopplingen till
+Båstad station i norra Skåne.
+
+Orterna längs med kusten präglas av en
+stark turism och det finns många sommar­
 bostäder vilket gör att befolkningen ökar
-på sommaren. I ett 2050­perspektiv för­ På den halländska sidan präglas stråket
-väntas den historiska tillväxten som präglat framför allt av pendling från Simlångsdalen
-stråket att fortsätta. Mellbystrand och till Halmstad. Simlångsdalen har haft en
+på sommaren. I ett 2050­perspektiv för­
+väntas den historiska tillväxten som präglat
+stråket att fortsätta. Mellbystrand och
 
-50                                                  REGIONAL FYSISK PLAN HALLAND
+50
+
+Skummeslövsstrand har varit expansivt och
+befolkningen längs Laholms kust förväntas
+fortsatt att öka.
+
+Laholm – Våxtorp – Nordvästra Skåne
+Stråket Laholm–Våxtorp är ett växande
+lokalt pendlingsstråk i södra Halland som är
+utpekat som ett kollektivtrafikstråk. Våxtorp
+är utpekat som en kollektivtrafiknod och
+lokalt centrum.
+
+Laholms kommun planerar i sin översiktsplan
+för fortsatt bostads­ och verksamhets­
+utveckling i stråket. Stråket har en viktig
+roll för att knyta samman omlandet med
+Laholms tätort och därigenom förbättra
+tillgången till service, arbete och utbildning.
+
+Österut finns kopplingar mot Örkelljunga
+och E4:an, vilket förstärker kontakterna
+med nordvästra Skåne och vidare mot
+Hässleholm.
+
+I ett 2050­perspektiv väntas stråket få ökad
+betydelse i takt med att Våxtorp utvecklas,
+pendlingen till Laholm och Halmstad ökar
+och länkarna mot Skåne och E4:an stärks.
+
+Halmstad­Simlångsdalen­södra/ östra
+Småland
+I stråket Halmstad­Simlångsdalen­södra/
+östra Småland ingår väg 25, Halmstad hamn
+samt flygplatsen i Halmstad. Stråket är den
+mest direkta förbindelsen från Halmstad till
+Ljungby, vidare mot Växjö och i förlängning­
+en även Kalmar och Stockholm.
+
+Med bil är väg 25 den snabbaste vägen
+mellan Halmstad och E4 samt Stockholm och
+det är ett av två alternativ för godstranspor­
+ter från Halmstad till Stockholm. Trafik­
+mängderna är störst närmast Halmstad på
+den halländska sidan men ökar efter E4.
+Stråket är viktigt för långväga person­ och
+godstransporter, mellan Halland och södra
+samt östra Småland mot Kalmar respektive
+Stockholm.
+
+På den halländska sidan präglas stråket
+framför allt av pendling från Simlångsdalen
+till Halmstad. Simlångsdalen har haft en
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 182 -->
 
@@ -6711,115 +7455,218 @@ REGIONAL FYSISK PLAN HALLAND                                       51
 
 <!-- sida 183 -->
 
-medelstor tillväxt i invånarantal och orten är Tillväxten väntas fortsätta, särskilt i delarna
-starkt knuten till Halmstads arbetsmarknad. av stråket som ligger nära den regionala
-tillväxtmotorn Halmstad. Det kommer inne­
-I ett 2050­perspektiv fyller stråket en viktig bära ökad arbets­ och gymnasie pendling
-roll för Halmstad kommuns inlandsorter där mellan orterna. I ett 2050­perspektiv är
-Simlångsdalen som lokalt centrum blir en det viktigt att verka för god farbarhet och
-samlingsnod för service och kollektivtrafik. restids sänkande åtgärder i stråken med
-Det blir viktigt att verka för god farbarhet öst­västliga riktningar.
-och restidssänkande åtgärder i stråken med
-öst­västliga riktningar.        Halmstad­Falkenberg östra
-Stråket binder samman Falkenberg och
-Halmstad­Hyltebruk­norra Småland Halmstad. Det går längs med den gamla
-I stråket ingår Halmstad Nässjö Järnvägar motorvägen öster om Västkustbanan och
-(HNJ­banan), väg 26, hamnarna i Halmstad motorvägen E6.
-och Varberg samt flygplatsen Halmstad
-City Airport. Stråket förbinder södra Halland Stråket har en viktig funktion i att binda
-med Gislaved, Värnamo, Jönköping, E4 och samman tätorterna öster om E6 med var­
-i förlängning norra Småland och vidare mot andra och går genom tre lokala centrum:
-Stockholm. Den långväga kopplingen är Getinge, Kvibille och Slöinge. Dessa är även
-framför allt viktig för godstransporter. utpekade som kollektivtrafiknoder. Pendling­
-en är relativt stark i stråket och från orterna
-Stråket förbinder Halmstad med Hyltebruk på Halmstads sida kommungränsen domi­
-och utgör Hyltebruks koppling till Västkust­ nerar pendlingen mot kommunhuvudorten.
-banan. Väg 26 är en viktig förbindelse inte Det finns även ett par större arbetsplatser i
-minst för boende i Hylte kommun. stråket idag som genererar pendling.
+medelstor tillväxt i invånarantal och orten är
+starkt knuten till Halmstads arbetsmarknad.
 
-Trafikmängden är som störst mellan Orterna har haft en relativt stark tillväxt
-Hyltebruk och Halmstad och utgörs även av både gällande befolkning och antalet
-många pendlare. Mellan Hylte och Gislaved arbetstillfällen. Flera orter pekas ut i kom­
-är det ett betydande arbetskraftsutbyte munala översiktsplaner och det finns mycket
-men norr om Gislaved är trafikmängderna planlagd mark för såväl bostads­ såväl som
-betydligt mindre. I stråket på den halländska verksamhetsutveckling. Särskilt mycket
-sidan ligger orterna Halmstad, Hyltebruk, verksamhetsmark finns planerad i Getinge
-Kinnared, Oskarström, Torup och Åled. med närhet till påfart till E6.
+I ett 2050­perspektiv fyller stråket en viktig
+roll för Halmstad kommuns inlandsorter där
+Simlångsdalen som lokalt centrum blir en
+samlingsnod för service och kollektivtrafik.
+Det blir viktigt att verka för god farbarhet
+och restidssänkande åtgärder i stråken med
+öst­västliga riktningar.
+
+Halmstad­Hyltebruk­norra Småland
+I stråket ingår Halmstad Nässjö Järnvägar
+(HNJ­banan), väg 26, hamnarna i Halmstad
+och Varberg samt flygplatsen Halmstad
+City Airport. Stråket förbinder södra Halland
+med Gislaved, Värnamo, Jönköping, E4 och
+i förlängning norra Småland och vidare mot
+Stockholm. Den långväga kopplingen är
+framför allt viktig för godstransporter.
+
+Stråket förbinder Halmstad med Hyltebruk
+och utgör Hyltebruks koppling till Västkust­
+banan. Väg 26 är en viktig förbindelse inte
+minst för boende i Hylte kommun.
+
+Trafikmängden är som störst mellan
+Hyltebruk och Halmstad och utgörs även av
+många pendlare. Mellan Hylte och Gislaved
+är det ett betydande arbetskraftsutbyte
+men norr om Gislaved är trafikmängderna
+betydligt mindre. I stråket på den halländska
+sidan ligger orterna Halmstad, Hyltebruk,
+Kinnared, Oskarström, Torup och Åled.
 Kinnared, Landeryd, Oskarström, Sennan
-och Torup ligger längs med HNJ­banan och Pendlingen i stråket förmodas därmed öka.
-har station/hållplats.          I ett 2050­perspektiv är det viktigt att verka
-för god farbarhet och restidssänkande
-Orterna Torup och Åled benämns som lokala åtgärder i stråket.
+och Torup ligger längs med HNJ­banan och
+har station/hållplats.
+
+Orterna Torup och Åled benämns som lokala
 centrum, medan Oskarström räknas som ett
-större lokalt centrum. Hyltebruk är en del­ Stråket har ytterligare en funktion i att
-regional kärna. Alla de tre orterna i stråket är agera som omledningsväg för motorvägen
-även utpekade som kollektivtrafiknoder. E6. Redundansen är en viktig beredskaps­
-fråga och stråket möjliggör att gods­ och
-I ett 2050­perspektiv pekas flera orter ut i persontransporter samt transporter med
-kommunala översiktsplaner och här finns utryckningsfordon i nord­sydlig riktning kan
-mycket planlagd mark för både bostads­ fortgå vid större händelser då E6 behöver
-såväl som verksamhetsutveckling till 2050. stängas av.
+större lokalt centrum. Hyltebruk är en del­
+regional kärna. Alla de tre orterna i stråket är
+även utpekade som kollektivtrafiknoder.
+
+I ett 2050­perspektiv pekas flera orter ut i
+kommunala översiktsplaner och här finns
+mycket planlagd mark för både bostads­
+såväl som verksamhetsutveckling till 2050.
 Samtliga orter som pekas ut som lokala
 centrum i stråket har växt historiskt sett till
 både befolkning och arbetstillfällen.
 
-52                                                  REGIONAL FYSISK PLAN HALLAND
+52
+
+Tillväxten väntas fortsätta, särskilt i delarna
+av stråket som ligger nära den regionala
+tillväxtmotorn Halmstad. Det kommer inne­
+bära ökad arbets­ och gymnasie pendling
+mellan orterna. I ett 2050­perspektiv är
+det viktigt att verka för god farbarhet och
+restids sänkande åtgärder i stråken med
+öst­västliga riktningar.
+
+Halmstad­Falkenberg östra
+Stråket binder samman Falkenberg och
+Halmstad. Det går längs med den gamla
+motorvägen öster om Västkustbanan och
+motorvägen E6.
+
+Stråket har en viktig funktion i att binda
+samman tätorterna öster om E6 med var­
+andra och går genom tre lokala centrum:
+Getinge, Kvibille och Slöinge. Dessa är även
+utpekade som kollektivtrafiknoder. Pendling­
+en är relativt stark i stråket och från orterna
+på Halmstads sida kommungränsen domi­
+nerar pendlingen mot kommunhuvudorten.
+Det finns även ett par större arbetsplatser i
+stråket idag som genererar pendling.
+
+Orterna har haft en relativt stark tillväxt
+både gällande befolkning och antalet
+arbetstillfällen. Flera orter pekas ut i kom­
+munala översiktsplaner och det finns mycket
+planlagd mark för såväl bostads­ såväl som
+verksamhetsutveckling. Särskilt mycket
+verksamhetsmark finns planerad i Getinge
+med närhet till påfart till E6.
+
+Pendlingen i stråket förmodas därmed öka.
+I ett 2050­perspektiv är det viktigt att verka
+för god farbarhet och restidssänkande
+åtgärder i stråket.
+
+Stråket har ytterligare en funktion i att
+agera som omledningsväg för motorvägen
+E6. Redundansen är en viktig beredskaps­
+fråga och stråket möjliggör att gods­ och
+persontransporter samt transporter med
+utryckningsfordon i nord­sydlig riktning kan
+fortgå vid större händelser då E6 behöver
+stängas av.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 184 -->
 
-Halmstad­Falkenberg västra      Stråket löper mellan kommunhuvudorterna
-Halmstad­Falkenberg västra är ett av kollek­ Falkenberg och Varberg. Tvååker som är ett
-tivtrafikstråken som binder samman Falken­ större lokalt centrum ligger i stråket. Långås,
-berg och Halmstad. Haverdal är tillsammans ett lokalt centrum, ligger strax utanför
-med grannorten Harplinge utpekade som stråket. Likt övriga orter längs Hallands
-lokala centrum i stråket, där Haverdal även kust har orterna historiskt haft hög tillväxt.
-är utpekat som kollektivtrafiknod. Det västra Tvååker pekas ut som serviceort i Varbergs
-stråket går även genom orterna Ugglarp och kommuns översiktsplan och planeras växa
-Steninge.                       ytterligare med bostadsområden och
-verksamhetsmark.
-I det västra stråket är tillväxten i orterna
-mycket stark och särskilt mycket bostads­ Stråket är klassat som ett kollektivtrafik­
-bebyggelse planeras i Haverdal enligt stråk med Tvååker som en kollektivtrafiknod.
-kommunens översiktsplan. Detta skapar Pendlingen förmodas öka till år 2050 på
-högt tryck, både genom ökad pendling till grund av tillväxten i stråkets orter.
-centralorterna och genom ökat ianspråk­
-tagande av mark i stråket.      Stråket har ytterligare en funktion i att agera
-som omledningsväg för E6:an. Redundansen
-Falkenberg­Ullared­Västra Götaland är en viktig beredskapsfråga och stråket
-I stråket mellan Falkenberg och Ullared möjliggör att gods­ och persontransporter
-ingår väg 154 och Falkenbergs hamn och samt transporter med utryckningsfordon
-i förlängningen Varbergs hamn. I stråket i nord­sydlig riktning kan fortgå vid större
-ligger Falkenberg som är utpekat som en händelser då E6 behöver stängas av.
-regional kärna, och Ullared som är ett större
-lokalt centrum.                 Varberg­Ullared­Småland
-I stråket mellan Varberg och Värnamo ingår
-I Ullared ligger varuhuset Gekås som är väg 153 och Varbergs hamn. Stråket är den
-Hallands största besöksmål. Stråket är mest direkta förbindelsen mellan Varberg
-viktigt för både person­ och godstransporter och stora delar av västra Småland där
-och vägen är klassad som funktionellt prio­ Värnamo är en viktig målpunkt. Det är en
-riterat vägnät. Stråket är den mest direkta viktig förbindelse för pendlare och de många
-förbindelsen mellan Falkenberg och Ullared. godstransporterna från västra Småland som
-Stråket mellan Falkenberg och Ullared har en ska till industrierna och hamnen i Varberg.
-stark pendling. På sträckan går både person­
-och godstransporter som kommer söderifrån På sträckan Varberg–Ullared samsas god­
-med Ullared som målpunkt.       stransporter med många persontransporter.
-Det handlar både om besökare som ska till
-I ett 2050­perspektiv finns potential att fort­ och från Ullared för att handla, och pendlare.
-sätta att utveckla kopplingen mellan Falken­ Handelsområdet kring Gekås är Hallands
-berg och Ullared. I kommunens översiktsplan största besöksmål. Den busstrafik som finns i
-från 2014 föreslås vidare utveckling av stråket idag används främst av arbetspend­
-Ullared, både genom ny verksamhetsmark lare. Kollektivtrafiken är utformad för att
-och fler bostäder.              passa varuhuspersonalens behov.
+Halmstad­Falkenberg västra
+Halmstad­Falkenberg västra är ett av kollek­
+tivtrafikstråken som binder samman Falken­
+berg och Halmstad. Haverdal är tillsammans
+med grannorten Harplinge utpekade som
+lokala centrum i stråket, där Haverdal även
+är utpekat som kollektivtrafiknod. Det västra
+stråket går även genom orterna Ugglarp och
+Steninge.
 
-Falkenberg­Tvååker­Varberg      Varberg­Borås
-Stråket går längs med kusten och präglas I stråket mellan Varberg och Borås ingår
-av arbetspendling, framför allt mellan de Viskadalsbanan, väg 41 och tvärförbindel­
-två kommunhuvudorterna, men även från sen väg 850 samt Varbergs hamn. Stråket
-Tvååker med tyngdpunkt mot Varberg. förbinder de två stora orterna och har stor
+I det västra stråket är tillväxten i orterna
+mycket stark och särskilt mycket bostads­
+bebyggelse planeras i Haverdal enligt
+kommunens översiktsplan. Detta skapar
+högt tryck, både genom ökad pendling till
+centralorterna och genom ökat ianspråk­
+tagande av mark i stråket.
+
+Falkenberg­Ullared­Västra Götaland
+I stråket mellan Falkenberg och Ullared
+ingår väg 154 och Falkenbergs hamn och
+i förlängningen Varbergs hamn. I stråket
+ligger Falkenberg som är utpekat som en
+regional kärna, och Ullared som är ett större
+lokalt centrum.
+
+I Ullared ligger varuhuset Gekås som är
+Hallands största besöksmål. Stråket är
+viktigt för både person­ och godstransporter
+och vägen är klassad som funktionellt prio­
+riterat vägnät. Stråket är den mest direkta
+förbindelsen mellan Falkenberg och Ullared.
+Stråket mellan Falkenberg och Ullared har en
+stark pendling. På sträckan går både person­
+och godstransporter som kommer söderifrån
+med Ullared som målpunkt.
+
+I ett 2050­perspektiv finns potential att fort­
+sätta att utveckla kopplingen mellan Falken­
+berg och Ullared. I kommunens översiktsplan
+från 2014 föreslås vidare utveckling av
+Ullared, både genom ny verksamhetsmark
+och fler bostäder.
+
+Falkenberg­Tvååker­Varberg
+Stråket går längs med kusten och präglas
+av arbetspendling, framför allt mellan de
+två kommunhuvudorterna, men även från
+Tvååker med tyngdpunkt mot Varberg.
+
+REGIONAL FYSISK PLAN HALLAND
+
+Stråket löper mellan kommunhuvudorterna
+Falkenberg och Varberg. Tvååker som är ett
+större lokalt centrum ligger i stråket. Långås,
+ett lokalt centrum, ligger strax utanför
+stråket. Likt övriga orter längs Hallands
+kust har orterna historiskt haft hög tillväxt.
+Tvååker pekas ut som serviceort i Varbergs
+kommuns översiktsplan och planeras växa
+ytterligare med bostadsområden och
+verksamhetsmark.
+
+Stråket är klassat som ett kollektivtrafik­
+stråk med Tvååker som en kollektivtrafiknod.
+Pendlingen förmodas öka till år 2050 på
+grund av tillväxten i stråkets orter.
+
+Stråket har ytterligare en funktion i att agera
+som omledningsväg för E6:an. Redundansen
+är en viktig beredskapsfråga och stråket
+möjliggör att gods­ och persontransporter
+samt transporter med utryckningsfordon
+i nord­sydlig riktning kan fortgå vid större
+händelser då E6 behöver stängas av.
+
+Varberg­Ullared­Småland
+I stråket mellan Varberg och Värnamo ingår
+väg 153 och Varbergs hamn. Stråket är den
+mest direkta förbindelsen mellan Varberg
+och stora delar av västra Småland där
+Värnamo är en viktig målpunkt. Det är en
+viktig förbindelse för pendlare och de många
+godstransporterna från västra Småland som
+ska till industrierna och hamnen i Varberg.
+
+På sträckan Varberg–Ullared samsas god­
+stransporter med många persontransporter.
+Det handlar både om besökare som ska till
+och från Ullared för att handla, och pendlare.
+Handelsområdet kring Gekås är Hallands
+största besöksmål. Den busstrafik som finns i
+stråket idag används främst av arbetspend­
+lare. Kollektivtrafiken är utformad för att
+passa varuhuspersonalens behov.
+
+Varberg­Borås
+I stråket mellan Varberg och Borås ingår
+Viskadalsbanan, väg 41 och tvärförbindel­
+sen väg 850 samt Varbergs hamn. Stråket
+förbinder de två stora orterna och har stor
 arbetspendling, dock främst i ändarna av
 stråket nära de två huvudorterna.
 
-REGIONAL FYSISK PLAN HALLAND                                       53
+53
 
 <!-- sida 185 -->
 
@@ -6831,128 +7678,206 @@ trafiken. I stråket ligger även två lokala
 centrum: Derome och Veddige som växt sett
 till både antalet invånare och arbetstillfällen.
 De båda pekas ut som kollektivtrafiknoder.
-samt transporter med utryckningsfordon
-Trafikmängderna är stora i stråkets samtliga i nord­sydlig riktning kan fortgå vid större
-delar men tyngdpunkten finns i stråkets händelser då E6 behöver stängas av.
-båda ändar. De största tätorterna i stråket
-är Kinna, Viskafors och Veddige. Stråket Fjärås­ Kungsbacka­(Göteborg)
-har mycket persontrafik på såväl korta I stråket, som utgörs av Fjärås, Kungsbacka
-som långa sträckor. Flertalet industrier i, och i förlängningen Göteborg, förväntas
-eller nära stråket, leder också till många hög tillväxt fram till år 2050. Främst i
-godstransporter mellan de inre delarna av Kungsbacka, som är en särskilt prioriterad
-Västra Götaland och Hallandskusten. utvecklingsort i kommunens översiktsplan,
-men även i Fjärås som pekas ut som utveck­
-Varberg­Kungsbacka­(Göteborg)   lingsort och är en relativt stor tätort.
-Stråket utgörs av Varbergsvägen och för­
-binder Varberg med Kungsbacka. I stråket Kungsbacka är en regional kärna och Fjärås
-ligger Varberg som är en regional tillväxt­ är ett lokalt centrum som också pekas ut som
-motor, Kungsbacka som är en regional kollektivtrafiknod. Pendlingen till Kungs­
-kärna, Åsa och Frillesås som är större lokala backa och vidare in mot Göteborg motiverar
-centrum och slutligen Väröbacka som är ett att relationen Kungsbacka­Fjärås ska utgöra
-lokalt centrum. Bua ligger strax utanför men ett kollektivtrafikstråk.
-är uppkopplad mot stråket.
-Onsala­Kungsbacka­(Göteborg)
-Pendlingsflödena i detta stråk visar på att Stråket utgörs av Onsalavägen (väg 940)
-orterna främst pendlar till sin egen kommun­ och går från Onsala in till Kungsbacka och i
-huvudort snarare än över kommungränsen. förlängningen ingår även Göteborg eftersom
-I Kungsbacka fortsätter pendlingen även pendlingsströmmarna norrut är starka.
-vidare till Göteborg. Ringhals och Väröbruk Onsala är den tätort i Halland med flest antal
-är stora arbetsplatser i stråket. invånare frånsett kommunhuvudorterna och
-den räknas som ett större lokalt centrum och
-Till år 2050 planerar båda kommunerna för är en kollektivtrafiknod.
-hög tillväxt i stråket, framför allt i form av
-nya bostäder. Åsa har en järnvägsstation Det planeras inte för någon omfattande
-och är en särskilt prioriterad utvecklingsort bostadsbebyggelse i Onsala under de närms­
-i Kungsbackas översiktsplan. I Väröbacka ta åren, men redan idag finns ett stort flöde
-planeras en ny station och stor utbyggnad av av pendlare i stråket. För att kollektivtrafiken
-bostadsområden. Den nya stationen kommer ska utgöra ett bra alternativ till bilen krävs
-troligen påverka stråkets flöden och fler framkomlighetsåtgärder, vilket kan ske
-väntas pendla norrut än idag. Väröbacka, genom bland annat en utveckling av väg 940.
-Frillesås och Åsa är alla kollektivtrafiknoder.
-Vallda­Kungsbacka­(Göteborg)
-Stråket har ytterligare en funktion i att agera Stråket utgörs av både väg 158 och
-som omledningsväg för E6:an. Redundansen Sandö vägen som sammanlänkar Vallda
-är en viktig beredskapsfråga och stråket med Kungsbacka stad. I förlängning
-möjliggör att gods­ och persontransporter ingår även Göteborg i stråket eftersom
 
-54                                                  REGIONAL FYSISK PLAN HALLAND
+Trafikmängderna är stora i stråkets samtliga
+delar men tyngdpunkten finns i stråkets
+båda ändar. De största tätorterna i stråket
+är Kinna, Viskafors och Veddige. Stråket
+har mycket persontrafik på såväl korta
+som långa sträckor. Flertalet industrier i,
+eller nära stråket, leder också till många
+godstransporter mellan de inre delarna av
+Västra Götaland och Hallandskusten.
+
+Varberg­Kungsbacka­(Göteborg)
+Stråket utgörs av Varbergsvägen och för­
+binder Varberg med Kungsbacka. I stråket
+ligger Varberg som är en regional tillväxt­
+motor, Kungsbacka som är en regional
+kärna, Åsa och Frillesås som är större lokala
+centrum och slutligen Väröbacka som är ett
+lokalt centrum. Bua ligger strax utanför men
+är uppkopplad mot stråket.
+
+Pendlingsflödena i detta stråk visar på att
+orterna främst pendlar till sin egen kommun­
+huvudort snarare än över kommungränsen.
+I Kungsbacka fortsätter pendlingen även
+vidare till Göteborg. Ringhals och Väröbruk
+är stora arbetsplatser i stråket.
+
+Till år 2050 planerar båda kommunerna för
+hög tillväxt i stråket, framför allt i form av
+nya bostäder. Åsa har en järnvägsstation
+och är en särskilt prioriterad utvecklingsort
+i Kungsbackas översiktsplan. I Väröbacka
+planeras en ny station och stor utbyggnad av
+bostadsområden. Den nya stationen kommer
+troligen påverka stråkets flöden och fler
+väntas pendla norrut än idag. Väröbacka,
+Frillesås och Åsa är alla kollektivtrafiknoder.
+
+Stråket har ytterligare en funktion i att agera
+som omledningsväg för E6:an. Redundansen
+är en viktig beredskapsfråga och stråket
+möjliggör att gods­ och persontransporter
+
+54
+
+samt transporter med utryckningsfordon
+i nord­sydlig riktning kan fortgå vid större
+händelser då E6 behöver stängas av.
+
+Fjärås­ Kungsbacka­(Göteborg)
+I stråket, som utgörs av Fjärås, Kungsbacka
+och i förlängningen Göteborg, förväntas
+hög tillväxt fram till år 2050. Främst i
+Kungsbacka, som är en särskilt prioriterad
+utvecklingsort i kommunens översiktsplan,
+men även i Fjärås som pekas ut som utveck­
+lingsort och är en relativt stor tätort.
+
+Kungsbacka är en regional kärna och Fjärås
+är ett lokalt centrum som också pekas ut som
+kollektivtrafiknod. Pendlingen till Kungs­
+backa och vidare in mot Göteborg motiverar
+att relationen Kungsbacka­Fjärås ska utgöra
+ett kollektivtrafikstråk.
+
+Onsala­Kungsbacka­(Göteborg)
+Stråket utgörs av Onsalavägen (väg 940)
+och går från Onsala in till Kungsbacka och i
+förlängningen ingår även Göteborg eftersom
+pendlingsströmmarna norrut är starka.
+Onsala är den tätort i Halland med flest antal
+invånare frånsett kommunhuvudorterna och
+den räknas som ett större lokalt centrum och
+är en kollektivtrafiknod.
+
+Det planeras inte för någon omfattande
+bostadsbebyggelse i Onsala under de närms­
+ta åren, men redan idag finns ett stort flöde
+av pendlare i stråket. För att kollektivtrafiken
+ska utgöra ett bra alternativ till bilen krävs
+framkomlighetsåtgärder, vilket kan ske
+genom bland annat en utveckling av väg 940.
+
+Vallda­Kungsbacka­(Göteborg)
+Stråket utgörs av både väg 158 och
+Sandö vägen som sammanlänkar Vallda
+med Kungsbacka stad. I förlängning
+ingår även Göteborg i stråket eftersom
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 186 -->
 
-pendlingsmönstren norrut är så starka. en hög andel gymnasiependling. Rörligheten
-På den västra sidan av Onsalahalvön är och utbytet mellan orterna, kommunerna
-befolkningen och pendlingsströmmarna och regionerna är omfattande.
+pendlingsmönstren norrut är så starka.
+På den västra sidan av Onsalahalvön är
+befolkningen och pendlingsströmmarna
 däremot inte lika stora som i stråket
-Onsala­Kungsbacka.              I ett 2050­perspektiv planeras det inte för
+Onsala­Kungsbacka.
+
+Befolkningsutvecklingen i stråket har varit
+positiv och Vallda som tätort har vuxit de
+senaste åren. Därför är pendlingsström­
+marna ändå starka och stråket pekas ut
+som ett kollektivtrafikstråk med Vallda som
+kollektivtrafiknod.
+
+Kungsbacka­Särö/Kullavik­Göteborg
+Stråket utgörs av väg 158 som går mellan
+Kungsbacka­Särö/Kullavik­Göteborg och
+tillhör ett av de mest bebodda stråken i
+Halland. I stråket ligger Kungsbacka som är
+en regional kärna och Särö som är ett större
+lokalt centrum. Båda två är utpekade som
+kollektivtrafiknoder. Även Kullavik är en del
+av stråket tillsammans med övriga orter på
+andra sidan länsgränsen där stråket passe­
+rar in mot Göteborg.
+
+Tätorterna i stråket har växt kraftigt och har
+redan idag en stor pendling in mot Göteborg.
+Befolkningen i tätorterna har en stor andel
+unga av sin totala befolkning vilket bidrar till
+
+REGIONAL FYSISK PLAN HALLAND
+
+en hög andel gymnasiependling. Rörligheten
+och utbytet mellan orterna, kommunerna
+och regionerna är omfattande.
+
+I ett 2050­perspektiv planeras det inte för
 omfattande exploatering i Särö men orten
-Befolkningsutvecklingen i stråket har varit benämns som utvecklingsort i kommunens
-positiv och Vallda som tätort har vuxit de översiktsplan. Kungsbacka stad planeras
-senaste åren. Därför är pendlingsström­ däremot växa vilket förmodas bidra till
-marna ändå starka och stråket pekas ut ökad pendling i stråket. Det är viktigt att
-som ett kollektivtrafikstråk med Vallda som res möjligheterna och infrastrukturen kan
-kollektivtrafiknod.             möta behovet av effektiva transporter.
+benämns som utvecklingsort i kommunens
+översiktsplan. Kungsbacka stad planeras
+däremot växa vilket förmodas bidra till
+ökad pendling i stråket. Det är viktigt att
+res möjligheterna och infrastrukturen kan
+möta behovet av effektiva transporter.
 
-Kungsbacka­Särö/Kullavik­Göteborg Falkenberg­Hyltebruk­Småland
-Stråket utgörs av väg 158 som går mellan Stråket utgörs av väg 150 mellan Falkenberg
-Kungsbacka­Särö/Kullavik­Göteborg och och Hyltebruk och i förlängningen vidare mot
-tillhör ett av de mest bebodda stråken i Småland. Stråket är även en viktig länk för
-Halland. I stråket ligger Kungsbacka som är Hylte kommun till E6 i norrgående riktning.
-en regional kärna och Särö som är ett större I stråket färdas både person­ och godstrafik.
-lokalt centrum. Båda två är utpekade som Den långväga kopplingen är framför allt
-kollektivtrafiknoder. Även Kullavik är en del viktig för godstransporter. Befolknings­
-av stråket tillsammans med övriga orter på tillväxten i stråket är främst från Falkenberg
-andra sidan länsgränsen där stråket passe­ medan Torup och Hyltebruk har en lite lägre
-rar in mot Göteborg.            tillväxttakt.
+Falkenberg­Hyltebruk­Småland
+Stråket utgörs av väg 150 mellan Falkenberg
+och Hyltebruk och i förlängningen vidare mot
+Småland. Stråket är även en viktig länk för
+Hylte kommun till E6 i norrgående riktning.
+I stråket färdas både person­ och godstrafik.
+Den långväga kopplingen är framför allt
+viktig för godstransporter. Befolknings­
+tillväxten i stråket är främst från Falkenberg
+medan Torup och Hyltebruk har en lite lägre
+tillväxttakt.
 
-Tätorterna i stråket har växt kraftigt och har I ett 2050­perspektiv är det viktigt att verka
-redan idag en stor pendling in mot Göteborg. för god farbarhet och restids sänkande
-Befolkningen i tätorterna har en stor andel åtgärder i stråken med öst­västliga
-unga av sin totala befolkning vilket bidrar till riktningar.
+I ett 2050­perspektiv är det viktigt att verka
+för god farbarhet och restids sänkande
+åtgärder i stråken med öst­västliga
+riktningar.
 
-REGIONAL FYSISK PLAN HALLAND                                       55
+55
 
 <!-- sida 187 -->
 
-Regional tillväxtmotor          Regional kärna
+Regional tillväxtmotor
 
-Halmstad                        Falkenberg
-Halmstad är en regional tillväxtmotor, En regional kärna med funktionella samband
-Halmstad är den ort i Halland som har till både Halmstad och Varberg. Staden
-starkast tillväxt. Lokaliseringen längs Väst­ är knutpunkt för västkuststråket, inlands­
-kuststråket samt relativt centralt i Halland stråken 150 och 154 mot Hyltebruk, Ullared
-gör Halmstad till en stark tillväxtmotor som och västra Småland samt sjöförbindelser
-också är viktig i ett sydvästsvenskt perspek­ genom hamnen. Med restidsförkortningar
-tiv mellan de nationella tillväxtmotorerna och ökad kapacitet på Västkustbanan har
-Göteborg och Malmö­Lund. Orten är en Falkenberg potential att kopplas närmare
-knutpunkt för V ästkuststråket, HNJ­banan, Göteborgs arbetsmarknad.
+Halmstad
+Halmstad är en regional tillväxtmotor,
+Halmstad är den ort i Halland som har
+starkast tillväxt. Lokaliseringen längs Väst­
+kuststråket samt relativt centralt i Halland
+gör Halmstad till en stark tillväxtmotor som
+också är viktig i ett sydvästsvenskt perspek­
+tiv mellan de nationella tillväxtmotorerna
+Göteborg och Malmö­Lund. Orten är en
+knutpunkt för V ästkuststråket, HNJ­banan,
 Markaryds banan, väg 26, väg 25, väg 15 och
-sjöförbindelser genom hamnen.   Falkenberg har haft stark befolkningstillväxt
-och förväntas fortsätta växa till år 2050.
+sjöförbindelser genom hamnen.
+
 Orten förutsätts ha fortsatt hög tillväxt
-och på sikt väntas Halmstads arbetsmark­ Järnvägsstationen och Falkenbergs hamn är
-nad fortsatt stärka orterna i sitt omland. två av flera regionalt viktiga funktioner.
+och på sikt väntas Halmstads arbetsmark­
+nad fortsatt stärka orterna i sitt omland.
 Restids förkortningar och ökad kapacitet på
-Västkustbanan ger bättre in­ och utpend­ Kungsbacka
-lingsmöjligheter både norrut och söderut. En regional kärna. Kungsbacka har haft stark
-Kopplingarna i öst­västlig riktning möjliggör befolkningstillväxt och förväntas fortsätta
-för en fortsatt stark pendling till och från växa till år 2050. Kungsbacka stad är en av
-bland annat Hyltebruk.          kommunens särskilt prioriterade orter i över­
-siktsplanen från 2022. Totalt är över hälften
-Halmstad har flera regionalt och nationellt av planerade nybyggnationer i kommunen
-viktiga funktioner såsom järnvägsstation, utpekade att ske i kommunhuvudorten.
+Västkustbanan ger bättre in­ och utpend­
+lingsmöjligheter både norrut och söderut.
+Kopplingarna i öst­västlig riktning möjliggör
+för en fortsatt stark pendling till och från
+bland annat Hyltebruk.
+
+Halmstad har flera regionalt och nationellt
+viktiga funktioner såsom järnvägsstation,
 akutsjukhus, flygplats, hamn, högskola och
-luftvärnsregemente med militärhögskola. Kungsbacka är en del av Göteborgs arbets­
-Halmstad är utpekad som urban nod i TEN­T. marknad och präglas av en stark utpendling.
-En stark kapacitet och minskade restider
-Varberg                         på västkustbanan ska säkerställa god
-Varberg är en regional tillväxtmotor, framkomlighet och pendlingsmöjligheter till
-Hallands näst största ort och präglas av Göteborg i ett 2050­perspektiv. E6 och väg
-stark tillväxt. Varberg är en knutpunkt för 158 är två vägstråk som också är viktiga för
-Västkuststråket, Viskadalsbanan, väg 153, pendlingen mot Göteborg.
+luftvärnsregemente med militärhögskola.
+Halmstad är utpekad som urban nod i TEN­T.
+
+Varberg
+Varberg är en regional tillväxtmotor,
+Hallands näst största ort och präglas av
+stark tillväxt. Varberg är en knutpunkt för
+Västkuststråket, Viskadalsbanan, väg 153,
 väg 41 och sjöförbindelser genom hamnen.
-Järnvägsstationen och sjukhuset i Kungs­
-Varbergs arbetsmarknad förstoras med backa är två av flera regionalt viktiga
-tyngdpunkt mot Göteborg i och med funktioner.
+
+Varbergs arbetsmarknad förstoras med
+tyngdpunkt mot Göteborg i och med
 restidsförkortningar och ökad kapacitet
 på Västkustbanan, men även söderut mot
 Falkenberg och inåt landet mot Borås där
@@ -6965,7 +7890,50 @@ Borås högskolor. I Varbergs kommun ligger
 ett kärnkraftverk som är mycket viktigt för
 södra Sveriges elförsörjning.
 
-56                                                  REGIONAL FYSISK PLAN HALLAND
+56
+
+Regional kärna
+
+Falkenberg
+En regional kärna med funktionella samband
+till både Halmstad och Varberg. Staden
+är knutpunkt för västkuststråket, inlands­
+stråken 150 och 154 mot Hyltebruk, Ullared
+och västra Småland samt sjöförbindelser
+genom hamnen. Med restidsförkortningar
+och ökad kapacitet på Västkustbanan har
+Falkenberg potential att kopplas närmare
+Göteborgs arbetsmarknad.
+
+Falkenberg har haft stark befolkningstillväxt
+och förväntas fortsätta växa till år 2050.
+
+Järnvägsstationen och Falkenbergs hamn är
+två av flera regionalt viktiga funktioner.
+
+Kungsbacka
+En regional kärna. Kungsbacka har haft stark
+befolkningstillväxt och förväntas fortsätta
+växa till år 2050. Kungsbacka stad är en av
+kommunens särskilt prioriterade orter i över­
+siktsplanen från 2022. Totalt är över hälften
+av planerade nybyggnationer i kommunen
+utpekade att ske i kommunhuvudorten.
+
+Kungsbacka är en del av Göteborgs arbets­
+marknad och präglas av en stark utpendling.
+En stark kapacitet och minskade restider
+på västkustbanan ska säkerställa god
+framkomlighet och pendlingsmöjligheter till
+Göteborg i ett 2050­perspektiv. E6 och väg
+158 är två vägstråk som också är viktiga för
+pendlingen mot Göteborg.
+
+Järnvägsstationen och sjukhuset i Kungs­
+backa är två av flera regionalt viktiga
+funktioner.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 188 -->
 
@@ -7015,144 +7983,296 @@ REGIONAL FYSISK PLAN HALLAND                                       57
 
 Större lokala centrum
 
-Anneberg                        Särö/Kullavik
-Anneberg ligger i Kungsbacka kommun Särö och Kullavik ligger i stråket Kungs­
-i Västkuststråket. Orten räknas som ett backa–Särö/Kullavik–Göteborg. Båda
-större lokalt centrum och kollektivtrafiknod. orterna tillhör de mest befolkade i Halland,
-Anneberg är en av kommunens tre särskilt frånsett kommunhuvudorterna. De räknas
-prioriterade utvecklingsorter tillsammans som större lokala centrum och är viktiga
-med Åsa och Kungsbacka stad. Anneberg är kollektivtrafiknoder. I Kungsbacka kommuns
-den av utvecklingsorterna som kommunen översiktsplan pekas Särö och Kullavik ut som
-främst pekar ut för nybyggnation. utvecklingsorter.
+Anneberg
+Anneberg ligger i Kungsbacka kommun
+i Västkuststråket. Orten räknas som ett
+större lokalt centrum och kollektivtrafiknod.
+Anneberg är en av kommunens tre särskilt
+prioriterade utvecklingsorter tillsammans
+med Åsa och Kungsbacka stad. Anneberg är
+den av utvecklingsorterna som kommunen
+främst pekar ut för nybyggnation.
 
-Frillesås                       Tvååker
+Frillesås
 Frillesås ligger i Kungsbacka kommun i
-stråket Kungsbacka­Åsa med förlängning Tvååker ligger i Varbergs kommun och
-till Väröbacka i Varbergs kommun. Frillesås är del av kollektivtrafikstråket Falken­
-räknas som större lokalt centrum och berg­Varberg. Orten räknas som ett större
-kollektiv trafiknod. I översiktsplanen pekar lokalt centrum och kollektivtrafiknod. I
-kommunen ut orten som en utvecklingsort. översiktsplanen pekar kommunen ut Tvååker
-som en serviceort med flera planerade
-Mellbystrand/Skummeslövsstrand  områden för både bostadsutveckling och
-Mellbystrand och Skummeslövstrand ligger verksamhetsutveckling.
+stråket Kungsbacka­Åsa med förlängning
+till Väröbacka i Varbergs kommun. Frillesås
+räknas som större lokalt centrum och
+kollektiv trafiknod. I översiktsplanen pekar
+kommunen ut orten som en utvecklingsort.
+
+Mellbystrand/Skummeslövsstrand
+Mellbystrand och Skummeslövstrand ligger
 i Laholms kommun. De två tätorterna som
-växt ihop utgör ett större lokalt centrum Ullared
-och räknas som kollektivtrafiknod. I över­ Ullared är beläget i Falkenbergs kommun
-siktsplan pekar kommunen ut Mellbystrand, och tillhör kollektivtrafikstråket Falkenberg­
-Skummeslövsstrand samt Skottorp som Ullared. Orten räknas som större lokalt
-Serviceorten Kusten.            centrum och kollektivtrafiknod. I den
-kommunala översiktsplanen föreslås Ullared
-Oskarström                      utvecklas vidare med både ny verksamhets­
-Oskarström ligger i Halmstads kommun mark och fler bostäder genom förtätning
-och är del av kollektivtrafikstråket Hylte­ av den blandade bebyggelsen. Satsningar i
-bruk­Halmstad. Orten räknas som ett större stråken runt Ullared och snabb kollektivtrafik
-lokalt centrum. Halmstads kommun pekar till Falkenberg och Varberg prioriteras högt.
+växt ihop utgör ett större lokalt centrum
+och räknas som kollektivtrafiknod. I över­
+siktsplan pekar kommunen ut Mellbystrand,
+Skummeslövsstrand samt Skottorp som
+Serviceorten Kusten.
+
+Oskarström
+Oskarström ligger i Halmstads kommun
+och är del av kollektivtrafikstråket Hylte­
+bruk­Halmstad. Orten räknas som ett större
+lokalt centrum. Halmstads kommun pekar
 i översiktsplanen ut Oskarström som ett
-servicesamhälle med kommunikationsnod. Vallda
-Flera bostadsområden planeras tillsammans Vallda ligger i Kungsbacka kommun i
-med ett verksamhetsområde längs väg 26. kollektiv trafikstråket Vallda­Kungsbacka där
-Orten förväntas därmed växa till år 2050. pendlingen går till och från Göteborg. Vallda
-räknas som ett större lokalt centrum och
-Onsala                          kollektivtrafiknod. I översiktsplanen pekar
-Onsala ligger i Kungsbacka kommun i stråket kommunen ut orten som en utvecklingsort.
+servicesamhälle med kommunikationsnod.
+Flera bostadsområden planeras tillsammans
+med ett verksamhetsområde längs väg 26.
+Orten förväntas därmed växa till år 2050.
+
+Onsala
+Onsala ligger i Kungsbacka kommun i stråket
 Onsala­Kungsbacka som i förlängningen
-också innefattar Göteborg. Onsala är den Åsa
-tätort i Halland med flest antal invånare från­ Åsa ligger i Kungsbacka kommun i stråket
-sett kommunhuvudorterna. Orten räknas som Kungsbacka­Åsa (Väröbacka) som i för­
-ett större lokalt centrum och är en kollektiv­ längningen också innefattar Göteborg. Åsa
-trafiknod. I översiktsplan pekar kommunen ut räknas som ett större lokalt centrum och
-Onsala som en utvecklingsort.   kollektivtrafiknod. Åsa är en av kommunens
+också innefattar Göteborg. Onsala är den
+tätort i Halland med flest antal invånare från­
+sett kommunhuvudorterna. Orten räknas som
+ett större lokalt centrum och är en kollektiv­
+trafiknod. I översiktsplan pekar kommunen ut
+Onsala som en utvecklingsort.
+
+58
+
+Särö/Kullavik
+Särö och Kullavik ligger i stråket Kungs­
+backa–Särö/Kullavik–Göteborg. Båda
+orterna tillhör de mest befolkade i Halland,
+frånsett kommunhuvudorterna. De räknas
+som större lokala centrum och är viktiga
+kollektivtrafiknoder. I Kungsbacka kommuns
+översiktsplan pekas Särö och Kullavik ut som
+utvecklingsorter.
+
+Tvååker
+
+Tvååker ligger i Varbergs kommun och
+är del av kollektivtrafikstråket Falken­
+berg­Varberg. Orten räknas som ett större
+lokalt centrum och kollektivtrafiknod. I
+översiktsplanen pekar kommunen ut Tvååker
+som en serviceort med flera planerade
+områden för både bostadsutveckling och
+verksamhetsutveckling.
+
+Ullared
+Ullared är beläget i Falkenbergs kommun
+och tillhör kollektivtrafikstråket Falkenberg­
+Ullared. Orten räknas som större lokalt
+centrum och kollektivtrafiknod. I den
+kommunala översiktsplanen föreslås Ullared
+utvecklas vidare med både ny verksamhets­
+mark och fler bostäder genom förtätning
+av den blandade bebyggelsen. Satsningar i
+stråken runt Ullared och snabb kollektivtrafik
+till Falkenberg och Varberg prioriteras högt.
+
+Vallda
+Vallda ligger i Kungsbacka kommun i
+kollektiv trafikstråket Vallda­Kungsbacka där
+pendlingen går till och från Göteborg. Vallda
+räknas som ett större lokalt centrum och
+kollektivtrafiknod. I översiktsplanen pekar
+kommunen ut orten som en utvecklingsort.
+
+Åsa
+Åsa ligger i Kungsbacka kommun i stråket
+Kungsbacka­Åsa (Väröbacka) som i för­
+längningen också innefattar Göteborg. Åsa
+räknas som ett större lokalt centrum och
+kollektivtrafiknod. Åsa är en av kommunens
 tre särskilt prioriterade utvecklingsorter i
 översiktsplanen, där nybyggnation främst
 kommer ske i kommunen.
 
-58                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 190 -->
 
 Lokala centrum
 
-Bua                             Haverdal
-Bua ligger i Varbergs kommun i nära anslut­ Haverdal ligger i Halmstads kommun i stråket
-ning till stråket Kungsbacka­Varberg. Orten Halmstad­Falkenberg väst. Orten räknas som
-räknas som ett lokalt centrum och kollektiv­ ett lokalt centrum och kollektivtrafiknod. I
-trafiknod. I översiktsplanen pekar kommunen översiktsplan pekar kommunen ut Haverdal
-ut Bua som serviceort. Utanför Bua ligger som servicesamhälle med bostadsbebyggel­
-Ringhals kärnkraftverk som är en av Hallands se som planeras i två utbyggnadsområden.
+Bua
+Bua ligger i Varbergs kommun i nära anslut­
+ning till stråket Kungsbacka­Varberg. Orten
+räknas som ett lokalt centrum och kollektiv­
+trafiknod. I översiktsplanen pekar kommunen
+ut Bua som serviceort. Utanför Bua ligger
+Ringhals kärnkraftverk som är en av Hallands
 största industrier.
-Kinnared
-Derome                          Kinnared ligger i Hylte kommun. Orten räknas
-Derome (Åsby tätort) ligger i Varbergs som lokalt centrum och kollektivtrafiknod. I
-kommun i stråket Varberg­Borås. Derome översiktsplan pekar kommunen ut Kinnared
-räknas som lokalt centrum och kollektiv­ som en nod med bytesplats.
-trafiknod. Varbergs kommun pekar inte ut
-orten som en serviceort och planerar ingen Knäred
-omfattande bebyggelseutveckling. Knäred ligger i Laholms kommun i stråket
-Halmstad­Hässleholm. Orten räknas som ett
-Fjärås kyrkby                   lokalt centrum samt kollektivtrafiknod och
-Fjärås kyrkby ligger i Kungsbacka kommun trafikeras av gods­ och omledningstrafik. I
-i stråket Kungsbacka­Fjärås som också översiktsplanen pekar kommunen ut Knäred
-innefattar Göteborg i förlängningen. Fjärås som serviceort med planerad järnvägsstation
-räknas som ett lokalt centrum och kollektiv­ samt bostads­ och verksamhetsutveckling.
-trafiknod. I översiktsplan pekar kommunen ut
-Frillesås som en utvecklingsort. Kungsäter
-Kungsäter ligger i Varbergs kommun. Orten
-Getinge                         räknas som ett lokalt centrum. I översiktsplan
-Getinge ligger i Halmstads kommun och pekas Kungsäter ut som serviceort.
-är en del av kollektivtrafikstråket Falken­
-berg­Halmstad östra. Orten räknas som ett Kvibille
-lokalt centrum och kollektivtrafiknod. I över­ Kvibille ligger i Halmstads kommun i stråket
-siktsplan pekar kommunen ut Getinge som Halmstad­Falkenberg öst. Orten räknas som
-servicesamhälle samt kommunikationsnod. ett lokalt centrum och kollektivtrafiknod. I
-I orten planeras för ny bostads­ såväl som översiktsplanen pekar kommunen ut Kvibille
-verksamhetsbebyggelse.          som boendeort med flera nya bostads­
-områden samt ett nytt verksamhetsområde.
-Glommen
-Glommen ligger i Falkenbergs kommun. Orten Långås
-räknas som lokalt centrum. I k ommunens Långås ligger i Falkenbergs kommun. Orten
-översiktsplan pekas Glommen ut som räknas som lokalt centrum. I kommunens
-serviceort.                     översiktsplan pekas Långås ut som nod.
 
-Harplinge                       Rolfstorp
-Harplinge ligger i Halmstads kommun Rolfstorp ligger i Varbergs kommun i stråket
-i s tråket Halmstad­Falkenberg väst. Varberg­Ullared. Orten räknas som ett
-Orten räknas som ett lokalt centrum och lokalt centrum och kollektivtrafiknod. I
-är sammanlänkat med Haverdal som är översiktsplan och fördjupad översiktsplan
-kollektiv trafiknod. I översiktsplanen pekar pekar kommunen ut Rolfstorp som serviceort
-kommunen ut Harplinge som servicesamhälle med nya verksamhets­ och bostadsområden
-där v erksamhetsområde samt flera bostads­ planerade till år 2040.
+Derome
+Derome (Åsby tätort) ligger i Varbergs
+kommun i stråket Varberg­Borås. Derome
+räknas som lokalt centrum och kollektiv­
+trafiknod. Varbergs kommun pekar inte ut
+orten som en serviceort och planerar ingen
+omfattande bebyggelseutveckling.
+
+Fjärås kyrkby
+Fjärås kyrkby ligger i Kungsbacka kommun
+i stråket Kungsbacka­Fjärås som också
+innefattar Göteborg i förlängningen. Fjärås
+räknas som ett lokalt centrum och kollektiv­
+trafiknod. I översiktsplan pekar kommunen ut
+Frillesås som en utvecklingsort.
+
+Getinge
+Getinge ligger i Halmstads kommun och
+är en del av kollektivtrafikstråket Falken­
+berg­Halmstad östra. Orten räknas som ett
+lokalt centrum och kollektivtrafiknod. I över­
+siktsplan pekar kommunen ut Getinge som
+servicesamhälle samt kommunikationsnod.
+I orten planeras för ny bostads­ såväl som
+verksamhetsbebyggelse.
+
+Glommen
+Glommen ligger i Falkenbergs kommun. Orten
+räknas som lokalt centrum. I k ommunens
+översiktsplan pekas Glommen ut som
+serviceort.
+
+Harplinge
+Harplinge ligger i Halmstads kommun
+i s tråket Halmstad­Falkenberg väst.
+Orten räknas som ett lokalt centrum och
+är sammanlänkat med Haverdal som är
+kollektiv trafiknod. I översiktsplanen pekar
+kommunen ut Harplinge som servicesamhälle
+där v erksamhetsområde samt flera bostads­
 områden planeras till år 2050.
 
-REGIONAL FYSISK PLAN HALLAND                                       59
+REGIONAL FYSISK PLAN HALLAND
+
+Haverdal
+Haverdal ligger i Halmstads kommun i stråket
+Halmstad­Falkenberg väst. Orten räknas som
+ett lokalt centrum och kollektivtrafiknod. I
+översiktsplan pekar kommunen ut Haverdal
+som servicesamhälle med bostadsbebyggel­
+se som planeras i två utbyggnadsområden.
+
+Kinnared
+Kinnared ligger i Hylte kommun. Orten räknas
+som lokalt centrum och kollektivtrafiknod. I
+översiktsplan pekar kommunen ut Kinnared
+som en nod med bytesplats.
+
+Knäred
+Knäred ligger i Laholms kommun i stråket
+Halmstad­Hässleholm. Orten räknas som ett
+lokalt centrum samt kollektivtrafiknod och
+trafikeras av gods­ och omledningstrafik. I
+översiktsplanen pekar kommunen ut Knäred
+som serviceort med planerad järnvägsstation
+samt bostads­ och verksamhetsutveckling.
+
+Kungsäter
+Kungsäter ligger i Varbergs kommun. Orten
+räknas som ett lokalt centrum. I översiktsplan
+pekas Kungsäter ut som serviceort.
+
+Kvibille
+Kvibille ligger i Halmstads kommun i stråket
+Halmstad­Falkenberg öst. Orten räknas som
+ett lokalt centrum och kollektivtrafiknod. I
+översiktsplanen pekar kommunen ut Kvibille
+som boendeort med flera nya bostads­
+områden samt ett nytt verksamhetsområde.
+
+Långås
+Långås ligger i Falkenbergs kommun. Orten
+räknas som lokalt centrum. I kommunens
+översiktsplan pekas Långås ut som nod.
+
+Rolfstorp
+Rolfstorp ligger i Varbergs kommun i stråket
+Varberg­Ullared. Orten räknas som ett
+lokalt centrum och kollektivtrafiknod. I
+översiktsplan och fördjupad översiktsplan
+pekar kommunen ut Rolfstorp som serviceort
+med nya verksamhets­ och bostadsområden
+planerade till år 2040.
+
+59
 
 <!-- sida 191 -->
 
-Simlångsdalen                   ett lokalt centrum och kollektivtrafiknod. I
-Simlångsdalen ligger i Halmstads kommun översiktsplan pekar kommunen ut orten som
-och utgör ena änden av stråket Halm­ serviceort.
+Simlångsdalen
+Simlångsdalen ligger i Halmstads kommun
+och utgör ena änden av stråket Halm­
 stad­Simlångsdalen. Orten räknas som
-ett lokalt centrum och kollektivtrafiknod. Torup
-I översiktsplanen pekar kommunen ut Torup ligger i Hylte kommun i stråket Halm­
-Simlångsdalen som ett servicesamhälle. Ett stad­Hyltebruk. Orten räknas som ett lokalt
-verksamhetsområde samt flera bostads­ centrum och kollektivtrafiknod. I översikts­
-områden planeras till år 2050.  plan pekar kommunen ut Torup som nod med
-resecentrum och flera områden för bostads­
-Skällinge                       utveckling pekas ut.
-Skällinge ligger i Varbergs kommun. Orten
-räknas som lokalt centrum och är sam­ Trönninge
-manlänkad med Rolfstorp som är kollektiv­ Trönninge ligger i Halmstads kommun i
-trafiknod. I översiktsplan och fördjupad stråket Halmstad­Laholm. Orten räknas som
-översiktsplan pekar kommunen ut Skällinge ett lokalt centrum och kollektivtrafiknod. I
-som en serviceort och planerar för nya översiktsplan pekar kommunen ut Trönninge
-verksamhets­ och bostadsområden. som servicesamhälle med omfattande
-bostadsbebyggelse som planeras tillkomma.
-Slöinge
-Slöinge ligger i Falkenbergs kommun i stråket Unnaryd
-Halmstad­Falkenberg öst. Orten räknas som Unnaryd ligger i Hylte kommun. Orten räknas
+ett lokalt centrum och kollektivtrafiknod.
+I översiktsplanen pekar kommunen ut
+Simlångsdalen som ett servicesamhälle. Ett
+verksamhetsområde samt flera bostads­
+områden planeras till år 2050.
 
-60                                                  REGIONAL FYSISK PLAN HALLAND
+Skällinge
+Skällinge ligger i Varbergs kommun. Orten
+räknas som lokalt centrum och är sam­
+manlänkad med Rolfstorp som är kollektiv­
+trafiknod. I översiktsplan och fördjupad
+översiktsplan pekar kommunen ut Skällinge
+som en serviceort och planerar för nya
+verksamhets­ och bostadsområden.
+
+Slöinge
+Slöinge ligger i Falkenbergs kommun i stråket
+Halmstad­Falkenberg öst. Orten räknas som
+
+60
+
+ett lokalt centrum och kollektivtrafiknod. I
+översiktsplan pekar kommunen ut orten som
+serviceort.
+
+Torup
+Torup ligger i Hylte kommun i stråket Halm­
+stad­Hyltebruk. Orten räknas som ett lokalt
+centrum och kollektivtrafiknod. I översikts­
+plan pekar kommunen ut Torup som nod med
+resecentrum och flera områden för bostads­
+utveckling pekas ut.
+
+Trönninge
+Trönninge ligger i Halmstads kommun i
+stråket Halmstad­Laholm. Orten räknas som
+ett lokalt centrum och kollektivtrafiknod. I
+översiktsplan pekar kommunen ut Trönninge
+som servicesamhälle med omfattande
+bostadsbebyggelse som planeras tillkomma.
+
+Unnaryd
+Unnaryd ligger i Hylte kommun. Orten räknas
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 192 -->
+
+som ett lokalt centrum. I översiktsplan
+beskriver kommunen Unnaryd som nod
+med bytesplats och områden för bostads­
+utveckling pekas ut.
+
+Veddige
+Veddige ligger i Varbergs kommun i kollektiv­
+trafikstråket Varberg­Borås som utgörs av
+Viskadalsbanan. Orten räknas som ett lokalt
+centrum och kollektivtrafiknod. I översikts­
+plan pekar kommunen ut Veddige som en
+serviceort med flera planerade områden för
+både bostads­ och verksamhetsutveckling.
+
+Veinge
+Veinge ligger i Laholms kommun i stråken
+Halmstad­Laholm samt Halmstad­M arkaryd­
+Hässleholm. Orten räknas som ett lokalt
+centrum samt kollektivtrafiknod och
+trafikeras av gods­ och omledningstrafik. I
+översiktsplanen pekar kommunen ut Veinge
+som serviceort. En järnvägsstation planeras
+
+REGIONAL FYSISK PLAN HALLAND
 
 tillsammans med en stark bostads­ och
 verksamhetsutveckling till år 2050.
@@ -7174,64 +8294,64 @@ Vessigebro som serviceort.
 Väröbacka
 Väröbacka ligger i Varbergs kommun i
 stråket Varberg­Väröbacka med förläng­
-som ett lokalt centrum. I översiktsplan ning mot Åsa. Orten räknas som ett lokalt
-beskriver kommunen Unnaryd som nod centrum och kollektivtrafiknod. I översikts­
-med bytesplats och områden för bostads­ planen pekar kommunen ut Väröbacka som
-utveckling pekas ut.            serviceort. En järnvägsstation planeras
+ning mot Åsa. Orten räknas som ett lokalt
+centrum och kollektivtrafiknod. I översikts­
+planen pekar kommunen ut Väröbacka som
+serviceort. En järnvägsstation planeras
 tillsammans med en stark bostads­ och
-Veddige                         verksamhetsutveckling till 2050. Utanför
-Veddige ligger i Varbergs kommun i kollektiv­ Väröbacka ligger Ringhals kärnkraftverk
-trafikstråket Varberg­Borås som utgörs av som är en av Hallands största industrier.
-Viskadalsbanan. Orten räknas som ett lokalt
-centrum och kollektivtrafiknod. I översikts­ Åled
-plan pekar kommunen ut Veddige som en Åled ligger i Halmstads kommun i stråket
-serviceort med flera planerade områden för Halmstad­Hyltebruk. Orten räknas som
-både bostads­ och verksamhetsutveckling. ett lokalt centrum och kollektivtrafiknod. I
-översiktsplanen pekar kommunen ut orten
-Veinge                          som bostadsort. Till år 2050 planeras bostads­
-Veinge ligger i Laholms kommun i stråken områden och ett stort verksamhetsområde
-Halmstad­Laholm samt Halmstad­M arkaryd­ längs väg 26 utanför Åled.
-Hässleholm. Orten räknas som ett lokalt
-centrum samt kollektivtrafiknod och Ätran
-trafikeras av gods­ och omledningstrafik. I Ätran ligger i Falkenbergs kommun. Orten
-översiktsplanen pekar kommunen ut Veinge räknas som ett lokalt centrum. I översiktsplan
-som serviceort. En järnvägsstation planeras pekar kommunen ut Ätran som serviceort.
+verksamhetsutveckling till 2050. Utanför
+Väröbacka ligger Ringhals kärnkraftverk
+som är en av Hallands största industrier.
 
-REGIONAL FYSISK PLAN HALLAND                                       61
+Åled
+Åled ligger i Halmstads kommun i stråket
+Halmstad­Hyltebruk. Orten räknas som
+ett lokalt centrum och kollektivtrafiknod. I
+översiktsplanen pekar kommunen ut orten
+som bostadsort. Till år 2050 planeras bostads­
+områden och ett stort verksamhetsområde
+längs väg 26 utanför Åled.
+
+Ätran
+Ätran ligger i Falkenbergs kommun. Orten
+räknas som ett lokalt centrum. I översiktsplan
+pekar kommunen ut Ätran som serviceort.
+
+61
 
 <!-- sida 193 -->
 
 Leder
 
-Hallandsleden                   Det finns möjlighet att utveckla leden och
-Hallandsleden går genom det halländska destinationerna längs med den för att
-inlandet och längs kusten. Hallandsleden skapa en bättre helhetsupplevelse som kan
-möter Skåneleden i söder samt Bohusleden i attrahera turister, samtidigt som det stärker
-norr. I mellersta Hallands inland delas leden rekreationsmöjligheter för hallänningar.
+Hallandsleden
+Hallandsleden går genom det halländska
+inlandet och längs kusten. Hallandsleden
+möter Skåneleden i söder samt Bohusleden i
+norr. I mellersta Hallands inland delas leden
 i en västlig och en östlig sträckning där den
 går förbi flera halländska landsbygdsorter.
-Hamnar   och farleder
+
 Förnärvarande är Hallandsleden Kust klar i
 Laholm, Halmstad och Kungsbacka. Arbete
-pågår med att färdigställa leden i Falken­ Hamnar
-berg och Varberg.               Halland har två hamnar som ingår i TEN­T
-nätverket. Tillgängligheten till och från ham­
-Det är viktigt att tillgängligheten till leden narna, framför allt med järnväg är viktig.
+pågår med att färdigställa leden i Falken­
+berg och Varberg.
+
+Det är viktigt att tillgängligheten till leden
 är god. Genom att nyttja turismen i plats­
-utvecklingen längs lederna kan besöks­ För respektive objekt:
-anledningarna till Halland stärkas. Halmstad hamn ingår i TEN­T Comprehen­
-sive Network. Hamnen ligger i Halmstad
-Kattegattleden                  tätort som också är utpekad som en
-Kattegattleden, Sveriges första nationella Urban nod i TEN­T nätverket. Hamnen är
-cykelled, som är 390 km lång sträcker sig viktig för det halländska näringslivet och
-längs kusten mellan Göteborg och Helsing­ ur ett beredskapsperspektiv. Halmstad
-borg med en stor del av sträckan genom hamn är S veriges främsta hamn när det
-Hallands kustkommuner. Merparten av leden gäller h antering av recylingmaterial som
-är bilfri och asfalterad.       metallskrot och plastfraktioner. Innehar
-också en stark position i hanteringen av
-Det är viktigt att fortsätta utveckla leden importerad metall­ och stålråvara till den
-och destinationerna längs med den för svenska industrin. Rankas också högt som
-att skapa en bra helhetsupplevelse som en av landets ledande containerhamnar.
+utvecklingen längs lederna kan besöks­
+anledningarna till Halland stärkas.
+
+Kattegattleden
+Kattegattleden, Sveriges första nationella
+cykelled, som är 390 km lång sträcker sig
+längs kusten mellan Göteborg och Helsing­
+borg med en stor del av sträckan genom
+Hallands kustkommuner. Merparten av leden
+är bilfri och asfalterad.
+
+Det är viktigt att fortsätta utveckla leden
+och destinationerna längs med den för
+att skapa en bra helhetsupplevelse som
 fortsätter attrahera turister, samtidigt
 som det stärker rekreationsmöjligheter för
 hallänningar.
@@ -7252,74 +8372,124 @@ Hylteleden
 genom Hylte och Halmstad kommun. Leden
 går på befintliga vägar, varav 10 är grusväg.
 
-62                                                  REGIONAL FYSISK PLAN HALLAND
+62
+
+Det finns möjlighet att utveckla leden och
+destinationerna längs med den för att
+skapa en bättre helhetsupplevelse som kan
+attrahera turister, samtidigt som det stärker
+rekreationsmöjligheter för hallänningar.
+
+Hamnar  och farleder
+
+Hamnar
+Halland har två hamnar som ingår i TEN­T
+nätverket. Tillgängligheten till och från ham­
+narna, framför allt med järnväg är viktig.
+
+För respektive objekt:
+Halmstad hamn ingår i TEN­T Comprehen­
+sive Network. Hamnen ligger i Halmstad
+tätort som också är utpekad som en
+Urban nod i TEN­T nätverket. Hamnen är
+viktig för det halländska näringslivet och
+ur ett beredskapsperspektiv. Halmstad
+hamn är S veriges främsta hamn när det
+gäller h antering av recylingmaterial som
+metallskrot och plastfraktioner. Innehar
+också en stark position i hanteringen av
+importerad metall­ och stålråvara till den
+svenska industrin. Rankas också högt som
+en av landets ledande containerhamnar.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 194 -->
 
-Närheten till Europavägar och järnvägs­ I Falkenberg finns en större kommersiell
-infrastruktur gör hamnen till ett transport­ hamn som löper in i Falkenbergs stad.
-och logistiknav på den svenska västkusten. Falkenbergs hamn ligger i TEN­T stråken för
-För att kunna möta framtida utmaningar järnväg och väg men hamnen pekas inte ut i
-görs stora investeringar.       nätverket. Hamnen är specialiserad på torr­
-bulk vilket innebär att, förutom omlastning,
-Varbergs hamn ingår i TEN­T Compre­ även erbjuder bulklagring och förpackning
-hensive Network. Hamnen är viktig för av lagrat bulkgods med mer. Hamnen är
-det halländska näringslivet och ur ett viktig för det halländska näringslivet och ur
-beredskapsperspektiv. Hamnen i Varberg är ett beredskapsperspektiv.
-Sveriges ledande skogshamn. Närheten till
-Europavägar och järnvägsinfrastruktur gör Farleder
-hamnen till ett transport­ och logistiknav på Stråk som anvisar var olika typer av fartyg
-den svenska västkusten. Hamnen expande­ till havs tillåts att färdas. Näringslivet i både
-ras och satsningar införs för nya järnvägs­ Halland och på nationell nivå är beroende av
-lösningar, investeringar i digitalisering och import och export som går genom Hallands
-möjliggörande för mellanlagring. hamnar och färdas längs farlederna.
+Närheten till Europavägar och järnvägs­
+infrastruktur gör hamnen till ett transport­
+och logistiknav på den svenska västkusten.
+För att kunna möta framtida utmaningar
+görs stora investeringar.
 
-REGIONAL FYSISK PLAN HALLAND                                       63
+Varbergs hamn ingår i TEN­T Compre­
+hensive Network. Hamnen är viktig för
+det halländska näringslivet och ur ett
+beredskapsperspektiv. Hamnen i Varberg är
+Sveriges ledande skogshamn. Närheten till
+Europavägar och järnvägsinfrastruktur gör
+hamnen till ett transport­ och logistiknav på
+den svenska västkusten. Hamnen expande­
+ras och satsningar införs för nya järnvägs­
+lösningar, investeringar i digitalisering och
+möjliggörande för mellanlagring.
+
+REGIONAL FYSISK PLAN HALLAND
+
+I Falkenberg finns en större kommersiell
+hamn som löper in i Falkenbergs stad.
+Falkenbergs hamn ligger i TEN­T stråken för
+järnväg och väg men hamnen pekas inte ut i
+nätverket. Hamnen är specialiserad på torr­
+bulk vilket innebär att, förutom omlastning,
+även erbjuder bulklagring och förpackning
+av lagrat bulkgods med mer. Hamnen är
+viktig för det halländska näringslivet och ur
+ett beredskapsperspektiv.
+
+Farleder
+Stråk som anvisar var olika typer av fartyg
+till havs tillåts att färdas. Näringslivet i både
+Halland och på nationell nivå är beroende av
+import och export som går genom Hallands
+hamnar och färdas längs farlederna.
+
+63
 
 <!-- sida 195 -->
 
 Järnvägsstationer
 
-Falkenberg: Järnvägsstationen i Falkenberg Sannarp: Järnvägsstationen i Sannarp
-trafikeras av regional­ och godståg. trafikeras av persontåg.
+Falkenberg: Järnvägsstationen i Falkenberg
+trafikeras av regional­ och godståg.
 
-Halmstad Centralstation ligger längs Tofta: Järnvägsstationen i Tofta trafikeras
-Västkustbanan, men här ansluter även av persontåg.
+Halmstad Centralstation ligger längs
+Västkustbanan, men här ansluter även
 HNJ­banan (Halmstad­Nässjö järnväg)
-och Markarydsbanan. Halmstad spelar en Torup: Järnvägsstationen i Torup trafikeras
-viktig roll i persontrafiken med byten mellan av person­ och godståg.
+och Markarydsbanan. Halmstad spelar en
+viktig roll i persontrafiken med byten mellan
 dessa banor. Halmstad är även en viktig nod
-för godstransporter, med bakgrund av det Veddige: Järnvägsstationen i Veddige
-järnvägsgeografiska läget. Halmstad tätort trafikeras av person­ och godståg.
+för godstransporter, med bakgrund av det
+järnvägsgeografiska läget. Halmstad tätort
 är utpekad som urban nod i TEN­T nätverket.
-Veinge: Planerad järnvägsstation.
+
 Kungsbacka: Järnvägsstationen i
-Kungsbacka trafikeras av regional­ och Väröbacka: Planerad järnvägsstation: Värö
-godståg såväl som pendeltåg mot Göteborg station.
+Kungsbacka trafikeras av regional­ och
+godståg såväl som pendeltåg mot Göteborg
 vid högtrafik.
-Åsa: Järnvägsstationen i Åsa trafikeras av
-Laholm: Järnvägsstationen i Laholm regionaloch godståg.
+
+Laholm: Järnvägsstationen i Laholm
 trafikeras av regional­ och godståg.
 
-Varberg: Järnvägsstationen i Varberg Halmstad flygplats
+Varberg: Järnvägsstationen i Varberg
 trafikeras av regional­ och godståg.
-Stationen utgör en knutpunkt för byten Halmstad flygplats utgör en viktig infra­
-mellan Västkustbanan och Viskadalsbanan. struktur för samhället. Linjetrafiken till och
-från Stockholm är viktig för näringslivet och
-Anneberg: Järnvägsstationen i Anneberg skapar tillgänglighet till huvudstaden för
-trafikeras av regionaltåg såväl som Halmstad med omnejd. Flygplatsen används
-pendeltåg mot Göteborg vid högtrafik. därtill även för andra samhällsnyttiga flyg
-för samhällsskydd och beredskap, sjukvård
-Derome: Järnvägsstationen i Derome och av Försvarsmakten.
+Stationen utgör en knutpunkt för byten
+mellan Västkustbanan och Viskadalsbanan.
+
+Anneberg: Järnvägsstationen i Anneberg
+trafikeras av regionaltåg såväl som
+pendeltåg mot Göteborg vid högtrafik.
+
+Derome: Järnvägsstationen i Derome
 trafikeras av persontåg.
-Flyget fyller en särskild funktion för tids­
-Hede: Järnvägsstationen i Hede trafikeras kritiska transporter och för att få en läges­
-av regionaltåg såväl som pendeltåg mot bild från ovan över olika situationer. I många
-Göteborg vid högtrafik.         fall gör Halmstad flygplats att insatser i
-närområdet kan genomföras mer effektivt.
-Kinnared: Järnvägsstationen i Kinnared För stora delar av Försvarsmaktens verk­
-trafikeras av persontåg.        samhet i Halmstad bedöms flygplatsen ha
-en a vgörande betydelse.
+
+Hede: Järnvägsstationen i Hede trafikeras
+av regionaltåg såväl som pendeltåg mot
+Göteborg vid högtrafik.
+
+Kinnared: Järnvägsstationen i Kinnared
+trafikeras av persontåg.
+
 Knäred: Planerad järnvägsstation.
 
 Landeryd: Järnvägsstationen i Landeryd
@@ -7328,51 +8498,91 @@ trafikeras av persontåg.
 Oskarström: Järnvägsstationen i
 Oskarström trafikeras av persontåg.
 
-64                                                  REGIONAL FYSISK PLAN HALLAND
+64
+
+Sannarp: Järnvägsstationen i Sannarp
+trafikeras av persontåg.
+
+Tofta: Järnvägsstationen i Tofta trafikeras
+av persontåg.
+
+Torup: Järnvägsstationen i Torup trafikeras
+av person­ och godståg.
+
+Veddige: Järnvägsstationen i Veddige
+trafikeras av person­ och godståg.
+
+Veinge: Planerad järnvägsstation.
+
+Väröbacka: Planerad järnvägsstation: Värö
+station.
+
+Åsa: Järnvägsstationen i Åsa trafikeras av
+regionaloch godståg.
+
+Halmstad  flygplats
+
+Halmstad flygplats utgör en viktig infra­
+struktur för samhället. Linjetrafiken till och
+från Stockholm är viktig för näringslivet och
+skapar tillgänglighet till huvudstaden för
+Halmstad med omnejd. Flygplatsen används
+därtill även för andra samhällsnyttiga flyg
+för samhällsskydd och beredskap, sjukvård
+och av Försvarsmakten.
+
+Flyget fyller en särskild funktion för tids­
+kritiska transporter och för att få en läges­
+bild från ovan över olika situationer. I många
+fall gör Halmstad flygplats att insatser i
+närområdet kan genomföras mer effektivt.
+För stora delar av Försvarsmaktens verk­
+samhet i Halmstad bedöms flygplatsen ha
+en a vgörande betydelse.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 196 -->
 
 Naturreservat
 
-I Halland finns nästan 200 naturreservat De västra delarna av Halland präglas av tät
-med olika värden som kräver särskild bebyggelse i och runt de större kärnorna
-hänsyn. Länsstyrelsen och samtliga halländ­ som innehåller urbana zoner och ytterstads­
-ska kommuner har tillsammans tagit fram en områden. Dessa präglas av hög täthet och
-digital friluftsguide för hela Halland som fylls stort utbud av olika verksamheter. Mellan
-på kontinuerligt med information om de olika och runt de större kärnorna återfinns så
-naturreservaten: Naturkartan. Utforska — kallade peri­urbana områden som är zoner
-Naturkartan. www.naturkartan.se som befinner sig i övergången mellan stad
-och landsbygd.
+I Halland finns nästan 200 naturreservat
+med olika värden som kräver särskild
+hänsyn. Länsstyrelsen och samtliga halländ­
+ska kommuner har tillsammans tagit fram en
+digital friluftsguide för hela Halland som fylls
+på kontinuerligt med information om de olika
+naturreservaten: Naturkartan. Utforska —
+Naturkartan. www.naturkartan.se
 
-Värdetrakter                    De kännetecknas av en blandning av urbana
-och rurala miljöer, där tät bebyggelse och
-Värdetrakter är landskapsavsnitt med sär­ jordbruksmark ofta existerar sida vid sida.
-skilt höga ekologiska bevarandevärden. Det Dessa områden genomgår vanligtvis snabba
-finns i allmänhet bättre förutsättningar att förändringar på grund av urbanisering
-bevara de biologiska värdena på lång sikt i och expansion av städer. Tillsammans kan
-värdekärnor som ligger inom en värdetrakt. dessa tre zoner; innerstads­, ytterstads­ och
-Dessa har identifierats och beskrivits av periurbana områden, beskrivas som delar
-Länsstyrelsen i Halland. Viktigt att poäng­ som ligger inom städernas direkta omland.
+Värdetrakter
+
+Värdetrakter är landskapsavsnitt med sär­
+skilt höga ekologiska bevarandevärden. Det
+finns i allmänhet bättre förutsättningar att
+bevara de biologiska värdena på lång sikt i
+värdekärnor som ligger inom en värdetrakt.
+Dessa har identifierats och beskrivits av
+Länsstyrelsen i Halland. Viktigt att poäng­
 tera är att inte all mark i den utritade ytan
-är särskilt värdefull, utan att den innehåller Öster om de direkta stadszonerna finns
-många värdekärnor som tillsammans bildar en glesare bebyggelse med mer små­
-ett viktigt nätverk/samband av värdefulla skaliga befolkningskoncentrationer. Där de
-naturmiljöer.                   periurbana områdena upphör börjar den
-stadsnära landsbygden. Här är bebyggelsen
-gles men befolkningstätheten förhållandevis
-Typologier                      hög för att vara utanför större orter. Detta
-område, som sträcker sig från norr till söder,
-Orterna ingår i olika           kännetecknas också av en geografisk närhet
-planerings sammanhang           till de större stadsområdena. Befolkningen i
-Orterna i Halland fyller olika funktioner och detta område har maximalt 45 minuter till en
-ingår i olika geografiska sammanhang. Ett större stad.
+är särskilt värdefull, utan att den innehåller
+många värdekärnor som tillsammans bildar
+ett viktigt nätverk/samband av värdefulla
+naturmiljöer.
+
+Typologier
+
+Orterna ingår i olika
+planerings sammanhang
+Orterna i Halland fyller olika funktioner och
+ingår i olika geografiska sammanhang. Ett
 mindre lokalt centrum som ligger i närheten
-av flera andra orter och en större stad har I de östligaste delarna av regionen återfinns
-andra förutsättningar och funktioner än ett enligt denna typologi landsbygd som har
-lokalt centrum på landsbygden.  längre avstånd till en större ort, det vill
-säga ungefär 45 minuter eller mer. Här är
-För att fånga orters olika sammanhang bebyggelsen över lag gles och mindre orter
-har Nordregio utarbetat en typologi för utgör lokala landsbygdscentrum.
+av flera andra orter och en större stad har
+andra förutsättningar och funktioner än ett
+lokalt centrum på landsbygden.
+
+För att fånga orters olika sammanhang
+har Nordregio utarbetat en typologi för
 bebyggelsetäthet. Typologin grundar sig på
 flera faktorer som tillsammans beskriver ett
 områdes urbanitet eller ruralitet. Den lägger
@@ -7384,7 +8594,49 @@ bostäder är organiserade och fördelade i
 landskapet får man insikt i områdets sociala
 och ekonomiska dynamik.
 
-REGIONAL FYSISK PLAN HALLAND                                       65
+REGIONAL FYSISK PLAN HALLAND
+
+De västra delarna av Halland präglas av tät
+bebyggelse i och runt de större kärnorna
+som innehåller urbana zoner och ytterstads­
+områden. Dessa präglas av hög täthet och
+stort utbud av olika verksamheter. Mellan
+och runt de större kärnorna återfinns så
+kallade peri­urbana områden som är zoner
+som befinner sig i övergången mellan stad
+och landsbygd.
+
+De kännetecknas av en blandning av urbana
+och rurala miljöer, där tät bebyggelse och
+jordbruksmark ofta existerar sida vid sida.
+Dessa områden genomgår vanligtvis snabba
+förändringar på grund av urbanisering
+och expansion av städer. Tillsammans kan
+dessa tre zoner; innerstads­, ytterstads­ och
+periurbana områden, beskrivas som delar
+som ligger inom städernas direkta omland.
+
+Öster om de direkta stadszonerna finns
+en glesare bebyggelse med mer små­
+skaliga befolkningskoncentrationer. Där de
+periurbana områdena upphör börjar den
+stadsnära landsbygden. Här är bebyggelsen
+gles men befolkningstätheten förhållandevis
+hög för att vara utanför större orter. Detta
+område, som sträcker sig från norr till söder,
+kännetecknas också av en geografisk närhet
+till de större stadsområdena. Befolkningen i
+detta område har maximalt 45 minuter till en
+större stad.
+
+I de östligaste delarna av regionen återfinns
+enligt denna typologi landsbygd som har
+längre avstånd till en större ort, det vill
+säga ungefär 45 minuter eller mer. Här är
+bebyggelsen över lag gles och mindre orter
+utgör lokala landsbygdscentrum.
+
+65
 
 <!-- sida 197 -->
 
@@ -7396,56 +8648,85 @@ genomförande
 
 <!-- sida 198 -->
 
-Samlat tillvägagångsätt         samverkan mellan kommuner, regionen, det
-civila samhället, akademin och näringslivet.
+Samlat tillvägagångsätt
+
 Planens genomförande kräver ett samlat
-tillvägagångsätt där olika intressenter Region Halland tar ett särskilt ansvar för att
-med olika roller och ansvar samverkar. skapa arenor och stöd så att Regional fysisk
-Utöver regionen och kommunerna finns ett plan får genomslag. Detta sker genom:
+tillvägagångsätt där olika intressenter
+med olika roller och ansvar samverkar.
+Utöver regionen och kommunerna finns ett
 flertal intressenter med direkt och indirekt
-• Återkommande dialogforum som stärker
 påverkan på planens genomförande:
-samverkan och gemensam inriktning.
 statliga myndigheter, civila samhället,
-näringsliv, akademin, grannregioner och i • Framtagande av gemensamma
-förlängningen invånare.           kunskapsunderlag såsom statistik,
-analyser och scenarier som kan användas
-För att genomföra planen med tillhörande i kommunal och regional planering.
+näringsliv, akademin, grannregioner och i
+förlängningen invånare.
+
+För att genomföra planen med tillhörande
 strategier och inriktningar finns lagstiftning
-• Samordning mellan olika aktörer för att
 och perspektiv som är viktiga att beakta. Det
-hantera mellankommunala och regionala
 gäller grupper i samhället vars perspektiv
-frågor.
 särskilt behöver beaktas, regionala riktlinjer,
-• En verktygslåda för integrering av
 riksintressen och målkonflikter. Även ett
-hållbarhetsdimensionerna i efterföljande
 flertal strategier på nationell, regional och
-planering.
 kommunal nivå har direkt eller indirekt
-bäring på planen och dess genomförande. • Att synliggöra och sprida kunskap om
-Hallands utveckling, som gör planen väl
-känd och använd i relevanta sammanhang
+bäring på planen och dess genomförande.
+
 Roller och ansvar i planens
-• Att initiera och driva projekt som bidrar
 genomförande
-till planens förutsättningar och genom­
-förande.
+
 Planens genomförande bygger på principen
 om ansvarsfördelning, där varje aktör
 ansvarar för att vidta åtgärder inom
-Utpekade  perspektiv
 sitt uppdrag och rådighet. Avvägningar
-mellan mark intressen sker i de kommunala Planens genomförande behöver beakta
-översiktsplanerna. Den regionala fysiska särskilda perspektiv som har stor b etydelse
-planen utgör vägledning utifrån ett mellan­ för en hållbar samhällsutveckling. Genom
-kommunalt och regionalt perspektiv i det att integrera dessa perspektiv i den
-arbetet.                        efter följande planeringen skapas bättre
-förutsättningar för jämlika och inkluderande
-För att möta dagens och framtidens livsmiljöer i hela Halland.
+mellan mark intressen sker i de kommunala
+översiktsplanerna. Den regionala fysiska
+planen utgör vägledning utifrån ett mellan­
+kommunalt och regionalt perspektiv i det
+arbetet.
+
+För att möta dagens och framtidens
 samhälls utmaningar ökar behovet av nära
-REGIONAL FYSISK PLAN HALLAND                                       67
+
+REGIONAL FYSISK PLAN HALLAND
+
+samverkan mellan kommuner, regionen, det
+civila samhället, akademin och näringslivet.
+
+Region Halland tar ett särskilt ansvar för att
+skapa arenor och stöd så att Regional fysisk
+plan får genomslag. Detta sker genom:
+• Återkommande dialogforum som stärker
+samverkan och gemensam inriktning.
+
+• Framtagande av gemensamma
+kunskapsunderlag såsom statistik,
+analyser och scenarier som kan användas
+i kommunal och regional planering.
+• Samordning mellan olika aktörer för att
+hantera mellankommunala och regionala
+frågor.
+
+• En verktygslåda för integrering av
+hållbarhetsdimensionerna i efterföljande
+planering.
+• Att synliggöra och sprida kunskap om
+Hallands utveckling, som gör planen väl
+känd och använd i relevanta sammanhang
+
+• Att initiera och driva projekt som bidrar
+till planens förutsättningar och genom­
+förande.
+
+Utpekade  perspektiv
+
+Planens genomförande behöver beakta
+särskilda perspektiv som har stor b etydelse
+för en hållbar samhällsutveckling. Genom
+att integrera dessa perspektiv i den
+efter följande planeringen skapas bättre
+förutsättningar för jämlika och inkluderande
+livsmiljöer i hela Halland.
+
+67
 
 <!-- sida 199 -->
 
@@ -7506,6 +8787,20 @@ och socialt inkluderande samhällen, med god
 tillgång till transporter, vård och omsorg, bidrar till
 välbefinnande och livskvalitet för äldre.
 
+Personer med
+funktionsnedsättning:
+Personer med funktionsnedsättning
+rapporterar oftare sämre hälsa och
+levnadsvanor än andra. De kan uppleva
+hinder i vardagen och behöver ofta
+stöd för att leva aktivt. Därför är det
+avgörande att planering och byggande
+följer tillgänglighetskrav så att alla,
+oavsett funktionsförmåga, kan röra sig
+självständigt och tryggt i samhället.
+
+REGIONAL FYSISK PLAN HALLAND
+
 Socioekonomiskt sårbara grupper:
 Personer med socioekonomiska svårigheter
 har ofta sämre möjligheter att påverka sin
@@ -7520,59 +8815,82 @@ trivs och känner trygghet. Det minskar sociala
 skillnader och bygger ett starkare, mer
 inkluderande samhälle.
 
-Personer med
-funktionsnedsättning:
-Personer med funktionsnedsättning
-rapporterar oftare sämre hälsa och
-levnadsvanor än andra. De kan uppleva
-hinder i vardagen och behöver ofta
-stöd för att leva aktivt. Därför är det
-avgörande att planering och byggande
-följer tillgänglighetskrav så att alla,
-oavsett funktionsförmåga, kan röra sig
-självständigt och tryggt i samhället.
-
-REGIONAL FYSISK PLAN HALLAND                                       69
+69
 
 <!-- sida 201 -->
 
-Fördjupning av barn perspektiv  Bostadsförsörjning och
-b ostadsbehov
-Den regionala fysiska planeringen ska
-bidra till att barnkonventionen efterlevs. Enligt plan­ och bygglagen (7 kap. 1 § punkt
-I den efterföljande planeringen och vid 6) ska den regionala fysiska planeringen
-genom förandet av planen behöver därför verka för insatser som kan bidra till att
-barnkonsekvensanalyser göras. Barn utgör det långsiktiga behovet av bostäder kan
-en särskilt sårbar grupp och den fysiska pla­ tillgodoses. Den regionala fysiska planen
-neringen har en viktig roll i att skapa miljöer kan därmed utgöra ett stöd för kommunerna
-som är trygga, tillgängliga och utvecklande. i deras arbete med bostadsförsörjning.
+Fördjupning av barn perspektiv
 
-Planeringen bör inriktas på att: Kommunernas handlingsplaner för
-• skapa barnvänliga miljöer som är trygga, bostadsförsörjning
-tillgängliga och möjliggör fysisk aktivitet Enligt proposition 2024/25:42 (gäller från
-och lek                       1 mars 2025) skärps kommunernas skyldig­
-het att ta fram handlingsplaner för bostads­
+Den regionala fysiska planeringen ska
+bidra till att barnkonventionen efterlevs.
+I den efterföljande planeringen och vid
+genom förandet av planen behöver därför
+barnkonsekvensanalyser göras. Barn utgör
+en särskilt sårbar grupp och den fysiska pla­
+neringen har en viktig roll i att skapa miljöer
+som är trygga, tillgängliga och utvecklande.
+
+Planeringen bör inriktas på att:
+• skapa barnvänliga miljöer som är trygga,
+tillgängliga och möjliggör fysisk aktivitet
+och lek
+
 • involvera barn och unga i planerings­
-försörjning. Dessa ska redovisa:
 processen för att deras behov och idéer
-ska tas till vara             • behovet av tillskott av bostäder
-• säkerställa tillgång till barnomsorg och • mål för bostadsbyggande och utveckling
-skolor                          av bostadsbeståndet
-• skapa säkra miljöer med fokus på trafik­ • planerade åtgärder för att nå målen
+ska tas till vara
+• säkerställa tillgång till barnomsorg och
+skolor
+• skapa säkra miljöer med fokus på trafik­
 säkerhet, belysning och överblickbarhet
-• visa hur hänsyn har tagits till relevan­
-• främja barns och ungas möjligheter till ta nationella, regionala mål, planer och
-fysisk aktivitet genom parker, lekplatser program
+
+• främja barns och ungas möjligheter till
+fysisk aktivitet genom parker, lekplatser
 och idrottsanläggningar
-• samt baseras på analys av den
-• främja möjligheter att skapa, utöva och demo grafiska utvecklingen, marknads­
-uppleva kultur.                 förutsättningar och vilka bostads­
-behov som inte tillgodoses på den lokala
-Genomförandet av denna plan ska bidra till bostadsmarknaden.
+• främja möjligheter att skapa, utöva och
+uppleva kultur.
+
+Genomförandet av denna plan ska bidra till
 att Halland utvecklas som en barnvänlig och
-trygg region för alla barn.     Den regionala fysiska planeringen kan stödja
+trygg region för alla barn.
+
+70
+
+Bostadsförsörjning och
+b ostadsbehov
+
+Enligt plan­ och bygglagen (7 kap. 1 § punkt
+6\) ska den regionala fysiska planeringen
+verka för insatser som kan bidra till att
+det långsiktiga behovet av bostäder kan
+tillgodoses. Den regionala fysiska planen
+kan därmed utgöra ett stöd för kommunerna
+i deras arbete med bostadsförsörjning.
+
+Kommunernas handlingsplaner för
+bostadsförsörjning
+Enligt proposition 2024/25:42 (gäller från
+1 mars 2025) skärps kommunernas skyldig­
+het att ta fram handlingsplaner för bostads­
+försörjning. Dessa ska redovisa:
+
+• behovet av tillskott av bostäder
+• mål för bostadsbyggande och utveckling
+av bostadsbeståndet
+• planerade åtgärder för att nå målen
+
+• visa hur hänsyn har tagits till relevan­
+ta nationella, regionala mål, planer och
+program
+• samt baseras på analys av den
+demo grafiska utvecklingen, marknads­
+förutsättningar och vilka bostads­
+behov som inte tillgodoses på den lokala
+bostadsmarknaden.
+
+Den regionala fysiska planeringen kan stödja
 kommunerna i detta arbete och bidra till ett
 mellankommunalt och regionalt perspektiv.
+
 Bostadsbyggnadsbehov i Halland
 Befolkningen i Halland förväntas växa fram
 till år 2050, särskilt i kuststråken och större
@@ -7581,45 +8899,38 @@ bostadstillskott men bostadsförsörjningen
 behöver samtidigt säkerställa en social
 hållbarhet.
 
-70                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 202 -->
 
-Planeringen bör därför:         Det är dock viktigt att notera att det
-beräknade behovet inte är detsamma
+Planeringen bör därför:
 • motverka bostadssegregation och stärka
-som faktiskt bostadsbyggande, eftersom
 tillgången till ett tryggt och stabilt boende
-byggandet påverkas av marknads­ och
 för alla
-konjunkturläge.
+
 • beakta grupper som ofta har svårare att
-etablera sig på bostadsmarknaden, såsom Vilka typer av bostäder behövs?
-unga vuxna, ensamstående föräldrar, Boverkets modell som beskrivs ovan anger
-nyanlända, äldre med låga inkomster och inte typ av bostäder. Genom kommunernas
-personer med funktionsnedsättning handlingsplaner framträder dock vissa
-tendenser:
+etablera sig på bostadsmarknaden, såsom
+unga vuxna, ensamstående föräldrar,
+nyanlända, äldre med låga inkomster och
+personer med funktionsnedsättning
 • integrera barnperspektivet genom att
-uppmärksamma barns behov av trygghet, • behov av ett mer varierat bostadsutbud
+uppmärksamma barns behov av trygghet,
 närhet till skola, fritid och sociala nätverk
-• fler bostäder särskilt anpassade för äldre
+
 • tillämpa ett jämställdhetsperspektiv som
-• fler hyresrätter och bostadsrätter för
 minskar strukturella hinder för kvinnor och
-att skapa balans i beståndet (Halland
 män, exempelvis skillnader i ekonomis­
-domineras idag av småhus i äganderätt)
 ka förutsättningar, familjesituation och
-trygghetsaspekter.            • tillgängliga bostäder för att underlätta
-flyttkedjor
-För att översätta befolkningsökningen till • fler hyresrätter som kan underlätta inträde
-konkreta byggbehov använder Boverket en på bostadsmarknaden för unga, studenter
-demografisk modell som utgår från SCB:s och grupper med låga inkomster.
+trygghetsaspekter.
+
+För att översätta befolkningsökningen till
+konkreta byggbehov använder Boverket en
+demografisk modell som utgår från SCB:s
 befolkningsframskrivningar. Beräkningen
-uppdateras årligen på kommunnivå och Ett framtida utredningsarbete kan väntas
-sammanställs till läns­ och nationell nivå. ge fördjupad kunskap om behovet av olika
-bostadsstorlekar och bostadstyper, vilket
-Modellen består av tre delar:   kan stödja kommunerna i deras planering.
+uppdateras årligen på kommunnivå och
+sammanställs till läns­ och nationell nivå.
+
+Modellen består av tre delar:
 • Tillkommande behov baserat på
 befolkningsprognosen och hushållskvoter
 (olika hushållssammansättning beroende
@@ -7627,8 +8938,10 @@ på ålder).
 • Ackumulerat över­ eller underskott
 sedan 2006, beroende på tidigare
 byggtakt.
+
 • Bostadsreserv en buffert av lediga
 bostäder för omflyttning och inflyttning.
+
 I den senaste beräkningen bedömer
 Boverket att Halland behöver bygga i
 genomsnitt 2 244 bostäder per år under
@@ -7637,66 +8950,145 @@ behovet härrör från befolkningsökning och
 förändrade hushållssammansättningar,
 bland annat till följd av fler äldre.
 
-REGIONAL FYSISK PLAN HALLAND                                       71
+REGIONAL FYSISK PLAN HALLAND
+
+Det är dock viktigt att notera att det
+beräknade behovet inte är detsamma
+som faktiskt bostadsbyggande, eftersom
+byggandet påverkas av marknads­ och
+konjunkturläge.
+
+Vilka typer av bostäder behövs?
+Boverkets modell som beskrivs ovan anger
+inte typ av bostäder. Genom kommunernas
+handlingsplaner framträder dock vissa
+tendenser:
+• behov av ett mer varierat bostadsutbud
+
+• fler bostäder särskilt anpassade för äldre
+• fler hyresrätter och bostadsrätter för
+att skapa balans i beståndet (Halland
+domineras idag av småhus i äganderätt)
+
+• tillgängliga bostäder för att underlätta
+flyttkedjor
+• fler hyresrätter som kan underlätta inträde
+på bostadsmarknaden för unga, studenter
+och grupper med låga inkomster.
+
+Ett framtida utredningsarbete kan väntas
+ge fördjupad kunskap om behovet av olika
+bostadsstorlekar och bostadstyper, vilket
+kan stödja kommunerna i deras planering.
+
+71
 
 <!-- sida 203 -->
 
-Risker och hänsyn kopplat       angeläget att gränsöverskridande risker
-till klimat och vatten          längs kustzonen, vattendrag och andra
-utsatta områden hanteras mellankommunalt
-En hållbar utveckling i Halland kräver att och regionalt gemensamt.
+Risker och hänsyn kopplat
+till klimat och vatten
+
+En hållbar utveckling i Halland kräver att
 risker och sårbarheter beaktas tidigt i
-planeringen. Den regionala fysiska planen Den regionala fysiska planeringen ska stödja
-behöver därför förhålla sig till de klimat­ denna utveckling genom att:
+planeringen. Den regionala fysiska planen
+behöver därför förhålla sig till de klimat­
 förändringar, naturgivna förutsättningar och
-• synliggöra goda exempel
 miljökrav som påverkar länet. I detta ingår
-att väga samman risker kopplade till skred, • ta fram kunskapsunderlag om
-erosion, översvämning och havsnivåhöjning struktur förändringar
+att väga samman risker kopplade till skred,
+erosion, översvämning och havsnivåhöjning
 med hänsyn till vattenresurser, natur­ och
-• samordna aktörer
 kulturmiljöer samt internationella och
-• uppmuntra långsiktigt hållbara
 nationella åtaganden.
-näringslivsinvesteringar.
+
 Kartan i detta avsnitt illustrerar de mest
 betydelsefulla risk­ och hänsynsområdena
-Havsanvändning   och
 i Halland. Den utgör ett samlat kunskaps­
-Havsplan  för Västerhavet
 underlag som behöver utvecklas och
 fördjupas i den kommunala och mellan­
-kommunala planeringen.          Den gällande havsplanen för Västerhavet
-bedöms ha en begränsad påverkan på
-Kartan redovisar också de utpekade Hallands kust, där utpekade intressen
-Ramsarområdena i Halland, vilka behöver framför allt rör befintliga verksamheter som
-beaktas i den fortsatta planeringen. sjöfart och yrkesfiske, samt natur, friluftsliv
-Ramsarkonventionen syftar till att skydda och försvar.
+kommunala planeringen.
+
+Kartan redovisar också de utpekade
+Ramsarområdena i Halland, vilka behöver
+beaktas i den fortsatta planeringen.
+Ramsarkonventionen syftar till att skydda
 särskilt värdefulla våtmarker av betydelse
-för biologisk mångfald, ekosystemtjänster Två områden för energiutvinning har
-och människors livsmiljö.       identifierats; ett inom Falkenbergs
+för biologisk mångfald, ekosystemtjänster
+och människors livsmiljö.
+
+Klimatpåverkan  och
+klimatanpassning
+
+Enligt plan­ och bygglagen 7 kap. ska
+den regionala fysiska planeringen verka
+för insatser som kan bidra till att minska
+länets klimatpåverkan och dess effekter.
+
+Hallands läge och topografi gör regionen
+särskilt sårbar för k limatförändringens
+effekter såsom havsnivåhöjning,
+över svämningar, erosion och skred. Den
+regionala fysiska planen utgår från att
+dessa risker hanteras i ett tidigt skede i den
+efterföljande planeringen.
+
+Planen tydliggör inom målområde 3 att det
+i den fortsatta planeringen bör riktas ett
+särskilt fokus på samverkan kring klimat­
+risker på mellankommunal nivå. Det är
+
+72
+
+angeläget att gränsöverskridande risker
+längs kustzonen, vattendrag och andra
+utsatta områden hanteras mellankommunalt
+och regionalt gemensamt.
+
+Den regionala fysiska planeringen ska stödja
+denna utveckling genom att:
+• synliggöra goda exempel
+
+• ta fram kunskapsunderlag om
+struktur förändringar
+• samordna aktörer
+
+• uppmuntra långsiktigt hållbara
+näringslivsinvesteringar.
+
+Havsanvändning   och
+Havsplan  för Västerhavet
+
+Den gällande havsplanen för Västerhavet
+bedöms ha en begränsad påverkan på
+Hallands kust, där utpekade intressen
+framför allt rör befintliga verksamheter som
+sjöfart och yrkesfiske, samt natur, friluftsliv
+och försvar.
+
+Två områden för energiutvinning har
+identifierats; ett inom Falkenbergs
 territorialv atten, där tillstånd till en del
 av området gavs år 2015 och ett i svensk
-Klimatpåverkan  och             ekonomisk zon utanför Halmstad (Stora
-klimatanpassning                Middelgrund). För Stora Middelgrund avslogs
+ekonomisk zon utanför Halmstad (Stora
+Middelgrund). För Stora Middelgrund avslogs
 senare en tillståndsansökan med hänvisning
-Enligt plan­ och bygglagen 7 kap. ska till naturvärden (Natura 2000) och andra
-den regionala fysiska planeringen verka intressen. För området utanför Falkenberg
-för insatser som kan bidra till att minska kan tillståndsprocessen behöva uppdateras
-länets klimatpåverkan och dess effekter. för att möjliggöra kommersiell utveckling.
-Hallands läge och topografi gör regionen Den regionala fysiska planen förhåller sig
-särskilt sårbar för k limatförändringens till havsplanen genom att utgå från de
-effekter såsom havsnivåhöjning, avvägningar och prioriteringar som gjorts
-över svämningar, erosion och skred. Den på nationell nivå. För Halland innebär
-regionala fysiska planen utgår från att detta särskilt att intressekonflikter mellan
-dessa risker hanteras i ett tidigt skede i den energiutvinning (havsvindkraft), sjöfart,
-efterföljande planeringen.      fiske, naturvärden och totalförsvar behöver
+till naturvärden (Natura 2000) och andra
+intressen. För området utanför Falkenberg
+kan tillståndsprocessen behöva uppdateras
+för att möjliggöra kommersiell utveckling.
+
+Den regionala fysiska planen förhåller sig
+till havsplanen genom att utgå från de
+avvägningar och prioriteringar som gjorts
+på nationell nivå. För Halland innebär
+detta särskilt att intressekonflikter mellan
+energiutvinning (havsvindkraft), sjöfart,
+fiske, naturvärden och totalförsvar behöver
 beaktas. Utpekade områden för havs­
-Planen tydliggör inom målområde 3 att det baserad vindkraft kan komma att påverka
-i den fortsatta planeringen bör riktas ett både landskapsbilden och kustsamhällenas
-särskilt fokus på samverkan kring klimat­ utveckling.
-risker på mellankommunal nivå. Det är
-72                                                  REGIONAL FYSISK PLAN HALLAND
+baserad vindkraft kan komma att påverka
+både landskapsbilden och kustsamhällenas
+utveckling.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 204 -->
 
@@ -7708,39 +9100,63 @@ REGIONAL FYSISK PLAN HALLAND                                       73
 
 <!-- sida 205 -->
 
-Den regionala planen ställer sig i grunden De flesta av regionens sjöar har måttlig
-positiv till havsplanens övergripande mål, ekologisk status till följd av framför allt
-men betonar vikten av att:      morfologiska förändringar och dålig
-konnektivitet, det vill säga att fiskar inte kan
+Den regionala planen ställer sig i grunden
+positiv till havsplanens övergripande mål,
+men betonar vikten av att:
 • nya initiativ för havsanvändning föregås
-vandra naturligt i vattensystemen. Även de
 av kommunal och regional dialog
-flesta av regionens vattendrag har måttlig
-• synergier med andra samhällsmål tas ekologisk status till följd av bland annat
-tillvara, särskilt kopplat till hållbar turism, övergödning och försurning.
+
+• synergier med andra samhällsmål tas
+tillvara, särskilt kopplat till hållbar turism,
 biologisk mångfald och beredskap.
+
+Miljökvalitetsnormer
+för vatten i Halland
+
+Vattenmyndigheten beslutar om
+miljö kvalitetsnormer (MKN) för alla
+vatten förekomster inom Västerhavets
+vattendistrikt, där Hallands län ingår. Miljö­
+kvalitetsnormerna anger den miljökvalitet
+som ska uppnås i vattenförekomsterna och
+vid vilken tidpunkt den senast ska vara upp­
+fylld. I regionen finns 457 vattenförekomster
+med beslutade miljökvalitetsnormer, varav
+74 är grundvattenförekomster, 21 kustvatten,
+80 sjöar, 281 vattendrag och ett utsjövatten.
+
+74
+
+De flesta av regionens sjöar har måttlig
+ekologisk status till följd av framför allt
+morfologiska förändringar och dålig
+konnektivitet, det vill säga att fiskar inte kan
+vandra naturligt i vattensystemen. Även de
+flesta av regionens vattendrag har måttlig
+ekologisk status till följd av bland annat
+övergödning och försurning.
+
 Vad gäller kustvatten är det idag 15 kust­
 vatten inom regionen som inte uppnår god
-Miljökvalitetsnormer
 ekologisk status. Till utmaningarna hör
-för vatten i Halland            bland annat morfologiska förändringar,
+bland annat morfologiska förändringar,
 kontinuitets­ och flödesförändringar samt
-Vattenmyndigheten beslutar om   övergödning. Jordbruk, skogsbruk, utsläpp
-miljö kvalitetsnormer (MKN) för alla från reningsverk, enskilda avlopp, urban
-vatten förekomster inom Västerhavets markanvändning och båttrafik är exempel
-vattendistrikt, där Hallands län ingår. Miljö­ på vanliga påverkanskällor som identifierats
-kvalitetsnormerna anger den miljökvalitet som betydande för tillförseln av närings­
-som ska uppnås i vattenförekomsterna och ämnen till havet.
-vid vilken tidpunkt den senast ska vara upp­
-fylld. I regionen finns 457 vattenförekomster Åtgärder för att minska näringsämnes­
-med beslutade miljökvalitetsnormer, varav belastningen kommer behövas inom en rad
-74 är grundvattenförekomster, 21 kustvatten, olika områden. En samordning av åtgärder
-80 sjöar, 281 vattendrag och ett utsjövatten. över kommun­ och länsgränser är avgörande
+övergödning. Jordbruk, skogsbruk, utsläpp
+från reningsverk, enskilda avlopp, urban
+markanvändning och båttrafik är exempel
+på vanliga påverkanskällor som identifierats
+som betydande för tillförseln av närings­
+ämnen till havet.
+
+Åtgärder för att minska näringsämnes­
+belastningen kommer behövas inom en rad
+olika områden. En samordning av åtgärder
+över kommun­ och länsgränser är avgörande
 för att uppnå god ekologisk status i
 vattenförekomsterna och minska påverkan
 på vatten­ och havsmiljön.
 
-74                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 206 -->
 
@@ -7752,43 +9168,54 @@ Samsyn   förklaring Samhälle och bebyggelse Avtal Genomförande inflyttningskl
 
 SAMSYN              PLANERING          GENOMFÖRANDE
 
-Modellen bygger på tre faser: samsyn,
 Regionala riktlinjer och
-planering och genomförande. Faserna
 arbetssätt för transport­
-regleras genom en avsiktsförklaring och ett
 systemet
-genomförandeavtal.
-• Samsyn: Parterna enas om gemens amma
+
 Den regionala fysiska planens genomföran­
-åtaganden genom dialog och politisk
 de påverkas av riktlinjer och modeller som
-beredning. Detta dokumenteras i en
 utvecklats i andra sammanhang men som
-avsiktsförklaring som utgör målbilden för
 har direkt bäring på planeringen. Nedan
-det fortsatta arbetet.
 beskrivs riktlinjer och arbetssätt med fokus
-på planering av transportsystemet. • Planering: Åtgärder i transport­
-infrastrukturen och samhällsplaneringen
-kopplas till respektive lagstiftning (väg­
-Samplaneringsmodell   Halland     och järnvägsplaner samt PBL). Parterna
-arbetar gemensamt och var för sig för
-Större investeringar i infrastruktur och avsikts förklaringen.
+på planering av transportsystemet.
+
+Samplaneringsmodell   Halland
+
+Större investeringar i infrastruktur och
 kollektivtrafik ska knytas nära till samhälls­
-• Genomförande: Föregås av ett genom­
 utveckling och bostadsbyggande. För att
-förandeavtal där kostnadsfördelning
 konkretisera och stärka samplanerings­
-regleras. Investeringar i infrastruktur och
 planeringen har en modell tagits fram. Den
-kollektivtrafik genomförs samtidigt som
 beskriver processen för samplanerings­
-bebyggelseplaneringen färdigställs.
 objekt och används vid större satsningar
 för att säkerställa att infrastruktur­ och
 bebyggelse planering går i takt.
-REGIONAL FYSISK PLAN HALLAND                                       75
+
+REGIONAL FYSISK PLAN HALLAND
+
+Modellen bygger på tre faser: samsyn,
+planering och genomförande. Faserna
+regleras genom en avsiktsförklaring och ett
+genomförandeavtal.
+• Samsyn: Parterna enas om gemens amma
+åtaganden genom dialog och politisk
+beredning. Detta dokumenteras i en
+avsiktsförklaring som utgör målbilden för
+det fortsatta arbetet.
+
+• Planering: Åtgärder i transport­
+infrastrukturen och samhällsplaneringen
+kopplas till respektive lagstiftning (väg­
+och järnvägsplaner samt PBL). Parterna
+arbetar gemensamt och var för sig för
+avsikts förklaringen.
+• Genomförande: Föregås av ett genom­
+förandeavtal där kostnadsfördelning
+regleras. Investeringar i infrastruktur och
+kollektivtrafik genomförs samtidigt som
+bebyggelseplaneringen färdigställs.
+
+75
 
 <!-- sida 207 -->
 
@@ -7827,23 +9254,39 @@ man förlorar. Även framtida utveckling ska
 beaktas.
 
 Kriterium 3: Tågtrafikens kostnads­
-Parallella tågsystem
 effektivitet ska beaktas och kostnads­
-täckningsgraden ska vara minst 30 procent. För att möta de olika behov som tydliggörs
-i planen är det viktigt att möjliggöra för
-Kriterium 4: Infrastrukturens kostnads­ parallella trafiksystem med olika hastighet
-effektivitet ska beaktas, dvs investerings­ och uppehållsbild. Parallella trafiksystem
-kostnaden i kapacitetsförstärkt järnväg och innebär ett upplägg där olika typer av
-stationer ska vägas mot resandetillskottet. trafikering kan ske på samma spår men
-med olika mål och funktioner. Det kan vara
-Kriterium 5: Region Halland och berörd snabbtåg som betjänar de större städerna
-kommun ska ta fram en gemensam  med färre stopp, regionaltåg som stannar
-avsiktsförklaring där kommunen förbinder vid fler stationer eller lokaltåg som trafikerar
-sig att utveckla orten, öka attraktiviteten mindre orter. Parallella trafiksystem innebär
-och genom aktiv planering bygga upp en ökad flexibilitet som lättare kan anpassas
-ytterligare resandeunderlag.    efter efterfrågan.
+täckningsgraden ska vara minst 30 procent.
 
-76                                                  REGIONAL FYSISK PLAN HALLAND
+Kriterium 4: Infrastrukturens kostnads­
+effektivitet ska beaktas, dvs investerings­
+kostnaden i kapacitetsförstärkt järnväg och
+stationer ska vägas mot resandetillskottet.
+
+Kriterium 5: Region Halland och berörd
+kommun ska ta fram en gemensam
+avsiktsförklaring där kommunen förbinder
+sig att utveckla orten, öka attraktiviteten
+och genom aktiv planering bygga upp
+ytterligare resandeunderlag.
+
+76
+
+Parallella tågsystem
+För att möta de olika behov som tydliggörs
+i planen är det viktigt att möjliggöra för
+parallella trafiksystem med olika hastighet
+och uppehållsbild. Parallella trafiksystem
+innebär ett upplägg där olika typer av
+trafikering kan ske på samma spår men
+med olika mål och funktioner. Det kan vara
+snabbtåg som betjänar de större städerna
+med färre stopp, regionaltåg som stannar
+vid fler stationer eller lokaltåg som trafikerar
+mindre orter. Parallella trafiksystem innebär
+en ökad flexibilitet som lättare kan anpassas
+efter efterfrågan.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 208 -->
 
@@ -7865,154 +9308,251 @@ planeringen
 
 Målkonflikter
 
-Flera mål i Regional fysisk plan kan stå Nedan följer exempel på målkonflikter inom
-i konflikt med varandra. Regional fysisk ramen för planen:
+Flera mål i Regional fysisk plan kan stå
+i konflikt med varandra. Regional fysisk
 plan Halland 2050 syftar till att planera för
-en varsam och möjliggörande mark­ och Tillväxt och bevarande av naturvärden
-vattenanvändning i Halland. Detta ska ske Behovet av fler bostäder och ökad
-genom de tre målområdena med tillhörande tillgänglighet, särskilt i kustnära och
-strategier och inriktningar.    attraktiva lägen, kan stå i konflikt med
-målet att bevara biologisk mångfald,
-Mellan dessa målområden kan mål konflikter ekosystemtjänster, kulturmiljöer och
-uppstå, situationer där olika mål och högklassig jordbruksmark. Expansion i redan
-strategier drar åt olika håll. Sådana mål­ hårt exploaterade områden riskerar att
-konflikter är naturliga i samhällsplaneringen minska gröna ytor ytterligare och påverka
-men behöver identifieras, hanteras och känsliga miljöer negativt. Nybyggnation sker
-vägas medvetet för att planen ska fungera ofta i attraktiva och dyra områden, vilket
-som ett verktyg för efterföljande planering. kan förstärka bostadssegregationen och
-motverka målet om jämlik tillgång till goda
-För att främja en hållbar utveckling i livsmiljöer.
-Halland krävs transparens kring var och
-varför mål står i konflikt. I efterföljande I Laholmsbukten och andra grunda
-planering behöver respektive aktör navigera kust områden finns ålgräsängar som
-i skärningen däremellan.        fungerar som viktiga barnkammare för fisk.
+en varsam och möjliggörande mark­ och
+vattenanvändning i Halland. Detta ska ske
+genom de tre målområdena med tillhörande
+strategier och inriktningar.
 
-REGIONAL FYSISK PLAN HALLAND                                       79
+Mellan dessa målområden kan mål konflikter
+uppstå, situationer där olika mål och
+strategier drar åt olika håll. Sådana mål­
+konflikter är naturliga i samhällsplaneringen
+men behöver identifieras, hanteras och
+vägas medvetet för att planen ska fungera
+som ett verktyg för efterföljande planering.
+
+För att främja en hållbar utveckling i
+Halland krävs transparens kring var och
+varför mål står i konflikt. I efterföljande
+planering behöver respektive aktör navigera
+i skärningen däremellan.
+
+REGIONAL FYSISK PLAN HALLAND
+
+Nedan följer exempel på målkonflikter inom
+ramen för planen:
+
+Tillväxt och bevarande av naturvärden
+Behovet av fler bostäder och ökad
+tillgänglighet, särskilt i kustnära och
+attraktiva lägen, kan stå i konflikt med
+målet att bevara biologisk mångfald,
+ekosystemtjänster, kulturmiljöer och
+högklassig jordbruksmark. Expansion i redan
+hårt exploaterade områden riskerar att
+minska gröna ytor ytterligare och påverka
+känsliga miljöer negativt. Nybyggnation sker
+ofta i attraktiva och dyra områden, vilket
+kan förstärka bostadssegregationen och
+motverka målet om jämlik tillgång till goda
+livsmiljöer.
+
+I Laholmsbukten och andra grunda
+kust områden finns ålgräsängar som
+fungerar som viktiga barnkammare för fisk.
+
+79
 
 <!-- sida 211 -->
 
-Dessa livsmiljöer hotas av övergödning, och försörjningsberedskap. Å andra sidan
-grumling, båttrafik och anläggnings­ kan klimatanpassningsåtgärder som
-projekt. Även det småskaliga kustfisket omdragning, förstärkningar eller skydds­
-är beroende av god vattenkvalitet och vallar innebära stora kostnader, påverkan
-fungerande marina ekosystem. Nedgången på jordbruksmark och intrång i värdefulla
-i bestånd av arter som ål, piggvar och torsk naturmiljöer.
+Dessa livsmiljöer hotas av övergödning,
+grumling, båttrafik och anläggnings­
+projekt. Även det småskaliga kustfisket
+är beroende av god vattenkvalitet och
+fungerande marina ekosystem. Nedgången
+i bestånd av arter som ål, piggvar och torsk
 kopplas till övergödning, habitatförlust och
-klimatförändringar.             Målkonflikten handlar om att balansera
-kravet på säkra och fungerande transport­
-Mål om effektiv markanvändning och leder även i framtiden, mot påverkan på
-förtätning kan stå i konflikt med behovet av miljö, markanvändning och ekonomi.
-grönområden och rekreationsytor, särskilt i
-tätbebyggda eller socioekonomiskt utsatta Utbyggnad av transportinfrastruktur är
-områden. Detta kan påverka barns lekmiljö­ central för regionens tillgänglighet och
-er, äldres rörelsefrihet och folkhälsan i stort. näringslivsutveckling, men kan innebära
-Samtidigt kan koncentration av offentlig stora ingrepp i värdefulla natur­ och
-service till större orter innebära försämrad jordbruksmarker. Större väginvesteringar
-tillgänglighet för boende i mindre samhällen, riskerar att fragmentera landskapet, minska
-särskilt för grupper utan bil.  biologisk mångfald och bidra till ökade
-utsläpp.
-Kust­och vattennära klimat anpassning
-Hallands kust är utsatt för stigande havs­ Hamnar och sjöfart
-nivåer, erosion och ökade stormhändelser, Hallands kust är en viktig del i det nationella
-vilket leder till risk för översvämningar och och internationella sjöfartssystemet, där
-habitatförlust. Behovet av klimatanpas­ hamnarna i Halmstad och Varberg spelar en
-sade lösningar är därför akut i den fysiska regional roll för gods­ och råvarutransporter.
-planeringen. Åtgärder som att undvika Hamnarna fungerar också som noder i inter­
-byggnation i översvämnings­ och skred­ modala transportsystem där väg, järnväg
-känsliga områden kan dock uppfattas som och sjöfart möts.
-hinder för attraktiva och marknadsmässigt
-intressanta etableringar.       I takt med att EU:s klimatregler för sjöfarten
-skärps och fossilfria lösningar efterfrågas
-Ett växande intresse för sandutvinning ökar behovet av att anpassa infrastruk­
-i Kattegatt, kopplat till erosionsskydd, turen. Det kan handla om att bygga ut
-kan framöver skapa målkonflikter med laddmöjligheter för eldrivna fartyg, skapa
-natur värden, fiskerinäring och rekreation. förutsättningar för alternativa bränslen
-I Halland har sandutvinning hittills inte såsom vätgas, metanol eller ammoniak samt
-förekommit i samma omfattning som i till förstärka logistikytor och anslutningar för
-exempel södra Skåne.            järnväg och vägtransporter.
+klimatförändringar.
 
-Stora delar av Hallands infrastruktur, inte En ökad ambition att flytta gods från väg
-minst E6, är belägna i översvämnings­ till sjö ligger i linje med både klimatmål
-känsliga områden nära kusten och större och effektiv resursanvändning, men kan
-vattendrag. Ökad nederbörd, stigande samtidigt leda till ökad aktivitet i hamnarna.
-havsnivåer och extremväder kan leda Detta kan innebära större bullerstörningar,
-till avbrott i transportflödena med stora utsläpp i närmiljön och belastning på
-konsekvenser för både näringsliv, pendling eko system samt risk för konflikter med
-och totalförsvar.               rekreationsvärden i kustzonen.
+Mål om effektiv markanvändning och
+förtätning kan stå i konflikt med behovet av
+grönområden och rekreationsytor, särskilt i
+tätbebyggda eller socioekonomiskt utsatta
+områden. Detta kan påverka barns lekmiljö­
+er, äldres rörelsefrihet och folkhälsan i stort.
+Samtidigt kan koncentration av offentlig
+service till större orter innebära försämrad
+tillgänglighet för boende i mindre samhällen,
+särskilt för grupper utan bil.
+
+Kust­och vattennära klimat anpassning
+Hallands kust är utsatt för stigande havs­
+nivåer, erosion och ökade stormhändelser,
+vilket leder till risk för översvämningar och
+habitatförlust. Behovet av klimatanpas­
+sade lösningar är därför akut i den fysiska
+planeringen. Åtgärder som att undvika
+byggnation i översvämnings­ och skred­
+känsliga områden kan dock uppfattas som
+hinder för attraktiva och marknadsmässigt
+intressanta etableringar.
+
+Ett växande intresse för sandutvinning
+i Kattegatt, kopplat till erosionsskydd,
+kan framöver skapa målkonflikter med
+natur värden, fiskerinäring och rekreation.
+I Halland har sandutvinning hittills inte
+förekommit i samma omfattning som i till
+exempel södra Skåne.
+
+Stora delar av Hallands infrastruktur, inte
+minst E6, är belägna i översvämnings­
+känsliga områden nära kusten och större
+vattendrag. Ökad nederbörd, stigande
+havsnivåer och extremväder kan leda
+till avbrott i transportflödena med stora
+konsekvenser för både näringsliv, pendling
+och totalförsvar.
 
 Å ena sidan finns behovet av robusta väg­
 och järnvägsförbindelser för tillgänglighet
 
-80                                                  REGIONAL FYSISK PLAN HALLAND
+80
+
+och försörjningsberedskap. Å andra sidan
+kan klimatanpassningsåtgärder som
+omdragning, förstärkningar eller skydds­
+vallar innebära stora kostnader, påverkan
+på jordbruksmark och intrång i värdefulla
+naturmiljöer.
+
+Målkonflikten handlar om att balansera
+kravet på säkra och fungerande transport­
+leder även i framtiden, mot påverkan på
+miljö, markanvändning och ekonomi.
+
+Utbyggnad av transportinfrastruktur är
+central för regionens tillgänglighet och
+näringslivsutveckling, men kan innebära
+stora ingrepp i värdefulla natur­ och
+jordbruksmarker. Större väginvesteringar
+riskerar att fragmentera landskapet, minska
+biologisk mångfald och bidra till ökade
+utsläpp.
+
+Hamnar och sjöfart
+Hallands kust är en viktig del i det nationella
+och internationella sjöfartssystemet, där
+hamnarna i Halmstad och Varberg spelar en
+regional roll för gods­ och råvarutransporter.
+Hamnarna fungerar också som noder i inter­
+modala transportsystem där väg, järnväg
+och sjöfart möts.
+
+I takt med att EU:s klimatregler för sjöfarten
+skärps och fossilfria lösningar efterfrågas
+ökar behovet av att anpassa infrastruk­
+turen. Det kan handla om att bygga ut
+laddmöjligheter för eldrivna fartyg, skapa
+förutsättningar för alternativa bränslen
+såsom vätgas, metanol eller ammoniak samt
+förstärka logistikytor och anslutningar för
+järnväg och vägtransporter.
+
+En ökad ambition att flytta gods från väg
+till sjö ligger i linje med både klimatmål
+och effektiv resursanvändning, men kan
+samtidigt leda till ökad aktivitet i hamnarna.
+Detta kan innebära större bullerstörningar,
+utsläpp i närmiljön och belastning på
+eko system samt risk för konflikter med
+rekreationsvärden i kustzonen.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 212 -->
 
-Energiförsörjning, landskapsbild I inlandet, där mark kan finnas tillgänglig
-och identitet                   för energiproduktion, är många områden
-Utbyggnad av fossilfri energiproduktion är viktiga för rekreation och lokal identitet.
-en förutsättning för att nå klimatmålen, men Här kan storskaliga tekniska anläggningar
-den kan stå i konflikt med landskapsvärden, upplevas som störande i landskap där
-friluftsliv och bebyggelseutveckling. Stor­ tystnad och öppna vyer är centrala värden.
+Energiförsörjning, landskapsbild
+och identitet
+Utbyggnad av fossilfri energiproduktion är
+en förutsättning för att nå klimatmålen, men
+den kan stå i konflikt med landskapsvärden,
+friluftsliv och bebyggelseutveckling. Stor­
 skaliga etableringar av vind­ och solkraft
-påverkar utsikter, identitet och upplevelse­ Det krävs därför en balanserad avvägning
-värden. Planer för havsbaserad vindkraft mellan klimatnytta och påverkan på platsers
-i Kattegatt innebär dessutom behov av funktioner, identitet och attraktivitet.
+påverkar utsikter, identitet och upplevelse­
+värden. Planer för havsbaserad vindkraft
+i Kattegatt innebär dessutom behov av
 nya anslutningspunkter och nätstationer i
-Halland, samtidigt som förstärkning av det Besöksnäring, turism och känsliga
-regionala elnätet kan kräva nya luftledning­ natur­ och kulturmiljöer
-ar nära kustzonen.              Kustlandskapet i Halland är en bärande del
-av regionens attraktionskraft och identitet.
-Det småskaliga kustnära fisket, som är en Långa sandstränder, klippor, strandängar,
-del av kustsamhällenas kultur och identitet, historiska fiskelägen och öppna vyer mot
-riskerar att påverkas negativt när fler Kattegatt skapar en variationsrik miljö som
-havsområden reserveras för andra ändamål. lockar till bad, segling, paddling och fiske
+Halland, samtidigt som förstärkning av det
+regionala elnätet kan kräva nya luftledning­
+ar nära kustzonen.
 
-REGIONAL FYSISK PLAN HALLAND                                       81
+Det småskaliga kustnära fisket, som är en
+del av kustsamhällenas kultur och identitet,
+riskerar att påverkas negativt när fler
+havsområden reserveras för andra ändamål.
+
+REGIONAL FYSISK PLAN HALLAND
+
+I inlandet, där mark kan finnas tillgänglig
+för energiproduktion, är många områden
+viktiga för rekreation och lokal identitet.
+Här kan storskaliga tekniska anläggningar
+upplevas som störande i landskap där
+tystnad och öppna vyer är centrala värden.
+
+Det krävs därför en balanserad avvägning
+mellan klimatnytta och påverkan på platsers
+funktioner, identitet och attraktivitet.
+
+Besöksnäring, turism och känsliga
+natur­ och kulturmiljöer
+Kustlandskapet i Halland är en bärande del
+av regionens attraktionskraft och identitet.
+Långa sandstränder, klippor, strandängar,
+historiska fiskelägen och öppna vyer mot
+Kattegatt skapar en variationsrik miljö som
+lockar till bad, segling, paddling och fiske
+
+81
 
 <!-- sida 213 -->
 
-samt vandring och cykling längs Kattegatt­ Livsmedelsförsörjning och
-leden, Hallandsleden och andra kustnära b ebyggelseutveckling
-leder. Den småskaliga kulturmiljön i kust­ Halland har en av Sveriges mest hög­
-samhällena bidrar ytterligare till upplevelse­ klassiga jordbruksmarker, vilket gör att
-värden och lokal identitet.     bebyggelse utveckling, energiutbyggnad och
-infra struktur ofta står i direkt konflikt med
-Det höga besökstrycket, särskilt under långsiktig livsmedelsförsörjning. Enligt miljö­
-sommaren, innebär dock påfrestningar balken (3 kap. 4 §) får jordbruksmark endast
-för både naturmiljöer och infrastruktur. tas i anspråk om det behövs för väsentliga
-Tillgängliggörandet av kust och natur­ samhällsintressen och om behovet inte
-områden riskerar att öka slitaget på kan tillgodoses på annan mark. Klimat­
-biologisk mångfald, samtidigt som sats­ förändringar och krisberedskap förstärker
-ningar på turism ibland kan gå ut över behovet av att värna jordbruksmarken som
-lokalbefolkningens tillgång till bostäder en strategisk resurs.
+samt vandring och cykling längs Kattegatt­
+leden, Hallandsleden och andra kustnära
+leder. Den småskaliga kulturmiljön i kust­
+samhällena bidrar ytterligare till upplevelse­
+värden och lokal identitet.
+
+Det höga besökstrycket, särskilt under
+sommaren, innebär dock påfrestningar
+för både naturmiljöer och infrastruktur.
+Tillgängliggörandet av kust och natur­
+områden riskerar att öka slitaget på
+biologisk mångfald, samtidigt som sats­
+ningar på turism ibland kan gå ut över
+lokalbefolkningens tillgång till bostäder
 och service. Omvandlingen av fritidshus till
-permanentboende har förstärkts av pande­ Digital och teknisk infrastruktur i
-min och ökad distansarbetsmöjlighet, vilket landskap och kulturmiljö
-skapar nya krav på VA, vägar och kommunal Ett robust digitalt nät, datacenter och ett
-service i områden som inte planerats för förstärkt elnät är avgörande för Hallands
-åretruntboende.                 konkurrenskraft, klimatomställning och
-beredskap. Samtidigt kan nya luftledningar,
-Även större evenemang som kulturevent, master och tekniska anläggningar påverka
-festivaler och sportarrangemang och landskapsbild, kulturmiljöer och lokala
-tillfälliga campingar bidrar till lokal ekonomi identiteter negativt, särskilt i kustzonen
-men kan samtidigt innebära störningar och på landsbygden. Detta kan innebära
-i känsliga naturmiljöer. För att minimera en målkonflikt mellan modernisering och
-negativa effekter krävs långsiktig planering, bevarande av natur­ och kulturvärden.
+permanentboende har förstärkts av pande­
+min och ökad distansarbetsmöjlighet, vilket
+skapar nya krav på VA, vägar och kommunal
+service i områden som inte planerats för
+åretruntboende.
+
+Även större evenemang som kulturevent,
+festivaler och sportarrangemang och
+tillfälliga campingar bidrar till lokal ekonomi
+men kan samtidigt innebära störningar
+i känsliga naturmiljöer. För att minimera
+negativa effekter krävs långsiktig planering,
 god samordning och tydliga strategier för
-att bevara natur­ och kulturvärden. Hållbar Försvarsintressen och civila intressen
-mobilitet, väl underhållna leder, rastplatser Totalförsvaret kräver områden för militära
-och toaletter samt tydlig skyltning blir anläggningar, övningsfält och skyddsobjekt,
-centrala för att möta den ökade efterfrågan och enligt miljöbalken (3 kap. 10 §) ska riks­
-på rekreation i kust­ och naturmiljöer. intresse för totalförsvaret väga tyngre vid
-konkurrens med andra intressen. Samtidigt
-Social hållbarhet och jämlik tillgång kan detta stå i konflikt med civila mål som
-I planen lyfts vikten av att skapa jämlika livs­ bostadsutveckling, turism och rekreation.
-villkor och goda livsmiljöer för alla. S amtidigt Erfarenheter från kriget i Ukraina visar
-riskerar utvecklingen av attraktiva kust­ och dessutom att även civil infrastruktur som
-stadsmiljöer att driva upp priser och öka exempelvis energiförsörjning, hamnar och
-segregationen. Dyrare bostäder i centrala VA­system kan vara sårbar, vilket förstärker
-eller kustnära lägen kan begränsa tillgången behovet av ett helhetsperspektiv på skydd
-för barn, unga, äldre och socioekonomiskt och beredskap i planeringen.
+att bevara natur­ och kulturvärden. Hållbar
+mobilitet, väl underhållna leder, rastplatser
+och toaletter samt tydlig skyltning blir
+centrala för att möta den ökade efterfrågan
+på rekreation i kust­ och naturmiljöer.
+
+Social hållbarhet och jämlik tillgång
+I planen lyfts vikten av att skapa jämlika livs­
+villkor och goda livsmiljöer för alla. S amtidigt
+riskerar utvecklingen av attraktiva kust­ och
+stadsmiljöer att driva upp priser och öka
+segregationen. Dyrare bostäder i centrala
+eller kustnära lägen kan begränsa tillgången
+för barn, unga, äldre och socioekonomiskt
 sårbara grupper. Om service koncentreras
 till större orter kan tillgängligheten för de
 som bor i mindre samhällen minska, särskilt
@@ -8020,7 +9560,52 @@ för dem utan bil. Detta kan påverka en jämlik
 tillgång till bostäder, kultur, service och
 rekreation.
 
-82                                                  REGIONAL FYSISK PLAN HALLAND
+82
+
+Livsmedelsförsörjning och
+b ebyggelseutveckling
+Halland har en av Sveriges mest hög­
+klassiga jordbruksmarker, vilket gör att
+bebyggelse utveckling, energiutbyggnad och
+infra struktur ofta står i direkt konflikt med
+långsiktig livsmedelsförsörjning. Enligt miljö­
+balken (3 kap. 4 §) får jordbruksmark endast
+tas i anspråk om det behövs för väsentliga
+samhällsintressen och om behovet inte
+kan tillgodoses på annan mark. Klimat­
+förändringar och krisberedskap förstärker
+behovet av att värna jordbruksmarken som
+en strategisk resurs.
+
+Digital och teknisk infrastruktur i
+landskap och kulturmiljö
+Ett robust digitalt nät, datacenter och ett
+förstärkt elnät är avgörande för Hallands
+konkurrenskraft, klimatomställning och
+beredskap. Samtidigt kan nya luftledningar,
+master och tekniska anläggningar påverka
+landskapsbild, kulturmiljöer och lokala
+identiteter negativt, särskilt i kustzonen
+och på landsbygden. Detta kan innebära
+en målkonflikt mellan modernisering och
+bevarande av natur­ och kulturvärden.
+
+Försvarsintressen och civila intressen
+Totalförsvaret kräver områden för militära
+anläggningar, övningsfält och skyddsobjekt,
+och enligt miljöbalken (3 kap. 10 §) ska riks­
+intresse för totalförsvaret väga tyngre vid
+konkurrens med andra intressen. Samtidigt
+kan detta stå i konflikt med civila mål som
+bostadsutveckling, turism och rekreation.
+Erfarenheter från kriget i Ukraina visar
+dessutom att även civil infrastruktur som
+exempelvis energiförsörjning, hamnar och
+VA­system kan vara sårbar, vilket förstärker
+behovet av ett helhetsperspektiv på skydd
+och beredskap i planeringen.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 214 -->
 
@@ -8029,60 +9614,88 @@ REGIONAL FYSISK PLAN HALLAND                                       83
 <!-- sida 215 -->
 
 Riksintressen och
-allmänna intressen
+allmänna  intressen
 
-Allmänt om riksintressen        Riksintressen enligt 3 kap. MB
-Enligt plan­ och bygglagen (PBL) ska en Områden som är riksintressen enligt 3
-regional fysisk plan redovisa hur riks­ kapitlet MB är anspråk som de 12 ansvariga
-intressen och allmänna intressen tillgodoses, riksintressemyndigheterna har bedömt som
-bedömas och vilken påverkan planens av nationellt intresse. Nedan listas de som
-förslag kan medföra.            bedöms särskilt relevanta ur ett mellan­
-kommunalt och regionalt perspektiv:
+Allmänt om riksintressen
+Enligt plan­ och bygglagen (PBL) ska en
+regional fysisk plan redovisa hur riks­
+intressen och allmänna intressen tillgodoses,
+bedömas och vilken påverkan planens
+förslag kan medföra.
+
 Riksintressen enligt miljöbalkens 3 kapitel är
-• Riksintresse för kommunikationer,
 statliga anspråk, medan områden som anges
-Trafikverket & Post­och telestyrelsen
 i 4 kapitlet eller i Natura 2000­r egistret har
-fastslagen riksintressestatus i lag. Gränserna • Riksintresse för totalförsvaret, Försvars­
-för riksintresseområden är inte exakta utan makten & Myndigheten för samhällsskydd
-behöver preciseras i samverkan mellan och beredskap
+fastslagen riksintressestatus i lag. Gränserna
+för riksintresseområden är inte exakta utan
+behöver preciseras i samverkan mellan
 kommuner och länsstyrelse. Att hantera
-• Riksintresse för energiproduktion,
 riksintressen innebär därför en balans mellan
-Energimyndigheten
 kommunernas utvecklingsbehov och statens
-• Riksintresse för kulturmiljövården,
 långsiktiga mål för områden med särskilda
-Riksantikvarieämbetet
 natur­, kultur­ eller samhällsvärden
-• Riksintresse för yrkesfisket, Havs­och
-I denna plan behandlas riksintressen på en vattenmyndigheten
+
+I denna plan behandlas riksintressen på en
 övergripande nivå. Eftersom planen inte
-• Riksintresse för naturvård och friluftsliv,
 innebär att ny mark tas i anspråk görs de
-Naturvårdsverket och Havs­och vatten­
 konkreta avvägningarna mot riksintressen
-myndigheten
 i efterföljande planering, såsom översikts­
 planer, detaljplaner samt väg­ och järnvägs­
-planer. Här ligger fokus på riksintressen av Övrigt
-regional karaktär, dvs. de som berör flera Utöver riksintressen enligt kapitel 4 och 3
-kommuner eller har särskild betydelse för är nedan områden av regional betydelse
-Hallands utveckling.            som inte har riksintressestatus, men som är
-viktiga för den fysiska planeringen:
+planer. Här ligger fokus på riksintressen av
+regional karaktär, dvs. de som berör flera
+kommuner eller har särskild betydelse för
+Hallands utveckling.
+
 Riksintressen enligt 4 kap. MB
-• Vindkraftsetablering till havs
 Områden som finns i 4 kap. MB är ofta av
-större geografisk karaktär och beslutas av • Areella näringar jord­och skogsbruk
+större geografisk karaktär och beslutas av
 riksdagen. Halland berörs av paragraferna
-• Planering av den maritima miljön
 som beskrivs nedan.
+
 • 4 kap. 2§ Rörligt friluftsliv
 • 4 kap. 4§ Högexploaterad kust
+
 • 4 kap. 6 § Skyddade vattendrag
 • 4 kap. 8 § Natura 2000­områden
 
-84                                                  REGIONAL FYSISK PLAN HALLAND
+84
+
+Riksintressen enligt 3 kap. MB
+Områden som är riksintressen enligt 3
+kapitlet MB är anspråk som de 12 ansvariga
+riksintressemyndigheterna har bedömt som
+av nationellt intresse. Nedan listas de som
+bedöms särskilt relevanta ur ett mellan­
+kommunalt och regionalt perspektiv:
+• Riksintresse för kommunikationer,
+Trafikverket & Post­och telestyrelsen
+
+• Riksintresse för totalförsvaret, Försvars­
+makten & Myndigheten för samhällsskydd
+och beredskap
+• Riksintresse för energiproduktion,
+Energimyndigheten
+
+• Riksintresse för kulturmiljövården,
+Riksantikvarieämbetet
+• Riksintresse för yrkesfisket, Havs­och
+vattenmyndigheten
+
+• Riksintresse för naturvård och friluftsliv,
+Naturvårdsverket och Havs­och vatten­
+myndigheten
+
+Övrigt
+Utöver riksintressen enligt kapitel 4 och 3
+är nedan områden av regional betydelse
+som inte har riksintressestatus, men som är
+viktiga för den fysiska planeringen:
+• Vindkraftsetablering till havs
+
+• Areella näringar jord­och skogsbruk
+• Planering av den maritima miljön
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 216 -->
 
@@ -8099,217 +9712,379 @@ REGIONAL FYSISK PLAN HALLAND                                       85
 
 <!-- sida 217 -->
 
-Målområde   1
-
+Målområde    1
 En tillgänglig,
+
 inkluderande
 och sammanhållen
 region
 
-Riksintressen: Målområde 1.     av mark­ och vattenanspråk, även om en
-En tillgänglig inkluderande     avvägning alltid måste göras.
+Riksintressen: Målområde 1.
+En tillgänglig inkluderande
 och sammanhållen   region
+
+Riksintresse för kommunikationer
+Genom Halland löper både E6 och Väst­
+kustbanan, som tillsammans med hamnar
+och de farleder som finns till havs utgör
+riksintressen för kommunikationer. I länet
+finns även Halmstad flygplats, där inte bara
+flygplatsområdet utan också omgivande
+influensområden för buller och höjdbegräns­
+ningar ingår.
+
+E6 och Västkustbanan skapar tillgänglighet
+men ger också barriäreffekter längs kust­
+zonen. Nya projekt riskerar att ytterligare
+förstärka trycket på kustnära utveckling.
+Samtidigt ökar pendlingen till Göteborgs­
+regionen, vilket innebär ett fortsatt behov av
+att förstärka kollektivtrafiken.
+
+Riksintresse för totalförsvaret
+De halländska hamnarna och flygplatsens
+funktion som beredskapsflygplats samt
+kopplingarna mellan hamn, flygplats,
+vägnätet och järnvägarna pekas ut i planen
+som viktiga att utveckla och stärka ur ett
+totalförsvarsperspektiv. Företräde ska ges
+till försvarsintresset om ett område eller del
+av ett område behövs för en anläggning för
+totalförsvaret, enligt miljöbalken 3 kap. 10
+§. Det innebär att ett riksintresse för total­
+försvaret ska väga tyngre i bedömningen
+
+86
+
+av mark­ och vattenanspråk, även om en
+avvägning alltid måste göras.
+
 Olika riksintressen kan ställa olika krav på
 restriktioner i det aktuella området. Om en
-Riksintresse för kommunikationer plan berör ett riksintresse för totalförsvaret
-Genom Halland löper både E6 och Väst­ ska Försvarsmakten delta tidigt i plane­
-kustbanan, som tillsammans med hamnar ringen. Även andra nationella strategier,
-och de farleder som finns till havs utgör exempelvis livsmedelsstrategin, kan komma
-riksintressen för kommunikationer. I länet påverka den fysiska planeringen genom ett
-finns även Halmstad flygplats, där inte bara ökat fokus på beredskap.
-flygplatsområdet utan också omgivande
-influensområden för buller och höjdbegräns­ Riksintresse för energiproduktion
-ningar ingår.                   I Halland finns två riksintressen för
-energiproduktion vindbruk: ett i havet
-E6 och Västkustbanan skapar tillgänglighet utanför Falkenberg och ett norr om
-men ger också barriäreffekter längs kust­ Halmstad. Dessutom finns ett riksintresse
-zonen. Nya projekt riskerar att ytterligare för värmekraft på Ringhals–Väröhalvön i
-förstärka trycket på kustnära utveckling. Varberg.
-Samtidigt ökar pendlingen till Göteborgs­
-regionen, vilket innebär ett fortsatt behov av I den fortsatta planeringen kan det vara
-att förstärka kollektivtrafiken. aktuellt att regionen tillsammans med
-kommunerna tar fram gemensamma
-Riksintresse för totalförsvaret planeringsunderlag för energiproduktion.
-De halländska hamnarna och flygplatsens
-funktion som beredskapsflygplats samt Vindkraftsetablering till havs
-kopplingarna mellan hamn, flygplats, Vid etablering av havsbaserad vindkraft
-vägnätet och järnvägarna pekas ut i planen är det viktigt att genomföra fördjupade
-som viktiga att utveckla och stärka ur ett utredningar om påverkan på andra intressen
-totalförsvarsperspektiv. Företräde ska ges för att klargöra möjlig och lämplig lokali­
-till försvarsintresset om ett område eller del sering samt omfattning. En sådan etable­
-av ett område behövs för en anläggning för ring kan även påverka Hallands marina
-totalförsvaret, enligt miljöbalken 3 kap. 10 kulturmiljöer, vilket gör det särskilt viktigt
-§. Det innebär att ett riksintresse för total­ att berörda kommuner involveras tidigt i
-försvaret ska väga tyngre i bedömningen planeringsprocessen.
+plan berör ett riksintresse för totalförsvaret
+ska Försvarsmakten delta tidigt i plane­
+ringen. Även andra nationella strategier,
+exempelvis livsmedelsstrategin, kan komma
+påverka den fysiska planeringen genom ett
+ökat fokus på beredskap.
 
-86                                                  REGIONAL FYSISK PLAN HALLAND
+Riksintresse för energiproduktion
+I Halland finns två riksintressen för
+energiproduktion vindbruk: ett i havet
+utanför Falkenberg och ett norr om
+Halmstad. Dessutom finns ett riksintresse
+för värmekraft på Ringhals–Väröhalvön i
+Varberg.
+
+I den fortsatta planeringen kan det vara
+aktuellt att regionen tillsammans med
+kommunerna tar fram gemensamma
+planeringsunderlag för energiproduktion.
+
+Vindkraftsetablering till havs
+Vid etablering av havsbaserad vindkraft
+är det viktigt att genomföra fördjupade
+utredningar om påverkan på andra intressen
+för att klargöra möjlig och lämplig lokali­
+sering samt omfattning. En sådan etable­
+ring kan även påverka Hallands marina
+kulturmiljöer, vilket gör det särskilt viktigt
+att berörda kommuner involveras tidigt i
+planeringsprocessen.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 218 -->
 
 Målområde    2
-
 En flerkärnig region
+
 med attraktiva och
 hållbara livsmiljöer
 
-Riksintressen: Målområde 2.     Hela Hallands kust omfattas dessutom även
-En flerkärnig region med        av riksintresse för det rörliga friluftslivet
-(MB 4 kap. 2 §). Dessa riksintressen måste
+Riksintressen: Målområde 2.
+En flerkärnig region med
 attraktiva och hållbara
-tolkas tillsammans, där bevarandet av
 livsmiljöer
-öppna och obrutna kustmiljöer vägs mot
-lokala utvecklingsintressen. Kommunerna
-Riksintresse Högexploaterad kust har en central roll i översiktsplaneringen för
-Riksintresset för högexploaterad kust (MB 4 att identifiera värdefulla friluftsområden
-kap. 4 §) omfattar hela kustlinjen från Lysekil och bedöma var viss kompletterings­
-i Bohuslän till östra Småland och därmed bebyggelse kan vara möjlig.
+
+Riksintresse Högexploaterad kust
+Riksintresset för högexploaterad kust (MB 4
+kap. 4 §) omfattar hela kustlinjen från Lysekil
+i Bohuslän till östra Småland och därmed
 även hela Hallands kust samt skärgårds­
-områden. Syftet är att värna kustens stora För att hitta en långsiktig balans krävs
-bevarandevärden och säkerställa allmän­ samverkan mellan kommunerna, regionen
-hetens tillgång till rekreationsområden i och länsstyrelsen, och i kommande planering
-områden med högt exploateringstryck. kan gemensamma kunskapsunderlag för
-kustutveckling bli aktuella.
+områden. Syftet är att värna kustens stora
+bevarandevärden och säkerställa allmän­
+hetens tillgång till rekreationsområden i
+områden med högt exploateringstryck.
+
 Lagen begränsar ny fritidsbebyggelse till
-kompletteringar inom redan etablerade Riksintresse för kulturmiljövården
-områden, ofta i form av förtätning, för att Områden som speglar kulturhistoriska
-undvika privatisering och fragmentering sammanhang i landskapet kan pekas ut som
-av strandzoner. Undantag kan göras om riksintressen för kulturmiljövården enligt
-särskilda skäl föreligger, exempelvis för miljöbalken (3 kap. 6 §). Värdena kan vara
-enkla fritidshus eller anläggningar som kopplade till karaktärsdrag, funktioner,
-stärker friluftslivet och gör kusten tillgäng­ samband i miljön eller bebyggelsens skala.
-lig för fler grupper.           Syftet är att långsiktigt bevara kulturmiljöer
-av nationell betydelse.
+kompletteringar inom redan etablerade
+områden, ofta i form av förtätning, för att
+undvika privatisering och fragmentering
+av strandzoner. Undantag kan göras om
+särskilda skäl föreligger, exempelvis för
+enkla fritidshus eller anläggningar som
+stärker friluftslivet och gör kusten tillgäng­
+lig för fler grupper.
+
 Boende i kustnära läge är starkt efter frågat,
-vilket riskerar att skapa konflikter och I Halland riskerar en successiv bebyggelse­
-kumulativa effekter på landskapsbilden. utveckling längs kusten att ge kumulativa
-Även små intrång kan tillsammans splittra effekter på landskapsbilden, vilket kan för­
-och fragmentera riksintresseområden. ändra både siluetter och upplevelse värden.
-Påverkan beror i hög grad på hur kommuner Särskilt i kustorterna kan förtätning och ny
-och grannregioner hanterar kustutveckling­ bebyggelse påverka småskaligheten som
-en. Det är därför avgörande att tillgänglig­ präglar dessa miljöer, exempelvis genom
-heten till kusten och dess upplevelsevärden högre hus.
+vilket riskerar att skapa konflikter och
+kumulativa effekter på landskapsbilden.
+Även små intrång kan tillsammans splittra
+och fragmentera riksintresseområden.
+Påverkan beror i hög grad på hur kommuner
+och grannregioner hanterar kustutveckling­
+en. Det är därför avgörande att tillgänglig­
+heten till kusten och dess upplevelsevärden
 upprätthålls.
 
-REGIONAL FYSISK PLAN HALLAND                                       87
+REGIONAL FYSISK PLAN HALLAND
+
+Hela Hallands kust omfattas dessutom även
+av riksintresse för det rörliga friluftslivet
+(MB 4 kap. 2 §). Dessa riksintressen måste
+tolkas tillsammans, där bevarandet av
+öppna och obrutna kustmiljöer vägs mot
+lokala utvecklingsintressen. Kommunerna
+har en central roll i översiktsplaneringen för
+att identifiera värdefulla friluftsområden
+och bedöma var viss kompletterings­
+bebyggelse kan vara möjlig.
+
+För att hitta en långsiktig balans krävs
+samverkan mellan kommunerna, regionen
+och länsstyrelsen, och i kommande planering
+kan gemensamma kunskapsunderlag för
+kustutveckling bli aktuella.
+
+Riksintresse för kulturmiljövården
+Områden som speglar kulturhistoriska
+sammanhang i landskapet kan pekas ut som
+riksintressen för kulturmiljövården enligt
+miljöbalken (3 kap. 6 §). Värdena kan vara
+kopplade till karaktärsdrag, funktioner,
+samband i miljön eller bebyggelsens skala.
+Syftet är att långsiktigt bevara kulturmiljöer
+av nationell betydelse.
+
+I Halland riskerar en successiv bebyggelse­
+utveckling längs kusten att ge kumulativa
+effekter på landskapsbilden, vilket kan för­
+ändra både siluetter och upplevelse värden.
+Särskilt i kustorterna kan förtätning och ny
+bebyggelse påverka småskaligheten som
+präglar dessa miljöer, exempelvis genom
+högre hus.
+
+87
 
 <!-- sida 219 -->
 
-Målområde  3
+Målområde 3
 En robust och
 resilient region
 
-Även kulturmiljölagen och betydelsen av Riksintressen: Målområde 3.
-kända fornlämningar och kulturmiljöer ska En robust och resilient region
+Även kulturmiljölagen och betydelsen av
+kända fornlämningar och kulturmiljöer ska
 beaktas i planeringens alla skeden.
-Rörligt friluftsliv
-Bevarade kulturmiljöer stärker inte bara Riksintresset för det rörliga friluftslivet
-det historiska arvet, utan bidrar också till enligt miljöbalken (4 kap. 2 §) omfattar hela
-regionens identitet, attraktionskraft och Hallands kustområde samt Hallandsåsen.
-turism. Avvägningen mellan utveckling Dessa områden är av särskild betydelse
-och bevarande sker i den kommunala för turism och rekreation, och utgör viktiga
-planeringen.                    resurser för både lokalbefolkningen och
-besökare.
-Allmänna intressen Areella näringar
-Jord­ och skogsbruk             Kustområdet och Hallandsåsen erbjuder en
-Jord­ och skogsbruk är enligt miljöbalken mångfald av upplevelsevärden – från bad,
-(3 kap. 4 §) av nationell betydelse. Jord­ båtliv och vandring till cykling, skidåkning
-bruksmark får tas i anspråk för bebyggelse och naturturism. Dessa miljöer är samtidigt
-eller anläggningar endast om det behövs för attraktiva för bebyggelseutveckling, vilket
-väsentliga samhällsintressen och detta inte kan skapa målkonflikter. Därför är det
-kan tillgodoses på ett från allmän synpunkt viktigt att i den fysiska planeringen lång­
-tillfredsställande sätt genom att annan mark siktigt säkerställa allmänhetens tillgång till
-används.                        stränder, stigar, leder och rekreationsytor.
 
-För Halland, med en stor andel högklassig För Halland har detta riksintresse ett särskilt
-jordbruksmark, är avvägningar mellan regionalt värde. Ett väl fungerande och till­
-bebyggelse, energianläggningar och livs­ gängligt friluftsliv är en grundförutsättning
-medelsproduktion särskilt viktiga. Under för regionens attraktionskraft, besöksnäring
-planperioden kan det därför bli aktuellt och livskvalitet. För att balansera utveckling
-att ta fram regiongemensamma kun­ och bevarande kan det bli aktuellt att ta
-skapsunderlag som stöd för kommunerna i fram regiongemensamma kunskapsunder­
-planprocessen.                  lag, särskilt kopplat till kustutveckling och
+Bevarade kulturmiljöer stärker inte bara
+det historiska arvet, utan bidrar också till
+regionens identitet, attraktionskraft och
+turism. Avvägningen mellan utveckling
+och bevarande sker i den kommunala
+planeringen.
+
+Allmänna intressen Areella näringar
+Jord­ och skogsbruk
+Jord­ och skogsbruk är enligt miljöbalken
+(3 kap. 4 §) av nationell betydelse. Jord­
+bruksmark får tas i anspråk för bebyggelse
+eller anläggningar endast om det behövs för
+väsentliga samhällsintressen och detta inte
+kan tillgodoses på ett från allmän synpunkt
+tillfredsställande sätt genom att annan mark
+används.
+
+För Halland, med en stor andel högklassig
+jordbruksmark, är avvägningar mellan
+bebyggelse, energianläggningar och livs­
+medelsproduktion särskilt viktiga. Under
+planperioden kan det därför bli aktuellt
+att ta fram regiongemensamma kun­
+skapsunderlag som stöd för kommunerna i
+planprocessen.
+
+88
+
+Riksintressen: Målområde 3.
+En robust och resilient region
+
+Rörligt friluftsliv
+Riksintresset för det rörliga friluftslivet
+enligt miljöbalken (4 kap. 2 §) omfattar hela
+Hallands kustområde samt Hallandsåsen.
+Dessa områden är av särskild betydelse
+för turism och rekreation, och utgör viktiga
+resurser för både lokalbefolkningen och
+besökare.
+
+Kustområdet och Hallandsåsen erbjuder en
+mångfald av upplevelsevärden – från bad,
+båtliv och vandring till cykling, skidåkning
+och naturturism. Dessa miljöer är samtidigt
+attraktiva för bebyggelseutveckling, vilket
+kan skapa målkonflikter. Därför är det
+viktigt att i den fysiska planeringen lång­
+siktigt säkerställa allmänhetens tillgång till
+stränder, stigar, leder och rekreationsytor.
+
+För Halland har detta riksintresse ett särskilt
+regionalt värde. Ett väl fungerande och till­
+gängligt friluftsliv är en grundförutsättning
+för regionens attraktionskraft, besöksnäring
+och livskvalitet. För att balansera utveckling
+och bevarande kan det bli aktuellt att ta
+fram regiongemensamma kunskapsunder­
+lag, särskilt kopplat till kustutveckling och
 tillgänglighetsfrågor.
 
-88                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 220 -->
 
-Natura 2000                     Skyddade vattendrag
-Natura 2000 är ett nätverk av EU:s mest Enligt miljöbalken (4 kap. 6 §) finns ett
-skyddsvärda naturområden. Skyddet bygger särskilt skydd för vissa vattendrag i Sverige.
-på två direktiv: fågeldirektivet, som syftar I Halland omfattas Fylleån med tillhörande
-till att bevara alla naturligt före kommande käll­ och biflöden, som därmed är skyddat
-fågelarter i EU:s medlemsländer, och art­ och vattendrag.
+Natura 2000
+Natura 2000 är ett nätverk av EU:s mest
+skyddsvärda naturområden. Skyddet bygger
+på två direktiv: fågeldirektivet, som syftar
+till att bevara alla naturligt före kommande
+fågelarter i EU:s medlemsländer, och art­ och
 habitatdirektivet, som syftar till att säkra
-den biologiska mångfalden genom att Fylleån har sin källa på den sydsmåländska
-skydda särskilt hotade arter och naturtyper. höjdplatån och följer en sprickdal ned till
-Simlångsdalen i Hallands län. Ån är relativt
-Värdena i ett Natura 2000­område får inte lite påverkad av vattenkraftsutbyggnad, och
-skadas. För alla åtgärder eller intrång som sjöregleringarna är små. Det gör att den har
-på ett betydande sätt kan påverka miljön bevarade naturvärden, viktiga livsmiljöer för
-krävs särskilt tillstånd, och prövningen vattenanknutna arter samt höga kultur­ och
-är ofta mer långtgående än för andra landskapsvärden.
+den biologiska mångfalden genom att
+skydda särskilt hotade arter och naturtyper.
+
+Värdena i ett Natura 2000­område får inte
+skadas. För alla åtgärder eller intrång som
+på ett betydande sätt kan påverka miljön
+krävs särskilt tillstånd, och prövningen
+är ofta mer långtgående än för andra
 skyddade områden.
-I skyddade vattendrag får vattenkraft,
-I Halland finns de största Natura 2000­ vattenreglering eller vattenledning för
-områdena längs kusten och till havs, men kraftändamål inte utföras. Skyddet syftar
-även inåt land längs större vattendrag till att långsiktigt bevara de ekologiska
-och i våtmarksområden. Totalt omfattas värdena, men stärker även möjligheten till
-130 områden av varierande storlek. Dessa rekreation, friluftsliv och upplevelsevärden.
+
+I Halland finns de största Natura 2000­
+områdena längs kusten och till havs, men
+även inåt land längs större vattendrag
+och i våtmarksområden. Totalt omfattas
+130 områden av varierande storlek. Dessa
 utgör viktiga livsmiljöer för både arter och
-ekosystem och har stor betydelse för frilufts­ Riksintresse för yrkesfisket
-liv, turism och ekosystemtjänster. Flera havsområden i Halland samt Bolmen
-är utpekade som riksintresse för yrkes­
-I den regionala planeringen lyfts Natura fisket. Enligt miljöbalken (3 kap.) ska dessa
-2000­områden tillsammans med andra områden skyddas mot åtgärder som
-ekologiskt känsliga områden som särskilt påtagligt kan försvåra yrkesfiskets bedri­
-viktiga att ta hänsyn till, för att långsiktigt vande. Syftet är att långsiktigt säkerställa
-bevara naturvärdena och den biologiska möjligheterna till ett livskraftigt yrkesfiske,
+ekosystem och har stor betydelse för frilufts­
+liv, turism och ekosystemtjänster.
+
+I den regionala planeringen lyfts Natura
+2000­områden tillsammans med andra
+ekologiskt känsliga områden som särskilt
+viktiga att ta hänsyn till, för att långsiktigt
+bevara naturvärdena och den biologiska
 mångfalden i Halland.
 
-REGIONAL FYSISK PLAN HALLAND                                       89
+REGIONAL FYSISK PLAN HALLAND
+
+Skyddade vattendrag
+Enligt miljöbalken (4 kap. 6 §) finns ett
+särskilt skydd för vissa vattendrag i Sverige.
+I Halland omfattas Fylleån med tillhörande
+käll­ och biflöden, som därmed är skyddat
+vattendrag.
+
+Fylleån har sin källa på den sydsmåländska
+höjdplatån och följer en sprickdal ned till
+Simlångsdalen i Hallands län. Ån är relativt
+lite påverkad av vattenkraftsutbyggnad, och
+sjöregleringarna är små. Det gör att den har
+bevarade naturvärden, viktiga livsmiljöer för
+vattenanknutna arter samt höga kultur­ och
+landskapsvärden.
+
+I skyddade vattendrag får vattenkraft,
+vattenreglering eller vattenledning för
+kraftändamål inte utföras. Skyddet syftar
+till att långsiktigt bevara de ekologiska
+värdena, men stärker även möjligheten till
+rekreation, friluftsliv och upplevelsevärden.
+
+Riksintresse för yrkesfisket
+Flera havsområden i Halland samt Bolmen
+är utpekade som riksintresse för yrkes­
+fisket. Enligt miljöbalken (3 kap.) ska dessa
+områden skyddas mot åtgärder som
+påtagligt kan försvåra yrkesfiskets bedri­
+vande. Syftet är att långsiktigt säkerställa
+möjligheterna till ett livskraftigt yrkesfiske,
+
+89
 
 <!-- sida 221 -->
 
-som är betydelsefullt både för livsmedels­ Riksintresse för naturvård och
-försörjningen, för beredskap och för kust­ friluftsliv
-regionens kultur och näringsliv. Riksintresseområden för naturvård och
-friluftsliv är utpekade för att långsiktigt
-Intressekonflikter kan uppstå mellan yrkes­ bevara biologisk mångfald, landskapets
-fisket och andra användningar av havet, värden och människors möjligheter till
-såsom totalförsvar, sjöfart, vindkraft och rekreation. De utgör en viktig resurs för både
-marina naturvärden. Det är därför viktigt ekosystem och samhälle och bidrar till hälsa,
-att främja samexistens och en balanserad attraktivitet och turism.
+som är betydelsefullt både för livsmedels­
+försörjningen, för beredskap och för kust­
+regionens kultur och näringsliv.
+
+Intressekonflikter kan uppstå mellan yrkes­
+fisket och andra användningar av havet,
+såsom totalförsvar, sjöfart, vindkraft och
+marina naturvärden. Det är därför viktigt
+att främja samexistens och en balanserad
 planering.
+
+Tre hamnar i Halland är särskilt utpekade
+som riksintresse för yrkesfisket: Bua och
+Träslövsläge i Varbergs kommun samt
+Glommen i Falkenberg. Dessa hamnar är
+centrala för yrkesfiskets verksamhet och
+påverkas samtidigt av den lokala utveck­
+lingen i respektive ort. Avvägningar mellan
+fiskets behov och annan bebyggelseutveck­
+ling hanteras i kommunernas planering.
+
+90
+
+Riksintresse för naturvård och
+friluftsliv
+Riksintresseområden för naturvård och
+friluftsliv är utpekade för att långsiktigt
+bevara biologisk mångfald, landskapets
+värden och människors möjligheter till
+rekreation. De utgör en viktig resurs för både
+ekosystem och samhälle och bidrar till hälsa,
+attraktivitet och turism.
+
 På land kan naturvärden påverkas negativt
-Tre hamnar i Halland är särskilt utpekade av exempelvis ny infrastruktur, vindkraftse­
-som riksintresse för yrkesfisket: Bua och tableringar, ny bebyggelse, vattenavledning,
-Träslövsläge i Varbergs kommun samt upphörd jordbruks­ eller betesdrift, skogs­
-Glommen i Falkenberg. Dessa hamnar är bruk eller dikning. I marina miljöer kan hoten
-centrala för yrkesfiskets verksamhet och istället handla om avloppsutsläpp, igen­
-påverkas samtidigt av den lokala utveck­ växning, störningar från friluftsliv i känsliga
-lingen i respektive ort. Avvägningar mellan områden, hamnverksamhet eller vindkraft.
-fiskets behov och annan bebyggelseutveck­ Sjöar och vattendrag riskerar att påverkas
-ling hanteras i kommunernas planering. av vattenreglering, kulvertering, vandrings­
+av exempelvis ny infrastruktur, vindkraftse­
+tableringar, ny bebyggelse, vattenavledning,
+upphörd jordbruks­ eller betesdrift, skogs­
+bruk eller dikning. I marina miljöer kan hoten
+istället handla om avloppsutsläpp, igen­
+växning, störningar från friluftsliv i känsliga
+områden, hamnverksamhet eller vindkraft.
+Sjöar och vattendrag riskerar att påverkas
+av vattenreglering, kulvertering, vandrings­
 hinder och vattenuttag.
 
-90                                                  REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 222 -->
 
-I den fortsatta planeringen är det viktigt att särskilt skyddsvärd, men också föremål för
-inte bara bevara värdena inom riksintresse­ potentiella intressekonflikter.
+I den fortsatta planeringen är det viktigt att
+inte bara bevara värdena inom riksintresse­
 områdena, utan också stärka dem. Det kan
-ske genom utveckling av stigsystem och Planeringen av den maritima miljön är en
-leder, förbättrad skötsel och skyltning samt viktig mellankommunal och mellanregional
-genom att tillgängliggöra nya områden för fråga som berör alla halländska kust­
-friluftslivet på ett hållbart sätt. kommuner. För att balansera olika intressen
-och långsiktigt värna havsmiljön kan det
-Planering av den maritima miljön under planperioden bli aktuellt att ta fram
-Ur biologisk synpunkt är strandområden, gemensamma strategier för kust­ och
-grundområden i havet och skärgårdar havsmiljö samt att stärka samverkan kring
-mycket betydelsefulla och känsliga. Dessa havsplanering.
+ske genom utveckling av stigsystem och
+leder, förbättrad skötsel och skyltning samt
+genom att tillgängliggöra nya områden för
+friluftslivet på ett hållbart sätt.
+
+Planering av den maritima miljön
+Ur biologisk synpunkt är strandområden,
+grundområden i havet och skärgårdar
+mycket betydelsefulla och känsliga. Dessa
 miljöer utgör livsmiljöer för en rad arter
 och ekosystem som är avgörande för den
 biologiska mångfalden.
@@ -8320,7 +10095,22 @@ sjöfart, yrkesfiske och energi produktion,
 men också för friluftsliv, turism och fritids­
 boende. Den maritima miljön är därför
 
-REGIONAL FYSISK PLAN HALLAND                                       91
+REGIONAL FYSISK PLAN HALLAND
+
+särskilt skyddsvärd, men också föremål för
+potentiella intressekonflikter.
+
+Planeringen av den maritima miljön är en
+viktig mellankommunal och mellanregional
+fråga som berör alla halländska kust­
+kommuner. För att balansera olika intressen
+och långsiktigt värna havsmiljön kan det
+under planperioden bli aktuellt att ta fram
+gemensamma strategier för kust­ och
+havsmiljö samt att stärka samverkan kring
+havsplanering.
+
+91
 
 <!-- sida 223 -->
 
@@ -8338,30 +10128,29 @@ REGIONAL FYSISK PLAN HALLAND                                       93
 
 <!-- sida 225 -->
 
-Mål, indikatorer och            Planens roll som
-uppföljning                     styrdokument
+Mål, indikatorer och
+uppföljning
 
-Den regionala fysiska planen för Halland Den regionala fysiska planen är ett av flera
-består av tre målområden med tillhörande styrdokument som ska främja Hallands
-strategier. Målområdena utgör planens utveckling. Planen är nära kopplad till den
-övergripande inriktning; förflyttningar regionala utvecklingsstrategin (RUS), som
-och tillstånd som ska uppnås under plan­ är Hallands övergripande regionala strategi.
-perioden. För att följa upp utvecklingen Den fysiska planen ska därför bidra till
-används indikatorer, det vill säga mätbara RUS:ens mål och prioriteringar och skapa
-fenomen som kopplar till de politiska vilje­ en tydlig koppling mellan fysisk planering,
-inriktningarna i planen.        regional utveckling och långsiktiga
-samhällsmål.
+Den regionala fysiska planen för Halland
+består av tre målområden med tillhörande
+strategier. Målområdena utgör planens
+övergripande inriktning; förflyttningar
+och tillstånd som ska uppnås under plan­
+perioden. För att följa upp utvecklingen
+används indikatorer, det vill säga mätbara
+fenomen som kopplar till de politiska vilje­
+inriktningarna i planen.
+
 Ett mål beskriver ett önskat resultat vid
-en viss framtida tidpunkt, exempelvis att Målkedja för regionala fysiska
-något ska öka, minska eller bibehållas. planen och RUS
-Indikatorer är i sig inte mål utan mått I tabellen här redovisas effektmålen i den
-som visar tillståndet inom ett område. Hur regionala fysiska planen och hur de bidrar
-målen formuleras har stor betydelse för hur till effektmålen som finns i den regionala
-utvecklingen kan följas upp och bedömas. utvecklingsstrategin. Målen kommer att
-följas upp en gång per mandatperiod i
-anslutning till aktualitetsprövningen och
-Förändringsteori som grund      analyseras utifrån olika geografier och
-perspektiv.
+en viss framtida tidpunkt, exempelvis att
+något ska öka, minska eller bibehållas.
+Indikatorer är i sig inte mål utan mått
+som visar tillståndet inom ett område. Hur
+målen formuleras har stor betydelse för hur
+utvecklingen kan följas upp och bedömas.
+
+Förändringsteori som grund
+
 Målen ska mäta resultatet av det som
 genomförs, det är utfallet vi vill följa upp,
 inte enskilda aktiviteter. För att säkerställa
@@ -8372,75 +10161,114 @@ resultat. På så sätt tydliggörs den logik som
 strategierna vilar på och planens uppfölj­
 ningsbarhet stärks.
 
-94                                                  REGIONAL FYSISK PLAN HALLAND
+94
+
+Planens roll som
+styrdokument
+
+Den regionala fysiska planen är ett av flera
+styrdokument som ska främja Hallands
+utveckling. Planen är nära kopplad till den
+regionala utvecklingsstrategin (RUS), som
+är Hallands övergripande regionala strategi.
+Den fysiska planen ska därför bidra till
+RUS:ens mål och prioriteringar och skapa
+en tydlig koppling mellan fysisk planering,
+regional utveckling och långsiktiga
+samhällsmål.
+
+Målkedja för regionala fysiska
+planen och RUS
+I tabellen här redovisas effektmålen i den
+regionala fysiska planen och hur de bidrar
+till effektmålen som finns i den regionala
+utvecklingsstrategin. Målen kommer att
+följas upp en gång per mandatperiod i
+anslutning till aktualitetsprövningen och
+analyseras utifrån olika geografier och
+perspektiv.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 226 -->
 
-Målområde 1          Målområde 2           Målområde 3
-En tillgänglig,      En flerkärnig         En robust och
-inkluderande         region med attrak-    resilient region
+Målområde 1          Målområde 2            Målområde 3
+En tillgänglig,      En flerkärnig          En robust och
+inkluderande         region med attrak-     resilient region
 och sammanhållen     tiva och hållbara
 region               livsmiljöer
+låM
 
 • Restiden mellan större kärnor • Andelen hallänningar med • Målen inom detta
 i Sydvästsverige och Halland god tillgång till privat och område följs upp
 ska minska             offentlig service ska vara god i genom Länsstyrelsens
-regionens olika delar miljömålsrapportering.
+regionens olika delar  miljömålsrapportering.
 • Antalet tillgängliga arbets­
 tillfällen inom 60 minuter ska • Halland ska vara den mest
 öka i Halland och dess olika rekommenderade boende­
 delar                  regionen i Sverige
 • Kollektivtrafikens marknads­ • Antalet nybyggda bostäder
+PFR
+låmtkeffE
+
 andel ska öka          ska vara tillräckligt för att
+
 möta behoven
 • Andelen resor med gång och
+
 cykel ska öka        • Andelen hallänningar som
+
 bor i kollektivtrafiknära läge
 • Den genomsnittliga körsträck­
 ska öka
 an med personbil ska minska
+
 • Antalet arbetstillfällen
 • De klimatpåverkande
 tillgängliga inom 60 minuter
 utsläppen från transport­
 med kollektivtrafik ska öka
 sektorn ska minska
+
 • Antalet arbetstagare
 • Andelen hushåll och företag
 företagen i Halland når
 med tillgång till höghastig­
 inom 60 minuter ska öka
 hetsbredband ska vara bland
+
 de högsta i Sverige  • Andel invånare med max
-300 m till närmaste grönyta
+
 • Den halländska produktionen
-ska öka
 av fossilfri energi ska öka
-• Andel invånare som har gång­
 • En större andel av företagens
-eller cykelavstånd till skola,
 och hushållens energikonsum­
-vårdcentral, livsmedelsbutik
 tion ska komma från fossilfri
-och kollektivtrafik, idrotts­ och
 energi
-fritidsanläggningar ska öka
 • Andelen hallänningar med
-• Andelen trångbodda hushåll
 god tillgång till grönytor och
-med ansträngd boende­
 friluftsområden ska öka
+
+300 m till närmaste grönyta
+ska öka
+• Andel invånare som har gång­
+eller cykelavstånd till skola,
+vårdcentral, livsmedelsbutik
+och kollektivtrafik, idrotts­ och
+fritidsanläggningar ska öka
+• Andelen trångbodda hushåll
+med ansträngd boende­
 ekonomi ska minska
+
 • Boendesegregationen
 ska minska (mäts genom
 ojämlikhetsindex)
+
 • De klimatpåver­ • Sysselsättnings­ • Antalet arbetstillfäl­ • Inrikes flyttnetto
 kande utsläppen i graden ska öka len i Halland ska öka ska vara bland det
 Halland ska minska                              högsta i Sverige
-låM
-PFR
-låmtkeffE
 SUR
+
 REGIONAL FYSISK PLAN HALLAND                                       95
 
 <!-- sida 227 -->
@@ -8455,55 +10283,80 @@ Bilaga 1. Hallands inspel
 till nationell planering av
 transportinfrastrukturen
 
-Västkuststråket är en av livsnerverna i hamnen som beredskapshamn och för
-Sydvästsverige och påbörjade projekt att möta planerade järnvägssatsningar i
-längs Västkustbanan måste slutföras. hamnområdet. På vägsidan är det viktigt
-Det handlar framför allt om Halmstad C att säkerställa E6 funktioner och lång siktiga
-bangårdsombyggnad, förbigångsspår kapacitet. Ökad säkerhet och kortare
-för godståg vid Lekarekulle och nya Värö restider behövs längs väg 25 och 26 för att
-station. Även objekt utanför länet behöver stötta ett tillgängligt transportsystem i hela
-färdigställas såsom dubbelspår mellan Halland.
+Västkuststråket är en av livsnerverna i
+Sydvästsverige och påbörjade projekt
+längs Västkustbanan måste slutföras.
+Det handlar framför allt om Halmstad C
+bangårdsombyggnad, förbigångsspår
+för godståg vid Lekarekulle och nya Värö
+station. Även objekt utanför länet behöver
+färdigställas såsom dubbelspår mellan
 Helsingborg­Maria, Västlänken i Göteborg
-och åtgärder i Mölndal som ingår i projekt Kapaciteten behöver öka i väg­ och
-Göteborg­Borås.                 järnvägsstråken in mot Göteborg som är
-Sveriges näst största regionöverskridande
-Det måste finnas utrymme till nya pendlingsstråk. Region Halland startar om
-investeringar som bidrar till att realisera några år upp ett nytt tågsystem på Västkust­
-nyttan av tidigare genomförda och banan för att möta en ökande efterfrågan
-p ågående infrastrukturobjekt. Ett tydligt på kollektivtrafikresor och på allvar bidra till
-inspel är en ny uppställningsbangård vid de transportpolitiska målen. Tågsystemet
-Halmstad C som är absolut nödvändig för realiserar bland annat nyttan av den nya
-att persontågen på Västkustbanan ska tågtunneln Västlänken i Göteborg. Sträckan
-kunna vända och ställas upp över natt. Det Kungsbacka – Göteborg har redan nu
-planerade hamnstamspåret till Halmstad kapacitetsbrist och åtgärder behövs för att
-hamn är av största vikt för att utveckla skapa tillräcklig utrymme för både gods­ och
+och åtgärder i Mölndal som ingår i projekt
+Göteborg­Borås.
 
-REGIONAL FYSISK PLAN HALLAND                                       97
+Det måste finnas utrymme till nya
+investeringar som bidrar till att realisera
+nyttan av tidigare genomförda och
+p ågående infrastrukturobjekt. Ett tydligt
+inspel är en ny uppställningsbangård vid
+Halmstad C som är absolut nödvändig för
+att persontågen på Västkustbanan ska
+kunna vända och ställas upp över natt. Det
+planerade hamnstamspåret till Halmstad
+hamn är av största vikt för att utveckla
+
+REGIONAL FYSISK PLAN HALLAND
+
+hamnen som beredskapshamn och för
+att möta planerade järnvägssatsningar i
+hamnområdet. På vägsidan är det viktigt
+att säkerställa E6 funktioner och lång siktiga
+kapacitet. Ökad säkerhet och kortare
+restider behövs längs väg 25 och 26 för att
+stötta ett tillgängligt transportsystem i hela
+Halland.
+
+Kapaciteten behöver öka i väg­ och
+järnvägsstråken in mot Göteborg som är
+Sveriges näst största regionöverskridande
+pendlingsstråk. Region Halland startar om
+några år upp ett nytt tågsystem på Västkust­
+banan för att möta en ökande efterfrågan
+på kollektivtrafikresor och på allvar bidra till
+de transportpolitiska målen. Tågsystemet
+realiserar bland annat nyttan av den nya
+tågtunneln Västlänken i Göteborg. Sträckan
+Kungsbacka – Göteborg har redan nu
+kapacitetsbrist och åtgärder behövs för att
+skapa tillräcklig utrymme för både gods­ och
+
+97
 
 <!-- sida 229 -->
 
-persontrafik. På Kungsbacka C behöver Tillgången till omloppsnära uppställning
-kapaciteten förbättras med vändspår och av tågfordon är en grundläggande
-ett partiellt fyrspår från Kungsbacka C till förutsättning för effektiva och robusta
-Hede station. På något längre sikt krävs t rafikeringsupplägg. Staten genom
-fyrspår hela vägen mellan Kungsbacka och Trafikverket ska fortsatt vara den som
-Göteborg.                       finansierar och säkerställer tillgången till
-operatörsneutral omloppsnära uppställning.
+persontrafik. På Kungsbacka C behöver
+kapaciteten förbättras med vändspår och
+ett partiellt fyrspår från Kungsbacka C till
+Hede station. På något längre sikt krävs
+fyrspår hela vägen mellan Kungsbacka och
+Göteborg.
+
 Det är viktigt med kontinuitet i planerna
-och att åtgärder i nu gällande plan Det finns ett stort behov av förstärkt och
-genomförs som tänkt. Senareläggningar mera effektivt underhåll både på väg och
-av pågående och beslutade investeringar järnväg. Dialogen om drift­ och underhåll
-ger allvarliga effekter då de behöver takta med kollektivtrafikmyndigheterna behöver
-i samhällsutveckling och kommunala utvecklas. Det förebyggande underhållet
-åtgärder. Det är inte acceptabelt att på järnvägsstråken behöver förbättras
-viktiga pågående objekt skjuts framåt i tid. för att exempelvis inriktas mot att kunna
-Införandet av signalsystemet ERTMS får inte hålla kollektivtrafiken i gång även under
-påverka framdrift av pågående projekt. svåra väderförhållanden, inte minst genom
-trädsäkring av järnvägarna. Trimnings­ och
-Den regionala planramen behöver ökas för hastighetshöjande åtgärder för att korta
-att kunna inrymma angelägna satsningar restiderna på det mindre järnvägsnätet är
-på trafiksäkerhet och cykelvägar samt mycket viktiga, inte minst för den regionala
-ge utrymme för medfinans till kommuner kollektivtrafiken.
+och att åtgärder i nu gällande plan
+genomförs som tänkt. Senareläggningar
+av pågående och beslutade investeringar
+ger allvarliga effekter då de behöver takta
+i samhällsutveckling och kommunala
+åtgärder. Det är inte acceptabelt att
+viktiga pågående objekt skjuts framåt i tid.
+Införandet av signalsystemet ERTMS får inte
+påverka framdrift av pågående projekt.
+
+Den regionala planramen behöver ökas för
+att kunna inrymma angelägna satsningar
+på trafiksäkerhet och cykelvägar samt
+ge utrymme för medfinans till kommuner
 inklusive satsningar på en a ttraktiv
 k ollektivtrafik. Region Halland samfinansie­
 rar även viktiga åtgärder i n ationell plan där
@@ -8529,7 +10382,32 @@ gods­ och persontrafiken behöver kunna
 samsas. Flaskhalsar behöver byggas bort
 både inom och utanför Halland.
 
-98                                                  REGIONAL FYSISK PLAN HALLAND
+98
+
+Tillgången till omloppsnära uppställning
+av tågfordon är en grundläggande
+förutsättning för effektiva och robusta
+t rafikeringsupplägg. Staten genom
+Trafikverket ska fortsatt vara den som
+finansierar och säkerställer tillgången till
+operatörsneutral omloppsnära uppställning.
+
+Det finns ett stort behov av förstärkt och
+mera effektivt underhåll både på väg och
+järnväg. Dialogen om drift­ och underhåll
+med kollektivtrafikmyndigheterna behöver
+utvecklas. Det förebyggande underhållet
+på järnvägsstråken behöver förbättras
+för att exempelvis inriktas mot att kunna
+hålla kollektivtrafiken i gång även under
+svåra väderförhållanden, inte minst genom
+trädsäkring av järnvägarna. Trimnings­ och
+hastighetshöjande åtgärder för att korta
+restiderna på det mindre järnvägsnätet är
+mycket viktiga, inte minst för den regionala
+kollektivtrafiken.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 230 -->
 
@@ -8545,131 +10423,266 @@ REGIONAL FYSISK PLAN HALLAND                                       99
 
 <!-- sida 231 -->
 
-Bilaga 2. Beredskap och         • Krisberedskap handlar om samhällets
-förmåga att förebygga, motstå och
+Bilaga 2. Beredskap och
 säkerhet
-hantera kriser. Den byggs upp genom
-organisation, strukturer, utbildning och
+
 Enligt plan­ och bygglagen (PBL) kapitel 7
-övning; före, under och efter en kris.
 ska fysisk planering, även på regional nivå,
-beakta säkerhet och hälsa. Det innebär • Civil beredskap är ett samlingsbegrepp
-att den regionala fysiska planen behöver som inkluderar både krisberedskap och
-redovisa hur hänsyn tas till befintliga och civilt försvar. Det handlar om samhäl­
-potentiella risker för människors säkerhet, lets förmåga att förebygga, motstå och
-hälsa och välbefinnande.          hantera krissituationer, höjd beredskap
-och krig. Civil beredskap bygger på enhet­
-I denna bilaga beskrivs risker och liga processer för samordning, planering
-utmaningar som är viktiga att hantera på ett och förberedelser och syftar till att stärka
-mellankommunalt och mellanregionalt plan samhällets motståndskraft vid allvarliga
-och som därmed har särskild relevans för störningar eller angrepp.
+beakta säkerhet och hälsa. Det innebär
+att den regionala fysiska planen behöver
+redovisa hur hänsyn tas till befintliga och
+potentiella risker för människors säkerhet,
+hälsa och välbefinnande.
+
+I denna bilaga beskrivs risker och
+utmaningar som är viktiga att hantera på ett
+mellankommunalt och mellanregionalt plan
+och som därmed har särskild relevans för
 den regionala fysiska planeringen.
-Utgångspunkten är att hela samhället
-gemensamt och inom sina respektive
-Nuläge                          ansvarsområden bidrar till att bygga upp
-krisberedskapen.
+
+Nuläge
+
 Det säkerhetspolitiska läget och klimat­
 förändringarna utgör två stora parallella
 utmaningar som kommer att påverka
 samhällsutvecklingen under lång tid framåt.
+
 Vi ser redan nu konsekvenser av klimat­
 förändringarna i form av översvämningar,
 värmeböljor och erosion. Samtidigt pågår
 krig i vårt närområde och olika former av
-hybridkrigföring är återkommande inslag: För att säkerställa beredskapsförmåga
-IT­attacker, sabotage, störningar i viktiga krävs samordning mellan många aktörer
-försörjningar, desinformation och otillbörlig med olika rådighet och ansvar, såsom
-informationspåverkan. Den ökade digita­ regioner, kommuner, hamnar, flygplatser,
-liseringen skapar nya sårbarheter som är Försvarsmakten, Länsstyrelsen, Trafikverket
-komplexa att förebygga och hantera. och näringslivet.
-Totalförsvaret                  Viktiga hänsyn i fysisk
-planering
+hybridkrigföring är återkommande inslag:
+IT­attacker, sabotage, störningar i viktiga
+försörjningar, desinformation och otillbörlig
+informationspåverkan. Den ökade digita­
+liseringen skapar nya sårbarheter som är
+komplexa att förebygga och hantera.
+
+Totalförsvaret
+
 Totalförsvaret består av två delar: det
-militära försvaret och det civila försvaret. När beredskaps­ och säkerhetsfrågor
-integreras i den fysiska planeringen är det
+militära försvaret och det civila försvaret.
+
 • Det civila försvaret omfattar statliga
-särskilt viktigt att beakta:
 myndigheter, kommuner, regioner, privata
-företag och frivilligorganisationer. Det • Beredskap ur ett jämställdhets­ och
-syftar till att skydda civilbefolkningen och funktionsperspektiv
+företag och frivilligorganisationer. Det
+syftar till att skydda civilbefolkningen och
 säkerställa att samhällsviktiga funktioner,
-• Robusthet i vardag, kris och krig
 som sjukvård, transporter och försörj­
-ningssystem, fungerar vid krigsfara och • Klimatanpassning i tidigt skede av
-krig. Civilt försvar ska också kunna stödja planeringen
+ningssystem, fungerar vid krigsfara och
+krig. Civilt försvar ska också kunna stödja
 Försvarsmakten.
+
+100
+
+• Krisberedskap handlar om samhällets
+förmåga att förebygga, motstå och
+hantera kriser. Den byggs upp genom
+organisation, strukturer, utbildning och
+övning; före, under och efter en kris.
+• Civil beredskap är ett samlingsbegrepp
+som inkluderar både krisberedskap och
+civilt försvar. Det handlar om samhäl­
+lets förmåga att förebygga, motstå och
+hantera krissituationer, höjd beredskap
+och krig. Civil beredskap bygger på enhet­
+liga processer för samordning, planering
+och förberedelser och syftar till att stärka
+samhällets motståndskraft vid allvarliga
+störningar eller angrepp.
+
+Utgångspunkten är att hela samhället
+gemensamt och inom sina respektive
+ansvarsområden bidrar till att bygga upp
+krisberedskapen.
+
+För att säkerställa beredskapsförmåga
+krävs samordning mellan många aktörer
+med olika rådighet och ansvar, såsom
+regioner, kommuner, hamnar, flygplatser,
+Försvarsmakten, Länsstyrelsen, Trafikverket
+och näringslivet.
+
+Viktiga hänsyn i fysisk
+planering
+
+När beredskaps­ och säkerhetsfrågor
+integreras i den fysiska planeringen är det
+särskilt viktigt att beakta:
+
+• Beredskap ur ett jämställdhets­ och
+funktionsperspektiv
+• Robusthet i vardag, kris och krig
+
+• Klimatanpassning i tidigt skede av
+planeringen
 • Planering av riskobjekt i samhället
 
-100                                                 REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 232 -->
 
-Beredskap ur ett jämställdhets och med funktionsnedsättning, och anpassade
-funktionsperspektiv             för klimatförändringar; exempelvis genom
-Krisers konsekvenser skiljer sig mellan att skapa skuggiga vistelseytor vid värme­
-kvinnor och män, flickor och pojkar samt böljor, skyddade gång­ och cykelvägar vid
-mellan personer med olika funktions­ extremväder eller robusta mötesplatser som
-förmågor. Därför behöver dessa perspektiv fungerar även i kris.
+Beredskap ur ett jämställdhets och
+funktionsperspektiv
+Krisers konsekvenser skiljer sig mellan
+kvinnor och män, flickor och pojkar samt
+mellan personer med olika funktions­
+förmågor. Därför behöver dessa perspektiv
 integreras i beredskapsarbetet redan i
-förväg. På så sätt kan samhället bättre Barns rättigheter i kris och
-förutse och möta olika gruppers behov när klimat anpassning
-en kris inträffar.              Barn, särskilt de med funktionsnedsättning,
-är extra utsatta vid kriser. Planeringen bör
-Inkludera genusperspektiv och funktions­ därför omfatta deras behov av trygghet,
-hinderperspektiv i riskbedömningar och lek och fritid (”en boll i varje skyddsrum”),
-krisberedskap                   samt vård, utbildning och psykosocialt
-stöd. Klimatanpassning och evakuering
-Olika grupper påverkas olika av kriser, ska också ta hänsyn till barns behov, bland
-krig och klimatförändringar beroende på annat genom barnvänliga och tillgängliga
-könsnormer, samhällsroller och livssituation. skyddsrum samt prioritering av barnfamiljer
-Grupperna kan utsättas för både fysisk vid trygghetspunkter.
+förväg. På så sätt kan samhället bättre
+förutse och möta olika gruppers behov när
+en kris inträffar.
+
+Inkludera genusperspektiv och funktions­
+hinderperspektiv i riskbedömningar och
+krisberedskap
+
+Olika grupper påverkas olika av kriser,
+krig och klimatförändringar beroende på
+könsnormer, samhällsroller och livssituation.
+Grupperna kan utsättas för både fysisk
 och psykisk påfrestning till exempel genom
-vård­ och omsorgsansvar, riskfyllda arbets­ Robusthet i vardag, kris och krig
-uppgifter eller begränsad tillgång till stöd. För att Halland ska kunna hantera både
-Personer med funktionsnedsättning kan vardagliga behov, kriser och ytterst krig
-dessutom vara särskilt sårbara, exempel­ krävs ett robust transportsystem som kan
-vis vid evakuering eller vid störningar i säkerställa effektiva flöden och redundans
-samhällsservice.                vid hamnar, flygplatser, vägar och andra
-knutpunkter.
+vård­ och omsorgsansvar, riskfyllda arbets­
+uppgifter eller begränsad tillgång till stöd.
+Personer med funktionsnedsättning kan
+dessutom vara särskilt sårbara, exempel­
+vis vid evakuering eller vid störningar i
+samhällsservice.
+
 Inkluderande krisberedskap och försörjning
-Planering av trygghetspunkter, skyddsrum Transportinfrastrukturen utgör grunden för
-och utrymningsvägar ska utgå från olika varu­, tjänste­ och personalförsörjningen.
-gruppers behov och säkerställa att informa­ Avbrott i strategiskt viktiga transportnoder,
-tion finns i tillgängliga format. Risker som där olika trafikslag möts, kan få omfattande
-könsrelaterat våld samt avbrott i personlig konsekvenser om alternativa transportvägar
-assistans eller tillgång till mediciner för saknas. Därför är det viktigt att analysera
-personer med funktionsnedsättning behöver flöden, identifiera flaskhalsar och vid behov
-särskilt beaktas. Försörjningsberedskap stärka kapaciteten.
+Planering av trygghetspunkter, skyddsrum
+och utrymningsvägar ska utgå från olika
+gruppers behov och säkerställa att informa­
+tion finns i tillgängliga format. Risker som
+könsrelaterat våld samt avbrott i personlig
+assistans eller tillgång till mediciner för
+personer med funktionsnedsättning behöver
+särskilt beaktas. Försörjningsberedskap
 ska baseras på könsuppdelad statistik och
-inkludera funktionshinderperspektivet, Viktiga principer:
-exempelvis när det gäller livsmedel, sanitet • Ta hänsyn till transportinfrastrukturen i
-och mediciner.                    relation till samhällsviktiga verksamheter,
-nationella och regionala beredskapslager
-Jämställd representation och planering samt trygghetspunkter.
+inkludera funktionshinderperspektivet,
+exempelvis när det gäller livsmedel, sanitet
+och mediciner.
+
+Jämställd representation och planering
 Kris­ och civilberedskapens beslutsfattan­
-• Bygg in redundans; det vill säga alterna­
 de ska vara jämställt, representativt och
-tiva väg­ eller järnvägsförbindelser till
 inkludera funktionshinderorganisationer.
-exempelvis hamnar och flygplatser för att
 Fysisk planering och klimatanpassning
-minska sårbarhet.
 behöver utgå från trygghet, tillgänglighet
-och olika gruppers behov i användningen • Säkerställ tillräcklig kapacitet på
-av offentliga miljöer. Det kan handla om att omlastnings­ och uppställningsytor, med
-utforma platser som är trygga under dyg­ möjlighet att skala upp vid ökade flöden.
+och olika gruppers behov i användningen
+av offentliga miljöer. Det kan handla om att
+utforma platser som är trygga under dyg­
 nets alla timmar, tillgängliga för personer
+
+REGIONAL FYSISK PLAN HALLAND
+
+med funktionsnedsättning, och anpassade
+för klimatförändringar; exempelvis genom
+att skapa skuggiga vistelseytor vid värme­
+böljor, skyddade gång­ och cykelvägar vid
+extremväder eller robusta mötesplatser som
+fungerar även i kris.
+
+Barns rättigheter i kris och
+klimat anpassning
+Barn, särskilt de med funktionsnedsättning,
+är extra utsatta vid kriser. Planeringen bör
+därför omfatta deras behov av trygghet,
+lek och fritid (”en boll i varje skyddsrum”),
+samt vård, utbildning och psykosocialt
+stöd. Klimatanpassning och evakuering
+ska också ta hänsyn till barns behov, bland
+annat genom barnvänliga och tillgängliga
+skyddsrum samt prioritering av barnfamiljer
+vid trygghetspunkter.
+
+Robusthet i vardag, kris och krig
+För att Halland ska kunna hantera både
+vardagliga behov, kriser och ytterst krig
+krävs ett robust transportsystem som kan
+säkerställa effektiva flöden och redundans
+vid hamnar, flygplatser, vägar och andra
+knutpunkter.
+
+Transportinfrastrukturen utgör grunden för
+varu­, tjänste­ och personalförsörjningen.
+Avbrott i strategiskt viktiga transportnoder,
+där olika trafikslag möts, kan få omfattande
+konsekvenser om alternativa transportvägar
+saknas. Därför är det viktigt att analysera
+flöden, identifiera flaskhalsar och vid behov
+stärka kapaciteten.
+
+Viktiga principer:
+• Ta hänsyn till transportinfrastrukturen i
+relation till samhällsviktiga verksamheter,
+nationella och regionala beredskapslager
+samt trygghetspunkter.
+• Bygg in redundans; det vill säga alterna­
+tiva väg­ eller järnvägsförbindelser till
+exempelvis hamnar och flygplatser för att
+minska sårbarhet.
+
+• Säkerställ tillräcklig kapacitet på
+omlastnings­ och uppställningsytor, med
+möjlighet att skala upp vid ökade flöden.
 • Stärk kapaciteten i hamnar och
-REGIONAL FYSISK PLAN HALLAND                                       101
+
+101
 
 <!-- sida 233 -->
 
-flygplatser, inklusive tillhörande transport­ Behovet av utbyggnad av det utomhus­
-infrastruktur, för att underlätta import baserade varningssystemet (”Hesa
-och export. Vid kris eller krig blir detta Fredrik”) är stort. Den befintliga täckningen
-avgörande för att kunna upprätthålla ett behöver ses över, och vid planering av nya
-maximalt inflöde och utflöde av varor och områden bör varningssystemet omfatta
-tjänster.                     platser där människor vistas varaktigt.
+flygplatser, inklusive tillhörande transport­
+infrastruktur, för att underlätta import
+och export. Vid kris eller krig blir detta
+avgörande för att kunna upprätthålla ett
+maximalt inflöde och utflöde av varor och
+tjänster.
+
+Illustration av flöden, stopp i sårbara punkter och
+möjliga flaskhalsar.
+
+Tillräcklig kapacitet och redundans i v iktiga
+försörjningar
+Vid framtagande av nya planer är det av­
+görande att säkerställa kapacitet, robusthet
+och redundans i viktiga försörjningssystem
+såsom vatten, avlopp, el, IT, värme och
+kyla. Samhällets funktionalitet är beroende
+av dessa system och det måste finnas alter­
+nativ om den ordinarie försörjningen slås ut.
+Exempel på åtgärder kan vara alternativa
+vattentäkter, möjlighet att leda vatten mellan
+kommuner eller att ansluta ett område från
+flera håll. Utöver detta krävs kapacitet som
+möter en växande befolkning och skapar
+marginaler i händelse av kris eller krig.
+
+Försörjningsberedskap och självförsörjning
+Försörjningsberedskap och självförsörjning
+är centrala frågor som kräver samverkan.
+För att kunna försörja både verksamheter
+och civilbefolkningen även under kris måste
+beredskapsperspektivet integreras i plane­
+ringen; både på kort och lång sikt.
+
+Skydd av civilbefolkningen
+För att skydda civilbefolkningen vid
+angrepp behöver skyddsrum eller andra
+skyddade utrymmen finnas i de områden
+där människor vistas. Dessa ska placeras
+strategiskt så att befolkningen hinner nå
+dem i tid. Vid nybyggnation bör tillgången till
+skyddsrum alltid prövas.
+
+102
+
+Behovet av utbyggnad av det utomhus­
+baserade varningssystemet (”Hesa
+Fredrik”) är stort. Den befintliga täckningen
+behöver ses över, och vid planering av nya
+områden bör varningssystemet omfatta
+platser där människor vistas varaktigt.
 
 Vid en kärnteknisk olycka eller vid krig kan
 storskalig inkvartering eller utrymning
@@ -8679,123 +10692,177 @@ de flöden till exempelvis trygghetspunkter.
 
 Klimatanpassning i tidigt skede av
 planeringen
-Illustration av flöden, stopp i sårbara punkter och
-möjliga flaskhalsar.            Klimatanpassning i planeringen kan ta sig
+Klimatanpassning i planeringen kan ta sig
 många uttryck, från att bygga på höjder för
 att undvika översvämningar, till att anlägga
-Tillräcklig kapacitet och redundans i v iktiga grön infrastruktur som kan absorbera
-försörjningar                   vatten vid kraftiga regnfall. Det handlar
-Vid framtagande av nya planer är det av­ också om att skydda befintliga bebyggda
-görande att säkerställa kapacitet, robusthet områden genom att vidta åtgärder som
-och redundans i viktiga försörjningssystem exempelvis förbättrar dränering, förstärker
-såsom vatten, avlopp, el, IT, värme och vattenvägar och skapar barriärer mot
-kyla. Samhällets funktionalitet är beroende stigande havs nivåer. Anpassningen kan ske
-av dessa system och det måste finnas alter­ genom åtgärder som är både tekniska och
-nativ om den ordinarie försörjningen slås ut. naturbaserade.
-Exempel på åtgärder kan vara alternativa
-vattentäkter, möjlighet att leda vatten mellan Översvämningsrisk från åar och vattendrag
-kommuner eller att ansluta ett område från och kust till följd av stigande havsvattennivå
-flera håll. Utöver detta krävs kapacitet som I Halland finns risk för översvämning från
-möter en växande befolkning och skapar både kust­ och vattendrag. Till följd av en
-marginaler i händelse av kris eller krig. stigande temperatur förväntas havsnivåerna
+grön infrastruktur som kan absorbera
+vatten vid kraftiga regnfall. Det handlar
+också om att skydda befintliga bebyggda
+områden genom att vidta åtgärder som
+exempelvis förbättrar dränering, förstärker
+vattenvägar och skapar barriärer mot
+stigande havs nivåer. Anpassningen kan ske
+genom åtgärder som är både tekniska och
+naturbaserade.
+
+Översvämningsrisk från åar och vattendrag
+och kust till följd av stigande havsvattennivå
+I Halland finns risk för översvämning från
+både kust­ och vattendrag. Till följd av en
+stigande temperatur förväntas havsnivåerna
 höjas, vilket kommer leda till översvämningar
-Försörjningsberedskap och självförsörjning i havsnära områden, det vill säga i samtliga
-Försörjningsberedskap och självförsörjning halländska kommuner förutom Hylte. I den
-är centrala frågor som kräver samverkan. fysiska planeringen är det därmed viktigt att
-För att kunna försörja både verksamheter ha översvämningsrisk i åtanke redan i tidigt
-och civilbefolkningen även under kris måste skede av planeringen och att ha mellan­
-beredskapsperspektivet integreras i plane­ kommunala samt mellanregionala dialoger i
-ringen; både på kort och lång sikt. de fall det krävs.
-Skydd av civilbefolkningen      Skyfall
-För att skydda civilbefolkningen vid Med ett ändrat klimat ökar risken för skyfall.
-angrepp behöver skyddsrum eller andra Det är därför viktigt att i den fysiska plane­
-skyddade utrymmen finnas i de områden ringen utreda vilken typ av verksamhet som
-där människor vistas. Dessa ska placeras placeras i lågpunkter. Det kan bli viktigt att
-strategiskt så att befolkningen hinner nå vidta åtgärder för att omhänderta stora
-dem i tid. Vid nybyggnation bör tillgången till vattenmängder. Exempelvis kan det behövas
-skyddsrum alltid prövas.        fler dagvattenmagasin, tillfälliga vatten­
+i havsnära områden, det vill säga i samtliga
+halländska kommuner förutom Hylte. I den
+fysiska planeringen är det därmed viktigt att
+ha översvämningsrisk i åtanke redan i tidigt
+skede av planeringen och att ha mellan­
+kommunala samt mellanregionala dialoger i
+de fall det krävs.
+
+Skyfall
+Med ett ändrat klimat ökar risken för skyfall.
+Det är därför viktigt att i den fysiska plane­
+ringen utreda vilken typ av verksamhet som
+placeras i lågpunkter. Det kan bli viktigt att
+vidta åtgärder för att omhänderta stora
+vattenmängder. Exempelvis kan det behövas
+fler dagvattenmagasin, tillfälliga vatten­
 magasin, och ha fler intilliggande grönområ­
 den i stadsmiljö med mycket hårdgjord yta.
 
-102                                                 REGIONAL FYSISK PLAN HALLAND
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 234 -->
 
-Det finns potential att arbeta mellankommu­ Torka kan dessutom påverka dricksvatten­
-nalt i arbetet med förebyggande åtgärder försörjning samt växt­ och djurarter.
+Det finns potential att arbeta mellankommu­
+nalt i arbetet med förebyggande åtgärder
 både i markarbete, och i byggnation av
-fastigheter.                    Särskilt utsatta är våra städer, där bebyggel­
-se och hårdgjorda ytor skapar högre tempe­
-Skred, ras och erosion          raturer än omgivningen. Även landsbygden
-Klimatförändringarna väntas öka problemen kan dock påverkas negativt. Grönstrukturen
-med skred, ras, ravinutveckling och slam­ och i synnerhet förekomsten av träd, spelar
-strömmar. Sådana händelser kan utlösas en viktig roll för att dämpa effekterna och
-av exempelvis översvämningar, skyfall, reglera temperaturen.
-längre torrperioder, skogsavverkning eller
-mänskliga ingrepp som byggnation, väg­ och Ökade temperaturer till havs
-järnvägsanläggningar, hamnar och dammar. I takt med stigande temperaturer på land
-Ofta uppstår ras och skred när flera faktorer ökar även havens temperaturer. Detta leder
-samverkar. Risken är störst i jordslänter bland annat till försurning, förändrade
-med jordlager av låg hållfasthet och i bergs­ havsströmmar och störningar i marina
-slänter med svagheter i berggrunden. ekosystem. Översvämningar och erosion
-påverkar dessutom de känsliga ekosystemen
-Av landets tio utpekade nationella i strandzoner och kustnära havsområden.
-riskområden berör ett Halland: Skåne–
-Hallandskusten, som har risk för erosion och Strandområden och andra grunda havs­
-översvämning. I Hallands närhet finns även områden, inklusive skärgårdar, är särskilt
-Götaälvsområdet i Västra Götaland, som biologiskt betydelsefulla och känsliga för
-bedöms ha Sveriges mest allvarliga riskbild förändringar. Ett fungerande ekosystem
-för skred och översvämning.     och en god havsmiljö är samtidigt en grund­
-förutsättning för de maritima näringarnas
-I befintliga bebyggelseområden är det långsiktiga utveckling.
-viktigt att tidigt uppmärksamma varnings­
-signaler och vidta förebyggande åtgärder Planering och utveckling av den gröna
-för att minska risken för skred och ras. infrastrukturen
-Problemen med erosion på jordbruksmark Genom att stärka den gröna infrastrukturen
-och längs den halländska kusten väntas kan de negativa konsekvenserna av stigande
-dessutom öka i takt med klimatförändringar temperaturer och värmeböljor delvis begrän­
-och stigande havsnivåer.        sas. Det handlar bland annat om att placera
-byggnader på ett klimatsmart sätt, skapa
-Värmeböljor och torka           skugga genom träd och vid ventilationsintag
-Till följd av stigande temperaturer väntas samt undvika stora sammanhängande
-både fler och mer omfattande värmeböljor hårdgjorda ytor.
-än tidigare. Värmeböljor utgör en av de
-största framtida riskerna för människors liv Utvecklingen av grön infrastruktur ger dess­
-och hälsa. Höga temperaturer kan ge direkta utom flera positiva effekter för ekosystem
-effekter som ökad sjuklighet och dödlighet, och ekosystemtjänster. Hänsyn till stigande
-men också indirekta hälsoeffekter genom temperaturer behöver tas inte bara i plane­
-bland annat marknära ozon, luftburna ringsskedet utan också i exploaterings­ och
-partiklar, pollen samt tillväxt av smittämnen i byggfasen.
-mat, dricksvatten och badvatten.
-För att minska konsekvenserna av torka är
-En högre medeltemperatur påverkar även det viktigt att kommunerna arbetar med
-växt­ och djurliv. Nya arter kan konkurrera ut kontinuitetshantering och att vattenförsörj­
-befintliga och därmed förändra ekosystem ningen ges tillräcklig redundans, till exempel
-och de ekosystemtjänster som nyttjas. genom alternativa vattentäkter.
+fastigheter.
 
-REGIONAL FYSISK PLAN HALLAND                                       103
+Skred, ras och erosion
+Klimatförändringarna väntas öka problemen
+med skred, ras, ravinutveckling och slam­
+strömmar. Sådana händelser kan utlösas
+av exempelvis översvämningar, skyfall,
+längre torrperioder, skogsavverkning eller
+mänskliga ingrepp som byggnation, väg­ och
+järnvägsanläggningar, hamnar och dammar.
+Ofta uppstår ras och skred när flera faktorer
+samverkar. Risken är störst i jordslänter
+med jordlager av låg hållfasthet och i bergs­
+slänter med svagheter i berggrunden.
+
+Av landets tio utpekade nationella
+riskområden berör ett Halland: Skåne–
+Hallandskusten, som har risk för erosion och
+översvämning. I Hallands närhet finns även
+Götaälvsområdet i Västra Götaland, som
+bedöms ha Sveriges mest allvarliga riskbild
+för skred och översvämning.
+
+I befintliga bebyggelseområden är det
+viktigt att tidigt uppmärksamma varnings­
+signaler och vidta förebyggande åtgärder
+för att minska risken för skred och ras.
+Problemen med erosion på jordbruksmark
+och längs den halländska kusten väntas
+dessutom öka i takt med klimatförändringar
+och stigande havsnivåer.
+
+Värmeböljor och torka
+Till följd av stigande temperaturer väntas
+både fler och mer omfattande värmeböljor
+än tidigare. Värmeböljor utgör en av de
+största framtida riskerna för människors liv
+och hälsa. Höga temperaturer kan ge direkta
+effekter som ökad sjuklighet och dödlighet,
+men också indirekta hälsoeffekter genom
+bland annat marknära ozon, luftburna
+partiklar, pollen samt tillväxt av smittämnen i
+mat, dricksvatten och badvatten.
+
+En högre medeltemperatur påverkar även
+växt­ och djurliv. Nya arter kan konkurrera ut
+befintliga och därmed förändra ekosystem
+och de ekosystemtjänster som nyttjas.
+
+REGIONAL FYSISK PLAN HALLAND
+
+Torka kan dessutom påverka dricksvatten­
+försörjning samt växt­ och djurarter.
+
+Särskilt utsatta är våra städer, där bebyggel­
+se och hårdgjorda ytor skapar högre tempe­
+raturer än omgivningen. Även landsbygden
+kan dock påverkas negativt. Grönstrukturen
+och i synnerhet förekomsten av träd, spelar
+en viktig roll för att dämpa effekterna och
+reglera temperaturen.
+
+Ökade temperaturer till havs
+I takt med stigande temperaturer på land
+ökar även havens temperaturer. Detta leder
+bland annat till försurning, förändrade
+havsströmmar och störningar i marina
+ekosystem. Översvämningar och erosion
+påverkar dessutom de känsliga ekosystemen
+i strandzoner och kustnära havsområden.
+
+Strandområden och andra grunda havs­
+områden, inklusive skärgårdar, är särskilt
+biologiskt betydelsefulla och känsliga för
+förändringar. Ett fungerande ekosystem
+och en god havsmiljö är samtidigt en grund­
+förutsättning för de maritima näringarnas
+långsiktiga utveckling.
+
+Planering och utveckling av den gröna
+infrastrukturen
+Genom att stärka den gröna infrastrukturen
+kan de negativa konsekvenserna av stigande
+temperaturer och värmeböljor delvis begrän­
+sas. Det handlar bland annat om att placera
+byggnader på ett klimatsmart sätt, skapa
+skugga genom träd och vid ventilationsintag
+samt undvika stora sammanhängande
+hårdgjorda ytor.
+
+Utvecklingen av grön infrastruktur ger dess­
+utom flera positiva effekter för ekosystem
+och ekosystemtjänster. Hänsyn till stigande
+temperaturer behöver tas inte bara i plane­
+ringsskedet utan också i exploaterings­ och
+byggfasen.
+
+För att minska konsekvenserna av torka är
+det viktigt att kommunerna arbetar med
+kontinuitetshantering och att vattenförsörj­
+ningen ges tillräcklig redundans, till exempel
+genom alternativa vattentäkter.
+
+103
 
 <!-- sida 235 -->
 
-Planering av riskobjekt i samhället Erfarenheter från kriget i Ukraina visar
-I den fysiska planeringen är det viktigt också att civil infrastruktur såsom VA­
-att identifiera och hantera riskobjekt som anläggningar, energiförsörjning, lager,
-kan innebära allvarliga konsekvenser hamnar, flygplatser och andra transport­
-för människors säkerhet, hälsa och miljö. noder, kan utgöra mål. Även farliga verk­
-Sådana riskobjekt kan vara både civila och samheter och Sevesoanläggningar kan vara
-militära och de omfattar verksamheter, särskilt utsatta.
+Planering av riskobjekt i samhället
+I den fysiska planeringen är det viktigt
+att identifiera och hantera riskobjekt som
+kan innebära allvarliga konsekvenser
+för människors säkerhet, hälsa och miljö.
+Sådana riskobjekt kan vara både civila och
+militära och de omfattar verksamheter,
 transporter och anläggningar med särskilda
-risker. Genom att ta hänsyn till dessa Planering i områden med militära
-tidigt i planeringen kan risker förebyggas, anläggningar och skyddsobjekt
-konsekvenser begränsas och samhällets Mark i anslutning till militära anläggningar
-robusthet stärkas.              bör i första hand lämnas bebyggelsefri. Om
-byggnation ändå sker bör verksamheter som
-Sevesoverksamheter och farliga  är folktäta eller svårutrymda undvikas. Även
-v erksamheter                   andra civila objekt som kan vara mål finns
-Samtliga Sevesoverksamheter är per ofta redan i anslutning till samhällen och
-automatik klassade som farliga verksam­ bebyggelse. Det är därför viktigt att tidigt
-heter enligt lagen om skydd mot olyckor samverka med Försvarsmakten vid plane­
-(LSO). Det innebär att riskanalyser måste tas ring i dessa områden.
+risker. Genom att ta hänsyn till dessa
+tidigt i planeringen kan risker förebyggas,
+konsekvenser begränsas och samhällets
+robusthet stärkas.
+
+Sevesoverksamheter och farliga
+v erksamheter
+Samtliga Sevesoverksamheter är per
+automatik klassade som farliga verksam­
+heter enligt lagen om skydd mot olyckor
+(LSO). Det innebär att riskanalyser måste tas
 fram och att räddningstjänsten kan ställa
 särskilda krav.
 
@@ -8829,7 +10896,29 @@ Försvaret planerar för en utökad verksamhet
 de kommande åren, vilket kan innebära nya
 etableringar och större anläggningar.
 
-104                                                 REGIONAL FYSISK PLAN HALLAND
+104
+
+Erfarenheter från kriget i Ukraina visar
+också att civil infrastruktur såsom VA­
+anläggningar, energiförsörjning, lager,
+hamnar, flygplatser och andra transport­
+noder, kan utgöra mål. Även farliga verk­
+samheter och Sevesoanläggningar kan vara
+särskilt utsatta.
+
+Planering i områden med militära
+anläggningar och skyddsobjekt
+Mark i anslutning till militära anläggningar
+bör i första hand lämnas bebyggelsefri. Om
+byggnation ändå sker bör verksamheter som
+är folktäta eller svårutrymda undvikas. Även
+andra civila objekt som kan vara mål finns
+ofta redan i anslutning till samhällen och
+bebyggelse. Det är därför viktigt att tidigt
+samverka med Försvarsmakten vid plane­
+ring i dessa områden.
+
+REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 236 -->
 

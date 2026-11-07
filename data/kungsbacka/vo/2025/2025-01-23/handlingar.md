@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6a4a3a17194749c526c532b5/1737379235
 sha256: 394d53a592d0a939fae9b144d7a01216b562e655acd67f4fa498ea9f68295a33
 bytes: 15367284
 sidor: 512
-hamtad: 2026-10-24T06:48:09+00:00
-konverterad: 2026-10-24T06:49:10+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:02:26+00:00
+konverterad: 2026-11-06T21:03:50+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -14354,102 +14354,125 @@ Uppdraget ska redovisas senast den 1 november 2024.
 
 <!-- sida 334 -->
 
-Statens offentliga utredningar  2024
+Statens  offentliga utredningar 2024
 
 Kronologisk förteckning
 
-1\. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
-anställda mot våld, hot och trakasserier. – för ökad försörjningsberedskap. KN.
-Ju.                  20. Maskinellt värde för vissa industribygg-
-2\. Ett samordnat vaccinationsarbete nader – ett undantag från fastighets-
-– för effektivare hantering av kom- skatt. Fi.
-mande vacciner. Del 1 och 2. S. 21. Ett inkluderande jämställdhets-
-3\. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
-generationer. Nationell strategi för att 22. En ny organisation för förvaltning
-stärka judiskt liv i Sverige 2025–2034. av EU-medel. Fi.
+1\. Ett starkare skydd för offentlig-
+anställda mot våld, hot och trakasserier.
+Ju.
+2\. Ett samordnat vaccinationsarbete
+– för effektivare hantering av kom-
+mande vacciner. Del 1 och 2. S.
+3\. Ett starkt judiskt liv för framtida
+generationer. Nationell strategi för att
+stärka judiskt liv i Sverige 2025–2034.
 Ku.
+4\. Inskränkningarna i upphovsrätten. Ju.
+5\. Förbättrad ordning och säkerhet
+vid förvar. Ju.
+6\. Steg mot stärkt kapacitet. Fi.
+7\. Ett säkrare och mer tillgängligt
+fastighetsregister. Ju.
+8\. Livsmedelsberedskap för en ny tid. LI.
+9\. Utvecklat samarbete för verksamhets-
+förlagd utbildning – långsiktiga åtgär-
+der för sjuksköterskeprogrammen. U.
+10\. Preskription av avlägsnandebeslut och
+vissa frågor om återreseförbud. Ju.
+11\. Rätt frågor på regeringens bord –
+en ändamålsenlig regeringsprövning på
+miljöområdet. KN.
+12\. Mål och mening med integration. A.
+13\. En effektivare kontaktförbuds-
+lagstiftning – ett utökat skydd
+för utsatta personer. Ju.
+14\. Arbetslivskriminalitet – myndighets-
+samverkan, en gemensam tipsfunktion,
+lärdomar från Belgien och gränsöver-
+skridande arbete. A.
+15\. Nya regler för
+arbetskraftsinvandring m.m. Ju.
+16\. Växla yrke som vuxen – en reformerad
+vuxenutbildning och en ny yrkesskola
+för vuxna. U.
+17\. Skolor mot brott. U.
+18\. Nya regler om cybersäkerhet. Fö.
+
+19\. En ny beredskapssektor
+– för ökad försörjningsberedskap. KN.
+20\. Maskinellt värde för vissa industribygg-
+nader – ett undantag från fastighets-
+skatt. Fi.
+21\. Ett inkluderande jämställdhets-
+politiskt delmål mot våld. A.
+22\. En ny organisation för förvaltning
+av EU-medel. Fi.
 23\. En trygg uppväxt utan
-4\. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
-5\. Förbättrad ordning och säkerhet 24. Ett effektivt straffrättsligt skydd för
-vid förvar. Ju.        statliga stöd till företag. Fi.
-6\. Steg mot stärkt kapacitet. Fi. 25. En mer effektiv tillsyn över
-7\. Ett säkrare och mer tillgängligt socialtjänsten. S.
-fastighetsregister. Ju. 26. En utvärdering av förändringar
-8\. Livsmedelsberedskap för en ny tid. LI. i sjukförsäkringens regelverk
-9\. Utvecklat samarbete för verksamhets- under 2021 och 2022. S.
-förlagd utbildning – långsiktiga åtgär- 27. Kamerabevakning i offentlig
-der för sjuksköterskeprogrammen. U. verksamhet – lättnader och utökade
-10\. Preskription av avlägsnandebeslut och möjligheter. Ju.
-vissa frågor om återreseförbud. Ju. 28. Offentlighetsprincipen eller insyns-lag.
-11\. Rätt frågor på regeringens bord – Allmänhetens insyn i enskilda aktörer
-en ändamålsenlig regeringsprövning på inom skolväsendet. U.
-miljöområdet. KN.    29. Goda möjligheter till ökat välstånd. Fi.
-12\. Mål och mening med integration. A. 30. En statlig ordning med
-13\. En effektivare kontaktförbuds- brottsförebyggande åtgärder
-lagstiftning – ett utökat skydd för barn och unga. S.
-för utsatta personer. Ju. 31. En ändamålsenlig vapenlagstiftning.
-14\. Arbetslivskriminalitet – myndighets- Del 1 och 2. Ju.
-samverkan, en gemensam tipsfunktion, 32. Åtgärder mot mervärdesskatte-
-lärdomar från Belgien och gränsöver- bedrägerier. Fi.
-skridande arbete. A. 33. Delad hälsodata – dubbel nytta.
-15\. Nya regler för       Regler för ökad interoperabilitet
-arbetskraftsinvandring m.m. Ju. i hälso- och sjukvården. S.
-16\. Växla yrke som vuxen – en reformerad 34. Ansvar och oberoende
-vuxenutbildning och en ny yrkesskola – public service i oroliga tider. Ku.
-för vuxna. U.        35. En framtid för alm och ask
-17\. Skolor mot brott. U. – förädling, forskning och f inansiering.
-18\. Nya regler om cybersäkerhet. Fö. LI.
+nikotin, alkohol och lustgas. S.
+24\. Ett effektivt straffrättsligt skydd för
+statliga stöd till företag. Fi.
+25\. En mer effektiv tillsyn över
+socialtjänsten. S.
+26\. En utvärdering av förändringar
+i sjukförsäkringens regelverk
+under 2021 och 2022. S.
+27\. Kamerabevakning i offentlig
+verksamhet – lättnader och utökade
+möjligheter. Ju.
+28\. Offentlighetsprincipen eller insyns-lag.
+Allmänhetens insyn i enskilda aktörer
+inom skolväsendet. U.
+29\. Goda möjligheter till ökat välstånd. Fi.
+30\. En statlig ordning med
+brottsförebyggande åtgärder
+för barn och unga. S.
+31\. En ändamålsenlig vapenlagstiftning.
+Del 1 och 2. Ju.
+32\. Åtgärder mot mervärdesskatte-
+bedrägerier. Fi.
+33\. Delad hälsodata – dubbel nytta.
+Regler för ökad interoperabilitet
+i hälso- och sjukvården. S.
+34\. Ansvar och oberoende
+– public service i oroliga tider. Ku.
+35\. En framtid för alm och ask
+– förädling, forskning och f inansiering.
+LI.
 
 <!-- sida 335 -->
 
-36\. Förenkla och förbättra! Fi. 59. Signalspaning i försvarsunderrättelse-
-37\. Förbättrade ränteavdragsregler för verksamhet – en modern och ändamåls-
-företag. Fi.          enlig lagstiftning. Fö.
-38\. Digitala fastighetsköp & Förköpsrätt 60. Stärkt stöd till anhöriga. Ett mer ända-
-vid fastighetstransaktioner. LI. målsenligt stöd till barn och vuxna som
-är anhöriga. S.
+36\. Förenkla och förbättra! Fi.
+37\. Förbättrade ränteavdragsregler för
+företag. Fi.
+38\. Digitala fastighetsköp & Förköpsrätt
+vid fastighetstransaktioner. LI.
 39\. Skärpta regler om ungdomsövervak-
-ning och straffreduktion för unga. Ju. 61. Effektivare kontrollmöjligheter
-i systemen för rot, rut, grön teknik
+ning och straffreduktion för unga. Ju.
 40\. Genomförande av
-och personalliggare. Fi.
 lönetransparensdirektivet. A.
-62\. En förbättrad modell för
 41\. Styrkraft för lyckad integration. A.
-presumtionshyra. Ju.
 42\. Bildning, utbildning och delaktighet
-63\. Ökat informationsutbyte mellan
 – folkbildningspolitik i en ny tid. U.
-myndigheter. Behov och föreslagna
-43\. Staten och kommunsektorn förändringar. Ju.
+43\. Staten och kommunsektorn
 – samverkan, självstyrelse, styrning. Fi.
-64\. Motståndskraft i samhällsviktiga
-44\. Stärkt kontroll av fusk i livsmedels- tjänster. Fö.
+44\. Stärkt kontroll av fusk i livsmedels-
 kedjan. LI.
-65\. Kommuners och regioners grundläg-
-45\. Kompletterande bestämmelser till EU:s gande beredskap inför kris och krig. Fö.
+45\. Kompletterande bestämmelser till EU:s
 reviderade förordning om elektronisk
-66\. Livsviktigt lärande – fler vägar till
 identifiering. Fi.
-kunskap för att förebygga suicid. S.
 46\. Ny lag om internationella sanktioner.
-67\. Om ekonomiska styrmedel för en mer
 Genomförande av EU:s sanktions-
-cirkulär ekonomi. Fi.
 direktiv. UD.
-68\. Mottagandelagen. En ny lag
 47\. Digital myndighetspost. Fi.
-för ordnat asylmottagande
-48\. Ett ändamålsenligt samhällsskydd. och effektivt återvändande. Ju.
+48\. Ett ändamålsenligt samhällsskydd.
 Vissa reformer av straff- och
-69\. Ett nytt konsumentkreditdirektiv. Ju.
 straffverkställighetslagstiftningen.
-Volym 1 och 2. Ju.   70. Tiotandvård – ett förstärkt
-högkostnadsskydd för tandvård. S.
+Volym 1 och 2. Ju.
 49\. Arbetslöshetsförsäkringen vid störning,
-kris eller krig. A.  71. Reglering av hushållens skulder. Fi.
-50\. Nätt och jämnt. Likvärdighet och 72. Stärkt medicinsk kompetens
-effektivitet i kommunsektorn. Del 1 i kommunal hälso- och sjukvård. S.
+kris eller krig. A.
+50\. Nätt och jämnt. Likvärdighet och
+effektivitet i kommunsektorn. Del 1
 och 2. Fi.
 51\. En mer rättssäker och effektiv
 domstolsprocess. Ju.
@@ -14468,133 +14491,213 @@ S.
 och finansiering av terrorism.
 Volym 1 och 2. Fi.
 
+59\. Signalspaning i försvarsunderrättelse-
+verksamhet – en modern och ändamåls-
+enlig lagstiftning. Fö.
+60\. Stärkt stöd till anhöriga. Ett mer ända-
+målsenligt stöd till barn och vuxna som
+är anhöriga. S.
+61\. Effektivare kontrollmöjligheter
+i systemen för rot, rut, grön teknik
+och personalliggare. Fi.
+62\. En förbättrad modell för
+presumtionshyra. Ju.
+63\. Ökat informationsutbyte mellan
+myndigheter. Behov och föreslagna
+förändringar. Ju.
+64\. Motståndskraft i samhällsviktiga
+tjänster. Fö.
+65\. Kommuners och regioners grundläg-
+gande beredskap inför kris och krig. Fö.
+66\. Livsviktigt lärande – fler vägar till
+kunskap för att förebygga suicid. S.
+67\. Om ekonomiska styrmedel för en mer
+cirkulär ekonomi. Fi.
+68\. Mottagandelagen. En ny lag
+för ordnat asylmottagande
+och effektivt återvändande. Ju.
+69\. Ett nytt konsumentkreditdirektiv. Ju.
+70\. Tiotandvård – ett förstärkt
+högkostnadsskydd för tandvård. S.
+71\. Reglering av hushållens skulder. Fi.
+72\. Stärkt medicinsk kompetens
+i kommunal hälso- och sjukvård. S.
+
 <!-- sida 336 -->
 
-Statens offentliga utredningar  2024
+Statens  offentliga utredningar 2024
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Ett nytt regelverk mot penningtvätt
-Mål och mening med integration. [12] och finansiering av terrorism.
-Volym 1 och 2. [58]
+Arbetsmarknadsdepartementet
+Mål och mening med integration. [12]
 Arbetslivskriminalitet – myndighets-
-samverkan, en gemensam tipsfunktion, Effektivare kontrollmöjligheter i systemen
-lärdomar från Belgien och gränsöver- för rot, rut, grön teknik och personal-
-skridande arbete. [14] liggare. [61]
-Ett inkluderande jämställdhetspolitiskt Om ekonomiska styrmedel för en mer
-delmål mot våld. [21] cirkulär ekonomi. [67]
-Genomförande av       Reglering av hushållens skulder. [71]
+samverkan, en gemensam tipsfunktion,
+lärdomar från Belgien och gränsöver-
+skridande arbete. [14]
+Ett inkluderande jämställdhetspolitiskt
+delmål mot våld. [21]
+Genomförande av
 lönetransparensdirektivet. [40]
-Styrkraft för lyckad integration. [41] Försvarsdepartementet
-Arbetslöshetsförsäkringen vid störning, Nya regler om cybersäkerhet. [18]
-kris eller krig. [49] Signalspaning i försvarsunderrättelseverk-
-samhet – en modern och ändamålsenlig
-Finansdepartementet     lagstiftning. [59]
-Steg mot stärkt kapacitet. [6] Motståndskraft i samhällsviktiga tjänster.
-[64]
+Styrkraft för lyckad integration. [41]
+Arbetslöshetsförsäkringen vid störning,
+kris eller krig. [49]
+Finansdepartementet
+Steg mot stärkt kapacitet. [6]
 Maskinellt värde för vissa industribyggna-
-der – ett undantag från fastighetsskatt. Kommuners och regioners grundläggande
-[20]                  beredskap inför kris och krig. [65]
+der – ett undantag från fastighetsskatt.
+[20]
 En ny organisation för förvaltning
-av EU-medel. [22]   Justitiedepartementet
-Ett effektivt straffrättsligt skydd för Ett starkare skydd för offentliganställda
-statliga stöd till företag. [24] mot våld, hot och trakasserier. [1]
-Goda möjligheter till ökat välstånd. [29] Inskränkningarna i upphovsrätten. [4]
-Åtgärder mot mervärdesskatte- Förbättrad ordning och säkerhet
-bedrägerier. [32]     vid förvar. [5]
-Förenkla och förbättra! [36] Ett säkrare och mer tillgängligt
-fastighetsregister. [7]
+av EU-medel. [22]
+Ett effektivt straffrättsligt skydd för
+statliga stöd till företag. [24]
+Goda möjligheter till ökat välstånd. [29]
+Åtgärder mot mervärdesskatte-
+bedrägerier. [32]
+Förenkla och förbättra! [36]
 Förbättrade ränteavdragsregler för
-företag. [37]       Preskription av avlägsnandebeslut och
-vissa frågor om återreseförbud. [10]
+företag. [37]
 Staten och kommunsektorn – samverkan,
-självstyrelse, styrning. [43] En effektivare kontaktförbuds-
-lagstiftning – ett utökat skydd
+självstyrelse, styrning. [43]
 Kompletterande bestämmelser till EU:s
-för utsatta personer. [13]
 reviderade förordning om elektronisk
-identifiering. [45] Nya regler för arbetskraftsinvandring m.m.
-[15]
+identifiering. [45]
 Digital myndighetspost. [47]
-Kamerabevakning i offentlig
 Nätt och jämnt. Likvärdighet och
-verksamhet – lättnader och utökade
 effektivitet i kommunsektorn. Del 1
-möjligheter. [27]
 och 2. [50]
+
+Ett nytt regelverk mot penningtvätt
+och finansiering av terrorism.
+Volym 1 och 2. [58]
+Effektivare kontrollmöjligheter i systemen
+för rot, rut, grön teknik och personal-
+liggare. [61]
+Om ekonomiska styrmedel för en mer
+cirkulär ekonomi. [67]
+Reglering av hushållens skulder. [71]
+Försvarsdepartementet
+Nya regler om cybersäkerhet. [18]
+Signalspaning i försvarsunderrättelseverk-
+samhet – en modern och ändamålsenlig
+lagstiftning. [59]
+Motståndskraft i samhällsviktiga tjänster.
+[64]
+Kommuners och regioners grundläggande
+beredskap inför kris och krig. [65]
+Justitiedepartementet
+Ett starkare skydd för offentliganställda
+mot våld, hot och trakasserier. [1]
+Inskränkningarna i upphovsrätten. [4]
+Förbättrad ordning och säkerhet
+vid förvar. [5]
+Ett säkrare och mer tillgängligt
+fastighetsregister. [7]
+Preskription av avlägsnandebeslut och
+vissa frågor om återreseförbud. [10]
+En effektivare kontaktförbuds-
+lagstiftning – ett utökat skydd
+för utsatta personer. [13]
+Nya regler för arbetskraftsinvandring m.m.
+[15]
+Kamerabevakning i offentlig
+verksamhet – lättnader och utökade
+möjligheter. [27]
 En ändamålsenlig vapenlagstiftning.
 Del 1 och 2. [31]
 
 <!-- sida 337 -->
 
-Skärpta regler om ungdomsövervakning Animalieproduktion med hög konkurrens-
-och straffreduktion för unga. [39] kraft och gott djurskydd. [56].
+Skärpta regler om ungdomsövervakning
+och straffreduktion för unga. [39]
 Ett ändamålsenligt samhällsskydd.
-Vissa reformer av straff- och Socialdepartementet
+Vissa reformer av straff- och
 straffverkställighetslagstiftningen.
-Ett samordnat vaccinationsarbete – för
 Volym 1 och 2. [48]
-effektivare hantering av kommande
-En mer rättssäker och effektiv vacciner. Del 1 och 2. [2]
+En mer rättssäker och effektiv
 domstolsprocess. [51]
-En trygg uppväxt utan
-Allmänna sammankomster och Sveriges nikotin, alkohol och lustgas. [23]
+Allmänna sammankomster och Sveriges
 säkerhet. [52]
-En mer effektiv tillsyn över socialtjänsten.
-Stöd till invandrares utvandring. [53] [25]
-Vägar till ett tryggare samhälle. Åtgärder En utvärdering av förändringar i sjukför-
-för att motverka återfall i brott. [54] säkringens regelverk under 2021
-En översyn av 23 kap. brottsbalken. [55] och 2022. [26]
-En förbättrad modell för presumtionshyra. En statlig ordning med
-[62]                   brottsförebyggande åtgärder
-för barn och unga. [30]
+Stöd till invandrares utvandring. [53]
+Vägar till ett tryggare samhälle. Åtgärder
+för att motverka återfall i brott. [54]
+En översyn av 23 kap. brottsbalken. [55]
+En förbättrad modell för presumtionshyra.
+[62]
 Ökat informationsutbyte mellan myndig-
-heter. Behov och föreslagna föränd- Delad hälsodata – dubbel nytta.
-ringar. [63]           Regler för ökad interoperabilitet
-i hälso- och sjukvården. [33]
+heter. Behov och föreslagna föränd-
+ringar. [63]
 Mottagandelagen. En ny lag
-för ordnat asylmottagande Ett nytt regelverk för hälsodataregister.
-och effektivt återvändande. [68] [57]
-Ett nytt konsumentkreditdirektiv. [69] Stärkt stöd till anhöriga. Ett mer ända-
-målsenligt stöd till barn och vuxna
-som är anhöriga. [60]
+för ordnat asylmottagande
+och effektivt återvändande. [68]
+Ett nytt konsumentkreditdirektiv. [69]
 Klimat- och näringslivsdepartementet
-Livsviktigt lärande – fler vägar till kunskap
 Rätt frågor på regeringens bord – en
-för att förebygga suicid. [66]
 ändamålsenlig regeringsprövning på
-miljöområdet. [11]   Tiotandvård – ett förstärkt högkostnads-
-skydd för tandvård. [70]
+miljöområdet. [11]
 En ny beredskapssektor
-– för ökad försörjningsberedskap. [19] Stärkt medicinsk kompetens i kommunal
-hälso- och sjukvård. [72]
+– för ökad försörjningsberedskap. [19]
 Kulturdepartementet
-Utbildningsdepartementet
 Ett starkt judiskt liv för framtida
-generationer. Nationell strategi för att Utvecklat samarbete för verksamhets-
-stärka judiskt liv i Sverige 2025–2034. [3] förlagd utbildning – långsiktiga
-åtgärder för sjuksköterskeprogrammen.
+generationer. Nationell strategi för att
+stärka judiskt liv i Sverige 2025–2034. [3]
 Ansvar och oberoende
-[9]
 – public service i oroliga tider. [34]
-Växla yrke som vuxen – en reformerad
-vuxenutbildning och en ny yrkesskola
 Landsbygds- och infrastrukturdepartementet
-för vuxna. [16]
 Livsmedelsberedskap för en ny tid. [8]
-Skolor mot brott. [17]
 En framtid för alm och ask
-Offentlighetsprincipen eller insynslag.
 – förädling, forskning och finansiering.
-Allmänhetens insyn i enskilda aktörer
 [35]
-inom skolväsendet. [28]
 Digitala fastighetsköp & Förköpsrätt vid
-Bildning, utbildning och delaktighet
 fastighetstransaktioner. [38]
-– folkbildningspolitik i en ny tid. [42]
 Stärkt kontroll av fusk i livsmedelskedjan.
 [44].
+
+Animalieproduktion med hög konkurrens-
+kraft och gott djurskydd. [56].
+
+Socialdepartementet
+Ett samordnat vaccinationsarbete – för
+effektivare hantering av kommande
+vacciner. Del 1 och 2. [2]
+En trygg uppväxt utan
+nikotin, alkohol och lustgas. [23]
+En mer effektiv tillsyn över socialtjänsten.
+[25]
+En utvärdering av förändringar i sjukför-
+säkringens regelverk under 2021
+och 2022. [26]
+En statlig ordning med
+brottsförebyggande åtgärder
+för barn och unga. [30]
+Delad hälsodata – dubbel nytta.
+Regler för ökad interoperabilitet
+i hälso- och sjukvården. [33]
+Ett nytt regelverk för hälsodataregister.
+[57]
+Stärkt stöd till anhöriga. Ett mer ända-
+målsenligt stöd till barn och vuxna
+som är anhöriga. [60]
+Livsviktigt lärande – fler vägar till kunskap
+för att förebygga suicid. [66]
+Tiotandvård – ett förstärkt högkostnads-
+skydd för tandvård. [70]
+Stärkt medicinsk kompetens i kommunal
+hälso- och sjukvård. [72]
+Utbildningsdepartementet
+Utvecklat samarbete för verksamhets-
+förlagd utbildning – långsiktiga
+åtgärder för sjuksköterskeprogrammen.
+[9]
+Växla yrke som vuxen – en reformerad
+vuxenutbildning och en ny yrkesskola
+för vuxna. [16]
+Skolor mot brott. [17]
+Offentlighetsprincipen eller insynslag.
+Allmänhetens insyn i enskilda aktörer
+inom skolväsendet. [28]
+Bildning, utbildning och delaktighet
+– folkbildningspolitik i en ny tid. [42]
 
 <!-- sida 338 -->
 

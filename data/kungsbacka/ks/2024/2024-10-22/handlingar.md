@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.518b0d32192711cc07ec6a5a/1729079545
 sha256: 745d404a73a73f2c5cbfee31405be9063507e458218e4e978112a73fd74c1462
 bytes: 140982836
 sidor: 462
-hamtad: 2026-10-24T08:01:06+00:00
-konverterad: 2026-10-24T08:08:11+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T22:34:49+00:00
+konverterad: 2026-11-06T22:44:45+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1890,43 +1890,35 @@ INVESTERING OCH EXPLOATERING
 
 Lokaler        och     boenden
 
-Kungsbacka kommun är en attraktiv kommun, geo- egna lokaler och genom inhyrda lokaler. I genomförande-
-grafiskt placerad i en av Sveriges starkaste tillväxt- och fasen utför vi lokalprojekt för att omsätta behov till färdig
-arbetsmarknadsregioner. Antalet invånare förändras lokal.
+Kungsbacka kommun är en attraktiv kommun, geo-
+grafiskt placerad i en av Sveriges starkaste tillväxt- och
+arbetsmarknadsregioner. Antalet invånare förändras
 årligen och kommunen behöver nya lokaler för att möta
-behovet utifrån befolkningsförändringarna. Det övergripande målet med lokalförsörjningen är att nå
-en god ekonomisk hushållning med lokaler och service och
-Kommunen har en omfattande verksamhet som vi därmed kunna frigöra resurser till kommunens kärn-
-bedriver i olika lokaler. Dessutom förmedlar kommunen verksamheter. Det leder i förlängningen till ett effektivt
-olika slags boenden för grupper i samhället som har svårt lokalutnyttjande och lägre kostnader totalt sett för hela
-att få bostad på vanligt sätt eller fått biståndsbeslut. Det kommunen.
+behovet utifrån befolkningsförändringarna.
+
+Kommunen har en omfattande verksamhet som vi
+bedriver i olika lokaler. Dessutom förmedlar kommunen
+olika slags boenden för grupper i samhället som har svårt
+att få bostad på vanligt sätt eller fått biståndsbeslut. Det
 kan handla om boenden för äldre, personer med funk-
-tionsnedsättning, nyanlända samt socialt utsatta personer. Handläggningen av lokalbehoven behöver ske enligt
-Kommunen både äger och hyr in lokaler och boenden. nedanstående principer:
+tionsnedsättning, nyanlända samt socialt utsatta personer.
+Kommunen både äger och hyr in lokaler och boenden.
 
-Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lokalbehoven enligt lokalförsörj-
-"Kommunen ska genom aktiv lokalförsörjning tillhanda- ningsprocessens olika steg för effektiv hantering.
-hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings-
-lokaler över tiden".                principen i fallande ordning:
+Kommunfullmäktige har antagit följande lokalpolicy:
+"Kommunen ska genom aktiv lokalförsörjning tillhanda-
+hålla och bibehålla ändamålsenliga och kostnadseffektiva
+lokaler över tiden".
 
-1\. L okalbehov som inte är lagstyrd verksamhet
 Varje år beslutar nämnderna om hur de bedömer
-och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
-höjningar i befintliga lokaler har lägst
-på befolkningsprognoser och lokalprognoser. Det är prioritet.
+på befolkningsprognoser och lokalprognoser. Det är
 kommunens lokalstyrgrupp som sammanställer behoven
-2\. Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
-medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-3\. L okalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av kom-
-lingar och som ger minskade driftskostna-
 munens flerårsbudget. Det är kommunfullmäktige som
-der samt lokalbehov på grund av volymut-
-beslutar om lokalplanen.                  ökningar inom befintliga områden har högst
-prioritet.
+beslutar om lokalplanen.
+
 Lokalförsörjningsprocessen
 Vi handlägger samtliga lokalbehov enligt den så kallade
 lokalförsörjningsprocessen som inleds med en lokalplane-
@@ -1934,70 +1926,152 @@ ringsfas. Det gör vi för en enhetlig och tydlig hantering.
 Handläggningen av lokalbehov ska vara gemensam
 för kommunens samtliga nämnder och vi ska använda
 processen för behov som innebär behov av investeringar i
+
+egna lokaler och genom inhyrda lokaler. I genomförande-
+fasen utför vi lokalprojekt för att omsätta behov till färdig
+lokal.
+
+Det övergripande målet med lokalförsörjningen är att nå
+en god ekonomisk hushållning med lokaler och service och
+därmed kunna frigöra resurser till kommunens kärn-
+verksamheter. Det leder i förlängningen till ett effektivt
+lokalutnyttjande och lägre kostnader totalt sett för hela
+kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt
+nedanstående principer:
+
+• Vi ska omhänderta lokalbehoven enligt lokalförsörj-
+ningsprocessens olika steg för effektiv hantering.
+• Vi ska prioritera utifrån den så kallade Prioriterings-
+principen i fallande ordning:
+
+1\. L okalbehov som inte är lagstyrd verksamhet
+och lokalbehov som utgörs av kvalitets-
+höjningar i befintliga lokaler har lägst
+prioritet.
+2\. Lokalbehov på grund av ny exploatering har
+medel prioritet.
+3\. L okalbehov som beror på strukturomvand-
+lingar och som ger minskade driftskostna-
+der samt lokalbehov på grund av volymut-
+ökningar inom befintliga områden har högst
+prioritet.
+
 Lokalplanering        Genomförande
+
 Behov     Insamling Förstudie Projektering Genomför- Avslut
-& utredning                    ande
+& utredning                     ande
 Behovsfas
+
 Kommunbudget 2025 och plan 2026–2027 45
 
 <!-- sida 44 -->
 
 INVESTERING OCH EXPLOATERING
 
-• Vi ska välja lokallösningar utifrån lokaleffektivitet lokalplanen får startas upp om de understiger 25 miljoner
-enligt den så kallade Fyrstegsmodellen1. Modellen kronor i investeringsbelopp. För behov som överstiger 25
-innebär att vi ska välja och överväga lokallösningar miljoner kronor eller är av särskild principiell karaktär ska
-enligt följande prioriteringsordning: kommunstyrelsen besluta om igångsättning. Motsvarande
-1\. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
-2\. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
-kapacitet i befintliga lokaler en investering av 25 miljoner kronor.
+• Vi ska välja lokallösningar utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen1. Modellen
+innebär att vi ska välja och överväga lokallösningar
+enligt följande prioriteringsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende till ledig
+kapacitet i befintliga lokaler
 3\. Bygga om eller till befintliga lokaler
-4\. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
-• Vi ska föreslå och välja lokallösningar utifrån att detta som en hyra av hyresgästen. Behovsanalyserna bekos-
-”Minska behovet av att bygga nytt genom att sam- tar nämnderna inom sin driftsbudget. Investeringsprojekt
-utnyttja och bygga mer flexibelt” vilket innebär att som inte resulterar i en investering går på den beställande
-lokaler eller lokaldelar så långt det är möjligt planeras nämndens driftsbudget.
+4\. Bygga nya lokaler
+• Vi ska föreslå och välja lokallösningar utifrån att
+”Minska behovet av att bygga nytt genom att sam-
+utnyttja och bygga mer flexibelt” vilket innebär att
+lokaler eller lokaldelar så långt det är möjligt planeras
 för att kunna samnyttjas och användas för flera
-ändamål.                        I samband med kommunens investering i nya lokaler
-• Vi ska genomföra investeringar i egenägda lokaler om avsätter vi en procent av byggnadens byggutgift till
-verksamheten har ett långsiktigt lokalbehov. konstnärlig utsmyckning. Från och med Kommunbudget
-• Vi ska pröva inhyrning som ett alternativ till att äga 2026 avsätter vi 0,5 procent. Med byggutgift menar vi den
-fastigheter. Vi ska välja det om det råder osäkerhet om del av projektkostnaden som omfattar uppförande av en
-verksamhetens framtida innehåll och eller omfattning. byggnad exklusive markförvärv, projektering, markarbe-
-Vi ska också ta hänsyn till hur lång tid behovet finns ten, installationer och byggherrekostnader. Nämnden för
-eller om vi saknar investeringsmedel för egna investe- Kultur & Fritid får ansvaret att upphandla och besluta om
-ringar.                         den konstnärliga utsmyckningen. Kommunen avsätter
-• Vi ska arbeta med lokalförsörjning genom ett tätt ett särskilt belopp som kan fördelas olika mellan de
-samarbete med berörda förvaltningar. lokaler som byggs. Det innebär att det inte alltid blir den
-procentuella avsättningen i konstgestaltning per lokal utan
+ändamål.
+• Vi ska genomföra investeringar i egenägda lokaler om
+verksamheten har ett långsiktigt lokalbehov.
+• Vi ska pröva inhyrning som ett alternativ till att äga
+fastigheter. Vi ska välja det om det råder osäkerhet om
+verksamhetens framtida innehåll och eller omfattning.
+Vi ska också ta hänsyn till hur lång tid behovet finns
+eller om vi saknar investeringsmedel för egna investe-
+ringar.
+• Vi ska arbeta med lokalförsörjning genom ett tätt
+samarbete med berörda förvaltningar.
+
 Lokalbehov 2025–2029
-det kan variera mellan olika lokaler.. Detta gäller bara
-Nämnderna i Kungsbacka kommun har lämnat in bostads- byggnaderna. Vid investeringar i infrastruktur som till
-och lokalbehov för perioden 2025–2029 med utblicksår exempel gator och vägar så tar vi ställning till konstnärlig
-2030–2034. Nämndernas beslutade behov uttrycks i utsmyckning i varje enskilt projekt. Detsamma gäller i de
-volymmått, till exempel antal platser, antal elever eller fall kommunen hyr in lokal från externa fastighetsägare.
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2025–2029 med utblicksår
+2030–2034. Nämndernas beslutade behov uttrycks i
+volymmått, till exempel antal platser, antal elever eller
 antal förskolebarn. Lokalgruppen bearbetar och bedömer
-Återbruk av inventarier
 kostnader utifrån nyckeltal framtagna av förvaltningen för
-Service avseende investeringsutgifter och driftskostnader. I lokalplanen avsätter vi även budget för inventarier (lös
-Vi tar fram lokalplanen utifrån ett planerings- och inredning och utrustning). Det kan till exempel vara
-genomförandeperspektiv samt med utgångspunkt i ovan budget för möbler, växter och AV-utrustning för de
-nämnda principer.                 förändrade lokalbehoven. Kommunfullmäktiges mål
-om En hållbar utveckling och en hälsosam miljö anger
-Nya hyror för lokalinvesteringar samt inhyrda boenden att Kungsbacka ska verka för ett fossilfritt och cirkulärt
-budgeteras centralt och nämnden får en ram motsvarande samhälle. Detta avspeglas genom ökat fokus på återbruk av
-80 procent av hyran när lokalen är klar att börjar användas. inventarier vilket innebär att budgeten för nyinvesteringar
-Resterande 20 procent finansieras inom respektive nämnds minskar eftersom samtliga nämnder förväntas bidra till
-ram. Nämnderna får ingen ramtilldelning för verksam- att återbruka inventarier som redan finns i kommunen.
-hetsanpassning av lokaler.        Dessutom förväntar vi oss att inköp av återbruk från
-externa leverantörer ökar under planeringsperioden, vilket
-Investeringsbudget och hyresmedel för lokaler och också bidrar till att investeringsbudgeten för inventarier
-boenden tillhör kommunstyrelsen och kommunstyrelsen kan reduceras. Kommunfullmäktiges mål påverkar också
-kan justera mellan olika lokalprojekt under året. arbetet med återbruk av byggmaterial och än så länge i
-Behov som ska lösas genom egen investering enligt första hand avseende rivnings- och ombyggnadsprojekt.
+Service avseende investeringsutgifter och driftskostnader.
+Vi tar fram lokalplanen utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
+Nya hyror för lokalinvesteringar samt inhyrda boenden
+budgeteras centralt och nämnden får en ram motsvarande
+80 procent av hyran när lokalen är klar att börjar användas.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Nämnderna får ingen ramtilldelning för verksam-
+hetsanpassning av lokaler.
+
+Investeringsbudget och hyresmedel för lokaler och
+boenden tillhör kommunstyrelsen och kommunstyrelsen
+kan justera mellan olika lokalprojekt under året.
+Behov som ska lösas genom egen investering enligt
 1 Modellen är antagen av nämnden för Service 2015-06-07
 (Dnr SE/2015:82).
 46 Kommunbudget 2025 och plan 2026–2027
+
+lokalplanen får startas upp om de understiger 25 miljoner
+kronor i investeringsbelopp. För behov som överstiger 25
+miljoner kronor eller är av särskild principiell karaktär ska
+kommunstyrelsen besluta om igångsättning. Motsvarande
+igångsättningsbeslut krävs för de behov som ska lösas
+genom inhyrning enligt lokalplanen där hyran motsvarar
+en investering av 25 miljoner kronor.
+
+Nämnden för Service betalar kapitalkostnaden och tar ut
+detta som en hyra av hyresgästen. Behovsanalyserna bekos-
+tar nämnderna inom sin driftsbudget. Investeringsprojekt
+som inte resulterar i en investering går på den beställande
+nämndens driftsbudget.
+
+I samband med kommunens investering i nya lokaler
+avsätter vi en procent av byggnadens byggutgift till
+konstnärlig utsmyckning. Från och med Kommunbudget
+2026 avsätter vi 0,5 procent. Med byggutgift menar vi den
+del av projektkostnaden som omfattar uppförande av en
+byggnad exklusive markförvärv, projektering, markarbe-
+ten, installationer och byggherrekostnader. Nämnden för
+Kultur & Fritid får ansvaret att upphandla och besluta om
+den konstnärliga utsmyckningen. Kommunen avsätter
+ett särskilt belopp som kan fördelas olika mellan de
+lokaler som byggs. Det innebär att det inte alltid blir den
+procentuella avsättningen i konstgestaltning per lokal utan
+det kan variera mellan olika lokaler.. Detta gäller bara
+byggnaderna. Vid investeringar i infrastruktur som till
+exempel gator och vägar så tar vi ställning till konstnärlig
+utsmyckning i varje enskilt projekt. Detsamma gäller i de
+fall kommunen hyr in lokal från externa fastighetsägare.
+
+Återbruk av inventarier
+I lokalplanen avsätter vi även budget för inventarier (lös
+inredning och utrustning). Det kan till exempel vara
+budget för möbler, växter och AV-utrustning för de
+förändrade lokalbehoven. Kommunfullmäktiges mål
+om En hållbar utveckling och en hälsosam miljö anger
+att Kungsbacka ska verka för ett fossilfritt och cirkulärt
+samhälle. Detta avspeglas genom ökat fokus på återbruk av
+inventarier vilket innebär att budgeten för nyinvesteringar
+minskar eftersom samtliga nämnder förväntas bidra till
+att återbruka inventarier som redan finns i kommunen.
+Dessutom förväntar vi oss att inköp av återbruk från
+externa leverantörer ökar under planeringsperioden, vilket
+också bidrar till att investeringsbudgeten för inventarier
+kan reduceras. Kommunfullmäktiges mål påverkar också
+arbetet med återbruk av byggmaterial och än så länge i
+första hand avseende rivnings- och ombyggnadsprojekt.
 
 <!-- sida 45 -->
 
@@ -2014,12 +2088,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -2030,30 +2105,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 46 -->
@@ -2102,57 +2179,46 @@ Foto: Emelie Asplund
 
 <!-- sida 47 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -2164,6 +2230,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 48 -->
@@ -2188,29 +2297,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -2229,7 +2342,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -2243,24 +2357,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -2271,31 +2395,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -2304,6 +2427,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 51 -->
@@ -2311,27 +2446,36 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53
 
@@ -7820,22 +7964,37 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 205 -->
 
-1.2    U  ppgifter      om    företagets         elnät
+1.2   U  ppgifter       om    företagets        elnät
 
-Ellevios elnät består av 17 delområden Ellevio har i nätutvecklingsplanen delat upp sitt elnät
-Ellevio har nästan en miljon kunder och är ett av Sveriges i 17 delområden. Valet av delområden har grundat sig
-största energiföretag. Det innebär att vi spelar en mycket i en elektrisk uppdelning av nätet. Varje delområde är en
-viktig roll för elektrifieringen och Sveriges klimatomställning. avgränsad och sammanhängande del av elnätet med gräns-
-Vi äger och driver drygt 8 360 mil elnät runt om i landet, punkter mot överliggande och/eller underliggande elnät
+Ellevios elnät består av 17 delområden
+Ellevio har nästan en miljon kunder och är ett av Sveriges
+största energiföretag. Det innebär att vi spelar en mycket
+viktig roll för elektrifieringen och Sveriges klimatomställning.
+Vi äger och driver drygt 8 360 mil elnät runt om i landet,
+vilket omfattar både region- och lokalnät.
+Föreskrifterna (EIFS 2024:1) om nätutvecklingsplaner
 
-vilket omfattar både region- och lokalnät. som ägs av annan aktör. Denna uppdelning har gjorts för
-Föreskrifterna (EIFS 2024:1) om nätutvecklingsplaner att möjliggöra en så bra beskrivning av kapacitets situationen
-samt medföljande handbok ger nätbolagen en möjlighet att som möjligt. Våra delområden sammanfaller i många fall
-dela upp sina elnät i delområden. Syftet med en indelning med antingen läns- eller kommun gränser men avvikelser från
-i delområden kan vara att redogöra för delar av nätutveck- dessa finns på grund av elnätets uppbyggnad.
-lingsplanen på ett mer detaljerat sätt, som exempelvis prog- En sammanställning av Ellevios delområden finns nedan
-nos för behov av överföringskapacitet och de planerade och respektive delområde beskrivs ytterligare på kom-
-investeringar som medverkar till kapacitetsförstärkningar. mande sidor.
+samt medföljande handbok ger nätbolagen en möjlighet att
+dela upp sina elnät i delområden. Syftet med en indelning
+i delområden kan vara att redogöra för delar av nätutveck-
+lingsplanen på ett mer detaljerat sätt, som exempelvis prog-
+nos för behov av överföringskapacitet och de planerade
+investeringar som medverkar till kapacitetsförstärkningar.
+
+Ellevio har i nätutvecklingsplanen delat upp sitt elnät
+i 17 delområden. Valet av delområden har grundat sig
+i en elektrisk uppdelning av nätet. Varje delområde är en
+avgränsad och sammanhängande del av elnätet med gräns-
+punkter mot överliggande och/eller underliggande elnät
+som ägs av annan aktör. Denna uppdelning har gjorts för
+att möjliggöra en så bra beskrivning av kapacitets situationen
+
+som möjligt. Våra delområden sammanfaller i många fall
+med antingen läns- eller kommun gränser men avvikelser från
+dessa finns på grund av elnätets uppbyggnad.
+En sammanställning av Ellevios delområden finns nedan
+och respektive delområde beskrivs ytterligare på kom-
+mande sidor.
 
 NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 3
 
@@ -8278,54 +8437,95 @@ NÄTUTVECKLINGSPLAN 2025–2034: UPPGIFTER OM FÖRETAGET OCH FÖRETAGETS ELNÄT 
 
 <!-- sida 216 -->
 
-2   Behovet          av    överföringsk              apacitet
+2   Behovet          av    överföringsk             apacitet
 
 i elnätet
 
-2.1    Redogörelse           för   företagets
+2.1   Redogörelse            för   företagets
 
 prognosarbete
 
-Gemensam bild genom olika forum     från denna typ av rapporter. Det finns idag ett gap där
-Ellevio har i arbetet med nätutvecklingsplanerna och dessa rapporter fokuserar på energianvändning (enhet
-med prognosarbetet för behov av överföringskapacitet MWh) i stora om råden medan prognoser som krävs för
-sam ar betat med andra elnätsbolag i diverse forum och nätutvecklingsplanens syfte har ett fokus på effekt (enhet
-konstellationer. Ellevio har deltagit i bland annat: MW) och kapacitet samt ställer högre krav på geografisk
-• Energiforsk-projekten ”Branschgemensamma verktyg för detaljeringsgrad. Detta gör det utmanande att inkorporera
+Gemensam bild genom olika forum
+Ellevio har i arbetet med nätutvecklingsplanerna och
+med prognosarbetet för behov av överföringskapacitet
+sam ar betat med andra elnätsbolag i diverse forum och
+konstellationer. Ellevio har deltagit i bland annat:
+• Energiforsk-projekten ”Branschgemensamma verktyg för
+effektprognoser på lokalnätsnivå” och ”Digitalisering och
 
-effektprognoser på lokalnätsnivå” och ”Digitalisering och till prognosmodeller för kapacitetsbehov. Däremot används
-automatisering av underlag för nätutvecklingsplaner”, rapporter likt dessa som valideringsunderlag till att Ellevios
-• Energiföretagens arbetsgrupp för nätutvecklingsplaner, prognos resultat följer liknande trender och uppvisar samma
-• Prognossamverkan DSO och TSO (Svk initiativtagare), drivkrafter till tillväxt.
-• Avstämningar med andra elnätsbolag under arbetets gång. Ellevios nuvarande metod för att prognostisera framtida
-behov av överförings kapacitet utgår i stora drag från fyra
-De olika forumen har gett nätbolagen en gemensam bild olika delar som beskrivs mer nedan, nämligen:
-dels av vad nätutvecklingsplanen innebär, dels hur behovet • Utveckling av borgerlig last,
-av överföringskapacitet kan prognostiseras utifrån en • Punktlaster och större produktionsförfrågningar,
-branschgemensam metodik. Ellevio har tagit med sig lär- • Behov av laddinfrastruktur för personbilar (hemmal addning),
-domar och inspiration från forumen som har tillämpats • Underliggande elnätsbolags prognostiserade effektbehov.
+automatisering av underlag för nätutvecklingsplaner”,
+• Energiföretagens arbetsgrupp för nätutvecklingsplaner,
+• Prognossamverkan DSO och TSO (Svk initiativtagare),
+• Avstämningar med andra elnätsbolag under arbetets gång.
+
+De olika forumen har gett nätbolagen en gemensam bild
+dels av vad nätutvecklingsplanen innebär, dels hur behovet
+av överföringskapacitet kan prognostiseras utifrån en
+branschgemensam metodik. Ellevio har tagit med sig lär-
+domar och inspiration från forumen som har tillämpats
 i prognosarbetet vilket beskrivs mer nedan.
+Ellevio arbetar kontinuerligt med att utvärdera och för-
 
-Ellevio arbetar kontinuerligt med att utvärdera och för- En viktig del i prognosarbetet är att ta fram ett representativt
-bättra progno smodeller, informationsdelning och prognos- effektbehov för dagens behov, dvs ett startvärde från vilket
-underlag för att prognosen över framtidens effektbehov prognosen ska utgå ifrån. Start värdet utgår från historisk
-ska vara så träffsäker som möjligt. Det pågår också en elförbrukning och elproduktion i Ellevios elnät. Elförbrukning
-kont inuerlig dialog med överliggande nätbolag, som Svk, har i många fall en hög korrelation till temperatur, varför den
-om deras kommande planer och projekt som kan komma historiska förbrukningen den rådande timmen justeras till vad
-att påverka effektsituationen och tillgängliggöra en högre lasten borde varit vid en dimensionerande temperatur1.
-effekt till Ellevios elnät. Detta ses som viktiga byggstenar i Denna metod är i linje med den som tagits fram i
-vår långsiktiga nätplanering och viktiga framgångsfaktorer Energi forsk-projektet ”Branschgemensamma verktyg för
-i arbetet mot att arbeta mer proaktivt och vara en möjlig- effektprognoser på lokalnätsnivå”. Metoden är dock inte
-görare i samhällets elektrifiering. fullt ut implementerad i alla delområden ännu, men det är
-Föreskrifterna (EIFS 2024:1) om nätutvecklingsplaner ett pågående utvecklingsarbete. För dessa delområden
-säger att nätbolagen ska redogöra för hur den långsiktiga saknas temperatur justering och den faktiska elförbrukningen
+bättra progno smodeller, informationsdelning och prognos-
+underlag för att prognosen över framtidens effektbehov
+ska vara så träffsäker som möjligt. Det pågår också en
+kont inuerlig dialog med överliggande nätbolag, som Svk,
+om deras kommande planer och projekt som kan komma
+att påverka effektsituationen och tillgängliggöra en högre
+effekt till Ellevios elnät. Detta ses som viktiga byggstenar i
+vår långsiktiga nätplanering och viktiga framgångsfaktorer
+i arbetet mot att arbeta mer proaktivt och vara en möjlig-
+görare i samhällets elektrifiering.
+Föreskrifterna (EIFS 2024:1) om nätutvecklingsplaner
+säger att nätbolagen ska redogöra för hur den långsiktiga
+förväntade utvecklingen av det svenska energisystemet
 
-förväntade utvecklingen av det svenska energisystemet vid topplasttimmen används i stället som startvärde. Läs
-beaktats i prognosarbetet. Vägledningen hänvisar till bland gärna mer om just denna metod och tips på hur man kan
-andra Energimyndighetens Scenarier över Sveriges prognostisera andra aspekter av effektbehov i projektets
-energi system, Svk:s Långsiktiga Marknadsanalys samt lathund: https://energiforsk.se/program/elnatens-hallbara-
-Sveriges integrerade nationella energi- och klimatplan. I teknikutveckling-och-digitalisering/rapporter/effektprognos-
-dags läget tar Ellevio inget direkt underlag till prognoserna en-lathund-for-lokalnatsbolag/
+beaktats i prognosarbetet. Vägledningen hänvisar till bland
+andra Energimyndighetens Scenarier över Sveriges
+energi system, Svk:s Långsiktiga Marknadsanalys samt
+Sveriges integrerade nationella energi- och klimatplan. I
+dags läget tar Ellevio inget direkt underlag till prognoserna
+
+från denna typ av rapporter. Det finns idag ett gap där
+dessa rapporter fokuserar på energianvändning (enhet
+MWh) i stora om råden medan prognoser som krävs för
+nätutvecklingsplanens syfte har ett fokus på effekt (enhet
+MW) och kapacitet samt ställer högre krav på geografisk
+detaljeringsgrad. Detta gör det utmanande att inkorporera
+till prognosmodeller för kapacitetsbehov. Däremot används
+
+rapporter likt dessa som valideringsunderlag till att Ellevios
+prognos resultat följer liknande trender och uppvisar samma
+drivkrafter till tillväxt.
+Ellevios nuvarande metod för att prognostisera framtida
+behov av överförings kapacitet utgår i stora drag från fyra
+olika delar som beskrivs mer nedan, nämligen:
+• Utveckling av borgerlig last,
+• Punktlaster och större produktionsförfrågningar,
+• Behov av laddinfrastruktur för personbilar (hemmal addning),
+• Underliggande elnätsbolags prognostiserade effektbehov.
+
+En viktig del i prognosarbetet är att ta fram ett representativt
+
+effektbehov för dagens behov, dvs ett startvärde från vilket
+prognosen ska utgå ifrån. Start värdet utgår från historisk
+elförbrukning och elproduktion i Ellevios elnät. Elförbrukning
+har i många fall en hög korrelation till temperatur, varför den
+historiska förbrukningen den rådande timmen justeras till vad
+lasten borde varit vid en dimensionerande temperatur1.
+Denna metod är i linje med den som tagits fram i
+Energi forsk-projektet ”Branschgemensamma verktyg för
+effektprognoser på lokalnätsnivå”. Metoden är dock inte
+fullt ut implementerad i alla delområden ännu, men det är
+ett pågående utvecklingsarbete. För dessa delområden
+saknas temperatur justering och den faktiska elförbrukningen
+vid topplasttimmen används i stället som startvärde. Läs
+
+gärna mer om just denna metod och tips på hur man kan
+prognostisera andra aspekter av effektbehov i projektets
+lathund: https://energiforsk.se/program/elnatens-hallbara-
+teknikutveckling-och-digitalisering/rapporter/effektprognos-
+en-lathund-for-lokalnatsbolag/
 
 1 Taget från Kraftbalansen på den svenska elmarknaden, rapport 2023 (svk.se)
 
@@ -8333,46 +8533,89 @@ NÄTUTVECKLINGSPLAN 2025–2034: BEHOVET AV ÖVERFÖRINGSKAPACITET I ELNÄTET 14
 
 <!-- sida 217 -->
 
-Utveckling av borgerlig last        Planerna för större punktlast- och produktionsanläggningar
-För att prognostisera utvecklingen av borgerlig last i våra har sedan i olika grad bidragit till det prognostiserade
-olika delområden för Ellevio en kontinuerlig dialog med de behovet av överföringskapacitet utifrån en kvalitativ
-kommuner där vi äger elnät för att hålla oss uppdaterade bedömning av mognadsgrad i processen samt historisk
-om kommunernas planer. För att komplettera tidigare känd information om liknande anslutningar. Denna bedömning
-information tar Ellevio i samband med nätutvecklingsplanerna är nödvändig då det ofta inkommer dubbelbokningar, dvs
-ett krafttag för att nå ut till samtliga kommuner där Ellevio att aktörer ansöker om anslutning i flera delar av nätet för
-äger en större del av lokalnätet. Dessa kommuner tillfrågas samma anslutning, att inkommande ansökningar i slutändan
-om kommande exploaterings- och näringslivsplaner utifrån inte realiseras till en anslutning samt att många av de
-förväntad omfattning, lokalisering och tidsplan. Kommunerna anslutningar som faktiskt blir av inte nyttjar det ansökta
+Utveckling av borgerlig last
+För att prognostisera utvecklingen av borgerlig last i våra
+olika delområden för Ellevio en kontinuerlig dialog med de
+kommuner där vi äger elnät för att hålla oss uppdaterade
+om kommunernas planer. För att komplettera tidigare känd
+information tar Ellevio i samband med nätutvecklingsplanerna
+ett krafttag för att nå ut till samtliga kommuner där Ellevio
 
-får möjlighet att fylla i ett förväntat, uppskattat effektbehov effektbehovet.
-för respektive plan. Då detta kan vara osäkra uppgifter och Via kontinuerlig dialog samt deltagande i ett antal
-svåra att bedöma ges också möjligheten att rapportera regionala samverkans forum följer Ellevio regioners och läns-
-exempelvis planer för småhus i enheten antal, eller planer styrelsers framtida planer, ambitioner och planerade utveck-
-för flerbostadshus i antal lägenheter eller kvm BTA (brutto- ling. Denna information används indirekt som validering
-totalarea). Dessa uppgifter omräknas sedan till ett uppskattat och verifiering av de prognoser som görs och hur sannolikt
-effektbehov med hjälp av effektschabloner och samman- prognosu tfallet är, men i dagsläget används inga datapunkter
-lagringsfaktorer samt SCB:s befolkningsprognoser.2,3 eller information direkt i prognos modeller eller metod.
-Den prognosmetod som används är i linje med den metod För att kunna göra en så bra bedömning som möjligt av
-som tagits fram i Energiforsk-projektet ”Bransch gemensamma det framtida behovet av överföringskapacitet för större punkt-
-verktyg för effektprognoser på lokalnätsnivå” som refererats laster och produktionsförfrågningar krävs en öppen och
-till ovan.                          trans parent dialog om den mest sannolika utvecklingen.
+äger en större del av lokalnätet. Dessa kommuner tillfrågas
+om kommande exploaterings- och näringslivsplaner utifrån
+förväntad omfattning, lokalisering och tidsplan. Kommunerna
+får möjlighet att fylla i ett förväntat, uppskattat effektbehov
+för respektive plan. Då detta kan vara osäkra uppgifter och
+svåra att bedöma ges också möjligheten att rapportera
+exempelvis planer för småhus i enheten antal, eller planer
+för flerbostadshus i antal lägenheter eller kvm BTA (brutto-
+totalarea). Dessa uppgifter omräknas sedan till ett uppskattat
+effektbehov med hjälp av effektschabloner och samman-
+lagringsfaktorer samt SCB:s befolkningsprognoser.2,3
+Den prognosmetod som används är i linje med den metod
 
-Punktlaster och större produktionsanläggningar Behov av laddinfrastruktur för personbilar
-Punktlaster och produktionsanläggningar innefattar de (hemmaladdning)
-större planerna som inte faller under kategorin utveckling Ellevio har en prognosmodell som prognostiserar det
-av borgerlig last. Detta kan exempelvis vara anslutning fram tida behovet av överföringskapacitet gällande per-
-av ny eller utökning av befintlig industri, vindkrafts- och sonbilsladdning med fokus på hemma laddning. Publik
-solcellsparker, data- och serverhallar samt elektrifiering av laddning, snabbladdare och depåer behandlas i dagsläget
-logistikcentrum som lastbilsdepåer eller hamnar. Punktlaster enligt avsnittet ovan om punktlaster och större produktions-
-och produktionsförfrågningar som tas med i prognosen är anläggningar.
-generellt sett större än 1 MW.       Prognosmodellen för personbilar utgår ifrån det prognos-
-För att prognostisera behovet av överföringskapacitet för tiserade totala antalet bilar, prognostiserad andel av elbilar,
-punktlaster och större produktionsförfrågningar har Ellevio körmönster samt en laddprofil baserat på att man börjar
-samlat information från:            ladda på eftermiddagen direkt vid hemkomst från arbetet.
-• Ansökningsprocessen,              Det prognostiserade behovet av effekt vid topplasttimmen
+som tagits fram i Energiforsk-projektet ”Bransch gemensamma
+verktyg för effektprognoser på lokalnätsnivå” som refererats
+till ovan.
 
-• Kund- och områdesdialog,          adderas sedan till det totala prognostiserade behovet av
-• Inskickade planer från kommuner.  överföringskapacitet.
+Punktlaster och större produktionsanläggningar
+Punktlaster och produktionsanläggningar innefattar de
+större planerna som inte faller under kategorin utveckling
+av borgerlig last. Detta kan exempelvis vara anslutning
+av ny eller utökning av befintlig industri, vindkrafts- och
+solcellsparker, data- och serverhallar samt elektrifiering av
+logistikcentrum som lastbilsdepåer eller hamnar. Punktlaster
+och produktionsförfrågningar som tas med i prognosen är
+generellt sett större än 1 MW.
+
+För att prognostisera behovet av överföringskapacitet för
+punktlaster och större produktionsförfrågningar har Ellevio
+samlat information från:
+• Ansökningsprocessen,
+• Kund- och områdesdialog,
+• Inskickade planer från kommuner.
+
+Planerna för större punktlast- och produktionsanläggningar
+har sedan i olika grad bidragit till det prognostiserade
+behovet av överföringskapacitet utifrån en kvalitativ
+bedömning av mognadsgrad i processen samt historisk
+information om liknande anslutningar. Denna bedömning
+är nödvändig då det ofta inkommer dubbelbokningar, dvs
+att aktörer ansöker om anslutning i flera delar av nätet för
+
+samma anslutning, att inkommande ansökningar i slutändan
+inte realiseras till en anslutning samt att många av de
+anslutningar som faktiskt blir av inte nyttjar det ansökta
+effektbehovet.
+Via kontinuerlig dialog samt deltagande i ett antal
+regionala samverkans forum följer Ellevio regioners och läns-
+styrelsers framtida planer, ambitioner och planerade utveck-
+ling. Denna information används indirekt som validering
+och verifiering av de prognoser som görs och hur sannolikt
+prognosu tfallet är, men i dagsläget används inga datapunkter
+eller information direkt i prognos modeller eller metod.
+För att kunna göra en så bra bedömning som möjligt av
+
+det framtida behovet av överföringskapacitet för större punkt-
+laster och produktionsförfrågningar krävs en öppen och
+trans parent dialog om den mest sannolika utvecklingen.
+
+Behov av laddinfrastruktur för personbilar
+(hemmaladdning)
+Ellevio har en prognosmodell som prognostiserar det
+fram tida behovet av överföringskapacitet gällande per-
+sonbilsladdning med fokus på hemma laddning. Publik
+laddning, snabbladdare och depåer behandlas i dagsläget
+enligt avsnittet ovan om punktlaster och större produktions-
+anläggningar.
+Prognosmodellen för personbilar utgår ifrån det prognos-
+
+tiserade totala antalet bilar, prognostiserad andel av elbilar,
+körmönster samt en laddprofil baserat på att man börjar
+ladda på eftermiddagen direkt vid hemkomst från arbetet.
+Det prognostiserade behovet av effekt vid topplasttimmen
+adderas sedan till det totala prognostiserade behovet av
+överföringskapacitet.
 
 2 Vissa av kommunernas planer för större anslutningar exkluderades ur denna metod och
 inkluderas i stället som punktlast eller större produktionsförfrågningar, se det avsnittet
@@ -8383,62 +8626,110 @@ NÄTUTVECKLINGSPLAN 2025–2034: BEHOVET AV ÖVERFÖRINGSKAPACITET I ELNÄTET 15
 
 <!-- sida 218 -->
 
-Underliggande elnätsbolag           utökning av befintliga anläggningar. Prognoser för behovet
-I de områden där Ellevio äger och driftar regionnät, från produktion redovisas endast i de delområden där Ellevio
-men inte lokalnät, behövs insikt i vad som händer i det har inmatning till överliggande elnät. Å andra sidan finns det
-underliggande elnätet. För att göra detta har Ellevio delområden där endast prognos för behovet av överförings-
-efterfrågat prognoser för behovet av överföringskapacitet kapacitet från produktion redovisas då delområdena främst
-i gränspunkter från de elnätsbolag som äger och driver är produktionsk luster och i dagsläget saknar och förväntas
-lokalnätet i dessa områden. För att säkerställa att dessa även i framtiden sakna uttag från överliggande elnät.
-prognoser tar liknande aspekter i beaktning som Ellevios
-egna prognosmodeller efterfrågades även vad som Drivkrafter som påverkar behovet av
-inkluderats och vilka antaganden som gjorts. Dessa prog- överföringskapacitet
+Underliggande elnätsbolag
+I de områden där Ellevio äger och driftar regionnät,
+men inte lokalnät, behövs insikt i vad som händer i det
+underliggande elnätet. För att göra detta har Ellevio
+efterfrågat prognoser för behovet av överföringskapacitet
+i gränspunkter från de elnätsbolag som äger och driver
+lokalnätet i dessa områden. För att säkerställa att dessa
 
-noser har sedan använts som underlag till Ellevios egna Vilka som är de stora drivkrafterna som kan komma att
-prognoser för behov av överföringskapacitet. påverka det framtida behovet av överföringskapacitet i
+prognoser tar liknande aspekter i beaktning som Ellevios
+egna prognosmodeller efterfrågades även vad som
+inkluderats och vilka antaganden som gjorts. Dessa prog-
+noser har sedan använts som underlag till Ellevios egna
+prognoser för behov av överföringskapacitet.
+
+Prognos för behovet av överförings kapacitet från
+produktion
+Ellevios prognoser för behovet av överföringskapacitet
+för produktion baseras i dagsläget endast på kategorin
+Punktlaster och större produktionsa nläggningar, dvs endast
+på förfrågningar eller planer för stora nyetableringar eller
+
+utökning av befintliga anläggningar. Prognoser för behovet
+från produktion redovisas endast i de delområden där Ellevio
+har inmatning till överliggande elnät. Å andra sidan finns det
+delområden där endast prognos för behovet av överförings-
+kapacitet från produktion redovisas då delområdena främst
+är produktionsk luster och i dagsläget saknar och förväntas
+även i framtiden sakna uttag från överliggande elnät.
+
+Drivkrafter som påverkar behovet av
+överföringskapacitet
+Vilka som är de stora drivkrafterna som kan komma att
+påverka det framtida behovet av överföringskapacitet i
 elnätet skiljer sig mycket mellan våra olika områden. Ellevio
-Prognos för behovet av överförings kapacitet från äger, förvaltar och utvecklar elnätet både inne i stadskärnor,
-produktion                          i tätort och på landsbygden. Behoven, egenskaperna och
-Ellevios prognoser för behovet av överföringskapacitet befolkningstätheten i dessa områden skiljer sig åt och vi kan
-för produktion baseras i dagsläget endast på kategorin också se att även utvecklingen framåt skiljer sig. Vi beskriver
-Punktlaster och större produktionsa nläggningar, dvs endast därför de relevanta drivkrafterna per delområde tillsammans
-på förfrågningar eller planer för stora nyetableringar eller med behovet av överföringskapacitet under avsnitt 2.2.1.
+äger, förvaltar och utvecklar elnätet både inne i stadskärnor,
+i tätort och på landsbygden. Behoven, egenskaperna och
+befolkningstätheten i dessa områden skiljer sig åt och vi kan
+också se att även utvecklingen framåt skiljer sig. Vi beskriver
+därför de relevanta drivkrafterna per delområde tillsammans
+med behovet av överföringskapacitet under avsnitt 2.2.1.
 
 NÄTUTVECKLINGSPLAN 2025–2034: BEHOVET AV ÖVERFÖRINGSKAPACITET I ELNÄTET 16
 
 <!-- sida 219 -->
 
-2.2    Prognos        för   behovet       av   över-
+2.2   Prognos        för   behovet        av   över-
 
 föringskapacitet             i elnätet     2025–2034
 
-I detta avsnitt redovisas behovet av överföringskapacitet som inkluderas i scenario 1 har en relativt hög grad av säker-
-i Ellevios elnät i de olika delområdena utifrån två olika het av när anslutningen blir av, hur stort behovet kommer att
-scenarion vilka beskrivs ytterligare nedan. Scenarierna vara och vilken typ av last eller produktion som avses.
+I detta avsnitt redovisas behovet av överföringskapacitet
+i Ellevios elnät i de olika delområdena utifrån två olika
+scenarion vilka beskrivs ytterligare nedan. Scenarierna
 skiljer sig åt genom att det ena inkluderar de planer där
-sannolikheten att de faktiskt blir av är högre och där graden Scenario 2
-av osäkerhet är lägre. Det andra har en högre grad av Scenario 2 prognostiserar behovet av överföringskapacitet
-osäker het och inkluderar externa planer där det är svårare utifrån, utöver det som ingår i scenario 1, anslutning av nya,
-att uppskatta var geografiskt planen ska ske, hur stort behovet eller utökningar av befintliga, större punktlaster och produk-
-är och när behovet kommer att uppstå. tionsanläggningar med en högre grad av osäkerhet. Dessa
-I tabellerna 1 och 2 redogörs behovet endast utifrån är svårare att definiera när behovet kommer att uppstå, hur
+sannolikheten att de faktiskt blir av är högre och där graden
+av osäkerhet är lägre. Det andra har en högre grad av
+osäker het och inkluderar externa planer där det är svårare
 
-scenario 1, vilket är det scenario som används i vidare stort det blir och exakt vad anslutningen kommer att bestå
-analyser av nuvarande systemets förmåga och behov av av. Detta scenario innehåller därför fler uppskattningar,
-flexibilitetstjänster och andra resurser. I avsnitt 2.2.1 redogörs indikationer och högre grad av spekulation.
-behovet utifrån både scenario 1 och 2, en beskrivning av de Att spekulera kring vilka sådana här nyanslutningar
-drivkrafter som kan påverka behovet av överföringskapacitet eller utökningar som faktiskt blir av i slutändan, var och
-samt en jämförelse med det historiska behovet per delområde. när är svårt och utmanande. Det är än mer utmanande att
+att uppskatta var geografiskt planen ska ske, hur stort behovet
+är och när behovet kommer att uppstå.
+I tabellerna 1 och 2 redogörs behovet endast utifrån
+scenario 1, vilket är det scenario som används i vidare
+analyser av nuvarande systemets förmåga och behov av
+flexibilitetstjänster och andra resurser. I avsnitt 2.2.1 redogörs
+behovet utifrån både scenario 1 och 2, en beskrivning av de
+drivkrafter som kan påverka behovet av överföringskapacitet
+samt en jämförelse med det historiska behovet per delområde.
+
+Scenario 1
+Scenario 1 prognostiserar behovet av överföringskapacitet
+
+i Ellevios elnät utifrån en prognostiserad utveckling av bor-
+gerlig last, planer på anslutning av nya eller utökningar av
+befintliga, större punktlaster eller produktionsanläggningar,
+underliggande elnätbolags prognostiserade utveckling
+samt tillkommande laddbehov för personbilar med fokus på
+hemmal addning. De punktlaster och produktionsanläggningar
+
+som inkluderas i scenario 1 har en relativt hög grad av säker-
+het av när anslutningen blir av, hur stort behovet kommer att
+vara och vilken typ av last eller produktion som avses.
+
+Scenario 2
+Scenario 2 prognostiserar behovet av överföringskapacitet
+utifrån, utöver det som ingår i scenario 1, anslutning av nya,
+
+eller utökningar av befintliga, större punktlaster och produk-
+tionsanläggningar med en högre grad av osäkerhet. Dessa
+är svårare att definiera när behovet kommer att uppstå, hur
+stort det blir och exakt vad anslutningen kommer att bestå
+av. Detta scenario innehåller därför fler uppskattningar,
+indikationer och högre grad av spekulation.
+Att spekulera kring vilka sådana här nyanslutningar
+eller utökningar som faktiskt blir av i slutändan, var och
+när är svårt och utmanande. Det är än mer utmanande att
 uppskatta vad det faktiska behovet av effekt kommer att bli.
-Scenario 1                          Detta scenario är därför i dagsläget svårt att planera för
-Scenario 1 prognostiserar behovet av överföringskapacitet och används därför inte i vidare analyser nedan. Det ger
-i Ellevios elnät utifrån en prognostiserad utveckling av bor- dock en indikation på det intresse som finns inom våra olika
-gerlig last, planer på anslutning av nya eller utökningar av delområden och av magnituden på hur mycket indikationer
-befintliga, större punktlaster eller produktionsanläggningar, eller förfrågningar som inkommit till Ellevio.
+Detta scenario är därför i dagsläget svårt att planera för
+och används därför inte i vidare analyser nedan. Det ger
 
-underliggande elnätbolags prognostiserade utveckling Scenario 2 presenteras endast i de områden där sådana
-samt tillkommande laddbehov för personbilar med fokus på indikationer eller förfrågningar finns vid tillfället då nät-
-hemmal addning. De punktlaster och produktionsanläggningar utvecklingsplanen skrivs.
+dock en indikation på det intresse som finns inom våra olika
+delområden och av magnituden på hur mycket indikationer
+eller förfrågningar som inkommit till Ellevio.
+Scenario 2 presenteras endast i de områden där sådana
+indikationer eller förfrågningar finns vid tillfället då nät-
+utvecklingsplanen skrivs.
 
 NÄTUTVECKLINGSPLAN 2025–2034: BEHOVET AV ÖVERFÖRINGSKAPACITET I ELNÄTET 17
 
@@ -8981,120 +9272,202 @@ NÄTUTVECKLINGSPLAN 2025–2034: BEHOVET AV ÖVERFÖRINGSKAPACITET I ELNÄTET 29
 
 <!-- sida 232 -->
 
-2.3    Systemets         nuvarande          förmåga         att
+2.3   Systemets         nuvarande           förmåga         att
 
 möta      prognosen
 
-I detta avsnitt beskrivs Ellevios nuvarande systems förmåga flexibilitetstjänster och andra resurser för att hantera vissa
-att möta den prognos för behovet av överföringskapacitet situationer och möjliggöra nyanslutningar eller utökningar
-som presenterats i avsnitt 2.2, framför allt med fokus på av befintliga anslutningar som en tillfällig lösning innan pla-
-de kapacitetsbegränsningar som finns i eget eller begräns- nerade nätåtgärder genomförts. De lösningar som Ellevio
-ningar i överliggande elnät som påverkar Ellevios förmåga för närvarande använder är följande:
+I detta avsnitt beskrivs Ellevios nuvarande systems förmåga
+att möta den prognos för behovet av överföringskapacitet
+som presenterats i avsnitt 2.2, framför allt med fokus på
+de kapacitetsbegränsningar som finns i eget eller begräns-
+ningar i överliggande elnät som påverkar Ellevios förmåga
 att möta det behov som finns.
-Generellt sett planerar Ellevio för att bygga bort för- Villkorade avtal
-väntade flaskhalsar innan de realiseras. I de fall där På grund av begränsningar för uttag har Ellevio tecknat
-detta inte uppnås uppstår ett gap mellan behovet av villkorade avtal med ett antal aktörer. Dessa avtal berör
-överföringskapacitet och systemets förmåga, vilket noteras vissa förbrukare och producenter som vid behov blir
+Generellt sett planerar Ellevio för att bygga bort för-
 
-som en nuvarande eller framtida kapacitetsbegränsning i ombedda att styra ner och antingen minska eller öka
-nätutvecklingsplanen.                sin elförbrukning eller elproduktion för att förhindra
-I de fall där stora nyanslutningar eller effekthöjningar att abonnemanget mot överliggande elnät överskrids.
-måste invänta strukturell ombyggnad av befintligt nät anses Nyttjande av villkorade avtal sker också vid vissa felfall i
-nätet ha en kapacitetsbegränsning. När stora kundanslut- elnätet.
+väntade flaskhalsar innan de realiseras. I de fall där
+detta inte uppnås uppstår ett gap mellan behovet av
+överföringskapacitet och systemets förmåga, vilket noteras
+som en nuvarande eller framtida kapacitetsbegränsning i
+nätutvecklingsplanen.
+I de fall där stora nyanslutningar eller effekthöjningar
+måste invänta strukturell ombyggnad av befintligt nät anses
+nätet ha en kapacitetsbegränsning. När stora kundanslut-
 ningar kan anslutas till elnätet inom skälig tid anses nätet
-inte ha en kapacitetsbegränsning. Skälig tid definieras som Tillfälliga abonnemang
-den tid det normalt tar att bygga ut elnätet för enskilda, En andra lösning som används för att hantera de
-större anslutningar.                 begränsningar som finns mot överliggande elnät är
-De begränsningar i det egna elnätet som presenteras är tillfälliga abonnemang. Tillfälliga abonnemang är precis
-främst kapacitetsbegränsningar i huvudsaklig distributions- vad det låter som, det vill säga en tillfällig höjning av
-infrastruktur enligt definition i avsnitt 3.1.1, det vill säga Ellevios abonnemang mot överliggande elnät som kan
+inte ha en kapacitetsbegränsning. Skälig tid definieras som
+den tid det normalt tar att bygga ut elnätet för enskilda,
+större anslutningar.
 
-främst i vårt regionnät. Det är i huvudsak dessa begräns- tecknas vid de tillfällen som abonnemangen förväntas
-ningar som påverkar utvecklingen av elnätet och förmågan överskridas baserat på kortsiktiga prognoser. Det finns
-att ansluta i betydande omfattning. I många fall klarar dock aldrig någon garanti för att ett tillfälligt abonnemang
-Ellevio att bygga bort begränsningar i nätet på lägre kan tecknas och man kan därmed tvingas hantera
-spänningsnivåer relativt snabbt. I de fall bedömningen begränsningen på annat vis.
+De begränsningar i det egna elnätet som presenteras är
+främst kapacitetsbegränsningar i huvudsaklig distributions-
+infrastruktur enligt definition i avsnitt 3.1.1, det vill säga
+främst i vårt regionnät. Det är i huvudsak dessa begräns-
+ningar som påverkar utvecklingen av elnätet och förmågan
+att ansluta i betydande omfattning. I många fall klarar
+Ellevio att bygga bort begränsningar i nätet på lägre
+spänningsnivåer relativt snabbt. I de fall bedömningen
 gjorts att det tar längre tid att bygga bort begränsningar
-även på lägre spänningsnivåer beskrivs också sådana Produktionsgaranti
-begränsningar. Ellevio vill dock poängtera att det generellt Ellevio har också tecknade avtal för produktionsgaranti.
-finns utrymme för en allmän tillväxt i samhället, exempelvis Dessa avtal garanterar en viss mängd produktion från stora
-för utbyggnad av bostäder, elbilsladdning och infrastruktur. produktionsanläggningar i våra delområden som avropas
-De nuvarande och förväntade kapacitetsbegräns- vid behov, det vill säga när lasten inom delområdet
-ningarna som beskrivs har också hänvisningar till aktuell förväntas överskrida det abonnemang Ellevio har mot
-investering eller aktuellt investeringspaket som förväntas överliggande elnät.
+även på lägre spänningsnivåer beskrivs också sådana
+begränsningar. Ellevio vill dock poängtera att det generellt
+finns utrymme för en allmän tillväxt i samhället, exempelvis
+för utbyggnad av bostäder, elbilsladdning och infrastruktur.
 
+De nuvarande och förväntade kapacitetsbegräns-
+ningarna som beskrivs har också hänvisningar till aktuell
+investering eller aktuellt investeringspaket som förväntas
 åtgärda begränsningen om sådana planer finns i dags-
-läget. Investeringarna eller investeringspaketen beskrivs Redogörelsen av nuvarande systemets förmåga, potentiellt
-ytterligare i avsnitt 3.2.           kommande kapacitets begränsningar och nuvarande
-I vissa av de delområden där det finns nuvarande användning av flexibilitetstjänster och andra resurser görs
-kapacitets begränsningar använder Ellevio redan idag per delområde.
+läget. Investeringarna eller investeringspaketen beskrivs
+ytterligare i avsnitt 3.2.
+I vissa av de delområden där det finns nuvarande
+kapacitets begränsningar använder Ellevio redan idag
+
+flexibilitetstjänster och andra resurser för att hantera vissa
+situationer och möjliggöra nyanslutningar eller utökningar
+av befintliga anslutningar som en tillfällig lösning innan pla-
+nerade nätåtgärder genomförts. De lösningar som Ellevio
+för närvarande använder är följande:
+
+Villkorade avtal
+
+På grund av begränsningar för uttag har Ellevio tecknat
+villkorade avtal med ett antal aktörer. Dessa avtal berör
+vissa förbrukare och producenter som vid behov blir
+ombedda att styra ner och antingen minska eller öka
+sin elförbrukning eller elproduktion för att förhindra
+att abonnemanget mot överliggande elnät överskrids.
+Nyttjande av villkorade avtal sker också vid vissa felfall i
+elnätet.
+
+Tillfälliga abonnemang
+En andra lösning som används för att hantera de
+begränsningar som finns mot överliggande elnät är
+
+tillfälliga abonnemang. Tillfälliga abonnemang är precis
+vad det låter som, det vill säga en tillfällig höjning av
+Ellevios abonnemang mot överliggande elnät som kan
+tecknas vid de tillfällen som abonnemangen förväntas
+överskridas baserat på kortsiktiga prognoser. Det finns
+dock aldrig någon garanti för att ett tillfälligt abonnemang
+kan tecknas och man kan därmed tvingas hantera
+begränsningen på annat vis.
+
+Produktionsgaranti
+Ellevio har också tecknade avtal för produktionsgaranti.
+Dessa avtal garanterar en viss mängd produktion från stora
+produktionsanläggningar i våra delområden som avropas
+
+vid behov, det vill säga när lasten inom delområdet
+förväntas överskrida det abonnemang Ellevio har mot
+överliggande elnät.
+
+Redogörelsen av nuvarande systemets förmåga, potentiellt
+kommande kapacitets begränsningar och nuvarande
+användning av flexibilitetstjänster och andra resurser görs
+per delområde.
 
 NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOSEN 30
 
 <!-- sida 233 -->
 
-1\.  Dalarna
+1\. Dalarna
 
-Det finns idag begränsningar i överliggande stamnät som 3. I transformeringen ner till lokalnätet i Mora-trakten.
-begränsar möjligheterna för både uttag till och inmatning Denna begränsning förväntas byggas bort med
-från Ellevios nät. Detta beror delvis på svag stamnätsreserv. investeringspaket DAL6. Med det ökande behovet
-På grund av dessa begränsningar har Ellevio inte kunnat av överföringskapacitet medföljer en ökad risk för ny
-höja sitt abonnemang för inmatning till stamnätet, vilket överlast i 130/50 kV-transformatorstation vid Mora
-har lett till att Ellevio behövt införa produktionsstopp för och Massarbäck. Denna överlast förväntas dock bara
-storskalig produktion i Dalanätet. Detta åtgärdas i och med uppstå vid vissa felfall. Risken för detta bedöms vara låg
-investeringspaket DAL3 samt DA5. Den nya stamstationen i dagsläget och inte kräva någon ytterligare investering.
+Det finns idag begränsningar i överliggande stamnät som
+begränsar möjligheterna för både uttag till och inmatning
+från Ellevios nät. Detta beror delvis på svag stamnätsreserv.
+På grund av dessa begränsningar har Ellevio inte kunnat
+höja sitt abonnemang för inmatning till stamnätet, vilket
+har lett till att Ellevio behövt införa produktionsstopp för
+storskalig produktion i Dalanätet. Detta åtgärdas i och med
+
+investeringspaket DAL3 samt DA5. Den nya stamstationen
 Tandö förväntas ge full redundans för dagens lastnivåer
-samt ökade uttagsmöjligheter i nordvästra delen av 4. Det finns regionnätsledningar från Borlänge och österut
-
-Dalarna.                              som begränsar möjligheten att ansluta ny produktion.
-Det förväntas dock uppstå nya begränsningar mot Ledningarna påverkas av alla produktionsanslutningar
-överliggande nät. För att möjliggöra ytterligare ökning av vilket innebär att begränsningen påverkar hela delområ-
-både uttag och inmatning i framtiden har Ellevio tecknat ett det. Planerade åtgärder för detta ingår i investeringspa-
-förprojekteringsavtal med Svk för ytterligare en 400 kV-led- ketet DAL5.
+samt ökade uttagsmöjligheter i nordvästra delen av
+Dalarna.
+Det förväntas dock uppstå nya begränsningar mot
+överliggande nät. För att möjliggöra ytterligare ökning av
+både uttag och inmatning i framtiden har Ellevio tecknat ett
+förprojekteringsavtal med Svk för ytterligare en 400 kV-led-
 ning Bäsna–Repbäcken. Detta ingår i investeringspaket
-DAL3 i avsnitt 3.2.                  5. Givet det prognostiserade behovet av överförings-
-I delområdet finns det också begränsningar i Ellevios kapacitet förväntas det uppstå nya begränsningar för
-egna elnät och nya förväntas uppstå med det ökande inmatning i norra Dalarna på grund av ökad belastning
-behovet av överföringskapacitet. De nuvarande och poten- på 130 kV-ledningar. Detta planeras dock avhjälpas
-tiellt kommande kapacitetsbegränsningarna i det egna med investeringspaket DAL5.
+DAL3 i avsnitt 3.2.
+I delområdet finns det också begränsningar i Ellevios
+egna elnät och nya förväntas uppstå med det ökande
+
+behovet av överföringskapacitet. De nuvarande och poten-
+tiellt kommande kapacitetsbegränsningarna i det egna
 elnätet är följande:
-6\. Utrymmet för nya lastökningar runt Dala Floda förvän-
 
-1\. I området kring Orsa där en ny 50 kV-ledning sträckan tas minska i framtiden på grund av redan planerade
-Våmhus–Orsa–Blyberg planeras. Projektet ingår i del- nyanslutningar och/eller utökningar av befintliga anslut-
-område Dalarnas investeringspaket DAL8. ningar. Det pågår idag en utredning för att hantera
-eventuella kommande kapacitetsbegränsningar, men
-2\. I trakterna kring Idre i de nordligaste delarna av beslut om investering saknas i dagsläget.
+1\. I området kring Orsa där en ny 50 kV-ledning sträckan
+Våmhus–Orsa–Blyberg planeras. Projektet ingår i del-
+område Dalarnas investeringspaket DAL8.
+
+2\. I trakterna kring Idre i de nordligaste delarna av
 Ellevios 50 kV-nät. Det planeras för en ny 130 kV-led-
-ning från Sälen till en ny station söder om Idre fjäll, I Dalarna används villkorade avtal som en nuvarande
-Brattströmmen, som kommer att möjliggöra ökat uttag. lösning för att kunna ansluta nya kunder innan planerade
-Projektet ingår i investeringspaket DAL7. På grund av ett nätförstärkningar genomförts. Det finns även avtal för pro-
-förväntat ökande behov av kapacitet kommer ytterligare duktionsgaranti som kan användas för att minska uttag från
-förstärkning av befintlig 50 kV-ledning från Idre till Idre överliggande nät.
-Fjäll krävas. Det pågår utredningar för att hantera dessa
+ning från Sälen till en ny station söder om Idre fjäll,
+Brattströmmen, som kommer att möjliggöra ökat uttag.
+Projektet ingår i investeringspaket DAL7. På grund av ett
 
+förväntat ökande behov av kapacitet kommer ytterligare
+förstärkning av befintlig 50 kV-ledning från Idre till Idre
+Fjäll krävas. Det pågår utredningar för att hantera dessa
 potentiella kapacitetsbegränsningar, men beslutad
 investering saknas i nuläget.
+
+3\. I transformeringen ner till lokalnätet i Mora-trakten.
+Denna begränsning förväntas byggas bort med
+investeringspaket DAL6. Med det ökande behovet
+av överföringskapacitet medföljer en ökad risk för ny
+överlast i 130/50 kV-transformatorstation vid Mora
+och Massarbäck. Denna överlast förväntas dock bara
+uppstå vid vissa felfall. Risken för detta bedöms vara låg
+
+i dagsläget och inte kräva någon ytterligare investering.
+
+4\. Det finns regionnätsledningar från Borlänge och österut
+som begränsar möjligheten att ansluta ny produktion.
+Ledningarna påverkas av alla produktionsanslutningar
+vilket innebär att begränsningen påverkar hela delområ-
+det. Planerade åtgärder för detta ingår i investeringspa-
+ketet DAL5.
+
+5\. Givet det prognostiserade behovet av överförings-
+kapacitet förväntas det uppstå nya begränsningar för
+inmatning i norra Dalarna på grund av ökad belastning
+
+på 130 kV-ledningar. Detta planeras dock avhjälpas
+med investeringspaket DAL5.
+
+6\. Utrymmet för nya lastökningar runt Dala Floda förvän-
+tas minska i framtiden på grund av redan planerade
+nyanslutningar och/eller utökningar av befintliga anslut-
+ningar. Det pågår idag en utredning för att hantera
+eventuella kommande kapacitetsbegränsningar, men
+beslut om investering saknas i dagsläget.
+
+I Dalarna används villkorade avtal som en nuvarande
+lösning för att kunna ansluta nya kunder innan planerade
+nätförstärkningar genomförts. Det finns även avtal för pro-
+
+duktionsgaranti som kan användas för att minska uttag från
+överliggande nät.
 
 NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOSEN 31
 
 <!-- sida 234 -->
 
-2\.  Hälsingland
+2\. Hälsingland
 
-På grund av kapacitetsbegränsningar i stamnätet kommer I Ellevios egna elnät finns det nuvarande lokala
-Svk genomföra sitt investeringspaket NordSyd, vilket begränsningar för större uttagsökningar och nyanslutningar
-bland annat innebär att deras 220 kV-ledningar kommer i norr i Hudiksvallstrakten, i Ockelbo i söder, norra delen
-att ersättas av 400 kV-ledningar. Detta innebär stora av Bollnäs kommun samt sydvästra delen av Söderhamns
-strukturförändringar för Ellevio då de fyra stamstationerna kommun. Del av begränsningarna i Hudiksvall förväntas
-som ansluter till 220 kV-nätet kommer att avvecklas som byggas bort i och med investeringspaket HÄL5. För övriga
-stamstationer och ersättas dels av en ny 400/130 kV-stam- begränsningar saknas det idag investeringsåtgärder.
-station Njutånger sydväst om Hudiksvall, dels genom I Hälsingland används idag villkorade avtal som en
-utbyggnad av den befintliga stamstationen Grönviken. nuvarande lösning för att kunna ansluta nya kunder innan
-Detta innebär att det förväntas finnas goda möjligheter för planerade nätförstärkningar genomförts. Det finns även avtal
+På grund av kapacitetsbegränsningar i stamnätet kommer
+Svk genomföra sitt investeringspaket NordSyd, vilket
+bland annat innebär att deras 220 kV-ledningar kommer
+att ersättas av 400 kV-ledningar. Detta innebär stora
+strukturförändringar för Ellevio då de fyra stamstationerna
+som ansluter till 220 kV-nätet kommer att avvecklas som
+stamstationer och ersättas dels av en ny 400/130 kV-stam-
 
-framtida ökad last och produktion i Ellevios elnät. Som en för produktionsgaranti för att hantera höglastsituationer i
-del av NordSyd förändrar Ellevio strukturen på regionnätet området.
+station Njutånger sydväst om Hudiksvall, dels genom
+utbyggnad av den befintliga stamstationen Grönviken.
+Detta innebär att det förväntas finnas goda möjligheter för
+framtida ökad last och produktion i Ellevios elnät. Som en
+del av NordSyd förändrar Ellevio strukturen på regionnätet
 i Hälsingland för att erhålla en robust nätstruktur och upp-
 fylla funktionskravet. Se HÄL4 och HÄL5 i avsnitt 3.2.
 I dagsläget har Ellevio dock inte några uttagsbegräns-
@@ -9102,44 +9475,83 @@ ningar mot överliggande nät som påverkar Hälsingenätet.
 Stora förfrågningar för nyanslutningar av elförbrukning och
 elproduktion har anpassats för att följa tidplanen för Nord-
 Syd-projektet och de kapacitetsökningar som genomförs
+
 inom ramen för projektet.
+
+I Ellevios egna elnät finns det nuvarande lokala
+begränsningar för större uttagsökningar och nyanslutningar
+i norr i Hudiksvallstrakten, i Ockelbo i söder, norra delen
+av Bollnäs kommun samt sydvästra delen av Söderhamns
+kommun. Del av begränsningarna i Hudiksvall förväntas
+byggas bort i och med investeringspaket HÄL5. För övriga
+begränsningar saknas det idag investeringsåtgärder.
+
+I Hälsingland används idag villkorade avtal som en
+nuvarande lösning för att kunna ansluta nya kunder innan
+planerade nätförstärkningar genomförts. Det finns även avtal
+för produktionsgaranti för att hantera höglastsituationer i
+området.
 
 NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOSEN 32
 
 <!-- sida 235 -->
 
-3\.  Värmland
+3\. Värmland
 
-I delområde Värmland finns det idag begränsningar för Dessa förväntas åtgärdas med investeringspaket VÄR5.
-inmatning till, samt vissa begränsningar för ökat uttag från Ellevios prognoser påvisar ett ökat framtida behov av
-stamnätet i stamstationen Borgvik. Begränsningen för inmat- både elförbrukning och elproduktion i Värmland. Det
-ning förväntas, enligt Svk:s nätutvecklingsplan för 2024– ökande behovet förväntas skapa en del trånga sektorer
-2033, delvis byggas bort genom elnätsförstärkningar runt om i området, bland annat norr om Kil. Investerings-
-mellan Skogssäter–Stenungsund–Ingelkärr–Stenkullen som paketet VÄR4 innehåller åtgärder för dessa begränsningar
-planeras tas i drift 20314. Begränsningen för uttag som och möjliggör också en styrning av effektflöden vilket
-påverkar möjligheten att ansluta större punktlaster förvän- för väntas förbättra möjligheten att nyttja abonnemangen
-tas byggas bort 20355 i och med Svk:s investeringspaket mot stamnätet på ett effektivt sätt. Ellevio förväntar sig dock
-Karlstadsbenet som är en del av NordSyd. att de planerade åtgärderna behöver kompletteras med
+I delområde Värmland finns det idag begränsningar för
+inmatning till, samt vissa begränsningar för ökat uttag från
+stamnätet i stamstationen Borgvik. Begränsningen för inmat-
+ning förväntas, enligt Svk:s nätutvecklingsplan för 2024–
+2033, delvis byggas bort genom elnätsförstärkningar
+mellan Skogssäter–Stenungsund–Ingelkärr–Stenkullen som
+planeras tas i drift 20314. Begränsningen för uttag som
 
-Det finns idag begränsningar i Ellevios egna 130 kV-nät ytterligare åtgärder vilket utreds i dagsläget.
-som påverkar både inmatning och uttag på flera håll i del- Ellevio har tagit emot mycket förfrågningar gällande
-området. Dels i västra Värmland runt Arvika, Eda och Årjäng, ny produktion söder om Kristinehamn och Karlskoga vilket
-dels i norra Värmland där överlastade ledningar hindrar för väntas leda till begränsningar för ytterligare produktion
-ytterligare inmatning norr om Sunne, samt norr om Hagfors. i området från och med år 2028. Det finns åtgärdsförslag
-Förstärkningspaket för dessa begränsningar är i nuläget även för detta men inget färdigt investeringspaket är fram-
-under utredning och håller på att formas till specifika projekt. taget.
-Projekten har dock inte kommit tillräckligt långt i processen Ellevio använder idag avtal för produktionsgaranti som
-för att kunna presenteras i denna nätutvecklingsplan. en lösning för att möjliggöra nyanslutningar till Värmlands-
-Det finns begränsningar även på lägre spänningsnivåer nätet innan nätförstärkningar är på plats.
+påverkar möjligheten att ansluta större punktlaster förvän-
+tas byggas bort 20355 i och med Svk:s investeringspaket
+Karlstadsbenet som är en del av NordSyd.
+Det finns idag begränsningar i Ellevios egna 130 kV-nät
+som påverkar både inmatning och uttag på flera håll i del-
+området. Dels i västra Värmland runt Arvika, Eda och Årjäng,
+dels i norra Värmland där överlastade ledningar hindrar
+ytterligare inmatning norr om Sunne, samt norr om Hagfors.
+Förstärkningspaket för dessa begränsningar är i nuläget
+under utredning och håller på att formas till specifika projekt.
+Projekten har dock inte kommit tillräckligt långt i processen
+för att kunna presenteras i denna nätutvecklingsplan.
+
+Det finns begränsningar även på lägre spänningsnivåer
 som påverkar möjligheterna för uttag i området Molkom.
 
 4, 5 Svk, Nätutvecklingsplan 2024–2033
+
+Dessa förväntas åtgärdas med investeringspaket VÄR5.
+Ellevios prognoser påvisar ett ökat framtida behov av
+både elförbrukning och elproduktion i Värmland. Det
+ökande behovet förväntas skapa en del trånga sektorer
+runt om i området, bland annat norr om Kil. Investerings-
+paketet VÄR4 innehåller åtgärder för dessa begränsningar
+och möjliggör också en styrning av effektflöden vilket
+
+för väntas förbättra möjligheten att nyttja abonnemangen
+mot stamnätet på ett effektivt sätt. Ellevio förväntar sig dock
+att de planerade åtgärderna behöver kompletteras med
+ytterligare åtgärder vilket utreds i dagsläget.
+Ellevio har tagit emot mycket förfrågningar gällande
+ny produktion söder om Kristinehamn och Karlskoga vilket
+för väntas leda till begränsningar för ytterligare produktion
+i området från och med år 2028. Det finns åtgärdsförslag
+även för detta men inget färdigt investeringspaket är fram-
+taget.
+Ellevio använder idag avtal för produktionsgaranti som
+en lösning för att möjliggöra nyanslutningar till Värmlands-
+
+nätet innan nätförstärkningar är på plats.
 
 NNÄÄTTUUTTVVEECCKKLLIINNGGSSPPLLAANN 22002255––22003344:: SSYYSSTTEEMMEETTSS NNUUVVAARRAANNDDEE FFÖÖRRMMÅÅGGAA AATTTT MMÖÖTTAA PPRROOGGNNOOSSEENN 33
 
 <!-- sida 236 -->
 
-4\.  Vallentuna
+4\. Vallentuna
 
 Det finns inga kända, nuvarande kapacitetsbegränsningar
 inom delområde Vallentuna, varken i Ellevios elnät eller
@@ -9148,10 +9560,10 @@ Givet Ellevios prognoser kommer dock behovet av effekt
 från överliggande elnät att öka till nivåer över dagens
 abonnemang mot överliggande regionnät. Ellevios bedöm-
 ning är att på grund av begränsningar i stamnätet har
+
 mellan liggande regionnätsägare (Vattenfall Eldistribution)
 inte möjlighet att leverera det ökande behovet av effekt och
 att begränsningar mot överliggande elnät därmed i viss
-
 mån kommer att uppstå, samt kvarstå fram till år 2031 då
 Svk:s samtliga projekt inom investeringspaketen Stockholm
 Ström och Storstockholm Väst planeras vara klara enligt
@@ -9161,25 +9573,26 @@ ningar i Ellevios egna elnät för uttag runt Kårsta och Ubby.
 Dessa framtida begränsningar byggs dock bort 2027,
 respektive 2026, med investeringarna VAL1, VAL2 och
 VAL3 i avsnitt 3.2.
+
 I delområde Vallentuna används idag inga flexibilitets-
 tjänster eller andra resurser som ett alternativ till nätut-
 byggnad.
 
-5\.  Täby
+5\. Täby
 
-I Täby finns det idag begränsningar för uttag i en av som begränsar ökat uttag i norra och västra Täby. Det
-Ellevios gränspunkter mot överliggande elnät där Ellevio finns ett pågående projektpaket i lokalnätet för att hantera
-inte kunnat höja sitt uttagsabonnemang. Just denna denna flaskhals. Dessa projekt redovisas dock inte i avsnitt
-begränsning planeras byggas bort under 2025 då en 3.2 då det inte anses vara projekt i huvudsaklig distribu-
-ny gränspunkt planeras tas i drift. Se investering TBY1 tionsinfrastruktur.
-i avsnitt 3.2.                        Givet prognosen för behovet av överföringskapacitet
-Givet Ellevios prognoser kommer behovet av effekt samt nuvarande systemets förmåga kan det komma att
+I Täby finns det idag begränsningar för uttag i en av
+Ellevios gränspunkter mot överliggande elnät där Ellevio
+inte kunnat höja sitt uttagsabonnemang. Just denna
+begränsning planeras byggas bort under 2025 då en
+ny gränspunkt planeras tas i drift. Se investering TBY1
+i avsnitt 3.2.
+Givet Ellevios prognoser kommer behovet av effekt
 
-från överliggande elnät att öka till nivåer över dagens uppstå nya begränsningar för uttag runt Hägernäs, Ensta
-abonnemang mot överliggande regionnät. Ellevios bedöm- och Myrängen. Dessa framtida begränsningar byggs dock
-ning är att på grund av begränsningar i stamnätet har bort 2026 med investeringen TBY2 i avsnitt 3.2.
-mellanliggande regionnätsägare (Vattenfall Eldistribution) I delområde Täby används idag inga flexibilitetstjänster
-inte möjlighet att leverera den ökande effekten och att nya eller andra resurser som alternativ till nätutbyggnad.
+från överliggande elnät att öka till nivåer över dagens
+abonnemang mot överliggande regionnät. Ellevios bedöm-
+ning är att på grund av begränsningar i stamnätet har
+mellanliggande regionnätsägare (Vattenfall Eldistribution)
+inte möjlighet att leverera den ökande effekten och att nya
 begränsningar mot överliggande elnät därmed i viss mån
 kommer att uppstå, samt kvarstå fram till år 2031 då Svk:s
 samtliga projekt inom investeringspaketen Stockholm Ström
@@ -9187,9 +9600,23 @@ och Storstockholm Väst planeras vara klara enligt Svk:s
 nätutvecklingsplan för 2024–2033.
 Det finns idag inga begränsningar i Ellevios huvudsak-
 liga distributionsinfrastruktur. Det finns dock kablar och
-ledningar på lägre spänningsnivåer som inte faller under
 
+ledningar på lägre spänningsnivåer som inte faller under
 definitionen för huvudsaklig distributionsinfrastruktur men
+
+som begränsar ökat uttag i norra och västra Täby. Det
+finns ett pågående projektpaket i lokalnätet för att hantera
+denna flaskhals. Dessa projekt redovisas dock inte i avsnitt
+3.2 då det inte anses vara projekt i huvudsaklig distribu-
+tionsinfrastruktur.
+Givet prognosen för behovet av överföringskapacitet
+samt nuvarande systemets förmåga kan det komma att
+
+uppstå nya begränsningar för uttag runt Hägernäs, Ensta
+och Myrängen. Dessa framtida begränsningar byggs dock
+bort 2026 med investeringen TBY2 i avsnitt 3.2.
+I delområde Täby används idag inga flexibilitetstjänster
+eller andra resurser som alternativ till nätutbyggnad.
 
 NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOSEN 34
 
@@ -9222,38 +9649,69 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 238 -->
 
-7\.  Stockholm
+7\. Stockholm
 
-I delområde Stockholm finns det idag begränsningar för begränsningar i fem av Ellevios stationer. Begränsningarna
-uttag mot överliggande stamnät och Ellevio har i flertalet som förväntas uppstå finns antingen i matande kablar eller
-år fått nekade ansökningar av höjning av abonnemang i transformatorer. En av stationerna är en stamnätsstation,
-mot Svk. Det pågår just nu flertalet parallella projekt för att en är en fördelningsstation i regionnätet och resterande tre
-åtgärda detta; ombyggnation av Tuna, Stockholm Ström transformerar ner till lokalnät. Begränsningen i stamnäts-
-samt Storstockholm Väst som det går att läsa mer om i stationen förväntas uppstå år 2028 men åtgärder för detta
-Svk:s nätutvecklingsplan där samtliga investeringspaket är planerade att driftsättas 2031, se investering STH18
-förväntas vara drifttagna senast 2031. När dessa åtgärder i avsnitt 3.2. Resterande begränsningar förväntas uppstå
-genomförts och färdigställts förväntas det inte kvarstå 2030 eller senare och för dessa potentiella begränsningar
-några kapacitetsbegränsningar mot överliggande stamnät. saknar Ellevio idag planerade åtgärder men bedömer att
+I delområde Stockholm finns det idag begränsningar för
+uttag mot överliggande stamnät och Ellevio har i flertalet
+år fått nekade ansökningar av höjning av abonnemang
+mot Svk. Det pågår just nu flertalet parallella projekt för att
+åtgärda detta; ombyggnation av Tuna, Stockholm Ström
+samt Storstockholm Väst som det går att läsa mer om i
+Svk:s nätutvecklingsplan där samtliga investeringspaket
 
-Det finns idag kapacitetsbegränsningar också i Ellevios begränsningarna kommer att hinna åtgärdas innan det blir
-egna elnät som påverkar möjligheten till uttag. En av ett gap.
-gränspunkterna mot överliggande nät är högt belastad. I Söderort förväntas det uppstå nya kapacitetsbegräns-
-Begränsningen förväntas delvis åtgärdas under 2027 ningar i tre av Ellevios stationer som transformerar ner till
-(STH14 i avsnitt 3.2) men vissa begränsningar i utgående lokalnätet. Det finns åtgärder på gång som delvis förväntas
-kablar förväntas dock kvarstå. Det saknas idag planerad åtgärda begränsningarna men fler investeringar kommer
-investering men möjligheterna för detta undersöks. troligtvis att behövas.
-Det finns också ett fåtal fördelningsstationer i både I Stockholm City förväntas det också uppstå nya
-Stockholms Västerort och Söderort där nyanslutningar kapacitets begränsningar. Detta runt två av Ellevios statio-
-och utökning av befintlig last inte är möjligt i dagsläget. ner som också de transformerar ner till lokalnät. Begräns-
-Åtgärder för begränsningarna i Västerort finns planerade ningarna förväntas uppstå 2029 och det finns planerade
-och begränsningarna förväntas byggas bort 2026 (STH6). åtgärder för den ena begränsningen medan den andra
-Däremot saknas det idag planerade åtgärder för begräns- saknar detta idag.
+förväntas vara drifttagna senast 2031. När dessa åtgärder
+genomförts och färdigställts förväntas det inte kvarstå
+några kapacitetsbegränsningar mot överliggande stamnät.
+Det finns idag kapacitetsbegränsningar också i Ellevios
+egna elnät som påverkar möjligheten till uttag. En av
+gränspunkterna mot överliggande nät är högt belastad.
+Begränsningen förväntas delvis åtgärdas under 2027
+(STH14 i avsnitt 3.2) men vissa begränsningar i utgående
+kablar förväntas dock kvarstå. Det saknas idag planerad
+investering men möjligheterna för detta undersöks.
+Det finns också ett fåtal fördelningsstationer i både
+Stockholms Västerort och Söderort där nyanslutningar
 
-ningarna i Söderort.                  För att hantera de nuvarande och potentiellt kommande
-Givet Ellevios prognoser för behovet av överförings- kapacitetsbegränsningarna i Stockholm används idag
-kapacitet och det nuvarande systemets förmåga förväntas villkorade avtal, tillfälliga abonnemang samt produktions-
-det ökande behovet sätta ytterligare press på det egna garanti för att kunna tillgodose behovet av överförings-
-elnätet. I Västerort förväntas det uppstå nya kapacitets- kapacitet.
+och utökning av befintlig last inte är möjligt i dagsläget.
+Åtgärder för begränsningarna i Västerort finns planerade
+och begränsningarna förväntas byggas bort 2026 (STH6).
+Däremot saknas det idag planerade åtgärder för begräns-
+ningarna i Söderort.
+Givet Ellevios prognoser för behovet av överförings-
+kapacitet och det nuvarande systemets förmåga förväntas
+det ökande behovet sätta ytterligare press på det egna
+elnätet. I Västerort förväntas det uppstå nya kapacitets-
+
+begränsningar i fem av Ellevios stationer. Begränsningarna
+som förväntas uppstå finns antingen i matande kablar eller
+i transformatorer. En av stationerna är en stamnätsstation,
+en är en fördelningsstation i regionnätet och resterande tre
+transformerar ner till lokalnät. Begränsningen i stamnäts-
+stationen förväntas uppstå år 2028 men åtgärder för detta
+är planerade att driftsättas 2031, se investering STH18
+
+i avsnitt 3.2. Resterande begränsningar förväntas uppstå
+2030 eller senare och för dessa potentiella begränsningar
+saknar Ellevio idag planerade åtgärder men bedömer att
+begränsningarna kommer att hinna åtgärdas innan det blir
+ett gap.
+I Söderort förväntas det uppstå nya kapacitetsbegräns-
+ningar i tre av Ellevios stationer som transformerar ner till
+lokalnätet. Det finns åtgärder på gång som delvis förväntas
+åtgärda begränsningarna men fler investeringar kommer
+troligtvis att behövas.
+I Stockholm City förväntas det också uppstå nya
+kapacitets begränsningar. Detta runt två av Ellevios statio-
+
+ner som också de transformerar ner till lokalnät. Begräns-
+ningarna förväntas uppstå 2029 och det finns planerade
+åtgärder för den ena begränsningen medan den andra
+saknar detta idag.
+För att hantera de nuvarande och potentiellt kommande
+kapacitetsbegränsningarna i Stockholm används idag
+villkorade avtal, tillfälliga abonnemang samt produktions-
+garanti för att kunna tillgodose behovet av överförings-
+kapacitet.
 
 NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOSEN 36
 
@@ -9310,40 +9768,58 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 240 -->
 
-10\.   Skaraborg
+10\.  Skaraborg
 
-I Skaraborg finns det idag begränsningar för inmatning och Svk. En av åtgärderna som planeras för att hantera
-till överliggande stamnät. Enligt Svk:s nätutvecklingsplan situationen är en ny stamstation i området.
-kommer en ny 400 kV-ledning att byggas sträckan Skogs- Enligt Ellevios analys finns det risk för att även begräns-
-säter–Stenungsund–Ingelkärr–Stenkullen och tas i drift ningar i det interna nätet kan uppstå, därmed krävs även
-2031\. Svk planerar även att förstärka 400 kV-ledningarna åtgärder i regionnätet för att kunna ansluta nya produk-
-sträckan Hallsberg–Timmersdala–Stenkullen, samt bygga tionsanläggningar. Ellevio planerar därför att bygga nya
-en ny 400 kV-ledning mellan Hallsberg och Timmersdala, 130 kV-ledningar samt två nya regionnätsstationer. För
-vilket planeras vara klart 2033. Därtill planeras även för att möjliggöra snabbare anslutning av dessa produktions-
-en ny stamstation i området7. Dessa förstärkningar förvän- anläggningar söker Ellevio områdeskoncession upp
-tas åtgärda de begränsningar för inmatning som finns i till 36 kV för kabel. Förfrågningarna är av varierande
+I Skaraborg finns det idag begränsningar för inmatning
+till överliggande stamnät. Enligt Svk:s nätutvecklingsplan
+kommer en ny 400 kV-ledning att byggas sträckan Skogs-
+säter–Stenungsund–Ingelkärr–Stenkullen och tas i drift
+2031\. Svk planerar även att förstärka 400 kV-ledningarna
+sträckan Hallsberg–Timmersdala–Stenkullen, samt bygga
+en ny 400 kV-ledning mellan Hallsberg och Timmersdala,
 
-dagsläget, samt möjliggör för de planerade uttagsökning- mognadsgrad, vissa har en planerad lösning och ingår i
-arna i området.                      investeringspaket SKA2 medan andra är så pass tidiga
-Situationen för inmatning bedöms dock fortsätta vara att de ej har en planerad investering som kan redovisas i
-ansträngd även framöver då det finns mycket produktions- nätutvecklingsplanen.
-förfrågningar i området. För att hantera produktionsförfråg- I delområde Skaraborg används idag inga flexibilitets-
-ningarna samarbetar Ellevio med Vattenfall Eldistribution tjänster eller andra resurser.
+vilket planeras vara klart 2033. Därtill planeras även för
+en ny stamstation i området7. Dessa förstärkningar förvän-
+tas åtgärda de begränsningar för inmatning som finns i
+dagsläget, samt möjliggör för de planerade uttagsökning-
+arna i området.
+Situationen för inmatning bedöms dock fortsätta vara
+ansträngd även framöver då det finns mycket produktions-
+förfrågningar i området. För att hantera produktionsförfråg-
+ningarna samarbetar Ellevio med Vattenfall Eldistribution
 
-11\.   Norra    Bohuslän
+och Svk. En av åtgärderna som planeras för att hantera
+situationen är en ny stamstation i området.
+Enligt Ellevios analys finns det risk för att även begräns-
+ningar i det interna nätet kan uppstå, därmed krävs även
+åtgärder i regionnätet för att kunna ansluta nya produk-
+tionsanläggningar. Ellevio planerar därför att bygga nya
+130 kV-ledningar samt två nya regionnätsstationer. För
 
-I Norra Bohuslän finns det idag begränsningar för förstärkning av nätstrukturen i regionnätet. Ett förstärknings-
-både uttag och inmatning till och från överliggande paket är i nuläget under utredning och håller på att formas
-elnät som hindrar större nyanslutningar eller utökningar till specifika projekt. Projekten har dock inte kommit tillräck-
-i området. Begränsningarna finns dels i stamnätet och ligt långt i processen för att kunna presenteras i denna
-förväntas delvis byggas bort genom förstärkningar mellan nätutvecklingsplan.
-Skogssäter–Stenungsund–Ingelkärr–Stenkullen, vilken Det finns också en begränsning för uttag i sydvästra
-planeras tas i drift 20318 enligt Svk:s nätutvecklingsplan delen av området, Ellevio saknar idag planerad åtgärd för
+att möjliggöra snabbare anslutning av dessa produktions-
+anläggningar söker Ellevio områdeskoncession upp
+till 36 kV för kabel. Förfrågningarna är av varierande
+mognadsgrad, vissa har en planerad lösning och ingår i
+investeringspaket SKA2 medan andra är så pass tidiga
+att de ej har en planerad investering som kan redovisas i
+nätutvecklingsplanen.
+I delområde Skaraborg används idag inga flexibilitets-
+tjänster eller andra resurser.
 
-för 2024–2033. Det finns också begränsningar i Vattenfall denna begränsning.
-Eldistributions nät som hindrar större anslutningar och I Norra Bohuslän används idag villkorade avtal för
-utökningar av både elförbrukning och elproduktion i ned styrning av produktion som en nuvarande lösning innan
-området. Större nyanslutningar förväntas att resultera i planerade nätinvesteringar genomförts.
+11\.  Norra     Bohuslän
+
+I Norra Bohuslän finns det idag begränsningar för
+både uttag och inmatning till och från överliggande
+elnät som hindrar större nyanslutningar eller utökningar
+i området. Begränsningarna finns dels i stamnätet och
+förväntas delvis byggas bort genom förstärkningar mellan
+Skogssäter–Stenungsund–Ingelkärr–Stenkullen, vilken
+planeras tas i drift 20318 enligt Svk:s nätutvecklingsplan
+
+för 2024–2033. Det finns också begränsningar i Vattenfall
+Eldistributions nät som hindrar större anslutningar och
+utökningar av både elförbrukning och elproduktion i
+området. Större nyanslutningar förväntas att resultera i
 omfattande förstärkningspaket av flera ledningar.
 Ellevio har idag begränsningar för uttag i det egna
 40 kV-nätet. Begränsningarna finns i Strömstadstrakten,
@@ -9351,25 +9827,38 @@ samt i västra delen, runt Grebbestad, och kommer delvis
 att byggas bort med de planerade investeringarna NBO2
 och NBO3. Ellevio ser dock ett behov av ytterligare
 
+förstärkning av nätstrukturen i regionnätet. Ett förstärknings-
+paket är i nuläget under utredning och håller på att formas
+till specifika projekt. Projekten har dock inte kommit tillräck-
+ligt långt i processen för att kunna presenteras i denna
+nätutvecklingsplan.
+Det finns också en begränsning för uttag i sydvästra
+delen av området, Ellevio saknar idag planerad åtgärd för
+
+denna begränsning.
+I Norra Bohuslän används idag villkorade avtal för
+ned styrning av produktion som en nuvarande lösning innan
+planerade nätinvesteringar genomförts.
+
 7, 8 Svk, Nätutvecklingsplan 2024–2033
 
 NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOSEN 38
 
 <!-- sida 241 -->
 
-12\.   Orust-Tjörn
+12\.  Orust-Tjörn
 
-Det finns idag begränsningar för uttag gentemot över- Givet Ellevios prognos för behov av överförings-
-liggande nät som matas från Vattenfall Eldistribution, som kapacitet förväntas det uppstå nya begränsningar för uttag
-i sin tur matas från Svk. Enligt Svk:s nätutvecklingsplan i sydöstra delen av området från och med 2025. Dessa
-förväntas dessa begränsningar delvis byggas bort genom byggs delvis bort i och med investeringspaket OT2. För
-nätförstärkningar mellan Skogssäter–Stenungsund– resterande begränsningar saknas det idag investerings-
-Ingelkärr–Stenkullen vilken planeras tas i drift 20319. åtgärder.
-Ellevio har också fått nekade ansökningar för ökat I nuläget används inga flexibilitetstjänster eller andra
-abonnemang av uttag från överliggande nät. Detta då det resurser i delområde Orust-Tjörn.
+Det finns idag begränsningar för uttag gentemot över-
+liggande nät som matas från Vattenfall Eldistribution, som
+i sin tur matas från Svk. Enligt Svk:s nätutvecklingsplan
+förväntas dessa begränsningar delvis byggas bort genom
+nätförstärkningar mellan Skogssäter–Stenungsund–
+Ingelkärr–Stenkullen vilken planeras tas i drift 20319.
+Ellevio har också fått nekade ansökningar för ökat
+
+abonnemang av uttag från överliggande nät. Detta då det
 finns begränsningar i matande station som ägs av Vattenfall
 Eldistribution. Ellevio och Vattenfall Eldistribution jobbar idag
-
 gemensamt på att stärka matningen till Orust-Tjörn i och med
 investeringspaketet OT1. Denna åtgärd innebär att Ellevios
 40 kV-nät kommer att kunna matas även österifrån och på så
@@ -9379,28 +9868,57 @@ möjligheter för större lastökningar i delområdets regionnät
 på grund av överlastade ledningar vid fel. Det finns också
 lokala begränsade möjligheter för uttag i östra delen
 av området samt i sydväst, i Skärhamnstrakten. Dessa
+
 begränsningar förväntas till största del byggas bort med
 investeringspaketet OT3, respektive OT2.
 
-13\.   Halland
+Givet Ellevios prognos för behov av överförings-
+kapacitet förväntas det uppstå nya begränsningar för uttag
+i sydöstra delen av området från och med 2025. Dessa
+byggs delvis bort i och med investeringspaket OT2. För
+resterande begränsningar saknas det idag investerings-
 
-I Hallandsnätet finns det idag begränsningar för större På grund av hårt belastade ledningar vid reservdrift
-uttagsökningar från överliggande stamnät. Enligt Svk:s finns det också begränsade möjligheter för ökat uttag i
-nätutvecklingsplan förväntas begränsningarna delvis Ellevios 50 kV-nät mellan Kungsbacka och Varberg. I takt
-byggas bort genom förstärkningar mellan Skogssäter– med att behovet av överföringskapacitet förväntas öka
-Stenungsund–Ingelkärr–Stenkullen vilken planeras tas i förväntas fler ledningar i 50 kV-nätet bli överlastade. Ett
-drift 203110. Ellevio har även begränsningar gällande investeringspaket för detta är i nuläget under utredning
-uttag gentemot Vattenfall för matning till Göteborgs norra och håller på att formas till specifika projekt. Projekten har
+åtgärder.
+I nuläget används inga flexibilitetstjänster eller andra
+resurser i delområde Orust-Tjörn.
 
-skärgård. Trots att ovan nämnda projekt kan lösa detta, dock inte kommit tillräckligt långt i processen för att kunna
-riskerar det ändå bli utmanande att möta framtida behov presenteras i denna nätutvecklingsplan.
-då uttaget prognostiseras öka i närliggande områden. På grund av den ökande lasten i området runt södra
-Det finns också begränsningar för större uttagsökningar Göteborg finns ett behov av ytterligare investeringar i
-i Ellevios egna elnät i områdena kring södra Göteborg, området. Åtgärder för detta är för närvarande under utred-
-Kungsbacka och Varberg. Investeringspaket HAL1 förvän- ning, både internt samt i dialog med Svk.
-tas bygga bort begränsningarna i Kungsbacka, men bara I Hallandsnätet används idag avtal för produktions-
-delvis i områdena södra Göteborg och Varberg. Möjliga garanti för att hantera vissa situationer med hög last i
-andra åtgärder utreds i dagsläget.   området.
+13\.  Halland
+
+I Hallandsnätet finns det idag begränsningar för större
+uttagsökningar från överliggande stamnät. Enligt Svk:s
+nätutvecklingsplan förväntas begränsningarna delvis
+byggas bort genom förstärkningar mellan Skogssäter–
+Stenungsund–Ingelkärr–Stenkullen vilken planeras tas i
+drift 203110. Ellevio har även begränsningar gällande
+uttag gentemot Vattenfall för matning till Göteborgs norra
+
+skärgård. Trots att ovan nämnda projekt kan lösa detta,
+riskerar det ändå bli utmanande att möta framtida behov
+då uttaget prognostiseras öka i närliggande områden.
+Det finns också begränsningar för större uttagsökningar
+i Ellevios egna elnät i områdena kring södra Göteborg,
+Kungsbacka och Varberg. Investeringspaket HAL1 förvän-
+tas bygga bort begränsningarna i Kungsbacka, men bara
+delvis i områdena södra Göteborg och Varberg. Möjliga
+andra åtgärder utreds i dagsläget.
+
+På grund av hårt belastade ledningar vid reservdrift
+finns det också begränsade möjligheter för ökat uttag i
+Ellevios 50 kV-nät mellan Kungsbacka och Varberg. I takt
+med att behovet av överföringskapacitet förväntas öka
+förväntas fler ledningar i 50 kV-nätet bli överlastade. Ett
+investeringspaket för detta är i nuläget under utredning
+och håller på att formas till specifika projekt. Projekten har
+
+dock inte kommit tillräckligt långt i processen för att kunna
+presenteras i denna nätutvecklingsplan.
+På grund av den ökande lasten i området runt södra
+Göteborg finns ett behov av ytterligare investeringar i
+området. Åtgärder för detta är för närvarande under utred-
+ning, både internt samt i dialog med Svk.
+I Hallandsnätet används idag avtal för produktions-
+garanti för att hantera vissa situationer med hög last i
+området.
 
 9, 10 Svk, Nätutvecklingsplan 2024–2033
 
@@ -9474,57 +9992,83 @@ NÄTUTVECKLINGSPLAN 2025–2034: SYSTEMETS NUVARANDE FÖRMÅGA ATT MÖTA PROGNOS
 
 <!-- sida 244 -->
 
-3   Planerade            investeringar              och
+3   Planerade            investeringar             och
 
 alternativa           lösningar
 
-3.1.1     Redogörelse            för  valet     av
+3.1.1     Redogörelse           för   valet    av
 
-investeringar           som     företaget       redovisat
+investeringar          som     företaget        redovisat
 
-Föreskrifterna (EIFS 2024:1) om nätutvecklingsplaner säger Ett antal projekt utöver de som är i huvudsaklig distribu-
+Föreskrifterna (EIFS 2024:1) om nätutvecklingsplaner säger
+att elnätsbolagen ska redovisa planerade investeringar i
+huvudsaklig distributionsinfrastruktur som krävs för att ansluta
+ny produktionskapacitet eller förbrukning, eller utö kning av
+befintlig.
+Ellevio definierar den huvudsakliga distributionsinfra-
+strukturen som de delar av elnätet som distribuerar effekt
 
-att elnätsbolagen ska redovisa planerade investeringar i tionsinfrastruktur redovisas också för vissa delområden, dvs
-huvudsaklig distributionsinfrastruktur som krävs för att ansluta ett antal projekt i 20/10 kV-transformatorstationer. I dessa
-ny produktionskapacitet eller förbrukning, eller utö kning av nätområden bedöms byte av transformator och stations-
-befintlig.                          ombyggnad ta längre tid och konsekvenser vid avbrott och/
-Ellevio definierar den huvudsakliga distributionsinfra- eller begränsningar i nätet ha en större påverkan.
-strukturen som de delar av elnätet som distribuerar effekt De delområden som berörs av detta är Täby, Lidingö, Ekerö,
-på spänningsnivåer mellan 30 och 220 kV, samt stationer Nynäshamn, Vallentuna samt i viss mån även Halland.
-som transformerar ner till lokalnät. Investeringarna som Projektinitiativ som rör liknande åtgärder presenteras
-redovisas är de investeringar och projekt som utvecklar den gemensamt i respektive område. Det är exempelvis transfor-
-huvudsakliga distributionsinfrastrukturen i betydande omfatt- matoråtgärder eller spänningshöjningar. Stora projekt med
-ning och på så vis bidrar stort till elnätets utveckling. De unika lösningar för ökad kapacitet presenteras enskilt.
+på spänningsnivåer mellan 30 och 220 kV, samt stationer
+som transformerar ner till lokalnät. Investeringarna som
+redovisas är de investeringar och projekt som utvecklar den
+huvudsakliga distributionsinfrastrukturen i betydande omfatt-
+ning och på så vis bidrar stort till elnätets utveckling. De
 bakomliggande drivkrafterna till Ellevios planerade investe-
 ringar kan vara många men de investeringar som redovisas
-
 i nätutvecklingsplanen har en av följande drivkrafter:
 • Investeringar som är direkt kopplade till en identifierad
 kapacitets begränsning i avsnitt 2.3,
 • I nvesteringar som är direkt kopplade till ansökningar om
 ny, eller ökning av befintlig elförbrukning och elproduktion,
+
 • Investeringar som är allmänt systemförstärkande och/eller
 ändrar strukturen på nätet för att öka systemets förmåga
 att överföra kapacitet.
+
+Ett antal projekt utöver de som är i huvudsaklig distribu-
+tionsinfrastruktur redovisas också för vissa delområden, dvs
+ett antal projekt i 20/10 kV-transformatorstationer. I dessa
+nätområden bedöms byte av transformator och stations-
+ombyggnad ta längre tid och konsekvenser vid avbrott och/
+eller begränsningar i nätet ha en större påverkan.
+De delområden som berörs av detta är Täby, Lidingö, Ekerö,
+
+Nynäshamn, Vallentuna samt i viss mån även Halland.
+Projektinitiativ som rör liknande åtgärder presenteras
+gemensamt i respektive område. Det är exempelvis transfor-
+matoråtgärder eller spänningshöjningar. Stora projekt med
+unika lösningar för ökad kapacitet presenteras enskilt.
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 42
 
 <!-- sida 245 -->
 
-3.1.2     Redogörelse            för  valet    av    det
+3.1.2     Redogörelse           för   valet    av   det
 
 mest     kostnadseffektiva              alternativet
 
-Ellevio värdesätter långsiktigt hållbart elnät med fokus som förlängt underhåll, drift och felavhjälpning samt
-på bra nätlösningar och förbättrad leveranskvalitet, men flexibilitets lösningar. När beslut för projektgenom-
-också på effektivt projektgenomförande. Identifierade förande är taget läggs stort fokus på projekteffektivitet
-nuvarande och förväntade kapacitetsbegränsningar med bra intern organisation och effektiva upphandlings-
-i elnätet vägs samman mot andra behov, såsom person- former för genomf örande.
-säkerhet, driftsäkerhet och teknisk livslängd. Utifrån För att säkerställa att Ellevio på lång sikt gör rätt
-dessa faktorer förvaltas sedan en projektportfölj med investeringar tillämpar Ellevio målnät som på ett visionärt
-investeringar och alternativa lösningar. sätt beskriver nätbehovet och åtgärder över elnätets
-När Ellevio tar projektbeslut beaktas nätnyttan hela livslängd.
+Ellevio värdesätter långsiktigt hållbart elnät med fokus
+på bra nätlösningar och förbättrad leveranskvalitet, men
+också på effektivt projektgenomförande. Identifierade
+nuvarande och förväntade kapacitetsbegränsningar
+i elnätet vägs samman mot andra behov, såsom person-
+säkerhet, driftsäkerhet och teknisk livslängd. Utifrån
+dessa faktorer förvaltas sedan en projektportfölj med
+
+investeringar och alternativa lösningar.
+När Ellevio tar projektbeslut beaktas nätnyttan
 av nytt nät mot alternativa lösningar och kostnader,
+
+som förlängt underhåll, drift och felavhjälpning samt
+flexibilitets lösningar. När beslut för projektgenom-
+förande är taget läggs stort fokus på projekteffektivitet
+med bra intern organisation och effektiva upphandlings-
+former för genomf örande.
+För att säkerställa att Ellevio på lång sikt gör rätt
+investeringar tillämpar Ellevio målnät som på ett visionärt
+
+sätt beskriver nätbehovet och åtgärder över elnätets
+hela livslängd.
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 43
 
@@ -9757,67 +10301,111 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 256 -->
 
-3.2.1     Kompletterande               information          om
+3.2.1     Kompletterande              information          om
 
 planerade          investeringar
 
 –
 
-3.3    Behov      av   flexibilitetst      jänster     och
+3.3   Behov       av   flexibilitetst      jänster     och
 
-andra       resurser
+andra      resurser
 
-I avsnitt 3.3 ska elnätsbolagen redovisa ett förväntat behov Notera att det kan finnas behov av flexibilitetstjänster och
-av flexibilitetstjänster och andra resurser som kan användas andra resurser på flera nivåer i elnätet. Det kan exempelvis
-som alternativ för investeringar och nätförstärkningar. Ellevio finnas ett behov i hela delområdet som beror på begräns-
-har, som nämnts ovan, sen tidigare arbetat med villkorade ningar i överliggande nät eller i gränspunkter samtidigt som
-avtal, produktionsgaranti samt enstaka flexibilitetsmarknader det kan finnas lokala behov i specifika punkter i det egna
-som tillfälliga lösningar innan nätförstärkningar är på plats. elnätet. I denna första upplaga av Ellevios nätutvecklings-
-Allteftersom driftstöd och ramverk för flexibilitets- plan redovisas enbart behovet gen temot överliggande nät.
-lösningar utvecklas kommer nya möjligheter för fler typer av Det pågår parallella diskussioner och samtal i branschen
-flexibilitets tjänster och andra resurser öppnas upp. I nuläget om var ansvaret ligger att anskaffa flexibilitetstjänster och
+I avsnitt 3.3 ska elnätsbolagen redovisa ett förväntat behov
+av flexibilitetstjänster och andra resurser som kan användas
+som alternativ för investeringar och nätförstärkningar. Ellevio
+har, som nämnts ovan, sen tidigare arbetat med villkorade
+avtal, produktionsgaranti samt enstaka flexibilitetsmarknader
+som tillfälliga lösningar innan nätförstärkningar är på plats.
+Allteftersom driftstöd och ramverk för flexibilitets-
 
-är Ellevio relativt tidigt i mognadstrappan för flexibilitets- andra resurser för att hantera begränsningar i överliggande
-lösningar där främst möjligheter för att starta pilotprojekt elnät. Ellevio vill belysa att ingen ställning i denna fråga tas i
-undersöks. I takt med att mognadsgraden ökar internt såväl nätutvecklingsplanen utan enbart redovisar det identifierade
-som externt kommer informationen i detta avsnitt av nätut- behovet som förväntas uppstå av sådana begränsningar.
-vecklingsplanen förfinas och resultat av analyserna ge en De identifierade nuvarande och eventuella förväntade
-allt bättre bild över det verkliga behovet. begränsningarna i det egna nätet är generellt sådana att
-Behovet av flexibilitetsresurser uppskattas i denna version de enbart uppstår vid felfall, det vill säga vid tillfällen där
-av nätutvecklingsplanen med förenklade antaganden som både lasten är hög och det samtidigt uppstår ett fel i någon
-på sikt planeras utvecklas iterativt. Behovet uppskattas komponent i elnätet. Kapacitetsbegränsningar av sådant
-genom att jämföra prognosen för behovet av överförings- slag uppstår sällan i praktiken. För sådana begränsningar är
-kapacitet (avsnitt 2.2) med de identifierade begränsning- marknadsmässiga lösningar generellt sätt inte en passande
-arna i elnätet. Ett antagande som görs är att den totala lösning då nyttjandet av marknaden troligtvis skulle bli lågt.
-tillkommande lasten följer förenklade profiler för hur Ellevio redovisar det förväntade behovet av flexibilitets-
+lösningar utvecklas kommer nya möjligheter för fler typer av
+flexibilitets tjänster och andra resurser öppnas upp. I nuläget
+är Ellevio relativt tidigt i mognadstrappan för flexibilitets-
+lösningar där främst möjligheter för att starta pilotprojekt
+undersöks. I takt med att mognadsgraden ökar internt såväl
+som externt kommer informationen i detta avsnitt av nätut-
+vecklingsplanen förfinas och resultat av analyserna ge en
+allt bättre bild över det verkliga behovet.
+Behovet av flexibilitetsresurser uppskattas i denna version
+av nätutvecklingsplanen med förenklade antaganden som
+på sikt planeras utvecklas iterativt. Behovet uppskattas
+genom att jämföra prognosen för behovet av överförings-
 
-el förbrukning kan komma att se ut beroende på typ av last tjänster och andra resurser per delområde i tabell 3. I avsnitt
-som ska anslutas. I vissa fall saknas underlag för att anta en 3.3.2 kompletteras det redovisade behovet med information
-lastprofil och i de fallen antas tillkommande last ha samma om omfattning och passande åtgärder. I takt med att mark-
-profil som dagens last. Behovet som redovisas är därmed en naden för flexibilitetstjänster och andra resurser utvecklas
-uppskattning och indikation som kan användas som under- antas också fler åtgärder finnas tillgängliga längre fram.
+kapacitet (avsnitt 2.2) med de identifierade begränsning-
+arna i elnätet. Ett antagande som görs är att den totala
+tillkommande lasten följer förenklade profiler för hur
+el förbrukning kan komma att se ut beroende på typ av last
+som ska anslutas. I vissa fall saknas underlag för att anta en
+lastprofil och i de fallen antas tillkommande last ha samma
+profil som dagens last. Behovet som redovisas är därmed en
+uppskattning och indikation som kan användas som under-
 lag till vidare dialog.
+
+Notera att det kan finnas behov av flexibilitetstjänster och
+andra resurser på flera nivåer i elnätet. Det kan exempelvis
+finnas ett behov i hela delområdet som beror på begräns-
+ningar i överliggande nät eller i gränspunkter samtidigt som
+det kan finnas lokala behov i specifika punkter i det egna
+elnätet. I denna första upplaga av Ellevios nätutvecklings-
+plan redovisas enbart behovet gen temot överliggande nät.
+
+Det pågår parallella diskussioner och samtal i branschen
+om var ansvaret ligger att anskaffa flexibilitetstjänster och
+andra resurser för att hantera begränsningar i överliggande
+elnät. Ellevio vill belysa att ingen ställning i denna fråga tas i
+nätutvecklingsplanen utan enbart redovisar det identifierade
+behovet som förväntas uppstå av sådana begränsningar.
+De identifierade nuvarande och eventuella förväntade
+begränsningarna i det egna nätet är generellt sådana att
+de enbart uppstår vid felfall, det vill säga vid tillfällen där
+både lasten är hög och det samtidigt uppstår ett fel i någon
+komponent i elnätet. Kapacitetsbegränsningar av sådant
+slag uppstår sällan i praktiken. För sådana begränsningar är
+
+marknadsmässiga lösningar generellt sätt inte en passande
+lösning då nyttjandet av marknaden troligtvis skulle bli lågt.
+Ellevio redovisar det förväntade behovet av flexibilitets-
+tjänster och andra resurser per delområde i tabell 3. I avsnitt
+3.3.2 kompletteras det redovisade behovet med information
+om omfattning och passande åtgärder. I takt med att mark-
+naden för flexibilitetstjänster och andra resurser utvecklas
+antas också fler åtgärder finnas tillgängliga längre fram.
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 54
 
 <!-- sida 257 -->
 
-3.3.1     Det    förväntade          behovet
+3.3.1     Det   förväntade          behovet
 
-Att förutspå det framtida behovet av flexibilitetstjänster inte medräknat i redovisningen nedan. Det behov som
-och andra resurser är utmanande. Dels är det osäkert hur redovisas är också det eventuella maximala behovet som
-utvecklingen kommer att se ut, dels finns det osäkerheter kan uppstå under de timmarna med högst elförbrukning
-kring de projekt som idag pågår eller planeras i överlig- eller elproduktion. Resterande timmar är behovet lägre
-gande nät och hur mycket ny effekt dessa kan komma att eller noll.
+Att förutspå det framtida behovet av flexibilitetstjänster
+och andra resurser är utmanande. Dels är det osäkert hur
+utvecklingen kommer att se ut, dels finns det osäkerheter
+kring de projekt som idag pågår eller planeras i överlig-
+gande nät och hur mycket ny effekt dessa kan komma att
+resultera i. På grund av dessa osäkerheter redovisas ett
+intervall av det förväntade behovet av flexibilitetstjänster
 
-resultera i. På grund av dessa osäkerheter redovisas ett I och med att scenario 2 innebär ett högre behov av
-intervall av det förväntade behovet av flexibilitetstjänster överföringskapacitet betyder det att behovet av flexibilitets-
-och andra resurser utifrån Ellevios bästa bedömning med tjänster kan bli högre än vad som redo visas nedan. Fram-
-den information som finns tillgänglig idag. förallt förväntas behovet på 6–10 år öka i och med att
-Behovet som redovisas är det tillkommande behov planer som ligger så pass långt fram i tiden innehåller en
-som förväntas uppstå med ett ökat behov av överförings- högre grad av osäkerhet och därmed i större utsträckning
-kapacitet enligt scenario 1. Det behov som finns idag och ingår i scenario 2.
+och andra resurser utifrån Ellevios bästa bedömning med
+den information som finns tillgänglig idag.
+Behovet som redovisas är det tillkommande behov
+som förväntas uppstå med ett ökat behov av överförings-
+kapacitet enligt scenario 1. Det behov som finns idag och
 som Ellevio redan har en nuvarande lösning för är därmed
+
+inte medräknat i redovisningen nedan. Det behov som
+redovisas är också det eventuella maximala behovet som
+kan uppstå under de timmarna med högst elförbrukning
+eller elproduktion. Resterande timmar är behovet lägre
+eller noll.
+I och med att scenario 2 innebär ett högre behov av
+överföringskapacitet betyder det att behovet av flexibilitets-
+
+tjänster kan bli högre än vad som redo visas nedan. Fram-
+förallt förväntas behovet på 6–10 år öka i och med att
+planer som ligger så pass långt fram i tiden innehåller en
+högre grad av osäkerhet och därmed i större utsträckning
+ingår i scenario 2.
 
 NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNINGAR 55
 
@@ -9862,106 +10450,190 @@ NÄTUTVECKLINGSPLAN 2025–2034: PLANERADE INVESTERINGAR OCH ALTERNATIVA LÖSNIN
 
 <!-- sida 259 -->
 
-3.3.2     Redogörelse            för  olika     typer
+3.3.2     Redogörelse           för   olika    typer
 
-av   åtgärder         inklusive      omfattning          av
+av   åtgärder        inklusive       omfattning         av
 
 behovet        av   åtgärderna
 
-Som nämnts tidigare befinner sig Ellevio tidigt i mognads- Värmland
-trappan vad gäller flexibilitetstjänster och andra resurser. I dagsläget finns ett behov av flexibilitetstjänster och andra
+Som nämnts tidigare befinner sig Ellevio tidigt i mognads-
+trappan vad gäller flexibilitetstjänster och andra resurser.
+Att göra en bedömning för vilka typer av åtgärder det fram-
+tida behovet avser är även det utmanande. Generellt går
+det att säga att behovet som redovisas avser nedstyrning av
+antingen elförbrukning eller elproduktion under en viss tids-
+period. Då marknadsmässiga lösningar i dagsläget saknas
 
-Att göra en bedömning för vilka typer av åtgärder det fram- resurser på grund av det produktionsstopp som hindrar ytter-
-tida behovet avser är även det utmanande. Generellt går ligare inmatning till stamnätet. Det framt ida behovet av flexi-
-det att säga att behovet som redovisas avser nedstyrning av bilitetstjänster och andra resurser kommer att bero på Svk:s
-antingen elförbrukning eller elproduktion under en viss tids- investeringar Skogssäter–Stenungsund–Ingelkärr–Stenkullen
-period. Då marknadsmässiga lösningar i dagsläget saknas och hur mycket effekt som kommer att kunna tilldelas Ellevios
-i Ellevios delområden är därför villkorade avtal en passande regionnät i området. Det behov som finns idag och eventuellt
-lösning i samtliga delområden där det finns ett behov. En kom- kommer att finnas under tidsperioden 2025–2034 uppstår
-bination av olika typer av resurser kan tänkas vara ett sätt att endast under sommarhalvåret och förväntas kvarstå under
-uppnå bästa möjliga resultat.       dagar till veckor. Det finns i nuläget mycket förfrågningar i
-ett tidigt skede, samt ett stort intresse för att ansluta produk-
-Dalarna                             tion i Värmlandsnätet. I och med det rådande produktions-
-I dagsläget finns det ett behov av flexibilitetstjänster och stoppet finns det osäkerheter kring hur utvecklingen kommer
-andra resurser på grund av begränsningar mot överlig- att se ut när detta hävs.
+i Ellevios delområden är därför villkorade avtal en passande
+lösning i samtliga delområden där det finns ett behov. En kom-
+bination av olika typer av resurser kan tänkas vara ett sätt att
+uppnå bästa möjliga resultat.
 
-gande nät. Dagens behov för produktionsn edstyrning uppstår Utifrån den prognostiserade ökningen för behovet av
-normalt endast under sommarhalvåret och kan kvarstå med överföringskapacitet kopplat till elförbrukning förväntas ett
-varierande behov under veckor till månader. behov av flexibilitetstjänster och andra resurser uppstå under
-I och med att en ny stamstation byggs (DAL5) kommer den relevanta tidsperioden. Investeringar i överliggande
-Ellevio få ytterligare en gränspunkt mot stamnätet som möjlig- stamnät förväntas färdigställas först 2035. Det behov som
-gör ökad överföringskapacitet. Ellevio har under planerings- enligt Ellevios prognos kommer att uppstå förväntas finnas
-processen för den nya stamstationen haft en dialog med vid ett fåtal timmar under kalla vinterdagar i kombination
-Svk om framtida abonnemangsnivåer och kan därmed göra med låg produktion i området.
+Dalarna
+I dagsläget finns det ett behov av flexibilitetstjänster och
+andra resurser på grund av begränsningar mot överlig-
+gande nät. Dagens behov för produktionsn edstyrning uppstår
+normalt endast under sommarhalvåret och kan kvarstå med
+varierande behov under veckor till månader.
+I och med att en ny stamstation byggs (DAL5) kommer
+
+Ellevio få ytterligare en gränspunkt mot stamnätet som möjlig-
+gör ökad överföringskapacitet. Ellevio har under planerings-
+processen för den nya stamstationen haft en dialog med
+Svk om framtida abonnemangsnivåer och kan därmed göra
 bedömningen att det inte kommer att kvarstå något behov
-av flexibilitetstjänster eller andra resurser utifrån den prog- Vallentuna
-nostiserade utvecklingen. Ellevio vill dock poängtera att på Det behov som förväntas att uppstå kommer att bero på
-grund av det rådande produktionsstoppet finns det osäkerhe- utfallet av Svk:s investeringspaket Stockholm Ström och Stor-
-ter kring hur utvecklingen kommer att se ut när detta hävs. stockholm Väst och hur mycket effekt som kommer att kunna
+av flexibilitetstjänster eller andra resurser utifrån den prog-
+nostiserade utvecklingen. Ellevio vill dock poängtera att på
+grund av det rådande produktionsstoppet finns det osäkerhe-
+ter kring hur utvecklingen kommer att se ut när detta hävs.
 
-tilldelas Ellevios regionnät i området.
-Hälsingland                          I det fallet det tillkommande behovet av flexibilitetstjänster
-I och med det pågående investeringsprogram NordSyd och andra resurser uppstår förväntas behovet uppstå under
-som fortgår i området har Ellevio och Svk en kontinuerlig årets kallaste dagar under kalla vintrar och behovet förvän-
-dialog om kommande abonnemangsnivåer. Ellevio bedömer tas kvarstå i timmar.
+Hälsingland
+I och med det pågående investeringsprogram NordSyd
+som fortgår i området har Ellevio och Svk en kontinuerlig
+
+dialog om kommande abonnemangsnivåer. Ellevio bedömer
 därmed att det inte finns ett behov av flexibilitetstjänster eller
 andra resurser mot överliggande nät i Hälsingland.
+
+Värmland
+I dagsläget finns ett behov av flexibilitetstjänster och andra
+resurser på grund av det produktionsstopp som hindrar ytter-
+ligare inmatning till stamnätet. Det framt ida behovet av flexi-
+bilitetstjänster och andra resurser kommer att bero på Svk:s
+investeringar Skogssäter–Stenungsund–Ingelkärr–Stenkullen
+och hur mycket effekt som kommer att kunna tilldelas Ellevios
+
+regionnät i området. Det behov som finns idag och eventuellt
+kommer att finnas under tidsperioden 2025–2034 uppstår
+endast under sommarhalvåret och förväntas kvarstå under
+dagar till veckor. Det finns i nuläget mycket förfrågningar i
+ett tidigt skede, samt ett stort intresse för att ansluta produk-
+tion i Värmlandsnätet. I och med det rådande produktions-
+stoppet finns det osäkerheter kring hur utvecklingen kommer
+att se ut när detta hävs.
+Utifrån den prognostiserade ökningen för behovet av
+överföringskapacitet kopplat till elförbrukning förväntas ett
+behov av flexibilitetstjänster och andra resurser uppstå under
+den relevanta tidsperioden. Investeringar i överliggande
+
+stamnät förväntas färdigställas först 2035. Det behov som
+enligt Ellevios prognos kommer att uppstå förväntas finnas
+vid ett fåtal timmar under kalla vinterdagar i kombination
+med låg produktion i området.
+
+Vallentuna
+Det behov som förväntas att uppstå kommer att bero på
+utfallet av Svk:s investeringspaket Stockholm Ström och Stor-
+stockholm Väst och hur mycket effekt som kommer att kunna
+tilldelas Ellevios regionnät i området.
+I det fallet det tillkommande behovet av flexibilitetstjänster
+och andra resurser uppstår förväntas behovet uppstå under
+årets kallaste dagar under kalla vintrar och behovet förvän-
+
+tas kvarstå i timmar.
 
 NNÄÄTTUUTTVVEECCKKLLIINNGGSSPPLLAANN 22002255––22003344:: SSYYSSTTEEMMEETTSS NNUUVVAARRAANNDDEE FFÖÖRRMMÅÅGGAA AATTTT MMÖÖTTAA PPRROOGGNNOOSSEENN 57
 
 <!-- sida 260 -->
 
-Täby                                Nynäshamn
-Det behov som förväntas att uppstå kommer att bero på Det behov som förväntas att uppstå kommer att bero på
-utfallet av Svk:s investeringspaket Stockholm Ström och Stor- utfallet av Svk:s investeringspaket Stockholm Ström och Stor-
-stockholm Väst och hur mycket effekt som kommer att kunna stockholm Väst och hur mycket effekt som kommer att kunna
-tilldelas Ellevios regionnät i området. tilldelas Ellevios regionnät i området.
-I det fallet det tillkommande behovet av flexibilitetstjänster I det fallet det tillkommande behovet av flexibilitetstjänster
-och andra resurser uppstår förväntas behovet uppstå under och andra resurser uppstår förväntas behovet uppstå under
-årets kallaste dagar under kalla vintrar och behovet för- årets kallaste dagar under kalla vintrar och det förväntas
-väntas kvarstå i timmar.            kvarstå i timmar.
-
-Ekerö                               Skaraborg
-Det behov som förväntas att uppstå kommer att bero på Utifrån det prognostiserade framtida behovet av överföring-
-utfallet av Svk:s investeringspaket Stockholm Ström och Stor- skapacitet för elförbrukning och de nuvarande, planerade
-stockholm Väst och hur mycket effekt som kommer att kunna åtgärderna i Skaraborg förväntas ett behov av flexibilitets-
-tilldelas Ellevios regionnät i området. tjänster eller andra resurser uppstå. Uppskattningsvis förvän-
-I det fallet det tillkommande behovet av flexibilitetstjänster tas det röra sig om maximalt 10 MW inom 3–5 år och upp
-och andra resurser uppstår förväntas behovet uppstå under till 25 MW om 6–10 år. Det potentiella behovet förväntas
-årets kallaste dagar under kalla vintrar och behovet förvän- uppstå under vinterhalvåret och bestå under timmar till
-tas kvarstå i timmar.               dagar. Ellevio vill belysa att drivkrafterna bakom ökningen
-i Skaraborg är nyanslutning av stora punktlaster vars last-
-Stockholm                           profiler är okända och är med dagens information svåra att
-Utöver de flexibilitetstjänster och andra resurser som uppskatta. Hur lastprofilerna kommer att se ut kommer i sin
-används i dagsläget inom delområde Stockholm ser Ellevio tur att påverka hur stort behovet i slutändan blir.
-
-det ökande behovet av överföringskapacitet skapa ett Behovet av överföringskapacitet för produktion förväntas
-potentiellt behov av ytterligare ca 130 MW på längre sikt, också öka kraftigt i Skaraborg, men Ellevio saknar idag
-dvs om 6–10 år. Det framtida behovet kommer dock bero tydliga besked kring möjligheterna för överföringskapacitet
-på utfallet av Svk:s investeringspaket Stockholm Ström och till sitt elnät från ovanliggande stamnät framåt. Det är därför
-Storstockholm Väst och hur mycket effekt som kommer att svårt att bedöma det framtida behovet av flexibilitetstjänster
-kunna tilldelas Ellevios regionnät i området. och andra resurser då utfallet beror på framtida planer som
-I det fallet detta tillkommande behov av flexibilitetstjänster ännu inte är satta. Ellevios bedömning är därmed att beho-
-och andra resurser uppstår förväntas behovet uppstå under vet av flexibilitetstjänster och andra resurser kan uppgå till
-årets kallaste dagar under ett tjugotal osammanhängande 10 MW, 200 MW samt 300 MW om 0–2 år, 3–5 år, res-
-timmar spridda över vinterhalvåret. pektive 6–10. Utöver anslutningarna som ligger till grund för
-nämnda behov finns ett fortsatt stort intresse för att ansluta
-Lidingö                             ytterligare produktion i Skaraborg. Behovet förväntas uppstå
-Det behov som förväntas att uppstå kommer att bero på dagtid under sommarhalvåret, men det är svårt att bedöma
-
-utfallet av Svk:s investeringspaket Stockholm Ström och Stor- varaktigheten då det rör sig om en stor ökning av produktion
-stockholm Väst och hur mycket effekt som kommer att kunna i området.
+Täby
+Det behov som förväntas att uppstå kommer att bero på
+utfallet av Svk:s investeringspaket Stockholm Ström och Stor-
+stockholm Väst och hur mycket effekt som kommer att kunna
 tilldelas Ellevios regionnät i området.
-I det fallet det tillkommande behovet av flexibilitetstjänster Norra Bohuslän
-och andra resurser uppstår förväntas behovet uppstå under Den förväntade prognosen är fördelad på flera gränspunk-
-årets kallaste dagar under kalla vintrar och behovet förvän- ter gentemot Vattenfall Eldistribution varför prognostiserade
-tas kvarstå i timmar.               ökning per punkt blir så pass låg att flexibilitetstjänster och
+I det fallet det tillkommande behovet av flexibilitetstjänster
+och andra resurser uppstår förväntas behovet uppstå under
+
+årets kallaste dagar under kalla vintrar och behovet för-
+väntas kvarstå i timmar.
+
+Ekerö
+Det behov som förväntas att uppstå kommer att bero på
+utfallet av Svk:s investeringspaket Stockholm Ström och Stor-
+stockholm Väst och hur mycket effekt som kommer att kunna
+tilldelas Ellevios regionnät i området.
+I det fallet det tillkommande behovet av flexibilitetstjänster
+och andra resurser uppstår förväntas behovet uppstå under
+årets kallaste dagar under kalla vintrar och behovet förvän-
+tas kvarstå i timmar.
+
+Stockholm
+Utöver de flexibilitetstjänster och andra resurser som
+används i dagsläget inom delområde Stockholm ser Ellevio
+det ökande behovet av överföringskapacitet skapa ett
+potentiellt behov av ytterligare ca 130 MW på längre sikt,
+dvs om 6–10 år. Det framtida behovet kommer dock bero
+på utfallet av Svk:s investeringspaket Stockholm Ström och
+Storstockholm Väst och hur mycket effekt som kommer att
+kunna tilldelas Ellevios regionnät i området.
+I det fallet detta tillkommande behov av flexibilitetstjänster
+och andra resurser uppstår förväntas behovet uppstå under
+årets kallaste dagar under ett tjugotal osammanhängande
+
+timmar spridda över vinterhalvåret.
+
+Lidingö
+Det behov som förväntas att uppstå kommer att bero på
+utfallet av Svk:s investeringspaket Stockholm Ström och Stor-
+stockholm Väst och hur mycket effekt som kommer att kunna
+tilldelas Ellevios regionnät i området.
+I det fallet det tillkommande behovet av flexibilitetstjänster
+och andra resurser uppstår förväntas behovet uppstå under
+årets kallaste dagar under kalla vintrar och behovet förvän-
+tas kvarstå i timmar.
+
+Nynäshamn
+Det behov som förväntas att uppstå kommer att bero på
+utfallet av Svk:s investeringspaket Stockholm Ström och Stor-
+stockholm Väst och hur mycket effekt som kommer att kunna
+tilldelas Ellevios regionnät i området.
+I det fallet det tillkommande behovet av flexibilitetstjänster
+och andra resurser uppstår förväntas behovet uppstå under
+
+årets kallaste dagar under kalla vintrar och det förväntas
+kvarstå i timmar.
+
+Skaraborg
+Utifrån det prognostiserade framtida behovet av överföring-
+skapacitet för elförbrukning och de nuvarande, planerade
+åtgärderna i Skaraborg förväntas ett behov av flexibilitets-
+tjänster eller andra resurser uppstå. Uppskattningsvis förvän-
+tas det röra sig om maximalt 10 MW inom 3–5 år och upp
+till 25 MW om 6–10 år. Det potentiella behovet förväntas
+uppstå under vinterhalvåret och bestå under timmar till
+dagar. Ellevio vill belysa att drivkrafterna bakom ökningen
+
+i Skaraborg är nyanslutning av stora punktlaster vars last-
+profiler är okända och är med dagens information svåra att
+uppskatta. Hur lastprofilerna kommer att se ut kommer i sin
+tur att påverka hur stort behovet i slutändan blir.
+Behovet av överföringskapacitet för produktion förväntas
+också öka kraftigt i Skaraborg, men Ellevio saknar idag
+tydliga besked kring möjligheterna för överföringskapacitet
+till sitt elnät från ovanliggande stamnät framåt. Det är därför
+svårt att bedöma det framtida behovet av flexibilitetstjänster
+och andra resurser då utfallet beror på framtida planer som
+ännu inte är satta. Ellevios bedömning är därmed att beho-
+vet av flexibilitetstjänster och andra resurser kan uppgå till
+10 MW, 200 MW samt 300 MW om 0–2 år, 3–5 år, res-
+
+pektive 6–10. Utöver anslutningarna som ligger till grund för
+nämnda behov finns ett fortsatt stort intresse för att ansluta
+ytterligare produktion i Skaraborg. Behovet förväntas uppstå
+dagtid under sommarhalvåret, men det är svårt att bedöma
+varaktigheten då det rör sig om en stor ökning av produktion
+i området.
+
+Norra Bohuslän
+Den förväntade prognosen är fördelad på flera gränspunk-
+ter gentemot Vattenfall Eldistribution varför prognostiserade
+ökning per punkt blir så pass låg att flexibilitetstjänster och
 andra åtgärder ej bedöms behövas.
+
 Utifrån den information som Ellevio har idag om inmatnings-
 situationen kan ingen kvalificerad bedömning göras av hur
 stort behovet för flexibilitetstjänster och andra åtgärder kom-
 mer att vara. Givet den ansträngda situationen i överliggande
-
 nät samt antalet förfrågningar i tidigt skede finns det dock en
 potential för flexibilitetstjänster och andra resurser på sikt.
 
@@ -9969,31 +10641,31 @@ NNÄÄTTUUTTVVEECCKKLLIINNGGSSPPLLAANN 22002255––22003344:: SSYYSSTTEEMMEETT
 
 <!-- sida 261 -->
 
-Orust-Tjörn                         Olingan
-På grund av de begränsningar mot överliggande elnät som Behovet av överföringskapacitet förväntas kunna hanteras
-finns idag i Orust-Tjörn finns ett behov av flexibilitetstjänster med dagens nätinfrastruktur och planerade investeringar.
-eller andra resurser på ca 20 MW. Detta behov uppstår Det finns därmed inget behov av flexibilitetstjänster och
-under vinterhalvåret och är sammantaget under ett par veckors andra resurser i Olingan.
+Orust-Tjörn
+På grund av de begränsningar mot överliggande elnät som
+finns idag i Orust-Tjörn finns ett behov av flexibilitetstjänster
+eller andra resurser på ca 20 MW. Detta behov uppstår
+under vinterhalvåret och är sammantaget under ett par veckors
 tid. Ellevio och Vattenfall har gemensamt planerat för en nät-
-lösning som förväntas åtgärda dessa begränsningar med nät- Torpberget
-förstärkningar och behovet av flexibilitetstjänster och andra Det ökande prognostiserade behovet av överföringskapacitet
-resurser förväntas därmed försvinna från och med år 2029. förväntas kunna hanteras med dagens nätinfrastruktur och
-planerade investeringar. Det finns därmed inget behov av
+lösning som förväntas åtgärda dessa begränsningar med nät-
 
-Halland                             flexibilitetstjänster och andra resurser i Torpberget.
+förstärkningar och behovet av flexibilitetstjänster och andra
+resurser förväntas därmed försvinna från och med år 2029.
+
+Halland
 Då behovet av överföringskapacitet för elförbrukning prog-
-nostiseras växa under tidsperioden förväntas ett behov av Laforsen
-flexibilitetstjänster och andra resurser om upp till 50 MW Det ökande prognostiserade behovet av överförings-
-kunna uppstå fram till 2034. Behovet förväntas under topp- kapacitet förväntas kunna hanteras med dagens nätinfra-
-lasttimmarna på vinterhalvåret.     struktur och planerade investeringar. Det finns därmed inget
-behov av flexibilitetstjänster och andra resurser i Laforsen.
+nostiseras växa under tidsperioden förväntas ett behov av
+flexibilitetstjänster och andra resurser om upp till 50 MW
+kunna uppstå fram till 2034. Behovet förväntas under topp-
+lasttimmarna på vinterhalvåret.
+
 Tovåsen
 I Tovåsen prognostiseras behovet av överföringskapacitet
+
 för produktion öka och Ellevio har en pågående dialog med
 Svk om detta. Det kvarstår dock osäkerhet för delar av den
 produktion som ansluts efter år 2030 och Ellevios bedöm-
 ning är att det då kan uppstå ett behov av flexibilitetstjänster
-
 och andra resurser. Detta behov kan uppstå när som helst
 under året när produktionen är hög, det vill säga under
 blåsiga förhållanden, och kan kvarstå i flera veckor.
@@ -10001,6 +10673,25 @@ blåsiga förhållanden, och kan kvarstå i flera veckor.
 3.3.3     Omdirigering
 
 –
+
+Olingan
+Behovet av överföringskapacitet förväntas kunna hanteras
+med dagens nätinfrastruktur och planerade investeringar.
+Det finns därmed inget behov av flexibilitetstjänster och
+andra resurser i Olingan.
+
+Torpberget
+
+Det ökande prognostiserade behovet av överföringskapacitet
+förväntas kunna hanteras med dagens nätinfrastruktur och
+planerade investeringar. Det finns därmed inget behov av
+flexibilitetstjänster och andra resurser i Torpberget.
+
+Laforsen
+Det ökande prognostiserade behovet av överförings-
+kapacitet förväntas kunna hanteras med dagens nätinfra-
+struktur och planerade investeringar. Det finns därmed inget
+behov av flexibilitetstjänster och andra resurser i Laforsen.
 
 NNÄÄTTUUTTVVEECCKKLLIINNGGSSPPLLAANN 22002255––22003344:: SSYYSSTTEEMMEETTSS NNUUVVAARRAANNDDEE FFÖÖRRMMÅÅGGAA AATTTT MMÖÖTTAA PPRROOGGNNOOSSEENN 59
 
@@ -10010,24 +10701,34 @@ NNÄÄTTUUTTVVEECCKKLLIINNGGSSPPLLAANN 22002255––22003344:: SSYYSSTTEEMMEETT
 
 de    planerade             åtgärderna              för
 
-perioden            2025–2034               möter
+perioden           2025–2034                möter
 
 behovet
 
-I avsnitt 4 ska elnätsbolagen redogöra för sina förut- i elnätet. Ellevio vill därför belysa att nätutvecklingsplanen är
-sättningar och bedöma huruvida de planerade åtgärder en ögonblicksbild och att bedömningen som görs idag kan
-som finns är tillräckliga för att möta det framtida behovet komma att ändras i takt med att förutsättningarna ändras.
-av överföringskapacitet. Bedömningen som görs är en På nästa sida redogör Ellevio för sin bedömning huruvida
-nulägesanalys baserad på den information som finns de planerade åtgärderna i eget elnät är tillräckliga för
-tillgänglig vid framtagandet av nätutvecklingsplanen. att möta det prognostiserade behovet under tidsperioden
+I avsnitt 4 ska elnätsbolagen redogöra för sina förut-
+sättningar och bedöma huruvida de planerade åtgärder
+som finns är tillräckliga för att möta det framtida behovet
+av överföringskapacitet. Bedömningen som görs är en
+nulägesanalys baserad på den information som finns
+tillgänglig vid framtagandet av nätutvecklingsplanen.
+Nya planer så som nyetableringar av stora laster eller
 
-Nya planer så som nyetableringar av stora laster eller 2025–2034, samt om det förväntas kvarstå några begräns-
-produktionsanläggningar, nya planerade investeringar eller ningar mot överliggande elnät. Redogörelsen görs per
-förseningar av pågående projekt inom ett delområde eller delområde.
+produktionsanläggningar, nya planerade investeringar eller
+förseningar av pågående projekt inom ett delområde eller
 i överliggande elnät kan komma att ändra förutsättningarna
 
-NÄTUTVECKLINGSPLAN 2025–2034: FÖRETAGETS BEDÖMNING OM DE PLANERADE ÅTGÄRDERNA FÖR 60
+i elnätet. Ellevio vill därför belysa att nätutvecklingsplanen är
+en ögonblicksbild och att bedömningen som görs idag kan
+komma att ändras i takt med att förutsättningarna ändras.
+På nästa sida redogör Ellevio för sin bedömning huruvida
+de planerade åtgärderna i eget elnät är tillräckliga för
+att möta det prognostiserade behovet under tidsperioden
+2025–2034, samt om det förväntas kvarstå några begräns-
 
+ningar mot överliggande elnät. Redogörelsen görs per
+delområde.
+
+NÄTUTVECKLINGSPLAN 2025–2034: FÖRETAGETS BEDÖMNING OM DE PLANERADE ÅTGÄRDERNA FÖR 60
 PERIODEN 2025–2034 MÖTER BEHOVET
 
 <!-- sida 263 -->

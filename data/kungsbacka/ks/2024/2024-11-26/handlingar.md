@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff59a78/1732175201
 sha256: d920464692e1d24d1b7aed7f6548abea6faa8787edb4c1692e82ccd49fb234e1
 bytes: 212406130
 sidor: 256
-hamtad: 2026-10-24T08:08:11+00:00
-konverterad: 2026-10-24T08:14:37+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T22:44:45+00:00
+konverterad: 2026-11-06T22:52:19+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2459,6 +2459,7 @@ nérmeS
 <!-- sida 56 -->
 
 3202
+
 nossnåM
 
 &
@@ -2467,29 +2468,77 @@ nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
 Översikt/Introduktion
-Denna Förstudierapport tar sin utgångspunkt i fram av Newsec och som utvecklats vidare under Krav på ytskikt skall uppfyllas så Kungsbacka
-tävlingsförslaget ”Krona”, som vann den inbjudna arbetet.                                 kommuns städ, skötsel och underhållskrav
-arkitekttävlingen om ny multiarena i Kungsbacka.                                          tillgodoses.
-Förslaget har bearbetats och i rapporten illustreras I vissa fall utnyttjas rumsligheter endast av en
-två varianter. En mindre variant där programmet brukare, medan det i andra fall går att överlagra Exempelvis så behöver träläktare och tegelgolv
-är samlat i en huvudbyggnad (Alternativ A), samt flera funktioner och brukare i samma rum, då ytskiktsbehandlas med transparent behandling
-en större variant där programmet utökats med ett olika verksamheter använder rummen vid olika så det enkelt går att rengöra. Väggskivor, ytskikt
-annex på byggnadens norra sida (Alternativ B). tider.                                     m.m. skall vara robusta och tåla hårt slitage.
+Denna Förstudierapport tar sin utgångspunkt i
+tävlingsförslaget ”Krona”, som vann den inbjudna
+arkitekttävlingen om ny multiarena i Kungsbacka.
+Förslaget har bearbetats och i rapporten illustreras
+två varianter. En mindre variant där programmet
+är samlat i en huvudbyggnad (Alternativ A), samt
+en större variant där programmet utökats med ett
+annex på byggnadens norra sida (Alternativ B).
+Förslagen redovisas med tydligt markerade
+kommunala ytor respektive kommersiella ytor. Det
+gör att målbilden avseende ytor går att härleda
+genom de båda varianterna.
+Kommunala ytor tar sin utgångspunkt i de
+behovsbeskrivningar som sammanställt de olika
+verksamheternas behov samt vilka rumsliga
+förutsättningar de kräver.
+Kommersiella ytor har bearbetats med
+utgångspunkt i den kommersiella analys som togs
+Alternativ A (exklusive annex)
+
+fram av Newsec och som utvecklats vidare under
+arbetet.
+
+I vissa fall utnyttjas rumsligheter endast av en
+brukare, medan det i andra fall går att överlagra
+
+flera funktioner och brukare i samma rum, då
+olika verksamheter använder rummen vid olika
+tider.
+
+De båda varianterna uppfyller lika stora
+arkitektoniska och upplevelsemässiga värden.
+Förstudien har tagits fram med stöd av teknisk
+sakkunskap samt i nära samarbete med
+representanter för Kungsbacka kommun.
+
+I förstudien ingår en beskrivning av viktiga
+material, lösningar och viktiga rum för att
+bibehålla den arkitektoniska upplevelsen och
+helheten. De rum som inte är beskrivna i
+förstudierapporten skall generellt uppfylla nivån i
+Kungsbacka Kommuns dokument, TKA-Bygg och
+Koncept Idrottshall version 1.0.
+
+Alternativ B (inklusive annex)
+
+Krav på ytskikt skall uppfyllas så Kungsbacka
+kommuns städ, skötsel och underhållskrav
+tillgodoses.
+
+Exempelvis så behöver träläktare och tegelgolv
+
+ytskiktsbehandlas med transparent behandling
+så det enkelt går att rengöra. Väggskivor, ytskikt
+m.m. skall vara robusta och tåla hårt slitage.
 Golv i korridorer/passager m.m. kopplat till
-De båda varianterna uppfyller lika stora     inomhusidrott kan vara slipade betonggolv som är
-Förslagen redovisas med tydligt markerade    arkitektoniska och upplevelsemässiga värden. transparent behandlade för slitage och städning.
-kommunala ytor respektive kommersiella ytor. Det Förstudien har tagits fram med stöd av teknisk Golv för fotboll får studeras vidare i skede efter
-gör att målbilden avseende ytor går att härleda sakkunskap samt i nära samarbete med      förstudie. Påkörningslister och sparkskydd på
-genom de båda varianterna.                   representanter för Kungsbacka kommun.        dörrar skall monteras där behov finns. Golv i
+inomhusidrott kan vara slipade betonggolv som är
+transparent behandlade för slitage och städning.
+Golv för fotboll får studeras vidare i skede efter
+förstudie. Påkörningslister och sparkskydd på
+dörrar skall monteras där behov finns. Golv i
+
 Back-of-House skall tåla trucktransport. Dörrar
-Kommunala ytor tar sin utgångspunkt i de     I förstudien ingår en beskrivning av viktiga till utrymmen där robotstädmaskinen skall
-behovsbeskrivningar som sammanställt de olika material, lösningar och viktiga rum för att förbi skall utföras med automatik, styrd från
-verksamheternas behov samt vilka rumsliga    bibehålla den arkitektoniska upplevelsen och robotstädmaskinen. Ytor där klisterhandboll
-förutsättningar de kräver.                   helheten. De rum som inte är beskrivna i     förekommer skall studeras med avseende på
-förstudierapporten skall generellt uppfylla nivån i rengörhetssynpunkt i nästa skede.
-Kommersiella ytor har bearbetats med         Kungsbacka Kommuns dokument, TKA-Bygg och
-utgångspunkt i den kommersiella analys som togs Koncept Idrottshall version 1.0.
-Alternativ A (exklusive annex)               Alternativ B (inklusive annex)               Entréfasad / Huvudentré
+till utrymmen där robotstädmaskinen skall
+förbi skall utföras med automatik, styrd från
+robotstädmaskinen. Ytor där klisterhandboll
+förekommer skall studeras med avseende på
+rengörhetssynpunkt i nästa skede.
+
+Entréfasad / Huvudentré
+
 2
 
 <!-- sida 57 -->
@@ -5415,6 +5464,7 @@ Takplan                         Sida 13
 <!-- sida 92 -->
 
 4202
+
 nossnåM
 
 &
@@ -5423,34 +5473,82 @@ nérmeS
 ©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
 Översikt  / introduktion
-Förslaget, är utvecklat ur tävlingsförslaget möjliggörs samtidigt en förskjutning av      gräsplanerna mer plats, samt att yta kan
-KRONA. Presenterad lösning har eftersträvat  byggnaden mot norr. Samtliga renderingar i   planeras för framtida byggrätter.
-projektets ekonomiska ramar, samtidigt som   denna PDF'en visar nya läget längst mot norr Gestaltning
-krav på kommersiella och kommunala har       (se även fotnot 1). Denna placering skapar   Multisportarenan är en stor rektangulär
-eftersträvats. Bearbetning har bland annat gjorts förutsättningar för ett intimare stadsrum som byggnadskropp. Utan tidigare föreslagen
-genom att reducera volym, minska komplexiteten kan utvecklas till ankomstplats för såväl arena annexbyggnad kommer byggnaden att uppträda
-och förenkla materialkonceptet.              som ishall och simhall - det föreslås bli ett nytt majestätiskt mot samtliga väderstreck.
+Förslaget, är utvecklat ur tävlingsförslaget
+KRONA. Presenterad lösning har eftersträvat
+projektets ekonomiska ramar, samtidigt som
+krav på kommersiella och kommunala har
+eftersträvats. Bearbetning har bland annat gjorts
+genom att reducera volym, minska komplexiteten
+och förenkla materialkonceptet.
+Kommunala ytor utgår från behovsbeskrivningar
+och kravställningar från idrotten. Kommersiella
+ytor har sökt affärsmässiga potential.
+Volym
+Arenan har minskat i storlek, genom att annexet
+tagits bort, byggnaden kortats 9 meter och
+livförskjutningar i fasaderna reducerats. Det ger
+sammantaget en mindre byggnadsvolym.
+Placering
+Med ny byggnadsvolym upplevs entréplatsen
+överdimensionerad. Men med ny mindre
+byggnadsvolym, med minskad byggnadslängd
+Huvudentré och idrottsplatsen1
+
+möjliggörs samtidigt en förskjutning av
+byggnaden mot norr. Samtliga renderingar i
+denna PDF'en visar nya läget längst mot norr
+(se även fotnot 1). Denna placering skapar
+förutsättningar för ett intimare stadsrum som
+
+kan utvecklas till ankomstplats för såväl arena
+som ishall och simhall - det föreslås bli ett nytt
 idrottstorg.
-Kommunala ytor utgår från behovsbeskrivningar                                             Byggnaden är indelad i en 9-metersmodul i både
-och kravställningar från idrotten. Kommersiella Byggnaden tangerar fortsatt 80-metersgränsen X- och Y-led. Det möjliggör ett repetitivt mönster,
-ytor har sökt affärsmässiga potential.       till järnvägen, och ytan mellan arenan och   med lika moduler mot alla väderstreck, vilket ger
-ishallen kan utvecklas till en bredare passage, stadga åt byggnadens gestaltning.
-Volym                                        som definierar sekvensen i rörelsen mellan
-Arenan har minskat i storlek, genom att annexet entrétorg och idrottspark i söder.        Horisontellt är gestaltningen uppbruten i mindre
-tagits bort, byggnaden kortats 9 meter och   På arenans södra sida möjliggörs ett mindre  delar, anpassade efter praktiska tillverknings-
-livförskjutningar i fasaderna reducerats. Det ger entrétorg, en samlingsyta för aktiviteterna i och montagemått. På så vis kan skalan
-sammantaget en mindre byggnadsvolym.         söder som kommer att bidra till att byggnaden bearbetas så att upplevelsen blir mänsklig.
-uppfattas än mer publik.                     Byggnaden ges en detaljeringsgrad som berikar.
-Placering                                                                                 Indelning, detaljering och vertikala element gör
-Med ny byggnadsvolym upplevs entréplatsen    Framtida möjliga byggrätter
-överdimensionerad. Men med ny mindre         Flytten norrut bidrar till ett effektivare
-byggnadsvolym, med minskad byggnadslängd     markutnyttjande. På den södra sidan ges
-Huvudentré och idrottsplatsen1                                                            Södra entrétorget1
+
+Byggnaden tangerar fortsatt 80-metersgränsen
+till järnvägen, och ytan mellan arenan och
+ishallen kan utvecklas till en bredare passage,
+som definierar sekvensen i rörelsen mellan
+entrétorg och idrottspark i söder.
+
+På arenans södra sida möjliggörs ett mindre
+entrétorg, en samlingsyta för aktiviteterna i
+söder som kommer att bidra till att byggnaden
+uppfattas än mer publik.
+
+Framtida möjliga byggrätter
+Flytten norrut bidrar till ett effektivare
+markutnyttjande. På den södra sidan ges
+
+gräsplanerna mer plats, samt att yta kan
+planeras för framtida byggrätter.
+Gestaltning
+Multisportarenan är en stor rektangulär
+byggnadskropp. Utan tidigare föreslagen
+
+annexbyggnad kommer byggnaden att uppträda
+majestätiskt mot samtliga väderstreck.
+
+Byggnaden är indelad i en 9-metersmodul i både
+X- och Y-led. Det möjliggör ett repetitivt mönster,
+med lika moduler mot alla väderstreck, vilket ger
+stadga åt byggnadens gestaltning.
+
+Horisontellt är gestaltningen uppbruten i mindre
+
+delar, anpassade efter praktiska tillverknings-
+och montagemått. På så vis kan skalan
+bearbetas så att upplevelsen blir mänsklig.
+Byggnaden ges en detaljeringsgrad som berikar.
+Indelning, detaljering och vertikala element gör
+
+Södra entrétorget1
+
 3/20
 
 <!-- sida 93 -->
 
 4202
+
 nossnåM
 
 &
@@ -5459,29 +5557,73 @@ nérmeS
 ©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
 Översikt  / introduktion
-Vertikalt har byggnaden en tydlig indelning med förslagsvis av slät prefabricerad betong, gjuten För att skapa trivsel adderas inslag av trä på
-en bottenvåning i robust och taktil materialitet, mot slät form, med skarpa hörndetaljer och väl valda platser. Det kan vara bärande stomme
-ett huvudplan (arenaplanet) med en saklig och inskjutna tydligt markerade fogar. Glaspartier till glaspartier och panelklädda ytor mot viktiga
-tålig karaktär och en översta våning som ger utförs som SG-partier, med glas monterat i liv publika stråk osv.
-byggnaden en lätthet och som reflekterar och med utsida betong, så att de upplevs som skira
-sprider ljus.                                hinnor, i kontrast till betongens yta.       Identitet
-Identitetsmässigt utvecklas temat KRONA.
-Material                                     Plan 3 framträder genom sin avvikande        Utan annexet kan kronmotivet upplevas på
-Entrévåningens fasad (plan 1) är gestaltad som gestaltning och sina utskjutande delar mot norr lika sätt från alla väderstreck. Kronmotivet
-en låg fasad, anpassad efter dörrarnas storlek. och söder. Den utförs förslagsvis med en utsida blir än tydligare. Vertikala stavar förselås som
-Det gör att den upplevda skiljelinjen mellan i en mattsvart kulör och är klädd med skivor av ersättning tilltidigare föreslagna flaggstänger.
-plan 1 och plan 2 fasadmässigt ligger under  kraftigt korrugerad och perforerad plåt.     Stavarna kan utforskas som bärare av ljus,
-bjälklagskanten. Detta medför att den delen                                               så att en flexibel festlighet kan bidra till att
-av byggnaden som ligger över sockeln upplevs Exteriörens materialpalett är tålig, men för att skapa fester av olika slag. Med en omsorgsfull
-resligare, högre och mera offentlig.         inte upplevas hård och avvisande föreslås att material- och detaljbearbetning kan byggnadens
-valda ytor ges en varmare och mer ombonad ton. karaktär motsvara digniteten i kronans
-Fasaden i plan 1 är förslagsvis utförd i tegel. Det                                       betydelse.
-gör den robust och slagtålig, men också taktil och Interiör upplevelse tar sin utgångpunkt i
-berikande när den ses på nära håll. Glaspartierna stommens betong. Exponerad betong i pelare,
-i teglet utförs som fönster.                 balkar och gärna slipad pågjutning på bjälklag
+Vertikalt har byggnaden en tydlig indelning med
+en bottenvåning i robust och taktil materialitet,
+ett huvudplan (arenaplanet) med en saklig och
+tålig karaktär och en översta våning som ger
+byggnaden en lätthet och som reflekterar och
+sprider ljus.
+Material
+Entrévåningens fasad (plan 1) är gestaltad som
+en låg fasad, anpassad efter dörrarnas storlek.
+Det gör att den upplevda skiljelinjen mellan
+plan 1 och plan 2 fasadmässigt ligger under
+bjälklagskanten. Detta medför att den delen
+av byggnaden som ligger över sockeln upplevs
+resligare, högre och mera offentlig.
+Fasaden i plan 1 är förslagsvis utförd i tegel. Det
+gör den robust och slagtålig, men också taktil och
+berikande när den ses på nära håll. Glaspartierna
+i teglet utförs som fönster.
+Fasaden på plan 2 reslig och hög. Den utförs
+Kronmotivet och fasad1
+
+förslagsvis av slät prefabricerad betong, gjuten
+mot slät form, med skarpa hörndetaljer och
+inskjutna tydligt markerade fogar. Glaspartier
+utförs som SG-partier, med glas monterat i liv
+med utsida betong, så att de upplevs som skira
+
+hinnor, i kontrast till betongens yta.
+
+Plan 3 framträder genom sin avvikande
+gestaltning och sina utskjutande delar mot norr
+och söder. Den utförs förslagsvis med en utsida
+i en mattsvart kulör och är klädd med skivor av
+kraftigt korrugerad och perforerad plåt.
+
+Exteriörens materialpalett är tålig, men för att
+
+inte upplevas hård och avvisande föreslås att
+valda ytor ges en varmare och mer ombonad ton.
+
+Interiör upplevelse tar sin utgångpunkt i
+stommens betong. Exponerad betong i pelare,
+balkar och gärna slipad pågjutning på bjälklag
 så långt möjligt. Det kompletteras med material
-Fasaden på plan 2 reslig och hög. Den utförs som ska tåla stora personlaster och hårt slitage.
-Kronmotivet och fasad1                                                                    Foajérum1
+som ska tåla stora personlaster och hårt slitage.
+
+För att skapa trivsel adderas inslag av trä på
+väl valda platser. Det kan vara bärande stomme
+till glaspartier och panelklädda ytor mot viktiga
+publika stråk osv.
+
+Identitet
+Identitetsmässigt utvecklas temat KRONA.
+Utan annexet kan kronmotivet upplevas på
+lika sätt från alla väderstreck. Kronmotivet
+blir än tydligare. Vertikala stavar förselås som
+ersättning tilltidigare föreslagna flaggstänger.
+Stavarna kan utforskas som bärare av ljus,
+så att en flexibel festlighet kan bidra till att
+skapa fester av olika slag. Med en omsorgsfull
+
+material- och detaljbearbetning kan byggnadens
+karaktär motsvara digniteten i kronans
+betydelse.
+
+Foajérum1
+
 4/20
 
 <!-- sida 94 -->
@@ -7586,41 +7728,71 @@ Illustrationsplan
 
 <!-- sida 118 -->
 
-PÅVERKAN FÄRDIG GOLVNIVÅ                       MATERIAL OCH UTRUSTNING:                      FORTSATT ARBETE:
+PÅVERKAN FÄRDIG GOLVNIVÅ
 
-Ett generellt krav på all nybyggnation inom Kungsbacka Back of Houseområdet och anslutande in- och utfart: • Höjdsättning
+Ett generellt krav på all nybyggnation inom Kungsbacka
+kommun är att färdig golvnivå läggs på +2,50 vilket är ca
+0,5m högre än nuvarande marknivåer. Detta medför att
 
-kommun är att färdig golvnivå läggs på +2,50 vilket är ca • Asfalt som markmaterial samt linjemålade
-• Dagvattenhantering - lösning har ej studerats i
-0,5m högre än nuvarande marknivåer. Detta medför att aktivitetsytor och markerade parkeringsplatser.
-nuläget
 anpassning av marknivåer i form av lutningar/ramper/
-•  En permanent inhägnad kring hela ytan krävs. Höjd
-• Skyfallshantering
 trappor kommer behöva utredas i kommande skede. All
-ca 2 m, ej klättringsbart.
-markuppfyllnad kräver geotekniska försärkningsåtgärder                                       • Utredning ledningspåverkan
-•  Större portar/grindar krävs vid in- och utfart samt
+markuppfyllnad kräver geotekniska försärkningsåtgärder
 alternativt avlastningsåtgärder i form av lättfyllnad.
-• Samt övrigt normalt förekommande utredningar i
-mindre portar vid inkörning för driftsfordon.
+
 Höjdsättning behöver studeras vidare i nästa skede.
-system- och bygghandlingsskede.
-•  Ca 4 st belysningsarmaturer/master kring området
-DAGVATTENHANTERING                                samt belysningsarmaturer på fasad. 4 st högre
-master belyser fotbollsplanen.
+
+DAGVATTENHANTERING
 Det finns inget krav på fördröjning av dagvatten
-inom kvartersmark. Både takvatten och ytvatten från • Lastkaj med lyftbord.
+
+inom kvartersmark. Både takvatten och ytvatten från
 fastigheten bedöms kunna ledas till befintligt svackdike
-öster om fastigheten. Vattnet får ledas dit via brunnar och Markytan vid huvudentrén:
-ledningar.                                     •  Naturstenshällar som markmaterial kompletterat
-med smågatsten som markering av RHP-platser.
+öster om fastigheten. Vattnet får ledas dit via brunnar och
+
+ledningar.
+
 ÅTKOMST BRANDBILAR
-•  Terrorskydd i form av förstärkta pollare.
+
 Avstämning med brandkonsult kring aktuell utformning
 är gjord och bedömningen är att utifrån redovisade
+
 scenarier så bör det inte vara något problem vid något av
 tillfällena.
+
+MATERIAL OCH UTRUSTNING:                     FORTSATT ARBETE:
+
+Back of Houseområdet och anslutande in- och utfart:
+• Asfalt som markmaterial samt linjemålade
+
+aktivitetsytor och markerade parkeringsplatser.
+• En permanent inhägnad kring hela ytan krävs. Höjd
+
+ca 2 m, ej klättringsbart.
+• Större portar/grindar krävs vid in- och utfart samt
+
+mindre portar vid inkörning för driftsfordon.
+• Ca 4 st belysningsarmaturer/master kring området
+
+samt belysningsarmaturer på fasad. 4 st högre
+master belyser fotbollsplanen.
+
+• Höjdsättning
+
+• Dagvattenhantering - lösning har ej studerats i
+nuläget
+
+• Skyfallshantering
+• Utredning ledningspåverkan
+
+• Samt övrigt normalt förekommande utredningar i
+system- och bygghandlingsskede.
+
+• Lastkaj med lyftbord.
+
+Markytan vid huvudentrén:
+• Naturstenshällar som markmaterial kompletterat
+
+med smågatsten som markering av RHP-platser.
+• Terrorskydd i form av förstärkta pollare.
 
 Linjemålad asfaltstyta
 
@@ -8004,12 +8176,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -8020,30 +8193,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 128 -->
@@ -8092,57 +8267,46 @@ Foto: Emelie Asplund
 
 <!-- sida 129 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -8154,6 +8318,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 130 -->
@@ -8178,29 +8385,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -8219,7 +8430,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -8233,24 +8445,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -8261,31 +8483,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -8294,6 +8515,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 133 -->
@@ -8301,27 +8534,36 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53
 
@@ -9514,27 +9756,41 @@ för eget iordningställande   av lokalerna
 
 39
 
-Marknadsundersökning                               Kommersiella                 villkor
+Marknadsundersökning                              Kommersiella                  villkor
 
 Newsec har undersökt ett antal aspekter avseende de kommersiella villkoren och de önskemål
-som företagen har gällande hyra, driftkostnader, egna abonnemang med flera.      ”I rådande marknadsläge har vi haft
-omsättningshyra som krav utan
+som företagen har gällande hyra, driftkostnader, egna abonnemang med flera.
+
 Hyresnivå
-minimihyra. Annars brukar vi inte
 Aktörerna har valt att inte svara på vad de kan tänka sig betala i hyra. Newsec hänvisar till
-ha någon omsättningshyra”
+
 informationen avseende hyresnivåer som är presenterade i kapitel 5.
+
 Omsättningshyra vs. fast hyra
-Företag inom hälsa, spontanidrott och kontor/co-working föredrar en fast hyra. Aktörer inom      ”Önskar hyresrabatt år 1-3
-Mat och dryck föredrar framförallt omsättningshyra. Många aktörer beskriver att det är ett krav  för att kunna bygga
-för etablering.                                                                                  kundbas”
+Företag inom hälsa, spontanidrott och kontor/co-working föredrar en fast hyra. Aktörer inom
+Mat och dryck föredrar framförallt omsättningshyra. Många aktörer beskriver att det är ett krav
+för etablering.
 
 Momsadeller omomsadverksamhet
 De företag som Newsec har varit i kontakt med bedriver alla momsad verksamhet. Däremot
-”Vi kan tänka sig fast hyra eller
+
 inom segmentet hälsa kan det finnas flera företag som bedriver omomsad verksamhet vilket bör
-enbart omsättningshyra”
 beaktas av Kungsbacka kommun.
+
+”I rådande marknadsläge har vi haft
+omsättningshyra som krav utan
+
+minimihyra. Annars brukar vi inte
+ha någon omsättningshyra”
+
+”Önskar hyresrabatt år 1-3
+
+för att kunna bygga
+kundbas”
+
+”Vi kan tänka sig fast hyra eller
+enbart omsättningshyra”
+
 Intresse för eventuell LOU                                                                        ”Kan ej uppskatta
 De tre fullservice aktörerna som visat intresse för etablering i arenan, har alla meddelat att de är hyresnivå. Vi måste få veta
 intresserade av att delta i en eventuell framtida LOU process för Kungsbacka Arena.
