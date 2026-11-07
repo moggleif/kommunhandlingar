@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a92018907/1758178023
 sha256: 6c25ee27eab0ed0076289a931c30aeb7aebdddb9e64ad4d00c5973a2b9b9c9fc
 bytes: 132451004
 sidor: 672
-hamtad: 2026-10-24T09:04:32+00:00
-konverterad: 2026-10-24T09:11:43+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T23:53:16+00:00
+konverterad: 2026-11-07T00:02:50+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3467,12 +3467,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -3483,30 +3484,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 85 -->
@@ -3555,57 +3558,46 @@ Foto: Emelie Asplund
 
 <!-- sida 86 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -3617,6 +3609,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 87 -->
@@ -3641,29 +3676,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -3682,7 +3721,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -3696,24 +3736,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -3724,31 +3774,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -3757,6 +3806,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 90 -->
@@ -3764,27 +3825,36 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53
 
@@ -8831,47 +8901,71 @@ Handlingar:
 <!-- sida 202 -->
 
 Sammanfattning
-Innehåll i kvarteret Ejdern
-Programområde för kvarteret Ejdern i Kungs- Bruttoarea: 40 000 kvm
-backa stad syftar till att skapa en attraktiv Höjd: 3-6 våningar
-stadsdel som kopplas ihop med de mest cen- Täthet: 125 inv/ha
+
+Programområde för kvarteret Ejdern i Kungs-
+backa stad syftar till att skapa en attraktiv
+stadsdel som kopplas ihop med de mest cen-
 trala delarna av staden; Kungsbacka innerstad,
-Invånare: 500
 stadsdelen Valand och Kungsmässan. Program-
-Bostäder: 250
 met är den andra etappen i stadsomvandlings-
-Blandade upplåtelseformer
 projektet Väster om ån som ska knyta samman
-Blandade bostadsstorlekar
 Kungsmässan med innerstaden genom ett
-centrumstråk. Etapp ett är stadsdelen Valand Varierande gestaltning
-som håller på att byggas ut. När området ut- Offentliga platser och stråk
-vecklas bidrar det till en levande centrumkärna Arbetsplatser
+centrumstråk. Etapp ett är stadsdelen Valand
+som håller på att byggas ut. När området ut-
+vecklas bidrar det till en levande centrumkärna
 genom att skapa en högre stadsmässighet med
-Parkeringshus
 blandad bebyggelse, attraktiva rekreationsytor
-Offentlig och kommersiell service
 och grönstråk.
+
 Området som omfattas av detta program är
-Där centrumstråket, Vitors båge och Bissmarks-
 idag främst en utbredd markparkering med gles
-gatan möter ån skapas en offentlig mötesplats i
 bebyggelse.
-form av en torgyta (4).
-Karaktärsskapande för området är de storvuxna
+
 Blandad stadsbebyggelse
-träden i Skogsallén (5)och Sjöallén (6) som
-När Kungsbackas centrumkärna växer är det kopplar samman programområdet med övriga
-en förutsättning att det sker genom en blandad centrum genom en grönkorridor. Alléerna kom-
-stadsbebyggelse med bostäder, arbetsplatser, mer att bevaras. Skogsalléns lekplats kommer att
-restauranger och annan service.   bevaras och grönytan intill lekplatsen kommer
-utformas mer parklik (7).
+När Kungsbackas centrumkärna växer är det
+en förutsättning att det sker genom en blandad
+stadsbebyggelse med bostäder, arbetsplatser,
+restauranger och annan service.
+
 Den blandade stadsbebyggelsen består också av
-en variation i husens stil och höjd samt varie- Västra villastaden och Sjöallén kopplas sam-
-rande upplåtelseformer. En blandad stadsbe- man med innerstaden och Hamntorget via en
-byggelse har offentliga rum där det är lätt för bro som ökar flödet av människor till och från
-alla att mötas och det finns liv och rörelse både området (8).
+en variation i husens stil och höjd samt varie-
+rande upplåtelseformer. En blandad stadsbe-
+byggelse har offentliga rum där det är lätt för
+alla att mötas och det finns liv och rörelse både
 på dagen och kvällen.
+
+Innehåll i kvarteret Ejdern
+Bruttoarea: 40 000 kvm
+
+Höjd: 3-6 våningar
+Täthet: 125 inv/ha
+Invånare: 500
+Bostäder: 250
+Blandade upplåtelseformer
+Blandade bostadsstorlekar
+Varierande gestaltning
+
+Offentliga platser och stråk
+Arbetsplatser
+Parkeringshus
+Offentlig och kommersiell service
+
+Där centrumstråket, Vitors båge och Bissmarks-
+gatan möter ån skapas en offentlig mötesplats i
+form av en torgyta (4).
+
+Karaktärsskapande för området är de storvuxna
+träden i Skogsallén (5)och Sjöallén (6) som
+kopplar samman programområdet med övriga
+centrum genom en grönkorridor. Alléerna kom-
+mer att bevaras. Skogsalléns lekplats kommer att
+bevaras och grönytan intill lekplatsen kommer
+utformas mer parklik (7).
+Västra villastaden och Sjöallén kopplas sam-
+man med innerstaden och Hamntorget via en
+bro som ökar flödet av människor till och från
+området (8).
+
 BOSTÄDER
 Kopplingar och offentliga rum                               KONTOR
 CENTRUM-
@@ -8882,11 +8976,11 @@ R
 centrum och fylla de tomrum som finns idag          VERKSAMHETER P A
 med stadsmässig bebyggelse. Genom områdets          P H - O H T U E S LL 1. 3.
 nordöstra del kopplar centrumstråket (1) sam-               TORG
-2\.         4.
+2\.        4.
 man innerstaden med stadsdelen Valand och 7.
-FÖRSKOLA    BOSTÄDER
+FÖRSKOLA   BOSTÄDER
 Kungsmässan. Längs stråket ska bebyggelsen
-LEKPLATS    KONTOR
+LEKPLATS   KONTOR
 ha publika funktioner i bottenvåningarna med       CENTRUM-
 VERKSAMHETER
 entréer mot stråket.                               HOTELL
@@ -8899,6 +8993,7 @@ tan. Platsen och stråket längs Kungsbackaån
 blir då ett viktigt offentligt rum för fotgängare
 och cyklister att vistas i (3).
 8\.
+
 4 Planprogram                                                                                                                    Planprogram 5
 
 <!-- sida 203 -->
@@ -9746,52 +9841,72 @@ dersta röda pilen visar koppling till Hamntorget.
 1 IV
 2 VI  a
 e
-d
 
-6            b
+d
+6           b
 4 III   3 III-V
 5
 e
 
 c
 
-Programkarta                        1.
+Programkarta
+Teckenförklaring
+
+Grönområde/park- och vattenområde
+
+Utvecklingsområde, bostäder
+
+Utvecklingsområde, blandad stadsbebyggelse
+med bland annat bostäder, kontor, verksamhets-
+lokaler och parkeringshus.
+
+Utvecklingsområde, utbildningslokaler
+Programområde
+
+Ny gata mellan Kungsgatan och Skogsallén
+genom kvarteret Ejdern samt utmed Skogsallén
+
+Centrumstråk
+Ny bro vid Hamntorget
+
+Nytt gång- och cykelstråk
+
+Befintliga gång- och cykelvägar
+III, IV, V, VI Högsta antal våningar på ny bebyggelse
+
+24 Planprogram
+
+1\.
 Bostadskvarter, flerbostadshus i fyra våningar.
-Teckenförklaring                    2.
+2\.
 Bostads- och centrumkvarter, verksamhetslo-
 kaler i bottenvåningen och flerbostadshus i upp
-Grönområde/park- och vattenområde
 till sex våningar, hotell. Integrerat parkeringshus.
 3\.
 Bostads- och centrumkvarter, verksamhets-
-Utvecklingsområde, bostäder
 lokaler i bottenvåningen och flerbostadshus i tre
 till fem våningar, hotell. Byggnaderna trappas ner
-Utvecklingsområde, blandad stadsbebyggelse mot Västra villastaden.
-med bland annat bostäder, kontor, verksamhets- 4.
-lokaler och parkeringshus.  Utbildningslokaler (ex förskola). Byggnader i
+mot Västra villastaden.
+4\.
+Utbildningslokaler (ex förskola). Byggnader i
 upp till tre våningar föreslås att placeras mot ny
 gata genom kvarteret Ejdern.
-Utvecklingsområde, utbildningslokaler
 5\.
 Utveckling av park- och vattenområde längs
-Programområde             Kungsbackaån.
+Kungsbackaån.
 6\.
 Lekpark och Skogsallén bevaras.
-Ny gata mellan Kungsgatan och Skogsallén
-genom kvarteret Ejdern samt utmed Skogsallén a. Centrumstråk - länk mellan Kungsmässan och
+a. Centrumstråk - länk mellan Kungsmässan och
 innerstaden.
-Centrumstråk
 b. Ny vägkoppling mellan Kungsgatan och
-Ny bro vid Hamntorget     Skogsallén med gång- och cykelväg.
+Skogsallén med gång- och cykelväg.
 c. Ny bro mellan Hamntorget och Sjöallén.
-Nytt gång- och cykelstråk
 d. Ny koppling mellan Bissmarksgatan, Kungs-
-Befintliga gång- och cykelvägar backaån och innerstaden.
+backaån och innerstaden.
 e. Befintliga gång- och cykelvägar i Sjöallén och
-III, IV, V, VI Högsta antal våningar på ny bebyggelse
 Skogsallén bevaras.
-24 Planprogram                                            Planprogram 25
+Planprogram 25
 
 <!-- sida 224 -->
 
@@ -12557,6 +12672,61 @@ VÄSTRA GÖTALAND 2021–2030
 
 INLEDNING
 
+Tillsammans                                               ställer                      vi         om
+
+Alla  som    bor  och   verkar    i Västra   Götaland      ska  ha  möjlighet     att  leva  ett  gott   liv.
+
+Nyckeln     till Västra   Götalands     långsiktiga     attraktivitet     och   konkurrenskraft        är
+
+vår  gemensamma          förmåga      att  vara   innovativa     och   ställa  om   till ett ekonomiskt,
+
+socialt   och  miljömässigt      hållbart    samhälle.
+
+DEN REGIONALA  UTVECKLINGSSTRATEGIN anger en riktning
+
+för omställningen till ett gott liv i Västra Götaland. Den
+
+beskriver mål och prioriteringar där takten i omställning-
+
+en behöver öka och den fokuserar på områden som  ut-
+vecklas dels genom samarbete mellan organisationer och
+
+sektorer, dels genom samverkan mellan lokal, regional,
+
+nationell och internationell nivå.
+
+För att ställa om till ett hållbart Västra Götaland behöver
+
+vi möta flera samhällsutmaningar parallellt. Ingen kan
+lösa dessa utmaningar på egen hand, men tillsammans
+
+kan vi bidra till ett hållbart och konkurrenskraftigt sam-
+
+hälle. Strategin sträcker sig till 2030, med utblick mot
+
+2045  för att väga in behovet av långsiktighet när vi
+
+samverkar kring komplexa  samhällsutmaningar  och
+
+möjligheter för länets utveckling.
+
+Vi som    genomför     strategin
+
+Vi som varit med och tagit fram strategin och ska bidra
+
+till att den genomförs är näringslivet och dess organisa-
+
+tioner, länets 49 kommuner och fyra kommunalförbund,
+akademi och forskningsinstitut, det civila samhället,
+
+Västra Götalandsregionen samt länsstyrelsen och andra
+
+statliga myndigheter. Vi har alla olika ansvar, resurser
+
+och kunskaper, och strategin är plattformen för vår
+
+samverkan  och för ett kraftfullt genomförande.
+
 SÅ HÄNGER DET IHOP
 
 Strategin   tar sin  utgångspunkt      i Vision
@@ -12564,56 +12734,38 @@ Strategin   tar sin  utgångspunkt      i Vision
 Västra   Götaland    – Det   goda   livet.
 
 Det goda livet förutsätter en hållbar utveckling i tre dimensioner
-Tillsammans                                               ställer                      vi         om                                                 – ekonomisk, social och miljömässig hållbarhet. Dessa tre dimensioner är
+– ekonomisk, social och miljömässig hållbarhet. Dessa tre dimensioner är
 
 beroende av varandra och förstärker varandra.
 
 Den regionala utvecklingsstrategin bidrar till det regionala genomförandet
-
 av internationella, europeiska och nationella utvecklingsstrategier. På global
-Alla  som    bor  och   verkar    i Västra   Götaland      ska  ha  möjlighet     att  leva   ett gott   liv.                                        nivå finns Agenda 2030 med 17 hållbarhetsmål. På europeisk nivå finns
 
+nivå finns Agenda 2030 med 17 hållbarhetsmål. På europeisk nivå finns
 strategier och regleringar som ska säkerställa en rättvis omställning till en
-Nyckeln     till Västra   Götalands      långsiktiga     attraktivitet    och   konkurrenskraft        är
+
 hållbar och konkurrenskraftig ekonomi i EU och med mål och åtgärder för
+
 klimatneutralitet fram till 2050. På nationell nivå finns Strategin för hållbar
-vår  gemensamma          förmåga      att  vara   innovativa     och   ställa  om   till ett ekonomiskt,
 regional utveckling.
-socialt   och  miljömässigt       hållbart   samhälle.
+
 Regionala utvecklingsstrategin samspelar med tre andra regionala
 
 måldokument  som är antagna av regionfullmäktige. Dessa måldokument är
 Strategi för hälso- och sjukvårdens omställning i Västra Götalandsregionen,
 
-DEN REGIONALA  UTVECKLINGSSTRATEGIN anger en riktning         Vi som   genomför      strategin                                                       Regionalt trafikförsörjningsprogram och Västra Götalands kulturstrategi och
-
+Regionalt trafikförsörjningsprogram och Västra Götalands kulturstrategi och
 kulturplan.
-för omställningen till ett gott liv i Västra Götaland. Den
-Vi som varit med och tagit fram strategin och ska bidra
-beskriver mål och prioriteringar där takten i omställning-
-till att den genomförs är näringslivet och dess organisa-                              Den regionala utvecklingsstrategin vägleder kommuner, kommunalförbund,
-en behöver öka och den fokuserar på områden som  ut-
-näringsliv, akademi och forskningsinstitut, det civila samhället samt
-tioner, länets 49 kommuner och fyra kommunalförbund,
-vecklas dels genom samarbete mellan organisationer och
-länsstyrelsen och andra statliga myndigheter i det gemensamma arbetet med
-akademi och forskningsinstitut, det civila samhället,
-sektorer, dels genom samverkan mellan lokal, regional,                                                                                               regional utveckling. Strategin och regionfullmäktiges budget styr
-Västra Götalandsregionen samt länsstyrelsen och andra
-tillsammans Västra Götalandsregionens satsningar på regional utveckling.
-nationell och internationell nivå.
-statliga myndigheter. Vi har alla olika ansvar, resurser
-och kunskaper, och strategin är plattformen för vår
-För att ställa om till ett hållbart Västra Götaland behöver
-samverkan och för ett kraftfullt genomförande.
-vi möta flera samhällsutmaningar parallellt. Ingen kan
-lösa dessa utmaningar på egen hand, men tillsammans
-kan vi bidra till ett hållbart och konkurrenskraftigt sam-
-hälle. Strategin sträcker sig till 2030, med utblick mot
-2045  för att väga in behovet av långsiktighet när vi
-samverkar kring komplexa  samhällsutmaningar  och
 
-möjligheter för länets utveckling.
+Den regionala utvecklingsstrategin vägleder kommuner, kommunalförbund,
+
+näringsliv, akademi och forskningsinstitut, det civila samhället samt
+länsstyrelsen och andra statliga myndigheter i det gemensamma arbetet med
+
+regional utveckling. Strategin och regionfullmäktiges budget styr
+
+tillsammans Västra Götalandsregionens satsningar på regional utveckling.
+
 REGIONAL UTVECKLINGSSTRATEGI    4
 VÄSTRA GÖTALAND 2021–2030
 
@@ -12623,50 +12775,54 @@ INLEDNING
 
 Så      läser          du      den         regionala
 
-utvecklingsstrategin                                                                                                                  Figuren beskriver den regionala utvecklingsstrategins olika delar
+utvecklingsstrategin
 
-och hur de förhåller sig till varandra. Strategin har ett mål, fyra
-långsiktiga prioriteringar som utgör den breda basen i det regionala
-
-utvecklingsarbetet och tre områden som vi tillsammans kraftsamlar
 Den  regionala   utvecklingsstrategin    pekar  ut  riktningen  för
-kring för att accelerera omställningstakten i riktning mot målet.
-vårt gemensamma       arbete  för  Västra Götalands    utveckling.
-Strategin  består  av  ett mål, fyra långsiktiga   prioriteringar
+vårt gemensamma       arbete  för Västra  Götalands    utveckling.
+
+Strategin  består  av ett mål,  fyra långsiktiga   prioriteringar
 
 och  tre områden    för tvärsektoriell  kraftsamling.
 
-STRATEGINS MÅL  pekar ut riktningen fram till 2030 och handlar om behovet
-
+STRATEGINS MÅL pekar ut riktningen fram till 2030 och handlar om behovet
 av att ställa om Västra Götaland till ett hållbart och konkurrenskraftigt
+
 samhälle. Målet konkretiserar vad en sådan omställning innebär ur eko-
 
 nomiskt, miljömässigt och socialt perspektiv. Målet har utblick mot 2045
 
 för att signalera behovet av långsiktighet när vi samverkar kring komplexa
-
 samhällsutmaningar  och möjligheter för länets utveckling.
 
 DE FYRA LÅNGSIKTIGA PRIORITERINGARNA beskriver de områden  som utgör
+
 basen för Västra Götalands samlade och strategiska utvecklingsarbete på
 
 regional nivå. Områdena griper in i varandra och kräver strategisk samver-
-
 kan och gemensamma    insatser för att klara omställningen till ett hållbart
 
 och konkurrenskraftigt samhälle.
 
 TILLSAMMANS  KRAFTSAMLAR  VI med fokus på tre områden som  behöver
+
 extra kraft för att accelerera omställningstakten. Det innebär att vi stärker
 
 vår tvärsektoriella samverkan och samordnar utvecklingsarbetet för att
-
 åstadkomma   viktiga förflyttningar. Kraftsamlingarna ses över en gång
 
 per mandatperiod.
 
 GENOMFÖRANDET   sker i dialog och samverkan, med utgångspunkt i kunskap
+
 och lärande. Fyra vägledande principer utmanar och guidar oss.
+
+Figuren beskriver den regionala utvecklingsstrategins olika delar
+
+och hur de förhåller sig till varandra. Strategin har ett mål, fyra
+långsiktiga prioriteringar som utgör den breda basen i det regionala
+
+utvecklingsarbetet och tre områden som vi tillsammans kraftsamlar
+kring för att accelerera omställningstakten i riktning mot målet.
 
 REGIONAL UTVECKLINGSSTRATEGI    5
 VÄSTRA GÖTALAND 2021–2030
@@ -12689,128 +12845,294 @@ STRATEGINS MÅL
 
 Strategins                   mål
 
-Nyckeln  till ett långsiktigt konkurrenskraftigt och attraktivt av arbetskraft och kompetens. Det finns en uthållighet och
-Västra Götaland är vår gemensamma  förmåga  till innovativ    god beredskap att möta effekterna av ett förändrat klimat,
+Nyckeln  till ett långsiktigt konkurrenskraftigt och attraktivt
 
-omställning inom en rad områden.  Det bidrar till att alla    geopolitisk instabilitet, omvälvande händelser och kriser.
+Västra Götaland är vår gemensamma  förmåga  till innovativ
+
+omställning inom en rad områden.  Det bidrar till att alla
 
 som  bor och verkar i Västra Götaland ska ha möjlighet att
 
-leva ett gott liv. Strategins mål pekar ut riktningen för Västra Det sammanhållna Västra Götaland kännetecknas av en
+leva ett gott liv. Strategins mål pekar ut riktningen för Västra
+Götalands utveckling och det formuleras enligt följande:
 
-Götalands utveckling och det formuleras enligt följande:      hållbar och förbättrad tillgänglighet och ett välfärdssystem
+Tillsammans    gör vi Västra  Götaland
+
+till ett föredöme  för omställning   till ett
+
+hållbart  och  konkurrenskraftigt    samhälle.
+
+Målet konkretiserar och balanserar vad en sådan omställning
+
+innebär ur ett ekonomiskt, ett socialt och ett miljömässigt
+
+perspektiv: Ett Västra Götaland som ställer om är robust
+
+och sammanhållet, jämlikt och öppet samt fossiloberoende
+
+och cirkulärt.
+
+Målet pekar ut riktningen till 2030, med utblick mot 2045
+för att det krävs långsiktighet när vi samverkar kring komplexa
+
+utmaningar och ställer om samhället.
+
+Robust    och  sammanhållet
+
+I det robusta Västra Götaland är samhället motståndskraf-
+
+tigt och kan möta både kända och oförutsedda utmaningar.
+Näringslivet har hög konkurrenskraft och en internationellt
+
+erkänd förmåga  att hantera tekniska utvecklingssprång,
+
+behovet av nya kompetenser  och ekonomiska  förändringar.
+
+Akademin   bidrar genom att tillhandahålla forskning i fram-
+
+kant samt relevant kompetensförsörjning och kompetensut-
+
+veckling. Det finns utvecklade strukturer för livslångt läran-
+
+de och genom  nya och innovativa arbetssätt och digitala
+tjänster tillgodoses näringslivets och offentlig sektors behov
+
+av arbetskraft och kompetens. Det finns en uthållighet och
+
+god beredskap att möta effekterna av ett förändrat klimat,
+
+geopolitisk instabilitet, omvälvande händelser och kriser.
+
+Det sammanhållna   Västra Götaland kännetecknas av en
+
+hållbar och förbättrad tillgänglighet och ett välfärdssystem
 
 med  god demokratisk förankring som  gör att invånarna
-Tillsammans    gör vi Västra  Götaland
-känner sig trygga och får jämlika förutsättningar för att
-till ett föredöme  för omställning   till ett           förverkliga och tillgodose sina behov.
 
-hållbart och  konkurrenskraftigt    samhälle.
+känner sig trygga och får jämlika förutsättningar för att
+
+förverkliga och tillgodose sina behov.
+
 Jämlikt   och  öppet
 
-Målet konkretiserar och balanserar vad en sådan omställning   I det jämlika Västra Götaland deltar varje människa i samhället
+I det jämlika Västra Götaland deltar varje människa i samhället
 
-innebär ur ett ekonomiskt, ett socialt och ett miljömässigt   på jämställda och jämlika villkor och ingen människa lämnas
+på jämställda och jämlika villkor och ingen människa lämnas
 
-perspektiv: Ett Västra Götaland som ställer om är robust      utanför i samhällsutvecklingen. Där har alla oavsett kön samma
-och sammanhållet, jämlikt och öppet samt fossiloberoende      möjligheter att forma samhället och sina egna liv. Samhället är
+utanför i samhällsutvecklingen. Där har alla oavsett kön samma
 
-och cirkulärt.                                                inkluderande och transparent, och invånarna är delaktiga och
+möjligheter att forma samhället och sina egna liv. Samhället är
+
+inkluderande och transparent, och invånarna är delaktiga och
 
 har tillit till varandra och till samhället i stort. Olika platsers
+förutsättningar tas tillvara och det finns ett samspel och utbyte
 
-Målet pekar ut riktningen till 2030, med utblick mot 2045     förutsättningar tas tillvara och det finns ett samspel och utbyte
+mellan platser både fysiskt och digitalt. Tillgången till, och
 
-för att det krävs långsiktighet när vi samverkar kring komplexa mellan platser både fysiskt och digitalt. Tillgången till, och
+möjligheten att delta i, förenings- och kulturliv stärker tillhö-
 
-utmaningar och ställer om samhället.                          möjligheten att delta i, förenings- och kulturliv stärker tillhö- vilket leder till minskade utsläpp från både produktion och
+righeten och välbefinnandet hos invånarna.
 
-righeten och välbefinnandet hos invånarna.                   konsumtion.  Användningen   av nyutvunna råvaror minskar.
-Strategin  ska  bidra  till klimatmålen  för
-Robust    och  sammanhållet
+Det öppna  Västra Götaland är integrerat med omvärlden
+och har ett rikt utbyte nationellt och internationellt. Genom
+
+goda relationer och samarbete med våra grannregioner bidrar
+
+vi till en hållbar utveckling både lokalt och globalt.
+
+Fossiloberoende      och   cirkulärt
+
+I det fossiloberoende och cirkulära Västra Götaland är den
+
+privata och offentliga sektorn föregångare som inspirerar och
+påverkar det nationella, det europeiska och det internationella
+
+miljö- och klimatarbetet. Klimatomställningen accelererar,
+
+vilket leder till minskade utsläpp från både produktion och
+
+konsumtion.  Användningen  av nyutvunna  råvaror minskar.
+
 Fossila bränslen och material ersätts med elektrifiering och
-Västra  Götalands   län
-I det robusta Västra Götaland är samhället motståndskraf-     Det öppna  Västra Götaland är integrerat med omvärlden       resurseffektiva och biobaserade produkter och tjänster.
-tigt och kan möta både kända och oförutsedda utmaningar.      och har ett rikt utbyte nationellt och internationellt. Genom Genom  att eliminera avfall, hålla produkter och material i        Sedan 2009 finns ett gemensamt klimatmål i Västra
+
+resurseffektiva och biobaserade produkter och tjänster.
+Genom   att eliminera avfall, hålla produkter och material i
+
+användning  och återskapa naturliga system minskar Västra
+
+Götaland  sitt ekologiska fotavtryck och främjar en cirkulär
+
+ekonomi.  Den  biologiska mångfalden stärks och det ger
+
+också positiva effekter på människors hälsa och välmående.
+
+I ett fossiloberoende och cirkulärt Västra Götaland kan och
+
+vill invånarna göra hållbara val och bidrar med kreativa
+
+lösningar som begränsar miljö- och klimatpåverkan.
+
+Strategin  ska  bidra  till klimatmålen   för
+
+Västra  Götalands    län
+
+Sedan 2009 finns ett gemensamt klimatmål i Västra
+
 Götaland – att vara en fossiloberoende region år 2030.
-Näringslivet har hög konkurrenskraft och en internationellt   goda relationer och samarbete med våra grannregioner bidrar  användning  och återskapa naturliga system minskar Västra
 Samtliga kommuner i Västra Götaland, lärosäten och
-erkänd förmåga  att hantera tekniska utvecklingssprång,       vi till en hållbar utveckling både lokalt och globalt.       Götaland  sitt ekologiska fotavtryck och främjar en cirkulär
+
 många företag och organisationer står bakom detta
-behovet av nya kompetenser  och ekonomiska  förändringar.                                                                  ekonomi.  Den  biologiska mångfalden stärks och det ger
+
 mål. Klimatmålet innebär att utsläppen av växthusgaser
-Fossiloberoende      och  cirkulärt
-Akademin   bidrar genom att tillhandahålla forskning i fram-                                                               också positiva effekter på människors hälsa och välmående.          ska minska med 80 procent från 1990 års nivå till år
-kant samt relevant kompetensförsörjning och kompetensut-      I det fossiloberoende och cirkulära Västra Götaland är den                                                                       2030. Dessutom ska utsläppen av växthusgaser från
+ska minska med 80 procent från 1990 års nivå till år
+
+2030\. Dessutom ska utsläppen av växthusgaser från
 västsvenskarnas konsumtion minska med 30 procent
-veckling. Det finns utvecklade strukturer för livslångt läran- privata och offentliga sektorn föregångare som inspirerar och I ett fossiloberoende och cirkulärt Västra Götaland kan och
+
 jämfört med 2010, oavsett var i världen de sker.
-de och genom  nya och innovativa arbetssätt och digitala      påverkar det nationella, det europeiska och det internationella vill invånarna göra hållbara val och bidrar med kreativa
-tjänster tillgodoses näringslivets och offentlig sektors behov miljö- och klimatarbetet. Klimatomställningen accelererar,  lösningar som begränsar miljö- och klimatpåverkan.
 
 REGIONAL UTVECKLINGSSTRATEGI    7
+
 VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 286 -->
 
-VÄSTRA  GÖTALANDS  GEOGRAFISKA  struktur består av            I VÄSTRA GÖTALAND  finns många starka och unika branscher
+Goda                        förutsättningar
 
-fyra regionala kärnor – Göteborg, Borås, Skövde               och företag som har stor betydelse i ett internationellt
-
-och Trollhättan–Vänersborg–Uddevalla.  Samtliga är            perspektiv. Flera branscher, till exempel transportmedels-
-
-betydelsefulla utifrån läge, storlek och funktion, där        industrin och kemiindustrin, befinner sig mitt i stora om-
-
-Göteborgsregionen  är tillväxtmotor för ett större omland.    vandlingar som  kräver både innovation och förändrade
-Göteborg  har också en särskild roll som centrum för länets   kompetenser.  I en öppen och internationellt konkurrens-
-
-arbetsmarknad,  forskning och innovation, logistik och        utsatt region som Västra Götaland påverkas näringslivet
-
-transport samt internationella utbyten. Här ligger            tidigt av både konjunktursvängningar och det geopolitiska
-
-Skandinaviens  största hamn och sjöfarten är avgörande        läget, men där många års samlat regionalt utvecklingsarbete
-
-Goda                        förutsättningar                                                                                för svensk export och import. Västra Götaland är därtill      ger en robust grund att stå på.
-
-Sveriges transport- och logistikcentrum med flera geogra-
-Ett  samlat   och  strategiskt    regionalt
-fiskt utspridda noder där flera transportslag möts.
-utvecklingsarbete
 i     Västra                          Götaland
-ALLA ORTER OCH  platser i Västra Götaland har olika funktioner Det regionala utvecklingsarbetet i Västra Götaland är lång-
 
-som  binds samman  i ett nätverk via digital och fysisk infra- siktigt strategiskt och omfattar utveckling inom kultur och
+Västra   Götaland      har   1,8  miljoner    invånare     och   består   av  49  kommuner.        Länet
 
-struktur, både inom och utanför länets och landets gränser.   upplevelser, föreningsliv, kompetensförsörjning, näringsliv,
-
-Det  skapar en regional helhet av platser som utvecklas utifrån forskning och innovation, miljö och klimat. Det omfattar
-Västra    Götaland     har   1,8  miljoner    invånare     och   består   av  49  kommuner.        Länet
-sina respektive förutsättningar och möjligheter.              även samhällsplanering av infrastruktur, bredband, kollek-
 är  stort  till ytan  och   består   av  landsbygder,       små   och   stora   tätorter   och   städer.
-tivtrafik och platsers utveckling samt arbete med folkhälsa,
-I Västra   Götaland      finns  stora   naturresurser       med   vatten,    skogar    och   den   största
-VÄSTSVERIGE ÄR EN av de starkaste regionerna i Europa när     jämställdhet, antidiskriminering och mänskliga rättigheter.
-det kommer   till innovation och en av de regioner i världen
+
+I Västra   Götaland      finns  stora   naturresurser      med    vatten,    skogar    och   den   största
+
 jordbruksarealen        i Sverige.    Detta   utgör    bas  för  konkurrenskraftiga          näringar     där
-där det satsas mest på investeringar i forskning och utveck-  DET FINNS EN LÅNG tradition av att offentlig sektor, näringsliv,
+
 det  rika   naturlivet,    den   långa   kuststräckan       och  de   många     sjöarna    även   gör   länets
-ling i förhållande till ekonomins storlek. Industrin står för akademi  och det civila samhället agerar tillsammans i Västra
-olika   delar   attraktiva    att  besöka,    leva  och   verka    i. Det  finns  en   mångfald      av
-en stor del, däribland fordonsindustrin och life science.     Götaland, både  inom länet, med grannregioner och i olika
-Globalt verksamma   företag, lärosäten, starka forsknings-    internationella samarbeten. Etablerade samarbetsmiljöer,
+
+olika   delar  attraktiva     att  besöka,    leva  och   verka    i. Det  finns  en   mångfald      av
+
 branscher     och   företag    som    har  stor  betydelse     för  utvecklingen       såväl   i Västra
-miljöer samt välutvecklade strukturer för entreprenörskap     stabila strukturer och en mångfald av människor ger resurser
-Götaland      som   nationellt     och  internationellt.      Västra    Götaland     har   ett  rikt
-och  innovation gör Västra Götaland till en ledande region    och förutsättningar att omsätta kunskap och engagemang i
+
+Götaland      som   nationellt     och  internationellt.      Västra    Götaland     har   ett rikt
 
 kulturliv,   ett  unikt   kulturarv    och   starkt   civilsamhälle     och   föreningsliv.     Det  finns
-inom  både forskning och utveckling. Länets framstående       hållbara lösningar. Detta bidrar även till länets gemensam-
-forsknings- och utbildningsmiljöer bidrar tillsammans till    ma  förmåga att möta utmaningar  och kriser. Det regionala
-en  styrka   i Västra    Götalands     långa    tradition    av  samverkan       mellan    offentlig
-attraktivitet och utveckling. Därtill har det dynamiska       utvecklingsarbete som kännetecknar Västra Götaland  är en
-sektor,   näringsliv,    akademi     och   det   civila samhället      som   ger   oss goda
-kulturlivet både nationell och internationell lyskraft.       styrka för att åstadkomma en innovativ omställning till ett
+
+en  styrka   i Västra   Götalands      långa    tradition    av  samverkan       mellan    offentlig
+
+sektor,   näringsliv,    akademi     och   det   civila samhället      som   ger  oss  goda
+
 förutsättningar       att  vara   ett föredöme       för  omställning.
+
+VÄSTRA GÖTALANDS  GEOGRAFISKA  struktur består av
+
+fyra regionala kärnor – Göteborg, Borås, Skövde
+
+och Trollhättan–Vänersborg–Uddevalla.  Samtliga är
+
+betydelsefulla utifrån läge, storlek och funktion, där
+Göteborgsregionen  är tillväxtmotor för ett större omland.
+
+Göteborg  har också en särskild roll som centrum för länets
+
+arbetsmarknad, forskning och innovation, logistik och
+
+transport samt internationella utbyten. Här ligger
+
+Skandinaviens största hamn och sjöfarten är avgörande
+
+för svensk export och import. Västra Götaland är därtill
+Sveriges transport- och logistikcentrum med flera geogra-
+
+fiskt utspridda noder där flera transportslag möts.
+
+ALLA ORTER OCH platser i Västra Götaland har olika funktioner
+
+som binds samman   i ett nätverk via digital och fysisk infra-
+
+struktur, både inom och utanför länets och landets gränser.
+
+Det skapar en regional helhet av platser som utvecklas utifrån
+sina respektive förutsättningar och möjligheter.
+
+VÄSTSVERIGE ÄR EN av de starkaste regionerna i Europa när
+
+det kommer   till innovation och en av de regioner i världen
+
+där det satsas mest på investeringar i forskning och utveck-
+
+ling i förhållande till ekonomins storlek. Industrin står för
+en stor del, däribland fordonsindustrin och life science.
+
+Globalt verksamma   företag, lärosäten, starka forsknings-
+
+miljöer samt välutvecklade strukturer för entreprenörskap
+
+och innovation gör Västra Götaland till en ledande region
+
+inom  både forskning och utveckling. Länets framstående
+
+forsknings- och utbildningsmiljöer bidrar tillsammans till
+
+attraktivitet och utveckling. Därtill har det dynamiska
+kulturlivet både nationell och internationell lyskraft.
+
+I VÄSTRA GÖTALAND finns många  starka och unika branscher
+
+och företag som har stor betydelse i ett internationellt
+
+perspektiv. Flera branscher, till exempel transportmedels-
+
+industrin och kemiindustrin, befinner sig mitt i stora om-
+vandlingar som kräver både innovation och förändrade
+
+kompetenser. I en öppen och internationellt konkurrens-
+
+utsatt region som Västra Götaland påverkas näringslivet
+
+tidigt av både konjunktursvängningar och det geopolitiska
+
+läget, men där många års samlat regionalt utvecklingsarbete
+
+ger en robust grund att stå på.
+
+Ett samlat    och  strategiskt    regionalt
+
+utvecklingsarbete
+
+Det regionala utvecklingsarbetet i Västra Götaland är lång-
+
+siktigt strategiskt och omfattar utveckling inom kultur och
+
+upplevelser, föreningsliv, kompetensförsörjning, näringsliv,
+
+forskning och innovation, miljö och klimat. Det omfattar
+även samhällsplanering av infrastruktur, bredband, kollek-
+
+tivtrafik och platsers utveckling samt arbete med folkhälsa,
+
+jämställdhet, antidiskriminering och mänskliga rättigheter.
+
+DET FINNS EN LÅNG tradition av att offentlig sektor, näringsliv,
+
+akademi  och det civila samhället agerar tillsammans i Västra
+Götaland, både inom  länet, med grannregioner och i olika
+
+internationella samarbeten. Etablerade samarbetsmiljöer,
+
+stabila strukturer och en mångfald av människor ger resurser
+
+och förutsättningar att omsätta kunskap och engagemang i
+
+hållbara lösningar. Detta bidrar även till länets gemensam-
+
+ma  förmåga att möta utmaningar  och kriser. Det regionala
+
+utvecklingsarbete som kännetecknar Västra Götaland är en
+styrka för att åstadkomma en innovativ omställning till ett
+
 hållbart och konkurrenskraftigt samhälle.
 
 REGIONAL UTVECKLINGSSTRATEGI  8
@@ -12818,9 +13140,29 @@ VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 287 -->
 
+Samhällsutmaningar
+
+som                   drivkraft
+
+Västra    Götaland      har  ett  bra   utgångsläge       men    vi behöver      samtidigt     möta
+
+ett  antal   regionala     och   globala     utmaningar.       Detta    innebär    att  stora
+
+samhällssystem        behöver      ställas  om    och  förändras      i grunden,     inte   minst    för
+
+att  begränsa      den   globala    uppvärmningen           och   den   akuta    förlusten     av
+
+biologisk     mångfald.      Komplexiteten         i de  flesta  samhällsutmaningarna             gör   att
+
+innovativa      lösningar     behöver     arbetas    fram    gemensamt        och   tvärsektoriellt
+
+utifrån    Västra   Götalands      förutsättningar        och   styrkor.   Ett  utvecklingsarbete
+
+som    tar sin  grund     i samhällsutmaningarna            ger   kraft   i omställningen.
+
 Strategin      tar   sin  utgångspunkt
 
-i följande      samhällsutmaningar:
+i följande     samhällsutmaningar:
 
        Effekterna av klimatpåverkande utsläpp ökar och den biologiska mångfalden
 
@@ -12831,42 +13173,40 @@ i följande      samhällsutmaningar:
 ställer nya krav på samhälle och näringsliv.
 
        Den demografiska utvecklingen med minskande födelsetal, ökad medellivslängd
+
 och lägre andel befolkning i yrkesverksam ålder leder till utmaningar att klara
 
 välfärdens uppdrag och näringslivets kompetensförsörjning. Bristen på vissa
 kompetenser är stor, samtidigt som många saknar arbete.
-Samhällsutmaningar
 
        Västsveriges ekonomi och näringsliv står inför hårdare global konkurrens, snabb
-
 förändring i värdekedjor och ökade krav på nyckelkompetenser. För att behålla
+
 jobben och länets ledande position inom forskning, innovation och utveckling
-som                   drivkraft
+
 krävs snabbhet och stärkta satsningar.
 
        Den digitala transformationen, utvecklingen inom AI och andra banbrytande
 
 teknologier går snabbt och påverkar alla delar i samhället. Det öppnar nya
-
 möjligheter men innebär också etiska dilemman och risker inom exempelvis
-Västra    Götaland      har  ett  bra   utgångsläge       men    vi behöver      samtidigt     möta
+
 cybersäkerhet.
-ett  antal   regionala     och   globala     utmaningar.       Detta    innebär    att  stora
+
        Utvecklingsbehoven för transportinfrastruktur, särskilt för järnväg och
-samhällssystem        behöver      ställas  om    och   förändras     i grunden,      inte  minst    för                                                kollektivtrafik, är fortsatt stora. Långa ledtider samt en generell brist på
+
+kollektivtrafik, är fortsatt stora. Långa ledtider samt en generell brist på
 
 finansiering ställer krav på alternativa arbetssätt och lösningar.
-att  begränsa      den   globala    uppvärmningen           och   den   akuta    förlusten     av
+
        Invånarnas tillgång till arbete och samhällsservice skiljer sig åt inom länet.
-biologisk     mångfald.      Komplexiteten         i de  flesta  samhällsutmaningarna              gör  att
+
 Socioekonomiska klyftor behöver minska och invånare känna sig delaktiga
+i samhället.
 
-innovativa      lösningar     behöver     arbetas    fram    gemensamt        och   tvärsektoriellt                                                     i samhället.
-
-utifrån    Västra   Götalands      förutsättningar        och   styrkor.   Ett  utvecklingsarbete                                               
+
 Tilliten till samhället och demokratin riskerar att minska i takt med dels ökad
 spridning av falsk eller vilseledande information, dels utbredd organiserad
-som    tar  sin grund     i samhällsutmaningarna            ger   kraft   i omställningen.
 brottslighet.
 
 
@@ -12875,7 +13215,7 @@ Alltför många barn och unga upplever psykisk ohälsa. Många klarar inte skola
 Allt yngre personer rekryteras till kriminella gäng.
 
 REGIONAL UTVECKLINGSSTRATEGI  9
-VÄSTRA GÖTALAND 2021–2030
+VÄSTRA GÖTALAND  2021–2030
 
 <!-- sida 288 -->
 
@@ -12898,35 +13238,42 @@ VÄSTRA GÖTALAND 2021–2030
 
 LÅNGSIKTIGA PRIORITERINGAR
 
-Strategin                  pekar            ut     fyra         långsiktiga                                                                                          Strategin prioriterar områden som är långsiktigt strategiskt viktiga för Västra
+Strategin                  pekar            ut     fyra         långsiktiga
 
-Götalands utveckling och där det behövs samverkan mellan olika aktörer och
-gemensamma  insatser för att klara av att ställa om till ett ekonomiskt, socialt
 prioriteringar
-och miljömässigt hållbart och konkurrenskraftigt samhälle.
 
-De  fyra långsiktiga prioriteringarna beskriver de områden som utgör basen för Västra Götalands samlade
+De fyra långsiktiga prioriteringarna beskriver de områden som utgör basen för Västra Götalands samlade
 
 regionala utvecklingsarbete. Det krävs strategisk samverkan och gemensamma insatser inom dessa områden
-
 för att möta de samhällsutmaningar vi står inför och för att klara av att ställa om till ett hållbart och
+
 konkurrenskraftigt samhälle. Samtidigt är det områden där förändringstakten måste accelerera eller där
 
-den gemensamma    beredskapen bör stärkas för att vi ska klara ett antal banbrytande förändringar.                                                                                 LÅNGSIKTIGT
+den gemensamma    beredskapen bör stärkas för att vi ska klara ett antal banbrytande förändringar.
+
+Strategin prioriterar områden som är långsiktigt strategiskt viktiga för Västra
+
+Götalands utveckling och där det behövs samverkan mellan olika aktörer och
+gemensamma   insatser för att klara av att ställa om till ett ekonomiskt, socialt
+
+och miljömässigt hållbart och konkurrenskraftigt samhälle.
+
+LÅNGSIKTIGT
 
 Regional
+
 utvecklingsstrategi
 
 Stärka   innovationskraften
 
-– för ett konkurrenskraftigt  näringsliv i framkant
+– för ett konkurrenskraftigt näringsliv i framkant
 
 ENSKILD                                                                SAMVERKAN
-
 AKTÖR                                                                KRÄVS
+
 Bygga    kompetens
 
-– för bättre kompetensförsörjning  och  livslångt lärande
+– för bättre kompetensförsörjning  och livslångt lärande
 
 Öka   inkluderingen
 
@@ -12945,76 +13292,222 @@ VÄSTRA GÖTALAND 2021–2030
 
 LÅNGSIKTIGA PRIORITERINGAR
 
-skogs- och jordbruksarealer och har fokus på innovation,   innovationer i pilotform, verklig och digital miljö hjälper
-
-produktion  och vidareförädling.                           till att hantera komplexitet, påskynda praktisk användning
 Stärka     innovationskraften
-och skapa en tidig hemmamarknad   för globala lösning-
-•  Framtidens  mobilitet samlar styrkan i fordons-, flyg-
-– för ett konkurrenskraftigt  näringsliv i framkant
-ar. Innovations- och utvecklingskraften ökar när mång-
-och rymdindustrin, med  innovation inom  logistik,
-fald och jämställdhet betraktas som konkurrensfördelar.
-självkörande tekniker, drönare, elektrifiering och nya
-Att  stärka innovationskraften     handlar   om  att nyttiggöra   kunskap   och
-Deltagande  i europeiska samarbeten tillför ny kunskap,
-typer av tjänster för både person- och godstransporter.
+
+– för ett konkurrenskraftigt näringsliv i framkant
+
+Att stärka  innovationskraften     handlar   om  att nyttiggöra   kunskap   och
+
 utveckla  idéer  med   potential  att både   skynda  på  omställningen    och
-sprider goda exempel, och stärker effekterna av regionala
-skapa  värde   i privat och offentlig  sektor. Det  omfattar   dels  insatser för         •  Besöksnäring  samt  kulturella och kreativa branscher
-satsningar på forskning och innovation.
-bidrar till länets attraktionskraft och innovativa näringsliv
+
+skapa  värde  i privat och  offentlig  sektor. Det  omfattar   dels insatser  för
+
 att öka  entreprenörskap     och  nyföretagande     och  stimulera  de  mindre
-inom  områden som  evenemang, film, spel, textil och mode.
+
 företagens   innovationskraft,    dels satsningar   på internationellt   starka
-Exempel  på  långsiktigt viktiga
-kluster  och  forsknings-  och  innovationsmiljöer.
+
+kluster  och forsknings-   och  innovationsmiljöer.
+
+I ETT ROBUST och fossiloberoende Västra Götaland bygger
+
+vi vidare på vår långa erfarenhet av nära samarbete mellan
+
+kunskapsintensiv industri, akademi, forskningsinstitut och
+
+offentlig sektor. Det gör oss attraktiva som internationell
+samarbetspart och som plats för strategiska etableringar och
+
+investeringar. Samverkan gör oss även mer motståndskraftiga
+
+i tider av osäkert världsläge med snabbt förändrade förut-
+
+sättningar för näringsliv och samhälle.
+
+I VÄSTRA GÖTALAND  pågår en grön omställning där fossila
+energikällor fasas ut och linjära värdekedjor ersätts av cirku-
+
+lära. Elektrifiering och ökad fossilfri elförsörjning är avgö-
+
+rande för att stärka konkurrenskraften, behålla jobben och
+
+säkerställa framtida utveckling. Stärkt innovationskraft ger
+
+nya affärsmöjligheter även inom områden som  säkerhet,
+
+resiliens och biologisk mångfald. Genom att rikta investe-
+
+ringar mot hållbarhet kan Västra Götaland stärka sin posi-
+tion globalt, öka den långsiktiga konkurrenskraften och
+
+bidrar till omställningen till ett fossiloberoende samhälle.
+
+HELA DET DYNAMISKA  SYSTEMET  behövs, från stora kunskaps-
+
+och exportintensiva företag, underleverantörer och tjänste-
+
+företag till bredden av innovativa små och medelstora företag.
+Därtill sociala företag som främjar sociala innovationer och
+
+nya affärsmodeller. Entreprenöriella inslag i skola, högre
+
+utbildning och forskning stärker företagsamheten och bidrar
+
+till förnyelse och utveckling av både samhälle och näringsliv.
+
+När invånarnas delaktighet och kreativitet, särskilt barns
+och ungas skaparförmåga, tas tillvara utvecklas morgon-
+
+dagens innovationer, tjänster och företag.
+
+I VÄSTRA GÖTALAND FINNS områden  av särskilt stor betydelse
+
+för länets konkurrenskraft, tillväxt och export. Det är viktigt
+
+att både behålla nuvarande verksamheter och främja utveck-
+ling i riktning mot framtida tekniker och produktionssätt.
+
+Strategin ska stärka förutsättningarna för innovativ omställ-
+
+ning och hållbar utveckling inom:
+
+• Hållbar  industri innefattar produktion, nya och biobas-
+
+erade material, resurseffektiv process - och produktutveck-
+
+ling, industrinära tjänster som digitalisering, teknologier,
+cirkulära affärsmodeller och energiförsörjning.
+
+• Hälsa  och life science omfattar utveckling av läkemedel,
+
+medicinteknik,  välfärdsteknik och innovationer inom
+
+hälso- och sjukvård med fokus på precisionshälsa och
+nyttiggörande av digitaliseringens möjligheter.
+
+• Livsmedelskedjan,   skogliga och maritima  näringar
+utgår från länets stora naturresurser med hav, sjöar,
+
+skogs- och jordbruksarealer och har fokus på innovation,
+
+produktion  och vidareförädling.
+
+• Framtidens   mobilitet samlar styrkan i fordons-, flyg-
+
+och  rymdindustrin, med  innovation inom logistik,
+
+självkörande tekniker, drönare, elektrifiering och nya
+
+typer av tjänster för både person- och godstransporter.
+
+• Besöksnäring   samt kulturella och kreativa branscher
+
+bidrar till länets attraktionskraft och innovativa näringsliv
+
+inom  områden  som evenemang,  film, spel, textil och mode.
+
+TEST OCH DEMONSTRATION  av innovationer i både pilotform
+och verklig miljö är ett sätt att hantera olika perspektiv,
+
+komplexitet och risker för att på så sätt möta behovet av att
+
+snabbt kunna skala upp. Det minskar också tiden till praktisk
+
+användning  och kan forma en tidig hemmamarknad    för
+
+globalt framväxande lösningar.
+
+SAMVERKAN  OCH  KUNSKAPSÖVERFÖRING   blir allt viktigare när
+traditionella branscher vävs samman på nya sätt och med
+
+nya branscher. Små och medelstora företag driver på föränd-
+
+ringen med  innovation och snabb produktutveckling, vilket
+
+stärker sysselsättning och företagens lönsamhet. För att nå
+
+framgång  och effektivisera både privat och offentlig sektor,
+
+behövs satsningar på digital transformation, AI, banbrytande
+tekniker och innovationer samt kompetensutveckling i sam-
+
+arbete med institut och akademi.
+
+FORTSATT STARKA FORSKNINGS- OCH  INNOVATIONSMILJÖER
+
+möjliggör värdeskapande samarbeten  mellan små och stora
+
+företag, akademi och offentlig sektor. Nätverk är nyckeln
+både till företagens tillväxt och till att de ska stanna i Västra
+
+Götaland. Offentlig sektor behöver efterfråga och driva
+
+på satsningar för förnyelse och, tillsammans med privat
+
+sektor, attrahera kompetenser och kapital för utveckling.
+
+Innovationer måste kombinera  teknik och affärsmodeller
+
+med  etik, lagar och regler. Test och demonstration av
+
+innovationer i pilotform, verklig och digital miljö hjälper
+
+till att hantera komplexitet, påskynda praktisk användning
+
+och skapa en tidig hemmamarknad   för globala lösning-
+
+ar. Innovations- och utvecklingskraften ökar när mång-
+fald och jämställdhet betraktas som konkurrensfördelar.
+
+Deltagande  i europeiska samarbeten tillför ny kunskap,
+
+sprider goda exempel, och stärker effekterna av regionala
+
+satsningar på forskning och innovation.
+
+Exempel  på långsiktigt viktiga
+
 samverkansområden     för att stärka
-TEST OCH DEMONSTRATION   av innovationer i både pilotform
 innovationskraften:
-och  verklig miljö är ett sätt att hantera olika perspektiv,
-I ETT ROBUST och fossiloberoende Västra Götaland bygger       nya affärsmodeller. Entreprenöriella inslag i skola, högre   komplexitet  och risker för att på så sätt möta behovet av att        Stimulera entreprenörskap samt utveckla och ta
-vi vidare på vår långa erfarenhet av nära samarbete mellan    utbildning och forskning stärker företagsamheten och bidrar  snabbt kunna  skala upp. Det minskar också tiden till praktisk         tillvara barns och ungas kreativitet och färdigheter.
-kunskapsintensiv industri, akademi, forskningsinstitut och    till förnyelse och utveckling av både samhälle och näringsliv. användning och kan forma en tidig hemmamarknad   för
+
+
+Stimulera entreprenörskap samt utveckla och ta
+tillvara barns och ungas kreativitet och färdigheter.
+
 
 Främja nyföretagande och bidra till ökad
-offentlig sektor. Det gör oss attraktiva som internationell   När invånarnas delaktighet och kreativitet, särskilt barns   globalt framväxande lösningar.
 konkurrenskraft och förändringsförmåga i små
-samarbetspart och som plats för strategiska etableringar och  och ungas skaparförmåga, tas tillvara utvecklas morgon-                                                                             och medelstora företag, genom exempelvis
-investeringar. Samverkan gör oss även mer motståndskraftiga   dagens innovationer, tjänster och företag.                   SAMVERKAN   OCH KUNSKAPSÖVERFÖRING   blir allt viktigare när           digitalisering, cirkulära affärsmodeller och
+
+och medelstora företag, genom exempelvis
+digitalisering, cirkulära affärsmodeller och
+
 utvecklat klimat- och hållbarhetsarbete.
-i tider av osäkert världsläge med snabbt förändrade förut-                                                                 traditionella branscher vävs samman på nya sätt och med
-sättningar för näringsliv och samhälle.                       I VÄSTRA GÖTALAND FINNS områden  av särskilt stor betydelse  nya branscher. Små  och medelstora företag driver på föränd-          Öka den internationella konkurrenskraften
-för länets konkurrenskraft, tillväxt och export. Det är viktigt ringen med innovation och snabb produktutveckling, vilket           genom satsningar på exempelvis hållbar och
+
+    Öka den internationella konkurrenskraften
+
+genom satsningar på exempelvis hållbar och
 fossiloberoende industri, hälsa och life science,
-I VÄSTRA GÖTALAND  pågår en grön omställning där fossila      att både behålla nuvarande verksamheter och främja utveck-   stärker sysselsättning och företagens lönsamhet. För att nå
+
 hållbar mobilitet, livsmedelskedjan, skogliga och
-energikällor fasas ut och linjära värdekedjor ersätts av cirku- ling i riktning mot framtida tekniker och produktionssätt. framgång  och effektivisera både privat och offentlig sektor,
 maritima näringar, besöksnäring samt kulturella
-lära. Elektrifiering och ökad fossilfri elförsörjning är avgö- Strategin ska stärka förutsättningarna för innovativ omställ- behövs satsningar på digital transformation, AI, banbrytande
+
 och kreativa branscher.
-rande för att stärka konkurrenskraften, behålla jobben och    ning och hållbar utveckling inom:                            tekniker och innovationer samt kompetensutveckling  i sam-
+
     Stärka den västsvenska attraktiviteten för
-säkerställa framtida utveckling. Stärkt innovationskraft ger                                                               arbete med  institut och akademi.
-• Hållbar  industri innefattar produktion, nya och biobas-                                                                          internationell spetskompetens, strategiska
-nya affärsmöjligheter även inom områden  som säkerhet,
-erade material, resurseffektiv process - och produktutveck-                                                                       etableringar och investeringar.
-resiliens och biologisk mångfald. Genom att rikta investe-                                                                 FORTSATT  STARKA FORSKNINGS- OCH INNOVATIONSMILJÖER
-ling, industrinära tjänster som digitalisering, teknologier,
+internationell spetskompetens, strategiska
+
+etableringar och investeringar.
+
 
-ringar mot hållbarhet kan Västra Götaland stärka sin posi-                                                                 möjliggör värdeskapande  samarbeten mellan små  och stora              Satsa på innovationsmiljöer för att utveckla, skala
-cirkulära affärsmodeller och energiförsörjning.
+Satsa på innovationsmiljöer för att utveckla, skala
 upp och nyttiggöra lösningar i samverkan mellan
-tion globalt, öka den långsiktiga konkurrenskraften och                                                                    företag, akademi och offentlig sektor. Nätverk är nyckeln
+
 näringsliv, akademi och offentlig sektor.
-• Hälsa  och life science omfattar utveckling av läkemedel,
-bidrar till omställningen till ett fossiloberoende samhälle.                                                               både  till företagens tillväxt och till att de ska stanna i Västra
-medicinteknik, välfärdsteknik och innovationer inom        Götaland.  Offentlig sektor behöver efterfråga och driva              Delta i nationella och europeiska partnerskap för
-HELA DET DYNAMISKA  SYSTEMET  behövs, från stora kunskaps-      hälso- och sjukvård med fokus på precisionshälsa och       på satsningar för förnyelse och, tillsammans med privat                erfarenhetsutbyte och uppväxling av regionala
-nyttiggörande av digitaliseringens möjligheter.                                                                                   satsningar.
-och exportintensiva företag, underleverantörer och tjänste-                                                                sektor, attrahera kompetenser och kapital för utveckling.
-företag till bredden av innovativa små och medelstora företag. • Livsmedelskedjan,  skogliga och maritima  näringar        Innovationer måste  kombinera  teknik och affärsmodeller
-Därtill sociala företag som främjar sociala innovationer och    utgår från länets stora naturresurser med hav, sjöar,      med  etik, lagar och regler. Test och demonstration av
+
+
+Delta i nationella och europeiska partnerskap för
+erfarenhetsutbyte och uppväxling av regionala
+satsningar.
+
 REGIONAL UTVECKLINGSSTRATEGI 12
 VÄSTRA GÖTALAND 2021–2030
 
@@ -13026,61 +13519,177 @@ Bygga      kompetens
 
 – för bättre kompetensförsörjning    och livslångt lärande
 
-Att  bygga  kompetens     handlar   om  att öka  tillgången   till kunskap  och
-TIDIGA INSATSER som får fler barn och unga att fullfölja
-kompetens     som  är avgörande    för att samhället   ska  kunna   utvecklas.
-grundskola  och gymnasieskola är viktigt och förbättrar för-
-Utbildning   och  arbete  är grunden    för att människor    och  företag  ska
-utsättningarna att inkluderas på arbetsmarknaden och få ett
-växa.  Den  gröna   och digitala  omställningen    kräver  att vi lär och agerar          gott liv. Det krävs också insatser som gör fler barn och unga              Exempel   på långsiktigt viktiga
-samverkansområden     för att
-utifrån  ny kunskap    och ändrade    förutsättningar.   När  behovet   av                intresserade av naturvetenskap, teknik och matematik.
-bygga  kompetens:
+Att bygga   kompetens     handlar  om   att öka  tillgången  till kunskap  och
+
+kompetens     som  är avgörande    för att samhället   ska kunna   utvecklas.
+
+Utbildning   och  arbete  är grunden    för att människor    och företag   ska
+
+växa.  Den  gröna   och digitala  omställningen    kräver  att vi lär och agerar
+
+utifrån  ny kunskap   och  ändrade    förutsättningar.   När behovet    av
+
 kompetens     snabbt  förändras   blir möjligheterna    till livslångt lärande
 
-allt viktigare.                                                                           BEHOVET  AV KOMPETENS  inom  områden  som hållbarhet,
-
-digitala tjänster och säkerhet, AI, naturvetenskap och teknik           Främja kompetensomställning och livslångt
-lärande för att möta arbetsmarknadens
+allt viktigare.
+
+DET FINNS FLERA utmaningar i att möta framtidens arbets-
+
+marknad.  Utvecklingen inom  både privat och offentlig
+
+sektor förutsätter tillräckligt med arbetskraft med efterfrågad
+
+kompetens.  Saknas detta kan effekten bli att företag flyttar
+sin verksamhet ut ur landet och att den offentliga sektorn
+
+inte kan upprätthålla välfärden och viktiga samhällsfunk-
+
+tioner. Enskilda företag och organisationer har behov av att
+
+både nyanställa kvalificerad arbetskraft och utbilda befintlig
+
+personal.
+
+BEHOVET AV KOMPETENS   förändras till följd av digitalisering,
+automatisering, AI och andra avancerade teknologier samt
+
+högre krav på hållbarhet. För att Västra Götaland ska bli
+
+fossiloberoende och cirkulärt krävs nya kompetenser och att
+
+vi nyttiggör ny forskning. Det geopolitiska läget och ökade
+
+säkerhetshot påverkar arbetsmarknaden och kompetensbe-
+
+hoven i stor utsträckning och kan leda till att hela branscher
+omformas  snabbt. Efterfrågan på kompetens förväntas öka
+
+inom  flera sektorer samtidigt som många går i pension,
+
+födelsetalen går ner och andelen människor i arbetsförålder
+
+minskar. Förmågan  att förutsäga vilken kompetens som
+
+behövs i framtiden och att ställa om till nya och innovativa
+
+arbetssätt blir allt viktigare. Här kan digitaliseringen och AI
+
+vara möjliggörare.
+
+MATCHNINGEN  MELLAN  UTBUD och  efterfrågan på kompetens
+förutsätter ett nära samarbete mellan utbildningsanordna-
+
+re, arbetsgivare och branschföreträdare samt att utbudet av
+
+utbildningar anpassas snabbare. Det handlar om att förbätt-
+
+ra förutsättningarna för ett livslångt lärande och en andra
+
+chans för personer vars utbildningsbakgrund och kompe-
+tens inte möter kraven på arbetsmarknaden.
+
+VI BEHÖVER SAMVERKA  OCH ARBETA systematiskt med kom-
+
+petensförsörjning utifrån människan, samhällets och arbets-
+
+marknadens  behov. När vissa yrken förändras eller försvinner
+
+och andra inträder behövs nya sätt att utbilda. Det behövs
+
+både bredd och spets inom universitet, högskolor och yrkes-
+utbildningar samt möjlighet till bildning vid folkhögskolor,
+
+studieförbund och i föreningslivet. Folkhögskolestudier kan
+
+bidra med nya chanser till kunskap som senare kan leda till
+
+jobb, men också till bildning och mänsklig mognad.
+
+TIDIGA INSATSER som får fler barn och unga att fullfölja
+
+grundskola och gymnasieskola  är viktigt och förbättrar för-
+
+utsättningarna att inkluderas på arbetsmarknaden och få ett
+
+gott liv. Det krävs också insatser som gör fler barn och unga
+intresserade av naturvetenskap, teknik och matematik.
+
+BEHOVET AV KOMPETENS   inom områden  som  hållbarhet,
+
+digitala tjänster och säkerhet, AI, naturvetenskap och teknik
+
 ökar inom  de flesta sektorer. För att klara konkurrensen om
+
+kompetens  och arbetskraft behöver hela Västra Götaland
+vara en attraktiv plats att bo och verka på, med goda för-
+
+utsättningar för att attrahera, ta emot och behålla interna-
+
+tionell kompetens. Genom  att vidga arbetsmarknaden över
+
+lokala, regionala och nationella gränser kan vi tillsammans
+
+stärka Västsveriges internationella lyskraft och förbättra
+
+möjligheterna att klara omställningen.
+
+SAMTIDIGT ÄR DET VIKTIGT att utveckla validering av kun-
+skap och kompetens,  särskilt bland nyanlända, som ett stöd
+
+för att människor lättare ska kunna etablera sig på arbets-
+
+marknaden.  Både det offentliga och det privata arbetsli-
+
+vet behöver bredda sin rekrytering och bli bättre på att ta
+
+tillvara mångfalden av arbetskraft samt hitta vägar för att
+anställa personer som inte fullt ut möter kompetenskraven.
+
+Särskilda insatser krävs för etablering av grupper som har en
+
+svagare förankring på arbetsmarknaden såsom utrikes föd-
+
+da kvinnor. Genom  aktivt arbete för att minska stereotypa
+
+utbildnings- och yrkesval skapas en mer jämlik och jäm-
+
+ställd arbetsmarknad vilket i sin tur ökar kreativiteten och
+
+innovationskraften.
+
+Exempel  på långsiktigt viktiga
+
+samverkansområden     för att
+bygga  kompetens:
+
+
+Främja kompetensomställning och livslångt
+lärande för att möta arbetsmarknadens
 förändrade behov, teknikskiften och ökade
-DET FINNS FLERA utmaningar i att möta framtidens arbets-      behövs i framtiden och att ställa om till nya och innovativa kompetens   och arbetskraft behöver hela Västra Götaland
+
 krav på hållbarhet.
-marknad.  Utvecklingen inom  både privat och offentlig        arbetssätt blir allt viktigare. Här kan digitaliseringen och AI vara en attraktiv plats att bo och verka på, med goda för-
+
 
 Förbättra matchningen på arbetsmarknaden
-sektor förutsätter tillräckligt med arbetskraft med efterfrågad vara möjliggörare.                                         utsättningar för att attrahera, ta emot och behålla interna-
 för en bättre balans mellan utbud och
-kompetens.  Saknas detta kan effekten bli att företag flyttar                                                              tionell kompetens. Genom   att vidga arbetsmarknaden över
+
 efterfrågan.
-sin verksamhet ut ur landet och att den offentliga sektorn    MATCHNINGEN  MELLAN  UTBUD och efterfrågan på kompetens      lokala, regionala och nationella gränser kan vi tillsammans
+
 
-inte kan upprätthålla välfärden och viktiga samhällsfunk-     förutsätter ett nära samarbete mellan utbildningsanordna-    stärka Västsveriges internationella lyskraft och förbättra              Göra tidiga insatser för att få fler barn och
+Göra tidiga insatser för att få fler barn och
 unga intresserade av naturvetenskap, teknik
-tioner. Enskilda företag och organisationer har behov av att  re, arbetsgivare och branschföreträdare samt att utbudet av  möjligheterna att klara omställningen.
+
 och matematik och för att utmana
-både nyanställa kvalificerad arbetskraft och utbilda befintlig utbildningar anpassas snabbare. Det handlar om att förbätt-
 könsstereotypa val av utbildning, yrke och
-personal.                                                     ra förutsättningarna för ett livslångt lärande och en andra  SAMTIDIGT  ÄR DET VIKTIGT att utveckla validering av kun-
+
 fritidssysselsättning.
-chans för personer vars utbildningsbakgrund och kompe-       skap och kompetens,  särskilt bland nyanlända, som ett stöd
+
 
 Ta tillvara och utveckla hela arbetskraftens
-BEHOVET  AV KOMPETENS  förändras till följd av digitalisering, tens inte möter kraven på arbetsmarknaden.                  för att människor lättare ska kunna etablera sig på arbets-
-kompetens  och underlätta för fler att etablera
-automatisering, AI och andra avancerade teknologier samt                                                                   marknaden.   Både det offentliga och det privata arbetsli-
+kompetens och underlätta för fler att etablera
 sig på arbetsmarknaden och för att få
-högre krav på hållbarhet. För att Västra Götaland ska bli     VI BEHÖVER SAMVERKA  OCH ARBETA systematiskt med kom-        vet behöver bredda sin rekrytering och bli bättre på att ta
-människor att växa.
-fossiloberoende och cirkulärt krävs nya kompetenser och att   petensförsörjning utifrån människan, samhällets och arbets-  tillvara mångfalden av arbetskraft samt hitta vägar för att
-vi nyttiggör ny forskning. Det geopolitiska läget och ökade   marknadens  behov. När vissa yrken förändras eller försvinner anställa personer som inte fullt ut möter kompetenskraven.
-säkerhetshot påverkar arbetsmarknaden och kompetensbe-        och andra inträder behövs nya sätt att utbilda. Det behövs   Särskilda insatser krävs för etablering av grupper som har en
-hoven i stor utsträckning och kan leda till att hela branscher både bredd och spets inom universitet, högskolor och yrkes- svagare förankring på arbetsmarknaden  såsom utrikes föd-
-omformas  snabbt. Efterfrågan på kompetens förväntas öka      utbildningar samt möjlighet till bildning vid folkhögskolor, da kvinnor. Genom   aktivt arbete för att minska stereotypa
-inom  flera sektorer samtidigt som många går i pension,       studieförbund och i föreningslivet. Folkhögskolestudier kan  utbildnings- och yrkesval skapas en mer jämlik och jäm-
-födelsetalen går ner och andelen människor i arbetsförålder   bidra med nya chanser till kunskap som senare kan leda till  ställd arbetsmarknad vilket i sin tur ökar kreativiteten och
 
-minskar. Förmågan  att förutsäga vilken kompetens som         jobb, men också till bildning och mänsklig mognad.           innovationskraften.
+människor att växa.
 
 REGIONAL UTVECKLINGSSTRATEGI 13
 VÄSTRA GÖTALAND 2021–2030
@@ -13090,143 +13699,400 @@ VÄSTRA GÖTALAND 2021–2030
 LÅNGSIKTIGA PRIORITERINGAR
 
 Öka    inkluderingen
-från arbetsmarknaden är en förutsättning för att tillsammans  internet. Att förstå flödet av information, nyttja sociala
 
-– för stärkt tillit och sammanhållning                                                    kunna  sänka trösklarna och bryta de mönster som gör att      medier och ha en källkritisk förmåga är kärnan i yttrande-
+– för stärkt tillit och sammanhållning
 
-vissa grupper utestängs. Bland dem finns exempelvis utrikes   och informationsfriheten. Det handlar även om att stärka
-födda kvinnor. Här har offentliga och privata arbetsgivare en invånarnas medie- och informationskunnighet för att öka
-Att  öka  inkluderingen   handlar   om   att skapa  förutsättningar   för
-viktig roll.                                                  motståndskraften mot falsk och vilseledande information.
+Att öka  inkluderingen    handlar   om  att skapa   förutsättningar   för
 samhörighet    och  att alla individer  ska kunna   vara  aktiva  i samhälls-
 
 och  arbetsliv. Det  handlar  också  om   att öka  människors    tillit till
-INVÅNARNAS  LIVSKVALITET och möjlighet till arbete stärks med
+
 varandra,   till samhället och  till demokratin.   Att stärka  barns  och  ungas
+
+förutsättningar   och  möjligheter    är grunden.
+
+VARJE MÄNNISKA  SKA kunna använda  sin fulla potential i ett
+
+jämlikt och sammanhållet Västra Götaland. Tilliten mellan
+
+människor  och till samhället i stort är grunden för en funge-
+
+rande demokrati. Att vara delaktig i samhällsutvecklingen
+och kunna  påverka beslut som rör levnadsförhållandena är
+
+en mänsklig rättighet som samtidigt är central för hälsa, väl-
+
+befinnande och individers egenmakt. Detta påverkar Västra
+
+Götalands samlade utvecklingskraft och robusthet samt
+
+möjlighet att agera samlat i tider av omställning.
+
+DE SOCIOEKONOMISKA  KLYFTORNA måste minska. Möjligheten
+att delta i samhällslivet påverkas av var man bor samt ursprung,
+
+utbildning, ålder, kön, fysiska och psykiska funktionsnedsätt-
+
+ningar och en rad andra faktorer. Många upplever en allt större
+
+oro kring ekonomisk otrygghet, organiserad brottslighet,
+
+klimatförändringar och geopolitisk instabilitet. Här krävs att
+
+offentlig sektor, näringsliv, myndigheter och civila samhället
+tillsammans värnar om ett jämlikt och tryggt samhälle där
+
+invånarna har framtidstro.
+
+och unga HBTQI-personer1,   upplever psykisk ohälsa. Alltför
+
+många  barn klarar inte skolan. Bland dem utmärker sig
+
+pojkar, även om faktorer som socioekonomisk bakgrund eller
+
+migrationsbakgrund  också spelar in. Tidiga och förebygga nde
+insatser ger barn och unga goda förutsättningar att klara
+
+grundskolan och gymnasiet, ökar motivationen och möjlig-
+
+heterna till en meningsfull och aktiv fritid. Det har stor bety-
+
+delse för möjligheten till framtida försörjning och en god
+
+hälsa. Barn och ungas egenmakt och framtidstro stärks när
+
+de ges föruts ättningar och möjlighet till delaktighet i frågor
+
+som berör dem.
+
+UTBILDNING OCH BILDNING är inte bara en förutsättning för att
+
+få arbete och inkomst, det ökar även individers möjlighet att
+
+påverka sin livssituation och bidra till samhällsutvecklingen.
+
+Här spelar folkbildningen med exempelvis folkhögskolor och
+
+studieförbund en viktig roll. De bidrar även till fler chanser
+till utbildning, att komma in i arbetslivet och ett vidgat
+
+deltagande i kultur- och samhällsliv.
+
+JÄMLIKA MÖJLIGHETER TILL hälsa och utbildning för barn och    ARBETE OCH SYSSELSÄTTNING har en avgörande betydelse för
+
+unga är viktiga grundläggande beståndsdelar i ett robust och  människors välmående och delaktighet i samhället.
+
+öppet Västra Götaland. Många barn och unga, särskilt flickor  Samverkan mellan aktörer med ansvar för dem som står långt
+
+1    HBTQI är ett samlingsnamn för homosexuella, bisexuella, transpersoner, personer med queera uttryck och identiteter samt intersexpersoner.
+
+från arbetsmarknaden är en förutsättning för att tillsammans
+
+kunna sänka trösklarna och bryta de mönster som gör att
+
+vissa grupper utestängs. Bland dem finns exempelvis utrikes
+
+födda kvinnor. Här har offentliga och privata arbetsgivare en
+viktig roll.
+
+INVÅNARNAS  LIVSKVALITET och möjlighet till arbete stärks med
+
 tillgången till sociala nätverk och mötesplatser. Kultur, fören-
-Exempel  på långsiktigt viktiga
-förutsättningar    och möjligheter    är grunden.
+
 ingsliv och idrott är med och skapar grunden för gemenskap,
-samverkansområden     för att öka
+
 trygghet och egenmakt. Det civila samhället och den sociala
+ekonomin  kan ta tillvara entreprenöriella förmågor och enga-
+
+gemang  ur ett invånarperspektiv för utvecklingen av lokal-
+
+samhället, i miljö- och klimatfrågor eller för att lösa sociala
+
+utmaningar. Arbetsintegrerande sociala företag har en särskild
+
+roll att kombinera företagande med socialt ansvar och vägar
+
+till sysselsättning.
+
+MÖTESPLATSER OCH DEN  offentliga miljöns utformning har stor
+betydelse för att motverka utanförskap. Tillgång till bostäder är
+
+en välfärdsfråga och boendesegregationen behöver minska
+
+medan  tillgången till offentlig och kommersiell service behöver
+
+förbättras i delar av länet. Om en ort kan behålla och utveckla
+
+det lokala serviceutbudet gynnar det såväl utvecklingen som
+tilliten till det offentliga. Här krävs att invånare involveras
+
+i utvecklingen av sin egen plats och i samverkan mellan
+
+kommun,   näringsliv och civila samhället.
+
+DIGITALISERINGEN STÄRKER invånarnas tillgång till information,
+
+delaktighet och inflytande över samhällsutvecklingen.
+
+Kontakterna mellan invånare och myndigheter sker i allt högre
+grad digitalt. Här krävs gemensamma insatser som minskar
+
+digitalt utanförskap och ger alla mer jämlika förutsättningar
+
+att delta i samhället. Det krävs också att vi säkerställer tillgång
+
+till centrala samhällstjänster även för dem som inte kan använda
+
+internet. Att förstå flödet av information, nyttja sociala
+
+medier och ha en källkritisk förmåga är kärnan i yttrande-
+
+och informationsfriheten. Det handlar även om att stärka
+
+invånarnas medie- och informationskunnighet för att öka
+motståndskraften mot falsk och vilseledande information.
+
+Exempel  på långsiktigt viktiga
+
+samverkansområden     för att öka
+
 inkluderingen:
-ekonomin   kan ta tillvara entreprenöriella förmågor och enga-
-VARJE MÄNNISKA  SKA kunna använda  sin fulla potential i ett  och unga HBTQI-personer1,  upplever psykisk ohälsa. Alltför  gemang  ur ett invånarperspektiv för utvecklingen av lokal-          
+
+
 Ge fler möjlighet till utbildning och egen
-jämlikt och sammanhållet Västra Götaland. Tilliten mellan     många  barn klarar inte skolan. Bland dem utmärker sig       samhället, i miljö- och klimatfrågor eller för att lösa sociala           försörjning genom utvecklad samverkan
-människor  och till samhället i stort är grunden för en funge- pojkar, även om faktorer som socioekonomisk bakgrund eller  utmaningar. Arbetsintegrerande sociala företag har en särskild            mellan offentlig sektor, näringsliv,
-myndigheter och civila samhället.
-rande demokrati. Att vara delaktig i samhällsutvecklingen     migrationsbakgrund också spelar in. Tidiga och förebygga nde roll att kombinera företagande med socialt ansvar och vägar
+försörjning genom utvecklad samverkan
+mellan offentlig sektor, näringsliv,
+myndigheter  och civila samhället.
 
-och kunna  påverka beslut som rör levnadsförhållandena är     insatser ger barn och unga goda förutsättningar att klara    till sysselsättning.                                                 
+
 Utveckla arbetssätt som ökar invånarnas
-en mänsklig rättighet som samtidigt är central för hälsa, väl- grundskolan och gymnasiet, ökar motivationen och möjlig-                                                                              delaktighet, engagemang och inflytande
-befinnande och individers egenmakt. Detta påverkar Västra     heterna till en meningsfull och aktiv fritid. Det har stor bety- MÖTESPLATSER OCH DEN offentliga miljöns utformning har stor           i samhällsutvecklingen.
+delaktighet, engagemang och inflytande
+i samhällsutvecklingen.
 
-Götalands samlade utvecklingskraft och robusthet samt         delse för möjligheten till framtida försörjning och en god   betydelse för att motverka utanförskap. Tillgång till bostäder är
-    Stärka barns och ungas möjligheter till en
-möjlighet att agera samlat i tider av omställning.            hälsa. Barn och ungas egenmakt och framtidstro stärks när    en välfärdsfråga och boendesegregationen behöver minska
+   Stärka barns och ungas möjligheter till en
 bra, jämställd och jämlik start i livet.
-de ges föruts ättningar och möjlighet till delaktighet i frågor medan tillgången till offentlig och kommersiell service behöver
+
 
 Stärka dialogen med det civila samhället
-DE SOCIOEKONOMISKA  KLYFTORNA måste minska. Möjligheten       som berör dem.                                               förbättras i delar av länet. Om en ort kan behålla och utveckla
-att delta i samhällslivet påverkas av var man bor samt ursprung,                                                           det lokala serviceutbudet gynnar det såväl utvecklingen som              Tillvarata digitaliseringens möjligheter
-utbildning, ålder, kön, fysiska och psykiska funktionsnedsätt- UTBILDNING OCH BILDNING är inte bara en förutsättning för att tilliten till det offentliga. Här krävs att invånare involveras         för att öka invånarnas aktiva deltagande
 
+
+Tillvarata digitaliseringens möjligheter
+för att öka invånarnas aktiva deltagande
 i samhället samt motverka det digitala
-ningar och en rad andra faktorer. Många upplever en allt större få arbete och inkomst, det ökar även individers möjlighet att i utvecklingen av sin egen plats och i samverkan mellan
 utanförskapet.
-oro kring ekonomisk otrygghet, organiserad brottslighet,      påverka sin livssituation och bidra till samhällsutvecklingen. kommun, näringsliv och civila samhället.
-klimatförändringar och geopolitisk instabilitet. Här krävs att Här spelar folkbildningen med exempelvis folkhögskolor och                                                                           Främja och värna yttrandefriheten,
 
-offentlig sektor, näringsliv, myndigheter och civila samhället studieförbund en viktig roll. De bidrar även till fler chanser DIGITALISERINGEN STÄRKER invånarnas tillgång till information,         stärka invånarnas medie- och
+
+Främja och värna yttrandefriheten,
+stärka invånarnas medie- och
 informationskunnighet och öka
-tillsammans värnar om ett jämlikt och tryggt samhälle där     till utbildning, att komma in i arbetslivet och ett vidgat   delaktighet och inflytande över samhällsutvecklingen.
+
 motståndskraften mot falsk och
-invånarna har framtidstro.                                    deltagande i kultur- och samhällsliv.                        Kontakterna  mellan invånare och myndigheter sker i allt högre
 vilseledande information.
-grad digitalt. Här krävs gemensamma insatser som minskar
-JÄMLIKA MÖJLIGHETER TILL hälsa och utbildning för barn och    ARBETE OCH SYSSELSÄTTNING har en avgörande betydelse för     digitalt utanförskap och ger alla mer jämlika förutsättningar
 
-unga är viktiga grundläggande beståndsdelar i ett robust och  människors välmående och delaktighet i samhället.            att delta i samhället. Det krävs också att vi säkerställer tillgång
-
-öppet Västra Götaland. Många barn och unga, särskilt flickor  Samverkan mellan aktörer med ansvar för dem som står långt   till centrala samhällstjänster även för dem som inte kan använda
-
-1    HBTQI är ett samlingsnamn för homosexuella, bisexuella, transpersoner, personer med queera uttryck och identiteter samt intersexpersoner.                                                                      REGIONAL UTVECKLINGSSTRATEGI 14
+REGIONAL UTVECKLINGSSTRATEGI 14
 VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 293 -->
 
 LÅNGSIKTIGA PRIORITERINGAR
 
-och klimatanpassning sträcker sig över fysiska och administra-
 Knyta     samman        Västra     Götaland
-tiva gränser. Vi behöver därför hjälpas åt att synliggöra, ta vara
-Exempel  på långsiktigt viktiga
+
 – för hållbar och förbättrad  tillgänglighet
-på och stärka funktionella samband och strukturer mellan
-samverkansområden     för att knyta
-kommunerna,   inom länet, med grannregioner, nationellt och
-samman   Västra Götaland:
+
 Att knyta  samman    Västra  Götaland   handlar  om  att öka  närheten   mellan
+
+olika delar av  länet men   även  med  grannregioner,   övriga  Sverige  och andra
+
+länder. Vi vill göra det möjligt  för människor   och  företag  att nå varandra
+
+och  ha ett resurseffektivt  utbyte  med  omvärlden.   Ett sammanhållet    Västra
+
+Götaland   utgår  från både  lokala  och regionala   perspektiv  med  invånarna   i
+
+fokus. En  samordnad    planering  för fysisk och  digital infrastruktur, transport,
+
+hållbar markanvändning      och  bebyggelse   behövs  för att göra  Västra
+
+Götaland   robust  och konkurrenskraftigt.
+
+FÖRUTSÄTTNINGARNA  FÖR ETT STARKT Västra Götaland ökar
+
+genom  att infrastrukturen utvecklas regionalt, nationellt och
+
+internationellt. Samverkan med grannregionerna och länder
+
+som Norge, Danmark   och Tyskland är särskilt viktigt att värna
+och utveckla. Västra Götalands ortstruktur med omgivande
+
+landsbygder, kust och skärgård utgör de geografiska förutsätt-
+
+ningarna. Länets flerkärniga struktur med Borås, Skövde och
+
+Trollhättan–Vänersborg–Uddevalla samt med Göteborgs-
+
+området som  nav, ger goda förutsättningar för en robust och
+
+sammanhållen  utveckling. Attraktiva livsmiljöer och ett trans-
+porteffektivt och uppkopplat Västra Götaland bidrar till sam-
+
+hällsutveckling, främjar hållbara resor och minskar klimat-
+
+och miljöpåverkan.
+
+JÄRNVÄGEN ÄR GRUNDEN  i ett hållbart transportsystem. Det
+
+krävs stora investeringar för att öka kapaciteten och för att
+
+gods- och persontransporter ska kunna flyttas från väg till
+järnväg. Det förutsätter gemensam förmåga att hitta nya
+
+finansieringslösningar och att staten, länets kommuner och
+
+Västra Götalandsregionen fortsätter investera i infrastruktur.
+
+Insatser för hållbart resande behöver samtidigt anpassas till
+
+geografiska skillnader och behoven hos invånare och företag.
+
+GENOM  ATT TA TILLVARA DIGITALISERINGENS möjligheter, nya
+
+tekniker, kombinationer av färdsätt, samt utveckling och
+spridning av smarta lösningar, kan andelen hållbara transporter
+
+och resor öka. Kollektivtrafiken bör prioriteras i samhällsplan-
+
+eringen och vara konkurrenskraftig gentemot bilen samtidigt
+
+som det krävs samlade insatser för att öka andelen gång- och
+
+cykelresor.
+
+INVESTERINGAR I FAST OCH MOBILT BREDBAND öppnar möjligheter
+för fler invånare och företag i alla delar av Västra Götaland att
+
+bo, leva och verka på plats och på distans. Digitaliseringen av
+
+offentliga tjänster kan förbättra tillgången till vård, utbildning
+
+och andra samhällstjänster och stärka näringslivets möjlig-
+
+heter för utveckling. Sammantaget minskar det vårt behov
+
+av att resa vilket är en viktig del i arbetet med att skapa en
+hållbar tillgänglighet.
+
+LÅNGSIKTIGA REGIONALA UTMANINGAR  inom exempelvis gods-
+
+och persontransport, bebyggelseplanering, energiförsörjning
+
+och klimatanpassning sträcker sig över fysiska och administra-
+
+tiva gränser. Vi behöver därför hjälpas åt att synliggöra, ta vara
+
+på och stärka funktionella samband och strukturer mellan
+
+kommunerna,  inom  länet, med grannregioner, nationellt och
 internationellt. Ökad samplanering av fysisk och digital infra-
-olika delar  av länet men   även  med  grannregioner,   övriga  Sverige  och  andra
+
 struktur, etableringar, energi- och livsmedelsförsörjning,
-    Utveckla den transporteffektiva infrastrukturen
-länder. Vi vill göra det möjligt  för människor   och  företag  att nå varandra           bostadsförsörjning, kollektivtrafik, service, besöksmål och
-och öka andelen hållbara resor.
-och  ha ett resurseffektivt  utbyte  med  omvärlden.   Ett sammanhållet     Västra        kulturutbud kan bidra till bättre resursutnyttjande och ökad
-    Fortsätta utbyggnaden av fast och mobilt
-Götaland   utgår  från både  lokala  och regionala   perspektiv  med  invånarna   i       attraktivitet. Det bidrar även till mer jämlika villkor, minskad
-bredband i hela länet.
+
+bostadsförsörjning, kollektivtrafik, service, besöksmål och
+
+kulturutbud kan bidra till bättre resursutnyttjande och ökad
+
+attraktivitet. Det bidrar även till mer jämlika villkor, minskad
+
 klimatpåverkan och stärkt biologisk mångfald.
-fokus.  En samordnad    planering   för fysisk och digital infrastruktur, transport,
+
+SAMVERKAN  INOM FYSISK PLANERING mellan lokal, regional och
+nationell nivå är avgörande för en hållbar markanvändning.
+
+I den detaljerade planeringen måste vi hitta balansen mellan
+
+samhällsutveckling och stärkt biologisk mångfald.
+
+Sammanhängande   livsmiljöer och utvecklade ekologiska korri-
+
+dorer ger olika arter möjlighet att förflytta sig i landskapet.
+Genom   att designa samhällen som ger tillbaka mer än de tar,
+
+kan vi skapa välmående för både människor och natur.
+
+DET DIGITALISERADE SAMHÄLLET öppnar nya möjligheter. Med
+
+hjälp av AI, tillgång till stora mängder data, digitala tvillingar
+
+och teknologier som ”sakernas internet” kan vi simulera och
+visualisera olika scenarier som effektiviserar samhällsplaner-
+
+ingen och rustar samhället för framtiden.
+
+OMGIVNINGEN  OCH NÄRMILJÖN påverkar människors liv. Därför
+
+behöver det offentliga stimulera utvecklingen av inkluderande
+
+livsmiljöer, där invånare trivs och känner sig delaktiga. Det är
+
+grunden i ett utvecklingsarbete för gestaltad livsmiljö. Men vi
+behöver också ta till vara specifika geografiska förutsättningar,
+
+platsidentitet och kulturarv, genom samarbete mellan invånare,
+
+föreningsliv, företag och kommun på platsen. Då uppnås
+
+synergier som också kan bevara och förbättra tillgången till
+
+kommersiell och offentlig service.
+
+Exempel  på långsiktigt viktiga
+
+samverkansområden     för att knyta
+samman   Västra Götaland:
+
+    Utveckla den transporteffektiva infrastrukturen
+
+och öka andelen hållbara resor.
+
+    Fortsätta utbyggnaden av fast och mobilt
+
+bredband i hela länet.
+
     Utveckla och tillämpa digitala tjänster som ökar
-hållbar  markanvändning     och  bebyggelse   behövs   för att göra Västra
 tillgängligheten till samhällsservice för alla.
-SAMVERKAN   INOM FYSISK PLANERING mellan lokal, regional och
-Götaland   robust  och  konkurrenskraftigt.
-nationell nivå är avgörande för en hållbar markanvändning.              Öka samverkan inom samhällsplanering för
-I den detaljerade planeringen måste vi hitta balansen mellan             hållbar markanvändning, utifrån olika aktörers
+
+    Öka samverkan inom samhällsplanering för
+
+hållbar markanvändning, utifrån olika aktörers
 olika roller och ansvar.
-FÖRUTSÄTTNINGARNA  FÖR ETT STARKT Västra Götaland ökar        geografiska skillnader och behoven hos invånare och företag. samhällsutveckling och stärkt biologisk mångfald.
-genom  att infrastrukturen utvecklas regionalt, nationellt och                                                             Sammanhängande    livsmiljöer och utvecklade ekologiska korri-
+
     Stärka människors möjlighet att utveckla sin
-internationellt. Samverkan med grannregionerna och länder     GENOM  ATT TA TILLVARA DIGITALISERINGENS möjligheter, nya    dorer ger olika arter möjlighet att förflytta sig i landskapet.          egen livsmiljö.
-som Norge, Danmark   och Tyskland är särskilt viktigt att värna tekniker, kombinationer av färdsätt, samt utveckling och   Genom   att designa samhällen som ger tillbaka mer än de tar,
+egen livsmiljö.
+
     Samverka för ökad närhet och utbyte nationellt,
-och utveckla. Västra Götalands ortstruktur med omgivande      spridning av smarta lösningar, kan andelen hållbara transporter kan vi skapa välmående för både människor och natur.
+
 europeiskt och internationellt.
-landsbygder, kust och skärgård utgör de geografiska förutsätt- och resor öka. Kollektivtrafiken bör prioriteras i samhällsplan-
-ningarna. Länets flerkärniga struktur med Borås, Skövde och   eringen och vara konkurrenskraftig gentemot bilen samtidigt  DET DIGITALISERADE SAMHÄLLET öppnar nya möjligheter. Med
-Trollhättan–Vänersborg–Uddevalla samt med Göteborgs-          som det krävs samlade insatser för att öka andelen gång- och hjälp av AI, tillgång till stora mängder data, digitala tvillingar
-området som  nav, ger goda förutsättningar för en robust och  cykelresor.                                                  och teknologier som ”sakernas internet” kan vi simulera och
 
-sammanhållen  utveckling. Attraktiva livsmiljöer och ett trans-                                                            visualisera olika scenarier som effektiviserar samhällsplaner-
 Prioriterade infrastrukturstråk
-porteffektivt och uppkopplat Västra Götaland bidrar till sam- INVESTERINGAR I FAST OCH MOBILT BREDBAND öppnar möjligheter  ingen och rustar samhället för framtiden.
-hällsutveckling, främjar hållbara resor och minskar klimat-   för fler invånare och företag i alla delar av Västra Götaland att
-Prioriteringar av transportsystemets infrastruktur för
-och miljöpåverkan.                                            bo, leva och verka på plats och på distans. Digitaliseringen av OMGIVNINGEN OCH NÄRMILJÖN påverkar människors liv. Därför        Västra Götaland sker vart fjärde år i en nationell plan
 
+Prioriteringar av transportsystemets infrastruktur för
+
+Västra Götaland sker vart fjärde år i en nationell plan
 för transportsystemet och i en regional plan för
-offentliga tjänster kan förbättra tillgången till vård, utbildning behöver det offentliga stimulera utvecklingen av inkluderande
+
 transportinfrastrukturen. Revidering av planerna
-JÄRNVÄGEN ÄR GRUNDEN  i ett hållbart transportsystem. Det     och andra samhällstjänster och stärka näringslivets möjlig-  livsmiljöer, där invånare trivs och känner sig delaktiga. Det är
 pågår för kommande period 2026-2037 och som
-krävs stora investeringar för att öka kapaciteten och för att heter för utveckling. Sammantaget minskar det vårt behov     grunden  i ett utvecklingsarbete för gestaltad livsmiljö. Men vi
+
 grund för arbetet har Västra Götalandsregionen i
-gods- och persontransporter ska kunna flyttas från väg till   av att resa vilket är en viktig del i arbetet med att skapa en behöver också ta till vara specifika geografiska förutsättningar,
 samverkan med kommunalförbunden  tagit fram en
-järnväg. Det förutsätter gemensam förmåga att hitta nya       hållbar tillgänglighet.                                      platsidentitet och kulturarv, genom samarbete mellan invånare,      strategisk inriktning för transportinfrastrukturen.
+
+strategisk inriktning för transportinfrastrukturen.
 Här tydliggörs den långsiktiga viljeinriktningen för
-finansieringslösningar och att staten, länets kommuner och                                                                 föreningsliv, företag och kommun på platsen. Då uppnås
+
 transportsystemets utveckling.
-Västra Götalandsregionen fortsätter investera i infrastruktur. LÅNGSIKTIGA REGIONALA UTMANINGAR inom exempelvis gods-      synergier som också kan bevara och förbättra tillgången till
-Insatser för hållbart resande behöver samtidigt anpassas till och persontransport, bebyggelseplanering, energiförsörjning  kommersiell och offentlig service.
 
 REGIONAL UTVECKLINGSSTRATEGI 15
+
 VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 294 -->
@@ -13287,121 +14153,288 @@ BILD Lindholmen Science Park                                                    
 
 <!-- sida 296 -->
 
-TILLSAMMANS KRAFTSAMLAR   VI
+TILLSAMMANS  KRAFTSAMLAR  VI
 
-KRAFTSAMLING                                                                                                               KRAFTSAMLING
+KRAFTSAMLING
 
-Industrins       gröna     omställning                                                                                      Framtidsrusta         barn    och    unga
+Industrins      gröna     omställning
 
-VÄSTRA GÖTALAND  ÄR Sveriges största industriregi-      uttaget av jordens resurser. Omställningen till en cir-            BARN OCH  UNGA i Västra Götaland ska ha de bästa för-   god och  jämlik hälsa, motivation och framtidstro samt
-on med  en femtedel av landets industrijobb. En         kulär ekonomi är avgörande för att uppnå ett hållbart              utsättningarna för en bra start i livet, vilket är avgö- skapa förutsättningar för meningsfull fritid, sociala
+VÄSTRA GÖTALAND  ÄR Sveriges största industriregi-
 
-framgångsrik exportindustri är avgörande för både       och fossilfritt samhälle. Innovationer inom cirkulär               rande för både individ och samhälle. Genom samver-      nätverk och att fler klarar skolan. Unga ska känna att
+on med  en femtedel av landets industrijobb. En
 
-Västsveriges och Sveriges ekonomi och konkurrens-       produkt- och affärsutveckling samt effektivare material-           kan mellan olika aktörer som kommuner,  region, stat,   de är delaktiga i samhället, blir lyssnade på och kan
+framgångsrik exportindustri är avgörande för både
 
-kraft. Industrins gröna omställning är nödvändig för    flöden är nödvändiga. Genom  att övergå från linjära               näringsliv och civila samhället kan vi samla resurser   påverka både sitt liv och samhället.
+Västsveriges och Sveriges ekonomi och konkurrens-
+kraft. Industrins gröna omställning är nödvändig för
 
-att minska klimatpåverkan och behålla produktion,       till cirkulära värdekedjor, och skapa produkter som                kring barn och unga. Det är viktigt både för att främja
+att minska klimatpåverkan och behålla produktion,
 
-kompetens  och jobb i länet. Nyckelfaktorer som rätt    behåller sitt värde över tid, kan vi uppnå lönsamhet               individens välmående och för att ge nästa generation    LÄSFRÄMJANDE,  SPRÅKUTVECKLING  OCH bildning lägger
-kompetens, tillräcklig elförsörjning och cirkulära      och långsiktig hållbarhet. Västra Götaland har goda                de verktyg som krävs för att de ska kunna vara med      grunden  för delaktighet i samhället. Främjande av
+kompetens  och jobb i länet. Nyckelfaktorer som rätt
 
-värde kedjor är centrala för att lyckas med omställ-    förutsättningar att ta en ledande roll.                            och skapa en hållbar och innovativ framtid. Barn och    fysisk aktivitet och hälsa är viktigt, liksom att ge barn
+kompetens,  tillräcklig elförsörjning och cirkulära
 
-ningen och nå en effektiv användning av resurser och                                                                       unga är morgondagens  kompetenser  och ledare.          och unga  lika möjligheter att delta i föreningsliv och
+värde kedjor är centrala för att lyckas med omställ-
 
-material. Att tillsammans kraftsamla handlar om att     TILLGÅNG TILL RÄTT kompetens i alla led och branscher              Tillsammans  kan vi stärka friskfaktorer och minska     kultur. Att fler på sikt ska klara skolan är avgörande,
+ningen och nå en effektiv användning av resurser och
+material. Att tillsammans kraftsamla handlar om att
 
-vi systematiskt identifierar och undanröjer hinder och  är avgörande, både inom nya och befintliga områden.                riskfaktorer för barn, oavsett kön, i alla åldrar och   och de som  behöver ska ges nya utbildningsmöjlig-
+vi systematiskt identifierar och undanröjer hinder och
 
-gör allt vi kan för att underlätta denna omställning.   Den  nya tekniken och innovationerna behöver både                  under dygnets alla timmar.                              heter, exempelvis via folkhögskola eller vuxenutbild-
-internationellt konkurrenskraftiga utbildningsmil-                                                                         ning. Tidig kontakt med arbetslivet gynnar både unga
+gör allt vi kan för att underlätta denna omställning.
 
-INDUSTRIN OCH TRANSPORTSEKTORN  är mitt i en historisk  jöer och labb för forskning, test och demonstration.               LIVSVILLKOREN FÖR BARN och unga är ojämlika och på-     och arbetsgivare, som behöver förstå vad unga värde-
-övergång från fossila bränslen till el, vilket ökar behovet Västsveriges tradition av utbildning som matchar               verkas av socioekonomisk bakgrund  och var de växer     sätter i framtida arbetsliv. Vi måste samtidigt bli bättre
+INDUSTRIN OCH TRANSPORTSEKTORN   är mitt i en historisk
 
-av fossilfri el. Samtidigt växer nya industrigrenar fram, efterfrågan på arbetsmarknaden är en förmåga som                 upp. Utvecklingen går åt fel håll med minskat välbe-    på att tidigt hitta och ge stöd till barn som riskerar
+övergång från fossila bränslen till el, vilket ökar behovet
 
-som en konsekvens av ekonomins  elektrifiering. Endast  ska stärkas för att möta industrins snabbt förändrade              finnande, hög upplevd psykisk ohälsa och en fortsatt    hamna  i kriminalitet.
+av fossilfri el. Samtidigt växer nya industrigrenar fram,
+som en konsekvens  av ekonomins elektrifiering. Endast
 
-en tredjedel av länets elförbrukning produceras idag lo- behov. Det gör Västsverige mer attraktivt för kompe-              stor andel som inte klarar skolan. Många känner oro
+en tredjedel av länets elförbrukning produceras idag lo-
 
-kalt, vilket kräver planering för ny fossilfri elproduktion tens och strategiska etableringar och investeringar.           för klimatförändringar och världsläget samt tvivlar på  MED  GEMENSAMMA   KRAFTER och långsiktiga insatser ska
-samt lagring, exempelvis genom vätgas och batterier.                                                                       sin möjlighet att påverka samhällsutvecklingen. Den     vi framtidsrusta barn och unga i Västra Götaland och
+kalt, vilket kräver planering för ny fossilfri elproduktion
 
-I Västra Götaland råder en bred enighet om behovet      FÖR ATT ÖKA takten i omställningen krävs gynnsamma                 höga användningen  av digitala medier kan ge både       ge dem  bättre förutsättningar för ett gott liv.
+samt lagring, exempelvis genom vätgas och batterier.
 
-att öka länets elproduktion med minst 15 TWh fram       samhälleliga förutsättningar och långsiktiga spelregler            nya perspektiv och sammanhang   men  också påverka
+I Västra Götaland råder en bred enighet om behovet
 
-till 2030 för att stärka självförsörjningsgraden. Analyser både nationellt och inom EU. Invånarnas involvering             hälsan negativt.
+att öka länets elproduktion med minst 15 TWh fram
+till 2030 för att stärka självförsörjningsgraden. Analyser
 
-visar att elbehovet fortsätter att stiga även efter 2030. i omställningen kan med rätt stöd skapa förändrings-
+visar att elbehovet fortsätter att stiga även efter 2030.
 
-Även elnätens distributionskapacitet behöver förstärkas. kraft tillsammans med näringslivet och offentlig                  TILLSAMMANS  BEHÖVER  VI kraftsamla för att utjämna
-sektor. Genom  uthållig samverkan kan vi göra länet                skillnaderna. Det krävs tidiga insatser och att fram-
+Även elnätens distributionskapacitet behöver förstärkas.
 
-FÖR ATT OMSTÄLLNINGEN ska bli både miljömässigt         attraktivt för de som vill leva, bo och arbeta här.                gångsrika metoder delas och sprids. Vi behöver främja
+FÖR ATT OMSTÄLLNINGEN  ska bli både miljömässigt
+
 och ekonomiskt  hållbar måste vi bryta det ohållbara
+
+uttaget av jordens resurser. Omställningen till en cir-
+
+kulär ekonomi är avgörande för att uppnå ett hållbart
+
+och fossilfritt samhälle. Innovationer inom cirkulär
+
+produkt- och affärsutveckling samt effektivare material-
+flöden är nödvändiga. Genom  att övergå från linjära
+
+till cirkulära värdekedjor, och skapa produkter som
+
+behåller sitt värde över tid, kan vi uppnå lönsamhet
+
+och långsiktig hållbarhet. Västra Götaland har goda
+
+förutsättningar att ta en ledande roll.
+
+TILLGÅNG TILL RÄTT kompetens i alla led och branscher
+är avgörande, både inom nya och befintliga områden.
+
+Den  nya tekniken och innovationerna behöver både
+
+internationellt konkurrenskraftiga utbildningsmil-
+
+jöer och labb för forskning, test och demonstration.
+
+Västsveriges tradition av utbildning som matchar
+
+efterfrågan på arbetsmarknaden är en förmåga som
+ska stärkas för att möta industrins snabbt förändrade
+
+behov. Det gör Västsverige mer attraktivt för kompe-
+
+tens och strategiska etableringar och investeringar.
+
+FÖR ATT ÖKA takten i omställningen krävs gynnsamma
+
+samhälleliga förutsättningar och långsiktiga spelregler
+både nationellt och inom EU. Invånarnas involvering
+
+i omställningen kan med rätt stöd skapa förändrings-
+
+kraft tillsammans med näringslivet och offentlig
+
+sektor. Genom  uthållig samverkan kan vi göra länet
+
+attraktivt för de som vill leva, bo och arbeta här.
+
+KRAFTSAMLING
+
+Framtidsrusta         barn    och    unga
+
+BARN OCH  UNGA i Västra Götaland ska ha de bästa för-
+
+utsättningarna för en bra start i livet, vilket är avgö-
+
+rande för både individ och samhälle. Genom samver-
+
+kan mellan olika aktörer som kommuner,  region, stat,
+näringsliv och civila samhället kan vi samla resurser
+
+kring barn och unga. Det är viktigt både för att främja
+
+individens välmående och för att ge nästa generation
+
+de verktyg som krävs för att de ska kunna vara med
+
+och skapa en hållbar och innovativ framtid. Barn och
+
+unga är morgondagens  kompetenser  och ledare.
+Tillsammans  kan vi stärka friskfaktorer och minska
+
+riskfaktorer för barn, oavsett kön, i alla åldrar och
+
+under dygnets alla timmar.
+
+LIVSVILLKOREN FÖR BARN och unga är ojämlika och på-
+
+verkas av socioekonomisk bakgrund  och var de växer
+
+upp. Utvecklingen går åt fel håll med minskat välbe-
+finnande, hög upplevd psykisk ohälsa och en fortsatt
+
+stor andel som inte klarar skolan. Många känner oro
+
+för klimatförändringar och världsläget samt tvivlar på
+
+sin möjlighet att påverka samhällsutvecklingen. Den
+
+höga användningen  av digitala medier kan ge både
+
+nya perspektiv och sammanhang   men  också påverka
+hälsan negativt.
+
+TILLSAMMANS  BEHÖVER  VI kraftsamla för att utjämna
+
+skillnaderna. Det krävs tidiga insatser och att fram-
+
+gångsrika metoder delas och sprids. Vi behöver främja
+
+god och jämlik hälsa, motivation och framtidstro samt
+
+skapa förutsättningar för meningsfull fritid, sociala
+
+nätverk och att fler klarar skolan. Unga ska känna att
+
+de är delaktiga i samhället, blir lyssnade på och kan
+påverka både sitt liv och samhället.
+
+LÄSFRÄMJANDE,  SPRÅKUTVECKLING  OCH bildning lägger
+
+grunden  för delaktighet i samhället. Främjande av
+
+fysisk aktivitet och hälsa är viktigt, liksom att ge barn
+
+och unga lika möjligheter att delta i föreningsliv och
+kultur. Att fler på sikt ska klara skolan är avgörande,
+
+och de som  behöver ska ges nya utbildningsmöjlig-
+
+heter, exempelvis via folkhögskola eller vuxenutbild-
+
+ning. Tidig kontakt med arbetslivet gynnar både unga
+
+och arbetsgivare, som behöver förstå vad unga värde-
+
+sätter i framtida arbetsliv. Vi måste samtidigt bli bättre
+
+på att tidigt hitta och ge stöd till barn som riskerar
+hamna  i kriminalitet.
+
+MED GEMENSAMMA    KRAFTER och långsiktiga insatser ska
+
+vi framtidsrusta barn och unga i Västra Götaland och
+
+ge dem  bättre förutsättningar för ett gott liv.
 
 REGIONAL UTVECKLINGSSTRATEGI 18
 VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 297 -->
 
-TILLSAMMANS KRAFTSAMLAR   VI
+TILLSAMMANS  KRAFTSAMLAR  VI
 
 KRAFTSAMLING
 
 Ökad     robusthet       genom       samverkan         i samhällsplanering
 
-VÄSTRA GÖTALAND  BEHÖVER  vara robust och förberett     DET KAN ÄVEN handla om  underlag som  stöttar klimat-
-för framtiden. Vi står inför utmaningar som geopoli-    anpassning, stärker den biologiska mångfalden och
+VÄSTRA GÖTALAND  BEHÖVER  vara robust och förberett
 
-tisk osäkerhet, demografiska förändringar, förlust av   resurseffektiv användning av jord, skog och vatten.
+för framtiden. Vi står inför utmaningar som geopoli-
 
-biologisk mångfald och de negativa effekterna av        Det förändrade klimatet medför risker och sårbarheter
+tisk osäkerhet, demografiska förändringar, förlust av
 
-klimatförändringar. Därför behövs en väl fungerande     som exempelvis värmeböljor, torka, höjd havsnivå,
+biologisk mångfald och de negativa effekterna av
+klimatförändringar. Därför behövs en väl fungerande
 
-gemensam  beredskap där samverkan  och planering är     översvämningar och  risk för skred. Samtidigt behöver
-centrala. Genom att kraftsamla för att ta fram gemen-   vi säkerställa att den biologiska mångfalden kan
+gemensam   beredskap där samverkan och planering är
 
-samma  analyser, scenarier och planeringsunderlag i     anpassa sig i ett föränderligt klimat genom att värna
+centrala. Genom  att kraftsamla för att ta fram gemen-
 
-form av kart- och framtidsbilder, kan vi stärka länets  sammanhängande    naturområden.
+samma  analyser, scenarier och planeringsunderlag i
+
+form av kart- och framtidsbilder, kan vi stärka länets
 
 utvecklingskraft, beredskap och underlätta för den
+samlade fysiska planeringen hos kommuner  och
 
-samlade fysiska planeringen hos kommuner  och           ATT KRAFTSAMLA  FÖR ökad samplanering ska leda till
+andra aktörer.
 
-andra aktörer.                                          att vi använder våra resurser mer effektivt, stärker
+DET HANDLAR  OM att utgå från Västra Götalands olika
 
-motståndskraften och anpassningsförmågan  även i
+geografiska förutsättningar och bygga robusta struktu-
 
-DET HANDLAR OM  att utgå från Västra Götalands olika    tider av kris och förändring. Samtidigt måste arbetet
-geografiska förutsättningar och bygga robusta struktu-  präglas av flexibilitet för att hantera både kända och
+rer och samverkansformer utifrån allas olika roller och
 
-rer och samverkansformer utifrån allas olika roller och oförutsedda utmaningar och  vända dessa till möjlig-
+ansvar i samhällsplaneringen, såväl kommuner, region,
+myndigheter  som näringsliv och civila samhället.
 
-ansvar i samhällsplaneringen, såväl kommuner, region,   heter. Tillsammans kan vi snabba på omställningen
+Tillsammans  kan vi bygga kunskap, identifiera risker,
 
-myndigheter som  näringsliv och civila samhället.       till ett framtidssäkrat, robust och konkurrenskraftigt
-
-Tillsammans kan  vi bygga kunskap, identifiera risker,  Västra Götaland.
 lyfta möjligheter och tydliggöra övergripande utveck-
 
 lingsbehov på både kort och lång sikt för invånare och
 
 näringsliv. Det kan vara underlag som visar på syner-
 
-gier och gemensamma  nyttor för den samlade energi-
-
+gier och gemensamma   nyttor för den samlade energi-
 och livsmedelsförsörjningen, lokalisering av strategiska
 
 etableringar, fysisk och digital infrastruktur samt
 
 tillgänglighet till studier, arbete och samhällsservice.
+
+DET KAN ÄVEN handla om  underlag som  stöttar klimat-
+
+anpassning, stärker den biologiska mångfalden och
+
+resurseffektiv användning av jord, skog och vatten.
+
+Det förändrade klimatet medför risker och sårbarheter
+som  exempelvis värmeböljor, torka, höjd havsnivå,
+
+översvämningar  och risk för skred. Samtidigt behöver
+
+vi säkerställa att den biologiska mångfalden kan
+
+anpassa sig i ett föränderligt klimat genom att värna
+
+sammanhängande    naturområden.
+
+ATT KRAFTSAMLA  FÖR ökad samplanering  ska leda till
+att vi använder våra resurser mer effektivt, stärker
+
+motståndskraften och anpassningsförmågan  även i
+
+tider av kris och förändring. Samtidigt måste arbetet
+
+präglas av flexibilitet för att hantera både kända och
+
+oförutsedda utmaningar  och vända dessa till möjlig-
+
+heter. Tillsammans kan vi snabba på omställningen
+till ett framtidssäkrat, robust och konkurrenskraftigt
+
+Västra Götaland.
 
 REGIONAL UTVECKLINGSSTRATEGI 19
 VÄSTRA GÖTALAND 2021–2030
@@ -13423,51 +14456,76 @@ GENOMFÖRANDE
 
 Genomförande
 
-–   i  dialog             och        samverkan
+–    i  dialog            och         samverkan
 
-Den  regionala   utvecklingsstrategin    pekar  ut vår  gemensamma      riktning  för omställning    till ett
+Den  regionala   utvecklingsstrategin    pekar  ut  vår gemensamma       riktning  för omställning   till ett
 
-hållbart och  konkurrenskraftigt     samhälle.   För att få genomslag    behöver    vi vara många    som
+hållbart  och  konkurrenskraftigt    samhälle.   För att få genomslag     behöver   vi vara många    som
 
-driver på  utvecklingen   åt samma    håll. Vi har alla olika mandat    och resurser  till vårt förfogande
+driver på  utvecklingen   åt samma    håll. Vi har alla olika mandat    och  resurser till vårt förfogande
 
-men  ansvaret   är delat. Tillsammans    kan  vi öka  takten  i omställningen   genom    stärkt  dialog
+men   ansvaret  är delat.  Tillsammans   kan  vi öka  takten  i omställningen    genom    stärkt dialog
 
-och  samverkan,   uthålligt  engagemang      och  gemensamma       satsningar.  Vi behöver   utmana   oss
+och  samverkan,    uthålligt engagemang      och  gemensamma       satsningar.  Vi behöver   utmana    oss
 
-själva att arbeta  och  samarbeta    på nya  sätt, vidga  våra perspektiv,   vara modiga,    gå före  och
+själva att arbeta  och  samarbeta    på  nya sätt, vidga  våra  perspektiv,  vara  modiga,   gå före  och
 
 prova  det  outforskade.
 
-STRATEGIN ÄR ÖVERGRIPANDE och långsiktig. Vi driver ut- Götalandsregionen  samt länsstyrelsen och andra statliga
+STRATEGIN ÄR ÖVERGRIPANDE  och långsiktig. Vi driver ut-
 
-vecklingen framåt med utgångspunkt i de utmaningar      myndigheter.  Vi har olika ansvar, resurser och kunskaper
+vecklingen framåt med utgångspunkt  i de utmaningar
 
-vi står inför och konkretiserar och prioriterar strategins och strategin är plattformen för vår samverkan och för
-innehåll i delstrategier, handlingsplaner och överens-  ett kraftfullt genomförande.
+vi står inför och konkretiserar och prioriterar strategins
 
-kommelser. Det  möjliggör aktiv samverkan och part-
+innehåll i delstrategier, handlingsplaner och överens-
+kommelser.  Det möjliggör aktiv samverkan och part-
 
-nerskap mellan och över sektorer.                       MÖJLIGHETERNA  FÖR EN gemensam   rörelse framåt ökar
+nerskap mellan och över sektorer.
+
+VI BEHÖVER AVSÄTTA personella och ekonomiska resurser
+
+i våra budgetar och planer. Det krävs också samverkan
+
+som  kopplar ihop styrningen på lokal, regional, natio-
+nell och europeisk nivå.
+
+VI SOM BIDRAR till genomförandet av strategin är
+
+näringslivet och dess organisationer, länets 49
+
+kommuner   och fyra kommunalförbund,   akademi
+
+och forskningsinstitut, det civila samhället, Västra
+
+Götalandsregionen  samt länsstyrelsen och andra statliga
+
+myndigheter. Vi har olika ansvar, resurser och kunskaper
+
+och strategin är plattformen för vår samverkan och för
+
+ett kraftfullt genomförande.
+
+MÖJLIGHETERNA  FÖR EN gemensam  rörelse framåt ökar
 
 med  stöd av fyra vägledande principer och med ut-
 
-VI BEHÖVER AVSÄTTA personella och ekonomiska resurser   gångspunkt  i kunskap och lärande om  de utmaningar
+gångspunkt  i kunskap och lärande om de utmaningar
 
-i våra budgetar och planer. Det krävs också samverkan   vi står inför samt hur vi klarar av att möta dem tillsam-
+vi står inför samt hur vi klarar av att möta dem tillsam-
 
-som kopplar ihop styrningen på lokal, regional, natio-  mans.  Det är genom  dialog och samverkan som  vi kan
-nell och europeisk nivå.                                hantera de eventuella målkonflikter som uppstår längs
+mans. Det  är genom dialog och samverkan som  vi kan
+hantera de eventuella målkonflikter som uppstår längs
 
 vägen, till exempel när en positiv utveckling på ett
 
-VI SOM BIDRAR till genomförandet av strategin är        område  innebär en negativ utveckling på ett annat.
+område  innebär en negativ utveckling på ett annat.
 
-näringslivet och dess organisationer, länets 49         Den  digitala transformationen med ökad användning
+Den  digitala transformationen med ökad användning
 
-kommuner   och fyra kommunalförbund,   akademi          av data och AI öppnar för nya arbetssätt, snabbare
+av data och AI öppnar för nya arbetssätt, snabbare
 
-och forskningsinstitut, det civila samhället, Västra    analys och effektivare styrning och beslutsfattande.
+analys och effektivare styrning och beslutsfattande.
 
 REGIONAL UTVECKLINGSSTRATEGI 21
 VÄSTRA GÖTALAND 2021–2030
@@ -13505,47 +14563,136 @@ GENOMFÖRANDE
 Fyra         vägledande                        principer
 
 Strategin pekar ut fyra principer som ska vägleda oss i vår dialog och samverkan för att genomföra strategin.
-
 Principerna ska hjälpa oss att ta tillvara möjligheterna i hela Västra Götaland genom att de inspirerar och
 
 utmanar  oss att arbeta och samverka på nya sätt. De ska bidra till att vidga perspektiven, öka delaktig heten,
+
 uppmuntra   oss att gå före och våga prova det outforskade. De vägledande principerna är även ett sätt att
 
 integrera Agenda 2030 i genomförandet.
 
-Vi   tar  tillvara    olika                                                                                                 Vi  experimenterar                                             Vi  är  modiga       och
+Vi  tar  tillvara    olika
+
+platsers     förutsättningar
+
+och   möjligheter
+
+Västra Götaland är ett stort län med en variation
+
+av möjligheter och utmaningar kopplade till olika
+
+platsers förutsättningar. Denna variation ska tas
+
+tillvara, vilket förutsätter att vi synliggör olika
+behov av utveckling. Vi behöver en funktionell
+
+samverkan  över territoriella gränser och politik-
+
+områden  som utgår från de frågor vi tillsammans
+
+ska hantera. Det kan innebära att vi behöver
+
+utmana  invanda och administrativa gränser.
+Genom   samverkan mellan orter som har olika
+
+styrkor och funktioner kan utveckling ske både
+
+lokalt och i Västra Götaland som helhet.
+
+Kulturlivet som förenande kraft bidrar till att
+
+brygga över gränser.
+
 Vi  ökar    invånarnas
-platsers     förutsättningar                                                                                                  för  att  lära,   skala    upp                              förändringsorienterade
+
 delaktighet        och   inflytande
 
-och   möjligheter                                                                                                        och    implementera                                                    ledare
+För att förändringsarbetet ska bli långsiktigt
 
-Västra Götaland är ett stort län med en variation            För att förändringsarbetet ska bli långsiktigt                Genom   att experimentera och skapa fysiska och              Stora förändringar kräver mod. För att öka takten
+hållbart behöver invånarna ha möjlighet att vara
 
-av möjligheter och utmaningar kopplade till olika            hållbart behöver invånarna ha möjlighet att vara              digitala test- och demonstrationsplattformar                 i omställningen krävs gemensamt ledarskap, delat
+delaktiga, ha inflytande och kunna bidra till sam-
 
-platsers förutsättningar. Denna variation ska tas            delaktiga, ha inflytande och kunna bidra till sam-            möjliggör vi lärande och innovationskraft för                ansvar och strategisk samverkan. Vi behöver alla
+hällsutvecklingen. Rätten till delaktighet gäller
+även barn och unga, vilka ska få möjlighet att
 
-tillvara, vilket förutsätter att vi synliggör olika          hällsutvecklingen. Rätten till delaktighet gäller             hållbar utveckling. Genom nya arbetssätt, meto-              vara modiga, kreativa och förändringsorienterade
-behov av utveckling. Vi behöver en funktionell               även barn och unga, vilka ska få möjlighet att                der och samverkansformer  skyndar vi på utveck-              och utveckla arbetssätt som vägleder oss i svåra
+delta efter sina egna förutsättningar i frågor som
 
-samverkan över territoriella gränser och politik-            delta efter sina egna förutsättningar i frågor som            lingen inom områden  där förändringstakten                   prioriteringar. Vi behöver hjälpas åt att synliggöra,
+berör dem. Inkludering främjar människors hälsa
 
-områden  som utgår från de frågor vi tillsammans             berör dem. Inkludering främjar människors hälsa               behöver öka. Behovet att fatta goda och snabba               diskutera och hantera synergier och målkonflikter.
+och stärker demokratin. Vi verkar tillsammans
 
-ska hantera. Det kan innebära att vi behöver                 och stärker demokratin. Vi verkar tillsammans                 beslut under allt större osäkerhet ökar behovet              Vi behöver klara av att vara handlingskraftiga och
+för att så många som möjligt ska få möjlighet att
+delta i genomförandet av strategin och göra sina
 
-utmana invanda och administrativa gränser.                   för att så många som möjligt ska få möjlighet att             av olika sätt att hantera beslutsprocesser under             snabba  trots ökad komplexitet. Samsyn, fokus
-Genom  samverkan  mellan orter som har olika                 delta i genomförandet av strategin och göra sina              kontrollerade former. Att ta risken att misslyckas           och uthållighet är nycklar för långsiktiga resultat,
+röster hörda. Först då kan vårt arbete bidra till
 
-styrkor och funktioner kan utveckling ske både               röster hörda. Först då kan vårt arbete bidra till             är en del av lärandet. Samtidigt ska vi ta tillvara          men  vi behöver också ha tillit till andra och
+Agenda  2030:s övergripande mål att ingen ska
 
-lokalt och i Västra Götaland som helhet.                     Agenda  2030:s övergripande mål att ingen ska                 det som redan fungerar bra. Då mobiliserar vi                varandra, ha mod  att ifrågasätta det invanda
+lämnas utanför.
 
-Kulturlivet som förenande kraft bidrar till att              lämnas utanför.                                               för att förverkliga och sprida hållbara lösningar            och beredskap  att hantera det oväntade.
+Vi  experimenterar
 
-brygga över gränser.                                                                                                       och skala upp insatser som bidrar till att öka
+för  att  lära,   skala    upp
+
+och    implementera
+
+Genom   att experimentera och skapa fysiska och
+
+digitala test- och demonstrationsplattformar
+
+möjliggör vi lärande och innovationskraft för
+
+hållbar utveckling. Genom nya arbetssätt, meto-
+der och samverkansformer  skyndar vi på utveck-
+
+lingen inom områden  där förändringstakten
+
+behöver öka. Behovet att fatta goda och snabba
+
+beslut under allt större osäkerhet ökar behovet
+
+av olika sätt att hantera beslutsprocesser under
+kontrollerade former. Att ta risken att misslyckas
+
+är en del av lärandet. Samtidigt ska vi ta tillvara
+
+det som redan fungerar bra. Då mobiliserar vi
+
+för att förverkliga och sprida hållbara lösningar
+
+och skala upp insatser som bidrar till att öka
 omställningstakten.
+
+Vi  är   modiga      och
+
+förändringsorienterade
+
+ledare
+
+Stora förändringar kräver mod. För att öka takten
+
+i omställningen krävs gemensamt ledarskap, delat
+
+ansvar och strategisk samverkan. Vi behöver alla
+vara modiga, kreativa och förändringsorienterade
+
+och utveckla arbetssätt som vägleder oss i svåra
+
+prioriteringar. Vi behöver hjälpas åt att synliggöra,
+
+diskutera och hantera synergier och målkonflikter.
+
+Vi behöver klara av att vara handlingskraftiga och
+snabba trots ökad komplexitet. Samsyn, fokus
+
+och uthållighet är nycklar för långsiktiga resultat,
+
+men  vi behöver också ha tillit till andra och
+
+varandra, ha mod att ifrågasätta det invanda
+
+och beredskap att hantera det oväntade.
 
 REGIONAL UTVECKLINGSSTRATEGI 23
 VÄSTRA GÖTALAND 2021–2030
@@ -13555,71 +14702,127 @@ VÄSTRA GÖTALAND 2021–2030
 GENOMFÖRANDE
 Kunskap                  och        lärande
 
-STRATEGIN SKA GENOMFÖRAS  utifrån aktuell och uppda-    till strategins mål, de långsiktiga prioriteringarna och
+STRATEGIN SKA GENOMFÖRAS   utifrån aktuell och uppda-
 
-terad kunskap om och  analys av Västra Götalands ut-    inom  kraftsamlingarna. Det sker genom att följa och
+terad kunskap om  och analys av Västra Götalands ut-
 
-veckling samt länets utmaningar och styrkor i en förän- beskriva utvecklingen av ett antal övergripande indika-
+veckling samt länets utmaningar och styrkor i en förän-
 
-derlig omvärld. Kunskap, uppföljning och utvärdering    torer som relaterar till Västra Götalands utveckling i de
-skapar underlag för gemensamt lärande och behovs-       tre dimensionerna av ekonomisk,  social och miljömässig
+derlig omvärld. Kunskap, uppföljning och utvärdering
+skapar underlag för gemensamt lärande och behovs-
 
-motiverade prioriteringar i arbetet framåt. I en tid med hållbarhet. Huvuddelen av indikatorerna som används
+motiverade prioriteringar i arbetet framåt. I en tid med
 
-alltmer vilseledande och falsk information i omlopp     kommer   från de nyckeltal som Sveriges Kommuner  och
+alltmer vilseledande och falsk information i omlopp
 
-blir det särskilt viktigt att värna att utvecklingsarbetet Regioner (SKR) sammanställt som en del av uppfölj-
+blir det särskilt viktigt att värna att utvecklingsarbetet
 
-bygger på etablerad kunskap och forskning.              ningen  av Agenda 2030  på kommunal   och regional nivå.
+bygger på etablerad kunskap och forskning.
 
-ERFARENHETERNA  FRÅN TIDIGARE KRISER visar hur snabbt   STRATEGIN SKA SES ÖVER minst en gång varje mandat-
-förutsättningarna kan förändras. Därför måste det fin-  period. I översynen som genomförs  2024–2025   har
+till strategins mål, de långsiktiga prioriteringarna och
 
-nas en bred beredskap. Tillsammans är vi bättre rustade strategins tvärsektoriella kraftsamlingar för perioden
+inom  kraftsamlingarna. Det sker genom att följa och
 
-att hantera de regionala följderna av stora internationella 2021–2025 utvärderats. Utvärderingarna slår fast att
+beskriva utvecklingen av ett antal övergripande indika-
 
-kriser, exempelvis pandemier, geopolitiska konflikter,  strategins kraftsamlingar bidrar till att:
+torer som relaterar till Västra Götalands utveckling i de
+tre dimensionerna av ekonomisk, social och miljömässig
 
-klimatförändringar, förlust av biologisk mångfald och   •  bygga regional kapacitet och samordning genom  att
+hållbarhet. Huvuddelen av indikatorerna som används
 
-energi- och livsmedelsförsörjning. Genom att integrera     mobilisera aktörer och fungera agendasättande
+kommer   från de nyckeltal som Sveriges Kommuner  och
+
+Regioner (SKR)  sammanställt som  en del av uppfölj-
+
+ningen av Agenda  2030 på kommunal   och regional nivå.
+
+ERFARENHETERNA  FRÅN TIDIGARE KRISER visar hur snabbt
+
+förutsättningarna kan förändras. Därför måste det fin-
+
+nas en bred beredskap. Tillsammans är vi bättre rustade
+
+att hantera de regionala följderna av stora internationella
+kriser, exempelvis pandemier, geopolitiska konflikter,
+
+klimatförändringar, förlust av biologisk mångfald och
+
+energi- och livsmedelsförsörjning. Genom att integrera
+
 en kontinuerlig risk- och omvärldsanalys i genomföran-
-•  öka samordning  och samverkan
+
 det av strategin ökar vi den gemensamma beredskapen
-•  rikta resurser, öka kunskap och möjliggöra konkreta
+
 och handlingsförmågan  inför både kända och okända
-insatser.
 risker och möjligheter. Det hjälper oss att vara modiga
 
-och förändringsorienterade ledare.                      FÖR ATT FÅ ett gemensamt lärande behövs fortsatt dialog
+och förändringsorienterade ledare.
 
+FÖR ATT FÖLJA UTVECKLINGEN i länet presenterar Västra
+
+Götalandsregionen  kontinuerligt statistik och fa kta på
+
+både regional och kommunal   nivå i interaktiva publi-
+
+kationer med koppling  till strategins mål och priorite-
+rade områden. Västra Götalandsregionen  har även det
+
+övergripande ansvaret för uppföljning och utvärdering
+
+av regionala utvecklingsstrategin. Respektive aktör
+
+ansvarar för att följa upp sina insatser. Ett aktivt och
+
+systematiskt arbete krävs för att skapa ett strategiskt
+
+lärande av de uppföljningar och utvärderingar som görs.
+
+VÄSTRA GÖTALANDSREGIONEN   gör en årlig uppföljning av
+de gemensamma   insatser som genomförs för att bidra
+
+STRATEGIN SKA SES ÖVER minst en gång varje mandat-
+
+period. I översynen som genomförs 2024–2025   har
+
+strategins tvärsektoriella kraftsamlingar för perioden
+
+2021–2025   utvärderats. Utvärderingarna slår fast att
+strategins kraftsamlingar bidrar till att:
+
+• bygga  regional kapacitet och samordning genom att
+
+mobilisera aktörer och fungera agendasättande
+
+• öka  samordning  och samverkan
+
+• rikta resurser, öka kunskap och möjliggöra konkreta
+
+insatser.
+
+FÖR ATT FÅ ett gemensamt lärande behövs fortsatt dialog
 och att vi tillsammans diskuterar resultat och genomför-
 
-FÖR ATT FÖLJA UTVECKLINGEN i länet presenterar Västra   ande. Det bidrar i sin tur till att de samlade resurserna kan
-Götalandsregionen kontinuerligt statistik och fa kta på nyttjas på ett effektivt sätt i den riktning strategin pekar.
+ande. Det bidrar i sin tur till att de samlade resurserna kan
 
-både regional och kommunal  nivå i interaktiva publi-
+nyttjas på ett effektivt sätt i den riktning strategin pekar.
 
-kationer med koppling till strategins mål och priorite-
-Uppföljning  och kunskapsunderlag
-rade områden. Västra Götalandsregionen har även det
+Uppföljning  och  kunskapsunderlag
+
 Västra Götalandsregionen ansvarar för att
-övergripande ansvaret för uppföljning och utvärdering
+
 kontinuerligt utvärdera och följa upp arbetet med
-av regionala utvecklingsstrategin. Respektive aktör
 den regionala utvecklingsstrategin. Kunskap,
-ansvarar för att följa upp sina insatser. Ett aktivt och    uppföljning och utvärdering skapar underlag för ett
+
+uppföljning och utvärdering skapar underlag för ett
 gemensamt  lärande och behovsmotiverade
-systematiskt arbete krävs för att skapa ett strategiskt
+
 prioriteringar i arbetet framåt i det samlade regionala
-lärande av de uppföljningar och utvärderingar som görs.
+
 utvecklingsarbetet. Ta del av uppföljning, utvärdering
 och kunskapsunderlag på: www.vgregion.se/vg2030
-VÄSTRA GÖTALANDSREGIONEN   gör en årlig uppföljning av
 
-de gemensamma   insatser som genomförs för att bidra
 REGIONAL UTVECKLINGSSTRATEGI 24
+
 VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 303 -->
@@ -13628,57 +14831,104 @@ GENOMFÖRANDE
 
 Verktyg                och        resurser
 
-VI BEHÖVER ALLA känna ansvar och bistå med kompetens    och  sektorer och för samverkan mellan lokal, regional,
+VI BEHÖVER ALLA känna ansvar och bistå med kompetens
 
-och resurser för att driva på omställningen i strategins nationell, europeisk och internationell nivå. Västra
-riktning. Det är önskvärt att strategins genomförande   Götalandsregionen  ansvarar för att arrangera arenor där
+och resurser för att driva på omställningen i strategins
 
-integreras i våra respektive ordinarie mål och styrdok- vi kan mötas i samtal över aktörsgränserna, dela kunskap
+riktning. Det är önskvärt att strategins genomförande
 
-ument samt  att strategins prioriteringar avspeglas i   och  erfarenheter samt vidareutveckla och konkretisera
+integreras i våra respektive ordinarie mål och styrdok-
 
-fördelningen av personella och ekonomiska resurser.     de områden  där vi behöver arbeta närmare varandra.
+ument  samt att strategins prioriteringar avspeglas i
+fördelningen av personella och ekonomiska resurser.
 
-Tillsammans verkar vi för att växla upp regionala sats- Den  årliga konferensen Framtid Västra Götaland är ett
+Tillsammans  verkar vi för att växla upp regionala sats-
 
-ningar genom att attrahera finansiering från nationell  exempel  på en sådan arena.
+ningar genom  att attrahera finansiering från nationell
+
 och EU- nivå till Västra Götaland.
 
-VI BEHÖVER ÄVEN  skapa samsyn kring behov och önskad
-VI BEHÖVER KONKRETISERA strategins innehåll i exempel-  förflyttning inom de områden  för kraftsamling som
+VI BEHÖVER KONKRETISERA  strategins innehåll i exempel-
 
-vis understrategier, handlingsplaner och överenskom-    strategin adresserar och få på plats ett mer systematiskt
+vis understrategier, handlingsplaner och överenskom-
+melser som hjälper oss samlas kring prioriterade
 
-melser som hjälper oss samlas kring prioriterade        sätt att arbeta tillsammans. Nya digitala och fysiska
+insatser. En gemensam kommunikationsstrategi  stöttar
 
-insatser. En gemensam kommunikationsstrategi  stöttar   mötesplatser bör utvecklas och samverkan med  andra
+oss i genomförandet och underlättar dialog, samhand-
 
-oss i genomförandet och underlättar dialog, samhand-    svenska och europeiska regioner är viktigt inom flera
-ling och kunskapsspridning.                             områden.  Även  samverkan över administrativa gränser
+ling och kunskapsspridning.
 
-behöver  utvecklas i olika delar av länet, mellan
-
-EXEMPEL PÅ VERKTYG för att genomföra strategin är       exempelvis olika kommuner   som  delar utmaningar
-
-befintliga och nya samarbeten, olika överenskommel-     och  förutsättningar.
+EXEMPEL PÅ VERKTYG  för att genomföra strategin är
+befintliga och nya samarbeten, olika överenskommel-
 
 ser och ett gemensamt påverkansarbete på nationell
 
-och europeisk nivå. Genom  en innovations och håll-     EN UTVECKLAD  SAMVERKAN   mellan kommuner,  kommu-
-barhetsinriktad offentlig upphandling går det att rikta nalförbund  och region är avgörande. Det omfattar ett
+och europeisk nivå. Genom  en innovations och håll-
 
-betydande resurser som stödjer omställningen genom      gemensamt   årshjul för politiska samtal mellan regional
+barhetsinriktad offentlig upphandling går det att rikta
 
-nya innovationer, digitala verktyg, produkter och       och  kommunal   nivå, dialog om insatser, uppföljning
+betydande  resurser som stödjer omställningen genom
 
-tjänster.                                               och  lärande samt prioriteringar framåt i strategins rikt-
+nya innovationer, digitala verktyg, produkter och
+
+tjänster.
+
+Samverkansplattformar          för omställning
+
+Befintliga dialog- och samverkansplattformar är viktiga
+
+för att driva på utvecklingsarbetet mellan organisationer
+
+och sektorer och för samverkan mellan lokal, regional,
+
+nationell, europeisk och internationell nivå. Västra
+
+Götalandsregionen  ansvarar för att arrangera arenor där
+
+vi kan mötas i samtal över aktörsgränserna, dela kunskap
+och erfarenheter samt vidareutveckla och konkretisera
+
+de områden  där vi behöver arbeta närmare varandra.
+
+Den  årliga konferensen Framtid Västra Götaland är ett
+
+exempel på en sådan arena.
+
+VI BEHÖVER ÄVEN skapa samsyn  kring behov och önskad
+förflyttning inom de områden för kraftsamling som
+
+strategin adresserar och få på plats ett mer systematiskt
+
+sätt att arbeta tillsammans. Nya digitala och fysiska
+
+mötesplatser bör utvecklas och samverkan med andra
+
+svenska och europeiska regioner är viktigt inom flera
+
+områden.  Även samverkan  över administrativa gränser
+
+behöver utvecklas i olika delar av länet, mellan
+exempelvis olika kommuner   som delar utmaningar
+
+och förutsättningar.
+
+EN UTVECKLAD  SAMVERKAN  mellan kommuner,   kommu-
+
+nalförbund och region är avgörande. Det omfattar ett
+
+gemensamt  årshjul för politiska samtal mellan regional
+och kommunal   nivå, dialog om insatser, uppföljning
+
+och lärande samt prioriteringar framåt i strategins rikt-
 
 ning. Kommunala   och regionala medel ska avsättas till
-Samverkansplattformar          för omställning
+
 insatser i delregionerna genom överenskommelser mellan
 
-Befintliga dialog- och samverkansplattformar är viktiga Västra Götalandsregionen  och kommunalförbunden
-för att driva på utvecklingsarbetet mellan organisationer samt Business Region Göteborg.
+Västra Götalandsregionen och kommunalförbunden
+
+samt Business Region Göteborg.
 
 REGIONAL UTVECKLINGSSTRATEGI 25
 VÄSTRA GÖTALAND 2021–2030
@@ -13687,68 +14937,159 @@ VÄSTRA GÖTALAND 2021–2030
 
 GENOMFÖRANDE
 
-VÄSTRA GÖTALANDSREGIONENS   SAMRÅD  med  det civila sam-      handla om  att skapa förändringar i policyer, regeltolkning
-SÅ HÄNGER  DET IHOP
-hället och idéburna offentliga partnerskap bidrar till samlad och lagstiftning samt om att kanalisera finansiella resurser
+VÄSTRA GÖTALANDSREGIONENS   SAMRÅD  med  det civila sam-
 
-kunskap  från olika perspektiv. Genom kontinuerlig dialog     till Västra Götaland.
+hället och idéburna offentliga partnerskap bidrar till samlad
+kunskap  från olika perspektiv. Genom kontinuerlig dialog
 
-med  näringslivet och förmågan till gemensamma beslut                                                                                                              Samverkan      Västra  Götalandsregionen
-Finansiering    från  nationell   och  europeisk    nivå
+med  näringslivet och förmågan till gemensamma beslut
+
 kan satsningar och utvecklingsarbete riktas dit de gör mest
+
+nytta.
+
+DET ARBETE SOM pågår i den breda samverkansplattformen
+Klimat 2030  bidrar till den regionala utvecklingsstrategins
+
+prioriterade områden genom  av konkreta klimatåtgärder i
+
+samverkan  mellan länets aktörer. Det stärker genomförande-
+
+kraften i omställningen. VGR:s beslutade koldioxidbudget
+
+för Västra Götaland är ett annat verktyg som ska vägleda
+
+insatser. Koldioxidbudgeten visar länets utsläppsutrymme,
+
+det vill säga hur mycket utsläppen kan behöva minska varje
+år för att länet ska uppfylla sin del av Parisavtalet.
+
+Gemensamt       påverkansarbete       nationellt
+
+och  internationellt
+
+Västra Götaland är en del av ett större nationellt, europeiskt
+
+och globalt sammanhang   där vår utveckling är beroende av
+beslut och processer som vi själva inte äger och styr. Vi be-
+
+höver gå fram gemensamt  på nationell och europeisk nivå
+
+för att undanröja hinder för Västra Götalands utveckling
+
+och skapa förutsättningar för gemensamt prioriterade frågor
+
+inom  till exempel infrastrukturområdet och elförsörjning.
+
+När vi pekar på samma  behov och agerar tillsammans har
+vi störst chans att göra skillnad. Men det kräver dialog, tillit
+
+och förtroende och att vi skapar och medverkar i samver-
+
+kansstrukturer för att enkelt mobilisera och enas om ett ge-
+
+mensamt  västsvenskt budskap. Ett påverkansarbete syftar till
+
+att skapa en förflyttning i prioriterade frågor och kräver ett
+
+aktivt engagemang  på nationell och europeisk nivå. Det kan
+
+handla om  att skapa förändringar i policyer, regeltolkning
+
+och lagstiftning samt om att kanalisera finansiella resurser
+
+till Västra Götaland.
+
+Finansiering    från  nationell   och  europeisk    nivå
+
+Omfattningen  av åtgärder och insatser behöver matcha ut-
+
+maningarna.  Därför är det nödvändigt att tillsammans verka
+
+för ökade ekonomiska  resurser till Västra Götaland från
+
+nationell och internationell nivå.
+
+Bland EU:s  finansiella instrument finns viktiga verktyg för
+
+den regionala och lokala utvecklingen, till exempel är pro-
+
+grammen   inom  sammanhållningspolitiken  direktanpassade
+
+efter västsvenska behov och förutsättningar. Det finns även
+
+många  europeiska fonder och finansieringsinstrument som
+
+bidrar till att stärka västsvenska aktörer inom områden
+
+som  infrastruktur, forskning och innovation, hälsa, kultur,
+kompetensförsörjning,  miljö och digitalisering. Dessa
+
+resurser är viktiga för att öka genomförandekraften
+
+i strategins långsiktiga prioriteringar och kraftsamlingar.
+
+Strategi   för smart   specialisering
+
+Att identifiera och prioritera områden med potential för
+internationell konkurrenskraft och hållbar utveckling, så
+
+kallad smart specialisering, har en central roll i EU:s
+
+regionalpolitik och är en grund för satsningar inom EU:s
+
+regionalfondsprogram.  Smart specialisering har blivit ett
+
+allt viktigare verktyg för tillgången till europeiska
+
+partnerskap och konkurrensutsatt finansiering på nationell
+
+och europeisk nivå. Västra Götalands strategi för smart
+specialisering anger särskilt kunskapsintensiva områden i
+
+Västra Götaland med  omställningspotential, där akademin
+
+och näringslivet har hög internationell konkurrenskraft och
+
+tillväxtpotential.
+
+SÅ HÄNGER   DET IHOP
+
+Samverkan      Västra   Götalandsregionen
+
 och  kommunalförbunden
-nytta.                                                        Omfattningen  av åtgärder och insatser behöver matcha ut-
-maningarna. Därför  är det nödvändigt att tillsammans verka
 
 Strategin styr, tillsammans med regionfullmäktiges budget, Västra
-DET ARBETE SOM  pågår i den breda samverkansplattformen       för ökade ekonomiska resurser till Västra Götaland från
 Götalandsregionens satsningar på regional utveckling. Västra Götalandsregionen
-Klimat 2030  bidrar till den regionala utvecklingsstrategins  nationell och internationell nivå.
+
 är ansvarig för att i samverkan utarbeta och besluta om strategin. Västra
-prioriterade områden genom  av konkreta klimatåtgärder i
 Götalandsregionens roll är att leda genomförandet genom att samordna insatser
-samverkan  mellan länets aktörer. Det stärker genomförande-   Bland EU:s  finansiella instrument finns viktiga verktyg för
+
 och skapa förutsättningar för samverkan. Västra Götalandsregionen ansvarar
-kraften i omställningen. VGR:s beslutade koldioxidbudget      den regionala och lokala utvecklingen, till exempel är pro-                             också för att kontinuerligt utvärdera och följa upp arbetet med strategin och
+också för att kontinuerligt utvärdera och följa upp arbetet med strategin och
+
 möjliggöra ett gemensamt lärande. Utöver det bidrar Västra Götalandsregionen
-för Västra Götaland är ett annat verktyg som ska vägleda      grammen   inom sammanhållningspolitiken   direktanpassade
-med  egna verktyg och resurser till insatser inom strategins långsiktiga
-insatser. Koldioxidbudgeten visar länets utsläppsutrymme,     efter västsvenska behov och förutsättningar. Det finns även
+med egna verktyg och resurser till insatser inom strategins långsiktiga
+
 prioriteringar och kraftsamlingar, till exempel genom projektfinansiering.
-det vill säga hur mycket utsläppen kan behöva minska varje    många  europeiska fonder och finansieringsinstrument som
+
 Analyser och sammanställningar av utvecklingen i Västra Götaland uppdateras
-år för att länet ska uppfylla sin del av Parisavtalet.        bidrar till att stärka västsvenska aktörer inom områden
 kontinuerligt av VGR.
-som infrastruktur, forskning och innovation, hälsa, kultur,
-Gemensamt       påverkansarbete       nationellt                                                                                                      Beredningen för hållbar utveckling (BHU) är ett politiskt samverkansorgan
-kompetensförsörjning,  miljö och digitalisering. Dessa
+
+Beredningen för hållbar utveckling (BHU) är ett politiskt samverkansorgan
+
 mellan Västra Götalandsregionen och kommunalförbunden i frågor om hållbar
-och  internationellt
-resurser är viktiga för att öka genomförandekraften
 utveckling. Styrning och prioriteringar inom den regionala utvecklingsstrategin
-Västra Götaland är en del av ett större nationellt, europeiskt i strategins långsiktiga prioriteringar och kraftsamlingar.
-bereds genom  samrådsdiskussioner i BHU, inför beslut i regionfullmäktige.
-och globalt sammanhang   där vår utveckling är beroende av
-Strategi   för smart   specialisering
-beslut och processer som vi själva inte äger och styr. Vi be-                                                                                         Boråsregionen Sjuhärads kommunalförbund, Fyrbodals kommunalförbund,
+
+bereds genom samrådsdiskussioner i BHU, inför beslut i regionfullmäktige.
+
+Boråsregionen Sjuhärads kommunalförbund, Fyrbodals kommunalförbund,
 Göteborgsregionen samt Skaraborgs kommunalförbund ansvarar för samverkan
-höver gå fram gemensamt  på nationell och europeisk nivå      Att identifiera och prioritera områden med potential för
+
 och gemensamt  utvecklingsarbete mellan kommunerna på delregional nivå. De
-för att undanröja hinder för Västra Götalands utveckling      internationell konkurrenskraft och hållbar utveckling, så
-fyra kommunalförbunden  arbetar med strategin i samverkan med kommunerna
-och skapa förutsättningar för gemensamt prioriterade frågor   kallad smart specialisering, har en central roll i EU:s
+fyra kommunalförbunden arbetar med strategin i samverkan med kommunerna
+
 och integrerar den i ordinarie styrning och uppföljning.
-inom  till exempel infrastrukturområdet och elförsörjning.    regionalpolitik och är en grund för satsningar inom EU:s
-regionalfondsprogram. Smart  specialisering har blivit ett
-När vi pekar på samma  behov och agerar tillsammans har       allt viktigare verktyg för tillgången till europeiska
-vi störst chans att göra skillnad. Men det kräver dialog, tillit partnerskap och konkurrensutsatt finansiering på nationell
-och förtroende och att vi skapar och medverkar i samver-      och europeisk nivå. Västra Götalands strategi för smart
-kansstrukturer för att enkelt mobilisera och enas om ett ge-  specialisering anger särskilt kunskapsintensiva områden i
-mensamt  västsvenskt budskap. Ett påverkansarbete syftar till Västra Götaland med  omställningspotential, där akademin
-
-att skapa en förflyttning i prioriterade frågor och kräver ett och näringslivet har hög internationell konkurrenskraft och
-
-aktivt engagemang  på nationell och europeisk nivå. Det kan   tillväxtpotential.
 
 REGIONAL UTVECKLINGSSTRATEGI 26
 VÄSTRA GÖTALAND 2021–2030
@@ -13767,92 +15108,213 @@ det   gäller   att möta     Agenda      2030   och   FN:s   17  globala    hå
 
 och   regional     nivå.
 
-STRATEGIN BYGGER PÅ anpassad integrering av Agenda 2030.      och förbättrade förutsättningar för företagande och entre-   2030. Indikatorer ska användas som relaterar till såväl   VI BEHÖVER UTVECKLA former  som synliggör eventuella målkon-
-Det innebär att de regionala utmaningarna och förutsätt-      prenörskap. Strategin ska samtidigt stärka allas lika rättig- ekonomiskt, socialt som miljömässigt hållbar utveckling. flikter. Då minskar risken att ett mål nås på bekostnad av andra
+STRATEGIN BYGGER PÅ anpassad integrering av Agenda 2030.
 
-ningarna har avgjort strategins inriktning och prioriteringar, heter och öka inkluderingen samt bidra till en hållbar      På så sätt kan vi få en effektiv styrning och uppföljning. mål. De vägledande principerna fungerar som verktyg för att
+Det innebär att de regionala utmaningarna och förutsätt-
 
-vilket i sin tur avgör vilka av Agenda 2030:s mål och del-    samhällsplanering med bland annat utveckling av fysisk och   Agenda  2030 betonar samverkan,  delaktighet och trans-   integrera Agenda 2030  i genomförandet av strategin. Det sker
+ningarna har avgjort strategins inriktning och prioriteringar,
 
-mål som  strategin direkt och indirekt bidrar till på olika   digital infrastruktur. Den bidrar också till minskad klimat- parens som förutsättningar för ett framgångsrikt genom-   bland annat utifrån principerna att vi ska öka invånarnas delak-
+vilket i sin tur avgör vilka av Agenda 2030:s mål och del-
+mål som  strategin direkt och indirekt bidrar till på olika
 
-lång sikt.                                                    påverkan och omställning till en hållbar konsumtion och      förande och för det övergripande målet att ingen ska      tighet och inflytande över samhällsutvecklingen samt ta tillvara
-produktion med  satsningar på hållbar industri, forskning,   lämnas utanför. På samma  sätt kräver den regionala       olika platsers förutsättningar och möjligheter att klara omställ-
+lång sikt.
 
-GENOM  SATSNINGAR  PÅ de långsiktiga prioriteringarna och     innovation och tillförlitlig och förnybar energi.            utvecklingsstrategin kontinuerlig dialog, delaktighet och ningen till ett hållbart samhälle.
-kraftsamlingarna bidrar den regionala utvecklingsstrategin                                                                 ett gemensamt  ansvar, där samverkan och partnerskap
+GENOM  SATSNINGAR  PÅ de långsiktiga prioriteringarna och
 
-till bättre hälsa och välbefinnande, möjligheter till utbild- NÄR STRATEGIN GENOMFÖRS  är det viktigt att vi fortsätter    över sektorer och mellan aktörer är en förutsättning.
+kraftsamlingarna bidrar den regionala utvecklingsstrategin
 
-ning och kompetensutveckling  samt ökad  sysselsättning       dialogen om och bedömningen   av dess bidrag till Agenda
+till bättre hälsa och välbefinnande, möjligheter till utbild-
+ning och kompetensutveckling  samt ökad  sysselsättning
+
+och förbättrade förutsättningar för företagande och entre-
+
+prenörskap. Strategin ska samtidigt stärka allas lika rättig-
+
+heter och öka inkluderingen samt bidra till en hållbar
+
+samhällsplanering med  bland annat utveckling av fysisk och
+digital infrastruktur. Den bidrar också till minskad klimat-
+
+påverkan och omställning till en hållbar konsumtion och
+
+produktion  med satsningar på hållbar industri, forskning,
+
+innovation och tillförlitlig och förnybar energi.
+
+NÄR STRATEGIN GENOMFÖRS   är det viktigt att vi fortsätter
+dialogen om  och bedömningen   av dess bidrag till Agenda
+
+2030\. Indikatorer ska användas som relaterar till såväl
+
+ekonomiskt, socialt som miljömässigt hållbar utveckling.
+
+På så sätt kan vi få en effektiv styrning och uppföljning.
+
+Agenda  2030 betonar samverkan,  delaktighet och trans-
+parens som förutsättningar för ett framgångsrikt genom-
+
+förande och för det övergripande målet att ingen ska
+
+lämnas utanför. På samma  sätt kräver den regionala
+
+utvecklingsstrategin kontinuerlig dialog, delaktighet och
+
+ett gemensamt  ansvar, där samverkan och partnerskap
+
+över sektorer och mellan aktörer är en förutsättning.
+
+VI BEHÖVER UTVECKLA former som  synliggör eventuella målkon-
+
+flikter. Då minskar risken att ett mål nås på bekostnad av andra
+
+mål. De vägledande  principerna fungerar som verktyg för att
+
+integrera Agenda 2030 i genomförandet  av strategin. Det sker
+bland annat utifrån principerna att vi ska öka invånarnas delak-
+
+tighet och inflytande över samhällsutvecklingen samt ta tillvara
+
+olika platsers förutsättningar och möjligheter att klara omställ-
+
+ningen till ett hållbart samhälle.
 
 REGIONAL UTVECKLINGSSTRATEGI 27
 VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 306 -->
 
-REGIONALA  MÅLDOKUMENT
-
-Den  regionala   utvecklingsstrategin   samspelar   med   tre andra  regionala
 Så           hänger                             det              ihop
-måldokument     som   är antagna   av regionfullmäktige.    De  ska  tillsammans
 
-bidra till att uppfylla den  gemensamma       Vision Västra  Götaland    – Det
-
-goda  livet. För att öka  takten  i genomförandet     behöver   ett mer  aktivt
-
-samarbete   utvecklas  inom   område    där måldokumenten       överlappar   och
-
-förstärker  varandra.  Dessa  måldokument      är:
 Den    regionala     utvecklingsstrategin         är  vår  gemensamma           strategi   för  den    regionala
-utvecklingen       i Västra   Götalands       län.  Strategin     har  sin  grund    i det   uppdrag      som
 
-KULTURSTRATEGI  VÄSTRA GÖTALAND  OCH KULTURPLAN  är det övergripande
-Västra    Götalandsregionen           har  från   regeringen       att dels   utarbeta     och   fastställa   en                                            måldokumentet  för kultur, demokratiutveckling och civilsamhällesfrågor.
+utvecklingen       i Västra   Götalands       län.  Strategin     har  sin  grund    i det   uppdrag     som
 
-Kulturstrategins mål är ”Ett fritt, rikt och starkt kulturliv i hela Västra
+Västra    Götalandsregionen           har  från   regeringen       att dels   utarbeta     och   fastställa   en
+
 regional     utvecklingsstrategi        för  länet,   dels   samordna      genomförandet           och
-Götaland” och innehåller ett antal områden där kulturområdet interagerar
-uppföljningen        av  strategin.    Uppdraget        finns  i lagen    om   regionalt     utvecklingsansvar                                              med  övrigt regionalt utvecklingsarbete. Dessa områden är gestaltad livsmiljö,
-medie- och informationskunnighet (MIK), folkbildning, kultur och hälsa,
+
+uppföljningen        av  strategin.    Uppdraget        finns  i lagen    om   regionalt     utvecklingsansvar
+
 (2010:630)      och  förordningen        om    regionalt     utvecklingsarbete         (2017:583).
+
+DEN REGIONALA  UTVECKLINGSSTRATEGIN vägleder kommuner,
+
+kommunalförbund,    näringsliv, akademi och forskningsinsti-
+
+tut, det civila samhället samt länsstyrelsen och andra statliga
+
+myndigheter  i det gemensamma  arbetet med regional ut-
+veckling. Strategin styr, tillsammans med regionfullmäktiges
+
+budget, Västra Götalandsregionens satsningar på regional
+
+utveckling.
+
+STRATEGIN TAR SIN utgångspunkt i Vision Västra Götaland
+
+– Det goda livet, där det goda livet står för god hälsa, arbete
+och utbildning, trygghet, gemenskap och delaktighet i
+
+samhällslivet, en god miljö där vi värnar de förnybara sys-
+
+temen, möta  behoven hos barn och ungdomar,  en uthållig
+
+tillväxt och ett rikt kulturliv. Det goda livet förutsätter en
+
+hållbar utveckling, där den ekonomiska, sociala och miljö-
+
+mässiga hållbarheten är sinsemellan beroende och förstärker
+
+varandra.
+
+DEN REGIONALA  UTVECKLINGSSTRATEGIN bidrar till det regionala
+
+genomförandet  av internationella, europeiska och nationella
+
+utvecklingsstrategier. På global nivå finns Agenda 2030 med
+
+17 globala hållbarhetsmål. FN:s barnkonvention ska om-
+sättas från teori till praktik där barn och unga är delaktiga
+
+i frågor som berör och engagerar dem och där de utvecklas
+
+utifrån sina unika förutsättningar och förmågor. På europe-
+
+isk nivå finns sammanhållningspolitiken och EU:s tillväxt-
+
+strategier som anger riktningen för en rättvis omställning
+
+till en hållbar och konkurrenskraftig ekonomi samt mål
+och åtgärder för klimatneutralitet fram till 2050. Ett annat
+
+ramverk i genomförandet  utgörs av den europeiska dekla-
+
+rationen om jämställdhet mellan kvinnor och män  på lokal
+
+och regional nivå (CEMR-  deklarationen) liksom strategin
+
+Jämställt Västra Götaland 2024–2027  som pekar ut en rikt-
+
+ning för jämställdhetsarbetet i länet. På nationell nivå bidrar
+
+regionala utvecklingsstrategin till Nationell strategi för
+hållbar regional utveckling i hela landet 2021–2030.
+
+REGIONALA MÅLDOKUMENT
+
+Den  regionala   utvecklingsstrategin    samspelar   med  tre andra   regionala
+
+måldokument      som  är antagna   av  regionfullmäktige.    De  ska tillsammans
+
+bidra  till att uppfylla den gemensamma       Vision  Västra  Götaland   – Det
+
+goda   livet. För att öka takten  i genomförandet     behöver    ett mer  aktivt
+
+samarbete    utvecklas  inom  område    där  måldokumenten      överlappar   och
+
+förstärker  varandra.   Dessa  måldokument      är:
+
+KULTURSTRATEGI VÄSTRA GÖTALAND  OCH  KULTURPLAN är det övergripande
+
+måldokumentet  för kultur, demokratiutveckling och civilsamhällesfrågor.
+Kulturstrategins mål är ”Ett fritt, rikt och starkt kulturliv i hela Västra
+
+Götaland” och innehåller ett antal områden där kulturområdet interagerar
+med övrigt regionalt utvecklingsarbete. Dessa områden är gestaltad livsmiljö,
+
+medie- och informationskunnighet (MIK), folkbildning, kultur och hälsa,
 idrott, kulturella och kreativa näringar och platsutveckling samt bibliotek
+
 och läsfrämjande. Kulturstrategin har en särskild del där kulturens bidrag
 
 till regional utveckling beskrivs.
 
-DEN REGIONALA  UTVECKLINGSSTRATEGIN vägleder kommuner,        DEN REGIONALA UTVECKLINGSSTRATEGIN  bidrar till det regionala
-kommunalförbund,    näringsliv, akademi och forskningsinsti-  genomförandet  av internationella, europeiska och nationella                                  REGIONALT TRAFIKFÖRSÖRJNINGSPROGRAM   är det övergripande måldokumentet
-
+REGIONALT TRAFIKFÖRSÖRJNINGSPROGRAM  är det övergripande måldokumentet
 för kollektivtrafikens utveckling. En övergripande helhetssyn mellan kollektiv-
-tut, det civila samhället samt länsstyrelsen och andra statliga utvecklingsstrategier. På global nivå finns Agenda 2030 med
+
 trafik och bostadsbyggande, infrastrukturutveckling samt lokalisering av verk-
-myndigheter  i det gemensamma  arbetet med regional ut-       17 globala hållbarhetsmål. FN:s barnkonvention ska om-
+
 samheter och service skapar en grund för en hållbar region där människor ges
-veckling. Strategin styr, tillsammans med regionfullmäktiges  sättas från teori till praktik där barn och unga är delaktiga
-goda  förutsättningar att leva och utvecklas. Kollektivtrafiken ska planeras
-budget, Västra Götalandsregionens satsningar på regional      i frågor som berör och engagerar dem och där de utvecklas                                     både utifrån att minska transporternas påverkan på miljön och med hänsyn till
-dem  som är beroende av en fungerande kollektivtrafik. Trafikförsörjningspro-
-utveckling.                                                   utifrån sina unika förutsättningar och förmågor. På europe-
-grammet  revideras och är ute på remiss våren 2025.
-isk nivå finns sammanhållningspolitiken och EU:s tillväxt-
-STRATEGIN TAR SIN utgångspunkt i Vision Västra Götaland       strategier som anger riktningen för en rättvis omställning
-STRATEGI FÖR HÄLSO- OCH SJUKVÅRDENS  OMSTÄLLNING  I VÄSTRA GÖTALANDS-
-– Det goda livet, där det goda livet står för god hälsa, arbete till en hållbar och konkurrenskraftig ekonomi samt mål
-REGIONEN  är det övergripande måldokumentet för utvecklingen av hälso-
-och utbildning, trygghet, gemenskap och delaktighet i         och åtgärder för klimatneutralitet fram till 2050. Ett annat                                  och sjukvården mot en god och nära vård och beskriver arbetet för att möta
+goda förutsättningar att leva och utvecklas. Kollektivtrafiken ska planeras
+
+både utifrån att minska transporternas påverkan på miljön och med hänsyn till
+dem som är beroende av en fungerande kollektivtrafik. Trafikförsörjningspro-
+
+grammet revideras och är ute på remiss våren 2025.
+
+STRATEGI FÖR HÄLSO- OCH SJUKVÅRDENS OMSTÄLLNING  I VÄSTRA GÖTALANDS-
+REGIONEN är det övergripande måldokumentet för utvecklingen av hälso-
+
+och sjukvården mot en god och nära vård och beskriver arbetet för att möta
 samhällets ökade behov av hälso- och sjukvård utifrån begränsade resurser.
-samhällslivet, en god miljö där vi värnar de förnybara sys-   ramverk i genomförandet  utgörs av den europeiska dekla-
-Arbetet med genomförandet  bygger bland annat på tvärsektoriell samverkan.
-temen, möta  behoven hos barn och ungdomar,  en uthållig      rationen om jämställdhet mellan kvinnor och män  på lokal
+
+Arbetet med genomförandet bygger bland annat på tvärsektoriell samverkan.
 Områden  där ett nära samarbete mellan regional utveckling och hälso- och
-tillväxt och ett rikt kulturliv. Det goda livet förutsätter en och regional nivå (CEMR- deklarationen) liksom strategin
+
 sjukvård behövs är bland annat digitalisering, innovation, hälsa och life
-hållbar utveckling, där den ekonomiska, sociala och miljö-    Jämställt Västra Götaland 2024–2027 som  pekar ut en rikt-
+
 science, kompetensförsörjning, förebyggande folkhälsoarbete och tidiga
-mässiga hållbarheten är sinsemellan beroende och förstärker   ning för jämställdhetsarbetet i länet. På nationell nivå bidrar                               insatser för barn och unga.
-varandra.                                                     regionala utvecklingsstrategin till Nationell strategi för
-hållbar regional utveckling i hela landet 2021–2030.
+insatser för barn och unga.
 
 REGIONAL UTVECKLINGSSTRATEGI 28
 VÄSTRA GÖTALAND 2021–2030
@@ -13870,66 +15332,162 @@ VÄSTRA GÖTALAND 2021–2030
 
 BILAGA: SAMMANFATTNING  AV ÄNDRINGAR
 
-BILAGA:                 Sammanfattning                                 av      ändringar                   och         förtydliganden                            i  den         aktualiserade
+BILAGA:                 Sammanfattning                                 av      ändringar                    och        förtydliganden                            i  den         aktualiserade
 
 regionala                  utvecklingsstrategin
 
-I denna bilaga sammanfattas de ändringar som gjorts i strategin inför           •  Effekterna i samhället av klimatförändringar och förlust av biologisk         bidra i genomförandet, exempelvis har det civila samhällets roll synliggjorts
+I denna bilaga sammanfattas de ändringar som gjorts i strategin inför
 
-remiss. Längre ner beskrivs även syfte och avgränsning för översynen               mångfald blir alltmer kännbara och allvarliga.                                mer. Översynen  har resulterat i några förtydliganden i beskrivningen av de
+remiss. Längre ner beskrivs även syfte och avgränsning för översynen
 
-samt hur den genomförs  i en dialogprocess.                                                                                                                      långsiktiga prioriteringarna för att i högre grad spegla omvärldsförändringar
-•  Den  digitala transformationen, utvecklingen inom AI och andra ban-
-och dagens förutsättningar samt stärka genomförandekraften. Exempel:
-brytande teknologier går snabbt och påverkar alla delar i samhället. Det
-Ändringar     och  förtydliganden      i strategin                                 öppnar nya möjligheter men  innebär också etiska dilemman och risker
-• Stärka innovationskraften;  Inom  denna långsiktiga prioritering tydlig-
-inom  exempelvis cybersäkerhet.
-I de aktörsdialoger som genomförts i översynen framgår att den regionala                                                                                           görs vikten av att satsa både på bredden för ett diversifierat näringsliv,
-•  Ungas välbefinnande utvecklas åt fel håll, många känner oro för framtiden
-utvecklingsstrategin (RUS) till stor del fortsatt upplevs relevant och angelä-                                                                                     inklusive entreprenörskap och små- och medelstora företag, och på
-och det är fortsatt många som inte klarar skolan. Allt yngre personer
-gen. Det finns därmed ett stöd för att behålla strategins mål och fyra lång-                                                                                       ökad  spets inom områden  av särskild vikt för länets sysselsättning och
-rekryteras till kriminella gäng.
-siktiga prioriteringar. För att få genomslag och lösa samhällsutmaningarna                                                                                         globala konkurrenskraft. Vikten av att tillsammans stärka den väst-
-behöver vi samverka utifrån våra olika roller och ansvar för att hitta vägar    •  Tilliten till samhället och demokratin riskerar att minska i takt med dels      svenska attrak tiviteten för internationell spetskompetens, strategiska
+samt hur den genomförs  i en dialogprocess.
 
-framåt, och vi behöver hela tiden utveckla samverkan, våra arbetssätt och          ökad spridning av falsk eller vilseledande information, dels utbredd orga-      etableringar och investeringar har förtydligats.
+Ändringar     och  förtydliganden      i strategin
 
-gemensamma    insatser.                                                            niserad brottslighet.
-• Bygga  kompetens;  Samverkan  och  gemensamma   insatser inom denna
-Samtidigt kvarstår de utmaningar som  tas upp i gällande strategi, exem-           långsiktiga prioritering är idag än mer avgörande för att möta de demo-
+I de aktörsdialoger som genomförts i översynen framgår att den regionala
+
+utvecklingsstrategin (RUS) till stor del fortsatt upplevs relevant och angelä-
+
+gen. Det finns därmed ett stöd för att behålla strategins mål och fyra lång-
+
+siktiga prioriteringar. För att få genomslag och lösa samhällsutmaningarna
+
+behöver vi samverka utifrån våra olika roller och ansvar för att hitta vägar
+framåt, och vi behöver hela tiden utveckla samverkan, våra arbetssätt och
+
+gemensamma    insatser.
 
 STRATEGINS MÅL LIGGER KVAR. Strategin gäller fortsatt fram till 2030, men
-pelvis att invånarnas tillgång till arbete och service skiljer sig åt i olika      grafiska utmaningarna och klara morgondagens  kompetensförsörjning
+
 eftersom det krävs långsiktighet när vi samverkar kring komplexa utma-
-delar av länet.                                                                    och livslånga lärande. Bygga kompetens har uppdaterats med ett ökat
+
 ningar och omställning, har en utblick mot 2045 lagts till.
-fokus på hur vi kan säkra och utveckla de kompetenser som krävs för
-Som  en följd av ovan har strategins avsnitt ”Samhällsutmaningar som driv-         den gröna och  digitala omställningen, men även ökat fokus på att
-DE SENASTE ÅRENS OMVÄRLDSHÄNDELSER   och förändrade  förutsättningar för
-kraft” skrivits om och strategin som helhet har genomarbetats med uppda-           tillvarata allas kompetens.
+
+DE SENASTE ÅRENS OMVÄRLDSHÄNDELSER    och förändrade förutsättningar för
 utveckling i Västra Götaland har påverkat aktualiseringen. Det handlar
-teringar utifrån aktuellt omvärldsläge. Strategins bidrag till klimatomställ-
-bland annat om:                                                                                                                                                  • Öka  inkluderingen;  Denna  långsiktiga prioritering har konkretiserats
-ningen  och till att stärka den biologiska mångfalden har förtydligats. De
-utifrån ett regionalt utvecklingsperspektiv. Det handlar bland annat om
+
+bland annat om:
+
 • Det  osäkra världsläget med fler allvarliga kriser och geopolitiska konflik-
-siffersatta – redan antagna – klimatmålen för Västra Götaland har skrivits
-vikten av invånarnas delaktighet och engagemang i samhällsutvecklingen,
+
 ter ställer nya krav på robusthet och beredskap i samhälle och näringsliv.
-in i strategin efter önskemål från kommuner och länsstyrelsen med flera.
-tillit till samhället och demokratin och om att bryta digitalt utanförskap,
-• Västsveriges ekonomi och näringsliv står inför hårdare global
-men  även om  att bättre synliggöra näringslivets engagemang och det
-konkurrens, snabb  förändring i värdekedjor och ökade krav på                 DE FYRA LÅNGSIKTIGA PRIORITERINGARNA; Stärka innovationskraften, Bygga
-civila samhällets och sociala ekonomins roll.
+
+• Västsveriges ekonomi  och näringsliv står inför hårdare global
+
+konkurrens,  snabb förändring i värdekedjor och ökade krav på
+
 nyckelkompetenser.
-kompetens,  Öka  inkluderingen och Knyta samman   Västra Götaland ligger
-• Den  demografiska utvecklingen med  minskande  födelsetal, ökad               kvar och fortsätter utgöra basen i det regionala utvecklingsarbetet. I aktörs-   • Knyta  samman   Västra Götaland;  Inom  denna långsiktiga prioritering
-medellivslängd och lägre andel befolkning i yrkesverksam ålder                dialogerna har många  lyft att det är viktigt att bättre synliggöra allt värde-    är det fortsatt viktigt med samverkan och påverkansarbete för att möta
-leder till utmaningar att klara välfärdens uppdrag och näringslivets          fullt utvecklingsarbete som sker inom dessa områden i genomförandet av             utvecklingsbehoven  för transporteffektiv infrastruktur och samhälle samt
-kompetensförsörjning.                                                         strategin. Inspel har också handlat om hur olika aktörsgrupper kan och vill        fortsatt bredbandsutbyggnad. Men  även att ta vara på synergier inom
+
+• Den  demografiska  utvecklingen med minskande  födelsetal, ökad
+
+medellivslängd och lägre andel befolkning i yrkesverksam ålder
+
+leder till utmaningar att klara välfärdens uppdrag och näringslivets
+
+kompetensförsörjning.
+
+• Effekterna i samhället av klimatförändringar och förlust av biologisk
+
+mångfald  blir alltmer kännbara och allvarliga.
+
+• Den  digitala transformationen, utvecklingen inom AI och andra ban-
+
+brytande  teknologier går snabbt och påverkar alla delar i samhället. Det
+
+öppnar  nya möjligheter men innebär också etiska dilemman  och risker
+inom  exempelvis cybersäkerhet.
+
+• Ungas  välbefinnande utvecklas åt fel håll, många känner oro för framtiden
+
+och  det är fortsatt många som inte klarar skolan. Allt yngre personer
+rekryteras till kriminella gäng.
+
+• Tilliten till samhället och demokratin riskerar att minska i takt med dels
+ökad  spridning av falsk eller vilseledande information, dels utbredd orga-
+
+niserad brottslighet.
+
+Samtidigt kvarstår de utmaningar som  tas upp i gällande strategi, exem-
+
+pelvis att invånarnas tillgång till arbete och service skiljer sig åt i olika
+
+delar av länet.
+
+Som  en följd av ovan har strategins avsnitt ”Samhällsutmaningar som driv-
+
+kraft” skrivits om och strategin som helhet har genomarbetats med uppda-
+
+teringar utifrån aktuellt omvärldsläge. Strategins bidrag till klimatomställ-
+
+ningen och till att stärka den biologiska mångfalden har förtydligats. De
+
+siffersatta – redan antagna – klimatmålen för Västra Götaland har skrivits
+
+in i strategin efter önskemål från kommuner och länsstyrelsen med flera.
+
+DE FYRA LÅNGSIKTIGA PRIORITERINGARNA; Stärka innovationskraften, Bygga
+kompetens,  Öka inkluderingen  och Knyta samman   Västra Götaland ligger
+
+kvar och fortsätter utgöra basen i det regionala utvecklingsarbetet. I aktörs-
+
+dialogerna har många lyft att det är viktigt att bättre synliggöra allt värde-
+
+fullt utvecklingsarbete som sker inom dessa områden i genomförandet av
+
+strategin. Inspel har också handlat om hur olika aktörsgrupper kan och vill
+
+bidra i genomförandet, exempelvis har det civila samhällets roll synliggjorts
+
+mer. Översynen  har resulterat i några förtydliganden i beskrivningen av de
+
+långsiktiga prioriteringarna för att i högre grad spegla omvärldsförändringar
+
+och dagens förutsättningar samt stärka genomförandekraften. Exempel:
+
+• Stärka  innovationskraften; Inom  denna långsiktiga prioritering tydlig-
+
+görs vikten av att satsa både på bredden för ett diversifierat näringsliv,
+
+inklusive entreprenörskap och små- och medelstora företag, och på
+
+ökad  spets inom områden  av särskild vikt för länets sysselsättning och
+
+globala konkurrenskraft. Vikten av att tillsammans stärka den väst-
+
+svenska attrak tiviteten för internationell spetskompetens, strategiska
+etableringar och investeringar har förtydligats.
+
+• Bygga  kompetens;   Samverkan  och gemensamma   insatser inom denna
+
+långsiktiga prioritering är idag än mer avgörande för att möta de demo-
+
+grafiska utmaningarna och  klara morgondagens kompetensförsörjning
+
+och  livslånga lärande. Bygga kompetens har uppdaterats med ett ökat
+
+fokus på hur vi kan säkra och utveckla de kompetenser som krävs för
+den  gröna och digitala omställningen, men även ökat fokus på att
+
+tillvarata allas kompetens.
+
+• Öka  inkluderingen;  Denna  långsiktiga prioritering har konkretiserats
+
+utifrån ett regionalt utvecklingsperspektiv. Det handlar bland annat om
+
+vikten av invånarnas delaktighet och engagemang i samhällsutvecklingen,
+
+tillit till samhället och demokratin och om att bryta digitalt utanförskap,
+men  även om  att bättre synliggöra näringslivets engagemang och det
+
+civila samhällets och sociala ekonomins roll.
+
+• Knyta  samman   Västra Götaland;  Inom  denna långsiktiga prioritering
+
+är det fortsatt viktigt med samverkan och påverkansarbete för att möta
+
+utvecklingsbehoven  för transporteffektiv infrastruktur och samhälle samt
+
+fortsatt bredbandsutbyggnad. Men  även att ta vara på synergier inom
 
 REGIONAL UTVECKLINGSSTRATEGI 30
 VÄSTRA GÖTALAND 2021–2030
@@ -13938,76 +15496,192 @@ VÄSTRA GÖTALAND 2021–2030
 
 BILAGA: SAMMANFATTNING  AV ÄNDRINGAR
 
+samhällsplanerings- och markanvändningsområdet,   som  en förut-
+
+sättning för stärkt utvecklingskraft och ökad närhet i olika delar av
+länet. Digitalisering och ny teknik lyfts som möjligheter för både
+
+hållbara resor och samhällsplanering.
+
+TRE NYA OMRÅDEN  ATT KRAFTSAMLA  KRING FÖRESLÅS. Dessa ersätter och
+
+bygger delvis vidare på dagens fyra kraftsamlingar (Fullföljda studier,
+
+Digitalisering, Elektrifiering och Cirkulära affärsmodeller).
+
+De  nya områdena  är:
+
+• Industrins gröna omställning
+
+• Framtidsrusta barn och unga
+
+• Ökad   robusthet genom samverkan  i samhällsplanering
+
+En viktig del i remissen är att fånga synpunkter från de olika remiss-
+
+instanserna om vad det är viktigast att tillsammans fokusera på inom
+respektive område de närmaste åren.
+
+INDUSTRINS GRÖNA  OMSTÄLLNING  motiveras av att Västra Götaland är
+
+en stark industriregion och att den gröna omställningen är avgörande
+
+för att säkra industrins långsiktiga konkurrenskraft, klara klimatom-
+
+ställningen och behålla jobben, vilket i sin tur finansierar vår välfärd.
+
+Mycket  av den samverkan som  sker idag kring elförsörjning, cirkulära
+värdekedjor och inte minst i kompetensförsörjningsarbetet kan förstär-
+
+kas genom  att vi kraftsamlar tillsammans.
+
+FRAMTIDSRUSTA  BARN OCH UNGA  föreslås mot bakgrund av att barn och
+
+ungas välmående  utvecklas åt fel håll och att det är en kritisk fråga
+
+både för individen och för samhällsutvecklingen i stort. I genomförda
+aktörsdialoger trycker i stort sett alla aktörer på vikten av att – utifrån
+
+sina olika roller och ansvar – fortsatt kraftsamla för att ge barn och
+
+unga i Västra Götaland en bra start i livet. Men för att tydligt signalera
+
+att det handlar om mycket mer än att klara sig igenom skolan, före-
+
+slås en ny inramning och ett omtag i samverkan inom vissa områden.
+
+Samtidigt är det viktigt att ta tillvara erfarenheterna från nuvarande
+
+arbete inom Fullföljda studier och vidareutveckla och sprida det som
+fungerar bra.
+
+ÖKAD  ROBUSTHET GENOM  SAMVERKAN   I SAMHÄLLSPLANERING  motive-
+
+ras utifrån att många aktörer uttrycker ett behov av ökad gemensam
+
+beredskap inom  exempelvis energi- och livsmedelsförsörjning och
+
+klimatanpassning. Fokus ligger på att med hjälp av gemensamma
+analyser, scenarier och framtidsbilder samt ökad samplanering bli
+
+mer resurseffektiva, motståndskraftiga och öka utvecklingskraften
+
+i Västra Götaland. Denna kraftsamling handlar inte om att Västra
+
+Götalandsregionen  avser göra anspråk på att bli regionplaneorgan
+
+enligt Plan- och bygglagen, utan om att utveckla samverkan i sam-
+
+hällsplaneringen utifrån våra olika roller och ansvarsområden.
+
+Viktiga satsningar och samarbeten inom strategins nuvarande fyra kraft-
+
+samlingar kommer  till viss del fortsätta inom ramen för de nya områdena
+
+för kraftsamling. Andra delar fortsätter i det gemensamma genomför-
+
+andet inom strategins långsiktiga prioriteringar. Exempelvis är den digi-
+
+tala transformationen och tillämpningen av AI avgörande för strategins
+
+genomförande  som  helhet och det är viktigt med fortsatt samverkan
+kring Digitalisering inom olika områden. Delar av det som sker idag
+
+inom  kraftsamlingarna Elektrifiering och Cirkulära affärsmodeller kan
+
+vidareutvecklas inom ”Industrins gröna omställning”, andra delar fort-
+
+sätter som en naturlig del av arbetet inom de långsiktiga prioriteringarna
+
+Stärka innovationskraften och Bygga kompetens. Arbetet inom cirku-
+
+lära livsmiljöer kan även drivas vidare som en del i utvecklingsarbetet i
+den långsiktiga prioriteringen Knyta samman Västra Götaland. Goda
+
+erfarenheter och fungerande samverkan inom Fullföljda studier kan
+
+vidareutvecklas inom ”Framtidsrusta barn och unga”.
+
+I AVSNITTEN OM STRATEGINS GENOMFÖRANDE   har mindre förtydliganden
+
+gjorts. De fyra vägledande principerna ligger kvar och ska fortsätta
+
+utmana  oss i genomförandet. I aktörsdialogerna har många lyft vikten
+av att fortsatt ta tillvara olika platsers förutsättningar möjligheter, sam-
+
+tidigt som vi behöver samordna oss på nationell och europeisk nivå
+
+för att undanröja hinder för Västsveriges utveckling och skapa förut-
+
+sättningar för gemensamt prioriterade frågor. Det gemensamma  ledar-
+
+skapet blir alltmer avgörande och vi behöver vara handlingskraftiga
+
+och snabba trots ökad komplexitet och osäkerhet.
+
 Utgångspunkter     för översynen
 
-samhällsplanerings- och markanvändningsområdet,  som  en förut-          ÖKAD  ROBUSTHET  GENOM  SAMVERKAN  I SAMHÄLLSPLANERING  motive-                       Översynen handlar om  att aktualisera delar av strategi utifrån omvärld och nuläge,
+Översynen  handlar om att aktualisera delar av strategi utifrån omvärld och nuläge,
 
-sättning för stärkt utvecklingskraft och ökad närhet i olika delar av    ras utifrån att många aktörer uttrycker ett behov av ökad gemensam                    inte om att ta fram en ny strategi. Syftet är också att förstärka genomförandet
+inte om att ta fram en ny strategi. Syftet är också att förstärka genomförandet
 
-länet. Digitalisering och ny teknik lyfts som möjligheter för både       beredskap inom  exempelvis energi- och livsmedelsförsörjning och                      med fokus på att se över strategins kraftsamlingar som beslutas för fyra år i taget.
+med  fokus på att se över strategins kraftsamlingar som beslutas för fyra år i taget.
 
-hållbara resor och samhällsplanering.                                    klimatanpassning. Fokus ligger på att med hjälp av gemensamma
-Enligt förordningen om regionalt utvecklingsarbete (2017:583) ska den regio-
-analyser, scenarier och framtidsbilder samt ökad samplanering bli
+Enligt förordningen om  regionalt utvecklingsarbete (2017:583) ska den regio-
+
 nala utvecklingsstrategin ses över minst en gång mellan varje val till region- och
-TRE NYA OMRÅDEN  ATT KRAFTSAMLA  KRING FÖRESLÅS. Dessa ersätter och         mer  resurseffektiva, motståndskraftiga och öka utvecklingskraften
+
 kommunfullmäktige.   Varje region avgör hur omfattande översynen ska vara.
-bygger delvis vidare på dagens fyra kraftsamlingar (Fullföljda studier,     i Västra Götaland. Denna kraftsamling handlar inte om att Västra
-I Västra Götaland pågår genomförandet av strategin med stort engagemang från
-Digitalisering, Elektrifiering och Cirkulära affärsmodeller).               Götalandsregionen  avser göra anspråk på att bli regionplaneorgan
-kommuner,  näringsliv, lärosäten, civila samhället, länsstyrelsen och andra berörda
-enligt Plan- och bygglagen, utan om att utveckla samverkan i sam-
-De  nya områdena  är:                                                                                                                                             myndigheter. Rådande  omvärldsläge och de senaste årens utveckling motiverar
-hällsplaneringen utifrån våra olika roller och ansvarsområden.
-•  Industrins gröna omställning                                                                                                                                   ändå att delar av strategin aktualiseras för att den fortsatt ska vara relevant och
-•  Framtidsrusta barn och unga                                                                                                                                    aktuell. Miljö- och regionutvecklingsnämnden, som leder översynen, har därför
-Viktiga satsningar och samarbeten inom strategins nuvarande fyra kraft-
-•  Ökad  robusthet genom samverkan  i samhällsplanering                                                                                                           beslutat att översynen ska:
-samlingar kommer  till viss del fortsätta inom ramen för de nya områdena
-•  Se över och aktualisera delar av strategin:
-En viktig del i remissen är att fånga synpunkter från de olika remiss-      för kraftsamling. Andra delar fortsätter i det gemensamma genomför-
+I Västra Götaland pågår genomförandet  av strategin med stort engagemang från
+
+kommuner,   näringsliv, lärosäten, civila samhället, länsstyrelsen och andra berörda
+
+myndigheter. Rådande  omvärldsläge  och de senaste årens utveckling motiverar
+
+ändå att delar av strategin aktualiseras för att den fortsatt ska vara relevant och
+
+aktuell. Miljö- och regionutvecklingsnämnden, som  leder översynen, har därför
+
+beslutat att översynen ska:
+
+• Se över och aktualisera delar av strategin:
+
 \- Behålla målet och långsiktiga prioriteringar, men ha dialog om hur
-instanserna om vad det är viktigast att tillsammans fokusera på inom        andet inom  strategins långsiktiga prioriteringar. Exempelvis är den digi-
-genomförandet   går och behöver förstärkas.
-respektive område de närmaste åren.                                         tala transformationen och tillämpningen av AI avgörande för strategins
+genomförandet  går och behöver förstärkas.
+
 \- Se över kraftsamlingarna med hjälp av utvärdering och dialog.
-genomförande  som  helhet och det är viktigt med fortsatt samverkan
-•  Förstärka genomförandet  av strategin.
-INDUSTRINS GRÖNA  OMSTÄLLNING  motiveras av att Västra Götaland är          kring Digitalisering inom olika områden. Delar av det som sker idag
-•  Höja kunskapen  om  värdet av det gemensamma   regionala utvecklingsarbetet.
-en stark industriregion och att den gröna omställningen är avgörande        inom  kraftsamlingarna Elektrifiering och Cirkulära affärsmodeller kan
-för att säkra industrins långsiktiga konkurrenskraft, klara klimatom-       vidareutvecklas inom ”Industrins gröna omställning”, andra delar fort-
-Så gör vi översynen    tillsammans
-ställningen och behålla jobben, vilket i sin tur finansierar vår välfärd.   sätter som en naturlig del av arbetet inom de långsiktiga prioriteringarna
-Översynen genomförs  som  en dialogprocess. När strategin togs fram skedde det
-Mycket  av den samverkan som  sker idag kring elförsörjning, cirkulära      Stärka innovationskraften och Bygga kompetens. Arbetet inom cirku-
+
+• Förstärka genomförandet  av strategin.
+
+• Höja  kunskapen  om  värdet av det gemensamma  regionala utvecklingsarbetet.
+
+Så gör  vi översynen   tillsammans
+
+Översynen  genomförs  som en dialogprocess. När strategin togs fram skedde det
+
 i bred dialog och delaktighet. På samma sätt är det viktigt att involvera kommu-
-värdekedjor och inte minst i kompetensförsörjningsarbetet kan förstär-      lära livsmiljöer kan även drivas vidare som en del i utvecklingsarbetet i
+
 nerna och andra nyckelaktörer i översynen. Att skicka förslaget på aktualiserad
-kas genom  att vi kraftsamlar tillsammans.                                  den långsiktiga prioriteringen Knyta samman Västra Götaland. Goda
+
 strategi på remiss är en viktig del i detta. En bred delaktighet och förankring är
-erfarenheter och fungerande samverkan inom  Fullföljda studier kan
+
 en förutsättning för ett fortsatt starkt gemensamt genomförande. Aktualiseringen
-FRAMTIDSRUSTA  BARN OCH UNGA  föreslås mot bakgrund av att barn och         vidareutvecklas inom ”Framtidsrusta barn och unga”.
 av strategin tar utgångspunkt i:
-ungas välmående  utvecklas åt fel håll och att det är en kritisk fråga
-•  Kunskapsunderlag  om  utvecklingen i Västra Götaland och omvärldsanalys
-både för individen och för samhällsutvecklingen i stort. I genomförda       I AVSNITTEN OM STRATEGINS GENOMFÖRANDE   har mindre förtydliganden
-•  Årliga uppföljningar av strategins genomförande
-aktörsdialoger trycker i stort sett alla aktörer på vikten av att – utifrån gjorts. De fyra vägledande principerna ligger kvar och ska fortsätta
-•  Utvärdering av strategins nuvarande kraftsamlingar
-sina olika roller och ansvar – fortsatt kraftsamla för att ge barn och      utmana  oss i genomförandet. I aktörsdialogerna har många lyft vikten
-•  Inspel från aktörsdialoger och politiska samtal under perioden
-unga i Västra Götaland en bra start i livet. Men för att tydligt signalera  av att fortsatt ta tillvara olika platsers förutsättningar möjligheter, sam-
-maj 2024–februari  2025.
-att det handlar om mycket mer än att klara sig igenom skolan, före-         tidigt som vi behöver samordna oss på nationell och europeisk nivå
-slås en ny inramning och ett omtag i samverkan inom vissa områden.          för att undanröja hinder för Västsveriges utveckling och skapa förut-                 Arbetet med översynen går att följa på www.vgregion.se/vg2030. Där listas alla
-Samtidigt är det viktigt att ta tillvara erfarenheterna från nuvarande      sättningar för gemensamt prioriterade frågor. Det gemensamma  ledar-                  aktörsdialoger och kunskapsunderlag, uppföljningar och utvärderingar.
-arbete inom Fullföljda studier och vidareutveckla och sprida det som        skapet blir alltmer avgörande och vi behöver vara handlingskraftiga
 
-fungerar bra.                                                               och snabba trots ökad komplexitet och osäkerhet.
+• Kunskapsunderlag   om utvecklingen i Västra Götaland och omvärldsanalys
+• Årliga uppföljningar av strategins genomförande
 
-REGIONAL UTVECKLINGSSTRATEGI 31
+• Utvärdering  av strategins nuvarande kraftsamlingar
+
+• Inspel från aktörsdialoger och politiska samtal under perioden
+
+maj  2024–februari 2025.
+
+Arbetet med  översynen går att följa på www.vgregion.se/vg2030. Där listas alla
+
+aktörsdialoger och kunskapsunderlag, uppföljningar och utvärderingar.
+
+REGIONAL UTVECKLINGSSTRATEGI  31
 VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 310 -->
@@ -15718,86 +17392,75 @@ Transaktionsidentitet: S0O5FB557B4612C6BB295E890EADA6531E1B4E4E012
 
 <!-- sida 350 -->
 
-PLANBESTÄMMELSER                                                            Skydd   mot  störningar
+PLANBESTÄMMELSER
 
-Fasader  som vetter mot järnvägen  ska utformas i obrännbart
-Följande gäller inom områden   med  nedanstående  beteckningar. Endast
-material. Luftintag placeras högt och på fasad som vetter bort
+Följande gäller inom områden  med  nedanstående   beteckningar. Endast
 angiven  användning  och utformning är tillåten. Där beteckning saknas
-från järnvägen.
-gäller bestämmelsen   inom hela området.
-Utrymning  ska vara möjlig bort från Västkustbanan.
-GRÄNSER
-Större entréer på byggnaden  ska placeras så att de inte
-Planområdesgräns.                                                           vetter mot Västkustbanan.
-Om  hotell eller annan liknande övernattningsverksamhet
-Användningsgräns.
-uppförs ska fasader som  vetter mot Västkustbanan  utföras i
-Egenskapsgräns.                                                             brandklass minst EI30.
 
-Stängsel,  utfart och  annan   utgång
+gäller bestämmelsen  inom  hela området.
+
+GRÄNSER
+
+Planområdesgräns.
+
+Användningsgräns.
+
+Egenskapsgräns.
 
 ANVÄNDNING         AV   MARK
-Utfartsförbud.
-Allmän   platsmark
-Utformning
-Gata.
-Byggnad  får kraga ut från en höjd av 4,0 meter över
-Torg.                                                                       marknivå.
 
-Byggnaders  utformning  ska samspela  med  arenabyggnaden
+Allmän   platsmark
+
+Gata.
+
+Torg.
+
 Kvartersmark
-vad gäller material och färgsättning.
+
 Besöksanläggningar.
-Byggnaderna   får sammanbyggas   från en höjd av +11,0
-meter i RH2000  till en tredjedel av fasadens längd.
+
 Arena.
-Utförande
+
 Idrottsplats.
-Källare får inte finnas.
 
 Centrum.
-Nivå på färdigt golv och öppningar i konstruktioner ska vara
-lägst +2,3 i RH2000 om  inte annat översvämningsskydd
-EGENSKAPSBESTÄMMELSER                    FÖR   ALLMÄN      PLATS
-anordnas  till denna nivå.
-Avgränsad     via  egenskapsgräns       och  användningsgräns
-Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över
-Utformning    av allmän  plats                                                           marknivå i förbindelsepunkten för att avloppsanslutning med
-självfall ska tillåtas.
+
+EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN      PLATS
+
+Avgränsad     via egenskapsgräns        och  användningsgräns
+
+Utformning   av  allmän  plats
+
 Dagvattendike  .
-Byggnaders  tak och fasader får inte uppföras med koppar,
 
-zink och dess legeringar eller plastbelagda plåttak som avger
-EGENSKAPSBESTÄMMELSER                    FÖR   KVARTERSMARK
-organiska föroreningar.
-Avgränsad     via  egenskapsgräns       och  användningsgräns
-Utnyttjandegrad
-Begränsning    av  markens    utnyttjande
-Största totala byggnadsarea för komplementbyggnader    är
-Marken  får inte förses med byggnad.                                        100 kvm  till en högsta nockhöjd om 4,0 meter.
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+Avgränsad     via egenskapsgräns        och  användningsgräns
 
-Endast komplementbyggnader     och teknisk anläggning får
+Begränsning    av  markens   utnyttjande
+
+Marken  får inte förses med byggnad.
+
 Marken  får endast förses med  komplementbyggnad.
-uppföras till en största byggnadsarea om 200 kvm  och till en
-Marken  får endast förses med  lastkaj eller liknande som                   högsta nockhöjd  om 4,0 meter.
+
+Marken  får endast förses med  lastkaj eller liknande som
+
 behövs  av logistiska skäl för arenan.
-Villkor för startbesked
+
 Höjd  på  byggnadsverk
-Startbesked får inte ges för byggnad förrän markförorening
-Högsta  nockhöjd  på arenabyggnaden   är 20,0 meter. Utöver                 ned till KM (känslig markanvändning) uppfylls.
-högsta  nockhöjd får endast mindre byggnadsdelar,
 
-belysningsmaster  samt  tekniska anordningar för arenan        GENOMFÖRANDETID
+Högsta  nockhöjd  på arenabyggnaden   är 20,0 meter. Utöver
+högsta nockhöjd  får endast mindre byggnadsdelar,
+
+belysningsmaster  samt  tekniska anordningar för arenan
 ordnas.
-Genomförandetiden   är 5 år.
-Högsta  nockhöjd  för läktare är 20,0 meter. Utöver tillåten
-nockhöjd  tillåts tekniska anordningar såsom kameratorn,
 
+Högsta  nockhöjd  för läktare är 20,0 meter. Utöver tillåten
+
+nockhöjd  tillåts tekniska anordningar såsom kameratorn,
 belysningsmaster  eller liknande att sticka upp.
 
-Högsta  nockhöjd  på byggnaden   är 30,0 meter som får
-uppföras  i högst åtta våningar.
+Högsta  nockhöjd  på byggnaden  är 30,0 meter som  får
+uppföras i högst åtta våningar.
 
 Markens    anordnande    och  vegetation
 
@@ -15814,11 +17477,83 @@ Placering
 Stängsel, staket eller liknande inhägnad får inte placeras
 längre norrut än arenabyggnadens   första våningsplan.
 
+Skydd   mot  störningar
+
+Fasader  som  vetter mot järnvägen ska utformas  i obrännbart
+
+material. Luftintag placeras högt och på fasad som vetter bort
+från järnvägen.
+
+Utrymning  ska vara möjlig bort från Västkustbanan.
+
+Större entréer på byggnaden   ska placeras så att de inte
+
+vetter mot Västkustbanan.
+
+Om  hotell eller annan liknande övernattningsverksamhet
+uppförs ska fasader  som vetter mot Västkustbanan   utföras i
+
+brandklass  minst EI30.
+
+Stängsel,   utfart och annan   utgång
+
+Utfartsförbud.
+
+Utformning
+
+Byggnad   får kraga ut från en höjd av 4,0 meter över
+
+marknivå.
+
+Byggnaders   utformning ska samspela  med  arenabyggnaden
+vad gäller material och färgsättning.
+
+Byggnaderna   får sammanbyggas    från en höjd av +11,0
+meter i RH2000   till en tredjedel av fasadens längd.
+
+Utförande
+
+Källare får inte finnas.
+
+Nivå på färdigt golv och öppningar i konstruktioner ska vara
+lägst +2,3 i RH2000  om inte annat översvämningsskydd
+
+anordnas  till denna nivå.
+
+Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över
+marknivå  i förbindelsepunkten för att avloppsanslutning med
+
+självfall ska tillåtas.
+Byggnaders   tak och fasader får inte uppföras med koppar,
+
+zink och dess legeringar eller plastbelagda plåttak som avger
+organiska föroreningar.
+
+Utnyttjandegrad
+
+Största totala byggnadsarea  för komplementbyggnader    är
+
+100 kvm  till en högsta nockhöjd om 4,0 meter.
+
+Endast  komplementbyggnader    och  teknisk anläggning får
+uppföras till en största byggnadsarea om 200  kvm  och till en
+
+högsta nockhöjd  om  4,0 meter.
+
+Villkor för startbesked
+
+Startbesked  får inte ges för byggnad förrän markförorening
+ned till KM (känslig markanvändning)  uppfylls.
+
+GENOMFÖRANDETID
+
+Genomförandetiden    är 5 år.
+
 ORIENTERINGSKARTA
 Detaljplan   för Kungsbackas       arena   Antagandehandling
 
-Beslutsdatum   Instans
-inom  Kungsbacka    4:65  och 4:6
+Beslutsdatum  Instans
+inom  Kungsbacka    4:65  och  4:6
 Detaljplanen är baserad på koordinatsystemet SWEREF 99
 Samråd
 i Kungsbacka   stad                                        BN § 332
@@ -15829,15 +17564,15 @@ BN § 332
 TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-04-29                                                                                                                                                                                                                           2019-10-24
 Antagande
 Upprättad 2025-06-10                                       KF § xx
-Registernummer, tomtnummer                   Höjdkurva 5,0 m
+Registernummer, tomtnummer                    Höjdkurva 5,0 m
 xxxx-xx-xx
-Höjdpunkt                                    Vägbana                                                                                                                                                                                                                            Laga kraft
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak
+Höjdpunkt                                     Vägbana                                                                                                                                                                                                                           Laga kraft
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
 Plankostnads-
-Fastighetsgräns                              Uthus fasad, resp. tak                                                                                                                                                             Ida Lennartsson             Magnus Björned      Diarenummer avtal
+Fastighetsgräns                               Uthus fasad, resp. tak                                                                                                                                                            Ida Lennartsson             Magnus Björned      Diarenummer avtal
 2019-00020
 Verksamhetschef Plan        Planarkitekt                    Nej
-Gång och cykelbana                           Skärmtak
+Gång och cykelbana                            Skärmtak
 Höjdkurva 1,0 m                                                                                                                                                                                                                PLANKARTA            Detaljplanen är upprättad enligt PBL
 2010:900 med utökat förfarande
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5ea575a19367eedc86179a1/17328684636
 sha256: ad43ce3acb93c223b883eb1d261576457cb327b7664b5af90412b34ac02dc8a3
 bytes: 3693178
 sidor: 155
-hamtad: 2026-10-24T06:29:25+00:00
-konverterad: 2026-10-24T06:29:45+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T20:40:26+00:00
+konverterad: 2026-11-06T20:40:55+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
@@ -4317,18 +4317,29 @@ Undervisning (komvux, fhsk) Lågt    3      0      25      0
 
 <!-- sida 115 -->
 
-Tillsynsområde Fokusområde Åtgärder Tillsynsaktiviteter Operativa mål År A O n b s s v . a lä r s ig k m om yn m d e ig n h ta e r t Planerar att genomföra/delta Kommentar
-Tillsynsmyndigheten sammanställer beslutade dispenser som kan beröra Förslag att undersöka möjligheterna under år 2024 inför
-2025
-grunda havsvikar under 2022.           Kommun och länsstyrelsPrioriteras bort av resursskä2025
-Tillsynsmyndigheten följer upp beslut om nekade dispenser, vilket görs genom 2025 Förslag att undersöka möjligheterna under år 2024 inför
-tillsyn i/vid prioriterade grunda exponeringsskyddade havsvikar fr o m. 2023. Kommun och länsstyrelsPrioriteras bort av resursskä2025
-Tillsynsmyndigheten följer upp givna dispenser, vilket görs genom tillsyn av 2025 Förslag att undersöka möjligheterna under år 2024 inför
-villkor i/vid grunda exponeringsskyddade havsvikar fr o m. 2022. Kommun och länsstyrelsPrioriteras bort av resursskä2025
+Tillsynsområde Fokusområde Åtgärder Tillsynsaktiviteter
+Tillsynsmyndigheten sammanställer beslutade dispenser som kan beröra
+grunda havsvikar under 2022.
+Tillsynsmyndigheten följer upp beslut om nekade dispenser, vilket görs genom
+tillsyn i/vid prioriterade grunda exponeringsskyddade havsvikar fr o m. 2023.
+Tillsynsmyndigheten följer upp givna dispenser, vilket görs genom tillsyn av
+villkor i/vid grunda exponeringsskyddade havsvikar fr o m. 2022.
 Tillsynsmyndigheten planerar och genomför tillsyn i/vid grunda
-exponeringsskyddade havsvikar och där det är skäligt föreläggs om 2024 Ingår i strandskyddstillsyn. Inspektörer har gått utbildning
-återställelse under 2023-2024.         Kommun och länsstyrelsDeltar enligt strategin om grunda havsvikar
-Naturtillsyn Påverkan på naturvärden i grunda     Minst 30 % av nekade
+exponeringsskyddade havsvikar och där det är skäligt föreläggs om
+återställelse under 2023-2024.
+
+Operativa mål År A O n b s s v . a lä r s ig k m om yn m d e ig n h ta e r t Planerar att genomföra/delta Kommentar
+Förslag att undersöka möjligheterna under år 2024 inför
+2025
+Kommun och länsstyrelsPrioriteras bort av resursskä2025
+2025                Förslag att undersöka möjligheterna under år 2024 inför
+Kommun och länsstyrelsPrioriteras bort av resursskä2025
+2025                Förslag att undersöka möjligheterna under år 2024 inför
+Kommun och länsstyrelsPrioriteras bort av resursskä2025
+2024                Ingår i strandskyddstillsyn. Inspektörer har gått utbildning
+Kommun och länsstyrelsDeltar enligt strategin om grunda havsvikar
+
+Naturtillsyn Påverkan på naturvärden i grunda    Minst 30 % av nekade
 havsvikar                                dispenser i/vid
 exponeringsskyddade 2025
 grunda vikar har följts
@@ -4373,7 +4384,7 @@ det nationella handläggarstödet
 2024
 för att hitta de verksamheter som
 har störst potentiell
-Fordonstvättar och miljöbelastning. (2023)              Kommun Deltar enligt strategin
+Fordonstvättar och miljöbelastning. (2023)              Kommun  Deltar enligt strategin
 fordonsverkstäder Tillsynsmyndigheterna deltar i en nationell tillsynskampanj avseende
 2024
 fordonstvättar och/eller fordonsverkstäder (nov 2023 - maj 2024) Kommun Deltar enligt strategin Planerar att delta när det nationella projektet startar
@@ -4539,6 +4550,7 @@ Kampanjen fokuserar på kontroll av att hantering, lagring och behandling sker i
 relevanta regelverk. Berörda tillsynsmyndigheter är de med tillsynsansvar över
 Masshantering    tillstånds- eller anmälningspliktig verksamhet enligt 4 kap. 6 §, 29 kap. 40-43 §§
 och 48-49 §§ miljöprövningsförordningen. Kommun och länsstyrelsDeltar enligt strategin
+
 Att minst 75
 verksamheter får 2024
 tillsyn inom ramen för
@@ -4546,25 +4558,31 @@ tillsynskampanjen. Kommun
 Återvinning av avfall så att det Tillsynsmyndigheterna bedriver tillsyn utifrån anteckningsskyldigheten enligt 2022-2024
 upphör att vara avfall
 avfallsförordningens 6 kap 5 § och 7 kap 7 §. Kommun och länsstyrelsDeltar enligt strategin
+
 Tillsynsmyndigheter har senast år
 2025 utifrån länsstyrelsernas
 strategipaket upprättat
-2022-2025
 handlingsplaner eller
 motsvarande styrdokument för
 tillsyn av prioriterade förorenade
-områden.                                          Kommun och länsstyrelsDeltar enligt strategin
+områden.
+
+2022-2025
+
+Kommun och länsstyrelsDeltar enligt strategin
 Samtliga tillsynsmyndigheter med tillsynsansvar över objekt i riskklass 1 och 2
 har minst ett aktivt ärende om avhjälpande av föroreningsskada. Antalet
 2022-2025
 pågående ärenden bör relateras till antalet prioriterade objekt som
-tillsynsmyndigheten ansvarar för.      Kommun och länsstyrelsDeltar enligt strategin
+tillsynsmyndigheten ansvarar för.     Kommun och länsstyrelsDeltar enligt strategin
+
 Ti o ll m sy r n å d av e n p r m io e r d it e ri r s a k d k e la f s ö s r 1 o r o e c n h a 2 de Tillsynsmyndigheten
 har till den 31
 december 2025 ökat 2022-2025
 antalet objekt i
 riskklass 1 och 2 som
-Förorenade områden                                 har ett utrett ansvar. Kommun och länsstyrelse
+Förorenade områden                                har ett utrett ansvar. Kommun och länsstyrelse
+
 Tillsynsmyndigheten
 har under strategins
 period ställt krav på
@@ -4573,6 +4591,7 @@ undersökning och/eller
 avhjälpande av
 riskklass 1 och 2
 objekt.       Kommun och länsstyrelse
+
 Tillsynsmyndigheterna tar aktivt
 del av kunskap och vägledning om
 riskbedömning, riktvärden,
@@ -4581,10 +4600,10 @@ enligt § 28 i FMH åtgärdsmål på ett sätt som
 utvecklar handläggningen av
 ärenden som initieras genom
 anmälan enligt 28 § FMH, i
-riktning mot effektmålet.                         Kommun och länsstyrelsDeltar enligt strategin
+riktning mot effektmålet.                        Kommun och länsstyrelsDeltar enligt strategin
 Kommunerna kartlägger och väljer ut fastigheter/bostäder 2022–2025 inför
 tillsyn. (Flerbostadshus som till exempel hyresrätter eller liknande 2022
-boendeformer)                          Kommun Slutförd
+boendeformer)                         Kommun  Slutförd
 Inomhusmiljö i bostäder
 Kommunerna bedriver tillsyn av fastigheter/bostäder där risken för olägenhet
 för människors hälsa är stor 2022–2025. (Flerbostadshus som till exempel 2022-2025
@@ -4603,19 +4622,19 @@ ett tillsynsbesök under
 
 Kommunerna bedriver tillsyn av förskolor och grundskolor. Extra fokus för
 2023
-både förskolor och skolor under perioden 2022–2024 är städning. Ytterligare Fokus för städning på skolor genomfördes under 2023 och
-Inomhusmiljö och egenkontroll i fokus för förskolor under perioden 2024–2025 är hygien och smitta. Kommun Slutförd kontinuerlig tillsyn på skolor fortskrider
+både förskolor och skolor under perioden 2022–2024 är städning. Ytterligare
+Inomhusmiljö och egenkontroll i fokus för förskolor under perioden 2024–2025 är hygien och smitta. Kommun Slutförd
 förskola och skola. Extra fokus
 under perioden är städning.
 Kommunerna bedriver tillsyn av förskolor och grundskolor. Extra fokus för
 2024
 både förskolor och skolor under perioden 2022–2024 är städning. Ytterligare
-fokus för förskolor under perioden 2024–2025 är hygien och smitta. Kommun Deltar enligt strategin Fokus hygien och smitta under år 2024
+fokus för förskolor under perioden 2024–2025 är hygien och smitta. Kommun Deltar enligt strategin
 Tillsynsmyndigheterna utför tillsyn hos nedströmsanvändare av
 tillståndsämnen samt andra särskilt farliga ämnen. Huvudfokus ska vara på
 tillståndsämnen, att ämnena inte används utan ett giltigt tillstånd samt i 2024
 enlighet med villkoren i tillståndsbeslut enligt Reach-förordningen. (Under
-strategins period).                    Kommun och LänsstyrelsDeltar enligt strategin
+strategins period).                   Kommun och LänsstyrelsDeltar enligt strategin
 Tillsynsmyndigheterna utför tillsyn av varor och kemiska produkter i
 Reach
 butiksledet med fokus på begränsningar enligt Reach-förordningen. Detta kan
@@ -4625,15 +4644,26 @@ lagstiftningen. (Under strategins period). Kommun Deltar enligt strategin
 Läkemedelsverket leder under september-december 2024 ett tillsynsprojekt
 Kemikalier               för Sveriges kommuner med fokus på tillsyn av tatueringsfärger. 2024 Kommun Deltar enligt strategin
 Tillsynsmyndigheterna deltar i det samverkansprojekt med fokus på CLP-
-CLP             förordningen som Kemikalieinspektionen ordnar våren 2023. 2023 Kommun Slutförd Projektet genomfördes och avslutades under år 2023
+CLP             förordningen som Kemikalieinspektionen ordnar våren 2023. 2023 Kommun Slutförd
 Tillsynsmyndigheterna utför tillsyn av biocidprodukter i butiksledet som egna
 inspektioner eller som ett delområde i en bredare inspektion. Biocidprodukter
 att fokusera särskilt på kan vara rått- och musmedel, insektsmedel och
-Biocider        båtbottenfärger. (Under strategins period.) 2023 Kommun Slutförd Projektet genomfördes och avslutades under år 2023
+Biocider         båtbottenfärger. (Under strategins period.) 2023 Kommun Slutförd
 Tillsynsmyndigheterna utför tillsyn av behandlade varor i butiksledet som egna
 2023
 inspektioner eller som ett delområde i en bredare inspektion. Ett särskilt fokus
-kan läggas på träskyddsbehandlat virke. (Under strategins period.) Kommun Slutförd Projektet genomfördes och avslutades under år 2023
+kan läggas på träskyddsbehandlat virke. (Under strategins period.) Kommun Slutförd
+
+Fokus för städning på skolor genomfördes under 2023 och
+kontinuerlig tillsyn på skolor fortskrider
+
+Fokus hygien och smitta under år 2024
+
+Projektet genomfördes och avslutades under år 2023
+
+Projektet genomfördes och avslutades under år 2023
+
+Projektet genomfördes och avslutades under år 2023
 
 <!-- sida 122 -->
 

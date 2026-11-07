@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.69662c5a18d8755e10814ac3/1707978389
 sha256: edc2787ecf8261a8afdd867190e32c3bf3eea3a49e3dc17bcec3a3ccc3b7a8ca
 bytes: 61719067
 sidor: 993
-hamtad: 2026-10-24T07:34:28+00:00
-konverterad: 2026-10-24T07:39:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:59:44+00:00
+konverterad: 2026-11-06T22:06:33+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
@@ -7631,19 +7631,13 @@ Roger Ödmark.
 
 <!-- sida 217 -->
 
-www.domstol.se
-70-4102
-•
-tekrevslotsmoD
-va
-tarecudorP
-•
-524
-VD
 Ankomstdatum 2022-11-03                                           Bilaga 1
 Diarienummer MH-2022-4553
-ANVISNING  FÖR HUR  MAN  ÖVERKLAGAR
-– DOM I MÅL DÄR MARK-  OCH  MILJÖDOMSTOLEN    ÄR FÖRSTA  INSTANS
+
+ANVISNING  FÖR  HUR MAN  ÖVERKLAGAR
+
+– DOM I MÅL DÄR  MARK- OCH  MILJÖDOMSTOLEN    ÄR FÖRSTA  INSTANS
+
 Den som vill överklaga mark- och miljödomsto- Skrivelsen med överklagande ska innehålla
 lens dom ska göra detta skriftligen. Skrivelsen uppgifter om:
 ska skickas eller lämnas till mark- och miljö-
@@ -7652,6 +7646,7 @@ domstolen. Överklagandet prövas av Mark- och
 och miljödomstolens namn samt datum för do-
 miljööverdomstolen vid Svea hovrätt.
 men och målnummer,
+
 2\. den ändring av mark- och miljödomstolens dom
 Överklagandet ska ha kommit in till mark- och
 som klaganden vill få till stånd,
@@ -7660,53 +7655,81 @@ datum. Sista dagen för överklagande finns angi- 3. grunderna (skälen) för ö
 avseende mark- och miljödomstolens domskäl en-
 ven på sista sidan i domen.
 ligt klagandens mening är oriktiga,
-Har ena parten överklagat domen i rätt tid, får 4. de omständigheter som åberopas till stöd för att
-också motparten överklaga domen (s.k. anslut- prövningstillstånd ska meddelas, samt
+
+70-4102
+
+•
+tekrevslotsmoD
+
+va
+tarecudorP
+Har ena parten överklagat domen i rätt tid, får
+också motparten överklaga domen (s.k. anslut-
 ningsöverklagande) även om den vanliga tiden
-5\. de bevis som åberopas och vad som ska styrkas
-för överklagande har gått ut. Överklagandet ska med varje bevis.
+för överklagande har gått ut. Överklagandet ska
 också i detta fall skickas eller lämnas till mark-
-Har en omständighet eller ett bevis som åberopas
 och miljödomstolen och det måste ha kommit in
-i Mark- och miljööverdomstolen inte lagts fram
 till mark- och miljödomstolen inom en vecka
-tidigare, ska klaganden förklara anledningen till
 från den i domen angivna sista dagen för överkla-
-omständigheten eller beviset inte åberopats i
 gande. Om det första överklagandet återkallas el-
-mark- och miljödomstolen. Skriftliga bevis som
 ler förfaller kan inte heller anslutningsöverklagan-
-inte lagts fram tidigare ska ges in samtidigt med
 det prövas.
-överklagandet. Vill klaganden att det ska hållas ett
-förnyat förhör eller en förnyad syn på stället, ska
 För att ett överklagande ska kunna tas upp krävs
-han eller hon ange det och skälen till detta. Kla-
 att Mark- och miljööverdomstolen lämnar pröv-
-ganden ska också ange om han eller hon vill att
 ningstillstånd. Det görs om:
-motparten ska infinna sig personligen vid huvud-
-1\. det finns anledning att betvivla riktigheten av det förhandling i Mark- och miljööverdomstolen.
+1\. det finns anledning att betvivla riktigheten av det
 slut som mark- och miljödomstolen har kommit
-till,                              Skrivelsen ska vara undertecknad av klaganden
+till,
 2\. det inte utan att sådant tillstånd meddelas går att
-eller hans/hennes ombud.
 bedöma riktigheten av det slut som mark- och
-miljödomstolen har kommit till,    Om ni tidigare informerats om att förenklad
-delgivning kan komma att användas med er i
+miljödomstolen har kommit till,
 3\. det är av vikt för ledning av rättstillämpningen att
-målet/ärendet, kan sådant delgivningssätt också
 överklagandet prövas av högre rätt, eller
-komma att användas med er i högre instanser om
 4\. det annars finns synnerliga skäl att pröva överkla-
-någon överklagar avgörandet dit.
 gandet.
-Om prövningstillstånd inte meddelas står mark- Ytterligare upplysningar lämnas av mark- och mil-
-och miljödomstolens avgörande fast. Det är där- jödomstolen. Adress och telefonnummer finns på
-för viktigt att det klart och tydligt framgår av första sidan av domen.
+Om  prövningstillstånd inte meddelas står mark-
+och miljödomstolens avgörande fast. Det är där-
+för viktigt att det klart och tydligt framgår av
 överklagandet till Mark- och miljööverdomstolen
 varför klaganden anser att prövningstillstånd bör
 meddelas.
+
+4\. de omständigheter som åberopas till stöd för att
+prövningstillstånd ska meddelas, samt
+5\. de bevis som åberopas och vad som ska styrkas
+med varje bevis.
+
+Har en omständighet eller ett bevis som åberopas
+i Mark- och miljööverdomstolen inte lagts fram
+tidigare, ska klaganden förklara anledningen till
+omständigheten eller beviset inte åberopats i
+mark- och miljödomstolen. Skriftliga bevis som
+inte lagts fram tidigare ska ges in samtidigt med
+överklagandet. Vill klaganden att det ska hållas ett
+förnyat förhör eller en förnyad syn på stället, ska
+han eller hon ange det och skälen till detta. Kla-
+ganden ska också ange om han eller hon vill att
+motparten ska infinna sig personligen vid huvud-
+förhandling i Mark- och miljööverdomstolen.
+
+Skrivelsen ska vara undertecknad av klaganden
+eller hans/hennes ombud.
+
+Om  ni tidigare informerats om att förenklad
+
+delgivning kan komma att användas med er i
+målet/ärendet, kan sådant delgivningssätt också
+komma att användas med er i högre instanser om
+någon överklagar avgörandet dit.
+
+Ytterligare upplysningar lämnas av mark- och mil-
+jödomstolen. Adress och telefonnummer finns på
+första sidan av domen.
+
+www.domstol.se
+•
+524
+VD
 
 <!-- sida 218 -->
 
@@ -8637,84 +8660,106 @@ niska rådet Roger Ödmark.
 
 <!-- sida 236 -->
 
+Ankomstdatum 2022-11-03                                           Bilaga 1
+Diarienummer MH-2022-4553
 Bilaga
 INFORMATION                   1 (1)
 
-www.domstol.se
-11-8002
-,524
-VD
-Ankomstdatum 2022-11-03                                           Bilaga 1
-Diarienummer MH-2022-4553
 Hur man  överklagar – dom i mål där mark- och miljödomsto-
 len är första instans
-Den som vill överklaga mark- och miljö- överdomstolen varför klaganden anser att
-domstolens dom ska göra detta skriftligen. prövningstillstånd bör meddelas.
+
+11-8002
+
+,524
+VD
+Den som vill överklaga mark- och miljö-
+domstolens dom ska göra detta skriftligen.
 Skrivelsen ska skickas eller lämnas till
-Skrivelsen med överklagande ska innehålla
 mark- och miljödomstolen. Överklagandet
-uppgifter om
 prövas av Mark- och miljööverdomstolen
-vid Svea hovrätt.             1. den dom som överklagas med angivande
-av mark- och miljödomstolens namn samt
+vid Svea hovrätt.
 Överklagandet ska ha kommit in till mark- och
-datum för domen och målnummer,
 miljödomstolen inom tre veckor från domens
-2\. den ändring av mark- och miljödomsto-
 datum. Sista dagen för överklagande finns an-
-lens dom som klaganden vill få till stånd,
 given på sista sidan i domen.
-3\. grunderna (skälen) för överklagandet och i
 Har ena parten överklagat domen i rätt tid, får
-vilket avseende mark- och miljödomsto-
 också motparten överklaga domen (s.k. ans-
-lens domskäl enligt klagandens mening är
 lutningsöverklagande) även om den vanliga ti-
-oriktiga,
 den för överklagande har gått ut. Överklagan-
-4\. de omständigheter som åberopas till stöd
 det ska också i detta fall skickas eller lämnas
-för att prövningstillstånd ska meddelas,
 till mark- och miljödomstolen och det måste
-samt
 ha kommit in till mark- och miljödomstolen
-5\. de bevis som åberopas och vad som ska
 inom en vecka från den i domen angivna sista
-styrkas med varje bevis.
 dagen för överklagande. Om det första över-
-klagandet återkallas eller förfaller kan inte hel- Har en omständighet eller ett bevis som åbe-
-ler anslutningsöverklagandet prövas. ropas i Mark- och miljööverdomstolen inte
-lagts fram tidigare, ska klaganden förklara an-
+klagandet återkallas eller förfaller kan inte hel-
+ler anslutningsöverklagandet prövas.
 För att ett överklagande ska kunna tas upp i
-ledningen till omständigheten eller beviset inte
 Mark- och miljööverdomstolen fordras att
-åberopats i mark- och miljödomstolen. Skrift-
 prövningstillstånd meddelas. Mark- och miljö-
-liga bevis som inte lagts fram tidigare ska ges
 överdomstolen lämnar prövningstillstånd om
-in samtidigt med överklagandet. Vill klaganden
-1\. det finns anledning att betvivla riktigheten att det ska hållas ett förnyat förhör eller en
-av det slut som mark- och miljödomstolen förnyad syn på stället, ska han eller hon ange
-har kommit till,           det och skälen till detta. Klaganden ska också
-ange om han eller hon vill att motparten ska
+1\. det finns anledning att betvivla riktigheten
+av det slut som mark- och miljödomstolen
+har kommit till,
 2\. det inte utan att sådant tillstånd meddelas
-infinna sig personligen vid huvudförhandling i
 går att bedöma riktigheten av det slut som
-Mark- och miljööverdomstolen.
 mark- och miljödomstolen har kommit
 till,
-Skrivelsen ska vara undertecknad av klaganden
-3\. det är av vikt för ledning av rättstillämp- eller hans/hennes ombud. Till överklagandet
-ningen att överklagandet prövas av högre ska bifogas lika många kopior av skrivelsen
-rätt, eller                som det finns motparter i målet. Har inte kla-
-4\. det annars finns synnerliga skäl att pröva ganden bifogat tillräckligt antal kopior, fram-
-överklagandet.             ställs de kopior som behövs på klagandens be-
-kostnad.
+3\. det är av vikt för ledning av rättstillämp-
+ningen att överklagandet prövas av högre
+rätt, eller
+4\. det annars finns synnerliga skäl att pröva
+överklagandet.
 Om  prövningstillstånd inte meddelas står
-mark- och miljödomstolens avgörande fast. Ytterligare upplysningar lämnas av mark- och
-Det är därför viktigt att det klart och tydligt miljödomstolen. Adress och telefonnummer
-framgår av överklagandet till Mark- och miljö- finns på första sidan av domen.
+mark- och miljödomstolens avgörande fast.
+Det är därför viktigt att det klart och tydligt
+framgår av överklagandet till Mark- och miljö-
+
+överdomstolen varför klaganden anser att
+prövningstillstånd bör meddelas.
+Skrivelsen med överklagande ska innehålla
+uppgifter om
+
+1\. den dom som överklagas med angivande
+av mark- och miljödomstolens namn samt
+datum för domen och målnummer,
+2\. den ändring av mark- och miljödomsto-
+lens dom som klaganden vill få till stånd,
+3\. grunderna (skälen) för överklagandet och i
+vilket avseende mark- och miljödomsto-
+lens domskäl enligt klagandens mening är
+oriktiga,
+4\. de omständigheter som åberopas till stöd
+för att prövningstillstånd ska meddelas,
+samt
+5\. de bevis som åberopas och vad som ska
+styrkas med varje bevis.
+Har en omständighet eller ett bevis som åbe-
+ropas i Mark- och miljööverdomstolen inte
+lagts fram tidigare, ska klaganden förklara an-
+ledningen till omständigheten eller beviset inte
+åberopats i mark- och miljödomstolen. Skrift-
+liga bevis som inte lagts fram tidigare ska ges
+in samtidigt med överklagandet. Vill klaganden
+att det ska hållas ett förnyat förhör eller en
+förnyad syn på stället, ska han eller hon ange
+det och skälen till detta. Klaganden ska också
+ange om han eller hon vill att motparten ska
+infinna sig personligen vid huvudförhandling i
+Mark- och miljööverdomstolen.
+Skrivelsen ska vara undertecknad av klaganden
+eller hans/hennes ombud. Till överklagandet
+ska bifogas lika många kopior av skrivelsen
+som det finns motparter i målet. Har inte kla-
+ganden bifogat tillräckligt antal kopior, fram-
+ställs de kopior som behövs på klagandens be-
+kostnad.
+Ytterligare upplysningar lämnas av mark- och
+miljödomstolen. Adress och telefonnummer
+finns på första sidan av domen.
+
 Dv 425
+
+www.domstol.se
 
 <!-- sida 237 -->
 

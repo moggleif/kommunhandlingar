@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.657a7c4219ed4412bae162/178167906958
 sha256: 1693b50ea8b7e4a36510555bdb84829edf995efb9bbd639beee5a3629071ca36
 bytes: 23827090
 sidor: 123
-hamtad: 2026-10-23T08:54:02+00:00
-konverterad: 2026-10-23T08:56:34+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T10:39:31+00:00
+konverterad: 2026-11-06T10:42:12+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -722,36 +722,39 @@ Kungsbackafjorden
 
 <!-- sida 12 -->
 
-ÅrummEt  Och FJOrdEn
-
-Kungsbacka stad delas av två åar, Kungsbackaån och Söderå, som förenas
-i södra delen av den gamla stadskärnan innan de rinner ut i Kungsbacka-
-
-fjorden. Åarna delar staden i tre delar: väster om Kungsbackaån, öster om
-Söderå och mellan åarna. Kungsbackaån är den största och mest centrala
-av åarna och binder ihop staden från norr till söder. Kungsbackafjorden
-och havet gör sig, något avlägset, påmint i söder. Det stora antalet båtar i
-Kungsbackaån vittnar också om ett större vatten i närheten.
 kungsbackaån är ett fint
 rekreationsstråk som binder
-bErgsKnaLLar
 ihop staden från norr till söder.
-Flera höjder sticker upp ur det bebyggda landskapet: kullen vid
-Tölögården, Signeskulle, Tölöberg, Kollaberget, Kollaskogen och Koberg.
-Höjderna utgör en stor del av stadens horisontlinje och fungerar även
-som gräns mellan olika områden. Höjderna är ofta klädda av löv- och
-barrträd och har olika integrering i stadsrummet. Vissa höjder har tät
-växtlighet och är svårtillgängliga medan andra har gångstigar och
-används som lekplats. Bebyggelsen ligger ofta runt kanten av höjderna,
-
-med undantag av Tölöbergs vattentorn samt Kobergs bostadshus som
-ligger på topparna.
 
 bergsknallar och parker sticker
 upp som gröna öar i bebyg-
 gelsen.
 
 8
+
+ÅrummEt  Och FJOrdEn
+
+Kungsbacka stad delas av två åar, Kungsbackaån och Söderå, som förenas
+i södra delen av den gamla stadskärnan innan de rinner ut i Kungsbacka-
+fjorden. Åarna delar staden i tre delar: väster om Kungsbackaån, öster om
+Söderå och mellan åarna. Kungsbackaån är den största och mest centrala
+
+av åarna och binder ihop staden från norr till söder. Kungsbackafjorden
+och havet gör sig, något avlägset, påmint i söder. Det stora antalet båtar i
+Kungsbackaån vittnar också om ett större vatten i närheten.
+
+bErgsKnaLLar
+
+Flera höjder sticker upp ur det bebyggda landskapet: kullen vid
+Tölögården, Signeskulle, Tölöberg, Kollaberget, Kollaskogen och Koberg.
+Höjderna utgör en stor del av stadens horisontlinje och fungerar även
+som gräns mellan olika områden. Höjderna är ofta klädda av löv- och
+
+barrträd och har olika integrering i stadsrummet. Vissa höjder har tät
+växtlighet och är svårtillgängliga medan andra har gångstigar och
+används som lekplats. Bebyggelsen ligger ofta runt kanten av höjderna,
+med undantag av Tölöbergs vattentorn samt Kobergs bostadshus som
+ligger på topparna.
 
 <!-- sida 13 -->
 
@@ -860,23 +863,14 @@ Hodierna.
 
 <!-- sida 16 -->
 
-1800-taLEts KvartErsstad 1846-1899
-
-Efter branden ritades en ny stad enligt tidens norm av lantmätare IS
-Wallmark. 1800-talets kvartersstad byggdes med räta vinklar, fondmotiv
-
-och breda gator för brandsäkerhetens skull. Dåliga grundförhållanden
-gjorde det omöjligt med stenhus och istället byggdes en trästad med
-envåningshus. Torget fyllde en viktig funktion i handels- och hantverks-
-staden Kungsbacka och gjordes därför extra stort.
 Den nya rutnätsstaden byggdes
 med trähus. till en början
 byggdes husen i en våning men
 växte med tiden till två- och
 trevåningshus. bilden är tagen
 i hörnet kyrkogatan/södra
-
 torggatan och visar kyrkan och
+
 kyrkskolan.
 
 Den nya rutnätsplanen med
@@ -884,6 +878,16 @@ den gamla medeltida planen i
 bakgrunden.
 
 12
+
+1800-taLEts KvartErsstad 1846-1899
+
+Efter branden ritades en ny stad enligt tidens norm av lantmätare IS
+Wallmark. 1800-talets kvartersstad byggdes med räta vinklar, fondmotiv
+och breda gator för brandsäkerhetens skull. Dåliga grundförhållanden
+gjorde det omöjligt med stenhus och istället byggdes en trästad med
+
+envåningshus. Torget fyllde en viktig funktion i handels- och hantverks-
+staden Kungsbacka och gjordes därför extra stort.
 
 <!-- sida 17 -->
 
@@ -913,47 +917,54 @@ talet.
 
 <!-- sida 18 -->
 
+albert lilienbergs stadsplan
+från 1912. De nya kvarteren i
+norra förstaden och östra villa-
+staden är märkta orange och
+gult. lilienberg var inspirerad
+av engelska trädgårdsstäder
+med svängda gaturum, alléer
+
+och platsbildningar.
+
+14
+
 tidiga viLLaOmrÅdEn 1900-1949
 
 I början av 1900-talet expanderade staden och nya stora påkostade
 sekelskiftesvillor uppfördes i Norra förstaden, norr om den gamla stads-
-
 kärnan. Fram till 1912 uppfördes bebyggelsen utspritt och utan plan men
 därefter ansågs det nödvändigt med en reglering. Göteborgs förste stads-
+
 byggnadsingenjör Albert Lilienberg ritade den tidigaste stadsplanen som
 främst innehöll villabebyggelse inspirerad av engelska trädgårdsstäder,
 men även badhus med tillhörande park och några industritomter längs
-
 med järnvägen.
 
 Norr om den gamla stadskärnan fanns och planerades flera offentliga
 byggnader. Från sent 1800-tal låg stadens sjukstuga mellan Kungs-
-
 backaån och järnvägsstationen innan den omkring 1940 fick en ny
 byggnad vid Tölöberg. I närområdet låg också stadens badhus, tandklinik
-albert lilienbergs stadsplan
+
 och från 1935 Kungsbacka stadshus med bibliotek. Sommaren 1936
-från 1912. De nya kvarteren i
 invigdes Tingbergsvallen väster om Kungsbackaån som fortfarande är
-norra förstaden och östra villa-
-staden är märkta orange och kommunens största friidrottsarena.
-gult. lilienberg var inspirerad
-av engelska trädgårdsstäder Kungsbackas karaktär av agrar köpstad tog slut på det sena 1920-talet då
-med svängda gaturum, alléer
+kommunens största friidrottsarena.
+
+Kungsbackas karaktär av agrar köpstad tog slut på det sena 1920-talet då
 många av stadens ladugårdsbyggnader hade byggts om till bilverkstäder
-och platsbildningar.
 eller lagerlokaler. En del av dem hade också fått ge vika för ny bebygg-
 else med bostäder och butiker. Kungsbacka fördubblade samtidigt sin
 befolkning till att 1930 ha 2 000 invånare. Fortfarande bodde praktiskt
+
 taget alla i den gamla stadskärnan.
+
 På 1930-talet växte staden med egnahemshus vid Järnvägsgatan och
 med flerfamiljsvillor norr om Västra villastaden. Mellan 1930 och 1950
+
 bebyggdes Västra villastaden, till en början längs med Sjöallén och
 Skogsallén. Individuellt utformade villor placerades efter funktionalis-
 tiska planideal med rymd, ljus och luft i kombination med naturkänsla
 som grund.
-
-14
 
 <!-- sida 19 -->
 
@@ -1356,6 +1367,14 @@ E6!                                               Varbergsvägen
 
 <!-- sida 22 -->
 
+kungsbackapendeln transpor-
+terar 23 000 personer varje dag.
+resan mellan kungsbacka och
+göteborg tar 25 minuter med 6
+stopp på vägen.
+
+18
+
 År 1974 slogs Kungsbacka kommun ihop med omgivande kranskom-
 muner vilket ledde till att Kungsbacka stad blev centralort för en större
 befolkning och ett större landområde än tidigare. Hede by norr om
@@ -1370,19 +1389,11 @@ I och med motorvägens utbyggnad på 70-talet och pendeltåget 1992
 ökade Kungsbackas betydelse som en förort till Göteborg. Efter
 kommunsammanslagningen förtätades staden i ”luckorna” som ett led i
 att bygga ihop Kungsbacka och Hede. Som en reaktion på det storska-
-liga byggandet under tidigare period uppfördes den nya bebyggelsen i
 
+liga byggandet under tidigare period uppfördes den nya bebyggelsen i
 småskaliga kvarter med en blandning av hus och bostadsformer. Exempel
 från den här tiden är bland annat Kolla, Apotekarängen och Bäckmans
 gård i Varla.
-
-kungsbackapendeln transpor-
-terar 23 000 personer varje dag.
-resan mellan kungsbacka och
-göteborg tar 25 minuter med 6
-stopp på vägen.
-
-18
 
 <!-- sida 23 -->
 
@@ -1566,16 +1577,32 @@ bäckm! ans gård                            Resecentrum
 
 <!-- sida 24 -->
 
+aranäsgymnasiets ombyggnad
+blev klar 2006 och byggnaden
+blev samma år kasper salin-
+pristagare. kasper salin-priset
+delas ut av sveriges arkitekter
+och är sveriges mest prestige-
+fyllda arkitekturpris.
+
+Det nya resecentrumet vid
+
+järnvägstationen vann
+kungsbacka arkitekturpris
+2004\.
+
+20
+
 I FÖP 94 beskrivs en avgränsning av centrum som Innerstaden, Mellan-
 centrum, Kungsmässan och Centrum Syd vilket i stort sett kan utläsas
-
 som ”staden mellan gymnasieskolorna”. Ett annat handelsområde som
+
 växte fram var Borgås industriområde som var planlagt för verksam-
 heter och kontor där en storskalig handel etablerades i ett utmärkt läge
 för bilkommunikation. År 1994 hade Kungsbacka stad knappt 15 000
 invånare.
 
-bygga  stad igEn 2000-2011
+bygga stad igEn 2000-2011
 
 När Kungsbacka gjorde en ny översiktsplan 2006 låg fokus på att staden
 skulle växa till att bättre motsvara en kommun av sin storlek genom förtät-
@@ -1584,27 +1611,16 @@ ning, nyexploatering och omvandling av redan bebyggd mark. Även Vision
 för Kungsbacka från 2005, som var en del av förarbetet till ÖP 06, före-
 språkade att Kungsbacka stad skulle växa och att ny bebyggelse ska vara
 tät, stadslik och högre än tidigare.
-aranäsgymnasiets ombyggnad
-blev klar 2006 och byggnaden
+
 Nya områden byggda under denna period är såväl småskaliga Tölö ängar
-blev samma år kasper salin-
 och Smekalles äng som ett par punkthusområden. I Aranäs stadsdel
-pristagare. kasper salin-priset
 byggdes en ny kvartersstad i större och högre skala och närbelägna
-delas ut av sveriges arkitekter
 Aranäsgymnasiet förnyades och byggdes till med en teater. Kollektiva
-och är sveriges mest prestige-
-fyllda arkitekturpris.   transporter är i fokus i visionen och järnvägsstationen byggdes till och
+transporter är i fokus i visionen och järnvägsstationen byggdes till och
+
 blev ett nytt resecentrum. Kungsbacka kommun utmärkte sig som en
 av landets mest expansiva och i slutet på perioden bodde cirka 18 600
 personer i staden.
-
-Det nya resecentrumet vid
-järnvägstationen vann
-kungsbacka arkitekturpris
-2004\.
-
-20
 
 <!-- sida 25 -->
 
@@ -2019,21 +2035,21 @@ gamla_stadskärnan
 1800-taL
 dEn     gamLa         stadsKärnan
 
-Stadens bebyggelse, som sedan medeltiden legat mellan de två åarna i Den gamla stadskärnans
-Kungsbackafjordens inre del, härjades av en stor brand 1846 och bebyg- rutnätsplan ger möjlighet till
-gelsen utplånades nästan helt. Flera andra svenska städer brann ner på många möten. stortorget syns
-i mitten.
+Stadens bebyggelse, som sedan medeltiden legat mellan de två åarna i
+Kungsbackafjordens inre del, härjades av en stor brand 1846 och bebyg-
+gelsen utplånades nästan helt. Flera andra svenska städer brann ner på
+
 liknande vis i mitten av 1800-talet (Borås, Vänersborg, Lidköping med
 flera) och gemensamt för dem alla är att bebyggelsen efter branden
 omreglerades enligt nya ideal. Inspirationen kom från den finska
 empirens trästäder som hade rymliga rutnätsplaner med breda gator och
-låga hus, vilket även Kungsbacka fick. Den nya stadsplanen av lantmä-
 
+låga hus, vilket även Kungsbacka fick. Den nya stadsplanen av lantmä-
 tare IS Wallmark innehöll 20 alnar (12 meter) breda gator i räta vinklar,
 låg trähusbebyggelse och ett stort handelstorg. Den gamla stadskärnan
 präglas än idag av denna struktur men bebyggelsen har växt något i skala
-och vissa delar har bytts ut under årens lopp. Den senaste delen som
 
+och vissa delar har bytts ut under årens lopp. Den senaste delen som
 bytts ut är ”Gamla Gästis” vid torget, en av den gamla stadskärnans första
 tvåvåningshus, som brann ner 2006 och där en ny byggnad färdigställdes
 2011\. Rutnätsplanens gator lades ut för att förstärka olika fondmotiv,
@@ -2043,51 +2059,45 @@ förändrats, idag syns till exempel det nya resecentret tydligt i Kyrkoga-
 tans norra ände.
 
 riKsintrEssE
-Från tiden före branden finns
 Delar av den gamla stadskärnan är utnämnd till riksintresse för kultur-
-idag bara två byggnader kvar:
+
 miljövård. Motivet är den bevarade småstaden som i planstruktur och
-röda stugan och borgmästar-
 trästadsbebyggelse representerar svenskt stadsbyggande vid tiden kring
-bostaden.
 1800-talets mitt. Speciellt viktigt för riksintresset är rutnätsplanen,
 tomtstrukturen, den småskaliga trähusbebyggelsen och det centrala
+
 torget med kyrkan och Kyrkskolan.
+
 bEbyggELsEns KaraKtär
 Stadsstrukturen har bevarats men innehållet har bytts ut. Byggnader
 uppförda från 1800-talet till nutid finns representerade med sina olika
+
 karaktärer. Trots ett strikt gatunät är den gamla stadskärnan mycket
 variationsrik vilket beror på den mindre fastighetsindelningen, de
 dekorerade byggnaderna och de många små butikerna. Kvartersstruk-
 turen är sluten men bryts upp av portar, plank som ger variation och
+
+Den gamla stadskärnans
+rutnätsplan ger möjlighet till
+många möten. stortorget syns
+i mitten.
+
+Från tiden före branden finns
+idag bara två byggnader kvar:
+röda stugan och borgmästar-
+bostaden.
+
 25
 
 <!-- sida 30 -->
 
-tips:                    möjlighet till inblick på innergårdarna. De tidigare intimt kringbyggda
-se också Karaktärisering av gårdarna har med tiden fått en öppnare struktur då gårdshus har rivits.
-Kungsbacka innerstad, utgiven Den ursprungliga bebyggelsen var en till två våningar hög men har under
+tips:
+se också Karaktärisering av
+Kungsbacka innerstad, utgiven
 av kungsbacka kommun 2003.
-senare år rest sig till tre till fyra våningar. Småskaligheten har värnats till
-viss del. Byggnaderna har oftast en rektangulär planform med långsidan
-i liv med gatan. Färgskalan mot gatan är ljus och husen är ofta målade
-i bruten vit oljefärg. Många av de gamla husen har sadeltak med en låg
-takvinkel belagda med röda takpannor.
 
-OFFEntLigt Liv
-
-Stadens offentliga liv utspelar sig på gatorna och torgen. Stortorget och
-Lindens torg är viktiga allmänna platser med torgförsäljning minst en
-gång per månad. Även andra platser som Hamntorget och korsningen
-
-Vallgatan/Storgatan har karakteristiska platsbildningar. Däremot är
-det ont om allmänna anlagda grönytor. Grönska finns främst i privata
-villaträdgårdar och i kvarterens innergårdar samt längs med Kungs-
-backaån. Tingsstället Skansen i södra delen av området ligger som en
 torghandeln på stortorget
-grön kil mellan åarna och byggnaden nyttjas som församlingshem. I norr
 lockar många hugade köpare.
-avgränsas den gamla stadskärnan av Badhusparken.
 
 Flygbild över den gamla
 
@@ -2101,10 +2111,34 @@ ungefärligt utmärkt.
 
 26
 
+möjlighet till inblick på innergårdarna. De tidigare intimt kringbyggda
+gårdarna har med tiden fått en öppnare struktur då gårdshus har rivits.
+Den ursprungliga bebyggelsen var en till två våningar hög men har under
+
+senare år rest sig till tre till fyra våningar. Småskaligheten har värnats till
+viss del. Byggnaderna har oftast en rektangulär planform med långsidan
+i liv med gatan. Färgskalan mot gatan är ljus och husen är ofta målade
+i bruten vit oljefärg. Många av de gamla husen har sadeltak med en låg
+
+takvinkel belagda med röda takpannor.
+OFFEntLigt Liv
+
+Stadens offentliga liv utspelar sig på gatorna och torgen. Stortorget och
+Lindens torg är viktiga allmänna platser med torgförsäljning minst en
+
+gång per månad. Även andra platser som Hamntorget och korsningen
+Vallgatan/Storgatan har karakteristiska platsbildningar. Däremot är
+det ont om allmänna anlagda grönytor. Grönska finns främst i privata
+villaträdgårdar och i kvarterens innergårdar samt längs med Kungs-
+backaån. Tingsstället Skansen i södra delen av området ligger som en
+
+grön kil mellan åarna och byggnaden nyttjas som församlingshem. I norr
+avgränsas den gamla stadskärnan av Badhusparken.
+
 <!-- sida 31 -->
 
 EXEmPEL:
-KVARTERET         bANKEN
+KVARTERET          bANKEN
 
 Hela kvarteret Banken är en del av riksintresset. Kvarteret har tre
 bevarade kringbyggda handelsgårdar vilket gör att man kan skönja
@@ -2114,23 +2148,28 @@ byggnader med olika funktioner: ekonomibyggnader på innergården och
 bostadshuset, förr kallad mangårdsbyggnad, med långsidan mot gatan.
 Med tiden har gårdshusen blivit enklare bostadshus och lokaler för
 verksamheter eller rivits. Så är fallet i kvarterets mitt där en galleria och
-markparkering har ersatt gårdshusen. Innergårdarna är en viktig del av
 
+markparkering har ersatt gårdshusen. Innergårdarna är en viktig del av
 den gamla stadskärnans identitet och karaktär. Genom de gamla öppna
 inkörsportarna är de väl tillgängliga från gatan. Det gör det möjligt för
 besökare att ta del av den gamla stadskärnans dolda charm.
 
 Byggnaderna mot gatan var gårdarnas ansikte utåt och därför mer
-butiker i gatuplan med service
-dekorerade än gårdsbyggnaderna. I kvarterets mitt mot Stortorget och handel skapar ett levande
-ligger Sparbankshuset som anses vara ett försök att efterlikna det tidiga stadsliv. stenlundska fastig-
-1800-talets stenarkitektur i Göteborg. Det är också en av de byggnader heten har ett av den gamla
-stadskärnans karakteristiska
+dekorerade än gårdsbyggnaderna. I kvarterets mitt mot Stortorget
+ligger Sparbankshuset som anses vara ett försök att efterlikna det tidiga
+1800-talets stenarkitektur i Göteborg. Det är också en av de byggnader
+
 som från början var en våning men med tiden byggts på. Den fick sitt
-hörntorn. längre bort syns
 nuvarande utseende 1927. Alla byggnaderna ligger med långsidan i liv
-sparbankshuset.
 med trottoaren och entréerna från mangårdsbyggnaderna ut mot gatan.
+
+butiker i gatuplan med service
+och handel skapar ett levande
+stadsliv. stenlundska fastig-
+heten har ett av den gamla
+stadskärnans karakteristiska
+hörntorn. längre bort syns
+sparbankshuset.
 
 kvarteret har tre kringbyggda
 innergårdar men också en
@@ -2142,52 +2181,88 @@ det sydöstra hörnet.
 
 <!-- sida 32 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – dEn gamLa stadsKärnan
 
 ÖvErgriPandE KaraKtär
+Den slutna stadsstrukturen med handel i gatu-
+plan bibehålls.
 
-Den slutna stadsstrukturen med handel i gatu- utskjutande nya balkonger mot gatan undviks.
-plan bibehålls.                     Vindsinredningar med lämpligt utformade
-mindre takkupor är ofta möjliga, utom där det
-riksintresset skyddas mot åtgärder som påtagligt innebär förvanskning av kulturhistoriskt särskilt
-skadar områdets natur- och kulturvärden. Den värdefulla byggnader eller miljöer. byggrätter
-gamla stadskärnans kvartersstruktur bevaras. kan i goda lägen omfördelas via planändring
-från hög byggnadshöjd mot gata till byggrätt
+riksintresset skyddas mot åtgärder som påtagligt
+skadar områdets natur- och kulturvärden. Den
+gamla stadskärnans kvartersstruktur bevaras.
 
-en hushöjd på en till tre våningar där husen för gårdshus. Detta förtätar strukturen men
-ligger i liv med gatan passar inom karaktären. bevarar skalan mot gatan.
+en hushöjd på en till tre våningar där husen
+ligger i liv med gatan passar inom karaktären.
+
 Det slutna gaturummet bibehålls och eventuella
-hål i detta tätas. kompletteringar ska så långt skyltar anpassas till den äldre bebyggelsen för
-som möjligt samverka med omgivande bebyg- att inte dominera gatubilden. skyltprogrammet
-gelse.                              ger råd och inspiration vid placering och utform-
+hål i detta tätas. kompletteringar ska så långt
+som möjligt samverka med omgivande bebyg-
+gelse.
 
-ning av skyltar.
 kontrasten mellan det offentliga gaturummet
-och de privata innergårdarna tillvaratas och samband/OFFEntLiga rum
-den dolda charmen görs tillgänglig för fler, till En levande stad på människans villkor.
+
+och de privata innergårdarna tillvaratas och
+den dolda charmen görs tillgänglig för fler, till
 exempel kan sekundära stråk skapas genom
-kvarterens innergårdar. Verksamheter i gatuplan De offentliga rummen har mycket hög prioritet
+kvarterens innergårdar. Verksamheter i gatuplan
+är av stor vikt för gatulivet och karaktären.
 
-är av stor vikt för gatulivet och karaktären. för stadens invånare. torgen har alla en egen
-karaktär och identitet medan gaturummen
-bEbyggELsE                          utformas mer enhetligt. De småskaliga gatu-
-Bebyggelsens sammanhållna karaktär bevaras. rummen bör sträva efter att ge gångtrafikanter
-och cyklister företräde. goda sittmöjligheter och
-om-, till- och nybyggnation anpassas till den aktiviteter eftersträvas i hela området.
+bEbyggELsE
+
+Bebyggelsens sammanhållna karaktär bevaras.
+
+om-, till- och nybyggnation anpassas till den
 omgivande småskaliga trästaden men kan med
+fördel samtidigt avspegla sin egen tidsepok.
 
-fördel samtidigt avspegla sin egen tidsepok. skansen, gröna innergårdar och trädgårdar
-är viktiga element för den gamla stadskär-
-Fasadvariation i en fin harmoni utmed gatan nans identitet. årummens rekreationsvärden
-är viktigt för helheten och för förståelse av framhävs och ett sammanhängande gångstråk
-tomtstrukturen. Viktiga element att ta upp är eftersträvas utmed kungsbackaån.
+Fasadvariation i en fin harmoni utmed gatan
+är viktigt för helheten och för förståelse av
+tomtstrukturen. Viktiga element att ta upp är
 skala, hushöjd, taklutning, fasad- och takma-
-
-terial, fönstersättning och färgsättning. Väl ett exempel på den gamla stadskärnans småska-
-genomtänkt utformning och genomarbetade liga gaturum kan ses i kapitlet Gaturum s 70.
+terial, fönstersättning och färgsättning. Väl
+genomtänkt utformning och genomarbetade
 detaljer är av stor vikt.
+
 28
+
+utskjutande nya balkonger mot gatan undviks.
+Vindsinredningar med lämpligt utformade
+mindre takkupor är ofta möjliga, utom där det
+innebär förvanskning av kulturhistoriskt särskilt
+
+värdefulla byggnader eller miljöer. byggrätter
+kan i goda lägen omfördelas via planändring
+från hög byggnadshöjd mot gata till byggrätt
+för gårdshus. Detta förtätar strukturen men
+bevarar skalan mot gatan.
+
+skyltar anpassas till den äldre bebyggelsen för
+att inte dominera gatubilden. skyltprogrammet
+ger råd och inspiration vid placering och utform-
+ning av skyltar.
+
+samband/OFFEntLiga rum
+En levande stad på människans villkor.
+
+De offentliga rummen har mycket hög prioritet
+för stadens invånare. torgen har alla en egen
+karaktär och identitet medan gaturummen
+utformas mer enhetligt. De småskaliga gatu-
+rummen bör sträva efter att ge gångtrafikanter
+
+och cyklister företräde. goda sittmöjligheter och
+aktiviteter eftersträvas i hela området.
+
+skansen, gröna innergårdar och trädgårdar
+är viktiga element för den gamla stadskär-
+nans identitet. årummens rekreationsvärden
+framhävs och ett sammanhängande gångstråk
+
+eftersträvas utmed kungsbackaån.
+
+ett exempel på den gamla stadskärnans småska-
+liga gaturum kan ses i kapitlet Gaturum s 70.
 
 <!-- sida 33 -->
 
@@ -2375,42 +2450,55 @@ Hålabäck
 1910-2000-taL
 viLLastad
 
-Villa är ett latinskt ord för lanthus och används idag som beteckning på Den äldre villastaden har stora
-ett friliggande småhus för en familj.                 tomter och svängda gaturum.
-(Västra villastaden)
-äLdrE viLLastad
-I slutet av 1800-talet började så kallade villastäder byggas utanför stads-
+Villa är ett latinskt ord för lanthus och används idag som beteckning på
+ett friliggande småhus för en familj.
 
+äLdrE viLLastad
+
+I slutet av 1800-talet började så kallade villastäder byggas utanför stads-
 gränserna i svenska städer, dit välbärgade familjer flyttade från den
 tätbefolkade innerstaden. Kungsbackas exempel på dessa tidiga villa-
 områden är Norra förstaden som började bebyggas med stora villor
-omkring sekelskiftet. Till en början var bebyggelsen oreglerad men
 
+omkring sekelskiftet. Till en början var bebyggelsen oreglerad men
 1912 antogs områdets första stadsplan som även planlade Östra villa-
 staden. Fler stadsplaner följde och den äldre villastaden växte i långsam
 takt norr- och västerut på relativt plan mark med tomter på 600-2000
-kvadratmeter. Till en början kom inspirationen från engelska trädgårds-
 
+kvadratmeter. Till en början kom inspirationen från engelska trädgårds-
 städer för att senare övergå till funktionalistiska planideal. Områden
-Den yngre villastaden är trafik-
 byggda under denna tid är förutom redan nämnda Norra förstaden och
-separerad med återvändsgator
 Östra villastaden även Västra villastaden och egnahemsområdet vid
-för biltrafiken och gångvägar i
 Järnvägsgatan. Alla utom Östra villastaden är upptagna i kommunens
-kvarterens inre. (Varla)
+
 kulturmiljövårdsprogram Bygd att bevara från 2001.
+
 yngrE viLLastad
 På 1960- och 70-talen utökades villabebyggelsen med stora områden
 byggda under samma tid och i samma stil för att snabbt möta den
+
 växande befolkningen. Den yngre villastaden placerades ofta i mer
 kuperade områden och fick mindre tomter än tidigare, vanligt var
 300-1000 kvadratmeter. Husen kunde vara allt från friliggande villor
 till sammanbyggda kedjehus där garagen blev en del av utformningen.
+
 I Kungsbacka återfinns denna typ av yngre villastad i Tingberget, Varla,
 Hede, Fors, Hålabäck och Hammerö. Villabebyggelse från 1990- och
-2000-talet finns bland annat i Britta-Lena, på Varlaplatån och i Tölö gamla lantgårdar och lands-
-kyrkby.                                               vägar ligger inkilade bland
+2000-talet finns bland annat i Britta-Lena, på Varlaplatån och i Tölö
+kyrkby.
+
+Den äldre villastaden har stora
+tomter och svängda gaturum.
+(Västra villastaden)
+
+Den yngre villastaden är trafik-
+separerad med återvändsgator
+
+för biltrafiken och gångvägar i
+kvarterens inre. (Varla)
+
+gamla lantgårdar och lands-
+vägar ligger inkilade bland
 nyare bebyggelse och skapar
 ett karakteristiskt mönster i
 stadsväven. (höögs lid)
@@ -2448,7 +2536,7 @@ ofta hus i en andra rad.
 <!-- sida 37 -->
 
 EXEmPEL FrÅn äLdrE viLLastad:
-VÄSTRA       VILLASTADEN
+VÄSTRA        VILLASTADEN
 
 Gatunätet och tomterna är raka eller formade efter trädgårdsstadens
 ideal. Kvarteren är stora och tydliga. Villorna är placerade efter en viss
@@ -2458,17 +2546,23 @@ sammanhållet gaturum.
 
 Husen är friliggande, oftast i två plan och har ett varierat arkitektoniskt
 uttryck. Nya hus har ersatt eller kompletterat de äldre vilket ger en varia-
-De stora tomterna avgränsas
+
 tionsrikedom i typ av bebyggelse men skalan har bevarats. Fasaderna är
-med murar, staket eller häckar
 ljusa med stor omsorg om detaljer.
-mot gatan vilket ger en tydlig
-skillnad mellan privat och
-Gatorna, speciellt Sjöallén och Skogsallén, utgör det offentliga rummet. offentligt.
+
+Gatorna, speciellt Sjöallén och Skogsallén, utgör det offentliga rummet.
+
 Gemensamma grönområden finns inte planlagda inom området men
 naturmark och rekreationsområden finns nära angränsande.
+
 Se också Karaktärisering av Västra villastaden, utgiven av Kungsbacka
 kommun 2005.
+
+De stora tomterna avgränsas
+med murar, staket eller häckar
+mot gatan vilket ger en tydlig
+skillnad mellan privat och
+offentligt.
 
 skogsallén binder ihop stråket
 vid kungsbackaån med
@@ -2483,6 +2577,17 @@ husen.
 
 <!-- sida 38 -->
 
+gatorna i den yngre villastaden
+har inga trottoarer. avvikande
+stenläggning på uppfarten
+tydliggör mötet mellan tomt
+och gata. (hammerö)
+
+trafiksepareringen ger området
+en inre bilfri och grön kärna.
+
+34
+
 EXEmPEL FrÅn yngrE viLLastad:
 VARLA
 
@@ -2494,107 +2599,139 @@ inre, separerade från biltrafiken. Husen är effektivt uppradade, vända åt
 samma väderstreck.
 
 Området har 1-plans- och 1½-planshus med parkeringsplats på tomten
+
 mot gatan. Villorna sitter ibland ihop med varandra genom ett förråd
-gatorna i den yngre villastaden
-har inga trottoarer. avvikande eller garage vilket ger en tydlig uppdelning av publikt och privat. Häckar
-stenläggning på uppfarten är vanliga rumsbildare. Husen är uppförda ungefär samtidigt och har ett
-tydliggör mötet mellan tomt gemensamt sammanhållet uttryck.
-och gata. (hammerö)
+eller garage vilket ger en tydlig uppdelning av publikt och privat. Häckar
+är vanliga rumsbildare. Husen är uppförda ungefär samtidigt och har ett
+gemensamt sammanhållet uttryck.
 
 Den yngre villastaden har ibland gemensamma centralt placerade
 lekplatser och gröna ytor. Bebyggelsen skiljs från matarleden och närlig-
 gande bostadsområden med breda gröna planteringar eller naturmark.
 
-trafiksepareringen ger området
-en inre bilfri och grön kärna.
-
-34
-
 <!-- sida 39 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – dEn äLdrE viLLastadEn
 
-ÖvErgriPandE KaraKtär               privata zonen mot gatan vilket behåller den
+ÖvErgriPandE KaraKtär
+Den småskaliga bebyggelsens gröna karaktär
+bevaras.
 
-Den småskaliga bebyggelsens gröna karaktär privata sidan som trädgård. Där det är lämpligt
-bevaras.                            kan bostäder enskilt kompletteras med kontor,
-hantverk och butiker som inte är störande.
 Villastadens gröna karaktär med fritt liggande
-hus i trädgårdslandskap, ofta med grön förgårds- samband/OFFEntLiga rum
-mark mot gatan och husen orienterade åt Stor vikt läggs vid gaturummets utformning
-
-samma håll, bibehålls. Det är viktigt att träd vid förändringar i befintliga områden och vid
-och annan högre växtlighet bevaras. låga av- nybyggnad.
+hus i trädgårdslandskap, ofta med grön förgårds-
+mark mot gatan och husen orienterade åt
+samma håll, bibehålls. Det är viktigt att träd
+och annan högre växtlighet bevaras. låga av-
 gränsningar mot gatan är viktiga rumsbildare,
-speciellt framför huset.            gaturummet är en viktig del av karaktären.
-alléer, platsbildningar och fondmotiv värnas
-Förtätning genom tomtdelning bör undvikas och underhålls. planterad förgårdsmark och ett
-eftersom karaktären på området ändras. ny staket eller låg mur mot gatan är andra viktiga
 
-bebyggelse anpassas till tomtens terräng så att faktorer för att tydliggöra gaturummet.
+speciellt framför huset.
+
+Förtätning genom tomtdelning bör undvikas
+eftersom karaktären på området ändras. ny
+bebyggelse anpassas till tomtens terräng så att
 omfattande utfyllnader, stödmurar och hårdgö-
-ring av mark undviks.               ett exempel på den äldre villastadens gaturum
-med tydlig skillnad mellan offentligt och privat
-bEbyggELsE                          kan ses i kapitlet Gaturum s 70.
-Stor hänsyn tas till den befintliga bebyggelsens
 
+ring av mark undviks.
+
+bEbyggELsE
+Stor hänsyn tas till den befintliga bebyggelsens
 karaktär, skala, proportioner och färger.
+
+privata zonen mot gatan vilket behåller den
+privata sidan som trädgård. Där det är lämpligt
+kan bostäder enskilt kompletteras med kontor,
+hantverk och butiker som inte är störande.
+
+samband/OFFEntLiga rum
+Stor vikt läggs vid gaturummets utformning
+vid förändringar i befintliga områden och vid
+nybyggnad.
+
+gaturummet är en viktig del av karaktären.
+alléer, platsbildningar och fondmotiv värnas
+och underhålls. planterad förgårdsmark och ett
+staket eller låg mur mot gatan är andra viktiga
+faktorer för att tydliggöra gaturummet.
+
+ett exempel på den äldre villastadens gaturum
+
+med tydlig skillnad mellan offentligt och privat
+kan ses i kapitlet Gaturum s 70.
 
 byggnaders material, kulör med mera samt
 utformningen av tillbyggnader och komple-
 mentbyggnader bör följa områdets arkitek-
 toniska ideal. generösa byggrätter i gamla
-detaljplaner kan ibland leda till för stora
 
+detaljplaner kan ibland leda till för stora
 byggnadsvolymer för att stämma med områdets
 karaktär. eventuella tillbyggnader underordnar
 sig huvudbyggnaden i storlek och utformning
 och placeras mot trädgårdssidan av tomten för
 att spara siktlinjer in i kvarteren.
 
-komplementbyggnader som garage och
+komplementbyggnader som garage  och
 carportar placeras företrädesvis i den halv-
 
 35
 
 <!-- sida 40 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – dEn yngrE viLLastadEn
 
-ÖvErgriPandE KaraKtär               samband/OFFEntLiga rum
+ÖvErgriPandE KaraKtär                samband/OFFEntLiga rum
+Den sammanhållna karaktären värnas.  Det offentliga rummets helhet bevaras.
 
-Den sammanhållna karaktären värnas. Det offentliga rummets helhet bevaras.
+ett omsorgsfullt gestaltat möte mellan gata och
+tomt där markbeläggning, förgårdsplantering
+samt hus och komplementbyggnaders placering
+samordnas kan ge ett variationsrikt område en
 
-ett omsorgsfullt gestaltat möte mellan gata och Vid förändringar av det offentliga rummet bör
-tomt där markbeläggning, förgårdsplantering hänsyn tas till den tidsanda och tradition som
-samt hus och komplementbyggnaders placering rådde när området skapades men med utgångs-
-samordnas kan ge ett variationsrikt område en punkt i att trafiksituationen ska vara trygg,
-
-sammanhållen karaktär. Den yngre villastadens säker, vacker och tillgodose dagens behov.
+sammanhållen karaktär. Den yngre villastadens
 tydliga uppdelning mellan offentligt och privat
-bevaras. ny bebyggelse anpassas till tomtens häckar är viktiga rumsdelare mellan privat och
-terräng så att omfattande utfyllnader, stödmurar offentligt. gemensamma gröna områden och
-och hårdgöring av mark undviks.     lekplatser bibehålls och förnyas. gång- och cykel-
-vägar inom området utformas på ett tryggt sätt
-bEbyggELsE                          med lämplig belysning och öppenhet. stickgator
+bevaras. ny bebyggelse anpassas till tomtens
+terräng så att omfattande utfyllnader, stödmurar
+och hårdgöring av mark undviks.
 
-I sammanhållna grupphusområden tas hänsyn utformas så att hastigheten på trafiken hålls
-till helhetsverkan.                 nere.
+bEbyggELsE
 
-Färgsättning görs med hänsyn till husgruppens ett exempel på den yngre villastadens gaturum,
-och områdets arkitektoniska ideal och så att där alla trafikslag använder samma yta, kan ses i
-fasaduttrycket längs gatan inte blir splittrat. kapitlet Gaturum s 70.
+I sammanhållna grupphusområden tas hänsyn
+till helhetsverkan.
+
+Färgsättning görs med hänsyn till husgruppens
+och områdets arkitektoniska ideal och så att
+fasaduttrycket längs gatan inte blir splittrat.
 
 tillbyggnader placeras mot trädgårdssidan av
 tomten. komplementbyggnader som garage,
 carportar och uthus samt tillbyggnader såsom
 altaner och takkupor underordnar sig huvud-
 byggnaden i storlek och utformning. Där det är
-lämpligt kan bostäder kompletteras med kontor,
 
+lämpligt kan bostäder kompletteras med kontor,
 hantverk och butiker som inte är störande.
+
+Vid förändringar av det offentliga rummet bör
+hänsyn tas till den tidsanda och tradition som
+rådde när området skapades men med utgångs-
+punkt i att trafiksituationen ska vara trygg,
+
+säker, vacker och tillgodose dagens behov.
+
+häckar är viktiga rumsdelare mellan privat och
+offentligt. gemensamma gröna områden och
+lekplatser bibehålls och förnyas. gång- och cykel-
+vägar inom området utformas på ett tryggt sätt
+
+med lämplig belysning och öppenhet. stickgator
+utformas så att hastigheten på trafiken hålls
+nere.
+
+ett exempel på den yngre villastadens gaturum,
+där alla trafikslag använder samma yta, kan ses i
+kapitlet Gaturum s 70.
 
 36
 
@@ -2870,16 +3007,18 @@ med butiker och företag samt förskola på motsatt sida gatan.
 
 Huskropparna skiljs från gatan av en bred gräsplanterad förgårdsmark
 och parkeringar. Entréerna nås från gården och garage finns i källar-
-våningen mot gatan. Huskropparna delas upp i mindre volymer genom
 
+våningen mot gatan. Huskropparna delas upp i mindre volymer genom
 olikfärgade fasadpartier.
 
 Den stora öppna gården och öppningarna mellan husen skapar gång-
+
 kontakter och siktlinjer mot gatan. Gården har anlagd växtlighet, lekplats
-byggnaderna i rött tegel
 och komplementbyggnader. En kulle med sparad naturmark angränsar i
-har balkonger mot syd-väst.
 öster.
+
+byggnaderna i rött tegel
+har balkonger mot syd-väst.
 tidstypiska detaljer som lampor
 och balkongplåt är bevarade.
 
@@ -2895,6 +3034,18 @@ handel.
 
 <!-- sida 46 -->
 
+lägenheterna på bottenplan
+har en egen trädgård på
+baksidan mot parkeringen.
+
+innergårdarna är bilfria med
+gångvägar och sparad natur-
+mark. gemensamhetsbygg-
+nader och lekplatser finns på
+varje gård.
+
+42
+
 EXEmPEL FrÅn stadsdELar i stOr sKaLa:
 ROSENGATAN
 
@@ -2906,60 +3057,67 @@ garage och parkeringar samt gångvägssystem i områdets inre.
 
 Huslängorna är av samma karaktär, byggda i rött tegel. De nedersta
 lägenheterna är ofta en halvvåning upp och kan i souterrängläge ha en
-uteplats på baksidan. Entréerna nås från gården och lägenheterna har
 
-lägenheterna på bottenplan balkonger i söder- och västerläge.
-har en egen trädgård på
-baksidan mot parkeringen.
+uteplats på baksidan. Entréerna nås från gården och lägenheterna har
+balkonger i söder- och västerläge.
+
 Innergårdarna är gemensamma och stora med såväl anlagd mark
+
 med planteringar, lekplatser och komplementbyggnader som sparad
 naturmark. Stora gräsmattor, skogsdungar och parkeringar skiljer
 området från omgivningen.
 
-innergårdarna är bilfria med
-gångvägar och sparad natur-
-mark. gemensamhetsbygg-
-nader och lekplatser finns på
-varje gård.
-
-42
-
 <!-- sida 47 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – FLErbOstadshus
 
-ÖvErgriPandE KaraKtär               samband/OFFEntLiga rum
-
+ÖvErgriPandE KaraKtär                samband/OFFEntLiga rum
 Områdenas karaktär bevaras och utvecklas. Det öppna sambandet mellan bebyggelse och
+
 natur upprätthålls.
 Det öppna bebyggelsemönstret med fritt
-liggande byggnader, mycket grönska och stora De generösa utemiljöerna och det öppna
-bilfria områden bibehålls. Den sparade natur- sambandet mellan bostadsgårdar och naturmark
-marken är viktig för områdenas karaktär. i är en stor kvalitet i områden med flerbo-
 
-centrumnära områden kan förtätning fungera stadshus.
+liggande byggnader, mycket grönska och stora
+bilfria områden bibehålls. Den sparade natur-
+marken är viktig för områdenas karaktär. i
+centrumnära områden kan förtätning fungera
+
 väl, men detta måste utvärderas i varje enskilt
-fall.                               trafik- och gatumiljön förbättras. breda gator
-och stora parkeringsytor omformas för att ge
-parkeringsplatser som tar upp stora ytor kan en småskalig och tryggare känsla. bra belysning
-omfördelas, omgestaltas eller eventuellt och välkomnande entréer är viktiga aspekter för
-bebyggas. en ökad integration med mer service att skapa identitet och trygghet.
+fall.
+
+parkeringsplatser som tar upp stora ytor kan
+omfördelas, omgestaltas eller eventuellt
+bebyggas. en ökad integration med mer service
 
 och arbetsplatser i eller intill områdena är
-välkommet.                          ett exempel på gaturum i större skala kan ses i
-kapitlet Gaturum s 70.
+välkommet.
+
 bEbyggELsE
 Förtätning kan ske med respekt för flerbostads-
 husens karaktär.
+
+De generösa utemiljöerna och det öppna
+sambandet mellan bostadsgårdar och naturmark
+är en stor kvalitet i områden med flerbo-
+stadshus.
+
+trafik- och gatumiljön förbättras. breda gator
+och stora parkeringsytor omformas för att ge
+en småskalig och tryggare känsla. bra belysning
+och välkomnande entréer är viktiga aspekter för
+att skapa identitet och trygghet.
+
+ett exempel på gaturum i större skala kan ses i
+kapitlet Gaturum s 70.
 
 Förtätning kan i vissa fall ske med såväl nya
 huskroppar som påbyggnad med fler våningar
 på befintliga byggnader. alla kompletteringar,
 om- och tillbyggnader måste dock ske med
+
 respekt för flerbostadshusens karaktär där
 speciell omsorg bör ges till husens proportioner,
-
 proportionerna mellan husen och tillgången
 till grönområden. i samband med förtätning
 förbättras byggnadernas tillgänglighet.
@@ -3144,13 +3302,13 @@ radhus
 1960-1985
 radhus
 
-Radhus är en form av sammanbyggda enfamiljshus med egna små radhusen ligger orienterade
-trädgårdar i direkt anslutning till bostaden. Ibland räknas även atriumhus åt samma håll och har en
-och kedjehus som radhus men det vi menar här är radstående två- gemensam grön park i
-områdets inre. (hammerö)
-våningshus där lägenheternas hela långsidor sitter ihop vägg i vägg.
-tvÅ OLiKa byggnadsstiLar
+Radhus är en form av sammanbyggda enfamiljshus med egna små
+trädgårdar i direkt anslutning till bostaden. Ibland räknas även atriumhus
+och kedjehus som radhus men det vi menar här är radstående två-
 
+våningshus där lägenheternas hela långsidor sitter ihop vägg i vägg.
+
+tvÅ OLiKa byggnadsstiLar
 Byggnadsstilen härstammar från England och Sverige fick sina första
 radhus i början av 1900-talet. De tidiga engelskinspirerade husläng-
 
@@ -3158,19 +3316,19 @@ orna var ofta ordnade i en traditionell kvartersstruktur. Under 60- och
 70-talet ändrades planeringen och längorna blev grupperade på ett friare
 sätt som mer liknade planmönstret för storskaliga flerbostadshus. Med
 ändringen följde också en annan trafikplanering. Den tidiga stilens
-radhus vette direkt mot gatan medan de senare blev trafikseparerade med
 
+radhus vette direkt mot gatan medan de senare blev trafikseparerade med
 gångvägsgator mellan husen och gemensamma garagelängor i utkanten
 av områdena. Kungsbackas radhus är till största delen byggda i den
-på nidingevägen ligger
 senare stilen och finns runt Sockenvägen i Hede, i Hålabäck, Hammerö,
-radhusen i en vanlig kvarters-
-Tingberget och Varla. På Guldgubbegatan på Tingberget och omkring struktur. området är inte
-Nidingevägen i Hede finns radhus i den äldre stilen som vetter direkt trafikseparerat, bilgator går
-mot gatan.                                            mellan huslängorna.
-EnhEtLig KaraKtär
-Radhusområden får sin karaktär genom att de är planerade och byggda
 
+Tingberget och Varla. På Guldgubbegatan på Tingberget och omkring
+Nidingevägen i Hede finns radhus i den äldre stilen som vetter direkt
+mot gatan.
+
+EnhEtLig KaraKtär
+
+Radhusområden får sin karaktär genom att de är planerade och byggda
 på ett enhetligt vis. Varje område är unikt genom att byggnaderna har
 samma form och uttryck som skiljer sig från omgivande byggnader
 och andra radhusområden. Radhus är ett yteffektivt sätt att bygga och
@@ -3179,15 +3337,47 @@ tomterna är små, i de flesta fall mellan 150-250 kvadratmeter. Genom
 att tomten är fördelad både framför och bakom huset skapas en privat
 zon på baksidan och en halvprivat zon på framsidan. Huslängorna är
 oftast effektivt uppradade och orienterade med den privata zonen mot
-i hammerö är radhusområdet
-söder vilket ger alla tomter likvärdiga solförhållanden. Höjdskillnader tas planerat för gång- och cykel-
-upp genom att längorna ligger i terrasser eller att längorna delas upp i trafik. Den smala gångvägen
-sektioner. Gemensamma grönområden finns inplanerade från början i ramas in av häckar och förråds-
-byggnader.
+söder vilket ger alla tomter likvärdiga solförhållanden. Höjdskillnader tas
+
+upp genom att längorna ligger i terrasser eller att längorna delas upp i
+sektioner. Gemensamma grönområden finns inplanerade från början i
 form av små lekplatser eller sparad naturmark.
+
+radhusen ligger orienterade
+åt samma håll och har en
+gemensam grön park i
+områdets inre. (hammerö)
+
+på nidingevägen ligger
+radhusen i en vanlig kvarters-
+
+struktur. området är inte
+trafikseparerat, bilgator går
+mellan huslängorna.
+
+i hammerö är radhusområdet
+planerat för gång- och cykel-
+
+trafik. Den smala gångvägen
+ramas in av häckar och förråds-
+byggnader.
+
 45
 
 <!-- sida 50 -->
+
+Färgsättningen varierar mellan
+matchande kulörer vilket
+skapar ett vackert fasaduttryck
+längs gatan.
+
+området har en gemensam
+park med lekplats i kvarterets
+kärna. Den bilfria miljön gör att
+lek och umgänge även sker på
+gångvägsgatorna.
+
+46
 
 EXEmPEL:
 HAMMERö
@@ -3200,25 +3390,17 @@ av tomten mot sydväst. Såväl tomterna som husytorna är små. Trädgår-
 darna på baksidan av längorna delas av med häckar eller staket. Tomt-
 delarna mot gångvägen separeras med likadana förrådsbyggnader.
 
-Färgsättningen varierar mellan Radhuslängorna är enhetligt utformade, både till byggnadsstil och
-matchande kulörer vilket färgsättning. Radhusen som är byggda på 70-talet har flacka sadeltak
-skapar ett vackert fasaduttryck
+Radhuslängorna är enhetligt utformade, både till byggnadsstil och
+färgsättning. Radhusen som är byggda på 70-talet har flacka sadeltak
 och fasader av träpanel. Husen som avslutar en länga kan ha fönster på
-längs gatan.
+
 gavlarna och har oftast en större tomt.
+
 De bilfria gaturummen utgörs av trädgårdarnas grönska och en regel-
 bunden uppradning av förrådsbyggnader. I områdets utkant ligger
 garagelängor och parkeringsplatser. Gemensamhetshuset som de boende
 
 kan hyra är en kvalitet som gynnar gemenskapen.
-
-området har en gemensam
-park med lekplats i kvarterets
-kärna. Den bilfria miljön gör att
-lek och umgänge även sker på
-gångvägsgatorna.
-
-46
 
 <!-- sida 51 -->
 
@@ -3443,19 +3625,20 @@ Apotekarängen
 1980-idag
 gruPPhus
 
-I början av 1980-talet kom en reaktion mot det öppna och storskaliga De tidiga grupphusen är
-byggandet som skett under miljonprogramseran. En ny postmodern organiskt placerade och bildar
-stadsbyggnadsepok inleddes där man tog upp element från tidigare gemensamma innergårdar dit
-entréerna vänder sig. (kolla)
+I början av 1980-talet kom en reaktion mot det öppna och storskaliga
+byggandet som skett under miljonprogramseran. En ny postmodern
+stadsbyggnadsepok inleddes där man tog upp element från tidigare
+
 stadsplaner och anknöt till äldre tiders arkitekturstil. Kvartersstrukturen
 fick ett öppnare samband mellan gata och gård än föregående stilar och
 gatorna fick alléer och platsbildningar. Husen inom ett område fick
 samma uttryck och stil men byggdes i olika skala och upplåtelseform.
-Punkthus och vinklade flerbostadshus samsades med parhus och radhus.
 
+Punkthus och vinklade flerbostadshus samsades med parhus och radhus.
 De uppbrutna huskropparna och de brutna sadeltaken gav områdena
 variation och sken av en småskalig tomtindelning. Grupphusen vände sig
 till skillnad mot föregående stilar mer inåt än ut mot gatan, när entréerna
+
 placerades mot gården.
 
 Områdenas olika utformning gör att vissa är mer stadslika utan
@@ -3465,12 +3648,23 @@ parker och lekplatser. De tidiga grupphusområdena har oftast entréerna
 placerade mot innergårdarna. Det leder till att området och gatan skiljs
 åt och gaturummet blir mindre använt. De senare grupphusområdena
 har oftare entréerna mot gatan. Det är vanligt att förskolor och äldre-
-gatorna i kvarterens inre är
 boenden, uppförda i samma stil och tid som bostadshusen, ligger inom
+
+områdena. Kungsbackas grupphusområden finns i Tölö villastad, Tölö
+ängar, Fors, Örtagården, Britta-Lena, Kolla, Smekalles äng, Bäckmans
+gård, Ivarsgårdsgatan, Varlaplatån och Apotekarängen.
+
+De tidiga grupphusen är
+organiskt placerade och bildar
+gemensamma innergårdar dit
+entréerna vänder sig. (kolla)
+
+gatorna i kvarterens inre är
+
 främst till för gående och
-områdena. Kungsbackas grupphusområden finns i Tölö villastad, Tölö cyklister. De smala gatorna
-ängar, Fors, Örtagården, Britta-Lena, Kolla, Smekalles äng, Bäckmans skapar ett rum i mänsklig skala.
-gård, Ivarsgårdsgatan, Varlaplatån och Apotekarängen. (apotekarängen)
+cyklister. De smala gatorna
+skapar ett rum i mänsklig skala.
+(apotekarängen)
 
 grupphusens olika höjder och
 tak skapar ett varierat uttryck.
@@ -3484,6 +3678,23 @@ grönska. (kolla)
 
 <!-- sida 54 -->
 
+huvudgatan är uppdelad
+i gång- och cykelväg, allé
+och bilväg. på sidorna ramas
+gaturummet in av hus och
+trädgårdarnas buskage.
+
+Det organiska planmönstret
+ger varierade gaturum och
+siktlinjer. huvudstråkets allé
+och platsbildningar är områdets
+stomme men stor del av det
+offentliga livet sker på inner-
+
+gårdarna.
+
+50
+
 EXEmPEL:
 KOLLA
 
@@ -3495,65 +3706,69 @@ an till detta, husen är i högre och större skala mot huvudstråket men
 lägre mot sidogatorna. Grupphusen ligger i en oregelbunden ring kring
 en innergård med förråd, garage och gemensam markparkering.
 
-huvudgatan är uppdelad   Bostadshusen är enhetligt utformade i ljust tegel eller puts medan
-
-i gång- och cykelväg, allé garagelängorna har träpanel. Varje hus har en egen liten trädgård
-och bilväg. på sidorna ramas
+Bostadshusen är enhetligt utformade i ljust tegel eller puts medan
+garagelängorna har träpanel. Varje hus har en egen liten trädgård
 omringad av en låg häck, även flerbostadshusen. Den största delen av
-gaturummet in av hus och
 trädgården är mot gatan; entrén och en planterad förgårdsmark ligger
-trädgårdarnas buskage.
+
 mot innergården.
+
 Området ligger nära naturen med både Kollaberget och Kungsbackaån
 som granne. Däremot finns inga anlagda parker eller gemensamma
 lekplatser, förutom en liten lekplats som tillhör varje gård. Gång- och
+
 cykelstråk genom gårdarna knyter ihop kvarteren och grupphusen skiljs
 från omgivningen av gräsplanteringar.
 
-Det organiska planmönstret
-ger varierade gaturum och
-siktlinjer. huvudstråkets allé
-och platsbildningar är områdets
-stomme men stor del av det
-offentliga livet sker på inner-
-gårdarna.
-
-50
-
 <!-- sida 55 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – gruPPhus
 
-ÖvErgriPandE KaraKtär               samband/OFFEntLiga rum
+ÖvErgriPandE KaraKtär
+Bebyggelsens tydlighet och sammanhållna
 
-Bebyggelsens tydlighet och sammanhållna Gaturummets tydlighet och vegetationsprägel
-karaktär bevaras.                   bibehålls.
+karaktär bevaras.
 
-grupphusområden är oftast inte lämpliga att gaturummets tydlighet med alléer och häckar
-förtäta då de redan är ”färdigbyggda” och täta. som rumsavdelare bibehålls. anlagda platser är
-i grupphusområden planerades och byggdes en viktig del av karaktären och fungerar som
+grupphusområden är oftast inte lämpliga att
+förtäta då de redan är ”färdigbyggda” och täta.
+i grupphusområden planerades och byggdes
+gator, platser och parker tillsammans och i
 
-gator, platser och parker tillsammans och i sociala mötesplatser. närheten till naturmark
-ett sammanhang med hus och gårdar. Vid alla och parker är speciellt viktig där de egna
-förändringar är det viktigt att ha detta i åtanke trädgårdarna är små eller obefintliga.
+ett sammanhang med hus och gårdar. Vid alla
+förändringar är det viktigt att ha detta i åtanke
 så att grupphusbebyggelsens helhetskaraktär
-och rumsliga struktur bevaras. De välintegrerade ett exempel på grupphusens gaturum med alléer
-offentliga byggnaderna är en kvalitet. och häckar kan ses i kapitlet Gaturum s 70.
+och rumsliga struktur bevaras. De välintegrerade
+offentliga byggnaderna är en kvalitet.
 
 bEbyggELsE
+
 Förändringar underordnar sig bebyggelsens
 enhetliga karaktär.
 
 i sammanhållna områden måste särskild
 hänsyn tas till helhetsverkan vid förändringar.
-
 Färgsättning och materialval görs med hänsyn
+
 till husgruppens och områdets helhetsintryck.
 tillbyggnader och andra förändringar som
 ändrar husgruppens karaktär, skala och propor-
 tion bör göras samordnat så att den enhetliga
 karaktären bevaras.
+
+samband/OFFEntLiga rum
+Gaturummets tydlighet och vegetationsprägel
+bibehålls.
+
+gaturummets tydlighet med alléer och häckar
+som rumsavdelare bibehålls. anlagda platser är
+en viktig del av karaktären och fungerar som
+sociala mötesplatser. närheten till naturmark
+och parker är speciellt viktig där de egna
+trädgårdarna är små eller obefintliga.
+
+ett exempel på grupphusens gaturum med alléer
+och häckar kan ses i kapitlet Gaturum s 70.
 
 51
 
@@ -3737,22 +3952,22 @@ punkthus
 2000-idag
 PunKthus
 
-Punkthus har byggts sedan 30-talets funktionalistiska era där kvaliteter punkthusen är fritt placerade
-som ljus och luft var vägledande. Byggnadsstilen har varit populär i och tar stöd i bakomliggande
-omgångar under hela 1900-talet men även under 2000-talet. De fri- kulle. husen är högre än
-omgivande bebyggelse och
+Punkthus har byggts sedan 30-talets funktionalistiska era där kvaliteter
+som ljus och luft var vägledande. Byggnadsstilen har varit populär i
+omgångar under hela 1900-talet men även under 2000-talet. De fri-
+
 liggande flerbostadshusen ligger ofta i grupp, har en starkt sammanhållen
-lägenheterna har god utsikt.
 karaktär och är vanligen fem våningar eller högre. Typiskt för stilen är att
-(kolla backe)
 alla sidor av byggnadskropparna är likvärdigt behandlade och det finns
 därför inga tydliga fram- eller baksidor.
+
 FLEra PunKthus har byggts dE sEnastE ÅrEn
+
 Kungsbacka stad fick sina första punkthus under 2000-talet, först i Kolla
 backe och sedan i kvarteret St Gertrud i centrum. Ett nytt punkthus-
 område är på gång i kvarteret Polstjärnan i Hammerö. Kungsbackas
-punkthus har nymodernistisk stil med platt tak, fasader utan dekor och
 
+punkthus har nymodernistisk stil med platt tak, fasader utan dekor och
 stora balkonger på byggnadernas alla sidor. Kolla backe vann Kungs-
 backa Arkitekturpris 2007 för sin hänsyn till platsens natur och sitt väl
 sammanhållna arkitektoniska uttryck.
@@ -3767,6 +3982,13 @@ av eller på höjder och har god utsikt. Oftast tillhör all utvändig miljö
 det offentliga rummet och gaturummet präglas av de höga husen, den
 uppväxta grönskan och häckar som skiljer offentligt från privat.
 
+punkthusen är fritt placerade
+och tar stöd i bakomliggande
+kulle. husen är högre än
+omgivande bebyggelse och
+lägenheterna har god utsikt.
+(kolla backe)
+
 Det är vanligt att punkthusen
 ligger nära och samspelar
 med naturen, som här vid
@@ -3777,8 +3999,23 @@ kungsbackaån i centrum.
 
 <!-- sida 58 -->
 
+husens röda färg ger en
+spännande kontrastverkan mot
+grönskan. buskage ramar in
+husen och skapar en privat sfär.
+
+punkthusen ligger fint
+inpassade i naturen och är
+placerade för att skapa goda
+
+siktstråk mot bakomliggande
+grönska och mot vattnet i
+söder.
+
+54
+
 EXEmPEL:
-KOLLA       bAcKE
+KOLLA      bAcKE
 
 Området består av en grupp byggnadskroppar fritt placerade efter
 solljus och utsikt. Byggnaderna tar upp terrängens nivåskillnad genom
@@ -3788,49 +4025,47 @@ offentligt. Parkeringen är uppdelad i flera små delar och dominerar inte
 gatubilden.
 
 Området har en sammanhållen karaktär med hus byggda under samma
+
 tid och med samma stil och uttryck. Låga komplementbyggnader och
-husens röda färg ger en
 garage med sedumtak ligger separat från bostadshusen. Byggnadernas
-spännande kontrastverkan mot
 läge utanför centrum gör att de saknar offentliga lokaler i gatuplan.
-grönskan. buskage ramar in
-husen och skapar en privat sfär.
+
 Naturmark är sparad nära huskropparna och den luftiga byggnads-
 placeringen skapar siktstråk mot densamma. Punkthusen är lägre än
 Kollaskogen bakom vilket gör att bergets grönska bildar en siluett. Ett
 planterat område skiljer punkthusen från närliggande bebyggelse.
 
-punkthusen ligger fint
-inpassade i naturen och är
-placerade för att skapa goda
-siktstråk mot bakomliggande
-grönska och mot vattnet i
-söder.
-
-54
-
 <!-- sida 59 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – PunKthus
 
-ÖvErgriPandE KaraKtär               samband/OFFEntLiga rum
-
+ÖvErgriPandE KaraKtär                samband/OFFEntLiga rum
 Karaktären av friliggande hus i naturmark Det öppna sambandet mellan bebyggelse och
-bevaras.                            natur bevaras.
+
+bevaras.                             natur bevaras.
 
 Det öppna bebyggelsemönstret med fritt omgivande naturmark värnas och karaktären
-liggande höga huskroppar bibehålls. ny av hus i park bevaras. nya stora hårdgjorda
-bebyggelse och kompletteringar anpassas ytor för parkering på naturmark undviks.
 
-efter punkthusens karaktär och utformas så Förgårdsmarkens grönska har stor betydelse
-att inga boendekvaliteter försämras. speciellt för gaturummets karaktär. lokaler på gatuplan
-viktigt är park- och grönytor samt att siktlinjer eftersträvas, speciellt i centrala lägen, eftersom
-inte försämras för andra hus i omgivningen. det ger bostadsområdet och gaturummet liv och
-komplementbyggnader bör hålla en låg skala. rörelse.
+liggande höga huskroppar bibehålls. ny av hus i park bevaras. nya stora hårdgjorda
+
+bebyggelse och kompletteringar anpassas
+efter punkthusens karaktär och utformas så
+att inga boendekvaliteter försämras. speciellt
+viktigt är park- och grönytor samt att siktlinjer
+
+inte försämras för andra hus i omgivningen.
+komplementbyggnader bör hålla en låg skala.
+
+ytor för parkering på naturmark undviks.
+Förgårdsmarkens grönska har stor betydelse
+för gaturummets karaktär. lokaler på gatuplan
+eftersträvas, speciellt i centrala lägen, eftersom
+
+det ger bostadsområdet och gaturummet liv och
+rörelse.
 
 bEbyggELsE
-
 Bebyggelsens sammanhållna karaktär bibehålls.
 
 Fasadkulör, material och takform behåller en
@@ -4021,12 +4256,12 @@ Lindens torg
 <!-- sida 61 -->
 
 1996-idag
-yngrE       KvartErsstad
+yngrE        KvartErsstad
 
-Den yngre kvartersstaden är baserad på en vilja att bygga vidare på den rutnätsmönstret i den yngre
-gamla stadskärnans struktur men med en högre exploatering än tidigare. kvartersstaden är stadsmässigt
-Karaktären liknar mer en stenstad från 1800-talet än den gamla stads- och ger många möjligheter till
-möten. (aranäs stadsdel)
+Den yngre kvartersstaden är baserad på en vilja att bygga vidare på den
+gamla stadskärnans struktur men med en högre exploatering än tidigare.
+Karaktären liknar mer en stenstad från 1800-talet än den gamla stads-
+
 kärnans låga trähusbebyggelse och är ett nytt inslag i Kungsbackas
 stadsbygd.
 
@@ -4037,18 +4272,26 @@ i rutnät och lokaler i bottenplan. De raka gaturummen har breda
 trottoarer och stadsmässiga alléer och är uppdelade i huvudgator och
 sidogator. Gatorna har ordnad kantstensparkering och i övrigt göms
 bilarna i garage. Stilen är oftast nymodernistisk med funktionalismen
-som förebild. Gemensamma drag är de likformiga fasaderna, mycket glas
 
+som förebild. Gemensamma drag är de likformiga fasaderna, mycket glas
 och stora balkongytor.
 
 vattEn är En dEL av dEt OFFEntLiga rummEt
 Plats för grönska, på förgårdsmark och i form av parker, är planlagt från
-början. Vatten och närheten till åarna är en viktig del i utformningen av
 
-parkerna. Innergårdarna är privata och har plats för växtlighet och lek. lindens torgs byggnader knyter
-I Kungsbacka stad återfinns den yngre kvartersstaden vid Lindens torg an till den gamla stadskärnans
-hörnmotiv.
+början. Vatten och närheten till åarna är en viktig del i utformningen av
+parkerna. Innergårdarna är privata och har plats för växtlighet och lek.
+I Kungsbacka stad återfinns den yngre kvartersstaden vid Lindens torg
 och i Aranäs stadsdel.
+
+rutnätsmönstret i den yngre
+kvartersstaden är stadsmässigt
+och ger många möjligheter till
+möten. (aranäs stadsdel)
+
+lindens torgs byggnader knyter
+an till den gamla stadskärnans
+hörnmotiv.
 
 Det gröna stråket längs med
 kungsbackaån knyter ihop den
@@ -4059,8 +4302,22 @@ stadsdel.
 
 <!-- sida 62 -->
 
+karaktäristiskt för området är
+hörnmotiven med balkonger,
+de vinklade taken med
+takkupor och de stora balkong-
+erna mot innergården.
+
+kvarteren närmast kungsbackaån
+
+öppnar sig mot årummet men
+de upphöjda innergårdarna ger
+ändå en privat känsla.
+
+58
+
 EXEmPEL:
-ARANÄS         STADSDEL
+ARANÄS        STADSDEL
 
 Byggnader och gator är utformade för att knyta ihop den gamla stads-
 kärnan med Aranäsgymnasiet. Gatorna kantas av träd och parkerings-
@@ -4074,48 +4331,52 @@ som Aranäsgymnasiet.
 De smala byggnaderna varierar mellan fem till sju våningar med vinds-
 våningen indragen för att anpassa skalan till den gamla stadskärnan.
 Detaljer i utformningen är inslag av oljat trä och rostfritt stål, speciellt
-på balkongräcken. Bostädernas entréer ligger på de upphöjda innergår-
 
+på balkongräcken. Bostädernas entréer ligger på de upphöjda innergår-
 darna och nås genom portiker från gatan. Under innergårdarna göms
 parkering.
 
-karaktäristiskt för området är Placeringen i centrum gör att de gröna offentliga rummen är små. Det
-hörnmotiven med balkonger, offentliga parkrummet kring Kungsbackaån fungerar som rekreation och
-de vinklade taken med
+Placeringen i centrum gör att de gröna offentliga rummen är små. Det
+
+offentliga parkrummet kring Kungsbackaån fungerar som rekreation och
 knyter ihop området med resten av staden.
-takkupor och de stora balkong-
-erna mot innergården.
-
-kvarteren närmast kungsbackaån
-öppnar sig mot årummet men
-de upphöjda innergårdarna ger
-ändå en privat känsla.
-
-58
 
 <!-- sida 63 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – yngrE KvartErsstad
 
-ÖvErgriPandE KaraKtär               samband/OFFEntLiga rum
-
+ÖvErgriPandE KaraKtär                samband/OFFEntLiga rum
 Den slutna kvartersstrukturen bibehålls. Gaturummets tydlighet bibehålls.
 
-en urban karaktär eftersträvas där bostäder och gaturummets tydlighet och stadsmässiga karak-
-verksamheter blandas i en stadsmässig struktur. tär med breda trottoarer och kantstensparke-
-gaturum avslutas med öppna platser eller fond- ring bibehålls. Den urbana karaktären ställer
-byggnader enligt den täta stadens mönster. särskilda krav på kvalitet och förvaltning av
+en urban karaktär eftersträvas där bostäder och
+verksamheter blandas i en stadsmässig struktur.
+gaturum avslutas med öppna platser eller fond-
+byggnader enligt den täta stadens mönster.
 
-trädkantade gator bildar stommen i rutnätet. gator, platser, parker och andra gemensamma
-De slutna kvarteren och den redan täta skalan ytor. grön förgårdsmark och träd längs gatorna
-ger sällan utrymme för kompletteringar med är en viktig del av grönstrukturen.
+trädkantade gator bildar stommen i rutnätet.
+De slutna kvarteren och den redan täta skalan
+ger sällan utrymme för kompletteringar med
 nya byggnader om detta inte har planlagts från
-början.                             ett exempel på den yngre kvartersstadens
-gaturum med förträdgårdar och breda trotto-
-bEbyggELsE                          arer finns i kapitlet Gaturum s 70.
+början.
+
+bEbyggELsE
 
 Den nymodernistiska stilen efterlevs.
+
+gaturummets tydlighet och stadsmässiga karak-
+tär med breda trottoarer och kantstensparke-
+ring bibehålls. Den urbana karaktären ställer
+särskilda krav på kvalitet och förvaltning av
+
+gator, platser, parker och andra gemensamma
+ytor. grön förgårdsmark och träd längs gatorna
+är en viktig del av grönstrukturen.
+
+ett exempel på den yngre kvartersstadens
+gaturum med förträdgårdar och breda trotto-
+
+arer finns i kapitlet Gaturum s 70.
 
 bebyggelsens nymodernistiska stil varieras inom
 ramen för en sammanhållen helhet. Fasader på
@@ -4128,6 +4389,7 @@ förändringar bör göras samordnat så att den
 enhetliga karaktären bevaras. skyltningens
 utformning hålls samman. skyltprogrammet ger
 råd och inspiration vid placering och utformning
+
 av skyltar.
 
 59
@@ -4309,33 +4571,39 @@ g!ymnasium                             Kungsbacka
 1900-idag
 OFFEntLiga
 
-byggnadEr             i ParK
-sjukhusområdet är ett exempel
-på en offentlig byggnad
-Runt 1850 började institutioner och sjukhusområden byggas i inner- i park. husen var till en
-staden i större svenska städer för att senare uppstå som gröna öar eller början solitärer men har med
-gröna bälten utanför den gamla stadskärnan.           åren knutits ihop med nya
-byggnader.
-bLir FLEr när stadEn väXEr
+byggnadEr              i ParK
 
+Runt 1850 började institutioner och sjukhusområden byggas i inner-
+staden i större svenska städer för att senare uppstå som gröna öar eller
+
+gröna bälten utanför den gamla stadskärnan.
+
+bLir FLEr när stadEn väXEr
 Kungsbackas första offentliga byggnader utanför den gamla stadskärnan
 placerades norr om Vallgatan. Här uppfördes bland annat sjukstuga,
-badhus och kommunhus. Allteftersom staden byggts ut har skolor, äldre-
 
+badhus och kommunhus. Allteftersom staden byggts ut har skolor, äldre-
 boenden, vårdcentraler och liknande offentliga byggnader tillkommit i
 nybyggnadsområden. Exempel på offentliga byggnader i park i Kungs-
 backa stad är kulturhuset Fyren, stadshuset, hotell Halland, Kungsbacka
-närsjukhus och även flertalet förskolor, grundskolor, gymnasieskolor,
 
+närsjukhus och även flertalet förskolor, grundskolor, gymnasieskolor,
 vårdcentraler och äldreboenden.
 
 FriLiggandE byggnadEr i grÖnsKa
 Offentliga byggnader utformas oftast som friliggande byggnader,
-antingen som solitärer eller i grupp, och är i allmänhet omgivna av
 
+antingen som solitärer eller i grupp, och är i allmänhet omgivna av
 frikostigt tilltagna grönytor och parker. Trots olika åldrar och verksam-
 heter bildar byggnaderna ihop med grönskan ett karakteristiskt inslag i
 stadsbebyggelsen.
+
+sjukhusområdet är ett exempel
+på en offentlig byggnad
+i park. husen var till en
+början solitärer men har med
+åren knutits ihop med nya
+byggnader.
 
 exempel på offentliga
 byggnader i park i kungsbacka
@@ -4346,6 +4614,16 @@ Fyren.
 61
 
 <!-- sida 66 -->
+
+sjukhusområdet har byggts
+ut i olika etapper, med
+början i funkis via storskaliga
+60-talslameller till 80-talstegel.
+
+sjukhusområdets byggnader
+klättrar runt tölöbergs fot.
+
+62
 
 EXEmPEL FrÅn vÅrdOmrÅdEn:
 KUNGSbAcKA              NÄRSJUKHUS
@@ -4362,20 +4640,12 @@ i öster.
 Hygieniska aspekter och risken för smittspridning gjorde att byggna-
 derna från början placerades som friliggande hus i ett öppet parkland-
 skap. Byggnadernas formspråk speglar de olika utbyggnadsepokernas
+
 stilideal.
 
 Byggnaderna omges av grönska, både Tölöbergs naturmark och anlagda
 planteringar på innergårdarna. Bilparkering för besökande är ett fram-
 trädande inslag och finns vid båda entréerna.
-sjukhusområdet har byggts
-ut i olika etapper, med
-början i funkis via storskaliga
-60-talslameller till 80-talstegel.
-
-sjukhusområdets byggnader
-klättrar runt tölöbergs fot.
-
-62
 
 <!-- sida 67 -->
 
@@ -4416,34 +4686,48 @@ kulturattraktion.
 
 <!-- sida 68 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – OFFEntLiga byggnadEr i ParK
 
 ÖvErgriPandE KaraKtär
-
 De offentliga byggnadernas grundläggande samband/OFFEntLiga rum
-karaktärsdrag bevaras.              Parkområden bevaras och vårdas.
 
-De offentliga byggnadernas placering, och då De omgivande parkområdena är viktiga för de
-speciellt bältet med offentliga byggnader norr offentliga byggnadernas karaktär. Det betyder
-om Vallgatan-kungsgatan, berättar om stadens att parkkänslan inte får försvinna vid förtätning
+karaktärsdrag bevaras.               Parkområden bevaras och vårdas.
 
-historia och är en betydelsefull del av dess i samband med nyexploatering och att stora
-karaktär. hus i park är en återkommande grund- ädelträd bör få ett extra skydd. parkområdet
-tanke vid byggnation av offentliga byggnader. utmed kungsbackaån knyter ihop flera of-
-Väl gestaltade byggnader placeras synligt och fentliga byggnader och kopplingen mellan
-glest i parkmiljö.                  parkområdet och ån bör stärkas. Det är viktigt
-att parkområdena känns trygga. markerade
-bEbyggELsE                          gångstråk och anpassad belysning kan göra
+De offentliga byggnadernas placering, och då
+speciellt bältet med offentliga byggnader norr
+om Vallgatan-kungsgatan, berättar om stadens
+historia och är en betydelsefull del av dess
 
-Ny bebyggelse kan ske på de offentliga byggna- områdena tydligare.
+karaktär. hus i park är en återkommande grund-
+tanke vid byggnation av offentliga byggnader.
+Väl gestaltade byggnader placeras synligt och
+glest i parkmiljö.
+
+bEbyggELsE
+
+Ny bebyggelse kan ske på de offentliga byggna-
 dernas villkor.
+
+De omgivande parkområdena är viktiga för de
+offentliga byggnadernas karaktär. Det betyder
+att parkkänslan inte får försvinna vid förtätning
+i samband med nyexploatering och att stora
+
+ädelträd bör få ett extra skydd. parkområdet
+utmed kungsbackaån knyter ihop flera of-
+fentliga byggnader och kopplingen mellan
+parkområdet och ån bör stärkas. Det är viktigt
+att parkområdena känns trygga. markerade
+gångstråk och anpassad belysning kan göra
+
+områdena tydligare.
 
 nya och äldre byggnader bör samspela vad
 gäller skala, material och detaljer. stor omsorg
 bör läggas på byggnadsutformning vid nybygg-
-
 nation. kulturhistoriskt värdefull bebyggelse
+
 och ursprungliga parkanläggningar vårdas.
 
 stadshusets gamla del,
@@ -4632,45 +4916,74 @@ Hede             !
 1890-idag
 FÖrEtag
 
-Kungsbacka var länge en agrar köpstad och det var först när järnvägen i områden för företag finns
-kom 1888 som de första industritomterna planerades. Redan då lokali- mycket plats för transporter,
-serades områden för företag till stadens utkanter och i anslutning till både på breda vägar och på
-tomtmark. tillbyggnader som
+Kungsbacka var länge en agrar köpstad och det var först när järnvägen
+kom 1888 som de första industritomterna planerades. Redan då lokali-
+serades områden för företag till stadens utkanter och i anslutning till
+
 viktiga transportleder, och det är ett mönster som har fortsatt. Exempel
-skett under årens lopp skapar
 på tidiga industriområden är kvarteret Gjutaren vid Industrigatan och
-oregelbundna huskroppar.
 kvarteret Sågen vid Järnvägsgatan. I takt med att staden växt ligger
-(inlag)
 dessa områden numera i stadens centrala delar och kan omvandlas till
+
 funktioner som bättre passar läget.
 industri Och tErminaLOmrÅdEn
+
 Under 60- och 70-talen expanderade kommunen kraftigt och industri
 och terminalområden dök upp längs med Varlavägen och Varbergsvägen.
+
 Vid samma tid planlades Inlag-, Hede- och Varla industriområde på vad
 som då var åker- och ängsmark.
-stOrsKaLig handEL Och KOntOrsarbEtsPLatsOmrÅdEn
 
+stOrsKaLig handEL Och KOntOrsarbEtsPLatsOmrÅdEn
 Traditionella industri-, transport- och lagerområden har med tiden
+
 flyttat ut från stadens centrala lägen och i deras ställe har framförallt
-bilia i borgås industriområde
 service och detaljhandel flyttat in. Från mitten av 90-talet har områden
-är ett exempel på en modern
-med storskalig sällanköpshandel och kontorsarbetsplatser utvecklats, företagsbyggnad med ett
-främst i de norra delarna av staden. Byggnadernas utformning går mot tydligt formspråk.
+med storskalig sällanköpshandel och kontorsarbetsplatser utvecklats,
+främst i de norra delarna av staden. Byggnadernas utformning går mot
 en alltmer individuell arkitektur för att spegla företagens profil. Ett
+
 exempel är bilföretaget Bilias byggnad, beläget i Borgås industriområde,
 som belönades med Kungsbacka Arkitekturpris 2009.
-lastzoner upptar en stor del
-av tomtmarken i alla typer av
-Kännetecknande för alla områden för företag är storskalighet, öppna ytor företagsområden.
+
+Kännetecknande för alla områden för företag är storskalighet, öppna ytor
 och stora byggnader, men olika tiders ideal präglar utformningen av hus
+
 och trafikstruktur. Förutom de redan nämnda industriområdena finns
 även Varlaberg och Klovsten industriområde i stadens östra del.
+
+i områden för företag finns
+mycket plats för transporter,
+både på breda vägar och på
+tomtmark. tillbyggnader som
+skett under årens lopp skapar
+oregelbundna huskroppar.
+(inlag)
+
+bilia i borgås industriområde
+är ett exempel på en modern
+företagsbyggnad med ett
+tydligt formspråk.
+
+lastzoner upptar en stor del
+av tomtmarken i alla typer av
+företagsområden.
 
 67
 
 <!-- sida 72 -->
+
+gatorna kantas av gång- och
+cykelväg. Företagen annonserar
+sin verksamhet på flera sätt.
+(hantverksgatan, inlag)
+
+byggnadernas rektangulära
+planform är tydlig, liksom de
+stora ytorna för parkering och
+lastning/lossning.
+
+68
 
 EXEmPEL:
 INLAG      INDUSTRIOMRÅDE
@@ -4684,12 +4997,11 @@ omlastning med lastbil men tomtytor kan även vara sparade för framtida
 utbyggnad.
 
 Tomternas skiftande användning avspeglar sig i byggnadernas utform-
-gatorna kantas av gång- och
-cykelväg. Företagen annonserar ning. Huskropparna har ofta en fyrkantig eller rektangulär planform med
-sin verksamhet på flera sätt. stor utbredning. Taken är plana eller lätt vinklade. Tillbyggnader och
-(hantverksgatan, inlag)  komplementbyggnader är vanliga och ger en levande karaktär. Byggna-
-derna har en entré för besökare placerad på framsidan mot parkeringarna
+ning. Huskropparna har ofta en fyrkantig eller rektangulär planform med
+stor utbredning. Taken är plana eller lätt vinklade. Tillbyggnader och
+komplementbyggnader är vanliga och ger en levande karaktär. Byggna-
 
+derna har en entré för besökare placerad på framsidan mot parkeringarna
 medan lastplatser för varutransporter finns på baksidan. Flaggor, pelare
 och skyltar annonserar verksamheterna.
 
@@ -4699,48 +5011,63 @@ breda gator. Trädplanteringar samt gång- och cykelvägar som smalnat av
 gatorna har tillkommit sedan området ändrat karaktär mot mer handel
 och service. Anlagd parkmark saknas inom området.
 
-byggnadernas rektangulära
-planform är tydlig, liksom de
-stora ytorna för parkering och
-lastning/lossning.
-
-68
-
 <!-- sida 73 -->
 
-ATT   TÄNKA        PÅ
+ATT    TÄNKA       PÅ
 – FÖrEtag
 
-ÖvErgriPandE KaraKtär               samband/OFFEntLiga rum
+ÖvErgriPandE KaraKtär
+Verksamhetsområdena utvecklas efter sina olika
 
-Verksamhetsområdena utvecklas efter sina olika Den offentliga miljön görs attraktiv, lättorien-
-förutsättningar.                    terad och mer anpassad för fotgängare.
+förutsättningar.
 
-alla sorters verksamhetsområden utvecklas med Den yttre miljön med trädplanteringar, gång-
-utgångspunkt i sin huvuduppgift, särart och och cykelvägar samt trottoarer vårdas och
-framtida potential. Centrumnära områden för byggs ut på lämpliga gator. befintliga anslut-
+alla sorters verksamhetsområden utvecklas med
+utgångspunkt i sin huvuduppgift, särart och
+framtida potential. Centrumnära områden för
+företag kan omvandlas till blandstad i takt med
 
-företag kan omvandlas till blandstad i takt med ningar till närliggande grönområden värnas
-att centrumkärnan växer.            och byggs ut där så är möjligt. parkering och
-angörning ordnas så att de inte dominerar över
-bEbyggELsE                          gatubilden. parkeringsytor kan delas in i mindre
-En genomtänkt gestaltning kan skapa en stads- rum och avgränsas med vegetation. en samlad
-mässig karaktär.                    och enhetlig infartsskyltning med översikter av
-områden och verksamheter underlättar oriente-
+att centrumkärnan växer.
 
-gestaltningsprogram kan med fördel utformas ringen.
+bEbyggELsE
+En genomtänkt gestaltning kan skapa en stads-
+mässig karaktär.
+
+gestaltningsprogram kan med fördel utformas
+
 och kan bidra till att ge områdena ett samman-
-hållet intryck. i exponerade lägen vid stadens ett exempel på gaturum i företagsområden kan
-och områdenas entréer ställs höga gestalt- ses i kapitlet Gaturum s 70. Där finns även en
-ningskrav. byggnader med mindre volymer, sektion på ett storskaligt gaturum mellan två
-placerade närmare huvudgatorna, ger en efter- företagsområden.
-
+hållet intryck. i exponerade lägen vid stadens
+och områdenas entréer ställs höga gestalt-
+ningskrav. byggnader med mindre volymer,
+placerade närmare huvudgatorna, ger en efter-
 strävad stadsmässig karaktär. annonsering av
+
 verksamhet sker företrädesvis där verksam-
 heten är placerad och utan att dominera över
 landskapet. skyltning sker företrädesvis på
 byggnadernas fasader. skyltning på tak ska inte
 förekomma.
+
+samband/OFFEntLiga rum
+Den offentliga miljön görs attraktiv, lättorien-
+terad och mer anpassad för fotgängare.
+
+Den yttre miljön med trädplanteringar, gång-
+och cykelvägar samt trottoarer vårdas och
+byggs ut på lämpliga gator. befintliga anslut-
+ningar till närliggande grönområden värnas
+och byggs ut där så är möjligt. parkering och
+angörning ordnas så att de inte dominerar över
+
+gatubilden. parkeringsytor kan delas in i mindre
+rum och avgränsas med vegetation. en samlad
+och enhetlig infartsskyltning med översikter av
+områden och verksamheter underlättar oriente-
+ringen.
+
+ett exempel på gaturum i företagsområden kan
+ses i kapitlet Gaturum s 70. Där finns även en
+sektion på ett storskaligt gaturum mellan två
+företagsområden.
 
 69
 
@@ -4748,30 +5075,48 @@ förekomma.
 
 gaturum
 
-stadens karaktärer präglas av dess gator, med en strikt uppdelning mellan motortrafik
+stadens karaktärer präglas av dess gator,
+platser, kvarterens form och indelning samt
 
-platser, kvarterens form och indelning samt och gång- och cykeltrafik. under det senaste
-bebyggelsens höjd. gatan är ett offentligt rum årtiondet har pendeln svängt tillbaka och nu
-vars gestaltning utformas i kommunala planer. utformas gatorna återigen för blandad använd-
-gaturummet påverkas även av enskilda fastig- ning vilket ger ett mer levande gaturum.
+bebyggelsens höjd. gatan är ett offentligt rum
+vars gestaltning utformas i kommunala planer.
+gaturummet påverkas även av enskilda fastig-
 hetsägares användning och utformning av sin
-tomt.                               olika byggnadskaraktärer har olika kontakt
-mellan byggnad och gaturum. placeringen
+tomt.
 
-De olika gaturummen ger skilda karaktärer och av byggnadernas entréer och användningen
-rumsligheter. gaturummen har gått från en liten av byggnadernas bottenplan avgör också hur
-skala, anpassad efter den mänskliga kroppen, till levande och använt gaturummet blir.
+De olika gaturummen ger skilda karaktärer och
+rumsligheter. gaturummen har gått från en liten
+skala, anpassad efter den mänskliga kroppen, till
 större skala i och med ökad motortrafik. gatan
-som offentligt rum har också gått från att ha exemplen är hämtade från gator i de områden
-blandad trafik under början av 1900-talet till att som beskrivits under kapitlet Stadskaraktärer,
+som offentligt rum har också gått från att ha
+blandad trafik under början av 1900-talet till att
+under miljonprogramseran bli trafikseparerat
 
-under miljonprogramseran bli trafikseparerat med början på s 22.
-
-2,6 m 3,5 m 2,2 m 3,35 m
-
-dEn gamLa stadsKärnan  - storgatan
+2,6 m 3,5 m
 
 70
+
+med en strikt uppdelning mellan motortrafik
+och gång- och cykeltrafik. under det senaste
+årtiondet har pendeln svängt tillbaka och nu
+utformas gatorna återigen för blandad använd-
+
+ning vilket ger ett mer levande gaturum.
+
+olika byggnadskaraktärer har olika kontakt
+mellan byggnad och gaturum. placeringen
+av byggnadernas entréer och användningen
+av byggnadernas bottenplan avgör också hur
+
+levande och använt gaturummet blir.
+
+exemplen är hämtade från gator i de områden
+som beskrivits under kapitlet Stadskaraktärer,
+med början på s 22.
+
+2,2 m 3,35 m
+
+dEn gamLa stadsKärnan  - storgatan
 
 <!-- sida 75 -->
 
@@ -4814,90 +5159,161 @@ företag - Arendalsleden, Varla industriområde
 ordförKlarINg
 
 Ordens förklaringar är hämtade från respektive bYggrätt – rättighet knuten till en fastighet
-
 ords webbsida på Nationalencyklopedins och att enligt gällande detaljplan uppföra
 Wikipedias webbplatser 10 november 2010. en byggnad eller bygga till en byggnad.
 Undantag är blandstad som står under ABC-stad Fastighetsägaren måste söka bygglov för
+
 på Wikipedias webbplats samt förgårdsmark, genomförandet. Byggrätten uttrycks som en
 skaftgata och utifrånmatning som är allmänna högsta tillåten byggnadsvolym (area, antal
-stads- och trafikplaneringstermer.  våningar, höjd och dylikt) och kan utnyttjas
+stads- och trafikplaneringstermer.   våningar, höjd och dylikt) och kan utnyttjas
+
+agrar – som rör jordbruk. Agrar kommer av
+det latinska ordet för åker, ager.
+
+albert lIlIeNberg – (1879-1967) stadsplan-
+
+erare, förste stadsingenjör i Göteborg 1907-27
+och stadsplanedirektör i Stockholm 1927-44.
+Lilienberg var en av de främsta företrädarna
+4,75 m  3,5 m 1,25 2,5    6 m   0,5  5 m    2,5 m                     av den österrikiske arkitekten Camillo Sittes
+stadsplanekonst. Lilienbergs planer utmärktes
+YNgre Kvartersstad - Aranäs allé, Aranäs stadsdel  av terränganpassning med svängda former, där
+
+blicken inte skulle försvinna ”ut i intet”. Han
+arbetade också med Sittes ideal om det “slutna
+rummet” (husen ligger placerade nära gatan,
+med trädgårdarna på baksidan). Med Lilienberg
+började stadsplanekonsten att övergå till mera
+teknisk och organisatorisk stadsplanering. Den
+
+moderna stadsplaneringen skulle avgöra var
+man skulle bygga olika typer av bostäder, var
+industrierna skulle ligga och hur infrastrukturen
+skulle ordnas.
+
+blaNdstad – en term för att lägga bostäder,
+kontor och butiker inom samma område, som
+
+en rakt motsatt effekt till sjuttiotalets miljonpro-
+gramsplanering med uppdelning av bostäder,
+11 m         2,5 m 1,5    7,5 m            10 m
+butiker och kontor.
+företag - Hantverksgatan, Inlag
 
 under en i planen angiven, begränsad tid (5-15
-agrar – som rör jordbruk. Agrar kommer av år).
-det latinska ordet för åker, ager.
+år).
+
 detaljplaN – en plan genom vilken komm-
-albert lIlIeNberg – (1879-1967) stadsplan- unen styr hur mark får användas och
-erare, förste stadsingenjör i Göteborg 1907-27 vilka byggnader och anläggningar som får
-och stadsplanedirektör i Stockholm 1927-44. uppföras på ett visst markområde, till exempel
 
-Lilienberg var en av de främsta företrädarna bostäder, industri eller rekreation. Hänsyn ska
-4,75 m   3,5 m 1,25 2,5   6 m   0,5   5 m   2,5 m                     av den österrikiske arkitekten Camillo Sittes tas till såväl markägarens intresse som allmänna
-stadsplanekonst. Lilienbergs planer utmärktes natur- och kulturintressen. Detaljplanen antas
-YNgre Kvartersstad - Aranäs allé, Aranäs stadsdel  av terränganpassning med svängda former, där av kommunfullmäktige och är bindande för
-blicken inte skulle försvinna ”ut i intet”. Han efterföljande beslut om bygglov och fastighets-
-arbetade också med Sittes ideal om det “slutna bildning. Berörda parter har rätt till insyn och
-rummet” (husen ligger placerade nära gatan, yttranderätt samt möjlighet att överklaga.
+unen styr hur mark får användas och
+vilka byggnader och anläggningar som får
+uppföras på ett visst markområde, till exempel
+bostäder, industri eller rekreation. Hänsyn ska
+tas till såväl markägarens intresse som allmänna
+natur- och kulturintressen. Detaljplanen antas
 
-med trädgårdarna på baksidan). Med Lilienberg
-började stadsplanekonsten att övergå till mera egNahem – Egnahemsrörelsen bildades under
-teknisk och organisatorisk stadsplanering. Den slutet av 1800-talet i Sverige för att uppmuntra
-moderna stadsplaneringen skulle avgöra var arbetare och andra personer utan större
-man skulle bygga olika typer av bostäder, var tillgångar att skaffa sig och äga ett eget
-industrierna skulle ligga och hur infrastrukturen bostadshus med tillhörande mindre odlingar
+av kommunfullmäktige och är bindande för
+efterföljande beslut om bygglov och fastighets-
+bildning. Berörda parter har rätt till insyn och
+yttranderätt samt möjlighet att överklaga.
 
-skulle ordnas.                      eller ett eget småjordbruk. Termen är starkt
+egNahem  – Egnahemsrörelsen bildades under
+slutet av 1800-talet i Sverige för att uppmuntra
+
+arbetare och andra personer utan större
+tillgångar att skaffa sig och äga ett eget
+bostadshus med tillhörande mindre odlingar
+eller ett eget småjordbruk. Termen är starkt
 förknippad med statsminister Per Albin Hanssons
-blaNdstad – en term för att lägga bostäder, folkhemstanke som på 1930-talet delvis finan-
-kontor och butiker inom samma område, som sierade egnahemsbyggandet med statliga
-en rakt motsatt effekt till sjuttiotalets miljonpro- och kommunala medel. Husen byggdes ofta
-gramsplanering med uppdelning av bostäder, efter typritningar och de välplanerade ytorna
-11 m         2,5 m 1,5   7,5 m             10 m
-butiker och kontor.                 medförde en allmän standardhöjning med till
-företag - Hantverksgatan, Inlag                                         exempel badrum.
+folkhemstanke som på 1930-talet delvis finan-
+
+sierade egnahemsbyggandet med statliga
+och kommunala medel. Husen byggdes ofta
+efter typritningar och de välplanerade ytorna
+medförde en allmän standardhöjning med till
+exempel badrum.
 
 74
 
 <!-- sida 79 -->
 
-FunKtiOnaLism – en arkitektur- och stads- matargata – gata med funktionen att mata
+FunKtiOnaLism – en arkitektur- och stads-
+byggnadsstil som utvecklades i europa omkring
+1925 och som innebar en radikal brytning med
 
-byggnadsstil som utvecklades i europa omkring andra gator med trafik. matargator används
-1925 och som innebar en radikal brytning med oftast för att samla upp trafiken från ett
-de gamla, klassiska stilidealen. Formen skulle bostadsområdes lokalgator och mata den till
-bestämmas av funktionen och stilen präglades av större huvudgator.
+de gamla, klassiska stilidealen. Formen skulle
+bestämmas av funktionen och stilen präglades av
 släta, ofta vita ytor på geometriskt enkla grund-
-former. Den industriella utvecklingen förde miLJOnPrOgrammEt – den vardagliga be-
+former. Den industriella utvecklingen förde
+med sig nya byggnadsmaterial (betong, stål och
+glas) och mer effektiva konstruktionsmetoder.
+Funktionalismen syftade till att skapa rationella
 
-med sig nya byggnadsmaterial (betong, stål och nämningen på bostadsbyggandet i sverige
-glas) och mer effektiva konstruktionsmetoder. under perioden 1965-1975, som följde ett
-Funktionalismen syftade till att skapa rationella riksdagsbeslut från 1965. målet var att bemöta
-städer och bostäder åt alla människor, vilket gav tidens akuta bostadskris genom att bygga en
-rörelsen en social karaktär. i sverige benämns miljon bostäder, både flerbostadshus och villor,
-ofta funktionalismen som ”funkis” och stilen som skulle produceras på ett effektivt och ratio-
-satte stark prägel på den moderna arkitekturen nellt sätt och förbättra bostadsstandarden.
-
+städer och bostäder åt alla människor, vilket gav
+rörelsen en social karaktär. i sverige benämns
+ofta funktionalismen som ”funkis” och stilen
+satte stark prägel på den moderna arkitekturen
 fram till 1970-talet, se vidare postmodernism.
-nymOdErnism   – en stil inom arkitekturen
-FÖrgÅrdsmarK  – tomtmarken mellan gatan som uppstod under 1990-talet. Den är en
-och huset som inte får bebyggas. Ytan används reaktion på postmodernismen och förespråkar
-ofta till plantering och kan ses som en halvprivat ett mer avskalat och enklare uttryck, i likhet
-zon eftersom den skapar kontakt mellan den med uttrycket i funktionalismens arkitektur.
 
+FÖrgÅrdsmarK  – tomtmarken mellan gatan
+
+och huset som inte får bebyggas. Ytan används
+ofta till plantering och kan ses som en halvprivat
+zon eftersom den skapar kontakt mellan den
 offentliga gatan och det privata huset.
-POstmOdErnism   – en term som  inom
-grannsKaPsEnhEt – en stadsplaneringsidé arkitekturen började användas som samlande
-där mindre enheter i en stor stad ska ha ett benämning på kritiken mot funktionalismens
-självständigt liv och bestå av bostäder runt ett ideal som började växa i europa och usa på
-centrum.                            1970-talet. De viktigaste förebilderna var
-byggnadstyper populära före funktionalismen,
 
-KOmPLEmEntbyggnad   – en byggnad som till exempel klassicismen och trädgårdsstaden.
-är komplement (tillägg) till en annan. i den resultatet skulle bli modernt men ändå
-svenska plan- och bygglagen definieras komple- förankrat i arkitekturhistorien.
+grannsKaPsEnhEt  – en stadsplaneringsidé
+
+där mindre enheter i en stor stad ska ha ett
+självständigt liv och bestå av bostäder runt ett
+centrum.
+
+KOmPLEmEntbyggnad   – en byggnad som
+är komplement (tillägg) till en annan. i den
+
+svenska plan- och bygglagen definieras komple-
 mentbyggnad som "fristående uthus, garage
-och andra mindre byggnader". små växthus, sKaFtgata – gata eller väg som går över
-friggebodar och liknande räknas också dit. annans tomtmark för att binda ihop huvudled
+och andra mindre byggnader". små växthus,
+friggebodar och liknande räknas också dit.
 
+matargata – gata med funktionen att mata
+andra gator med trafik. matargator används
+oftast för att samla upp trafiken från ett
+
+bostadsområdes lokalgator och mata den till
+större huvudgator.
+
+miLJOnPrOgrammEt  – den vardagliga be-
+nämningen på bostadsbyggandet i sverige
+under perioden 1965-1975, som följde ett
+riksdagsbeslut från 1965. målet var att bemöta
+
+tidens akuta bostadskris genom att bygga en
+miljon bostäder, både flerbostadshus och villor,
+som skulle produceras på ett effektivt och ratio-
+nellt sätt och förbättra bostadsstandarden.
+
+nymOdErnism  – en stil inom arkitekturen
+
+som uppstod under 1990-talet. Den är en
+reaktion på postmodernismen och förespråkar
+ett mer avskalat och enklare uttryck, i likhet
+med uttrycket i funktionalismens arkitektur.
+
+POstmOdErnism   – en term som  inom
+arkitekturen började användas som samlande
+
+benämning på kritiken mot funktionalismens
+ideal som började växa i europa och usa på
+1970-talet. De viktigaste förebilderna var
+byggnadstyper populära före funktionalismen,
+till exempel klassicismen och trädgårdsstaden.
+resultatet skulle bli modernt men ändå
+
+förankrat i arkitekturhistorien.
+
+sKaFtgata – gata eller väg som går över
+annans tomtmark för att binda ihop huvudled
 och tomt liggandes längre från vägen.
 
 75
@@ -4977,43 +5393,69 @@ kolla backe     s 53, 54 tölö villastad    s 49
 
 KäLLOr
 
-trycKta KäLLOr                      Kungsbacka: bygd att bevara (1989); kungsbacka
+trycKta KäLLOr
+Bygd att bevara (2001); Förslag till Program
 
-Bygd att bevara (2001); Förslag till Program kommun & hallands länsmuseum
 för kulturmiljövård i Kungsbacka kommun:
-Kulturnämnden 2001-02-06; kungsbacka Kungsbacka naturvårdsplan (2003); ingår
-kommun                              i Samrådsbeslut för Kungsbacka kommuns
-översiktsplan 2003; kungsbacka kommun
+Kulturnämnden 2001-02-06; kungsbacka
+kommun
+
 Fördjupad översikt för Kungsbacka tätort (1994);
+kungsbacka kommun
 
-kungsbacka kommun                   Kungsbackaskogen: från utmark till naturpark
-(2005); kungsbacka hembygdsgille, nordhallands
-Fördjupad översiktsplan för Kungsbacka stad hembygdsförening
+Fördjupad översiktsplan för Kungsbacka stad
 (2009); kungsbacka kommun
-Kungsbacka översiktsplan (2006); kungsbacka
-Grönstruktur (2007); ingår i Fördjupad översikts- kommun
+
+Grönstruktur (2007); ingår i Fördjupad översikts-
 plan för Kungsbacka stad, Bakgrundsmaterial
+till samrådshandling; kungsbacka kommun
 
-till samrådshandling; kungsbacka kommun löfgreen, gunnar (1982); Kungsbacka stads
-historia: Från stad på nåder till storkommun:
-gustavsson, lennart (2008); Från en dansk Stadens finanser under dess sista hundra år;
-medeltida handelsplats till ett betydande svenskt Ekonomisk-Historisk C-5 uppsats; göteborgs
-marknads- och rekreationsområde; kungsbacka universitet
+gustavsson, lennart (2008); Från en dansk
+medeltida handelsplats till ett betydande svenskt
+marknads- och rekreationsområde; kungsbacka
 hembygdsgille, nordhallands hembygdsförening
-Planbeskrivning (2006); ingår i Detaljplan
 
-Jernevad, per (2007); Allmän bebyggelsehistoria för ny stadsdel inom Södercentrum del 2
-1950-2000 - med lokala exempel från Jönköpings och 3 m fl, Kungsbacka stad; antagen av
-kommun; stadsbyggnadskontoret, Jönköpings kommunfullmäktige 2006-11-09; kungsbacka
-kommun                              kommun
+Jernevad, per (2007); Allmän bebyggelsehistoria
+1950-2000 - med lokala exempel från Jönköpings
+kommun; stadsbyggnadskontoret, Jönköpings
+kommun
+
+Kungsbacka: bygd att bevara (1989); kungsbacka
+kommun & hallands länsmuseum
+
+Kungsbacka naturvårdsplan (2003); ingår
+
+i Samrådsbeslut för Kungsbacka kommuns
+översiktsplan 2003; kungsbacka kommun
+
+Kungsbackaskogen: från utmark till naturpark
+(2005); kungsbacka hembygdsgille, nordhallands
+hembygdsförening
+
+Kungsbacka översiktsplan (2006); kungsbacka
+kommun
+
+löfgreen, gunnar (1982); Kungsbacka stads
+historia: Från stad på nåder till storkommun:
+Stadens finanser under dess sista hundra år;
+
+Ekonomisk-Historisk C-5 uppsats; göteborgs
+universitet
+
+Planbeskrivning (2006); ingår i Detaljplan
+för ny stadsdel inom Södercentrum del 2
+och 3 m fl, Kungsbacka stad; antagen av
+
+kommunfullmäktige 2006-11-09; kungsbacka
+kommun
 
 Jonsson, hans (1975); Kungsbacka innerstad: riksintressen (2009); Riksintressen: Halland:
-
 innerstadens utveckling fram till 1975; 2009-09-09; riksantikvarieämbetet
 kungsbacka
 rinde-ramsbäck, märta (1982); Sjukstuga-
+
 Karaktärisering av Kungsbacka innerstad (2003), Kulturhus, s. 81-87 ingår i Vår bygd 1982;
-kungsbacka kommun                   nordhallands hembygdsförening
+kungsbacka kommun                    nordhallands hembygdsförening
 
 Karaktärisering av Västra villastaden (2005);
 kungsbacka kommun
@@ -5022,45 +5464,64 @@ kungsbacka kommun
 
 <!-- sida 83 -->
 
-rådberg, Johan & Friberg, anders (1996); Nationalencyklopedin; tillgänglig på: www.
-
-Svenska stadstyper: historik, exempel, klassifice- ne.se; hämtad 2010-11-10
+rådberg, Johan & Friberg, anders (1996);
+Svenska stadstyper: historik, exempel, klassifice-
 ring; kungliga tekniska högskolan, stockholm
-riksantikvarieämbetet - Fornsök; tillgänglig på:
-sFs 1998:808; Miljöbalk; miljödepartementet http://www.fmis.raa.se/cocoon/fornsok/search.
-html; hämtad 2010-10-05
-von schéele, adam (2007); Kungsbackas
-uppkomst: Hur gammal är den nordhalländska statistiska Centralbyrån (2003); Husdjur efter
 
-staden?; kungsbacka kommun          kommun och djurslag: År 2003; tillgänglig på:
-http://www.ssd.scb.se/databaser/makro/produkt.
-ELEKtrOnisKa KäLLOr                 asp?produktid=Jo0103; hämtad 2010-10-04
+sFs 1998:808; Miljöbalk; miljödepartementet
+
+von  schéele, adam (2007); Kungsbackas
+uppkomst: Hur gammal är den nordhalländska
+staden?; kungsbacka kommun
+
+ELEKtrOnisKa KäLLOr
+
 kungsbacka.se; Kommun: Fakta om kommunen:
-Historia: Sjöfart & handel; tillgänglig på: Vision för Kungsbacka (2005); tillgänglig på:
-http://www.kungsbacka.se/sitetemplates/ http://www.kungsbacka.se/sitetemplates/
+Historia: Sjöfart & handel; tillgänglig på:
+http://www.kungsbacka.se/sitetemplates/
+kbinformationpage\_\_\_\_7354.aspx; hämtad
+2010-10-05; uppdaterad 2006-10-17
 
-kbinformationpage\_\_\_\_7354.aspx; hämtad kbinformationpage\_\_\_\_14214.aspx; hämtad
-2010-10-05; uppdaterad 2006-10-17   2010-10-25; uppdaterad 2009-09-13
-
-kungsbacka.se; Fritid: Idrott, sport & motion: Wikipedia; tillgänglig på: www.wikipedia.se;
-Anläggningar: Friidrott; tillgänglig på: hämtad 2010-11-10
+kungsbacka.se; Fritid: Idrott, sport & motion:
+Anläggningar: Friidrott; tillgänglig på:
 http://www.kungsbacka.se/sitetemplates/
 kbinformationpage\_\_\_\_3756.aspx; hämtad
-
 2010-10-25; uppdaterad 2010-01-18
 
 kungsbacka.se; Kommun: Fakta om kommunen:
 Befolkning; tillgänglig på:
 http://www.kungsbacka.se/upload/kommun/
 Dokument/2008%20Faktablad%20Visionen.pdf;
-
 hämtad 2010-10-25; uppdaterad 2010-09-17
 
 kungsmassan.se; Från textilfabrik till båtmässa
+
 till köpcentrum; tillgänglig på: http://www.
 kungsmassan.se/om-kungsmassan/historia/
 fran-textilfabrik-till-batmassa-till-kopcentrum/;
 hämtad 2010-10-25
+
+Nationalencyklopedin; tillgänglig på: www.
+ne.se; hämtad 2010-11-10
+
+riksantikvarieämbetet - Fornsök; tillgänglig på:
+
+http://www.fmis.raa.se/cocoon/fornsok/search.
+html; hämtad 2010-10-05
+
+statistiska Centralbyrån (2003); Husdjur efter
+kommun och djurslag: År 2003; tillgänglig på:
+http://www.ssd.scb.se/databaser/makro/produkt.
+
+asp?produktid=Jo0103; hämtad 2010-10-04
+
+Vision för Kungsbacka (2005); tillgänglig på:
+http://www.kungsbacka.se/sitetemplates/
+kbinformationpage\_\_\_\_14214.aspx; hämtad
+2010-10-25; uppdaterad 2009-09-13
+
+Wikipedia; tillgänglig på: www.wikipedia.se;
+hämtad 2010-11-10
 
 79
 

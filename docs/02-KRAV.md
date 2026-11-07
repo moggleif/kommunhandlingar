@@ -1250,7 +1250,8 @@ och [Initiativärenden](03-ARKITEKTUR.md#initiativärenden).
   valda avsändaren, och sammandraget räknar ärendena per fas och per
   avsändare. Utan JavaScript står alla.
 - **Givet** en initiativfil med ett steg `vackt` utan avsändare, en
-  avsändare som inte står på källans sida, en okänd fas, ett tomt ärende
+  avsändare som inte står på källans sida (en partiförkortning står där
+  inom parentes eller som partiets namn), en okänd fas, ett tomt ärende
   eller något annat som stoppar en lokalbehovsfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
@@ -1350,3 +1351,32 @@ Hur och varför står i
 - **När** sidan konverteras
 - **Så** står den inte inne i sidans text, utan sist på sidan, en rad på
   högkant per stycke, i sin läsriktning: `OKTOBER` och inte `REBOTKO`.
+
+## K42 — Nämndens redovisningar steg för steg
+
+Hur och varför står i
+[ADR-0065](decisions/0065-redovisningarna-foljs-som-handlingsplanerna.md) och
+[Redovisningar](03-ARKITEKTUR.md#redovisningar).
+
+- **Givet** en kommun med en fil med redovisningar, där varje rad är ett
+  steg en redovisning i ett organ tar – beställd som direktiv i
+  nämndbudgeten, redovisad för nämnden eller återkommande redovisning –
+  med år, en text och en sida i ett dokument i poolen som källa
+- **När** webbplatsen byggs
+- **Så** har varje organ med rader en sida om sina redovisningar, i
+  översikten och flikarna som de andra sidorna över tid (K39).
+- **Givet** sidan om ett organs redovisningar
+- **När** den visas
+- **Så** står varje redovisning på en rad i en tidslinje med en kolumn
+  per år och på ett kort, som för handlingsplanerna (K38), och den som
+  beställts som direktiv visar både beställningen och när den
+  redovisades.
+- **Givet** ett direktiv vars rubrik i källan börjar med "Redovisning",
+  "Utredning" eller "Information"
+- **När** det skrivs in
+- **Så** står det bland redovisningarna och inte bland målen och
+  direktiven (K26).
+- **Givet** en fil med redovisningar med en okänd fas, en tom redovisning
+  eller något annat som stoppar en annan spårfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden och felet.

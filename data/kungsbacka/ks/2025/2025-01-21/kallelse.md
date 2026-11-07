@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.76caecda1944036d2d5d095c/1737011173
 sha256: cbe014d9e28733f79bc647d4dcf42b5123bf6dd292b821c395c5d02defe47b22
 bytes: 239193
 sidor: 6
-hamtad: 2026-10-24T07:25:13+00:00
-konverterad: 2026-10-24T07:25:19+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:48:37+00:00
+konverterad: 2026-11-06T21:48:43+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok]
@@ -82,14 +82,26 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 4 -->
 
+Ärende
+
+12\. Lönekartläggning 2024 och
+lönestruktur 2025
+
+13\. Förändring avseende projekt i
+lokalplan Kv Liljan skola och
+idrottssal
+
+14\. Principavtal avseende
+detaljplan för Varla 2:412
+
 KUNGSBACKA  KOMMUN
 
 4(6)
 
-Ärende                Beteckning Förslag
+Beteckning Förslag
 
-12\. Lönekartläggning 2024 och 2024-00774 Förslag till beslut i kommunstyrelsen
-lönestruktur 2025              Kommunstyrelsen fastställer lönestrukturen för 2025
+2024-00774 Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen fastställer lönestrukturen för 2025
 enligt nedan:
 
 Kommunstyrelsen godkänner rapport avseende
@@ -101,16 +113,16 @@ F, H och J.
 Kommunstyrelsen godkänner rapport avseende
 lönekartläggning 2024.
 
-13\. Förändring avseende projekt i 2024-00724 Förslag till beslut i kommunstyrelsen
-lokalplan Kv Liljan skola och  Kommunstyrelsen godkänner att omfattningen på
-idrottssal                     projektet Kvarteret Liljan skola reduceras till 350
+2024-00724 Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen godkänner att omfattningen på
+projektet Kvarteret Liljan skola reduceras till 350
 elever från tidigare planerade 525 elever.
 
 Kommunstyrelsen godkänner den totala
 investeringsbudgeten om 200 miljoner kronor.
 
-14\. Principavtal avseende 2024-00842 Förslag till beslut i kommunstyrelsen
-detaljplan för Varla 2:412     Kommunstyrelsen godkänner principavtal avseende
+2024-00842 Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen godkänner principavtal avseende
 detaljplan för Varla 2:412 i Kungsbacka,
 undertecknat av Hede Fashion Outlet AB.
 

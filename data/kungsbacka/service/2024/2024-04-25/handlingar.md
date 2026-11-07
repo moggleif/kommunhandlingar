@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e91af02/1713767052
 sha256: 3dc5b41d56ee881f812045cce5a2511c4b69d1c63c39d7f1f605f30fdd2b0e59
 bytes: 3303932
 sidor: 261
-hamtad: 2026-10-23T10:28:56+00:00
-konverterad: 2026-10-23T10:29:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T12:17:31+00:00
+konverterad: 2026-11-06T12:18:20+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -4431,24 +4431,25 @@ Construction equipment/ material transports
 
 <!-- sida 98 -->
 
-Gränsvärde för byggnaders klimatpåverkan                              81
+Gränsvärde för byggnaders klimatpåverkan
 
 Vilka egna klimatmål har byggföretagen?
 30 aktörer i byggsektorn tillfrågades (varav 17 svarade) i april 2022 om
+
 sina organisationers mål för klimatpåverkan vid nyproduktion av byggna-
 der. Figur 9 nedan redovisar klimatmål för dessa aktörer som bygger fler-
 bostadshus. Figuren synliggör hur den föreslagna gränsvärdenivån för
 2025, ligger högre än de klimatmål som de olika organisationerna satt
-
 upp att gälla från 2025. Detta är samtidigt enbart målsättningar och orga-
 nisationerna valdes ut på grund av ett tidigare känt arbete inom klimat-
+
 området. Det innebär att det troligtvis finns en bias i urvalet av organisat-
 ioner med höga klimatambitioner. De utvalda organisationerna är dock
 stora i många fall, och de kan antas representera en betydande del av den
 svenska nyproduktionen i Sverige. Många av dem är dessutom offent-
-
 ligägda. Allmännyttiga bostadsbolag är ett exempel som idag står för en
 typisk nyproduktion i Sverige. Nivåerna är justerade så att de kan jämfö-
+
 ras mot förslagen i tabell 4 om ett gränsvärde för 2025.
 
 400
@@ -4475,21 +4476,29 @@ bostadshus idag. Året 2020 är baslinje.
 Endast fem av de organisationer som har antagit ett klimatmål har gjort
 någon typ av ekonomisk analys av detta, varav flera en mycket övergri-
 pande analys. Flera av de svarande påpekar att det är svårt att identifiera
-
-Boverket
 ATB/e2OC
 gk
+
+81
+
 Organisation 1 (flerbostadshus)
+
 Organisation 2 (flerbostadshus)
+
 Organisation 3 (flerbostadshus)
+
 Organisation 4 (flerbostadshus, prel
 mål. Atemp enl LFM30)
 Organisation 5 (flerbostadshus)
 Organisation 6 (flerbostadshus)
+
 Organisation 7 (flerbostadshus)
+
 Kombohus Sveriges Allmännytta
 (faktiskt värde, ej mål)
 Gränsvärde flerbostadshus, alt 2
+
+Boverket
 
 <!-- sida 99 -->
 

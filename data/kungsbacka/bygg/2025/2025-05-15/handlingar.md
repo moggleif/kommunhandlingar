@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f1be9/17471202234
 sha256: f73ad293e99b3e3dcfcbc5dbd35b4e19b740fd4813f16244cbbe9b4d4727dc71
 bytes: 1891547
 sidor: 144
-hamtad: 2026-10-23T08:08:57+00:00
-konverterad: 2026-10-23T08:09:19+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T09:51:55+00:00
+konverterad: 2026-11-06T09:52:19+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1066,42 +1066,53 @@ Författningsförslag
 
 Förslag till lag om ändring av plan- och bygglagen
 (2010:900)
-
 Enligt riksdagens beslut föreskrivs i fråga om plan- och bygglagen
 (2010:900)
+
 dels att 9 kap. 21 och 32 b – 32 d §§, 10 kap. 5, 6, 9, 14, 18, 19, 24, 25
 a, 27, 29 – 32, 34 och 35 §§, 11 kap. 1 och 36 §§, 16 kap. 9 § samt mel-
 lanrubrikerna närmast före 10 kap. 25 a § och 16 kap. 9 § ska ha följande
 lydelse,
-
 dels att det i lagen ska införas nya paragrafer, 6 a, 8 a, 13 a – 13 d, 25
 b, 25 c, 32 a, 34 a och en ny mellanrubrik närmast före 10 kap. 8 a § av
+
 följande lydelse.
 
-Nuvarande lydelse         Föreslagen lydelse
+Nuvarande lydelse        Föreslagen lydelse
 
 9 kap.
+
 21 §
 En ansökan om lov eller förhandsbesked ska vara skriftlig och innehålla de
 ritningar, beskrivningar och andra uppgifter som behövs för prövningen.
-
 En ansökan om lov ska dessutom innehålla
+
 1\. byggherrens förslag om vem eller vilka som ska vara kontrollansvariga
 enligt det som följer av 10 kap. 9 och 10 §§, och
+
 2\. de handlingar som krävs för beslut om startbesked enligt 10 kap., om
 ansökningen avser tillbyggnad eller annan ändring av ett en- eller tvåbostads-
 hus.
-Om ett certifierat byggprojekter- Om ett certifierat byggbedöm-
-ingsföretag som avses i 32 b § har ningsföretag som avses i 32 b § har
-använts för projektering och sökan- använts och sökanden önskar att
-den önskar att bygglov med stöd av bygglov med stöd av 32 c § ska ges
-32 c § ska ges utan att vissa krav ska utan att vissa krav ska prövas, ska en
-prövas, ska en ansökan om lov dess- ansökan om lov dessutom innehålla
-utom innehålla en uppgift om vilket en uppgift om vilket företag som har
-företag som har använts.  använts och ett utlåtande från företa-
+
+Om ett certifierat byggprojekter-
+ingsföretag som avses i 32 b § har
+använts för projektering och sökan-
+den önskar att bygglov med stöd av
+32 c § ska ges utan att vissa krav ska
+prövas, ska en ansökan om lov dess-
+utom innehålla en uppgift om vilket
+företag som har använts.
+
+Om ett certifierat byggbedöm-
+ningsföretag som avses i 32 b § har
+använts och sökanden önskar att
+bygglov med stöd av 32 c § ska ges
+utan att vissa krav ska prövas, ska en
+ansökan om lov dessutom innehålla
+en uppgift om vilket företag som har
+använts och ett utlåtande från företa-
 get om att kraven är uppfyllda.
 Trots andra stycket 1 behöver an-
-
 sökan, i sådana fall som avses i
 tredje stycket, inte innehålla förslag
 om kontrollansvarig. Detsamma gäl-
@@ -1119,54 +1130,105 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 9
 0 Författningsförslag
 
 32 b §
-Ett certifierat byggprojekteringsföre- Ett certifierat byggbedömningsföre-
-tag är ett företag som har ett kvali- tag är ett företag som har ett kvali-
-tetsledningssystem samt särskild sak- tetsledningssystem samt särskild sak-
-kunskap och erfarenhet i fråga om att kunskap och erfarenhet i fråga om att
-bedöma kraven i 8 kap. 1 § 1 och 3 bedöma kraven i 8 kap. 1 § 1 och 3
-samt 4 § vid nybyggnad av sådana samt 4 § vid uppförande av sådana
-bostadshus som framgår av föreskrif- nya byggnader som framgår av före-
-ter som har meddelats med stöd av skrifter som har meddelats med stöd
-16 kap. 9 § och som kan styrka detta av 16 kap. 9 § och som kan styrka
-med ett certifikat.       detta med ett certifikat.
-Frågor om certifiering av bygg- Frågor om certifiering av byggbe-
-projekteringsföretag ska prövas av dömningsföretag ska prövas av or-
-organ som har ackrediterats för ända- gan som har ackrediterats för ända-
-målet att certifiera byggprojekte- målet att certifiera byggbedömnings-
-ringsföretag enligt Europaparlamen- företag enligt Europaparlamentets
-tets och rådets förordning (EG) nr och rådets förordning (EG) nr
-765/2008 av den 9 juli 2008 om krav 765/2008 av den 9 juli 2008 om krav
-för ackreditering och upphävande av för ackreditering och upphävande av
-förordning (EEG) nr 339/93 och 5 § förordning (EEG) nr 339/93 och 5 §
-lagen (2011:791) om ackreditering lagen (2011:791) om ackreditering
-och teknisk kontroll. Detsamma gäl- och teknisk kontroll. Detsamma gäl-
-ler organ som uppfyller motsvarande ler organ som uppfyller motsvarande
-krav enligt bestämmelser i ett annat krav enligt bestämmelser i ett annat
-land inom Europeiska unionen eller land inom Europeiska unionen eller
-Europeiska ekonomiska samarbets- Europeiska ekonomiska samarbets-
-området.                  området.
+
+Ett certifierat byggprojekteringsföre-
+tag är ett företag som har ett kvali-
+tetsledningssystem samt särskild sak-
+kunskap och erfarenhet i fråga om att
+bedöma kraven i 8 kap. 1 § 1 och 3
+samt 4 § vid nybyggnad av sådana
+bostadshus som framgår av föreskrif-
+ter som har meddelats med stöd av
+16 kap. 9 § och som kan styrka detta
+med ett certifikat.
+Frågor om certifiering av bygg-
+projekteringsföretag ska prövas av
+organ som har ackrediterats för ända-
+målet att certifiera byggprojekte-
+ringsföretag enligt Europaparlamen-
+tets och rådets förordning (EG) nr
+765/2008 av den 9 juli 2008 om krav
+för ackreditering och upphävande av
+förordning (EEG) nr 339/93 och 5 §
+lagen (2011:791) om ackreditering
+och teknisk kontroll. Detsamma gäl-
+
+ler organ som uppfyller motsvarande
+krav enligt bestämmelser i ett annat
+land inom Europeiska unionen eller
+Europeiska ekonomiska samarbets-
+området.
+
+Ett certifierat byggbedömningsföre-
+tag är ett företag som har ett kvali-
+tetsledningssystem samt särskild sak-
+kunskap och erfarenhet i fråga om att
+bedöma kraven i 8 kap. 1 § 1 och 3
+samt 4 § vid uppförande av sådana
+nya byggnader som framgår av före-
+skrifter som har meddelats med stöd
+av 16 kap. 9 § och som kan styrka
+detta med ett certifikat.
+Frågor om certifiering av byggbe-
+dömningsföretag ska prövas av or-
+gan som har ackrediterats för ända-
+målet att certifiera byggbedömnings-
+företag enligt Europaparlamentets
+och rådets förordning (EG) nr
+765/2008 av den 9 juli 2008 om krav
+för ackreditering och upphävande av
+förordning (EEG) nr 339/93 och 5 §
+lagen (2011:791) om ackreditering
+och teknisk kontroll. Detsamma gäl-
+
+ler organ som uppfyller motsvarande
+krav enligt bestämmelser i ett annat
+land inom Europeiska unionen eller
+Europeiska ekonomiska samarbets-
+området.
 
 32 c §
-Om ett certifierat byggprojekterings- Om ett certifierat byggbedömningsfö-
-företag har använts för projektering retag har använts vid uppförande av
-vid nybyggnad av ett sådant bostads- en sådan ny byggnad som framgår av
-hus som framgår av föreskrifter som föreskrifter som har meddelats med
-har meddelats med stöd av 16 kap. stöd av 16 kap. 9 § 4, ska bygglov
-9 § 4, ska bygglov ges utan prövning ges utan prövning av om kraven i
-av om kraven i 8 kap. 1 § 1 och 3 är 8 kap. 1 § 1 och 3 är uppfyllda. Detta
-uppfyllda. Detta gäller trots vad som gäller trots vad som föreskrivs i 30 §
-föreskrivs i 30 § första stycket 4, första stycket 4, 31 § 3 och 31 a § 3.
+
+Om ett certifierat byggprojekterings-
+företag har använts för projektering
+vid nybyggnad av ett sådant bostads-
+hus som framgår av föreskrifter som
+har meddelats med stöd av 16 kap.
+9 § 4, ska bygglov ges utan prövning
+av om kraven i 8 kap. 1 § 1 och 3 är
+uppfyllda. Detta gäller trots vad som
+föreskrivs i 30 § första stycket 4,
 31 § 3 och 31 a § 3.
 
+Om ett certifierat byggbedömningsfö-
+retag har använts vid uppförande av
+en sådan ny byggnad som framgår av
+föreskrifter som har meddelats med
+stöd av 16 kap. 9 § 4, ska bygglov
+ges utan prövning av om kraven i
+8 kap. 1 § 1 och 3 är uppfyllda. Detta
+gäller trots vad som föreskrivs i 30 §
+första stycket 4, 31 § 3 och 31 a § 3.
+
 32 d §
-Om det är uppenbart för en bygg- Om det är uppenbart för en bygg-
-herre att ett certifierat byggprojekte- herre att ett certifierat byggbedöm-
-ringsföretag vid projekteringen har ningsföretag vid projekteringen har
-åsidosatt sina uppgifter enligt denna åsidosatt sina uppgifter enligt denna
-lag eller enligt föreskrifter som har lag eller enligt föreskrifter som har
-meddelats med stöd av 16 kap. 9 §, meddelats med stöd av 16 kap. 9 §,
-ska byggherren underrätta byggnads- ska byggherren underrätta byggnads-
-nämnden om detta.         nämnden om detta.
+
+Om det är uppenbart för en bygg-
+herre att ett certifierat byggprojekte-
+ringsföretag vid projekteringen har
+åsidosatt sina uppgifter enligt denna
+lag eller enligt föreskrifter som har
+meddelats med stöd av 16 kap. 9 §,
+ska byggherren underrätta byggnads-
+nämnden om detta.
+
+Om det är uppenbart för en bygg-
+herre att ett certifierat byggbedöm-
+ningsföretag vid projekteringen har
+åsidosatt sina uppgifter enligt denna
+lag eller enligt föreskrifter som har
+meddelats med stöd av 16 kap. 9 §,
+ska byggherren underrätta byggnads-
+nämnden om detta.
 
 Boverket
 
@@ -1176,49 +1238,81 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 10
 0 Författningsförslag
 
 10 kap.
+
 5 §
+
 Byggherren ska se till att varje bygg-, Byggherren ska se till att varje bygg-,
 rivnings- och markåtgärd som bygg- rivnings- och markåtgärd som bygg-
 herren utför eller låter utföra genom- herren utför eller låter utföra genom-
-förs i enlighet med de krav som gäl- förs i enlighet med de krav som gäl-
-ler för åtgärden enligt denna lag eller ler för åtgärden enligt denna lag eller
-föreskrifter eller beslut som har med- föreskrifter eller beslut som har med-
-delats med stöd av lagen. Om åtgär- delats med stöd av lagen.
-den är lov- eller anmälningspliktig, Om åtgärden är lov- eller anmäl-
 
-ska byggherren se till att den kon- ningspliktig, ska byggherren se till
-trolleras enligt den kontrollplan som att den kontrolleras enligt den kon-
-byggnadsnämnden fastställer i start- trollplan som byggnadsnämnden
-beskedet.                 fastställer i startbeskedet.
+förs i enlighet med de krav som gäl-
+ler för åtgärden enligt denna lag eller
+föreskrifter eller beslut som har med-
+delats med stöd av lagen. Om åtgär-
+den är lov- eller anmälningspliktig,
+ska byggherren se till att den kon-
+trolleras enligt den kontrollplan som
+byggnadsnämnden fastställer i start-
+beskedet.
+
+förs i enlighet med de krav som gäl-
+ler för åtgärden enligt denna lag eller
+föreskrifter eller beslut som har med-
+delats med stöd av lagen.
+Om åtgärden är lov- eller anmäl-
+ningspliktig, ska byggherren se till
+att den kontrolleras enligt den kon-
+trollplan som byggnadsnämnden
+fastställer i startbeskedet.
+
 Andra stycket gäller inte om ett
 certifierat byggbedömningsföretag
 har använts.
 
 6 §
-Byggherren ska se till att det finns en Byggherren ska se till att det finns en
-plan för kontrollen av en bygg- eller plan för kontrollen av en byggåtgärd
-rivningsåtgärd som avses i 3 § (kont- som avses i 3 § (kontrollplan) med
-rollplan) med uppgifter om uppgifter om
-1\. vilka kontroller som ska göras 1. vilka kontroller som ska göras
-och vad kontrollerna ska avse, och vad kontrollerna ska avse,
-2\. vem som ska göra kontrollerna, 2. vem som ska göra kontrollerna,
-3\. vilka anmälningar som ska gö- 3. vilka anmälningar som ska gö-
-ras till byggnadsnämnden, ras till byggnadsnämnden, och
 
-4\. vilka arbetsplatsbesök som 4. vilka arbetsplatsbesök som
-byggnadsnämnden bör göra och när byggnadsnämnden bör göra och när
-besöken bör ske,          besöken bör ske.
-5\. vilka byggprodukter som kan Första stycket gäller inte om ett
-återanvändas och hur dessa ska tas certifierat byggbedömningsföretag
-om hand, och              har använts.
+Byggherren ska se till att det finns en
+plan för kontrollen av en bygg- eller
+rivningsåtgärd som avses i 3 § (kont-
+rollplan) med uppgifter om
+1\. vilka kontroller som ska göras
+och vad kontrollerna ska avse,
+2\. vem som ska göra kontrollerna,
+
+3\. vilka anmälningar som ska gö-
+ras till byggnadsnämnden,
+4\. vilka arbetsplatsbesök som
+byggnadsnämnden bör göra och när
+besöken bör ske,
+5\. vilka byggprodukter som kan
+återanvändas och hur dessa ska tas
+om hand, och
 6\. vilket avfall som åtgärden kan
 ge upphov till och hur avfallet ska tas
 om hand, särskilt hur man avser att
 möjliggöra
 a) materialåtervinning av hög
 kvalitet, och
+
 b) avlägsnande och säker hante-
 ring av farliga ämnen.
+
+Byggherren ska se till att det finns en
+plan för kontrollen av en byggåtgärd
+som avses i 3 § (kontrollplan) med
+uppgifter om
+1\. vilka kontroller som ska göras
+och vad kontrollerna ska avse,
+2\. vem som ska göra kontrollerna,
+
+3\. vilka anmälningar som ska gö-
+ras till byggnadsnämnden, och
+4\. vilka arbetsplatsbesök som
+byggnadsnämnden bör göra och när
+besöken bör ske.
+Första stycket gäller inte om ett
+certifierat byggbedömningsföretag
+har använts.
 
 Boverket
 
@@ -1275,37 +1369,70 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 12
 0 Författningsförslag
 
 9 §
-För den kontroll som avses i 5 § ska För den kontroll som avses i 5 §
-det finnas en eller flera kontrollan- andra stycket ska det finnas en eller
-svariga som               flera kontrollansvariga som
-1\. har den kunskap, erfarenhet och 1. har den kunskap, erfarenhet och
-lämplighet som behövs för uppgiften lämplighet som behövs för upp-gif-
-och kan styrka detta med ett bevis ten och kan styrka detta med ett bevis
-om certifiering, och      om certifiering, och
-2\. har en självständig ställning i 2. har en självständig ställning i
-förhållande till den som utför den åt- förhållande till den som utför den åt-
 
-gärd som ska kontrolleras. gärd som ska kontrolleras.
-Om det finns flera kontrollansva- Om det finns flera kontrollansva-
-riga, ska byggherren se till att någon riga, ska byggherren se till att någon
-av dem samordnar de kontrollansva- av dem samordnar de kontrollansva-
-rigas uppgifter.          rigas uppgifter.
-Den certifiering som avses i första Den certifiering som avses i första
-stycket 1 ska vara gjord av någon stycket 1 ska vara gjord av någon
-som har ackrediterats för detta ända- som har ackrediterats för detta ända-
-mål enligt Europaparlamentets och mål enligt Europaparlamentets och
-rådets förordning (EG) nr 765/2008 rådets förordning (EG) nr 765/2008
-av den 9 juli 2008 om krav för ackre- av den 9 juli 2008 om krav för ackre-
-ditering och upphävande av förord- ditering och upphävande av förord-
-ning (EEG) nr 339/93 och 5 § lagen ning (EEG) nr 339/93 och 5 § lagen
-(2011:791) om ackreditering och tek- (2011:791) om ackreditering och tek-
-nisk kontroll eller av någon som upp- nisk kontroll eller av någon som upp-
-fyller motsvarande krav enligt be- fyller mot-svarande krav enligt be-
-stämmelser i ett annat land inom stämmelser i ett annat land inom
-Europeiska unionen eller Europeiska Europeiska unionen eller Europeiska
-ekonomiska samarbetsområdet. Cer- ekonomiska samarbetsområdet. Cer-
-tifieringen ska vara tidsbegränsad tifieringen ska vara tidsbegränsad
-och avse ett visst slag av arbete. och avse ett visst slag av arbete.
+För den kontroll som avses i 5 § ska
+det finnas en eller flera kontrollan-
+svariga som
+1\. har den kunskap, erfarenhet och
+lämplighet som behövs för uppgiften
+och kan styrka detta med ett bevis
+om certifiering, och
+2\. har en självständig ställning i
+förhållande till den som utför den åt-
+gärd som ska kontrolleras.
+
+Om det finns flera kontrollansva-
+riga, ska byggherren se till att någon
+av dem samordnar de kontrollansva-
+rigas uppgifter.
+Den certifiering som avses i första
+stycket 1 ska vara gjord av någon
+som har ackrediterats för detta ända-
+mål enligt Europaparlamentets och
+rådets förordning (EG) nr 765/2008
+av den 9 juli 2008 om krav för ackre-
+ditering och upphävande av förord-
+ning (EEG) nr 339/93 och 5 § lagen
+(2011:791) om ackreditering och tek-
+nisk kontroll eller av någon som upp-
+fyller motsvarande krav enligt be-
+stämmelser i ett annat land inom
+Europeiska unionen eller Europeiska
+ekonomiska samarbetsområdet. Cer-
+tifieringen ska vara tidsbegränsad
+och avse ett visst slag av arbete.
+
+För den kontroll som avses i 5 §
+andra stycket ska det finnas en eller
+flera kontrollansvariga som
+1\. har den kunskap, erfarenhet och
+lämplighet som behövs för upp-gif-
+ten och kan styrka detta med ett bevis
+om certifiering, och
+2\. har en självständig ställning i
+förhållande till den som utför den åt-
+gärd som ska kontrolleras.
+
+Om det finns flera kontrollansva-
+riga, ska byggherren se till att någon
+av dem samordnar de kontrollansva-
+rigas uppgifter.
+Den certifiering som avses i första
+stycket 1 ska vara gjord av någon
+som har ackrediterats för detta ända-
+mål enligt Europaparlamentets och
+rådets förordning (EG) nr 765/2008
+av den 9 juli 2008 om krav för ackre-
+ditering och upphävande av förord-
+ning (EEG) nr 339/93 och 5 § lagen
+(2011:791) om ackreditering och tek-
+nisk kontroll eller av någon som upp-
+fyller mot-svarande krav enligt be-
+stämmelser i ett annat land inom
+Europeiska unionen eller Europeiska
+ekonomiska samarbetsområdet. Cer-
+tifieringen ska vara tidsbegränsad
+och avse ett visst slag av arbete.
 Om ett certifierat byggbedöm-
 ningsföretag har anlitats tillämpas
 inte första stycket. I stället tillämpas
@@ -1366,40 +1493,68 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 14
 0 Författningsförslag
 
 14 §
+
 I fråga om sådana åtgärder som avses I fråga om sådana åtgärder som avses
 i 3 § ska byggnadsnämnden utan i 3 § ska byggnadsnämnden utan
 dröjsmål efter att lov har getts eller dröjsmål efter att lov har getts eller
 anmälan har kommit in kalla till ett anmälan har kommit in kalla till ett
 sammanträde för tekniskt samråd, om sammanträde för tekniskt samråd, om
-1\. det krävs en kontrollansvarig 1. det krävs en kontrollansvarig
-enligt det som följer av 9 och 10 §§, enligt det som följer av 9 och 10 §§,
-2\. ett sådant samråd inte är uppen- 2. ett sådant samråd inte är uppen-
-bart obehövligt, eller    bart obehövligt, eller
 
-3\. byggherren har begärt ett så- 3. byggherren har begärt ett så-
-dant samråd.              dant samråd.
-Tekniskt samråd behövs inte för Tekniskt samråd behövs inte för
-sådana åtgärder som avses i 9 kap. 4 sådana åtgärder som avses i 9 kap. 4
-a-4 c §§ eller för flyttning av en en- a-4 c §§ eller för flyttning av en en-
-staka enkel byggnad, om byggnads- staka enkel byggnad, om byggnads-
-nämnden inte beslutar annat. Bygg- nämnden inte beslutar annat. Bygg-
-nadsnämnden får besluta att tekniskt nadsnämnden får besluta att tekniskt
-samråd inte behövs för att flytta flera samråd inte behövs för att flytta flera
-enkla byggnader.          enkla byggnader.
-En kallelse enligt första stycket En kallelse enligt första stycket
-ska vara skriftlig och skickas till ska vara skriftlig och skickas till
-byggherren och den eller dem som är byggherren och den eller dem som är
-kontrollansvariga. Kallelsen ska kontrollansvariga. Kallelsen ska
-också skickas till dem i övrigt som också skickas till dem i övrigt som
-enligt detta kapitel ska ges tillfälle att enligt detta kapitel ska ges tillfälle att
-delta i samrådet eller som enligt delta i samrådet eller som enligt
-byggnadsnämndens bedömning bör byggnadsnämndens bedömning bör
-ges tillfälle att delta.  ges tillfälle att delta.
+1\. det krävs en kontrollansvarig
+enligt det som följer av 9 och 10 §§,
+2\. ett sådant samråd inte är uppen-
+bart obehövligt, eller
+3\. byggherren har begärt ett så-
+dant samråd.
+
+1\. det krävs en kontrollansvarig
+enligt det som följer av 9 och 10 §§,
+2\. ett sådant samråd inte är uppen-
+bart obehövligt, eller
+3\. byggherren har begärt ett så-
+dant samråd.
+
+Tekniskt samråd behövs inte för
+sådana åtgärder som avses i 9 kap. 4
+a-4 c §§ eller för flyttning av en en-
+staka enkel byggnad, om byggnads-
+nämnden inte beslutar annat. Bygg-
+nadsnämnden får besluta att tekniskt
+samråd inte behövs för att flytta flera
+enkla byggnader.
+En kallelse enligt första stycket
+ska vara skriftlig och skickas till
+byggherren och den eller dem som är
+kontrollansvariga. Kallelsen ska
+också skickas till dem i övrigt som
+enligt detta kapitel ska ges tillfälle att
+delta i samrådet eller som enligt
+byggnadsnämndens bedömning bör
+ges tillfälle att delta.
+
+Tekniskt samråd behövs inte för
+sådana åtgärder som avses i 9 kap. 4
+a-4 c §§ eller för flyttning av en en-
+staka enkel byggnad, om byggnads-
+nämnden inte beslutar annat. Bygg-
+nadsnämnden får besluta att tekniskt
+samråd inte behövs för att flytta flera
+enkla byggnader.
+En kallelse enligt första stycket
+ska vara skriftlig och skickas till
+byggherren och den eller dem som är
+kontrollansvariga. Kallelsen ska
+också skickas till dem i övrigt som
+enligt detta kapitel ska ges tillfälle att
+delta i samrådet eller som enligt
+byggnadsnämndens bedömning bör
+ges tillfälle att delta.
+
 Om ett certifierat byggbedöm-
 ningsföretag har använts tillämpas
 inte första–tredje styckena. I stället
-
 tillämpas 25 b §.
+
 18 §
 Byggherren ska senast vid det tekniska samrådet till byggnadsnämnden
 lämna
@@ -1483,45 +1638,57 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 16
 Särskilda bestämmelser för det fall Särskilda bestämmelser för det fall
 ett certifierat byggprojekteringsfö- ett certifierat byggbedömningsföre-
 retag har använts för projektering tag har använts
+
 25 a §
 
-Om ett certifierat byggprojekterings- Om ett certifierat byggbedömningsfö-
-företag som avses i 9 kap. 32 b § har retag som avses i 9 kap. 32 b § har
-använts för projektering vid nybygg- använts vid nybyggnad av en sådan
-nad av ett sådant bostadshus som ny byggnad som framgår av före-
-framgår av föreskrifter som har med- skrifter som har meddelats med stöd
-delats med stöd av 16 kap. 9 § 4, ska av 16 kap. 9 § 4, ska startbesked ges
-startbesked ges utan prövning av om utan prövning av om kraven i 8 kap.
-kraven i 8 kap. 1 § 1 och 3 samt 4 § 1 § 1 och 3 samt 4 § är uppfyllda.
-är uppfyllda. Detta gäller trots vad Detta gäller trots vad som föreskrivs
-som föreskrivs i 23 § första stycket 1. i 23 § första stycket 1.
-25 b §
+Om ett certifierat byggprojekterings-
+företag som avses i 9 kap. 32 b § har
+använts för projektering vid nybygg-
+nad av ett sådant bostadshus som
+framgår av föreskrifter som har med-
+delats med stöd av 16 kap. 9 § 4, ska
+startbesked ges utan prövning av om
+kraven i 8 kap. 1 § 1 och 3 samt 4 §
+är uppfyllda. Detta gäller trots vad
 
+Om ett certifierat byggbedömningsfö-
+retag som avses i 9 kap. 32 b § har
+använts vid nybyggnad av en sådan
+ny byggnad som framgår av före-
+skrifter som har meddelats med stöd
+av 16 kap. 9 § 4, ska startbesked ges
+utan prövning av om kraven i 8 kap.
+1 § 1 och 3 samt 4 § är uppfyllda.
+Detta gäller trots vad som föreskrivs
+
+som föreskrivs i 23 § första stycket 1. i 23 § första stycket 1.
+
+25 b §
 Om ett certifierat byggbedömningsfö-
 retag har använts ska byggnads-
 nämnden utan dröjsmål efter att lov
 har getts eller anmälan har kommit
 in kalla till ett sammanträde för tek-
 niskt samråd.
+
 Vid det tekniska samrådet ska
 man gå igenom
 1\. vilket certifierat byggbedöm-
 ningsföretag som har använts,
 2\. arbetets planering och organi-
 sation,
-
 3\. hur identifieringen av avfall
 och återanvändbara byggprodukter
 har gjorts,
 4\. behovet av ett färdigställande-
 skydd,
+
 5\. behovet av utstakning,
 6\. byggnadsnämndens behov av
 ytterligare handlingar inför beslut
 om startbesked, och
 7\. behovet av ytterligare samman-
 träden.
-
 Om byggnadsnämnden anser det
 lämpligt får det tekniska samrådet
 enligt första stycket ersättas av en
@@ -1594,33 +1761,43 @@ Boverket
 Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 18
 0 Författningsförslag
 
-31 §
-En kallelse enligt 30 § ska vara En kallelse enligt 30 § ska vara
-skriftlig och skickas till skriftlig och skickas till
-1\. byggherren,            1. byggherren,
-2\. den eller de kontrollansvariga, 2. den eller de kontrollansvariga,
-och                       och
+En kallelse enligt 30 § ska vara
+skriftlig och skickas till
+1\. byggherren,
+2\. den eller de kontrollansvariga,
+och
 
-3\. övriga som enligt byggnads- 3. övriga som enligt byggnads-
-nämnden bör ges tillfälle att delta. nämnden bör ges tillfälle att delta.
+3\. övriga som enligt byggnads-
+nämnden bör ges tillfälle att delta.
+
+31 §
+En kallelse enligt 30 § ska vara
+skriftlig och skickas till
+
+1\. byggherren,
+2\. den eller de kontrollansvariga,
+och
+3\. övriga som enligt byggnads-
+nämnden bör ges tillfälle att delta.
 Om ett certifierat byggbedöm-
 ningsföretag har använts ska det an-
 vända företaget kallas, i stället för
 den eller de kontrollansvariga som
 avses i första stycket 2.
-32 §
 
+32 §
 Slutsamrådet ska normalt hållas på den plats där byggåtgärderna har genom-
 förts. Vid slutsamrådet ska följande gås igenom:
+
 1\. hur kontrollplanen, andra villkor i startbeskedet och kompletterande
 villkor har följts,
 2\. avvikelser från de krav som gäller för åtgärderna,
 3\. den kontrollansvariges utlåtande enligt 11 § 6,
-
 4\. den kontrollansvariges och byggnadsnämndens dokumentation över be-
 sök på byggarbetsplatsen och annan dokumentation över arbetets utförande,
 5\. behov av andra åtgärder, och
 6\. förutsättningarna för ett slutbesked.
+
 Om ett certifierat byggbedöm-
 ningsföretag har använts tillämpas
 inte första stycket. I stället tillämpas
@@ -1735,20 +1912,20 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 21
 11 kap.
 1 §
 Detta kapitel innehåller bestämmelser om
+
 1\. tillsynen allmänt, möjlighet att få ett ingripandebesked samt skyldighet
 att ge tillträde och lämna upplysningar för tillsynen,
 2\. tillsynen över kommunala beslut,
-
 3\. förelägganden som behövs för att regler, domar och beslut ska följas,
 4\. genomförande på den försumliges bekostnad och förbud mot fortsatt ar-
 bete eller användning av byggnadsverk,
 5\. ingripanden mot kontrollanter, 5. ingripanden mot kontrollanter,
 certifierade byggprojekteringsföretag certifierade byggbedömningsföretag
-och kontrollansvariga,    och kontrollansvariga,
+och kontrollansvariga,   och kontrollansvariga,
 6\. att förelägganden och förbud får förenas med vite eller ska genomföras
 omedelbart,
-7\. handräckning,
 
+7\. handräckning,
 8\. anteckningar av förelägganden och förbud i fastighetsregistret samt ver-
 kan av förelägganden och förbud vid ägarbyte,
 9\. byggsanktionsavgifter,
@@ -1759,31 +1936,40 @@ kan av förelägganden och förbud vid ägarbyte,
 Byte av och ingripanden mot Byte av och ingripanden mot
 funktionskontrollant, certifierat funktionskontrollant, certifierat
 byggprojekteringsföretag eller kont- byggbedömningsföretag eller kont-
-rollansvarig              rollansvarig
-36 §
+rollansvarig             rollansvarig
 
+36 §
 Om en kontrollansvarig har visat sig Om en kontrollansvarig har visat sig
 vara olämplig för sin uppgift, får den vara olämplig för sin uppgift, får den
 som har certifierat den kontrollansva- som har certifierat den kontrollansva-
 rige återkalla certifieringen. Motsva- rige återkalla certifieringen. Motsva-
 rande gäller i fråga om ett certifierat rande gäller i fråga om ett certifierat
-byggprojekteringsföretag  byggbedömningsföretag
-16 kap.
+byggprojekteringsföretag byggbedömningsföretag
 
+16 kap.
 Föreskrifter om funktionskontrol- Föreskrifter om funktionskontrol-
 lanter, certifierade byggprojekte- lanter, certifierade byggbedöm-
 ringsföretag, kontrollansvariga och ningsföretag, kontrollansvariga och
-sakkunniga                sakkunniga
-9 §
-Regeringen eller den myndighet som regeringen bestämmer får meddela
+sakkunniga               sakkunniga
 
+9 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela
 1\. föreskrifter om funktionskontrollanter enligt 8 kap. 25 §,
-2\. föreskrifter om vad som i fråga 2. föreskrifter om vad som i fråga
-om kunskap, erfarenhet och certifier- om kunskap, erfarenhet och certifier-
-ing krävs av sådana byggprojekte- ing krävs av sådana byggbedöm-
-ringsföretag, kontrollansvariga och ningsföretag, kontrollansvariga och
-sakkunniga som avses i 9 kap. 32 b § sakkunniga som avses i 9 kap. 32 b §
-och 10 kap.,              och 10 kap.,
+
+2\. föreskrifter om vad som i fråga
+om kunskap, erfarenhet och certifier-
+ing krävs av sådana byggprojekte-
+ringsföretag, kontrollansvariga och
+sakkunniga som avses i 9 kap. 32 b §
+och 10 kap.,
+
+2\. föreskrifter om vad som i fråga
+om kunskap, erfarenhet och certifier-
+ing krävs av sådana byggbedöm-
+ningsföretag, kontrollansvariga och
+sakkunniga som avses i 9 kap. 32 b §
+och 10 kap.,
 
 Boverket
 
@@ -1815,26 +2001,38 @@ Uppdrag att utveckla reformen med certifierade byggprojekteringsföretag 23
 0 Författningsförslag
 
 Förslag till förordning om ändring av plan- och
-
 byggförordningen (2011:338)
+
 Härigenom föreskrivs i fråga om plan- och byggförordningen
 (2011:338) att 10 kap. 23 § ska ha följande lydelse.
 
-Nuvarande lydelse         Föreslagen lydelse
+Nuvarande lydelse        Föreslagen lydelse
 
 10 kap.
-23 §
-Boverket får meddela      Boverket får meddela
 
-1\. de föreskrifter om funktions- 1. de föreskrifter om funktions-
-kontrollanter, certifierade byggpro- kontrollanter, certifierade byggbe-
-jekteringsföretag, kontrollansvariga dömningsföretag, kontrollansvariga
-och sakkunniga som behövs för till- och sakkunniga som behövs för till-
-lämpningen av 7 kap. 2–4 §§, och lämpningen av 7 kap. 2–4 §§, och
-2\. föreskrifter om vilka bostads- 2. föreskrifter om vilka nya bygg-
-hus som ska omfattas av 9 kap. 32 b nader som ska omfattas av 9 kap.
-och 32 c §§ och 10 kap. 25 a § plan- 32 b och 32 c §§ och 10 kap. 25 a §
-och bygglagen (2010:900). plan- och bygglagen (2010:900),
+Boverket får meddela
+1\. de föreskrifter om funktions-
+kontrollanter, certifierade byggpro-
+jekteringsföretag, kontrollansvariga
+och sakkunniga som behövs för till-
+lämpningen av 7 kap. 2–4 §§, och
+2\. föreskrifter om vilka bostads-
+hus som ska omfattas av 9 kap. 32 b
+och 32 c §§ och 10 kap. 25 a § plan-
+och bygglagen (2010:900).
+
+23 §
+Boverket får meddela
+1\. de föreskrifter om funktions-
+kontrollanter, certifierade byggbe-
+dömningsföretag, kontrollansvariga
+och sakkunniga som behövs för till-
+lämpningen av 7 kap. 2–4 §§, och
+
+2\. föreskrifter om vilka nya bygg-
+nader som ska omfattas av 9 kap.
+32 b och 32 c §§ och 10 kap. 25 a §
+plan- och bygglagen (2010:900),
 3\. föreskrifter om vad som krävs
 av sådana certifieringsorgan som ut-
 färdar certifiering för certifierade

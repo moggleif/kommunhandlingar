@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.29b6b674197348ce3476502d/1749132508
 sha256: 0f098f071a779d612c789530e4ea4a9644e5a10ee9a152ca87812b5b02110514
 bytes: 4491786
 sidor: 87
-hamtad: 2026-10-24T06:05:59+00:00
-konverterad: 2026-10-24T06:06:11+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T20:12:34+00:00
+konverterad: 2026-11-06T20:12:48+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3304,239 +3304,337 @@ och för folkbiblioteken.
 Bilaga 1 - Ordlista
 
 Breddat deltagande
-– att göra kulturella aktiviteter och uttryck Kunskapsförmedling
-tillgängliga för en bredare publik, inklusive - Processen att överföra kunskap och information
-människor från olika bakgrunder och till andra.
+– att göra kulturella aktiviteter och uttryck
+tillgängliga för en bredare publik, inklusive
+människor från olika bakgrunder och
 samhällsskikt.
-Medborgarforskning
-Civila samhället                - Forskningsprojekt där vanliga medborgare deltar
-– en arena, skild från staten, marknaden och det i forskningen tillsammans med professionella
-enskilda hushållet, där människor organiserar sig forskare.
+Civila samhället
+– en arena, skild från staten, marknaden och det
+enskilda hushållet, där människor organiserar sig
 och agerar tillsammans i gemensamma intressen.
-Medie- och informationskunnighet (MIK)
-Demokratiska arenor             – ett samlingsnamn för kunskaper som är
-– mötesplatser, institutioner eller nödvändiga för att kunna ta till sig tillförlitlig
-diskussionsforum där demokratiska principer och information, bilda åsikter och göra sin röst hörd.
+
+Demokratiska arenor
+– mötesplatser, institutioner eller
+diskussionsforum där demokratiska principer och
 värden främjas och utövas.
-Meröppet
-Digitalt utanförskap            - Bibliotek öppna för besökare utan personal
-– brist på tillgång till och förmåga att använda närvarande, ofta utanför ordinarie öppettider.
+Digitalt utanförskap
+– brist på tillgång till och förmåga att använda
 digitala verktyg och resurser.
-Nationella minoriteter
-Fri åsiktsbildning              – En grupp med religiös, språklig, traditionell eller
-\- Rätten att fritt uttrycka och bilda egna åsikter kulturell tillhörighet som har långvariga band till
-utan censur eller begränsningar. Sverige men inte har dominerande ställning i
-samhället. Sveriges nationella minoriteter är judar,
-Hållbar tillväxt                romer, sverigefinnar, tornedalingar och urfolket
-– en utveckling som uppfyller dagens behov utan samerna. De nationella minoritetsspråken är
-att äventyra kommande generationers möjligheter jiddisch, romani chib, finska, meänkieli och
-att tillgodose sina behov.      samiska samt varieteter på dessa.
-Konstnärlig frihet              Open access
-– en grundlagsskyddad rättighet som innebär att - Fri tillgång till forskningspublikationer online.
+
+Fri åsiktsbildning
+\- Rätten att fritt uttrycka och bilda egna åsikter
+utan censur eller begränsningar.
+
+Hållbar tillväxt
+– en utveckling som uppfyller dagens behov utan
+att äventyra kommande generationers möjligheter
+att tillgodose sina behov.
+Konstnärlig frihet
+– en grundlagsskyddad rättighet som innebär att
 kulturskapare har rätt att uttrycka sig fritt utan
-rädsla för censur eller ingripande från Publikarbete
-myndigheter.                    – insatser för att locka och engagera publik i
-kulturella evenemang och aktiviteter.
+rädsla för censur eller ingripande från
+myndigheter.
 Konstnärligt skapande
-– processen att skapa konstverk eller kulturella Regionsamverkan Sydsverige
-uttryck genom kreativitet och tekniska färdigheter. – ett samarbete mellan Sveriges sex sydligaste
-regioner; Region Blekinge, Region Halland,
-Kulturell mångfald              Region Jönköpings län, Region Kalmar län,
-– de många olika former genom vilka grupper och Region Kronoberg och Region Skåne.
+– processen att skapa konstverk eller kulturella
+uttryck genom kreativitet och tekniska färdigheter.
+
+Kulturell mångfald
+– de många olika former genom vilka grupper och
 samhällen uttrycker sin kultur. Dessa yttringar
-sprids inom grupper och samhällen och mellan Uppsökande verksamhet
-dem.                            – att kulturverksamheter tar sig till invånarna i
-stället för att invånarna ska ta sig till dem.
+sprids inom grupper och samhällen och mellan
+dem.
 Kulturinstitution
-– verksamhet som utgör en stabil bas för såväl UX (User Experience)
-kontinuitet som konstnärlig förnyelse inom - Användarupplevelse, hur användare interagerar
-kulturlivet. I biblioteksplanen åsyftas institutioner med och upplever en produkt eller tjänst.
+– verksamhet som utgör en stabil bas för såväl
+kontinuitet som konstnärlig förnyelse inom
+kulturlivet. I biblioteksplanen åsyftas institutioner
 som drivs av en offentlig huvudman.
+
+Kunskapsförmedling
+\- Processen att överföra kunskap och information
+till andra.
+
+Medborgarforskning
+\- Forskningsprojekt där vanliga medborgare deltar
+i forskningen tillsammans med professionella
+forskare.
+Medie- och informationskunnighet (MIK)
+– ett samlingsnamn för kunskaper som är
+nödvändiga för att kunna ta till sig tillförlitlig
+information, bilda åsikter och göra sin röst hörd.
+Meröppet
+\- Bibliotek öppna för besökare utan personal
+närvarande, ofta utanför ordinarie öppettider.
+
+Nationella minoriteter
+– En grupp med religiös, språklig, traditionell eller
+kulturell tillhörighet som har långvariga band till
+Sverige men inte har dominerande ställning i
+samhället. Sveriges nationella minoriteter är judar,
+romer, sverigefinnar, tornedalingar och urfolket
+samerna. De nationella minoritetsspråken är
+jiddisch, romani chib, finska, meänkieli och
+samiska samt varieteter på dessa.
+Open access
+\- Fri tillgång till forskningspublikationer online.
+
+Publikarbete
+– insatser för att locka och engagera publik i
+kulturella evenemang och aktiviteter.
+Regionsamverkan Sydsverige
+– ett samarbete mellan Sveriges sex sydligaste
+regioner; Region Blekinge, Region Halland,
+Region Jönköpings län, Region Kalmar län,
+Region Kronoberg och Region Skåne.
+
+Uppsökande verksamhet
+– att kulturverksamheter tar sig till invånarna i
+stället för att invånarna ska ta sig till dem.
+UX (User Experience)
+\- Användarupplevelse, hur användare interagerar
+med och upplever en produkt eller tjänst.
+
 Öppen vetenskap
 \- Forskning och vetenskaplig publicering som är
 tillgänglig för allmänheten utan hinder.
+
 18
 
 <!-- sida 75 -->
 
 Bilaga 2 – Bibliotekslagen, annan lagstiftning och nationella
 kulturpolitiska mål
-Om ett kommunalt eller statligt bibliotek drivs av
+
 Bibliotekslagen (2013:801)
-någon annan än huvudmannen ansvarar
-huvudmannen för att den som driver biblioteket
+
 Tillämpningsområde
-följer bestämmelserna i denna lag. Lag (2019:961).
 1 § I denna lag finns bestämmelser om det
-Prioriterade grupper
 allmänna biblioteksväsendet. Det allmänna
 biblioteksväsendet består av all offentligt
-4 § Biblioteken i det allmänna biblioteksväsendet
 finansierad biblioteksverksamhet och utgörs av:
-ska ägna särskild uppmärksamhet åt personer med
-funktionsnedsättning, bland annat genom att
+
 1\. folkbibliotek,
-utifrån deras olika behov och förutsättningar
 2\. skolbibliotek,
-erbjuda litteratur och tekniska hjälpmedel för att
 3\. regional biblioteksverksamhet,
-kunna ta del av information.
 4\. högskolebibliotek,
 5\. lånecentraler, och
-5 § Biblioteken i det allmänna biblioteksväsendet
 6\. övrig offentligt finansierad
-ska ägna särskild uppmärksamhet åt de nationella
 biblioteksverksamhet.
-minoriteterna och personer som har annat
-modersmål än svenska, bland annat genom att
 Ändamål
-erbjuda litteratur på
 2 § Biblioteken i det allmänna biblioteksväsendet
-1\. de nationella minoritetsspråken,
 ska verka för det demokratiska samhällets
-2\. andra språk än de nationella
 utveckling genom att bidra till
-minoritetsspråken och svenska, och
 kunskapsförmedling och fri åsiktsbildning.
-3\. lättläst svenska.
 Biblioteken i det allmänna biblioteksväsendet ska
-Folkbibliotek
 främja litteraturens ställning och intresset för
 bildning, upplysning, utbildning och forskning
-6 § Varje kommun ska ha folkbibliotek.
 samt kulturell verksamhet i övrigt.
-Folkbiblioteken ska vara tillgängliga för alla och
 Biblioteksverksamhet ska finnas tillgänglig för
-anpassade till användarnas behov.
 alla.
-Folkbibliotekens utbud av medier och tjänster ska
+
 Ansvarsfördelning
-präglas av allsidighet och kvalitet.
 3 § Bibliotekshuvudmän är kommunerna,
-7 § Folkbiblioteken ska särskilt främja läsning
 regionerna, staten och, i fråga om vissa skolor,
-och tillgång till litteratur.
 enskilda.
-Folkbiblioteken ska verka för att öka kunskapen
+
 1\. För folkbibliotek ansvarar kommunerna.
-om hur informationsteknik kan användas för
 2\. För skolbibliotek ansvarar kommuner,
-kunskapsinhämtning, lärande och delaktighet i
 regioner, staten eller enskilda huvudmän i
-kulturlivet.
 enlighet med bestämmelserna i 2 kap.
-skollagen (2010:800).        8 § Folkbiblioteken ska ägna särskild
-3\. För regional biblioteksverksamhet ansvarar uppmärksamhet åt barn och ungdomar för att
-regionerna och de kommuner som inte ingår främja deras språkutveckling och stimulera till
-i en region.                 läsning, bland annat genom att erbjuda litteratur
-4\. För högskolebibliotek vid universitet och utifrån deras behov och förutsättningar.
+skollagen (2010:800).
+3\. För regional biblioteksverksamhet ansvarar
+regionerna och de kommuner som inte ingår
+i en region.
+4\. För högskolebibliotek vid universitet och
 högskolor som omfattas av högskolelagen
-(1992:1434) ansvarar staten. 9 § På folkbiblioteken ska allmänheten
-5\. För lånecentraler ansvarar staten. avgiftsfritt få låna eller på annat sätt få tillgång till
-6\. För övrig offentligt finansierad litteratur under en viss tid oavsett
-biblioteksverksamhet ansvarar den som publiceringsform.
+(1992:1434) ansvarar staten.
+5\. För lånecentraler ansvarar staten.
+6\. För övrig offentligt finansierad
+biblioteksverksamhet ansvarar den som
 enligt särskilda bestämmelser är huvudman
 för verksamheten.
+
+Om ett kommunalt eller statligt bibliotek drivs av
+någon annan än huvudmannen ansvarar
+huvudmannen för att den som driver biblioteket
+följer bestämmelserna i denna lag. Lag (2019:961).
+Prioriterade grupper
+
+4 § Biblioteken i det allmänna biblioteksväsendet
+ska ägna särskild uppmärksamhet åt personer med
+funktionsnedsättning, bland annat genom att
+utifrån deras olika behov och förutsättningar
+erbjuda litteratur och tekniska hjälpmedel för att
+kunna ta del av information.
+5 § Biblioteken i det allmänna biblioteksväsendet
+ska ägna särskild uppmärksamhet åt de nationella
+minoriteterna och personer som har annat
+modersmål än svenska, bland annat genom att
+erbjuda litteratur på
+1\. de nationella minoritetsspråken,
+2\. andra språk än de nationella
+minoritetsspråken och svenska, och
+3\. lättläst svenska.
+
+Folkbibliotek
+6 § Varje kommun ska ha folkbibliotek.
+Folkbiblioteken ska vara tillgängliga för alla och
+anpassade till användarnas behov.
+
+Folkbibliotekens utbud av medier och tjänster ska
+präglas av allsidighet och kvalitet.
+7 § Folkbiblioteken ska särskilt främja läsning
+och tillgång till litteratur.
+
+Folkbiblioteken ska verka för att öka kunskapen
+om hur informationsteknik kan användas för
+kunskapsinhämtning, lärande och delaktighet i
+kulturlivet.
+8 § Folkbiblioteken ska ägna särskild
+uppmärksamhet åt barn och ungdomar för att
+främja deras språkutveckling och stimulera till
+läsning, bland annat genom att erbjuda litteratur
+utifrån deras behov och förutsättningar.
+9 § På folkbiblioteken ska allmänheten
+avgiftsfritt få låna eller på annat sätt få tillgång till
+litteratur under en viss tid oavsett
+publiceringsform.
+
 1
 
 <!-- sida 76 -->
 
-Första stycket hindrar inte att folkbiblioteken tar Skyldigheten att avgiftsfritt ställa litteratur till
-ut                              förfogande gäller inte för folk- eller skolbibliotek.
-1\. ersättning för kostnader för porto, 16 § Bestämmelsen i 2 kap. 1 § kommunallagen
-fotokopiering och andra liknande tjänster, (2017:725) om anknytning till kommunens
-och                          område eller dess medlemmar hindrar inte att
-2\. avgift för de fall låntagare inte inom avtalad folk- eller skolbibliotek avgiftsfritt ställer litteratur
-tid lämnar tillbaka det som de har lånat. till förfogande för ett bibliotek i det allmänna
-biblioteksväsendet som är beläget utanför
-Skolbibliotek                   kommungränsen.
-Lag (2017:768).
+Första stycket hindrar inte att folkbiblioteken tar
+ut
+
+1\. ersättning för kostnader för porto,
+fotokopiering och andra liknande tjänster,
+och
+2\. avgift för de fall låntagare inte inom avtalad
+tid lämnar tillbaka det som de har lånat.
+Skolbibliotek
 10 § /Upphör att gälla U:2025-07-01/ Enligt 2
-kap. 36 § skollagen (2010:800) ska eleverna i Biblioteksplaner
+kap. 36 § skollagen (2010:800) ska eleverna i
 grundskolan, anpassade grundskolan,
-specialskolan, sameskolan, gymnasieskolan och 17 § Kommuner och regioner ska anta
-anpassade gymnasieskolan ha tillgång till biblioteksplaner för sin verksamhet på
-skolbibliotek. Lag (2023:355).  biblioteksområdet. Lag (2019:961).
-10 § /Träder i kraft I:2025-07-01/ För Uppföljning
+specialskolan, sameskolan, gymnasieskolan och
+anpassade gymnasieskolan ha tillgång till
+skolbibliotek. Lag (2023:355).
+10 § /Träder i kraft I:2025-07-01/ För
 skolbibliotek finns utöver vad som gäller enligt
-denna lag ytterligare bestämmelser i 2 kap. 24 a-24 18 § Den myndighet som regeringen bestämmer
-d §§ skollagen (2010:800). Lag (2024:1073). ska ha en nationell överblick över och främja
-samverkan inom det allmänna biblioteksväsendet.
+denna lag ytterligare bestämmelser i 2 kap. 24 a-24
+d §§ skollagen (2010:800). Lag (2024:1073).
+
 Regional biblioteksverksamhet
-Myndigheten ska tillsammans med de regionala
-11 § Varje region och de kommuner som inte biblioteksverksamheterna och kommunerna följa
-ingår i en region ska bedriva regional upp hur de biblioteksplaner som antagits har
-biblioteksverksamhet med syfte att främja utformats och hur de används.
+11 § Varje region och de kommuner som inte
+ingår i en region ska bedriva regional
+biblioteksverksamhet med syfte att främja
 samarbete, verksamhetsutveckling och kvalitet när
 det gäller de folkbibliotek som är verksamma i
 länet. Lag (2019:961).
-Annan lagstiftning och nationella mål
 Högskolebibliotek
-Litteratur och läsfrämjande – alla i Sverige ska,
-oavsett bakgrund och med utgångspunkt i vars
+
 12 § Det ska finnas tillgång till högskolebibliotek
-och ens särskilda förutsättningar, ges möjlighet att
 vid alla universitet och högskolor som omfattas av
-utveckla en god läsförmåga och ha tillgång till
 högskolelagen (1992:1434). Dessa bibliotek ska
-litteratur av hög kvalitet.
 svara för biblioteksverksamhet inom de områden
 som anknyter till utbildning och forskning vid
-Nationell språkpolitik – svenska språket ska vara
 universitetet eller högskolan.
-huvudspråk i Sverige. Svenskan ska vara ett
-komplett och samhällsbärande språk. Den
 Lånecentraler
-offentliga svenskan ska vara vårdad, enkel och
-13 § För en kompletterande informations- och begriplig. Alla ska ha rätt till språk: att utveckla
-medieförsörjning ska det finnas en eller flera och tillägna sig svenska språket, att utveckla och
-lånecentraler.                  bruka det egna modersmålet och nationella
-minoritetsspråket och att få möjlighet att lära sig
-Samverkan                       främmande språk.
-14 § I syfte att ge alla tillgång till landets samlade Lagen om nationella minoriteter och minoritetsspråk
-biblioteksresurser ska bibliotek och (2009:724) är en rättighetslag och handlar om att
-bibliotekshuvudmän inom det allmänna skydda och främja de nationella minoriteternas
-biblioteksväsendet samverka.    språk och kultur samt ge minoriteterna inflytande
-och delaktighet som en del av de mänskliga
-15 § Biblioteken i det allmänna rättigheterna.
+
+13 § För en kompletterande informations- och
+medieförsörjning ska det finnas en eller flera
+lånecentraler.
+Samverkan
+
+14 § I syfte att ge alla tillgång till landets samlade
+biblioteksresurser ska bibliotek och
+bibliotekshuvudmän inom det allmänna
+biblioteksväsendet samverka.
+15 § Biblioteken i det allmänna
 biblioteksväsendet ska avgiftsfritt ställa litteratur
 ur de egna samlingarna till varandras förfogande.
+
+Skyldigheten att avgiftsfritt ställa litteratur till
+förfogande gäller inte för folk- eller skolbibliotek.
+
+16 § Bestämmelsen i 2 kap. 1 § kommunallagen
+(2017:725) om anknytning till kommunens
+område eller dess medlemmar hindrar inte att
+folk- eller skolbibliotek avgiftsfritt ställer litteratur
+till förfogande för ett bibliotek i det allmänna
+biblioteksväsendet som är beläget utanför
+kommungränsen.
+Lag (2017:768).
+Biblioteksplaner
+17 § Kommuner och regioner ska anta
+biblioteksplaner för sin verksamhet på
+biblioteksområdet. Lag (2019:961).
+Uppföljning
+
+18 § Den myndighet som regeringen bestämmer
+ska ha en nationell överblick över och främja
+samverkan inom det allmänna biblioteksväsendet.
+
+Myndigheten ska tillsammans med de regionala
+biblioteksverksamheterna och kommunerna följa
+upp hur de biblioteksplaner som antagits har
+utformats och hur de används.
+
+Annan lagstiftning och nationella mål
+
+Litteratur och läsfrämjande – alla i Sverige ska,
+oavsett bakgrund och med utgångspunkt i vars
+och ens särskilda förutsättningar, ges möjlighet att
+utveckla en god läsförmåga och ha tillgång till
+litteratur av hög kvalitet.
+Nationell språkpolitik – svenska språket ska vara
+huvudspråk i Sverige. Svenskan ska vara ett
+komplett och samhällsbärande språk. Den
+offentliga svenskan ska vara vårdad, enkel och
+begriplig. Alla ska ha rätt till språk: att utveckla
+och tillägna sig svenska språket, att utveckla och
+bruka det egna modersmålet och nationella
+minoritetsspråket och att få möjlighet att lära sig
+främmande språk.
+Lagen om nationella minoriteter och minoritetsspråk
+(2009:724) är en rättighetslag och handlar om att
+skydda och främja de nationella minoriteternas
+språk och kultur samt ge minoriteterna inflytande
+och delaktighet som en del av de mänskliga
+rättigheterna.
+
 2
 
 <!-- sida 77 -->
 
-Arkivlagen (1990:782). En myndighets arkiv bildas samt söka, ta emot och sprida information och
-av de allmänna handlingarna från myndighetens idéer med hjälp av alla uttrycksmedel och
-verksamhet som myndigheten beslutar ska tas om oberoende av gränser. De lyfter att rättigheterna
-hand för arkivering.            innebär lika villkor oavsett kön,
-funktionsnedsättning, ålder, ras, hudfärg,
-Museilagen (2017:563). Museilagen infördes 2017 härkomst eller nationellt eller etniskt ursprung.
+Arkivlagen (1990:782). En myndighets arkiv bildas
+av de allmänna handlingarna från myndighetens
+verksamhet som myndigheten beslutar ska tas om
+hand för arkivering.
+Museilagen (2017:563). Museilagen infördes 2017
 och utgör den första samlande lagen för
-museiområdet i Sverige. Lagen förenar museernas FNs konvention om rättigheter för personer med
-kärnverksamheter, samlingsverksamhet, funktionsnedsättning erkänner rätten för personer
-kunskapsuppbyggnad och publikt arbete, och med funktionsnedsättning att beredas tillgång till
-sätter dem i samband med museernas roller i bibliotek. Sveriges nationella mål för
-samhället. Museilagen betonar   funktionshinderspolitiken är att uppnå jämlikhet i
-kulturarvsaktörernas oberoende och lyfter tydligt levnadsvillkor och full delaktighet för personer
-fram museernas betydelse för bildning, med funktionsnedsättning i ett samhälle med
-kulturupplevelser och fri åsiktsbildning samt mångfald som grund.
+museiområdet i Sverige. Lagen förenar museernas
+kärnverksamheter, samlingsverksamhet,
+kunskapsuppbyggnad och publikt arbete, och
+sätter dem i samband med museernas roller i
+samhället. Museilagen betonar
+kulturarvsaktörernas oberoende och lyfter tydligt
+fram museernas betydelse för bildning,
+kulturupplevelser och fri åsiktsbildning samt
 museernas ansvar för kunskap, allsidighet,
-öppenhet och för att aktivt förvalta sina Lag (1960:729) om upphovsrätt till litterära och
-samlingar.                      konstnärliga verk slår fast den enskilde
-kulturskaparens upphovsrätt till sitt verk.
+öppenhet och för att aktivt förvalta sina
+samlingar.
 Kultursamverkansmodellen regleras av förordning
-(2010:2012) om fördelning av vissa statsbidrag till regio- Lag (2016:1145) om offentlig upphandling (LOU).
-nal kulturverksamhet. Till grund för förordningen LOU gäller för upphandling som genomförs av
-ligger lagen (2010:1919) om fördelning av vissa en upphandlande myndighet genom offentlig
-statsbidrag till regional kulturverksamhet som slår fast upphandling. Med upphandling avses de åtgärder
-att en region får fördela vissa statsbidrag till som vidtas i syfte att anskaffa varor, tjänster eller
-regional kulturverksamhet om en regional byggentreprenader genom tilldelning av kontrakt.
-kulturplan har upprättats av regionen, och Lagen gäller även när en upphandlande myndighet
-kulturplanen överensstämmer med de föreskrifter anordnar en projekttävling. Nya regler om
-som regeringen meddelar.        reserverad upphandling för idéburna
-organisationer vid offentliga upphandlingar och
-Lag (2018:1197) om Förenta nationernas konvention om valfrihetssystem gäller från och med den 1 januari
-barnets rättigheter. Barnet ska ha rätt till 2023.
+(2010:2012) om fördelning av vissa statsbidrag till regio-
+nal kulturverksamhet. Till grund för förordningen
+ligger lagen (2010:1919) om fördelning av vissa
+statsbidrag till regional kulturverksamhet som slår fast
+att en region får fördela vissa statsbidrag till
+regional kulturverksamhet om en regional
+kulturplan har upprättats av regionen, och
+kulturplanen överensstämmer med de föreskrifter
+som regeringen meddelar.
+Lag (2018:1197) om Förenta nationernas konvention om
+barnets rättigheter. Barnet ska ha rätt till
 yttrandefrihet, att söka, ta emot och sprida
 information och tankar av alla slag, i tal, skrift
 eller tryck, i konstnärlig form eller genom annat
@@ -3554,11 +3652,46 @@ fritidsverksamhet.
 FNs konventioner om mänskliga rättigheter12 lyfter var
 och ens rätt till åsiktsfrihet och yttrandefrihet
 inklusive frihet att utan ingripande hysa åsikter
-12 I detta sammanhang är följande av vikt: Allmän Konvention om avskaffande av all slags
-förklaring om de mänskliga rättigheterna, diskriminering av kvinnor samt Konvention om
-Internationell konvention om ekonomiska, sociala rättigheter för personer med funktionsnedsättning.
+12 I detta sammanhang är följande av vikt: Allmän
+förklaring om de mänskliga rättigheterna,
+Internationell konvention om ekonomiska, sociala
 och kulturella rättigheter, Internationell konvention
 om avskaffande av alla former av rasdiskriminering,
+
+samt söka, ta emot och sprida information och
+idéer med hjälp av alla uttrycksmedel och
+oberoende av gränser. De lyfter att rättigheterna
+innebär lika villkor oavsett kön,
+funktionsnedsättning, ålder, ras, hudfärg,
+härkomst eller nationellt eller etniskt ursprung.
+FNs konvention om rättigheter för personer med
+funktionsnedsättning erkänner rätten för personer
+med funktionsnedsättning att beredas tillgång till
+bibliotek. Sveriges nationella mål för
+funktionshinderspolitiken är att uppnå jämlikhet i
+levnadsvillkor och full delaktighet för personer
+med funktionsnedsättning i ett samhälle med
+mångfald som grund.
+Lag (1960:729) om upphovsrätt till litterära och
+konstnärliga verk slår fast den enskilde
+kulturskaparens upphovsrätt till sitt verk.
+Lag (2016:1145) om offentlig upphandling (LOU).
+LOU gäller för upphandling som genomförs av
+en upphandlande myndighet genom offentlig
+upphandling. Med upphandling avses de åtgärder
+som vidtas i syfte att anskaffa varor, tjänster eller
+byggentreprenader genom tilldelning av kontrakt.
+Lagen gäller även när en upphandlande myndighet
+anordnar en projekttävling. Nya regler om
+reserverad upphandling för idéburna
+organisationer vid offentliga upphandlingar och
+valfrihetssystem gäller från och med den 1 januari
+2023\.
+
+Konvention om avskaffande av all slags
+diskriminering av kvinnor samt Konvention om
+rättigheter för personer med funktionsnedsättning.
+
 3
 
 <!-- sida 78 -->

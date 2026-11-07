@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.f98f1841993730820e3640/175757656995
 sha256: 6c4476bb493d4f6ef39f0c7430646232813b6da13728ff1f771680186a4908f5
 bytes: 19970514
 sidor: 363
-hamtad: 2026-10-24T06:06:18+00:00
-konverterad: 2026-10-24T06:07:11+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T20:12:56+00:00
+konverterad: 2026-11-06T20:14:04+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -8535,124 +8535,194 @@ Sid 18
 
 <!-- sida 212 -->
 
-Statens offentliga utredningar  2025
+Statens  offentliga utredningar 2025
 
 Kronologisk förteckning
 
-1\. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
-skap. Ju.              ningsmyndighetens verksamhet. Fi.
-2\. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
-fri- och rättigheter. Ju. strategi för hur Sverige ska leva upp
-3\. Skatteincitament för forskning till EU:s åtaganden inom biologisk
-och utveckling. En översyn av mångfald respektive nettoupptag av
-FoU-avdraget och expertskatte- växthusgaser från markanvändnings-
-reglerna. Fi.          sektorn (LULUCF). KN.
-4\. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
-för arbetslivet. Fi.   privat verksamhet. KN.
-5\. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
-– och andra åtgärder för trygghet i fokus. Ju.
-i byggd miljö. LI.   24. Publiken i fokus
-6\. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
-försörjning av det civila försvaret. Fö. 25. Arbetslivskriminalitet – upplägg,
-7\. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
-tillståndsprövning och ändamålsenliga 26. Tid för undervisningsuppdraget –
-avgifter. KN.          åtgärder för god undervisning och
-8\. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
-och studiero i skolan. U. 27. En socionomutbildning i tiden. U.
-9\. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
-10\. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
-säker och tillgänglig abortvård. S. mot våld och en stärkt styrning av
-centrala myndigheter. A.
+1\. Skärpta krav för svenskt medborgar-
+skap. Ju.
+2\. Några frågor om grundläggande
+fri- och rättigheter. Ju.
+3\. Skatteincitament för forskning
+och utveckling. En översyn av
+FoU-avdraget och expertskatte-
+reglerna. Fi.
+4\. Moderna och enklare skatteregler
+för arbetslivet. Fi.
+5\. Avgift för områdessamverkan
+– och andra åtgärder för trygghet
+i byggd miljö. LI.
+6\. Plikten kallar! En modern personal-
+försörjning av det civila försvaret. Fö.
+7\. Ny kärnkraft i Sverige – effektivare
+tillståndsprövning och ändamålsenliga
+avgifter. KN.
+8\. Bättre förutsättningar för trygghet
+och studiero i skolan. U.
+9\. På språklig grund. U.
+10\. En förändrad abortlag – för en god,
+säker och tillgänglig abortvård. S.
 11\. Straffbarhetsåldern. Ju.
-29\. Ökad kvalitet hos Samhall
 12\. AI-kommissionens
-och fler vägar till skyddat arbete. A.
 Färdplan för Sverige. Fi.
-30\. Enklare mervärdesskatteregler vid
 13\. En effektivare organisering av mindre
-försäljning av begagnade varor och
 myndigheter – analys och förslag. Fi.
-donation av livsmedel. Fi.
 14\. En skärpt miljöstraffrätt och
-31\. Utmönstring av permanent uppehålls-
 ett effektivt sanktionssystem. KN.
+15\. Stärkta drivkrafter och möjligheter för
+biståndsmottagare. Volym 1 och 2. S.
+16\. Ett nytt regelverk för uppsikt och
+förvar. Ju.
+17\. Anpassning av svensk rätt till EU:s
+avskogningsförordning. LI.
+18\. Ett likvärdigt betygssystem.
+Volym 1 och 2. U.
+19\. Kunskap för alla – nya läroplaner med
+fokus på undervisning och lärande. U.
+
+20\. Kommunal anslutning till Utbetal-
+ningsmyndighetens verksamhet. Fi.
+21\. Miljömålsberedningens förslag om en
+strategi för hur Sverige ska leva upp
+till EU:s åtaganden inom biologisk
+mångfald respektive nettoupptag av
+växthusgaser från markanvändnings-
+sektorn (LULUCF). KN.
+22\. Förbättrad konkurrens i offentlig och
+privat verksamhet. KN.
+23\. Ersättningsregler med brottsoffret
+i fokus. Ju.
+24\. Publiken i fokus
+– reformer för ett starkare filmland. Ku.
+25\. Arbetslivskriminalitet – upplägg,
+verktyg och åtgärder, fortsatt arbete. A.
+26\. Tid för undervisningsuppdraget –
+åtgärder för god undervisning och
+läraryrkenas attraktivitet. U.
+27\. En socionomutbildning i tiden. U.
+28\. Frihet från våld, förtryck och utnytt-
+jande. En jämställdhetspolitisk strategi
+mot våld och en stärkt styrning av
+centrala myndigheter. A.
+29\. Ökad kvalitet hos Samhall
+och fler vägar till skyddat arbete. A.
+30\. Enklare mervärdesskatteregler vid
+försäljning av begagnade varor och
+donation av livsmedel. Fi.
+31\. Utmönstring av permanent uppehålls-
 tillstånd och vissa anpassningar till
-15\. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
-biståndsmottagare. Volym 1 och 2. S. och asylpakt. Ju.
-16\. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
-förvar. Ju.            LI.
-17\. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
-avskogningsförordning. LI. för uppehållstillstånd. Ju.
-18\. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
-Volym 1 och 2. U.      distansavtal. Ju.
-19\. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
-fokus på undervisning och lärande. U. – ett nytt system för bosättning
+miniminivån enligt EU:s migrations-
+och asylpakt. Ju.
+32\. Vissa förändringar av jaktlagstiftningen.
+LI.
+33\. Skärpta och tydligare krav på vandel
+för uppehållstillstånd. Ju.
+34\. Ett modernare konsumentskydd vid
+distansavtal. Ju.
+35\. Etableringsboendelagen
+– ett nytt system för bosättning
 för vissa nyanlända. A.
 
 <!-- sida 213 -->
 
-36\. Skydd för biologisk mångfald i havs- 61. Sveriges internationella adoptionsverk-
-områden utanför nationell jurisdiktion. samhet − lärdomar och vägen framåt.
-UD.                   Volym 1 och 2. S.
-37\. Skärpta villkor för friskolesektorn. U. 62. Ansvaret för hälso- och sjukvården.
-38\. Att omhänderta barn och unga. S. Volym 1 Bedömningar och förslag.
-Volym 2 Underlagsrapporter. S.
+36\. Skydd för biologisk mångfald i havs-
+områden utanför nationell jurisdiktion.
+UD.
+37\. Skärpta villkor för friskolesektorn. U.
+38\. Att omhänderta barn och unga. S.
 39\. Digital teknik på lika villkor.
-En reglering för socialtjänsten och 63. Stärkt patientsäkerhet genom rätt
-verksamhet enligt LSS. S. kompetens − utifrån hälso- och
-sjukvårdens och tandvårdens behov. S.
+En reglering för socialtjänsten och
+verksamhet enligt LSS. S.
 40\. Säkrare tivoli. Ju.
-64\. En ny kontrollorganisation i livs-
 41\. Pensionsnivåer och pensionsavgiften
-medelskedjan – för ökad effektivitet,
 – analyser på hundra års sikt. S.
-likvärdighet och konkurrenskraft. LI.
 42\. Säkerhetsskyddslagen – ytterligare
-65\. En mer flexibel hyresmarknad. Ju.
 kompletteringar. Ju.
-66\. En straffreform. Volym 1, 2, 3 och 4. Ju.
 43\. Säkerställ tillgången till läkemedel
-– förordnande och utlämnande 67. Arlanda – en viktig port för det svenska
-i bristsituationer. S. välståndet. Åtgärder som stärker
-konkurrenskraften för Arlanda
+– förordnande och utlämnande
+i bristsituationer. S.
 44\. Förbättrat stöd i skolan. U.
-flygplats. LI.
 45\. Ökat informationsutbyte mellan
-68\. Nya samverkansformer, modern bygg-
 myndigheter – några anslutande
-nads- och reparationsberedskap – för
 frågor. Ju.
-ökad försörjningsberedskap. KN.
 46\. Tryggare idrottsarrangemang. Ju.
-69\. Effektivare samverkan för djur- och
-47\. Spänning i tillvaron – hur säkrar vi vår folkhälsa. LI.
+47\. Spänning i tillvaron – hur säkrar vi vår
 framtida elförsörjning? KN.
+48\. Stärkt pandemiberedskap. S.
+49\. Säkerhetspolisens behandling
+av personuppgifter. Ju.
+50\. En ny nationell myndighet för
+viltförvaltning. LI.
+51\. Bättre förutsättningar för
+klimatanpassning. KN.
+52\. Ökad insyn i politiska processer. Ju.
+53\. Kvalificering till socialförsäkring
+och ekonomiskt bistånd
+för vissa grupper. S.
+54\. Ett skärpt regelverk om utvisning
+på grund av brott. Ju.
+55\. En reformerad samhällsorientering
+för bättre integration. A.
+56\. Stärkt skydd för domstolarnas
+och domarnas oberoende. Ju.
+57\. Polisiär beredskap i fred, kris och krig.
+Ju.
+58\. En stärkt hästnäring – för företagande,
+jämställdhet, jämlikhet och folkhälsa.
+LI.
+59\. Stärkt lagstiftning mot hedersrelaterat
+våld och förtryck. Ju.
+60\. En starkare fondmarknad. Fi.
+
+61\. Sveriges internationella adoptionsverk-
+samhet − lärdomar och vägen framåt.
+Volym 1 och 2. S.
+62\. Ansvaret för hälso- och sjukvården.
+Volym 1 Bedömningar och förslag.
+Volym 2 Underlagsrapporter. S.
+63\. Stärkt patientsäkerhet genom rätt
+kompetens − utifrån hälso- och
+sjukvårdens och tandvårdens behov. S.
+64\. En ny kontrollorganisation i livs-
+medelskedjan – för ökad effektivitet,
+likvärdighet och konkurrenskraft. LI.
+65\. En mer flexibel hyresmarknad. Ju.
+66\. En straffreform. Volym 1, 2, 3 och 4. Ju.
+67\. Arlanda – en viktig port för det svenska
+välståndet. Åtgärder som stärker
+konkurrenskraften för Arlanda
+flygplats. LI.
+68\. Nya samverkansformer, modern bygg-
+nads- och reparationsberedskap – för
+ökad försörjningsberedskap. KN.
+69\. Effektivare samverkan för djur- och
+folkhälsa. LI.
 70\. Längre liv, längre arbetsliv – förlängd
-48\. Stärkt pandemiberedskap. S. rätt att kvarstå i anställningen. A.
-49\. Säkerhetspolisens behandling 71. Fortsatt utveckling av en nationell
-av personuppgifter. Ju. läkemedelslista – en del i en ny nationell
-50\. En ny nationell myndighet för infrastruktur för datadelning.
-viltförvaltning. LI.  Del 1 och 2. S.
-51\. Bättre förutsättningar för 72. Verktyg för en mer likvärdig
-klimatanpassning. KN. resursfördelning till skolan. U.
-52\. Ökad insyn i politiska processer. Ju. 73. En arbetsmiljöstrategi för ett förändrat
-53\. Kvalificering till socialförsäkring arbetsliv. A.
-och ekonomiskt bistånd 74. Ny reglering för den arbetsmarknads-
-för vissa grupper. S. politiska verksamheten. A.
-54\. Ett skärpt regelverk om utvisning 75. Folkbokföringsverksamhet, biometri
-på grund av brott. Ju. och brottsbekämpning. Fi.
-55\. En reformerad samhällsorientering 76. Det handlar om oss
-för bättre integration. A. – så bryter vi utanförskapet
-56\. Stärkt skydd för domstolarnas och bygger en starkare gemenskap. A.
-och domarnas oberoende. Ju. 77. En översyn av den statliga löne-
-57\. Polisiär beredskap i fred, kris och krig. garantin. A.
-Ju.                  78. En reformerad underrättelse-
-58\. En stärkt hästnäring – för företagande, verksamhet. Fö.
-jämställdhet, jämlikhet och folkhälsa. 79. Samlade förmågor för ökad
-LI.                   cybersäkerhet. Fö.
-59\. Stärkt lagstiftning mot hedersrelaterat 80. Koordinatbestämda fastighetsgränser.
-våld och förtryck. Ju. Ju.
-60\. En starkare fondmarknad. Fi. 81. En ny organisation av ekobrotts-
+rätt att kvarstå i anställningen. A.
+71\. Fortsatt utveckling av en nationell
+läkemedelslista – en del i en ny nationell
+infrastruktur för datadelning.
+Del 1 och 2. S.
+72\. Verktyg för en mer likvärdig
+resursfördelning till skolan. U.
+73\. En arbetsmiljöstrategi för ett förändrat
+arbetsliv. A.
+74\. Ny reglering för den arbetsmarknads-
+politiska verksamheten. A.
+75\. Folkbokföringsverksamhet, biometri
+och brottsbekämpning. Fi.
+76\. Det handlar om oss
+– så bryter vi utanförskapet
+och bygger en starkare gemenskap. A.
+77\. En översyn av den statliga löne-
+garantin. A.
+78\. En reformerad underrättelse-
+verksamhet. Fö.
+79\. Samlade förmågor för ökad
+cybersäkerhet. Fö.
+80\. Koordinatbestämda fastighetsgränser.
+Ju.
+81\. En ny organisation av ekobrotts-
 bekämpningen. Ju.
 
 <!-- sida 214 -->
@@ -8666,146 +8736,183 @@ serna. LI.
 
 <!-- sida 215 -->
 
-Statens offentliga utredningar  2025
+Statens  offentliga utredningar 2025
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Folkbokföringsverksamhet, biometri och
-Arbetslivskriminalitet – upplägg, verktyg brottsbekämpning. [75]
+Arbetsmarknadsdepartementet
+Arbetslivskriminalitet – upplägg, verktyg
 och åtgärder, fortsatt arbete. [25]
-Frihet från våld, förtryck och utnyttjande. Försvarsdepartementet
-En jämställdhetspolitisk strategi mot Plikten kallar! En modern personal-
-våld och en stärkt styrning av centrala försörjning av det civila försvaret. [6]
+Frihet från våld, förtryck och utnyttjande.
+En jämställdhetspolitisk strategi mot
+våld och en stärkt styrning av centrala
 myndigheter. [28]
-En reformerad underrättelse-
-Ökad kvalitet hos Samhall och fler vägar verksamhet. [78]
+Ökad kvalitet hos Samhall och fler vägar
 till skyddat arbete. [29]
-Samlade förmågor för ökad
-Etableringsboendelagen – ett nytt system cybersäkerhet. [79]
+Etableringsboendelagen – ett nytt system
 för bosättning för vissa nyanlända. [35]
-En reformerad samhällsorientering Justitiedepartementet
+En reformerad samhällsorientering
 för bättre integration. [55]
-Skärpta krav för svenskt medborgarskap.
 Längre liv, längre arbetsliv – förlängd rätt
-[1]
 att kvarstå i anställningen. [70]
-Några frågor om grundläggande
 En arbetsmiljöstrategi för ett förändrat
-fri- och rättigheter. [2]
 arbetsliv. [73]
-Straffbarhetsåldern. [11]
 Ny reglering för den arbetsmarknads-
-Ett nytt regelverk för uppsikt och förvar.
 politiska verksamheten. [74]
-[16]
 Det handlar om oss
-Ersättningsregler med brottsoffret i fokus.
 – så bryter vi utanförskapet
-[23]
 och bygger en starkare gemenskap. [76]
-Utmönstring av permanent uppehålls-
 En översyn av den statliga löne -
-tillstånd och vissa anpassningar till
 garantin. [77]
-miniminivån enligt EU:s migrations-
-och asylpakt. [31]
 Finansdepartementet
-Skärpta och tydligare krav på vandel
-Skatteincitament för forskning för uppehållstillstånd. [33]
+Skatteincitament för forskning
 och utveckling. En översyn av
-Ett modernare konsumentskydd
 FoU-avdraget och expertskatte-
-vid distansavtal. [34]
 reglerna. [3]
-Säkrare tivoli. [40]
 Moderna och enklare skatteregler
-Säkerhetsskyddslagen – ytterligare
 för arbetslivet. [4]
-kompletteringar. [42]
 AI-kommissionens Färdplan för Sverige. [12]
-Ökat informationsutbyte mellan
 En effektivare organisering av mindre
-myndigheter – några anslutande
 myndigheter – analys och förslag. [13]
-frågor. [45]
 Kommunal anslutning till Utbetalnings-
-Tryggare idrottsarrangemang. [46]
 myndighetens verksamhet. [20]
-Säkerhetspolisens behandling
 Enklare mervärdesskatteregler vid
-av personuppgifter. [49]
 försäljning av begagnade varor
-Ökad insyn i politiska processer. [52]
 och donation av livsmedel. [30]
 En starkare fondmarknad. [60]
 
+Folkbokföringsverksamhet, biometri och
+brottsbekämpning. [75]
+
+Försvarsdepartementet
+Plikten kallar! En modern personal-
+försörjning av det civila försvaret. [6]
+En reformerad underrättelse-
+verksamhet. [78]
+Samlade förmågor för ökad
+cybersäkerhet. [79]
+Justitiedepartementet
+Skärpta krav för svenskt medborgarskap.
+[1]
+Några frågor om grundläggande
+fri- och rättigheter. [2]
+Straffbarhetsåldern. [11]
+Ett nytt regelverk för uppsikt och förvar.
+[16]
+Ersättningsregler med brottsoffret i fokus.
+[23]
+Utmönstring av permanent uppehålls-
+tillstånd och vissa anpassningar till
+miniminivån enligt EU:s migrations-
+och asylpakt. [31]
+Skärpta och tydligare krav på vandel
+för uppehållstillstånd. [33]
+Ett modernare konsumentskydd
+vid distansavtal. [34]
+Säkrare tivoli. [40]
+Säkerhetsskyddslagen – ytterligare
+kompletteringar. [42]
+Ökat informationsutbyte mellan
+myndigheter – några anslutande
+frågor. [45]
+Tryggare idrottsarrangemang. [46]
+Säkerhetspolisens behandling
+av personuppgifter. [49]
+Ökad insyn i politiska processer. [52]
+
 <!-- sida 216 -->
 
-Ett skärpt regelverk om utvisning Vissa förändringar av jaktlagstiftningen.
-på grund av brott. [54] [32]
-Stärkt skydd för domstolarnas En ny nationell myndighet
-och domarnas oberoende. [56] för viltförvaltning. [50]
-Polisiär beredskap i fred, kris och krig. En stärkt hästnäring – för företagande,
-[57]                  jämställdhet, jämlikhet och folkhälsa.
-Stärkt lagstiftning mot hedersrelaterat [58]
-våld och förtryck. [59] En ny kontrollorganisation i livsmedels-
-En mer flexibel hyresmarknad. [65] kedjan – för ökad effektivitet, lik-
-värdighet och konkurrenskraft. [64]
+Ett skärpt regelverk om utvisning
+på grund av brott. [54]
+Stärkt skydd för domstolarnas
+och domarnas oberoende. [56]
+Polisiär beredskap i fred, kris och krig.
+[57]
+Stärkt lagstiftning mot hedersrelaterat
+våld och förtryck. [59]
+En mer flexibel hyresmarknad. [65]
 En straffreform. Volym 1, 2, 3 och 4. [66]
-Arlanda – en viktig port för det svenska
 Koordinatbestämda fastighetsgränser. [80]
-välståndet. Åtgärder som stärker
-En ny organisation av ekobrotts- konkurrenskraften för Arlanda
-bekämpningen. [81]    flygplats. [67]
-Ett nationellt förbud mot tiggeri. [83] Effektivare samverkan för djur- och folk-
-hälsa. [69]
-Klimat- och näringslivsdepartementet Sysselsättning och boende på landsbygden
-Ny kärnkraft i Sverige – effektivare – Juridiska personers förvärv av jord-
-tillståndsprövning och ändamålsenliga bruksmark och en effektiv tillämpning
-avgifter. [7]         av glesbygdsbestämmelserna. [82]
+En ny organisation av ekobrotts-
+bekämpningen. [81]
+Ett nationellt förbud mot tiggeri. [83]
+Klimat- och näringslivsdepartementet
+Ny kärnkraft i Sverige – effektivare
+tillståndsprövning och ändamålsenliga
+avgifter. [7]
 En skärpt miljöstraffrätt och
-ett effektivt sanktionssystem. [14] Socialdepartementet
-Miljömålsberedningens förslag om en En förändrad abortlag
-strategi för hur Sverige ska leva upp – för en god, säker och tillgänglig
-till EU:s åtaganden inom biologisk abortvård. [10]
+ett effektivt sanktionssystem. [14]
+Miljömålsberedningens förslag om en
+strategi för hur Sverige ska leva upp
+till EU:s åtaganden inom biologisk
 mångfald respektive nettoupptag av
-Stärkta drivkrafter och möjligheter för
 växthusgaser från markanvändnings-
-biståndsmottagare Volym 1 och 2. [15]
 sektorn (LULUCF). [21]
-Att omhänderta barn och unga. [38]
 Förbättrad konkurrens i offentlig och
-Digital teknik på lika villkor.
 privat verksamhet. [22]
-En reglering för socialtjänsten
 Spänning i tillvaron – hur säkrar vi vår
-och verksamhet enligt LSS. [39]
 framtida elförsörjning? [47]
-Pensionsnivåer och pensionsavgiften
 Bättre förutsättningar för
-– analyser på hundra års sikt. [41]
 klimatanpassning. [51]
-Säkerställ tillgången till läkemedel
 Nya samverkansformer, modern bygg-
-– förordnande och utlämnande
 nads- och reparationsberedskap – för
-i bristsituationer. [43]
 ökad försörjningsberedskap. [68]
-Stärkt pandemiberedskap. [48]
-Kvalificering till socialförsäkring
 Kulturdepartementet
-och ekonomiskt bistånd
-Publiken i fokus – reformer för ett star- för vissa grupper. [53]
+Publiken i fokus – reformer för ett star-
 kare filmland. [24]
-Sveriges internationella adoptionsverk-
-samhet − lärdomar och vägen framåt.
-Landsbygds- och         Volym 1 och 2. [61]
-infrastrukturdepartementet Ansvaret för hälso- och sjukvården.
-Avgift för områdessamverkan Volym 1 Bedömningar och förslag.
-– och andra åtgärder för trygghet Volym 2 Underlagsrapporter. [62]
+Landsbygds- och
+infrastrukturdepartementet
+Avgift för områdessamverkan
+– och andra åtgärder för trygghet
 i byggd miljö. [5]
 Anpassning av svensk rätt till EU:s
 avskogningsförordning. [17]
+
+Vissa förändringar av jaktlagstiftningen.
+[32]
+En ny nationell myndighet
+för viltförvaltning. [50]
+En stärkt hästnäring – för företagande,
+jämställdhet, jämlikhet och folkhälsa.
+[58]
+En ny kontrollorganisation i livsmedels-
+kedjan – för ökad effektivitet, lik-
+värdighet och konkurrenskraft. [64]
+Arlanda – en viktig port för det svenska
+välståndet. Åtgärder som stärker
+konkurrenskraften för Arlanda
+flygplats. [67]
+Effektivare samverkan för djur- och folk-
+hälsa. [69]
+Sysselsättning och boende på landsbygden
+– Juridiska personers förvärv av jord-
+bruksmark och en effektiv tillämpning
+av glesbygdsbestämmelserna. [82]
+Socialdepartementet
+En förändrad abortlag
+– för en god, säker och tillgänglig
+abortvård. [10]
+Stärkta drivkrafter och möjligheter för
+biståndsmottagare Volym 1 och 2. [15]
+Att omhänderta barn och unga. [38]
+Digital teknik på lika villkor.
+En reglering för socialtjänsten
+och verksamhet enligt LSS. [39]
+Pensionsnivåer och pensionsavgiften
+– analyser på hundra års sikt. [41]
+Säkerställ tillgången till läkemedel
+– förordnande och utlämnande
+i bristsituationer. [43]
+Stärkt pandemiberedskap. [48]
+Kvalificering till socialförsäkring
+och ekonomiskt bistånd
+för vissa grupper. [53]
+Sveriges internationella adoptionsverk-
+samhet − lärdomar och vägen framåt.
+Volym 1 och 2. [61]
+Ansvaret för hälso- och sjukvården.
+Volym 1 Bedömningar och förslag.
+Volym 2 Underlagsrapporter. [62]
 
 <!-- sida 217 -->
 

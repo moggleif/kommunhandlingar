@@ -88,3 +88,4 @@ Regler för det här repot, utöver MADR:
 | 0062 | [I arkivet gäller filnamnets datum under ett annat möte samma år, ett tvåsiffrigt år är 2000-talets, och statussidan visar år utan dokument](0062-arkivets-datum-och-ar-utan-dokument.md) | proposed |
 | 0063 | [Löptext i spalter läses spalt för spalt med XY-snitt över textlagrets rader](0063-spalter-lases-spalt-for-spalt.md) | proposed |
 | 0064 | [Text på högkant tas ur flödet och skrivs sist på sidan; på en OCR-sida målas den vit och sidan läses om](0064-text-pa-hogkant-skrivs-sist.md) | proposed |
+| 0065 | [Redovisningarna följs steg för steg som handlingsplanerna, och direktiv som beställer en redovisning flyttar från målsidan](0065-redovisningarna-foljs-som-handlingsplanerna.md) | proposed |

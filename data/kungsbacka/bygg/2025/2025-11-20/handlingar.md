@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e78245d19a7bafa93ffcdd/17631034981
 sha256: 3707638dcec12ee5dc98a990f96c288590178510b20fcf6ea7888584513ac3cb
 bytes: 20797685
 sidor: 117
-hamtad: 2026-10-23T08:09:40+00:00
-konverterad: 2026-10-23T08:10:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T09:52:40+00:00
+konverterad: 2026-11-06T09:53:39+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3207,343 +3207,798 @@ ILLUSTRATION         Detaljplanen är upprättad enligt PBL KBXXX
 <!-- sida 79 -->
 
 PLANBESTÄMMELSER
+
 Följande gäller inom områden med nedanstående beteckningar. Endast angiven
+
 användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom
 hela området.
+
 GRÄNSER
+
 Planområdesgräns.
+
 Användningsgräns.
+
 Egenskapsgräns.
 Sekundär egenskapsgräns.
+
 Sammanfallande sekundär och egenskapsgräns.
+
 ANVÄNDNING      AV  MARK
+
 Allmän platsmark
+
 Huvudgata.
 Lokalgata.
+
 Gång- och cykelväg.
+
 Natur.
+
 Park.
 Genomfartsväg.
+
 Kvartersmark
+
 Bostäder.
+
 Centrumlokaler i bottenvåningen.
+
 Teknisk anläggning - transformatorstation.
 Teknisk anläggning - pumpstation.
+
 Parkeringshus.
+
 Bostadskomplement.
+
 Parkeringsgarage får uppföras under bostadsgård och byggnad.
-Beteckningar inom  parentes
+Beteckningar inom parentes
+
 Beteckning i kartan som omgärdas av parentes anger bestämmelse i
 annat plan än markplan.
+
 EGENSKAPSBESTÄMMELSER             FÖR  ALL  ALLMÄN    PLATS
+
 Utformning av allmän plats
 Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
+
 plankartan där inget annat anges.
+
 EGENSKAPSBESTÄMMELSER             FÖR  ALL  KVARTERSMARK
+
 Höjd på byggnadsverk
 Högsta nockhöjd på komplementbyggnader till flerbostadshusen är 4,5 meter och till
+
 småhusen 3,5 meter.
 Skydd  mot störningar
+
 Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
 plankartan.
+
+Om  ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften av
+bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35
+kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad
+
+sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida
+menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå
+nattetid påhögst 70 dBA.
+
+Utförande
+Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +4,5 m
+
+(RH 2000) över nollplanet.
+Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för
+
+VA.
+Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt
+lastkompenseras.
+
+Villkor för startbesked
+
+Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har
+kommit tillstånd.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
+
+Avgränsad   via egenskapsgräns   och användningsgräns
+Utformning av allmän plats
+
+Markens höjd över nollplanet ska vara \<angivet> meter.
+
+Damm  ska uppföras.
+
+Dagvattendike ska anläggas.
+
+Gång- och cykelväg.
+
+Markens höjd får inte vara högre än +6,4 meter över nollplanet.
+
+Markens höjd får inte vara högre än +7,1 meter över nollplanet.
+
+Markens höjd får inte vara högre än +6,5 meter över nollplanet.
+
+Full lastkompensation för angöringsytor.
+
+PLANBESTÄMMELSER
+
+Följande gäller inom områden med nedanstående beteckningar. Endast angiven
+
+användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom
+hela området.
+
+GRÄNSER
+
+Planområdesgräns.
+
+Användningsgräns.
+
+Egenskapsgräns.
+Sekundär egenskapsgräns.
+
+Sammanfallande sekundär och egenskapsgräns.
+
+ANVÄNDNING      AV  MARK
+
+Allmän platsmark
+
+Huvudgata.
+
+Lokalgata.
+
+Gång- och cykelväg.
+Natur.
+
+Park.
+
+Genomfartsväg.
+
+Kvartersmark
+Bostäder.
+
+Centrumlokaler i bottenvåningen.
+
+Teknisk anläggning - transformatorstation.
+
+Teknisk anläggning - pumpstation.
+
+Parkeringshus.
+Bostadskomplement.
+
+Parkeringsgarage får uppföras under bostadsgård och byggnad.
+
+Beteckningar inom  parentes
+
+Beteckning i kartan som omgärdas av parentes anger bestämmelse i
+annat plan än markplan.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALL  ALLMÄN    PLATS
+
+Utformning av allmän plats
+
+Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
+plankartan där inget annat anges.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALL  KVARTERSMARK
+
+Höjd på byggnadsverk
+Högsta nockhöjd på komplementbyggnader till flerbostadshusen är 4,5 meter och till
+
+småhusen 3,5 meter.
+Skydd  mot störningar
+
+Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
+plankartan.
+
+Om  ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften av
+bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35
+kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad
+
+sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida
+menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå
+nattetid påhögst 70 dBA.
+
+Utförande
+
+Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +4,5 m
+(RH 2000) över nollplanet.
+Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för
+
+VA.
+Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt
+
+lastkompenseras.
+Villkor för startbesked
+
+Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har
+kommit tillstånd.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
+Avgränsad   via egenskapsgräns   och användningsgräns
+
+Utformning av allmän plats
+
+Markens höjd över nollplanet ska vara \<angivet> meter.
+Damm  ska uppföras.
+
+Dagvattendike ska anläggas.
+
+Gång- och cykelväg.
+
+Markens höjd får inte vara högre än +6,4 meter över nollplanet.
+Markens höjd får inte vara högre än +7,1 meter över nollplanet.
+
+Markens höjd får inte vara högre än +6,5 meter över nollplanet.
+
+Full lastkompensation för angöringsytor.
+Ingen last får påföras med undantag för gc-vägar med variabel last á 5
+
+kPa.
+Ingen last får påföras .
+
+Ingen last får påföras med undantag för gc-vägar med variabel last á 5
+kPa.
+
+Ingen last får påföras .
+Skydd  mot störningar
+Åkerholme ska bevaras.
+Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.
+SEtäGnEgsNeSl,K uAtfaPrSt oBcEhS aTnÄnaMnM uEtgLåSnEgR FÖR KVARTERSMARK
+
+Avgränsad   vUitafa ertgsfeönrbsukda. psgräns och användningsgräns
+Begränsning  av markens  utnyttjande
+Utformning
+Marken får inte förses med byggnad.
+Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
+Marken får endast förses med komplementbyggnad.
+Endast flerbostadshus.
+Fastighetsstorlek
+Endast friliggande en- och tvåbostadhus.
+Minsta fastighetsstorlek är 160 m².
+Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.
+Höjd på byggnadsverk
+Utförande
+Högsta nockhöjd är \<angivet> meter.
+Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
+Högsta nockhöjd är 12 meter och får inrymma två (2) våningar.
+för hantering av dagvatten. Vegetationsklädda tak på
+Högsta nockhöjd är 20 meter och får inrymma fyra (4) våningar.
+komplementbyggnad får tillgodoräknas.
+Högsta nockhöjd är 24 meter och får inrymma fem (5) våningar.
+Full lastkompensation för angöringsytor.
+Högsta nockhöjd för byggnadsdel i söder är 27 meter och får inrymma
+Byggnader ska grundläggas till fast botten alternativt lastkompenseras.
+sex (6) våningar. Högsta nockhöjd för byggnadel i norr är 24 meter och
+Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter
+får inrymma fem (5) våningar. .
+för centrumlokal.
+Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus
+Utnyttjandegrad
+och komplementbyggnad anordnas.
+Största byggnadsarea är \<angivet> m².
+Markens  anordnande  och vegetation
+Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
+Torg ska anläggas.
+balkonger (även inglasade) och skärmtak uppföras.
+Åkerholme ska bevaras.
+Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får
+baDlakognvagteter n(ädvikeen sinkgal aasnalädgeg) aosc.h skärmtak uppföras.
+SPtöarrsktae rbinygg gfånra adnsoarrdenaa fsö.r huvudbyggnader är 660 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.
+Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får
+Markreservat för allmännyttiga ändamål
+balkonger (även inglasade) och skärmtak uppföras.
+Markreservat för allmännyttiga underjordiska ledningar.
+Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
+Markreservatb afölkro gnegemr e(änvseanm inhgelatssaadnelä) gocghn sinkgäarmrtak uppföras.
+SMtöarsrktare bsyegrgvanta fdösra greeam feönrs kaommhpeletsmanelnätgbgyngignnga.der för flerbostadshus är
+575 kvadratmeter inom användningsområdet.
+Placering
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+Garageport ska placeras minst 6 meter från kvartersgata.
+900 kvadratmeter inom användningsområdet.
+Skydd  mot störningar
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+20V0ib kravtaiodnrastnmiveåt ei rb ionsotmad a fnåvr äenj dönvienrgsskorimdarå 0d,e4t .mm/s vägd RMS.
+Stängsel, utfaSrtöt rosctah b aynggnnaand suatgreåan fgör komplementbyggnader för flerbostadshus är
+150 kvadratmeter inom användningsområdet.
+Utfartsförbud.
+I entréplan på någon av de byggnader som ligger vid torget ska minst 100
+Utformning
+kvadratmeter centrumfunktion anordnas.
+Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är 35                                        PLANBESTÄMMELSER
+kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
+Endast flerbostadshus.                                                                                      Följande gäller inom områden med nedanstående beteckningar. Endast angiven
+användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom
+Endast friliggande en- och tvåbostadhus.
+EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
+hela området.
+Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.
+Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
+GRÄNSER
+Utförande
+Upphävande   av strandskydd
+Planområdesgräns.
+Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
+Strandskyddet är upphävt.
+för hantering av dagvatten. Vegetationsklädda tak på                                                                     Användningsgräns.
+komplementbyggnad får tillgodoräknas.
+EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK
+Egenskapsgräns.
+Avgränsad   viaF uslel lkaustnkodmärp eengseatniosnk faöpr asnggröärninsg soyctohr. användningsgräns
+Sekundär egenskapsgräns.
+Markens  anordBnyagngdnea doecr hs kvae ggreutnadtliäogngas till fast botten alternativt lastkompenseras.
+Sammanfallande sekundär och egenskapsgräns.
+MBaorktteennsv åhnöijndg feånr isnktea vuatfroar mhöagsr me eädn e\<na nvgåinvientg>s m heötjedr oömve mr ninosltlp 3la,5n emt.eter
+för centrumlokal.
+ANVÄNDNING      AV  MARK
+Upphävande   av strandskydd
+Utnyttjandegrad
+Allmän platsmark
+Strandskyddet är upphävt.
+Största byggnadsarea är \<angivet> m².
+Huvudgata.
+GENOMFÖRANDETID
+Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
+Lokalgata.
+Genomförandetidbeanl käorn 1g0e rå (rä. ven inglasade) och skärmtak uppföras.
+Gång- och cykelväg.
+Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.                                                                        Natur.
+Största byggnadsarea för huvudbyggnader är 660 m². Därutöver får                                                         Park.
+balkonger (även inglasade) och skärmtak uppföras.
+Genomfartsväg.
+Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får
+Kvartersmark
+balkonger (även inglasade) och skärmtak uppföras.
+Bostäder.
+Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.                                                                        Centrumlokaler i bottenvåningen.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är                                                       Teknisk anläggning - transformatorstation.
+575 kvadratmeter inom användningsområdet.
+Teknisk anläggning - pumpstation.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+Parkeringshus.
+900 kvadratmeter inom användningsområdet.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+200 kvadratmeter inom användningsområdet.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+150 kvadratmeter inom användningsområdet.
+I entréplan på någon av de byggnader som ligger vid torget ska minst 100
+kvadratmeter centrumfunktion anordnas.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är 35
+kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
+
+Bostadskomplement.
+
+Parkeringsgarage får uppföras under bostadsgård och byggnad.
+
+Beteckningar inom  parentes
+Beteckning i kartan som omgärdas av parentes anger bestämmelse i
+
+annat plan än markplan.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALL  ALLMÄN    PLATS
+Utformning av allmän plats
+
+Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
+plankartan där inget annat anges.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALL  KVARTERSMARK
+Höjd på byggnadsverk
+
+Högsta nockhöjd på komplementbyggnader till flerbostadshusen är 4,5 meter och till
+småhusen 3,5 meter.
+
+Skydd  mot störningar
+
+Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
+plankartan.
+
 Om  ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften av
 bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35
 kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad
 sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida
+
 menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå
 nattetid påhögst 70 dBA.
+
 Utförande
 Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +4,5 m
+
 (RH 2000) över nollplanet.
 Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för
 VA.
-Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt
-lastkompenseras.
-Villkor för startbesked
-Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har
-kommit tillstånd.
+
+Åkerholme ska bevaras.
+
 EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
+EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK
+Avgränsad   via sekundär egenskapsgräns    och användningsgräns
 Avgränsad   via egenskapsgräns   och  användningsgräns
+Upphävande   av strandskydd
+Begränsning  av markens  utnyttjande
+Strandskyddet är upphävt.
+Marken får inte förses med byggnad.
+PLANBESTÄMMELSER                                                           EGENSKAPSBESTÄMMELSER             FÖR  ALL  ALLMÄN    PLATS                              Gång- och cykelväg.
+Skala 1:2000 i A1                                                                                                                                                      Marken får endast förses med komplementbyggnad.                 EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK
+Utformning av allmän plats                                                               Markens höjd får inte vara högre än +6,4 meter över nollplanet.
+Följande gäller inom områden med nedanstående beteckningar. Endast angiven                                                                                Avgränsad   via sekundär egenskapsgräns    och användningsgräns
+Fastighetsstorlek
+Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i         Markens höjd får inte vara högre än +7,1 meter över nollplanet.
+Detaljplanen är baserad på koordinatsystemet SWEREF 99                             användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom
+plankartan där inget annat anges.                                              Markens  anordnande  och vegetation
+1200 och höjdsystemet RH 2000                                                      hela området.                                                                             Minsta fastighetsstorlek är 160 m².                                       Markens höjd får inte vara högre än +6,5 meter över nollplanet.
+Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
+Höjd på byggnadsverk
+TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2025-10-13                                                                                       EGENSKAPSBESTÄMMELSER             FÖR  ALL  KVARTERSMARK                                 Full lastkompensation för angöringsytor.
+GRÄNSER
+Upphävande   av strandskydd
+Höjd på byggnadHsövgestrak nockhöjd är \<angivet> meter.                                  Ingen last får påföras med undantag för gc-vägar med variabel last á 5
+Registernummer, tomtnummer                   Bostadshus fasad, resp. tak          Planområdesgräns.
+kPaS. trandskyddet är upphävt.
+Högsta nockhöjd pHå ökgosmtap lneomcekhnötbjdy gägrn 1a2d emre ttilel rf loecrbho fsåtra idnsrhymusmena ätvrå 4 (,25) m våenteinr goacrh. till
+Gatunamn
+Användningsgräns.
+småhusen 3,5 meter.                                                                      Ingen last får påföras .
+Högsta nockhöjd är 20 meter och får inrymma fyra (4) våningar.
+Höjdpunkt                                                                                                                                                                                                                      GENOMFÖRANDETID
+Egenskapsgräns.
+Skydd  mot störningar                                                                    Åkerholme ska bevaras.
+Fastighetsgräns                                                                                                                                                Högsta nockhöjd är 24 meter och får inrymma fem (5) våningar.   Genomförandetiden är 10 år.
+Sekundär egenskapsgräns.
+Gång- och cykelbana                                                                                                                             Marken får belasta H s ö m g e s d ta m n a o x c k 1 h 0 ö j k d P f a ö r m b e y d g g u n tg a å d n s g d s e p l u i n sö kt d f e r r å n ä r p 2 la 7 n m er e a t d e r h o ö c jd h s f ä å t r t n in in r g ym i ma
+EGENSKAPSBESTÄMMELSER            FÖR   KVARTERSMARK
+Sammanfallande sekundär och egenskapsgräns.                   plankartan.
+Vägbana                                                                                                                                                        sex (6) våningar. Högsta nockhöjd för byggnadel i norr är 24 meter och
+Avgränsad  via egenskapsgräns    och användningsgräns
+Om  ekvivalent ljudfnåivr åin vryidm bmoas tfaedme n(s5 )f avsåandin ägra >r. 6.0 dBA ska minst hälften av
+ANVÄNDNING      AV MARK
+Begränsning av markens  utnyttjande
+bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35
+Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus
+Allmän platsmark                                                           kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad
+och komplementbyggnad anordnas.                                           Marken får inte förses med byggnad.
+ORIENTERINGSKARTA                                                                                                                                           sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida
+Huvudgata.                                                      Markens  anordnande  och vegetation                                                    Marken får endast förses med komplementbyggnad.
+menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå
+Lokalgata.                                                    nattetid påhögst 70T odrBgA s.ka anläggas.                                  Fastighetsstorlek
+Gång- och cykelväg.                                           Utförande      Åkerholme ska bevaras.                                                    Minsta fastighetsstorlek är 160 m².
+
+Natur.                                                        Byggnader ska uppDfaögravsa tmteendd iökvee srskvaä amnnläingggsassk.yddad konstruktion upp till minst +4,5 m
+(RH 2000) över nollplanet.
+Park.                                                                         Parkering får anordnas.
+Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för
+Genomfartsväg.                                                                Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.
+VA.
+Kvartersmark                                                                  Markreservat för allmännyttiga ändamål
+Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt
+Bostäder.                                                     lastkompenseras. Markreservat för allmännyttiga underjordiska ledningar.
+
+Centrumlokaler i bottenvåningen.
+
+Teknisk anläggning - transformatorstation.
+
+Teknisk anläggning - pumpstation.
+Parkeringshus.
+
+Bostadskomplement.
+
+Parkeringsgarage får uppföras under bostadsgård och byggnad.
+
+Beteckningar inom parentes
+Beteckning i kartan som omgärdas av parentes anger bestämmelse i
+
+annat plan än markplan.
+
+VilMlkaorrk fröers setravratbt efösrk egdemensamhetsanläggningar
+
+Startbesked får inteM gaerksr efösre brvoastt äfödre gr efömrreänns aamvshcehtaskatnnliänggg tnililn pgl.anerad höjdsättning har
+kommit tillstånd.
+Placering
+EGENSKAPSBGEaSraTgÄepMorMt sEkLa SplEacRe rFasÖ mRin AstL 6L mMeÄteNr f rPånL kAvTarStersgata.
+
+Avgränsad   via egenskapsgräns   och användningsgräns
+
 Utformning av allmän plats
 Markens höjd över nollplanet ska vara \<angivet> meter.
+
 Damm  ska uppföras.
+
+Dagvattendike ska anläggas.
+
+Höjd på byggnadsverk
+
+DetaljplaHnög sfötar n bocokhsötjäd däre \<ra nmgiveedt> mmeeterra.
+Granskningshandling
+Högsta nockhöjd är 12 meter och får inrymma två (2) våningar.
+inom
+Högsta nockhöjd är 20 meter och får inrymma fyra (4) våningar.
+del av  THöölögs 4ta: 1no4c8k,h öTjdö älör 254: m3,eter och får inrymma f
+
+Tölö  s:3H oöcgshta T nöolcök h4ö:jd1f3ör byggnadsdel i söder är 27
+sex (6) våningar. Högsta nockhöjd för byggnad
+i Kungsbacka    stad
+får inrymma fem (5) våningar. .
+Högsta nockhöjd för parkeringshus är 8 meter.
+Upprättad 2025-10-13
+och komplementbyggnad anordnas.
+Markens  anordnande  och vegetation
+
+Ida LennaTrotsrgs osnka anläggas. Maria Malone
+Verksamh Å e k t e s r c h h o e lm f P e l s a k n a bevarasS. enior Planarkitekt
+
+PLANKDaAgvRattTenAdike Dsektaal japlnanläegn gäar usp.prättad enligt PBL KBXXX
+2010:900 med standardförfarande
+Parkering får anordnas.
+
+Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.
+
+Markreservat för allmännyttiga ändamål
+
+Markreservat för allmännyttiga underjordiska ledningar.
+Markreservat för gemensamhetsanläggningar
+
+Markreservat för gemensamhetsanläggning.
+
+Placering
+
+Garageport ska placeras minst 6 meter från kvartersgata.
+Skydd  mot störningar
+
+Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.
+
+Stängsel, utfart och annan utgång
+
+Utfartsförbud.
+Utformning
+
+Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
+
+Endast flerbostadshus.
+
+Endast friliggande en- och tvåbostadhus.
+
+Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.
+Utförande
+
+Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
+för hantering av dagvatten. Vegetationsklädda tak på
+
+komplementbyggnad får tillgodoräknas.
+Full lastkompensation för angöringsytor.
+
+Byggnader ska grundläggas till fast botten alternativt lastkompenseras.
+
+Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter
+för centrumlokal.
+
+Utnyttjandegrad
+Största byggnadsarea är \<angivet> m².
+
+Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för huvudbyggnader är 660 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+575 kvadratmeter inom användningsområdet.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+900 kvadratmeter inom användningsområdet.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+
+200 kvadratmeter inom användningsområdet.
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+150 kvadratmeter inom användningsområdet.
+
+I entréplan på någon av de byggnader som ligger vid torget ska minst 100
+kvadratmeter centrumfunktion anordnas.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är 35
+kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
+Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
+
+Upphävande   av strandskydd
+
+Strandskyddet är upphävt.
+
+EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK
+
+Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
+
+Markens  anordnande  och vegetation
+Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
+
+Upphävande   av strandskydd
+
+Strandskyddet är upphävt.
+
+GENOMFÖRANDETID
+
+Genomförandetiden är 10 år.
+
+Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt
+lastkompenseras.
+
+Villkor för startbesked
+
+Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har
+kommit tillstånd.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
+
+Avgränsad   via egenskapsgräns   och användningsgräns
+
+Utformning av allmän plats
+Markens höjd över nollplanet ska vara \<angivet> meter.
+
+Damm  ska uppföras.
+
 Dagvattendike ska anläggas.
 Gång- och cykelväg.
+
 Markens höjd får inte vara högre än +6,4 meter över nollplanet.
+
 Markens höjd får inte vara högre än +7,1 meter över nollplanet.
+
 Markens höjd får inte vara högre än +6,5 meter över nollplanet.
 Full lastkompensation för angöringsytor.
+
 Ingen last får påföras med undantag för gc-vägar med variabel last á 5
 kPa.
+
 Ingen last får påföras .
-PLANBESTÄMMELSER                                                           Skydd  mot störningar
+
 Åkerholme ska bevaras.
-Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.
-Följande gäller inom områden med nedanstående beteckningar. Endast angiven
-användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom SEtäGnEgsNeSl,K uAtfaPrSt oBcEhS aTnÄnaMnM uEtgLåSnEgR FÖR KVARTERSMARK
-hela området.                                                               Avgränsad   vUitafa ertgsfeönrbsukda. psgräns och användningsgräns
-Begränsning  av markens  utnyttjande
-GRÄNSER                                                                    Utformning
-Marken får inte förses med byggnad.
-Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
-Planområdesgräns.
-Marken får endast förses med komplementbyggnad.
-Användningsgräns.
-Endast flerbostadshus.
-Fastighetsstorlek
-Egenskapsgräns.
-Endast friliggande en- och tvåbostadhus.
-Minsta fastighetsstorlek är 160 m².
-Sekundär egenskapsgräns.
-Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.
-Höjd på byggnadsverk
-Sammanfallande sekundär och egenskapsgräns.
-Utförande
-Högsta nockhöjd är \<angivet> meter.
-ANVÄNDNING      AV MARK
-Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
-Högsta nockhöjd är 12 meter och får inrymma två (2) våningar.
-för hantering av dagvatten. Vegetationsklädda tak på
-Allmän platsmark
-Högsta nockhöjd är 20 meter och får inrymma fyra (4) våningar.
-komplementbyggnad får tillgodoräknas.
-Huvudgata.
-Högsta nockhöjd är 24 meter och får inrymma fem (5) våningar.
-Full lastkompensation för angöringsytor.
-Lokalgata.
-Högsta nockhöjd för byggnadsdel i söder är 27 meter och får inrymma
-Byggnader ska grundläggas till fast botten alternativt lastkompenseras.
-Gång- och cykelväg.                                                         sex (6) våningar. Högsta nockhöjd för byggnadel i norr är 24 meter och
-Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter
-får inrymma fem (5) våningar. .
-Natur.                                                                     för centrumlokal.
-Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus
-Park.                                                         Utnyttjandegrad
-och komplementbyggnad anordnas.
-Genomfartsväg.                                                             Största byggnadsarea är \<angivet> m².
-Markens  anordnande  och vegetation
-Kvartersmark                                                                            Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
-Torg ska anläggas.
-balkonger (även inglasade) och skärmtak uppföras.
-Bostäder.
-Åkerholme ska bevaras.
-Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får
-Centrumlokaler i bottenvåningen.
-baDlakognvagteter n(ädvikeen sinkgal aasnalädgeg) aosc.h skärmtak uppföras.
-Teknisk anläggning - transformatorstation.
-SPtöarrsktae rbinygg gfånra adnsoarrdenaa fsö.r huvudbyggnader är 660 m². Därutöver får
-Teknisk anläggning - pumpstation.                                          ba S l t k e o n n m g u e r r s (ä k v a e b n e i v n a g r l a a s s a a d lt e e ) r n o a c t h iv s t k å ä te rm ru t p a p k b u y p g p g f a ö s ra m s. ed liknande funktion.
-Parkeringshus.                                                 Markreservat S f tö ö r r s a ta l l b m y ä g n gn n a y d tt s i a g r a e a ä n fö d r a h m uv å u l dbyggnader är 700 m². Därutöver får
-balkonger (även inglasade) och skärmtak uppföras.
-Bostadskomplement.                                                          Markreservat för allmännyttiga underjordiska ledningar.
-Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
-Parkeringsgarage får uppföras under bostadsgård och byggnad.   Markreservatb afölkro gnegemr e(änvseanm inhgelatssaadnelä) gocghn sinkgäarmrtak uppföras.
-Beteckningar inom parentes                                                              SMtöarsrktare bsyegrgvanta fdösra greeam feönrs kaommhpeletsmanelnätgbgyngignnga.der för flerbostadshus är
-575 kvadratmeter inom användningsområdet.
-Beteckning i kartan som omgärdas av parentes anger bestämmelse i Placering
-annat plan än markplan.                                                    Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Garageport ska placeras minst 6 meter från kvartersgata.
-900 kvadratmeter inom användningsområdet.
-EGENSKAPSBESTÄMMELSER            FÖR   ALL  ALLMÄN    PLATS                 Skydd  mot störningar
-Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Utformning av allmän plats
-20V0ib kravtaiodnrastnmiveåt ei rb ionsotmad a fnåvr äenj dönvienrgsskorimdarå 0d,e4t .mm/s vägd RMS.
-Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i Stängsel, utfaSrtöt rosctah b aynggnnaand suatgreåan fgör komplementbyggnader för flerbostadshus är
-plankartan där inget annat anges.                                                       150 kvadratmeter inom användningsområdet.
-Utfartsförbud.
-I entréplan på någon av de byggnader som ligger vid torget ska minst 100
-EGENSKAPSBESTÄMMELSER            FÖR   ALL  KVARTERSMARK
-Utformning
-kvadratmeter centrumfunktion anordnas.
-Höjd på byggnadsverk
-Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
-Största byggnadsarea för komplementbyggnader för flerbostadshus är 35                                        PLANBESTÄMMELSER                                                                         Bostadskomplement.                                            Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt        Minsta fastighetsstorlek är 160 m².                                        Utfartsförbud.                                                              Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Högsta nockhöjd på komplementbyggnader till flerbostadshusen är 4,5 meter och till      kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.                                                                                                                                                                                                 lastkompenseras.                                                                                                                                                                                                                                900 kvadratmeter inom användningsområdet.
-Parkeringsgarage får uppföras under bostadsgård och byggnad.                                                                              Höjd på byggnadsverk                                                       Utformning
-småhusen 3,5 meter.
-Endast flerbostadshus.                                                                                      Följande gäller inom områden med nedanstående beteckningar. Endast angiven
-Villkor för startbesked                                                                                                                                                                                                                         Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Skydd mot störningar                                                                                                                                                                                 användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom Beteckningar inom parentes                                                                                                                                Högsta nockhöjd är \<angivet> meter.                                        Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
-Endast friliggande en- och tvåbostadhus.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           200 kvadratmeter inom användningsområdet.
-EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS                                                                                                                                                                                                                           Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har
-hela området.
-Beteckning i kartan som omgärdas av parentes anger bestämmelse i                                                                                       Högsta nockhöjd är 12 meter och får inrymma två (2) våningar.
-Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i         Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.                                                                                                                                                                                              kommit tillstånd.                                                                                                                                                                                                                               Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
-annat plan än markplan.                                                                                                                                                                                                           Endast flerbostadshus.
-plankartan.                                                                                                                                                                                                                                                                                                                                                                                                                                          Högsta nockhöjd är 20 meter och får inrymma fyra (4) våningar.                                                                                         150 kvadratmeter inom användningsområdet.
-GRÄNSER
-Utförande
-Upphävande   av strandskydd
-Om ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften av                                                                                                                                                                                                                                                                                  EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS                                   Högsta nockhöjd är 24 meter och får inrymma fem (5) våningar.              Endast friliggande en- och tvåbostadhus.                                    I entréplan på någon av de byggnader som ligger vid torget ska minst 100
-EGENSKAPSBESTÄMMELSER            FÖR   ALL  ALLMÄN    PLATS
-Planområdesgräns.
-bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35        S M tra in n s d t s 4 k 0 y % dd a e v t ä b r o u s p ta p d h s ä g v å t. rden ska bestå av grönska eller infiltrerbara ytor                                                                                                                                    Avgränsad   via egenskapsgräns   och  användningsgräns                                                                                                              Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.       kvadratmeter centrumfunktion anordnas.
-kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad     för hantering av dagvatten. Vegetationsklädda tak på                                                                     Användningsgräns.                                              Utformning av allmän plats                                                                                                                                          Högsta nockhöjd för byggnadsdel i söder är 27 meter och får inrymma
-Utformning av allmän plats                                                               sex (6) våningar. Högsta nockhöjd för byggnadel i norr är 24 meter och Utförande                                                                       Största byggnadsarea för komplementbyggnader för flerbostadshus är 35
-sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida EGENSKAPS k B o E m S pl T e Ä me M n M tby E g L gn S a E d R få r F t Ö illg R o d K o V rä A kn R as T . ERSMARK                                                                              Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i
-Egenskapsgräns.                                                                                                                                                                                                                    får inrymma fem (5) våningar. .                                                                                                                        kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
-menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå Avgränsad viaF uslel lkaustnkodmärp eengseatniosnk faöpr asnggröärninsg soyctohr. användningsgräns                                                                                               plankartan där inget annat anges.                                                       Markens höjd över nollplanet ska vara \<angivet> meter.                                                                                                 Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
-nattetid påhögst 70 dBA.                                                                                                                                                                                          Sekundär egenskapsgräns.                                                                                                                                                                                                           Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus      för hantering av dagvatten. Vegetationsklädda tak på
-Damm  ska uppföras.
-Markens  anordBnyagngdnea doecr hs kvae ggreutnadtliäogngas till fast botten alternativt lastkompenseras.
-Utförande                                                                                                                                                                                                         Sammanfallande sekundär och egenskapsgräns.                    EGENSKAPSBESTÄMMELSER            FÖR   ALL  KVARTERSMARK                                                                                                            och komplementbyggnad anordnas.                                            komplementbyggnad får tillgodoräknas.                          EGENSKAPSBESTÄMMELSER            FÖR   ALLMÄN    PLATS
-Dagvattendike ska anläggas.
-MBaorktteennsv åhnöijndg feånr isnktea vuatfroar mhöagsr me eädn e\<na nvgåinvientg>s m heötjedr oömve mr ninosltlp 3la,5n emt.eter                                                       Höjd på byggnadsverk                                                                                                                                   Markens  anordnande  och vegetation                                                     Full lastkompensation för angöringsytor.
-Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +4,5 m       för centrumlokal.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Avgränsad  via sekundär  egenskapsgräns    och användningsgräns
-ANVÄNDNING      AV  MARK                                                                                                                                            Gång- och cykelväg.
-Upphävande   av strandskydd
-(RH 2000) över nollplanet.                                                                                                                                                                                                                                                       Högsta nockhöjd på komplementbyggnader till flerbostadshusen är 4,5 meter och till                                                                                  Torg ska anläggas.                                                         Byggnader ska grundläggas till fast botten alternativt lastkompenseras.
-Upphävande  av strandskydd
-Utnyttjandegrad
-Allmän platsmark                                                            småhusen 3,5 meter.                                                                     Markens höjd får inte vara högre än +6,4 meter över nollplanet.
-Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för Strandskyddet är upphävt.                                                                                                                                                                                                                                                                                                                                  Åkerholme ska bevaras.                                                     Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter
-Strandskyddet är upphävt.
-VA.                                                                                      Största byggnadsarea är \<angivet> m².                                                                                    Huvudgata.                                                     Skydd mot störningar                                                                    Markens höjd får inte vara högre än +7,1 meter över nollplanet.                                                                                        för centrumlokal.
-Dagvattendike ska anläggas.
-GENOMFÖRANDETID
-Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt        Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får                                                         Lokalgata.                                                     Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i        Markens höjd får inte vara högre än +6,5 meter över nollplanet.                                                                           Utnyttjandegrad                                                             EGENSKAPSBESTÄMMELSER            FÖR   KVARTERSMARK
-Parkering får anordnas.
-Genomförandetidbeanl käorn 1g0e rå (rä. ven inglasade) och skärmtak uppföras.
-lastkompenseras.                                                                                                                                                                                                  Gång- och cykelväg.                                            plankartan.                                                                             Full lastkompensation för angöringsytor.                                                                                                               Största byggnadsarea är \<angivet> m².                          Avgränsad  via sekundär  egenskapsgräns    och användningsgräns
-Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.
-Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får
-Villkor för startbesked                                                                                                                                                                                                                                                          Om ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften av
-Ingen last får påföras med undantag för gc-vägar med variabel last á 5                                                                                                                                                Markens anordnande   och vegetation
-balkonger (även inglasade) och skärmtak uppföras.                                                                        Natur.                                                                                                                                                                                                                                                                                                        Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
-bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35                                                                       Markreservat för allmännyttiga ändamål
-Startbesked får inte ges för bostäder förrän avschaktning till planerad höjdsättning har                                                                                                                                                                                                                                                                                 kPa.                                                                                                                                                   balkonger (även inglasade) och skärmtak uppföras.
-Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
-Största byggnadsarea för huvudbyggnader är 660 m². Därutöver får                                                         Park.                                                          kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad
-kommit tillstånd.                                                                                                                                                                                                                                                                                                                                                                                                                                    Markreservat för allmännyttiga underjordiska ledningar.
-Ingen last får påföras .
-balkonger (även inglasade) och skärmtak uppföras.                                                                                                                                       sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida                                                                                                                                                                Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får Upphävande av strandskydd
-Genomfartsväg.
-menas fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå         Åkerholme ska bevaras.                                         Markreservat för gemensamhetsanläggningar                                               balkonger (även inglasade) och skärmtak uppföras.
-EGENSKAPSBESTÄMMELSER            FÖR   ALLMÄN    PLATS                                   Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får
-Strandskyddet är upphävt.
-Kvartersmark                                                                nattetid påhögst 70 dBA.
-balkonger (även inglasade) och skärmtak uppföras.                                                                                                                                                                                                                                                                                                           Markreservat för gemensamhetsanläggning.                                   Största byggnadsarea för huvudbyggnader är 660 m². Därutöver får
-Avgränsad  via egenskapsgräns    och användningsgräns
+
 EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK
-Bostäder.                                                      Utförande                                                                                                                                                                                                                                      balkonger (även inglasade) och skärmtak uppföras.
-Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får                                                                                                                                                                                                                                                                               Placering                                                                                                                                              GENOMFÖRANDETID
-Utformning av allmän plats
-Avgränsad   via egenskapsgräns   och  användningsgräns
-balkonger (även inglasade) och skärmtak uppföras.                                                                        Centrumlokaler i bottenvåningen.                               Byggnader ska uppföras med översvämningsskyddad konstruktion upp till minst +4,5 m                                                                                                                                                             Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får Genomförandetiden är 10 år.
-Garageport ska placeras minst 6 meter från kvartersgata.
-Markens höjd över nollplanet ska vara \<angivet> meter.                                                                                                                                                                                                              (RH 2000) över nollplanet.                                                 Begränsning  av markens  utnyttjande                                                                                                                                balkonger (även inglasade) och skärmtak uppföras.
-Största byggnadsarea för komplementbyggnader för flerbostadshus är                                                       Teknisk anläggning - transformatorstation.
-Skydd mot störningar
-Damm  ska uppföras.                                                         575 kvadratmeter inom användningsområdet.                                                                                                                                               Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för Marken får inte förses med byggnad.                                                                                                                  Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
-Teknisk anläggning - pumpstation.
-Dagvattendike ska anläggas.                                                 Största byggnadsarea för komplementbyggnader för flerbostadshus är                                                                                                                      VA.                                                                                     Marken får endast förses med komplementbyggnad.                             Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.               balkonger (även inglasade) och skärmtak uppföras.
-900 kvadratmeter inom användningsområdet.                                                                                Parkeringshus.                                                                                                                                                                                                        Stängsel, utfart och annan utgång                                                       Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Gång- och cykelväg.
-Fastighetsstorlek
-575 kvadratmeter inom användningsområdet.
-Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Markens höjd får inte vara högre än +6,4 meter över nollplanet.
-200 kvadratmeter inom användningsområdet.
-Markens höjd får inte vara högre än +7,1 meter över nollplanet.
-Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Markens höjd får inte vara högre än +6,5 meter över nollplanet.
-150 kvadratmeter inom användningsområdet.
-Full lastkompensation för angöringsytor.                                    I entréplan på någon av de byggnader som ligger vid torget ska minst 100
-kvadratmeter centrumfunktion anordnas.
-Ingen last får påföras med undantag för gc-vägar med variabel last á 5
-kPa.                                                                        Största byggnadsarea för komplementbyggnader för flerbostadshus är 35
-kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
-Ingen last får påföras .
-Åkerholme ska bevaras.
-EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
-EGENSKAPSBESTÄMMELSER            FÖR   KVARTERSMARK
-Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
-Avgränsad  via egenskapsgräns    och användningsgräns
-Upphävande   av strandskydd
-Begränsning av markens  utnyttjande
-Strandskyddet är upphävt.
+
+Avgränsad   via egenskapsgräns   och användningsgräns
+Begränsning  av markens  utnyttjande
+
 Marken får inte förses med byggnad.
-PLANBESTÄMMELSER                                                            EGENSKAPSBESTÄMMELSER            FÖR   ALL  ALLMÄN    PLATS                             Gång- och cykelväg.                                                         Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.       Största byggnadsarea för huvudbyggnader är 660 m². Därutöver får
-Skala 1:2000 i A1                                                                                                                                                      Marken får endast förses med komplementbyggnad.                EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK                                                                                                              balkonger (även inglasade) och skärmtak uppföras.
-Utformning av allmän plats                                                              Markens höjd får inte vara högre än +6,4 meter över nollplanet. Markreservat för allmännyttiga ändamål
-Följande gäller inom områden med nedanstående beteckningar. Endast angiven    Fastighetsstorlek                                                           Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns                                                                                                 Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får
-Detaljplanen är baserad på koordinatsystemet SWEREF 99                             användning och utformning är tillåten. Där beteckning saknas gäller bestämmelsen inom Marken får belastas med max 10 kPa med utgångspunkt från planerad höjdsättning i Markens höjd får inte vara högre än +7,1 meter över nollplanet.          Markreservat för allmännyttiga underjordiska ledningar.                    balkonger (även inglasade) och skärmtak uppföras.
-plankartan där inget annat anges.                                              Markens  anordnande  och vegetation
-1200 och höjdsystemet RH 2000                                                      hela området.                                                                              Minsta fastighetsstorlek är 160 m².                                      Markens höjd får inte vara högre än +6,5 meter över nollplanet. Markreservat för gemensamhetsanläggningar
-Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
-Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
+
+Marken får endast förses med komplementbyggnad.
+
+Fastighetsstorlek
+
+Minsta fastighetsstorlek är 160 m².
+
 Höjd på byggnadsverk
-TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2025-10-13                                                                                        EGENSKAPSBESTÄMMELSER            FÖR   ALL  KVARTERSMARK                                Full lastkompensation för angöringsytor.                                    Markreservat för gemensamhetsanläggning.                                   balkonger (även inglasade) och skärmtak uppföras.
-GRÄNSER
-Upphävande   av strandskydd
-Höjd på byggnadHsövgestrak nockhöjd är \<angivet> meter.                                 Ingen last får påföras med undantag för gc-vägar med variabel last á 5 Placering                                                                       Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Registernummer, tomtnummer                   Bostadshus fasad, resp. tak          Planområdesgräns.
-kPaS. trandskyddet är upphävt.                                                                                                                         575 kvadratmeter inom användningsområdet.
-Högsta nockhöjd pHå ökgosmtap lneomcekhnötbjdy gägrn 1a2d emre ttilel rf loecrbho fsåtra idnsrhymusmena ätvrå 4 (,25) m våenteinr goacrh. till
-Gatunamn                                                                                                                                                                                                                                                                                                             Garageport ska placeras minst 6 meter från kvartersgata.
-Användningsgräns.
-småhusen  3,5 meter.                                                                     Ingen last får påföras .                                                                                                                               Största byggnadsarea för komplementbyggnader för flerbostadshus är
+
+Högsta nockhöjd är \<angivet> meter.
+Högsta nockhöjd är 12 meter och får inrymma två (2) våningar.
+
 Högsta nockhöjd är 20 meter och får inrymma fyra (4) våningar.
-Höjdpunkt                                                                                                                                                                                                                      GENOMFÖRANDETID                                                         Skydd  mot störningar
-Egenskapsgräns.                                                                                                                                                                                                                                                                                               900 kvadratmeter inom användningsområdet.
-Skydd mot störningar                                                                    Åkerholme ska bevaras.
-Fastighetsgräns                                                                                                                                                 Högsta nockhöjd är 24 meter och får inrymma fem (5) våningar.  Genomförandetiden är 10 år.
-Sekundär egenskapsgräns.                                                                                                                                                                                                           Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.               Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Gång- och cykelbana                                                                                                                             Marken får belasta H s ö m g e s d ta m n a o x c k 1 h 0 ö j k d P f a ö r m b e y d g g u n tg a å d n s g d s e p l u i n sö kt d f e r r å n ä r p 2 la 7 n m er e a t d e r h o ö c jd h s f ä å t r t n in in r g ym i ma
-EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK                                                                                                                 200 kvadratmeter inom användningsområdet.
-Sammanfallande sekundär och egenskapsgräns.                   plankartan.                                                                                                                                            Stängsel, utfart och annan utgång
-Vägbana                                                                                                                                                         sex (6) våningar. Högsta nockhöjd för byggnadel i norr är 24 meter och
-Avgränsad   via egenskapsgräns   och användningsgräns                                                                                                               Största byggnadsarea för komplementbyggnader för flerbostadshus är
-Om  ekvivalent ljudfnåivr åin vryidm bmoas tfaedme n(s5 )f avsåandin ägra >r. 6.0 dBA ska minst hälften av                                                           Utfartsförbud.
-ANVÄNDNING      AV  MARK                                                                                                                                                                                                                                                                                                   150 kvadratmeter inom användningsområdet.
-Begränsning  av markens utnyttjande
-bostadsrummen vara vända mot ljuddämpad sida. För små bostäder med boarea max 35
-Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus                                                                  Utformning
-Allmän platsmark                                                           kvm gäller istället att minst hälften av bostadsrummen ska vara vända mot ljuddämpad                                                                                                                                                            I entréplan på någon av de byggnader som ligger vid torget ska minst 100
-och komplementbyggnad anordnas.                                          Marken får inte förses med byggnad.
-ORIENTERINGSKARTA                                                                                                                                          sida om ekvivalent ljudnivå vid bostadens fasad är >65 dBA. Med ljuddämpad sida                                                                                      Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.    kvadratmeter centrumfunktion anordnas.
-Huvudgata.                                                       Markens  anordnande  och vegetation                                                   Marken får endast förses med komplementbyggnad.
-menas  fasad som har en ekvivalent ljudnivå på högst 55 dBA och maximal ljudnivå
-Största byggnadsarea för komplementbyggnader för flerbostadshus är 35
-Lokalgata.                                                    nattetid påhögst 70T odrBgA s.ka anläggas.                                  Fastighetsstorlek                                                                        Endast flerbostadshus.                                                     kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
-Gång- och cykelväg.                                            Utförande      Åkerholme ska bevaras.                                                   Minsta fastighetsstorlek är 160 m².                                         Endast friliggande en- och tvåbostadhus.
-Natur.                                                        Byggnader ska uppDfaögravsa tmteendd iökvee srskvaä amnnläingggsassk.yddad konstruktion upp till minst +4,5 m Höjd på byggnadsverk                                   Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr. EGENSKAPSBESTÄMMELSER     FÖR  ALLMÄN    PLATS
-(RH 2000) över nollplanet.
-Park.                                                                         Parkering får anordnas.                                        DetaljplaHnög sfötar n bocokhsötjäd däre \<ra nmgiveedt> mmeeterra.      Utförande                                                                   Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
-Lägsta höjd på färdigt golv ska vara minst 0,3 meter över marknivå i förbindelsepunkt för
-Genomfartsväg.                                                                Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.     Högsta nockhöjd är 12 meter och får inrym G m r a a t n vå s ( k 2 n ) v in ån g in s g h ar a . ndling Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor Upphävande av strandskydd
-VA.                                                                            inom
-för hantering av dagvatten. Vegetationsklädda tak på
-Kvartersmark                                                                  Markreservat för allmännyttiga ändamål                                                Högsta nockhöjd är 20 meter och får inrymma fyra (4) våningar.                                                                                         Strandskyddet är upphävt.
-Byggnader som belastar mer än 10 kPa ska grundläggas till fast botten alternativt
-komplementbyggnad får tillgodoräknas.
-Bostäder.                                                     lastkompenseras. Markreservat för allmännyttiga underjordiska ledningar.         del av THöölögs 4ta: 1no4c8k,h öTjdö älör 254: m3,eter och får inrymma f
-Full lastkompensation för angöringsytor.                      EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK
-Centrumlokaler i bottenvåningen.                               VilMlkaorrk fröers setravratbt efösrk egdemensamhetsanläggningar                Tölö s:3H oöcgshta T nöolcök h4ö:jd1f3ör byggnadsdel i söder är 27
-Byggnader ska grundläggas till fast botten alternativt lastkompenseras. Avgränsad via sekundär egenskapsgräns och användningsgräns
-sex (6) våningar. Högsta nockhöjd för byggnad
-Teknisk anläggning - transformatorstation.                    Startbesked får inteM gaerksr efösre brvoastt äfödre gr efömrreänns aamvshcehtaskatnnliänggg tnililn pgl.anerad höjdsättning har i Kungsbacka stad
-får inrymma fem (5) våningar. .                                             Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter Markens anordnande och vegetation
-kommit tillstånd.
-Teknisk anläggning - pumpstation.                                Placering                                                                                                                                                         för centrumlokal.
-Högsta nockhöjd för parkeringshus är 8 meter.                                                                                                          Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
-Upprättad 2025-10-13
-Parkeringshus.                                                 EGENSKAPSBGEaSraTgÄepMorMt sEkLa SplEacRe rFasÖ mRin AstL 6L mMeÄteNr f rPånL kAvTarStersgata. och komplementbyggnad anordnas.                        Utnyttjandegrad
-Upphävande   av strandskydd
-Avgränsad  via egenskapsgräns    och användningsgräns
-Bostadskomplement.                                                                                                                        Markens  anordnande  och vegetation                                                      Största byggnadsarea är \<angivet> m².
-Strandskyddet är upphävt.
-Utformning av allmän plats
-Parkeringsgarage får uppföras under bostadsgård och byggnad.                                                                                   Ida LennaTrotsrgs osnka anläggas. Maria Malone                                      Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
-Beteckningar inom  parentes                                                              Markens höjd över nollplanet ska vara \<angivet> meter.             Verksamh Å e k t e s r c h h o e lm f P e l s a k n a bevarasS. enior Planarkitekt  balkonger (även inglasade) och skärmtak uppföras.             GENOMFÖRANDETID
-Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får Genomförandetiden är 10 år.
-Damm  ska uppföras.
-Beteckning i kartan som omgärdas av parentes anger bestämmelse i                                                                              PLANKDaAgvRattTenAdike Dsektaal japlnanläegn gäar usp.prättad enligt PBL KBXXX
-balkonger (även inglasade) och skärmtak uppföras.
-2010:900 med standardförfarande
-annat plan än markplan.                                                     Dagvattendike ska anläggas.
+
+Högsta nockhöjd är 24 meter och får inrymma fem (5) våningar.
+Högsta nockhöjd för byggnadsdel i söder är 27 meter och får inrymma
+
+sex (6) våningar. Högsta nockhöjd för byggnadel i norr är 24 meter och
+får inrymma fem (5) våningar. .
+
+Högsta nockhöjd för parkeringshus är 8 meter. Utöver det får trapphus
+och komplementbyggnad anordnas.
+Markens  anordnande  och vegetation
+
+Torg ska anläggas.
+
+Åkerholme ska bevaras.
+
+Dagvattendike ska anläggas.
 Parkering får anordnas.
+
+Stenmur ska bevaras alternativt återuppbyggas med liknande funktion.
+
+Markreservat för allmännyttiga ändamål
+
+Markreservat för allmännyttiga underjordiska ledningar.
+Markreservat för gemensamhetsanläggningar
+
+Markreservat för gemensamhetsanläggning.
+
+Placering
+
+Garageport ska placeras minst 6 meter från kvartersgata.
+Skydd  mot störningar
+
+Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.
+
+Stängsel, utfart och annan utgång
+
+Utfartsförbud.
+
+Utformning
+
+Endast friliggande en- och två bostadshus, parhus, radhus och kedjehus.
+
+Endast flerbostadshus.
+
+Endast friliggande en- och tvåbostadhus.
+
+Byggnaden ska vara i två olika nockhöjder med den lägre delen i norr.
+
+Utförande
+Minst 40% av bostadsgården ska bestå av grönska eller infiltrerbara ytor
+
+för hantering av dagvatten. Vegetationsklädda tak på
+komplementbyggnad får tillgodoräknas.
+
+Full lastkompensation för angöringsytor.
+Byggnader ska grundläggas till fast botten alternativt lastkompenseras.
+
+Bottenvåningen ska utformas med en vånings höjd om minst 3,5 meter
+för centrumlokal.
+
+Utnyttjandegrad
+
+Största byggnadsarea är \<angivet> m².
+Största byggnadsarea för huvudbyggnader är 330 m². Därutöver får
+
+balkonger (även inglasade) och skärmtak uppföras.
+Största byggnadsarea för huvudbyggnader är 400 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för huvudbyggnader är 660 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för huvudbyggnader är 700 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för huvudbyggnader är 990 m². Därutöver får
+balkonger (även inglasade) och skärmtak uppföras.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+575 kvadratmeter inom användningsområdet.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+900 kvadratmeter inom användningsområdet.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+200 kvadratmeter inom användningsområdet.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är
+150 kvadratmeter inom användningsområdet.
+
+I entréplan på någon av de byggnader som ligger vid torget ska minst 100
+kvadratmeter centrumfunktion anordnas.
+
+Största byggnadsarea för komplementbyggnader för flerbostadshus är 35
+kvadratmeter samt trapphus 25 kvadratmeter inom användningsområdet.
+
+EGENSKAPSBESTÄMMELSER             FÖR  ALLMÄN    PLATS
+
+Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
+
+Upphävande   av strandskydd
+Strandskyddet är upphävt.
+
+EGENSKAPSBESTÄMMELSER             FÖR  KVARTERSMARK
+Avgränsad   via sekundär  egenskapsgräns   och  användningsgräns
+
+Markens  anordnande  och vegetation
+
+Markens höjd får inte vara högre än \<angivet> meter över nollplanet.
+
+Upphävande   av strandskydd
+Strandskyddet är upphävt.
+
+GENOMFÖRANDETID
+Genomförandetiden är 10 år.
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
 

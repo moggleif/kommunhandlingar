@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2de5b8831a1587eab7143f6/17924979282
 sha256: 55360670153d7d4eac825c6683200cc8df628af6f0c7d291b747118af0a47de9
 bytes: 151239
 sidor: 5
-hamtad: 2026-10-23T06:07:48+00:00
-konverterad: 2026-10-23T06:07:49+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T10:30:23+00:00
+konverterad: 2026-11-06T10:30:29+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok]
@@ -83,28 +83,36 @@ KUNGSBACKA  KOMMUN
 
 Ärende                Beteckning Förslag                      Tid
 
-12\. LILLA VRÅ 1:4 - Bygglov för BN-2026- Förslag till beslut      5
-nybyggnad av verksamhet samt 000029 Byggnadsnämnden beviljar ansökan om min
-marklov för tillhörande         bygglov för nybyggnad av verksamhet
-markåtgärder                    samt tillhörande markåtgärder. Golvhöjden
-för byggnaderna fastställs till:
+12\. LILLA VRÅ 1:4 - Bygglov för BN-2026-
+nybyggnad av verksamhet samt 000029
+marklov för tillhörande
+markåtgärder
+
 Föredragande: André Vollmer,
-• Byggnad 1 – kontor, +56,90
 senior bygglovshandläggare
+
+Förslag till beslut           5
+Byggnadsnämnden beviljar ansökan om min
+bygglov för nybyggnad av verksamhet
+samt tillhörande markåtgärder. Golvhöjden
+för byggnaderna fastställs till:
+
+• Byggnad 1 – kontor, +56,90
 • Byggnad 2 – lagerhall, +57,30
+
 • Byggnad 3 – barkhus, +59,60
 • Byggnad 4 – pann-/biobränslecentral, +
-59,08
 
+59,08
 • Byggnad 5 – såg- och monteringshall,
 +59,30
-• Byggnad 6 – verkstad, +52,00
 
+• Byggnad 6 – verkstad, +52,00
 För att genomföra åtgärden krävs en
 kontrollansvarig. Kontrollansvarig för
 åtgärden är            .
-Avgiften för beslutet är 25 900 kronor. Av
 
+Avgiften för beslutet är 25 900 kronor. Av
 detta kostar bygglovet 13 300 kronor och
 byggskedet 12 600 kronor. Avgiften för
 bygglovet är minskad med 13 300 kronor
@@ -115,11 +123,10 @@ Avgiften är fastställd i taxan för
 byggnadsnämndens verksamhet, beslutad i
 kommunfullmäktige 2023-12-14 § 196.
 
-13\. SKÅRBY 3:64 - Bygglov för BN-2026- Förslag till beslut        5
-
+13\. SKÅRBY 3:64 - Bygglov för BN-2026- Förslag till beslut       5
 tillbyggnad av enbostadshus 001280 Byggnadsnämndens arbetsutskott avslår min
 ansökan om bygglov för tillbyggnad av
-Föredragande: Thinh Bui         enbostadshus.
+Föredragande: Thinh Bui          enbostadshus.
 Ljungqvist, senior
 Avgiften för beslutet är 5 600 kronor.
 bygglovshandläggare

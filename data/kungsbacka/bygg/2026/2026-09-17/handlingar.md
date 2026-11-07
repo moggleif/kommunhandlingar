@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2da4b3f51a0864b91543b215/1789112180
 sha256: 66fc5635f329adfd9fb606836b9cb2dcf9544ae948f6a1d0b30493ae7a37889a
 bytes: 31211465
 sidor: 258
-hamtad: 2026-10-23T08:25:24+00:00
-konverterad: 2026-10-23T08:26:37+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T10:09:01+00:00
+konverterad: 2026-11-06T10:10:19+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4543,17 +4543,23 @@ Bilaga 2
 Hur man  överklagar
 MMD-02
 
-Vill du att domen ska ändras i någon del kan du Om överklagandet kommit in i tid, skickar mark-
-överklaga. Här får du veta hur det går till. och miljödomstolen överklagandet och alla hand-
+Vill du att domen ska ändras i någon del kan du
+överklaga. Här får du veta hur det går till.
+
+Överklaga skriftligt inom 3 veckor
+Ditt överklagande ska ha kommit in till domstolen
+inom 3 veckor från domens datum. Sista datum
+för överklagande finns på sista sidan i domen.
+
+Om överklagandet kommit in i tid, skickar mark-
+och miljödomstolen överklagandet och alla hand-
 lingar i målet vidare till Mark- och miljööver-
 domstolen.
-Överklaga skriftligt inom 3 veckor
+
 Har du tidigare fått brev genom förenklad
-Ditt överklagande ska ha kommit in till domstolen
 delgivning, kan även Mark- och miljö-
-inom 3 veckor från domens datum. Sista datum
 överdomstolen skicka brev på detta sätt.
-för överklagande finns på sista sidan i domen.
+
 Prövningstillstånd i Mark- och miljö-
 Så här gör du
 överdomstolen
@@ -10401,9 +10407,10 @@ Antagandehandling                                          25 (25)
 
 PLANBESTÄMMELSER
 
-Följande gäller inom områden   med  nedanstående  beteckningar. Endast
-angiven  användning  och utformning är tillåten. Där beteckning saknas
-gäller bestämmelsen   inom hela området.
+Följande gäller inom områden  med  nedanstående   beteckningar. Endast
+angiven användning   och utformning är tillåten. Där beteckning saknas
+
+gäller bestämmelsen  inom  hela området.
 
 GRÄNSER
 
@@ -10427,38 +10434,48 @@ EGENSKAPSBESTÄMMELSER                   FÖR    ALL
 
 KVARTERSMARK
 
-Upphävande      av strandskydd
+Upphävande     av  strandskydd
 
 Strandskyddet  är upphävt.
 
-EGENSKAPSBESTÄMMELSER                    FÖR   ALLMÄN      PLATS
+EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN      PLATS
 
-Avgränsad     via  egenskapsgräns       och  användningsgräns
+Avgränsad     via egenskapsgräns        och  användningsgräns
 
-Upphävande      av strandskydd
+Upphävande     av  strandskydd
 
 Strandskyddet  är upphävt.
 
-EGENSKAPSBESTÄMMELSER                    FÖR   KVARTERSMARK
-Avgränsad     via  egenskapsgräns       och  användningsgräns
-
-Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                                                                    Begränsning    av  markens    utnyttjande
-
+Detaljplanen är baserad på koordinatsystemet SWEREF 99
 1200 och höjdsystemet RH 2000
 Skala 1:500 i A1, skala 1:1000 i A3
+
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2026-05-29
+
+Registernummer, tomtnummer                    Vägbana
+Höjdpunkt                                     Bostadshus fasad, resp. tak
+
+Traktnamn, kvartersnamn                       Uthus fasad, resp. tak
+
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+
+Avgränsad     via egenskapsgräns        och  användningsgräns
+
+Begränsning    av  markens   utnyttjande
+
 Marken  får inte förses med byggnad.
-TECKENFÖRKLARING     KARTDATA       Aktualitetsdatum: 2026-05-29
+
 Stängsel,   utfart och annan   utgång
-Registernummer, tomtnummer                   Vägbana
+
 Utfartsförbud.
-Höjdpunkt                                    Bostadshus fasad, resp. tak
-Traktnamn, kvartersnamn                      Uthus fasad, resp. tak
+
 Fastighetsgräns                              Skärmtak                                                                                                                                                                    GENOMFÖRANDETID
+
 Höjdkurva 1,0 m
 Genomförandetiden    är 5 år.
 Höjdkurva 5,0 m
 
-Del     av     plankarta,             skala        1:250         i
+Del      av    plankarta,             skala        1:250         i
 Skällared      3:45
 
 A1
@@ -10467,22 +10484,24 @@ Skällared      3:88
 
 Skällared      2:8
 
-ORIENTERINGSKARTA                                 Detaljplan   för  del av
+ORIENTERINGSKARTA                                  Detaljplan   för del  av
+
 Antagandehandling
-Gottskärsvägen       inom
+Gottskärsvägen      inom
 
 Instans
 Skällared  s:5 m  fl.
-i Onsala                                                  BN § 11
+i Onsala                                                   BN § 11
 
-Kungsbacka    kommun
+Kungsbacka     kommun
 Tjm
+
 Upprättad 2026-08-18                                       BN § xxx
 
 Plankostnads-
 Ida Lennartsson
 avtal
-Verksamhetschef Plan                                        Nej
+Verksamhetschef Plan                                       Nej
 PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med standardförfarande
 

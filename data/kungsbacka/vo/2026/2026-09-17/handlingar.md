@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.77fd706f1a08662c7eab6a6c/1789388869
 sha256: 7747ef87e33809a3e0c6d8a446e1ff689cca145100ed24cf7f8ec4bd924f7274
 bytes: 32925373
 sidor: 782
-hamtad: 2026-10-24T07:01:10+00:00
-konverterad: 2026-10-24T07:04:56+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:20:08+00:00
+konverterad: 2026-11-06T21:25:46+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6655,7 +6655,6 @@ SOU 2026:38                              Författningsförslag
 
 dan är lämplig ur ett medicinskt per-
 spektiv. Patienten får avstå sådant
-
 erbjudande och ska då få vård på
 annat sätt.
 
@@ -6663,15 +6662,24 @@ annat sätt.
 Regionen ska erbjuda öppen Regionen ska erbjuda öppen
 vård åt den som omfattas av en och sluten vård åt den som om-
 annan regions ansvar för hälso- fattas av en annan regions ansvar
-och sjukvård. En sådan patient för hälso- och sjukvård. En sådan
-omfattas inte av regionens vård- patient omfattas inte av regio-
-garanti enligt 9 kap. 1 §. I övrigt nens vårdgaranti enligt 9 kap. 1 §.
-ska vården ges på samma villkor I övrigt ska vården ges på samma
-som de villkor som gäller för de villkor som de villkor som gäller
-egna invånarna.       för de egna invånarna. Regionens
+
+och sjukvård. En sådan patient
+omfattas inte av regionens vård-
+garanti enligt 9 kap. 1 §. I övrigt
+ska vården ges på samma villkor
+som de villkor som gäller för de
+egna invånarna.
+
+för hälso- och sjukvård. En sådan
+patient omfattas inte av regio-
+nens vårdgaranti enligt 9 kap. 1 §.
+I övrigt ska vården ges på samma
+villkor som de villkor som gäller
+för de egna invånarna. Regionens
 skyldighet att erbjuda öppen och
 sluten vård åt den som omfattas av
 en annan regions ansvar omfattar
+
 inte vård som endast ges genom
 distanskontakt.
 Om patienten omfattas av en annan regions ansvar för hälso- och
@@ -6680,9 +6688,9 @@ patienten ges med stöd av första stycket. Detta gäller dock inte om
 den regionen ställer krav på remiss för vården och dessa remissregler
 inte följs.
 Den region som ansvarar för
-
 en patients hälso- och sjukvård får
 även ställa krav på att patientens
+
 slutna vård i en annan region ska
 godkännas innan den svarar för
 kostnaderna.
@@ -6748,11 +6756,10 @@ Denna lag träder i kraft den 1 januari 2028 i fråga om 2 kap. 7 a §,
 SOU 2026:38                              Författningsförslag
 
 1.4   Förslag till förordning om ändring
-
 i hälso- och sjukvårdsförordningen (2017:80)
+
 Härigenom föreskrivs i fråga om hälso- och sjukvårdsförordningen
 (2017:80)
-
 dels att 6 kap. 1 och 2 §§ ska ha följande lydelse,
 dels att det ska införas en ny paragraf, 6 kap. 1 a §, av följande
 lydelse.
@@ -6766,27 +6773,46 @@ hälso- och sjukvårdslagen hälso- och sjukvårdslagen
 (2017:30) ska innehålla en för- (2017:30) innebär, inom verk-
 säkran om att den enskilde får samhet som utgör primärvård, att
 den enskilde ska få
-1\. kontakt med primärvården 1. kontakt med primärvården
-samma dag som den enskilde samma dag som den enskilde
-söker kontakt med primärvården söker kontakt med primärvården
-(tillgänglighetsgaranti), (tillgänglighetsgaranti), och
-2\. en medicinsk bedömning 2. en medicinsk bedömning
-av läkare eller annan legitimerad av läkare eller annan legitimerad
-hälso- och sjukvårdspersonal inom hälso- och sjukvårdspersonal inom
-primärvården inom tre dagar från primärvården inom tre dagar från
-det att den enskilde har sökt kon- det att den enskilde har sökt kon-
-takt med primärvården, om vård- takt med primärvården, om vård-
-givaren har bedömt att den enskilde givaren har bedömt att den enskilde
-behöver få en medicinsk bedöm- behöver få en medicinsk bedöm-
-ning och en sådan inte kan göras när ning och en sådan inte kan göras när
-den enskilde först söker kontakt den enskilde först söker kontakt
 
-(bedömningsgaranti inom primär- (bedömningsgaranti inom primär-
-vården),              vården).
+1\. kontakt med primärvården
+samma dag som den enskilde
+söker kontakt med primärvården
+(tillgänglighetsgaranti),
+2\. en medicinsk bedömning
+av läkare eller annan legitimerad
+hälso- och sjukvårdspersonal inom
+primärvården inom tre dagar från
+det att den enskilde har sökt kon-
+takt med primärvården, om vård-
+givaren har bedömt att den enskilde
+behöver få en medicinsk bedöm-
+
+ning och en sådan inte kan göras när
+den enskilde först söker kontakt
+(bedömningsgaranti inom primär-
+vården),
 3\. besöka den specialiserade
 vården inom 90 dagar från det att
 remiss har utfärdats eller, om någon
 remiss inte är nödvändig, från det
+
+1\. kontakt med primärvården
+samma dag som den enskilde
+söker kontakt med primärvården
+(tillgänglighetsgaranti), och
+2\. en medicinsk bedömning
+av läkare eller annan legitimerad
+hälso- och sjukvårdspersonal inom
+primärvården inom tre dagar från
+det att den enskilde har sökt kon-
+takt med primärvården, om vård-
+givaren har bedömt att den enskilde
+behöver få en medicinsk bedöm-
+
+ning och en sådan inte kan göras när
+den enskilde först söker kontakt
+(bedömningsgaranti inom primär-
+vården).
 
 1 Senaste lydelse 2018:1129.
 
@@ -6794,17 +6820,20 @@ remiss inte är nödvändig, från det
 
 <!-- sida 148 -->
 
-Författningsförslag                        SOU 2026:38
+Författningsförslag
 
 att den enskilde har sökt kontakt
 med den specialiserade vården
-
 (besöksgaranti inom den speciali-
 serade vården), och
 4\. planerad vård inom 90 dagar
 från det att vårdgivaren har beslu-
 tat att den enskilde ska få den aktu-
 ella vården (behandlingsgaranti).
+
+34
+
+SOU 2026:38
 
 1 a §
 Vårdgarantin enligt 9 kap. 1 §
@@ -6817,13 +6846,13 @@ granskar remissen,
 2\. den vårdgivare som mottar
 en remiss informerar patienten, inom
 tre arbetsdagar, om att remissen har
+
 mottagits (informationsgaranti),
 3\. patienten får information
 om när han eller hon ska få en
 medicinsk bedömning inom tio
 arbetsdagar från det att remissen har
 mottagits (informationsgaranti),
-
 4\. patienten får en medicinsk
 bedömning av läkare eller annan
 legitimerad hälso- och sjukvårds-
@@ -6837,8 +6866,6 @@ inom 60 dagar från det att vård-
 givaren har beslutat att patienten
 ska få den aktuella vården (garanti
 för planerad vård). Vad gäller verk-
-
-34
 
 <!-- sida 149 -->
 
@@ -27874,56 +27901,91 @@ att den enskilde ska få den aktuella vården (behandlingsgaranti).69
 
 <!-- sida 633 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Kronologisk förteckning
 
-1\. Skatteincitament för forskning och 17. Öresundsförbindelser 2050 – behov
-utveckling – ett nytt incitament baserat av kapacitet, redundans och svenskt-
-på utgifter för FoU-personal. Fi. danskt samarbete. LI.
-2\. 710 miljoner skäl till reformer. Ju. 18. Odlingstorv och klimatet. Fi.
-3\. Genomförande av plattformsdirektivet. 19. Stärkt tillsyn och uppföljning
-A.                     – förslag för att motverka
-4\. Rektor i fokus – förutsättningar för oegentlig läkemedelsförskrivning. S.
-ett pedagogiskt ledarskap. U. 20. Belägg för broms? Åtgärder
-5\. Utvidgad avdragsrätt för sponsring för starkare incitament till lägre
-m.m. Fi.               kommunalskattesatser. Fi.
-6\. En nationell digital infrastruktur i 21. Återkallelse av svenskt medborgarskap.
-hälso- och sjukvården. Styrning med Ju.
-tydliga roller och ansvar för aktörerna. 22. Stärkt läkemedelsförsörjning
-S.                     i samverkan. Nationella åtgärder för
-7\. Förstärkt uppföljning och utvärdering fördelning, omfördelning och inköp
-av folkhälsopolitiken. vid brist. S.
-Del I: Effektivare folkhälsoinsatser 23. Tolkavgift och förbud
-genom hälsoekonomiska analyser. mot barntolkning. A.
-Del II: Utvärdering av alkohol- 24. Mervärdesskatt vid uthyrning
-politikens styrmedel. S. och överlåtelse av fastighet. Fi.
-8\. Rättssäker samhällsvård för barn och 25. Ett smittskydd för framtiden. S.
+1\. Skatteincitament för forskning och
+utveckling – ett nytt incitament baserat
+på utgifter för FoU-personal. Fi.
+2\. 710 miljoner skäl till reformer. Ju.
+3\. Genomförande av plattformsdirektivet.
+A.
+4\. Rektor i fokus – förutsättningar för
+ett pedagogiskt ledarskap. U.
+5\. Utvidgad avdragsrätt för sponsring
+m.m. Fi.
+6\. En nationell digital infrastruktur i
+hälso- och sjukvården. Styrning med
+tydliga roller och ansvar för aktörerna.
+S.
+7\. Förstärkt uppföljning och utvärdering
+av folkhälsopolitiken.
+Del I: Effektivare folkhälsoinsatser
+genom hälsoekonomiska analyser.
+Del II: Utvärdering av alkohol-
+politikens styrmedel. S.
+8\. Rättssäker samhällsvård för barn och
 unga. S.
-26\. Digitala verktyg inom bolagsrätten.
-9\. Registrering av EES-medborgare. Ju. Genomförande av EU:s direktiv om
-10\. Ökade möjligheter till tillgångsinriktad ytterligare digitalisering inom bolags-
-brottsbekämpning. Del 1 och 2. Ju. rätten. Ju.
-11\. Om överföring av Första AP-fondens 27. Lättnader i kraven på hållbarhets-
-verksamhet och tillgångar till Tredje rapportering. Ju.
-och Fjärde AP-fonderna. Fi. 28. Tillgång till passageraruppgifter
-12\. Om överföring av Sjätte AP-fondens i brottsbekämpningen. Ju.
-verksamhet och tillgångar till Andra 29. Förbud mot uppfödning av djur
-AP-fonden. Fi.         för pälsproduktion. LI.
-13\. Straffansvar för deltagande i och samröre 30. Mer flexibla regler om verkställighet av
-med kriminella sammanslutningar. Ju. häktning och fängelsestraff. Ju.
-14\. Ädelmetallutredningen – en modernise- 31. Ett investeringsprogram för kultur. Ku.
+9\. Registrering av EES-medborgare. Ju.
+10\. Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. Ju.
+11\. Om överföring av Första AP-fondens
+verksamhet och tillgångar till Tredje
+och Fjärde AP-fonderna. Fi.
+12\. Om överföring av Sjätte AP-fondens
+verksamhet och tillgångar till Andra
+AP-fonden. Fi.
+13\. Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar. Ju.
+14\. Ädelmetallutredningen – en modernise-
 rad reglering av handel med ädelmetall-
-32\. Att säga ja! Kommunernas förutsätt-
 arbeten. KN.
-ningar att ta emot stora företagsetable-
-15\. Marken, vattnet, tankarna. ringar och företagsexpansioner. KN.
+15\. Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-33\. Vägen mot utfasning. Styrmedel för
 politik. Volym 1 och 2. Ku.
-ett fossilfritt samhälle. KN.
 16\. Försvarsexportinitiativ. För gemensam
 säkerhet. Fö.
+
+17\. Öresundsförbindelser 2050 – behov
+av kapacitet, redundans och svenskt-
+danskt samarbete. LI.
+18\. Odlingstorv och klimatet. Fi.
+19\. Stärkt tillsyn och uppföljning
+– förslag för att motverka
+oegentlig läkemedelsförskrivning. S.
+20\. Belägg för broms? Åtgärder
+för starkare incitament till lägre
+kommunalskattesatser. Fi.
+21\. Återkallelse av svenskt medborgarskap.
+Ju.
+22\. Stärkt läkemedelsförsörjning
+i samverkan. Nationella åtgärder för
+fördelning, omfördelning och inköp
+vid brist. S.
+23\. Tolkavgift och förbud
+mot barntolkning. A.
+24\. Mervärdesskatt vid uthyrning
+och överlåtelse av fastighet. Fi.
+25\. Ett smittskydd för framtiden. S.
+26\. Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. Ju.
+27\. Lättnader i kraven på hållbarhets-
+rapportering. Ju.
+28\. Tillgång till passageraruppgifter
+i brottsbekämpningen. Ju.
+29\. Förbud mot uppfödning av djur
+för pälsproduktion. LI.
+30\. Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. Ju.
+31\. Ett investeringsprogram för kultur. Ku.
+32\. Att säga ja! Kommunernas förutsätt-
+ningar att ta emot stora företagsetable-
+ringar och företagsexpansioner. KN.
+33\. Vägen mot utfasning. Styrmedel för
+ett fossilfritt samhälle. KN.
 
 <!-- sida 634 -->
 
@@ -27942,67 +28004,83 @@ språkutvecklande förskola. U.
 
 <!-- sida 635 -->
 
-Statens offentliga utredningar  2026
+Statens  offentliga utredningar 2026
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Digitala verktyg inom bolagsrätten.
-Genomförande av plattformsdirektivet. [3] Genomförande av EU:s direktiv om
-ytterligare digitalisering inom bolags-
+Arbetsmarknadsdepartementet
+Genomförande av plattformsdirektivet. [3]
 Tolkavgift och förbud mot barntolkning.
-rätten. [26]
 [23]
-Lättnader i kraven på hållbarhets-
-rapportering. [27]
+
 Finansdepartementet
-Tillgång till passageraruppgifter
 Skatteincitament för forskning och ut-
-i brottsbekämpningen. [28]
 veckling – ett nytt incitament baserat
-Mer flexibla regler om verkställighet av
 på utgifter för FoU-personal. [1]
-häktning och fängelsestraff. [30]
 Utvidgad avdragsrätt för sponsring m.m.
-Nya nätbrott och andra åtgärder för
 [5]
-genomförandet av direktivet om
 Om överföring av Första AP-fondens
-bekämpning av våld mot kvinnor och
 verksamhet och tillgångar till Tredje
-våld i nära relationer. Volym 1 & 2.
 och Fjärde AP-fonderna. [11]
-[34]
 Om överföring av Sjätte AP-fondens
 verksamhet och tillgångar till Andra
-Klimat- och näringslivsdepartementet
 AP-fonden. [12]
-Ädelmetallutredningen – en moderniserad
 Odlingstorv och klimatet. [18]
-reglering av handel med ädelmetallarbeten.
-Belägg för broms? Åtgärder för starkare [14]
+Belägg för broms? Åtgärder för starkare
 incitament till lägre kommunal-
-Att säga ja! Kommunernas förutsättningar
 skattesatser. [20]
-att ta emot stora företagsetableringar
-Mervärdesskatt vid uthyrning och och företagsexpansioner. [32]
+Mervärdesskatt vid uthyrning och
 överlåtelse av fastighet. [24]
+Försvarsdepartementet
+Försvarsexportinitiativ. För gemensam
+säkerhet. [16]
+Justitiedepartementet
+710 miljoner skäl till reformer. [2]
+Registrering av EES-medborgare. [9]
+Ökade möjligheter till tillgångsinriktad
+brottsbekämpning. Del 1 och 2. [10]
+Straffansvar för deltagande i och samröre
+med kriminella sammanslutningar.
+[13]
+Återkallelse av svenskt medborgarskap.
+[21]
+
+Digitala verktyg inom bolagsrätten.
+Genomförande av EU:s direktiv om
+ytterligare digitalisering inom bolags-
+rätten. [26]
+Lättnader i kraven på hållbarhets-
+rapportering. [27]
+Tillgång till passageraruppgifter
+i brottsbekämpningen. [28]
+Mer flexibla regler om verkställighet av
+häktning och fängelsestraff. [30]
+Nya nätbrott och andra åtgärder för
+genomförandet av direktivet om
+bekämpning av våld mot kvinnor och
+våld i nära relationer. Volym 1 & 2.
+[34]
+Klimat- och näringslivsdepartementet
+Ädelmetallutredningen – en moderniserad
+reglering av handel med ädelmetallarbeten.
+[14]
+Att säga ja! Kommunernas förutsättningar
+att ta emot stora företagsetableringar
+och företagsexpansioner. [32]
 Vägen mot utfasning. Styrmedel för
 ett fossilfritt samhälle. [33]
-Försvarsdepartementet
-Försvarsexportinitiativ. För gemensam Kulturdepartementet
-säkerhet. [16]
+Kulturdepartementet
 Marken, vattnet, tankarna.
 Konsekvenser för samer av svensk
-Justitiedepartementet   politik. Volym 1 och 2. [15]
-710 miljoner skäl till reformer. [2] Ett investeringsprogram för kultur. [31]
-Registrering av EES-medborgare. [9]
-Ökade möjligheter till tillgångsinriktad Landsbygds- och
-brottsbekämpning. Del 1 och 2. [10] infrastrukturdepartementet
-Straffansvar för deltagande i och samröre Öresundsförbindelser 2050 – behov av
-med kriminella sammanslutningar. kapacitet, redundans och svenskt-danskt
-[13]                  samarbete. [17]
-Återkallelse av svenskt medborgarskap. Förbud mot uppfödning av djur
-[21]                  för pälsproduktion. [29]
+politik. Volym 1 och 2. [15]
+Ett investeringsprogram för kultur. [31]
+Landsbygds- och
+infrastrukturdepartementet
+Öresundsförbindelser 2050 – behov av
+kapacitet, redundans och svenskt-danskt
+samarbete. [17]
+Förbud mot uppfödning av djur
+för pälsproduktion. [29]
 
 <!-- sida 636 -->
 

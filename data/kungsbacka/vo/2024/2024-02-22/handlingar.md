@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.366666ef18d873f2cac23599/1708354939
 sha256: 89381c99235bed7f89ec50ba7dfd180c1b6560a4227fc45f7f2bb307addd1bc9
 bytes: 9989672
 sidor: 291
-hamtad: 2026-10-24T06:42:07+00:00
-konverterad: 2026-10-24T06:42:49+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T20:54:55+00:00
+konverterad: 2026-11-06T20:55:53+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3863,15 +3863,26 @@ kompetensutveckling hos mer erfarna medarbetare begränsas.
 
 o Görs en analys av vilka framtida kompetensbehovet inom Vård & Omsorg och
 rekryteringsbehov som finns i vilka utmaningar den förändrade demografin innebär
-verksamheterna?       för verksamheten.
+
+verksamheterna?
 o Sker ett proaktivt arbete i syfte att
-attrahera personal till nämndens Förvaltningen bedriver ett proaktivt arbete med att
-verksamheter?         attrahera personal. Medarbetare deltar i grund-
-o Hur ges medarbetaren möjlighet läggande utbildningar relevanta för förvaltningens
-att kompetensutveckla sig och verksamhet. Medarbetares kompetensutveckling
-var görs överenskommelsen? diskuteras på medarbetarsamtal, men det finns ingen
+attrahera personal till nämndens
+verksamheter?
+o Hur ges medarbetaren möjlighet
+att kompetensutveckla sig och
+var görs överenskommelsen?
+
+för verksamheten.
+
+Förvaltningen bedriver ett proaktivt arbete med att
+attrahera personal. Medarbetare deltar i grund-
+läggande utbildningar relevanta för förvaltningens
+verksamhet. Medarbetares kompetensutveckling
+diskuteras på medarbetarsamtal, men det finns ingen
+
 plan för enskilda medarbetare. Olika yrkesroller inom
 förvaltningens verksamheter har olika förutsättningar
+
 att delta i utbildningsinsatser.
 
 Individ & Familjeomsorg: Ja. I nämndens budget
@@ -3903,8 +3914,8 @@ planer, rutiner och ett årshjul för kompetensutveckling
 och utbildningsinsatser.
 
 6.2. Slutsatser
-Granskningens syfte har varit att bedöma om kommunstyrelsen, nämnden för Vård & Omsorg
 
+Granskningens syfte har varit att bedöma om kommunstyrelsen, nämnden för Vård & Omsorg
 och nämnden för Individ & Familjeomsorg säkerställt ett ändamålsenligt kompetens-
 försörjningsarbete. Vår sammanfattande bedömning utifrån granskningens syfte och
 grunderna för ansvarsprövning är att kommunstyrelsen och nämnden för Vård & Omsorg och

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe22fca2/1710507154
 sha256: 4696e1a8ac4812fc4b4658acb1a73c112d5637d64c1879f3d37237c86d4bfb20
 bytes: 17427636
 sidor: 1115
-hamtad: 2026-10-23T10:56:44+00:00
-konverterad: 2026-10-23T10:59:28+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T12:55:17+00:00
+konverterad: 2026-11-06T12:58:24+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3281,26 +3281,35 @@ Denna lag ska träda i kraft den 1 januari 2026.
 Författningsförslag                        SOU 2023:62
 
 1.5   Förslag till lag om ändring i lagen (2006:323)
-
 om utbyte av sprutor och kanyler
+
 Härigenom föreskrivs i fråga om lag (2006:232) om utbyte av sprutor
 och kanyler
-
 dels att 4–5 §§ ska upphöra att gälla,
 dels att 1, 2, 3 samt 6 §§ ska ha följande lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
 
 1 §
-I denna lag finns bestämmel- I denna lag finns bestämmel-
-ser om verksamhet med utbyte av ser om verksamhet med utbyte av
-sprutor och kanyler (sprututbytes- sprutor och kanyler (sprututbytes-
-verksamhet) i syfte att förebygga verksamhet).
-spridning av hivinfektion och Syftet med en sådan verksam-
-andra blodburna infektioner bland het är att förebygga spridning av
-personer som missbrukar narkotika. blodburna infektioner samt att
+
+I denna lag finns bestämmel-
+ser om verksamhet med utbyte av
+sprutor och kanyler (sprututbytes-
+verksamhet) i syfte att förebygga
+spridning av hivinfektion och
+andra blodburna infektioner bland
+personer som missbrukar narkotika.
+
+I denna lag finns bestämmel-
+ser om verksamhet med utbyte av
+sprutor och kanyler (sprututbytes-
+verksamhet).
+Syftet med en sådan verksam-
+het är att förebygga spridning av
+blodburna infektioner samt att
 främja fysisk och psykisk hälsa hos
 personer med skadligt bruk eller
+
 beroende av narkotika.
 Sprututbytesverksamhet ska Sprututbytesverksamhet ska
 bedrivas på ett sådant sätt att den bedrivas på ett sådant sätt att den
@@ -3310,8 +3319,8 @@ inlämning av begagnade sprutor
 och kanyler.
 Det som i lagen sägs om regioner gäller också kommuner som inte
 ingår i en region.
-
 2 §
+
 Sprututbytesverksamhet får Sprututbytesverksamhet får
 bedrivas endast av regioner inom bedrivas endast av regioner inom
 ramen för deras hälso- och sjuk- ramen för deras hälso- och sjuk-
@@ -45285,95 +45294,117 @@ Uppdraget i övrigt ska redovisas senast den 29 september 2023.
 
 <!-- sida 1024 -->
 
-Statens offentliga utredningar  2023
+Statens  offentliga utredningar 2023
 
 Kronologisk förteckning
 
-1\. Skärpta straff för flerfaldig brottslig- 17. En tydligare bestämmelse om hets
-het. Ju.               mot folkgrupp. Ju.
-2\. En inre marknad för digitala tjänster 18. Värdet av vinden. Kompensation,
-– ansvarsfördelning mellan myndig- incitament och planering för
-heter. Fi.             en hållbar fortsatt utbyggnad av
-3\. Nya regler om nödlidande kreditavtal vindkraften. Del 1 och 2. KN.
-och inkassoverksamhet. Ju. 19. Statlig forskningsfinansiering.
-4\. Posttjänst för hela slanten. Underlagsrapporter. U.
-Finansieringsmodeller för framtidens 20. Förbud mot bottentrålning i marina
-samhällsomfattande posttjänst. Fi. skyddade områden. LI.
-5\. Från delar till helhet. Tvångsvården 21. Informationsförsörjning på
-som en del av en sammanhållen och skolområdet. Skolverkets ansvar. U.
-personcentrerad vårdkedja. S. 22. Datalagring och åtkomst till
-6\. En lag om tilläggsskatt för företag elektronisk information. Ju.
-i stora koncerner. Fi. 23. Ett modernare socialförsäkringsskydd
-7\. På egna ben.         för gravida. S.
-Utvecklad samverkan för individers 24. Etablering för fler – jämställda möjlig-
-etablering på arbetsmarknaden. A. heter till integration. A.
-8\. Arbetslivskriminalitet – arbetet 25. Kunskapskrav för permanent uppe-
-i Sverige, en bedömning av omfatt- hållstillstånd. Ju.
+1\. Skärpta straff för flerfaldig brottslig-
+het. Ju.
+2\. En inre marknad för digitala tjänster
+– ansvarsfördelning mellan myndig-
+heter. Fi.
+3\. Nya regler om nödlidande kreditavtal
+och inkassoverksamhet. Ju.
+4\. Posttjänst för hela slanten.
+Finansieringsmodeller för framtidens
+samhällsomfattande posttjänst. Fi.
+5\. Från delar till helhet. Tvångsvården
+som en del av en sammanhållen och
+personcentrerad vårdkedja. S.
+6\. En lag om tilläggsskatt för företag
+i stora koncerner. Fi.
+7\. På egna ben.
+Utvecklad samverkan för individers
+etablering på arbetsmarknaden. A.
+8\. Arbetslivskriminalitet – arbetet
+i Sverige, en bedömning av omfatt-
 ningen, lärdomar från Danmark och
-26\. Översyn av entreprenörsansvaret. A.
 Finland. A.
-27\. Kamerabevakning för ett bättre djur-
 9\. Ett statligt huvudmannaskap
-skydd. LI.
 för personlig assistans.
-Ökad likvärdighet, långsiktighet 28. Samhället mot skolattacker. U.
-och kvalitet. S.     29. Varje rörelse räknas – hur skapar
-10\. Tandvårdens stöd till våldsutsatta vi ett samhälle som främjar fysisk
-patienter. S.          aktivitet? S.
-11\. Tillfälligt miljötillstånd för 30. Ett trygghetssystem för alla. Nytt
-samhällsviktig verksamhet regelverk för sjukpenninggrundande
-– för ökad försörjningsberedskap. KN. inkomst. S.
-12\. Förstärkt skydd för demokratin 31. Framtidens yrkeshögskola
-och domstolarnas oberoende. Ju. – stabil, effektiv och hållbar. U.
-13\. Patientöversikter inom EES och 32. Biometri – för en effektivare
-Sverige. S.            brottsbekämpning. Ju.
-14\. Organisera för hållbar utveckling. 33. Ett förbättrat resegarantisystem. Fi.
-KN.                  34. Bolag och brott – några åtgärder
-15\. Förnybart i tanken. Ett styrmedels- mot oseriösa företag. Ju.
-förslag för en stärkt bioekonomi. LI. 35. Nya regler om hållbarhetsredovisning.
-16\. Staten och betalningarna. Ju.
-Del 1 och 2. Fi.     36. Genomförande av minimilöne-
+Ökad likvärdighet, långsiktighet
+och kvalitet. S.
+10\. Tandvårdens stöd till våldsutsatta
+patienter. S.
+11\. Tillfälligt miljötillstånd för
+samhällsviktig verksamhet
+– för ökad försörjningsberedskap. KN.
+12\. Förstärkt skydd för demokratin
+och domstolarnas oberoende. Ju.
+13\. Patientöversikter inom EES och
+Sverige. S.
+14\. Organisera för hållbar utveckling.
+KN.
+15\. Förnybart i tanken. Ett styrmedels-
+förslag för en stärkt bioekonomi. LI.
+16\. Staten och betalningarna.
+Del 1 och 2. Fi.
+
+17\. En tydligare bestämmelse om hets
+mot folkgrupp. Ju.
+18\. Värdet av vinden. Kompensation,
+incitament och planering för
+en hållbar fortsatt utbyggnad av
+vindkraften. Del 1 och 2. KN.
+19\. Statlig forskningsfinansiering.
+Underlagsrapporter. U.
+20\. Förbud mot bottentrålning i marina
+skyddade områden. LI.
+21\. Informationsförsörjning på
+skolområdet. Skolverkets ansvar. U.
+22\. Datalagring och åtkomst till
+elektronisk information. Ju.
+23\. Ett modernare socialförsäkringsskydd
+för gravida. S.
+24\. Etablering för fler – jämställda möjlig-
+heter till integration. A.
+25\. Kunskapskrav för permanent uppe-
+hållstillstånd. Ju.
+26\. Översyn av entreprenörsansvaret. A.
+27\. Kamerabevakning för ett bättre djur-
+skydd. LI.
+28\. Samhället mot skolattacker. U.
+29\. Varje rörelse räknas – hur skapar
+vi ett samhälle som främjar fysisk
+aktivitet? S.
+30\. Ett trygghetssystem för alla. Nytt
+regelverk för sjukpenninggrundande
+inkomst. S.
+31\. Framtidens yrkeshögskola
+– stabil, effektiv och hållbar. U.
+32\. Biometri – för en effektivare
+brottsbekämpning. Ju.
+33\. Ett förbättrat resegarantisystem. Fi.
+34\. Bolag och brott – några åtgärder
+mot oseriösa företag. Ju.
+35\. Nya regler om hållbarhetsredovisning.
+Ju.
+36\. Genomförande av minimilöne-
 direktivet. A.
 
 <!-- sida 1025 -->
 
-37\. Förstärkt skydd för den personliga 54. Centraliseringen av administrativa
-integriteten. Behovet av åtgärder mot tjänster till Statens servicecenter
-oskuldskontroller, oskuldsintyg och – en utvärdering. Fi.
-oskuldsingrepp samt omvändelseför- 55. Vem äger fastigheten. Ju.
+37\. Förstärkt skydd för den personliga
+integriteten. Behovet av åtgärder mot
+oskuldskontroller, oskuldsintyg och
+oskuldsingrepp samt omvändelseför-
 sök. Ju.
-56\. Några smittskyddsfrågor inom social-
-38\. Ett förstärkt konsumentskydd tjänsten och socialförsäkringen. S.
+38\. Ett förstärkt konsumentskydd
 mot riskfylld kreditgivning
-57\. Åtgärder för tryggare
 och överskuldsättning. Fi.
-bostadsområden. Ju.
 39\. En inre marknad för digitala tjänster
-58\. Kultursamhället – utvecklad sam-
 – kompletteringar och ändringar i
-verkan mellan stat, region och
 svensk rätt. Fi.
-kommun. Ku.
 40\. Förbättrade möjligheter för barn att
-59\. Ny myndighetsstruktur för
 utkräva sina rättigheter enligt barn-
-finansiering av forskning och
 konventionen. S.
-innovation. U.
 41\. Förutsättningarna för en ny kollektiv-
-60\. Utökade möjligheter att använda
 avtalad arbetslöshetsförsäkring. A.
-preventiva tvångsmedel 2. Ju.
 42\. Ett modernare regelverk för legalise-
-61\. En säker och tillgänglig
 ringar, apostille och andra former av
-statlig e-legitimation. Fi.
 intyganden. UD.
-62\. Vi kan bättre!
 43\. En samordnad registerkontroll
-Kunskapsbaserad narkotikapolitik
 för upphandlande myndigheter
-med liv och hälsa i fokus. S.
 och enheter. Fi.
 44\. En översyn av regleringen om frihets-
 berövande påföljder för unga. Ju.
@@ -45402,115 +45433,145 @@ ring – för bättre ekonomisk trygghet,
 kunskap och rättssäkerhet. Volym 1
 och 2. S.
 
+54\. Centraliseringen av administrativa
+tjänster till Statens servicecenter
+– en utvärdering. Fi.
+55\. Vem äger fastigheten. Ju.
+56\. Några smittskyddsfrågor inom social-
+tjänsten och socialförsäkringen. S.
+57\. Åtgärder för tryggare
+bostadsområden. Ju.
+58\. Kultursamhället – utvecklad sam-
+verkan mellan stat, region och
+kommun. Ku.
+59\. Ny myndighetsstruktur för
+finansiering av forskning och
+innovation. U.
+60\. Utökade möjligheter att använda
+preventiva tvångsmedel 2. Ju.
+61\. En säker och tillgänglig
+statlig e-legitimation. Fi.
+62\. Vi kan bättre!
+Kunskapsbaserad narkotikapolitik
+med liv och hälsa i fokus. S.
+
 <!-- sida 1026 -->
 
-Statens offentliga utredningar  2023
+Statens  offentliga utredningar 2023
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Skyddet för EU:s finansiella intressen.
-På egna ben.            Ändringar och kompletteringar
-Utvecklad samverkan för individers i svensk rätt. [49]
-etablering på arbetsmarknaden. [7] Centraliseringen av administrativa tjänster
-Arbetslivskriminalitet – arbetet i Sverige, till Statens servicecenter
-en bedömning av omfattningen, – en utvärdering. [54]
-lärdomar från Danmark och Finland. [8] En säker och tillgänglig
-Etablering för fler – jämställda möjligheter statlig e-legitimation. [61]
+Arbetsmarknadsdepartementet
+På egna ben.
+Utvecklad samverkan för individers
+etablering på arbetsmarknaden. [7]
+Arbetslivskriminalitet – arbetet i Sverige,
+en bedömning av omfattningen,
+lärdomar från Danmark och Finland. [8]
+Etablering för fler – jämställda möjligheter
 till integration. [24]
-Översyn av entreprenörsansvaret. [26] Försvarsdepartementet
-Genomförande av minimilönedirektivet. En modell för svensk försörjnings-
-[36]                  beredskap. [50]
-Förutsättningarna för en ny kollektiv- Signalspaning i försvars-
-avtalad arbetslöshetsförsäkring. [41] underrättelseverksamhet
-– frågor med anledning
-av Europadomstolens dom. [51]
+Översyn av entreprenörsansvaret. [26]
+Genomförande av minimilönedirektivet.
+[36]
+Förutsättningarna för en ny kollektiv-
+avtalad arbetslöshetsförsäkring. [41]
 Finansdepartementet
 En inre marknad för digitala tjänster
-Justitiedepartementet
 – ansvarsfördelning mellan myndig-
-heter. [2]          Skärpta straff för flerfaldig brottslighet. [1]
-Posttjänst för hela slanten. Nya regler om nödlidande kreditavtal och
-Finansieringsmodeller för framtidens inkassoverksamhet. [3]
-samhällsomfattande posttjänst. [4] Förstärkt skydd för demokratin
-En lag om tilläggsskatt för företag i stora och domstolarnas oberoende. [12]
-koncerner. [6]      En tydligare bestämmelse om hets mot
-Staten och betalningarna. Del 1 och 2. [16] folkgrupp. [17]
-Ett förbättrat resegarantisystem. [33] Datalagring och åtkomst till elektronisk
-information. [22]
+heter. [2]
+Posttjänst för hela slanten.
+Finansieringsmodeller för framtidens
+samhällsomfattande posttjänst. [4]
+En lag om tilläggsskatt för företag i stora
+koncerner. [6]
+Staten och betalningarna. Del 1 och 2. [16]
+Ett förbättrat resegarantisystem. [33]
 Ett förstärkt konsumentskydd
-mot riskfylld kreditgivning Kunskapskrav för permanent uppehålls-
-och överskuldsättning. [38] tillstånd. [25]
-En inre marknad för digitala tjänster - Biometri – för en effektivare
-kompletteringar och ändringar brottsbekämpning. [32]
-i svensk rätt. [39] Bolag och brott – några åtgärder
-En samordnad registerkontroll mot oseriösa företag. [34]
-för upphandlande myndigheter Nya regler om hållbarhetsredovisning. [35]
+mot riskfylld kreditgivning
+och överskuldsättning. [38]
+En inre marknad för digitala tjänster -
+kompletteringar och ändringar
+i svensk rätt. [39]
+En samordnad registerkontroll
+för upphandlande myndigheter
 och enheter. [43]
+Övergångsrestriktioner – ökat förtroende
+för offentlig verksamhet. [45]
+En utvecklad arbetsgivardeklaration
+– åtgärder mot missbruk av
+välfärdssystemen. [47].
+
+Skyddet för EU:s finansiella intressen.
+Ändringar och kompletteringar
+i svensk rätt. [49]
+Centraliseringen av administrativa tjänster
+till Statens servicecenter
+– en utvärdering. [54]
+En säker och tillgänglig
+statlig e-legitimation. [61]
+Försvarsdepartementet
+En modell för svensk försörjnings-
+beredskap. [50]
+Signalspaning i försvars-
+underrättelseverksamhet
+– frågor med anledning
+av Europadomstolens dom. [51]
+Justitiedepartementet
+Skärpta straff för flerfaldig brottslighet. [1]
+Nya regler om nödlidande kreditavtal och
+inkassoverksamhet. [3]
+Förstärkt skydd för demokratin
+och domstolarnas oberoende. [12]
+En tydligare bestämmelse om hets mot
+folkgrupp. [17]
+Datalagring och åtkomst till elektronisk
+information. [22]
+Kunskapskrav för permanent uppehålls-
+tillstånd. [25]
+Biometri – för en effektivare
+brottsbekämpning. [32]
+Bolag och brott – några åtgärder
+mot oseriösa företag. [34]
+Nya regler om hållbarhetsredovisning. [35]
 Förstärkt skydd för den personliga
-Övergångsrestriktioner – ökat förtroende integriteten. Behovet av åtgärder
-för offentlig verksamhet. [45] mot oskuldskontroller, oskuldsintyg
-En utvecklad arbetsgivardeklaration och oskuldsingrepp samt omvändelse-
-– åtgärder mot missbruk av försök. [37]
-välfärdssystemen. [47]. En översyn av regleringen om frihets-
+integriteten. Behovet av åtgärder
+mot oskuldskontroller, oskuldsintyg
+och oskuldsingrepp samt omvändelse-
+försök. [37]
+En översyn av regleringen om frihets-
 berövande påföljder för unga. [44]
 
 <!-- sida 1027 -->
 
-Vem äger fastigheten. [55] Ett trygghetssystem för alla. Nytt
-Åtgärder för tryggare bostadsområden. regelverk för sjukpenninggrundande
-[57]                   inkomst. [30]
-Utökade möjligheter att använda Förbättrade möjligheter för barn att
-preventiva tvångsmedel 2. [60] utkräva sina rättigheter enligt barn-
-konventionen. [40]
-Rätt förutsättningar för sjukskrivning. [48]
+Vem äger fastigheten. [55]
+Åtgärder för tryggare bostadsområden.
+[57]
+Utökade möjligheter att använda
+preventiva tvångsmedel 2. [60]
 Klimat- och näringslivsdepartementet
-Ett stärkt och samlat skydd
 Tillfälligt miljötillstånd för
-av välfärdssystemen. [52]
 samhällsviktig verksamhet
-– för ökad försörjningsberedskap. [11] En ändamålsenlig arbetsskadeförsäkring
-– för bättre ekonomisk trygghet,
+– för ökad försörjningsberedskap. [11]
 Organisera för hållbar utveckling. [14]
-kunskap och rättssäkerhet. Volym 1
 Värdet av vinden. Kompensation,
-och 2. [53]
 incitament och planering för
-Några smittskyddsfrågor inom social-
 en hållbar fortsatt utbyggnad av
-tjänsten och socialförsäkringen. [56]
 vindkraften. Del 1 och 2. [18]
-Vi kan bättre!
-Kunskapsbaserad narkotikapolitik
 Kulturdepartementet
-med liv och hälsa i fokus. [62]
 Kultursamhället – utvecklad samverkan
 mellan stat, region och kommun. [58]
-Utbildningsdepartementet
-Statlig forskningsfinansiering.
 Landsbygds- och infrastrukturdepartementet
-Underlagsrapporter. [19]
 Förnybart i tanken. Ett styrmedelsförslag
-Informationsförsörjning på skolområdet.
 för en stärkt bioekonomi. [15]
-Skolverkets ansvar. [21]
 Förbud mot bottentrålning i marina
-Samhället mot skolattacker. [28]
 skyddade områden. [20]
-Framtidens yrkeshögskola
 Kamerabevakning för ett bättre
-– stabil, effektiv och hållbar. [31]
 djurskydd. [27]
-Ny myndighetsstruktur för finansiering av
 Jakt och fiske i renbetesland. [46]
-forskning och innovation. [59]
 Socialdepartementet
-Utrikesdepartementet
 Från delar till helhet. Tvångsvården
-Ett modernare regelverk för legaliseringar,
 som en del av en sammanhållen och
-apostille och andra former av intygan-
 personcentrerad vårdkedja. [5]
-den. [42]
 Ett statligt huvudmannaskap
 för personlig assistans.
 Ökad likvärdighet, långsiktighet
@@ -45524,6 +45585,39 @@ gravida. [23]
 Varje rörelse räknas – hur skapar vi ett
 samhälle som främjar fysisk aktivitet?
 [29]
+
+Ett trygghetssystem för alla. Nytt
+regelverk för sjukpenninggrundande
+inkomst. [30]
+Förbättrade möjligheter för barn att
+utkräva sina rättigheter enligt barn-
+konventionen. [40]
+Rätt förutsättningar för sjukskrivning. [48]
+Ett stärkt och samlat skydd
+av välfärdssystemen. [52]
+En ändamålsenlig arbetsskadeförsäkring
+– för bättre ekonomisk trygghet,
+kunskap och rättssäkerhet. Volym 1
+och 2. [53]
+Några smittskyddsfrågor inom social-
+tjänsten och socialförsäkringen. [56]
+Vi kan bättre!
+Kunskapsbaserad narkotikapolitik
+med liv och hälsa i fokus. [62]
+Utbildningsdepartementet
+Statlig forskningsfinansiering.
+Underlagsrapporter. [19]
+Informationsförsörjning på skolområdet.
+Skolverkets ansvar. [21]
+Samhället mot skolattacker. [28]
+Framtidens yrkeshögskola
+– stabil, effektiv och hållbar. [31]
+Ny myndighetsstruktur för finansiering av
+forskning och innovation. [59]
+Utrikesdepartementet
+Ett modernare regelverk för legaliseringar,
+apostille och andra former av intygan-
+den. [42]
 
 <!-- sida 1028 -->
 

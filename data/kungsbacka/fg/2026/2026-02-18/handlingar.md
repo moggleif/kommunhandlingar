@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e008b5292/1771238661
 sha256: 8203018b869b48d61b2a5db08d778623ed87ae362db1711dabe30165e36ade0a
 bytes: 22205993
 sidor: 214
-hamtad: 2026-10-23T07:16:05+00:00
-konverterad: 2026-10-23T07:17:43+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:57:11+00:00
+konverterad: 2026-11-06T08:58:57+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6797,26 +6797,38 @@ FR-03
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3\. Tala om vilka bevis du vill hänvisa till.
-Förklara vad du vill visa med varje bevis.
+
 Överklaga skriftligt inom 3 veckor
-Skicka med skriftliga bevis som inte redan
-Tiden räknas oftast från den dag som du fick finns i målet.
+Tiden räknas oftast från den dag som du fick
 del av det skriftliga beslutet. I vissa fall räknas
-tiden i stället från beslutets datum. Det gäller 4. Lämna namn och personnummer eller
-om beslutet avkunnades vid en muntlig organisationsnummer.
+
+tiden i stället från beslutets datum. Det gäller
+om beslutet avkunnades vid en muntlig
 förhandling, eller om rätten vid förhandlingen
-Lämna aktuella och fullständiga uppgifter
 gav besked om datum för beslutet.
-om var domstolen kan nå dig: postadresser,
-e-postadresser och telefonnummer.
+
 För en part som företräder det allmänna (till
-exempel myndigheter) räknas tiden alltid från Om du har ett ombud, lämna också
-5 0    den dag domstolen meddelade beslutet. ombudets kontaktuppgifter.
+exempel myndigheter) räknas tiden alltid från
+5 0    den dag domstolen meddelade beslutet.
 0-
 2
 0
 2
+
+3\. Tala om vilka bevis du vill hänvisa till.
+Förklara vad du vill visa med varje bevis.
+Skicka med skriftliga bevis som inte redan
+finns i målet.
+
+4\. Lämna namn och personnummer eller
+organisationsnummer.
+Lämna aktuella och fullständiga uppgifter
+om var domstolen kan nå dig: postadresser,
+
+e-postadresser och telefonnummer.
+Om du har ett ombud, lämna också
+ombudets kontaktuppgifter.
+
 g •    Observera att överklagandet måste ha kommit 5. Skicka eller lämna in överklagandet till
 n
 ilk cev in till domstolen när tiden går ut. förvaltningsrätten. Du hittar adressen i
@@ -6874,8 +6886,9 @@ T
 •
 handlingar i målet vidare till kammarrätten.
 P
-v
 \-
+
+v
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -6903,6 +6916,7 @@ in siv
 n
 Sida 1 av 2
 A
+
 www.domstol.se
 
 <!-- sida 176 -->

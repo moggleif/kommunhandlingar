@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.708627c5190a253b1da40632/1724048879
 sha256: 72d203fed0c73dd21acd24c49beb5266e11a094444d68fb00aa67d41574f76d6
 bytes: 10374383
 sidor: 152
-hamtad: 2026-10-23T07:00:29+00:00
-konverterad: 2026-10-23T07:01:13+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:40:50+00:00
+konverterad: 2026-11-06T08:41:37+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1985,21 +1985,35 @@ fungera som det är tänkt, medan andra kakor används för att SKR ska kunna se
 stänga av.
 Läs vidare om kakor
 Godkänn alla kakor Inställningar
+
 Ange sökord Sök
+
 Arbetsgivare, Demokrati, ledning, Ekonomi, Hälsa, Integration, Näringsliv, arbete, Samhällsplanering, Skola, kultur,
 kollektivavtal styrning juridik sjukvård socialomsorg digitalisering infrastruktur fritid
 SKRDemokrati, ledning, styrningMänskliga rättigheter, jämlikhetBarnets rättigheterBarnkonsekvensanalys
+
 Publicerad 3 april 2024 Demokrati, ledning, styrning
-Barnkonsekvensanalys Mänskliga rättigheter, jämlikhet
-Barnets rättigheter
-S " y n f n te s t m m e e d d i e b n e s b lu ar ts n f k a o tt n a s n e d k e v t e n in s o a m na e ly n s v ä e r r a k t s t a s m äk h e e r t s . t E ä n ll a b a a r t n t k b o a n rn se s k r v ä e tt n ig s h an et a e ly r s Barnkonsekvensanalys
-måste anpassas utifrån rådande förutsättningar. Här "nns #era exempel på Barnkonventionen är svensk lag
-olika typer av analyser. Nätverk barnets rättigheter
+
+Barnkonsekvensanalys
+Syftet med en barnkonsekvensanalys är att säkerställa att barns rättigheter
+"nns med i beslutsfattandet inom en verksamhet. En barnkonsekvensanalys
+måste anpassas utifrån rådande förutsättningar. Här "nns #era exempel på
+olika typer av analyser.
 Utgå ifrån barnets bästa
-Stödstrukturer, modeller
 Enligt artikel 3.1 i barnkonventionen "ska vid alla åtgärder som rör barn i första hand beaktas vad
-som bedöms vara barnets bästa". En bedömning av barnets bästa kan genomföras genom en så Utbildningar barnets rättigheter
-k h a e l l l h a e d t s b b a e rn d k ö o m n n s i e n k g v e a n v s v a a n d a s ly o s m e l ä le r r d p e r n ö v b n ä i s n t g a a m v ö b jl a ig rn a e lö ts s n b i ä n s g t e a n . D fö e r t i b n a n r e n b e ä t r e a lle tt r g g ö r r u a p e p n e r av barn. Öva barnets rättigheter, kortlek
+som bedöms vara barnets bästa". En bedömning av barnets bästa kan genomföras genom en så
+kallad barnkonsekvensanalys eller prövning av barnets bästa. Det innebär att göra en
+helhetsbedömning av vad som är den bästa möjliga lösningen för barnet eller grupper av barn.
+
+Mänskliga rättigheter, jämlikhet
+Barnets rättigheter
+Barnkonsekvensanalys
+Barnkonventionen är svensk lag
+Nätverk barnets rättigheter
+Stödstrukturer, modeller
+Utbildningar barnets rättigheter
+Öva barnets rättigheter, kortlek
+
 Det "nns inget färdigt facit som kan användas för att avgöra vad som alltid är barnets bästa utan det Jämställdhet
 handlar om att göra en bedömning i varje enskilt beslut utifrån det eller de barn som berörs.
 Beslutsfattare behöver dock ha tillräckligt med underlag för att ha förutsättningar att kunna bedöma Kvinnofrid
@@ -2016,6 +2030,7 @@ olika handlingsalternativ
 möjliga intressekon#ikter
 negativa och positiva konsekvenser för barnet i beslutet
 bästa möjliga lösning och eventuellt kompensatoriska åtgärder.
+
 Barnkonsekvensanalys, fördjupad bedömning
 Utredningen av barnets bästa ska dock inte vara mer omfattande än vad som krävs för att göra en
 bedömning. En enklare prövning kan i vissa fall vara tillräcklig. Det beror på hur mycket information
@@ -2032,6 +2047,7 @@ Information om det nya materialet och en "lm hittar du på SKR:s nya webbplats F
 socialtjänst:
 Barnkonsekvensanalys – stöd på gång, Framtidens socialtjänst
 Exempel från kommuner och regioner
+
 Region Kronoberg
 Inför beslut om ett nytt Akutsjukhus i Växjö har Region Kronoberg gjort en prövning av barnets
 bästa. Beslutsunderlaget har, förutom att analysera själva beslutet om ett nytt akutsjukhus, även
@@ -2088,15 +2104,19 @@ Simrishamn
 Mall för Barnkonsekvensanalys, Simrishamns kommun (Word)
 Mall fördjupad prövning av barnets bästa, Simrishamns kommun (Word)
 Informationsansvarig
+
 Marie Lundin Karphammar
 Handläggare
+
 Kontakta oss
 Kontaktformulär SKR
+
 Sveriges Kommuner och Regioner Kontakta SKR
 SKR är en medlems- och arbetsgivarorganisation för landets alla Adress och övrig kontaktinformation
 k st o y m re m ls u e n b e e r s o tå c r h a r v e f g ö io rt n r e o r e . n V d i e ä v r a e ld n a p f o r l å it n is k k o t m st m yrd un o e r r g a o n ch is a re ti g o i n o n o e c r h . vår 08-45277000000 (e-post borttagen)
 Evenemang Rapporter och skrifter Cirkulär Handlingar och beslut
 Press Statistik Lärande exempel Bloggar
+
 Om SKR   Kommuner och regioner Hjälp
 Lediga jobb Kort om kommuner och regioner English pages
 Styrelsehandlingar och beslut Kommuner, lista Lättlästa sidor
@@ -3236,7 +3256,9 @@ Arbetsgivare, Demokrati, ledning, Ekonomi, Hälsa, Integration, Näringsliv, arb
 kollektivavtal styrning juridik sjukvård socialomsorg digitalisering infrastruktur fritid
 SKR Demokrati, ledning, styrning Mänskliga rättigheter, jämlikhet Barnets rättigheter Barnkonventionen är svensk lag Genomförande av barnkonventionen
 Framgångsfaktorer
-Publicerad 10 augusti 2022     Demokrati, ledning, styrning
+
+Publicerad 10 augusti 2022      Demokrati, ledning, styrning
+
 Mänskliga rättigheter, jämlikhet
 Framgångsfaktorer i nio steg
 Barnets rättigheter
@@ -3248,50 +3270,62 @@ Barnkonventionen är svensk lag
 Genomförande av
 enlighet med konventionen
 barnkonventionen
-Framgångsfaktorer
+
 2\. Ta in skrivningar om rättigheterna i alla styrande dokument
-Nätverk barnets rättigheter
 Att det "nns skrivningar om rättigheterna i de styrande dokumenten kan sägas motsvara
-Stödstrukturer, modeller
 transformeringen – att rättigheterna förs in i de lagar där de är relevanta.
-Utbildningar barnets rättigheter
 Budgetdokumentet är särskilt viktigt. Det medverkar till att organisationen påminns om frågan
-och prioriteringar synliggörs.  Öva barnets rättigheter, kortlek
+och prioriteringar synliggörs.
 Skapa inga nya dokument, för in rättigheterna i de dokument som "nns.
+
+Framgångsfaktorer
+Nätverk barnets rättigheter
+Stödstrukturer, modeller
+Utbildningar barnets rättigheter
+Öva barnets rättigheter, kortlek
 Jämställdhet
+
 Kvinnofrid
 3\. Verka för att det ska "nnas ett krav på återrapportering till den politiska nivån
 MR i styrning och ledning
 För att säkra att rättigheterna tillämpas i organisationen är det viktigt med återrapportering till Nationella minoriteter
 politikerna. De behöver veta vad som är utfört i förhållande till de beslut som är fattade.
 Rasism, diskriminering
+
 4\. Kartlägg kunskapsnivån        Folkhälsa, jämlik hälsa
 Stöd för samordning
 5\. Besluta om en samordningsfunktion
+
 6\. Tillsätt en arbetsgrupp som är knuten till samordningsfunktionen
+
 7\. Förankra arbetet i hela organisationen
 Alla delar av organisationen behöver vara informerad om vad som pågår.
+
 8\. Genomför aktiviteter på olika nivåer
+
 9\. Be om handledning och stöd om det behövs
 Informationsansvarig
 Marie Lundin Karphammar
 Handläggare
+
 Kontakta oss
 Kontaktformulär SKR
+
 Sveriges Kommuner och Regioner Kontakta SKR
 SKR är en medlems- och arbetsgivarorganisation för landets alla Adress och övrig kontaktinformation
 kommuner och regioner. Vi är en politiskt styrd organisation och vår 08-45277000000 (e-post borttagen)
 styrelse består av förtroendevalda från kommuner och regioner.
+
 Evenemang  Rapporter och skrifter Cirkulär Handlingar och beslut
+
 Press      Statistik  Lärande exempel Bloggar
 
 Om SKR           Kommuner och regioner Hjälp
-Lediga jobb     Kort om kommuner och regioner English pages
+Lediga jobb      Kort om kommuner och regioner English pages
 Styrelsehandlingar och beslut Kommuner, lista Lättlästa sidor
 Styrelse och beredningar Fakta om kommuner och regioner Webbkarta
 Kansliorganisation Regioner, lista A-Ö index
 Om SKR                          E-postutskick, prenumerera
-
 Hjälp oss förbättra skr.se| Om kakor| Dataskydd och personuppgifter| Tillgänglighetsredogörelse| SKR:s webbhandbok| LinkedIn| X
 
 <!-- sida 77 -->
