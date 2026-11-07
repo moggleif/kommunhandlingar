@@ -389,15 +389,23 @@ har Förskola & Grundskola 2020–2026 (kontrollerat 2026-11-07 i poolen):
 - **Beställda redovisningar** kommer tillbaka som egna paragrafer i
   protokollet. 2020 säger rubriken det ("Redovisningar i nämndbudget 2020
   – …"), senare ibland texten ("Enligt direktiv i nämndbudget 2022 …"),
-  och oftast har paragrafen direktivets rubrik. Alla 30 direktiv i
-  poolen har en paragraf. Redovisningen av elever som lämnat grundskolan
-  utan behörighet (2020-06-15) har inget direktiv i delårsrapporten eller
-  årsredovisningen, men rubriken säger att den kommer ur nämndbudget 2020.
+  och oftast har paragrafen direktivets rubrik. Direktiven står i
+  årsredovisningen 2019, 2020, 2021, 2022 och 2023 och i
+  delårsrapporten 2020; filen tar dem ur årsredovisningen när den finns,
+  ett steg per år. Av 41 direktiv har 36 en redovisning i poolen. De fem
+  utan är från 2019, och poolen har inga protokoll från nämnden före
+  2020.
+- **Gränsen mot målen** är rubrikens första ord. Två direktiv 2022 som
+  årsredovisningen säger redovisades på ett möte står ändå kvar bland
+  målen, eftersom rubriken säger något annat: tyska och franska och
+  skollokaler utanför skoltid. Direktiven 2024 som börjar med "Utreda"
+  står också kvar; de har formulering och status.
 - **Återkommande redovisningar** är patientsäkerhetsberättelsen,
   tillsynen av fristående verksamheter, dataskyddet, olycksfall och
   tillbud, kränkningsärendena, klagomålen, huvudmannens systematiska
   kvalitetsarbete, betygsresultaten, enkäterna, intraprenaderna, God och
-  nära vård, samverkan för ökad rörelse och skolvalet. Sedan 2025 har
+  nära vård, samverkan för ökad rörelse, skolvalet, närvaron, skolplikten
+  och barn- och elevhälsan. Sedan 2025 har
   nämnden ett eget årshjul för dem (protokollet 2025-05-14).
 - **Inte med:** den stående paragrafen "Information – Förskola &
   Grundskola arbetsutskott och nämnd", som finns på nästan varje möte,

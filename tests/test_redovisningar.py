@@ -1,5 +1,5 @@
 """Krav: K42 i docs/02-KRAV.md, ADR-0065. Kod: src/kommunhandlingar/webbplats/
-sparslag.py, med spar.py, sparsida.py och sparkort.py."""
+sparslag.py."""
 
 import csv
 import re

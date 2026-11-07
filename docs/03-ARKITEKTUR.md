@@ -222,7 +222,7 @@ src/kommunhandlingar/
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
-                   handlingsplanerna och avvikelserna
+                   handlingsplanerna, redovisningarna och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -230,6 +230,7 @@ uppfoljningar/<kommun>.csv  nämndernas uppföljningar av målen i protokollen (
 lokalbehov/<kommun>.csv  nämndernas lokalbehov steg för steg, skrivna för hand (K36)
 initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna för hand (K37)
 handlingsplaner/<kommun>.csv  nämndernas handlingsplaner steg för steg, skrivna för hand (K38)
+redovisningar/<kommun>.csv  nämndernas redovisningar steg för steg, skrivna för hand (K42)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1652,8 +1653,8 @@ filen (K26), länkad från organets sida.
 - **Källorna** läses av AI-agenten: nämndbudgetarna för målen och
   formuleringarna, delårsrapporterna och årsredovisningarna för statusen.
   Bara det nämnden själv beslutat står med, inte kommunfullmäktiges mål
-  eller direktiv. Ett direktiv som beställer en redovisning, en utredning
-  eller information står bland redovisningarna
+  eller direktiv. Ett direktiv som beställer en redovisning, en
+  utredning eller information står bland redovisningarna
   ([Redovisningar](#redovisningar), K42). Säger protokollet något annat än handlingarna till samma
   möte gäller protokollet, och bara protokollets rad står med. Rubrik,
   formulering och status ur samma rad står på
@@ -1942,6 +1943,9 @@ En kommun med en fil `redovisningar/<kommun>.csv` får en sida
   `redovisad` (paragrafen i protokollet där redovisningen kommer
   tillbaka till nämnden) och `aterkommande` (paragrafen med en
   återkommande redovisning).
+- **Året** är budgetåret i `direktiv` och mötets år i de andra faserna,
+  också när redovisningen gäller året före.
 - **Värdet** används inte.
-- **Tolkad** är `redovisad` när paragrafen inte själv säger att den
-  svarar på direktivet och rubrikerna skiljer sig.
+- **Tolkad:** ett steg `redovisad` har `tolkad` satt till `ja` när
+  paragrafen inte själv säger att den svarar på direktivet och
+  rubrikerna skiljer sig.

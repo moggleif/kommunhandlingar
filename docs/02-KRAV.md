@@ -1369,6 +1369,6 @@ Hur och varför står i
 - **Så** står det bland redovisningarna och inte bland målen och
   direktiven (K26).
 - **Givet** en fil med redovisningar med en okänd fas, en tom redovisning
-  eller något annat som stoppar en initiativfil
+  eller något annat som stoppar en annan spårfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
