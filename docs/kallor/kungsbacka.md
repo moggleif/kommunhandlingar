@@ -374,7 +374,7 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   2025-03-27 saknas i poolen, liksom det mesta före 2021. Initiativ som
   väcktes då syns bara genom senare protokoll, eller inte alls.
 - **Förskola & Grundskola** skriver avsändaren på samma sätt, men också
-  "allianspartierna" (2021). Protokollet 2023-05-17 saknas i poolen, så
+  "allianspartierna" (2021); filen har då `Alliansen`. Protokollet 2023-05-17 saknas i poolen, så
   bifallet till initiativet om mobilfria skolor står bara i handlingarna
   2024-03-13. Initiativet om HLR i förskolan (2026-09-16) har ingen
   avsändare i protokollet och står utan steget `vackt`.
