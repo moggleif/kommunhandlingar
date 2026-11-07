@@ -83,7 +83,7 @@ Regler för det här repot, utöver MADR:
 | 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | proposed |
 | 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | proposed |
 | 0059 | [Handlingsplanerna följs steg för steg som initiativärendena, med en länk till själva planen](0059-handlingsplanerna-foljs-som-initiativen.md) | proposed |
-| 0060 | [Kommunens sida blir en översikt över organen och deras sidor, organets sidor får flikar och statusen en egen sida](0060-navigeringen-med-oversikt-och-flikar.md) | proposed |
+| 0060 | [Kommunens sida blir en översikt över organen och deras sidor, organets sidor får flikar och statusen en egen sida](0060-navigeringen-med-oversikt-och-flikar.md) | accepted |
 | 0061 | [Ett tillfälligt fel på `robots.txt` försöks igen och stoppar inte arkivet, och körningen går två gånger om dygnet tills arkivet är ikapp](0061-korningen-tal-tillfalliga-fel-pa-robots.md) | proposed |
 | 0062 | [I arkivet gäller filnamnets datum under ett annat möte samma år, ett tvåsiffrigt år är 2000-talets, och statussidan visar år utan dokument](0062-arkivets-datum-och-ar-utan-dokument.md) | proposed |
 | 0063 | [Löptext i spalter läses spalt för spalt med XY-snitt över textlagrets rader](0063-spalter-lases-spalt-for-spalt.md) | proposed |
