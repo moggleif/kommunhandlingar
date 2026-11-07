@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2a76ebef1957438fcc484026/1741856477
 sha256: e0a9bbaebba05599388a70a41e894cee0ca39e7cdab583d4774edb4e133f7a2c
 bytes: 9245925
 sidor: 574
-hamtad: 2026-10-24T06:02:16+00:00
-konverterad: 2026-10-24T06:03:14+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T20:06:52+00:00
+konverterad: 2026-11-06T20:08:16+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -23465,100 +23465,147 @@ www.kungsbacka.se
 
 <!-- sida 560 -->
 
-Diarienr. Förening      Bidragstyp             Utbet.dat Belopp
-
+Diarienr. Förening      Bidragstyp            Utbet.dat Belopp
 15744 ABF Norra Halland Kultur &Fritid/ Föreningsuppdrag 2025-02-27 50 000,00
 15658 Annebergs IF    Barn och ungdomsföreningar/ 2025-02-17 7 100,00
+
 Hälsocertifierad
 15727 Annebergs IF    Barn och ungdomsföreningar/ 2025-02-27 275 000,00
 Anläggning- och skötselstöd
-
 15657 Badmintonklubben Kungs Barn och ungdomsföreningar/ 2025-02-17 4 350,00
 Hälsocertifierad
 15846 Bowlingklubben Team Barn och ungdomsföreningar/ Lokalt 2025-02-27 3 338,00
-Kungsbacka       aktivitetsstöd 2
-15840 Bowlingklubben Team Barn och ungdomsföreningar/ 2025-02-27 1 600,00
-Kungsbacka       Utbildning och utvecklingsstöd
 
+Kungsbacka        aktivitetsstöd 2
+15840 Bowlingklubben Team Barn och ungdomsföreningar/ 2025-02-27 1 600,00
+Kungsbacka        Utbildning och utvecklingsstöd
 15662 Fjärås Ryttarförening Barn och ungdomsföreningar/ 2025-02-17 5 350,00
 Hälsocertifierad
 15831 Fjärås Ryttarförening Kultur &Fritid/ Lovaktivitetsstöd 2025-02-27 2 500,00
+
 15738 Fjärås Ryttarförening Barn och ungdomsföreningar/ 2025-02-27 121 000,00
 Anläggning- och skötselstöd
 15682 Fjärås Sportskyttar Barn och ungdomsföreningar/ Lokalt 2025-02-17 1 800,00
-
 aktivitetsstöd 2
 15688 Fjärås Sportskyttar Barn och ungdomsföreningar/ 2025-02-17 2 800,00
-Utbildning och utvecklingsstöd
-15689 Fjärås Sportskyttar Barn och ungdomsföreningar/ 2025-02-17 140
-Drogpolicy
-15694 Fjärås Sportskyttar Barn och ungdomsföreningar/ 2025-02-27 10 000,00
 
+15689 Fjärås Sportskyttar
+
+15694 Fjärås Sportskyttar
+
+15760 Forsgårdens Golfklubb
+
+15793 Forsgårdens Golfklubb
+
+15794 Forsgårdens Golfklubb
+
+15692 Forza Kungsbacka FF
+
+15691 Forza Kungsbacka FF
+
+15845 Free Running Sweden
+
+Kungsbacka IF
+15834 Free Running Sweden
+Kungsbacka IF
+15835 Free Running Sweden
+Kungsbacka IF
+15634 Frillesås Bandyklubb
+
+15649 Frillesås Bandyklubb
+
+15673 Frillesås Bandyklubb
+
+Utbildning och utvecklingsstöd
+Barn och ungdomsföreningar/ 2025-02-17 140
+Drogpolicy
+
+Barn och ungdomsföreningar/ 2025-02-27 10 000,00
 Anläggning- och skötselstöd
-15760 Forsgårdens Golfklubb Barn och ungdomsföreningar/ Lokalt 2025-02-27 6 548,00
+Barn och ungdomsföreningar/ Lokalt 2025-02-27 6 548,00
 aktivitetsstöd 2
-15793 Forsgårdens Golfklubb Barn och ungdomsföreningar/ 2025-02-27 15 200,00
+Barn och ungdomsföreningar/ 2025-02-27 15 200,00
 Utbildning och utvecklingsstöd
-15794 Forsgårdens Golfklubb Barn och ungdomsföreningar/ 2025-02-27 760
 
+Barn och ungdomsföreningar/ 2025-02-27 760
 Drogpolicy
-15692 Forza Kungsbacka FF Barn och ungdomsföreningar/ Lokalt 2025-02-17 7 132,00
+Barn och ungdomsföreningar/ Lokalt 2025-02-17 7 132,00
 aktivitetsstöd 2
-15691 Forza Kungsbacka FF Barn och ungdomsföreningar/ 2025-02-17 3 200,00
+Barn och ungdomsföreningar/ 2025-02-17 3 200,00
 Utbildning och utvecklingsstöd
 
-15845 Free Running Sweden Barn och ungdomsföreningar/ Lokalt 2025-02-27 29 955,00
-Kungsbacka IF    aktivitetsstöd 2
-15834 Free Running Sweden Barn och ungdomsföreningar/ 2025-02-27 54 200,00
-Kungsbacka IF    Utbildning och utvecklingsstöd
-15835 Free Running Sweden Barn och ungdomsföreningar/ 2025-02-27 2 710,00
-Kungsbacka IF    Drogpolicy
-
-15634 Frillesås Bandyklubb Barn och ungdomsföreningar/ Lokalt 2025-02-17 3 135,00
+Barn och ungdomsföreningar/ Lokalt 2025-02-27 29 955,00
 aktivitetsstöd 2
-15649 Frillesås Bandyklubb Barn och ungdomsföreningar/ 2025-02-17 9 200,00
+Barn och ungdomsföreningar/ 2025-02-27 54 200,00
 Utbildning och utvecklingsstöd
-15673 Frillesås Bandyklubb Barn och ungdomsföreningar/ 2025-02-17 460
+Barn och ungdomsföreningar/ 2025-02-27 2 710,00
+Drogpolicy
+
+Barn och ungdomsföreningar/ Lokalt 2025-02-17 3 135,00
+aktivitetsstöd 2
+Barn och ungdomsföreningar/ 2025-02-17 9 200,00
+Utbildning och utvecklingsstöd
+Barn och ungdomsföreningar/ 2025-02-17 460
 Drogpolicy
 
 <!-- sida 561 -->
 
-15681 Frillesås FF    Barn och ungdomsföreningar/ Lokalt 2025-02-17 79 575,00
+15681 Frillesås FF
 
+15686 Frillesås FF
+
+15687 Frillesås FF
+
+15730 Frillesås FF
+
+15807 Frillesås motionsförening
+
+15800 Frillesås motionsförening
+
+15810 Frillesås motionsförening
+
+15732 Frillesås Rid- och Körklubb
+
+15735 Frillesås Rid- och Körklubb
+
+15623 Friluftsfrämjandet Onsala
+
+Barn och ungdomsföreningar/ Lokalt 2025-02-17 79 575,00
 aktivitetsstöd 2
-15686 Frillesås FF    Barn och ungdomsföreningar/ 2025-02-17 74 400,00
+Barn och ungdomsföreningar/ 2025-02-17 74 400,00
+
 Utbildning och utvecklingsstöd
-15687 Frillesås FF    Barn och ungdomsföreningar/ 2025-02-17 18 600,00
+Barn och ungdomsföreningar/ 2025-02-17 18 600,00
 Hälsocertifierad
-
-15730 Frillesås FF    Barn och ungdomsföreningar/ 2025-02-27 40 000,00
+Barn och ungdomsföreningar/ 2025-02-27 40 000,00
 Anläggning- och skötselstöd
-15807 Frillesås motionsförening Barn och ungdomsföreningar/ Lokalt 2025-02-27 728
+Barn och ungdomsföreningar/ Lokalt 2025-02-27 728
+
 aktivitetsstöd 2
-15800 Frillesås motionsförening Barn och ungdomsföreningar/ 2025-02-27 3 000,00
+Barn och ungdomsföreningar/ 2025-02-27 3 000,00
 Utbildning och utvecklingsstöd
-
-15810 Frillesås motionsförening Barn och ungdomsföreningar/ 2025-02-27 150
+Barn och ungdomsföreningar/ 2025-02-27 150
 Drogpolicy
-15732 Frillesås Rid- och Körklubb Barn och ungdomsföreningar/ 2025-02-27 68 000,00
-Anläggning- och skötselstöd
-15735 Frillesås Rid- och Körklubb Barn och ungdomsföreningar/ 2025-02-27 71 000,00
-Anläggning- och skötselstöd
+Barn och ungdomsföreningar/ 2025-02-27 68 000,00
 
-15623 Friluftsfrämjandet Onsala Barn och ungdomsföreningar/ Lokalt 2025-02-17 4 148,00
+Anläggning- och skötselstöd
+Barn och ungdomsföreningar/ 2025-02-27 71 000,00
+Anläggning- och skötselstöd
+Barn och ungdomsföreningar/ Lokalt 2025-02-17 4 148,00
 aktivitetsstöd 2
+
 15639 Friluftsfrämjandet Onsala Barn och ungdomsföreningar/ 2025-02-17 11 800,00
 Utbildning och utvecklingsstöd
 15665 Friluftsfrämjandet Onsala Barn och ungdomsföreningar/ 2025-02-17 2 950,00
-Hälsocertifierad
 
+Hälsocertifierad
 15725 Friluftsfrämjandet Onsala Barn och ungdomsföreningar/ 2025-02-27 10 000,00
 Anläggning- och skötselstöd
 15771 Frodekåren Fjärås Barn och ungdomsföreningar/ Lokalt 2025-02-27 11 348,00
 aktivitetsstöd 2
 15772 Frodekåren Fjärås Barn och ungdomsföreningar/ 2025-02-27 22 200,00
-Utbildning och utvecklingsstöd
 
+Utbildning och utvecklingsstöd
 15773 Frodekåren Fjärås Barn och ungdomsföreningar/ 2025-02-27 1 110,00
 Drogpolicy
 15710 Frodekåren Fjärås Barn och ungdomsföreningar/ 2025-02-27 10 000,00
@@ -23643,44 +23690,65 @@ aktivitetsstöd 2
 
 <!-- sida 563 -->
 
-15818 Kungsbacka Basketklubb Barn och ungdomsföreningar/ 2025-02-27 47 200,00
+15818 Kungsbacka Basketklubb
 
+15819 Kungsbacka Basketklubb
+
+15770 Kungsbacka Bmx-Klubb
+
+15782 Kungsbacka Bmx-Klubb
+
+15783 Kungsbacka Bmx-Klubb
+
+15709 Kungsbacka Bmx-Klubb
+
+15768 Kungsbacka
+Bordtennisklubb
+15778 Kungsbacka
+
+Bordtennisklubb
+15779 Kungsbacka
+Bordtennisklubb
+15850 Kungsbacka Brottarklubb
+
+Barn och ungdomsföreningar/ 2025-02-27 47 200,00
 Utbildning och utvecklingsstöd
-15819 Kungsbacka Basketklubb Barn och ungdomsföreningar/ 2025-02-27 11 800,00
+Barn och ungdomsföreningar/ 2025-02-27 11 800,00
+
 Hälsocertifierad
-15770 Kungsbacka Bmx-Klubb Barn och ungdomsföreningar/ Lokalt 2025-02-27 6 000,00
+Barn och ungdomsföreningar/ Lokalt 2025-02-27 6 000,00
 aktivitetsstöd 2
-
-15782 Kungsbacka Bmx-Klubb Barn och ungdomsföreningar/ 2025-02-27 10 000,00
+Barn och ungdomsföreningar/ 2025-02-27 10 000,00
 Utbildning och utvecklingsstöd
-15783 Kungsbacka Bmx-Klubb Barn och ungdomsföreningar/ 2025-02-27 500
+Barn och ungdomsföreningar/ 2025-02-27 500
+
 Drogpolicy
-15709 Kungsbacka Bmx-Klubb Barn och ungdomsföreningar/ 2025-02-27 40 000,00
+Barn och ungdomsföreningar/ 2025-02-27 40 000,00
 Anläggning- och skötselstöd
-
-15768 Kungsbacka      Barn och ungdomsföreningar/ Lokalt 2025-02-27 19 260,00
-Bordtennisklubb  aktivitetsstöd 2
-15778 Kungsbacka      Barn och ungdomsföreningar/ 2025-02-27 35 000,00
-Bordtennisklubb  Utbildning och utvecklingsstöd
-15779 Kungsbacka      Barn och ungdomsföreningar/ 2025-02-27 8 750,00
-Bordtennisklubb  Hälsocertifierad
-
-15850 Kungsbacka Brottarklubb Barn och ungdomsföreningar/ Lokalt 2025-03-05 8 925,00
+Barn och ungdomsföreningar/ Lokalt 2025-02-27 19 260,00
 aktivitetsstöd 2
+Barn och ungdomsföreningar/ 2025-02-27 35 000,00
+
+Utbildning och utvecklingsstöd
+Barn och ungdomsföreningar/ 2025-02-27 8 750,00
+Hälsocertifierad
+Barn och ungdomsföreningar/ Lokalt 2025-03-05 8 925,00
+aktivitetsstöd 2
+
 15717 Kungsbacka Brottarklubb Barn och ungdomsföreningar/ 2025-02-27 10 000,00
 Anläggning- och skötselstöd
 15851 Kungsbacka Brottarklubb Barn och ungdomsföreningar/ 2025-03-05 10 800,00
+
 Utbildning och utvecklingsstöd
-
 15847 Kungsbacka      Barn och ungdomsföreningar/ Lokalt 2025-02-27 1 058,00
-Brukshundsklubb  aktivitetsstöd 2
+Brukshundsklubb   aktivitetsstöd 2
 15838 Kungsbacka      Barn och ungdomsföreningar/ 2025-02-27 2 200,00
-Brukshundsklubb  Utbildning och utvecklingsstöd
+Brukshundsklubb   Utbildning och utvecklingsstöd
 15839 Kungsbacka      Barn och ungdomsföreningar/ 2025-02-27 110
-Brukshundsklubb  Drogpolicy
 
+Brukshundsklubb   Drogpolicy
 15693 Kungsbacka      Barn och ungdomsföreningar/ 2025-02-27 10 000,00
-Brukshundsklubb  Anläggning- och skötselstöd
+Brukshundsklubb   Anläggning- och skötselstöd
 15655 Kungsbacka Cykelklubb Barn och ungdomsföreningar/ 2025-02-17 2 400,00
 Hälsocertifierad
 15808 Kungsbacka Fäktklubb 1999 Barn och ungdomsföreningar/ Lokalt 2025-02-27 3 968,00
@@ -23764,39 +23832,41 @@ SportfiskeKlubb  Utbildning och utvecklingsstöd
 <!-- sida 565 -->
 
 15748 Kungsbacka      Barn och ungdomsföreningar/ 2025-02-27 210
-
-SportfiskeKlubb  Drogpolicy
+SportfiskeKlubb   Drogpolicy
 15762 Kungsbacka Taekwon-Do Barn och ungdomsföreningar/ Lokalt 2025-02-27 19 972,00
-Klubb            aktivitetsstöd 2
-15790 Kungsbacka Taekwon-Do Barn och ungdomsföreningar/ 2025-02-27 23 200,00
-Klubb            Utbildning och utvecklingsstöd
 
+Klubb             aktivitetsstöd 2
+15790 Kungsbacka Taekwon-Do Barn och ungdomsföreningar/ 2025-02-27 23 200,00
+Klubb             Utbildning och utvecklingsstöd
 15661 Kungsbacka Tennisklubb Barn och ungdomsföreningar/ 2025-02-17 17 700,00
 Hälsocertifierad
 15707 Kungsbacka Tennisklubb Barn och ungdomsföreningar/ 2025-02-27 70 000,00
+
 Anläggning- och skötselstöd
 15843 Kungsbacka United Football Barn och ungdomsföreningar/ Lokalt 2025-02-27 308
-Club             aktivitetsstöd 2
-
+Club              aktivitetsstöd 2
 15832 Kungsbacka United Football Barn och ungdomsföreningar/ 2025-02-27 2 600,00
-Club             Utbildning och utvecklingsstöd
+Club              Utbildning och utvecklingsstöd
 15746 Kvinnojouren    Bidrag Kvinnojouren    2025-02-27 1 000 000,00
+
 15631 Lerkils IF      Barn och ungdomsföreningar/ Lokalt 2025-02-17 114 930,00
 aktivitetsstöd 2
 15646 Lerkils IF      Barn och ungdomsföreningar/ 2025-02-17 105 400,00
-
 Utbildning och utvecklingsstöd
 15670 Lerkils IF      Barn och ungdomsföreningar/ 2025-02-17 26 350,00
+
 Hälsocertifierad
 15754 Löftadalens     Barn och ungdomsföreningar/ Lokalt 2025-02-27 2 265,00
-Dragkampsklubb   aktivitetsstöd 2
-15752 Löftadalens     Barn och ungdomsföreningar/ 2025-02-27 6 600,00
+Dragkampsklubb    aktivitetsstöd 2
 
-Dragkampsklubb   Utbildning och utvecklingsstöd
+15752 Löftadalens     Barn och ungdomsföreningar/ 2025-02-27 6 600,00
+Dragkampsklubb    Utbildning och utvecklingsstöd
 15753 Löftadalens     Barn och ungdomsföreningar/ 2025-02-27 1 650,00
-Dragkampsklubb   Hälsocertifierad
+
+Dragkampsklubb    Hälsocertifierad
+
 15696 Löftadalens     Barn och ungdomsföreningar/ 2025-02-27 15 000,00
-Dragkampsklubb   Anläggning- och skötselstöd
+Dragkampsklubb    Anläggning- och skötselstöd
 15820 Löftadalens IF  Barn och ungdomsföreningar/ Lokalt 2025-02-27 1 590,00
 
 aktivitetsstöd 2
@@ -23804,21 +23874,33 @@ aktivitetsstöd 2
 Utbildning och utvecklingsstöd
 15726 Löftadalens IF  Barn och ungdomsföreningar/ 2025-02-27 165 000,00
 Anläggning- och skötselstöd
-
 15719 Löftadalens Scoutkår Barn och ungdomsföreningar/ 2025-02-27 10 000,00
+
+15656 Nordhallands Ridklubb
+
+15758 Nordhallands Ridklubb
+
+15734 Nordhallands Ridklubb
+
+15737 Nordhallands Ridklubb
+
+15630 OK Löftan
+
+15645 OK Löftan
+
 Anläggning- och skötselstöd
-15656 Nordhallands Ridklubb Barn och ungdomsföreningar/ 2025-02-17 12 450,00
+Barn och ungdomsföreningar/ 2025-02-17 12 450,00
 Hälsocertifierad
-15758 Nordhallands Ridklubb Kultur &Fritid/ Lovaktivitetsstöd 2025-02-27 1 000,00
-15734 Nordhallands Ridklubb Barn och ungdomsföreningar/ 2025-02-27 96 000,00
 
+Kultur &Fritid/ Lovaktivitetsstöd 2025-02-27 1 000,00
+Barn och ungdomsföreningar/ 2025-02-27 96 000,00
 Anläggning- och skötselstöd
-15737 Nordhallands Ridklubb Barn och ungdomsföreningar/ 2025-02-27 125 000,00
+Barn och ungdomsföreningar/ 2025-02-27 125 000,00
 Anläggning- och skötselstöd
-15630 OK Löftan       Barn och ungdomsföreningar/ Lokalt 2025-02-17 6 510,00
+Barn och ungdomsföreningar/ Lokalt 2025-02-17 6 510,00
+
 aktivitetsstöd 2
-15645 OK Löftan       Barn och ungdomsföreningar/ 2025-02-17 7 800,00
-
+Barn och ungdomsföreningar/ 2025-02-17 7 800,00
 Utbildning och utvecklingsstöd
 
 <!-- sida 566 -->

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f252f75a/17684637103
 sha256: 1cbe4165d3c3928b5947bb1011a0fee9d18d25a9a879bff35010cc7a6d286e91
 bytes: 6893735
 sidor: 574
-hamtad: 2026-10-24T06:10:26+00:00
-konverterad: 2026-10-24T06:11:27+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T20:18:20+00:00
+konverterad: 2026-11-06T20:19:45+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -23429,58 +23429,92 @@ Uppdraget ska redovisas senast den 20 maj 2025.
 
 <!-- sida 518 -->
 
-Statens offentliga utredningar  2025
+Statens  offentliga utredningar 2025
 
 Kronologisk förteckning
 
-1\. Skärpta krav för svenskt medborgar- 20. Kommunal anslutning till Utbetal-
-skap. Ju.              ningsmyndighetens verksamhet. Fi.
-2\. Några frågor om grundläggande 21. Miljömålsberedningens förslag om en
-fri- och rättigheter. Ju. strategi för hur Sverige ska leva upp
-3\. Skatteincitament för forskning till EU:s åtaganden inom biologisk
-och utveckling. En översyn av mångfald respektive nettoupptag av
-FoU-avdraget och expertskatte- växthusgaser från markanvändnings-
-reglerna. Fi.          sektorn (LULUCF). KN.
-4\. Moderna och enklare skatteregler 22. Förbättrad konkurrens i offentlig och
-för arbetslivet. Fi.   privat verksamhet. KN.
-5\. Avgift för områdessamverkan 23. Ersättningsregler med brottsoffret
-– och andra åtgärder för trygghet i fokus. Ju.
-i byggd miljö. LI.   24. Publiken i fokus
-6\. Plikten kallar! En modern personal- – reformer för ett starkare filmland. Ku.
-försörjning av det civila försvaret. Fö. 25. Arbetslivskriminalitet – upplägg,
-7\. Ny kärnkraft i Sverige – effektivare verktyg och åtgärder, fortsatt arbete. A.
-tillståndsprövning och ändamålsenliga 26. Tid för undervisningsuppdraget –
-avgifter. KN.          åtgärder för god undervisning och
-8\. Bättre förutsättningar för trygghet läraryrkenas attraktivitet. U.
-och studiero i skolan. U. 27. En socionomutbildning i tiden. U.
-9\. På språklig grund. U. 28. Frihet från våld, förtryck och utnytt-
-10\. En förändrad abortlag – för en god, jande. En jämställdhetspolitisk strategi
-säker och tillgänglig abortvård. S. mot våld och en stärkt styrning av
-centrala myndigheter. A.
+1\. Skärpta krav för svenskt medborgar-
+skap. Ju.
+2\. Några frågor om grundläggande
+fri- och rättigheter. Ju.
+3\. Skatteincitament för forskning
+och utveckling. En översyn av
+FoU-avdraget och expertskatte-
+reglerna. Fi.
+4\. Moderna och enklare skatteregler
+för arbetslivet. Fi.
+5\. Avgift för områdessamverkan
+– och andra åtgärder för trygghet
+i byggd miljö. LI.
+6\. Plikten kallar! En modern personal-
+försörjning av det civila försvaret. Fö.
+7\. Ny kärnkraft i Sverige – effektivare
+tillståndsprövning och ändamålsenliga
+avgifter. KN.
+8\. Bättre förutsättningar för trygghet
+och studiero i skolan. U.
+9\. På språklig grund. U.
+10\. En förändrad abortlag – för en god,
+säker och tillgänglig abortvård. S.
 11\. Straffbarhetsåldern. Ju.
-29\. Ökad kvalitet hos Samhall
 12\. AI-kommissionens
-och fler vägar till skyddat arbete. A.
 Färdplan för Sverige. Fi.
-30\. Enklare mervärdesskatteregler vid
 13\. En effektivare organisering av mindre
-försäljning av begagnade varor och
 myndigheter – analys och förslag. Fi.
-donation av livsmedel. Fi.
 14\. En skärpt miljöstraffrätt och
-31\. Utmönstring av permanent uppehålls-
 ett effektivt sanktionssystem. KN.
+15\. Stärkta drivkrafter och möjligheter för
+biståndsmottagare. Volym 1 och 2. S.
+16\. Ett nytt regelverk för uppsikt och
+förvar. Ju.
+17\. Anpassning av svensk rätt till EU:s
+avskogningsförordning. LI.
+18\. Ett likvärdigt betygssystem.
+Volym 1 och 2. U.
+19\. Kunskap för alla – nya läroplaner med
+fokus på undervisning och lärande. U.
+
+20\. Kommunal anslutning till Utbetal-
+ningsmyndighetens verksamhet. Fi.
+21\. Miljömålsberedningens förslag om en
+strategi för hur Sverige ska leva upp
+till EU:s åtaganden inom biologisk
+mångfald respektive nettoupptag av
+växthusgaser från markanvändnings-
+sektorn (LULUCF). KN.
+22\. Förbättrad konkurrens i offentlig och
+privat verksamhet. KN.
+23\. Ersättningsregler med brottsoffret
+i fokus. Ju.
+24\. Publiken i fokus
+– reformer för ett starkare filmland. Ku.
+25\. Arbetslivskriminalitet – upplägg,
+verktyg och åtgärder, fortsatt arbete. A.
+26\. Tid för undervisningsuppdraget –
+åtgärder för god undervisning och
+läraryrkenas attraktivitet. U.
+27\. En socionomutbildning i tiden. U.
+28\. Frihet från våld, förtryck och utnytt-
+jande. En jämställdhetspolitisk strategi
+mot våld och en stärkt styrning av
+centrala myndigheter. A.
+29\. Ökad kvalitet hos Samhall
+och fler vägar till skyddat arbete. A.
+30\. Enklare mervärdesskatteregler vid
+försäljning av begagnade varor och
+donation av livsmedel. Fi.
+31\. Utmönstring av permanent uppehålls-
 tillstånd och vissa anpassningar till
-15\. Stärkta drivkrafter och möjligheter för miniminivån enligt EU:s migrations-
-biståndsmottagare. Volym 1 och 2. S. och asylpakt. Ju.
-16\. Ett nytt regelverk för uppsikt och 32. Vissa förändringar av jaktlagstiftningen.
-förvar. Ju.            LI.
-17\. Anpassning av svensk rätt till EU:s 33. Skärpta och tydligare krav på vandel
-avskogningsförordning. LI. för uppehållstillstånd. Ju.
-18\. Ett likvärdigt betygssystem. 34. Ett modernare konsumentskydd vid
-Volym 1 och 2. U.      distansavtal. Ju.
-19\. Kunskap för alla – nya läroplaner med 35. Etableringsboendelagen
-fokus på undervisning och lärande. U. – ett nytt system för bosättning
+miniminivån enligt EU:s migrations-
+och asylpakt. Ju.
+32\. Vissa förändringar av jaktlagstiftningen.
+LI.
+33\. Skärpta och tydligare krav på vandel
+för uppehållstillstånd. Ju.
+34\. Ett modernare konsumentskydd vid
+distansavtal. Ju.
+35\. Etableringsboendelagen
+– ett nytt system för bosättning
 för vissa nyanlända. A.
 
 <!-- sida 519 -->
@@ -23533,79 +23567,108 @@ LI.
 
 <!-- sida 520 -->
 
-Statens offentliga utredningar  2025
+Statens  offentliga utredningar 2025
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Ett nytt regelverk för uppsikt och förvar.
-Arbetslivskriminalitet – upplägg, verktyg [16]
-och åtgärder, fortsatt arbete. [25] Ersättningsregler med brottsoffret i fokus.
-Frihet från våld, förtryck och utnyttjande. [23]
-En jämställdhetspolitisk strategi mot Utmönstring av permanent uppehålls-
-våld och en stärkt styrning av centrala tillstånd och vissa anpassningar till
-myndigheter. [28]     miniminivån enligt EU:s migrations-
-Ökad kvalitet hos Samhall och fler vägar och asylpakt. [31]
-till skyddat arbete. [29] Skärpta och tydligare krav på vandel
-Etableringsboendelagen – ett nytt system för uppehållstillstånd. [33]
-för bosättning för vissa nyanlända. [35] Ett modernare konsumentskydd
-En reformerad samhällsorientering vid distansavtal. [34]
-för bättre integration. [55] Säkrare tivoli. [40]
-Säkerhetsskyddslagen – ytterligare
-Finansdepartementet     kompletteringar. [42]
-Skatteincitament för forskning Ökat informationsutbyte mellan
-och utveckling. En översyn av myndigheter – några anslutande
-FoU-avdraget och expertskatte- frågor. [45]
-reglerna. [3]       Tryggare idrottsarrangemang. [46]
-Moderna och enklare skatteregler Säkerhetspolisens behandling
-för arbetslivet. [4]  av personuppgifter. [49]
-AI-kommissionens Färdplan för Sverige. [12] Ökad insyn i politiska processer. [52]
-En effektivare organisering av mindre Ett skärpt regelverk om utvisning
-myndigheter – analys och förslag. [13] på grund av brott. [54]
-Kommunal anslutning till Utbetalnings- Stärkt skydd för domstolarnas
-myndighetens verksamhet. [20] och domarnas oberoende. [56]
-Enklare mervärdesskatteregler vid Polisiär beredskap i fred, kris och krig. [57]
+Arbetsmarknadsdepartementet
+Arbetslivskriminalitet – upplägg, verktyg
+och åtgärder, fortsatt arbete. [25]
+Frihet från våld, förtryck och utnyttjande.
+En jämställdhetspolitisk strategi mot
+våld och en stärkt styrning av centrala
+myndigheter. [28]
+Ökad kvalitet hos Samhall och fler vägar
+till skyddat arbete. [29]
+Etableringsboendelagen – ett nytt system
+för bosättning för vissa nyanlända. [35]
+En reformerad samhällsorientering
+för bättre integration. [55]
+Finansdepartementet
+Skatteincitament för forskning
+och utveckling. En översyn av
+FoU-avdraget och expertskatte-
+reglerna. [3]
+Moderna och enklare skatteregler
+för arbetslivet. [4]
+AI-kommissionens Färdplan för Sverige. [12]
+En effektivare organisering av mindre
+myndigheter – analys och förslag. [13]
+Kommunal anslutning till Utbetalnings-
+myndighetens verksamhet. [20]
+Enklare mervärdesskatteregler vid
 försäljning av begagnade varor
 och donation av livsmedel. [30]
+Försvarsdepartementet
+Plikten kallar! En modern personal-
+försörjning av det civila försvaret. [6]
+Justitiedepartementet
+Skärpta krav för svenskt medborgarskap.
+[1]
+Några frågor om grundläggande
+fri- och rättigheter. [2]
+Straffbarhetsåldern. [11]
+
+Ett nytt regelverk för uppsikt och förvar.
+[16]
+Ersättningsregler med brottsoffret i fokus.
+[23]
+Utmönstring av permanent uppehålls-
+tillstånd och vissa anpassningar till
+miniminivån enligt EU:s migrations-
+och asylpakt. [31]
+Skärpta och tydligare krav på vandel
+för uppehållstillstånd. [33]
+Ett modernare konsumentskydd
+vid distansavtal. [34]
+Säkrare tivoli. [40]
+Säkerhetsskyddslagen – ytterligare
+kompletteringar. [42]
+Ökat informationsutbyte mellan
+myndigheter – några anslutande
+frågor. [45]
+Tryggare idrottsarrangemang. [46]
+Säkerhetspolisens behandling
+av personuppgifter. [49]
+Ökad insyn i politiska processer. [52]
+Ett skärpt regelverk om utvisning
+på grund av brott. [54]
+Stärkt skydd för domstolarnas
+och domarnas oberoende. [56]
+Polisiär beredskap i fred, kris och krig. [57]
 Klimat- och näringslivsdepartementet
 Ny kärnkraft i Sverige – effektivare
-Försvarsdepartementet
 tillståndsprövning och ändamålsenliga
-Plikten kallar! En modern personal- avgifter. [7]
-försörjning av det civila försvaret. [6]
+avgifter. [7]
 En skärpt miljöstraffrätt och
 ett effektivt sanktionssystem. [14]
-Justitiedepartementet Miljömålsberedningens förslag om en
-Skärpta krav för svenskt medborgarskap. strategi för hur Sverige ska leva upp
-[1]                   till EU:s åtaganden inom biologisk
-Några frågor om grundläggande mångfald respektive nettoupptag av
-fri- och rättigheter. [2] växthusgaser från markanvändnings-
+Miljömålsberedningens förslag om en
+strategi för hur Sverige ska leva upp
+till EU:s åtaganden inom biologisk
+mångfald respektive nettoupptag av
+växthusgaser från markanvändnings-
 sektorn (LULUCF). [21]
-Straffbarhetsåldern. [11]
 
 <!-- sida 521 -->
 
-Förbättrad konkurrens i offentlig och Utbildningsdepartementet
-privat verksamhet. [22] Bättre förutsättningar för trygghet
-Spänning i tillvaron – hur säkrar vi vår och studiero i skolan. [8]
-framtida elförsörjning? [47] På språklig grund. [9]
-Bättre förutsättningar för Ett likvärdigt betygssystem
-klimatanpassning. [51] Volym 1 och 2. [18]
-Kunskap för alla – nya läroplaner med
-Kulturdepartementet     fokus på undervisning och lärande. [19]
-Publiken i fokus – reformer för ett star- Tid för undervisningsuppdraget – åtgärder
-kare filmland. [24]    för god undervisning och läraryrkenas
-attraktivitet. [26]
-Landsbygds- och       En socionomutbildning i tiden. [27]
-infrastrukturdepartementet Skärpta villkor för friskolesektorn. [37]
-Avgift för områdessamverkan Förbättrat stöd i skolan. [44]
+Förbättrad konkurrens i offentlig och
+privat verksamhet. [22]
+Spänning i tillvaron – hur säkrar vi vår
+framtida elförsörjning? [47]
+Bättre förutsättningar för
+klimatanpassning. [51]
+Kulturdepartementet
+Publiken i fokus – reformer för ett star-
+kare filmland. [24]
+
+Landsbygds- och
+infrastrukturdepartementet
+Avgift för områdessamverkan
 – och andra åtgärder för trygghet
 i byggd miljö. [5]
-Utrikesdepartementet
 Anpassning av svensk rätt till EU:s
-Skydd för biologisk mångfald i
 avskogningsförordning. [17]
-havsområden utanför nationell
-Vissa förändringar av jaktlagstiftningen. jurisdiktion. [36]
+Vissa förändringar av jaktlagstiftningen.
 [32]
 En ny nationell myndighet
 för viltförvaltning. [50]
@@ -23631,6 +23694,25 @@ Stärkt pandemiberedskap. [48]
 Kvalificering till socialförsäkring
 och ekonomiskt bistånd
 för vissa grupper. [53]
+
+Utbildningsdepartementet
+Bättre förutsättningar för trygghet
+och studiero i skolan. [8]
+På språklig grund. [9]
+Ett likvärdigt betygssystem
+Volym 1 och 2. [18]
+Kunskap för alla – nya läroplaner med
+fokus på undervisning och lärande. [19]
+Tid för undervisningsuppdraget – åtgärder
+för god undervisning och läraryrkenas
+attraktivitet. [26]
+En socionomutbildning i tiden. [27]
+Skärpta villkor för friskolesektorn. [37]
+Förbättrat stöd i skolan. [44]
+Utrikesdepartementet
+Skydd för biologisk mångfald i
+havsområden utanför nationell
+jurisdiktion. [36]
 
 <!-- sida 522 -->
 

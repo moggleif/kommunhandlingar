@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3e23932418fe7cfbe7d2e26/17177558645
 sha256: 36497dfbcdfee4d7b800c73cbe211a8fb1c05d367b7a58de19aa809700fac1b1
 bytes: 2134558
 sidor: 37
-hamtad: 2026-10-24T07:10:36+00:00
-konverterad: 2026-10-24T07:10:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:32:53+00:00
+konverterad: 2026-11-06T21:33:02+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -365,7 +365,6 @@ anlitar ett biträde ...........................................................
 <!-- sida 11 -->
 
 1     Förslag till lag om ändring i vallagen
-
 (2005:837)
 
 Härigenom föreskrivs att 7 kap. 3 § och 8 kap. 2 a § vallagen (2005:837)
@@ -374,19 +373,31 @@ ska ha följande lydelse.
 Nuvarande lydelse    Föreslagen lydelse
 
 7 kap.
+
 3 §
+
 Varje väljare ska vara ensam bakom en valskärm och själv göra i ordning
 sina röster där. Därefter ska väljaren lämna valkuverten till
 röstmottagarna.
 Väljare som på grund av Väljare som på grund av
 funktionsnedsättning eller liknande funktionsnedsättning eller liknande
-inte själva kan göra i ordning sina inte själva kan göra i ordning sina
-röster, ska dock på begäran få hjälp röster, ska dock på begäran få hjälp
-med detta av röstmottagarna i den med detta av röstmottagarna i den
-utsträckning som behövs. En sådan utsträckning som behövs. En sådan
-väljare får också anlita någon väljare får också anlita ytterligare
-annan person som hjälper honom en person som hjälper honom eller
-eller henne vid röstningen. henne vid röstningen.
+
+inte själva kan göra i ordning sina
+röster, ska dock på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita någon
+annan person som hjälper honom
+eller henne vid röstningen.
+
+inte själva kan göra i ordning sina
+röster, ska dock på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita ytterligare
+en person som hjälper honom eller
+henne vid röstningen.
+
 8 kap.
 2 a §
 Väljare som på grund av Väljare som på grund av
@@ -1195,24 +1206,34 @@ Kungsbacka kommun
 
 EU-valet         2024
 
-Checklista  för säkerhet  i lokal
+Checklista   för säkerhet  i lokal
 
 Innan du börjar arbeta
 
 Ta reda på:
- Vad händer idag? Tider/schema?  Vanliga frågor från väljare – och var hittar jag
+ Vad händer idag? Tider/schema?
 
- Vad är min uppgift? Hur utför jag den? svar enklast?
- Ska jag vara beredd att göra något annat?  Var finns nödutgångar? Gör ett fysiskt besök.
- Vem är min ansvarige? Har jag kontaktuppgifterna  Finns det något säkert rum? Gör ett fysiskt besök.
+ Vad är min uppgift? Hur utför jag den?
+ Ska jag vara beredd att göra något annat?
+ Vem är min ansvarige? Har jag kontaktuppgifterna
 
-till den/de?                  Var finns brandsläckare? Hur använder jag den?
- Var får väljarna vara?        Var finns första hjälpen kit? Hur använder
- Vad får väljarna göra?         jag det?
+till den/de?
+ Var får väljarna vara?
+ Vad får väljarna göra?
+
+ Vanliga frågor från väljare – och var hittar jag
+svar enklast?
+
+ Var finns nödutgångar? Gör ett fysiskt besök.
+ Finns det något säkert rum? Gör ett fysiskt besök.
+ Var finns brandsläckare? Hur använder jag den?
+
+ Var finns första hjälpen kit? Hur använder
+jag det?
 
 I rollen
 
-Ansiktet utåt...          och          ...en säkerhetsfunktion
+Ansiktet utåt...          och           ...en säkerhetsfunktion
 
 • Professionellt bemötande.               • Vaken uppmärksamhet.
 • Effektiv och noggrann.                  • Högt säkerhetsmedvetande.
@@ -1221,24 +1242,39 @@ Ansiktet utåt...          och          ...en säkerhetsfunktion
 Ser du något – säg något
 Exempel på åtgärder
 • Var uppmärksam. Ta dina iakttagelser på allvar. • Fortsatt observation.
-• Var välkomnande och utåtriktad.           • Nämn för en kollega.
+• Var välkomnande och utåtriktad.            • Nämn för en kollega.
 • Prata med/kontakta
 • Gör en löpande bedömning – ovanligt
 ansvarig.
 eller misstänkt?
 • Ring 112.
 • Ser du något, säg något.
-Vad  kan vara misstänkt?
-• Person som uppehåller sig på platsen utan anledning. • Person som hävdar att de representerar en
-• Person som byter beteende när hen märker att hen organisation, men det verkar osannolikt och
-är upptäckt.                   personen saknar uniform, ID eller andra bevis.
-• Person som försöker smita genom dörr eller • Person i parkerat fordon under en längre tid.
-kontroll.                     • Felparkerat fordon eller fordon på ovanlig plats.
-• Person med överdrivet intresse för säkerheten • Väskor, kartonger, kassar och så vidare som ingen
-på platsen.                    känns vid.
-• Person som dolt försöker filma eller fotografera. • Falsksamtal till 112 med utryckning till platsen
-• Person som försöker maskera sig eller har mycket som följd.
-kläder för årstiden.          • Sabotage av säkerhetsåtgärder som uppbrutna lås,
+
+Vad kan  vara misstänkt?
+
+• Person som uppehåller sig på platsen utan anledning.
+• Person som byter beteende när hen märker att hen
+är upptäckt.
+• Person som försöker smita genom dörr eller
+kontroll.
+• Person med överdrivet intresse för säkerheten
+på platsen.
+• Person som dolt försöker filma eller fotografera.
+
+• Person som försöker maskera sig eller har mycket
+kläder för årstiden.
+
+• Person som hävdar att de representerar en
+organisation, men det verkar osannolikt och
+personen saknar uniform, ID eller andra bevis.
+• Person i parkerat fordon under en längre tid.
+• Felparkerat fordon eller fordon på ovanlig plats.
+
+• Väskor, kartonger, kassar och så vidare som ingen
+känns vid.
+• Falsksamtal till 112 med utryckning till platsen
+som följd.
+• Sabotage av säkerhetsåtgärder som uppbrutna lås,
 bortkopplade larm etc.
 
 <!-- sida 30 -->

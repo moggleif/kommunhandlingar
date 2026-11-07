@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.33d6d97191e4f00c90c8a98/17266613739
 sha256: b445137a352d0c771dffff2bd603f93599a6ec0d3fee931d9595ec98414f2181
 bytes: 76037184
 sidor: 630
-hamtad: 2026-10-24T07:57:17+00:00
-konverterad: 2026-10-24T08:01:06+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T22:29:39+00:00
+konverterad: 2026-11-06T22:34:49+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -17968,34 +17968,34 @@ Max Falk, Anna Kronvall och Aako Raoofi Arne Ekelund, Sweco
 
 1   Inledning
 
-Västra Götaland ska utvecklas till en robust och Västra Götalandsregionen har som
-väl sammanhållen region. Det förutsätter att länsplaneupprättare ansvar för att ta fram en
-delarna samspelar och förstärker varandra samt regional transportinfrastrukturplan, hädanefter
-att de bidrar till en konkurrenskraftig helhet benämnd regional infrastrukturplan. Den
-med hållbar tillväxt, välfärd och god miljö. En regionala infrastrukturplanen utgör en del av
-sammanhållen region ger fler möjlighet till den nationella infrastrukturplanen och
-arbete, utbildning, vård och omsorg, kultur regeringen fastställer de ekonomiska ramarna.
+Västra Götaland ska utvecklas till en robust och
+väl sammanhållen region. Det förutsätter att
+delarna samspelar och förstärker varandra samt
+att de bidrar till en konkurrenskraftig helhet
+med hållbar tillväxt, välfärd och god miljö. En
+sammanhållen region ger fler möjlighet till
+arbete, utbildning, vård och omsorg, kultur
 och fritid. Västra Götaland är Sveriges
-transport- och logistikcentrum med flera Hur medlen ska fördelas inom den regionala
-geografiskt utspridda noder där flera infrastrukturplanen beslutas av
+transport- och logistikcentrum med flera
+geografiskt utspridda noder där flera
+transportslag möts.
 
-transportslag möts.             regionfullmäktige. Trafikverket ansvarar för
-planens genomförande. Rollen som
-Transportinfrastruktur är inget ändamål i sig, länsplaneupprättare ingår i det regionala
-utan en pusselbit i omställningen till ett utvecklingsuppdraget och planen ska, med
-hållbart och konkurrenskraftigt samhälle. Den hänsyn till de regionala förutsättningarna,
-regionala transportinfrastrukturen ska stödja bidra till att de transportpolitiska målen
-utvecklingen av ett transporteffektivt samhälle uppnås.
+Transportinfrastruktur är inget ändamål i sig,
+
+utan en pusselbit i omställningen till ett
+hållbart och konkurrenskraftigt samhälle. Den
+regionala transportinfrastrukturen ska stödja
+utvecklingen av ett transporteffektivt samhälle
 för person- och godstransporter i Västra
-Götaland.                       Den regionala infrastrukturplanen är
-framarbetad i nära dialog med de fyra
-Flera större omställningar i samhället pågår kommunalförbunden. Västtrafik och
-som kommer att påverka både användandet av Trafikverket har bistått arbetet. Dialog med
+Götaland.
 
-och kraven på transportsystemet. Elektrifiering kommunerna har förts via
-av fordon och vägar, digitalisering och kommunalförbunden och politisk förankring
-automatisering är exempel på större trender. har skett löpande i beredningen för hållbar
-Pandemin har påverkat resvanorna kraftigt och utveckling, BHU.
+Flera större omställningar i samhället pågår
+som kommer att påverka både användandet av
+och kraven på transportsystemet. Elektrifiering
+av fordon och vägar, digitalisering och
+automatisering är exempel på större trender.
+Pandemin har påverkat resvanorna kraftigt och
+
 ännu är det för tidigt att se vilka effekter det
 kommer att få på resmönstren på sikt. Den
 fortsatta klimatomställningen medför nya
@@ -18008,38 +18008,60 @@ förutsättningarna.
 
 3
 
+Västra Götalandsregionen har som
+länsplaneupprättare ansvar för att ta fram en
+regional transportinfrastrukturplan, hädanefter
+benämnd regional infrastrukturplan. Den
+regionala infrastrukturplanen utgör en del av
+den nationella infrastrukturplanen och
+regeringen fastställer de ekonomiska ramarna.
+
+Hur medlen ska fördelas inom den regionala
+infrastrukturplanen beslutas av
+regionfullmäktige. Trafikverket ansvarar för
+planens genomförande. Rollen som
+länsplaneupprättare ingår i det regionala
+utvecklingsuppdraget och planen ska, med
+hänsyn till de regionala förutsättningarna,
+bidra till att de transportpolitiska målen
+uppnås.
+
+Den regionala infrastrukturplanen är
+framarbetad i nära dialog med de fyra
+
+kommunalförbunden. Västtrafik och
+Trafikverket har bistått arbetet. Dialog med
+kommunerna har förts via
+kommunalförbunden och politisk förankring
+har skett löpande i beredningen för hållbar
+utveckling, BHU.
+
 <!-- sida 457 -->
 
 Ett regeringsuppdrag   i flera steg
 
 Planeringen av åtgärder i den statliga
-transportinfrastrukturen omfattar ett flertal Övergripande innehåll nationell plan
+transportinfrastrukturen omfattar ett flertal
 steg och är en process för vilken riksdagen och
-• Åtgärder på järnvägar, nationella
 regeringen anger villkoren. Åtgärdsplaneringen
-stamvägar och för sjöfart
 föregås av inriktningsplanering, som utreder
 mål, ekonomiska ramar och inriktning för den
-• Drift och underhåll
 kommande planperioden. Trafikverket tar fram
+
 ett inriktningsunderlag på nationell nivå och
-• Stadsmiljöavtal, med mera
 överlämnar till regeringen som skriver fram en
 infrastrukturproposition. Västra
-Övergripande innehåll regional plan
 Götalandsregionen har även tagit fram ett
-regionalt inriktningsunderlag, se avsnitt • Åtgärder på statliga regionala vägar,
-Regionalt inriktningsunderlag för   inklusive åtgärder för kollektivtrafik
-transportinfrastrukturen.           och cykel (inkluderar även gång och
-moped)
+regionalt inriktningsunderlag, se avsnitt
+Regionalt inriktningsunderlag för
+transportinfrastrukturen.
+
 Regeringen ger genom ett direktiv, se avsnitt
-• Statlig medfinans till
 Direktiv för åtgärdsplaneringen, Trafikverket
-kollektivtrafikåtgärder samt
 och regionerna i uppdrag att ta fram förslag till
-trafiksäkerhets- och miljöåtgärder på
-nationell respektive regionala      kommunalt vägnät
+nationell respektive regionala
 infrastrukturplaner. Planerna innehåller såväl
+
 namngivna åtgärder som medel till olika
 åtgärdsområden, där åtgärderna beslutas under
 planperioden. Regionala infrastrukturplaner
@@ -18047,12 +18069,36 @@ beslutas av regionfullmäktige och regeringen
 fastställer såväl den nationella som de regionala
 infrastrukturplanerna innan genomförandet tar
 vid.
+
 De transportpolitiska målen ligger till grund
 för utvecklingen av transportinfrastrukturen.
 Andra utgångspunkter är Agenda 2030,
 Klimatlagen och Nollvisionen. För mer
 information om de nationella
+
 utgångspunkterna, se avsnitt Nationella mål.
+
+Övergripande innehåll nationell plan
+
+• Åtgärder på järnvägar, nationella
+stamvägar och för sjöfart
+
+• Drift och underhåll
+
+• Stadsmiljöavtal, med mera
+
+Övergripande innehåll regional plan
+
+• Åtgärder på statliga regionala vägar,
+inklusive åtgärder för kollektivtrafik
+och cykel (inkluderar även gång och
+moped)
+
+• Statlig medfinans till
+kollektivtrafikåtgärder samt
+trafiksäkerhets- och miljöåtgärder på
+kommunalt vägnät
+
 2.Infrastrukturproposition 3.Förslag till nationell
 1.Inriktningsunderlag och direktiv för och regionala 4.Fastställelse
 åtgärdsplanering  infrastrukturplaner
@@ -18063,34 +18109,34 @@ Figur 1. Process för framtagande av nationella och regionala infrastrukturplane
 
 <!-- sida 458 -->
 
-Planens framtagande
+Planens  framtagande
 
-Det första steget i framtagandet av en ny Den politiska processen har skett via
-regional infrastrukturplan var att ta fram ett beredningen för hållbar utveckling, BHU.
-inriktningsunderlag för utvecklingen av Regionutvecklingsnämnden och
-transportinfrastrukturen i Västra Götaland. kollektivtrafiknämnden har löpande informerats
-Arbetet med inriktningsunderlaget inleddes under processen. Kommunalförbunden har
-med en övergripande gap-analys utifrån haft politisk beredning i respektive direktion/
-Agenda 2030. Analysen ledde till att tre förbundsstyrelse.
+Det första steget i framtagandet av en ny
+regional infrastrukturplan var att ta fram ett
+inriktningsunderlag för utvecklingen av
+transportinfrastrukturen i Västra Götaland.
+Arbetet med inriktningsunderlaget inleddes
+med en övergripande gap-analys utifrån
+Agenda 2030. Analysen ledde till att tre
 fokusområden lyftes fram som komplement till
-den tidigare regionala systemanalysen: klimat, Samrådsremiss av förslaget till regional
-social hållbarhet och trafiksäkerhet. infrastrukturplan 2022-2033 genomfördes
+den tidigare regionala systemanalysen: klimat,
+social hållbarhet och trafiksäkerhet.
+Inriktningsunderlaget ligger till grund för
 
-Inriktningsunderlaget ligger till grund för mellan 20 oktober 2021 och 31 januari 2022.
-framtagandet av den regionala   Slutlig version av planen beslutades av
-infrastrukturplanen.            regionfullmäktige i april 2022 efter
-ställningstagande i beredningen för hållbar
-För att koordinera arbetet har Västra utveckling och regionstyrelsen. Den antagna
-Götalandsregionen tillsatt en arbetsgrupp av versionen fastställs av regeringen, som en del av
-tjänstepersoner. De fyra kommunalförbunden, den nationella infrastrukturplanen.
+framtagandet av den regionala
+infrastrukturplanen.
+
+För att koordinera arbetet har Västra
+Götalandsregionen tillsatt en arbetsgrupp av
+tjänstepersoner. De fyra kommunalförbunden,
 som företräder de 49 kommunerna i Västra
 Götaland, har aktivt medverkat i arbetet och
 ansvarat för dialog och förankring med
 kommunerna. Trafikverket har deltagit i hela
 processen med underlag och stöd i
 framtagandet. Västtrafik har ansvarat för att
-
 sammanställa och göra inspel av
+
 kollektivtrafikens infrastrukturbehov. Arbetet
 har även stämts av med Länsstyrelsen, Klimat
 2030 samt Västra Götalandsregionens
@@ -18102,118 +18148,191 @@ Samtliga kommuner bjöds in till ett
 informationsmöte i januari 2021 och i februari
 2021 genomfördes dialogmöten med
 kommunalförbundens direktioner/
-
 förbundsstyrelse. Dialog med kommunerna har
 huvudsakligen skett via kommunalförbunden.
 
 5
 
+Den politiska processen har skett via
+beredningen för hållbar utveckling, BHU.
+Regionutvecklingsnämnden och
+kollektivtrafiknämnden har löpande informerats
+under processen. Kommunalförbunden har
+haft politisk beredning i respektive direktion/
+förbundsstyrelse.
+
+Samrådsremiss av förslaget till regional
+infrastrukturplan 2022-2033 genomfördes
+mellan 20 oktober 2021 och 31 januari 2022.
+Slutlig version av planen beslutades av
+regionfullmäktige i april 2022 efter
+ställningstagande i beredningen för hållbar
+utveckling och regionstyrelsen. Den antagna
+versionen fastställs av regeringen, som en del av
+den nationella infrastrukturplanen.
+
 <!-- sida 459 -->
 
-2   Förutsättningar
+2    Förutsättningar
 
-Nationella mål
+Nationella  mål
 
 Det övergripande målet för den nationella
 transportpolitiken är att säkerställa en
-samhällsekonomiskt effektiv och långsiktigt a.Hänsynsmål
-Säkerhet, miljö
+samhällsekonomiskt effektiv och långsiktigt
+
 hållbar transportförsörjning för medborgarna
-och hälsa
-(cid:20).Övergripande
 och för näringslivet i hela landet. Detta mål
-transport-
-samt regeringens direktiv sätter ramarna för           politiskt mål
+samt regeringens direktiv sätter ramarna för
 infrastrukturplaneringen på statlig och regional
 nivå. För att det övergripande
-transportpolitiska målet samt klimatmålet ska b. Funktionsmål
-kunna nås behöver funktionsmålet i huvudsak Tillgänglighet
+transportpolitiska målet samt klimatmålet ska
+kunna nås behöver funktionsmålet i huvudsak
 utvecklas inom ramen för hänsynsmålet.
 Agenda 2030, Klimatlagen och Nollvisionen är
-andra nationella utgångspunkter, liksom Figur 2. De transportpolitiska målen.
+andra nationella utgångspunkter, liksom
 barnkonventionen.
+
+Agenda 2030
+FN:s agenda 2030 och dess 17
+globala mål (med 169 delmål)
+omfattar alla politiska områden och
+delaktighet och engagemang på regional
+nivå är centralt.
+
+Klimatlagen
+Klimatlagen är en av tre delar inom
+ett klimatpolitiskt ramverk som
+trädde i kraft i januari 2018. De andra
+delarna är nya klimatmål och ett
+klimatpolitiskt råd. Klimatmålet innebär
+att Sverige år 2045 inte ska ha några
+nettoutsläpp av växthusgaser, för att
+därefter uppnå negativa utsläpp.
+
+Nollvisionen
+Nollvisionen innebär att ingen
+människa ska omkomma eller skadas
+allvarligt i trafiken. Visionen är
+ledstjärnan för Trafikverkets
+trafiksäkerhetsarbete.
+
+a.Hänsynsmål
+Säkerhet, miljö
+och hälsa
+(cid:20).Övergripande
+transport-
+politiskt mål
+
+b. Funktionsmål
+Tillgänglighet
+
+Figur 2. De transportpolitiska målen.
+
 Funktionsmålet innebär att transportsystemets
 utformning, funktion och användning ska
 medverka till att ge alla en grundläggande
-Agenda 2030
-FN:s agenda 2030 och dess 17 tillgänglighet med god kvalitet och
-globala mål (med 169 delmål) användbarhet samt bidra till utvecklingskraft i
-omfattar alla politiska områden och hela landet. Transportsystemet ska vara
-delaktighet och engagemang på regional
+tillgänglighet med god kvalitet och
+användbarhet samt bidra till utvecklingskraft i
+hela landet. Transportsystemet ska vara
 jämställt, det vill säga likvärdigt svara mot
-nivå är centralt.
 kvinnors respektive mäns transportbehov.
+
 Hänsynsmålet innebär att transportsystemets
+
 utformning, funktion och användning ska
-Klimatlagen                 anpassas till att ingen ska dödas eller skadas
-Klimatlagen är en av tre delar inom
+anpassas till att ingen ska dödas eller skadas
 allvarligt, bidra till att det övergripande
-ett klimatpolitiskt ramverk som
 generationsmålet för miljö och
-trädde i kraft i januari 2018. De andra
 miljökvalitetsmålen nås samt bidra till ökad
-delarna är nya klimatmål och ett
-klimatpolitiskt råd. Klimatmålet innebär hälsa.
-att Sverige år 2045 inte ska ha några
-nettoutsläpp av växthusgaser, för att Ett etappmål under hänsynsmålet är att
-därefter uppnå negativa utsläpp.
+hälsa.
+
+Ett etappmål under hänsynsmålet är att
 växthusgasutsläppen från inrikes transporter
 exklusive flyg ska minska med minst
 70 procent senast 2030 jämfört med 2010.
-Nollvisionen
+
 Enligt Sveriges etappmål för trafiksäkerhet så
-Nollvisionen innebär att ingen
+
 ska antalet omkomna till följd av trafikolyckor
-människa ska omkomma eller skadas
 inom vägtrafiken halveras till år 2030 jämfört
-allvarligt i trafiken. Visionen är
-ledstjärnan för Trafikverkets  med åren 2017-2019. Antalet allvarligt skadade
-trafiksäkerhetsarbete.         inom respektive trafikslag ska minska med
+med åren 2017-2019. Antalet allvarligt skadade
+inom respektive trafikslag ska minska med
 minst 25 procent till år 2030 enligt regeringens
 etappmål.
+
 6
 
 <!-- sida 460 -->
 
-Regionala  mål och              Miljö- och
+Regionala  mål  och
 
-strategier                      hållbarhetsbedömning
+strategier
 
-De globala målen för hållbar utveckling och En miljöbedömning ska genomföras som en
-Vision Västra Götaland utgör grunden för del av den regionala infrastrukturplanen enligt
-arbetet med regional utveckling. Utvecklingen i miljöbalken. Det övergripande syftet är att
-hela Västra Götaland ska ske med samtliga integrera miljöaspekterna i framtagandet för att
-hållbarhetsperspektiv i fokus - socialt, främja en hållbar utveckling.
+De globala målen för hållbar utveckling och
+Vision Västra Götaland utgör grunden för
+
+arbetet med regional utveckling. Utvecklingen i
+hela Västra Götaland ska ske med samtliga
+hållbarhetsperspektiv i fokus - socialt,
 miljömässigt och ekonomiskt.
-Västra Götalandsregionen har valt att
-Den regionala infrastrukturplanen är en genomföra en bredare hållbarhetsbedömning
-pusselbit av flera som bidrar till att nå visionen som, vid sidan av den miljömässiga
-om det goda livet. Vid sidan av visionen finns hållbarheten, även beaktar sociala och
 
-det ett flertal strategier och måldokument som ekonomiska hållbarhetsaspekter utifrån
-ligger till grund för utformningen av planen. Agenda 2030. Arbetet sker integrerat med
-Regional utvecklingsstrategi för Västra Götaland framtagandet av planen. Strategiska vägval och
-2021-2030 är utgångspunkt för det regionala åtgärder beskrivs i hållbarhetskonsekvens-
-utvecklingsarbetet och innehåller prioriteringar beskrivningen som är en del av den regionala
-för att möjliggöra omställningen till ett mer infrastrukturplanen. Slutsatser sammanfattas i
-hållbart och konkurrenskraftigt samhälle till år kapitlet Bedömning av effekter.
+Den regionala infrastrukturplanen är en
+pusselbit av flera som bidrar till att nå visionen
+om det goda livet. Vid sidan av visionen finns
+det ett flertal strategier och måldokument som
+ligger till grund för utformningen av planen.
+Regional utvecklingsstrategi för Västra Götaland
+2021-2030 är utgångspunkt för det regionala
+utvecklingsarbetet och innehåller prioriteringar
+
+för att möjliggöra omställningen till ett mer
+hållbart och konkurrenskraftigt samhälle till år
 2030\. Klimat 2030 och
 Trafikförsörjningsprogrammet är
 regionövergripande styrdokument som den
 regionala infrastrukturplanen ska stödja. Andra
 strategier som påverkar planens inriktning är
 Godstransportstrategin, Strategi för ökad cykling
-
 och Målbild Tåg 2035.
 
 Västra Götalandsregionens långsiktiga
 viljeinriktning för utvecklingen av
 transportinfrastrukturen redovisas i
-inriktningsunderlaget, se avsnitt           2.REGIONAL
+
+inriktningsunderlaget, se avsnitt
+Regionalt inriktningsunderlag för
+transportinfrastrukturen.
+
+Miljö- och
+
+hållbarhetsbedömning
+
+En miljöbedömning ska genomföras som en
+del av den regionala infrastrukturplanen enligt
+
+miljöbalken. Det övergripande syftet är att
+integrera miljöaspekterna i framtagandet för att
+främja en hållbar utveckling.
+
+Västra Götalandsregionen har valt att
+genomföra en bredare hållbarhetsbedömning
+som, vid sidan av den miljömässiga
+hållbarheten, även beaktar sociala och
+ekonomiska hållbarhetsaspekter utifrån
+Agenda 2030. Arbetet sker integrerat med
+framtagandet av planen. Strategiska vägval och
+åtgärder beskrivs i hållbarhetskonsekvens-
+beskrivningen som är en del av den regionala
+
+infrastrukturplanen. Slutsatser sammanfattas i
+kapitlet Bedömning av effekter.
+
+2.REGIONAL
 1.MÅLBILD
 UTVECKLINGS-
-Regionalt inriktningsunderlag för   TÅG 2035 STRATEGI
-transportinfrastrukturen.
+TÅG 2035  STRATEGI
+
 4.TRAFIK-
 3.GODS-
 FÖRSÖRJNINGS- 5.KLIMAT
@@ -18226,6 +18345,7 @@ Götalandsregionens och de 49
 kommunernas gemensamma vision.    INFRASTRUKTUR- FÖR ÖKAD
 Visionen uttrycker det önskade framtida PLAN CYKLING
 tillståndet – Det goda livet.
+
 Figur 3. Illustration av hur regional
 infrastrukturplan är en av
 flera pusselbitar i det regionala
@@ -18237,35 +18357,35 @@ utvecklingsarbetet.
 
 Innehåll och  ekonomi
 
-Den regionala infrastrukturplanen utgör Utöver planens ekonomiska ram förekommer
-tillsammans med den nationella  alternativfinansiering för vissa åtgärder. Det
-infrastrukturplanen en del i planeringen av den kan exempelvis handla om kommuner som
-statliga transportinfrastrukturen. De medfinansierar regionala vägåtgärder eller
-grundläggande målsättningarna och samfinansiering mellan regional och nationell
-utgångspunkterna är gemensamma. infrastrukturplan. För samtliga namngivna
-åtgärder som har med- eller samfinansiering
-Inom den regionala infrastrukturplanen träffas det särskilda avsiktsförklaringar eller
-genomförs såväl större om- eller avtal.
+Den regionala infrastrukturplanen utgör
+tillsammans med den nationella
+infrastrukturplanen en del i planeringen av den
+statliga transportinfrastrukturen. De
+grundläggande målsättningarna och
+utgångspunkterna är gemensamma.
+
+Inom den regionala infrastrukturplanen
+genomförs såväl större om- eller
 nybyggnationer som mindre trimningsåtgärder
+på de statliga vägar som inte ingår i
 
-på de statliga vägar som inte ingår i Västra Götalandsregionen har genom
-stamvägnätet. Trimningsåtgärderna består av regeringens direktiv tilldelats en ekonomisk
-förbättringar av kollektivtrafikens infrastruktur, ram på 7 339 miljoner kronor. Trafikverket har
-investeringar i cykelvägar samt mindre räknat upp den preliminära ramen till 7 655
-vägåtgärder. Kollektivtrafik-, cykel- samt miljoner kronor, efter justering utifrån
-trafiksäkerhets- och miljöåtgärder på underförbrukning under åren 2018-2021.
-kommunalt vägnät kan medfinansieras av Prisnivån för planen är 2021-02. Först då
-planen. Västra Götalandsregionen har även valt regeringen fastställer den nya nationella
-att avsätta medel till att samfinansiera infrastrukturplanen beslutas den slutliga
-järnvägsåtgärder i nationell infrastrukturplan. ekonomiska ramen.
+stamvägnätet. Trimningsåtgärderna består av
+förbättringar av kollektivtrafikens infrastruktur,
+investeringar i cykelvägar samt mindre
+vägåtgärder. Kollektivtrafik-, cykel- samt
+trafiksäkerhets- och miljöåtgärder på
+kommunalt vägnät kan medfinansieras av
+planen. Västra Götalandsregionen har även valt
+att avsätta medel till att samfinansiera
+järnvägsåtgärder i nationell infrastrukturplan.
 Drift och underhåll av hela det statliga vägnätet
-finansieras via nationell infrastrukturplan. Planmedlen fördelas till de utpekade
+finansieras via nationell infrastrukturplan.
 
-åtgärdsområdena under en tolvårsperiod.
-Åtgärder med en kostnad på minst 50 miljoner Genomförandet delas upp i fyraårsperioder och
-kronor ska namnges och en samlad Trafikverket arbetar för att förbrukningen inom
-effektbedömning (SEB) för objektet ska vara aktuell fyraårsperiod ska överensstämma med
-genomförd. Fortsättningsvis benämns dessa planens ram och fördelning.
+Åtgärder med en kostnad på minst 50 miljoner
+
+kronor ska namnges och en samlad
+effektbedömning (SEB) för objektet ska vara
+genomförd. Fortsättningsvis benämns dessa
 som namngivna åtgärder.
 
 Västra Götalandsregionen har tilldelats en
@@ -18273,13 +18393,47 @@ ekonomisk ram av regeringen att prioritera till
 olika åtgärder. De flesta åtgärder finansieras till
 100 procent från den regionala
 infrastrukturplanen, med några undantag.
-Förordningen om länsplaner för regional
-Investeringar i cykelvägar längs statligt vägnät transportinfrastruktur (1997:263) och
-finansieras med 50 procent från planen och förordningen om statlig medfinans
-50 procent via kommunal medfinansiering. (2009:237) styr vilka åtgärder som får
-ingå i infrastrukturplanen.
+Investeringar i cykelvägar längs statligt vägnät
+finansieras med 50 procent från planen och
+
+50 procent via kommunal medfinansiering.
 Åtgärder på kommunalt vägnät kan få statlig
 medfinansiering från planen med 50 procent.
+
+Utöver planens ekonomiska ram förekommer
+alternativfinansiering för vissa åtgärder. Det
+kan exempelvis handla om kommuner som
+medfinansierar regionala vägåtgärder eller
+samfinansiering mellan regional och nationell
+infrastrukturplan. För samtliga namngivna
+åtgärder som har med- eller samfinansiering
+
+träffas det särskilda avsiktsförklaringar eller
+avtal.
+
+Västra Götalandsregionen har genom
+regeringens direktiv tilldelats en ekonomisk
+ram på 7 339 miljoner kronor. Trafikverket har
+räknat upp den preliminära ramen till 7 655
+miljoner kronor, efter justering utifrån
+underförbrukning under åren 2018-2021.
+Prisnivån för planen är 2021-02. Först då
+regeringen fastställer den nya nationella
+infrastrukturplanen beslutas den slutliga
+ekonomiska ramen.
+
+Planmedlen fördelas till de utpekade
+åtgärdsområdena under en tolvårsperiod.
+Genomförandet delas upp i fyraårsperioder och
+Trafikverket arbetar för att förbrukningen inom
+aktuell fyraårsperiod ska överensstämma med
+planens ram och fördelning.
+
+Förordningen om länsplaner för regional
+transportinfrastruktur (1997:263) och
+förordningen om statlig medfinans
+(2009:237) styr vilka åtgärder som får
+ingå i infrastrukturplanen.
 
 8
 
@@ -18367,50 +18521,80 @@ Figur 4. Mål för infrastrukturplaneringen i Västra Götaland.
 
 Direktiv för åtgärdsplaneringen
 
-Regeringens planeringsdirektiv anger Regeringen pekar i planeringsdirektivet på
-tillsammans med det regionala   vikten av att väga in behov kopplat till
-inriktningsunderlaget förutsättningarna för bostadsbyggande och betydande
-framtagandet av den regionala   industriinvesteringar i framtagandet av planen.
-infrastrukturplanen. Generella utgångspunkter Effekter på bostadsbyggandet ska beskrivas. De
-för uppdraget är att den statliga föreslagna åtgärderna bör även bidra till att
-transportinfrastrukturen i hela landet ska andelen kollektivtrafikresande ökar.
-utvecklas och förvaltas så att det övergripande
-transportpolitiska målet samt etappmålen för Trafikverket ska inom ramen för den nationella
-trafiksäkerhet och klimat ska nås. I direktivet infrastrukturplanen samfinansiera de regionala
+Regeringens planeringsdirektiv anger
+tillsammans med det regionala
+inriktningsunderlaget förutsättningarna för
+framtagandet av den regionala
+infrastrukturplanen. Generella utgångspunkter
+för uppdraget är att den statliga
+transportinfrastrukturen i hela landet ska
 
-framgår att hållbarhetsaspekter ska integreras infrastrukturplanerna avseende
-genom att vid framtagandet av planen beakta trafiksäkerhetsåtgärder på det regionala
-sociala, miljömässiga och ekonomiska effekter vägnätet. Samfinansiering ska utformas så att
-samt att målsynergier ska eftersträvas. åtgärder som förkortar restiden på landsbygd
-prioriteras, till exempel mittseparering.
-Västra Götalandsregionen har genom Trafikverket ska också föreslå medel till
-regeringens direktiv tilldelats en ekonomisk samfinansiering av cykelåtgärder på regionalt
-ram på 7 339 miljoner kronor. Trafikverket har vägnät. Omfattning och hur medel fördelas ska
-räknat upp den preliminära ramen till 7 655 redovisas i den nationella infrastrukturplanen.
+utvecklas och förvaltas så att det övergripande
+transportpolitiska målet samt etappmålen för
+trafiksäkerhet och klimat ska nås. I direktivet
+framgår att hållbarhetsaspekter ska integreras
+genom att vid framtagandet av planen beakta
+sociala, miljömässiga och ekonomiska effekter
+samt att målsynergier ska eftersträvas.
+
+Västra Götalandsregionen har genom
+regeringens direktiv tilldelats en ekonomisk
+ram på 7 339 miljoner kronor. Trafikverket har
+räknat upp den preliminära ramen till 7 655
 miljoner kronor, efter justering utifrån
+
 underförbrukning under åren 2018-2021.
 Medlen ska fördelas på olika åtgärder och typer
 av åtgärder. Åtgärdsobjekt med en kostnad på
-Fyrstegsprincipen
 minst 50 miljoner kronor ska namnges.
-Fyrstegsprincipen är Trafikverkets
-Byggstartade men ännu ej avslutade objekt från arbetsstrategi som tillämpas för att
-tidigare plan bör finnas med i det nya säkerställa en god resurshushållning och
-planförslaget.                    för att åtgärder ska bidra till en hållbar
-samhällsutveckling.
+Byggstartade men ännu ej avslutade objekt från
+tidigare plan bör finnas med i det nya
+planförslaget.
+
 Prioriteringarna bakom förslagen samt
-eventuella osäkerheter avseende planens 1. 2.      3.     4.
-effekter ska enligt direktivet beskrivas. Det ska Tänk om Optimera Bygg om Bygg nytt
+eventuella osäkerheter avseende planens
+effekter ska enligt direktivet beskrivas. Det ska
 även framgå hur Fyrstegsprincipen har tillämpats
 samt på vilket sätt och i vilken utsträckning
+
 den regionala infrastrukturplanen bidrar till att
 öka transporteffektiviteten i samhället.
+
+Regeringen pekar i planeringsdirektivet på
+vikten av att väga in behov kopplat till
+bostadsbyggande och betydande
+industriinvesteringar i framtagandet av planen.
+Effekter på bostadsbyggandet ska beskrivas. De
+föreslagna åtgärderna bör även bidra till att
+andelen kollektivtrafikresande ökar.
+
+Trafikverket ska inom ramen för den nationella
+infrastrukturplanen samfinansiera de regionala
+infrastrukturplanerna avseende
+trafiksäkerhetsåtgärder på det regionala
+vägnätet. Samfinansiering ska utformas så att
+åtgärder som förkortar restiden på landsbygd
+prioriteras, till exempel mittseparering.
+Trafikverket ska också föreslå medel till
+samfinansiering av cykelåtgärder på regionalt
+vägnät. Omfattning och hur medel fördelas ska
+redovisas i den nationella infrastrukturplanen.
+
+Fyrstegsprincipen
+Fyrstegsprincipen är Trafikverkets
+arbetsstrategi som tillämpas för att
+säkerställa en god resurshushållning och
+för att åtgärder ska bidra till en hållbar
+samhällsutveckling.
+
+1\.      2.      3.     4.
+Tänk om Optimera Bygg om Bygg nytt
 
 10
 
 <!-- sida 464 -->
 
-Ramverk  för infrastrukturplanen
+Ramverk   för infrastrukturplanen
 
 Regional infrastrukturplan är en
 investeringsplan för en mångfald av
@@ -18422,9 +18606,15 @@ regionens viljeriktning för utveckling av
 transportinfrastrukturen. Förhållandet mellan
 den regionala infrastrukturplanen,
 inriktningsunderlaget och nationella och
-
 regionala utgångspunkterna visualiseras i
+
 figur 5.
+
+Figur 5. Illustration över hur den regionala infrastrukturplanen
+förhåller sig till inriktningsunderlaget och regionala samt
+nationella utgångspunkter.
+
+11
 
 •Den översta plattformen
 representerar den regionala
@@ -18441,43 +18631,64 @@ inriktningsunderlaget.
 regionala ramverk i form av lagar,
 förordningar, mål och strategier.
 
-Figur 5. Illustration över hur den regionala infrastrukturplanen
-förhåller sig till inriktningsunderlaget och regionala samt
-nationella utgångspunkter.
-
-11
-
 <!-- sida 465 -->
 
 4   Fördelning    av medel   2022-2033
 
-Den regionala infrastrukturplanen bygger på noder. De tre åtgärdsområdena Trimning och
-en struktur med sju åtgärdsområden som effektivisering i stråk, Trimning och effektivisering
-innehåller åtgärder och inriktningar för att till stråk samt Statlig medfinans till kommunalt
-stärka olika funktioner i transportsystemet. vägnät innehåller mindre åtgärder för
-Strukturen ska bidra till en regional kollektivtrafik, cykel och väg. Det statliga
-infrastrukturplanering med hänsyn till såväl vägnätets omfattning i Västra Götaland
-geografi som demografi. För att hela transport- framgår av bilaga 2.
+Den regionala infrastrukturplanen bygger på
+en struktur med sju åtgärdsområden som
+innehåller åtgärder och inriktningar för att
+stärka olika funktioner i transportsystemet.
+Strukturen ska bidra till en regional
+infrastrukturplanering med hänsyn till såväl
+geografi som demografi. För att hela transport-
+
 och reskedjan ska fungera behöver åtgärder
-prioriteras över hela regionen och i olika delar Inom åtgärdsområdet Samfinansiering nationell
-av transportsystemet. De olika transportslagen plan, järnväg avsätts medel för standardhöjande
-
-ska komplettera varandra för att skapa åtgärder för den regionala tågtrafiken.
-förutsättningar för ett transporteffektivt Storstadsåtgärder inomSverigeförhandlingen
-samhälle, stärka näringslivets konkurrenskraft innehåller ett antal åtgärder inom
-och uppfylla de transportpolitiska målen. I Göteborgsområdet, som är framförhandlade
-genomförandet behöver Trafikverket arbeta för och avtalade inom Sverigeförhandlingen.
-att kombinera fysiska åtgärder med steg 1- och Åtgärdsområdet Övrigt innehåller medel till
-2-åtgärder enligt fyrstegsprincipen. oförutsedda mindre åtgärder samt driftbidrag
-Sammantaget ska åtgärderna leda till en till flygplats.
+prioriteras över hela regionen och i olika delar
+av transportsystemet. De olika transportslagen
+ska komplettera varandra för att skapa
+förutsättningar för ett transporteffektivt
+samhälle, stärka näringslivets konkurrenskraft
+och uppfylla de transportpolitiska målen. I
+genomförandet behöver Trafikverket arbeta för
+att kombinera fysiska åtgärder med steg 1- och
+2-åtgärder enligt fyrstegsprincipen.
+Sammantaget ska åtgärderna leda till en
 förbättrad tillgänglighet i Västra Götaland och
-genomföras i linje med det beslutade Fördelningen av medel mellan olika
-inriktningsunderlaget.          åtgärdsområden grundar sig i regionala och
-nationella mål och politiska viljeinriktningar.
-Större investeringsåtgärder på statligt vägnät Det regionala inriktningsunderlaget har varit
+genomföras i linje med det beslutade
 
-och i kollektivtrafikens infrastruktur återfinns utgångspunkt för infrastrukturplanens
-inom åtgärdsområdet Större åtgärder i stråk och konkreta innehåll och prioriteringar.
+inriktningsunderlaget.
+
+Större investeringsåtgärder på statligt vägnät
+och i kollektivtrafikens infrastruktur återfinns
+inom åtgärdsområdet Större åtgärder i stråk och
+
+noder. De tre åtgärdsområdena Trimning och
+effektivisering i stråk, Trimning och effektivisering
+till stråk samt Statlig medfinans till kommunalt
+vägnät innehåller mindre åtgärder för
+kollektivtrafik, cykel och väg. Det statliga
+vägnätets omfattning i Västra Götaland
+framgår av bilaga 2.
+
+Inom åtgärdsområdet Samfinansiering nationell
+plan, järnväg avsätts medel för standardhöjande
+åtgärder för den regionala tågtrafiken.
+Storstadsåtgärder inomSverigeförhandlingen
+innehåller ett antal åtgärder inom
+Göteborgsområdet, som är framförhandlade
+och avtalade inom Sverigeförhandlingen.
+Åtgärdsområdet Övrigt innehåller medel till
+oförutsedda mindre åtgärder samt driftbidrag
+till flygplats.
+
+Fördelningen av medel mellan olika
+
+åtgärdsområden grundar sig i regionala och
+nationella mål och politiska viljeinriktningar.
+Det regionala inriktningsunderlaget har varit
+utgångspunkt för infrastrukturplanens
+konkreta innehåll och prioriteringar.
 
 (cid:25). Storstadsåtgärder inom
 Sverigeförhandlingen
@@ -18493,11 +18704,11 @@ järnväg
 och noder
 kommunalt vägnät
 38 %
-16  %
+16 %
 (cid:22).Trimning och effektivisering
-till stråk            (cid:21).Trimning och effektivisering
+till stråk             (cid:21).Trimning och effektivisering
 i stråk
-13 %
+13  %
 15 %
 Figur 6. Fördelning av medel till åtgärdsområden i planen, totalt 7 655 miljoner kronor.
 
@@ -18505,54 +18716,77 @@ Figur 6. Fördelning av medel till åtgärdsområden i planen, totalt 7 655 milj
 
 <!-- sida 466 -->
 
-En stor del av planens åtgärder beslutas Trafikverket har i nationell infrastrukturplan
-löpande under planperioden. Genomförandet avsatt medel för samfinansiering av
-ska beakta de skilda geografiska förut- cykelåtgärder samt mittseparering och
-sättningarna och säkerställa att det regionala mitträffling på regionalt vägnät under perioden
-inriktningsunderlaget genomsyrar både valen 2022-2027. Samfinansiering kan vara högst 50
-av åtgärder och deras utformning. Synergi- procent av statens åtgärdskostnad i den
-effekter ska eftersträvas för bättre mål- regionala infrastrukturplanen. De medel som
-uppfyllelse. För ett effektivt genomförande kan frigörs vid samfinansiering från nationell
-medel från olika potter och åtgärdsområden infrastrukturplan ska investeras i andra åtgärder
-kombineras där det finns förutsättningar. för cykel respektive trafiksäkerhet på regionalt
+En stor del av planens åtgärder beslutas
+löpande under planperioden. Genomförandet
+ska beakta de skilda geografiska förut-
+sättningarna och säkerställa att det regionala
+inriktningsunderlaget genomsyrar både valen
+av åtgärder och deras utformning. Synergi-
+effekter ska eftersträvas för bättre mål-
 
-Åtgärderna ska ha en geografisk spridning över vägnät.
+uppfyllelse. För ett effektivt genomförande kan
+medel från olika potter och åtgärdsområden
+kombineras där det finns förutsättningar.
+Åtgärderna ska ha en geografisk spridning över
 regionen och anpassas utifrån konkreta behov
-och bedömt bidrag till måluppfyllelse. För att framdriften av åtgärderna ska vara god
-behöver genomförandet kontinuerligt följas
-I den politiska prioriteringen av åtgärder och upp och anpassas. På kort sikt kan
-fördelning av medel har de skilda förut- underförbrukning i en del av planen behöva
-sättningarna och behoven inom Västra kompenseras genom en snabbare
-Götaland lyfts fram. Fria medel kan nyttjas för genomförandetakt i en annan del. I bilaga 1
-att möjliggöra strategiska industrietableringar finns en detaljerad beskrivning av hur medel
-av regional betydelse i linje med den regionala fördelas till olika åtgärder.
+och bedömt bidrag till måluppfyllelse.
+
+I den politiska prioriteringen av åtgärder och
+fördelning av medel har de skilda förut-
+sättningarna och behoven inom Västra
+Götaland lyfts fram. Fria medel kan nyttjas för
+att möjliggöra strategiska industrietableringar
+av regional betydelse i linje med den regionala
+
 utvecklingsstrategin.
+
+Trafikverket har i nationell infrastrukturplan
+avsatt medel för samfinansiering av
+cykelåtgärder samt mittseparering och
+mitträffling på regionalt vägnät under perioden
+2022-2027. Samfinansiering kan vara högst 50
+procent av statens åtgärdskostnad i den
+regionala infrastrukturplanen. De medel som
+
+frigörs vid samfinansiering från nationell
+infrastrukturplan ska investeras i andra åtgärder
+för cykel respektive trafiksäkerhet på regionalt
+vägnät.
+
+För att framdriften av åtgärderna ska vara god
+behöver genomförandet kontinuerligt följas
+upp och anpassas. På kort sikt kan
+underförbrukning i en del av planen behöva
+kompenseras genom en snabbare
+genomförandetakt i en annan del. I bilaga 1
+finns en detaljerad beskrivning av hur medel
+fördelas till olika åtgärder.
 
 Tabell 1. Fördelning av medel till åtgärdsområden, totalt 7 655 miljoner kronor.
 
-Fördelning av medel till                  2026-  2030-  Medel i
-2022  2023  2024  2025
+Fördelning av medel till                   2026- 2030-  Medel i
+2022  2023  2024   2025
 åtgärdsområden                             2029  2033  plan, mnkr
 Större åtgärder i stråk
-69    240   602    346   744   929      2 930
+69   240    602   346   744   929      2 930
 och noder
 Trimning och
-101   196   153    132   347   209      1 138
+101   196    153   132   347   209      1 138
 effektivisering i stråk
 Trimning och
-91    105   102    97    317   248       960
+91   105    102   97    317   248        960
 effektivisering till stråk
 Statlig medfinans till
-91    98     98    119   437   389      1 232
+91    98    98    119   437   389      1 232
 kommunalt vägnät
 Samfinansiering
-15    63     36    70    353   303       840
+15    63    36    70    353   303        840
 nationell plan, järnväg
 Storstadsåtgärder inom
-13    35     40    25    64    295       472
+13    35    40    25     64   295        472
 Sverigeförhandlingen
-Övrigt             8     9     7     7     26    26         83
-Summa             388   746   1038   796  2288   2399    7 655
+Övrigt             8     9     7      7     26    26        83
+Summa             388   746   1038   796   2288  2399     7 655
 
 13
 
@@ -18602,19 +18836,19 @@ Summa                            2 930
 
 <!-- sida 468 -->
 
-Större namngivna vägåtgärder    I den politiska prioriteringen vid framtagandet
-De större vägåtgärderna stärker befintliga stråk av planen har två nya större vägåtgärder
-genom att förbättra trafiksäkerheten och höja prioriterats. Större åtgärder på statligt vägnät
-standarden på de större regionala vägarna. som finansieras helt av extern part behöver
-Åtgärderna utgår ifrån utpekade brister och har namnges i planen, följa det regionala
-tagits fram inom genomförda     inriktningsunderlaget och ingå som en del av
-åtgärdsvalsstudier. Studierna utgår från miljöbedömningen. I denna plan finns en
-fyrstegsprincipen och innehåller ofta en sådan åtgärd, Väg 156 Förbifart Skene.
-kombination av åtgärder. Åtgärdsförslagen har
-prioriterats utifrån bedömda nyttor, kostnad En fördjupad beskrivning av större vägåtgärder
+Större namngivna vägåtgärder
+De större vägåtgärderna stärker befintliga stråk
+genom att förbättra trafiksäkerheten och höja
+standarden på de större regionala vägarna.
+Åtgärderna utgår ifrån utpekade brister och har
+tagits fram inom genomförda
+åtgärdsvalsstudier. Studierna utgår från
 
-och ekonomiskt utrymme i planen. finns i bilaga 3 och de högst prioriterade
-bristerna i bilaga 4.
+fyrstegsprincipen och innehåller ofta en
+kombination av åtgärder. Åtgärdsförslagen har
+prioriterats utifrån bedömda nyttor, kostnad
+och ekonomiskt utrymme i planen.
+
 Åtgärder som är planerade för genomförande i
 den tidigare delen av planperioden bör vara väl
 utredda avseende sträckning och utformning.
@@ -18622,6 +18856,20 @@ Det är en förutsättning för att trygga ett
 effektivt genomförande av planen.
 
 15
+
+I den politiska prioriteringen vid framtagandet
+av planen har två nya större vägåtgärder
+prioriterats. Större åtgärder på statligt vägnät
+som finansieras helt av extern part behöver
+namnges i planen, följa det regionala
+inriktningsunderlaget och ingå som en del av
+miljöbedömningen. I denna plan finns en
+
+sådan åtgärd, Väg 156 Förbifart Skene.
+
+En fördjupad beskrivning av större vägåtgärder
+finns i bilaga 3 och de högst prioriterade
+bristerna i bilaga 4.
 
 <!-- sida 469 -->
 
@@ -18671,31 +18919,48 @@ Summa               Inget data Inget data Inget data 2 400 Inget data
 
 <!-- sida 470 -->
 
-Större namngivna                I den politiska prioriteringen vid framtagandet
-kollektivtrafikåtgärder         av planen har fyra nya större
-De större kollektivtrafikåtgärderna skapar kollektivtrafikåtgärder prioriterats.
+Större namngivna
+kollektivtrafikåtgärder
+De större kollektivtrafikåtgärderna skapar
 förutsättningar för ett ökat
-kollektivtrafikresande genom åtgärder som ger De flesta kollektivtrafikåtgärderna är nära
-förbättrad tillgänglighet, framkomlighet och knutna till andra investeringar, såsom
-attraktivitet. Investeringar prioriteras i enlighet järnvägsåtgärder och andra
-med det regionala trafikförsörjningsprogrammet. infrastrukturåtgärder. Tidplanerna för
-Västtrafik har i uppdrag att sammanställa genomförandet behöver därför anpassas utifrån
-kollektivtrafikens behov och tar fram ett förslag dessa förutsättningar.
+kollektivtrafikresande genom åtgärder som ger
+förbättrad tillgänglighet, framkomlighet och
+attraktivitet. Investeringar prioriteras i enlighet
 
+med det regionala trafikförsörjningsprogrammet.
+Västtrafik har i uppdrag att sammanställa
+kollektivtrafikens behov och tar fram ett förslag
 på prioritering i dialog med berörda
-kommuner, kommunalförbund och   En fördjupad beskrivning av större
-Trafikverket.                   kollektivtrafikåtgärder finns i bilaga 3 och de
-högst prioriterade bristerna i bilaga 4.
+kommuner, kommunalförbund och
+Trafikverket.
+
 Merparten av åtgärderna ligger på det
 kommunala vägnätet och får statlig medfinans
 från planen. Åtgärderna behöver vara väl
 utredda och ekonomiskt prioriterade hos
 sökande part, vilka står för minst 50 procent av
 finansieringen. Större kollektivtrafikåtgärder på
+
 statligt vägnät har tagits fram inom
 genomförda åtgärdsvalsstudier.
 
 17
+
+I den politiska prioriteringen vid framtagandet
+av planen har fyra nya större
+kollektivtrafikåtgärder prioriterats.
+
+De flesta kollektivtrafikåtgärderna är nära
+knutna till andra investeringar, såsom
+järnvägsåtgärder och andra
+
+infrastrukturåtgärder. Tidplanerna för
+genomförandet behöver därför anpassas utifrån
+dessa förutsättningar.
+
+En fördjupad beskrivning av större
+kollektivtrafikåtgärder finns i bilaga 3 och de
+högst prioriterade bristerna i bilaga 4.
 
 <!-- sida 471 -->
 
@@ -18795,31 +19060,57 @@ Summa                                1 138
 
 <!-- sida 473 -->
 
-De tre potterna för kollektivtrafik-, cykel- och Cykelåtgärder
-mindre vägåtgärder ska prioritera åtgärder Utbyggnaden av cykelvägar ska sträva efter att
-inom hela Västra Götaland. Generellt sett är vara sammanhängande och knyta ihop
-åtgärder för de första 4-6 åren av den regionala boenden med målpunkter i anslutning till
-infrastrukturplanen uppbokade, resterande tätorter, såsom arbete, skola, kollektivtrafik och
-medel är fria att fördela. Utöver de tre potterna fritidsanläggningar. Kommunerna ombeds vart
-finns fem förstärkta satsningar i stråk kopplat fjärde år lämna in förslag på nya cykelvägar
-till den politiska prioriteringen vid som de avser att medfinansiera med halva
-framtagandet av planen. Förstärkningarna kostnaden. Förslagen samordnas av kommunal-
-innefattar specifika åtgärder och pottåtgärder. förbunden och prioriteras därefter av Västra
+De tre potterna för kollektivtrafik-, cykel- och
+mindre vägåtgärder ska prioritera åtgärder
+inom hela Västra Götaland. Generellt sett är
+åtgärder för de första 4-6 åren av den regionala
+infrastrukturplanen uppbokade, resterande
+medel är fria att fördela. Utöver de tre potterna
+finns fem förstärkta satsningar i stråk kopplat
 
-Götalandsregionen i samråd med Trafikverket.
-Kollektivtrafikåtgärder         Åtgärderna ska bidra till måluppfyllelse i
-För att öka kollektivtrafikens tillgänglighet, enlighet med den regionala cykelstrategin.
+till den politiska prioriteringen vid
+framtagandet av planen. Förstärkningarna
+innefattar specifika åtgärder och pottåtgärder.
+
+Kollektivtrafikåtgärder
+För att öka kollektivtrafikens tillgänglighet,
 trafiksäkerhet och attraktivitet krävs
-investeringar i hållplatser och Mindre vägåtgärder
-framkomlighetsåtgärder, såsom busskörfält eller För att förbättra trafiksäkerheten och
-signalprioritering. Västtrafik sammanställer tillgängligheten samt att minska barriäreffekter
-behov och åtgärdsförslag i dialog med behöver mindre åtgärder genomföras på det
-kommuner och kommunalförbund. Åtgärder statliga vägnätet. Standardhöjning,
-prioriteras av Västtrafik i samråd med korsningsåtgärder, passager för gående och
-Trafikverket. Åtgärderna ska bidra till cyklister samt kurvrätning utgör exempel på
-måluppfyllelse i enlighet med det regionala åtgärder. Samspelet mellan fordonstrafik,
-trafikförsörjningsprogrammet.   gående och cyklister samt näringslivets
+investeringar i hållplatser och
+framkomlighetsåtgärder, såsom busskörfält eller
+signalprioritering. Västtrafik sammanställer
+behov och åtgärdsförslag i dialog med
+kommuner och kommunalförbund. Åtgärder
+prioriteras av Västtrafik i samråd med
 
+Trafikverket. Åtgärderna ska bidra till
+måluppfyllelse i enlighet med det regionala
+trafikförsörjningsprogrammet.
+
+Cykelåtgärder
+Utbyggnaden av cykelvägar ska sträva efter att
+vara sammanhängande och knyta ihop
+boenden med målpunkter i anslutning till
+tätorter, såsom arbete, skola, kollektivtrafik och
+fritidsanläggningar. Kommunerna ombeds vart
+fjärde år lämna in förslag på nya cykelvägar
+
+som de avser att medfinansiera med halva
+kostnaden. Förslagen samordnas av kommunal-
+förbunden och prioriteras därefter av Västra
+Götalandsregionen i samråd med Trafikverket.
+Åtgärderna ska bidra till måluppfyllelse i
+enlighet med den regionala cykelstrategin.
+
+Mindre vägåtgärder
+För att förbättra trafiksäkerheten och
+tillgängligheten samt att minska barriäreffekter
+behöver mindre åtgärder genomföras på det
+statliga vägnätet. Standardhöjning,
+korsningsåtgärder, passager för gående och
+
+cyklister samt kurvrätning utgör exempel på
+åtgärder. Samspelet mellan fordonstrafik,
+gående och cyklister samt näringslivets
 transportbehov är särskilt viktiga aspekter.
 Åtgärder prioriteras av Trafikverket i samråd
 med Västra Götalandsregionen,
@@ -18830,11 +19121,11 @@ Tabell 6. Fördelning av medel för förstärkt satsning i stråk.
 Medel i plan,
 Förstärkt satsning i stråk
 mnkr
+
 Göteborgsregionen,
 50
 Kollektivtrafikåtgärder
 Göteborgsregionen, Cykelåtgärder 25
-
 Göteborgsregionen,
 100
 Obundna medel
@@ -18938,32 +19229,31 @@ Summa                                  960
 
 <!-- sida 476 -->
 
-De tre potterna för kollektivtrafik-, cykel- och Mindre vägåtgärder
-mindre vägåtgärder ska prioritera åtgärder För att förbättra trafiksäkerheten och
-inom hela Västra Götaland. Generellt sett är tillgängligheten behöver mindre åtgärder
-åtgärder för de första 4-6 åren av den regionala genomföras på det statliga vägnätet.
-infrastrukturplanen uppbokade, resterande Standardhöjning, korsningsåtgärder, passager
-medel är fria att fördela. Utöver de tre potterna för gående och cyklister samt kurvrätning
-finns en förstärkt satsning till stråk kopplat till utgör exempel på åtgärder. Samspelet mellan
-den politiska prioriteringen vid framtagandet fordonstrafik, gående och cyklister samt
-av planen. Förstärkningen innefattar näringslivets transportbehov är särskilt viktiga
-pottåtgärder.                   aspekter. Åtgärder prioriteras av Trafikverket i
+De tre potterna för kollektivtrafik-, cykel- och
+mindre vägåtgärder ska prioritera åtgärder
+inom hela Västra Götaland. Generellt sett är
+åtgärder för de första 4-6 åren av den regionala
+infrastrukturplanen uppbokade, resterande
+medel är fria att fördela. Utöver de tre potterna
+finns en förstärkt satsning till stråk kopplat till
 
-samråd med Västra Götalandsregionen,
-Kollektivtrafikåtgärder         kommunalförbunden och berörda kommuner.
+den politiska prioriteringen vid framtagandet
+av planen. Förstärkningen innefattar
+pottåtgärder.
+
+Kollektivtrafikåtgärder
 För att öka kollektivtrafikens tillgänglighet,
 trafiksäkerhet och attraktivitet krävs
-Tabell 9. Fördelning av medel för förstärkt satsning till stråk.
 investeringar i hållplatser och att bytespunkter
 fungerar för kombinationsresor. Västtrafik
-Förstärkt satsning till Medel i
 sammanställer behov och åtgärdsförslag i dialog
-stråk                plan, mnkr
 med kommuner och kommunalförbund.
 Åtgärder prioriteras av Västtrafik i samråd med
-Trafikverket. Åtgärderna ska bidra till Fyrbodal, Mindre åtgärder 120
+Trafikverket. Åtgärderna ska bidra till
+
 måluppfyllelse i enlighet med det regionala
 trafikförsörjningsprogrammet.
+
 Cykelåtgärder
 Utbyggnaden av cykelvägar ska sträva efter att
 vara sammanhängande och knyta ihop
@@ -18974,6 +19264,7 @@ trafikmiljön är av betydelse för barn och ungas
 självständighet i trafiken. På sikt är ambitionen
 att koppla samman det lokala cykelnätet till
 större stråk. Kommunerna ombeds vart fjärde
+
 år lämna in förslag på nya cykelvägar som de
 avser att medfinansiera med halva kostnaden.
 Förslagen samordnas av kommunalförbunden
@@ -18983,6 +19274,27 @@ Götalandsregionen i samråd med Trafikverket.
 enlighet med den regionala cykelstrategin.
 
 23
+
+Mindre vägåtgärder
+För att förbättra trafiksäkerheten och
+tillgängligheten behöver mindre åtgärder
+genomföras på det statliga vägnätet.
+Standardhöjning, korsningsåtgärder, passager
+för gående och cyklister samt kurvrätning
+utgör exempel på åtgärder. Samspelet mellan
+
+fordonstrafik, gående och cyklister samt
+näringslivets transportbehov är särskilt viktiga
+aspekter. Åtgärder prioriteras av Trafikverket i
+samråd med Västra Götalandsregionen,
+kommunalförbunden och berörda kommuner.
+
+Tabell 9. Fördelning av medel för förstärkt satsning till stråk.
+
+Förstärkt satsning till Medel i
+stråk                plan, mnkr
+
+Fyrbodal, Mindre åtgärder  120
 
 <!-- sida 477 -->
 
@@ -19078,35 +19390,65 @@ Summa                             1 232
 
 <!-- sida 479 -->
 
-De tre potterna för kollektivtrafik-, cykel- samt Cykelåtgärder
-trafiksäkerhets- och miljöåtgärder ska prioritera Potentialen för ökad cykling är generellt sett
-åtgärder inom hela Västra Götaland. Åtgärder stor längs det kommunala vägnätet, där det
-beslutas årligen. Utöver de tre potterna finns finns en koncentration av befolkning,
-två förstärkta satsningar kopplat till den arbetsplatser, fritidsanläggningar och service.
-politiska prioriteringen vid framtagandet av För att öka trafiksäkerheten och det hållbara
-planen. Förstärkningarna innefattar resandet behöver cykelvägar byggas ut för att
-pottåtgärder.                   koppla ihop lokala målpunkter. För att främja
-barnens självständighet i trafiken är de kortväga
-Kollektivtrafikåtgärder         cykelresorna i tätorter av stor betydelse.
+De tre potterna för kollektivtrafik-, cykel- samt
+trafiksäkerhets- och miljöåtgärder ska prioritera
+åtgärder inom hela Västra Götaland. Åtgärder
+beslutas årligen. Utöver de tre potterna finns
+två förstärkta satsningar kopplat till den
+politiska prioriteringen vid framtagandet av
+planen. Förstärkningarna innefattar
 
-För att öka kollektivtrafikens tillgänglighet, Kommunerna kan ansöka om medfinansiering
-trafiksäkerhet och attraktivitet krävs för cykelåtgärder från regional
-investeringar i hållplatser och infrastrukturplan via Trafikverket. Åtgärderna
-framkomlighetsåtgärder för kollektivtrafiken, ska bidra till måluppfyllelse i enlighet med den
-såsom busskörfält eller signalprioritering. För regionala cykelstrategin.
+pottåtgärder.
+
+Kollektivtrafikåtgärder
+För att öka kollektivtrafikens tillgänglighet,
+trafiksäkerhet och attraktivitet krävs
+investeringar i hållplatser och
+framkomlighetsåtgärder för kollektivtrafiken,
+såsom busskörfält eller signalprioritering. För
 hållplatser och bytespunkter prioriteras
-tillgänglighetsanpassning och annan Trafiksäkerhets- och miljöåtgärder
-standardhöjning samt i vissa fall nybyggnation. Det är i tätorterna på det kommunala vägnätet
-Kommunerna kan ansöka om medfinansiering som de flesta gående och cyklister rör sig och
-för kollektivtrafikåtgärder från regional det i högre utsträckning finns problem med
-infrastrukturplan via Västtrafik. Västra buller och luftkvalitet. Åtgärder som ger en
-Götalandsregionen/Västtrafik kan, som förbättrad trafiksäkerhet för gående och
-regional kollektivtrafikmyndighet, ansöka om cyklister och en förbättrad miljö inom
+tillgänglighetsanpassning och annan
+standardhöjning samt i vissa fall nybyggnation.
+Kommunerna kan ansöka om medfinansiering
+för kollektivtrafikåtgärder från regional
 
-medel till regionala kollektivtrafikanläggningar. tätorterna prioriteras. Barn och ungas behov är
-Åtgärderna ska bidra till måluppfyllelse i särskilt viktiga att beakta vid val av åtgärder.
-enlighet med det regionala      Kommunerna kan ansöka om medfinansiering
-trafikförsörjningsprogrammet.   för trafiksäkerhets- och miljöåtgärder från
+infrastrukturplan via Västtrafik. Västra
+Götalandsregionen/Västtrafik kan, som
+regional kollektivtrafikmyndighet, ansöka om
+medel till regionala kollektivtrafikanläggningar.
+Åtgärderna ska bidra till måluppfyllelse i
+enlighet med det regionala
+trafikförsörjningsprogrammet.
+
+Cykelåtgärder
+Potentialen för ökad cykling är generellt sett
+stor längs det kommunala vägnätet, där det
+finns en koncentration av befolkning,
+arbetsplatser, fritidsanläggningar och service.
+För att öka trafiksäkerheten och det hållbara
+resandet behöver cykelvägar byggas ut för att
+
+koppla ihop lokala målpunkter. För att främja
+barnens självständighet i trafiken är de kortväga
+cykelresorna i tätorter av stor betydelse.
+Kommunerna kan ansöka om medfinansiering
+för cykelåtgärder från regional
+infrastrukturplan via Trafikverket. Åtgärderna
+ska bidra till måluppfyllelse i enlighet med den
+regionala cykelstrategin.
+
+Trafiksäkerhets- och miljöåtgärder
+Det är i tätorterna på det kommunala vägnätet
+som de flesta gående och cyklister rör sig och
+det i högre utsträckning finns problem med
+
+buller och luftkvalitet. Åtgärder som ger en
+förbättrad trafiksäkerhet för gående och
+cyklister och en förbättrad miljö inom
+tätorterna prioriteras. Barn och ungas behov är
+särskilt viktiga att beakta vid val av åtgärder.
+Kommunerna kan ansöka om medfinansiering
+för trafiksäkerhets- och miljöåtgärder från
 regional infrastrukturplan via Trafikverket.
 
 Tabell 12. Fördelning av medel för förstärkt satsning kommunalt vägnät.
@@ -19213,31 +19555,40 @@ Summa                                   840
 
 <!-- sida 482 -->
 
-Ambitionen är att medel från potten i så stor Tabell 15. Vägledande principer för samfinansiering
-nationell plan, järnväg
+Ambitionen är att medel från potten i så stor
 utsträckning som möjligt ska förstärka
 planerade investeringar av Trafikverket för att
-Vägledande principer – Samfinansiering
 nå uppsatta resandemål. Exempel på viktiga
-nationell plan, järnväg
 åtgärder för regionaltrafiken är hastighets- och
 kapacitetshöjande åtgärder samt åtgärder inom
 stationsmiljöer som förlängning av plattformar.
-• Åtgärder ska ligga i linje med Målbild Tåg
-2035, inklusive delmål 2028
+
 Nivån på anslagna medel per järnväg kan
-• Fokus på systempåverkande åtgärder
 komma att justeras och omfördelas om
-åtgärder prioriteras för genomförande inom • Prioritera åtgärder som höjer och
-ramen för nationell infrastrukturplan. återupprättar standarden på de järnvägar
-som är viktiga för regiontrafiken
+åtgärder prioriteras för genomförande inom
+ramen för nationell infrastrukturplan.
 Omfördelning av medel från potten beslutas i
-regionstyrelsen via beredningen för hållbar • Åtgärder kan med fördel genomföras i
-samband med att Trafikverket utför
+regionstyrelsen via beredningen för hållbar
 utveckling, BHU.
-planerade underhållsåtgärder på banorna
 
 29
+
+Tabell 15. Vägledande principer för samfinansiering
+nationell plan, järnväg
+
+Vägledande principer – Samfinansiering
+nationell plan, järnväg
+
+• Åtgärder ska ligga i linje med Målbild Tåg
+2035, inklusive delmål 2028
+• Fokus på systempåverkande åtgärder
+
+• Prioritera åtgärder som höjer och
+återupprättar standarden på de järnvägar
+som är viktiga för regiontrafiken
+• Åtgärder kan med fördel genomföras i
+samband med att Trafikverket utför
+planerade underhållsåtgärder på banorna
 
 <!-- sida 483 -->
 
@@ -19328,55 +19679,90 @@ Summa                                83
 
 5   Bedömning      av effekter
 
-Den regionala infrastrukturplanens effekter Åtgärderna i infrastrukturplanen bedöms bidra
-beskrivs utifrån de transportpolitiska målen, till att andelen hållbara resor ökar, främst
-nationella och regionala mål, beslutat genom satsningar på cykelinfrastruktur och
-inriktningsunderlag för transport- kollektivtrafik vilka uppgår till cirka 1 000
-infrastrukturen i Västra Götaland samt den respektive 2 700 miljoner kronor. För
-genomförda hållbarhetsbedömningen. godstransporter är målet i inriktnings-
-underlaget att utveckla intermodalitet, vilket
-Regional infrastrukturplan grundar sig på innebär en överflyttning av lastbilstransporter
-regionens inriktningsunderlag som i sin tur tar till järnväg och sjöfart. Viktiga åtgärder för att
-avstamp i regionala mål och nationella åstadkomma detta ligger främst i nationell
+Den regionala infrastrukturplanens effekter
+beskrivs utifrån de transportpolitiska målen,
+nationella och regionala mål, beslutat
+inriktningsunderlag för transport-
+infrastrukturen i Västra Götaland samt den
+genomförda hållbarhetsbedömningen.
 
-utgångspunkter såsom de transportpolitiska infrastrukturplan, men regional
-målen och Agenda 2030. Den ekonomiska infrastrukturplan spelar en viktig roll när det
-fördelningen och innehållet bedöms som gäller att utveckla det kapillära vägnätet för att
-helhet att vara i linje med ovannämnda godstransporter ska kunna ta sig till stråk och
-utgångspunkter. Långsiktigt syftar den noder för omlastning. De flesta större
-regionala infrastrukturplanen till att förbättra vägåtgärderna består av flera olika delar bland
-tillgängligheten i hela regionen med fokus på annat mötesseparering, trafiksäkerhetsåtgärder
-olika funktioner i transportsystemet samt på ett för oskyddade trafikanter samt anpassningar
-hela resan-perspektiv både för person- och för kollektivtrafik och cykel.
+Regional infrastrukturplan grundar sig på
+regionens inriktningsunderlag som i sin tur tar
+avstamp i regionala mål och nationella
+utgångspunkter såsom de transportpolitiska
+målen och Agenda 2030. Den ekonomiska
+fördelningen och innehållet bedöms som
+
+helhet att vara i linje med ovannämnda
+utgångspunkter. Långsiktigt syftar den
+regionala infrastrukturplanen till att förbättra
+tillgängligheten i hela regionen med fokus på
+olika funktioner i transportsystemet samt på ett
+hela resan-perspektiv både för person- och
 godstransporter.
-Infrastrukturåtgärder i kombination med
-Det är de olika funktionerna i samklang med styrmedel och samhällsplanering har en
 
-varandra som skapar transportsystemet i Västra potential att påverka överflyttningen från bil/
-Götaland. Strukturen med åtgärdsområden lastbil till järnväg, kollektivtrafik, gång och
-utifrån funktion möjliggör en god spridning av cykel. Enskilda infrastrukturåtgärder ger
-åtgärder i regionen samtidigt som medel kan begränsade möjligheter till överflyttning.
-användas utifrån olika geografiska Däremot har transportinfrastrukturen en
-förutsättningar. Strukturen är anpassad för att förutsättningsskapande roll för utvecklingen av
-skapa en bättre helhet vid genomförandet ett transporteffektivt samhälle.
+Det är de olika funktionerna i samklang med
+varandra som skapar transportsystemet i Västra
+Götaland. Strukturen med åtgärdsområden
+utifrån funktion möjliggör en god spridning av
+åtgärder i regionen samtidigt som medel kan
+
+användas utifrån olika geografiska
+förutsättningar. Strukturen är anpassad för att
+skapa en bättre helhet vid genomförandet
 genom att medel från olika potter och
 åtgärdsområden kan kombineras. Regional
 infrastrukturplan har god potential att bidra till
-Hållbarhetskonsekvensbeskrivningen
 hållbarhetsaspekten tillgänglighet i
-innehåller en fördjupad bedömning av
 perspektiven; näringslivets transporter, stad,
-den regionala infrastrukturplanens
-landsbygd, grundläggande tillgänglighet samt effekter och finns publicerat på
-tillgänglighet för personer med   www.vgregion.se/regionalplan
+landsbygd, grundläggande tillgänglighet samt
+tillgänglighet för personer med
 funktionsnedsättning. Sammantaget bidrar
 åtgärderna till de transportpolitiska målen (det
 övergripande målet och funktionsmålet) samt
+
 till regionens övergripande mål i
 inriktningsunderlaget ”Ett fossiloberoende
 transportsystem för ökad konkurrenskraft och
 möjlighet till goda livsmiljöer i stad och på
 landsbygd – förbättrad tillgänglighet”.
+
+Åtgärderna i infrastrukturplanen bedöms bidra
+till att andelen hållbara resor ökar, främst
+genom satsningar på cykelinfrastruktur och
+kollektivtrafik vilka uppgår till cirka 1 000
+respektive 2 700 miljoner kronor. För
+godstransporter är målet i inriktnings-
+underlaget att utveckla intermodalitet, vilket
+
+innebär en överflyttning av lastbilstransporter
+till järnväg och sjöfart. Viktiga åtgärder för att
+åstadkomma detta ligger främst i nationell
+infrastrukturplan, men regional
+infrastrukturplan spelar en viktig roll när det
+gäller att utveckla det kapillära vägnätet för att
+godstransporter ska kunna ta sig till stråk och
+noder för omlastning. De flesta större
+vägåtgärderna består av flera olika delar bland
+annat mötesseparering, trafiksäkerhetsåtgärder
+för oskyddade trafikanter samt anpassningar
+för kollektivtrafik och cykel.
+
+Infrastrukturåtgärder i kombination med
+styrmedel och samhällsplanering har en
+potential att påverka överflyttningen från bil/
+lastbil till järnväg, kollektivtrafik, gång och
+cykel. Enskilda infrastrukturåtgärder ger
+begränsade möjligheter till överflyttning.
+Däremot har transportinfrastrukturen en
+förutsättningsskapande roll för utvecklingen av
+ett transporteffektivt samhälle.
+
+Hållbarhetskonsekvensbeskrivningen
+innehåller en fördjupad bedömning av
+den regionala infrastrukturplanens
+effekter och finns publicerat på
+www.vgregion.se/regionalplan
 
 32
 
@@ -19475,93 +19861,106 @@ indikerar att planen varken bidrar eller motverkar tydligt.
 
 <!-- sida 487 -->
 
-Medskick till genomförandet från Effekter på bostadsbyggande
-hållbarhetsbedömningen          Den regionala infrastrukturplanen bedöms
-skapa förutsättningar för ett ökat
+Medskick till genomförandet från
+hållbarhetsbedömningen
 
-• För att säkerställa att genomförandet av bostadsbyggande i Västra Götaland. I dialog
-den regionala infrastrukturplanen bidrar med kommuner framkommer det att flertalet
-till ett transporteffektivt samhälle behöver av de namngivna väg- och
-efterlevnaden av de vägledande principerna kollektivtrafikåtgärderna är av stor betydelse för
-för åtgärdsområden och        kommunernas tillväxt och bostadsplanering.
+• För att säkerställa att genomförandet av
+den regionala infrastrukturplanen bidrar
+till ett transporteffektivt samhälle behöver
+efterlevnaden av de vägledande principerna
+
+för åtgärdsområden och
 inriktningsunderlagets tre fokusområden
-följas upp.                   Direkta effekter är cirka 4 000 bostäder
-kopplat till de namngivna vägåtgärderna,
-• Tillgängligheten förbättras genom att välja främst norra delen av E20/riksväg 40
-en kombination av åtgärder, så att olika Tvärförbindelse och väg 156. Den regionala
-transportslag kompletterar varandra. På så infrastrukturplanen bidrar även till de 45 000
-sätt kan den regionala infrastrukturplanens bostäder i Göteborg som ingår i
+följas upp.
 
-positiva påverkan på hållbarhetsaspekter storstadsåtgärderna inom Sverigeförhandlingen.
+• Tillgängligheten förbättras genom att välja
+en kombination av åtgärder, så att olika
+transportslag kompletterar varandra. På så
+sätt kan den regionala infrastrukturplanens
+positiva påverkan på hållbarhetsaspekter
 stärkas och enskilda åtgärders negativa
-påverkan inom vissa aspekter mildras. Flertalet åtgärder bidrar till samhällsutveckling
-både lokalt och regionalt och ökar därmed
-• Målpunkter för barn och unga, så som möjligheterna till bostadsbyggande. Speciellt
-skolor, idrottsanläggningar, lekplatser och satsningarna på förbättrad regiontrafik på
-liknande bör vara i särskilt fokus under järnväg, åtgärder för kollektivtrafik och cykel
-genomförandet. Likaså bör barns och ungas bedöms skapa förutsättningar för ett ökat
-delaktighet och utsatthet i trafiksystemet bostadsbyggande i linje med ett
-beaktas.                      transporteffektivt samhälle.
+påverkan inom vissa aspekter mildras.
 
-• Om det görs betydande ändringar i den
+• Målpunkter för barn och unga, så som
+skolor, idrottsanläggningar, lekplatser och
+liknande bör vara i särskilt fokus under
+genomförandet. Likaså bör barns och ungas
+delaktighet och utsatthet i trafiksystemet
+beaktas.
+
+• Om  det görs betydande ändringar i den
 regionala infrastrukturplanen under
-
 genomförandet så bör det genomföras en
 hållbarhets- och miljöeffektbedömning.
+
+Effekter på bostadsbyggande
+Den regionala infrastrukturplanen bedöms
+skapa förutsättningar för ett ökat
+bostadsbyggande i Västra Götaland. I dialog
+med kommuner framkommer det att flertalet
+av de namngivna väg- och
+kollektivtrafikåtgärderna är av stor betydelse för
+
+kommunernas tillväxt och bostadsplanering.
+
+Direkta effekter är cirka 4 000 bostäder
+kopplat till de namngivna vägåtgärderna,
+främst norra delen av E20/riksväg 40
+Tvärförbindelse och väg 156. Den regionala
+infrastrukturplanen bidrar även till de 45 000
+bostäder i Göteborg som ingår i
+storstadsåtgärderna inom Sverigeförhandlingen.
+
+Flertalet åtgärder bidrar till samhällsutveckling
+både lokalt och regionalt och ökar därmed
+
+möjligheterna till bostadsbyggande. Speciellt
+satsningarna på förbättrad regiontrafik på
+järnväg, åtgärder för kollektivtrafik och cykel
+bedöms skapa förutsättningar för ett ökat
+bostadsbyggande i linje med ett
+transporteffektivt samhälle.
 
 34
 
 <!-- sida 488 -->
 
-6   Genomförande      och  uppföljning
+6   Genomförande       och  uppföljning
 
 Den regionala infrastrukturplanen består av sju
-åtgärdsområden med olika åtgärder, vägledande Åtgärder med en kostnad på över 50
-miljoner kronor ska vara namngivna i
+åtgärdsområden med olika åtgärder, vägledande
 principer och beslutsprocesser. Planens medel
-regional infrastrukturplan. Prioriteringen
 är avsatta såväl till konkreta åtgärder som till
-av övriga åtgärder hanteras olika
 olika åtgärdsinriktningar. Inom tre
-beroende av hur stor kostnad som
-åtgärdsområden behövs en aktiv planering belastar planen.
+åtgärdsområden behövs en aktiv planering
 under genomförandet: Trimning och
-effektivisering i stråk, Trimning och effektivisering • Åtgärder under 15 miljoner kronor
-till stråk samt Statlig medfinans till kommunalt prioriteras av Trafikverket/Västtrafik
-i samråd med berörda kommuner.
+
+effektivisering i stråk, Trimning och effektivisering
+till stråk samt Statlig medfinans till kommunalt
 vägnät. Inom dessa tre områden är det särskilt
 viktigt att följa upp genomförandet utifrån
-•  Åtgärder med en kostnad över
 inriktningsunderlaget, hållbarhets-
-15 miljoner kronor stäms av årligen
 bedömningens medskick samt geografisk
-mellan Västra Götalandsregionen,
-fördelning och anpassning.          Trafikverket och
-kommunalförbunden.
+fördelning och anpassning.
+
 De olika transportslagen ska komplettera
-varandra för att skapa förutsättningar för ett • Åtgärder med en kostnad som
-belastar planen med mellan 25 och
+varandra för att skapa förutsättningar för ett
 transporteffektivt samhälle med hänsyn till
-50 miljoner kronor hanteras politiskt
 olika geografiska förutsättningar. I
-viaberedningen för hållbar
 genomförandet behöver Trafikverket arbeta för
-utveckling, BHU,och beslut i
-att kombinera fysiska åtgärder med steg 1- och regionstyrelsen.
+
+att kombinera fysiska åtgärder med steg 1- och
 2-åtgärder enligt Fyrstegsprincipen.
-•  Åtgärder inom de förstärkta
-Brister i den statliga transportinfrastrukturen satsningarna med en kostnad upp
-till 50 miljoner kronor beslutas av
+
+Brister i den statliga transportinfrastrukturen
 identifieras och analyseras inom så kallade
-respektive kommunalförbund inom
 åtgärdsvalsstudier (ÅVS). En åtgärdsvalsstudie
-ramen för åtgärdsområdets
 görs tidigt i planeringen för att parterna
-vägledande principer.
 tillsammans ska få en helhetsbild och hitta
 hållbara förslag på åtgärder. Studierna utgår
 från fyrstegsprincipen och innehåller ofta en
 kombination av åtgärder.
+
 För att säkerställa att åtgärderna är i linje med
 infrastrukturplanens avsikter och det beslutade
 inriktningsunderlag behöver genomförandet
@@ -19574,20 +19973,62 @@ möjlighet för beredningen för hållbar utveckling,
 BHU, att årligen få en redovisning av
 Trafikverket gällande utfallet och avvikelser i
 den regionala infrastrukturplanen.
+
+Åtgärder med en kostnad på över 50
+miljoner kronor ska vara namngivna i
+regional infrastrukturplan. Prioriteringen
+av övriga åtgärder hanteras olika
+beroende av hur stor kostnad som
+belastar planen.
+
+• Åtgärder under 15 miljoner kronor
+prioriteras av Trafikverket/Västtrafik
+i samråd med berörda kommuner.
+• Åtgärder med en kostnad över
+15 miljoner kronor stäms av årligen
+mellan Västra Götalandsregionen,
+Trafikverket och
+kommunalförbunden.
+
+• Åtgärder med en kostnad som
+belastar planen med mellan 25 och
+50 miljoner kronor hanteras politiskt
+viaberedningen för hållbar
+utveckling, BHU,och beslut i
+regionstyrelsen.
+
+• Åtgärder inom de förstärkta
+satsningarna med en kostnad upp
+till 50 miljoner kronor beslutas av
+respektive kommunalförbund inom
+ramen för åtgärdsområdets
+vägledande principer.
+
 35
 
 <!-- sida 489 -->
 
-Hantering av åtgärder inom potter Inom åtgärdsområde Trimning och
-I figurerna nedan visas förenklade processer för effektivisering i stråk och Trimning och
-åtgärder som belastar planen med upp till effektivisering till stråk finns olika processer för
+Hantering av åtgärder inom potter
+I figurerna nedan visas förenklade processer för
+åtgärder som belastar planen med upp till
+25 miljoner kronor. Trafikverket ansvarar för
+planens genomförande. Avstämning med
+Västra Götalandsregionen och
+kommunalförbunden ska ske årligen. Åtgärder
 
-25 miljoner kronor. Trafikverket ansvarar för prioritering av åtgärder. Kommunerna och
-planens genomförande. Avstämning med kommunalförbunden har möjlighet att lyfta
-Västra Götalandsregionen och    förslag på åtgärder till Trafikverket/Västtrafik i
-kommunalförbunden ska ske årligen. Åtgärder befintliga dialogforum. Kommunerna ombeds
-med en kostnad mellan 25 och 50 miljoner vart fjärde år lämna in förslag på regionala
-kronor hanteras politiskt.      cykelåtgärder som de avser att medfinansiera
+med en kostnad mellan 25 och 50 miljoner
+kronor hanteras politiskt.
+
+Inom åtgärdsområde Trimning och
+effektivisering i stråk och Trimning och
+effektivisering till stråk finns olika processer för
+prioritering av åtgärder. Kommunerna och
+kommunalförbunden har möjlighet att lyfta
+förslag på åtgärder till Trafikverket/Västtrafik i
+befintliga dialogforum. Kommunerna ombeds
+
+vart fjärde år lämna in förslag på regionala
+cykelåtgärder som de avser att medfinansiera
 med halva kostnaden.
 
 Inom åtgärdsområde Statlig medfinans till
@@ -19605,10 +20046,10 @@ Till stråk
 Kollektivtrafik • Västtrafik               • Trafikverket
 Trafikverket
 • VGR och Trafikverket • VGR och
-Cykel                                      • Trafikverket
+Cykel                                     • Trafikverket
 via kommunalförbunden Trafikverket
 Mindre
-• Trafikverket    • Trafikverket • Trafikverket
+• Trafikverket   • Trafikverket • Trafikverket
 vägåtgärder
 Figur 13. Förenklade beslutsprocesser för åtgärder inom Trimning och effektivisering i stråk och Trimning och
 effektivisering till stråk.
@@ -19619,12 +20060,11 @@ medfinans till
 kommunalt
 vägnät
 
-Kollektivtrafik • Västtrafik • Västtrafik  • Kommun
+Kollektivtrafik • Västtrafik  • Västtrafik  • Kommun
 
-Cykel         • Trafikverket • Trafikverket • Kommun
-
+Cykel        • Trafikverket  • Trafikverket • Kommun
 Trafiksäkerhets-
-• Trafikverket • Trafikverket • Kommun
+• Trafikverket  • Trafikverket • Kommun
 och miljöåtgärder
 Figur 14. Förenklade beslutsprocesser för åtgärder inom Statlig medfinans till kommunalt vägnät.
 
@@ -19899,13 +20339,12 @@ samt väg 26 och 40.
 Statligt regionalt vägnät
 
 I den regionala infrastrukturplanen prioriteras
-åtgärder i stråk och till stråk. Stråken definieras   Statliga regionala vägar
-som ingår i stråken
+åtgärder i stråk och till stråk. Stråken definieras
 av Västra Götalandsregionens
-trafikförsörjningsprogram och                          Övriga statliga
-regionala vägar
+trafikförsörjningsprogram och
 godstransportstrategi samt Trafikverkets
-funktionellt prioriterade vägnät (FPV). FPV            Statliga nationella vägar
+
+funktionellt prioriterade vägnät (FPV). FPV
 innefattar vägar med viktiga funktioner för
 godstransporter, långväga personresor, dagliga
 personresor och kollektivtrafik. Fem vägar som
@@ -19918,9 +20357,9 @@ som långt avstånd. I stråken finns även
 betydelsefulla regionala och interregionala
 transportflöden. Övriga statliga vägar klassas
 som vägar till stråk.
+
 Prioriterat regionalt transportnät för
 personer med funktionsnedsättning
-
 Den regionala infrastrukturplanen ska innefatta
 en beskrivning av ett prioriterat regionalt
 transportnät inom vilket infrastrukturen,
@@ -19928,22 +20367,35 @@ stationer och fordon ska kunna användas av
 personer med funktionsnedsättning, enligt
 förordningen om länsplaner. Ett systematiskt
 arbete med att tillgänglighetsanpassa
-kollektivtrafiken har pågått i många år. I Figur 16. Statligt vägnät i Västra Götaland. Källa: NVDB.
+kollektivtrafiken har pågått i många år. I
 trafikförsörjningsprogrammet finns tidsbestämda
+
 mål för både fordon och hållplatser.
 Prioriterade hållplatser är de med flest
-påstigande längs regionala stråk och inom Lista över prioriterade hållplatser
-
-kommunalt vägnät samt utpekade viktiga och knutpunkter som ska vara
-målpunkter. Lista över prioriterade hållplatser anpassade för personer med
-funktionsnedsättning finns på
+påstigande längs regionala stråk och inom
+kommunalt vägnät samt utpekade viktiga
+målpunkter. Lista över prioriterade hållplatser
 och knutpunkter för tillgänglighetsanpassning
-samt status för genomförandet är en del av www.vgregion.se/kollektivtrafik
+samt status för genomförandet är en del av
 trafikförsörjningsprogrammet och finns på Västra
 Götalandsregionens hemsida för att kunna
 uppdateras löpande.
 
 42
+
+Statliga regionala vägar
+som ingår i stråken
+Övriga statliga
+regionala vägar
+Statliga nationella vägar
+
+Figur 16. Statligt vägnät i Västra Götaland. Källa: NVDB.
+
+Lista över prioriterade hållplatser
+och knutpunkter som ska vara
+anpassade för personer med
+funktionsnedsättning finns på
+www.vgregion.se/kollektivtrafik
 
 <!-- sida 496 -->
 
@@ -19996,20 +20448,30 @@ Förslag till                            Övrig
 Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
 åtgärd                               finansiering
 mnkr         mnkr
+
 E20 / Riksväg Väg 535, Landvettervägen- Det finns behov av att öka Trafiksäkerhet-, 138 mnkr 318 mnkr Regional
-40,         Partillevägen, förbinder väg 40 i framkomligheten och kollektivtrafik- och        infrastrukturplan
-Tvärförbindelse söder med E20 i norr. Vägen är trafiksäkerheten för GC-åtgärder.              kollektivtrafik-
-viktig för både lokala och personbilar, lastbilar och                             åtgärd,
-regionala resor och   kollektivtrafiken samt                                      Partille kommun
+40,         Partillevägen, förbinder väg 40 i framkomligheten och kollektivtrafik- och         infrastrukturplan
+Tvärförbindelse söder med E20 i norr. Vägen är trafiksäkerheten för GC-åtgärder.               kollektivtrafik-
+viktig för både lokala och personbilar, lastbilar och                              åtgärd,
+regionala resor och   kollektivtrafiken samt                                       Partille kommun
 godstransporter samt för förbättra tillgängligheten och
-kollektivtrafiken i östra trafiksäkerheten för gång-
-Storgöteborg. Vägen är tillåten och cykeltrafikanter. På den
-för dispens- och farligt södra delen finns behov av en
-godstransporter samt är av ny viltpassage för att minska
-Trafikverket utpekad som barräreffekten och gynna
-omledningsväg. Åtgärden biologisk mångfald.
+
+kollektivtrafiken i östra
+Storgöteborg. Vägen är tillåten
+för dispens- och farligt
+godstransporter samt är av
+Trafikverket utpekad som
+omledningsväg. Åtgärden
 möjliggör utbyggnad av 3 000
 bostäder i Partille kommun.
+
+trafiksäkerheten för gång-
+och cykeltrafikanter. På den
+södra delen finns behov av en
+ny viltpassage för att minska
+barräreffekten och gynna
+biologisk mångfald.
+
 Väg 41,                                                                                           Inget data
 Sundholmen
 \- Björketorp
@@ -20067,10 +20529,11 @@ kommun
 Större vägåtgärder
 
 Medel i plan Total kostnad
-Förslag till                             Övrig
+Förslag till                            Övrig
 Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
 åtgärd                               finansiering
 mnkr         mnkr
+
 Väg 678,    Väg 678, som är ett alternativ En ombyggnation av väg 678 Mötesfri väg. 122 mnkr 122 mnkr Inget data
 Grohed -    till väg 44, kopplar samman E6 mellan Grohed och Bratteröd
 Bratteröd   med Vänersborg, Trollhättan till 2+1 med mittseparering,
@@ -20082,19 +20545,29 @@ icke trafiksäkra sträckan mellan
 Trestadsområdet och Göteborg.
 Trafikverket prioriterar sträckan
 som omledningsväg för E6.
+
 Väg 156,    Väg 156 går genom fyra Genomfartstrafiken i Skene Standardhöjning 0 mnkr 268 mnkr  Marks kommun
 Förbifart   kommuner: Härryda, Mark, skapar bristande  av befintlig väg,
 Skene, Extern Svenljunga och Tranemo. trafiksäkerhet och trygghet, ny sträckning med
 finansiering Genomfartstrafiken på väg 156 inte minst för oskyddade hastighet 80 km/h.
 behöver idag ta sig genom trafikanter i Skene. Det
-centrala Skene för att ansluta relativt höga trafikflödet
-till väg 41. De kommande åren skapar även en miljö utsatt
-planerar Marks kommun för för buller och en försämrad
-cirka 740 nya bostäder. För att luftkvalitet. Det finns även en
-kunna utveckla centrala Skene risk för köbildning som
-med bostäder och      exempelvis kan påverka
-verksamheter behöver  kollektivtrafiken.
+
+centrala Skene för att ansluta
+till väg 41. De kommande åren
+planerar Marks kommun för
+cirka 740 nya bostäder. För att
+kunna utveckla centrala Skene
+med bostäder och
+verksamheter behöver
 förbifarten färdigställas.
+
+relativt höga trafikflödet
+skapar även en miljö utsatt
+för buller och en försämrad
+luftkvalitet. Det finns även en
+risk för köbildning som
+exempelvis kan påverka
+kollektivtrafiken.
 
 46
 
@@ -20249,41 +20722,72 @@ etapp 1
 
 Bilaga 4 – Högst  prioriterade brister
 
-Vid sidan av de större åtgärder som är Vid framtagandet av regional infrastrukturplan
-beslutade i den regionala infrastrukturplanen 2022-2033 har inga nya vägbrister prioriterats
-2022-2033 finns prioriterade brister som kan in för åtgärdsvalsstudier, då de flesta brister
-bli aktuella till kommande planrevideringar. I från planen 2018-2029 kvarstår och är fortsatt
-regional infrastrukturplan är avsikten att ha en prioriterade av kommunalförbunden.
-bred politisk förankring av prioriterade brister. Ytterligare åtgärdsvalsstudier kan, vid behov av
-Till den regionala infrastrukturplanen omprioritering, lyftas för beslut under planens
-2018-2029 pekades de högst prioriterade genomförande.
+Vid sidan av de större åtgärder som är
+beslutade i den regionala infrastrukturplanen
+2022-2033 finns prioriterade brister som kan
+bli aktuella till kommande planrevideringar. I
+regional infrastrukturplan är avsikten att ha en
+bred politisk förankring av prioriterade brister.
+Till den regionala infrastrukturplanen
+
+2018-2029 pekades de högst prioriterade
 bristerna i vägsystemet ut av varje
-kommunalförbund och brister inom Västra Götalandsregionen har i dialog med
-
-kollektivtrafiken pekades ut av Västtrafik. Vilka kommunalförbunden föreslagit att tematiska
-brister som prioriteras i den regionala åtgärdsvalsstudier ska genomföras. Syftet är att
-infrastrukturplanen behandlas politiskt i åtgärda brister som spänner över en större
-respektive kommunalförbund och sedan i geografi och som kan lösas med medel ur flera
-beredningen för hållbar utveckling, BHU, i av planens åtgärdsområden.
+kommunalförbund och brister inom
+kollektivtrafiken pekades ut av Västtrafik. Vilka
+brister som prioriteras i den regionala
+infrastrukturplanen behandlas politiskt i
+respektive kommunalförbund och sedan i
+beredningen för hållbar utveckling, BHU, i
 samband med planens framtagande.
-Trafikverket ser ett behov av att utreda
-För bristerna i statligt vägnät behöver det återstående del av väg 678, Lerbo - Grohed. En
-genomföras åtgärdsvalsstudier eller avsiktsförklaring har tecknats mellan Västra
-motsvarande utredningar. För de flesta Götalandsregionen, Trafikverket och Orust
-prioriterade brister i planen har kommun om att genomföra en
-åtgärdsvalsstudier redan genomförts, men ett åtgärdsvalsstudie för en ny förbindelse mellan
-fåtal återstår och kommer att genomföras. Orust och fastlandet. Åtgärdsvalsstudien
 
-Åtgärdsvalsstudier eller motsvarande finansieras av STO-kommunerna och
-utredningar genomförs av Trafikverket i nära ambitionen är att bygga en eventuell fast
-samverkan med berörda kommuner och förbindelse genom finansiering utanför
-aktörer. Brister inom kollektivtrafik som kan ordinarie nationell- och regional
-bli aktuella för statlig medfinans i kommande infrastrukturplan.
+För bristerna i statligt vägnät behöver det
+genomföras åtgärdsvalsstudier eller
+motsvarande utredningar. För de flesta
+
+prioriterade brister i planen har
+åtgärdsvalsstudier redan genomförts, men ett
+fåtal återstår och kommer att genomföras.
+Åtgärdsvalsstudier eller motsvarande
+utredningar genomförs av Trafikverket i nära
+samverkan med berörda kommuner och
+aktörer. Brister inom kollektivtrafik som kan
+bli aktuella för statlig medfinans i kommande
 planrevideringar kräver inte åtgärdsvalsstudie.
 Eftersom åtgärden behöver minst 50 procent
 finansiering från sökande part behöver de
 utredas i nära samverkan mellan Västtrafik och
 aktuell kommun.
+
+Vid framtagandet av regional infrastrukturplan
+2022-2033 har inga nya vägbrister prioriterats
+in för åtgärdsvalsstudier, då de flesta brister
+från planen 2018-2029 kvarstår och är fortsatt
+prioriterade av kommunalförbunden.
+Ytterligare åtgärdsvalsstudier kan, vid behov av
+omprioritering, lyftas för beslut under planens
+
+genomförande.
+
+Västra Götalandsregionen har i dialog med
+kommunalförbunden föreslagit att tematiska
+åtgärdsvalsstudier ska genomföras. Syftet är att
+åtgärda brister som spänner över en större
+geografi och som kan lösas med medel ur flera
+av planens åtgärdsområden.
+
+Trafikverket ser ett behov av att utreda
+återstående del av väg 678, Lerbo - Grohed. En
+avsiktsförklaring har tecknats mellan Västra
+Götalandsregionen, Trafikverket och Orust
+
+kommun om att genomföra en
+åtgärdsvalsstudie för en ny förbindelse mellan
+Orust och fastlandet. Åtgärdsvalsstudien
+finansieras av STO-kommunerna och
+ambitionen är att bygga en eventuell fast
+förbindelse genom finansiering utanför
+ordinarie nationell- och regional
+infrastrukturplan.
 
 51
 
@@ -20358,47 +20862,88 @@ Brister som kräver åtgärdsvalsstudie
 
 Bilaga 5 – Inriktning järnvägsåtgärder  per bana
 
-I den regionala infrastrukturplanen har medel Södra Bohusbanan
-avsatts för att i första hand genomföra åtgärder I Grohed färdigställdes ett nytt mötesspår år
-på fem av de järnvägar som är av stor betydelse 2020, vilket samfinansierades via regional
-för det regionala resandet, men som har lägre infrastrukturplan 2018-2029. Mötesspåret
-prioritet nationellt.           möjliggör att hela södra Bohusbanan mellan
-Göteborg och Uddevalla får kapacitet för att
-I Målbild Tåg 2035 beskrivs målsättningen för köra halvtimmestrafik. Från tidigare beslut
-utvecklingen av persontågstrafiken. Utifrån finns även medel avsatta för en ny station vid
-detta beskrivs nedan en inriktning för åtgärder Brunnsbo. Efter uppräkning till 2020 års
-på de fem järnvägarna.          prisnivå samt hantering av en kostnadsökning
+I den regionala infrastrukturplanen har medel
+avsatts för att i första hand genomföra åtgärder
+på fem av de järnvägar som är av stor betydelse
+för det regionala resandet, men som har lägre
+prioritet nationellt.
 
-har 74 miljoner kronor avsatts för ny station
-Kinnekullebanan                 vid Brunnsbo. I övrigt reserveras medel för att
-Avsatta medel för Kinnekullebanan inriktas till öka måluppfyllelsen genom exempelvis
-att förstärka positiva effekter vid kommande stations-, kapacitets- eller hastighetsåtgärder.
-spårbyte i huvudsak i form av hastighets- och 20 miljoner kronor av dessa avsätts till
-kapacitetshöjande åtgärder. Utöver plattformsåtgärder i samband med
-spårupprustningen har Trafikverket utrett Stenungsunds flytt av stationen till nya
-stationsmiljöerna längs Kinnekullebanan och resecentrum.
+I Målbild Tåg 2035 beskrivs målsättningen för
+
+utvecklingen av persontågstrafiken. Utifrån
+detta beskrivs nedan en inriktning för åtgärder
+på de fem järnvägarna.
+
+Kinnekullebanan
+Avsatta medel för Kinnekullebanan inriktas till
+att förstärka positiva effekter vid kommande
+spårbyte i huvudsak i form av hastighets- och
+kapacitetshöjande åtgärder. Utöver
+spårupprustningen har Trafikverket utrett
+stationsmiljöerna längs Kinnekullebanan och
 plankorsningarna som begränsar hastigheten på
-sträckan.                       Viskadalsbanan
-Tidigare avsatta medel för Viskadalsbanan
-Norra Bohusbanan                ersattes delvis av två nationella projekt i form
+sträckan.
 
-Från tidigare beslut fanns det 30 miljoner av nytt spår samt ett arbete med att åtgärda
-kronor avsatta för ett spårbyte på norra plankorsningar för att kunna återta tidigare
-Bohusbanan. Spåren är i dåligt skick och är i hastigheter på sträckan. Fokus för de avsatta
-behov av upprustning. Det nya regelverket medlen ligger därför på stationsmiljöerna.
-kring plankorsningar medför att även om Plattformarna behöver bli längre för att kunna
-spåret byts ut så krävs det att plankorsningarna hantera framtida fordon samt rustas upp för att
-åtgärdas för att det ska vara möjligt att höja erbjuda attraktiva och säkra stationer för
-hastigheten. Avsatta medel för norra resenärerna.
+Norra Bohusbanan
+Från tidigare beslut fanns det 30 miljoner
+kronor avsatta för ett spårbyte på norra
+Bohusbanan. Spåren är i dåligt skick och är i
+behov av upprustning. Det nya regelverket
+kring plankorsningar medför att även om
+spåret byts ut så krävs det att plankorsningarna
+åtgärdas för att det ska vara möjligt att höja
+hastigheten. Avsatta medel för norra
 Bohusbanan har därför fokus på
-hastighetshöjande åtgärder för att kunna utöka Älvsborgsbanan
-trafiken samt på robusthetsåtgärder, där Avsatta medel innehåller tidigare beslutade
-järnvägen till exempel är i stort behov av åtgärder om att utöka kapaciteten på
-trädsäkring längs hela sträckan Uddevalla- Vänersborg C för att kunna inrymma tre tåg
+hastighetshöjande åtgärder för att kunna utöka
 
-Strömstad. Trädsäkring innebär att området samtidigt på stationsområdet, samt signal-
-närmast järnvägen röjs från träd så att trafiken åtgärder för att förbättra kapacitet och
-inte tvingas ställas in vid hårda vindar. robusthet mellan Öxnered och Vänersborg.
+trafiken samt på robusthetsåtgärder, där
+järnvägen till exempel är i stort behov av
+trädsäkring längs hela sträckan Uddevalla-
+Strömstad. Trädsäkring innebär att området
+närmast järnvägen röjs från träd så att trafiken
+inte tvingas ställas in vid hårda vindar.
+
+Södra Bohusbanan
+I Grohed färdigställdes ett nytt mötesspår år
+2020, vilket samfinansierades via regional
+infrastrukturplan 2018-2029. Mötesspåret
+möjliggör att hela södra Bohusbanan mellan
+Göteborg och Uddevalla får kapacitet för att
+köra halvtimmestrafik. Från tidigare beslut
+
+finns även medel avsatta för en ny station vid
+Brunnsbo. Efter uppräkning till 2020 års
+prisnivå samt hantering av en kostnadsökning
+har 74 miljoner kronor avsatts för ny station
+vid Brunnsbo. I övrigt reserveras medel för att
+öka måluppfyllelsen genom exempelvis
+stations-, kapacitets- eller hastighetsåtgärder.
+20 miljoner kronor av dessa avsätts till
+plattformsåtgärder i samband med
+Stenungsunds flytt av stationen till nya
+resecentrum.
+
+Viskadalsbanan
+
+Tidigare avsatta medel för Viskadalsbanan
+ersattes delvis av två nationella projekt i form
+av nytt spår samt ett arbete med att åtgärda
+plankorsningar för att kunna återta tidigare
+hastigheter på sträckan. Fokus för de avsatta
+medlen ligger därför på stationsmiljöerna.
+Plattformarna behöver bli längre för att kunna
+hantera framtida fordon samt rustas upp för att
+erbjuda attraktiva och säkra stationer för
+resenärerna.
+
+Älvsborgsbanan
+
+Avsatta medel innehåller tidigare beslutade
+åtgärder om att utöka kapaciteten på
+Vänersborg C för att kunna inrymma tre tåg
+samtidigt på stationsområdet, samt signal-
+åtgärder för att förbättra kapacitet och
+robusthet mellan Öxnered och Vänersborg.
 Trafikverket har genomfört en åtgärdsvalsstudie
 för Älvsborgsbanan där flera viktiga åtgärder
 identifierats. För att förbättra trafiken är det
@@ -20406,6 +20951,7 @@ viktigt att höja hastigheten mellan Vänersborg
 och Herrljunga så att tågen kan anpassas med
 attraktiva bytestider till fjärr- och regiontåg i
 Herrljunga. Avsatta medel ska i första hand
+
 verka för denna hastighetshöjning.
 
 54

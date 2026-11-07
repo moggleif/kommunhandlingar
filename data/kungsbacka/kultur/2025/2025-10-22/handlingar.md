@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7d495738199c8fe7528c2cc4/1760626591
 sha256: 5c5df198265e6472d33883cfb53abae640cdbfe680e1052cf09103919f1fcab1
 bytes: 14819709
 sidor: 208
-hamtad: 2026-10-24T06:07:11+00:00
-konverterad: 2026-10-24T06:07:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T20:14:04+00:00
+konverterad: 2026-11-06T20:14:43+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok]
@@ -5622,11 +5622,11 @@ Arbetet med att göra en ny detaljplan är styrt av Plan- och bygglagen för
 att alla som påverkas ska få veta vad som är på gång och kunna lämna
 synpunkter. Det gör också att kommunen kan få fram ett så bra besluts-
 underlag som möjligt.
+
 Samråd
 Det här är första gången vi skickar ut förslaget för att få era synpunkter. När
 tiden för att lämna synpunkter är slut sammanställer vi det som kommit in
 och om det behövs gör vi ändringar i förslaget.
-
 Granskning
 Det här är andra gången vi skickar ut förslaget för att samla in era synpunk-
 ter. Om du skickat in synpunkter under samrådet finns de med i samråds-
@@ -5646,17 +5646,25 @@ laga kraft. Då är det inte längre möjligt att överklaga den. Att detaljplan
 vinner laga kraft betyder att den börjar gälla och man kan nu söka bygglov
 för att bygga inom området.
 
-Kontaktuppgifter              Mer information!
+Kontaktuppgifter
 
-Kontakta gärna:               www.kungsbacka.se/aktuellaprojekt
-(Alla planhandlingar inklusive utredningar)
+Kontakta gärna:
 Maria Brink, planarkitekt
 (e-post borttagen)
+
+Fortesa Bytyqi, exploateringsingengör
+(e-post borttagen)
+
+Mer information!
+
+www.kungsbacka.se/aktuellaprojekt
+(Alla planhandlingar inklusive utredningar)
 Stadshusets entré,
 KungsbSaccakna na QR-koden
 (Läsex planhandlingar)
-Fortesa Bytyqi, exploateringsingengör och läs mer på
-(e-post borttagen)     projektets websida!
+och läs mer på
+projektets websida!
+
 Scanna QR-koden
 och läs mer på
 projektets webbsida!

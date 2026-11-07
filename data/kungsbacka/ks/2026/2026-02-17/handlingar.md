@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e00836ce2/1770883677
 sha256: 908aed7d20da237037cb00f579366c56a604c8555ebb339442bdeec319c2b347
 bytes: 60252880
 sidor: 936
-hamtad: 2026-10-24T09:36:39+00:00
-konverterad: 2026-10-24T09:39:07+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-07T00:34:37+00:00
+konverterad: 2026-11-07T00:37:52+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5903,7 +5903,6 @@ Gym                     Besök/dag       0Besök/dag 5%
 
 <!-- sida 152 -->
 
-36
 Kollektivtrafik
 Frågor om lokaltrafik
 1\. Turtäthet under högtrafik i om rådet (sam m anlagt för alla linjer)
@@ -5923,6 +5922,23 @@ G enerella frågor
 12\. Prioriteras kollektivtrafiken i kom m unens planering?
 13\. Hur ofta ser kom m unen över kollektivtrafiknätet?
 14\. Finns m ål och handlingsplan för kollektivtrafiken?
+ar)?
+Välj svar i listorna (inget svar = Sverigem edel)
+16-30-m inuterstrafik
+250-600 m
+Alla linjer har i princip taktfasta tidtabeller.
+Stora delar av tätorten och alla viktiga m ålpunkter. Koordinerade tidtabeller underlättar byten.
+Enbart m oderna fordon (m ax 6 år gam la eller m otsvarande).
+16-30-m inuterstrafik
+1000-1500 m
+1000-1500 m
+Alla linjer har i princip taktfasta tidtabeller.
+Blandat m ellan äldre fordon och m oderna fordon.
+På den viktigaste knutpunkten (t ex busstationen i centrum ).
+Kollektivtrafiken är en viktig faktor vid planering av t ex nya bostadsom råden.
+Det var länge sedan en översyn gjordes, och ingen är planerad inom den närm sta tiden.
+Kom m unen har m ål, m en de om sätts inte i praktiken. Handlingsplan saknas.
+
 G ång
 Frågor om gångtrafik
 1\. Avstånd till lokalt centrum (genom snitt i om rådet)
@@ -5935,6 +5951,16 @@ biltrafikens huvudnät är hastighetssäkrade till 30 km /h? (85-percentil)
 7\. Följer kom m unen upp m ängden gångtrafik (t.ex. genom fotgängarräkningar
 eller resvaneundersökningar)?
 8\. Finns m ål och handlingsplan för gångtrafiken?
+
+1-2 km
+Gångvägar m .m . kom pletterar system atiskt trottoarer för att förbättra genheten.
+Större delen har god standard. Vissa om råden har dock brister.
+Tryggheten är på de flesta håll hög. Kom m unen arbetar aktivt m ed att förbättra tryggheten.
+M er än 60 %
+Gångtrafiknätet prioriteras efter t ex biltrafiken.
+Uppföljning görs när kom m unen känner det behövs, vilket brukar vara relativt regelbundet.
+Kom m unen har m ål, m en de om sätts inte i praktiken. Handlingsplan saknas.
+
 Cykel
 Frågor om cykeltrafik
 1\. Avstånd till lokalt centrum (genom snitt i om rådet)
@@ -5957,6 +5983,22 @@ Frågor om biltrafik
 M in 290. M ax 694)
 6\. Hur är inställningen till att bygga nya vägar i kom m unen?
 7\. Finns m ål och handlingsplan för att m inska biltrafiken?
+
+1-3 km
+I princip inga lutningar.
+Cykelvägnätet är sam m anhängande och täcker i princip hela tätorten.
+M er än 60 %
+Cykelvägnätet underhålls sam tidigt m ed biltrafiken.
+Uppföljning görs tätt och regelbundet.
+Kom m unen har tydliga och offensiva m ål m ed en tydlig handlingsplan. M ålen följs upp.
+Kom m unens parkeringspolicy tilläm pas.
+O m rådets arbetsplatser får parkeringsplatser högre än gällande p-norm (m inim ivärde).
+Biltrafiken har sam m a prioritet som kollektivtrafik, cykel och gång.
+Det är inga problem att hitta en ledig p-plats nära besöksm ålet.
+350-461 bilar/1000 inv.
+Relativ generös. N ya vägar byggs om det anses nödvändigt. Andra lösningar prövas, m en det slutar oftast i vägbyggen.
+Kom m unen har inga m ål uppsatta för att m inska biltrafiken.
+
 M obility m anagem ent
 Arbetar kom m unen m ed M obility m anagem ent?
 1\. Arbetar kom m unen m ed m obility m anagem ent dvs. m juka åtgärder för att
@@ -5974,45 +6016,8 @@ Hur arbetar kom m unen m ed…
 10\. Sparsam körning/Eco-driving
 Kontinuitet
 1\. Hur länge har kom m unen arbetat m ed m obility m anagem ent?
-ar)?
-Välj svar i listorna (inget svar = Sverigem edel)
-16-30-m inuterstrafik
-250-600 m
-Alla linjer har i princip taktfasta tidtabeller.
-Stora delar av tätorten och alla viktiga m ålpunkter. Koordinerade tidtabeller underlättar byten.
-Enbart m oderna fordon (m ax 6 år gam la eller m otsvarande).
-16-30-m inuterstrafik
-1000-1500 m
-1000-1500 m
-Alla linjer har i princip taktfasta tidtabeller.
-Blandat m ellan äldre fordon och m oderna fordon.
-På den viktigaste knutpunkten (t ex busstationen i centrum ).
-Kollektivtrafiken är en viktig faktor vid planering av t ex nya bostadsom råden.
-Det var länge sedan en översyn gjordes, och ingen är planerad inom den närm sta tiden.
-Kom m unen har m ål, m en de om sätts inte i praktiken. Handlingsplan saknas.
-1-2 km
-Gångvägar m .m . kom pletterar system atiskt trottoarer för att förbättra genheten.
-Större delen har god standard. Vissa om råden har dock brister.
-Tryggheten är på de flesta håll hög. Kom m unen arbetar aktivt m ed att förbättra tryggheten.
-M er än 60 %
-Gångtrafiknätet prioriteras efter t ex biltrafiken.
-Uppföljning görs när kom m unen känner det behövs, vilket brukar vara relativt regelbundet.
-Kom m unen har m ål, m en de om sätts inte i praktiken. Handlingsplan saknas.
-1-3 km
-I princip inga lutningar.
-Cykelvägnätet är sam m anhängande och täcker i princip hela tätorten.
-M er än 60 %
-Cykelvägnätet underhålls sam tidigt m ed biltrafiken.
-Uppföljning görs tätt och regelbundet.
-Kom m unen har tydliga och offensiva m ål m ed en tydlig handlingsplan. M ålen följs upp.
-Kom m unens parkeringspolicy tilläm pas.
-O m rådets arbetsplatser får parkeringsplatser högre än gällande p-norm (m inim ivärde).
-Biltrafiken har sam m a prioritet som kollektivtrafik, cykel och gång.
-Det är inga problem att hitta en ledig p-plats nära besöksm ålet.
-350-461 bilar/1000 inv.
-Relativ generös. N ya vägar byggs om det anses nödvändigt. Andra lösningar prövas, m en det slutar oftast i vägbyggen.
-Kom m unen har inga m ål uppsatta för att m inska biltrafiken.
-O m nej så kom m er hänsyn inte tas till övriga m obility m anagem ent-frågor
+
+O m nej så kom m er hänsyn inte tas till övriga m obility m
 Ja
 Kom m unen arbetar inte m ed åtgärden
 Kom m unen arbetar system atiskt m ed åtgärden
@@ -6025,6 +6030,9 @@ Kom m unen arbetar inte m ed åtgärden
 Kom m unen har gjort enstaka åtgärder
 Kom m unen arbetar inte m ed åtgärden
 Längre än 10 år
+anagem ent-frågor
+
+36
 
 <!-- sida 153 -->
 
@@ -7999,18 +8007,28 @@ Prioriterade sträckor
 
 Kungsbacka  kommun
 
-Sträcka 1: Sandövägen, väg 950          Sträcka 2: Gåsevadholmsvägen i Fjärås kyrkby,
-väg 932
+Sträcka 1: Sandövägen, väg 950
 Längd: 1 300 meter
-Längd: 1 400 meter
-Beskrivning: Sträckan är en saknad länk i
-cykelvägnätet och gynnar fritidsresor till Sandö Beskrivning: Saknad länk genom Fjärås tätort.
-naturreservat med badplats och hamn. Skapar Kopplar ihop Fjärås med de nya gång- och
-även tillgänglighet till förskola.      cykelbanorna längs Vallbyvägen och
 
+Beskrivning: Sträckan är en saknad länk i
+cykelvägnätet och gynnar fritidsresor till Sandö
+
+naturreservat med badplats och hamn. Skapar
+även tillgänglighet till förskola.
+
+Karta 1: Sandövägen
+
+Sträcka 2: Gåsevadholmsvägen i Fjärås kyrkby,
+väg 932
+
+Längd: 1 400 meter
+
+Beskrivning: Saknad länk genom Fjärås tätort.
+Kopplar ihop Fjärås med de nya gång- och
+cykelbanorna längs Vallbyvägen och
 Varbergsvägen vidare in till Kungsbacka
 
-Karta 1: Sandövägen                     Karta 2: Gåsevadsholmsvägen
+Karta 2: Gåsevadsholmsvägen
 
 28
 
@@ -8036,18 +8054,31 @@ Karta 3: Gathes väg
 
 Varbergs kommun
 
-Sträcka 4: Bläshammar längs väg 845    Sträcka 5: Trädlyckevägen längs väg 765
+Sträcka 4: Bläshammar längs väg 845
+Längd: 1 900 meter
 
-Längd: 1 900 meter                     Längd: 900 meter
-Beskrivning: Från Bläshammar till väg 802. Ny Beskrivning: Längs Träslövsvägen/väg 765 från
+Beskrivning: Från Bläshammar till väg 802. Ny
 
-skola i Tångaberg innebär omläggning av befintlig cykelväg vid Trädlyckevägen till koppling
-skolområden och att elever från Bläshammar mot Havåsvägen. Ger en förbättrad cykelkoppling
-ska ta sig till skola i Tångaberg. Genom en mot Havåsvägen och vidare till Hunnestad och
-cykelväg längs väg 845 skapas en säker skolväg. Gödestad via cykelfarbara landsvägar och
+skola i Tångaberg innebär omläggning av
+skolområden och att elever från Bläshammar
+ska ta sig till skola i Tångaberg. Genom en
+cykelväg längs väg 845 skapas en säker skolväg.
+
+Karta 4: Bläshammar
+
+Sträcka 5: Trädlyckevägen längs väg 765
+
+Längd: 900 meter
+
+Beskrivning: Längs Träslövsvägen/väg 765 från
+befintlig cykelväg vid Trädlyckevägen till koppling
+mot Havåsvägen. Ger en förbättrad cykelkoppling
+mot Havåsvägen och vidare till Hunnestad och
+Gödestad via cykelfarbara landsvägar och
+
 Åkullaleden.
 
-Karta 4: Bläshammar                    Karta 5: Trädlyckevägen
+Karta 5: Trädlyckevägen
 
 30
 
@@ -8055,18 +8086,30 @@ Karta 4: Bläshammar                    Karta 5: Trädlyckevägen
 
 Falkenbergs kommun
 
-Sträcka 6: Vinbergs kyrkby – Vessigebro, väg Sträcka 7: Heberg- Slöinge längs väg 601
+Sträcka 6: Vinbergs kyrkby – Vessigebro, väg
 700
-Längd: 5 000 meter
+
 Längd: 8 000 meter. Behov av etappindelning
+
+Beskrivning: Sträckning: Vinbergs kyrkby –
+Vessigebro (i Vinberg Kyrkby finns anslutning till
+befintligt GC-nät).
+
+Karta 6: Vinbergs kyrkby - Vessigebro
+
+Sträcka 7: Heberg- Slöinge längs väg 601
+
+Längd: 5 000 meter
+
 Beskrivning: Sträckning: Heberg
-Beskrivning: Sträckning: Vinbergs kyrkby – cirkulationsplats – Slöinge. Senare möjlig
-Vessigebro (i Vinberg Kyrkby finns anslutning till förlängning Slöinge - kommungränsen mot
-befintligt GC-nät).                      Halmstad. Åtgärden är kostnadseffektiv då det
+cirkulationsplats – Slöinge. Senare möjlig
+förlängning Slöinge - kommungränsen mot
+Halmstad. Åtgärden är kostnadseffektiv då det
 främst handlar om att använda ena vägrenen till
+
 säkrare cykling genom räckesåtgärder
 
-Karta 6: Vinbergs kyrkby - Vessigebro   Karta 7: Heberg - Slöinge
+Karta 7: Heberg - Slöinge
 
 31
 
@@ -8090,39 +8133,62 @@ Karta 8: Järnvägsgatan/Hässlehultsgatan
 
 <!-- sida 205 -->
 
-Halmstads  kommun
+Halmstads kommun
 
-Sträcka 9: Tingsvägen i Harplinge längs väg 614 Sträcka 10: Göteborgsvägen i Kvibille längs väg
+Sträcka 9: Tingsvägen i Harplinge längs väg 614
+(skolvägspaket med tre sträckor)
 
-(skolvägspaket med tre sträckor)        678 (skolvägspaket med tre sträckor)
+Längd: 900 meter
 
-Längd: 900 meter                        Längd: 650 meter
-Beskrivning: Skolväg i tätort där möjligheten Beskrivning: Skolväg i tätort där möjligheten
-
-för cykling finns men där höga hastigheter på för cykling finns men där höga hastigheter på
-biltrafiken ofta gör att man inte vågar låta barnen biltrafiken ofta gör att man inte vågar låta barnen
-cykla                                   cykla
+Beskrivning: Skolväg i tätort där möjligheten
+för cykling finns men där höga hastigheter på
+biltrafiken ofta gör att man inte vågar låta barnen
+cykla
 
 Karta 9: Tingsvägen
+
+Sträcka 10: Göteborgsvägen i Kvibille längs väg
+678 (skolvägspaket med tre sträckor)
+
+Längd: 650 meter
+
+Beskrivning: Skolväg i tätort där möjligheten
+för cykling finns men där höga hastigheter på
+biltrafiken ofta gör att man inte vågar låta barnen
+cykla
+
 Karta 10: Göteborgsvägen
 
 33
 
 <!-- sida 206 -->
 
-Halmstads  kommun  forts.
+Halmstads kommun   forts.
 
-Sträcka 11: Spånstadsvägen i Åled       Sträcka 12: Norra Sänkevägen i Påarp/Laxvik
-längs väg 542 (skolvägspaket med tre sträckor)
+Sträcka 11: Spånstadsvägen i Åled
+
 Längd: 1 000 meter
-Längd: 1 000 meter
+
 Beskrivning: Ger tillsammans med nödvändig
-satsning på gång- och cykelväg längs väg 26 Beskrivning: Skolväg utanför tätort där
-pendlingsmöjlighet från Åled via planerat möjligheten för cykling finns men där höga
-industriområde i Älvasjö till Halmstad (objektet hastigheter på biltrafiken ofta gör att man inte
-är avhängigt väg 26 nationell plan)     vågar låta barnen cykla
+satsning på gång- och cykelväg längs väg 26
 
-Karta 11: Spånstadsvägen                Karta 12: Påarp/Laxvik - Trönninge
+pendlingsmöjlighet från Åled via planerat
+industriområde i Älvasjö till Halmstad (objektet
+är avhängigt väg 26 nationell plan)
+
+Karta 11: Spånstadsvägen
+
+Sträcka 12: Norra Sänkevägen i Påarp/Laxvik
+längs väg 542 (skolvägspaket med tre sträckor)
+
+Längd: 1 000 meter
+
+Beskrivning: Skolväg utanför tätort där
+möjligheten för cykling finns men där höga
+hastigheter på biltrafiken ofta gör att man inte
+vågar låta barnen cykla
+
+Karta 12: Påarp/Laxvik - Trönninge
 
 34
 
@@ -8130,20 +8196,33 @@ Karta 11: Spånstadsvägen                Karta 12: Påarp/Laxvik - Trönninge
 
 Laholms  kommun
 
-Sträcka 13: Veinge - Hallaberg längs väg 548 Sträcka 14: Såghuset - Ysby längs väg 259 och 530
+Sträcka 13: Veinge - Hallaberg längs väg 548
 
-Längd: 1 500 meter                      Längd: 2 500 meter
+Längd: 1 500 meter
 
-Beskrivning: Knyter ihop västra delarna av Beskrivning: God potential för skol- och
-Veinge med kommande ny station. Möjlighet till arbetspendling mellan Ysby och Laholm. Barn- och
-arbetspendling på längre sträcka. Barn- och unga i unga saknar möjlighet att på ett säkert sätt cykla
-Genevad samt Tjärby/Daggarp saknar idag mellan Ysby och Laholm. Gymnasieelever behöver
+Beskrivning: Knyter ihop västra delarna av
+Veinge med kommande ny station. Möjlighet till
 
-möjlighet att på ett säkert sätt cykla till Veinge kunna ta sig med cykel till både tåg- och busstation
+arbetspendling på längre sträcka. Barn- och unga i
+Genevad samt Tjärby/Daggarp saknar idag
+möjlighet att på ett säkert sätt cykla till Veinge
+
+Karta 13: Veinge - Hallaberg
+
+Sträcka 14: Såghuset - Ysby längs väg 259 och 530
+
+Längd: 2 500 meter
+
+Beskrivning: God potential för skol- och
+arbetspendling mellan Ysby och Laholm. Barn- och
+unga saknar möjlighet att på ett säkert sätt cykla
+mellan Ysby och Laholm. Gymnasieelever behöver
+kunna ta sig med cykel till både tåg- och busstation
+
 och till Osbecksgymnasiet. Laholms kommun
 ansvarar för delsträckan längs kommunalt vägnät
 
-Karta 13: Veinge - Hallaberg            Karta 14: Såghuset- Ysby
+Karta 14: Såghuset- Ysby
 
 35
 
@@ -9339,35 +9418,48 @@ the previous provisions shall apply.
 1   Författningsförslag
 
 1.1  Förslag till lag om ändring i lagen (2016:1145) om offentlig
-
 upphandling
 
 Härigenom föreskrivs i fråga om lagen (2016:1145) om offentlig upphandling
+
 dels att 16 kap. 7 och 8 §§ och 19 kap. 18 § ska ha följande lydelse,
 dels att det ska införas tre nya paragrafer, 16 kap. 7 a–b §§ och 20 kap. 5 e § av
 följande lydelse.
 
-Nuvarande lydelse               Föreslagen lydelse
+Nuvarande lydelse              Föreslagen lydelse
 
 16 kap.
 
 7 §1
 
 Om ett anbud förefaller vara onormalt lågt, Den upphandlande myndigheten ska bedöma om
-
 ska den upphandlande myndigheten begära anbud förefaller vara onormalt låga. Om ett
 att leverantören förklarar det låga priset anbud förefaller vara onormalt lågt, ska den
-eller kostnaden. En sådan begäran om upphandlande myndigheten begära att
-förklaring kan gälla            leverantören förklarar hur kontraktet kan
-1\. om leverantören kan utnyttja särskilt fullgöras trots det låga priset eller kostnaden.
-kostnadseffektiva metoder för att fullgöra
-kontraktet,                     Om priset eller kostnaden för ett anbud är mer
 
-2\. om leverantören kan utnyttja tekniska än 30 procent lägre än det genomsnittliga priset
-lösningar eller ovanligt gynnsamma eller den genomsnittliga kostnaden för samtliga
-förhållanden för att fullgöra kontraktet, anbud i upphandlingen ska den upphandlande
-3\. egenarten hos de varor, tjänster eller myndigheten begära att leverantören lämnar en
-byggentreprenader som föreslås av leverantören, förklaring enligt första stycket.
+eller kostnaden. En sådan begäran om
+förklaring kan gälla
+1\. om leverantören kan utnyttja särskilt
+kostnadseffektiva metoder för att fullgöra
+
+kontraktet,
+2\. om leverantören kan utnyttja tekniska
+lösningar eller ovanligt gynnsamma
+förhållanden för att fullgöra kontraktet,
+3\. egenarten hos de varor, tjänster eller
+byggentreprenader som föreslås av leverantören,
+
+upphandlande myndigheten begära att
+leverantören förklarar hur kontraktet kan
+fullgöras trots det låga priset eller kostnaden.
+
+Om priset eller kostnaden för ett anbud är mer
+än 30 procent lägre än det genomsnittliga priset
+
+eller den genomsnittliga kostnaden för samtliga
+anbud i upphandlingen ska den upphandlande
+myndigheten begära att leverantören lämnar en
+förklaring enligt första stycket.
+
 4\. hur leverantören avser att fullgöra
 I begäran ska den upphandlande myndigheten
 kontraktet med avseende på tillämpliga miljö-,
@@ -9377,6 +9469,7 @@ medför att anbudet förefaller vara onormalt lågt.
 5\. om leverantören kan få statligt stöd, eller
 6\. skyldigheterna som avses i 17 kap. 6 eller
 7 §.
+
 Myndigheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande sätt
 har förklarat det låga priset eller kostnaden.
@@ -9441,45 +9534,63 @@ Den upphandlande myndigheten ska, innan den
 beslutar att förkasta ett anbud, ge leverantören
 tillfälle att inom en skälig tidsfrist yttra sig över
 de omständigheter som enligt den upphandlande
+
 myndigheten kan utgöra skäl för förkastande.
+
+Om en upphandlande myndighet finner att
+ett anbud är onormalt lågt på grund av att
+leverantören fått ett statligt stöd, ska
+myndigheten ge leverantören en möjlighet
+
+att inom skälig tid visa att stödet är
+förenligt med fördraget om Europeiska
+unionens funktionssätt (EUF-fördraget).
 
 8 §
 
-Om en upphandlande myndighet finner att Om den upphandlande myndigheten finner
-ett anbud är onormalt lågt på grund av att att ett anbud är onormalt lågt på grund av
-leverantören fått ett statligt stöd, ska att leverantören fått ett statligt stöd, ska
-myndigheten ge leverantören en möjlighet myndigheten ge leverantören en möjlighet
-att inom skälig tid visa att stödet är att inom skälig tid visa att stödet är
-förenligt med fördraget om Europeiska förenligt med fördraget om Europeiska
-unionens funktionssätt (EUF-fördraget). unionens funktionssätt (EUF-fördraget).
+Om den upphandlande myndigheten finner
+att ett anbud är onormalt lågt på grund av
+att leverantören fått ett statligt stöd, ska
+myndigheten ge leverantören en möjlighet
+
+att inom skälig tid visa att stödet är
+förenligt med fördraget om Europeiska
+unionens funktionssätt (EUF-fördraget).
 
 Om leverantören efter en sådan åtgärd som avses i första stycket inte visat att stödet i
-
 fråga är förenligt med EUF-fördraget, ska anbudet förkastas.
 
 En upphandlande myndighet som förkastar Den upphandlande myndigheten ska, innan den
 ett anbud med stöd av andra stycket ska beslutar att förkasta ett anbud, ge leverantören
 underrätta Europeiska kommissionen om tillfälle att inom en skälig tidsfrist yttra sig över
-det.                            de omständigheter som enligt den upphandlande
+
+det.                           de omständigheter som enligt den upphandlande
 myndigheten kan utgöra skäl för förkastande.
 
 En upphandlande myndighet som förkastar
 ett anbud med stöd av andra stycket ska
-
 underrätta Europeiska kommissionen om
 det.
+
+En upphandlande myndighet får förkasta
+ett anbud om den finner att anbudet är
+onormalt lågt. Anbudet får dock förkastas
+först sedan myndigheten begärt en
+
+förklaring och inte fått tillfredsställande
+svar.
 
 19 kap.
 
 18 §2
 
-En upphandlande myndighet får förkasta En upphandlande myndighet ska förkasta
-ett anbud om den finner att anbudet är ett anbud om den finner att anbudet är
-onormalt lågt. Anbudet får dock förkastas onormalt lågt. Anbudet ska dock förkastas
-först sedan myndigheten begärt en först sedan myndigheten begärt en
-förklaring och inte fått tillfredsställande förklaring och inte fått tillfredsställande
+En upphandlande myndighet ska förkasta
+ett anbud om den finner att anbudet är
+onormalt lågt. Anbudet ska dock förkastas
 
-svar.                           svar.
+först sedan myndigheten begärt en
+förklaring och inte fått tillfredsställande
+svar.
 
 2 Senaste lydelse 2021:1110.
 12
@@ -9508,46 +9619,68 @@ påbörjats före ikraftträdandet.
 upphandling inom försörjningssektorerna
 
 Härigenom föreskrivs i fråga om lagen (2016:1146) om upphandling inom
-försörjningssektorerna
 
+försörjningssektorerna
 dels att 15 kap. 7 och 8 §§ och 19 kap. 18 § ska ha följande lydelse,
 dels att det ska införas fyra nya paragrafer, 15 kap. 7 a–b §§ och 20 kap. 5 e § av
 följande lydelse.
 
-Nuvarande lydelse            Föreslagen lydelse
+Nuvarande lydelse           Föreslagen lydelse
 
 15 kap.
 
-7 §3
+Om ett anbud förefaller vara onormalt
+lågt, ska den upphandlande enheten
+begära att leverantören förklarar det
+låga priset eller kostnaden. En sådan
 
-Om ett anbud förefaller vara onormalt Den upphandlande enheten ska bedöma om
-lågt, ska den upphandlande enheten anbud förefaller vara onormalt låga. Om
-begära att leverantören förklarar det ett anbud förefaller vara onormalt lågt
-låga priset eller kostnaden. En sådan ska den upphandlande enheten begära
-
-begäran om förklaring kan gälla att leverantören förklarar hur kontraktet
-1\. om leverantören kan utnyttja särskilt kan fullgöras trots det låga priset eller
-kostnadseffektiva metoder för att fullgöra kostnaden.
+begäran om förklaring kan gälla
+1\. om leverantören kan utnyttja särskilt
+kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2\. om leverantören kan utnyttja tekniska Om priset eller kostnaden för ett anbud är
-lösningar eller ovanligt gynnsamma mer än 30 procent lägre än det
-förhållanden för att fullgöra kontraktet, genomsnittliga priset eller den
+2\. om leverantören kan utnyttja tekniska
+lösningar eller ovanligt gynnsamma
+förhållanden för att fullgöra kontraktet,
 
-3\. egenarten hos de varor, tjänster eller genomsnittliga kostnaden för samtliga
-byggentreprenader som föreslås av anbud i upphandlingen ska den
-leverantören,                upphandlande enheten begära att
-4\. hur leverantören avser att fullgöra leverantören lämnar en förklaring enligt
-kontraktet med avseende på tillämpliga första stycket.
+3\. egenarten hos de varor, tjänster eller
+byggentreprenader som föreslås av
+leverantören,
+4\. hur leverantören avser att fullgöra
+kontraktet med avseende på tillämpliga
 miljö-, social- och arbetsrättsliga
-I begäran ska den upphandlande enheten
 skyldigheter,
-precisera vilka delar av anbudet som den
+
 5\. om leverantören kan få statligt stöd,
-anser medför att anbudet förefaller vara
 eller
-onormalt lågt.
 6\. skyldigheterna som avses i 16 kap. 6
 eller 7 §.
+
+7 §3
+
+Den upphandlande enheten ska bedöma om
+anbud förefaller vara onormalt låga. Om
+ett anbud förefaller vara onormalt lågt
+ska den upphandlande enheten begära
+
+att leverantören förklarar hur kontraktet
+kan fullgöras trots det låga priset eller
+kostnaden.
+
+Om priset eller kostnaden för ett anbud är
+mer än 30 procent lägre än det
+genomsnittliga priset eller den
+genomsnittliga kostnaden för samtliga
+
+anbud i upphandlingen ska den
+upphandlande enheten begära att
+leverantören lämnar en förklaring enligt
+första stycket.
+
+I begäran ska den upphandlande enheten
+precisera vilka delar av anbudet som den
+anser medför att anbudet förefaller vara
+onormalt lågt.
+
 Enheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande
 sätt har förklarat det låga priset eller
@@ -9562,8 +9695,8 @@ En upphandlande enhet ska också förkasta
 en leverantörs anbud om den finner att det
 onormalt låga priset beror på att anbudet
 inte stämmer överens med tillämpliga
-miljö-, social- eller arbetsrättsliga
 
+miljö-, social- eller arbetsrättsliga
 skyldigheter.
 
 7 a §
@@ -9572,27 +9705,27 @@ Den upphandlande enheten ska bedöma de
 förklaringar som lämnats av leverantören.
 Vid bedömningen av om en förklaring är
 tillfredsställande ska särskild hänsyn tas till
+
 om leverantören har visat att anbudet är
 trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
-
 1\. om leverantören kan utnyttja särskilt
 kostnadseffektiva metoder för att fullgöra
 kontraktet,
 2\. om leverantören kan utnyttja tekniska
+
 lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
 3\. egenarten hos de varor, tjänster eller
-
 byggentreprenader som föreslås av
 leverantören,
 4\. hur leverantören avser att fullgöra
 kontraktet med avseende på tillämpliga
+
 miljö-, social- eller arbetsrättsliga
 skyldigheter,
 5\. om leverantören kan få statligt stöd,
-
 eller
 6\. skyldigheterna som avses i 16 kap.
 6 eller 7 §.
@@ -9600,10 +9733,10 @@ eller
 7 b §
 
 Den upphandlande enheten ska förkasta
+
 anbudet om leverantören inte lämnat en
 tillfredsställande förklaring av hur
 kontraktet kan fullgöras trots det låga priset
-
 eller kostnaden.
 
 15
@@ -9614,8 +9747,8 @@ Den upphandlande enheten ska också
 förkasta en leverantörs anbud om den
 finner att det onormalt låga priset beror på
 att anbudet inte stämmer överens med
-tillämpliga miljö-, social- eller
 
+tillämpliga miljö-, social- eller
 arbetsrättsliga skyldigheter.
 
 Den upphandlande enheten ska, innan den
@@ -9627,29 +9760,38 @@ utgöra skäl för förkastande.
 
 8 §
 
-Om en upphandlande enhet finner att Om den upphandlande enheten finner
+Om en upphandlande enhet finner att
+ett anbud är onormalt lågt på grund av
+att leverantören fått ett statligt stöd, ska
+enheten ge leverantören en möjlighet
 
-ett anbud är onormalt lågt på grund av att ett anbud är onormalt lågt på grund
-att leverantören fått ett statligt stöd, ska av att leverantören fått ett statligt stöd,
-enheten ge leverantören en möjlighet ska enheten ge leverantören en
-att inom skälig tid visa att stödet är möjlighet att inom skälig tid visa att
-förenligt med fördraget om Europeiska stödet är förenligt med fördraget om
-unionens funktionssätt (EUF- Europeiska unionens funktionssätt
-fördraget).                  (EUF-fördraget).
+att inom skälig tid visa att stödet är
+förenligt med fördraget om Europeiska
+unionens funktionssätt (EUF-
+fördraget).
+
+Om den upphandlande enheten finner
+att ett anbud är onormalt lågt på grund
+av att leverantören fått ett statligt stöd,
+ska enheten ge leverantören en
+
+möjlighet att inom skälig tid visa att
+stödet är förenligt med fördraget om
+Europeiska unionens funktionssätt
+(EUF-fördraget).
 
 Om leverantören efter en sådan åtgärd som avses i första stycket inte visat att
-
 stödet i fråga är förenligt med EUF-fördraget, ska anbudet förkastas.
 
 En upphandlande enhet som förkastar Den upphandlande enheten ska, innan den
 ett anbud med stöd av andra stycket beslutar att förkasta ett anbud, ge
-ska underrätta Europeiska    leverantören tillfälle att inom en skälig
-kommissionen om det.         tidsfrist yttra sig över de omständigheter
+ska underrätta Europeiska   leverantören tillfälle att inom en skälig
+kommissionen om det.        tidsfrist yttra sig över de omständigheter
+
 som enligt den upphandlande enheten kan
 utgöra skäl för förkastande.
 
 En upphandlande enhet som förkastar
-
 ett anbud med stöd av andra stycket
 ska underrätta Europeiska
 kommissionen om det.
@@ -9662,13 +9804,21 @@ kommissionen om det.
 
 18 §4
 
-En upphandlande enhet får förkasta ett En upphandlande enhet ska förkasta ett
-anbud om den finner att anbudet är anbud om den finner att anbudet är
-onormalt lågt. Anbudet får dock onormalt lågt. Anbudet ska dock
-förkastas först sedan enheten begärt en förkastas först sedan enheten begärt en
+En upphandlande enhet får förkasta ett
+anbud om den finner att anbudet är
+onormalt lågt. Anbudet får dock
+förkastas först sedan enheten begärt en
 
-förklaring och inte fått tillfredsställande förklaring och inte fått tillfredsställande
-svar.                        svar.
+förklaring och inte fått tillfredsställande
+svar.
+
+En upphandlande enhet ska förkasta ett
+anbud om den finner att anbudet är
+onormalt lågt. Anbudet ska dock
+förkastas först sedan enheten begärt en
+
+förklaring och inte fått tillfredsställande
+svar.
 
 20 kap.
 
@@ -9677,6 +9827,7 @@ svar.                        svar.
 Om det inte finns särskilda skäl ska endast
 den förklaring av ett anbud som
 leverantören har lämnat enligt 15 kap.
+
 7–8 §§ eller 19 kap. 18 § beaktas vid en
 överprövning enligt 20 kap. 4 §.
 
@@ -9694,26 +9845,36 @@ påbörjats före ikraftträdandet.
 upphandling på försvars- och säkerhetsområdet
 
 Härigenom föreskrivs i fråga om lagen (2011:1029) om upphandling på försvars-
-och säkerhetsområdet
 
+och säkerhetsområdet
 dels att 13 kap. 3–4 §§ och 15 kap. 17 § ska ha följande lydelse,
 dels att det ska införas en ny paragraf, 16 kap. 5 e § av följande lydelse.
 
-Nuvarande lydelse            Föreslagen lydelse
+Nuvarande lydelse           Föreslagen lydelse
 
 13 kap.
 
+En upphandlande myndighet eller
+enhet får förkasta ett anbud om den
+finner att priset är onormalt lågt.
+Anbudet får dock förkastas först sedan
+
+myndigheten eller enheten skriftligen
+begärt en förklaring till det låga
+anbudet och inte fått ett
+tillfredsställande svar.
+
 3 §
 
-En upphandlande myndighet eller En upphandlande myndighet eller
-enhet får förkasta ett anbud om den enhet ska förkasta ett anbud om den
-finner att priset är onormalt lågt. finner att priset är onormalt lågt.
-Anbudet får dock förkastas först sedan Anbudet ska dock förkastas först sedan
-myndigheten eller enheten skriftligen myndigheten eller enheten skriftligen
+En upphandlande myndighet eller
+enhet ska förkasta ett anbud om den
+finner att priset är onormalt lågt.
+Anbudet ska dock förkastas först sedan
 
-begärt en förklaring till det låga begärt en förklaring till det låga
-anbudet och inte fått ett    anbudet och inte fått ett
-tillfredsställande svar.     tillfredsställande svar.
+myndigheten eller enheten skriftligen
+begärt en förklaring till det låga
+anbudet och inte fått ett
+tillfredsställande svar.
 
 En begäran om förklaring kan gälla
 1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att fullgöra
@@ -9734,15 +9895,24 @@ beaktande av de lämnade förklaringarna.
 
 4 §
 
-Om en upphandlande myndighet eller Om en upphandlande myndighet eller
-enhet finner att ett anbud är onormalt enhet finner att ett anbud är onormalt
-lågt på grund av att anbudsgivaren har lågt på grund av att anbudsgivaren har
-fått statligt stöd, får myndigheten eller fått statligt stöd, ska myndigheten eller
-enheten begära en förklaring av enheten begära en förklaring av
-anbudsgivaren. Kan anbudsgivaren anbudsgivaren. Kan anbudsgivaren
+Om en upphandlande myndighet eller
+enhet finner att ett anbud är onormalt
+lågt på grund av att anbudsgivaren har
+fått statligt stöd, får myndigheten eller
 
-inte efter en sådan begäran och inom en inte efter en sådan begäran och inom en
+enheten begära en förklaring av
+anbudsgivaren. Kan anbudsgivaren
+inte efter en sådan begäran och inom en
 18
+
+Om en upphandlande myndighet eller
+enhet finner att ett anbud är onormalt
+lågt på grund av att anbudsgivaren har
+fått statligt stöd, ska myndigheten eller
+
+enheten begära en förklaring av
+anbudsgivaren. Kan anbudsgivaren
+inte efter en sådan begäran och inom en
 
 <!-- sida 248 -->
 
@@ -9750,24 +9920,33 @@ skälig tidsfrist som angetts av den skälig tidsfrist som angetts av den
 upphandlande myndigheten eller upphandlande myndigheten eller
 enheten visa att det är fråga om ett med enheten visa att det är fråga om ett med
 EUF-fördraget förenligt stöd, får EUF-fördraget förenligt stöd, ska
-anbudet förkastas.           anbudet förkastas.
+
+anbudet förkastas.          anbudet förkastas.
 
 En upphandlande myndighet eller enhet som förkastar ett anbud enligt första
-
 stycket ska underrätta Europeiska kommissionen om det.
 
 15 kap.
 
 17 §5
 
-En upphandlande myndighet eller En upphandlande myndighet eller
-enhet får förkasta ett anbud om den enhet ska förkasta ett anbud om den
-finner att anbudet är onormalt lågt. finner att anbudet är onormalt lågt.
-Anbudet får dock förkastas först sedan Anbudet ska dock förkastas först sedan
-myndigheten eller enheten begärt en myndigheten eller enheten begärt en
+En upphandlande myndighet eller
+enhet får förkasta ett anbud om den
+finner att anbudet är onormalt lågt.
+Anbudet får dock förkastas först sedan
 
-förklaring och inte fått tillfredsställande förklaring och inte fått tillfredsställande
-svar.                        svar.
+myndigheten eller enheten begärt en
+förklaring och inte fått tillfredsställande
+svar.
+
+En upphandlande myndighet eller
+enhet ska förkasta ett anbud om den
+finner att anbudet är onormalt lågt.
+Anbudet ska dock förkastas först sedan
+
+myndigheten eller enheten begärt en
+förklaring och inte fått tillfredsställande
+svar.
 
 16 kap.
 
@@ -9776,6 +9955,7 @@ svar.                        svar.
 Om det inte finns särskilda skäl ska endast
 den förklaring av ett anbud som
 leverantören har lämnat enligt 13 kap. 3–4
+
 §§ eller 15 kap. 17 § beaktas vid en
 överprövning enligt 16 kap. 4 §.
 
@@ -34044,24 +34224,32 @@ tidsmässigt samtidigt som projektet kan pausas och skjutas på framtiden av exe
 prioriteringar för andra projekt. En uppskattning av sådana eventuella pauser finns inte medtaget i
 nedanstående flödesschema.
 
+Beslutsfas ca 1 -2 år
+Kommunen tar beslut om och i vilket
+läge ett yttre översvämningskydd ska
+byggas. Samarbete med andra
+intressenter såsom Trafikverket,
+kraftbolag krävs.
+
 Tillståndsfasen 3-10 år
-Beslutsfas ca 1 -2 år   Utredningsfas ca 3-5 år Tillståndsprocessen omfattar ett samråd,
+Utredningsfas ca 3-5 år Tillståndsprocessen omfattar ett samråd,
 framtagande av ansökningshandlingar, en
-Kommunen tar beslut om och i vilket Valt alternativ studeras mer i detalj ärendehantering i Mark-och
-läge ett yttre översvämningskydd ska              miljödomstolen samt ett domslut. Under
+Valt alternativ studeras mer i detalj ärendehantering i Mark-och
+miljödomstolen samt ett domslut. Under
 gällande viktiga faktorer som
-byggas. Samarbete med andra                       processen kan krav på ytterligare
+processen kan krav på ytterligare
 geoteknik, hydrologi, tekniska
-intressenter såsom Trafikverket,                utredningar och kompletteringar uppkomma
-kraftbolag krävs.        lösningar etc.     från myndigheter, enskilda och allmänheten
+utredningar och kompletteringar uppkomma
+lösningar etc.     från myndigheter, enskilda och allmänheten
 vilket kan medföra att processen blir
 tidskrävande.
+
 Planerings-och
 Byggfasen 3-5 år
 projekteringsfasen 3-5 år
 Denna fas omfattar framtagande av de Fasen innefattar en inledande Färdigt
 upphandling av entreprenör för
-bygglov och fastighetsrättliga dokument             översvämningsskydd
+bygglov och fastighetsrättliga dokument            översvämningsskydd
 samt eventuella detaljplaner som krävs. I projektet och den tid det faktiskt tar att
 denna fas tas även projekterings-och anlägga översvämningsskyddet med om 15-30 år
 förfrågningsunderlag fram. Denna fas kan tillhörande teknisk utrustning och

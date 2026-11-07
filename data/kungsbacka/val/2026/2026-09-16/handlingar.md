@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6a370aed1a0ad9793dbc5435/1790080189
 sha256: 36a174a08d29511fa46f15ed2221cb408fa4ddd061bdfe927168c682abe60321
 bytes: 886818
 sidor: 21
-hamtad: 2026-10-24T07:13:38+00:00
-konverterad: 2026-10-24T07:13:41+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:36:47+00:00
+konverterad: 2026-11-06T21:36:50+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -329,36 +329,48 @@ Vissa väljare syns inte i den
 
 <!-- sida 12 -->
 
-listor?                              digitala väljarförteckningen. Det
-behöver inte betyda att de inte
+listor?
+
 Om ett parti som deltar i valet
-har rösträtt. Informera era
+
 har flera kandidatlistor bör
-röstmottagare om vad de kan
 valnämnden lägga ut samtliga
-göra när detta händer.
+
 namnvalsedlar som partiet
-Läs hela nyheten på länken >
 lämnar in till
 röstmottagningsstället. FAQ
+
 uppdaterad här Besluta om
 valsedlarnas ordning i
+
 valsedelställen | Valcentralen
 och för röstmottagare här:
 Genomför röstmottagning i
+
 röstningslokal | Valcentralen
+
+digitala väljarförteckningen. Det
+behöver inte betyda att de inte
+
+har rösträtt. Informera era
+röstmottagare om vad de kan
+
+göra när detta händer.
+
+Läs hela nyheten på länken >
 
 Testmiljön     till demopaketet       stängs
 
 Förtidsröstningen har börjat. Därför kommer vi från och med nu att stänga den
+
 digitala demomiljön som användes för demopaketet.
 
-▪ Sidan på Valcentralen som beskriver hur man kan öva med demopaketet
+▪  Sidan på Valcentralen som beskriver hur man kan öva med demopaketet
 innehåller numera endast information om att testmiljön är stängd.
 
-▪ Om ni har behov att utbilda fler röstmottagare och vill visa hur systemet
-ser ut finns beskrivande skisser upplagda i Valid under Arbetsmaterial. Ni
+▪  Om ni har behov att utbilda fler röstmottagare och vill visa hur systemet
 
+ser ut finns beskrivande skisser upplagda i Valid under Arbetsmaterial. Ni
 kan också visa dem live under röstmottagningen.
 
 <!-- sida 13 -->
@@ -452,33 +464,42 @@ samband med att röstmottagarna testar sin behörighet.
 <!-- sida 16 -->
 
 Kontrollera att era röstmottagare använder rätt länk:
-
 https://digital.val.se/min-behorighet
 
-Fel  i QR-koder     till             Deltagande
+Fel  i QR-koder    till              Deltagande
 
 informationssidor                    partier   –
 
-på  val.se   nu                      uppdatering       på
+på  val.se  nu                       uppdatering      på
 
 åtgärdade                            val.se
 
-QR-koder till informationssidor      Vi har tidigare publicerat
+QR-koder till informationssidor
+på val.se, som ej fungerade har
 
-på val.se, som ej fungerade har      nyheten När vet vi vilka
-bytts ut. Använd de                  partier som deltar i valet och
+bytts ut. Använd de
+uppdaterade koderna i ert
 
-uppdaterade koderna i ert            får lägga ut valsedlar? |
-informationsmaterial.                Valcentralen. Handläggning
-pågår dock fortfarande av sent
+informationsmaterial.
+
 Läs hela nyheten på länken >
+
+Vi har tidigare publicerat
+nyheten När vet vi vilka
+
+partier som deltar i valet och
+får lägga ut valsedlar? |
+
+Valcentralen. Handläggning
+pågår dock fortfarande av sent
 inkomna ärenden.
 
 Ni kan ni läsa mer om antalet
 anmälda partier här: Fler
-anmälda partier än någonsin
 
+anmälda partier än någonsin
 deltar i årets val |
+
 Valmyndigheten.
 
 <!-- sida 17 -->

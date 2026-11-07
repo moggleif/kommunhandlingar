@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f13376/1747201677
 sha256: 620c7b278cca90862a078405426dbf3c9f26fbfe1439a3d7bfdf1fea0fa4da23
 bytes: 5183987
 sidor: 361
-hamtad: 2026-10-24T07:11:41+00:00
-konverterad: 2026-10-24T07:12:24+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:34:20+00:00
+konverterad: 2026-11-06T21:35:18+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -374,36 +374,61 @@ dagar före valdagen meddela den
 centrala valmyndigheten var och
 när röstning inom kommunen kan
 ske.
+
 5 kap.
 2 §
-Svenska medborgare som inte Svenska medborgare som inte
-längre är folkbokförda här i landet längre är folkbokförda här i landet
-skall tas upp i röstlängd under tio år ska tas upp i röstlängd under tio år
-från den dag folkbokföringen upp- från den dag folkbokföringen upp-
-hörde. Därefter skall de, för tio år i hörde. Därefter ska de, för tio
-sänder, tas med i röstlängden år i sänder, tas upp i röstlängd om
-endast om de skriftligen hos de anmäler sig skriftligen hos
-Skatteverket har anmält sin adress. Skatteverket. En anmälan om ny
+
+Svenska medborgare som inte
+längre är folkbokförda här i landet
+skall tas upp i röstlängd under tio år
+från den dag folkbokföringen upp-
+hörde. Därefter skall de, för tio år i
+sänder, tas med i röstlängden
+endast om de skriftligen hos
+Skatteverket har anmält sin adress.
+
+Om den centrala valmyndigheten
+vid val till riksdagen eller Europa-
+parlamentet senast dagen före val-
+dagen tar emot en röst från en
+svensk medborgare som inte längre
+är folkbokförd här i landet och som
+inte är upptagen i röstlängd, skall
+myndigheten lägga till väljaren i
+röstlängden. Rösten skall alltid
+anses som en anmälan enligt första
+stycket, även om den tagits emot
+senare än dagen före valdagen.
+
+Svenska medborgare som inte
+längre är folkbokförda här i landet
+ska tas upp i röstlängd under tio år
+från den dag folkbokföringen upp-
+hörde. Därefter ska de, för tio
+år i sänder, tas upp i röstlängd om
+de anmäler sig skriftligen hos
+Skatteverket. En anmälan om ny
 utlandsadress ska anses som en
 anmälan om att tas upp i röstlängd.
-Om den centrala valmyndigheten Om den centrala valmyndigheten
-vid val till riksdagen eller Europa- vid val till riksdagen eller Europa-
-parlamentet senast dagen före val- parlamentet senast dagen före val-
-dagen tar emot en röst från en dagen tar emot en röst från en
-svensk medborgare som inte längre svensk medborgare som inte längre
-är folkbokförd här i landet och som är folkbokförd här i landet och som
-inte är upptagen i röstlängd, skall inte är upptagen i röstlängd, ska
-myndigheten lägga till väljaren i myndigheten lägga till väljaren i
-röstlängden. Rösten skall alltid röstlängden. Rösten ska alltid anses
-anses som en anmälan enligt första som en anmälan enligt första
-stycket, även om den tagits emot stycket, även om den tagits emot
-senare än dagen före valdagen. senare än dagen före valdagen.
+Om den centrala valmyndigheten
+vid val till riksdagen eller Europa-
+parlamentet senast dagen före val-
+dagen tar emot en röst från en
+svensk medborgare som inte längre
+är folkbokförd här i landet och som
+inte är upptagen i röstlängd, ska
+myndigheten lägga till väljaren i
+röstlängden. Rösten ska alltid anses
+som en anmälan enligt första
+stycket, även om den tagits emot
+senare än dagen före valdagen.
 Om en kommun i samband med
 röstmottagning vid val till riks-
 dagen eller Europaparlamentet i en
 röstningslokal tar emot en röst från
 en svensk medborgare som inte
-3 Senaste lydelse 2018:28.                         7
+
+3 Senaste lydelse 2018:28.                          7
 
 <!-- sida 11 -->
 
@@ -414,27 +439,45 @@ kommunen snarast möjligt
 underrätta den centrala
 valmyndigheten som därefter ska
 lägga till väljaren i röstlängden.
+
 8 §4
 Den centrala valmyndigheten ska upprätta ett röstkort för varje väljare. För
+
 väljare som inte har någon känd adress eller som inte är folkbokförda här
 i landet ska det upprättas röstkort bara om de begär det.
+
 Röstkort som avses i första stycket ska skickas ut i så god tid att de kan
+
 beräknas vara väljarna tillhanda senast 18 dagar före valdagen. Vid extra
 val och omval ska röstkorten i stället skickas ut i så god tid att de kan
+
 beräknas vara väljarna tillhanda senast 10 dagar före valdagen.
-För varje väljare som inte är folk- För varje väljare som inte är folk-
-bokförd här i landet ska den bokförd här i landet ska den
-centrala valmyndigheten upprätta centrala valmyndigheten upprätta
-ett utlandsröstkort. Sådana röstkort ett utlandsröstkort. Sådana röstkort
-ska skickas till väljarna senast 50 ska skickas till väljarna 45 dagar
-dagar före valdagen. Vid extra val före valdagen. Röstkort som skickas
-och omval ska röstkorten i stället som postförsändelse ska dock
-skickas så snart det är möjligt sedan skickas till väljarna senast 50
-det har beslutats vilken dag som ska dagar före valdagen. Vid extra val
-vara valdag.         och omval ska röstkorten i stället
+
+För varje väljare som inte är folk-
+bokförd här i landet ska den
+centrala valmyndigheten upprätta
+ett utlandsröstkort. Sådana röstkort
+ska skickas till väljarna senast 50
+dagar före valdagen. Vid extra val
+och omval ska röstkorten i stället
 skickas så snart det är möjligt sedan
 det har beslutats vilken dag som ska
 vara valdag.
+
+För varje väljare som inte är folk-
+bokförd här i landet ska den
+centrala valmyndigheten upprätta
+ett utlandsröstkort. Sådana röstkort
+ska skickas till väljarna 45 dagar
+före valdagen. Röstkort som skickas
+som postförsändelse ska dock
+skickas till väljarna senast 50
+dagar före valdagen. Vid extra val
+och omval ska röstkorten i stället
+skickas så snart det är möjligt sedan
+det har beslutats vilken dag som ska
+vara valdag.
+
 7 kap.
 1 §
 Valmyndigheter och de utlands-
@@ -456,32 +499,55 @@ mottagarna.
 
 <!-- sida 12 -->
 
-Väljare som på grund av Väljare som på grund av
-funktionsnedsättning eller liknande funktionsnedsättning eller liknande
-inte själva kan göra i ordning sina inte själva kan göra i ordning sina
-röster, ska dock på begäran få hjälp röster, ska dock på begäran få hjälp
-med detta av röstmottagarna i den med detta av röstmottagarna i den
-utsträckning som behövs. En sådan utsträckning som behövs. En sådan
-väljare får också anlita någon väljare får också anlita ytterligare
-annan person som hjälper honom en person som hjälper honom eller
-eller henne vid röstningen. henne vid röstningen.
+Väljare som på grund av
+funktionsnedsättning eller liknande
+inte själva kan göra i ordning sina
+röster, ska dock på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita någon
+annan person som hjälper honom
+eller henne vid röstningen.
+
+Väljare som på grund av
+funktionsnedsättning eller liknande
+inte själva kan göra i ordning sina
+röster, ska dock på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita ytterligare
+en person som hjälper honom eller
+henne vid röstningen.
+
 3 a §6
 Väljare som på grund av sjukdom, funktionsnedsättning eller ålder inte
+
 själva kan ta sig till ett röstmottagningsställe får om de begär det lämna
+
 sina valsedlar till ambulerande röstmottagare.
 Detsamma gäller väljare som är
 intagna
+
+Vid röstmottagning enligt första
+stycket gäller i tillämpliga delar
+bestämmelserna om röstning och
+röstmottagning i detta kapitel och
+8 kap. och bestämmelserna om
+röstmottagning i röstningslokal i
+10 kap.
+
 1\. i polisarrest, eller
 2\. på en vårdinrättning som
 begränsar väljarens möjlighet att
 rösta i en röstningslokal.
-Vid röstmottagning enligt första Vid röstmottagning enligt första
-stycket gäller i tillämpliga delar och andra styckena gäller i tillämp-
-bestämmelserna om röstning och liga delar bestämmelserna om röst-
-röstmottagning i detta kapitel och ning och röstmottagning i detta
-8 kap. och bestämmelserna om kapitel och 8 kap. och
-röstmottagning i röstningslokal i bestämmelserna om röstmottag-
-10 kap.              ning i röstningslokal i 10 kap.
+Vid röstmottagning enligt första
+och andra styckena gäller i tillämp-
+liga delar bestämmelserna om röst-
+ning och röstmottagning i detta
+kapitel och 8 kap. och
+bestämmelserna om röstmottag-
+ning i röstningslokal i 10 kap.
+
 8 kap.
 2 a §7
 Väljare som på grund av funktions- Väljare som på grund av funktions-
@@ -494,6 +560,7 @@ den utsträckning som behövs. En den utsträckning som behövs. En
 sådan väljare får också anlita någon sådan väljare får också anlita ytter-
 annan person som hjälper honom ligare en person som hjälper
 eller henne med detta. honom eller henne med detta.
+
 10 kap.
 3 §
 Väljare eller bud skall till röst- Väljare eller bud ska lämna
@@ -501,7 +568,7 @@ mottagarna lämna väljarens röst- väljarens röstkort till röst-
 kort. Detta behövs dock inte mottagarna. Detta behövs dock inte
 
 6 Senaste lydelse 2014:301.
-7 Senaste lydelse 2021:1328.                       9
+7 Senaste lydelse 2021:1328.                        9
 
 <!-- sida 13 -->
 
@@ -513,20 +580,37 @@ en utlandsmyndighet. en utlandsmyndighet, eller
 3\. vid röstmottagning i sådana
 situationer som avses i 5 kap. 2 §
 tredje stycket.
+
 4 §
-I de anteckningar som förs enligt I de anteckningar som förs enligt
-7 § skall det anges hur väljarens 7 § ska det anges hur väljarens
-eller budets identitet har eller budets identitet har
-kontrollerats.       kontrollerats.
-De valkuvert och ytterkuvert för De valkuvert och ytterkuvert för
-budröst som röstmottagarna tar budröst som röstmottagarna tar
-emot skall, i väljarens eller budets emot ska, i väljarens eller budets
-närvaro, läggas i fönsterkuvert till- närvaro, läggas i ett fönsterkuvert
-sammans med väljarens röstkort tillsammans med väljarens röstkort,
-eller, om röstmottagningen sker hos eller, då röstkort inte behövs enligt
-en utlandsmyndighet, ett adress- 3 §, tillsammans med ett adresskort.
-kort. Fönsterkuvertet skall därefter Fönsterkuvertet ska därefter
+
+I de anteckningar som förs enligt
+7 § skall det anges hur väljarens
+eller budets identitet har
+kontrollerats.
+De valkuvert och ytterkuvert för
+budröst som röstmottagarna tar
+emot skall, i väljarens eller budets
+närvaro, läggas i fönsterkuvert till-
+sammans med väljarens röstkort
+eller, om röstmottagningen sker hos
+en utlandsmyndighet, ett adress-
+kort. Fönsterkuvertet skall därefter
+
+I de anteckningar som förs enligt
+7 § ska det anges hur väljarens
+eller budets identitet har
+kontrollerats.
+De valkuvert och ytterkuvert för
+budröst som röstmottagarna tar
+emot ska, i väljarens eller budets
+närvaro, läggas i ett fönsterkuvert
+tillsammans med väljarens röstkort,
+eller, då röstkort inte behövs enligt
+3 §, tillsammans med ett adresskort.
+Fönsterkuvertet ska därefter
+
 klistras igen.       klistras igen.
+
 5 §
 De fönsterkuvert som har gjorts i De fönsterkuvert som har gjorts i
 ordning i röstningslokaler som en ordning i röstningslokaler som en
@@ -541,7 +625,7 @@ ning i vallokalen går ut. röstmottagning i vallokalen går ut.
 De fönsterkuvert som har gjorts i De fönsterkuvert som har gjorts i
 ordning hos en utlandsmyndighet ordning hos en utlandsmyndighet
 skall skickas till den centrala ska skickas till den centrala
-valmyndigheten.      valmyndigheten.
+valmyndigheten.       valmyndigheten.
 Vid röstmottagning som avses i
 5 kap. 2 § tredje stycket ska
 fönsterkuvert som har gjorts i
@@ -6056,7 +6140,6 @@ Lagändringarna föreslås träda i kraft den 1 juni 2025.
 <!-- sida 124 -->
 
 Bilaga 5
-
 Promemorians lagförslag
 
 Förslag till lag om ändring i vallagen (2005:837)
@@ -6067,30 +6150,55 @@ ha följande lydelse
 Nuvarande lydelse     Föreslagen lydelse
 
 7 kap.
+
 3 §
+
 Varje väljare ska vara ensam bakom en valskärm och själv göra i ordning
 sina röster där. Därefter ska väljaren lämna valkuverten till röstmottagarna.
 Väljare som på grund av Väljare som på grund av
-funktionsnedsättning eller liknande funktionsnedsättning eller liknande
-inte själva kan göra i ordning sina inte själva kan göra i ordning sina
-röster, ska dock på begäran få hjälp röster, ska dock på begäran få hjälp
-med detta av röstmottagarna i den med detta av röstmottagarna i den
-utsträckning som behövs. En sådan utsträckning som behövs. En sådan
-väljare får också anlita någon annan väljare får också anlita ytterligare en
-person som hjälper honom eller person som hjälper honom eller
-henne vid röstningen. henne vid röstningen.
+
+funktionsnedsättning eller liknande
+inte själva kan göra i ordning sina
+röster, ska dock på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita någon annan
+person som hjälper honom eller
+henne vid röstningen.
+
+funktionsnedsättning eller liknande
+inte själva kan göra i ordning sina
+röster, ska dock på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita ytterligare en
+person som hjälper honom eller
+henne vid röstningen.
+
 8 kap.
 2 a §
 Väljare som på grund av Väljare som på grund av
-funktionsnedsättning eller liknande funktionsnedsättning eller liknande
-inte själva kan ta sina valsedlar på den inte själva kan ta sina valsedlar på den
-avskärmade plats där valsedlarna avskärmade plats där valsedlarna
-finns utlagda, ska på begäran få hjälp finns utlagda, ska på begäran få hjälp
-med detta av röstmottagarna i den med detta av röstmottagarna i den
-utsträckning som behövs. En sådan utsträckning som behövs. En sådan
-väljare får också anlita någon annan väljare får också anlita ytterligare en
-person som hjälper honom eller person som hjälper honom eller
-henne med detta.      henne med detta.
+
+funktionsnedsättning eller liknande
+inte själva kan ta sina valsedlar på den
+avskärmade plats där valsedlarna
+finns utlagda, ska på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita någon annan
+person som hjälper honom eller
+henne med detta.
+
+funktionsnedsättning eller liknande
+inte själva kan ta sina valsedlar på den
+avskärmade plats där valsedlarna
+finns utlagda, ska på begäran få hjälp
+med detta av röstmottagarna i den
+utsträckning som behövs. En sådan
+väljare får också anlita ytterligare en
+person som hjälper honom eller
+henne med detta.
+
 Denna lag träder i kraft den 1 juni 2025.
 
 121

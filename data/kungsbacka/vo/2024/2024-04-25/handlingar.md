@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b49f86518ecb777ac81e4d9/1713775126
 sha256: a21dd894fcf99b4f346c1bfdbab463555f09e0ec07bd180fa0ae42bfb34ed6b8
 bytes: 11026339
 sidor: 62
-hamtad: 2026-10-24T06:43:13+00:00
-konverterad: 2026-10-24T06:43:33+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T20:56:25+00:00
+konverterad: 2026-11-06T20:56:47+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -255,44 +255,77 @@ Point
 
 <!-- sida 9 -->
 
-Sammanfattning                                                                                            Point
+Sammanfattning
+
+Av de 66 brukare som ställde som deltog var det 38 procent som idag inte utnyttjar
+
+möjligheten att beställa matvaror eller färdigrätter.
+Nio av tio kunder tycker att antalet färdigrätter de kan välja med möter deras behov
+
+och tre av fyra att det möter deras önskemål. Det är på ungefär samma nivå som
+2023\.
+
+Brukarna tar oftast del av hela eller en stor del av utbudet vid digital beställning av
+
+färdiga maträtter. Endast 7 procent tar inte del av hela utbudet, vilket är en tydlig
+minskning jämfört med för ett år sedan.
+
+Nästan alla brukare är också med och väljer vilka färdiga maträtter de vill ha vid
+digital beställning. Det är tydligt att det är mycket viktigt för brukarna att få vara
+
+delaktiga vid beställningen av dagligvaror och färdiga maträtter.
+
+Hemtjänsten är oftast med och hjälper till och gör beställningen. Andelen som gör
+beställningen själv, eller med hjälp av en anhörig har dock ökat från 6 till 22 procent.
+
+Runt hälften av de brukare som beställer färdigrätter eller dagligvaror känner sig
+inte trygga med att själva beställa. Oftast för att man inte är digitalt mogen.
+
+Brukarna ser både för- och nackdelar med de digitala beställningarna. Den allra
+
+viktigaste fördelen är man inte behöver ta sig till en butik när man har svårt att gå
+eller röra sig. Många tycker också det är bekvämt att få hem tunga bulkvaror och
+
+komplettera med att handla i butiken.
+En tydlig nackdel med metoden är man inte kan se och känna på varorna, framför
+
+allt färskvaror.
+
+Point
 E         (e-post borttagen)
 W         point.nu
 
-Av de 66 brukare som ställde som deltog var det 38 procent som idag inte utnyttjar Ett klagomål många har på tjänsten är att det saknas varor i beställningssortimentet
+Ett klagomål många har på tjänsten är att det saknas varor i beställningssortimentet
 
-möjligheten att beställa matvaror eller färdigrätter.           eller att man inte får den vara man beställt.
+eller att man inte får den vara man beställt.
 
-Nio av tio kunder tycker att antalet färdigrätter de kan välja med möter deras behov Ett önskemål som flera brukare tog upp var att upphandla varor lokalt i
-och tre av fyra att det möter deras önskemål. Det är på ungefär samma nivå som Kungsbacka, både av miljöskäl och för att gynna lokala handlare.
+Ett önskemål som flera brukare tog upp var att upphandla varor lokalt i
+Kungsbacka, både av miljöskäl och för att gynna lokala handlare.
 
-2023\.
 Slutsatser
-Brukarna tar oftast del av hela eller en stor del av utbudet vid digital beställning av
-Systemet med digitala matbeställningar fungerar överlag bra och de flesta brukare
-färdiga maträtter. Endast 7 procent tar inte del av hela utbudet, vilket är en tydlig
-är nöjda. Utbudet och sortimentet av maträtter kan slipas på, exempelvis mer
-minskning jämfört med för ett år sedan.
-färska grönsaker eller att rätter byts ut oftare. Vad gäller livsmedel finns brister i
-Nästan alla brukare är också med och väljer vilka färdiga maträtter de vill ha vid utbudet, framför allt att varor saknas vid beställning eller leverans. Mindre problem
-digital beställning. Det är tydligt att det är mycket viktigt för brukarna att få vara med tillgängligheten skulle kunna öka nöjdheten ytterligare.
-delaktiga vid beställningen av dagligvaror och färdiga maträtter.
-För brukare som kan ta sig till affären är det en bra tjänst att kunna bestämma hem
-Hemtjänsten är oftast med och hjälper till och gör beställningen. Andelen som gör tyngre varor samtidigt som man kan handla färskvaror i butiken och komma ut och
-beställningen själv, eller med hjälp av en anhörig har dock ökat från 6 till 22 procent. få det sociala sammanhanget.
-Runt hälften av de brukare som beställer färdigrätter eller dagligvaror känner sig Andelen användare som själva kan beställda kommer kunna öka i takt med att den
 
-inte trygga med att själva beställa. Oftast för att man inte är digitalt mogen. digitala mognaden ökar i äldre åldersgrupper. De äldre brukarna är dock nöjda med
+Systemet med digitala matbeställningar fungerar överlag bra och de flesta brukare
+är nöjda. Utbudet och sortimentet av maträtter kan slipas på, exempelvis mer
+
+färska grönsaker eller att rätter byts ut oftare. Vad gäller livsmedel finns brister i
+utbudet, framför allt att varor saknas vid beställning eller leverans. Mindre problem
+med tillgängligheten skulle kunna öka nöjdheten ytterligare.
+
+För brukare som kan ta sig till affären är det en bra tjänst att kunna bestämma hem
+
+tyngre varor samtidigt som man kan handla färskvaror i butiken och komma ut och
+få det sociala sammanhanget.
+
+Andelen användare som själva kan beställda kommer kunna öka i takt med att den
+
+digitala mognaden ökar i äldre åldersgrupper. De äldre brukarna är dock nöjda med
 att få hjälp av hemtjänsten eller anhöriga och har ingen vilja att lära sig modern
-Brukarna ser både för- och nackdelar med de digitala beställningarna. Den allra
 teknik. Det är viktigt att personalen kan språket bra och hjälpa brukarna få en
-viktigaste fördelen är man inte behöver ta sig till en butik när man har svårt att gå
+
 överblick över vilket sortiment som finns, vilket kan vara en svårighet.
-eller röra sig. Många tycker också det är bekvämt att få hem tunga bulkvaror och
-komplettera med att handla i butiken.                           Om det finns möjlighet att upphandla lokala handlare eller lokala varor kan det öka
+
+Om det finns möjlighet att upphandla lokala handlare eller lokala varor kan det öka
 den positiva inställningen till tjänsten ytterligare.
-En tydlig nackdel med metoden är man inte kan se och känna på varorna, framför
-allt färskvaror.
 
 <!-- sida 10 -->
 
@@ -515,64 +548,114 @@ sådant,                        jag          vill        ha          den        
 
 <!-- sida 18 -->
 
-Berättande         svar:   Varför     är  man    inte                                                     Point
+Berättande        svar:    Varför    är  man     inte
+
+trygg    att  beställa     själv
+
+‒ Jag kan inte göra det för jag har dåligt minne.
+
+‒ Jag vill ha hjälp för jag är 95 år gammal.
+
+‒ Jag är inte längre bekväm med det digitala.
+
+‒ Jag klarar inte det digitala och ser och hör dåligt.
+
+‒ Det fungerar inte, måste ha hjälp med det.
+
+‒ Jag har inte den möjligheten, jag saknar padda. Jag är nöjd som det fungerar nu.
+‒ Jag kan inte det här med det digitala och datorer.
+
+‒ Jag är så rädd för att göra fel för jag kan inte datorer och sådant, jag vill ha den
+
+hjälpen.
+
+‒ Jag kan inte sköta sådant själv och saknar Ipad och dator.
+‒ Jag har inte erfarenhet av det digitala eller utrustningen.
+
+‒ Jag vill att det ska skrivas upp av någon som jag vet att varorna blir rätt.
+
+Point
 E         (e-post borttagen)
 W         point.nu
-trygg    att   beställa     själv
 
-‒ Jag kan inte göra det för jag har dåligt minne.               ‒ Jag är så dåligt på det digitala.
+‒ Jag är så dåligt på det digitala.
 
-‒ Jag vill ha hjälp för jag är 95 år gammal.                    ‒ Jag tycker det är bra som det är.
+‒ Jag tycker det är bra som det är.
 
-‒ Jag är inte längre bekväm med det digitala.                   ‒ Jag vill inte göra det, jag är allergisk mot det digitala.
+‒ Jag vill inte göra det, jag är allergisk mot det digitala.
 
-‒ Jag klarar inte det digitala och ser och hör dåligt.          ‒ Jag känner mig obekväm med det för jag saknar kunskapen.
+‒ Jag känner mig obekväm med det för jag saknar kunskapen.
 
-‒ Det fungerar inte, måste ha hjälp med det.                    ‒ Jag är synskadad så hemtjänsten måste berätta vad det finns för mat och vad den
+‒ Jag är synskadad så hemtjänsten måste berätta vad det finns för mat och vad den
 innehåller.
-‒ Jag har inte den möjligheten, jag saknar padda. Jag är nöjd som det fungerar nu.
+
 ‒ Det är bra att ha hjälp, jag har inte riktigt kunskapen för det.
-‒ Jag kan inte det här med det digitala och datorer.
+
 ‒ Har för dålig syn för att beställa själv och inte insatt i det.
-‒ Jag är så rädd för att göra fel för jag kan inte datorer och sådant, jag vill ha den
-hjälpen.                                                      ‒ För synens skull, jag ser inte.
 
-‒ Jag kan inte sköta sådant själv och saknar Ipad och dator.    ‒ Då vet jag inte vad jag får.
+‒ För synens skull, jag ser inte.
 
-‒ Jag har inte erfarenhet av det digitala eller utrustningen.   ‒ Jag har aldrig kommit så långt.
+‒ Då vet jag inte vad jag får.
 
-‒ Jag vill att det ska skrivas upp av någon som jag vet att varorna blir rätt. ‒ Jag kan inte svara på det.
+‒ Jag har aldrig kommit så långt.
+‒ Jag kan inte svara på det.
 
 <!-- sida 19 -->
 
-Berättande         svar:   Vad    skulle   krävas     för                                                 Point
+Berättande        svar:    Vad    skulle   krävas     för
+
+att  börja    beställa     själv
+
+‒ Nej, det vill jag inte, jag förstår mig inte på det.
+
+‒ Jag får ju pärmen att titta i, men jag vet inte om det finns något som kan hjälpa
+mig, det kan jag inte svara på.
+
+‒ Det vet jag inte.
+
+‒ Jag måste ha personlig hjälp, eller att man kan prata med maskinen så den
+
+beställer åt en.
+‒ Det tror jag inte.
+
+‒ Jag vill ha det som det är nu.
+
+‒ Nej, jag vill inte själv.
+
+‒ Jag har ingen dator hemma och jag vill inte ha det.
+
+‒ Jag vet inte, jag har aldrig provat själv.
+
+‒ Min son skriver en önskelista i samråd med mig sedan får hemtjänsten skriva av
+lappen och beställa med sin padda. Jag kan inte göra något sådant själv.
+
+Point
 E         (e-post borttagen)
 W         point.nu
-att   börja   beställa     själv
 
-‒ Nej, det vill jag inte, jag förstår mig inte på det.          ‒ Jag har inte utrustningen till att beställa och jag vet inte hur man gör. Jag skriver en
+‒ Jag har inte utrustningen till att beställa och jag vet inte hur man gör. Jag skriver en
 
 lista så får hemtjänsten beställa åt mig, vi tittar även gemensamt i kylen så vi
-‒ Jag får ju pärmen att titta i, men jag vet inte om det finns något som kan hjälpa
 märker vad som saknas så jag får rätt.
-mig, det kan jag inte svara på.
+
 ‒ Jag tror inte jag klarar det.
-‒ Det vet jag inte.
+
 ‒ Nej, jag tror inte det finns något.
-‒ Jag måste ha personlig hjälp, eller att man kan prata med maskinen så den
-beställer åt en.                                              ‒ Jag behöver inte.
-‒ Det tror jag inte.                                            ‒ Då hade jag fått gå en datorutbildning eller likande.
 
-‒ Jag vill ha det som det är nu.                                ‒ Nej, jag kan inte klara det själv.
-‒ Nej, jag vill inte själv.                                     ‒ Jag tror inte något saknas, jag saknar erfarenheten av det digitala.
+‒ Jag behöver inte.
 
-‒ Jag har ingen dator hemma och jag vill inte ha det.           ‒ Nej, de har läsplatta med sig och läser för mig.
+‒ Då hade jag fått gå en datorutbildning eller likande.
 
-‒ Jag vet inte, jag har aldrig provat själv.                    ‒ Då jag inte ser så kan jag inte, jag behöver hjälp att beställa. Jag tror inte det finns
+‒ Nej, jag kan inte klara det själv.
+‒ Jag tror inte något saknas, jag saknar erfarenheten av det digitala.
+
+‒ Nej, de har läsplatta med sig och läser för mig.
+
+‒ Då jag inte ser så kan jag inte, jag behöver hjälp att beställa. Jag tror inte det finns
 
 några hjälpmedel som kan hjälpa mig.
-‒ Min son skriver en önskelista i samråd med mig sedan får hemtjänsten skriva av
-lappen och beställa med sin padda. Jag kan inte göra något sådant själv. ‒ Det vet jag inte. Det är besvärligt att beställa själv.
+‒ Det vet jag inte. Det är besvärligt att beställa själv.
+
 ‒ Jag vet inte hur man kommer in, koder och sådant, jag är inte riktigt hemma i det
 
 digitala men jag hade gärna velat göra det.
@@ -581,23 +664,33 @@ digitala men jag hade gärna velat göra det.
 
 <!-- sida 20 -->
 
-Berättande         svar:   Fördelar                                                                       Point
+Berättande        svar:    Fördelar                                                                       Point
 E         (e-post borttagen)
 W         point.nu
 
 De allra flesta brukare ser fördelar med de digitala beställningarna, endast 10
 
-Fördelar med att inte gå till butik? (%)
 procent kan inte se nån fördel för dem.
-Bas: Beställer färdigrätter och/eller dagligvaror (n: 41)
+
 Den allra viktigaste fördelen är man inte behöver ta sig till en butik när man
-har svårt att gå eller röra sig, kanske inte orka eller sitter i rullstol. Många Fysiskt svårt att ta mig till butik 51
+har svårt att gå eller röra sig, kanske inte orka eller sitter i rullstol. Många
+
 nämner också att det är tunga lyft. Ibland väljer man att köpa vissa varor i
-Slipper lyfta tunga varor 17
 fysisk butik, men tyngre varor via digital beställning.
 
-Andra fördelar som nämns är att man inte behöver utnyttja färdtjänst, ge sig Långt till butik, har inte bil 10
+Andra fördelar som nämns är att man inte behöver utnyttja färdtjänst, ge sig
+
 ut i dåligt väder och köa i butikskassan.
+
+Fördelar med att inte gå till butik? (%)
+Bas: Beställer färdigrätter och/eller dagligvaror (n: 41)
+
+Fysiskt svårt att ta mig till butik   51
+
+Slipper lyfta tunga varor 17
+
+Långt till butik, har inte bil 10
+
 Slipper använda, vänta på färdtjänst 5
 
 Krångligt att ta sig till butik 2
@@ -622,101 +715,170 @@ bära                och             får          det            hemkört.”
 
 <!-- sida 22 -->
 
-Berättande         svar:   Fördelar      med     att  inte                                                Point
+Berättande        svar:    Fördelar     med     att  inte
+
+behöva      gå   till en  butik   för   att  handla
+
+‒ Jag lider av otroligt dålig rörelseförmåga så jag kan bara vistas i hemmet på grund
+
+av ohälsa.
+‒ Det känns tryggt att inte behöva ta sig till butiken själv.
+
+‒ Det är bra att man kan handla det mesta och tyngsta digitalt, så kan man göra dom
+
+små inköpen själv.
+
+‒ Det känns inte tryggare, vi vill ju hellre gå till en butik där vi kan se varorna vi vill ha.
+‒ Jag orkar inte gå i butiker och jag kan inte lyfta eller bra, jag är 93 år med dålig
+
+rygg.
+
+‒ Nej jag ser väl inga direkt fördelar direkt.
+
+‒ Nej det gör det egentligen inte utan det är mer av praktiska skäl för att jag bor så
+långt från butiken och måste åka kollektivt.
+
+‒ Nej hade jag bara haft en bil hade jag kört och handlat själv. Jag får gå för långt om
+jag ska handla själv.
+
+‒ Ja det är väldigt bekvämt att få denna hjälpen då det är krångligt för oss att ta oss
+
+till butiken, dagligvarorna köper våra barn till oss men maträtterna är bra.
+
+‒ Det bästa vore ju att kunna gå själv och se varan, men när man blir äldre får man
+acceptera att man inte kan handla.
+
+Point
 E         (e-post borttagen)
 W         point.nu
-behöva       gå  till en  butik    för  att  handla
 
-‒ Jag lider av otroligt dålig rörelseförmåga så jag kan bara vistas i hemmet på grund ‒ Vädret och orken är dom huvudsakliga anledningarna till att jag inte vill handla i
+‒ Vädret och orken är dom huvudsakliga anledningarna till att jag inte vill handla i
 
-av ohälsa.                                                      butik.
+butik.
 
-‒ Det känns tryggt att inte behöva ta sig till butiken själv.   ‒ Det är ju så tungt med en gång, jag orkar inte bära. Och jag upplever att jag får gå
+‒ Det är ju så tungt med en gång, jag orkar inte bära. Och jag upplever att jag får gå
 alldeles för mycket i butiken. När jag handlar får jag ibland vänta upp till 45 minuter
-‒ Det är bra att man kan handla det mesta och tyngsta digitalt, så kan man göra dom
 på bilen och vid butiken finns inget att sitta på förutom på utsidan men det är ju
-små inköpen själv.
+
 ofta väldigt kallt och blött.
-‒ Det känns inte tryggare, vi vill ju hellre gå till en butik där vi kan se varorna vi vill ha.
+
 ‒ Inget jag tänkte på.
-‒ Jag orkar inte gå i butiker och jag kan inte lyfta eller bra, jag är 93 år med dålig
+
 ‒ För mig är det, det för jag har så svårt för att gå.
-rygg.
 ‒ Det har inte med trygghet att göra utan vad jag känner för, för tillfället.
-‒ Nej jag ser väl inga direkt fördelar direkt.
+
 ‒ Jag kan inte gå till butik på grund av att jag inte kan gå och inte kan bära.
-‒ Nej det gör det egentligen inte utan det är mer av praktiska skäl för att jag bor så
-långt från butiken och måste åka kollektivt.                  ‒ Det är ju väldigt knepigt att handla när man är rullstolsbunden.
-‒ Nej hade jag bara haft en bil hade jag kört och handlat själv. Jag får gå för långt om ‒ Självklart eftersom jag är handikappad.
-jag ska handla själv.
+
+‒ Det är ju väldigt knepigt att handla när man är rullstolsbunden.
+
+‒ Självklart eftersom jag är handikappad.
+
 ‒ Ja absolut tryggare. Jag kan inte förflytta mig så jag sitter inne, kan inte ta mig ut
-‒ Ja det är väldigt bekvämt att få denna hjälpen då det är krångligt för oss att ta oss självständigt.
-till butiken, dagligvarorna köper våra barn till oss men maträtterna är bra.
+självständigt.
+
 ‒ Jag orkar och kan inte gå och handla, jag är för sjuk för det. Och jag behöver inte
-‒ Det bästa vore ju att kunna gå själv och se varan, men när man blir äldre får man det för min dotter hjälper mig.
-acceptera att man inte kan handla.
+
+det för min dotter hjälper mig.
 
 <!-- sida 23 -->
 
-Berättande         svar:   Fördelar      med     att  inte                                                Point
-E         (e-post borttagen)
-W         point.nu
-behöva       gå  till en  butik    för  att  handla
+Berättande        svar:    Fördelar     med     att  inte
 
-‒ Jag klarar inte av att ta mig till butiken så de kommer hit och hjälper mig med ‒ Det gör det, jag har opererat ljumsken så jag har svårt att röra mig själv.
+behöva      gå   till en  butik   för   att  handla
+
+‒ Jag klarar inte av att ta mig till butiken så de kommer hit och hjälper mig med
 
 pärmen.
-‒ Jag tycker om att gå till butiken. Skrymmande och tunga produkter är ju skönt att
-‒ Att bära hem tunga saker klarar inte min rygg.                  få hemlevererat.
+‒ Att bära hem tunga saker klarar inte min rygg.
 
-‒ Vill ju handla själv, känna och klämma på maten men risken med att trilla och ‒ Ja absolut. Jag går ju illa och har rullator. Jag tycker inte om köer eller att gå i stora
-likande så går det inte.                                        affärer.
+‒ Vill ju handla själv, känna och klämma på maten men risken med att trilla och
 
-‒ Jag vill göra som jag gör, det fungerar bra.                  ‒ Jag följer med mina döttrar ibland när dom handlar för att köpa mat jag saknar, jag
-vill gärna vara med och är glad att jag kan gå med ner till affären, men jag ser ju
+likande så går det inte.
+
+‒ Jag vill göra som jag gör, det fungerar bra.
 ‒ Jag har inte handlat på många år och det fungerar bra som det är nu. Jag kan inte
-inte så dom måste hjälpa mig och talar om för mig vad som finns och vad det
+
 ta mig nu när jag inte har någon bil, det fungerar inte.
-innehåller.
+
 ‒ Jag har mycket svårt att gå, jag går med rullator och har värk så jag kan inte.
-‒ I mitt fall känns det tryggare, jag är ju inte 20 år längre. Jag är inte så benägen att
+
 ‒ Det är jättebra att få varorna hem, en god service och jag är tacksam. Jag kan ju ta
-åka till ett varuhus.
 färdtjänsten och handla småsaker men jag kan inte handla något större och jag har
-‒ Ja det är klart att det är så. Jag är opererad och har protes i höften så kan inte
+
 ingen hjälp som vi hade förr.
-handla.
 ‒ Jag kan inte gå till butiken på grund av artros.
-‒ Som gammal och synskadad är det väldigt bra att man slipper bära och får det
+
 ‒ Jag kan inte alls gå till butiken, jag sitter i rullstol så jag kan inte alls förflytta mig
-hemkört till sig.
+
 själv. Jag håller mig hemma.
-‒ Vi har inga affärer här ute alls. Jag kan inte ta mig till affärer själv heller.
+
 ‒ Jag har sådana besvär att gå på grund av värk i mina fötter så jag kan inte gå och
-‒ Vi är helt oförmögna att ta oss till butiker.
 handla själv.
-‒ Nej, jag skulle vilja handla själv i butik, jag skulle få mer variation. Köpa det jag själv
+
 ‒ Det är så lätt att få maten för en vecka, så att jag har den hemma. Jag handlar
-vill äta, mer fisk och frukt.
 övrig mat själv i butiken, frukt och grönt och så.
+
+Point
+E         (e-post borttagen)
+W         point.nu
+
+‒ Det gör det, jag har opererat ljumsken så jag har svårt att röra mig själv.
+
+‒ Jag tycker om att gå till butiken. Skrymmande och tunga produkter är ju skönt att
+
+få hemlevererat.
+‒ Ja absolut. Jag går ju illa och har rullator. Jag tycker inte om köer eller att gå i stora
+
+affärer.
+
+‒ Jag följer med mina döttrar ibland när dom handlar för att köpa mat jag saknar, jag
+vill gärna vara med och är glad att jag kan gå med ner till affären, men jag ser ju
+
+inte så dom måste hjälpa mig och talar om för mig vad som finns och vad det
+innehåller.
+
+‒ I mitt fall känns det tryggare, jag är ju inte 20 år längre. Jag är inte så benägen att
+åka till ett varuhus.
+
+‒ Ja det är klart att det är så. Jag är opererad och har protes i höften så kan inte
+
+handla.
+‒ Som gammal och synskadad är det väldigt bra att man slipper bära och får det
+
+hemkört till sig.
+
+‒ Vi har inga affärer här ute alls. Jag kan inte ta mig till affärer själv heller.
+
+‒ Vi är helt oförmögna att ta oss till butiker.
+
+‒ Nej, jag skulle vilja handla själv i butik, jag skulle få mer variation. Köpa det jag själv
+vill äta, mer fisk och frukt.
 
 <!-- sida 24 -->
 
-Nackdel       att  inte   kunna     se  och                                                               Point
+Nackdel       att  inte  kunna      se  och                                                               Point
 E         (e-post borttagen)
 W         point.nu
-känna      på  varorna
+känna     på   varorna
 
 Den största nackdelen brukarna ser med de digitala beställningarna är man
 
-Nackdelar med att beställda digitalt? (%)
 inte kan se och känna på varorna själv, det gäller exempelvis varor som frukt,
-Bas: Beställer färdigrätter och/eller dagligvaror (n: 41)
 grönsaker och köttvaror.
-Vill se på/känna på varorna 29
+
 Den andra nackdelen som många nämner är att det kan saknas varor i
-beställningssortimentet, eller att man inte får den vara man beställt eller får Får inte det jag beställt, saknas varor 22
-en ersättningsvara.                                                    Svårt att se, överblicka utbudet 7
+
+beställningssortimentet, eller att man inte får den vara man beställt eller får
+en ersättningsvara.
+
+Nackdelar med att beställda digitalt? (%)
+Bas: Beställer färdigrätter och/eller dagligvaror (n: 41)
+
+Vill se på/känna på varorna 29
+Får inte det jag beställt, saknas varor 22
+
+Svårt att se, överblicka utbudet 7
+
 Saknar möten med människor 5
 
 Inte alltid färska varor 2
@@ -748,82 +910,133 @@ varorna,                          se         på          hållbarheten.”
 
 <!-- sida 26 -->
 
-Berättande         svar:   Nackdelar        med    att                                                    Point
-E         (e-post borttagen)
-W         point.nu
+Berättande        svar:    Nackdelar       med     att
+
 beställa     digitalt
 
-‒ Jag vill ju gärna se och känna på varan. Jag hade ju velat handla i butik. ‒ Man blir lite uppbunden till inköpet och leveransen, man måste vara hemma när
+‒ Jag vill ju gärna se och känna på varan. Jag hade ju velat handla i butik.
+
+‒ Nej det tycker jag inte.
+
+‒ Det är ju roligt att se varorna när man köper dem men annars tycker jag det kvittar.
+
+‒ Jag vet inte.
+
+‒ Varorna är inte färska, man kan inte se om grönskar och liknade är färska så jag
+köper bara hårda varor jag vågar inte köpa något annan.
+
+‒ Jag får ingen interaktion som man får när man går i affären. Jag får inte alltid det
+jag vill.
+
+‒ Nej absolut inte, jag får bra information och god hjälp.
+
+‒ Det är ju roligare att handla i butik.
+
+‒ Nej, jag ser inga nackdelar.
+
+‒ Nej, bara man får sina varor och det sköts väl och det finns ett stort utbud så jag
+kan välja det jag vill ha. Man vill ju ha vissa varor och märken som inte alltid finns.
+
+Dom hittar inte alltid det jag vill ha på paddan dom har med sig så det verkar vara
+ett dåligt system dom har.
+
+Point
+E         (e-post borttagen)
+W         point.nu
+
+‒ Man blir lite uppbunden till inköpet och leveransen, man måste vara hemma när
 
 dem kommer.
-‒ Nej det tycker jag inte.
+
 ‒ Hade jag varit frisk och kunnat gå hade jag handlar själv, det är underbart att få gå
-‒ Det är ju roligt att se varorna när man köper dem men annars tycker jag det kvittar.
 och plocka ihop sina egna saker. Och extrapriser man får skickade till mobilen, jag
-‒ Jag vet inte.
 får inga extrapriser och rabatter nu.
-‒ Varorna är inte färska, man kan inte se om grönskar och liknade är färska så jag
+
 ‒ Man har utbudet framför sig och kan välja själv.
-köper bara hårda varor jag vågar inte köpa något annan.
+
 ‒ Inte för mig, jag ser inga nackdelar.
-‒ Jag får ingen interaktion som man får när man går i affären. Jag får inte alltid det
+
 ‒ En nackdel med det digitala att det är svårt att se utbudet.
-jag vill.
+
 ‒ Varken jag eller frun har möjligheten att handla själva. Så länge man har huvudet
-‒ Nej absolut inte, jag får bra information och god hjälp.
 med sig kan man ju handla digitalt men sedan blir det svårt. Allt finns ju inte på
-‒ Det är ju roligare att handla i butik.
+
 nätet så man saknar ju vissa godsaker ibland.
-‒ Nej, jag ser inga nackdelar.
+
 ‒ Egentligen inte, det är väldigt bekvämt.
-‒ Nej, bara man får sina varor och det sköts väl och det finns ett stort utbud så jag
+
 ‒ Det är ju alltid fördelaktigt att kunna känna och kolla färskheten i frukt och
-kan välja det jag vill ha. Man vill ju ha vissa varor och märken som inte alltid finns.
 liknande. Hade jag kunnat hade jag nog handlat själv.
-Dom hittar inte alltid det jag vill ha på paddan dom har med sig så det verkar vara
+
 ‒ Man kan inte gå och titta själv, välja sina varor och känna på varorna, se på
-ett dåligt system dom har.
 hållbarheten.
+
 ‒ Jag får vad jag beställer och det fungerar jättebra.
 
 <!-- sida 27 -->
 
-Berättande         svar:   Nackdelar        med    att                                                    Point
-E         (e-post borttagen)
-W         point.nu
+Berättande        svar:    Nackdelar       med     att
+
 beställa     digitalt
 
-‒ Hade jag kunnat åka själv hade jag gjort det men det kan jag inte. Det finns så ‒ Det saknas varor ibland.
+‒ Hade jag kunnat åka själv hade jag gjort det men det kan jag inte. Det finns så
 
 mycket annat när man väljer själv och det är mycket trevligare att gå i butiken och
-‒ Nej det tycker jag inte, jag tycker det är smidigt och få hem den så man har för en
 träffa folk.
-vecka.
+
 ‒ Jag tycket det är bättre att handla, man kan välja själv, titta på datum och det
-‒ Båda två fungerar alldeles utmärkt.
 saknas aldrig varor och man slipper ersättningsvaror.
-‒ Nej det gör jag faktiskt inte, jag ser inga nackdelar.
+
 ‒ Jag kan inte se och känna på varorna. Jag får inte alltid det jag beställer och jag
-‒ Ja, det är ju det att man inte riktigt vet vad man beställer och jag har dåligt minne
+
 saknar vissa varor i sortimentet jag hade velat ha.
-med så jag vet inte alltid vad jag beställer och vad maten innehåller.
 ‒ jag tycker inte det finns några nackdelar, jag gör det som blir bäst för mig.
-‒ Det är väl att jag saknar vissa detaljer i maten, det är för lite sallad och tomater.
+
 ‒ Nej det gör jag inte.
-‒ Jag kan inte köpa frimärken och kuvert när vi handlar digitalt.
+
 ‒ Ja det hade ju varit trevligt att åka själv och titta i butiken.
-‒ Jag hade ju hellre velat gå i en butik och handla. Det kommer ju väldigt mycket folk
+
 ‒ Jag hade ju gärna velat se sakerna i en affär och välja, det hade ju varit en fördel
-hit och en del är väldigt dåliga på svenska och de tär ju en nackdel, kan dom inte
+
 om jag kunnat det. Dom stora butikerna har ju mycket mer jag kan välja.
-svara så hittar dom inte alltid det jag önskar.
 ‒ Det skulle vara om man har slut på något och man kan ju inte alltid se vad dom har
-‒ Nej, jag ser inga nackdelar.
+
 för något.
-‒ Vi får ofta fel varor.
+
 ‒ Nej, jag ser inga nackdelar, jag får det vi skriver på lappen.
-‒ Ja, man får ju inte se det man handlar. Går man i butik så ser man och kan välja
+
 ‒ Nej, jag tycker de tär bra att jag får hjälp. jag är mycket tacksam för det.
+
+Point
+E         (e-post borttagen)
+W         point.nu
+
+‒ Det saknas varor ibland.
+
+‒ Nej det tycker jag inte, jag tycker det är smidigt och få hem den så man har för en
+
+vecka.
+‒ Båda två fungerar alldeles utmärkt.
+
+‒ Nej det gör jag faktiskt inte, jag ser inga nackdelar.
+
+‒ Ja, det är ju det att man inte riktigt vet vad man beställer och jag har dåligt minne
+
+med så jag vet inte alltid vad jag beställer och vad maten innehåller.
+
+‒ Det är väl att jag saknar vissa detaljer i maten, det är för lite sallad och tomater.
+‒ Jag kan inte köpa frimärken och kuvert när vi handlar digitalt.
+
+‒ Jag hade ju hellre velat gå i en butik och handla. Det kommer ju väldigt mycket folk
+
+hit och en del är väldigt dåliga på svenska och de tär ju en nackdel, kan dom inte
+svara så hittar dom inte alltid det jag önskar.
+
+‒ Nej, jag ser inga nackdelar.
+
+‒ Vi får ofta fel varor.
+
+‒ Ja, man får ju inte se det man handlar. Går man i butik så ser man och kan välja
 själv. Men jag är ändå nöjd och tacksam för hjälpen, men god är maten inte.
 
 <!-- sida 28 -->
@@ -860,44 +1073,75 @@ affärer.”
 
 <!-- sida 30 -->
 
-Berättande         svar:   Övriga     synpunkter                                                          Point
+Berättande        svar:    Övriga     synpunkter
+
+eller  önskemål
+
+‒ Att de byter rätter lite oftare, en större variation.
+
+‒ Att jag ska får det jag beställt och inte ersättningsvaror.
+
+‒ Att kommunen gjorde maten och anpassade den bättre till åldern, ibland kan man
+inte välja bort kryddor så ibland kan vi inte äta maten.
+
+‒ Att man byter leverantör så man inte behöver hämta varor i Göteborg när vi bor i
+
+Kungsbacka, vi har ju så fina butiker här. Vi äldre och handikappade betalar gärna
+någon krona extra för hög kvalitet från våra lokala butiker. När man ska upphandla
+nästa gång ser jag gärna att man tänker på att man inte behöver ta det absolut
+
+billigaste utan tar det kunderna efterfrågar.
+
+‒ Det fungerar jättebra som det är nu.
+
+‒ Det hade i så fall varit att byta till Ica och Coop här i Kungsbacka, det blir ju ofta fel
+när jag beställer och det finns inte så stor variation på varor nu.
+
+‒ Det hade ju varit trevligt att få hjälp att åka och handla någon gång men jag är inte
+där än.
+
+‒ Det hade kunnat vara billigare.
+
+‒ De har med sin platta och det är ju en sagolikt massa artiklar så det är svårt för
+
+hemtjänsten att hitta det vi önskar. Man ska inte behöva gå igenom hela
+sortimentet för det man vill ha, detta leder ju även till att man får fel artiklar i
+nästan varje leverans.
+
+Point
 E         (e-post borttagen)
 W         point.nu
-eller   önskemål
 
-‒ Att de byter rätter lite oftare, en större variation.         ‒ Färdiga maträtter vill jag ska bytas ut lite oftare så det inte är samma vecka efter
+‒ Färdiga maträtter vill jag ska bytas ut lite oftare så det inte är samma vecka efter
 
 vecka.
-‒ Att jag ska får det jag beställt och inte ersättningsvaror.
+
 ‒ Jag fick fel mat, jag är glutenallergiker och fick vanlig pasta och det är omöjligt att
-‒ Att kommunen gjorde maten och anpassade den bättre till åldern, ibland kan man
 byta eller lämna tillbaka.
-inte välja bort kryddor så ibland kan vi inte äta maten.
+
 ‒ Jag hade gärna sett att varorna handlas lokalt i Kungsbacka för miljöns skull och
-‒ Att man byter leverantör så man inte behöver hämta varor i Göteborg när vi bor i
 för att gynna våra lokala affärer, vi har ju så många fina affärer här.
-Kungsbacka, vi har ju så fina butiker här. Vi äldre och handikappade betalar gärna
-någon krona extra för hög kvalitet från våra lokala butiker. När man ska upphandla ‒ Jag hade önskar mer potatis, det saknar jag till många rätter, det är oftast
-nästa gång ser jag gärna att man tänker på att man inte behöver ta det absolut potatismos istället, hade gärna sett både kokt och stekt potatis till rätterna.
-billigaste utan tar det kunderna efterfrågar.
+
+‒ Jag hade önskar mer potatis, det saknar jag till många rätter, det är oftast
+
+potatismos istället, hade gärna sett både kokt och stekt potatis till rätterna.
 ‒ Jag hade önskat mer fisk och skaldjur.
-‒ Det fungerar jättebra som det är nu.
+
 ‒ Jag skulle vilja att de handlade från Ica Kvantum i Kungsbacka.
-‒ Det hade i så fall varit att byta till Ica och Coop här i Kungsbacka, det blir ju ofta fel
+
 ‒ Jag tycker det fungerar bra och vi är väldigt nöjda.
-när jag beställer och det finns inte så stor variation på varor nu.
+
 ‒ Jag tycker det är för tjock plast på färdigmaten, den sätter plastsmak på maten.
-‒ Det hade ju varit trevligt att få hjälp att åka och handla någon gång men jag är inte
+
 ‒ Jag tycker man ska byta butik till Ica i Kungsbacka som vi hade tidigare.
-där än.
+
 ‒ Jag är inte nöjd med maten, jag hade hellre köpt djupfryst.
-‒ Det hade kunnat vara billigare.
+
 ‒ Lite billigare kanske och mer grönsaker.
-‒ De har med sin platta och det är ju en sagolikt massa artiklar så det är svårt för
-hemtjänsten att hitta det vi önskar. Man ska inte behöva gå igenom hela ‒ Lite mer att välja på.
-sortimentet för det man vill ha, detta leder ju även till att man får fel artiklar i
+
+‒ Lite mer att välja på.
+
 ‒ Lite mer färdiga vegetariska alternativ hade jag uppskattat.
-nästan varje leverans.
 ‒ Mer grönt och tomater i maten, det är för lite grönsaker.
 
 <!-- sida 31 -->

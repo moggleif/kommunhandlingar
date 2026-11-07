@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1ec384d6192704b8d9da0679/1728904287
 sha256: 49f79a8c971f6cc264a2c5593f841ca1f5b71d3500384a55a487f1f8424df89f
 bytes: 3046191
 sidor: 93
-hamtad: 2026-10-24T06:46:44+00:00
-konverterad: 2026-10-24T06:46:57+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:01:27+00:00
+konverterad: 2026-11-06T21:01:44+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1299,16 +1299,16 @@ Förvaltningschef                   Utvecklingschef
 <!-- sida 56 -->
 
 Erinran om sekretess och straffansvar
+
 Jag, XX, deltar i arbetet med Analytics i Kungsbacka kommun. För att kunna utföra mina
 arbetsuppgifter inom ramen för uppdraget får jag tillgång till \<förvaltningens> uppgifter som
 finns lagrade i de system som data hämtas ifrån för beredning alternativt lagring i
-
 kommunens datalager för Analyticslösningen.
+
 Genom arbetet med Analytics deltar jag i \<förvaltningens> verksamhet på liknande grund
 som anställning eller uppdrag, i enlighet med 2 kap 1 § 3 p. i offentlighets- och
 sekretesslagen (2009:400). Det innebär att jag omfattas av offentlighets- och sekretesslagens
 bestämmelser om sekretess.
-
 De system jag har tillgång till innehåller uppgifter som omfattas av olika grader av sekretess.
 Såväl kvalificerad sekretess som stark sekretess kan förekomma. Sekretess kan gälla till
 skydd för såväl allmänna som enskilda intressen.
@@ -1316,9 +1316,9 @@ skydd för såväl allmänna som enskilda intressen.
 Jag förstår att det är förbjudet för mig att röja eller utnyttja sekretessbelagda uppgifter som
 jag får kännedom om. Det gäller oavsett om röjandet sker muntligen, skriftligen eller på
 något annat sätt. Det gäller under uppdragstiden och även för tiden därefter.
+
 Jag är medveten om att om jag bryter mot offentlighets- och sekretesslagens bestämmelser
 om tystnadsplikt kan det leda till att jag döms för brott enligt 20 kap 3 § brottsbalken.
-
 Jag förstår att uppgifter jag får tillgång till endast får användas för att fullgöra mina
 arbetsuppgifter inom uppdraget. Om jag bereder mig tillgång till uppgifter utöver mitt
 uppdrag kan jag göra mig skyldig till dataintrång enligt 4 kap 9c § brottsbalken.
@@ -1330,84 +1330,22 @@ Kungsbacka den \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Personnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Underskrift och namnförtydligande
 
 2102
 ,0.2v
 ,0001B
 5 3 0 2 - -
-Vägm
-T
+U
 K
-e
-ä
-l
-s
-u 4
-e
-t
-n
-a
-3
-fo
-g
-r
-4
-e
-n
-s
-n
-8 b
-0
-,
-1 a
-B
-3
-S
-c K
-0
-e
-k
-y
-s
-0
-a u
-r
-ö
-é
-\-
-n k
-8
-n
-k
-g o
-3
-g
-s
-s m
-a
-a
-b
-4
-d
-t
-a m
-0
-a
-r
-c
-n
-e
-u
-0
-k
-s
-1
-n
-0
-a
-s
-U K                                                                 Fax 0300-83 47 04
+
+Kungsbacka kommun
+434 81 Kungsbacka
+Besöksadress
+Vägmästaren, Syréngatan 1
+Telefon 0300-83 40 00
+Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
 

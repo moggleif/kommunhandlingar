@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.14048251966235988361208/17459260742
 sha256: 4e4c7db2d81b2d6731fc811a3a54df639dab3f3527afe28d63d83f0f2ca4ead4
 bytes: 156743
 sidor: 8
-hamtad: 2026-10-24T07:16:48+00:00
-konverterad: 2026-10-24T07:16:55+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T21:39:50+00:00
+konverterad: 2026-11-06T21:39:57+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok]
@@ -27,19 +27,18 @@ granskad: null
 <!-- sida 1 -->
 
 KUNGSBACKA KOMMUN
-Kommunrevisionen                   SAMMANTRÄDESANTECKNINGAR
+Kommunrevisionen                    SAMMANTRÄDESANTECKNINGAR
 
 Datum
 2025-03-24
 
-Plats och tid   Stadshuset, Onsalarummet och
+Plats och tid    Stadshuset, Onsalarummet och
 Fjäråsrummet
 Klockan 09:00-16:00
 24 mars
 
-Beslutande      Ledamöter
+Beslutande       Ledamöter
 Birgitta Litsegård (S)
-
 Hans-Åke Fryklund (L)
 Stefan Friberg (C)
 
@@ -48,17 +47,27 @@ Christine Lindeberg (M)
 
 Bo Regnér (SD)
 
-Övriga närvarande                          Tjänstepersoner
+Övriga närvarande
+Fanny Nilsson (EY)
 
-Fanny Nilsson (EY)         Christina Hermansson ärende 5
-Karin Knutsson Friberg (EY) Somayeh Jamshidi ärende 5
+Karin Knutsson Friberg (EY)
 
-Mikaela Gretzer (EY) ärende 4-5, 11 Emelie Andersson ärende 6
-Maria Strandberg (EY) ärende 4-5 Anette Kristensson ärende 6
+Mikaela Gretzer (EY) ärende 4-5, 11
+Maria Strandberg (EY) ärende 4-5
 
 Joakim Ask (EY) ärende 4-5
 
-Personalföreträdare        Övriga
+Personalföreträdare
+
+Tjänstepersoner
+Christina Hermansson ärende 5
+
+Somayeh Jamshidi ärende 5
+Emelie Andersson ärende 6
+
+Anette Kristensson ärende 6
+
+Övriga
 
 <!-- sida 2 -->
 

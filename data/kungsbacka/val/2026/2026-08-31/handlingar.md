@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44cc0f291a01f48d79c72ae4/1787577773
 sha256: c78860563c921fc462edce69e08d6ed9df455d20dbb4f07222b26bab0f817a90
 bytes: 4447743
 sidor: 84
-hamtad: 2026-10-24T07:13:07+00:00
-konverterad: 2026-10-24T07:13:38+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T21:36:06+00:00
+konverterad: 2026-11-06T21:36:47+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2039,13 +2039,13 @@ Med det vill jag önska er en glad midsommar!
 
 <!-- sida 59 -->
 
-Uppdaterade        sidor  om   moderniserad
+Uppdaterade       sidor   om   moderniserad
 
 förtidsröstning
 
 Valcenteralen och Valid har fyllts på med mer information om den
-moderniserade förtidsröstningen. I och med det kommer inga fler
 
+moderniserade förtidsröstningen. I och med det kommer inga fler
 uppdateringar att göras innan sommaren.
 
 Läs hela nyheten på länken >
@@ -2054,19 +2054,30 @@ Affischen                            Menyn     för  att
 
 Information      om                  hantera     lokaler   är
 
-valsedlar                            nu   stängd   för
+valsedlar
+
+Affischen Information om
+
+valsedlar har uppdaterats.
+Valmyndigheten kommer att
+
+trycka upp och skicka ut nya
+affischer till kommunerna.
+
+Läs hela nyheten på länken >
+
+nu  stängd    för
 
 LADM
-Affischen Information om
-valsedlar har uppdaterats.
+
 Har ni lokaler ni fortsatt
-Valmyndigheten kommer att
+
 behöver justera behöver
-trycka upp och skicka ut nya
 lokalen låsas upp och detta kan
-affischer till kommunerna.
+
 länsstyrelserna hjälpa till med
-Läs hela nyheten på länken >         mellan 22 juni och 14 augusti.
+mellan 22 juni och 14 augusti.
+
 Läs hela nyheten på länken >
 
 <!-- sida 60 -->
@@ -2490,39 +2501,45 @@ information      om                 incidentrapportering
 revisorer    i Valid                är öppet
 
 Inför valdagen ska länsstyrelsen    Nu är webbformuläret för
+
 uppdatera uppgifter om              incidentrapportering öppet och du
-
 revisorer i Valid, utifrån          når det genom QR-kod eller
-uppgifter från kommunerna           direktlänk.
 
+uppgifter från kommunerna           direktlänk.
 och regionen.
 Läs hela nyheten på länken >
 Läs hela nyheten på länken >
 
 När   vet  vi vilka                  Lägg
 
-partier   som    deltar              röstmottagares
+partier   som   deltar               röstmottagares
 
-i valet  och   får                   behörigheter       i
+i valet  och  får                    behörigheter       i
 
 lägga   ut                           Valid
 
 valsedlar?
 Nu går det att lägga upp
-röstmottagares behörigheter i
+
 Vid val ska blanka valsedlar
-Valid. Det gäller röstmottagare
 läggas ut i alla
-som ska markera i den digitala
+
 röstmottagningsställen, och
-väljarförteckningen, rapportera
 därutöver parti- och
-det preliminära valresultatet i
+
 namnvalsedlar. Endast partier
-vallokalen och markera i den
 som deltar i valet får lägga ut
-digitala röstlängden.
 valsedlar på ett
+
+röstmottagares behörigheter i
+Valid. Det gäller röstmottagare
+
+som ska markera i den digitala
+väljarförteckningen, rapportera
+
+det preliminära valresultatet i
+vallokalen och markera i den
+digitala röstlängden.
 
 <!-- sida 76 -->
 

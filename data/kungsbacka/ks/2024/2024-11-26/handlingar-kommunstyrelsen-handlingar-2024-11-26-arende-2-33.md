@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff59a7a/1732175237
 sha256: 9262dad02b3de84e7e66ff28dc41b16fb7a7a8b3c13ddc8b0b695e42c1c3102b
 bytes: 89165901
 sidor: 398
-hamtad: 2026-10-24T08:14:37+00:00
-konverterad: 2026-10-24T08:17:32+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T22:52:19+00:00
+konverterad: 2026-11-06T22:55:44+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2535,12 +2535,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -2551,30 +2552,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 76 -->
@@ -2623,57 +2626,46 @@ Foto: Emelie Asplund
 
 <!-- sida 77 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -2685,6 +2677,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 78 -->
@@ -2709,29 +2744,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -2750,7 +2789,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -2764,24 +2804,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -2792,31 +2842,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -2825,6 +2874,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 81 -->
@@ -2832,27 +2893,36 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53
 
@@ -2975,12 +3045,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -2991,30 +3062,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 85 -->
@@ -3063,57 +3136,46 @@ Foto: Emelie Asplund
 
 <!-- sida 86 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -3125,6 +3187,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 87 -->
@@ -3149,29 +3254,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -3190,7 +3299,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -3204,24 +3314,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -3232,31 +3352,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -3265,6 +3384,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 90 -->
@@ -3272,27 +3403,36 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53
 
@@ -4124,35 +4264,59 @@ KUNGSBACKA     ALAFORS  4:12
 
 ANSÖKAN OM PLANBESKED                                               ANNEBERGS TERRASSER                                                                   2
 
-ANSÖKAN  OM  PLANBESKED
+ANSÖKAN   OM PLANBESKED
 
-Cederhem Anneberg AB har ingått överenskommelse Cederhem är ett bolag som drivs av Grandab
-med fastighetsägaren till ”Kungsbacka Alafors 4:12” Management AB samt Jackstone Properties AB.
+Cederhem Anneberg AB har ingått överenskommelse
+med fastighetsägaren till ”Kungsbacka Alafors 4:12”
 gällande förvärv av fastigheten. Syftet med förvärvet
-ar att i samråd med Kungsbacka kommun utveckla Grandab grundades 2013 med affärsidén att
+ar att i samråd med Kungsbacka kommun utveckla
+ett attraktivt bostadsområde i nära anslutning till
+såväl naturen som till Annebergs Station.
 
-ett attraktivt bostadsområde i nära anslutning till tillsammans med samarbetspartners förvärva,
-såväl naturen som till Annebergs Station. förvalta och utveckla fastigheter. Sedan starten
-har en rad projekt genomfors inom olika segment.
-Genom denna ansökan om planbesked önskar Bolaget förvaltar idag, ca 400 000 m2 lokaler
-vi presentera vara tankar kring hur vi vill skapa inom kontor, industri och hotell i huvudsak i
-förutsättningar for ett attraktivt bostadsområde göteborgsregionen och har flera pågående projekt.
-innehållandes villor, radhus och parhus. Bolaget ags av 5 partners samt Profura Fastigheter
-AB. Las mer pa www.grandab.com
+Genom  denna ansökan om planbesked önskar
+vi presentera vara tankar kring hur vi vill skapa
+förutsättningar for ett attraktivt bostadsområde
+innehållandes villor, radhus och parhus.
+
 Målet med utformningen är att skapa bra bostäder
-där vi själva skulle vilja bo. Ett boende med fina Jackstone grundades 2020 och har idag flera
-bostadskvalitéer, genuina materialval och flexibla engagemang inom fastighetsutveckling och
-planlösningar.                           fastighetsägande. Jackstones primära fokus är
-som delägare och drivande av Venturi Fastigheter
-Denna planansökan beskriver dels visionen for som idag äger ca 50 000 m² kommersiella lokaler
-området vi valt att kalla Annebergs Terrasser men samt tre miljoner kvadratmeter mark för utveckling
-redovisar aven var syn på värdet med att utveckla inom bostäder, kontor, handel, industri och logistik.
-platsen och vilken roll området har i Kungsbacka Huvudägare till Venturi är familjen Olsson-Eriksson
-samt Göteborgsregionen. Vi presenterar aven som är delägare i Stena AB. För mer information om
-övergripande vara initiala tankar kring gestaltning. Venturi besök www.venturifastigheter.se.
+
+där vi själva skulle vilja bo. Ett boende med fina
+bostadskvalitéer, genuina materialval och flexibla
+planlösningar.
+
+Denna planansökan beskriver dels visionen for
+området vi valt att kalla Annebergs Terrasser men
+redovisar aven var syn på värdet med att utveckla
+platsen och vilken roll området har i Kungsbacka
+samt Göteborgsregionen. Vi presenterar aven
+övergripande vara initiala tankar kring gestaltning.
 Vi ser bortom radande konjunkturläge och önskar
 att, i samråd med kommunen, påbörja en detaljplan
 sa snart som möjligt.
+
+Cederhem är ett bolag som drivs av Grandab
+Management AB samt Jackstone Properties AB.
+
+Grandab grundades 2013 med affärsidén att
+tillsammans med samarbetspartners förvärva,
+förvalta och utveckla fastigheter. Sedan starten
+har en rad projekt genomfors inom olika segment.
+Bolaget förvaltar idag, ca 400 000 m2 lokaler
+inom kontor, industri och hotell i huvudsak i
+göteborgsregionen och har flera pågående projekt.
+Bolaget ags av 5 partners samt Profura Fastigheter
+AB. Las mer pa www.grandab.com
+
+Jackstone grundades 2020 och har idag flera
+engagemang  inom  fastighetsutveckling och
+fastighetsägande. Jackstones primära fokus är
+som delägare och drivande av Venturi Fastigheter
+som idag äger ca 50 000 m² kommersiella lokaler
+samt tre miljoner kvadratmeter mark för utveckling
+inom bostäder, kontor, handel, industri och logistik.
+Huvudägare till Venturi är familjen Olsson-Eriksson
+som är delägare i Stena AB. För mer information om
+Venturi besök www.venturifastigheter.se.
 
 Kontakt:
 
@@ -4164,47 +4328,72 @@ Tim Johanson
 
 <!-- sida 112 -->
 
-INTRODUKTION                                                        ANNEBERGS TERRASSER                                                                   3
+INTRODUKTION
 
 Introduktion
 
-VISION                                           KUNGSBACKA    KOMMUNS   ÖVERSIKTSPLAN
+VISION
 
 Vår vision är att skapa ett natur- och stationsnära område
-med småhus, utformade för att passa familjens behov.
-Med hållbara bostäder byggda i trä, strävar vi efter att → Föreslagen utveckling har stöd i gällande Översiktsplan.
+med  småhus, utformade för att passa familjens behov.
+Med hållbara bostäder byggda i trä, strävar vi efter att
 minimera vår miljöpåverkan och främja en grön livsstil. Här
 kan familjer njuta av en balans mellan lugnet i naturen
-→ Anneberg är en stationsort som i översiktsplanen
 och bekvämligheten av goda kommunikationer. Området
-är utpekat, tillsammans med Kungsbacka Stad och
-utformas för att ta tillvarata på såväl utsikten som solläget. Åsa, som en av de utvecklingsorterna som skall
-svara för en större del av tillväxten i Kommunen.
+utformas för att ta tillvarata på såväl utsikten som solläget.
+
 OMRÅDETS   ROLL I EN VÄXANDER REGION
-→ Det finns en Fördjupad ÖP för Anneberg framtagen
-1995 men som  inte längre bedöms vara aktuell.
+
 120 000 jobb ska skapas i Göteborgsregionen fram till år 2035,
-Naturen som närmaste granne Möjlighet till en hållbar livstil
 varav exempelvis cirka 3 000 jobb på Northvolt och 1 800 jobb
-på Geely. För att möta tillväxten behövs ca 6 000 nya bostäder → Aktuellt planområde ligger inom ”utvecklingsort” och
-årligen i Göteborgsregionen fram till 2035. I Göteborgs kommun i direkt anslutning till befintlig bebyggelse och innehåller
-påbörjades 9 213 bostäder år 2022, av dessa var endast 219 ingen värdefull jordbruksmark. Delar av planområdet ligger
-stycken småhus. Vi bedömer att efterfrågan på småhus i inom strandskydd vilket även tas upp i Översiktsplanen
-Göteborgs kranskommuner är stor och fortsatt kommer öka. som en konsekvens vid utveckling av Anneberg – viktigt att
-säkerställa allmänhetens tillgänglighet till strandområdena
-och att den gröna infrastrukturen längs med kungsbackaån
-EFTERFRÅGAN  OCH  MÅLGRUPP
-behålls. Vår bedömning är att exploateringen inte
-Flyttrenden de senaste åren är att barnfamiljer flyttar från har någon negativ påverkan på strandskyddets syfte.
+på Geely. För att möta tillväxten behövs ca 6 000 nya bostäder
+årligen i Göteborgsregionen fram till 2035. I Göteborgs kommun
+påbörjades 9 213 bostäder år 2022, av dessa var endast 219
+stycken småhus. Vi bedömer att efterfrågan på småhus i
+Göteborgs kranskommuner är stor och fortsatt kommer öka.
+
+EFTERFRÅGAN   OCH MÅLGRUPP
+
+Flyttrenden de senaste åren är att barnfamiljer flyttar från
 storstäderna ut till kranskommunerna. Som anledning till
-flytt anges ofta skäl som trygga miljöer för barnen, närheten → Som i alla projekt så finns det utmaningar, i en
-till natur samt möjlighet till större bostad. I undersökningar kommande detaljplan blir det viktigt att säkerställa såväl
-framkommer att ca 55 procent av svenskarna vill bo i småhus, buller som naturvärden & geoteknik.
+flytt anges ofta skäl som trygga miljöer för barnen, närheten
+till natur samt möjlighet till större bostad. I undersökningar
+framkommer att ca 55 procent av svenskarna vill bo i småhus,
 samtidigt var det endast cirka 16 procent av de färdigställda
 bostäderna under åren 2018-2022 som var småhus, resterande
-Cykelvänlig omgivning    Hållbara transporter
 var flerfamiljshus. Vi ser här att Annebergs Terrasser fyller ett
 behov och efterfrågan.
+
+ANNEBERGS TERRASSER                                                                   3
+
+KUNGSBACKA   KOMMUNS   ÖVERSIKTSPLAN
+
+→ Föreslagen utveckling har stöd i gällande Översiktsplan.
+
+→ Anneberg är en stationsort som i översiktsplanen
+är utpekat, tillsammans med Kungsbacka Stad och
+Åsa, som en av  de utvecklingsorterna som skall
+svara för en större del av tillväxten i Kommunen.
+
+→ Det finns en Fördjupad ÖP för Anneberg framtagen
+1995 men som  inte längre bedöms vara aktuell.
+Naturen som närmaste granne Möjlighet till en hållbar livstil
+→ Aktuellt planområde ligger inom ”utvecklingsort” och
+i direkt anslutning till befintlig bebyggelse och innehåller
+ingen värdefull jordbruksmark. Delar av planområdet ligger
+inom strandskydd vilket även tas upp i Översiktsplanen
+
+som en konsekvens vid utveckling av Anneberg – viktigt att
+säkerställa allmänhetens tillgänglighet till strandområdena
+och att den gröna infrastrukturen längs med kungsbackaån
+behålls. Vår bedömning är att exploateringen inte
+har någon negativ påverkan på strandskyddets syfte.
+
+→ Som i alla projekt så finns det utmaningar, i en
+kommande detaljplan blir det viktigt att säkerställa såväl
+buller som naturvärden & geoteknik.
+
+Cykelvänlig omgivning    Hållbara transporter
 
 24⁄07⁄05 | PLANANSÖKAN | BOSTÄDER | ANNEBERG, KUNGSBACKA
 
@@ -4266,7 +4455,7 @@ Station
 
 <!-- sida 115 -->
 
-PLATSANALYS OCH STRATEGIER                                          ANNEBERGS TERRASSER                                                                   6
+PLATSANALYS OCH STRATEGIER
 
 CYKELAVSTÅND
 Anneberg station: 3 min
@@ -4274,18 +4463,41 @@ Förskola: 7 min
 Skola: 7 min
 ICA Maxi Kungsbacka: 14 min
 
-MOBILITET & BULLER                                  SOL & GRÖNSKA                         DAGVATTENHANTERING    & STRANDSKYDD
+MOBILITET & BULLER
 
-Området omges av Göteborgsvägen och järnvägen i väster och Tomten är omgiven av riklig grönska och natur på båda sidor, Väster om tomten går Kungsbackaån, där strandskyddszonerna
-Norra Annebergsvägen, vilket ger god anslutning till omgivande vilket ger en naturskön och avkopplande miljö. Med vårt förslag är markerade med avstånd på 25, 50 och 100 meter från ån. För
-infrastruktur. Förslaget innefattar ett slutet vägsystem, vill vi skapa gröna korridorer mellan dessa naturområden genom att säkerställa effektiv dagvattenhantering föreslås anläggandet
-frikopplat från det omgivande vägnätet, vilket skapar en trygg släpp i bebyggelsen. Husens placering är noggrant planerad för av en dagvattendamm, som både fördröjer avrinningen och
-och lugn miljö. En gång- och cykelbana löper runt området i att möjliggöra både morgonsol och kvällssol. skapar en attraktiv plats för rekreation och samvaro för såväl
-sydväst och främjar hållbara transportalternativ för de boende.                                     de boende som förbipasserande.
+Området omges av Göteborgsvägen och järnvägen i väster och
+Norra Annebergsvägen, vilket ger god anslutning till omgivande
+infrastruktur. Förslaget innefattar ett slutet vägsystem,
+frikopplat från det omgivande vägnätet, vilket skapar en trygg
+
+och lugn miljö. En gång- och cykelbana löper runt området i
+sydväst och främjar hållbara transportalternativ för de boende.
 Det finns förutsättningar att koppla på området på Alafors
 Kyrkväg, vilket kan undersökas i detaljplan.
 
+ANNEBERGS TERRASSER
+
+SOL & GRÖNSKA
+
+Tomten är omgiven av riklig grönska och natur på båda sidor,
+
+vilket ger en naturskön och avkopplande miljö. Med vårt förslag
+vill vi skapa gröna korridorer mellan dessa naturområden genom
+släpp i bebyggelsen. Husens placering är noggrant planerad för
+att möjliggöra både morgonsol och kvällssol.
+
 24⁄07⁄05 | PLANANSÖKAN | BOSTÄDER | ANNEBERG, KUNGSBACKA
+
+6
+
+DAGVATTENHANTERING   & STRANDSKYDD
+
+Väster om tomten går Kungsbackaån, där strandskyddszonerna
+är markerade med avstånd på 25, 50 och 100 meter från ån. För
+att säkerställa effektiv dagvattenhantering föreslås anläggandet
+av en dagvattendamm, som både fördröjer avrinningen och
+skapar en attraktiv plats för rekreation och samvaro för såväl
+de boende som förbipasserande.
 
 <!-- sida 116 -->
 
@@ -4476,39 +4688,73 @@ C
 
 <!-- sida 120 -->
 
-TYPOGRAFIER                                                         ANNEBERGS TERRASSER                                                                  11
+TYPOGRAFIER
 
 Småhusen
 
-RADHUS                                             PARHUS                                            VILLOR
-Radhusen i sutteräng på cirka 120 kvm följer tomtens Parhusen erbjuder ett stilfullt och rymligt boende på cirka 160 Högst upp på kullen kan tomten styckas av för att skapa
-topografi och erbjuder en rad attraktiva egenskaper som kvm, idealiskt för den moderna familjen. Varje parhus har två flera unika villor med en enastående placering. Här får man
+RADHUS
+Radhusen i sutteräng på cirka 120 kvm följer tomtens
+topografi och erbjuder en rad attraktiva egenskaper som
+gör dem till ett idealiskt boendealternativ i Anneberg. Varje
+radhus har en egen bilparkering som ligger i direkt anslutning
+till bostaden, vilket ger bekvämlighet och enkel tillgång för
+boende. För besökare finns även en besöksparkering i området.
 
-gör dem till ett idealiskt boendealternativ i Anneberg. Varje bilparkeringsplatser i direkt anslutning till bostaden för ökad en vacker naturtomt och möjlighet till avkoppling bland
-radhus har en egen bilparkering som ligger i direkt anslutning bekvämlighet. Entrén är placerad på nedre plan, vilket skapar trädkronorna, vilket ger en känsla av att bo mitt i naturen.
-till bostaden, vilket ger bekvämlighet och enkel tillgång för en välkomnande och praktisk ingång.
-boende. För besökare finns även en besöksparkering i området.                                       Här finns en fantastisk utsikt över dalen, vilket skapar en
-Parhusen är förskjutna från varandra, vilket ger ökat rogivande och inspirerande boendemiljö. Den lugna infarten
-Huvudentrén är belägen på övre plan och ger en välkomnande insynsskydd och en känsla av avskildhet. På plan två finns en som endast betjänar dessa villor bidrar till en trygg och
-och elegant ingång till hemmet. På övre plan når man även privat trädgård som får morgon- och lunchsol, vilket gör den barnvänlig miljö, idealisk för familjeliv.
-den insynsskyddade terrassen som är perfekt för att njuta av idealisk för avkoppling och utomhusaktiviteter.
+Huvudentrén är belägen på övre plan och ger en välkomnande
+och elegant ingång till hemmet. På övre plan når man även
+
+den insynsskyddade terrassen som är perfekt för att njuta av
 kvällssolen och erbjuder en fantastisk utsikt över Annebergs
-natursköna grönområden.                Stora glaspartier suddar ut gränserna mellan inomhus och
+natursköna grönområden.
+
+På nedre plan finns de sociala ytorna som är direkt
+anslutna till en privat trädgård. De stora glaspartierna
+kan öppnas upp för att sudda ut gränserna mellan
+inomhus och utomhus, vilket ger en harmonisk och naturlig
+koppling mellan inne och ute. Trädgården erbjuder en
+
+privat och rogivande miljö för avkoppling och umgänge.
+
+ANNEBERGS TERRASSER
+
+PARHUS
+Parhusen erbjuder ett stilfullt och rymligt boende på cirka 160
+kvm, idealiskt för den moderna familjen. Varje parhus har två
+bilparkeringsplatser i direkt anslutning till bostaden för ökad
+bekvämlighet. Entrén är placerad på nedre plan, vilket skapar
+en välkomnande och praktisk ingång.
+
+Parhusen är förskjutna från varandra, vilket ger ökat
+insynsskydd och en känsla av avskildhet. På plan två finns en
+privat trädgård som får morgon- och lunchsol, vilket gör den
+idealisk för avkoppling och utomhusaktiviteter.
+
+Stora glaspartier suddar ut gränserna mellan inomhus och
 utomhus, vilket skapar en ljus och rymlig atmosfär. Skogen
 och naturen är de närmaste grannarna, vilket ger en
-På  nedre plan finns de sociala ytorna som är direkt
 rogivande och naturnära boendemiljö.
-anslutna till en privat trädgård. De stora glaspartierna
-kan öppnas upp  för att sudda ut gränserna mellan
+
 På övre plan finns en stor terrass med kvällssol och riktning
-inomhus och utomhus, vilket ger en harmonisk och naturlig
 sydväst. Här kan man njuta av fri utsikt över grönområdet
-koppling mellan inne och ute. Trädgården erbjuder en
 och dalen. De större avstånden mellan parhusen skapar
-privat och rogivande miljö för avkoppling och umgänge.
 dessutom en grön korridor som bidrar till den naturnära
 känslan och ökar avskildheten ytterligare.
+
 24⁄07⁄05 | PLANANSÖKAN | BOSTÄDER | ANNEBERG, KUNGSBACKA
+
+11
+
+VILLOR
+
+Högst upp på kullen kan tomten styckas av för att skapa
+flera unika villor med en enastående placering. Här får man
+en vacker naturtomt och möjlighet till avkoppling bland
+trädkronorna, vilket ger en känsla av att bo mitt i naturen.
+
+Här finns en fantastisk utsikt över dalen, vilket skapar en
+rogivande och inspirerande boendemiljö. Den lugna infarten
+som endast betjänar dessa villor bidrar till en trygg och
+barnvänlig miljö, idealisk för familjeliv.
 
 <!-- sida 121 -->
 
@@ -9527,232 +9773,337 @@ för färdtjänsten har kommunen en skyldighet att upprätta ett Trafikförsörj
 följa lagstiftningen ska programmet omfatta minst tre fastställda punkter kopplat till miljö, resor-
 nas omfattning samt prissättning. Kungsbackas kommunala trafikförsörjningsprogram utgår ifrån
 Regionens och följer därför struktur och tidsperiod så långt det är möjligt.
+
 Detta dokument beskriver den särskilda kollektivtrafikens förutsättningar samt strategier och
 målsättningar och är en komplettering av Region Hallands Trafikförsörjningsprogram 2021-
-
 2025, Kapitel 8 Särskild kollektivtrafik, I övrigt gäller för Kungsbacka, likt Hallands resterande
 kommuner, Region Hallands Trafikförsörjningsprogram.
 
-Särskild Kollektivtrafik          Färdtjänst
-Färdtjänsten regleras i Lag (1997:736) om
+Särskild Kollektivtrafik
+
 Den särskilda kollektivtrafiken erbjuds en
-färdtjänst och enligt lagen är kommunen
 definierad målgrupp med särskilt tillstånd
-ansvarig för färdtjänst. Färdtjänst ska enligt
 eller behörighet till skillnad från den
-färdtjänstlagen ses som en form av kollektiv-
 allmänna kollektivtrafiken som är öppen för
-trafik. 2022 var genomsnittet i Sverige drygt
 alla. I Halland benämns färdtjänst, sjukresor
-33 personer med färdtjänsttillstånd per 1000
 och skolskjuts som former av särskild kollek-
-invånare. För Halland var samma siffra ca
 tivtrafik
-37 per 1 000 invånare och 32 per 1 000
-Den särskilda kollektivtrafiken erbjuds en de- invånare för Kungsbacka1.
+
+Den särskilda kollektivtrafiken erbjuds en de-
 finierad målgrupp med särskilt tillstånd eller
-Riktlinjerna är att en resa som kan ske med den
 behörighet till skillnad från den allmänna
-allmänna kollektivtrafiken ska ske med den all-
 kollektivtrafiken som är öppen för alla. I
-männa kollektivtrafiken och att en resa ska
 Halland benämns färdtjänst, sjukresor och
-samordnas när så är möjligt. Till skillnad från
 skolskjuts som former av särskild kollektiv-
-Hallands övriga kommuner, som lämnat över
 trafik. Den särskilda kollektivtrafiken utförs
-ansvaret till Region Halland, ansvarar
 med anropsstyrd trafik eller särskilt arrange-
-Kungsbacka kommun för myndighets-
 rade linjer såsom skolbuss- och sjukrese-
-utövningen och utföranden av färdtjänst och
 linjer.
-riksfärdtjänst.
+
 Gemensamt för den särskilda kollektiv-
-Nämnden för Teknik beslutar om regelverket för
 trafiken är att det är olika uppdragsgivare
-färdtjänst i dokumentet Tillämpningsregler2 som
 och kostnadsbärare men att samordning och
-ses över och revideras varje år för att hållas
 samplanering sker inom respektive trafikslag
-uppdaterade utefter rådande nationell praxis.
 vilket beskrivs nedan under varje område.
-Den särskilda kollektivtrafiken ska sträva Egenavgifterna och den geografiska zonindel-
-efter att spegla den allmänna kollektiv- ningen för färdtjänsten baseras på den av
-trafiken, där det är rimligt och möjligt, men kommunfullmäktige beslutade Taxan3. Taxan är
-med hänsyn till resenärens behov utifrån kopplad till taxan för den allmänna kollektiv-
-rättigheter som ges i lagstiftning och följande trafiken och justeras av nämnden för Teknik
-myndighetsutövning.               utefter Västtrafiks beslutade ändringar av
-kollektivtrafiken.
+Den särskilda kollektivtrafiken ska sträva
+efter att spegla den allmänna kollektiv-
+trafiken, där det är rimligt och möjligt, men
+med hänsyn till resenärens behov utifrån
+rättigheter som ges i lagstiftning och följande
+
+myndighetsutövning.
 Särskild Kollektivtrafik är Region Hallands
-och även Kungsbackas, benämning på det För att resenären ska kunna använda färdtjänst
-som på nationellt plan kallas Särskilda krävs ett individuellt beslut och dessa beslut
-persontransporter.                fattas av Förvaltningen för Teknik i Kungsbacka
+och även Kungsbackas, benämning på det
+som på nationellt plan kallas Särskilda
+persontransporter.
+
+Färdtjänst
+Färdtjänsten regleras i Lag (1997:736) om
+färdtjänst och enligt lagen är kommunen
+
+ansvarig för färdtjänst. Färdtjänst ska enligt
+färdtjänstlagen ses som en form av kollektiv-
+trafik. 2022 var genomsnittet i Sverige drygt
+33 personer med färdtjänsttillstånd per 1000
+invånare. För Halland var samma siffra ca
+37 per 1 000 invånare och 32 per 1 000
+invånare för Kungsbacka1.
+
+Riktlinjerna är att en resa som kan ske med den
+allmänna kollektivtrafiken ska ske med den all-
+männa kollektivtrafiken och att en resa ska
+samordnas när så är möjligt. Till skillnad från
+Hallands övriga kommuner, som lämnat över
+ansvaret till Region Halland, ansvarar
+Kungsbacka kommun för myndighets-
+utövningen och utföranden av färdtjänst och
+riksfärdtjänst.
+
+Nämnden för Teknik beslutar om regelverket för
+färdtjänst i dokumentet Tillämpningsregler2 som
+ses över och revideras varje år för att hållas
+uppdaterade utefter rådande nationell praxis.
+Egenavgifterna och den geografiska zonindel-
+ningen för färdtjänsten baseras på den av
+kommunfullmäktige beslutade Taxan3. Taxan är
+
+kopplad till taxan för den allmänna kollektiv-
+trafiken och justeras av nämnden för Teknik
+utefter Västtrafiks beslutade ändringar av
+kollektivtrafiken.
+För att resenären ska kunna använda färdtjänst
+krävs ett individuellt beslut och dessa beslut
+fattas av Förvaltningen för Teknik i Kungsbacka
+
 1 Regionfakta.com/hallands-lan/samhallets- 3 Särskild kollektivtrafik – Taxa,
 service/fardtjansttillstand/      Kommunfullmäktige 9 april 2024 § 58
 2 Tillämpningsregler särskild kollektivtrafik – KS2023-00666
 Färdtjänst, § 9 TE-2023-00717
-Kungsbacka kommun            Trafikförsörjningsprogram          2 (5)
+
+Kungsbacka kommun             Trafikförsörjningsprogram         2 (5)
 
 <!-- sida 250 -->
 
-kommun. Innehållet i besluten används av • Region Halland har som mål att minst 30
-beställningscentralen när resenären gör sin procent av alla sjukresor över kommun-
-resebeställning och i detta beslut framgår om gränsen sker med sjukreselinjen.
-resenären har särskilda behov. Det kan till • Fler resor bör ske inom den allmänna
-exempel framgå om resenären enbart kan sitta kollektivtrafiken.
+kommun. Innehållet i besluten används av
+beställningscentralen när resenären gör sin
+resebeställning och i detta beslut framgår om
+resenären har särskilda behov. Det kan till
+exempel framgå om resenären enbart kan sitta
 fram i fordonet eller om det finns restriktioner
-• Resorna samordnas när så är möjligt både
 för samåkning.
-med andra sjukresor men även med färd-
-• Färdtjänst kompenserar inte brist på tjänst och skolskjutsar.
+
+• Färdtjänst kompenserar inte brist på
 allmänna kommunikationer.
-Skolskjutstrafik5
 • En resa som kan ske med den allmänna
-kollektivtrafiken ska ske med den allmänna Enligt Skollagen (2010:800) har elever i grund-
-kollektivtrafiken.              skola med offentlig huvudman rätt till kostnads-
-fri skolskjuts till den skola som eleven placeras i
+kollektivtrafiken ska ske med den allmänna
+kollektivtrafiken.
+
 • Riktlinjer och tillämpningar ska så långt det
-av kommunen. Det finns även möjlighet för
 är möjligt anpassas till kollektivtrafiken.
-elever att bli berättigade skolskjuts till annan
 • Resorna samordnas när så är möjligt
+
+Riksfärdtjänst
+Resor med beviljade tillstånd till riksfärdtjänst
+bokas hos företaget Riksfärdtjänst i Sverige AB.
+
+RIAK
+
+I Kungsbacka erbjuds resenärer också möjlig-
+heten till så kallade RIAK-resor (Resor i annan
+kommun), vilket ger resenären möjligheten att
+åka med upphandlade taxibolag till ett
+subventionerat pris. RIAK är en del av riksf-
+ärdtjänst.
+
+Sjukresor4
+Grunderna för sjukresor styrs av Lag om rese-
+
+kostnadsersättning vid sjukresa (1991:419).
+Sjukvårdshuvudmannen, det vill säga Region
+Halland, ansvarar för prövning och resekost-
+nadsersättning vid sjukresor. För sjukresor finns
+ett särskilt regelverk om vilket Regionstyrelsen
+beslutar. Ungefär 10–12 procent av alla
+vårdbesök ger upphov till en sjukresa. Utgångs-
+punkten för en sjukresa är att den ska utföras
+med det för samhället billigaste färdsättet.
+Resorna samplaneras med övrig anropsstyrd
+trafik och organiseras av Ambulanssjukvården
+Halland. Beställning av sjukresor görs via
+Hallandstrafikens beställningscentral.
+
+4 Kapitlet är kopierat från Regionens
+trafikförsörjningsprogram för att skapa en
+helhetsöversikt
+
+• Region Halland har som mål att minst 30
+procent av alla sjukresor över kommun-
+gränsen sker med sjukreselinjen.
+• Fler resor bör ske inom den allmänna
+kollektivtrafiken.
+
+• Resorna samordnas när så är möjligt både
+med andra sjukresor men även med färd-
+tjänst och skolskjutsar.
+
+Skolskjutstrafik5
+Enligt Skollagen (2010:800) har elever i grund-
+skola med offentlig huvudman rätt till kostnads-
+fri skolskjuts till den skola som eleven placeras i
+av kommunen. Det finns även möjlighet för
+elever att bli berättigade skolskjuts till annan
+
 skola, såväl privata som offentliga, än den
 kommunen har placerat eleven om skolskjutsen
-Riksfärdtjänst
 kan ske utan ekonomiska eller organisatoriska
-Resor med beviljade tillstånd till riksfärdtjänst
 svårigheter. Kommunen är huvudman för
-bokas hos företaget Riksfärdtjänst i Sverige AB.
 skolan och står för hela kostnaden. Kommunen
 är därmed skyldig att anordna skolskjuts om
-RIAK
 skolskjuts behövs på grund av färdvägens
-I Kungsbacka erbjuds resenärer också möjlig- längd, trafikförhållanden, funktionsnedsättning
-heten till så kallade RIAK-resor (Resor i annan hos elev eller någon annan särskild
-kommun), vilket ger resenären möjligheten att omständighet. Myndighetsutövningen, beslut
-åka med upphandlade taxibolag till ett om vem som har rätt till skolskjuts och hur, får
-subventionerat pris. RIAK är en del av riksf- inte överlåtas till någon annan organisation utan
-ärdtjänst.                        det är kommunens angelägenhet. Det finns
+längd, trafikförhållanden, funktionsnedsättning
+hos elev eller någon annan särskild
+omständighet. Myndighetsutövningen, beslut
+om vem som har rätt till skolskjuts och hur, får
+inte överlåtas till någon annan organisation utan
+det är kommunens angelägenhet. Det finns
 stöd i kollektivtrafiklagen (2010:1065) för
-Sjukresor4
 kommunen att överlåta upphandling och sam-
-Grunderna för sjukresor styrs av Lag om rese- ordning till den regionala kollektivtrafik-
-kostnadsersättning vid sjukresa (1991:419). myndigheten. I Halland upphandlar och
-Sjukvårdshuvudmannen, det vill säga Region samordnar Hallandstrafiken skolskjutstrafiken i
-Halland, ansvarar för prövning och resekost- samtliga kommuner. Detta är en bra förut-
-nadsersättning vid sjukresor. För sjukresor finns sättning för att samordning och samplanering
-ett särskilt regelverk om vilket Regionstyrelsen mellan skolskjutstrafik och den allmänna
-beslutar. Ungefär 10–12 procent av alla kollektivtrafiken ska kunna ske. En utökad sam-
-vårdbesök ger upphov till en sjukresa. Utgångs- ordning, vid till exempel upphandling ger
-punkten för en sjukresa är att den ska utföras fördelar såsom bättre kostnadseffektivitet, till-
-med det för samhället billigaste färdsättet. gänglighet till kollektivtrafik på landsbygd samt
-Resorna samplaneras med övrig anropsstyrd mindre utsläpp då samma fordon kan användas
-trafik och organiseras av Ambulanssjukvården till både skolelever och resenärer i den
-Halland. Beställning av sjukresor görs via allmänna kollektivtrafiken.
-Hallandstrafikens beställningscentral.
+ordning till den regionala kollektivtrafik-
+myndigheten. I Halland upphandlar och
+samordnar Hallandstrafiken skolskjutstrafiken i
+samtliga kommuner. Detta är en bra förut-
+sättning för att samordning och samplanering
+
+mellan skolskjutstrafik och den allmänna
+kollektivtrafiken ska kunna ske. En utökad sam-
+ordning, vid till exempel upphandling ger
+fördelar såsom bättre kostnadseffektivitet, till-
+gänglighet till kollektivtrafik på landsbygd samt
+mindre utsläpp då samma fordon kan användas
+till både skolelever och resenärer i den
+allmänna kollektivtrafiken.
+
 • Samordning ska ske med den allmänna
 kollektivtrafiken.
-4 Kapitlet är kopierat från Regionens 5 Kapitlet är kopierat från Regionens
-trafikförsörjningsprogram för att skapa en trafikförsörjningsprogram för att skapa en
-helhetsöversikt                   helhetsöversikt
+
+5 Kapitlet är kopierat från Regionens
+trafikförsörjningsprogram för att skapa en
+helhetsöversikt
 
 <!-- sida 251 -->
 
-• Regelverk och riktlinjer ska så långt det är öka nyttjandet av kommunens digitala tjänster6
-möjligt utformas gemensamt.     varför ett stort arbete kring förenkling och
-• Resorna samordnas när så är möjligt både digitalisering av processen för ansökan av
-med allmän kollektivtrafik men även med färdtjänst där kommunen bistår den sökande
-andra skolskjutsresor samt färdtjänst och med kontakten med vården har gjorts och
-sjukresor.                      kommer att fortsätta utvecklas.
+• Regelverk och riktlinjer ska så långt det är
+möjligt utformas gemensamt.
+• Resorna samordnas när så är möjligt både
+med allmän kollektivtrafik men även med
+andra skolskjutsresor samt färdtjänst och
+sjukresor.
 
-Målbild Särskild kollektivtrafik
 Strategier och målsättningar
-Kungsbacka kommuns målsättning är att öka
 Den särskilda kollektivtrafiken har sin ut-
-integrationen av färdtjänst och allmän kollektiv-
+
 gångspunkt i olika lagrum och har
-trafik. I takt med att den allmänna kollektiv-
 organisatoriskt olika uppdragsgivare och
-trafiken anpassas allt mer till olika personers
 kostnadsbärare. Samverkansavtal och riktlinjer
-fysiska och psykiska förutsättningar minskar
 ser olika ut men den gemensamma nämnaren
-också behovet av färdtjänst och riksfärdtjänst
 är fokus på den tjänst som ska levereras och
-med personbil och specialfordon. Men
 under vilka förutsättningar. Samverkan mellan
-kommunen räknar ändå med att behovet av
 de olika parterna, kostnadsbärare och utförare,
-färdtjänst kommer att kvarstå för ett visst antal
 är ett viktigt inslag för att nå en ökad förståelse
-personer.
 kring den komplexa process som styr verksam-
 heten och driver kostnader. Denna samverkan
-Grunder  för prissättning
 är viktig för att gemensamt identifiera dessa
 faktorer och möjliga åtgärder för att uppnå en
-Färdtjänst
 social- och ekonomisk hållbarhet. Särskilt viktigt
-är det att samverka när förändringar sker Enligt beskrivning ovan baseras färdtjänstens
-gällande regelverk och riktlinjer eller egenavgifter på den, av kommunfullmäktige,
-beslutade Taxan7. Taxan är kopplad till taxan
-för den allmänna kollektivtrafiken och justeras
+är det att samverka när förändringar sker
+gällande regelverk och riktlinjer eller
+
 ÖVERGRIPANDE STRATEGIER
-av nämnden för Teknik utefter Västtrafiks
 GÄLLANDE DEN SÄRSKILDA
-beslutade ändringar av kollektivtrafiken. Detta
 KOLLEKTIVTRAFIKEN FÖR HALLAND
-beslut fastställdes av Kommunfullmäktige den 9
-april 2024, § 58 KS2023-00666,
+
 • Säkra samhällstjänsterna inom den
 särskilda kollektivtrafiken med fokus
-Riksfärdtjänst
 på långsiktig social och ekonomisk
-hållbarhet.                    ”Vid resa med riksfärdtjänst skall resenären
-betala en viss avgift, den s k egenavgiften.
+hållbarhet.
+
 • Utveckla former för samverkan och
-Egenavgiftens storlek skall motsvara normala
 samplanering mellan den allmänna-
-reskostnader med allmänna färdmedel och
 och särskilda kollektivtrafiken till
-beräknas efter vägavståndet i kilometer.
 exempel utvecklad Närtrafik och
-Resenärer under 26 år och studerande som
 Öppna upp skolskjutsar.
-innehar Centrala Studiestödsnämndens rabatt-
-kort eller något av Studentkårernas studentkort
 förändringar inom verksamheten för att uppnå
-som Mecenat och Studentkortet betalar endast
+
 en god samplanering och samordning av
-70% av egenavgiften”.8
 resorna.
 Härtill arbetar Kungsbacka för att minska det
 digitala utanförskapet bland våra invånare och
-6 Digital strategi, Kommunstyrelsen 2017-03- 7 Särskild kollektivtrafik – Taxa,
-14, § 61                          Kommunfullmäktige 9 april 2024 § 58
+
+6 Digital strategi, Kommunstyrelsen 2017-03-
+14, § 61
+
+öka nyttjandet av kommunens digitala tjänster6
+varför ett stort arbete kring förenkling och
+digitalisering av processen för ansökan av
+färdtjänst där kommunen bistår den sökande
+med kontakten med vården har gjorts och
+kommer att fortsätta utvecklas.
+
+Målbild Särskild kollektivtrafik
+
+Kungsbacka kommuns målsättning är att öka
+integrationen av färdtjänst och allmän kollektiv-
+trafik. I takt med att den allmänna kollektiv-
+trafiken anpassas allt mer till olika personers
+fysiska och psykiska förutsättningar minskar
+också behovet av färdtjänst och riksfärdtjänst
+med personbil och specialfordon. Men
+kommunen räknar ändå med att behovet av
+färdtjänst kommer att kvarstå för ett visst antal
+personer.
+
+Grunder  för prissättning
+
+Färdtjänst
+Enligt beskrivning ovan baseras färdtjänstens
+egenavgifter på den, av kommunfullmäktige,
+beslutade Taxan7. Taxan är kopplad till taxan
+för den allmänna kollektivtrafiken och justeras
+av nämnden för Teknik utefter Västtrafiks
+beslutade ändringar av kollektivtrafiken. Detta
+beslut fastställdes av Kommunfullmäktige den 9
+april 2024, § 58 KS2023-00666,
+
+Riksfärdtjänst
+
+”Vid resa med riksfärdtjänst skall resenären
+betala en viss avgift, den s k egenavgiften.
+Egenavgiftens storlek skall motsvara normala
+reskostnader med allmänna färdmedel och
+beräknas efter vägavståndet i kilometer.
+Resenärer under 26 år och studerande som
+innehar Centrala Studiestödsnämndens rabatt-
+kort eller något av Studentkårernas studentkort
+som Mecenat och Studentkortet betalar endast
+70% av egenavgiften”.8
+
+7 Särskild kollektivtrafik – Taxa,
+Kommunfullmäktige 9 april 2024 § 58
 KS2023-00666
 8 Riksfärdtjänsten Sverige AB
 
 <!-- sida 252 -->
 
-Åtgärder  för att skydda miljön   upphandling som utförts under 2021 stämdes
-miljöfrågan av med varje kostnadsbärare
-Som en del av Hallandstrafikens kollektivtrafik (kommun och region) och utifrån de samtalen
-omfattas färdtjänsten av gällande miljöarbete i samt Hallandstrafikens professionella
-’Regionalt Trafikförsörjningsprogram’ som bedömning blev ingången att påbörja en
-antogs av Regionfullmäktige den 9 december omställning till ett fossilfritt samhälle senast
-2020\. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
-Hallands kommuner och Region Halland funktionell kravställning på fossilfrihet (ingen
-gällande överlåtelse av färdtjänsten pekas de specifik teknik) som när trafikavtal 2022–2026
-strategiska frågorna ut till det regionala trafikf- går igång ska vara 50 procent fossilfritt vid
-örsörjningsprogrammet. För den trafik- avtalsstart och 75 procent innan avtalet tar slut.
+Åtgärder  för att skydda miljön
+
+Som en del av Hallandstrafikens kollektivtrafik
+omfattas färdtjänsten av gällande miljöarbete i
+’Regionalt Trafikförsörjningsprogram’ som
+antogs av Regionfullmäktige den 9 december
+2020\. I de riktlinjer som skapades mellan
+Hallands kommuner och Region Halland
+gällande överlåtelse av färdtjänsten pekas de
+strategiska frågorna ut till det regionala trafikf-
+örsörjningsprogrammet. För den trafik-
 
 Uppföljning  och indikatorer9
 
 9 Kapitlet är kopierat från Regionens
 trafikförsörjningsprogram för att skapa en
 helhetsöversikt
+
+upphandling som utförts under 2021 stämdes
+miljöfrågan av med varje kostnadsbärare
+(kommun och region) och utifrån de samtalen
+samt Hallandstrafikens professionella
+bedömning blev ingången att påbörja en
+omställning till ett fossilfritt samhälle senast
+2030\. Aktuella avtalskrav blev därför en
+funktionell kravställning på fossilfrihet (ingen
+specifik teknik) som när trafikavtal 2022–2026
+går igång ska vara 50 procent fossilfritt vid
+
+avtalsstart och 75 procent innan avtalet tar slut.
 
 <!-- sida 253 -->
 
