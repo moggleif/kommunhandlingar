@@ -271,9 +271,10 @@ i poolen), med de här skillnaderna:
   förvaltningens budget. Målfilen har därför 2024 bara ur
   delårsrapporten och årsredovisningen.
 - **Direktiven 2020–2023** är många uppdrag att redovisa något ("Redovisning
-  av situationen för nyanlända elever"). Budgetarna skriver dem i löptext,
-  så målfilen tar dem ur delårsrapporten och årsredovisningen, där de har
-  "Beslutats av Nämnd" och en kommentar men ingen status.
+  av situationen för nyanlända elever"). De står bland redovisningarna
+  (se nedan). Budgetarna skriver direktiven i löptext, så filerna tar dem
+  ur delårsrapporten och årsredovisningen, där de har "Beslutats av
+  Nämnd" och en kommentar men ingen status.
 - **Statusen** är meningen under "Nämndens bedömning". Årsredovisningarna
   2019, 2020 och 2023 och delårsrapporten 2023 har ingen bedömning i
   texten.
@@ -378,6 +379,29 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   bifallet till initiativet om mobilfria skolor står bara i handlingarna
   2024-03-13. Initiativet om HLR i förskolan (2026-09-16) har ingen
   avsändare i protokollet och står utan steget `vackt`.
+
+### Nämndernas redovisningar
+
+Redovisningssidan (K42,
+[ADR-0065](../decisions/0065-redovisningarna-foljs-som-handlingsplanerna.md))
+har Förskola & Grundskola 2020–2026 (kontrollerat 2026-11-07 i poolen):
+
+- **Beställda redovisningar** kommer tillbaka som egna paragrafer i
+  protokollet. 2020 säger rubriken det ("Redovisningar i nämndbudget 2020
+  – …"), senare ibland texten ("Enligt direktiv i nämndbudget 2022 …"),
+  och oftast har paragrafen direktivets rubrik. Alla 30 direktiv i
+  poolen har en paragraf. Redovisningen av elever som lämnat grundskolan
+  utan behörighet (2020-06-15) har inget direktiv i delårsrapporten eller
+  årsredovisningen, men rubriken säger att den kommer ur nämndbudget 2020.
+- **Återkommande redovisningar** är patientsäkerhetsberättelsen,
+  tillsynen av fristående verksamheter, dataskyddet, olycksfall och
+  tillbud, kränkningsärendena, klagomålen, huvudmannens systematiska
+  kvalitetsarbete, betygsresultaten, enkäterna, intraprenaderna, God och
+  nära vård, samverkan för ökad rörelse och skolvalet. Sedan 2025 har
+  nämnden ett eget årshjul för dem (protokollet 2025-05-14).
+- **Inte med:** den stående paragrafen "Information – Förskola &
+  Grundskola arbetsutskott och nämnd", som finns på nästan varje möte,
+  enstaka informationspunkter och kommunrevisionens rapporter.
 
 ### Dokumentens innehåll
 
