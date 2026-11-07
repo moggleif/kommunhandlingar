@@ -1,0 +1,54 @@
+Kriterier,Ja,Nej,Kommentar
+"35.3 (a) Behandlingen innebär systematisk och omfattande
+bedömning av individers personliga aspekter som grundar sig på
+automatisk behandling, inbegripen profilering, och på vilken beslut
+grundar sig som har rättsliga följder för, eller på liknande sätt i
+betydande grad påverkar, individer.",☐,☒,
+"35.3 (b) Behandlingen innebär behandling i stor omfattning av
+särskilda kategorier av uppgifter, som avses i artikel 9.1, eller av
+personuppgifter som rör fällande domar i brottmål och
+lagöverträdelser som innefattar brott, som avses i artikel 10.",☒,☐,
+"35.3 (c) Behandlingen innebär systematisk övervakning av en allmän
+plats i stor omfattning.",☐,☒,
+"IMY (1) Behandlingen omfattar utvärdering eller poängsättning av
+människor. Exempelvis ett företag som erbjuder genetiska tester till
+konsumenter för att bedöma och förutse risker för sjukdomar, ett
+kreditupplysningsföretag eller ett företag som profilerar
+internetanvändare.",☐,☒,
+"IMY (2) Behandlingen syftar till att fatta automatiserade beslut som
+har rättsliga följder eller liknande betydande följder för den
+registrerade.",☐,☒,
+"IMY (3) Behandlingen innebär systematisk övervakning av
+människor. Exempelvis genom kameraövervakning av en allmän
+plats eller genom att samla in personuppgifter från
+internetanvändning i offentliga miljöer.",☐,☒,
+"IMY (4) Behandlingen omfattar känsliga personuppgifter enligt
+artikel 9 eller uppgifter som är av mycket personlig karaktär.
+Exempelvis ett sjukhus som lagrar patientjournaler, ett företag som
+samlar in lokaliseringsuppgifter eller en bank som hanterar
+finansiella uppgifter.",☒,☐,
+IMY (5) Behandlingen rör personuppgifter i stor omfattning.,☒,☐,
+"IMY (6) Behandlingen kombinerar personuppgifter från två eller
+flera behandlingar på ett sätt som avviker från vad de registrerade
+rimligen kunnat förvänta sig. Exempelvis när man samkör register.",☐,☒,
+"IMY (7) Behandlingen avser uppgifter om personer som av något
+skäl befinner sig i ett underläge eller i beroendeställning och därför
+är sårbara. Exempelvis barn, anställda, asylsökande, äldre och
+patienter.",☒,☐,
+"IMY (8) Behandlingen inbegriper ny teknik eller nya organisatoriska
+lösningar. Exempelvis en sakernas internet-applikation (Internet of
+things, IoT).",☒,☐,
+"IMY (9) Behandlingen syftar till att hindra registrerade från att få
+tillgång till en tjänst eller ingå ett avtal.
+Exempelvis en bank som granskar sina kunder mot en databas för
+kreditupplysning för att besluta om de ska erbjudas lån.",☒,☐,
+Övriga risker,,,
+"Behandlingen innebär att uppgifter överförs till tredjeland (utanför
+EU/EES)",,X,"Behandlingen
+medför ingen
+överföring."
+"Behandlingen innebär risk för att uppgifter överförs till tredjeland
+(utanför EU/EES)",,X,"Behandlingen
+medför ingen
+risk för
+överföring."
