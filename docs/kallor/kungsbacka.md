@@ -271,9 +271,10 @@ i poolen), med de här skillnaderna:
   förvaltningens budget. Målfilen har därför 2024 bara ur
   delårsrapporten och årsredovisningen.
 - **Direktiven 2020–2023** är många uppdrag att redovisa något ("Redovisning
-  av situationen för nyanlända elever"). Budgetarna skriver dem i löptext,
-  så målfilen tar dem ur delårsrapporten och årsredovisningen, där de har
-  "Beslutats av Nämnd" och en kommentar men ingen status.
+  av situationen för nyanlända elever"). De står bland redovisningarna
+  (se nedan). Budgetarna skriver direktiven i löptext, så filerna tar dem
+  ur delårsrapporten och årsredovisningen, där de har "Beslutats av
+  Nämnd" och en kommentar men ingen status.
 - **Statusen** är meningen under "Nämndens bedömning". Årsredovisningarna
   2019, 2020 och 2023 och delårsrapporten 2023 har ingen bedömning i
   texten.
@@ -378,6 +379,37 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   bifallet till initiativet om mobilfria skolor står bara i handlingarna
   2024-03-13. Initiativet om HLR i förskolan (2026-09-16) har ingen
   avsändare i protokollet och står utan steget `vackt`.
+
+### Nämndernas redovisningar
+
+Redovisningssidan (K42,
+[ADR-0065](../decisions/0065-redovisningarna-foljs-som-handlingsplanerna.md))
+har Förskola & Grundskola 2020–2026 (kontrollerat 2026-11-07 i poolen):
+
+- **Beställda redovisningar** kommer tillbaka som egna paragrafer i
+  protokollet. 2020 säger rubriken det ("Redovisningar i nämndbudget 2020
+  – …"), senare ibland texten ("Enligt direktiv i nämndbudget 2022 …"),
+  och oftast har paragrafen direktivets rubrik. Direktiven står i
+  årsredovisningen 2019, 2020, 2021, 2022 och 2023 och i
+  delårsrapporten 2020; filen tar dem ur årsredovisningen när den finns,
+  ett steg per år. Av 41 direktiv har 36 en redovisning i poolen. De fem
+  utan är från 2019, och poolen har inga protokoll från nämnden före
+  2020.
+- **Gränsen mot målen** är rubrikens första ord. Två direktiv 2022 som
+  årsredovisningen säger redovisades på ett möte står ändå kvar bland
+  målen, eftersom rubriken säger något annat: tyska och franska och
+  skollokaler utanför skoltid. Direktiven 2024 som börjar med "Utreda"
+  står också kvar; de har formulering och status.
+- **Återkommande redovisningar** är patientsäkerhetsberättelsen,
+  tillsynen av fristående verksamheter, dataskyddet, olycksfall och
+  tillbud, kränkningsärendena, klagomålen, huvudmannens systematiska
+  kvalitetsarbete, betygsresultaten, enkäterna, intraprenaderna, God och
+  nära vård, samverkan för ökad rörelse, skolvalet, närvaron, skolplikten
+  och barn- och elevhälsan. Sedan 2025 har
+  nämnden ett eget årshjul för dem (protokollet 2025-05-14).
+- **Inte med:** den stående paragrafen "Information – Förskola &
+  Grundskola arbetsutskott och nämnd", som finns på nästan varje möte,
+  enstaka informationspunkter och kommunrevisionens rapporter.
 
 ### Dokumentens innehåll
 

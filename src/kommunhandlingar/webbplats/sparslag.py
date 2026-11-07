@@ -1,9 +1,12 @@
-"""Krav: K36, K37 och K38 i docs/02-KRAV.md, ADR-0057, ADR-0058 och ADR-0059.
-Test: tests/test_lokalbehov.py, tests/test_initiativ.py,
-tests/test_handlingsplaner.py.
+"""Krav: K36, K37, K38 och K42 i docs/02-KRAV.md, ADR-0057, ADR-0058,
+ADR-0059 och ADR-0065. Test: tests/test_lokalbehov.py,
+tests/test_initiativ.py, tests/test_handlingsplaner.py,
+tests/test_redovisningar.py.
 
-Slagen av spår över tid: vad som skiljer lokalbehoven, initiativärendena
-och handlingsplanerna åt. Allt annat är gemensamt (`spar.py`, `sparsida.py`).
+Slagen av spår över tid: vad som skiljer lokalbehoven, initiativärendena,
+handlingsplanerna och redovisningarna åt. Filen är längre än målet för
+att varje slag är data i ett stycke; att dela den skulle skilja slagen
+från listan över dem. Allt annat är gemensamt (`spar.py`, `sparsida.py`).
 """
 
 from kommunhandlingar.webbplats.spar import Slag
@@ -153,4 +156,40 @@ HANDLINGSPLANER = Slag(
     planen="plan",
 )
 
-SLAGEN = (LOKALBEHOV, INITIATIV, HANDLINGSPLANER)
+REDOVISNINGAR = Slag(
+    id="redovisningar",
+    kolumn="redovisning",
+    rubrik="Redovisningar",
+    sak="Redovisning",
+    saker="Redovisningarna",
+    antal="redovisningar",
+    faser={
+        "direktiv": (CIRKEL, "beställd som direktiv i nämndbudgeten"),
+        "redovisad": (FYLLD, "redovisad för nämnden"),
+        "aterkommande": (RUTER, "återkommande redovisning"),
+    },
+    inledning=(
+        "<p>Det förvaltningen redovisar för nämnden år för år: redovisningar "
+        "som nämnden beställt som direktiv i sin budget, och när de kom "
+        "tillbaka, och redovisningar som återkommer varje år enligt lag "
+        "eller nämndens årshjul. Varje ikon länkar till sidan i dokumentet "
+        "som visar steget.</p>"
+    ),
+    metod=(
+        "<p>Ett direktiv står här i stället för bland målen när källan "
+        "själv kallar det en redovisning, en utredning eller information: "
+        "rubriken börjar med de orden. Redovisningen är paragrafen i "
+        "nämndens protokoll. Uppföljningar av målen, som årsredovisningen "
+        "och delårsrapporten, står på sidan om mål och direktiv, och "
+        "förvaltningens stående information står inte med. Varje steg har "
+        "en text som står på källans sida, och bygget prövar det.</p>"
+        "<p>Där källan inte själv säger att paragrafen svarar på direktivet "
+        "är kopplingen en bedömning och ikonen har en streckad ram. Ett år "
+        "utan ikon betyder att inget steg står i poolen det året, inte att "
+        "inget hände; poolen saknar en del protokoll. Sidan visar vad som "
+        "står var och värderar inte redovisningarna.</p>"
+    ),
+    adr="0065-redovisningarna-foljs-som-handlingsplanerna.md",
+)
+
+SLAGEN = (LOKALBEHOV, INITIATIV, HANDLINGSPLANER, REDOVISNINGAR)

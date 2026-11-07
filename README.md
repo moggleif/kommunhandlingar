@@ -11,8 +11,8 @@ står i en konfigurationsfil per kommun.
 Vad poolen innehåller just nu, vilka sammanträden som saknar kallelse
 och handlingar eller protokoll, varje dokument med sina tabeller, en
 kalender med kommunens sammanträden, nämndernas och fullmäktiges mål
-och direktiv, nämndernas lokalbehov, initiativärenden och handlingsplaner
-år för år och de fel i källan som ska meddelas kommunen går att läsa på
+och direktiv, nämndernas lokalbehov, initiativärenden, handlingsplaner
+och redovisningar år för år och de fel i källan som ska meddelas kommunen går att läsa på
 webbplatsen:
 <https://moggleif.github.io/kommunhandlingar/>.
 

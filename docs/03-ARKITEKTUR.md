@@ -222,7 +222,7 @@ src/kommunhandlingar/
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
-                   handlingsplanerna och avvikelserna
+                   handlingsplanerna, redovisningarna och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -230,6 +230,7 @@ uppfoljningar/<kommun>.csv  nämndernas uppföljningar av målen i protokollen (
 lokalbehov/<kommun>.csv  nämndernas lokalbehov steg för steg, skrivna för hand (K36)
 initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna för hand (K37)
 handlingsplaner/<kommun>.csv  nämndernas handlingsplaner steg för steg, skrivna för hand (K38)
+redovisningar/<kommun>.csv  nämndernas redovisningar steg för steg, skrivna för hand (K42)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1652,7 +1653,9 @@ filen (K26), länkad från organets sida.
 - **Källorna** läses av AI-agenten: nämndbudgetarna för målen och
   formuleringarna, delårsrapporterna och årsredovisningarna för statusen.
   Bara det nämnden själv beslutat står med, inte kommunfullmäktiges mål
-  eller direktiv. Säger protokollet något annat än handlingarna till samma
+  eller direktiv. Ett direktiv som beställer en redovisning, en
+  utredning eller information står bland redovisningarna
+  ([Redovisningar](#redovisningar), K42). Säger protokollet något annat än handlingarna till samma
   möte gäller protokollet, och bara protokollets rad står med. Rubrik,
   formulering och status ur samma rad står på
   källans sidor; fortsätter målet på nästa sida är källan båda sidorna,
@@ -1915,3 +1918,34 @@ Filen, kontrollen och sidan är initiativärendenas
 - **Kortet** länkar till själva planen, källan i steget `plan`, när den
   finns i poolen. Historiken med källorna står hopfälld under "Läs mer",
   på alla sidor om spår över tid.
+
+## Redovisningar
+
+Hur och varför står i
+[ADR-0065](decisions/0065-redovisningarna-foljs-som-handlingsplanerna.md).
+En kommun med en fil `redovisningar/<kommun>.csv` får en sida
+`<kommun>/<organ>/redovisningar.html` för varje organ med rader i filen
+(K42). Filen, kontrollen och sidan är handlingsplanernas
+([Handlingsplaner](#handlingsplaner)), med de här skillnaderna:
+
+- **Kolumnen** `redovisning`: redovisningens namn på sidan, detsamma i
+  alla steg. För en beställd redovisning är det direktivets rubrik.
+- **Vilka redovisningar:** ett direktiv i nämndbudgeten vars rubrik i
+  källan börjar med "Redovisning", "Utredning" eller "Information", och
+  redovisningar som återkommer år efter år enligt lag eller nämndens
+  årshjul, som patientsäkerhetsberättelsen, tillsynen och
+  dataskyddsrapporten. Ett sådant direktiv står här och inte i
+  `mal/<kommun>.csv`. Uppföljningarna av målen står i
+  `uppfoljningar/<kommun>.csv`, och förvaltningens stående information
+  och revisionens rapporter står inte med.
+- **Faserna** är `direktiv` (direktivet står i nämndbudgeten, eller i
+  delårsrapporten eller årsredovisningen som listar budgetens direktiv),
+  `redovisad` (paragrafen i protokollet där redovisningen kommer
+  tillbaka till nämnden) och `aterkommande` (paragrafen med en
+  återkommande redovisning).
+- **Året** är budgetåret i `direktiv` och mötets år i de andra faserna,
+  också när redovisningen gäller året före.
+- **Värdet** används inte.
+- **Tolkad:** ett steg `redovisad` har `tolkad` satt till `ja` när
+  paragrafen inte själv säger att den svarar på direktivet och
+  rubrikerna skiljer sig.
