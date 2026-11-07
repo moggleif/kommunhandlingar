@@ -19,7 +19,7 @@ from pathlib import Path
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import Sidtext, provbar, sidlasare
-from kommunhandlingar.webbplats.partier import former
+from kommunhandlingar.webbplats.partier import star_pa
 
 
 @dataclass(frozen=True)
@@ -113,12 +113,14 @@ def kallans_sida(steg: Steg, organ: set[str], sidtext: Sidtext) -> str:
     return sidtext(steg.kalla, steg.kallans_organ)
 
 
-# Avsändaren får stå som partiets namn på sidan (partier.py).
+# Avsändaren får stå som partiets namn, eller Alliansen som de fyra
+# partiernas förkortningar, på sidan (partier.py).
 def kontrollera_sidan(steg: Steg, slag: Slag, sidan: str) -> None:
-    varden = former(steg.varde) if steg.fas == slag.avsandare else (steg.varde,)
-    for falt, alternativ in (("texten", (steg.text,)), ("värdet", varden)):
-        if not any(provbar(a) in sidan for a in alternativ):
-            raise ValueError(f"{falt} står inte på {steg.kalla}")
+    if provbar(steg.text) not in sidan:
+        raise ValueError(f"texten står inte på {steg.kalla}")
+    avsandare = steg.fas == slag.avsandare
+    if not (star_pa(steg.varde, sidan) if avsandare else provbar(steg.varde) in sidan):
+        raise ValueError(f"värdet står inte på {steg.kalla}")
 
 
 def kontrollera_varde(steg: Steg, slag: Slag) -> None:

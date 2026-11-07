@@ -62,7 +62,7 @@ class TestKungsbacka(unittest.TestCase):
         kungsbacka = las_kommun(ROT / "kommuner" / "kungsbacka.toml")
         fil = ROT / "redovisningar" / "kungsbacka.csv"
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", REDOVISNINGAR)
-        self.assertEqual({s.organ for s in stegen}, {"fg"})
+        self.assertEqual({s.organ for s in stegen}, {"fg", "vo"})
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)
 
     def test_bestallda_redovisningar_star_inte_bland_malen(self):

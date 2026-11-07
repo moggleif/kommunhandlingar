@@ -13,7 +13,7 @@ from kommunhandlingar.konfiguration import las as las_kommun
 from kommunhandlingar.webbplats import spar
 from kommunhandlingar.webbplats.bygg import bygg
 from kommunhandlingar.webbplats.mall import Mall
-from kommunhandlingar.webbplats.partier import former
+from kommunhandlingar.webbplats.partier import former, star_pa
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import INITIATIV
@@ -101,6 +101,11 @@ class TestAvsandaren(unittest.TestCase):
         self.assertIn("allianspartierna", former("Alliansen"))
         self.assertEqual(former("Fyra partier"), ("Fyra partier",))
 
+    def test_alliansen_star_som_de_fyra_partiernas_forkortningar(self):
+        self.assertTrue(star_pa("Alliansen", "Initiativärende(M)(L)(C)(KD)-Om"))
+        self.assertFalse(star_pa("Alliansen", "Initiativärende(M)(L)(C)-Om"))
+        self.assertTrue(star_pa("SD", "Initiativ(SD)"))
+
 
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
@@ -156,6 +161,6 @@ class TestKungsbacka(unittest.TestCase):
         kungsbacka = las_kommun(ROT / "kommuner" / "kungsbacka.toml")
         fil = ROT / "initiativ" / "kungsbacka.csv"
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", INITIATIV)
-        self.assertEqual({s.organ for s in stegen}, {"fg", "ga"})
+        self.assertEqual({s.organ for s in stegen}, {"fg", "ga", "vo"})
         self.assertTrue(all(s.varde for s in stegen if s.fas == "vackt"))
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)
