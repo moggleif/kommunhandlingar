@@ -1,4 +1,5 @@
-"""Krav: K6 i docs/02-KRAV.md, ADR-0005. Test: tests/test_konvertering.py.
+"""Krav: K6 och K41 i docs/02-KRAV.md, ADR-0005 och ADR-0064.
+Test: tests/test_konvertering.py och tests/test_hogkant.py.
 
 En sida som ska läsas med OCR renderas med pypdfium2 i 300 dpi, i gråskala,
 och läses av Tesseract med svensk modell. Säkerheten är medelvärdet av
@@ -6,6 +7,9 @@ Tesseracts säkerhet för de ord den känt igen; under tröskeln, eller utan
 ord, är sidan `ej-konverterad`. Det är den också när Tesseract fallerar
 eller inte blir klar på fem minuter. Saknas Tesseract eller modellen
 stoppas körningen innan något dokument läses (`kontrollera`).
+
+Ord på högkant, som en stämpel i marginalen, målas vita och sidan läses
+om, och de skrivs sist på sidan (K41, ADR-0064).
 
 Två fel som Tesseract gör i protokollen rättas i texten (K34, ADR-0055):
 `§` intill en siffra läses som `$`, och en innehållsförtecknings
@@ -23,8 +27,10 @@ from importlib.metadata import version
 from pathlib import Path
 
 import pypdfium2 as pdfium
+from PIL import Image
 
 from kommunhandlingar.fel import Konfigurationsfel
+from kommunhandlingar.konvertering import hogkant
 
 DPI = 300
 SPRAK = "swe"
@@ -39,17 +45,38 @@ UTFYLLNAD = re.compile(
 
 
 def las(rendering: pdfium.PdfPage) -> str | None:
-    """Sidans OCR-text, eller None när den inte når tröskeln."""
+    """Sidans OCR-text, eller None när den inte når tröskeln. Ord på
+    högkant målas vita och sidan läses om; de skrivs sist (ADR-0064).
+    Når omläsningen inte tröskeln gäller den första läsningen."""
+    bild = rendering.render(scale=DPI / 72, grayscale=True).to_pil()
+    forsta = las_bild(bild)
+    if forsta is None or not over_troskeln(forsta[0]):
+        return None
+    stamplar = hogkant.ocr_ord(forsta[0])
+    if stamplar:
+        hogkant.mala_vitt(bild, stamplar)
+        andra = las_bild(bild)
+        if andra is not None and over_troskeln(andra[0]):
+            return hogkant.sist(rensa(andra[1].strip()), hogkant.ocr_rader(stamplar))
+    return rensa(forsta[1].strip())
+
+
+def las_bild(bild: Image.Image) -> tuple[str, str] | None:
+    """Tesseracts TSV och text för bilden, eller None när Tesseract fallerar."""
     with tempfile.TemporaryDirectory() as katalog:
-        bild = Path(katalog) / "sida.png"
-        rendering.render(scale=DPI / 72, grayscale=True).to_pil().save(bild)
-        ut = Path(katalog) / "ut"
-        if not tesseract(bild, ut):
+        fil, ut = Path(katalog) / "sida.png", Path(katalog) / "ut"
+        bild.save(fil)
+        if not tesseract(fil, ut):
             return None
-        sakerhet = medelsakerhet(ut.with_suffix(".tsv").read_text(encoding="utf-8"))
-        if sakerhet is None or sakerhet < TROSKEL:
-            return None
-        return rensa(ut.with_suffix(".txt").read_text(encoding="utf-8").strip())
+        tsv, txt = (
+            ut.with_suffix(s).read_text(encoding="utf-8") for s in (".tsv", ".txt")
+        )
+        return tsv, txt
+
+
+def over_troskeln(tsv: str) -> bool:
+    sakerhet = medelsakerhet(tsv)
+    return sakerhet is not None and sakerhet >= TROSKEL
 
 
 def rensa(text: str) -> str:
