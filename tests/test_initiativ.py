@@ -13,6 +13,7 @@ from kommunhandlingar.konfiguration import las as las_kommun
 from kommunhandlingar.webbplats import spar
 from kommunhandlingar.webbplats.bygg import bygg
 from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.partier import former
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import INITIATIV
@@ -86,11 +87,19 @@ class TestLasning(unittest.TestCase):
         for andrad, fel in [
             (rad.replace(",S,", ",,"), "inte en avsändare"),
             (rad.replace(",S,", ",KD,"), "värdet står inte"),
+            (f"fsn,Simskola,2025,vackt,S,Simskolan,{ANDRAS}#sida-1,\n", "värdet"),
             (rad.replace(",vackt,", ",beslut,"), "'beslut'"),
             (rad.replace(",Öppettider,", ",,"), "arende och texten"),
         ]:
             self.assertIn(fel, self.stoppas(andrad))
         self.assertIn("organ,arende", self.stoppas(RADER, "organ,behov\n"))
+
+
+class TestAvsandaren(unittest.TestCase):
+    def test_forkortningen_star_inom_parentes_eller_som_namn(self):
+        self.assertEqual(former("SD"), ("(SD)", "Sverigedemokrat"))
+        self.assertIn("allianspartierna", former("Alliansen"))
+        self.assertEqual(former("Fyra partier"), ("Fyra partier",))
 
 
 class TestSidan(unittest.TestCase):
@@ -147,6 +156,6 @@ class TestKungsbacka(unittest.TestCase):
         kungsbacka = las_kommun(ROT / "kommuner" / "kungsbacka.toml")
         fil = ROT / "initiativ" / "kungsbacka.csv"
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", INITIATIV)
-        self.assertEqual({s.organ for s in stegen}, {"ga"})
+        self.assertEqual({s.organ for s in stegen}, {"fg", "ga"})
         self.assertTrue(all(s.varde for s in stegen if s.fas == "vackt"))
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)

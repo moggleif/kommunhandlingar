@@ -1250,7 +1250,8 @@ och [Initiativärenden](03-ARKITEKTUR.md#initiativärenden).
   valda avsändaren, och sammandraget räknar ärendena per fas och per
   avsändare. Utan JavaScript står alla.
 - **Givet** en initiativfil med ett steg `vackt` utan avsändare, en
-  avsändare som inte står på källans sida, en okänd fas, ett tomt ärende
+  avsändare som inte står på källans sida (en partiförkortning står där
+  inom parentes eller som partiets namn), en okänd fas, ett tomt ärende
   eller något annat som stoppar en lokalbehovsfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.

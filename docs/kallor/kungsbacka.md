@@ -207,7 +207,7 @@ bara har kallelsen. Två protokoll är källa utan text: Valnämnden
 
 Målfilen (K26,
 [ADR-0044](../decisions/0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md))
-har hittills bara Gymnasium & Arbetsmarknad. Målen står i nämndbudgeten,
+har Gymnasium & Arbetsmarknad och Förskola & Grundskola. Målen står i nämndbudgeten,
 som nämnden beslutar på hösten året före, och statusen i delårsrapporten
 i september och årsredovisningen i februari året efter; alla tre ligger
 i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
@@ -258,6 +258,29 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
   transformationsplanen (handlingarna 2021-06-23) nämner direktivet
   Digital mognad och står i målfilen som `rapport`.
 
+Förskola & Grundskola har samma form 2019–2026 (kontrollerat 2026-11-06
+i poolen), med de här skillnaderna:
+
+- **Alliansens måldokument** ligger efter förvaltningens förslag i
+  handlingarna till budgetmötena 2024-11-13 och 2025-11-12, och
+  protokollet säger att nämnden godkände budgeten med Alliansens mål.
+  Målfilen citerar då måldokumentet. Delårsrapporten och årsredovisningen
+  2025 återger ändå förvaltningens formulering av två av målen.
+- **Nämndbudget 2024** beslutades med Alliansens förslag (protokollet
+  2023-10-18), men förslaget finns inte i poolen; handlingarna har bara
+  förvaltningens budget. Målfilen har därför 2024 bara ur
+  delårsrapporten och årsredovisningen.
+- **Direktiven 2020–2023** är många uppdrag att redovisa något ("Redovisning
+  av situationen för nyanlända elever"). Budgetarna skriver dem i löptext,
+  så målfilen tar dem ur delårsrapporten och årsredovisningen, där de har
+  "Beslutats av Nämnd" och en kommentar men ingen status.
+- **Statusen** är meningen under "Nämndens bedömning". Årsredovisningarna
+  2019, 2020 och 2023 och delårsrapporten 2023 har ingen bedömning i
+  texten.
+- **Saknas i poolen:** delårsrapporterna 2021 och 2022, nämndbudget 2020
+  och nämndbudget 2022 i en form med mål (Alliansens måldokument 2022 är
+  löptext).
+
 ### Kommunfullmäktiges mål och direktiv
 
 Fullmäktiges egen sida (K35,
@@ -293,8 +316,9 @@ poolen):
 
 Lokalbehovsfilen (K36,
 [ADR-0057](../decisions/0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md))
-har hittills bara Gymnasium & Arbetsmarknad, 2023–2026 (kontrollerat
-2026-10-22 i poolen). Stegen står i fyra organs dokument:
+har Gymnasium & Arbetsmarknad, 2023–2026 (kontrollerat
+2026-10-22 i poolen), och Förskola & Grundskola, 2021–2026 (kontrollerat
+2026-11-06). Stegen står i fyra organs dokument:
 
 - **Nämndens lokalbehov** för de kommande fem åren beslutas i oktober,
   med behovsbeskrivningarna som bilagor i handlingarna och en
@@ -317,12 +341,22 @@ har hittills bara Gymnasium & Arbetsmarknad, 2023–2026 (kontrollerat
 Nämnden får ingen återrapport om förra årets lokalbehov; ett behov som
 inte står med ett år syns som ett spår som tar slut.
 
+Förskola & Grundskolas protokoll räknar upp behovsbeskrivningarna som
+bilagor, utan prioritering; 2026 står de bara i handlingarna. Lokalplanens
+löpnummer för förskolor och skolor ligger mellan 227 och 364. Lokalfilen
+har nämndens steg 2021–2026, lokalplanen 2025 och 2026 och
+startbesluten; servicenämndens projekt för FG är inte lästa än.
+Lokalplanens avvecklingsposter (paviljonger, Tingbergsskolan, Fjordskolan,
+Åsa Gårdsskola) står inte med, och inte heller poster med en bokstav i
+löpnumret (227a, 236b), eftersom filen bara tar siffror.
+
 ### Nämndernas initiativärenden
 
 Initiativfilen (K37,
 [ADR-0058](../decisions/0058-initiativarenden-foljs-som-lokalbehoven.md))
-har hittills bara Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
-2026-10-22 i poolen):
+har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
+2026-10-22 i poolen), och Förskola & Grundskola, 2020–2026 (kontrollerat
+2026-11-06):
 
 - **Initiativen** väcks på sammanträdet, ofta som en ny punkt på
   ärendelistan, och står som egna paragrafer i protokollet med
@@ -339,6 +373,11 @@ har hittills bara Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
 - **Luckor:** nämndens protokoll från april till december 2023 och mötet
   2025-03-27 saknas i poolen, liksom det mesta före 2021. Initiativ som
   väcktes då syns bara genom senare protokoll, eller inte alls.
+- **Förskola & Grundskola** skriver avsändaren på samma sätt, men också
+  "allianspartierna" (2021); filen har då `Alliansen`. Protokollet 2023-05-17 saknas i poolen, så
+  bifallet till initiativet om mobilfria skolor står bara i handlingarna
+  2024-03-13. Initiativet om HLR i förskolan (2026-09-16) har ingen
+  avsändare i protokollet och står utan steget `vackt`.
 
 ### Dokumentens innehåll
 
