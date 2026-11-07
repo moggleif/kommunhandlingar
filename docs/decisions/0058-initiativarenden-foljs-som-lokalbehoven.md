@@ -128,6 +128,13 @@ källan säger "Socialdemokraterna", så att samma parti får en knapp.
 Fyra partinamn utan ordet Alliansen skrivs som källan skriver dem, för
 att inte gissa.
 
+Tillägg 2026-11-07, när Vård & Omsorg kom med: där protokollet räknar
+upp fyra ledamöter med förkortningarna (M), (L), (C) och (KD) och inte
+skriver ordet Alliansen går källans ord inte att skriva utan
+ledamöternas namn. Avsändaren blir då `Alliansen`, och bygget godtar
+det när alla fyra förkortningarna står på sidan. Partinamn utan
+förkortningar skrivs fortfarande som källan skriver dem.
+
 Under genomgången visade det sig att flera möten har protokollet i flera
 filer, och att några initiativ bara står i den andra filen. En sökning
 som bara läser `protokoll.md` missar dem.

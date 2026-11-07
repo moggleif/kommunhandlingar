@@ -285,21 +285,24 @@ i poolen), med de här skillnaderna:
 Vård & Omsorg har samma form 2018–2026 (kontrollerat 2026-11-07 i
 poolen), med de här skillnaderna:
 
-- **Få mål och nästan inga direktiv.** Tre nämndmål om året 2018–2021,
-  samma tre mätbara mål 2022–2025 (personalkontinuitet,
-  genomförandeplaner och personalomsättning) och fyra nya mål från 2025.
+- **Få mål och nästan inga direktiv.** Tre nämndmål om året 2018–2020
+  och två 2021, tre mätbara mål 2022–2024 (personalkontinuitet,
+  genomförandeplaner och personalomsättning) och fyra mål från 2025,
+  där personalkontinuiteten finns kvar och tre är nya.
   Avsnittet om direktiv är tomt 2019–2024; 2025 och 2026 har ett eller
   två. Budgeten 2022 ger målen korta rubriker ("Personalkontinuitet
   inom hemtjänsten") med målet som formulering; målfilen grupperar dem
   med målets text. Delårsrapporten 2022 har tappat procenttecknet i ett
   mål ("minst 95 20"); målfilen citerar texten fram till 95.
 - **Statusen** är meningen under "Nämndens bedömning". Delårsrapporterna
-  2019, 2023 och 2024 och årsredovisningarna 2021, 2024 och 2025 har
+  2019, 2023 och 2024, ett av målen i delårsrapporten 2021, tre av fyra i
+  delårsrapporten 2026 och årsredovisningarna 2021, 2024 och 2025 har
   ingen bedömning i texten.
 - **Saknas i poolen:** nämndens möten hösten 2020 (delårsrapporten 2020
   och nämndbudget 2021), årsredovisningen 2019 i handlingarna,
   delårsrapporten 2025 och nämndbudget 2026 i den form nämnden beslutade
-  den, med Alliansens ändringsyrkande. Målfilen har därför 2026 bara ur
+  den, med Alliansens ändringsyrkande. Förvaltningens förslag står i
+  handlingarna 2025-11-13, men målfilen har 2026 bara ur
   delårsrapporten. Dokumenten före 2018 är inte lästa.
 - **Protokollen** har årsredovisningen, delårsrapporten och "Ekonomisk
   uppföljning och prognos" per april (2026 också per augusti, i stället
@@ -380,10 +383,12 @@ Vård & Omsorgs protokoll räknar upp behovsbeskrivningarna som bilagor
 bilagor. Lokalbehovsplanen 2024–2028 bordlades 2022-10-19 och beslutades
 2022-11-16. Lokalbehovet 2027–2031 (hösten 2025) saknas i poolen.
 Lokalfilen har nämndens steg 2021–2026 och lokalplanen 2025 och 2026
-(löpnummer 811–826). Behov som är teknik i befintliga lokaler
-(laddstolpar, nödvatten, låssystem, trygghetslarm, wifi, hörslingor,
-komfortkyla) står inte med, utom reservkraften som har ett eget
-löpnummer i lokalplanen. Lokalplanens poster 827 och 828 ("Avveckling
+(löpnummer 811–826). Behov som är teknik eller utrustning i befintliga
+lokaler (laddstolpar, nödvatten, låssystem, trygghetslarm, wifi,
+hörslingor, komfortkyla, skugga och möbler utomhus, fastigheternas
+status) och flytten av arkivet står inte med, utom reservkraften som har
+ett eget löpnummer i lokalplanen. Åtgärdsvalet för Ekhaga 2022 står på
+samma sida som avvecklingen och är ett steg med den. Lokalplanens poster 827 och 828 ("Avveckling
 lokal hemtjänst", "Anpassning lokal hemtjänst") säger inte vilken lokal
 och står inte med. Startbesluten och servicenämndens projekt för VO är
 inte lästa än.
@@ -456,16 +461,17 @@ har Förskola & Grundskola 2020–2026 (kontrollerat 2026-11-07 i poolen):
   Grundskola arbetsutskott och nämnd", som finns på nästan varje möte,
   enstaka informationspunkter och kommunrevisionens rapporter.
 
-Vård & Omsorg (kontrollerat 2026-11-07) beställer inga redovisningar
-som direktiv. Nämnden gav i stället fyra *utredningsuppdrag* i beslutet om
-nämndbudget 2022 (protokollet 2021-09-15), och de kommer tillbaka som
+Vård & Omsorg (kontrollerat 2026-11-07) har inga direktiv som börjar
+med Redovisning, Utredning eller Information. Nämnden gav i stället fyra
+*utredningsuppdrag* i beslutet om nämndbudget 2022; filen har dem i fasen
+`direktiv` (protokollet 2021-09-15), och de kommer tillbaka som
 paragrafer med rubriken "Uppdrag: …" 2022–2023. Återkommande är
 berättelserna (patientsäkerhet, kvalitet, säkerhet och
 informationssäkerhet och dataskydd), God och nära vård, båda vid delåret
 och helåret, och Qvalifys kvalitetskontroller. Kvartalsrapporterna om ej
 verkställda beslut, de enskilda anmälningarna enligt lex Maria och lex
-Sarah, uppföljningen av arbetsmiljön och den interna kontrollen står inte
-med.
+Sarah, informationspunkterna (också Qvalifys halvår 2026), uppföljningen
+av arbetsmiljön och den interna kontrollen står inte med.
 
 ### Dokumentens innehåll
 

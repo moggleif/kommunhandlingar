@@ -113,15 +113,13 @@ def kallans_sida(steg: Steg, organ: set[str], sidtext: Sidtext) -> str:
     return sidtext(steg.kalla, steg.kallans_organ)
 
 
-# Avsändaren får stå som partiets namn på sidan (partier.py).
+# Avsändaren får stå som partiets namn, eller Alliansen som de fyra
+# partiernas förkortningar, på sidan (partier.py).
 def kontrollera_sidan(steg: Steg, slag: Slag, sidan: str) -> None:
     if provbar(steg.text) not in sidan:
         raise ValueError(f"texten står inte på {steg.kalla}")
-    if steg.fas == slag.avsandare:
-        star = star_pa(steg.varde, sidan)
-    else:
-        star = provbar(steg.varde) in sidan
-    if not star:
+    avsandare = steg.fas == slag.avsandare
+    if not (star_pa(steg.varde, sidan) if avsandare else provbar(steg.varde) in sidan):
         raise ValueError(f"värdet står inte på {steg.kalla}")
 
 
