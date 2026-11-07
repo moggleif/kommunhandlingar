@@ -1,0 +1,59 @@
+Egenskap,"Klassificering enligt CLP-förord-
+ningen för att fastställa egenska-
+pen, H=H-fras","Klassificering enligt KIFS 2005:7
+för att fastställa egenskapen,
+R=riskfras"
+Mycket hög akut giftighet,"H330: Dödlig vid inandning
+H310: Dödlig vid hudkontakt
+H300: Dödlig vid förtäring
+(Specifik organtoxicitet – enstaka
+exponering)
+H370: Orsakar organskador","R26: Mycket giftigt vid inandning
+R27: Mycket giftigt vid
+hudkontakt
+R28: Mycket giftigt vid förtäring
+R39/26: Mycket giftigt: risk för
+mycket allvarliga bestående
+hälsoskador vid inandning
+R39/27: Mycket giftigt: risk för
+mycket allvarliga bestående
+hälsoskador vid hudkontakt
+R39/28: Mycket giftigt: risk för
+mycket allvarliga bestående
+hälsoskador vid förtäring"
+Allergiframkallande,"H334: kan orsaka allergi- eller
+astmasymtom eller andnings-
+svårigheter vid inandning.
+H317: Kan orsaka allergisk hud-
+reaktion","R42: Kan ge allergi vid inandning
+R43: Kan ge allergi vid hud-
+kontakt"
+Hög kronisk giftighet,"H372: Orsakar organskador ge-
+nom lång eller upprepad expo-
+nering","R48/23: Giftigt: risk för allvarliga
+hälsoskador vid långvarig expo-
+nering genom inandning
+R48/24: Giftigt: risk för allvarliga
+hälsoskador vid långvarig expo-
+nering genom hudkontakt
+R48/25: Giftigt: risk för allvarliga
+hälsoskador vid långvarig expo-
+nering genom förtäring"
+Mutagent,"H341: Misstänks kunna orsaka
+genetiska defekter","R68: Möjlig risk för bestående
+hälsoskador"
+"Miljöfarligt, långtidseffekter","H410: Mycket giftig för vatten-
+levande organismer med lång-
+tidseffekter
+H413: Kan ge skadliga lång-
+tidseffekter på vattenlevande
+organismer","R50/53: Mycket giftigt för
+vattenlevande organismer, kan
+orsaka skadliga långtidseffekter i
+vattenmiljön
+R53: Kan orsaka skadliga lång-
+tidseffekter i vattenmiljön"
+Potentiella PBT/vPvB,"Potentiellt persistenta, bio-
+ackumulerande, toxiska/mycket
+persistenta, mycket bioackumu-
+lerande",
