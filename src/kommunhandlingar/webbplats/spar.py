@@ -19,6 +19,7 @@ from pathlib import Path
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import Sidtext, provbar, sidlasare
+from kommunhandlingar.webbplats.partier import former
 
 
 @dataclass(frozen=True)
@@ -102,16 +103,21 @@ def tolka(rad: list[str], slag: Slag, organ: set[str], sidtext: Sidtext) -> Steg
     kontrollera_varde(steg, slag)
     if steg.tolkad not in ("", "ja"):
         raise ValueError(f"tolkad {steg.tolkad!r} är varken tom eller ja")
-    kontrollera_kalla(steg, organ, sidtext)
+    kontrollera_sidan(steg, slag, kallans_sida(steg, organ, sidtext))
     return steg
 
 
-def kontrollera_kalla(steg: Steg, organ: set[str], sidtext: Sidtext) -> None:
+def kallans_sida(steg: Steg, organ: set[str], sidtext: Sidtext) -> str:
     if steg.kallans_organ not in organ:
         raise ValueError(f"källan {steg.kalla!r} är inget organs dokument")
-    sidan = sidtext(steg.kalla, steg.kallans_organ)
-    for falt, varde in (("texten", steg.text), ("värdet", steg.varde)):
-        if provbar(varde) not in sidan:
+    return sidtext(steg.kalla, steg.kallans_organ)
+
+
+# Avsändaren får stå som partiets namn på sidan (partier.py).
+def kontrollera_sidan(steg: Steg, slag: Slag, sidan: str) -> None:
+    varden = former(steg.varde) if steg.fas == slag.avsandare else (steg.varde,)
+    for falt, alternativ in (("texten", (steg.text,)), ("värdet", varden)):
+        if not any(provbar(a) in sidan for a in alternativ):
             raise ValueError(f"{falt} står inte på {steg.kalla}")
 
 

@@ -1866,9 +1866,12 @@ skillnaderna:
   senare, som ett initiativ som väcktes i december och behandlades i
   januari.
 - **Avsändaren** är värdet i steget `vackt` och krävs: partiets
-  förkortning eller `Alliansen` när källan skriver så, annars källans ord
-  (till exempel fyra partier uppräknade med namn). Den prövas mot
-  källans sida som andra värden. Ledamöternas namn står inte i filen;
+  förkortning eller `Alliansen`, också när källan skriver ut namnet
+  ("Sverigedemokraterna", "allianspartierna"), annars källans ord
+  (till exempel fyra partier uppräknade med namn). En förkortning står på
+  källans sida när den står inom parentes, som `(S)`, eller när partiets
+  namn står där (`webbplats/partier.py`); andra avsändare prövas som
+  andra värden. Så räknas varje parti en gång på sidan. Ledamöternas namn står inte i filen;
   de står i källan ett klick bort.
 - **Ordningen** inom ett år är den första fasen först och sedan
   källornas datum, så att en återrapport står före ett senare beslut
