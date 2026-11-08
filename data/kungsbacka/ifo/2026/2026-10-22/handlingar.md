@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001a11/17924802878
 sha256: 847519c99690c8b4e6ce42d7d8970ad2360fc6f78f0f21c55b1788a47f39cc2d
 bytes: 5068108
 sidor: 93
-hamtad: 2026-11-06T12:40:11+00:00
-konverterad: 2026-11-06T12:40:32+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T18:32:17+00:00
+konverterad: 2026-11-08T18:32:38+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -543,27 +543,22 @@ Lokalbehov 2028-2032                                          9
 
 <!-- sida 12 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2028–2032
+
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-17       Anpassning lokal för korttidshem
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Jessica Johansson        (e-post borttagen)
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Matti Ekensten           (e-post borttagen)
+
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Korttidshem enligt LSS
+
 Ett korttidshem är en insats enligt lagen om stöd och service till vissa funktionshindrade (LSS) som
 erbjuder tillfällig vistelse utanför det egna hemmet för barn och ungdomar med omfattande
 funktionsnedsättningar. Insatsen syftar till att ge den enskilde möjlighet till miljöombyte, rekreation,
@@ -572,10 +567,12 @@ omsorgsansvaret.
 Verksamheten utformas utifrån varje barns eller ungdoms individuella behov, förutsättningar och mål.
 Vistelsen sker regelbundet utifrån beslut. Korttidshemmet fungerar som ett komplement till hemmiljön
 och ska erbjuda en trygg, förutsägbar och meningsfull tillvaro med stöd av utbildad personal.
+
 Målgruppen består ofta av barn och ungdomar med exempelvis autism, intellektuell
 funktionsnedsättning, flerfunktionsnedsättningar eller andra varaktiga funktionsnedsättningar som
 medför omfattande stödbehov i vardagen. Många har behov av individuellt anpassad kommunikation,
 tydliggörande pedagogik, struktur och stöd i sociala situationer.
+
 En viktig del av verksamheten är att skapa förutsättningar för meningsfull fritid och social gemenskap.
 Genom aktiviteter, lek, utflykter och gemensamma upplevelser får den enskilde möjlighet att utveckla
 relationer, stärka sin självständighet och uppleva delaktighet i ett sammanhang utanför familjen.
@@ -583,8 +580,18 @@ Korttidshemmets uppdrag vilar på LSS grundläggande principer om goda levnadsvi
 självbestämmande, integritet, delaktighet och jämlikhet. Målet är att varje barn och ungdom ska få
 möjlighet att leva ett så självständigt, meningsfullt och innehållsrikt liv som möjligt utifrån sina
 individuella förutsättningar.
+
 På Kyviks korttidshem är det i dagsläget 19 barn som vistas i varierande omfattning. De barn som vistas
 i verksamheten har olika antal dygn beviljade, allt från 24 dygn upp till 161 dygn per år.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 13 -->
 
@@ -720,47 +727,59 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 17 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2028–2032
+
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-04       Anpassning lokal Smarholmen, Lägerverksamhet
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Henrik Andersson         (e-post borttagen) 5039
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Matti Ekensten           (e-post borttagen) 7318
+
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Verksamheten bedriver lägerverksamhet riktad till barn och ungdomar inom NPF (neuropsykiatriska
 funktionsnedsättningar) och nyttjar idag två lägergårdar. En i Vallda (Smarholmen) och en i Onsala
 (Råglyckan). Råglyckan samutnyttjas med Pontos förskola som nyttjar delar av lokalen under skoltid.
+
 Smarholmen har som flest 10 deltagare per lägertillfälle och 4–6 personal per arbetspass. Byggnaden
 består av 2 avdelningar med 4 sovrum på varje avdelning varav ett av sovrummen på varje avdelning
 används som jourrum för personal. Det finns endast 1 gemensam toalett och 1 gemensam dusch för
 deltagarna. Utemiljön är mycket bra och den avskilda placeringen av byggnaden passar verksamheten.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
+
 För att hantera antalet deltagare och deras enskilda behov samt eventuellt ökande antal deltagare behöver
 Smarholmens lokaler anpassas och utökas. Vi uppskattar att vi i framtiden behöver utöka från 10
 deltagare till 12. Det finns delar av byggnaden som är i behov av upprustning, exempelvis köket.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
  Vi får lokaler som är anpassade för behoven som är aktuella redan idag.
+
  Vi kan ta emot fler deltagare.
  Vi kan möjliggöra individanpassade insatser utan att störa övrig grupp.
+
  Vi kan minska antalet konflikter med/mellan deltagarna.
+
  Vi kan möjliggöra mindre grupper med hög personaltäthet vid exempelvis konflikter och när
 olika behovsnivåer föreligger deltagarna.
+
  Vi skapar struktur och förutsägbarhet vilket innebär trygghet för deltagarna.
  Vi får en tryggare miljö för personal.
+
  Vi kan erbjuda andra verksamheter lokalerna dom tider som inte lägerverksamhet bedrivs.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 18 -->
 
@@ -815,17 +834,9 @@ IF vill att vi behåller och utvecklar Smarholmen.
 
 <!-- sida 20 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2028–2032
+
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 26-09-03         Tillgänglighetsanpassad lokal Daglig verksamhet
 Initiativtagare
@@ -834,9 +845,11 @@ Ylva Andersson           (e-post borttagen) 7452
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Matti Ekensten           (e-post borttagen) 7318
+
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 I dagsläget finns ett mättat antal platser inom Daglig verksamhet (DV) för personer med fysiska
 funktionsnedsättningar samt lokaler som inte fyller sitt ändamål.
+
 Lokalen på kvarteret Ejdern som ska avvecklas pga exploatering av området har verksamheterna Slussen
 och Teknikverkstaden med totalt 20 deltagare. Flertalet av deltagarna har diagnos inom autistspektrum
 med svåra beteendestörningar. Slussen är en föränderlig verksamhet då syftet är att skola in personer i
@@ -845,18 +858,30 @@ Deltagarna förändras i antal och behoven ser olika ut. I dagsläget har båda 
 som har behov av enskilda rum. Det finns även behov av aktivitetsbaserade ytor för aktiviteter och vila.
 Deltagarna har stora och komplexa behov där säkerhetsaspekten är viktig, både för deltagarna och
 personal.
+
 I Kyrkskolan är bara delar av lokalerna tillgänglighetsanpassade vilket innebär begränsningar för
 verksamheten. Lokalerna är komplicerade vilket gör att vissa deltagare behöver ledsagning för att hitta
 rätt och det är en utmaning att utöka med fler deltagare på Kyrkskolan pga redan nu högt deltagarantal.
 Att övervaka verksamheten är personalresurskrävande pga lokalernas utformning.
+
 Lokalerna på Östanvindsgatan där verksamheten Aktivitetscenter befinner sig är inte anpassade för dom
 fysiska funktionsnedsättningar som flera av deltagarna har, lokalerna är för trångt utformade.
 Lokalerna på Tingbergsvägen där verksamheterna Kungsgruppen och Arbetslaget som arbetar med
 utearbeten är inte anpassade för behoven. Där behövs omklädningsrum för dam och herr och endast ett
 omklädningsrum finns. Lokalen är inte tillgänglighetsanpassad och utrymningsvägar är undermåliga.
 Lokalerna håller generellt en låg och gammal standard.
+
 DVs lokaler är utspridda i Kungsbacka vilket gör att samutnyttjande av personal och resurser är en
 utmaning.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 21 -->
 
@@ -959,26 +984,21 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 24 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2028–2032
+
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-08-31       Lägenheter för Vuxenenhetens verksamhetsområde
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Elin Lundström Ekelöf    (e-post borttagen) 0300-836696
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Matti Ekensten           (e-post borttagen) 0300-837318
+
 VERKSAMHETSBESKRIVNING   AV NULÄGET
+
 Enligt Socialtjänstlagen (SoL) har kommunen en skyldighet att kunna erbjuda bostäder åt helt
 bostadslösa individer i olika livssituationer, till exempel då personers vårdbehov upphört och ska
 slussas ut från HVB-hem (hem för vård eller boende), SIS-institutioner (Statens institutionsstyrelse),
@@ -987,23 +1007,36 @@ i vissa fall). Det gäller också för personer som blivit utsatta för våld, o
 annan tillfällig eller mer permanent bostad. Även barnfamiljer som saknar bostad, t.ex. efter en
 vräkning i kombination med annan omfattande social problematik och stora svårigheter att ta sig in på
 ordinarie bostadsmarknad samt ungdomar som varit placerade i familjehem.
+
 Vuxenenheten arbetar bland annat med sociala boendefrågor. Inom enheten finns behov av tillgång till
 bostäder i form av hyresrätter. I dagsläget har vi 39 hyresgäster och statistik visar på att vi har behov av
 10-25 nya hyresobjekt årligen. Idag hyr vi av allmännyttan samt flera privata fastighetsägare i
 kommunen. Villkor för detta ser olika ut, vissa fastighetsägare erbjuder hyresgästen att efter en tid kunna
 överta förstahandskontraktet, medan andra fastighetsägare inte har den möjligheten.
+
 Prövning av övertag görs efter 18-24 månader från det att hyresgästen flyttade in. Flertalet av våra
 bostäder som vi hyr in idag är rivningskontrakt och dessa är inte möjliga för hyresgästen att överta.
 Vuxenenheten arbetar även med insatsen bostad först, vilket är en kombinerad boendeinsats med ett
 flexibelt individuellt stöd för individer med samsjuklighetsproblematik och som står långt ifrån
 bostadsmarknaden. Idag har vi tre hyresgäster i den insatsen. Vi uppskattar att det kommer att flytta in
 ytterligare en individ under hösten 2026.
+
 Målgruppen är oftast individer i ensamhushåll, med stora ekonomiska hinder och låg inkomst. Behovet
 av bostäder är därför mindre bostäder om 1-2 RoK med hyra som inte överstiger Försäkringskassans
 riktlinjer för genomsnittlig och högsta godtagbara hyra.
 I kommunens bostadsförsörjningsplan punkt 3.3 framkommer att det ska finnas möjlighet till förtur för
+
 vissa våldsutsatta personer. Dialog pågår med Eksta hur en sådan förtur kan komma att se ut, men vi ser
 också ett behov av dialog med privata fastighetsägare.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 25 -->
 

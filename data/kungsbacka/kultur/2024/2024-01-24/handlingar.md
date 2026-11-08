@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7a77651118c8ae56a6b97fcd/1705505430
 sha256: d319a4654de7fedef0dde071121a15d680659d44300748d3f4e8a0e2deeb148b
 bytes: 7495518
 sidor: 66
-hamtad: 2026-11-06T12:54:29+00:00
-konverterad: 2026-11-06T12:54:48+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T18:46:55+00:00
+konverterad: 2026-11-08T18:47:17+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -823,29 +823,25 @@ Förvaltningschef              Controller
 
 <!-- sida 26 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 BEHOVSBESKRIVNING
 Övriga Investeringar
+
 1 (2)
+
 Datum            Benämning
 2023-11-30       Tingbergsvallen
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Jessica Wibeck           (e-post borttagen)
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
 Jessica Wibeck           (e-post borttagen)
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Vår äldre friidrottsarena har idag utmaningar när det gäller säkerhet och strukturell integritet och stora
 underhållsåtgärder måste utföras.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Genom att investera i upprustning kan man säkerställa att arenan uppfyller moderna säkerhetsstandarder
 och minimerar riskerna för skador och olyckor.
@@ -853,6 +849,7 @@ En välunderhållen och moderniserad friidrottsarena blir mer attraktiv för arr
 inklusive tävlingar och mästerskap. Det kan locka större publikskaror och öka arenans rykte som en
 professionell och funktionell plats för idrottsevenemang.
 Uppdaterade faciliteter och utrustning kan bidra till förbättrade idrottsprestationer.
+
 Genom att ha en uppgraderad friidrottsarena kan samhället dra nytta av ekonomiska vinster genom att
 locka turism och generera intäkter från evenemang. Besökare spenderar pengar på hotell, restauranger
 och andra lokala företag, vilket kan gynna den lokala ekonomin.
@@ -865,11 +862,23 @@ miljö för unga talanger att träna och utvecklas. Det kan fungera som en katal
 och stödja nästa generation av idrottare. Att investera i upprustning av Tingbergsvallen är således inte
 bara en kostnad utan en investering i gemenskapens hälsa, kultur, ekonomi och framtida
 idrottsframgångar.
+
 BESKRIV KONSEKVENSERNA
 1\. Skola samt föreningsliv kan inte nyttja Tingbergsvallen på grund av att banorna är i så dåligt
+
 skick att det kan generera kroppsskador.
+
 SAMORDNINGSBEHOV
 2\. MEX, teknik, fastighet, samhällsbyggnadskontoret
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 27 -->
 
@@ -892,34 +901,31 @@ Underskrift
 
 <!-- sida 28 -->
 
-Kungsbacka kommun
-Postadress      Besöksadress    Telefon        Webbplats
-434 81 Kungsbacka Stadshuset, Storgatan 37 vx 0300-83 40 00 www.kungsbacka.se
-Filnamn och sökväg
-https://kungsbackakommun.sharepoint.com/sites/kftgemensammafragor-NKFT/Delade dokument/NKFT/Sammanträden 2023/12.
-December/Behovsbeskrivning dränering och utbyte växtbäddar naturgräsplaner.docx 2023-12-05 15:16:21
-60-01-0102
-,0.2
-v
-176BUK
-mroFinu
 BEHOVSBESKRIVNING
+
 1 (2)
+
 Datum                            Benämning
+
 Uppdaterad 20231201              Utbyte växtbäddar/dränering naturgräsplaner
+
 Initiativtagare
 Namn och enhet                   E-postadress        Telefon
 Kultur& Fritid
+
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
 Jessica Wibeck                   (e-post borttagen)
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
+
 Många av de naturgräsfotbollsplaner som vi har i vår kommun är minst 30 år gamla. För att kunna
 erbjuda god kvalité på underlaget måste växtbäddarna förnyas alternativt dräneras. Nya växtbäddar
 skapar bättre förutsättningar för att gräset växer sig starkare vilket i sin tur bidrar till bättre kvalité på
 planerna. Planerna får bättre förutsättningar att klara belastningen under själva fotbollssäsongen, men
 också bättre förutsättningar för att klara övervintringen.
 Dränering av fotbollsplaner är en viktig åtgärd av flera skäl:
+
 Översvämningsrisk: En bristande dränering kan leda till vattenansamling på fotbollsplanen, särskilt
 under regniga perioder. Översvämningar kan göra planen ofunktionell och öka risken för skador för
 spelare. Dränering hjälper till att förhindra vattenansamling och därmed minimera risken för
@@ -933,12 +939,23 @@ inklusive konstgrässystem eller naturligt gräs, vilket kan kräva kostsamma re
 sammanfattning är dränering av fotbollsplaner avgörande för att främja en hållbar, säker och
 högkvalitativ spelupplevelse samt för att bevara planens struktur över tid. Det är en investering som
 bidrar till långsiktig hållbarhet och prestanda på idrottsanläggningen.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Bättre kvalité och hållbarhet på planerna – ger bättre förutsättningar för fotbollsföreningarna och
 underlättar skötseln av planerna.
+
 VAD BLIR KONSEKVENSERNA  OM INGET GÖRS?
 Tungarbetade planer med ojämn gräsväxt samt upprepade avstängningar av planerna för återhämtning av
 grästillväxten. Försämrade förutsättningar för föreningslivet, bla med stängningar och spelkvalité.
+
+Kungsbacka kommun
+Postadress      Besöksadress    Telefon        Webbplats
+434 81 Kungsbacka Stadshuset, Storgatan 37 vx 0300-83 40 00 www.kungsbacka.se
+Filnamn och sökväg
+https://kungsbackakommun.sharepoint.com/sites/kftgemensammafragor-NKFT/Delade dokument/NKFT/Sammanträden 2023/12.
+December/Behovsbeskrivning dränering och utbyte växtbäddar naturgräsplaner.docx 2023-12-05 15:16:21
+
+uniForm KUB671 v 2.0, 2010-10-06
 
 <!-- sida 29 -->
 
@@ -956,51 +973,62 @@ TIDPLAN
 
 <!-- sida 30 -->
 
-Kungsbacka kommun
-Ekonomi
-4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
-F0ax 300-83 47 04 w ww.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 BEHOVSBESKRIVNING
 Övriga Investeringar
+
 1 (2)
+
 D2atum 0221207,  BUenämning tbyte biblioteksbuss
+
 Rev 2023-11-29
 Initiativtagare
 NSamn och enheto fia Rosén, verksamhetschef Es-postadress (e-post borttagen) 0Arbetstelefon 300-83 81 35
+
 Kontaktperson för behovsbeskrivningen
 NSamn och enhet usan Pour, bibliotekschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 41 94
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Nuvarande biblioteksbuss levererades januari 2018 och kommer att behöva ersättas efter ca
 10 år.
+
 Kungsbacka kommun har en väl etablerad mobil verksamhet. I över 40 är har biblioteket kör ut
 till invånare som har långt till biblioteket på landsbygden samt förskolor. Kungsbacka har under
 dessa år fått utmärkelsen Sveriges bästa mobila verksamhet 2 gånger, senast 2018 med
 motiveringen "Med stort tålamod, genomtänkta lösningar, långsiktiga och tydliga prioriteringar
 samt hög ambitionsnivå har verksamheten över decennier ständigt utvecklats."
+
 Biblioteksbussen i Kungsbacka fungerar som ett närbibliotek och bussens besökare förväntar
 sig och får samma service som ges på de andra stationära biblioteken i Kungsbacka.
 Biblioteksbussen kör fem dagar i veckan, både förmiddagar till förskolor samt kvällar enligt
 tidtabell mot allmänheten. Körsträckan per år är minst 2000 mil med drygt 40 000 besök.
+
 Visionen för Biblioteksbussen är en funktionell bibliotekslokal på hjul. Det är viktigt att
 besökaren upplever att de är i ett bibliotek, och även känner igen att det är just Biblioteken i
 Kungsbacka de befinner sig i. Den personliga kontakten med personalen erbjuder kunskap-
 och informationsförmedling. Biblioteksbussen möjliggör bättre service och utbud med flera
 lässtimulerande aktiviteter, bra bestånd och personlig service med gott om utrymme för att få
 en trevlig biblioteksupplevelse.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Kungsbacka kommun är stor till ytan och antalet invånare ökar både i centrala Kungsbacka, i
+
 tätorterna och på landsbygden. Bibliotek ska vara tillgängliga för alla. Med en biblioteksbuss
 kan biblioteket nå ut till fler och även aktivt söka upp prioriterade målgrupper som barn och
 unga, vuxna med annat modersmål än svenska, äldreboenden, dagligverksamhet, icke-
 användare och de som har långt till närmaste bibliotek.
+
 Nyttan med en biblioteksbuss är att tillgängliggöra bibliotekets fysiska och digitala
 bestånd/medier för de som väntar och längtar men inte kan ta sig till biblioteket samt att göra
 biblioteket relevant för alla. Med bussen kan biblioteket nå prioriterade grupper samt
 möjligheten att öka utbud och tillgänglighet till biblioteksverksamhet i Kungsbacka kommun
 genom att kunna erbjuda biblioteksservice på mer flexibla sätt för att nå fler invånare vilket har
+
+Kungsbacka kommun
+Ekonomi
+4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
+F0ax 300-83 47 04 w ww.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 31 -->
 
@@ -1038,41 +1066,44 @@ Underskrift
 
 <!-- sida 32 -->
 
-Kungsbacka kommun
-Ekonomi
-4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
-F0ax 300-83 47 04 w ww.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 BEHOVSBESKRIVNING
 Övriga Investeringar
+
 1 (2)
+
 D2atum 0221207,  BUenämning tbyte biblioteksbil
+
 rev 20231129
 Initiativtagare
 NSamn och enheto fia Rosén Es-postadress (e-post borttagen) 0Arbetstelefon 300-83 81 35
 Bibliotek, Kulturmiljö och Turism
+
 Kontaktperson för behovsbeskrivningen
 NSamn och enhet usan Pour, bibliotekschef Es-postadress (e-post borttagen) A0rbetstelefon 300-83 41 94
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Nuvarande biblioteksbil som är från 2012 behöver bytas ut, då den är över tio år vid utbytet.
+
 Kungsbacka kommun har sedan över 40 år en biblioteksbuss som huvudsakligen besöker
 hållplatser på landsbygden samt förskolor. Biblioteksbussen fungerar som ett närbibliotek och
 bussens låntagare förväntar sig samma service som ges på de andra stationära biblioteken i
 Kungsbacka.
 Som komplement till bokbussverksamheten har en biblioteksbil köpts in 2012. Syftet
+
 med Biblioteksbilen är i första hand att besöka förskolor, äldreboenden, gruppbostäder och
 daglig verksamhet i kommunen. Biblioteksbilen har således besökt förskolegrupper och dess
 personal och äldreboenden, gruppboenden för personer med vissa funktionsnedsättningar och
 personal från dessa institutioner.
+
 Biblioteket vill utveckla den mobila verksamheten och i stället för att investera i en ”ny
 biblioteksbil” avveckla den nuvarande biblioteksbilen som kräver C-körkort och är klassad som
 lättlastbil. Biblioteksbilen ska ersättas med mindre bilar med lastkapacitet som i sina
 köregenskaper påminner mer om personbilar och endast kräver B-körkort. Vilket möjliggör en
 mycket större flexibilitet där fler i personalen kan köra dem.
 Visionen för Biblioteksbilen är funktionellt bibliotek på hjul som möjliggör bättre service och
+
 utbud det allra viktigaste aktivitet.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Fortsatt biblioteksservice till prioriterade grupper.
 Nyttan med biblioteksbil för prioriterade grupper samt möjligheten att öka utbud och
@@ -1083,8 +1114,16 @@ För att alla ska få tillgång till biblioteksservice krävs flexibla lösninga
 kommunens alla delar med bibliotekets olika verksamheter, allt ifrån Mera digital mobil till
 traditionell läsfrämjande verksamhet. Med mindre fordon kan biblioteket nå de som har långt till
 de fasta biblioteken med delar av det biblioteket erbjuder.
+
 Utöver att vi med biblioteksbilen vill nå de i bibliotekslagen utpekade prioriterade målgrupperna
 kommer biblioteksbilarna att användas till att nå icke-användare genom pop-up verksamhet.
+
+Kungsbacka kommun
+Ekonomi
+4 34 81 Kungsbacka VBesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
+F0ax 300-83 47 04 w ww.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 33 -->
 
@@ -1122,31 +1161,28 @@ Underskrift
 
 <!-- sida 34 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 BEHOVSBESKRIVNING
 Övriga Investeringar
+
 1 (2)
+
 Datum            Benämning
 2023-12-01       Reinvesteringar av konstgräsplaner
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Jessica Wibeck KFT       (e-post borttagen) 0300 – 834662
 Kontaktperson för behovsbeskrivningen
 Namn och enhet           E-postadress               Arbetstelefon
 Jessica Wibeck           (e-post borttagen) 0300 – 834662
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS?
 Kultur & Fritid byter årligen ut konstgräsmattor på våra konstgräsplaner.
+
 År 2026 planeras att byta konstgräs på Ängås, där det finns både en 7- & en 11-manna konstgräsplan.
 Bedömningen är att det är mer kostnadseffektivt och fördelaktigt för föreningslivet att båda planerna kan bytas
 vid samma tillfälle.
+
 Utbyte av konstgräsmatta är nödvändigt av flera skäl:
 Slitage: Konstgräs utsätts för intensiv användning, där sportevenemang och träningar regelbundet äger rum.
 Efter en tid kan konstgräset slitas ut och förlora sin elasticitet och prestanda. Det kan resultera i en ojämn yta
@@ -1156,19 +1192,35 @@ Genom att byta ut äldre konstgräs mot nyare och förbättrade versioner kan ma
 tekniska framstegen. Slitet konstgräs leder till ojämna ytor och ökad risk för skador, särskilt vid snabb och
 intensiv idrottsaktivitet. Genom att byta ut konstgräset kan man säkerställa en bättre spelkvalitet och minska
 risken för skador.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
+
 Konstgräset behöver bytas så att våra planer inte blir utdömda. Vi kan följa vår planerade underhållsbudget.
+
 BESKRIV KONSEKVENSERNA
 Slitage, Åldrande, Teknologisk utveckling, Säkerhet och spelkvalité, Miljöpåverkan
+
 SAMORDNINGSBEHOV
 Samordning sker med Teknik, berörda föreningar, vid behov FG, GA
+
 INVESTERINGSSVOLYM
 Utgift runt 7 miljoner kronor 2026. Det är mer kostnadseffektivt att byta båda planerna på Ängåsvallen
 vid samma tillfälle. Vi kan göra en upphandling, entreprenören behöver vara där vid en tidsperiod och
 det blir mindre störningar för föreningslivet att ha en ”byggarbetsplats” på området vid ett tillfälle.
+
 Övriga år 4,2- 4,4 miljoner
+
 TIDPLAN
 Påbörja upphandling året innan för att kunna lägga om under sommarperioden
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 35 -->
 

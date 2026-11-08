@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe22fca2/1710507154
 sha256: 4696e1a8ac4812fc4b4658acb1a73c112d5637d64c1879f3d37237c86d4bfb20
 bytes: 17427636
 sidor: 1115
-hamtad: 2026-11-06T12:55:17+00:00
-konverterad: 2026-11-06T12:58:24+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T18:47:47+00:00
+konverterad: 2026-11-08T18:50:44+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5330,15 +5330,15 @@ Procent
 25
 
 20
-
+Pojkar, Gym. år 2
 15
-
+Totalt. Gym. år 2
+Flickor, Gym. år 2
 10
-
-5
-
+Pojkar. Årskurs 9
+5                                   Totalt. Årskurs 9
+Flickor. Årskurs 9
 0
-
 Källa: CAN:s nationella skolundersökning (Centralförbundet för alkohol- och narkotikaupplysning).
 
 I Hälsa på lika villkor är den yngsta redovisade åldersgruppen 16–
@@ -5351,13 +5351,52 @@ Olika åldersgruppers narkotikaanvändning redovisas nedan i
 figur 4.3.
 
 109
-0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202
-Pojkar, Gym. år 2
-Totalt. Gym. år 2
-Flickor, Gym. år 2
-Pojkar. Årskurs 9
-Totalt. Årskurs 9
-Flickor. Årskurs 9
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
 
 <!-- sida 132 -->
 
@@ -8535,34 +8574,60 @@ tinuerligt från cirka 2 000 patienter år 2006 till nära 7 500 år 2022.
 Figur 6.32 Antal personer i LARO
 Uppgifter från regionerna samt utvecklingen över tid utifrån förskrivna
 och rekvirerade läkemedel. Dessutom olika kartläggningar. Antal
-8000
+8000                               Skattning
 7000
-
+Bättre beroendevård
 6000
-5000
+Samsjuklighets-
+5000                               utredningen
+Indivior
 4000
-3000
+3000                               Socialstryrelsen
+kartläggningar
 2000
 1000
-
 0
-
 Källa: Bearbetning av uppgifter från E-hälsomyndigheten, Socialstyrelsen, Bättre Beroendevård, Region
 Västernorrland, Samsjuklighetsutredningen samt Re-Think/Indivior Nordics.
-
 I figur 6.33 redovisas antalet patienter i LARO per län 2021. Antalet
 patienter per 100 000 invånare skiljer sig stort mellan olika regioner,
 från 21 till 112. Skillnaderna mellan regionerna kan bero på skillnader
 
 179
-6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202
-Skattning
-Bättre beroendevård
-Samsjuklighets-
-utredningen
-Indivior
-Socialstryrelsen
-kartläggningar
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
 
 <!-- sida 202 -->
 
@@ -8788,18 +8853,19 @@ Vårdkontakter dels med diagnos för skadligt bruk eller beroende
 av narkotika (F11–F16, F19), dels för området allmänpsykiatri,
 dels för alla uppföljda områden inom hälso- och sjukvården. Procent
 100
-90
-
-80
-70
-
-60
-
-50
-40
-
+90 dagar. Narkotika
+90                                 F11-16, F19
+90 dagar.
+80                                 Allmänpsykiatri
+90 dagar. Alla
+70                                 områden
+30 dagar. Narkotika
+60                                 F11-16, F19
+30 dagar. Alla
+50                                 områden
+30 dagar.
+40                                 Allmänpsykiatri
 30
-
 Källa: Väntetidsdatabasen, Sveriges Kommuner och Regioner.
 
 I figur 6.38 visas andelen första besök i specialiserad vård med diag-
@@ -8815,19 +8881,50 @@ och regioner med bättre tillgänglighet får fler patienter som tar kon-
 takt med vården och hamnar i kön.
 
 184
-12-naj 12-bef 12-ram 12-rpa 12-jam 12-nuj 12-luj 12-gua 12-pes 12-tko 12-von 12-ced 22-naj 22-bef 22-ram 22-rpa 22-jam 22-nuj 22-luj 22-gua 22-pes 22-tko
-90 dagar. Narkotika
-F11-16, F19
-90 dagar.
-Allmänpsykiatri
-90 dagar. Alla
-områden
-30 dagar. Narkotika
-F11-16, F19
-30 dagar. Alla
-områden
-30 dagar.
-Allmänpsykiatri
+
+jan-21
+
+feb-21
+
+mar-21
+
+apr-21
+
+maj-21
+
+jun-21
+
+jul-21
+
+aug-21
+
+sep-21
+
+okt-21
+
+nov-21
+
+dec-21
+
+jan-22
+
+feb-22
+
+mar-22
+
+apr-22
+
+maj-22
+
+jun-22
+
+jul-22
+
+aug-22
+
+sep-22
+
+okt-22
 
 <!-- sida 207 -->
 

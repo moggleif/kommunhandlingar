@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f9bb92b/1750141335
 sha256: a05be5b128458f99b8f1b3ba583239d0c4be1d7dcdb95b8affb6e61cc708b35d
 bytes: 112255513
 sidor: 474
-hamtad: 2026-11-06T23:39:22+00:00
-konverterad: 2026-11-06T23:43:56+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T22:51:53+00:00
+konverterad: 2026-11-08T22:57:06+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -1162,9 +1162,8 @@ rekommendationerna och kommer införa rutinarbetet och arbetsfördelning under �
 påvisande vid kommande bokslut.
 
 Medlem i Ernst & Young Global Limited
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 30 -->
 
@@ -1208,9 +1207,8 @@ Redovisningsbyrån har goda rutiner för detta och ser inte att det kommer händ
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 [Tabell 30-1](handlingar.tabeller/30-1.csv)
 
@@ -1271,9 +1269,8 @@ med lag om offentlig upphandling. Kontrollen bör utföras av annan och överord
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 32 -->
 
@@ -1326,9 +1323,8 @@ i takt med att kostnader uppstår och redovisa investeringsbidrag mot anläggnin
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 33 -->
 
@@ -1376,9 +1372,8 @@ att Stiftelsen är tillräckligt försäkrad.
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 34 -->
 
@@ -1416,9 +1411,8 @@ Auktoriserad revisor
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 35 -->
 
@@ -1521,9 +1515,8 @@ nerade omfattning och inriktning samt tidpunkten för den. Vi
 måste också informera om betydelsefulla iakttagelser under
 revisionen, däribland de eventuella betydande brister i den in-
 terna kontrollen som vi identifierat.
-D8DK1-YXMTB-5H727-35GFL-VN215-O80PX
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: XP08O-512NV-LFG53-727H5-BTMXY-1KD8D
 
 <!-- sida 36 -->
 
@@ -1579,9 +1572,8 @@ Ernst & Young AB
 Maria Strandberg
 Auktoriserad revisor
 2 (2)
-D8DK1-YXMTB-5H727-35GFL-VN215-O80PX
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: XP08O-512NV-LFG53-727H5-BTMXY-1KD8D
 
 <!-- sida 37 -->
 
@@ -1627,9 +1619,8 @@ för stiftelsens verksamhet och ekonomi för att säkerställa att insatserna f�
 på de områden där risken för bristfällig styrning och uppföljning är som störst.
 
 Styrelseledamöterna har inte handlat i strid med stiftelselagen eller stiftelseförordnandet.
-VPCA6-HR19C-NSQ55-UVR9X-44GA0-B28V1
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 1V82B-0AG44-X9RVU-55QSN-C91RH-6ACPV
 
 <!-- sida 38 -->
 
@@ -1665,9 +1656,8 @@ utsedd revisor             utsedd revisor
 Christine Lindeberg        Bo Regnér
 Av kommunfullmäktige       Av kommunfullmäktige
 utsedd revisor             utsedd revisor
-VPCA6-HR19C-NSQ55-UVR9X-44GA0-B28V1
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 1V82B-0AG44-X9RVU-55QSN-C91RH-6ACPV
 
 <!-- sida 39 -->
 
@@ -5460,13 +5450,9 @@ Lek, dagvatten, rekreation.
 
 Vinteraktiviteter.
 
-de för att möjliggöra för arenan.
-Inför detaljplanearbetet har kom-     Fotbollsarena
-edårmosgnilväT
-\- snärG
-Träningsbåna
+de för att möjliggöra för arenan.              Träningsbåna
 5min
-5min
+Inför detaljplanearbetet har kom-     Fotbollsarena   5min
 5min
 
 munen anordnat en projekttävling
@@ -5483,6 +5469,8 @@ mans med Hille Melbye Arkitekter vann med sitt förslag "Krona". Det
 vinnande förslaget kommer ligga till grund för utformningen av Kungsbacka
 
 17
+
+Gräns - Tävlingsområde
 
 <!-- sida 128 -->
 

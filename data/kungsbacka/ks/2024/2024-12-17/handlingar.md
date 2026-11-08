@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe2805ee18/1733995582
 sha256: 1157adc986408bf1cb59c9ac9a04b556bc81eb667aeed5c20a8e4129a289e02f
 bytes: 193217824
 sidor: 528
-hamtad: 2026-11-06T22:55:44+00:00
-konverterad: 2026-11-06T23:02:08+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T22:02:24+00:00
+konverterad: 2026-11-08T22:09:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2950,8 +2950,6 @@ Bilaga B
 
 <!-- sida 63 -->
 
-uniform KUB100 v 1,1, 2012-05-20
-
 Kungsbacka
 
 KUNGSBACKA KOMMUN 1 (2)
@@ -2993,8 +2991,7 @@ Följande utförs av Samhällsbyggnadskontoret, Planavdelningen i samråd med Be
 genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
 informationsmaterial för samråd och granskning.
 2\. Grundkarta och fastighetsförteckning.
-\|
-3\. Skisser och utredningar som fordras vid framtagande av detaljplan, |
+3\. Skisser och utredningar som fordras vid framtagande av detaljplan,
 
 4, Samrådsredogörelse efter samråd och ett granskningsutlåtande efter granskning
 
@@ -3008,6 +3005,8 @@ underrättelse/granskning, antagande och arkivering.
 
 8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
+
+uniform KUB100 v 1,1, 2012-05-20
 
 <!-- sida 64 -->
 
@@ -3621,8 +3620,6 @@ Bilaga B
 
 <!-- sida 75 -->
 
-uniForm KUB100 v 1.1, 2012-05-20
-
 Kungsbacka
 
 KUNGSBACKA KOMMUN 1 (2)
@@ -3661,12 +3658,13 @@ Skårby 22:5 i detaljplanen för utveckling av Annebergs centrum.
 principavtal med fastighetsägaren till Alafors 2:49 och Skårby 22:5.
 
 Följande utförs av Samhällsbyggnadskontoret, Planavdelningen i samråd med Beställaren
+
 1\. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
 genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
 informationsmaterial för samråd och granskning.
+
 2\. Grundkarta och fastighetsförteckning.
 3, Skisser och utredningar som fordras vid framtagande av detaljplan.
-
 4, Samrådsredogörelse efter samråd och ett granskningsutlåtande efter granskning
 
 5\. Material beställt av Planavdelningen och som fordras vid samråd, granskning och
@@ -3679,6 +3677,8 @@ underrättelse/granskning, antagande och arkivering.
 
 8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
+
+uniForm KUB100 v 1.1, 2012-05-20
 
 <!-- sida 76 -->
 
@@ -7459,55 +7459,59 @@ Källa: SCB, kartan bearbetad av VGR
 7
 TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                       INLEDNING  OCH  FÖRUTSÄTTNINGAR
 
+Arbets-, studie- och tjänsteresor
+drygt 50 procent
+
 ```osaker-tabell
-                   13%                                                                             21%
-13%                                                                            28%
-                          15%                                                                            28%
-            5%                                                                             18%
+                                                                                   13%                                                                             21%
+                                                                13%                                                                            28%
+                                                                                          15%                                                                            28%
+                                                                            5%                                                                             18%
 
-                                                              13%                                                                            21%
- 11%           14%                                  16%                          16%          17%                                   28%
+                                                                                                                              13%                                                                            21%
+                                                                 11%           14%                                  16%                          16%          17%                                   28%
 
-                     15%                                                                             23%
-                                                                 17%                                                                             26%
+                                                                                     15%                                                                             23%
+                                                                                                                                 17%                                                                             26%
+     Fördelningen                                                                                                        17%                                                                            25%
+                                                                       12%                                                                            17%
+för kollektivtrafikresor                                                                                    20%                                                                             29%
+                                                                                   15%                                                                             28%
+   i Västra Götaland                                          14%                                  17%                      11%              26%                                  33%                      23%
+                                                                   15%                                                                            29%
+                                                                           22%                                                                            29%
+                                                                                                             9%                                                                             22%
+                                                                                           10%                        19%                                                 15%                        35%
+                                                                                                                           14%                                                                            25%
+                                                                                                   12%                                                                             21%
+                                                                      11%           28%     7%                                                       17%           41%     13%
+                                                                                                            20%                                                                            29%
+                                                                                16%                                  11%                                       22%                                   24%
+                                                                          18%                                                                            25%
+                                                                    16%                                                                             20%
+                                                                                            15%                                                                             25%
+                                                                                                    14%                                                                             19%
+                                                                                27%                                                                            31%
+                                                                         29%            28%                                                             29%            41%
 ```
 
-17%                                                                            25% 12% 17%
+Serviceresor                           Fritidsresor
+23%                     12%                                                    28%                      21%
+20 procent                         knappt 30 procent
 
 ```osaker-tabell
-                                              20%                                                                             29%
-                     15%                                                                             28%
-14%                                                                            26% 17% 11%                          33%                      23%
-     15%                                                                            29%
-             22%                                                                            29%
-                                               9%                                                                             22%
-                             10%                        19%                                                 15%                        35%
-                                                             14%                                                                            25%
-                                     12%                                                                             21%
-        11%           28%     7%                                                       17%           41%     13%
-                                              20%                                                                            29%
-                  16%                                  11%                                       22%                                   24%
-            18%                                                                            25%
-      16%                                                                             20%
-                              15%                                                                             25%
-                                      14%                                                                             19%
-                  27%                                                                            31%
-           29%            28%                                                             29%            41%
-                     23%                     12%                                                    28%                      21%
-    27%     56%                                                                    41%     64%
-                  39%     23%     27%                                                            47%      27%    36%
-                    30%                                                                            36%
-               36%                                                                             46%
-               21%        15%               10%                                               29%         19%              22%
-                                   10%                                                                             16%
+27%     56%                                                                    41%     64%
+              39%     23%     27%                                                            47%      27%    36%
+                30%                                                                            36%
+           36%                                                                             46%
+           21%        15%               10%                                               29%         19%              22%
+                               10%                                                                             16%
 ```
 
 Arbets­, studie­ och tjänsteresor utgör drygt 40 procent  av
 alla resor i Västra Götaland, oavsett färdmedel. Övriga  60
-
 procent av resorna  fördelas ungefär lika mellan ”serviceresor”
 respektive ”fritidsresor”. Ärendefördelning  för enbart kollektiv­
-
 Figur 5. Kollektivtrafikens motoriserade marknadsandel (kollektivtrafik         Figur 6. Andel hållbara resor (kollektivtrafik, gång och cykel jämfört
 trafikresor ser något annorlunda  ut. Arbets­, studie­ och
 jämfört med totala antalet kollektivtrafik- och bilresor) per kommun.           med  totala antalet resor) per kommun.
@@ -7524,17 +7528,10 @@ av resorna sker i stadstrafiken i Göteborg­Mölndal­Partille.                
 Sett till antalet personkilometer står längre resor, ofta över                  nedsättning,  låginkomsttagare  och  äldre reser i högre grad lokalt
 
 flera kommungränser,   för cirka hälften av alla resta kilometer.               och är mer  beroende  av kollektivtrafiken för sin mobilitet.
-kirburmargaiD
-3
-2
-1
-Arbets-, studie- och tjänsteresor
-drygt 50 procent
-Fördelningen
-för kollektivtrafikresor
-i Västra Götaland
-Serviceresor                           Fritidsresor
-20 procent                         knappt 30 procent
+
+Diagramrubrik
+
+1 2 3
 
 <!-- sida 159 -->
 
@@ -9245,10 +9242,11 @@ Självfinansieringsgraden
 I figur 9 beskrivs utvecklingen av självfinansieringsgraden  enligt
 2024       2025      2026      2027       2028      2029
 Västtrafiks prognos  till 2029. Trafikförsörjningsprogrammets
-tnecorP
 År
 
 Prognos 2024                Mål trafikförsörjningsprogram
+
+Procent
 
 <!-- sida 180 -->
 
@@ -12911,40 +12909,52 @@ FÖRVALTNINGSRÄTTEN         FÖRELÄGGANDE                Aktbilaga 17
 I GÖTEBORG                 2024-11-22                  Mål nr 12826-24
 Avd. 4
 
-9348301
-
-dI.koD
 Kungsbacka kommun
+
 §144
+
 Parter:         m.fl. ./. Kungsbacka kommun
 Målet gäller: laglighetsprövning enligt kommunallagen
+
 Domstolen har fått in handlingar i målet. Handlingarna följer med detta brev.
+
 Lämna ett yttrande till domstolen
 Ni ska lämna in ett skriftligt yttrande där ni bemöter det som står i handlingarna.
 Domstolen måste ha yttrandet senast den 13 december 2024. När tiden har gått ut kan
 domstolen komma att avgöra målet, även om något svar inte kommit in.
 Ni ska inom samma tid inkomma med de handlingar som benämns som beslutsunderlag i
 det överklagade beslutet.
+
 När ni skickar in yttrandet
 Uppge ert namn, målnummer 12826-24 och det telefonnummer som ni kan nås på. Lämna
 också e-postadress, så att vi framöver kan skicka handlingar i målet via e-post.
+
 Skicka gärna in handlingarna till domstolen digitalt, helst i PDF-format. De behöver då inte
 lämnas på annat sätt. På www.domstol.se/skickadigitalt finns information om hur ni kan
 lämna in handlingar digitalt.
+
 Har ni frågor?
 På webbplatsen finns information om domstolen och om handläggningen. Kontakta oss
 gärna vid frågor – ni når oss via e-post (e-post borttagen) eller per telefon
 031-732 70 00.
+
 Med vänlig hälsning
+
 Anna Odd-Stenvall
+
 Bifogade handlingar: aktbilaga 1, 4
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Sten Sturegatan 14 måndag–fredag Box 53197 (e-post borttagen)
 08:00–16:00 400 15 Göteborg
 Telefon                                    Webbplats
 031 - 732 70 00                            www.forvaltningsrattenigoteborg.domstol.se
+
+Dok.Id 1038439
 
 <!-- sida 265 -->
 

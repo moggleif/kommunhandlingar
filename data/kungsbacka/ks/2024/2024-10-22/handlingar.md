@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.518b0d32192711cc07ec6a5a/1729079545
 sha256: 745d404a73a73f2c5cbfee31405be9063507e458218e4e978112a73fd74c1462
 bytes: 140982836
 sidor: 462
-hamtad: 2026-11-06T22:34:49+00:00
-konverterad: 2026-11-06T22:44:45+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T21:39:10+00:00
+konverterad: 2026-11-08T21:49:45+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -15325,45 +15325,282 @@ färdtjänstupphandling”ii
 •  2019 beslut om att tillståndet dagvårdsresor skulle ersättas med ordinarie färdtjänst
 
 5
-H a n d lä g g e r
-a n s ö k n in g a r
-U tf ä rd a r s ä rs k ild a
-p a rk e rin g s ti lls tå n d
-T illä m p n in g s re g le r
-u ti frå n la g e n o m
-fä rd tjä n s t
-T ra fi k fö rs ö rjn in g s-
-p ro g ra m
-K u n g s b a c k a
-F ä rd tjä n s tt a x a
-v e re n
-T ra fi k s a m o rd n a re
-F o rd o n
-h a u ff ö re r
-F a k tu ra frå g o r
-vta l m
-Ta xib o
-sko m m e lse
-v ta l
-ed
-la g
-BK
-SkFti
-e s tä lln in g s c e n tra
-u n d tjä n s t
-n m ä l fö rs e n a d re
-v b o k a re s a
-y n p u n k te r o c h
-la g o m å l
-rå g o r o m
-lls tå n d e t
+
+g
+
+in
+
+ln
+
+a
+
+t
+
+ero
+
+b i
+
+g
+
+mto
+
+o
+
+ru
+
+o a
+
+gr
+
+å le
+
+r l
+
+Fe
+
 l
-s a
-Fe rå g o r o m
-lle r a u to
-b e ta ln
-g iro
-in g
+
+sa
+
+ra
+
+re
+
+t
+
+d
+
+h
+
+en
+
+a
+
+c
+
+c
+
+n
+
+o
+
+s
+
+e a r
+
+g t s s
+
+n s r e te l
+
+t
+
+i n ö r
+
+me
+
+n ä f
+
+k å od
+
+l j l a n
+
+l t
+
+k m rn
+
+ä
+
+u
+
+å
+
+tä d
+
+o p o go t
+
+s n m b n g å ls
+
+e u n v y la r l
+
+B K S k Fti
+
+d g
+
+e la
+
+m o
+
+e
+
+l b
+
+i
+
+r
+
+ta x
+
+l
+
+a
+
+v a
+
+a
+
+n
+
+r
+
+T
+
+t
+
+d
+
+v
+
+r
+
+o
+
+o
+
+r g
+
+e rå
+
+e
+
+m
+
+r f
+
+ls
+
+sa n ö ra
+
+e
+
+o ff
+
+m
+
+k
+
+u tu
+
+fi rd a k
+
+m
+
+ra o h a
+
+o
+
+T F F
+
+sk
+
+n
+
+re
+
+ve
+
+d r
+
+\-
+
+a
+
+le
+
+s
+
+ldn g
+
+g
+
+iå m
+
+t e
+
+in
+
+k ls r o
+
+a
+
+r s l s
+
+jn
+
+x
+
+r
+
+r
+
+g n
+
+r
+
+a a
+
+ea ästi
+
+e
+
+ö
+
+k
+
+g s
+
+in gt s
+
+c stt
+
+g in rg n las r
+
+a
+
+g
+
+a in
+
+n öm
+
+n
+
+län d r p n jä fa sb jä
+
+k re
+
+kr
+
+t
+
+dö
+
+m råt
+
+g g
+
+ns ä rk lä fd fi
+
+n rd
+
+l
+
+r ao
+
+an tfa i ti
+
+rr u ä
+
+Ha Up T ufä Tp K F
 
 <!-- sida 362 -->
 

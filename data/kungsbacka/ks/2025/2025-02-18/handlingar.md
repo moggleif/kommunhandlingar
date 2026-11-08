@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.42aac4b1194d846c2fcf1032/1739534411
 sha256: 6fa418c3de52ea0b5801063caf4b107176ececab8ce615aa85c3f47d9722ca15
 bytes: 55469329
 sidor: 727
-hamtad: 2026-11-06T23:10:59+00:00
-konverterad: 2026-11-06T23:13:43+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T22:20:37+00:00
+konverterad: 2026-11-08T22:23:40+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -18748,8 +18748,6 @@ Förvaltningschef                   Personalchef
 
 <!-- sida 506 -->
 
-KUB1001, v2.0, 2013-02-26
-
 ÖVERLÄGGNINGSPROTOKOLL
 
 Kungsbacka
@@ -18801,6 +18799,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 
 www. kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 507 -->
 
@@ -23283,6 +23283,8 @@ Kommunbudget 2025 och plan 2026–2027 35
 
 <!-- sida 599 -->
 
+KUNGSBACKAS FÖRUTSÄTTNINGAR
+
 statistiken samlas i en kommungemensam databas, Kolada. Följande tabell visar att vi sammantaget har ett något lägre
 Volymberäkningarna utgår från befolkningsförändring kostnadsläge inom Förskola & Grundskolas verksamheter
 av antal invånare inom olika målgrupper. Befolknings- med 17 miljoner kronor. Även gymnasieskolan har lägre
@@ -23348,9 +23350,9 @@ Förskola inkl. öppen Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ &
 förskola öppen             Familjeomsorg
 fritidsverksamhet
 2021 2022 2023
-tnecorp
-KUNGSBACKAS FÖRUTSÄTTNINGAR
 36 Kommunbudget 2025 och plan 2026–2027
+
+procent
 
 <!-- sida 600 -->
 
@@ -27662,125 +27664,21 @@ AVTAL                                  4 (6)
 Dokumentdatum
 2024-11-21
 
-N
-
-Å
-r
-t
-.
-g
-1
-ä
-Å
-r
-P
-p
-v
-t g
-d e
-l a
-r o
-ä g
-ä r d e r
-r i d e n
-n l ä g g n
-d u k t i o
-8 4 5
-s t a
-i n g
-n a
-t lig
-, p r
-v g c
-a
-o
-\-
-a n lä g
-j e k t e r
-v ä g l ä
-g n in g
-i n g o
-n g s
-e
-c
-n
-h
-(
-T
-T
-r
-U
-r a
-a
-t f ö r a r e
-f ik v e r k e
-f i k v e r k e
-S U M M
-t
-t
-A
-)
-K
-3
-3
-o
-1
-1
-s t
-0
-0
-n
-0
-0
-a
-0
-0
-d ( k
-0 0
-0 0
-r
-0
-0
-) T r a f ik v e r k e t
-v ia r e g io n a l
-p la n ( 5 0 % )
-1 5 5 0 0 0 0 0
-1 5 5 0 0 0 0 0
-K
-1
-1
-u
-k
-5
-5
-n g s
-o m
-( 5 0
-5 0
-5 0
-b
-m
-%
-0
-0
-a c k
-u n
-)
-0 0
-0 0
-a
-0
-0
 Medfinansieringen från Kommunen till den statliga anläggningen beräknas uppgå till 15
 500 000 kr i prisnivå 2024 juni.
 Kommunen ska i och med rekvisition betala 50% av de faktiska upparbetade
 kostnaderna, det vill säga medfinansieringen, till Trafikverket. Se vidare under §9.
+
 Hantering av kostnadsförändringar sker enligt § 8.
+
 Kostnader för ägande respektive drift och underhåll i förvaltningsskedet ingår inte i ovan
 angivna totala kostnader.
+
 Grundutförande och Tillägg
 Åtgärden utgör grundutförande.
+
 §7   Ansvarsfördelning
+
 Parterna beslutar självständigt i genomförandet av sina respektive anläggningar enligt §
 5 om det inte påverkar förutsättningarna för hela projektet. För övrigt gäller följande:
 Trafikverkets ansvar
@@ -27803,6 +27701,312 @@ med planläggning och bygghandling, såsom exempelvis kartunderlag.
 4\. Kommunen ansvarar för att utse en kontaktperson i syfte att bistå projektet vid
 eventuella frågor samt att bevaka Kommunens intressen, se § 10, avseende
 åtgärden.
+
+ka
+
+0
+
+0
+
+c n )
+
+0
+
+0
+
+a u
+
+0
+
+0
+
+sb m 0%
+
+0
+
+0
+
+g
+
+0
+
+0
+
+n m (5
+
+5
+
+5
+
+u ko
+
+5
+
+5
+
+K
+
+1
+
+1
+
+t l
+
+0
+
+e a )
+
+0
+
+0
+
+k n %
+
+0
+
+0
+
+r o 0
+
+0
+
+e i 5
+
+0
+
+v g (
+
+0
+
+0
+
+ik e n
+
+0
+
+5
+
+f r
+
+5
+
+la
+
+5
+
+ra ia
+
+5
+
+1
+
+T v p
+
+1
+
+)
+
+r
+
+k
+
+0
+
+0
+
+(
+
+0
+
+0
+
+0
+
+0
+
+ad
+
+0
+
+0
+
+n
+
+0
+
+0
+
+t
+
+0
+
+0
+
+s
+
+1
+
+1
+
+o
+
+3
+
+3
+
+K
+
+)
+
+t
+
+t
+
+A
+
+e e
+
+re
+
+rk k
+
+M
+
+a
+
+e
+
+r
+
+M
+
+r
+
+v ve
+
+U
+
+fö
+
+ik k
+
+S
+
+t
+
+f
+
+i
+
+a
+
+f
+
+U
+
+r
+
+ra
+
+(T T
+
+n
+
+e ch
+
+g o
+
+in
+
+s
+
+g g
+
+n
+
+in n
+
+g
+
+r
+
+g
+
+lä
+
+lä
+
+te
+
+n k g
+
+a
+
+je vä
+
+a o -
+
+ig
+
+r c
+
+l
+
+p g
+
+t
+
+, v
+
+ta g a
+
+s
+
+in n
+
+r
+
+n n io
+
+e
+
+e g t
+
+d
+
+d g k 5
+
+r
+
+i
+
+lä u 4
+
+ä
+
+r n d 8
+
+tg
+
+e
+
+la ro g
+
+Å
+
+rd P p vä
+
+.
+
+ä
+
+r
+
+tg 1
+
+N
+
+Å
 
 <!-- sida 689 -->
 

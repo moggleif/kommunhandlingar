@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1abb884718c8ab9a9f73e7b8/1705474508
 sha256: 9e2d45b2086c80a1c8fbcdc143dd95f235a952a247f40bcbcd3e0244d0b676b6
 bytes: 163597772
 sidor: 589
-hamtad: 2026-11-06T21:50:40+00:00
-konverterad: 2026-11-06T21:59:44+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T20:50:06+00:00
+konverterad: 2026-11-08T21:00:13+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3777,12 +3777,9 @@ Kungsbacka den / 2023
 
 <!-- sida 116 -->
 
-Dok.Id 501881
-
 VARBERGS TINGSRÄTT BEVIS om Aktbilaga 9
-Ärende nr K 1803-23
 
-pe 15 FÖRORDNANDE Heddi
+Rud 13 FÖRORDNANDE IA
 : 2023-06-30 EEgENen
 Advokat Lars Andersson
 Advokätfirrhan Sanrier & Brink KB
@@ -3798,18 +3795,22 @@ Tingsrätten har utsett dip till förvaltare i körikursen.
 Telefön 0340 62 84 44
 
 tokopians överensstämmelse
-nginalet intygas:
 
 Bifogade handlingar: aktbiläga 1-5, 8
+inalet intygas:
 
 Sida 1 (av 1)
 
-Or dömstoleris behandling av persotiuppgifter; se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+Orr dömstoleris behandling av pertsoriuppgifter; se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
 Besöksadress Öppettider Postadress E-pöst |
 
 Östra Långgatan 7. måndag-fredäg Box 121 varbergs:tingsrattQdörm.se
 
-0340-62 84 00 www.vatbertgstingsratt.dornstol.sé
+Telefon 08:00—16:00 432 23 Varberg Webbplats
+
+0340-62 84 00 www.vatberpstingsratt.domstol;se
+
+Dok.Id 501881
 
 <!-- sida 117 -->
 
@@ -9582,17 +9583,20 @@ och innehavare av särskild rätt till fastigheten att tåla åtgärder inom omr
 
 följande:
 
-I:
-
+18
 2\.
 
 utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
 anläggning och underhåll av friluftslivsanordningar exempelvis markerade stigar
 och informationsskyltar,
-naturvårdande skötsel i form av:
+
+. naturvårdande skötsel i form av:
+
 a. fällning, röjning och ringbarkning av gran, bok och idegran,
+
 b. veteranisering!, skapande av högstubbar, lågor och hålträd
 brunnshuggning, luckhuggning,
+
 c. sådd och plantering av ek och tall, användande av stängel och hägn som
 skydd för plantor,
 
@@ -9614,8 +9618,6 @@ utöver vad som annars gäller förbjudet att:
 I.
 2\.
 
-NAMNBPW
-
 skada levande eller döda träd, buskar och grenar,
 
 skada, plocka eller samla in mossor, lavar eller svampar annat än enstaka
@@ -9633,15 +9635,20 @@ elda.
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
 
-8\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
-9\.
+8\.
+2,
+
+anordna lägerverksamhet, tävlingar eller andra arrangemang,
 
 inplantera för området främmande arter samt att
+
 utföra undersökningar som innebär markering, insamling, fångst eller annan
 påverkan på naturmiljön. Detta krav om tillstånd gäller dock inte vid insamling
 
 ! Veteranisering: mekanisk åverkan eller bearbetning på träd för att påskynda åldrande och skapande av
 sådana trädstrukturer som främst uppträder på gamla träd.
+
+NAMNBPW
 
 <!-- sida 238 -->
 
@@ -13713,8 +13720,6 @@ Avtal med Västkuststiftelsen 1991-11-25
 
 <!-- sida 340 -->
 
-uniForm KUB301 v 1.0, 2005-11-25
-
 Stadgar för Stiftelsen Tjolöholm
 
 Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF § 187/96 samt
@@ -13760,6 +13765,8 @@ Fax 0300-54 41 66
 
 info(tjoloholm.se
 www.tjoloholm.se
+
+uniForm KUB301 v 1.0, 2005-11-25
 
 <!-- sida 341 -->
 

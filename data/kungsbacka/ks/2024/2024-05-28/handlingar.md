@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.67d5448018f7764eec71016b/1716443065
 sha256: 401fe5463f0e1e97848316bdb30613c13af80c8090aabf3a25a8115f3aed8f1c
 bytes: 82574839
 sidor: 773
-hamtad: 2026-11-06T22:17:10+00:00
-konverterad: 2026-11-06T22:25:01+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T21:19:52+00:00
+konverterad: 2026-11-08T21:28:20+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -17279,18 +17279,11 @@ interna styrdokument Enheternas förmåga.
 
 Tabell 7. RSG:s förmåga redovisad per styrka och nivå för heltidsstationerna inom organisationen. Nivå 1 innebär
 en grundförmåga, nivå 2 en utökad grundförmåga och nivå 3 innebär specialförmåga.
-
 Enheternas förmåga, inklusive bemanning och anspänningstid
 
 Heltidsstationer
 
 Förmåga
-)kes 09 ( 6+1 adnulörF )kes 09 ( 6+1 adråG )kes 09 ( 6+1 aladetroK )kes 09 ( 6+1 deregnA )kes 09 ( 4+1 adnalsroT )kes 09 ( 6+1 ybdnuL )kes 09 ( 4+1 ladnlöM )kes 09 ( 4+1 emodniL )kes 09 ( 4+1 mureL )kes 09 ( 6+1 akcabsgnuK )kes 09 ( 4+1 öjsrejÖ )kes 09 ( 4+1 dnusgnunetS )kes 09 ( 2+1 nröjT )kes 09( 2+1 tedE
-alliL
-)00.81
-\- 00.60 ragadrav kes
-09
-( 2+0
 
 BRAND I BYGGNAD
 Brand i byggnad
@@ -17348,78 +17341,47 @@ Förmågan utgår till stor del från riskbilden inom respektive stationsområde
 
 46 (70)
 
+Frölunda 1+6 ( 90 sek)
+
+Gårda 1+6 ( 90 sek)
+
+Kortedala 1+6 ( 90 sek)
+
+Angered 1+6 ( 90 sek)
+
+Torslanda 1+4 ( 90 sek)
+
+Lundby 1+6 ( 90 sek)
+
+Mölndal 1+4 ( 90 sek)
+
+Lindome 1+4 ( 90 sek)
+
+Lerum 1+4 ( 90 sek)
+
+Kungsbacka 1+6 ( 90 sek)
+
+Öjersjö 1+4 ( 90 sek)
+
+Stenungsund 1+4 ( 90 sek)
+
+Tjörn 1+2 ( 90 sek)
+
+Lilla Edet 1+2 (90 sek)
+
+0+2 ( 90 sek vardagar 06.00 - 18.00)
+
 <!-- sida 389 -->
 
 Handlingsprogram enligt LSO 2024
 
 Tabell 8. RSG:s förmåga redovisad per styrka och nivå för RiB-stationerna inom organisationen. Nivå 1 innebär
 en grundförmåga, nivå 2 en utökad grundförmåga och nivå 3 innebär specialförmåga.
+Enheternas förmåga, inklusive bemanning och anspänningstid
+
+Räddningsmän i beredskap RiB
 
 Förmåga
-
-För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
-förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i
-räddningstjänstverksamheten och övningsverksamheten ska därför synliggöra vad som
-
-övas, varför och vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra
-och effektiva räddningsinsatser. Övning är nödvändigt för att vidmakthålla och förstärka
-förmågan att hantera olyckor och tillbud. Det gäller så väl på individnivå, på den egna
-enhetens samlade förmåga och ledningsförmåga. För att kunna frigöra styrkor för
-utveckling och för att upprätthålla kompetens bland personalen finns en organisation med
-förbundsövergripande täckstyrka som avlöser ordinarie personal i samband med övning.
-
-Övningsverksamheten är alltså ett effektivt sätt att vidareutveckla och att göra organisa-
-tionen trygg i att alla medarbetare har rätt kunskaper och färdigheter för att kunna utföra
-effektiva räddningsinsatser på ett arbetsmiljösäkert sätt.
-
-47 (70)
-)kes
-024(
-4+1
-mureL
-)kes
-024(
-4+1
-akcabsgnuK
-)kes
-084(
-4+1
-såsellirF
-)kes
-003(
-4+1
-ekcylnlöM
-)kes
-003(
-4+1
-sådniH
-)kes
-003(
-2 +1
-adnalväR
-)kes
-003(
-4+1
-ösnoD
-)kes
-063(
-2+0
-BiR
-nröjT
-BiR
-2+0
-dnussgnunetS )kes 084(
-)kes
-063
-( 2+0
-tedE
-alliL
-)kes
-006(
-2+0
-öjsrejÖ
-Enheternas förmåga, inklusive bemanning och anspänningstid
-Räddningsmän i beredskap RiB
 BRAND I BYGGNAD
 Brand i byggnad
 Brand i byggnad - utrymning med stege upp till 11 meter
@@ -17451,6 +17413,43 @@ Förmåga nivå 2 (inkluderar nivå 1)
 Förmåga nivå 3 (inkluderar nivå 1 & 2) / Specialförmåga. Förmåga och tillika spetsresurs
 som kan verka inom hela förbundsområdet.
 Förmågan utgår till stor del från riskbilden inom respektive stationsområde.
+För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
+förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i
+räddningstjänstverksamheten och övningsverksamheten ska därför synliggöra vad som
+övas, varför och vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra
+och effektiva räddningsinsatser. Övning är nödvändigt för att vidmakthålla och förstärka
+förmågan att hantera olyckor och tillbud. Det gäller så väl på individnivå, på den egna
+enhetens samlade förmåga och ledningsförmåga. För att kunna frigöra styrkor för
+utveckling och för att upprätthålla kompetens bland personalen finns en organisation med
+förbundsövergripande täckstyrka som avlöser ordinarie personal i samband med övning.
+Övningsverksamheten är alltså ett effektivt sätt att vidareutveckla och att göra organisa-
+tionen trygg i att alla medarbetare har rätt kunskaper och färdigheter för att kunna utföra
+effektiva räddningsinsatser på ett arbetsmiljösäkert sätt.
+47 (70)
+
+Lerum 1+4 (420 sek)
+
+Kungsbacka 1+4 (420 sek)
+
+Frillesås 1+4 (480 sek)
+
+Mölnlycke 1+4 (300 sek)
+
+Hindås 1+4 (300 sek)
+
+Rävlanda 1+ 2 (300 sek)
+
+Donsö 1+4 (300 sek)
+
+Tjörn RiB 0+2 (360 sek)
+
+Stenungssund 0+2 RiB
+
+(480 sek)
+
+Lilla Edet 0+2 ( 360 sek)
+
+Öjersjö 0+2 (600 sek)
 
 <!-- sida 390 -->
 
@@ -21689,7 +21688,6 @@ Document classification: KPMG Public
 kbMmG
 
 Samordningsförbundet i Halland
-
 Granskning av bokslut och årsredovisning per 2023-12-31
 
 2024-03-08
@@ -24808,9 +24806,8 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Marie Yckert
 Av kommunfullmäktige
 utsedd lekmannarevisor
-HSP77-62TX5-6M0CX-DU372-WY4EK-AEK4W
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: W4KEA-KE4YW-273UD-XC0M6-5XT26-77PSH
 
 <!-- sida 563 -->
 
@@ -24850,9 +24847,8 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Marie Yckert
 Av kommunfullmäktige
 utsedd lekmannarevisor
-A7IPY-HMBW1-3ESFO-NIVFN-3IZ8E-QKA61
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 16AKQ-E8ZI3-NFVIN-OFSE3-1WBMH-YPI7A
 
 <!-- sida 564 -->
 
