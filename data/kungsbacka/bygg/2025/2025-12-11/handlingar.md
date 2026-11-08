@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e1e798419ae7f1e7adb11e/17649210941
 sha256: 45b34340cd81bcb6a27b80031392127b9bdeab73accb0919d87ed8c9f988af71
 bytes: 50724065
 sidor: 514
-hamtad: 2026-11-06T09:53:39+00:00
-konverterad: 2026-11-06T10:02:26+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T09:32:53+00:00
+konverterad: 2026-11-08T09:42:19+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr]
@@ -10758,27 +10758,6 @@ PBL 2010:900 med standardförfarande
 
 <!-- sida 255 -->
 
-"KUNGSBA
-
-4\)
-
-N=6375100
-
-near
-I
-
-0 10
-
-Söderåleden
-
-20
-
-30
-
-40
-
-SKALA 1:1000 A1
-
 TECKENFÖRKLARING
 
 \+ Kommungräns
@@ -10794,10 +10773,8 @@ Skärmtak
 Transformator fasad, resp tak
 Altan
 +45 Höjdpunkt
-
 Höjdkurva 1 m
-Höjdkurva 5 m
-
+ocsrsrdg L - - - ) u s / . | SS | . ; . I Pla | | | Höjdkurva 5 m
 Järnväg
 Perrong
 
@@ -10805,13 +10782,10 @@ een Vägkant, matarväg
 on — Vägkant, större väg
 ooo Vägkant, mindre väg
 öden Gång- / Cykelväg, infart, stig
-
 Vägtunnel
-
-Peeeeeeeeseeseeeeeeeeee Vägillustrationslinje
+Mrs Vägillustrationslinje
 
 Storgatan Gatunamn
-
 5 Adressnummer
 
 Trappa
@@ -10819,38 +10793,42 @@ Trappa
 Strandlinje, åkant
 
 — Dike, mindre bäck >0,8 m
-
+Dike, mindre bäck <0,8 m
 vy Vatten
 
-Kaj
-Mur
-1 NN AN Räcke
+Bassäng
 
-ddrrrr rr rss rss en sara rss s en sees esse sasse a ena Släntfot
-nn eden Släntkrön
-. Stödmur
+Kaj
+
+Mur
+
+Se AE As Räcke
+
+össssr ra saraaa ss rss ss sss en seas s ses a sasse ess ana Släntfot
+
+rserennn dörren rr er ennen ef ernenn nana nnnnnnnnnn Joen nnnnnn Släntkrön
+
+VG Stödmur
 
 Staket
 Häck
 
-Bassäng
-
-Dike, mindre bäck <0,8 m
-
-Belysningsmast
-
-Elstolpe, trafiksignal
-
-AA
+ja( Belysningsmast
 
 sd Belysningsstolpe
 s
-
 a
 
+"KUNGSBA
+
+Elstolpe, trafiksignal
 Mast
 É E Luftledning, högspänning
-RAA Ägoslagsgräns
+FRA E Ägoslagsgräns
+
+near
+I
+
 FRAMSTÄLLNING
 
 Ajourföring och kontroll av kartan innanför aktuellt planområde
@@ -10858,27 +10836,25 @@ Ajourföring och kontroll av kartan innanför aktuellt planområde
 
 Grundkartan är upprättad genom utdrag ur primärkartverk
 tillhörande Kungsbacka kommun och kompletterad i fält
-
 med terrestra mätningar.
 
 Rättigheter redovisas inom detaljplaneområdet.
 
 Aktualitetsdatum kartdata 2025-04-04
-
 Aktualitetsdatum fastighetsgränser 2025-04-24
 
-Grundkarta till detaljplan
+Grundkarta till detaljplan Granskningshandling
 
-Granskningshandling
+4\)
+
+Ajourföringsdatum
+
+2025-04-04
 
 Tölöberg 2 och Tölö 1:17
 
 i Kungsbacka
 Kungsbacka kommun
-
-Ajourföringsdatum
-
-2025-04-04
 
 Koordinatsystem
 
@@ -10886,18 +10862,20 @@ SWEREF99 12 00
 
 Kungsbacka
 
-Upprättad 2025-04-24 Reviderad
-
 Höjdsystem
 
-RH 2000
-
-Malin Lundgren Patrik Stenberg
-Verksamhetschef Geodataavdelningen Mätningsingenjör
+Upprättad 2025-04-24 Reviderad RH 2000
 
 Diarenr
 
-2018-00033
+Malin Lundgren Patrik Stenberg
+Verksamhetschef Geodataavdelningen Mätningsingenjör 2018-00033
+
+0 10 20 30 40 50 60 m N
+
+SKALA 1:1000 A1
+
+Söderåleden
 
 <!-- sida 256 -->
 
@@ -21268,65 +21246,47 @@ PLANKARTA             Detaljplanen är upprättad enligt PBL KBXXX
 
 <!-- sida 513 -->
 
-BOREKULLA
-
-1:19
-2
-
-SINTORP
-
-51
-
-BOREKULLA
-
-2:10
-
 ALMEDAL)
-
-FRILLESÅS-RYA +
-
-Å 091013
-0081491=3 —
-
-0 20 40 60 80 100 120 m
-
-SKALA 1:2000 A1
 
 TECKENFÖRKLARING
 
-\+ Kommungräns
-— — Trakt-, kvartersgräns
-— — Fastighetsgräns
-or Föreslagen fastighetsgräns
-o Gränspunkt
-APELSINEN Traktnamn, kvartersnamn
-2:14 5 Registernummer, tomtnummer
-Dg Bostadshus fasad, resp tak
-EEE Uthus fasad, resp tak
+APELSINEN
+2:14 5
+Sd
+fs
+
+Kommungräns
+
+Trakt-, kvartersgräns
+Fastighetsgräns
+
+Föreslagen fastighetsgräns
+Gränspunkt
+
+Traktnamn, kvartersnamn
+Registernummer, tomtnummer
+Bostadshus fasad, resp tak
+Uthus fasad, resp tak
+
 Skärmtak
 Transformator fasad, resp tak
 
 Altan
 
-+45 Höjdpunkt
-
++4.5 Höjdpunkt
 Höjdkurva 1 m
 Höjdkurva 5 m
-
 Järnväg
-Perrong
 
+Perrong
 enn Vägkant, matarväg
 on — Vägkant, större väg
 on Vägkant, mindre väg
-een o ooo nonn-n Gång- / Cykelväg, infart, stig
-
+esse ee een onnsn Gång- / Cykelväg, infart, stig
 Vägtunnel
-
-Pere Vägillustrationslinje
+ers Vägillustrationslinje
 
 Storgatan Gatunamn
-
 5 Adressnummer
 
 Trappa
@@ -21334,38 +21294,49 @@ Trappa
 Strandlinje, åkant
 
 — Dike, mindre bäck >0,8 m
-
+Dike, mindre bäck <0,8 m
 vy Vatten
+
+Bassäng
+
+BOREKULLA
+
+1:19
+2
 
 Kaj
 Mur
-a SR a SA Räcke
 
-stress ee seas rss ra sans s sara esse ses sasse esi oa Släntfot
-a dessa Släntkrön
+FS NA = AL Räcke
+ister ss ss terrass sasse sasse oe sees ses sets e enes saa Släntfot
+en Görrrnsesecfresesnsesnacfananeenencfenenenesesec rann Släntkrön
 Stödmur
 
 Staket
 Häck
 
-Bassäng
-
-Dike, mindre bäck <0,8 m
-
-Belysningsmast
-
-Elstolpe, trafiksignal
-
-pH
+Da( Belysningsmast
 
 Xx Belysningsstolpe
 fed
+\|
 
-a]
+SINTORP
 
+51
+
+FRILLESÅS-RYA +
+
+3:77
+3
+
+Elstolpe, trafiksignal
 Mast
 E É Luftledning, högspänning
-RARE Ägoslagsgräns
+FREE Ägoslagsgräns
+
+BOREKULLA
+
 FRAMSTÄLLNING
 
 Ajourföring och kontroll av kartan innanför aktuellt planområde
@@ -21373,43 +21344,45 @@ Ajourföring och kontroll av kartan innanför aktuellt planområde
 
 Grundkartan är upprättad genom utdrag ur primärkartverk
 tillhörande Kungsbacka kommun och kompletterad i fält
-
 med terrestra mätningar.
 
 Rättigheter redovisas inom detaljplaneområdet.
 
 Aktualitetsdatum kartdata 2025-11-18
-
 Aktualitetsdatum fastighetsgränser 2025-11-27
 Grundkartan innehåller fastighetsgränser med varierande kvalitet.
 
-Grundkarta till detaljplan
-
-Granskningshandling
+Grundkarta till detaljplan Granskningshandling
 
 Frillesås-Rya 3:77 m fil
-i Frillesås
-Kungsbacka kommun
 
 Ajourföringsdatum
 
 2025-11-18
 
+i Frillesås
+Kungsbacka kommun
+
 Koordinatsystem
 
-Kungsbacka SWEREF99 12 00
+SWEREF99 12 00
 
-Upprättad 2025-11-27 Reviderad
+Kungsbacka
 
 Höjdsystem
-RH 2000
 
-Malin Lundgren Patrik Stenberg
-Verksamhetschef Geodataavdelningen Mätningsingenjör
+Upprättad 2025-11-27 Reviderad RH 2000
 
-Diarenr
+Malin Lundgren Patrik Stenberg Diarenr
+Verksamhetschef Geodataavdelningen Mätningsingenjör 2016-00088
 
-2016-00088
+0 20 40 60 80 100 120 m N
+
+SKALA 1:2000 A1
+
+Å 091013
+
+0081491=3 —
 
 <!-- sida 514 -->
 
@@ -21423,18 +21396,7 @@ KULLA
 
 1:4 SÄ:
 
-NE
-
-—
-
-CN CA
-
--—
-
-3
-
-N
-000z91=3 —
+CN ENG
 
 0 20 40 60 80 100
 
@@ -21453,7 +21415,7 @@ fs ÅK
 
 vy
 
-LE = = = = = = a |
+LE Ae = = = = = I
 
 FRAMSTÄLLNING
 
@@ -21531,7 +21493,6 @@ Ajourföring och kontroll av kartan innanför aktuellt planområde
 
 Grundkartan är upprättad genom utdrag ur primärkartverk
 tillhörande Kungsbacka kommun och kompletterad i fält
-
 med terrestra mätningar.
 
 Rättigheter redovisas inom detaljplaneområdet.
@@ -21546,17 +21507,22 @@ Granskningshandling
 
 Frillesås-Rya 3:77 m fil
 
+i Frillesås
+
+Kungsbacka kommun
+
 Ajourföringsdatum
 
-w - o 2025-11-18
+2025-11-18
 
-I Frillesås Koordinatsystem
+Koordinatsystem
 
-Kungsbacka kommun Kungsbacka | SWEREF99 12 00
-H . Höjdsystem
+Kungsbacka SWEREF99 12 00
+
+Höjdsystem
 
 Upprättad 2025-11-27 Reviderad RH 2000
-
 Malin Lundgren Patrik Stenberg Piarenr
-
 Verksamhetschef Geodataavdelningen Mätningsingenjör 2016-00088
+
+000z91=3 —

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.663576d1a1156c4d3b1ecc7/17914575208
 sha256: 62e11e6360cf6153821ec5188be3c62f19adfae6c770d920ca8d469060d98975
 bytes: 41316939
 sidor: 182
-hamtad: 2026-11-06T10:44:47+00:00
-konverterad: 2026-11-06T10:49:03+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T10:27:13+00:00
+konverterad: 2026-11-08T10:31:40+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok]
@@ -4497,75 +4497,84 @@ Elham Sokhango               Katarina Engerberg
 
 <!-- sida 116 -->
 
-0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
-
-5
-
-0
-
--5
-
--10
-
--15
-
--20
-
--25
-
--30
-
--35
-
--40
-
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
-)m(
-åviN
 Bilaga 1:1
+
 Sammanställning
 Odränerad skjuvhållfasthet, korrigerad (kPa)
 Sydöstra centrum
 Sektion A, B, E och F
+0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
+
+5
 NC 2101 CPT
 Tfu,korr
 NC 2102 CPT
 Tfu,korr
+0
 NC 2102 Kon,
 Tfu,korr
 NC 2102 Vb
 Tfu,korr
-NC 2103 CPT
+
+-5                                          NC 2103 CPT
 Tfu,korr
 NC 2104 Kon,
 Tfu,korr
 NC 2104 CPT
-Tfu,korr
+-10                                          Tfu,korr
+
 NC 2105 CPT
 Tfu,korr
 NC 2106 CPT
 Tfu,korr
+-15
 NC 1 CPT
 Tfu,korr
 NC 2 Vb Tfu,korr
-NC 3 CPT
+
+-20                                          NC 3 CPT
 Tfu,korr
+
 NC 2308 CPT
 Tfu,korr
 NC 2309 Vb
+-25
 Tfu,korr
 Vald Tfu sektion
 A, B, E och F
 
+-30
+
+-35
+
+-40
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
+
+Nivå (m)
+
 <!-- sida 117 -->
 
+Bilaga 1:2
+
+Sammanställning
+Odränerad skjuvhållfasthet, korrigerad (kPa)
+Sydöstra centrum
+Sektion C
 0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
 
 5
 
-0
+NC 2107 CPT Tfu,korr
 
+NC 2108 Kon, Tfu,korr
+0
+NC 2108 CPT Tfu,korr
+
+NC 2109 CPT Tfu,korr
 -5
+
+Vald Tfu sektion C
 
 -10
 
@@ -4582,4301 +4591,5280 @@ A, B, E och F
 -40
 
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
-)m(
-åviN
-Bilaga 1:2
-Sammanställning
-Odränerad skjuvhållfasthet, korrigerad (kPa)
-Sydöstra centrum
-Sektion C
-NC 2107 CPT Tfu,korr
-NC 2108 Kon, Tfu,korr
-NC 2108 CPT Tfu,korr
-NC 2109 CPT Tfu,korr
-Vald Tfu sektion C
+
+Nivå (m)
 
 <!-- sida 118 -->
 
-1:2
-agaliB
+Bilaga 2:1
 
-ATYNETTOB
+BOTTENYTA
 
-3YB
-2,0+
+BY3
 
-2YB
-0+
-9.1
++0,2
 
-1YB
+BY2
 
-5.2
-0+
-000705-130nfT
-BAtlusnocroN
-es.tlusnocron.www
-grobetöG67204,4778xoB
++0
+
+1.9
+
+2.5
+
+BY1
+
++0
+
+NorconsultAB
+
+Tfn 031-50 70 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se
 
 <!-- sida 119 -->
 
-48.1
-närdo
-areleproksrroT
-
-närdo
-areleproksrroT
-närdo
-ajttyG
-närdo
-1
-areL
-närdo
-2
-areL
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-1:3
-agaliB
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-)aPk(
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-murtnecartsödyS
-)aPk(
+
+Bilaga 3:1
+
+Color Name
+
+Slope Stability Unit
+
+C-Top C-Rate of C-Maximum Piezometric
+
+Material Model Weight of
+
+Change
+
+(kPa)
+
+Surface
+
+Sydöstracentrum
+
+(kN/m³) Layer ((kN/m²)/m)
+
+107 47 61
+
+(kPa)
+
+Sektion A
+
+Gyttja odrän S=f(depth)
+
+14
+
+10
+
+0.7
+
+0
+
+1
+
+Odränerad analys
+
+Lera 1 odrän S=f(depth)
+
 16
-74
-701
-1
+
+10
+
+0.7
+
 0
-7.0
-01
-41
-)htped(f=S
-närdo
-ajttyG
-A
-noitkeS
+
 1
+
+Befintliga förhållanden
+
+Lera 2 odrän S=f(depth)
+
+16
+
+12
+
+0.8
+
 0
-7.0
-01
-61
-)htped(f=S
-närdo
-1 areL
-sylana
-darenärdO
-nednallåhröf
-agiltnifeB
+
 1
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-8.0
-21
-61
-)htped(f=S
-närdo
-2 areL
-ecirP-nretsnegroM
+
+0
+
 1
-0
-0
-02
-81
-)htped(f=S
-areleproksrroT
-sylanastehrekäslatoT
-närdo
-m
-1
-:pujdetydilg
-atsniM
-gäv-CG
-gäv-CG
-aPk
+
+Minsta glidytedjup: 1 m
+
+odrän
+
+1.84 GC-väg
+
+GC-väg
+
+5 kPa
+
 5
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-65:73:01
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+3
+
+1Torrskorpelera odrän
+
+Torrskorpelera odrän
+
+-1
+
+Lera 1 odrän
+
+Gyttja odrän
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2025-07-18, 10:37:56
+
+Skapad av: Elham Sokhango
 
 <!-- sida 120 -->
 
-15.1
-bmok
-areleproksrroT
-
-bmok
-areleproksrroT
-bmok
-ajttyG
-bmok
-1
-areL
-bmok
-2
-areL
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-2:3
-agaliB
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-)aPk(
-murtnecartsödyS
+
+Bilaga 3:2
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric
+
+Weight Friction of
+
+Change
+
+Ratio Surface
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+Sydöstracentrum
+
+(kPa)
+
+107 47 61
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
+
+Sektion A
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
-A
-noitkeS
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-sylana
-darenibmoK
+
+Kombinerad analys
+
+Befintliga förhållanden
+
+Lera 2 komb Combined, S=f(depth)
+
+16
+
+30
+
+12
+
+0.8
+
+0.1
+
 1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2 areL
-nednallåhröf
-agiltnifeB
-ecirP-nretsnegroM
-1
-1.0
+
+Morgenstern-Price
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-sylanastehrekäslatoT
-m
-1 :pujdetydilg
-atsniM
-gäv-CG
-gäv-CG
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-65:73:01
-,81-70-5202
-:daregider
-tsaneS
-003:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1
+
+1
+
+Totalsäkerhetsanalys
+
+komb
+
+Minsta glidytedjup: 1 m
+
+GC-väg
+
+GC-väg
+
+5
+
+1.51
+
+3
+
+1Torrskorpelera komb
+
+Torrskorpelera komb
+
+-1
+
+Lera 1 komb
+
+Gyttja komb
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2025-07-18, 10:37:56
+
+Skala (A4): 1:300
+
+Skapad av: Elham Sokhango
 
 <!-- sida 121 -->
 
-10.2
-närdo
-nareleproksrroT
-
-närdo
-
-nareleproksrroT
-närdo
-1
-areL
-närdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-3:3
-agaliB
-mutaD-C
-mutaD
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-)aPk(
-)noitavelE(
-ecafruS
-)aPk(
-egnahC
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-murtnecartsödyS
-)m(
-)m/)²m/Nk((
-)aPk(
-)³m/Nk(
+
+Bilaga 3:3
+
+Sydöstracentrum
+
+Color Name
+
+Slope Stability Unit
+
+C-Top C-Rate of C-Maximum Piezometric Datum
+
+C-Datum
+
+107 47 61
+
+Material Model Weight of Layer Change
+
+(kPa)
+
+Surface
+
+(Elevation) (kPa)
+
+Sektion B
+
+(kN/m³) (kPa)
+
+((kN/m²)/m)
+
+(m)
+
+Odränerad analys
+
+Lera 1 odrän
+
+S=f(depth)
+
 16
-74
-701
-B
-noitkeS
-1
+
+10
+
+0.7
+
 0
-7.0
-01
-61
-)htped(f=S
-närdo
+
 1
-areL
-sylana
-darenärdO
-nednallåhröf
-agiltnifeB
-21
-3-
-1
+
+Befintliga förhållanden
+
+Morgenstern-Price
+
+Lera 2 odrän
+
+S=f(datum)
+
+16
+
+0.8
+
 0
-8.0
-61
-)mutad(f=S
-närdo
-2
-areL
-ecirP-nretsnegroM
-sylanastehrekäslatoT
+
 1
+
+-3
+
+12
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup: 1 m
+
+Torrskorpeleran S=f(depth)
+
+18
+
+20
+
 0
+
 0
-02
-81
-)htped(f=S
-nareleproksrroT
-m
+
 1
-:pujdetydilg
-atsniM
-närdo
-gäv-CG
-gäV
-aPk
-51
-aPk
+
+odrän
+
+GC-väg
+
+Väg
+
+2.01
+
+15 kPa
+
+5 kPa
+
 5
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-B
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-03:51:61
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+3
+
+1
+
+Torrskorpeleran odrän
+
+Torrskorpeleran odrän
+
+-1
+
+Lera 1 odrän
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
+
+Senast redigerad: 2025-07-18, 16:15:30
+
+Skapad av: Elham Sokhango
 
 <!-- sida 122 -->
 
-44.1
-bmok
-areleproksrroT
-
-bmok
-
-areleproksrroT
-bmok
-1
-areL
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-4:3
-agaliB
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-murtnecartsödyS
-)m(
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
+
+Bilaga 3:4
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric Datum
+
+Su-Datum
+
+Sydöstracentrum
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+(Elevation) (kPa)
+
+107 47 61
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+(m)
+
+Sektion B
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
+
+Kombinerad analys
+
+Befintliga förhållanden
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+0.8
+
+0.1
+
 1
-areL
-B
-noitkeS
-sylana
-darenibmoK
-21
-3-
-1
-1.0
-8.0
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2
-areL
-nednallåhröf
-agiltnifeB
-ecirP-nretsnegroM
-1
-1.0
+
+-3
+
+12
+
+Morgenstern-Price
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-sylanastehrekäslatoT
-m
-1 :pujdetydilg
-atsniM
-gäv-CG
-gäV
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-B
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-03:51:61
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1
+
+1
+
+Totalsäkerhetsanalys
+
+komb
+
+Minsta glidytedjup: 1 m
+
+GC-väg
+
+Väg
+
+5
+
+1.44
+
+3
+
+1
+
+Torrskorpelera komb
+
+Torrskorpelera komb
+
+-1
+
+Lera 1 komb
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
+
+Senast redigerad: 2025-07-18, 16:15:30
+
+Skapad av: Elham Sokhango
 
 <!-- sida 123 -->
 
-58.1
-närdo
-areleproksrroT
-gninllyF
-
-ngänridnoll
-y1F
-areL
-
-närdo
-areleproksrroT
-närdo
-1
-areL
-närdo
-ajttyG
-närdo
-2
-areL
-närdo
-3
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-5:3
-agaliB
-evitceffE
-evitceffE
-mutaD-C
-mutaD
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-noitcirF
-noisehoC
-)aPk(
-)noitavelE(
-ecafruS
-)aPk(
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-)°(
-elgnA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-)aPk(
-63
-0
+
+Bilaga 3:5
+
+Color Name
+
+Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric Datum
+
+C-Datum Effective Effective
+
+Material Model Weight of
+
+Change
+
+(kPa)
+
+Surface
+
+(Elevation) (kPa)
+
+Cohesion Friction
+
+(kN/m³) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa)
+
+Angle (°)
+
+(kPa)
+
+Sydöstracentrum
+
+Fyllning
+
+Mohr-Coulomb 19
+
 1
-91
-bmoluoC-rhoM
-gninllyF
-murtnecartsödyS
-61
-5-
-1
+
 0
-2.1
-41
-)mutad(f=S
-närdo
-ajttyG
+
+36
+
+107 47 61
+
+Gyttja odrän S=f(datum)
+
+14
+
+1.2
+
+0
+
+1
+
+-5
+
 16
-74
-701
-1
+
+Sektion C
+
+Lera 1 odrän S=f(depth)
+
+16
+
+10
+
+1.2
+
 0
-2.1
-01
-61
-)htped(f=S
-närdo
+
 1
-areL
-C
-noitkeS
-8.02
-9-
-1
+
+Odränerad analys
+
+Lera 2 odrän S=f(datum)
+
+16
+
+1.2
+
 0
-2.1
-61
-)mutad(f=S
-närdo
-2
-areL
-sylana
-darenärdO
-nednallåhröf
-agiltnifeB
-61
-01-
+
 1
+
+-9
+
+20.8
+
+Befintliga förhållanden
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.2
+
 0
-2.1
-61
-)mutad(f=S
-närdo
-3
-areL
-ecirP-nretsnegroM
+
 1
+
+-10
+
+16
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
+
 0
-02
-81
-)htped(f=S
-areleproksrroT
-sylanastehrekäslatoT
-närdo
-m
+
 1
-:pujdetydilg
-atsniM
-aPk
-51
-:tsalkifarT
-aPk
+
+Minsta glidytedjup: 1 m
+
+odrän
+
+1.85
+
+GC-last: 5 kPa Trafiklast: 15 kPa
+
 5
-:tsal-CG
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-C
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:64:80
-,81-70-5202
-:daregider
-tsaneS
-003:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+
+3
+
+1
+
+Torrskorpelera odrän
+
+Lera F1y llondirnägn
+
+Fyllning
+
+Torrskorpelera odrän
+
+-1
+
+-3
+
+Lera 1 odrän
+
+-5
+
+-7
+
+Gyttja odrän
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+Lera 3 odrän
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
+
+Senast redigerad: 2025-07-18, 08:46:59
+
+Skala (A4): 1:300
+
+Skapad av: Elham Sokhango
 
 <!-- sida 124 -->
 
-87.1
-bmok
-areleproksrroT
-gninllyF
-bgmnionkll
-y1F
-areL
-
-bmok
-areleproksrroT
-bmok
-1
-areL
-bmok
-ajttyG
-bmok
-2
-areL
-bmok
-3
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-6:3
-agaliB
-evitceffE
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-noisehoC
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-murtnecartsödyS
-)aPk(
+
+Bilaga 3:6
+
+Color Name
+
+Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum
+
+Su-Datum Effective
+
+Weight Friction of
+
+Change
+
+Ratio Surface
+
+(Elevation) (kPa)
+
+Cohesion
+
+Sydöstracentrum
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa)
+
+107 47 61
+
+(kPa)
+
+Sektion C
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+0
+
+Kombinerad analys
+
+Gyttja komb Combined, S=f(datum)
+
+14
+
+30
+
+1.2
+
+0.1
+
+1
+
+-5
+
 16
-74
-701
+
+Befintliga förhållanden
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+30
+
+10
+
+1.2
+
+0.1
+
+1
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.2
+
+0.1
+
+1
+
+-9
+
+20.8
+
+Minsta glidytedjup: 1 m
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.2
+
+0.1
+
+1
+
+-10
+
+16
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
+
+0.1
+
 1
-63
-91
-bmoluoC-rhoM
-gninllyF
-C
-noitkeS
-61
-5-
+
+komb
+
+1.78
+
+5
+
+3
+
 1
-1.0
-2.1
-03
-41
-)mutad(f=S
-,denibmoC
-bmok
-ajttyG
-sylana
-darenibmoK
-nednallåhröf
-agiltnifeB
-1
-1.0
-2.1
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-ecirP-nretsnegroM
-8.02
-9-
-1
-1.0
-2.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2 areL
-sylanastehrekäslatoT
-m
-1 :pujdetydilg
-atsniM
-61
-01-
-1
-1.0
-2.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-3 areL
-1
-1.0
+
+Torrskorpelera komb
+
+Lera F1y llknoinmgb
+
+Fyllning
+
+Torrskorpelera komb
+
+-1
+
+-3
+
+Lera 1 komb
+
+-5
+
+-7
+
+Gyttja komb
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+Lera 3 komb
+
+-15
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-C
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:64:80
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
+
+Senast redigerad: 2025-07-18, 08:46:59
+
+Skapad av: Elham Sokhango
 
 <!-- sida 125 -->
 
-89.1
-rdo
-areleproksrroT
-rdo
-1
-areL
-rdo
-ajttyG
-rdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-7:3
-agaliB
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-)aPk(
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-)aPk(
-murtnecartsödyS
-1
+
+Bilaga 3:7
+
+Color Name
+
+Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric
+
+Material Model Weight of
+
+Change (kPa)
+
+Surface
+
+(kN/m³) Layer ((kN/m²)/m)
+
+Sydöstracentrum
+
+(kPa)
+
+107 47 61
+
+Gyttja odr
+
+S=f(depth)
+
+14
+
+10.4 0.7
+
 0
-7.0
-4.01
-41
-)htped(f=S
-rdo
-ajttyG
+
+1
+
+Sektion E
+
+Lera 1 odr
+
+S=f(depth)
+
 16
-74
-701
-1
+
+10
+
+0.7
+
 0
-7.0
-01
-61
-)htped(f=S
-rdo
+
 1
-areL
-E
-noitkeS
-1
+
+Odränerad analys
+
+Lera 2 odr
+
+S=f(depth)
+
+16
+
+12
+
+0.8
+
 0
-8.0
-21
-61
-)htped(f=S
-rdo
-2
-areL
-sylana
-darenärdO
+
 1
+
+Befintliga förhållanden
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
+
 0
-02
-81
-)htped(f=S
-areleproksrroT
-nednallåhröf
-agiltnifeB
-rdo
-ecirP-nretsnegroM
-sylanastehrekäslatoT
-m
+
 1
-:pujdetydilg
-atsniM
-gäv-CG
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-E
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:54:41
-,81-70-5202
-:daregider
-tsaneS
-003:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+
+Morgenstern-Price
+
+odr
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup: 1 m
+
+1.98
+
+GC-väg
+
+5
+
+3
+
+Torrskorpelera odr
+
+1
+
+Lera 1 odr
+
+Gyttja odr
+
+-1
+
+-3
+
+-5
+
+-7
+
+Lera 2 odr
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
+
+Senast redigerad: 2025-07-18, 14:45:59
+
+Skala (A4): 1:300
+
+Skapad av: Elham Sokhango
 
 <!-- sida 126 -->
 
-38.1
-bmok
-areleproksrroT
-bmok
-1
-areL
-bmok
-ajttyG
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-8:3
-agaliB
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
-1
-1.0
-7.0
-4.01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-murtnecartsödyS
+
+Bilaga 3:8
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+Sydöstracentrum
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+10.4
+
+0.7
+
+0.1 1
+
+107 47 61
+
+Sektion E
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
-1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1
-areL
-E
-noitkeS
-sylana
-darenibmoK
-1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2
-areL
-nednallåhröf
-agiltnifeB
-ecirP-nretsnegroM
-1
-1.0
+
+30
+
+10
+
+0.7
+
+0.1 1
+
+Kombinerad analys
+
+Befintliga förhållanden
+
+Lera 2 komb Combined, S=f(depth)
+
+16
+
+30
+
+12
+
+0.8
+
+0.1 1
+
+Morgenstern-Price
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-sylanastehrekäslatoT
-bmok
-m
-1 :pujdetydilg
-atsniM
-gäv-CG
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-E noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:54:41
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1 1
+
+Totalsäkerhetsanalys
+
+komb
+
+Minsta glidytedjup: 1 m
+
+1.83
+
+GC-väg
+
+5
+
+3
+
+Torrskorpelera komb
+
+1
+
+Lera 1 komb
+
+Gyttja komb
+
+-1
+
+-3
+
+-5
+
+-7
+
+Lera 2 komb
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
+
+Senast redigerad: 2025-07-18, 14:45:59
+
+Skapad av: Elham Sokhango
 
 <!-- sida 127 -->
 
-28.1
-
-netsgnärpS
-gninllyF
-rdo
-areleproksrroT
-rdo
-ajttyG
-rdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-9:3
-agaliB
-tnatsnoC
-evitceffE
-evitceffE
-cirtemozeiP
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noitcirF
-noisehoC
-ecafruS
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-evobA
-)°(
-elgnA
-)aPk(
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS
-murtnecartsödyS
-)³m/Nk(
+
+Bilaga 3:9
+
+Color Name
+
+Slope Stability Unit C-Top C-Rate of Piezometric Effective Effective Constant
+
+Material Model Weight of
+
+Change
+
+Surface
+
+Cohesion Friction Unit Wt.
+
+(kN/m³) Layer ((kN/m²)/m)
+
+(kPa)
+
+Angle (°) Above
+
+(kPa)
+
+Piezometric
+
+Sydöstracentrum
+
+Surface
+
+107 47 61
+
+(kN/m³)
+
+Sektion F
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+0
+
+36
+
+Odränerad analys
+
+Befintliga förhållanden
+
+Gyttja odr
+
+S=f(depth)
+
+14
+
+10
+
+0.7
+
+1
+
+Morgenstern-Price
+
+Lera 2 odr
+
+S=f(depth)
+
 16
-74
-701
-63
-0
-1
-91
-bmoluoC-rhoM
-gninllyF
-F
-noitkeS
-sylana
-darenärdO
-1
-7.0
-01
-41
-)htped(f=S
-rdo
-ajttyG
-nednallåhröf
-agiltnifeB
-ecirP-nretsnegroM
-1
-8.0
-21
-61
-)htped(f=S
-rdo
-2
-areL
-sylanastehrekäslatoT m 1
-:pujdetydilg
-atsniM
-81
-43
-0
-1
+
 12
-bmoluoC-rhoM
-netsgnärpS
+
+0.8
+
 1
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup: 1 m
+
+Sprängsten
+
+Mohr-Coulomb 21
+
+1
+
 0
-02
-81
-)htped(f=S
-areleproksrroT
-rdo
-aPk
-43
-hco
-aPk
-9,82
-:tsalgåT
-5      0     5-     01-   51-
-zsg.5202
-F
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-92:43:90
-,81-70-5202
-:daregider
-tsaneS
-003:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+
+34
+
+18
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
+0
+
+1
+
+odr
+
+1.82
+
+Tåglast: 28,9 kPa och 34 kPa
+
+5
+
+Sprängsten
+
+Fyllning
+
+Torrskorpelera odr
+
+0
+
+Gyttja odr
+
+-5
+
+-10
+
+Lera 2 odr
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
+
+Senast redigerad: 2025-07-18, 09:34:29
+
+Skala (A4): 1:300
+
+Skapad av: Elham Sokhango
 
 <!-- sida 128 -->
 
-26.2
-
-netsgnärpS
-gninllyF
-bmok
-areleproksrroT
-bmok
-ajttyG
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-01:3
-agaliB
-tnatsnoC
-evitceffE
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noisehoC
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-evobA
-)aPk(
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS
-murtnecartsödyS
-)³m/Nk(
+
+Bilaga 3:10
+
+Color Name
+
+Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Effective Constant
+
+Weight Friction of
+
+Change
+
+Ratio Surface
+
+Cohesion Unit Wt.
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+(kPa)
+
+Above
+
+Sydöstracentrum
+
+(kPa)
+
+Piezometric
+
+Surface
+
+107 47 61
+
+(kN/m³)
+
+Sektion F
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+0
+
+Kombinerad analys
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+10
+
+0.7
+
+0.1 1
+
+Befintliga förhållanden
+
+Morgenstern-Price
+
+Lera 2 komb Combined, S=f(depth)
+
 16
-74
-701
-0
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-F
-noitkeS
-sylana
-darenibmoK
-1
-1.0
-7.0
-01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-nednallåhröf
-agiltnifeB
-1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2
-areL
-ecirP-nretsnegroM sylanastehrekäslatoT
-81
-0
-1
-43
+
+30
+
 12
-bmoluoC-rhoM
-netsgnärpS
-m 1 :pujdetydilg
-atsniM
+
+0.8
+
+0.1 1
+
+Totalsäkerhetsanalys
+
+Sprängsten Mohr-Coulomb
+
+21
+
+34
+
 1
-1.0
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-5      0     5-     01-   51-
-zsg.5202
-F
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-92:43:90
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+18
+
+Minsta glidytedjup: 1 m
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
+0
+
+0.1 1
+
+komb
+
+2.62
+
+5
+
+Sprängsten
+
+Fyllning
+
+Torrskorpelera komb
+
+0
+
+Gyttja komb
+
+-5
+
+-10
+
+Lera 2 komb
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
+
+Senast redigerad: 2025-07-18, 09:34:29
+
+Skapad av: Elham Sokhango
 
 <!-- sida 129 -->
 
-86.1
-närdo
-areleproksrroT
-
-närdo
-areleproksrroT
-närdo
-ajttyG
-närdo
-1
-areL
-närdo
-2
-areL
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-1:4
-agaliB
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-)aPk(
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-murtnecartsödyS
-)aPk(
+
+Bilaga 4:1
+
+Color Name
+
+Slope Stability Unit
+
+C-Top C-Rate of C-Maximum Piezometric
+
+Material Model Weight of
+
+Change
+
+(kPa)
+
+Surface
+
+Sydöstracentrum
+
+(kN/m³) Layer ((kN/m²)/m)
+
+107 47 61
+
+(kPa)
+
+Sektion A
+
+Gyttja odrän S=f(depth)
+
+14
+
+10
+
+0.7
+
+0
+
+1
+
+Odränerad analys
+
+Lera 1 odrän S=f(depth)
+
 16
-74
-701
-1
+
+10
+
+0.7
+
 0
-7.0
-01
-41
-)htped(f=S
-närdo
-ajttyG
-A
-noitkeS
-sylana
-darenärdO
+
 1
+
+Planerade förhållanden - Parklast
+
+Morgenstern-Price
+
+Lera 2 odrän S=f(depth)
+
+16
+
+12
+
+0.8
+
 0
-7.0
-01
-61
-)htped(f=S
-närdo
-1 areL
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
+
 1
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup: 1 m
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-8.0
-21
-61
-)htped(f=S
-närdo
-2 areL
-sylanastehrekäslatoT
+
+0
+
 1
-0
-0
-02
-81
-)htped(f=S
-areleproksrroT
-m
-1
-:pujdetydilg
-atsniM
-närdo
-gäv-CG
-gäv-CG
-aPk
+
+odrän
+
+1.68 G5 Ck-Pvaäg
+
+GC-väg
+
 5
-aPk
+
+Parklast: 5 kPa
+
+3
+
+Parklast: 5 kPa
+
+1Torrskorpelera odrän
+
+Torrskorpelera odrän
+
+-1
+
+Lera 1 odrän
+
+Gyttja odrän
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+-15
+
+0
+
 5
-:tsalkraP
-5
-aPk
-5
-:tsalkraP
-3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-65:73:01
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2025-07-18, 10:37:56
+
+Skapad av: Elham Sokhango
 
 <!-- sida 130 -->
 
-15.1
-bmok
-areleproksrroT
-
-bmok
-areleproksrroT
-bmok
-ajttyG
-bmok
-1
-areL
-bmok
-2
-areL
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-2:4
-agaliB
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
-murtnecartsödyS
+
+Bilaga 4:2
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+Sydöstracentrum
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+107 47 61
+
+Gyttja komb
+
+Combined, S=f(depth)
+
+14
+
+30
+
+10
+
+0.7
+
+0.1
+
+1
+
+Sektion A
+
+Kombinerad analys
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-A
-noitkeS
-sylana
-darenibmoK
+
+Planerade förhållanden - Parklast
+
+Morgenstern-Price
+
+Lera 2 komb Combined, S=f(depth)
+
+16
+
+30
+
+12
+
+0.8
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1
-areL
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2
-areL
-ecirP-nretsnegroM sylanastehrekäslatoT
-1
-1.0
+
+Totalsäkerhetsanalys
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-m
-1 :pujdetydilg
-atsniM
-bmok
-gäv-CG
-gäv-CG
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-65:73:01
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1
+
+1
+
+Minsta glidytedjup: 1 m
+
+komb
+
+GC-väg
+
+GC-väg
+
+5
+
+1.51
+
+3
+
+1Torrskorpelera komb
+
+Torrskorpelera komb
+
+-1
+
+Lera 1 komb
+
+Gyttja komb
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2025-07-18, 10:37:56
+
+Skapad av: Elham Sokhango
 
 <!-- sida 131 -->
 
-37.1
-närdo
-nareleproksrroT
-
-närdo
-
-nareleproksrroT
-närdo
-1
-areL
-närdo
-1
-areL
-närdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-3:4
-agaliB
-mutaD-C
-mutaD
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-)aPk(
-)noitavelE(
-ecafruS
-)aPk(
-egnahC
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-murtnecartsödyS
-)m(
-)m/)²m/Nk((
-)aPk(
-)³m/Nk(
+
+Bilaga 4:3
+
+Color Name
+
+Slope Stability Unit
+
+C-Top C-Rate of C-Maximum Piezometric Datum
+
+C-Datum
+
+Sydöstracentrum
+
+Material Model Weight of Layer Change
+
+(kPa)
+
+Surface
+
+(Elevation) (kPa)
+
+107 47 61
+
+(kN/m³) (kPa)
+
+((kN/m²)/m)
+
+(m)
+
+Sektion B
+
+Lera 1 odrän
+
+S=f(depth)
+
 16
-74
-701
-1
+
+10
+
+0.7
+
 0
-7.0
-01
-61
-)htped(f=S
-närdo
+
 1
-areL
-B
-noitkeS
-sylana
-darenärdO
-21
-3-
-1
+
+Odränerad analys
+
+Planerade förhållanden - Parklast
+
+Lera 2 odrän
+
+S=f(datum)
+
+16
+
+0.8
+
 0
-8.0
-61
-)mutad(f=S
-närdo
-2
-areL
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
+
 1
+
+-3
+
+12
+
+Morgenstern-Price
+
+Torrskorpeleran S=f(depth)
+
+18
+
+20
+
 0
+
 0
-02
-81
-)htped(f=S
-nareleproksrroT
-närdo
-sylanastehrekäslatoT
-m
+
 1
-:pujdetydilg
-atsniM
-aPk
-51
-:tsalkifarT
-aPk
+
+Totalsäkerhetsanalys
+
+odrän
+
+Minsta glidytedjup: 1 m
+
+1.73
+
+GC-last: 5 kPa Trafiklast: 15 kPa
+
 5
-:tsal-CG
-aPk
+
+Parklast: 5 kPa
+
+3
+
+1
+
+Torrskorpeleran odrän
+
+Torrskorpeleran odrän
+
+Lera 1 odrän
+
+-1
+
+Lera 1 odrän
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+-15
+
+0
+
 5
-:tsalkraP
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-B
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-62:32:61
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
+
+Senast redigerad: 2025-07-18, 16:23:26
+
+Skapad av: Elham Sokhango
 
 <!-- sida 132 -->
 
-44.1
-bmok
-areleproksrroT
-
-bmok
-
-areleproksrroT
-bmok
-1
-areL
-bmok
-1
-areL
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-4:4
-agaliB
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-murtnecartsödyS
-)m(
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
+
+Bilaga 4:4
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric Datum
+
+Su-Datum
+
+Sydöstracentrum
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+(Elevation) (kPa)
+
+107 47 61
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+(m)
+
+Sektion B
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
+
+Kombinerad analys
+
+Planerade förhållanden - Parklast
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+0.8
+
+0.1
+
 1
-areL
-B
-noitkeS
-sylana
-darenibmoK
-21
-3-
-1
-1.0
-8.0
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2
-areL
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-1
-1.0
+
+-3
+
+12
+
+Morgenstern-Price
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-sylanastehrekäslatoT
-m
-1 :pujdetydilg
-atsniM
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-B
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-62:32:61
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1
+
+1
+
+Totalsäkerhetsanalys
+
+komb
+
+Minsta glidytedjup: 1 m
+
+5
+
+1.44
+
+3
+
+1
+
+Torrskorpelera komb
+
+Torrskorpelera komb
+
+Lera 1 komb
+
+-1
+
+Lera 1 komb
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
+
+Senast redigerad: 2025-07-18, 16:23:26
+
+Skapad av: Elham Sokhango
 
 <!-- sida 133 -->
 
-38.1
-07
-56
-06
-55
-05
-54
-04
-
-53
-
-03
-
-52
-
-02
-
-51
-
-01
-
-5
-
-0
-ecnatsiD
 noitavelE
-5:4
-agaliB
-evitceffE
-evitceffE
-mutaD-C
-mutaD
-cirtemozeiP
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-noitcirF
-noisehoC
-)aPk(
-)noitavelE(
-ecafruS
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-)°(
-elgnA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-)aPk(
-63
+
+Bilaga 4:5
+
+Color Name
+
+Slope Stability Unit
+
+C-Top C-Rate of Piezometric Datum
+
+C-Datum Effective Effective
+
+Material Model Weight of
+
+Change
+
+Surface
+
+(Elevation) (kPa)
+
+Cohesion Friction
+
+(kN/m³) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa)
+
+Angle (°)
+
+(kPa)
+
+Sydöstracentrum
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
 0
+
+36
+
+107 47 61
+
+Gyttja odrän S=f(datum)
+
+14
+
+1.2
+
 1
-91
-bmoluoC-rhoM
-gninllyF
-murtnecartsödyS
-61
-5-
-1
-2.1
-41
-)mutad(f=S
-närdo
-ajttyG
+
+-5
+
 16
-74
-701
+
+Sektion C
+
+Lera 1 odrän S=f(depth)
+
+16
+
+10
+
+1.2
+
 1
-2.1
-01
-61
-)htped(f=S
-närdo
-1 areL
-C
-noitkeS
-sylana
-darenärdO
-8.02
-9-
+
+Odränerad analys
+
+Lera 2 odrän S=f(datum)
+
+16
+
+1.2
+
 1
-2.1
-61
-)mutad(f=S
-närdo
-2 areL
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-61
-01-
+
+-9
+
+20.8
+
+Planerade förhållanden - Parklast
+
+Morgenstern-Price
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.2
+
 1
-2.1
-61
-)mutad(f=S
-närdo
-3 areL
-ecirP-nretsnegroM
-sylanastehrekäslatoT
-1
+
+-10
+
+16
+
+Totalsäkerhetsanalys
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-02
-81
-)htped(f=S
-areleproksrroT
-närdo
-m
+
 1
-:pujdetydilg
-atsniM
-aPk
+
+Minsta glidytedjup: 1 m
+
+odrän
+
+1.83
+
+GC-last: 5 kPa
+
+Trafiklast: 15 kPa
+
 5
-:tsal-CG
-aPk
-51
-:tsalkifarT
-aPk
+
+Parklast: 5 kPa
+
+3
+
+1
+
+-1
+
+-3
+
+-5
+
+-7
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
 5
-:tsalkraP
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-C
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:64:80
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
+
+Senast redigerad: 2025-07-18, 08:46:59
+
+Skapad av: Elham Sokhango
 
 <!-- sida 134 -->
 
-87.1
-bmok
-areleproksrroT
-gninllyF
-bgmnionkll
-y1F
-areL
-
-bmok
-areleproksrroT
-bmok
-1
-areL
-bmok
-ajttyG
-bmok
-2 areL
-bmok
-3 areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-6:4
-agaliB
-evitceffE
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-noisehoC
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-)aPk(
-murtnecartsödyS
+
+Bilaga 4:6
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric Datum
+
+Su-Datum Effective
+
+Weight Friction of
+
+Change
+
+Ratio Surface
+
+(Elevation) (kPa)
+
+Cohesion
+
+Sydöstracentrum
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa)
+
+(kPa)
+
+107 47 61
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+0
+
+Sektion C
+
+Kombinerad analys
+
+Gyttja komb Combined, S=f(datum)
+
+14
+
+30
+
+1.2
+
+0.1 1
+
+-5
+
 16
-74
-701
+
+Planerade förhållanden - Parklast
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+30
+
+10
+
+1.2
+
+0.1 1
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.2
+
+0.1 1
+
+-9
+
+20.8
+
+Minsta glidytedjup: 1 m
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.2
+
+0.1 1
+
+-10
+
+16
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-C
-noitkeS
-61
-5-
-1
-1.0
-2.1
-03
-41
-)mutad(f=S
-,denibmoC
-bmok
-ajttyG
-sylana
-darenibmoK
-1
-1.0
-2.1
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1
-areL
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-8.02
-9-
-1
-1.0
-2.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2
-areL
-sylanastehrekäslatoT
-61
-01-
-1
-1.0
-2.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
+
+0.1 1
+
+komb
+
+1.78
+
+5
+
 3
-areL
-m
-1 :pujdetydilg
-atsniM
+
 1
-1.0
+
+Torrskorpelera komb
+
+Lera F1y llknoinmgb
+
+Fyllning
+
+Torrskorpelera komb
+
+-1
+
+-3
+
+Lera 1 komb
+
+-5
+
+-7
+
+Gyttja komb
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+Lera 3 komb
+
+-15
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-C
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:64:80
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
+
+Senast redigerad: 2025-07-18, 08:46:59
+
+Skapad av: Elham Sokhango
 
 <!-- sida 135 -->
 
-67.1
-rdo
-areleproksrroT
-rdo
-1
-areL
-rdo
-ajttyG
-rdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-7:4
-agaliB
-cirtemozeiP
-fo
-etaR-uS
-poT-uS
-etaR-noisehoC
-poT-noisehoC
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-egnahC
-reyaL
-fo
-egnahC
-fo
-)aPk(
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-)m/)²m/Nk((
-)aPk(
-)m/)²m/Nk((
-)³m/Nk(
-murtnecartsödyS
+
+Bilaga 4:7
+
+Color Name
+
+Slope Stability Unit
+
+Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric
+
+Sydöstracentrum
+
+Material Model Weight of Layer (kPa) of Change
+
+of Layer Change
+
+Surface
+
+107 47 61
+
+(kN/m³)
+
+((kN/m²)/m)
+
+(kPa)
+
+((kN/m²)/m)
+
+Sektion E
+
+Gyttja odr
+
+S=f(depth)
+
+14
+
+10.4
+
+0.7
+
+10.4
+
+0.7
+
+1
+
+Odränerad analys
+
+Lera 1 odr
+
+S=f(depth)
+
 16
-74
-701
+
+10
+
+0.7
+
+10
+
+0.7
+
 1
-7.0
-4.01
-7.0
-4.01
-41
-)htped(f=S
-rdo
-ajttyG
-E
-noitkeS
-sylana
-darenärdO
+
+Planerade förhållanden - Parklast
+
+Morgenstern-Price
+
+Lera 2 odr
+
+S=f(depth)
+
+16
+
+12
+
+0.8
+
+12
+
+0.8
+
 1
-7.0
-01
-7.0
-01
-61
-)htped(f=S
-rdo
-1
-areL
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-1
-8.0
-21
-8.0
-21
-61
-)htped(f=S
-rdo
-2
-areL
-sylanastehrekäslatoT
-m
-1
-:pujdetydilg
-atsniM
-1
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup: 1 m
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-02
+
+20
+
 0
-02
-81
-)htped(f=S
-areleproksrroT
-rdo
-gäv-CG
-aPk
+
+1
+
+odr
+
+1.76
+
+GC-väg
+
 5
-:tsalkraP
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-E
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-82:40:01
-,61-50-6202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+Parklast: 5 kPa
+
+3
+
+Torrskorpelera odr
+
+1
+
+Lera 1 odr
+
+Gyttja odr
+
+-1
+
+-3
+
+-5
+
+-7
+
+Lera 2 odr
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
+
+Senast redigerad: 2026-05-16, 10:04:28
+
+Skapad av: Elham Sokhango
 
 <!-- sida 136 -->
 
-28.1
-bmok
-areleproksrroT
-bmok
-1
-areL
-bmok
-ajttyG
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-8:4
-agaliB
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
-murtnecartsödyS
+
+Bilaga 4:8
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+Sydöstracentrum
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+107 47 61
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+10.4
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-4.01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
+
+Sektion E
+
+Kombinerad analys
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
-E
-noitkeS
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
+
+Planerade förhållanden - Parklast
+
+Lera 2 komb Combined, S=f(depth)
+
+16
+
+30
+
+12
+
+0.8
+
+0.1
+
 1
-areL
-sylana
-darenibmoK
-tsalkraP
-\-
-nednallåhröf
-edarenalP
-1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2
-areL
-ecirP-nretsnegroM sylanastehrekäslatoT
-1
-1.0
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-m
-1 :pujdetydilg
-atsniM
-bmok         gäv-CG
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-E
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-82:40:01
-,61-50-6202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1
+
+1
+
+Minsta glidytedjup: 1 m
+
+komb
+
+1.82
+
+GC-väg
+
+5
+
+3
+
+Torrskorpelera komb
+
+1
+
+Lera 1 komb
+
+Gyttja komb
+
+-1
+
+-3
+
+-5
+
+-7
+
+Lera 2 komb
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
+
+Senast redigerad: 2026-05-16, 10:04:28
+
+Skapad av: Elham Sokhango
 
 <!-- sida 137 -->
 
-06.1
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-1:5
-agaliB
-murtnecartsödyS
-16
-74
-701
-A
-noitkeS
-sylana
-darenärdO
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-sylanastehrekäslatoT
-m
-1
-:pujdetydilg
-atsniM
-gäv-CG
-gäv-CG
-aPk
+
+Bilaga 5:1
+
+Sydöstracentrum
+
+107 47 61
+
+Sektion A
+
+Odränerad analys
+
+Planerade förhållanden - Marklast
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup: 1 m
+
+1.60 GC-väg
+
+GC-väg
+
+5 kPa
+
 5
-)m
-5,0(
-aPk
-01
-:tsalkraM
-m
-5.21
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-65:73:01
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+12.5 m
+
+Marklast: 10 kPa (0,5 m)
+
+3
+
+1
+
+-1
+
+-3
+
+-5
+
+-7
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2025-07-18, 10:37:56
+
+Skapad av: Elham Sokhango
 
 <!-- sida 138 -->
 
-84.1
-bmok
-areleproksrroT
-
-bmok
-areleproksrroT
-bmok
-ajttyG
-bmok
-1
-areL
-bmok
-2
-areL
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-2:5
-agaliB
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-fo
-etaR-C
-poT-C
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-egnahC
-fo
-thgieW
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-)aPk(
-murtnecartsödyS
+
+Bilaga 5:2
+
+Color Name
+
+Slope Stability Material Model Unit
+
+C-Top C-Rate of Effective Su-Top Su-Rate of c'/Su Piezometric
+
+Weight of
+
+Change
+
+Friction of Layer Change
+
+Ratio Surface
+
+(kN/m³) Layer ((kN/m²)/m) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+Sydöstracentrum
+
+(kPa)
+
+107 47 61
+
+Gyttja komb
+
+Combined, S=f(depth)
+
+14
+
+0
+
+0
+
+30
+
+10
+
+0.7
+
+0.1
+
+1
+
+Sektion A
+
+Kombinerad analys
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
+
+0
+
+0
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
+
+Planerade förhållanden - Marklast
+
+Morgenstern-Price
+
+Lera 2 komb Combined, S=f(depth)
+
+16
+
 0
+
 0
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-A
-noitkeS
-sylana
-darenibmoK
+
+30
+
+12
+
+0.8
+
+0.1
+
 1
-1.0
-7.0
-01
-03
+
+Totalsäkerhetsanalys
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
 0
+
 0
-61
-)htped(f=S
-,denibmoC
-bmok
+
+30
+
+20
+
+0
+
+0.1
+
 1
-areL
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-1
-1.0
-8.0
-21
-03
+
+Minsta glidytedjup: 1 m
+
+komb
+
+1.48 GC-väg
+
+GC-väg
+
+5
+
+12.5 m
+
+Marklast: 10 kPa (0,5 m)
+
+3
+
+1Torrskorpelera komb
+
+Torrskorpelera komb
+
+-1
+
+Lera 1 komb
+
+Gyttja komb
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+-15
+
 0
-0
-61
-)htped(f=S
-,denibmoC
-bmok
-2
-areL
-ecirP-nretsnegroM sylanastehrekäslatoT
-1
-1.0
-0
-02
-03
-0
-0
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-m
-1 :pujdetydilg
-atsniM
-bmok
-gäv-CG
-gäv-CG
-)m
-5,0(
-aPk
-01
-:tsalkraM
-m
-5.21
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-65:73:01
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2025-07-18, 10:37:56
+
+Skapad av: Elham Sokhango
 
 <!-- sida 139 -->
 
-16.1
-närdo
-areleproksrroT
-
-närdo
-areleproksrroT
-närdo
-ajttyG
-närdo
-1
-areL
-närdo
-2
-areL
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-3:5
-agaliB
-cirtemozeiP
-muminiM/mumixaM-uS
-fo
-etaR-uS
-poT-uS
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-)aPk(
-egnahC
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-murtnecartsödyS
-)m/)²m/Nk((
-)aPk(
-)³m/Nk(
+
+Bilaga 5:3
+
+Color Name
+
+Slope Stability Unit
+
+Su-Top Su-Rate of Su-Maximum/Minimum Piezometric
+
+Sydöstracentrum
+
+Material Model Weight of Layer Change
+
+(kPa)
+
+Surface
+
+107 47 61
+
+(kN/m³) (kPa)
+
+((kN/m²)/m)
+
+Sektion A
+
+Gyttja odrän
+
+S=f(depth)
+
+14
+
+10
+
+0.7
+
+0
+
+1
+
+Odränerad analys
+
+Planerade förhållanden
+
+Lera 1 odrän S=f(depth)
+
 16
-74
-701
-1
+
+10
+
+0.7
+
 0
-7.0
-01
-41
-)htped(f=S
-närdo
-ajttyG
-A
-noitkeS
-sylana
-darenärdO
+
 1
+
+Park- och marklast
+
+Morgenstern-Price
+
+Lera 2 odrän S=f(depth)
+
+16
+
+12
+
+0.8
+
 0
-7.0
-01
-61
-)htped(f=S
-närdo
-1 areL
-nednallåhröf
-edarenalP
-tsalkram
-hco
--kraP
+
 1
+
+Totalsäkerhetsanalys
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-8.0
-21
-61
-)htped(f=S
-närdo
-2 areL
-ecirP-nretsnegroM
-sylanastehrekäslatoT
+
+0
+
 1
-0
-0
-02
-81
-)htped(f=S
-areleproksrroT
-m
-1
-:pujdetydilg
-atsniM
-närdo
-gäv-CG
-gäv-CG
-aPk
+
+Minsta glidytedjup: 1 m
+
+odrän
+
+1.61 GC-väg
+
+GC-väg
+
+5 kPa
+
+Parklast: 5 kPa
+
 5
-aPk
+
+12.5 m
+
+Marklast: 10 kPa (0,5 m)
+
+3
+
+1Torrskorpelera odrän
+
+Torrskorpelera odrän
+
+-1
+
+Lera 1 odrän
+
+Gyttja odrän
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+-15
+
+0
+
 5
-:tsalkraP
-)m
-5,0(
-aPk
-01
-:tsalkraM
-m
-5.21
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-00:45:80
-,61-50-6202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2026-05-16, 08:54:00
+
+Skapad av: Elham Sokhango
 
 <!-- sida 140 -->
 
-84.1
-bmok
-areleproksrroT
-
-bmok
-areleproksrroT
-bmok
-ajttyG
-bmok
-1
-areL
-bmok
-2
-areL
-57
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-4:5
-agaliB
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-murtnecartsödyS
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
+
+Bilaga 5:4
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric
+
+Sydöstracentrum
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+107 47 61
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+Sektion A
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+10
+
+0.7
+
+0.1
+
+1
+
+Kombinerad analys
+
+Planerade förhållanden
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-A
-noitkeS
-sylana
-darenibmoK
+
+Park- och marklast
+
+Morgenstern-Price
+
+Lera 2 komb Combined, S=f(depth)
+
+16
+
+30
+
+12
+
+0.8
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-nednallåhröf
-edarenalP
-tsalkram
-hco
--kraP
-1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2 areL
-ecirP-nretsnegroM sylanastehrekäslatoT
-1
-1.0
+
+Totalsäkerhetsanalys
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-m
-1 :pujdetydilg
-atsniM
-bmok
-gäv-CG
-gäv-CG
-)m
-5,0(
-aPk
-01
-:tsalkraM
-m
-5.21
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-A
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-00:45:80
-,61-50-6202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1
+
+1
+
+Minsta glidytedjup: 1 m
+
+komb
+
+1.48 GC-väg
+
+GC-väg
+
+5
+
+12.5 m
+
+Marklast: 10 kPa (0,5 m)
+
+3
+
+1Torrskorpelera komb
+
+Torrskorpelera komb
+
+-1
+
+Lera 1 komb
+
+Gyttja komb
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
+
+Senast redigerad: 2026-05-16, 08:54:00
+
+Skapad av: Elham Sokhango
 
 <!-- sida 141 -->
 
-36.1
-närdo
-nareleproksrroT
-
-närdo
-
-nareleproksrroT
-närdo
-1
-areL
-närdo
-1 areL    närdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-5:5
-agaliB
-mutaD-C
-mutaD
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-)aPk(
-)noitavelE(
-ecafruS
-)aPk(
-egnahC
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-murtnecartsödyS
-)m(
-)m/)²m/Nk((
-)aPk(
-)³m/Nk(
+
+Bilaga 5:5
+
+Color Name
+
+Slope Stability Unit
+
+C-Top C-Rate of C-Maximum Piezometric Datum
+
+C-Datum
+
+Sydöstracentrum
+
+Material Model Weight of Layer Change
+
+(kPa)
+
+Surface
+
+(Elevation) (kPa)
+
+107 47 61
+
+(kN/m³) (kPa)
+
+((kN/m²)/m)
+
+(m)
+
+Sektion B
+
+Lera 1 odrän
+
+S=f(depth)
+
 16
-74
-701
-1
+
+10
+
+0.7
+
 0
-7.0
-01
-61
-)htped(f=S
-närdo
+
 1
-areL
-B
-noitkeS
-sylana
-darenärdO
-21
-3-
-1
+
+Odränerad analys
+
+Planerade förhållanden - Marklast
+
+Lera 2 odrän
+
+S=f(datum)
+
+16
+
+0.8
+
 0
-8.0
-61
-)mutad(f=S
-närdo
-2
-areL
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
+
 1
+
+-3
+
+12
+
+Morgenstern-Price
+
+Torrskorpeleran S=f(depth)
+
+18
+
+20
+
 0
+
 0
-02
-81
-)htped(f=S
-nareleproksrroT
-närdo
-sylanastehrekäslatoT
-m
+
 1
-:pujdetydilg
-atsniM
-aPk
-51
-:tsalkifarT
-aPk
+
+Totalsäkerhetsanalys
+
+odrän
+
+Minsta glidytedjup: 1 m
+
+1.63
+
+GC-last: 5 kPa Trafiklast: 15 kPa
+
 5
-:tsal-CG
-m
-7
-aPk
-01
-:tsalkraM
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-B
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-62:32:61
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+7 m Marklast: 10 kPa
+
+3
+
+1
+
+Torrskorpeleran odrän
+
+Torrskorpeleran odrän
+
+Lera 1 odrän
+
+-1
+
+Lera 1 odrän
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
+
+Senast redigerad: 2025-07-18, 16:23:26
+
+Skapad av: Elham Sokhango
 
 <!-- sida 142 -->
 
-44.1
-bmok
-areleproksrroT
-
-bmok
-
-areleproksrroT
-bmok
-1
-areL
-bmok
-1
-areL
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-6:5
-agaliB
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-murtnecartsödyS
-)m(
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
+
+Bilaga 5:6
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric Datum
+
+Su-Datum
+
+Sydöstracentrum
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+(Elevation) (kPa)
+
+107 47 61
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+(m)
+
+Sektion B
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
+
+30
+
+10
+
+0.7
+
+0.1
+
 1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
+
+Kombinerad analys
+
+Planerade förhållanden - Marklast
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+0.8
+
+0.1
+
 1
-areL
-B
-noitkeS
-sylana
-darenibmoK
-21
-3-
-1
-1.0
-8.0
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2
-areL
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-1
-1.0
+
+-3
+
+12
+
+Morgenstern-Price
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-sylanastehrekäslatoT
-m
-1 :pujdetydilg
-atsniM
-m
-7
-aPk
-01
-:tsalkraM
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-B
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-62:32:61
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1
+
+1
+
+Totalsäkerhetsanalys
+
+komb
+
+Minsta glidytedjup: 1 m
+
+1.44
+
+5
+
+7 m Marklast: 10 kPa
+
+3
+
+1
+
+Torrskorpelera komb
+
+Torrskorpelera komb
+
+Lera 1 komb
+
+-1
+
+Lera 1 komb
+
+-3
+
+-5
+
+-7
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
+
+Senast redigerad: 2025-07-18, 16:23:26
+
+Skapad av: Elham Sokhango
 
 <!-- sida 143 -->
 
-17.1
-närdo
-areleproksrroT
-gninllyF
-
-ngänridnoll
-y1F
-areL
-
-närdo
-areleproksrroT
-närdo
-1
-areL
-närdo
-ajttyG
-närdo
-2
-areL
-närdo
-3
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-7:5
-agaliB
-evitceffE
-evitceffE
-mutaD-C
-mutaD
-cirtemozeiP
-mumixaM-C
-fo
-etaR-C
-poT-C
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-noitcirF
-noisehoC
-)aPk(
-)noitavelE(
-ecafruS
-)aPk(
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-)°(
-elgnA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-)aPk(
-murtnecartsödyS
+
+Bilaga 5:7
+
+Color Name
+
+Slope Stability Unit
+
+C-Top C-Rate of C-Maximum Piezometric Datum
+
+C-Datum Effective Effective
+
+Material Model Weight of
+
+Change
+
+(kPa)
+
+Surface
+
+(Elevation) (kPa)
+
+Cohesion Friction
+
+Sydöstracentrum
+
+(kN/m³) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa)
+
+Angle (°)
+
+(kPa)
+
+107 47 61
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+0
+
+36
+
+Sektion C
+
+Odränerad analys
+
+Gyttja odrän S=f(datum)
+
+14
+
+1.2
+
+0
+
+1
+
+-5
+
 16
-74
-701
-63
+
+Planerade förhållanden - Marklast
+
+Lera 1 odrän S=f(depth)
+
+16
+
+10
+
+1.2
+
 0
+
 1
-91
-bmoluoC-rhoM
-gninllyF
-C
-noitkeS
-61
-5-
-1
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Lera 2 odrän S=f(datum)
+
+16
+
+1.2
+
 0
-2.1
-41
-)mutad(f=S
-närdo
-ajttyG
-sylana
-darenärdO
+
 1
+
+-9
+
+20.8
+
+Minsta glidytedjup: 1 m
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.2
+
 0
-2.1
-01
-61
-)htped(f=S
-närdo
+
 1
-areL
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-8.02
-9-
-1
+
+-10
+
+16
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-2.1
-61
-)mutad(f=S
-närdo
-2
-areL
-sylanastehrekäslatoT
-61
-01-
-1
+
 0
-2.1
-61
-)mutad(f=S
-närdo
-3
-areL
-m
+
 1
-:pujdetydilg
-atsniM
-1
-0
-0
-02
-81
-)htped(f=S
-areleproksrroT
-närdo
-aPk
+
+odrän
+
+1.71
+
+GC-last: 5 kPa
+
+Trafiklast: 15 kPa
+
+Marklast: 10 kPa (0,5 m)
+
 5
-:tsal-CG
-aPk
-51
-:tsalkifarT
-)m
-5,0(
-aPk
-01
-:tsalkraM
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-C
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:64:80
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+3
+
+1
+
+Torrskorpelera odrän
+
+Lera F1y llondirnägn
+
+Fyllning
+
+Torrskorpelera odrän
+
+-1
+
+-3
+
+Lera 1 odrän
+
+-5
+
+-7
+
+Gyttja odrän
+
+-9
+
+Lera 2 odrän
+
+-11
+
+-13
+
+Lera 3 odrän
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
+
+Senast redigerad: 2025-07-18, 08:46:59
+
+Skapad av: Elham Sokhango
 
 <!-- sida 144 -->
 
-36.1
-bmok
-areleproksrroT
-gninllyF
-
-bgmnionkll
-y1F
-areL
-
-bmok
-areleproksrroT
-bmok
-1
-areL
-bmok
-ajttyG
-bmok
-2 areL
-bmok
-3 areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-8:5
-agaliB
-evitceffE
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-noisehoC
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-)aPk(
-murtnecartsödyS
+
+Bilaga 5:8
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric Datum
+
+Su-Datum Effective
+
+Weight Friction of
+
+Change
+
+Ratio Surface
+
+(Elevation) (kPa)
+
+Cohesion
+
+Sydöstracentrum
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa)
+
+(kPa)
+
+107 47 61
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+0
+
+Sektion C
+
+Kombinerad analys
+
+Gyttja komb Combined, S=f(datum)
+
+14
+
+30
+
+1.2
+
+0.1 1
+
+-5
+
 16
-74
-701
+
+Planerade förhållanden - Marklast
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+30
+
+10
+
+1.2
+
+0.1 1
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.2
+
+0.1 1
+
+-9
+
+20.8
+
+Minsta glidytedjup: 1 m
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.2
+
+0.1 1
+
+-10
+
+16
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-C
-noitkeS
-61
-5-
-1
-1.0
-2.1
-03
-41
-)mutad(f=S
-,denibmoC
-bmok
-ajttyG
-sylana
-darenibmoK
-1
-1.0
-2.1
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1
-areL
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-8.02
-9-
-1
-1.0
-2.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2
-areL
-sylanastehrekäslatoT
-61
-01-
-1
-1.0
-2.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
+
+0.1 1
+
+komb
+
+1.63
+
+Marklast: 10 kPa (0,5 m)
+
+5
+
 3
-areL
-m
-1 :pujdetydilg
-atsniM
+
 1
-1.0
+
+Torrskorpelera komb
+
+Lera F1y llknoinmgb
+
+Fyllning
+
+Torrskorpelera komb
+
+-1
+
+-3
+
+Lera 1 komb
+
+-5
+
+-7
+
+Gyttja komb
+
+-9
+
+Lera 2 komb
+
+-11
+
+-13
+
+Lera 3 komb
+
+-15
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-)m
-5,0(
-aPk
-01
-:tsalkraM
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-C
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-95:64:80
-,81-70-5202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
+
+Senast redigerad: 2025-07-18, 08:46:59
+
+Skapad av: Elham Sokhango
 
 <!-- sida 145 -->
 
-95.1
-rdo
-areleproksrroT
-rdo
-1
-areL
-rdo
-ajttyG
-rdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-9:5
-agaliB
-cirtemozeiP
-fo
-etaR-uS
-poT-uS
-etaR-noisehoC
-poT-noisehoC
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-egnahC
-reyaL
-fo
-egnahC
-fo
-)aPk(
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-murtnecartsödyS
-)m/)²m/Nk((
-)aPk(
-)m/)²m/Nk((
-)³m/Nk(
+
+Bilaga 5:9
+
+Sydöstracentrum
+
+Color Name
+
+Slope Stability Unit
+
+Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric
+
+Material Model Weight of Layer (kPa) of Change
+
+of Layer Change
+
+Surface
+
+107 47 61
+
+(kN/m³)
+
+((kN/m²)/m)
+
+(kPa)
+
+((kN/m²)/m)
+
+Sektion E
+
+Gyttja odr
+
+S=f(depth)
+
+14
+
+10.4
+
+0.7
+
+10.4
+
+0.7
+
+1
+
+Odränerad analys
+
+Lera 1 odr
+
+S=f(depth)
+
 16
-74
-701
+
+10
+
+0.7
+
+10
+
+0.7
+
 1
-7.0
-4.01
-7.0
-4.01
-41
-)htped(f=S
-rdo
-ajttyG
-E
-noitkeS
-sylana
-darenärdO
+
+Planerade förhållanden - Marklast
+
+Morgenstern-Price
+
+Lera 2 odr
+
+S=f(depth)
+
+16
+
+12
+
+0.8
+
+12
+
+0.8
+
 1
-7.0
-01
-7.0
-01
-61
-)htped(f=S
-rdo
-1 areL
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-1
-8.0
-21
-8.0
-21
-61
-)htped(f=S
-rdo
-2 areL
-ecirP-nretsnegroM
-sylanastehrekäslatoT
-1
+
+Totalsäkerhetsanalys
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-02
+
+20
+
 0
-02
-81
-)htped(f=S
-areleproksrroT
-rdo
-m
+
 1
-:pujdetydilg
-atsniM
-gäv-CG
-)m
-5,0(
-aPk
-01
-:tsalkraM
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-E
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-51:25:90
-,61-50-6202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+Minsta glidytedjup: 1 m
+
+odr
+
+1.59
+
+GC-väg
+
+5
+
+Marklast: 10 kPa (0,5 m)
+
+3
+
+Torrskorpelera odr
+
+1
+
+Lera 1 odr
+
+Gyttja odr
+
+-1
+
+-3
+
+-5
+
+-7
+
+Lera 2 odr
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
+
+Senast redigerad: 2026-05-16, 09:52:15
+
+Skapad av: Elham Sokhango
 
 <!-- sida 146 -->
 
-05.1
-bmok
-areleproksrroT
-bmok
-1
-areL
-bmok
-ajttyG
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-01:5
-agaliB
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-ecafruS
-oitaR
-egnahC
-reyaL
-fo
-noitcirF
-thgieW
-)m/)²m/Nk((
-)aPk(
-)°(
-elgnA
-)³m/Nk(
-1
-1.0
-7.0
-4.01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-murtnecartsödyS
+
+Bilaga 5:10
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric
+
+Weight Friction of Layer Change
+
+Ratio Surface
+
+(kN/m³) Angle (°) (kPa)
+
+((kN/m²)/m)
+
+Sydöstracentrum
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+10.4
+
+0.7
+
+0.1 1
+
+107 47 61
+
+Sektion E
+
+Lera 1 komb Combined, S=f(depth)
+
 16
-74
-701
-1
-1.0
-7.0
-01
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1
-areL
-E
-noitkeS
-sylana
-darenibmoK
-1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2
-areL
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-1
-1.0
+
+30
+
+10
+
+0.7
+
+0.1 1
+
+Kombinerad analys
+
+Planerade förhållanden - Marklast
+
+Lera 2 komb Combined, S=f(depth)
+
+16
+
+30
+
+12
+
+0.8
+
+0.1 1
+
+Morgenstern-Price
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-sylanastehrekäslatoT
-bmok
-m
-1 :pujdetydilg
-atsniM
-gäv-CG
-)m
-5,0(
-aPk
-01
-:tsalkraM
-5  3 1  1- 3- 5- 7- 9- 11- 31- 51-
-zsg.5202
-E
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-51:25:90
-,61-50-6202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+0.1 1
+
+Totalsäkerhetsanalys
+
+komb
+
+Minsta glidytedjup: 1 m
+
+1.50
+
+GC-väg
+
+5
+
+Marklast: 10 kPa (0,5 m)
+
+3
+
+Torrskorpelera komb
+
+1
+
+Lera 1 komb
+
+Gyttja komb
+
+-1
+
+-3
+
+-5
+
+-7
+
+Lera 2 komb
+
+-9
+
+-11
+
+-13
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
+
+Senast redigerad: 2026-05-16, 09:52:15
+
+Skapad av: Elham Sokhango
 
 <!-- sida 147 -->
 
-18.1
-
-netsgnärpS
-gninllyF
-rdo
-areleproksrroT
-rdo
-ajttyG
-rdo
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-1:6
-agaliB
-tnatsnoC
-evitceffE
-evitceffE
-cirtemozeiP
-fo
-etaR-uS
-poT-uS
-etaR-noisehoC
-poT-noisehoC
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noitcirF
-noisehoC
-ecafruS
-egnahC
-fo
-egnahC
-fo
-)aPk(
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-evobA
-)°(
-elgnA
-)aPk(
-)m/)²m/Nk((
-reyaL
-)m/)²m/Nk((
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS
-murtnecartsödyS
-)³m/Nk(
+
+Bilaga 6:1
+
+Color Name
+
+Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric Effective Effective Constant
+
+Material Model Weight of Layer (kPa) of Change
+
+of
+
+Change
+
+Surface
+
+Cohesion Friction Unit Wt.
+
+(kN/m³)
+
+((kN/m²)/m)
+
+Layer ((kN/m²)/m)
+
+(kPa)
+
+Angle (°) Above
+
+(kPa)
+
+Piezometric
+
+Sydöstracentrum
+
+Surface
+
+107 47 61
+
+(kN/m³)
+
+Sektion F
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+0
+
+36
+
+Odränerad analys
+
+Planerade förhållanden - dike
+
+Gyttja odr
+
+S=f(depth)
+
+14
+
+10
+
+0.7
+
+10
+
+0.7
+
+1
+
+Morgenstern-Price
+
+Lera 2 odr
+
+S=f(depth)
+
 16
-74
-701
-63
-0
-1
-91
-bmoluoC-rhoM
-gninllyF
-F
-noitkeS
-sylana
-darenärdO
-1
-7.0
-01
-7.0
-01
-41
-)htped(f=S
-rdo
-ajttyG
-ekid
-\-
-nednallåhröf
-edarenalP
-ecirP-nretsnegroM
-1
-8.0
-21
-8.0
-21
-61
-)htped(f=S
-rdo
-2
-areL
-sylanastehrekäslatoT
-m
-1
-:pujdetydilg
-atsniM
-81
-43
-0
-1
+
 12
-bmoluoC-rhoM
-netsgnärpS
+
+0.8
+
+12
+
+0.8
+
 1
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup: 1 m
+
+Sprängsten
+
+Mohr-Coulomb 21
+
+1
+
 0
-02
+
+34
+
+18
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
 0
-02
-81
-)htped(f=S
-areleproksrroT
-rdo
-aPk
-43
-hco
-aPk
-9,82
-:tsalgåT
-m 748.5
+
+20
+
+0
+
+1
+
+odr
+
+1.81
+
+Tåglast: 28,9 kPa och 34 kPa
+
 5
+
+5.847 m
+
+Sprängsten
+
 1:1
-0     5-     01-   51-
-zsg.5202
-F
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-50:32:80
-,10-40-6202
-:daregider
-tsaneS
-003:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+
+Fyllning
+
+Torrskorpelera odr
+
+0
+
+Gyttja odr
+
+-5
+
+-10
+
+Lera 2 odr
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
+
+Senast redigerad: 2026-04-01, 08:23:05
+
+Skala (A4): 1:300
+
+Skapad av: Elham Sokhango
 
 <!-- sida 148 -->
 
-26.2
-
-netsgnärpS
-gninllyF
-bmok
-areleproksrroT
-bmok
-ajttyG
-bmok
-2
-areL
-07
-56
-06
-55
-05
-54
-04
-53
-03
-52
-02
-51
-01
-5
-0
-ecnatsiD
 noitavelE
-2:6
-agaliB
-tnatsnoC
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-evobA
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-cirtemozeiP
-)aPk(
-murtnecartsödyS
-ecafruS
+
+Bilaga 6:2
+
+Color Name
+
+Slope Stability Material Model Unit
+
+Effective Su-Top Su-Rate of c'/Su Piezometric Constant
+
+Weight Friction of
+
+Change
+
+Ratio Surface
+
+Unit Wt.
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+Above
+
+Sydöstracentrum
+
+(kPa)
+
+Piezometric
+
+107 47 61
+
+Surface
+
+Sektion F
+
+(kN/m³)
+
+Kombinerad analys
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+Planerade förhållanden - dike
+
+Morgenstern-Price
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+10
+
+0.7
+
+0.1 1
+
+Totalsäkerhetsanalys
+
+Lera 2 komb Combined, S=f(depth)
+
 16
-74
-701
-)³m/Nk(
-F
-noitkeS
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-sylana
-darenibmoK
-ekid
-\-
-nednallåhröf
-edarenalP
-1
-1.0
-7.0
-01
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-ecirP-nretsnegroM sylanastehrekäslatoT
-1
-1.0
-8.0
-21
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-2 areL
-m
-1 :pujdetydilg
-atsniM
-81
-1
-43
+
+30
+
 12
-bmoluoC-rhoM
-netsgnärpS
+
+0.8
+
+0.1 1
+
+Minsta glidytedjup: 1 m
+
+Sprängsten Mohr-Coulomb
+
+21
+
+34
+
 1
-1.0
+
+18
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
 0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
+
+0.1 1
+
+komb
+
+2.62
+
 5
+
+Sprängsten
+
 1:1
-0     5-     01-   51-
-zsg.5202
-F
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-50:32:80
-,10-40-6202
-:daregider
-tsaneS
-ognahkoS
-mahlE
-:va
-dapakS
+
+Fyllning
+
+Torrskorpelera komb
+
+0
+
+Gyttja komb
+
+-5
+
+-10
+
+Lera 2 komb
+
+-15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+Distance
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
+
+Senast redigerad: 2026-04-01, 08:23:05
+
+Skapad av: Elham Sokhango
 
 <!-- sida 149 -->
 
@@ -8887,11 +9875,11 @@ dapakS
 2
 2C    6D       D01      14D      18C
 6C       10C
-
+2B
 B6       10B      14B
 B81
 23             2A     6A       10A      A41      18A  4
-21               4A 4B 4C 8A  8C   12A 12B 12C 16A 16B 16C
+21               4A 4B 4C 8A 8B 8C 12A 12B 12C 16A 16B 16C
 (1)
 19
 3
@@ -8901,7 +9889,7 @@ B81
 17                                            5
 1A
 HF
-H-A51                      3B
+H-A51                      3B                  Brandstation
 GE
 D
 C
@@ -8931,42 +9919,33 @@ B-A
 5
 6   8
 2 4
+Polis
 9
 41
 7
 01
-A71
-17C
-B71
-17
-5
-C41
-2B
-8B
-Brandstation
-Polis
-Drottning
+A71Drottning
 Blank
 g
 a
 y
 s mnasium
+17C
+B71
+17
 P-hus
 Linden
-00
-08
-141
-01
-64+
-nfT
-BA
-tlusnocroN
-es.tlusnocron.www
-grobetöG
-67
-204
-,4778
-xoB
+5
+
+14C
+
+Norconsult AB
+
+Tfn +46 10 141 80 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se
 
 <!-- sida 151 -->
 
@@ -8975,11 +9954,11 @@ xoB
 2
 2C    6D       D01      14D      18C
 6C       10C
-
+2B
 B6       10B      14B
 B81
 23             2A     6A       10A      A41      18A  4
-21               4A 4B 4C 8A  8C   12A 12B 12C 16A 16B 16C
+21               4A 4B 4C 8A 8B 8C 12A 12B 12C 16A 16B 16C
 (1)
 19
 3
@@ -8989,7 +9968,7 @@ B81
 17                                            5
 1A
 HF
-H-A51                      3B
+H-A51                      3B                  Brandstation
 GE
 D
 C
@@ -9019,93 +9998,63 @@ B-A
 5
 6   8
 2 4
+Polis
 9
 41
 7
 01
-A71
-17C
-B71
-17
-5
-C41
-2B
-8B
-Brandstation
-Polis
-Drottning
+A71Drottning
 Blank
 g
 a
 y
 s mnasium
+17C
+B71
+17
 P-hus
 Linden
-00
-08
-141
-01
-64+
-nfT
-BA
-tlusnocroN
-es.tlusnocron.www
-grobetöG
-67
-204
-,4778
-xoB
+5
+
+14C
+
+Norconsult AB
+
+Tfn +46 10 141 80 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se
 
 <!-- sida 152 -->
 
-00
-08
-141
-01
-64+
-nfT
-BA
-tlusnocroN
-es.tlusnocron.www
-grobetöG
-67
-204
-,4778
-xoB
+Norconsult AB
+
+Tfn +46 10 141 80 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se
 
 <!-- sida 153 -->
 
-00
-08
-141
-01
-64+
-nfT
-BA
-tlusnocroN
-es.tlusnocron.www
-grobetöG
-67
-204
-,4778
-xoB
+Norconsult AB
+
+Tfn +46 10 141 80 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se
 
 <!-- sida 154 -->
 
-00
-08
-141
-01
-64+
-nfT
-BA
-tlusnocroN
-es.tlusnocron.www
-grobetöG
-67
-204
-,4778
-xoB
+Norconsult AB
+
+Tfn +46 10 141 80 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se
 
 <!-- sida 155 -->
 
@@ -9532,13 +10481,27 @@ föreligga där.
 
 <!-- sida 167 -->
 
+Bilaga 1:1
+
+Sammanställning
+Odränerad skjuvhållfasthet, korrigerad (kPa)
+Sydöstra centrum
+Sektion D
 0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
 
 5
+NC 2110 CPT Tfu,korr
+NC 2111 CPT Tfu,korr
 
-0
+HG 1 Vb Tfu,korr
+0                                     SCC 4 Kon, Tfu,korr
 
+SCC 106 Vb Tfu,korr
+SCC 107 Vb Tfu,korr
+
+HG 1 Kon, Tfu,korr
 -5
+Vald Tfu sektion D
 
 -10
 
@@ -9555,21 +10518,8 @@ föreligga där.
 -40
 
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
-)m(
-åviN
-Bilaga 1:1
-Sammanställning
-Odränerad skjuvhållfasthet, korrigerad (kPa)
-Sydöstra centrum
-Sektion D
-NC 2110 CPT Tfu,korr
-NC 2111 CPT Tfu,korr
-HG 1 Vb Tfu,korr
-SCC 4 Kon, Tfu,korr
-SCC 106 Vb Tfu,korr
-SCC 107 Vb Tfu,korr
-HG 1 Kon, Tfu,korr
-Vald Tfu sektion D
+
+Nivå (m)
 
 <!-- sida 168 -->
 
@@ -9579,2108 +10529,2699 @@ Vald Tfu sektion D
 
 <!-- sida 171 -->
 
-85.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
+noitavelE
 
-04
+Bilaga 3:1
 
-53
+Color Name
 
-03
+Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Su-Maximum/Minimum Piezometric Datum
 
-52
+Cohesion-Datum Su at Effective Effective Constant
 
-02
+Material Model Weight of Layer (kPa) of Change
 
-51
+of
 
-01
+Change (kPa)
+
+Surface
+
+(Elevation) (kPa)
+
+Datum Cohesion Friction Unit Wt.
+
+(kN/m³)
+
+((kN/m²)/m)
+
+Layer ((kN/m²)/m)
+
+(m)
+
+(kPa) (kPa)
+
+Angle (°) Above
+
+(kPa)
+
+Piezometric
+
+Surface
+
+Sydöstra centrum
+
+(kN/m³)
+
+107 33 89
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+0
+
+36
+
+Sektion D
+
+Grovbetong Mohr-Coulomb 24
+
+1
+
+0
+
+34
+
+Analysis Type:
+
+Gyttja odrän S=f(depth)
+
+14
+
+13
+
+0
+
+13
+
+0
+
+0
+
+1
+
+Odränerad analys
+
+Lera 1 odrän S=f(depth)
+
+16
+
+13
+
+0
+
+13
+
+0
+
+0
+
+1
+
+Befintliga förhållanden
+
+Lera 2 odrän S=f(datum)
+
+16
+
+0.4
+
+0.4
+
+0
+
+1
+
+-5
+
+13
+
+13
+
+Morgenstern-Price
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.5
+
+1.5
+
+0
+
+1
+
+-10
+
+15
+
+15
+
+Totalsäkerhetsanalys
+
+Lera 4 odrän S=f(datum)
+
+16
+
+1.3
+
+1.3
+
+0
+
+1
+
+-12
+
+18
+
+18
+
+Minsta glidytedjup:1 m
+
+Stödmur
+
+High Strength 24
+
+1
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
+0
+
+20
+
+0
+
+0
+
+1
+
+odrän
+
+Vägkropp
+
+Mohr-Coulomb 22
+
+1
+
+0
+
+34
+
+18
+
+1.58
+
+Planområdesgräns
+
+6
+
+NC2110
+
+NC2111
+
+14 kPa
+
+4
+
+2
+
+Hantverksgatan
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
-noitavelE
-1:3
-agaliB
-tnatsnoC
-evitceffE
-evitceffE
-ta
-uS
-mutaD-noisehoC
-mutaD
-cirtemozeiP
-muminiM/mumixaM-uS
-fo
-etaR-uS
-poT-uS
-etaR-noisehoC
-poT-noisehoC
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noitcirF
-noisehoC
-mutaD
-)aPk(
-)noitavelE(
-ecafruS
-)aPk(
-egnahC
-fo
-egnahC
-fo
-)aPk(
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-evobA
-)°(
-elgnA
-)aPk(
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)m/)²m/Nk((
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS )³m/Nk(
-murtnec
-artsödyS
-63
-0
-1
-91
-bmoluoC-rhoM
-gninllyF
-98
-33
-701
-43
-0
-1
-42
-bmoluoC-rhoM
-gnotebvorG
-D
-noitkeS
-1
-0
-0
-31
-0
-31
-41
-)htped(f=S
-närdo
-ajttyG
-:epyT
-sisylanA
-1
-0
-0
-31
-0
-31
-61
-)htped(f=S
-närdo
-1 areL
-sylana
-darenärdO
-31
-31
-5-
-1
-0
-4.0
-4.0
-61
-)mutad(f=S
-närdo
-2 areL
-nednallåhröf
-agiltnifeB
-51
-51
-01-
-1
-0
-5.1
-5.1
-61
-)mutad(f=S
-närdo
-3 areL
-ecirP-nretsnegroM
-81
-81
-21-
-1
-0
-3.1
-3.1
-61
-)mutad(f=S
-närdo
-4 areL
-sylanastehrekäslatoT
-1
-42
-htgnertS
-hgiH
-rumdötS
-m
-1:pujdetydilg
-atsniM
-1
-0
-0
-02
-0
-02
-81
-)htped(f=S
-areleproksrroT
-närdo
-81
-43
-0
-1
-22
-bmoluoC-rhoM
-pporkgäV
-snärgsedårmonalP
-6
-1112CN
-0112CN
-aPk
-41
-4
-natagskrevtnaH
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-D
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-85:92:81
-,82-90-5202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gszDistance
+
+Senast redigerad: 2025-09-28, 18:29:58
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 172 -->
 
-75.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
+noitavelE
 
-04
+Bilaga 3:2
 
-53
+Color Name
 
-03
+Slope Stability Material Model Unit Cohesion-Top Cohesion-Rate Effective Su-Top Su-Rate of c'/Su Piezometric Datum
 
-52
+Cohesion-Datum Su-Datum Effective Constant
 
-02
+Weight of Layer (kPa) of Change
 
-51
+Friction of
 
-01
+Change Ratio Surface
+
+(Elevation) (kPa)
+
+(kPa)
+
+Cohesion Unit Wt.
+
+(kN/m³)
+
+((kN/m²)/m)
+
+Angle (°) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa)
+
+Above
+
+(kPa)
+
+Piezometric
+
+Surface
+
+Sydöstra centrum
+
+(kN/m³)
+
+107 33 89
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+0
+
+Sektion D
+
+Grovbetong Mohr-Coulomb
+
+24
+
+34
+
+1
+
+0
+
+Analysis Type:
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+0
+
+0
+
+30
+
+13
+
+0
+
+0.1 1
+
+Kombinerad analys
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+0
+
+0
+
+30
+
+13
+
+0
+
+0.1 1
+
+Befintliga förhållanden
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+0
+
+30
+
+0.4
+
+0.1 1
+
+-5
+
+0
+
+13
+
+Morgenstern-Price
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+0
+
+30
+
+1.5
+
+0.1 1
+
+-10
+
+0
+
+15
+
+Totalsäkerhetsanalys
+
+Lera 4 komb Combined, S=f(datum)
+
+16
+
+0
+
+30
+
+1.3
+
+0.1 1
+
+-12
+
+0
+
+18
+
+Minsta glidytedjup:1 m
+
+Stödmur
+
+High Strength
+
+24
+
+1
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+0
+
+0
+
+30
+
+20
+
+0
+
+0.1 1
+
+komb
+
+Vägkropp
+
+Mohr-Coulomb
+
+22
+
+34
+
+1
+
+0
+
+18
+
+1.57
+
+Planområdesgräns
+
+6
+
+NC2110
+
+NC2111
+
+14 kPa
+
+4
+
+2
+
+Hantverksgatan
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
-noitavelE
-2:3
-agaliB
-tnatsnoC
-evitceffE
-mutaD-uS
-mutaD-noisehoC
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-etaR-noisehoC
-poT-noisehoC
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noisehoC
-)aPk(
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-egnahC
-fo
-)aPk(
-reyaL
-fo
-thgieW
-evobA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)m/)²m/Nk((
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS )³m/Nk(
-murtnec
-artsödyS
-0
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-98
-33
-701
-0
-1
-43
-42
-bmoluoC-rhoM
-gnotebvorG
-D
-noitkeS
-1
-1.0
-0
-31
-03
-0
-0
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-:epyT
-sisylanA
-1
-1.0
-0
-31
-03
-0
-0
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-sylana
-darenibmoK
-31
-0
-5-
-1
-1.0
-4.0
-03
-0
-61
-)mutad(f=S
-,denibmoC
-bmok
-2 areL
-nednallåhröf
-agiltnifeB
-51
-0
-01-
-1
-1.0
-5.1
-03
-0
-61
-)mutad(f=S
-,denibmoC
-bmok
-3 areL
-ecirP-nretsnegroM
-81
-0
-21-
-1
-1.0
-3.1
-03
-0
-61
-)mutad(f=S
-,denibmoC
-bmok
-4 areL
-sylanastehrekäslatoT
-1
-42
-htgnertS
-hgiH
-rumdötS
-m
-1:pujdetydilg
-atsniM
-1
-1.0
-0
-02
-03
-0
-0
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-81
-0
-1
-43
-22
-bmoluoC-rhoM
-pporkgäV
-snärgsedårmonalP
-6
-1112CN
-0112CN
-aPk
-41
-4
-natagskrevtnaH
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-D
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-85:92:81
-,82-90-5202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gszDistance
+
+Senast redigerad: 2025-09-28, 18:29:58
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 173 -->
 
-75.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
+noitavelE
 
-04
+Bilaga 4:1
 
-53
+Color Name
 
-03
+Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric Datum
 
-52
+Cohesion-Datum Su at Effective Constant
 
-02
+Material Model Weight of Layer (kPa) of Change
 
-51
+of
 
-01
+Change Surface
+
+(Elevation) (kPa)
+
+Datum Friction Unit Wt.
+
+(kN/m³)
+
+((kN/m²)/m)
+
+Layer ((kN/m²)/m)
+
+(m)
+
+(kPa) Angle Above
+
+(kPa)
+
+(°)
+
+Piezometric
+
+Surface
+
+Sydöstra centrum
+
+(kN/m³)
+
+107 33 89
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+36
+
+Sektion D
+
+Grovbetong Mohr-Coulomb 24
+
+1
+
+34
+
+Analysis Type:
+
+Gyttja odrän S=f(depth)
+
+14
+
+13
+
+0
+
+13
+
+0
+
+1
+
+Odränerad analys
+
+Lättfyllnad
+
+Mohr-Coulomb 11
+
+1
+
+35
+
+4.5
+
+Planerade förhållanden
+
+Lera 1 odrän S=f(depth)
+
+16
+
+13
+
+0
+
+13
+
+0
+
+1
+
+Morgenstern-Price
+
+Lera 2 odrän S=f(datum)
+
+16
+
+0.4
+
+0.4
+
+1
+
+-5
+
+13
+
+13
+
+Totalsäkerhetsanalys
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.5
+
+1.5
+
+1
+
+-10
+
+15
+
+15
+
+Minsta glidytedjup:1 m
+
+Lera 4 odrän S=f(datum)
+
+16
+
+1.3
+
+1.3
+
+1
+
+-12
+
+18
+
+18
+
+Stödmur
+
+High Strength 24
+
+1
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
+0
+
+20
+
+0
+
+1
+
+odrän
+
+Vägkropp
+
+Mohr-Coulomb 22
+
+1
+
+34
+
+18
+
+1.57
+
+Pålgrundlagd P-HUS
+
+Planområdesgräns
+
+6
+
+Hantverksgatan
+
+4
+
+Marklast: 10 kPa
+
+14 kPa
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
-noitavelE
-1:4
-agaliB
-tnatsnoC
-evitceffE
-ta
-uS
-mutaD-noisehoC
-mutaD
-cirtemozeiP
-fo
-etaR-uS
-poT-uS
-etaR-noisehoC
-poT-noisehoC
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-.tW tinU
-noitcirF
-mutaD
-)aPk(
-)noitavelE(
-ecafruS
-egnahC
-fo
-egnahC
-fo
-)aPk(
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-evobA
-elgnA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)m/)²m/Nk((
-)³m/Nk(
-cirtemozeiP
-)°(
-)aPk(
-ecafruS )³m/Nk(
-murtnec
-artsödyS
-63
-1
-91
-bmoluoC-rhoM
-gninllyF
-98
-33
-701
-43
-1
-42
-bmoluoC-rhoM
-gnotebvorG
-D
-noitkeS
-1
-0
-31
-0
-31
-41
-)htped(f=S
-närdo
-ajttyG
-:epyT
-sisylanA
-5.4
-53
-1
-11
-bmoluoC-rhoM
-danllyfttäL
-sylana
-darenärdO
-1
-0
-31
-0
-31
-61
-)htped(f=S
-närdo
-1 areL
-nednallåhröf
-edarenalP
-31
-31
-5-
-1
-4.0
-4.0
-61
-)mutad(f=S
-närdo
-2 areL
-ecirP-nretsnegroM
-51
-51
-01-
-1
-5.1
-5.1
-61
-)mutad(f=S
-närdo
-3 areL
-sylanastehrekäslatoT
-81
-81
-21-
-1
-3.1
-3.1
-61
-)mutad(f=S
-närdo
-4 areL
-m
-1:pujdetydilg
-atsniM
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-0
-02
-0
-02
-81
-)htped(f=S
-areleproksrroT
-närdo
-81
-43
-1
-22
-bmoluoC-rhoM
-pporkgäV
-SUH-P
-dgaldnurglåP
-snärgsedårmonalP
-natagskrevtnaH
-6
-aPk
-41
-aPk
-01
-:tsalkraM
-4 2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-D
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-43:43:70
-,03-90-5202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gszDistance
+
+Senast redigerad: 2025-09-30, 07:34:34
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 174 -->
 
-55.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
+noitavelE
 
-04
+Bilaga 4:2
 
-53
+Color Name
 
-03
+Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum
 
-52
+Su-Datum Constant
 
-02
+Weight Friction of
 
-51
+Change Ratio Surface
 
-01
+(Elevation) (kPa)
+
+Unit Wt.
+
+Sydöstra centrum
+
+(kN/m³) Angle Layer ((kN/m²)/m)
+
+(m)
+
+Above
+
+(°)
+
+(kPa)
+
+Piezometric
+
+107 33 89
+
+Surface
+
+Sektion D
+
+(kN/m³)
+
+Analysis Type:
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+Kombinerad analys
+
+Grovbetong Mohr-Coulomb
+
+24
+
+34
+
+1
+
+Planerade förhållanden
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+13
+
+0
+
+0.1 1
+
+Morgenstern-Price
+
+Lättfyllnad
+
+Mohr-Coulomb
+
+11
+
+35
+
+1
+
+4.5
+
+Totalsäkerhetsanalys
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+30
+
+13
+
+0
+
+0.1 1
+
+Minsta glidytedjup:1 m
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+0.4
+
+0.1 1
+
+-5
+
+13
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.5
+
+0.1 1
+
+-10
+
+15
+
+Lera 4 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.3
+
+0.1 1
+
+-12
+
+18
+
+Stödmur
+
+High Strength
+
+24
+
+1
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
+0
+
+0.1 1
+
+komb
+
+Vägkropp
+
+Mohr-Coulomb
+
+22
+
+34
+
+1
+
+18 1.55
+
+Pålgrundlagd P-HUS
+
+Planområdesgräns
+
+6
+
+Hantverksgatan
+
+4
+
+Marklast: 10 kPa
+
+14 kPa
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
-noitavelE
-2:4
-agaliB
-tnatsnoC
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-.tW tinU
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-evobA
-)m(
-)m/)²m/Nk((
-reyaL
-elgnA
-)³m/Nk(
-cirtemozeiP
-)aPk(
-)°(
-murtnec
-artsödyS
-ecafruS )³m/Nk(
-98
-33
-701
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-D
-noitkeS
-1
-43
-42
-bmoluoC-rhoM
-gnotebvorG
-:epyT
-sisylanA
-1
-1.0
-0
-31
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-sylana
-darenibmoK
-5.4
-1
-53
-11
-bmoluoC-rhoM
-danllyfttäL
-nednallåhröf
-edarenalP
-1
-1.0
-0
-31
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-ecirP-nretsnegroM
-31
-5-
-1
-1.0
-4.0
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2 areL
-sylanastehrekäslatoT
-51
-01-
-1
-1.0
-5.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-3 areL
-m
-1:pujdetydilg
-atsniM
-81
-21-
-1
-1.0
-3.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-4 areL
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-1.0
-0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-81
-1
-43
-22
-bmoluoC-rhoM
-pporkgäV
-SUH-P
-dgaldnurglåP
-snärgsedårmonalP
-natagskrevtnaH
-6
-aPk
-41
-aPk
-01
-:tsalkraM
-4 2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-D
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-43:43:70
-,03-90-5202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gszDistance
+
+Senast redigerad: 2025-09-30, 07:34:34
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 175 -->
 
-45.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
+noitavelE
 
-04
+Bilaga 4:3
 
-53
+Color Name
 
-03
+Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric Datum
 
-52
+Cohesion-Datum Su at Effective Constant
 
-02
+Material Model Weight of Layer (kPa) of Change
 
-51
+of
 
-01
+Change Surface
+
+(Elevation) (kPa)
+
+Datum Friction Unit Wt.
+
+(kN/m³)
+
+((kN/m²)/m)
+
+Layer ((kN/m²)/m)
+
+(m)
+
+(kPa) Angle Above
+
+(kPa)
+
+(°)
+
+Piezometric
+
+Surface
+
+Sydöstra centrum
+
+(kN/m³)
+
+107 33 89
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+36
+
+Sektion D
+
+Grovbetong Mohr-Coulomb 24
+
+1
+
+34
+
+Analysis Type:
+
+Gyttja odrän S=f(depth)
+
+14
+
+13
+
+0
+
+13
+
+0
+
+1
+
+Odränerad analys
+
+Lättfyllnad
+
+Mohr-Coulomb 11
+
+1
+
+35
+
+4.5
+
+Planerade förhållanden utan marklast
+
+Lera 1 odrän S=f(depth)
+
+16
+
+13
+
+0
+
+13
+
+0
+
+1
+
+Morgenstern-Price
+
+Lera 2 odrän S=f(datum)
+
+16
+
+0.4
+
+0.4
+
+1
+
+-5
+
+13
+
+13
+
+Totalsäkerhetsanalys
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.5
+
+1.5
+
+1
+
+-10
+
+15
+
+15
+
+Minsta glidytedjup:1 m
+
+Lera 4 odrän S=f(datum)
+
+16
+
+1.3
+
+1.3
+
+1
+
+-12
+
+18
+
+18
+
+Stödmur
+
+High Strength 24
+
+1
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
+0
+
+20
+
+0
+
+1
+
+odrän
+
+Vägkropp
+
+Mohr-Coulomb 22
+
+1
+
+34
+
+18
+
+1.54
+
+Pålgrundlagd P-HUS
+
+Planområdesgräns
+
+6
+
+Hantverksgatan
+
+4
+
+14 kPa
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
-noitavelE
-3:4
-agaliB
-tnatsnoC
-evitceffE
-ta
-uS
-mutaD-noisehoC
-mutaD
-cirtemozeiP
-fo
-etaR-uS
-poT-uS
-etaR-noisehoC
-poT-noisehoC
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noitcirF
-mutaD
-)aPk(
-)noitavelE(
-ecafruS
-egnahC
-fo
-egnahC
-fo
-)aPk(
-reyaL
-fo
-thgieW
-ledoM
-lairetaM
-evobA
-elgnA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)m/)²m/Nk((
-)³m/Nk(
-cirtemozeiP
-)°(
-)aPk(
-ecafruS )³m/Nk(
-murtnec
-artsödyS
-63
-1
-91
-bmoluoC-rhoM
-gninllyF
-98
-33
-701
-43
-1
-42
-bmoluoC-rhoM
-gnotebvorG
-D
-noitkeS
-1
-0
-31
-0
-31
-41
-)htped(f=S
-närdo
-ajttyG
-:epyT
-sisylanA
-5.4
-53
-1
-11
-bmoluoC-rhoM
-danllyfttäL
-sylana
-darenärdO
-1
-0
-31
-0
-31
-61
-)htped(f=S
-närdo
-1 areL
-tsalkram
-natu
-nednallåhröf
-edarenalP
-31
-31
-5-
-1
-4.0
-4.0
-61
-)mutad(f=S
-närdo
-2 areL
-ecirP-nretsnegroM
-51
-51
-01-
-1
-5.1
-5.1
-61
-)mutad(f=S
-närdo
-3 areL
-sylanastehrekäslatoT
-81
-81
-21-
-1
-3.1
-3.1
-61
-)mutad(f=S
-närdo
-4 areL
-m
-1:pujdetydilg
-atsniM
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-0
-02
-0
-02
-81
-)htped(f=S
-areleproksrroT
-närdo
-81
-43
-1
-22
-bmoluoC-rhoM
-pporkgäV
-SUH-P
-dgaldnurglåP
-snärgsedårmonalP
-6
-natagskrevtnaH
-4
-aPk
-41
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-D
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-43:43:70
-,03-90-5202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz Distance
+
+Senast redigerad: 2025-09-30, 07:34:34
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 176 -->
 
-35.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
+noitavelE
 
-04
+Bilaga 4:4
 
-53
+Color Name
 
-03
+Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum
 
-52
+Su-Datum Constant
 
-02
+Weight Friction of
 
-51
+Change Ratio Surface
 
-01
+(Elevation) (kPa)
+
+Unit Wt.
+
+Sydöstra centrum
+
+(kN/m³) Angle Layer ((kN/m²)/m)
+
+(m)
+
+Above
+
+(°)
+
+(kPa)
+
+Piezometric
+
+107 33 89
+
+Surface
+
+Sektion D
+
+(kN/m³)
+
+Analysis Type:
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+Kombinerad analys
+
+Grovbetong Mohr-Coulomb
+
+24
+
+34
+
+1
+
+Planerade förhållanden utan marklast
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+13
+
+0
+
+0.1 1
+
+Morgenstern-Price
+
+Lättfyllnad
+
+Mohr-Coulomb
+
+11
+
+35
+
+1
+
+4.5
+
+Totalsäkerhetsanalys
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+30
+
+13
+
+0
+
+0.1 1
+
+Minsta glidytedjup:1 m
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+0.4
+
+0.1 1
+
+-5
+
+13
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.5
+
+0.1 1
+
+-10
+
+15
+
+Lera 4 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.3
+
+0.1 1
+
+-12
+
+18
+
+Stödmur
+
+High Strength
+
+24
+
+1
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
+0
+
+0.1 1
+
+komb
+
+Vägkropp
+
+Mohr-Coulomb
+
+22
+
+34
+
+1
+
+18 1.53
+
+Pålgrundlagd P-HUS
+
+Planområdesgräns
+
+6
+
+Hantverksgatan
+
+4
+
+14 kPa
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
-noitavelE
-4:4
-agaliB
-tnatsnoC
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-.tW tinU
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-evobA
-)m(
-)m/)²m/Nk((
-reyaL
-elgnA
-)³m/Nk(
-cirtemozeiP
-)aPk(
-)°(
-murtnec
-artsödyS
-ecafruS )³m/Nk(
-98
-33
-701
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-D
-noitkeS
-1
-43
-42
-bmoluoC-rhoM
-gnotebvorG
-:epyT
-sisylanA
-1
-1.0
-0
-31
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-sylana
-darenibmoK
-5.4
-1
-53
-11
-bmoluoC-rhoM
-danllyfttäL
-tsalkram
-natu
-nednallåhröf
-edarenalP
-1
-1.0
-0
-31
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-ecirP-nretsnegroM
-31
-5-
-1
-1.0
-4.0
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2 areL
-sylanastehrekäslatoT
-51
-01-
-1
-1.0
-5.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-3 areL
-m
-1:pujdetydilg
-atsniM
-81
-21-
-1
-1.0
-3.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-4 areL
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-1.0
-0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-81
-1
-43
-22
-bmoluoC-rhoM
-pporkgäV
-SUH-P
-dgaldnurglåP
-snärgsedårmonalP
-6
-natagskrevtnaH
-4
-aPk
-41
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-D
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-43:43:70
-,03-90-5202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz Distance
+
+Senast redigerad: 2025-09-30, 07:34:34
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 177 -->
 
-35.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
-04
-53
+noitavelE
 
-03
+Bilaga 4:5
 
-52
+Color Name
 
-02
+Slope Stability Unit Su-Top Su-Rate of Piezometric Datum
 
-51
+Su at Effective Constant
 
-01
+Material Model Weight of
+
+Change Surface
+
+(Elevation) Datum Friction Unit Wt.
+
+(kN/m³) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa) Angle (°) Above
+
+(kPa)
+
+Piezometric
+
+Sydöstra centrum
+
+Surface
+
+107 33 89
+
+(kN/m³)
+
+Sektion G
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+36
+
+Analysis Type:
+
+Grovbetong Mohr-Coulomb 24
+
+1
+
+34
+
+Odränerad analys
+
+Gyttja odrän S=f(depth)
+
+14
+
+13
+
+0
+
+1
+
+Planerade förhållanden - Marklast inom
+
+Lättfyllnad
+
+Mohr-Coulomb 11
+
+1
+
+35
+
+4.5
+
+planområdet
+
+Lera 1 odrän S=f(depth)
+
+16
+
+13
+
+0
+
+1
+
+1.53
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Lera 2 odrän S=f(datum)
+
+16
+
+0.4
+
+1
+
+-5
+
+13
+
+Minsta glidytedjup:1 m
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.5
+
+1
+
+-10
+
+15
+
+Lera 4 odrän S=f(datum)
+
+16
+
+1.3
+
+1
+
+-12
+
+18
+
+Stödmur
+
+High Strength 24
+
+1
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
+0
+
+1
+
+odrän
+
+Vägkropp
+
+Mohr-Coulomb 22
+
+1
+
+34
+
+18
+
+Planområdesgräns
+
+6
+
+Marklast: 10 kPa
+
+Hantverksgatan
+
+4
+
+14 kPa
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
+10
 
-noitavelE
-5:4
-agaliB
-tnatsnoC
-evitceffE
-ta
-uS
-mutaD
-cirtemozeiP
-fo
-etaR-uS
-poT-uS
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noitcirF
-mutaD
-)noitavelE(
-ecafruS
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-evobA
-)°( elgnA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS )³m/Nk(
-murtnec
-artsödyS
-98
-33
-701
-63
-1
-91
-bmoluoC-rhoM
-gninllyF
-G
-noitkeS
-43
-1
-42
-bmoluoC-rhoM
-gnotebvorG
-:epyT
-sisylanA
-1
-0
-31
-41
-)htped(f=S
-närdo
-ajttyG
-sylana
-darenärdO
-5.4
-53
-1
-11
-bmoluoC-rhoM
-danllyfttäL
-moni
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-tedårmonalp
-1
-0
-31
-61
-)htped(f=S
-närdo
-1 areL
-ecirP-nretsnegroM
-31
-5-
-1
-4.0
-61
-)mutad(f=S
-närdo
-2 areL
-sylanastehrekäslatoT
-51
-01-
-1
-5.1
-61
-)mutad(f=S
-närdo
-3 areL
-m
-1:pujdetydilg
-atsniM
-81
-21-
-1
-3.1
-61
-)mutad(f=S
-närdo
-4 areL
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-0
-02
-81
-)htped(f=S
-areleproksrroT
-närdo
-81
-43
-1
-22
-bmoluoC-rhoM
-pporkgäV
-snärgsedårmonalP
-6
-natagskrevtnaH
-aPk
-01
-:tsalkraM
-4
-aPk
-41
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-G
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-12:92:81
-,31-50-6202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
+
+Senast redigerad: 2026-05-13, 18:29:21
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 178 -->
 
-35.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
-04
+noitavelE
 
-53
+Bilaga 4:6
 
-03
+Color Name
 
-52
+Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum
 
-02
+Su-Datum Constant
 
-51
+Weight Friction of
 
-01
+Change Ratio Surface
+
+(Elevation) (kPa)
+
+Unit Wt.
+
+Sydöstra centrum
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+(m)
+
+Above
+
+107 33 89
+
+(kPa)
+
+Piezometric
+
+Surface
+
+Sektion G
+
+(kN/m³)
+
+Analysis Type:
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+Kombinerad analys
+
+Grovbetong Mohr-Coulomb
+
+24
+
+34
+
+1
+
+Planerade förhållanden - Marklast inom
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+13
+
+0
+
+0.1 1
+
+planområdet
+
+Lättfyllnad
+
+Mohr-Coulomb
+
+11
+
+35
+
+1
+
+4.5
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+30
+
+13
+
+0
+
+0.1 1
+
+Minsta glidytedjup:1 m
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+0.4
+
+0.1 1
+
+-5
+
+13
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.5
+
+0.1 1
+
+-10
+
+15
+
+Lera 4 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.3
+
+0.1 1
+
+-12
+
+18
+
+Stödmur
+
+High Strength
+
+24
+
+1
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
+0
+
+0.1 1
+
+komb
+
+1.53
+
+Vägkropp
+
+Mohr-Coulomb
+
+22
+
+34
+
+1
+
+18
+
+Planområdesgräns
+
+6
+
+Marklast: 10 kPa
+
+Hantverksgatan
+
+4
+
+14 kPa
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
+10
 
-noitavelE
-6:4
-agaliB
-tnatsnoC
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-evobA
-)m(
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-murtnec
-artsödyS
-cirtemozeiP
-)aPk(
-ecafruS
-98
-33
-701
-)³m/Nk(
-G
-noitkeS
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-:epyT
-sisylanA
-1
-43
-42
-bmoluoC-rhoM
-gnotebvorG
-sylana
-darenibmoK
-moni
-tsalkraM
-\-
-nednallåhröf
-edarenalP
-1
-1.0
-0
-31
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-tedårmonalp
-5.4
-1
-53
-11
-bmoluoC-rhoM
-danllyfttäL
-ecirP-nretsnegroM
-1
-1.0
-0
-31
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-sylanastehrekäslatoT
-31
-5-
-1
-1.0
-4.0
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2 areL
-m
-1:pujdetydilg
-atsniM
-51
-01-
-1
-1.0
-5.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-3 areL
-81
-21-
-1
-1.0
-3.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-4 areL
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-1.0
-0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-81
-1
-43
-22
-bmoluoC-rhoM
-pporkgäV
-snärgsedårmonalP
-6
-natagskrevtnaH
-aPk
-01
-:tsalkraM
-4
-aPk
-41
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-G
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-12:92:81
-,31-50-6202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
+
+Senast redigerad: 2026-05-13, 18:29:21
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 179 -->
 
-05.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
-04
-53
+noitavelE
 
-03
+Bilaga 4:7
 
-52
+Color Name
 
-02
+Slope Stability Unit Su-Top Su-Rate of Piezometric Datum
 
-51
+Su at Effective Constant
 
-01
+Material Model Weight of
+
+Change Surface
+
+(Elevation) Datum Friction Unit Wt.
+
+(kN/m³) Layer ((kN/m²)/m)
+
+(m)
+
+(kPa) Angle (°) Above
+
+(kPa)
+
+Piezometric
+
+Sydöstra centrum
+
+Surface
+
+107 33 89
+
+(kN/m³)
+
+Sektion G
+
+Fyllning
+
+Mohr-Coulomb 19
+
+1
+
+36
+
+Analysis Type:
+
+Grovbetong Mohr-Coulomb 24
+
+1
+
+34
+
+Odränerad analys
+
+Gyttja odrän S=f(depth)
+
+14
+
+13
+
+0
+
+1
+
+Planerade förhållanden - Ogynnsam
+
+Lättfyllnad
+
+Mohr-Coulomb 11
+
+1
+
+35
+
+4.5
+
+lastplacering
+
+Lera 1 odrän S=f(depth)
+
+16
+
+13
+
+0
+
+1
+
+1.50
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Lera 2 odrän S=f(datum)
+
+16
+
+0.4
+
+1
+
+-5
+
+13
+
+Minsta glidytedjup:1 m
+
+Lera 3 odrän S=f(datum)
+
+16
+
+1.5
+
+1
+
+-10
+
+15
+
+Lera 4 odrän S=f(datum)
+
+16
+
+1.3
+
+1
+
+-12
+
+18
+
+Stödmur
+
+High Strength 24
+
+1
+
+Torrskorpelera S=f(depth)
+
+18
+
+20
+
+0
+
+1
+
+odrän
+
+Vägkropp
+
+Mohr-Coulomb 22
+
+1
+
+34
+
+18
+
+Planområdesgräns
+
+6
+
+Marklast: 10 kPa
+
+Hantverksgatan
+
+4
+
+14 kPa
+
+2
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
+10
 
-noitavelE
-7:4
-agaliB
-tnatsnoC
-evitceffE
-ta
-uS
-mutaD
-cirtemozeiP
-fo
-etaR-uS
-poT-uS
-tinU
-ytilibatS
-epolS
-emaN
-roloC
-.tW
-tinU
-noitcirF
-mutaD
-)noitavelE(
-ecafruS
-egnahC
-fo
-thgieW
-ledoM
-lairetaM
-evobA
-)°( elgnA
-)aPk(
-)m(
-)m/)²m/Nk((
-reyaL
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS )³m/Nk(
-murtnec
-artsödyS
-98
-33
-701
-63
-1
-91
-bmoluoC-rhoM
-gninllyF
-G
-noitkeS
-43
-1
-42
-bmoluoC-rhoM
-gnotebvorG
-:epyT
-sisylanA
-1
-0
-31
-41
-)htped(f=S
-närdo
-ajttyG
-sylana
-darenärdO
-5.4
-53
-1
-11
-bmoluoC-rhoM
-danllyfttäL
-masnnygO
-\-
-nednallåhröf
-edarenalP
-gnirecalptsal
-1
-0
-31
-61
-)htped(f=S
-närdo
-1 areL
-ecirP-nretsnegroM
-31
-5-
-1
-4.0
-61
-)mutad(f=S
-närdo
-2 areL
-sylanastehrekäslatoT
-51
-01-
-1
-5.1
-61
-)mutad(f=S
-närdo
-3 areL
-m
-1:pujdetydilg
-atsniM
-81
-21-
-1
-3.1
-61
-)mutad(f=S
-närdo
-4 areL
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-0
-02
-81
-)htped(f=S
-areleproksrroT
-närdo
-81
-43
-1
-22
-bmoluoC-rhoM
-pporkgäV
-snärgsedårmonalP
-6
-natagskrevtnaH
-aPk
-01
-:tsalkraM
-4
-aPk
-41
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-G
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-12:92:81
-,31-50-6202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
+
+Senast redigerad: 2026-05-13, 18:29:21
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 180 -->
 
-05.1
-09
-58
-08
-57
-07
-56
-06
-55
-05
-54
-04
-53
+noitavelE
 
-03
+Bilaga 4:8
 
-52
+Sydöstra centrum
 
-02
+107 33 89
 
-51
+Sektion G
 
-01
+Analysis Type:
+
+Kombinerad analys
+
+Planerade förhållanden - Ogynnsam
+
+lastplacering
+
+1.50
+
+Morgenstern-Price
+
+Totalsäkerhetsanalys
+
+Minsta glidytedjup:1 m
+
+Color Name
+
+Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum
+
+Su-Datum Constant
+
+Weight Friction of
+
+Change Ratio Surface
+
+(Elevation) (kPa)
+
+Unit Wt.
+
+(kN/m³) Angle (°) Layer ((kN/m²)/m)
+
+(m)
+
+Above
+
+(kPa)
+
+Piezometric
+
+Surface
+
+(kN/m³)
+
+Fyllning
+
+Mohr-Coulomb
+
+19
+
+36
+
+1
+
+Grovbetong Mohr-Coulomb
+
+24
+
+34
+
+1
+
+Gyttja komb Combined, S=f(depth)
+
+14
+
+30
+
+13
+
+0
+
+0.1 1
+
+Lättfyllnad
+
+Mohr-Coulomb
+
+11
+
+35
+
+1
+
+4.5
+
+Lera 1 komb Combined, S=f(depth)
+
+16
+
+30
+
+13
+
+0
+
+0.1 1
+
+Lera 2 komb Combined, S=f(datum)
+
+16
+
+30
+
+0.4
+
+0.1 1
+
+-5
+
+13
+
+Lera 3 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.5
+
+0.1 1
+
+-10
+
+15
+
+Lera 4 komb Combined, S=f(datum)
+
+16
+
+30
+
+1.3
+
+0.1 1
+
+-12
+
+18
+
+Planområdesgräns
+
+Stödmur
+
+High Strength
+
+24
+
+1
+
+Torrskorpelera Combined, S=f(depth)
+
+18
+
+30
+
+20
+
+0
+
+0.1 1
+
+komb
+
+6
+
+Vägkropp
+
+Mohr-Coulomb
+
+22
+
+34
+
+1
+
+18
+
+4
+
+Marklast: 10 kPa
+
+Hantverksgatan
+
+2
+
+14 kPa
+
+0
+
+-2
+
+-4
+
+-6
+
+-8
+
+-10
+
+-12
+
+-14
+
+-16
+
+-18
+
+-20
+
+0
 
 5
 
-0
-ecnatsiD
+10
 
-noitavelE
-8:4
-agaliB
-murtnec
-artsödyS
-98
-33
-701
-G
-noitkeS
-:epyT
-sisylanA
-sylana
-darenibmoK
-masnnygO
-\-
-nednallåhröf
-edarenalP
-gnirecalptsal
-ecirP-nretsnegroM
-sylanastehrekäslatoT
-tnatsnoC
-mutaD-uS
-mutaD
-cirtemozeiP
-uS/'c
-fo
-etaR-uS
-poT-uS
-evitceffE
-tinU
-ledoM
-lairetaM
-ytilibatS
-epolS
-emaN
-roloC
-m
-1:pujdetydilg
-atsniM
-.tW
-tinU
-)aPk(
-)noitavelE(
-ecafruS
-oitaR
-egnahC
-fo
-noitcirF
-thgieW
-evobA
-)m(
-)m/)²m/Nk((
-reyaL
-)°(
-elgnA
-)³m/Nk(
-cirtemozeiP
-)aPk(
-ecafruS )³m/Nk(
-1
-63
-91
-bmoluoC-rhoM
-gninllyF
-1
-43
-42
-bmoluoC-rhoM
-gnotebvorG
-1
-1.0
-0
-31
-03
-41
-)htped(f=S
-,denibmoC
-bmok
-ajttyG
-5.4
-1
-53
-11
-bmoluoC-rhoM
-danllyfttäL
-1
-1.0
-0
-31
-03
-61
-)htped(f=S
-,denibmoC
-bmok
-1 areL
-31
-5-
-1
-1.0
-4.0
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-2 areL
-51
-01-
-1
-1.0
-5.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-3 areL
-81
-21-
-1
-1.0
-3.1
-03
-61
-)mutad(f=S
-,denibmoC
-bmok
-4 areL
-snärgsedårmonalP
-1
-42
-htgnertS
-hgiH
-rumdötS
-1
-1.0
-0
-02
-03
-81
-)htped(f=S
-,denibmoC
-areleproksrroT
-bmok
-81
-1
-43
-22
-bmoluoC-rhoM
-pporkgäV
-6
-natagskrevtnaH
-aPk
-01
-:tsalkraM
-4
-aPk
-41
-2 0 2- 4- 6- 8- 01- 21- 41- 61- 81- 02-
-zsg.5202
-G
-noitkeS
-\5202
-gninkäreb
-daretadppU\G\ragninkäreB
-30\lairetamstebrA
-5\1674701\74\701\\:N
-12:92:81
-,31-50-6202
-:daregider
-tsaneS
-004:1
-:)4A(
-alakS
-ognahkoS
-mahlE
-:va
-dapakS
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
+
+Senast redigerad: 2026-05-13, 18:29:21
+
+Skala (A4): 1:400
+
+Skapad av: Elham Sokhango
 
 <!-- sida 181 -->
 
@@ -11689,11 +13230,11 @@ dapakS
 2
 2C    6D       D01      14D      18C
 6C       10C
-
+2B
 B6       10B      14B
 B81
 23             2A     6A       10A      A41      18A  4
-21               4A 4B 4C 8A  8C   12A 12B 12C 16A 16B 16C
+21               4A 4B 4C 8A 8B 8C 12A 12B 12C 16A 16B 16C
 (1)
 19
 3
@@ -11703,7 +13244,7 @@ B81
 17                                            5
 1A
 HF
-H-A51                      3B
+H-A51                      3B                  Brandstation
 GE
 D
 C
@@ -11733,56 +13274,40 @@ B-A
 5
 6   8
 2 4
+Polis
 9
 41
 7
 01
-A71
-17C
-B71
-17
-5
-C41
-2B
-8B
-Brandstation
-Polis
-Drottning
+A71Drottning
 Blank
 g
 a
 y
 s mnasium
+17C
+B71
+17
 P-hus
 Linden
-00
-08
-141
-01
-64+
-nfT
-BA
-tlusnocroN
-es.tlusnocron.www
-grobetöG
-67
-204
-,4778
-xoB
+5
+
+14C
+
+Norconsult AB
+
+Tfn +46 10 141 80 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se
 
 <!-- sida 182 -->
 
-00
-08
-141
-01
-64+
-nfT
-BA
-tlusnocroN
-es.tlusnocron.www
-grobetöG
-67
-204
-,4778
-xoB
+Norconsult AB
+
+Tfn +46 10 141 80 00
+
+Box 8774, 402 76 Göteborg
+
+www.norconsult.se

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2de5b8831a1587eab7143f7/17924979384
 sha256: 536dcb099d4aa24dcf530d038ac24c37833a21f36c97b4ddb6de4a92a0643833
 bytes: 746103
 sidor: 42
-hamtad: 2026-11-06T10:49:03+00:00
-konverterad: 2026-11-06T10:49:11+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T10:31:40+00:00
+konverterad: 2026-11-08T10:31:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -415,22 +415,33 @@ med ekonomistyrprinciperna är det nämnden som ansvarar för att prioritera ris
 I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns med beskrivning i tabellen nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-8
-tehkilonnaS
 4          8          12         16
+
 4
+
 3          6          9          12
 1
+
 3
+
 2          4          6           8
 3 4 5      2
+
 2
+
 1          2           3          4
+
 1
+
 1           2          3          4
+
 Konsekvens
+
 1 Hög 4 Medel Totalt: 5
+
+8
+
+Sannolikhet
 
 <!-- sida 12 -->
 
@@ -778,760 +789,635 @@ internkontrollrapporten. Självskattningen görs årligen i förvaltningens ledn
 
 <!-- sida 19 -->
 
-ddyksosläH
-
-&
-öjliM
-
-röf
-
-nednmän
-
-hco
-
-nednmänsdanggyB
-
-7202
-
-\-
-sylanaksiR
-)atsilotturb(
-nalp
-llit
-je
-hco
-nalp
-llit
-reksiR
-snevkesnok
-hco
-tehkilonnas
-retfe
-reksir
-va
-gninledröF
 tehkilonnaS
-61
-21
+
+Riskanalys - 2027 Byggnadsnämnden och nämnden för Miljö & Hälsoskydd
+
+Risker till plan och ej till plan (bruttolista)
+
+Fördelning av risker efter sannolikhet och konsekvens
+
+4
+
 8
-4
-4
-21
-9
-6
-3
-22
-02
-71
-5
-2
-81
-3
-32
-3
-8
-6
-4
-2
-31
-7
-6
-01
-9
-8
-4
-1
-61
-51
-41
-21
-11
+
 12
-91
-2
+
+16
+
 4
+
 3
+
+6
+
+9
+
+12
+
+3 18
+
+2 5 17 20 22
+
+23
+
+3
+
 2
-1
-1
+
 4
-3
+
+6
+
+8
+
+1 4 8 9 10
+
+6 7 13
+
+11 12 14 15 16
+
 2
+
+19 21
+
 1
-snevkesnoK
+
+2
+
+3
+
+4
+
+1
+
+1
+
+2
+
+3
+
+4
+
+Konsekvens
 
 <!-- sida 20 -->
 
-32 :tlatoT
+6 Hög 17 Medel Totalt: 23
 
-ledeM71
+Kritisk
 
-göH 6
-snevkesnoK
-tehkilonnaS
+Sannolikhet
 
-ksitirK göH
-tta
-rots
-ås(
-nakrevni
-rots/gilravllA
-gnåg
-1 sivlepmexe-
-tgilnav
-tekcyM 4
-ledeM
-)affärtni
-råf
-etni
-ned
-akcev rep
-gåL
-mos
-sattafppu(
-rabnnäK
-rep gnåg 1 sivlepmexe-
-tgilnaV 3
-retnessertni
-adröreb
-röf
-ednarävseb
-danåm
-)nenummok
-hco
-va
-netil
-mos
-sattafppu(
-girdniL
-gnåg
-1 sivlepmexe-
-tgilnav
-erdniM 2
-hco
-retnessertni
-adröreb
-rå rep
-)nenummok
-adröreb
-röf
-gildytebo(
-rabmusröF
-tegat
-tksitkarp rä
-neksir(
-kilonnasO 1
-)nenummok
-hco
-retnessertni
-rep
-gnåg 1 sivlepmexe-
-)giltnifebo rå 01
-ratnemmok
-girvÖ
-nalp
-llit
-sat
-je
-ksir
-tta
-llit
-gnindelnA
-nalp
-lliT
-edrävksiR
-gräfksiR
-snevkesnoK
-tehkilonnaS
-?lef åg nak daV
-reksiR
-rnsirtaM
-akilo
-etil
-dem
-rah
-neksiR
-röf
-nemar
-moni
-saretnah
-neksiR
-jeN
-röb
-ksiR
-rabnnäK
-.3
-erdniM
-.2
-dem
-lanosrep
-rankas negnintlavröF
-negnintlavröf
-tta
-ksiR
+Konsekvens
+
+Hög
+
+Medel
+
+4 Mycket vanligt - exempelvis 1 gång Allvarlig/stor inverkan (så stor att
+
+Låg
+
+per vecka
+
+den inte får inträffa)
+
+3 Vanligt - exempelvis 1 gång per
+
+Kännbar (uppfattas som
+
+månad
+
+besvärande för berörda intressenter
+
+och kommunen)
+
+2 Mindre vanligt - exempelvis 1 gång Lindrig (uppfattas som liten av
+
+per år
+
+berörda intressenter och
+
+kommunen)
+
+1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
+
+obefintlig) - exempelvis 1 gång per intressenter och kommunen)
+
+10 år
+
+Matrisnr Risker
+
+Vad kan gå fel?
+
+Sannolikhet Konsekvens
+
+Riskfärg Riskvärde
+
+Till plan Anledning till att risk ej tas till plan
+
+Övrig kommentar
+
 1
-dem
-stinnuf
-ragnirelumof
-hco
-gnirenalp-stehmaskrev
-eiranidro
-sadrägtå
-mos
-sattafppu(
-tgilnav
-åp tehnerafre
-hco
-snetepmok gilkcärllit/ttär
-dem
-lanosrep
-rankas
-,1202
-nades
-.gninjrösröf-snetepmok
-röf
-ednarävseb
-tnetepmok
-mo
-snerruknok rots va dnurg
-gilkcärllit/ttär
-adröreb
-oravnårfkujs
-,gninttäsmolanosrep
-,lanosrep
-snetepmok
-hco
-retnessertni
-tehmaskrev
-darenalp
-tta ksiR .ednankil relle
-)nenummok
-.tåmarf satujks
-etsåm
-hco saröfmoneg nak etni
-nednmänsdanggyB
-nak tekliv
-tetilavk
-gilåd rah galrednustulseB
-llit ortllit daksnim
-hco
-adaksedneortröf llit adel
-etni rån negnintlavröF
-.tulsebstehgidnym aråv
-va edneoreB
-.netehmaskrev
-röf låm anis
-.redantsok
-agöh llit
-adel nak tekliv retlusnok
-7202
-ksir yN
-röf
-nemar
-moni
-saretnah
-neksiR
-jeN
-aks
-ksiR
-rabnnäK
-.3
-tgilnaV
-.3
-giltnifeb assapna
-tta
-tråvs rah netehmaskreV
-snegnintlavröf
-tta
-ksiR
+
+Risk att förvaltningen
+
+Förvaltningen saknar personal med
+
+2\. Mindre
+
+3\. Kännbar
+
+Risk bör
+
+Nej Risken hanteras inom ramen för
+
+Risken har med lite olika
+
+saknar personal med
+
+rätt/tillräcklig kompetens och erfarenhet på
+
+vanligt
+
+(uppfattas som
+
+åtgärdas
+
+ordinarie verksamhets-planering och fomuleringar funnits med
+
+rätt/tillräcklig
+
+grund av stor konkurrens om kompetent
+
+besvärande för
+
+kompetens-försörjning.
+
+sedan 2021,
+
+kompetens
+
+personal, personalomsättning, sjukfrånvaro
+
+berörda
+
+eller liknande. Risk att planerad verksamhet
+
+intressenter och
+
+Byggnadsnämnden
+
+inte kan genomföras och måste skjutas framåt.
+
+kommunen)
+
+Beslutsunderlag har dålig kvalitet vilket kan
+
+leda till förtroendeskada och minskad tilltro till
+
+våra myndighetsbeslut. Förvaltningen når inte
+
+sina mål för verksamheten. Beroende av
+
+konsulter vilket kan leda till höga kostnader.
+
 2
-,etebrasgnilkcevtu
-eiranidro
-sadrägtå
-mos
-sattafppu(
-ayn llit rogåmröf
-hco snetepmok slanosrep
-atöm
-nak
-etni
-lanosrep
-hco
-gnirenalp-stehmaskrev
-röf
-ednarävseb
-hco gniresilatigid
-,ttässtebra
-,varkgal .xe t ,vark
-åp
-vark
-ayn
-.gninjrösröf-snetepmok
-adröreb
-tlla reks
-ragnirdnäröF
-.voheb edardnäröf
-hco
-gninssapna
-hco
-retnessertni
-hco tetilibixelf
-va tevoheb
-rakö tekliv ,erabbans
-tetilibixelf
-)nenummok
-.rogåmröf hco
-snetepmok
-va gninssapna bbans
-moni
-tsirbsnetepmok
-llit adel nak atteD
-nednmänsdanggyB
-ergnäl
-,nedårmo edaretiroirp
-hco gnintsalebstebra
-dakö ,reditsgninggäldnah
-.netehmaskrev
-i tetilavk daksnim
-negnI
-.4202
-nades
-ksiR
-röf
-nemar
-moni
-satrednähmO
-jeN
-röb
-ksiR
-girdniL
-.2
-tgilnaV
-.3
-tta retehgiråvs
-llit adel
-nak negninsivoder i leF
-ednapirgrevönummoK
+
+Risk att förvaltningens Verksamheten har svårt att anpassa befintlig
+
+3\. Vanligt
+
+3\. Kännbar
+
+Risk ska
+
+Nej Risken hanteras inom ramen för
+
+Ny risk 2027
+
+personal inte kan möta personals kompetens och förmågor till nya
+
+(uppfattas som
+
+åtgärdas
+
+ordinarie utvecklingsarbete,
+
+nya krav på
+
+krav, t ex. lagkrav, arbetssätt, digitalisering och
+
+besvärande för
+
+verksamhets-planering och
+
+anpassning och
+
+förändrade behov. Förändringar sker allt
+
+berörda
+
+kompetens-försörjning.
+
+flexibilitet
+
+snabbare, vilket ökar behovet av flexibilitet och
+
+intressenter och
+
+snabb anpassning av kompetens och förmågor.
+
+kommunen)
+
+Byggnadsnämnden
+
+Detta kan leda till kompetensbrist inom
+
+prioriterade områden, längre
+
+handläggningstider, ökad arbetsbelastning och
+
+minskad kvalitet i verksamheten.
+
 3
-masnemeg
-.gninjlöfppu-stehmaskrev
-eiranidro
-sadrägtå
-mos
-sattafppu(
-redrägtå
-hco resylana
-agitkalef ,aresilatigid
-ednaggäldnurG
-:ksir
-saT
-.tknupsgninksnarg
-hco
-gniretnok
-va
-gninksnarG
-adröreb
-va
-netil
-resleröfmäj
-allenoitaN
-.gnintkir lef i redel mos
-gninsivoder
-räd
-anrednmän
-va ppu
-.terå
-rednu
-ednapöl
-srög
-gninsivoder
-hco
-retnessertni
-tgilne ragninledröf
-lef hco ednasivssim rilb
-retsirbstetilavk
-ned
-röf
-tnaveler
-rä ted
-)nenummok
-. metsyssgninledröf
-allenoitan
-.netehmaskrev
-ange
-nednmänsdanggyB
+
+Kommunövergripande Fel i redovisningen kan leda till svårigheter att
+
+3\. Vanligt
+
+2\. Lindrig
+
+Risk bör
+
+Nej Omhändertas inom ramen för
+
+Risk sedan 2024. Ingen
+
+risk: Grundläggande
+
+digitalisera, felaktiga analyser och åtgärder
+
+(uppfattas som
+
+åtgärdas
+
+ordinarie verksamhets-uppföljning.
+
+gemensam
+
+redovisning
+
+som leder i fel riktning. Nationella jämförelser
+
+liten av berörda
+
+Granskning av kontering och
+
+granskningspunkt. Tas
+
+kvalitetsbrister
+
+blir missvisande och fel fördelningar enligt
+
+intressenter och
+
+redovisning görs löpande under året. upp av nämnderna där
+
+nationella fördelningssystem .
+
+kommunen)
+
+det är relevant för den
+
+Byggnadsnämnden
+
+egna verksamheten.
 
 <!-- sida 21 -->
 
-ratnemmok
+Matrisnr Risker
 
-girvÖ
+Vad kan gå fel?
 
-nalp
-llit
-sat
-je
-ksir tta
-llit
-gnindelnA
+Sannolikhet Konsekvens
 
-nalp
-lliT
+Riskfärg Riskvärde
 
-edrävksiR
+Till plan Anledning till att risk ej tas till plan
 
-gräfksiR
+Övrig kommentar
 
-snevkesnoK
-
-tehkilonnaS
-
-?lef
-åg nak daV
-
-reksiR
-
-rnsirtaM
-eiranidro
-moni
-satrednähmo
-neksiR
-jeN
-röb
-ksiR
-rabnnäK
-.3
-erdniM
-.2
-dnuk llit
-ragniretibed
-anvilbetu/agitkalef
-röf ksiR
-div
-lef röf
-ksiR
 4
-.ressecorp-sgninjlöfppu
-sadrägtå
-mos
-sattafppu(
-tgilnav
-ksiR .gninlatebretå
-relle gniretiderk
-div lef tmas
-va
-gniretnah
-röf
-ednarävseb
-adaksedneortröf
-hco tsulröf ksimonoke
-röf
-rorutkafdnuk
-adröreb hco
-retnessertni
-nednmänsdanggyB
-)nenummok
-dem
-3202
-nades
-ksiR
-aJ
-aks
-ksiR
-rabnnäK
-.3
-tgilnaV
-.3
-adaksedneortröf
-hco adaks ksimonoke
-röf ksiR
-ednapirgrevönummoK
+
+Risk för fel vid
+
+Risk för felaktiga/uteblivna debiteringar till kund
+
+2\. Mindre
+
+3\. Kännbar
+
+Risk bör
+
+Nej Risken omhändertas inom ordinarie
+
+hantering av
+
+samt fel vid kreditering eller återbetalning. Risk
+
+vanligt
+
+(uppfattas som
+
+åtgärdas
+
+uppföljnings-processer.
+
+kundfakturor
+
+för ekonomisk förlust och förtroendeskada
+
+besvärande för
+
+berörda
+
+Byggnadsnämnden
+
+intressenter och
+
+kommunen)
+
 5
-4202
-"llåheppu"
-sadrägtå
-mos
-sattafppu(
-ardna
-hco eragrobdem ,rerötnarevel
-soh
-ednatsirB
-:ksir
-röf
-ednarävseb
-.retnessertni
-llit
-tehmasjlöf
-adröreb
-;nessecorpspökni
-hco
-retnessertni
-gnildnahpputkerid
-)nenummok
-evitkepser
-gninjlöfppuslatva nednmänsdanggyB
-röf
-nemar
-moni
-saretnah
-ksir
-anneD
-jeN
-röb
-ksiR
-rots/gilravllA
-.4
-erdniM
-.2
-relläg
-ted
-rän noitamrofni dassalkstehrekäS
-tta
-ksiR
+
+Kommunövergripande Risk för ekonomisk skada och förtroendeskada
+
+3\. Vanligt
+
+3\. Kännbar
+
+Risk ska
+
+Ja
+
+Risk sedan 2023 med
+
+risk: Bristande
+
+hos leverantörer, medborgare och andra
+
+(uppfattas som
+
+åtgärdas
+
+"uppehåll" 2024
+
+följsamhet till
+
+intressenter.
+
+besvärande för
+
+inköpsprocessen;
+
+berörda
+
+direktupphandling
+
+intressenter och
+
+respektive
+
+kommunen)
+
+avtalsuppföljning
+
+Byggnadsnämnden
+
 6
--snoitamrofni
-eiranidro
-sadrägtå
-rots
-ås(
-nakrevni
-tgilnav
-röf ksiR
-.rednäh agiröhebo i remmok
-natrak
-tassalkstehrekäs
-.negnintlavröf
-åp etebrastehrekäs
-råf
-etni
-ned
-tta
-.gninrötssllähmas /adakssllähmas
-edneesva
-lairetam
-)affärtni
-tu sanmäl
-natraK/SIG
-ttäs tanna
-åp
-relle
-agiröhebo
-i remmok .rednäh
-nednmänsdanggyB
-röf
-nemar
-moni
-saretnah
-ksir
-anneD
-jeN
-röb
-ksiR
-rots/gilravllA
-.4
-erdniM
-.2
-mos döts-TI
-snegnintlavröf i ppotstfird
-röf ksiR
-edarenalpo
-röf
-ksiR
+
+Risk att
+
+Säkerhetsklassad information när det gäller
+
+2\. Mindre
+
+4\. Allvarlig/stor
+
+Risk bör
+
+Nej Denna risk hanteras inom ramen för
+
+säkerhetsklassat
+
+kartan kommer i obehöriga händer. Risk för
+
+vanligt inverkan (så stor
+
+åtgärdas
+
+ordinarie informations-
+
+material avseende
+
+samhällsskada/ samhällsstörning.
+
+att den inte får
+
+säkerhetsarbete på förvaltningen.
+
+GIS/Kartan lämnas ut
+
+inträffa)
+
+eller på annat sätt
+
+kommer i obehöriga
+
+händer.
+
+Byggnadsnämnden
+
 7
-eiranidro
-snegnintlavröf
-sadrägtå
-rots
-ås(
-nakrevni
-tgilnav
-va
-mrof i redantsok arots
-aröfdem nak
-hcsark relle
-ppotstfird
-.etebrastehrekäs
-råf
-etni
-ned
-tta
-llit
-rokcylo
-erröts diV .retsulröfsnoitkudorp
-metsysstehmaskrev
-va
-)affärtni
-rabledemo
-ah iv revöheb rokcyloöjlim
-lepmexe
-.noitamrofni
-ssiv ån tta röf temetsys
-llit tsmoktå
-nednmänsdanggyB
-nemar
-moni
-dnahmo
-sat
-ksir
-anneD
-jeN
-röb
-ksiR
-rabnnäK
-.3
-erdniM
-.2
-agilsnäk
-llit gnågllit åf nak renosrep
-giröhebO
-,gnårtni
-röf
-ksiR
+
+Risk för oplanerade
+
+Risk för driftstopp i förvaltningens IT-stöd som
+
+2\. Mindre
+
+4\. Allvarlig/stor
+
+Risk bör
+
+Nej Denna risk hanteras inom ramen för
+
+driftstopp eller krasch kan medföra stora kostnader i form av
+
+vanligt inverkan (så stor
+
+åtgärdas
+
+förvaltningens ordinarie
+
+av verksamhetssystem produktionsförluster. Vid större olyckor till
+
+att den inte får
+
+säkerhetsarbete.
+
+exempel miljöolyckor behöver vi ha omedelbar
+
+inträffa)
+
+Byggnadsnämnden
+
+åtkomst till systemet för att nå viss information.
+
 8
--snoitamrofni
-eiranidro
-röf
-sadrägtå
-mos
-sattafppu(
-tgilnav
-lairetam
-tassalksseterkes
-relle retfigppunosrep
-relle tsmoktå
-giröhebo
-.etebrastehrekäs
-röf
-ednarävseb
-nofelet/daPi/rotad
-va dlöts
-va dnurg
-åp
-åp sseterkes
-dajölsva
-adröreb
-relle dronesöl
-va gniretnah mastkao
-vitanretla
-dlöts
-va
-dnurg
-hco
-retnessertni
-div rä
-etni
-lanosrep rän sesål etni
-rerotad
-tta
-.tehmastkao
-relle/hco
-)nenummok
-.adaksedneortröf röf
-ksiR .nrotad
-nednmänsdanggyB
-ned
-röf
-nemar
-moni
-saretnaH
-jeN
-röb
-ksiR
-rabnnäK
-.3
-erdniM
-.2
-åp nednerä
-adliksne i gniretnah gitkalef
-röf ksiR
-i gniretnah
-gitkaleF
+
+Risk för intrång,
+
+Obehörig personer kan få tillgång till känsliga
+
+2\. Mindre
+
+3\. Kännbar
+
+Risk bör
+
+Nej Denna risk tas omhand inom ramen
+
+obehörig åtkomst eller personuppgifter eller sekretessklassat material
+
+vanligt
+
+(uppfattas som
+
+åtgärdas
+
+för ordinarie informations-
+
+avslöjad sekretess på
+
+på grund av stöld av dator/iPad/telefon
+
+besvärande för
+
+säkerhetsarbete.
+
+grund av stöld
+
+alternativ oaktsam hantering av lösenord eller
+
+berörda
+
+och/eller oaktsamhet.
+
+att datorer inte låses när personal inte är vid
+
+intressenter och
+
+datorn. Risk för förtroendeskada.
+
+kommunen)
+
+Byggnadsnämnden
+
 9
-mo
-neksir
-ednapirgrevönummok
-sadrägtå
-mos
-sattafppu(
-tgilnav
-relle tnemukod edakslafröf
-va dnurg
-åp nednerä
-adliksne
-noitpurrok
-hco
-tehgilsttorbsdräfläv
-röf
-ednarävseb
-röf paksdereb
-etni rah nelanosreP
-."latmasffulb"
-edakslafröf
-va
-dnurg
-adröreb
-latmasffulb
-,tnemukod edakslafröf
-akcätppu
-tta
-relle
-tnemukod
-hco
-retnessertni
-agitkalef
-åp sat tulseb ,tetitnedi
-dapak relle
-latmasffulb
-)nenummok
-leps
-ru sttäs netehrekässttäR
-,rednurg
-nednmänsdanggyB
-.5202
-nades
-ksiR
-:tlartnecnummok
-daretiroirp
-etnI
-jeN
-röb
-ksiR
-rabnnäK
-.3
-erdniM
-.2
-tta ammok
-nak ataD .atad röf ddyks
-ednatsirB
-ednapirgrevönummoK
+
+Felaktig hantering i
+
+Risk för felaktig hantering i enskilda ärenden på
+
+2\. Mindre
+
+3\. Kännbar
+
+Risk bör
+
+Nej Hanteras inom ramen för den
+
+enskilda ärenden på
+
+grund av förfalskade dokument eller
+
+vanligt
+
+(uppfattas som
+
+åtgärdas
+
+kommunövergripande risken om
+
+grund av förfalskade
+
+"bluffsamtal". Personalen har inte beredskap för
+
+besvärande för
+
+välfärdsbrottslighet och korruption
+
+dokument eller
+
+att upptäcka förfalskade dokument, bluffsamtal
+
+berörda
+
+bluffsamtal
+
+eller kapad identitet, beslut tas på felaktiga
+
+intressenter och
+
+grunder, Rättssäkerheten sätts ur spel
+
+kommunen)
+
+Byggnadsnämnden
+
 11
-moneg
-dnahmo
-saT"
-:ratnemmoK
-sadrägtå
-mos
-sattafppu(
-tgilnav
-.rednäh
-agiröhebo i ammok
-relle sarolröf
-tehrekäs-tI
-:ksir
-/nessecorpspökni
-röf
-ednarävseb
-öjlimtfird
-ednatsirB-
-nevÄ
-.gninjlöfppusrötnarevel
-adröreb
-rerötnarevel
-soh
-moneg
-gninjlöfppu
-hco
-retnessertni
+
+Kommunövergripande Bristande skydd för data. Data kan komma att
+
+2\. Mindre
+
+3\. Kännbar
+
+Risk bör
+
+Nej Inte prioriterad kommuncentralt:
+
+Risk sedan 2025.
+
+risk: It-säkerhet
+
+förloras eller komma i obehöriga händer.
+
+vanligt
+
+(uppfattas som
+
+åtgärdas
+
+Kommentar: "Tas omhand genom
+
+\- Bristande driftmiljö
+
+besvärande för
+
+inköpsprocessen/
+
+hos leverantörer
+
+berörda
+
+leverantörsuppföljning. Även
+
+intressenter och
+
+uppföljning genom
 
 <!-- sida 22 -->
 

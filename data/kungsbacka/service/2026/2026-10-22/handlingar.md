@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acffad5f6/1792388030
 sha256: ba27a73e7251b0a1b32a5a4d5ad98f0a476b46757f6555ad20550b648403f45c
 bytes: 2415216
 sidor: 49
-hamtad: 2026-11-06T12:30:15+00:00
-konverterad: 2026-11-06T12:30:25+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T12:23:47+00:00
+konverterad: 2026-11-08T12:23:58+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1040,22 +1040,32 @@ med ekonomistyrprinciperna är det nämnden som ansvarar för att prioritera ris
 I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns med beskrivning i tabellen nedan.
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
 
-8
-tehkilonnaS
 4          8          12         16
 6
 4
+
 3          6          9          12
 1 7
+
 3
+
 2          4          6           8
 3 4 8      2 5
 2
+
 1          2           3          4
+
 1
+
 1           2          3          4
+
 Konsekvens
+
 1 Kritisk 2 Hög 5 Medel Totalt: 8
+
+8
+
+Sannolikhet
 
 <!-- sida 31 -->
 

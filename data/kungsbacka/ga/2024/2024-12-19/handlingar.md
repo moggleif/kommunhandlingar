@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe280606c8/1734005606
 sha256: 50d76ceb2e4467dcb215ac7bcac88ac35a0071a6d98fabc018664e1e045c1c99
 bytes: 12960305
 sidor: 243
-hamtad: 2026-11-06T08:15:56+00:00
-konverterad: 2026-11-06T08:16:52+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T07:46:30+00:00
+konverterad: 2026-11-08T07:47:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7623,25 +7623,32 @@ Dok.Id 1822575
 
 <!-- sida 221 -->
 
+Bilaga 1
+
 BESLUT
 Datum         Vår beteckning Sid
 2022-06-01    2021/066676    1 (7)
 
+FÖRVALTNINGSRÄTTEN
+I STOCKHOLM
 Aranäsgymnasiet
+Avdelning 8
 (adress borttagen)
-434 50 Kungsbacka
+434 50 Kungsbacka   INKOM: 2023-05-11
 Enheten för region väst
+MÅLNR: 9710-23
 Karin Kåberger, 010-730 94 42 (e-post borttagen)
-
-Delgivning
-
+AKTBIL: 3
+FÖRVALTNINGSRÄTTEN
+Delgivning                                       I STOCKHOLM
+Avdelning 5
+INKOM: 2024-03-19
+MÅLNR: 5316-24
 Föreläggande med vite
-
+AKTBIL: 4
 Ert organisationsnummer: 212000-1258
-
 Arbetsställe:          Gymnasiesärskolan, Aranäsgymnasiet
 Besöksadress:          Gymnasiegatan 44
-
 Beslut
 Arbetsmiljöverket förelägger er vid vite av 300 000 kronor att senast den 31
 december 2022 ha genomfört följande åtgärder:
@@ -7673,24 +7680,8 @@ Postadress: Box 9082, 171 09 Solna
 Telefon: 010-730 90 00 • Telefax: 08-730 19 67
 E-post: (e-post borttagen) • Webbplats: av.se
 Organisationsnummer: 202100-2148
-nossreP
-akinnA
-va
-10-60-2202
-dnäkdoG
-Bilaga 1
-FÖRVALTNINGSRÄTTEN
-I STOCKHOLM
-Avdelning 8
-INKOM: 2023-05-11
-MÅLNR: 9710-23
-AKTBIL: 3
-FÖRVALTNINGSRÄTTEN
-I STOCKHOLM
-Avdelning 5
-INKOM: 2024-03-19
-MÅLNR: 5316-24
-AKTBIL: 4
+
+Godkänd 2022-06-01 av Annika Persson
 
 <!-- sida 222 -->
 
@@ -7743,11 +7734,8 @@ e.) Vidtagna åtgärder ska följas upp för att säkerställa att de haft avsed
 Upplysning
 
 Exempel på riktvärden för belysningsstyrkor och för begränsning av bländning finns
-nossreP
-akinnA
-va
-10-60-2202
-dnäkdoG
+
+Godkänd 2022-06-01 av Annika Persson
 
 <!-- sida 223 -->
 
@@ -7795,11 +7783,8 @@ arbetet för lärarna i förhållande till de resurser som finns. Ni ska även
 undersöka om arbetstagarna arbete innebär stark psykisk påfrestning samt om
 belysningen i verksamheten är tillfyllest. Därefter genomföra riskbedömningar
 utifrån de risker ni har uppmärksammat. Detta innebär att ni bland annat
-nossreP
-akinnA
-va
-10-60-2202
-dnäkdoG
+
+Godkänd 2022-06-01 av Annika Persson
 
 <!-- sida 224 -->
 
@@ -7848,11 +7833,8 @@ Ni har lämnat följande synpunkter:
 1a. ”- -Arbetsgivaren undersöker arbetsmiljöförhållandena i verksamheten
 systematiskt och regelbundet- -”.
 Ni har översiktligt beskrivit er rutin för undersökning av arbetsmiljön.
-nossreP
-akinnA
-va
-10-60-2202
-dnäkdoG
+
+Godkänd 2022-06-01 av Annika Persson
 
 <!-- sida 225 -->
 
@@ -7905,11 +7887,8 @@ längst upp på sidan 1. Vår postadress och e-postadress finns längst ner på 
 tillsyn finns i 7 kap. 3 § arbetsmiljölagen.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-nossreP
-akinnA
-va
-10-60-2202
-dnäkdoG
+
+Godkänd 2022-06-01 av Annika Persson
 
 <!-- sida 226 -->
 
@@ -7937,14 +7916,7 @@ webbutbildningar, och använda vårt självskattningsverktyg för att bedöma va
 ni behöver förbättra. På webben kan ni också hämta arbetsmiljölagen och våra
 föreskrifter.
 
-nossreP
-
-akinnA
-
-va
-10-60-2202
-
-dnäkdoG
+Godkänd 2022-06-01 av Annika Persson
 
 <!-- sida 227 -->
 

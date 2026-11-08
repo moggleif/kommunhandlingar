@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e55f00c19afcd92d2837ea2/1765524595
 sha256: 1b8d8caaddf728d1637499ab73341967166a2ce6893c4cf7246dc29c45e98539
 bytes: 18869490
 sidor: 140
-hamtad: 2026-11-06T11:36:33+00:00
-konverterad: 2026-11-06T11:38:00+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T11:24:18+00:00
+konverterad: 2026-11-08T11:25:54+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok]
@@ -163,71 +163,280 @@ bryts ut till en egen portfölj; 543 KBN Reinvesteringar. Portföljen delas i tr
 •  Reinvesteringar i stamnät,
 •  Reinvesteringar i accessnät
 •  Reinvesteringar i hårdvara & aktiv utrustning.
-U
-V
-p p d
-S
-O m
-e r k s
-S a m
-e ln in
-ta m n
-r å d e
-a m h
-S a m
-fö r lä
-g 2 0 2 5
-ä t o c h H
-/ V illa a n
-e t o c h n y
-fö r lä g g n
-g g n in g b
-å r d
-s lu
-a o
-in g
-e ly
-v
-tn
-m
-V
-,G
-a r a
-in g
-r å d
-A
-C v
-a
-e
-ä
-r
-n
+
 g
-F ö
-K
-r s
-B
-K
-la g
-N H
-B N
-u
-å
-K
-S
-p p d e ln in g 2 0 2 6
-K B N S ta m n ä t
-r d v a r a & a k tiv u tr u
-K B N A c c e s s n ä t
-B N R e in v e s te r in g a
-K B N A c c e s s n ä t
-ta m n ä t/ K B N A c c e
-s tn
-r
-s s n
+
+t
+
 in
-ä t
+
+ä
+
+tn
+
+n
+
+s
+
+s
+
+r
+
+u
+
+s
+
+tr t a t e
+
+6
+
+t
+
 g
+
+c
+
+2
+
+u ä in ä
+
+c
+
+0 ä
+
+iv n r n
+
+A
+
+n
+
+t s
+
+s
+
+2
+
+k s te s N
+
+g m
+
+a e s e B
+
+in
+
+ta
+
+c ve c
+
+K
+
+S
+
+& c
+
+c
+
+t/
+
+ln
+
+a A in A
+
+e N
+
+r
+
+e
+
+ä
+
+d B a N R N n
+
+p K v B
+
+B m
+
+p
+
+rd K N K
+
+ta
+
+u
+
+å
+
+KB
+
+S
+
+g
+
+H
+
+la
+
+N
+
+s
+
+N
+
+B
+
+r
+
+KB
+
+K
+
+Fö
+
+r
+
+n
+
+g
+
+a
+
+e
+
+ä
+
+a
+
+g
+
+d
+
+v
+
+r
+
+å
+
+a
+
+in
+
+r A C
+
+v
+
+tn m V ,G
+
+rd
+
+lu
+
+o g ly
+
+å
+
+s
+
+a in e
+
+H
+
+n
+
+y n b
+
+5
+
+h
+
+a
+
+n g g
+
+2
+
+c
+
+la
+
+h g in
+
+0
+
+l
+
+c ä
+
+o
+
+i
+
+l n
+
+2
+
+t
+
+o r
+
+V
+
+t ö g
+
+g
+
+ä
+
+/
+
+f g
+
+in
+
+n
+
+e
+
+he
+
+lä
+
+m r
+
+ln m
+
+d m a
+
+e
+
+ta
+
+rå
+
+a S fö
+
+d
+
+S
+
+s
+
+p
+
+m
+
+rk
+
+am
+
+p
+
+O
+
+U
+
+Ve
+
+S
 
 <!-- sida 4 -->
 
@@ -255,63 +464,130 @@ Tabell 4. Portföljer 2026
 
 När portföljerna förändras får det också konsekvenser på projektnivå;
 2025 beslutades om nedanstående tilldelning på projektnivå inför 2026;
-P o r t f ö lj
-5 4
-5 4
-5 4
-5 4
-0
-1
-2
-3
-N
-K
-K
-K
-K
-a
-B
-B
-B
-B
-m
-N
-N
-N
-N
-n
-A
-S
-H
-R
-c
-ta
-å
-e
-c e
-m
-r d
-in
-s s n ä
-n ä t
-v a r a
-v e s te
-t
-& a
-r in g
-k
-a
-tiv
-r
-u tr u s tn in g
+
 Projekt Namn                    Tilldelad budget för 2026
 450A   Stamnät och Hårdvara utbyggnad 7 800 000
+
 456A   Reinvesteringar Kungsbacka bredbandsnät 1 200 000
 451B   Villa och företagsanslutningar 6 000 000
+
 452A   Verksamhetsområden och exploateringar 4 000 000
+
 453A   Samförläggning internt   1 000 000
 454A   Samförläggning externt   2 000 000
 Summa                           22 000 000
+
+g
+
+in
+
+tn
+
+s
+
+u
+
+tr
+
+u
+
+iv
+
+t
+
+r
+
+k
+
+a
+
+a
+
+g
+
+in
+
+t
+
+&
+
+r
+
+ä
+
+t
+
+ra
+
+te
+
+sn
+
+ä
+
+a
+
+s
+
+s
+
+n
+
+v
+
+ve
+
+ce m
+
+rd
+
+in
+
+c
+
+ta
+
+å
+
+e
+
+n
+
+A
+
+S
+
+H
+
+R
+
+am N N N N
+
+N KB KB KB KB
+
+0
+
+1
+
+2
+
+3
+
+lj
+
+54
+
+54
+
+54
+
+54
+
+fö
+
+rt
+
+Po
 
 <!-- sida 5 -->
 

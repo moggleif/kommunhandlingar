@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.37d6657d19d0493bcf17b74e/1774250206
 sha256: cc26821845051c487ff7306b5afd9e47a7a904d4feb1d0707d9b68d77bc307af
 bytes: 2140003
 sidor: 26
-hamtad: 2026-11-06T12:26:52+00:00
-konverterad: 2026-11-06T12:27:04+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T12:20:16+00:00
+konverterad: 2026-11-08T12:20:31+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -392,8 +392,8 @@ Tidigast tre veckor efter det att politiken har antagit detaljplanen vinner den
 laga kraft. Då är det inte längre möjligt att överklaga den. Att detaljplanen
 vinner laga kraft betyder att den börjar gälla och man kan nu söka bygglov
 för att bygga inom området.
-881
-gäV
+
+Väg 188
 
 <!-- sida 9 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.a07712b19fe9b41f31615f7/17866884055
 sha256: de95b7b37d173ac60baaf1a7d21bc95a7e56d9bb1b11752aa443455de5728136
 bytes: 21203400
 sidor: 174
-hamtad: 2026-11-06T10:06:30+00:00
-konverterad: 2026-11-06T10:09:01+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T09:46:45+00:00
+konverterad: 2026-11-08T09:49:22+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -223,59 +223,6 @@ Heinrich Kaufmann (C)               Fredrik Kollberg (KD)
 
 <!-- sida 5 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-! ! ! ! ! ! ! !
-! 1 ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -353,20 +300,25 @@ företag
 !                                                          !
 !
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
+!                                                          !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                             !
 !
 !
 !
@@ -381,29 +333,35 @@ KaraKtär                                     !
 !
 !
 !
+!                                                             !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                          !
+KungsbacKa!                                                                                             !
+!                                                         !
+!                                                        !
+!                                                        !
 !
+!                                                       !
+!                                                     !
+!                                                    !
+! !                                                !
+!                                                 !
+! !                                             !
+En bEsKrivning  av stadEns       !                                            !
+! !                                         !
+!                                        !
+byggnadsKaraKtärEr              ! !                                    !
+! !      ! ! !                      ! !
+B a B a v v y y g g d d g g o o n n k k a a u u n d m m d s e e s n n n n ä t ä t e m e m t t n s n s d o d o e m e m n n g t g t o ä o ä g l g l l e l e b r b r e e V s V s a l l a u r u l r t a t l o 2 a 2 m 0 o 0 2 m 2 r 4 å 4 r - d - å 0 0 e d 7 7 t e - - i 0 t n 0 4 t i 4 n e a t a l e t ä t t t n l d ä d g e n r e e g d d r e s e e l k a l a s a r k r g a ä l g la ä . lla. ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± 0 500 1 000
+1      ! !   ! ! !                      meter
+!  ! !
+!! !
+
 !
-!
-!
-KungsbacKa!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-En bEsKrivning  av stadEns       !
-! !
-!
-byggnadsKaraKtärEr              ! !
-! !      ! ! !
-B B y y g g g gn n a a n d d s s n n ä ä m m n n d d e e n n t t o o g g b b e e s s l l u u t t 2 2 0 0 2 2 4 4 - - 0 0 7 7 - - 0 0 4 4 a a tt t t d d e e d d e e la la r r ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± a a v v d d o ok k u u m m e e n n t t e e t t s s o o m m g g ä ä ll l e le r r V V a a rl r a l o a m om rå r d å e d t e i t n t in e t l e ä n lä g n re g r s e k a s k g a ä l g la ä . lla. ! ! 0 500 1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 6 -->
@@ -577,50 +535,6 @@ kungsbackaån ut i havet.
 
 <!-- sida 11 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-! ! !
-! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
-!
-!
 ! ! ! ! Stadsgräns
 vhuvudgator
 anläggningar
@@ -675,50 +589,56 @@ Kungsbackaån !                                       !
 !                          Signeskulle        !
 Koberg      ! !                                            ! ! ! Söderå
 !                                               !
-!                                      Tölöberg
 !
+Tölöberg
 !
+!                                                !
+!                                                !
+!                                                 !
+!                                                 !
+!                                                !
+!                                                !
+! Varlaberg                                      !
+!                                                 !
+!                                                 !
+Kollaskogen      !                                                !
+!                                                !
+!                                                 !
+!                                                 !
+!                                                 !
+!                                                !
+!                                                 !
+!                                                 !
+!                                                 !
+!                                                 !
+!                                                 !
+!                                                 !
+!                                                 !
+!                                                 !
+! !                                      Forsbergen !
 !
-!
-!
-!
-!
-! Varlaberg
-!
-!
-Kollaskogen      !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !                                      Forsbergen
-! ! Kungsbacka-
-!  skogen
-!
-!
-!
-!
-!
-!
-!
-! !
-!  Kollaberget
-!
-!
-! !
-! !                                            Vatten !
-Oskarsberg    ! ! !                                        bergåsar !
-! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± Å be k r r g a s r k o n c a h ll a ä r ngar ! ! 0 500 1 000 ! meter ! ! ! LandsKaPEts KaraKtär
+! ! Kungsbacka-                                   ! !
+!  skogen                                         !
+!                                                !
+!                                                !
+!                                                !
+!                                                !
+!                                               !
+!                                              !
+!                                              !
+! !                                            !
+!  Kollaberget                               !
+!                                           !
+!                                          !
+! !                                       !
+! ! !                                  ! !     Vatten
+Oskarsberg    ! ! ! !                             ! ! !    bergåsar
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !! ! ! ! ! ! ! ! ! ! ! ! ! ! ! L ! ± a ! ! n 0 dsKa 5 P 00 Ets Å b K e k r r a g 1 a 0 s r 0 r m k 0 o e n a te c a r h K ll a ä t r n ä ga r r
 Kungsbackafjorden
+
+!
+
+!
 
 <!-- sida 12 -->
 
@@ -968,56 +888,6 @@ som grund.
 
 <!-- sida 19 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! ! ! ! ! ! !
-! ! ! !
-! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 vhuvudgator
 anläggningar
@@ -1089,55 +959,66 @@ sekel
 !                                                          !
 !
 !                                        Järnvägsgatan
+!                                                           !
+!                                                          !
+Norra fö! rstaden                                               !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                    Stadshuset              !
+Tingbergsvallen !                                                      !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                               Järnvägsstationen !
 !
 !
-Norra fö! rstaden
 !
 !
-!
-!                                    Stadshuset
-Tingbergsvallen !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!                                               Järnvägsstationen
 !
 !
 !
 !
 !   Kungsbacka-
-östra villastaden
-!     skogen
-!
-!
-!
-!
-! Västra villastaden
-!
-!
-!
-!                                               Varbergsvägen
-!
-!           Hamntorget
+östra villastaden !
+!     skogen                                                 !
 !
 !
 !
 !
 !
-! !
 !
-! !
-! !           å n ! ! ! ! b ac k a                    -1899 ! ! ! !K u ! n gs ! ! ! ! ! ! ! ! ! ! stadEns Fra 1 m 90 v 0- ä 19 X 4 t 9
-! !         ! !                 ± ! !
-!                  0      500   1 000
-!                                meter !
+!                                                           !
+! Västra villastaden                                         !
+!                                                            !
+!                                                           !
+!                                                          !
+!                                               Varbergsvägen !
+!                                                          !
+!           Hamntorget                                   !
+!                                                        !
 !
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+! ! ! ! ! ! ! ! ! !K u ! n gs b a ! c ! k a ! å n ! ! ! ! ! ! ! ! ! ! ! ! ! s ! t ! adEns Fra 1 -1 m 9 8 0 9 v 0 9 - ä 19 X 4 t 9
+! !         ! ! ! !        ! ! ! ! ±
+!         ! !      0      500   1 000
+! !   ! ! !                      meter
+!  ! !
+!! !
+
+!
+
 !
 
 <!-- sida 20 -->
@@ -1187,59 +1068,6 @@ därom.
 
 <!-- sida 21 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-!
-!
-! !
-! ! ! ! ! !
-! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 vhuvudgator
 anläggningar
@@ -1311,58 +1139,66 @@ Varla  !                                                          !
 !                                                          !
 !
 !
+!                                                           !
+!                                                          !
+!                                                           !
+! Kungsmässan                                               !
+!                                                           !
+!                                   Gårdskulla              !
+!                                                            !
+Tingberget !                                                         !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                    Fors    !
+!                                                            !
+!                                                            !
+158   ! !                                                           !
 !
 !
+Hålabäck !
 !
-! Kungsmässan
-!
-!                                   Gårdskulla
-!
-Tingberget !
-!
-!
-!
-!
-!
-!
-!
-!                                                    Fors
-!
-!
-! 158 !
-!
-Hålabäck
-!
-!   Kungsgatan
-!
-!
-!
-Hammerö
+!   Kungsgatan                                                !
 !
 !
 !
 !
 !
 !
-E6!                                               Varbergsvägen
+Hammerö  !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                          !
+E6!                                               Varbergsvägen !
+!                                                         !
+!                                                        !
+!           Aranäsgymnasiet                              !
 !
+!                                                      !
+!                                                     !
+!                                                    !
+! !             Inlag                               !     -1899
+!                                                !
+! ! !                                         ! !      1900-1949
+! !                                         !
+!                                        !         1950-1959
+! !                                    !
+! !      ! ! !                      ! !         1960-1979
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± stadEns FramväXt
+!         ! !      0      500   1 000
+! !   ! ! !                      meter
+!  ! !
+!! !
+
 !
-!           Aranäsgymnasiet
-!
-!
-!
-!
-! !             Inlag                                     -1899
-!
-! ! !                                                  1900-1949
-! !
-!                                                  1950-1959
-! !
-! !      ! ! !                                  1960-1979
-! ! ! ! ! ! ! ! ! ! ! ! ! !       ± stadEns FramväXt ! !
-!                  0      500   1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 22 -->
@@ -1397,58 +1233,6 @@ gård i Varla.
 
 <!-- sida 23 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-!
-! ! !
-! ! ! ! ! !
-! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 vhuvudgator
 anläggningar
@@ -1524,55 +1308,65 @@ Varla   !                                                       !
 !                                                          !
 !
 !                                        Apotekarängen
-!
-Varlaplatån !
-!
-!
-!
-bäckm! ans gård                            Resecentrum
-!
-!
-!                                                     Fors
-!
-!
-!
-!
-!
-!
-!
-!
-!                                                  Aranäs stadsdel
-!
-!
-!
-!
-!
-! Smekalles äng
-!
-!
-!
-!
-!                                                    Aranäsgymnasiet
+!                                                           !
+Varlaplatån !                                                        !
+!                                                           !
+!                                                           !
+!                                                           !
+bäckm! ans gård                            Resecentrum          !
+!                                                            !
+!                                                            !
+!                                                     Fors  !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                  Aranäs stadsdel !
+!                                                            !
 !
 !
 !
 !
 !
-!              Kolla
-! !                                                           -1899
 !
-!                                                           1900-1949
 !
-! !                                                       1950-1959
 !
-! ! !                                                  1960-1979
-! !
-!                                                  1980-1999
-! ! ! !    ! ! ! britta-Lena                      2000-2011
-! ! ! ! ! ! ! ! ! ! ! ! ! !       ± stadEns FramväXt ! !
-!                  0      500   1 000
-!                                meter !
+! Smekalles äng                                              !
 !
+!
+!
+!
+!                                                            !
+!                                                           !
+!                                                    Aranäsgymnas!iet
+!                                                           !
+!                                                           !
+!                                                          !
+!                                                          !
+!                                                         !
+!              Kolla                                     !
+! !                                                      !    -1899
+!                                                      !
+!                                                     !     1900-1949
+!                                                    !
+! !                                                 !     1950-1959
+!                                                !
+! ! !                                         ! !      1960-1979
+! !                                         !
+!                                        !         1980-1999
+! ! ! !    ! ! ! britta-Lena          ! ! !       2000-2011
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± stadEns FramväXt
+!         ! !      0      500   1 000
+! !   ! ! !                      meter
+!  ! !
+!! !
+
+!
+
 !
 
 <!-- sida 24 -->
@@ -1670,60 +1464,6 @@ Grupphus                      Stadsgräns från FÖP 09
 
 <!-- sida 27 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-! ! ! ! ! !
-! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -1801,6 +1541,25 @@ företag
 !                                                          !
 !
 !
+!                                                           !
+!                                                          !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
 !
 !
 !
@@ -1815,101 +1574,40 @@ företag
 !
 !
 !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                          !
+!                                                          !
+!                                                         !
+!                                                        !
+!                                                        !
 !
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                            !
+!                                            !
+! !                                         !
+!                                        !
+! !                                    !
+! !      ! ! !                      ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± stadsKaraKtärEr
+!         ! !      0      500   1 000
+! !   ! ! !                      meter
+!  ! !
+!! !
+
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-!
-! !
-!
-! !
-! !      ! ! !
-! ! ! ! ! ! ! ! ! ! ! ! ! !       ±  stadsKaraKtärEr ! !
-!                  0      500   1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 28 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -1977,33 +1675,22 @@ gamla_stadskärnan
 !                                                          !
 !
 !
-!
-!
-!
-!
-!
-!                                   badhusparken
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!   Skansen
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                            !
+!                                   badhusparken             !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
 !
 !
 !
@@ -2017,17 +1704,42 @@ gamla_stadskärnan
 !
 !
 !
-! !
 !
-! !
 !
-! !
 !
-! ! ! !   ! ! !
-! ! ! ! ! ! ! ! ! !            dEn gamLa  stadsKärnan
-! !        ! !                  ± ! ! ! 0 500  1 000
-!                                meter !
 !
+!
+!
+!
+!   Skansen                                                  !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                         !
+!                                                         !
+!                                                         !
+!                                                        !
+!
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! ! ! !   ! ! !                      ! ! !
+! ! ! ! ! ! ! ! ! !            dE!n ! gamLa stadsKärnan
+! !        ! ! ! ! !     ! ! ! ! ! ! ± 0 500   1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
+!
+
 !
 
 <!-- sida 29 -->
@@ -2270,58 +1982,6 @@ Storgatan med Skansen i fonden.
 
 <!-- sida 34 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-! ! !
-! ! ! ! ! !
-! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -2392,57 +2052,66 @@ Varla !                                                    ! !
 !                                                          !
 !
 !                                         Järnvägsgatan
+!                                                           !
+!                                                           !
+Varlapla!tån                                                     !
+!                                                           !
+!                                                            !
+! Höögs lid                         Norra förstaden          !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                   östra villastaden!
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                      Fors  !
 !
 !
-Varlapla!tån
-!
-!
-! Höögs lid                         Norra förstaden
-!
-!
-!
-!
-!
-!                                                   östra villastaden
-!
-!
-!
-!
-!
-!
-!
-!                                                      Fors
 !
 !
 !
 Ting! berget
-Hålabäck
-!
-!
-!
-!
-! Västra villastaden
-!                                                   Hammerö
+Hålabäck !
 !
 !
 !
 !
 !
+!                                                            !
+!                                                            !
+! Västra villastaden                                         !
+!                                                   Hammerö !
+!                                                           !
+!                                                           !
+!                                                         !
+!                                                         !
+!                                                         !
+!                                                        !
 !
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !     Lantgård
+!                                            !
+! ! !                                      ! !     Äldre villastad
+! ! ! !   ! ! ! britta-Lena          ! ! !      Yngre villastad
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± viLLastad
+!         ! !     0      500    1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
 !
-!
-!
-!
-! !
-!
-! !                                                   Lantgård
-!
-! !                                                Äldre villastad !
-! ! ! !   ! ! ! britta-Lena                     Yngre villastad
-! ! ! ! ! ! ! ! ! ! ! ! ! !        ±         viLLastad ! !
-!                 0      500    1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 35 -->
@@ -2756,58 +2425,6 @@ som den nya bebyggelsen kan växa upp runt.
 
 <!-- sida 42 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -2874,56 +2491,70 @@ flerbostad
 !                                                          !
 !
 !
-!
-!
-!
+!                                                           !
+!                                                           !
+!                                                           !
 östa!nvindsgatan
-!                                     Gårdskulla
+!
+!                                     Gårdskulla             !
+!                                                            !
+!                                                           !
+Stor! ! mgatan
 !
 !
-! Stor!mgatan
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!                                                Syréngatan
-!
-!
-! Tingberget
-!
-!
-! Tingbergsvägen                                    Rosengatan
-!
-!
-!
-!    Kungsgatan
-!
-!
-!
-!                                              Gullregnsvägen
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
 !
 !
 !
 !
+!                                                Syréngatan  !
 !
 !
 !
-! !
 !
-! !
+! Tingberget                                                 !
 !
-! !
 !
-! ! ! !   ! ! !
-! ! ! ! ! ! ! ! ! !                    FLErbOstadshus
-! !        ! !                  ± ! ! ! 0 500  1 000
-!                                meter !
 !
+! Tingbergsvägen                                    Rosengatan ! !
+!
+!
+!
+!
+!                                                            !
+!    Kungsgatan                                              !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                              Gullregnsvägen !
+!                                                         !
+!                                                         !
+!                                                        !
+!
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! ! ! !   ! ! !                      ! ! !
+! ! ! ! ! ! ! ! ! !              ! !   FLErbOstadshus
+! !        ! ! ! ! !     ! ! ! ! ! ! ± 0 500   1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
+!
+
 !
 
 <!-- sida 43 -->
@@ -3126,58 +2757,6 @@ förbättras byggnadernas tillgänglighet.
 
 <!-- sida 48 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -3245,27 +2824,32 @@ radhus
 !                                                          !
 !
 !
+!                                                           !
+!                                                           !
+! Varla                                                     !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
 !
 !
-! Varla
 !
 !
 !
 !
 !
 !
+!                                                   Hålabäck !
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!                                                   Hålabäck
 !
 !  Tingberget
 !
@@ -3277,24 +2861,33 @@ radhus
 !
 !
 !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                         !
+! !                                               Hammerö ! !
+!                                                        !
 !
-! !                                               Hammerö
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! ! ! !   ! ! !                      ! ! !
+! ! ! ! ! ! ! ! ! !              ! !           radhus
+! !        ! ! ! ! !     ! ! ! ! ! ! ± 0 500   1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
 !
-!
-!
-!
-!
-! !
-!
-! !
-!
-! !
-!
-! ! ! !   ! ! !
-! ! ! ! ! ! ! ! ! !                            radhus
-! !        ! !                  ± ! ! ! 0 500  1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 49 -->
@@ -3447,60 +3040,6 @@ ljusförhållanden beaktas.
 
 <!-- sida 52 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-! ! ! ! ! !
-! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -3566,58 +3105,71 @@ grupphus
 !                                                          !
 !
 !
-!
-V!arlaplatån
-!
-!
+!                                                           !
+V!arlaplatån                                                !
+!                                                           !
+!                                                           !
 Iv!arsgårdsgatan
-Apotekarängen
-!
-! bäc!kmans gård
-!
-!                                                      Fors
+Apotekarängen             !
+!                                                            !
+bäc! ! kmans gård
 !
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! Smekalles äng
-!
-!
-!
-!                                                örtagården
-!
-!
-!            Kolla
+!                                                            !
+!                                                      Fors  !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                             !
+!                                                            !
 !
 !
 !
 !
 !
-! !
 !
-! !
 !
-! !
 !
-! !              britta-Lena
-! !      ! ! !
-! ! ! ! ! ! ! ! ! ! ! ! ! !        ±         gruPPhus ! !
-!                 0      500    1 000
-!                                meter !
 !
+!
+!
+!
+!
+!
+!                                                            !
+! Smekalles äng                                              !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                örtagården !
+!                                                         !
+!                                                         !
+!            Kolla                                        !
+!                                                        !
+!
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! !              britta-Lena           !
+! !      ! ! !                      ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± gruPPhus
+!         ! !     0      500    1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
+!
+
 !
 
 <!-- sida 53 -->
@@ -3774,59 +3326,6 @@ och häckar kan ses i kapitlet Gaturum s 70.
 
 <!-- sida 56 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -3894,11 +3393,26 @@ punkthus
 !                                                          !
 !
 !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                           !
+!  St Gertrud                                                !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
 !
 !
 !
 !
-!  St Gertrud
 !
 !
 !
@@ -3908,43 +3422,42 @@ punkthus
 !
 !
 !
+!   Kolla backe                                              !
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!   Kolla backe
 !                                                   Polstjärnan
 !
 !
 !
 !
 !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                         !
+!                                                         !
+!                                                         !
+!                                                        !
 !
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! ! ! !   ! ! !                      ! ! !
+! ! ! ! ! ! ! ! ! !              ! !         PunKthus
+! !        ! ! ! ! !     ! ! ! ! ! ! ± 0 500   1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
 !
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-!
-! !
-!
-! ! ! !   ! ! !
-! ! ! ! ! ! ! ! ! !                          PunKthus
-! !        ! !                  ± ! ! ! 0 500  1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 57 -->
@@ -4080,59 +3593,6 @@ karaktären bevaras.
 
 <!-- sida 60 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -4199,6 +3659,24 @@ ny kvartersstad
 !                                                          !
 !
 !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!
+Lindens torg !
 !
 !
 !
@@ -4207,16 +3685,6 @@ ny kvartersstad
 !
 !
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-Lindens torg
 !
 !
 !
@@ -4229,28 +3697,34 @@ Lindens torg
 !
 !
 !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                         !
+!                                                         !
+!                                                         !
+!                                                        !
 !
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! ! ! !   ! ! !                      ! ! !
+! ! ! ! ! ! ! ! ! !              ! ! yngrE KvartErsstad
+! !        ! ! ! ! !     ! ! ! ! ! ! ± 0 500   1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-!
-! !
-!
-! ! ! !   ! ! !
-! ! ! ! ! ! ! ! ! !                yngrE KvartErsstad
-! !        ! !                  ± ! ! ! 0 500  1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 61 -->
@@ -4396,58 +3870,6 @@ av skyltar.
 
 <!-- sida 64 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -4514,56 +3936,69 @@ Signeshus            !
 !                                                          !
 !
 !
+!                                                           !
+El ! of Lindälvs                                             !
+!                                                           !
+g!ymnasium                             Kungsbacka            !
+!                                                            !
+!                                       närsjukhus           !
+! Kulturhus                                                 !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
 !
-! Elof Lindälvs
-!
-g!ymnasium                             Kungsbacka
-!
-!                                       närsjukhus
-! Kulturhus
 !
 !
+!                                                  Stadshus   !
 !
 !
-!
-!
-!
-!
-!
-!
-!
-!                                                  Stadshus
 !
 !    Vallgatan
 !
 !
 !
-!   Kolla                                          Hotell Halland
+!
+!
+!
+!
+!   Kolla                                          Hotell Halland !
+!
 !
 ! äldreboende
 !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                           !
+! !     Kollaskolan                           Aranäsgymnasiet ! !
+!                                                         !
+!                                                        !
 !
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! ! ! !   ! ! !                      ! ! ! OFFEntLiga
+! ! ! ! ! ! ! ! ! !              ! !  byggnadEr i ParK
+! !        ! ! ! ! !     ! ! ! ! ! ! ± 0 500   1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
 !
-!
-!
-! !                                           Aranäsgymnasiet Kollaskolan
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-!
-! !
-!
-! ! ! !   ! ! !                          OFFEntLiga
-! ! ! ! ! ! ! ! ! !                   byggnadEr i ParK
-! !        ! !                  ± ! ! ! 0 500  1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 65 -->
@@ -4739,59 +4174,6 @@ byggt 1935 i funkisstil.
 
 <!-- sida 70 -->
 
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -4858,32 +4240,22 @@ Hede             !
 !                                                          !
 !
 !
-!
-!                                     Kungsmässan
-! Varla
-!
-!
-!                                    Kv. Sågen
-! Kv. Gjutaren
-! Varlaberg
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!    Klovsten
-!
-!                                                  Inlag
+!                                                           !
+!                                     Kungsmässan           !
+! Varla                                                     !
+!                                                           !
+!                                                            !
+!                                    Kv. Sågen               !
+! Kv. Gjutaren                                              !
+Varlaberg !                                                          !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
+!                                                            !
 !
 !
 !
@@ -4898,17 +4270,40 @@ Hede             !
 !
 !
 !
-! !
+!    Klovsten                                                !
 !
-! !
+!                                                  Inlag      !
 !
-! !
 !
-! ! ! !   ! ! !
-! ! ! ! ! ! ! ! ! !                           FÖrEtag
-! !        ! !                  ± ! ! ! 0 500  1 000
-!                                meter !
 !
+!                                                            !
+!                                                            !
+!                                                           !
+!                                                           !
+!                                                           !
+!                                                         !
+!                                                         !
+!                                                         !
+!                                                        !
+!
+!                                                      !
+!                                                     !
+!                                                    !
+! !                                                 !
+!                                                !
+! !                                             !
+!                                            !
+! !                                        !
+!                                        !
+! ! ! !   ! ! !                      ! ! !
+! ! ! ! ! ! ! ! ! !              ! !          FÖrEtag
+! !        ! ! ! ! !     ! ! ! ! ! ! ± 0 500   1 000
+! !    ! ! !                     meter
+!  ! !
+!! !
+
+!
+
 !
 
 <!-- sida 71 -->
@@ -5575,49 +4970,17 @@ tydlig kvartersstruktur och ha en blandning av byggnadstyper.
 
 <!-- sida 85 -->
 
-!
-!
-!
-!
-!
-!
-! !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-! ! !
-!
-! ! ! !
-! ! ! ! ! ! ! ! ! ! !
-! ! ! !
-! !
+! ! ! ! Stadsgräns
+anläggningar
+Anläggningsgräns
+Idrottsplan
+nya områden
+Byggår
+(2010)
+nya_byggnader
+DETALJTYP
+HUS
+HUSÖVR
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -5642,162 +5005,90 @@ HUSÖVR
 !         !
 !          !
 !
-!          ! ! !
-!         !
-!          !
-!         !
-!          !
-!          !
-!          !
-!          !
-!          !
-!          !
-! !        ! ! !
-! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
-!                                             ! !
-!                                               ! !
-!                                                 !
-!
-!                                                  !
-!                                                   !
-!                                                   ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
-!                                                        !
-! !
-! ! !
-! ! !
-!
-!
-!
-!
-!                                    Kv Sågen
-! !
-!
-!
-!
-!
-!                                                                                           !
-!                                                                                           !
-!                                                                                           !
-!                                                                                           !
-!                                                                                            !
-!                                                                                            !
-!                                                                                            !
-!                                                                                            !
-!                                                                                            !
-!                                                                                            !
-!                                                                                             !
-!                                                                                            !
-!                                                                                            !
-!                                                                                            !
-! Kolla parkstad                                                                             !
-!                                                                                           !
-!                                                                                            !
-!                                                                                            !
-!                                                                                           !
-!                                                                                          !
-!                                                                                          !
-!                                                                                          !
-!                                                                                         !
-! !                                                                                      ! ! !
-!                                                                                      !
-! !                                                                                   ! ! !
-! !                                                                               ! ! ! !
-! !                                                                            !
-! !                                                                         ! ! ! ! ! ! ! ! !
-! ! ! ! ! ! ! ! ! ! ! ! ! ! ! bOstad ± sOmrÅdEn PÅ gÅng               ! ! ! ! ! 0 500 1 000 ! ! meter ! ! !
-!                                                ! ! ! !
-!
-!
-! ! !
-! !
-! ! ! ! ! !
-! ! !
-! !
-! !
-!
-!
-! ! ! ! Stadsgräns
-anläggningar
-Anläggningsgräns
-Idrottsplan
-nya områden
-Byggår
-(2010)
-nya_byggnader
-DETALJTYP
-HUS
-HUSÖVR
-! ! ! ! ! ! ! ! ! ! !
-!          !
-!          !
-!         !
-!         !
-!         !
-!         !
-!         !
-björkris                    !         !
-!          !
-!         ! ! ! !
-!          ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
-!          !
-!          !
-!          !
-!
-!           !
-!            !
-! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
-!                                                 ! !
-!                                                  !
-!                                                   !
-!                                                   ! ! ! ! ! !
-!                                                     !
-!                                                      !
-!                                                      !
-!                                                      !
-!                                                       !
-!                                                        ! ! ! !
-!                                                         !
-!                                                          !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-! !
+! !        ! !                     ! ! ! ! ! ! ! ! ! ! !
+!         !                       !          !
+!          !                       !          !
+!         !                        !         !
+!          !                        !         !
+!          !                       !         !
+!          !                        !         !
+!          !                       !         !
+!       björkr ! is                 !         !
+!          !                       !          !
+! ! !       ! !                    ! ! !       ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+!                                             ! ! !         !
+!                                               !! !       !
+!                                               ! !        !
+!   !
+!                                             !    !      !
+!                                            !      !     !
+! ! ! ! ! ! ! ! !           ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+!                            !                           !                     ! !
+!                            !                            !                     !
+!                            !                             ! !                   !
+!                            !                                                   !
+! !                          ! !                            !                     ! ! !
+!                            !                             !                       !
+!                             !                             !                        !
+!                             !                             !                        !
+!                             !                             !                        !
+!                              !     Kv Sågen                !                         !
+! !                            ! !                           ! !                        ! ! !
+!                              !                            !                            !
+!                               !                            !                             !
+!                               !                            !
+!                               !                            !
+!                                !                           !                              !
+!                               !                            !                              !
+!                               !                            !                              !
+!                               !                           !                               !
+!                                !                           !                               !
+!                               !                            !                               !
+!                               !                            !                               !
+!                                !                           !                               !
+!                                !                           !                               !
+!                               !                            !                               !
+!                                !                            !                               !
+!                                !                           !                               !
+!                               !                            !                               !
+!                               !                            !                               !
+! Kolla parkstad                !                            !                               !
+!                              !                            !                               !
+!                               !                            !                               !
+!                               !                            !                               !
+!                              !                            !                               !
+!                             !                            !                               !
+!                             !                            !                               !
+!                             !                            !                               !
+!                           !                            !                                !
+! ! !                       ! !                          ! !                             ! !
+!                         !                           !                                !
+! ! !                   ! !                          ! !                             ! !
+! ! ! !              ! !                       ! ! !                              ! !
+! !                !                        !                                  !
+! ! ! ! !   ! ! ! ! ! !                ! ! ! !                              ! ! !
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! b ! O ! ! s ! t!a ! d ± s 0 OmrÅdE 50 n 0 PÅ gÅ 1 0 n 0 m 0 g eter ! ! ! ! ! !
+! !! !!!
 !
 ! ! !
-! ! ! ! ! ! ! !
-! ! ! !
+!
 ! !
+! !                                         !
+!                                        !
+! ! ! !    ! ! !                      ! ! !
+! ! ! ! ! ! ! ! ! !             ! !
+! !         ! ! ! ! !    ! ! ! ! ! ! ± 0 500   1 000
+! !   ! ! !                      meter
+!  ! !
+!! !
+
 !
-! ! ! !    ! ! !
-! ! ! ! ! ! ! ! ! !
-! !         ! !                 ± ! ! ! 0 500  1 000
-!                                meter !
+
 !
+
+!
+
 !
 
 <!-- sida 86 -->
@@ -5842,72 +5133,6 @@ Parkering finns på flera ställen, både för boende och för pendlare.
 
 <!-- sida 88 -->
 
-kungsbacka är en expansiv kommun i en region som växer. Fler vill
-
-bo och arbeta i kommunen och näringslivet utvecklas. kommunens
-mål är att centralorten ska växa till att bättre representera
-kommunens storlek. Det innebär att staden kungsbacka står inför
-en stor förnyelse och utbyggnad. För att kunna staka ut vägen är
-det viktigt att ha kännedom om stadens rötter och karaktär, vilket
-skriften du håller i din hand gör ett försök att beskriva.
-
-kungsbackas historiska framväxt har resulterat i planmönster och
-byggnadssätt där olika årsringar och stadsbyggnadskaraktärer kan
-urskiljas. Karaktär Kungsbacka beskriver stadens naturlandskap,
-!
-dess framväxt och nio olika stadskaraktärer samt beskriver hur vi !
-!
-kan förvalta och utveckla dessa när staden växer och förändras. !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !      Kungsbacka kommun • Plan & Bygg • 434 81 Kungsbacka • 0300-83 40 00
-! !               (e-post borttagen) • www.kungsbacka.se ! ! ! !
-! !
-! 84 ! !
-! !
-! !
-!
-!
 ! ! ! ! Stadsgräns
 anläggningar
 Anläggningsgräns
@@ -5957,29 +5182,50 @@ företag
 !    !
 ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
 !           ! !
-! !           ! ! ! ! ! ! ! !
-!                     ! !
+! !           ! ! ! ! ! ! ! ! kungsbacka är en expansiv kommun i en region som växer. Fler vill
+!                     ! !  bo och arbeta i kommunen och näringslivet utvecklas. kommunens
 !                       !
 !
-!                        ! !
+!                        ! ! mål är att centralorten ska växa till att bättre representera
 !                          !
-!                          !
+!                          k! ommunens storlek. Det innebär att staden kungsbacka står inför
 !                           !
+!                          en! stor förnyelse och utbyggnad. För att kunna staka ut vägen är
 !                            !
-!                            !
 !
-!                             !
+!                          det !viktigt att ha kännedom om stadens rötter och karaktär, vilket
 !
 !
-!                              !
+!                          skrift!en du håller i din hand gör ett försök att beskriva.
 !                              !
 !                               !
 !                               !
-!                                !
+!                          kungsba!ckas historiska framväxt har resulterat i planmönster och
 !
 !
 !
+!                          byggnadssä! tt där olika årsringar och stadsbyggnadskaraktärer kan
+!
+!                          urskiljas. Karaktär Kungsbacka beskriver stadens naturlandskap,
 !                                  !
+!                          dess framvä ! xt och nio olika stadskaraktärer samt beskriver hur vi
+!                                  !
+!                          kan förvalt ! a och utveckla dessa när staden växer och förändras.
+!                                  !
+!                                  !
+!                                 !
+!                                 !
+!                                 !
+!                                 !
+!                                !
+!                                !
+!                                !
+!                                !
+!                               !
+!                               !
+!                               !
+!                               !
+!                              !
 !
 !
 !
@@ -5994,46 +5240,36 @@ företag
 !
 !
 !
+!                            !
+!                            !
+!                            !
+!                            !
+!                           !
+!                           !
+!                           !
+!                          !
+!                          !
+!                          !
 !
+!                         !
+!                         !
+!                         !
+! !                      !
+!                        !
+! !                     !
+!                      !
+! !                   !
+!                     !
+! !                  !
+! ! ! ! !           ! !      Kungsbacka kommun • Plan & Bygg • 434 81 Kungsbacka • 0300-83 40 00
+! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ± (e-post borttagen) • www.kungsbacka.se
+!         ! !      0     500    1 000
+84 ! !  ! ! !                     meter
+!  ! !
+!! !
+
 !
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-!
-! !
-!
-! !
-!
-! !
-!
-! !
-! ! ! ! !
-! ! ! ! ! ! ! ! ! ! ! ! ! ! ± ! !
-!                  0     500    1 000
-!                                meter !
-!
+
 !
 
 <!-- sida 89 -->
@@ -10229,6 +9465,5 @@ Boverket
 Box 534, 371 23 Karlskrona
 Telefon: 0455-35 30 00
 Webbplats: www.boverket.se
-4202/3195
-rnd
-:dllätstsaF
+
+Fastställd: dnr 5913/2024

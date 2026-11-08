@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a0862710404491b/1789109262
 sha256: e5215ddc38b5f1370cea8c1a4db30cb04bcecbb12beddceacfb1160b690d69d6
 bytes: 11653586
 sidor: 380
-hamtad: 2026-11-06T11:48:29+00:00
-konverterad: 2026-11-06T11:50:01+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T11:37:23+00:00
+konverterad: 2026-11-08T11:38:59+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -9302,9 +9302,10 @@ Region Halland
 Box 517, 301 80 Halmstad
 (e-post borttagen)
 regionhalland.se
-Dokumentinformation
 
 Sida 111 av 290
+
+Dokum en tin fo rm a tion
 
 <!-- sida 153 -->
 
@@ -16251,10 +16252,10 @@ Regionen ser HNJ-banan som en strategisk länk mellan Halland, Kronoberg och
 Regionledningskontoret Telefon: 010-241 00 00           Organisationsuppgifter
 Box 1024               E-post: (e-post borttagen)          Bankgiro: 5216-2849
 551 11 Jönköping       Hemsida: www.rjl.se              Orgnr: 232100-0057
-bd2da469b8eb-bda8-e244-005b-6644ec0a
-:ecnerefer
-erutangiS
+
 Sida 252 av 290
+
+Signature reference: a0ce4466-b500-442e-8adb-be8b964ad2db
 
 <!-- sida 294 -->
 
@@ -16277,30 +16278,24 @@ I övrigt har Region Jönköpings län inget ytterligare att tillägga.
 Tommie Ekered
 Ordförande Nämnden för trafik, infrastruktur och miljö
 
-bd2da469b8eb-bda8-e244-005b-6644ec0a
-
-:ecnerefer
-
-erutangiS
-
 Sida 253 av 290
+
+Signature reference: a0ce4466-b500-442e-8adb-be8b964ad2db
 
 <!-- sida 295 -->
 
 Detta dokument är elektroniskt signerat och juridiskt bindande.
 
-Ordförande: Tommie Ekered
-
-bd2da469b8eb-bda8-e244-005b-6644ec0a
-
-:ecnerefer
-
-erutangiS
 Signed by: TOMMIE EKERED
 Date: 2025-12-11 13:44:39
 BankID refno: 019b0d71-0777-7b45-a5ac-5e976a278d8a
+
+Ordförande: Tommie Ekered
+
 Sida 254 av 290
 Kopia/bekräftelse på e-signerat dokument.
+
+Signature reference: a0ce4466-b500-442e-8adb-be8b964ad2db
 
 <!-- sida 296 -->
 
@@ -16770,45 +16765,56 @@ TRV 2025/113777            2026-01-14                 2 Intern
 Motpartens ärendenummer
 RS230670
 
-Trafikverket           Texttelefon: 010-123 50 50
-405 33 Göteborg        Telefon: 0771 - 921 921
-Besöksadress: Vikingsgatan 2 (e-post borttagen)
-www.trafikverket.se
-0.4
-verB
-2240
-LLAMT
 Mottagare
 Region Halland
+
 Yttrande  - Trafikförsörjningsprogram   2026–2030
+
 Region  Halland
+
 Ärende
+
 Trafikförsörjningsprogrammet är Region Hallands övergripande
 styrdokument för kollektivtrafikens utveckling och beskriver mål och
 inriktning för kollektivtrafiken under kommande fyraårsperiod, med en
 långsiktig utblick mot år 2050.
+
 Trafikverkets synpunkter
 Trafikverket ser positivt på den röda tråd Region Halland skapat genom sina
 strategiska dokument kopplat till visionen Halland bästa livsplatsen. Vi
+
 uppskattar det goda samarbetet oss emellan och ser fram emot att fortsatt
 samverka och gemensamt bidra till kollektivtrafikens utveckling.
+
 Programmet innehåller en bra karta och beskrivningar över
 kollektivtrafikstråken. Målen som formulerats i programmet är bra och
 tydliga men det är önskvärt med en nulägesbild. Kollektivtrafikens
 marknadsandel är tydligt beskriven men exempelvis dagens
+
 självfinansieringsgrad redovisas inte.
+
 Det skulle vara intressant om trafikförsörjningsprogrammet innehöll en mer
 utvecklande text om vilka noder i angränsande län som Region Halland
 eftersträvar god tillgänglighet till med kollektivtrafik. Greater Copenhagen,
 String och Regionsamverkan Sydsverige nämns men vad samarbetsorganen
+
 innebär för Region Halland kan bli tydligare.
+
 Trafikverket noterar Region Hallands ambition om minskade restider, som
 beskrivs i kapitel 6, men vill uppmärksamma att det krävs omfattande
 investeringar i såväl infrastruktur som fordon och i vissa fall även indragning
 av tågstopp samt parallell trafikering med olika trafiksystem för att uppnå
 målbilden. Kartan på sid 58 (Figur 8) kan med fördel utvecklas med vad som
+
 krävs för att uppnå restiderna, likt texten i början på s. 50.
+
+Trafikverket           Texttelefon: 010-123 50 50
+405 33 Göteborg        Telefon: 0771 - 921 921
+Besöksadress: Vikingsgatan 2 (e-post borttagen)
+www.trafikverket.se
 Sida 266 av 290
+
+TMALL 0422 Brev 4.0
 
 <!-- sida 308 -->
 
@@ -16819,15 +16825,8 @@ TRV 2025/113777            2026-01-14
 Motpartens ärendenummer
 RS2023-00074
 
-Trafikverket           Texttelefon: 010-123 50 50
-405 33 Göteborg        Telefon: 0771 - 921 921
-Besöksadress: Vikingsgatan 2 (e-post borttagen)
-www.trafikverket.se
-0.4
-verB
-2240
-LLAMT
 Region Halland lyfter behov av åtgärder på Västkustbanan för att möta ett
+
 ökat behov av resande i framtiden. I förslag till Nationell infrastrukturplan
 2026–2037 finns två nya objekt med som bidrar till att möta behovet,
 Halmstad C kapacitet (del 2) uppställningsspår samt Tyllered
@@ -16835,30 +16834,47 @@ förbigångsspår. Trafikverket har i enlighet med regeringens direktiv även
 redovisat ytterligare namngivna investeringar som övervägts till planförslaget
 och som motsvarar en ökning av medlen för namngivna investeringar med
 10%. Där ingår objektet Västkustbanan, Kungsbacka, vändspår, Kungsbacka
+
 \- Hede, partiellt fyrspår. Anledningen till att objektet inte prioriterats är att
 det inte inryms ekonomiskt. Åtgärden i sin nuvarande utformning bedöms
 som ”robust olönsam” och tillsammans med andra prioriteringsfaktorer
 hamnar detta objekt längre ner i prioriteringslistan.
+
 Trafikverket noterar att Region Halland justerat inriktningen avseende
+
 hastighet för Storregiontåg från 250 km/h till 200 km/h. I förslag till ny
 nationell infrastrukturplan 2026-2037 finns ett nytt namngivet objekt med
 Befintliga banor, hastighetshöjning till 250 km/h Öxnered – Lund, vars syfte
 är att stärka konkurrenskraften för persontransporter på järnväg genom att
 möjliggöra 250 km/h på befintlig bana.
+
 På Trafikverkets hemsida finns information om de analyser, utredningar och
+
 planerade åtgärder som görs för att möta den ökade trafikmängden från
 kontinenten som väntas komma i samband med öppnandet av Fehmarn Bält-
 förbindelsen. Länk: Effekter av fast förbindelse under Fehmarn Bält -
 www.trafikverket.se
+
 Med vänlig hälsning,
+
 Erica Kvist
+
 Strategisk planerare, Västra regionen
 Trafikverket
+
 Dokumentegenskaper, Ärendenummer TRV 2025/113777, Motpartens ärendenummer RS2023-00074, Dokumentdatum 2026-01-14, Dokumenttyp BREV. Konfidentialitetsnivå.2 Intern
+
 Ovanstående textfält är endast avsett att läsas digitalt och får ej tas bort. Det innehåller uppgifter från
 sidhuvudet och gör att dokumentets egenskaper blir tillgängliga enligt Lag (2018:1937) om tillgänglighet
 till digital offentlig service.
+
+Trafikverket           Texttelefon: 010-123 50 50
+405 33 Göteborg        Telefon: 0771 - 921 921
+Besöksadress: Vikingsgatan 2 (e-post borttagen)
+www.trafikverket.se
 Sida 267 av 290
+
+TMALL 0422 Brev 4.0
 
 <!-- sida 309 -->
 
@@ -17876,7 +17892,8 @@ Region Halland                                   2025-12-09
 
 Diarienummer
 Ert diarienummer
-KS-2025-00735 RS230670
+KS-2025-00735
+RS230670
 
 Sammanfattande inställning
 Kungsbacka kommun är endast delvis positiv till det nya Trafikförsörjningsprogrammet. Kungsbacka
@@ -17921,44 +17938,222 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
-Y t t r a
-T ill
-R e g i o n H
-E rt d ia rie n u m
-R S 2 3 0 6 7
-n d e ö v
-a l l a n
-m e r
-0
-e r R
-d
-e g i o n H a l l a n d s r e m i s s : T r a f i k f ö r s ö r j n i n g s p r o
-K
-g
-o
+
+E n
+
 r
+
+0
+
+m5
+
+e5
+
+D e
+
+tu
+
 m
-a
-K
-m
-m
+
+3
+
+ls
+
+a-0
+
+m73
+
+0
+
+N e
+
+D2
+
+nu0
+
+2
+
+A r
+
+1
+
+ie0
+
+–
+
+\-
+
+r-
+
+R ty
+
+5
+
+ia5
+
+6
+
+T s
+
+2
+
+D2
+
+2
+
+T n
+
+20
+
+0
+
+0
+
+u
+
+-2
+
+2
+
+Y
+
 S
-Y T T
-u n s
-2 0 2
-D
-\- 2 0 2
-2 0 2
-R A N D
-t y r e ls e
-D a tu m
-5 - 1 2 - 0 5
-ia rie n u m m e
-5 - 0 0 7 3 5
-– 6 2 0 3
-En
+
+m
+
+K
+
+m
+
+om
+
+ra
+
+K
+
+g
+
+ro
+
+sp
+
+g
+
+in
+
+jn
+
 r
-0
+
+ö
+
+rs
+
+fö
+
+ik
+
+f
+
+ra
+
+T
+
+\:
+
+s
+
+is
+
+em
+
+r
+
+s
+
+nd
+
+lla
+
+a
+
+H
+
+n
+
+io
+
+g
+
+nd
+
+e
+
+la
+
+R
+
+l
+
+r
+
+r
+
+e
+
+a
+
+m0
+
+e
+
+H
+
+m7
+
+v
+
+n
+
+nu6
+
+ö
+
+ie0
+
+io
+
+r3
+
+ia
+
+e
+
+g
+
+d2
+
+d
+
+lle
+
+tS
+
+i
+
+r
+
+TR
+
+ER
+
+n
+
+ra
+
+tt
+
+Y
 
 <!-- sida 333 -->
 

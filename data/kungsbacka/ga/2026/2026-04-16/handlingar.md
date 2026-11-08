@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7118072419d9a48ae7711df/17764152013
 sha256: e0a56d9c72958e220b41e0463b79a2edc445c48f2e2a36def094d8d53a625999
 bytes: 20412871
 sidor: 196
-hamtad: 2026-11-06T08:28:09+00:00
-konverterad: 2026-11-06T08:29:48+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T07:59:41+00:00
+konverterad: 2026-11-08T08:01:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5816,21 +5816,24 @@ Internkontrollrapport 2025
 
 I matrisen beskrivs de risker som identifierats i arbetet med riskanalys och som tagits med till plan.
 
-6
-tehkilonnaS
 4     8     12     16
 4
+
 3     6      9     12
 3
 2 4
 2     4      6     8
+
 2
 1     3
 1     2      3     4
 1
+
 1     2      3     4
 Konsekvens
+
 2 Hög 2 Medel Totalt: 4
+
 Kritisk        Sannolikhet           Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den inte
@@ -5842,6 +5845,10 @@ berörda intressenter och kommunen)
 intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
+
+6
+
+Sannolikhet
 
 [Tabell 150-1](handlingar.tabeller/150-1.csv)
 
@@ -7271,10 +7278,36 @@ Vi arbetar både målstyrande och målsökande och ökar takten i vårt innovati
 
 <!-- sida 185 -->
 
+Till:
+Byggnadsnämnden
+
+Nämnden för Förskola & Grundskola
+Nämnden för Gymnasium &Arbetsmarknad
+Nämnden för Kultur & Fritid
+Nämnden förMiljö & Hälsoskydd
+Nämnden förService
+Nämnden för Teknik
+Nämnden för Vård & Omsorg
+
 1(1)
 
 Datum
 2026-03-23
+Revisionsrapport – Grundläggande granskning 2025
+Kommunrevisionen har vid sitt möte den 23 mars 2026 antagit bifogad
+revisionsrapport. Granskningens syfte har varit att ge revisorerna underlag för
+ansvarsprövningen genom att översiktligt granska all verksamhet i enlighet med
+kommunallagen och God revisionssed. Granskningen har avsett kommunstyrelsen
+och samtliga nämnder, med undantag för valnämnden då 2025 inte varit ett valår.
+
+Rapporten översänds för kännedom. Granskningen har inte resulterat i någon
+
+rekommendation till ovan nämnder.
+
+För revisorerna i Kungsbacka kommun
+
+Birgitta Litsegård
+Kommunrevisionens ordförande
 
 Kommunrevision                                               Kungsbacka kommun
 434 81 Kungsbacka
@@ -7284,30 +7317,8 @@ Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-20-01-6002
-,0.1v
-001BUK
-mroFinu
-Till:
-Byggnadsnämnden
-Nämnden för Förskola & Grundskola
-Nämnden för Gymnasium &Arbetsmarknad
-Nämnden för Kultur & Fritid
-Nämnden förMiljö & Hälsoskydd
-Nämnden förService
-Nämnden för Teknik
-Nämnden för Vård & Omsorg
-Revisionsrapport – Grundläggande granskning 2025
-Kommunrevisionen har vid sitt möte den 23 mars 2026 antagit bifogad
-revisionsrapport. Granskningens syfte har varit att ge revisorerna underlag för
-ansvarsprövningen genom att översiktligt granska all verksamhet i enlighet med
-kommunallagen och God revisionssed. Granskningen har avsett kommunstyrelsen
-och samtliga nämnder, med undantag för valnämnden då 2025 inte varit ett valår.
-Rapporten översänds för kännedom. Granskningen har inte resulterat i någon
-rekommendation till ovan nämnder.
-För revisorerna i Kungsbacka kommun
-Birgitta Litsegård
-Kommunrevisionens ordförande
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 186 -->
 

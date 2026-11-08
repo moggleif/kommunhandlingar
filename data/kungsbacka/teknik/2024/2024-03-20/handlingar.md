@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe22f4f9/1710496721
 sha256: 5241e7d30c851167a377d71e6375cf42e4e4684df313e4aa653a264b9a75584f
 bytes: 8202585
 sidor: 73
-hamtad: 2026-11-06T10:58:26+00:00
-konverterad: 2026-11-06T10:58:55+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T10:42:03+00:00
+konverterad: 2026-11-08T10:42:36+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
@@ -1578,30 +1578,250 @@ Denna rutin beskriver hur och när en avstängning kan ske.
 Att nyttja den möjligheten är den sista åtgärden som vidtas, 45 dagar efter fakturans
 förfallodatum..
 
-Kungsbacka kommun        TE rutin för avstängning av vattenförsörjning 2 (3)
-Utebliven betalning
-för
-vattenförbrukningen
-Påminnelse skickas
-Påminnelse mottagen
-Faktura överlämnas till inkassobolag
-Faktura mottagen
-Brev om avstängning skickas
-Brev mottaget
-Kontroll sker om betalning inkommit Vattenavstängning sker
-Tjänst levereras inte längre
-Betalning
-mottagen
 Efter fakturans förfallodatum skickas en påminnelse att betala fakturan (7
 dagar efter förfallodatum).
+
 Om ingen betalning inkommer överförs fakturan till inkassobolag, som
 skickar ett inkassokrav till kunden 20 dagar efter förfallodatum.
+
 Om ingen betalning inkommer aviseras om avstängning av vattentillförsel 35
 dagar efter förfallodatum.
+
 Om betalning ej kommer oss tillhanda stängs vattentillförsel till bostaden 45
 dagar efter förfallodatum.
+
 Avstängning sker genom att drifttekniker från Rörnät stänger av tillförseln av
 vatten i fastighetens servis (vanligtvis belägen vid tomtgräns).
+
+Kungsbacka kommun        TE rutin för avstängning av vattenförsörjning 2 (3)
+
+s
+
+a
+
+r e
+
+re r
+
+g n
+
+e g
+
+in ge
+
+v n
+
+ln a
+
+le lä
+
+t
+
+a t
+
+t
+
+t
+
+s te
+
+e o
+
+n in
+
+Bm
+
+jä
+
+T
+
+g
+
+in
+
+gn
+
+än r
+
+t e
+
+vs k
+
+a s
+
+en
+
+tt
+
+a
+
+V
+
+om
+
+r g it
+
+ke inm
+
+s ln
+
+l m
+
+l ta o
+
+ro e k
+
+t b in
+
+on
+
+K
+
+t
+
+ge
+
+ta
+
+t
+
+o
+
+m
+
+v
+
+re
+
+B
+
+g
+
+in s
+
+m n a
+
+o g k
+
+v n ic
+
+e tä k
+
+r s s
+
+B v
+
+a
+
+a n
+
+r ge
+
+tu a
+
+k tt
+
+a o
+
+Fm
+
+l
+
+il
+
+t g
+
+a
+
+s l
+
+ra a o
+
+tu n ob
+
+km s
+
+a lä s
+
+F r a
+
+e k
+
+v in
+
+ö
+
+e
+
+ls n
+
+e ge
+
+n a
+
+in tt
+
+o
+
+åm
+
+Pm
+
+e
+
+ls
+
+e s
+
+n ka
+
+in ic
+
+k
+
+åm s
+
+P
+
+n
+
+ge
+
+in
+
+n g
+
+n
+
+e in k
+
+iv
+
+r u
+
+l n
+
+r
+
+l ö
+
+b ta f rb
+
+te e
+
+ö
+
+b
+
+f
+
+U
+
+en
+
+tt
+
+va
 
 <!-- sida 55 -->
 

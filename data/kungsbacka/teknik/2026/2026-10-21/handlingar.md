@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2a1030d71a13057dd28d1b42/1792389749
 sha256: 65ef7879a5bb8f351634810cd359728110bf9e5c888472cfb9f451d82ee0183e
 bytes: 18420348
 sidor: 164
-hamtad: 2026-11-06T11:50:01+00:00
-konverterad: 2026-11-06T11:50:37+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T11:38:59+00:00
+konverterad: 2026-11-08T11:39:39+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3724,7 +3724,8 @@ underlaget faller utanför förstudiens avgränsning och behandlas inte vidare.
 5 Kungsbacka kommun (2025). Sammanställning platsvandring 2025, Styrgruppen för centrumutveckling
 
 Kungsbacka kommun Förstudie Gång- och cykelstråk till Kungsbacka arena 8
-natageisanmyG
+
+Gymnasiegatan
 
 <!-- sida 103 -->
 

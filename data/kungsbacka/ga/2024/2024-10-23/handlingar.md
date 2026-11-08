@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.90ecece1927166f56ae1d4b/17291744095
 sha256: 0b29c5bfa761ea449ef94fb66faff815d4d4f2f6faca8e54965c6332319cd6ba
 bytes: 24790514
 sidor: 226
-hamtad: 2026-11-06T08:12:15+00:00
-konverterad: 2026-11-06T08:13:24+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T07:42:18+00:00
+konverterad: 2026-11-08T07:43:41+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3236,63 +3236,71 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 86 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Facelift                                Lindälv
+
 Koncept,             Utemiljö.           2024-08-22
+
 (e-post borttagen) | semren-mansson.se
+
+© Semrén & Månsson 2023
 
 <!-- sida 87 -->
 
-2 / 6
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-15
+
 Befintlig              utemiljö
+
+2 / 6
+
+© Semrén & Månsson 2023
 
 <!-- sida 88 -->
 
-3 / 6
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-15
+
 Analys
+
 STYRKOR
+
 Öppet - uppsyn över platsen
 Trädrad - skapar rum
+
 Markmaterial - betongplattor
+
 SVAGHETER
+
 Avsaknaden av skolgårdskänsla - ingen tydlig uppehållplats
+
 Öppet - utsatt och få skyddade zoner
+
 Huvudentré - intryckt
+
 ENTRÉ
+
 MÖJLIGHETER
+
 Öppet - finns utrymme att skapa flera rum/zoner
+PARKERING
 Bef material, bänkar och markmaterial kan förädlas                                                    LÅG VÄXTLIGHET
 ENTRÉ    ENTRÉ
 Bef planteringsytor går att nyttja till annan växtlighet
 ÖPPET
 UPPEHÅLL
 SKYLT
+PARKERING
 SITTMÖJLIGHET
+STRÅK
 TRÄDRAD                     SIKT
+PARKERING
+STRÅK
 PRINCIP
 BARRIÄR
+K
 SIKT
-BARRIÄR
-För att skapa en bra utemiljö krävs det en bra balans
-SIKT
+Å       BARRIÄR
+För att skapa en bra utemiljö krävs det en bra balans                                    R
+T                                    SIKT
+S
 mellan låg, mellan och hög
 \- LÅG     markmaterial, låg växtlighet
 T
@@ -3300,47 +3308,41 @@ T
 I
 S
 \- HÖG     träd, pergola, regnskydd, skärmtak
-KÅRTS
-PARKERING
-PARKERING
+3 / 6
+
+© Semrén & Månsson 2023
+
 STRÅK
-PARKERING
-STRÅK
-K
-Å
-R
-T
-S
 
 <!-- sida 89 -->
 
-4 / 6
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-15
+
 Koncept
+
 Dra upp den röda kulören PSD
+
 Samlingsplats                           Välmående        &   Hållbarhet                           Lekfullhet
+
 ”Skapa en utemiljö som känns hemtrevlig           ”Hållbara inslag för uppehåll, aktivitet,      ”Ge platsen en karaktär som sticker ut
 och gör det enkelt för att mötas”                      och växtlighet”                               och skapar stolthet”
 
+4 / 6
+
+© Semrén & Månsson 2023
+
 <!-- sida 90 -->
 
-5 / 6
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-15
+
 Illustrationsplan
+
 Olika typer av
 samlingsplatser
 utplacerade
+
 Skapa    en  miljö   som   är  lätt att sköta   och  som   ser  bra  ut  året  runt.
+
 Entré dras ut i form av pergola
 Ny skyltning
 Segment av öppet, semi- och
@@ -3365,10 +3367,14 @@ Fler olika sittmöjligheter
 Ny inbjudande entré
 Måla betongplattor för att skapa lekfullhet och enkel
 förändring.
+
 Regnskydd/solskydd
+
 Skyddad
 parkering
+
 Sol-/regnskydd med
+
 sittmöjligheter
 Utomhusaktivitet
 Skyddad parkering
@@ -3380,41 +3386,36 @@ skolan är stängd
 från väg
 Addera högre växter i
 bef trädplanteringar
+5 / 6
+
+© Semrén & Månsson 2023
 
 <!-- sida 91 -->
 
-6 / 6
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-15
+
 Referenser
+
+6 / 6
+
+© Semrén & Månsson 2023
 
 <!-- sida 92 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Facelift                                Lindälv
+
 Konceptskiss.                  2024-08-28
+
 (e-post borttagen) | semren-mansson.se
+
+© Semrén & Månsson 2023
 
 <!-- sida 93 -->
 
-2 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Analys
+
 BEHOV
 Lindälvsgymnasiet byggdes 1978-79 och renoverades
 2017\. I stora drag är det en gedigen byggnad med
@@ -3424,21 +3425,25 @@ färgsättning, underhåll av fast inventarie samt lös
 inredning för att förbättra lokalerna och möta förändrade
 verksamhetsbehov. Ett långsiktigt helhetsgrepp har dock
 saknats.
+
 UPPDRAG
 Elof Lindälvs gymnasium i Kungsbacka har ett behov
 av att fräscha upp sina lokaler främst med avseende på
 korridorer och entré. Ett förslag på nya färgssättning av
 dessa ytor ska tas fram.
+
 SYFTE
  Öka den generella attraktiviteten hos skolan
  Tillgodose tillgänglighet, trygghet och effektivitet
 genom den visuella miljön.
  Interiören ska avspegla skolans värdeord: Gemytligt,
 Hemtrevligt, Entreprenörskap
+
 RESULTAT
 Målet är att med en ny färgsättning göra
 Lindälvgymnasiets lokaler mer inbjudande och attraktiva
 för studenter och personal.
+
 HUR
  Färgkoncept för korridorer och entréytor
  Bygga vidare på det som redan är bra
@@ -3446,50 +3451,56 @@ HUR
  Ta fram ett färgkoncept som kan leva sida vid sida med
 ny grafisk profil
 
+2 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 94 -->
 
-3 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Befi      ntliga          lokaler
+
 \+ En gedigen grund att bygga vidare på.
+
+3 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 95 -->
 
-4 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Befi      ntliga          lokaler
+
 \+ Brokig färgsättning ger ett rörigt intryck och svårorien-
 terade lokaler.
+4 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 96 -->
 
-5 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Befi      ntliga          lokaler
+
 6
 8
 7
+
 4
+
 Förklaringar
+
 1  Entré                VY A från denna punkt
+
 3                                2  Huvudstråk           VY B från denna punkt
+
 3  Uppehållsrum         VY C från denna punkt
+
 4  Elevcafé
+
 5  Matsal
 2
 6  Korridor
@@ -3497,34 +3508,38 @@ Förklaringar
 7  WC
 1
 8  Atrium
+
 Övergripande plan aktuella ytor
+
+5 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 97 -->
 
-6 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Koncept
+
 Grundpalett                                       Taktilitet                                   Färgaccenter
+
 ”En enkel och tydlig grundpalett blir en            ”Addera värme och taktilitet                 ”Färgaccenter används för att skapa
 lugn och netural bas.”                      genom inslag och detaljer av trä.”             kontrast, tydlighet och personlighet.”
 
+6 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 98 -->
 
-7 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Koncept               skyltning
+
 Färg    och
+
 orientering
+
 Skyltning görs visuellt mer till-
 gänglig genom att arbeta med
 en sammanhållen accentfärg.
@@ -3535,304 +3550,378 @@ orientering och förståelse för
 lokalen enklare.
 Referensbilder
 
+7 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 99 -->
 
-8 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Färgkombinationer
+
 KORRIDOR
+
+8 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 100 -->
 
-9 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 2
+
 6
 8
 5
+
 Förslag     A1
+
 9                                   1  Befintligt linoleumgolv
+
 2  Befintligt tak
+
 3
 3  Vägg målas
 4  Golvsocklar målas lika vägg
+
 5  Befintlig kulör dörrar
 7
 6  Dörrfoder målas lika dörr
 4
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 1
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
+
+9 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 101 -->
 
-10 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 2
+
 6
 8
 5
+
 Förslag     A2
+
 9                                   1  Nytt linoleumgolv
+
 2  Befintligt tak
+
 3
 3  Vägg målas
 4  Golvsocklar målas lika vägg
+
 5  Ny kulör dörrar
 7
 6  Dörrfoder målas lika dörr
 4
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 1
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
+
+10 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 102 -->
 
-11 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Förslag     A2.1
+
 1  Nytt linoleumgolv
+
 2  Befintligt tak
+
 3  Vägg målas
+
 4  Golvsocklar målas lika vägg
+
 5  Ny kulör dörrar
+
 6  Dörrfoder målas lika dörr
+
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
+
+11 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 103 -->
 
-12 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 2
+
 6
 8
 5
+
 Förslag     B1
+
 9                                   1  Befintligt linoleumgolv
+
 2  Befintligt tak
+
 3
 3  Vägg målas
 4  Golvsocklar målas lika vägg
+
 5  Befintlig kulör dörrar
 7
 6  Dörrfoder målas lika dörr
 4
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 1
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
+
+12 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 104 -->
 
-13 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 2
+
 6
 8
 5
+
 Förslag     B2
+
 9                                   1  Nytt linoleumgolv
+
 2  Befintligt tak
+
 3
 3  Vägg målas
 4  Golvsocklar målas lika vägg
+
 5  Ny kulör dörrar
 7
 6  Dörrfoder målas lika dörr
 4
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 1
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
 
+13 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 105 -->
 
-14 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Förslag     B2.1
+
 1  Nytt linoleumgolv
+
 2  Befintligt tak
+
 3  Vägg målas
+
 4  Golvsocklar målas lika vägg
+
 5  Ny kulör dörrar
+
 6  Dörrfoder målas lika dörr
+
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
 
+14 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 106 -->
 
-15 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 2
+
 6
 8
 5
+
 Förslag     C1
+
 9                                   1  Befintligt linoleumgolv
+
 2  Befintligt tak
+
 3
 3  Vägg målas
 4  Golvsocklar målas lika vägg
+
 5  Befintlig kulör dörrar
 7
 6  Dörrfoder målas lika dörr
 4
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 1
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
 
+15 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 107 -->
 
-16 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 2
+
 6
 8
 5
+
 Förslag     C2
+
 9                                   1  Nytt linoleumgolv
+
 2  Befintligt tak
+
 3
 3  Vägg målas
 4  Golvsocklar målas lika vägg
+
 5  Ny kulör dörrar
 7
 6  Dörrfoder målas lika dörr
 4
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 1
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 Konceptskiss korridor
 VY A
 
+16 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 108 -->
 
-17 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Förslag     C2.1
+
 1  Nytt linoleumgolv
+
 2  Befintligt tak
+
 3  Vägg målas
+
 4  Golvsocklar målas lika vägg
+
 5  Ny kulör dörrar
+
 6  Dörrfoder målas lika dörr
+
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 9  Kompletterande väggfärg
 utvalda ytor i mörkare ton
 
+17 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 109 -->
 
-18 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Förslag     C2.2
+
 1  Nytt linoleumgolv
+
 2  Befintligt tak
+
 3  Vägg målas
+
 4  Golvsocklar målas lika golv
+
 5  Ny kulör dörrar
+
 6  Dörrfoder målas lika dörr
+
 7  Nischer kläs med trä
+
 8  Skåp, ny kulör
+
 9  Kompletterande väggfärg
 utvalda ytor
 Konceptskiss korridor
 VY A
 
+18 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 110 -->
 
-19 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Portal
+
 Tydliga portaler från huvud-
 stråket in till övriga korridorer
 ökar orienterbarheten.
@@ -3844,36 +3933,39 @@ bara till tydlighet utan skapar
 Konceptskiss korridor
 VY B
 
+19 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 111 -->
 
-20 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Entré
+
 Första
+
 intryck
+
 Behov av nytt fondmotiv vid flytt av
 reception. Entrérum med potential
 att ge beökare och elever ett gott
 första intryck av lokalerna.
+
 Arbeta med värdeorden -
 Hemtrevligt, Gemytligt,
 Entreprenörskap.
 
+20 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 112 -->
 
-21 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Entréskiss      D
+
 • Ordnat första intryck
 • Skyltning
 • Inslag av trä - möbler
@@ -3881,23 +3973,26 @@ Entréskiss      D
 • Varierad belysning - hemtrevlig atmosvär
 • Möjlighet att nytta ytan för event /
 utställning / mindre presentationer
+
 Komp. med grafisk profil
 VY A
+
 Växtvägg
+
 Dov grön kulör
 Konceptskiss
 VY C
+
+21 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 113 -->
 
-22 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Entréskiss      D
+
 • Ordnat första intryck
 • Skyltning
 • Inslag av trä - möbler
@@ -3905,22 +4000,25 @@ Entréskiss      D
 • Varierad belysning - hemtrevlig atmosvär
 • Möjlighet att nytta ytan för event /
 utställning / mindre presentationer
+
 Komp. med grafisk profil
+
 Växtvägg
+
 Dov grön kulör
 Konceptskiss
 VY C
 
+22 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 114 -->
 
-23 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Entréskiss      E
+
 • Ordnat första intryck
 • Skyltning
 • Inslag av trä - panel och möbler
@@ -3928,22 +4026,25 @@ Entréskiss      E
 • Varierad belysning - hemtrevlig atmosvär
 • Möjlighet att nytta platsen som välkomnande
 väntyta
+
 Komp. med grafisk profil
+
 Panelvägg träribbor
+
 Dov grön kulör
 Konceptskiss
 VY C
 
+23 / 24
+
+© Semrén & Månsson 2023
+
 <!-- sida 115 -->
 
-24 / 24
-3202
-nossnåM
-&
-nérmeS
-©
 Facelift Lindälv 2024-08-28
+
 Entréskiss      F
+
 • Ordnat första intryck
 • Informationsskärmar i direkt anslutning till
 entrén. Analog information vid anslagstavla.
@@ -3953,11 +4054,18 @@ entrén. Analog information vid anslagstavla.
 • Varierad belysning - hemtrevlig atmosvär
 • Möjlighet att nytta platsen som välkomnande
 väntyta
+
 Komp. med grafisk profil
+
 Panelvägg träribbor
+
 Dov grön kulör
 Konceptskiss
 VY C
+
+24 / 24
+
+© Semrén & Månsson 2023
 
 <!-- sida 116 -->
 

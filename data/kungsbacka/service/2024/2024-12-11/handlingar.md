@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf83a0cd/173374840838
 sha256: 6a98ddc397ae9d6b48033160da6045e7553cb1eb31b0ed39f8de2fa989d15e32
 bytes: 4448100
 sidor: 288
-hamtad: 2026-11-06T12:20:20+00:00
-konverterad: 2026-11-06T12:21:05+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T12:13:13+00:00
+konverterad: 2026-11-08T12:13:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6506,6 +6506,7 @@ utsläppsminskning motsvarande drygt 2,8 miljoner ton CO ekv under åren 2025–
 
 0
 1980 1990 2000 2010 2020 2030 2040 2050 2060
+2.F, 2.G F-gasförordning EU 517/2014 2.F, 2.G F-gasförordning EU 2024/573
 
 Figur 2 Scenario för den sammanslagna utsläppsutvecklingen för HFC, SF6 och PFC i
 Sverige med tidigare regelverk EU 517/2014 samt med nu beslutade regelverket EU
@@ -6532,12 +6533,8 @@ förordningarna.
 48 European Commission (2022).
 
 122
-.vke
-OC
-notk
-,renoissimE
-2
-2.F, 2.G F-gasförordning EU 517/2014 2.F, 2.G F-gasförordning EU 2024/573
+
+Emissioner, kton CO2 ekv.
 
 <!-- sida 127 -->
 

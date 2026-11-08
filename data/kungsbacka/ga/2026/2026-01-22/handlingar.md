@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2d8c151a19bc22c303820a1c/1768561005
 sha256: a520a5e8d5626e035d0920c6eb67059e48193ad16bd77bdf7b148cb7481b78dc
 bytes: 3972415
 sidor: 92
-hamtad: 2026-11-06T08:23:36+00:00
-konverterad: 2026-11-06T08:24:04+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T07:54:52+00:00
+konverterad: 2026-11-08T07:55:21+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -844,11 +844,7 @@ tredje år vid makten.    rådsremiss                medlingen 2026.
 
 <!-- sida 25 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 En   önskning
 INNEHÅLL
@@ -920,13 +916,15 @@ Björn       Elmqvist
 
 2
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 26 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Regeringen
 
@@ -1044,13 +1042,15 @@ med när man planerar bostadsområden,
 
 3
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 27 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 utvecklar äldreomsorgen eller arbetar
 med utsatta barn i skolan, då ser man
@@ -1207,13 +1207,15 @@ minskar. Men jag känner hopp. Vi har nu
 verktyg som inte funnits tidigare, och
 jag ser kommuner som arbetar offensivt
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 28 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Tillbakablick
 
@@ -1309,13 +1311,15 @@ resultatöversyn.
 
 5
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 29 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Det var också här som årets
 stora ideologiska utspel på ar-
@@ -1416,13 +1420,16 @@ ringsbrev.
 
 6
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 30 -->
 
-21
-\#
-REBMECED
-5202
 WERKET  MÅNADSRAPPORT
+
 Lagrådet
 
 Från      utredning           till  lagrådsremiss:
@@ -1528,13 +1535,15 @@ tillämpningsproblem, samtidigt som
 
 7
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 31 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 reformens grundidé bibehålls.
 Skärpt statlig tillsyn av kommunerna
@@ -1677,13 +1686,15 @@ vilket enligt SCB hänger samman med
 att högskoleutbildningar ofta är längre
 än andra utbildningsformer.
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 32 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 OBS! Bilden är skapad av med hjälp av ett AI-verktyg. Dock inte ett kinesiskt.
 
@@ -1734,13 +1745,15 @@ vilka data som faktiskt användes och i
 
 9
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 33 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 vilket syfte. Enligt presschefen Hans G
 Larsson var det just signaler till vissel-
@@ -1868,12 +1881,14 @@ scenario. Få saker är så efterlängtade i såda-
 na här lägen som julhelgen, både för ministrar
 och för generaldirektörer.
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 34 -->
 
-21
-\#
-REBMECED
-5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
 
 Arbetsförmedlingen
@@ -1998,13 +2013,15 @@ roll i bedömningen av om personer i ar-
 
 11
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 35 -->
 
-21
-\#
-REBMECED
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 betsmarknadspolitiska program uppfyller
 kraven på tillräcklig sysselsättning.
@@ -2023,20 +2040,6 @@ arbetslösheten blivit långvarig, har störst
 effekt. Ändå fortsätter styrningen att rik-
 ta blicken mot dem som redan befinner
 sig långt från arbetsmarknaden.
-
-Sammanfattande bild
-Regleringsbrevet för 2026 är i stora
-delar ett välbekant dokument. Mycket
-kan läsas med en viss trötthet av den
-initierade läsaren. Samtidigt finns tydliga
-markeringar på några utvalda områden:
-utbildning, Samhall och aktivitetskravet i
-försörjningsstödet. Det är här regering-
-en sätter sitt tydligaste avtryck. I övrigt
-fortsätter styrningen i samma spår som
-tidigare, med återkommande krav på
-kontroll och uppföljning, men utan att på
-allvar ompröva några gamla sanningar.
 
 Notiser
 
@@ -2071,8 +2074,21 @@ felaktiga utbetalningar.
 Myndigheten uppmanas nu att redovisa
 hur bristerna ska åtgärdas.
 
-Storstadslöner     till
+Sammanfattande bild
+Regleringsbrevet för 2026 är i stora
+delar ett välbekant dokument. Mycket
+kan läsas med en viss trötthet av den
+initierade läsaren. Samtidigt finns tydliga
+markeringar på några utvalda områden:
+utbildning, Samhall och aktivitetskravet i
+försörjningsstödet. Det är här regering-
+en sätter sitt tydligaste avtryck. I övrigt
+fortsätter styrningen i samma spår som
+tidigare, med återkommande krav på
+kontroll och uppföljning, men utan att på
+allvar ompröva några gamla sanningar.
 
+Storstadslöner     till
 landsbygden
 
 En ny rapport från Tillväxtanalys visar
@@ -2084,6 +2100,7 @@ Genom att arbeta på distans kan anställ-
 da ta del av produktiva storstadsmiljöer
 och högre löner utan att behöva bära
 storstädernas höga levnadskostnader.
+
 Rapporten pekar på att minskat behov
 av daglig pendling gör det möjligt att
 arbeta för storstadsarbetsgivare även på
@@ -2130,11 +2147,14 @@ landet, jämfört med 148 vid utgången av
 långsiktig plan för servicekontorsnätet
 senast i oktober 2026.
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 36 -->
 
-21#
-REBMECED
-5202
 WERKET  MÅNADSRAPPORT
 
 statistik
@@ -2143,15 +2163,18 @@ statistik
 
 13
 
+\#12
+
+DECEMBER
+
+2025
+
 <!-- sida 37 -->
 
-21
-\#
-REBMECED
-5202
 statistik
+
 makro
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 TEMPERATUREN         PÅ  ARBETSMARKNADEN
 
@@ -2224,17 +2247,23 @@ Förändring 12 mån: 1 593 kvarstående platser Förändring 12 mån: 4,7 enhet
 2024     2025         2022      2023      2024      2025      2026
 14
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 38 -->
 
-21
-\#
-REBMECED
-5202
 statistik
+
 makro
 WERKET  MÅNADSRAPPORT
+
 EKONOMISKT        BISTÅND
+
 KOMMUNER
+
 I oktober 2025 betalade Sveriges kommuner ut totalt 944 mkr i ekonomiskt bistånd. Uppgiften är något underskattad, eftersom data
 saknas för fyra kommuner. Storleken på utbetalningarna skiljer sig förstås åt beroende på hur stora kommunerna är. Ett mer rättvisan-
 de sätt att jämföra kommunerna är att undersöka utbetalt ekonomiskt bistånd per invånare.
@@ -2281,32 +2310,36 @@ Malmö                               208 kr
 
 15
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 39 -->
 
-21
-\#
-REBMECED
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-16
-11#
-REBMEVON
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  tjänster
-16
+
+1166
+
+\## 1112
+
+NDEOCVEEMMBBEERR
+
+22002254
 
 <!-- sida 40 -->
 
-21
-\#
-REBMECED
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL            Antalet deltagare i ROM2 uppgick till 39 878 i november, och har nu kretsat runt denna
 nivå under de senaste 12 månaderna. Antalet nya deltagare minskade något i november,
 men ligger fortsatt nära det historiska genomsnittet, vilket också gäller för antalet delta-
@@ -2353,16 +2386,21 @@ Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 
 17
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 41 -->
 
-21
-\#
-REBMECED
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 MARKNADSANDELAR
+
 ROM2
 
 För första gången sedan tjänsten startade har Arbetslivsresurs halkat ner från förstaplatsen, som i november över-
@@ -2416,17 +2454,23 @@ De 30 största ROM2-leverantörerna
 
 18
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 42 -->
 
-21
-\#
-REBMECED
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL
+
 ÖVRIGA    TJÄNSTER
+
 Antal deltagare i IPSU slog i november nytt rekord, med det högsta antalet deltagare under de senaste två åren (541
 stycken), och är nu en bra bit över det historiska genomsnittet. Även KVL uppvisar, efter tre månader med högt inflö-
 de, volym över det historiska snittet. Deltagarantalet i STA sjönk något i november, och är i linje med genomsnittet för
@@ -2474,38 +2518,43 @@ STA        KVL        IPSU (A & B)
 
 19
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 43 -->
 
-21
-\#
-REBMECED
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-20
-11#
-REBMEVON
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  utbildning
-20
+
+2200
+
+\## 1112
+
+NDEOCVEEMMBBEERR
+
+22002254
 
 <!-- sida 44 -->
 
-21
-\#
-REBMECED
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL            Antalet deltagare i arbetsmarknadsutbildning ökade (+10,4 procent)
 i november och nådde den högsta nivån på de senaste två åren. An-
 talet nya beslut var i linje med föregående månad, och ligger fortsatt
 AUB
 över genomsnittet för samma period. Antalet deltagare som lämnat arbetsmarknadsut-
 bildning var närmast oförändrat jämfört med föregående månad.
+
 Kvarstående deltagare: 6 701 Nya deltagare: 1 853 Deltagare som Lämnat: 1 540
 Förändring: 309 [4,8%] Förändring: −198 [−9,7%] Förändring: 94 [6,5%]
 7K               6 701
@@ -2556,17 +2605,23 @@ Utbildning Nord
 De 15 största leverantörerna av arbetsmarknadsutbildning
 21
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 45 -->
 
-21
-\#
-REBMECED
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARE      PER   UTBILDNINGSINRIKTNING
+
 AUB
+
 Fortsatt finns flest deltagare i arbetsmarknadsutbildning inom inriktningarna Industriell tillverkning, Transport samt
 Installation, drift och underhåll. Flera utbildningsinriktningar har under de senaste månaderna börjat vända uppåt, både
 vad gäller nya beslut och kvarstående deltagare. Det gäller inte minst utbildningar inom Hotell, restaurang, storhushåll
@@ -2621,20 +2676,27 @@ juridik                             3
 Kvarstående och nya deltagare i arbetsmarknadsutbildning efter utbildningsinriktning
 22
 
+\# 12
+
+DECEMBER
+
+2025
+
 <!-- sida 46 -->
 
-21
-\#
-REBMECED
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL
+
 FUB
+
 Antalet deltagare i förberedande utbildning minskade något i november (-5,6 procent) men ligger
 fortsatt tydligt över det historiska genomsnittet. Det gör även antalet nya beslut (+10,3 procent),
 vilket innebär att vi sannolikt kommer att se fler deltagare framöver.
+
 Kvarstående deltagare: 2 607 Nya deltagare: 2 720
 Förändring: −154 [−5,6%]   Förändring: 254 [10,3%]
 
@@ -2686,6 +2748,12 @@ Tekniskt arbete 7                 12                 16
 2024       2025         2024     2025
 Kvarstående och nya deltagare i förberedande utbildning (FUB) per underkategori.
 23
+
+\# 12
+
+DECEMBER
+
+2025
 
 <!-- sida 47 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e913d1e/1713531349
 sha256: ad8a95adb634a217fa3515277fb16042343b58ed224e6f09c2c7f754f462cbc3
 bytes: 31102782
 sidor: 402
-hamtad: 2026-11-06T10:58:55+00:00
-konverterad: 2026-11-06T11:01:57+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T10:42:36+00:00
+konverterad: 2026-11-08T10:46:07+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
@@ -1271,27 +1271,42 @@ mängd el. (Gul stapel, indirekt undviken klimatpåverkan)
 
 Undvikna utsläpp                                Tillförda utsläpp
 
+Lustgas
+avlopps-
+rening
+
+Slamlagring
+Recipient –renat avloppsvatten
+
+Inbindning kol Elkonsumtion Användning Kemikalier
+slam
+
+Elproduktion solceller
+
+Summa  klimatpåverkan
+
+ton CO2e
+
 -3 000      -2 000     -1 000        0         1 000       2 000       3 000       4 000       5 000
 
 Figur 2 Hammargårds avloppsreningsverks sammanlagda klimatpåverkan under 2022 uppdelat i direkt och indirekt klimatpåverkan. Totalt
 bidrog Hammargårds avloppsreningsverk till utsläpp motsvarande 2 860 ton CO2e under 2022 (summa klimatpåverkan, mörkblå stapel).
 
 6
-tkeriD
-Lustgas
-avlopps-
-rening
-ppolva
-nateM
-Slamlagring
-tlatoT                                        Summa  klimatpåverkan
-ton CO2e
-tkeridnI                                               Kemikalier .dögoib/malS ragniretsevnI llåhrednu
-&
-Recipient –renat avloppsvatten
-Inbindning kol Elkonsumtion Användning
-slam
-Elproduktion solceller
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Slam/biogöd.
+
+Metan avlopp
+
+Investeringar
+
+& underhåll
 
 <!-- sida 33 -->
 
@@ -1543,8 +1558,27 @@ att klimatpåverkan i omvärlden minskar.
 
 <!-- sida 37 -->
 
+Undvikna utsläpp           Tillförda utsläpp                       Figur 5 Nuvarande anläggning men
+med olika omvärld, dels 2022 års
+Lustgas
+omvärld (övre figuren, motsvarar
+avlopps-
+rening                                              Klimatbokslutet 2022) och med
+Slamlagring                                  2037 års omvärld (nedre figuren)
+Recipient –renat avloppsvatten
+Inbindning kol Elkonsumtion Användning Kemikalier
+slam
+Elproduktion solceller
+2022 års omvärld
+Summa klimatpåverkan
+(Klimatbokslut 2022)
+ton CO2e
+-3 000 -2 000 -1 000  0    1 000  2 000  3 000 4 000  5 000
 Undvikna utsläpp           Tillförda utsläpp
 
+Summa klimatpåverkan
+2037 års omvärld
+ton CO2e
 -3 000 -2 000 -1 000  0    1 000  2 000  3 000 4 000  5 000
 
 I figuren på nästa sida (figur 6) har vi tagit ytterligare ett steg. Här har vi ”skalat” upp material- och energiflöden från år 2022 till år 2037 utifrån
@@ -1555,76 +1589,79 @@ Om vi skalar upp dagens anläggning så att den även klarar av att behandla 203
 kommer nettoklimatpåverkan att öka med 970 ton CO2e. Större flöden ger större klimatpåverkan.
 
 11
-tkeriD             Lustgas
-avlopps-
-rening
-ppolva
-nateM
-Slamlagring
-tlatoT                    Summa klimatpåverkan
-ton CO2e
-tkeridnI                       Kemikalier .dögoib/malS ragniretsevnI llåhrednu
-&
-Recipient –renat avloppsvatten
-Inbindning kol Elkonsumtion Användning
-slam
-Elproduktion solceller
-tlatoT
-Undvikna utsläpp           Tillförda utsläpp
-ton CO2e
--3 000 -2 000 -1 000  0    1 000  2 000  3 000 4 000  5 000
-tkeriD
-Summa klimatpåverkan
-tkeridnI
-Figur 5 Nuvarande anläggning men
-med olika omvärld, dels 2022 års
-omvärld (övre figuren, motsvarar
-Klimatbokslutet 2022) och med
-2037 års omvärld (nedre figuren)
-2022 års omvärld
-(Klimatbokslut 2022)
-2037 års omvärld
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Slam/biogöd.
+
+Metan avlopp
+
+Investeringar
+
+& underhåll
 
 <!-- sida 38 -->
+
+Undvikna utsläpp           Tillförda utsläpp                     Figur 6 Nuvarande anläggning med
+2037 års omvärld, men med olika
+Lustgas
+flöden och inkommande BOD.
+avlopps-
+rening
+Slamlagring
+Recipient –renat avloppsvatten
+Inbindning kol El Användning Kemikalier
+slam
+● 2022 års anläggning
+Elproduktion solceller
+● 2022 års flöden
+Summa klimatpåverkan
+● 2037 års omvärld
+ton CO2e
+-3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
+Undvikna utsläpp           Tillförda utsläpp
+
+● 2022 års avloppsrening
+
+(uppskaladanläggning utifrån
+inkommande BOD)
+● 2037 års flöden
+Summa klimatpåverkan
+● 2037 års omvärld
+ton CO2e
+-3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
 
 Om man jämför övre diagrammet i Figur 5 (klimatbokslutet för 2022) med nedre diagrammet i Figur 6 kan man också notera att en uppskalad
 anläggning som klarar 2037 års avloppsflöden ger ungefär samma klimatpåverkan år 2037 som dagens anläggning ger år 2022. Större flöden ger
 större direkt och indirekt klimatpåverkan men ökningen kompenseras av att omvärlden samtidigt har förbättrats.
 
 12
-tlatoT
-Undvikna utsläpp           Tillförda utsläpp
-ton CO2e
--3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
-tkeriD             Lustgas
-avlopps-
-rening
-ppolva
-nateM
-Slamlagring
-Summa klimatpåverkan
-tkeridnI                   Kemikalier .dögoib/malS
-Recipient –renat avloppsvatten
-Inbindning kol El Användning
-slam
-● 2022 års anläggning
-Elproduktion solceller
-● 2022 års flöden
-● 2037 års omvärld
-Undvikna utsläpp           Tillförda utsläpp
-● 2022 års avloppsrening
-(uppskaladanläggning utifrån
-inkommande BOD)
-● 2037 års flöden
-● 2037 års omvärld
--3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
-tkeriD
-tlatoT                   Summa klimatpåverkan
-ton CO2e
-tkeridnI
-Figur 6 Nuvarande anläggning med
-2037 års omvärld, men med olika
-flöden och inkommande BOD.
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Slam/biogöd.
+
+Metan avlopp
 
 <!-- sida 39 -->
 
@@ -1637,25 +1674,36 @@ uppgraderas till fordonsgas bidrar till att undvika utsläpp från produktion av
 
 Undvikna utsläpp                            Tillförda utsläpp
 
+Lustgasavloppsrening
+
+Inbindningkol    Biogas            El
+
+Summa klimatpåverkan
+
+ton CO2e
+
+-4 000       -3 000      -2 000       -1 000         0          1 000       2 000        3 000
+
 Figur 6 Utfall år 2037 för den nya/ombyggda anläggningen för vattenrening kombinerat med rötning av slam och uppgradering av biogas till fordonsgas
 och spridning av slam på åkermark.
 
 13
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000       -3 000      -2 000       -1 000         0          1 000       2 000        3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol                             gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+slam
+
+Kemikalier
+
+Metan avlopp
+
+Biogasprod.
 
 <!-- sida 40 -->
 
@@ -1663,35 +1711,43 @@ I figur 8 nedan jämförs utfallet i Grundfallet med utfallet för den gamla anl
 år 2037. Jämförelsen visar mycket tydligt att den nya/ombyggda anläggningen är betydligt mer energi- och klimateffektiv än den gamla
 anläggningen.
 
-Undvikna utsläpp            Tillförda utsläpp
+Undvikna utsläpp            Tillförda utsläpp                    Figur 7 Jämförelse av den gamla
 
--3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
-
-14
-tkeriD
-tlatoT                   Summa klimatpåverkan
-ton CO2e
-tkeridnI
-Dagens teknik 2037:
-● 2022 års avloppsrening
-(uppskaladanläggning)
-● 2037 års flöden
-● 2037 års omvärld
-Undvikna utsläpp            Tillförda utsläpp
-Nya anläggningen 2037
-(grundfallet)
-● Nya reningsanläggningen
-● Biogasproduktion för
-fordonsdrivmedel
--3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
-tkeriD
-tlatoT
-Figur 7 Jämförelse av den gamla
 anläggningen (uppskalad till 2037
 års flöden) och den nya/ombyggda
 anläggningen enligt Grundfallet.
-Summa klimatpåverkan
+
+Dagens teknik 2037:
+● 2022 års avloppsrening
+(uppskaladanläggning)
+Summa klimatpåverkan          ● 2037 års flöden
+
+● 2037 års omvärld
 ton CO2e
+-3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
+Undvikna utsläpp            Tillförda utsläpp
+
+Nya anläggningen 2037
+(grundfallet)
+
+● Nya reningsanläggningen
+● Biogasproduktion för
+Summa klimatpåverkan
+fordonsdrivmedel
+ton CO2e
+-3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
+
+14
+
+Totalt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
 
 <!-- sida 41 -->
 
@@ -1701,51 +1757,65 @@ I Figur 9 (nedre figuren) nedan illustreras utfallet där avloppsslammet rötas 
 inkluderar även en jämförelse mot Grundfallet och den enda delen som skiljer dessa fall är hanteringen av biogasen. Figuren visar att det är en
 tydlig klimatnytta att producera el från biogasen, men klimatnyttan blir inte lika stor som att uppgradera biogasen till fordonsgas.
 
-Undvikna utsläpp           Tillförda utsläpp
+Undvikna utsläpp           Tillförda utsläpp                       Figur 9 Jämförelse av Grundfallet
 
-15
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol            gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp           Tillförda utsläpp
-Nya anläggningen 2037
-● Biogas till elproduktion
-(Gasmotor, ɳ=40%)
-tlatoT
-ton CO2e
-tkeridnI
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-tkeriD                        Lustgas avloppsrening ppolva
-nateM
-Inbindningkol
-.dorpsagoiB
-Elprod.
-biogas
-gnindnävnA
-mals
-reilakimeK
-Figur 9 Jämförelse av Grundfallet
 år 2037 och fallet med rötning av
-slam där biogasen förbränns i en
+Lustgasavloppsrening                     slam där biogasen förbränns i en
 gasmotor med elproduktion.
 Verkningsgraden för gasmotorn är
 antagen till 40 %.
-El
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
 Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+Undvikna utsläpp           Tillförda utsläpp
+Lustgas avloppsrening
+
+Elprod. Inbindningkol El
+biogas
+
+Nya anläggningen 2037
+Summa klimatpåverkan ● Biogas till elproduktion
+(Gasmotor, ɳ=40%)
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+
+15
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+Användning
+
+slam
+
+slam
+
+Kemikalier
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
+
+Biogasprod.
 
 <!-- sida 42 -->
 
@@ -1755,52 +1825,68 @@ I Figur 10 (nedre diagrammet) illustreras utfallet där avloppsslammet rötas oc
 Figuren inkluderar även en jämförelse mot Grundfallet och den enda delen som skiljer dessa fall är hanteringen av biogasen. Figuren visar att det
 är en klimatnytta att producera värme från biogasen, men klimatnyttan blir klart mindre än att uppgradera biogasen till fordonsgas.
 
-Undvikna utsläpp            Tillförda utsläpp
+Undvikna utsläpp            Tillförda utsläpp                      Figur 8 Jämförelse av Grundfallet
 
-16
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol             gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp            Tillförda utsläpp
-Nya anläggningen 2037
-● Biogas till värmeproduktion
-(ersätter biobränsle för fjärr-
-värmeproduktion, ɳ=95%)
--4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
-tkeriD                        Lustgas avloppsrening
-tlatoT
-ppolva
-nateM
-.dorpsagoiB
-Summa
-klimatpåverkan
-ton CO2e
-tkeridnI
-Biogas till fjärrvärmeproduktion
-Inbindningkol gnindnävnA
-mals
-reilakimeK
-Figur 8 Jämförelse av Grundfallet
 år 2037 och fallet med rötning av
-slam där biogasen förbränns i en
+Lustgasavloppsrening                     slam där biogasen förbränns i en
 gaspanna med värmeproduktion.
 Verkningsgraden för gaspannan är
 antagen till 95 %.
-El
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
+Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
+Undvikna utsläpp            Tillförda utsläpp
+Lustgas avloppsrening
+
+Biogas till fjärrvärmeproduktion
+
+Inbindningkol El
+
+Nya anläggningen 2037
+● Biogas till värmeproduktion
+Summa
+(ersätter biobränsle för fjärr-
+klimatpåverkan
+värmeproduktion, ɳ=95%)
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
+16
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+Användning
+
+slam
+
+slam
+
+Kemikalier
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
+
+Biogasprod.
 
 <!-- sida 43 -->
 
@@ -1814,46 +1900,60 @@ och hantering av biokolet kräver mindre resurser än det rötade avloppsslammet
 i en klart högre nettoklimatpåverkan.
 
 Undvikna utsläpp           Tillförda utsläpp
-
-17
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol            gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp           Tillförda utsläpp
-Nya anläggningen 2037
-● Pyrolysanläggning med värmeproduktion
-istället för biogasproduktion
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-tkeriD                        Lustgas avlopps-
-rening
-tlatoT
-ppolva
-nateM
-Summa
-klimatpåverkan
-ton CO2e
-tkeridnI                           reilakimeK
 Figur 11 Jämförelse av Grundfallet
 år 2037 och fallet med pyrolys av
+Lustgasavloppsrening
 slam som genererar ett biokol som
 sprids på åkermark och överskotts-
 värme som nyttiggörs inom
 Kungsbackas fjärrvärmenät.
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
+Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+Undvikna utsläpp           Tillförda utsläpp
+Lustgas avlopps-
+rening
+
 Inbindningkol El
+
+Nya anläggningen 2037
+
+Summa                   ● Pyrolysanläggning med värmeproduktion
+klimatpåverkan
+istället för biogasproduktion
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+17
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+Kemikalier
+
+slam
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
 
 <!-- sida 44 -->
 
@@ -1864,46 +1964,61 @@ det renade vattnet kommer att innehålla mindre mängd läkemedelsrester som spr
 kostnad i form av extra kemikalieåtgång och större elkonsumtion. Totalt skulle de klimatpåverkande utsläppen öka med knappt 450 ton CO2e år
 2037 med läkemedelsrening.
 
+Undvikna utsläpp           Tillförda utsläpp                        Figur 12 Jämförelse av
+Grundfallet år 2037, utan
+Lustgasavloppsrening                      och med läkemedelsrening
+
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
+Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
 Undvikna utsläpp           Tillförda utsläpp
+Lustgas avloppsrening
+
+Inbindningkol Biogas El
+
+Nya anläggningen 2037
+
+Summa                ● Samma som grundfallet men
+klimatpåverkan
+inklusive läkemedelsrening
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
 
 18
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol            gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp           Tillförda utsläpp
-Nya anläggningen 2037
-● Samma som grundfallet men
-inklusive läkemedelsrening
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-tkeriD                        Lustgas avloppsrening
-tlatoT
-ppolva
-nateM
-.dorpsagoiB
-Summa
-klimatpåverkan
-ton CO2e
-tkeridnI                           gnindnävnA
-mals
-reilakimeK
-Figur 12 Jämförelse av
-Grundfallet år 2037, utan
-och med läkemedelsrening
-Inbindningkol Biogas El
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+sAlanvmändning
+
+Användning
+
+slam
+
+Kemikalier
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
+
+Biogasprod.
 
 <!-- sida 45 -->
 
@@ -3267,69 +3382,90 @@ Kungsbacka kommun     Tekniskt vatten - omvärldsbevakning       7
 
 <!-- sida 84 -->
 
-53525
-
-00972
-003
-
-003
-0573
-00891
-6500                      6100
-0019
-300                      300                      300                      300                      300                        300
-6100                     6100                     6100                      6500
-0001
-0019
-4600
-300
-4300
-0034
-0072
-0005
-003
-003
-300
-4025                         10000
-0005
-003
-003
-PUMPSTATION
-KONTAKTBASSÄNG,  OZON
-KONTAKTBASSÄNG,  OZON
-)TGISTUMS(
-,NETTAVLOPSKCAB
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-)TNER(
-,NETTAVLOPSKCAB
-RETLIFKAG
 HÄNVISNINGAR:
 SE RITNING P-40-2-101 FÖR SEKTIONER.
+53525
+
 B
-9725
+
+300                      300                      300                      300                      300                        300
+6500                      6100                     6100                     6100                     6100                      6500                             9725                        4600
+
+300
+4300
+
+PUMPSTATION
+
+300
+4025                         10000
+
+KONTAKTBASSÄNG,  OZON
+
 A                                                                                                                                                                                                                                         A
+KONTAKTBASSÄNG,  OZON
+
 B
+
 PLANVY
+
 SKALA  1:100
+
 0   1   2           5                  10                                                                                                           A1
+
 METER                                                                                                                                                   P-40-1-101            -
 1:100
+
+27900
+
+300
+
+19800
+
+300
+
+3750
+
+GAKFILTER BACKSPOLVATTEN, (SMUTSIGT)
+
+9100
+
+1000
+
+9100
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER BACKSPOLVATTEN, (RENT)
+
+5000
+
+5000
+
+2700
+
+4300
+
+300
+
+300
+
+300
+
+300
 
 [Tabell 84-1](handlingar.tabeller/84-1.csv)
 
@@ -3347,38 +3483,53 @@ METER                                                                           
 
 <!-- sida 85 -->
 
-006
-
-0004
-
-0006
-)0008(
-VY
-
-0001
-)0004(
-)00011(
-0095
-
-0002
 HÄNVISNINGAR:
 SE RITNING P-40-1-101 FÖR PLANVY.
+
+VY
+
 LÄNGDSEKTION       A-A
+
 BET ÄNDRINGEN AVSER        DATUM  SIGN
+
 HAMMARGÅRD        ARV
+
 GRANSKNINGSHANDLING
+
 MARKNIVÅ
+
 2592303   OSHE         JOCA
 TVÄRSEKTION      B-B
 2023-12-22 C. JENSEN
+
 HAMMARGÅRD  ARV
+
 LAYOUTRITNING
 LÄKEMEDELSRENING
 SKALA  1:100
 SEKTION A-A & B-B            FAS   0
 0   1   2           5                  10                                                                                                           A1
+
 METER                                                                                                                                                   P-40-2-101            -
 1:100
+
+4000
+
+600
+
+1000
+
+(4000)
+
+2000
+
+5900
+
+(11000)
+
+6000
+
+(8000)
 
 <!-- sida 86 -->
 
@@ -12635,8 +12786,6 @@ Justerare | Expedierat/bestyrkt
 
 <!-- sida 311 -->
 
-KUB1001, v2.0, 2013-02-20
-
 TJÄNSTESKRIVELSE
 
 Kommunstyrelsen
@@ -12704,11 +12853,12 @@ Telefon 0300-83 40 00
 Fax 0300-83 47 04
 
 kommun(Akungsbacka.se
+
 www. kungsbacka.se
 
-<!-- sida 312 -->
+KUB1001, v2.0, 2013-02-20
 
-uniForm KUB101 v 1.0, 2005-11-25
+<!-- sida 312 -->
 
 TJÄNSTESKRIVELSE
 
@@ -12780,6 +12930,8 @@ Fax 0300-83 47 04
 
 kommun(a kungsbacka.se
 www.kungsbacka.se
+
+uniForm KUB101 v 1.0, 2005-11-25
 
 <!-- sida 313 -->
 
@@ -13056,8 +13208,6 @@ AD Ah AA
 
 <!-- sida 318 -->
 
-KUB1001, v2.0, 2013-02-26
-
 TJÄNSTESKRIVELSE
 
 KUNGSBACKA KOMMUN
@@ -13120,6 +13270,8 @@ Fax 0300-83 47 04
 
 kommun(akungsbacka.se
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 319 -->
 
@@ -15440,8 +15592,6 @@ Förvaltningschef                   Verksamhetschef
 
 <!-- sida 371 -->
 
-uniForm KUB101 v 1.0, 2005-11-25
-
 TJÄNSTESKRIVELSE
 
 Organisation av färdtjänsten från 2009-01-01
@@ -15507,6 +15657,8 @@ Fax 0300-83 47 04
 
 kommun(Akungsbacka.se
 www.kungsbacka.se
+
+uniForm KUB101 v 1.0, 2005-11-25
 
 <!-- sida 372 -->
 
@@ -15868,19 +16020,14 @@ motsvarande.
 
 3 Avgiften i 2 § är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
+
 parkeringsavgifter i Kungsbacka.
 
-AZ AV INN tl
-
+i 3 Må YAN [>
 Teckenförklaring
 -— Föreskriftens utbredning
 
 <
-
-Hantverksgatan
-
-(5A)
-ä
 
 A
 
@@ -15891,8 +16038,9 @@ n n | | i 2 z i
 
 Denna författning träder i kraft den 8 april 2024 då Kungsbacka kommuns lokala
 trafikföreskrifter 1384 2023:00279 om parkering på Lilla Hantverksgatan skall
-
 upphöra att gälla.
+
+Hantverksgatan
 
 <!-- sida 384 -->
 
@@ -15929,20 +16077,19 @@ motsvarande.
 
 3 § Avgiften i 2 § är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
+
 parkeringsavgifter i Kungsbacka.
 
-Teckenförklaring
 -—  Föreskriftens utbredning
 
-(= NES
-
-Hantverksgatan
-
-(SA)
+ALA SD
+CA Teckenförklaring
 
 Denna författning träder i kraft den 8 april 2024 då Kungsbacka kommuns lokala
 trafikföreskrifter 1384 2023:00280 om parkering på Verkstadsgatan skall upphöra att
 gälla.
+
+Hantverksgatan
 
 <!-- sida 386 -->
 

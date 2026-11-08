@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6b3c9de619a7bbdb14110676/1763109230
 sha256: 46eb0cb58df4d1e43f9b04866ce8b19a022f7862fe2258c4fe4211dcedd34935
 bytes: 80181392
 sidor: 594
-hamtad: 2026-11-06T11:28:08+00:00
-konverterad: 2026-11-06T11:36:33+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T11:15:12+00:00
+konverterad: 2026-11-08T11:24:18+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -6480,11 +6480,15 @@ https://tyrens.sharepoint.com/sites/351958-SE-TYR/Shared Documents/G/MUR/351958 
 
 <!-- sida 142 -->
 
+Sida 1 av 11
+2025-10-17
 Bilaga 1 - Härledda värden
 
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 
+Odränerad  skjuvhållfasthet, c (kPa)
+u
 0     5     10   15    20    25    30    35    40    45
 +10,0
 
@@ -6503,12 +6507,10 @@ Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Sida 1 av 11
-2025-10-17
-Odränerad  skjuvhållfasthet, c (kPa)
-u
+
 25TY02 (Vb) 25TY02 (CONRAD) 25TY04 (CONRAD) GC-2 (Kon) GF4 (Vb) S-1 (Vb) 3 (Kon)
+
+Nivå
 
 <!-- sida 143 -->
 
@@ -6517,6 +6519,8 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 
+Naturlig vattenkvot, w (%)
+N
 0       20      40      60     80      100     120     140
 +10,0
 
@@ -6535,10 +6539,10 @@ Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Naturlig vattenkvot, w (%)
-N
+
 25TY02 (Rutin) 25TY04 (Rutin) GC-2 (Rutin) GF4 (Rutin) S-1 (Rutin) 3 (Rutin)
+
+Nivå
 
 <!-- sida 144 -->
 
@@ -6547,6 +6551,7 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 
+Densitet, ρ (t/m3)
 1,45       1,50        1,55       1,60       1,65       1,70
 +10,0
 
@@ -6565,9 +6570,10 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Densitet, ρ (t/m3)
+
 GC-2 (Rutin) 3 (Rutin)
+
+Nivå
 
 <!-- sida 145 -->
 
@@ -6576,6 +6582,8 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 
+Sensitivitet, S (-)
+t
 0       5       10      15      20      25      30      35
 +10,0
 
@@ -6594,10 +6602,10 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Sensitivitet, S (-)
-t
+
 GC-2 (Rutin) 3 (Rutin)
+
+Nivå
 
 <!-- sida 146 -->
 
@@ -6606,6 +6614,8 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 
+Konflytgräns, w (%)
+L
 0      20     40     60     80    100    120    140    160
 +10,0
 
@@ -6624,10 +6634,10 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Konflytgräns, w (%)
-L
+
 25TY02 (Rutin) 25TY04 (Rutin) GC-2 (Rutin) GF4 (Rutin) S-1 (Rutin) 3 (Rutin)
+
+Nivå
 
 <!-- sida 147 -->
 
@@ -6636,6 +6646,8 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 
+Permeabilitet, k (m/s)
+i
 0,E+00   5,E-10   1,E-09   2,E-09   2,E-09   3,E-09    3,E-09
 +10,0
 
@@ -6654,10 +6666,9 @@ Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Permeabilitet, k (m/s)
-i
 GC-2 (CRS) 3 (CRS)
+
+Nivå
 
 <!-- sida 148 -->
 
@@ -6666,6 +6677,7 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 
+Beta K (-)
 0,0        1,0        2,0        3,0        4,0        5,0
 +10,0
 
@@ -6684,9 +6696,9 @@ Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Beta K (-)
 GC-2 (CRS) 3 (CRS)
+
+Nivå
 
 <!-- sida 149 -->
 
@@ -6695,6 +6707,8 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 
+Kompressionsmodul,   M  (kPa)
+L
 0     100   200   300   400    500   600   700   800   900
 +10,0
 
@@ -6713,10 +6727,9 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Kompressionsmodul,   M  (kPa)
-L
 GC-2 (CRS) 3 (CRS)
+
+Nivå
 
 <!-- sida 150 -->
 
@@ -6725,6 +6738,7 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 
+Modultal, M' (-)
 0     2      4     6     8     10    12    14    16     18
 +10,0
 
@@ -6743,9 +6757,9 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Modultal, M' (-)
 GC-2 (CRS) 3 (CRS)
+
+Nivå
 
 <!-- sida 151 -->
 
@@ -6754,6 +6768,8 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 
+Förkonsolideringstryck, σ' (kPa)
+c
 0          50         100        150        200        250
 +10,0
 
@@ -6772,11 +6788,10 @@ Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Förkonsolideringstryck, σ' (kPa)
-c
 25TY02 (Empiri Vb) 25TY02 (CONRAD) 25TY04 (CONRAD) GC-2 (Empiri Kon) GC-2 (CRS)
 GF4 (Empiri Vb) S-1 (Empiri Vb) 3 (Empiri Kon) 3 (CRS)
+
+Nivå
 
 <!-- sida 152 -->
 
@@ -6785,6 +6800,8 @@ Bilaga 1 - Härledda värden
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 
+Gränstryck, σ' (kPa)
+L
 0        50       100      150       200      250      300
 +10,0
 
@@ -6803,10 +6820,9 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Gränstryck, σ' (kPa)
-L
 GC-2 (CRS) 3 (CRS)
+
+Nivå
 
 <!-- sida 153 -->
 
@@ -6877,19 +6893,23 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 
 <!-- sida 154 -->
 
-CPT-sondering  utförd enligt EN ISO 22476-1
-Förborrningsdjup 2,00 m
-Start djup 2,00 m
-Stopp djup 20,00 m
-Grundvattennivå 1,50 m
+Sida 2 av 12
+Bilaga 2 - Utvärdering CPT                            2025-10-17
 
-Portryck u, u , u (kPa)       Portrycksparameter B
-o                                   q
-0   1   2   3   4   5 0     20     40    60     0        500     0   5  10  15 0,0  0,5   1,0
+CPT-sondering  utförd enligt EN ISO 22476-1                           Projekt Arendalsleden
+Projekt nr 351958
+Förborrningsdjup 2,00 m  Referens   my          Vätska i filter Glycerin
+Plats  Kungsbacka
+Start djup 2,00 m        Nivå vid referens 4,86 m Borrpunktens koord.
+Borrhål 25TY02
+Stopp djup 20,00 m       Förborrat material Fyllning Utrustning Geotech 504
+Datum  2025 09 17 1221
+Grundvattennivå 1,50 m   Geometri   Normal      Sond nr     4231
+SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) Portryck u, u , u (kPa) FFrriikkttiioonnsskkvvoott RR ((%%)) Portrycksparameter B Lutning (grader)
+tt                  tt                    o                   fftt            q
+0   1   2   3   4   5 0     20     40    60     0        500     0   5  10  15 0,0  0,5   1,0 0 5  10
 0
-
 2
-
 4
 
 6
@@ -6907,24 +6927,11 @@ o                                   q
 18
 
 20                                                   Uo  U
-Djup
-(m)
-Sida 2 av 12
-Bilaga 2 - Utvärdering CPT                            2025-10-17
-Projekt Arendalsleden
-Projekt nr 351958
-Referens   my          Vätska i filter Glycerin
-Plats  Kungsbacka
-Nivå vid referens 4,86 m Borrpunktens koord.
-Borrhål 25TY02
-Förborrat material Fyllning Utrustning Geotech 504
-Datum  2025 09 17 1221
-Geometri   Normal      Sond nr     4231
-SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) FFrriikkttiioonnsskkvvoott RR ((%%)) Lutning (grader)
-tt                  tt                                        fftt
-0   5  10
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 2025-10-09
+
+D jup (m )
 
 [Tabell 154-1](handlingar.tabeller/154-1.csv)
 
@@ -6942,18 +6949,23 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 
 <!-- sida 155 -->
 
-Referens  my          Förborrningsdjup 2,00 m
-Nivå vid referens 4,86 m Förborrat material Fyllning
+Sida 3 av 12
+Bilaga 2 - Utvärdering CPT                            2025-10-17
+
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Referens  my          Förborrningsdjup 2,00 m Utvärderare Axel Barrdahl
+Plats  Kungsbacka
+Nivå vid referens 4,86 m Förborrat material Fyllning Datum för utvärdering 2025-09-22
+Borrhål 25TY02
 Grundvattenyta 1,50 m Utrustning Geotech 504
+Datum  2025 09 17 1221
 Startdjup 2,00 m      Geometri  Normal
-
-Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o)
-fu
-Klassificering 0 10 20 30 40 50 60 0   5  10  15
+Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)
+fu                               D
+Klassificering 0 10 20 30 40 50 60 0   5  10  15 0  5   10  15  200,000    0,005    0,010
 0
-
 2
-
 4
 
 6
@@ -6969,21 +6981,10 @@ Klassificering 0 10 20 30 40 50 60 0   5  10  15
 16
 
 18
-Djup
-(m)
-Sida 3 av 12
-Bilaga 2 - Utvärdering CPT                            2025-10-17
-CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
-Projekt nr 351958
-Utvärderare  Axel Barrdahl
-Plats  Kungsbacka
-Datum för utvärdering 2025-09-22
-Borrhål 25TY02
-Datum  2025 09 17 1221
-Relativ lagringstäthet I (%) Modul (MPa)
-D
-0   5   10  15  200,000    0,005    0,010
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09
+
+D jup (m )
 
 [Tabell 155-1](handlingar.tabeller/155-1.csv)
 
@@ -7027,18 +7028,23 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09
 
 <!-- sida 156 -->
 
-Referens  my          Förborrningsdjup 2,00 m
-Nivå vid referens 4,86 m Förborrat material Fyllning
-Grundvattenyta 1,50 m Utrustning Geotech 504
-Startdjup 2,00 m      Geometri  Normal
+Sida 4 av 12
+Bilaga 2 - Utvärdering CPT                            2025-10-17
 
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Referens  my          Förborrningsdjup 2,00 m Utvärderare Axel Barrdahl
+Plats  Kungsbacka
+Nivå vid referens 4,86 m Förborrat material Fyllning Datum för utvärdering 2025-09-22
+Borrhål 25TY02
+Grundvattenyta 1,50 m Utrustning Geotech 504
+Datum  2025 09 17 1221
+Startdjup 2,00 m      Geometri  Normal
 Effektivtryck (kPa)                      Odränerad skjuvhållfasthet  (kPa)
 fu
 Klassificering 0   50       100       150       200      250      0   10 20  30  40  50  60
 0
-
 2
-
 4
 
 6
@@ -7054,18 +7060,10 @@ Klassificering 0   50       100       150       200      250      0   10 20  30 
 16
 
 18
-Djup
-(m)
-Sida 4 av 12
-Bilaga 2 - Utvärdering CPT                            2025-10-17
-CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
-Projekt nr 351958
-Utvärderare  Axel Barrdahl
-Plats  Kungsbacka
-Datum för utvärdering 2025-09-22
-Borrhål 25TY02
-Datum  2025 09 17 1221
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09
+
+D jup (m )
 
 [Tabell 156-1](handlingar.tabeller/156-1.csv)
 
@@ -7302,19 +7300,23 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 
 <!-- sida 160 -->
 
-CPT-sondering  utförd enligt EN ISO 22476-1
-Förborrningsdjup 3,00 m
-Start djup 3,00 m
-Stopp djup 20,00 m
-Grundvattennivå 1,50 m
+Sida 8 av 12
+Bilaga 2 - Utvärdering CPT                            2025-10-17
 
-Portryck u, u , u (kPa)       Portrycksparameter B
-o                                   q
-0,0 0,2 0,4 0,6 0,8 1,0 0 5  10  15  20  25  0         500       0   2   4   6 0,0 0,5 1,0 1,5
+CPT-sondering  utförd enligt EN ISO 22476-1                           Projekt Arendalsleden
+Projekt nr 351958
+Förborrningsdjup 3,00 m  Referens   my          Vätska i filter Glycerin
+Plats  Kungsbacka
+Start djup 3,00 m        Nivå vid referens 5,07 m Borrpunktens koord.
+Borrhål 25TY04
+Stopp djup 20,00 m       Förborrat material Fyllning Utrustning Geotech 504
+Datum  2025 09 17 1029
+Grundvattennivå 1,50 m   Geometri   Normal      Sond nr     4231
+SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) Portryck u, u , u (kPa) FFrriikkttiioonnsskkvvoott RR ((%%)) Portrycksparameter B Lutning (grader)
+tt                  tt                    o                   fftt            q
+0,0 0,2 0,4 0,6 0,8 1,0 0 5  10  15  20  25  0         500       0   2   4   6 0,0 0,5 1,0 1,5 0 5 10
 0
-
 2
-
 4
 
 6
@@ -7332,24 +7334,11 @@ o                                   q
 18
 
 U
-Djup
-(m)
-Sida 8 av 12
-Bilaga 2 - Utvärdering CPT                            2025-10-17
-Projekt Arendalsleden
-Projekt nr 351958
-Referens   my          Vätska i filter Glycerin
-Plats  Kungsbacka
-Nivå vid referens 5,07 m Borrpunktens koord.
-Borrhål 25TY04
-Förborrat material Fyllning Utrustning Geotech 504
-Datum  2025 09 17 1029
-Geometri   Normal      Sond nr     4231
-SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) FFrriikkttiioonnsskkvvoott RR ((%%)) Lutning (grader)
-tt                  tt                                        fftt
-0   5  10
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 2025-10-09
+
+D jup (m )
 
 [Tabell 160-1](handlingar.tabeller/160-1.csv)
 
@@ -7367,18 +7356,23 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 
 <!-- sida 161 -->
 
-Referens  my          Förborrningsdjup 3,00 m
-Nivå vid referens 5,07 m Förborrat material Fyllning
+Sida 9 av 12
+Bilaga 2 - Utvärdering CPT                            2025-10-17
+
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Referens  my          Förborrningsdjup 3,00 m Utvärderare Axel Barrdahl
+Plats  Kungsbacka
+Nivå vid referens 5,07 m Förborrat material Fyllning Datum för utvärdering 2025-09-22
+Borrhål 25TY04
 Grundvattenyta 1,50 m Utrustning Geotech 504
+Datum  2025 09 17 1029
 Startdjup 3,00 m      Geometri  Normal
-
-Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o)
-fu
-Klassificering 0 5 10 15 20 25  30 0   5  10  15
+Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)
+fu                               D
+Klassificering 0 5 10 15 20 25  30 0   5  10  15 0  5   10  15  200,000    0,005    0,010
 0
-
 2
-
 4
 
 6
@@ -7394,21 +7388,10 @@ Klassificering 0 5 10 15 20 25  30 0   5  10  15
 16
 
 18
-Djup
-(m)
-Sida 9 av 12
-Bilaga 2 - Utvärdering CPT                            2025-10-17
-CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
-Projekt nr 351958
-Utvärderare  Axel Barrdahl
-Plats  Kungsbacka
-Datum för utvärdering 2025-09-22
-Borrhål 25TY04
-Datum  2025 09 17 1029
-Relativ lagringstäthet I (%) Modul (MPa)
-D
-0   5   10  15  200,000    0,005    0,010
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09
+
+D jup (m )
 
 [Tabell 161-1](handlingar.tabeller/161-1.csv)
 
@@ -7464,18 +7447,23 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09
 
 <!-- sida 162 -->
 
-Referens  my          Förborrningsdjup 3,00 m
-Nivå vid referens 5,07 m Förborrat material Fyllning
-Grundvattenyta 1,50 m Utrustning Geotech 504
-Startdjup 3,00 m      Geometri  Normal
+Sida 10 av 12
+Bilaga 2 - Utvärdering CPT                            2025-10-17
 
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Referens  my          Förborrningsdjup 3,00 m Utvärderare Axel Barrdahl
+Plats  Kungsbacka
+Nivå vid referens 5,07 m Förborrat material Fyllning Datum för utvärdering 2025-09-22
+Borrhål 25TY04
+Grundvattenyta 1,50 m Utrustning Geotech 504
+Datum  2025 09 17 1029
+Startdjup 3,00 m      Geometri  Normal
 Effektivtryck (kPa)                      Odränerad skjuvhållfasthet  (kPa)
 fu
 Klassificering 0 20      40     60      80      100    120     140 0  5  10  15  20  25  30
 0
-
 2
-
 4
 
 6
@@ -7491,18 +7479,10 @@ Klassificering 0 20      40     60      80      100    120     140 0  5  10  15 
 16
 
 18
-Djup
-(m)
-Sida 10 av 12
-Bilaga 2 - Utvärdering CPT                            2025-10-17
-CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
-Projekt nr 351958
-Utvärderare  Axel Barrdahl
-Plats  Kungsbacka
-Datum för utvärdering 2025-09-22
-Borrhål 25TY04
-Datum  2025 09 17 1029
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09
+
+D jup (m )
 
 [Tabell 162-1](handlingar.tabeller/162-1.csv)
 
@@ -8833,9 +8813,26 @@ Uppdragsnr: 53 010
 fn f€3
 no to of
 
-Densitet] Vatten- I Konflyt- | Sensiti- | Skjuvhållfasthet | Omrörd | Korrekt.
+HIS AM INS
+
+rv
+
+I
+Ö
+
+21
+
+\-
+
+före Al
+
+komp = komp
+
+pack = pack
+
+Densitet | Vatten- I Konflyt- | Sensiti- | Skjuvhållfasthet | Omrörd | Korrekt.
 Sektion/borrhål Benämni p kvot gräns |vitetenl.| = (oreducerad) | skjuvhållt | faktor A
-Djup/nivå ensmning um? | w I wi Tkonprov] = ukPa”) kP 1sal -
+Djup/nivå ensmning Um? w wi | konprov sukPa”) kP. isl -
 Ya YH S, Tryckprov | Konprov a en
 3
 1,57
@@ -8849,7 +8846,7 @@ Ya YH S, Tryckprov | Konprov a en
 1,52
 1,53
 5,0 Grå LERA 1,55 85 68 26 14 0,55 0,81
-NH 1,52
+. 1,52
 1,48
 6,0 Grå sulfidfl LERA 1,49 97 74 22 12 0,54 0,78
 1,49
@@ -8868,32 +8865,30 @@ NH 1,52
 1,58
 15,0 Grå sulfidfl LERA 1,61 73 68 17 27 1,55 0,81
 1,61
-är dda för Kat av gi ”) Skjuvhåltfastheten, karakteristiskt värde, har utvärderats enl. SGF.s
+Lediga kol är dda för Kat av sp d gi ”) Skjuvhållfastheten, karakteristiskt värde, har utvärderats enl. SGF.s
 Nedanstående förkortningar kan t.ex. användas: laboratoriiekommitté 1984.
-= direkta skjuvförsök Kom = kornfördelning Skjuvhållfastheten har ej reducerats med hänsyn till gyttjehalt eller
-försök — pack = packningsförsök konflytaräns.
+Skj — = direkta skjuvförsök — kom = komfördelning Skjuvhållfastheten har ej reducerats med hänsyn till gyttjehalt eller
 
-HIS AM INS
+konflytgräns.
 
 dexyspesBuuBernosg
-
-L
-
-\-
 
 ONINDVYLAOHd
 
 £L OP OF-1£0 XV 33731 '00 OS SEC > 10 NO23731
+
 OHOSALOSD 22 ZOP '9905 XO8 '4V LINSNON 40
 
 Sv IVISNOX
-Ad
 
 08-80-000Z :wunied
 
 UOSSIIN HeEUUBT 'IS6.10jeHOJB10geT]
+
 SO-70-0008 USp PUEMPOD
+
 LINASNODIVIGNVDS
+
 UVSNINMOSHJONN3IHOLVHOSVT
 
 Bespddny
@@ -8901,6 +8896,7 @@ Bespddny
 JusBespddny) / ]
 
 seb.og
+
 exyseqsBbuny
 
 AB BuUtul|BISUBLUILUBS
@@ -8927,64 +8923,41 @@ Ul "18 JuYasuejd 'Julleqe.r
 
 <!-- sida 209 -->
 
-BILNR JS7 7
+BILNR SZ
 
 ÖDOMETERRESULTAT U-NR
-
-DATUM 2000-04-05
-
-CONSTANT RATE OF STRAIN
-
-STGN
-
+CONSTANT RATE OF STRAIN DATUM 2000-04-05
+SIGN
 BORRPLATS: BORGÅS
-SEKT/BORRHÅL : 3
-
-80
-
-160
-
-DJUP: 6.00 M
-
+SEKT/BORRHÅL : 3 DJUP: 6.00 M
 NORMALSPÄNNING KPA
-240 | 320 | 400 | 480 | 560 . 640
-
-0
-8000
-76001
-72001
-6800+
+0 80 160 240 320 400 480 560 640
+8000 + + + + + + + t + + + + t + 40
+7600+
+7200 r r
+135
+6800+ r
 6400 +
-6000 +
+6000 + 130
 5600 +
-
-5200-+
+5200+
+25
+0+
+15
+0+ -
+24001
+20007 +10
+16007 AA
+ir
+1200+-+ : I
+Food 5
+800 4 M I
+400 +
+0 + 0
 
 2 KOMPR. MODUL KPA &
 
-ra
-Bb
-f-
-Oo
-
-2000
-
-160901
-
-1200+
-
-800 1
-
-400 +
-
-+30
-
-25
-
 PORTRYCK KPA
-
-t
-un
 
 <!-- sida 210 -->
 
@@ -8995,7 +8968,6 @@ un
 <!-- sida 213 -->
 
 ÖDOMETERRESULTAT
-
 CONSTANT RATE OF STRAIN
 
 BIL NR 3-://
@@ -9007,65 +8979,56 @@ DATUM 2000-04-05
 STCN
 
 BORRPLATS:
-SEKT/BORRHÅL : 3
 
 BORGÅS
+SEKT/BORRHÅL : 3
 
 DJUP: 10.00 M
 NORMALSPÄNNING KPA
 
-480 560
-
-640
-
-40
-
-0
-8000
-
+0 80 160 240 320 400 480 560 640
+8000 + + + + + + + + + t + 40
 7600+
 72001
-6800+
-6400+
-6000+
-
-56001
-
-S5S200+
-
-3 KOMPR. MODUL KPA &
-
-ru
-\>
-O
-Oo
-
-2000 +
-
-160071
-
-120017
-
-800 +
-
-80
-
-160
-
-240 320 400
-
-PORTRYCK KPA
-
-\+
-an
 
 35
-
-130
+6800+
+6400+
+6000+ 130
+5600 +
+S200+
 
 25
 
-+10
+0\) -
+
+15
+
+ot L
+
+NA
+24007 , +
+\+ +
+\+ +
+2000; + + +10
+\+ +
+\+
+\+
+1600+ 7?
+\+ +
+\+
+\+
+1200+-,4 i I
+\+ + S
+\+
+800 + + I
+\+
+400
+0
+
+3 KOMPR. MODUL KPA &
+
+PORTRYCK KPA
 
 <!-- sida 214 -->
 
@@ -10696,21 +10659,19 @@ Djup/nivå Um w Po ös kPa ön Vv m/s m/s Bk
 
 BIL NR 3:24
 
-RAMBOLL
-
-ÖDOMETERRESULTAT U-NR
+RAMBOLL UDOMETERRESULTAT U-NR
 
 Ramböll Sverige AB
 
 Vädursgatan 6 DATUM 2007-02-16
 
-Box 5343
-
 CONSTANT RATE OF STRAIN
 
-402 27 GÖTEBORG SIGN
+Box 5343
 
 Tfn 031-335 33 00
+
+402 27 GÖTEBORG SIGN
 
 BORRPLATS : KUNGSBACKA HEDE NV
 SEKT/BORRHÅL : 3 DJUP: 6.00 M
@@ -10718,38 +10679,28 @@ JORDART: LERA
 
 VATTENKVOT FÖRE PROVNING: 92.0 PROC. DENSITET: 1.50 T/M3
 ÖDOMETER NR 4 BELASTNINGSTID: 40.3 H
-PROVHÖJD: 20.0 MM PROVDIAMETER : 30.0 MM
+PROVHÖJD: 20.0 MM PROVDIAMETER : 50.0 MM
 DEF-HAST: 0. 0024 MM/MIN PROC. AV PROVHÖJD: 0.012
 NORMALSPÄNNING KPA
 0 80 160 240 320 400 480 560 640
-0 4 + + + + + + + + + + + + + +10-5
+0 4 + + + + + + + + + + + : +10-5
 UTVÄRDERING
 Förkonsolideringstryck ö'G 50 kPa
 Kompressionsmodul Mi, 15 kPa
-5\. Gränstryck or 57 kPa
+Gränstryck o', 57 kPa
 Modultal M' "2
 Konsolideringskoefficient = Cy 25-08 m/s
 Initiell permeabilitet k; 16-09 m/s
 Permeabilitetsfaktor Br 25
 ==10-6
+CN a
+T!0-8
+DEF I
+5 0] +
 
 DEFORMATION Z-
 
-[AS
-
-0+
-
-ct
-
-30+
-
-DEF
-
-35 +
-
 KONS .-KOEFFICIENT CV  MxM/S
-
-T!0-8
 
 <!-- sida 285 -->
 
@@ -11333,11 +11284,14 @@ https://tyrens.sharepoint.com/sites/351958-SE-TYR/Shared Documents/G/PM/PM Geote
 
 <!-- sida 306 -->
 
-Bilaga 1 - Valda värden
+Sida 1 av 1
+Bilaga 1 - Valda värden             2025-11-03
 
 Uppdrag:  Arendalsleden förstudie fyra körfält Uppdragsnummer: 351958
 Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 
+Odränerad  skjuvhållfasthet, c (kPa)
+u
 0     5    10    15    20    25    30    35   40    45
 +10,0
 
@@ -11356,23 +11310,16 @@ Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 -25,0
 
 -30,0
-åviN
-Sida 1 av 1
-2025-11-03
-Odränerad  skjuvhållfasthet, c (kPa)
-u
 25TY02 (Vb)  25TY02 (CONRAD) 25TY04 (CONRAD) GC-2 (Kon)
 GF4 (Vb)     S-1 (Vb)    3 (Kon)     Valt värde
 
+Nivå
+
 <!-- sida 307 -->
 
-1,29
-
--5        0         5        10        15       20        25        30        35        40       45
-Avstånd
-åviN
 Bilaga 2 - Stabilitetsberäkningar                                               Sida 1 av 7
 2025-11-03
+
 Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
 Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
 (kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
@@ -11390,25 +11337,33 @@ Typ av analys: Morgenstern-Price
 PWP Conditions Source: Piezometric surface
 Skala: 1:200 (A3)
 Datum: 2025-10-17
+1,29
 BERÄKNING:
 1.2 Befintliga förhållanden Odränerad analys
 GC 5 kPa       Väg 20 kPa
+
 5
+
 0
+
 -5
+
 -10
+
 -15
+
 -20
+
 -25
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+
+Nivå
 
 <!-- sida 308 -->
 
-1,33
-
--5        0         5        10        15       20        25        30        35        40       45
-Avstånd
-åviN
 Color Name     Slope Stability Material Model Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric
 Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface
 (kN/m³) (kPa) Angle (°) ((kN/m²)/m)   ((kN/m²)/m) (m)
@@ -11425,25 +11380,32 @@ Beräkningsmetod: Partialkoefficienter/Totalsäkerhet
 Typ av analys: Morgenstern-Price
 PWP Conditions Source: Piezometric surface
 Skala: 1:200 (A3)
-Datum: 2025-10-17
+Datum: 2025-10-17                                                       1,33
 BERÄKNING:
 1.1.0.1 Befintliga förhållanden Kombinerad analys (75% TL)
+
 5
+
 0
+
 -5
+
 -10
+
 -15
+
 -20
+
 -25
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+
+Nivå
 
 <!-- sida 309 -->
 
-1,36
-
--5        0         5        10        15       20        25        30        35        40       45
-Avstånd
-åviN
 Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
 Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
 (kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
@@ -11461,25 +11423,32 @@ PWP Conditions Source: Piezometric surface
 Skala: 1:200 (A3)
 Datum: 2025-10-17
 BERÄKNING:
-2.2 Utbyggda förhållanden (2+2) odränerad analys (UÅ)
+2.2 Utbyggda förhållanden (2+2) odränerad analys (UÅ)             1,36
+
 Väg 20 kPa
 GC 5 kPa
 5
+
 0
+
 -5
+
 -10
+
 -15
+
 -20
+
 -25
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+
+Nivå
 
 <!-- sida 310 -->
 
-1,37
-
--5        0         5        10        15       20        25        30        35        40       45
-Avstånd
-åviN
 Color Name     Slope Stability Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric
 Material Model Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface
 (kN/m³) (kPa) Angle (°) ((kN/m²)/m)   ((kN/m²)/m) (m)
@@ -11499,22 +11468,30 @@ Skala: 1:200 (A3)
 Datum: 2025-10-17
 BERÄKNING:
 2.1.0.1 Utbyggda förhållanden (2+2) kombinerad analys (UÅ) (75% TL)
+1,37
+
 5
+
 0
+
 -5
+
 -10
+
 -15
+
 -20
+
 -25
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+
+Nivå
 
 <!-- sida 311 -->
 
-1,38
-
--5        0         5        10        15       20        25        30        35        40       45
-Avstånd
-åviN
 Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
 Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
 (kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
@@ -11535,25 +11512,31 @@ Vägbyggnad Mohr-Coulomb 20                     0      42   1
 Skala: 1:200 (A3)
 Datum: 2025-10-17
 BERÄKNING:
-2.2.1 Utbyggda förhållanden (2+2) odränerad analys (LK)
+2.2.1 Utbyggda förhållanden (2+2) odränerad analys (LK)           1,38
 Väg 20 kPa
 GC 5 kPa
 5
+
 0
+
 -5
+
 -10
+
 -15
+
 -20
+
 -25
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+
+Nivå
 
 <!-- sida 312 -->
 
-1,38
-
--5        0         5        10        15       20        25        30        35        40       45
-Avstånd
-åviN
 Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
 Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
 (kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
@@ -11571,25 +11554,32 @@ PWP Conditions Source: Piezometric surface                                      
 Skala: 1:200 (A3)                                                                    Vägbyggnad Mohr-Coulomb 20                     0      42   1
 Datum: 2025-10-17
 BERÄKNING:
-2.2.1 Utbyggda förhållanden (2+2) odränerad analys (HP)
+2.2.1 Utbyggda förhållanden (2+2) odränerad analys (HP)           1,38
 Väg 20 kPa
 GC 5 kPa
+
 5
+
 0
+
 -5
+
 -10
+
 -15
+
 -20
+
 -25
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+
+Nivå
 
 <!-- sida 313 -->
 
-1,41
-
--5        0         5        10        15       20        25        30        35        40       45
-Avstånd
-åviN
 Color Name   Slope Stability Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric
 Material Model Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface
 (kN/m³) (kPa) Angle (°) ((kN/m²)/m) ((kN/m²)/m) (m)
@@ -11609,16 +11599,28 @@ komb (datum)(25) S=f(datum)
 PWP Conditions Source: Piezometric surface
 Skala: 1:200 (A3)                                                             Vägbyggnad Mohr-Coulomb 20 0 42                                    1
 Datum: 2025-10-17
+1,41
 BERÄKNING:
 2.1.1.1 Utbyggda förhållanden (2+2) kombinerad analys (LK) (75% TL)
 5
+
 0
+
 -5
+
 -10
+
 -15
+
 -20
+
 -25
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
+
+Nivå
 
 <!-- sida 314 -->
 
@@ -12501,35 +12503,19 @@ omhändertas.
 
 ARBETEN MED SÄRSKILD RISK SOM KOMMER ATT FÖREKOMMA     FÖREKOMMER
 
-)
-§21
-
-.pak
-
-11
-3:3202
-
-SFA
-
-tgilne(
-
-ksir
-
-dliksräs
-
-dem
-netebrA
 1\. Arbete med risk för fall till lägre nivå med nivåskillnad mer än två ☒
 meter
 2\. Arbete som innebär risk att begravas under jordmassor eller ☒
 sjunka ner i lös mark
 3\. Arbete med lansering, montering eller nedmontering av tunga ☒
 byggelement eller tunga formbyggnadselement
+
 4\. Arbete som kan medföra exponering för kemiska och biologiska ☒
 ämnen
 5\. Arbete med rivning av bärande konstruktioner eller hälsofarliga ☒
 material eller ämnen
-☐ 6. Arbete i närheten av högspänningsledningar
+☐
+6\. Arbete i närheten av högspänningsledningar
 ☒
 7\. Arbete på plats eller område med passerande fordonstrafik
 ☐
@@ -12538,26 +12524,21 @@ material eller ämnen
 9\. Arbete i brunnar eller tunnlar samt anläggningsarbete under jord
 ☒
 10\. Arbete med risk för att drunkna
-☐ 11. Arbete som utförs under vatten med dykarutrustning
+☐
+11\. Arbete som utförs under vatten med dykarutrustning
 ☐
 12\. Arbete som utförs i en kassun under förhöjt lufttryck
 ☐
 13\. Arbete som kan medföra exponering för joniserande strålning
+
+Arbeten med särskild risk (enligt AFS 2023:3 11 kap. 12§ )
 
 <!-- sida 343 -->
 
 FÖREKOMMER
 ARBETEN MED SÄRSKILD RISK SOM KOMMER ATT FÖREKOMMA
 
-sandromas
-
-revöheb
-
-mos
-
-reksiröjlimstebra
-
-agirvÖ
+Övriga arbetsmiljörisker som behöver samordnas
 
 [Tabell 343-1](handlingar.tabeller/343-1.csv)
 
@@ -13417,13 +13398,102 @@ NY GCM-BRO 3.6
 
 FF
 
+L
+
+UD
+D
+
+1\.
+
+BREDDAD BRO 14
+
+K-
+
+NN
+
 VÄG 14.5
 
 CA 35
 
 CA 54
 
-BET | ANT ÄNDRINGEN AVSER DATUM SIGN
+BET | ANT
+
+ÄNDRINGEN AVSER
+
+DATUM
+
+SIGN
+
+ARENDALSLEDEN
+
+FÖRSTUDIE
+
+så TYRENS
+
+UPPDRAG NR
+
+351958
+
+RITAD AV
+
+HL
+
+HANDLÄGGARE
+
+DATUM
+
+2025-10-24
+
+ANSVARIG
+
+SEKTIONER, HELA TRAFUKRUMMET
+
+2+2 VÄG
+
+ALTERNATIV 1
+
+SKALA
+
+1:200
+
+NUMMER
+
+| BET
+
+lotted: 2025-11-12 13:41:07 by Henry Larsson
+
+Path: 0O:YGBGN351958NTNYModellYSektioner.dwg
+
+<!-- sida 374 -->
+
+<!-- sida 375 -->
+
+FG - F6
+BB
+TR
+LV 2 vr |
+SEKTION A-A
+2+1 VÄG t t
+\- o , CA 92 |
+VÄSTER OM KUNGSBACKAÅN | 7
+i - LES
+SEKTION B-B SEKTION B-B
+24 VÄG NY GCM-BRO 3.6 j BEFINTLIG BRO 13 ) 24 VÄG ) BREDDAD BRO 14.5 )
+BRO ÖVER KUNGSBACKAÅN BRO ÖVER KUNGSBACKAÅN
+ALTERNATIV 2a ALTERNATIV 2b
+
+SEKTION C=C Fr —
+2+1 VÄG SSE
+ÖSTER OM KUNGSBACKAÅN
+
+VÄG 135
+
+CA 35
+
+CA 54
+
+1 1 BET | ANT ÄNDRINGEN AVSER DATUM SIGN
 
 ARENDALSLEDEN
 FÖRSTUDIE
@@ -13439,102 +13509,21 @@ DATUM ANSVARIG
 2025-10-24
 
 SEKTIONER, HELA TRAFUKRUMMET
-2+2 VÄG
-ALTERNATIV 1
+2+1 VÄG
+ALTERNATIV 2a OCH 2b
 
 SKALA NUMMER | BET
 
 1:200 ee
 
-lotted: 2025-11-12 13:41:07 by Henry Larsson
-Path: 0O:YGBGN351958NTNYModellYSektioner.dwg
-
-P
-
-ee
-
-<!-- sida 374 -->
-
-<!-- sida 375 -->
-
-FG - F6
-BS
-TR
-| 2 ör |
-SEKTION A-A
-2+1 VÄG t 9 t
-\- o L L
-VÄSTER OM KUNGSBACKAÅN ” ”
-i - LES
-SEKTION B-B SEKTION B-B
-24 VÄG NY GCM-BRO 3.6 j BEFINTLIG BRO 13 L 24 VÄG ) BREDDAD BRO 14.5 )
-
-BRO ÖVER KUNGSBACKAÅN
-ALTERNATIV 2a
-
-SEKTION C-C
-
-2+1 VAG
-ÖSTER OM KUNGSBACKAÅN
-
-VÄG 135
-
-CA 35
-
-BRO ÖVER KUNGSBACKAÅN
-ALTERNATIV 2b
-
-CA 54
-
-BET | ANT
-
-ÄNDRINGEN AVSER DATUM SIGN
-
-ARENDALSLEDEN
-
-FÖRSTUDIE
-
-så TYRENS
-
-UPPDRAG NR
-
-351958
-
-RITAD AV HANDLÄGGARE
-
-HL
-
-DATUM
-
-2025-10-24
-
-ANSVARIG
-
-SEKTIONER, HELA TRAFUKRUMMET
-
-2+1 VÄG
-
-ALTERNATIV 2a OCH 2b
-
-SKALA
-
-1:200
-
-NUMMER | BET
-
 lotted: 2025-11-12 13:40:36 by Henry Larsson
 
 Path: 0O:YGBGN351958NTNYModellYSektioner.dwg
 
-P
-
-ee
-
 <!-- sida 376 -->
 
 TYPSEKTION A-A
-
-2+1 VAG
+2+1 VÄG
 VÄSTER OM KUNGSBACKAÅN
 
 TYPSEKTION B-=B
@@ -13549,106 +13538,93 @@ TYPSEKTION C-C
 2+1 VAG
 ÖSTER OM KUNGSBACKAÅN
 
+2 KÖRBANA 3.5 REFUG 2, KÖRBANA 35
+
+KÖRBANA 3,5 0.5
+L pk
+
 FG
+
+6
+
 FG
-\- |
-EVENTUELL | i |
-06 3 2 I 6 05 KÖRBANA 35 — REFUG 2, KÖRBANA 35  KÖRBANA 35 05 6 |
-1 7 1 1 17 1 1 1 17 1
-DKE 260 135 | DIKE 3.1
-1 1 1 1 1 1
+| to
+EVENTUELL
+06 GC 3 | 2 | 6
+1-7 1 1
+| DIKE 2.6 |
+1 1
 
 \|
 
-NY GCM-BRO 3.6 |
+0\.
+L
+TT
+L
+
+7 7 7
+13.5
+
+17
+
+1
+
+NY GCM-BRO 36 KÖRBANA 3,5
 
 , KÖRBANA 3.5 ,REFUG 2; KÖRBANA 3,5
 
-, KÖRBANA 3,5
-
-1 1 1
-
-1
-
-1
+1 1 1 1
 BEFINTLIG BRO 73
-
-CA 4 CA 35
 
 KUNGSBACKAÅN
 
 BEFINTLIGT TRÄD
 
-TYPSEKTION B-=B
-
-2+1 VAG
+TYPSEKTION B=EB
+2+1 VÄG
 
 BRO ÖVER KUNGSBACKAÅN
 ALTERNATIV 2b
 
-05 KÖRBANA 3,5 REFUG 2, KÖRBANA 3,5 ,
+06 GCI CA 4 , CA 35 05 KORBANA 3,5 REFUG 2, KÖRBANA 3,5 , KÖRBANA 3,5 05
+TT 7 7 TT 7 7 7 17
+. 13.5 4
+, BEF. GC, BEFINTLIG VÄG ,
+7 7 7
 
-KÖRBANA 35 0.5
-LF
+J
+\|
 
-1 17
-
-1
-
-A
-13.5
-
-1 17
-AS
-
-BEFINTLIG VÄG |
-
-1
-
-| KÖRBANA 3,5
-
-| KÖRBANA 3.5
+DIKE 31
 
 GC 3 REFUG 1 KÖRBANA 3.5
-1
-BREDDAD BRO 14.5
 
+| KÖRBANA 3,5 | KÖRBANA 3.5
+
+\+ 1 +
+| BREDDAD BRO 145 |
+1 1
 KUNGSBACKAÅN
-
 FG
-
-BET | ANT ÄNDRINGEN AVSER DATUM SIGN
-
-BEFINTLIGT TRÄD!
-
-ARENDALSLEDEN
+BEFINTLIGT TRÄD! -
+BET ANT ANDRINGEN AVSER DATUM SIGN
 FÖRSTUDIE
-
-BEFINTLIGT DIKE
-
-så TYRENS
-
+BEFINTLIGT DIKE 8.
+sve
+Ö
 UPPDRAG NR RITAD AV HANDLÄGGARE
-
 351958 HL
-
 DATUM ANSVARIG
-
 2025-10-24
-
 TYPSEKTIONER
 2+1 VÄG
 ALTERNATIV 2a OCH 2b
-
 SKALA NUMMER | BET
-
-1:100 ee
+1:100 -—-
 
 lotted: 2025-11-12 13:41:42 by Henry Larsson
 
 Path: 0O:YGBGN351958NTNYModellYSektioner.dwg
-
-P
 
 <!-- sida 377 -->
 

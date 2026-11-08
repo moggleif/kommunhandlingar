@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4a1683f319957f8b68c4024a/1758263545
 sha256: 6998a3ff1f34913c984908eff01ed12be9be74d7b4563b4ee117197bea96cfbf
 bytes: 145383386
 sidor: 607
-hamtad: 2026-11-06T11:22:58+00:00
-konverterad: 2026-11-06T11:28:01+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T11:08:57+00:00
+konverterad: 2026-11-08T11:15:04+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
@@ -18503,15 +18503,14 @@ Sydöstra Centrum ligger strategiskt med 5 minuters promenad till Kungsbacka res
 stenkast från innerstadens utbud.
 
 N 6374438
-
+0            200            400           600m
 Skala 1:5 000, SWEREF 99 TM, RH 2000.
 7
 Gestaltningsprogram Sydöstra centrum
-281423
-E
-771623
-E
-0            200            400           600m
+
+E 324182
+
+E 326177
 
 <!-- sida 453 -->
 
@@ -18721,57 +18720,36 @@ Gestaltningsprogram Sydöstra centrum
 
 <!-- sida 457 -->
 
-SÖDERÅLEDEN
+KVARTERSSTRUKTUR
 
-S
+TORG                                                           Den nya stadsdelen utgörs av en
+kvartersstruktur med 8 separata kvarter och två
+SÖDERÅLEDEN
+parkeringshus i norr respektive söder.
+
+NORRA
+PARKEN
+Dessa kvarteren omfamnar olika typer
+av innergårdar och öppna offentliga ytor.
+S    Kvarterens olika byggnadshöjder skapar fina
 Y
 R
 É
-N
+N   ljusförhållanden i både lägenheter, lokaler och
 LOKALGATA 1             G
 A
 T
 A
 N
-POLISHUSET
+öppna ytor.
+POLISHUSET BOST P A A D R S K N E Ä N
+RA
+Mellan kvarteren sträcker sig lokalgator som
+LOKALGATA 2
 V
 A
 R B
-TAGSRETRAVKA E
-R
-G
-S LOKALGATA 3 V Ä G E N
-L A
-N T
-M
-A
-N
-N
-A
-G
-A
-T
-A N     HANTVERKSGATAN
-SKOLGATAN
-
-12
-Gestaltningsprogram Sydöstra centrum
-ALOKSEISANMYG
-KVARTERSSTRUKTUR
-TORG                                                           Den nya stadsdelen utgörs av en
-kvartersstruktur med 8 separata kvarter och två
-parkeringshus i norr respektive söder.
-NORRA
-PARKEN
-Dessa kvarteren omfamnar olika typer
-av innergårdar och öppna offentliga ytor.
-Kvarterens olika byggnadshöjder skapar fina
-ljusförhållanden i både lägenheter, lokaler och
-öppna ytor.
-BOST P A A D R S K N E Ä N
-RA
-Mellan kvarteren sträcker sig lokalgator som
-LOKALGATA 2                  f
+f
 n
 r
 y
@@ -18832,20 +18810,100 @@ g
 ö
 .
 r den
-B R A N D Kvarteren delas upp i olika enheter som
-S
+TAGSR
+L
+ETRA
+O VKA KALGATA 3
+E
+R
+G
+S V Ä G E N B R A N D S Kvarteren delas upp i olika enheter som
 T
 A T varierar i höjd och materialitet. Detta skapar en
 IO
 N
-stadsdel med rytm som kommer upplevas när
+L A                        stadsdel med rytm som kommer upplevas när
+N T
+M
+A
+N
+N
 LOKALGATA 4
 man rör sig längs med gatorna.
-Kvarterens olika höjder bestäms av faktorer
-gällande sol och dagsljus för att tillsammans
+A
+G
+A
+T
+A N     HANTVERKSGATAN  K
+gä
+v
+l
+a
+la
+r
+n
+te
+d
+r
+e
+e n
+s
+s
+o l
+o
+o
+li
+c
+k
+h
+a
+d
+h
+a
+ö
+g
+jd
+sl
+e
+ju
+r
+s
+b
+f
+e
+ö
+st
+r
+ä
+a
+m
+tt
+s
+t
+a
+il
+v
+l s
+f
+a
+a
+m
+kt
+m
+or
+a
+e
+n
+r
+s
 skapa så ljusa och behagliga stadsrum som
 möjligt.
+SKOLGATAN
 DEN NYA STASDSDELEN FRÅN NORR                                                    ÖVERSIKT OMRÅDET
+12
+Gestaltningsprogram Sydöstra centrum
+
+GYMNASIESKOLA
 
 <!-- sida 458 -->
 
@@ -19213,15 +19271,19 @@ till nästa etapp av Sydöstra centrum på östra sidan av Varbergsvägen.
 GÅNG CYKEL PLANTERING KÖR BUSSHÅLLPLATS BUSSKÖRFÄLT PLANTERING BUSSKÖRFÄLT BUSSHÅLLPLATS KÖR PLANTERING GÅNG & CYKEL
 Gaturum 38,5m
 
+VARBERGSVÄGEN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
 N
+VARBERGSVÄGEN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
 
+1:200 0       5        10M
 17
 Gestaltningsprogram Sydöstra centrum
-VILDASAF
-SNÄRGSTEHGITSAF                                                            SNÄRGSTEHGITSAF
-VARBERGSVÄGEN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
-VARBERGSVÄGEN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
-1:200 0       5        10M
+
+FASADLIV
+
+FASTIGHETSGRÄNS
+
+FASTIGHETSGRÄNS
 
 <!-- sida 463 -->
 
@@ -19248,34 +19310,36 @@ fjärrvärmeledningen som ska ligga kvar och som innebär att det inte
 
 finns tillräckligt jorddjup för att plantera träd.
 
-250 2 000 6 000    3 300 2 500 2 000 2 000
-FÖRGÅRDSMARK
-GATURUM 15,8m
+Hantverksgatan ligger i planområdets södra del och ansluter till
+Lantmannagatan och Varbergsvägen. Här ska sex befintliga avenbokar
 
+bevaras och bidrar till att redan från början ge gatan ett lummigt intryck.
+På sträckan utmed trädraden anläggs gångytan på insidan i ett skyddat
+250 2 000 6 000    3 300 2 500 2 000 2 000
+läge mellan fasaderna och träden. Det ska finnas viloplats på lämpligt          GÅNGBANA KÖRBANA PLANTERING CYKELBANA GÅNGBANA FÖRGÅRDSMARK
+GATURUM 15,8m
+ställe. Eftersom det finns en befintlig fjärrvärmeledning här som ska vara
+kvar finns det inte möjlighet att plantera fler träd.                          LANTMANNAGATAN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
 LANTMANNAGATAN - TYPSEKTION MED PLANTERING
 
-N
-
-19
-Gestaltningsprogram Sydöstra centrum
-SNÄRGSTEHGITSAF
-VILDASAF
-GÅNGBANA KÖRBANA PLANTERING CYKELBANA GÅNGBANA
 1 000   8 000    1 000 2 500 5 540  2 000 1 500
 BEF. HÅRDGJORD YTA BEF. KÖRBANA CYKELBANA BEF. GRÖNYTA GÅNGBANA FÖRGÅRDSMARK
 GATURUM 19m
-SNÄRGSTEHGITSAF
-VILDASAF
-Hantverksgatan ligger i planområdets södra del och ansluter till
-Lantmannagatan och Varbergsvägen. Här ska sex befintliga avenbokar
-bevaras och bidrar till att redan från början ge gatan ett lummigt intryck.
-På sträckan utmed trädraden anläggs gångytan på insidan i ett skyddat
-läge mellan fasaderna och träden. Det ska finnas viloplats på lämpligt
-ställe. Eftersom det finns en befintlig fjärrvärmeledning här som ska vara
-kvar finns det inte möjlighet att plantera fler träd.                          LANTMANNAGATAN - TYPSEKTION ÖVER HÅLLPLATSLÄGE
+N
 HANTVERKSGATAN - TYPSEKTION MED GRÖNYTA MELLAN GÅNG OCH CYKELBANA
 HANTVERKSGATAN - TYPSEKTION MED GRÖNYTA MELLAN GÅNG OCH CYKELBANA
+
 1:200 0       5        10M
+19
+Gestaltningsprogram Sydöstra centrum
+
+FASTIGHETSGRÄNS
+
+FASTIGHETSGRÄNS
+
+FASADLIV
+
+FASADLIV
 
 <!-- sida 465 -->
 
@@ -19477,12 +19541,15 @@ BOSTADSNÄRA PARKEN                           GRÖNA GATAN
 LOKALGATA 2
 
 N
+LOKALGATA 2 - TYPSEKTION ÖVER PARKEN
 
+1:200 0       5        10M
 21
 Gestaltningsprogram Sydöstra centrum
-VILDASAF                                                                                   VILDASAF
-LOKALGATA 2 - TYPSEKTION ÖVER PARKEN
-1:200 0       5        10M
+
+FASADLIV
+
+FASADLIV
 
 <!-- sida 467 -->
 

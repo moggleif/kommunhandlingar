@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.32f2dc5a1995b7e9114b14/175817824251
 sha256: 0476310af09304bf040428539d75e7ff715b0dcc09c048058f3c6312331cd9dd
 bytes: 9332157
 sidor: 191
-hamtad: 2026-11-06T08:20:01+00:00
-konverterad: 2026-11-06T08:20:47+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T07:50:56+00:00
+konverterad: 2026-11-08T07:51:47+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok]
@@ -6835,22 +6835,28 @@ I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns m
 nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-8
-tehkilonnaS
 4       8       12      16
+
 4
+
 3       6       9       12
 2
 3
+
 2       4       6       8
 1 4     3
 2
+
 1       2       3        4
+
 1
+
 1       2       3       4
+
 Konsekvens
+
 1 Hög 3 Medel Totalt: 4
+
 Kritisk             Sannolikhet           Konsekvens
 Hög
 4    Mycket vanligt - exempelvis 1 Allvarlig/stor inverkan (så stor att
@@ -6865,6 +6871,9 @@ kommunen)
 1    Osannolik (risken är praktiskt Försumbar (obetydlig för berörda
 taget obefintlig) - exempelvis 1 intressenter och kommunen)
 gång per 10 år
+8
+
+Sannolikhet
 
 <!-- sida 161 -->
 
@@ -7165,11 +7174,7 @@ insatser?                munernas roll.            på kristdemokraternas utspel
 
 <!-- sida 170 -->
 
-8
-\#
-ITSUGUA
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 INNEHÅLL
 Från   utspel
@@ -7240,13 +7245,16 @@ Björn      Elmqvist
 
 2
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 171 -->
 
-8
-\#
-ITSUGUA
-5202
 WERKET  MÅNADSRAPPORT
+
 Månadens djupdykning
 
 Fallande          utbetalningar
@@ -7295,13 +7303,15 @@ på sina håll dras med en aversion mot att
 
 3
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 172 -->
 
-8
-\#
-ITSUGUA
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 pertis får framtiden utvisa om hållningen
 får fäste ute på lokalkontoren, där de
@@ -7403,13 +7413,15 @@ STA och INAB exkluderade på grund av att tjänsterna nyligen startat eller avsl
 
 4
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 173 -->
 
-8
-\#
-ITSUGUA
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Kristdemokraterna
 
@@ -7497,13 +7509,15 @@ LLiillii AAnnddrréé
 
 5
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 174 -->
 
-8
-\#
-ITSUGUA
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 tillsynsmyndighet och kunskapsnod,
 ungefär som Skolverket fungerar inom
@@ -7648,13 +7662,15 @@ antalet anställningar.
 
 6
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 175 -->
 
-8
-\#
-ITSUGUA
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Sveriges Kommuner och Regioner (SKR)
 
@@ -7764,13 +7780,15 @@ RRooyy MMeellcchheerrtt,, SSeekkttiioonnsscchheeff SSKKRR
 
 7
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 176 -->
 
-8
-\#
-ITSUGUA
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Roy att staten har en självklar roll.
 – Vi är vana vid att det finns stödmyn-
@@ -7916,13 +7934,15 @@ av vinstintresse och därför är en trygg part
 för att stötta personer som står långt från
 arbetsmarknaden.
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 177 -->
 
-8
-\#
-ITSUGUA
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Moderaterna
 
@@ -8050,12 +8070,14 @@ OOlliivveerr RRoosseennggrreenn
 
 9
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 178 -->
 
-8
-\#
-ITSUGUA
-5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
 
 Justitieombudsmannen (JO)
@@ -8167,11 +8189,14 @@ konstruktion inte fungerar.
 
 10
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 179 -->
 
-8#
-ITSUGUA
-5202
 WERKET  MÅNADSRAPPORT
 
 statistik
@@ -8180,15 +8205,18 @@ statistik
 
 11
 
+\#8
+
+AUGUSTI
+
+2025
+
 <!-- sida 180 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
+
 makro
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 MAKROLÄGET
 
@@ -8263,50 +8291,44 @@ Förändring 12 mån: −13 894 platser Förändring 12 mån: 1,7 enheter
 2024     2025          2022      2023      2024      2025
 12
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 181 -->
 
-8
-\#
-ITSUGUA
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-13
-01#
-REBOTKO
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  tjänster
-13
+
+1133
+
+\## 180
+
+OAKUTGOUBSETIR
+
+22002254
 
 <!-- sida 182 -->
 
-8
-\#
-ITSUGUA
-5202
-
-DELTAGARANTAL
-
-ROM2
-
-Antalet deltagare ökade till 41 247 i
-juli (+3,9 procent), drygt 2 600 fler än
-myndighetens senaste prognos från juli
-förutspådde. Sedan november 2024 har
-deltagarantalet snittat omkring 40 600, i
-
 statistik
-
 tjänster
+
 WERKET  MÅNADSRAPPORT
 
-linje med vad myndigheten prognostiserat Utflödet sjönk kraftigt (-30,6 procent) jäm-
-för 2025. Det är därmed rimligt att förvän- fört med föregående månad, något som
-ta sig att volymen i tjänsten bibehålls den känns igen från föregående år.
-närmsta tiden. Inflödet ökade något i juli
-(+2,6 procent).
+DELTAGARANTAL
+ROM2
+
+Antalet deltagare ökade till 41 247 i linje med vad myndigheten prognostiserat Utflödet sjönk kraftigt (-30,6 procent) jäm-
+juli (+3,9 procent), drygt 2 600 fler än för 2025. Det är därmed rimligt att förvän- fört med föregående månad, något som
+myndighetens senaste prognos från juli ta sig att volymen i tjänsten bibehålls den känns igen från föregående år.
+förutspådde. Sedan november 2024 har närmsta tiden. Inflödet ökade något i juli
+deltagarantalet snittat omkring 40 600, i (+2,6 procent).
 
 Kvarstående deltagare: 41 247 Nya deltagare: 6 376 Deltagare som lämnat: 4 830
 Förändring : 1 531 [3,9%] Förändring : 160 [2,6%] Förändring : -2 128 [−30,6%]
@@ -8342,7 +8364,7 @@ Aros Matchning och Utbildning AB    3,00
 Rekrytering och Trim tab. Därefter åter-
 A-Karriär Sweden AB             3,00
 finns sex leverantörer med samma genom-
-Montico Rekrytering AB         2,83
+Montico Rekrytering AB          2,83
 snittliga betyg.
 Jobbkompaniet Nova AB           2,83
 Till skillnad från resultatmåtten i tjänsten Arena Matchning AB  2,80
@@ -8351,20 +8373,23 @@ rametrar hos de arbetssökande, tid i tjäns- Studentconsulting Sweden AB (Pu.. 
 ten m.m. och relaterar det till prestationen Re:shift Jobb & Utbildning AB 2,71
 av övriga leverantörer i arbetsmarknadsre- Curonova Consulting AB 2,65
 gionen. Betygen är därmed det mått som Arcus Utbildning & Jobbförmedling.. 2,63
-bäst återspeglar kvalitén i en leverantörs Enrival AB            2,62
-prestation.                         Lernia Matchning             2,60
+bäst återspeglar kvalitén i en leverantörs Enrival AB           2,62
+prestation.                         Lernia Matchning            2,60
 AAA Livek Sjuhärad AB          2,60
-Betyg 1  2    3   4
+Betyg 1  2   3    4
 14
+
+\# 8
+
+AUGUSTI
+
+2025
 
 <!-- sida 183 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
 Kvarstående senaste
 Procentuell förändring
@@ -8434,16 +8459,21 @@ Antal unika leverantörer Deltagare per leverantör
 Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 15
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 184 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 MARKNADSANDELAR
+
 ROM2
 Om förra månaden stack ut med att vissa leverantörer tappade relativt stora volymer så är det i juli flera leverantörer
 som vuxit kraftigt. Ökningarna hänger troligtvis ihop med att ett flertal deltagare valt eller tilldelats en ny leverantör.
@@ -8501,15 +8531,19 @@ deltagare kvarstående förändring
 De 30 största ROM2-leverantörerna
 16
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 185 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL          Deltagarantalen i STA sjönk kraftigt i juli (-15 procent). Sedan
 februari har även inflödet i tjänsten minskat stadigt, i juli påbörjade
 698 personer STA (-9,6 procent). Utflödet har legat relativt stabilt i ett drygt år (i
@@ -8517,6 +8551,7 @@ STA
 snitt 1 090 per månad).
 Kvarstående deltagare: 4 318 Nya deltagare: 698 Deltagare som lämnat: 1 139
 Förändring : -783 [−15%] Förändring : -74 [−9,6%] Förändring : 71 [6,6%]
+
 6K
 1500                   1500
 5K
@@ -8553,16 +8588,21 @@ Antalet kvarstående deltagare i Steg till arbete, fördelat på leverantör
 
 17
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 186 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL
+
 KVL
 Deltagandet i Karriärvägledning sjönk något (-16,4 procent) jämfört med föregående månad och låg i juli något över snittet
 för de senaste 18 månaderna (981). Inflödet minskade (-18,8 procent). Utflödet ökade dock, i linje med sin trend sedan
@@ -8610,14 +8650,17 @@ Antalet kvarstående deltagare i Karriärvägledning, fördelat på leverantör.
 
 18
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 187 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
 
 DELTAGARANTAL          Små förändringar i deltagandet i IPSU i juli (-3,5 procent). Inflödet föll rela-
@@ -8663,32 +8706,35 @@ Antalet kvarstående deltagare i Individuellt pedagogiskt stöd vid utbildning, 
 
 19
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 188 -->
 
-8
-\#
-ITSUGUA
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-20
-9#
-REBMETPES
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  utbildning
-20
+
+2200
+
+\## 98
+
+SEAPUTGEUMSBTIER
+
+22002254
 
 <!-- sida 189 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
+
 utbildning
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 DELTAGARANTAL            I den senaste utgiftsprognosen sänkte Ar-
 betsförmedlingen åter sina förväntningar
@@ -8759,15 +8805,19 @@ Kvarstående, nya och avslutade deltagare i förberedande utbildning samt förde
 
 21
 
+\# 8
+
+AUGUSTI
+
+2025
+
 <!-- sida 190 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARE      PER   UTBILDNINGSINRIKTNING
 
 AUB
@@ -8802,6 +8852,12 @@ Kvarstående deltagare i arbetsmarknadsutbildning efter utbildningsinriktning
 
 22
 
+\# 8
+
+AUGUSTI
+
+2025
+
 [Tabell 190-1](handlingar.tabeller/190-1.csv)
 
 | K Hantverk | 29,8% | 1 668 | −29 |
@@ -8818,12 +8874,9 @@ Kvarstående deltagare i arbetsmarknadsutbildning efter utbildningsinriktning
 
 <!-- sida 191 -->
 
-8
-\#
-ITSUGUA
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
 
 MARKNADSÖVERSIKT            - TOPP   10
@@ -8854,6 +8907,12 @@ månaden senaste månaden föregående månad kvarstående
 Antal deltagare i arbetsmarknadsutbildning per leverantör och utbildningsinriktning
 
 23
+
+\# 8
+
+AUGUSTI
+
+2025
 
 [Tabell 191-1](handlingar.tabeller/191-1.csv)
 

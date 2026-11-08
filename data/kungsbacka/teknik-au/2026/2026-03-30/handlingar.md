@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b24984919d24cef920312b3/1774615420
 sha256: 913ccc7a7cff4559005e276b1a64361185a6b6046031b86d96ff7a6732da24c3
 bytes: 6266111
 sidor: 35
-hamtad: 2026-11-06T12:06:58+00:00
-konverterad: 2026-11-06T12:08:16+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T11:58:40+00:00
+konverterad: 2026-11-08T12:00:03+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -1265,14 +1265,11 @@ YTTRANDE
 TRV 2023/57904 2023-05-26 (t TRAFIKVERKET
 Ert ärendenummer Sidor
 
-TE/2023-00431
-
-23\)
+TE/2023-00431 203)
 
 Oskyddade trafikanter behöver således inte röra sig längs väg 932 för att nå sina målpunkter i området.
 
 Lokala trafikföreskrifter i form av hastighetsregleringar skall användas med omsorg, en hastighetsnedsättning till
-
 40km/h på väg 932 skulle troligen inte få någon större efterlevnad då trafikanterna som färdas utmed vägen inte
 skulle uppleva den lägre hastigheten som motiverande.
 
@@ -1294,61 +1291,35 @@ Sammanfattningsvis anser Trafikverket att hastighetsbegränsningen 60km/h ska fo
 
 Vi har i detta yttrande endast tittat på trafiksäkerheten utmed sträckan.
 
-ÅT sar
-
-NISeD
+j] i
+! i
+I
 
 4
-v
-[4
-'
-w
-\:
 
-SS
-, 7
-\=
-LOS
-32
-mn
-1
-(sg
-(5)
-0
-2\)
+RR add
 
-omv ige
+LS6eAswWjoN 2
 
-EE TR
+4
 
-ISP
-
-[OUpen2S E
-
-w färRaskens väg
+färRaskens väg
 
 Kartbilden ovan med markering visar gång- och cykeltunnel där oskyddade trafikanter kan ta sig över
 Gåsevadholmsvägen på ett säkert sätt.
 
-Trafikverket
+Trafikverket Texttelefon: 010-123 50 00 Jenny Julin
 
-Box 810
-781 28 Borlänge
+Box 810 Telefon: 0771 - 921 921 Trafikmiljö
 
-Besöksadress: Vikingsgatan 2-4,
+781 28 Borlänge trafikverketQtrafikverket.se Direkt: 010-123 92 09
+Besöksadress: Vikingsgatan 2-4, www.trafikverket.se jenny.julinQtrafikverket.se
+
 Göteborg
 
-Texttelefon: 010-123 50 00
-Telefon: 0771 - 921 921
-trafikverketQtrafikverket.se
-www.trafikverket.se
+NISeD
 
-Jenny Julin
-
-Trafikmiljö
-
-Direkt: 010-123 92 09
-jenny.julinQtrafikverket.se
+[OUpen2S E
 
 <!-- sida 33 -->
 

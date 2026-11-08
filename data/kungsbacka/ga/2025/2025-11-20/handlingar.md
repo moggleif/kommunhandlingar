@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e78245d19a7bafa93f13df8/1763126440
 sha256: e1e854bdd5c335e5564520902a6ee31c97e887dc63346ec4e438b86efc5df417
 bytes: 16227751
 sidor: 255
-hamtad: 2026-11-06T08:21:40+00:00
-konverterad: 2026-11-06T08:23:01+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T07:52:43+00:00
+konverterad: 2026-11-08T07:54:14+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4119,14 +4119,6 @@ TYAs Trendindikator                                                      15
 
 <!-- sida 109 -->
 
-70.5202
-
-,xe
-002
-5
-,5202
-AYT©
-
 Tillsammans                     gör
 
 vi    skillnad
@@ -4136,6 +4128,8 @@ Tillsammans med  arbetsmarknadens parter säkrar vi
 
 kompetens  och skapar trygga och hållbara jobb för
 nuvarande och kommande  generationer.
+
+©TYA 2025, 5 200 ex, 2025.07
 
 <!-- sida 110 -->
 
@@ -6408,11 +6402,7 @@ chef Malin Normann.       ESO varnar för ökad politisering. verksamhet åt?
 
 <!-- sida 159 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 När   förvaltningen
 INNEHÅLL
@@ -6477,13 +6467,15 @@ Björn       Elmqvist
 
 2
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 160 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Expertgruppen för studier i offentlig ekonomi (ESO)
 
@@ -6605,13 +6597,15 @@ och tydliggör ansvaret.
 
 3
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 161 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 I övriga kommuner sker förändringarna
 mer diskret, ofta med hänvisning till ”nytt
@@ -6740,13 +6734,15 @@ av yrkesrollen och på sikt kan bidra till
 både ökad status och högre kvalitet inom
 äldreomsorgen.
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 162 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Statens beredning för medicinsk och social utvärdering (SBU)
 
@@ -6861,13 +6857,15 @@ tet.
 
 5
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 163 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 – Det blir som en ingång till vetenska-
 pen. Man ska kunna göra självstudier,
@@ -6982,13 +6980,15 @@ vi ska tala tydligt. Och vi ska göra veten-
 skapen användbar för dem som faktiskt
 gör jobbet.
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 164 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Månadens djupdykning
 
@@ -7057,42 +7057,46 @@ verksamhet till 67 procent.För vardag-
 
 Antal hemtjänsttagare per en omsorgspersonal
 
-Riket          Riket Enskild    Riket Offentlig
-
-2024    2025     2024     2025    2024     2025
-,lanosrep
-rep
-eragattoM
-,lanosrep
-rep
-eragattoM
-ragadrav
-regleh
+Riket          Riket Enskild     Riket Offentlig
 15
 10,75
-10,06                     9,81
+10,06                      9,81
 10   9,16
 7,42
 6,75
 5
+
 0
 15
 12,58                     12,21    13,01
 11,67
 10,61
 10                    9,38
+
 5
+
 0
+2024     2025    2024     2025     2024    2025
 
 7
 
+\# 3
+
+OKTOBER
+
+2025
+
+Mottagare per personal,
+
+Mottagare per personal,
+
+helger
+
+vardagar
+
 <!-- sida 165 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 spersonal innebär det en skillnad på 14
 procentenheter.
@@ -7157,23 +7161,23 @@ Andel omsorgspersonal som är undersköterskor
 
 Riket            Riket Enskild
 
-2024      2025     2024      2025
-,roksretöksrednu
-lednA
-,roksretöksrednu
-lednA
-ragadrav
-regleh
-64%       64%
-60%                      56%       53%
+64%      64%
+60%                       56%      53%
+
 40%
+
 20%
+
 0%
-60%   57%       58%
-47%       48%
+
+60%    57%      58%
+47%      48%
 40%
+
 20%
+
 0%
+2024     2025      2024     2025
 
 8
 
@@ -7212,13 +7216,23 @@ Riket Offentlig
 2024     2025
 ```
 
+\# 3
+
+OKTOBER
+
+2025
+
+Andel undersköterskor,
+
+Andel undersköterskor,
+
+helger
+
+vardagar
+
 <!-- sida 166 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Hemtjänst
 
@@ -7328,13 +7342,15 @@ ekonomi och medarbetare.
 
 9
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 167 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Utifrån de olika delarna ska chefen äga
 sin verksamhet och bedriva ett kontinu-
@@ -7491,13 +7507,15 @@ och medarbetare känner trygghet, och
 där vi som chefer tar ansvar för att det
 fungerar.
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 168 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Socialchefsrapporten 2025
 
@@ -7614,13 +7632,15 @@ mal.
 
 11
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 169 -->
 
-3
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Notiser
 
@@ -7742,6 +7762,12 @@ barn och unga.
 
 12
 
+\# 3
+
+OKTOBER
+
+2025
+
 <!-- sida 170 -->
 
 \#10 OKTOBER 2025                                              www.werket.se
@@ -7769,10 +7795,6 @@ ter i senaste prognosen. studerar har minskat.     bättrad matchning och kontro
 
 <!-- sida 171 -->
 
-01
-\#
-REBOTKO
-5202
 WERKET  MÅNADSRAPPORT
 
 När   styrningen                                INNEHÅLL
@@ -7835,13 +7857,15 @@ Björn       Elmqvist
 (e-post borttagen) | (mobilnummer borttaget)
 2
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 172 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Arbetsförmedlingen
 
@@ -7926,13 +7950,15 @@ inte infriats, och ofta har utfallet ham- MMaarriiaa HHeemmssttrröömm HHeemmmm
 
 3
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 173 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 nera sin verksamhet.
 Arbetsförmedlingen kan inte ensam
@@ -8055,13 +8081,15 @@ Drygt 70 procent av barnen var under nio
 år, och de flesta var inskrivna i förskola
 eller skola året efter ankomsten.
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 174 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Produktivitetskomissionen
 
@@ -8154,13 +8182,15 @@ plementeringen av nya innovationer och
 
 5
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 175 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 tillväxten uteblir, trots stora investeringar
 i forskning, utveckling och innovation.
@@ -8309,13 +8339,15 @@ blivit svårare bl.a. till följd av ett föränd-
 rat elevunderlag.
 För att möta kompetensbristen efterly-
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 176 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 ser kommissionen snabbare vägar in på
 arbetsmarknaden för ungdomar. Framför
@@ -8453,13 +8485,15 @@ Stora förhoppningar fanns om att privata
 aktörer, med starka drivkrafter att bidra
 med nya arbetssätt, skulle vitalisera den
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 177 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Finansminister Elisabeth Svantesson debatterar budgeten med oppositionens Mikael Damberg.
 
@@ -8572,13 +8606,15 @@ mentsstrukturen ska peka åt rätt håll.
 
 8
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 178 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 En av kommissionen centrala slutsatser
 är att om förändringar i kvasimarknader-
@@ -8607,6 +8643,28 @@ säkerställas både genom kontroll vid
 aktörers inträde och genom löpande
 tillsyn.
 
+Notiser
+Tre  pristagare   i
+
+ekonomi
+
+Årets ekonomipris till Alfred Nobels
+minne går till Joel Mokyr, Philippe Aghion
+och Peter Howitt för deras forskning
+om hur innovationer driver ekonomisk
+tillväxt. Pristagarna har visat hur ny tek-
+nik och vetenskapliga genombrott kan
+skapa en självförstärkande process där
+varje innovation banar väg för nästa.
+Joel Mokyr belönas för att ha identifierat
+de historiska förutsättningarna för ihål-
+lande tillväxt genom teknologisk utveck-
+ling, medan Philippe Aghion och Peter
+Howitt prisas för sin teori om ”kreativ
+förstörelse”, att nya innovationer ersätter
+gamla och därmed driver utvecklingen
+framåt.
+
 3\. Det bör införas fler konkurrensfräm-
 jande mekanismer i kvasimarkna-
 der, exempelvis standardval som
@@ -8634,31 +8692,10 @@ Sammantaget visar Produktivitetskom-
 missionens arbete hur centralt samspe-
 let mellan arbetsmarknad, utbildning
 
-Notiser
-
-Tre  pristagare   i
-ekonomi
-
-Årets ekonomipris till Alfred Nobels
-minne går till Joel Mokyr, Philippe Aghion
-och Peter Howitt för deras forskning
-om hur innovationer driver ekonomisk
-tillväxt. Pristagarna har visat hur ny tek-
-nik och vetenskapliga genombrott kan
-skapa en självförstärkande process där
-varje innovation banar väg för nästa.
-Joel Mokyr belönas för att ha identifierat
-de historiska förutsättningarna för ihål-
-lande tillväxt genom teknologisk utveck-
-ling, medan Philippe Aghion och Peter
-Howitt prisas för sin teori om ”kreativ
-förstörelse”, att nya innovationer ersätter
-gamla och därmed driver utvecklingen
-framåt.
-
 Fler nyanlända
 
 barn  i förskola
+
 Sedan hösten 2023 erbjuder kommu-
 nerna reserverade förskoleplatser till
 nyanlända barn i åldern 3–5 år, även
@@ -8666,7 +8703,6 @@ när föräldrarna inte själva ansökt. En ny
 rapport från IFAU visar att åtgärden haft
 viss effekt. Fler barn börjar i förskolan,
 men långt ifrån alla.
-
 Forskarna har följt drygt 2 000 nyanlän-
 da barn som stod utanför förskolan vå-
 ren 2023. Utan automatiska erbjudanden
@@ -8712,13 +8748,15 @@ genomsnitt högre lön och sysselsättning
 påverkade inte elevernas långsiktiga
 inkomster eller arbetsmarknadsutfall.
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 179 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Skolverket
 
@@ -8818,13 +8856,15 @@ förvånande.
 
 10
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 180 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Arbetsförmedlingen
 
@@ -8947,12 +8987,14 @@ genom trygghet.
 
 11
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 181 -->
 
-01
-\#
-REBOTKO
-5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
 
 Universitet och högskolor
@@ -9064,13 +9106,15 @@ tid, även om flera lärosäten rapporterar
 
 12
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 182 -->
 
-01
-\#
-REBOTKO
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 pressad personal och mindre lärarledd
 tid.
@@ -9177,11 +9221,14 @@ krävs nya idéer.
 Även Centerpartiet ställer sig bakom tan-
 ken på ökad flexibilitet.
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 183 -->
 
-01#
-REBOTKO
-5202
 WERKET  MÅNADSRAPPORT
 
 statistik
@@ -9190,15 +9237,18 @@ statistik
 
 14
 
+\#10
+
+OKTOBER
+
+2025
+
 <!-- sida 184 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
+
 makro
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 TEMPERATUREN         PÅ  ARBETSMARKNADEN
 
@@ -9270,17 +9320,23 @@ Förändring 12 mån: −5 376 platser Förändring 12 mån: 2,7 enheter
 2024     2025          2022      2023      2024      2025
 15
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 185 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
+
 makro
 WERKET  MÅNADSRAPPORT
+
 MATCHNING
+
 KOMMUNER
+
 I september var 363 658 personer inskrivna hos Arbetsförmedlingen. Samtidigt fanns i Platsbanken 77 773 lediga jobb. Det innebär
 att det på nationell nivå fanns 0,21 lediga jobb per arbetssökande, eller 5 arbetssökande för varje ledigt jobb. Antalet arbetssökande,
 liksom antalet lediga jobb, är dock inte jämnt fördelade över landet.
@@ -9328,32 +9384,36 @@ Valdemarsvik 0,02
 
 16
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 186 -->
 
-01
-\#
-REBOTKO
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-17
-9#
-REBMETPES
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  tjänster
-17
+
+1177
+
+\# #190
+
+SEOPKTTEOMBBEERR
+
+22002254
 
 <!-- sida 187 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL            Antalet deltagare i ROM2 har varit mer eller mindre oförändrat under de senaste måna-
 derna och ligger i linje med Arbetsförmedlingens nuvarande ambitionsnivå. Antalet nya
 deltagare ökade markant i september, vilket sannolikt kan bero på att vi lämnat sommar-
@@ -9403,16 +9463,21 @@ Antal unika leverantörer Deltagare per leverantör
 Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 18
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 188 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 RESULTATUPPFÖLJNING
+
 ROM2
 
 I september kom Arbetsförmedlingens senaste resultatuppföljning för ROM2. Resultatuppföljningen baseras på delta-
@@ -9466,16 +9531,21 @@ Viktat resultatmått på nationell nivå Antal Deltagare
 Viktat resultatmått, sep 2025. Leverantörer med minst 100 deltagare under uppföljningsperioden.
 19
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 189 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 MARKNADSANDELAR
+
 ROM2
 
 Nedgången i antalet deltagare har drabbat leverantörerna brett. Samtliga bland de 30 största leverantörerna, undan-
@@ -9534,23 +9604,30 @@ statistik kring leverantörer och marknader.
 De 30 största ROM2-leverantörerna
 20
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 190 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL
+
 ÖVRIGA    TJÄNSTER
+
 Antalet deltagare i IPSU steg marginellt i september, och ligger nu över det historiska genomsnittet. Också antalet nya
 beslut ökade, och nådde den högsta nivån på två år.
 Efter nedgången under första halvan av 2024 tycks antalet deltagare i Karriärvägledning nu ha stabiliserats och är nu
 i fas med det historiska genomsnittet. Nya beslut steg också i september.
 Antalet deltagare i Steg till arbete ligger stabilt runt 4 500, och ingen tydlig förändring kan skönjas i september. Anta-
 let nya beslut fördubblades dock jämfört med augusti.
+
 Kvarstående deltagare             Nya deltagare
 500                     489                           237
 200
@@ -9601,38 +9678,43 @@ porten.          0    200   400  600   800  1000  1200 1400
 STA      KVL      IPSU (A & B)
 21
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 191 -->
 
-01
-\#
-REBOTKO
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-22
-9#
-REBMETPES
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  utbildning
-22
+
+2222
+
+\# #190
+
+SEOPKTTEOMBBEERR
+
+22002254
 
 <!-- sida 192 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL            Antalet deltagare i arbetsmarknadsutbildning förblev i september
 i fas med det historiska genomsnittet, och fortfarande syns inga
 förändringar kopplat till Arbetsförmedlingens höjda ambitionsnivå.
 AUB
 Antalet nya beslut steg mycket kraftigt i september, sannolikt en konsekvens av de låga
 nivåerna under sommarmånaderna.
+
 Kvarstående deltagare: 5 791 Nya deltagare: 2 090 Deltagare som Lämnat: 1 394
 Förändring: 672 [13,13%] Förändring: 1 390 [198,6%] Förändring: 229 [19,7%]
 2 090
@@ -9641,6 +9723,7 @@ Förändring: 672 [13,13%] Förändring: 1 390 [198,6%] Förändring: 229 [19,7%
 1 394
 4K
 3K                   1K                   1K
+
 2K
 1K
 0K                   0K                   0K
@@ -9680,17 +9763,23 @@ Utbildning Nord
 De 15 största leverantörerna av arbetsmarknadsutbildning
 23
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 193 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARE      PER   UTBILDNINGSINRIKTNING
+
 AUB
+
 I september månad har Arbetsförmedlingen gjort stora oannonserade förändringar i kategoriseringen av utbildning-
 ar. Vissa kategorier (exempelvis Data/IT) är likvärdiga de tidigare, men andra har fördelats på ett helt nytt sätt. Det
 är dessa nya kategorier som Arbetsförmedlingen från och med nu kommer att använda. Enligt myndigheten följer
@@ -9740,17 +9829,23 @@ ekonomi, juridik               0       4                  0
 Kvarstående och nya deltagare i arbetsmarknadsutbildning efter utbildningsinriktning
 24
 
+\# 10
+
+OKTOBER
+
+2025
+
 <!-- sida 194 -->
 
-01
-\#
-REBOTKO
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL
+
 FUB
+
 Liksom i arbetsmarknadsutbildningen har skett förändringar i Arbetsförmedlingens data kring förbe-
 redande utbildningar. Tidigare inkluderade data om FUB också Folkhögskolesatsningen - utbildning-
 ar som inte är upphandlade. Från och med denna månad inkluderas endast upphandlad FUB, varför
@@ -9769,6 +9864,7 @@ Förändring: 589 [26,3%]    Förändring: 1 656 [96,6%]
 500
 0                         0K
 2024        2025           2024        2025
+
 Kvarstående och nya deltagare i förberedande utbildning (FUB)
 UNDERKATEGORIER
 
@@ -9826,6 +9922,12 @@ porten.
 2024    2025      2024     2025
 Kvarstående och nya deltagare i förberedande utbildning (FUB) per underkategori.
 25
+
+\# 10
+
+OKTOBER
+
+2025
 
 <!-- sida 195 -->
 
