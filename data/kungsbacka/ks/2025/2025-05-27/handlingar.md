@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4920649e196f63f72e9bd2cc/1748327376
 sha256: 2c07c83d67ce3b550e24265f15d2935cdff33de1fcc731a51538a28a43c62c22
 bytes: 69020174
 sidor: 513
-hamtad: 2026-11-06T23:32:20+00:00
-konverterad: 2026-11-06T23:39:22+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T22:44:26+00:00
+konverterad: 2026-11-08T22:51:53+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2896,6 +2896,8 @@ Summa Äldreomsorg                  60      80     32           2,8%
 
 <!-- sida 71 -->
 
+Nettokostnadsavvikelse i procent
+
 ```osaker-tabell
 10,0             8,1                                    8,0
                6,4                                    6,5
@@ -2913,14 +2915,15 @@ Summa Äldreomsorg                  60      80     32           2,8%
 -15,4
 \- 20,0                                   -15,7
 
+2022 2023 2024
+
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå
 och/eller låg effektivitet. På motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre
 ambitionsnivå och/eller hög effektivitet.
 
 37
-tnecorP
-Nettokostnadsavvikelse i procent
-2022 2023 2024
+
+Procent
 
 <!-- sida 72 -->
 
@@ -3055,15 +3058,11 @@ Låneskuld exklusive finansiell leasing
 -1 000
 -2 000
 2022 2023  2024 2025 2026 2027  2028
-
-Låneskuld inklusive finansiell leasing
-
-41
-ronork
-renojliM
 Skattefinansierad verksamhet
 Avgiftsfinansierad verksamhet
 Kommuninvest lån
+Låneskuld inklusive finansiell leasing
+
 6 000
 5 027
 5 000
@@ -3077,11 +3076,16 @@ Kommuninvest lån
 1 000
 0
 2022  2023 2024  2025 2026  2027 2028
-ronork
-renojliM
 Skattefinansierad verksamhet
+
 Avgiftsfinansierad verksamhet
 Kommuninvest lån och finansiell leasing
+
+41
+
+Miljoner kronor
+
+Miljoner kronor
 
 <!-- sida 76 -->
 
@@ -3100,6 +3104,7 @@ Pensionsskuld
 
 0
 2022  2023   2024  2025  2026   2027  2028
+From 1998  Före 1998  Summa skuld
 
 Diagrammet ovan visar kommunens totala pensionsskuld till och med år 2028. Prognosen bygger
 på beräkningar från KPA Pension i april 2025. Skulden för pensioner efter 1998 inkluderar
@@ -3119,9 +3124,8 @@ pensionsskuld, RIPS. Under våren 2022 justerades prognosen för bland annat pri
 påtagligt vilket medförde ökade kostnader för kommande år.
 
 42
-ronork
-renojliM
-From 1998  Före 1998  Summa skuld
+
+Miljoner kronor
 
 <!-- sida 77 -->
 
@@ -3147,6 +3151,8 @@ Pensionskostnader
 -100
 
 -200
+Skuldförändring         Utbetalda pensioner ink löneskatt
+Övrigt                  SUMMA
 
 Kostnaden för pensioner varierar stort mellan åren. Skillnaderna mellan åren beror främst på
 antaganden om pris- och inkomstbasbelopp, men även på förändrade avtal samt ändringar i RIPS.
@@ -3164,10 +3170,8 @@ det egna kapitalet medför en minskning av pensionsskulden för pensioner intjä
 reducering av redovisade kostnader.
 
 43
-ronork
-renojliM
-Skuldförändring         Utbetalda pensioner ink löneskatt
-Övrigt                  SUMMA
+
+Miljoner kronor
 
 <!-- sida 78 -->
 
@@ -5073,8 +5077,6 @@ Förvaltningschef                   Personalchef
 
 <!-- sida 119 -->
 
-KUB1001, v2.0, 2013-02-26
-
 FÖRHANDLINGSPROTOKOLL
 
 FÖRHANDLINGSPROTOKOLL
@@ -5121,6 +5123,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 120 -->
 
@@ -6031,8 +6035,6 @@ Förvaltningschef                   Personalchef
 
 <!-- sida 142 -->
 
-KUB1001, v2.0, 2013-02-26
-
 FÖRHANDLINGSPROTOKOLL
 
 FÖRHANDLINGSPROTOKOLL
@@ -6079,6 +6081,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 143 -->
 
@@ -10686,9 +10690,8 @@ Christine Lindeberg        Bo Regnér
 
 Av kommunfullmäktige       Av kommunfullmäktige
 utsedd lekmannarevisor     utsedd lekmannarevisor
-OFBSJ-VKCPI-VUNL4-KQLZC-5WYQL-JT853
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 358TJ-LQYW5-CZLQK-4LNUV-IPCKV-JSBFO
 
 <!-- sida 277 -->
 
@@ -10724,9 +10727,8 @@ Christine Lindeberg        Bo Regnér
 
 Av kommunfullmäktige       Av kommunfullmäktige
 utsedd lekmannarevisor     utsedd lekmannarevisor
-AKHGE-84Q85-OFHU8-QV1ZB-J4MDW-F6TOU
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: UOT6F-WDM4J-BZ1VQ-8UHFO-58Q48-EGHKA
 
 <!-- sida 278 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.485a7921a18c7685a944533/17936312625
 sha256: 9ab2643d78c15899675dfd386a66c0142f5665d1cc99ea8a4ecd9a159afc0879
 bytes: 705763
 sidor: 6
-hamtad: 2026-11-06T21:43:10+00:00
-konverterad: 2026-11-06T21:43:16+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T20:41:42+00:00
+konverterad: 2026-11-08T20:41:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
@@ -54,9 +54,8 @@ Sekreterare Fanny Fuglås            Paragrafer § 28-30
 Underskrifter Ordförande Birgitta Litsegård
 
 Protokolljusterare Hans-Åke Fryklund
-FYT94-RHXGO-K4TD4-2CLL4-6725F-TJUKD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DKUJT-F5276-4LLC2-4DT4K-OGXHR-49TYF
 
 <!-- sida 2 -->
 
@@ -78,9 +77,8 @@ Beslut om revisorernas budget 2027 .............................................
 Kurser och konferenser samt beslut om arvode ............................................ 5
 
 Justerare                         Expedierat/bestyrkt
-FYT94-RHXGO-K4TD4-2CLL4-6725F-TJUKD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DKUJT-F5276-4LLC2-4DT4K-OGXHR-49TYF
 
 <!-- sida 3 -->
 
@@ -102,9 +100,8 @@ Sammanfattning
 Marcus Gustafsson (EY) och Karin Knutsson Friberg (EY) föredrar ärendet.
 
 Justerare                         Expedierat/bestyrkt
-FYT94-RHXGO-K4TD4-2CLL4-6725F-TJUKD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DKUJT-F5276-4LLC2-4DT4K-OGXHR-49TYF
 
 <!-- sida 4 -->
 
@@ -126,9 +123,8 @@ Hans-Åke Fryklund föredrar ärendet. Kommunrevisionens detaljbudget justeras n
 med 89 000 kr på kontot konsultkostnader.
 
 Justerare                         Expedierat/bestyrkt
-FYT94-RHXGO-K4TD4-2CLL4-6725F-TJUKD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DKUJT-F5276-4LLC2-4DT4K-OGXHR-49TYF
 
 <!-- sida 5 -->
 
@@ -154,9 +150,8 @@ Sammanfattning
 Birgitta Litsegård föredrar ärendet.
 
 Justerare                         Expedierat/bestyrkt
-FYT94-RHXGO-K4TD4-2CLL4-6725F-TJUKD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DKUJT-F5276-4LLC2-4DT4K-OGXHR-49TYF
 
 <!-- sida 6 -->
 
@@ -170,12 +165,6 @@ Förtroendevald revisor                Förtroendevald revisor
 Serienummer: a3673656b4da772[…]4798fc5ed86332 Serienummer: 805ee7666bad5df[…]fec9cc582842fb
 IP: 78.69.xxx.xxx                     IP: 81.232.xxx.xxx
 2026-11-02 08:33:22 UTC               2026-11-02 13:54:35 UTC
-
-FYT94-RHXGO-K4TD4-2CLL4-6725F-TJUKD
-
-:lekcyntnemukod
-
-oenneP
 
 Detta dokument är undertecknat digitalt via Penneo.com. De signerade
 uppgifternas integritet är validerad med hjälp av ett beräknat hashvärde för
@@ -193,3 +182,5 @@ enskilda undertecknarnas digitala signaturer bifogas dokumentet.
 De kryptografiska bevisen kan kontrolleras med hjälp av Penneos
 validator, https://penneo.com/validator, eller andra validerings
 verktyg för digitala signaturer.
+
+Penneo dokumentnyckel: DKUJT-F5276-4LLC2-4DT4K-OGXHR-49TYF

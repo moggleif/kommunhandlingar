@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.366666ef18d873f2cac23599/1708354939
 sha256: 89381c99235bed7f89ec50ba7dfd180c1b6560a4227fc45f7f2bb307addd1bc9
 bytes: 9989672
 sidor: 291
-hamtad: 2026-11-06T20:54:55+00:00
-konverterad: 2026-11-06T20:55:53+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T19:48:48+00:00
+konverterad: 2026-11-08T19:49:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4919,11 +4919,8 @@ Postadress: Box 9082, 171 09 Solna
 Telefon: 010-730 90 00 • Telefax: 08-730 19 67
 E-post: (e-post borttagen) • Webbplats: av.se
 Organisationsnummer: 202100-2148
-mörtsgnE
-acinoM
-va
-92-10-4202
-dnäkdoG
+
+Godkänd 2024-01-29 av Monica Engström
 
 <!-- sida 122 -->
 
@@ -4976,11 +4973,8 @@ Vad är föreläggande och vite?
 
 Ett föreläggande är ett beslut av en myndighet som innebär att den som beslutet
 gäller ska genomföra en viss åtgärd.
-mörtsgnE
-acinoM
-va
-92-10-4202
-dnäkdoG
+
+Godkänd 2024-01-29 av Monica Engström
 
 <!-- sida 123 -->
 
@@ -5031,11 +5025,8 @@ Ni har i ett yttrande angett sammanfattningsvis följande. Dokumentation ska
 inte ingå i kringtiden, utan ska utföras på omsorgstagarens tid. Inte heller ska
 ombudsuppdrag ingå i kringtiden utan det finns specifikt utlagd tid för att
 hantera dessa uppdrag. Inköpslistor finns inte längre utan denna insats sker på
-mörtsgnE
-acinoM
-va
-92-10-4202
-dnäkdoG
+
+Godkänd 2024-01-29 av Monica Engström
 
 <!-- sida 124 -->
 
@@ -5088,11 +5079,8 @@ arbetet innan dessa åtgärder.
 
 Arbetsmiljöverket bedömer att ni inte tillräckligt har undersökt
 arbetsmiljöförhållandena med avseende på balans mellan krav och resurser i
-mörtsgnE
-acinoM
-va
-92-10-4202
-dnäkdoG
+
+Godkänd 2024-01-29 av Monica Engström
 
 <!-- sida 125 -->
 
@@ -5143,12 +5131,8 @@ de vet att den så kallade kringtiden kan användas i detta syfte.
 Med hänvisning till ovanstående bedömer vi att det finns skäl att förelägga er
 att åtgärda bristerna. Vi gör också bedömningen att föreläggandet ska förenas
 med ett vite på 100 000 kronor.
-mörtsgnE
-acinoM
-va
-92-10-4202
 
-dnäkdoG
+Godkänd 2024-01-29 av Monica Engström
 
 <!-- sida 126 -->
 
@@ -5183,14 +5167,7 @@ Katie Svensson, enhetschef, (e-post borttagen)
 Mikael Delin, verksamhetschef, (e-post borttagen)
 Ann Helene Svensson, verksamhetschef, (e-post borttagen)
 
-mörtsgnE
-
-acinoM
-
-va
-92-10-4202
-
-dnäkdoG
+Godkänd 2024-01-29 av Monica Engström
 
 <!-- sida 127 -->
 
@@ -5225,14 +5202,7 @@ telefonnummer anges.
 
 Vår postadress och e-postadress finns längst ner på sidan 1.
 
-mörtsgnE
-
-acinoM
-
-va
-92-10-4202
-
-dnäkdoG
+Godkänd 2024-01-29 av Monica Engström
 
 <!-- sida 128 -->
 
@@ -5284,11 +5254,8 @@ Postadress: Box 9082, 171 09 Solna
 Telefon: 010-730 90 00 • Telefax: 08-730 19 67
 E-post: (e-post borttagen) • Webbplats: av.se
 Organisationsnummer: 202100-2148
-mörtsgnE
-acinoM
-va
-80-21-3202
-dnäkdoG
+
+Godkänd 2023-12-08 av Monica Engström
 
 <!-- sida 129 -->
 
@@ -5335,11 +5302,8 @@ arbetet är anpassade till kraven i arbetet.
 Undersökningen ska minst omfatta:
 \-  Om de tider som är avsedda till förflyttning mellan brukare stämmer
 överens med den faktiska tiden som förflyttningarna tar,
-mörtsgnE
-acinoM
-va
-80-21-3202
-dnäkdoG
+
+Godkänd 2023-12-08 av Monica Engström
 
 <!-- sida 130 -->
 
@@ -5391,11 +5355,8 @@ Att minska arbetsmängd, ändra prioriteringsordning, variera arbetsuppgifterna,
 ge möjligheter till återhämtning, tillämpa andra arbetssätt, öka bemanning eller
 tillföra kunskaper är exempel på åtgärder för att förebygga ohälsosam
 arbetsbelastning
-mörtsgnE
-acinoM
-va
-80-21-3202
-dnäkdoG
+
+Godkänd 2023-12-08 av Monica Engström
 
 <!-- sida 131 -->
 
@@ -5444,11 +5405,8 @@ Ni som arbetsgivare angav att ni hade gjort en kartläggning som visade att en
 stor andel av arbetstagarna upplevde att de hade tillräckligt med tid för sitt
 uppdrag. Ni kunde inte svara på hur många som hade svarat på denna
 undersökning eller om det fanns arbetstagare som hade svarat flera gånger.
-mörtsgnE
-acinoM
-va
-80-21-3202
-dnäkdoG
+
+Godkänd 2023-12-08 av Monica Engström
 
 <!-- sida 132 -->
 
@@ -5501,11 +5459,8 @@ råder balans mellan krav och resurser i arbetet och bedömer om det finns risk
 för ohälsa så kan det innebära att ni inte vidtar några åtgärder, eller vidtar fel
 åtgärder, för att komma tillrätta med risker för ohälsa på grund av ohälsosam
 arbetsbelastning. Om det inte heller är tydligt vilka arbetsuppgifter som ska
-mörtsgnE
-acinoM
-va
-80-21-3202
-dnäkdoG
+
+Godkänd 2023-12-08 av Monica Engström
 
 <!-- sida 133 -->
 
@@ -5547,13 +5502,8 @@ Bilagor:
 
 Tjänsteanteckning från inspektionen 2023/040154-18
 Besöksanteckning 2023/040154-17 (uppgifter om deltagare vid inspektionen)
-mörtsgnE
-acinoM
 
-va
-80-21-3202
-
-dnäkdoG
+Godkänd 2023-12-08 av Monica Engström
 
 <!-- sida 134 -->
 
@@ -5573,14 +5523,7 @@ Katie Svensson, enhetschef, (e-post borttagen)
 Mikael Delin, verksamhetschef, (e-post borttagen)
 Ann Helene Svensson, verksamhetschef, (e-post borttagen)
 
-mörtsgnE
-
-acinoM
-
-va
-80-21-3202
-
-dnäkdoG
+Godkänd 2023-12-08 av Monica Engström
 
 <!-- sida 135 -->
 

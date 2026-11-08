@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.69ba44111969f9e42704c14f/1746688230
 sha256: 253e5793805bac8278af1a01cb8337e50c2308b1e19cac4ebf170fa2307a5ca6
 bytes: 16741418
 sidor: 52
-hamtad: 2026-11-06T20:08:37+00:00
-konverterad: 2026-11-06T20:12:34+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T18:59:00+00:00
+konverterad: 2026-11-08T19:03:01+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -1942,24 +1942,16 @@ Utvärderingsområde - Op rad - 10p cket hög grad - 15p
 1 I vilken grad tillgodoser initiativet en inkluderande miljö?
 
 I vilken grad tillgodoser initiativet en eller flera av de prioriterade
-lgruppernag E SS a
-
-”»
+grupperna? E SS a
 
 I vilken grad ä är initiativet öppet för ärvidra än föreningens medlemmar?
-
 I vilken grad främjar initiativet folkhälsan?
-
 I vilken grad främjar initiativet ett demokratiskt samhälle?
-
 I vilken grad involverar initiativet samarbete med andra föreningar?
-
-I vilken grad I finns det en långsiktig planering ad initiativet?
-
+I vilken grad finns det en långsiktig planering för initiativet?
+I vilken grad finansierar föreningen initiativet?
 10 I vilken gi sieras initiativet av externa aktörer genom tex fonder,
-förbund, åra o.likn.?
-
-oMtPnB VW
+förbi näringsliv o.likn.?
 
 4" I vilken grad bidrar initiativet till att skapa sociala sammanhang? Tex
 aktiviteter för blandade åldrar, ==
@@ -1972,6 +1964,8 @@ Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2025-05-07
 
 Karl Persson Andreas Heogfeldt
 Förvaltningschef Enhetschef Förening & Hållbar hälsa
+
+oMtPnB VW
 
 <!-- sida 46 -->
 

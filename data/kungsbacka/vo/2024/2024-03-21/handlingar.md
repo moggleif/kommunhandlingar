@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.99ff57618df2ddb19d38366/17107777120
 sha256: b4dadf45e03cae9c15ec71e56426abfc45c473b7215544f08149b256e9bff0f9
 bytes: 7670549
 sidor: 93
-hamtad: 2026-11-06T20:55:53+00:00
-konverterad: 2026-11-06T20:56:25+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T19:49:48+00:00
+konverterad: 2026-11-08T19:50:25+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2612,14 +2612,11 @@ KUNGSBACKA KOMMUN
 
 <!-- sida 61 -->
 
-KUB1001, v2.0, 2013-02-26
-
 PROTOKOLL
 
 Kungsbacka
 
 FÖRHANDLINGSPROTOKOLL enligt MBL §38, gällande entreprenör inom kundvalet i
-
 Vård och Omsorg i Kungsbacka kommun
 
 Datum: 2024-02-15
@@ -2648,25 +2645,24 @@ Ingela Linderoth Nord, Kommunal
 Ärende: Förhandling ny hemtjänstutförare
 
 \$ I Förhandling har påkallats av Kungsbacka kommun enligt MBL §38 med anledning av ny potentiell
-
 entreprenör inom kundvalet i Vård och Omsorg i Kungsbacka kommun
 
-Förskola & Grundskola
-
-Vanja Winroth
-
+Förskola & Grundskola Kungsbacka kommun
+Vanja Winroth 434 81 Kungsbacka
 Direkt 0300-83 42 47
-vanja.winroth(Qkungsbacka.se
 
-Kungsbacka kommun
-434 81 Kungsbacka
-Besöksadress
+bocod Besöksadress
+vanja.winroth(Qkungsbacka.se ;
+
 Stadshuset, Storgatan 37
+
 Telefon 0300-83 40 00
 Fax 0300-83 41 64
 
 forskola.grundskola(Qkungsbacka.se
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 62 -->
 

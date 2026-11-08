@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.69662c5a18d8755e10814ac3/1707978389
 sha256: edc2787ecf8261a8afdd867190e32c3bf3eea3a49e3dc17bcec3a3ccc3b7a8ca
 bytes: 61719067
 sidor: 993
-hamtad: 2026-11-06T21:59:44+00:00
-konverterad: 2026-11-06T22:06:33+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T21:00:13+00:00
+konverterad: 2026-11-08T21:07:19+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
@@ -4295,13 +4295,8 @@ Se bilaga 1. Kriterierna för undantaget därmed inte uppfylls.
 När det kommer till att området behöver tas i anspråk för att tillgodose ett annat mycket angeläget
 intresse kan följande konstateras. Ett mycket angeläget intresse innebär mycket speciella
 Justerare                                   Expedierat/bestyrkt
-42-80-3202
-–
-161
-§
-NB
-–
-snepsidsddyksdnartS
+
+Strandskyddsdispens – BN § 161 – 2023-08-24
 
 <!-- sida 123 -->
 
@@ -5850,11 +5845,14 @@ Marken på ömse sidor om Sörån utgörs av sluttande berg.
 
 <!-- sida 168 -->
 
+Ankomstdatum 2022-11-03
+Diarienummer MH-2022-4553
+
 N 6397065                        Tänk på att gränserna i kartan inte alltid stämmer överens med verkligheten och de är inte juridiskt gällande. © Lantmäteriet
 
 N
 
-N 6396958
+0      20     40    60m                               N 6396958
 Skala 1:600, SWEREF 99 TM, RH 2000.
 
 Nedströms vägbron löper järnvägsrälsen fortsatt enbart några meter från vattendraget. Söder
@@ -5870,13 +5868,10 @@ vid sidan av bron alternativt behöver man bygga en ny bro. Att det är mycket t
 platsen framgår av infogade fotografier.
 
 5
-787463
-E
-459463
-E
-Ankomstdatum 2022-11-03
-Diarienummer MH-2022-4553
-0      20     40    60m
+
+E 364787
+
+E 364954
 
 <!-- sida 169 -->
 
@@ -5907,6 +5902,9 @@ om ån.
 
 <!-- sida 171 -->
 
+Ankomstdatum 2022-11-03
+Diarienummer MH-2022-4553
+
 Därtill kommer att kostnaderna skulle bli orimliga och oacceptabla med beaktande av att
 mark som idag utgör järnväg, allmän väg, vägbro och mark inom privat bostadsfastighet
 skulle behöva tas i anspråk. Närheten till järnvägen skulle kräva särskilt hänsynstagande,
@@ -5925,17 +5923,14 @@ N 6396975                         Tänk på att gränserna i kartan inte alltid 
 
 N
 
-N 6396762
+0    30    60   90m                                     N 6396762
 Skala 1:1 200, SWEREF 99 TM, RH 2000.
 
 8
-760463
-E
-004463
-E
-Ankomstdatum 2022-11-03
-Diarienummer MH-2022-4553
-0    30    60   90m
+
+E 364067
+
+E 364400
 
 <!-- sida 172 -->
 
@@ -7380,20 +7375,20 @@ Nuvärde                         35    - kr 1 981 250 kr 817,22 817 220 kr 1 868
 
 <!-- sida 212 -->
 
+Ankomstdatum 2024-01-19
+Diarienummer MH-2023-4574
+
 VÄNERSBORGS  TINGSRÄTT     FÖRELÄGGANDE                Aktbilaga 22
 Mark- och miljödomstolen   2023-07-04                  Mål nr M 3423-22
 R4
 
-407816
-
-dI.koD
-Ankomstdatum 2024-01-19
-Diarienummer MH-2023-4574
 Forsnacken AB genom            Advokat Pia Bosdotter Olson
+
 Parter: Forsnacken AB
 Målet gäller: ansökan om omprövning av vattenverksamhet mellan Sundsjön och Stensjön
 vid Ålgårda kraftverk på fastigheterna Ålgårda 1:2 och Sundstrop 7:2 i Kungsbacka kommun
 (prövningsgrupp Rolfsån 106_1)
+
 Komplettera ansökan
 Domstolen har mottagit Er komplettering av den 22 juni 2023. Kompletteringsbehov
 kvarstår dock. Ni föreläggs nu att komplettera ansökan enligt följande.
@@ -7401,6 +7396,7 @@ kvarstår dock. Ni föreläggs nu att komplettera ansökan enligt följande.
 vattenförekomsterna Gesebols sjö (WA88909983), Stora Öresjön WA35557387 och
 Viaredssjön (WA65290953) har betydelse för möjligheten att bestämma rimliga och
 ändamålsenliga miljövillkor för Ålgårda kraftverk.
+
 2\. Ni har föreslagit att befintligt villkor ”att då vattenverket står stilla, minst den
 normala lågvattenmängden - cirka två sek-kbm - avtappas genom regleringsdammen”
 ska ersättas av villkoret ”att 1,6 m3/s avtappas genom regleringsdammen”. Det
@@ -7409,24 +7405,32 @@ Ni i Er komplettering 2023-06-22 att det inte är ”rimligt, eller naturligt, a
 långvariga perioder med låg tillrinning hålla uppe en onaturligt hög minimitappning”
 och att lägsta vattenföringen vid utloppet ur Stensjön 2018 var 1,03 m3/s. Hur ska
 det föreslagna villkoret uppfattas?
+
 3\. Syftet med omprövningen är att vattenverksamheten ska förses med moderna
 miljövillkor. Prövningen ska ske inte bara mot gällande miljökvalitetsnormer för
 vatten utan också mot bl.a. påverkan på intilliggande natura 2000-områden – och
 detta oberoende av om sådan påverkan redan förekommer. Det är därför av vikt att
 ansökan kompletteras med en redovisning av anläggningens och åtgärdernas
 påverkan på Natura 2000-området Rolfsån i enlighet med vad länsstyrelsen anfört.
+
 Komplettering enligt ovan ska ha kommit in till domstolen senast den 22 september
 2023senast den 22 september 2023. Om den inte kommer in i tid kan domstolen besluta att
 inte ta upp målet till prövning.
+
 Göran Stenman
 Rådman
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 618704
 
 <!-- sida 213 -->
 
@@ -7638,31 +7642,17 @@ ANVISNING  FÖR  HUR MAN  ÖVERKLAGAR
 
 – DOM I MÅL DÄR  MARK- OCH  MILJÖDOMSTOLEN    ÄR FÖRSTA  INSTANS
 
-Den som vill överklaga mark- och miljödomsto- Skrivelsen med överklagande ska innehålla
-lens dom ska göra detta skriftligen. Skrivelsen uppgifter om:
+Den som vill överklaga mark- och miljödomsto-
+lens dom ska göra detta skriftligen. Skrivelsen
 ska skickas eller lämnas till mark- och miljö-
-1\. den dom som överklagas med angivande av mark-
 domstolen. Överklagandet prövas av Mark- och
-och miljödomstolens namn samt datum för do-
 miljööverdomstolen vid Svea hovrätt.
-men och målnummer,
 
-2\. den ändring av mark- och miljödomstolens dom
 Överklagandet ska ha kommit in till mark- och
-som klaganden vill få till stånd,
 miljödomstolen inom tre veckor från domens
-datum. Sista dagen för överklagande finns angi- 3. grunderna (skälen) för överklagandet och i vilket
-avseende mark- och miljödomstolens domskäl en-
+datum. Sista dagen för överklagande finns angi-
 ven på sista sidan i domen.
-ligt klagandens mening är oriktiga,
 
-70-4102
-
-•
-tekrevslotsmoD
-
-va
-tarecudorP
 Har ena parten överklagat domen i rätt tid, får
 också motparten överklaga domen (s.k. anslut-
 ningsöverklagande) även om den vanliga tiden
@@ -7674,9 +7664,11 @@ från den i domen angivna sista dagen för överkla-
 gande. Om det första överklagandet återkallas el-
 ler förfaller kan inte heller anslutningsöverklagan-
 det prövas.
+
 För att ett överklagande ska kunna tas upp krävs
 att Mark- och miljööverdomstolen lämnar pröv-
 ningstillstånd. Det görs om:
+
 1\. det finns anledning att betvivla riktigheten av det
 slut som mark- och miljödomstolen har kommit
 till,
@@ -7685,20 +7677,32 @@ bedöma riktigheten av det slut som mark- och
 miljödomstolen har kommit till,
 3\. det är av vikt för ledning av rättstillämpningen att
 överklagandet prövas av högre rätt, eller
+
 4\. det annars finns synnerliga skäl att pröva överkla-
 gandet.
-Om  prövningstillstånd inte meddelas står mark-
+Om prövningstillstånd inte meddelas står mark-
 och miljödomstolens avgörande fast. Det är där-
 för viktigt att det klart och tydligt framgår av
 överklagandet till Mark- och miljööverdomstolen
 varför klaganden anser att prövningstillstånd bör
 meddelas.
 
+Skrivelsen med överklagande ska innehålla
+uppgifter om:
+
+1\. den dom som överklagas med angivande av mark-
+och miljödomstolens namn samt datum för do-
+men och målnummer,
+2\. den ändring av mark- och miljödomstolens dom
+som klaganden vill få till stånd,
+3\. grunderna (skälen) för överklagandet och i vilket
+avseende mark- och miljödomstolens domskäl en-
+ligt klagandens mening är oriktiga,
+
 4\. de omständigheter som åberopas till stöd för att
 prövningstillstånd ska meddelas, samt
 5\. de bevis som åberopas och vad som ska styrkas
 med varje bevis.
-
 Har en omständighet eller ett bevis som åberopas
 i Mark- och miljööverdomstolen inte lagts fram
 tidigare, ska klaganden förklara anledningen till
@@ -7706,6 +7710,7 @@ omständigheten eller beviset inte åberopats i
 mark- och miljödomstolen. Skriftliga bevis som
 inte lagts fram tidigare ska ges in samtidigt med
 överklagandet. Vill klaganden att det ska hållas ett
+
 förnyat förhör eller en förnyad syn på stället, ska
 han eller hon ange det och skälen till detta. Kla-
 ganden ska också ange om han eller hon vill att
@@ -7716,7 +7721,6 @@ Skrivelsen ska vara undertecknad av klaganden
 eller hans/hennes ombud.
 
 Om  ni tidigare informerats om att förenklad
-
 delgivning kan komma att användas med er i
 målet/ärendet, kan sådant delgivningssätt också
 komma att användas med er i högre instanser om
@@ -7727,9 +7731,8 @@ jödomstolen. Adress och telefonnummer finns på
 första sidan av domen.
 
 www.domstol.se
-•
-524
-VD
+
+DV 425 • Producerat av Domstolsverket • 2014-07
 
 <!-- sida 218 -->
 
@@ -8668,10 +8671,6 @@ INFORMATION                   1 (1)
 Hur man  överklagar – dom i mål där mark- och miljödomsto-
 len är första instans
 
-11-8002
-
-,524
-VD
 Den som vill överklaga mark- och miljö-
 domstolens dom ska göra detta skriftligen.
 Skrivelsen ska skickas eller lämnas till
@@ -8682,6 +8681,7 @@ vid Svea hovrätt.
 miljödomstolen inom tre veckor från domens
 datum. Sista dagen för överklagande finns an-
 given på sista sidan i domen.
+
 Har ena parten överklagat domen i rätt tid, får
 också motparten överklaga domen (s.k. ans-
 lutningsöverklagande) även om den vanliga ti-
@@ -8760,6 +8760,8 @@ finns på första sidan av domen.
 Dv 425
 
 www.domstol.se
+
+DV 425, 2008-11
 
 <!-- sida 237 -->
 
@@ -11935,14 +11937,20 @@ Bilagor:
 
 <!-- sida 298 -->
 
+Mål        nr     M     3430–22
+
+PM        UTREDNING                           AV
+
+ALTERNATIV                           FISKVÄG
+
+VID        GÖKALID
+
+VATTENKRAFTVERK
+
 Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
 e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg gökalids vattenkraftverk.docx
-mtod.lamron
-Mål        nr     M     3430–22
-PM        UTREDNING                           AV
-ALTERNATIV                           FISKVÄG
-VID        GÖKALID
-VATTENKRAFTVERK
+
+normal.dotm
 
 <!-- sida 299 -->
 
@@ -11955,39 +11963,43 @@ Mottagare
 Mark- och miljödomstolen vid
 Vänersborgs tingsrätt
 
+Revisionshistorik
+Revision Datum Beskrivning        Författare    Granskad av
+1     2023-11-29 Granskning       Andreas Bäckstrand Olle Dahlberg
+
+INNEHÅLLSFÖRTECKNING
+Inledning ....................................................................................................................... 2
+
+Förslag på alternativ fiskväg ......................................................................................... 3
+Omlöpets funktion ........................................................................................................ 4
+Påverkan på miljön ....................................................................................................... 5
+
+Förhållanden under byggnadstiden .............................................................................. 5
+Kostnadsuppskattning .................................................................................................. 5
+Bilagor: ......................................................................................................................... 5
+
 Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
 
 e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg gökalids
 vattenkraftverk.docx
-mtod.lamron
-Revisionshistorik
-Revision Datum Beskrivning        Författare    Granskad av
-1     2023-11-29 Granskning       Andreas Bäckstrand Olle Dahlberg
-INNEHÅLLSFÖRTECKNING
-Inledning ....................................................................................................................... 2
-Förslag på alternativ fiskväg ......................................................................................... 3
-Omlöpets funktion ........................................................................................................ 4
-Påverkan på miljön ....................................................................................................... 5
-Förhållanden under byggnadstiden .............................................................................. 5
-Kostnadsuppskattning .................................................................................................. 5
-Bilagor: ......................................................................................................................... 5
+
+normal.dotm
 
 <!-- sida 300 -->
 
 PM 2023-11-29
 
-Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
-e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
-gökalids vattenkraftverk.docx
-mtod.lamron
 Inledning
+
 Mark- och miljödomstolen vid Vänersborgs tingsrätt har förelagt sökanden att komplettera
 ansökan med ett alternativ till upp- och nedströmspassage till Sundstorpsån som inte berör
 de befintliga anläggningarna för kraftverket.
 Ett alternativ till föreslagen fiskväg skulle kunna vara ett omlöp. Den plats där det skulle
 kunna vara möjligt att anlägga en fiskväg är från vattendraget strax uppströms befintlig
 kulvert för att därefter anläggas nordost om väg och utloppskanal (Fig 1).
+
 Figur 1. Möjlig placering av en alternativ fiskväg.
+
 Där består marken av en kulle av urberg enligt SLUs jordartskarta (Fig 2). Förekomst av berg
 har även konstaterats vid platsbesök. Det är dock osäkert i vilken utsträckning det är berg
 utmed nedre delen av omlöpets längd. Utloppskanalen från kraftverket är nedsprängd i
@@ -11998,16 +12010,19 @@ minst 400 m3. Vid jordschakt uppgår schaktmassorna till ca 1800 m3. Kostnaden f
 anlägga fiskvägen blir därmed betydande. Detta var också anledningen till att en Larinier-
 super active baffle fishway, eller liknande i första hand föreslås som lösning på platsen.
 
+Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
+e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
+gökalids vattenkraftverk.docx
+
+normal.dotm
+
 <!-- sida 301 -->
 
 PM 2023-11-29
 
-Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
-e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
-gökalids vattenkraftverk.docx
-mtod.lamron
 Figur 2. SGUs jordartskarta. Rödfärgade områden utgörs av urberg, ljusblå sandig morän,
 orange postglacial sand och gult glacial finlera.
+
 Förslag på alternativ fiskväg
 Den alternativa fiskväg som nu utretts utgörs av ett 88 meter långt omlöp med ca 2,5%
 lutning som sprängs ner i berget utmed stora delar av dess sträckning (Fig 1). Området där
@@ -12020,16 +12035,19 @@ läggs i fåran för att styra vattnet vid normalflöden ner till omlöpet. Avle
 omlöpet ska i så fall utföras så att vid minimitappning leds allt vatten ner till omlöpet och vid
 högre flöden skulle vattnet även avbördas via befintlig kulvert.
 
+Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
+e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
+gökalids vattenkraftverk.docx
+
+normal.dotm
+
 <!-- sida 302 -->
 
 PM 2023-11-29
 
-Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
-e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
-gökalids vattenkraftverk.docx
-mtod.lamron
 Figur 3. Området där en alternativ fiskväg utretts är från vattendraget strax ovan kulverten och ner till
 utloppskanalen. Höjdskillnaden mellan gräsmarken i bildens övre högra hörn och vägen är ca 5 meter.
+
 Vid bergschakt kan botten kläs med natursten i fraktionen 300–500 mm kompletterat med
 mindre fraktioner (100–250 mm), de större stenblocken används för att skapa biotoper.
 Stenen tätas och fixeras med krossmaterial 0–50 mm. Vid jordschakt kan botten kläs först
@@ -12039,32 +12057,38 @@ som erosionsskydd.
 Omlöpets botten kan utformas med hjälp av grövre natursten så att vattnets väg genom
 omlöpet ökar samtidigt som önskat vattendjup uppnås. De större stenblocken är också till för
 att skapa biotoper och strömlä för fisk och bottenfauna.
+
 Vid föreslagen minimitappning 0,1 m3/s plus ett mindre tillskott av vatten från Kroksjön skulle
 omlöpet utformas så att vattennivån i omlöpet uppgår till ca 0,3-0,4 meter.
+
 Botten på omlöpet skulle som mest ligga ca 6 meter under omgivande mark med en
 dagbredd på som mest ca 18 meter vid jordschakt. Vid bergschakt minskar dagbredden
 något medan djupet blir ca 5,5 meter under omgivande mark. Vid bergschakt kan vänstra
 sidan av omlöpet göras relativt brant vilket minskar såväl dagbredd som avståndet mellan
 omgivande mark och botten.
+
 Omlöpets funktion
 Det nu utredda omlöpet skulle mynna längre bort från turbinutloppet än den föreslagna
 Larinier fiskvägen. Därmed bedöms fiskvägens attraktionskraft (hur lätt fisken hittar
 fiskvägen) bli något sämre jämfört med Larinier fiskvägen. Däremot bedöms omlöpet ge
 
+Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
+e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
+gökalids vattenkraftverk.docx
+
+normal.dotm
+
 <!-- sida 303 -->
 
 PM 2023-11-29
 
-Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
-e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
-gökalids vattenkraftverk.docx
-mtod.lamron
 minst lika god passerbarhet för öring och ål och bedöms ha något bättre passerbarhet för
 övrig fisk så som abborre och mört. Den totala passageeffektiviteten bedöms något sämre
 för öring och ålyngel men något bättre för svagsimmande fisk som abborre och mört.
 Nedströms skulle fisk även fortsättningsvis kunna passera såväl via omlöpet som genom
 kulverten. Nedströms kulvertens mynning är vattendjupet fullt tillräckligt för att fisken inte ska
 skada sig.
+
 Påverkan på miljön
 Anläggande av ett omlöp skulle innebära att en stor del av den bergskulle som finns på
 platsen tas bort genom bergschakt. Av rent anläggningstekniska skäl kommer sannolikt
@@ -12072,10 +12096,13 @@ schakten utmed omlöpets högra sida gå hela vägen fram till vägen. Där finn
 träd som behöver avverkas. Utmed vänster sida av omlöpet skulle sidan bli brant (förutsatt
 bergschakt) och schakten djup vilket innebär att det finns risk att såväl djur som människor
 kan skadas genom fallolyckor. Den vänstra sidan bör i så fall förses med ett viltstängsel.
+
 Vägen fram till kraftverket behöver förstärkas då det är omfattande tunga transporter som
 behövs för att avlägsna berg- och schaktmassor. Vägen passerar en gårdsplan i dess övre
 del och även denna kommer troligtvis ta skada och behöver i så fall återställas.
+
 Förhållanden under byggnadstiden
+
 Eventuell entreprenad kan ske i huvudsak i torrhet. Då det idag inte förekommer någon
 minimitappning från Tolaredssjön är vattenflödet i bäcken mycket begränsad, nära noll vid
 lågflöden. Vid anläggande av omlöpets övre del och schaktarbeten i bäcken kan en enkel
@@ -12089,14 +12116,24 @@ eventuellt läckage i miljön förhindras eller begränsas genom att under entre
 medföra saneringsutrustning samt att en oljeläns under arbetstiden kan läggas ut över hela
 vattendragsbredden nedströms arbetsområdet. Oljelänsen absorberar mindre spill och
 förhindrar större spill att spridas så att det lättare kan saneras.
+
 Kostnadsuppskattning
+
 Kostnaden för att anlägga ett omlöp är beroende på hur mycket bergschakt som måste
 genomföras. Omlöpet beräknas kosta mellan ca 3,0 och 3,5 miljoner kronor.
+
 Andreas Bäckstrand, biolog med inriktning på fisk- och vattenvård
+
 Bilagor:
 MA 101 Situationsplan
 MA 102 Situationsplan omlöp
 MA 103 Sektioner
+
+Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
+e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
+gökalids vattenkraftverk.docx
+
+normal.dotm
 
 <!-- sida 304 -->
 
@@ -12547,20 +12584,6 @@ BET 2023-11
 
 <!-- sida 306 -->
 
-\~500
-
-1:1.5
-1:1.5
-\~500
-
-\~500
-
-5:1            5:1
-
-300
-
-300
-\~500 \~500 0051
 OMLÖPETS LÄNGD CA 88 m
 FALL CA 2,5%
 JORDSCHAKTSVOLYM: 1815 m3
@@ -12569,17 +12592,32 @@ BERGSCHAKTSVOLYM: 400 m3
 VID ENBART BERGSCHAKT FÖR OMLÖP
 FYLLNING MED NATURSTEN CA 146 m3
 VID JORDSCHAKTSALTERNATIV
+
+\~500
 A02
+1 : 50                                                                                      1:1.5
+1:1.5
+B02                        \~500
 1 : 50
-B02
-1 : 50
+
+\~500
+
 C02
 1 : 50
+
 A ö \ k G D
 al
 di
 r.
 vt
+
+300
+
+\~500
+300
+5:1
+\~500
+5:1
 BET ANT ÄNDRINGEN AVSER SIGN DATUM
 X\\
 pp
@@ -12766,6 +12804,8 @@ BET 2023-
 3 15:
 13
 0:
+
+1500
 
 <!-- sida 307 -->
 
@@ -13222,6 +13262,8 @@ att den hydrologiska regimen även fortsättningsvis bör klassas som god.
 
 2023-09-22
 
+Vattenföring utloppet ur Stensjön 2016-2021
+
 70,0
 
 60,0
@@ -13238,6 +13280,10 @@ att den hydrologiska regimen även fortsättningsvis bör klassas som god.
 
 0,0
 
+Total         Total
+stationskorrigerad naturlig
+vattenföring  vattenföring
+[m³/s]        [m³/s]
 Figur 1. Vattenföring vid Stensjöns utlopp under åren 2016 till och med 2021 redovisad som total
 stationskorrigerad vattenföring samt beräknad naturlig vattenföring. SMHI har en mätstation vid Stensjöns
 utlopp (data från SMHI:s vattenwebb).
@@ -13264,12 +13310,80 @@ Enligt nuvarande bevarandeplan under rubriken ”viktiga bevarandemål” anges 
 vattendrag” att vattendraget ska ha en naturlig vattenflödesdynamik. En naturlig
 vattenflödesdynamik innefattar såväl naturligt förekommande hög- som lågflödesperioder. Det finns
 ingenting i ansökan som strider mot detta förutom att medellågvattenföringen är något högre än den
-10-10-6102 10-30-6102 03-40-6102 92-60-6102 82-80-6102 72-01-6102 62-21-6102 42-20-7102 52-40-7102 42-60-7102 32-80-7102 22-01-7102 12-21-7102 91-20-8102 02-40-8102 91-60-8102 81-80-8102 71-01-8102 61-21-8102 41-20-9102 51-40-9102 41-60-9102 31-80-9102 21-01-9102 11-21-9102 90-20-0202 90-40-0202 80-60-0202 70-80-0202 60-01-0202 50-21-0202 30-20-1202 40-40-1202 30-60-1202 20-80-1202 10-01-1202 03-11-1202
-Vattenföring utloppet ur Stensjön 2016-2021
-Total         Total
-stationskorrigerad naturlig
-vattenföring  vattenföring
-[m³/s]        [m³/s]
+
+2016-01-01
+
+2016-03-01
+
+2016-04-30
+
+2016-06-29
+
+2016-08-28
+
+2016-10-27
+
+2016-12-26
+
+2017-02-24
+
+2017-04-25
+
+2017-06-24
+
+2017-08-23
+
+2017-10-22
+
+2017-12-21
+
+2018-02-19
+
+2018-04-20
+
+2018-06-19
+
+2018-08-18
+
+2018-10-17
+
+2018-12-16
+
+2019-02-14
+
+2019-04-15
+
+2019-06-14
+
+2019-08-13
+
+2019-10-12
+
+2019-12-11
+
+2020-02-09
+
+2020-04-09
+
+2020-06-08
+
+2020-08-07
+
+2020-10-06
+
+2020-12-05
+
+2021-02-03
+
+2021-04-04
+
+2021-06-03
+
+2021-08-02
+
+2021-10-01
+
+2021-11-30
 
 <!-- sida 317 -->
 
@@ -13396,33 +13510,40 @@ VÄNERSBORGS  TINGSRÄTT     KUNGÖRELSE                  Aktbilaga
 Mark- och miljödomstolen   2023-12-04                  Mål nr M 3423-22
 R4
 
-490836
-
-dI.koD
 Mark- och miljödomstolen
+
 Vid Vänersborgs tingsrätt, mark- och miljödomstolen, har Forsnacken AB ansökt om
 omprövning för moderna miljövillkor av den vattenverksamhet som bedrivs vid Ålgårda
 kraftverk, beläget mellan Sundsjön och Stensjön på fastigheterna Kungsbacka Ålgårda 1:2
 och Kungsbacka Sundstrop 7:2. Det har framförts att åtgärden omfattas av kraven på
 specifik miljöbedömning enligt 6 kap. miljöbalken. Synpunkter med anledning av ansökan
 och miljökonsekvensbeskrivning ska ges in skriftligen senast den 31 januari 2024.
+
 Yrkanden om ersättning framställs helst skriftligen inom samma tid och senast vid
 domstolens kommande huvudförhandling. Domstolen får avvisa senare framställda
 yrkanden om de inte har föranletts av iakttagelser vid syn eller av andra omständigheter som
 förekommit under huvudförhandlingen.
+
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
 Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3423-22.
+
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Göteborgs-
+
 Posten, Norra Halland och Kungsbacka -Posten.
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 638094
 
 <!-- sida 324 -->
 
@@ -13697,33 +13818,43 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 331 -->
 
+Ankomstdatum 2023-12-20
+Diarienummer MH-2023-4570
+
 VÄNERSBORGS  TINGSRÄTT     UNDERRÄTTELSE               Aktbilaga 28
 Mark- och miljödomstolen   2023-12-20                  Mål nr M 3430-22
 R4
 
-916046
-
-dI.koD
-Ankomstdatum 2023-12-20
-Diarienummer MH-2023-4570
 Nämnden för Miljö & Hälsoskydd
+
 i Kungsbacka kommun
+
 Parter: Forsnacken AB m.fl.
+
 Målet gäller: ansökan om omprövning av vattenverksamhet i Tolaredsån vid Gökalids
 kraftverk samt Stora Öresjöns regleringsdammar på fastigheterna Bobygd 2:11 m fl i
 Marks kommun (prövningsgrupp Rolfsån 106_1)
+
 De bifogade handlingarna skickas till er för kännedom.
+
 Kontakta oss gärna per e-post (e-post borttagen) eller telefon om ni har frågor.
+
 Valentina Juric
 Telefon 0521- 27 03 06
+
 Bifogade handlingar: aktbilaga 24-26 (mål M 3430-22)
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 640619
 
 <!-- sida 332 -->
 
@@ -14290,9 +14421,10 @@ Diarienummer MH-2023-4570
 
 <!-- sida 347 -->
 
-2023-12-12
 Ankomstdatum 2023-12-20
 Diarienummer MH-2023-4570
+
+2023-12-12
 
 UNDERSÖKNING   AV FISKFÖREKOMST  I SJÖAR VID FORSNACKEN  AB:s
 ANLÄGGNINGAR   I ROLFSÅNS VATTENSYSTEM                 VÄNERSBORGS TINGSRÄTT
@@ -14347,9 +14479,11 @@ utveckling i ett vatten borde det innebära att fiskarten inte längre finns kva
 
 <!-- sida 348 -->
 
-2023-12-12
 Ankomstdatum 2023-12-20
 Diarienummer MH-2023-4570
+
+2023-12-12
+
 Viaredssjön
 eDNA undersökningen visar att det är i stort samma fiskarter som förekommer i sjön som vid
 provfisket 1996 (Fiskeribiologisk undersökning av Viaredssjön 1996). Undantagen utgörs framförallt
@@ -14404,9 +14538,11 @@ de ursprungliga arterna i sjöarna och öring i tillrinnande vattendrag.
 
 <!-- sida 349 -->
 
-2023-12-12
 Ankomstdatum 2023-12-20
 Diarienummer MH-2023-4570
+
+2023-12-12
+
 Det finns ingenting som tyder på att verksamheten inneburit att någon fiskart försvunnit från Stora
 Öresjön eller Tolaredssjön med undantag för att även ål borde funnits i Stora Öresjön. Därmed kan
 man ifrågasätta om bristande konnektivitet har resulterat i att någon av de förekommande
@@ -14494,40 +14630,48 @@ www.domstol.se
 
 <!-- sida 352 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+
 VÄNERSBORGS  TINGSRÄTT     KUNGÖRELSE                  Aktbilaga 20
 Mark- och miljödomstolen   2023-12-05                  Mål nr M 3430-22
 R4
 
-961836
-
-dI.koD
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
 Mark- och miljödomstolen
+
 Vid Vänersborgs tingsrätt, mark- och miljödomstolen, har Forsnacken AB och Gökalid
 Kraft AB ansökt om omprövning för moderna miljövillkor av vattenverksamheten vid
 Gökalids kraftverk i Tolaredsån samt Stora Öresjöns regleringsdammar. Verksamheten
 uppges beröra fastigheterna Mark Bobygd 2:11, Mark Gökalid 1:5 och 1:6, Mark Tolared 1:3,
 Mark Grimmered 1:3 samt Kungsbacka Nolgärde 1:2. I målet har reservationsvis
 yrkatstvångsrätt för att utföra ålyngelledare på fastigheten Mark Grimmered 1:3.
+
 Synpunkter med anledning av ansökan och miljökonsekvensbeskrivningen ska ges in
 skriftligen senast den 31 januari 2024. Yrkanden om ersättning framställs helst skriftligen
 inom samma tid och senast vid domstolens kommande huvudförhandling. Domstolen får
 avvisa senare framställda yrkanden om de inte har föranletts av iakttagelser vid syn eller av
 andra omständigheter som förekommit under huvudförhandlingen.
+
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
 Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3430-22.
+
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
+
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Borås Tidning
 och Göteborgs-Posten.
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 638169
 
 <!-- sida 353 -->
 
@@ -14872,18 +15016,28 @@ Bilagor:
 
 <!-- sida 359 -->
 
-Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
-e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg gökalids vattenkraftverk.docx
-mtod.lamron
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
+
 Mål        nr     M     3430–22
+
 PM        UTREDNING                           AV
+
 ALTERNATIV                           FISKVÄG
+
 VID        GÖKALID
+
 VATTENKRAFTVERK
 
+Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
+e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg gökalids vattenkraftverk.docx
+
+normal.dotm
+
 <!-- sida 360 -->
+
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
 
 Referensnummer Revision PM
 
@@ -14894,43 +15048,46 @@ Mottagare
 Mark- och miljödomstolen vid
 Vänersborgs tingsrätt
 
-Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
-
-e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg gökalids
-vattenkraftverk.docx
-mtod.lamron
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
 Revisionshistorik
 Revision Datum Beskrivning        Författare    Granskad av
 1     2023-11-29 Granskning       Andreas Bäckstrand Olle Dahlberg
+
 INNEHÅLLSFÖRTECKNING
 Inledning ....................................................................................................................... 2
+
 Förslag på alternativ fiskväg ......................................................................................... 3
 Omlöpets funktion ........................................................................................................ 4
 Påverkan på miljön ....................................................................................................... 5
+
 Förhållanden under byggnadstiden .............................................................................. 5
 Kostnadsuppskattning .................................................................................................. 5
 Bilagor: ......................................................................................................................... 5
 
+Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
+
+e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg gökalids
+vattenkraftverk.docx
+
+normal.dotm
+
 <!-- sida 361 -->
+
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
 
 PM 2023-11-29
 
-Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
-e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
-gökalids vattenkraftverk.docx
-mtod.lamron
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
 Inledning
+
 Mark- och miljödomstolen vid Vänersborgs tingsrätt har förelagt sökanden att komplettera
 ansökan med ett alternativ till upp- och nedströmspassage till Sundstorpsån som inte berör
 de befintliga anläggningarna för kraftverket.
 Ett alternativ till föreslagen fiskväg skulle kunna vara ett omlöp. Den plats där det skulle
 kunna vara möjligt att anlägga en fiskväg är från vattendraget strax uppströms befintlig
 kulvert för att därefter anläggas nordost om väg och utloppskanal (Fig 1).
+
 Figur 1. Möjlig placering av en alternativ fiskväg.
+
 Där består marken av en kulle av urberg enligt SLUs jordartskarta (Fig 2). Förekomst av berg
 har även konstaterats vid platsbesök. Det är dock osäkert i vilken utsträckning det är berg
 utmed nedre delen av omlöpets längd. Utloppskanalen från kraftverket är nedsprängd i
@@ -14941,18 +15098,22 @@ minst 400 m3. Vid jordschakt uppgår schaktmassorna till ca 1800 m3. Kostnaden f
 anlägga fiskvägen blir därmed betydande. Detta var också anledningen till att en Larinier-
 super active baffle fishway, eller liknande i första hand föreslås som lösning på platsen.
 
-<!-- sida 362 -->
-
-PM 2023-11-29
-
 Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
 e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
 gökalids vattenkraftverk.docx
-mtod.lamron
+
+normal.dotm
+
+<!-- sida 362 -->
+
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
+
+PM 2023-11-29
+
 Figur 2. SGUs jordartskarta. Rödfärgade områden utgörs av urberg, ljusblå sandig morän,
 orange postglacial sand och gult glacial finlera.
+
 Förslag på alternativ fiskväg
 Den alternativa fiskväg som nu utretts utgörs av ett 88 meter långt omlöp med ca 2,5%
 lutning som sprängs ner i berget utmed stora delar av dess sträckning (Fig 1). Området där
@@ -14965,18 +15126,22 @@ läggs i fåran för att styra vattnet vid normalflöden ner till omlöpet. Avle
 omlöpet ska i så fall utföras så att vid minimitappning leds allt vatten ner till omlöpet och vid
 högre flöden skulle vattnet även avbördas via befintlig kulvert.
 
-<!-- sida 363 -->
-
-PM 2023-11-29
-
 Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
 e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
 gökalids vattenkraftverk.docx
-mtod.lamron
+
+normal.dotm
+
+<!-- sida 363 -->
+
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
+
+PM 2023-11-29
+
 Figur 3. Området där en alternativ fiskväg utretts är från vattendraget strax ovan kulverten och ner till
 utloppskanalen. Höjdskillnaden mellan gräsmarken i bildens övre högra hörn och vägen är ca 5 meter.
+
 Vid bergschakt kan botten kläs med natursten i fraktionen 300–500 mm kompletterat med
 mindre fraktioner (100–250 mm), de större stenblocken används för att skapa biotoper.
 Stenen tätas och fixeras med krossmaterial 0–50 mm. Vid jordschakt kan botten kläs först
@@ -14986,34 +15151,41 @@ som erosionsskydd.
 Omlöpets botten kan utformas med hjälp av grövre natursten så att vattnets väg genom
 omlöpet ökar samtidigt som önskat vattendjup uppnås. De större stenblocken är också till för
 att skapa biotoper och strömlä för fisk och bottenfauna.
+
 Vid föreslagen minimitappning 0,1 m3/s plus ett mindre tillskott av vatten från Kroksjön skulle
 omlöpet utformas så att vattennivån i omlöpet uppgår till ca 0,3-0,4 meter.
+
 Botten på omlöpet skulle som mest ligga ca 6 meter under omgivande mark med en
 dagbredd på som mest ca 18 meter vid jordschakt. Vid bergschakt minskar dagbredden
 något medan djupet blir ca 5,5 meter under omgivande mark. Vid bergschakt kan vänstra
 sidan av omlöpet göras relativt brant vilket minskar såväl dagbredd som avståndet mellan
 omgivande mark och botten.
+
 Omlöpets funktion
 Det nu utredda omlöpet skulle mynna längre bort från turbinutloppet än den föreslagna
 Larinier fiskvägen. Därmed bedöms fiskvägens attraktionskraft (hur lätt fisken hittar
 fiskvägen) bli något sämre jämfört med Larinier fiskvägen. Däremot bedöms omlöpet ge
 
-<!-- sida 364 -->
-
-PM 2023-11-29
-
 Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
 e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
 gökalids vattenkraftverk.docx
-mtod.lamron
+
+normal.dotm
+
+<!-- sida 364 -->
+
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
+
+PM 2023-11-29
+
 minst lika god passerbarhet för öring och ål och bedöms ha något bättre passerbarhet för
 övrig fisk så som abborre och mört. Den totala passageeffektiviteten bedöms något sämre
 för öring och ålyngel men något bättre för svagsimmande fisk som abborre och mört.
 Nedströms skulle fisk även fortsättningsvis kunna passera såväl via omlöpet som genom
 kulverten. Nedströms kulvertens mynning är vattendjupet fullt tillräckligt för att fisken inte ska
 skada sig.
+
 Påverkan på miljön
 Anläggande av ett omlöp skulle innebära att en stor del av den bergskulle som finns på
 platsen tas bort genom bergschakt. Av rent anläggningstekniska skäl kommer sannolikt
@@ -15021,10 +15193,13 @@ schakten utmed omlöpets högra sida gå hela vägen fram till vägen. Där finn
 träd som behöver avverkas. Utmed vänster sida av omlöpet skulle sidan bli brant (förutsatt
 bergschakt) och schakten djup vilket innebär att det finns risk att såväl djur som människor
 kan skadas genom fallolyckor. Den vänstra sidan bör i så fall förses med ett viltstängsel.
+
 Vägen fram till kraftverket behöver förstärkas då det är omfattande tunga transporter som
 behövs för att avlägsna berg- och schaktmassor. Vägen passerar en gårdsplan i dess övre
 del och även denna kommer troligtvis ta skada och behöver i så fall återställas.
+
 Förhållanden under byggnadstiden
+
 Eventuell entreprenad kan ske i huvudsak i torrhet. Då det idag inte förekommer någon
 minimitappning från Tolaredssjön är vattenflödet i bäcken mycket begränsad, nära noll vid
 lågflöden. Vid anläggande av omlöpets övre del och schaktarbeten i bäcken kan en enkel
@@ -15038,14 +15213,24 @@ eventuellt läckage i miljön förhindras eller begränsas genom att under entre
 medföra saneringsutrustning samt att en oljeläns under arbetstiden kan läggas ut över hela
 vattendragsbredden nedströms arbetsområdet. Oljelänsen absorberar mindre spill och
 förhindrar större spill att spridas så att det lättare kan saneras.
+
 Kostnadsuppskattning
+
 Kostnaden för att anlägga ett omlöp är beroende på hur mycket bergschakt som måste
 genomföras. Omlöpet beräknas kosta mellan ca 3,0 och 3,5 miljoner kronor.
+
 Andreas Bäckstrand, biolog med inriktning på fisk- och vattenvård
+
 Bilagor:
 MA 101 Situationsplan
 MA 102 Situationsplan omlöp
 MA 103 Sektioner
+
+Rejlers Sverige AB | Org. Nr. 556051-0272 | Tel:+46 771-78 00 00 | www.rejlers.se
+e:\hydroterra dropbox\andreas bäckstrand\x\uppdrag\uppdrag 2023\23200 gbg\23202 forsnacken rolfsån\gökalid\odg pm alternativ fiskväg
+gökalids vattenkraftverk.docx
+
+normal.dotm
 
 <!-- sida 365 -->
 
@@ -15502,22 +15687,9 @@ BET 2023-11
 
 <!-- sida 367 -->
 
-\~500
-
-1:1.5
-1:1.5
-\~500
-
-\~500
-
-5:1            5:1
-
-300
-
-300
-\~500 \~500 0051
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
+
 OMLÖPETS LÄNGD CA 88 m
 FALL CA 2,5%
 JORDSCHAKTSVOLYM: 1815 m3
@@ -15526,17 +15698,32 @@ BERGSCHAKTSVOLYM: 400 m3
 VID ENBART BERGSCHAKT FÖR OMLÖP
 FYLLNING MED NATURSTEN CA 146 m3
 VID JORDSCHAKTSALTERNATIV
+
+\~500
 A02
+1 : 50                                                                                      1:1.5
+1:1.5
+B02                        \~500
 1 : 50
-B02
-1 : 50
+
+\~500
+
 C02
 1 : 50
+
 A ö \ k G D
 al
 di
 r.
 vt
+
+300
+
+\~500
+300
+5:1
+\~500
+5:1
 BET ANT ÄNDRINGEN AVSER SIGN DATUM
 X\\
 pp
@@ -15723,6 +15910,8 @@ BET 2023-
 3 15:
 13
 0:
+
+1500
 
 <!-- sida 368 -->
 
@@ -17555,11 +17744,14 @@ Marken på ömse sidor om Sörån utgörs av sluttande berg.
 
 <!-- sida 403 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+
 N 6397065                        Tänk på att gränserna i kartan inte alltid stämmer överens med verkligheten och de är inte juridiskt gällande. © Lantmäteriet
 
 N
 
-N 6396958
+0      20     40    60m                               N 6396958
 Skala 1:600, SWEREF 99 TM, RH 2000.
 
 Nedströms vägbron löper järnvägsrälsen fortsatt enbart några meter från vattendraget. Söder
@@ -17575,13 +17767,10 @@ vid sidan av bron alternativt behöver man bygga en ny bro. Att det är mycket t
 platsen framgår av infogade fotografier.
 
 5
-787463
-E
-459463
-E
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
-0      20     40    60m
+
+E 364787
+
+E 364954
 
 <!-- sida 404 -->
 
@@ -17612,6 +17801,9 @@ om ån.
 
 <!-- sida 406 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+
 Därtill kommer att kostnaderna skulle bli orimliga och oacceptabla med beaktande av att
 mark som idag utgör järnväg, allmän väg, vägbro och mark inom privat bostadsfastighet
 skulle behöva tas i anspråk. Närheten till järnvägen skulle kräva särskilt hänsynstagande,
@@ -17630,17 +17822,14 @@ N 6396975                         Tänk på att gränserna i kartan inte alltid 
 
 N
 
-N 6396762
+0    30    60   90m                                     N 6396762
 Skala 1:1 200, SWEREF 99 TM, RH 2000.
 
 8
-760463
-E
-004463
-E
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
-0    30    60   90m
+
+E 364067
+
+E 364400
 
 <!-- sida 407 -->
 
@@ -21553,6 +21742,9 @@ www.sea2source.se (adress borttagen), 51156 Kinna
 
 <!-- sida 499 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+
 Samtliga höjder är inmätta i RH2000
 
 Gränserna på kartan stämmer inte
@@ -21569,35 +21761,84 @@ Datum: 2022-05-29
 Bilaga: T2    Sida: 1/5
 
 www.sea2source.se (adress borttagen), 51156 Kinna
-Ö v e r sm i k te
+
+s
+
+n
+
+rä
+
+g r m
+
+g
+
+s
+
+5
+
+ra
+
+t e
+
 d
-G ör
-e
-kg al le i dr k
-i n
-rg aa fr t v e r k
-V
-T
-F
-B
-H
-a
-u
-a
-y
-ö
-t t e n d r
-b
-s t ig h e
-g g n a d
-j d lin j e
-a g
-t s g
-e r
-5 m
-r ä n s
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
+
+e d je
+
+n
+
+h a
+
+in
+
+ig n
+
+l
+
+te
+
+t g d
+
+t b s g j
+
+a u
+
+y ö
+
+V T Fa B H
+
+rk
+
+ve
+
+ft r
+
+a a
+
+r g
+
+k in
+
+id r
+
+l
+
+a le
+
+k eg
+
+ö r
+
+G
+
+t ed
+
+ik
+
+rs m
+
+ve
+
+Ö
 
 <!-- sida 500 -->
 
@@ -21808,17 +22049,33 @@ T5 Reglerdamm kanal till Gökalidssjön
 
 <!-- sida 507 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+
 A  1:100
+
+2 spettluckor för avstängning intag till tub
 
 Urtag/utskov       Dammkrön +87,78
 Tröskel +84,67
+DG +85,31
 
-1m
+Fingaller innan tub bredd 2,1 m 1m
+Spaltvidd 15 mm
+Gallerstål 4 mm
+51 graders lutning
+m
+5
++82,97
+2,
+
+ca 390m Tub ner till kraftstation
 
 A
 
+Hjälpfix VD1953
 A
-
++87,77
 ca 48m
 
 Konstr. Datum       Granskad av                    Rev.
@@ -21828,28 +22085,33 @@ Gökalid intagsdamm            1 : 300      1 / 1
 Bilaga T6                     Ritn.nr
 Nuvarande förhållanden
 T6 Gökalid intagsdamm
-m6,0
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
-2 spettluckor för avstängning intag till tub
-DG +85,31
-Fingaller innan tub bredd 2,1 m
-Spaltvidd 15 mm
-Gallerstål 4 mm
-51 graders lutning
-m
-5
-+82,97
-2,
-ca 390m Tub ner till kraftstation
-Hjälpfix VD1953
-+87,77
+
+0,6m
 
 <!-- sida 508 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+De första 8 metrarna är betongväggar som sedan                                                                                             Kraftstationen
+övergår till murad sten
+
+Marknivå ca +39,80
 A
 
++37,66 +37,72 +37,74 +37,79  +37,84  +37,89  +37,94  +38,00  +38,05 +38,06
+
+VY ca +36,43
+
+Inlopp Kulvert
+Sett uppströms
+pilen markerar vattenriktning
+
+Kraftstationen
+
 Vatten ifrån turbinen
+
+Kulverten mynnar ut
+under plattformen
 
 A
 Vatten ifrån naturfåra
@@ -21864,24 +22126,35 @@ Kulvert vid Gökalid kraftstation 1 : 100   1 / 1
 Bilaga T7                     Ritn.nr
 Nuvarande förhållanden
 T7 kulvert vid kraftstation
-00571 00061  00041   00021   00001   0008    0006   0004    0002 008 0
-+37,66 +37,72 +37,74 +37,79  +37,84  +37,89  +37,94  +38,00  +38,05 +38,06
-VY ca +36,43
-m
-5,1
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
-De första 8 metrarna är betongväggar som sedan                                                                                             Kraftstationen
-övergår till murad sten
-Marknivå ca +39,80
-Inlopp Kulvert
-Sett uppströms
-pilen markerar vattenriktning
-Kraftstationen
-Kulverten mynnar ut
-under plattformen
+
+17500
+
+16000
+
+14000
+
+12000
+
+10000
+
+1,5 m
+
+8000
+
+6000
+
+4000
+
+2000
+
+800
+
+0
 
 <!-- sida 509 -->
+
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
 
 Samtliga höjder är inmätta i RH2000
 
@@ -21899,47 +22172,140 @@ Datum: 2022-05-29
 Bilaga: T8    Sida: 1/5
 
 www.sea2source.se (adress borttagen), 51156 Kinna
-Ö v e r sm i k te
-d
-G ör
+
+r
+
 e
-kg al le i dr k
-i n
-rg aa fr t v e r k
-R ö d a
-V
-T
-F
-B
-H
-t e
-a
-u
-a
-y
-ö
-x
-t t e n d r
-b
-s t ig h e
-g g n a d
-j d lin j e
-t r u t o r ä
-a g
-t s g
-e r
-5 m
-r f ö
-r
-r
+
+rd
+
 ä
+
+tg
+
+å
+
+å
+
+p
+
 s
+
+g
+
 n
+
 la
-s
-g p å å t g ä r d e r
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
+
+rä
+
+rs
+
+m
+
+ö
+
+g
+
+g r 5
+
+f
+
+a
+
+ts e
+
+r
+
+r
+
+e d e
+
+ä
+
+d
+
+j
+
+r
+
+n
+
+h a
+
+in
+
+o
+
+ig n
+
+l
+
+t
+
+te
+
+t g d
+
+u
+
+t b s g j
+
+tr
+
+a u
+
+y ö
+
+x
+
+a
+
+e
+
+V T F B H
+
+t
+
+a
+
+öd
+
+R
+
+rk
+
+ve
+
+ft r
+
+a a
+
+r g
+
+k in
+
+id r
+
+l
+
+a le
+
+k eg
+
+ö r
+
+G
+
+t ed
+
+ik
+
+rs m
+
+ve
+
+Ö
 
 <!-- sida 510 -->
 
@@ -22150,17 +22516,37 @@ T10 Tolaredssjöns regleringsdamm framtida förhållanden
 
 <!-- sida 516 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+
 A  1:100
+Ny förslagen DG
+2 spettluckor för avstängning intag till tub
 
 Urtag/utskov       Dammkrön +87,78
 Tröskel +84,67
+DG +85,31
 
-1m
+Fingaller innan tub bredd 2,1 m 1m
+Spaltvidd 15 mm
+Gallerstål 4 mm
+51 graders lutning
+m
+5
++82,97
+2,
 
+ca 390m Tub ner till kraftstation
+
+Ålhävert ut genom sidoutskov
+även en flyktränna installeras så att
+fisk och ål kan transporteras ner mot
 A
+den naturliga åfåran
 
+FIX VD1953
 A
-
++87,77
 ca 48m
 
 Konstr. Datum       Granskad av                    Rev.
@@ -22170,51 +22556,58 @@ Gökalid intagsdamm            1 : 300      1 / 1
 Bilaga T11                    Ritn.nr
 Framtida förhållanden
 T11 Gökalid intagsdamm framtida förhållanden
-m6,0
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
-Ny förslagen DG
-2 spettluckor för avstängning intag till tub
-DG +85,31
-Fingaller innan tub bredd 2,1 m
-Spaltvidd 15 mm
-Gallerstål 4 mm
-51 graders lutning
-m
-5
-+82,97
-2,
-ca 390m Tub ner till kraftstation
-Ålhävert ut genom sidoutskov
-även en flyktränna installeras så att
-fisk och ål kan transporteras ner mot
-den naturliga åfåran
-FIX VD1953
-+87,77
+
+0,6m
 
 <!-- sida 517 -->
 
-Marknivå ca +39,80
-A
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
 
+Marknivå ca +39,80
+Topp skiljevägg kulvert-fiskväg
+A
++37,86                                                             Topp skiljevägg kulvert-fiskväg
++38,26
 Botten kulvert +38,06
 Tröskel Larinier fiskväg
 och ålyngelledare +37,76
 Botten kulvert +37,66
-
++37,02            +36,98
 Bergsskärning även framför kulvert
 VY ca +36,43
++36,23                                     Botten vilobassäng +36,38
 för att uppnå lite vattendjup +37,56
-
+ca
+7,3m
+ca
+7,8m
 2,4 m
 
-Vatten ifrån turbinen
+Larinier super active baffle fishway.
+Vid vattenyta +38,06 uppströms kulvert
+beräknas ca 120 liter gå genom fiskvägen.
+Vatten ifrån turbinen                                       Nivån på kulvertens tröskel i uppströmsände gör att vattenföring
+upp till detta flöde prioriteras i fiskvägen. Först vid högre
+flöden börjar vatten rinna i den gamla "kulverten".
+
+Respektive del i fiskvägen måste vara helt rät, eventuell sväng tas ut
+i vilobassängen. Skiljevägg monteras mellan fiskväg och ålyngelledare. Ålyngelledaren förses med lock.
+En skiljevägg monteras mellan kulvert och ål/fiskväg. detta för att undvika vatten ifrån kulverten
+rinner ner och stör flödet i fiskvägen vid högflöde.
+
+Larinier super active baffle. Bredd 0,6 m. Höjd baffel 10 cm.
 
 A
-
+Ålyngelledare stående borstsubstart med lock 0,1 m.
+dras över vilobassängen.
 Utloppskanal
 
 A
+Befintlig kulvertbotten behålls för att minimera bergsskärning.
+
+Vilobassängen hela kulvertens bredd.
+tak för att kulvertens vatten inte ska rinna ner i fiskvägen.
 
 Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-13
@@ -22223,35 +22616,10 @@ Kulvert vid Gökalid kraftstation 1 : 100   1 / 2
 Bilaga T12                    Ritn.nr
 Framtida förhållanden
 T12 Fiskväg kulvert vid kraftstation
-m1,0
-m6,0
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
-Topp skiljevägg kulvert-fiskväg
-+37,86                                                             Topp skiljevägg kulvert-fiskväg
-+38,26
-+37,02            +36,98
-+36,23                                     Botten vilobassäng +36,38
-ca
-7,3m
-ca
-7,8m
-Larinier super active baffle fishway.
-Vid vattenyta +38,06 uppströms kulvert
-beräknas ca 120 liter gå genom fiskvägen.
-Nivån på kulvertens tröskel i uppströmsände gör att vattenföring
-upp till detta flöde prioriteras i fiskvägen. Först vid högre
-flöden börjar vatten rinna i den gamla "kulverten".
-Respektive del i fiskvägen måste vara helt rät, eventuell sväng tas ut
-i vilobassängen. Skiljevägg monteras mellan fiskväg och ålyngelledare. Ålyngelledaren förses med lock.
-En skiljevägg monteras mellan kulvert och ål/fiskväg. detta för att undvika vatten ifrån kulverten
-rinner ner och stör flödet i fiskvägen vid högflöde.
-Larinier super active baffle. Bredd 0,6 m. Höjd baffel 10 cm.
-Ålyngelledare stående borstsubstart med lock 0,1 m.
-dras över vilobassängen.
-Befintlig kulvertbotten behålls för att minimera bergsskärning.
-Vilobassängen hela kulvertens bredd.
-tak för att kulvertens vatten inte ska rinna ner i fiskvägen.
+
+0,1m
+
+0,6m
 
 <!-- sida 518 -->
 
@@ -25151,40 +25519,48 @@ Diarienummer MH-2023-4570
 
 <!-- sida 767 -->
 
+Ankomstdatum 2023-12-11
+Diarienummer MH-2023-4570
+
 VÄNERSBORGS  TINGSRÄTT     KUNGÖRELSE                  Aktbilaga 20
 Mark- och miljödomstolen   2023-12-05                  Mål nr M 3430-22
 R4
 
-961836
-
-dI.koD
-Ankomstdatum 2023-12-11
-Diarienummer MH-2023-4570
 Mark- och miljödomstolen
+
 Vid Vänersborgs tingsrätt, mark- och miljödomstolen, har Forsnacken AB och Gökalid
 Kraft AB ansökt om omprövning för moderna miljövillkor av vattenverksamheten vid
 Gökalids kraftverk i Tolaredsån samt Stora Öresjöns regleringsdammar. Verksamheten
 uppges beröra fastigheterna Mark Bobygd 2:11, Mark Gökalid 1:5 och 1:6, Mark Tolared 1:3,
 Mark Grimmered 1:3 samt Kungsbacka Nolgärde 1:2. I målet har reservationsvis
 yrkatstvångsrätt för att utföra ålyngelledare på fastigheten Mark Grimmered 1:3.
+
 Synpunkter med anledning av ansökan och miljökonsekvensbeskrivningen ska ges in
 skriftligen senast den 31 januari 2024. Yrkanden om ersättning framställs helst skriftligen
 inom samma tid och senast vid domstolens kommande huvudförhandling. Domstolen får
 avvisa senare framställda yrkanden om de inte har föranletts av iakttagelser vid syn eller av
 andra omständigheter som förekommit under huvudförhandlingen.
+
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
 Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3430-22.
+
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
+
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Borås Tidning
 och Göteborgs-Posten.
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 638169
 
 <!-- sida 768 -->
 
@@ -25288,27 +25664,36 @@ VÄNERSBORGS  TINGSRÄTT     UNDERRÄTTELSE               Aktbilaga 28
 Mark- och miljödomstolen   2023-12-20                  Mål nr M 3430-22
 R4
 
-916046
-
-dI.koD
 Nämnden för Miljö & Hälsoskydd
+
 i Kungsbacka kommun
+
 Parter: Forsnacken AB m.fl.
+
 Målet gäller: ansökan om omprövning av vattenverksamhet i Tolaredsån vid Gökalids
 kraftverk samt Stora Öresjöns regleringsdammar på fastigheterna Bobygd 2:11 m fl i
 Marks kommun (prövningsgrupp Rolfsån 106_1)
+
 De bifogade handlingarna skickas till er för kännedom.
+
 Kontakta oss gärna per e-post (e-post borttagen) eller telefon om ni har frågor.
+
 Valentina Juric
 Telefon 0521- 27 03 06
+
 Bifogade handlingar: aktbilaga 24-26 (mål M 3430-22)
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 640619
 
 <!-- sida 773 -->
 
@@ -25957,34 +26342,41 @@ VÄNERSBORGS  TINGSRÄTT     KUNGÖRELSE                  Aktbilaga 20
 Mark- och miljödomstolen   2023-12-05                  Mål nr M 3430-22
 R4
 
-961836
-
-dI.koD
 Mark- och miljödomstolen
+
 Vid Vänersborgs tingsrätt, mark- och miljödomstolen, har Forsnacken AB och Gökalid
 Kraft AB ansökt om omprövning för moderna miljövillkor av vattenverksamheten vid
 Gökalids kraftverk i Tolaredsån samt Stora Öresjöns regleringsdammar. Verksamheten
 uppges beröra fastigheterna Mark Bobygd 2:11, Mark Gökalid 1:5 och 1:6, Mark Tolared 1:3,
 Mark Grimmered 1:3 samt Kungsbacka Nolgärde 1:2. I målet har reservationsvis
 yrkatstvångsrätt för att utföra ålyngelledare på fastigheten Mark Grimmered 1:3.
+
 Synpunkter med anledning av ansökan och miljökonsekvensbeskrivningen ska ges in
 skriftligen senast den 31 januari 2024. Yrkanden om ersättning framställs helst skriftligen
 inom samma tid och senast vid domstolens kommande huvudförhandling. Domstolen får
 avvisa senare framställda yrkanden om de inte har föranletts av iakttagelser vid syn eller av
 andra omständigheter som förekommit under huvudförhandlingen.
+
 Synpunkter skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
 Vänersborg eller via e-post (e-post borttagen). Ange fullständiga kontaktuppgifter
 och gärna även e-postadress i yttrandet. Ange också domstolens målnummer M 3430-22.
+
 Handlingarna i målet finns tillgängliga på domstolen och hos aktförvararen Suzanna
+
 Bengtsson, Bollebygds kommun. Kallelser och andra meddelanden införs i Borås Tidning
 och Göteborgs-Posten.
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 638169
 
 <!-- sida 792 -->
 
@@ -27383,9 +27775,8 @@ Skickas till
 Medlemskommunerna
 
 Justeras:            8 (18)
-460bdf576fe0-f2fa-6374-e9bb-474ca026
-:ecnerefer
-erutangiS
+
+Signature reference: 620ac474-bb9e-4736-af2f-0ef675fdb064
 
 <!-- sida 824 -->
 

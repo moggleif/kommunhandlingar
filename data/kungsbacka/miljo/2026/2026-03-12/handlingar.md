@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df706e1193/1772790249
 sha256: ce8998cdd498b8e21f01c7f9c6b335419e093dab4d95cd88c7e0ce4c15d6b80d
 bytes: 604041
 sidor: 53
-hamtad: 2026-11-06T20:46:00+00:00
-konverterad: 2026-11-06T20:46:09+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T19:39:24+00:00
+konverterad: 2026-11-08T19:39:33+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker]
@@ -1870,21 +1870,28 @@ Internkontrollrapport 2025
 
 4.1 Risker - Till plan
 
-6
-tehkilonnaS
 4          8          12         16
+
 4
+
 3          6          9          12
 2 4
+
 3
+
 2          4          6           8
 1          3
 2
+
 1          2          3           4
+
 1
+
 1           2          3          4
 Konsekvens
+
 2 Hög 2 Medel Totalt: 4
+
 Kritisk        Sannolikhet           Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den inte
@@ -1896,6 +1903,10 @@ berörda intressenter och kommunen)
 intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
+
+6
+
+Sannolikhet
 
 <!-- sida 44 -->
 
@@ -2296,219 +2307,230 @@ Transaktionsidentitet: 55311334B63E779093F01EA4F6346A3AD7F59BDBFA
 
 <!-- sida 53 -->
 
-nummoK
+Kungsbacka Kommun
 
-akcabsgnuK
-gninsivnA
-nekilf
-åp
-ragninsivna
-eS
-nednmänsdanggyB
-:dnmäN
-5202
-gnirenopsidtatluser
-mo
-narägeb
-\-
-gninsivoderstfirD
-rkt
-i ppoleb
-,)+(
-dem
-retkätni
-)-(
-dem
-dantsoK
-segna
-tkejorp
-ejrav röf( gnirevitoM
-eslekivvategdub
-o
-tulskob
-llit
-gnirenopsidtatluser
-mo narägeb
-snednmän
-tmas
-kasrO
-5202
-tulskoB
-/gninsivodertfirD
-jorp/skv/vsnA
-cepS
-mo
-narägeb
-3 pyt röF .)gnirevitom
-nmantkejorP
-sanmäl
-dnoftatluser
-llit gniröfrevö
-ttåmsnoitatserp
-va gninsivoder
-dliksräs
-tulseb
-llit
-galsröf
-snednmän
-\- gniremmuS
-ttoksrevÖ
-ttoksrednU
-mos
-reiretirksgniredrävtu
-ardna
-relle
-moneg
-ttåtsppu
-tettoksrevö tta
-rasiv
-tom ammusllortnoK
-tta
-ammuS
-tta
-ammuS
-llit
-ammuS
-edneågåP
-\- 4
-pyT
-ange
-\- 3 pyT
-tehmasrev
-\- 2
-pyT
-je
-\- 1
-pyT
-llit
-sröF
-saretegdubmO
-eslekivvA
-llaftU
-tegdubsrÅ
-RÖB
-.eslekivvastulskob
-asivoderretå
-aretegdubmo
-dnoftatluser
-tkejorp
-edatulsva
-je
-ragniresivitkeffe
-dnmän
-nanna
-llit
-tehmaskrevröftu
-dnoftatluser
-.ragniresivitkeffe
-ange
-I "0" DEM
-ATULS
-saretegdubmO
-dnoftatluser
-llit
-sasivoderretå
-sasivoderretå
-NAMMUS
-E-K+J+I+H+G+F=O
-I+H=N
-K+F=M
-J+G=L
-K
-J
-I
-H
-G
-F
-C-D=E
-D
-C
-B
+Se anvisningar på fliken Anvisning
+
+Nämnd:
+
+Byggnadsnämnden
+
+Driftsredovisning - begäran om resultatdisponering 2025
+
+Kostnad med (-) intäkter med (+), belopp i tkr
+
+Spec Ansv/vks/proj Driftredovisning/
+
+Bokslut 2025
+
+Orsak samt nämndens begäran om resultatdisponering till bokslut o budgetavvikelse
+
+Motivering (för varje projekt anges
+
+Projektnamn
+
+motivering). För typ 3 begäran om
+
+överföring till resultatfond lämnas
+
+Underskott
+
+Överskott
+
+Summering - nämndens förslag till beslut
+
+särskild redovisning av prestationsmått
+
+Årsbudget
+
+Utfall
+
+Avvikelse
+
+Ombudgeteras
+
+Förs till
+
+Typ 1 - ej
+
+Typ 2 - versamhet
+
+Typ 3 - egna
+
+Typ 4 - Pågående
+
+Summa till
+
+Summa att
+
+Summa att
+
+Kontrollsumma mot
+
+eller andra utvärderingskriterier som
+
+resultatfond
+
+utförverksamhet till annan nämnd
+
+effektiviseringar ej avslutade projekt resultatfond
+
+ombudgetera
+
+återredovisa
+
+bokslutsavvikelse. BÖR visar att överskottet uppstått genom
+
+återredovisas
+
+återredovisas
+
+till resultatfond
+
+Ombudgeteras
+
+SLUTA MED "0" I
+
+egna effektiviseringar.
+
+SUMMAN
+
 A
-rkt
-7 atnärnretni
-tegdub ttoksrevÖ
-ttoksrevö
-ednaretser ,sasivoderretå
-.dnoftatluser
-snednmän
-llit
-sröf
-ergäl
-tsmärf
-rä tettoksrevö llit
-nekasrO
-ergäl
-agp redantsoklanosrep
-tehmaskrevdnmäN
-gninnameb
-0
+
+B
+
+C
+
+D
+
+E=D-C
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L=G+J
+
+M=F+K
+
+N=H+I
+
+O=F+G+H+I+J+K-E
+
+Överskott budget internränta 7 tkr
+
+återredovisas, resterande överskott
+
+förs till nämndens resultatfond.
+
+Orsaken till överskottet är främst lägre
+
+Nämndverksamhet
+
+personalkostnader pga lägre
+
+7300
+
+Drift
+
+-38 466
+
+-36 768
+
+1 698
+
 7
+
+1 691
+
+1 691
+
 0
-196
-1
-196
-1
+
 7
-896
-1
-867
-63-
-664
-83-
-tfirD
-0037
-rah gnilkcevtutrak
-tegdub va netrapreM
-allil
-teD .5202 rednu
-stnävna
-4371
-tkejorP
-llit
-tsröf rkt 4 åp tettoksrevö
-gnilkcevtutraK
-tehmaskrevdnmäN
-.nednoftatluser
-0
-0
-0
+
+0 bemanning
+
+Merparten av budget kartutveckling har
+
+Projekt 1734
+
+använts under 2025. Det lilla
+
+Nämndverksamhet Kartutveckling
+
+överskottet på 4 tkr först till
+
+7300
+
+flygfoto/skanning
+
+-1 917
+
+-1 913
+
 4
+
 4
+
 4
-319
-1-
-719
-1-
-gninnaks/otofgylf
-0037
+
 0
+
 0
+
+0 resultatfonden.
+
 0
+
 0
+
 0
+
 0
+
+0
+
+Totalt nämnden
+
+-40 383
+
+-38 681
+
+1 702
+
+0
+
+0
+
 7
+
 0
-596
-1
+
+1 695
+
 0
-596
-1
+
+1 695
+
 0
+
 7
+
 0
+
+Förslag
+
+1 695
+
 0
-207
-1
-186
-83-
-383
-04-
-nednmän
-tlatoT
+
 7
-0
-596
-1
-galsröF

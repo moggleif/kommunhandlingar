@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.13ca62a51956d150599cc10e/1741848474
 sha256: 440ca90cf4f813593314e1c539b72dd2fc0761047b443327a61cf2b3f501d106
 bytes: 36866847
 sidor: 355
-hamtad: 2026-11-06T23:13:43+00:00
-konverterad: 2026-11-06T23:15:11+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T22:23:40+00:00
+konverterad: 2026-11-08T22:25:21+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -10307,183 +10307,239 @@ Tillförordnad kommundirektör       Samhällsbyggnadschef
 
 Onsala                              Herrgård
 
-1 / 9
-2202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka                           Lyngås                3:3
+
 Ansökan             om      planbesked                2024.11.22
+
 (e-post borttagen)            | semren-mansson.se
+
+1 / 9
+
+© Semrén & Månsson 2022
 
 <!-- sida 223 -->
 
-Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              2 / 9
-2202
-nossnåM
-&
-nérmeS
-©
 Bakgrund
+
 Onsala  Herrgård   byggdes    som   ett konvalescenthem     i början
+
 av 1900-talet.  Fastigheten   byggdes   senare   om  till hotell- och
+
 konferensanläggning     och  nyttjades   som  det  fram  till tidigt 2010-tal. År
+
 2017  gavs  bygglov  för att anlägga   ett vårdboende    i befintliga byggnader,
+
 men  bygglovet   överklagades    och  upphävdes.    Delar  av ombyggnationen
+
 hade  tyvärr redan  ägt  rum  och  sedan   dess  har ägarna   av fastigheten
+
 försökt hitta en  lämplig  användning    för fastigheten.  Flera  hotellkedjor
+
 har tillfrågats om  möjligheten   att utveckla  platsen.  Några   har varit
+
 intresserade,  men   har kunnat   konstatera   att med  gällande   detaljplan  går
+
 det inte att få till en anläggning  som   går ihop  ekonomiskt.
+
 Våren  2024  gavs  ett bygglov   för att omvandla   fastigheten   till ett
+
 korttidsboende    med  rehabilitering.  Detta  bygglov  är idag  överklagat   och
+
 handlägges    i dagsläget  av Länsstyrelsen    i Halland. För  att hitta en lösning
+
 för fastigheten  innanför  gällande   planbestämmelser      har ännu   en idé
+
 prövats. Det  är att tillskapa en  fritidshusbostadsrättsförening     med   rum
+
 som  hyrs  ut mer  än  51%  om  året. Denna   typ av  fritidshus har  prövats  med
+
 framgång   i Strömstad    kommun    på  Koster.  Bygglov  för detta  har lämnats
+
 till Kungsbacka   kommun     och  för att pröva terrängen   har en  mäklare
+
 anlitats för att se hur marknaden     svarar  på denna   idé. Tyvärr  verkar
+
 marknaden    inte vara  mogen   för denna   nya  och  lite annorlunda   idé och
+
 intresset har  varit lågt.
+
 För att skapa  nytt  liv i Onsala Herrgård  och  hitta en  bra användning
+
 för hela fastigheten   lämnar  vi därför  in detta bygglov  för att undersöka
+
 möjligheten   att tillskapa bostäder   på fastigheten.   Att tillskapa nya
+
 lägenheter  för permanentboende       på  platsen  känns  i dagsläget   som  om
+
 det är den  sista och  enda  utvägen   för att hitta en väg  framåt   för denna
+
 fantastiska  plats med   sina  vackra  hus.
+
+Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              2 / 9
+
+© Semrén & Månsson 2022
 
 <!-- sida 224 -->
 
-3 / 9
-2202
-nossnåM
-&
-nérmeS
-©
-N 6370035
+NN 66337700003355
+
 Projektområde
-N
-Onsala Herrgård Ansökan om planbesked 2024-11-22
-N 6367405
-Skala 1:10 000, SWEREF 99 TM, RH 2000.
-189913
-E
-179323
-E
-N 6370035
-N
-N 6367405
-0                     400                   800                   1200 m
-Skala 1:10 000, SWEREF 99 TM, RH 2000.
-189913
-E
-179323
-E
+
+NN
+
 SKÄLLARED
+
 ONSALAVÄGEN
+
 FJÄRSKOGEN
+
 LYNGÅS       3:3
+
 ONSALA
-0                     400                   800                   1200 m
+
+Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              3 / 9
+
+NN 66336677440055
+00                    440000                880000                11220000 mm
+SSkkaallaa 11::1100 000000,, SSWWEERREEFF 9999 TTMM,, RRHH 22000000..
+
+© Semrén & Månsson 2022
+
+EE 331199998811
+
+EE 332233997711
 
 <!-- sida 225 -->
 
-Onsala Herrgård Ansökan om planbesked 2024-11-22
-1202
-nossnåM
-&
-nérmeS
-©
 N 6368835                                             Tänk på att gränserna i kartan inte alltid stämmer överens med verkligheten och de är inte juridiskt gällande. © Lantmäteriet
 N
+
 Projektbeskrivning
+
 Onsala  Herrgård    ligger i ett naturskönt  område   nära  havet  på  östra sidan
+
 av Onsalahalvön.    Fastigheten,   Kungsbacka     Lyngås  3:3, består  i dag av
+
 fem  byggnader:   Huvudbyggnad,      förrådsbyggnader     (där Mellanhuset    varit
-inredd  för konferens)  och  två  grindstugor.
-Genom    att omvandla    Onsala  Herrgård   till bostadsrätter  skulle Onsala
-kunna  kompletteras    med   lägenheter   i ett område   där övervägande     delen
-av bostäderna    är fristående  villor. Att komplettera  områden    med   andra
-boendeformer     är bra ur social  synpunkt.   Det leder  tex till att människor
-som  vill bo kvar i sitt område   men  tröttnat  på villan kan  stanna  kvar.
-Herrgården   skulle  kunna   omvandlas    till 8-10 lägenheter, Mellanhuset    till
-2-4 lägenheter   och  Grindstugorna    till 1-2 lägenheter vardera.  beroende    på
-vad man   kommer     fram  till är lämpligt i ett planarbete. Totalt ger projektet
-12-18 nya  bostäder   i befintlig bebyggelse.
-Fasader   och  uttryck kan  behållas  eller ändras   så att de i sitt uttryck liknar
-mer  den  ursprungliga   nationalromantiska     miljön. Utemiljön   och  befintlig
-grönska   kommer    att bevaras  och  kompletteras    med   platser  för vistelse
-och  rekreation.  Tillgängligheten   för allmänheten   kommer     att vara den
-samma    som   den  är idag. Inga  staket  eller andra anordningar    kommer
-uppföras   för att begränsa   tillgänglighet för allmänheten.
-Angöringen    sker via den  befintliga  Konvalescentvägen      och  parkering,
-anordnas   i anslutning  till anläggningen   inom  fastigheten.
-4 / 9
-N 6368440
-Skala 1:1 500, SWEREF 99 TM, RH 2000.
-751223
-E
-044223
-E
 Grindstugorna
+inredd  för konferens)  och  två  grindstugor.
+
+Genom    att omvandla    Onsala  Herrgård   till bostadsrätter  skulle Onsala
 De två grindstugorna
-Mellanhuset
+kunna  kompletteras    med   lägenheter   i ett område   där övervägande     delen
+
+av bostäderna    är fristående  villor. Att komplettera  områden    med   andra                                Mellanhuset
+
+boendeformer     är bra ur social  synpunkt.   Det leder  tex till att människor
+
+som  vill bo kvar i sitt område   men  tröttnat  på villan kan  stanna  kvar.
+
+Herrgården   skulle  kunna   omvandlas    till 8-10 lägenheter, Mellanhuset    till
+
+2-4 lägenheter   och  Grindstugorna    till 1-2 lägenheter vardera.  beroende    på
+
+vad man   kommer     fram  till är lämpligt i ett planarbete. Totalt ger projektet
+
+12-18 nya  bostäder   i befintlig bebyggelse.
+
 Herrgården
-Mellanhuset mitt i omådet
+Fasader   och  uttryck kan  behållas  eller ändras   så att de i sitt uttryck liknar
+
+mer  den  ursprungliga   nationalromantiska     miljön. Utemiljön   och  befintlig
+
+grönska   kommer    att bevaras  och  kompletteras    med   platser  för vistelse
+
+och  rekreation.  Tillgängligheten   för allmänheten   kommer     att vara den                                                                                                 Mellanhuset mitt i omådet
+
+samma    som   den  är idag. Inga  staket  eller andra anordningar    kommer
+
+uppföras   för att begränsa   tillgänglighet för allmänheten.
+
+Angöringen    sker via den  befintliga  Konvalescentvägen      och  parkering,
+
+anordnas   i anslutning  till anläggningen   inom  fastigheten.
+
 Herrgårdsbyggnaden sedd från sydost. (Foto Mäklarhuset, Strömstad).
+
+Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              4 / 9
+
+N 6368440
 0             30            60             90 m
+
+Skala 1:1 500, SWEREF 99 TM, RH 2000.
+
+© Semrén & Månsson 2021
+
+E 322157
+
+E 322440
 
 <!-- sida 226 -->
 
-5 / 9
-2202
-nossnåM
-&
-nérmeS
-©
 Hållbarhet                                  i    flera               led
+
 \+ Social  hållbarhet   genom   att tillföra fler
+
 boendeformer     och  bostadsstorlekar    i
+
 ett område    som  i övrig domineras    av
+
 villor. Utemiljön  ger också   möjlighet  till
+
 nya  mötesplatser    och  gemenskap     för
+
 de  boende.
+
 \+ Ekologisk   och  ekonomisk     hållbarhet
+
 Fler   boendeformer         i området      för   olika   livssituationer
 genom    att ta tillvara på befintliga
 byggnader    och  ge  dem  ett nytt
+
 Närheten       till naturen      med    plats   för  gemenskap         och   odling
 innehåll.  Närheten   till naturen med
+
 stora  rekreationsområden      och  en
+
 utemiljö  med   plats för odling  främjar
+
 också   det en  hållbar livsstil.
+
 \+ Estetisk  hållbarhet   genom    en varsam
+
 ombyggnad      med  stor  hänsyn  till
+
 den  kulturhistoriskt  känsliga  miljön.
+
 Byggnaderna     rustas  upp,  men  behåller
+
 sin ursprungliga   gestaltning   exteriört.
+
 Varsam       ombyggnad         i kulturhistorisk        miljö
-Onsala Herrgård Ansökan om planbesked 2024-11-22                                         (Foto Mäklarhuset, Strömstad).
+
+Onsala Herrgård Ansökan om planbesked 2024-11-22                                         (Foto Mäklarhuset, Strömstad).                                                                                                                       5 / 9
+
+© Semrén & Månsson 2022
 
 <!-- sida 227 -->
 
-6 / 9
-2202
-nossnåM
-&
-nérmeS
-©
 Trafik
+
 När gällande   detaljplan  togs fram   gjordes  en förstudie  gällande
+
 trafikfrågor som   konstaterade    att Konvalescentvägen      var den  lämpligaste
+
 tillfarten till Herrgården. Det konstaterades    också   att den  ökade
+
 trafikmängd   som   ett hotell skulle skapa,  mellan   50 och  100  fordon  var  en
 Busshållplats
+
 mängd   som   var hanterbar.  Vägbredden     är 3,5 m  på  sitt smalaste  ställe
+
 och kommunen      konstaterade    i gällande  detaljplan  att vägen  kan  hantera
+
 en trafikmängd    på upp  till 1000 fordon/dygn    och  planförslaget   inklusive
+
 befintliga fordonsrörelser   och  en  hotell/konferensanläggning      skulle uppgå                                                                       K
 Busshållplats                            o
 n
@@ -10493,7 +10549,8 @@ l
 e
 s
 c
-e Genom att omvandla Onsala Herrgård till bostäder skulle det tillkomma
+e
+Genom    att omvandla   Onsala   Herrgård   till bostäder skulle  det tillkomma
 n
 t
 v
@@ -10514,52 +10571,69 @@ vid Onsalavägen    och  trafikeras  av linjerna 730  och  731.
 Eftersom   Konvalescentvägen      håller en låg hastighet   med   30 km/h   så                                                                                                  Lyngås     3:3
 kan gång   och  cykeltrafik samsas    med   bilarna. Utmed   Onsalavägen     finns
 sedan  en  cykelväg.
-Onsala Herrgård Ansökan om planbesked 2024-11-22
+
+Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              6 / 9
+
+© Semrén & Månsson 2022
 
 <!-- sida 228 -->
 
-Onsala Herrgård Ansökan om planbesked 2024-11-22
-1202
-nossnåM
-&
-nérmeS
-©
 N 6370653
+
 N
+
 Skolor
+
 På Onsalahalvön    finns  4 st kommunala     skolor, varav  3 st från
+
 förskoleklass   till årskurs 6 och 1 för årskurs  7  till 9.
-Presseskolan    är den  närmaste   skolan  för förskola  till årskurs 6 och  ligger
-någon  kilometer   norr om   Onsala  Herrgård.
-Kapareskolan    för årskurs  7 till 9 ligger i tätorten Onsala drygt  ett par
-kilometer  söder  om   Onsala  Herrgård.
-I närheten  av båda  dessa   skolor  finns öven  en  rad förskolor.
-N 6366708
-Skala 1:15 000, SWEREF 99 TM, RH 2000.
-7 / 9
-423023
-E
-951323
-E
+
 Presseskolan
+
+Presseskolan    är den  närmaste   skolan  för förskola  till årskurs 6 och  ligger
+
+någon  kilometer   norr om   Onsala  Herrgård.
+
+Kapareskolan    för årskurs  7 till 9 ligger i tätorten Onsala drygt  ett par
+
+kilometer  söder  om   Onsala  Herrgård.
+
+I närheten  av båda  dessa   skolor  finns öven  en  rad förskolor.
+
 Lyngås      3:3
+
 Kapareskolan
+
+N 6366708
 0         300        600       900 m
+
+Skala 1:15 000, SWEREF 99 TM, RH 2000.
+
+Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              7 / 9
+
+© Semrén & Månsson 2021
+
+E 320324
+
+E 323159
 
 <!-- sida 229 -->
 
-Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              8 / 9
-2202
-nossnåM
-&
-nérmeS
-©
 Nyckeltal
+
 BTA:                         1 760  kvm
+
 Antal lägenheter:            12-18  st
+
 Antal P-platser\*:            12-18  st
+
 Antal cykelplatser:          24-36   st
+
 \*Markparkering    inom  fastigheten
+
+Onsala Herrgård Ansökan om planbesked 2024-11-22                                                                                                                                                                                              8 / 9
+
+© Semrén & Månsson 2022
 
 <!-- sida 230 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a92018907/1758178023
 sha256: 6c25ee27eab0ed0076289a931c30aeb7aebdddb9e64ad4d00c5973a2b9b9c9fc
 bytes: 132451004
 sidor: 672
-hamtad: 2026-11-06T23:53:16+00:00
-konverterad: 2026-11-07T00:02:50+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T23:07:56+00:00
+konverterad: 2026-11-08T23:18:14+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -1604,19 +1604,19 @@ arenabyggnaden
 
 <!-- sida 43 -->
 
-5202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka                                                        Arena
+
 BILAGA        1   - VISUALISERINGAR                   OCH      ILLUSTRATIONER
+
 2025-04-14
+
 (e-post borttagen) | semren-mansson.se
 
+© Semrén & Månsson 2025
+
 <!-- sida 44 -->
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
 
 Fasadillustrationer
 
@@ -1641,30 +1641,25 @@ FASAD MOT NORR FASAD MOT NORR
 FASAD MOT ÖST - BACK OF HOUSE
 SKALA 1:400 [A3]
 FASAD MOT ÖSTER
-5202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Bilaga 1 - 2025-04-14
 
 2
 
+© Semrén & Månsson 2025
+
 <!-- sida 45 -->
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
 
 SKALA 1:5001 5METER
 
-VY FRÅN NORR - MOT ARENANS HUVUDENTRÉ
-5202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Bilaga 1 - 2025-04-14
-Bild: Soul
+VY FRÅN NORR - MOT ARENANS HUVUDENTRÉ                                                                                   Bild: Soul
 3
 
+© Semrén & Månsson 2025
+
 <!-- sida 46 -->
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
 
 Fasadillustrationer
 
@@ -1682,121 +1677,98 @@ SERVERING
 FASAD MOT SÖDER, LÄKTARE
 SKALA 1:400 [A3]
 FASAD MOT SÖDER
-5202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
 4
+
+© Semrén & Månsson 2025
 
 <!-- sida 47 -->
 
-SITUATIONSPLAN, ÖVERSIKTLIG
-SKALA 1:1000 [A3]
-
-Multiarena        Fotbollsläktare   Arenaplan       Miljöhus/Nätstation Back of house
-5202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Situationsplan
+
 FÖRKLARINGAR
 ALLA MÅTT ANGES I MILLIMETER.
 ALLA PLUSHÖJDER ANGES I METER.
 HUVUDENTRÉ
-SEKUNDÄR ENTRÉ
-NÖDUTGÅNG
+KUNGSBACKA                                                                                                               SEKUNDÄR ENTRÉ
+TEATER
+HUVUDENTRÉ ENTRÉ - VIP/
+RESTAURANG                                                    NÖDUTGÅNG
 UNDERLAG FRÅN MARKPROJEKTÖR
+
+ENTRÉER STORKÖK OCH
+SIMHALL                                                                          BACK OF HOUSE/ARENA
 FÖRESKRIFTER
-\-
+ISHALL                                                                                                                -
+ENTRÉ SKYDDSRUM
+OCH FÖRRÅD
 HÄNVISNINGAR
 PLANRITNINGAR A-40-1-110 - A-40-1-113
 SEKTIONER A-40-2-001
 TAKPLAN A-41-1-114
-FASADER A-40-3-001
-HANDLINGAR ENLIGT MARKPROJEKTÖR
-KAMERA
-SKALA 1:400 0 10    40 METER
-5
-:NMANLIF
-SEKTION
-A-41-1-114
-A-40-1-113 +15,80 PLAN 13 AAA --- 444 000 --- 111 --- 111 111 210 +++ 162 1,,83 ,300 0 PP PLL LAA ANN N 11 110 2
-ORIENTERINGSFIGUR
-STATUS
-HANDLING
-DATUM GODKÄND AV ÄNDRINGS PM
-BESTÄLLARE
-PROJEKTNAMN
-OMRÅDE
-PROJEKTNUMMER ADRESS
-BYGGNADS-ID FASTIGHET
-DISCIPLIN FÖRETAG
-UPPDRAGSNUMMER SKAPAD AV
-TELEFON KONTAKTPERSON
-BYGGNADSVERK PLUSHÖJD (RH 2000)
-VÅNINGSPLAN VÅNINGSDEL DELOMRÅDE
-SYSTEM
-SPECIFIKATION
-RITNINGSKATEGORI SKALA FORMAT A1
-DOKUMENTNUMMER ÄNDRING
-10:90:41
-42-30-5202
-tvr.42R-6643-000-V-04-A/anerA
-akcabsgnuK//:scoD
-ksedotuA
-Situationsplan
-KUNGSBACKA
-TEATER
-HUVUDENTRÉ ENTRÉ - VIP/
-RESTAURANG
-ENTRÉER STORKÖK OCH
-SIMHALL                                                                          BACK OF HOUSE/ARENA
-ISHALL
-ENTRÉ SKYDDSRUM
-OCH FÖRRÅD
-ORIENTERING
-ENTRÉ SCEN/BACK OF HOUSE
+ORIENTERING                                                                                                     FASADER A-40-3-001
+ENTRÉ SCEN/BACK OF HOUSE        HANDLINGAR ENLIGT MARKPROJEKTÖR
 ENTRÉ ARTIST/ELITIDROTT
+
 ENTRÉ GYM
 ENTRÉ MEDIA/DRIFT/
+SEKTION
 ENTRÉ HÄLSORELATERAD                                                         KOMMERSIELLT/
 VERKSAMHET                                                              PERSONAL
-SEKUNDÄR ENTRÉ
+A-41-1-114
+A-40-1-113 +15,80 PLAN 13
+SEKUNDÄR ENTRÉ                                                                                         AAA --- 444 000 --- 111 --- 111 111 210 +++ 162 1,,83 ,300 0 PP PLL LAA ANN N 11 110 2
 OMKL/SPORTHALL/                SPELARTUNNEL
 FOTBOLL/
-VERKSAMHETSVÅN.
+VERKSAMHETSVÅN.                                                                                ORIENTERINGSFIGUR
+STATUS
 GODKÄND
+HANDLING
 SYSTEMHANDLING
-2025-03-24 L. ZACKRISSON
+D2AT0UM25-03-24 LGO.D KZÄNDA AVCKRISSON ÄNDRINGS PM
+BESTÄLLARE
+PROJEKTNAMN
 KUNGSBACKA ARENA
+OMRÅDE
 956337
+PROJEKTNUMMER ADRESS
 4926
-KUNGSBACKA 4:65
+BYGGNADS-ID FASTIGHET
+KAMERA                                                       KUNGSBACKA 4:65
+DISCIPLIN FÖRETAG
 A     SEMRÉN & MÅNSSON ARK.
+UPPDRAGSNUMMER SKAPAD AV
 3466-60 F.SVENSSON
+TELEFON KONTAKTPERSON
 031-743 02 00KARIN BACKLUND
+BYGGNADSVERK PLUSHÖJD (RH 2000)
 HUS 1 -
+SITUATIONSPLAN, ÖVERSIKTLIG     VÅNINGSPLAN VÅNINGSDEL DELOMRÅDE
 \-  -  -
-01-SAMMANSATT REDOVISNING
+SYSTEM
+SKALA 1:1000 [A3]       01-SAMMANSATT REDOVISNING
+SPECIFIKATION
 SITUATIONSPLAN
-PLAN       1:400
+RITNINGSKATEGORI SKALA FORMAT
+PLAN       1:400 A1
+SKALA 1:400 0 10    40 METER                                 DOKUMENTNUMMER ÄNDRING
 A-01-1-001
+Multiarena        Fotbollsläktare   Arenaplan       Miljöhus/Nätstation Back of house                                                           5
+
+© Semrén & Månsson 2025
+
+2025-03-24 14:09:01
+
+FILNAMN: Autodesk Docs://Kungsbacka Arena/A-40-V-000-3466-R24.rvt
 
 <!-- sida 48 -->
 
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
 Foajé
 
-5202
-nossnåM
-
-&
-nérmeS
-
-©
-Kungsbacka Arena - Bilaga 1 - 2025-04-14
 Gestaltningen tar avstamp i ledord som värme, ombonad och välkomnande samt
 identitetsskapande och minnesvärd. Materialen är robusta för att hålla över tid -
 upplevelse- och slitagemässigt.
@@ -1804,12 +1776,41 @@ Utsida och insida samverkar genom återkommande material.
 Vidare bygger det övergripande temat på rörelse och dynamik, och inspiration hämtas           Receptionen välkomnar och
 från kroppen, från att vi alla är lika, och även från muskelfibrernas organiska struktur där  annonserar sig tydligt från
 fibrerna rör sig i olika riktningar för att tillsammans skapa både styrka och flexibilitet.   flera håll
+
 SKALA 1:5001 5METER
 
 6
 Bild: Soul
 
+© Semrén & Månsson 2025
+
 <!-- sida 49 -->
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Foajé
+
+Länkrum        och    mezzanin
+
+Foajén, länkrummet och mezzaninen bildar tillsammans en
+sammanhängande rumslighet där besökare med olika målpunkter
+möts. Länkrummet fungerar som en knutpunkt och för besökarna
+vidare till Hall A och Hall B, fotbollsläktaren, verksamhetsvåningen
+och övriga delar av arenan. När man rör sig från foajén upp
+för trappan till länkrummet övergår paletten i något ljusare
+toner, vilket även förstärker orienterbarheten. Materialitet och
+accentkulörer följer med.
+
+Räcket återkommer som genomgående element som
+omfamnar bjälklaget i de tongivande rummen.
+Dess genomsiktliga karaktär bidrar till en känsla av
+öppenhet och trygghet.
+
+Dörrpartiers kulör är genomgående i
+byggnaden
+
+LÄNKRUM OCH VERKSAMHETSVÅNINGENS MEZZANIN
+PRINCIPELEVATION 1:400 [A3]
 
 Reception/verksamhetsvåning
 
@@ -1824,95 +1825,48 @@ Karaktärsskapande
 reception och
 Foajé
 bakomliggnade vägg
-Träpanel Målad vägg
-5202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Bilaga 1 - 2025-04-14
-7
-:NMANLIF
-SEKTION
-AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 + +++2 116, 51,38,,00 83 00PP PPLLAA LLAANN NN 11 10 1132
+HALL A
+FOAJÉ, LÄNKRUM OCH                    SEKTION    01
+VERKSAMHETSVÅNINGENS MEZZANIN                      AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 + +++2 116, 51,38,,00 83 00PP PPLLAA LLAANN NN 11 10 1132 7
+PRINCIPELEVATION 1:400 [A3]
 ORIENTERINGSFIGUR
+SEKTION B-B                                                         Träpanel Målad vägg
 STATUS
 HANDLING
-DATUM GODKÄND AV ÄNDRINGS PM
+D1AT0UM/07/24 AGODpKÄpNDr AoVver ÄNDRINGS PM
 BESTÄLLARE
-PROJEKTNAMN OMRÅDE PROJEKTNUMMER ADRESS
-BYGGNADS-ID FASTIGHET DISCIPLIN FÖRETAG
-UPPDRAGSNUMMER SKAPAD AV
-TELEFON KONTAKTPERSON
-BYGGNADSVERK PLUSHÖJD (RH 2000)
-VÅNINGSPLANVÅNINGSDEL DELOMRÅDE
-SYSTEM SPECIFIKATION D R O IT K N U IN M G E S N K T A N T U E M G M O E R R I SKALA F Ä4O NAR D M R0I A N T.G8A0
-72:83:12
-12-11-4202
-tvr.42R-6643-000-V-04-A/anerA
-akcabsgnuK//:scoD
-ksedotuA
-SEKTION B-B
-10/07/24 Approver
-Kungsbacka Arena 956337 4926
-KUNGSBACKA 4:65 A SEMRÉN & MÅNSSON ARK.
-3466-60 Author
-031 743 02 00KARIN BACKLUND
-Sektioner Skiss
-:NMANLIF
-SEKTION AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 ++++ 1162 51,,83 ,,8300 00 PP PPLL LLAA AANN NN 11 1110 32
-ORIENTERINGSFIGUR
-STATUS HANDLING DATUM GODKÄND AV ÄNDRINGS PM
-BESTÄLLARE
-PROJEKTNAMN
-OMRÅDE
-PROJEKTNUMMER ADRESS
-BYGGNADS-ID FASTIGHET
-DISCIPLIN FÖRETAG
-UPPDRAGSNUMMER SKAPAD AV
-TELEFON KONTAKTPERSON
+SEKTION
+P O P4 R R M O O9 R J J Å E E D 2 K K E T T N N6 A U M M N MER Kung AD s R 9 ES b S 5 a 6 c 3 k 3 a 7 Arena AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 ++++ 1162 51,,83 ,,8300 00 PP PPLL LLAA AANN NN 11 1110 32
+B DA Y IS G C G IP N L A IN DS-ID F F K S A Ö S R U E T E I T G A H M N G ETG R S É B N A & C M KA Å N 4 S :6 S 5 ON ARK. ORIENTERINGSFIGUR
+SEKTION B-B                                                                                                U3PP4DR6AG6SN-UM6ME0R SAKAuPADt hAVor
+T0EL3EFO1N 743 02 00KKONATAKRTPEIRNSON BACKLUND
 BYGGNADSVERK PLUSHÖJD (RH 2000)
 VÅNINGSPLANVÅNINGSDEL DELOMRÅDE
 SYSTEM
-SPECIFIKATION
-D R O IT K N U IN M G E S N K T A N T U E M G M O E R R I SKALA F Ä4O NAR D M R0I A N T.G8A0
-72:83:1212-11-4202
-tvr.42R-6643-000-V-04-A/anerA
-akcabsgnuK//:scoD
-ksedotuA
-Foajé
-Länkrum        och    mezzanin
-Foajén, länkrummet och mezzaninen bildar tillsammans en
-sammanhängande rumslighet där besökare med olika målpunkter
-möts. Länkrummet fungerar som en knutpunkt och för besökarna
-vidare till Hall A och Hall B, fotbollsläktaren, verksamhetsvåningen
-och övriga delar av arenan. När man rör sig från foajén upp
-för trappan till länkrummet övergår paletten i något ljusare
-toner, vilket även förstärker orienterbarheten. Materialitet och
-accentkulörer följer med.
-Räcket återkommer som genomgående element som
-omfamnar bjälklaget i de tongivande rummen.
-Dess genomsiktliga karaktär bidrar till en känsla av
-öppenhet och trygghet.
-Dörrpartiers kulör är genomgående i
-byggnaden
-LÄNKRUM OCH VERKSAMHETSVÅNINGENS MEZZANIN
-PRINCIPELEVATION 1:400 [A3]
-HALL A
-FOAJÉ, LÄNKRUM OCH                               01
-VERKSAMHETSVÅNINGENS MEZZANIN
-PRINCIPELEVATION 1:400 [A3]
-SEKTION B-B
-10/07/24 Approver
-Kungsbacka Arena
-956337
-4926
-KUNGSBACKA 4:65
-A SEMRÉN & MÅNSSON ARK.
-3466-60 Author
-031 743 02 00KARIN BACKLUND
-Sektioner
-Skiss
+D S R S S P O IT E K N eC U IN k I M F G kI E K S N A i K t T T A s i N I T Oo U E N M G s n M O E R e R I r SKALA F Ä4O NAR D M R0I A N T.G8A0 S H D1 T A A A N T0 T U D U M L / S IN 0 G 7/24 AGODpKÄpNDr AoVver ÄNDRINGS PM
+BESTÄLLARE
+PROJEKTNAMN Kungsbacka Arena
+OMRÅDE 956337
+P4RO9JE2KTN6UMMER ADRESS
+BYGGNADS-ID FKASUTIGHNETGSBACKA 4:65
+DAISCIPLIN FSÖREETAMGRÉN & MÅNSSON ARK.
+U3PP4DR6AG6SN-UM6ME0R SAKAuPADt hAVor
+T0EL3EFO1N 743 02 00KKONATAKRTPEIRNSON BACKLUND
+BYGGNADSVERK PLUSHÖJD (RH 2000)
+VÅNINGSPLANVÅNINGSDEL DELOMRÅDE
+SYSTEM
+SSPEeCIFkIKAtTiIOoNner
+D R SO IT K N U IN kM G E S Ni K T A sN T U E M G sM O E R R I SKALA F Ä4O NAR D M R0I A N T.G8A0
+
+2024-11-21 21:38:27
+
+2024-11-21 21:38:27
+
+© Semrén & Månsson 2025
+
+FILNAMN: Autodesk Docs://Kungsbacka Arena/A-40-V-000-3466-R24.rvt
+
+FILNAMN: Autodesk Docs://Kungsbacka Arena/A-40-V-000-3466-R24.rvt
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
@@ -1931,64 +1885,62 @@ Skiss
 
 <!-- sida 50 -->
 
-5202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Bilaga 1 - 2025-04-14
-1
-21
-DACBC.DB..A.      3
-1
-3
-1
-SKALA 1:5001 5METER
 
-8
-:NMANLIF
-S O E R K IE T N IO T N ERINGSFIGURAAAAA-----4444410000-----11111-----111111111143210++++116251,,83,,830000PP PPLLAALLAANNNN 11101132
-SHDBTEAAASNTTUTDUÄMLSLINLGAREGODKÄND AV ÄNDRINGS PM
-POPBDUTBVSSRD E RRYYÅYP IP IO MS T LGGNSE P OO K R N CETC DI GG JJ U Å INIF NE EEP I RNN M D FGOMG KKLAAAI E ESNI K TT S GNDD NPA NN K SSS TLT AU A N-V NAI IMM TO DUENUE NM NRM MG E KM MO RE ER R RVIÅNINGSDEL AFFSKPD AÖDKOLEUSARRLNTSOPEETIHAMASTGÖDAKS R HG TJÅ EADPD TVE(ERRHS O20N00)SKALAFÄ4ONARDMR0IANT.G8A0 53:05:0190-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
 Hall      A
+
+1
 \- Ett eget universum
+
 Gestaltningen av Hall A grundar sig liksom övriga ytor på flexibilitet,                                                             2.
 robusthet och en minnesvärd upplevelse. Däremot har den ett egen,
-mörkare färgskala, inpirerad från närområdet och tanken på lågans                                                                          1.
+21
+mörkare färgskala, inpirerad från närområdet och tanken på lågans                                                                DACBC.DB..A. 1.   3
 centrum - värmens och händelsernas centrum.
-2024-09S-2Y7GSTREAMNHSAKNNDINLGING
-1 A430A14PZ- 94300RPZ 2610EL 66--- 7SSAP - K 64aEN 03 Lm U N-R 0 AmTI N T 2AaN N G 0TnI 0 IsNO1 S aG KSPK+-Nt1t B 2 9UE.A A r,SMRe N R3 5A Ed0IGR6 N C o G(SÉ3 v FBE K i BNGs 3 ARA n A )&7 CSi C n KTM g KA RLAÅ 1 U R Ö : N 5 4NM 0 SE:D6S5NOAN ARK.
+1
+3
+1              S O E R K IE T N IO T N ERINGSFIGURAAAAA-----4444410000-----11111-----111111111143210++++116251,,83,,830000PP PPLLAALLAANNNN 11101132
+SHDB2TEAAASNT0TUTDUÄML2SLINLGA4RE-09S-2Y7GSTRGEOADKMÄNND AVHSAKNNDINLGINGÄNDRINGS PM
+SKALA 1:5001 5METER 1 POPBDUTBVSSRD A430A14PZ E RRYYÅYP IP IO MS T LGGNSE P OO -K 94300 R N CERTC DI GG JJ U Å INI PZ F NE EEP I RNN M D FGO2610MG KKLAAAI E ESNI KE TT S GN L DD NPA NN66--K- SSS TLT AU A N7S -V NASAI IMM TOP -DUEN K UE NM NRM M 64 GaEN E KM MO RE03 ELRm U R RNV-IR ÅN0 AmTIIN N T 2GASaND NE G 0TnLI 0 IsNO1 S aG AFFSKPD KSPK+-Nt AÖDKOLE1 USAt RRLN B 2 9UE.ATSOP A EE TIH AMASTG r,ÖDASKS R HMRe N R3 5G TJ A Å EADPD TVEEd0(EIGRRR6 NHS C o G O2(SÉ0N 3 v 0F0BE K )i BNGs 3 ARA n A )&7 CSi C n KTM g KA RLAÅ 1S U R Ö K: A N 5 4 L N A M 0 SE:D6S5NOAN FÄ4ONARD MR A 0IANT.G R 8A K 0 .
+
 Draperi framför scen
+
 Bild: Soul
 Bild: Soul
+
 1\. VY FRÅN SÖDRA LÄKTAREN                                                                               2. SKISSVY FRÅN VÄSTRA KORTSIDAN, MOT SCENEN.
-Tekniska installationer tillkommer. Visualiseringar syftar till att
+Tekniska installationer tillkommer. Visualiseringar syftar till att 8
 lyfta fram material, ytskikt samt kulörer.
+
+© Semrén & Månsson 2025
+
+2025-04-09 10:50:35
+
+FILNAMN: Autodesk Docs://Kungsbacka Arena/A-40-V-000-3466-R24.rvt
 
 <!-- sida 51 -->
 
-5202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
 HUVUDENTRÉ
+
 I entréplanet leds besökaren in i Hall A vid
 t.ex. konsert, företagsevent/arrangemang ENTRÉ - VIP/
 med sittning på planen            RESTAURANG
+
 ENTRÉER STORKÖK OCH BACK OF HOUSE
 RECEPTION
+
 KIOSK KIOSK
+
 ENTRÉER
 SKYDDSRUM OCH
 FÖRRÅD
+
 ENTRÉ SCEN/BACK OF HOUSE
+
 ENTRÉ ARTIST/ELITIDROTT
+
 ENTRÉ MEDIA/DRIFT/KOMMERSIELLT/PERSONAL
 ENTRÉ GYM
 SEKUNDÄR ENTRÉ
@@ -2001,6 +1953,7 @@ SKALA 1:500 1 5METER
 PLAN 10 (ENTRÉPLAN)
 SPELARTUNNEL
 SKALA 1:500 [A3]
+
 Foajé              Gym                 Restaurang/storkök Hall A             Back of house/    Föreningslokal      Vertikal kommunikation
 personalrum
 Omklädning/                           Scen/plats för
@@ -2008,65 +1961,62 @@ Skyddsrum/förråd                       Kiosk/servering                       T
 förråd/städ etc                       tillfällig läktare
 9
 
+© Semrén & Månsson 2025
+
 <!-- sida 52 -->
 
-5202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Bilaga 1 - 2025-04-14
-1
-1
-2
-DA CB C.D B . .A.                                             3
-1
-3
-1
 
-SKALA 1:500 1 5METER
-
-10
-:NMANLIF
-SEKTION
-AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 ++++116251,,83,,830000 PP PPLLLLAAAANNNN 11 111032
-ORIENTERINGSFIGUR
-B SHDE TAA A S NT T UT DU ÄMLS L IN L G ARE GODKÄND AV ÄNDRINGS PM
-D SSR POPBDUTBV E YP R RY YÅ OI IP M T S L SE G GN O O P KN R C E TC D I G G U J J I Å N I F N E E E P I R M N N D F G O M G K K LA I A A E E S K I N T T S GND D N P A N N K S S S T L T A U A N - V N A I M IM TO D U EN UE N M N R M MG E K M MO R E ER R R V I ÅNINGSDELD AFFSKP AÖ D KOLEU S A L R R N O T S P E E T I H A M S T A G Ö DA S K R HG TJÅ E A DP D T V E(ERRHS O20N00) SKALA FÄ4ONARDMR0IANT.G8A0 53:05:0190-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
 Vid t.ex. elitmatch eller konsert med
 sittning på läktaren, leds besökaren
 upp och når Hall A via denna våning
+
 KIOSK/SERVERING
 ÖPPET
 NER
+1
+
+1
+2
+DA CB C.D B . .A.                                             3
+
+1
 KIOSK/SERVERING
-2024-09S-2Y7 GSTREAMNHSAKNNDINLGING
-1 A 4 30A14P Z- 9 43 00RPZ 2 61 0EL 6 6- - - 7 SSAP - K 64 aEN 03 L m U N - R 0 A mTI N T 2 Aa N N G 0 Tn I 0 Is NO 1 S a G KSPK+- Nt 1 t B 2 9 UE.A A r , SM R e N R 3 5A E d 0I GR 6 N C o G ( SÉ 3 v FBE K i BN G s 3 AR A n A ) & 7 CS i C n KTM g K A RL AÅ 1 U R Ö : N 5 4 NM 0 S E : D 6S5 N O A N ARK.
+3
+1                                                  SEKTION
+AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 ++++116251,,83,,830000 PP PPLLLLAAAANNNN 11 111032
+ORIENTERINGSFIGUR
+B SHD2E TAA A S NT0 T UT DU ÄML 2 S L IN L G A4RE-09S-2Y7 GSTR GEO A DKMÄ N ND AVHSAKNNDINLGINGÄNDRINGS PM
+
+SKALA 1:500 1 5METER                                             1D SSR POPBDUTBV A 4 30A14P Z E YP R RY YÅ OI IP M T S L SE G GN O O P -K 9 43 00 N R C E R TC D I G G U J J I Å N I PZ F N E E E P I R M N N D F G O 2 61 0M G K K LA I A A E E S K I N E T T S GN L D D N P A N N6 6- - K - S S S T L T A U A N 7 S - V N A SA I M IM TO P - D U EN K UE N M N R M M 64 G aEN E K M MO R E03 EL R m U R R N V- IR ÅN 0 A mT I I N N T 2 G A S a N D N E G 0 Tn L I 0 Is NO 1 S a G D AFFSKP KSPK+- Nt AÖ D KOLE 1 U S A t L R R N B 2 9 UE.A O T S P A E E T I H A M S T A G r ,Ö DA S S K R H M R e N R 3 5 G TJ A Å E A DP D T VE E d 0(E I G RR R 6 NHS C o G O2( SÉ 0N 3 v 0F0BE K ) i BN G s 3 AR A n A ) & 7 CS i C n KTM g K A RL AÅ S1 U R Ö K: A N 5 4 L N A M 0 S E : D 6S5 N O A N FÄ4ONARD MR A 0IANT.G R 8A K 0 .
 PLAN 11
 SKALA 1:500 [A3]
+
 Länkrum            RWC/WC/förråd/städ  Läktargång        Hall A              Teknik             Markerar plats för rullstol
+
 VIP-rum/                              Scen/Plats för
 Hall B                                 Kiosk/servering                       Vertikal kommunikation
 mötesrum/media                        tillfällig läktare
+10
+
+© Semrén & Månsson 2025
+
+2025-04-09 10:50:35
+
+FILNAMN: Autodesk Docs://Kungsbacka Arena/A-40-V-000-3466-R24.rvt
 
 <!-- sida 53 -->
 
-5202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
 På plan 12 möts besökaren av receptionen för
 att ledas vidare in i verksamhetsytorna.
 Vid större event nås planet via sydvästra entrén.
+
 ÖPPET
 NER
 RECEPTION
+
 Ö
 P
 P
@@ -2075,6 +2025,7 @@ T
 N
 E
 R
+
 PLAN 12
 SKALA 1:500 [A3]
 
@@ -2084,49 +2035,43 @@ Reception/Verksamhet    WC/RWC/städ/Kapprum        Teknik
 
 11
 
+© Semrén & Månsson 2025
+
 <!-- sida 54 -->
 
-SKALA 1:500 1 5METER                                                 :NMANLIF
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
 SEKTION
 AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 ++++116251,,83,,830000 PP PPLLLLAAAANNNN 11 111032
 ORIENTERINGSFIGUR
-B SHDE TAA A S NT T UT DU ÄMLS L IN L G ARE GODKÄND AV ÄNDRINGS PM
-D SSR POPBDUTBV E YP R RY YÅ OI IP M T S L SE G GN O O P KN R C E TC D I G G U J J I Å N I F N E E E P I R M N N D F G O M G K K LA I A A E E S K I N T T S GND D N P A N N K S S S T L T A U A N - V N A I M IM TO D U EN UE N M N R M MG E K M MO R E ER R R V I ÅNINGSDELD AFFSKP AÖ D KOLEU S A L R R N O T S P E E T I H A M S T A G Ö DA S K R HG TJÅ E A DP D T V E(ERRHS O20N00) SKALA FÄ4ONARDMR0IANT.G8A0 54:05:0190-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
-2024-09S-2Y7 GSTREAMNHSAKNNDINLGING
-1 A 4 30A14P Z- 9 43 00RPZ 2 61 0EL 6 6- - - 7 SSAP - K 64 aEN 03 L m U N - R 0 A mTI N T 2 Aa N N G 0 Tn I 0 Is NO 1 S a G KSPK+- Nt 3 t B 2 9 UE.A A r , C SM R e N R 3 5A E od 0I GR 6 N C po G ( SÉ 3 yv FBE K i BN G s1 3 AR A n A ) & 7 C CS i C n o KTM g K A p RL AÅ y1 U R Ö : N 5 4 1 NM 0 S E : D 6S5 N O A N ARK.
-5202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Bilaga 1 - 2025-04-14
+B SHD2E TAA A S NT0 T UT DU ÄML 2 S L IN L G A4RE-09S-2Y7 GSTR GEO A DKMÄ N ND AVHSAKNNDINLGINGÄNDRINGS PM
+
+SKALA 1:500 1 5METER                                             1D SSR POPBDUTBV A 4 30A14P Z E YP R RY YÅ OI IP M T S L SE G GN O O P -K 9 43 00 N R C E R TC D I G G U J J I Å N I PZ F N E E E P I R M N N D F G O 2 61 0M G K K LA I A A E E S K I N E T T S GN L D D N P A N N6 6- - K - S S S T L T A U A N 7 S - V N A SA I M IM TO P - D U EN K UE N M N R M M 64 G aEN E K M MO R E03 EL R m U R R N V- IR ÅN 0 A mT I I N N T 2 G A S a N D N E G 0 Tn L I 0 Is NO 1 S a G D AFFSKP KSPK+- Nt AÖ D KOLE 3 U S A t L R R N B 2 9 UE.A O T S P A E E T I H A M S T A G r ,Ö DA C S S K R H M R e N R 3 5 G TJ A Å E A DP D T VE E od 0(E I G RR R 6 NHS C po G O2( SÉ 0N 3 yv 0F0BE K ) i BN G s1 3 AR A n A ) & 7 C CS i C n o KTM g K A p RL AÅ yS1 U R Ö K: A N 5 4 L1 N A M 0 S E : D 6S5 N O A N FÄ4ONARD MR A 0IANT.G R 8A K 0 .
 PLAN 13- TEKNIK
 SKALA 1:500 [A3]
+
 Teknikrum
+
 12
+
+© Semrén & Månsson 2025
+
+2025-04-09 10:50:45
+
+FILNAMN: Autodesk Docs://Kungsbacka Arena/A-40-V-000-3466-R24.rvt
 
 <!-- sida 55 -->
 
-5202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Bilaga 1 - 2025-04-14
 
 Bild: Soul
 Bild: Soul
 
-13
-5202
-nossnåM
-&
-nérmeS
-©
-13
+1133
+
 Bild: Soul
+
+©© SSeemmrréénn && MMåånnssssoonn 22002255
 
 <!-- sida 56 -->
 
@@ -17911,8 +17856,8 @@ Kolla Parkstad
 
 Orienteringskarta med planområdet markerat med gul figur.
 8 Planbeskrivning
-Södra
-infarten
+
+Södra in farten
 
 <!-- sida 359 -->
 

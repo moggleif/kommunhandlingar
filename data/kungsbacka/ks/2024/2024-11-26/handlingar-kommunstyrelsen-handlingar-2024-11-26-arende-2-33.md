@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff59a7a/1732175237
 sha256: 9262dad02b3de84e7e66ff28dc41b16fb7a7a8b3c13ddc8b0b695e42c1c3102b
 bytes: 89165901
 sidor: 398
-hamtad: 2026-11-06T22:52:19+00:00
-konverterad: 2026-11-06T22:55:44+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T21:58:24+00:00
+konverterad: 2026-11-08T22:02:24+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4401,22 +4401,25 @@ Cykelvänlig omgivning    Hållbara transporter
 
 N 6382758
 
+PLATSANALYS                                                         ANNEBERGS TERRASSER                                                                   4
 N
 
-N 6380654
-
-Skala 1:8 000, SWEREF 99 TM, RH 2000.
-720523
-E
-912823
-E
-PLATSANALYS                                                         ANNEBERGS TERRASSER                                                                   4
 Kungsbacka Alafors 4:12
+
 ca. 42 200 m2
+
 Anneberg
 Station
+
 24⁄07⁄05 | PLANANSÖKAN | BOSTÄDER | ANNEBERG, KUNGSBACKA
+
+N 6380654
 0  300                600               900 m
+Skala 1:8 000, SWEREF 99 TM, RH 2000.
+
+E 325027
+
+E 328219
 
 <!-- sida 114 -->
 
@@ -5587,8 +5590,6 @@ Bif: Skiss Förskola
 
 <!-- sida 143 -->
 
-KUB1001, v2.0, 2013-02-26
-
 TJÄNSTESKRIVELSE
 
 Kommunstyrelsen
@@ -5632,7 +5633,7 @@ Kungsbacka - Sveriges Kvalitetskommun
 
 Kungsbacka
 
-12\)
+1 (2)
 
 Datum
 
@@ -5660,6 +5661,8 @@ Fax 0300-83 47 04
 
 kommun(Akungsbacka.se
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 144 -->
 
@@ -6524,8 +6527,6 @@ Kartbilaga 3
 
 <!-- sida 164 -->
 
-"p0148 arendebevis"
-
 Bevis Organisationsnummer 2 (3)
 
 83 Bolagsverket Beviset skapat 559147-4241
@@ -6582,9 +6583,9 @@ Styrelseledamot, ordförande
 Styrelseledamöter
 (personnummer borttaget) Erlandsson, Christian Erik Natanael, Åleviksvägen 60,
 
-<!-- sida 165 -->
-
 "p0148 arendebevis"
+
+<!-- sida 165 -->
 
 Bevis Organisationsnummer 3/3)
 
@@ -6636,6 +6637,8 @@ Tidigare företagsnamn
 2018-01-31 Startplattan 168860 Aktiebolag
 
 Registreringsbeviset är skapat av Bolagsverket.
+
+"p0148 arendebevis"
 
 <!-- sida 166 -->
 

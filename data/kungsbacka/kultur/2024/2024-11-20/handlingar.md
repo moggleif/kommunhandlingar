@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe6036320/1731937622
 sha256: e8e1cd9d8545c2313145a43c4abe47c89b89de52f24a83024a48d1416504a210
 bytes: 20933688
 sidor: 317
-hamtad: 2026-11-06T20:04:02+00:00
-konverterad: 2026-11-06T20:04:58+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T18:54:03+00:00
+konverterad: 2026-11-08T18:55:06+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3617,6 +3617,8 @@ visas åldersgruppernas andel av total befolkning.
 Kungsbacka har en högre andel personer mellan 12–18 år och 45–55 år än riket. Däremot är andel
 mellan 20–29 år betydligt lägre än riket.
 
+Åldersfördelning i Kungsbacka och riket 2023
+
 1,8%
 1,6%
 
@@ -3633,14 +3635,81 @@ mellan 20–29 år betydligt lägre än riket.
 
 0,0%
 
+Kungsbacka   Riket
+
 Figur 1 - Åldersfördelning för Kungsbacka och Riket Källa: Statistiska Centralbyrån (SCB) 2024
 En jämförelse mellan åldersgrupperna i kommunen från 2002 till 2022 visar att andelen personer
 över 65 år har ökat. Samtidigt har det skett en minskning i åldrarna 0–14 år och 25–44 år.
 
 6
-1 4 7 01 31 61 91 22 52 82 13 43 73 04 34 64 94 25 55 85 16 46 76 07 37 67 97 28 58 88 19 49 79 001
-Åldersfördelning i Kungsbacka och riket 2023
-Kungsbacka   Riket
+
+1
+
+4
+
+7
+
+10
+
+13
+
+16
+
+19
+
+22
+
+25
+
+28
+
+31
+
+34
+
+37
+
+40
+
+43
+
+46
+
+49
+
+52
+
+55
+
+58
+
+61
+
+64
+
+67
+
+70
+
+73
+
+76
+
+79
+
+82
+
+85
+
+88
+
+91
+
+94
+
+97
+
+100
 
 <!-- sida 101 -->
 
@@ -3682,6 +3751,8 @@ fördelning av åldersgrupperna, medan Gällinge har färre personer i åldern 1
 
 <!-- sida 102 -->
 
+Åldersfördelning
+
 10,0%
 
 9,0%
@@ -3699,40 +3770,44 @@ fördelning av åldersgrupperna, medan Gällinge har färre personer i åldern 1
 1,0%
 0,0%
 
+Femårsklasser
+
+Kungsbacka stad Släp    Vallda    Onsala   Kungsbacka
+
 Figur 3 - Åldersfördelning per delområden Kungsbacka stad, Släp, Vallda och Onsala samt hela kommunen, femårsklasser. Källa:
 Kungsbacka kommun
+
+Åldersfördelning
+
+10,0%
+9,0%
+
+8,0%
+7,0%
+
+6,0%
+5,0%
+
+4,0%
+3,0%
+
+2,0%
+
+1,0%
+0,0%
+
+Femårsklasser
+
+Fjärås   Åsa Frillesås Gällinge  Älvsåker   Kungsbacka
 
 Figur 4 - Åldersfördelning per delområden Fjärås, Åsa Frillesås, Gällinge, Älvsåker samt hela kommunen, femårsklasser. Källa:
 Kungsbacka kommun
 
 8
-13-21-2202
-gninklofeb
-latot
-va
-lednA
-Åldersfördelning
-Femårsklasser
-Kungsbacka stad Släp    Vallda    Onsala   Kungsbacka
-10,0%
-9,0%
-8,0%
-7,0%
-6,0%
-5,0%
-4,0%
-3,0%
-2,0%
-1,0%
-0,0%
-13-21-2202
-gninklofeb
-latot
-va
-lednA
-Åldersfördelning
-Femårsklasser
-Fjärås   Åsa Frillesås Gällinge  Älvsåker   Kungsbacka
+
+Andel av total befolkning 2022-12-31
+
+Andel av total befolkning 2022-12-31
 
 <!-- sida 103 -->
 
@@ -3789,6 +3864,9 @@ Detta indikerar en grov återvändargrad i området.
 
 <!-- sida 104 -->
 
+2018-2023 summerade flyttningar per åldersklass
+
+Inflyttning Utflyttning Netto
 1200
 
 1000
@@ -3804,21 +3882,23 @@ Detta indikerar en grov återvändargrad i området.
 -400
 -600
 -800
+Ålder
 
 Figur 6 – De fem senaste årens summerade flyttningar för åldersspannet 16 till 44. Källa: SCB, bearbetat av Kungsbacka kommun
 
 10
-3202-8102
-nammuS
-2018-2023 summerade flyttningar per åldersklass
-Inflyttning Utflyttning Netto
-Ålder
+
+Summan 2018-2023
 
 <!-- sida 105 -->
 
 1.2.1.3 Disponibel inkomst för olika grupper
 Kungsbacka kommun har den högsta medianinkomsten av alla GR-kommuner och Hallands
 kommuner 2021. Detta är en viktig faktor för att kunna skaffa en bostad på bostadsmarknaden.
+
+Förvärvsinkomst alla över 16 år
+
+2001 2011 2021
 
 450,0
 400,0
@@ -3832,23 +3912,21 @@ kommuner 2021. Detta är en viktig faktor för att kunna skaffa en bostad på bo
 50,0
 0,0
 
+GR-kommun och Halland
+
 Figur 7 - Median av summerad förvärvsinkomst per individ mellan 16–74 år efter år. Källa: SCB 2022
 När det kommer till förvärvsinkomst finns det en tydlig skillnad mellan könen. Både män och
 kvinnor i Kungsbacka har en högre medianinkomst än genomsnittet för Hallands län och riket.
 Dock tjänar män mer än kvinnor på alla nivåer.
 
-Figur 8 - Summerad förvärvsinkomst efter riket/region/kommun och kön. Källa: SCB
+Förvärvsinkomst, median
 
-11
-tsmoknisvrävröf
-daremmus
-naideM
-Förvärvsinkomst alla över 16 år
-2001 2011 2021
-GR-kommun och Halland
+Kungsbacka män  Kungsbacka kvinnor Halland män
+Halland kvinnor Riket män       Riket kvinnor
 500
 450
 400
+
 350
 300
 250
@@ -3857,12 +3935,16 @@ GR-kommun och Halland
 100
 50
 0
-tsmoknisvrävröf
-naideM
-Förvärvsinkomst, median
-Kungsbacka män  Kungsbacka kvinnor Halland män
-Halland kvinnor Riket män       Riket kvinnor
+
 År
+
+Figur 8 - Summerad förvärvsinkomst efter riket/region/kommun och kön. Källa: SCB
+
+11
+
+Median förvärvsinkomst
+
+Median summerad förvärvsinkomst
 
 <!-- sida 106 -->
 
@@ -3878,6 +3960,9 @@ Förvärvsinkomsten är lägre för personer som är utrikesfödda i hela GR-omr
 kommuner. Kungsbacka har den tredje största skillnaden mellan dessa grupper av kommuner i
 GR-området och Hallands kommuner.
 
+Förvärvsinkomst efter bakgrund
+
+födda i Sverige utrikes födda
 500
 450
 400
@@ -3890,6 +3975,8 @@ GR-området och Hallands kommuner.
 50
 0
 
+GR-kommuner och Hallands kommuner
+
 Figur 10 - Median för sammanräknad förvärvsinkomst efter kommun och bakgrund 2021. Källa: SCB 2022
 
 Under 2010-talet har förvärvsinkomsten för personer som bor i Kungsbacka kommun utvecklats
@@ -3897,16 +3984,18 @@ olika beroende på hur länge de har vistats i Sverige . De som har vistats i Sv
 tid har haft en större ökning i sin förvärvsinkomst jämfört med tidigare. Det finns dock en
 
 12
-tsmoknisvrävröf
-naideM
-Förvärvsinkomst efter bakgrund
-födda i Sverige utrikes födda
-GR-kommuner och Hallands kommuner
+
+Median förvärvsinkomst
 
 <!-- sida 107 -->
 
 betydande skillnad i inkomstnivå mellan dem och personer som har bott i Sverige under en längre
 tid.
+
+Sammanräknad  förvärvsinkomst för boende i Kungsbacka
+efter vistelsetid i Sverige
+
+1-2 år i Sverige 3-4 år i Sverige 5-9 år i Sverige 10-19 år i Sverige
 
 400,0
 350,0
@@ -3944,11 +4033,8 @@ egna hushållets ekonomi under det närmaste året, jämfört med 20 procent i d
 befolkningen. Källa: SCB (2022). Sämre ekonomi för personer med funktionsnedsättning.
 
 13
-tsmoknisvrävröf
-naideM
-Sammanräknad  förvärvsinkomst för boende i Kungsbacka
-efter vistelsetid i Sverige
-1-2 år i Sverige 3-4 år i Sverige 5-9 år i Sverige 10-19 år i Sverige
+
+Median förvärvsinkomst
 
 <!-- sida 108 -->
 
@@ -3987,7 +4073,9 @@ sjunkande fruktsamhet.
 
 <!-- sida 109 -->
 
-Framskrivning 2050;
+Folkmängd och folkökning per år, utfall och enligt prognos
+
+Folkökning Folkmängd Framskrivning 2050;
 109763
 1 800                                                 120 000
 Prognos 2033;
@@ -4005,29 +4093,79 @@ Prognos 2033;
 0                                                   20 000
 -200
 -400                                                  0
+År
 Figur 13 - Folkmängd och folkökning i Kungsbacka efter år. Vinrött är utfall och blått är prognos (2024–2033) samt framskrivning (2034–
 2050). Källa: Kungsbacka kommuns befolkningsprognos 2024–2050
 1.2.2.2 Förväntad åldersstruktur
 Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år beräknas att öka från
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
-
 2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
-rå
-rep
-gninkökloF
-0002 2002 4002 6002 8002 0102 2102 4102 6102 8102 0202 2202 4202 6202 8202 0302 2302 4302 6302 8302 0402 2402 4402 6402 8402 0502
-rå
-rep
-dgnämkloF
-Folkmängd och folkökning per år, utfall och enligt prognos
-Folkökning Folkmängd
-År
+
+Folkökning per år
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2028
+
+2030
+
+2032
+
+2034
+
+2036
+
+2038
+
+2040
+
+2042
+
+2044
+
+2046
+
+2048
+
+2050
+
+Folkmängd per år
 
 <!-- sida 110 -->
+
+Åldersfördelning i Kungsbacka, utfall och enligt prognos
+
+2022   2032
 
 1,8%
 1,6%
@@ -4043,59 +4181,115 @@ Folkökning Folkmängd
 0,2%
 0,0%
 
+Ålder
+
 Figur 14 - Åldersgrupper andel av total folkmängd enligt utfall och prognos. Källa: Kungsbacka kommuns befolkningsprognos 2023–
 2050
 Det är främst gruppen över 80 år som beräknas att öka i Kungsbacka och hela landet. Detta beror
 på de stora åldersgrupperna födda under 1940-talet i kombination med en ökande medellivslängd.
 
-Figur 15 - Antal folkbokförda i Kungsbacka efter åldersgrupper. Utfall i blått och prognos i vinrött. Källa: Kungsbacka kommuns
-befolkningsprognos 2023–2050
-
-16
-negninklofeb
-latot
-va
-ledna
-neppurgsredlÅ
-0 3 6 9 21 51 81 12 42 72 03 33 63 93 24 54 84 15 45 75 06 36 66 96 27 57 87 18 48 78 09 39 69 99
-Åldersfördelning i Kungsbacka, utfall och enligt prognos
-2022   2032
-Ålder
-30 000
-25 000
-20 000
-15 000
-10 000
-5 000
-0
-0-6 7-9 10-12 13-15 16-19 20-24 25-29 30-44 45-64 65-79 80-89 90-
-adröfkobklof
-latnA
 2010
 Antal folkbokförda i Kungsbacka efter åldersgrupp, utfall och prognos
 2011
 2012
+30 000
 2013
 2014
-2015
+25 000                                                      2015
 2016
 2017
-2018
+20 000                                                      2018
 2019
 2020
-2021
+15 000                                                      2021
 2022
 2023
+10 000
 2024
 2025
-2026
+5 000                                                       2026
 2027
 2028
-2029
-2030
+0                                                        2029
+0-6 7-9 10-12 13-15 16-19 20-24 25-29 30-44 45-64 65-79 80-89 90- 2030
 2031
 Åldersgrupper
 2032
+Figur 15 - Antal folkbokförda i Kungsbacka efter åldersgrupper. Utfall i blått och prognos i vinrött. Källa: Kungsbacka kommuns
+befolkningsprognos 2023–2050
+16
+
+Antal folkbokförda
+
+Åldersgruppen andel av total befolkningen
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+30
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+90
+
+93
+
+96
+
+99
 
 <!-- sida 111 -->
 
@@ -4125,24 +4319,30 @@ första gång på fem år under 2022. Onsala är de delområdet med högst andel
 19 och personer mellan 45–59 år, vilket gör att befolkningen beräknas att minska under
 prognosperioden.
 
+Befolkningsutveckling samtliga åldersgrupper
+
 35 000 Kungsbacka Stad;
 23927
 30 000
-25 000                   Onsala;
+2023
+25 000                   Onsala;                          2024
 14231       Åsa Frillesås;
-Släp;                    10712
+Släp;                    10712               2025
 20 000       12549
-Fjärås;            Älvsåker;
+Fjärås;            Älvsåker; 2026
 Vallda;      6638                6195
-15 000            8823                     Gällinge;
+15 000            8823                     Gällinge;      2027
 2457
+2028
 10 000
-5 000
+2029
+5 000                                                     2030
+2031
 0
-
+2032
+2033
 Figur 17 - Antal folkbokförda i Kungsbacka efter planeringsområde. Siffran i pratbubblan är antal folkbokförda per 2023. Källa:
 Kungsbacka kommuns befolkningsprognos 2024–2050
-
 1.3 Bostäder
 
 Sammanfattning
@@ -4161,20 +4361,8 @@ Mål enligt Kungsbackas bostadsförsörjningsprogram 2019–2025 var att Kungsba
 för 500 bostäder per år.
 
 18
-adröfkobklof
-latnA
-Befolkningsutveckling samtliga åldersgrupper
-2023
-2024
-2025
-2026
-2027
-2028
-2029
-2030
-2031
-2032
-2033
+
+Antal folkbokförda
 
 <!-- sida 113 -->
 
@@ -4235,6 +4423,10 @@ Kungsbacka har haft en betydligt högre prisutveckling än Varberg som har vuxit
 
 <!-- sida 115 -->
 
+Prisutveckling för småhus
+
+Kungsbacka  Göteborg  Härryda  Kungälv   Mölndal  Varberg
+
 60 000                                            Göteborg; 50897
 
 50 000                                               Mölndal; 49695
@@ -4256,6 +4448,21 @@ kan kraftigt variera mellan åren vilka objekt som har varit till salu, men det 
 prisnivån. I början av september 2023 var medelvärdet för en villa i Kungsbacka de nästhögst av
 närliggande kommuner.
 
+Pris för villor senaste 12 månader, 2023-09-08
+
+7 000 000      Kungsbacka;
+5596000
+6 000 000
+5 000 000
+
+4 000 000
+3 000 000
+
+2 000 000
+1 000 000
+
+0
+
 Figur 21 - Medelvärde för köpeskillnad senaste 12 månaderna från 2023-09-08. Källa: Mäklarstatsik.se
 
 Prisutvecklingen per kvadratmeter för bostadsrätter har också ökat sedan 2000. Även här är
@@ -4263,25 +4470,16 @@ kvadratmeterpris för bostadsrätter det näst högsta i Kungsbacka. Detta inneb
 god inkomst för att kunna köpa sig en lägenhet i Kungsbacka.
 
 21
-mvk/rk
-,sirpstehgitsaF
-Prisutveckling för småhus
-Kungsbacka  Göteborg  Härryda  Kungälv   Mölndal  Varberg
-7 000 000      Kungsbacka;
-5596000
-6 000 000
-5 000 000
-4 000 000
-3 000 000
-2 000 000
-1 000 000
-0
-gninjläsröf
-div
-edrävledeM
-Pris för villor senaste 12 månader, 2023-09-08
+
+Medelvärde vid försäljning
+
+Fastighetspris, kr/kvm
 
 <!-- sida 116 -->
+
+Prisutveckling för bostadsrätter
+
+Kungsbacka  Göteborg  Härryda   Kungälv   Mölndal   Varberg
 
 60 000
 Göteborg; 45983
@@ -4304,31 +4502,32 @@ Figur 22 - Kvadratmeterpris per bostadsrätter 2000–2022. Källa: Kolada.se
 och privata fastighetsvärdar i Göteborgsområdet. Mellan 2022 och 2023 var medianvärdet för den
 årliga ökningen i procent betydligt högre än någon annan gång under perioden.
 
-Figur 23 - Median för procentuell ökning av hyra för en hyresrätt i Storgöteborg. Källa: SCB
+Procentuell ökning på hyra i hyresrätter
 
-22
-mvk/rk
-,sirpstehgitsaF
-Prisutveckling för bostadsrätter
-Kungsbacka  Göteborg  Härryda   Kungälv   Mölndal   Varberg
 5,0
 4,5
 4,0
+
 3,5
 3,0
 2,5
+
 2,0
 1,5
 1,0
+
 0,5
 0,0
 2016    2017   2018    2019    2020   2021    2022    2023
-rettärseryh
-röf
-gninkötnecorp
-,naideM
-Procentuell ökning på hyra i hyresrätter
 Stor-Göteborg privata och övriga fastighetsägare Stor-Göteborg allmännyttiga bostadsföretag
+
+Figur 23 - Median för procentuell ökning av hyra för en hyresrätt i Storgöteborg. Källa: SCB
+
+22
+
+Fastighetspris, kr/kvm
+
+Median, procentökning för hyresrätter
 
 <!-- sida 117 -->
 
@@ -5998,6 +6197,13 @@ lägst andel bor i Gällinge. För gruppen över
 30 så minskar andelen som bor i
 Kungsbacka stad.
 
+Figur 85 - Antal folkbokförda i Kungsbackas planeringsområden 2022-
+12-31. Källa: SCB
+Andel av total befolkning boende inom planeringsområde
+2022
+
+20-24 år 25-29 år 30-44 år
+
 50    45
 45
 40
@@ -6017,15 +6223,8 @@ Unga mellan 20–29 år flyttar ofta, det syns sett till antal flyttar under de 
 Lund och Stockholm.
 
 65
-negninklofeb
-latot
-va
-lednA
-Figur 85 - Antal folkbokförda i Kungsbackas planeringsområden 2022-
-12-31. Källa: SCB
-Andel av total befolkning boende inom planeringsområde
-2022
-20-24 år 25-29 år 30-44 år
+
+Andel av total befolkningen
 
 [Tabell 159-1](handlingar.tabeller/159-1.csv)
 
@@ -6043,6 +6242,10 @@ Andel av total befolkning boende inom planeringsområde
 
 <!-- sida 160 -->
 
+Antal in- och utflyttning mellan 2018-2022 till Kungsbacka
+
+Inflyttning Utflyttning Netto
+
 1500
 
 1000
@@ -6054,6 +6257,7 @@ Andel av total befolkning boende inom planeringsområde
 -500
 
 -1000
+Ettårsklasser
 
 Figur 87 - Antal flyttar över kommungränsen efter ålder mellan 2018–2022. Källa: SCB 2022
 Under 2023 hade åldersgruppen 20–24 år det största negativa flyttningsöverskottet, med ett
@@ -6064,85 +6268,85 @@ Under 2000-talet var antalet in- och utflyttningar för åldersgruppen 20–29 �
 har både in- och utflyttningar ökat, men från 2018 har utflyttningarna ökat i högre takt. År 2023 var
 
 66
-rattylf
-latnA
-rå
-0
-rå
-3
-rå
-6
-rå
-9
-rå
-21
-rå
-51
-rå
-81
-rå
-12
-rå
-42
-rå
-72
-rå
-03
-rå
-33
-rå
-63
-rå
-93
-rå
-24
-rå
-54
-rå
-84
-rå
-15
-rå
-45
-rå
-75
-rå
-06
-rå
-36
-rå
-66
-rå
-96
-rå
-27
-rå
-57
-rå
-87
-rå
-18
-rå
-48
-rå
-78
-rå
-09
-rå
-39
-rå
-69
-rå
-99
-Antal in- och utflyttning mellan 2018-2022 till Kungsbacka
-Inflyttning Utflyttning Netto
-Ettårsklasser
+
+Antal flyttar
+
+0 år
+
+3 år
+
+6 år
+
+9 år
+
+12 år
+
+15 år
+
+18 år
+
+21 år
+
+24 år
+
+27 år
+
+30 år
+
+33 år
+
+36 år
+
+39 år
+
+42 år
+
+45 år
+
+48 år
+
+51 år
+
+54 år
+
+57 år
+
+60 år
+
+63 år
+
+66 år
+
+69 år
+
+72 år
+
+75 år
+
+78 år
+
+81 år
+
+84 år
+
+87 år
+
+90 år
+
+93 år
+
+96 år
+
+99 år
 
 <!-- sida 161 -->
 
 skillnaden mellan in- och utflyttningar den största hittills. Ett negativt flyttningsöverskott innebär att
 fler flyttar ut från kommunen än in.
 
+Antal in- och utflyttningar per år för åldersgruppen 20-29 år
+
+Inflyttningar Utflyttningar Flyttningsöverskott
 2000
 
 1500
@@ -6154,6 +6358,7 @@ fler flyttar ut från kommunen än in.
 0
 
 -500
+20-29 år
 
 -1000
 
@@ -6170,10 +6375,54 @@ Det är främst inom Onsala, Vallda och Släp som ungdomar tenderar att bo kvar,
 har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokföringsadress längre
 
 67
-0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202
-Antal in- och utflyttningar per år för åldersgruppen 20-29 år
-Inflyttningar Utflyttningar Flyttningsöverskott
-20-29 år
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
 
 [Tabell 161-1](handlingar.tabeller/161-1.csv)
 
@@ -6282,6 +6531,10 @@ anvisade. Efter det har antalet minskat. 2022 tog vi emot 109 personer. Bland ny
 
 ungefär hälften barn och hälften vuxna.
 
+Nyanlända
+
+Vuxna Under 18
+
 400
 350
 300
@@ -6300,6 +6553,8 @@ Under 18 15     93    163    137    83     69     65     58
 Vuxna    25    134    180    153    73     50     62     51
 ```
 
+År
+
 Figur 96 - Antal nyanlända som anvisats till Kungsbacka 2015–2022. Källa: Gymnasium & Arbetsmarknad, verksamhetssystem Viva
 
 1.5.3 Äldre
@@ -6307,11 +6562,8 @@ Andelen äldre i befolkningen beräknas att bli allt fler, både i riket och i K
 att de stora åldersgrupperna födda under 1940-talet nu går in i åldersgruppen 80+. Prognosen för
 
 71
-adnälnayn
-latnA
-Nyanlända
-Vuxna Under 18
-År
+
+Antal nyanlända
 
 <!-- sida 166 -->
 
@@ -6373,6 +6625,11 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 <!-- sida 167 -->
 
+Antal personer över 80 år i Kungsbacka kommun
+
+Senaste prognos - 65-79 år Senaste prognos - 80+
+Utfall - 65-79 år  Utfall - 80+
+
 18000
 2035; 14531
 16000
@@ -6394,14 +6651,9 @@ Ju äldre personen blir desto mindre inkomster har en att röra sig med. Från 6
 majoriteten att få ut pension i stället för lön och inkomsterna sjunker. Trenden i Kungsbacka är att
 alla åldersgrupper har ökat sin inkomst sedan 2000.
 
-Figur 100 - Median för förvärvsinkomst efter ålder i Kungsbacka. Källa: SCB 2022
+Summerad  förvärvsinkomst efter ålder för Kungsbacka
 
-73
-adröfkobklof
-latnA
-Antal personer över 80 år i Kungsbacka kommun
-Senaste prognos - 65-79 år Senaste prognos - 80+
-Utfall - 65-79 år  Utfall - 80+
+20-64 år 65+ år  85+ år
 2021; 418,4
 450,0
 400,0
@@ -6416,11 +6668,14 @@ Utfall - 65-79 år  Utfall - 80+
 2009; 146,0
 50,0
 0,0
-tsmoknisvrävröf
-va
-naideM
-Summerad  förvärvsinkomst efter ålder för Kungsbacka
-20-64 år 65+ år  85+ år
+
+Figur 100 - Median för förvärvsinkomst efter ålder i Kungsbacka. Källa: SCB 2022
+
+73
+
+Median av förvärvsinkomst
+
+Antal folkbokförda
 
 <!-- sida 168 -->
 
@@ -6428,22 +6683,26 @@ I samband med detta så ligger boendekostnaderna för äldre hushåll betydligt 
 sett till boendekostnader. Det är främst amorteringar, räntekostnader och underhåll som skiljer de
 yngre hushållen åt de äldre.
 
+Utgiftsposter för äganderätt i riket efter utgiftspost 2021
+
 160 000
 
 140 000
 120 000
 
+Villaförsäkring
 100 000
-
-80 000
-
+Underhåll och reparation
+80 000                                    Avgifter (VA, sophantering mm)
+Uppvärmning
 60 000
-
-40 000
+Fastighetsavgift
+40 000                                    Amortering
+Ränteutgifter m.m.
 20 000
-
 \-
 30-39 år 40-49 år 70-79 år 80+ år
+Åldersgrupper
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
 Detta i kombination med att äldre hushåll oftare bor i småhus med låga boendekostnader skapas
@@ -6452,20 +6711,8 @@ har Kungsbacka tio procent av total antal hushåll över 80 i småhus. Bland Hal
 Göteborgsregionen är det bara Göteborgs stad och Halmstad kommun som har högre andel.
 
 74
-tsoptfigtu
-retfe
-tekir
-röf
-edrävledeM
-Utgiftsposter för äganderätt i riket efter utgiftspost 2021
-Villaförsäkring
-Underhåll och reparation
-Avgifter (VA, sophantering mm)
-Uppvärmning
-Fastighetsavgift
-Amortering
-Ränteutgifter m.m.
-Åldersgrupper
+
+Medelvärde för riket efter utgiftpost
 
 <!-- sida 169 -->
 
@@ -10638,22 +10885,32 @@ med ekonomistyrprinciperna är det nämnden som ansvarar för att prioritera ris
 I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns med beskrivning i tabellen nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-9
-tehkilonnaS
 4          8          12         16
+
 4
+
 3          6          9          12
 2 4
 3
+
 2          4          6           8
 1          3
+
 2
+
 1          2          3           4
+
 1
+
 1           2          3          4
+
 Konsekvens
+
 2 Hög 2 Medel Totalt: 4
+
+9
+
+Sannolikhet
 
 <!-- sida 293 -->
 

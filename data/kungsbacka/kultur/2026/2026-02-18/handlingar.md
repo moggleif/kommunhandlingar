@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e00835ca1/1770880804
 sha256: 96e0fef4b7b54587f12318d7bab1d63c081eb8f133cc417bdafede9c6e7e0c80
 bytes: 4109977
 sidor: 89
-hamtad: 2026-11-06T20:19:45+00:00
-konverterad: 2026-11-06T20:20:04+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T19:10:53+00:00
+konverterad: 2026-11-08T19:11:14+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -2840,21 +2840,28 @@ Internkontrollrapport 2025 -
 
 4.1 Risker - Till plan
 
-6
-tehkilonnaS
 4          8          12         16
+
 4
+
 3          6          9          12
 2 4
+
 3
+
 2          4          6           8
 1          3
 2
+
 1          2          3           4
+
 1
+
 1           2          3          4
 Konsekvens
+
 2 Hög 2 Medel Totalt: 4
+
 Kritisk        Sannolikhet           Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den inte
@@ -2867,6 +2874,10 @@ intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 Kategorier        Matrisnr Risker                            Till plan
+
+6
+
+Sannolikhet
 
 <!-- sida 68 -->
 

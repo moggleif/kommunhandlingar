@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.29e29ba018df2c6344723b75/1710250453
 sha256: 18d3050ed26f0186c97e1f04bc5550e0960f7cfd230555f74a5d85dc659f85e1
 bytes: 11476043
 sidor: 123
-hamtad: 2026-11-06T20:36:44+00:00
-konverterad: 2026-11-06T20:38:04+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T19:29:28+00:00
+konverterad: 2026-11-08T19:30:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -170,33 +170,26 @@ Förvaltningschef              Verksamhetschef
 
 YTTRANDE
 
-Miljö & Hälsoskydd                                           Kungsbacka kommun
-Annika Ekvall                                                 434 81 Kungsbacka
-Direkt 0300-83 41 31                                             Besöksadress
-(e-post borttagen)                                 Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 49 34
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 001BUK
-mroFinu
 1 (3)
 Nämnden för Miljö & Hälsoskydd                                     Datum
 2016-11-09
 Dnr
 3010/2016- 00-1
+
 Strategi för utvecklingsarbete – Budget Bokslut
+
 Förslag till beslut
 Nämnden antar strategin för utvecklingsarbete
+
 Bakgrund
 Vid revisionen år 2014, som följdes upp 2016, ansåg revisionen att nämnden borde
 utveckla en strategi för arbetet med utveckling så att det kan bedrivas mer
 målinriktat. Föreliggande dokument utgör en sådan strategi. Den är att betrakta som
+
 en dokumentation av den strategi som förvaltningen har använt sig av de senaste åren
 och innehåller alltså ingen förändrad inriktning i praktiken, men det kan finnas
 fördelar med att skriva ned hur man ser på frågan, varför detta dokument tagits fram.
+
 Nämnden arbetar aktivt med att utveckla verksamheten. Den ytterst begränsade
 budgeten gör dock att mycket av utvecklingen sker med externa medel. Nackdelen
 med detta är att existensen av en extern finansiär samt denne finansiärs preferenser
@@ -207,12 +200,28 @@ projekt. För naturvårdsåtgärder finns LONA (Lokala Naturvårdsprojekt), äve
 via länsstyrelsen. För övriga delar av verksamheten finns inte några sådana naturliga
 finansiärer. Om man går samman med flera andra kan man också söka pengar från
 andra källor, t ex EU-bidrag, men det blir då större projekt.
+
 Annat, internt, utvecklingsarbete måste ske på egna medel och måste därför tyvärr
 ransoneras hårt.
+
 Strategin för utveckling är därför koncentrerad på det ofinansierade
 utvecklingsarbetet.
+
 Annika Ekvall
 Förvaltningschef
+
+Miljö & Hälsoskydd                                           Kungsbacka kommun
+Annika Ekvall                                                 434 81 Kungsbacka
+Direkt 0300-83 41 31
+Besöksadress
+(e-post borttagen)
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 49 34
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2005-11-25
 
 <!-- sida 7 -->
 
@@ -333,10 +342,45 @@ ProSale Signing referensnummer: 355214
 
 <!-- sida 10 -->
 
+Strategi för strandskyddstillsyn
+
 1 (6)
 
+Inledning
 Datum
-2011-02-02
+Den 1 juli 2009 trädde en ny strandskyddslag i kraft. Lagändringen innebär att 2011-02-02
+kommunen numera är tillsynsmyndighet med vissa undantag. Undantagen gäller
+anläggande av allmän väg, järnväg, försvarsanläggning samt dispensansökningar och
+tillsyn i områden som omfattas av annat statligt skydd enligt 7 kap miljöbalken.
+Kungsbacka kommun har gott om kust, sjöar och vattendrag och har även därmed
+stora områden att övervaka . Resurserna för tillsyn är begränsade och arbetet måste
+anpassas efter resurstillgång, men utan att arbetet med uppfyllandet av
+miljökvalitetsmålen eller lagstiftningen eftersätts.
+
+Syftet med strategin är att klargöra hur den granskande och kontrollerande tillsynen
+ska hanteras. Tillsyn inom strandskyddade områden kommer att hanteras av Miljö-
+och Hälsoskydd men berör även indirekt Plan och Bygg, framför allt vid
+förebyggande tillsyn. Det finns därmed ett behov av samsyn mellan de två
+förvaltningarna.
+
+Miljö- och Hälsoskydd har under hösten 2010 arbetat fram rutiner för hantering av
+strandskyddsärenden. Rutinerna syftar till att eftersträva likartad hantering av
+ärenden samt effektivisering av arbetstid.
+
+Tillsyn enligt miljöbalken
+
+Enligt 1 kap 1 § miljöbalken ska balken tillämpas så att värdefulla natur- och
+kulturmiljöer skyddas och vårdas, den biologiska mångfalden bevaras, mark, vatten
+och fysisk miljö i övrigt används så att en från ekologisk, social, kulturell och
+samhällsekonomisk synpunkt långsiktligt god hushållning tryggas.
+Tillsynsmyndigheten ska kontrollera efterlevnaden av miljöbalken samt föreskrifter,
+domar och andra beslut som har meddelat med stöd av balken samt vidta de åtgärder
+som krävs för att åstadkomma rättelse (26 kap 1 § miljöbalken).
+
+Förebyggande tillsyn är en mycket viktig del i tillsynsarbetet. Tillsynsmyndigheten
+kan nå ut till medborgarna med information om lagstiftningen och kan på så sätt
+förebygga överträdelser. En stor del av tillsynsarbetet kommer därför att omfattas av
+rådgivning, samråd och information.
 
 Miljö & Hälsoskydd                                           Kungsbacka kommun
 Teresia Holmberg                                              434 81 Kungsbacka
@@ -348,41 +392,8 @@ Telefon vx 0300-83 40 00
 Fax 0300-83 49 34
 (e-post borttagen)
 www.kungsbacka.se
-20-01-6002
-,0.1
-v
-003BUK
-mroFinu
-Strategi för strandskyddstillsyn
-Inledning
-Den 1 juli 2009 trädde en ny strandskyddslag i kraft. Lagändringen innebär att
-kommunen numera är tillsynsmyndighet med vissa undantag. Undantagen gäller
-anläggande av allmän väg, järnväg, försvarsanläggning samt dispensansökningar och
-tillsyn i områden som omfattas av annat statligt skydd enligt 7 kap miljöbalken.
-Kungsbacka kommun har gott om kust, sjöar och vattendrag och har även därmed
-stora områden att övervaka . Resurserna för tillsyn är begränsade och arbetet måste
-anpassas efter resurstillgång, men utan att arbetet med uppfyllandet av
-miljökvalitetsmålen eller lagstiftningen eftersätts.
-Syftet med strategin är att klargöra hur den granskande och kontrollerande tillsynen
-ska hanteras. Tillsyn inom strandskyddade områden kommer att hanteras av Miljö-
-och Hälsoskydd men berör även indirekt Plan och Bygg, framför allt vid
-förebyggande tillsyn. Det finns därmed ett behov av samsyn mellan de två
-förvaltningarna.
-Miljö- och Hälsoskydd har under hösten 2010 arbetat fram rutiner för hantering av
-strandskyddsärenden. Rutinerna syftar till att eftersträva likartad hantering av
-ärenden samt effektivisering av arbetstid.
-Tillsyn enligt miljöbalken
-Enligt 1 kap 1 § miljöbalken ska balken tillämpas så att värdefulla natur- och
-kulturmiljöer skyddas och vårdas, den biologiska mångfalden bevaras, mark, vatten
-och fysisk miljö i övrigt används så att en från ekologisk, social, kulturell och
-samhällsekonomisk synpunkt långsiktligt god hushållning tryggas.
-Tillsynsmyndigheten ska kontrollera efterlevnaden av miljöbalken samt föreskrifter,
-domar och andra beslut som har meddelat med stöd av balken samt vidta de åtgärder
-som krävs för att åstadkomma rättelse (26 kap 1 § miljöbalken).
-Förebyggande tillsyn är en mycket viktig del i tillsynsarbetet. Tillsynsmyndigheten
-kan nå ut till medborgarna med information om lagstiftningen och kan på så sätt
-förebygga överträdelser. En stor del av tillsynsarbetet kommer därför att omfattas av
-rådgivning, samråd och information.
+
+uniForm KUB300 v 1.0, 2006-10-02
 
 <!-- sida 11 -->
 
@@ -656,41 +667,50 @@ Justerare                         Expedierat/bestyrkt
 
 YTTRANDE
 
-Miljö & Hälsoskydd                                           Kungsbacka kommun
-Annika Ekvall                                                 434 81 Kungsbacka
-Direkt 0300-83 41 31                                             Besöksadress
-(e-post borttagen)                                 Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 49 34
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 001BUK
-mroFinu
 1 (4)
 Nämnden för Miljö & Hälsoskydd                                     Datum
 2016-10-24
 Dnr
 2916/2016- 00-1
+
 Strategi för nyckeltal – Budget Bokslut
+
 Förslag till beslut
 Nämnden antar strategin
+
 Bakgrund
+
 Vid revisionen år 2014, som följdes upp 2016, ansåg revisionen att nämnden borde
 utveckla en strategi för arbetet med nyckeltal så att det kan bedrivas mer målinriktat.
 Föreliggande dokument utgör en sådan strategi. Den är att betrakta som en
 dokumentation av den strategi som förvaltningen har använt sig av de senaste åren
 och innehåller alltså ingen förändrad inriktning i praktiken, men det kan finnas
 fördelar med att skriva ned hur man ser på frågan, varför detta dokument tagits fram.
+
 Nämnden arbetar aktivt med att utforska vilka nyckeltal som kan behövas och hur
 dessa utformas. Detta sker löpande, med koncentration till tiden strax före det att
 nämndbudgeten skall antas. För närvarande, 2016, funderar vi på om vi kan följa upp
+
 tiden som ett ärende tar från det att det är komplett och till dess att det avslutas med
 ett beslut. Vi ser till att detta går att få ut från det nya ärendehanteringssystemet.
+
 I strategin ingår hur vi håller nyckeltalen levande och aktuella.
+
 Annika Ekvall
 Förvaltningschef
+
+Miljö & Hälsoskydd                                           Kungsbacka kommun
+Annika Ekvall                                                 434 81 Kungsbacka
+Direkt 0300-83 41 31
+Besöksadress
+(e-post borttagen)
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 49 34
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2005-11-25
 
 <!-- sida 18 -->
 
@@ -915,37 +935,44 @@ Apan
 
 TJÄNSTESKRIVELSE
 
-Miljö & Hälsoskydd                                           Kungsbacka kommun
-Annika Ekvall                                                 434 81 Kungsbacka
-Direkt 0300-83 41 31                                             Besöksadress
-(e-post borttagen)                                 Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 49 34
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 001BUK
-mroFinu
 1 (3)
 Nämnden för Miljö & Hälsoskydd                                     Datum
 2017-09-05
 Dnr
 1910/2016- 00-14
+
 Delårsrapport för kundkommunikationsplan 2017
+
 Förslag till beslut
 Nämnden noterar informationen
+
 Bakgrund
 Under 2016 antogs en kundkommunikationsstrategi som säger att det varje år ska tas
 fram en konkret plan för kundkommunikationen. Det kan vara lämpligt att denna
 plan följs upp i samband med delårsrapporterna. Här kommer därför en andra
+
 avrapportering.
 Förvaltningens bedömning/synpunkter
+
 Nedan följer en kopia av innehållet i kundkommunikationsplanen för 2017 samt en
 lägesrapport. Därefter finns en redogörelse för aktiviteter som inte finns med i
 planen, men som kommit fram lokalt på förvaltningen eller hos andra delar av
 kommunen och som förvaltningschefen funnit lämpliga att genomföra.
+
 Uppföljning av kundkommunikationsplanen
+
+Miljö & Hälsoskydd                                           Kungsbacka kommun
+Annika Ekvall                                                 434 81 Kungsbacka
+Direkt 0300-83 41 31
+Besöksadress
+(e-post borttagen)
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 49 34
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2005-11-25
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
@@ -1046,8 +1073,8 @@ Strategi och plan
 
 En strategi syftar till att staka ut en riktning och/eller slå fast ett förhållningssätt. Den
 talar om att nämnden avser att på allvar arbeta med frågan samt vilket mål man vill
-uppnå.
 
+uppnå.
 För att nå dit strategin syftar så krävs en rad aktiviteter. Dessa beskrivs i en plan, och
 kundkommunikationsplanen för 2017 är planerad att tas upp i nämnden i oktober.
 
@@ -1566,34 +1593,27 @@ Bygg- och miljöförvaltningen
 
 YTTRANDE
 
-Miljö & Hälsoskydd                                           Kungsbacka kommun
-Mohammed Issa                                                 434 81 Kungsbacka
-Direkt (e-post borttagen)                               Besöksadress
-Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 49 34
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 001BUK
-mroFinu
 1 (3)
 Nämnden för Miljö & Hälsoskydd                                     Datum
 2016-05-31
 Dnr
 1958/2016- 35-1
+
 Ändring i Avloppsstrategi avseende acceptabel spolvolym för
 vattentoalett till sluten tank
+
 Förslag till beslut
 Nämnden för Miljö & Hälsoskydd beslutar att i acceptera toaletter med en
 genomsnittlig spolvolym på maximalt 1 liter till sluten tank när krav ställs på
 nyanläggning av avloppssystem utan lokalt utsläpp till vare sig grund- eller ytvatten
+
 från WC.
 Detta ersätter kravet på extremt snålspolande toalett med högst 0,6 l spolvolym per
 gång.
+
 Bakgrund
 Utdrag från avloppsstrategin fastställd 2014-08-28:
+
   I områden med hög skyddsnivå tillåts endast nyanläggning av
 avloppssystem utan lokalt utsläpp till vare sig grund- eller ytvatten från WC.
 Med nyanläggning avses exempelvis nybyggnation vid avstyckning av mark
@@ -1603,14 +1623,28 @@ tillståndsgiven och installerad vattentoalett för den aktuella fastigheten.
 Anläggningar som är tillståndsgivna enligt Miljöbalken (från 1999) omfattas
 av omprövningsreglerna i 24 kap Miljöbalken, och prövas utifrån dessa
 regler.
+
   Sluten tank avsedd för uppsamlandet av WC-avlopp från extremt
 snålspolande toalett (högst 0,6 l spolvolym per gång) och där tankens storlek
 är minst 3 kbm, accepteras. Annan sluten tank accepteras inte.
+
 Redogörelse för aktuellt ärende
 Fastigheten Kärra 1:3 har omfattats av vårens avloppsinventering i området. På
 fastigheten finns ett äldre fritidshus som är 150 år gammalt enligt uppgifter från
 fastighetsägaen. Det finns ett utedass samt en diskbänk med ej ansluten
 vattenledning. Sökande har 2016-03-21 kommit in med en ansökan om inrättande av
+
+Miljö & Hälsoskydd                                           Kungsbacka kommun
+Mohammed Issa                                                 434 81 Kungsbacka
+Direkt (e-post borttagen)
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 49 34
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2005-11-25
 
 <!-- sida 38 -->
 
@@ -1773,26 +1807,17 @@ ProSale Signing referensnummer: 299685
 
 YTTRANDE
 
-Miljö & Hälsoskydd                                           Kungsbacka kommun
-434 81 Kungsbacka
-Besöksadress
-Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 49 34
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 001BUK
-mroFinu
 1 (2)
 Nämnden för Miljö & Hälsoskydd                                     Datum
 2015-06-17
 Dnr
 1782/2015- 35-1
+
 Tidsbegränsning vid förbud av bristfälliga enskilda
 avloppsanläggningar
+
 Förslag till beslut
+
 Nämnden för Miljö & Hälsoskydd beslutar att ändra tidsperioden för åtgärd av
 bristfälliga enskilda avlopp från nio månader till ett år. Tiden gäller vid förbud av
 utsläpp av avloppsvatten från bristfälliga avloppsanläggningar från och med den dag
@@ -1802,19 +1827,34 @@ bristfälliga i samband med till exempel bygglov. För fastigheter där
 avloppsanläggningen är så bristfällig att avloppet orsakar en direkt olägenhet för
 människors hälsa eller miljön ska en kortare tidsperiod än ett år ges. Andra undantag
 ska prövas av nämnden fram tills att nämnden meddelar tydliga riktlinjer om
+
 undantag.
 Bakgrund
+
 Vid tillsyn av avlopp där avloppsanläggningen bedöms vara bristfällig meddelas ett
 beslut om förbud av utsläpp till den bristfälliga avloppsanläggningen. Nämnden för
 Miljö & Hälsoskydd fattade år 2012 beslut om att tidsperioden för åtgärd av
 bristfälliga avloppsanläggningar skulle vara nio månader.
+
 Lagstiftning
 Vid överprövning av liknande ärenden är det vanligt att tiden är minst ett år från
 beslut om förbud till att en ny avloppsanläggning ska vara färdigställd. Ärendena
 handlar dock oftast om huruvida anläggningen ska förbjudas eller ej. Tiden för åtgärd
 brukar sättas fram så att samma tid gäller från och med att överklagandet vunnit laga
+
 kraft, som annars skulle gälla om inte ärendet överklagats. Det finns således dåligt
 med rättspraxis med ställningstagande om enbart tidsperioden för åtgärdandet.
+
+Miljö & Hälsoskydd                                           Kungsbacka kommun
+434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 49 34
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2005-11-25
 
 <!-- sida 42 -->
 
@@ -2279,24 +2319,14 @@ hell |
 
 <!-- sida 52 -->
 
-Miljö & Hälsoskydd                                           Kungsbacka kommun
-Bodil Forsberg                                                434 81 Kungsbacka
-Direkt 0300-83 41 40                                             Besöksadress
-(e-post borttagen)                                Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 49 34
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 001BUK
-mroFinu
 Till Nämnden för Miljö& Hälsoskydd                                1 (5)
 Datum
 2007-05-07
 Dnr
 2134/2006-44-3
+
 Policy för prövning av hästärenden
+
 Vid Nämnden för Miljö & Hälsoskydds sammanträde den 20 april 2006 uppdrogs åt
 förvaltningen att upprätta en policy i fråga om närhet mellan människa och djur med
 utgångspunkt från inhämtande av kunskaper från andra kommuner och myndigheter,
@@ -2306,8 +2336,10 @@ tills en egen policy för Kungsbacka kommun är upprättad. Vid nämndsammanträ
 den 16 november 2006 återremitterades ärendet till förvaltningen med uppdrag att
 formulera policyn med tydligare koppling till översiktsplanen för Kungsbacka
 kommun.
+
 Bakgrund
 Antalet hästar ökar starkt i Sverige – inte minst i Kungsbacka. Från ca 70 000 hästar
+
 på 60-talet uppskattas antalet hästar idag vara ca 250 000-300 00 i landet. I
 Kungsbacka kommun finns uppskattningsvis 3000 hästar. Hästarna spelar en viktig
 roll i landsbygdsutvecklingen, som landskapsvårdare och som en trivselfaktor för
@@ -2315,12 +2347,26 @@ många människor. Samtidigt ökar antalet hästar nära bebyggelse och kan för
 sig oönskade olägenheter i form av lukt, flugor och allergiproblem.
 Frågan om skyddsavstånd mellan bostadsbebyggelse och hästhållning kan spåras
 knappt 30 år tillbaka i tiden till slutet av 1970-talet. Naturvårdsverket
+
 rekommenderade 1978 att skyddsavståndet till ridanläggningar skulle vara 200 m,
 vilket baserade sig på risken för olägenheter i form av flugor, lukt mm. 1982 kom
 Naturvårdsverkets Allmänna Råd om Miljöskydd vid djurhållning som
 rekommenderade 500 m vid större anläggningar med över 100 djurenheter. 1983
 kom Socialstyrelsens promemoria ”De allergiska barnen i samhället” som för första
 gången tog upp frågan om allergier och påpekade att ridning i tätorter kan bli ett
+
+Miljö & Hälsoskydd                                           Kungsbacka kommun
+Bodil Forsberg                                                434 81 Kungsbacka
+Direkt 0300-83 41 40
+Besöksadress
+(e-post borttagen)
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 49 34
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2005-11-25
 
 <!-- sida 53 -->
 
@@ -2528,13 +2574,11 @@ Miljö- och hälsoskyddsinspektör
 
 <!-- sida 57 -->
 
-KUNGSBACKA KOMMUN -
+KUNGSBACKA KOMMUN
+
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 9 (31)
-
 Sammanträdesdatum
-
 2007-05-24
-
 § 59 2134/06-44
 
 Policy för prövning av hästärenden
@@ -2593,11 +2637,11 @@ Förekomst/grad av näringsverksamhet
 
 Närboendens uppfattning/befintliga upplevelser av olägenhet
 
-v VvVvVvVv
-
 vv VvYVv
 
 Justerare Expedierat/bestyrkt
+
+v VvVvVvVv
 
 <!-- sida 58 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.77fd706f1a08662c7eab6a6c/1789388869
 sha256: 7747ef87e33809a3e0c6d8a446e1ff689cca145100ed24cf7f8ec4bd924f7274
 bytes: 32925373
 sidor: 782
-hamtad: 2026-11-06T21:20:08+00:00
-konverterad: 2026-11-06T21:25:46+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T20:16:29+00:00
+konverterad: 2026-11-08T20:22:38+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -13387,7 +13387,7 @@ inom BUP med diagnosen adhd, utifrån socioekonomiska områden
 2,0%
 
 1,0%
-0,0%
+0,0%  1     2     3     4     5
 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
 1\. Områden med mycket stora socioekonomiska utmaningar. 2. Områden med socioekonomiska
 utmaningar. 3. Socioekonomiskt blandade områden. 4. Områden med goda socioekonomiska
@@ -13409,8 +13409,8 @@ regional regi eller utföras av en privat vårdgivare på uppdrag av en
 24 Ibid.
 
 184
-lednA
-1     2     3     4     5
+
+Andel
 
 <!-- sida 299 -->
 
@@ -19380,6 +19380,10 @@ Via Region Sörmland 2025
 
 0
 
+Ålder (år)
+
+Kvinna  Man
+
 Källa: Region Sörmland.
 
 Vård- och omsorgsanalys visade också att digitala läkarbesök i viss
@@ -19393,11 +19397,50 @@ naden är tydligast under första månaden efter det inledande besöket.90
 kopplat till digitala vårdbesök, 2022.
 
 320
-köseb
-latnA
-0 5 01 51 02 52 03 53 04 54 05 55 06 56 07 57 08 58 09 59 001
-Ålder (år)
-Kvinna  Man
+
+Antal besök
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+95
+
+100
 
 <!-- sida 435 -->
 
@@ -31091,8 +31134,6 @@ Kungsbacka kommun Lokal- och avtalsöversikt 12 (12)
 
 <!-- sida 701 -->
 
-KUB6000, 2.0, 2012-05-23
-
 BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2028-2032
 
@@ -31205,6 +31246,8 @@ pr
 infoQMkungsbacka.se
 
 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 702 -->
 
@@ -31406,8 +31449,6 @@ fra
 
 <!-- sida 705 -->
 
-KUB6000, 2.0, 2012-05-23
-
 BEHOVSBESKRIVNING ESÄTTANDE VERKSAMHETSLOKAL
 ONSALA HEMTJÄNST
 För hantering av Lokalbehov inför Lokalplan 2028-2032
@@ -31474,6 +31515,8 @@ Besöksadress Telefon 2
 434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 infoQMkungsbacka.se ||
 Fax
 0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 706 -->
 
@@ -31774,32 +31817,52 @@ e Stärkt samverkan mellan hemtjänst, hemsjukvård och vård- och omsorgsboende
 
 <!-- sida 713 -->
 
-KUB6000, 2.0, 2012-05-23
-
 BEHOVSBESKRIVNING
+
 För hantering av Lokalbehov inför Lokalplan 2027-2031
 
 Kungsbacka
+
 Datum Namn på funktionsbehovet (Max 30 tecken)
+
 26-08-14 Samlokalisering Nattpatrull/jour Sjuksköterskor och Nattpatrull SOL kvarbo.
+
 Initiativtagare
-Namn och enhet E-postadress Arbetstelefon
-Joakim Swärd verksamhetschef söder | joakim.sward(ÅMkungsbacka.se 0300-833871
+
+Namn och enhet
+Joakim Swärd verksamhetschef söder
+
+E-postadress
+joakim .sward(akungsbacka.se
+
+Arbetstelefon
+
+0300-833871
 
 Förvaltningens lokalansvarig
-Namn och förvaltning E-postadress Arbetstelefon
 
-Anna-Karin Holmgren VO anna-karin.holmgren(Mkungsbacka.se 0300-83 83 82
+Namn och förvaltning
+
+Anna-Karin Holmgren VO
+
+E-postadress
+anna-karin.holmgren(Mkungsbacka.se
+
+Arbetstelefon
+
+0300-83 83 82
 
 VERKSAMHETSBESKRIVNING AV NULÄGET
 Sjuksköterskornas jourverksamhet/nattpatrull (HSL)
 
 Jourverksamheten för sjuksköterskor bedrivs idag i verksamhetslokaler på Smedjans korttidsboende.
+
 Verksamheten omfattar:
 
 » 20 medarbetare totalt inom jourenheten
 
 . 6-8 sjuksköterskor arbetar varje kvällspass.
+
 . 2 enhetschefer dagtid måndag-fredag.
 
 . 3 sjuksköterskor arbetar varje nattpass.
@@ -31808,19 +31871,23 @@ Verksamheten omfattar:
 vilket innebär arbete var femte helg samt vissa kvällar.
 
 . 8 parkeringsplatser med laddinfrastruktur krävs för jourverksamhet HSL uppdrag. (Finns
+
 idag på Smedjan)
 
 Nuvarande placeringen på Smedjan korttidsboende är en strategiskt bra placering och möjliggör
 snabba och effektiva insatser över hela kommunen.
 
 o Närhet till patienter på korttidsboendet.
+
 o Närhet till Apotek
 
 o Centralt läge i kommunen vilket underlättar insatser över hela området.
 
 Nattpatrullen (SoL)
 Nattpatrullen består av:
+
 . 60 medarbetare.
+
 o 2 enhetschef dagtid måndag-fredag.
 . 17 medarbetare arbetar varje nattpass (kl. 21.00—-07.00).
 
@@ -31830,10 +31897,14 @@ Kungsbacka kommun
 
 Ekonomi
 Besöksadress Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 infoMkungsbacka.se | dr
-Fax ”
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 infoQMkungsbacka.se
+Fax
 
 0300-83 47 04 www.kungsbacka.se
+
+Dr
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 714 -->
 
@@ -32079,25 +32150,25 @@ Nr
 
 <!-- sida 719 -->
 
-KUBB6000, 2.0, 2012-05-23
-
 BEHOVSBESKRIVNING
-
 För hantering av Lokalbehov inför Lokalplan 2028-2032, med utblicksår 2033-2037
 
 Kungsbacka
 
+Datum
+
 2026-08-15
 
-Datum Namn på funktionsbehovet (Max 30 tecken)
+Namn på funktionsbehovet (Max 30 tecken)
 Samlokalisering Dagomsorg, ökat behov av platser
 
 Initiativtagare
 
 Namn och enhet
-Dana Alamine, Isa Urun, Joakim
 
 Swärd
+
+Dana Alamine, Isa Urun, Joakim
 
 E-postadress
 dana.alamine(mkungsbacka.se
@@ -32140,45 +32211,52 @@ Nuläge: Totalt 40 platser för Dagomsorg i kommunen.
 
 I dagsläget är platser för dagomsorg integrerade på följande vård- och omsorgsboende:
 
-oe Åsa vård- och omsorgsboende
-
-\- Korallen
-
+oe Åsa vård- och omsorgsboende - Korallen
 .  Måhaga vård- och omsorgsboende i Fjärås — två separata lokaler — Källarbacken och Linden
-.  Sandlyckans vård- och omsorgsboende - Solliden
+. - Sandlyckans vård- och omsorgsboende - Solliden
 .  Signeshus vård- och omsorgsboende - Näckrosen
 
 VARFÖR BEHÖVER NÅGOT GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 
 Behovsbeskrivning - Bakgrund och behovsorsaker
 
-Kategori Orsak Konsekvens d
-påverkan
-Ny socialtjänstlag Ökade krav på
-tagkrav (2025:400) verksamheten
+Kategori
+
+Lagkrav
+
 Kungsbacka kommun
 Ekonomi
-Besöksadress Telefon
 
 434 81 Kungsbacka
 
-Vägmästaren, Syréngatan 1
+Orsak
 
-0300-83 40 00
-Fax
-0300-83 47 04
-
-infoQMkungsbacka.se
-
-www.kungsbacka.se
+Konsekvens /
+påverkan
 
 Kommentar / beskrivning
+
+Ny socialtjänstlag Ökade krav på
+(2025:400) verksamheten
+
+Telefon
+0300-83 40 00
+Fax
+
+0300-83 47 04
+
+Besöksadress
+Vägmästaren, Syréngatan 1
 
 Den nya lagstiftningen innebär ett
 skifte mot en mer förebyggande,
 tillgänglig och kunskapsbaserad
 
-VY
+infoMkungsbacka.se VY
+
+www.kungsbacka.se
+
+KUBB6000, 2.0, 2012-05-23
 
 <!-- sida 720 -->
 

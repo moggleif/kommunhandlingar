@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.c04ab511a1158f057731ac/179137291749
 sha256: 20bb4abfbf84c1f94fca250db5a1cfa38b443d4bd5a8de72d8438ce0308e0ae6
 bytes: 698301
 sidor: 5
-hamtad: 2026-11-06T21:43:04+00:00
-konverterad: 2026-11-06T21:43:10+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T20:41:34+00:00
+konverterad: 2026-11-08T20:41:42+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
@@ -54,9 +54,8 @@ Sekreterare Fanny Fuglås            Paragrafer § 26-27
 Underskrifter Ordförande Birgitta Litsegård
 
 Protokolljusterare Shada Renström
-Q8AYZ-0S824-2EUPV-8TUP6-1F3HN-SZ0HO
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: OH0ZS-NH3F1-6PUT8-VPUE2-428S0-ZYA8Q
 
 <!-- sida 2 -->
 
@@ -74,9 +73,8 @@ Kurser och konferenser samt beslut om arvode ...................................
 Revidering av revisionens reglemente .......................................................... 4
 
 Justerare                         Expedierat/bestyrkt
-Q8AYZ-0S824-2EUPV-8TUP6-1F3HN-SZ0HO
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: OH0ZS-NH3F1-6PUT8-VPUE2-428S0-ZYA8Q
 
 <!-- sida 3 -->
 
@@ -105,9 +103,8 @@ Sammanfattning
 Birgitta Litsegård föredrar ärendet.
 
 Justerare                         Expedierat/bestyrkt
-Q8AYZ-0S824-2EUPV-8TUP6-1F3HN-SZ0HO
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: OH0ZS-NH3F1-6PUT8-VPUE2-428S0-ZYA8Q
 
 <!-- sida 4 -->
 
@@ -129,9 +126,8 @@ Birgitta Litsegård föredrar ärendet. Kommunstyrelsens förvaltning har tagit 
 förslag till ändring av revisionens reglemente vilket revisionen godkänner.
 
 Justerare                         Expedierat/bestyrkt
-Q8AYZ-0S824-2EUPV-8TUP6-1F3HN-SZ0HO
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: OH0ZS-NH3F1-6PUT8-VPUE2-428S0-ZYA8Q
 
 <!-- sida 5 -->
 
@@ -145,12 +141,6 @@ Förtroendevald revisor                Förtroendevald revisor
 Serienummer: a3673656b4da772[…]4798fc5ed86332 Serienummer: e98bded6d36442d[…]46409dfdc74c0c
 IP: 81.237.xxx.xxx                    IP: 95.193.xxx.xxx
 2026-10-07 10:55:01 UTC               2026-10-07 11:06:52 UTC
-
-Q8AYZ-0S824-2EUPV-8TUP6-1F3HN-SZ0HO
-
-:lekcyntnemukod
-
-oenneP
 
 Detta dokument är undertecknat digitalt via Penneo.com. De signerade
 uppgifternas integritet är validerad med hjälp av ett beräknat hashvärde för
@@ -168,3 +158,5 @@ enskilda undertecknarnas digitala signaturer bifogas dokumentet.
 De kryptografiska bevisen kan kontrolleras med hjälp av Penneos
 validator, https://penneo.com/validator, eller andra validerings
 verktyg för digitala signaturer.
+
+Penneo dokumentnyckel: OH0ZS-NH3F1-6PUT8-VPUE2-428S0-ZYA8Q

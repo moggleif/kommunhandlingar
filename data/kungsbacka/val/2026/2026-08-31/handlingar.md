@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44cc0f291a01f48d79c72ae4/1787577773
 sha256: c78860563c921fc462edce69e08d6ed9df455d20dbb4f07222b26bab0f817a90
 bytes: 4447743
 sidor: 84
-hamtad: 2026-11-06T21:36:06+00:00
-konverterad: 2026-11-06T21:36:47+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T20:33:43+00:00
+konverterad: 2026-11-08T20:34:56+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -355,20 +355,18 @@ Telefon: 010-57 57 000 www.val.se
 
 <!-- sida 12 -->
 
-VAL V0180 01
-
 Personuppgiftsbiträdesavtal
 
 1\. Parter fylls i digitalt
 
 Personuppgiftsansvarig (Valnämnden i kommun)
+
 Kungsbacka kommun
 
 Adress Organisationsnummer
-
 Stadshuset, (adress borttagen), 434 81 Kungsbacka 212000-1256
-
 Personuppgiftsbiträde
+
 Valnämnden Kungsbacka kommun
 
 Underbiträde
@@ -382,15 +380,19 @@ valen 2026 skicka ut röstkort digitalt till de väljare som har digital brevlå
 väljer att ta emot brev digitalt från Valmyndigheten. Vidare planerar Valmyndigheten att
 införa ny teknik i samband med mottagande av förtidsröster, digitala väljarförteckningar
 och en ny nationell distribution av kommunexterna förtidsröster samt två olika metoder
-för distribution av kommuninterna förtidsröster.
+
+för distribution av kommuninterna förtidsröster. | .
+Valmyndigheten
 
 Valmyndigheten har fått i uppdrag av regeringen att analysera och redovisa
-förutsättningarna för att införa digitala röstlängder. I uppdraget ingår också att a
-Valmyndigheten får genomföra försök med digitala röstlängder i ett mindre antal Ink.
+förutsättningarna för att införa digitala röstlängder. I uppdraget ingår också att a AnnA -
+Valmyndigheten får genomföra försök med digitala röstlängder i ett mindre antal Ink. 2026 -03- 1 ju
 vallokaler vid de allmänna valen 2026. På sikt finns planer på att införa digitala
+
 röstlängder brett och även att införa Mina sidor, varigenom väljarinformation
 
 tillhandahålls efter inloggning. Valmyndigheten ansvarar för att ta fram sådana digitala
+
 väljarförteckningar och digitala röstlängder.
 
 Valmyndigheten tar fram ett valadministrativt IT-stöd som tillhandahåller ett system
@@ -428,13 +430,9 @@ röst som ska distribueras. I den nationella distributionen av kommunexterna
 förtidsröster är valnämnden personuppgiftsansvarig och Valmyndigheten agerar
 personuppgiftsbiträde åt valnämnden. Postnord agerar underbiträde.
 
-2026 -03- 18
-
-Valmyndigheten
+VAL V0180 01
 
 <!-- sida 13 -->
-
-VAL V0180 01
 
 Vad gäller hantering av kommuninterna röster erbjuds valnämnden möjlighet att ingå
 avtal med Postnord om distribution, varigenom valnämnden ger Valmyndigheten i
@@ -505,9 +503,9 @@ personuppgiftsbiträdet att se till att den som arbetar under personuppgiftsbitr
 ledning informeras om detta. Personuppgiftsbiträdet ska begränsa åtkomsten till de
 uppgifter som personuppgiftsbiträdet behandlar för den personuppgiftsansvariges
 
-<!-- sida 14 -->
-
 VAL V0180 01
+
+<!-- sida 14 -->
 
 räkning till de personer som behöver ha åtkomst till uppgifterna för att utföra uppdraget
 enligt arrangemanget mellan den personuppgiftsansvarige och personuppgiftsbiträdet.
@@ -574,9 +572,9 @@ personuppgiftsbiträdet har låtit utveckla och fortsatt administrerar. Valnämn
 personuppgiftsansvarig för den behandling av personuppgifter som utförs av
 röstmottagare i samband med röstmottagningen. Valmyndigheten är personuppgifts-
 
-<!-- sida 15 -->
-
 VAL V0180 01
+
+<!-- sida 15 -->
 
 biträde då myndigheten tillhandahåller ett system för ändamålet och därmed även
 behandlar personuppgifter för valnämndens räkning.
@@ -642,9 +640,9 @@ röstlängder ska Valmyndigheten radera kopior av de uppgifter som valnämnden
 behandlar i samband med att valnämnden omhändertar dessa för arkivering eller
 gallring enligt gällande föreskrifter.
 
-<!-- sida 16 -->
-
 VAL V0180 01
+
+<!-- sida 16 -->
 
 9\. Granskning av behandling hos personuppgiftsbiträdet
 Personuppgiftsbiträdet ska ge den personuppgiftsansvarige tillgång till sådan
@@ -710,9 +708,9 @@ i samband med uppdragets utförande.
 Tystnadsplikten gäller såväl under avtalets giltighetstid som sedan avtalsförhållandet
 har upphört.
 
-<!-- sida 17 -->
-
 VAL V0180 01
+
+<!-- sida 17 -->
 
 Det ankommer på personuppgiftsbiträdet att i förhållande till den som arbetar under
 personuppgiftsbiträdets ledning informera om och i avtal reglera den tystnadsplikt som
@@ -777,9 +775,9 @@ egen hand distribution av kommuninterna röster.
 [] Valnämnden ombesörjer helt på egen hand distribution av kommuninterna
 förtidsröster.
 
-<!-- sida 18 -->
-
 VAL V0180 01
+
+<!-- sida 18 -->
 
 18\. Rapportering av förtidsröster till berörda valnämnder
 
@@ -839,6 +837,8 @@ Namnförtydligande |
 
 (TONA /) IG Z AA |
 JA
+
+VAL V0180 01
 
 <!-- sida 19 -->
 

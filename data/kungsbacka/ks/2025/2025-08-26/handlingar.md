@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3ed5df63198cae4d8001ca6/17557561150
 sha256: 571b817d95c973cbdfb60c52fca76352fbca9c17f0b1c2a7f897122f1513845d
 bytes: 276797708
 sidor: 387
-hamtad: 2026-11-06T23:43:56+00:00
-konverterad: 2026-11-06T23:53:16+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T22:57:06+00:00
+konverterad: 2026-11-08T23:07:56+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -504,22 +504,28 @@ I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns m
 nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-8
-tehkilonnaS
 4       8       12      16
+
 4
+
 3       6       9       12
 2
 3
+
 2       4       6       8
 1 4     3
 2
+
 1       2       3        4
+
 1
+
 1       2       3       4
+
 Konsekvens
+
 1 Hög 3 Medel Totalt: 4
+
 Kritisk             Sannolikhet           Konsekvens
 Hög
 4    Mycket vanligt - exempelvis 1 Allvarlig/stor inverkan (så stor att
@@ -534,6 +540,9 @@ kommunen)
 1    Osannolik (risken är praktiskt Försumbar (obetydlig för berörda
 taget obefintlig) - exempelvis 1 intressenter och kommunen)
 gång per 10 år
+8
+
+Sannolikhet
 
 <!-- sida 18 -->
 
@@ -2452,8 +2461,6 @@ Lgh, bostadsrätt N
 Område B
 ; I= Söder
 
-NJOVINTVINO
-
 Figur 1. Översikt över Kolla Parkstad
 
 Område A i de östra delarna av Kolla Parkstad innehåller en blandning av hyresrätter, bostadsrätter samt
@@ -2466,12 +2473,14 @@ område C finns även Coop Kolla Parkstad.
 alikarin gamberg norconsult com/documents/desktop/kolla 2024-11-11 |
 ngsutredning kolla parkstad docx
 
+my.sharepoint.com/persc
+24 mobilitets- och park
+
 htips //norconsu
 
 parkstad p-utred
 
-my.sharepoint.com/persc
-24 mobilitets- och park
+NJOVINTVINO
 
 <!-- sida 68 -->
 
