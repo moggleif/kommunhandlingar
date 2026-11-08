@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5f97773918fa403c6cd16717/1717425329
 sha256: 87af454bce6d5241287f6db041f81b5ed423c012d85aec28589bb175810f9509
 bytes: 8011604
 sidor: 312
-hamtad: 2026-11-06T08:09:54+00:00
-konverterad: 2026-11-06T08:10:49+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T07:39:49+00:00
+konverterad: 2026-11-08T07:40:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -2370,62 +2370,50 @@ omland med Förlanda, Idala, Gällinge.
 Britta-Lenas, Björkris, Voxlöv, Hålabäck, Hammerö, Tingberget. Åk8 Gy2
 Resultat från LUPP 2023, Kungsbacka kommun
 
-Elevinflytande                    Vad jag får lära mig    67 22
-Arbetsformer\*          77 –vad eleverna villoch upplever att de får 30
+Elevinflytande                    Vad jag får lära mig 22 67        Vill
+
+–vad eleverna villoch upplever att de får Arbetsformer\* 30  77      Får
 Läxorna           70
 vara med och bestämma om i skolan                17
 Proven             72
 18
-Schemat             75
+ÅK8    Schemat             75
 15
 Maten             74
 12
 Skolans ”regler”   54
 20
+Enkätfrågor: Hur mycket eller lite villdu som elev
 Skolmiljön ute\*\*  40
-19
-Skolmiljön inne\*\*\*   52
+vara med och bestämma om följande? respektive    19
+Hur mycket eller lite upplever du att du som elev får Skolmiljön inne\*\*\* 52
 20
+vara med och bestämma när det gäller följande?
 Vad jag får lära mig    66
 23
-Arbetsformer\*          81
-40
-Läxorna             78
-24
-Proven              78
-32 Schemat 80
-13
-Maten              80
-9
-Skolans ”regler”  49 18
-Skolmiljön ute\*\* 37
-10
-Skolmiljön inne\*\*\*     60
-19
-0  20  40  60 80  100
-Resultat från LUPP 2023, Kungsbacka kommun
-8KÅ
-2YG
-Vill
-Får
-ÅK8
-Enkätfrågor: Hur mycket eller lite villdu som elev
-vara med och bestämma om följande? respektive
-Hur mycket eller lite upplever du att du som elev får
-vara med och bestämma när det gäller följande?
 Samma svarsalternativ för båda frågor:
-Väldigt lite/ingenting; Ganska lite; Ganska mycket;
-Väldigt mycket.
-\* Enkätens formulering: Hur vi ska arbeta,
-till exempel grupparbete/projektarbete. GY2
-\*\* I enkäten: (exempelvis skolgården)
-\*\*\* I enkäten: (exempelvis klassrum och korridor)
-Resultaten visar andelen som svarat ganska eller
-väldigt mycket på respektive fråga, baserat på
-minst 956 svar i åk8 och 656 svar i gy2.
-Åk8-resultaten avser skolelever i kommunen;
-gy2-resultaten avser ungdomar som bor i kommunen. Procent
+Arbetsformer\*          81
+Väldigt lite/ingenting; Ganska lite; Ganska mycket;  40
+Väldigt mycket.                         Läxorna             78
+24
+\* Enkätens formulering: Hur vi ska arbeta, Proven           78
+till exempel grupparbete/projektarbete.            32
+GY2    Schemat              80
+\*\* I enkäten: (exempelvis skolgården)           13
+Maten              80
+\*\*\* I enkäten: (exempelvis klassrum och korridor) 9
+Resultaten visar andelen som svarat ganska eller Skolans ”regler” 18 49
+väldigt mycket på respektive fråga, baserat på Skolmiljön ute\*\* 37
+minst 956 svar i åk8 och 656 svar i gy2.       10
+Skolmiljön inne\*\*\*     60
+Åk8-resultaten avser skolelever i kommunen;      19
+gy2-resultaten avser ungdomar som bor i kommunen. Procent 0 20 40 60 80 100
+Resultat från LUPP 2023, Kungsbacka kommun
 44
+
+GY2
+
+ÅK8
 
 <!-- sida 45 -->
 

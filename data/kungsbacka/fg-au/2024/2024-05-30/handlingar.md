@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1d6726/17167867644
 sha256: 41a2a7a5780ec0e1ce944391295f5d9c973aae02b136a0ca7a4937ca72bfbc82
 bytes: 2580651
 sidor: 156
-hamtad: 2026-11-06T09:22:26+00:00
-konverterad: 2026-11-06T09:22:43+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T08:58:38+00:00
+konverterad: 2026-11-08T08:58:56+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -1512,38 +1512,36 @@ Prioriteringsmatris       - förklaring
 
 BEVARA                           VÅRDA
 Genom att mäta sambandet mellan olika frågor i undersökningen
+100
 och den generella nöjdheten skapas en bild av vad som har
 störst effekt på elevernas generella uppfattning och nöjdheten
 med skolan och vad som därför är viktigast att prioritera i ett
+90
 förändringsarbete.
 Matrisen är indelad i fyra olika fält. Bevarainnebär frågor med
-hög nöjdhet men låg påverkan på den generella nöjdheten.
+80                                             hög nöjdhet men låg påverkan på den generella nöjdheten.
 Dessa bör man sträva efter att bevara på en god nivå men de är
 inte högst prioriterade. Bevakainrymmer de frågor som har låg
-nöjdhet men liten påverkan på den generella nöjdheten. Dessa
+70                                             nöjdhet men liten påverkan på den generella nöjdheten. Dessa
 bör man sträva efter att förbättra men de är inte högst
 prioriterade.
+60
 Vårdabestår av värden med hög nöjdhet och hög påverkan på
 den generella nöjdheten. Dessa värden bör man prioritera att
 bevara på en god nivå alternativt utveckla för att höja nöjdheten
+50
 ytterligare. Prioriterainrymmer frågor med låg nöjdhet och stor
 påverkan på den generella nöjdheten. Det är dessa som bör ges
 högst prioritet i kommande förändringsarbete.
+40
 Priorteringsmatriser visas enbart för de rapporter där antal
 svarande är 30 elever eller fler.
-BEVAKA                       PRIORITERA
-edrävegårF
-100
-90
-80
-70
-60
-50
-40
 30
 -0,300 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 0,500
-Samband
+BEVAKA         Samband       PRIORITERA
 Kungsbacka | Svarsfrekvens 76%
+
+Frågevärde
 
 <!-- sida 45 -->
 
@@ -1969,9 +1967,6 @@ Kungsbacka | Svarsfrekvens 76%
 Prioriteringsmatris
 
 BEVARA                           VÅRDA
-
-BEVAKA                       PRIORITERA
-edrävegårF
 100
 ((AA)) FFöörrkkllaarraarr lläärraarrnnaa ssåå aatttt dduu fföörrssttåårr??
 ((BB)) BBeerräättttaarr lläärraarreenn hhuurr ddeett ggåårr fföörr ddiigg ii sskkoollaarrbbeetteett??
@@ -1999,8 +1994,10 @@ N              ((MM)) HHjjäällppeerr ddee vvuuxxnnaa ttiillll oomm eenn eellee
 ((QQ)) LLäärr dduu ddiigg ssaakkeerr ppåå ffrriittiiddss??
 30
 -0,400 -0,300 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 ((RR)) GGiillllaarr dduu aatttt vvaarraa ppåå ffrriittiiddss??
-Samband
+BEVAKA         Samband       PRIORITERA
 Kungsbacka | Svarsfrekvens 76%
+
+Frågevärde
 
 <!-- sida 66 -->
 
@@ -2421,38 +2418,36 @@ Prioriteringsmatris       - förklaring
 
 BEVARA                           VÅRDA
 Genom att mäta sambandet mellan olika frågor i undersökningen
+100
 och den generella nöjdheten skapas en bild av vad som har
 störst effekt på elevernas generella uppfattning och nöjdheten
 med skolan och vad som därför är viktigast att prioritera i ett
+90
 förändringsarbete.
 Matrisen är indelad i fyra olika fält. Bevarainnebär frågor med
-hög nöjdhet men låg påverkan på den generella nöjdheten.
+80                                             hög nöjdhet men låg påverkan på den generella nöjdheten.
 Dessa bör man sträva efter att bevara på en god nivå men de är
 inte högst prioriterade. Bevakainrymmer de frågor som har låg
-nöjdhet men liten påverkan på den generella nöjdheten. Dessa
+70                                             nöjdhet men liten påverkan på den generella nöjdheten. Dessa
 bör man sträva efter att förbättra men de är inte högst
 prioriterade.
+60
 Vårdabestår av värden med hög nöjdhet och hög påverkan på
 den generella nöjdheten. Dessa värden bör man prioritera att
 bevara på en god nivå alternativt utveckla för att höja nöjdheten
+50
 ytterligare. Prioriterainrymmer frågor med låg nöjdhet och stor
 påverkan på den generella nöjdheten. Det är dessa som bör ges
 högst prioritet i kommande förändringsarbete.
+40
 Priorteringsmatriser visas enbart för de rapporter där antal
 svarande är 30 elever eller fler.
-BEVAKA                       PRIORITERA
-edrävegårF
-100
-90
-80
-70
-60
-50
-40
 30
 -0,300 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 0,500
-Samband
+BEVAKA         Samband       PRIORITERA
 Kungsbacka | Svarsfrekvens 76%
+
+Frågevärde
 
 <!-- sida 79 -->
 
@@ -2984,9 +2979,6 @@ Kungsbacka | Svarsfrekvens 76%
 Prioriteringsmatris
 
 BEVARA                           VÅRDA
-
-BEVAKA                       PRIORITERA
-edrävegårF
 100                                       ((AA)) HHuurr ooffttaa fföörrkkllaarraarr lläärraarrnnaa vvaadd dduu sskkaa ggöörraa ppåå lleekkttiioonneerrnnaa ssåå aatttt dduu fföörrssttåårr??
 ((BB)) HHuurr ooffttaa ffåårr dduu ddeenn hhjjäällpp dduu bbeehhöövveerr uunnddeerr lleekkttiioonneerrnnaa??
 ((CC)) HHuurr ooffttaa ffåårr lläärraarrnnaa ddiigg aatttt bbllii iinnttrreesssseerraadd aavv sskkoollaarrbbeetteett??
@@ -3024,8 +3016,10 @@ U           D                ((SS)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt
 ((AAAA)) HHuurr mmyycckkeett pprraattaarr lläärraarrnnaa oomm aatttt aalllltt mmaann hhöörr oocchh lläässeerr,, ttiillll eexxeemmppeell ppåå iinntteerrnneett,, iinnttee
 30                                        ((AABB)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt nnii eelleevveerr ffåårr öövvaa ppåå aatttt ddiisskkuutteerraa ffrrååggoorr ddäärr mmaann kkaann ttyycckkaa oolliikkaa??
 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 0,500 ((AACC)) TTyycckkeerr dduu aatttt lläärraarrnnaa bbeehhaannddllaarr aallllaa eelleevveerr lliikkaa ooaavvsseetttt oomm ddee äärr fflliicckkoorr,, ppoojjkkaarr eelllleerr hhaarr
-AD           Samband                  ((AADD)) HHuurr mmyycckkeett pprraattaarr nnii ii sskkoollaann oomm oolliikkaa yyrrkkeenn dduu kkaann jjoobbbbaa mmeedd nnäärr dduu bblliirr vvuuxxeenn??
+BEVAADKA       Samband       PRIORITERA ((AADD)) HHuurr mmyycckkeett pprraattaarr nnii ii sskkoollaann oomm oolliikkaa yyrrkkeenn dduu kkaann jjoobbbbaa mmeedd nnäärr dduu bblliirr vvuuxxeenn??
 Kungsbacka | Svarsfrekvens 76%
+
+Frågevärde
 
 <!-- sida 103 -->
 
@@ -3616,38 +3610,36 @@ Prioriteringsmatris       - förklaring
 
 BEVARA                           VÅRDA
 Genom att mäta sambandet mellan olika frågor i undersökningen
+100
 och den generella nöjdheten skapas en bild av vad som har
 störst effekt på elevernas generella uppfattning och nöjdheten
 med skolan och vad som därför är viktigast att prioritera i ett
+90
 förändringsarbete.
 Matrisen är indelad i fyra olika fält. Bevarainnebär frågor med
-hög nöjdhet men låg påverkan på den generella nöjdheten.
+80                                             hög nöjdhet men låg påverkan på den generella nöjdheten.
 Dessa bör man sträva efter att bevara på en god nivå men de är
 inte högst prioriterade. Bevakainrymmer de frågor som har låg
-nöjdhet men liten påverkan på den generella nöjdheten. Dessa
+70                                             nöjdhet men liten påverkan på den generella nöjdheten. Dessa
 bör man sträva efter att förbättra men de är inte högst
 prioriterade.
+60
 Vårdabestår av värden med hög nöjdhet och hög påverkan på
 den generella nöjdheten. Dessa värden bör man prioritera att
 bevara på en god nivå alternativt utveckla för att höja nöjdheten
+50
 ytterligare. Prioriterainrymmer frågor med låg nöjdhet och stor
 påverkan på den generella nöjdheten. Det är dessa som bör ges
 högst prioritet i kommande förändringsarbete.
+40
 Priorteringsmatriser visas enbart för de rapporter där antal
 svarande är 30 elever eller fler.
-BEVAKA                       PRIORITERA
-edrävegårF
-100
-90
-80
-70
-60
-50
-40
 30
 -0,300 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 0,500
-Samband
+BEVAKA         Samband       PRIORITERA
 Kungsbacka | Svarsfrekvens 71%
+
+Frågevärde
 
 <!-- sida 120 -->
 
@@ -4183,9 +4175,6 @@ Kungsbacka | Svarsfrekvens 71%
 Prioriteringsmatris
 
 BEVARA                           VÅRDA
-
-BEVAKA                       PRIORITERA
-edrävegårF
 100                                       ((AA)) HHuurr ooffttaa fföörrkkllaarraarr lläärraarrnnaa vvaadd dduu sskkaa ggöörraa ppåå lleekkttiioonneerrnnaa ssåå aatttt dduu fföörrssttåårr??
 ((BB)) HHuurr ooffttaa ffåårr dduu ddeenn hhjjäällpp dduu bbeehhöövveerr uunnddeerr lleekkttiioonneerrnnaa??
 ((CC)) HHuurr ooffttaa ffåårr lläärraarrnnaa ddiigg aatttt bbllii iinnttrreesssseerraadd aavv sskkoollaarrbbeetteett??
@@ -4270,8 +4259,10 @@ Z           ((ZZ)) TTyycckkeerr dduu aatttt uuttvveecckklliinnggssssaammttaallee
 ((AABB)) HHuurr mmyycckkeett ttyycckkeerr dduu aatttt nnii eelleevveerr ffåårr öövvaa ppåå aatttt ddiisskkuutteerraa ffrrååggoorr ddäärr mmaann kkaann ttyycckkaa oolliikkaa??
 30                                        ((AACC)) TTyycckkeerr dduu aatttt lläärraarrnnaa bbeehhaannddllaarr aallllaa eelleevveerr lliikkaa ooaavvsseetttt oomm ddee äärr fflliicckkoorr,, ppoojjkkaarr eelllleerr hhaarr
 -0,300 -0,200 -0,100 0,000 0,100 0,200 0,300 0,400 0,500 ((AADD)) TTyycckkeerr dduu aatttt dduu ffåårr ddeenn hhjjäällpp dduu bbeehhöövveerr ffrråånn sskkoollaann fföörr aatttt kkuunnnnaa vväälljjaa ffrraammttiiddaa
-Samband                  ((AAEE)) KKäännnneerr dduu ddiigg fföörrbbeerreedddd iinnfföörr ffrraammttiiddaa uuttbbiillddnniinnggss--oocchh yyrrkkeessvvaall??
+BEVAKA         Samband       PRIORITERA ((AAEE)) KKäännnneerr dduu ddiigg fföörrbbeerreedddd iinnfföörr ffrraammttiiddaa uuttbbiillddnniinnggss--oocchh yyrrkkeessvvaall??
 Kungsbacka | Svarsfrekvens 71%
+
+Frågevärde
 
 <!-- sida 144 -->
 

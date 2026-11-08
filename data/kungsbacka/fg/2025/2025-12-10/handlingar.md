@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c172736/17652048268
 sha256: e1315e47dd56cc68dbbcb2dac4b8e1b3f2e50909dd51d717d8a3294cd86a278f
 bytes: 15118802
 sidor: 197
-hamtad: 2026-11-06T08:55:51+00:00
-konverterad: 2026-11-06T08:56:42+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T08:30:32+00:00
+konverterad: 2026-11-08T08:31:33+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6731,32 +6731,28 @@ KUNGSBACKA KOMMUN
 4 (4)
 
 2\. Ekolek i samråd med vårdnadshavaren ser över hos vem det är mest lämpligt,
+
 exempelvis i närområdet men lika gärna i en grannkommun där vårdnadshavaren arbetar
 osv.
 
 3\. Ändrade behov meddelas Ekolek omgående
 4\. Ekolek kartlägger ändrade behov regelbundet
 
-an
+5\. Vikarie erbjuds vårdnadshavare som behöver i första hand med:
 
-. Vikarie erbjuds vårdnadshavare som behöver i första hand med:
-
-. Fast vikariekollega, känd för barnet och vårdnadshavarna
-
+Fast vikariekollega, känd för barnet och vårdnadshavarna
 . Tillfällig vikariekollega
-
 . I de fall lokal finns erbjuds vikarieplacering hos vikariekollegor där
 . Fast extern vikarie, känd för barnet och vårdnadshavaren
-
 . Tillfällig extern vikarie
-
-OUBON AA
 
 Uppgifter är inlämnande av behörig företrädare för huvudmannen
 
 Namn
 
 Cecilia Buhré
+
+OUBON AA
 
 <!-- sida 171 -->
 

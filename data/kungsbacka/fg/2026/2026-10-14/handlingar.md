@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acff65236/1792139376
 sha256: 0da9d213091a6764da27a70a81beb9c36248733683a5aadaad4cca7c0408b2da
 bytes: 5390863
 sidor: 133
-hamtad: 2026-11-06T09:11:20+00:00
-konverterad: 2026-11-06T09:12:14+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T08:46:53+00:00
+konverterad: 2026-11-08T08:47:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3672,55 +3672,64 @@ Lokalbehov 2028-2032 9
 
 <!-- sida 101 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering avLokalbehov inför Lokalplan2028-2032
+
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-11       Onsala förskolor
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
+
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 I Onsalaområdet finns idag åtta kommunala förskolor, varav tre i Presseområdet, två i Iseråsområdet och
 tre i Fjordområdet. Den samlade kapaciteten överstiger det prognostiserade behovet av kommunala
 förskoleplatser. Samtidigt har flera av förskolebyggnaderna behov av upprustning och modernisering för
 att långsiktigt kunna erbjuda ändamålsenliga utbildningsmiljöer.
+
 De befintliga förskolorna har olika förutsättningar vad gäller storlek, lokalernas ändamålsenlighet,
 byggnadernas tekniska status, utemiljö och möjlighet till framtida utveckling. Två verksamheter bedrivs
 i inhyrda lokaler.
 Förvaltningen för Förskola & Grundskola utreder därför den långsiktiga förskoleorganisationen i Onsala.
 Inriktningen är att anpassa den samlade kapaciteten till det långsiktiga behovet och skapa en långsiktigt
 hållbar förskolestruktur. Beroende på utredningens resultat kan befintliga förskolor behöva byggas om
+
 eller byggas till samtidigt som kapacitet vid andra enheter förändras.
 Planeringen behöver även beakta den pågående utredningen av skolorganisationen i Onsala. En
 förändrad skolorganisation kan frigöra kommunala lokaler eller innebära att lokaler får en förändrad
 användning, vilket kan påverka förutsättningarna för den framtida förskoleorganisationen.
+
 Den fortsatta planeringen genomförs i samarbete med Förvaltningen för Service. Resultatet av
 utredningen och efterföljande beslut om framtida förskoleorganisation utgör en förutsättning för den
 fortsatta planeringen inom detta behov.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 Den samlade kapaciteten i Onsalaområdets kommunala förskolor överstiger det långsiktiga behovet.
 Samtidigt har flera av de befintliga förskolebyggnaderna behov av upprustning och modernisering. Det
 finns därför behov av att anpassa förskoleorganisationen och den totala lokalkapaciteten till det framtida
 behovet innan större investeringar genomförs i befintliga förskolor.
+
 En förändrad struktur kan innebära att kapacitet successivt förändras vid vissa enheter samtidigt som
 andra befintliga förskolor utvecklas genom om-eller tillbyggnad. Förskoleplatser kan därmed över tid
 omfördelas mellan enheter utifrån det långsiktiga behovet och respektive förskolas förutsättningar.
 När beslut om framtida förskoleorganisation har fattats behöver kvarvarande förskolors lokaler och
+
 utemiljöer utvecklas utifrån respektive byggnads förutsättningar. Åtgärderna behöver säkerställa
 ändamålsenliga utbildningsmiljöer och en långsiktigt hållbar användning av kommunens
 förskolelokaler.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 102 -->
 
@@ -3838,19 +3847,12 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 105 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering avLokalbehov inför Lokalplan2028-2032
+
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-11       Onsala skolor
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
@@ -3858,6 +3860,7 @@ Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
 VERKSAMHETSBESKRIVNING   AV NULÄGET
+
 I Onsalaområdet finns idag fyra kommunala grundskolor: tre skolor för årskurs F-6 och en skola för årskurs 7-9.
 Den samlade kapaciteten överstiger det prognostiserade behovet av kommunala grundskoleplatser samtidigt som
 flera av skolbyggnaderna har behov av upprustning och modernisering för att långsiktigt kunna erbjuda
@@ -3869,7 +3872,9 @@ Utredningen har genomförts i samarbete med Förvaltningen för Service och omfa
 kapacitet som befintliga byggnaders förutsättningar och framtida utvecklingsbehov. Resultatet av utredningen och
 efterföljande beslut om framtida skolorganisation utgör en förutsättning för den fortsatta planeringen inom detta
 behov.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
+
 Den samlade kapaciteten i Onsalaområdets kommunala grundskolor överstiger det långsiktiga behovet. Samtidigt
 har flera av de befintliga skolbyggnaderna behov av upprustning och modernisering. Det finns därför behov av att
 anpassa skolorganisationen och den totala lokalkapaciteten till det framtida elevunderlaget innan större
@@ -3881,6 +3886,15 @@ dimensionera lokalerna utifrån det långsiktiga behovet.
 När beslut om framtida skolorganisation har fattats behöver kvarvarande skolors lokaler och utemiljöer utvecklas
 utifrån respektive byggnads förutsättningar. Åtgärderna behöver säkerställa ändamålsenliga lärmiljöer och en
 långsiktigt hållbar användning av kommunens skollokaler.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 106 -->
 
@@ -3979,29 +3993,24 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 109 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering avLokalbehov inför Lokalplan2028-2032
+
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-11       Strukturomvandling Fjärås Gällinge skolor
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
+
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Skolorganisationen i Fjärås-och Gällingeområdet består idag av Gällingeskolan och Fjärås
 Bräckaskolan, som är organiserade som F-5 skolor, samt Smedingeskolan, som är organiserad som en 6-
 9 skola. Eleverna byter därmed till Smedingeskolan inför årskurs 6.
+
 En utredning har genomförts av förutsättningarna för en förändrad skolorganisation där Gällingeskolan
 och Fjärås Bräckaskolan organiseras som F-6 skolor och Smedingeskolan som en 7-9 skola. I en sådan
 organisation skulle eleverna få sin huvudsakliga undervisning på respektive F-6 skola till och med
@@ -4009,24 +4018,38 @@ organisation skulle eleverna få sin huvudsakliga undervisning på respektive F-
 För att möjliggöra en F-6 organisation på Gällingeskolan behöver nuvarande slöjdsal ställas om till ett
 hemklassrum med tillhörande grupprum och funktioner för bildundervisning. Slöjdundervisningen från
 årskurs 3 behöver då genomföras vid annan skola och för årskurs 6 behöver även delar av
+
 undervisningen i andra ämnen samordnas mellan skolorna.
 På Fjärås Bräckaskolan bedöms årskurs 6, utifrån nuvarande elevprognos, kunna inrymmas inom
 befintliga lokaler. Vid en förändrad organisation skulle Smedingeskolans lokaler fortsatt användas för
 delar av undervisningen i årskurs 6.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 En förändrad skolorganisation med två F-6 skolor och en 7-9 skola har utretts. En sådan förändring
+
 innebär att Gällingeskolan behöver kunna inrymma ytterligare en årskurs. Skolan har begränsade
 möjligheter till fysisk utbyggnad och behovet behöver därför lösas genom en förändrad användning av
 befintliga lokaler.
 Nuvarande slöjdsal föreslås byggas om till ett hemklassrum med tillhörande grupprum och funktioner
 för bildundervisning. Åtgärden skulle skapa de lokalmässiga förutsättningarna för att bedriva en F-6
 organisation på Gällingeskolan.
+
 Behovet innebär inte en ökning av det samlade antalet utbildningsplatser i Fjärås-och Gällingeområdet,
 utan en förändrad fördelning av elever och undervisningsfunktioner mellan skolorna.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Den förväntade nyttan är att möjliggöra en förändrad skolorganisation där eleverna går kvar på
 Gällingeskolan respektive Fjärås Bräckaskolan till och med årskurs 6 och byter till Smedingeskolan
 inför årskurs 7.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 110 -->
 

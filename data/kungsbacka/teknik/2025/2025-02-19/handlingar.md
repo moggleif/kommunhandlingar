@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3a9ed51194d84d9470edeb6/17395228113
 sha256: 23f9e4cf61ec36d8ececb1db03e069d9e167d43a67a393e534e253089b356d13
 bytes: 37192344
 sidor: 480
-hamtad: 2026-11-06T11:14:28+00:00
-konverterad: 2026-11-06T11:16:21+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T10:59:41+00:00
+konverterad: 2026-11-08T11:01:51+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok]
@@ -13463,6 +13463,8 @@ Inom Kolla parkstad och Västra respektive Östra Villastaden finns det allmän
 parkering för boende och besökare till boende. De flesta av dessa platser bedöms
 vara upptagna de tider i veckan evenemang pågår och har således inte räknats med.
 
+Känslighetsanalys vid evenemang på helgen
+
 90%
 80%
 
@@ -13477,17 +13479,15 @@ vara upptagna de tider i veckan evenemang pågår och har således inte räknats
 
 0%
 2 000  3 000  4 000 5 000  6 000 7 000  8 000
-
+Antal evenemangsbesökare till hela Kungsbacka sportcenter
+Gång, cykel, kollektivtrafik, taxi, annan skjuts Bilparkerande inkl. passagerare
+Gång, cykel, kollektivtrafik, taxi, annan skjuts med annex Bilparkerande inkl. passagerare med annex
 Figur 18 Diagram över färdmedelsfördelning för evenemangsbesökare vid olika antal besökare totalt till
 Kungsbacka sportcenter.
 
 Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 30 (50)
-erakösebsgnamneve
-lednA
-Känslighetsanalys vid evenemang på helgen
-Antal evenemangsbesökare till hela Kungsbacka sportcenter
-Gång, cykel, kollektivtrafik, taxi, annan skjuts Bilparkerande inkl. passagerare
-Gång, cykel, kollektivtrafik, taxi, annan skjuts med annex Bilparkerande inkl. passagerare med annex
+
+Andel evenmangsbesökare
 
 <!-- sida 331 -->
 

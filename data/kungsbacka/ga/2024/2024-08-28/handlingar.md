@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.50ef5810191784a92d93d4/172432691678
 sha256: d4967bbd82dce0566fb28edfccd94120df374f2b5c99c00cd733c63456521f4e
 bytes: 9711133
 sidor: 259
-hamtad: 2026-11-06T08:10:49+00:00
-konverterad: 2026-11-06T08:11:50+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T07:40:48+00:00
+konverterad: 2026-11-08T07:41:50+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -9587,6 +9587,8 @@ Kommunbudget 2025 och plan 2026–2027 35
 
 <!-- sida 215 -->
 
+KUNGSBACKAS FÖRUTSÄTTNINGAR
+
 statistiken samlas i en kommungemensam databas, Kolada. Följande tabell visar att vi sammantaget har ett något lägre
 Volymberäkningarna utgår från befolkningsförändring kostnadsläge inom Förskola & Grundskolas verksamheter
 av antal invånare inom olika målgrupper. Befolknings- med 17 miljoner kronor. Även gymnasieskolan har lägre
@@ -9652,9 +9654,9 @@ Förskola inkl. öppen Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ &
 förskola öppen             Familjeomsorg
 fritidsverksamhet
 2021 2022 2023
-tnecorp
-KUNGSBACKAS FÖRUTSÄTTNINGAR
 36 Kommunbudget 2025 och plan 2026–2027
+
+procent
 
 <!-- sida 216 -->
 

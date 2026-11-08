@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.12f25b4719ea79749e1407c/17809985988
 sha256: 5fa1143fe5518c8e03f41ec3e7476aa41d6ed14f56dea41fc4769a2e10dc59ae
 bytes: 3292354
 sidor: 76
-hamtad: 2026-11-06T09:04:52+00:00
-konverterad: 2026-11-06T09:05:05+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T08:40:10+00:00
+konverterad: 2026-11-08T08:40:24+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -452,138 +452,3045 @@ Kungsbacka kommun          Statsbidrag 2026                     7
 Grundskola
 
 Kungsbacka kommun          Statsbidrag 2026                     8
-S ta ts b id ra g
-S ta ts b id ra g fö r s tä rk t k u n s k a p s u tv e c k lin g
-S ta ts b id ra g d o ld m o m s
-S ta ts b id ra g m a x ta x a
-S ta ts b id ra g fö r k v a lite ts h ö ja n d e å tg ä rd e r i fö rs k o la n
-S ta ts b id ra g lä ra rlö n e ly ft
-S ta ts b id ra g fö r p e rs o n a lfö rs tä rk n in g
-S ta ts b id ra g k a rriä rtjä n s te r
-S ta ts b id ra g fö r in k ö p a v lä ro b ö c k e r o c h lä ra rh a n d le d n in g a r
-S ta ts b id ra g fö r in k ö p a v litte ra tu r
-S ta ts b id ra g fo rtb ild n in g lä ra re o c h fö rs k o llä ra re
-S ta ts b id ra g fö r lä x h jä lp
-S ta ts b id ra g s ä k e rh e ts h ö ja n d e å tg ä rd e r
-S ta ts b id ra g s k o ls o c ia la te a m
-S ta ts b id ra g fö r u n d e rv is n in g u n d e r s k o llo v
-S ta ts b id ra g p ra k tik n ä ra fo rs k n in g
-S ta ts b id ra g o m s o rg u n d e r k v ä lla r, n ä tte r o c h h e lg e r
-S ta ts b id ra g fö r e ta b le rin g s in s a ts e r (M ig ra tio n s v e rk e t)
-S ta ts b id ra g s k a p a n d e s k o la (K u ltu rrå d e t)
-S ta ts b id ra g (S P S M . S p e c ia lp e d a g o g is k a s k o lm y n d ig h e te n )
-S ta ts b id ra g F ö rä ld ra lo ts a r (M y n d ig h e te n fö r fa m ilje rä tt o c h fö
-In k ö p s s tö d till fo lk - o c h s k o lb ib lio te k (K u ltu rrå d e t)
-T o ta lt
-rä ld ra s k a p s s tö d )
-2
+
+n
+
+la
+
+ko
+
+ss
+
+rå
+
+e
+
+Is
+
+,
+
+la
+
+ko
+
+rs
+
+fö
+
+m lla m
+
+ra o
+
+ra
+
+s
+
+s
+
+s
+
+s
+
+s s
+
+s s K s s
+
+t
+
+t
+
+t
+
+t
+
+t
+
+o
+
+o k o
+
+o k
+
+k o o k
+
+o o k o o
+
+gn
+
+gn ö gn
+
+gn ö
+
+ö gn gn ö
+
+gn gn ö gn gn
+
+m ro am am ro ns ro am am ro ns am ns ro ro ns
+
+ro ro ns ro ro
+
+Ra P R R P A P R R P A R A P P A
+
+P P A P P
+
+17 00 44 23 78 00 74 64 62 92 00 39 00 11 40 00
+
+00 84 08 90 70
+
+96
+
+) 4 0 4 0 8 9 1 1 9 8 0 7 5 1 2 2
+
+0 2 5 5 1
+
 1
-042221
-7
-2562298843221
-511
-7
-6
-2
-7
-4
-3
-2
-1
-1
-3
-0
-7
-1
-99721
-4
+
+r 6 7 4 2 8 5 1 1 4 8 8 0 2 5 7 9
+
+0 7 1 4 1
+
 8
-161
+
+(k 2 1 8 3 9 0 1 3 7 3 6 1 9 3 5 3
+
+0 6 0 3 3
+
+5
+
+6 2 7 4 3 2 1 1 3 0 7 1 9 9 7 2 1
+
+4 8 1 6 1
+
 7
-(k
-2 6
-1 7
-8 4
-3 2
-9 8
-0 5
-1 1
-3 1
-7 4
-3 8
-6 8
-1 0
-9 2
-3 5
-5 7
-3 9
-0 0
-6 7
-0 1
-3 4
-3 1
-5 8
-r)
-4
-0
-4
-0
-8
-9
-1
-1
-9
-8
-0
+
+2 5 6 2 2 9 8 8 4 3 2 2 1
+
+5 1 1
+
 7
-5
-1
-2
-2
-0
-2
-5
-5
-1
-1
-1042707669030140
-08097
-9
-7043804422090100
-04800
-6
-RPRRPAPRRPARAPPA
-PPAPP
-a m
-ro g n o s
-a m
-a m
-ro g n o s
-n s ö k t
-ro g n o s
-a m
-a m
-ro g n o s
-n s ö k t
-a m
-n s ö k t
-ro g n o s
-ro g n o s
-n s ö k t
-ro g n o s
-ro g n o s
-n s ö k t K
-ro g n o s
-ro g n o s
-ra m
-o lla
-ra m
-fö rs k o la , Is e rå s s k o la n
+
+20 4 2 2 2 1
+
+17
+
+)
+
+d
+
+tö
+
+ss
+
+ap
+
+sk
+
+ra
+
+ld
+
+rä
+
+fö
+
+r
+
+) h
+
+a
+
+n c
+
+g
+
+e o
+
+in
+
+t t
+
+t
+
+n
+
+t)
+
+e
+
+d
+
+h rä
+
+n
+
+e
+
+r
+
+e
+
+ig
+
+l
+
+k
+
+je
+
+la
+
+d
+
+e
+
+r
+
+d il )
+
+o
+
+lg
+
+e
+
+n
+
+t
+
+k
+
+an
+
+re
+
+e
+
+v
+
+y m e
+
+rs
+
+h
+
+a
+
+h
+
+s m fa åd
+
+r
+
+r
+
+n
+
+l r
+
+fö
+
+a
+
+h
+
+io
+
+o r r
+
+lä
+
+c
+
+t
+
+ö
+
+i
+
+r
+
+l
+
+k f u
+
+g
+
+r
+
+ä
+
+v
+
+o
+
+a ) s lt
+
+l
+
+o
+
+lo
+
+r
+
+r t
+
+n
+
+in
+
+e
+
+k
+
+r
+
+l
+
+g
+
+a
+
+u
+
+l
+
+d
+
+h
+
+te
+
+i e
+
+e
+
+r
+
+s
+
+e
+
+o
+
+t
+
+d k t (K
+
+k
+
+c
+
+r
+
+d
+
+k
+
+M
+
+is e
+
+c
+
+ä
+
+g
+
+o
+
+fö
+
+r
+
+s
+
+ä
+
+( rå g h k
+
+e
+
+g
+
+n
+
+r
+
+n
+
+r r
+
+e
+
+v
+
+t
+
+i
+
+ä
+
+r
+
+,
+
+o ig t
+
+t
+
+å
+
+e h
+
+g
+
+e g r
+
+e u g
+
+n
+
+k r c
+
+t
+
+n
+
+s lt
+
+d io
+
+u
+
+e
+
+k
+
+u
+
+å
+
+d i la
+
+t
+
+a n l
+
+s
+
+r
+
+c t o
+
+n
+
+l
+
+u
+
+d
+
+ö
+
+e
+
+n
+
+a
+
+d y ib
+
+p
+
+n
+
+tä
+
+b ra re
+
+d
+
+u k ä
+
+s (K e
+
+a
+
+a
+
+s
+
+o
+
+a
+
+m g s v
+
+in
+
+lp (M lb
+
+k
+
+j
+
+r
+
+e
+
+n
+
+r k
+
+la
+
+r r t r
+
+a in
+
+s
+
+a r o
+
+s
+
+ö
+
+ö
+
+it ä
+
+ja e
+
+o r
+
+o i
+
+k
+
+f e lä l l
+
+t n f e
+
+g
+
+a
+
+n
+
+h t l t ö
+
+n k c s s
+
+u
+
+s f a s v v g
+
+is a d
+
+i s
+
+t
+
+k s
+
+t ly
+
+n a a
+
+lp h la v r n
+
+r e o h
+
+e
+
+n
+
+in
+
+s
+
+ä
+
+e p l c
+
+t m
+
+e
+
+ä
+
+ä t ia r
+
+u
+
+le
+
+it
+
+o j p p n j
+
+n
+
+d S a o
+
+rk o a l n s t
+
+e c e
+
+g
+
+b
+
+. r
+
+x
+
+r r ö ö ld h h
+
+d ik r
+
+n
+
+\-
+
+ä
+
+a a lö
+
+k k i x
+
+o
+
+t
+
+a
+
+d k
+
+t m t v
+
+e iä
+
+r
+
+n
+
+o
+
+t a M l l
+
+r
+
+in in b lä e ls u k s
+
+e p S ä
+
+s ld x k a p r t
+
+a
+
+r o
+
+r
+
+a r r r r r r r r k o r r
+
+r a P
+
+f
+
+o
+
+a
+
+ä k
+
+m
+
+k
+
+ö ll
+
+fö d m fö lä fö k fö fö fo fö s s fö p o
+
+fö s (S F i
+
+g g
+
+t
+
+ra ag ag ag ag ag ag ag ag ag ag ag ag ag ag a ag
+
+ag ag ag ag d
+
+r r r r r r r r r r r r r r r r
+
+r r r r tö
+
+id id id id id id id id id id id id id id id id id
+
+id id id id s
+
+b b b b b b b b b b b b b b b b b
+
+b b b b s
+
+lt
+
+ts ts ts ts ts ts ts ts ts ts ts ts ts ts ts ts ts
+
+ts ts ts ts p
+
+a
+
+ö
+
+t
+
+ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta
+
+ta ta ta ta k
+
+S S S S S S S S S S S S S S S S S
+
+S S S S In
+
+To
 
 <!-- sida 14 -->
 
 4.2 Sammanfattning aviserade förändringar i statsbidrag inom barn och
 utbildning i statens budget 2026
+
+Kungsbacka kommun          Statsbidrag 2026                     9
+
+,
+
+i a s
+
+r
+
+r n ilk ra a
+
+jö
+
+g
+
+il
+
+g
+
+o e v ö
+
+r
+
+g
+
+n
+
+k n t f in
+
+i
+
+ll
+
+r
+
+e
+
+a
+
+in
+
+i y
+
+lm
+
+t
+
+r
+
+l
+
+n
+
+s a m n
+
+v
+
+l
+
+tt
+
+o
+
+k
+
+te
+
+k
+
+k
+
+in k o
+
+k
+
+tä
+
+y
+
+c
+
+a
+
+ta
+
+n ä
+
+s
+
+r
+
+g
+
+t
+
+e
+
+v
+
+p a t o e ts
+
+r
+
+e
+
+in
+
+in
+
+k
+
+tv
+
+e
+
+r k g g u
+
+r
+
+s
+
+e
+
+b
+
+r i t r
+
+e
+
+in
+
+t
+
+r
+
+u
+
+a
+
+ä ä
+
+t
+
+k
+
+e
+
+f
+
+k t id
+
+ö
+
+g
+
+t
+
+t
+
+i
+
+,
+
+s
+
+r
+
+t a f
+
+ä
+
+u
+
+n
+
+g
+
+r
+
+p
+
+e
+
+s s
+
+r s
+
+in
+
+s
+
+r
+
+e
+
+v
+
+e
+
+a
+
+r tt m e g
+
+n
+
+h
+
+h
+
+a
+
+p
+
+k
+
+m
+
+fö a a
+
+in
+
+v
+
+c
+
+c
+
+m
+
+a
+
+e
+
+p
+
+s
+
+a
+
+r s m r
+
+i
+
+s
+
+e
+
+n
+
+k
+
+r
+
+n
+
+r
+
+o
+
+o
+
+l
+
+ls
+
+d
+
+ru
+
+,
+
+e
+
+e ä r m e
+
+k
+
+n
+
+o
+
+p
+
+a
+
+u
+
+t ä o n
+
+s
+
+e
+
+r
+
+e
+
+ä
+
+g
+
+k
+
+d
+
+n
+
+t
+
+r
+
+e
+
+d
+
+m
+
+h
+
+k
+
+n d
+
+d
+
+la
+
+m te e k la
+
+e
+
+a
+
+i
+
+n
+
+i
+
+v
+
+s
+
+r
+
+s
+
+y
+
+a f
+
+r g
+
+l
+
+n
+
+ö
+
+r
+
+p
+
+r y
+
+m p
+
+b
+
+a
+
+d
+
+a
+
+il
+
+le
+
+i
+
+a t
+
+e
+
+k
+
+D
+
+t
+
+lä r
+
+u
+
+r
+
+t
+
+b s
+
+v
+
+ls
+
+o
+
+S . o a
+
+r
+
+t
+
+ö
+
+e
+
+m
+
+k
+
+r
+
+m . n s r
+
+o
+
+a d
+
+s
+
+f
+
+d
+
+e
+
+le
+
+a
+
+ä
+
+o
+
+k .
+
+p
+
+h
+
+r
+
+å
+
+k
+
+l
+
+n ä r
+
+n
+
+K
+
+k
+
+n
+
+a
+
+c
+
+ö
+
+d r
+
+e
+
+in r
+
+e ä
+
+r p
+
+d
+
+i
+
+l
+
+f
+
+a
+
+s
+
+a
+
+s e
+
+a
+
+v
+
+p
+
+o
+
+k p
+
+v
+
+,
+
+y
+
+s to m d
+
+tä u
+
+n
+
+s
+
+a
+
+d r o n
+
+s
+
+k
+
+a
+
+p
+
+d
+
+s
+
+n
+
+a k u ä r n
+
+s g
+
+ö
+
+o
+
+ö
+
+io
+
+n h
+
+g
+
+m
+
+v
+
+r e v
+
+t
+
+g
+
+t
+
+t
+
+i c
+
+e
+
+e s
+
+tg ä ä
+
+t in
+
+r
+
+n
+
+k
+
+in
+
+t
+
+a
+
+u
+
+b
+
+a
+
+ö
+
+i
+
+g
+
+s
+
+a
+
+m o
+
+s
+
+is le
+
+å
+
+m
+
+n
+
+f
+
+r
+
+t
+
+s
+
+l l
+
+n
+
+y
+
+e
+
+h
+
+e d
+
+ll
+
+n
+
+l
+
+v o
+
+a
+
+i is
+
+r
+
+e
+
+i
+
+k
+
+n
+
+i a
+
+k
+
+s
+
+d
+
+a
+
+n
+
+t
+
+i
+
+r
+
+t
+
+r
+
+r
+
+a k
+
+t n u
+
+v
+
+e
+
+s
+
+n
+
+e
+
+n
+
+n
+
+l s ld e i v
+
+r r
+
+s
+
+k
+
+ä
+
+r
+
+ä
+
+e
+
+a
+
+i i r t u
+
+t
+
+n
+
+t
+
+p
+
+o
+
+t
+
+r
+
+e r
+
+ta e
+
+a
+
+a
+
+s
+
+s
+
+ta s
+
+s
+
+s
+
+d f k k e h
+
+f d
+
+in
+
+r
+
+m
+
+f r
+
+r
+
+s
+
+fö
+
+e r s n k r
+
+y n
+
+s
+
+in
+
+ö
+
+o
+
+y e
+
+ö
+
+a
+
+n o il
+
+S u
+
+In
+
+F
+
+M
+
+F
+
+K
+
+S p
+
+F
+
+P
+
+In
+
+M fö e k v fö
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+ra
+
+ra
+
+ra
+
+ra
+
+ra
+
+h
+
+ra
+
+d
+
+id
+
+id
+
+id
+
+id
+
+c
+
+id
+
+i
+
+g
+
+g
+
+g
+
+g
+
+g
+
+b
+
+b
+
+b
+
+b
+
+o
+
+a
+
+a
+
+a
+
+a
+
+a
+
+b
+
+b
+
+r
+
+r
+
+r
+
+r
+
+r
+
+s
+
+s
+
+ts
+
+ts
+
+ts
+
+ts
+
+la
+
+t
+
+t
+
+l
+
+id
+
+id
+
+id
+
+id
+
+id
+
+ta
+
+ta
+
+ta
+
+ta
+
+e
+
+ta
+
+ta
+
+s
+
+s
+
+s
+
+s
+
+r
+
+sb
+
+sb
+
+sb
+
+sb
+
+sb
+
+s
+
+s
+
+e
+
+t
+
+t
+
+t
+
+t
+
+t
+
+la
+
+la
+
+la
+
+la
+
+la
+
+v
+
+l
+
+l
+
+l
+
+l
+
+n
+
+ta
+
+ta
+
+ta
+
+ta
+
+ta
+
+l
+
+a
+
+e
+
+e
+
+e
+
+e
+
+e
+
+s
+
+s
+
+s
+
+s
+
+s
+
+e
+
+r
+
+r
+
+r
+
+r
+
+g e
+
+t
+
+t
+
+t
+
+t
+
+t
+
+r
+
+p
+
+e
+
+e
+
+e
+
+e
+
+d
+
+e
+
+y
+
+n
+
+n
+
+n
+
+n
+
+de ta
+
+ta
+
+ta
+
+ta
+
+ta
+
+ta
+
+n
+
+T
+
+e
+
+e
+
+e
+
+e
+
+ik
+
+ik
+
+ik
+
+ik
+
+ik
+
+e
+
+å ik
+
+G
+
+G
+
+G
+
+G
+
+B r
+
+R
+
+R
+
+R
+
+R
+
+R
+
+G
+
+8
+
+0 )
+
+,
+
+0
+
+r
+
+6
+
+8
+
+8
+
+,5
+
+1
+
+0
+
+2 k
+
+,
+
+1
+
+0
+
+0 2
+
+\-
+
+6 n
+
+1 )
+
+0 )
+
+)
+
+2
+
+1
+
+)
+
+, )
+
+5
+
+,
+
+2
+
+, 8
+
+1 8
+
+8
+
+, 0
+
+\+
+
+) 8
+
+,
+
+) m
+
+),
+
+)
+
+,
+
+) 2
+
+,
+
+6
+
+6
+
+)
+
+)
+
+6
+
+p
+
+7
+
+6 02
+
+) 02
+
+2
+
+8 –
+
+)
+
+2
+
+2 02
+
+6
+
+7
+
+2 1
+
+p
+
+2
+
+2 2
+
+6 2
+
+0
+
+2 6
+
+6
+
+0
+
+0 2
+
+2
+
+2
+
+0 , 7
+
+lo
+
+0 )
+
+0 –
+
+2 –
+
+(2
+
+0 2
+
+2 )
+
+(2
+
+2 –
+
+0
+
+0 )
+
+2 )
+
+2 8
+
+(2 7
+
+0 7
+
+r
+
+(2 0
+
+0 7
+
+r
+
+( 7
+
+(2
+
+(2 8
+
+( 7
+
+e
+
+( 2
+
+2
+
+2 2
+
+k
+
+2
+
+2 2
+
+r 2
+
+2
+
+r 2
+
+B
+
+r
+
+r
+
+(
+
+r (
+
+(
+
+k
+
+k
+
+r
+
+r
+
+k
+
+k 0
+
+k 0
+
+r 0
+
+n
+
+k r
+
+r 0
+
+n
+
+d 0
+
+k
+
+k 0
+
+n 0
+
+d (2
+
+n (2
+
+k (2
+
+m
+
+n /å
+
+k (2
+
+m
+
+(2
+
+n
+
+n (2
+
+(2 )
+
+r
+
+r
+
+n r
+
+r
+
+d r
+
+m r
+
+r
+
+m r 8
+
+m
+
+m
+
+,8
+
+m
+
+0
+
+m
+
+m
+
+k
+
+k
+
+m k
+
+9 k
+
+m k
+
+0
+
+,8 k
+
+0
+
+0 k
+
+,5 k 2
+
+,3 d
+
+20 n
+
+5 n
+
+6
+
+6 n
+
+1 d
+
+2
+
+1 d
+
+0
+
+5 n
+
+6 n 0
+
+-3
+
+5 m
+
+\+ m
+
+\+
+
+\+ m
+
+3
+
+5 m
+
+2 m (2
+
+1 m
+
+1 m
+
+9 m
+
+i
+
+l
+
+il
+
+t
+
+d
+
+h
+
+a
+
+n
+
+u
+
+c
+
+h
+
+,
+
+y
+
+d
+
+b
+
+c
+
+g
+
+s
+
+n
+
+s å
+
+r
+
+o
+
+n
+
+la
+
+e fr
+
+h
+
+o
+
+r
+
+a
+
+in g
+
+e
+
+g
+
+v
+
+g r
+
+ö
+
+m
+
+g
+
+l
+
+n
+
+. n
+
+a
+
+p
+
+c
+
+lf
+
+ö
+
+n i
+
+d
+
+p
+
+n a id
+
+o n
+
+i
+
+e
+
+n
+
+f e
+
+e o
+
+k n
+
+r lä
+
+g
+
+i r t
+
+t
+
+i
+
+r r
+
+d k
+
+r
+
+n o
+
+o
+
+r ä
+
+t la
+
+b
+
+s
+
+n
+
+k
+
+a l r
+
+in
+
+k
+
+n
+
+d l s
+
+e
+
+o
+
+e a
+
+n s
+
+ä s
+
+j o ö
+
+r
+
+r
+
+g
+
+o
+
+y
+
+is
+
+t v
+
+a r
+
+t
+
+f
+
+g o
+
+n v
+
+h k
+
+n
+
+s n
+
+if
+
+j ö
+
+s in
+
+ö k
+
+e
+
+i t
+
+ä a in
+
+g s
+
+m a
+
+s e
+
+rv
+
+g a
+
+ö f
+
+r
+
+h s g
+
+t r
+
+in
+
+k
+
+r
+
+g i
+
+t l
+
+g
+
+h
+
+i
+
+ö
+
+s i a
+
+n
+
+n
+
+g n
+
+ll
+
+d
+
+e a
+
+v s
+
+h
+
+m
+
+t r
+
+e
+
+n y e
+
+ö
+
+s
+
+y
+
+o
+
+y r
+
+r
+
+f r
+
+r
+
+e
+
+k
+
+s
+
+in i
+
+r o
+
+e k
+
+t
+
+d ls
+
+a d
+
+ts e
+
+e e d
+
+n
+
+r s
+
+F
+
+v
+
+t r
+
+ä
+
+ig e
+
+i
+
+n e
+
+r
+
+t
+
+n s
+
+e v
+
+n ä
+
+a a
+
+e
+
+l t
+
+h
+
+m la
+
+ä i l
+
+r
+
+e
+
+t
+
+t
+
+t d
+
+l f
+
+r d b
+
+t
+
+e
+
+k i
+
+o d
+
+b i
+
+u h
+
+n
+
+i r
+
+r s
+
+le p
+
+o
+
+l e 7
+
+i
+
+t
+
+k
+
+l
+
+ä e
+
+e
+
+t
+
+s d k
+
+g
+
+r d
+
+t n
+
+t r
+
+d v
+
+d
+
+ä
+
+f r
+
+k ä
+
+p o
+
+r
+
+d 2
+
+ä u
+
+a u
+
+y e
+
+ö e
+
+n r
+
+a g
+
+ll
+
+g a
+
+r
+
+a s
+
+e n 0
+
+t t
+
+r
+
+t l
+
+ä
+
+v t
+
+i ä
+
+ä t t
+
+ö k i
+
+R u 2 S s
+
+N g
+
+N m
+
+S e
+
+S vå
+
+K å
+
+T d S å S
+
+Im lä
+
+F ö fr
+
+s
+
+id
+
+a
+
+6
+
+o
+
+t
+
+la
+
+d
+
+2
+
+r
+
+i
+
+il
+
+e
+
+fr
+
+o
+
+r
+
+0
+
+i
+
+/
+
+k
+
+ö k
+
+2 e
+
+d
+
+s
+
+f s
+
+t
+
+id
+
+la
+
+g n
+
+d
+
+t
+
+tu
+
+la
+
+g
+
+e å
+
+s
+
+s
+
+o
+
+a
+
+a i e
+
+g r
+
+k
+
+o
+
+r
+
+t
+
+r
+
+d
+
+g
+
+h
+
+m
+
+n
+
+s
+
+k
+
+id
+
+e
+
+id n
+
+m
+
+in
+
+d
+
+e
+
+r
+
+s
+
+y
+
+u
+
+c
+
+u
+
+t
+
+la
+
+ö
+
+r
+
+b
+
+h
+
+r
+
+b
+
+b O
+
+n
+
+o
+
+s
+
+f
+
+ö
+
+s
+
+r
+
+e
+
+e s n
+
+s
+
+t
+
+rb
+
+y
+
+o
+
+f
+
+e
+
+n
+
+in ä
+
+s
+
+i
+
+k
+
+a
+
+t
+
+p
+
+k
+
+d
+
+v
+
+e
+
+ö
+
+s
+
+s
+
+x
+
+a
+
+la
+
+n
+
+m
+
+n
+
+r
+
+h
+
+f
+
+s
+
+i
+
+e
+
+ä
+
+d
+
+il
+
+g
+
+a
+
+t
+
+k
+
+p
+
+a a d
+
+e
+
+e
+
+g
+
+t
+
+li
+
+s
+
+ls
+
+r
+
+u
+
+t
+
+d
+
+g
+
+b
+
+ty
+
+d
+
+x
+
+o
+
+k
+
+a
+
+y
+
+ö
+
+a
+
+n
+
+o
+
+r
+
+fö ö v
+
+t
+
+n
+
+r
+
+o
+
+e
+
+t
+
+a
+
+v
+
+u
+
+k
+
+ä
+
+t u
 
 S
 
@@ -594,158 +3501,20 @@ T
 M
 
 B
-ta te n s b u d g e t 2
-O m rå d e
-n d e rv is n in g s tid
-ry g g h e t o c h s tu d
-o b ilfö rb u d
-e ty g s s y s te m
-0 2 6
-ie ro
-Ru2
-Ss
-Ng
-Nm
-F ö rä n d rin g
-e g le rin g a v lä ra re s
-n d e rv is n in g s tid frå
-0 2 7
-tä rk t try g g h e t o c h
-tu d ie ro i s k o la n
-a tio n e llt m o b ilfö rb
-ru n d s k o la n
-y tt b e ty g s s y s te m o
-e ritv ä rd e n
-n
-u
-c
-d
-h
-i
-B e lo p p
-1 ,3 m d k r (2 0 2 7 ), 2 ,6
-m d k r (2 0 2 8 )
-1 2 0 m n k r (2 0 2 6 ), 1 1
-m n k r (2 0 2 7 – 2 0 2 8 )
-9 5 m n k r (2 0 2 6 ), 1 0 0
-m n k r (2 0 2 7 – 2 0 2 8 )
--3 6 ,8 m n k r (2 0 2 8 )
-8
-G
-G
-G
-G
-T y p a
-e n e re
-e n e re
-e n e re
-e n e re
-v s ta ts b id
-lla s ta ts b id
-lla s ta ts b id
-lla s ta ts b id
-lla s ta ts b id
-ra
-ra
-ra
-ra
-ra
-g
-g
-g
-g
-g
-K o rt b e s k riv n
-S y fta r till a tt s tä rk a lä ra re n s
-u n d e rv is n in g s u p p d ra g
-In s a ts e r fö r ö k a d s tu d ie ro o c h
-F in a n s ie rin g a v in fö ra n d e o c h
-M in s k n in g k o p p la d till im p le m
-in g
-s ä k e r s k
-ru tin e r
-e n te rin g
-o lm iljö
 
-S tö d i s k o la n
+S
 
-M a x ta x a fö rs k o la /fritid
+M
 
-K v a lite t fö rs k o la
+K
 
-K u n s k a p s b id ra g s k o la
+K
 
-S k o ls ä k e rh e t
+S
 
-L ä ro p la n e r
+L
 
-In fö ra n d e b id ra g fö r
-u tö k a d in s y n i e n s k ild a
-h u v u d m ä n
-s
-
-S tö d u n d e rv is n in g o c h
-e le v h ä ls a
-
-S ä n k ta a v g ifte r fö r
-v å rd n a d s h a v a re
-K v a lite ts h ö ja n d e
-å tg ä rd e r i fö rs k o la n
-
-T illfä llig fö rs tä rk n in g ,
-d ä re fte r m in s k n in g
-S ä k e rh e ts h ö ja n d e
-å tg ä rd e r i s k o lo r.
-S ta ts b id ra g fö rlä n g s
-Im p le m e n te rin g a v n y a
-lä ro p la n e r
-
-F ö rs tä rk n in g k o p p la d till
-ö k a d in s y n i
-fris k o le s e k to rn
-5 6 9 m n k r (2 0 2 8 ), 2 0 0
-m n k r/å r (2 0 2 6 – 2 0 2 8 )
-\+ 1 m d k r (2 0 2 6 ), + 1 ,5
-m d k r (2 0 2 7 )
-\+ 2 0 0 m n k r (2 0 2 6 )
-\+ 1 ,8 m d k r (2 0 2 6 ), -1 ,8
-m d k r (2 0 2 7 – 2 0 2 8 )
-3 0 0 m n k r (2 0 2 6 )
-5 5 0 m n k r (2 0 2 7 ), 5 0 0
-m n k r (2 0 2 8 )
-2 6 ,5 m n k r (2 0 2 6 ), 6 2
-m n k r (2 0 2 7 ), 7 1 m n k r
-(2 0 2 8 )
-B å d e g e n e re lla o c h
-rik ta d e
-R ik ta t s ta ts b id ra g
-R ik ta t s ta ts b id ra g
-R ik ta t s ta ts b id ra g
-R ik ta t s ta ts b id ra g
-R ik ta t s ta ts b id ra g
-G e n e re lla s ta ts b id ra g
-
-F ö rs tä rk t s tö d o c h e le v h ä ls a
-
-K o m p e n s a tio n fö r m in s k a d e a v g ifts in tä k te r
-
-S y fta r till m in s k a d e b a rn g ru p p e r, re k ty te ra
-p e rs o n a l o c h s p rå k s tö d
-
-F ö rs tä rk n in g a v e le v e rs k u n s k a p s u tv e c k lin g
-
-P a s s e rs y s te m , s k a ls k y d d , k a m e ra b e v a k n in g
-
-In fö ra n d e a v n y a lä ro p la n e r
-
-M e d e l a v is e ra s in o m ra m e n fö r s k ä rp ta v illk o r
-fö r fris k o le s e k to rn . S y fte t ä r a tt s tä rk a in s y n e n i
-e n s k ild a h u v u d m ä n . D e t ä r s a m tid ig t o k la rt v ilk a
-k o n k re ta å tg ä rd e r s o m k o m m e r a tt g e n o m fö ra s ,
-v ilk e t in n e b ä r o s ä k ra p la n e rin g s fö ru ts ä ttn in g a r
-fö r h u v u d m ä n n e n .
-
-Kungsbacka kommun           Statsbidrag 2026                     9
+In u h
 
 <!-- sida 15 -->
 
@@ -780,63 +3549,1172 @@ Kungsbacka kommun          Statsbidrag 2026                    11
 insatser Förskola & Grundskola
 
 Kungsbacka kommun          Statsbidrag 2026                    12
-In sa ts 2 0 2 6
-Ö ka d ge n e re ll b a rn p e n g
-R ikta d e m e d e l till e n h e te r m e d
-h ö gt so c io e ko n o m iskt-in d e x
-F ö rstä rkt p e d a go giskt le d a rska p
-To ta lt
-B
-8
-7
-6
-2
-u d ge t
-4 4 2 3 3
-2 8 9 6 8
-6 0 0 0 0
-2 3 3 2 0
-8
-5
-0
-2
-,0 0
-,0 0
-,0 0
-3 ,0
-kr
-kr
-kr
-0 k r
-B e sk rivn in g
-F ö rd e la m e d e l
-ge n e re llt till a lla e n h e te
-F ö rd e la m e d e l rikta t
-u tifrå n
-so c io e ko n o m iskt in d e x
-F ö rd e la m e d e l till
-a lla e n h e te r u tifrå n
-b a rn a n tl
+
+tt
+
+n
+
+a )
+
+t e
+
+r %
+
+t d
+
+fö (
+
+a n
+
+r l r
+
 r
-E ffe k tm å l M ä te ta l (fö rsla g)
-S ä ke rstä lla e n likvä rd ig gru n d re su rs B a rn p e r b a rn gru p p 1 -3 å r o c h 4 -5 å r
-p e r b a rn i a lla fö rsko lo r. Ö ka F ö rsko llä ra rtä th e t
-fö ru tsä ttn in ga rn a fö r a tt u p p fylla In skrivn a b a rn p e r å rsa rb e ta re
-sko lve rke rke ts riktlin je r fö r sto rle k p å
-b a rn gru p p e r
-M in ska so c io e ko n o m iska skilln a d e r B a rn p e r gru p p fö rsko la
-i fö rsko la n , fö rb ä ttra kva lite t F ö rsko llä ra re n kä te n : u tb ild n in ge n a n p a ssa s fö r a tt
-d ä r b e h o ve t ä r stö rst sa m t ö ka ko m p e n se ra b a rn frå n re su rssva ga h e m fö rh å lla n d e n
-fö ru tsä ttn in ga rn a fö r a tt u p p fylla S ä rskilt stö d till d e b a rn so m ä r i b e h o v till d e t
-sko lve rke rke ts riktlin je r fö r sto rle k p å F ö rsko llä ra rtä th e t
-b a rn gru p p e r A n d e l b e h ö riga fö rsko llä ra re
-R e d o visn in g re kto r in sa tse r - re su rs p e r b a rn
-S a m b a n d in d e x - fö rsko llä ra rtä th e t
-S tä rka le d a rska p e t o c h fö rb ä ttra F ö rsko llä ra re n kä te n : m ö jligh e te n a tt p rio rite ra
-m ö jligh e te rn a a tt p rio rite ra p e d a go gisk u tve c klin gsa rb e te a n d e l p o sitiva sva r
-ko m p e te n su tve c klin g o c h F ö rsko llä ra re n kä te n : In p la n e ra d tid fö r p e rso n a l fö r a tt
-p e d a go giskt u tve c klin gsa rb e te i syfte d isku te ra p e d a go giska frå go r, a n d e l p o sitiva sva r (% )
-a tt ö ka kva lite te n i ve rksa m h e te n .
+
+a
+
+a
+
+ö lla
+
+v a v
+
+f
+
+a
+
+n
+
+å t
+
+r s o s
+
+s rh e
+
+rn
+
+ite a s va
+
+a
+
+d
+
+iv r i
+
+s ö
+
+a
+
+r t
+
+t
+
+f ll
+
+o i e i
+
+s
+
+i
+
+b
+
+i s p s
+
+a m t
+
+r
+
+r
+
+r
+
+p e v
+
+e
+
+p o
+
+o
+
+p
+
+t p fö p
+
+r
+
+n h o
+
+t l l
+
+å
+
+a a h
+
+rs t
+
+a e id e
+
+5
+
+n g e
+
+e
+
+d t d
+
+\-
+
+b
+
+u h
+
+n
+
+e a i
+
+s t
+
+e n d n
+
+4
+
+g v
+
+e
+
+t a a a
+
+e
+
+n s r
+
+r tä
+
+e
+
+r ,
+
+h
+
+r
+
+i s ä
+
+r
+
+e
+
+r
+
+c
+
+n r
+
+e -
+
+h t e
+
+o
+
+ta
+
+r r a
+
+ig e n o
+
+ld u m
+
+r
+
+l
+
+g
+
+r
+
+e
+
+i s o
+
+a e ä
+
+j rb la å
+
+å
+
+b
+
+b e s
+
+r s ll
+
+ö
+
+r
+
+r
+
+t
+
+ä t
+
+a p f
+
+3
+
+a
+
+r
+
+ll a o
+
+s n
+
+a
+
+l u
+
+n
+
+m
+
+I a
+
+\-
+
+s
+
+: n r
+
+o s k
+
+: g :
+
+1
+
+r
+
+o
+
+å a
+
+k n s
+
+n
+
+k
+
+k n r b
+
+i r
+
+n li n is
+
+p t å
+
+s e f t rs r ö
+
+e
+
+e
+
+p
+
+r
+
+r t
+
+e
+
+f
+
+t k t g
+
+) u e e
+
+ö ä rn
+
+e fö to -
+
+ä c ä o
+
+g
+
+h
+
+f k
+
+d h
+
+k e k g
+
+r t p
+
+a ll t
+
+k x
+
+la g
+
+p n b i
+
+a e e
+
+n tv n a
+
+n tä n
+
+p e t tä ig r
+
+e
+
+e d
+
+rs r r r
+
+r a
+
+r r
+
+d
+
+r u r
+
+a a a
+
+ru a r d a
+
+g in
+
+a k a e
+
+fö
+
+r b
+
+r e ö r ö in
+
+r s r p
+
+( b
+
+g
+
+t
+
+h
+
+i
+
+r ä a
+
+r lä s s lä e n d
+
+lä g lä a
+
+l
+
+ll
+
+l n
+
+l
+
+n
+
+l
+
+l r
+
+e
+
+n
+
+e
+
+t
+
+is
+
+o
+
+a
+
+e il o b
+
+a
+
+o
+
+o e
+
+t p o iv
+
+p o
+
+l v
+
+g
+
+t
+
+k r
+
+k p k k
+
+b
+
+k
+
+k u
+
+te rn rs k
+
+rn rs
+
+rs rs de do m
+
+rs da rs k
+
+ä a
+
+s
+
+a m
+
+n e
+
+is
+
+ö In
+
+B Fö ko Sä Fö A R Sa
+
+Fö pe Fö d
+
+M B F
+
+å
+
+r
+
+å
+
+te
+
+rs
+
+p
+
+e
+
+p
+
+f
+
+u
+
+k
+
+d
+
+k
+
+y .
+
+s
+
+le
+
+le
+
+a
+
+s n
+
+a
+
+a
+
+la
+
+r
+
+i
+
+e
+
+ll r
+
+l r
+
+e
+
+r
+
+o
+
+ln
+
+a
+
+o
+
+tt
+
+e t
+
+fy t
+
+il
+
+k fy t
+
+t e
+
+d a p s
+
+k t ö p s
+
+ä
+
+e h
+
+n
+
+r
+
+e
+
+r
+
+b
+
+b
+
+u k p
+
+s it t p
+
+r ra
+
+r m
+
+r Ö u fö
+
+a l
+
+u fö
+
+ö
+
+h a
+
+g . t
+
+k a m t
+
+f te c
+
+a
+
+r t r
+
+a t r
+
+i
+
+s s
+
+ig
+
+e
+
+is v
+
+e
+
+h r o g k
+
+lo a j
+
+k s a j
+
+c
+
+g n r
+
+d
+
+r
+
+t r
+
+io
+
+i
+
+r o
+
+n
+
+m a
+
+in
+
+o
+
+n l e
+
+ö li
+
+r s ö l
+
+r i
+
+ä k f
+
+o
+
+r f t
+
+t
+
+l k v
+
+t
+
+tt
+
+e p
+
+i
+
+v s a ik
+
+n
+
+tö a ik
+
+t k c
+
+ik r
+
+o ä
+
+p t c e n
+
+l ö n r
+
+s n r
+
+v
+
+f r
+
+k b
+
+r
+
+a a e t te
+
+n
+
+ts
+
+e r r a ts
+
+k
+
+v
+
+a a
+
+ö ä
+
+s a t u e
+
+e ll g e r io f t g e r
+
+r n u t it
+
+,
+
+n k
+
+r
+
+l
+
+l la a in rk e c
+
+e i r e
+
+a
+
+s k
+
+l i n
+
+p o n v n
+
+p
+
+d te n is a
+
+å ä
+
+t e p s la o t e p
+
+e e e g v
+
+t n t k u
+
+t k u
+
+l
+
+t
+
+k
+
+m s r ä r r a o h ä r r
+
+h
+
+o
+
+t r a s e g k k e s e g
+
+a ig e g ka
+
+k e b t lv
+
+s s b t lv
+
+k l p a
+
+u
+
+n
+
+r u
+
+n
+
+r j
+
+ö
+
+fe k r r o r in
+
+r r o r
+
+ä ö m d t
+
+f ä e
+
+k a
+
+fö ä
+
+k a
+
+t
+
+o e t
+
+E S p fö s b M i d fö s b
+
+S m k p a
+
+r
+
+te
+
+x
+
+e
+
+e
+
+t
+
+d
+
+nh
+
+ta
+
+in
+
+n
+
+t
+
+l å
+
+e
+
+ik
+
+il r
+
+r
+
+k
+
+t f
+
+a
+
+l
+
+s
+
+l i
+
+l ll
+
+i
+
+t
+
+e a
+
+e
+
+e u
+
+d l
+
+d m
+
+d r
+
+g
+
+e il
+
+e
+
+o
+
+e
+
+in
+
+t
+
+n
+
+te
+
+m t
+
+m
+
+o
+
+m e l
+
+n
+
+ll
+
+t
+
+iv
+
+la
+
+la k
+
+la h n
+
+r
+
+re
+
+n e
+
+n
+
+k
+
+de e
+
+de rå io
+
+de e na
+
+s
+
+r n
+
+r if c
+
+r la r
+
+e
+
+t
+
+ö l a
+
+B
+
+Fö ge
+
+Fö u so
+
+F a b
+
+r
+
+r
+
+r
+
+r
+
+k
+
+k
+
+k
+
+k
+
+0
+
+0
+
+0
+
+0
+
+,0
+
+,0
+
+,0
+
+,0
+
+3
+
+8
+
+5
+
+0
+
+2
+
+t
+
+3
+
+8
+
+0
+
+0
+
+3
+
+6
+
+0
+
+2
+
+e
+
+2
+
+9
+
+0
+
+3
+
+dg
+
+4
+
+8
+
+0
+
+3
+
+u
+
+4
+
+2
+
+6
+
+2
+
+B
+
+8
+
+7
+
+6
+
+2
+
+p
+
+d
+
+ka
+
+e x
+
+rs
+
+m e
+
+r d
+
+a
+
+g
+
+te in
+
+d
+
+\-
+
+le
+
+n
+
+e t
+
+t
+
+e
+
+h k
+
+k
+
+p
+
+n is
+
+is
+
+rn
+
+l e
+
+g
+
+a
+
+il m
+
+o
+
+t o
+
+g
+
+l b
+
+l n
+
+a
+
+l
+
+e o
+
+re
+
+d k
+
+ed
+
+26
+
+e
+
+e e
+
+p
+
+io
+
+t
+
+0
+
+n
+
+m
+
+2
+
+e
+
+e c
+
+rk
+
+g
+
+o
+
+s
+
+d s
+
+tä
+
+lt
+
+t
+
+d
+
+a t
+
+a
+
+a
+
+t g
+
+rs
+
+ta
+
+s
+
+k
+
+ik
+
+In
+
+Ö
+
+R hö
+
+Fö
+
+To
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
 

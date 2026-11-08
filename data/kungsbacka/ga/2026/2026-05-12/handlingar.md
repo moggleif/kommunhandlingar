@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.52f0a12a19e103e1053be7d7/1779106840
 sha256: c9d1fc9348ffb494ab04cef0a07560c125aa2a63397b804267ada826230061c5
 bytes: 13254418
 sidor: 244
-hamtad: 2026-11-06T08:29:48+00:00
-konverterad: 2026-11-06T08:31:05+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T08:01:28+00:00
+konverterad: 2026-11-08T08:02:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2990,12 +2990,13 @@ Kungsbacka, 2026-05-06
 
 <!-- sida 83 -->
 
-uniForm KUB100 v 1.0, 2006-10-02
+ACKA KOMMUNS ov js
+gunst ye - MNABIBBKOLOR ir"
 
-ACKA KOMMUNS Gv RE
-gunst 2 MNABIBBKOLOR re"
-sg STREET
-j PA : a SÅR
+sg SÅRET
+2 R <
+
+Sö dne
 
 "rr 8
 Oe fm
@@ -3055,6 +3056,8 @@ Fax 0300-83 34 00
 
 aranasgymnasiet(Qkungsbacka.se
 www.aranasgymnasiet.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 84 -->
 
@@ -4056,12 +4059,13 @@ Telefon 08-527 332 00 vx Fax: 08-24 44 20
 
 <!-- sida 108 -->
 
-uniForm KUB100 v 1.0, 2006-10-02
+ACKA KOMMUNS ov js
+gunst ye - MNABIBBKOLOR ir"
 
-ACKA KOMMUNS Gv RE
-gunst 2 MNABIBBKOLOR re"
-sg STREET
-j PA : a SÅR
+sg SÅRET
+2 R <
+
+Sö dne
 
 "rr 8
 Oe fm
@@ -4121,6 +4125,8 @@ Fax 0300-83 34 00
 
 aranasgymnasiet(Qkungsbacka.se
 www.aranasgymnasiet.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 109 -->
 
@@ -4796,21 +4802,11 @@ ansvarar också för att det finns en tillräcklig intern
 kontroll och återredovisning till fullmäktige. Revisorerna
 ansvarar för att granska verksamhet, intern kontroll och
 räkenskaper samt att pröva om verksamheten sköts på ett
-ändamålsenligt och från ekonomisk synpunkt tillfreds
+ändamålsenligt och från ekonomisk synpunkt tillfreds-
 ställande sätt, om räkenskaperna är rättvisande och om
 den interna kontrollen som görs inom nämnderna är
 
 tillräcklig.
-
-Granskningen har utförts enligt kommunallagen, god
-revisionssed i kommunal verksamhet och kommunens
-revisionsreglemente. Granskningen av räkenskaperna har
-genomförts av vårt sakkunniga biträde i enlighet med
-standard för kommunal räkenskapsrevision. Vår
-granskning har genomförts med den inriktning och
-
-omfattning som behövs för att ge rimlig grund för
-bedömning och ansvarsprövning.
 
 Vi bedömer att resultatet enligt årsredovisningen är
 förenligt med fullmäktiges mål för god ekonomisk
@@ -4828,13 +4824,16 @@ styrelse, nämnder och beredningar samt enskilda
 ledamöter i dessa organ.
 
 Vi åberopar bifogad redogörelse och de rapporter som
+Granskningen har utförts enligt kommunallagen, god
 inte tidigare tillställts fullmäktige. Övriga rapporter har
+revisionssed i kommunal verksamhet och kommunens
 översänts till fullmäktige löpande under året.
-OLI7P-O58SW-VR56Y-B9ETD-6ZU34-E9YZL
-:yek
-tnemucod
-
-oenneP
+revisionsreglemente. Granskningen av räkenskaperna har
+genomförts av vårt sakkunniga biträde i enlighet med
+standard för kommunal räkenskapsrevision. Vår
+granskning har genomförts med den inriktning och
+omfattning som behövs för att ge rimlig grund för
+bedömning och ansvarsprövning.
 
 Vi bedömer att styrelse och nämnder i Kungsbacka
 kommun har bedrivit verksamheten på ett ändamålsenligt
@@ -4847,6 +4846,8 @@ kontroll har varit tillräcklig.
 Vi bedömer att räkenskaperna är rättvisande med
 undantag för redovisningen av pensioner. Denna
 bedömning baseras på det sakkunniga biträdets yttrande.
+
+Penneo document key: LZY9E-43UZ6-DTE9B-Y65RV-WS85O-P7ILO
 
 <!-- sida 124 -->
 
@@ -4870,11 +4871,8 @@ kassaflödesanalys samt noter
 \- Granskning av god ekonomisk hushållning och
 balanskrav
 \- Granskningsrapport från lekmannarevisorerna
-OLI7P-O58SW-VR56Y-B9ETD-6ZU34-E9YZL
-:yek
-tnemucod
 
-oenneP
+Penneo document key: LZY9E-43UZ6-DTE9B-Y65RV-WS85O-P7ILO
 
 <!-- sida 125 -->
 
@@ -4901,9 +4899,6 @@ Undertecknare                         Undertecknare
 Serienummer: a3673656b4da77[…]798fc5ed86332 Serienummer: 707f8d54efbabf[…]56f564b0791b0
 IP: 213.64.xxx.xxx                    IP: 81.233.xxx.xxx
 2026-03-27 16:27:51 UTC               2026-03-27 21:49:22 UTC
-OLI7P-O58SW-VR56Y-B9ETD-6ZU34-E9YZL
-:lekcyntnemukod
-oenneP
 
 Detta dokument är undertecknat digitalt via Penneo.com. De signerade
 uppgifternas integritet är validerad med hjälp av ett beräknat hashvärde för
@@ -4921,6 +4916,8 @@ enskilda undertecknarnas digitala signaturer bifogas dokumentet.
 De kryptografiska bevisen kan kontrolleras med hjälp av Penneos
 validator, https://penneo.com/validator, eller andra validerings
 verktyg för digitala signaturer.
+
+Penneo dokumentnyckel: LZY9E-43UZ6-DTE9B-Y65RV-WS85O-P7ILO
 
 <!-- sida 126 -->
 
@@ -4935,12 +4932,6 @@ Serienummer: a36067258a71c9[…]2427c63a19977
 IP: 213.113.xxx.xxx
 2026-03-30 07:46:58 UTC
 
-OLI7P-O58SW-VR56Y-B9ETD-6ZU34-E9YZL
-
-:lekcyntnemukod
-
-oenneP
-
 Detta dokument är undertecknat digitalt via Penneo.com. De signerade
 uppgifternas integritet är validerad med hjälp av ett beräknat hashvärde för
 originaldokumentet. Alla kryptografiska bevis är inbäddade i denna PDF, vilket
@@ -4957,6 +4948,8 @@ enskilda undertecknarnas digitala signaturer bifogas dokumentet.
 De kryptografiska bevisen kan kontrolleras med hjälp av Penneos
 validator, https://penneo.com/validator, eller andra validerings
 verktyg för digitala signaturer.
+
+Penneo dokumentnyckel: LZY9E-43UZ6-DTE9B-Y65RV-WS85O-P7ILO
 
 <!-- sida 127 -->
 

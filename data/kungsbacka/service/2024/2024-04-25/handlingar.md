@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e91af02/1713767052
 sha256: 3dc5b41d56ee881f812045cce5a2511c4b69d1c63c39d7f1f605f30fdd2b0e59
 bytes: 3303932
 sidor: 261
-hamtad: 2026-11-06T12:17:31+00:00
-konverterad: 2026-11-06T12:18:20+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T12:10:06+00:00
+konverterad: 2026-11-08T12:10:58+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -2107,9 +2107,9 @@ Gränsvärde för byggnaders klimatpåverkan                              38
 20               9 12 14
 2  4
 0
+2022                2023
 Figur 2. Det totala antalet klimatdeklarationer i Boverkets register. Källa: Bover-
 ket.
-
 De registrerade klimatdeklarationerna avser olika typer av byggnader,
 och är fördelade på följande byggnadstyper; småhus (100), övrigt (14),
 grundskola (9), kontor (5), flerbostadshus (4), förskola (3), handel (2) och
@@ -2136,8 +2136,36 @@ kommunerna arbetar med frågan om klimatdeklarationer i lov- och bygg-
 processen.
 
 Boverket
-iraunaJ iraurbeF sraM lirpA jaM inuJ iluJ itsuguA rebmetpeS rebotkO rebmevoN rebmeceD iraunaJ iraurbeF sraM
-2022                2023
+
+Januari
+
+Februari
+
+Mars
+
+April
+
+Maj
+
+Juni
+
+Juli
+
+Augusti
+
+September
+
+Oktober
+
+November
+
+December
+
+Januari
+
+Februari
+
+Mars
 
 <!-- sida 56 -->
 
@@ -4180,22 +4208,86 @@ regler om klimatdeklaration av byggnader”.
 
 0
 
+Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
+
+A1-A5           20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
+75-percentilen  Median
+
 Figur 6. Olika referensnivåer baserade på referensvärdesstudien (Malmqvist et
 al., 2023), enligt den systemgräns som föreslås för gränsvärden och beräknade
 med typiska generiska klimatdata.
 
 Boverket
-1HBF 11HBF 31HBF 51HBF 71HBF 91HBF 3HBF 6HBF 9HBF 8HBF 11KSF 7KSF 6KSF 9KSF 4KSF 31KSF 51KSF 1NAH 2NOK 7NOK 21NOK 8NOK 4NOK 1OKS 3OKS 6OKS 01OKS 4OKS 1ÅMS 11ÅMS 3ÅMS 5ÅMS 7ÅMS 9ÅMS
-Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
-edrävsnärg
-llit
-galsröf
-tgilne
-snärgmetsys
-,ATB/e2OC
-gk
-A1-A5           20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
-75-percentilen  Median
+
+kg CO2e/BTA, systemgräns enligt förslag till gränsvärde
+
+FBH1
+
+FBH11
+
+FBH13
+
+FBH15
+
+FBH17
+
+FBH19
+
+FBH3
+
+FBH6
+
+FBH9
+
+FBH8
+
+FSK11
+
+FSK7
+
+FSK6
+
+FSK9
+
+FSK4
+
+FSK13
+
+FSK15
+
+HAN1
+
+KON2
+
+KON7
+
+KON12
+
+KON8
+
+KON4
+
+SKO1
+
+SKO3
+
+SKO6
+
+SKO10
+
+SKO4
+
+SMÅ1
+
+SMÅ11
+
+SMÅ3
+
+SMÅ5
+
+SMÅ7
+
+SMÅ9
 
 <!-- sida 94 -->
 
@@ -4389,11 +4481,11 @@ ment/material transport).
 1
 0
 2020      2025      2030     2035      2040     2045
-
+Total construction emissions Building materials
+Construction equipment/ material transports
 Figur 8. Den förväntade utvecklingen av klimatpåverkan från byggandet i Sverige.
 Scenario utan CCS för cement. Källa: Ida Karlsson, Chalmers och (Karlsson et
 al., 2020).
-
 Vilken potential finns det i ett enskilt byggprojekt, att
 reducera klimatpåverkan?
 En uppskattning har gjorts av potentialen för att reducera klimatpåverkan
@@ -4422,12 +4514,8 @@ slimmade konstruktionslösningar exempelvis, är inte beroende av en till-
 räcklig mängd klimatförbättrade produkter.
 
 Boverket
-e
-OC
-tm
-2
-Total construction emissions Building materials
-Construction equipment/ material transports
+
+mt CO2e
 
 <!-- sida 98 -->
 
@@ -4476,8 +4564,6 @@ bostadshus idag. Året 2020 är baslinje.
 Endast fem av de organisationer som har antagit ett klimatmål har gjort
 någon typ av ekonomisk analys av detta, varav flera en mycket övergri-
 pande analys. Flera av de svarande påpekar att det är svårt att identifiera
-ATB/e2OC
-gk
 
 81
 
@@ -4499,6 +4585,8 @@ Kombohus Sveriges Allmännytta
 Gränsvärde flerbostadshus, alt 2
 
 Boverket
+
+kg CO2e/BTA
 
 <!-- sida 99 -->
 
@@ -4614,6 +4702,10 @@ Gränsvärde för byggnaders klimatpåverkan                              84
 
 0
 
+Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
+
+A1-A5 75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
+
 Figur 10. Olika referensnivåer baserade på referensvärdesstudien (Malmqvist et
 al., 2023), enligt den systemgräns som föreslås för gränsvärden. Klimatpåverkan
 är beräknad med enbart konservativa generiska data.
@@ -4641,16 +4733,76 @@ dukter ur en klimatsynpunkt. Men observera alltså att det även förväntas
 att ske en förbättring i hela värdekedjan generellt, samt att det även finns
 
 Boverket
-1HBF 11HBF 31HBF 51HBF 71HBF 91HBF 3HBF 6HBF 9HBF 8HBF 11KSF 7KSF 6KSF 9KSF 4KSF 31KSF 51KSF 1NAH 2NOK 7NOK 21NOK 8NOK 4NOK 1OKS 3OKS 6OKS 01OKS 4OKS 1ÅMS 11ÅMS 3ÅMS 5ÅMS 7ÅMS 9ÅMS
-Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
-edrävsnärg
-llit
-galsröf
-tgilne
-snärgmetsys
-,ATB/e2OC
-gk
-A1-A5 75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
+
+kg CO2e/BTA, systemgräns enligt förslag till gränsvärde
+
+FBH1
+
+FBH11
+
+FBH13
+
+FBH15
+
+FBH17
+
+FBH19
+
+FBH3
+
+FBH6
+
+FBH9
+
+FBH8
+
+FSK11
+
+FSK7
+
+FSK6
+
+FSK9
+
+FSK4
+
+FSK13
+
+FSK15
+
+HAN1
+
+KON2
+
+KON7
+
+KON12
+
+KON8
+
+KON4
+
+SKO1
+
+SKO3
+
+SKO6
+
+SKO10
+
+SKO4
+
+SMÅ1
+
+SMÅ11
+
+SMÅ3
+
+SMÅ5
+
+SMÅ7
+
+SMÅ9
 
 <!-- sida 102 -->
 
@@ -4677,6 +4829,9 @@ stora materialgrupperna betong, konstruktionsstål, isolering, och gips.
 
 0
 
+Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
+A1-A5 75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
+
 Figur 11. Klimatpåverkan, för byggnaderna i referensvärdesstudien (Malmqvist et
 al., 2023), beräknad med konservativa generiska data. Betong, konstruktionsstål,
 armering, isolering samt gips undantas. För dessa används i stället typiska data
@@ -4695,16 +4850,76 @@ gör då att en hög andel av byggnaderna (oavsett byggnadstyp) kan nå
 gränsvärdena med denna enda åtgärd.
 
 Boverket
-1HBF 11HBF 31HBF 51HBF 71HBF 91HBF 3HBF 6HBF 9HBF 8HBF 11KSF 7KSF 6KSF 9KSF 4KSF 31KSF 51KSF 1NAH 2NOK 7NOK 21NOK 8NOK 4NOK 1OKS 3OKS 6OKS 01OKS 4OKS 1ÅMS 11ÅMS 3ÅMS 5ÅMS 7ÅMS 9ÅMS
-Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
-edrävsnärg
-llit
-galsröf
-tgilne
-snärgmetsys
-,ATB/e2OC
-gk
-A1-A5 75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
+
+kg CO2e/BTA, systemgräns enligt förslag till gränsvärde
+
+FBH1
+
+FBH11
+
+FBH13
+
+FBH15
+
+FBH17
+
+FBH19
+
+FBH3
+
+FBH6
+
+FBH9
+
+FBH8
+
+FSK11
+
+FSK7
+
+FSK6
+
+FSK9
+
+FSK4
+
+FSK13
+
+FSK15
+
+HAN1
+
+KON2
+
+KON7
+
+KON12
+
+KON8
+
+KON4
+
+SKO1
+
+SKO3
+
+SKO6
+
+SKO10
+
+SKO4
+
+SMÅ1
+
+SMÅ11
+
+SMÅ3
+
+SMÅ5
+
+SMÅ7
+
+SMÅ9
 
 <!-- sida 103 -->
 
@@ -4723,6 +4938,9 @@ Gränsvärde för byggnaders klimatpåverkan                              86
 100
 
 0
+
+Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
+A1-A5  75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
 
 Figur 12. Klimatpåverkan, för byggnaderna i referensvärdesstudien (Malmqvist et
 al., 2023), beräknad med konservativa data. Men inte för betong där klimatförbätt-
@@ -4754,16 +4972,76 @@ kravet på en klimatdeklaration skulle ha en betydligt högre klimatpåver-
 kan (se avsnitt ”Kompletterande referensvärden om klimatpåverkan från
 
 Boverket
-1HBF 11HBF 31HBF 51HBF 71HBF 91HBF 3HBF 6HBF 9HBF 8HBF 11KSF 7KSF 6KSF 9KSF 4KSF 31KSF 51KSF 1NAH 2NOK 7NOK 21NOK 8NOK 4NOK 1OKS 3OKS 6OKS 01OKS 4OKS 1ÅMS 11ÅMS 3ÅMS 5ÅMS 7ÅMS 9ÅMS
-Flerbostadshus Förskolor Handel Kontor Skolor Småhus Övriga
-edrävsnärg
-llit
-galsröf
-tgilne
-snärgmetsys
-,ATB/e2OC
-gk
-A1-A5  75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
+
+kg CO2e/BTA, systemgräns enligt förslag till gränsvärde
+
+FBH1
+
+FBH11
+
+FBH13
+
+FBH15
+
+FBH17
+
+FBH19
+
+FBH3
+
+FBH6
+
+FBH9
+
+FBH8
+
+FSK11
+
+FSK7
+
+FSK6
+
+FSK9
+
+FSK4
+
+FSK13
+
+FSK15
+
+HAN1
+
+KON2
+
+KON7
+
+KON12
+
+KON8
+
+KON4
+
+SKO1
+
+SKO3
+
+SKO6
+
+SKO10
+
+SKO4
+
+SMÅ1
+
+SMÅ11
+
+SMÅ3
+
+SMÅ5
+
+SMÅ7
+
+SMÅ9
 
 <!-- sida 104 -->
 
@@ -11666,21 +11944,27 @@ Handel
 Handel-trä
 Handel
 0        100      200      300      400      500       600      700
+kg CO2e/BTA
+Klimatberäkning Schablon invändiga ytskikt, rumskomplettering och installationer Schablon A5 Energi
 Figur 20. Klimatpåverkan per BTA. Resultatet av de LCA-beräkningar som genomförts för de redovisade byggnadstyperna. Samma schabloner har använts som i referensvär-
 desstudien (Malmqvist et al., 2023).
 Boverket
-sdråvkujS dnaggyb
-je(
-luKsttordI
-redätsoblaicepS
-)suhkujs
-regaL
-rut
-llah
-lletoH
-lednaH
-kg CO2e/BTA
-Klimatberäkning Schablon invändiga ytskikt, rumskomplettering och installationer Schablon A5 Energi
+
+Sjukvårds
+
+byggand
+
+IdrottsKul
+
+(ej
+
+Handel
+
+Hotell
+
+hall tur Lager sjukhus)
+
+Specialbostäder
 
 <!-- sida 234 -->
 
@@ -11754,7 +12038,9 @@ Gränsvärde för byggnaders klimatpåverkan                             218
 -94%
 0
 2020    2025    2030    2035    2040    2045
-
+Total construction emissions
+Building materials
+Construction equipment/ material transports
 Figur 21. Potentialen för att minska klimatpåverkan, inklusive potentialen för
 CCS för betong. Potentialen inkluderar åtgärder i hela värdekedjan, från att pro-
 jektera byggnader och att tillverka byggprodukter, till byggproduktionen. De totala
@@ -11762,23 +12048,6 @@ utsläppen (total construction emission) är summan av utsläppen från byggmate
 alet (building materials) och utsläppen från transporter och byggarbetsplatser
 (construction equipment/material transport). (Pathway 5. Electrifiation/bio/CCS
 combo and material efficiency).
-
-Figur 22. Potentialen för att minska klimatpåverkan, exklusive potentialen för
-CCS för betong. Potentialen inkluderar åtgärder i hela värdekedjan, från att pro-
-jektera byggnader och att tillverka byggprodukter, till byggproduktionen. De totala
-utsläppen (total construction emission) är summan av utsläppen från byggmateri-
-alet (building materials) och utsläppen från transporter och byggarbetsplatser
-(construction equipment/material transport). (Pathway 5b Elektric/bio/ME combo
-utan cement CCS), bearbetning av underlaget av (Karlsson I., Chalmers, 2022).
-
-Boverket
-e
-OC
-tm
-2
-Total construction emissions
-Building materials
-Construction equipment/ material transports
 9
 8
 7
@@ -11795,13 +12064,22 @@ Construction equipment/ material transports
 1
 0
 2020    2025    2030    2035    2040   2045
-e
-OC
-tm
-2
 Total construction emissions
 Building materials
 Construction equipment/ material transports
+Figur 22. Potentialen för att minska klimatpåverkan, exklusive potentialen för
+CCS för betong. Potentialen inkluderar åtgärder i hela värdekedjan, från att pro-
+jektera byggnader och att tillverka byggprodukter, till byggproduktionen. De totala
+utsläppen (total construction emission) är summan av utsläppen från byggmateri-
+alet (building materials) och utsläppen från transporter och byggarbetsplatser
+(construction equipment/material transport). (Pathway 5b Elektric/bio/ME combo
+utan cement CCS), bearbetning av underlaget av (Karlsson I., Chalmers, 2022).
+
+Boverket
+
+mt CO2e
+
+mt CO2e
 
 <!-- sida 236 -->
 
@@ -11824,22 +12102,27 @@ procent för 2030 i ett scenario med CCS, och den uppskattades till knappt
 60 procent i ett scenario utan CCS.
 
 300
-
+Others
+Construction process
 250
-
+Material transports
+Plasterboard
 200
+Aluminium
 -40%
-
+Timber beams
 150                -52%
-
+Insulation
+Cross-laminated timber
 100
 -77%
--89%
+Construction steel
+-89%    Reinforcement steel
 50
-
+Cementbound boards
+Concrete
 0
 Ref   BAT Now 2025   2030   2045
-
 Figur 23. Klimatpåverkan från ett flerbostadshus (platsgjuten betongstomme),
 samt scenarier för en minskad klimatpåverkan fram till 2045. Scenarierna inklude-
 rar CCS för betong. De inkluderar ej installationer och hiss, koldioxidinlagring, el-
@@ -11849,42 +12132,35 @@ tial building systems, Developments in the Built Environment, Volume 8, 2021,
 https://doi.org/10.1016/j.dibe.2021.100059.
 
 Boverket
-2m
-/e2OCgk
-Others
-Construction process
-Material transports
-Plasterboard
-Aluminium
-Timber beams
-Insulation
-Cross-laminated timber
-Construction steel
-Reinforcement steel
-Cementbound boards
-Concrete
+
+kgCO2e/ m2
 
 <!-- sida 237 -->
 
 Gränsvärde för byggnaders klimatpåverkan                             220
 
 300
-
+Others
+Construction process
 250
-
+Material transports
+Plasterboard
 200
+Aluminium
 -40%
-
+Timber beams
 150                 -52%
 -56%
-
+Insulation
+Cross-laminated timber
 100                                -76%
-
+Construction steel
+Reinforcement steel
 50
-
+Cementbound boards
+Concrete
 0
 Ref   BAT Now  2025   2030   2045
-
 Figur 24. Klimatpåverkan från ett flerbostadshus (platsgjuten betongstomme),
 samt scenarier för en minskad klimatpåverkan fram till 2045. Scenarierna inklude-
 rar ej CCS för betong. De inkluderar ej installationer och hiss, koldioxidinlagring,
@@ -11892,7 +12168,6 @@ eller eventuella negativa utsläpp. Källa: Karlsson et al, Achieving net-zero c
 emissions in construction supply chains – A multidimensional analysis of residen-
 tial building systems, Developments in the Built Environment, Volume 8, 2021,
 https://doi.org/10.1016/j.dibe.2021.100059.
-
 Målet är att byggprojekt som har en hög klimatpåverkan tvingas att vidta
 åtgärder för att uppfylla kraven, när gränsvärdena införs. Det betyder in-
 köp av klimatförbättrad betong exempelvis. Det krävs en tillräcklig till-
@@ -11915,20 +12190,8 @@ vilka osäkerheter som fanns, gavs i maj 2022 till ett antal branschorgani-
 sationer och stora tillverkare via branschorganisationen
 
 Boverket
-2m
-/e2OCgk
-Others
-Construction process
-Material transports
-Plasterboard
-Aluminium
-Timber beams
-Insulation
-Cross-laminated timber
-Construction steel
-Reinforcement steel
-Cementbound boards
-Concrete
+
+kgCO2e/ m2
 
 <!-- sida 238 -->
 
@@ -12013,6 +12276,8 @@ Boverket
 
 Gränsvärde för byggnaders klimatpåverkan                             223
 
+Sammanställning reduktionspotentialer
+
 100%
 90%
 80%
@@ -12025,6 +12290,9 @@ Gränsvärde för byggnaders klimatpåverkan                             223
 10%
 0%
 
+Betong            Konstruktionsstål Armering
+
+BAT idag 2025 2030 2045
 Figur 26. En sammanställning av analyser för minskningen av klimatpåverkan
 fram till 2045. Potentialen för reduktion för ett flerbostadshus, scenarios för den
 mest troliga utvecklingen på nationell nivå, och branschorganisationernas upp-
@@ -12032,69 +12300,56 @@ skattning (se fler organisationers uppskattningar nedan). BAT står idag för de
 bästa möjliga tillgängliga tekniken.
 
 Boverket
-.)2
-tsys(
-gnotebsuhsdatsobrelF
-laitnetoP
-.)2
-tsys(
-gnotebsuhsdatsobrelF
-SCC
-natu
-,laitnetoP
-lkni
-oiranecs
-tllenoitaN
-OIB
-,tetivitkeffelairetam
-lkni
-oiranecs
-tllenoitaN
-LE
-,tetivitkeffelairetam lkni
-oiranecs
-tllenoitaN
-SCC
-natu
-,tetivitkeffelairetam
-songorp
-sgnoteB
-ksnevS
-.)2
-tsys(
-gnotebsuhsdatsobrelF
-laitnetoP
-lkni
-oiranecs
-tllenoitaN
-OIB
-,tetivitkeffelairetam
-lkni
-oiranecs
-tllenoitaN
-LE
-,tetivitkeffelairetam
-songorp
-s:IBS
-.)2
-tsys(
-gnotebsuhsdatsobrelF
-laitnetoP
-lkni
-oiranecs
-tllenoitaN
-OIB
-,tetivitkeffelairetam
-lkni
-oiranecs
-tllenoitaN
-LE
-,tetivitkeffelairetam
-songorp
-sasleC
-Sammanställning reduktionspotentialer
-Betong            Konstruktionsstål Armering
-BAT idag 2025 2030 2045
+
+Flerbostadshusbetong (syst 2).
+
+Potential
+
+Flerbostadshusbetong (syst 2).
+
+Potential, utan CCS
+
+Nationellt scenario inkl
+
+materialeffektivitet, BIO
+
+Nationellt scenario inkl
+
+materialeffektivitet, EL
+
+Nationellt scenario inkl
+
+materialeffektivitet, utan CCS
+
+Svensk Betongs prognos
+
+Flerbostadshusbetong (syst 2).
+
+Potential
+
+Nationellt scenario inkl
+
+materialeffektivitet, BIO
+
+Nationellt scenario inkl
+
+materialeffektivitet, EL
+
+SBI:s prognos
+
+Flerbostadshusbetong (syst 2).
+
+Potential
+
+Nationellt scenario inkl
+
+materialeffektivitet, BIO
+
+Nationellt scenario inkl
+
+materialeffektivitet, EL
+
+Celsas prognos
 
 <!-- sida 241 -->
 
@@ -12317,9 +12572,8 @@ Boverket
 Box 534, 371 23 Karlskrona
 Telefon: 0455-35 30 00
 Webbplats: www.boverket.se
-2202/8564
-rnd
-:dllätstsaF
+
+Fastställd: dnr 4658/2022
 
 <!-- sida 248 -->
 

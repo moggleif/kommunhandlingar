@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.19326c8b1a1302ccbfb7b783/1792140041
 sha256: c2b3d9bfd73480c292030bc0e32fb49bb6d86ff90a7dad0f1289bd93622a6c4f
 bytes: 63956656
 sidor: 656
-hamtad: 2026-11-06T10:10:19+00:00
-konverterad: 2026-11-06T10:18:16+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T09:50:48+00:00
+konverterad: 2026-11-08T09:58:55+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -8302,9 +8302,8 @@ Boverket
 Box 534, 371 23 Karlskrona
 Telefon: 0455-35 30 00
 Webbplats: www.boverket.se
-4202/3195
-rnd
-:dllätstsaF
+
+Fastställd: dnr 5913/2024
 
 <!-- sida 151 -->
 
@@ -17803,38 +17802,52 @@ a
 0     5.8     6.2
 6.4      6.2     6.2
 5.7              5.9     5.9     6.1                      6.1              5.8                      6.2     6.2     6.1     6.0      6.0 2 :4 2 6.0
-3
+HFO  Expansion                                                                                                                                   2026-09-08     3
 6.1      6.0     6.0
 5.9      5.9 83  5.9     25. : 7 1
 9
-Kungsparksvägen             8
-5.5      5.4     5.4     5.7
+KUNGSPARKSVäGEN
+1
+Kungspark
+5.5
+svägen
+5.4     5.4
+8
+5.7
+2
 5.8     5.4      5.5     5.7     5.6
-80
+9                                                                 80
 4.7
-4.5     4.5      4.8             5.3
+7                                                                                                     4.5     4.5      4.8             5.3
+3
 4.5
 4.7
 4.6     5.1     5.1
-H e 4.7 4.9 d e b 5.1 5.0
-ro
-v ä 4.8 4.8 4.7 4.7 g e n 5.0 4.9
+N
+E                                                                                                                                                                        H
+4.7         S V Ä G                                    14,0                                                                                                                       4.9 e d e b 5.1 5.0
+A
+L                                                                                                                                                                          ro
+A R E N D                                      7             8,4                                                                          4.8     4.8              4.7     4.7 v ä g e n 5.0 4.9
+8
 4.8              4.4     4.7     4.9      4.8
+Basic Wall [4484841]
+BBBaaasssiiiccc WWWaaallllll [[[444444888444888444111]]]
 4.6
 4.8     4.9     4.7
 30
-4.6              4.3     4.4     4.7     4.8
-4.4              4.6              4.4     4.4     4.8     4.3
+8                                                                                                             4.6              4.3     4.4     4.7     4.8
+242 PARKING SPACES PER LEVEL 2,6                                    4.4              4.6              4.4     4.4     4.8     4.3
 H
 e
 d
-e F
+8                                                                                           e F
 a
 4.4      4.3     4.4     4.6      3.9     4.1
 s
-h
-4.3
-io
+4
+6                                                                                           4.3
+h io
 n O u  4.4             4.1      4.3     4.6     4.3      4.2     4.6
 tle
 t
@@ -17842,20 +17855,344 @@ t
 1
 2
 4.2
-4.1      4.3     4.6     4.6     4.4      4.2     3.2
+UP                                                                                   4.1      4.3     4.6     4.6     4.4      4.2     3.2
+ARENDALSLEDEN                                       8
 4.0     4.1      4.2     4.1     3.8      3.9     4.6     4.5     4.0      3.0
+8
+5
 4.0     3.6      4.2     4.6     3.7      2.5
+10
 4.1             3.7     4.0      2.9     4.9     3.0
 4.1     4.3     4.2              3.9     4.2      3.8     3.5     5.4
-4.0                      3.6     3.7      3.5     3.6
-3.8     3.5     3.4      3.6
-4.4    V A 4.3  4.2      4.1     4.3     4.5      4.1     2.7     3.5     3.9                                                   s
-R
+N
+ILLUSTRATIONSPLAN                                                                                                                     G E                    4.0                      3.6     3.7      3.5     3.6
+Ä
+V
+S
+R K                                             3.8     3.5     3.4      3.6
+A
+1\. Befintlig fastighetsgräns                        1. EXIS 8 T . ING R P e R g O n P v ER ä T x Y t b B ä O d U 4 N . d 4 DARY V A 4.3 4.2 4.1 4.3 4.5 4.1 2.7 G S P 3.5 3.9                     s
+2
+4
+3
+5
+.
+.
+.
+. 0
+S C F B
+N
+P
+A ö
+o
+e
+y
+r fi
+t
 L
-3.5     3.0     1.2
-4.4           A 4.4     4.3      4.2     4.3     4.5      4.7     3.1     3.5     3.8      3.9     3.9     3.9      3.7     2.8     1.5
-4.4     4.4      4.3     4.3     4.4      4.8     3.8     3.8      4.0     4.0     3.9     3.8      2.8     1.1
-4.5      4.4     4.4     4.2     4.4      4.7     4.1     3.4      4.0     3.8     3.5     2.5      0.8
+1
+e
+i
+e
+n
+n
+0
+E s
+n
+t
+\-
+l l a
+t
+o
+i
+i
+g g
+e
+1
+c
+e :
+l
+h
+p
+l
+1
+2
+n
+f
+0 l
+u
+0
+a
+r
+n
+a
+0
+t
+c
+m
+f
+y e 0
+a
+r f
+r
+t
+i a
+t
+i
+n
+d
+s g t
+a
+i g a
+u
+h v
+t
+e
+f
+b
+a
+t u
+r
+s
+t
+g s s
+t
+r
+i
+h ä
+ll
+n å
+5 A
+l s l
+0 r
+p
+e
+l
+n
+at
+d
+s
+a
+.
+l
+F
+s
+l
+l
+y
+e
+t
+d
+ta
+e
+s
+n
+till Kungsparksv
+1
+ä
+0
+g
+0
+en.
+2
+3
+4
+5 6
+.
+.
+. .
+.
+M
+P
+P
+P Z
+N
+O
+R
+R
+O O
+E
+V
+W
+O
+E
+T N
+9 1E V
+P
+E E
+D . 0
+N
+I
+O
+E
+O .
+F T
+N
+S
+T U
+O I
+T
+E
+P PO
+A
+S
+R
+D
+R
+r l
+L
+a K o
+A
+L
+E
+N
+U n
+F
+O
+N
+A
+j
+E
+Ne
+U
+C
+C
+S
+t
+W
+G A
+T
+E
+e k
+E
+S
+U
+T
+M
+4 t r .4
+A
+P
+P
+R
+g I i
+E
+O n
+R
+C
+A
+E N
+r N
+C
+O
+g Rä
+T
+E
+E
+P
+K O n a
+S
+X
+E
+S F r
+S
+s
+I
+R
+O T
+V ,
+T
+N
+T p ä
+Y
+T
+H G l
+S O
+E a E
+H
+B
+N n B
+A A
+O
+. k U
+U
+R R
+S
+N
+E E
+o
+N D
+D
+S c
+D
+A
+T
+P
+h
+A
+R
+O
+A L
+Y
+P s
+R S
+e .
+K L E
+T
+I
+r
+N
+R
+v
+D
+H
+G
+L
+E
+i IS c
+N
+A e W g IL å L4.4 r d BE
+4.4
+4.3
+4.4
+4.2
+4.3
+4.3
+4.3
+4.5
+4.4
+4.7
+4.8
+K U
+N
+3.1
+3.8 A R E N
+3.5
+D
+ALS
+3.8
+LEDE 3.8N
+4.0
+3.9
+4.0
+3.9
+3.9
+3.9
+3.8
+3.7
+2\.
+3
+8
+.5
+2.8
+1\.
+3
+1
+.0
+1.5
+1.2
+6.M EOTmEråRdSe för servitut för gemensam parkering 7. CANTILEVERED CANOPY                                  SKALA 1:1000 @A3
+4    7. Utkragande skärmtak                              8 9 . . R LA A N IN D S B C E A D PE PLANTINGS, FENCE AND SERVICE YARD 4.5 4.4 4.4 (m) 0 4 .2 10 20 4.4 4.7 50 4.1 3.4 100 4.0 3.8 3.5 2.5 0.8
+10\. PROJECT BOUNDARY
 4.1      4.4     4.5     4.5     4.3      4.6     4.7     2.4      3.8     3.2     2.1      0.8
 2
 4.2     4.3
@@ -17889,173 +18226,26 @@ L
 1.1      3.3     4.2
 2.2      3.5
 3.3
-BBaassiicc WWaallll [[44448844884411]] ]]]111444888444888444444[[[ llllllaaaWWW ccciiisssaaaBBB Basic Wall [4484841]
+
+40 PARKING SPACES
+
+20,0
+
+2,5
+
 BBBaaasssiiiccc WWWaaallllll [[[444444888444888444111]]]
-SECAPS
-GNIKRAP
-04
-8,4
-242 PARKING SPACES PER LEVEL
-0,02
-0,8         0,31
-5,91
-14,0
-5,2
-0,7
-2,6 NWOD
-HFO  Expansion                                                                                                                                   2026-09-08
-KUNGSPARKSVäGEN
-1
-2
-9
-7
-3
-N
-E G Ä V S
-L
-A
-D N E R                                       7 A
-8
-8
-8
-4
-6
-UP
-ARENDALSLEDEN                                       8
-8
-5
-10
-N
-E ILLUSTRATIONSPLAN G
-Ä
-V
-S
-K R
-A
-P 1. Befintlig fastighetsgräns 1. EXIS 8 T . ING R P e R g O n P v ER ä T x Y t b B ä O d UN d DARY G S
-2\. PROPOSED NEW PROPERTY BOUNDARY                                         N
-2\. Föreslagen ny fastighetsgräns                       9. Planteringar, plank och servicegård                                 U SCALE 1:1000 3. PREVIOUS LOCATION OF THE BUS STOP. THIS WILL BE K
-4
-3
-.
-.
-0
-B
-N
-e
-y
-fi
-1
-i
-n
-n
-0
-t
-\-
-l
-o
-ig
-c h
-p
-2
-l
-u
-0
-a
-t
-c
-f
-e
-a
-r
-r
-i
-t
-ng av busshå
-5
-ll
-0
-plats. Flyttas till Kungsparksv
-1
-ä
-0
-g
-0
-en.
-4
-5\.
-.
-M
-P
-N
-O
-O
-E
-V
-W
-T
-1E
-E
-D0
-N
-E
-.
-T
-N
-T
-I
-T
-PO
-A
-R
-r
-L
-Ko
-A
-U
-F
-N
-jNe
-U
-C
-G
-T
-E
-kS
-U
-t
-A
-P
-R
-g
-C
-A
-E
-r
-C
-Rä
-E
-E
-Kn
-S
-X
-S
-S
-s
-IT
-V ä
-T
-G
-O
-E N
-A
-.
-RENDALSLEDEN                                                        D
-ALSLEDEN
-5\. Potentiell framtida utfart till Arendalsleden    6. ZONE FOR EASEMENT ON SHARED PARKING                                            R E N A
-6.M EOTmEråRdSe för servitut för gemensam parkering 7. CANTILEVERED CANOPY                                  SKALA 1:1000 @A3
-(m) 7. Utkragande skärmtak 8. RAIN BED 4 9. LANDSCAPE PLANTINGS, FENCE AND SERVICE YARD 0 10 20 50 100
-10\. PROJECT BOUNDARY
+
+8,0
+
+13,0
+
+19,5
+
+7,0
+
+BBaass iicc WW aa llll [[44448844884411 ]]
+
+NWOD
 
 <!-- sida 357 -->
 
@@ -20459,13 +20649,27 @@ föreligga där.
 
 <!-- sida 416 -->
 
+Bilaga 1:1
+
+Sammanställning
+Odränerad skjuvhållfasthet, korrigerad (kPa)
+Sydöstra centrum
+Sektion D
 0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
 
 5
+NC 2110 CPT Tfu,korr
+NC 2111 CPT Tfu,korr
 
-0
+HG 1 Vb Tfu,korr
+0                                     SCC 4 Kon, Tfu,korr
 
+SCC 106 Vb Tfu,korr
+SCC 107 Vb Tfu,korr
+
+HG 1 Kon, Tfu,korr
 -5
+Vald Tfu sektion D
 
 -10
 
@@ -20482,21 +20686,8 @@ föreligga där.
 -40
 
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
-)m(
-åviN
-Bilaga 1:1
-Sammanställning
-Odränerad skjuvhållfasthet, korrigerad (kPa)
-Sydöstra centrum
-Sektion D
-NC 2110 CPT Tfu,korr
-NC 2111 CPT Tfu,korr
-HG 1 Vb Tfu,korr
-SCC 4 Kon, Tfu,korr
-SCC 106 Vb Tfu,korr
-SCC 107 Vb Tfu,korr
-HG 1 Kon, Tfu,korr
-Vald Tfu sektion D
+
+Nivå (m)
 
 <!-- sida 417 -->
 
@@ -20506,13 +20697,8 @@ Vald Tfu sektion D
 
 <!-- sida 420 -->
 
-1.58
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 3:1
+
 Color Name Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Su-Maximum/Minimum Piezometric Datum Cohesion-Datum Su at Effective Effective Constant
 Material Model Weight of Layer (kPa) of Change of Change (kPa) Surface (Elevation) (kPa) Datum Cohesion Friction Unit Wt.
 (kN/m³) ((kN/m²)/m) Layer ((kN/m²)/m) (m)   (kPa) (kPa) Angle (°) Above
@@ -20528,7 +20714,9 @@ Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m
 Vägkropp Mohr-Coulomb 22                1                 0  34  18
+1.58
 Planområdesgräns
+
 6
 NC2110                NC2111
 14 kPa
@@ -20545,9 +20733,12 @@ NC2110                NC2111
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsDz istance
 Senast redigerad: 2025-09-28, 18:29:58
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 420-1](handlingar.tabeller/420-1.csv)
 
@@ -20564,13 +20755,8 @@ Skapad av: Elham Sokhango                                                       
 
 <!-- sida 421 -->
 
-1.57
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 3:2
+
 Color Name Slope Stability Material Model Unit Cohesion-Top Cohesion-Rate Effective Su-Top Su-Rate of c'/Su Piezometric Datum Cohesion-Datum Su-Datum Effective Constant
 Weight of Layer (kPa) of Change Friction of Change Ratio Surface (Elevation) (kPa) (kPa) Cohesion Unit Wt.
 (kN/m³) ((kN/m²)/m) Angle (°) Layer ((kN/m²)/m) (m) (kPa) Above
@@ -20586,7 +20772,9 @@ Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m
 Vägkropp Mohr-Coulomb 22     34           1                  0   18
+1.57
 Planområdesgräns
+
 6
 NC2110                NC2111
 14 kPa
@@ -20603,9 +20791,12 @@ NC2110                NC2111
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsDz istance
 Senast redigerad: 2025-09-28, 18:29:58
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 421-1](handlingar.tabeller/421-1.csv)
 
@@ -20622,12 +20813,6 @@ Skapad av: Elham Sokhango                                                       
 
 <!-- sida 422 -->
 
-1.57
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:1
 Color Name Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric Datum Cohesion-Datum Su at Effective Constant
 Material Model Weight of Layer (kPa) of Change of Change Surface (Elevation) (kPa) Datum Friction Unit Wt.
@@ -20656,6 +20841,7 @@ Stödmur High Strength 24       1
 Torrskorpelera S=f(depth) 18 20 0 20 0 1
 odrän
 Vägkropp Mohr-Coulomb 22       1               34 18
+1.57
 Pålgrundlagd P-HUS
 Planområdesgräns
 Hantverksgatan
@@ -20673,19 +20859,17 @@ Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsDz istance
 Senast redigerad: 2025-09-30, 07:34:34
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
 
+Elevation
+
 <!-- sida 423 -->
 
-1.55
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:2
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum Constant
 Weight Friction of Change Ratio Surface (Elevation) (kPa) Unit Wt.
 (kN/m³) Angle Layer ((kN/m²)/m) (m) Above
@@ -20699,9 +20883,11 @@ Planerade förhållanden                                            4.5
 Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m
-Vägkropp Mohr-Coulomb 22 34   1          18
+Vägkropp Mohr-Coulomb 22 34   1          18   1.55
 Pålgrundlagd P-HUS
+
 Planområdesgräns
+
 Hantverksgatan
 6
 4                                                        Marklast: 10 kPa   14 kPa
@@ -20717,9 +20903,13 @@ Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsDz istance
 Senast redigerad: 2025-09-30, 07:34:34
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 423-1](handlingar.tabeller/423-1.csv)
 
@@ -20737,13 +20927,8 @@ Skapad av: Elham Sokhango                                                       
 
 <!-- sida 424 -->
 
-1.54
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:3
+
 Color Name Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric Datum Cohesion-Datum Su at Effective Constant
 Material Model Weight of Layer (kPa) of Change of Change Surface (Elevation) (kPa) Datum Friction Unit Wt.
 (kN/m³) ((kN/m²)/m) Layer ((kN/m²)/m) (m) (kPa) Angle Above
@@ -20759,8 +20944,10 @@ Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m
 Vägkropp Mohr-Coulomb 22      1                34 18
+1.54
 Pålgrundlagd P-HUS
 Planområdesgräns
+
 6
 Hantverksgatan
 4
@@ -20777,9 +20964,12 @@ Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz Distance
 Senast redigerad: 2025-09-30, 07:34:34
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 424-1](handlingar.tabeller/424-1.csv)
 
@@ -20797,13 +20987,8 @@ Skapad av: Elham Sokhango                                                       
 
 <!-- sida 425 -->
 
-1.53
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:4
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum Constant
 Weight Friction of Change Ratio Surface (Elevation) (kPa) Unit Wt.
 (kN/m³) Angle Layer ((kN/m²)/m) (m) Above
@@ -20817,9 +21002,11 @@ Planerade förhållanden utan marklast                              4.5
 Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m
-Vägkropp Mohr-Coulomb 22 34   1          18
+Vägkropp Mohr-Coulomb 22 34   1          18   1.53
 Pålgrundlagd P-HUS
+
 Planområdesgräns
+
 6
 Hantverksgatan
 4
@@ -20836,9 +21023,12 @@ Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion D 2025.gsz Distance
 Senast redigerad: 2025-09-30, 07:34:34
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 425-1](handlingar.tabeller/425-1.csv)
 
@@ -20856,13 +21046,8 @@ Skapad av: Elham Sokhango                                                       
 
 <!-- sida 426 -->
 
-1.53
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:5
+
 Color Name Slope Stability Unit Su-Top Su-Rate of Piezometric Datum Su at Effective Constant
 Material Model Weight of Change Surface (Elevation) Datum Friction Unit Wt.
 (kN/m³) Layer ((kN/m²)/m) (m) (kPa) Angle (°) Above
@@ -20874,12 +21059,14 @@ Sektion G
 Analysis Type:
 Odränerad analys
 Planerade förhållanden - Marklast inom                        4.5
-planområdet
+planområdet                                                          1.53
 Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m
 Vägkropp Mohr-Coulomb 22 1        34  18
+
 Planområdesgräns
+
 6
 Marklast: 10 kPa            Hantverksgatan
 4
@@ -20896,9 +21083,12 @@ Marklast: 10 kPa            Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
 Senast redigerad: 2026-05-13, 18:29:21
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 426-1](handlingar.tabeller/426-1.csv)
 
@@ -20916,13 +21106,8 @@ Skapad av: Elham Sokhango                                                       
 
 <!-- sida 427 -->
 
-1.53
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:6
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum Constant
 Weight Friction of Change Ratio Surface (Elevation) (kPa) Unit Wt.
 Sydöstra centrum                        (kN/m³) Angle (°) Layer ((kN/m²)/m) (m) Above
@@ -20944,6 +21129,7 @@ Lera 4 komb Combined, S=f(datum) 16 30 1.3 0.1 1 -12 18
 Stödmur High Strength 24        1
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
+1.53
 Vägkropp Mohr-Coulomb 22 34     1           18
 Planområdesgräns
 6
@@ -20962,19 +21148,17 @@ Marklast: 10 kPa            Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
 Senast redigerad: 2026-05-13, 18:29:21
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
 
+Elevation
+
 <!-- sida 428 -->
 
-1.50
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:7
+
 Color                                   Constant
 Unit Wt.
 Above
@@ -20986,12 +21170,14 @@ Sektion G
 Analysis Type:
 Odränerad analys
 Planerade förhållanden - Ogynnsam                             4.5
-lastplacering
+lastplacering                                                        1.50
 Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m
 Vägkropp Mohr-Coulomb 22 1        34  18
+
 Planområdesgräns
+
 6
 Marklast: 10 kPa            Hantverksgatan
 4
@@ -21008,9 +21194,12 @@ Marklast: 10 kPa            Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
 Senast redigerad: 2026-05-13, 18:29:21
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 428-1](handlingar.tabeller/428-1.csv)
 
@@ -21029,20 +21218,15 @@ Skapad av: Elham Sokhango                                                       
 
 <!-- sida 429 -->
 
-1.50
-
-0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
-
-Distance
-noitavelE
 Bilaga 4:8
+
 Sydöstra centrum
 107 33 89
 Sektion G
 Analysis Type:
 Kombinerad analys
 Planerade förhållanden - Ogynnsam
-lastplacering
+lastplacering                                                        1.50
 Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup:1 m Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum Constant
@@ -21053,6 +21237,7 @@ Surface
 (kN/m³)
 4.5
 Planområdesgräns
+
 Vägkropp Mohr-Coulomb 22 34     1           18
 6
 Marklast: 10 kPa            Hantverksgatan
@@ -21070,9 +21255,12 @@ Marklast: 10 kPa            Hantverksgatan
 -16
 -18
 -20
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz
+0    5    10  15   20   25   30   35   40   45   50   55  60   65   70   75   80   85   90
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion G 2025.gsz Distance
 Senast redigerad: 2026-05-13, 18:29:21
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:400
+
+Elevation
 
 [Tabell 429-1](handlingar.tabeller/429-1.csv)
 
@@ -21828,75 +22016,84 @@ Elham Sokhango               Katarina Engerberg
 
 <!-- sida 454 -->
 
-0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
-
-5
-
-0
-
--5
-
--10
-
--15
-
--20
-
--25
-
--30
-
--35
-
--40
-
-N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
-)m(
-åviN
 Bilaga 1:1
+
 Sammanställning
 Odränerad skjuvhållfasthet, korrigerad (kPa)
 Sydöstra centrum
 Sektion A, B, E och F
+0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
+
+5
 NC 2101 CPT
 Tfu,korr
 NC 2102 CPT
 Tfu,korr
+0
 NC 2102 Kon,
 Tfu,korr
 NC 2102 Vb
 Tfu,korr
-NC 2103 CPT
+
+-5                                          NC 2103 CPT
 Tfu,korr
 NC 2104 Kon,
 Tfu,korr
 NC 2104 CPT
-Tfu,korr
+-10                                          Tfu,korr
+
 NC 2105 CPT
 Tfu,korr
 NC 2106 CPT
 Tfu,korr
+-15
 NC 1 CPT
 Tfu,korr
 NC 2 Vb Tfu,korr
-NC 3 CPT
+
+-20                                          NC 3 CPT
 Tfu,korr
+
 NC 2308 CPT
 Tfu,korr
 NC 2309 Vb
+-25
 Tfu,korr
 Vald Tfu sektion
 A, B, E och F
 
+-30
+
+-35
+
+-40
+
+N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
+
+Nivå (m)
+
 <!-- sida 455 -->
 
+Bilaga 1:2
+
+Sammanställning
+Odränerad skjuvhållfasthet, korrigerad (kPa)
+Sydöstra centrum
+Sektion C
 0   5  10  15  20  25  30 35  40  45  50  55 60  65  70
 
 5
 
-0
+NC 2107 CPT Tfu,korr
 
+NC 2108 Kon, Tfu,korr
+0
+NC 2108 CPT Tfu,korr
+
+NC 2109 CPT Tfu,korr
 -5
+
+Vald Tfu sektion C
 
 -10
 
@@ -21913,18 +22110,8 @@ A, B, E och F
 -40
 
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Copy of Sammanställning hållfparametrar - djup senaste.xlsx
-)m(
-åviN
-Bilaga 1:2
-Sammanställning
-Odränerad skjuvhållfasthet, korrigerad (kPa)
-Sydöstra centrum
-Sektion C
-NC 2107 CPT Tfu,korr
-NC 2108 Kon, Tfu,korr
-NC 2108 CPT Tfu,korr
-NC 2109 CPT Tfu,korr
-Vald Tfu sektion C
+
+Nivå (m)
 
 <!-- sida 456 -->
 
@@ -21939,18 +22126,8 @@ Box8774,40276Göteborg www.norconsult.se
 
 <!-- sida 457 -->
 
-1.84
-
-Torrskorpelera odrän                                                  Torrskorpelera odrän
-
-Lera 1 odrän                                               Gyttja odrän
-
-Lera 2 odrän
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 3:1
+
 Color Name Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric
 Material Model Weight of Change (kPa) Surface
 (kN/m³) Layer ((kN/m²)/m)
@@ -21965,37 +22142,38 @@ Lera 2 odrän S=f(depth) 16 12 0.8 0 1
 Morgenstern-Price
 Totalsäkerhetsanalys       Torrskorpelera S=f(depth) 18 20 0 0 1
 Minsta glidytedjup: 1 m    odrän
-GC-väg                                      GC-väg
+1.84   GC-väg                                      GC-väg
 5 kPa
+
 5
+
 3
-1
+1Torrskorpelera odrän                                                 Torrskorpelera odrän
+
 -1
+Lera 1 odrän                                               Gyttja odrän
 -3
 -5
 -7
--9
+
+-9                                                       Lera 2 odrän
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2025-07-18, 10:37:56
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 458 -->
 
-1.51
-
-Torrskorpelera komb                                                   Torrskorpelera komb
-
-Lera 1 komb                                                Gyttja komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 3:2
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric
 Weight Friction of Change Ratio Surface
 (kN/m³) Angle (°) Layer ((kN/m²)/m)
@@ -22009,36 +22187,38 @@ Morgenstern-Price
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 Totalsäkerhetsanalys       komb
 Minsta glidytedjup: 1 m
+
 GC-väg                                      GC-väg
+
 5
+1.51
 3
-1
+1Torrskorpelera komb                                                  Torrskorpelera komb
+
 -1
+Lera 1 komb                                                Gyttja komb
 -3
 -5
 -7
--9
+
+-9                                                       Lera 2 komb
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2025-07-18, 10:37:56
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:300
 
+Elevation
+
 <!-- sida 459 -->
 
-2.01
-
-Torrskorpeleran odrän
-Torrskorpeleran odrän
-Lera 1 odrän
-
-Lera 2 odrän
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
-Distance
-noitavelE
 Bilaga 3:3
+
 Color Name    Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric Datum C-Datum
 Sydöstracentrum                       Material Model Weight of Layer Change (kPa) Surface (Elevation) (kPa)
 107 47 61                                      (kN/m³) (kPa) ((kN/m²)/m)          (m)
@@ -22049,39 +22229,40 @@ Morgenstern-Price           Lera 2 odrän S=f(datum) 16     0.8    0       1    
 Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m     Torrskorpeleran S=f(depth) 18 20 0    0       1
 odrän
+
 GC-väg
 Väg
+2.01
 15 kPa
 5 kPa
 5
 3
-1
--1
+Torrskorpeleran odrän
+1       Torrskorpeleran odrän
+-1                                           Lera 1 odrän
 -3
+
 -5
 -7
--9
+
+-9                                          Lera 2 odrän
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
 Senast redigerad: 2025-07-18, 16:15:30
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 460 -->
 
-1.44
-
-Torrskorpelera komb
-Torrskorpelera komb
-Lera 1 komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
-Distance
-noitavelE
 Bilaga 3:4
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum
 Sydöstracentrum                                     Weight Friction of Layer Change Ratio Surface (Elevation) (kPa)
 107 47 61                                           (kN/m³) Angle (°) (kPa) ((kN/m²)/m) (m)
@@ -22092,41 +22273,39 @@ Morgenstern-Price
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 Totalsäkerhetsanalys           komb
 Minsta glidytedjup: 1 m
+
 GC-väg
 Väg
-5
+
+5                               1.44
+
 3
-1
--1
+Torrskorpelera komb
+1       Torrskorpelera komb
+-1                                           Lera 1 komb
 -3
+
 -5
 -7
--9
+
+-9                                          Lera 2 komb
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
 Senast redigerad: 2025-07-18, 16:15:30
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 461 -->
 
-1.85
-
-Torrskorpelera odrän          LeraF 1y lolndirnägn  Fyllning Torrskorpelera odrän
-
-Lera 1 odrän
-
-Gyttja odrän
-
-Lera 2 odrän
-
-Lera 3 odrän
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 3:5
+
 Color Name Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric Datum C-Datum Effective Effective
 Material Model Weight of Change (kPa) Surface (Elevation) (kPa) Cohesion Friction
 (kN/m³) Layer ((kN/m²)/m) (m) (kPa) Angle (°)
@@ -22144,40 +22323,36 @@ Torrskorpelera S=f(depth) 18 20 0 0 1
 Totalsäkerhetsanalys
 odrän
 Minsta glidytedjup: 1 m
+1.85
 GC-last: 5 kPa Trafiklast: 15 kPa
 5
 3
-1
+1           Torrskorpelera odrän          LeraF 1y lolndirnägn  Fyllning Torrskorpelera odrän
+
 -1
+Lera 1 odrän
 -3
 -5
 -7
+Gyttja odrän
 -9
+Lera 2 odrän
 -11
+Lera 3 odrän
 -13
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
 Senast redigerad: 2025-07-18, 08:46:59
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:300
 
+Elevation
+
 <!-- sida 462 -->
 
-1.78
-
-Torrskorpelera komb           LeraF 1y lklnoimngb   Fyllning Torrskorpelera komb
-
-Lera 1 komb
-
-Gyttja komb
-
-Lera 2 komb
-
-Lera 3 komb
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 3:6
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum Effective
 Weight Friction of Change Ratio Surface (Elevation) (kPa) Cohesion
 (kN/m³) Angle (°) Layer ((kN/m²)/m) (m) (kPa)
@@ -22194,35 +22369,36 @@ Minsta glidytedjup: 1 m
 Lera 3 komb Combined, S=f(datum) 16 30 1.2 0.1 1 -10 16
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
+1.78
 5
+
 3
-1
+1           Torrskorpelera komb           LeraF 1y lklnoimngb   Fyllning Torrskorpelera komb
+
 -1
+Lera 1 komb
 -3
 -5
 -7
+Gyttja komb
 -9
+Lera 2 komb
 -11
+Lera 3 komb
 -13
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
 Senast redigerad: 2025-07-18, 08:46:59
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 463 -->
 
-1.98
-
-Torrskorpelera odr
-Lera 1 odr
-Gyttja odr
-
-Lera 2 odr
-
-0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
-Distance
-noitavelE
 Bilaga 3:7
+
 Color Name Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric
 Material Model Weight of Change (kPa) Surface
 (kN/m³) Layer ((kN/m²)/m)
@@ -22236,36 +22412,37 @@ Befintliga förhållanden           Torrskorpelera S=f(depth) 18 20 0 0 1
 Morgenstern-Price                 odr
 Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m
+1.98
+
 GC-väg
 5
 3
-1
+Torrskorpelera odr
+Lera 1 odr
+1                                                             Gyttja odr
 -1
 -3
 -5
--7
+-7                                           Lera 2 odr
+
 -9
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
 Senast redigerad: 2025-07-18, 14:45:59
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:300
 
+Elevation
+
 <!-- sida 464 -->
 
-1.83
-
-Torrskorpelera komb
-Lera 1 komb
-Gyttja komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
-Distance
-noitavelE
 Bilaga 3:8
+
 Color Name  Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric
 Weight Friction of Layer Change Ratio Surface
 (kN/m³) Angle (°) (kPa) ((kN/m²)/m)
@@ -22278,37 +22455,38 @@ Morgenstern-Price
 Totalsäkerhetsanalys         Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
 Minsta glidytedjup: 1 m
+
+1.83
+
 GC-väg
 5
 3
-1
+Torrskorpelera komb
+Lera 1 komb
+1                                                            Gyttja komb
 -1
 -3
 -5
--7
+-7                                          Lera 2 komb
+
 -9
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
 Senast redigerad: 2025-07-18, 14:45:59
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 465 -->
 
-1.82
-
-Sprängsten
-Fyllning
-Torrskorpelera odr
-Gyttja odr
-
-Lera 2 odr
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 3:9
+
 Color Name Slope Stability Unit C-Top C-Rate of Piezometric Effective Effective Constant
 Material Model Weight of Change Surface Cohesion Friction Unit Wt.
 (kN/m³) Layer ((kN/m²)/m) (kPa) Angle (°) Above
@@ -22326,31 +22504,34 @@ Minsta glidytedjup: 1 m
 Sprängsten Mohr-Coulomb 21   1      0    34   18
 Torrskorpelera S=f(depth) 18 20 0 1
 odr
+1.82
 Tåglast: 28,9 kPa och 34 kPa
 5
+Sprängsten
+Fyllning
+Torrskorpelera odr
 0
+Gyttja odr
+
 -5
+
+Lera 2 odr
 -10
+
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
 Senast redigerad: 2025-07-18, 09:34:29
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:300
 
+Elevation
+
 <!-- sida 466 -->
 
-2.62
-
-Sprängsten
-Fyllning
-Torrskorpelera komb
-Gyttja komb
-
-Lera 2 komb
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 3:10
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Effective Constant
 Weight Friction of Change Ratio Surface Cohesion Unit Wt.
 (kN/m³) Angle (°) Layer ((kN/m²)/m) (kPa) Above
@@ -22367,29 +22548,35 @@ Sprängsten Mohr-Coulomb 21 34             1     0    18
 Minsta glidytedjup: 1 m
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
+2.62
+
 5
+
+Sprängsten
+Fyllning
+Torrskorpelera komb
 0
+Gyttja komb
+
 -5
+
+Lera 2 komb
 -10
+
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
 Senast redigerad: 2025-07-18, 09:34:29
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 467 -->
 
-1.68
-
-Torrskorpelera odrän                                                  Torrskorpelera odrän
-
-Lera 1 odrän                                               Gyttja odrän
-
-Lera 2 odrän
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 4:1
+
 Color Name  Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric
 Material Model Weight of Change (kPa) Surface
 (kN/m³) Layer ((kN/m²)/m)
@@ -22406,37 +22593,36 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m      Torrskorpelera S=f(depth) 18 20 0 0   1
 odrän
 GC-väg                                      GC-väg
+1.68
 5 kPa
 5                                      Parklast: 5 kPa
 Parklast: 5 kPa
 3
-1
+1Torrskorpelera odrän                                                 Torrskorpelera odrän
 -1
+Lera 1 odrän                                               Gyttja odrän
 -3
 -5
 -7
--9
+
+-9                                                       Lera 2 odrän
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2025-07-18, 10:37:56
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 468 -->
 
-1.51
-
-Torrskorpelera komb                                                   Torrskorpelera komb
-
-Lera 1 komb                                                Gyttja komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 4:2
+
 Color Name  Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric
 Weight Friction of Layer Change Ratio Surface
 Sydöstracentrum                                      (kN/m³) Angle (°) (kPa) ((kN/m²)/m)
@@ -22450,37 +22636,38 @@ Morgenstern-Price             Lera 2 komb Combined, S=f(depth) 16 30 12 0.8 0.1 
 Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m       Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
+
 GC-väg                                      GC-väg
+
 5
+1.51
 3
-1
+1Torrskorpelera komb                                                  Torrskorpelera komb
+
 -1
+Lera 1 komb                                                Gyttja komb
 -3
 -5
 -7
--9
+
+-9                                                       Lera 2 komb
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2025-07-18, 10:37:56
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 469 -->
 
-1.73
-
-Torrskorpeleran odrän
-Torrskorpeleran odrän
-Lera 1 odrän
-Lera 1 odrän
-
-Lera 2 odrän
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
-Distance
-noitavelE
 Bilaga 4:3
+
 Color Name Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric Datum C-Datum
 Sydöstracentrum                       Material Model Weight of Layer Change (kPa) Surface (Elevation) (kPa)
 107 47 61                                     (kN/m³) (kPa) ((kN/m²)/m)  (m)
@@ -22491,37 +22678,38 @@ Morgenstern-Price
 Torrskorpeleran S=f(depth) 18 20 0 0 1
 Totalsäkerhetsanalys           odrän
 Minsta glidytedjup: 1 m
+
+1.73
 GC-last: 5 kPa    Trafiklast: 15 kPa
 5                                      Parklast: 5 kPa
+
 3
-1
+Torrskorpeleran odrän
+1       Torrskorpeleran odrän
+Lera 1 odrän
 -1
+Lera 1 odrän
 -3
 -5
 -7
--9
+-9                                          Lera 2 odrän
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
 Senast redigerad: 2025-07-18, 16:23:26
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 470 -->
 
-1.44
-
-Torrskorpelera komb
-Torrskorpelera komb
-Lera 1 komb
-Lera 1 komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
-Distance
-noitavelE
 Bilaga 4:4
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum
 Sydöstracentrum                                     Weight Friction of Layer Change Ratio Surface (Elevation) (kPa)
 107 47 61                                           (kN/m³) Angle (°) (kPa) ((kN/m²)/m) (m)
@@ -22532,29 +22720,36 @@ Morgenstern-Price
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 Totalsäkerhetsanalys           komb
 Minsta glidytedjup: 1 m
-5
+
+5                               1.44
+
 3
-1
+Torrskorpelera komb
+1       Torrskorpelera komb
+Lera 1 komb
 -1
+Lera 1 komb
 -3
 -5
 -7
--9
+-9                                          Lera 2 komb
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
 Senast redigerad: 2025-07-18, 16:23:26
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 471 -->
 
-1.83
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 4:5
+
 Color Name Slope Stability Unit C-Top C-Rate of Piezometric Datum C-Datum Effective Effective
 Material Model Weight of Change Surface (Elevation) (kPa) Cohesion Friction
 (kN/m³) Layer ((kN/m²)/m) (m) (kPa) Angle (°)
@@ -22570,42 +22765,38 @@ Morgenstern-Price         Lera 3 odrän S=f(datum) 16 1.2 1 -10 16
 Totalsäkerhetsanalys
 Torrskorpelera S=f(depth) 18 20 0 1
 Minsta glidytedjup: 1 m   odrän
+1.83
 GC-last: 5 kPa
 Trafiklast: 15 kPa
 Parklast: 5 kPa
 5
 3
 1
+
 -1
 -3
+
 -5
 -7
+
 -9
 -11
 -13
+
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
 Senast redigerad: 2025-07-18, 08:46:59
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 472 -->
 
-1.78
-
-Torrskorpelera komb           LeraF 1y lklnoimngb   Fyllning Torrskorpelera komb
-
-Lera 1 komb
-
-Gyttja komb
-
-Lera 2 komb
-
-Lera 3 komb
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 4:6
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum Effective
 Weight Friction of Change Ratio Surface (Elevation) (kPa) Cohesion
 (kN/m³) Angle (°) Layer ((kN/m²)/m) (m) (kPa)
@@ -22621,35 +22812,37 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m    Lera 3 komb Combined, S=f(datum) 16 30 1.2 0.1 1 -10 16
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
+
+1.78
 5
+
 3
-1
+1           Torrskorpelera komb           LeraF 1y lklnoimngb   Fyllning Torrskorpelera komb
+
 -1
+Lera 1 komb
 -3
 -5
 -7
+Gyttja komb
 -9
+Lera 2 komb
 -11
+Lera 3 komb
 -13
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
 Senast redigerad: 2025-07-18, 08:46:59
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 473 -->
 
-1.76
-
-Torrskorpelera odr
-Lera 1 odr
-Gyttja odr
-
-Lera 2 odr
-
-0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
-Distance
-noitavelE
 Bilaga 4:7
+
 Color Name   Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric
 Material Model Weight of Layer (kPa) of Change of Layer Change Surface
 Sydöstracentrum                                   (kN/m³)       ((kN/m²)/m) (kPa) ((kN/m²)/m)
@@ -22663,37 +22856,39 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m
 Torrskorpelera S=f(depth) 18 20 0         20   0      1
 odr
+1.76
+
 GC-väg
+
 Parklast: 5 kPa
 5
 3
-1
+Torrskorpelera odr
+Lera 1 odr
+1                                                             Gyttja odr
 -1
 -3
 -5
--7
+-7                                           Lera 2 odr
+
 -9
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
 Senast redigerad: 2026-05-16, 10:04:28
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 474 -->
 
-1.82
-
-Torrskorpelera komb
-Lera 1 komb
-Gyttja komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
-Distance
-noitavelE
 Bilaga 4:8
+
 Color Name   Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric
 Weight Friction of Layer Change Ratio Surface
 (kN/m³) Angle (°) (kPa) ((kN/m²)/m)
@@ -22707,30 +22902,39 @@ Totalsäkerhetsanalys
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 Minsta glidytedjup: 1 m
 komb
+1.82
+
 GC-väg
+
 5
+
 3
-1
+Torrskorpelera komb
+Lera 1 komb
+1                                                            Gyttja komb
 -1
 -3
 -5
--7
+-7                                          Lera 2 komb
+
 -9
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
 Senast redigerad: 2026-05-16, 10:04:28
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 475 -->
 
-1.60
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 5:1
+
 Sydöstracentrum
 107 47 61
 Sektion A
@@ -22739,39 +22943,40 @@ Planerade förhållanden - Marklast
 Morgenstern-Price
 Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m
+
 GC-väg
-GC-väg
+1.60                                              GC-väg
 5 kPa
+
 12.5 m        Marklast: 10 kPa (0,5 m)
 5
 3
 1
+
 -1
 -3
+
 -5
 -7
+
 -9
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2025-07-18, 10:37:56
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 476 -->
 
-1.48
-
-Torrskorpelera komb                                                   Torrskorpelera komb
-
-Lera 1 komb                                                Gyttja komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 5:2
+
 Color Name  Slope Stability Material Model Unit C-Top C-Rate of Effective Su-Top Su-Rate of c'/Su Piezometric
 Weight of Change Friction of Layer Change Ratio Surface
 (kN/m³) Layer ((kN/m²)/m) Angle (°) (kPa) ((kN/m²)/m)
@@ -22787,37 +22992,37 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m       Torrskorpelera Combined, S=f(depth) 18 0 0 30 20 0     0.1 1
 komb
 GC-väg
-GC-väg
+1.48                                              GC-väg
+
 12.5 m        Marklast: 10 kPa (0,5 m)
 5
 3
-1
+1Torrskorpelera komb                                                  Torrskorpelera komb
+
 -1
+Lera 1 komb                                                Gyttja komb
 -3
 -5
 -7
--9
+
+-9                                                       Lera 2 komb
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2025-07-18, 10:37:56
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 477 -->
 
-1.61
-
-Torrskorpelera odrän                                                  Torrskorpelera odrän
-
-Lera 1 odrän                                               Gyttja odrän
-
-Lera 2 odrän
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 5:3
+
 Color Name  Slope Stability Unit Su-Top Su-Rate of Su-Maximum/Minimum Piezometric
 Material Model Weight of Layer Change (kPa) Surface
 Sydöstracentrum
@@ -22832,39 +23037,38 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m                  Torrskorpelera S=f(depth) 18 20 0 0            1
 odrän
 GC-väg
-GC-väg
+1.61                                              GC-väg
 5 kPa
 Parklast: 5 kPa
 12.5 m        Marklast: 10 kPa (0,5 m)
 5
 3
-1
+1Torrskorpelera odrän                                                 Torrskorpelera odrän
+
 -1
+Lera 1 odrän                                               Gyttja odrän
 -3
 -5
 -7
--9
+
+-9                                                       Lera 2 odrän
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2026-05-16, 08:54:00
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 478 -->
 
-1.48
-
-Torrskorpelera komb                                                   Torrskorpelera komb
-
-Lera 1 komb                                                Gyttja komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
-Distance
-noitavelE
 Bilaga 5:4
+
 Color Name  Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric
 Weight Friction of Layer Change Ratio Surface
 Sydöstracentrum
@@ -22879,38 +23083,37 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m                  Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
 GC-väg
-GC-väg
+1.48                                              GC-väg
+
 12.5 m        Marklast: 10 kPa (0,5 m)
 5
 3
-1
+1Torrskorpelera komb                                                  Torrskorpelera komb
+
 -1
+Lera 1 komb                                                Gyttja komb
 -3
 -5
 -7
--9
+
+-9                                                       Lera 2 komb
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70     75
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion A 2025.gsz
 Senast redigerad: 2026-05-16, 08:54:00
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 479 -->
 
-1.63
-
-Torrskorpeleran odrän
-Torrskorpeleran odrän
-Lera 1 odrän
-Lera 1 odrän
-
-Lera 2 odrän
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
-Distance
-noitavelE
 Bilaga 5:5
+
 Color Name Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric Datum C-Datum
 Sydöstracentrum                       Material Model Weight of Layer Change (kPa) Surface (Elevation) (kPa)
 107 47 61                                     (kN/m³) (kPa) ((kN/m²)/m)  (m)
@@ -22921,38 +23124,38 @@ Morgenstern-Price
 Torrskorpeleran S=f(depth) 18 20 0 0 1
 Totalsäkerhetsanalys           odrän
 Minsta glidytedjup: 1 m
+
+1.63
 GC-last: 5 kPa    Trafiklast: 15 kPa
 7 m
 5                                             Marklast: 10 kPa
 3
-1
--1
+Torrskorpeleran odrän
+1       Torrskorpeleran odrän
+Lera 1 odrän
+-1                                             Lera 1 odrän
 -3
 -5
 -7
--9
+
+-9                                          Lera 2 odrän
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
 Senast redigerad: 2025-07-18, 16:23:26
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 480 -->
 
-1.44
-
-Torrskorpelera komb
-Torrskorpelera komb
-Lera 1 komb
-Lera 1 komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
-Distance
-noitavelE
 Bilaga 5:6
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum
 Sydöstracentrum                                     Weight Friction of Layer Change Ratio Surface (Elevation) (kPa)
 107 47 61                                           (kN/m³) Angle (°) (kPa) ((kN/m²)/m) (m)
@@ -22963,40 +23166,38 @@ Morgenstern-Price
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 Totalsäkerhetsanalys           komb
 Minsta glidytedjup: 1 m
+
+1.44
+
 7 m
 5                                             Marklast: 10 kPa
 3
-1
--1
+Torrskorpelera komb
+1       Torrskorpelera komb
+Lera 1 komb
+-1                                             Lera 1 komb
 -3
 -5
 -7
--9
+
+-9                                          Lera 2 komb
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40    45     50    55     60    65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion B 2025.gsz
 Senast redigerad: 2025-07-18, 16:23:26
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 481 -->
 
-1.71
-
-Torrskorpelera odrän          LeraF 1y lolndirnägn  Fyllning Torrskorpelera odrän
-
-Lera 1 odrän
-
-Gyttja odrän
-
-Lera 2 odrän
-
-Lera 3 odrän
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 5:7
+
 Color Name Slope Stability Unit C-Top C-Rate of C-Maximum Piezometric Datum C-Datum Effective Effective
 Material Model Weight of Change (kPa) Surface (Elevation) (kPa) Cohesion Friction
 (kN/m³) Layer ((kN/m²)/m) (m)      (kPa) Angle (°)
@@ -23012,42 +23213,37 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m    Lera 3 odrän S=f(datum) 16 1.2 0 1     -10   16
 Torrskorpelera S=f(depth) 18 20 0 0 1
 odrän
+1.71
 GC-last: 5 kPa
 Trafiklast: 15 kPa
 Marklast: 10 kPa (0,5 m)
 5
 3
-1
+1           Torrskorpelera odrän          LeraF 1y lolndirnägn  Fyllning Torrskorpelera odrän
 -1
+Lera 1 odrän
 -3
 -5
 -7
+Gyttja odrän
 -9
+Lera 2 odrän
 -11
+Lera 3 odrän
 -13
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
 Senast redigerad: 2025-07-18, 08:46:59
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 482 -->
 
-1.63
-
-Torrskorpelera komb           LeraF 1y lklnoimngb   Fyllning Torrskorpelera komb
-
-Lera 1 komb
-
-Gyttja komb
-
-Lera 2 komb
-
-Lera 3 komb
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 5:8
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Datum Su-Datum Effective
 Weight Friction of Change Ratio Surface (Elevation) (kPa) Cohesion
 (kN/m³) Angle (°) Layer ((kN/m²)/m) (m) (kPa)
@@ -23063,36 +23259,37 @@ Totalsäkerhetsanalys
 Minsta glidytedjup: 1 m    Lera 3 komb Combined, S=f(datum) 16 30 1.2 0.1 1 -10 16
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
+1.63
+
 Marklast: 10 kPa (0,5 m)
 5
 3
-1
+1           Torrskorpelera komb           LeraF 1y lklnoimngb   Fyllning Torrskorpelera komb
+
 -1
+Lera 1 komb
 -3
 -5
 -7
+Gyttja komb
 -9
+Lera 2 komb
 -11
+Lera 3 komb
 -13
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion C 2025.gsz
 Senast redigerad: 2025-07-18, 08:46:59
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 483 -->
 
-1.59
-
-Torrskorpelera odr
-Lera 1 odr
-Gyttja odr
-
-Lera 2 odr
-
-0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
-Distance
-noitavelE
 Bilaga 5:9
+
 Color Name Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric
 Sydöstracentrum                 Material Model Weight of Layer (kPa) of Change of Layer Change Surface
 107 47 61                             (kN/m³)   ((kN/m²)/m) (kPa) ((kN/m²)/m)
@@ -23104,37 +23301,39 @@ Morgenstern-Price         Lera 2 odr S=f(depth) 16 12 0.8 12 0.8 1
 Totalsäkerhetsanalys
 Torrskorpelera S=f(depth) 18 20 0 20 0 1
 Minsta glidytedjup: 1 m   odr
+1.59
+
 GC-väg
+
 Marklast: 10 kPa (0,5 m)
 5
 3
-1
+Torrskorpelera odr
+Lera 1 odr
+1                                                             Gyttja odr
 -1
 -3
 -5
--7
+-7                                           Lera 2 odr
+
 -9
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
 Senast redigerad: 2026-05-16, 09:52:15
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 484 -->
 
-1.50
-
-Torrskorpelera komb
-Lera 1 komb
-Gyttja komb
-
-Lera 2 komb
-
-0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
-Distance
-noitavelE
 Bilaga 5:10
+
 Color Name  Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric
 Weight Friction of Layer Change Ratio Surface
 (kN/m³) Angle (°) (kPa) ((kN/m²)/m)
@@ -23147,38 +23346,40 @@ Morgenstern-Price
 Totalsäkerhetsanalys         Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
 Minsta glidytedjup: 1 m
+
+1.50
+
 GC-väg
+
 Marklast: 10 kPa (0,5 m)
 5
 3
-1
+Torrskorpelera komb
+Lera 1 komb
+1                                                            Gyttja komb
 -1
 -3
 -5
--7
+-7                                          Lera 2 komb
+
 -9
 -11
 -13
+
 -15
+0      5     10    15     20    25     30    35     40     45    50     55    60     65    70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion E 2025.gsz
 Senast redigerad: 2026-05-16, 09:52:15
 Skapad av: Elham Sokhango
 
+Elevation
+
 <!-- sida 485 -->
 
-1.81
-
-Sprängsten
-Fyllning
-Torrskorpelera odr
-Gyttja odr
-
-Lera 2 odr
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 6:1
+
 Color Name Slope Stability Unit Cohesion-Top Cohesion-Rate Su-Top Su-Rate of Piezometric Effective Effective Constant
 Material Model Weight of Layer (kPa) of Change of Change Surface Cohesion Friction Unit Wt.
 (kN/m³)     ((kN/m²)/m) Layer ((kN/m²)/m) (kPa) Angle (°) Above
@@ -23196,33 +23397,34 @@ Minsta glidytedjup: 1 m
 Sprängsten Mohr-Coulomb 21                   1     0    34   18
 Torrskorpelera S=f(depth) 18 20 0 20   0     1
 odr
+1.81
 Tåglast: 28,9 kPa och 34 kPa
 5.847 m
 5
-1:1
+Sprängsten      1:1
+Fyllning
+Torrskorpelera odr
 0
+Gyttja odr
 -5
+
+Lera 2 odr
 -10
+
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
 Senast redigerad: 2026-04-01, 08:23:05
 Skapad av: Elham Sokhango                                                                      Skala (A4): 1:300
 
+Elevation
+
 <!-- sida 486 -->
 
-2.62
-
-Sprängsten
-Fyllning
-Torrskorpelera komb
-Gyttja komb
-
-Lera 2 komb
-
-0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
-Distance
-noitavelE
 Bilaga 6:2
+
 Color Name Slope Stability Material Model Unit Effective Su-Top Su-Rate of c'/Su Piezometric Constant
 Weight Friction of Change Ratio Surface Unit Wt.
 (kN/m³) Angle (°) Layer ((kN/m²)/m) Above
@@ -23240,15 +23442,29 @@ Minsta glidytedjup: 1 m
 Sprängsten Mohr-Coulomb 21 34                 1      18
 Torrskorpelera Combined, S=f(depth) 18 30 20 0 0.1 1
 komb
+2.62
 5
-1:1
+
+Sprängsten      1:1
+Fyllning
+Torrskorpelera komb
 0
+Gyttja komb
+
 -5
+
+Lera 2 komb
 -10
+
 -15
+0     5     10     15    20     25    30     35    40     45    50     55    60     65     70
+Distance
+
 N:\107\47\1074761\5 Arbetsmaterial\03 Beräkningar\G\Uppdaterad beräkning 2025\ Sektion F 2025.gsz
 Senast redigerad: 2026-04-01, 08:23:05
 Skapad av: Elham Sokhango
+
+Elevation
 
 <!-- sida 487 -->
 

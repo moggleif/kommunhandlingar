@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.41e129a519eb4ab19c469d5/17812481384
 sha256: 7f2b52cea211568b2bee06d911ee29bfff380a7cc910f2935533635e18448bbb
 bytes: 26837941
 sidor: 124
-hamtad: 2026-11-06T11:46:43+00:00
-konverterad: 2026-11-06T11:47:19+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T11:35:15+00:00
+konverterad: 2026-11-08T11:36:04+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
@@ -3130,9 +3130,8 @@ Idrottslekparken
 Björkris
 
 Hede
-Varla industriområde
-Göteborgvägen
 Utveckling
+Varla industriområde
 
 Utifrån dokumentet Målbild och riktlinjer för
 lekplatser har en mall för inventering av lekplatser
@@ -3145,29 +3144,22 @@ en geografisk översyn av lekplatsernas placering och
 inbördes förhållande för att få bra spridning har
 genomförts.
 
-Varla
-
-Höögs Lid
-
-Fors
-
-Västra villastaden
-Kungsbackaskogen
-Hålabäck
-järnnväg
 Då närlekplatser främst ska finnas i bostadsområ- Det finns tre stadsdelslekplatser, Kungsbackasko-
-dena på kvartersmark är dessa för många till antalet gen, Borgmästargatan och Idrottslekparken vid
+dena på kvartersmark är dessa för många till antalet gen, Borgmästargatan och Idrottslekparken vid                   Varla
 på allmän plats mark i förhållande till antalet områ- simhallen. I Kungsbackas norra delar saknas stads-                                      Tölö
 deslekplatser. Under arbetet med åtgärdsplanen har delslekplats men i Björkris finns en områdeslekplats
-de närlekplatser som har en potential att utvecklas som föreslås utvecklas till stadsdelslekplats.
+de närlekplatser som har en potential att utvecklas som föreslås utvecklas till stadsdelslekplats.                       Höögs Lid
 till områdeslekplats setts ut liksom de närlekplatser
 som föreslås avvecklas.           Kartan till höger visar planerad utveckling av all-
+
 männa lekplatser i Kungsbacka stad. Avståndet visas
 I andra fall behövs en mindre upprustning av schematiskt utan hänsyn till exempel barriärer.
 lekplatsen för att bättre motsvara den standard som                                                                 Tingberget       Östra villastaden                     Närlekplats
-eftersträvas för närlekplatser respektive områdeslek-                                                                       Centrum
+eftersträvas för närlekplatser respektive områdeslek-                                                                       Centrum             Fors
 platser.
-Aranässtadsdel Inlag                           Områdeslekplats
+Västra villastaden
+Kungsbackaskogen
+Aranässtadsdel Inlag Hålabäck                  Områdeslekplats
 
 Kolla
 
@@ -3179,6 +3171,10 @@ Stadslekplats
 
 Skala: 1:25 000 (vid A3 liggande)
 1 000 m
+
+Göteborgvägen
+
+järnnväg
 
 <!-- sida 85 -->
 

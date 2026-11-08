@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.227417af18c8af9fa1e2767e/1704697853
 sha256: 4a3ba06dc1a1f7a3615e84ac77b9ba6544b0c1f5c66b305f944e8241f8f48a29
 bytes: 3553640
 sidor: 84
-hamtad: 2026-11-06T09:20:26+00:00
-konverterad: 2026-11-06T09:20:52+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T08:56:31+00:00
+konverterad: 2026-11-08T08:56:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -90,6 +90,42 @@ ordförande                        sekreterare
 
 SAMVERKANSSPROTOKOLL
 
+Extra samverkan  Förvaltningsbudget 2024
+
+Närvarande:    Arbetsgivarrepresentanter                           1 (3)
+Stigert Pettersson, förvaltningschef
+Maria Eriksson, verksamhetschef
+Helena Hellman, personalchef
+
+Arbetstagarrepresentanter:
+Akademikerförbundet SSR – Sofia Kareliussion
+Kommunal - Beatrice Sandgren
+Sveriges Lärare – Ronnie Ripgården, Victoria Sjögren,
+Johan Bergström
+Sveriges Skolledare - Kristin Arplöw
+Vision - Elise Holmberg
+
+Frånvarande:
+
+Vårdförbundet - Anne Melin
+
+Plats och tid: Teams 2023-12-11 klockan 08.00-09.00
+
+1\. Förvaltningsbudget
+Dialog kring förslaget till förvaltningens budget 2024 inför att ärendet tas upp till
+nämnden 2024-12-13.
+
+Sveriges lärare undrar varför avdelningarna för Kvalitet & Utveckling samt
+Myndighet & Stöd ser ut att ha utökat sin budget.
+
+Arbetsgivarens svar: Ingen av avdelningarna har utökat sin organisation men har fått
+stora budgeterade kostnadsökningar kopplat till framförallt:
+\-  Digitala verktyg från årskurs 6.
+
+\-  Införande av verksamhetssystemet Skolplatsen.
+\-  Ökat antal handledarutbildningar med anledning av införandet av
+övningsskolor (uppdrag från Göteborgs universitet).
+
 Förskola & Grundskola                                        Kungsbacka kommun
 Vanja Winroth                                                 434 81 Kungsbacka
 Direkt 0300-83 42 47
@@ -100,35 +136,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 (e-post borttagen)
 www.kungsbacka.se
-62-20-3102
-,0.2v
-,1001BUK
-Extra samverkan  Förvaltningsbudget 2024
-Närvarande:    Arbetsgivarrepresentanter                           1 (3)
-Stigert Pettersson, förvaltningschef
-Maria Eriksson, verksamhetschef
-Helena Hellman, personalchef
-Arbetstagarrepresentanter:
-Akademikerförbundet SSR – Sofia Kareliussion
-Kommunal - Beatrice Sandgren
-Sveriges Lärare – Ronnie Ripgården, Victoria Sjögren,
-Johan Bergström
-Sveriges Skolledare - Kristin Arplöw
-Vision - Elise Holmberg
-Frånvarande:
-Vårdförbundet - Anne Melin
-Plats och tid: Teams 2023-12-11 klockan 08.00-09.00
-1\. Förvaltningsbudget
-Dialog kring förslaget till förvaltningens budget 2024 inför att ärendet tas upp till
-nämnden 2024-12-13.
-Sveriges lärare undrar varför avdelningarna för Kvalitet & Utveckling samt
-Myndighet & Stöd ser ut att ha utökat sin budget.
-Arbetsgivarens svar: Ingen av avdelningarna har utökat sin organisation men har fått
-stora budgeterade kostnadsökningar kopplat till framförallt:
-\-  Digitala verktyg från årskurs 6.
-\-  Införande av verksamhetssystemet Skolplatsen.
-\-  Ökat antal handledarutbildningar med anledning av införandet av
-övningsskolor (uppdrag från Göteborgs universitet).
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 5 -->
 

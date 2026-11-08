@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a92022c7/17581277695
 sha256: 27351794ed0f8563be8bf09235445449f3ea444bb8b14b7131551949c5d8e4ec
 bytes: 23422521
 sidor: 90
-hamtad: 2026-11-06T08:54:11+00:00
-konverterad: 2026-11-06T08:54:55+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T08:28:33+00:00
+konverterad: 2026-11-08T08:29:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2482,28 +2482,704 @@ Det Lilla loket
 Tidsplan för att byggnationen av Ölmevallaskolan ska kunna starta september 2026.
 
 Utredning flyt t av förskoleverksamhet i Åsa Sida 6 av 8
-B y g g n a tio n s p ro c e s s e n Ö lm e v a lla s k o la n
-A k tivite t
-To m stä lln in g o c h o m b yggn a d a v d e l a v H u s C p å Å sa G å rd ssko la n till
-fö rsko la (b e slu t i K o m m u n fu llm ä ktige o m m e d e l frå n lo ka lp la n 2 0 2 6 )
-B yggn a tio n a v Ö lm e va lla sko la n F -3 , in flytt ju li-a u g, ve rksa m h e tssta rt
-se p te m b e r 2 0 2 6 .
-"D e t Lilla lo ke t", to m stä lln in g o c h a vyttrin g. In ge n ve rksa m h e t i lo ka le rn a
-frå n ja n u a ri 2 0 2 6 . A vta l u p p h ö r 2 6 0 3 1 3 .
-V e rksa m h e te n frå n "D e t Lilla Lo ke t" flytta s till S to c ka lid s fö rsko la .
-V e rksa m h e tssta rt ja n u a ri 2 0 2 6 .
-"Lilla lo ke t", to m stä lln in g o c h a vyttrin g. In ge n ve rksa m h e t i lo ka le rn a frå n
-v.2 8 (ju li) 2 0 2 6 . A vta l u p p h ö r 2 6 1 2 3 1 .
-V e rksa m h e te n frå n "Lilla Lo ke t" flytta s till n ya Å sa G å rd s fö rsko la ,
-ve rksa m h e tssta rt v.3 2 (a u gu sti) 2 0 2 6 .
-2Q 0 21 5
-Q 2 Q 3 Q 4
-2Q 0 21 6
-Q 2 Q 3 Q 4
-2Q 0 21 7
-Q 2 Q 3 Q 4
-2Q 0 21 8
-Q 2 Q 3 Q 4
+
+4
+
+Q
+
+3
+
+Q
+
+2
+
+Q
+
+8
+
+2 1
+
+20 Q
+
+4
+
+Q
+
+3
+
+Q
+
+2
+
+Q
+
+7
+
+2 1
+
+20 Q
+
+4
+
+Q
+
+3
+
+Q
+
+2
+
+Q
+
+6
+
+2 1
+
+20 Q
+
+4
+
+Q
+
+3
+
+Q
+
+2
+
+Q
+
+5
+
+2 1
+
+20 Q
+
+a
+
+ån
+
+rn
+
+fr
+
+l
+
+t
+
+e
+
+l ) r
+
+l
+
+i
+
+a
+
+t 6 a
+
+a
+
+n
+
+2 t
+
+k
+
+.
+
+r
+
+,
+
+n 0 s
+
+lo
+
+la
+
+le
+
+la
+
+la 2 s
+
+t
+
+i
+
+o
+
+a
+
+o
+
+o n e
+
+t
+
+k
+
+k
+
+k
+
+k la h
+
+e
+
+rs
+
+lo
+
+s
+
+s
+
+h
+
+i
+
+r
+
+s lp m
+
+fö
+
+ö
+
+d
+
+a
+
+m
+
+t
+
+f
+
+r ka s
+
+a
+
+s
+
+e
+
+s
+
+å o rk
+
+s
+
+id
+
+h
+
+d
+
+G l
+
+k
+
+l
+
+r
+
+e
+
+r
+
+a
+
+m
+
+å
+
+a ån , v
+
+e
+
+k
+
+a
+
+G
+
+s r
+
+v
+
+c
+
+s
+
+Å f g
+
+n
+
+o
+
+k
+
+a
+
+l u
+
+t
+
+r
+
+s
+
+å e a
+
+e
+
+S
+
+e
+
+p
+
+\-
+
+g
+
+l
+
+v
+
+Å
+
+n
+
+d
+
+i
+
+l
+
+l
+
+In
+
+i
+
+n
+
+a
+
+a
+
+C e u
+
+t
+
+y
+
+l
+
+j
+
+.
+
+e
+
+o
+
+s m t
+
+g
+
+s
+
+g
+
+l n
+
+u
+
+t
+
+l
+
+k
+
+y
+
+in
+
+ta
+
+In
+
+i
+
+H m
+
+l
+
+r . t
+
+.
+
+t
+
+s
+
+o f
+
+t
+
+.
+
+v
+
+t 3 ly
+
+g
+
+s
+
+la
+
+a e
+
+in
+
+y 1 f
+
+n .
+
+6
+
+l
+
+l
+
+v
+
+i 1 ta 2
+
+ig ,
+
+3 "
+
+r
+
+a
+
+e t 3
+
+a 0 t
+
+t 3 t 0
+
+\-
+
+e
+
+t 2 ly
+
+v
+
+d k F
+
+h 6 k y
+
+f 2
+
+e
+
+v ä
+
+c 2
+
+. v 1 " i)
+
+n
+
+r o 6
+
+6 t t
+
+m
+
+a lm a
+
+o
+
+L
+
+a 2 e s
+
+l
+
+l
+
+l
+
+ö
+
+2
+
+d
+
+g h la 0 h r k u
+
+a u o
+
+n
+
+l
+
+c ö
+
+g
+
+Ö
+
+f
+
+i p i 2
+
+o
+
+n
+
+k
+
+i o h L u
+
+n
+
+g n s
+
+ln p L r
+
+l
+
+g p
+
+a
+
+e
+
+g u a
+
+u t a
+
+la (
+
+l
+
+ä l
+
+n p l
+
+s
+
+y
+
+l
+
+e u i
+
+i
+
+m
+
+t a
+
+u
+
+2
+
+s
+
+b
+
+a
+
+s t D n ln l L
+
+m v
+
+"
+
+l
+
+" 3
+
+e
+
+m
+
+v ja
+
+a .
+
+o e
+
+m A n ä t n v
+
+c
+
+o K
+
+o .
+
+t t v
+
+t
+
+o
+
+i
+
+lm . t
+
+å r s
+
+å r
+
+r
+
+h
+
+, 6 r a
+
+A r
+
+c t
+
+6
+
+f t
+
+. f a
+
+p
+
+Ö 2 t" 2
+
+m
+
+t
+
+o lu
+
+0 n s o 6 n s
+
+s
+
+s v 0 e 2 e s t 2 e s
+
+n
+
+g
+
+a 2 k i t t , 0 t t
+
+in e
+
+r o r e e "
+
+e
+
+io
+
+b n
+
+l
+
+t 2
+
+e
+
+t t
+
+ln (
+
+io e
+
+a h h e i) h h
+
+l
+
+t b la u
+
+k l
+
+a e
+
+a
+
+l
+
+m m
+
+m m
+
+ä l
+
+i n
+
+u
+
+t t
+
+a m
+
+a a o j a
+
+n i
+
+o
+
+a
+
+l
+
+a
+
+v s
+
+n e L j s s
+
+( s s
+
+g i
+
+k g t t
+
+k k la
+
+k k
+
+g t
+
+s
+
+n r r l 8 r
+
+m r g p e
+
+i
+
+r
+
+y k o
+
+y e
+
+å e e
+
+.2 e e
+
+B A T fö B s "D fr V V "L v V v
 
 <!-- sida 60 -->
 

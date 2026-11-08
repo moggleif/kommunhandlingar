@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7ff3de1b18d1d01c8a81509/17056570645
 sha256: 1c742427ade8c7414b21161cb054d8313e0786d3e36db499126a0efde4d07a38
 bytes: 9240575
 sidor: 185
-hamtad: 2026-11-06T08:04:11+00:00
-konverterad: 2026-11-06T08:05:15+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T07:33:27+00:00
+konverterad: 2026-11-08T07:34:47+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -1483,8 +1483,6 @@ Samverkansavtal kring vuxnas lärande                      12 (12)
 
 <!-- sida 32 -->
 
-Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
-
 Förbundsstyrelsen
 
 Protokoll 2023-12-12, kl.17:00- 17:15
@@ -1552,6 +1550,8 @@ Justeras:
 
 118\)
 
+Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
+
 <!-- sida 33 -->
 
 Förbundsstyrelsen GÖTEBORGS
@@ -1572,9 +1572,9 @@ Förbundssekreterare
 Jonas Attenius (S) Marith Hesse (M)
 Ordförande Justerare
 
-Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
-
 Justeras: 2 (8)
+
+Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
 
 <!-- sida 34 -->
 
@@ -1636,9 +1636,9 @@ förändring, men genom andra ordval har det tydliggjorts att de beslut som
 fattas i utbildningschefsnätverket inte utgör beslut i offentligrättslig mening
 utan att respektive kommun fattar dem.
 
-Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
-
 Justeras: 3 (8)
+
+Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
 
 <!-- sida 35 -->
 
@@ -1690,9 +1690,9 @@ finner att så sker.
 Skickas till
 Medlemskommunerna
 
-Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
-
 Justeras: 4 (8)
+
+Signature reference: e33e0b51-ae05-4760-8af4-4c160b43aeac
 
 <!-- sida 36 -->
 

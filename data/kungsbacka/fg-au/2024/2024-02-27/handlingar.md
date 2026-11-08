@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.366666ef18d873f2cac39c67/1708927097
 sha256: 436db88ab95798dd9b56d9b997db9d8ee728b92900b0ee191772a07a563b95bf
 bytes: 1665197
 sidor: 42
-hamtad: 2026-11-06T09:21:16+00:00
-konverterad: 2026-11-06T09:21:25+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T08:57:24+00:00
+konverterad: 2026-11-08T08:57:34+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1645,17 +1645,6 @@ Anna-Karin Granberg (SD), Susanne Andersson (SD), Göran Ottosson (SD)
 Dnr 2024-0004
 TJÄNSTESKRIVELSE
 
-Förskola & Grundskola                                        Kungsbacka kommun
-Frida Byrsten                                                 434 81 Kungsbacka
-Besöksadress
-Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 41 64
-(e-post borttagen)
-www.kungsbacka.se
-62-20-3102
-,0.2v
-,1001BUK
 Pågående anmälningsärenden hos Skolinspektionen och Barn-
 och elevombudet (Beo), inklusive ärenden som utreds inom
 1 (3)
@@ -1664,6 +1653,17 @@ Datum
 2024\.
 2024-02-20
 Nya ärenden
+
+Förskola & Grundskola                                        Kungsbacka kommun
+Frida Byrsten                                                 434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 41 64
+(e-post borttagen)
+www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
 

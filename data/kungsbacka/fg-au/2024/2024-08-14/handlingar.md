@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.560286bd190a2659b0a30d0d/1723444891
 sha256: 710321ee3811b822b04ef7fde5f07b17b5c929e32b6bf6782bd147d4617a649b
 bytes: 8922222
 sidor: 118
-hamtad: 2026-11-06T09:22:43+00:00
-konverterad: 2026-11-06T09:23:20+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T08:58:56+00:00
+konverterad: 2026-11-08T08:59:43+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -820,1126 +820,859 @@ Hjälp oss förbättra skr.se| Om kakor| Dataskydd och personuppgifter| Tillgän
 
 <!-- sida 18 -->
 
-nnääll
+EEnnkkäättssvvaarr ppåå lläänn
 
-ååpp
+IIIIII ddddddeeeeeennnnnn hhhhhhäääääärrrrrr pppppprrrrrreeeeeesssssseeeeeennnnnnttttttaaaaaattttttiiiiiioooooonnnnnneeeeeennnnnn rrrrrreeeeeeddddddoooooovvvvvviiiiiissssssaaaaaassssss rrrrrreeeeeessssssuuuuuullllllttttttaaaaaatttttteeeeeennnnnn ppppppåååååå ffffffrrrrrrååååååggggggaaaaaa 111111 oooooocccccchhhhhh 222222 iiiiii
 
-rraavvssttääkknnEE
-iiiiii
-222222
-hhhhhhccccccoooooo
-111111
-aaaaaaggggggåååååårrrrrrffffff
-ååååååpppppp
-nnnnnneeeeeettttttaaaaaattttttlllllluuuuuusssssseeeeeerrrrrr
-ssssssaaaaaassssssiiiiiivvvvvvooooooddddddeeeeeerrrrrr
-nnnnnneeeeeennnnnnooooooiiiiiittttttaaaaaattttttnnnnnneeeeeesssssseeeeeerrrrrrpppppp
-rrrrrräääääähhhhhh
-nnnnnneeeeeedddddd
-IIIIII
-ååååååpppppp
-nnnnnnaaaaaajjjjjjrrrrrrööööööbbbbbb
-iiiiii
-rrrrrraaaaaammmmmmmmmmmmeeeeeellllllddddddeeeeeemmmmmm
-000000111111333333
-ssssss::::::LLLLLLKKKKKKSSSSSS
-lllllllllllliiiiiitttttt
-ttttttuuuuuu
-sssssseeeeeeddddddaaaaaakkkkkkcccccciiiiiikkkkkkssssss
-mmmmmmoooooossssss
-ttttttääääääkkkkkknnnnnneeeeee
-nnnnnneeeeeedddddd
-......rrrrrreeeeeetttttteeeeeehhhhhhggggggiiiiiittttttttttttäääääärrrrrr
-sssssstttttteeeeeennnnnnrrrrrraaaaaabbbbbb
-mmmmmmoooooo
-eeeeeeddddddnnnnnnaaaaaattttttttttttaaaaaaffffffssssssttttttuuuuuullllllsssssseeeeeebbbbbb
-rrrrrröööööörrrrrr
-mmmmmmoooooossssss
-hhhhhhccccccoooooo
-666666111111000000222222
-nnnnnneeeeeettttttssssssööööööhhhhhh
-mmmmmmoooooo
-eeeeeeggggggiiiiiittttttkkkkkkäääääämmmmmmlllllllllllluuuuuuffffff
-iiiiii
-ttttttuuuuuullllllsssssseeeeeebbbbbb
-ttttttaaaaaattttttttttttaaaaaaffffff
-nnnnnneeeeeennnnnnooooooiiiiiiggggggeeeeeerrrrrr
-,,,,,,tttttteeeeeeggggggnnnnnniiiiiittttttssssssddddddnnnnnnaaaaaallllll
-,,,,,,nnnnnneeeeeennnnnnuuuuuummmmmmmmmmmmooooookkkkkk
-rrrrrraaaaaaHHHHHH
-1
-????nnnneeeennnnooooiiiittttnnnneeeevvvvnnnnooookkkknnnnrrrraaaabbbb
-ddddeeeemmmm
-tttteeeehhhhggggiiiillllnnnneeee
-iiii
-aaaatttteeeebbbbrrrraaaa
-ttttttttaaaa
-mmmmmooooo
-nnnnneeeeesssssllllleeeeerrrrryyyyytttttsssss
-iiiii
-tttttuuuuulllllssssseeeeebbbbb
-tttttaaaaattttttttttaaaaafffff
-nnnnneeeeennnnnoooooiiiiigggggeeeeerrrrr
-,,,,,ttttteeeeegggggnnnnniiiiitttttsssssdddddnnnnnaaaaalllll
-,,,,,nnnnneeeeennnnnuuuuummmmmmmmmmoooookkkkk
-rrrrraaaaaHHHHH
-22222
-????nnnneeeennnnooooiiiittttnnnneeeevvvvnnnnooookkkknnnnrrrraaaabbbb
-ddddeeeemmmm
-tttteeeehhhhggggiiiillllnnnneeee
-iiii
-aaaatttteeeebbbbrrrraaaa
-ttttttttaaaa
+ddddddeeeeeennnnnn eeeeeennnnnnkkkkkkäääääätttttt ssssssoooooommmmmm sssssskkkkkkiiiiiicccccckkkkkkaaaaaaddddddeeeeeessssss uuuuuutttttt ttttttiiiiiillllllllllll SSSSSSKKKKKKLLLLLL::::::ssssss 333333111111000000 mmmmmmeeeeeeddddddlllllleeeeeemmmmmmmmmmmmaaaaaarrrrrr iiiiii bbbbbböööööörrrrrrjjjjjjaaaaaannnnnn ppppppåååååå
+
+hhhhhhöööööösssssstttttteeeeeennnnnn 222222000000111111666666 oooooocccccchhhhhh ssssssoooooommmmmm rrrrrröööööörrrrrr bbbbbbeeeeeesssssslllllluuuuuuttttttssssssffffffaaaaaattttttttttttaaaaaannnnnnddddddeeeeee oooooommmmmm bbbbbbaaaaaarrrrrrnnnnnneeeeeettttttssssss rrrrrräääääättttttttttttiiiiiigggggghhhhhheeeeeetttttteeeeeerrrrrr......
+
+1 HHHHHHaaaaaarrrrrr kkkkkkoooooommmmmmmmmmmmuuuuuunnnnnneeeeeennnnnn,,,,,, llllllaaaaaannnnnnddddddssssssttttttiiiiiinnnnnnggggggeeeeeetttttt,,,,,, rrrrrreeeeeeggggggiiiiiioooooonnnnnneeeeeennnnnn ffffffaaaaaattttttttttttaaaaaatttttt bbbbbbeeeeeesssssslllllluuuuuutttttt iiiiii ffffffuuuuuullllllllllllmmmmmmääääääkkkkkkttttttiiiiiiggggggeeeeee oooooommmmmm
+
+aaaatttttttt aaaarrrrbbbbeeeettttaaaa iiii eeeennnnlllliiiigggghhhheeeetttt mmmmeeeedddd bbbbaaaarrrrnnnnkkkkoooonnnnvvvveeeennnnttttiiiioooonnnneeeennnn????
+
+22222 HHHHHaaaaarrrrr kkkkkooooommmmmmmmmmuuuuunnnnneeeeennnnn,,,,, lllllaaaaannnnndddddssssstttttiiiiinnnnngggggeeeeettttt,,,,, rrrrreeeeegggggiiiiiooooonnnnneeeeennnnn fffffaaaaattttttttttaaaaattttt bbbbbeeeeesssssllllluuuuuttttt iiiii ssssstttttyyyyyrrrrreeeeelllllssssseeeeennnnn ooooommmmm
+
+aaaatttttttt aaaarrrrbbbbeeeettttaaaa iiii eeeennnnlllliiiigggghhhheeeetttt mmmmeeeedddd bbbbaaaarrrrnnnnkkkkoooonnnnvvvveeeennnnttttiiiioooonnnneeeennnn????
 
 <!-- sida 19 -->
 
-ravS
-aaaaattttteeeeebbbbbrrrrraaaaa
-ttttttttttaaaaa
-mmmmmooooo
-eeeeesssssllllleeeeerrrrryyyyytttttsssss
-rrrrreeeeelllllllllleeeee
-eeeeegggggiiiiitttttkkkkkääääämmmmmlllllllllluuuuufffff
-iiiii
-tttttuuuuulllllssssseeeeebbbbb
-tttttaaaaattttttttttaaaaafffff
-\=====
-ttålB
-..nneennooiittnneevvnnookk
-ttggiillnnee
-aaaaattttteeeeebbbbbrrrrraaaaa
-ttttttttttaaaaa
-mmmmmooooo
-eeeeesssssllllleeeeerrrrryyyyytttttsssss
-rrrrreeeeelllllllllleeeee
-eeeeegggggiiiiitttttkkkkkääääämmmmmlllllllllluuuuufffff
-iiiii
-tttttuuuuulllllssssseeeeebbbbb
-tttttaaaaattttttttttaaaaafffff
-eeeeetttttnnnnniiiii
-\=====
-ttttttttttöööööRRRRR
-..nneennooiittnneevvnnookk
-ttggiillnnee
-...tttaaattttttaaafff
-rrräää
-tttuuulllssseeebbb
-mmmooo
-jjjeee
-ttteeevvv
-\===
-eeemmmiiiLLL
-...nnneeetttäääkkknnneee
-åååppp
-tttaaarrraaavvvsss
-jjjeee
-\===
-ttttttiiiVVV
+Svar
+
+Blått ===== fffffaaaaattttttttttaaaaattttt bbbbbeeeeesssssllllluuuuuttttt iiiii fffffuuuuullllllllllmmmmmäääääkkkkktttttiiiiigggggeeeee eeeeelllllllllleeeeerrrrr ssssstttttyyyyyrrrrreeeeelllllssssseeeee ooooommmmm aaaaatttttttttt aaaaarrrrrbbbbbeeeeetttttaaaaa
+
+eennlliiggtt kkoonnvveennttiioonneenn..
+
+RRRRRööööötttttttttt ===== iiiiinnnnnttttteeeee fffffaaaaattttttttttaaaaattttt bbbbbeeeeesssssllllluuuuuttttt iiiii fffffuuuuullllllllllmmmmmäääääkkkkktttttiiiiigggggeeeee eeeeelllllllllleeeeerrrrr ssssstttttyyyyyrrrrreeeeelllllssssseeeee ooooommmmm aaaaatttttttttt aaaaarrrrrbbbbbeeeeetttttaaaaa
+
+eennlliiggtt kkoonnvveennttiioonneenn..
+
+LLLiiimmmeee === vvveeettt eeejjj ooommm bbbeeesssllluuuttt ääärrr fffaaattttttaaattt...
+
+VVViiitttttt === eeejjj sssvvvaaarrraaattt pppååå eeennnkkkääättteeennn...
 
 <!-- sida 20 -->
 
-rreennooiiggeerr
+LLaannddssttiinngg oocchh rreeggiioonneerr
 
-hhccoo
+Fattat bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-ggnniittssddnnaaLL
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-tattaF
-ttttaa
-mmoo
-eesslleerryyttss
-ddeemm
-tteehhggiillnnee
-ii
-aatteebbrraa
-nneennooiittnneevvnnookknnrraabb
-aajj
-\=
-ttålB
+ssttyyrreellssee oomm aatttt
+
+aarrbbeettaa ii eennlliigghheett mmeedd
+
+bbaarrnnkkoonnvveennttiioonneenn
+
+Blått = jjaa
 
 <!-- sida 21 -->
 
-näl
+1 Stockholms län
 
-smlohkcotS
+FFFaaattttttaaattt bbbeeesssllluuuttt iii fffuuullllllmmmäääkkktttiiigggeee eeelllllleeerrr ssstttyyyrrreeelllssseee ooommm aaatttttt
 
-1
-ttttttaaa
-mmmooo
-eeesssllleeerrryyytttsss
-rrreeelllllleee
-eeegggiiitttkkkääämmmlllllluuufff
-iii
-tttuuulllssseeebbb
-tttaaattttttaaaFFF
-nnneeennnoooiiitttnnneeevvvnnnoookkknnnrrraaabbb
-dddeeemmm
-ttteeehhhgggiiilllnnneee
-iii
-aaattteeebbbrrraaa
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-ejlätrroN
-taravs
-je
-\=
-ttiV
-netäkne
-åp
-anutgiS
-anutnellaV
--sdnalppU
-sdnalppU
-orB
-ybsäV
-rekåretsÖ
-ybäT
--nelloS
-anut alläfräJ
--xaV
-dyrednaD
-mloh
--dnuS
-ögnidiL
-anloSgrebyb
-örekE
-ödmräV
-akcaNmlohkcotS
-öseryT
-melaS
-egnidduH
-nravkyN
-akryktoB
-egninaH
-ejlätredöS
-nmahsänyN
+aaarrrbbbeeetttaaa iii eeennnllliiiggghhheeettt mmmeeeddd bbbaaarrrnnnkkkooonnnvvveeennntttiiiooonnneeennn
+
+Rött = nej
+
+Blått = ja
+
+Norrtälje
+
+Vitt = ej svarat
+
+på enkäten
+
+Sigtuna
+
+Vallentuna
+
+Upplands-
+
+Bro
+
+Upplands
+
+Väsby
+
+Österåker
+
+Sollen-Täby
+
+Järftälluana
+
+DanderydVax-
+
+Sund-
+
+holm
+
+Ekerö
+
+bybergSolna Lidingö
+
+Värmdö
+
+StockholmNacka
+
+Salem
+
+Huddinge Tyresö
+
+Nykvarn
+
+Botkyrka
+
+Haninge
+
+Södertälje
+
+Nynäshamn
 
 <!-- sida 22 -->
 
-näl
+2 Uppsala län
 
-alasppU
+FFFaaattttttaaattt bbbeeesssllluuuttt iii fffuuullllllmmmäääkkktttiiigggeee eeelllllleeerrr ssstttyyyrrreeelllssseee Älvkarleby
 
-2
-eeesssllleeerrryyytttsss
-rrreeelllllleee
-eeegggiiitttkkkääämmmlllllluuufff
-iii
-tttuuulllssseeebbb
-tttaaattttttaaaFFF
-ybelrakvlÄ
-tta
-mo
-nnneeennnoooiiitttnnneeevvvnnnoookkknnnrrraaabbb
-dddeeemmm
-ttteeehhhgggiiilllnnneee
-iii
-aaattteeebbbrrraaa
-jen
-\=
-ttöR
-preiT
-aj
-\=
-ttålB
-nneettääkknnee
-ååpp
-ttaarraavvss
-jjee
-\==
-ttttiiVV
-je
-tev
-\=
-emiL
-rammahtsÖ
-ybeH
-alasppU
-atsvinK
-gnipöknE
+om att
+
+aaarrrbbbeeetttaaa iii eeennnllliiiggghhheeettt mmmeeeddd bbbaaarrrnnnkkkooonnnvvveeennntttiiiooonnneeennn
+
+Rött = nej
+
+Blått = ja
+
+Tierp
+
+VViitttt == eejj ssvvaarraatt ppåå eennkkäätteenn
+
+Lime = vet ej
+
+Östhammar
+
+Heby
+
+Uppsala
+
+Enköping
+
+Knivsta
 
 <!-- sida 23 -->
 
-nnääll
+33 SSööddeerrmmaannllaannddss lläänn
 
-ssddnnaallnnaammrreeddööSS
+FFFaaattttttaaattt bbbeeesssllluuuttt iii fffuuullllllmmmäääkkktttiiigggeee eeelllllleeerrr ssstttyyyrrreeelllssseee ooommm aaatttttt
 
-33
-ttttttaaa
-mmmooo
-eeesssllleeerrryyytttsss
-rrreeelllllleee
-eeegggiiitttkkkääämmmlllllluuufff
-iii
-tttuuulllssseeebbb
-tttaaattttttaaaFFF
-nnneeennnoooiiitttnnneeevvvnnnoookkknnnrrraaabbb
-dddeeemmm
-ttteeehhhgggiiilllnnneee
-iii
-aaattteeebbbrrraaa
-jen
-\=
-ttöR
-sängnärtS
-anutsliksE
-aj
-\=
-ttålB
-taravs
-je
-\=
-ttiV
-netäkne
-åp
-atsenG
-nelF
-rekågniV
-mlohenirtaK
-asorT
-gnipökyN
-dnusölexO
+aaarrrbbbeeetttaaa iii eeennnllliiiggghhheeettt mmmeeeddd bbbaaarrrnnnkkkooonnnvvveeennntttiiiooonnneeennn
+
+Rött = nej
+
+Eskilstuna
+
+Strängnäs
+
+Blått = ja
+
+Vitt = ej svarat
+
+på enkäten
+
+Flen
+
+Gnesta
+
+Vingåker
+
+Katrineholm
+
+Trosa
+
+Nyköping
+
+Oxelösund
 
 <!-- sida 24 -->
 
-nnääll
+44 ÖÖsstteerrggööttllaannddss lläänn
 
-ssddnnaallttööggrreettssÖÖ
+FFFaaattttttaaattt bbbeeesssllluuuttt iii fffuuullllllmmmäääkkktttiiigggeee eeelllllleeerrr ssstttyyyrrreeelllssseee ooommm aaatttttt Finspång
 
-44
-ttttttaaa
-mmmooo
-eeesssllleeerrryyytttsss
-rrreeelllllleee
-eeegggiiitttkkkääämmmlllllluuufff
-iii
-tttuuulllssseeebbb
-tttaaattttttaaaFFF
-gnåpsniF
-nnneeennnoooiiitttnnneeevvvnnnoookkknnnrrraaabbb
-dddeeemmm
-ttteeehhhgggiiilllnnneee
-iii
-aaattteeebbbrrraaa
-alatoM
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-taravs
-je
-\=
-ttiV
-gnipökrroN
-netäkne
-åp
-je
-tev
-\=
-emiL
-gnipökniL
-yblöjM
-grebadivtÅ
-adniK
-erdY
+aaarrrbbbeeetttaaa iii eeennnllliiiggghhheeettt mmmeeeddd bbbaaarrrnnnkkkooonnnvvveeennntttiiiooonnneeennn
+
+Rött = nej
+
+Motala
+
+Blått = ja
+
+Vitt = ej svarat
+
+på enkäten
+
+Norrköping
+
+Lime = vet ej
+
+Linköping
+
+Mjölby
+
+Åtvidaberg
+
+Kinda
+
+Ydre
 
 <!-- sida 25 -->
 
-nnääll
+55 JJöönnkkööppiinnggss lläänn
 
-ssggnniippöökknnööJJ
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr Mullsjö
 
-55
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-sånarT
-öjslluM
-tteehhggiillnnee
-ii
-aatteebbrraa
-ttttaa
-mmoo
-eesslleerryyttss
-obaH
-nneennooiittnneevvnnookknnrraabb
-ddeemm
-ybenA
-jen
-\=
-ttöR
-aajj
-\=
-ttålB
-je
-tev
-\=
-emiL
-gnipöknöJ
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-öjssäN
-öjskE
-dyreggaV
-öjsonG
-adnalteV
-öjsväS
-devalsiG
-omanräV
+Tranås
+
+ssttyyrreellssee oomm aatttt aarrbbeettaa ii eennlliigghheett
+
+Habo
+
+mmeedd bbaarrnnkkoonnvveennttiioonneenn
+
+Rött = nej
+
+Aneby
+
+Blått = jjaa
+
+Lime = vet ej
+
+Jönköping
+
+Vitt = ej svarat på enkäten
+
+Nässjö Eksjö
+
+Vaggeryd
+
+Gnosjö
+
+Sävsjö Vetlanda
+
+Gislaved
+
+Värnamo
 
 <!-- sida 26 -->
 
-nnääll
+66 KKrroonnoobbeerrggss lläänn
 
-ssggrreebboonnoorrKK
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee
 
-66
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tta
-mo
-esleryts
-relle
-egnidivppU
-ddeemm
-tteehhggiillnnee
-ii
-aatteebbrraa
-nneennooiittnneevvnnookknnrraabb
-jen
-\=
-ttöR
-öjxäV
-aj
-\=
-ttålB
-ååpp
-taravs
-je
-\=
-ttiV
-netäkne
-atsevlA
-ybgnujL
-obesseL
-tluhmlÄ
-dyrakraM
-dyrsgniT
+eller styrelse om att
+
+aarrbbeettaa ii eennlliigghheett mmeedd
+
+Uppvidinge
+
+bbaarrnnkkoonnvveennttiioonneenn
+
+Rött = nej
+
+Blått = ja
+
+Växjö
+
+Vitt = ej svarat ppåå
+
+enkäten
+
+Ljungby
+
+Alvesta
+
+Lessebo
+
+Markaryd
+
+Älmhult
+
+Tingsryd
 
 <!-- sida 27 -->
 
-näl
+7 Kalmar län
 
-ramlaK
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee
 
-7
-kivretsäV
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tta
-mo
-esleryts
-relle
-ddeemm
-tteehhggiillnnee
-ii
-aatteebbrraa
-ybremmiV
-nneennooiittnneevvnnookknnrraabb
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-nmahsraksO
-je
-tev
-\=
-emiL
-ybsgöH
-mlohgroB
-orbyN
-ramlaK
-agnålybröM
-såsroT
+Västervik
+
+eller styrelse om att
+
+aarrbbeettaa ii eennlliigghheett mmeedd
+
+bbaarrnnkkoonnvveennttiioonneenn
+
+Vimmerby
+
+Rött = nej
+
+Blått = ja
+
+Vitt = ej svarat på enkäten
+
+Oskarshamn
+
+Lime = vet ej
+
+Högsby
+
+Borgholm
+
+Nybro
+
+Kalmar
+
+Torsås Mörbylånga
 
 <!-- sida 28 -->
 
-dnaltoG
+8 Gotland
 
-8
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tta
-mo
-esleryts
-relle
-ddeemm
-tteehhggiillnnee
-ii
-aatteebbrraa
-nneennooiittnneevvnnookknnrraabb
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-je
-tev
-\=
-emiL
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee
+
+eller styrelse om att
+
+aarrbbeettaa ii eennlliigghheett mmeedd
+
+bbaarrnnkkoonnvveennttiioonneenn
+
+Rött = nej
+
+Blått = ja
+
+Vitt = ej svarat på enkäten
+
+Lime = vet ej
 
 <!-- sida 29 -->
 
-nnääll
+99 BBlleekkiinnggee lläänn
 
-eeggnniikkeellBB
+FFFaaattttttaaattt bbbeeesssllluuuttt iii fffuuullllllmmmäääkkktttiiigggeee eeelllllleeerrr ssstttyyyrrreeelllssseee ooommm aaatttttt
 
-99
-ttttttaaa
-mmmooo
-eeesssllleeerrryyytttsss
-rrreeelllllleee
-eeegggiiitttkkkääämmmlllllluuufff
-iii
-tttuuulllssseeebbb
-tttaaattttttaaaFFF
-nnneeennnoooiiitttnnneeevvvnnnoookkknnnrrraaabbb
-dddeeemmm
-ttteeehhhgggiiilllnnneee
-iii
-aaattteeebbbrrraaa
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-ybennoR
-taravs
-je
-\=
-ttiV
-anorkslraK
-netäkne
-åp
-mörtsfolO
-je
-tev
-\=
-emiL
-nmahslraK
+aaarrrbbbeeetttaaa iii eeennnllliiiggghhheeettt mmmeeeddd bbbaaarrrnnnkkkooonnnvvveeennntttiiiooonnneeennn
+
+Rött = nej
+
+Blått = ja
+
+Vitt = ej svarat
+
+Ronneby
+
+Karlskrona
+
+på enkäten Olofström
+
+Lime = vet ej
+
+Karlshamn
 
 <!-- sida 30 -->
 
-näl
+10 Skåne län
 
-enåkS
+Fattat bbeesslluutt ii ffuullllmmääkkttiiggee
 
-01
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-tattaF
-ttttaa
-mmoo
-eesslleerryyttss
-relle
-tteehhggiillnnee
-ii
-aatteebbrraa
--nevnoknrab
-dem
-nenoit
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-ttaarraavvss
-jjee
-\==
-ttttiiVV
-netäkne
-åp
-jjee
-tev
-\=
-emiL
+eller ssttyyrreellssee oomm aatttt
+
+aarrbbeettaa ii eennlliigghheett
+
+med barnkonven-
+
+tionen
+
+Rött = nej
+
+Blått = ja
+
+VViitttt == eejj ssvvaarraatt
+
+på enkäten
+
+Lime = vet eejj
 
 <!-- sida 31 -->
 
-näl
+Hallands län
 
-sdnallaH
-akcabsgnuK
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tta
-mo
-esleryts
-relle
-ddeemm
-tteehhggiillnnee
-ii
-aatteebbrraa
-nneennooiittnneevvnnookknnrraabb
-grebraV
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-je
-tev
-\=
-emiL
-etlyH
-datsmlaH
-mlohaL
+Kungsbacka
+
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee
+
+eller styrelse om att
+
+aarrbbeettaa ii eennlliigghheett mmeedd
+
+bbaarrnnkkoonnvveennttiioonneenn
+
+Rött = nej
+
+Varberg
+
+Blått = ja
+
+Vitt = ej svarat på enkäten
+
+Lime = vet ej
+
+Hylte
+
+Halmstad
+
+Laholm
 
 <!-- sida 32 -->
 
-nnääll
+1122 VVäässttrraa GGööttaallaannddss lläänn
 
-ssddnnaallaattööGG
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee
 
-aarrttssääVV
+eller styrelse om att
 
-2211
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tta
-mo
-esleryts
-relle
-ddeemm
-tteehhggiillnnee
-ii aatteebbrraa
-tedE
-alliL
-nneennooiittnneevvnnookknnrraabb
--gnunetS
-såsgnilA
-dnus
-nröjT
-jen
-\=
-ttöR
-elA
-aj
-\=
-ttålB
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-vlägnuK
-je
-tev
-\=
-emiL
-mureL
-grobetöG
-ellitraP
-låmÅ
-datsmörtS
-adyrräH
-gnåpslluG
-ladnlöM
-munaT
-datseiraM
-adoberöT
-grobslraK
-enetöG
-grobsrenäV
-sänetoS
-orbiT
-edvökS
-gnipökdi
-\- L särG
-allaveddUlikesyL
-arakS
-prot
-ojH
-araagVnussE
--llorT
-nattäh
-tsurO
-mlohadiT
-gnipöklaF
--rreH
--råV
-agnujladråg
-nmahecirlU
-såro-BelloB
-dgyb
-omenarT
-kraM
-agnujlnevS
+aarrbbeettaa ii eennlliigghheett mmeedd
+
+Stenung- Lilla Edet
+
+bbaarrnnkkoonnvveennttiioonneenn
+
+Tjörn
+
+sund
+
+Alingsås
+
+Ale
+
+Rött = nej
+
+Blått = ja
+
+Kungälv
+
+Vitt = ej svarat på enkäten
+
+Lime = vet ej
+
+Lerum
+
+Göteborg
+
+Partille
+
+Härryda
+
+Strömstad
+
+Åmål
+
+Mölndal
+
+Gullspång
+
+Tanum
+
+MarieTstöraedboda
+
+Götene
+
+Karlsborg
+
+Sotenäs
+
+VänersborLigdköping Skövde Tibro
+
+LysekilUddevalla Gräs-
+
+Skara
+
+Trollt-orp Vara
+
+Hjo
+
+Orust
+
+hättanEssunga
+
+FalköpinTgidaholm
+
+Vår- Herr-
+
+gårdaljunga
+
+BolleB-orås Ulricehamn
+
+bygd
+
+Mark
+
+Tranemo
+
+Svenljunga
 
 <!-- sida 33 -->
 
-nnääll
+1133 VVäärrmmllaannddss lläänn
 
-ssddnnaallmmrrääVV
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-3311
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tta
-mo
-esleryts
-ddeemm
-tteehhggiillnnee
-ii
-aatteebbrraa
-nneennooiittnneevvnnookknnrraabb
-ybsroT
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-nneettääkknnee
-ååpp
-ttaarraavvss
-jjee
-\==
-ttttiiVV
-je
-tev
-\=
-emiL
-srofgaH
-ennuS
-srofknuM
-adE
-datspiliF
-akivrA
-agahsroF
-liK
-gnäjrÅ
-srofrotS
-smurG
-datslraK
-örammaH
-elffäS
-nmahenitsirK
+styrelse om att
+
+aarrbbeettaa ii eennlliigghheett mmeedd
+
+bbaarrnnkkoonnvveennttiioonneenn
+
+Torsby
+
+Rött = nej
+
+Blått = ja
+
+VViitttt == eejj ssvvaarraatt ppåå eennkkäätteenn
+
+Lime = vet ej
+
+Hagfors
+
+Sunne
+
+Eda
+
+Munkfors
+
+Arvika
+
+Filipstad
+
+Forshaga
+
+Årjäng
+
+Kil
+
+Grums
+
+Storfors
+
+Karlstad
+
+Säffle
+
+Hammarö
+
+Kristinehamn
 
 <!-- sida 34 -->
 
-näl
+14 Örebro län
 
-orberÖ
+Har kommunen fattat beslut i
 
-41
-i
-tulseb
-tattaf
-nenummok
-raH
-ttttaa
-mmoo
-eesslleerryyttss
-rreellllee
-eeggiittkkäämmlllluuff
-grebsransujL
-mmoo
-nneennooiittnneevvnnookk
-ddeemm
-aatteebbrraa
-??rreetteehhggiittttäärr
-sstteennrraabb
-srofelläH
-aajj
-\=
-ttålB
-jen
-\=
-ttöR
-nneettääkknnee
-ååpp
-ttaarraavvss
-eettnnii
-\==
-ttttiiVV
-grebsedniL
-aroN
-agokslraK
-orberÖ
-agrebekeL
-almuK grebsllaH
-åxaL
-dnusreksA
+ffuullllmmääkkttiiggee eelllleerr ssttyyrreellssee oomm aatttt
+
+aarrbbeettaa mmeedd kkoonnvveennttiioonneenn oomm
+
+Ljusnarsberg
+
+bbaarrnneettss rräättttiigghheetteerr??
+
+Blått = jjaa
+
+Hällefors
+
+Rött = nej
+
+VViitttt == iinnttee ssvvaarraatt ppåå eennkkäätteenn
+
+Lindesberg
+
+Nora
+
+Karlskoga
+
+Örebro
+
+Lekeberga
+
+Kumla
+
+Hallsberg
+
+Laxå
+
+Askersund
 
 <!-- sida 35 -->
 
-nnääll
+1155 VVäässttmmaannllaannddss lläänn
 
-ssddnnaallnnaammttssääVV
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-5511
-grebroN
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tteehhggiillnnee
-ii
-aatteebbrraa
-ttttaa
-mmoo
-eesslleerryyttss
-nneennooiittnneevvnnookknnrraabb
-ddeemm
-alaS
-jen
-\=
-ttöR
-atsregaF
-aajj
-\=
-ttålB
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-såretsäV
--atsllaH
-rammah
-gnipöK
-agobrA
+Norberg
+
+ssttyyrreellssee oomm aatttt aarrbbeettaa ii eennlliigghheett
+
+mmeedd bbaarrnnkkoonnvveennttiioonneenn
+
+Rött = nej
+
+Sala
+
+Blått = jjaa
+
+Fagersta
+
+Vitt = ej svarat på enkäten
+
+Västerås
+
+Hallsta-
+
+Köping
+
+hammar
+
+Arboga
 
 <!-- sida 36 -->
 
-nnääll
+1166 DDaallaarrnnaass lläänn
 
-ssaannrraallaaDD
+Fattat bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-6611
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-tattaF
-ttttaa
-mmoo
-eesslleerryyttss
-tteehhggiillnnee
-ii
-aatteebbrraa
--nevnoknrab
-dem
-neladvlÄ
-nenoit
-jen
-\=
-ttöR
-asrO
-aj
-\=
-ttålB
-ttaarraavvss
-jjee
-\==
-ttttiiVV
-netäkne
-åp
-gnulaM
-jjee
-tev
-\=
-emiL
-kivttäR
-neläS-
-aroM
-nulaF
-dnaskeL fengaG
-retäS
-atsevA
-akivduL
--demS
-nekcabej
+ssttyyrreellssee oomm aatttt
+
+aarrbbeettaa ii eennlliigghheett
+
+med barnkonven- Älvdalen
+
+tionen
+
+Rött = nej
+
+Blått = ja
+
+Orsa
+
+VViitttt == eejj ssvvaarraatt
+
+på enkäten
+
+Malung
+
+Lime = vet eejj
+
+-Sälen Mora
+
+Rättvik
+
+Leksand Falun
+
+Gagnef
+
+Säter
+
+Ludvika Smed- Avesta
+
+jebacken
 
 <!-- sida 37 -->
 
-nnääll
+1177 GGäävvlleebboorrggss lläänn
 
-ssggrroobbeellvvääGG
+Fattat bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-7711
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-tattaF
-ttttaa
-mmoo
-eesslleerryyttss
-tteehhggiillnnee
-ii
-aatteebbrraa
--nevnoknrab
-dem
-ladsujL
-nenoit
-jen
-\=
-ttöR
-sänlloB
-aj
-\=
-ttålB
-rekånavO
-ttaarraavvss
-jjee
-\==
-ttttiiVV
-netäkne
-åp
-jjee
-tev
-\=
-emiL
-oblekcO        srofoH
+ssttyyrreellssee oomm aatttt
+
+aarrbbeettaa ii eennlliigghheett
+
+med barnkonven-
+
+Ljusdal
+
+tionen
+
+Rött = nej
+
+Blått = ja
+
+Bollnäs
+
+VViitttt == eejj ssvvaarraatt
+
+Ovanåker
+
+på enkäten
+
+Lime = vet eejj
+
+Ockelbo
+
+Hofors
 
 <!-- sida 38 -->
 
-nnääll
+1188 VVäässtteerrnnoorrrrllaannddss lläänn
 
-ssddnnaallrrrroonnrreettssääVV
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-8811
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tteehhggiillnnee
-ii
-aatteebbrraa
-ttttaa
-mmoo
-eesslleerryyttss
-nneennooiittnneevvnnookknnrraabb
-ddeemm
-kivsdlöksnrÖ
-jen
-\=
-ttöR
-åetfelloS
-aj
-\=
-ttålB
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-srofmarK
-egnÅ
-llavsdnuS
+ssttyyrreellssee oomm aatttt aarrbbeettaa ii eennlliigghheett
+
+mmeedd bbaarrnnkkoonnvveennttiioonneenn
+
+Örnsköldsvik
+
+Rött = nej
+
+Sollefteå
+
+Blått = ja
+
+Vitt = ej svarat på enkäten
+
+Kramfors
+
+Ånge
+
+Sundsvall
 
 <!-- sida 39 -->
 
-nnnääälll
+111999 JJJääämmmtttlllaaannnddd HHHääärrrjjjeeedddaaallleeennnsss lllääännn
 
-sssnnneeelllaaadddeeejjjrrräääHHH
+Strömsund
 
-dddnnnaaallltttmmmäääJJJ
+FFaattttaatt bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-999111
-dnusmörtS
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-ttaattttaaFF
-tteehhggiillnnee
-ii
-aatteebbrraa
-ttttaa
-mmoo
-eesslleerryyttss
-nneennooiittnneevvnnookknnrraabb
-ddeemm
-jen
-\=
-ttöR
-mokorK
-aj
-\=
-ttålB
-netäkne
-åp
-taravs
-je
-\=
-ttiV
-erÅ
-adnugaR
-greB
-ekcärB
-neladejräH
+ssttyyrreellssee oomm aatttt aarrbbeettaa ii eennlliigghheett
+
+mmeedd bbaarrnnkkoonnvveennttiioonneenn
+
+Rött = nej
+
+Krokom
+
+Blått = ja
+
+Vitt = ej svarat på enkäten
+
+Åre
+
+Ragunda
+
+Berg
+
+Bräcke
+
+Härjedalen
 
 <!-- sida 40 -->
 
-nnääll
+2200 VVäässtteerrbbootttteenn lläänn
 
-nneettttoobbrreettssääVV
+Fattat beslut
 
-0022
-tulseb
-tattaF
-elesroS
-egitkämlluF
-esleryts
-relle
-tta
-mo
-namurotS
-i
-atebra
-tehgilne
-ålaM
--nrab
-dem
-animlehliV
--nevnok
-öjsroN
-nenoit
-eleskcyL
-åetfellekS
-jen
-\=
-ttöR
-aj
-\=
-ttålB
-nledniV
-ttaarraavvss
-jjee
-\==
-ttttiiVV
-srofstreboR
-netäkne
-åp
-elesÅ
-jjee
-tev
-\=
-emiL
-sännäV
-mlohrujB
-åemU
-gnilamdroN
+Sorsele
+
+Fullmäktige
+
+eller styrelse
+
+om att
+
+Storuman
+
+arbeta i
+
+enlighet
+
+Malå
+
+med barn-
+
+konven-
+
+Vilhelmina
+
+Norsjö
+
+tionen
+
+Rött = nej
+
+Lycksele
+
+Skellefteå
+
+Blått = ja
+
+VViitttt == eejj ssvvaarraatt
+
+Vindeln
+
+på enkäten
+
+Åsele
+
+Robertsfors
+
+Lime = vet eejj
+
+BjurholmVännUämseå
+
+Nordmaling
 
 <!-- sida 41 -->
 
-nnääll
+2211 NNoorrrrbbootttteennss lläänn
 
-ssnneettttoobbrrrrooNN
+Fattat bbeesslluutt ii ffuullllmmääkkttiiggee eelllleerr
 
-1122
-rreellllee
-eeggiittkkäämmlllluuff
-ii
-ttuullsseebb
-tattaF
-ttttaa
-mmoo
-eesslleerryyttss
-tteehhggiillnnee
-ii
-aatteebbrraa
--nevnoknrab
-dem
-anuriK
-nenoit
-jen
-\=
-ttöR
-eravilläG
-aj
-\=
-ttålB
-alajaP
-ttaarraavvss
-jjee
-\==
-ttttiiVV
-netäkne
-åp
-jjee
-tev
-\=
-emiL
-kkomkkoJ
-golpejrA
-adnarapaH
-xilaK
-nedoB
-nybsvlÄ
-åeluL
-åetiP
+ssttyyrreellssee oomm aatttt
+
+aarrbbeettaa ii eennlliigghheett
+
+med barnkonven-
+
+Kiruna
+
+tionen
+
+Rött = nej
+
+Blått = ja
+
+Gällivare
+
+Pajala
+
+VViitttt == eejj ssvvaarraatt
+
+på enkäten
+
+Lime = vet eejj
+
+Jokkmokk
+
+Arjeplog
+
+Boden Kalix Haparanda
+
+Älvsbyn Luleå
+
+Piteå
 
 <!-- sida 42 -->
 
@@ -2663,69 +2396,55 @@ Skolpsykolog Maria Larsson 0300-835742      (e-post borttagen)
 
 <!-- sida 57 -->
 
-KUB6000, 2.0, 2012-05-23
+G6GO Kungsbacka
 
 RISKBEDÖMNING INFÖR ÄNDRING I VERKSAMHETEN
+
+1 (3)
+2024-01-29
 
 Å Precisera den planerade ändringen
 
 1\. Vad består ändringarna av?
 
 Skillnad mellan org 23/24 till org 24/25 minskning med:
-
-10090 lärare
-
-3590 spec
-
-2090 musik
-
-30960 bild
-
-4090 idrott
-
-2090 återbruk
-förlänger inga vikarier
-1096 administration
+. 100960 lärare
+e 3590 spec
+oe 2090 musik
+ee 3090 bild
+. 4090 idrott
+e 2090 återbruk
+e förlänger inga vikarier
+. 1090 administration
 
 Ökning på fritids med
-
-På fritids med ca 9096
-Ökning resurs f-3 med ca 2096
+e På fritids med ca 9090
+e Ökning resurs f-3 med ca 2096
 
 2\. Var ska ändringarna genomföras?
-
-Minskning av en lärare till blivande åk 3
-
-Minskning av PREST i åk 1 och åk 2
-
-Återbruket riktar sig till hela skolan
-
-Minskning spec gäller hela skolan
-
-Förflyttning av resurs i blivande åk 6 till F-3
-
-Omfördelning av resurser knutna till årskurser och FLEX främst 4-6
+e Minskning av en lärare till blivande åk 3
+e Minskning av PREST i åk 1 och åk 2
+e  Återbruket riktar sig till hela skolan
+e Minskning spec gäller hela skolan
+e Förflyttning av resurs i blivande åk 6 till F-3
+e - Omfördelning av resurser knutna till årskurser och FLEX främst 4-6
 
 3\. Vilka arbetstagare eller grupper av arbetstagare berörs?
 Samtliga på skolan.
-
-Kungsbacka
-
-1 (3)
-2024-01-29
 
 Beskrivning
 Ni måste precisera den eller de ändringar som planeras innan det går att göra en riskbedömning
 
 1\. Exempel på vad ändringarna kan bestå av:
-
-Minskning av en lärare till blivande åk 3
-Minskning av PREST i åk 1 och åk 2
+e Minskning av en lärare till blivande åk 3
+e Minskning av PREST i åk 1 och åk 2
 
 Kungsbacka kommun
 Serviceområde Personal
 Stadshuset, (adress borttagen)
 434 81 Kungsbacka
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 58 -->
 
@@ -4800,20 +4519,19 @@ jf
 
 <!-- sida 109 -->
 
-uniForm KUB100 v 1.0, 2006-08-21
-
 TJÄNSTESKRIVELSE
+
+Kungsbacka
 
 Nämnden för Förskola & Grundskola
 
 Överenskommelse om hantering av skolkort för elever vid
-Svenska Balettskolan i Göteborg
+Svenska Balettskolan i Göteborg 1 (1)
 
-Ärende
-
-Förslag från förbundsstyrelsen inom GR om överenskommelse kring hantering av
-skolkort för elever som går i Svenska Balettskolan och som tillhör
-Göteborgsregionens kommuner.
+Ärende Datum
+Förslag från förbundsstyrelsen inom GR om överenskommelse kring hantering av 2007-03-14
+skolkort för elever som går i Svenska Balettskolan och som tillhör Dnr
+Göteborgsregionens kommuner. 07-37 104
 
 Bakgrund
 För närvarande går 3 elever från Kungsbacka vid Svenska balettskolan i Göteborg.
@@ -4821,27 +4539,12 @@ För närvarande går 3 elever från Kungsbacka vid Svenska balettskolan i Göte
 Svenska balettskolans utbildning är en sådan särskild utbildning som regleras i en
 speciell förordning, SFS 1999:250, och som avses i Skollagens 4 kap. 3 och 8 §§.
 
-Kungsbacka
-
-1 (1)
-
-Datum
-
-2007-03-14
-
-Dnr
-
-07-37/04
-
 Det innebär att den mottagande kommunen skall sörja för kostnadsfri skolskjuts för
 elever som går vid skolan. Det innebär också att kommun har rätt att få ersättning för
-
 sina kostnader från elevernas hemkommuner.
 
 Utbildningsgruppen inom GR har tagit fram förslag till överenskommelse om
-
 hantering av skolkort. Förbundsstyrelsen har beslutat att rekommendera kommunerna
-
 att godkänna förslaget till överenskommelse.
 
 Förslag till beslut
@@ -4854,27 +4557,22 @@ Sw
 Anette Liedström Hjorth >
 Förvaltningschef N.N
 
-Förskola & Grundskola
-Margareta Trygg Gustafson
-Utvecklingsledare
+Förskola & Grundskola Kungsbacka kommun
+Margareta Trygg Gustafson 434 81 Kungsbacka
+Utvecklingsledare -
 
-Direkt 0300-834159
+M Besöksadress
+Direkt 0300-834159 Stadshuset, Storgatan 37
 
 Mobil (mobilnummer borttaget)
-margareta.trygg-
-gustafson(Qkungsbacka.se
-
-Kungsbacka kommun
-434 81 Kungsbacka
-
-Besöksadress
-Stadshuset, Storgatan 37
-
-Telefon 0300-83 40 00
+margareta.trygg- Telefon 0300-83 40 00
 Fax 0300-83 41 64
 
+gustafson(Qkungsbacka.se
 forskola.grundskola(Qkungsbacka.se
 www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2006-08-21
 
 <!-- sida 110 -->
 

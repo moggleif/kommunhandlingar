@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.b7a004018f378e8f28e32d/171517970388
 sha256: 2bdf901fe88ebd491917b1a05e2c719c89919ae1cbd65bcd599855373a35caa0
 bytes: 10895562
 sidor: 277
-hamtad: 2026-11-06T08:08:54+00:00
-konverterad: 2026-11-06T08:09:54+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T07:38:42+00:00
+konverterad: 2026-11-08T07:39:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom]
@@ -5882,36 +5882,27 @@ och god ekonomisk hushållning är goda ekonomiska
 resultat en förutsättning, om kommunen ska kunna hålla
 en fortsatt hög investeringstakt.
 
-Åldersstruktur enligt prognos 2022–2042
+ÅldersÅsldtreurskstturru ketnulrig etn plirgotg bneofso l2k0n2in2g–s2p0ro4g2nos 2023–2050
 
 30%
 
 25%
 
 20%
-
-15%
-
-10%
-
+2022
+15%                                     2027
+2032
+10%                                     2037
+2042
 5%
 
 0%
 0  1-5 6-12 13-15 16-19 20-29 30-44 45-64 65-79 80-89 90-w
-rå
-evitkepser
-negninklofeblatot
-va
-lednA
-Åldersstruktur enligt befolkningsprognos 2023–2050
-2022
-2027
-2032
-2037
-2042
 Åldersgrupper
 
 52 Kungsbacka kommuns årsredovisning 2023
+
+Andel av totalbefolkningen respektive år
 
 <!-- sida 120 -->
 
@@ -8033,9 +8024,8 @@ Vi tillstyrker att fullmäktige godkänner kommunens
 årsredovisning för 2023.
 
 Vi åberopar bifogad redogörelse.
-ZOCXD-41ZG1-KJOOF-B5HA4-Q4BO7-OELEV
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: VELEO-7OB4Q-4AH5B-FOOJK-1GZ14-DXCOZ
 
 <!-- sida 151 -->
 
@@ -8059,9 +8049,8 @@ resultaträkning, kassaflödesanalys, drift- och
 investeringsredovisning samt noter
 \- Granskning av god ekonomisk hushållning
 och balanskrav
-ZOCXD-41ZG1-KJOOF-B5HA4-Q4BO7-OELEV
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: VELEO-7OB4Q-4AH5B-FOOJK-1GZ14-DXCOZ
 
 <!-- sida 152 -->
 
@@ -8087,10 +8076,6 @@ Förtroendevald revisor               Förtroendevald revisor
 Serienummer: 19530708xxxx            Serienummer: 19680303xxxx
 IP: 213.113.xxx.xxx                  IP: 82.99.xxx.xxx
 2024-03-2806:24:07UTC                2024-03-2807:18:18UTC
-ZOCXD-41ZG1-KJOOF-B5HA4-Q4BO7-OELEV
-:lekcyntnemukod
-
-oenneP
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala
 signeringsdatan i dokumentet är säkrad och validerad genom det
@@ -8106,6 +8091,8 @@ garanterar att dokumentets innehåll inte har ändrats.
 Du kan verifiera den kryptografiska informationen i dokumentet genom
 att använda Penneos validator, som finns på https://penneo.com/
 validator
+
+Penneo dokumentnyckel: VELEO-7OB4Q-4AH5B-FOOJK-1GZ14-DXCOZ
 
 <!-- sida 153 -->
 
@@ -8120,12 +8107,6 @@ Serienummer: 19660622xxxx
 IP: 83.227.xxx.xxx
 2024-03-2810:22:45UTC
 
-ZOCXD-41ZG1-KJOOF-B5HA4-Q4BO7-OELEV
-
-:lekcyntnemukod
-
-oenneP
-
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala
 signeringsdatan i dokumentet är säkrad och validerad genom det
 datorgenererade hashvärdet hos det originella dokumentet. Dokumentet är låst
@@ -8140,6 +8121,8 @@ garanterar att dokumentets innehåll inte har ändrats.
 Du kan verifiera den kryptografiska informationen i dokumentet genom
 att använda Penneos validator, som finns på https://penneo.com/
 validator
+
+Penneo dokumentnyckel: VELEO-7OB4Q-4AH5B-FOOJK-1GZ14-DXCOZ
 
 <!-- sida 154 -->
 

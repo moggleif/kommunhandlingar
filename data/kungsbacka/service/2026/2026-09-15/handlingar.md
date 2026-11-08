@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a086271040b82ab/1789363875
 sha256: e6c883c7af687ad2caaa6c64b2382df8614a63acf2baa1d0c3b80c38bd36e46f
 bytes: 12325929
 sidor: 856
-hamtad: 2026-11-06T12:27:57+00:00
-konverterad: 2026-11-06T12:30:15+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T12:21:30+00:00
+konverterad: 2026-11-08T12:23:46+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7152,8 +7152,8 @@ samt skatternas andel av priset
 
 Euro per liter
 2,5
-
-2,0
+Bensin pris exklusive skatt
+2,0                       Bensin energiskatt och moms
 
 1,5
 
@@ -7171,9 +7171,60 @@ lägst priser på diesel i gruppen länder med ESR-åtaganden över EU-
 genomsnittet.
 
 106
-anrednälredeN kramnaD dnalniF dnalksyT ekirknarF dnalkerG dnalrI lagutroP neilatI neinämuR dnaltteL neigleB ekirretsÖ neinapS grubmexuL neitaorK dnaltsE neikavolS neuatiL nregnU egirevS neinevolS neikcejT neloP atlaM nrepyC neiragluB
-Bensin pris exklusive skatt
-Bensin energiskatt och moms
+
+Nederländerna
+
+Danmark
+
+Finland
+
+Tyskland
+
+Frankrike
+
+Grekland
+
+Irland
+
+Portugal
+
+Italien
+
+Rumänien
+
+Lettland
+
+Belgien
+
+Österrike
+
+Spanien
+
+Luxemburg
+
+Kroatien
+
+Estland
+
+Slovakien
+
+Litauen
+
+Ungern
+
+Sverige
+
+Slovenien
+
+Tjeckien
+
+Polen
+
+Malta
+
+Cypern
+
+Bulgarien
 
 <!-- sida 163 -->
 
@@ -7184,7 +7235,8 @@ samt skatternas andel av dieselpriset
 
 Euro per liter
 2,5
-2,0
+Diesel pris exklusive skatt
+2,0                        Diesel energiskatt och moms
 
 1,5
 
@@ -7217,9 +7269,60 @@ följas via följande länk: https://immediate-responses-tracker-eng.netlify.app
 37Europeiska kommissionen (u.å.m).
 
 107
-dnalniF anrednälredeN dnalksyT kramnaD dnalrI neilatI ekirknarF neigleB neuatiL neinämuR lagutroP egirevS dnalkerG ekirretsÖ dnaltteL nregnU neitaorK neikavolS grubmexuL neinevolS neinapS dnaltsE neloP nrepyC neikcejT neiragluB atlaM
-Diesel pris exklusive skatt
-Diesel energiskatt och moms
+
+Finland
+
+Nederländerna
+
+Tyskland
+
+Danmark
+
+Irland
+
+Italien
+
+Frankrike
+
+Belgien
+
+Litauen
+
+Rumänien
+
+Portugal
+
+Sverige
+
+Grekland
+
+Österrike
+
+Lettland
+
+Ungern
+
+Kroatien
+
+Slovakien
+
+Luxemburg
+
+Slovenien
+
+Spanien
+
+Estland
+
+Polen
+
+Cypern
+
+Tjeckien
+
+Bulgarien
+
+Malta
 
 <!-- sida 164 -->
 
@@ -7302,7 +7405,60 @@ energianvändning 2024 i transportsektorn
 Källa: Eurostat, hämtad 20 januari 2026.
 
 109
-dnalniF egirevS anrednälredeN dnalrI grubmexuL ekirknarF neigleB ekirretsÖ neinämuR neuatiL lagutroP neikavolS neinapS neloP kramnaD nregnU atlaM dnalksyT neiragluB dnaltteL dnaltsE neilatI neikcejT neinevolS nrepyC dnalkerG neitaorK
+
+Finland
+
+Sverige
+
+Nederländerna
+
+Irland
+
+Luxemburg
+
+Frankrike
+
+Belgien
+
+Österrike
+
+Rumänien
+
+Litauen
+
+Portugal
+
+Slovakien
+
+Spanien
+
+Polen
+
+Danmark
+
+Ungern
+
+Malta
+
+Tyskland
+
+Bulgarien
+
+Lettland
+
+Estland
+
+Italien
+
+Tjeckien
+
+Slovenien
+
+Cypern
+
+Grekland
+
+Kroatien
 
 <!-- sida 166 -->
 
@@ -7524,7 +7680,72 @@ ligare, och ökningar noterades i nästan alla EU-länder.45
 45 ACEA (2026a).
 
 114
-egroN kramnaD dnalsI egirevS grubmexuL anrednälredeN nietsnethceiL ziewhcS ekirretsÖ neigleB neinnatirbrotS dnalksyT ekirknarF dnalniF dnalrI lagutroP atlaM nregnU neinevolS dnaltteL neuatiL teikruT dnaltsE neinapS neilatI neiragluB neinämuR neikavolS neitaorK neikcejT neloP nrepyC dnalkerG
+
+Norge
+
+Danmark
+
+Island
+
+Sverige
+
+Luxemburg
+
+Nederländerna
+
+Liechtenstein
+
+Schweiz
+
+Österrike
+
+Belgien
+
+Storbritannien
+
+Tyskland
+
+Frankrike
+
+Finland
+
+Irland
+
+Portugal
+
+Malta
+
+Ungern
+
+Slovenien
+
+Lettland
+
+Litauen
+
+Turkiet
+
+Estland
+
+Spanien
+
+Italien
+
+Bulgarien
+
+Rumänien
+
+Slovakien
+
+Kroatien
+
+Tjeckien
+
+Polen
+
+Cypern
+
+Grekland
 
 <!-- sida 171 -->
 
@@ -7559,7 +7780,72 @@ Försäljningen minskade däremot i Nederländerna och på Island.46
 46 Ibid.
 
 115
-egroN kramnaD anrednälredeN dnalsI atlaM egirevS dnalniF neigleB nietsnethceiL grubmexuL ziewhcS lagutroP neinnatirbrotS ekirretsÖ dnalksyT ekirknarF dnalrI teikruT neinevolS nrepyC neinapS nregnU neuatiL dnaltteL neloP dnalkerG dnaltsE neinämuR neilatI neikcejT neikavolS neiragluB neitaorK
+
+Norge
+
+Danmark
+
+Nederländerna
+
+Island
+
+Malta
+
+Sverige
+
+Finland
+
+Belgien
+
+Liechtenstein
+
+Luxemburg
+
+Schweiz
+
+Portugal
+
+Storbritannien
+
+Österrike
+
+Tyskland
+
+Frankrike
+
+Irland
+
+Turkiet
+
+Slovenien
+
+Cypern
+
+Spanien
+
+Ungern
+
+Litauen
+
+Lettland
+
+Polen
+
+Grekland
+
+Estland
+
+Rumänien
+
+Italien
+
+Tjeckien
+
+Slovakien
+
+Bulgarien
+
+Kroatien
 
 <!-- sida 172 -->
 
@@ -7731,7 +8017,58 @@ räknat och försäljningsandelen låg omkring EU-genomsnittet (drygt
 11 procent) under 2025.
 
 119
-ziewhcS egroN anrednälredeN egirevS kramnaD ekirretsÖ dnalsI dnalkerG dnalksyT neigleB dnalniF ekirknarF 72UE neikcejT neinnatirbrotS grubmexuL neinämuR nregnU neinapS dnaltsE neinevolS dnalrI neilatI neikavolS neloP lagutroP
+
+Schweiz
+
+Norge
+
+Nederländerna
+
+Sverige
+
+Danmark
+
+Österrike
+
+Island
+
+Grekland
+
+Tyskland
+
+Belgien
+
+Finland
+
+Frankrike
+
+EU27
+
+Tjeckien
+
+Storbritannien
+
+Luxemburg
+
+Rumänien
+
+Ungern
+
+Spanien
+
+Estland
+
+Slovenien
+
+Irland
+
+Italien
+
+Slovakien
+
+Polen
+
+Portugal
 
 <!-- sida 176 -->
 
@@ -7778,7 +8115,70 @@ det även ett tydligt behov av allmänt tillgänglig, (publik) laddning.58
 58 Transport & Mobility Leuven (2025).
 
 120
-anrednälredeN egroN kramnaD egirevS atlaM dnalniF dnalsI ziewhcS ekirretsÖ dnalkerG neinnatirbrotS dnalksyT lagutroP 72UE ekirknarF neinämuR neuatiL neinapS grubmexuL neikcejT dnalrI neikavolS neigleB dnaltteL neilatI dnaltsE neloP nrepyC neinevolS neiragluB neitaorK nregnU
+
+Nederländerna
+
+Norge
+
+Danmark
+
+Sverige
+
+Malta
+
+Finland
+
+Island
+
+Schweiz
+
+Österrike
+
+Grekland
+
+Storbritannien
+
+Tyskland
+
+Portugal
+
+EU27
+
+Frankrike
+
+Rumänien
+
+Litauen
+
+Spanien
+
+Luxemburg
+
+Tjeckien
+
+Irland
+
+Slovakien
+
+Belgien
+
+Lettland
+
+Italien
+
+Estland
+
+Polen
+
+Cypern
+
+Slovenien
+
+Bulgarien
+
+Kroatien
+
+Ungern
 
 <!-- sida 177 -->
 
@@ -7833,9 +8233,9 @@ Figur 3.12 Antal laddplatser för tunga fordon, november 2025
 300
 
 250
-
+Antal laddplatser MED åtminstone en laddpunkt på 350kW
 200
-
+Antal laddplatser UTAN åtminstone en laddpunkt på 350kW
 150
 
 100
@@ -7869,9 +8269,56 @@ tiken och existerande styrmedel, särskilt i Tyskland. Under 2025 bör-
 64 Naturvårdsverket (2024b), s. 83.
 
 122
-dnalksyT egirevS anrednälredeN egroN ekirknarF neinapS kramnaD dnalniF ziewhcS neigleB ekirretsÖ neinnatirbrotS neilatI lagutroP teikruT neloP neiragluB dnalsI neikavolS neuatiL grubmexuL neinämuR dnaltsE neinevolS neikcejT
-Antal laddplatser MED åtminstone en laddpunkt på 350kW
-Antal laddplatser UTAN åtminstone en laddpunkt på 350kW
+
+Tyskland
+
+Sverige
+
+Nederländerna
+
+Norge
+
+Frankrike
+
+Spanien
+
+Danmark
+
+Finland
+
+Schweiz
+
+Belgien
+
+Österrike
+
+Storbritannien
+
+Italien
+
+Portugal
+
+Turkiet
+
+Polen
+
+Bulgarien
+
+Island
+
+Slovakien
+
+Litauen
+
+Luxemburg
+
+Rumänien
+
+Estland
+
+Slovenien
+
+Tjeckien
 
 <!-- sida 179 -->
 
@@ -9257,6 +9704,12 @@ Figur 4.1 Sveriges ESR-utsläpp 2015–2024, tilldelning av utsläppsutrymme
 lustgasutsläpp från tunga lastbilar
 Enhet miljoner ton koldioxidekvivalenter
 
+Jordbruk (exkluderat från utr) Uppvärmn bostäder & lokaler
+Avfall              Industri utanför ETS 1
+Produktanvändning   Arbetsmaskiner
+Inrikes transporter Utsläpp totalt målscenario
+Minskning med förslag ESR tilldelning 2021-2025
+ESR tilldelning 2026-2030 ESR tilldelning inkl. flex
 35
 30
 25
@@ -9287,13 +9740,38 @@ avståndet till omkring en halv miljon ton. Utsläppen fortsätter
 minska efter 2030 och hamnar omkring fyra till fem miljoner ton
 
 154
-5102 6102 7102 8102 9102 0202 1202 2202 3202 4202 5202 6202 7202 8202 9202 0302
-Jordbruk (exkluderat från utr) Uppvärmn bostäder & lokaler
-Avfall              Industri utanför ETS 1
-Produktanvändning   Arbetsmaskiner
-Inrikes transporter Utsläpp totalt målscenario
-Minskning med förslag ESR tilldelning 2021-2025
-ESR tilldelning 2026-2030 ESR tilldelning inkl. flex
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
 
 <!-- sida 211 -->
 
@@ -9460,25 +9938,64 @@ referensscenario och i utredningens målscenario
 
 80%
 
+Pb ref
 60%
-
+Pb mål
+Llb ref
 40%
-
+Llb mål
+Tlb ref
 20%
-
+Tlb mål
 0%
-
 Källa: Egen bearbetning av scenariounderlag framtagna av experter från Trafikverket och Trafikanalys
 i utredningens analysgrupp.
 
 158
-4202 5202 6202 7202 8202 9202 0302 1302 2302 3302 4302 5302 6302 7302 8302 9302 0402 1402 2402 3402 4402 5402
-Pb ref
-Pb mål
-Llb ref
-Llb mål
-Tlb ref
-Tlb mål
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+2035
+
+2036
+
+2037
+
+2038
+
+2039
+
+2040
+
+2041
+
+2042
+
+2043
+
+2044
+
+2045
 
 <!-- sida 215 -->
 
@@ -10231,13 +10748,13 @@ Figur 5.2 Skatt på bensin respektive diesel 1991–2025
 
 Enhet kronor per liter (prisnivå 2025)
 10
+Bensin koldioxidskatt Diesel koldioxixidskatt
 9
-
+Bensin energiskatt  Diesel energiskatt
 8
 7
 6
 5
-
 4
 3
 2
@@ -10265,9 +10782,54 @@ på grund av att riksdagen samtidigt beslutat om sänkningar av samma
 skatt, för att undvika eller dämpa prisökningar på drivmedel vid pump.
 
 176
-1991 4991 7991 0002 4002 7002 0102 3102 6102 9102 2202 5202 1991 4991 7991 0002 4002 7002 0102 3102 6102 9102 2202 5202
-Bensin koldioxidskatt Diesel koldioxixidskatt
-Bensin energiskatt  Diesel energiskatt
+
+1991
+
+1994
+
+1997
+
+2000
+
+2004
+
+2007
+
+2010
+
+2013
+
+2016
+
+2019
+
+2022
+
+2025
+
+1991
+
+1994
+
+1997
+
+2000
+
+2004
+
+2007
+
+2010
+
+2013
+
+2016
+
+2019
+
+2022
+
+2025
 
 <!-- sida 233 -->
 
@@ -10318,7 +10880,7 @@ Figur 5.3 Skatt på eldningsolja 1, år 1995–2025
 
 Enhet kronor per liter (prisnivå 2025)
 6
-
+Koldioxidskatt Energiskatt
 5
 
 4
@@ -10357,8 +10919,68 @@ EUF-fördraget, se kapitel 3, som utgör en överordnad rättskälla
 skapsramen för beskattning av energiprodukter och elektricitet.
 
 178
-…5991 …6991 …7991 …8991 …9991 …0002 …1002 …2002 …3002 …4002 …5002 …6002 …7002 …8002 …9002 …0102 …1102 …2102 …3102 …4102 …5102 …6102 …7102 …8102 …9102 …0202 …1202 …2202 …3202 …4202 …5202
-Koldioxidskatt Energiskatt
+
+1995…
+
+1996…
+
+1997…
+
+1998…
+
+1999…
+
+2000…
+
+2001…
+
+2002…
+
+2003…
+
+2004…
+
+2005…
+
+2006…
+
+2007…
+
+2008…
+
+2009…
+
+2010…
+
+2011…
+
+2012…
+
+2013…
+
+2014…
+
+2015…
+
+2016…
+
+2017…
+
+2018…
+
+2019…
+
+2020…
+
+2021…
+
+2022…
+
+2023…
+
+2024…
+
+2025…
 
 <!-- sida 235 -->
 
@@ -11439,6 +12061,7 @@ och uppvärmningsbränslen inom ESR-sektorn
 Enhet kronor per MWh 1 januari 2026
 900
 800
+Skatt per MWh
 700
 600
 500
@@ -11471,18 +12094,30 @@ lägre när gasen används som motorbränsle i fordonsgas än när den
 används som uppvärmningsbränsle vilket innebär att incitamenten
 
 202
-nisneB dadnalbnigål
-lonatE
-dadnalbnigål
-nisneboiB
-leseiD leseidskurbdroJ dadnalbnigål
-emaF
-dadnalbnigål
-OVH
-ajlosgnindlE losaG sagrutaN tfirdrotom
-sagrutaN
-skoK/loK
-Skatt per MWh
+
+Bensin
+
+Etanol låginblandad
+
+Biobensin låginblandad
+
+Diesel
+
+Jordbruksdiesel
+
+Fame låginblandad
+
+HVO låginblandad
+
+Eldningsolja
+
+Gasol
+
+Naturgas
+
+Naturgas motordrift
+
+Kol/Koks
 
 <!-- sida 259 -->
 
@@ -14233,8 +14868,8 @@ ning är godkända för att använda HVO100.
 Figur 6.1 Antal nyregistrerade personbilar per drivmedel 2006–2025
 
 450 000
+Bensin Elhybrid Etanol Diesel Laddhybrid El Gas
 400 000
-
 350 000
 300 000
 
@@ -14252,8 +14887,46 @@ motor men det stora flertalet har bensinmotor.
 Källa: Underlag från Trafikanalys baserat på fordonsdatabasen för officiell statistik.
 
 263
-6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202 4202 5202
-Bensin Elhybrid Etanol Diesel Laddhybrid El Gas
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 320 -->
 
@@ -14430,7 +15103,7 @@ Fordonsmarknaden och den svenska fordonsflottan … SOU 2026:33
 Figur 6.4 Antal personbilar i trafik per drivmedel 2006–2025
 
 6000 000
-
+Bensin Elhybrid Etanol Diesel Laddhybrid El Gas
 5000 000
 
 4000 000
@@ -14469,8 +15142,46 @@ cent, varav merparten är elbilar.
 7 Egen bearbetning av underlag från Trafikanalys.
 
 268
-6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202 4202 5202
-Bensin Elhybrid Etanol Diesel Laddhybrid El Gas
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 325 -->
 
@@ -14540,17 +15251,17 @@ bilarna var äldre än 15 år.10
 Figur 6.5 Antal avregistrerade personbilar som exporterats,
 per drivmedel, år 2016–2025
 160 000
-
-140 000
+Bensin
+140 000 Elhybrid
+Etanol
 120 000
-
+Diesel
+Laddhybrid
 100 000
-
-80 000
+El
+80 000 Gas
 60 000
-
 40 000
-
 20 000
 0
 
@@ -14562,14 +15273,26 @@ Källa: Trafikanalys statistik Personbilar avregistrerade till utlandet, publice
 Trafikanalys (2025a).
 
 270
-6102 7102 8102 9102 0202 1202 2202 3202 4202 5202
-Bensin
-Elhybrid
-Etanol
-Diesel
-Laddhybrid
-El
-Gas
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 327 -->
 
@@ -15006,8 +15729,8 @@ har förlängts till den 31 oktober 2027, se kapitel 5.
 Figur 6.8 Antal nyregistrerade lätta lastbilar i Sverige
 uppdelat på drivmedel 2020–2025
 50 000
+Bensin Elhybrider Etanol Diesel Laddhybrider El Gas
 45 000
-
 40 000
 35 000
 30 000
@@ -15027,8 +15750,18 @@ en juridisk person. Ägarna är huvudsakligen aktiva inom bygg- och
 anläggningsbranschen, fastighetsförvaltning, handel, uthyrning och
 
 280
-0202  1202  2202  3202  4202   5202
-Bensin Elhybrider Etanol Diesel Laddhybrider El Gas
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 337 -->
 
@@ -15084,8 +15817,8 @@ uppdelat på drivmedel 2020–2025
 Observera att drygt 60 procent av de nyregistrerade tunga
 lastbilarna 2025 tillhörde segmentet 3,5–4,25 tons lastbilar
 9 000
+Diesel  Gas   El   Övriga
 8 000
-
 7 000
 6 000
 5 000
@@ -15120,8 +15853,18 @@ utan även från gasdrift till eldrift. Andelen elbussar utgjorde 16 procent
 av alla bussar i trafik under 2025, (sammanlagt drygt 2 300) medan
 
 282
-0202  1202   2202  3202  4202   5202
-Diesel  Gas   El   Övriga
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 339 -->
 
@@ -15165,6 +15908,7 @@ Figur 6.10 Skrotade respektive exporterade tunga lastbilar som
 andel av fordonsbeståndet vid årets slut föregående år
 
 4%
+Andel skrotade Andel exporterade
 
 3%
 
@@ -15199,8 +15943,46 @@ i olika segment, där majoriteten av körsträckorna ligger i spannet
 28 Underlag från Trafikanalys.
 
 284
-6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202 4202 5202
-Andel skrotade Andel exporterade
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 341 -->
 
@@ -15337,20 +16119,21 @@ Figur 6.11 Utsläpp av växthusgaser från arbetsmaskiner 2005–2024
 
 Miljoner ton koldioxidekvivalenter
 5,0
+Industri- och byggsektorn (inkl. vägarbeten)
 4,5
-
+Jordbruk och fiske
+Skogsbruk
 4,0
-3,5
+Övriga (flygplatser hamnar m.m.)
+3,5                  Kommersiella och offentliga verksamheter
+Hushåll
 3,0
-
 2,5
 2,0
 1,5
-
 1,0
 0,5
 0,0
-
 Källa: Naturvårdsverkets statistik Arbetsmaskiner, utsläpp av växthusgaser. Tillgänglig på:
 https://www.naturvardsverket.se/data-och-statistik/klimat/vaxthusgaser-utslapp-fran-arbetsmaskiner/
 (Hämtad 2026-01-15).
@@ -15375,13 +16158,46 @@ arbetsmaskiner/.
 uppdateras inte årligen, vilket gör resultaten osäkra.
 38 Naturvårdsverket (2022).
 288
-5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202 4202
-Industri- och byggsektorn (inkl. vägarbeten)
-Jordbruk och fiske
-Skogsbruk
-Övriga (flygplatser hamnar m.m.)
-Kommersiella och offentliga verksamheter
-Hushåll
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
 
 <!-- sida 345 -->
 
@@ -16421,11 +17237,12 @@ moms, 1991–2025 och medelpriser mars–april 2026
 
 Kronor per liter, prisnivå 2025
 30
-
+Bensin
+Diesel
 25
-
+Bensin medelpris mars-april 2026
+Diesel medelpris mars-april 2026
 20
-
 15
 
 10
@@ -16456,11 +17273,42 @@ begränsad betydelse för dieselprisets utveckling. Från pristoppen
 sive moms. Pumppriset på bensin sjönk samtidigt med omkring
 
 314
-1991 3991 5991 7991 9991 1002 3002 5002 7002 9002 1102 3102 5102 7102 9102 1202 3202 5202
-Bensin
-Diesel
-Bensin medelpris mars-april 2026
-Diesel medelpris mars-april 2026
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+2023
+
+2025
 
 <!-- sida 371 -->
 
@@ -16733,54 +17581,35 @@ kapitel 14.
 
 Tabell 7.1 Vad händer i tre olika EU-scenarier där omställningen av transportsektorn mot klimatmål 2040 och 2050 i EU
 analyseras?
-SOU
-2026:33
 
 EU-kommissionen-(2024) CONCAWE (SPGCI) (2025) ELS-analysis (2025)
-
-Elektrifiering av vägfordon Koldioxidkraven uppfylls för lätta och
-tunga fordon (i fyra scenario-alternativ
-där S3 och LIFE når längst).
-
-Transporteffektivitet-modala skiften Finns med men antaganden om relativt
-hög trafiktillväxt har stor betydelse för
-resultatet
-Samspel och konkurrens mellan Fyra gånger så stor användning av
-vägtransporter, flyg och sjöfart biobränslen i transportsektorn totalt 2040
-jämfört med 2015. Den största delen av
-ökningen sker i flyg och sjöfart.
-Bio- och elektrobränslen utvecklas utifrån
+Elektrifiering av vägfordon Koldioxidkraven uppfylls för lätta och Ett scenariofall med något lägre Ett scenariofall med kommissionens
+tunga fordon (i fyra scenario-alternativ elektrifieringstakt, och ett på elektrifieringstakt.
+där S3 och LIFE når längst). kommissionens nivå Två scenariofall med lägre
+elektrifieringstakt
+Transporteffektivitet-modala skiften Finns med men antaganden om relativt Antar en kraftfull järnvägsutbyggnad och Antar lägre trafiktillväxt i flyg och sjöfart
+hög trafiktillväxt har stor betydelse för därmed en lägre flygtillväxt. Förutsätter jämfört med kommissionens scenarier
+resultatet     omfattande investeringar i järnvägs-
+infrastruktur.
+Samspel och konkurrens mellan Fyra gånger så stor användning av Scenarierna är partiella men balanserar HVO-produktion konkurrerar med SAF om
+vägtransporter, flyg och sjöfart biobränslen i transportsektorn totalt 2040 de olika transportsektorerna mot oljor och fetter. Virke från gallring och
+jämfört med 2015. Den största delen av varandra. röjning och skogsrester kan även komma
+ökningen sker i flyg och sjöfart. att användas för marina bränslen.
+Bio- och elektrobränslen utvecklas utifrån Partiell analys i övrigt.
 behovet i flyg och sjöfart, i samspel med
 vägtransporter. Effekter i LULUCF-sektorn
 finns med.
 
+SOU 2026 :33
+
+D rivm ede lsm arknaden – u tgångsläge och p rob lem b ild
+
 321
-
-Ett scenariofall med något lägre Ett scenariofall med kommissionens
-elektrifieringstakt, och ett på elektrifieringstakt.
-kommissionens nivå Två scenariofall med lägre
-elektrifieringstakt
-Antar en kraftfull järnvägsutbyggnad och Antar lägre trafiktillväxt i flyg och sjöfart
-därmed en lägre flygtillväxt. Förutsätter jämfört med kommissionens scenarier
-omfattande investeringar i järnvägs-
-infrastruktur.
-Scenarierna är partiella men balanserar HVO-produktion konkurrerar med SAF om
-de olika transportsektorerna mot oljor och fetter. Virke från gallring och
-varandra.      röjning och skogsrester kan även komma
-att användas för marina bränslen.
-Partiell analys i övrigt.
-Drivmedelsmarknaden
-–
-utgångsläge
-
-och
-problembild
 
 <!-- sida 378 -->
 
-322
+EU-kommissionen-(2024) CONCAWE (SPGCI) (2025) ELS-analysis (2025)
 
-EU-kommissionen-(2024)
 Tillgång till bioråvara, inklusive lignin Modelleringen har ett tak för hållbar
 biomassa-användning i EU. Ligninråvara
 kommer in men kommer från energiskog
@@ -16789,7 +17618,6 @@ skogsavverkning. Begränsningarna styr
 även in elektrobränslen i bensin och
 diesel.
 
-CONCAWE (SPGCI) (2025)
 Biomassaanvändningen begränsad till
 hållbara uttagsnivåer. (Imperial College
 UK) Hamnar på maxnivån i fallet med
@@ -16801,14 +17629,6 @@ Lignin antas fungera även för drivmedel
 som kan användas som diesel- och
 bensinersättning.
 
-Drivmedelsmarknaden
-
-–
-utgångsläge
-
-och
-problembild
-ELS-analysis (2025)
 I målsättningsscenariot kommer EU-
 potentialer från ligninråvara in samtidigt
 som importerad och grödobaserad bio-
@@ -16820,9 +17640,6 @@ användas i viss utsträckning (bioetanol).
 Lägre priser om fortsatt import av
 bioråvara tillåts.
 
-SOU
-
-2026:33
 E-bränslen vägtransporter Används 2040 i lätta och tunga fordon, Används som ersättning för bensin och Antar inte att e-bensin kommer in.
 minskar till nära noll 2050 diesel.
 Försörjnings-trygghet, inhemsk råvara / Ingen ökad import av biomassa. Grödo- EU självförsörjande på biomassa (annex I målsättningsscenariot antas EU bli
@@ -16838,6 +17655,12 @@ antal raffinaderier om.\*
 \*I scenarierna är EU fortsatt importberoende av flygbränsle. Vid omställning från fossila råvaror uppkommer även brist på bit umen. Nafta till kemiindustrin kan däremot
 tillgodoses med förnybar råvara.
 Källa: Egen bearbetning.
+
+D rivm ede lsm arknaden – u tgångsläge och p rob lem b ild
+
+SOU 2026 :33
+
+322
 
 <!-- sida 379 -->
 
@@ -17186,16 +18009,16 @@ Figur 7.11 Antal försäljningsställen per stationstyp i Sverige 1983–2025
 Avser Drivkraft Sveriges medlemmar och partners eller de med stark
 koppling till dem
 5 000
-4 500
-
-4 000
+Samtliga
+4 500                          Automatstationer
+4 000                          Bensinstationer
+Servicestationer
 3 500
+Singelanläggningar
 3 000
-
 2 500
 2 000
 1 500
-
 1 000
 500
 0
@@ -17218,12 +18041,50 @@ E85-pumpen har länge varit den vanligast förekommande pumpen
 70 Med förnybart drivmedel avses drivmedel, med undantag för elektricitet, som är avsett för
 transportändamål och helt eller till övervägande del har framställts från förnybara energikällor.
 330
-3891 5891 7891 9891 1991 3991 5991 7991 9991 1002 3002 5002 7002 9002 1102 3102 5102 7102 9102 1202 3202 5202
-Samtliga
-Automatstationer
-Bensinstationer
-Servicestationer
-Singelanläggningar
+
+1983
+
+1985
+
+1987
+
+1989
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+2023
+
+2025
 
 <!-- sida 387 -->
 
@@ -17240,19 +18101,19 @@ se figur 7.12.
 Figur 7.12 Antal försäljningsställen per utbud av förnybara drivmedel
 Inkluderar även antal stationer med laddstolpe
 4 500
-
+Samtliga
 4 000
+varav har E85
+varav har HVO 100
 3 500
-
+varav har fordonsgas
+varav har laddstolpe
 3 000
 2 500
-
 2 000
 1 500
-
 1 000
 500
-
 0
 
 Anm.: En station med fler än ett förnybart drivmedel återfinns i statistiken för respektive drivmedel.
@@ -17272,12 +18133,50 @@ gänglighet, 96 procent, har boende i de kommuner som klassas som
 eller bensin.
 
 331
-4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202 4202 5202
-Samtliga
-varav har E85
-varav har HVO 100
-varav har fordonsgas
-varav har laddstolpe
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 388 -->
 
@@ -18895,24 +19794,26 @@ Figur 8.1 Påstående: Höj koldioxidskatten på bensin
 
 Fördelning av svar (vänster)
 Bensinpris vid pump (höger)
+100%                         25     Mycket dåligt
+förslag
 
-```osaker-tabell
-100%                         25
+80%                         20     Ganska dåligt
+förslag
+60%                         15     Varken bra eller
+dåligt förslag
 
- 80%                         20
+40%                         10     Ganska bra
+förslag
 
- 60%                         15
-
- 40%                         10
-
- 20%                         5
-
- 0%                          0
-```
-
+20%                         5
+Mycket bra
+förslag
+0%                          0
+Bensinpris vid
+pump, prisnivå
+2025
 Källa: SOM-institutet (2025) Analysverktyg (uttag gjort 2025-10-13) och egen bearbetning av prisstatistik
 från Drivkraft Sverige.
-
 Även om en större andel ville sänka än höja koldioxidskatten utmär-
 ker sig inte koldioxidskatter som särskilt impopulära jämfört med
 andra skatter. I SOM-institutets undersökning från 2019 var andelen
@@ -18931,20 +19832,34 @@ tivt högt för att blanda in biobränsle i diesel och bensin jämfört med
 72 SOM-insitutet (2019). Utdrag erhållet via e-post 2 april 2025.
 
 367
-1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202 4202
-Mycket dåligt
-förslag
-Ganska dåligt
-förslag
-Varken bra eller
-dåligt förslag
-Ganska bra
-förslag
-Mycket bra
-förslag
-Bensinpris vid
-pump, prisnivå
-2025
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
 
 <!-- sida 424 -->
 
@@ -19271,14 +20186,14 @@ Figur 8.3 Bensin- och dieselpris vid pump i relation till disponibel inkomst
 
 Index, 2010=100 (baserat på priser i prisnivå 2025)
 180
-
+Disponibel inkomst per capita
 160
-140
-120
-
+Bensinpris historik
+140     Dieselpris historik
+Bensinpris efter 2021
+120     Dieselpris efter 2021
 100
 80
-
 60
 40
 
@@ -19303,12 +20218,40 @@ motsvarande ESR-åtaganden som Sverige. Vi ser att Sverige har klart
 lägre bensinpriser och något lägre dieselpriser än jämförbara länder.
 
 375
-3991 5991 7991 9991 1002 3002 5002 7002 9002 1102 3102 5102 7102 9102 1202 3202 5202
-Disponibel inkomst per capita
-Bensinpris historik
-Dieselpris historik
-Bensinpris efter 2021
-Dieselpris efter 2021
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+2023
+
+2025
 
 <!-- sida 432 -->
 
@@ -19319,8 +20262,8 @@ Figur 8.4 Drivmedelspriser i Sverige och jämförbara länder
 Kronor per liter
 30
 
+Bensinpris vid pump Dieselpris vid pump
 25
-
 20
 15
 
@@ -19343,8 +20286,30 @@ gjorde sedan att de genomsnittliga drivmedelspriserna per år har legat
 avsevärt under sin historiska trend, se figur 8.5.
 
 376
-anrednälredeN kramnaD dnalniF egirevS egroN dnalksyT anrednälredeN kramnaD dnalniF egirevS egroN dnalksyT
-Bensinpris vid pump Dieselpris vid pump
+
+Nederländerna
+
+Danmark
+
+Finland
+
+Sverige
+
+Norge
+
+Tyskland
+
+Nederländerna
+
+Danmark
+
+Finland
+
+Sverige
+
+Norge
+
+Tyskland
 
 <!-- sida 433 -->
 
@@ -19354,13 +20319,14 @@ Figur 8.5 Drivmedelspris i relation till den historiska trenden
 
 Kronor per liter, prisnivå 2025
 30
-
+Bensinpris historik
+Dieselpris historik
 25
-
-20
-
+Bensinpris efter 2021
+Dieselpris efter 2021
+20      Linjär (Bensinpris historik)
+Linjär (Dieselpris historik)
 15
-
 10
 
 5
@@ -19388,13 +20354,42 @@ däremot minskat. Ett viktigt undantag är perioden kring Rysslands
 invasion av Ukraina 2022 då körkostnaden ökade.
 
 377
-1991 3991 5991 7991 9991 1002 3002 5002 7002 9002 1102 3102 5102 7102 9102 1202 3202 5202
-Bensinpris historik
-Dieselpris historik
-Bensinpris efter 2021
-Dieselpris efter 2021
-Linjär (Bensinpris historik)
-Linjär (Dieselpris historik)
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+2023
+
+2025
 
 <!-- sida 434 -->
 
@@ -19412,13 +20407,13 @@ Index 2010=100 (baserat på priser i prisnivå 2025)
 
 80
 60
-
+Disponibel inkomst per capita
+Bensinpris vid pump (kr/l)
 40
-
+Körkostnad bensin (kr/km)
+Pris kollektivtrafik, genomsnitt för periodbiljett i tätort
 20
-
 0
-
 Anm.: Körkostnaden och andelen är beräknad utifrån bensinpriset vid pump och den genomsnittliga
 drivmedelsförbrukningen per kilometer för alla personbilar i trafik respektive år.
 Källa: Egen bearbetning av underlag från Trafikverket (ur HBEFA), prisstatistik från Drivkraft Sverige
@@ -19444,11 +20439,38 @@ relation till inkomsten.86 Figur 8.7 visar modellerad drivmedelskon-
 86 Ibid.
 
 378
-0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202 4202 5202
-Disponibel inkomst per capita
-Bensinpris vid pump (kr/l)
-Körkostnad bensin (kr/km)
-Pris kollektivtrafik, genomsnitt för periodbiljett i tätort
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
 
 <!-- sida 435 -->
 
@@ -19672,22 +20694,28 @@ pendlingstimmarna eftersom kollektivtrafiken vanligtvis dimensio-
 104 Trafikanalys (2025b).
 105 Ibid.
 383
-renummoksdatsrotS dats
-ne
-arän
-renummok
-atäT
-tesgälva
-renummok
-atäT
-angäleb
-aränstrotäT
-renummoksdgybsdnal renummoksdgybsdnaL
-angäleb
-tesgälva
-aselg
-tekcyM
-renummoksdgybsdnal tlatoT
+
+Storstadskommuner
+
+Täta kommuner nära en stad
+
+Täta kommuner avlägset
+
+belägna
+
+Tätortsnära
+
+landsbygdskommuner
+
+Landsbygdskommuner
+
+avlägset belägna
+
+Mycket glesa
+
+landsbygdskommuner
+
+Totalt
 
 <!-- sida 440 -->
 
@@ -29883,9 +30911,9 @@ som bedöms vara ungefär densamma för länderna i figuren.
 Figur 14.3 Bensin- respektive dieselpriser i Sverige och jämförbara länder
 Kronor per liter
 30
-
+Bensinpris vid pump Dieselpris vid pump
 25
-
+Besninprisökning av förslag Dieselprisökning av förslag
 20
 
 15
@@ -29914,9 +30942,30 @@ och därmed påverkar priserna uppåt. Vi redogör nedan för hur driv-
 medelspriserna bedöms förhålla sig till den historiska prisutveck-
 
 610
-anrednälredeN kramnaD dnalniF egirevS egroN dnalksyT anrednälredeN kramnaD dnalniF egirevS egroN dnalksyT
-Bensinpris vid pump Dieselpris vid pump
-Besninprisökning av förslag Dieselprisökning av förslag
+
+Nederländerna
+
+Danmark
+
+Finland
+
+Sverige
+
+Norge
+
+Tyskland
+
+Nederländerna
+
+Danmark
+
+Finland
+
+Sverige
+
+Norge
+
+Tyskland
 
 <!-- sida 667 -->
 
@@ -30093,7 +31142,11 @@ Figur 14.4 Faktisk och beräknad utveckling av priset på bensin
 och diesel vid pump i förhållande till disponibel inkomst
 
 Index, 2010=100 (baserat på priser i prisnivå 2025)
+Disponibel inkomst per capita Disponibel inkomst per capita prognos
 
+Bensinpris historik  Dieselpris historik
+Bensinpris efter 2021 Dieselpris efter 2021
+Bensinpris grundfall Dieselpris grundfall
 180
 
 160
@@ -30127,11 +31180,50 @@ Kommissionen antar en relativ kraftig ökning av oljepriset mellan
 2030 och 2035 vilket förklarar del av prisökningen i vårt grundfall
 
 615
-3991 5991 7991 9991 1002 3002 5002 7002 9002 1102 3102 5102 7102 9102 1202 3202 5202 7202 9202 1302 3302 5302
-Disponibel inkomst per capita Disponibel inkomst per capita prognos
-Bensinpris historik  Dieselpris historik
-Bensinpris efter 2021 Dieselpris efter 2021
-Bensinpris grundfall Dieselpris grundfall
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+2023
+
+2025
+
+2027
+
+2029
+
+2031
+
+2033
+
+2035
 
 <!-- sida 672 -->
 
@@ -30144,7 +31236,11 @@ siktiga trend som kan observeras över tid.
 
 Figur 14.5 Drivmedelspriserna i förhållande till sin historiska trend
 Kronor per liter, prisnivå 2025
+Bensinpris historik Dieselpris historik
 
+Bensinpris efter 2021 Dieselpris efter 2021
+Bensinpris grundfall Dieselpris grundfall
+Linjär (Bensinpris historik) Linjär (Dieselpris historik)
 30
 
 25
@@ -30173,11 +31269,52 @@ inblandningen av biodrivmedel när marknaden fungerar sämre och
 priserna är höga.
 
 616
-1991 3991 5991 7991 9991 1002 3002 5002 7002 9002 1102 3102 5102 7102 9102 1202 3202 5202 7202 9202 1302 3302 5302
-Bensinpris historik Dieselpris historik
-Bensinpris efter 2021 Dieselpris efter 2021
-Bensinpris grundfall Dieselpris grundfall
-Linjär (Bensinpris historik) Linjär (Dieselpris historik)
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+2007
+
+2009
+
+2011
+
+2013
+
+2015
+
+2017
+
+2019
+
+2021
+
+2023
+
+2025
+
+2027
+
+2029
+
+2031
+
+2033
+
+2035
 
 <!-- sida 673 -->
 
@@ -30577,8 +31714,9 @@ elektrifiering än vad målscenariot kräver.
 Figur 14.6 Totalkostnadsanalys över styrmedel för tunga lastbilar
 Kronor per liter, exklusive moms, prisnivå 2025
 12,0
-
-10,0
+Reduktionspliktsjusteringar Höjd drivmedelsskatt
+10,0         Sänkt elskatt   Avståndsbaserad vägskatt
+Premier         Tröskelvärde TCO
 
 8,0
 
@@ -30598,10 +31736,32 @@ Källa: Egen bearbetning av underlag från Trafikverket.
 tillgänglig på https://bransch.trafikverket.se/for-dig-i-branschen/miljo---for-dig-i-
 branschen/minskad-klimatpaverkan/emissionsberakningsmodellen-hbefa/.
 625
-8202 9202 0302 1302 2302 3302 4302 5302 6302 7302 8302 9302 0402
-Reduktionspliktsjusteringar Höjd drivmedelsskatt
-Sänkt elskatt   Avståndsbaserad vägskatt
-Premier         Tröskelvärde TCO
+
+2028
+
+2029
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+2035
+
+2036
+
+2037
+
+2038
+
+2039
+
+2040
 
 <!-- sida 682 -->
 
@@ -37213,28 +38373,23 @@ www.facebook.com/kungsbackakommun
 <!-- sida 831 -->
 
 A
-T Y
+FÖRRÅD 0 .4                                                                                                                                                Y T
 S
-G
+7.5                                                                                                                                                       G
 N
+KG
 NI
 L
 L
-Ä
+A                                                                                                                                                     Ä
 T
-S
+DB1                                                                               S
 P
-P
-U
-LÅM
-0 FÖRRÅD .4
-7.5
-KG
-A
-DB1
+DB2                                                                                                                                       P
+DB2                                                                               U
 DB2
-DB2
-DB2
+
+MÅL
 
 [Tabell 831-832-1](handlingar.tabeller/831-832-1.csv)
 
@@ -37278,29 +38433,26 @@ DB2
 <!-- sida 832 -->
 
 A
-T
+FÖRRÅD                                                                                                                                                                                           T
 Y
 S
-G
+7.5                                                                                                                                                                                            G
 N
+KG
 NI
 L
 L
-Ä
+A                                                                                                                                                                                          Ä
 T
-S
+DB1                                                                                                   S
 P
-P
-U
-LÅM
-7.5
-DB1
+DB2                                                                                                                                                                         P
+DB2                                                                                                   U
 DB2
-DB2
-DB2
-0.4 FÖRRÅD
-KG
-A
+
+4.0
+
+MÅL
 
 <!-- sida 833 -->
 

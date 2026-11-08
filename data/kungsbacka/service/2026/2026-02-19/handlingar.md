@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5ca69e5719c47cd9687cd05b/1771229065
 sha256: 141eb713935202b21e966072bfdc23447aa93fca5aece817e3fb6d9bd7aad924
 bytes: 21866559
 sidor: 194
-hamtad: 2026-11-06T12:25:07+00:00
-konverterad: 2026-11-06T12:26:52+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T12:18:20+00:00
+konverterad: 2026-11-08T12:20:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3898,21 +3898,28 @@ Internkontrollrapport 2025
 
 4.1 Risker - Till plan
 
-6
-tehkilonnaS
 4          8          12         16
+
 4
+
 3          6          9          12
 2 4 6      3
+
 3
+
 2          4          6           8
 1          5
 2
+
 1          2          3           4
+
 1
+
 1           2          3          4
 Konsekvens
+
 4 Hög 2 Medel Totalt: 6
+
 Kritisk        Sannolikhet           Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den inte
@@ -3923,6 +3930,10 @@ berörda intressenter och kommunen)
 intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
+
+6
+
+Sannolikhet
 
 <!-- sida 84 -->
 

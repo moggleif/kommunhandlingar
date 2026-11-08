@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.74cc8c0e19a55b65f7f7cfc4/1762933243
 sha256: b80e70553ede9857ad735a9ac3dcfc0d962f95dd848c8bf73027ba2167bd4858
 bytes: 15828624
 sidor: 366
-hamtad: 2026-11-06T10:33:11+00:00
-konverterad: 2026-11-06T10:35:41+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T10:14:37+00:00
+konverterad: 2026-11-08T10:17:15+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -10758,27 +10758,6 @@ PBL 2010:900 med standardförfarande
 
 <!-- sida 255 -->
 
-"KUNGSBA
-
-4\)
-
-N=6375100
-
-near
-I
-
-0 10
-
-Söderåleden
-
-20
-
-30
-
-40
-
-SKALA 1:1000 A1
-
 TECKENFÖRKLARING
 
 \+ Kommungräns
@@ -10794,10 +10773,8 @@ Skärmtak
 Transformator fasad, resp tak
 Altan
 +45 Höjdpunkt
-
 Höjdkurva 1 m
-Höjdkurva 5 m
-
+ocsrsrdg L - - - ) u s / . | SS | . ; . I Pla | | | Höjdkurva 5 m
 Järnväg
 Perrong
 
@@ -10805,13 +10782,10 @@ een Vägkant, matarväg
 on — Vägkant, större väg
 ooo Vägkant, mindre väg
 öden Gång- / Cykelväg, infart, stig
-
 Vägtunnel
-
-Peeeeeeeeseeseeeeeeeeee Vägillustrationslinje
+Mrs Vägillustrationslinje
 
 Storgatan Gatunamn
-
 5 Adressnummer
 
 Trappa
@@ -10819,38 +10793,42 @@ Trappa
 Strandlinje, åkant
 
 — Dike, mindre bäck >0,8 m
-
+Dike, mindre bäck <0,8 m
 vy Vatten
 
-Kaj
-Mur
-1 NN AN Räcke
+Bassäng
 
-ddrrrr rr rss rss en sara rss s en sees esse sasse a ena Släntfot
-nn eden Släntkrön
-. Stödmur
+Kaj
+
+Mur
+
+Se AE As Räcke
+
+össssr ra saraaa ss rss ss sss en seas s ses a sasse ess ana Släntfot
+
+rserennn dörren rr er ennen ef ernenn nana nnnnnnnnnn Joen nnnnnn Släntkrön
+
+VG Stödmur
 
 Staket
 Häck
 
-Bassäng
-
-Dike, mindre bäck <0,8 m
-
-Belysningsmast
-
-Elstolpe, trafiksignal
-
-AA
+ja( Belysningsmast
 
 sd Belysningsstolpe
 s
-
 a
 
+"KUNGSBA
+
+Elstolpe, trafiksignal
 Mast
 É E Luftledning, högspänning
-RAA Ägoslagsgräns
+FRA E Ägoslagsgräns
+
+near
+I
+
 FRAMSTÄLLNING
 
 Ajourföring och kontroll av kartan innanför aktuellt planområde
@@ -10858,27 +10836,25 @@ Ajourföring och kontroll av kartan innanför aktuellt planområde
 
 Grundkartan är upprättad genom utdrag ur primärkartverk
 tillhörande Kungsbacka kommun och kompletterad i fält
-
 med terrestra mätningar.
 
 Rättigheter redovisas inom detaljplaneområdet.
 
 Aktualitetsdatum kartdata 2025-04-04
-
 Aktualitetsdatum fastighetsgränser 2025-04-24
 
-Grundkarta till detaljplan
+Grundkarta till detaljplan Granskningshandling
 
-Granskningshandling
+4\)
+
+Ajourföringsdatum
+
+2025-04-04
 
 Tölöberg 2 och Tölö 1:17
 
 i Kungsbacka
 Kungsbacka kommun
-
-Ajourföringsdatum
-
-2025-04-04
 
 Koordinatsystem
 
@@ -10886,18 +10862,20 @@ SWEREF99 12 00
 
 Kungsbacka
 
-Upprättad 2025-04-24 Reviderad
-
 Höjdsystem
 
-RH 2000
-
-Malin Lundgren Patrik Stenberg
-Verksamhetschef Geodataavdelningen Mätningsingenjör
+Upprättad 2025-04-24 Reviderad RH 2000
 
 Diarenr
 
-2018-00033
+Malin Lundgren Patrik Stenberg
+Verksamhetschef Geodataavdelningen Mätningsingenjör 2018-00033
+
+0 10 20 30 40 50 60 m N
+
+SKALA 1:1000 A1
+
+Söderåleden
 
 <!-- sida 256 -->
 

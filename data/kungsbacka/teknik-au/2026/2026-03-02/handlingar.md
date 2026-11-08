@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df70621c28/1772193224
 sha256: d03cecb7bb39a9601821b8ab17b6d24038f86562296403981a5d5d8e34c3c803
 bytes: 17905745
 sidor: 192
-hamtad: 2026-11-06T12:01:16+00:00
-konverterad: 2026-11-06T12:06:58+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T11:52:45+00:00
+konverterad: 2026-11-08T11:58:39+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, tabell-osaker, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2316,218 +2316,246 @@ fria Mvmmelyg Xlmalell bur Ha
 
 <!-- sida 54 -->
 
-23
-22
-33
-
-38
-29
-35
-
-27
-36
-37
-u                                                21      37
-L
-20      31
-19   26
-6,5
-PARK
-8,3
-
-B
-
-p                              18
-b   1
-
-B
-6,5                                     11,3
-
-G
-A
-T
-A
-B                                NATUR
-u
-8,2
-18,1
-
-11,3
-
-16
-
-8,0 PARK               E 15
-
-15                                                                                10,6
-
-u 23 21 B 16 7,5 g
-
-16
-23
-
-20                                B
-15
-
-7,3
-
-B be e
-p  4 5       P B 1 A R A K T A G
-
-PARK
-5,4
-B
-
-B
-
-B
-
-5,4
-5,5
-5,2
-
-K                                       10263
-R
-4,2                          5,5                                           A
-P
-
-5,5
-
-5,5
-4,4
-
-5,2                                                              7,3
-
-4,0
-8,8
-4,2
-9,7
-
-7,0
-3,9
-5,7                                                              6,1
-
-5,7
-81
-13
-15
-16
-7
-7
-5
-16
-6 5
-13
-15
-8     10            12
-16
-9                  14
-13
-11                   13
-14
-5                            17
-8 13
-12
-14                                              9
-13
-9
-10
-18
-11
-10   11 8 14 10 9 19 20 8 13
-12
-17
-11
-19                                                  8
-5
-18                                                                                                         12
-14              11 13
-5                                            10  9
-8
-12
-8
-13
-4                                                                                                                                    12
-5                                                                                                11
-4
-6
-7
-14
-7
-6
-14
-6
-7
-6
-7
-14
-6
-7
-14
-5
-5
-5
-7
-4
-4
-7
-9
-9
-7
-7
-7
-7
-5
-7
-5
-7
-4
-4
-5
-4
-6
-9
-1383K-99/21.1                                                                         9
+1383K-99/21.1                                                                         9                                 13            23
 Lr2
+22
+BETECKNINGAR GRUNDKARTA
 Detaljplan för
-BETECKNINGAR GRUNDKARTA                                          Ändring diarienummer:
+Ändring diarienummer:
+33
+7
 3
-Traktgräns        Norr om Pilgatan, etapp 3,             SBK-2021-1811                                                                   a:
+Traktgräns        Norr om Pilgatan, etapp 3,             SBK-2021-1811                                                                   a:                           15
 g
 Fastighetsgräns
-Del av Göingegården 1:13                                                                                                                19:9                                                         PLANBESTÄMMELSER
-LINDÅS / ATLE Traktnamn / Kvartersnamn                                                                                                    ga:1
-19:5 3:6 , S:1 Fastighetsbeteckning, samfällighet
+Del av Göingegården 1:13                                                                                                                19:9
+16
+29
+38
+PLANBESTÄMMELSER
+LIND
+3
+Å
+:6
+S
+,
+/
+S
+A
+:1
+TLE T
+F
+r
+a
+a
+s
+k
+t
+t
+ig
+n
+h
+a
+e
+m
+ts
+n
+b
+/
+e
+K
+te
+v
+c
+a
+k
+r
+n
+te
+in
+rs
+g
+n
+,
+a
+s
+m
+am
+n
+fällighet
+ga:1
+19:5            35
 Ändring avser upphävandet av planbestämmelse p som reglerar placering av                     8                             9                                                                         Följande gäller inom områden med nedanstående beteckningar. Endast angiven
 Övrig gräns (lr, sv, GA mm)                         2
-GA:1 Gemensamhetsanläggning huvudbyggnad i förhållande till fastighetsgräns inom delar av planområdet.               GÅNG                 8                                             19:1                                h a e n l v a ä p n l d a n n i o n m g r o å c d h e u t. tformning är tillåten. Där beteckning saknas gäller bestämmelsen inom
-sv  Servitut          Se tillhörande plan- och genomförandebeskrivning.                                                                                           1383-90/113.2
-CYKEL
-lr  Ledningsrätt                                                                                             19:1       7,1                                                                                                GRÄNSBETECKNINGAR
+GA:1 Gemensamhetsanläggning huvudbyggnad i förhållande till fastighetsgräns inom delar av planområdet.          7    GÅNG                 8                                             19:1                                h a e n l v a ä p n l d a n n i o n m g r o å c d h e u t. tformning är tillåten. Där beteckning saknas gäller bestämmelsen inom
+s
+lr
+v
+L
+S
+e
+e
+d
+rv
+n
+i
+i
+t
+n
+u
+g
+t
+srätt
+Se tillhörande plan- och genomförandebeskrivning.
+19:1
+CY
+7
+K
+,1
+EL
+1383-90/113.2  27
+36
+37
+GRÄNSBETECKNINGAR
 Gränspunkt
-Bostadshus, uthus husliv Ändring upprättad av Stadsbyggnadskontoret 2021-09-15, reviderad 2021-11-08. 6                   7,1                             g a :1                                                                     Planområdesgräns
-Bostadshus, uthus takkontur                                                                                                                    19:6  19:2     1383-90/113.2                                                          Användningsgräns
+B
+B
+o
+o
+s
+s
+t
+t
+a
+a
+d
+d
+s
+s
+h
+h
+u
+u
+s
+s
+,
+,
+u
+u
+t
+t
+h
+h
+u
+u
+s
+s
+h
+ta
+u
+k
+s
+k
+li
+o
+v
+ntur
+Ändring upprättad av Stadsbyggnadskontoret 2021-09-15, reviderad 2021-11-08. 6                         u 7,1
+L              19:6  19:2
+g a :1
+1383-90/113.2
+21      37                                                 P
+A
+l
+n
+a
+v
+n
+ä
+o
+n
+m
+d
+r
+n
+å
+in
+d
+g
+e
+s
+s
+g
+g
+r
+r
+ä
+ä
+n
+n
+s
+s
 Annan byggnad                                                                                           6,5
 Ändring antagen BN                                                                                              e
 Transformator, skärmtak                                                                                                                                                                                                              Egenskapsgräns
 6
-Väg, gc-väg       2021-11-18 § 323                                                                  6,6            6,7     6,9                                                                                                       Administrativ och egenskapsgräns
-strandskydd Strandskydd                        Claus Pedersen John Ljungberg                                                           7,2              1383-90/113.1 Ändring laga kraft
-B S e te ly n s m n u in r gsstolpe 2021-12-16 Planchef Planarkitekt                             6,4                                             10                                                                    ANVÄNDNING    AV MARK  OCH  VATTEN
-Dike, vattendrag, strandlinje                                                                                                                                            17                                            Allmänna platser med kommunalt huvudmannaskap
+
+```osaker-tabell
+     Väg, gc-väg       2021-11-18 § 323                                                                  6,6            6,7     6,9                                   14      20      31                                                  Administrativ och egenskapsgräns
+strandskydd Strandskydd Ändring laga kraft     Claus Pedersen John Ljungberg                        7                                  7,2              1383-90/113.1         19   26
+     B S e te ly n s m n u in r gsstolpe 2021-12-16 Planchef Planarkitekt        5                    6,4                  6,5                        10                                                                    ANVÄNDNING    AV MARK  OCH  VATTEN
+```
+
+PARK
+Dike, vattendrag, strandlinje
+8,3
+17                                            Allmänna platser med kommunalt huvudmannaskap
 , 4 kap. 5 § 1 st 2 p.
 Slänt                                                                                                                                                19:7
 6,3    6,3
-543  Nivåkurvor                                                                                                         6,1             7,4                                                                                     GATA      Gata
-43.8 Mätt höjdpunkt, laserskannad höjd TRÖNNINGE                                                       e n                                       8,6
+543  Nivåkurvor                                                                                                  7      6,1             7,4                                                                                     GATA      Gata
+43.8 Mätt höjdpunkt, laserskannad höjd TRÖNNINGE                                                       e n 6                                     8,6
 Fornminne                                                                                       s v ä g                                                    19:3                          3:6                               GÅNG      Gångväg
-6                  er g
-s b                                                                                                                           CYKEL     Cykelväg
+6
+s b
+er g
+B                                                                          CYKEL     Cykelväg
 k
 o
 Kr                       6,1    6,7     7,5     8,5    9,7
-U Gr P u P nd L k Y ar S ta N n I f N ra G m A st R älld genom utdrag och                                  1:29                                           e 1 10,4      19:8          1383K-2011/73.1                             P-PLATS    Parkeringsplats
-komplettering av Varbergs kommuns                                                                             P-PLATS                                           11,1                                                              PARK      Park digitala baskarta. 6
-p                19:4           1383-86/115.3
+U
+Gr
+P
+u
+P
+nd
+L
+k
+Y
+ar
+S
+ta
+N
+n
+I
+f
+N
+ra
+G
+m
+A
+st
+R
+älld genom utdrag och                                                                            1:29
+e
+1 p
+10,4
+19:8
+14     161383K-2011/73.1
+18
+P-PLATS    Parkeringsplats
+k d o ig m ita p l l a e t b te a r s in k g a r a ta v . Varbergs kommuns 6                                  P-PLATS                                    b   1  11,1                                                              PARK      Park
+6                                                              p                19:4           1383-86/115.3
 F
 D
 A a
@@ -2578,8 +2606,9 @@ g
 2
 \-
 0
-02                21:1                                K-2001/36.2                                           6,7     6,8     7,6
+02                21:1                           5    K-2001/36.2          6                                6,7     6,8     7,6
 8
+B
 9,9 2  11,6 12,1
 13,3
 1383K-2011/73.2
@@ -2600,84 +2629,348 @@ t u
 p.
 rområde
 1383
-e  p               11           13,1    TRÖNNINGE                                      B        Bostäder
+6,5                e  p               11 11,3   13 13,1    TRÖNNINGE                                      B        Bostäder
 6,3            6,9     7,7 5 1 8,5 8.5 9,8            12,8                                                      E        Transformatorstation
 13,5
 6,2                                b
 3:26                                L        Odlingslotter
-Karin Fridstrand
-Avdelningschef                                                       6
-6,9            6,6    6,8     7,1     7,8
+Karin Fridstrand                                                                                                                    G
+Avdelningschef                                                       6                                                                A                                             15
+7    6,9            6,6    6,8     7,1
+T
+A7,8
 10                  13,1
 17
 EGENSKAPSBESTÄMMELSER       FÖR  ALLMÄN  PLATS
 Koordinatsystem i plan: SWEREF 99 12 00                                                                                                                                                                                       MED  KOMMUNALT    HUVUDMANNASKAP
-Koordinatsystem i höjd: RH 2000                                                                                    e                                                                                                          Utformning av allmän plats
-Skala: 1:1000                                                                                                                                                               12,2
+Koordinatsystem i höjd: RH 2000                                        6                                           e                                                                                                          Utformning av allmän plats
+Skala: 1:1000                                                                                                            B                                NATUR             12,2
 8,2                  2
-3:25                                                   e                 e                                                                                        gång          Gångbana, 4 kap. 5 § 1 st 2 p.
-11,3    7,3     7,1       7    7,1     7,4 e 3         8,9     9,8    10,6    11,6                                                 damm          damm för dagvatten ska anläggas, 4 kap. 5 § 1 st 2 p.
-18                     7
+7
+3:25                                                   e           u     e                                                                                        gång          Gångbana, 4 kap. 5 § 1 st 2 p.
+8     10         11,3 12 7,3     7,1       7    7,1     7,4 e 3    8,2  8,9     9,8    10,6    11,6           14                                    damm          damm för dagvatten ska anläggas, 4 kap. 5 § 1 st 2 p.
+6                                                    18                     7                                                         16 18,1
+1383
 K-2001/36.1
+7
+11
+9
+15,3
 12,5
 12,3
-22                               10,9
+15,
+1
+3
+4
+13
+8,6  n  7,4            7,3     7,5
+22
+8,1     8,7    9 9,2    9,8 10,1
+10,9
+11      14
+13
+E
 S
 q-
 k
-sk
+s
+G
+k
 y
 y
 d
+E
 d
 d
 d
-av kulturvärde
+N
+a
+S
+v
+K
+ku
+A
+ltu
+P
+rv
+S
+ä
+B
+rd
+E
+e
 S
 n
-tenmuren ska bevaras, 4 kap. 8 § 1383
-15,3      15,3    8,6  n  7,4            7,3     7,5     8,1     8,7     9,2     9,8 10,1 11                                                 EGENSKAPSBESTÄMMELSER       FÖR
-18,5                       2
+S
+ten
+T
+m
+Ä
+ur
+M
+en
+M
+ska
+E
+be
+L
+v
+S
+ara
+E
+s,
+R
+4 k a
+F
+p. 8
+Ö
+§
+R
+5                            17  18,5                       2                                                                 11,3
 KVARTERSMARK
 18,5                                         GÖINGEGÅRDEN                             9,7
-Bebyggandets omfattning
+16                                                                                                                                                     Bebyggandets omfattning
 8
-16,5 20,8    21,6   16,9    14,8    8,6     7,9            7,7     7,9     8,2   q- 8 s ,6 kydd 9,3
+13 16,5 20,8    21,6   16,9    14,8    8,6     7,9 8          7,7     7,9     8,2   q- 8 s ,6 kydd 9,3
 e             Största exploatering är 250 kvadratmeter byggnadsarea per
-1            fastighet, 4 kap. 11 § 1 st 1 p.
-NATUR                                                                             8,8
-11,3                                                     gång                                      10                                                       e 2           Största exploatering är Största exploatering är 4000 kvadratmeter
+15
+NATUR
+8,0 PARK               E
+8,8
+12               14                         1            fastighet, 4 kap. 11 § 1 st 1 p.
+11,314                                           9       gång                                      10                                                       e 2           Största exploatering är Största exploatering är 4000 kvadratmeter
 bruttoarea. Utöver största angiven bruttoarea är största exploatering
 1:13
+4,9
 g
-a: 2 6        11,4 15,0   23,0     19,0  15,4     15,1    9,1    9,3      7,9    7,8     7,9     7,9     8,5 8,7
+a: 2 6
+9,5
+11,4 15,0   23
+g
+,0
+ång
+19,0
+15
+15,4     15,1
+9
+9,1    9,3      7,9    7,8     7,9     7,9     8,5 8,7
+10,6                  13
+e 3
 1
 p
+S
 1
 å
+t
 §
+ö
 6
+r
 1
+s
 0
-st
+s
+t
+t
 0
+a
 1
 k
 p
+e
 v
 .
-adratmeter byggnadsarea för komplementbyggnad,, 4 kap.
-4,9                       9,5                                                                                                                                                               e             Största exploatering är 2800 kvadratmeter bruttoarea. Utöver gång 3
-8,4                                                                                            8,2                                                                                 största angiven bruttoarea är största exploatering på 600
-kvadratmeter byggnadsarea för komplementbyggnad,, 4 kap. 11 § 1 st 1 5,1 5,5 6,7 11,7 21,8 17,2 12,2 11,0 8,5 10,1 7,5 7,7 8,1 8 7,8 11 e 4 M p. insta fastighetsstorlek för friliggande villor är 600 kvadratmeter, 4 e 38:1 kap. 11 § 1 st 1 p. 8,1 3 e Största exploatering är 145 kvadratmeter byggnadsarea för par-,
-e  22                                                                             5
+x
+a
+p
+d
+lo
+ra
+a
+t
+t
+m
+er
+e
+in
+te
+g
+r
+ä
+b
+r
+y
+2
+g
+8
+g
+0
+n
+0
+a d
+k
+s
+v
+a
+a
+r
+d
+e
+r
+a
+a t
+f
+m
+ör
+e
+k
+te
+o
+r
+m
+b
+p
+ru
+le
+tt
+m
+oa
+e
+r
+n
+e
+tb
+a
+y
+.
+g
+U
+g
+tö
+n
+v
+a
+e
+d
+r
+,, 4 kap.
+5,1     5,5     6,7 8
+8,
+9
+4 10
+11,7    18 19 2 2 1 0 23 21,8 17,2 16 14 12 1 , 3 2 11,0
+11
+10  8 8 ,5 10 1 1 0 1 ,1 7,5 g 7,5 7 u ,7 B 8,1 e 8 3 7,8 8,1
+8,2
+3 11 8:1                                     e e 4         M k S p k
+s
+a . v
+t
+t p
+ö
+i ö a n .
+r
+r 1 d s
+s
+s 1 t r
+t
+t a a
+a
+§ a t 1 f m
+a
+e a s
+n
+x t s e 1
+g
+p t t i e
+i
+p g l
+v
+o . r h
+e
+a b e
+n
+t y e t s
+b
+g r s i
+r
+g n
+u
+to n g
+tt
+r a
+o
+l ä e d
+a
+r k s
+r
+1 a
+e
+f 4 ö r
+a
+e 5 r a
+ä
+f k r
+r
+f i v l ö
+s
+i a g r
+t
+d
+ö
+g k r
+r
+a o a
+s
+n m
+t
+t
+a
+m d p e
+e
+e l e
+x
+t v e m
+p
+il r
+l
+l
+o
+o e b
+a
+r n y
+t
+t ä g
+e
+b r g
+r
+y
+i
+6 n g
+n
+0 a g
+g
+0 d n
+p
+s a k
+å
+a d v r ,
+6
+a e ,
+0
+d a 4
+0
+r k a f a ö t p m r . 1 p e 1 a t § e r - 1 r , , s t 4 1
+12                                              e  22                                                                             5
 rad-, och kedjehus. Största exploatering är 250 kvadratmeter
-n               7
-1                                                                                                            byggnadsarea för friliggande villor per fastighet, 4 kap. 11 § 1 st 1 p. 5,1 5,5 13,8 20,3 23,3 17,1 8,3 7,2 7,0 7,4 7,8 7,9 e 6 Största exploatering är 30 kvadratmeter bruttoarea, 4 kap. 11 § 1 st 1 p.
-Marken får inte förses med byggnad, 4 kap. 11 § 1 st 1 p.
-gång                                              8,1
-10
-8:9                                                                                                                                                                                       Högsta nockhöjd i meter . Högsta nockhöjd för komplementbyggnad 4,8
+17                                                   n               7
+5,1     5,5             11     13,8 16 20,3    23,3   17,1     8,3     7,2    7,0          1  7,4     7,8      7,9              9                                                         e 6           b S y tö g r g s n ta a d e s x a p r l e o a a t f e ö r r i n fr g il i ä g r g 3 a 0 n d k e v a v d il r lo a r t m pe e r te f r a s b t r i u g t h to e a t, r e 4 a ka , p 4 . 1 k 1 a p § . 1 1 1 s t § 1 1 p s . t 1 p.
+23
+19                                                  8
+5                                                                                                                                                                                                               Marken får inte förses med byggnad, 4 kap. 11 § 1 st 1 p.
+20         18     gång            B                                 8,1                                               12
+5
+4,8
 13-LI
 N-912.1
 S
@@ -2685,32 +2978,41 @@ S
 v
 5
 1
-6,3
+8:9 6,3
 6
-8,5    14,8    12,2     10,9   8,9     7,1     6,6             6,5
+8,5    1 13 4,8 14 1 1 5 2
+1
+,2
+0  9
+10,9 11 8,9    7,1
+7
+6,6             6,5   7
 e
 p 1
 e
 p
 2 b
-7,3   88,2      20:12
+7,3
+7,3
+88,2      20:12
+10
 11                               By
 0
 g
 .0
 gnadens använd
-ä
+H ä
 n
-r
+r ö
 i
-5
+5 g
 n
-,
+, s
 g
-0 meter, 4 kap. 11 § 1 st 1 p.
-8.5                                   4 5                     20:13                                                           e 7           Byggnadens användning ska vara flerbostadshus, 4 kap. 11 § 1 st 2 p.
-n 4,8 5,1 5,1 5,1 5,4 6,8 7,2 6,8 6,1 5,9 6,1 6,4 6,8 g e                        Placering
-6                                  6         B    6,5 e bj ä r s v ä 20:11 1 9 ga:19 20:14                                            p 1           I g n r f ä a n rt s s i m da o t t i g ll a g t a a r , a 4 g k e ap o . 1 c 6 h § c 1 a st r p 1 o p. rt ska placeras minst 6.0 meter från g a: p Huvudbyggnad som sammanbyggs med garage eller carport ska 4,7 4,9 5,2 5,5 5,7 5,8 5,7 5,6 5,8g å 6,3 n ni n g 2 placeras minst 1 meter från fastighetsgräns, 4 kap. 16 § 1 st 1 p.
+0 t a m n e o te ck r, h 4 ö k jd ap i . 1 m 1 e § t 1 e s r t 1 . p H . ögsta nockhöjd för komplementbyggnad
+8                   8.5                                   4 5                     20:13                                                           e 7           Byggnadens användning ska vara flerbostadshus, 4 kap. 11 § 1 st 2 p.
+4,8     5,1     5,1     5,1     5,4     6,8 7  7,2     6,8     6,1 be  e              5,9  B  6,1     6,4     6,8 g e n                                                                           Placering
+4,7  5         4,9     5,2    5,5     5,7     5,8 B 6 5,7 G p A 1 T 4 5 A ,6 5 P A R K 5,8g å 6 6,3 B n 6 ni n , g 5 e bj ä r s v ä 20:11 g a: 1 9 ga:19 20:14                           p p 1 2       I H p g n l r u a f ä a v c n r u e t s s d r a i m b d s y a o g m t t g i g l i n l n a g a s t a a d t r , 1 s a 4 o m g k m e a e p t o . s e 1 c a r 6 h m § f r c 1 å m a s n a t r p 1 f n a o p b s . r y t t i g g s g k h s a e t m p s l g e a r d c ä e n g r s a a , r s a 4 m g ka e i p n . e s 1 l 6 t l e 6 § r . 1 0 c s a t m 1 rp e p o . te rt r f s r k å a n
 8.5 b      n                  T r ö              20:10             8                                               Utförande
 g
 e  p                                 20:5
@@ -2718,17 +3020,24 @@ e  p                                 20:5
 8
 7
 :5
-4,9             5,3
+4,9
+5
+5,3
+5,4
 P
 5,4
 -PLATS
-5,6
+B  5,6
 5  1
-6,0 gå 5 n ,9 g
+6,0
+PAR
+gå
+K
+5 n ,9 g
 6,1
-S tatarevägen
+S tatarevägen 7
 20:15
-b
+12                         b
 Markens anordnande
 Kä
 o
@@ -2757,58 +3066,83 @@ n
 , 4 kap. 16 § 1 st 1 p.
 20:9           20:16                                    n 1           Markytan får inte hårdgöras, 4 kap. 10 §
 n 2           Marken ska inrymma dike för hantering av naturvatten, 4 kap. 10 §
-6       20:6
+B                  6       20:6
 Stängsel och utfart
 4,9      4,3            4,6             5,1    5,2     5,4     5,3             5,8            5,7                                                      20:8
 e
-b  4 e     5,9                                                          20:17                                         Körbar förbindelse får inte anordnas, 4 kap. 9 §
-s:8                                                                                         p
+B                               b  4 e     5,9                                                          20:17                                         Körbar förbindelse får inte anordnas, 4 kap. 9 §
+s:8
+5,4
+p
 1
 p 5                                                                      10
-2                                                                                                  ADMINISTRATIVA   BESTÄMMELSER
+5                                                                           2                                                                                                  ADMINISTRATIVA   BESTÄMMELSER
 20:7
-s:3 4,5           5,4     4,7     4,8                    5,3             5,4                8.5 5,6                                                                                                 Markreservat
-9
-u             Markreservat för allmännyttiga underjordiska ledningar, 4 kap. 6 § 20:4
-8 5,6                 ga:17                        Gemensamhetsanläggning
-4,4     4,8     5,2     5,1            5,2     5,3     5,3     5,5                                                                                                                g             Markreservat för gemensamhetsanläggning, 4 kap. 18 § 1 st p.
+s:3 4,5           5,4     4,7     4,8                    5,3             5,4              5,5 8.5 5,6                                                                                               Markreservat
+5,2                                                                                           9
+5                                                                                       20:4                                                                                   u             Markreservat för allmännyttiga underjordiska ledningar, 4 kap. 6 §
+K              5,6                      10263                     8                     ga:17                        Gemensamhetsanläggning
+R
+4,2              4,4     4,8 5,5 5,2     5,1            5,2     5,3     5,3 A   5,5                             8                                                                                  g             Markreservat för gemensamhetsanläggning, 4 kap. 18 § 1 st p.
+P
 10
-B
+B                              7
 5,5
-b
+b                                                            7
 7.0
-4,2             4,6            4,8             5,2 e p p5,2    5,4                                                               7:47
+4,2             4,6            4,8             5,2 e p p5,2    5,4                                                             13 7:47
 5,4
-1 1  2                                                                                            38:3
-TRÖNNINGE                                                                                                    6              9
-5,4                                                                                                                             Plankarta   med   bestämmelser
-1383K-2014/27.1                                                      38:4 Lr3
+
+```osaker-tabell
+                                     5,5                        1 1  2                                                                                            38:3
+             TRÖNNINGE                                                                                                    6              9
+4      4                                 5,5                                    5,4                                                         12                                                                  Plankarta   med   bestämmelser
+```
+
+4,4
+5                                       138 L 3K r - 3 2014/27.1                                 11          38:4
 4,1             4,2     4,3    4,7             4,7                                                                                               10
-1 9.
-L r 1 3- 9 4/ 8                                  8                      9                                             Detaljplan   för
+5                                             9. 1
+5,2                L r 1 3- 9 4/ 8                               7,3 8                     9                                             Detaljplan   för
 8
 3
 1
-5,4                                                                                                                                                Norr     om    Pilgatan,       etapp      3
-4,2                            4,4             4,6                                                                                                                     3
-5,4      ga:18
+4,0
+
+```osaker-tabell
+                                                              5,4                                                                                               8,8                                              Norr     om    Pilgatan,       etapp      3
+4,2                            4,4  4,2        4,6                                                                                                                     3
+     4                                                                        5,4      ga:18                                                           7              9,7
+```
+
 NATUR                                                                       20:3                              38:5                 ga                      Godkänd för samråd Del av  Göingegården      1:13
-5,3                                                                             38:15                        2019-06-20 § 237
+4                                                              5,3                                                                             38:15                        2019-06-20 § 237
 Trönninge,    Varbergs    kommun
-4,2           damm      4,4            5,2     6,0     5,3                                 TRÖNNINGE                                                                   Godkänd för granskning
-38:6                                             2020-01-30 § 12
+4,2           damm      4,4            5,2     6,0     5,3                                 TRÖNNINGE                                 7,0                               Godkänd för granskning
+3,9                                                                                                                                       38:6                                             2020-01-30 § 12
+5,7                                                              6,1
 5,2                                                                                                                               Upprättad av Stadsbyggnadskontoret
 Godkänd för
+4
 Datum 2019-06-20, reviderad 2020-01-30 och 2020-10-28
-3,5            4,1                            4,4     4,6     4,8
+3,5            4,1                            4,4     4,6     4,8     5,7
 0   10  20  30  40  50                100 m
-5,8 s:1                                                                                                            Antagen K
-38:7           38:20                                  2021-01-19 § 5
+4                                                                       5,8 s:1                                                                                                            Antagen K
+5                                                             38:7           38:20                                  2021-01-19 § 5
+4
 4,9                                   SKALA 1:1000 (A1)
 Claus Pedersen             Love Gardtman
 1383K-2014/27.1                                                   38:21                              Laga kraft
 4,0                                            4,1                     4,7                                                                                                                                        Planchef                   Planarkitekt
-2021-02-
+6                                                           2021-02-
+
+6
+
+7
+
+9
+
+18
 
 <!-- sida 55 -->
 

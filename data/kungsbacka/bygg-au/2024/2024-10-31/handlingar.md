@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.15db10fd192bd566b8718b68/1729850525
 sha256: d7b675067dbf17159cab8045741f3646c981504df7775ca2a48d2d25136ceab6
 bytes: 1073596
 sidor: 55
-hamtad: 2026-11-06T10:31:29+00:00
-konverterad: 2026-11-06T10:31:43+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T10:12:47+00:00
+konverterad: 2026-11-08T10:13:02+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -930,22 +930,33 @@ med ekonomistyrprinciperna är det nämnden som ansvarar för att prioritera ris
 I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns med beskrivning i tabellen nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-11
-tehkilonnaS
 4          8          12         16
+
 4
+
 3          6          9          12
 2 4
+
 3
+
 2          4          6           8
 1          3
+
 2
+
 1          2          3           4
+
 1
+
 1           2          3          4
+
 Konsekvens
+
 2 Hög 2 Medel Totalt: 4
+
+11
+
+Sannolikhet
 
 <!-- sida 27 -->
 
@@ -1163,13 +1174,15 @@ Bruttolista  risker internkontrollplan    2025
 
 Riskanalys - 2025 Byggnadsnämnden  och nämnden  för Miljö & Hälsoskydd
 
-tehkilonnaS
 4         8         12        16
+
 4
+
 3         6         9         12
 5 26       8 21 22 24 30
 31
 3
+
 2         4         6          8
 3 6 16     1 2 4 7 9 11 12 28
 10 13 14 15 17
@@ -1177,10 +1190,15 @@ tehkilonnaS
 18 19 20 23 25
 27 29
 1         2         3          4
+
 1
+
 1         2          3         4
 Konsekvens
+
 6 Hög25 Medel Totalt: 31
+
+Sannolikhet
 
 <!-- sida 39 -->
 

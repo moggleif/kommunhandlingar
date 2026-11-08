@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1722ec5a1900ff6cbab106e/17183629925
 sha256: ea03bf23deece70a621415a7d09de028991241c144f41963804cf880383d7e99
 bytes: 79332559
 sidor: 442
-hamtad: 2026-11-06T11:02:03+00:00
-konverterad: 2026-11-06T11:09:00+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-08T10:46:13+00:00
+konverterad: 2026-11-08T10:53:55+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
@@ -767,8 +767,8 @@ minskade och verksamheter höll stängt.
 <!-- sida 17 -->
 
 Volymutveckling färdtjänst
-110 000
 
+110 000
 100 000
 
 90 000
@@ -781,8 +781,6 @@ Volymutveckling färdtjänst
 
 2015 2016 2017 2018 2019 2020 2021 2022 2023
 Ar
-
-Antal resor
 
 Bildtext: Tabellen visar totalt antal resor per år. Källa: fakturaunderlag
 
@@ -818,6 +816,8 @@ Bildtext: Nettokostnad färdtjänst/riksfärdtjänst, kr/invånare 2010 — 2013
 
 10
 
+Antal resor
+
 <!-- sida 18 -->
 
 Kostnadstäckning färdtjänst 2015-2023
@@ -827,18 +827,17 @@ Kostnadstäckning färdtjänst 2015-2023
 30 000 000
 25 000 000
 20 000 000
-
-Kronor
-
 15 000 000
 10 000 000
 5 000 000
 
+\- + —
+ö > + ”
+
+0
 2015 = 2016 2017 92018 2019 92020 2021 2022 2023
 
 År
-
-[0]
 
 -—&Bruttokostnad —&» Nettokostnad —»  Egenavgift
 
@@ -876,6 +875,8 @@ kollektivtrafik och färdtjänsttjänster. Det är nödvändigt att färdtjänst
 kulturella, språkliga och individuella preferenser för att möta behoven hos en diversifierad befolkning.
 
 11
+
+Kronor
 
 <!-- sida 19 -->
 
@@ -6179,27 +6180,23 @@ kan inträffa under ett år eller en gång på 200 år.
 
 <!-- sida 146 -->
 
+Beräknad översvämning i Kungsbackaån vid
+200-årsnivå år 2100
+
+Maximalt vattendjup vid 100-årsregn år 2100
+
+Beräknad översvämning i havet vid 200-
+årsnivå år 2100
+
+19
+
 Utas mnse ne
 
 mere
 
 semmeesrr nr
-ra. rv
 
-AN sng
 ===”
-
-Beräknad översvämning i havet vid 200-
-
-Beräknad översvämning i Kungsbackaån vid
-
-200-årsnivå år 2100
-
-årsnivå år 2100
-
-Maximalt vattendjup vid 100-årsregn år 2100
-
-19
 
 <!-- sida 147 -->
 
@@ -9639,12 +9636,8 @@ Arbetsgrupp för framtagande av rapporten har bestått av Mathias Wärnhjelm, Ke
 Joakim Frank, Anders Asp, Linn Holm
 
 2
-0.2
-v
-llereneg
-troppaR
-4000
-LLAMT
+
+TMALL 0004 Rapport generell v 2.0
 
 <!-- sida 213 -->
 
@@ -13293,23 +13286,21 @@ ska övervägas och som kan ge belysning är:
 Q Trafikflöde
 
 AQ Avsevärt högre andel mörkerolyckor än normalt
-
 Störande eller missledande ljus i stor omfattning
-
 Onormalt stor mängd gående och/eller cyklister i vägrenen efter mörkrets inbrott
 Korta avstånd mellan belysta platser (20 sekunder eller mindre)
 
-Busshållplatser, bör belysas om de ligger inom 200m från en belysningscentral
-
+— Busshållplatser, bör belysas om de ligger inom 200m från en belysningscentral
 Gator/vägar i tätort förses med belysning
-
-CO O0O000M
-
 Barns säkra skolvägar
+
 Q Trygghetsupplevelse
+
 Tätort definieras i detta sammanhang som ett område med sammanhängande bebyggelse med minst
 
 200 invånare och med högst 200 meter mellan husen.
+
+CO O0O000M
 
 <!-- sida 314 -->
 
@@ -17271,58 +17262,31 @@ Nygård
 
 Jås
 
-£
-uffeseres
+Sbackaf.>
 
-ost
-uejeotp
+VärsQårdag ata
 
-Sbackaf. > .= =
-
-” no] ot 1
+an ie fr
 
 26
 
-XY pd
-: 4
-öl
-DÅ
+PS
+AS
+
+ad
+
+: 4,
+
+3 Lå
+
+Få
+
 4 |
+Sä: mög — 8
+är Å
+Ia i
 
-Sä: mg 8
-LJ 8
-\- Få
-
-\: | :
-
-\| |
-
-| s mr
-N |
-AN |
-
-t AN 11
-
-£> - md Ja S
-4 Toftered
-
-a Tölögärden
-
-Svartemosse
-
-ne
-ra
-
-= Hallbog
-
-Göteborgsvägen
-
-Tölö Tvärted
-för |
-
-a
-
-utsEÖRNuUr
+Hallbog
 
 Hede
 
@@ -17330,10 +17294,10 @@ C Skogsmästarevägen
 
 Garvarevägen
 
-C Närlekplats
-
 Xx Gärdesvägen
-Xx Lekplats som avvecklas
+
+Närlekplats
+Lekplats som avvecklas
 
 Lekplats utvecklas till
 områdeslekplats
@@ -17369,6 +17333,14 @@ Garvarevägen
 Gärdesvägen
 
 27
+
+uffeseres
+
+uejeotp
+
+Göteborgsvägen
+
+utsEÖRNuUr
 
 <!-- sida 404 -->
 

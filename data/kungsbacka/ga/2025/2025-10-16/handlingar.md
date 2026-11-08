@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7d495738199c8fe75281b0dc/1760095325
 sha256: d5b496b9df24682123bd92be27f8cd0c1ee35ac101ed972de4317d2a5ee9e5a2
 bytes: 11756247
 sidor: 190
-hamtad: 2026-11-06T08:20:47+00:00
-konverterad: 2026-11-06T08:21:40+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-08T07:51:47+00:00
+konverterad: 2026-11-08T07:52:43+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -7199,10 +7199,6 @@ Michael Rosholm.         hävningar av avtal?       en i norr.
 
 <!-- sida 164 -->
 
-9
-\#
-REBMETPES
-5202
 WERKET  MÅNADSRAPPORT
 
 När   ord                                       INNEHÅLL
@@ -7264,13 +7260,15 @@ Björn       Elmqvist
 (e-post borttagen) | (mobilnummer borttaget)
 2
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 165 -->
 
-9
-\#
-REBMETPES
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Regeringen
 
@@ -7369,13 +7367,15 @@ EElliissaabbeetthh SSvvaanntteessssoonn
 
 3
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 166 -->
 
-9
-\#
-REBMETPES
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 0,75 av normen för varje barn utöver tre,
 och för ensamstående 0,4. Dessutom
@@ -7488,13 +7488,15 @@ gång regeringen ger den ett nytt
 uppdrag? Särskilt när det hand-
 lar om kärnverksamhet.
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 167 -->
 
-9
-\#
-REBMETPES
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Forskning
 
@@ -7586,13 +7588,15 @@ MMiicchhaaeell RRoosshhoollmm
 
 5
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 168 -->
 
-9
-\#
-REBMETPES
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Konsekvenser för politiken
 Vad betyder detta för arbetsmarknads-
@@ -7614,6 +7618,32 @@ vid rekrytering och utbildning av hand-
 läggare, utan också på deras förmåga
 att förmedla hopp och tilltro.
 
+Notiser
+
+Lönedumpning       i
+
+upphandling?
+
+Trots att myndigheter sedan 2017 är
+skyldiga att ställa krav på skäliga arbets-
+villkor i vissa upphandlingar, följs lagen
+sällan. En ny granskning från Riksrevi-
+sionen visar att endast i hälften av fallen
+gjordes en bedömning om krav behöv-
+des – och bara en tredjedel av avtalen
+innehöll sådana villkor.
+– Det riskerar att leda till lönedumpning
+när offentliga medel går till arbetsgivare
+som inte följer kollektivavtal, säger pro-
+jektledaren Yvonne Thorsén.
+
+Bristande uppföljning, svårigheter att tol-
+ka kollektivavtal och avsaknad av tydlig
+tillsyn lyfts fram som orsaker. Riksrevi-
+sionen vill nu se skarpare kontroll, med
+Danmark som förebild, där en central
+enhet ansvarar för uppföljningen.
+
 Äldre arbetssökande får främst hälso-
 effekter
 För äldre arbetslösa, 55 år och uppåt,
@@ -7634,31 +7664,6 @@ Nästa steg: internationell forskning
 Rosholm arbetar nu för att bygga sam-
 arbeten med forskare i andra europeiska
 länder för att undersöka handläggarnas
-
-Notiser
-
-Lönedumpning       i
-upphandling?
-
-Trots att myndigheter sedan 2017 är
-skyldiga att ställa krav på skäliga arbets-
-villkor i vissa upphandlingar, följs lagen
-sällan. En ny granskning från Riksrevi-
-sionen visar att endast i hälften av fallen
-gjordes en bedömning om krav behöv-
-des – och bara en tredjedel av avtalen
-innehöll sådana villkor.
-
-– Det riskerar att leda till lönedumpning
-när offentliga medel går till arbetsgivare
-som inte följer kollektivavtal, säger pro-
-jektledaren Yvonne Thorsén.
-Bristande uppföljning, svårigheter att tol-
-ka kollektivavtal och avsaknad av tydlig
-tillsyn lyfts fram som orsaker. Riksrevi-
-sionen vill nu se skarpare kontroll, med
-Danmark som förebild, där en central
-enhet ansvarar för uppföljningen.
 
 Sammanslagning
 
@@ -7723,13 +7728,15 @@ närsorganisationen PRO är kritisk och
 varnar för att många inte hinner ta del av
 pengarna innan de går bort.
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 169 -->
 
-9
-\#
-REBMETPES
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Månadens djupdykning
 
@@ -7747,33 +7754,27 @@ slutet innebar att drygt 1 500 deltagare behövde byta leverantör. Frågan är:
 tog de vägen och hur påverkades deras valmöjligheter?
 
 I ljuset av hävningarna är det lätt att tro 600
-att branschen kryllat av oseriösa leve-
-rantörer som inte levererar resultat. En 500
+34,6%
+att branschen kryllat av oseriösa leve-            540
+rantörer som inte levererar resultat. En 500                29,4%
+458
 seglivad myt om “vita fläckar” ger också
 en bild av att stödet till arbetssökande 400
 på landsbygd varit undermåligt. I själva
-verket finns det fristående leverantörer 300
+verket finns det fristående leverantörer 300 16,7%
+260
+13,5%
 över hela landet som har uppvisat goda
+210
 betyg över tid.             200
-I 62 av 63 leveransområden (undantaget 100
+5,8%
+I 62 av 63 leveransområden (undantaget 100 91
 Luleå) fanns leverantörer med minst tre
 stjärnor i betyg i maj – alltså bättre än 0
 \-       1        2        3        4
 det regionala genomsnittet. Tillgången
-på duktiga leverantörer var alltså god när
+på duktiga leverantörer var alltså god när Antalet deltagare fördelat efter deras nya leverantörs betyg. Källa: Arbetsförmedlingen
 deltagarna skulle göra sina nyval.
-renosreP
-latnA
-34,6%
-540
-29,4%
-458
-16,7% 260
-13,5%
-210
-5,8%
-91
-Antalet deltagare fördelat efter deras nya leverantörs betyg. Källa: Arbetsförmedlingen
 
 Hur gjorde deltagarna sina val?
 Av de 1 559 deltagare som behövde byta
@@ -7811,13 +7812,17 @@ vikelse över medel.
 
 7
 
+\# 9
+
+SEPTEMBER
+
+2025
+
+Antal Personer
+
 <!-- sida 170 -->
 
-9
-\#
-REBMETPES
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 betyg i maj, där leverantörer som saknar
 betyg, eller har betyg ett eller två, ligger
@@ -7835,23 +7840,6 @@ som vi antar är den primära styrmeka-
 nismen för valet av leverantör, ser ut att
 spela olika stor roll runt om i landet.
 
-kivretsäV sånarT nmahsirmiS akivduL ramlaK tsÖ-dyS
-grobetöG
-elväG gnipöknöJ alasppU llavsdnuS egnälroB-nulaF grobgnisleH omanräV nmahredöS-sänlloB gnipökrroN egnikelB tsÖ
-grebonorK
-srofmarK atsregaF gnipökniL dys
-mlohkcotS
-datslraK ttiM
-grobetöG
-ömlaM ..-allaveddU-nattähllorT såretsäV adnalteV anutsliksE datsmlaH agokslraK ttiM
-mlohkcotS
-xilaK orberÖ droN
-grobetöG
-åemU droN
-mlohkcotS
-gnipökyN ybremmiV tsäV
-grebonorK
-datsnaitsirK egnälroB såroB srofelläH åeluL aroM ralkO ..diL-gnipöklaF-edvökS åetfelloS öjxäV
 100%
 90%
 80%
@@ -7863,8 +7851,7 @@ datsnaitsirK egnälroB såroB srofelläH åeluL aroM ralkO ..diL-gnipöklaF-edv�
 20%
 10%
 0%
-eragatled
-lednA
+
 Betyg -, 1, 2 3 & 4
 Antalet deltagare fördelat efter deras nya leverantörs betyg. Källa: Arbetsförmedlingen
 
@@ -7967,13 +7954,115 @@ Leverantören tillbakavisar anklagelserna
 och förväntar sig att utredningen läggs
 ned.
 
+Andel deltagare
+
+\# 9
+
+SEPTEMBER
+
+Västervik
+
+2025
+
+Tranås
+
+Simrishamn
+
+Ludvika
+
+Kalmar
+
+Göteborg Syd-Öst
+
+Gävle
+
+Jönköping
+
+Uppsala
+
+Sundsvall
+
+Falun-Borlänge
+
+Helsingborg
+
+Värnamo
+
+Bollnäs-Söderhamn
+
+Norrköping
+
+Blekinge
+
+Kronoberg Öst
+
+Kramfors
+
+Fagersta
+
+Linköping
+
+Stockholm syd
+
+Karlstad
+
+Göteborg Mitt
+
+Malmö
+
+Trollhättan-Uddevalla-..
+
+Västerås
+
+Vetlanda
+
+Eskilstuna
+
+Halmstad
+
+Karlskoga
+
+Stockholm Mitt
+
+Kalix
+
+Örebro
+
+Göteborg Nord
+
+Umeå
+
+Stockholm Nord
+
+Nyköping
+
+Vimmerby
+
+Kronoberg Väst
+
+Kristianstad
+
+Borlänge
+
+Borås
+
+Hällefors
+
+Luleå
+
+Mora
+
+Oklar
+
+Skövde-Falköping-Lid..
+
+Sollefteå
+
+Växjö
+
 <!-- sida 171 -->
 
-9
-\#
-REBMETPES
-5202
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 Studieförbundet Näringsliv och Samhälle (SNS)
 
@@ -8092,12 +8181,14 @@ respektive kommunerna.
 
 9
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 172 -->
 
-9
-\#
-REBMETPES
-5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
 
 Landsorganisationen i Sverige (LO)
@@ -8222,11 +8313,14 @@ en i vissa branscher.
 
 10
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 173 -->
 
-9#
-REBMETPES
-5202
 WERKET  MÅNADSRAPPORT
 
 statistik
@@ -8235,15 +8329,18 @@ statistik
 
 11
 
+\#9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 174 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
+
 makro
-WERKET MÅNADSRAPPORT
+WERKET  MÅNADSRAPPORT
 
 TEMPERATUREN         PÅ  ARBETSMARKNADEN
 
@@ -8309,17 +8406,23 @@ Förändring 12 mån: −11 106 platser Förändring 12 mån: 1,7 enheter
 
 12
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 175 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
+
 makro
 WERKET  MÅNADSRAPPORT
+
 SJÄLVFÖRSÖRJNINGSGRAD
+
 KOMMUNER
+
 Självförsörjningsgraden, andelen av befolkningen i åldersgruppen 15-74 år som försörjer sig själva, skiljer sig åt mellan olika kommuner
 i Sverige. I hela landet var självförsörjningsgraden i juni 53,9 procent enligt SCB:s preliminära siffror. För att en person ska räknas som
 självförsörjande behöver hen ha sin huvudsakliga inkomst från arbete och ha inkomster om minst 3 prisbasbelopp, vilket motsvarar en
@@ -8367,32 +8470,36 @@ sörjningsgrad om 60,1 procent, medan självförsörjningsgraden i Perstorp var 
 
 13
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 176 -->
 
-9
-\#
-REBMETPES
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-14
-9#
-REBMETPES
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  tjänster
-14
+
+1144
+
+\## 99
+
+SSEEPPTTEEMMBBEERR
+
+22002254
 
 <!-- sida 177 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL            Rusta och matcha 2 hade i augusti 2 500 deltagare färre än i juli och landade på 38 744.
 Även antalet nya deltagare minskade med nästan 1 800 jämfört med juli, och ligger nu
 märkbart under den genomsnittliga nivån de senaste två åren. Utflödet från tjänsten
@@ -8440,16 +8547,21 @@ Utvecklingen av antalet leverantörer och deltagare över tid i ROM2
 
 15
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 178 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 ANVISNINGSGRADEN
+
 ROM2
 
 Anvisningsgraden är ett mått på hur stor andel av alla arbetssökande som är anvisade till Rusta och matcha 2. I au-
@@ -8495,16 +8607,21 @@ Anvisningsgraden per kommun ROM2
 
 16
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 179 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 MARKNADSANDELAR
+
 ROM2
 
 Nedgången i antalet deltagare har drabbat leverantörerna brett. Samtliga bland de 30 största leverantörerna, undan-
@@ -8562,17 +8679,23 @@ månaden   kvarstående kvarstående
 De 30 största ROM2-leverantörerna
 17
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 180 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
 tjänster
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL
+
 ÖVRIGA    TJÄNSTER
+
 Antalet deltagare i IPSU (del A och B) minskade något i augusti och ligger nu helt i linje med det historiska genomsnit-
 tet. Antalet nya deltagare ökade något, men ligger fortsatt under den genomsnittliga nivån. Karriärvägledning hade i
 augusti 300 deltagare färre än i juli och ligger nu under genomsnittet för de senaste två åren. Även antalet nya delta-
@@ -8625,32 +8748,36 @@ STA      KVL      IPSU (A & B)
 
 18
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 181 -->
 
-9
-\#
-REBMETPES
-5202
+WERKET  MÅNADSRAPPORT
 WERKET  MÅNADSRAPPORT
 
-19
-9#
-REBMETPES
-4202
-WERKET  MÅNADSRAPPORT
 statistik
+
 –  utbildning
-19
+
+1199
+
+\## 99
+
+SSEEPPTTEEMMBBEERR
+
+22002254
 
 <!-- sida 182 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL            Antalet deltagare i arbetsmarknadsutbildning föll i augusti med
 knappt tio procent, och hamnade på 5 138, tydligt under genomsnit-
 tet och den lägsta nivån sedan juli 2020.
@@ -8658,8 +8785,10 @@ AUB
 Också nya beslut ligger tydligt under genomsnittet för de senaste två åren.
 Det är tydligt att Arbetsförmedlingens åtgärder för att öka antalet anvisningar hittills varit
 verkningslösa.
+
 Kvarstående deltagare: 5 138 Nya deltagare: 685 Deltagare som Lämnat: 1 142
 Förändring: −458 [−8,2%] Förändring: 219 [47,0%] Förändring: 386 [51,1%]
+
 2K                   2K
 6K
 5K
@@ -8672,6 +8801,7 @@ Förändring: −458 [−8,2%] Förändring: 219 [47,0%] Förändring: 386 [51,1
 0K                   0K                   0K
 2024    2025         2024    2025         2024    2025
 Kvarstående, nya och deltagare som lämnat arbetsmarknadsutbildning
+
 Nercia, som har många deltagare inom utbildningsinriktningen hantverk, var i augusti
 MARKNAD
 den största utbildningsleverantören inom arbetsmarknadsutbildning.
@@ -8705,15 +8835,19 @@ Utbildning Nord
 De 15 största leverantörerna av arbetsmarknadsutbildning
 20
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 183 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARE      PER   UTBILDNINGSINRIKTNING
 
 AUB
@@ -8774,17 +8908,23 @@ D Ekonomi 49
 Kvarstående och nya deltagare i arbetsmarknadsutbildning efter utbildningsinriktning
 21
 
+\# 9
+
+SEPTEMBER
+
+2025
+
 <!-- sida 184 -->
 
-9
-\#
-REBMETPES
-5202
 statistik
 utbildning
+
 WERKET  MÅNADSRAPPORT
+
 DELTAGARANTAL
+
 FUB
+
 Antalet deltagare i förberedande utbildning ökade i augusti med 34,3 procent, till 3 237, och ligger
 nu i nivå med genomsnittet de senaste två åren. Antalet nya beslut ökade kraftigt (+332 procent)
 och hamnade på 2 140, också i linje med genomsnittet.
@@ -8833,6 +8973,12 @@ moduler                      126
 2024    2025      2024     2025
 Kvarstående och nya deltagare i förberedande utbildning (FUB) per underkategori.
 22
+
+\# 9
+
+SEPTEMBER
+
+2025
 
 <!-- sida 185 -->
 
