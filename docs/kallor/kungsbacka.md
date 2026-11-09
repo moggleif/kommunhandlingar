@@ -395,12 +395,16 @@ och står inte med.
 Projekten följs genom alla organs handlingar på samma sätt som för GA:
 kommunstyrelsens startbeslut (Anneberg 2021, Signeshus 2024), servicenämndens
 "Projektinformation" och bokslut, och Vård & Omsorgs egna rapporter om när
-ett boende öppnade (Björkris mars 2023, Signeshus april 2026). Bokslutets
-investeringstabell anger servicenämndens projektnummer; där löpnumret inte
-står med (Hede, Pölagården) eller där statusen läses ur en sifferkolumn (Vallda) är
-steget tolkat. Projekt som bara finns i servicenämndens handlingar och som
-inte står i lokalplanen 2021 eller senare (Särö, slutredovisat 2022) har
-fått ett eget behov.
+ett boende öppnade (Särö 2021, Björkris mars 2023, Signeshus april 2026).
+Servicenämndens bokslut anger dess egna projektnummer; där löpnumret inte
+står med (Hede i driftprojekten, Pölagården bland de vakanta lokalerna)
+eller där statusen läses ur en sifferkolumn (Vallda) är steget tolkat.
+Särö står inte i lokalplanen 2021 eller senare men har fått ett eget behov,
+eftersom boendet ersatte Bukärrsgården. Ekhagas startbeslut 2022 står bara
+som förslag (arbetsutskottet och kommunstyrelsens handlingar), eftersom
+kommunstyrelsens protokoll 2022-02-22 saknas i poolen. Bukärrsgården
+tömdes 2021 men hyrs vidare som tillfälligt boende och har inget utfört
+steg.
 
 ### Nämndernas initiativärenden
 
