@@ -506,6 +506,12 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   (2025-02-19). Två ärenden saknar steget `vackt`: rullstolar för
   paraidrott (2023), där avsändaren inte står i poolen, och Friluftsåret
   2021, där sammanställningen skriver partiet "( c )".
+  Nämndens egna uppdrag till förvaltningen (bidragssystemet,
+  ridanläggningarna, studieförbunden, konsten i det offentliga rummet,
+  det kulturpolitiska programmet med flera) följs som initiativ med
+  avsändaren `Nämnden`, eller partiet när uppdraget kom ur ett yrkande.
+  Ett beslut som bara ändrar en enhets uppdrag, som Hållbar hälsa 2025,
+  står inte med.
 
 ### Nämndernas redovisningar
 
@@ -553,9 +559,8 @@ av arbetsmiljön och den interna kontrollen står inte med.
 Kultur & Fritid (kontrollerat 2026-11-09) har inga direktiv som börjar
 med Redovisning, Utredning eller Information. Återkommande är
 dataskyddet, God och nära vård och lokala BRÅ:s lägesrapporter.
-Nämndens "Uppdrag till förvaltningen" (bidragssystemet,
-idrottsanläggningarnas fördelning, studieförbunden med flera) står inte
-med; de är beslut på sammanträdet, inte beställda redovisningar.
+Nämndens "Uppdrag till förvaltningen" står bland initiativärendena
+(se ovan).
 
 ### Dokumentens innehåll
 
