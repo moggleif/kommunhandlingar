@@ -382,16 +382,25 @@ Vård & Omsorgs protokoll räknar upp behovsbeskrivningarna som bilagor
 2022–2026; lokalbehovsplanen 2021 står i handlingarna och har inga
 bilagor. Lokalbehovsplanen 2024–2028 bordlades 2022-10-19 och beslutades
 2022-11-16. Lokalbehovet 2027–2031 (hösten 2025) saknas i poolen.
-Lokalfilen har nämndens steg 2021–2026 och lokalplanen 2025 och 2026
-(löpnummer 811–826). Behov som är teknik eller utrustning i befintliga
+Lokalfilen har nämndens steg 2021–2026 och lokalplanen 2021–2026
+(löpnummer 803–826). Behov som är teknik eller utrustning i befintliga
 lokaler (laddstolpar, nödvatten, låssystem, trygghetslarm, wifi,
 hörslingor, komfortkyla, skugga och möbler utomhus, fastigheternas
 status) och flytten av arkivet står inte med, utom reservkraften som har
 ett eget löpnummer i lokalplanen. Åtgärdsvalet för Ekhaga 2022 står på
 samma sida som avvecklingen och är ett steg med den. Lokalplanens poster 827 och 828 ("Avveckling
 lokal hemtjänst", "Anpassning lokal hemtjänst") säger inte vilken lokal
-och står inte med. Startbesluten och servicenämndens projekt för VO är
-inte lästa än.
+och står inte med.
+
+Projekten följs genom alla organs handlingar på samma sätt som för GA:
+kommunstyrelsens startbeslut (Anneberg 2021, Signeshus 2024), servicenämndens
+"Projektinformation" och bokslut, och Vård & Omsorgs egna rapporter om när
+ett boende öppnade (Björkris mars 2023, Signeshus april 2026). Bokslutets
+investeringstabell anger servicenämndens projektnummer; där löpnumret inte
+står med (Hede, Pölagården) eller där statusen läses ur en sifferkolumn (Vallda) är
+steget tolkat. Projekt som bara finns i servicenämndens handlingar och som
+inte står i lokalplanen 2021 eller senare (Särö, slutredovisat 2022) har
+fått ett eget behov.
 
 ### Nämndernas initiativärenden
 
