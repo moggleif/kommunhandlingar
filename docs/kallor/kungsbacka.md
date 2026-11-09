@@ -357,9 +357,10 @@ Teknik (kontrollerat 2026-11-09 i poolen) har samma form 2020–2026,
 med de här skillnaderna:
 
 - **Poolen börjar 2019.** Arkivmappen för nämnden står i konfigurationen
-  men inget från 2015–2018 är hämtat, och 2019 har bara en skannad
-  handling. Arbetsutskottet har protokoll från 2020 och handlingar från
-  2024; dess ärenden räknas till nämnden.
+  men inget från 2015–2018 är hämtat; 2019 har två möten med kallelse
+  och en handling. Arbetsutskottet har dokument 2014–2017, som inte är
+  lästa, och protokoll från 2020, handlingar från 2024; dess ärenden
+  räknas till nämnden.
 - **Nämndmål och fokusområden.** Nämndmålen 2020–2023 (till exempel
   Kretslopp) har bytt rubrik över åren och är grupperade under den
   senaste rubriken; två grupperingar, om investeringstakten och om att
@@ -369,10 +370,12 @@ med de här skillnaderna:
   direktiv i nämndbudget 2025 är tomt i poolen.
 - **Statusen** tas ur delårsrapporten (prognos) och årsredovisningen
   (utfall).
-- **Saknas i poolen:** handlingarna till åtta av nio möten 2020, till ett
-  av tre möten 2022 och till sju av tio möten 2023, så delårsrapporten
-  2022 och nämndbudgetarna 2023 och 2024 finns bara som beslut i
-  protokollet. Ett tjugotal handlingar är skannade.
+- **Saknas i poolen:** nämndens möten efter 2022-06-22, så
+  delårsrapporten 2022 och nämndbudget 2023 saknas helt. Handlingarna
+  2020 finns bara till januarimötet (de övriga är inte hämtade eller
+  saknas), och handlingarna till sju av tio möten 2023 är inte hämtade, så
+  nämndbudget 2024 finns bara som dragning i protokollet. Ett tjugotal
+  handlingar är skannade.
 - **Protokollen** har aprilrapporten, delårsrapporten, årsredovisningen
   och 2020 "Uppföljning av aktiviteter och måluppfyllnad". Dragningar är
   förvaltningsbudget och genomförandeplan, nämndbudgeten och
@@ -526,7 +529,8 @@ protokollen.
 
 Teknik äger själv de flesta av sina lokaler (reningsverk, vattenverk,
 pumpstationer och återvinningscentraler) och har därför bara ett
-löpnummer i lokalplanen, 1406 Duveheds omlastningscentral (2021–2023).
+löpnummer i lokalplanen, 1406 Duveheds omlastningscentral (lokalplanerna
+2021–2023).
 Behoven är nämndens anläggningar och de lokaler nämnden hyr:
 omlastningen i Duvehed, som servicenämnden byggde och slutredovisade
 2025, och dess utbyggnad, lagringsytorna på Teknikens hus,
@@ -608,9 +612,13 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   nämndens satsningar står som uppföljning.
 
 - **Teknik** (2020–2026, kontrollerat 2026-11-09) skriver
-  "Initiativärende" och partiet med förkortning eller utskrivet.
+  "Initiativyrkande" (2020), "Initiativärende" eller bara "Yrkande"
+  (2026-05-13), och partiet med förkortning eller utskrivet.
   Gemensamma initiativ har partierna som avsändare så som protokollet
-  skriver dem. Arbetsutskottets initiativ räknas till nämnden. Nämndens
+  skriver dem, och `Alliansen` när alla fyra allianspartierna står
+  bakom. Arbetsutskottets initiativ räknas till nämnden, och en begäran
+  om svar som nämnden ger förvaltningen i uppdrag att besvara följs som
+  initiativ. Nämndens
   egna uppdrag till förvaltningen (Kyrkogatan, en offentlig toalett,
   dricksvattenavtalet, gatubelysning längs statlig väg med flera) följs
   som initiativ med avsändaren `Nämnden`.
