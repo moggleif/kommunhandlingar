@@ -322,10 +322,12 @@ Kultur & Fritid (kontrollerat 2026-11-09 i poolen) har samma form
   boenden (2025 och 2026) ges till både Kultur & Fritid och Vård &
   Omsorg.
 - **Saknas i poolen:** dokumenten 2018 hör till Fritid & Folkhälsa, som
-  nämnden ersatte 2019, och är inte lästa. Nämndbudget 2020 och 2022–2024,
-  delårsrapporten 2022 och nämndens möten april–december 2022 saknas;
-  2023 har protokoll men inga handlingar. Flera protokoll 2019–2022 är
-  skannade.
+  nämnden ersatte 2019; bara nämndbudget 2019 (handlingarna 2018-10-18)
+  är läst. Årsredovisningen 2018 (protokollet 2019-02-28) gäller de
+  nämnder som föregick Kultur & Fritid men står på 2019. Nämndbudget 2020
+  och 2022–2024, delårsrapporten 2022 och nämndens möten april–december
+  2022 saknas. 2023 har inga handlingar, och fem av elva protokoll är
+  inte hämtade. Flera protokoll 2021–2022 är skannade.
 
 ### Kommunfullmäktiges mål och direktiv
 
@@ -431,8 +433,11 @@ finns som beslut utan bilaga, 2023–2027 (2021) bara som kallelse, och
 2022–2026 (2020) inte alls. 2022 års lokalbehov syns genom
 kommunstyrelsens protokoll om isytan 2023-03-21.
 Lokalplanens löpnummer under "Fritidsanläggningar och kulturlokaler" är
-114 och 128–148; löpnummer 136 användes först för Björkris idrottshall
-och sedan för Skårby. Folkbiblioteket i Åsa står i lokalplanen ihop med
+114, 128 och 136–148, och arenan har 131 bland kommunens övriga lokaler;
+löpnummer 136 användes först för Björkris idrottshall och sedan för
+Skårby. Avvecklingen av Elektronen (137) står inte med, och inte heller
+löpnummer 130, fullmåttshallen i Åsa som nämnden strök ur lokalbehovet
+2019. Folkbiblioteket i Åsa står i lokalplanen ihop med
 skolan (337). Servicenämndens bokslut anger ofta lokalplanens löpnummer
 bredvid projektnamnet (138 Frillesås ridklubb, 142 Naturum). Behov som
 bytt namn med samma löpnummer (Iserås och Onsala fullmåttshall,
@@ -492,6 +497,15 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   förkortning. Nämnden har sedan 2025 en egen punkt, "Återrapportering
   av initiativ", som ger utfallet. Protokollen 2023 saknas till stor del
   i poolen; initiativ som behandlades då står med kallelsen som källa.
+  2019–2020 hette initiativen "väckt fråga"; de flesta protokoll från de
+  åren saknas, så besluten tas ur nämndens sammanställning av väckta
+  frågor (handlingarna 2021-08-26), som också har förslag från Fritid &
+  Folkhälsa 2018 som nämnden tog över. När nämnden fått pengar ur
+  kommunstyrelsens potter står kommunstyrelsens beslut som uppföljning.
+  "Ledamöterna" är avsändaren när alla partier står bakom initiativet
+  (2025-02-19). Två ärenden saknar steget `vackt`: rullstolar för
+  paraidrott (2023), där avsändaren inte står i poolen, och Friluftsåret
+  2021, där sammanställningen skriver partiet "( c )".
 
 ### Nämndernas redovisningar
 
