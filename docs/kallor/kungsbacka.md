@@ -406,11 +406,11 @@ kommunstyrelsens protokoll 2022-02-22 saknas i poolen. Bukärrsgården
 tömdes 2021 men hyrs vidare som tillfälligt boende och har inget utfört
 steg.
 
-Byggnämndens och fullmäktiges detaljplaner står som steg på gång när
-planen gäller just den lokalen (Gräskärrs förskola 2023, Iseråsskolan 2024)
-och som tolkade när planen gäller ett större område (kvarteren Gjutaren och
-Liljan, laga kraft 2023) eller inte namnger skolan (Åsa 5:246, som enligt
-projektägaren är Ölmevallaskolan, löpnummer 336). Planer som inte går att knyta till ett visst behov
+Byggnämndens och fullmäktiges detaljplaner står som steg på gång. Nyckeln
+är fastighetsbeteckningen eller kvarteret: Kolla 5:6 är Gräskärrs förskola
+(nämnden för Förskola & Grundskola 2022-12-15), Iserås 19:1 är Iseråsskolan,
+Åsa 5:246 är Ölmevallaskolan (kommunstyrelsens handlingar 2023-10-24) och
+kvarteren Gjutaren och Liljan är skolan i kvarteret Liljan. Planer som inte går att knyta till ett visst behov
 står inte med: Annebergs centrum (planen nämner varken förskola eller
 boende) och Aranäs etapp 4 (utbildningslokaler utan nämnd).
 Byggloven för kommunens egna lokaler beslutas på delegation och syns inte i
