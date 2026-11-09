@@ -335,17 +335,19 @@ Individ & Familjeomsorg (kontrollerat 2026-11-09 i poolen) har samma form
 - **Poolen börjar 2020.** Nämndens dokument 2013–2016 står i arkivets
   mappar men är inte hämtade, och webbplatsen har inget från nämnden
   2017–2019.
-- **Fokusområden som nämndmål.** Nämndbudgetarna från 2025 skriver
+- **Fokusområden som nämndmål.** Nämndbudgetarna från 2024 skriver
   "Fokusområde: …" och "Direktiv: …" före rubriken; målfilen har
   fokusområdena som nämndmål utan ordet framför. Direktiven känns igen
   på rubrikens första ord (Förvaltningen, Tillsammans, Medarbetare,
-  Digitalt först, Förebygg). Budget i balans, attraktiv arbetsgivare och
-  digitaliseringen har bytt rubrik över åren och är grupperade som
+  Digitalt först, Förebygg). Budget i balans, attraktiv arbetsgivare,
+  digitaliseringen och direktivet om hedersrelaterat våld (sedan våld i
+  nära relation) har bytt rubrik över åren och är grupperade som
   tolkade.
 - **Statusen** tas ur delårsrapporten
   (prognos) och årsredovisningen (utfall).
-- **Saknas i poolen:** handlingarna februari–maj 2020 och april–november
-  2022 är kapade, så nämndbudget 2023 och delårsrapporten 2022 finns bara
+- **Saknas i poolen:** protokollen 2020-02-20 och 2020-03-19 är inte
+  hämtade, handlingarna februari–maj 2020, april–maj 2022 och
+  september–november 2022 är kapade, så nämndbudget 2023 och delårsrapporten 2022 finns bara
   som beslut i protokollet. Tretton dokument är skannade.
 - **Protokollen** har aprilrapporten (från 2023 "Apriluppföljning" eller
   "Uppföljning och prognos"), delårsrapporten och årsredovisningen. Den
@@ -467,12 +469,14 @@ bytt namn med samma löpnummer (Iserås och Onsala fullmåttshall,
 är samma behov; utan löpnummer är ett namnbyte tolkat. Detaljplanen för
 Skårby 3:4 gäller en tennishall för en förening och står inte med.
 
-Individ & Familjeomsorgs lokalbehov 2023–2027 (2021) har löpnummer i
-nämndens tabeller; från 2023 tappar tabellerna löpnumren för nya platser,
-och 2025 har bara SBF kvar sitt (505). Lokalplanens löpnummer för
-nämnden är 405 (Vallda), 413–414 och 502–520. 508 a–j är en pool av
-framtida boenden, där 508 b (Anneberg) och 508 j (Pölagården) fick egna
-startbeslut 2021; de övriga bokstäverna står inte med. 504 Björkris
+Individ & Familjeomsorgs tabeller i lokalbehovet 2021 har löpnummer.
+Från 2023 saknar tabellerna löpnummer för nya platser, och 2025 har bara
+SBF kvar sitt (505). Lokalplanens löpnummer för nämnden är 405 (Vallda),
+413, 414, 502–505, 507, 508, 510–517, 519 och 520; servicenämndens bokslut
+ger också 415 (Kolla). 508 a–j är en pool av framtida boenden, där 508 b
+(Anneberg) och 508 j (Pölagården) fick egna startbeslut 2021. De övriga
+bokstäverna står inte med, inte heller 508 e som nämndens tabeller har
+kvar 2021–2024, eftersom ingen plats eller inget projekt knyts till dem. 504 Björkris
 ersattes 2024 av 515 Åsaberg (kommunstyrelsen 2024-01-23); de står som
 två behov. Det årliga behovet om tolv nya platser utan namn är ett eget
 behov, och kommunstyrelsens startbeslut 2025-12-16 för en lokal i
@@ -480,8 +484,8 @@ Kullavik hör dit, eftersom beslutet hänvisar till just det behovet.
 Arbetsutskottets förslag 2026-11-03 för 514 står inte med, eftersom
 kommunstyrelsens beslut inte finns i poolen än. Servicenämndens bokslut
 har en kolumn för avslutade projekt; ett boende som står som avslutat där
-(Söderstaden 2024, Kommunvägen 2024, Pölagården 2025) är ett tolkat
-utfört steg. Högarydsvägens gruppbostad, som invigdes i januari 2026, är
+(Kolla 2022, Söderstaden 2024, Kommunvägen 2024, Pölagården 2025) är
+utfört, och kopplingen är direkt eftersom raden har löpnumret. Högarydsvägens gruppbostad, som invigdes i januari 2026, är
 tolkad som Vallda. Detaljplanen för Bukärr 1:30 i Särö följs genom
 fastighetsbeteckningen.
 
@@ -616,8 +620,10 @@ Nämndens "Uppdrag till förvaltningen" står bland initiativärendena
 Individ & Familjeomsorg (kontrollerat 2026-11-09) har inga direktiv som
 börjar med Redovisning, Utredning eller Information. Återkommande är
 kvalitetsberättelsen, patientsäkerhetsberättelsen, dataskyddet, God och
-nära vård och arbetsmiljöarbetet. Kvartalsrapporterna om ej verkställda
-beslut och informationspunkterna står inte med. Handlingsplanerna
+nära vård och årsrapporten om det systematiska arbetsmiljöarbetet.
+Kvartalsrapporterna om ej verkställda beslut och informationspunkterna,
+också personalchefens genomgångar av tillbud och arbetsskador 2023, står
+inte med. Handlingsplanerna
 (åtgärdsplanen för budget i balans 2020–2021 med sina uppföljningar,
 psykisk hälsa, suicidprevention, konkurrensutsättning, digitalplanen och
 planen för höjd kvalitet i bemötande) står på handlingsplanssidan.
