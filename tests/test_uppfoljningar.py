@@ -95,7 +95,9 @@ class TestKungsbacka(unittest.TestCase):
         kungsbacka = las_kommun(ROT / "kommuner" / "kungsbacka.toml")
         fil = ROT / "uppfoljningar" / "kungsbacka.csv"
         rader = uppfoljningar.las(fil, kungsbacka, ROT / "data" / "kungsbacka")
-        self.assertEqual({r.organ for r in rader}, {"fg", "ga", "ifo", "kf", "kultur", "vo"})
+        self.assertEqual(
+            {r.organ for r in rader}, {"fg", "ga", "ifo", "kf", "kultur", "vo"}
+        )
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)
 
 
