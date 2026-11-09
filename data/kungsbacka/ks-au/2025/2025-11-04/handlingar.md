@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3632c6c019a1532ee4783df9/1761825665
 sha256: c5ab823af661d6c37446e4c43cd725ce0be21c2a43dce2f1c0e49eff5d3672e5
 bytes: 69743125
 sidor: 398
-hamtad: 2026-10-25T08:22:39+00:00
-konverterad: 2026-10-25T08:30:33+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:58:16+00:00
+konverterad: 2026-11-09T13:06:32+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, tabell-osaker, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -696,7 +696,6 @@ att kräva.
 Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024
 Anställda andel män 24,2 Yo 28 26,2 Yo
 Andel heltid 100 20 100 Yo 100 Yo
-orratohef "tare per na 18 108
 Sjukfrånvaro Totalt 2,5 Yo 2,6 Yo 1,9 Yo
 Sjukfrånvaro Kvinnor 3 4 3,3 Yo 2,3 Yo
 Sjukfrånvaro Män 1,1 20 0,8 40 12
@@ -2671,7 +2670,7 @@ Kungsbacka kommun Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 <!-- sida 61 -->
 
 2.4.6 MB 9 kap 6 8 och | Yttrande över ärenden som rör komplettering av underlag inför Kommundirektör
-MB 11 kap 98 tilståndsansökan. Samhällsbyggnadschef
+MB 11 kap 98 tillståndsansökan. Samhällsbyggnadschef
 Verksamhetschef Hållbar Utveckling
 Kommunekolog
 Samhällsplanerare
@@ -3098,7 +3097,6 @@ Verksamhetschef administration sekretess, lämnas ut
 Registrator av den som har hand
 Kommunsekreterare om handlingen.
 Verksamhetschef inom sitt ansvarsområde
-Avseende arkivmyndighet:
 Arkivarie mag Se Riktlinjer
 Utvecklare informationsförvaltning
 Avseende visselblåsarfunktionen.
@@ -3150,7 +3148,6 @@ hand om handlingen.
 
 Se Riktlinjer
 
-= = ; =
 | Härmnar ot äl Mnarhar sr a de Från
 
 Registrator
@@ -3923,7 +3920,6 @@ från annan part. kommunstyrelsens ordförande.
 reglemente för ärenden vid rättegång eller förrättning inför domstol och Villkor: or eller kommunfullmäktiges beslut
 kommunstyrelsen | andra myndigheter, med rätt att sätta annan i sitt ställe. Vidaredelegering får ankommer på annan att företräda
 och övriga ske till kontors- kommunen.
-nämnder cheferna för
 samhällsbyggnads-
 kontoret resp.
 kommunlednings-
@@ -4736,9 +4732,7 @@ omfattar Frillesås-Rya 2:35. Genomförandetiden för detaljplanen har löpt ut.
 Fastigheterna Frillesås-Rya 2:11 och Frillesås-Rya 2:127 är inte planlagt idag. Frillesås-Rya 2:18 är inte
 längre aktuellt för planläggning efter samråd med fastighetsägaren.
 
-\- MIT
 QFönesässkolan
-sö
 
 VAN
 \-
@@ -6080,7 +6074,6 @@ längre vattenområdet, se figur 2. De delar av befintlig hamnanläggning, pir, 
 mm som lagligförklarats genom mark- och miljödomstolens dom i april 2024 ingår inte i
 planområdet. Vilka delar som lagligförklarats framgår av figur 3.
 
-LITER rs : FS
 rr få ” AG id v
 
 Figur 2. I samrådsförslaget omfattade detaljplanen ett större vattenområde för småbåtshamn vilket framgår av den
@@ -6143,17 +6136,6 @@ allmän plats för park. Angränsande fastigheter, Skällared 3:18, Skällared 3
 3:115, används idag för bostadsändamål. En av fastigheterna, Skällared 3:20 är i detaljplan
 O78 reglerad för användningen Hotell.
 
-TER
-(ed
-Ye. "1
-Å 6 Va
-tf
-if
-
-| 0
-uden LÅ
-il
-
 Figur 5. Illustration som visar hur byggnader inom bostadskvarteret placeras för att säkerställa utblick mot havet.
 
 Detaljplanen innebär att vissa områden som idag har användningen allmän plats för väg
@@ -6165,6 +6147,8 @@ tillgängligt idag på så sätt att det rymmer en allmän parkering för bilar 
 Hela ytan är asfalterad och är inte utformad för att inbjuda till vistelse för annat än parkerade
 
 Antagandehandling 11 (76)
+
+uden LÅ
 
 <!-- sida 152 -->
 
@@ -6352,8 +6336,7 @@ intresset att bevara havsutsikt. Här gör kommunen bedömningen att riksintress
 
 \+ 9,0
 Ii bam Vv
-LO NA EN NI
-| NE i OR RAR NR KN i HN I
+(OR NN EN NI
 Ill) Or rn hr nr nr nr LEEEEETT
 Fasad mot väster Bryggstråk
 ul et mm
@@ -6375,8 +6358,6 @@ Område C - sjöbodar
 Längs med befintligt bryggstråk i öster är det
 möjligt att uppföra sjöbodar. Detta är mindre
 byggnader av traditionell sjöbodskaraktär
-
-Re
 
 som kan användas för centrumändamål och
 ändamål kopplade till vattnet och stranden.
@@ -6436,8 +6417,6 @@ för Skällared 3:55.
 
 Från korsningen Gottskärsvägen -
 Galjonsvägen säkerställs fri sikt mot havet i
-
-45 ANN
 
 öster och mot sydost, över Hamnplan.
 
@@ -7607,7 +7586,6 @@ De södra delarna av planområdet omfattas enligt detaljplan 078 dels av allmän
 dels av specialområde för hamntrafik och därmed samhörigt ändamål.
 
 BI SSV TA
-IN ” DI SG 2)
 på ] ST
 
 Wungsvacvnatyorgen
@@ -7637,8 +7615,7 @@ samt att sjöbodar uppförs vid vattnet. Sammantaget innebar de önskade förän
 
 större del av fastigheten bebyggs jämfört med idag.
 
-TR
-I Va
+ET
 
 Viktigt stråk mot Sy men Norra delen: 2 våningar
 Södra delen: 3 våningar
@@ -8082,8 +8059,6 @@ HÄNDEL OCH SERVICE
 MÅLGRUPPER
 IT
 
-I € 004
-Q VIE
 3 ES AGRRR SOCIAL :
 \>
 
@@ -8831,7 +8806,6 @@ säl 2 Uv
 "Lier teven 2
 
 2
-NS
 
 O—  efiruitorauve
 
@@ -8924,6 +8898,7 @@ Genom planområdet går Gottskärsvägen som idag fungerar som skyfallsled. I sa
 utbyggnaden av detaljplanen kommer Gottskärsvägen att byggas om. En förprojektering av
 vägen är gjord där vägens utformning och lutning särskilt utformats för att ta hänsyn till att
 vatten på ett kontrollerat sätt ska kunna rinna längs med vägen och vidare öster ut mot havet,
+
 över torgytan och parkeringen. Ytterligare beskrivning av ytlig avrinning av dagvatten vid
 skyfall finns under rubriken Miljö — Dagvatten.
 
@@ -8933,24 +8908,21 @@ Figur 25. Sektion från förprojektering av Gottskärsvägen, etapp 1 (Ramboll, 
 
 2,07 27
 
-2, 9
+—A aj —
+(3,01) HIN 7)
+Z,7T TITT ”
+
+I. 2.0
 
 (28831
-
-N
-
-On
-no I
-On
-
-.D
-
-VYVNVGyOM
-VYVNYg-090
 
 Figur 26. Principsektion från förprojektering av Gottskärsvägen, etapp I (Ramboll, 2021-10-29).
 
 Antagandehandling 68 (76)
+
+VYVNVGyOM
+
+VYVNYg-090
 
 <!-- sida 209 -->
 
@@ -9006,7 +8978,6 @@ Detaljplan för bostäder, verksamheter och restaurang inom Skällared 3:55 m fl
 
 7
 
-limmas
 LÅ
 
 BE Ran
@@ -9016,7 +8987,6 @@ a RES
 LE
 
 .
-F ”
 
 -— j& /
 
@@ -9328,10 +9298,7 @@ T
 
 SKÄÅLLARED 3:45>1
 
-EE
-
 +" + .
-\+ N Wu + ar Mn e . |
 Fl + + Por HH
 —- HY ++ Fr |
 
@@ -9386,7 +9353,6 @@ TECKENFÖRKLARING KARTDATA Aktualitetsdatum: 2024-09-06 N
 +4 5 Höjdpunkt Vägbana
 Liljan Traktnamn, kvartersnamn >< Bostadshus fasad, resp. tak
 Fastighetsgräns SS Uthus fasad, resp. tak
-d
 
 Gång- och cykelbana
 
@@ -11418,8 +11384,6 @@ möjliggöra en fortsatt användning av marken så som den används idag samt at
 kan säljas och överföras till Skällared 3:115. Upphävandet innebär att nuvarande användning, som del
 av förgårdsmark till bostadshus inom Skällared 3:115, kan fortsätta.
 
-RR (Re) VO
-
 Inom det skrafferade området
 upphävs detaljplan 078 utan
 att ersättas med en ny plan.
@@ -11991,7 +11955,6 @@ upphävandet är att möjliggöra att marken regleras in i angränsande fastighe
 används på detta sätt.
 
 Samhällsbyggnadskontoret 1 (18)
-Sinavikstom Kupgsoocka komm
 itekt ungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -16972,7 +16935,6 @@ Förvaltningschef Teknik       Enhetschef Avfall & Återvinning
 
 KUNGSBACKA KOMMUN PROTOKOLLSUTDRAG
 
-K fullmäkti Datum
 ommunfu 18e 2016-12-06
 
 Kungsbacka

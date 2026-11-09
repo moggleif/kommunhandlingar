@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2d7be631193ded8edc5abcd3/1735903471
 sha256: 95623350e62fc42cee6ce200b10c9c1e890b6f14d4e5bb8a4aa891e174f747c3
 bytes: 310158060
 sidor: 261
-hamtad: 2026-10-25T07:03:35+00:00
-konverterad: 2026-10-25T07:13:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T11:29:48+00:00
+konverterad: 2026-11-09T11:40:47+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
@@ -7155,7 +7155,7 @@ förekomst i ytliga fyllnadsmassor har påvisats.
 
 Vid nuvarande markanvändning har massorna bedömts inte utgöra risk. Generellt riktvärde
 för KM överskrids, så risk kan föreligga vid förändrad markanvändning till bostadsändamål —
-om marken används till odling som motsvarar 10946 av det totala intaget av växter för de
+om marken används till odling som motsvarar 1096 av det totala intaget av växter för de
 boende (Intag växter är styrande för KM, och baseras i det fallet på att 10960 av totala intaget
 växter kommer från den aktuella platsen).
 
@@ -7270,7 +7270,7 @@ Lokalt på platsen:
 \- Buller
 \- - Damning
 Regionalt/nationellt:
-\- - Uppfyllnad av deponier
+\-  Uppfyllnad av deponier
 \-  Resursanvändning vid ev. återfyllnad på platsen efter genomförd schaktning
 \- Transporter till och från platsen
 o Miljöpåverkande utsläpp från dessa
@@ -7395,9 +7395,7 @@ Sida 7 av 7
 
 <!-- sida 167 -->
 
-OR AN OR AO ÄRR NON AN
-
-B0000L00Z6L006€Z6€0086- SyET00
+OR AN NA ONE NON AN AN EI
 
 Bilaga 6
 
@@ -7407,70 +7405,50 @@ Kungsbacka kommun
 434 81 Kungsbacka
 
 Kungsbacka
-
 1 (8) Kungsbacka kommun,
-Förvaltningen för Service
-
-Datum
-
-2023-10-12
-
+Datum 200 s - a
+2023-10-12 Förvaltningen för Service
 Diarienummer
-
 MH-2023-2921-20
-
 Ärendetyp
-
-7.5,1.06
-
+7.5.1.06
 Beslut om försiktighetsåtgärder i samband med efterbehandling
 av förorenat område samt beslut om avgift
 Nämnden för Miljö & Hälsoskydd förelägger Kungsbacka Kommun, förvaltningen
-
 för Service, att för efterbehandlingsarbetet inom fastigheten GJUTAREN 1 vidta
 följande försiktighetsåtgärder:
-
-1
-2
-
-Åtgärderna ska genomföras i enlighet med vad som redovisats i anmälan,
-
-Miljö & Hälsoskydd ska kontaktas i samband med att saneringen påbörjas.
+I Åtgärderna ska genomföras i enlighet med vad som redovisats i anmälan,
+2 Miljö & Hälsoskydd ska kontaktas i samband med att saneringen påbörjas.
 Senast i samband med denna kontakt ska uppgifter till utförande Entreprenör,
 Avfallstransportör och Avfallsmottagare kompletteras till Miljö & Hälsoskydd.
-
-Då PCB har påträffats i halter över Känslig markanvändning (KM) i
+3 Då PCB har påträffats i halter över Känslig markanvändning (KM) i
 fyllnadsmassor på fastigheten ska utbredningen av PCB-föreningar fortsätta
 undersökas i samband med att byggnaderna rivs, Resultatet av undersökningarna
 och föreslagna saneringsåtgärder ska kommuniceras till Miljö & Hälsoskydd,
-
-Föreslagna saneringsåtgärder för PCB får inte genomföras innan Miljö &
+4 Föreslagna saneringsåtgärder för PCB får inte genomföras innan Miljö &
 Hälsoskydd har godkänt dem.
-
-Innan uppgrävning av cisterner ska dessa undersökas för att säkerställa att inget
+5 Innan uppgrävning av cisterner ska dessa undersökas för att säkerställa att inget
 innehåll finns kvar, för att minska risken för läckage och spridning av
-föroreningar, Cisterner med innehåll ska tömmas innan uppgrävning,
-
-Om förorenade massor ska mellanlagras ska det ske på tätt underlag under
+föroreningar, Cisterner med innehåll ska tömmas innan uppgrävning, |
+6 Om förorenade massor ska mellanlagras ska det ske på tätt underlag under
 nederbördsskydd.
-
-Före återfyllnad ska prover tas för att verifiera att föroreningssituationen i botten
+7 Före återfyllnad ska prover tas för att verifiera att föroreningssituationen i botten
 och schakt inte överstiger Naturvårdsverket generella riktvärden KM.
-
-Förorenade massor ska transporteras av transportör som har tillstånd från
+8 Förorenade massor ska transporteras av transportör som har tillstånd från
 Länsstyrelsen, och lämnas till mottagare med nödvändiga tillstånd för att ta emot
 massor med de föroreningar och föroreningshalter som förekommer i jorden.
 Transportdokument ska upprättas om farligt avfall uppkommer,
-
 Bygg- och miljöförvaltningen Kungsbacka kommun
 Natali Kjernell 434 81 Kungsbacka
+Direkt +46300834134 Besöksndiess
 
-Direkt +46300834 134 Besöksadress
 natali.kjernell(dkungsbacka.se Stadshuset, Storgatan 37
 
 Telefon 0300-83 40 00
 info(dkungsbacka.se
 www.kungsbacka.se
+
+B0000L00Z6L006€Z6€0086- SyET00
 
 <!-- sida 168 -->
 
@@ -7535,9 +7513,7 @@ löpande mellan konsulter och Miljö & Hälsoskydd.
 
 <!-- sida 169 -->
 
-NRO AO OR AE AO ON ROD ANT NT
-
-60000Z00Z6L006€Z6T0081 - ByET00
+INR OAU OR AN AO TOR AA ND « 1 ANT VE «IT
 
 KUNGSBACKA KOMMUN
 
@@ -7599,6 +7575,8 @@ andra beslut som har meddelats med stöd av balken ska följas. Mer ingripande
 verksamhet eller vidtar en åtgärd som det finns bestämmelser om i denna balk eller i
 föreskrifter som meddelats med stöd av balken, att till myndigheten lämna de
 
+60000Z00Z6L006€Z6T0081 - ByET00
+
 <!-- sida 170 -->
 
 KUNGSBACKA KOMMUN
@@ -7656,9 +7634,7 @@ myndighet får bestämma att dess beslut om avgift skall gälla omedelbart även
 
 <!-- sida 171 -->
 
-AYDE AN RT TON VEN NA AV TA
-
-L0000€00Z6L006€Z6T008Z ” OSET00
+AREAN ORT AT ON TEN AN AV TA I
 
 KUNGSBACKA KOMMUN
 
@@ -7692,18 +7668,19 @@ från den dag du fick del av beslutet, Annars kan din överklagan inte prövas.
 Nämnden för Miljö & Hälsoskydd skickar ditt överklagande vidare till högre instans
 för prövning.
 
+L0000€00Z6L006€Z6T008Z ” OSET00
+
 <!-- sida 172 -->
 
 <!-- sida 173 -->
 
-ORON AO OR EN RN ORD NAN ÄN AN NAT
-
-9000 L700Z6L006EZ620082 - LSET00
+II |
 
 Kungsbacka
 
 Delgivningskvitto
 Ett delgivningskvitto är enbart en bekräftelse på att du har tagit emot det angivna beslutet, Det
+
 innebär inte att du har godkänt beslutets innehåll.
 
 Det är viktigt för både dig och oss att du bekräftar att du delgivits beslutet så snart som möjligt,
@@ -7725,6 +7702,10 @@ OorOVPEPPECPPEVPCCPECPPPFZPAWPZJJJ”VVJV-V m-=- oo AARNAPROPPEOAPREPPAPREEPPERP
 Datum Underskrift
 
 Namnförtydligande
+
+ORON AO OR EN RN ORD NAN ÄN AN NAT
+
+9000 L700Z6L006EZ620082 - LSET00
 
 <!-- sida 174 -->
 
@@ -9504,16 +9485,11 @@ Källa: Lantmäteriet
 
 <!-- sida 198 -->
 
-Kopia
-
 | Ö fO pf
-
 /
-
 On gina AjeSan.
 
 f A
-” A Ur Sale /
 
 Fullmakt
 

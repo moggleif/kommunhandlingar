@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.41c3c8151a01f3423c0131b2/1787300369
 sha256: 603f11ca59d1352bc9a01a239380f9fd33b44a3c98aacb00261540bd8a854896
 bytes: 205915322
 sidor: 950
-hamtad: 2026-11-07T00:49:05+00:00
-konverterad: 2026-11-07T01:04:31+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T09:00:49+00:00
+konverterad: 2026-11-09T09:18:09+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3831,34 +3831,8 @@ styrelsen.
 
 <!-- sida 80 -->
 
-10,0
-
-```osaker-tabell
-   8,1                                      8,0
- 6,4                                      6,5
-4,8                                4,8
-```
-
-5,0
-2,9
-2,5
-1,8
-0,5                                         0,8
-0,0
--1,5
--2,6          -2,1-2,4-2,7 -2,6
-\- 5,0
--5,1
-\- 10,0                                -9,4
-\- 15,0
--15,4
--15,7
-\- 20,0
-Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
-öppen förskola öppen              Familjeomsorg
-fritidsverksamhet
-tnecorP
 KUNGSBACKAS FÖRUTSÄTTNINGAR
+
 Nettokostnadsavvkelse i procent
 och miljoner kronor                Avvikelse, miljoner 2023 2024 2025\* Avvikelse i
 kronor                    procent av
@@ -3888,10 +3862,40 @@ miljoner lägre. För äldreomsorgen är kostnadsläget
 däremot 32 miljoner kronor högre.
 Nettokostnadsavvikelse
 Nettokostnadsavvikelse
+10,0
+
+```osaker-tabell
+   8,1                                      8,0
+ 6,4                                      6,5
+4,8                                4,8
+```
+
+5,0
+2,9
+2,5
+1,8
+0,5                                         0,8
+0,0
+-1,5
+-2,6
+-2,1-2,4-2,7
+-2,6
+\- 5,0
+-5,1
+\- 10,0                                -9,4
+\- 15,0
+-15,4
+-15,7
+\- 20,0
+Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
+öppen förskola öppen              Familjeomsorg
+fritidsverksamhet
 2022 2023 2024
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå och/eller låg effektivitet. På
 motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre ambitionsnivå och/eller hög effektivitet.
 Kommunbudget 2027 och plan 2028–2029 39
+
+Procent
 
 <!-- sida 81 -->
 
@@ -4019,94 +4023,76 @@ Kommunbudget 2027 och plan 2028–2029 41
 
 <!-- sida 83 -->
 
-Skulder
+KUNGSBACKAS FÖRUTSÄTTNINGAR
+
+Skulder                           Pensionsskuld
 Låneskuldens utveckling
+2 500
 Låneskulden ökar under hela planperioden och är
-beräknad till drygt 2,4 miljarder kronor 2029, vilket
+beräknad till drygt 2,4 miljarder kronor 2029, vilket 2 000 2202 2184 2104 2022 1978 1953
 motsvarar 3,9 miljarder kronor när finansiell leasing är
+1 500
 inkluderat. Den ökade låneskulden beror i sin helhet på
-de stora investeringsvolymer som ligger i planeringen de
-kommande åren. I diagrammet är skulden uppdelad på
+de stora investeringsvolymer som ligger i planeringen de 1 000
+kommande åren. I diagrammet är skulden uppdelad på 500
 skattekollektivet och avgiftskollektivet. Avgiftskollektivets
-skuld avser främst vatten och avlopp som har stora inves­
-teringsbehov de kommande åren. Bland annat planeras
-omfattande ny­ och ombyggnation av reningsverket i
-Hammargård.
-
-Låneskuld inklusive finansiell leasing
-
-5 000
-3895
-4 000         3595      3895
-2845
-3 000 2495
-
-2 000
-
-1 000
-
 0
-2025 2026 2027 2028 2029
+skuld avser främst vatten och avlopp som har stora inves­ 2024 2025 2026 2027 2028 2029
+teringsbehov de kommande åren. Bland annat planeras From 1998 Före 1998 Summa skuld
+omfattande ny­ och ombyggnation av reningsverket i
+Hammargård.                       Diagrammet ovan visar kommunens totala pensionsskuld
+till och med år 2029. Prognosen bygger på beräkningar
+Låneskuld inklusive finansiell leasing
+från KPA Pension i december 2025. Skulden för pensioner
+efter 1998 inkluderar visstidspension och pensioner för
+5 000                           förtroendevalda enligt bestämmelser om pension och
+avgångsersättning för förtroendevalda, PBF, och förslag
+3895
+4 000         3595      3895    till bestämmelser om omställningsstöd och pension
+2845                   till förtroendevalda, OPF­KL. Skulden för pensioner som
+3 000 2495                      tjänats in före 1998 minskar över tid, eftersom inga nya
+pensioner tjänas in samtidigt som pensioner betalas ut.
+2 000
+Skulden justeras enbart av ränta­ och basbeloppsuppräk­
+1 000
+ning och i förekommande fall av ändringar enligt riktlinjer
+för beräkning av pensionsskuld, RIPS. Den nya skulden
+0
+2025 2026 2027 2028 2029    som är pensioner intjänade från och med 1998 ökar stadigt
+under perioden. De anställda tjänar löpande in till pension
 -1 000
-ronork
-renojliM
+och fler anställda har löneläge som överstiger brytpunkten
 Skattefinansierad verksamhet Avgiftsfinansierad verksamhet
-Kommuninvest lån och finansiell leasing
+Kommuninvest lån och finansiell leasing om 7,5 prisbasbelopp. Förändringen av skulden överstiger
+därför utbetalningarna. I likhet med ansvarsförbindelsen
+påverkas avsättningen av ränte­ och basbeloppsuppräkning
 Låneskuld exklusive finansiell leasing
+samt eventuell förändring av riktlinjer för beräkning
+av pensionsskuld, RIPS. Under våren 2022 justerades
 5 500
-4 500
+prognosen för bland annat prisbasbeloppet påtagligt vilket
+4 500                           medförde ökade kostnader för kommande år.
 2150
 3 500    1400        2450 2450
 2 500 1050
 1 500
-
 500
 -500
 -1 500
-
 -2 500
 2025 2026 2027 2028 2029
-ronork
-renojliM
-Pensionsskuld
-2 500
-2 000 2202 2184 2104 2022 1978 1953
-1 500
-1 000
-500
-0
-2024 2025 2026 2027 2028 2029
 Skattefinansierad verksamhet Avgiftsfinansierad verksamhet Kommuninvest lån
-ronork
-renojliM
-KUNGSBACKAS FÖRUTSÄTTNINGAR
-From 1998 Före 1998 Summa skuld
-Diagrammet ovan visar kommunens totala pensionsskuld
-till och med år 2029. Prognosen bygger på beräkningar
-från KPA Pension i december 2025. Skulden för pensioner
-efter 1998 inkluderar visstidspension och pensioner för
-förtroendevalda enligt bestämmelser om pension och
-avgångsersättning för förtroendevalda, PBF, och förslag
-till bestämmelser om omställningsstöd och pension
-till förtroendevalda, OPF­KL. Skulden för pensioner som
-tjänats in före 1998 minskar över tid, eftersom inga nya
-pensioner tjänas in samtidigt som pensioner betalas ut.
-Skulden justeras enbart av ränta­ och basbeloppsuppräk­
-ning och i förekommande fall av ändringar enligt riktlinjer
-för beräkning av pensionsskuld, RIPS. Den nya skulden
-som är pensioner intjänade från och med 1998 ökar stadigt
-under perioden. De anställda tjänar löpande in till pension
-och fler anställda har löneläge som överstiger brytpunkten
-om 7,5 prisbasbelopp. Förändringen av skulden överstiger
-därför utbetalningarna. I likhet med ansvarsförbindelsen
-påverkas avsättningen av ränte­ och basbeloppsuppräkning
-samt eventuell förändring av riktlinjer för beräkning
-av pensionsskuld, RIPS. Under våren 2022 justerades
-prognosen för bland annat prisbasbeloppet påtagligt vilket
-medförde ökade kostnader för kommande år.
 42 Kommunbudget 2027 och plan 2028–2029
 
+Miljoner kronor
+
+Miljoner kronor
+
+Miljoner kronor
+
 <!-- sida 84 -->
+
+KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Pensionskostnader
 
@@ -4122,9 +4108,6 @@ Pensionskostnader
 0
 2024 2025 2026 2027 2028 2029
 -100
-ronork
-renojliM
-KUNGSBACKAS FÖRUTSÄTTNINGAR
 Skuldförändring Utbetalda pensioner ink löneskatt
 Övrigt       Pensionskostnad
 Kostnaden för pensioner varierar stort mellan åren.
@@ -4154,6 +4137,8 @@ reducering av redovisade kostnader.
 Foto: Mikael Stenberg
 
 Kommunbudget 2027 och plan 2028–2029 43
+
+Miljoner kronor
 
 <!-- sida 85 -->
 
@@ -8957,34 +8942,8 @@ av kommunstyrelsen.
 
 <!-- sida 180 -->
 
-10,0
-
-```osaker-tabell
-   8,1                                      8,0
- 6,4                                      6,5
-4,8                                4,8
-```
-
-5,0
-2,9
-2,5
-1,8
-0,5                                         0,8
-0,0
--1,5
--2,6          -2,1-2,4-2,7 -2,6
-\- 5,0
--5,1
-\- 10,0                                -9,4
-\- 15,0
--15,4
--15,7
-\- 20,0
-Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
-öppen förskola öppen              Familjeomsorg
-fritidsverksamhet
-tnecorP
 KUNGSBACKAS FÖRUTSÄTTNINGAR
+
 Nettokostnadsavvkelse i procent    Avvikelse, miljoner 2022 2023 2024 Avvikelse i
 kronor                   procent av
 och miljoner kronor
@@ -9013,11 +8972,41 @@ ner lägre. För äldreomsorgen är kostnadsläget däremot 32
 miljoner kronor högre.
 Nettokostnadsavvikelse
 Nettokostnadsavvikelse
+10,0
+
+```osaker-tabell
+   8,1                                      8,0
+ 6,4                                      6,5
+4,8                                4,8
+```
+
+5,0
+2,9
+2,5
+1,8
+0,5                                         0,8
+0,0
+-1,5
+-2,6
+-2,1-2,4-2,7
+-2,6
+\- 5,0
+-5,1
+\- 10,0                                -9,4
+\- 15,0
+-15,4
+-15,7
+\- 20,0
+Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
+öppen förskola öppen              Familjeomsorg
+fritidsverksamhet
 2022 2023 2024
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå och/
 eller låg effektivitet. På motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre ambitions-
 nivå och/eller hög effektivitet.
 Kommunbudget 2026 och plan 2027–2028 37
+
+Procent
 
 <!-- sida 181 -->
 
@@ -9130,125 +9119,99 @@ Kommunbudget 2026 och plan 2027–2028 39
 
 <!-- sida 183 -->
 
-Skulder
+Skulder                           Pensionsskuld
 Låneskuldens utveckling
+2 500
 Låneskulden ökar under hela planperioden och är beräk-
-nad till 3,5 miljarder kronor 2028, vilket motsvarar 5,0
-miljarder kronor när finansiell leasing är inkluderat. Den
+2 000        2202 2181
+nad till 3,5 miljarder kronor 2028, vilket motsvarar 5,0 1946 2107 2056 2010
+1789
+miljarder kronor när finansiell leasing är inkluderat. Den 1 500
 ökade låneskulden beror i sin helhet på de stora investe-
-ringsvolymer som ligger i planeringen de kommande åren.
-I diagrammet är skulden uppdelad på skattekollektivet och
-avgiftskollektivet. Avgiftskollektivets skuld avser främst
-av vatten och avlopp som har stora investeringsbehov
-de kommande åren. Bland annat planeras omfattande
-ombyggnation av reningsverket i Hammargård.
-
-Låneskuld inklusive finansiell leasing
-6 000
-5027
-5 000
-4127
-4 000
-2927
-3 000  2805 2727 2577
-2098
-2 000
 1 000
+ringsvolymer som ligger i planeringen de kommande åren.
+I diagrammet är skulden uppdelad på skattekollektivet och 500
+avgiftskollektivet. Avgiftskollektivets skuld avser främst
 0
-2022 2023 2024 2025 2026 2027 2028
-ronork
-renojliM
-Skattefinansierad verksamhet
-Avgiftsfinansierad verksamhet
-Kommuninvest lån och finansiell leasing
-Låneskuld exklusive finansiell leasing
+av vatten och avlopp som har stora investeringsbehov 2022 2023 2024 2025 2026 2027 2028
+de kommande åren. Bland annat planeras omfattande From 1998 Före 1998 Summa skuld
+ombyggnation av reningsverket i Hammargård.
+Låneskuld inklusive finansiell leasing
+6 000                           Diagrammet ovan visar kommunens totala pensionsskuld
+5027
+till och med år 2028. Prognosen bygger på beräkningar
 5 000
+4127      från KPA Pension i april 2025. Skulden för pensioner
+4 000                           efter 1998 inkluderar visstidspension och pensioner för
+2927
+förtroendevalda enligt bestämmelser om pension och
+3 000  2805 2727 2577           avgångsersättning för förtroendevalda, PBF, och förslag
+2098
+till bestämmelser om omställningsstöd och pension
+2 000
+till förtroendevalda, OPF-KL. Skulden för pensioner
+1 000                          intjänade före 1998 sjunker kontinuerligt över perioden,
+vilket beror på att inget nyintjänande sker samtidigt som
+0
+utbetalningar sker.
+2022 2023 2024 2025 2026 2027 2028
+Skattefinansierad verksamhet
+Avgiftsfinansierad verksamhet Skulden justeras enbart av ränta- och basbeloppsuppräk-
+Kommuninvest lån och finansiell leasing ning och i förekommande fall av ändringar enligt riktlinjer
+för beräkning av pensionsskuld, RIPS. Den nya skulden
+som är pensioner intjänade från och med 1998 ökar stadigt
+Låneskuld exklusive finansiell leasing
+under perioden. De anställda tjänar löpande in till pension
+5 000                          och fler anställda har löneläge som överstiger brytpunkten
 3500
-4 000               2600
+4 000               2600       om 7,5 prisbasbelopp. Förändringen av skulden överstiger
+därför utbetalningarna. I likhet med ansvarsförbindelsen
 1400
 3 000
-1050
-2 000     1200
+1050              påverkas avsättningen av ränte- och basbeloppsuppräkning
+2 000     1200                 samt eventuell förändring av riktlinjer för beräkning
 1300 1200
+av pensionsskuld, RIPS. Under våren 2022 justerades
 1 000
+prognosen för bland annat prisbasbeloppet påtagligt vilket
 0
+medförde ökade kostnader för kommande år.
 -1 000
 -2 000
-2022 2023 2024 2025 2026 2027 2028
-ronork
-renojliM
-Pensionsskuld
-2 500
-2 000        2202 2181
-1946        2107 2056 2010
-1789
-1 500
-1 000
-500
-0
 2022 2023 2024 2025 2026 2027 2028
 Skattefinansierad verksamhet
 Avgiftsfinansierad verksamhet
 Kommuninvest lån
-ronork
-renojliM
-From 1998 Före 1998 Summa skuld
-Diagrammet ovan visar kommunens totala pensionsskuld
-till och med år 2028. Prognosen bygger på beräkningar
-från KPA Pension i april 2025. Skulden för pensioner
-efter 1998 inkluderar visstidspension och pensioner för
-förtroendevalda enligt bestämmelser om pension och
-avgångsersättning för förtroendevalda, PBF, och förslag
-till bestämmelser om omställningsstöd och pension
-till förtroendevalda, OPF-KL. Skulden för pensioner
-intjänade före 1998 sjunker kontinuerligt över perioden,
-vilket beror på att inget nyintjänande sker samtidigt som
-utbetalningar sker.
-Skulden justeras enbart av ränta- och basbeloppsuppräk-
-ning och i förekommande fall av ändringar enligt riktlinjer
-för beräkning av pensionsskuld, RIPS. Den nya skulden
-som är pensioner intjänade från och med 1998 ökar stadigt
-under perioden. De anställda tjänar löpande in till pension
-och fler anställda har löneläge som överstiger brytpunkten
-om 7,5 prisbasbelopp. Förändringen av skulden överstiger
-därför utbetalningarna. I likhet med ansvarsförbindelsen
-påverkas avsättningen av ränte- och basbeloppsuppräkning
-samt eventuell förändring av riktlinjer för beräkning
-av pensionsskuld, RIPS. Under våren 2022 justerades
-prognosen för bland annat prisbasbeloppet påtagligt vilket
-medförde ökade kostnader för kommande år.
 40 Kommunbudget 2026 och plan 2027–2028
+
+Miljoner kronor
+
+Miljoner kronor
+
+Miljoner kronor
 
 <!-- sida 184 -->
 
 EKONOMISK ÖVERSIKT OCH ANALYS
 
 Pensionskostnader
-
-700      625
-600
+Budgeterade pensionskostnader baseras på prognoser från
+KPA Pension som är pensionsbolaget för dem som jobbar
+700      625                    inom kommun och region. Kungsbacka kommun redovisar
+600                             pensionerna enligt fullfondsmodellen och då påverkar även
 515
-500
-400           345 299 335 353
-259
+500                             ansvarsförbindelsens förändring de redovisade kostna-
+400           345 299 335 353   derna. Eftersom pensionsåtagandet i sin helhet tagits upp i
+259                            balansräkningen och påverkat det egna kapitalet medför en
 300
+minskning av pensionsskulden för pensioner intjänade före
 200
+1998 en reducering av redovisade kostnader.
 100
 0
 2022 2023 2024 2025 2026 2027 2028
 -100
 -200
-ronork
-renojliM
-Budgeterade pensionskostnader baseras på prognoser från
-KPA Pension som är pensionsbolaget för dem som jobbar
-inom kommun och region. Kungsbacka kommun redovisar
-pensionerna enligt fullfondsmodellen och då påverkar även
-ansvarsförbindelsens förändring de redovisade kostna-
-derna. Eftersom pensionsåtagandet i sin helhet tagits upp i
-balansräkningen och påverkat det egna kapitalet medför en
-minskning av pensionsskulden för pensioner intjänade före
-1998 en reducering av redovisade kostnader.
 Skuldförändring Utbetalda pensioner ink löneskatt
 Övrigt        SUMMA
 Kostnaden för pensioner varierar stort mellan åren.
@@ -9268,6 +9231,8 @@ markant under 2025–2028 till en mer normal nivå.
 Foto: Mikael Stenberg
 
 Kommunbudget 2026 och plan 2027–2028 41
+
+Miljoner kronor
 
 <!-- sida 185 -->
 
@@ -12062,7 +12027,7 @@ Samtliga filer ovan finns bifogade i detta dokument, se bifogade filer.
 Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnhummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
-Ärendenummer: 4257450 | Inskickat av: fö BETE 2026-01-27 18:04 Sida 3 av3
+Ärendenummer: 4257450 | Inskickat av: fe BETE 2026-01-27 18:04 Sida 3 av3
 
 <!-- sida 235 -->
 
@@ -12112,9 +12077,8 @@ Organisationsnhummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
 <!-- sida 258 -->
 
-119\)
-
-NS
+lilie ul
+Wall
 
 Ansökan om planbesked för två fastigheter på
 Bukärr 22:36, Kungsbacka kommun
@@ -12132,11 +12096,11 @@ bostadsändamål och önskar att lämpligheten prövas i ett planarbete.
 
 Liljewall arkitekter AB
 
-https://liljewall-my.sharepoint.com/personal/mabe liljewall se/Documents/MoJoLoLoC/PRIVATA PROJEKT/VILLA
-
 Telefon 010-205 10 80 infoOliljewall.se www:liljewall.se Org.nr 556145-0379
 
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 1 av 9
+
+https://liljewall-my.sharepoint.com/personal/mabe liljewall se/Documents/MoJoLoLoC/PRIVATA PROJEKT/VILLA
 
 <!-- sida 259 -->
 
@@ -12191,9 +12155,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoOliljewall.se www:liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 2 av 9
+
+[sökväg]
 
 <!-- sida 260 -->
 
@@ -12259,9 +12223,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoOliljewall.se www:liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 3 av 9
+
+[sökväg]
 
 <!-- sida 261 -->
 
@@ -12294,9 +12258,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoOliljewall.se www:liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 4 av 9
+
+[sökväg]
 
 <!-- sida 262 -->
 
@@ -12333,9 +12297,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoOliljewall.se www:liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 5 av 9
+
+[sökväg]
 
 <!-- sida 263 -->
 
@@ -12367,9 +12331,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoQliljewall.se www:liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 6 av 9
+
+[sökväg]
 
 <!-- sida 264 -->
 
@@ -12414,9 +12378,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoQliljewall.se www:liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 7 av 9
+
+[sökväg]
 
 <!-- sida 265 -->
 
@@ -12455,9 +12419,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoOliljewall.se www:liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 8 av 9
+
+[sökväg]
 
 <!-- sida 266 -->
 
@@ -12500,9 +12464,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoOliljewall.se www.liljewall.se Org.nr 556145-0379
 
-[sökväg]
-
 Ärendenummer: 4257450 | Datum: 2026-01-27 18:04 Bilaga 4 sida 9 av 9
+
+[sökväg]
 
 <!-- sida 267 -->
 
@@ -12810,8 +12774,6 @@ fastigheterna på denna kartan.
 
 RS oron O Kungsbacka kommun
 
-WS
-
 Pr NN
 I I I I äl07
 0 50 100 150m 0
@@ -13086,8 +13048,6 @@ Bilaga 3 sida 3 av 12
 Vad är ett trygghetsboende?
 
 PA
-Va 3 |
-äl
 
 \=
 .
@@ -13179,7 +13139,7 @@ Område [0] 1-5 6 7-9 10-12 13-15 16-19 20-29 30-44 45-64 65-79 80-w Totalt
 SLÄP 93 666 138 495 512 618 850 883 1730 3862 1854 848 12549
 = VALLDA 64 484 106 345 379 457 606 575 1412 2682 1254 459 8823
 2 ONSALA 103 720 161 557 591 71 966 859 2161 4327 2245 830 1423
-= FJÄRÅS 55 436 102 300 318 314 344 532 1337 1719 861 320 6638
+=E FJÄRÅS 55 436 102 300 318 314 344 532 1337 1719 861 320 6638
 =E ÅSA FRILLESÅS 84 608 145 461 462 516 627 683 1881 2900 1720 625 10712
 = GÄLLINGE 26 182 33 107 86 8 75 223 510 696 343 95 2457
 =E ÄLVSÅKER 67 343 79 240 265 299 341 522 1153 1784 785 317 6195
@@ -13383,7 +13343,7 @@ av en inglasad mittdel som fungerar som f glaset kan man följa årstidernas
 entré och rymmer både restaurang för boende NZD - i. skiftningar och känna närheten till
 och besökare, samt en aktivitetsyta med TINY | naturen. Platsen blir också en naturlig
 boulebana. Här kan olika aktiviteter hållas, FE ed : ÖN mötespunkt där de boende kan
-till exempel en läscirkel eller quizkväll som är P7 FA bjuda in till gemensamma högtider
+till exempel en läscirkel eller quizkväll som är BZ FA bjuda in till gemensamma högtider
 öppet både för allmänheten och de boende, fr EA SE AR och aktiviteter tillsammans med den
 
 Referensbild från äldreboendet ”Trädgårdana” '”. intilliggande förskolan och skolan.
@@ -13732,8 +13692,6 @@ infoQbostadslyftet.se
 
 Ärendenummer: 4260958 | Datum: 2026-02-13 12:55
 
-Fel Bla Ner S Sevekull
-
 J0orös
 
 NN d a
@@ -13816,7 +13774,7 @@ film?phrase=group+of+senior+men
 10\. Kungsbackasenioren. (u. å.).
 Trygghetsboende. Hämtad 15 augusti
 2025 från https://kungsbackasenioren.
-se/valet-2018/trygghetsboende.htmI
+se/valet-2018/trygghetsboende.html
 
 11\. Heby kommun. (u.å.).
 Mötesplatser för seniorer [Fotografi].
@@ -13863,8 +13821,6 @@ Bilaga 3 sida 12 av 12
 
 <!-- sida 292 -->
 
-2025 CAD-RITNING
-
 Jå
 Lekplats
 
@@ -13872,17 +13828,14 @@ Befintlig infart
 från Valldavägen
 
 används
-
-SITUATIONSPLAN
-
-1:1000
-
 Befintlig byggnad blir
 en samlingsplats för umgänge/
 aktiviteter/förråd/cykelförråd
-
 Befintlig byggnad blir
 övernattningslägenhet för besökande
+SITUATIONSPLAN
+
+1:1000
 
 Befintligt
 skogsområde
@@ -13919,6 +13872,8 @@ Ansökan om planbesked
 SITUATIONSPLAN
 
 1:1000 (A3) "”Å-10-1-001 -
+
+2025 CAD-RITNING
 
 <!-- sida 293 -->
 
@@ -14111,12 +14066,7 @@ hemtjänst och stärker lokalsamhället.
 
 Vad är ett trygghetsboende?
 
-Fi RE YT.
-SE N EN ;
-
 \- LJ
-
-JSM
 
 Seniorer spelar boule”.
 
@@ -14366,8 +14316,6 @@ till exempel en läscirkel eller quizkväll som är
 
 10
 
-et ”Trädgårdana” ”.
-
 från äldreboend
 
 Illustration av möjlig utformning av
@@ -14377,27 +14325,24 @@ trygghetsboende på fastigheten
 Ett trygghetsboende med 40
 lägenheter med en area på ca
 2 200 kvm i två plan, inklusive
-gemensamhetsytor och ytor
+VN gemensamhetsytor och ytor
 
-för personal. Majoriteten av
+= & för personal. Majoriteten av
 lägenheterna kan bli ettor och
 tvåor, samt någon trea, vilket är
 samma fördelning som i Kolla
 parkstads trygghetsboende. Bil-
 och cykelparkering kommer att
-
 anordnas i anslutning till byggnaden.
-
 Trygghetsboendet riktar sig till
 åldersgruppen 65 år och äldre.
 
 Förskola
-
 & skola
 
-[cn
-
-| Rn
+Befintligt | me oo
+skogsområde i I
+bevaras J | 0 I
 
 SE
 
@@ -14413,13 +14358,15 @@ skiftningar och känna närheten till
 naturen. Platsen blir också en naturlig
 
 mötespunkt där de boende kan
-
 bjuda in till gemensamma högtider
-och aktiviteter tillsammans med den
+
+—
+
+et ”Trädgårdana” ”.
 
 intilliggande förskolan och skolan.
 
-Råglvenr =" =
+och aktiviteter tillsammans med den
 
 Byggnaden utformas för att upplevas
 småskalig och trivsam. Genom att tex. dela
@@ -14458,6 +14405,8 @@ i anslutning till entrén.
 Längs Bräckavägen sparas träd och växtlighet
 för att bilda en grön och naturlig avskärmning
 mellan vägen och trygghetsboendet.
+
+Råglvenr =" =
 
 <!-- sida 302 -->
 
@@ -14786,7 +14735,6 @@ Med vänliga hälsningar,
 FH ARKITEKTER NN
 
 infoQMbostadslyftet.se ös & ASA
-SN S 2 Älsl
 (mobilnummer borttaget)
 
 20
@@ -17041,8 +16989,6 @@ Markområdet till annan aktör. Kommunen har rätt att behålla markanvisningsav
 men har utöver denna inte rätt till någon ytterligare ersättning.
 
 Marköverlåtelseavtal
-
-Om marköverlåtelseavtal inte har tecknats inom Avtalstiden på grund av skäl som
 Bolaget råder över har Kommunen rätt att återta markanvisningen samt behålla
 markanvisningsavgiften. Kommunen har därefter rätt att tilldela marken till annan aktör.
 
@@ -27228,10 +27174,8 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Lars-Erik Hörmander
 Av kommunfullmäktige
 utsedd lekmannarevisor
-PM8PJ-TPA1A-TUAG0-J74ZT-XX69V-FIP5C
-:yek
-tnemucod
-oenneP
+
+Penneo document key: C5PIF-V96XX-TZ47J-0GAUT-A1APT-JP8MP
 
 <!-- sida 611 -->
 
@@ -27271,10 +27215,8 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Lars-Erik Hörmander
 Av kommunfullmäktige
 utsedd lekmannarevisor
-4WFE6-L3GQW-F0B33-GDKJQ-540KW-3JWNZ
-:yek
-tnemucod
-oenneP
+
+Penneo document key: ZNWJ3-WK045-QJKDG-33B0F-WQG3L-6EFW4
 
 <!-- sida 612 -->
 
@@ -28634,7 +28576,6 @@ föräldraskap.
 Verksamheten styrs av tydliga policyer, riktlinjer och rutiner.
 
 fö
-så RA je odd
 
 Dokument-ID 09222115557571174859
 
@@ -29275,9 +29216,6 @@ SOCIAL HÅLLBARHET
 JET IS
 om fr rss IR
 
-; sj | B Pe = =
-IN nen; I sä 4 i hi Ka REN
-
 Gemensamhetslokalen
 med gött om utrymme att
 umgås på.
@@ -29587,7 +29525,7 @@ Dokument-ID 09222115557571174859
 Energimässigt har året varit varmare än ett normalt år
 
 92 2 (9426) och med en bättre solinstrålningen än normalt
-114 22 (10920). Energianvändningen i hela vårt bestånd blev
+114 22 (109260). Energianvändningen i hela vårt bestånd blev
 för 2025 81 KVWh/m2 A-tempsyta normalårskorrigerat vilket
 är 4 KVWh/m2 lägre jämfört med 2024 och nytt rekord. En
 väldigt bra siffra och ett bevis på att vårt vardagsarbete
@@ -29795,8 +29733,6 @@ ra energiförbrukning och styrning på användarnivå.
 
 Vill du veta mer om projektet?
 Gå in på enflate.eu.
-
-EKSTA Qivl NODA
 
 Swedish Environmental
 
@@ -30138,7 +30074,6 @@ SOLIDITET OCH JUSTERAD SOLIDITET
 19,69 Å
 18,67 RES 5
 16,12 sam
-Soliditet — justerad soliditet
 KASSAFLÖDE
 
 190 000
@@ -30188,13 +30123,11 @@ hållbara värden - ekonomiskt, socialt och miljömässigt.
 
 MARKNADS- OCH ÖVERVÄRDE
 
-2024 2023 2022 2021
 Markr de imkr — BÖvervärde I mkr
 
 1000
 80C
 600
-2025 2024 2023 2022 2021
 Driftöverskott exkl, underhåll (kr/kvm]
 
 BDriftöverskott (kr/kvm) — &Driftöver
@@ -33979,9 +33912,8 @@ identifierat.
 1Med anpassning till de specifika förutsättningar som föreligger i ett finansiellt samordningsförbund. Främst att rapporten inte avges av ”sakkunnigt biträde” eller
 ställts till ”de förtroendevalda revisorerna”.
 Revisionsberättelse Samordningsförbundet i Halland, org. nr 222000-2857, 2025
-ZYHP7-EFSTY-1WCS1-TUVK6-WLGRB-K318B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B813K-BRGLW-6KVUT-1SCW1-YTSFE-7PHYZ
 
 <!-- sida 715 -->
 
@@ -34029,9 +33961,8 @@ Daniel Larsson
 Auktoriserad revisor
 
 Revisionsberättelse Samordningsförbundet i Halland, org. nr 222000-2857, 2025
-ZYHP7-EFSTY-1WCS1-TUVK6-WLGRB-K318B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B813K-BRGLW-6KVUT-1SCW1-YTSFE-7PHYZ
 
 <!-- sida 716 -->
 
@@ -34070,9 +34001,8 @@ Granskningen har haft den omfattning och inriktning samt givit det resultat som
 redovisas i bilagan Granskningsrapport 2025 - Samordningsförbundet i Halland.
 
 1
-CIUPQ-9NK0J-3P7LQ-0CLPD-I6420-NN97X
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: X79NN-0246I-DPLC0-QL7P3-J0KN9-QPUIC
 
 <!-- sida 717 -->
 
@@ -34099,9 +34029,8 @@ Lillemor Landén
 Revisor för Region Halland och kommunerna
 
 2
-CIUPQ-9NK0J-3P7LQ-0CLPD-I6420-NN97X
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: X79NN-0246I-DPLC0-QL7P3-J0KN9-QPUIC
 
 <!-- sida 718 -->
 
@@ -34120,9 +34049,8 @@ Samordningsförbundet i Halland
 2026-03-20
 
 Page 1 of 7
-J7X61-4JRVD-Y7SPJ-38TJJ-XXDMW-0I7XD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DX7I0-WMDXX-JJT83-JPS7Y-DVRJ4-16X7J
 
 <!-- sida 719 -->
 
@@ -34164,9 +34092,8 @@ Granskning av bokslut och årsredovisning per 2025-12-31| Azets
 2.8 Sammanfattning och slutsatser                    7
 
 Page 2 of 7
-J7X61-4JRVD-Y7SPJ-38TJJ-XXDMW-0I7XD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DX7I0-WMDXX-JJT83-JPS7Y-DVRJ4-16X7J
 
 <!-- sida 720 -->
 
@@ -34224,9 +34151,8 @@ redovisningen i årsredovisningen. Vi har även stämt av balanskravsutredning m
 1 Sveriges Kommuner och Regioner
 2 Sveriges Kommunala Yrkesrevisorer
 Page 3 of 7
-J7X61-4JRVD-Y7SPJ-38TJJ-XXDMW-0I7XD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DX7I0-WMDXX-JJT83-JPS7Y-DVRJ4-16X7J
 
 <!-- sida 721 -->
 
@@ -34276,9 +34202,8 @@ utanordning.
 belopp.
 
 Page 4 of 7
-J7X61-4JRVD-Y7SPJ-38TJJ-XXDMW-0I7XD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DX7I0-WMDXX-JJT83-JPS7Y-DVRJ4-16X7J
 
 <!-- sida 722 -->
 
@@ -34333,9 +34258,8 @@ Vår bedömning är, baserat på återrapporteringen i årsredovisningen och gen
 protokoll, att verksamheten har bedrivits i enlighet med god ekonomisk hushållning.
 
 Page 5 of 7
-J7X61-4JRVD-Y7SPJ-38TJJ-XXDMW-0I7XD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DX7I0-WMDXX-JJT83-JPS7Y-DVRJ4-16X7J
 
 <!-- sida 723 -->
 
@@ -34395,9 +34319,8 @@ I LKBR, föreskrivs att årsredovisningen ska innehålla en driftsredovisning so
 Förbundet har upprättat en driftsredovisning i årsredovisningen för 2025.
 
 Page 6 of 7
-J7X61-4JRVD-Y7SPJ-38TJJ-XXDMW-0I7XD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DX7I0-WMDXX-JJT83-JPS7Y-DVRJ4-16X7J
 
 <!-- sida 724 -->
 
@@ -34429,9 +34352,8 @@ kommunerna
 Azets Revision & Rådgivning AB
 
 Page 7 of 7
-J7X61-4JRVD-Y7SPJ-38TJJ-XXDMW-0I7XD
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: DX7I0-WMDXX-JJT83-JPS7Y-DVRJ4-16X7J
 
 <!-- sida 725 -->
 
@@ -35190,88 +35112,983 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 3\. BALANSRÄKNING
 
 16
-B
-T
-A
-M
-M
-S
-F
-O
-F
-K
-S
-S
-E
-E
-B
-Å
-S
-S
-K
-S
-Ss
-A L A N S R Ä K N IN G ( k r )
-illg å n g a r
-n lä g g n in g s tillg å n g a r
-a te rie lla a n lä g g n in s tillg å n g a r
-a s k in e r o c h in v e n ta rie r
-u m m a a n lä g g n in g s tillg å n g a r
-in a n s ie lla a n lä g g n in g s tillg å n g a r
-m s ä ttn in g s tillg å n g a r
-o rd rin g a r
-a s s a o c h b a n k
-u m m a o m s ä ttn in g s tillg å n g a r
-u m m a tillg å n g a r
-g e t k a p ita l ,a v s ä ttn in g a r o c h s
-g e t k a p ita l
-a la n s e ra t re s u lta t
-re ts v in s t
-u m m a e g e t k a p ita l
-k u ld e r
-o rtfris tig a s k u ld e r
-u m m a s k u ld e r
-u m m a e g e t k a p ita l ,a v s ä ttn in g
-k u ld e r
-k
-a
-u ld e r
-r o c h
-N o t 6
-N o t 7
-N o t 8
-N o t 9
-N o t 1 0
-8
-2 0 2 5
-0
-6 1 8 0 8
-6 1 8 0 8
-6 7 1 1 9 8
-8 1 6 1 9 4 7
-8 8 3 3 14 5
-8 8 9 4 9 5 3
-2 4 6 5 7 9 2
-3 5 0 1 8 7 3
-5 9 6 7 6 6 5
-2 9 2 7 2 8 8
-2 9 2 7 2 8 8
-8 9 4 9 5 3   5
-2 0 2 4
-8 6 5 3 2
-8 6 5 3 2
-5 9 8 0 4 6
-4 4 9 3 2 0 8
-5 0 9 1 2 5 4
-5 17 7 7 8 6
-2 6 6 8 0 3 5
--2 0 2 2 4 4
-2 4 6 5 7 9 1
-2 7 1 1 9 9 5
-2 7 11 9 9 5
-1 7 7 7 8 6
+
 EElleeccttrroonniiccaallllyy ssiiggnneedd // SSäähhkkööiisseessttii aalllleekkiirrjjooiitteettttuu // EElleekkttrroonniisskktt ssiiggnneerraattss // EElleekkttrroonniisskk ssiiggnneerrtt // EElleekkttrroonniisskk uunnddeerrsskkrreevveett
 hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk//ac86d3e332578673--2b63c167--4415ddf6-8-9a51673-4-bccd6601019121855e1f752 wwwwww..vviissmmaassiiggnn..ccoomm
+
+1
+
+6
+
+8
+
+4
+
+6
+
+5
+
+4
+
+5
+
+5
+
+8
+
+2
+
+2
+
+6
+
+0
+
+5
+
+8
+
+3
+
+4
+
+9
+
+9
+
+9
+
+4
+
+3
+
+3
+
+4
+
+2
+
+2
+
+7
+
+0
+
+2
+
+7
+
+9
+
+9
+
+7
+
+2
+
+0
+
+5
+
+5
+
+1
+
+5
+
+1
+
+8
+
+3
+
+7
+
+8
+
+2
+
+1
+
+1
+
+7
+
+0
+
+6
+
+6
+
+9
+
+9
+
+9
+
+17
+
+6
+
+0
+
+46
+
+1
+
+7
+
+2
+
+4
+
+0
+
+6
+
+2
+
+7
+
+7
+
+8
+
+5
+
+\-
+
+1
+
+8
+
+4
+
+5
+
+5
+
+2
+
+2
+
+2
+
+2
+
+5
+
+3
+
+8
+
+7
+
+5
+
+3
+
+2 3
+
+5
+
+8
+
+8
+
+5
+
+5
+
+8
+
+8
+
+9
+
+94
+
+14
+
+5
+
+79 87
+
+6
+
+28
+
+8
+
+9
+
+0
+
+0
+
+9
+
+6
+
+2
+
+2
+
+8
+
+1
+
+3
+
+0
+
+0
+
+8
+
+1
+
+4
+
+5 1
+
+7
+
+7
+
+7
+
+4
+
+1
+
+1
+
+6
+
+3
+
+9
+
+6 0
+
+6
+
+2
+
+2
+
+2
+
+1
+
+7
+
+1
+
+8
+
+8
+
+4 5
+
+9
+
+9
+
+9
+
+9
+
+6
+
+6
+
+6
+
+8
+
+8
+
+5
+
+2
+
+8
+
+8
+
+2 3
+
+2
+
+8
+
+6
+
+7
+
+8
+
+9
+
+10
+
+t
+
+t
+
+t
+
+t
+
+t
+
+o
+
+o
+
+o
+
+o
+
+o
+
+N
+
+N N
+
+N
+
+N
+
+h
+
+c
+
+r
+
+o
+
+e
+
+ld
+
+u
+
+r
+
+k
+
+a
+
+)
+
+s
+
+g
+
+r
+
+r
+
+h
+
+in
+
+k
+
+r
+
+a
+
+c
+
+g
+
+tn
+
+(
+
+a
+
+r
+
+r
+
+o
+
+t
+
+g
+
+a
+
+ån
+
+a
+
+r
+
+ä
+
+r
+
+n
+
+g
+
+lg
+
+r
+
+g
+
+a
+
+s
+
+G
+
+å
+
+n
+
+il
+
+n
+
+g
+
+v
+
+a
+
+lg
+
+å
+
+t
+
+a
+
+å
+
+in
+
+a
+
+N
+
+g
+
+il
+
+r g
+
+s g
+
+g
+
+,
+
+I
+
+t e
+
+ll
+
+ll
+
+n
+
+l
+
+n
+
+i
+
+i
+
+g n
+
+i
+
+t
+
+s
+
+r
+
+t
+
+n
+
+t
+
+t
+
+a
+
+N
+
+å
+
+in a
+
+s
+
+i
+
+å
+
+s
+
+l
+
+t
+
+t
+
+n
+
+r
+
+ä
+
+a
+
+i
+
+K
+
+lg
+
+n n g
+
+g
+
+llg
+
+g
+
+a
+
+s
+
+t
+
+it
+
+r
+
+p
+
+il
+
+g e
+
+in
+
+i
+
+in
+
+v
+
+a
+
+e
+
+Ä r
+
+t
+
+g
+
+v
+
+n
+
+g
+
+t
+
+n
+
+g
+
+a
+
+lt
+
+p
+
+d
+
+a
+
+ä
+
+t
+
+n
+
+,
+
+a
+
+l
+
+r
+
+k
+
+s
+
+lä
+
+in g
+
+l
+
+s
+
+k
+
+t
+
+u
+
+k
+
+e
+
+R a
+
+n
+
+n
+
+å
+
+l
+
+l
+
+s
+
+u
+
+t
+
+g
+
+n h g
+
+a g
+
+a
+
+sä
+
+lg
+
+a
+
+a
+
+e
+
+t
+
+sk
+
+ld
+
+e
+
+S g
+
+in
+
+a
+
+c
+
+lä
+
+in
+
+b
+
+l
+
+it
+
+it
+
+r
+
+e
+
+u
+
+g
+
+o
+
+a
+
+r
+
+m
+
+i
+
+t
+
+t
+
+a
+
+N n
+
+n
+
+la
+
+n
+
+ll n
+
+h
+
+t
+
+p
+
+p
+
+s g
+
+k
+
+e
+
+l
+
+r
+
+a
+
+t
+
+a
+
+o
+
+ra
+
+e
+
+r
+
+ig
+
+s
+
+å
+
+g
+
+e
+
+e
+
+t g
+
+c
+
+a
+
+a
+
+a
+
+in
+
+t
+
+a r
+
+A
+
+ie
+
+a
+
+i
+
+o
+
+a
+
+e
+
+a
+
+e
+
+a
+
+g
+
+n
+
+s
+
+ä
+
+in
+
+k
+
+k
+
+s
+
+v
+
+is
+
+e
+
+L g
+
+r
+
+i
+
+m
+
+d
+
+r
+
+m
+
+l
+
+ä
+
+e k m
+
+n
+
+s
+
+r
+
+a m
+
+t
+
+t
+
+n
+
+s m
+
+l
+
+f m
+
+ld
+
+l
+
+t
+
+a
+
+d
+
+s
+
+t
+
+t
+
+A l
+
+s m
+
+r
+
+s m m
+
+e
+
+e
+
+la
+
+m
+
+u
+
+r m
+
+m u
+
+i
+
+n
+
+a a
+
+u
+
+in m
+
+a
+
+u
+
+u
+
+g
+
+g
+
+a
+
+re u
+
+k o u
+
+u
+
+B T A M M
+
+S
+
+F O Fo K
+
+S
+
+S
+
+E
+
+E B
+
+Å S
+
+S K S
+
+S sk
 
 <!-- sida 741 -->
 
@@ -35325,265 +36142,1759 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 6\. NOTER
 
 18
-B e lo p p tk r
-N e tto k o s tn a d in k l fin n a n s ie lla p o s te r
-M e d le m s a v g ift+ ö v r in tä k te r
-R e s u lta t
-U tg å e n d e e g e t k a p ita l
-L ik v id a m e d e l
-N O T 1 - V e r k s a m h e t e n s in t ä
-M e d le m s a v g if t e r
-S ta te n 5 0 %
-R e g io n H a lla n d 2 5 %
-F a lk e n b e r g s k o m m u n 3 %
-H a lm s ta d s k o m m u n 8 %
-H y lte k o m m u n 1 %
-L a h o lm s k o m m u n 2 %
-K u n g s b a c k a k o m m u n 6 %
-V a r b e r g s k o m m u n 5 %
-S u m m a m e d le m s a v g if t e r
-Ö r e s u tjä m n in g
-E U - B ID R A G
-F ö r s ä ljn in g m o m s p lik tig t
-Ö v r ig a b id r a g
-S u m m a v e r k s a m h e t e n s in t ä
-k
-k
-U tfa
-t e r
-t e r
-ll ja n -d e c 2
--1 5 6
-1 9 1
-3 5
-5 9
-8 1
-0
-0
-0
-0
-6
-6
-2
-0
-2
-1
-7
-1
-5
-3
-1
-8
-6
-9
-2
-9
-7
-6
-4
-6
-9
-3
-5
-7
-A k tu e ll b u d g e t ja n -d e c 2
--1 6 8 7 7
-1 9 0 5 8
-2 1 8 0
-2 0 2 5
-9 5 2 9 0 0 0
-4 7 6 4 5 0 0
-5 7 1 7 4 0
-1 5 2 4 6 4 0
-1 9 0 5 8 0
-3 8 1 1 6 0
-1 1 4 3 4 8 0
-9 5 2 9 0 0
-19 0 5 8 0 0 0
-1 5
-0
-3 8 9 6 0
-5 2 2 4
-19 10 2 19 9
-0
-1
-0
-8
-2
-8
-0
-1
-5
-2
-0
-8
-A v v ik e ls e u tfa ll –
-1
-1
-2 0 2 4
-9 5 3 1 0 0 0
-4 7 6 4 5 0 0
-5 7 1 7 4 0
-1 5 2 4 6 4 0
-1 9 0 5 8 0
-3 8 1 1 6 0
-1 1 4 3 4 8 0
-9 5 2 9 0 0
-19 0 6 0 0 0 0
-2 6
-0
-6 0 4 0 0
-9 6 5 8
-19 13 0 0 8 4
-b
-2
-3
-u
-7
-4
-2
-d
-6
-4
-1
-g e
-8
-1
-0
-t
-5
-9
-5
-6
-9
-5
-U tfa ll ja n -d e c 2
--1 9 3 3
-1 9 1 3
--2 0
-2 4 6
-4 4 9
-0
-2
-0
-2
-5
-3
-2 4
-3 2
-0 8
-2 4
-7 9
-2 0
-8
-4
-4
-1
-8
+
 EElleeccttrroonniiccaallllyy ssiiggnneedd // SSäähhkkööiisseessttii aalllleekkiirrjjooiitteettttuu // EElleekkttrroonniisskktt ssiiggnneerraattss // EElleekkttrroonniisskk ssiiggnneerrtt // EElleekkttrroonniisskk uunnddeerrsskkrreevveett
 hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk//ac86d3e332578673--2b63c167--4415ddf6-8-9a51673-4-bccd6601019121855e1f752 wwwwww..vviissmmaassiiggnn..ccoomm
 
-<!-- sida 743 -->
+8
+
+4
+
+4
+
+1 8
+
+2
+
+8
+
+4
+
+9 0
+
+4
+
+3
+
+0
+
+2
+
+7
+
+2
+
+02
+
+2
+
+0
+
+2
+
+5 3
+
+2
+
+3
+
+3
+
+0
+
+6 9
+
+c
+
+3
+
+1
+
+-2
+
+4
+
+4
+
+e
+
+9
+
+9
+
+2 4
+
+-d
+
+1
+
+1
+
+n
+
+\-
+
+ja
+
+ll
+
+fa
+
+t
+
+U
+
+6
+
+9
+
+5
+
+t
+
+5
+
+9
+
+5
+
+e
+
+8
+
+1
+
+0
+
+g
+
+6
+
+4
+
+1
+
+ud
+
+7
+
+4
+
+2
+
+b
+
+2
+
+3
+
+–
+
+1
+
+1
+
+ll
+
+0 0 0 0 0 0 0 0 0 6 0 0
+
+8
+
+4
+
+fa
+
+4
+
+0 0 4 4 8 6 8 0 0 2
+
+0
+
+5
+
+8
+
+t
+
+2
+
+0 5 7 6 5 1 4 9
+
+4
+
+6
+
+0
+
+0
+
+u
+
+0
+
+1 4 1 4 0 1 3 2
+
+0
+
+9
+
+e
+
+3 6 7 2 9 8 4 5 0
+
+6
+
+0
+
+ls
+
+2
+
+5
+
+7 5
+
+5 1 3
+
+1 9 6
+
+13
+
+e
+
+0
+
+ik
+
+9 4
+
+1
+
+1
+
+9
+
+v
 
 19
-N O T 2 . V e r k s a m h e te n s k o
-K o n s u l t k o s t n a d e r
-v a r a v D r ift k o s t n a d e r
-v a r a v In s a t s k o s t n a d e r
-V a r a v k o s t n a d fö r r ä k e n
-A v g if t e r f ö r k u r s e r
-v a r a v D r ift k o s t n a d e r
-v a r a v In s a t s k o s t n a d e r
-L o k a lk o s t n a d e r
-v a r a v D r ift k o s t n a d e r
-v a r a v In s a t s k o s t n a d e r
-IT k o s t n a d e r
-v a r a v D r ift k o s t n a d e r
-v a r a v In s a t s k o s t n a d e r
-V ä r d o r g a n is a t io n
-Ö v r ig a k o s t n a d e r
-v a r a v D r ift k o s t n a d e r
-v a r a v In s a t s k o s t n a d e r
-P e r s o n a lk o s t n a d e r
-v a r a v D r ift k o s t n a d e r
-v a r a v In s a t s k o s t n a d e r
-S u m m a v e r k s a m h e t e
-v a r a v D r ift k o s t n a d e r
-v a r a v In s a t s k o s t n a d e r
-s
-s
-n
-tn a d e r
-k a p s r e
-s k o s t
-v
-n
-is
-a
-io
-d e
-n
-r
+
 1
-5
+
+v
+
+A
+
+2
+
 0
-1 5
+
+8
+
+25
+
+8
+
+0
+
+1
+
+0
+
+1
+
+0
+
+8
+
 2
-2
-2 0 2 5
-9 0 2 1 4 1 5
-1 1 2 0 0 0
-8 9 0 9 4 1 5
-6 9 0 0 0
-13 5 4 9 2
-1 2 7 6 0
-1 2 2 7 3 2
-1 0 4 3 8 3 5
-3 1 7 6 0 5
-7 2 6 2 3 0
-5 2 2 6 5 8
-4 9 1 1 3 3
-3 1 5 2 5
-4 0 0 0 0 0
-1 13 0 7 15
-6 4 7 0 0 8
-4 8 3 7 0 7
-3 3 16 3 7 5
-3 3 1 6 3 7 5
-5 7 0 4 8 9
-9 6 8 8 1
-7 3 6 0 8 1
+
+7
+
+8
+
+0
+
+c
+
 5
+
+0 0 0 0 0 0 0 0 0 5 0 0
+
+4
+
+9
+
+e
+
+7
+
+5
+
+8
+
+0 0 4 4 8 6 8 0 0 1
+
+6
+
+2
+
+9
+
+d
+
+8
+
+0
+
+1
+
+2
+
+0
+
+5
+
+7
+
+6
+
+5
+
+1
+
+4
+
+9 0
+
+9
+
+2
+
+1
+
+\-
+
+n
+
+6
+
+9
+
+2
+
+0
+
+9 4 1 4 0 1 3 2
+
+8
+
+5
+
+2
+
+ja
+
+-1
+
+1
+
+2
+
+2 6 7 2 9 8 4 5 8
+
 3
-2 0 2 4
-11 2 7 6 7 8 7
-2 9 0 0 0
-1 1 1 9 4 2 8 7
-5 3 5 0 0
-14 1 7 2 3
-9 0 5 0
-1 3 2 6 7 3
-1 7 14 6 5 4
-3 1 8 4 1 4
-1 3 9 6 2 4 0
-6 4 8 9 7 6
-6 1 4 3 6 5
-3 4 6 1 1
-4 0 0 0 0 0
-1 2 8 1 4 8 5
-6 4 6 0 5 4
-6 3 5 4 3 1
-3 8 6 1 9 9 4
-3 8 6 1 9 9 4
-1 9 3 2 5 6 1 9
-9 3 2 3 7 7
-3 9 3 2 4 2
+
+0
+
+5 7 5 5 1 3 1 9 5
+
+1
+
+t
+
+0
+
+e
+
+9 4
+
+1
+
+1
+
+19
+
+g
+
+19
+
+ud
+
+b
+
+ll
+
+e
+
+tu
+
+k
+
+A
+
+6
+
+9
+
+3
+
+5 7
+
+2
+
+9
+
+7
+
+6 4
+
+5
+
+3
+
+1
+
+8
+
+6
+
+9
+
+2
+
+0
+
+2
+
+1
+
+7 1
+
+0
+
+0
+
+0
+
+0
+
+6 6
+
+2
+
+6
+
+1
+
+5
+
+9
+
+1
+
+c
+
+5
+
+9
+
+3
+
+5 8
+
+e
+
+1
+
+1
+
+-d
+
+\-
+
+n
+
+ja
+
+ll
+
+fa
+
+t
+
+U
+
+r
+
+r
+
+te
+
+te
+
+k
+
+k
+
+r
+
+ä
+
+r
+
+tä
+
+e
+
+t
+
+te
+
+in
+
+ft
+
+in
+
+s
+
+%
+
+%
+
+i
+
+t
+
+o
+
+s
+
+3 %
+
+g
+
+ig
+
+s
+
+p
+
+n
+
+6
+
+t
+
+n
+
+la
+
+n 8 %
+
+% v
+
+k
+
+e
+
+l
+
+e
+
+n
+
+i
+
+r
+
+t
+
+%
+
+a
+
+l
+
+t
+
+ie
+
+e
+
+u
+
+u 5
+
+s
+
+t
+
+e
+
+n
+
+2
+
+s
+
+p
+
+e
+
+r
+
+n
+
+k
+
+5 m u %
+
+m n
+
+h
+
+k
+
+a
+
+tä
+
+h
+
+r
+
+n
+
+m
+
+s
+
+t
+
+l
+
+e
+
+2 m m
+
+u
+
+m
+
+n
+
+in
+
+a
+
+m
+
+1 u m
+
+e
+
+m
+
+p
+
+in
+
+t
+
+t
+
+o
+
+m l
+
+a
+
+p
+
+f
+
+r
+
+i
+
+a
+
+f
+
+d
+
+m
+
+m o
+
+g
+
+o
+
+i
+
+k
+
+n
+
+d
+
+s
+
+lo
+
+l
+
+v
+
+p
+
+s
+
+n o
+
+k m
+
+n
+
+g
+
+k
+
+ö
+
+a
+
+k
+
+g
+
+u m
+
+i
+
+m
+
+k
+
+e
+
+k
+
+la s k
+
+a o e
+
+a
+
+r
+
+in
+
+\+
+
+r
+
+v % l
+
+o
+
+n G
+
+r
+
+B
+
+t
+
+t
+
+l
+
+g
+
+m
+
+k k
+
+g
+
+if
+
+e
+
+e
+
+a
+
+a r s
+
+k
+
+m
+
+A
+
+d
+
+e
+
+d
+
+e
+
+c
+
+n
+
+i
+
+a
+
+g
+
+g
+
+d
+
+V
+
+s 0
+
+e d m
+
+s
+
+m R
+
+i
+
+v
+
+n
+
+v
+
+e
+
+e
+
+5 H
+
+a o s a
+
+a ä
+
+b
+
+t
+
+a
+
+\-
+
+m
+
+b
+
+b g
+
+j D
+
+jn
+
+a
+
+s
+
+s
+
+t
+
+e m
+
+n
+
+t k
+
+r
+
+t
+
+I
+
+l
+
+o
+
+a
+
+d
+
+1
+
+le n
+
+n s lm s e m u
+
+a
+
+k
+
+em
+
+lt
+
+n
+
+a
+
+e io e
+
+e o g
+
+s B ä
+
+ig m
+
+o
+
+l
+
+e
+
+id
+
+T
+
+d t
+
+k m t
+
+b m
+
+\- s
+
+t
+
+u
+
+å
+
+g l l l
+
+n r
+
+e
+
+r
+
+r m
+
+t
+
+d
+
+s
+
+v
+
+O
+
+e a
+
+h
+
+r
+
+v
+
+e
+
+e
+
+e
+
+tg
+
+ik
+
+t e a a y a u a u
+
+U ö
+
+u
+
+N
+
+M
+
+R
+
+U
+
+L
+
+N
+
+M S R F H H L K V S Ö E F Ö
+
+S
+
+<!-- sida 743 -->
+
 BILAGA NOT 2
 NOT 2-Verksamhetens kostnader -
 2025      2024
 Insatskostnader per insats
+
+19
+
 EElleeccttrroonniiccaallllyy ssiiggnneedd // SSäähhkkööiisseessttii aalllleekkiirrjjooiitteettttuu // EElleekkttrroonniisskktt ssiiggnneerraattss // EElleekkttrroonniisskk ssiiggnneerrtt // EElleekkttrroonniisskk uunnddeerrsskkrreevveett
 hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk//ac86d3e332578673--2b63c167--4415ddf6-8-9a51673-4-bccd6601019121855e1f752 wwwwww..vviissmmaassiiggnn..ccoomm
+
+7 0 7 0
+
+3 0 3
+
+4 4 0
+
+6 5 1
+
+0
+
+5
+
+4 1
+
+4
+
+4
+
+4
+
+8 0 8 0
+
+2 5 7
+
+5 1 4
+
+7 6 1
+
+0
+
+8
+
+5 3
+
+9
+
+9
+
+19 7 2
+
+02
+
+7
+
+0
+
+2
+
+5
+
+7
+
+0
+
+6
+
+6
+
+4
+
+2
+
+9
+
+3
+
+6
+
+0
+
+4
+
+0
+
+4
+
+9
+
+9
+
+6 7 4
+
+1
+
+1
+
+1
+
+3 2
+
+2
+
+6 9 4 3
+
+9 2
+
+4 8 6
+
+8 4 4
+
+0
+
+6 5
+
+1
+
+7 2 9 5
+
+14
+
+3
+
+1 1 9
+
+4 1 3
+
+0
+
+8
+
+4 3
+
+6
+
+6
+
+5
+
+2
+
+1
+
+7 3
+
+6 6
+
+4
+
+2
+
+6 6
+
+8
+
+2 2 3
+
+1
+
+1
+
+3
+
+1
+
+8
+
+11
+
+1
+
+1
+
+3
+
+3
+
+3 3 9
+
+1
+
+19
+
+9 3
+
+5 13
+
+5 0 5 0
+
+2 0 2
+
+5 5 0
+
+8 3 5
+
+0
+
+5
+
+8 7
+
+5
+
+5
+
+5
+
+1 0 1 0
+
+9 6 3
+
+3 0 3
+
+5 3 2
+
+0
+
+1
+
+0 0
+
+7
+
+7
+
+9 1 8
+
+02
+
+4
+
+0
+
+4
+
+0
+
+4
+
+7
+
+7
+
+8
+
+6
+
+2
+
+6
+
+1
+
+5
+
+0
+
+7
+
+0
+
+7
+
+3
+
+3
+
+48 8 0
+
+0
+
+8 6
+
+2
+
+1 2 9 9
+
+5 2 2
+
+3 7 6
+
+2 1 1
+
+0
+
+3
+
+7 3
+
+16
+
+6
+
+2 1 0 6
+
+13 1 2
+
+4 1 2
+
+2 9 3
+
+0
+
+1
+
+4 8
+
+1
+
+0 6 3
+
+0 1
+
+9
+
+1
+
+0 3 7
+
+5 4
+
+4
+
+1
+
+6 4
+
+3
+
+3
+
+7
+
+9
+
+8
+
+1
+
+3
+
+3
+
+5 9 7
+
+15
+
+2 2
+
+5 10
+
+n
+
+r
+
+io
+
+e
+
+is
+
+ad
+
+v
+
+n
+
+r
+
+e
+
+t
+
+e
+
+r
+
+s
+
+d
+
+s
+
+o
+
+a
+
+ap
+
+k
+
+tn
+
+k
+
+s
+
+s
+
+s
+
+r
+
+n
+
+ko
+
+n
+
+e
+
+e
+
+r ke
+
+r
+
+r
+
+r
+
+r
+
+r
+
+t
+
+r
+
+s d r e
+
+r e
+
+r e
+
+r e
+
+r e
+
+r e e
+
+r e
+
+n
+
+rä
+
+r
+
+r
+
+te a e ad
+
+e e ad
+
+e ad
+
+e ad
+
+n
+
+r e ad
+
+e e ad h e ad
+
+d
+
+r
+
+s d
+
+d
+
+d
+
+e d
+
+d d
+
+d
+
+e
+
+tn a tn fö
+
+r a tn
+
+r a tn
+
+a tn
+
+io
+
+a tn
+
+a a tn am a tn
+
+h
+
+n
+
+u n
+
+e n
+
+n
+
+t d n
+
+n
+
+n
+
+s
+
+t s
+
+t s
+
+t s
+
+t s
+
+a
+
+t s
+
+n
+
+t s
+
+s
+
+t s
+
+m
+
+s o d
+
+k s o
+
+d s o
+
+r s o
+
+a n
+
+s o
+
+t s o k s o
+
+sa o o k a
+
+r o k
+
+a o k
+
+e o k
+
+is
+
+t o k
+
+s o k
+
+r o k
+
+k k k ts tn ö k ts
+
+n k ts
+
+k ts
+
+n
+
+s k ts
+
+o k ts e k ts
+
+r
+
+t
+
+ft
+
+f ft
+
+t ft
+
+d ft
+
+o
+
+ft
+
+k
+
+ft
+
+v
+
+ft
+
+l
+
+i a s
+
+i a
+
+s i a
+
+a i a
+
+a
+
+i a
+
+l
+
+i a
+
+i a
+
+e
+
+r s o
+
+r r s
+
+o r s
+
+n r s
+
+g
+
+k
+
+r s
+
+a
+
+r s
+
+r s
+
+V u
+
+In k
+
+e D In
+
+D In
+
+t D In
+
+r
+
+D
+
+In
+
+n D
+
+In a D
+
+In
+
+. s D
+
+t
+
+lk
+
+s
+
+a
+
+f
+
+o
+
+o
+
+m
+
+2
+
+v v v
+
+i v v
+
+a v v
+
+o v v
+
+ig v v
+
+v v
+
+v v
+
+n a a a
+
+a a
+
+a a
+
+a a
+
+d
+
+r a a
+
+s a a m a a
+
+T o r r r g r r
+
+k r r
+
+k r r
+
+r
+
+r r
+
+r
+
+r r
+
+r r
+
+O
+
+a a a
+
+v a a
+
+o a a
+
+a a
+
+ä v a a
+
+e a a u a a
+
+N K v v V A v v
+
+L v v
+
+IT v v V Ö v v
+
+P v v S v v
 
 [Tabell 743-1](handlingar.tabeller/743-1.csv)
 
@@ -35603,95 +37914,690 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 2025       2024
 NOT 3-Avskrivningar
 
-20
-B
-N
-P
-S
-K
-P
-S
-v
-v
-v
-N
-F
-T
-N
-R
-B
-T
-IL A G A N O T 2
-O T 2 - V e r k s a m h e t e n s k o s t n
-e r s o n a lk o s t n a d e r
-t y r e ls e n
-a n s lie t
-r o je k t P a r a d ig m
-u m m a p e r s o n a lk o s t n a d e r
-a ra v lö n e s k a tt
-a ra v p e n s io n s fö rä k rin g s a v g ifte r
-a ra v p e n s io n s k o s tn a d a v g ifts b e s tä m d d
-O T 4 - F in a n s ie l la in t ä k t e r
-in a n s ie lla In tä k te r
-o t a l f in a n s ie lla in t ä k t e r
-O T 5 - F in a n s ie l la k o s t n a d e r
-e a lis a tio n s fö r lu s t fö r s ä ljn in g fo n
-a n k a v g ifte r
-o t a l f in a n s ie lla k o s t n a d e r
-a d
-e l
-d e
-e
-r
-r -
-2 0 2
-2 1 3 2
-3 1 0 3 1
-3 3 16 3
-6 7 7
-1 6 5 2
-1 1 4 4
-2 0 2
-6 1
-6 1
-2 0 2
--1 1 0
-\- 11 0
-5
-5 4
-2 0
-7 5
-7 5
-9 7
-8 9
-5
-8 0
-8 0
-5
-0
-2 6
-2 6
-2 0 2 4
-3 8 3 4 0 0
-3 4 7 8 5 9 3
-0
-3 8 6 1 9 9 3
-1 7 0 1 0 4
-5 8 8 2 0 7
-7 6 9 6 4
-2 0 2 4
-2 9 1 1 8
-2 9 1 1 8
-2 0 2 4
-0
--1 1 1 0 4
-\- 11 10 4
 2025       2024
 NOT 6-Anläggningstillgångar
+
 2025       2024
 NOT 7- Omsättningstillgångar-Fordringar
+
+20
+
 EElleeccttrroonniiccaallllyy ssiiggnneedd // SSäähhkkööiisseessttii aalllleekkiirrjjooiitteettttuu // EElleekkttrroonniisskktt ssiiggnneerraattss // EElleekkttrroonniisskk ssiiggnneerrtt // EElleekkttrroonniisskk uunnddeerrsskkrreevveett
 hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk//ac86d3e332578673--2b63c167--4415ddf6-8-9a51673-4-bccd6601019121855e1f752 wwwwww..vviissmmaassiiggnn..ccoomm
+
+0
+
+3
+
+0
+
+3
+
+4 7 4
+
+8 8
+
+0
+
+4 4
+
+4
+
+0
+
+9
+
+9
+
+0 0 6
+
+4
+
+1 1
+
+4
+
+0 10
+
+2
+
+4
+
+5
+
+9
+
+1 2 9
+
+2
+
+1
+
+1
+
+2
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+3
+
+8
+
+0 8 6
+
+9 9
+
+1 -1
+
+2
+
+8
+
+7
+
+6
+
+7 8 7
+
+2
+
+2 2
+
+2
+
+-1
+
+3
+
+4
+
+8
+
+1 5
+
+3
+
+3
+
+4
+
+0
+
+5
+
+5 7 9
+
+0 0
+
+6 6
+
+5
+
+5
+
+2
+
+7
+
+7 9 8
+
+5
+
+8 8
+
+5
+
+0
+
+2 2
+
+2
+
+2
+
+1
+
+3
+
+7 2 4
+
+2
+
+1
+
+1
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+3
+
+3
+
+16
+
+7 5 4
+
+6 6
+
+1 -1
+
+2
+
+1
+
+0
+
+6 6 1
+
+2
+
+2
+
+-1
+
+2
+
+1
+
+3
+
+1 1
+
+3
+
+3
+
+\-
+
+r
+
+e
+
+r
+
+d
+
+l
+
+e
+
+a
+
+e
+
+d
+
+n
+
+d
+
+r n
+
+t
+
+o
+
+r
+
+d
+
+e
+
+f
+
+s
+
+m
+
+r
+
+d
+
+o
+
+e
+
+tä
+
+te
+
+a g
+
+k
+
+d
+
+s
+
+n
+
+in
+
+r
+
+a
+
+r e
+
+k
+
+t
+
+e
+
+s
+
+e b
+
+ä
+
+r
+
+jn
+
+n
+
+ft
+
+s
+
+l
+
+d
+
+n
+
+t
+
+i ts
+
+t
+
+e
+
+e
+
+s
+
+g
+
+if
+
+n
+
+t
+
+o ä
+
+a
+
+i
+
+k
+
+s
+
+n
+
+t r
+
+v g
+
+k
+
+r
+
+t
+
+e
+
+o
+
+sa v
+
+ä
+
+ö
+
+s
+
+e
+
+lk
+
+a
+
+la
+
+t
+
+la
+
+f
+
+h
+
+g
+
+l
+
+r
+
+l
+
+o
+
+d
+
+a
+
+in d
+
+in
+
+t
+
+k
+
+m a
+
+m
+
+r a
+
+ie
+
+te
+
+ie
+
+s
+
+2 a n
+
+ig
+
+n
+
+k tn
+
+s
+
+k
+
+la
+
+s
+
+lu
+
+la
+
+t
+
+o
+
+rä s
+
+ä
+
+l
+
+r
+
+l
+
+T s s
+
+d
+
+s
+
+o
+
+n
+
+t e
+
+n
+
+e
+
+k
+
+a
+
+r
+
+t fö k
+
+i
+
+ö
+
+i
+
+r o
+
+t
+
+a
+
+In
+
+a
+
+f
+
+r
+
+O
+
+r
+
+e
+
+a s s
+
+s
+
+s
+
+s
+
+e k
+
+a
+
+k n n
+
+in
+
+n
+
+in
+
+te n
+
+N
+
+l
+
+p
+
+s
+
+io
+
+io
+
+la
+
+n
+
+f
+
+V
+
+n
+
+P
+
+F
+
+l a
+
+F
+
+i a
+
+a
+
+t
+
+e s s
+
+io
+
+A - n e
+
+e
+
+t
+
+a
+
+n n n
+
+\-
+
+ie
+
+in
+
+\-
+
+t g in
+
+2
+
+ls
+
+i k
+
+lö e e
+
+4
+
+s
+
+f
+
+5 a v f
+
+G o
+
+l
+
+m
+
+p p
+
+l
+
+a l
+
+e
+
+s e
+
+n
+
+is
+
+A T s
+
+j
+
+T
+
+T
+
+l k
+
+r r
+
+n
+
+m
+
+v v v
+
+a ta
+
+ta
+
+IL O
+
+y
+
+o
+
+ra ra ra
+
+O
+
+n
+
+O a n
+
+e t
+
+a r
+
+u
+
+a a a
+
+i o
+
+e a o
+
+B N P S
+
+K P
+
+S
+
+v v v
+
+N
+
+F T
+
+N R B T
 
 [Tabell 744-1](handlingar.tabeller/744-1.csv)
 
@@ -35719,112 +38625,809 @@ hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk
 <!-- sida 745 -->
 
 21
-N
-V
-N
-S
-N
-B
-Å
-S
-N
-L
-U
-U
-U
-U
-U
-S
-P
-S
-O T 8 - O m s ä t t n in g s t illg å n g a r - K a s s a
-ä rd e S tra te g a 1 0 /In s t K o rträ n ta 1 4 4 3 1 9 5 5 6 2 3
-o rd e a P lu s g iro k o n to 6 3 8 0 9 -8
-u m m a k a s s a o c h b a n k
-O T 9 - E G E T K A P IT A L
-a la n s e r a d r e s u lta t
-r e ts v in s t
-u m m a e g e t k a p it a l
-O T 1 0 - K o r t f r is t ig a s k u ld e r
-e v e r a n tö r s s k u ld e r
-p p lu p e n s ä r s k ild lö n e s k a tt in d iv id u e ll d e l
-p p lu p e n s ä r s k ild lö n e s k a tt p å u tb e ta ld a p
-p p l p e n s io n s k o s tn in d iv id u e ll d e l
-p p lu p n a k o s tn a d e r o c h fö r u tb e t in tä k te r
-p p lu p n a s o c ia la a v g ifte r
-k a tte k o n to u tb
-e r s o n a le n s k ä lls k a tt
-u m m a k o r t f r is t ig a s k u ld e r
-o
-e n
-c
-s
-h b
-io n
-a
-e
-n
-r
-k
-\- 2
-3
-2 0 2
-1 4 6 7 3 1
-6 6 9 4 6 2
-8 16 1 9 4
-2 0 2
-4 6 5 7 9
-5 0 1 8 7
--5 9 6 7 6 6
-2 0 2
--2 3 7 2 2 1
--1 8 9 4
--4 8 8 3
--7 8 0 6
--3 1 1 0 5
--3 8 3 8
--2 4 5 6
--3 5 2 3
--2 9 2 7 2 8
-5
-8
-9
-7
-5
-2
-3
-5
-5
-0
-0
-5
-9
-1
-0
-6
-8
-8
-\- 2
-2 0 2 4
-1 4 6 2 8 6 8
-3 0 3 0 3 3 9
-4 4 9 3 2 0 8
-2 0 2 4
-6 6 8 0 3 5
-\- 2 0 2 2 4 4
--2 4 6 5 7 9 1
-2 0 2 4
--1 6 6 6 4 4 7
--1 8 6 7 1
--1 5 1 4 3 3
--7 6 9 6 4
--6 7 0 3 3 1
--5 1 1 4 8
--3 1 2 5 1
--4 5 7 4 9
--2 7 11 9 9 5
+
 EElleeccttrroonniiccaallllyy ssiiggnneedd // SSäähhkkööiisseessttii aalllleekkiirrjjooiitteettttuu // EElleekkttrroonniisskktt ssiiggnneerraattss // EElleekkttrroonniisskk ssiiggnneerrtt // EElleekkttrroonniisskk uunnddeerrsskkrreevveett
 hhttttppss::////ssiiggnn..vviissmmaa..nneett//ssvv//ddooccuummeenntt--cchheecckk//ac86d3e332578673--2b63c167--4415ddf6-8-9a51673-4-bccd6601019121855e1f752 wwwwww..vviissmmaassiiggnn..ccoomm
+
+8
+
+9 8
+
+1
+
+7 1 3 4 1 8 1 9
+
+5
+
+4
+
+6
+
+3 0
+
+4
+
+5 4
+
+9
+
+4 4 7 3 6 3 4 5 4
+
+9
+
+2
+
+8
+
+3
+
+2
+
+2
+
+3 4
+
+7
+
+2
+
+4
+
+6
+
+4
+
+9
+
+3
+
+1
+
+2
+
+7
+
+9
+
+0
+
+0
+
+0
+
+2
+
+5
+
+0
+
+1
+
+2
+
+0 3
+
+6
+
+6 8 1 6 0 1 1 5
+
+1
+
+2
+
+6
+
+3 9
+
+2
+
+8 2
+
+4
+
+2 6
+
+-1 5
+
+-7 7
+
+-5
+
+-3
+
+-4
+
+7
+
+4
+
+0
+
+4
+
+6 0
+
+6
+
+-1
+
+-6
+
+2
+
+-2
+
+1
+
+3 4
+
+6
+
+-2
+
+\-
+
+-1
+
+-2
+
+8
+
+9 7
+
+5
+
+0 0 5 9 1 0 6 8
+
+8
+
+5
+
+1
+
+2 4
+
+5
+
+2 3
+
+6
+
+5 1 4 3 6 5 8 6 3
+
+8
+
+2
+
+3
+
+6
+
+9
+
+2
+
+9 7
+
+6
+
+2
+
+2
+
+9
+
+8
+
+0
+
+0
+
+3
+
+5
+
+2
+
+2
+
+0
+
+1
+
+0
+
+7
+
+8
+
+0
+
+7
+
+4 6
+
+7
+
+2 8 8 8 1 8 4 5
+
+7
+
+2
+
+6
+
+9
+
+1
+
+2
+
+5 1
+
+6
+
+2 7
+
+-1
+
+-4
+
+-7 1
+
+-3
+
+-2
+
+-3
+
+2
+
+4
+
+6 8
+
+6 0
+
+9
+
+3
+
+-3
+
+9
+
+1
+
+6
+
+4
+
+5
+
+-5
+
+-2
+
+-2
+
+-2 3
+
+k
+
+n
+
+r
+
+a
+
+e
+
+b
+
+n
+
+io
+
+h
+
+s
+
+c
+
+n
+
+o
+
+e
+
+l
+
+a
+
+p
+
+s
+
+e
+
+r
+
+s
+
+3
+
+d a
+
+te
+
+2
+
+l ld
+
+a
+
+6
+
+l
+
+k
+
+5
+
+e ta
+
+ä
+
+-K
+
+5
+
+u
+
+t
+
+e l in
+
+r
+
+9
+
+id b
+
+1
+
+r
+
+t e t
+
+a
+
+iv u
+
+3
+
+e
+
+d e
+
+g
+
+4
+
+d
+
+l
+
+r
+
+d
+
+å l tb
+
+n
+
+4
+
+l
+
+in p
+
+e
+
+å
+
+1
+
+u
+
+e ru
+
+d
+
+a
+
+tt tt u
+
+l
+
+lg
+
+t
+
+-8
+
+k
+
+d ö
+
+u
+
+l
+
+n
+
+s
+
+a a i f
+
+i
+
+9
+
+v r
+
+k
+
+t
+
+rä
+
+k
+
+L
+
+k k i h e
+
+t
+
+0
+
+a
+
+s s d c t
+
+s
+
+s
+
+r
+
+8 n
+
+A
+
+g
+
+e e
+
+if
+
+g
+
+o
+
+3 a
+
+IT
+
+l
+
+i
+
+n n in o
+
+t a
+
+K
+
+b
+
+t
+
+ö ö r g
+
+t g
+
+n
+
+t
+
+a
+
+l l
+
+v
+
+i
+
+i
+
+6
+
+P
+
+t
+
+t
+
+is r n e a
+
+a
+
+s
+
+h
+
+a
+
+i
+
+t
+
+k
+
+t
+
+n
+
+In
+
+o c
+
+A
+
+t
+
+p
+
+r e d d s d
+
+s
+
+t
+
+t
+
+l
+
+f d l l
+
+a a
+
+ls
+
+i
+
+/
+
+K
+
+t l i i o
+
+l
+
+l
+
+t
+
+n o
+
+u
+
+a
+
+b
+
+r
+
+ä
+
+0
+
+o
+
+s
+
+k
+
+r u k k k tn ia t ä
+
+f
+
+k
+
+T
+
+s s s
+
+t
+
+s
+
+1
+
+o a
+
+e
+
+t
+
+o k r r
+
+s c u k
+
+r
+
+r s
+
+E
+
+r
+
+s
+
+n o
+
+a
+
+i s
+
+e
+
+K s ä ä o
+
+o o s o
+
+m
+
+g
+
+g a
+
+G
+
+d
+
+t g
+
+r s s i k s t n
+
+O
+
+te
+
+s
+
+E
+
+a
+
+s
+
+\- ö
+
+s
+
+n e
+
+k
+
+a
+
+lu k
+
+r
+
+e
+
+t n n n a a
+
+l
+
+\-
+
+r
+
+\-
+
+in
+
+e e
+
+n n o
+
+a
+
+t
+
+P a
+
+e
+
+v a
+
+10 n
+
+e
+
+k a
+
+8
+
+S
+
+a
+
+9
+
+s
+
+a p p p p p e n m
+
+e m
+
+n
+
+s m
+
+r lu lu l lu lu t o
+
+T
+
+e
+
+T
+
+t
+
+T e
+
+t s
+
+rd
+
+rd m
+
+la e m
+
+v p p p p p a r m
+
+O
+
+ä
+
+o u
+
+O
+
+a
+
+r u
+
+O e p p p p p k e u
+
+N
+
+V
+
+N S
+
+N
+
+B Å S
+
+N L U U U U U S P S
 
 <!-- sida 746 -->
 
@@ -36588,7 +40191,9 @@ kommun, nedan kallad ”ledningarna”.
 
 <!-- sida 765 -->
 
-Genomförandeavtal Ledningsflytt Sid 2 (10)
+Genomförandeavtal Ledningsflytt
+
+Sid 2 (10)
 
 INNEHÅLL
 
@@ -36619,19 +40224,17 @@ INNEHÅLL
 §16 «TVIST
 
 817 -. KONTRAKTSVÄXLING
-
-OPPO RÅXÅCRL NNNNAUNUWuwWw
-
-a
-
 BILAGOR:
 
 Bilaga 1 Exploateringsområde
 
 Bilaga 2 Översiktskarta ledningsflytt + raseringskarta
+
 Bilaga 3 Koncessionsbeslut
 
 Bilaga 4 Raseringsbeslut
+
+OPPO RÅXÅCRL NNNNAUNUWuwWw
 
 <!-- sida 766 -->
 
@@ -37095,24 +40698,22 @@ rättade, undertecknade och utväxlade.
 
 <!-- sida 777 -->
 
-21540 s v-1.0 2022-08-19
-
-Ei
-
-CR S z . BESLUT
-
+sa a
 === d Energimarknadsinspektionen
+omm BS
 
-[ör Swedish Energy Markets Inspectorate Datum
-2023-01-02
-
-Redovisningsenhet
-RER03010
+BESLUT 1(8)
 
 Tillstånd och prövning
 
+wedish Energy Markets Inspectorate Datum Ärendenummer
+2023-01-02 2021-103216
+Redovisningsenhet Anläggningshummer
+RER03010 11388, 11389, 11390,
+11391
 Ellevio AB
-res.elleviokoncessionerQellevi
+
+res.elleviokoncessionerEellevio.se
 
 Nätkoncession för linje
 
@@ -37151,16 +40752,7 @@ Ellevio ska anmäla till Ei när ledningarna under punkt 1-4 har tagits i drift.
 
 Nätkoncessionerna förenas med följande villkor.
 
-1 (8)
-
-Ärendenummer
-2021-103216
-
-Anläggningsnummer
-11388, 11389, 11390,
-11391
-
-0.se
+21540 s v-1.0 2022-08-19
 
 2023-01-02
 
@@ -37168,10 +40760,13 @@ Anläggningsnummer
 
 <!-- sida 778 -->
 
-— - Energimarknadsinspektionen BESLUT 218)
+BESLUT 2 (8)
 
-am I Swedish Energy Markets Inspectorate Datum Ärendenummer
+Datum Ärendenummer
 2023-01-02 2021-103216
+
+= Energimarknadsinspektionen
+[nn Swedish Energy Markets Inspectorate
 
 1 Nätverksamheten ska utöver vad som anges i detta beslut bedrivas i huvudsak i
 enlighet med vad Ellevio har angett i ansökan med bilagor och i övrigt åtagit
@@ -37179,9 +40774,6 @@ enlighet med vad Ellevio har angett i ansökan med bilagor och i övrigt åtagit
 sig i ärendet.
 
 2 Ellevio är oförhindrad att i framtiden använda andra metoder vid reparation
-
-2023-01-02
-
 och underhåll än vad som följer av 1 ovan, så länge metoderna inte medför
 större påverkan på människors hälsa eller miljön. Metoderna får inte heller
 
@@ -37195,8 +40787,6 @@ och en 72,5 kV markkabel från Kolla trafikplats till station Kolla i Kungsbacka
 kommun, Hallands län. Ellevio har begärt att nätkoncessionerna ska gälla tills
 
 vidare.
-
-2021-103216-0024
 
 Av ansökan framgår att syftet med ledningarna är att ersätta delar av befintliga
 luftledningar i Klovsten, som ska raseras för att göra plats för nya
@@ -37221,24 +40811,21 @@ ledningsgata kommer att hållas fri från högre vegetation cirka 2 meter ut på
 
 vardera sida av ledningarna.
 
+2023-01-02
+
+2021-103216-0024
+
 <!-- sida 779 -->
 
-BESLUT 3 (8)
+ja ja Energimarknadsinspektionen BESLUT 28)
 
-Datum Ärendenummer
+EE Swedish Energy Markets Inspectorate Datum Ärendenummer
 2023-01-02 2021-103216
-
-=E BD za ” 5
-em Energimarknadsinspektionen
-EE Swedish Energy Markets Inspectorate
 
 Ellevio har till sin ansökan bifogat bland annat miljökonsekvensbeskrivning,
 naturvärdesinventering och arkeologisk utredning. Ellevio har också lämnat in
 Länsstyrelsen i Hallands läns beslut om betydande miljöpåverkan. Av beslutet
-
 framgår att länsstyrelsen har bedömt att projektet inte kan antas medföra en
-
-2023-01-02
 
 betydande miljöpåverkan.
 
@@ -37253,8 +40840,6 @@ naturvärdesobjekt och övriga stenmurar. Skyddsvärda träd bör passeras på m
 den norra delen av sträckningen. Hänsyn behöver tas till en förskola i
 
 sträckningens närhet.
-
-2021-103216-0024
 
 En alternativredovisning visar att utredningsområdet har avgränsats av
 ledningarnas anslutningspunkter i norr och söder, samt av bebyggelse i öster och
@@ -37279,18 +40864,19 @@ samt delar av två 50 kV ledningar vid Gräskärr som omfattas av nätkoncession
 
 linje med anläggningsnummer 87051.
 
+2023-01-02
+
+2021-103216-0024
+
 <!-- sida 780 -->
 
 mm. ä Energimarknadsinspektionen BESLUT 4 (8)
 
-SE Swedish Energy Markets Inspectorate Datum Ärendenummer
+am I Swedish Energy Markets Inspectorate Datum Ärendenummer
 2023-01-02 2021-103216
-
 2 Bestämmelser som ligger till grund för Ei:s beslut
 
 De bestämmelser som ligger till grund för det här beslutet redovisas i bilaga 2.
-
-2023-01-02
 
 3 Sammanfattande bedömning
 
@@ -37305,8 +40891,6 @@ Ellevio har även begärt att nätkoncessionerna ska gälla tills vidare. Det ha
 framkommit några skäl att tidsbegränsa nätkoncessionerna. Ellevios begäran om
 
 koncessionstid har därför beviljats.
-
-2021-103216-0024
 
 4 Ei:s motivering till beslutet
 
@@ -37338,6 +40922,10 @@ Magnetfältsvärdet är på ett sådant avstånd lägre än 0,04 mikrotesla. Led
 
 passerar även en förskola på cirka 30 meters håll. Förskolans gård ligger på cirka
 
+2023-01-02
+
+2021-103216-0024
+
 <!-- sida 781 -->
 
 = a Energimarknadsinspektionen BESLUT 548)
@@ -37348,11 +40936,7 @@ passerar även en förskola på cirka 30 meters håll. Förskolans gård ligger 
 10 meters avstånd från ledningarnas centrum, där magnetfältsvärdet uppgår till
 cirka 0,1 mikrotesla. Ei bedömer att inga bostadshus eller övriga byggnader där
 människor stadigvarande vistas kommer att beröras av förhöjda
-
 magnetfältsvärden. Förskolans gård kommer inte heller att beröras av förhöjda
-
-2023-01-02
-
 värden. Ingen påverkan på människors hälsa eller boendemiljö kommer att uppstå.
 Ei har vid bedömningen tagit hänsyn till barnkonventionen och särskilt artikel 3
 
@@ -37365,11 +40949,7 @@ särskild internationell betydelse. Området hyser också en stor mängd övrig
 infrastruktur och mindre vägar och gator. E6 och Onsalavägen kommer att korsas
 med styrd borrning. Övriga mindre vägar korsas med schaktning. En
 ledningsägare har i remissen informerat om en eventuell konfliktpunkt och även
-
 önskat samförläggning med planerade fjärrvärmeledningar. Ellevio kommer att
-
-2021-103216-0024
-
 planera och utföra arbetet i samråd med kommunen och andra berörda
 ledningsägare samt söka tillstånd från Trafikverket. Kostnader för flyttning och
 
@@ -37397,6 +40977,10 @@ artförekomst och generella biotopskydd. Ei bedömer att utredningen är tillrä
 
 med hänsyn till områdets karaktär och ledningarnas möjliga miljöeffekter.
 
+2023-01-02
+
+2021-103216-0024
+
 <!-- sida 782 -->
 
 BESLUT 6 (8)
@@ -37404,18 +40988,13 @@ BESLUT 6 (8)
 Datum Ärendenummer
 2023-01-02 2021-103216
 
-ESR a S s ;
 sm Energimarknadsinspektionen
 G= Swedish Energy Markets Inspectorate
 
 Ledningarna kommer att passera ett antal alléer som omfattas av det generella
 biotopskyddet. Ellevio bedömer att schaktning kan ske på tillräckligt avstånd från
 trädstammarna så att de inte skadas. En biotopskyddad åkerholme kommer att
-
 rundas och ett biotopskyddat dike kommer att korsas. Diket kan eventuellt korsas
-
-2023=01=02
-
 med styrd borrning. Om schaktning genom diket behövs kommer Ellevio att
 ansöka om dispens. Naturvärdesinventeringen identifierade två naturvärdesobjekt
 längs med sträckningen. En blandskog av ristyp bedömdes ha påtagligt naturvärde
@@ -37428,9 +41007,6 @@ utanför fåglarnas huvudsakliga häckningsperiod april till juli. Inga
 miljökvalitetsnormer berörs av ledningarna. Ei bedömer att påverkan på
 naturmiljön och skyddade arter inte utgör hinder för att bevilja tillstånd.
 Sträckning och förläggningsarbeten har anpassats för att minska påverkan, och de
-
-2021-103216-0024
-
 naturvärden som berörs är begränsade. Ingen påverkan på miljökvalitetsnormer
 
 kommer att uppstå.
@@ -37449,7 +41025,6 @@ kommer att markeras ut i fält för att säkerställa att ingen påverkan sker p
 lämningsområdet. Hänsyn ska tas till stengärdesgårdarna så att, om möjligt,
 endast tre av dem behöver korsas. Efter förläggningen ska gärdesgårdarna
 återställas. Ei bedömer att påverkan på kulturmiljön inte utgör hinder för att
-
 bevilja tillstånd.
 
 4.1.4 Påverkan på övriga intressen
@@ -37457,6 +41032,10 @@ bevilja tillstånd.
 Ei bedömer att påverkan på övriga intressen har utretts i tillräcklig omfattning och
 
 att den påverkan som kan uppstå inte utgör hinder för att bevilja tillstånd.
+
+2023=01=02
+
+2021-103216-0024
 
 <!-- sida 783 -->
 
@@ -37472,8 +41051,6 @@ bedömts vara lämpligt att utöva nätverksamhet. Ei har inte funnit anledning 
 
 göra en annan bedömning av Ellevios lämplighet i detta beslut.
 
-2023-01-02
-
 4.3 - Ledningarnas lämplighet
 
 Ei bedömer att ledningarna är lämpliga ur allmän synpunkt eftersom de ska ersätta
@@ -37484,10 +41061,7 @@ markanvändning, infrastruktur, naturmiljö och kulturmiljö och vilka konsekven
 som kan förväntas uppstå. Ellevio har också angett vilka skyddsåtgärder de
 planerar att använda för att minska risken för påverkan. Ei bedömer att de
 skyddsåtgärder som föreslagits är tillräckliga med avseende på dessa intressen.
-
 Såväl sträckning som tekniskt utförande och förläggningsmetoder har anpassats
-
-2021-103216-0024
 
 för att minska påverkan på motstående intressen.
 
@@ -37512,6 +41086,10 @@ Skickas till
 
 Ellevio AB (delges)
 
+2023-01-02
+
+2021-103216-0024
+
 <!-- sida 784 -->
 
 = - Energimarknadsinspektionen BESLUT 8 (8)
@@ -37532,7 +41110,6 @@ Kungsbacka kommun
 SP
 Elsäkerhetsverket J
 O
-\- ; I
 Försvarets Radioanstalt Oo
 AA
 .” N
@@ -37548,8 +41125,6 @@ Trafikverket -
 Eon Energidistribution AB
 
 <!-- sida 785 -->
-
-Ei 2150 s v-3.0 2021-09-16
 
 j— - Energimarknadsinspektionen BESLUT 46)
 
@@ -37602,6 +41177,8 @@ Ellevio AB (Ellevio) begär att del av nätkoncession för linje med anläggning
 
 BE Box 155, 631 03 Eskilstuna. Besöksadress Libergsgatan 6. Tel. 016-16 27 00. registratorQei.se. www.ei.se. Org.nr 202100-5695
 
+Ei 2150 s v-3.0 2021-09-16
+
 2023-04-03
 
 2022-101942-0008
@@ -37620,8 +41197,6 @@ Ei har i beslut 2 januari 2023 (ärende 2021-103216) meddelat nätkoncession fö
 för fyra markkablar, anläggningsnr 11388, 11389, 11390 och 11391, som ersätter den
 aktuella ledningen.
 
-2023-04-03
-
 Ellevio har uppgett att de kommer att genomföra ett samråd med länsstyrelsen
 inför raseringen enligt 12 kap. 6 8 miljöbalken. Ledningen ska raseras efter att de
 nya markkablarna har byggts och driftsatts. Raseringen utförs allra sist vid
@@ -37632,8 +41207,6 @@ kommer ske samt hur raseringen kommer genomföras. De har därför inte utrett
 eller planerat vilka återställningsåtgärder som ska utföras.
 
 Bestämmelser som ligger till grund för beslutet
-
-2022-101942-0008
 
 Ellagen (1997:857)
 
@@ -37664,20 +41237,25 @@ Om återställningsåtgärder som avses i 51 eller 53 8 orsakar skada eller intr
 
 den som vidtar åtgärderna betala ersättning för detta (2 kap. 56 8 första stycket).
 
+2023-04-03
+
+2022-101942-0008
+
 <!-- sida 787 -->
 
-=- - Energimarknadsinspektionen BESLUT 3 (6)
+BESLUT 3 (6)
 
-c&= Swedish Energy Markets Inspectorate Datum Ärendenummer
+Datum Ärendenummer
 2023-02-27 2022-101942
+
+a a Energimarknadsinspektionen
+c&= Swedish Energy Markets Inspectorate
 
 Talan om ersättning väcks vid den mark- och miljödomstol inom vars område
 
 marken eller större delen av den ligger (2 kap. 56 8 andra stycket).
 
 Övergångsbestämmelserna till ellagen (1997:857)
-
-2023-04-03
 
 När det gäller en ledning som drogs fram före den 1 juli 1982 ska 2 kap. 51 8
 tillämpas endast om ledningen var i bruk den 1 juli 1982 eller togs i bruk därefter
@@ -37691,8 +41269,6 @@ ska anmälan för samråd göras hos tillsynsmyndigheten enligt miljöbalken (12
 6 8 första stycket).
 
 Ei:s motivering till beslutet
-
-2022-101942-0008
 
 Den aktuella ledningen ska ersättas av fyra nya markkablar i ny sträckning.
 Ledningen kommer därför inte behövas för en säker elförsörjning. Med anledning
@@ -37722,14 +41298,21 @@ motiveras av ett allmänt intresse av någon betydelse. Detta innebär att det s
 
 ställas långtgående krav på återställningsåtgärder.
 
+2023-04-03
+
+2022-101942-0008
+
 <!-- sida 788 -->
 
-. . 5 BESLUT 4 (6
+BESLUT 4 (6)
 
-Energimarknadsinspektionen s - (6)
+Datum Ärendenummer
 
-Swedish Energy Markets Inspectorate Datum Arendenummer
+=a E Energimarknadsinspektionen
+[ara
 2023-02-27 2022-101942
+
+Swedish Energy Markets Inspectorate
 
 En särskild fråga är hur motstående intressen ska behandlas. Återställningsåtgär-
 der som motiveras av ett allmänt intresse skulle kunna skada ett annat intresse. Ei
@@ -37785,7 +41368,6 @@ BESLUT 5 (6)
 Datum Ärendenummer
 2023-02-27 2022-101942
 
-a a - = ES
 = Energimarknadsinspektionen
 [Se Swedish Energy Markets Inspectorate
 
@@ -37793,9 +41375,6 @@ Användande av impregnerade anläggningsdelar riskerar att medföra en
 förorening i omgivande marker. Detaljregler om förorenad mark finns i
 miljöbalken. Frågan om provtagning och sanering av förorenade jordmassor som
 kan uppstå till följd av nätverksamheten hanteras av de tillsynsmyndigheter som
-
-2023-04-03
-
 pekas ut i 26 kap. miljöbalken. Mark- och miljööverdomstolen har ansett att dessa
 får anses vara de instanser som är bäst lämpade att bedriva den operativa tillsynen
 i fråga om förorenad mark och att det inom ramen för de återställningsåtgärder
@@ -37810,8 +41389,6 @@ intresse att ställa krav på att Ellevio ska ta bort eventuellt impregnerat tr�
 finns däremot inte skäl att i detta ärende ställa krav på att Ellevio ska ta bort
 
 kreosotförorenad jord.
-
-2022-101942-0008
 
 Ellevio har åtagit sig att samråda med länsstyrelsen inför raseringen. Ett sådant
 samråd ska enligt 12 kap. 6 8 miljöbalken hållas om naturmiljön väsentligt kan
@@ -37836,6 +41413,10 @@ tagits i drift.
 Hur man överklagar
 
 Se bilaga 2, Hur man överklagar beslutet.
+
+2023-04-03
+
+2022-101942-0008
 
 <!-- sida 790 -->
 
@@ -37987,8 +41568,8 @@ Nätkoncessionerna förenas med följande villkor.
 i
 2
 E
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 793 -->
 
@@ -38042,8 +41623,8 @@ Under förläggningsarbetet används ett cirka 15-20 meter brett arbetsområde f
 byggvägar och upplag. Arbetsområdet kan minskas vid trånga passager. En
 ledningsgata kommer att hållas fri från högre vegetation cirka 2 meter ut på
 vardera sida av ledningarna.
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 794 -->
 
@@ -38096,8 +41677,8 @@ Ledningarna ska ersätta del av en 145 kV ledning från Ysbyhult till Kolla
 trafikplats som omfattas av nätkoncession för linje med anläggningsnummer 8705T
 samt delar av två 50 kV ledningar vid Gräskärr som omfattas av nätkoncession för
 linje med anläggningsnummer 8705I.
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 795 -->
 
@@ -38151,8 +41732,8 @@ ledningarna. Närmsta bostadshus ligger cirka 20 meter från ledningarna.
 Magnetfältsvärdet är på ett sådant avstånd lägre än 0,04 mikrotesla. Ledningarna
 
 passerar även en förskola på cirka 30 meters håll. Förskolans gård ligger på cirka
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 796 -->
 
@@ -38209,8 +41790,8 @@ enligt svensk standard. Den omfattade tillägg för bland annat detaljerad
 
 artförekomst och generella biotopskydd. Ei bedömer att utredningen är tillräcklig
 med hänsyn till områdets karaktär och ledningarnas möjliga miljöeffekter.
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 797 -->
 
@@ -38265,8 +41846,8 @@ bevilja tillstånd.
 Ei bedömer att påverkan på övriga intressen har utretts i tillräcklig omfattning och
 
 att den påverkan som kan uppstå inte utgör hinder för att bevilja tillstånd.
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 798 -->
 
@@ -38318,8 +41899,8 @@ Bilagor
 Skickas till
 
 Ellevio AB (delges)
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 799 -->
 
@@ -38349,8 +41930,8 @@ Skogsstyrelsen
 Trafikverket
 
 Eon Energidistribution AB
-20-10-3202
-4200-612301-1202
+
+2021-103216-0024 2023-01-02
 
 <!-- sida 800 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7b9d1ad18d54c082d594c8/170688412133
 sha256: 6238ffd89f4bdfa141e7c5256afb7d9c780b486f6fa3c6555fb025a7f87c9570
 bytes: 78583367
 sidor: 186
-hamtad: 2026-10-24T10:43:01+00:00
-konverterad: 2026-10-24T10:45:48+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:10:36+00:00
+konverterad: 2026-11-09T10:14:19+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
@@ -3765,7 +3765,7 @@ Ek plan
 
 Ek avd
 
-21 UTZ III = NOSPIEA I sta PEN SAD
+21 UTZ III = NOÖSPIEA Ir uta PEN SAD
 
 Te npbestyrkandae
 
@@ -4149,7 +4149,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -5815,13 +5815,8 @@ Se bilaga 1. Kriterierna för undantaget därmed inte uppfylls.
 När det kommer till att området behöver tas i anspråk för att tillgodose ett annat mycket angeläget
 intresse kan följande konstateras. Ett mycket angeläget intresse innebär mycket speciella
 Justerare                                   Expedierat/bestyrkt
-42-80-3202
-–
-161
-§
-NB
-–
-snepsidsddyksdnartS
+
+Strandskyddsdispens – BN § 161 – 2023-08-24
 
 <!-- sida 141 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3ee0fded199371ed40ca01e/17575934081
 sha256: 326600122fc4d2e8a5a50ab1c05e8c4197b4894b5ac5e2b0ae4005dac1e0af76
 bytes: 31043599
 sidor: 208
-hamtad: 2026-10-25T08:11:18+00:00
-konverterad: 2026-10-25T08:12:12+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-09T12:46:07+00:00
+konverterad: 2026-11-09T12:47:09+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6780,47 +6780,71 @@ Handlingar:
 <!-- sida 162 -->
 
 Sammanfattning
-Innehåll i kvarteret Ejdern
-Programområde för kvarteret Ejdern i Kungs- Bruttoarea: 40 000 kvm
-backa stad syftar till att skapa en attraktiv Höjd: 3-6 våningar
-stadsdel som kopplas ihop med de mest cen- Täthet: 125 inv/ha
+
+Programområde för kvarteret Ejdern i Kungs-
+backa stad syftar till att skapa en attraktiv
+stadsdel som kopplas ihop med de mest cen-
 trala delarna av staden; Kungsbacka innerstad,
-Invånare: 500
 stadsdelen Valand och Kungsmässan. Program-
-Bostäder: 250
 met är den andra etappen i stadsomvandlings-
-Blandade upplåtelseformer
 projektet Väster om ån som ska knyta samman
-Blandade bostadsstorlekar
 Kungsmässan med innerstaden genom ett
-centrumstråk. Etapp ett är stadsdelen Valand Varierande gestaltning
-som håller på att byggas ut. När området ut- Offentliga platser och stråk
-vecklas bidrar det till en levande centrumkärna Arbetsplatser
+centrumstråk. Etapp ett är stadsdelen Valand
+som håller på att byggas ut. När området ut-
+vecklas bidrar det till en levande centrumkärna
 genom att skapa en högre stadsmässighet med
-Parkeringshus
 blandad bebyggelse, attraktiva rekreationsytor
-Offentlig och kommersiell service
 och grönstråk.
+
 Området som omfattas av detta program är
-Där centrumstråket, Vitors båge och Bissmarks-
 idag främst en utbredd markparkering med gles
-gatan möter ån skapas en offentlig mötesplats i
 bebyggelse.
-form av en torgyta (4).
-Karaktärsskapande för området är de storvuxna
+
 Blandad stadsbebyggelse
-träden i Skogsallén (5)och Sjöallén (6) som
-När Kungsbackas centrumkärna växer är det kopplar samman programområdet med övriga
-en förutsättning att det sker genom en blandad centrum genom en grönkorridor. Alléerna kom-
-stadsbebyggelse med bostäder, arbetsplatser, mer att bevaras. Skogsalléns lekplats kommer att
-restauranger och annan service.   bevaras och grönytan intill lekplatsen kommer
-utformas mer parklik (7).
+När Kungsbackas centrumkärna växer är det
+en förutsättning att det sker genom en blandad
+stadsbebyggelse med bostäder, arbetsplatser,
+restauranger och annan service.
+
 Den blandade stadsbebyggelsen består också av
-en variation i husens stil och höjd samt varie- Västra villastaden och Sjöallén kopplas sam-
-rande upplåtelseformer. En blandad stadsbe- man med innerstaden och Hamntorget via en
-byggelse har offentliga rum där det är lätt för bro som ökar flödet av människor till och från
-alla att mötas och det finns liv och rörelse både området (8).
+en variation i husens stil och höjd samt varie-
+rande upplåtelseformer. En blandad stadsbe-
+byggelse har offentliga rum där det är lätt för
+alla att mötas och det finns liv och rörelse både
 på dagen och kvällen.
+
+Innehåll i kvarteret Ejdern
+Bruttoarea: 40 000 kvm
+
+Höjd: 3-6 våningar
+Täthet: 125 inv/ha
+Invånare: 500
+Bostäder: 250
+Blandade upplåtelseformer
+Blandade bostadsstorlekar
+Varierande gestaltning
+
+Offentliga platser och stråk
+Arbetsplatser
+Parkeringshus
+Offentlig och kommersiell service
+
+Där centrumstråket, Vitors båge och Bissmarks-
+gatan möter ån skapas en offentlig mötesplats i
+form av en torgyta (4).
+
+Karaktärsskapande för området är de storvuxna
+träden i Skogsallén (5)och Sjöallén (6) som
+kopplar samman programområdet med övriga
+centrum genom en grönkorridor. Alléerna kom-
+mer att bevaras. Skogsalléns lekplats kommer att
+bevaras och grönytan intill lekplatsen kommer
+utformas mer parklik (7).
+Västra villastaden och Sjöallén kopplas sam-
+man med innerstaden och Hamntorget via en
+bro som ökar flödet av människor till och från
+området (8).
+
 BOSTÄDER
 Kopplingar och offentliga rum                               KONTOR
 CENTRUM-
@@ -6831,11 +6855,11 @@ R
 centrum och fylla de tomrum som finns idag          VERKSAMHETER P A
 med stadsmässig bebyggelse. Genom områdets          P H - O H T U E S LL 1. 3.
 nordöstra del kopplar centrumstråket (1) sam-               TORG
-2\.         4.
+2\.        4.
 man innerstaden med stadsdelen Valand och 7.
-FÖRSKOLA    BOSTÄDER
+FÖRSKOLA   BOSTÄDER
 Kungsmässan. Längs stråket ska bebyggelsen
-LEKPLATS    KONTOR
+LEKPLATS   KONTOR
 ha publika funktioner i bottenvåningarna med       CENTRUM-
 VERKSAMHETER
 entréer mot stråket.                               HOTELL
@@ -6848,6 +6872,7 @@ tan. Platsen och stråket längs Kungsbackaån
 blir då ett viktigt offentligt rum för fotgängare
 och cyklister att vistas i (3).
 8\.
+
 4 Planprogram                                                                                                                    Planprogram 5
 
 <!-- sida 163 -->
@@ -7695,52 +7720,72 @@ dersta röda pilen visar koppling till Hamntorget.
 1 IV
 2 VI  a
 e
-d
 
-6            b
+d
+6           b
 4 III   3 III-V
 5
 e
 
 c
 
-Programkarta                        1.
+Programkarta
+Teckenförklaring
+
+Grönområde/park- och vattenområde
+
+Utvecklingsområde, bostäder
+
+Utvecklingsområde, blandad stadsbebyggelse
+med bland annat bostäder, kontor, verksamhets-
+lokaler och parkeringshus.
+
+Utvecklingsområde, utbildningslokaler
+Programområde
+
+Ny gata mellan Kungsgatan och Skogsallén
+genom kvarteret Ejdern samt utmed Skogsallén
+
+Centrumstråk
+Ny bro vid Hamntorget
+
+Nytt gång- och cykelstråk
+
+Befintliga gång- och cykelvägar
+III, IV, V, VI Högsta antal våningar på ny bebyggelse
+
+24 Planprogram
+
+1\.
 Bostadskvarter, flerbostadshus i fyra våningar.
-Teckenförklaring                    2.
+2\.
 Bostads- och centrumkvarter, verksamhetslo-
 kaler i bottenvåningen och flerbostadshus i upp
-Grönområde/park- och vattenområde
 till sex våningar, hotell. Integrerat parkeringshus.
 3\.
 Bostads- och centrumkvarter, verksamhets-
-Utvecklingsområde, bostäder
 lokaler i bottenvåningen och flerbostadshus i tre
 till fem våningar, hotell. Byggnaderna trappas ner
-Utvecklingsområde, blandad stadsbebyggelse mot Västra villastaden.
-med bland annat bostäder, kontor, verksamhets- 4.
-lokaler och parkeringshus.  Utbildningslokaler (ex förskola). Byggnader i
+mot Västra villastaden.
+4\.
+Utbildningslokaler (ex förskola). Byggnader i
 upp till tre våningar föreslås att placeras mot ny
 gata genom kvarteret Ejdern.
-Utvecklingsområde, utbildningslokaler
 5\.
 Utveckling av park- och vattenområde längs
-Programområde             Kungsbackaån.
+Kungsbackaån.
 6\.
 Lekpark och Skogsallén bevaras.
-Ny gata mellan Kungsgatan och Skogsallén
-genom kvarteret Ejdern samt utmed Skogsallén a. Centrumstråk - länk mellan Kungsmässan och
+a. Centrumstråk - länk mellan Kungsmässan och
 innerstaden.
-Centrumstråk
 b. Ny vägkoppling mellan Kungsgatan och
-Ny bro vid Hamntorget     Skogsallén med gång- och cykelväg.
+Skogsallén med gång- och cykelväg.
 c. Ny bro mellan Hamntorget och Sjöallén.
-Nytt gång- och cykelstråk
 d. Ny koppling mellan Bissmarksgatan, Kungs-
-Befintliga gång- och cykelvägar backaån och innerstaden.
+backaån och innerstaden.
 e. Befintliga gång- och cykelvägar i Sjöallén och
-III, IV, V, VI Högsta antal våningar på ny bebyggelse
 Skogsallén bevaras.
-24 Planprogram                                            Planprogram 25
+Planprogram 25
 
 <!-- sida 184 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2334a47b19733ebe4fc653f2/1749123904
 sha256: 97a26799a98b322ec31927fde20a50f4748450ab9171a3b913b94eea5b74fa84
 bytes: 27831251
 sidor: 166
-hamtad: 2026-10-25T07:44:05+00:00
-konverterad: 2026-10-25T07:47:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:16:03+00:00
+konverterad: 2026-11-09T12:19:25+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4378,14 +4378,7 @@ Sida 3 av 3
 
 Dnr BN 2025-000562 – Ankom 2025-02-26
 
-11-40-5202
-
-–
-497000-5202
-
-D
-–
-deksebsdnahröF
+Förhandsbesked – D 2025-000794 – 2025-04-11
 
 <!-- sida 105 -->
 
@@ -4415,12 +4408,8 @@ Direkt +46300837959
 
 Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
-11-40-5202
-–
-497000-5202
-D
-–
-deksebsdnahröF
+
+Förhandsbesked – D 2025-000794 – 2025-04-11
 
 <!-- sida 106 -->
 
@@ -4470,12 +4459,8 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 (e-post borttagen)
 www.kungsbacka.se
-11-40-5202
-–
-497000-5202
-D
-–
-deksebsdnahröF
+
+Förhandsbesked – D 2025-000794 – 2025-04-11
 
 <!-- sida 107 -->
 
@@ -4510,12 +4495,8 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
-11-40-5202
-–
-497000-5202
-D
-–
-deksebsdnahröF
+
+Förhandsbesked – D 2025-000794 – 2025-04-11
 
 <!-- sida 108 -->
 
@@ -4544,12 +4525,8 @@ Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 
 Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Ärendenummer: #197847 | Inskickat av: | Datum: 2025-04-06 10:03 Sida 1 av 2
-11-40-5202
-–
-497000-5202
-D
-–
-deksebsdnahröF
+
+Förhandsbesked – D 2025-000794 – 2025-04-11
 
 <!-- sida 109 -->
 
@@ -4599,14 +4576,7 @@ Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 Dnr BN 2025-000562 – Ankom 2025-02-26
 
-11-40-5202
-
-–
-497000-5202
-
-D
-–
-deksebsdnahröF
+Förhandsbesked – D 2025-000794 – 2025-04-11
 
 <!-- sida 111 -->
 
@@ -4818,14 +4788,7 @@ Sida 5 av 5
 
 Dnr BN 2025-000563 – Ankom 2025-02-26
 
-32-40-5202
-
-–
-758000-5202
-
-D
-–
-snepsidsddyksdnartS
+Strandskyddsdispens – D 2025-000857 – 2025-04-23
 
 <!-- sida 118 -->
 
@@ -4835,12 +4798,8 @@ Flygfotografi över fastigheten, daterat 2023-04-01. Marken innan för staket ä
 Staketet är markerat med en pilar i bilden ovan.
 
 Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
-32-40-5202
-–
-758000-5202
-D
-–
-snepsidsddyksdnartS
+
+Strandskyddsdispens – D 2025-000857 – 2025-04-23
 
 <!-- sida 119 -->
 
@@ -4855,14 +4814,7 @@ Sida 2 av 2
 
 Dnr BN 2025-000563 – Ankom 2025-04-17
 
-32-40-5202
-
-–
-758000-5202
-
-D
-–
-snepsidsddyksdnartS
+Strandskyddsdispens – D 2025-000857 – 2025-04-23
 
 <!-- sida 121 -->
 
@@ -4892,36 +4844,43 @@ Område  F jära Fastighets AB Alania Område Fastighets AB Alania Fastighet far
 Läge 907-AA Box 10015 ä
 Plan Utomplan 434 21 Kungsbacka ar Godkänd ansvarig arbetsledare byg
 
-Kö s -
 Kö r
 
 Förbud | 15 NVL Förbud
 
 ventilatio
 
-Bn § 218
-Aus 303 NE .
+Bn § 2
+5
 
-u 303 Inlämnade konstruktionshandlingar avseende bygg VA/värme
-Föreliggande ansökan avser nybyggnad av barnstuga om 453 m2 samt förråd ventilation har ej granskats. Granskning och fastställelse sker i särskilt delegationsbeslut.
+Au 8 : Bn § 218
 
-om 32 m2. Förelåg skrivelse från sökandens konsult varvid redovisats att vattenför- CO Erforderliga kompletteringar att inlämnas för godkännande före arbetets
+Au § 303 Inlämnade konstruktionshandlingar avseende bygg VA/värme
+ventilation har ej granskats. Granskning och fastställelse sker i särskilt delegationsbeslut.
 
-Komplettering beräknas ske med yttrande från brandmyndigheten, yrkes- fasligheten. utföras som egen anläggning med djupborrad brunn inom påbörjande.
+1
+0
+
+Föreliggande ansökan avser nybyggnad av barnstuga om 453 m2 samt förråd NN
+
+3 . Oo , Oo +”. , , a LJ ” LÄJ ov LJ
+om 42 m2 Förelåg skrivelse från sökandens konsult varvid redovisats att vattenför- Erforderliga kompletteringar att inlämnas för godkännande före arbetets
+sörjning skall utföras som egen anläggning med djupborrad brunn inom påbörjande.
+
+Komplettering beräknas ske med yttrande från brandmyndigheten, yrkes- Fastigheten
 
 inspektionen samt berörda grannar före arbetsutskottets sammanträde. MX] Anmälan om ansvarig arbetsledare för bygg rör ventilation
 
-att med hänsyn till tomtplatsens belägenhet söder om allmänna vägen för- NN För godkännande av anmäld ansvarig arbetsledare för bygg rör
-klara att gällandeförbud jämlikt 16 § naturvårdslagen inte skall utgöra ilati .
-hinder mot att i huvudsaklig överensstämmelse medföretedda ritningar Ö ventilation erfordras kompetensuppgifter
+att med hänsyn till tomtplatsens belägenhet söder om allmänna vägen för- FN För godkännande av anmäld ansvarig arbetsledare för bygg rör
+klara att gällandeförbud jämlikt 16 § naturvårdslagen inte skall utgöra (
+
+hinder mot att i huvudsaklig överensstämmelse med företedda ritningar ' k 9 fed
+och situationsplan uppföra en barnstuga Konstruktionshandlingar — bygg — in HOnm loL285 er to dras =
 
 Vidare kommer besiktning av den föreslagna tomtplatsen att ske före
 arbetsutskottets sammanträde.
 
-i
-
-| i
-och situationsplan uppföra en barnstuga Konstruktionshandlingar —- bygg inkom or 2E ertodras \<f
+ventilation erfordras kompetensuppgifter r
 
 sva AA
 
@@ -4938,7 +4897,7 @@ J
 Godkännande från yrkesinspektionen föreligger.
 
 förslagen sanitärsnlöggning. har den 21 maj 1991 lämnat tillstånd till överlämna ärendet till stadsarkitektkontoret för bygglovgivning i Teknisk beskrivning
-” delegation, när byggnadens vattenförsörjning, med hänvisning till | Grundundersökning Om arv nat ön berg , Of
+” delegation, när byggnadens vattenförsörjning, med hänvisning till | Grundundersökning Om av nat An berg , OK
 2 kap 3 § plan- och bygglagen, klarlagts, samt Brandcellsindelning — brandteknisk redovisning
 Ventilationsteknisk redovisning
 
@@ -4959,88 +4918,70 @@ OJ Utstakning av byggnaden skall ske genom byggnadsnämndens försorg C] Utstakn
 länsarbetsnämnden . .
 länsarbetsnämnden
 
-Anmaning Sökande anmanas att om beslutet bevisligen underrätta grannar och andra,
-som kan beröras därav
-
-Anmaning Sökande anmanas att om beslutet bevisligen underrätta grannar och andra,
+Anmanin Sökande anmanas att om beslutet bevisligen underrätta grannar och andra i i a -
+? - |: ” 2 ? | | Anmaning Sökande anmanas att om beslutet bevisligen underrätta grannar och andra,
+som kan beröras därav m .
 som kan beröras därav
 
 Anmälningar Till byggnadsnämnden skall anmälan göras för: Anmälningar Till byggnadsnämnden skall anmälan göras för:
 
 Text efter markerad
-Grundbottenbesiktning i ruta gäller
-
-1
-
-2
-
-3 Lägesbesiktning
-4 Stombesiktning
-
-Text efter markerad
 ruta gäller
 
 Registrering av arbetets påbörjande
-? ? ” | Registrering av arbetets påbörjande
+
+Text efter markerad Registrering av arbetets påbörjande
 
 1
-2 Grundbottenbesiktning Konstruktionshandlingar avseende
-3 Lägesbesiktning får inlämnas i mån av arbetets fortskridande
+1
+
+, Lägesbesiktn! | 2 Grundbottenbesiktning Konstruktionshandlingar avseende
+
+gesbesiktning | 3 Lägesbesiktning får inlämnas i mån av arbetets fortskridande
 4
 
+Grundbottenbesiktning i ruta gäller
+
 Stombesiktning
+Stombesiktning
+
 Sa Besiktning av rör i mark
+
 S5b Besiktning av rör I stomme
+
 &c Besiktning av ventilationskanaler
 6a Slutbesiktning rör
+
 6b Slutbesiktning byggnad
 
 Sa Besiktning av rör I mark
 
-GE ALS
-PCR
+5b Besiktning av rör I stomme
 
-FÖ
-
-5b Besiktning av rör i stomme
-
-CIRA
-
-8&c Besiktning av ventilationskanaler
+8c Besiktning av ventilationskanaler
 8a Slutbesiktning rör
-6b Siutbesiktning byggnad
 
-Ir I
-FÖRRA
+6b Slutbesiktning byggnad
 
-FE
+SR ÅR I 5
+
+TA
 
 öl
-
-ODODODO0OO(C800
-
-De
-
-O0ODODOO0O0000
-
-SANS Sr
-
-SININT.
-
-STR”
+FRA
 
 Lägesbesiktning, kr Avslag, kr Summa, kr Postadress: Gatuadress: Telefon:
 
-RR - EN | Avgifter Granskning och beaiktning, ker Förhandsförfrågan, kr Dispens, kr Lägesbesiktning, kr Avslag, kr Summa, kr
-or V 434 81 KUNGSBACKA Stadshuset 0300 - 340 00
+Avgifter Granskning och besiktning, kr Förhandsförfrågan, kr Dispens, kr
+434 81 KUNGSBACKA Stadshuset 0300 - 340 00
 
-Avgifter Granskning och besiktning, ke Förhandsförfrågan, kr Dispens, kr
+av - EN | Avgifter Granskning och beaiktning, ke Förhandsförfrågan, kr Dispens, kr Lägesbesiktning, kr Avslag, kr Summa, kr
 
 På
 
 ragsbestyrkande ; Justeringsmännens «s KUNOSBACKA TRYCKERI AB
 
-MAL er ——  — -
+MAL er — -
 
 | nn
 Al. d Mikrotjänst ,!'3
@@ -5058,6 +4999,16 @@ nr nn KALK fre frn in nm
 | 11 1 1 16
 
 A'3 B Al4 BAS
+
+CIRA
+
+FÖRRA
+
+ODODODO0OO(C800
+
+O0ODODOO0O0000
+
+STR”
 
 <!-- sida 122 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6ca4719418f37aab5d51482d/1715496579
 sha256: d1a604a2c5fa76a6d56922de7aff02c5099786847b1721735b7d9dab0f3c9ea4
 bytes: 76145138
 sidor: 672
-hamtad: 2026-10-24T10:58:21+00:00
-konverterad: 2026-10-24T11:01:19+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:31:03+00:00
+konverterad: 2026-11-09T10:34:55+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -357,10 +357,7 @@ Not
 -22 603
 
 -866
-AES 12
-
 -43 497
-
 666
 
 74
@@ -8876,17 +8873,11 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 214 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 58 av 103
+
 Tabell 7.1 Sammanställning av de viktigaste parametrarna i design av utbyggnadskoncepten för rening av
 mikroföroreningar.
+
 7.5 Diskussion
 En gemensam aspekt vid båda utbyggnadskoncept för rening av mikroföroreningar är att processen
 har antagits att endast ta emot och behandla biologiskt behandlat avloppsvatten. Att behandla
@@ -8895,12 +8886,16 @@ I utbyggnadskoncepten har LOX valts för ozonproduktionen eftersom det anses var
 kostnadseffektiva lösningen för fullskaleanläggningar. Om logistik för leverans av LOX innebär
 problem kan syrgas produceras på plats istället. Denna variant innebär mindre logistik men ökar
 elförbrukningen på plats samt innebär mer utrustning som kräver tillsyn och underhåll.
+
 Ozonkapaciteten har designats med redundans för att kunna klara 80 % reduktion vid Q av
 adwf
 utvalda indikatorämnen enligt förslaget till det nya EU avloppsdirektivet (European Commission,
 2022), även vid det osannolika fallet att GAK-filter inte skulle ha kvar någon adsorptionskapacitet.
 Ozoneringskapaciteten har valts med tillräcklig marginal för att vara robust mot eventuella högre
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 214-1](handlingar.tabeller/214-1.csv)
 
@@ -8924,18 +8919,12 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 215 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 59 av 103
+
 koncentrationer av organiskt material (DOC) och nitrit. DOC och nitrit är i detta skede antagna
 värde och Envidan rekommenderar att analysera dem för bättre underlag vid implementering av
 ozonering på Hammargårds ARV.
+
 En faktor som kan påverka vilken maximal ozondos som används är bromidkoncentrationen, som kan
 leda till bildning av bromat. För detta systemval har inte bromidanalyser funnits tillgängliga och en
 uppskattad bedömning av bromatbildning har gjorts. Utifrån den uppskattade bedömningen
@@ -8946,6 +8935,7 @@ Design av GAK-filter har gjorts något konservativt eftersom kontakttiden har vi
 för reduktionsgrad för rening av mikroföroreningar (Böhler, Joss, & McArdell, 2022). GAK-filter kan
 designas med mindre yta och tillåta lägre kontakttid vid högre flöden eller när ett filter är ur drift,
 på bekostnad av lägre reduktion vid sådana tillfällen.
+
 Antal bäddvolymer rekommenderas generellt mellan 20 000 och 30 000 (Böhler, Joss, & McArdell,
 2022\) och är avgörande för driftkostnaden som ofta domineras av kolbehovet. En kombination av en
 ozondos på ca 0,3 g O /g DOC och 30 000 bäddvolymer har valts till denna design. Genomförda
@@ -8972,20 +8962,17 @@ optimeringsmöjligheter. Nyckeltal för förnyelse av aktivt kol baseras ofta p�
 förozonering. Det betyder att lägre förnyelsetakt kan uppnås i kombination med ozon men tillräcklig
 mycket data saknas för att uppskatta minskningen av koldos. Att koncentration av DOC är ett
 antaget värde bidrar också med osäkerhet kring förnyelse av kolet.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 216 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 60 av 103
+
 8\.  Resultat för utvärderingsparametrar
+
 För att jämföra utbyggnadskoncepten beskrivna i avsnitt 5 till 6 med varandra har
 utvärderingsmodellen beskriven i avsnitt 3.2 använts. Resultatet från de beräkningar och
 bedömningar som är gjorda redovisas i detta kapitel.
@@ -8994,20 +8981,29 @@ resultatet för de sex utbyggnadskoncepten bestående av en kombination av proce
 tillsammans med process för slambehandlingen. Därefter redovisas resultat för de tre
 utbyggnadskoncepten för vattenlinjen samt för de två utbyggnadskoncepten för rening av
 mikroföroreningar separat.
+
 Förutom för utvärderingskriteriet ”Ekonomi” är utvärderingen gjort endast med hänsyn till
 driftsfasen.
+
 8.1 Energieffektiv
 Energieffektiviteten har beräknats genom en energibalans, beräknad som total energitillförsel minus
 total energianvändning.
+
 I Tabell 8.1 redovisas resultat från energibalansen samt utvärdering, med betygsättning, för de
 kombinerade utbyggnadskoncepten för vatten- och slambehandlingen.
+
 Tabell 8.1 Resultat från energibalans samt utvärdering (poängsättning) av de sex kombinerade
 utbyggnadskoncepten för vatten- och slambehandling.
+
 \* Antagen kvalitetsfaktor på kemisk energi (motsvarar uppgraderad biogas) 100%.
 \*\* Antagen kvalitetsfaktor på fjärrvärme 30%.
+
 Resultatet visar att utbyggnadskonceptet CAS och rötning är mest energieffektivt och därefter
 kommer utbyggnadskonceptet AGS och rötning. Sammantaget är de utbyggnadskoncept som har
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 216-1](handlingar.tabeller/216-1.csv)
 
@@ -9028,38 +9024,39 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 217 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 61 av 103
+
 rötning som slambehandling mer energieffektiva jämfört med de utbyggnadskoncept som har
 pyrolys. Det beror på att kvalitetsfaktorn på uppgraderad gas (kemisk energi) har sats till 100%,
 vilket betyder att denna form av energi har 100% användbarhet, medan värme (fjärrvärme) endast
 ansats en kvalitetsfaktor på 30%. I utbyggnadskoncepten med rötning kan energitillskottet därför
 kompensera för den energi som behöver användas i processen.
+
 I Tabell 8.2 redovisas resultatet från energibalansen och utvärderingen av utbyggnadskoncepten för
 vattenlinjen. Energibalansen omfattar då endast elanvändning, eftersom det inte finns någon
 energiproduktion eller annan form av energianvändning. CAS är det utbyggnadskoncept som har
 lägst elanvändning och är därför mest energieffektivt. MBR är det utbyggnadskoncept som har högst
 elanvändning och är därmed det minst energieffektiva.
+
 Tabell 8.2 Resultat från energibalansen samt utvärdering (poängsättning) av utbyggnadskoncept för
 vattenlinjen.
+
 I Tabell 8.3 redovisas resultaten från energibalansen och utvärderingen av utbyggnadskoncepten för
 rening av mikroföroreningar. Precis som för vattenlinjen baseras även denna energibalans endast på
 elanvändning. Ozon kombinerad med GAK är det utbyggnadskoncept som har lägst elanvändning och
 är därför det mest energieffektiva.
+
 Tabell 8.3 Resultat från energibalansen samt utvärdering (poängsättning) av utbyggnadskoncept för rening
 av mikroföroreningar.
+
 8.2 Klimatpositiv
 Utvärdering av utbyggnadskonceptens klimatpåverkan har beräknats genom en klimatbalans baserad
 på Svenskt Vattens klimatberäkningsmodell.
 Klimatberäkningarna är baserade på följande förutsättningar och antaganden:
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 217-1](handlingar.tabeller/217-1.csv)
 
@@ -9081,15 +9078,8 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 218 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 62 av 103
+
 ·  Ursprungsmärkning på el: nordisk residualmix
 ·  Fjärrvärmenätets miljöpåverkan 2022: fjärrvärme från Statkraft Värme AB, 4,4 + 7,7 ≈ 12
 gCO /kWh (förbränning + transport); samma faktor gäller vid undviken produktion
@@ -9113,22 +9103,21 @@ de direkta lustgasemissionerna (N O) samt emissionerna kopplade till elförbrukn
 utbyggnadskoncept som har rötning som slambehandling har lägre klimatpåverkan eftersom
 produktion av fordonsbränsle har en mycket större potentiell klimatnytta i förhållande till
 produktion av värme.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 219 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 63 av 103
+
 Tabell 8.4 Resultat från klimatbalans samt utvärdering (poängsättning) av de sex kombinerade
 utbyggnadskoncepten för vatten- och slambehandling.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 219-1](handlingar.tabeller/219-1.csv)
 
@@ -9155,43 +9144,37 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 220 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 64 av 103
+
 Figur 8.1 Beräknade koldioxidekvivalentemissioner respektive potentiell klimatnytta för varje
 utbyggnadskoncept.
+
 I Tabell 8.5 redovisas resultaten från klimatbalansen och utvärderingen av utbyggnadskoncepten för
 vattenlinjen. De utbyggnadskoncept som har lägst klimatpåverkan är CAS och AGS. Klimatpåverkan
 från utbyggnadskonceptet med AGS har endast 1 % högre än klimatpåverkan från för CAS. MBR-
 alternativet har både större el- och kemikalieförbrukning, vilket orsakar större
 koldioxidekvivalentemissioner.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 221 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 65 av 103
+
 Tabell 8.5 Resultat från klimatbalans samt utvärdering (poängsättning) av utbyggnadskoncepten för
 vattenlinjen.
+
 Tabell 8.6 visar resultaten från klimatbalansen samt utvärdering av utbyggnadskoncepten för rening
 av mikroföroreningar. Ozon kombinerad med GAK är det utbyggnadskonceptet som har lägst
 koldioxidekvivalentemissioner och därför lägst klimatpåverkan. Detta beror främst på att det
 utbyggnadskonceptet har ett lägre behov av kemikalier, jämfört med ozon och fluidiserad bädd.
 Ingen potentiell klimatnytta kan fås från reningsprocessen för mikroföroreningar.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 221-1](handlingar.tabeller/221-1.csv)
 
@@ -9216,17 +9199,11 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 222 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 66 av 103
+
 Tabell 8.6 Resultat från klimatbalans samt utvärdering (poängsättning) av utbyggnadskoncepten för rening
 av mikroföroreningar.
+
 8.3 Ekonomi
 De totala investeringsutgifterna och kostnaderna för de sex olika kombinationerna av
 utbyggnadskoncept för Hammargård ARV har analyserats i ett perspektiv av 50 år. Hänsyn har tagits
@@ -9234,6 +9211,7 @@ till planerade investeringar, intäkter och driftkostnader som orsakas av respek
 utbyggnadskoncept. Analysen redovisas med tabeller och diagram nedan. Motsvarade har gjorts för
 de tre utbyggnadskoncepten för enbart vattenlinjen och för de två koncepten för rening av
 mikroföroreningar.
+
 8.3.1 Förutsättningar för de ekonomiska beräkningarna
 Investeringar med kortare avskrivningstid än 50 år har reinvesterats med samma belopp som den
 initiala investeringen uppräknad med faktor 1,03, d v s 3 % per år. Kalkylräntan i analysen är 2,5 %,
@@ -9242,7 +9220,10 @@ Alla alternativ beräknas som om de initialt aktiveras år 2024, vilket är år 
 analysen är inte att prognostisera den totala kostnaden per år så korrekt som möjligt, utan att
 kunna jämföra de olika utbyggnadskoncepten utifrån deras kostnader under en 50 års livscykel. Alla
 alternativ har hanterats och beräknats utifrån samma förutsättningar.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 222-1](handlingar.tabeller/222-1.csv)
 
@@ -9265,21 +9246,17 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 223 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 67 av 103
+
 Avskrivningstider som använts för komponenterna i investeringarna framgår av Tabell 8.7.
+
 Tabell 8.7 Avskrivningstider per komponent.
+
 8.3.2 Investeringsutgifter
 För de olika utbyggnadskoncepten har den initiala investeringsutgiften samt den totala
 investeringsutgiften under 50 år inklusive reinvesteringar beräknats och redovisas i Tabell 8.8 -
 Tabell 8.10.
+
 För utbyggnadskoncepten med kombination av vatten- och slambehandling har kombinationen AGS
 och rötning lägst total investeringsutgift, tätt följd av CAS i kombination med rötning, Tabell 8.8
 samt Figur 8.2. Generellt så genererar de utbyggnadskoncept med rötning som slambehandling lägre
@@ -9288,9 +9265,13 @@ För både rötnings- och pyrolysalternativen skrivs ca 32 % av de investerade t
 ca 58 % på 20 år och ca 10 % avser mark. Eftersom den totala investeringsutgiften för pyrolys
 inklusive projektering, byggherrekostnader samt osäkerheter och risker är högre än för rötning, så
 blir den totala investeringsutgiften högst för utbyggnadskoncept med pyrolys.
+
 Tabell 8.8 Investeringsutgift för kombinationer av utbyggnadskoncept för vatten- och slambehandling.
 Tabellen visar både initial investeringsutgift samt total investeringsutgift under 50 år.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 223-1](handlingar.tabeller/223-1.csv)
 
@@ -9315,26 +9296,24 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 224 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 68 av 103
+
 Figur 8.2 Total investeringsutgift under 50 år för kombinationer av utbyggnadskoncept för vatten- och
 slambehandling.
+
 Av utbyggnadskoncepten för vattenbehandlingen har AGS har den lägsta initiala
 investeringsutgiften, medan CAS har den högsta initiala investeringsutgiften, Tabell 8.9. På grund av
 att en stor del av investeringarna för MBR avser tillgångar som skrivs av under 20 år så blir den
 totala investeringsutgiften under 50 år högst för alternativet MBR då hänsyn tagits till
 reinvesteringar under en 50 års livscykel, Figur 8.3. Utbyggnadskoncepten CAS och AGS har en större
 andel tillgångar som skrivs av under 50 år än MBR.
+
 Tabell 8.9 Investeringsutgift för utbyggnadskoncept för vattenbehandling. Tabellen visar både initial
 investeringsutgift samt total investeringsutgift under 50 år.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 224-1](handlingar.tabeller/224-1.csv)
 
@@ -9345,24 +9324,22 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 225 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 69 av 103
+
 Figur 8.3 Total investeringsutgift under 50 år för utbyggnadskoncept för vattenbehandling.
+
 För utbyggnadskoncepten för rening av mikroföroreningar har utbyggnadskonceptet med ozon och
 fluidiserad bädd den lägsta initiala investeringsutgiften och också den lägsta totala
 investeringsutgifterna under 50 år, Tabell 8.10 samt Figur 8.4. Alternativet för ozon + GAK-filter
 resulterar i högre total investeringsutgift främst på grund av högre kostnader för
 betongkonstruktioner.
+
 Tabell 8.10 Investeringsutgift för utbyggnadskoncept för rening av mikroföroreningar. Tabellen visar både
 initial investeringsutgift samt total investeringsutgift under 50 år.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 225-1](handlingar.tabeller/225-1.csv)
 
@@ -9373,16 +9350,10 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 226 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 70 av 103
+
 Figur 8.4 Total investeringsutgift under 50 år för utbyggnadskoncept för rening av mikroföroreningar.
+
 8.3.3 Driftskostnader
 Energikostnader, kostnader för kemikalier, samt personalkostnader för rötning och pyrolys har
 uppskattats och beräknats för de kombinerade utbyggnadskoncepten med vatten- och
@@ -9397,31 +9368,33 @@ I denna analys belastar de beräknade driftkostnaderna varje utbyggnadskoncept f
 använda kWh och förbrukning av kemikalier baseras i alla utbyggnadskoncepten på år 1 och
 kostnaden har sedan räknats upp med 3 % varje år. För intäkter och driftkostnader år 1 har
 enhetspriser i Tabell 8.11 använts.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 227 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 71 av 103
+
 Tabell 8.11 Enhetspriser för år 1.
+
 I Tabell 8.12 till Tabell 8.14 redovisas de driftskostnader som använts för jämförelse av de olika
 utbyggnadskoncepten.
+
 I kostnadstyp Tjänster ingår årlig drift- och underhållskostnad för slambehandling som 2% av
 maskininvesteringen och för rötning ingår även slamdisponeringskostnaderna i denna siffra. För
 vattenlinjen blir skillnaden i drifts- och underhållskostnader så liten mellan alternativen så dessa tas
 ej med.
 Intäkter från biogas, biokol som produkt och de kolkrediter som kan säljas för att biokol lagrar in
 koldioxid är osäkra men har tagits med i kostnadstypen Intäkter drift.
+
 I jämförelsen av utbyggnadskoncepten med kombination av vatten- och slambehandling har
 utbyggnadskonceptet med AGS och pyrolys de lägsta driftskostnaderna år 1, följt av
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 227-1](handlingar.tabeller/227-1.csv)
 
@@ -9450,30 +9423,30 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 228 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 72 av 103
+
 utbyggnadskonceptet AGS och rötning, Tabell 8.12. Alternativet MBR och rötning har högst
 driftskostnader år 1. Både utbyggnadskoncepten CAS och MBR har kostnader för rivning som tas
 första året, vilket innebär en högre kostnad år 1. Från år 2 och framåt har i stället
 utbyggnadskonceptet CAS i kombination med pyrolys lägst driftskostnader.
+
 Tabell 8.12 Driftskostnader och intäkter år 1 för kombinationer av utbyggnadskoncept för vatten- och
 slambehandling.
+
 Vid jämförelse av utbyggnadskoncepten för bara vattenlinjen ger AGS de lägsta driftkostnaderna
 år 1, medan CAS ger de lägsta driftkostnaderna från år 2 och framåt, Tabell 8.13. Alternativet MBR
 genererar de högsta driftkostnaderna både år 1 och från år 2 och framåt.
+
 Tabell 8.13 Driftskostnader år 1 för utbyggnadskoncept för vattenlinjen.
+
 Driftskostnader för utbyggnadskoncept för rening av mikroföroreningar visas i Tabell 8.14.
 Resultaten visar högre driftskostnader för alternativet ozon + fluidiserad bädd. Det beror framför
 allt på högre kostnader för det aktiva kolet. Kolbehovet är relativt osäkert för alternativet med
 fluidiserad bädd och kan optimeras som tidigare nämnt i rapporten.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 228-1](handlingar.tabeller/228-1.csv)
 
@@ -9499,30 +9472,30 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 229 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 73 av 103
+
 Tabell 8.14 Driftskostnader år 1 för utbyggnadskoncept för rening av mikroföroreningar.
+
 8.3.4 LCC
 I detta avsnitt redovisas den beräknade totala, ackumulerade kostnaden under 50 år för drift,
 intäkter och investeringar med hänsyn tagen till avskrivningstider och uppräkningsfaktorer som
 angetts ovan för de olika utbyggnadskoncepten.
+
 Vid jämförelse av den totala kostnaden för utbyggnadskoncepten med kombination av vatten- och
 slambehandling, Tabell 8.15, visar resultatet att kombinationen av utbyggnadskonceptet med MBR
 och pyrolys orsakar de högsta kostnaderna över tid och kombinationen av utbyggnadskoncepten AGS
 och rötning de lägsta kostnaderna. Det visar också att kombinationerna med rötning ger lägre
 kostnader än alternativen med pyrolys.
+
 Tabell 8.15 Total kostnad under 50 år, tkr inkl. investerings- och driftkostnader för kombinationerna av
 utbyggnadskoncept för fullständig vattenlinje och slambehandling
+
 I Figur 8.5 och Figur 8.6 redovisas total kostnad under 50 år och ackumulerad kostnad per år under
 50 år för utbyggnadskoncepten för vatten- och slambehandlingen.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 229-1](handlingar.tabeller/229-1.csv)
 
@@ -9543,44 +9516,40 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 230 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 74 av 103
+
 Figur 8.5 Total kostnad, tkr, under 50 år för de olika kombinationerna av utbyggnadskoncept för vatten-
 och slambehandling.
+
 Figur 8.6 Total, ackumulerad kostnad per år under 50 år för kombinationerna av utbyggnadskoncept för
 vatten- och slambehandling
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 231 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 75 av 103
+
 I Figur 8.7 redovisas investeringskostnader och driftkostnader under 50 år separat och det är då
 tydligt att den största delen av de totala kostnaderna är investeringskostnader, det vill säga
 avskrivningar och räntor. Den totala kostnaden är således starkt känslig för förändringar av
 räntenivåer.
+
 Figur 8.7 Fördelning mellan investeringskostnader och driftkostnader under 50 år för utbyggnadskoncept
 med kombination av vatten- och slambehandling.
+
 Vid jämförelse av resultaten för utbyggnadskoncepten för vattenlinjen, Tabell 8.16 och Figur 8.8, är
 utbyggnadskonceptet MBR det dyraste alternativet under 50 års tid. AGS är det billigaste
 alternativet.
+
 Tabell 8.16 Investerings- och driftkostnader för utbyggnadskoncepten för vattenlinjen under 50 år per
 utbyggnadskoncept för endast vattenlinjen
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 231-1](handlingar.tabeller/231-1.csv)
 
@@ -9590,49 +9559,46 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 232 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 76 av 103
+
 Figur 8.8 Investeringskostnader och driftkostnader (totala kostnader) för utbyggnadskoncepten för
 vattenlinjen under 50 år.
+
 Figur 8.9 Totala kostnader per år per utbyggnadskoncept för vattenlinjen under 50 år.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 233 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 77 av 103
+
 Den totala kostnaden under 50 år för utbyggnadskoncepten för rening av mikroföroreningar
 redovisas i Tabell 8.17Tabell 8.17 och Figur 8.9. Den ackumulerade kostanden per år redovisas i
 Figur 8.10. Resultat visar likvärdiga totala kostnader med en liten skillnad mellan båda alternativen.
 Att de totala kostnaderna blir likvärdiga beror på att investeringskostnaden är högre för
 utbyggnadskonceptet med ozon och GAK-filter medan driftkostnaderna är högre för
 utbyggnadskonceptet med ozon och fluidiserad bädd, Figur 8.11.
+
 Tabell 8.17 Total kostnad under 50 år, tkr inkl. investerings- och driftkostnader för utbyggnadskoncepten
 för rening av mikroföroreningar.
+
 Figur 8.9 Investeringskostnader och driftkostnader (totala kostnader) för respektive utbyggnadskoncepten
 för rening av mikroföroreningar under 50 år.
+
 Figur 8.10 Total, ackumulerad kostnad per år under 50 år för respektive utbyggnadskoncepten för rening
 av mikroföroreningar.
+
 Figur 8.11 Fördelning mellan investeringskostnader och driftkostnader under 50 år per
 utbyggnadskoncepten för rening av mikroföroreningar.
 I denna analys har endast varje utbyggnadskoncepts kostnader analyserats isolerat från övriga
 kostnader som belastar de avgiftsskyldiga. För att kunna analysera utbyggnadskonceptens påverkan
 på VA taxan, krävs att alla kostnader och alla aktiverade investeringar tas med i analysen.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 233-1](handlingar.tabeller/233-1.csv)
 
@@ -9642,15 +9608,8 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 234 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 78 av 103
+
 8.3.5 Utvärdering
 Utvärdering av utbyggnadskoncepten vad gäller ekonomi har gjorts genom en jämförelse av de
 totala kostnaderna under 50 år för respektive utbyggnadskoncept. Resultat från utvärdering av de
@@ -9658,19 +9617,26 @@ kombinerade utbyggnadskoncepten för vatten- och slambehandling redovisas i Tabe
 resultaten är utbyggnadskonceptet AGS och rötning mest ekonomisk hållbar, följd av
 utbyggnadskonceptet CAS och rötning. Det utbyggnadskonceptet som är minst ekonomiskt hållbart
 är MBR och pyrolys.
+
 Tabell 8.18 Resultat från LCC samt utvärdering (poängsättning) för de kombinerade utbyggnadskoncepten
 för vatten och slambehandling.
+
 I Tabell 8.19 redovisas resultaten från utvärdering av utbyggnadskoncepten för vattenlinjen. AGS är
 det utbyggnadskonceptet som är mest ekonomiskt hållbart, med både lägre investerings- och
 driftkostnader. MBR är det utbyggnadskonceptet som är minst ekonomiskt hållbart.
+
 Tabell 8.19 Resultat från LCC samt utvärdering (poängsättning) av utbyggnadskoncepten för vattenlinjen.
+
 I Tabell 8.20 redovisas resultaten från utvärdering av utbyggnadskoncepten för rening av
 mikroföroreningar. Ozon kombinerad med GAK är det utbyggnadskonceptet som har lägsta totala
 kostnader och får därmed högst poäng i utvärderingen. Skillnaden mellan de två
 utbyggnadskoncepten är relativt liten.
 Tabell 8.20 Resultat från utvärdering (poängsättning) av utbyggnadskoncepten för rening av
 mikroföroreningar.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 234-1](handlingar.tabeller/234-1.csv)
 
@@ -9696,22 +9662,19 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 235 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 79 av 103
+
 8.4 Redundans och flexibilitet
 För att kunna utvärdera de olika utbyggnadskoncepten vad gäller redundans och flexibilitet har en
 lista med fördelar och nackdelar med varje utbyggnadskoncept tagits fram i samarbete med
 personalen från Hammargård reningsverk, Tabell 8.21.
+
 Tabell 8.21 Identifierade fördelar och nackdelar med varje utbyggnadskoncept gällande redundans och
 flexibilitet.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 235-1](handlingar.tabeller/235-1.csv)
 
@@ -9725,32 +9688,32 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 236 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 80 av 103
+
 Samtliga utbyggnadskoncept är utformade med hög redundans och flexibilitet och möter Kungsbacka
 kommuns mål för det framtida avloppsreningsverket. Utbyggnadskoncepten med MBR har
 utvärderats med något lägre poäng för att den saknar sandfilter som slutpoleringssteg vilket ger
 mindre flexibilitet, Tabell 8.22 och Tabell 8.23.
+
 Tabell 8.22 Resultat från utvärdering (poängsättning) av de olika utbyggnadskoncepten vad gäller
 redundans och flexibilitet.
+
 Tabell 8.23 Resultat från utvärdering (poängsättning) av utbyggnadskoncepten för vattenlinjen vad gäller
 redundans och flexibilitet.
+
 Resultatet från utvärdering av utbyggnadskoncepten för rening av mikroföroreningar vad gäller
 redundans och flexibilitet redovisas i Tabell 8.24. Fluidiserad bädd bedöms ha hög redundans och
 flexibilitet för att det möjliggör periodisk förnyelse av kol samt en anpassning av koldosering efter
 belastningen av organiskt material. GAK-filter är en mindre flexibel process, dock är det möjligt att
 öppna och stänga olika filterceller. Redundans och flexibilitet hos detta utbyggnadskoncept ökar på
 grund av ozondoseringen som är flexibel.
+
 Tabell 8.24 Resultat från utvärdering (poängsättning) av utbyggnadskoncepten för rening av
 mikroföroreningar vad gäller redundans och flexibilitet.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 236-1](handlingar.tabeller/236-1.csv)
 
@@ -9773,24 +9736,22 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 237 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 81 av 103
+
 8.5 Drift och arbetsmiljö
 För att kunna utvärdera de olika utbyggnadskoncepten vad gäller drift och arbetsmiljö har en lista
 med fördelar och nackdelar med varje utbyggnadskoncept tagits fram i samarbete med personalen
 från Hammargård reningsverk, Tabell 8.25.
+
 Dessa fördelar och nackdelar ligger till grund till utvärderingen (poängsättning) som redovisas i
 Tabell 8.26 och Tabell 8.27.
+
 Tabell 8.25 Identifierade fördelar och nackdelar med varje utbyggnadskoncept gällande drift och
 arbetsmiljö.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 237-1](handlingar.tabeller/237-1.csv)
 
@@ -9802,27 +9763,26 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 238 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 82 av 103
+
 Det utbyggnadskoncept som bedöms ha bäst driftförhållanden och arbetsmiljö är aktivslam i
 kombination med rötning. Aktivslam är en välkänd process som är stabil och enkel att styra. Vad
 gäller slambehandling bedöms pyrolys ha sämre drift och arbetsmiljö jämfört med rötning på grund
 av större risk för damm, värme och revisioner.
+
 Tabell 8.26 Resultat från utvärdering (poängsättning) av de kombinerade utbyggnadskoncepten för vatten-
 och slambehandling vad gäller drift och arbetsmiljö.
+
 Tabell 8.27 Resultat från utvärdering (poängsättning) av utbyggnadskoncepten för vattenlinjen vad gäller
 drift och arbetsmiljö.
+
 Resultatet från utvärdering av utbyggnadskoncepten för rening av mikroföroreningar vad gäller
 redundans och flexibilitet visas i Tabell 8.28. Utbyggnadskonceptet ozon i kombination med GAK
 bedöms vara bäst utifrån drift och arbetsmiljö på grund av att GAK-filtren har enkel drift och inte
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 238-1](handlingar.tabeller/238-1.csv)
 
@@ -9845,30 +9805,30 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 239 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 83 av 103
+
 kräver så mycket kontroll och skötsel. Den periodiska förnyelsen av kolet i en fluidiserad bädd gör
 att det finns fler komponenter som kan haverera eller larma och som potentiellt kan öka
 underhållsbehovet. Det krävs även fler transporter av kol (ca 1 gång i månad).
+
 Tabell 8.28 Resultat från utvärdering (poängsättning) av utbyggnadskoncepten för rening av
 mikroföroreningar vad gäller drift och arbetsmiljö.
+
 8.6 Innovation
 För att kunna utvärdera de olika utbyggnadskoncepten vad gäller innovation har en lista med
 fördelar och nackdelar med varje utbyggnadskoncept tagits fram i samarbete med personalen från
 Hammargård reningsverk, Tabell 8.29. Dessa fördelar och nackdelar ligger till grund till
 utvärderingen (poängsättning) som redovisas i Tabell 8.30 och Tabell 8.31.
+
 Tabell 8.29 Identifierade fördelar och nackdelar med varje utbyggnadskoncept gällande innovation.
+
 Det utbyggnadskoncept som bedöms vara mest innovativt är AGS i kombination med pyrolys. Både
 AGS och pyrolys är processer med hög innovationsgrad. Aktivslam och rötning de mest
 konventionella processerna och bedöms därför ha låg innovationsgrad.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 239-1](handlingar.tabeller/239-1.csv)
 
@@ -9888,27 +9848,26 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 240 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 84 av 103
+
 Tabell 8.30 Resultat från utvärdering (poängsättning) av de olika utbyggnadskoncepten vad gäller
 innovation.
+
 Tabell 8.31 Resultat från utvärdering (poängsättning) av utbyggnadskoncepten för vattenlinjen vad gäller
 innovation.
+
 Resultatet från utvärdering av utbyggnadskoncepten för rening av mikroföroreningar vad gäller
 innovation visas i Tabell 8.32. Utbyggnadskonceptet ozon i kombination med fluidiserad bädd
 bedöms vara mest innovativt eftersom fluidiserad bädd med aktivt kol är en relativ ny process. Ozon
 i kombination med GAK bedöms också ha något hög innovationsgrad då det är en ny teknik för
 avloppsvattenrening.
+
 Tabell 8.32 Resultat från utvärdering (poängsättning) av utbyggnadskoncepten för rening av
 mikroföroreningar vad gäller innovation.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 240-1](handlingar.tabeller/240-1.csv)
 
@@ -9931,40 +9890,42 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 241 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 85 av 103
+
 9\.  Utvärdering av utbyggnadskoncept
+
 9.1 Utvärdering av utbyggnadskoncept för vatten- och slambehandling
 En sammanställning av resultaten för samtliga utvärderingsparametrar för utbyggnadskoncepten för
 vatten- och slambehandlingen visas i Tabell 9.1. Utbyggnadskonceptet CAS i kombination med
 rötning är det som fått högsta poäng på flest parametrar. MBR i kombination med pyrolys är det som
 har fått lägst poäng på flest parametrar.
+
 I tabellen redovisas också en samlad värdering av utbyggnadskoncepten, både utan viktning av
 utvärderingsparametrarna samt med viktning enligt Tabell 3.1.
 Resultatet i en värdering där parametrarna har samma betydelse (kallad utan viktning) får
 utbyggnadskonceptet aeroba granuler i kombination med rötning högst värdering.
+
 I en värdering med viktade parametrar blir utbyggnadskonceptet aktivslam i kombination med
 rötning det som värderas högst, dock är skillnaden till utbyggnadskonceptet AGS i kombination med
 rötning väldig liten. Att CAS och rötning får bästa värdering beror främst på parametrarna
 redundans/flexibilitet och drift/arbetsmiljö, som är högt viktade och där det utbyggnadskonceptet
 har fått högsta poäng.
+
 Tabell 9.1 Samanställning av poäng vid utvärdering av de kombinerade utbyggnadskoncepten för vatten-
 och slambehandling, utan och med viktning av utvärderingsparametrarna.
+
 9.2 Utvärdering av utbyggnadskoncept för vattenlinjen
 En sammanställning av resultaten från utvärdering av utbyggnadskoncepten för vattenlinjen
 redovisas i Tabell 9.2 tillsammans med en samlad värdering med och utan viktning av parametrarna.
+
 Resultatet från värdering av utbyggnadskoncepten för vattenlinjen följer samma mönster som
 resultaten för de kombinerade utbyggnadskoncepten för vatten- och slambehandlingen, dvs
 aktivslam får högst poäng vid viktning av parametrarna enligt Tabell 3.1, medan AGS får högst
 poäng om alla utvärderingsparametrar värderas lika.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 241-1](handlingar.tabeller/241-1.csv)
 
@@ -9982,21 +9943,16 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 242 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 86 av 103
+
 Tabell 9.2 Samanställning av poäng vid utvärdering av utbyggnadskoncepten för vattenlinjen, utan och
 med viktning av utvärderingsparametrarna.
+
 9.3 Utvärdering av utbyggnadskoncept för rening av mikroföroreningar
 En sammanställning av resultaten från utvärderingen av utbyggnadskoncepten för rening av
 mikroföroreningar redovisas i Tabell 9.3 tillsammans med en samlad värdering med och utan
 viktning av parametrarna.
+
 Resultatet från värdering av utbyggnadskoncepten för rening av mikroföroreningar resulterar i att
 ozon + GAK är ett bättre alternativ än ozon + fluidiserad bädd. Avgörande utvärderingsparametrar
 är energi och klimat, där ozon + fluidiserad bädd har en högre användning av energi och aktivt kol
@@ -10006,7 +9962,10 @@ under drift och arbetsmiljö på grund av tekniken inte bedöms befinna sig i sa
 GAK-filter och för att den kan kräver fler arbetsmoment än GAK-filter.
 Tabell 9.3 Samanställning av poäng vid utvärdering av utbyggnadskoncept för rening av mikroföroreningar,
 utan och med viktning av utvärderingsparametrarna.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 242-1](handlingar.tabeller/242-1.csv)
 
@@ -10036,36 +9995,37 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 243 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 87 av 103
+
 9.4 Känslighetsanalys
 Erfarenhetsmässigt visar sig ofta antagande omkring el och användningen av biogas ha den största
 påverkan på resultaten. För att undersöka påverkan på resultatet har en känslighetsanalys utförts
 med scenarier redovisade i Tabell 9.4.
+
 Tabell 9.4 Scenarier som analyserats i känslighetsanalys.
+
 För scenario a) får utbyggnadskoncepten med rötning mycket större fördelar mot pyrolys eftersom
 de positiva effekterna på klimatet av biogasproduktion har stor påverkan.
 För scenario b) blir skillnaderna mellan kombination av utbyggnadskoncepten mindre eftersom det i
 ingen kombination produceras biogas till fordonsbränsle utan alla kombinationer producerar värme i
 ungefär samma omfattning med dess mindre positiva inverkan på klimatet. Elproduktionen har
 ungefär lika stor positiv påverkan på alla kombinationer.
+
 Scenario c) och d) är det de utbyggnadskoncept med minst elanvändning som påverkas minst. Det
 vill säga de kombinationer med AGS och CAS i.
+
 Utbyggnadskoncepten CAS och AGS blir med känslighetsanalyserna mer lika varandra. Skillnaden
 mellan utbyggnadskoncept med rötning eller pyrolys är i nollscenariot för alla utbyggnadskoncept
 för vattenlinjen 0,5 poäng. Skillnaden ökar till 0,6–1,0 poäng i alla scenarion utom i scenario b) med
 MBR på grund av dess höga elanvändning och därmed fördel av mindre köpt el.
+
 Tabell 9.5 Poängsättningens variationer vid de olika scenarierna för känslighetsanalys för kombinationerna
 av utbyggnadskoncepten. Symbolen ¯ visar sämre resultat i förhållande till nollscenario och symbolen
 visar bättre resultat i förhållande till nollscenario.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 243-1](handlingar.tabeller/243-1.csv)
 
@@ -10089,19 +10049,15 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 244 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 88 av 103
+
 Tabell 9.6 Poängsättningens variationer vid de olika scenarierna för känslighetsanalys för de tre
 utbyggnadskoncepten för vattenlinjen. Symbolen ¯ visar sämre resultat i förhållande till nollscenario och
 symbolen visar bättre resultat i förhållande till nollscenario.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 [Tabell 244-1](handlingar.tabeller/244-1.csv)
 
@@ -10114,16 +10070,10 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 <!-- sida 245 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 89 av 103
+
 10\. Slutsats
+
 Tre vattenreningsprocesser har värderats med en strukturerad metod (kapitel 0) för att
 Hammargård skall klara de mål som sats upp (kapitel 0) och den belastning som prognostiserats för
 år 2050 (kapitel 5). Aktivslam, likt den process som finns idag på Hammargård, är en av dessa tre.
@@ -10133,6 +10083,7 @@ slambehandlingsprocesser (kapitel 6). Dessa är termofil rötning och pyrolys. D
 utbyggnadskoncept har kombinerats för att bilda sex olika kombinationer för hur Hammargård
 avloppsreningsverk runt år 2050 kan se ut.
 Målsättningarna för val av utbyggnadskoncept för vatten- och slambehandling som värderats är:
+
 ·  Energieffektivitet
 ·  Klimatpositiv
 ·  Ekonomi
@@ -10141,6 +10092,7 @@ Målsättningarna för val av utbyggnadskoncept för vatten- och slambehandling 
 ·  Innovation
 Tyngden för de olika målsättningarna har viktats.
 Utvärderingen av kombinationerna av utbyggnadskoncept (kap 8) visar följande:
+
 ·  Aktivslam i kombination med termofil rötning är det utbyggnadskoncept som sammantaget
 får flest poäng i utvärderingen av de viktade kriterierna. Aerobt granulärt slam i
 kombination med termofil rötning får nästan likvärdiga poäng. Känslighetsanalyser på el och
@@ -10152,90 +10104,99 @@ utvärderingen, både då utbyggnadskoncept för vattenlinjen jämförs samt vid
 de samlade utbyggnadskoncepten för vatten- och slambehandling.
 ·  Skillnaden i poäng mellan AGS och CAS är så liten att det inte går utifrån denna rapport säga
 vilken vattenbehandlingsprocess som är mest fördelaktig.
+
 ·  Ur ett totalkostnadsperspektiv på 50 år är utbyggnadskonceptet AGS i kombination med
 rötning mest fördelaktigt, tätt följt av CAS i kombination med rötning.
+
 ·  Ur ett totalkostnadsperspektiv på 50 år, då bara utbyggnadskoncepten för vattenlinjen
 jämförs, är AGS mest fördelaktigt, följt av CAS.
+
 ·  Rötning får i varje kombination med en vattenreningsprocess 0,5 poäng mer än
 kombinationer där pyrolys ingår, och anses utifrån denna utredning vara det mest
 fördelaktiga alternativet.
 ·  Utbyggnadskoncept med rötning i kombination med en vattenreningsprocess har en lägre
 totalkostnad på 50 år än motsvarande utbyggnadskoncept med pyrolys.
+
 ·  Teknik för rening av mikroföroreningar ingår i utredningen, men ligger med som option i
 byggfasen. Ingen relevant skillnad finns i totalkostnaden på 50 år mellan dessa två
 utbyggnadskoncept. Den sammantagna poängen blir dock 0,5 poäng högre för
 utbyggnadskoncept ozon + GAK i utvärderingen.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 246 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 90 av 103
+
 11\. Referenser
+
 Antakyali, D., Herbst, H., Boekels, A., Börgers, A., aus der Beek, T., & Türk, J. (2016). Anleitung
 zur Planung und Dimensionerung von Anlagen zur Mikroschadstoffelimination.
 Kompetenzzentrum Mikroschadstoffe.NRW.
 Balmér, P. (2015). Parametrar för organiskt material i avloppsvatten och sla och något om deras
 användning. Rapport Nr 2015-11. Bromma: Svensk Vatten Utveckling (SVU).
+
 Bengtsson, K. (2022). Methane Emissions During Sludge Storage in Relation to the Microbial
 Community Composition of Sludge. Chalmers universitet.
 Böhler, M., Joss, A., & McArdell, C. (2022). GAK-Filter für die Spurenstoffentfernung. Erfahrungen
 und Betriebsergebnisse der Pilotstudien ARA Furt-Bülach und Glarnerland. AQUA & GAS N°
 1\.
 Ekholm, E. (2021). PM Workshop 2 Hållbarhet Kungsbacka kommun - Projekt FAR. Sweco Sverige AB.
+
 Engström, S. (2022). Framtida slamhantering och fosforåtervinning på Hammargård ARV,
 Kungsbacka kommun – En översiktlig bedömning av tillgängliga tekniker. Kungsbacka
 kommun.
 Envidan AS. (2022). Markedsanalyse - pyrolysenlæg til spildevandsslam. Envidan - internt dokument.
+
 European Chemicals Bureau. (2003). Technical guidance document on Risk assessment in support of
 Commission Directive 93/67/EEC.
 European Commission. (2022). Proposal for a Directive of the European Parliament and of the
 Council concerning urban wastewater treatment. European Commission.
+
 Falås, P., Juárez, R., Dell, L. A., Fransson, S., Karlsson, S., & Cimbritz, M. (2022). Microbial
 bromate reduction following ozonation of bromide-rich wastewater in coastal areas. Science
 of the Total Environment, 156694.
 Fredriksson, O. (2022). PM Framtida flöden och belastningar på Hammargårds ARV runt 2050.
 Envidan AB.
+
 Länsstyrelsen Hallands län. (den 26 04 2023). Beslut om tillstånd enligt 9 kap. miljöbalken till
 Hammargårds avloppsreningsverk, Kungsbacka kommun. Diarienummer 551-1415-2021.
 Länsstyrelsen Hallands län.
 Marques, R. (2023). Systemvalsutredning Hammargård ARV, Ramverk. Envidan AB.
+
 NyERA. (2021). Teknisk beskrivning avseende verksamheten vid Hammargårds avloppsreningsverk.
 NyERA.
 Oekotoxzentrum. (2015). Environmental Quality Standard (EQS). Vorschlag des Oekotoxzentrum
 für: Bromat.
+
 Persson, G. (2022). An overview of Sludge treatment methods in DK - Envidan internal memo.
 Envidan - internt PM.
 Pistocchi, A., Andersen, H., Bertanza, G., Brander, A., Choubert, J., Cimbritz, M., . . . Thornberg,
 D. (2022). Treatment of micropollutants in wastewater: balancing effectiveness, costs and
 implications. SSRN.
 SWECO. (2021). Hammargårds ARV programhandling. SWECO.
+
 VSA Plattform Verfahrenstechnik Mikroverunreinigungen. (2023). Hämtat från VSA Micropoll:
 https://micropoll.ch
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 247 -->
 
-xcod.10v
-
-lavmetsys
-
-drågrammaH
-
-FLO
-pr6640222
 Ver. 01 24 augusti 2023                               Sida 91 av 103
+
 Wert, E. C., Lew, J., & Rakness, K. L. (2016). Effects of Ozone Dissolution Methods on Disinfection
 Credit, Bromate Formation and Operating Cost. Water Research Foundation.
+
 Wunderlin, P. (2017). Abklärungen Verfahrenseignung Ozonung. VSA.
+
 Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envidan.se • Organisationsnummer 556666-5468
+
+2220466rp OLF Hammargård systemval v01.docx
 
 <!-- sida 248 -->
 
@@ -13208,69 +13169,90 @@ råslammet har blivit biogas.
 
 <!-- sida 336 -->
 
-53525
-
-00972
-003
-
-003
-0573
-00891
-6500                      6100
-0019
-300                      300                      300                      300                      300                        300
-6100                     6100                     6100                      6500
-0001
-0019
-4600
-300
-4300
-0034
-0072
-0005
-003
-003
-300
-4025                         10000
-0005
-003
-003
-PUMPSTATION
-KONTAKTBASSÄNG,  OZON
-KONTAKTBASSÄNG,  OZON
-)TGISTUMS(
-,NETTAVLOPSKCAB
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-LLECRETLIF
-RETLIFKAG
-)TNER(
-,NETTAVLOPSKCAB
-RETLIFKAG
 HÄNVISNINGAR:
 SE RITNING P-40-2-101 FÖR SEKTIONER.
+53525
+
 B
-9725
+
+300                      300                      300                      300                      300                        300
+6500                      6100                     6100                     6100                     6100                      6500                             9725                        4600
+
+300
+4300
+
+PUMPSTATION
+
+300
+4025                         10000
+
+KONTAKTBASSÄNG,  OZON
+
 A                                                                                                                                                                                                                                         A
+KONTAKTBASSÄNG,  OZON
+
 B
+
 PLANVY
+
 SKALA  1:100
+
 0   1   2           5                  10                                                                                                           A1
+
 METER                                                                                                                                                   P-40-1-101            -
 1:100
+
+27900
+
+300
+
+19800
+
+300
+
+3750
+
+GAKFILTER BACKSPOLVATTEN, (SMUTSIGT)
+
+9100
+
+1000
+
+9100
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER FILTERCELL
+
+GAKFILTER BACKSPOLVATTEN, (RENT)
+
+5000
+
+5000
+
+2700
+
+4300
+
+300
+
+300
+
+300
+
+300
 
 [Tabell 336-1](handlingar.tabeller/336-1.csv)
 
@@ -13288,38 +13270,53 @@ METER                                                                           
 
 <!-- sida 337 -->
 
-006
-
-0004
-
-0006
-)0008(
-VY
-
-0001
-)0004(
-)00011(
-0095
-
-0002
 HÄNVISNINGAR:
 SE RITNING P-40-1-101 FÖR PLANVY.
+
+VY
+
 LÄNGDSEKTION       A-A
+
 BET ÄNDRINGEN AVSER        DATUM  SIGN
+
 HAMMARGÅRD        ARV
+
 GRANSKNINGSHANDLING
+
 MARKNIVÅ
+
 2592303   OSHE         JOCA
 TVÄRSEKTION      B-B
 2023-12-22 C. JENSEN
+
 HAMMARGÅRD  ARV
+
 LAYOUTRITNING
 LÄKEMEDELSRENING
 SKALA  1:100
 SEKTION A-A & B-B            FAS   0
 0   1   2           5                  10                                                                                                           A1
+
 METER                                                                                                                                                   P-40-2-101            -
 1:100
+
+4000
+
+600
+
+1000
+
+(4000)
+
+2000
+
+5900
+
+(11000)
+
+6000
+
+(8000)
 
 <!-- sida 338 -->
 
@@ -14633,65 +14630,93 @@ Bilagor                                      21
 
 Om   projektet
 
-Kungsbacka kommun tillsammans med bland annat Envidan och Inom ramen för denna studie så studeras fyra alternativ för
-ByggDialog utreder ett antal alternativ för att bygga om Hammar- slamhanteringen år 2037:
+Kungsbacka kommun tillsammans med bland annat Envidan och
+ByggDialog utreder ett antal alternativ för att bygga om Hammar-
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
-\-  Rötning av slam där biogasen uppgraderas till fordonsgas.
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
-(benämns även som Grundfall i denna rapport)
+
 Inom ramen för tidigare analyser har man studerat alternativ och
-förutsättningar både för åren 2037 och 2050. Man räknar med att - Rötning av slam där biogasen förbränns i en gasmotor för
-flöden och belastning gradvis kommer att öka från idag fram till elproduktion.
+förutsättningar både för åren 2037 och 2050. Man räknar med att
+flöden och belastning gradvis kommer att öka från idag fram till
 2050\. Året 2037 speglar förutsättningarna ungefär i mitten av
-perioden från idag till 2050.                       -  Rötning av slam där biogasen förbränns i en gaspanna för
-värmeproduktion.
+perioden från idag till 2050.
+
 I detta projekt studeras klimatpåverkan från Hammargårds avlopps-
 reningsverk. Utredningen beskriver avloppsreningsverkets
-\-  Pyrolys av slammet med spridning av biokol på åkermark
 klimatpåverkan i ett övergripande perspektiv. Detta innebär att
 klimatbokslutet beskriver både direkta utsläpp från den egna
-Utöver detta studeras också ett fall där Grundfallet kombineras med
 verksamheten och indirekta utsläpp som uppkommer eller undviks i
-läkemedelsrening i form av ozonering i kombination med fluidiserad
 andras verksamheter men som orsakas av avloppsreningsverkets
-bädd med aktivt kol.
 verksamhet. Klimatbokslutet presenterar en sammanfattande bild
-över avloppsreningsverkets klimatpåverkan i samhället. Utöver de kvantitativa resultaten för år 2037, så ingår i den andra
-delen av projektet också en kvalitativ diskussion om hur resultaten
+över avloppsreningsverkets klimatpåverkan i samhället.
+
 I den första delen av projektet studeras det verkliga utfallet under år
-kan utvecklas till år 2050.
 2022 och ett klimatbokslut tas fram för detta år. Detta utgör en viktig
 referens till den andra delen av projektet som innefattar en
 framtidsanalys för ett antal möjliga alternativ för det nya/ombyggda
 verket år 2037.
+
 I det underlag som Profu tagit del av så förutsätts att AGS1 är vald
 vattenreningsprocessteknik år 2037 och kompletterar befintlig
 biologisk rening.
+
 1 Utbyggnadskonceptet AGS består av en process som selekterar fram en
 biomassa som bildar granulära strukturer vilket förbättrar biomassans
 sedimenteringsegenskaper
+
+Inom ramen för denna studie så studeras fyra alternativ för
+slamhanteringen år 2037:
+
+\- Rötning av slam där biogasen uppgraderas till fordonsgas.
+(benämns även som Grundfall i denna rapport)
+
+\- Rötning av slam där biogasen förbränns i en gasmotor för
+elproduktion.
+
+\- Rötning av slam där biogasen förbränns i en gaspanna för
+värmeproduktion.
+
+\- Pyrolys av slammet med spridning av biokol på åkermark
+Utöver detta studeras också ett fall där Grundfallet kombineras med
+läkemedelsrening i form av ozonering i kombination med fluidiserad
+bädd med aktivt kol.
+
+Utöver de kvantitativa resultaten för år 2037, så ingår i den andra
+delen av projektet också en kvalitativ diskussion om hur resultaten
+kan utvecklas till år 2050.
+
 3
 
 <!-- sida 378 -->
 
-Beskrivning     av klimatbokslutet
+Beskrivning     av  klimatbokslutet
 
-Klimatbokslutet är ett verktyg för förbättring!    med de utsläpp som avloppsreningsverket genom sin verksamhet
-indirekt orsakar eller undviker i omvärlden.
+Klimatbokslutet är ett verktyg för förbättring!
+
 Ett klimatbokslut sammanställer all klimatpåverkan som en
-företag/verksamhet gett upphov till, på samma sätt som ett Metoden som används i detta klimatbokslut benämns ”konsekvens-
-ekonomiskt bokslut innebär en sammanställning av samtliga metoden” vilket innebär att alla konsekvenser på klimatpåverkan som
-affärstransaktioner. I klimatbokslutet studeras Hammargårds företaget ger upphov till studeras och kvantifieras, både positiva och
-avloppsreningsverks samlade klimatpåverkan, vilket innebär att alla negativa. Klimatbokslutet beskriver därmed både direkt och indirekt
-de utsläpp som skett på grund av avloppsreningsverkets klimatpåverkan (se Figur 1). Metoden beskrivs mer utförligt i den
-verksamheter kartläggs och kvantifieras.           fristående fördjupningsrapporten ”Klimatbokslut – Fördjupning”.
+företag/verksamhet gett upphov till, på samma sätt som ett
+ekonomiskt bokslut innebär en sammanställning av samtliga
+affärstransaktioner. I klimatbokslutet studeras Hammargårds
+avloppsreningsverks samlade klimatpåverkan, vilket innebär att alla
+de utsläpp som skett på grund av avloppsreningsverkets
+verksamheter kartläggs och kvantifieras.
+
+med de utsläpp som avloppsreningsverket genom sin verksamhet
+indirekt orsakar eller undviker i omvärlden.
+
+Metoden som används i detta klimatbokslut benämns ”konsekvens-
+metoden” vilket innebär att alla konsekvenser på klimatpåverkan som
+företaget ger upphov till studeras och kvantifieras, både positiva och
+negativa. Klimatbokslutet beskriver därmed både direkt och indirekt
+klimatpåverkan (se Figur 1). Metoden beskrivs mer utförligt i den
+fristående fördjupningsrapporten ”Klimatbokslut – Fördjupning”.
 
 Huvuduppgiften för ett klimatbokslut är att vara ett verktyg för
 förbättring. Genom att klimatbokslutet svarar på var och hur
 klimatpåverkan sker kan organisationen sedan sätta in åtgärder för Konsekvensperspektivet
 att minska sin klimatpåverkan. För att klimatbokslutet ska vara ett
 Indirekta tillförda och
-användbart hjälpmedel för att styra arbetet mot minskad                Alternativ   Alternativ
+användbart hjälpmedel för att styra arbetet mot minskad                Alternativ    Alternativ
 undvikna utsläpp
 avloppsbehandling värmeproduktion
 klimatpåverkan behöver det beskriva hela organisationens
@@ -14709,11 +14734,11 @@ mot andra alternativ.                                      (t.ex. deponitäcknin
 Alternativ
 I denna studie analyseras först klimatbokslutet för Hammargårds                   gödselproduktion
 Kolinbindning
-avloppsreningsverk baserat på det verkliga utfallet år 2022. Därefter på åkermark    (N,P)
+avloppsreningsverk baserat på det verkliga utfallet år 2022. Därefter  på åkermark   (N,P)
 studeras ett antal tänkbara framtidsalternativ för ny- och
 ombyggnation och utveckling av avloppsreningsverket för att möta
 framtida krav och behov. Detta studeras kvantitativt för året 2037
-och kvalitativt för året 2050.                     Figur 1 Hammargårds ARV och dess omgivning. I omgivningen både tillförs och
+och kvalitativt för året 2050.                      Figur 1 Hammargårds ARV och dess omgivning. I omgivningen både tillförs och
 undviks klimatpåverkan (indirekta utsläpp) på grund av de produkter och tjänster
 som köps respektive säljs på marknaden. Avloppsreningsverkets egna
 Hur beräknas klimatpåverkan?
@@ -14721,66 +14746,105 @@ anläggningar, transporter m.m. ger upphov till direkta utsläpp.
 I klimatbokslutet studeras Hammargårds avloppsreningsverk totala
 nettoklimatpåverkan i samhället. Detta innebär att alla utsläpp från
 avloppsreningsverkets egna verksamheter finns med, tillsammans
+
 4
 
 <!-- sida 379 -->
 
-Direkt klimatpåverkan visar de utsläpp som Hammargårds avlopps- dessa finns det några utsläpp som i jämförelse har något större
-reningsverks egen verksamhet ger upphov till. Här återfinns fram- påverkan på resultatet vilka beskrivs mer utförligt i punktform nedan:
+Direkt klimatpåverkan visar de utsläpp som Hammargårds avlopps-
+reningsverks egen verksamhet ger upphov till. Här återfinns fram-
 förallt utsläpp av metan och lustgas från avloppshanteringen och
-•  Vid rening av avloppsvatten sker utsläpp av metan och lustgas.
 utsläpp från egna fordon (transporter och arbetsmaskiner).
-(Röda staplar, direkt tillförd klimatpåverkan)
+
 Indirekt klimatpåverkan är utsläpp som sker på grund av avlopps-
-•  Elkonsumtion vid avloppsrening står för en stor del av verkets
 reningsverkets verksamhet men de uppkommer inte i verksamheten.
-indirekt tillförda klimatpåverkan. (Gul stapel, indirekt tillförd
 Med andra ord sker utsläppen utanför Hammargårds avloppsrenings-
-klimatpåverkan)
 verks system från andra företags verksamheter men de orsakas av
-•  Det renade avloppsvattnet innehåller kväve och BOD. En liten
 agerandet vid avloppsreningsverket. De indirekta utsläppen kan
-del av detta omvandlas till lustgas och metan i recipienten efter
 antingen ske ”uppströms” eller ”nedströms”.
-avloppsreningen. (Brun stapel, indirekt tillförd klimatpåverkan)
+
 Med begreppet ”uppströms” avses utsläpp som uppkommer på
-•  Vid användning av slam på åkermark sker utsläpp vid transport
 grund av material och energi som kommer till avloppsreningsverket.
-och hantering av slam till åkermarken. (Ljusbrun stapel, indirekt
 Här finns t.ex. de utsläpp som orsakas av att ta fram och transpor-
-tillförd klimatpåverkan)
 tera kemikalier till avloppsreningsverket. En stor post utgörs av för-
-•  Vid reningen av avloppsvattnet används olika former av
 brukningen av el. Avloppsreningsverket både producerar (genom
-kemikalier. (Röd stapel, indirekt tillförd klimatpåverkan)
 solceller) och konsumerar el och den mängd som konsumeras
-belastar bokslutet som ett indirekt tillfört utsläpp. • Man genomför med olika frekvens ny- och ombyggnationer vid
-avloppsreningsverket. Under 2022 byggde man om sandfiltret
+belastar bokslutet som ett indirekt tillfört utsläpp.
+
 Med begreppet ”nedströms” avses de utsläpp som uppkommer eller
-och installerade även solceller. I denna post inkluderas utsläpp
 undviks på grund av de produkter som levereras från avloppsren-
-från produktion och installation av de material som ingår i dessa
 ingsverket. I denna grupp redovisas undvikna utsläpp från den alter-
-byggnationer. (Brun stapel, indirekt tillförd klimatpåverkan)
 nativa produktionen av nyttigheter och även den kolinlagring som
-sker när slam (från reningen av avloppsvatten) sprids på åkermark. • Slammet från avloppsreningen sprids på åkermark och nyttig-
-görs som gödselmedel. Detta innebär att utsläpp kan undvikas
-från produktion av mineralgödsel. Vidare lagras en del av det
+sker när slam (från reningen av avloppsvatten) sprids på åkermark.
+
 Klimatbokslut     2022
-biogena kolet in i marken som en kolsänka. (Ljusgröna respek-
-En redovisning och presentation av Hammargårds avloppsrenings- tive lila staplar, indirekt undviken klimatpåverkan)
-verks klimatbokslut ges i Figur 2 (och i tabellform i bilagan). I dia- • Elproduktionen i det nordeuropeiska kraftsystemet ger ett rela-
-grammet presenteras den sammanlagda klimatpåverkan under 2022 tivt stort bidrag till klimatpåverkan. Genom att verket producerar
-uppdelat i de grupper som beskrevs tidigare. Diagrammet visar att el från solceller kan man undvika alternativ produktion för denna
-Hammargårds avloppsreningsverks totala nettoklimatpåverkan var mängd el. (Gul stapel, indirekt undviken klimatpåverkan)
+
+En redovisning och presentation av Hammargårds avloppsrenings-
+verks klimatbokslut ges i Figur 2 (och i tabellform i bilagan). I dia-
+grammet presenteras den sammanlagda klimatpåverkan under 2022
+uppdelat i de grupper som beskrevs tidigare. Diagrammet visar att
+Hammargårds avloppsreningsverks totala nettoklimatpåverkan var
 knappt 2860 ton CO2e under 2022 (blå stapel).
+
 Det finns ett stort antal enskilda utsläpp, tillförda och undvikna, som
 sammantaget ger det resultat som presenterades i Figur 2. Bland
+
+dessa finns det några utsläpp som i jämförelse har något större
+påverkan på resultatet vilka beskrivs mer utförligt i punktform nedan:
+
+• Vid rening av avloppsvatten sker utsläpp av metan och lustgas.
+(Röda staplar, direkt tillförd klimatpåverkan)
+• Elkonsumtion vid avloppsrening står för en stor del av verkets
+indirekt tillförda klimatpåverkan. (Gul stapel, indirekt tillförd
+klimatpåverkan)
+
+• Det renade avloppsvattnet innehåller kväve och BOD. En liten
+del av detta omvandlas till lustgas och metan i recipienten efter
+avloppsreningen. (Brun stapel, indirekt tillförd klimatpåverkan)
+• Vid användning av slam på åkermark sker utsläpp vid transport
+och hantering av slam till åkermarken. (Ljusbrun stapel, indirekt
+tillförd klimatpåverkan)
+
+• Vid reningen av avloppsvattnet används olika former av
+kemikalier. (Röd stapel, indirekt tillförd klimatpåverkan)
+• Man genomför med olika frekvens ny- och ombyggnationer vid
+avloppsreningsverket. Under 2022 byggde man om sandfiltret
+och installerade även solceller. I denna post inkluderas utsläpp
+från produktion och installation av de material som ingår i dessa
+byggnationer. (Brun stapel, indirekt tillförd klimatpåverkan)
+
+• Slammet från avloppsreningen sprids på åkermark och nyttig-
+görs som gödselmedel. Detta innebär att utsläpp kan undvikas
+från produktion av mineralgödsel. Vidare lagras en del av det
+biogena kolet in i marken som en kolsänka. (Ljusgröna respek-
+tive lila staplar, indirekt undviken klimatpåverkan)
+• Elproduktionen i det nordeuropeiska kraftsystemet ger ett rela-
+tivt stort bidrag till klimatpåverkan. Genom att verket producerar
+el från solceller kan man undvika alternativ produktion för denna
+
+mängd el. (Gul stapel, indirekt undviken klimatpåverkan)
+
 5
 
 <!-- sida 380 -->
 
 Undvikna utsläpp                                Tillförda utsläpp
+
+Lustgas
+avlopps-
+rening
+
+Slamlagring
+Recipient –renat avloppsvatten
+
+Inbindning kol Elkonsumtion Användning Kemikalier
+slam
+
+Elproduktion solceller
+
+Summa  klimatpåverkan
+
+ton CO2e
 
 -3 000      -2 000     -1 000        0         1 000       2 000       3 000       4 000       5 000
 
@@ -14788,66 +14852,80 @@ Figur 2 Hammargårds avloppsreningsverks sammanlagda klimatpåverkan under 2022 
 bidrog Hammargårds avloppsreningsverk till utsläpp motsvarande 2 860 ton CO2e under 2022 (summa klimatpåverkan, mörkblå stapel).
 
 6
-tkeriD
-Lustgas
-avlopps-
-rening
-ppolva
-nateM
-Slamlagring
-tlatoT                                        Summa  klimatpåverkan
-ton CO2e
-tkeridnI                                               Kemikalier .dögoib/malS ragniretsevnI llåhrednu
-&
-Recipient –renat avloppsvatten
-Inbindning kol Elkonsumtion Användning
-slam
-Elproduktion solceller
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Slam/biogöd.
+
+Metan avlopp
+
+Investeringar
+
+& underhåll
 
 <!-- sida 381 -->
 
-Klimatpåverkan från investeringar                  projekt och data från andra källor har Profu uppskattat utsläppen
-som dessa investeringar gett upphov till. Vissa beräkningar har till
+Klimatpåverkan från investeringar
+
 I princip alla aktiviteter som innefattar användning av energi och för-
-stor del baserats på schabloner då detaljerade data inte funnits att
 ädling av material ger upphov till någon form av klimatpåverkande
-tillgå. Dessa utsläpp redovisas i Figur 3.
 utsläpp. Därmed är det klart att investeringar i byggnader, infrastruk-
 tur och anläggningar för t ex avloppsrening eller energiproduktion
 ger upphov till klimatpåverkan. Utsläppen sker både vid produk-
-Klimatbokslutet 2022 presenterat enligt
 tionen av de material som används i byggnationen och vid produk-
-tionen av den energi och de material som förbrukas vid byggna- Greenhouse gas protocol
+tionen av den energi och de material som förbrukas vid byggna-
 tionen. Klimatbokslutet studerar den totala klimatpåverkan och
-The Greenhouse gas protocol (GHG-protokollet) är ett ramverk
 därför ingår även klimatpåverkan från investeringar. Du kan läsa mer
-innehållande flera standarder för hur man ska beräkna och present-
 om varför och hur dessa utsläpp beräknas i rapporten ”Klimatbokslut
-era klimatpåverkan. Ramverket har utvecklats som ett samarbete
 – Fördjupning”. Investeringsutsläppen för år 2022 visas i figur 3.
+
+Figur 3 Utsläpp som skett till följd av Hammargårds avloppsreningsverks
+investeringar i fasta installationer under 2022.
+
+Under 2022 har Hammargårds avloppsreningsverk genomfört två
+större investeringar i fasta installationer. Man har byggt om ett sand-
+filter och installerat solceller. Utifrån uppgifter som har levererats
+från Hammargårds avloppsreningsverk om materialåtgång för olika
+
+projekt och data från andra källor har Profu uppskattat utsläppen
+som dessa investeringar gett upphov till. Vissa beräkningar har till
+stor del baserats på schabloner då detaljerade data inte funnits att
+tillgå. Dessa utsläpp redovisas i Figur 3.
+
+Klimatbokslutet 2022 presenterat enligt
+Greenhouse gas protocol
+
+The Greenhouse gas protocol (GHG-protokollet) är ett ramverk
+innehållande flera standarder för hur man ska beräkna och present-
+era klimatpåverkan. Ramverket har utvecklats som ett samarbete
 mellan World Resources Institute och World Business Council for
 Sustainable Development. GHG-protokollets standard för redovis-
 ning av ett företags klimatpåverkan (Corporate Reporting Standard)
 är idag en av de mest vedertagna standarderna för detta syfte.
 GHG-protokollet anger att klimatpåverkan ska delas in i och
 presenteras i tre grupper av utsläpp, eller scopes:
-• Scope 1: Direkt tillförda utsläpp från den egna verksamheten
-• Scope 2: Indirekt tillförda utsläpp från köpt energi
-• Scope 3: Övriga indirekt tillförda utsläpp
+
+•  Scope 1: Direkt tillförda utsläpp från den egna verksamheten
+•  Scope 2: Indirekt tillförda utsläpp från köpt energi
+•  Scope 3: Övriga indirekt tillförda utsläpp
+
 Om det rapporterande företaget vill presentera undvikna emissioner
 ska detta enligt GHG-protokollets standard göras i en separat grupp
 skiljt från de tillförda utsläppen (Scope 1-3). För detta ändamål har vi
 valt att lägga till ett Scope 4, i denna grupp bokför vi klimatpåverkan
 som undviks eller tillförs i omvärlden till följd av de produkter och
 tjänster som Hammargårds avloppsreningsverk levererar. Dessa eff-
-Figur 3 Utsläpp som skett till följd av Hammargårds avloppsreningsverks
+
 ekter beror på att alternativ produktion i omvärlden undviks, exem-
-investeringar i fasta installationer under 2022.
 pelvis att alternativ elproduktion undviks om företaget producerar
-Under 2022 har Hammargårds avloppsreningsverk genomfört två och säljer el. Oftast innebär detta att klimatpåverkan undviks då
-större investeringar i fasta installationer. Man har byggt om ett sand- företagets produkter och tjänster ersätter utsläpp från annan
-filter och installerat solceller. Utifrån uppgifter som har levererats produktion. Ibland gäller dock det motsatta.
-från Hammargårds avloppsreningsverk om materialåtgång för olika
+och säljer el. Oftast innebär detta att klimatpåverkan undviks då
+företagets produkter och tjänster ersätter utsläpp från annan
+produktion. Ibland gäller dock det motsatta.
+
 7
 
 <!-- sida 382 -->
@@ -14898,96 +14976,168 @@ Summa av tillförda och undvikna utsläpp 2 864
 
 <!-- sida 383 -->
 
-\-  Rötning av slam där biogasen förbränns i en gasmotor för
-Framtidsanalys      2037
-elproduktion. Det rötade slammet sprids på åkermark. Den
-ökade elproduktionen bidrar till att ersätta annan elproduktion i
-Hammargårds   avloppsreningsverk måste byggas          det nordeuropeiska sammankopplade kraftsystemet. Jämfört
-om för att klara framtida krav                         med 2022 bedöms dock klimatnyttan av elproduktionen vara
-tydligt lägre år 2037 på grund av den pågående utfasningen av
+Framtidsanalys       2037
+
+Hammargårds   avloppsreningsverk måste byggas
+
+om för att klara framtida krav
 Kungsbacka kommun tillsammans med bland annat Envidan och
-fossila kraftslag i det nordeuropeiska kraftsystemet. Hantering
 ByggDialog utreder ett antal alternativ för att bygga om Hammar-
-av slam och nyttor av detta är desamma som i Grundfallet.
+
 gårds avloppsreningsverk så att det skall klara av att rena vatten från
 betydligt fler personer än idag samtidigt som utsläppskraven ökar.
-\-  Rötning av slam där biogasen förbränns i en gaspanna för
-Inom ramen för tidigare analyser har man studerat alternativ och värmeproduktion. Det rötade slammet sprids på åkermark. Den
-förutsättningar både för åren 2037 och 2050. Man räknar med att ökade värmeproduktionen bidrar till att ersätta annan
-flöden och belastning gradvis kommer att öka från idag fram till värmeproduktion i Kungsbackas fjärrvärmenät och undviker
-2050\. Året 2037 speglar förutsättningarna ungefär i mitten av därmed förbränning av biobränsle. Hantering av slam och nyttor
-perioden från idag till 2050.                          av detta är desamma som i Grundfallet.
+Inom ramen för tidigare analyser har man studerat alternativ och
+förutsättningar både för åren 2037 och 2050. Man räknar med att
+flöden och belastning gradvis kommer att öka från idag fram till
+2050\. Året 2037 speglar förutsättningarna ungefär i mitten av
+perioden från idag till 2050.
+
 I det underlag som Profu tagit del av så förutsätts att AGS2 är vald
-\-  Pyrolys av slammet som energimässigt drivs av den gas som
 vattenreningsprocessteknik och kompletterar befintlig biologisk
-bildas vid pryrolysen och som förbränns. Processen genererar
 rening.
+
+Inom ramen för denna studie så studeras fyra alternativ för
+slamhanteringen:
+
+\- Rötning av slam där biogasen uppgraderas till fordonsgas.
+Det rötade slammet sprids på åkermark. Fordonsgasen bedöms
+år 2037 kunna ersätta fossila drivmedel i transportsystemet.
+Slammet sprids på åkermark och ersätter alternativ kväve- och
+gödselproduktion samtidigt som en del av det biogena kolet i
+slammet binds in i åkermarken. Detta fall benämns också
+Grundfall.
+
+2 Utbyggnadskonceptet AGS består av en process som selekterar fram en
+biomassa som bildar granulära strukturer vilket förbättrar biomassans
+sedimenteringsegenskaper
+
+\- Rötning av slam där biogasen förbränns i en gasmotor för
+elproduktion. Det rötade slammet sprids på åkermark. Den
+ökade elproduktionen bidrar till att ersätta annan elproduktion i
+det nordeuropeiska sammankopplade kraftsystemet. Jämfört
+med 2022 bedöms dock klimatnyttan av elproduktionen vara
+tydligt lägre år 2037 på grund av den pågående utfasningen av
+fossila kraftslag i det nordeuropeiska kraftsystemet. Hantering
+av slam och nyttor av detta är desamma som i Grundfallet.
+
+\- Rötning av slam där biogasen förbränns i en gaspanna för
+värmeproduktion. Det rötade slammet sprids på åkermark. Den
+ökade värmeproduktionen bidrar till att ersätta annan
+värmeproduktion i Kungsbackas fjärrvärmenät och undviker
+därmed förbränning av biobränsle. Hantering av slam och nyttor
+av detta är desamma som i Grundfallet.
+
+\- Pyrolys av slammet som energimässigt drivs av den gas som
+bildas vid pryrolysen och som förbränns. Processen genererar
 överskottsvärme i form av uppvärmt vatten med en temperatur
 på ca 80 grader. Denna överskottsvärme antas kunna utnyttjas i
-Inom ramen för denna studie så studeras fyra alternativ för
 det lokala fjärrvärmenätet i Kungsbacka och därigenom ersätta
-slamhanteringen:
 förbränning av biobränsle. Pyrolysen generar också ett biokol
-\-  Rötning av slam där biogasen uppgraderas till fordonsgas. som antas spridas på åkermark. Biokolet förutsätts innehålla lika
-Det rötade slammet sprids på åkermark. Fordonsgasen bedöms mycket fosfor som det rötade slammet i fallen med rötning, men
-år 2037 kunna ersätta fossila drivmedel i transportsystemet. innehållet av kväve är lägre på grund av förluster vid pyrolysen.
-Slammet sprids på åkermark och ersätter alternativ kväve- och
+som antas spridas på åkermark. Biokolet förutsätts innehålla lika
+mycket fosfor som det rötade slammet i fallen med rötning, men
+
+innehållet av kväve är lägre på grund av förluster vid pyrolysen.
 Utöver detta studeras också ett fall där Grundfallet kombineras med
-gödselproduktion samtidigt som en del av det biogena kolet i
 läkemedelsrening i form av ozonering i kombination med fluidiserad
-slammet binds in i åkermarken. Detta fall benämns också
 bädd med aktivt kol3.
-Grundfall.
-2 Utbyggnadskonceptet AGS består av en process som selekterar fram en 3 Observera att framtidsanalysen 2037 enbart avser driftsfas, dvs inga
-biomassa som bildar granulära strukturer vilket förbättrar biomassans investeringsutsläpp för byggnation inkluderas.
-sedimenteringsegenskaper
+
+3 Observera att framtidsanalysen 2037 enbart avser driftsfas, dvs inga
+
+investeringsutsläpp för byggnation inkluderas.
+
 9
 
 <!-- sida 384 -->
 
-Centrala förändringar i omvärlden år 2037 jämfört  anläggningen skulle kunna hantera de större flöden och belastning
-med år 2022                                        som finns då.
+Centrala förändringar i omvärlden år 2037 jämfört
+med  år 2022
 
-Omvärlden förutsätts gradvis förbättras i takt med de hårda krav Detta är som sagt ett hypotetiskt fall eftersom nuvarande renings-
-som ställts upp nationellt och inom EU för att minska världens klimat- verk inte klarar av att hantera 2037 års flöden och belastning. Men
-påverkande utsläpp. Inom EU har detta omsatts till att tydliga tack vare att vi tar fram detta referensfall kan vi jämföra om de nya
-utsläppsreduktioner ska ske inom alla sektorer. Viktiga år för satta alternativen tekniskt är mer eller mindre klimateffektiva jämfört med
-mål är bland annat 2030, 2040 och 2050.            dagens teknik.
+Omvärlden förutsätts gradvis förbättras i takt med de hårda krav
+som ställts upp nationellt och inom EU för att minska världens klimat-
+påverkande utsläpp. Inom EU har detta omsatts till att tydliga
+utsläppsreduktioner ska ske inom alla sektorer. Viktiga år för satta
+mål är bland annat 2030, 2040 och 2050.
 
-I denna analys utnyttjar vid framtidsanalyser för utvecklingen av det För att få fram detta referensfall så har vi från den faktiska situa-
-nordeuropeiska kraftsystemet som Profu arbetar omfattande med. tionen år 2022 ”stegat oss” fram till år 2037. Det första steget
-Man kan konstatera att i princip alla scenarier pekar på att utsläppen illustreras i figur 5. Figuren visar dels klimatbokslutet för år 2022 med
-från det nordeuropeiska kraftsystemet kommer minska tydligt. 2022 års omvärld (dvs det tidigare redovisade resultatet i rapporten)
-Osäkerheterna ligger framförallt i hur fort detta kommer att gå. I och dels samma avloppsreningsverk med samma flöden och belast-
-denna studie har vi räknat med att utsläppen drygt halveras jämfört ning som 2022 men med 2037 års omvärld.
+I denna analys utnyttjar vid framtidsanalyser för utvecklingen av det
+nordeuropeiska kraftsystemet som Profu arbetar omfattande med.
+Man kan konstatera att i princip alla scenarier pekar på att utsläppen
+från det nordeuropeiska kraftsystemet kommer minska tydligt.
+Osäkerheterna ligger framförallt i hur fort detta kommer att gå. I
+denna studie har vi räknat med att utsläppen drygt halveras jämfört
 med år 2022 och hamnar på ca 200 kg CO2e/MWh4.
-Alla poster som inte är beroende av omvärlden (t ex de direkta
-När det gäller kemikalier och alternativ produktion av kväve- och utsläppen från avloppsreningsverket) är oförändrade i de två
-fosforgödsel har vi antagit att den specifika klimatpåverkan (per ton) figurerna. Men poster som beror av omvärlden (t ex elkonsumtion,
-minskar med 20 % fram till 2037. Alla industrier omfattas av målen elproduktion och kemikalier) förändras jämfört med år 2022 och
-inom bland annat EU, och detta kommer att driva fram processför- innebär totalt sett en mindre klimatpåverkande belastning.
+
+När det gäller kemikalier och alternativ produktion av kväve- och
+fosforgödsel har vi antagit att den specifika klimatpåverkan (per ton)
+minskar med 20 % fram till 2037. Alla industrier omfattas av målen
+inom bland annat EU, och detta kommer att driva fram processför-
 bättringar och utsläppsminskande åtgärder även vid denna produk-
-Slutsats:
 tion.
-Om precis samma anläggning med samma avloppsflöden som för
-Nuvarande anläggning med 2037  års flöden och      år 2022 skulle användas år 2037 kommer nettoklimatpåverkan att
-minska med 1 100 ton CO2e jämfört med år 2022. Detta beror på
-med 2037  års omvärld (Referens)
-att klimatpåverkan i omvärlden minskar.
+
+Nuvarande  anläggning med 2037 års flöden och
+med  2037 års omvärld (Referens)
+
 För att få fram en referens att jämföra de studerade fallen för år
 2037 med har vi valt att göra en teoretisk illustration av vilka
 klimatpåverkande utsläpp det ”gamla” avloppsreningsverket (med
 prestanda enligt år 2022) skulle ge upphov till år 2037 om
+
 4 Exakt värde beror på vilken elkonsumtions-/elproduktionsprofil man har.
 Exempelvis har solceller en annorlunda produktionsprofil än elproduktion
 från en gasmotor.
+
+anläggningen skulle kunna hantera de större flöden och belastning
+som finns då.
+
+Detta är som sagt ett hypotetiskt fall eftersom nuvarande renings-
+verk inte klarar av att hantera 2037 års flöden och belastning. Men
+tack vare att vi tar fram detta referensfall kan vi jämföra om de nya
+alternativen tekniskt är mer eller mindre klimateffektiva jämfört med
+dagens teknik.
+
+För att få fram detta referensfall så har vi från den faktiska situa-
+tionen år 2022 ”stegat oss” fram till år 2037. Det första steget
+illustreras i figur 5. Figuren visar dels klimatbokslutet för år 2022 med
+2022 års omvärld (dvs det tidigare redovisade resultatet i rapporten)
+och dels samma avloppsreningsverk med samma flöden och belast-
+ning som 2022 men med 2037 års omvärld.
+
+Alla poster som inte är beroende av omvärlden (t ex de direkta
+utsläppen från avloppsreningsverket) är oförändrade i de två
+figurerna. Men poster som beror av omvärlden (t ex elkonsumtion,
+elproduktion och kemikalier) förändras jämfört med år 2022 och
+innebär totalt sett en mindre klimatpåverkande belastning.
+Slutsats:
+
+Om precis samma anläggning med samma avloppsflöden som för
+år 2022 skulle användas år 2037 kommer nettoklimatpåverkan att
+minska med 1 100 ton CO2e jämfört med år 2022. Detta beror på
+att klimatpåverkan i omvärlden minskar.
 
 10
 
 <!-- sida 385 -->
 
+Undvikna utsläpp           Tillförda utsläpp                       Figur 5 Nuvarande anläggning men
+med olika omvärld, dels 2022 års
+Lustgas
+omvärld (övre figuren, motsvarar
+avlopps-
+rening                                              Klimatbokslutet 2022) och med
+Slamlagring                                  2037 års omvärld (nedre figuren)
+Recipient –renat avloppsvatten
+Inbindning kol Elkonsumtion Användning Kemikalier
+slam
+Elproduktion solceller
+2022 års omvärld
+Summa klimatpåverkan
+(Klimatbokslut 2022)
+ton CO2e
+-3 000 -2 000 -1 000  0    1 000  2 000  3 000 4 000  5 000
 Undvikna utsläpp           Tillförda utsläpp
 
+Summa klimatpåverkan
+2037 års omvärld
+ton CO2e
 -3 000 -2 000 -1 000  0    1 000  2 000  3 000 4 000  5 000
 
 I figuren på nästa sida (figur 6) har vi tagit ytterligare ett steg. Här har vi ”skalat” upp material- och energiflöden från år 2022 till år 2037 utifrån
@@ -14998,76 +15148,79 @@ Om vi skalar upp dagens anläggning så att den även klarar av att behandla 203
 kommer nettoklimatpåverkan att öka med 970 ton CO2e. Större flöden ger större klimatpåverkan.
 
 11
-tkeriD             Lustgas
-avlopps-
-rening
-ppolva
-nateM
-Slamlagring
-tlatoT                    Summa klimatpåverkan
-ton CO2e
-tkeridnI                       Kemikalier .dögoib/malS ragniretsevnI llåhrednu
-&
-Recipient –renat avloppsvatten
-Inbindning kol Elkonsumtion Användning
-slam
-Elproduktion solceller
-tlatoT
-Undvikna utsläpp           Tillförda utsläpp
-ton CO2e
--3 000 -2 000 -1 000  0    1 000  2 000  3 000 4 000  5 000
-tkeriD
-Summa klimatpåverkan
-tkeridnI
-Figur 5 Nuvarande anläggning men
-med olika omvärld, dels 2022 års
-omvärld (övre figuren, motsvarar
-Klimatbokslutet 2022) och med
-2037 års omvärld (nedre figuren)
-2022 års omvärld
-(Klimatbokslut 2022)
-2037 års omvärld
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Slam/biogöd.
+
+Metan avlopp
+
+Investeringar
+
+& underhåll
 
 <!-- sida 386 -->
+
+Undvikna utsläpp           Tillförda utsläpp                     Figur 6 Nuvarande anläggning med
+2037 års omvärld, men med olika
+Lustgas
+flöden och inkommande BOD.
+avlopps-
+rening
+Slamlagring
+Recipient –renat avloppsvatten
+Inbindning kol El Användning Kemikalier
+slam
+● 2022 års anläggning
+Elproduktion solceller
+● 2022 års flöden
+Summa klimatpåverkan
+● 2037 års omvärld
+ton CO2e
+-3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
+Undvikna utsläpp           Tillförda utsläpp
+
+● 2022 års avloppsrening
+
+(uppskaladanläggning utifrån
+inkommande BOD)
+● 2037 års flöden
+Summa klimatpåverkan
+● 2037 års omvärld
+ton CO2e
+-3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
 
 Om man jämför övre diagrammet i Figur 5 (klimatbokslutet för 2022) med nedre diagrammet i Figur 6 kan man också notera att en uppskalad
 anläggning som klarar 2037 års avloppsflöden ger ungefär samma klimatpåverkan år 2037 som dagens anläggning ger år 2022. Större flöden ger
 större direkt och indirekt klimatpåverkan men ökningen kompenseras av att omvärlden samtidigt har förbättrats.
 
 12
-tlatoT
-Undvikna utsläpp           Tillförda utsläpp
-ton CO2e
--3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
-tkeriD             Lustgas
-avlopps-
-rening
-ppolva
-nateM
-Slamlagring
-Summa klimatpåverkan
-tkeridnI                   Kemikalier .dögoib/malS
-Recipient –renat avloppsvatten
-Inbindning kol El Användning
-slam
-● 2022 års anläggning
-Elproduktion solceller
-● 2022 års flöden
-● 2037 års omvärld
-Undvikna utsläpp           Tillförda utsläpp
-● 2022 års avloppsrening
-(uppskaladanläggning utifrån
-inkommande BOD)
-● 2037 års flöden
-● 2037 års omvärld
--3 000 -2 000 -1 000  0    1 000  2 000 3 000  4 000  5 000
-tkeriD
-tlatoT                   Summa klimatpåverkan
-ton CO2e
-tkeridnI
-Figur 6 Nuvarande anläggning med
-2037 års omvärld, men med olika
-flöden och inkommande BOD.
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Slam/biogöd.
+
+Metan avlopp
 
 <!-- sida 387 -->
 
@@ -15080,25 +15233,36 @@ uppgraderas till fordonsgas bidrar till att undvika utsläpp från produktion av
 
 Undvikna utsläpp                            Tillförda utsläpp
 
+Lustgasavloppsrening
+
+Inbindningkol    Biogas            El
+
+Summa klimatpåverkan
+
+ton CO2e
+
+-4 000       -3 000      -2 000       -1 000         0          1 000       2 000        3 000
+
 Figur 6 Utfall år 2037 för den nya/ombyggda anläggningen för vattenrening kombinerat med rötning av slam och uppgradering av biogas till fordonsgas
 och spridning av slam på åkermark.
 
 13
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000       -3 000      -2 000       -1 000         0          1 000       2 000        3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol                             gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+slam
+
+Kemikalier
+
+Metan avlopp
+
+Biogasprod.
 
 <!-- sida 388 -->
 
@@ -15106,35 +15270,43 @@ I figur 8 nedan jämförs utfallet i Grundfallet med utfallet för den gamla anl
 år 2037. Jämförelsen visar mycket tydligt att den nya/ombyggda anläggningen är betydligt mer energi- och klimateffektiv än den gamla
 anläggningen.
 
-Undvikna utsläpp            Tillförda utsläpp
+Undvikna utsläpp            Tillförda utsläpp                    Figur 7 Jämförelse av den gamla
 
--3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
-
-14
-tkeriD
-tlatoT                   Summa klimatpåverkan
-ton CO2e
-tkeridnI
-Dagens teknik 2037:
-● 2022 års avloppsrening
-(uppskaladanläggning)
-● 2037 års flöden
-● 2037 års omvärld
-Undvikna utsläpp            Tillförda utsläpp
-Nya anläggningen 2037
-(grundfallet)
-● Nya reningsanläggningen
-● Biogasproduktion för
-fordonsdrivmedel
--3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
-tkeriD
-tlatoT
-Figur 7 Jämförelse av den gamla
 anläggningen (uppskalad till 2037
 års flöden) och den nya/ombyggda
 anläggningen enligt Grundfallet.
-Summa klimatpåverkan
+
+Dagens teknik 2037:
+● 2022 års avloppsrening
+(uppskaladanläggning)
+Summa klimatpåverkan          ● 2037 års flöden
+
+● 2037 års omvärld
 ton CO2e
+-3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
+Undvikna utsläpp            Tillförda utsläpp
+
+Nya anläggningen 2037
+(grundfallet)
+
+● Nya reningsanläggningen
+● Biogasproduktion för
+Summa klimatpåverkan
+fordonsdrivmedel
+ton CO2e
+-3 000 -2 000 -1 000  0     1 000 2 000  3 000  4 000 5 000
+
+14
+
+Totalt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
 
 <!-- sida 389 -->
 
@@ -15144,51 +15316,65 @@ I Figur 9 (nedre figuren) nedan illustreras utfallet där avloppsslammet rötas 
 inkluderar även en jämförelse mot Grundfallet och den enda delen som skiljer dessa fall är hanteringen av biogasen. Figuren visar att det är en
 tydlig klimatnytta att producera el från biogasen, men klimatnyttan blir inte lika stor som att uppgradera biogasen till fordonsgas.
 
-Undvikna utsläpp           Tillförda utsläpp
+Undvikna utsläpp           Tillförda utsläpp                       Figur 9 Jämförelse av Grundfallet
 
-15
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol            gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp           Tillförda utsläpp
-Nya anläggningen 2037
-● Biogas till elproduktion
-(Gasmotor, ɳ=40%)
-tlatoT
-ton CO2e
-tkeridnI
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-tkeriD                        Lustgas avloppsrening ppolva
-nateM
-Inbindningkol
-.dorpsagoiB
-Elprod.
-biogas
-gnindnävnA
-mals
-reilakimeK
-Figur 9 Jämförelse av Grundfallet
 år 2037 och fallet med rötning av
-slam där biogasen förbränns i en
+Lustgasavloppsrening                     slam där biogasen förbränns i en
 gasmotor med elproduktion.
 Verkningsgraden för gasmotorn är
 antagen till 40 %.
-El
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
 Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+Undvikna utsläpp           Tillförda utsläpp
+Lustgas avloppsrening
+
+Elprod. Inbindningkol El
+biogas
+
+Nya anläggningen 2037
+Summa klimatpåverkan ● Biogas till elproduktion
+(Gasmotor, ɳ=40%)
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+
+15
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+Användning
+
+slam
+
+slam
+
+Kemikalier
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
+
+Biogasprod.
 
 <!-- sida 390 -->
 
@@ -15198,52 +15384,68 @@ I Figur 10 (nedre diagrammet) illustreras utfallet där avloppsslammet rötas oc
 Figuren inkluderar även en jämförelse mot Grundfallet och den enda delen som skiljer dessa fall är hanteringen av biogasen. Figuren visar att det
 är en klimatnytta att producera värme från biogasen, men klimatnyttan blir klart mindre än att uppgradera biogasen till fordonsgas.
 
-Undvikna utsläpp            Tillförda utsläpp
+Undvikna utsläpp            Tillförda utsläpp                      Figur 8 Jämförelse av Grundfallet
 
-16
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol             gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp            Tillförda utsläpp
-Nya anläggningen 2037
-● Biogas till värmeproduktion
-(ersätter biobränsle för fjärr-
-värmeproduktion, ɳ=95%)
--4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
-tkeriD                        Lustgas avloppsrening
-tlatoT
-ppolva
-nateM
-.dorpsagoiB
-Summa
-klimatpåverkan
-ton CO2e
-tkeridnI
-Biogas till fjärrvärmeproduktion
-Inbindningkol gnindnävnA
-mals
-reilakimeK
-Figur 8 Jämförelse av Grundfallet
 år 2037 och fallet med rötning av
-slam där biogasen förbränns i en
+Lustgasavloppsrening                     slam där biogasen förbränns i en
 gaspanna med värmeproduktion.
 Verkningsgraden för gaspannan är
 antagen till 95 %.
-El
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
+Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
+Undvikna utsläpp            Tillförda utsläpp
+Lustgas avloppsrening
+
+Biogas till fjärrvärmeproduktion
+
+Inbindningkol El
+
+Nya anläggningen 2037
+● Biogas till värmeproduktion
+Summa
+(ersätter biobränsle för fjärr-
+klimatpåverkan
+värmeproduktion, ɳ=95%)
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000   2 000  3 000
+16
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+Användning
+
+slam
+
+slam
+
+Kemikalier
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
+
+Biogasprod.
 
 <!-- sida 391 -->
 
@@ -15257,46 +15459,60 @@ och hantering av biokolet kräver mindre resurser än det rötade avloppsslammet
 i en klart högre nettoklimatpåverkan.
 
 Undvikna utsläpp           Tillförda utsläpp
-
-17
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol            gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp           Tillförda utsläpp
-Nya anläggningen 2037
-● Pyrolysanläggning med värmeproduktion
-istället för biogasproduktion
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-tkeriD                        Lustgas avlopps-
-rening
-tlatoT
-ppolva
-nateM
-Summa
-klimatpåverkan
-ton CO2e
-tkeridnI                           reilakimeK
 Figur 11 Jämförelse av Grundfallet
 år 2037 och fallet med pyrolys av
+Lustgasavloppsrening
 slam som genererar ett biokol som
 sprids på åkermark och överskotts-
 värme som nyttiggörs inom
 Kungsbackas fjärrvärmenät.
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
+Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+Undvikna utsläpp           Tillförda utsläpp
+Lustgas avlopps-
+rening
+
 Inbindningkol El
+
+Nya anläggningen 2037
+
+Summa                   ● Pyrolysanläggning med värmeproduktion
+klimatpåverkan
+istället för biogasproduktion
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
+17
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Användning
+
+Kemikalier
+
+slam
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
 
 <!-- sida 392 -->
 
@@ -15307,46 +15523,61 @@ det renade vattnet kommer att innehålla mindre mängd läkemedelsrester som spr
 kostnad i form av extra kemikalieåtgång och större elkonsumtion. Totalt skulle de klimatpåverkande utsläppen öka med knappt 450 ton CO2e år
 2037 med läkemedelsrening.
 
+Undvikna utsläpp           Tillförda utsläpp                        Figur 12 Jämförelse av
+Grundfallet år 2037, utan
+Lustgasavloppsrening                      och med läkemedelsrening
+
+Inbindningkol Biogas El
+
+Nya anläggningen 2037 (grundfallet)
+Summa klimatpåverkan
+● Biogas till fordonsdrivmedel
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
 Undvikna utsläpp           Tillförda utsläpp
+Lustgas avloppsrening
+
+Inbindningkol Biogas El
+
+Nya anläggningen 2037
+
+Summa                ● Samma som grundfallet men
+klimatpåverkan
+inklusive läkemedelsrening
+ton CO2e
+-4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
 
 18
-tkeriD
-tlatoT
-Lustgasavloppsrening
-ton CO2e
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-reilakimeK
-ppolva
-nateM
-Inbindningkol            gnindnävnA
-mals
-El
-.dorpsagoiB
-Biogas
-Summa klimatpåverkan
-tkeridnI
-Nya anläggningen 2037 (grundfallet)
-● Biogas till fordonsdrivmedel
-Undvikna utsläpp           Tillförda utsläpp
-Nya anläggningen 2037
-● Samma som grundfallet men
-inklusive läkemedelsrening
--4 000  -3 000  -2 000 -1 000   0      1 000  2 000   3 000
-tkeriD                        Lustgas avloppsrening
-tlatoT
-ppolva
-nateM
-.dorpsagoiB
-Summa
-klimatpåverkan
-ton CO2e
-tkeridnI                           gnindnävnA
-mals
-reilakimeK
-Figur 12 Jämförelse av
-Grundfallet år 2037, utan
-och med läkemedelsrening
-Inbindningkol Biogas El
+
+Totalt
+
+Indirekt
+
+Direkt
+
+Totalt
+
+Indirekt
+
+Direkt
+
+sAlanvmändning
+
+Användning
+
+slam
+
+Kemikalier
+
+Kemikalier
+
+Metan avlopp
+
+Metan avlopp
+
+Biogasprod.
+
+Biogasprod.
 
 <!-- sida 393 -->
 
@@ -15373,30 +15604,44 @@ removed.
 
 <!-- sida 394 -->
 
-Kvalitativt om utvecklingen fram till 2050 och hur kemikalieintensiva (pyrolys av slam samt fall med läkemedelsrening)
-det kan komma  att påverka utfallet.               och missgynna det fall som producerar el (rötning av slam med
-elproduktion).
+Kvalitativt om utvecklingen fram till 2050 och hur
+det kan komma  att påverka utfallet.
+
 Både flöden och belastning i den nya/ombyggda anläggningen
-kommer att öka till år 2050 jämfört med år 2037. Exempelvis När det gäller Grundfallet (rötning av slam med fordonsgas) är en
-stor fråga hur fort omställningen av transportsystemet sker, dvs när
+kommer att öka till år 2050 jämfört med år 2037. Exempelvis
 förväntas årsmedelbelastningen öka från 53 600 pe till 70 000 pe.
-det inte längre är aktuellt att fordonsgas ersätter fossila drivmedel.
-Om man först tittar på enbart effekten av större flöden och Om man lyckas med detta, så ser vi ändå det som rimligt att man
-belastning så får vi en kvalitativ vägledning av Figur 6 där större fortfarande att räkna med att biogas kan ersätta naturgas som en
-flöden och belastning ”förstärker” storleken på de olika posterna, allt industriråvara. De europeiska biogastillgångarna är begränsade i
-annat lika. Med enbart denna effekt skulle man därför kunna förvänta förhållande till naturgaskonsumtionen och i och med att Sverige på
-sig att skillnaderna mellan de olika alternativen för att hantera slam västkusten är sammankopplat med det övriga gasnätet i Europa så
-skulle öka fram till 2050.                         finns alltid en möjlighet att injicera uppgraderad biogas och därmed
-ersätta naturgas. Detta kommer dock ge mindre klimatnytta än
+
+Om man först tittar på enbart effekten av större flöden och
+belastning så får vi en kvalitativ vägledning av Figur 6 där större
+flöden och belastning ”förstärker” storleken på de olika posterna, allt
+annat lika. Med enbart denna effekt skulle man därför kunna förvänta
+sig att skillnaderna mellan de olika alternativen för att hantera slam
+skulle öka fram till 2050.
+
 Men samtidigt ser vi att det är rimligt att anta en fortsatt minskning
-ersättningen av fossila drivmedel. I våra beräkningar skulle
 av klimatpåverkande utsläpp i omvärlden. Detta kommer att innebära
-klimatnyttan från biogasen, inklusive hänsyn till naturgasens
 att utsläppen från det nordeuropeiska kraftsystemet kommer att
-uppströms utsläpp från produktion och distribution, sjunka med drygt
 minska, liksom ”uppströms” utsläpp från produktionen av kemikalier.
-21 % jämfört med utfallet år 2037.
 Detta kommer generellt gynna de fall som är mer el- och
+
+kemikalieintensiva (pyrolys av slam samt fall med läkemedelsrening)
+och missgynna det fall som producerar el (rötning av slam med
+elproduktion).
+
+När det gäller Grundfallet (rötning av slam med fordonsgas) är en
+stor fråga hur fort omställningen av transportsystemet sker, dvs när
+det inte längre är aktuellt att fordonsgas ersätter fossila drivmedel.
+Om man lyckas med detta, så ser vi ändå det som rimligt att man
+fortfarande att räkna med att biogas kan ersätta naturgas som en
+industriråvara. De europeiska biogastillgångarna är begränsade i
+förhållande till naturgaskonsumtionen och i och med att Sverige på
+västkusten är sammankopplat med det övriga gasnätet i Europa så
+finns alltid en möjlighet att injicera uppgraderad biogas och därmed
+ersätta naturgas. Detta kommer dock ge mindre klimatnytta än
+ersättningen av fossila drivmedel. I våra beräkningar skulle
+klimatnyttan från biogasen, inklusive hänsyn till naturgasens
+uppströms utsläpp från produktion och distribution, sjunka med drygt
+21 % jämfört med utfallet år 2037.
 
 20
 
@@ -19732,19 +19977,12 @@ interna styrdokument Enheternas förmåga.
 
 Tabell 7. RSG:s förmåga redovisad per styrka och nivå för heltidsstationerna inom organisationen. Nivå 1 innebär
 en grundförmåga, nivå 2 en utökad grundförmåga och nivå 3 innebär specialförmåga.
+Enheternas förmåga, inklusive bemanning och anspänningstid
 
 Heltidsstationer
 
 Förmåga
 
-46 (70)
-)kes 09 ( 6+1 adnulörF )kes 09 ( 6+1 adråG )kes 09 ( 6+1 aladetroK )kes 09 ( 6+1 deregnA )kes 09 ( 4+1 adnalsroT )kes 09 ( 6+1 ybdnuL )kes 09 ( 4+1 ladnlöM )kes 09 ( 4+1 emodniL )kes 09 ( 4+1 mureL )kes 09 ( 6+1 akcabsgnuK )kes 09 ( 4+1 öjsrejÖ )kes 09 ( 4+1 dnusgnunetS )kes 09 ( 2+1 nröjT )kes 09( 2+1 tedE
-alliL
-)00.81
-\- 00.60 ragadrav kes
-09
-( 2+0
-Enheternas förmåga, inklusive bemanning och anspänningstid
 BRAND I BYGGNAD
 Brand i byggnad
 Brand i byggnad - utrymning med stege upp till 11 meter
@@ -19758,8 +19996,10 @@ Trafikolycka
 OLYCKA MED FARLIGA ÄMNEN
 Brand i brandfarlig vätska och gas
 Farliga ämnen (CBRN)
+
 NATUROLYCKA
 Resurs för ras och tungräddning (RTR)
+
 DRUNKNING
 Vattenlivräddning
 AVSIKTLIGA HÄNDELSER
@@ -19771,6 +20011,7 @@ Prehospitalt omhändertagande
 SPECIALFÖRMÅGA
 Farliga ämnen (indikering Nivå 2)
 Farliga ämnen (kem nivå 3)
+
 Förstärkt resurs för brand i brandfarlig vara
 Terrängtransport
 UAS (Unmanned Aerial System)
@@ -19788,6 +20029,7 @@ AI (Avancerad indikering)
 MIRG (Maritime Incident Response Group)
 Sanering
 Storskalig oljebrandsläckning (SMC)
+
 Förklaring
 Förmåga nivå 1
 Förmåga nivå 2 (inkluderar nivå 1)
@@ -19795,78 +20037,49 @@ Förmåga nivå 3 (inkluderar nivå 1 & 2) / Specialförmåga. Förmåga och til
 hela förbundsområdet.
 Förmågan utgår till stor del från riskbilden inom respektive stationsområde.
 
+46 (70)
+
+Frölunda 1+6 ( 90 sek)
+
+Gårda 1+6 ( 90 sek)
+
+Kortedala 1+6 ( 90 sek)
+
+Angered 1+6 ( 90 sek)
+
+Torslanda 1+4 ( 90 sek)
+
+Lundby 1+6 ( 90 sek)
+
+Mölndal 1+4 ( 90 sek)
+
+Lindome 1+4 ( 90 sek)
+
+Lerum 1+4 ( 90 sek)
+
+Kungsbacka 1+6 ( 90 sek)
+
+Öjersjö 1+4 ( 90 sek)
+
+Stenungsund 1+4 ( 90 sek)
+
+Tjörn 1+2 ( 90 sek)
+
+Lilla Edet 1+2 (90 sek)
+
+0+2 ( 90 sek vardagar 06.00 - 18.00)
+
 <!-- sida 493 -->
 
 Handlingsprogram enligt LSO 2024
 
 Tabell 8. RSG:s förmåga redovisad per styrka och nivå för RiB-stationerna inom organisationen. Nivå 1 innebär
 en grundförmåga, nivå 2 en utökad grundförmåga och nivå 3 innebär specialförmåga.
+Enheternas förmåga, inklusive bemanning och anspänningstid
+
+Räddningsmän i beredskap RiB
 
 Förmåga
-
-För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
-förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i
-räddningstjänstverksamheten och övningsverksamheten ska därför synliggöra vad som
-
-övas, varför och vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra
-och effektiva räddningsinsatser. Övning är nödvändigt för att vidmakthålla och förstärka
-förmågan att hantera olyckor och tillbud. Det gäller så väl på individnivå, på den egna
-enhetens samlade förmåga och ledningsförmåga. För att kunna frigöra styrkor för
-utveckling och för att upprätthålla kompetens bland personalen finns en organisation med
-förbundsövergripande täckstyrka som avlöser ordinarie personal i samband med övning.
-
-Övningsverksamheten är alltså ett effektivt sätt att vidareutveckla och att göra organisa-
-tionen trygg i att alla medarbetare har rätt kunskaper och färdigheter för att kunna utföra
-effektiva räddningsinsatser på ett arbetsmiljösäkert sätt.
-
-47 (70)
-)kes
-024(
-4+1
-mureL
-)kes
-024(
-4+1
-akcabsgnuK
-)kes
-084(
-4+1
-såsellirF
-)kes
-003(
-4+1
-ekcylnlöM
-)kes
-003(
-4+1
-sådniH
-)kes
-003(
-2 +1
-adnalväR
-)kes
-003(
-4+1
-ösnoD
-)kes
-063(
-2+0
-BiR
-nröjT
-BiR
-2+0
-dnussgnunetS )kes 084(
-)kes
-063
-( 2+0
-tedE
-alliL
-)kes
-006(
-2+0
-öjsrejÖ
-Enheternas förmåga, inklusive bemanning och anspänningstid
-Räddningsmän i beredskap RiB
 BRAND I BYGGNAD
 Brand i byggnad
 Brand i byggnad - utrymning med stege upp till 11 meter
@@ -19898,6 +20111,43 @@ Förmåga nivå 2 (inkluderar nivå 1)
 Förmåga nivå 3 (inkluderar nivå 1 & 2) / Specialförmåga. Förmåga och tillika spetsresurs
 som kan verka inom hela förbundsområdet.
 Förmågan utgår till stor del från riskbilden inom respektive stationsområde.
+För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
+förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i
+räddningstjänstverksamheten och övningsverksamheten ska därför synliggöra vad som
+övas, varför och vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra
+och effektiva räddningsinsatser. Övning är nödvändigt för att vidmakthålla och förstärka
+förmågan att hantera olyckor och tillbud. Det gäller så väl på individnivå, på den egna
+enhetens samlade förmåga och ledningsförmåga. För att kunna frigöra styrkor för
+utveckling och för att upprätthålla kompetens bland personalen finns en organisation med
+förbundsövergripande täckstyrka som avlöser ordinarie personal i samband med övning.
+Övningsverksamheten är alltså ett effektivt sätt att vidareutveckla och att göra organisa-
+tionen trygg i att alla medarbetare har rätt kunskaper och färdigheter för att kunna utföra
+effektiva räddningsinsatser på ett arbetsmiljösäkert sätt.
+47 (70)
+
+Lerum 1+4 (420 sek)
+
+Kungsbacka 1+4 (420 sek)
+
+Frillesås 1+4 (480 sek)
+
+Mölnlycke 1+4 (300 sek)
+
+Hindås 1+4 (300 sek)
+
+Rävlanda 1+ 2 (300 sek)
+
+Donsö 1+4 (300 sek)
+
+Tjörn RiB 0+2 (360 sek)
+
+Stenungssund 0+2 RiB
+
+(480 sek)
+
+Lilla Edet 0+2 ( 360 sek)
+
+Öjersjö 0+2 (600 sek)
 
 <!-- sida 494 -->
 
@@ -20448,56 +20698,76 @@ Handlingsprogram enligt LSO 2024
 
 produkter, utsläpp av farliga ämnen mm krävs förstärkning från räddningsstyrkor med
 specialförmåga (nivå 2 och 3). (Tabell 14)
+
 Tabell 14. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid olycka med farligt ämne.
 
 Område              Förmåga och nyckeluppgifter som omfattas av
 
-\-  att snabbt rädda enstaka personer som befinner sig i fara i
-område med brandfarlig vätska eller gas,
-\-  att släcka brand i spill av olja eller polär produkt från tankbil eller
 Brand i brandfarlig vätska och gas
-järnvägsvagn,
-\-  att släcka brand i mindre cistern med olja eller polär produkt,
-\-  att kyla hotad cistern vid brand i cistern för brandfarlig vara.
-\-  att snabbt rädda enstaka personer som befinner sig i område
-med farliga ämnen,
-\-  att genomföra livräddande sanering av enstaka personer,
+
 Farliga ämnen
-\-  att indikera brännbar atmosfär och annan farlig miljö,
-\-  att akut begränsa skadeutbredningen genom övertäckning,
-uppsamling, och nedtvättning.
-\-  att indikera riskområde för vanligt förekommande
+
 Farliga ämnen, nivå 2 (indikering)
+
+Farliga ämnen, nivå 3 (kem 3)
+
+Farliga ämnen, kemenhet
+
+Avancerad Indikering
+
+Sanering
+
+Förstärkt resurs för brand i
+brandfarlig vätska
+
+Storskalig oljebrandsläckning (SMC)
+
+UAS - Unmanned Aerial System
+
+\- att snabbt rädda enstaka personer som befinner sig i fara i
+område med brandfarlig vätska eller gas,
+\- att släcka brand i spill av olja eller polär produkt från tankbil eller
+järnvägsvagn,
+\- att släcka brand i mindre cistern med olja eller polär produkt,
+\- att kyla hotad cistern vid brand i cistern för brandfarlig vara.
+\- att snabbt rädda enstaka personer som befinner sig i område
+med farliga ämnen,
+\- att genomföra livräddande sanering av enstaka personer,
+\- att indikera brännbar atmosfär och annan farlig miljö,
+\- att akut begränsa skadeutbredningen genom övertäckning,
+uppsamling, och nedtvättning.
+\- att indikera riskområde för vanligt förekommande
 industrikemikalier
-\-  att genomföra insats i område/utrymme med farliga ämnen
-\-  att begränsa skadeutbredning genom tätning, övertäckning,
-Farliga ämnen, nivå 3 (kem 3) uppsamling, impaktering, överpumpning, kylning och
+\- att genomföra insats i område/utrymme med farliga ämnen
+\- att begränsa skadeutbredning genom tätning, övertäckning,
+uppsamling, impaktering, överpumpning, kylning och
 nedtvättning.
-\-  att vara en nationell resurs för keminsatser vid olyckor med
+
+\- att vara en nationell resurs för keminsatser vid olyckor med
 farliga ämnen med avancerad utrustning och specialutbildad
 personal. De kan bland annat pumpa och samla upp kemikalier,
 impaktera giftiga kondenserade gaser, täta läckage, indikera
-Farliga ämnen, kemenhet
 gaser och vätskor.
 Förmågan regleras genom avtal mellan RSG och MSB.
-\-  att vara en nationell resurs vid olyckor med farliga ämnen,
+\- att vara en nationell resurs vid olyckor med farliga ämnen,
 genom att kunna identifiera ett okänt ämne.
-Avancerad Indikering
+
 Förmågan regleras genom avtal mellan RSG och MSB
-\-  att vara en nationell resurs för sanering av flera kontaminerade
+
+\- att vara en nationell resurs för sanering av flera kontaminerade
 personer vid olyckor med farliga ämnen.
-Sanering
 Förmågan regleras genom avtal mellan RSG och MSB
-\-  att möjliggöra kylning med vatten och släckförmåga med skum
-Förstärkt resurs för brand i för större bränder i brandfarlig vätska med hjälp av skumbilar,
-brandfarlig vätska     storpump, slang och armaturer.
-\-  att självständigt eller med hjälp av andra SMC-enheter släcka
+
+\- att möjliggöra kylning med vatten och släckförmåga med skum
+för större bränder i brandfarlig vätska med hjälp av skumbilar,
+storpump, slang och armaturer.
+\- att självständigt eller med hjälp av andra SMC-enheter släcka
 större bränder i oljedepåer.
-Storskalig oljebrandsläckning (SMC)
+
 Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen
 (SMC).
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
+\- att med hjälp av liten fjärrstyrd flygfarkost samla information för
+genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 
 59 (70)
@@ -20517,51 +20787,66 @@ statlig räddningstjänst till havs.
 Group)
 Förmågan regleras genom avtal mellan RSG och Sjöfartsverket samt
 Kustbevakningen.
+
 8.2.5 Naturolycka
+
 Samtliga heltids- och RiB-styrkor kan spärra av och säkra olycksplatsen samt utföra räddning
 av enstaka personer. För mer komplicerade räddningsinsatser vid naturolyckor krävs
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 15)
 
 Tabell 15. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid naturolyckor.
-Område              Förmåga och nyckeluppgifter som omfattas av
 
-\-  att genomföra räddningsinsatser vid naturolyckor där tunga
-fordon är inblandade såsom lastbilar, bussar och tåg,
+Område
+
 Resurs för ras och tung räddning
-\-  att genomföra räddningsinsatser vid byggnadskollapser vid
 (RTR)
+
+Terrängtransport
+
+Nationell förstärkningsresurs för
+urban sök- och räddning (NUSAR)
+
+UAS - Unmanned Aerial System
+
+Förmåga och nyckeluppgifter som omfattas av
+
+\- att genomföra räddningsinsatser vid naturolyckor där tunga
+fordon är inblandade såsom lastbilar, bussar och tåg,
+\- att genomföra räddningsinsatser vid byggnadskollapser vid
 naturolyckor genom stabiliserande åtgärder och att söka efter
 personer vid dessa händelser
-\-  att genomföra transport av materiel eller personal i väglös
-Terrängtransport       terräng eller på väg med begränsad framkomlighet med MC,
+\- att genomföra transport av materiel eller personal i väglös
+terräng eller på väg med begränsad framkomlighet med MC,
 bandvagn eller annat terrängfordon.
-\-  att vara en nationell sök- och räddningsresurs för att söka efter
+\- att vara en nationell sök- och räddningsresurs för att söka efter
 och rädda människor vid stora komplexa räddningsinsatser med
 kollapsade byggnadskonstruktioner, orsakade av till exempel
-Nationell förstärkningsresurs för
 naturkatastrofer, olyckor, terrordåd eller krig.
-urban sök- och räddning (NUSAR)
 Förmågan regleras genom avtal mellan RSG och MSB
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
+\- att med hjälp av liten fjärrstyrd flygfarkost samla information för
+genomförande av räddningsinsatsen i form av bild och film från
 ovan.
+
 8.2.6 Drunkning
+
 Samtliga heltids- och RiB-styrkor kan utföra en första insats vid drunkningsolyckor. För mer
 komplicerade räddningsinsatser med behov av vattendykare, större båt etc. krävs
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 16)
+
 Tabell 16. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid drunkning.
 Område              Förmåga och nyckeluppgifter som omfattas av
 
-\-  att rädda enstaka personer i ytläge eller på grunt vatten,
+\- att rädda enstaka personer i ytläge eller på grunt vatten,
 Vattenlivräddning
-\-  att rädda enstaka personer ur isvak.
-\-  att med hjälp av båt med olika storlek bedriva räddningsinsats på
+\- att rädda enstaka personer ur isvak.
+\- att med hjälp av båt med olika storlek bedriva räddningsinsats på
 och invid hav, sjöar och vattendrag. Båtarnas
 användningsområde kan sammanfattas till följande:
 Räddningsbåt
-\-  Livräddning vid hot om hopp från bro.
-\-  Resursuppbyggnad (personal och material) till Göteborgs södra
+\- Livräddning vid hot om hopp från bro.
+\- Resursuppbyggnad (personal och material) till Göteborgs södra
 skärgård vid större händelse.
+
 60 (70)
 
 <!-- sida 507 -->
@@ -22862,20 +23147,21 @@ Lokaliseringsutredning ny skola i Åsa                  Sida 6 av 17
 
 1\. Kläppa 2:2
 
-  Ny detaljplan krävs
-Ca 200 m
-  Utbyggnadsområde i FÖP, stöder intentionen att
+ Ny detaljplan krävs
+ Utbyggnadsområde i FÖP, stöder intentionen att
+
 bygga ihop Åsa centrum och stationen
-  Avstånd till grishållning är acceptabelt
-  Det finns ingen känd markförorening i området
-  Avstånd till centrum: 1,5 km
-  Avstånd till stationen: 200 m
-Ca 400 m
+ Avstånd till grishållning är acceptabelt
+ Det finns ingen känd markförorening i området
+ Avstånd till centrum: 1,5 km
+ Avstånd till stationen: 200 m
+
 Tidplan
 Befintliga
 byggnader
 behöver rivas
 och
+
 verksamheten
 flyttas
 
@@ -22884,17 +23170,26 @@ Resonemang
 Platsen har en intressant placering nära stationen och en ny skola i detta läge skulle bidra till att skapa en stark
 kärna i Åsas vidare utveckling. Läget är gynnsamt ut pendlingssynpunkt och kommunen äger marken. Delar av
 fastigheten används till boende för nyanlända, och delar används till förråd och verkstad. Fastigheten är stor och
-
 boendet bör kunna finnas kvar på platsen även om skolan lokaliseras här. Övrig användning bör kunna
 omlokaliseras. Ur samhällsbyggnadsperspektiv skulle lokaliseringen av en skola i detta läge ge ett starkt
 signalvärde om att det är här vi vill att utvecklingen ska ske. I ett inledande skede kan platsen upplevas som lite
 avsides från Åsas centrala delar men i framtiden kan skolan utgöra kärnan i den framtida utvecklingen. Mest
 fördelaktigt skulle det vara att ta ett helhetsgrepp om hela området runt stationen för att inte låsa mark på ett sätt
-som kan försvåra vidare utveckling av området och för att ge skolan ett sammanhang. Närheten till Hamragård Utbyggnadsområden i FÖP (Röda ytor samt ytor med röd ram)
+som kan försvåra vidare utveckling av området och för att ge skolan ett sammanhang. Närheten till Hamragård
+
 medför en stor osäkerhet om när stationsområdet kan fortsätta byggas ut med bostäder och annan service.
+
+Lokaliseringsutredning ny skola i Åsa
+
+Ca 200 m
+
+Ca 400 m
+
+Utbyggnadsområden i FÖP (Röda ytor samt ytor med röd ram)
 tillsammans med riskområden kopplade till järnväg (80 meter
 samt 150 meter) och grishållning (300 meter)
-Lokaliseringsutredning ny skola i Åsa                  Sida 7 av 17
+
+Sida 7 av 17
 
 [Tabell 573-1](handlingar.tabeller/573-1.csv)
 

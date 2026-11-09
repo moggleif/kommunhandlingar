@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec472eb82/1712558504
 sha256: 5bc8bfa19bf8515c5969d0c7281c5109bc4060a7177f91b087ad733774694a85
 bytes: 186291405
 sidor: 278
-hamtad: 2026-10-24T10:50:52+00:00
-konverterad: 2026-10-24T10:55:54+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:20:51+00:00
+konverterad: 2026-11-09T10:27:23+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
@@ -1702,8 +1702,6 @@ Justerare                         Expedierat/bestyrkt
 
 rr
 09
-
-Socialdemokraterna
 
 Motion Kungsbacka 2023-09-05
 
@@ -6129,8 +6127,6 @@ Varla Arendals jaktlag har jakträtten på fastigheten enligt följande: På ski
 årsavtal. Årlig avgift är 1.500 kr. På utskiftet vid Grönabur finns ett skriftligt jaktavtal från
 år 2000 som löper på 5 år i taget. Avtalet överlämnas till kommunen på tillträdesdagen.
 
-Kontaktperson i jakaget '= Jil
-
 Säljaren garanterar att fastigheten fram till tillträdesdagen är försäkrad enligt uppvisat, och
 av köparen, godkänt försäkringsbevis. Se bilaga i köpekontraktet.
 
@@ -6593,7 +6589,6 @@ Objekt Fastigheten Kungsbacka Varla 1:5
 Frågor att besvara om Frågorna i denna frågelista besvaras av säljaren.
 fastigheten
 i
-a AV > IOFA
 1 a. När förvärvades fastigheten? od I b, När är byggnaden uppförd? på -
 
 I ce. Finns erforderliga bygglov?
@@ -6612,8 +6607,6 @@ SEO
 
 2 a. Har ny», till- eller ombyggnad utförts på fastigheten, och i så fall, när?
 
-SLej
-
 2 b, Har Ni själv utfört eller låtit utföra förbättringar och/eller reparationer på fastigheren, och i så fall när? oo a
 ytt badrum nytt Ko Samt octe tsk
 
@@ -6623,11 +6616,8 @@ kflencyYer ugy AM BO YCCV LU Ad ej ALIO
 3, Har ni observerat ellör haft anledning att misstänka brister eller fel i dränering och fuktisolering eller fuktgenomslag,
 fuktskador, rötangrepp eller liknande i källarvåningen, i byggnadens ytter- eller innertak eller i andra delar av byggnaden?
 
-Nr YViost fult genomslag 1 bla Iällar hallen
-
 4 a. Har ni observerat eller haft anledning att misstänka brister eller fel i det invändiga eller det utvändiga el-, vatten- eller
 avloppssystemet? När? N :
-El
 
 4 b. Om avloppet på fastigheten är enskilt - har tillstånd beviljats av kommunen och i så fall när?
 
@@ -6647,7 +6637,6 @@ Antal personer i hushållet —
 
 mm? 2
 N IT
-T Vv i
 
 3021.1105814 Copyright & Mäklarsamfundet. Elterinyck förbjudes.
 
@@ -7000,12 +6989,8 @@ föreslagen gym har en relativt begränsad omfattning inom plan ett av byggnaden
 att användningen är förenlig med den övriga verksamheten på fastigheten samt med
 
 Expedierat/bestyrkt
-10-20-4202
-–
-52
-\$
-UANB
-–
+
+– BNAU \$ 25 – 2024-02-01
 
 <!-- sida 168 -->
 
@@ -7901,7 +7886,6 @@ Granskningshandling - Vägutrustningsplan
 <!-- sida 187 -->
 
 FÅ D
-ÅR
 Äl
 
 ANSLUTS TILL BEF TB
@@ -8116,15 +8100,7 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 194 -->
 
-30-11-2202
-
-–
-894
-§
-UANB
-
-–
-volggyB
+Bygglov – BNAU § 498 – 2022-11-03
 
 <!-- sida 195 -->
 

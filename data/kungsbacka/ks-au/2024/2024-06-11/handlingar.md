@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.3e23932418fe7cfbe7d6388/17179546418
 sha256: 98ab1c6ae726d4305d9cb6bb4473a78213343b5d4c8c47c25fb4d510abcb70d0
 bytes: 86338874
 sidor: 231
-hamtad: 2026-10-25T06:18:59+00:00
-konverterad: 2026-10-25T06:22:06+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:37:44+00:00
+konverterad: 2026-11-09T10:41:14+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 50, 51, 209, 210, 219, 220, 221, 222, 223, 224, 225, 226]
 figurer: [29, 31, 37, 57, 58, 80, 91, 100, 127, 129, 130, 132, 133, 135, 136, 137, 138, 141, 142, 143, 149, 158, 159, 167, 168, 172, 174, 184, 186, 187, 188, 198, 199, 210, 219, 220, 221, 222, 223, 224, 225, 226]
 tolkade: []
@@ -606,8 +606,6 @@ Kommundirektör                     Biträdande kommundirektör
 
 <!-- sida 19 -->
 
-KUNGSBACK
-
 13\)
 
 A KOMMUN
@@ -828,9 +826,6 @@ Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet 
 uppgifterna. Min bedömning är att redovisningen ger en rättvisande bild av hur partistödet använts.
 
 Namnförtydligande z
-SVAN Ve ey
-
-CV |
 
 i” oo
 
@@ -1096,7 +1091,6 @@ marknadsaktiviteter.
 Datum
 
 Ort 2 >
-2RYPGA2 HOKTL-EIR-RA
 
 Sverigedemokraterna i Kungsbacka
 Adress: Gottskärsvägen 48
@@ -1163,11 +1157,13 @@ Granskares anteckningar
 Överföring till Motprestation Kronor
 KD partidistrikt Halland + Gemensamma tjänster 94 300
 \+
+
 Summa överföringar = 94 300
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
-(|
+
 Telefon
+
 Datum
 
 Granskningsrapport
@@ -1196,6 +1192,59 @@ Underskrift Telefon
 Namnförtydligande Datum
 
 <!-- sida 31 -->
+
+12\)
+
+Kungsbacka
+Redovisning av kommunalt partistöd År 2023
+Partiuppgifter
+Parti Organisationsnummer Kontonummer
+Liberalerna Kungsbacka = 802474-7383
+Utdelningsadress | E-postadress |
+Postnummer Postort Telefonnummer
+JIA
+Kn
+A Sammanställning 2 Kronor 'Granskares anteckningar
+Kvarstående partistöd från föregående period (år) 0
+Beviljat partistöd för perioden + 230000 |
+Utgifter under perioden (summa B + C) - 130584, 60
+Kvarstående partistöd inför kommande period (summa) - 93415,40
+
+Kronor Granskares anteckningar
+
+B Redovisning av hur partistödet använts (aktiviteter
+
+Aktivitet
+26459,86
+| Kommunikation — webb 7
+0
+Kommunikation — annonsering
+8800
+Kommunikation — trycksaker "
+10281,74
+| Kommunikation — övrigt | ERA
+(0
+Löner och ersättningar till anställd personal
+0
+FSS OVE RENEE ov na
+Deltagande i utbildningar, konferenser m.m.
+24759
+RR En E BEE ae SFSR 2 BESKA 0 a EVA ISKAR Ev se SKOR VINGEN
+Lokalkostnader
+2700
+\|
+Material (t.ex. IT, kontorsmaterial) CR
+;
+38534
+Summa utgifter för aktiviteter under perioden = 90584,6
+
+Internal
+
+Övrigt, vänligen specificera
+Bank o externt 2050
+———— LL  m— LL se
+
+TE ER ="
 
 <!-- sida 32 -->
 
@@ -1319,15 +1368,18 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
+
 Centerpartiet hallands distrikt — |+ Administration 107 391
 \+
 
 Summa överföringar = 107 391
+
 Underskrift
+
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
+
 Namnförtydligande Datum VA
 
--—- . (ES / 7 z
 Bengt Alderin /
 
 Granskhingsrapport
@@ -1354,7 +1406,121 @@ Namnförtydligande Datum
 
 <!-- sida 35 -->
 
+Kungsbacka
+
+15\)
+Kommunstyrelsens förvaltning
+
+2024 -02- 28
+
+NW Norin VBR Ir daaim tinansnsstlÅ a
+
+Redovisning av kommunalt partistöd År 2023
+
+Partiuppgifter
+Parti 63 / ) Jö I ) Organisationsnummer Kontonummer
+
+/
+
+Hook / i "MLS A
+
+£
+
+A Sammanställning
+
+Kronor Granskares anteckningar
+
+Kvarstående partistöd från föregående period (år)
+
+24029
+
+Beviljat partistöd för perioden
+
+Utgifter under perioden (summa B + C)
+
+(2802
+
+Kvarstående partistöd inför kommande period (summa)
+
+"20 7N3
+
+B Redovisning av hur partistödet använts (aktiviteter) Kronor Granskares anteckningar
+
+Aktivitet
+
+(1251
+
+Kommunikation — webb
+
+Kommunikation — annonsering
+
+Kommunikation — trycksaker
+
+Kommunikation — övrigt
+
+Löner och ersättningar till anställd personal
+
+Deltågande i utbildningar, konferenser m.m.
+
+Lokalkostnader
+
+Material (t.ex. IT, kontorsmaterial)
+
+Övrigt, vänligen specificera , 2 -
+B Aa ff Kelpg AC 27
+
+Summa utgifter för aktiviteter under perioden
+
 <!-- sida 36 -->
+
+C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
+
+Granskares anteckningar
+
+Överföring till sil GÅ Motprestation CI/JaAn iso öv ti] Kronor
+Vr ) 6 / dd” 7 Ce i ff UlIO lUngd nIfioh / K-he ok / L
+7 J
+J ; 5 SJ fe del Jå hu di
+4 ij y = oj Å AV AS cl dv emAaxä 5) bh
+7 ;
+Kungih tf | del äv
+CN CA win s ke jifA 4 4
+Summa överföringar = Lå LO
+
+Underskrift
+
+Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
+
+TI
+
+Datum
+T'I nr A j 9 —
+Få 2 7-0 Va - Å J
+
+Granskningsrapport
+
+Alternativ 1 (använd antingen alternativ 1 eller 2)
+
+Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet har använts och att det finns underlag som styrker
+uppgifterna. Min bedömning är att redovisningen ger en rättvisande bild av hur partistödet använts.
+
+mo ooo
+
+Datum
+
+a
+
+Granskningsrapport
+Alternativ 2 (använd antingen alternativ 1 eller 2)
+
+Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet har använts och att det finns underlag som styrker
+uppgifterna. Min bedömning är att redovisningen inte ger en rättvisande bild av hur partistödet använts.
+
+Jag har gjort följande noteringar avseende redovisningen:
+
+Underskrift Telefon
+
+Namnförtydligande Datum
 
 <!-- sida 37 -->
 
@@ -1974,8 +2140,6 @@ Förvaltningschef                   Personalchef
 
 <!-- sida 50 -->
 
-KUB1001, v2.0, 2013-02-26
-
 FÖRHANDLINGSPROTOKOLL
 
 FÖRHANDLINGSPROTOKOLL
@@ -2026,6 +2190,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 51 -->
 

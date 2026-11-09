@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.3ae5986a198e623c951e2afd/1756734208
 sha256: df98a1d61f026279d7863770ab0a763e59cb3627c77a9ba14dcc7bcd82cf6564
 bytes: 139660412
 sidor: 368
-hamtad: 2026-10-25T07:55:46+00:00
-konverterad: 2026-10-25T08:11:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:30:10+00:00
+konverterad: 2026-11-09T12:46:07+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
 tal_obekraftade: [7, 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 62, 63, 64, 65, 66, 69, 70, 78, 79, 81, 82, 83, 84, 85, 86, 87, 92, 94, 95, 96, 97, 98, 107, 108, 109, 117, 121, 144, 162, 163, 164, 179, 226, 227, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 293, 298, 307, 308, 322, 332, 334, 335, 346, 347, 348, 349, 350, 351, 352, 353, 359, 360, 361, 362, 363, 364, 365, 366, 367]
 figurer: [12, 13, 15, 16, 17, 18, 19, 27, 34, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 54, 56, 57, 81, 82, 84, 85, 86, 87, 109, 110, 113, 114, 117, 118, 119, 120, 125, 126, 127, 128, 130, 132, 133, 135, 136, 137, 141, 142, 162, 163, 198, 201, 207, 212, 220, 223, 227, 253, 254, 256, 257, 258, 259, 260, 262, 263, 264, 266, 267, 268, 269, 272, 273, 274, 276, 277, 279, 280, 281, 307, 308, 329, 330, 331, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 367, 368]
 tolkade: []
@@ -1407,788 +1407,589 @@ arenabyggnaden
 <!-- sida 37 -->
 
 5202 nossnåM & nérmeS ©
-anerA
-akcabsgnuK
-RENOITARTSULLI
-HCO
-RAGNIRESILAUSIV
-\-
-1
-AGALIB
-41-40-5202
-es.nossnam-nermes
-\|
-es.nossnam-nermes@ofni
+
+Kungsbacka Arena
+
+BILAGA 1 - VISUALISERINGAR OCH ILLUSTRATIONER
+
+2025-04-14
+
+(e-post borttagen) | semren-mansson.se
 
 <!-- sida 38 -->
 
-renoitartsullidasaF
-låts
-taknizröfmraV
-ednapakssrätkaraK
-tålP
-tålP
-gninsyleb
-akil
-röluk
-
-,rovikstnemecrebiF
-.nedanggybanera
-i gnoteb
-ANOOORK
-EEEEEEERRRRRRRTTTTTTTNNNNNNNEEEEEEE
-GGGGGGGNNNNNNNNNNNAAAAAARRRRRRRUUUUUUUUAAAAAAAATTTTTTTSSSSSSEEEEERRRRRRRRR
-ÉRTNEDUVUH
-\-
-RRON
-TOM
-DASAF
-]3A[
-004:1
-ALAKS
-tålp
-darerofrep
-,dareliforP
-gnoteB
-i
-gninåvértnE
-leget
-ESUOH
-FO
-KCAB
-\-
-TSÖ
-TOM
-DASAF
-]3A[
-004:1
-ALAKS
 5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1
-agaliB
-\- anerA
-akcabsgnuK
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Fasadillustrationer
+
+Karaktärsskapande
+
+Varmförzinkat stål
+
+belysning
+
+Plåt
+
+Plåt
+
+Fibercementskivor, kulör lika
+
+betong i arenabyggnaden.
+
+KROOONA
+
+EEEEEEENNNNNNNTTTTTTTRRRRRRREEEEEEE
+
+RRRRRRRRREEEEESSSSSSTTTTTTTAAAAAAAAUUUUUUUURRRRRRRAAAAAANNNNNNNNNNNGGGGGGG
+
+FASAD MOT NORR - HUVUDENTRÉ
+
+SKALA 1:400 [A3]
+
+Entrévåning i Betong
+
+Profilerad, perforerad plåt
+
+tegel
+
+FASAD MOT ÖST - BACK OF HOUSE
+
+SKALA 1:400 [A3]
+
 2
 
 <!-- sida 39 -->
 
-ÉRTNEDUVUH
-
-SNANERA
-
-TOM
-\-
-RRON
-NÅRF
-
-YV
-
 5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1
-agaliB
-\-
-anerA
-akcabsgnuK
-luoS
-:dliB
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+VY FRÅN NORR - MOT ARENANS HUVUDENTRÉ
+
+Bild: Soul
+
 3
 
 <!-- sida 40 -->
 
-renoitartsullidasaF
-röfmarf
-ekcärsalG
-tmas
-restalpslotsllur
-.aidem
-ednavirks
-aksnim
-nak
-noitairavröluk
-ssiv
-i ralotsratkäL
-TSÄV
-TOM
-DASAF
-rardib
-hco
-,netyb
-hco
-egatils
-va netehgilnys
-]3A[
-004:1
-ALAKS
-.kilbup
-selg
-div
-nevä
-tehleh
-llufvil
-ne
-llit
-GGNNIIRREEVVRREESS
-ERATKÄL
-,REDÖS
-TOM
-DASAF
-]3A[
-004:1
-ALAKS
 5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1
-agaliB
-\-
-anerA
-akcabsgnuK
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Fasadillustrationer
+
+Glasräcke framför
+
+rullstolsplatser samt
+
+skrivande media.
+
+FASAD MOT VÄST
+
+Läktarstolar i viss kulörvariation kan minska
+
+SKALA 1:400 [A3]
+
+synligheten av slitage och byten, och bidrar
+
+till en livfull helhet även vid gles publik.
+
+SSEERRVVEERRIINNGG
+
+FASAD MOT SÖDER, LÄKTARE
+
+SKALA 1:400 [A3]
+
 4
 
 <!-- sida 41 -->
 
-GILTKISREVÖ
-
-,NALPSNOITAUTIS
-]3A[
-0001:1
-ALAKS
-
-esuoh
-fo
-kcaB
-
-noitatstäN/suhöjliM
-
-nalpanerA
-
-eratkälsllobtoF
-
-aneraitluM
-
 5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1
-agaliB
-\-
-anerA
-akcabsgnuK
-nalpsnoitautiS
-AKCABSGNUK
-RETAET
-/PIV
-\-
-ÉRTNE
-ÉRTNEDUVUH
-GNARUATSER
-H A C N O E R K A Ö / K E R S O U T O S H R F E O É K R C TN AB
-E
-LLAHMIS
-LLAHSI
-MURSDDYKS
-ÉRTNE
-DÅRRÖF
-HCO
-GNIRETNEIRO
-ESUOH
-FO KCAB/NECS ÉRTNE
-TTORDITILE/TSITRA
-ÉRTNE
-MYG
-ÉRTNE
-/TFIRD/AIDEM
-ÉRTNE
-/TLLEISREMMOK
-DARETALEROSLÄH
-ÉRTNE
-LANOSREP
-TEHMASKREV
-ÉRTNE
-RÄDNUKES
-LENNUTRALEPS
-/LLAHTROPS/LKMO /LLOBTOF .NÅVSTEHMASKREV
-AREMAK
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Situationsplan
+
+KUNGSBACKA
+
+TEATER
+
+HUVUDENTRÉ
+
+ENTRÉ - VIP/
+
+RESTAURANG
+
+SIMHALL
+
+ENTRÉER STORKÖK OCH
+
+BACK OF HOUSE/ARENA
+
+ISHALL
+
+ENTRÉ SKYDDSRUM
+
+OCH FÖRRÅD
+
+ORIENTERING
+
+ENTRÉ SCEN/BACK OF HOUSE
+
+ENTRÉ ARTIST/ELITIDROTT
+
+ENTRÉ GYM
+
+ENTRÉ MEDIA/DRIFT/
+
+ENTRÉ HÄLSORELATERAD
+
+KOMMERSIELLT/
+
+VERKSAMHET
+
+PERSONAL
+
+SEKUNDÄR ENTRÉ
+
+SPELARTUNNEL
+
+OMKL/SPORTHALL/
+
+FOTBOLL/
+
+VERKSAMHETSVÅN.
+
+KAMERA
+
+SITUATIONSPLAN, ÖVERSIKTLIG
+
+SKALA 1:1000 [A3]
+
+Multiarena
+
+Fotbollsläktare
+
+Arenaplan
+
+Miljöhus/Nätstation
+
+Back of house
+
 5
 
 <!-- sida 42 -->
 
-éjaoF
-
 5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1 agaliB
-\- anerA
-akcabsgnuK
-tmas
-ednanmokläv
-hco
-danobmo
-,emräv
-mos
-drodel
-i pmatsva
-rat negnintlatseG
-\-
-dit
-revö
-allåh
-tta
-röf
-atsubor
-rä
-nelairetaM
-.drävsennim
-hco
-ednapaksstetitnedi
-.tgissämegatils
-hco
--eslevelppu
-.lairetam
-ednammokretå
-moneg
-rakrevmas
-adisni
-hco
-adistU
-hco
-ranmokläv
-nenoitpeceR
-satmäh
-noitaripsni
-hco
-,kimanyd
-hco
-eslerör
-åp
-tamet
-ednapirgrevö
-ted reggyb
-eradiV
-nårf
-tgildyt
-gis
-raresnonna
-räd
-rutkurts
-aksinagro
-sanrerbifleksum
-nårf
-nevä
-hco
-,akil
-rä
-alla
-iv
-tta
-nårf ,neppork
-nårf
-llåh
-arelf
-.tetilibixelf
-hco
-akryts
-edåb
-apaks
-snammasllit
-tta
-röf
-ragnintkir
-akilo
-i gis
-rör
-anrerbif
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Foajé
+
+Gestaltningen tar avstamp i ledord som värme, ombonad och välkomnande samt
+
+identitetsskapande och minnesvärd. Materialen är robusta för att hålla över tid -
+
+upplevelse- och slitagemässigt.
+
+Utsida och insida samverkar genom återkommande material.
+
+Vidare bygger det övergripande temat på rörelse och dynamik, och inspiration hämtas
+
+Receptionen välkomnar och
+
+från kroppen, från att vi alla är lika, och även från muskelfibrernas organiska struktur där
+
+annonserar sig tydligt från
+
+fibrerna rör sig i olika riktningar för att tillsammans skapa både styrka och flexibilitet.
+
+flera håll
+
 6
 
 <!-- sida 43 -->
 
-gninåvstehmaskrev/noitpeceR
-tegalkläjb
-
-ranmafmo
-
-tekcäR
-
-tsnok
-röf
-stalP
-srav
-,tekatrednu
-retöm
-hco
-rellåheb
-retsnöm
-hco
-snerapsnart
-murknäL
-mos
-tgiditmas
-netehneppö
-danobmo
-ne
-röf
-tesujl
-ralis
-ted
-.alsnäk
-ednapakssrätkaraK hco
-noitpecer
-éjaoF
-ggäv
-edanggilmokab
-ggäv
-dalåM
-lenapärT
 5202 nossnåM & nérmeS ©
-41-40-5202
-\- 1 agaliB
-\- anerA
-akcabsgnuK
-éjaoF
-ninazzem
-hco
-murknäL
-ne
-snammasllit
-radlib
-neninazzem
-hco
-temmurknäl
-,néjaoF
-retknuplåm
-akilo
-dem
-eraköseb
-räd
-tehgilsmur
-ednagnähnammas
-anraköseb
-röf
-hco
-tknuptunk
-ne
-mos
-raregnuf
-temmurknäL
-.stöm
-negninåvstehmaskrev
-,neratkälsllobtof
-,B llaH
-hco
-A
-llaH
-llit
-eradiv
-ppu
-néjaof
-nårf
-gis
-rör
-nam
-räN
-.nanera
-va
-raled
-agirvö
-hco
-erasujl
-togån
-i nettelap
-rågrevö
-temmurknäl
-llit
-nappart
-röf
-hco
-tetilairetaM
-.netehrabretneiro
-rekrätsröf
-nevä
-tekliv
-,renot
-.dem
-rejlöf
-reröluktnecca
-mos
-tnemele
-edneågmoneg
-mos
-remmokretå
-tekcäR
-.nemmur
-ednavignot
-ed
-i tegalkläjb
-ranmafmo
-va
-alsnäk
-ne
-llit rardib
-rätkarak
-agiltkismoneg
-sseD
-.tehggyrt
-hco
-tehneppö
-i
-edneågmoneg
-rä
-röluk
-sreitraprröD
-nedanggyb
-NINAZZEM
-SNEGNINÅÅVSTEHMASKREV
-HCO
-MURKNÄÄL
-]3A[
-004:1
-NOITAVELEPICNIRP
-A
-LLAH
-10
-HCO
-MURKNÄL
-,ÉJAOF
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Foajé
+
+Länkrum och mezzanin
+
+Foajén, länkrummet och mezzaninen bildar tillsammans en
+
+sammanhängande rumslighet där besökare med olika målpunkter
+
+möts. Länkrummet fungerar som en knutpunkt och för besökarna
+
+vidare till Hall A och Hall B, fotbollsläktaren, verksamhetsvåningen
+
+och övriga delar av arenan. När man rör sig från foajén upp
+
+för trappan till länkrummet övergår paletten i något ljusare
+
+toner, vilket även förstärker orienterbarheten. Materialitet och
+
+accentkulörer följer med.
+
+Räcket oåtmefrakomnmarm ebrj äsloklma ggeet ni odem tgoånegnidvea neldee rmuenmt smoen.m
+
+Dess genomsiktliga karaktär bidrar till en känsla av
+
+öppenhet och trygghet.
+
+Dörrpartiers kulör är genomgående i
+
+byggnaden
+
+LÄÄNKRUM OCH VERKSAMHETSVÅÅNINGENS MEZZANIN
+
+PRINCIPELEVATION 1:400 [A3]
+
+Reception/verksamhetsvåning
+
+Plats för konst
+
+Räcket omfamnar bjälklaget
+
+HALL0 A1
+
+och möter undertaket, vars
+
+Länkrum
+
+transparens och mönster behåller
+
+öppenheten samtidigt som
+
+det silar ljuset för en ombonad
+
+känsla.
+
+Karaktärsskapande
+
+reception och
+
+Foajé
+
+bakomliggnade vägg
+
+FOAJÉ, LÄNKRUM OCH
+
+VERKSAMHETSVÅNINGENS MEZZANIN
+
 7
-NINAZZEM
-SNEGNINÅVSTEHMASKREV
-]3A[
-004:1
-NOITAVELEPICNIRP
+
+PRINCIPELEVATION 1:400 [A3]
+
+Träpanel
+
+Målad vägg
 
 <!-- sida 44 -->
 
 5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1 agaliB
-\- anerA
-akcabsgnuK
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Hall A
+
+\- Ett eget universum
+
+1
+
+Gestaltningen av Hall A grundar sig liksom övriga ytor på flexibilitet,
+
+2\.
+
+robusthet och en minnesvärd upplevelse. Däremot har den ett egen,
+
+1
+
+2
+
 A
-llaH
+
+B.
+
+1\.
+
+mörkare färgskala, inpirerad från närområdet och tanken på lågans
+
+D
+
+B
+
+C.
+
+AAAA.
+
+C
+
+D.
+
+centrum - värmens och händelsernas centrum.
+
 1
-musrevinu
-tege
-ttE
-\-
-.2
-,tetilibixelf
-åp
-roty
-agirvö
-moskil
-gis
-radnurg
-A llaH
-va negnintlatseG
-,nege
-tte
-ned
-rah
-tomeräD
-.eslevelppu
-drävsennim
-ne hco
-tehtsubor
-21
-.1
-.AAAA..BD.CBACD
-snagål
-åp
-neknat
-hco
-tedårmorän
-nårf
-dareripni
-,alaksgräf
-erakröm
-.murtnec
-sanreslednäh
-hco
-snemräv
-\-
-murtnec
-1
+
 3
-nnneeecccsssrrrröööööfffmmmmaaarrrffff
-iiiirrreeeeeppppaaaarrrrDDDD
-luoS
-:dliB
-.NENECS
-TOM
-,NADISTROK
-ARTSÄV
-NÅRF
-YVSSIKS
-.2
-NERATKÄL
-ARDÖS
-NÅRF
-YV
-.1
-8
-tta
-llit
-ratfys
-ragniresilausiV
-.remmokllit
-renoitallatsni
-aksinkeT
-.reröluk
-tmas
-tkiksty
-,lairetam
-marf
-atfyl
+
+DDDDrrrraaaappppeeeeerrriiii ffffrrraaammmmfffööööörrrr sssccceeennn
+
+Bild: Soul
+
+1\. VY FRÅN SÖDRA LÄKTAREN
+
+2\. SKISSVY FRÅN VÄSTRA KORTSIDAN, MOT SCENEN.
+
+Tekniska installationer tillkommer. Visualiseringar syftar till att 8
+
+lyfta fram material, ytskikt samt kulörer.
 
 <!-- sida 45 -->
 
 5202 nossnåM & nérmeS ©
-41-40-5202
-\- 1 agaliB
-\- anerA
-akcabsgnuK
-ÉRTNEDUVUH
-div
-A
-llaH
-i ni
-neraköseb
-sdel
-tenalpértne
-I
-/PIV
-\-
-ÉRTNE
-gnamegnarra/tnevesgateröf
-,tresnok
-.xe.t
-GNARUATSER
-nenalp
-åp
-gninttis
-dem
-ESUOH
-FO
-KCAB
-HCO
-KÖKROTS
-REÉRTNE
-NOITPECER
-KSOIK
-KSOIK
-REÉRTNE HCO
-MURSDDYKS
-DÅRRÖF
-ESUOH
-FO
-KCAB/NECS
-ÉRTNE
-TTORDITILE/TSITRA
-ÉRTNE
-LANOSREP/TLLEISREMMOK/TFIRD/AIDEM
-ÉRTNE
-MYG
-ÉRTNE
-ÉRTNE
-RÄDNUKES
-/LLAHTROPS/LKMO
-DARETALEROSLÄH
-ÉRTNE
-/LLOBTOF
-TEHMASKREV
-.NÅVSTEHMASKREV
-)NALPÉRTNE(
-01
-NALP
-LENNUTRALEPS
-]3A[
-005:1
-ALAKS
-noitakinummok
-lakitreV
-lakolsgnineröF
-/esuoh
-fo
-kcaB
-A
-llaH
-kökrots/gnaruatseR
-myG
-éjaoF
-murlanosrep
-noitatstäN/suhöjliM
-kinkeT
-röf
-stalp/necS
-gnirevres/ksoiK
-/gnindälkmO
-dårröf/mursddykS
-eratkäl
-gilläfllit
-cte
-däts/dårröf
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+HUVUDENTRÉ
+
+I entréplanet leds besökaren in i Hall A vid
+
+t.ex. konsert, företagsevent/arrangemang
+
+ENTRÉ - VIP/
+
+med sittning på planen
+
+RESTAURANG
+
+ENTRÉER STORKÖK OCH BACK OF HOUSE
+
+RECEPTION
+
+KIOSK
+
+KIOSK
+
+ENTRÉER
+
+SKYDDSRUM OCH
+
+FÖRRÅD
+
+ENTRÉ SCEN/BACK OF HOUSE
+
+ENTRÉ ARTIST/ELITIDROTT
+
+ENTRÉ MEDIA/DRIFT/KOMMERSIELLT/PERSONAL
+
+ENTRÉ GYM
+
+ENTRÉ HÄLSORELATERAD
+
+SEKUNDÄR ENTRÉ
+
+VERKSAMHET
+
+OMKL/SPORTHALL/
+
+FOTBOLL/
+
+VERKSAMHETSVÅN.
+
+SPELARTUNNEL
+
+PLAN 10 (ENTRÉPLAN)
+
+SKALA 1:500 [A3]
+
+Foajé
+
+Gym
+
+Restaurang/storkök
+
+Hall A
+
+Back of house/
+
+Föreningslokal
+
+Vertikal kommunikation
+
+personalrum
+
+Skyddsrum/förråd
+
+Omklädning/
+
+Kiosk/servering
+
+Scen/plats för
+
+Teknik
+
+Miljöhus/Nätstation
+
+förråd/städ etc
+
+tillfällig läktare
+
 9
 
 <!-- sida 46 -->
 
-5202 nossnåM & nérmeS ©
-41-40-5202
-\- 1
-agaliB
-\-
-anerA
-akcabsgnuK
-11
-11 22
-3
-.AAA.. .. BB DD..CC
-BBAA CCDD
-11
-3
-1
-RETEM5
-1
-005:1ALAKS
-däts/dårröf/CW/CWR
-murknäL
-B llaH
-01
 REN
 TEPPÖ
-dem
-tresnok
-relle
-hctamtile
-.xe.t
-diV
-neraköseb
-sdel
-,neratkäl
-åp
-gninttis
-gninåv
-anned
-aiv
-A
-llaH
-rån
-hco
-ppu
-GNIREVRES/KSOIK
-GNIREVRES/KSOIK
+
+5202 nossnåM & nérmeS ©
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+Vid t.ex. elitmatch eller konsert med
+
+sittning på läktaren, leds besökaren
+
+upp och når Hall A via denna våning
+
+KIOSK/SERVERING
+
 11
-NALP
-]3A[
-005:1
-ALAKS
-lotsllur
-röf
-stalp
-rarekraM
-kinkeT
-A
-llaH
-gnågratkäL
-noitakinummok
-lakitreV
-röf
-stalP/necS
-gnirevres/ksoiK
-/mur-PIV
-eratkäl
-gilläfllit
-aidem/mursetöm
+
+11
+
+22
+
+AA
+
+BB..
+
+DD
+
+BB
+
+CC..
+
+AAA.
+
+3
+
+CC
+
+DD..
+
+11
+
+KIOSK/SERVERING
+
+3
+
+1
+
+SKALA 1:50 0
+
+1
+
+5 METER
+
+PLAN 11
+
+SKALA 1:500 [A3]
+
+Länkrum
+
+RWC/WC/förråd/städ
+
+Läktargång
+
+Hall A
+
+Teknik
+
+Markerar plats för rullstol
+
+Hall B
+
+VIP-rum/
+
+Kiosk/servering
+
+Scen/Plats för
+
+Vertikal kommunikation
+
+mötesrum/media
+
+tillfällig läktare
+
+10
 
 <!-- sida 47 -->
 
-5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1
-agaliB
-\-
-anerA
-akcabsgnuK
-gnikrow-oc/tehmaskreV
-murppaK/däts/CWR/CW
-tehmaskreV/noitpeceR
-11
 ÖPPET NER
 ÖPPET
 NER
-N O ITPECER
-röf
-nenoitpecer
-va
-neraköseb
-stöm
-21
-nalp
-åP
-.anrotystehmaskrev
-i ni
-eradiv
-sadel
-tta
-.nértne
-artsävdys
-aiv
-tenalp
-sån
-tneve
-erröts
-diV
-21
-NALP
-]3A[
-005:1
-ALAKS
-.d.o
-aremak/murllortnok/rotatnemmoK
-noitakinummok
-lakitreV
-kinkeT
+
+N
+O
+ITPECER
+
+5202 nossnåM & nérmeS ©
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+På plan 12 möts besökaren av receptionen för
+
+att ledas vidare in i verksamhetsytorna.
+
+Vid större event nås planet via sydvästra entrén.
+
+PLAN 12
+
+SKALA 1:500 [A3]
+
+Verksamhet/co-working
+
+Vertikal kommunikation
+
+Kommentator/kontrollrum/kamera o.d.
+
+Reception/Verksamhet
+
+WC/RWC/städ/Kapprum
+
+Teknik
+
+11
 
 <!-- sida 48 -->
 
 5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1
-agaliB
-\-
-anerA
-akcabsgnuK
-KINKET
--31
-NALP
-]3A[
-005:1
-ALAKS
-murkinkeT
-21
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+PLAN 13- TEKNIK
+
+SKALA 1:500 [A3]
+
+Teknikrum
+
+12
 
 <!-- sida 49 -->
 
-5202 nossnåM & nérmeS ©
-41-40-5202
-\-
-1
-agaliB
-\-
-anerA
-akcabsgnuK
-31
-5202 nossnåM & nérmeS ©
-31
-luoS
-:dliB
+55220022 nnoossssnnååMM && nnéérrmmeeSS ©©
+
+Kungsbacka Arena - Bilaga 1 - 2025-04-14
+
+1133
+
+Bild: Soul
 
 <!-- sida 50 -->
 
@@ -2422,7 +2223,6 @@ Dokument Sidnr
 General Teknisk beskrivning (6)
 
 SKANSKA UTP
-i få
 
 a Projektnamn Projektnr
 5 LJ
@@ -5657,8 +5457,8 @@ KollaParkstad
 
 Orienteringskartamedplanområdetmarkeratmedgulfigur.
 8 Planbeskrivning
-Södra
-infarten
+
+Södra in farten
 
 <!-- sida 118 -->
 
@@ -12016,8068 +11816,3285 @@ Förbundsdirektör          Ekonomichef
 
 <!-- sida 253 -->
 
-igetartssgnilkcevtu
+Regional utvecklingsstrategi
 
-lanoigeR
-0302–1202
-dnalatöG
-artsäV
+för Västra Götaland 2021–2030
 
-röf
-5202
-igetarts
-daresilautkA
-noisrevssimeR
+Remissversion Aktualiserad strategi 2025
+
 1
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+
+REGIONAL UTVECKLINGSSTRATEGI
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 254 -->
 
-noisrevssimer
+Förord remissversion
 
-droröF
-marf
-statebra
-rah
-IGETARTS
-DARESILAUTKA
-ÅP GALSRÖF
-,dnubröflanummok
-,renummok
-dem
-golaid derb
-i
-neslerytssnäl
-,imedaka
-,tellähmas
-alivic
-ted ,vilsgnirän
-moni
-tnretni
-tmas
-,arefl dem
-retehgidnym
-ardna
-hco
-ragnintlavröf
-,rednmän
-snenoigersdnalatöG
-artsäV
-,sylanasdlrävmo
-åp nevä saresab
-tegalsröF
-.galob
-hco
-va gniredrävtu
-,tenäl i negnilkcevtu
-va gninjlöfppu
-nårf
-ramodräl
-ardna hco
-ragnilmastfark
-snigetarts .tednaröfmoneg
-nigetarts
-i strojg
-mos
-nednagildytröf
-hco
-ragnirdnä
-eD
-nagalib
-I
-.nenoisrevssimer
-llit
-agalib
-ne
-i sattafnammas
-tmas
-nenysrevö
-röf
-gninsnärgva
-hco
-etfys
-nevä svirkseb
-etu
-rä tegalsröF
-.ssecorpgolaid
-ne
-i sröfmoneg
-ned
-ruh
-marf
-res
-iv
-hco
-5202
-rebmetpes
-51–lirpa
-41 ssimer
-åp
-.ravssimer
-are va
-led at tta tome
-,rötkeridsgnilkcevtunoigeR
-,nossliN
-grebdnuL
-aneleH
-5202
-lirpa ,nenoigersdnalatöG
-artsäV
+FÖRSLAG PÅ AKTUALISERAD STRATEGI har arbetats fram
+
+i bred dialog med kommuner, kommunalförbund,
+
+näringsliv, det civila samhället, akademi, länsstyrelsen
+
+och andra myndigheter med flera, samt internt inom
+
+Västra Götalandsregionens nämnder, förvaltningar
+
+och bolag. Förslaget baseras även på omvärldsanalys,
+
+uppföljning av utvecklingen i länet, utvärdering av
+
+strategins kraftsamlingar och andra lärdomar från
+
+genomförandet.
+
+De ändringar och förtydliganden som gjorts i strategin
+
+sammanfattas i en bilaga till remissversionen. I bilagan
+
+beskrivs även syfte och avgränsning för översynen samt
+
+hur den genomförs i en dialogprocess. Förslaget är ute
+
+på remiss 14 april–15 september 2025 och vi ser fram
+
+emot att ta del av era remissvar.
+
+Helena Lundberg Nilsson, Regionutvecklingsdirektör,
+
+Västra Götalandsregionen, april 2025
 
 <!-- sida 255 -->
 
-LLÅHENNI
-llåhennI
-61..........................................................................................................iv
-ralmastfark
-snammaslliT
-4................................................................................................................
-mo
-iv
-relläts
-snammaslliT
-81...............................................................................................GNINLLÄTSMO
-ANÖRG
-SNIRTSUDNI
-4........................................................................................................NIGETARTS
-RÖFMONEG
-MOS
-IV
-81................................................................................................AGNU
-HCO
-NRAB
-ATSURSDITMARF
-5..............................................................NIGETARTSSGNILKCEVTU
-ALANOIGER
-NED
-UD
-RESÄL
-ÅS
-91.............................................GNIRENALPSLLÄHMAS
-I
-NAKREVMAS
-MONEG
-TEHTSUBOR
-DAKÖ
-6.............................................................................................................................................låm
-snigetartS
-02.......................................................................nakrevmas
-hco
-golaid
-i
-–
-ednaröfmoneG
-8............................................................................
-dnalatöG
-artsäV
-i
-ragninttästuröf
-adoG
-32........................................................................................................REPICNIRP
-EDNADELGÄV
-ARYF
-8..............................................ETEBRASGNILKCEVTU
-TLANOIGER
-TKSIGETARTS
-HCO
-TALMAS
-TTE
-42.................................................................................................................EDNARÄL
-HCO
-PAKSNUK
-52.................................................................................................................RESRUSER
-HCO
-GYTKREV
-9.........................................................................................tfarkvird
-mos
-ragninamtusllähmaS
-72....................................................................................0302
-adnegA
-llit
-nigetarts
-rardib
-åS
-01..................................................................................................ragniretiroirp
-agitkisgnål
-aryF
-82..............................................................................................................................pohi
-ted
-regnäh
-åS
-21.....................tnakmarf
-i
-vilsgnirän
-tgitfarksnerruknok
-tte
-röf
-– NETFARKSNOITAVONNI
-AKRÄTS
-31.............................ednaräl
-tgnålsvil
-hco
-gninjrösröfsnetepmok
-erttäb
-röf
-–
-SNETEPMOK
-AGGYB
-03...................................................nednagildytröf
-hco
-ragnirdnä
-va
-gninttafnammaS
-:AGALIB
-41..........................................................
-gninllåhnammas
-hco
-tillit
-tkräts
-röf
-– NEGNIREDULKNI
-AKÖ
-51.....................
-tehgilgnägllit
-darttäbröf
-hco
-rabllåh
-röf
-–
-DNALATÖG
-ARTSÄV
-NAMMAS
-ATYNK
-3
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+INNEHÅLL
+
+Innehåll
+
+Tillsammans ställer vi om ................................................................................................................4
+
+Tillsammans kraftsamlar vi ..........................................................................................................16
+
+VI SOM GENOMFÖR STRATEGIN........................................................................................................4
+
+INDUSTRINS GRÖNA OMSTÄLLNING...............................................................................................18
+
+SÅ LÄSER DU DEN REGIONALA UTVECKLINGSSTRATEGIN..............................................................5
+
+FRAMTIDSRUSTA BARN OCH UNGA................................................................................................18
+
+Strategins mål
+
+6
+
+ÖKAD ROBUSTHET GENOM SAMVERKAN I SAMHÄLLSPLANERING.............................................19
+
+.............................................................................................................................................
+
+Genomförande – i dialog och samverkan.......................................................................20
+
+Goda förutsättningar i Västra Götaland ............................................................................8
+
+FYRA VÄGLEDANDE PRINCIPER........................................................................................................23
+
+ETT SAMLAT OCH STRATEGISKT REGIONALT UTVECKLINGSARBETE ..............................................8
+
+KUNSKAP OCH LÄRANDE.................................................................................................................24
+
+Samhällsutmaningar som drivkraft.........................................................................................9
+
+VERKTYG OCH RESURSER.................................................................................................................25
+
+Fyra långsiktiga prioriteringar
+
+10
+
+Så bidrar strategin till Agenda 2030....................................................................................27
+
+..................................................................................................
+
+STÄRKA INNOVATIONSKRAFTEN – för ett konkurrenskraftigt näringsliv i framkant..................... 12
+
+Så hänger det ihop..............................................................................................................................28
+
+BYGGA KOMPETENS – för bättre kompetensförsörjning och livslångt lärande ............................. 13
+
+BILAGA: Sammanfattning av ändringar och förtydliganden
+
+30
+
+...................................................
+
+ÖKA INKLUDERINGEN – för stärkt tillit och sammanhållning .......................................................... 14
+
+KNYTA SAMMAN VÄSTRA GÖTALAND – för hållbar och förbättrad tillgänglighet ..................... 15
+
+REGIONAL UTVECKLINGSSTRATEGI 3
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 256 -->
 
-GNINDELNI
-POHI TED
-REGNÄH
-ÅS
-noisiV
-i tknupsgnågtu
-nis
-rat
-nigetartS
-.tevil
-adog
-teD
-–
-dnalatöG
-artsäV
-renoisnemid
-ert
-i gnilkcevtu
-rabllåh
-ne
-rettästuröf
-tevil adog
-teD
-rä
-renoisnemid
-ert asseD
-.tehrabllåh
-gissämöjlim
-hco
-laicos
-,ksimonoke
-–
-mo
-iv
-relläts
-snammaslliT
-.ardnarav
-rekrätsröf
-hco
-ardnarav
-va edneoreb
-tednaröfmoneg
-alanoiger
-ted llit
-rardib
-nigetartssgnilkcevtu
-alanoiger
-neD
-labolg
-åP
-.reigetartssgnilkcevtu
-allenoitan
-hco
-aksieporue
-,allenoitanretni
-va
-snnfi
-åvin
-ksieporue
-åP .låmstehrabllåh
-71 dem
-0302
-adnegA
-snnfi
-åvin
-.vil
-ttog
-tte
-avel
-tta
-tehgiljöm
-ah
-aks
-dnalatöG
-artsäV
-i rakrev
-hco
-rob
-mos allA
-ne
-llit
-gninllätsmo
-sivttär
-ne allätsrekäs
-aks
-mos
-ragnirelger
-hco reigetarts
-rä
-tfarksnerruknok
-hco
-tetivitkartta
-agitkisgnål
-sdnalatöG
-artsäV
-llit
-nlekcyN
-röf
-redrägtå
-hco
-låm dem
-hco UE
-i imonoke
-gitfarksnerruknok
-hco rabllåh
-rabllåh
-röf nigetartS
-snnfi
-åvin llenoitan
-åP
-.0502
-llit
-marf
-tetilartuentamilk
-,tksimonoke
-tte
-llit mo
-alläts
-hco
-avitavonni
-arav
-tta
-agåmröf
-ammasnemeg
-råv
-.gnilkcevtu
-lanoiger
-.ellähmas
-trabllåh
-tgissämöjlim
-hco
-tlaicos
-alanoiger
-ardna
-ert dem
-ralepsmas
-nigetartssgnilkcevtu
-alanoigeR
-rä tnemukodlåm
-asseD .egitkämllufnoiger
-va
-angatna
-rä
-mos
-tnemukodlåm
-,nenoigersdnalatöG
-artsäV
-i gninllätsmo
-snedråvkujs
-hco
--osläh
-röf igetartS
-hco igetartsrutluk
-sdnalatöG
-artsäV
-hco
-margorpsgninjrösröfkfiart
-tlanoigeR
-nigetarts
-röfmoneg
-mos
-iV
-gnintkir
-ne regna
-NIGETARTSSGNILKCEVTU
-ALANOIGER
-NED
-.nalprutluk
-neD
-.dnalatöG
-artsäV i
-vil ttog
-tte
-llit negninllätsmo
-röf
-ardib
-aks
-hco
-nigetarts
-marf
-tigat
-hco
-dem
-tirav
-mos
-iV
--gninllätsmo
-i
-netkat
-räd
-ragniretiroirp
-hco
-låm revirkseb
-,dnubröflanummok
-,renummok
-redelgäv
-nigetartssgnilkcevtu
-alanoiger
-neD
--asinagro
-ssed
-hco
-tevilsgnirän
-rä
-sröfmoneg
-ned
-tta
-llit
--tu
-mos
-nedårmo
-åp raresukof
-ned
-hco akö
-revöheb ne
-tmas
-tellähmas
-alivic
-ted
-,tutitsnisgninksrof
-hco
-imedaka
-,vilsgnirän
-,dnubröflanummok
-aryf
-hco
-renummok
-94
-stenäl
-,renoit
-dem tetebra
-ammasnemeg
-ted i retehgidnym
-agiltats
-ardna
-hco
-neslerytssnäl
-hco
-renoitasinagro
-nallem
-etebramas
-moneg
-sled salkcev
-,tellähmas
-alivic
-ted
-,tutitsnisgninksrof
-hco
-imedaka
-ryts
-tegdub
-segitkämllufnoiger
-hco
-nigetartS
-.gnilkcevtu
-lanoiger
-,lanoiger
-,lakol
-nallem
-nakrevmas
-moneg
-sled ,rerotkes
-ardna
-hco
-neslerytssnäl
-tmas
-nenoigersdnalatöG
-artsäV
-.gnilkcevtu
-lanoiger
-åp
-ragninstas
-snenoigersdnalatöG
-artsäV
-snammasllit
-.åvin
-llenoitanretni
-hco llenoitan
-resruser
-,ravsna
-akilo
-alla
-rah iV
-.retehgidnym
-agiltats
-råv
-röf
-nemrofttalp
-rä
-nigetarts
-hco
-,repaksnuk
-hco
-revöheb
-dnalatöG
-artsäV
-trabllåh
-tte
-llit mo
-alläts tta röF
-.ednaröfmoneg
-tlluftfark
-tte
-röf
-hco
-nakrevmas
-nak
-negnI
-.tllellarap
-ragninamtusllähmas
-arefl atöm iv
-snammasllit
-nem
-,dnah
-nege
-åp
-ragninamtu
-assed asöl
--mas
-tgitfarksnerruknok
-hco
-trabllåh
-tte llit
-ardib iv nak
-tom
-kcilbtu
-dem
-,0302
-llit
-gis rekcärts
-nigetartS
-.elläh
-iv rän
-tehgitkisgnål
-va tevoheb
-ni agäv
-tta röf 5402
-hco ragninamtusllähmas
-axelpmok
-gnirk
-rakrevmas
-.gnilkcevtu
-stenäl röf
-retehgiljöm
+INLEDNING
+
+SÅ HÄNGER DET IHOP
+
+Strategin tar sin utgångspunkt i Vision
+
+Västra Götaland – Det goda livet.
+
+Tillsammans ställer vi om
+
+Det goda livet förutsätter en hållbar utveckling i tre dimensioner
+
+– ekonomisk, social och miljömässig hållbarhet. Dessa tre dimensioner är
+
+beroende av varandra och förstärker varandra.
+
+Den regionala utvecklingsstrategin bidrar till det regionala genomförandet
+
+Alla som bor och verkar i Västra Götaland ska ha möjlighet att leva ett gott liv.
+
+av internationella, europeiska och nationella utvecklingsstrategier. På global
+
+nivå ﬁnns Agenda 2030 med 17 hållbarhetsmål. På europeisk nivå ﬁnns
+
+Nyckeln till Västra Götalands långsiktiga attraktivitet och konkurrenskraft är
+
+strategier och regleringar som ska säkerställa en rättvis omställning till en
+
+hållbar och konkurrenskraftig ekonomi i EU och med mål och åtgärder för
+
+vår gemensamma förmåga att vara innovativa och ställa om till ett ekonomiskt,
+
+klimatneutralitet fram till 2050. På nationell nivå ﬁnns Strategin för hållbar
+
+socialt och miljömässigt hållbart samhälle.
+
+regional utveckling.
+
+Regionala utvecklingsstrategin samspelar med tre andra regionala
+
+måldokument som är antagna av regionfullmäktige. Dessa måldokument är
+
+Vi som genomför strategin
+
+Strategi för hälso- och sjukvårdens omställning i Västra Götalandsregionen,
+
+DEN REGIONALA UTVECKLINGSSTRATEGIN anger en riktning
+
+Regionalt traﬁkförsörjningsprogram och Västra Götalands kulturstrategi och
+
+för omställningen till ett gott liv i Västra Götaland. Den
+
+Vi som varit med och tagit fram strategin och ska bidra
+
+kulturplan.
+
+beskriver mål och prioriteringar där takten i omställning-
+
+till att den genomförs är näringslivet och dess organisa-
+
+Den regionala utvecklingsstrategin vägleder kommuner, kommunalförbund,
+
+en behöver öka och den fokuserar på områden som ut-
+
+tioner, länets 49 kommuner och fyra kommunalförbund,
+
+näringsliv, akademi och forskningsinstitut, det civila samhället samt
+
+vecklas dels genom samarbete mellan organisationer och
+
+akademi och forskningsinstitut, det civila samhället,
+
+länsstyrelsen och andra statliga myndigheter i det gemensamma arbetet med
+
+sektorer, dels genom samverkan mellan lokal, regional,
+
+Västra Götalandsregionen samt länsstyrelsen och andra
+
+regional utveckling. Strategin och regionfullmäktiges budget styr
+
+nationell och internationell nivå.
+
+statliga myndigheter. Vi har alla olika ansvar, resurser
+
+tillsammans Västra Götalandsregionens satsningar på regional utveckling.
+
+För att ställa om till ett hållbart Västra Götaland behöver
+
+och kunskaper, och strategin är plattformen för vår
+
+vi möta flera samhällsutmaningar parallellt. Ingen kan
+
+samverkan och för ett kraftfullt genomförande.
+
+lösa dessa utmaningar på egen hand, men tillsammans
+
+kan vi bidra till ett hållbart och konkurrenskraftigt sam-
+
+hälle. Strategin sträcker sig till 2030, med utblick mot
+
+2045 för att väga in behovet av långsiktighet när vi
+
+samverkar kring komplexa samhällsutmaningar och
+
+möjligheter för länets utveckling.
+
 4
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+
+REGIONAL UTVECKLINGSSTRATEGI
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 257 -->
 
-GNINDELNI
-alanoiger
-ned
-ud
-resäl
-åS
-raled
-akilo
-snigetartssgnilkcevtu
-alanoiger
-ned
-revirkseb
-nerugiF
-nigetartssgnilkcevtu
-aryf
-,låm
-tte
-rah
-nigetartS
-.ardnarav
-llit
-gis
-rellåhröf
-ed
-ruh
-hco
-alanoiger
-ted
-i nesab
-aderb
-ned
-rögtu
-mos
-ragniretiroirp
-agitkisgnål
-ralmastfark
-snammasllit
-iv
-mos
-nedårmo
-ert
-hco
-tetebrasgnilkcevtu
-röf
-negnintkir
-tu rakep
-nigetartssgnilkcevtu
-alanoiger
-neD
-.telåm
-tom
-gnintkir
-i
-netkatsgninllätsmo
-arerelecca
-tta
-röf
-gnirk
-.gnilkcevtu
-sdnalatöG
-artsäV
-röf etebra
-ammasnemeg
-tråv
-ragniretiroirp
-agitkisgnål
-aryf
-,låm
-tte
-va råtseb
-nigetartS
-.gnilmastfark
-lleirotkesrävt
-röf nedårmo
-ert hco
-tevoheb
-mo
-raldnah
-hco 0302
-llit
-marf
-negnintkir
-tu rakep
-LÅM
-SNIGETARTS
-tgitfarksnerruknok
-hco
-trabllåh
-tte
-llit dnalatöG
-artsäV
-mo
-alläts tta va
--oke
-ru
-räbenni
-gninllätsmo
-nadås
-ne
-dav raresiterknok
-telåM
-.ellähmas
-5402
-tom
-kcilbtu
-rah
-telåM
-.vitkepsrep
-tlaicos
-hco
-tgissämöjlim
-,tksimon
-axelpmok
-gnirk
-rakrevmas
-iv
-rän
-tehgitkisgnål
-va
-tevoheb
-arelangis
-tta röf
-.gnilkcevtu
-stenäl
-röf
-retehgiljöm
-hco ragninamtusllähmas
-rögtu
-mos
-nedårmo
-ed
-revirkseb
-ANRAGNIRETIROIRP
-AGITKISGNÅL
-ARYF ED
-åp etebrasgnilkcevtu
-aksigetarts
-hco
-edalmas
-sdnalatöG
-artsäV
-röf nesab
--revmas
-ksigetarts
-revärk
-hco
-ardnarav
-i ni repirg
-anedårmO
-.åvin lanoiger
-trabllåh
-tte
-llit
-negninllätsmo
-aralk
-tta
-röf restasni
-ammasnemeg
-hco nak
-.ellähmas
-tgitfarksnerruknok
-hco
-revöheb
-mos
-nedårmo
-ert
-åp
-sukof
-dem IV
-RALMASTFARK
-SNAMMASLLIT
-rekräts
-iv
-tta
-räbenni
-teD
-.netkatsgninllätsmo
-arerelecca
-tta
-röf tfark artxe
-tta
-röf
-tetebrasgnilkcevtu
-randromas
-hco nakrevmas
-alleirotkesrävt
-råv
-gnåg
-ne
-revö
-ses
-anragnilmastfarK
-.ragninttyflröf
-agitkiv
-ammokdatså
-.doireptadnam
-rep
-paksnuk
-i
-tknupsgnågtu
-dem
-,nakrevmas
-hco golaid
-i reks
-TEDNARÖFMONEG
-.sso
-radiug
-hco
-ranamtu
-repicnirp
-ednadelgäv
-aryF
-.ednaräl hco
-5
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+INLEDNING
+
+Så läser du den regionala
+
+utvecklingsstrategin
+
+Figuren beskriver den regionala utvecklingsstrategins olika delar
+
+och hur de förhåller sig till varandra. Strategin har ett mål, fyra
+
+långsiktiga prioriteringar som utgör den breda basen i det regionala
+
+Den regionala utvecklingsstrategin pekar ut riktningen för
+
+utvecklingsarbetet och tre områden som vi tillsammans kraftsamlar
+
+vårt gemensamma arbete för Västra Götalands utveckling.
+
+kring för att accelerera omställningstakten i riktning mot målet.
+
+Strategin består av ett mål, fyra långsiktiga prioriteringar
+
+och tre områden för tvärsektoriell kraftsamling.
+
+STRATEGINS MÅL pekar ut riktningen fram till 2030 och handlar om behovet
+
+av att ställa om Västra Götaland till ett hållbart och konkurrenskraftigt
+
+samhälle. Målet konkretiserar vad en sådan omställning innebär ur eko-
+
+nomiskt, miljömässigt och socialt perspektiv. Målet har utblick mot 2045
+
+för att signalera behovet av långsiktighet när vi samverkar kring komplexa
+
+samhällsutmaningar och möjligheter för länets utveckling.
+
+DE FYRA LÅNGSIKTIGA PRIORITERINGARNA beskriver de områden som utgör
+
+basen för Västra Götalands samlade och strategiska utvecklingsarbete på
+
+regional nivå. Områdena griper in i varandra och kräver strategisk samver-
+
+kan och gemensamma insatser för att klara omställningen till ett hållbart
+
+och konkurrenskraftigt samhälle.
+
+TILLSAMMANS KRAFTSAMLAR VI med fokus på tre områden som behöver
+
+extra kraft för att accelerera omställningstakten. Det innebär att vi stärker
+
+vår tvärsektoriella samverkan och samordnar utvecklingsarbetet för att
+
+åstadkomma viktiga förflyttningar. Kraftsamlingarna ses över en gång
+
+per mandatperiod.
+
+GENOMFÖRANDET sker i dialog och samverkan, med utgångspunkt i kunskap
+
+och lärande. Fyra vägledande principer utmanar och guidar oss.
+
+REGIONAL UTVECKLINGSSTRATEGI 5
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 258 -->
 
-låm
+Strategins mål
 
-snigetartS
-alläts
-tta
-va
-tevoheb
-mo
-raldnah
-hco
-tåmarf
-negnintkir
-tu
-rakep
-–
-.ellähmas
-tgitfarksnerruknok
-hco
-trabllåh
-tte
-llit
-dnalatöG
-artsäV
-mo
-,tksimonoke
-ru
-räbenni
-gninllätsmo
-nadås
-ne
-dav
-raresiterknok
-telåM
-.vitkepsrep
-tlaicos
-hco
-tgissämöjlim
+– pekar ut riktningen framåt och handlar om behovet av att ställa
+
+om Västra Götaland till ett hållbart och konkurrenskraftigt samhälle.
+
+Målet konkretiserar vad en sådan omställning innebär ur ekonomiskt,
+
+miljömässigt och socialt perspektiv.
 
 <!-- sida 259 -->
 
-LÅM SNIGETARTS
-låm snigetartS
-hco tehgillåhtu
-ne snnfi teD .snetepmok hco tfarkstebra va
-tvitkartta hco
-tgitfarksnerruknok
-tgitkisgnål
-tte llit nlekcyN
-,tamilk tardnäröf
-tte va anretkeffe atöm tta paksdereb dog
-vitavonni llit
-agåmröf
-ammasnemeg
-råv rä dnalatöG artsäV
-.resirk hco reslednäh
-ednavlävmo ,tetilibatsni ksitilopoeg
-alla tta llit
-rardib
-teD .nedårmo
-dar
-ne moni gninllätsmo
-tta tehgiljöm
-ah
-aks dnalatöG artsäV
-i rakrev hco rob mos
-ne va sankcetennäk
-dnalatöG artsäV anllåhnammas teD
-artsäV röf negnintkir
-tu rakep låm
-snigetartS
-.vil ttog tte avel
-metsyssdräfläv
-tte hco tehgilgnägllit darttäbröf hco rabllåh
-:ednajlöf
-tgilne
-sarelumrof ted
-hco
-gnilkcevtu sdnalatöG
-anranåvni tta
-rög mos gnirknaröf ksitarkomed dog dem
-tta röf ragninttästuröf
-akilmäj råf hco aggyrt gis rennäk
-dnalatöG
-artsäV iv rög
-snammaslliT
-.voheb anis esodogllit hco agilkrevröf
-tte llit
-gninllätsmo
-röf
-emöderöf
-tte llit
-.ellähmas
-tgitfarksnerruknok
-hco trabllåh
-teppö hco tkilmäJ
-tellähmas i aksinnäm
-ejrav ratled dnalatöG artsäV akilmäj ted I
-gninllätsmo
-nadås
-ne dav raresnalab
-hco raresiterknok telåM
-sanmäl aksinnäm
-negni hco roklliv akilmäj hco adllätsmäj åp
-tgissämöjlim
-tte
-hco tlaicos tte
-,tksimonoke
-tte ru räbenni
-ammas nök ttesvao
-alla rah räD .negnilkcevtusllähmas i röfnatu
-tsubor rä
-mo
-relläts mos dnalatöG
-artsäV ttE :vitkepsrep
-rä tellähmaS .vil
-ange anis hco tellähmas amrof tta retehgiljöm
-edneorebolissof
-tmas teppö hco
-tkilmäj
-,tellåhnammas hco
-hco agitkaled rä
-anranåvni hco ,tnerapsnart hco ednaredulkni
-.trälukric hco
-srestalp akilO
-.trots i tellähmas llit hco ardnarav llit tillit rah
-etybtu hco lepsmas
-tte snnfi ted hco aravllit sat ragninttästuröf
-5402 tom
-kcilbtu
-dem ,0302 llit
-negnintkir
-tu rakep telåM
-hco ,llit negnåglliT
-.tlatigid hco tksisyf edåb restalp nallem
-axelpmok gnirk
-rakrevmas
-iv rän tehgitkisgnål
-svärk ted tta röf
-hco
-noitkudorp
-edåb
-nårf
-ppälstu
-edaksnim
-llit redel
-tekliv
--öhllit rekräts vilrutluk
-hco -sgnineröf ,i atled tta netehgiljöm
-.tellähmas
-mo
-relläts hco ragninamtu
-.raksnim
-roravår
-annuvtuyn
-va
-negnindnävnA
-.noitmusnok
-.anranåvni soh tednannfiebläv hco netehgir
-röf
-nelåmtamilk
-llit
-ardib
-aks
-nigetartS
-hco
-gnirefiirtkele
-dem
-sttäsre
-lairetam
-hco
-nelsnärb
-alissoF
-tellåhnammas
-hco tsuboR
-näl
-sdnalatöG
-artsäV
-.retsnäjt
-hco
-retkudorp
-edaresaboib
-hco
-avitkeffesruser
-nedlrävmo dem
-tarergetni rä dnalatöG artsäV anppö teD
--farksdnåtstom
-tellähmas rä dnalatöG
-artsäV atsubor ted
-I
-artsäV
-i låmtamilk
-tmasnemeg
-tte
-snnfi
-9002
-nadeS
-i lairetam
-hco
-retkudorp
-allåh
-,llafva
-arenimile
-tta
-moneG
-moneG .tllenoitanretni
-hco tllenoitan etybtu tkir tte rah hco
-.ragninamtu
-addesturöfo
-hco adnäk
-edåb atöm nak hco tgit
-.0302
-rå
-noiger
-edneorebolissof
-ne arav
-tta
-–
-dnalatöG
-artsäV
-raksnim
-metsys
-agilrutan
-apaksretå
-hco gnindnävna
-rardib renoigernnarg
-aråv dem etebramas hco renoitaler adog
-tllenoitanretni
-ne
-hco tfarksnerruknok
-göh rah tevilsgniräN
-hco
-netäsoräl
-,dnalatöG
-artsäV
-i renummok
-agiltmaS
-rälukric
-ne
-rajmärf
-hco
-kcyrtvatof
-aksigoloke
-ttis
-dnalatöG
-.tlabolg
-hco tlakol edåb gnilkcevtu rabllåh ne llit iv
-,gnårpssgnilkcevtu
-aksinket aretnah
-tta agåmröf dnäkre
-atted
-mokab
-råts
-renoitasinagro
-hco
-gateröf
-agnåm
-resagsuhtxäv
-va
-neppälstu
-tta räbenni
-telåmtamilK
-.låm
-reg
-ted
-hco
-skräts
-nedlafgnåm
-aksigoloib
-neD
-.imonoke
-.ragnirdnäröf
-aksimonoke
-hco resnetepmok
-ayn va tevoheb
-rå
-llit
-åvin
-srå
-0991
-nårf
-tnecorp
-08
-dem
-aksnim
-aks
-.edneåmläv
-hco
-asläh
-sroksinnäm
-åp
-retkeffe
-avitisop
-åskco
-trälukric hco edneorebolissoF
--marf i gninksrof
-allåhadnahllit tta
-moneg
-rardib nimedakA
-nårf
-resagsuhtxäv
-va
-neppälstu
-aks
-motusseD
-.0302
-ned rä dnalatöG
-artsäV arälukric hco edneorebolissof ted I
--tusnetepmok
-hco
-gninjrösröfsnetepmok
-tnaveler tmas tnak
-tnecorp
-03
-dem
-aksnim
-noitmusnok
-sanraksnevstsäv
-hco nak
-dnalatöG
-artsäV
-trälukric
-hco
-edneorebolissof
-tte
-I
-hco rareripsni mos
-eragnågeröf nrotkes agiltneffo hco atavirp
--naräl tgnålsvil
-röf
-rerutkurts edalkcevtu
-snnfi teD .gnilkcev
-.reks ed
-nedlräv
-i
-rav ttesvao
-,0102
-dem
-tröfmäj
-avitaerk
-dem
-rardib
-hco
-lav
-arabllåh
-arög
-anranåvni
-lliv
-allenoitanretni ted
-hco aksieporue ted ,allenoitan ted rakrevåp
-alatigid hco
-ttässtebra
-avitavonni
-hco ayn moneg hco ed
-.nakrevåptamilk
-hco
--öjlim
-rasnärgeb
-mos
-ragninsöl
-,rarerelecca negninllätsmotamilK
-.tetebratamilk hco -öjlim
-voheb srotkes
-giltneffo
-hco stevilsgnirän
-sesodogllit retsnäjt
-7
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+STRATEGINS MÅL
+
+Strategins mål
+
+Nyckeln till ett långsiktigt konkurrenskraftigt och attraktivt av arbetskraft och kompetens. Det finns en uthållighet och
+
+Västra Götaland är vår gemensamma förmåga till innovativ
+
+god beredskap att möta effekterna av ett förändrat klimat,
+
+omställning inom en rad områden. Det bidrar till att alla
+
+geopolitisk instabilitet, omvälvande händelser och kriser.
+
+som bor och verkar i Västra Götaland ska ha möjlighet att
+
+leva ett gott liv. Strategins mål pekar ut riktningen för Västra Det sammanhållna Västra Götaland kännetecknas av en
+
+Götalands utveckling och det formuleras enligt följande:
+
+hållbar och förbättrad tillgänglighet och ett välfärdssystem
+
+med god demokratisk förankring som gör att invånarna
+
+Tillsammans gör vi Västra Götaland
+
+känner sig trygga och får jämlika förutsättningar för att
+
+till ett föredöme för omställning till ett
+
+förverkliga och tillgodose sina behov.
+
+hållbart och konkurrenskraftigt samhälle.
+
+Jämlikt och öppet
+
+Målet konkretiserar och balanserar vad en sådan omställning
+
+I det jämlika Västra Götaland deltar varje människa i samhället
+
+innebär ur ett ekonomiskt, ett socialt och ett miljömässigt
+
+på jämställda och jämlika villkor och ingen människa lämnas
+
+perspektiv: Ett Västra Götaland som ställer om är robust
+
+utanför i samhällsutvecklingen. Där har alla oavsett kön samma
+
+och sammanhållet, jämlikt och öppet samt fossiloberoende
+
+möjligheter att forma samhället och sina egna liv. Samhället är
+
+och cirkulärt.
+
+inkluderande och transparent, och invånarna är delaktiga och
+
+har tillit till varandra och till samhället i stort. Olika platsers
+
+Målet pekar ut riktningen till 2030, med utblick mot 2045
+
+förutsättningar tas tillvara och det finns ett samspel och utbyte
+
+för att det krävs långsiktighet när vi samverkar kring komplexa mellan platser både fysiskt och digitalt. Tillgången till, och
+
+utmaningar och ställer om samhället.
+
+möjligheten att delta i, förenings- och kulturliv stärker tillhö-
+
+vilket leder till minskade utsläpp från både produktion och
+
+Robust och sammanhållet
+
+righeten och välbefinnandet hos invånarna.
+
+konsumtion. Användningen av nyutvunna råvaror minskar.
+
+Strategin ska bidra till klimatmålen för
+
+Fossila bränslen och material ersätts med elektrifiering och
+
+Västra Götalands län
+
+I det robusta Västra Götaland är samhället motståndskraf-
+
+Det öppna Västra Götaland är integrerat med omvärlden
+
+resurseffektiva och biobaserade produkter och tjänster.
+
+tigt och kan möta både kända och oförutsedda utmaningar. och har ett rikt utbyte nationellt och internationellt. Genom Genom att eliminera avfall, hålla produkter och material i
+
+Sedan 2009 ﬁnns ett gemensamt klimatmål i Västra
+
+Näringslivet har hög konkurrenskraft och en internationellt goda relationer och samarbete med våra grannregioner bidrar användning och återskapa naturliga system minskar Västra
+
+Götaland – att vara en fossiloberoende region år 2030.
+
+erkänd förmåga att hantera tekniska utvecklingssprång,
+
+vi till en hållbar utveckling både lokalt och globalt.
+
+Götaland sitt ekologiska fotavtryck och främjar en cirkulär
+
+Samtliga kommuner i Västra Götaland, lärosäten och
+
+behovet av nya kompetenser och ekonomiska förändringar.
+
+ekonomi. Den biologiska mångfalden stärks och det ger
+
+många företag och organisationer står bakom detta
+
+Akademin bidrar genom att tillhandahålla forskning i fram- Fossiloberoende och cirkulärt
+
+också positiva effekter på människors hälsa och välmående.
+
+mål. Klimatmålet innebär att utsläppen av växthusgaser
+
+ska minska med 80 procent från 1990 års nivå till år
+
+kant samt relevant kompetensförsörjning och kompetensut- I det fossiloberoende och cirkulära Västra Götaland är den
+
+2030\. Dessutom ska utsläppen av växthusgaser från
+
+veckling. Det finns utvecklade strukturer för livslångt läran- privata och offentliga sektorn föregångare som inspirerar och I ett fossiloberoende och cirkulärt Västra Götaland kan och
+
+västsvenskarnas konsumtion minska med 30 procent
+
+de och genom nya och innovativa arbetssätt och digitala
+
+påverkar det nationella, det europeiska och det internationella vill invånarna göra hållbara val och bidrar med kreativa
+
+jämfört med 2010, oavsett var i världen de sker.
+
+tjänster tillgodoses näringslivets och offentlig sektors behov miljö- och klimatarbetet. Klimatomställningen accelererar,
+
+lösningar som begränsar miljö- och klimatpåverkan.
+
+REGIONAL UTVECKLINGSSTRATEGI 7
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 260 -->
 
-rehcsnarb
+VÄSTRA GÖTALANDS GEOGRAFISKA struktur består av
 
-akinu
+I VÄSTRA GÖTALAND finns många starka och unika branscher
 
-hco akrats agnåm
+fyra regionala kärnor – Göteborg, Borås, Skövde
 
-snnfi
-DNALATÖG ARTSÄV
+och företag som har stor betydelse i ett internationellt
 
-I
+och Trollhättan–Vänersborg–Uddevalla. Samtliga är
 
-va råtseb rutkurts AKSIFARGOEG
+perspektiv. Flera branscher, till exempel transportmedels-
 
-SDNALATÖG ARTSÄV
-tllenoitanretni
-tte i esledyteb
-rots
-rah mos gateröf
-hco
-edvökS ,såroB ,grobetöG
-– ronräk alanoiger
-aryf
--sledemtropsnart
-lepmexe llit
-,rehcsnarb
-arelF .vitkepsrep
-rä agiltmaS .allaveddU–grobsrenäV–nattähllorT
-hco
--mo arots
-i ttim
-gis rennfieb ,nirtsudniimek
-hco nirtsudni
-räd ,noitknuf hco kelrots ,egäl
-nårfitu allufesledyteb
-edardnäröf
-hco noitavonni
-edåb
-revärk mos ragnildnav
-.dnalmo erröts tte röf rotomtxävllit
-rä nenoigersgrobetöG
--snerruknok
-tllenoitanretni hco
-neppö
-ne I .resnetepmok
-stenäl röf murtnec mos llor dliksräs
-ne åskco rah grobetöG
-tevilsgnirän
-sakrevåp dnalatöG
-artsäV
-mos noiger
-ttastu
-hco kitsigol ,noitavonni hco gninksrof
-,dankramstebra
-aksitilopoeg
-ted
-hco ragningnävsrutknujnok
-edåb va
-tgidit
-reggil räH .netybtu allenoitanretni
-tmas tropsnart
-etebrasgnilkcevtu
-tlanoiger talmas
-srå
-agnåm räd nem
-,tegäl
-ednarögva rä netraföjs hco nmah
-atsröts sneivanidnakS
-.åp
-åts
-tta dnurg tsubor
-ne reg
-lliträd rä dnalatöG artsäV .tropmi
-hco tropxe ksnevs
-röf
-ragninttästuröf
-adoG
--argoeg arefl dem murtneckitsigol
-hco -tropsnart segirevS
-tlanoiger
-tksigetarts
-hco talmas
-ttE
-.stöm galstropsnart arefl räd
-redon addirpstu
-tksfi
-etebrasgnilkcevtu
-dnalatöG
-artsäV
-i
--gnål rä dnalatöG
-artsäV i tetebrasgnilkcevtu
-alanoiger
-teD
-renoitknuf akilo rah dnalatöG artsäV
-i restalp HCO RETRO
-ALLA
-hco rutluk
-moni
-gnilkcevtu rattafmo
-hco tksigetarts
-tgitkis
--arfni ksisyf hco latigid aiv krevtän
-tte i nammas sdnib
-mos
-,vilsgnirän
-,gninjrösröfsnetepmok
-,vilsgnineröf
-,reslevelppu
-.resnärg stednal hco stenäl röfnatu
-hco moni edåb ,rutkurts
-rattafmo
-teD
-.tamilk hco öjlim
-,noitavonni
-hco gninksrof
-nårfitu salkcevtu mos restalp va tehleh
-lanoiger ne rapaks
-teD
-tenäL
-.renummok
-94
-va
-råtseb
-hco
-eranåvni
-renojlim
-8,1
-rah
-dnalatöG
-artsäV
--kellok ,dnabderb
-,rutkurtsarfni
-va
-gnirenalpsllähmas
-nevä
-.retehgiljöm hco ragninttästuröf
-evitkepser
-anis
-.redäts
-hco
-retrotät
-arots
-hco
-åms
-,redgybsdnal
-va
-råtseb
-hco
-naty
-llit
-trots
-rä
-,aslähklof
-dem
-etebra tmas gnilkcevtu
-srestalp hco kfiartvit
-.retehgittär
-agilksnäm
-hco gnirenimirksiditna
-,tehdllätsmäj
-rän aporuE i anrenoiger etsakrats
-ed va NE RÄ EGIREVSTSÄV
-atsröts
-ned
-hco
-ragoks
-,nettav
-dem
-resruserrutan
-arots
-snnfi
-dnalatöG
-artsäV
-I
-nedlräv i renoiger ed va ne hco noitavonni
-llit remmok
-ted
-räd
-ragnirän
-agitfarksnerruknok
-röf
-sab
-rögtu
-atteD
-.egirevS
-i nelaeraskurbdroj
-,vilsgnirän
-,rotkes
-giltneffo tta va
-noitidart
-GNÅL NE SNNIF
-TED
--kcevtu hco gninksrof i ragniretsevni
-åp tsem sastas ted
-räd
-stenäl
-rög
-nevä
-anraöjs
-agnåm
-ed
-hco
-nakcärtstsuk
-agnål
-ned
-,tevilrutan
-akir
-ted
-artsäV i snammasllit
-rarega tellähmas
-alivic ted hco imedaka
-röf råts nirtsudnI .kelrots snimonoke
-llit ednallåhröf
-i gnil
-akilo i hco
-renoigernnarg
-dem
-,tenäl
-moni edåb ,dnalatöG
-.ecneics efil hco nirtsudnisnodrof
-dnalbiräd ,led rots
-ne
-va
-dlafgnåm
-ne
-snnfi
-teD
-.i
-akrev
-hco
-avel
-,aköseb
-tta
-avitkartta
-raled
-akilo
-,reöjlimstebramas
-edarelbatE
-.netebramas
-allenoitanretni
--sgninksrof akrats ,netäsoräl ,gateröf
-ammaskrev tlabolG
-artsäV
-i lävås
-negnilkcevtu
-röf
-esledyteb
-rots
-rah
-mos
-gateröf
-hco
-rehcsnarb
-resruser reg
-roksinnäm
-va dlafgnåm
-ne
-hco rerutkurts
-alibats
-paksrönerpertne röf rerutkurts edalkcevtuläv
-tmas reöjlim
-tkir
-tte
-rah
-dnalatöG
-artsäV
-.tllenoitanretni
-hco
-tllenoitan
-mos
-dnalatöG
-i gnamegagne
-hco paksnuk attäsmo
-tta ragninttästuröf
-hco
-noiger ednadel ne llit dnalatöG artsäV
-rög noitavonni
-hco
--masnemeg
-stenäl
-llit nevä rardib
-atteD
-.ragninsöl arabllåh
-edneåtsmarf stenäL .gnilkcevtu hco
-gninksrof edåb
-moni
-snnfi
-teD
-.vilsgnineröf
-hco
-ellähmaslivic
-tkrats
-hco
-vrarutluk
-tkinu
-tte
-,vilrutluk
-alanoiger
-teD
-.resirk hco ragninamtu
-atöm tta agåmröf
-am
-llit snammasllit rardib reöjlimsgnindlibtu
-hco -sgninksrof
-giltneffo
-nallem
-nakrevmas
-va
-noitidart
-agnål
-sdnalatöG
-artsäV
-i akryts
-ne
-ne rä dnalatöG
-artsäV rankcetennäk
-mos etebrasgnilkcevtu
-aksimanyd ted rah lliträD .gnilkcevtu
-hco tetivitkartta
-adog
-sso
-reg
-mos
-tellähmas
-alivic
-ted
-hco
-imedaka
-,vilsgnirän
-,rotkes
-tte llit gninllätsmo
-vitavonni ne
-ammokdatså
-tta röf
-akryts
-.tfarksyl llenoitanretni hco llenoitan
-edåb tevilrutluk
-.ellähmas tgitfarksnerruknok
-hco trabllåh
-.gninllätsmo
-röf
-emöderöf
-tte
-arav
-tta
-ragninttästuröf
-8
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+betydelsefulla utifrån läge, storlek och funktion, där
+
+industrin och kemiindustrin, befinner sig mitt i stora om-
+
+Göteborgsregionen är tillväxtmotor för ett större omland.
+
+vandlingar som kräver både innovation och förändrade
+
+Göteborg har också en särskild roll som centrum för länets
+
+kompetenser. I en öppen och internationellt konkurrens-
+
+arbetsmarknad, forskning och innovation, logistik och
+
+utsatt region som Västra Götaland påverkas näringslivet
+
+transport samt internationella utbyten. Här ligger
+
+tidigt av både konjunktursvängningar och det geopolitiska
+
+Goda förutsättningar
+
+Skandinaviens största hamn och sjöfarten är avgörande
+
+läget, men där många års samlat regionalt utvecklingsarbete
+
+för svensk export och import. Västra Götaland är därtill
+
+ger en robust grund att stå på.
+
+Sveriges transport- och logistikcentrum med flera geogra-
+
+fiskt utspridda noder där flera transportslag möts.
+
+Ett samlat och strategiskt regionalt
+
+i Västra Götaland
+
+utvecklingsarbete
+
+ALLA ORTER OCH platser i Västra Götaland har olika funktioner Det regionala utvecklingsarbetet i Västra Götaland är lång-
+
+som binds samman i ett nätverk via digital och fysisk infra-
+
+siktigt strategiskt och omfattar utveckling inom kultur och
+
+struktur, både inom och utanför länets och landets gränser.
+
+upplevelser, föreningsliv, kompetensförsörjning, näringsliv,
+
+Västra Götaland har 1,8 miljoner invånare och består av 49 kommuner. Länet
+
+Det skapar en regional helhet av platser som utvecklas utifrån forskning och innovation, miljö och klimat. Det omfattar
+
+är stort till ytan och består av landsbygder, små och stora tätorter och städer.
+
+sina respektive förutsättningar och möjligheter.
+
+även samhällsplanering av infrastruktur, bredband, kollek-
+
+I Västra Götaland ﬁnns stora naturresurser med vatten, skogar och den största
+
+tivtrafik och platsers utveckling samt arbete med folkhälsa,
+
+VÄSTSVERIGE ÄR EN av de starkaste regionerna i Europa när
+
+jämställdhet, antidiskriminering och mänskliga rättigheter.
+
+jordbruksarealen i Sverige. Detta utgör bas för konkurrenskraftiga näringar där
+
+det kommer till innovation och en av de regioner i världen
+
+det rika naturlivet, den långa kuststräckan och de många sjöarna även gör länets
+
+där det satsas mest på investeringar i forskning och utveck-
+
+DET FINNS EN LÅNG tradition av att offentlig sektor, näringsliv,
+
+olika delar attraktiva att besöka, leva och verka i. Det ﬁnns en mångfald av
+
+ling i förhållande till ekonomins storlek. Industrin står för akademi och det civila samhället agerar tillsammans i Västra
+
+en stor del, däribland fordonsindustrin och life science.
+
+Götaland, både inom länet, med grannregioner och i olika
+
+branscher och företag som har stor betydelse för utvecklingen såväl i Västra
+
+Globalt verksamma företag, lärosäten, starka forsknings-
+
+internationella samarbeten. Etablerade samarbetsmiljöer,
+
+Götaland som nationellt och internationellt. Västra Götaland har ett rikt
+
+miljöer samt välutvecklade strukturer för entreprenörskap
+
+stabila strukturer och en mångfald av människor ger resurser
+
+kulturliv, ett unikt kulturarv och starkt civilsamhälle och föreningsliv. Det ﬁnns
+
+och innovation gör Västra Götaland till en ledande region
+
+och förutsättningar att omsätta kunskap och engagemang i
+
+inom både forskning och utveckling. Länets framstående
+
+hållbara lösningar. Detta bidrar även till länets gemensam-
+
+en styrka i Västra Götalands långa tradition av samverkan mellan offentlig
+
+forsknings- och utbildningsmiljöer bidrar tillsammans till
+
+ma förmåga att möta utmaningar och kriser. Det regionala
+
+sektor, näringsliv, akademi och det civila samhället som ger oss goda
+
+attraktivitet och utveckling. Därtill har det dynamiska
+
+utvecklingsarbete som kännetecknar Västra Götaland är en
+
+förutsättningar att vara ett föredöme för omställning.
+
+kulturlivet både nationell och internationell lyskraft.
+
+styrka för att åstadkomma en innovativ omställning till ett
+
+hållbart och konkurrenskraftigt samhälle.
+
+REGIONAL UTVECKLINGSSTRATEGI 8
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 261 -->
 
-tknupsgnågtu
+Strategin tar sin utgångspunkt
 
-nis rat nigetartS
-:ragninamtusllähmas
-
-ednajlöf i
-nedlafgnåm
-aksigoloib ned
-hco rakö ppälstu
-ednakrevåptamilk va anretkeffE
+i följande samhällsutmaningar:
 
 (cid:198)
-.åvinsllähmas åp
-resnevkesnok
-agilravlla remtlla dem datoh
-tuka
-rä
-retkiflnok
-aksitilopoeg hco
-resirk agilravlla
-refl dem tegälsdlräv arkäso
-teD
+
+Effekterna av klimatpåverkande utsläpp ökar och den biologiska mångfalden
+
+är akut hotad med alltmer allvarliga konsekvenser på samhällsnivå.
+
 (cid:198)
-.vilsgnirän
-hco ellähmas åp vark ayn
-relläts
-dgnälsvilledem
-dakö ,latesledöf
-ednaksnim
-dem negnilkcevtu aksfiargomed
-neD
+
+Det osäkra världsläget med ﬂer allvarliga kriser och geopolitiska konﬂikter
+
+ställer nya krav på samhälle och näringsliv.
+
 (cid:198)
-aralk tta ragninamtu
-llit redel
-redlå maskrevsekry
-i gninklofeb ledna ergäl
-hco
-assiv åp
-netsirB .gninjrösröfsnetepmok
-stevilsgnirän hco gardppu snedräfläv
-.etebra
-rankas agnåm
-mos tgiditmas ,rots rä resnetepmok
-ragninamtusllähmaS
-bbans ,snerruknok
-labolg eradråh
-röfni råts
-vilsgnirän hco imonoke segirevstsäV
+
+Den demograﬁska utvecklingen med minskande födelsetal, ökad medellivslängd
+
+och lägre andel befolkning i yrkesverksam ålder leder till utmaningar att klara
+
+välfärdens uppdrag och näringslivets kompetensförsörjning. Bristen på vissa
+
+Samhällsutmaningar
+
+kompetenser är stor, samtidigt som många saknar arbete.
+
 (cid:198)
-allåheb tta
-röF .resnetepmoklekcyn
-åp vark
-edakö hco rojdekedräv i gnirdnäröf
-gnilkcevtu
-hco noitavonni ,gninksrof
-moni
-noitisop ednadel stenäl hco
-nebboj
-tfarkvird
-mos
-.ragninstas atkräts hco tehbbans
-svärk
-ednatyrbnab
-ardna hco IA
-moni negnilkcevtu
-,nenoitamrofsnart alatigid
-neD
+
+Västsveriges ekonomi och näringsliv står inför hårdare global konkurrens, snabb
+
+förändring i värdekedjor och ökade krav på nyckelkompetenser. För att behålla
+
+som drivkraft
+
+jobben och länets ledande position inom forskning, innovation och utveckling
+
+krävs snabbhet och stärkta satsningar.
+
 (cid:198)
-ayn ranppö
-teD .tellähmas
-i raled alla
-rakrevåp hco tbbans råg reigolonket
-sivlepmexe
-moni reksir hco
-nammelid
-aksite åskco räbenni nem retehgiljöm
-atöm
-tgiditmas
-revöheb
-iv
-nem
-egälsgnågtu
-arb
-tte
-rah
-dnalatöG
-artsäV
-.tehrekäsrebyc
-arots
-tta
-räbenni
-atteD
-.ragninamtu
-alabolg
-hco
-alanoiger
-latna
-tte
-hco
-gävnräj röf tliksräs
-,rutkurtsarfnitropsnart
-röf nevohebsgnilkcevtU
+
+Den digitala transformationen, utvecklingen inom AI och andra banbrytande
+
+teknologier går snabbt och påverkar alla delar i samhället. Det öppnar nya
+
+Västra Götaland har ett bra utgångsläge men vi behöver samtidigt möta
+
+möjligheter men innebär också etiska dilemman och risker inom exempelvis
+
+ett antal regionala och globala utmaningar. Detta innebär att stora
+
+cybersäkerhet.
+
+samhällssystem behöver ställas om och förändras i grunden, inte minst för
+
 (cid:198)
-åp tsirb
-llereneg ne tmas
-reditdel
-agnåL .arots ttastrof rä ,kfiartvitkellok
-röf
-tsnim
-etni
-,nednurg
-i
-sardnäröf
-hco
-mo
-salläts
-revöheb
-metsyssllähmas
-.ragninsöl hco
-ttässtebra
-avitanretla åp vark relläts gnireisnanfi
-va
-netsulröf
-atuka
-ned
-hco
-negninmrävppu
-alabolg
-ned
-asnärgeb
-tta
-.tenäl
-moni tå gis rejliks
-ecivressllähmas
-hco etebra llit gnågllit sanranåvnI
+
+Utvecklingsbehoven för transportinfrastruktur, särskilt för järnväg och
+
+kollektivtraﬁk, är fortsatt stora. Långa ledtider samt en generell brist på
+
+att begränsa den globala uppvärmningen och den akuta förlusten av
+
+ﬁnansiering ställer krav på alternativa arbetssätt och lösningar.
+
+biologisk mångfald. Komplexiteten i de ﬂesta samhällsutmaningarna gör att
+
 (cid:198)
-tta
-rög
-anragninamtusllähmas
-atsefl
-ed
-i
-netetixelpmoK
-.dlafgnåm
-ksigoloib
-agitkaled
-gis annäk eranåvni
-hco aksnim
-revöheb rotfylk aksimonokeoicoS .tellähmas
-i
-tlleirotkesrävt
-hco
-tmasnemeg
-marf
-satebra
-revöheb
-ragninsöl
-avitavonni
-dakö sled
-dem tkat i aksnim
-tta rareksir
-nitarkomed hco tellähmas llit
-netilliT
+
+Invånarnas tillgång till arbete och samhällsservice skiljer sig åt inom länet.
+
+innovativa lösningar behöver arbetas fram gemensamt och tvärsektoriellt
+
+Socioekonomiska klyftor behöver minska och invånare känna sig delaktiga
+
+i samhället.
+
+utifrån Västra Götalands förutsättningar och styrkor. Ett utvecklingsarbete
+
 (cid:198)
-etebrasgnilkcevtu
-ttE
-.rokryts
-hco
-ragninttästuröf
-sdnalatöG
-artsäV
-nårfitu
-daresinagro
-dderbtu sled
-,noitamrofni
-ednadelesliv relle kslaf va gnindirps
-.negninllätsmo
-i
-tfark
-reg
-anragninamtusllähmas
-i
-dnurg
-nis
-rat
-mos
-.tehgilsttorb
-.tevil dem
-adjön etni rä hco
-neditmarf
-röf oro rennäk agnu ledna ednakö
-nE
+
+Tilliten till samhället och demokratin riskerar att minska i takt med dels ökad
+
+som tar sin grund i samhällsutmaningarna ger kraft i omställningen.
+
+spridning av falsk eller vilseledande information, dels utbredd organiserad
+
+brottslighet.
+
 (cid:198)
-.naloks etni
-raralk agnåM .asläho
-ksikysp
-revelppu agnu hco nrab agnåm
-röftllA
-.gnäg allenimirk
-llit saretyrker renosrep ergny
-tllA
-9
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+
+En ökande andel unga känner oro för framtiden och är inte nöjda med livet.
+
+Alltför många barn och unga upplever psykisk ohälsa. Många klarar inte skolan.
+
+Allt yngre personer rekryteras till kriminella gäng.
+
+REGIONAL UTVECKLINGSSTRATEGI 9
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 262 -->
 
-agitkisgnål
+Fyra långsiktiga
 
-aryF
-ragniretiroirp
-restasni
-ammasnemeg
-röf
-anedårmo
-etsagitkiv
-aryf
-ed
-revirkseb
-–
-tgitfarksnerruknok
-hco
-trabllåh
-tte
-llit
-negninllätsmo
-aralk
-tta
-röf
-aksigetarts
-edalmas
-ted
-i
-nesab
-rögtu
-anedårmO
-.ellähmas
-.dnalatöG
-artsäV
-i
-tetebrasgnilkcevtu
-01
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+prioriteringar
+
+– beskriver de fyra viktigaste områdena för gemensamma insatser
+
+för att klara omställningen till ett hållbart och konkurrenskraftigt
+
+samhälle. Områdena utgör basen i det samlade strategiska
+
+utvecklingsarbetet i Västra Götaland.
+
+REGIONAL UTVECKLINGSSTRATEGI 10
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 263 -->
 
-RAGNIRETIROIRP
+LÅNGSIKTIGA PRIORITERINGAR
 
-AGITKISGNÅL
-artsäV
-röf
-agitkiv
-tksigetarts
-tgitkisgnål
-rä
-mos
-nedårmo
-raretiroirp
-nigetartS
-agitkisgnål
-aryf
-tu
-rakep
-nigetartS
-hco
-rerötka
-akilo
-nallem
-nakrevmas
-svöheb
-ted
-räd
-hco
-gnilkcevtu
-sdnalatöG
-tlaicos
-,tksimonoke
-tte
-llit
-mo
-alläts
-tta
-va
-aralk
-tta
-röf
-restasni
-ammasnemeg
-ragniretiroirp
-.ellähmas
-tgitfarksnerruknok
-hco
-trabllåh
-tgissämöjlim
-hco
-edalmas
-sdnalatöG
-artsäV
-röf
-nesab
-rögtu
-mos nedårmo
-ed
-revirkseb
-anragniretiroirp
-agitkisgnål
-aryf
-eD
-nedårmo
-assed
-moni
-restasni
-ammasnemeg
-hco
-nakrevmas
-ksigetarts
-svärk
-teD
-.etebrasgnilkcevtu
-alanoiger
-hco
-trabllåh
-tte
-llit
-mo
-alläts
-tta
-va
-aralk
-tta röf
-hco
-röfni
-råts
-iv
-ragninamtusllähmas
-ed
-atöm
-tta
-röf
-räd
-relle
-arerelecca
-etsåm
-netkatsgnirdnäröf
-räd nedårmo
-ted
-rä
-tgiditmaS
-.ellähmas
-tgitfarksnerruknok
-TGITKISGNÅL
-.ragnirdnäröf
-ednatyrbnab
-latna
-tte
-aralk aks
-iv
-tta
-röf
-sakräts
-röb
-nepaksdereb
-ammasnemeg
-ned
-lanoigeR
-igetartssgnilkcevtu
-netfarksnoitavonni
-akrätS
-tnakmarf
-i vilsgnirän
-tgitfarksnerruknok
-tte
-röf
-–
-NAKREVMAS
-DLIKSNE
-SVÄRK
-RÖTKA
-snetepmok
-aggyB
-ednaräl
-tgnålsvil
-hco
-gninjrösröfsnetepmok
-erttäb
-röf
-–
-negniredulkni
-akÖ
-gninllåhnammas
-hco
-tillit
-röf
-–
-TGITKISTROK
-dnalatöG
-artsäV
-nammas
-atynK
-tehgilgnägllit
-darttäbröf
-hco rabllåh
-röf
-–
-11
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+Strategin pekar ut fyra långsiktiga
+
+Strategin prioriterar områden som är långsiktigt strategiskt viktiga för Västra
+
+Götalands utveckling och där det behövs samverkan mellan olika aktörer och
+
+prioriteringar
+
+gemensamma insatser för att klara av att ställa om till ett ekonomiskt, socialt
+
+och miljömässigt hållbart och konkurrenskraftigt samhälle.
+
+De fyra långsiktiga prioriteringarna beskriver de områden som utgör basen för Västra Götalands samlade
+
+regionala utvecklingsarbete. Det krävs strategisk samverkan och gemensamma insatser inom dessa områden
+
+för att möta de samhällsutmaningar vi står inför och för att klara av att ställa om till ett hållbart och
+
+konkurrenskraftigt samhälle. Samtidigt är det områden där förändringstakten måste accelerera eller där
+
+den gemensamma beredskapen bör stärkas för att vi ska klara ett antal banbrytande förändringar.
+
+LÅNGSIKTIGT
+
+Regional
+
+utvecklingsstrategi
+
+Stärka innovationskraften
+
+– för ett konkurrenskraftigt näringsliv i framkant
+
+ENSKILD
+
+SAMVERKAN
+
+AKTÖR
+
+KRÄVS
+
+Bygga kompetens
+
+– för bättre kompetensförsörjning och livslångt lärande
+
+Öka inkluderingen
+
+– för tillit och sammanhållning
+
+KORTSIKTIGT
+
+Knyta samman Västra Götaland
+
+– för hållbar och förbättrad tillgänglighet
+
+REGIONAL UTVECKLINGSSTRATEGI 11
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 264 -->
 
-RAGNIRETIROIRP
+LÅNGSIKTIGA PRIORITERINGAR
 
-AGITKISGNÅL
-repläjh
-öjlim latigid
-hco
-gilkrev ,mroftolip
-i renoitavonni
-,noitavonni åp
-sukof rah hco relaeraskurbdroj
-hco -sgoks
-gnindnävna
-ksitkarp
-adnyksåp
-,tetixelpmok
-aretnah
-tta
-llit
-.gnildäröferadiv
-hco noitkudorp
-netfarksnoitavonni
-akrätS
--gninsöl
-alabolg
-röf dankramammeh
-gidit ne
-apaks
-hco
--gyfl ,-snodrof
-i nakryts ralmas
-tetilibom sneditmarF
-•
-tnakmarf
-i vilsgnirän
-tgitfarksnerruknok
-tte
-röf –
--gnåm
-rän rakö
-netfarksgnilkcevtu
-hco
--snoitavonnI
-.ra
-,kitsigol
-moni noitavonni
-dem ,nirtsudnidmyr hco
-.raledröfsnerruknok
-mos
-satkarteb
-tehdllätsmäj
-hco
-dlaf
-ayn hco gnirefiirtkele
-,eranörd
-,rekinket ednarökvläjs
-hco paksnuk
-aröggittyn
-tta
-mo raldnah netfarksnoitavonni
-akräts
-ttA
-,paksnuk
-yn röfllit
-netebramas
-aksieporue
-i ednagatleD
-.retropsnartsdog
-hco -nosrep
-edåb röf retsnäjt va repyt
-hco negninllätsmo
-åp adnyks
-edåb tta laitnetop
-dem reédi alkcevtu
-alanoiger
-va anretkeffe
-rekräts hco
-,lepmexe
-adog
-redirps
-rehcsnarb avitaerk
-hco allerutluk
-tmas gniränsköseB
-•
-röf
-restasni sled
-rattafmo
-teD
-.rotkes giltneffo
-hco
-tavirp i edräv apaks
-.noitavonni
-hco gninksrof
-åp
-ragninstas
-vilsgnirän avitavonni
-hco tfarksnoitkartta
-stenäl llit rardib
-erdnim ed arelumits
-hco ednagateröfyn
-hco
-paksrönerpertne
-akö
-tta
-.edom hco litxet
-,leps ,mlfi ,gnameneve
-mos nedårmo moni
-akrats tllenoitanretni
-åp ragninstas
-sled ,tfarksnoitavonni
-snegateröf
-agitkiv
-tgitkisgnål
-åp lepmexE
-akräts tta
-röf nedårmosnakrevmas
-.reöjlimsnoitavonni
-hco
--sgninksrof
-hco retsulk
-mroftolip edåb
-i renoitavonni
-va NOITARTSNOMED HCO
-TSET
-:netfarksnoitavonni
-,vitkepsrep
-akilo aretnah tta
-ttäs tte rä öjlim gilkrev
-hco
-at hco alkcevtu
-tmas
-paksrönerpertne
-arelumitS
+skogs- och jordbruksarealer och har fokus på innovation, innovationer i pilotform, verklig och digital miljö hjälper
+
+Stärka innovationskraften
+
+produktion och vidareförädling.
+
+till att hantera komplexitet, påskynda praktisk användning
+
+– för ett konkurrenskraftigt näringsliv i framkant
+
+• Framtidens mobilitet samlar styrkan i fordons-, flyg-
+
+och skapa en tidig hemmamarknad för globala lösning-
+
+och rymdindustrin, med innovation inom logistik,
+
+ar. Innovations- och utvecklingskraften ökar när mång-
+
+Att stärka innovationskraften handlar om att nyttiggöra kunskap och
+
+självkörande tekniker, drönare, elektrifiering och nya
+
+fald och jämställdhet betraktas som konkurrensfördelar.
+
+utveckla idéer med potential att både skynda på omställningen och
+
+typer av tjänster för både person- och godstransporter.
+
+Deltagande i europeiska samarbeten tillför ny kunskap,
+
+skapa värde i privat och offentlig sektor. Det omfattar dels insatser för
+
+• Besöksnäring samt kulturella och kreativa branscher
+
+sprider goda exempel, och stärker effekterna av regionala
+
+bidrar till länets attraktionskraft och innovativa näringsliv
+
+satsningar på forskning och innovation.
+
+att öka entreprenörskap och nyföretagande och stimulera de mindre
+
+företagens innovationskraft, dels satsningar på internationellt starka
+
+inom områden som evenemang, film, spel, textil och mode.
+
+Exempel på långsiktigt viktiga
+
+kluster och forsknings- och innovationsmiljöer.
+
+av innovationer i både pilotform
+
+samverkansområden för att stärka
+
+TEST OCH DEMONSTRATION
+
+innovationskraften:
+
+och verklig miljö är ett sätt att hantera olika perspektiv,
+
+I ETT ROBUST och fossiloberoende Västra Götaland bygger
+
+nya affärsmodeller. Entreprenöriella inslag i skola, högre
+
+komplexitet och risker för att på så sätt möta behovet av att
+
+(cid:198) Stimulera entreprenörskap samt utveckla och ta
+
+vi vidare på vår långa erfarenhet av nära samarbete mellan
+
+utbildning och forskning stärker företagsamheten och bidrar snabbt kunna skala upp. Det minskar också tiden till praktisk
+
+tillvara barns och ungas kreativitet och färdigheter.
+
+kunskapsintensiv industri, akademi, forskningsinstitut och
+
+till förnyelse och utveckling av både samhälle och näringsliv. användning och kan forma en tidig hemmamarknad för
+
+(cid:198) Främja nyföretagande och bidra till ökad
+
+offentlig sektor. Det gör oss attraktiva som internationell
+
+När invånarnas delaktighet och kreativitet, särskilt barns
+
+globalt framväxande lösningar.
+
+konkurrenskraft och förändringsförmåga i små
+
+samarbetspart och som plats för strategiska etableringar och och ungas skaparförmåga, tas tillvara utvecklas morgon-
+
+och medelstora företag, genom exempelvis
+
+investeringar. Samverkan gör oss även mer motståndskraftiga dagens innovationer, tjänster och företag.
+
+SAMVERKAN OCH KUNSKAPSÖVERFÖRING blir allt viktigare när
+
+digitalisering, cirkulära affärsmodeller och
+
+i tider av osäkert världsläge med snabbt förändrade förut-
+
+traditionella branscher vävs samman på nya sätt och med
+
+utvecklat klimat- och hållbarhetsarbete.
+
+sättningar för näringsliv och samhälle.
+
+I VÄSTRA GÖTALAND FINNS områden av särskilt stor betydelse
+
+nya branscher. Små och medelstora företag driver på föränd-
+
+(cid:198) Öka den internationella konkurrenskraften
+
+för länets konkurrenskraft, tillväxt och export. Det är viktigt ringen med innovation och snabb produktutveckling, vilket
+
+genom satsningar på exempelvis hållbar och
+
+I VÄSTRA GÖTALAND pågår en grön omställning där fossila
+
+att både behålla nuvarande verksamheter och främja utveck- stärker sysselsättning och företagens lönsamhet. För att nå
+
+fossiloberoende industri, hälsa och life science,
+
+energikällor fasas ut och linjära värdekedjor ersätts av cirku- ling i riktning mot framtida tekniker och produktionssätt.
+
+framgång och effektivisera både privat och offentlig sektor,
+
+hållbar mobilitet, livsmedelskedjan, skogliga och
+
+lära. Elektrifiering och ökad fossilfri elförsörjning är avgö-
+
+Strategin ska stärka förutsättningarna för innovativ omställ- behövs satsningar på digital transformation, AI, banbrytande
+
+maritima näringar, besöksnäring samt kulturella
+
+rande för att stärka konkurrenskraften, behålla jobben och
+
+ning och hållbar utveckling inom:
+
+tekniker och innovationer samt kompetensutveckling i sam-
+
+och kreativa branscher.
+
+säkerställa framtida utveckling. Stärkt innovationskraft ger
+
+• Hållbar industri innefattar produktion, nya och biobas-
+
+arbete med institut och akademi.
+
+(cid:198) Stärka den västsvenska attraktiviteten för
+
+nya affärsmöjligheter även inom områden som säkerhet,
+
+internationell spetskompetens, strategiska
+
+resiliens och biologisk mångfald. Genom att rikta investe-
+
+erade material, resurseffektiv process- och produktutveck-
+
+etableringar och investeringar.
+
+ling, industrinära tjänster som digitalisering, teknologier,
+
+FORTSATT STARKA FORSKNINGS- OCH INNOVATIONSMILJÖER
+
 (cid:198)
-tta va tevoheb
-atöm ttäs ås åp tta
-röf reksir hco tetixelpmok
-ergöh
-,aloks i galsni
-alleirönerpertnE
-.relledomsräffa ayn
-reggyb dnalatöG
-artsäV
-edneorebolissof
-hco
-TSUBOR
-TTE
-I
-.retehgidräf
-hco
-tetivitaerk
-sagnu hco
-snrab
-aravllit
-ksitkarp llit nedit
-åskco raksnim
-teD .ppu alaks annuk tbbans
-rardib
-hco netehmasgateröf
-rekräts gninksrof
-hco gnindlibtu
-nallem etebramas
-arän va
-tehnerafre
-agnål råv
-åp eradiv
-iv
-röf dankramammeh
-gidit ne
-amrof nak hco gnindnävna
-.vilsgnirän
-hco ellähmas
-edåb
-va gnilkcevtu
-hco esleynröf llit
-hco tutitsnisgninksrof
-,imedaka
-,irtsudni
-visnetnispaksnuk
-dakö
-llit ardib
-hco ednagateröfyn
-ajmärF
-(cid:198)
-åms i agåmröfsgnirdnäröf
-hco tfarksnerruknok
-.ragninsöl
-ednaxävmarf tlabolg
-snrab
-tliksräs ,tetivitaerk
-hco tehgitkaled
-sanranåvni räN
-llenoitanretni mos
-avitkartta
-sso rög
-teD .rotkes
-giltneffo
-sivlepmexe
-moneg
-,gateröf arotsledem
-hco
--nogrom
-salkcevtu
-aravllit
-sat ,agåmröfrapaks
-sagnu hco
-hco ragnirelbate aksigetarts
-röf
-stalp
-mos hco
-trapstebramas
-hco relledomsräffa
-arälukric
-,gniresilatigid
-rän eragitkiv
-tlla rilb GNIRÖFREVÖSPAKSNUK
-HCO NAKREVMAS
-.gateröf
-hco retsnäjt
-,renoitavonni snegad
-agitfarksdnåtstom rem
-nevä
-sso
-rög nakrevmaS
-.ragniretsevni
-.etebrastehrabllåh
-hco -tamilk
-talkcevtu
-dem hco ttäs
-ayn åp nammas
-sväv rehcsnarb allenoitidart
--turöf edardnäröf
-tbbans
-dem
-egälsdlräv
-trekäso
-va
-redit
-i
-netfarksnerruknok
-allenoitanretni
-ned akÖ
-(cid:198)
--dnäröf åp revird
-gateröf arotsledem
-hco åmS .rehcsnarb
-ayn
-esledyteb
-rots tliksräs
-va nedårmo
-SNNIF
-DNALATÖG ARTSÄV
-I
-.ellähmas
-hco vilsgnirän
-röf ragninttäs
-hco rabllåh
-sivlepmexe
-åp ragninstas
-moneg
-tekliv ,gnilkcevtutkudorp
-bbans
-hco noitavonni dem negnir
-tgitkiv
-rä teD .tropxe
-hco txävllit
-,tfarksnerruknok
-stenäl röf
-,ecneics efil
-hco asläh
-,irtsudni edneorebolissof
-ån tta röF .tehmasnöl
-snegateröf
-hco gninttäslessys rekräts
--kcevtu
-ajmärf hco retehmaskrev
-ednaravun
-allåheb edåb tta
-alissof räd gninllätsmo
-nörg
-ne rågåp
-DNALATÖG
-ARTSÄV
-I
-hco agilgoks
-,najdeksledemsvil
-,tetilibom
-rabllåh
-,rotkes giltneffo
-hco tavirp edåb
-aresivitkeffe hco gnågmarf
-.ttässnoitkudorp
-hco
-rekinket
-aditmarf
-tom gnintkir i gnil
--ukric va sttäsre rojdekedräv
-aräjnil
-hco
-tu sasaf
-rolläkigrene
-allerutluk tmas
-gniränsköseb
-,ragnirän
-amitiram
-ednatyrbnab ,IA
-,noitamrofsnart
-latigid åp ragninstas svöheb
--llätsmo
-vitavonni röf
-anragninttästuröf
-akräts aks nigetartS
--ögva rä gninjrösröfle
-irflissof
-dakö
-hco gnirefiirtkelE
-.aräl
-.rehcsnarb
-avitaerk
-hco
--mas i gnilkcevtusnetepmok
-tmas
-renoitavonni hco rekinket
-:moni
-gnilkcevtu
-rabllåh hco gnin
-hco nebboj allåheb
-,netfarksnerruknok
-akräts
-tta röf
-ednar
-röf netetivitkartta
-aksnevstsäv
-ned akrätS
-(cid:198)
-.imedaka
-hco tutitsni dem etebra
-reg tfarksnoitavonni
-tkrätS
-.gnilkcevtu
-aditmarf
-allätsrekäs
-aksigetarts
-,snetepmoksteps
-llenoitanretni
--saboib
-hco ayn ,noitkudorp
-rattafenni
-irtsudni rabllåH
-•
-,tehrekäs mos nedårmo
-moni
-nevä
-retehgiljömsräffa
-ayn
-.ragniretsevni
-hco
-ragnirelbate
--kcevtutkudorp
-hco -ssecorp
-vitkeffesruser
-,lairetam edare
-REÖJLIMSNOITAVONNI
-HCO -SGNINKSROF
-AKRATS TTASTROF
--etsevni atkir tta moneG
-.dlafgnåm
-ksigoloib
-hco sneiliser
-,reigolonket
-,gniresilatigid
-mos retsnäjt
-aränirtsudni ,gnil
-alaks ,alkcevtu
-tta röf
-reöjlimsnoitavonni
-åp astaS
-(cid:198)
-arots hco åms
-nallem netebramas
-ednapaksedräv röggiljöm
--isop nis akräts dnalatöG
-artsäV
-nak
-tehrabllåh
-tom
-ragnir
-.gninjrösröfigrene
-hco relledomsräffa
-arälukric
-nallem nakrevmas
-i ragninsöl
-aröggittyn
-hco ppu
-nlekcyn rä
-krevtäN .rotkes giltneffo
-hco imedaka ,gateröf
-hco netfarksnerruknok
-agitkisgnål
-ned akö
-,tlabolg
-noit
-.rotkes
-giltneffo
-hco imedaka
-,vilsgnirän
-artsäV i annats
-aks ed tta llit hco
-txävllit snegateröf llit
-edåb
-,ledemekäl
-va gnilkcevtu
-rattafmo
-ecneics
-efil hco asläH
-•
-.ellähmas edneorebolissof
-tte
-llit negninllätsmo
-llit
-rardib
-röf paksrentrap
-aksieporue
-hco allenoitan
-i atleD
-(cid:198)
-avird hco
-agårfretfe revöheb
-rotkes giltneffO .dnalatöG
-moni
-renoitavonni
-hco
-kinketsdräfläv
-,kinketnicidem
-alanoiger va
-gnilxävppu
-hco etybtustehnerafre
-tavirp dem
-snammasllit ,hco
-esleynröf röf ragninstas
-åp
-hco
-aslähsnoisicerp
-åp
-sukof dem
-dråvkujs
-hco -osläh
--spaksnuk arots nårf
-,svöheb
-TEMETSYS
-AKSIMANYD
-TED
-ALEH
-.ragninstas
-.gnilkcevtu
-röf latipak hco resnetepmok
-arehartta ,rotkes
-.retehgiljöm
-snegniresilatigid
-va ednaröggittyn
--etsnäjt hco rerötnarevelrednu
-,gateröf
-avisnetnitropxe
-hco
-relledomsräffa
-hco kinket arenibmok
-etsåm renoitavonnI
-ragnirän
-amitiram
-hco
-agilgoks
-,najdeksledemsviL
-•
-.gateröf arotsledem hco
-åms
-avitavonni
-va nedderb
-llit
-gateröf
-va noitartsnomed
-hco tseT
-.relger hco ragal ,kite
-dem
-,raöjs ,vah dem
-resruserrutan
-arots
-stenäl nårf rågtu
-hco renoitavonni alaicos
-rajmärf
-mos
-gateröf
-alaicos
-lliträD
-21
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+
+ringar mot hållbarhet kan Västra Götaland stärka sin posi-
+
+cirkulära affärsmodeller och energiförsörjning.
+
+möjliggör värdeskapande samarbeten mellan små och stora
+
+Satsa på innovationsmiljöer för att utveckla, skala
+
+tion globalt, öka den långsiktiga konkurrenskraften och
+
+företag, akademi och offentlig sektor. Nätverk är nyckeln
+
+upp och nyttiggöra lösningar i samverkan mellan
+
+bidrar till omställningen till ett fossiloberoende samhälle.
+
+• Hälsa och life science omfattar utveckling av läkemedel, både till företagens tillväxt och till att de ska stanna i Västra
+
+näringsliv, akademi och offentlig sektor.
+
+medicinteknik, välfärdsteknik och innovationer inom
+
+Götaland. Offentlig sektor behöver efterfråga och driva
+
+(cid:198) Delta i nationella och europeiska partnerskap för
+
+HELA DET DYNAMISKA SYSTEMET behövs, från stora kunskaps-
+
+hälso- och sjukvård med fokus på precisionshälsa och
+
+på satsningar för förnyelse och, tillsammans med privat
+
+erfarenhetsutbyte och uppväxling av regionala
+
+och exportintensiva företag, underleverantörer och tjänste-
+
+nyttiggörande av digitaliseringens möjligheter.
+
+sektor, attrahera kompetenser och kapital för utveckling.
+
+satsningar.
+
+företag till bredden av innovativa små och medelstora företag. • Livsmedelskedjan, skogliga och maritima näringar
+
+Innovationer måste kombinera teknik och affärsmodeller
+
+Därtill sociala företag som främjar sociala innovationer och
+
+utgår från länets stora naturresurser med hav, sjöar,
+
+med etik, lagar och regler. Test och demonstration av
+
+12
+
+REGIONAL UTVECKLINGSSTRATEGI
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 265 -->
 
-RAGNIRETIROIRP
+LÅNGSIKTIGA PRIORITERINGAR
 
-AGITKISGNÅL
-snetepmok
-aggyB
-ednaräl
-tgnålsvil
-hco
-gninjrösröfsnetepmok
-erttäb röf
-–
-hco paksnuk
-llit negnågllit
-akö
-tta
-mo raldnah
-snetepmok aggyb ttA
-ajlöflluf
-tta agnu hco nrab
-refl råf mos RESTASNI
-AGIDIT
--röf rarttäbröf
-hco tgitkiv rä alokseisanmyg
-hco aloksdnurg
-.salkcevtu
-annuk aks
-tellähmas
-tta
-röf ednarögva
-rä mos snetepmok
-tte åf hco
-nedankramstebra åp
-saredulkni tta anragninttästu
-aks gateröf
-hco roksinnäm
-tta
-röf
-nednurg
-rä
-etebra hco gnindlibtU
-agitkiv
-tgitkisgnål
-åp
-lepmexE
-agnu hco
-nrab refl rög mos restasni
-åskco svärk teD
-.vil ttog
-rarega
-hco
-räl
-iv tta revärk
-negninllätsmo
-alatigid
-hco anörg neD .axäv
-tta
-röf
-nedårmosnakrevmas
-.kitametam
-hco kinket ,paksnetevrutan
-va edaressertni
-va tevoheb
-räN
-.ragninttästuröf
-edardnä
-hco
-paksnuk yn nårfitu
-:snetepmok
-aggyb
-ednaräl
-tgnålsvil
-llit
-anretehgiljöm
-rilb sardnäröf
-tbbans snetepmok
-,tehrabllåh
-mos nedårmo
-moni SNETEPMOK VA
-TEVOHEB
-.eragitkiv tlla
-tgnålsvil
-hco
-gninllätsmosnetepmok
-ajmärF
+Bygga kompetens
+
+– för bättre kompetensförsörjning och livslångt lärande
+
+Att bygga kompetens handlar om att öka tillgången till kunskap och
+
+TIDIGA INSATSER som får fler barn och unga att fullfölja
+
+kompetens som är avgörande för att samhället ska kunna utvecklas.
+
+grundskola och gymnasieskola är viktigt och förbättrar för-
+
+Utbildning och arbete är grunden för att människor och företag ska
+
+utsättningarna att inkluderas på arbetsmarknaden och få ett
+
+växa. Den gröna och digitala omställningen kräver att vi lär och agerar
+
+gott liv. Det krävs också insatser som gör fler barn och unga
+
+Exempel på långsiktigt viktiga
+
+utifrån ny kunskap och ändrade förutsättningar. När behovet av
+
+intresserade av naturvetenskap, teknik och matematik.
+
+samverkansområden för att
+
+kompetens snabbt förändras blir möjligheterna till livslångt lärande
+
+bygga kompetens:
+
+allt viktigare.
+
+BEHOVET AV KOMPETENS inom områden som hållbarhet,
+
 (cid:198)
-kinket hco
-paksnetevrutan ,IA
-,tehrekäs hco retsnäjt
-alatigid
-snedankramstebra
-atöm
-tta röf
-ednaräl
-mo nesnerruknok
-aralk tta röF
-.rerotkes atsefl ed moni
-rakö
-edakö
-hco
-netfikskinket
-,voheb
-edardnäröf
-.tehrabllåh
-åp vark
-dnalatöG
-artsäV aleh revöheb
-tfarkstebra hco snetepmok
-avitavonni
-hco ayn
-llit mo alläts
-tta
-hco neditmarf
-i svöheb
--stebra sneditmarf atöm
-tta i ragninamtu
-ARELF
-SNNIF TED
--röf adog
-dem ,åp akrev hco
-ob tta stalp vitkartta
-ne arav
-IA hco
-negniresilatigid
-nak räH
-.eragitkiv
-tlla
-rilb
-ttässtebra
-giltneffo hco tavirp
-edåb
-moni
-negnilkcevtU
-.dankram
-nedankramstebra
-åp
-negninhctam
-arttäbröF
+
+digitala tjänster och säkerhet, AI, naturvetenskap och teknik
+
+Främja kompetensomställning och livslångt
+
+ökar inom de flesta sektorer. För att klara konkurrensen om
+
+lärande för att möta arbetsmarknadens
+
+utmaningar i att möta framtidens arbets-
+
+behövs i framtiden och att ställa om till nya och innovativa kompetens och arbetskraft behöver hela Västra Götaland
+
+förändrade behov, teknikskiften och ökade
+
+DET FINNS FLERA
+
+krav på hållbarhet.
+
+marknad. Utvecklingen inom både privat och offentlig
+
+arbetssätt blir allt viktigare. Här kan digitaliseringen och AI vara en attraktiv plats att bo och verka på, med goda för-
+
 (cid:198)
--anretni
-allåheb hco tome at
-,arehartta tta röf ragninttästu
-.eraröggiljöm
-arav
-dagårfretfe dem tfarkstebra
-dem tgilkcärllit
-rettästuröf
-rotkes
-hco
-dubtu
-nallem
-snalab
-erttäb
-ne röf
-revö nedankramstebra
-agdiv tta
-moneG .snetepmok
-llenoit
-rattyfl gateröf tta ilb netkeffe
-nak
-atted
-sankaS
-.snetepmok
-.nagårfretfe
-snammasllit
-iv nak resnärg allenoitan
-hco alanoiger
-,alakol
-snetepmok
-åp nagårfretfe
-hco
-DUBTU
-NALLEM
-NEGNINHCTAM
-nrotkes agiltneffo ned
-tta
-hco tednal
-ru tu
-tehmaskrev
-nis
-hco
-nrab
-refl
-åf tta
-röf
-restasni
-agidit
-aröG
+
+sektor förutsätter tillräckligt med arbetskraft med efterfrågad vara möjliggörare.
+
+utsättningar för att attrahera, ta emot och behålla interna-
+
+Förbättra matchningen på arbetsmarknaden
+
+kompetens. Saknas detta kan effekten bli att företag flyttar
+
+tionell kompetens. Genom att vidga arbetsmarknaden över
+
+för en bättre balans mellan utbud och
+
+sin verksamhet ut ur landet och att den offentliga sektorn
+
+och efterfrågan på kompetens
+
+lokala, regionala och nationella gränser kan vi tillsammans
+
+efterfrågan.
+
+MATCHNINGEN MELLAN UTBUD
+
 (cid:198)
-arttäbröf
-hco tfarksyl allenoitanretni
-segirevstsäV
-akräts
--andronasgnindlibtu
-nallem
-etebramas
-arän
-tte
-rettästuröf
--knufsllähmas agitkiv
-hco
-nedräfläv
-allåhttärppu
-nak etni
-kinket
-,paksnetevrutan
-va edaressertni
-agnu
-.negninllätsmo
-aralk tta anretehgiljöm
-va tedubtu
-tta tmas
-eradärteröfhcsnarb
-hco
-eravigstebra
-,er
-tta va voheb rah renoitasinagro
-hco
-gateröf
-adliksnE
-.renoit
-anamtu
-tta
-röf
-hco
-kitametam
-hco
--ttäbröf
-tta mo raldnah
-teD .erabbans
-sassapna
-ragnindlibtu
-giltnfieb adlibtu hco tfarkstebra
-darecfiilavk
-allätsnayn
-edåb
-hco
-ekry
-,gnindlibtu
-va lav
-apytoeretssnök
-.gninttäslessyssditirf
--nuk
-va gniredilav alkcevtu
-tta TGITKIV TED RÄ TGIDITMAS
-ardna
-ne hco ednaräl
-tgnålsvil
-tte
-röf anragninttästuröf
-ar
-.lanosrep
-döts tte
-mos ,adnälnayn dnalb
-tliksräs ,snetepmok
-hco paks
--epmok
-hco dnurgkabsgnindlibtu
-srav renosrep
-röf snahc
-snetfarkstebra
-aleh
-alkcevtu
-hco aravllit
-aT
+
+inte kan upprätthålla välfärden och viktiga samhällsfunk-
+
+förutsätter ett nära samarbete mellan utbildningsanordna-
+
+stärka Västsveriges internationella lyskraft och förbättra
+
+Göra tidiga insatser för att få ﬂer barn och
+
+tioner. Enskilda företag och organisationer har behov av att re, arbetsgivare och branschföreträdare samt att utbudet av
+
+möjligheterna att klara omställningen.
+
+unga intresserade av naturvetenskap, teknik
+
+både nyanställa kvalificerad arbetskraft och utbilda befintlig utbildningar anpassas snabbare. Det handlar om att förbätt-
+
+och matematik och för att utmana
+
+personal.
+
+ra förutsättningarna för ett livslångt lärande och en andra
+
+att utveckla validering av kun-
+
+könsstereotypa val av utbildning, yrke och
+
+SAMTIDIGT ÄR DET VIKTIGT
+
+fritidssysselsättning.
+
+chans för personer vars utbildningsbakgrund och kompe-
+
+skap och kompetens, särskilt bland nyanlända, som ett stöd
+
 (cid:198)
--stebra
-åp gis arelbate annuk
-aks erattäl roksinnäm
-tta
-röf
-.nedankramstebra
-åp
-nevark
-retöm
-etni snet
-,gniresilatigid va djlöf
-llit
-sardnäröf
-SNETEPMOK
-VA TEVOHEB
-arelbate
-tta
-refl
-röf attälrednu
-hco snetepmok
--ilstebra
-atavirp ted hco agiltneffo
-ted edåB .nedankram
-tmas reigolonket edarecnava
-ardna
-hco
-IA
-,gniresitamotua
-åf
-tta röf
-hco
-nedankramstebra
-åp gis
-.axäv
-tta roksinnäm
-at tta
-åp erttäb ilb hco gniretyrker
-nis adderb revöheb
-tev
--mok
-dem tksitametsys
-ATEBRA
-HCO
-AKREVMAS
-REVÖHEB
-IV
-ilb aks dnalatöG artsäV
-tta röF
-.tehrabllåh
-åp
-vark ergöh
-tta röf
-ragäv attih tmas tfarkstebra
-va nedlafgnåm
-aravllit
--stebra
-hco stellähmas
-,naksinnäm
-nårfitu
-gninjrösröfsnetep
-tta hco resnetepmok ayn
-svärk
-trälukric
-hco
-edneorebolissof
-.nevarksnetepmok
-retöm tu tlluf
-etni mos renosrep
-allätsna
-rennivsröf
-relle sardnäröf
-nekry
-assiv
-räN .voheb
-snedankram
-edakö hco tegäl aksitilopoeg
-teD
-.gninksrof
-yn
-röggittyn
-iv
-ne rah mos
-reppurg va gnirelbate
-röf svärk restasni
-adliksräS
-svöheb
-teD .adlibtu
-tta ttäs
-ayn svöheb
-redärtni
-ardna hco
--ebsnetepmok hco nedankramstebra
-rakrevåp
-tohstehrekäs
--döf sekirtu
-mosås nedankramstebra
-åp gnirknaröf
-eragavs
--sekry
-hco roloksgöh
-,tetisrevinu
-moni
-steps
-hco
-dderb edåb
-rehcsnarb aleh tta llit adel
-nak hco
-gninkcärtstu
-rots i nevoh
-apytoerets
-aksnim tta röf etebra
-tvitka moneG .ronnivk
-ad
-,roloksgöhklof
-div
-gnindlib llit
-tehgiljöm
-tmas
-ragnindlibtu
-akö satnävröf snetepmok
-åp nagårfretfE
-.tbbans
-samrofmo
--mäj
-hco kilmäj rem ne sapaks
-lavsekry hco -sgnindlibtu
-nak reidutseloksgöhkloF
-.tevilsgnineröf
-i hco
-dnubröfeiduts
-,noisnep i råg agnåm
-mos tgiditmas
-rerotkes
-arefl moni
-hco netetivitaerk
-rakö rut nis
-i tekliv dankramstebra
-dlläts
-llit adel
-nak eranes
-mos paksnuk
-llit
-resnahc
-ayn
-dem ardib
-redlåröfstebra i roksinnäm
-neledna
-hco
-ren
-råg
-nelatesledöf
-.netfarksnoitavonni
-.dangom
-gilksnäm
-hco
-gnindlib
-llit
-åskco
-nem ,bboj
-mos snetepmok nekliv
-agästuröf
-tta
-nagåmröF
-.raksnim
-31
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+
+BEHOVET AV KOMPETENS förändras till följd av digitalisering,
+
+tens inte möter kraven på arbetsmarknaden.
+
+för att människor lättare ska kunna etablera sig på arbets-
+
+Ta tillvara och utveckla hela arbetskraftens
+
+automatisering, AI och andra avancerade teknologier samt
+
+marknaden. Både det offentliga och det privata arbetsli-
+
+kompetens och underlätta för ﬂer att etablera
+
+högre krav på hållbarhet. För att Västra Götaland ska bli
+
+systematiskt med kom-
+
+vet behöver bredda sin rekrytering och bli bättre på att ta
+
+sig på arbetsmarknaden och för att få
+
+VI BEHÖVER SAMVERKA OCH ARBETA
+
+människor att växa.
+
+fossiloberoende och cirkulärt krävs nya kompetenser och att petensförsörjning utifrån människan, samhällets och arbets-
+
+tillvara mångfalden av arbetskraft samt hitta vägar för att
+
+vi nyttiggör ny forskning. Det geopolitiska läget och ökade marknadens behov. När vissa yrken förändras eller försvinner anställa personer som inte fullt ut möter kompetenskraven.
+
+säkerhetshot påverkar arbetsmarknaden och kompetensbe-
+
+och andra inträder behövs nya sätt att utbilda. Det behövs
+
+Särskilda insatser krävs för etablering av grupper som har en
+
+hoven i stor utsträckning och kan leda till att hela branscher både bredd och spets inom universitet, högskolor och yrkes-
+
+svagare förankring på arbetsmarknaden såsom utrikes föd-
+
+omformas snabbt. Efterfrågan på kompetens förväntas öka
+
+utbildningar samt möjlighet till bildning vid folkhögskolor,
+
+da kvinnor. Genom aktivt arbete för att minska stereotypa
+
+inom flera sektorer samtidigt som många går i pension,
+
+studieförbund och i föreningslivet. Folkhögskolestudier kan utbildnings- och yrkesval skapas en mer jämlik och jäm-
+
+födelsetalen går ner och andelen människor i arbetsförålder bidra med nya chanser till kunskap som senare kan leda till
+
+ställd arbetsmarknad vilket i sin tur ökar kreativiteten och
+
+minskar. Förmågan att förutsäga vilken kompetens som
+
+jobb, men också till bildning och mänsklig mognad.
+
+innovationskraften.
+
+REGIONAL UTVECKLINGSSTRATEGI 13
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 266 -->
 
-RAGNIRETIROIRP
+LÅNGSIKTIGA PRIORITERINGAR
 
-AGITKISGNÅL
-alaicos
-ajttyn ,noitamrofni
-va tedöfl
-åtsröf
-ttA
-.tenretni
-snammasllit tta
-röf
-gninttästuröf
-ne rä nedankramstebra
-nårf
-negniredulkni
-akÖ
--ednartty
-i nanräk rä agåmröf
-ksitirklläk
-ne
-ah
-hco
-reidem
-tta rög mos
-retsnöm
-ed atyrb hco anralksört
-aknäs annuk
-gninllåhnammas
-hco tillit tkräts
-röf–
-akräts
-tta mo nevä raldnah
-teD .netehirfsnoitamrofni
-hco
-sekirtu sivlepmexe
-snnfi
-med dnalB .sgnätsetu
-reppurg
-assiv
-akö
-tta röf tehginnuksnoitamrofni
-hco
--eidem
-sanranåvni
-ne eravigstebra
-atavirp
-hco agiltneffo rah
-räH
-.ronnivk addöf
-röf ragninttästuröf
-apaks
-tta mo raldnah
-negniredulkni
-akö
-ttA
-.noitamrofni
-ednadelesliv
-hco kslaf
-tom
-netfarksdnåtstom
-.llor gitkiv
--sllähmas
-i avitka
-arav annuk
-aks redividni alla
-tta hco tehgiröhmas
-llit tillit sroksinnäm
-akö
-tta mo åskco raldnah
-teD .vilstebra
-hco
-dem skräts etebra
-llit
-tehgiljöm hco TETILAVKSVIL
-SANRANÅVNI
-sagnu
-hco snrab akräts
-ttA .nitarkomed
-llit hco
-tellähmas
-llit ,ardnarav
--neröf ,rutluK .restalpsetöm
-hco krevtän
-alaicos
-llit negnågllit
-agitkiv tgitkisgnål
-åp lepmexE
-.nednurg
-rä retehgiljöm
-hco ragninttästuröf
-akö tta röf nedårmosnakrevmas
-,paksnemeg röf
-nednurg
-rapaks hco dem
-rä
-ttordi hco vilsgni
-:negniredulkni
-alaicos ned hco
-tellähmas
-alivic teD .tkamnege
-hco tehggyrt
--agne hco rogåmröf
-alleirönerpertne
-aravllit
-at nak nimonoke
-nege hco gnindlibtu
-llit tehgiljöm
-refl
-eG
+Öka inkluderingen
+
+från arbetsmarknaden är en förutsättning för att tillsammans internet. Att förstå flödet av information, nyttja sociala
+
+– för stärkt tillit och sammanhållning
+
+kunna sänka trösklarna och bryta de mönster som gör att
+
+medier och ha en källkritisk förmåga är kärnan i yttrande-
+
+vissa grupper utestängs. Bland dem finns exempelvis utrikes
+
+och informationsfriheten. Det handlar även om att stärka
+
+Att öka inkluderingen handlar om att skapa förutsättningar för
+
+födda kvinnor. Här har offentliga och privata arbetsgivare en invånarnas medie- och informationskunnighet för att öka
+
+samhörighet och att alla individer ska kunna vara aktiva i samhälls-
+
+viktig roll.
+
+motståndskraften mot falsk och vilseledande information.
+
+och arbetsliv. Det handlar också om att öka människors tillit till
+
+och möjlighet till arbete stärks med
+
+varandra, till samhället och till demokratin. Att stärka barns och ungas
+
+INVÅNARNAS LIVSKVALITET
+
+förutsättningar och möjligheter är grunden.
+
+tillgången till sociala nätverk och mötesplatser. Kultur, fören-
+
+Exempel på långsiktigt viktiga
+
+ingsliv och idrott är med och skapar grunden för gemenskap,
+
+samverkansområden för att öka
+
+trygghet och egenmakt. Det civila samhället och den sociala
+
+inkluderingen:
+
+ekonomin kan ta tillvara entreprenöriella förmågor och enga-
+
+VARJE MÄNNISKA SKA kunna använda sin fulla potential i ett
+
+och unga HBTQI-personer1, upplever psykisk ohälsa. Alltför gemang ur ett invånarperspektiv för utvecklingen av lokal-
+
+(cid:198) Ge ﬂer möjlighet till utbildning och egen
+
+jämlikt och sammanhållet Västra Götaland. Tilliten mellan
+
+många barn klarar inte skolan. Bland dem utmärker sig
+
+samhället, i miljö- och klimatfrågor eller för att lösa sociala
+
+försörjning genom utvecklad samverkan
+
+människor och till samhället i stort är grunden för en funge-
+
+pojkar, även om faktorer som socioekonomisk bakgrund eller utmaningar. Arbetsintegrerande sociala företag har en särskild
+
+mellan offentlig sektor, näringsliv,
+
+rande demokrati. Att vara delaktig i samhällsutvecklingen
+
+migrationsbakgrund också spelar in. Tidiga och förebyggande roll att kombinera företagande med socialt ansvar och vägar
+
+myndigheter och civila samhället.
+
+och kunna påverka beslut som rör levnadsförhållandena är
+
+insatser ger barn och unga goda förutsättningar att klara
+
+till sysselsättning.
+
+(cid:198) Utveckla arbetssätt som ökar invånarnas
+
+en mänsklig rättighet som samtidigt är central för hälsa, väl-
+
+grundskolan och gymnasiet, ökar motivationen och möjlig-
+
+delaktighet, engagemang och inﬂytande
+
+befinnande och individers egenmakt. Detta påverkar Västra
+
+heterna till en meningsfull och aktiv fritid. Det har stor bety-
+
+MÖTESPLATSER OCH DEN offentliga miljöns utformning har stor
+
+i samhällsutvecklingen.
+
+Götalands samlade utvecklingskraft och robusthet samt
+
+delse för möjligheten till framtida försörjning och en god
+
+betydelse för att motverka utanförskap. Tillgång till bostäder är
+
+(cid:198) Stärka barns och ungas möjligheter till en
+
+möjlighet att agera samlat i tider av omställning.
+
+hälsa. Barn och ungas egenmakt och framtidstro stärks när
+
+en välfärdsfråga och boendesegregationen behöver minska
+
+bra, jämställd och jämlik start i livet.
+
+de ges förutsättningar och möjlighet till delaktighet i frågor
+
+medan tillgången till offentlig och kommersiell service behöver
+
 (cid:198)
--lakol va negnilkcevtu
-röf vitkepsrepranåvni
-tte ru gnameg
-röftllA .asläho
-ksikysp revelppu
-,1renosrep-IQTBH
-agnu hco
-tte i laitnetop alluf
-nis adnävna annukAKS
-AKSINNÄM
-EJRAV
-nakrevmas dalkcevtu
-moneg
-gninjrösröf
-alaicos asöl tta
-röf
-relle
-rogårftamilk hco
--öjlim i ,tellähmas
-gis rekrämtu
-med dnalB
-.naloks etni
-raralk nrab agnåm
-nallem netilliT .dnalatöG
-artsäV tellåhnammas
-hco tkilmäj
-,vilsgnirän ,rotkes
-giltneffo
-nallem
-dliksräs ne rah gateröf
-alaicos ednarergetnistebrA
-.ragninamtu
-relle dnurgkab
-ksimonokeoicos
-mos rerotkaf
-mo nevä ,rakjop
--egnuf ne röf nednurg
-rä trots i tellähmas
-llit
-hco
-roksinnäm
-.tellähmas alivic
-hco retehgidnym
-ragäv hco ravsna
-tlaicos
-dem ednagateröf
-arenibmok tta
-llor
-ednaggyberöf
-hco agidiT .ni
-raleps åskco dnurgkabsnoitargim
-negnilkcevtusllähmas
-i gitkaled arav
-ttA
-.itarkomed
-ednar
-sanranåvni rakö mos
-ttässtebra
-alkcevtU
-(cid:198)
-.gninttäslessys
-llit
-aralk tta
-ragninttästuröf
-adog agnu hco
-nrab reg restasni
-rä anednallåhröfsdanvel
-rör mos tulseb
-akrevåp
-annuk
-hco
-ednatyflni hco gnamegagne
-,tehgitkaled
--giljöm hco
-nenoitavitom
-rakö ,teisanmyg
-hco naloksdnurg
--läv ,asläh röf lartnec
-rä tgiditmas mos
-tehgittär
-gilksnäm
-ne
-.negnilkcevtusllähmas
-i
-rots rah gninmroftu
-snöjlim
-agiltneffo NED
-HCO RESTALPSETÖM
--yteb rots rah
-teD .ditirf vitka
-hco llufsgninem
-ne llit anreteh
-artsäV rakrevåp atteD
-.tkamnege sredividni
-hco
-ednannfieb
-rä redätsob llit gnåglliT
-.paksröfnatu akrevtom
-tta röf esledyteb
-dog ne hco
-gninjrösröf
-aditmarf llit netehgiljöm
-röf esled
-tmas tehtsubor
-hco tfarksgnilkcevtu
-edalmas
-sdnalatöG
-ne llit retehgiljöm sagnu
-hco snrab
-akrätS
-(cid:198)
-.tevil i trats kilmäj
-hco dllätsmäj
-,arb
-aksnim revöheb
-nenoitagergesedneob
-hco
-agårfsdräfläv
-ne
-rän skräts
-ortsditmarf hco
-tkamnege sagnu
-hco nraB .asläh
-.gninllätsmo
-va redit i talmas
-arega
-tta tehgiljöm
-revöheb ecivres lleisremmok
-hco giltneffo
-llit
-negnågllit nadem
-rogårf i tehgitkaled
-llit tehgiljöm
-hco ragninttästuröf
-seg ed
-tellähmas alivic ted
-dem negolaid
-akrätS
-(cid:198)
-alkcevtu hco allåheb
-nak
-tro ne mO .tenäl
-va
-raled i sarttäbröf
-.med röreb mos
-netehgiljöM .aksnim
-etsåm ANROTFYLK
-AKSIMONOKEOICOS
-ED
-retehgiljöm snegniresilatigid
-ataravlliT
-(cid:198)
-mos negnilkcevtu
-lävås
-ted rannyg tedubtuecivres
-alakol
-ted
-,gnurpsru tmas rob nam
-rav va sakrevåp
-tevilsllähmas
-i atled
-tta
-ednagatled avitka sanranåvni
-akö
-tta
-röf
-sarevlovni eranåvni
-tta svärk räH .agiltneffo
-ted llit netillit
-tta röf gninttästuröf
-ne arab
-etni rä GNINDLIB
-HCO GNINDLIBTU
--ttäsdensnoitknuf aksikysp
-hco aksisyf
-,nök
-,redlå
-,gnindlibtu
-alatigid ted akrevtom
-tmas
-tellähmas
-i
-nallem nakrevmas
-i hco stalp nege
-nis
-va negnilkcevtu
-i
-tta tehgiljöm
-sredividni nevä
-rakö ted ,tsmokni
-hco etebra åf
-erröts tlla ne revelppu
-agnåM .rerotkaf
-ardna
-dar
-ne hco ragnin
-.tepaksröfnatu
-.tellähmas
-alivic hco
-vilsgnirän
-,nummok
-.negnilkcevtusllähmas
-llit
-ardib hco noitautissvil
-nis akrevåp
-,tehgilsttorb daresinagro
-,tehggyrto
-ksimonoke
-gnirk
-oro
-,netehirfednartty
-anräv
-hco
-ajmärF
-(cid:198)
-hco roloksgöhklof
-sivlepmexe
-dem negnindlibklof
-raleps räH
-tta svärk räH .tetilibatsni
-ksitilopoeg
-hco
-ragnirdnäröftamilk
-hco -eidem
-sanranåvni
-akräts
-,noitamrofni llit
-gnågllit
-sanranåvni REKRÄTS
-NEGNIRESILATIGID
-resnahc refl
-llit nevä rardib
-eD .llor gitkiv
-ne dnubröfeiduts
-tellähmas alivic hco
-retehgidnym ,vilsgnirän
-,rotkes
-giltneffo
-akö hco tehginnuksnoitamrofni
-.negnilkcevtusllähmas
-revö ednatyflni
-hco tehgitkaled
-tagdiv
-tte hco tevilstebra
-i ni ammok
-tta ,gnindlibtu llit
-räd ellähmas tggyrt
-hco tkilmäj tte
-mo
-ranräv
-snammasllit
-hco kslaf tom
-netfarksdnåtstom
-ergöh tlla i reks retehgidnym
-hco eranåvni
-nallem
-anretkatnoK
-.vilsllähmas
-hco -rutluk
-i ednagatled
-.ortsditmarf
-rah anranåvni
-.noitamrofni
-ednadelesliv
-raksnim mos
-restasni
-ammasnemeg svärk
-räH .tlatigid
-darg
-ragninttästuröf
-akilmäj
-rem alla reg hco
-paksröfnatu
-tlatigid
-röf esledyteb
-ednarögva
-ne rah GNINTTÄSLESSYS
-HCO ETEBRA
-hco nrab röf gnindlibtu
-hco asläh LLIT
-RETEHGILJÖM
-AKILMÄJ
-gnågllit rellätsrekäs
-iv
-tta åskco svärk teD
-.tellähmas
-i atled
-tta
-.tellähmas
-i tehgitkaled
-hco edneåmläv
-sroksinnäm
-hco tsubor tte i raledsdnåtseb
-ednaggäldnurg
-agitkiv
-rä agnu
-adnävna nak etni
-mos
-med
-röf nevä retsnäjtsllähmas
-alartnec
-llit
-tgnål råts mos
-med röf ravsna
-dem rerötka
-nallem nakrevmaS
-rokcifl tliksräs ,agnu
-hco nrab agnåM
-.dnalatöG
-artsäV teppö
-41
-IGETARTSSGNILKCEVTU
-LANOIGER
-.renosrepxesretni
-tmas retetitnedi
-hco kcyrttu areeuq dem renosrep
-,renosrepsnart ,alleuxesib
-,alleuxesomoh röf nmansgnilmas
-tte
-rä IQTBH
+
+DE SOCIOEKONOMISKA KLYFTORNA måste minska. Möjligheten
+
+som berör dem.
+
+förbättras i delar av länet. Om en ort kan behålla och utveckla
+
+Stärka dialogen med det civila samhället
+
+att delta i samhällslivet påverkas av var man bor samt ursprung,
+
+det lokala serviceutbudet gynnar det såväl utvecklingen som
+
+(cid:198) Tillvarata digitaliseringens möjligheter
+
+utbildning, ålder, kön, fysiska och psykiska funktionsnedsätt-
+
+UTBILDNING OCH BILDNING är inte bara en förutsättning för att
+
+tilliten till det offentliga. Här krävs att invånare involveras
+
+för att öka invånarnas aktiva deltagande
+
+ningar och en rad andra faktorer. Många upplever en allt större få arbete och inkomst, det ökar även individers möjlighet att
+
+i utvecklingen av sin egen plats och i samverkan mellan
+
+i samhället samt motverka det digitala
+
+oro kring ekonomisk otrygghet, organiserad brottslighet,
+
+påverka sin livssituation och bidra till samhällsutvecklingen.
+
+kommun, näringsliv och civila samhället.
+
+utanförskapet.
+
+klimatförändringar och geopolitisk instabilitet. Här krävs att
+
+Här spelar folkbildningen med exempelvis folkhögskolor och
+
+(cid:198) Främja och värna yttrandefriheten,
+
+offentlig sektor, näringsliv, myndigheter och civila samhället
+
+studieförbund en viktig roll. De bidrar även till fler chanser
+
+DIGITALISERINGEN STÄRKER invånarnas tillgång till information,
+
+stärka invånarnas medie- och
+
+tillsammans värnar om ett jämlikt och tryggt samhälle där
+
+till utbildning, att komma in i arbetslivet och ett vidgat
+
+delaktighet och inflytande över samhällsutvecklingen.
+
+informationskunnighet och öka
+
+invånarna har framtidstro.
+
+deltagande i kultur- och samhällsliv.
+
+Kontakterna mellan invånare och myndigheter sker i allt högre
+
+motståndskraften mot falsk och
+
+grad digitalt. Här krävs gemensamma insatser som minskar
+
+vilseledande information.
+
+JÄMLIKA MÖJLIGHETER TILL hälsa och utbildning för barn och
+
+ARBETE OCH SYSSELSÄTTNING har en avgörande betydelse för
+
+digitalt utanförskap och ger alla mer jämlika förutsättningar
+
+unga är viktiga grundläggande beståndsdelar i ett robust och
+
+människors välmående och delaktighet i samhället.
+
+att delta i samhället. Det krävs också att vi säkerställer tillgång
+
+öppet Västra Götaland. Många barn och unga, särskilt flickor Samverkan mellan aktörer med ansvar för dem som står långt till centrala samhällstjänster även för dem som inte kan använda
+
 1
-0302–1202
-DNALATÖG ARTSÄV
+
+HBTQI är ett samlingsnamn för homosexuella, bisexuella, transpersoner, personer med queera uttryck och identiteter samt intersexpersoner.
+
+REGIONAL UTVECKLINGSSTRATEGI 14
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 267 -->
 
-RAGNIRETIROIRP
+LÅNGSIKTIGA PRIORITERINGAR
 
-AGITKISGNÅL
--artsinimda hco aksisyf revö
-gis rekcärts gninssapnatamilk
-hco
-dnalatöG
-artsäV
-nammas atynK
-arav at ,aröggilnys tta tå sapläjh
-röfräd revöheb iV .resnärg
-avit
-agitkiv
-tgitkisgnål
-åp lepmexE
-tehgilgnägllit
-darttäbröf
-hco rabllåh röf –
-atynk
-tta röf nedårmosnakrevmas
-nallem rerutkurts hco
-dnabmas allenoitknuf akräts
-hco
-åp
-:dnalatöG
-artsäV nammas
-hco tllenoitan ,renoigernnarg
-dem ,tenäl moni ,anrenummok
--arfni latigid hco ksisyf va
-gnirenalpmas dakÖ .tllenoitanretni
-nallem
-netehrän
-akö tta mo
-raldnah
-dnalatöG
-artsäV
-nammas atynk ttA
-nerutkurtsarfni
-avitkeffetropsnart
-ned alkcevtU
+Knyta samman Västra Götaland
+
+och klimatanpassning sträcker sig över fysiska och administra-
+
+– för hållbar och förbättrad tillgänglighet
+
+tiva gränser. Vi behöver därför hjälpas åt att synliggöra, ta vara
+
+Exempel på långsiktigt viktiga
+
+på och stärka funktionella samband och strukturer mellan
+
+samverkansområden för att knyta
+
+Att knyta samman Västra Götaland handlar om att öka närheten mellan
+
+kommunerna, inom länet, med grannregioner, nationellt och
+
+samman Västra Götaland:
+
+internationellt. Ökad samplanering av fysisk och digital infra-
+
+olika delar av länet men även med grannregioner, övriga Sverige och andra
+
+struktur, etableringar, energi- och livsmedelsförsörjning,
+
+(cid:198) Utveckla den transporteffektiva infrastrukturen
+
+länder. Vi vill göra det möjligt för människor och företag att nå varandra
+
+bostadsförsörjning, kollektivtrafik, service, besöksmål och
+
+och öka andelen hållbara resor.
+
+och ha ett resurseffektivt utbyte med omvärlden. Ett sammanhållet Västra
+
+kulturutbud kan bidra till bättre resursutnyttjande och ökad
+
 (cid:198)
-,gninjrösröfsledemsvil
-hco -igrene ,ragnirelbate ,rutkurts
-ardna
-hco egirevS
-agirvö
-,renoigernnarg
-dem nevä
-nem
-tenäl va raled akilo
-.roser arabllåh
-neledna akö
-hco
-hco låmsköseb ,ecivres
-,kfiartvitkellok ,gninjrösröfsdatsob
-ardnarav
-ån
-tta
-gateröf
-hco
-roksinnäm
-röf tgiljöm
-ted arög lliv iV .rednäl
-dakö hco ednajttyntusruser
-erttäb llit ardib nak dubturutluk
-artsäV
-tellåhnammas
-ttE .nedlrävmo
-dem etybtu
-tvitkeffesruser
-tte ah hco
-tlibom
-hco
-tsaf va nedanggybtu
-attästroF
+
+Götaland utgår från både lokala och regionala perspektiv med invånarna i
+
+attraktivitet. Det bidrar även till mer jämlika villkor, minskad
+
+Fortsätta utbyggnaden av fast och mobilt
+
+fokus. En samordnad planering för fysisk och digital infrastruktur, transport,
+
+klimatpåverkan och stärkt biologisk mångfald.
+
+bredband i hela länet.
+
+hållbar markanvändning och bebyggelse behövs för att göra Västra
+
+(cid:198) Utveckla och tillämpa digitala tjänster som ökar
+
+Götaland robust och konkurrenskraftigt.
+
+SAMVERKAN INOM FYSISK PLANERING mellan lokal, regional och
+
+tillgängligheten till samhällsservice för alla.
+
+nationell nivå är avgörande för en hållbar markanvändning.
+
+(cid:198) Öka samverkan inom samhällsplanering för
+
+I den detaljerade planeringen måste vi hitta balansen mellan
+
+hållbar markanvändning, utifrån olika aktörers
+
+FÖRUTSÄTTNINGARNA FÖR ETT STARKT Västra Götaland ökar
+
+geografiska skillnader och behoven hos invånare och företag.
+
+samhällsutveckling och stärkt biologisk mångfald.
+
+olika roller och ansvar.
+
+genom att infrastrukturen utvecklas regionalt, nationellt och
+
+Sammanhängande livsmiljöer och utvecklade ekologiska korri-
+
+(cid:198) Stärka människors möjlighet att utveckla sin
+
+internationellt. Samverkan med grannregionerna och länder
+
+GENOM ATT TA TILLVARA DIGITALISERINGENS möjligheter, nya
+
+dorer ger olika arter möjlighet att förflytta sig i landskapet.
+
+egen livsmiljö.
+
+som Norge, Danmark och Tyskland är särskilt viktigt att värna tekniker, kombinationer av färdsätt, samt utveckling och
+
+Genom att designa samhällen som ger tillbaka mer än de tar,
+
 (cid:198)
-daksnim ,roklliv akilmäj
-rem llit nevä rardib teD .tetivitkartta
-i anranåvni
-dem
-vitkepsrep
-alanoiger
-hco alakol
-edåb
-nårf rågtu dnalatöG
-.tenäl
-aleh i dnabderb
-.dlafgnåm
-ksigoloib tkräts hco nakrevåptamilk
-,tropsnart
-,rutkurtsarfni
-latigid
-hco ksisyf
-röf gnirenalp
-dandromas nE .sukof
-rakö mos
-retsnäjt
-alatigid apmällit
-hco alkcevtU
-(cid:198)
-artsäV
-arög
-tta röf svöheb
-esleggybeb
-hco
-gnindnävnakram
-rabllåh
-.alla
-röf
-ecivressllähmas
-llit netehgilgnägllit
-hco lanoiger ,lakol nallem
-GNIRENALP KSISYF MONI NAKREVMAS
-.tgitfarksnerruknok
-hco tsubor dnalatöG
-röf gnirenalpsllähmas
-moni
-nakrevmas
-akÖ
-(cid:198)
-.gnindnävnakram rabllåh
-ne röf ednarögva rä åvin llenoitan
-srerötka
-akilo
-nårfitu ,gnindnävnakram
-rabllåh
-nallem nesnalab attih iv
-etsåm negnirenalp edarejlated
-ned
-I
-.ravsna
-hco rellor
-akilo
-.dlafgnåm ksigoloib
-tkräts hco gnilkcevtusllähmas
-.gateröf
-hco eranåvni
-soh
-nevoheb hco
-redanlliks
-aksfiargoeg
-rakö dnalatöG artsäV TKRATS
-TTE
-RÖF
-ANRAGNINTTÄSTURÖF
-nis alkcevtu
-tta tehgiljöm
-sroksinnäm akrätS
-(cid:198)
--irrok aksigoloke edalkcevtu
-hco reöjlimsvil ednagnähnammaS
-hco tllenoitan ,tlanoiger salkcevtu
-nerutkurtsarfni
-tta
-moneg
-.öjlimsvil
-nege
-.tepaksdnal i gis attyflröf
-tta tehgiljöm retra akilo reg
-rerod
-ayn
-,retehgiljöm
-SNEGNIRESILATIGID
-ARAVLLIT
-AT TTA MONEG
-rednäl hco anrenoigernnarg
-dem
-nakrevmaS
-.tllenoitanretni
-,rat ed nä rem akabllit reg
-mos nellähmas angised tta moneG
-hco
-gnilkcevtu
-tmas
-,ttäsdräf va
-renoitanibmok
-,rekinket
-anräv tta tgitkiv tliksräs rä dnalksyT
-hco
-kramnaD
-,egroN
-mos
-,tllenoitan
-etybtu
-hco tehrän
-dakö röf akrevmaS
-(cid:198)
-.rutan hco roksinnäm
-edåb röf edneåmläv apaks
-iv
-nak
-retropsnart
-arabllåh
-neledna
-nak ,ragninsöl
-atrams
-va gnindirps
-ednavigmo dem rutkurtstro
-sdnalatöG
-artsäV
-.alkcevtu
-hco
-.tllenoitanretni
-hco tksieporue
--nalpsllähmas
-i
-saretiroirp
-röb nekfiartvitkelloK
-.akö roser hco
--ttästuröf aksfiargoeg ed rögtu
-drågräks
-hco
-tsuk
-,redgybsdnal
-deM .retehgiljöm ayn ranppö
-TELLÄHMAS EDARESILATIGID
-TED
-tgiditmas
-nelib
-tometneg
-gitfarksnerruknok
-arav
-hco negnire
-hco edvökS ,såroB dem rutkurts
-aginräkrefl
-stenäL
-.anragnin
-ragnillivt alatigid ,atad redgnäm
-arots llit gnågllit ,IA va
-pläjh
-hco -gnåg
-neledna
-akö
-tta
-röf restasni
-edalmas
-svärk ted mos
--sgrobetöG dem tmas allaveddU–grobsrenäV–nattähllorT
-hco arelumis iv nak ”tenretni
-sanrekas” mos reigolonket
-hco
-.roserlekyc
-hco tsubor ne röf ragninttästuröf
-adog
-reg
-,van
-mos
-tedårmo
--renalpsllähmas raresivitkeffe
-mos reiranecs akilo aresilausiv
--snart tte hco reöjlimsvil avitkarttA
-.gnilkcevtu
-nellåhnammas
-kårtsrutkurtsarfni
-edaretiroirP
-.neditmarf
-röf tellähmas ratsur hco
-negni
-retehgiljöm
-ranppö
-DNABDERB
-TLIBOM
-HCO TSAF
-IRAGNIRETSEVNI
--mas llit rardib dnalatöG artsäV
-talppokppu
-hco
-tvitkeffetrop
-röf rutkurtsarfni
-stemetsystropsnart
-va ragniretiroirP
-tta dnalatöG
-artsäV
-va
-raled
-alla i gateröf
-hco
-eranåvni
-refl röf
--tamilk raksnim hco roser
-arabllåh
-rajmärf
-,gnilkcevtuslläh
-nalp llenoitan
-ne i rå edräjf
-trav reks dnalatöG
-artsäV
-röfräD .vil sroksinnäm rakrevåp
-NÖJLIMRÄN HCO NEGNINVIGMO
-va negniresilatigiD
-.snatsid
-åp hco stalp
-åp akrev
-hco avel ,ob
-.nakrevåpöjlim
-hco
-röf
-nalp
-lanoiger ne i
-hco temetsystropsnart
-röf
-ednaredulkni va negnilkcevtu
-arelumits agiltneffo ted revöheb
-gnindlibtu
-,dråv
-llit
-negnågllit
-arttäbröf
-nak retsnäjt
-agiltneffo
-anrenalp
-va gnirediveR
-.nerutkurtsarfnitropsnart
-rä teD .agitkaled gis rennäk
-hco svirt eranåvni räd ,reöjlimsvil
--giljöm
-stevilsgnirän
-akräts
-hco retsnäjtsllähmas
-ardna hco
-teD .metsystropsnart trabllåh
-tte
-i NEDNURG
-RÄ NEGÄVNRÄJ
-mos
-hco
-7302-6202 doirep
-ednammok
-röf
-rågåp
-iv neM .öjlimsvil datlatseg
-röf etebrasgnilkcevtu tte i nednurg
-voheb
-tråv ted
-raksnim
-tegatnammaS
-.gnilkcevtu
-röf reteh
-tta röf hco neteticapak akö
-tta
-röf
-ragniretsevni
-arots
-svärk
-i nenoigersdnalatöG
-artsäV
-rah tetebra
-röf
-dnurg
-ne marf
-tigat
-nednubröflanummok
-dem
-nakrevmas
-,ragninttästuröf aksfiargoeg
-akfiiceps arav llit at åskco revöheb
-ne apaks
-tta
-dem
-tetebra
-i led gitkiv
-ne rä
-tekliv
-aser tta va
-llit gäv nårf sattyfl annuk
-aks
-retropsnartnosrep
-hco
--sdog
-.nerutkurtsarfnitropsnart
-röf gnintkirni
-ksigetarts
-,eranåvni nallem etebramas
-moneg ,vrarutluk hco tetitnedistalp
-.tehgilgnägllit
-rabllåh
-ayn attih tta agåmröf masnemeg
-rettästuröf
-teD
-.gävnräj
-röf negnintkirniejliv
-agitkisgnål
-ned sröggildyt
-räH
-sånppu åD .nestalp åp
-nummok hco gateröf ,vilsgnineröf
-hco renummok stenäl ,netats
-tta hco
-ragninsölsgnireisnanfi
-.gnilkcevtu
-stemetsystropsnart
-llit negnågllit arttäbröf
-hco araveb nak åskco mos reigrenys
--sdog
-sivlepmexe
-moni
-RAGNINAMTU
-ALANOIGER
-AGITKISGNÅL
-.rutkurtsarfni i aretsevni rettästrof
-nenoigersdnalatöG
-artsäV
-.ecivres giltneffo hco lleisremmok
-gninjrösröfigrene
-,gnirenalpesleggybeb
-,tropsnartnosrep
-hco
-llit sassapna tgiditmas revöheb
-ednaser
-trabllåh
-röf
-restasnI
-51
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+
+och utveckla. Västra Götalands ortstruktur med omgivande
+
+spridning av smarta lösningar, kan andelen hållbara transporter kan vi skapa välmående för både människor och natur.
+
+Samverka för ökad närhet och utbyte nationellt,
+
+landsbygder, kust och skärgård utgör de geografiska förutsätt-
+
+och resor öka. Kollektivtrafiken bör prioriteras i samhällsplan-
+
+europeiskt och internationellt.
+
+ningarna. Länets flerkärniga struktur med Borås, Skövde och
+
+eringen och vara konkurrenskraftig gentemot bilen samtidigt
+
+DET DIGITALISERADE SAMHÄLLET öppnar nya möjligheter. Med
+
+Trollhättan–Vänersborg–Uddevalla samt med Göteborgs-
+
+som det krävs samlade insatser för att öka andelen gång- och
+
+hjälp av AI, tillgång till stora mängder data, digitala tvillingar
+
+området som nav, ger goda förutsättningar för en robust och
+
+cykelresor.
+
+och teknologier som ”sakernas internet” kan vi simulera och
+
+sammanhållen utveckling. Attraktiva livsmiljöer och ett trans-
+
+visualisera olika scenarier som effektiviserar samhällsplaner-
+
+Prioriterade infrastrukturstråk
+
+porteffektivt och uppkopplat Västra Götaland bidrar till sam-
+
+INVESTERINGAR I FAST OCH MOBILT BREDBAND öppnar möjligheter ingen och rustar samhället för framtiden.
+
+hällsutveckling, främjar hållbara resor och minskar klimat-
+
+för fler invånare och företag i alla delar av Västra Götaland att
+
+Prioriteringar av transportsystemets infrastruktur för
+
+och miljöpåverkan.
+
+bo, leva och verka på plats och på distans. Digitaliseringen av
+
+OMGIVNINGEN OCH NÄRMILJÖN påverkar människors liv. Därför
+
+Västra Götaland sker vart fjärde år i en nationell plan
+
+offentliga tjänster kan förbättra tillgången till vård, utbildning behöver det offentliga stimulera utvecklingen av inkluderande
+
+för transportsystemet och i en regional plan för
+
+JÄRNVÄGEN ÄR GRUNDEN i ett hållbart transportsystem. Det
+
+och andra samhällstjänster och stärka näringslivets möjlig-
+
+livsmiljöer, där invånare trivs och känner sig delaktiga. Det är
+
+transportinfrastrukturen. Revidering av planerna
+
+krävs stora investeringar för att öka kapaciteten och för att
+
+heter för utveckling. Sammantaget minskar det vårt behov
+
+grunden i ett utvecklingsarbete för gestaltad livsmiljö. Men vi
+
+pågår för kommande period 2026-2037 och som
+
+gods- och persontransporter ska kunna flyttas från väg till
+
+av att resa vilket är en viktig del i arbetet med att skapa en
+
+behöver också ta till vara specifika geografiska förutsättningar,
+
+grund för arbetet har Västra Götalandsregionen i
+
+samverkan med kommunalförbunden tagit fram en
+
+järnväg. Det förutsätter gemensam förmåga att hitta nya
+
+hållbar tillgänglighet.
+
+platsidentitet och kulturarv, genom samarbete mellan invånare,
+
+strategisk inriktning för transportinfrastrukturen.
+
+finansieringslösningar och att staten, länets kommuner och
+
+föreningsliv, företag och kommun på platsen. Då uppnås
+
+Här tydliggörs den långsiktiga viljeinriktningen för
+
+Västra Götalandsregionen fortsätter investera i infrastruktur.
+
+LÅNGSIKTIGA REGIONALA UTMANINGAR inom exempelvis gods-
+
+synergier som också kan bevara och förbättra tillgången till
+
+transportsystemets utveckling.
+
+Insatser för hållbart resande behöver samtidigt anpassas till
+
+och persontransport, bebyggelseplanering, energiförsörjning
+
+kommersiell och offentlig service.
+
+REGIONAL UTVECKLINGSSTRATEGI 15
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 268 -->
 
-snammaslliT
-iv
-ralmastfark
-ed
-aresukof
-revöheb
-tliksräs
-iv
-räd
-nedårmo
-ert
-tu
-rakep
-nigetarts
-–
-tetebrasgnilkcevtu
-andromas
-hco
-nakrevmas
-akräts
-tta
-åp
-nerå
-etsamrän
-.tkeffe
-erröts
-ån
-tta
-röf
-61
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+Tillsammans
+
+kraftsamlar vi
+
+– strategin pekar ut tre områden där vi särskilt behöver fokusera de
+
+närmaste åren på att stärka samverkan och samordna utvecklingsarbetet
+
+för att nå större effekt.
+
+REGIONAL UTVECKLINGSSTRATEGI 16
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 269 -->
 
-IV
-RALMASTFARK
+TILLSAMMANS KRAFTSAMLAR VI
 
-SNAMMASLLIT
-ert
-rellåhenni
-nigetartS
-gnilmastfark
-röf
-nedårmo 0302–6202
-ed
-snammasllit
-almastfark
-revöheb
-tliksräs
-iv räd
-nedårmo ert
-rellåhenni
-nigetartS
-snigetarts
-tom
-gnintkir
-i netkatsgninllätsmo
-arerelecca
-annuk
-tta röf
-nerå
-etsamrän
-hco
-teticapak
-lanoiger
-aggyb
-tta
-åp sukof
-artxe rah
-iv tta räbenni
-almastfark
-ttA
-.låm
-.etebrasgnilkcevtu
-tandromas
-hco
-nakrevmas
-lleirotkesrävt
-tkräts
-moneg
-gnindromas
-mos
-tfarkednaröfmoneg
-dakö
-ne
-ån tta
-telåm dem
-tid resruser
-iv ratkir
-snammaslliT
-hco
-voheb
-gnirk
-nysmas
-apaks
-tta
-rä negninttäslåM
-.gnilmastfark
-datulsva
-retfe
-råtseb
-.snammasllit
-atebra
-tta
-ttäs
-tksitametsys
-rem tte
-stalp åp åf hco
-gninttyflröf
-daksnö
-.doireptadnam
-rep
-gnåg
-ne voheb
-div sarediver
-hco revö
-ses anragnilmastfarK
-:röf 0302–6202
-iv ralmastfark
-snammaslliT
-gninllätsmo
-anörg
-snirtsudnI
-•
-agnu hco nrab
-atsursditmarF
-•
-gnirenalpsllähmas
-i nakrevmas
-moneg
-tehtsubor
-dakÖ
-•
-rav
-mos
-ragnilmastfark
-aksnevstsäv
-ed åp eradiv
-sivled reggyb
-hco
-rettäsre
-asseD
-hco
-gnirefiirtkelE
-,gniresilatigiD
-,reiduts
-adjlöflluF
-;5202–1202
-nigetarts
-i sukof
-i
-.relledomsräffa
-arälukriC
-71
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
-kraP
-ecneicS
-nemlohdniL
-DLIB|
+Strategin innehåller tre
+
+områden för kraftsamling
+
+2026–2030
+
+Strategin innehåller tre områden där vi särskilt behöver kraftsamla tillsammans de
+
+närmaste åren för att kunna accelerera omställningstakten i riktning mot strategins
+
+mål. Att kraftsamla innebär att vi har extra fokus på att bygga regional kapacitet och
+
+samordning genom stärkt tvärsektoriell samverkan och samordnat utvecklingsarbete.
+
+Tillsammans riktar vi resurser dit med målet att nå en ökad genomförandekraft som
+
+består efter avslutad kraftsamling. Målsättningen är att skapa samsyn kring behov och
+
+önskad förflyttning och få på plats ett mer systematiskt sätt att arbeta tillsammans.
+
+Kraftsamlingarna ses över och revideras vid behov en gång per mandatperiod.
+
+Tillsammans kraftsamlar vi 2026–2030 för:
+
+• Industrins gröna omställning
+
+• Framtidsrusta barn och unga
+
+• Ökad robusthet genom samverkan i samhällsplanering
+
+Dessa ersätter och bygger delvis vidare på de västsvenska kraftsamlingar som var
+
+i fokus i strategin 2021–2025; Fullföljda studier, Digitalisering, Elektrifiering och
+
+Cirkulära affärsmodeller.
+
+\|
+
+REGIONAL UTVECKLINGSSTRATEGI 17
+
+BILD Lindholmen Science Park
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 270 -->
 
-IV RALMASTFARK
+TILLSAMMANS KRAFTSAMLAR VI
 
-SNAMMASLLIT
-GNILMASTFARK
-GNILMASTFARK
-agnu
-hco
-nrab
-atsursditmarF
-gninllätsmo
-anörg
-snirtsudnI
-tmas ortsditmarf
-hco noitavitom
-,asläh kilmäj
-hco dog
--röf atsäb ed ah
-aks dnalatöG artsäV i AGNU
-HCO
-NRAB
--ric
-ne
-llit negninllätsmO
-.resruser
-snedroj va tegattu
--igerirtsudni
-atsröts segirevS RÄ
-DNALATÖG ARTSÄV
-alaicos ,ditirf
-llufsgninem
-röf
-ragninttästuröf
-apaks
--ögva rä tekliv
-,tevil i trats arb ne röf anragninttästu
-trabllåh
-tte ånppu
-tta röf
-ednarögva
-rä imonoke
-räluk
-nE .bbojirtsudni
-stednal va ledetmef
-ne dem
-no
-tta annäk aks
-agnU .naloks
-raralk
-refl tta
-hco
-krevtän
--revmas moneG
-.ellähmas hco dividni edåb
-röf
-ednar
-rälukric
-moni
-renoitavonnI
-.ellähmas ttirflissof
-hco
-edåb röf ednarögva
-rä irtsudnitropxe
-kirsgnågmarf
-nak hco åp
-edanssyl rilb ,tellähmas
-i agitkaled
-rä
-ed
-,tats ,noiger ,renummok
-mos rerötka akilo
-nallem
-nak
--lairetam
-eravitkeffe
-tmas gnilkcevtusräffa
-hco -tkudorp
--snerruknok
-hco
-imonoke segirevS
-hco segirevstsäV
-.tellähmas
-hco
-vil ttis edåb
-akrevåp
-resruser almas
-iv nak tellähmas alivic hco
-vilsgnirän
-aräjnil
-nårf ågrevö
-tta moneG
-.agidnävdön rä nedöfl
-röf gidnävdön
-rä
-gninllätsmo anörg
-snirtsudnI
-.tfark
-ajmärf tta röf edåb
-tgitkiv rä teD .agnu hco
-nrab
-gnirk
-mos
-retkudorp
-apaks hco
-,rojdekedräv arälukric
-llit
-,noitkudorp
-allåheb
-hco nakrevåptamilk
-aksnim
-tta
-reggäl gnindlib
-HCO GNILKCEVTUKÅRPS
-,EDNAJMÄRFSÄL
-noitareneg atsän
-eg tta röf hco edneåmläv
-snedividni
-tehmasnöl
-ånppu
-iv nak
-,dit
-revö edräv ttis rellåheb
-ttär mos rerotkaflekcyN
-.tenäl i bboj
-hco snetepmok
-va ednajmärF
-.tellähmas
-i tehgitkaled
-röf
-nednurg
-dem arav annuk
-aks ed tta röf svärk mos
-gytkrev
-ed
-adog
-rah dnalatöG
-artsäV
-.tehrabllåh gitkisgnål
-hco
-arälukric
-hco
-gninjrösröfle gilkcärllit
-,snetepmok
-nrab eg tta moskil
-,tgitkiv rä
-asläh
-hco tetivitka
-ksisyf
-hco nraB .ditmarf
-vitavonni hco rabllåh ne
-apaks
-hco
-.llor ednadel
-ne at tta ragninttästuröf
--llätsmo dem
-sakcyl tta röf alartnec
-rä rojdekedräv
-hco vilsgnineröf
-i atled tta
-retehgiljöm
-akil
-agnu hco
-.eradel hco
-resnetepmok snegadnogrom
-rä
-agnu
-hco resruser va
-gnindnävna
-vitkeffe
-ne ån hco negnin
-,ednarögva
-rä naloks aralk
-aks
-tkis åp refl
-ttA
-.rutluk
-aksnim hco
-rerotkafksirf akräts iv nak snammaslliT
-rehcsnarb
-hco
-del alla i snetepmok
-TTÄR LLIT GNÅGLLIT
-tta mo raldnah
-almastfark snammasllit
-ttA .lairetam
--giljömsgnindlibtu
-ayn seg
-aks
-revöheb
-mos
-ed hco
-hco rardlå
-alla i ,nök ttesvao ,nrab röf
-rerotkafksir
-.nedårmo
-agiltnfieb
-hco ayn
-moni edåb ,ednarögva
-rä
-hco rednih rejörnadnu
-hco rarefiitnedi
-tksitametsys
-iv
--dlibtunexuv
-relle aloksgöhklof
-aiv sivlepmexe
-,reteh
-.rammit alla stengyd
-rednu
-edåb
-revöheb
-anrenoitavonni
-hco nekinket ayn
-neD
-.gninllätsmo
-anned
-attälrednu tta
-röf nak iv tlla
-rög
-agnu edåb rannyg
-tevilstebra
-dem
-tkatnok
-gidiT
-.gnin
--limsgnindlibtu
-agitfarksnerruknok
-tllenoitanretni
--edräv agnu
-dav åtsröf revöheb
-mos ,eravigstebra
-hco
--åp hco akilmäjo
-rä agnu hco NRAB RÖF NEROKLLIVSVIL
-.noitartsnomed
-hco tset
-,gninksrof
-röf bbal hco
-reöj
-ksirotsih ne i ttim
-rä NROTKESTROPSNART
-HCO NIRTSUDNI
-erttäb ilb tgiditmas
-etsåm iV
-.vilstebra
-aditmarf
-i rettäs
-rexäv ed rav hco
-dnurgkab ksimonokeoicos
-va
-sakrev
-rahctam
-mos
-gnindlibtu
-va noitidart segirevstsäV
-tevoheb rakö tekliv
-,le llit nelsnärb alissof
-nårf gnågrevö
-rareksir mos
-nrab llit döts
-eg
-hco attih
-tgidit
-tta
-åp
--ebläv taksnim
-dem llåh lef tå råg negnilkcevtU
-.ppu
-mos
-agåmröf
-ne rä nedankramstebra
-åp nagårfretfe
-,marf ranergirtsudni
-ayn rexäv tgiditmaS
-.le irflissof
-va
-.tetilanimirk
-i anmah
-ttastrof ne hco
-asläho ksikysp dvelppu göh
-,ednannfi
-edardnäröf
-tbbans
-snirtsudni
-atöm tta röf sakräts
-aks
-tsadnE .gnirefiirtkele
-snimonoke va
-snevkesnok
-ne
-mos
-oro rennäk agnåM
-.naloks raralk etni mos
-ledna
-rots
--epmok
-röf tvitkartta
-rem
-egirevstsäV
-rög teD .voheb
--ol gadi sarecudorp
-gninkurbröfle stenäl
-va ledejdert
-ne
-aks restasni agitkisgnål
-hco RETFARK
-AMMASNEMEG
-DEM
-åp ralvivt tmas
-tegälsdlräv hco ragnirdnäröftamilk
-röf
-.ragniretsevni
-hco ragnirelbate
-aksigetarts hco
-snet
-noitkudorple irflissof
-yn röf gnirenalp
-revärk tekliv
-,tlak
-hco dnalatöG
-artsäV i agnu
-hco
-nrab atsursditmarf
-iv
-neD .negnilkcevtusllähmas
-akrevåp tta tehgiljöm
-nis
-.reirettab hco
-sagtäv
-moneg sivlepmexe
-,gnirgal
-tmas
-.vil
-ttog tte röf ragninttästuröf
-erttäb
-med
-eg
-edåb eg nak
-reidem alatigid va negnindnävna
-agöh
-ammasnnyg
-svärk
-negninllätsmo
-i netkat AKÖ TTA
-RÖF
-tevoheb mo
-tehgine
-derb ne redår
-dnalatöG artsäV
-I
-akrevåp åskco
-nem gnahnammas hco vitkepsrep
-ayn
-relgerleps
-agitkisgnål
-hco
-ragninttästuröf
-agilellähmas
-marf hWT 51
-tsnim
-dem noitkudorple
-stenäl akö
-tta
-.tvitagen
-nasläh
-gnirevlovni
-sanranåvnI
-.UE
-moni hco tllenoitan
-edåb
-resylanA .nedargsgninjrösröfvläjs
-akräts
-tta röf 0302
-llit
--sgnirdnäröf
-apaks
-döts ttär
-dem nak negninllätsmo
-i
-.0302 retfe nevä
-agits tta rettästrof
-tevoheble tta
-rasiv
-anmäjtu tta
-röf almastfark IV REVÖHEB SNAMMASLLIT
-giltneffo
-hco tevilsgnirän
-dem snammasllit
-tfark
-.sakrätsröf revöheb
-teticapaksnoitubirtsid
-snetänle
-nevÄ
--marf tta hco
-restasni agidit svärk teD .anredanlliks
-tenäl
-arög iv
-nak nakrevmas
-gillåhtu moneG .rotkes
-ajmärf revöheb
-iV .sdirps hco saled redotem
-akirsgnåg
-.räh
-atebra
-hco ob ,avel
-lliv mos ed röf tvitkartta
-tgissämöjlim
-edåb ilb aks NEGNINLLÄTSMO
-TTA
-RÖF
-arabllåho ted
-atyrb
-iv etsåm rabllåh
-tksimonoke
-hco
-81
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+KRAFTSAMLING
+
+KRAFTSAMLING
+
+Industrins gröna omställning
+
+Framtidsrusta barn och unga
+
+VÄSTRA GÖTALAND ÄR Sveriges största industriregi-
+
+uttaget av jordens resurser. Omställningen till en cir-
+
+BARN OCH UNGA i Västra Götaland ska ha de bästa för-
+
+god och jämlik hälsa, motivation och framtidstro samt
+
+on med en femtedel av landets industrijobb. En
+
+kulär ekonomi är avgörande för att uppnå ett hållbart
+
+utsättningarna för en bra start i livet, vilket är avgö-
+
+skapa förutsättningar för meningsfull fritid, sociala
+
+framgångsrik exportindustri är avgörande för både
+
+och fossilfritt samhälle. Innovationer inom cirkulär
+
+rande för både individ och samhälle. Genom samver-
+
+nätverk och att fler klarar skolan. Unga ska känna att
+
+Västsveriges och Sveriges ekonomi och konkurrens-
+
+produkt- och affärsutveckling samt effektivare material-
+
+kan mellan olika aktörer som kommuner, region, stat, de är delaktiga i samhället, blir lyssnade på och kan
+
+kraft. Industrins gröna omställning är nödvändig för
+
+flöden är nödvändiga. Genom att övergå från linjära
+
+näringsliv och civila samhället kan vi samla resurser
+
+påverka både sitt liv och samhället.
+
+att minska klimatpåverkan och behålla produktion,
+
+till cirkulära värdekedjor, och skapa produkter som
+
+kring barn och unga. Det är viktigt både för att främja
+
+kompetens och jobb i länet. Nyckelfaktorer som rätt
+
+behåller sitt värde över tid, kan vi uppnå lönsamhet
+
+individens välmående och för att ge nästa generation
+
+LÄSFRÄMJANDE, SPRÅKUTVECKLING OCH bildning lägger
+
+kompetens, tillräcklig elförsörjning och cirkulära
+
+och långsiktig hållbarhet. Västra Götaland har goda
+
+de verktyg som krävs för att de ska kunna vara med
+
+grunden för delaktighet i samhället. Främjande av
+
+värdekedjor är centrala för att lyckas med omställ-
+
+förutsättningar att ta en ledande roll.
+
+och skapa en hållbar och innovativ framtid. Barn och fysisk aktivitet och hälsa är viktigt, liksom att ge barn
+
+ningen och nå en effektiv användning av resurser och
+
+unga är morgondagens kompetenser och ledare.
+
+och unga lika möjligheter att delta i föreningsliv och
+
+material. Att tillsammans kraftsamla handlar om att
+
+TILLGÅNG TILL RÄTT kompetens i alla led och branscher
+
+Tillsammans kan vi stärka friskfaktorer och minska
+
+kultur. Att fler på sikt ska klara skolan är avgörande,
+
+vi systematiskt identifierar och undanröjer hinder och är avgörande, både inom nya och befintliga områden.
+
+riskfaktorer för barn, oavsett kön, i alla åldrar och
+
+och de som behöver ska ges nya utbildningsmöjlig-
+
+gör allt vi kan för att underlätta denna omställning.
+
+Den nya tekniken och innovationerna behöver både
+
+under dygnets alla timmar.
+
+heter, exempelvis via folkhögskola eller vuxenutbild-
+
+internationellt konkurrenskraftiga utbildningsmil-
+
+ning. Tidig kontakt med arbetslivet gynnar både unga
+
+INDUSTRIN OCH TRANSPORTSEKTORN är mitt i en historisk jöer och labb för forskning, test och demonstration.
+
+LIVSVILLKOREN FÖR BARN och unga är ojämlika och på-
+
+och arbetsgivare, som behöver förstå vad unga värde-
+
+övergång från fossila bränslen till el, vilket ökar behovet Västsveriges tradition av utbildning som matchar
+
+verkas av socioekonomisk bakgrund och var de växer
+
+sätter i framtida arbetsliv. Vi måste samtidigt bli bättre
+
+av fossilfri el. Samtidigt växer nya industrigrenar fram,
+
+efterfrågan på arbetsmarknaden är en förmåga som
+
+upp. Utvecklingen går åt fel håll med minskat välbe-
+
+på att tidigt hitta och ge stöd till barn som riskerar
+
+som en konsekvens av ekonomins elektrifiering. Endast ska stärkas för att möta industrins snabbt förändrade
+
+finnande, hög upplevd psykisk ohälsa och en fortsatt
+
+hamna i kriminalitet.
+
+en tredjedel av länets elförbrukning produceras idag lo- behov. Det gör Västsverige mer attraktivt för kompe-
+
+stor andel som inte klarar skolan. Många känner oro
+
+kalt, vilket kräver planering för ny fossilfri elproduktion tens och strategiska etableringar och investeringar.
+
+för klimatförändringar och världsläget samt tvivlar på
+
+MED GEMENSAMMA KRAFTER och långsiktiga insatser ska
+
+samt lagring, exempelvis genom vätgas och batterier.
+
+sin möjlighet att påverka samhällsutvecklingen. Den
+
+vi framtidsrusta barn och unga i Västra Götaland och
+
+I Västra Götaland råder en bred enighet om behovet
+
+FÖR ATT ÖKA takten i omställningen krävs gynnsamma
+
+höga användningen av digitala medier kan ge både
+
+ge dem bättre förutsättningar för ett gott liv.
+
+att öka länets elproduktion med minst 15 TWh fram
+
+samhälleliga förutsättningar och långsiktiga spelregler
+
+nya perspektiv och sammanhang men också påverka
+
+till 2030 för att stärka självförsörjningsgraden. Analyser både nationellt och inom EU. Invånarnas involvering
+
+hälsan negativt.
+
+visar att elbehovet fortsätter att stiga även efter 2030.
+
+i omställningen kan med rätt stöd skapa förändrings-
+
+Även elnätens distributionskapacitet behöver förstärkas. kraft tillsammans med näringslivet och offentlig
+
+TILLSAMMANS BEHÖVER VI kraftsamla för att utjämna
+
+sektor. Genom uthållig samverkan kan vi göra länet
+
+skillnaderna. Det krävs tidiga insatser och att fram-
+
+FÖR ATT OMSTÄLLNINGEN ska bli både miljömässigt
+
+attraktivt för de som vill leva, bo och arbeta här.
+
+gångsrika metoder delas och sprids. Vi behöver främja
+
+och ekonomiskt hållbar måste vi bryta det ohållbara
+
+REGIONAL UTVECKLINGSSTRATEGI 18
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 271 -->
 
-IV
-RALMASTFARK
+TILLSAMMANS KRAFTSAMLAR VI
 
-SNAMMASLLIT
-GNILMASTFARK
-gnirenalpsllähmas
-i
-nakrevmas
-moneg
-tehtsubor
-dakÖ
--tamilk
-rattöts
-mos
-galrednu
-mo
-aldnah
-NEVÄ
-NAK TED
-tterebröf
-hco tsubor
-arav
-REVÖHEB
-DNALATÖG
-ARTSÄV
-hco
-nedlafgnåm
-aksigoloib
-ned
-rekräts
-,gninssapna
--ilopoeg
-mos ragninamtu
-röfni
-råts iV .neditmarf
-röf
-.nettav
-hco
-goks
-,droj
-va
-gnindnävna
-vitkeffesruser
-va
-tsulröf
-,ragnirdnäröf
-aksfiargomed
-,tehrekäso
-ksit
-retehrabrås
-hco
-reksir
-röfdem
-tetamilk
-edardnäröf
-teD
-va anretkeffe
-avitagen
-ed hco
-dlafgnåm
-ksigoloib
-,åvinsvah
-djöh
-,akrot
-,rojlöbemräv
-sivlepmexe
-mos
-ednaregnuf
-läv ne svöheb
-röfräD
-.ragnirdnäröftamilk
-revöheb
-tgiditmaS
-.derks
-röf
-ksir
-hco ragninmävsrevö
-rä
-gnirenalp
-hco nakrevmas
-räd
-paksdereb
-masnemeg
-nak nedlafgnåm
-aksigoloib
-ned tta
-allätsrekäs
-iv
--nemeg
-marf
-at tta röf
-almastfark
-tta moneG
-.alartnec
-anräv
-tta moneg
-tamilk
-tgilrednäröf
-tte
-i gis
-assapna
-i galrednusgnirenalp
-hco reiranecs
-,resylana
-ammas
-.nedårmorutan
-ednagnähnammas
-stenäl
-akräts
-iv nak
-,redlibsditmarf
-hco -trak
-va mrof
-ned röf
-attälrednu
-hco
-paksdereb
-,tfarksgnilkcevtu
-llit
-adel aks
-gnirenalpmas
-dakö
-RÖF ALMASTFARK
-TTA
-hco
-renummok
-soh
-negnirenalp
-aksisyf
-edalmas
-rekräts ,tvitkeffe
-rem
-resruser
-aråv rednävna
-iv tta
-.rerötka
-ardna
-i
-nevä nagåmröfsgninssapna
-hco netfarksdnåtstom
-tetebra
-etsåm
-tgiditmaS
-.gnirdnäröf
-hco
-sirk
-va redit
-akilo
-sdnalatöG
-artsäV
-nårf ågtu
-tta MO RALDNAH
-TED
-hco
-adnäk
-edåb
-aretnah
-tta
-röf
-tetilibixefl
-va
-salgärp
--utkurts
-atsubor
-aggyb
-hco
-ragninttästuröf
-aksfiargoeg
--giljöm
-llit
-assed
-adnäv
-hco
-ragninamtu
-addesturöfo
-hco
-rellor
-akilo salla
-nårfitu
-remrofsnakrevmas
-hco rer
-negninllätsmo
-åp abbans
-iv nak
-snammaslliT
-.reteh
-,noiger
-,renummok
-lävås
-,negnirenalpsllähmas
-i ravsna
-tgitfarksnerruknok
-hco
-tsubor
-,tarkässditmarf
-tte llit
-.tellähmas
-alivic
-hco
-vilsgnirän
-mos retehgidnym
-.dnalatöG
-artsäV
-,reksir
-arefiitnedi
-,paksnuk
-aggyb
-iv nak snammaslliT
--kcevtu
-ednapirgrevö
-aröggildyt
-hco retehgiljöm
-atfyl
-hco
-eranåvni
-röf tkis
-gnål
-hco trok
-edåb åp
-vohebsgnil
--renys
-åp
-rasiv mos
-galrednu
-arav
-nak teD
-.vilsgnirän
--igrene
-edalmas
-ned
-röf
-rottyn ammasnemeg
-hco reig
-aksigetarts
-va gniresilakol
-,negninjrösröfsledemsvil
-hco
-tmas
-rutkurtsarfni
-latigid hco
-ksisyf ,ragnirelbate
-.ecivressllähmas
-hco
-etebra
-,reiduts
-llit tehgilgnägllit
-91
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+KRAFTSAMLING
+
+Ökad robusthet genom samverkan i samhällsplanering
+
+VÄSTRA GÖTALAND BEHÖVER vara robust och förberett
+
+DET KAN ÄVEN handla om underlag som stöttar klimat-
+
+för framtiden. Vi står inför utmaningar som geopoli-
+
+anpassning, stärker den biologiska mångfalden och
+
+tisk osäkerhet, demografiska förändringar, förlust av
+
+resurseffektiv användning av jord, skog och vatten.
+
+biologisk mångfald och de negativa effekterna av
+
+Det förändrade klimatet medför risker och sårbarheter
+
+klimatförändringar. Därför behövs en väl fungerande
+
+som exempelvis värmeböljor, torka, höjd havsnivå,
+
+gemensam beredskap där samverkan och planering är översvämningar och risk för skred. Samtidigt behöver
+
+centrala. Genom att kraftsamla för att ta fram gemen- vi säkerställa att den biologiska mångfalden kan
+
+samma analyser, scenarier och planeringsunderlag i
+
+anpassa sig i ett föränderligt klimat genom att värna
+
+form av kart- och framtidsbilder, kan vi stärka länets
+
+sammanhängande naturområden.
+
+utvecklingskraft, beredskap och underlätta för den
+
+samlade fysiska planeringen hos kommuner och
+
+ATT KRAFTSAMLA FÖR ökad samplanering ska leda till
+
+andra aktörer.
+
+att vi använder våra resurser mer effektivt, stärker
+
+motståndskraften och anpassningsförmågan även i
+
+DET HANDLAR OM att utgå från Västra Götalands olika
+
+tider av kris och förändring. Samtidigt måste arbetet
+
+geografiska förutsättningar och bygga robusta struktu- präglas av flexibilitet för att hantera både kända och
+
+rer och samverkansformer utifrån allas olika roller och oförutsedda utmaningar och vända dessa till möjlig-
+
+ansvar i samhällsplaneringen, såväl kommuner, region, heter. Tillsammans kan vi snabba på omställningen
+
+myndigheter som näringsliv och civila samhället.
+
+till ett framtidssäkrat, robust och konkurrenskraftigt
+
+Tillsammans kan vi bygga kunskap, identifiera risker, Västra Götaland.
+
+lyfta möjligheter och tydliggöra övergripande utveck-
+
+lingsbehov på både kort och lång sikt för invånare och
+
+näringsliv. Det kan vara underlag som visar på syner-
+
+gier och gemensamma nyttor för den samlade energi-
+
+och livsmedelsförsörjningen, lokalisering av strategiska
+
+etableringar, fysisk och digital infrastruktur samt
+
+tillgänglighet till studier, arbete och samhällsservice.
+
+REGIONAL UTVECKLINGSSTRATEGI 19
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 272 -->
 
-ednaröfmoneG
-paksnuk
-i
-tknupsgnågtu
+Genomförande
 
-dem
+– sker i dialog och samverkan, med utgångspunkt i kunskap
 
-,nakrevmas
+och lärande. Fyra vägledande principer utmanar och guidar oss.
 
-hco
-golaid
+REGIONAL UTVECKLINGSSTRATEGI 20
 
-i
-reks
-–
-.sso
-radiug
-hco
-ranamtu
-repicnirp
-ednadelgäv
-aryF
-.ednaräl
-hco
-02
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 273 -->
 
-EDNARÖFMONEG
-ednaröfmoneG
-nakrevmas
-hco
-golaid
-i –
-tte llit
-gninllätsmo
-röf
-gnintkir
-ammasnemeg
-råv
-tu
-rakep
-nigetartssgnilkcevtu
-alanoiger
-neD
-mos
-agnåm
-arav
-iv
-revöheb
-galsmoneg
-åf
-tta
-röF
-.ellähmas
-tgitfarksnerruknok
-hco
-trabllåh
-ednagofröf
-tråv
-llit
-resruser
-hco
-tadnam
-akilo
-alla
-rah
-iV
-.llåh
-ammas
-tå
-negnilkcevtu
-åp
-revird
-golaid
-tkräts
-moneg
-negninllätsmo
-i netkat
-akö
-iv
-nak
-snammaslliT
-.taled
-rä teravsna
-nem
-sso
-anamtu
-revöheb
-iV .ragninstas
-ammasnemeg
-hco
-gnamegagne
-tgillåhtu
-,nakrevmas
-hco
-hco
-eröf
-åg
-,agidom
-arav
-,vitkepsrep
-aråv
-agdiv
-,ttäs
-ayn
-åp
-atebramas
-hco
-atebra
-tta
-avläjs
-.edaksroftuo
-ted
-avorp
-agiltats
-ardna
-hco
-neslerytssnäl
-tmas
-nenoigersdnalatöG
--tu revird
-iV
-.gitkisgnål
-hco
-EDNAPIRGREVÖ
-RÄ NIGETARTS
-repaksnuk
-hco
-resruser
-,ravsna
-akilo
-rah
-iV
-.retehgidnym
-ragninamtu
-ed
-i tknupsgnågtu
-dem
-tåmarf
-negnilkcev
-röf hco
-nakrevmas
-råv
-röf
-nemrofttalp
-rä
-nigetarts
-hco
-snigetarts
-raretiroirp
-hco raresiterknok
-hco
-röfni
-råts
-iv
-.ednaröfmoneg
-tlluftfark
-tte
--snerevö
-hco
-renalpsgnildnah
-,reigetartsled
-i
-llåhenni
--trap
-hco
-nakrevmas
-vitka
-röggiljöm
-teD
-.reslemmok
-rakö
-tåmarf
-eslerör
-masnemeg
-NE RÖF
-ANRETEHGILJÖM
-.rerotkes
-revö
-hco nallem
-paksren
--tu
-dem
-hco
-repicnirp
-ednadelgäv
-aryf
-va döts
-dem
-ragninamtu
-ed
-mo ednaräl
-hco
-paksnuk
-i tknupsgnåg
-resruser
-aksimonoke
-hco allenosrep
-ATTÄSVA
-REVÖHEB
-IV
--masllit
-med
-atöm
-tta va
-raralk
-iv
-ruh
-tmas
-röfni
-råts iv
-nakrevmas
-åskco
-svärk
-teD
-.renalp
-hco rategdub
-aråv
-i
-nak iv
-mos
-nakrevmas
-hco
-golaid
-moneg
-rä teD
-.snam
--oitan
-,lanoiger
-,lakol
-åp negninryts
-pohi
-ralppok
-mos
-sgnäl
-råtsppu
-mos
-retkiflnoklåm
-alleutneve
-ed
-aretnah
-.åvin
-ksieporue
-hco llen
-tte
-åp
-gnilkcevtu
-vitisop
-ne
-rän lepmexe
-llit
-,negäv
-.tanna
-tte
-åp
-gnilkcevtu
-vitagen
-ne
-räbenni
-edårmo
-rä
-nigetarts
-va
-tednaröfmoneg
-llit RARDIB
-MOS
-IV
-gnindnävna
-dakö
-dem
-nenoitamrofsnart
-alatigid
-neD
-94
-stenäl
-,renoitasinagro
-ssed hco
-tevilsgnirän
-erabbans
-,ttässtebra
-ayn
-röf
-ranppö
-IA
-hco
-atad va
-imedaka
-,dnubröflanummok
-aryf hco
-renummok
-.ednattafstulseb
-hco
-gninryts
-eravitkeffe
-hco
-sylana
-artsäV
-,tellähmas
-alivic
-ted
-,tutitsnisgninksrof
-hco
-12
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+GENOMFÖRANDE
+
+Genomförande
+
+– i dialog och samverkan
+
+Den regionala utvecklingsstrategin pekar ut vår gemensamma riktning för omställning till ett
+
+hållbart och konkurrenskraftigt samhälle. För att få genomslag behöver vi vara många som
+
+driver på utvecklingen åt samma håll. Vi har alla olika mandat och resurser till vårt förfogande
+
+men ansvaret är delat. Tillsammans kan vi öka takten i omställningen genom stärkt dialog
+
+och samverkan, uthålligt engagemang och gemensamma satsningar. Vi behöver utmana oss
+
+själva att arbeta och samarbeta på nya sätt, vidga våra perspektiv, vara modiga, gå före och
+
+prova det outforskade.
+
+STRATEGIN ÄR ÖVERGRIPANDE och långsiktig. Vi driver ut- Götalandsregionen samt länsstyrelsen och andra statliga
+
+vecklingen framåt med utgångspunkt i de utmaningar
+
+myndigheter. Vi har olika ansvar, resurser och kunskaper
+
+vi står inför och konkretiserar och prioriterar strategins och strategin är plattformen för vår samverkan och för
+
+innehåll i delstrategier, handlingsplaner och överens-
+
+ett kraftfullt genomförande.
+
+kommelser. Det möjliggör aktiv samverkan och part-
+
+nerskap mellan och över sektorer.
+
+MÖJLIGHETERNA FÖR EN gemensam rörelse framåt ökar
+
+med stöd av fyra vägledande principer och med ut-
+
+VI BEHÖVER AVSÄTTA personella och ekonomiska resurser gångspunkt i kunskap och lärande om de utmaningar
+
+i våra budgetar och planer. Det krävs också samverkan vi står inför samt hur vi klarar av att möta dem tillsam-
+
+som kopplar ihop styrningen på lokal, regional, natio-
+
+mans. Det är genom dialog och samverkan som vi kan
+
+nell och europeisk nivå.
+
+hantera de eventuella målkonflikter som uppstår längs
+
+vägen, till exempel när en positiv utveckling på ett
+
+VI SOM BIDRAR till genomförandet av strategin är
+
+område innebär en negativ utveckling på ett annat.
+
+näringslivet och dess organisationer, länets 49
+
+Den digitala transformationen med ökad användning
+
+kommuner och fyra kommunalförbund, akademi
+
+av data och AI öppnar för nya arbetssätt, snabbare
+
+och forskningsinstitut, det civila samhället, Västra
+
+analys och effektivare styrning och beslutsfattande.
+
+REGIONAL UTVECKLINGSSTRATEGI 21
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 274 -->
 
-EDNARÖFMONEG
-hco
-golaid
-gilreunitnok
-dem
-nigetarts
-va
-tednaröfmoneg
-rarertsulli
-nedliB
-dem
-rakrevlexäv
-hco
-ralepsmas
-ednaräl
-hco
-paksnuK
-.murtnec
-i nakrevmas
-eD
-.gytkrev
-hco
-resruser
-akilo
-aråv
-va
-pläjh
-dem
-rög
-iv
-restasni
-ed
-.tednaröfmoneg
-i
-sso
-redelgäv
-sab
-snerugfi
-i
-anrepicnirp
-ednadelgäv
-ggoollaaiiDD
-gytkreV
-paksnuK
-resruser
-hco
-ednaräl
-hco
-nnaakkrreevvmmaaSS
-REPICNIRP
-EDNADELGÄV
-hco
-agidom
-alla
-rä
-iV
-röf
-raretnemirepxe
-iV
-sanranåvni
-rakö
-iV
-srestalp
-akilo
-aravllit
-rat
-iV
-.eradel
-edaretneirosgnirdnäröf
-hco
-ppu
-alaks
-,aräl
-tta
-.ednatyflni
-hco
-tehgitkaled
-.retehgiljöm
-hco
-ragninttästuröf
-.aretnemelpmi
-22
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+GENOMFÖRANDE
+
+Bilden illustrerar genomförandet av strategin med kontinuerlig dialog och
+
+samverkan i centrum. Kunskap och lärande samspelar och växelverkar med
+
+de insatser vi gör med hjälp av våra olika resurser och verktyg. De
+
+vägledande principerna i ﬁgurens bas vägleder oss i genomförandet.
+
+Kunskap
+
+DDiiaalloogg
+
+Verktyg
+
+och lärande
+
+SSaammvveerrkkaann
+
+och resurser
+
+VÄGLEDANDE PRINCIPER
+
+Vi tar tillvara olika platsers
+
+Vi ökar invånarnas
+
+Vi experimenterar för
+
+Vi är alla modiga och
+
+förutsättningar och möjligheter. delaktighet och inﬂytande.
+
+att lära, skala upp och
+
+förändringsorienterade ledare.
+
+implementera.
+
+REGIONAL UTVECKLINGSSTRATEGI 22
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 275 -->
 
-EDNARÖFMONEG
-repicnirp
-ednadelgäv
-aryF
-.nigetarts aröfmoneg
-tta
-röf
-nakrevmas
-hco
-golaid
-råv
-i sso
-adelgäv
-aks mos
-repicnirp
-aryf
-tu rakep
-nigetartS
-hco rareripsni
-ed
-tta moneg
-dnalatöG
-artsäV
-aleh
-i anretehgiljöm
-aravllit
-at tta
-sso apläjh
-aks
-anrepicnirP
-,netehgitkaled
-akö
-,nevitkepsrep
-agdiv
-tta
-llit
-ardib
-aks
-eD
-.ttäs ayn
-åp akrevmas
-hco atebra
-tta
-sso
-ranamtu
-tta ttäs tte nevä
-rä anrepicnirp
-ednadelgäv
-eD
-.edaksroftuo
-ted
-avorp
-agåv
-hco
-eröf åg
-tta sso
-artnumppu
-.tednaröfmoneg
-i 0302
-adnegA
-arergetni
-hco
-agidom
-rä iV
-raretnemirepxe
-iV
-akilo
-aravllit
-rat
-iV
-sanranåvni
-rakö
-iV
-edaretneirosgnirdnäröf
-ppu
-alaks
-,aräl
-tta röf
-ragninttästuröf
-srestalp
-ednatyflni
-hco
-tehgitkaled
-eradel
-aretnemelpmi
-hco
-retehgiljöm
-hco
-netkat
-akö
-tta
-röF
-.dom
-revärk
-ragnirdnäröf
-arotS
-hco aksisyf
-apaks
-hco
-aretnemirepxe
-tta
-moneG
-tgitkisgnål
-ilb aks tetebrasgnirdnäröf
-tta röF
-noitairav
-ne
-dem
-näl
-trots tte
-rä dnalatöG
-artsäV
-taled
-,paksradel
-tmasnemeg
-svärk
-negninllätsmo
-i
-ramrofttalpsnoitartsnomed
-hco -tset
-alatigid
-arav
-tta
-tehgiljöm
-ah anranåvni
-revöheb
-trabllåh
-akilo
-llit
-edalppok
-ragninamtu
-hco
-retehgiljöm
-va
-alla
-revöheb
-iV
-.nakrevmas
-ksigetarts
-hco
-ravsna
-röf
-tfarksnoitavonni
-hco
-ednaräl
-iv
-röggiljöm
--mas
-llit
-ardib
-annuk hco ednatyflni
-ah
-,agitkaled
-sat aks
-noitairav
-anneD
-.ragninttästuröf
-srestalp
-edaretneirosgnirdnäröf
-hco
-avitaerk
-,agidom
-arav
--otem
-,ttässtebra
-ayn
-moneG
-.gnilkcevtu
-rabllåh
-relläg
-tehgitkaled
-llit nettäR
-.negnilkcevtuslläh
-akilo
-röggilnys
-iv
-tta rettästuröf
-tekliv
-,aravllit
-aråvs
-i sso
-redelgäv
-mos
-ttässtebra
-alkcevtu
-hco
--kcevtu
-åp
-iv radnyks
-remrofsnakrevmas
-hco
-red
-tta
-tehgiljöm
-åf aks akliv
-,agnu
-hco
-nrab
-nevä
-llenoitknuf
-ne
-revöheb
-iV
-.gnilkcevtu
-va
-voheb
-,aröggilnys
-tta
-tå
-sapläjh
-revöheb
-iV .ragniretiroirp
-netkatsgnirdnäröf
-räd
-nedårmo
-moni
-negnil
-mos
-rogårf
-i ragninttästuröf
-ange
-anis
-retfe
-atled
--kitilop
-hco
-resnärg
-alleirotirret
-revö
-nakrevmas
-.retkiflnoklåm
-hco
-reigrenys
-aretnah
-hco
-aretuksid
-abbans
-hco
-adog
-attaf
-tta
-tevoheB
-.akö
-revöheb
-asläh
-sroksinnäm
-rajmärf gniredulknI
-.med
-röreb
-snammasllit
-iv
-rogårf
-ed nårf
-rågtu
-mos nedårmo
-hco
-agitfarksgnildnah
-arav
-tta
-va aralk
-revöheb
-iV
-tevoheb
-rakö tehrekäso
-erröts
-tlla rednu
-tulseb
-snammasllit
-rakrev iV .nitarkomed
-rekräts
-hco
-revöheb
-iv
-tta aräbenni
-nak teD
-.aretnah
-aks
-sukof
-,nysmaS
-.tetixelpmok
-dakö stort
-abbans
-rednu
-ressecorpstulseb
-aretnah
-tta ttäs
-akilo
-va
-tta
-tehgiljöm
-åf aks tgiljöm
-mos
-agnåm
-ås
-tta röf
-.resnärg
-avitartsinimda
-hco adnavni
-anamtu
-,tatluser
-agitkisgnål
-röf
-ralkcyn
-rä tehgillåhtu
-hco
-sakcylssim
-tta neksir
-at ttA
-.remrof
-edarellortnok
-anis
-arög
-hco
-nigetarts va
-tednaröfmoneg
-i atled
-akilo
-rah
-mos
-retro
-nallem
-nakrevmas
-moneG
-hco
-ardna
-llit tillit
-ah
-åskco
-revöheb
-iv
-nem
-aravllit
-at
-iv aks
-tgiditmaS
-.tednaräl
-va
-led ne
-rä
-llit
-ardib
-etebra tråv nak
-åd
-tsröF .adröh
-retsör
-edåb
-eks gnilkcevtu
-nak renoitknuf
-hco
-rokryts
-adnavni
-ted
-attäsagårfi
-tta
-dom ah
-,ardnarav
-iv raresilibom
-åD
-.arb
-raregnuf
-nader
-mos
-ted
-aks
-negni
-tta låm ednapirgrevö
-s:0302
-adnegA
-.tehleh
-mos
-dnalatöG
-artsäV
-i hco
-tlakol
-.edatnävo
-ted
-aretnah
-tta paksdereb
-hco
-ragninsöl
-arabllåh
-adirps
-hco
-agilkrevröf
-tta
-röf
-.röfnatu
-sanmäl
-tta
-llit rardib
-tfark
-ednaneröf
-mos
-tevilrutluK
-akö
-tta
-llit rardib
-mos
-restasni
-ppu
-alaks
-hco
-.resnärg
-revö
-aggyrb
-.netkatsgninllätsmo
-32
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+GENOMFÖRANDE
+
+Fyra vägledande principer
+
+Strategin pekar ut fyra principer som ska vägleda oss i vår dialog och samverkan för att genomföra strategin.
+
+Principerna ska hjälpa oss att ta tillvara möjligheterna i hela Västra Götaland genom att de inspirerar och
+
+utmanar oss att arbeta och samverka på nya sätt. De ska bidra till att vidga perspektiven, öka delaktigheten,
+
+uppmuntra oss att gå före och våga prova det outforskade. De vägledande principerna är även ett sätt att
+
+integrera Agenda 2030 i genomförandet.
+
+Vi tar tillvara olika
+
+Vi ökar invånarnas
+
+Vi experimenterar
+
+Vi är modiga och
+
+platsers förutsättningar
+
+delaktighet och inﬂytande
+
+för att lära, skala upp
+
+förändringsorienterade
+
+och möjligheter
+
+och implementera
+
+ledare
+
+Västra Götaland är ett stort län med en variation
+
+För att förändringsarbetet ska bli långsiktigt
+
+Genom att experimentera och skapa fysiska och
+
+Stora förändringar kräver mod. För att öka takten
+
+av möjligheter och utmaningar kopplade till olika
+
+hållbart behöver invånarna ha möjlighet att vara
+
+digitala test- och demonstrationsplattformar
+
+i omställningen krävs gemensamt ledarskap, delat
+
+platsers förutsättningar. Denna variation ska tas
+
+delaktiga, ha inflytande och kunna bidra till sam-
+
+möjliggör vi lärande och innovationskraft för
+
+ansvar och strategisk samverkan. Vi behöver alla
+
+tillvara, vilket förutsätter att vi synliggör olika
+
+hällsutvecklingen. Rätten till delaktighet gäller
+
+hållbar utveckling. Genom nya arbetssätt, meto-
+
+vara modiga, kreativa och förändringsorienterade
+
+behov av utveckling. Vi behöver en funktionell
+
+även barn och unga, vilka ska få möjlighet att
+
+der och samverkansformer skyndar vi på utveck-
+
+och utveckla arbetssätt som vägleder oss i svåra
+
+samverkan över territoriella gränser och politik-
+
+delta efter sina egna förutsättningar i frågor som
+
+lingen inom områden där förändringstakten
+
+prioriteringar. Vi behöver hjälpas åt att synliggöra,
+
+områden som utgår från de frågor vi tillsammans
+
+berör dem. Inkludering främjar människors hälsa
+
+behöver öka. Behovet att fatta goda och snabba
+
+diskutera och hantera synergier och målkonflikter.
+
+ska hantera. Det kan innebära att vi behöver
+
+och stärker demokratin. Vi verkar tillsammans
+
+beslut under allt större osäkerhet ökar behovet
+
+Vi behöver klara av att vara handlingskraftiga och
+
+utmana invanda och administrativa gränser.
+
+för att så många som möjligt ska få möjlighet att
+
+av olika sätt att hantera beslutsprocesser under
+
+snabba trots ökad komplexitet. Samsyn, fokus
+
+Genom samverkan mellan orter som har olika
+
+delta i genomförandet av strategin och göra sina
+
+kontrollerade former. Att ta risken att misslyckas
+
+och uthållighet är nycklar för långsiktiga resultat,
+
+styrkor och funktioner kan utveckling ske både
+
+röster hörda. Först då kan vårt arbete bidra till
+
+är en del av lärandet. Samtidigt ska vi ta tillvara
+
+men vi behöver också ha tillit till andra och
+
+lokalt och i Västra Götaland som helhet.
+
+Agenda 2030:s övergripande mål att ingen ska
+
+det som redan fungerar bra. Då mobiliserar vi
+
+varandra, ha mod att ifrågasätta det invanda
+
+Kulturlivet som förenande kraft bidrar till att
+
+lämnas utanför.
+
+för att förverkliga och sprida hållbara lösningar
+
+och beredskap att hantera det oväntade.
+
+brygga över gränser.
+
+och skala upp insatser som bidrar till att öka
+
+omställningstakten.
+
+REGIONAL UTVECKLINGSSTRATEGI 23
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 276 -->
 
-ednaräl
+GENOMFÖRANDE
 
-hco
+Kunskap och lärande
 
-paksnuK
+STRATEGIN SKA GENOMFÖRAS utifrån aktuell och uppda-
 
-EDNARÖFMONEG
-hco anragniretiroirp
-agitkisgnål
-ed ,låm
-snigetarts
-llit
--adppu
-hco lleutka nårfitu
-SARÖFMONEG
-AKS NIGETARTS
-hco ajlöf
-tta moneg
-reks teD .anragnilmastfark
-moni
--tu
-sdnalatöG artsäV va
-sylana
-hco mo paksnuk
-daret
--akidni ednapirgrevö
-latna tte va
-negnilkcevtu
-avirkseb
--näröf
-ne i rokryts hco ragninamtu
-stenäl tmas
-gnilkcev
-ed i gnilkcevtu
-sdnalatöG
-artsäV
-llit raretaler
-mos rerot
-gniredrävtu
-hco gninjlöfppu
-,paksnuK .dlrävmo
-gilred
-gissämöjlim
-hco laicos
-,ksimonoke
-va anrenoisnemid
-ert
--svoheb
-hco ednaräl tmasnemeg
-röf galrednu
-rapaks
-sdnävna
-mos anrerotakidni
-va neledduvuH
-.tehrabllåh
-dem
-dit ne I .tåmarf tetebra
-i
-ragniretiroirp edarevitom
-hco renummoK
-segirevS
-mos latlekcyn
-ed
-nårf
-remmok
-ppolmo
-i noitamrofni
-kslaf
-hco ednadelesliv
-remtlla
--jlöfppu
-va led ne
-mos tllätsnammas
-)RKS(
-renoigeR
-tetebrasgnilkcevtu
-tta anräv
-tta tgitkiv tliksräs
-ted rilb
-.åvin lanoiger
-hco lanummok
-åp 0302
-adnegA
-va negnin
-.gninksrof hco
-paksnuk
-darelbate åp
-reggyb
--tadnam
-ejrav gnåg
-ne tsnim REVÖ
-SES
-AKS
-NIGETARTS
-tbbans
-ruh rasiv RESIRK ERAGIDIT
-NÅRF ANRETEHNERAFRE
-rah 5202–4202
-sröfmoneg mos
-nenysrevö
-I .doirep
--nfi
-ted etsåm röfräD .sardnäröf
-nak anragninttästuröf
-nedoirep
-röf ragnilmastfark
-alleirotkesrävt
-snigetarts
-edatsur
-erttäb iv rä snammaslliT
-.paksdereb derb
-ne san
-tta tsaf
-råls anragniredrävtU
-.staredrävtu
-5202–1202
-allenoitanretni
-arots va anredjlöf
-alanoiger ed aretnah
-tta
-:tta
-llit rardib ragnilmastfark
-snigetarts
-,retkiflnok
-aksitilopoeg
-,reimednap
-sivlepmexe
-,resirk
-tta moneg
-gnindromas
-hco teticapak
-lanoiger
-aggyb
-•
-hco
-dlafgnåm ksigoloib
-va tsulröf
-,ragnirdnäröftamilk
-ednattäsadnega
-aregnuf hco
-rerötka
-aresilibom
-arergetni
-tta moneG .gninjrösröfsledemsvil
-hco
--igrene
-nakrevmas hco
-gnindromas
-akö
-•
--naröfmoneg
-i sylanasdlrävmo
-hco -ksir gilreunitnok
-ne
-nepaksdereb
-ammasnemeg
-ned
-iv rakö nigetarts
-va ted
-aterknok
-aröggiljöm
-hco paksnuk
-akö ,resruser
-atkir
-•
-.restasni
-adnäko
-hco adnäk edåb
-röfni
-nagåmröfsgnildnah
-hco
-agidom
-arav tta sso repläjh
-teD
-.retehgiljöm hco
-reksir
-golaid ttastrof
-svöheb
-ednaräl tmasnemeg
-tte
-ÅF TTA
-RÖF
-.eradel
-edaretneirosgnirdnäröf
-hco
--röfmoneg
-hco tatluser
-raretuksid
-snammasllit
-iv tta
-hco
-nak anresruser
-edalmas
-ed tta llit rut
-nis i rardib
-teD .edna
-artsäV
-raretneserp tenäl
-i NEGNILKCEVTU
-AJLÖF
-TTA RÖF
-.rakep nigetarts
-gnintkir
-ned i ttäs
-tvitkeffe
-tte
-åp sajttyn
-åp atk
-af hco kitsitats tgilreunitnok
-nenoigersdnalatöG
--ilbup
-avitkaretni i åvin
-lanummok
-hco lanoiger
-edåb
-galrednuspaksnuk
-hco gninjlöfppU
--etiroirp
-hco låm snigetarts
-llit
-gnilppok dem
-renoitak
-ted
-nevä rah nenoigersdnalatöG
-artsäV .nedårmo
-edar
-tta röf
-raravsna nenoigersdnalatöG
-artsäV
-gniredrävtu
-hco gninjlöfppu
-röf teravsna ednapirgrevö
-dem
-tetebra ppu
-ajlöf hco aredrävtu
-tgilreunitnok
-,paksnuK
-.nigetartssgnilkcevtu
-alanoiger
-ned
-rötka evitkepseR .nigetartssgnilkcevtu
-alanoiger
-va
-tte röf
-galrednu
-rapaks gniredrävtu
-hco
-gninjlöfppu
-hco
-tvitka ttE .restasni
-anis
-ppu ajlöf tta röf
-raravsna
-edarevitomsvoheb
-hco
-ednaräl
-tmasnemeg
-tksigetarts
-tte apaks tta
-röf
-svärk etebra tksitametsys
-alanoiger
-edalmas
-ted i tåmarf tetebra
-i ragniretiroirp
-.srög
-mos ragniredrävtu hco
-ragninjlöfppu
-ed va
-ednaräl
-gniredrävtu
-,gninjlöfppu
-va led aT
-.tetebrasgnilkcevtu
-0302gv/es.noigergv.www
-:åp galrednuspaksnuk
-hco
-va gninjlöfppu
-gilrå ne rög
-NENOIGERSDNALATÖG
-ARTSÄV
-ardib
-tta röf sröfmoneg
-mos
-restasni ammasnemeg
-ed
-42
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+till strategins mål, de långsiktiga prioriteringarna och
+
+terad kunskap om och analys av Västra Götalands ut-
+
+inom kraftsamlingarna. Det sker genom att följa och
+
+veckling samt länets utmaningar och styrkor i en förän- beskriva utvecklingen av ett antal övergripande indika-
+
+derlig omvärld. Kunskap, uppföljning och utvärdering torer som relaterar till Västra Götalands utveckling i de
+
+skapar underlag för gemensamt lärande och behovs-
+
+tre dimensionerna av ekonomisk, social och miljömässig
+
+motiverade prioriteringar i arbetet framåt. I en tid med hållbarhet. Huvuddelen av indikatorerna som används
+
+alltmer vilseledande och falsk information i omlopp
+
+kommer från de nyckeltal som Sveriges Kommuner och
+
+blir det särskilt viktigt att värna att utvecklingsarbetet
+
+Regioner (SKR) sammanställt som en del av uppfölj-
+
+bygger på etablerad kunskap och forskning.
+
+ningen av Agenda 2030 på kommunal och regional nivå.
+
+ERFARENHETERNA FRÅN TIDIGARE KRISER visar hur snabbt
+
+STRATEGIN SKA SES ÖVER minst en gång varje mandat-
+
+förutsättningarna kan förändras. Därför måste det fin-
+
+period. I översynen som genomförs 2024–2025 har
+
+nas en bred beredskap. Tillsammans är vi bättre rustade strategins tvärsektoriella kraftsamlingar för perioden
+
+att hantera de regionala följderna av stora internationella 2021–2025 utvärderats. Utvärderingarna slår fast att
+
+kriser, exempelvis pandemier, geopolitiska konflikter,
+
+strategins kraftsamlingar bidrar till att:
+
+klimatförändringar, förlust av biologisk mångfald och
+
+• bygga regional kapacitet och samordning genom att
+
+energi- och livsmedelsförsörjning. Genom att integrera
+
+mobilisera aktörer och fungera agendasättande
+
+en kontinuerlig risk- och omvärldsanalys i genomföran- • öka samordning och samverkan
+
+det av strategin ökar vi den gemensamma beredskapen • rikta resurser, öka kunskap och möjliggöra konkreta
+
+och handlingsförmågan inför både kända och okända
+
+insatser.
+
+risker och möjligheter. Det hjälper oss att vara modiga
+
+och förändringsorienterade ledare.
+
+FÖR ATT FÅ ett gemensamt lärande behövs fortsatt dialog
+
+och att vi tillsammans diskuterar resultat och genomför-
+
+FÖR ATT FÖLJA UTVECKLINGEN i länet presenterar Västra
+
+ande. Det bidrar i sin tur till att de samlade resurserna kan
+
+Götalandsregionen kontinuerligt statistik och fa kta på nyttjas på ett effektivt sätt i den riktning strategin pekar.
+
+både regional och kommunal nivå i interaktiva publi-
+
+kationer med koppling till strategins mål och priorite-
+
+Uppföljning och kunskapsunderlag
+
+rade områden. Västra Götalandsregionen har även det
+
+Västra Götalandsregionen ansvarar för att
+
+övergripande ansvaret för uppföljning och utvärdering
+
+kontinuerligt utvärdera och följa upp arbetet med
+
+av regionala utvecklingsstrategin. Respektive aktör
+
+den regionala utvecklingsstrategin. Kunskap,
+
+ansvarar för att följa upp sina insatser. Ett aktivt och
+
+uppföljning och utvärdering skapar underlag för ett
+
+systematiskt arbete krävs för att skapa ett strategiskt
+
+gemensamt lärande och behovsmotiverade
+
+lärande av de uppföljningar och utvärderingar som görs.
+
+prioriteringar i arbetet framåt i det samlade regionala
+
+utvecklingsarbetet. Ta del av uppföljning, utvärdering
+
+gör en årlig uppföljning av
+
+och kunskapsunderlag på: www.vgregion.se/vg2030
+
+VÄSTRA GÖTALANDSREGIONEN
+
+de gemensamma insatser som genomförs för att bidra
+
+24
+
+REGIONAL UTVECKLINGSSTRATEGI
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 277 -->
 
-EDNARÖFMONEG
-resruser
-hco
-gytkreV
-,lanoiger
-,lakol nallem
-nakrevmas
-röf hco
-rerotkes hco
-snetepmok
-dem
-åtsib
-hco
-ravsna
-annäk ALLA REVÖHEB
-IV
-artsäV
-.åvin llenoitanretni
-hco ksieporue
-,llenoitan
-snigetarts
-i negninllätsmo
-åp avird tta röf resruser
-hco
-räd ronera
-aregnarra
-tta röf
-raravsna nenoigersdnalatöG
-ednaröfmoneg
-snigetarts
-tta trävksnö rä teD .gnintkir
-paksnuk
-aled ,anresnärgsrötka
-revö latmas
-i satöm nak
-iv
--kodryts
-hco
-låm
-eiranidro
-evitkepser aråv i sarergetni
-aresiterknok
-hco alkcevtueradiv
-tmas retehnerafre
-hco
-i salgepsva
-ragniretiroirp
-snigetarts tta tmas tnemu
-.ardnarav
-eramrän
-atebra
-revöheb iv räd
-nedårmo
-ed
-.resruser
-aksimonoke
-hco
-allenosrep va negninledröf
-tte rä dnalatöG
-artsäV
-ditmarF
-nesnerefnok
-agilrå neD
--stas
-alanoiger
-ppu
-alxäv
-tta röf iv rakrev snammaslliT
-.anera nadås
-ne åp lepmexe
-llenoitan
-nårf
-gnireisnanfi
-arehartta tta moneg ragnin
-.dnalatöG
-artsäV llit åvin-UE
-hco
-daksnö
-hco voheb gnirk
-nysmas
-apaks NEVÄ
-REVÖHEB
-IV
-mos
-gnilmastfark
-röf nedårmo
-ed moni
-gninttyflröf
--lepmexe
-i llåhenni
-snigetarts
-ARESITERKNOK REVÖHEB
-IV
-tksitametsys
-rem tte
-stalp
-åp åf hco raresserda
-nigetarts
--moksnerevö
-hco
-renalpsgnildnah
-,reigetartsrednu
-siv
-aksisyf
-hco alatigid
-ayN
-.snammasllit
-atebra tta ttäs
-edaretiroirp
-gnirk
-salmas
-sso repläjh mos reslem
-ardna
-dem nakrevmas
-hco
-salkcevtu röb
-restalpsetöm
-rattöts
-igetartssnoitakinummok
-masnemeg nE .restasni
-arefl
-moni tgitkiv
-rä renoiger
-aksieporue
-hco aksnevs
--dnahmas
-,golaid
-rattälrednu
-hco tednaröfmoneg
-i sso
-resnärg
-avitartsinimda
-revö
-nakrevmas nevÄ
-.nedårmo
-.gnindirpsspaksnuk hco
-gnil
-nallem ,tenäl
-va raled
-akilo i salkcevtu
-revöheb
-ragninamtu
-raled
-mos
-renummok akilo
-sivlepmexe
-rä nigetarts
-aröfmoneg
-tta röf GYTKREV ÅP LEPMEXE
-.ragninttästuröf
-hco
--lemmoksnerevö
-akilo
-,netebramas
-ayn hco agiltnfieb
-llenoitan
-åp
-etebrasnakrevåp
-tmasnemeg tte hco
-res
--ummok
-,renummok
-nallem
-NAKREVMAS
-DALKCEVTU
-NE
--llåh
-hco snoitavonni
-ne
-moneG .åvin ksieporue
-hco
-tte rattafmo
-teD .ednarögva
-rä noiger hco
-dnubröflan
-atkir
-tta ted råg
-gnildnahppu
-giltneffo datkirnistehrab
-lanoiger
-nallem latmas
-aksitilop
-röf lujhsrå
-tmasnemeg
-moneg
-negninllätsmo
-rejdöts
-mos resruser ednadyteb
-gninjlöfppu
-,restasni
-mo
-golaid ,åvin lanummok
-hco
-hco retkudorp
-,gytkrev
-alatigid ,renoitavonni
-ayn
--tkir snigetarts
-i tåmarf
-ragniretiroirp
-tmas
-ednaräl hco
-.retsnäjt
-llit sattäsva
-aks ledem
-alanoiger
-hco alanummoK
-.gnin
-nallem
-reslemmoksnerevö
-moneg
-anrenoigerled
-i restasni
-gninllätsmo
-röf
-ramrofttalpsnakrevmaS
-nednubröflanummok
-hco
-nenoigersdnalatöG
-artsäV
-agitkiv
-rä ramrofttalpsnakrevmas
-hco -golaid agiltnfieB
-.grobetöG
-noigeR
-ssenisuB tmas
-renoitasinagro
-nallem
-tetebrasgnilkcevtu
-åp avird tta
-röf
-52
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+GENOMFÖRANDE
+
+Verktyg och resurser
+
+VI BEHÖVER ALLA känna ansvar och bistå med kompetens och sektorer och för samverkan mellan lokal, regional,
+
+och resurser för att driva på omställningen i strategins
+
+nationell, europeisk och internationell nivå. Västra
+
+riktning. Det är önskvärt att strategins genomförande
+
+Götalandsregionen ansvarar för att arrangera arenor där
+
+integreras i våra respektive ordinarie mål och styrdok-
+
+vi kan mötas i samtal över aktörsgränserna, dela kunskap
+
+ument samt att strategins prioriteringar avspeglas i
+
+och erfarenheter samt vidareutveckla och konkretisera
+
+fördelningen av personella och ekonomiska resurser.
+
+de områden där vi behöver arbeta närmare varandra.
+
+Tillsammans verkar vi för att växla upp regionala sats-
+
+Den årliga konferensen Framtid Västra Götaland är ett
+
+ningar genom att attrahera finansiering från nationell
+
+exempel på en sådan arena.
+
+och EU-nivå till Västra Götaland.
+
+VI BEHÖVER ÄVEN skapa samsyn kring behov och önskad
+
+VI BEHÖVER KONKRETISERA strategins innehåll i exempel- förflyttning inom de områden för kraftsamling som
+
+vis understrategier, handlingsplaner och överenskom-
+
+strategin adresserar och få på plats ett mer systematiskt
+
+melser som hjälper oss samlas kring prioriterade
+
+sätt att arbeta tillsammans. Nya digitala och fysiska
+
+insatser. En gemensam kommunikationsstrategi stöttar mötesplatser bör utvecklas och samverkan med andra
+
+oss i genomförandet och underlättar dialog, samhand-
+
+svenska och europeiska regioner är viktigt inom flera
+
+ling och kunskapsspridning.
+
+områden. Även samverkan över administrativa gränser
+
+behöver utvecklas i olika delar av länet, mellan
+
+EXEMPEL PÅ VERKTYG för att genomföra strategin är
+
+exempelvis olika kommuner som delar utmaningar
+
+befintliga och nya samarbeten, olika överenskommel-
+
+och förutsättningar.
+
+ser och ett gemensamt påverkansarbete på nationell
+
+och europeisk nivå. Genom en innovations och håll-
+
+EN UTVECKLAD SAMVERKAN mellan kommuner, kommu-
+
+barhetsinriktad offentlig upphandling går det att rikta nalförbund och region är avgörande. Det omfattar ett
+
+betydande resurser som stödjer omställningen genom
+
+gemensamt årshjul för politiska samtal mellan regional
+
+nya innovationer, digitala verktyg, produkter och
+
+och kommunal nivå, dialog om insatser, uppföljning
+
+tjänster.
+
+och lärande samt prioriteringar framåt i strategins rikt-
+
+Samverkansplattformar för omställning
+
+ning. Kommunala och regionala medel ska avsättas till
+
+insatser i delregionerna genom överenskommelser mellan
+
+Befintliga dialog- och samverkansplattformar är viktiga Västra Götalandsregionen och kommunalförbunden
+
+för att driva på utvecklingsarbetet mellan organisationer samt Business Region Göteborg.
+
+REGIONAL UTVECKLINGSSTRATEGI 25
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 278 -->
 
-EDNARÖFMONEG
-gninklotleger
-,reycilop
-i ragnirdnäröf apaks tta mo
-aldnah
--mas alivic
-ted
-dem DÅRMAS SNENOIGERSDNALATÖG
-ARTSÄV
-POHI TED REGNÄH ÅS
-resruser
-alleisnanfi aresilanak
-tta mo tmas gnintfitsgal
-hco
-dalmas llit
-rardib
-paksrentrap agiltneffo
-anrubédi hco telläh
-.dnalatöG artsäV
-llit
-golaid gilreunitnok
-moneG .vitkepsrep
-akilo nårf paksnuk
-nenoigersdnalatöG
-artsäV
-nakrevmaS
-tulseb
-ammasnemeg
-llit nagåmröf
-hco tevilsgnirän dem
-nednubröflanummok
-hco
-åvin ksieporue
-hco
-llenoitan nårf gnireisnaniF
-tsem rög
-ed tid
-satkir etebrasgnilkcevtu
-hco ragninstas nak
--tu ahctam
-revöheb restasni
-hco redrägtå va negninttafmO
-.attyn
-akrev snammasllit
-tta tgidnävdön
-ted rä röfräD .anragninam
-artsäV
-,tegdub
-segitkämllufnoiger
-dem
-snammasllit
-,ryts
-nigetartS
-nårf
-dnalatöG artsäV
-llit resruser aksimonoke edakö
-röf
-nemrofttalpsnakrevmas
-aderb ned
-i rågåp MOS ETEBRA TED
-nenoigersdnalatöG
-artsäV
-.gnilkcevtu lanoiger åp
-ragninstas
-snenoigersdnalatöG
-.åvin llenoitanretni hco llenoitan
-snigetartssgnilkcevtu
-alanoiger ned
-llit rardib 0302 tamilK
-artsäV
-.nigetarts
-mo atulseb hco atebratu
-nakrevmas
-i tta
-röf
-giravsna
-rä
-i redrägtåtamilk
-aterknok va moneg
-nedårmo edaretiroirp
-restasni
-andromas
-tta
-moneg
-tednaröfmoneg adel
-tta
-rä llor
-snenoigersdnalatöG
-raravsna
-nenoigersdnalatöG
-artsäV .nakrevmas
-röf
-ragninttästuröf
-apaks
-hco
-röf gytkrev
-agitkiv snnfi
-tnemurtsni alleisnanfi s:UE
-dnalB
--ednaröfmoneg
-rekräts teD .rerötka
-stenäl nallem nakrevmas
-hco nigetarts
-dem
-tetebra
-ppu ajlöf hco aredrävtu
-tgilreunitnok
-tta
-röf
-åskco
--orp rä lepmexe
-llit ,negnilkcevtu
-alakol hco alanoiger
-ned
-tegdubdixoidlok
-edatulseb s:RGV
-.negninllätsmo i netfark
-nenoigersdnalatöG
-artsäV
-rardib ted revötU .ednaräl
-tmasnemeg
-tte
-aröggiljöm
-edassapnatkerid
-nekitilopsgninllåhnammas
-moni nemmarg
-adelgäv
-aks
-mos gytkrev tanna
-tte rä dnalatöG artsäV röf
-agitkisgnål
-snigetarts
-moni restasni llit
-resruser
-hco
-gytkrev
-ange
-dem
-nevä snnfi
-teD .ragninttästuröf
-hco voheb aksnevstsäv
-retfe
-,emmyrtusppälstu
-stenäl rasiv netegdubdixoidloK
-.restasni
-.gnireisnanfitkejorp
-moneg lepmexe llit ,ragnilmastfark
-hco
-ragniretiroirp
-mos tnemurtsnisgnireisnanfi
-hco rednof aksieporue
-agnåm
-ejrav aksnim
-avöheb
-nak neppälstu
-tekcym ruh agäs lliv ted
-saretadppu
-dnalatöG
-artsäV i negnilkcevtu va ragninllätsnammas
-hco
-resylanA
-.RGV
-va
-tgilreunitnok
-nedårmo
-moni rerötka
-aksnevstsäv akräts tta llit
-rardib
-.telatvasiraP
-va led nis allyfppu
-aks tenäl tta röf rå
-,rutluk ,asläh
-,noitavonni
-hco gninksrof ,rutkurtsarfni
-mos
-nagrosnakrevmas
-tksitilop tte rä )UHB( gnilkcevtu
-rabllåh
-röf
-negnindereB
-asseD
-.gniresilatigid
-hco öjlim ,gninjrösröfsnetepmok
-tllenoitan
-etebrasnakrevåp
-tmasnemeG
-rabllåh
-mo
-rogårf
-i nednubröflanummok
-hco nenoigersdnalatöG
-artsäV
-nallem
-netfarkednaröfmoneg
-akö tta röf agitkiv rä
-resruser
-tllenoitanretni hco
-nigetartssgnilkcevtu
-alanoiger
-ned moni ragniretiroirp
-hco
-gninrytS
-.gnilkcevtu
-.ragnilmastfark
-hco ragniretiroirp
-agitkisgnål snigetarts
-i
-tksieporue
-,tllenoitan
-erröts tte va
-led ne rä dnalatöG artsäV
-.egitkämllufnoiger
-i tulseb röfni ,UHB i renoissuksidsdårmas
-moneg
-sdereb
-va edneoreb
-rä
-gnilkcevtu råv räd
-gnahnammas tlabolg hco
-,dnubröflanummok
-sladobryF ,dnubröflanummok
-sdarähujS
-nenoigersåroB
-gniresilaiceps
-trams röf igetartS
--eb iV .ryts
-hco
-regä etni avläjs iv
-mos ressecorp hco tulseb
-nakrevmas
-röf
-raravsna
-dnubröflanummok sgrobarakS
-tmas
-nenoigersgrobetöG
-röf laitnetop
-dem nedårmo
-aretiroirp hco arefiitnedi
-ttA
-åvin ksieporue
-hco llenoitan åp
-tmasnemeg marf åg revöh
-eD
-.åvin
-lanoigerled
-åp
-anrenummok nallem etebrasgnilkcevtu
-tmasnemeg
-hco
-ås ,gnilkcevtu
-rabllåh
-hco tfarksnerruknok llenoitanretni
-gnilkcevtu
-sdnalatöG
-artsäV röf
-rednih ajörnadnu tta röf
-anrenummok
-dem
-nakrevmas
-i nigetarts dem ratebra
-nednubröflanummok
-aryf
-s:UE
-i llor lartnec
-ne rah ,gniresilaiceps trams
-dallak
-rogårf edaretiroirp
-tmasnemeg röf
-ragninttästuröf apaks hco
-.gninjlöfppu hco gninryts
-eiranidro
-i ned
-rarergetni
-hco
-s:UE moni
-ragninstas
-röf dnurg ne rä hco kitiloplanoiger
-.gninjrösröfle
-hco tedårmorutkurtsarfni
-lepmexe llit moni
-tte tivilb
-rah gniresilaiceps
-tramS .margorpsdnoflanoiger
-aksieporue llit
-negnågllit röf gytkrev eragitkiv
-tlla
-rah snammasllit
-rarega hco voheb
-ammas åp rakep iv räN
-llenoitan
-åp gnireisnanfi
-ttastusnerruknok hco paksrentrap
-tillit ,golaid
-revärk
-ted neM .danlliks
-arög tta snahc tsröts iv
-trams
-röf igetarts sdnalatöG
-artsäV .åvin ksieporue
-hco
--revmas
-i rakrevdem
-hco rapaks
-iv tta hco edneortröf hco
-i nedårmo
-avisnetnispaksnuk
-tliksräs regna gniresilaiceps
--eg tte mo
-sane
-hco aresilibom tlekne
-tta röf rerutkurtssnak
-nimedaka
-räd ,laitnetopsgninllätsmo
-dem dnalatöG
-artsäV
-llit ratfys etebrasnakrevåp
-ttE .paksdub
-tksnevstsäv tmasnem
-hco tfarksnerruknok
-llenoitanretni
-göh rah tevilsgnirän
-hco
-tte revärk
-hco
-rogårf edaretiroirp
-i gninttyflröf ne apaks tta
-.laitnetoptxävllit
-nak teD .åvin
-ksieporue
-hco llenoitan
-åp gnamegagne tvitka
-62
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+GENOMFÖRANDE
+
+VÄSTRA GÖTALANDSREGIONENS SAMRÅD med det civila sam-
+
+handla om att skapa förändringar i policyer, regeltolkning
+
+hället och idéburna offentliga partnerskap bidrar till samlad och lagstiftning samt om att kanalisera finansiella resurser
+
+SÅ HÄNGER DET IHOP
+
+kunskap från olika perspektiv. Genom kontinuerlig dialog
+
+till Västra Götaland.
+
+med näringslivet och förmågan till gemensamma beslut
+
+Finansiering från nationell och europeisk nivå
+
+Samverkan Västra Götalandsregionen
+
+kan satsningar och utvecklingsarbete riktas dit de gör mest
+
+och kommunalförbunden
+
+nytta.
+
+Omfattningen av åtgärder och insatser behöver matcha ut-
+
+maningarna. Därför är det nödvändigt att tillsammans verka
+
+DET ARBETE SOM pågår i den breda samverkansplattformen
+
+för ökade ekonomiska resurser till Västra Götaland från
+
+Strategin styr, tillsammans med regionfullmäktiges budget, Västra
+
+Klimat 2030 bidrar till den regionala utvecklingsstrategins
+
+nationell och internationell nivå.
+
+Götalandsregionens satsningar på regional utveckling. Västra Götalandsregionen
+
+prioriterade områden genom av konkreta klimatåtgärder i
+
+är ansvarig för att i samverkan utarbeta och besluta om strategin. Västra
+
+samverkan mellan länets aktörer. Det stärker genomförande- Bland EU:s finansiella instrument finns viktiga verktyg för
+
+Götalandsregionens roll är att leda genomförandet genom att samordna insatser
+
+och skapa förutsättningar för samverkan. Västra Götalandsregionen ansvarar
+
+kraften i omställningen. VGR:s beslutade koldioxidbudget
+
+den regionala och lokala utvecklingen, till exempel är pro-
+
+också för att kontinuerligt utvärdera och följa upp arbetet med strategin och
+
+för Västra Götaland är ett annat verktyg som ska vägleda
+
+grammen inom sammanhållningspolitiken direktanpassade
+
+möjliggöra ett gemensamt lärande. Utöver det bidrar Västra Götalandsregionen
+
+insatser. Koldioxidbudgeten visar länets utsläppsutrymme,
+
+efter västsvenska behov och förutsättningar. Det finns även
+
+med egna verktyg och resurser till insatser inom strategins långsiktiga
+
+det vill säga hur mycket utsläppen kan behöva minska varje många europeiska fonder och finansieringsinstrument som
+
+prioriteringar och kraftsamlingar, till exempel genom projektﬁnansiering.
+
+år för att länet ska uppfylla sin del av Parisavtalet.
+
+bidrar till att stärka västsvenska aktörer inom områden
+
+Analyser och sammanställningar av utvecklingen i Västra Götaland uppdateras
+
+kontinuerligt av VGR.
+
+Gemensamt påverkansarbete nationellt
+
+som infrastruktur, forskning och innovation, hälsa, kultur,
+
+kompetensförsörjning, miljö och digitalisering. Dessa
+
+Beredningen för hållbar utveckling (BHU) är ett politiskt samverkansorgan
+
+och internationellt
+
+resurser är viktiga för att öka genomförandekraften
+
+mellan Västra Götalandsregionen och kommunalförbunden i frågor om hållbar
+
+Västra Götaland är en del av ett större nationellt, europeiskt i strategins långsiktiga prioriteringar och kraftsamlingar.
+
+utveckling. Styrning och prioriteringar inom den regionala utvecklingsstrategin
+
+och globalt sammanhang där vår utveckling är beroende av
+
+bereds genom samrådsdiskussioner i BHU, inför beslut i regionfullmäktige.
+
+beslut och processer som vi själva inte äger och styr. Vi be-
+
+Strategi för smart specialisering
+
+Boråsregionen Sjuhärads kommunalförbund, Fyrbodals kommunalförbund,
+
+höver gå fram gemensamt på nationell och europeisk nivå
+
+Att identifiera och prioritera områden med potential för
+
+Göteborgsregionen samt Skaraborgs kommunalförbund ansvarar för samverkan
+
+för att undanröja hinder för Västra Götalands utveckling
+
+internationell konkurrenskraft och hållbar utveckling, så
+
+och gemensamt utvecklingsarbete mellan kommunerna på delregional nivå. De
+
+och skapa förutsättningar för gemensamt prioriterade frågor kallad smart specialisering, har en central roll i EU:s
+
+fyra kommunalförbunden arbetar med strategin i samverkan med kommunerna
+
+inom till exempel infrastrukturområdet och elförsörjning.
+
+regionalpolitik och är en grund för satsningar inom EU:s
+
+och integrerar den i ordinarie styrning och uppföljning.
+
+regionalfondsprogram. Smart specialisering har blivit ett
+
+När vi pekar på samma behov och agerar tillsammans har
+
+allt viktigare verktyg för tillgången till europeiska
+
+vi störst chans att göra skillnad. Men det kräver dialog, tillit partnerskap och konkurrensutsatt finansiering på nationell
+
+och förtroende och att vi skapar och medverkar i samver-
+
+och europeisk nivå. Västra Götalands strategi för smart
+
+kansstrukturer för att enkelt mobilisera och enas om ett ge-
+
+specialisering anger särskilt kunskapsintensiva områden i
+
+mensamt västsvenskt budskap. Ett påverkansarbete syftar till Västra Götaland med omställningspotential, där akademin
+
+att skapa en förflyttning i prioriterade frågor och kräver ett
+
+och näringslivet har hög internationell konkurrenskraft och
+
+aktivt engagemang på nationell och europeisk nivå. Det kan tillväxtpotential.
+
+REGIONAL UTVECKLINGSSTRATEGI 26
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 279 -->
 
-llit
+Så bidrar strategin till
 
-nigetarts
+Agenda 2030
 
-rardib
+Den regionala utvecklingsstrategin för Västra Götaland 2021–2030 bidrar till en
 
-åS
-0302
-adnegA
-ne
-llit
-rardib
-0302–1202
-dnalatöG
-artsäV
-röf
-nigetartssgnilkcevtu
-alanoiger
-neD
-rän
-söitibma
-rä
-nigetartS
-.gnilkcevtu
-rabllåh
-tgissämöjlim
-hco
-tlaicos
-,tksimonoke
-lakol
-nårfitu
-låmstehrabllåh
-alabolg
-71
-s:NF
-hco
-0302
-adnegA
-atöm
-tta
-relläg
-ted
-.åvin
-lanoiger
-hco
--noklåm
-alleutneve
-röggilnys
-mos
-remrof
-ALKCEVTU
-REVÖHEB
-IV
-lävås
-llit
-raretaler
-mos
-sadnävna
-aks
-rerotakidnI
-.0302
--ertne
-hco
-ednagateröf
-röf
-ragninttästuröf
-edarttäbröf
-hco
-.0302
-adnegA
-va
-gnirergetni
-dassapna
-ÅP REGGYB
-NIGETARTS
-ardna
-va
-dantsokeb
-åp
-sån
-låm
-tte
-tta
-neksir
-raksnim
-åD
-.retkifl
-.gnilkcevtu
-rabllåh
-tgissämöjlim
-mos
-tlaicos
-,tksimonoke
--gittär
-akil
-salla
-akräts
-tgiditmas
-aks
-nigetartS
-.paksrönerp
--ttästuröf
-hco
-anragninamtu
-alanoiger
-ed
-tta
-räbenni
-teD
-tta
-röf
-gytkrev
-mos
-raregnuf
-anrepicnirp
-ednadelgäv
-eD
-.låm
-.gninjlöfppu
-hco
-gninryts
-vitkeffe
-ne
-åf
-iv
-nak
-ttäs
-ås
-åP
-rabllåh
-ne
-llit
-ardib
-tmas
-negniredulkni
-akö
-hco
-reteh
-,ragniretiroirp
-hco
-gnintkirni
-snigetarts
-trojgva
-rah
-anragnin
-reks
-teD
-.nigetarts
-va
-tednaröfmoneg
-i
-0302
-adnegA
-arergetni
--snart
-hco
-tehgitkaled
-,nakrevmas
-ranoteb
-0302
-adnegA
-hco
-ksisyf
-va
-gnilkcevtu
-tanna
-dnalb
-dem
-gnirenalpsllähmas
--led
-hco
-låm
-s:0302
-adnegA
-va
-akliv
-rögva
-rut
-nis
-i tekliv
--kaled
-sanranåvni
-akö
-aks
-iv
-tta
-anrepicnirp
-nårfitu
-tanna
-dnalb
--moneg
-tkirsgnågmarf
-tte röf
-ragninttästuröf
-mos
-snerap
--tamilk
-daksnim
-llit
-åskco
-rardib
-neD
-.rutkurtsarfni
-latigid
-akilo
-åp
-llit
-rardib
-tkeridni
-hco
-tkerid
-nigetarts
-mos
-låm
-aravllit
-at
-tmas
-negnilkcevtusllähmas
-revö
-ednatyflni
-hco
-tehgit
-aks
-negni
-tta
-telåm
-ednapirgrevö
-ted
-röf
-hco
-ednaröf
-hco
-noitmusnok
-rabllåh
-ne llit
-gninllätsmo
-hco
-nakrevåp
-.tkis
-gnål
--llätsmo
-aralk
-tta
-retehgiljöm
-hco
-ragninttästuröf
-srestalp
-akilo
-alanoiger
-ned
-revärk
-ttäs
-ammas
-åP
-.röfnatu
-sanmäl
-,gninksrof
-,irtsudni
-rabllåh
-åp
-ragninstas
-dem
-noitkudorp
-.ellähmas
-trabllåh
-tte
-llit
-negnin
-hco
-tehgitkaled
-,golaid
-gilreunitnok
-nigetartssgnilkcevtu
-.igrene
-rabynröf
-hco
-giltilröfllit
-hco
-noitavonni
-hco
-anragniretiroirp
-agitkisgnål
-ed
-ÅP RAGNINSTAS
-MONEG
-paksrentrap
-hco
-nakrevmas
-räd
-,ravsna
-tmasnemeg
-tte
-nigetartssgnilkcevtu
-alanoiger
-ned
-rardib
-anragnilmastfark
-.gninttästuröf
-ne
-rä
-rerötka
-nallem
-hco
-rerotkes
-revö
-rettästrof
-iv
-tta
-tgitkiv
-ted rä
-SRÖFMONEG
-NIGETARTS
-RÄN
--dlibtu
-llit
-retehgiljöm
-,ednannfiebläv
-hco
-asläh
-erttäb
-llit
-adnegA
-llit
-gardib
-ssed
-va
-negninmödeb
-hco
-mo
-negolaid
-gninttäslessys
-dakö
-tmas
-gnilkcevtusnetepmok
-hco
-gnin
-72
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+ekonomiskt, socialt och miljömässigt hållbar utveckling. Strategin är ambitiös när
+
+det gäller att möta Agenda 2030 och FN:s 17 globala hållbarhetsmål utifrån lokal
+
+och regional nivå.
+
+STRATEGIN BYGGER PÅ anpassad integrering av Agenda 2030. och förbättrade förutsättningar för företagande och entre-
+
+2030\. Indikatorer ska användas som relaterar till såväl
+
+VI BEHÖVER UTVECKLA former som synliggör eventuella målkon-
+
+Det innebär att de regionala utmaningarna och förutsätt-
+
+prenörskap. Strategin ska samtidigt stärka allas lika rättig-
+
+ekonomiskt, socialt som miljömässigt hållbar utveckling. flikter. Då minskar risken att ett mål nås på bekostnad av andra
+
+ningarna har avgjort strategins inriktning och prioriteringar, heter och öka inkluderingen samt bidra till en hållbar
+
+På så sätt kan vi få en effektiv styrning och uppföljning. mål. De vägledande principerna fungerar som verktyg för att
+
+vilket i sin tur avgör vilka av Agenda 2030:s mål och del-
+
+samhällsplanering med bland annat utveckling av fysisk och Agenda 2030 betonar samverkan, delaktighet och trans- integrera Agenda 2030 i genomförandet av strategin. Det sker
+
+mål som strategin direkt och indirekt bidrar till på olika
+
+digital infrastruktur. Den bidrar också till minskad klimat-
+
+parens som förutsättningar för ett framgångsrikt genom- bland annat utifrån principerna att vi ska öka invånarnas delak-
+
+lång sikt.
+
+påverkan och omställning till en hållbar konsumtion och
+
+förande och för det övergripande målet att ingen ska
+
+tighet och inflytande över samhällsutvecklingen samt ta tillvara
+
+produktion med satsningar på hållbar industri, forskning,
+
+lämnas utanför. På samma sätt kräver den regionala
+
+olika platsers förutsättningar och möjligheter att klara omställ-
+
+GENOM SATSNINGAR PÅ de långsiktiga prioriteringarna och
+
+innovation och tillförlitlig och förnybar energi.
+
+utvecklingsstrategin kontinuerlig dialog, delaktighet och ningen till ett hållbart samhälle.
+
+kraftsamlingarna bidrar den regionala utvecklingsstrategin
+
+ett gemensamt ansvar, där samverkan och partnerskap
+
+till bättre hälsa och välbefinnande, möjligheter till utbild-
+
+NÄR STRATEGIN GENOMFÖRS är det viktigt att vi fortsätter
+
+över sektorer och mellan aktörer är en förutsättning.
+
+ning och kompetensutveckling samt ökad sysselsättning
+
+dialogen om och bedömningen av dess bidrag till Agenda
+
+REGIONAL UTVECKLINGSSTRATEGI 27
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 280 -->
 
-TNEMUKODLÅM ALANOIGER
-alanoiger
-ardna
-ert
-dem
-ralepsmas nigetartssgnilkcevtu
+REGIONALA MÅLDOKUMENT
 
-alanoiger
+Så hänger det ihop
 
-neD
+Den regionala utvecklingsstrategin samspelar med tre andra regionala
 
-pohi
+måldokument som är antagna av regionfullmäktige. De ska tillsammans
 
-ted
+bidra till att uppfylla den gemensamma Vision Västra Götaland – Det
 
-regnäh
+goda livet. För att öka takten i genomförandet behöver ett mer aktivt
 
-åS
-snammasllit
-aks
-eD .egitkämllufnoiger
-va angatna
-rä mos tnemukodlåm
-teD –
-dnalatöG
-artsäV
-noisiV ammasnemeg ned
-allyfppu tta
-llit
-ardib
-tvitka
-rem tte
-revöheb
-tednaröfmoneg i netkat
-akö tta röF
-.tevil
-adog
-hco rappalrevö
-netnemukodlåm
-räd edårmo moni
-salkcevtu
-etebramas
-:rä tnemukodlåm asseD
-.ardnarav
-rekrätsröf
-alanoiger
-ned
-röf
-igetarts
-ammasnemeg
-råv
-rä
-nigetartssgnilkcevtu
-alanoiger
-neD
-mos
-gardppu
-ted
-i
-dnurg
-nis
-rah
-nigetartS
-.näl
-sdnalatöG
-artsäV
-i negnilkcevtu
-ednapirgrevö
-ted rä
-NALPRUTLUK
-HCO DNALATÖG ARTSÄV
-IGETARTSRUTLUK
-.rogårfsellähmaslivic
-hco
-gnilkcevtuitarkomed ,rutluk röf
-tetnemukodlåm
-ne
-allätstsaf
-hco
-atebratu
-sled
-tta
-negnireger
-nårf
-rah
-nenoigersdnalatöG
-artsäV
-artsäV aleh
-i vilrutluk
-tkrats hco tkir ,ttirf ttE” rä låm
-snigetartsrutluK
-hco
-tednaröfmoneg
-andromas
-sled
-,tenäl
-röf igetartssgnilkcevtu
-lanoiger
-raregaretni
-tedårmorutluk
-räd nedårmo latna tte rellåhenni
-hco ”dnalatöG
-,öjlimsvil
-datlatseg
-rä nedårmo
-asseD .etebrasgnilkcevtu tlanoiger
-tgirvö dem
-ravsnasgnilkcevtu
-tlanoiger
-mo negal
-i
-snnfi
-tegardppU
-.nigetarts
-va
-negninjlöfppu
-,asläh
-hco rutluk
-,gnindlibklof
-,)KIM( tehginnuksnoitamrofni
-hco -eidem
-ketoilbib
-tmas
-gnilkcevtustalp
-hco ragnirän avitaerk hco
-allerutluk ,ttordi
-.)385:7102(
-etebrasgnilkcevtu
-tlanoiger
-mo negnindroröf
-hco )036:0102(
-gardib
-snerutluk
-räd
-led
-dliksräs ne rah nigetartsrutluK
-.ednajmärfsäl hco
-.svirkseb gnilkcevtu
-lanoiger llit
-alanoiger
-ted
-llit
-rardib
-NIGETARTSSGNILKCEVTU
-ALANOIGER
-NED
-,renummok
-redelgäv
-NIGETARTSSGNILKCEVTU
-ALANOIGER
-NED
-tetnemukodlåm
-ednapirgrevö
-ted rä MARGORPSGNINJRÖSRÖFKIFART
-TLANOIGER
-allenoitan
-hco
-aksieporue
-,allenoitanretni
-va tednaröfmoneg
--itsnisgninksrof
-hco imedaka
-,vilsgnirän
-,dnubröflanummok
--vitkellok
-nallem
-nysstehleh
-ednapirgrevö nE .gnilkcevtu snekfiartvitkellok
-röf
-dem
-0302
-adnegA
-snnfi
-åvin
-labolg
-åP
-.reigetartssgnilkcevtu
-agiltats
-ardna
-hco neslerytssnäl
-tmas
-tellähmas alivic
-ted
-,tut
--krev va
-gniresilakol
-tmas
-gnilkcevturutkurtsarfni
-,ednaggybsdatsob
-hco kfiart
--mo
-aks
-noitnevnoknrab
-s:NF
-.låmstehrabllåh
-alabolg
-71
--tu
-lanoiger
-dem tetebra
-ammasnemeg
-ted i retehgidnym
-seg roksinnäm
-räd
-noiger
-rabllåh
-ne röf dnurg ne rapaks ecivres
-hco retehmas
-sarenalp
-aks
-nekfiartvitkelloK
-.salkcevtu hco avel tta ragninttästuröf
-adog
-agitkaled
-rä
-agnu
-hco
-nrab
-räd
-kitkarp
-llit iroet
-nårf
-sattäs
-segitkämllufnoiger
-dem
-snammasllit
-,ryts nigetartS
-.gnilkcev
-llit nysnäh
-dem hco
-nöjlim
-åp
-nakrevåp sanretropsnart aksnim
-tta nårfitu edåb
-salkcevtu
-ed
-räd
-hco med
-raregagne
-hco
-röreb mos
-rogårf
-i
-lanoiger
-åp ragninstas
-snenoigersdnalatöG
-artsäV
-,tegdub
--orpsgninjrösröfkfiarT
-.kfiartvitkellok
-ednaregnuf ne va edneoreb
-rä mos med
--eporue
-åP
-.rogåmröf
-hco
-ragninttästuröf
-akinu anis
-nårfitu
-.gnilkcevtu
-.5202
-neråv ssimer åp etu rä hco
-sarediver temmarg
--txävllit
-s:UE
-hco
-nekitilopsgninllåhnammas
-snnfi
-åvin
-ksi
-gninllätsmo
-sivttär
-ne
-röf
-negnintkir
-regna
-mos
-reigetarts
-dnalatöG
-artsäV noisiV
-i tknupsgnågtu
-NIS RAT
-NIGETARTS
--SDNALATÖG
-ARTSÄV
-I GNINLLÄTSMO
-SNEDRÅVKUJS HCO -OSLÄH
-RÖF IGETARTS
--osläh
-va negnilkcevtu
-röf
-tetnemukodlåm ednapirgrevö
-ted rä NENOIGER
-låm
-tmas
-imonoke
-gitfarksnerruknok
-hco rabllåh
-ne llit
-etebra
-,asläh
-dog röf
-råts
-tevil
-adog
-ted räd ,tevil
-adog
-teD
-–
-atöm tta
-röf tetebra
-revirkseb
-hco dråv arän hco dog ne tom
-nedråvkujs hco
-tanna
-ttE
-.0502
-llit marf
-tetilartuentamilk
-röf redrägtå
-hco
-i tehgitkaled
-hco
-paksnemeg
-,tehggyrt
-,gnindlibtu
-hco
-.resruser
-edasnärgeb
-nårfitu
-dråvkujs hco -osläh va voheb
-edakö stellähmas
--alked
-aksieporue
-ned
-va
-srögtu
-tednaröfmoneg
-i krevmar
--sys
-arabynröf
-ed ranräv
-iv räd
-öjlim
-dog ne ,tevilsllähmas
-.nakrevmas
-lleirotkesrävt
-åp
-tanna dnalb reggyb tednaröfmoneg
-dem tetebrA
-lakol
-åp
-näm
-hco
-ronnivk
-nallem
-tehdllätsmäj
-mo
-nenoitar
-gillåhtu
-ne
-,ramodgnu
-hco
-nrab
-soh
-nevoheb atöm
-,nemet
-hco -osläh
-hco
-gnilkcevtu
-lanoiger nallem etebramas arän
-tte räd nedårmO
-nigetarts
-moskil
-)nenoitaralked-RMEC(
-åvin lanoiger
-hco
-ne
-rettästuröf
-tevil
-adog
-teD
-.vilrutluk
-tkir tte
-hco
-txävllit
-efil
-hco asläh
-,noitavonni
-,gniresilatigid tanna dnalb
-rä svöheb dråvkujs
-agidit
-hco etebraoslähklof
-ednaggyberöf ,gninjrösröfsnetepmok
-,ecneics
--tkir
-ne
-tu
-rakep
-mos 7202–4202
-dnalatöG
-artsäV
-tllätsmäJ
--öjlim
-hco
-alaicos ,aksimonoke
-ned
-räd ,gnilkcevtu
-rabllåh
-.agnu hco
-nrab röf restasni
-rardib
-åvin
-llenoitan
-åP
-.tenäl
-i tetebrastehdllätsmäj
-röf
-gnin
-rekrätsröf
-hco
-edneoreb
-nallemesnis
-rä netehrabllåh
-agissäm
-röf
-igetarts
-llenoitaN
-llit nigetartssgnilkcevtu
-alanoiger
-.ardnarav
-.0302–1202
-tednal
-aleh i
-gnilkcevtu
-lanoiger
-rabllåh
-82
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+samarbete utvecklas inom område där måldokumenten överlappar och
+
+Den regionala utvecklingsstrategin är vår gemensamma strategi för den regionala
+
+förstärker varandra. Dessa måldokument är:
+
+utvecklingen i Västra Götalands län. Strategin har sin grund i det uppdrag som
+
+Västra Götalandsregionen har från regeringen att dels utarbeta och fastställa en
+
+KULTURSTRATEGI VÄSTRA GÖTALAND OCH KULTURPLAN är det övergripande
+
+måldokumentet för kultur, demokratiutveckling och civilsamhällesfrågor.
+
+regional utvecklingsstrategi för länet, dels samordna genomförandet och
+
+Kulturstrategins mål är ”Ett fritt, rikt och starkt kulturliv i hela Västra
+
+Götaland” och innehåller ett antal områden där kulturområdet interagerar
+
+uppföljningen av strategin. Uppdraget ﬁnns i lagen om regionalt utvecklingsansvar
+
+med övrigt regionalt utvecklingsarbete. Dessa områden är gestaltad livsmiljö,
+
+(2010:630) och förordningen om regionalt utvecklingsarbete (2017:583).
+
+medie- och informationskunnighet (MIK), folkbildning, kultur och hälsa,
+
+idrott, kulturella och kreativa näringar och platsutveckling samt bibliotek
+
+och läsfrämjande. Kulturstrategin har en särskild del där kulturens bidrag
+
+till regional utveckling beskrivs.
+
+DEN REGIONALA UTVECKLINGSSTRATEGIN vägleder kommuner,
+
+DEN REGIONALA UTVECKLINGSSTRATEGIN bidrar till det regionala
+
+kommunalförbund, näringsliv, akademi och forskningsinsti- genomförandet av internationella, europeiska och nationella
+
+REGIONALT TRAFIKFÖRSÖRJNINGSPROGRAM är det övergripande måldokumentet
+
+tut, det civila samhället samt länsstyrelsen och andra statliga utvecklingsstrategier. På global nivå finns Agenda 2030 med
+
+för kollektivtraﬁkens utveckling. En övergripande helhetssyn mellan kollektiv-
+
+myndigheter i det gemensamma arbetet med regional ut-
+
+17 globala hållbarhetsmål. FN:s barnkonvention ska om-
+
+traﬁk och bostadsbyggande, infrastrukturutveckling samt lokalisering av verk-
+
+veckling. Strategin styr, tillsammans med regionfullmäktiges sättas från teori till praktik där barn och unga är delaktiga
+
+samheter och service skapar en grund för en hållbar region där människor ges
+
+goda förutsättningar att leva och utvecklas. Kollektivtraﬁken ska planeras
+
+budget, Västra Götalandsregionens satsningar på regional
+
+i frågor som berör och engagerar dem och där de utvecklas
+
+både utifrån att minska transporternas påverkan på miljön och med hänsyn till
+
+utveckling.
+
+utifrån sina unika förutsättningar och förmågor. På europe-
+
+dem som är beroende av en fungerande kollektivtraﬁk. Traﬁkförsörjningspro-
+
+isk nivå finns sammanhållningspolitiken och EU:s tillväxt-
+
+grammet revideras och är ute på remiss våren 2025.
+
+STRATEGIN TAR SIN utgångspunkt i Vision Västra Götaland
+
+strategier som anger riktningen för en rättvis omställning
+
+STRATEGI FÖR HÄLSO- OCH SJUKVÅRDENS OMSTÄLLNING I VÄSTRA GÖTALANDS-
+
+– Det goda livet, där det goda livet står för god hälsa, arbete till en hållbar och konkurrenskraftig ekonomi samt mål
+
+REGIONEN är det övergripande måldokumentet för utvecklingen av hälso-
+
+och utbildning, trygghet, gemenskap och delaktighet i
+
+och åtgärder för klimatneutralitet fram till 2050. Ett annat
+
+och sjukvården mot en god och nära vård och beskriver arbetet för att möta
+
+samhällslivet, en god miljö där vi värnar de förnybara sys-
+
+ramverk i genomförandet utgörs av den europeiska dekla-
+
+samhällets ökade behov av hälso- och sjukvård utifrån begränsade resurser.
+
+temen, möta behoven hos barn och ungdomar, en uthållig
+
+rationen om jämställdhet mellan kvinnor och män på lokal
+
+Arbetet med genomförandet bygger bland annat på tvärsektoriell samverkan.
+
+tillväxt och ett rikt kulturliv. Det goda livet förutsätter en
+
+och regional nivå (CEMR-deklarationen) liksom strategin
+
+Områden där ett nära samarbete mellan regional utveckling och hälso- och
+
+hållbar utveckling, där den ekonomiska, sociala och miljö-
+
+Jämställt Västra Götaland 2024–2027 som pekar ut en rikt-
+
+sjukvård behövs är bland annat digitalisering, innovation, hälsa och life
+
+science, kompetensförsörjning, förebyggande folkhälsoarbete och tidiga
+
+mässiga hållbarheten är sinsemellan beroende och förstärker ning för jämställdhetsarbetet i länet. På nationell nivå bidrar
+
+insatser för barn och unga.
+
+varandra.
+
+regionala utvecklingsstrategin till Nationell strategi för
+
+hållbar regional utveckling i hela landet 2021–2030.
+
+REGIONAL UTVECKLINGSSTRATEGI 28
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 281 -->
 
-röf
+Tillsammans gör vi Västra Götaland till ett föredöme för
 
-emöderöf
+omställning till ett hållbart och konkurrenskraftigt samhälle.
 
-tte
+REGIONAL UTVECKLINGSSTRATEGI 29
 
-llit
-
-dnalatöG
-
-artsäV
-
-iv
-
-rög
-
-snammaslliT
-.ellähmas
-tgitfarksnerruknok
-hco
-trabllåh
-tte
-llit
-gninllätsmo
-92
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG
-ARTSÄV
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 282 -->
 
-RAGNIRDNÄ
+BILAGA: SAMMANFATTNING AV ÄNDRINGAR
 
-VA GNINTTAFNAMMAS :AGALIB
-edaresilautka
-ned
-i
-nednagildytröf
-hco
-ragnirdnä
-va
-gninttafnammaS
-:AGALIB
-nigetartssgnilkcevtu
-alanoiger
-strojggilnys
-llor stellähmas alivic ted rah sivlepmexe ,tednaröfmoneg
-i
-ardib
-ksigoloib
-va
-tsulröf
-hco
-ragnirdnäröftamilk
-va tellähmas i anretkeffE
-•
-röfni
-nigetarts
-i strojg
-mos ragnirdnä
-ed sattafnammas agalib
-anned
-I
-ed va
-negninvirkseb i nednagildytröf argån i taretluser
-rah nenysrevÖ
-.rem
-.agilravlla
-hco
-arabnnäk
-remtlla rilb dlafgnåm
-nenysrevö
-röf gninsnärgva
-hco
-etfys
-nevä svirkseb ren ergnäL
-.ssimer
-ragnirdnäröfsdlrävmo
-algeps darg ergöh i tta röf anragniretiroirp
-agitkisgnål
--nab
-ardna
-hco
-IA
-moni
-negnilkcevtu
-,nenoitamrofsnart
-alatigid neD
-•
-.ssecorpgolaid
-ne i sröfmoneg ned
-ruh tmas
-:lepmexE
-.netfarkednaröfmoneg akräts tmas ragninttästuröf
-snegad
-hco
-teD
-.tellähmas
-i raled
-alla
-rakrevåp
-hco
-tbbans
-råg reigolonket ednatyrb
-reksir
-hco
-nammelid
-aksite
-åskco
-räbenni
-nem
-retehgiljöm ayn ranppö
-nigetarts
-i
-nednagildytröf
-hco ragnirdnÄ
--gildyt
-gniretiroirp agitkisgnål anned monI ;netfarksnoitavonni
-akrätS
-•
-.tehrekäsrebyc
-sivlepmexe moni
-,vilsgnirän
-tarefiisrevid tte röf nedderb åp edåb astas
-tta va netkiv srög
-alanoiger
-ned
-tta rågmarf
-nenysrevö
-i
-ströfmoneg mos regolaidsrötka
-ed
-I
-åp
-hco ,gateröf arotsledem hco -åms hco paksrönerpertne
-evisulkni
-neditmarf
-röf
-oro
-rennäk
-agnåm
-,llåh
-lef
-tå salkcevtu
-ednannfiebläv sagnU
-•
--älegna
-hco
-tnaveler
-svelppu
-ttastrof
-led
-rots llit )SUR( nigetartssgnilkcevtu
-hco
-gninttäslessys stenäl röf tkiv dliksräs va nedårmo
-moni steps dakö
-renosrep
-ergny
-tllA
-.naloks
-raralk
-etni
-mos
-agnåm ttastrof rä ted hco
--gnål
-aryf
-hco
-låm snigetarts
-allåheb
-tta
-röf döts tte demräd snnfi
-teD .neg
--tsäv
-ned akräts snammasllit tta va netkiV .tfarksnerruknok
-alabolg
-.gnäg
-allenimirk llit saretyrker
-anragninamtusllähmas
-asöl
-hco galsmoneg
-åf tta röF .ragniretiroirp
-agitkis
-aksigetarts
-,snetepmoksteps llenoitanretni röf netetivitkartta
-aksnevs
-sled
-dem tkat
-i
-aksnim
-tta
-rareksir
-nitarkomed
-hco tellähmas llit netilliT
-•
-ragäv
-attih
-tta
-röf ravsna
-hco rellor
-akilo
-aråv nårfitu akrevmas iv
-revöheb
-.stagildytröf rah ragniretsevni
-hco ragnirelbate
--agro
-dderbtu
-sled
-,noitamrofni
-ednadelesliv
-relle
-kslaf va gnindirps dakö
-hco
-ttässtebra
-aråv ,nakrevmas
-alkcevtu
-nedit aleh revöheb iv hco
-,tåmarf
-.tehgilsttorb daresin
-.restasni ammasnemeg
-anned
-moni restasni ammasnemeg hco nakrevmaS ;snetepmok
-aggyB
-•
--omed
-ed atöm tta röf ednarögva rem nä gadi rä gniretiroirp
-agitkisgnål
--mexe
-,igetarts
-ednalläg
-i ppu sat
-mos
-ragninamtu
-ed råtsravk tgiditmaS
-nem
-,0302
-llit marf
-ttastrof
-relläg
-nigetartS
-.RAVK REGGIL LÅM SNIGETARTS
-gninjrösröfsnetepmok
-snegadnogrom aralk hco anragninamtu
-aksfiarg
-akilo i
-tå gis
-rejliks
-ecivres
-hco
-etebra
-llit
-gnågllit sanranåvni tta sivlep
--amtu
-axelpmok
-gnirk
-rakrevmas
-iv
-rän tehgitkisgnål svärk ted
-mosretfe
-takö
-tte dem staretadppu rah snetepmok aggyB .ednaräl
-agnålsvil hco
-.tenäl va raled
-.llit stgal
-5402 tom
-kcilbtu
-ne rah ,gninllätsmo hco
-ragnin
-röf
-svärk mos resnetepmok ed alkcevtu hco arkäs nak
-iv ruh åp sukof
-tta åp sukof takö nevä nem ,negninllätsmo alatigid
-hco anörg ned
--vird
-mos ragninamtusllähmaS”
-ttinsva
-snigetarts
-rah navo va djlöf ne moS
-röf
-ragninttästuröf
-edardnäröf
-hco
-RESLEDNÄHSDLRÄVMO
-SNERÅ ETSANES
-ED
-.snetepmok
-salla ataravllit
--adppu
-dem
-statebramoneg
-rah tehleh
-mos nigetarts
-hco mo stivirks ”tfark
-raldnah
-teD
-.negniresilautka
-takrevåp
-rah dnalatöG artsäV i gnilkcevtu
--llätsmotamilk
-llit gardib
-snigetartS
-.egälsdlrävmo
-tlleutka nårfitu ragniret
-staresiterknok
-rah gniretiroirp agitkisgnål anneD ;negniredulkni
-akÖ
-•
-:mo tanna
-dnalb
-eD
-.stagildytröf
-rah
-nedlafgnåm
-aksigoloib
-ned akräts tta llit hco negnin
-mo tanna
-dnalb raldnah teD .vitkepsrepsgnilkcevtu tlanoiger
-tte nårfitu
--kiflnok
-aksitilopoeg
-hco
-resirk agilravlla
-refl dem tegälsdlräv arkäso
-teD
-•
-stivirks
-rah
-dnalatöG
-artsäV
-röf nelåmtamilk
-– angatna nader – attasreffis
-,negnilkcevtusllähmas
-i gnamegagne hco tehgitkaled sanranåvni
-va netkiv
-.vilsgnirän
-hco
-ellähmas
-i
-paksdereb
-hco
-tehtsubor åp vark ayn relläts
-ret
-.arefl
-dem
-neslerytssnäl
-hco renummok
-nårf
-låmeksnö retfe nigetarts i
-ni
-,paksröfnatu
-tlatigid atyrb tta mo hco nitarkomed hco
-tellähmas llit tillit
-labolg
-eradråh
-röfni råts
-vilsgnirän
-hco imonoke segirevstsäV
-•
-ted
-hco gnamegagne stevilsgnirän aröggilnys erttäb
-tta mo nevä nem
-aggyB
-,netfarksnoitavonni
-akrätS
-;ANRAGNIRETIROIRP
-AGITKISGNÅL ARYF
-ED
-åp
-vark
-edakö
-hco
-rojdekedräv
-i gnirdnäröf bbans ,snerruknok
-.llor snimonoke alaicos hco
-stellähmas alivic
-reggil
-dnalatöG
-artsäV
-nammas
-atynK
-hco negniredulkni
-akÖ ,snetepmok
-.resnetepmoklekcyn
-gniretiroirp
-agitkisgnål anned monI;dnalatöG artsäV
-nammas atynK
-•
--srötka
-I .tetebrasgnilkcevtu
-alanoiger
-ted
-i nesab
-arögtu rettästrof hco ravk
-dakö
-,latesledöf
-ednaksnim
-dem
-negnilkcevtu aksfiargomed
-neD
-•
-atöm
-tta röf etebrasnakrevåp hco nakrevmas dem tgitkiv
-ttastrof ted
-rä
--edräv
-tlla
-aröggilnys
-erttäb
-tta tgitkiv
-rä ted
-tta tfyl agnåm rah anregolaid
-redlå
-maskrevsekry
-i gninklofeb
-ledna ergäl hco dgnälsvilledem
-tmas ellähmas
-hco rutkurtsarfni vitkeffetropsnart röf nevohebsgnilkcevtu
-va
-tednaröfmoneg
-i
-nedårmo
-assed
-moni
-reks
-mos etebrasgnilkcevtu tlluf
-stevilsgnirän
-hco
-gardppu
-snedräfläv
-aralk tta ragninamtu llit
-redel
-moni
-reigrenys åp arav at tta nevä neM .danggybtusdnabderb
-ttastrof
-lliv
-hco nak
-reppurgsrötka
-akilo ruh
-mo
-taldnah
-åskco rah lepsnI .nigetarts
-.gninjrösröfsnetepmok
-03
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202
-DNALATÖG ARTSÄV
+BILAGA: Sammanfattning av ändringar och förtydliganden i den aktualiserade
+
+regionala utvecklingsstrategin
+
+I denna bilaga sammanfattas de ändringar som gjorts i strategin inför
+
+• Effekterna i samhället av klimatförändringar och förlust av biologisk
+
+bidra i genomförandet, exempelvis har det civila samhällets roll synliggjorts
+
+remiss. Längre ner beskrivs även syfte och avgränsning för översynen
+
+mångfald blir alltmer kännbara och allvarliga.
+
+mer. Översynen har resulterat i några förtydliganden i beskrivningen av de
+
+samt hur den genomförs i en dialogprocess.
+
+• Den digitala transformationen, utvecklingen inom AI och andra ban-
+
+långsiktiga prioriteringarna för att i högre grad spegla omvärldsförändringar
+
+brytande teknologier går snabbt och påverkar alla delar i samhället. Det
+
+och dagens förutsättningar samt stärka genomförandekraften. Exempel:
+
+Ändringar och förtydliganden i strategin
+
+öppnar nya möjligheter men innebär också etiska dilemman och risker
+
+• Stärka innovationskraften; Inom denna långsiktiga prioritering tydlig-
+
+I de aktörsdialoger som genomförts i översynen framgår att den regionala
+
+inom exempelvis cybersäkerhet.
+
+görs vikten av att satsa både på bredden för ett diversifierat näringsliv,
+
+utvecklingsstrategin (RUS) till stor del fortsatt upplevs relevant och angelä-
+
+• Ungas välbefinnande utvecklas åt fel håll, många känner oro för framtiden
+
+inklusive entreprenörskap och små- och medelstora företag, och på
+
+gen. Det finns därmed ett stöd för att behålla strategins mål och fyra lång-
+
+och det är fortsatt många som inte klarar skolan. Allt yngre personer
+
+ökad spets inom områden av särskild vikt för länets sysselsättning och
+
+siktiga prioriteringar. För att få genomslag och lösa samhällsutmaningarna
+
+rekryteras till kriminella gäng.
+
+globala konkurrenskraft. Vikten av att tillsammans stärka den väst-
+
+behöver vi samverka utifrån våra olika roller och ansvar för att hitta vägar
+
+• Tilliten till samhället och demokratin riskerar att minska i takt med dels
+
+svenska attraktiviteten för internationell spetskompetens, strategiska
+
+framåt, och vi behöver hela tiden utveckla samverkan, våra arbetssätt och
+
+ökad spridning av falsk eller vilseledande information, dels utbredd orga-
+
+etableringar och investeringar har förtydligats.
+
+gemensamma insatser.
+
+niserad brottslighet.
+
+• Bygga kompetens; Samverkan och gemensamma insatser inom denna
+
+Strategin gäller fortsatt fram till 2030, men
+
+Samtidigt kvarstår de utmaningar som tas upp i gällande strategi, exem-
+
+långsiktiga prioritering är idag än mer avgörande för att möta de demo-
+
+STRATEGINS MÅL LIGGER KVAR.
+
+pelvis att invånarnas tillgång till arbete och service skiljer sig åt i olika
+
+grafiska utmaningarna och klara morgondagens kompetensförsörjning
+
+eftersom det krävs långsiktighet när vi samverkar kring komplexa utma-
+
+delar av länet.
+
+och livslånga lärande. Bygga kompetens har uppdaterats med ett ökat
+
+ningar och omställning, har en utblick mot 2045 lagts till.
+
+fokus på hur vi kan säkra och utveckla de kompetenser som krävs för
+
+och förändrade förutsättningar för
+
+Som en följd av ovan har strategins avsnitt ”Samhällsutmaningar som driv-
+
+den gröna och digitala omställningen, men även ökat fokus på att
+
+DE SENASTE ÅRENS OMVÄRLDSHÄNDELSER
+
+kraft” skrivits om och strategin som helhet har genomarbetats med uppda-
+
+tillvarata allas kompetens.
+
+utveckling i Västra Götaland har påverkat aktualiseringen. Det handlar
+
+teringar utifrån aktuellt omvärldsläge. Strategins bidrag till klimatomställ-
+
+bland annat om:
+
+ningen och till att stärka den biologiska mångfalden har förtydligats. De
+
+• Öka inkluderingen; Denna långsiktiga prioritering har konkretiserats
+
+• Det osäkra världsläget med fler allvarliga kriser och geopolitiska konflik-
+
+siffersatta – redan antagna – klimatmålen för Västra Götaland har skrivits
+
+utifrån ett regionalt utvecklingsperspektiv. Det handlar bland annat om
+
+ter ställer nya krav på robusthet och beredskap i samhälle och näringsliv.
+
+in i strategin efter önskemål från kommuner och länsstyrelsen med flera.
+
+vikten av invånarnas delaktighet och engagemang i samhällsutvecklingen,
+
+• Västsveriges ekonomi och näringsliv står inför hårdare global
+
+tillit till samhället och demokratin och om att bryta digitalt utanförskap,
+
+konkurrens, snabb förändring i värdekedjor och ökade krav på
+
+Stärka innovationskraften, Bygga
+
+men även om att bättre synliggöra näringslivets engagemang och det
+
+nyckelkompetenser.
+
+DE FYRA LÅNGSIKTIGA PRIORITERINGARNA;
+
+civila samhällets och sociala ekonomins roll.
+
+kompetens, Öka inkluderingen och Knyta samman Västra Götaland ligger
+
+• Den demografiska utvecklingen med minskande födelsetal, ökad
+
+kvar och fortsätter utgöra basen i det regionala utvecklingsarbetet. I aktörs-
+
+• Knyta samman Västra Götaland; Inom denna långsiktiga prioritering
+
+medellivslängd och lägre andel befolkning i yrkesverksam ålder
+
+dialogerna har många lyft att det är viktigt att bättre synliggöra allt värde-
+
+är det fortsatt viktigt med samverkan och påverkansarbete för att möta
+
+leder till utmaningar att klara välfärdens uppdrag och näringslivets
+
+fullt utvecklingsarbete som sker inom dessa områden i genomförandet av
+
+utvecklingsbehoven för transporteffektiv infrastruktur och samhälle samt
+
+kompetensförsörjning.
+
+strategin. Inspel har också handlat om hur olika aktörsgrupper kan och vill
+
+fortsatt bredbandsutbyggnad. Men även att ta vara på synergier inom
+
+REGIONAL UTVECKLINGSSTRATEGI 30
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 283 -->
 
-RAGNIRDNÄ
+BILAGA: SAMMANFATTNING AV ÄNDRINGAR
 
-VA
-GNINTTAFNAMMAS
+Utgångspunkter för översynen
 
-:AGALIB
-nenysrevö
-röf
-retknupsgnågtU
-,egälun hco
-dlrävmo nårfitu
-igetarts
-va raled aresilautka
-tta mo
-raldnah nenysrevÖ
--evitom
-GNIRENALPSLLÄHMAS I NAKREVMAS
-MONEG
-TEHTSUBOR DAKÖ
--turöf
-ne mos
-,tedårmosgnindnävnakram
-hco
--sgnirenalpsllähmas
-tednaröfmoneg
-akrätsröf
-tta
-åskco
-rä tetfyS
-.igetarts yn ne
-marf at tta mo
-etni
-masnemeg
-dakö va voheb tte rekcyrttu rerötka
-agnåm
-tta nårfitu
-sar
-va raled
-akilo
-i tehrän
-dakö
-hco tfarksgnilkcevtu
-tkräts röf gninttäs
-.tegat i rå aryf
-röf satulseb
-mos
-ragnilmastfark
-snigetarts revö
-es tta åp sukof
-dem
-hco
-gninjrösröfsledemsvil hco -igrene sivlepmexe
-moni paksdereb
-edåb
-röf retehgiljöm
-mos
-stfyl kinket
-yn
-hco
-gniresilatigiD .tenäl
-ammasnemeg
-va pläjh dem tta åp reggil
-sukoF
-.gninssapnatamilk
-.gnirenalpsllähmas
-hco roser arabllåh
--oiger ned
-aks )385:7102(
-etebrasgnilkcevtu
-tlanoiger mo
-negnindroröf
-tgilnE
-ilb
-gnirenalpmas dakö tmas redlibsditmarf
-hco
-reiranecs ,resylana
-hco -noiger
-llit lav ejrav
-nallem
-gnåg
-ne tsnim
-revö ses nigetartssgnilkcevtu
-alan
-netfarksgnilkcevtu
-akö hco agitfarksdnåtstom
-,avitkeffesruser
-rem
-hco rettäsre
-asseD
-.SÅLSERÖF
-GNIRK ALMASTFARK
-TTA NEDÅRMO AYN ERT
-.arav aks
-nenysrevö
-ednattafmo
-ruh rögva
-noiger ejraV .egitkämllufnummok
-artsäV
-tta mo etni raldnah gnilmastfark
-anneD
-.dnalatöG artsäV
-i
-,reiduts
-adjlöflluF(
-ragnilmastfark
-aryf
-snegad
-åp eradiv sivled reggyb
-nårf gnamegagne
-trots
-dem nigetarts
-va tednaröfmoneg
-rågåp
-dnalatöG artsäV
-I
-nagroenalpnoiger
-ilb tta åp kårpsna arög
-resva
-nenoigersdnalatöG
-.)relledomsräffa
-arälukriC
-hco gnirefiirtkelE
-,gniresilatigiD
-adröreb ardna
-hco neslerytssnäl
-,tellähmas
-alivic
-,netäsoräl ,vilsgnirän
-,renummok
--mas
-i nakrevmas alkcevtu tta mo natu ,negalggyb
-hco -nalP tgilne
-rarevitom
-gnilkcevtu
-snerå etsanes
-ed hco egälsdlrävmo
-ednadåR
-.retehgidnym
-:rä anedårmo ayn eD
-.nedårmosravsna hco rellor akilo aråv
-nårfitu
-negnirenalpslläh
-hco tnaveler
-arav aks
-ttastrof
-ned
-tta röf saresilautka
-nigetarts
-va raled tta
-ådnä
-gninllätsmo
-anörg snirtsudnI
-•
-röfräd rah
-,nenysrevö
-redel mos
-,nednmänsgnilkcevtunoiger
-hco -öjliM .lleutka
-agnu
-hco
-nrab atsursditmarF
-•
--tfark aryf
-ednaravun snigetarts moni netebramas
-hco
-ragninstas agitkiV
-:aks nenysrevö
-tta tatulseb
-gnirenalpsllähmas
-i nakrevmas
-moneg
-tehtsubor dakÖ
-•
-anedårmo
-ayn ed röf nemar moni attästrof led
-ssiv llit
-remmok ragnilmas
-:nigetarts
-va raled aresilautka
-hco revö
-eS
-•
--röfmoneg
-ammasnemeg ted i rettästrof raled
-ardnA
-.gnilmastfark
-röf
--ssimer
-akilo
-ed
-nårf retknupnys
-agnåf
-tta
-rä
-nessimer i led gitkiv nE
-ruh
-mo golaid
-ah nem
-,ragniretiroirp
-agitkisgnål hco
-telåm allåheB-
--igid ned
-rä sivlepmexE .ragniretiroirp agitkisgnål
-snigetarts
-moni tedna
-moni
-åp aresukof
-snammasllit
-tta tsagitkiv
-rä
-ted dav mo anresnatsni
-.sakrätsröf
-revöheb
-hco råg
-tednaröfmoneg
-snigetarts
-röf ednarögva IA va negninpmällit
-hco nenoitamrofsnart
-alat
-.nerå
-etsamrän
-ed edårmo evitkepser
-.golaid hco
-gniredrävtu
-va pläjh
-dem anragnilmastfark
-revö eS-
-nakrevmas
-ttastrof dem tgitkiv rä ted hco
-tehleh
-mos ednaröfmoneg
-.nigetarts
-va tednaröfmoneg
-akrätsröF
-•
-gadi
-reks mos ted va raleD .nedårmo akilo
-moni
-gniresilatigiD gnirk
-rä dnalatöG
-artsäV
-tta
-va sarevitom
-GNINLLÄTSMO
-ANÖRG SNIRTSUDNI
-.tetebrasgnilkcevtu
-alanoiger
-ammasnemeg
-ted
-va tedräv mo
-nepaksnuk ajöH
-•
-nak relledomsräffa
-arälukriC hco gnirefiirtkelE
-anragnilmastfark
-moni
-ednarögva
-rä
-negninllätsmo
-anörg ned
-tta
-hco
-noigerirtsudni krats ne
--trof raled
-ardna ,”gninllätsmo anörg snirtsudnI”
-moni
-salkcevtueradiv
--motamilk
-aralk
-,tfarksnerruknok
-agitkisgnål
-snirtsudni arkäs tta röf
-snammasllit
-nenysrevö
-iv rög
-åS
-anragniretiroirp
-agitkisgnål ed moni tetebra va
-led gilrutan
-ne mos rettäs
-.dräfläv
-råv
-rareisnanfi
-rut
-nis i tekliv
-,nebboj
-allåheb hco negninlläts
-ted eddeks
-marf sgot
-nigetarts
-räN
-.ssecorpgolaid
-ne mos sröfmoneg
-nenysrevÖ
--ukric
-moni tetebrA .snetepmok aggyB hco
-netfarksnoitavonni
-akrätS
-arälukric
-,gninjrösröfle
-gnirk
-gadi reks
-mos
-nakrevmas
-ned va tekcyM
--ummok arevlovni
-tta
-tgitkiv
-ted rä
-ttäs ammas
-åP .tehgitkaled
-hco golaid
-derb
-i
-i tetebrasgnilkcevtu
-i led ne mos eradiv savird
-nevä
-nak reöjlimsvil
-aräl
--rätsröf
-nak tetebrasgninjrösröfsnetepmok
-i
-tsnim
-etni hco rojdekedräv
-daresilautka
-åp tegalsröf
-akciks
-ttA
-.nenysrevö
-i rerötkalekcyn
-ardna hco
-anren
-adoG
-.dnalatöG artsäV nammas atynK negniretiroirp
-agitkisgnål
-ned
-.snammasllit
-ralmastfark
-iv tta moneg sak
-rä gnirknaröf
-hco tehgitkaled
-derb
-nE .atted
-i led gitkiv ne
-rä ssimer åp igetarts
-nak
-reiduts adjlöflluF moni nakrevmas ednaregnuf
-hco retehnerafre
-negniresilautkA
-.ednaröfmoneg
-tmasnemeg
-tkrats
-ttastrof tte
-röf gninttästuröf
-ne
-.”agnu hco nrab atsursditmarF”
-moni
-salkcevtueradiv
-hco nrab
-tta
-va dnurgkab
-tom sålseröf
-AGNU
-HCO
-NRAB ATSURSDITMARF
-:i tknupsgnågtu
-rat nigetarts
-va
-agårf
-ksitirk
-ne
-rä ted
-tta hco llåh
-lef tå
-salkcevtu
-edneåmläv sagnu
-sylanasdlrävmo
-hco
-dnalatöG
-artsäV
-i negnilkcevtu
-mo galrednuspaksnuK
-•
-nednagildytröf
-erdnim rah EDNARÖFMONEG
-SNIGETARTS
-MO NETTINSVA
-I
-adröfmoneg
-I .trots
-i negnilkcevtusllähmas
-röf
-hco nedividni röf edåb
-ednaröfmoneg
-snigetarts
-va ragninjlöfppu
-agilrÅ
-•
-attästrof
-aks hco ravk reggil anrepicnirp
-ednadelgäv
-aryf eD .strojg
-nårfitu
-– tta
-va netkiv
-åp
-rerötka alla
-ttes trots
-i rekcyrt regolaidsrötka
-ragnilmastfark
-ednaravun
-snigetarts
-va gniredrävtU
-•
-netkiv
-tfyl agnåm rah anregolaidsrötka I .tednaröfmoneg
-i sso anamtu
-hco
-nrab
-eg tta
-röf almastfark
-ttastrof
-–
-ravsna
-hco rellor akilo anis
-nedoirep
-rednu
-latmas
-aksitilop
-hco regolaidsrötka
-nårf lepsnI
-•
--mas ,retehgiljöm
-ragninttästuröf srestalp akilo
-aravllit
-at ttastrof tta
-va
-arelangis
-tgildyt
-tta
-röf neM
-.tevil i trats
-arb
-ne
-dnalatöG artsäV i agnu
-.5202 iraurbef–4202
-jam
-åvin
-ksieporue hco llenoitan åp sso andromas
-revöheb
-iv mos tgidit
--eröf
-,naloks
-monegi
-gis
-aralk tta nä
-rem
-tekcym
-mo raldnah ted tta
-alla satsil
-räD .0302gv/es.noigergv.www
-åp
-ajlöf tta råg nenysrevö
-dem tetebrA
--turöf
-apaks hco gnilkcevtu segirevstsäV röf
-rednih
-ajörnadnu tta
-röf
-.nedårmo
-assiv
-moni
-nakrevmas
-i gatmo
-tte
-hco
-gninmarni yn ne såls
-.ragniredrävtu
-hco ragninjlöfppu
-,galrednuspaksnuk
-hco regolaidsrötka
--radel ammasnemeg
-teD .rogårf edaretiroirp
-tmasnemeg
-röf ragninttäs
-ednaravun
-nårf
-anretehnerafre
-aravllit
-at
-tta
-tgitkiv ted rä tgiditmaS
-agitfarksgnildnah
-arav revöheb iv hco ednarögva
-remtlla rilb tepaks
-mos ted
-adirps
-hco
-alkcevtueradiv
-hco
-reiduts
-adjlöflluF moni etebra
-.tehrekäso hco tetixelpmok
-dakö
-stort abbans
-hco
-.arb raregnuf
-13
-IGETARTSSGNILKCEVTU
-LANOIGER
-0302–1202 DNALATÖG
-ARTSÄV
+samhällsplanerings- och markanvändningsområdet, som en förut-
+
+ÖKAD ROBUSTHET GENOM SAMVERKAN I SAMHÄLLSPLANERING motive-
+
+Översynen handlar om att aktualisera delar av strategi utifrån omvärld och nuläge,
+
+sättning för stärkt utvecklingskraft och ökad närhet i olika delar av
+
+ras utifrån att många aktörer uttrycker ett behov av ökad gemensam
+
+inte om att ta fram en ny strategi. Syftet är också att förstärka genomförandet
+
+länet. Digitalisering och ny teknik lyfts som möjligheter för både
+
+beredskap inom exempelvis energi- och livsmedelsförsörjning och
+
+med fokus på att se över strategins kraftsamlingar som beslutas för fyra år i taget.
+
+hållbara resor och samhällsplanering.
+
+klimatanpassning. Fokus ligger på att med hjälp av gemensamma
+
+Enligt förordningen om regionalt utvecklingsarbete (2017:583) ska den regio-
+
+analyser, scenarier och framtidsbilder samt ökad samplanering bli
+
+nala utvecklingsstrategin ses över minst en gång mellan varje val till region- och
+
+TRE NYA OMRÅDEN ATT KRAFTSAMLA KRING FÖRESLÅS. Dessa ersätter och
+
+mer resurseffektiva, motståndskraftiga och öka utvecklingskraften
+
+kommunfullmäktige. Varje region avgör hur omfattande översynen ska vara.
+
+bygger delvis vidare på dagens fyra kraftsamlingar (Fullföljda studier,
+
+i Västra Götaland. Denna kraftsamling handlar inte om att Västra
+
+I Västra Götaland pågår genomförandet av strategin med stort engagemang från
+
+Digitalisering, Elektrifiering och Cirkulära affärsmodeller).
+
+Götalandsregionen avser göra anspråk på att bli regionplaneorgan
+
+kommuner, näringsliv, lärosäten, civila samhället, länsstyrelsen och andra berörda
+
+De nya områdena är:
+
+enligt Plan- och bygglagen, utan om att utveckla samverkan i sam-
+
+myndigheter. Rådande omvärldsläge och de senaste årens utveckling motiverar
+
+• Industrins gröna omställning
+
+hällsplaneringen utifrån våra olika roller och ansvarsområden.
+
+ändå att delar av strategin aktualiseras för att den fortsatt ska vara relevant och
+
+• Framtidsrusta barn och unga
+
+Viktiga satsningar och samarbeten inom strategins nuvarande fyra kraft-
+
+aktuell. Miljö- och regionutvecklingsnämnden, som leder översynen, har därför
+
+• Ökad robusthet genom samverkan i samhällsplanering
+
+samlingar kommer till viss del fortsätta inom ramen för de nya områdena
+
+beslutat att översynen ska:
+
+En viktig del i remissen är att fånga synpunkter från de olika remiss-
+
+för kraftsamling. Andra delar fortsätter i det gemensamma genomför-
+
+• Se över och aktualisera delar av strategin:
+
+instanserna om vad det är viktigast att tillsammans fokusera på inom
+
+andet inom strategins långsiktiga prioriteringar. Exempelvis är den digi-
+
+\- Behålla målet och långsiktiga prioriteringar, men ha dialog om hur
+
+respektive område de närmaste åren.
+
+tala transformationen och tillämpningen av AI avgörande för strategins
+
+genomförandet går och behöver förstärkas.
+
+genomförande som helhet och det är viktigt med fortsatt samverkan
+
+\- Se över kraftsamlingarna med hjälp av utvärdering och dialog.
+
+motiveras av att Västra Götaland är
+
+kring Digitalisering inom olika områden. Delar av det som sker idag
+
+• Förstärka genomförandet av strategin.
+
+INDUSTRINS GRÖNA OMSTÄLLNING
+
+• Höja kunskapen om värdet av det gemensamma regionala utvecklingsarbetet.
+
+en stark industriregion och att den gröna omställningen är avgörande
+
+inom kraftsamlingarna Elektrifiering och Cirkulära affärsmodeller kan
+
+för att säkra industrins långsiktiga konkurrenskraft, klara klimatom-
+
+vidareutvecklas inom ”Industrins gröna omställning”, andra delar fort-
+
+Så gör vi översynen tillsammans
+
+ställningen och behålla jobben, vilket i sin tur finansierar vår välfärd.
+
+sätter som en naturlig del av arbetet inom de långsiktiga prioriteringarna
+
+Översynen genomförs som en dialogprocess. När strategin togs fram skedde det
+
+Mycket av den samverkan som sker idag kring elförsörjning, cirkulära
+
+Stärka innovationskraften och Bygga kompetens. Arbetet inom cirku-
+
+i bred dialog och delaktighet. På samma sätt är det viktigt att involvera kommu-
+
+värdekedjor och inte minst i kompetensförsörjningsarbetet kan förstär-
+
+lära livsmiljöer kan även drivas vidare som en del i utvecklingsarbetet i
+
+nerna och andra nyckelaktörer i översynen. Att skicka förslaget på aktualiserad
+
+kas genom att vi kraftsamlar tillsammans.
+
+den långsiktiga prioriteringen Knyta samman Västra Götaland. Goda
+
+strategi på remiss är en viktig del i detta. En bred delaktighet och förankring är
+
+erfarenheter och fungerande samverkan inom Fullföljda studier kan
+
+en förutsättning för ett fortsatt starkt gemensamt genomförande. Aktualiseringen
+
+FRAMTIDSRUSTA BARN OCH UNGA föreslås mot bakgrund av att barn och
+
+vidareutvecklas inom ”Framtidsrusta barn och unga”.
+
+av strategin tar utgångspunkt i:
+
+ungas välmående utvecklas åt fel håll och att det är en kritisk fråga
+
+• Kunskapsunderlag om utvecklingen i Västra Götaland och omvärldsanalys
+
+både för individen och för samhällsutvecklingen i stort. I genomförda
+
+I AVSNITTEN OM STRATEGINS GENOMFÖRANDE har mindre förtydliganden
+
+• Årliga uppföljningar av strategins genomförande
+
+aktörsdialoger trycker i stort sett alla aktörer på vikten av att – utifrån
+
+gjorts. De fyra vägledande principerna ligger kvar och ska fortsätta
+
+• Utvärdering av strategins nuvarande kraftsamlingar
+
+sina olika roller och ansvar – fortsatt kraftsamla för att ge barn och
+
+utmana oss i genomförandet. I aktörsdialogerna har många lyft vikten
+
+• Inspel från aktörsdialoger och politiska samtal under perioden
+
+unga i Västra Götaland en bra start i livet. Men för att tydligt signalera
+
+av att fortsatt ta tillvara olika platsers förutsättningar möjligheter, sam-
+
+maj 2024–februari 2025.
+
+att det handlar om mycket mer än att klara sig igenom skolan, före-
+
+tidigt som vi behöver samordna oss på nationell och europeisk nivå
+
+slås en ny inramning och ett omtag i samverkan inom vissa områden.
+
+för att undanröja hinder för Västsveriges utveckling och skapa förut-
+
+Arbetet med översynen går att följa på www.vgregion.se/vg2030. Där listas alla
+
+Samtidigt är det viktigt att ta tillvara erfarenheterna från nuvarande
+
+sättningar för gemensamt prioriterade frågor. Det gemensamma ledar-
+
+aktörsdialoger och kunskapsunderlag, uppföljningar och utvärderingar.
+
+arbete inom Fullföljda studier och vidareutveckla och sprida det som
+
+skapet blir alltmer avgörande och vi behöver vara handlingskraftiga
+
+fungerar bra.
+
+och snabba trots ökad komplexitet och osäkerhet.
+
+31
+
+REGIONAL UTVECKLINGSSTRATEGI
+
+VÄSTRA GÖTALAND 2021–2030
 
 <!-- sida 284 -->
 
@@ -21719,7 +16736,7 @@ pensionärs- och seniorråd ska inrättas i Kungsbacka senast 2026.
 fanyinfullmäktigeledamöter
 
 ( .
-— Ermin SKOrc(SJ-— > > ”Maj-Brytt Kane Andersson (5)
+— Ermiin SKOre (Sj-— > > ”Maj-Brytt Kane Andersson (S)
 
 <!-- sida 323 -->
 
@@ -22086,20 +17103,9 @@ Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 <!-- sida 332 -->
 
-1
-va
-1
-adis
-1
-agaliB
+Ärendenummer: #210250 | Datum: 2025-06-01 18:14
 
-41:81
-10-60-5202
-
-:mutaD
-| 052012#
-
-:remmunednerÄ
+Bilaga 1 sida 1 av 1
 
 <!-- sida 333 -->
 
@@ -22118,6 +17124,17 @@ Vallda 2025-06-01
 <!-- sida 334 -->
 
 <!-- sida 335 -->
+
+ÅA
+
+ÅÅ- Begäran om planbesked för Vallda 9:30 i Vallda. å ! 0
+
+N | Vallda 9:30 ligger inom kustbygd enligt kommunens översiktsplan. FF HR
+
+1 20250813
+
+ä: 1:150 000 (vid A4 stående)
+17,5 km
 
 <!-- sida 336 -->
 
@@ -22489,1111 +17506,1464 @@ Organisationsnummer: 212000-1256 | (e-post borttagen) | kungsbacka.se
 
 <!-- sida 346 -->
 
-gadi
+1955
 
-5591
-3:1
-agahråpS
-röf
-ssikS
-62-50-5202
-7
-va
-1
-adis
-1
-agaliB
-54:90
-20-60-5202
-:mutaD
-| 886702#
-:remmunednerÄ
+idag
+
+Skiss för Spårhaga 1:3
+
+2025-05-26
+
+Ärendenummer: #207688 | Datum: 2025-06-02 09:45
+
+Bilaga 1 sida 1 av 7
 
 <!-- sida 347 -->
 
-3.922
-
-8.722
-
-2.722
-
-1622
-
-5.422
-
-2.122
-
-7.122
-
-4422
-
-9.922
-
-5.144
-7.133 1.133
-0133
-9.033
-7.533
-4633
-6.033
-2.233
-8.922
-9.922
-3.922
-4.722
-9.422
-9.122
-7.122
-9.622
-5.533
-5.633 1.833
-8.93
-9.133
-9.733
-6.244
-1.244
-9433
-1.133
-9.522
-7.122
-4.122
-8.422
-8.5
-8.333 7.733
-8.833
-7.433
-3433
-1.333
-6.322
-2.122
-7.522
-5.033
-1.733
-7.133
-0922
-6.122
-9.022 4.222
-6.422
-8.522
-7.922
-4133
-53
-0522
-2.122
-3322 4.222
-7.422
-8.522
-7.622
-1822
-0.033
-2.322
-6.022
-7.022 2.222
-4.422
-1.622
-7.722
-3.033
-7.92
-3.622
-6.222
-4.022
-9.022 4.222
-6.5
-7.722
-533
-1.633
-9.822
-3.522
-4.022
-1.122 8.222
-522
-2.133
-3.633
-0.433
-6.92
-2.522
-6.122
-02
-4.122 8.322
-6.622
-3.2
-2.44
-6.444
-4.833
-2.922
-5.122
-6.022
-5.222 8.522
-9.722
-1044
-0.944
-9.744
-9.344
-8.633
-1.122
-4.022
-4.32 9.622
-1.133
-1.244
-3.644
-6.155
-1.144
-8.144
-7.82
-6.122
-1.122
-352 4.033
-9.233
-2.733
-8.044
-P 11
+62           ::66 11 00 011          22
+1:1 7      ::55 11 99 -sd
+2
+rrrå
+1
+gettälS 33
+55 11:: 888 41 5 1: 6 02   :44 1 00
+1 33::11 88 :6 11 3 :3 1 3 ::33 11 44 :5 1 7
+33
+116
+:33
+1
+99
+AA222
+4:1 6
+4:1 33
+4
+:6 1 8
+44
+55
+::ss
+6
+gävsno
+88 itatS s 7 nedeHH 9
+::33
+111
+5
+B2
+HHedeenns 66:11 55 H 3333:::111 77 ööjdstig 444 66 :1 1 1 s
+4:
+:99 11 44:s
+8
+2
+444::ss                  :1
+54
+2:11 8       9:1
+39  66::11 77
+A93
+73
+1:1 2
+2244
+555::111
+5533
+1111333
+1:1 3
+2:1 0
+29  1                                                        :11 2 11
 ::88
 222
 11
-:2 2 33 :1 2 0 9 2: 77 9:2 66
-7:222
-:11 22 933 5 :1 :9 11
-1 22: 8
-7 1: 99       6:2 55
-11        1:1 16
-11 666: :99 3
-222 :1 8
-1:1 7      ::55 11 99 55 11:: 888 5 1: 6
-33::11 88 :6 11 3 :3 1 3 ::33 11 44 :5 1 7
-::33 111 5 4:1 33 :6 1 8
-66:11 55
-555::111
-1:1 3
-::111 11 666222                             8 2: 6
-::11 11 0000                                      ::88 22 77 3:1 9
-5:1
-sss:::666
-12
-22221111::::ssss ::5 1 1 6:1 8   66 1: 333111:ss 7::1
-6:1 9
-:7 11 77 1111:: 999999
-1111:::1 111
-::55 :1 11 12       :7 1 5 :3 6        11
-99 11:
-223333 :1 33
-4:1 6 44::ss
-:1 1 1 s
-4:
-2:11 8
-2:1 0
-555::11 000
+72
+555::11 000  :3 1
+:9
+1
+100
+3
+AA555 BB555555 ::111
+11
+666222
+4:1 0
 1:s
+32
+neegggäävveeeelllluukkddduuurrrBBB CC55
+::11
+11
+0000
+D55 44 11:: 99
+55
 8:2 8
-777777777777::ssss
-1:1 22         :3 1 8:1 0
-s::1112                           33111:::ss
-:3
-1         ::11 66666
-ss:1            ss
-1:
-133 :9 1 7
-8888:1 88
-01:2
-3333:::111 77
-1:1 2
-44 11:: 99
-4:1 0          :::999
+8 2: 6
+::88
+22
+77          122
+3:1 9  7    :::999
 111
-999
-44::11 1
-4::66
-0077:::111
-66::11 77
-1177::11
-::66 11 00
+999                                    33
 11::22
 11155
-11 11:: 2277
-ÅPSSS :11
-NEEDEHSLOB
-AAAGGGAAHR
-AGAHHRÅPS
-1
-7
-444
-A93
-100
-2
-16
-11111445555 3445
-1
-2-8
-AA33
-62                       33 21 41
-4  6        9 88
-66
-73
-5533 1111333
-29
-3
-D55
-32                                                 55               122 7
-1                                                       44
-1
-3                                                     94455
-3
-1 11 2 5
-B3
-011             22 02
-33
-116 AA222 55
-B2
-54
-39
-2244
-1 72
-AA555 BB555555 CC55
-33
-9
-99
-7
-11116666644444
-1
-BBB-A3                            22 5
-3 3        15
-81 -sdrrrågettälS
-gävsnoitatS snedeHH
-Hööjdstig HHedeenns
-negäveelllluukkdurB
+1         9                                             44
 Lindååsvägen
-sss::::11111222222
-ssssss:::::1111122222222
-ccakkee
-OOOgggl aass nnneeggggäävvssppp
-eeppp SSkk en hagg vlKa
-3.344
-6.544
-7.44
-4.844
-0.344
-3.644
-6.844
-9.544
-6.944
-2.944
-5.944
-0.444
-6.133
-0.244
-5.644
-7944
-4.944
-4.744
-5.055
-0.844
-4.344
-1233
-4.633
-2.144
-1.944
-4.055
-4.644
-9.055
-5.644
-1444
-653
-6633
-0.333
-5.133
-3833
-4.244
-1.644
-1544
-9.544
-7.344
-1.344
-4.033
-5.033
-0.133
-3.633
-7.444
-4.644
-5.744
-1.933
-5.333
-8.433
-0.233
-4.033
-9.544
-5.444
-5.544
-8.44
-9.844
-2.944
-2.355
-5.155
-2.755
-9.933
-:33
+44::11 1
 1
-99
-44:s :99 11
-444::ss
-9:1
-:11 2 11 :3 1 :9 1 AAGGAAHRÅPSS
-NEDEHSLOB 8
-eggävee
-dduurrBB
-ssssssss:::::1111111111222
-31        3311
--sgninnivretå
-tknuptunk
-noitats
-kfiartvitkellok gnirekraplednep
-rotamrofsnart
-noitats- nekcäbskivyK
-)m
-001 ddyksdnarts(
-1 1 llavnab
-lammag
-gitsgnåg
-dem
-6.144
-7.133
-2.233
-1.444
-9.344
-4.05
-5.144
-1.444
-m 002
-000011
-02 0
-:44 1 00
-2 :1
-7.533
-3.133 ::rraaggggggggnnn3.533iiinnnttttttääässstttuu9.044rrööFF
-!!kkk4fififi.fi433 aaarrrtttvvviiitttkkkk
-00.1 eeeee 333 lllllloookkk
-hhhccc
-66..1133 oooo nnneeedddååårrr
-22..3333 mmmmooonnnnööörrrgggg
-22.663333 ,,,vvvaaaahhh
-aaarrr
-1.04 äääNN
-•
---ssssgggggooooookkkkksssss nnnnneeeee
-hhhhhcccccooooo
-rrrrreeeeetttttsssssääääävvvvv
-iiiii kkkkkrrrrraaaaammmmmssssseeeeettttteeeeebbbbb
-vvvvvaaaaa rrrrrråååååtttttsssssseeeeebbbbbb
-tttttteeeeeeddddddåååååårrrrrrmmmmmOOO
-••
-NNNNNNNEEEEEEEDDDDDDDEEEEEEEHHHHHHHSSSSSSSLLLLLLLOOOOOOOBBBBBBB
-6.444
-5.333
---sssskkkkiiiiivvvvvvyyyyyKKKKK vvvvvaaaaa
-sssssaaaaasssssrrrrroooookkkkk
-nnnnneeeeekkkkkrrrrraaaaammmmmssssseeeeettttteeeeeBBBBB
-.....rrrrreeeeee8.ttttttt333ssssssööööööö
-iiiii
-ddddddjjjjjjöööööö
-00..933 hhhhhh nnnnneeeeexxxxuuuuvvvvv
-33.444 eeebb
-mmmmmoooooossssss ))))))nnnnnnaaaaaannnnnnaaaaaabbbbbböööööörrrrrrääääääSSSSSS
-......dddddd.......fffffff((((((( llllllllllllllaaaaaaavvvvvvvnnnnnnaaaaaabbbbbbb
-lllllllaaaaaaaammmmmmmmmmmmmmmmaaaaaaaagggggggg
-nnnnnnneeeeee
-hhhhhhccccccoooooo
-nnnnnneeeeekkkkkcccccääääbbb
-....kkkkkååååårrrrrtttttssssssgggggnnnnnååååågggggg
-mmmmmmmoooooossssss ssssssaaaaaajjjjjjttttttttttttyyyyyyyynnnnnnntttttttuuuuuuu
-hhhhhhhcccccccooooooo
-dddddddäääääärrrrrrttttttvvvvvööööölllll
-vvvvvaaaaa
-ssssssaaaattttnnnnnaaaaakkkkk
-22..553333
-7.553333
-9.233
-2044
-34
-sssssaaaaattttttttttaaaaafffffmmmmmmoooooo
-nnnnnneeeeeekkkkkkccccccääääääbbbbbbssssssskkkkkkkkiiiiiiivvvvvvvyyyyyyyKKKKKKKK
-mmmmmmmmooooooo rrrrrrrooooooodddddddiiiiiiisssssss
-aaaaaaaddddddddååååååååbbbbbbbb
-ååååååååpppppppp ttttttteeeeeeeddddddddååååååååårrrrrrrmmmmmmmOOOOOOO
-••
---eeeedddd aaaarrrroooottttssss
-lllllllllliiiiiittttttt rrrrrreeeeeevvvvvvvööööööööhhhhhhhhh5.2244eeeeeeeebbbbbbbb
-tttttttteeeeeeeeddddddddddddddddd
-00..224444 yyyyyyyykkkkkkkkssssssssddddddddddddnnnnnnnnnnnnnaaaaaaaaaaaa
-0.833 rrrrrrrrrrrttttttttSSSSSSSS ........dddddddddddddddddyyyyyyyy
-55444 kkkkkkksssssddddnnnnaaaarrrtttt
-88.055 ssss vvvaaa
-.teedddåååårrrrrrrmmmmmmmooooooo
-aaaaaaaggggggggggggggyyyyyyybbbbbbbeeeeeeebbbbbbb
-aaaaaaaannnnnnnnnnnnnnnnuuuuuuuuuukkkkkkkkkkkk
-ttttttttttttttttttttttttaaaaaaaaaaaa rrrrrrrrrrrrööööööööööööffffffffff
-ssssssssaaaaaaaavvvvvvväääääähhhhhppppppppppuuuu
-rrraaalll
-OOBBSSGGNNÅÅBBBB
-7
-va
 2
-adis
-1 agaliB
-54:90
-20-60-5202
-:mutaD
-| 886702#
-:remmunednerÄ
+5:1                                         777777777777::ssss :2 2 33 :1 2 0 9 2: 77
+16
+9:2 66
+sss:::666
+99
+7               1:1 22         :3 1
+8:1 0                               sssssssssss:::::::::11111111111111112222222222 7:222
+22221111::::ssss
+sssssss:::::::11111111222222222
+::5 1 1
+6:1 8 3 P
+:1 5                66 1:1
+33331111:ss   7::11      :11 22 933
+3445
+11111445555
+333311111:::ss :9 11 94455
+6:1 9                   :3
+1
+11116666644444 1 22: 8
+1
+::11
+66666
+:7 11 777 1:1111:: 99999999 11 11:: 2277 6:2 55
+:::55 111
+2-8
+ss:1 BBB-A3:1:1111 12
+:99
+3 5
+11
+1:1 16 :9 1 7
+2
+ss
+1:
+11 666:
+nnneeggggäävvssppp
+eeppp SSkk1
+3
+:7 1 5
+en hagg vlKa 3
+1
+4::66
+:3 6
+8888:1 88
+1111:::1 111
+15
+22 OOOgggl aass
+ccakkee
+5
+3
+:1 111 33
+99 11:
+
+229.3
+
+227.8
+
+227.2
+
+226 1
+
+224.5
+
+BOLSHEDEEN
+
+221.2
+
+221.7
+
+224 4
+
+229.9
+
+11::7711
+
+441.5
+
+111:::7700
+
+331.7
+
+331.1
+
+331 0
+
+330.9
+
+335.7
+
+336 4
+
+330.6
+
+332.2
+
+229.8
+
+229.9
+
+229.3
+
+227.4
+
+224.9
+
+221.9
+
+221.7
+
+226.9
+
+335.5
+
+336.5
+
+338.1
+
+39.8
+
+återvinnings-
+
+331.9
+
+337.9
+
+knutpunkt
+
+443.3
+
+445.6
+
+44.7
+
+448.4
+
+station
+
+442.6
+
+442.1
+
+kollektivtrafik
+
+334 9
+
+331.1
+
+225.9
+
+221.7
+
+22111.4
+
+224.8
+
+2225.88
+
+333.8
+
+337.7
+
+338.8
+
+pendelparkering
+
+334.7
+
+334 3
+
+SSSPÅRHAAGGGAAA
+
+443.0
+
+446.3
+
+448.6
+
+3B
+
+445.9
+
+449.6
+
+449.2
+
+449.5
+
+444.0
+
+333.1
+
+223.6
+
+221.2
+
+225.7
+
+33AA
+
+SSPÅRHAAGGAA
+
+330.5
+
+337.1
+
+331.7
+
+331.6
+
+442.0
+
+446.5
+
+449 7
+
+449.4
+
+transformator
+
+447.4
+
+550.5
+
+448.0
+
+443.4
+
+229 0
+
+221.6
+
+220.9
+
+-station
+
+222.4
+
+224.6gammal banvall
+
+225.8
+
+med gångstig
+
+229.7
+
+331 4
+
+332 1
+
+336.4
+
+441.2
+
+449.1
+
+550.4
+
+446.4
+
+550.9
+
+446.5
+
+444 1
+
+SPÅRHHAGA
+
+3355 6
+
+225 0
+
+221.2
+
+223 3
+
+222.4
+
+Kyviksbäcken
+
+224.7
+
+225.8
+
+226.7
+
+(strandskydd 100 m)
+
+228 1
+
+336 6
+
+333.0
+
+331.5
+
+338 3
+
+442.4
+
+446.1
+
+445 1
+
+445.9
+
+443.7
+
+443.1
+
+330.0
+
+223.2
+
+220.6
+
+220.7
+
+222.2
+
+224.4
+
+226.1
+
+227.7
+
+330.3
+
+29.7
+
+330.4
+
+330.5
+
+331.0
+
+336.3
+
+18
+
+444.7
+
+446.4
+
+447.5
+
+339.1
+
+333.5
+
+226.3
+
+222.6
+
+220.4
+
+220.9
+
+222.4
+
+5.6
+
+227.7
+
+33 5
+
+BOLSHEDEN
+
+334.8
+
+332.0
+
+330.4
+
+335.7
+
+FFöörruutttsssääättttttnnniiinnnggggggggaarr::
+
+331.3
+
+335.3
+
+440.9
+
+445.9
+
+444.5
+
+336.1
+
+228.9
+
+225.3
+
+220.4
+
+221.1
+
+222.8
+
+225
+
+331.2
+
+336.3
+
+• NNääärrraaa hhhaaaavvv,,, ggggrrrööönnnnooommmmrrrååådddeeennn ooooccchhh kkkooolllllleeeeekkkktttiiivvvtttrrraaafifififikkk!!
+
+441.6
+
+334.4
+
+3331.00
+
+3311..66
+
+3333..22
+
+333366.22
+
+40.1
+
+445.5
+
+44.8
+
+334.0
+
+29.6
+
+225.2
+
+221.6
+
+20
+
+221.4
+
+223.8
+
+226.6
+
+•• OOOmmmmmrrrrrrååååååddddddeeeeeetttttt bbbbbbeeeeesssssstttttååååårrrrrr aaaaavvvvv bbbbbeeeeettttteeeeesssssmmmmmaaaaarrrrrkkkkk iiiii vvvvvääääässsssttttteeeeerrrrr oooooccccchhhhh eeeeennnnn ssssskkkkkoooooogggggssss--
+
+3333222.333
+
+44.2
+
+BBBBBBBOOOOOOOLLLLLLLSSSSSSSHHHHHHHEEEEEEEDDDDDDDEEEEEEENNNNNNN
+
+444.6
+
+333.5
+
+bbeeevvvvvuuuuxxxxeeeeennnnn hhhhhhööööööjjjjjjdddddd iiiii ööööööössssssttttttteeeeeerrrrr..... BBBBBeeeeettttteeeeesssssmmmmmaaaaarrrrrkkkkkeeeee 331.7nnnnn kkkkkooooorrrrrsssssaaaaasssss aaaaavvvvv KKKKKyyyyyvvvvvviiiiikkkkssss--
+
+332.2
+
+333.8
+
+339..00
+
+444.33
+
+448.9
+
+449.2
+
+444.6
+
+338.4
+
+229.2
+
+bbbääääccccckkkkkeeeeennnnnn oooooocccccchhhhhh eeeeeennnnnnn ggggggggaaaaaaaammmmmmmmmmmmmmmmaaaaaaaalllllll bbbbbbbaaaaaannnnnnvvvvvvvaaaaaaallllllllllllll (((((((fffffff.......dddddd...... SSSSSSäääääärrrrrrööööööbbbbbbaaaaaannnnnnaaaaaannnnnn)))))) ssssssoooooommmmm
+
+221.5
+
+220.6
+
+222.5
+
+225.8
+
+227.9
+
+440 1
+
+449.0
+
+kkkkkaaaaannnnnttttaaaassssss aaaaavvvvv lllllööööövvvvvttttttrrrrrrääääääddddddd oooooooccccccchhhhhhh uuuuuuutttttttnnnnnnnyyyyyyyyttttttttttttjjjjjjaaaaaassssss ssssssoooooommmmmmm ggggggååååånnnnngggggsssssstttttrrrrråååååkkkkk....
+
+444.1
+
+333355..22
+
+333355.7
+
+332.9
+
+440 2
+
+44433.9
+
+2:10
+
+50.4
+
+553.2
+
+551.5
+
+447.9
+
+443.9
+
+336.8
+
+221.1
+
+220.4
+
+23.4
+
+•• OOOOOOOmmmmmmmrrrrrrråååååååååddddddddeeeeeeettttttt ppppppppåååååååå bbbbbbbbååååååååddddddddaaaaaaa sssssssiiiiiiidddddddooooooorrrrrrr ooooooommmmmmmm KKKKKKKKyyyyyyyvvvvvvviiiiiiikkkkkkkksssssssbbbbbbääääääcccccckkkkkkeeeeeennnnnn oooooommmmmmfffffaaaaattttttttttaaaaasssss
+
+226.9
+
+331.1
+
+442.1
+
+446.3
+
+aaavvv ssssttttrrraaaannnnddddssssskkkkkkkyyyyyyyyddddddddddddddddd........ SSSSSSSSttttttttrrrrrrrrrrraaaaaaaaaaaannnnnnnnnnnnnddddddddddddsssssssskkkkkkkkyyyyyyyydddddddddddddddddeeeeeeeetttttttt bbbbbbbbeeeeeeeehhhhhhhhhöööööööövvvvvvveeeeeerrrrrr tttttttiiiiiillllllllll ssssttttoooorrrraaaa
+
+441.5ddddeeee--
+
+444.1
+
+4422.5
+
+444422..00
+
+338.0
+
+444 55
+
+550.88
+
+557.2
+
+551.6
+
+441.1
+
+lllaaarrr uuuupppppppppphhhhhäääääävvvvvvvaaaaaaaassssssss fffffffffföööööööööööörrrrrrrrrrrr aaaaaaaaaaaatttttttttttttttttttttttt kkkkkkkkkkkkuuuuuuuuuunnnnnnnnnnnnnnnnaaaaaaaa bbbbbbbeeeeeeebbbbbbbyyyyyyyggggggggggggggaaaaaaa ooooooommmmmmmrrrrrrråååådddeet.
+
+441.8
+
+28.7
+
+221.6
+
+221.1
+
+25 3
+
+330.4
+
+332.9
+
+337.2
+
+440.8
+
+BBBBÅÅNNGGSSBBOO
+
+339.9
+
+200 m
+
+Ärendenummer: #2007688 | 2D0atum: 2025-06-02 09:45
+
+110000
+
+Bilaga 1 sida 2 av 7
 
 <!-- sida 348 -->
 
-3.922
-
-8.722
-
-2.722
-
-1622
-
-5.422
-
-2.122
-
-7.122
-
-4422
-
-9.922
-
-5.144
-7.133
-1.133
-0133
-9.033
-7.533
-4633
-6.033
-2.233
-8.922
-9.922
-3.922
-4.722
-9.422
-9.122
-7.122
-9.622
-5.533
-5.633
-1.833
-8.93
-9.133
-9.733
-6.244
-1.244
-9433
-1.133
-9.522
-7.122
-4.122
-8.422
-8.5
-8.333
-7.733
-8.833
-7.433
-3433
-1.333
-6.322
-2.122
-7.522
-5.033
-1.733
-7.133
-0922
-6.122
-9.022 4.222
-8.522
-7.922
-4133
-53
-0522
-2.122
-3322 4.222
-8.522
-7.622
-1822
-0.033
-2.322
-6.022
-7.022 2.222
-1.622
-7.722
-3.033
-7.92
-3.622
-6.222
-9.022 4.222
-7.722
-533
-1.633
-9.822
-3.522
-1.122 8.222
-522
-2.133
-3.633
-0.433
-6.92
-2.522
-6.122
-4.122 8.322
-6.622
-3.2
-2.44
-6.444
-4.833
-2.922
-5.122
-5.222 8.522
-9.722
-1044
-0.944
-9.744
-9.344
-8.633
-1.122
-4.32 9.622
-1.133
-1.244
-3.644
-6.155
-1.144
-8.144
-7.82
-6.122
-1.122
-352 4.033
-9.233
-2.733
-8.044
-P 11
-88 222:: 11
-:2 2 33 10 :9 2 77 :9 2 66
-7:222
-:11 22 933 5 :1 :9 11
-:1 22 8 7 1: 99 :6 2 55
-11        :1 1 61
-11:666 :99 3
-222 :1 8
-1:1 7      55::11 99 ::55 11 888 :5 1 6
-33::11 88 :6 11 3 :3 1 3 ::33 11 44 5:1 7
-33 111:: 5 4:1 33 6:1 8
-66:11 55
-555::111
-1:1 3
-::111 11 666222                              :8 2 6
-::11 11 0000                                      ::88 22 77 3:1 9
-5 1:
-sss:::666
-22221111::::ssss ::5 1 1 :6 1 8  66 1: 333111:ss ::7 1
-:6 1 9                                     :7 11 77 1111:: 999999
-:::1111 1 111
-::55 1:11 12        7 1: 5 3:6         11
-:99 11
-223333 :1 33
-4:1 6 44::ss
-:1 1 1
-s:4
-2:11 8
-2:1 0     ::555 11 000
-1:s
-8:2 8
-777777777777::ssss
-:1 1 22        3: 8:1 0
-s::1112                           33
-:3 1      ::11 66666
-ss:1
-ss:1
-133 9:1 7
-:8888 1 88
-01:2
-3333:::111 77
-1:1 2
-44 11:: 99
-4:1 0          999 111::: 999
-44::11 1
-4::66
-0077:::111
-66::11 77
-1177::11
-66::11 00
-::11
-22
-11155
-::11 11 7722
-ÅPSSS :11
-NEEDEHSLOB
-AAAGGGAAHR
-AGAHHRÅ
+62           66::11 00 011           22
+1:1 7      55::11 99 -sd
+2
+rrrå
 1
-7
-444
-A93
-100
-2        16
-11111555544 3445
-1
-2-8
-AA33
-62
-33 21 41
-4  6        9 88
-66
-73
-5533 1111333
-29
-3
-D55
-32                                                 55               122 7
-1                                                       44
-1
-3                                                     94455
-3
-1 11 2 5
-B3
-011             22
-02
+gettälS 33
+::55 11 888 41 :5 1 6 02   :44 1 00
+1 33::11 88 :6 11 3 :3 1 3 ::33 11 44 5:1 7
 33
-116 AA222 55
-B2
-54
-93
-2244
-1 72
-AA555 BB555555 CC55
-33
-9
-99 7
-11116666644444 1
-BBB-A3                            22 5
-3 3        15
-81 -sdrrrågettälS
-gävsnoitatS snedeHH
-Hööjdstig HHedeenns
-negäveelllluukkdurB
-Lindååsvägen
-ssssss:::::1111122222222
-ccakkee
-OOOgggl aass nnneeggggäävvssppp
-eeppp SSkk en hagg vlKa
-3.344
-6.544
-7.44
-4.844
-0.344
-3.644
-6.844
-9.544
-6.944
-2.944
-5.944
-0.444
-6.133
-0.244
-5.644
-7944
-4.944
-4.744
-5.055
-0.844
-4.344
-1233
-4.633
-2.144
-1.944
-4.055
-4.644
-9.055
-5.644
-1444
-653
-6633
-0.333
-5.133
-3833
-4.244
-1.644
-1544
-9.544
-7.344
-1.344
-4.033
-5.033
-0.133
-3.633
-7.444
-4.644
-5.744
-1.933
-5.333
-8.433
-0.233
-4.033
-9.544
-5.444
-5.544
-8.44
-9.84
-2.944
-2.355
-5.155
-2.755
-9.933
+116
 :33
 1
 99
-44:s :99 11
-444::ss
-:9 1
-:11 2 11 :3 1 :9 1 AAGGAAHRÅPSS
-NEDEHSLOB 8
-eggävee
-dduurrBB
-31        33 gäv
-nårf
-rellub
-6.022 4.022
-:1 2 0
-sss
-4.022 4.022 02 :1 12
-7
-sssssssssss:::::::::111111111111111222222222
-6.422 7.422 4.422
-röf ksir
-gninmävsrevö
-6.5
-3111:::ss
-1 ÅPS
-3311
-eellubb
-3.533
-614
-5.33
-7.133
-2233
-1.444
-2.533
-7.533
-9.233
-2044
-9.344
-4.05
-5.144
-1.444
-5.24
-0.244
-0.833
-5444
-8.055
-m 002
-000011
-02 0
-:44 1 00
-2 :1
-7.533
-3.133 :raaggggggggnnn3533iiinnnttttttääässstttuu9.044
-rrööFF
---kkkkaaaaa6.1eeeee44 bbbbb aaaaavvvvvöööööhhhhhh4.43333eeeebbbb
-rrrreeeemmmm
-00.1 mmmmmm 33 ooookkkk
-nnnneeee
-66\. ggggg 13333 äääävvvvöööörrrrääääSSSSS
-2.333 aaaallllmmmmmaaaaaGGG
-2 .633 nnnååårrrrffff
-rrreeellllll
-1.04 uuBB
-•
-,eeddååårrrrmmmmoooo
-ttttlllllllleeeeuuuuttttkkkkaaaa
-mmmmoooo rrrreeeeddddöööössss
-,,,,rrrreeeennnnaaaallllppppjjjjllllaaaatttteeeeeddddd
-eeeerrrraaaaggggiiiiiiddddddiiiiiitttttt
-IIIIII ......ssssaaaatttt
-nnnneeeeeedddddrrrrrääääävvvvvtttttkkkkkiiiiirrrrr
-eeeeedddddnnnnnaaaaalllllllllläääääggggg
-ttttttttttaaaaa
-tttttaaaaasssssiiiiivvvvv
-gggggnnnnniiiiinnnnngggggggggggääääällllltttttrrrrrraaaaaakkkkkkrrrrrreeeeeelllllllllllluuuuuubbbbbb
-rrrraaahh
-NNNNNNNEEEEEEEDDDDDDDEEEEEEEHHHHHHHSSSSLLLLLLLOOOOOOOBBBBBBB
---öööörrrrräääää
-6.444 SSSSSS aaaaalllllmmmmmaaaaaGGGGG5.333
-tttttsssssaaaaammmmmrrrrrääääännnnn
-nnnnnaaaaatttttyyyyy
-2.2åååååå3 ppppp sssssdddddiiiiirrrrrkkkkkk8.33333ssssssrrrrrrreeeeeevvvvvöööö
-rrrrreeeeee 00..993333 dddddääääätttttssssoooobbbb
-33.4 44 rrrööff
-..nnneeeggggäääävvv
-.....ddddddnnnnnnnåååååååtttttttsssssssnnnnnnneeeeeeettttttttttttttaaaaaaavvvvvvv
-aaaaaaagggggggöööööööhhhhhhh
-dddddddiiiiiiivvvvvvvv
-sssssssssaaaaaaaaammmmmmmmmmmmmmmmmäääääääävvvvvvvvsssssssrrrrrrreeeeeeevvvvvvvööööööö
-nnnnnnnneeeeeeeekkkkkkkcccccccääääääbbbbbbssssssskkkkkkiiiiivvvvvyyyyKKKK
-••
-OOBBSSGGNNÅÅBBBB
-7
-va
+AA222
+4:1 6
+4:1 33
+4
+6:1 8
+44 55 ::ss
+6
+gävsno
+88 itatS s 7 nedeHH 9
+33 111:: 5
+B2
+HHedeenns 66:11 55 H 3333:::111 77 ööjdstig 444 66 :1 1 1
+s:4
+:99 11 44:s
+8
+2
+444::ss                  :1
+54
+2:11 8       :9 1
+93  66::11 77
+A93
+73
+1:1 2
+2244
+555::111
+5533
+1111333
+1:1 3
+2:1 0
+29  1                                                        :11 2 11
+88 222:: 11
+72
+::555
+11
+000          :3 1
+:9
+1
+100
 3
-adis
-1 agaliB
-54:90
-20-60-5202
-:mutaD
-| 886702#
-:remmunednerÄ
+AA555 BB555555 ::111
+11
+666222
+4:1 0
+1:s
+32
+neegggäävveeeelllluukkddduuurrrBBB CC55
+::11
+11
+0000
+D55 44 11:: 99
+55
+8:2 8
+:8 2 6
+::88
+22
+77          122
+3:1 9  7    999 111::: 999                         33
+::11
+22
+11155
+1         9                                             44
+Lindååsvägen
+44::11 1
+1
+2
+5 1:                                        777777777777::ssss :2 2 33 1:1 2 00 :9 2 77 16 :9 2 66
+ssssss:::666
+99
+7               :1 1 22        3::1
+8:1 0                               sssssssssss:::::::::11111111111111112222222222 7:222
+22221111::::ssss
+sssssss:::::::11111111222222222
+::5 1 1 :6 1 8 3 P :1 5        66 1: 33331111:ss ::7 1    :11 22 933 3445 11111555544
+333333311111:::ss :9 11 94455
+:6 1 9                  :3 11                   11116666644444 :1 22 8
+1
+::11 66666 :7 11 777 1:1111:: 99999999 ::11 11 7722 :6 2 55
+:::55 111
+2-8
+ss:1 BBB-A31::1111 12
+:99
+3 5
+11
+:1 1 61 9:1 7
+2
+ss:1
+11:666
+nnneeggggäävvssppp
+eeppp SSkk1
+3
+7 1: 5
+en hagg vlKa 3
+1
+4::66
+3:6
+:8888 1 88
+:::1111 1 111
+15
+22 OOOgggl aass
+ccakkee
+5
+3
+:1 111 33
+:99 11
+
+229.3
+
+227.8
+
+227.2
+
+226 1
+
+224.5
+
+BOLSHEDEEN
+
+221.2
+
+221.7
+
+224 4
+
+229.9
+
+11::7711
+
+441.5
+
+111:::7700
+
+331.7
+
+331.1
+
+331 0
+
+330.9
+
+335.7
+
+336 4
+
+330.6
+
+332.2
+
+229.8
+
+229.9
+
+229.3
+
+227.4
+
+224.9
+
+221.9
+
+221.7
+
+226.9
+
+335.5
+
+336.5
+
+338.1
+
+39.8
+
+331.9
+
+337.9
+
+443.3
+
+445.6
+
+44.7
+
+448.4
+
+442.6
+
+442.1
+
+334 9
+
+331.1
+
+225.9
+
+221.7
+
+22111.4
+
+224.8
+
+2225.88
+
+333.8
+
+337.7
+
+338.8
+
+334.7
+
+334 3
+
+SSSPÅRHAAGGGAAA
+
+443.0
+
+446.3
+
+448.6
+
+3B
+
+445.9
+
+449.6
+
+449.2
+
+449.5
+
+444.0
+
+333.1
+
+223.6
+
+221.2
+
+225.7
+
+33AA
+
+SSPÅRHAAGGAA
+
+330.5
+
+337.1
+
+331.7
+
+331.6
+
+442.0
+
+446.5
+
+449 7
+
+449.4
+
+447.4
+
+550.5
+
+448.0
+
+443.4
+
+229 0
+
+221.6
+
+220.9
+
+222.4
+
+224.6
+
+225.8
+
+229.7
+
+331 4
+
+332 1
+
+336.4
+
+441.2
+
+449.1
+
+550.4
+
+446.4
+
+550.9
+
+446.5
+
+444 1
+
+SPÅÅRHHAGA
+
+3355 6
+
+225 0
+
+221.2
+
+223 3
+
+222.4
+
+224.7
+
+225.8
+
+226.7
+
+bbbuulllleeer från väg
+
+228 1
+
+336 6
+
+333.0
+
+331.5
+
+338 3
+
+442.4
+
+446.1
+
+445 1
+
+445.9
+
+443.7
+
+443.1
+
+330.0
+
+223.2
+
+220.6
+
+220.77
+
+222.2
+
+224.4
+
+226.1
+
+227.7
+
+330.3
+
+29.7
+
+330.4
+
+330.5
+
+331.0
+
+336.3
+
+18
+
+risk för
+
+444.7
+
+446.4
+
+447.5
+
+339.1
+
+333.5
+
+226.3
+
+översvämnin
+
+22g2.6
+
+220.4
+
+220.9
+
+222.4
+
+5.6
+
+227.7
+
+33 5
+
+BOLSHEDEN
+
+334.8
+
+332.0
+
+330.4
+
+335.7
+
+FFöörruutttsssääättttttnnniiinnnggggggggaar:
+
+331.3
+
+333355.33
+
+440.9
+
+445.9
+
+444.5
+
+336.1
+
+228.9
+
+225.3
+
+220.4
+
+221.1
+
+222.8
+
+225
+
+331.2
+
+336.3
+
+• BBuulllllleeerrr ffffrrrrååånnn GGGaaaaammmmmllllaaaa SSSSSäääärrrröööövvvväääägggggeeeennnn kkkkoooommmmmmmmmmeeeerrrr bbbbeeeehhhhhhööööövvvvvaaaaa bbbbbeeeeeaaaaakkkk--
+
+44411.66
+
+33334.4
+
+331.00
+
+33331.66
+
+333.2
+
+336.2
+
+40.1
+
+445.5
+
+44.8
+
+ttttaaaassss...... IIIIII ttttttiiiiiiddddddiiiiiiggggaaaarrrreeee dddddeeeeettttaaaalllljjjjppppllllaaaannnneeeerrrr,,,, ssssööööddddeeeerrrr oooommmm aaaakkkkttttuuuueeeelllllllltttt oooommmmrrrråååddee,
+
+334.0
+
+29.6
+
+225.2
+
+221.6
+
+20
+
+221.4
+
+223.8
+
+226.6
+
+hhaaarrrr bbbbbbuuuuuulllllllllllleeeeeerrrrrrkkkkkkaaaaaarrrrrrtttttlllllääääägggggggggggnnnnniiiiinnnnnggggg vvvvviiiiisssssaaaaattttt aaaaatttttttttt gggggääääällllllllllaaaaannnnndddddeeeee rrrrriiiiikkkkktttttvvvvvääääärrrrrdddddeeeeeennnn
+
+3333222.333
+
+44.2
+
+BBBBBBBOOOOOOOLLLLLLLSSSSHHHHHHHEEEEEEEDDDDDDDEEEEEEENNNNNNN
+
+444.6
+
+33333..55
+
+fföörrr bbbboooosssstttttääääädddddeeeeeerrrrr öööövvvvveeeeeerrrrrrrsssssskkkkkkrrrrriiiiidddddsssss pppppåååååå yyyyytttttaaaaannnnn nnnnn
+
+331.7ääääärrrrrmmmmmaaaaasssssttttt GGGGGaaaaammmmmlllllaaaaa SSSSSSääääärrrrröööö--
+
+33322.22
+
+33333.8
+
+333399..00
+
+444.33
+
+48.9
+
+449.2
+
+444.6
+
+338.4
+
+229.2
+
+vvvääääggggeeennn..
+
+221.5
+
+220.6
+
+222.5
+
+225.8
+
+227.9
+
+440 1
+
+449.0
+
+444.1
+
+335.2
+
+335.7
+
+332.9
+
+440 2
+
+•• KKKKyyyyvvvvviiiiikkkkkksssssssbbbbbbääääääccccccckkkkkkk 443.9eeeeeeeennnnnnnn ööööööövvvvvvveeeeeeerrrrrrrsssssssvvvvvvvväääääääämmmmmmmmmmmmmmmmmaaaaaaaaasssssssss vvvvvvvviiiiiiiddddddd hhhhhhhööööööögggggggaaaaaaa vvvvvvvaaaaaaatttttttttttttteeeeeeennnnnnnssssssstttttttååååååånnnnnnndddddd.....
+
+2:10
+
+50.4
+
+553.2
+
+551.5
+
+447.9
+
+443.9
+
+336.8
+
+221.1
+
+220.4
+
+23.4
+
+226.9
+
+331.1
+
+442.1
+
+446.3
+
+441.5
+
+444.1
+
+42.5
+
+442.0
+
+338.0
+
+444 5
+
+550.8
+
+557.2
+
+551.6
+
+441.1
+
+441.8
+
+28.7
+
+221.6
+
+221.1
+
+25 3
+
+330.4
+
+332.9
+
+337.2
+
+440.8
+
+BBBBÅÅNNGGSSBBOO
+
+339.9
+
+200 m
+
+Ärendenummer: #2007688 | 2D0atum: 2025-06-02 09:45
+
+110000
+
+Bilaga 1 sida 3 av 7
 
 <!-- sida 349 -->
 
-NNEEEPIIICCCCCCNNNIIIRRRRRRPDDNNURRGGG
-ssssaaaaaannnnnnmmmmmäääääällllll
-nnnnnnneeettteeehhhgggiiittttsssaaaaffffff
-vvvvvaaaaaa
-nnnneeeeeelllleeeeedddd
-aaannnxxxuuuuvvvveeeeebbbbggggoooookkkkksssss
-aarrrrooooottttttssss
-nnneeeeeDD
-••
-..ssaarrreeeeeettttaaaaooollppxxee
-ttssssäävvvv
-iiiiii nnnnnneeekkkrrrraaaammmssseeetttteeebbb
-tttsssaadddnnneeee
-hhhhhccoo
-ddddrrrrööööööörrrrroooo
--sssgggnnniinnnnnnnmmmmmävsrevö
-ted
-tmaas
-kåårtsggnnågg
-sssseeedd
-,,nnnnelllllaaaaaaaavvvvnnnaaBB
-•
-ttttttttttteee
-mmmooooss
-saraveb
-nneekkccäb
-ggnniirk
-tteeddååååårrrmmo
-aaaannnnnnggggggäääännneeeeebbbbb
-..tteeddåårrrrrmmoosssddaattssooobbbb
-ayyyynnn
-tttttteeeeddd
-iii
-aattttrrräääääjjjjhhh
-tttttnnöööööörrggg
-aiv
-nåååårrrrfffiiirrrrrroooonnnnn
-sssssslllleeedd
-tttggggggiiilllljjjjjjöööööööööömmmmmmmmm
-rrrrääää
-tttteeeeddddddddddddåååååååårrrrrrrmmmmmmoooo
-lllllllliiiittttt
-rrreeeettttrrraaafffffnnnnnIII
-••
-...gggääävvssuurrgg
-nnneee
-rrrååågg
-gggaaadddddiii
-ttteeedddddddddd
-rrrrrrääääddd
-ttttttsssssääääävvvvdddddyyyysssss
-iiiiiii
-ssssssllllleeeeeddddddd
-,,,,,,,nnnneeeeppiiinnnnSS
-m
-002
-000011
-02
+GGGRRUNNDDPRRRRRRIIINNNCCCCCCIIIPEEENN
+
+•• DDeeeeennn ssssttttttooooorrrraa ssssskkkkkoooooggggbbbbeeeeevvvvuuuuxxxnnnaaa ddddeeeeelllleeeeeennnn aaaaaavvvvv ffffffaaaasssttttiiiggghhheeettteeennnnnnn lllllläääääämmmmmnnnnnnaaaaaassss
+
+oooorrrrrööööööörrrrdddd oocchhhhh eeeennndddaasssttt bbbeeetttteeesssmmmaaaarrrrkkkeeennnnnn iiiiii vvvväässsstt eexxpplloooaaaatttteeeeeerrraass..
+
+• BBaannnvvvvaaaaaaaalllllennnn,, ddeeessss ggånnggstrååk saamt det översvämmmmmnnnnnnniinnngggsss-
+
+bbbbbeeeeennnääääggggggnnnnnnaaaa ommrrråååååddeett kriinngg bäcckkeenn bevaras ssoooommm eeettttttttttt
+
+gggrröööööönnttttt hhhjjjjääääärrrttttaa iii dddeeeetttttt nnnyyyya bbbbooossttaaddsssoommrrrrrååddeett..
+
+•• IIInnnnnfffffaaarrrtttteeeerrr tttttiiiillllllll oooommmmmmrrrrrrrååååååååddddddddddddeeeetttt äääärrrr mmmmmmmmmööööööööööjjjjjjlllliiiggggggttt ddeeellllssssss nnnnnoooorrrrrriiifffrrrråååån via
+
+SSnnnniiippeeeennnn,,,,,,, dddddddeeeeelllllssssss iiiiiii sssssyyyydddddvvvvääääässssstttttt dddäääärrrrrr ddddddddddeeettt iiidddddaaaggg ggååårrr eeennn ggrruussvväääggg...
+
+200 m
+
 0
-7
-va
-4
-adis
-1
-agaliB
-54:90
-20-60-5202
-:mutaD
-| 886702#
-:remmunednerÄ
+
+20
+
+110000
+
+Ärendenummer: #207688 | Datum: 2025-06-02 09:45
+
+Bilaga 1 sida 4 av 7
 
 <!-- sida 350 -->
 
-rrreeeeeeeddddäääääättttttttssssssssssooooooooooobbbbbbb
+FFööööörrrrrsssslllaaaaaggggggg:::: SSSSSSMMMÅHHHHHUUSSSSSSSSSSSSSS 333333333300000000 bbbbbbbooooooooooossssssssssttttttttääääääddddeeeeeeerrr
 
-000000003333333333
-SSSSSSSSSSSSSSUUHHHHHÅMMMSSSSSS::::gggggggaaaaalllssssrrrrröööööFF
-eedddddnnnneeeeåååååååååååtttttttsssssssssssiiiiirrrrfffff
-8888
-ååååppppp
-ttttttaaaaaaalllllllleeeeeeeeeddddddddddddrrrrrrrröööööööööffffffff
-nnnnnnnnaaaaaaaallllllllllppppppp
-åååååvvvvvttttttttt
-iiii
-rrrrreeeeedddddäääättttssssssoooobbb
-0003333
-ssuuhhhhhrapp
-11111111111111111111111111
-tttttmmmmmmmmmaaaasss
-rroooolllllllliiiiivvv
-esslleeegggggggyybbeeb
-nneeggalseerrööFF
-.99:11
-aaggahrååppSSS
-nnnneeetteehgittssaaaaffnnnarg
-ååpp
-4422--33330-020022
-ttttnnääkkddoogg
-mmaaarrgggoorrppnnnaaalllpppp
-eSS
-m
-002
-000011
+3333000 bbboooossssssttttäääädddddeeeeerrrrr iiii tttttttttvvvvvååååå pppppppllllllllllaaaaaaaannnnnnnn ffffffffööööööööörrrrrrrrddddddddddddeeeeeeeeellllllllaaaaaaatttttt pppppåååå 8888 fffffrrrriiiiissssssssssstttttttåååååååååååeeeennnndddddee
 
-02
+vvviiiiilllllllloooorr sssaaaammmmmmmmmttttt 11111111111111111111111111 pparhhhhhuuss
+
+FFöörreeslaggeenn beebbyygggggggeeellsse
+
+ppåå grannnffaaaassttigheetteeennnn SSSppåårhaggaa 11:99.
+
+SSe pppplllaaannnpprroogggrraaamm ggooddkkäänntttt 220020-03333--2244
+
+200 m
+
 0
-7
-va
-5
-adis
-1
-agaliB
-54:90
-20-60-5202
-:mutaD
-| 886702#
-:remmunednerÄ
+
+20
+
+110000
+
+Ärendenummer: #207688 | Datum: 2025-06-02 09:45
+
+Bilaga 1 sida 5 av 7
 
 <!-- sida 351 -->
 
-rrrreeedddddäääääättttssssssssooobb
+FFFöörssssslllaaag: TTTTTTTRRRRRÄÄÄÄDDGGGGGGÅÅÅÅÅRRRRRRRRRRRRRRRRRRRDDDDDDDDDDDDDDDDSSSSSSSSSSSSSSTTTTTTTTTAAAAAAAAAAAAAAADD 55555551111111 bbooossssssssttttäääääädddddeeerrrr
 
-11111115555555
+555555111111111 bbbbbboooooossttttttääääädddeeeeeerrrrr iiii tttttvvvvvvvåååååå ppplllaaaaaaaannnnnn ffffffföööööööörrrrrddddddddeeeeeeeelllllllaaaaaatttttt pppppååååå 333344444 ppppaaaaaaaaaaarrrrrrrrhhhhhhhhhhuuuusss,,,
 
-DDAAAAAAAAAAAAAAATTTTTTTTTSSSSSSSSSSSSSSDDDDDDDDDDDDDDDDRRRRRRRRRRRRRRRRRRRÅÅÅÅÅGGGGGGDDÄÄÄÄRRRRRTTTTTTT:gaaalllsssssrööFFF
-,,,sssuuuuhhhhhhhhhhrrrrrrrraaaaaaaaaaapppp
-444443333
-åååååppppp
-ttttttaaaaaallllllleeeeeeeeddddddddrrrrrööööööööfffffff
-nnnnnnaaaaaaaalllppp
-ååååååvvvvvvvttttt
-iiii
-rrrrreeeeeedddääääättttttssoooooobbbbbb
-111111111555555
-rroolllllliiivvv
-eeeddddnneeeååttssiirf
-3
-ttmmmmmmmmmmaaaaaaaaaassssss
-sssssssssuuuuuuhhhhdddaaarr
-444111
-esslleeegggggggyybbeeb
-nneeggalseerrööFF
-.99:11
-aaggahrååppSSS
-nnnneeetteehgittssaaaaffnnnarg
-ååpp
-4422--33330-020022
-ttttnnääkkddoogg
-mmaaarrgggoorrppnnnaaalllpppp
-eSS
-m
-002
-000011
+111444 rraaadddhhhhuuuuuusssssssss ssssssaaaaaaaaaammmmmmmmmmtt 3 friissttååeeennddddeee vvviiilllllloorr
 
-02
+FFöörreeslaggeenn beebbyygggggggeeellsse
+
+ppåå grannnffaaaassttigheetteeennnn SSSppåårhaggaa 11:99.
+
+SSe pppplllaaannnpprroogggrraaamm ggooddkkäänntttt 220020-03333--2244
+
+200 m
+
 0
-7
-va
-6
-adis
-1
-agaliB
-54:90
-20-60-5202
-:mutaD
-| 886702#
-:remmunednerÄ
+
+20
+
+110000
+
+Ärendenummer: #207688 | Datum: 2025-06-02 09:45
+
+Bilaga 1 sida 6 av 7
 
 <!-- sida 352 -->
 
-rrreeddäääättsssoooobbbbbbb
+IV
 
-5522211
+FFöööööörrrrrrrsssllllaaagggggg::: BBBBLLANNNNNDDDDAAAAADDDDDDDDDDDDDDDDDD BBBBBBBEEEEEEEEBBBBBBBBBBBYYYYYYYYYYYYGGGGGGGGGGGGGGGEEEELLSSEEE 1122255 bbbbbbboooosssttääääddeerrr
 
-EEESSLLEEEEGGGGGGGGGGGGGGGYYYYYYYYYYYYBBBBBBBBBBBEEEEEEEEBBBBBBB
+IV
 
-DDDDDDDDDDDDDDDDDDAAAAADDDDNNNNNALLBBBB:::ggggggaaallllsssrrrrrrrööööööFF
+•• ca 99990000 llllllläääääggggggeeeennnnhhhhhhheeeeeeeeeeettttttttteeeeeeerrrrrrr iiiiiiiiiiiii 444444444444-----vvvvvvvvååååååååånnnnnnniiiiiiiiiinnnnnnnnnnnngggggggggggsssssssssshhhhhhuuuuuusssss mmmmmmooooottttttt vvvvvvvvvväääääääääägggeeennn
 
-VI
-VI
-nnneeegggäääääääääävvvvvvvvvv
-tttttttooooommmmmm
-sssssuuuuuuhhhhhhssssssssssgggggggggggnnnnnnnnnnnniiiiiiiiiinnnnnnnåååååååååvvvvvvvv-----444444444444
-iiiiiiiiiiiii
-rrrrrrreeeeeeettttttttteeeeeeeeeeehhhhhhhnnnneeeeggggggääääälllllll
-00009999
-ac
-••
-sssuuuuhhhhhhdddddaarrr
-444411111
-••••
 II
+
 II
-suuuuuhhhrapp
-88881111
-••••
-rroollllliiivvvv
-eeeddddnnnnnneeeeååååttsirff
-33
-••••••
-VI      II
+
+•••• 111114444 rrraadddddhhhhhhuuuusss
+
+•••• 11118888 pparhhhuuuuus
+
+IV
+
+•••••• 33 ffristtååååeeeennnnnnddddeee vvvviiillllloorr
+
 II
-esslleeegggggggyybbeeb
-nneeggalseerrööFF
-.99:11
-aaggahrååppSSS
-nnnneeetteehgittssaaaaffnnnarg
-ååpp
-4422--33330-020022
-ttttnnääkkddoogg
-mmaaarrgggoorrppnnnaaalllpppp
-eSS
-m
-002
-000011
-02
+
+II
+
+FFöörreeslaggeenn beebbyygggggggeeellsse
+
+ppåå grannnffaaaassttigheetteeennnn SSSppåårhaggaa 11:99.
+
+SSe pppplllaaannnpprroogggrraaamm ggooddkkäänntttt 220020-03333--2244
+
+200 m
+
 0
-7
-va
-7
-adis
-1
-agaliB
-54:90
-20-60-5202
-:mutaD
-| 886702#
-:remmunednerÄ
+
+20
+
+110000
+
+Ärendenummer: #207688 | Datum: 2025-06-02 09:45
+
+Bilaga 1 sida 7 av 7
 
 <!-- sida 353 -->
 
-0005:1
+Skala 1:5000
 
-alakS
-nummok
-akcabsgnuK
-©
-thgirypoC
-m003
-002
-001
+Copyright © Kungsbacka kommun
+
 0
+
+100
+
+200
+
+300m
 
 <!-- sida 354 -->
 
@@ -23893,8 +19263,6 @@ Kungsbacka kommun, 84
 
 Adress
 
-Adress
-
 Areal
 
 Område Totalareal Därav landareal v vattenareal
@@ -23904,8 +19272,6 @@ Område
 Antal områden: 1
 
 Lagfart
-
-Ägare Andel Inskrivni
 
 Inteckningar
 
@@ -23939,8 +19305,6 @@ Planer, bestämmelser och fornlämningar redovisas inte i detta utdrag.
 Andel i gemensamhetsanläggningar och samfälligheter
 
 Fastighetens andelar i samfälligheter är inte utredda.
-
-ingar Andel
 
 Kungsbacka Släps-Kullen ga:10 0,25 Vägförening
 
@@ -24025,13 +19389,13 @@ a
 
 21:1
 
-ble9ie 3
-
 N 6381684
 
 LANTMÄTERIET
 
 Skala 1:800 SWEREF 99 TM RH 2000
+
+ble9ie 3
 
 <!-- sida 366 -->
 

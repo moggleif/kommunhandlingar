@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.68abbcdf196d3cd895e1255b/1747395300
 sha256: eedaa1ee0abb41010c04f63871a71823f22adde6188459228106b5c15de8e829
 bytes: 14733305
 sidor: 123
-hamtad: 2026-10-25T07:40:18+00:00
-konverterad: 2026-10-25T07:40:55+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:11:27+00:00
+konverterad: 2026-11-09T12:12:15+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ocr]
@@ -2046,8 +2046,6 @@ Förvaltningschef                   Personalchef
 
 <!-- sida 62 -->
 
-KUB1001, v2.0, 2013-02-26
-
 FÖRHANDLINGSPROTOKOLL
 
 FÖRHANDLINGSPROTOKOLL
@@ -2094,6 +2092,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 63 -->
 

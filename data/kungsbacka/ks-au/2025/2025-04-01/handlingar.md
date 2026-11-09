@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.101af520195b23fbe32e160f/1743157162
 sha256: 8a8b775b5727689f5a4ea2e8f60007a7cf73006e73728abf92480387650d9609
 bytes: 213590772
 sidor: 799
-hamtad: 2026-10-25T07:18:47+00:00
-konverterad: 2026-10-25T07:30:00+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T11:47:57+00:00
+konverterad: 2026-11-09T12:00:02+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1208,8 +1208,6 @@ ar .
 SD Socialdemokraterna
 
 Motion 2024-09-28
-
-VW.
 
 F ra mtid e n S fo | kh ä | Sa Levnadsvanornas bidrag till hälsa
 
@@ -12403,7 +12401,7 @@ Exploateringsbidraget ska delas utifrån i detaljplanen erhållen byggrätt, enl
 21, ska fördelas mellan parterna enligt nedan.
 
 Inom delområde 1 fördelas kostnaderna enligt följande:
-55 94 Kungsbacka kommun
+55 24 Kungsbacka kommun
 
 31 24 Balder i Kungsbacka AB
 
@@ -13342,8 +13340,6 @@ Kommunstyrelsens förvaltning, skrivelse 2007-06-15
 
 bestyrkt
 
-EG 2S
-
 <!-- sida 628 -->
 
 TJÄNSTESKRIVELSE
@@ -13536,7 +13532,19 @@ Transaktionsidentitet: BA1F571E8522926DF3510D8B6A6E0EEF73B7AA8E3C
 
 <!-- sida 632 -->
 
-PLANBESTÄMMELSER                                                           Störningsskydd
+Detaljplanen är baserad på koordinatsystemet SWEREF 99
+1200 och höjdsystemet RH 2000
+Skala 1:2000 i A1, skala 1:4000 i A3
+
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum kartdata: 2022-10-28, kompletterande höjdgrid 2024-02-05
+
+Registernummer, tomtnummer                    Vägbana
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
+
+Fastighetsgräns                               Uthus fasad, resp. tak
+Gång- och cykelbana                           Skärmtak
+
+PLANBESTÄMMELSER                                                            Störningsskydd
 
 Fasader som vetter mot väg E6 ska utformas i obrännbart
 Följande gäller inom områden med nedanstående beteckningar. Endast angiven användning och utformning är
@@ -13544,12 +13552,12 @@ material. Luftintag samt entréer och inlastning ska anordnas på
 tillåten. Där beteckning saknas gäller bestämmelsen inom hela området.
 lämpligt sätt så att de vetter bort från väg E6. Minst en utrymningsväg i varje byggnad ska
 vetta bort från väg E6. Ytor mellan byggnad och väg E6 utformas för att inte uppmuntra till
-GRÄNSER                                                                                 stadigvarande vistelse.
+GRÄNSER                                                                                  stadigvarande vistelse.
 För bebyggelse för centrumändamål gäller:
 Planområdesgräns.
 Fönster och ingående komponenter ska vara motsvarande brandklass E 30 vilket innebär att
 fönster inte kan vara öppningsbara eller endast kan öppnas med specialverktyg för
-Användningsgräns.                                                          exempelvis fönsterputsning. Luftintag placeras högt och ska vetta bort från väg E6. Entréer
+Användningsgräns.                                                           exempelvis fönsterputsning. Luftintag placeras högt och ska vetta bort från väg E6. Entréer
 och inlastning ska anordnas på lämpligt sätt så att de vetter bort från väg E6. Vid utformning
 av byggnader ska hänsyn tas till dimensionerande explosionslast. Fasad ska vara i
 Egenskapsgräns.
@@ -13558,12 +13566,12 @@ För bebyggelse för centrumändamål gäller:
 Administrativ gräns.
 Luftintag placeras högt på byggnad och orienteras bort från väg E6.
 Byggnader och tekniska anläggningar kopplade till hantering av
-Egenskaps- och administrativ gräns.                                        brandfarliga vätskor får inte anläggas inom 25 meter från fastighetsgräns mot kvartersmark.
+Egenskaps- och administrativ gräns.                                         brandfarliga vätskor får inte anläggas inom 25 meter från fastighetsgräns mot kvartersmark.
 Avvattning av hårdgjorda ytor ska
 förses med anläggning för uppsamling av olja. Entréer för byggnader inom 25 meter från
 ANVÄNDNING   AV MARK
 drivmedelsstationen, bör vetta bort från drivmedelsstationen.Byggnader och tekniska
-Allmän platsmark med kommunalt huvudmannaskap                                           anläggningar kopplade till hantering av brandfarliga vätskor får inte anläggas inom 25 meter
+Allmän platsmark med kommunalt huvudmannaskap                                            anläggningar kopplade till hantering av brandfarliga vätskor får inte anläggas inom 25 meter
 från fastighetsgräns mot kvartersmark. Avvattning av hårdgjorda ytor ska förses med
 anläggning för uppsamling av olja. Entréer för byggnader inom 25 meter från
 Huvudgata.
@@ -13587,7 +13595,7 @@ Verksamheter.
 Avskärande dike för skyfallsled får finnas.
 Centrumverksamhet, ej hotell, vandrarhem eller handel med livsmedel.
 Utfart
-Återvinningscentral.                                                       Utfart för utryckningsfordon får finnas. Utfart för övriga fordon får inte finnas.
+Återvinningscentral.                                                        Utfart för utryckningsfordon får finnas. Utfart för övriga fordon får inte finnas.
 Utformning
 Transformatorstation.
 Fasad mot väg E6 och väg 158 ska ges en omsorgsfull utformning med hänsyn till områdets
@@ -13607,51 +13615,76 @@ Område inom vilket bergteknisk åtgärd ska utföras.
 EGENSKAPSBESTÄMMELSER      FÖR ALLMÄN  PLATS
 Ingen markbelastning är tillåten. Marknivåer enligt plankartan ska följas.
 Mark
+
 Markens höjd över nollplanet ska vara \<angivet> meter.
-ADMINISTRATIVA  BESTÄMMELSER    FÖR ALLMÄN  PLATS
-Genomförandetid
+
 Markens höjd över nollplanet ska vara lägst +37 meter.
-Genomförandetiden är 5 år från den dag planen vinner laga kraft.
+
 Dagvattendamm.
-ADMINISTRATIVA  BESTÄMMELSER    FÖR KVARTERSMARK
+
 Markens höjd över nollplanet får vara högst +38 meter .
-Markreservat
-EGENSKAPSBESTÄMMELSER      FÖR KVARTERSMARK                                             Markreservat för allmännyttiga underjordiska ledningar.
+
+EGENSKAPSBESTÄMMELSER      FÖR KVARTERSMARK
+
 Mark
-Villkor för startbesked
-Markens höjd över nollplanet ska vara 50 meter.                            Startbesked får inte ges för byggnader för stadigvarande vistelse förrän flytt av
-kraftledningen har kommit till stånd.
-Upplag får inte finnas.                                                    Startbesked får inte ges för byggnader och parkering får inte anläggas förrän flytt av
-kraftledningen har kommit till stånd.
+
+Markens höjd över nollplanet ska vara 50 meter.
+
+Upplag får inte finnas.
+
 Markens höjd över nollplanet får vara upp till max +38 meter.
-Startbesked får inte ges för byggnader förrän bergstekniska åtgärder har kommit till stånd.
+
 Omfattning
-Startbesked får inte ges för byggnader förrän avskärande dike för skyfallsled i öster har
-anlagts.
+
 Marken får inte förses med byggnad.
-ADMINISTRATIVA  BESTÄMMELSER    FÖR PLANOMRÅDET
+
 Högsta nockhöjd är \<angivet> meter över angivet nollplan .
-Genomförandetid
-Största byggnadsarea är 60 % per fastighet inom användningsområdet. Genomförandetiden är 15 år från den dag planen vinner laga kraft. Gäller inte för område a4.
+
+Största byggnadsarea är 60 % per fastighet inom användningsområdet.
+
 Placering
+
 Byggnad ska placeras minst 4 meter från fastighetsgräns. Bestämmelsen gäller inte om
 byggnder sammanbyggs i fastighetsgräns. .
-Detaljplanen är baserad på koordinatsystemet SWEREF 99
+
+ADMINISTRATIVA  BESTÄMMELSER    FÖR ALLMÄN  PLATS
+Genomförandetid
+
+Genomförandetiden är 5 år från den dag planen vinner laga kraft.
+
+ADMINISTRATIVA  BESTÄMMELSER    FÖR KVARTERSMARK
+
+Markreservat
+
+Markreservat för allmännyttiga underjordiska ledningar.
+
+Villkor för startbesked
+Startbesked får inte ges för byggnader för stadigvarande vistelse förrän flytt av
+kraftledningen har kommit till stånd.
+
+Startbesked får inte ges för byggnader och parkering får inte anläggas förrän flytt av
+kraftledningen har kommit till stånd.
+
+Startbesked får inte ges för byggnader förrän bergstekniska åtgärder har kommit till stånd.
+
+Startbesked får inte ges för byggnader förrän avskärande dike för skyfallsled i öster har
+anlagts.
+
+ADMINISTRATIVA  BESTÄMMELSER    FÖR PLANOMRÅDET
+Genomförandetid
+
+Genomförandetiden är 15 år från den dag planen vinner laga kraft. Gäller inte för område a4.
+
 Transformatorstation ska placeras minst 5 meter från angränsande byggnadsdel.
-1200 och höjdsystemet RH 2000
-Skala 1:2000 i A1, skala 1:4000 i A3
-TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum kartdata: 2022-10-28, kompletterande höjdgrid 2024-02-05
-Registernummer, tomtnummer                   Vägbana
+
 Detaljplan    för verksamheter     i
 ORIENTERINGSKARTA
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak                                                                                                                                                                                                Antagandehandling
+Antagandehandling
 Klovsten
-Fastighetsgräns                              Uthus fasad, resp. tak
-Gång- och cykelbana                          Skärmtak
-Beslutsdatum   Instans
+Beslutsdatum  Instans
 inom  Ysby  1:2 med   flera
 Samråd
-i Kungsbacka   stad                                       BN § 372
+i Kungsbacka   stad                                        BN § 372
 2019-11-21
 Kungsbacka    kommun                           Granskning
 BN § 372
@@ -13972,29 +14005,33 @@ våren 2023 har blivit föremål för deponiverksamhet i söder. Planområdet ä
 tar stort. Marken ägs till cirka 62% av kommunen, cirka 22% av Balder i Kungsbacka samt
 cirka 16% av Transportcentrum i Kungsbacka AB eller dotterbolag.
 
+Säröleden/väg 158
 Kungsbacka stadskärna
+Kungsbackaskogen
+
+Svarte mosse
 
 E6
 
 Planområdets ungefärliga avgränsning är markerat i brunt.
 
-8 Planbeskrivning                                                                                                              Planbeskrivning 9
-västra
-stambanan
-Säröleden/väg 158
-Kungsbackaskogen
-Svarte mosse
 Tidigare    ställningstaganden
+
 Riksintressen
 Väg E6 utgör riksintresse för kommunikationer. För övrigt omfattas planområdet inte av
 några riksintressen. Strax väster om Klovsten omfattas marken av riksintresse för rörligt
 friluftsliv, 4 kap 2 § MB. Planområdet avgränsas dock från detta riksintresse av motorvägen.
+
 Översiktliga planer
 I kommunens översiktsplan behandlas de övergripande planeringsfrågorna utifrån de
 allmänna intressena. I den gällande översiktsplanen för Kungsbacka kommun anges ett
 stort område kring centralorten som utvecklingsområde för Kungsbacka stad. Planområdet
 ligger inom utvecklingsområdet. Detta utvecklingsområde behandlas separat i den fördju-
 pade översiktsplanen (FÖP) för Kungsbacka stad som togs fram 2009. I FÖP:en anges den
+
+8 Planbeskrivning                                                                                                              Planbeskrivning 9
+
+västra stam banan
 
 <!-- sida 641 -->
 
@@ -16089,54 +16126,116 @@ www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 683 -->
 
-PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med  nedanstående    beteckningar.        GRÄNSER                                                                                  Egenskapsgräns.                                               ANVÄNDNING           AV   MARK                                                           Huvudgata.                                                    Kvartersmark                                                                             Drivmedelsförsäljning.                                                     Centrumverksamhet,      ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                      Pendelparkering.                                               EGENSKAPSBESTÄMMELSER                      FÖR    ALLMÄN        PLATS                   Markens   höjd  över nollplanet ska  vara \<angivet>  meter.                 Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över nollplanet  ska vara 50  meter.                        Markens   höjd över  nollplanet får vara upp  till max +38                  Marken  får inte förses med  byggnad.                                      Största byggnadsarea     är 60 %  per fastighet inom                        Byggnad   ska placeras  minst  4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som  vetter mot  väg  E6 ska  utformas  i                         För bebyggelse   för centrumändamål     gäller:                            För  bebyggelse   för centrumändamål    gäller:                             Byggnader   och  tekniska  anläggningar  kopplade   till                   Obebyggda     ytor bör utformas  så att de inte uppmuntrar                  Byggnader   som   uppförs inom  40  meter  från                            Stängsel   ska finnas längs  krön vid bergschakt.                           Påfyllningsanslutning  till cisterner ska placeras minst 25   Utfart                                                                      Utformning                                                                              Fasad   mot väg  E6  och väg  158  ska ges  en omsorgsfull                  En pylon  för skyltändamål  får uppföras  på en  plats inom   Utförande                                                                                Ingen markbelastning    är tillåten. Marknivåer enligt        ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                         Genomförandetiden     är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                   Markreservat   för allmännyttiga underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                 Startbesked  får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag  planen  vinner laga kraft.
+PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med   nedanstående    beteckningar.        GRÄNSER                                                                                 Egenskapsgräns.                                                ANVÄNDNING          AV   MARK                                                           Huvudgata.                                                     Kvartersmark                                                                            Drivmedelsförsäljning.                                                      Centrumverksamhet,     ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                       Pendelparkering.                                              EGENSKAPSBESTÄMMELSER                       FÖR    ALLMÄN       PLATS                    Markens   höjd över nollplanet ska  vara \<angivet>   meter.                Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över  nollplanet ska vara  50 meter.                        Markens   höjd  över nollplanet får vara upp  till max +38                  Marken   får inte förses med  byggnad.                                     Största  byggnadsarea    är 60 %  per fastighet inom                        Byggnad   ska  placeras  minst 4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som   vetter mot väg  E6  ska utformas  i                         För  bebyggelse   för centrumändamål    gäller:                             För bebyggelse   för centrumändamål     gäller:                            Byggnader    och tekniska  anläggningar   kopplade  till
 
-Endast  angiven  användning    och utformning   är tillåten. Där                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             med   livsmedel.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            meter.                                                                                                                                                 användningsområdet.                                                         fastighetsgräns. Bestämmelsen     gäller inte om  byggnder                 angränsande    byggnadsdel.                                                 obrännbart                                                                 Fönster  och  ingående  komponenter    ska  vara                           Luftintag  placeras högt  på byggnad   och  orienteras bort                 hantering  av                                                              till                                                                        kvartersmark   som  omfattas  av                                                                                                                       meter  från övriga byggnader   (ej bensinstation).                                                                                                                                                                                utformning  med   hänsyn  till områdets exponerade    läge.                 egenskapsområdet     med   en högsta  höjd på  12 meter.                                                                                               plankartan  ska följas.                                                                                                                                laga kraft.                                                                                                                                                                                                                       vistelse förrän flytt av kraftledningen har kommit  till                    inte anläggas  förrän flytt av kraftledningen har kommit  till             bergstekniska   åtgärder  har kommit  till stånd.                                                                                         Gäller inte för område  a4.
-KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     PLATS                                                                                                                                                  KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                             PLANOMRÅDET
-Planområdesgräns.                                                           Administrativ  gräns.                                         Allmän    platsmark    med   kommunalt     huvudmannaskap                                Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                               Verksamheter.                                                                                                                                                                                                                      Markens   höjd över nollplanet  får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd  är \<angivet>   meter  över angivet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Bergsäkringsåtgärder    ska  utföras vid sprängning   i                                                                                    PBL 4 kap, 9 §                                                             PBL 4 kap, 16 §                                                                                                                                                                                                                    PBL 4 kap, 16 §
-beteckning  saknas   gäller bestämmelsen    inom  hela området.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             sammanbyggs     i fastighetsgräns. .                                                                                                                   material. Luftintag samt  entréer och  inlastning ska                      motsvarande    brandklass  E  30 vilket innebär att fönster                från väg  E6.                                                               brandfarliga  vätskor får inte anläggas  inom  25 meter                    stadigvarande   vistelse.                                                   användningsbestämmelsen       G  (drivmedelsförsäljning)                                                                                                                                                                                                                                                                                                                                 Skyltning  får endast ske  på fasad  och  ska placeras  lägre               Anordningar   som  kan  inverka störande  på  trafiken på                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       stånd.                                                                      stånd.
-Centrumverksamhet,      ej hotell, vandrarhem  eller handel                                                                                            Återvinningscentral.                                                                                                                                                                                                                                                                                          Markens   höjd  över nollplanet ska  vara lägst +37  meter.                                                                                                                                                                                                                                      Omfattning                                                                                                                                             Placering                                                                                                                                              Störningsskydd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Avskärande   dike  för skyfallsled får finnas.                             Utfart för utryckningsfordon  får finnas. Utfart för övriga                                                                                                                                                                                                                                                   Område    inom  vilket bergteknisk åtgärd  ska utföras.                                                                                                                                                                                                                                                                                                                      Villkor för startbesked                                                                                                                                                                                                                        Startbesked   får inte ges för byggnader  förrän
-Mark                                                                                                                                                                                                                              Mark                                                                                                                                                                                                                                            nollplan .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        berget.  Åtgärden                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Genomförandetid                                                                                                                                        Markreservat                                                                                                                                                                                                                                                                                                                                                                             Genomförandetid
-Användningsgräns.                                                           Egenskaps-    och administrativ gräns.                         PBL 4 kap, 5 §                                                                          Väg.                                                                       med   livsmedel.                                                                                                                                                                                                                   Industri.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 anordnas  på                                                               inte kan vara  öppningsbara   eller endast kan  öppnas                                                                                                 från fastighetsgräns  mot  kvartersmark.  Avvattning  av                                                                                               ska utformas   med  utrymningsmöjlighet   som   vetter bort                                                                                                                                                                       fordon  får inte finnas.                                                                                                                               än  takfotshöjden.  Ljusskyltar eller andra anordningar                     väg E6  (exempelvis   ljusskyltar med  starkt ljus, blinkande                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          avskärande   dike för skyfallsled i öster har anlagts.
-ska  godkännas   av  sakkunnig  bergtekniker.
-PBL 4 kap, 11 §                                                                                                                                       PBL 4 kap, 16 §                                                                                                                                        PBL 4 kap, 12 §                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                PBL 4 kap, 14 §
-PBL 4 kap, 5 §                                                                                                                                                                                                                     PBL 4 kap, 10 §                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              lämpligt sätt så att de vetter bort från väg E6. Minst en                  med  specialverktyg   för exempelvis  fönsterputsning.                                                                                                 hårdgjorda  ytor ska                                                                                                                                   från drivmedelsförsäljningen.                                                                                                                                                                                                                                                                                                                                                            som   kan inverka  störande  på trafiken på väg  E6  får ej                 ljus eller bildväxlande skyltar) får ej anordnas.                                                                                                                                                                     PBL 4 kap, 21 §                                                                                                                                       PBL 4 kap, 6 §                                                                                                                                                                                                                                                                                                                                                                            PBL 4 kap, 21 §
-utrymningsväg   i varje byggnad  ska  vetta bort från väg                  Luftintag placeras  högt och  ska vetta bort från väg  E6.                                                                                             förses med   anläggning  för uppsamling   av olja. Entréer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      anordnas.
-E6. Ytor mellan  byggnad   och väg  E6  utformas  för att                  Entréer  och inlastning ska  anordnas   på lämpligt sätt så                                                                                            för byggnader   inom  25 meter  från drivmedelsstationen,
-inte uppmuntra  till stadigvarande vistelse.                               att de vetter bort från väg E6. Vid utformning   av                                                                                                    bör vetta bort från drivmedelsstationen.Byggnader      och
-byggnader   ska  hänsyn  tas till dimensionerande                                                                                                      tekniska  anläggningar  kopplade   till hantering av
-explosionslast.  Fasad  ska  vara i obrännbart  material.                                                                                              brandfarliga  vätskor får inte anläggas  inom  25 meter
-Platser för utevistelse får inte anordnas.                                                                                                             från fastighetsgräns  mot  kvartersmark.  Avvattning  av
+Endast  angiven   användning   och  utformning  är tillåten. Där                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              med  livsmedel.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            meter.                                                                                                                                                 användningsområdet.                                                         fastighetsgräns.  Bestämmelsen     gäller inte om byggnder                 angränsande    byggnadsdel.                                                 obrännbart                                                                 Fönster  och  ingående   komponenter   ska  vara                            Luftintag placeras  högt på  byggnad   och orienteras  bort                hantering  av
+KVARTERSMARK
+Planområdesgräns.                                                          Administrativ  gräns.                                          Allmän   platsmark    med   kommunalt      huvudmannaskap                               Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                                Verksamheter.                                                                                                                                                                                                                     Markens   höjd över  nollplanet får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd   är \<angivet>  meter  över angivet
+beteckning   saknas  gäller bestämmelsen    inom  hela  området.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            sammanbyggs     i fastighetsgräns.  .                                                                                                                  material. Luftintag samt  entréer och  inlastning ska                      motsvarande    brandklass   E 30 vilket innebär att fönster                 från väg E6.                                                               brandfarliga  vätskor får inte anläggas  inom  25 meter
+Centrumverksamhet,     ej hotell, vandrarhem  eller handel                                                                                             Återvinningscentral.                                                                                                                                                                                                                                                                                          Markens   höjd över nollplanet ska  vara lägst +37  meter.                                                                                                                                                                                                                                      Omfattning                                                                                                                                             Placering                                                                                                                                              Störningsskydd
+Mark                                                                                                                                                                                                                              Mark                                                                                                                                                                                                                                            nollplan .
+Användningsgräns.                                                          Egenskaps-    och administrativ  gräns.                        PBL 4 kap, 5 §                                                                          Väg.                                                                                                                                                                                                                                                                                                          Industri.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 anordnas   på                                                              inte kan  vara öppningsbara   eller endast  kan öppnas                                                                                                 från fastighetsgräns  mot  kvartersmark.  Avvattning  av
+med  livsmedel.
+PBL 4 kap, 11 §                                                                                                                                        PBL 4 kap, 16 §                                                                                                                                        PBL 4 kap, 12 §
+PBL 4 kap, 5 §                                                                                                                                                                                                                     PBL 4 kap, 10 §                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              lämpligt sätt så att de vetter bort från väg E6. Minst  en                 med   specialverktyg  för exempelvis  fönsterputsning.                                                                                                 hårdgjorda   ytor ska
+
+utrymningsväg    i varje byggnad  ska vetta bort från väg                  Luftintag  placeras högt  och ska  vetta bort från väg E6.
+
+E6. Ytor mellan  byggnad   och  väg  E6 utformas  för att                  Entréer  och  inlastning ska anordnas   på lämpligt  sätt så
+inte uppmuntra   till stadigvarande vistelse.                              att de vetter bort från väg E6.  Vid utformning  av
+
+byggnader    ska hänsyn   tas till dimensionerande
+explosionslast.  Fasad   ska vara  i obrännbart material.
+
+Platser  för utevistelse får inte anordnas.
+
+förses med   anläggning  för uppsamling   av olja. Entréer
+
+för byggnader   inom  25 meter  från drivmedelsstationen,
+bör vetta bort från drivmedelsstationen.Byggnader      och
+
+tekniska  anläggningar  kopplade   till hantering av
+brandfarliga  vätskor får inte anläggas  inom  25 meter
+
+från fastighetsgräns  mot  kvartersmark.  Avvattning  av
 hårdgjorda  ytor ska  förses med  anläggning   för
-uppsamling   av olja. Entréer för byggnader   inom  25
-meter  från drivmedelsstationen,   bör vetta bort från
 
+uppsamling   av olja. Entréer för byggnader   inom  25
+
+meter  från drivmedelsstationen,   bör vetta bort från
 drivmedelsstationen.
 
 10-16 m
 
-Detaljplan    för verksamheter     i
+Obebyggda    ytor bör utformas  så  att de inte uppmuntrar                 Byggnader    som  uppförs  inom  40 meter  från                             Stängsel  ska  finnas längs krön  vid bergschakt.
+
+till                                                                       kvartersmark   som   omfattas  av
+Bergsäkringsåtgärder    ska utföras  vid sprängning  i
+stadigvarande   vistelse.                                                  användningsbestämmelsen        G (drivmedelsförsäljning)
+berget. Åtgärden
+ska  utformas  med   utrymningsmöjlighet   som  vetter bort
+ska godkännas    av sakkunnig   bergtekniker.
+från drivmedelsförsäljningen.
+
+Påfyllningsanslutning   till cisterner ska placeras minst 25  Utfart
+
+meter  från övriga byggnader   (ej bensinstation).
+PBL 4 kap, 9 §
+Avskärande    dike för skyfallsled får finnas.                             Utfart för utryckningsfordon   får finnas. Utfart för övriga
+fordon  får inte finnas.
+
+Utformning                                                                               Fasad  mot  väg E6  och  väg 158  ska ges  en omsorgsfull
+
+utformning  med  hänsyn   till områdets exponerade   läge.
+PBL 4 kap, 16 §
+Skyltning får endast  ske på fasad  och  ska placeras  lägre
+än takfotshöjden.  Ljusskyltar eller andra anordningar
+som  kan inverka  störande  på  trafiken på väg E6  får ej
+
+anordnas.
+
+En  pylon för skyltändamål   får uppföras på  en plats inom   Utförande
+
+egenskapsområdet     med   en högsta  höjd  på 12 meter.
+PBL 4 kap, 16 §
+Anordningar   som  kan  inverka störande   på trafiken på
+väg  E6 (exempelvis   ljusskyltar med  starkt ljus, blinkande
+ljus eller bildväxlande skyltar) får ej anordnas.
+
+Ingen  markbelastning   är tillåten. Marknivåer enligt         ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                        Genomförandetiden      är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                  Markreservat   för allmännyttiga  underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                Startbesked   får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag planen  vinner  laga kraft.
+
+plankartan   ska följas.                                                                                                                               laga  kraft.                                                                                                                                                                                                                       vistelse förrän flytt av kraftledningen har kommit  till                   inte anläggas   förrän flytt av kraftledningen har kommit  till             bergstekniska   åtgärder har  kommit  till stånd.                                                                                         Gäller inte för område  a4.
+PLATS                                                                                                                                                  KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                             PLANOMRÅDET
+stånd.                                                                     stånd.
+Område   inom  vilket bergteknisk  åtgärd ska  utföras.                                                                                                                                                                                                                                                                                                                     Villkor  för startbesked                                                                                                                                                                                                                        Startbesked   får inte ges för byggnader  förrän
+Genomförandetid                                                                                                                                        Markreservat                                                                                                                                                                                                                                                                                                                                                                             Genomförandetid
+avskärande   dike för skyfallsled i öster har anlagts.
+PBL 4 kap, 14 §
+PBL 4 kap, 21 §                                                                                                                                        PBL 4 kap, 6 §                                                                                                                                                                                                                                                                                                                                                                            PBL 4 kap, 21 §
+
+Detaljplan   för verksamheter      i
 Antagandehandling
 Klovsten
 
-Inom  Ysby  1:2 med   flera                     Beslutsdatum  Instans
-i Kungsbacka   stad                             Samråd
+Inom   Ysby  1:2 med   flera                    Beslutsdatum   Instans
+
+i Kungsbacka    stad                             Samråd
 BN §372
 2019-11-21
 Granskning
 BN §372
-Kungsbacka    kommun                            2019-11-21
+Kungsbacka     kommun                            2019-11-21
 Antagande
-2025-01-21                                                  KF
+2025-01-21                                                 KF
 xxxx-xx-xx
 Laga kraft
 xxxx-xx-xx
 Plankostnads-
-Ida Lennartsson             Maria Malone        Diarenummer
+Ida Lennartsson            Maria Malone         Diarenummer
 avtal
 2018-00007
-Verksamhetschef Plan        Senior Planarkitekt             Ja/Nej
-Illustration          Detaljplanen är upprättad enlig PBL KBXXX
+Verksamhetschef Plan       Senior Planarkitekt             Ja/Nej
+Illustration         Detaljplanen är upprättad enlig PBL KBXXX
 2010:900 med utökat förfarande
 
 <!-- sida 684 -->
@@ -20514,7 +20613,7 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
@@ -21085,7 +21184,7 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:

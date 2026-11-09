@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b33910402/171639017683
 sha256: fe66413514629b20892d4a95b944844c5dc021f303c47704e91300b76b8e630e
 bytes: 1062898
 sidor: 17
-hamtad: 2026-10-24T10:19:08+00:00
-konverterad: 2026-10-24T10:19:38+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T09:43:38+00:00
+konverterad: 2026-11-09T09:44:17+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -130,7 +130,7 @@ budget 2025 och plan 2026-2027 för RSG...sssessesserrrersrrrssserrrrrrrreressrr
 
 Dnr KS-2020-01110
 Godkännande av avtal om marköverlåtelse och genomförande avseende
-fastigheten Frillesås-Rya 2:133, vid Bostället i Frillesås ...............sessssossn000 7
+fastigheten Frillesås-Rya 2:133, vid Bostället i Frillesås ...............ssssssoss000 7
 
 Dnr KS-2024-00385
 Flaggning med regnbågsflagga under West Pride s .... 9

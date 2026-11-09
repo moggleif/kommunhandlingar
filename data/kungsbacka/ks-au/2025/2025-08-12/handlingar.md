@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7cc6bcd119873771c9593119/1754639296
 sha256: 2783996609cc9f1c5ce23b1631e13978fdf58ea0f26d0dabe89cc69c4a834c75
 bytes: 241798661
 sidor: 243
-hamtad: 2026-10-25T07:47:01+00:00
-konverterad: 2026-10-25T07:54:49+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:19:25+00:00
+konverterad: 2026-11-09T12:28:58+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -433,22 +433,28 @@ I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns m
 nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-8
-tehkilonnaS
 4       8       12      16
+
 4
+
 3       6       9       12
 2
 3
+
 2       4       6       8
 1 4     3
 2
+
 1       2       3        4
+
 1
+
 1       2       3       4
+
 Konsekvens
+
 1 Hög 3 Medel Totalt: 4
+
 Kritisk             Sannolikhet           Konsekvens
 Hög
 4    Mycket vanligt - exempelvis 1 Allvarlig/stor inverkan (så stor att
@@ -463,6 +469,9 @@ kommunen)
 1    Osannolik (risken är praktiskt Försumbar (obetydlig för berörda
 taget obefintlig) - exempelvis 1 intressenter och kommunen)
 gång per 10 år
+8
+
+Sannolikhet
 
 <!-- sida 16 -->
 
@@ -3212,7 +3221,6 @@ Trafikens fortsatta utveckling, former för samverkan
 Utvecklingen av kollektivtrafiken är fortsatt en gemensam angelägenhet för
 Parterna. Parterna ska verka för en sammanhållen strategisk målstyrning utifrån
 regionala och lokala målsättningar för tillväxt och utveckling i Västra Götalands
-län.
 
 Samverkansformer ska etableras för att säkerställa ett arbetssätt där Parterna i en
 gemensam process arbetar fram den strategiska inriktningen för kollektivtrafikens
@@ -3554,7 +3562,7 @@ nivå 2011
 1481 Mölndal 36 816 36816
 1482 Kungälv 26 011 26014
 1484 Lysekil 15 708 -1 296 14 412
-1485 Uddevalla 31 737 -2 993 28 744]
+1485 Uddevalla 31737 -2 993 28 744]
 1486 Strömstad 5932 5 932
 1487 Vänersborg 14 461 14461
 1488 Trollhättan 28 942 28 942
@@ -6022,7 +6030,6 @@ Kungsbacka kommun
 
 <!-- sida 152 -->
 
-06-14 SR
 Datum 2025- Y Datum 2025- b£-1Y
 Aranäs Projekt AB JM AB
 
@@ -6090,11 +6097,7 @@ Kolla Parkstad, Kungsbacka
 
 Uppdragsnr: 1051799 Version: 1.0 Datum: 2024-11-11
 
-1
-
 nn
-
-NW NN
 
 Norconsult 4
 
@@ -6131,7 +6134,6 @@ Kerngsutredning kolla parkstad docx
 <!-- sida 157 -->
 
 Mobilitets- och parkeringsutredning Norconsult 4
-Dar (
 
 Kolla Parkstad, Kungsbacka
 Uppdragsnr.: 1051799 Version: 1.0
@@ -6258,8 +6260,6 @@ Lgh, bostadsrätt N
 Område B
 ; I= Söder
 
-NJOVINTVINO
-
 Figur 1. Översikt över Kolla Parkstad
 
 Område A i de östra delarna av Kolla Parkstad innehåller en blandning av hyresrätter, bostadsrätter samt
@@ -6272,12 +6272,14 @@ område C finns även Coop Kolla Parkstad.
 alikarin gamberg norconsult com/documents/desktop/kolla 2024-11-11 |
 ngsutredning kolla parkstad docx
 
+my.sharepoint.com/persc
+24 mobilitets- och park
+
 htips //norconsu
 
 parkstad p-utred
 
-my.sharepoint.com/persc
-24 mobilitets- och park
+NJOVINTVINO
 
 <!-- sida 160 -->
 
@@ -6290,11 +6292,8 @@ Norconsult 0
 
 I Tabell 1 ses en översikt över antalet utbyggda bostäder i Kolla Parkstad vid investeringstillfället år 2022.
 
-Tabell 1. Antal utbyggda bost
-
 396
 
-SAÄAPAAA Jb vebfern
 ader vid inventerne
 
 16
@@ -6488,9 +6487,7 @@ Kolla Parkstad, Kungsbacka Norconsult 5
 Uppdragsnr.: 1051799 Version: 1.0
 
 I Figur 3 redovisas befinilga Na samt Ryke baner inom Kolla Parkstad.
-HH
-
-2\)
+HM
 
 Im Vuäralalla
 
@@ -6675,7 +6672,6 @@ vara 0,76 bilplatser/lägenhet och 1,06 bilplatser/hus.
 
 I Tabell 5 presenteras en sammanställning av inventeringsresultaten för område A — Söder.
 
-Tabell 5. Sammanställning av inventeringsresultatet i område A — Söder får 2022)
 Privat bilplats |85 136 62,54
 SR Ö
 Allmän bilplats | 61 141 43,30 122 50 0,76 1.06
@@ -6696,16 +6692,16 @@ Sammanlagt fanns vid inventeringen 74 bilar parkerade i området. Detta ger en b
 
 I Tabell 6 presenteras en sammanställning av inventeringsresultaten för område B — Norr.
 
-Tabell 6. Sammanst ng av invent resultatet i område B — Norr (år 2022).
 Antal Antal P- Beläggnings-| Antal P-behov
 parkerade |platser grad lägenheter Igh
 
 bilar (bp/igh)
 
 Privat bilplats |50 67 74,6N0
-Fe ra
+
 Allmän bilplats | 24 147 16,30 0 59 - 1,25
 Garage - - -
+
 Totalt 74 214 34,64
 
 3.2.2 Område B — Söder
@@ -6759,18 +6755,12 @@ har beräknats vara 0,71 bilplatser/lägenhet och 0,99 bilplatser/hus.
 
 I Tabell 8 presenteras en sammanställning av inventeringsresultaten för område C — Norr.
 
-Sammanställning av inventeringsresultatet I område C — No 022)
-
 Antal Antal P- Beläggnings-/| Antal Antal P-behov P-behov
 parkerade |platser grad lägenheter |småhus Igh hus
 bilar (bp/lgh) (bp/hus)
-
 Privat bilplats |27 41 65,94
-
 Allmän bilplats | 93 103 90,3Y0
-
 Garage 39 39 100240 220 3 71 29
-
 Totalt 159 183 86,94
 
 3.3.2 Område C — Söder
@@ -6800,9 +6790,10 @@ Uppdragsnr.: 1051799 Version: 1.0
 Tabell 9. Sammanställning av inventeringsresultatet I område C — Söder (år 2022).
 
 Privat bilplats |77 115 674
-SK Gö
+
 Allmän bilplats | 87 160 54,44 136 38 0,87 121
 Garage - - -
+
 Totalt 164 275 59,64
 
 3.4 Övriga parkeringsytor
@@ -6818,7 +6809,6 @@ ir reserverade för taxi. övriga 22
 
 nhägnad p
 
-MN nns även en ker a Dersc al sg
 Antal parkerade bilar | Antal P-platser Beläggningsgrad
 
 Kollaskolan? 14 69 20,30
@@ -6946,14 +6936,13 @@ Parkeringsbehoven i avsnitt 3 Inventeringsresultat multipliceras med uppräkning
 tillägget med hänsyn till inventeringstid. I Tabell 12 redovisas det maximala parkeringsbehovet i nuläget och
 maximal nyttjandegrad i nuläget beräknas.
 
-per 2 = | 7
 Maximalt P- i Maximal
 behov nuläge behov nuläge P-behov befintliga nyttjande-
 lägenhet (bp/lgh) | hus (bp/hus) nuläge (bp) |bilplatser grad nuläge
 
 Område A— Norr 10,99 1,39 414 487 85 Yo
 Område A — Söder | 0,87 1,22 168 2177 61 4
-Område B- Norr = |- 1,44 85 214 40 Yo
+Område B- Norr = |- 1,44 85 214 40 4
 Område B — Söder |1,04 1,46 60 91 66 Yo
 Område C — Norr 10,82 1,14 183 183 100 24
 Område C — Söder | 1,00 1,42 189 275 69 4
@@ -7061,8 +7050,6 @@ gt kvarter samt antal tillkommande
 
 gda kvarter.
 
-Tabell 13. Sammanställning av uppskattat antal bostäder i respektive obebyc
-
 parkeringsplatser. Uppskattningarna baseras på en spegling av redan bebyg
 
 Kvarter 5 26 0 26 0 20
@@ -7122,7 +7109,6 @@ olika områdena (A-—C). Det dimensionerande parkeringsbehovet beräknas till 1
 Totalt i Kolla Parkstad, efter exploatering av de obebyggda kvarteren, beräknas det finnas 1 640 platser vilket
 ger ett överskott om 395 platser.
 
-aj. Vid inventering
 ar |
 Antal Framtida, Överskott
 bostäder P-platser maximalt eller brist på
@@ -7161,7 +7147,7 @@ Skolparkeringen är skyltad ”P 1 tim 06-18.
 e 21 bilplatser vid Kolla Parkstads förskola finns tillgängliga för parkering kvälls- och nattid.
 Parkeringsplatserna är skyltade ”P 30 min 06-19".
 
-https iinorconsult385-my.sharepoint.com/personalikarin gamberg norconsult com/documents/desktop kolla 2024-11-11 I Sida 19 av 22
+https ifnorconsult385-my.sharepoint.com/personalikarin gamberg norconsult com/documents/desktop kolla 2024-11-11 I Sida 19 av 22
 
 gsutredning kolla parkstad docx
 
@@ -7352,8 +7338,6 @@ Ugh, hyresrätt
 
 Område B
 \- Söder
-
-(SE
 
 Figur 1. Översikt över Kolla Parkstad.
 
@@ -7605,7 +7589,6 @@ v.sharepomt.com.perso
 Mobili
 
 tets- och parkeringsutredning Norconsult 4
-3 Kungsnasksa Ce
 
 de skisser som finns. Kring kvarter 5, 7, 8 och 9 är redan samtlig gatuparkering färdigställd och det som
 tillkommer är därmed endast privata parkeringsplatser. Kring kvarter 13c finns redan allmänna
@@ -7679,7 +7662,7 @@ ger ett överskott om 395 platser.
 
 t framtida parkeringsbehovet i Kolla Parkstad
 
-55 platser vid Kollaskolan och 21 platser vid Kolla Parkstads förskola). Vid nmventering
+55 platser vid Kollaskolan och 21 platser vid Kolla Parkstads förskola). Vid mventering
 
 sar 14 bilar parkerade på dessa vilket innebär att 72 platser finns tillgängliga
 
@@ -7699,7 +7682,6 @@ Kvarter 13c 39 0 39 14 37 -23
 Totalt obebyggt 142 10 152 113 147 -34
 Totalt Kolla Parkstad |1065 — |182  |1247 1640 [1245 +395
 Reservplatser” 86 - +f2
-Totalt Kolla é 1726 [1245 — [+467
 
 Om ett tillägg med hänsyn till att bilplatser kan vara reserverade för enskilda hushåll görs beräknas det
 framtida parkeringsbehovet vara 1 230 platser för de utbyggda kvarteren respektive 175 platser för de
@@ -7971,7 +7953,7 @@ Exploatörernas kvartersmark inom Exploateringsområdet med boendekort.
 Förutsättningarna för och konsekvenserna av upplåtelse med boendekort är följande:
 
 \- Vid beräkning av parkeringsbehovet för boende och besökare kan behovet genom
-samnyttjande reduceras med 25 94 på all parkering som upplåtes med boendekort.
+samnyttjande reduceras med 25 940 på all parkering som upplåtes med boendekort.
 Beräkning av behovet framgår av bilaga 6, Parkeringsplan.
 
 \- Kvartersmarken för verksamheter i västra delen av Exploateringsområdet skall inte
@@ -8212,13 +8194,9 @@ Stockholm den 7/4 2010 Kungsbacka den 2Y/3 2010
 ägare till exploateringsfastighet för
 
 JM AB'(publ) Kungsbacka kommun som blivande
-/ /
 j bostads-/äganderätt/ägarlägenheter
 
 /
-
-; 4 IL AnAr
-K kamalmi (X NTE
 
 Kungsbacka den ä/ 2010
 
@@ -8736,10 +8714,8 @@ Markera fastigheten eller fastigheterna du begär planbesked för
 Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera
 fastigheten eller fastigheterna på denna kartan.
 
-\> |
 \>
 än
-Ms LJ ?
 43
 
 ”SSängpas

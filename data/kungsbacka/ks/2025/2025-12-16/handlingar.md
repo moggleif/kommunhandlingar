@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17194bc/1765442358
 sha256: b300f6d21c0578f62568c01a23fda64d75b72a8229f98cedf09021846426f4df
 bytes: 102246330
 sidor: 665
-hamtad: 2026-11-07T00:23:18+00:00
-konverterad: 2026-11-07T00:32:19+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T08:31:43+00:00
+konverterad: 2026-11-09T08:41:27+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, tom, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -939,7 +939,6 @@ Kommunstyrelsens förvaltning
 
 <!-- sida 24 -->
 
-Från: [I »
 Skickat: den 9 november 2025 14:18
 
 Till: Kommun \<kommun(Ökungsbacka.se>
@@ -961,7 +960,7 @@ Storckenfeldt \<axel.storckenfeldtQekungsbacka.se>; Magdalena Sundqvist
 \<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
 \<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson \<johan.tolinssonQkungsbacka.se>;
 Stefan Vilumsons \<stefan.vilumsonsQkungsbacka.se>; Marie Wadström
-\<marie.wadstrom(ÅMkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQMkungsbacka.se>
+\<marie.wadstrom(Mkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQMkungsbacka.se>
 Ämne: Komplettering till begäran om normprövning enligt RF 11 kap. 14 8 i ärende KS-2025-
 00287
 
@@ -2511,7 +2510,6 @@ Kommunstyrelsens förvaltning
 
 <!-- sida 66 -->
 
-Från: [I »
 Skickat: den 21 oktober 2025 12:20
 
 Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(Mkungsbacka.se>
@@ -3378,7 +3376,7 @@ Tjänstenotering: Frågor från fastighetsägaren har genom mejl 2025-
 05-09 övergått till begäran om ogiltigförklaring av
 detaljplanebestämmelse fö fl. Rubrik ändras från Frågor
 
-om parkmark Billilliän.f. till Bggären om ogiltigförklaring av
+om parkmark Billlliän.fi. til Bggären om ogiltigförklaring av
 detaljplanebestämmels
 
 Tjänstenotering: En mottagningsbekräftelse har skickats till sökanden.
@@ -3388,7 +3386,7 @@ Skickat E-post: Svar på mail 2025-04-25, KS-2025-00287
 Bil - Begäran om inlösen av del av mark inom fastigheten BN
 KS-2019-00602, KS 2022-03-22 8 63
 
-Bil - Ansökan om planbesked fö [BIIKsS-2019-00602, KS 2019-
+Bil - Ansökan om planbesked fö [IIKsS-2019-00602, KS 2019-
 12-19 5 326
 
 Bil - Planbesked fö [KS-2018-00795, KS 2019-02-19 & 41
@@ -3514,7 +3512,6 @@ Med vänlig hälsning
 
 <!-- sida 83 -->
 
-Från: emm
 Till: Ida Lennartsson; Info; Kommun
 
 Ärende: Komplettering i ärende: KS-2025-00287 - Rättskraft, genomförande och kommunens ansvar vid detaljplan
@@ -3686,7 +3683,6 @@ och HH
 
 <!-- sida 87 -->
 
-Från;
 Till: Ida Lennartsson
 
 Ärende: Korrigering av komplettering i ärende KS-2025-00287
@@ -3851,7 +3847,7 @@ Från:
 
 Skickat: den 17 september 2025 12:35
 
-Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(Mkungsbacka.se>; Ida Lennartsson
+Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(ÅMkungsbacka.se>; Ida Lennartsson
 \<ida.lennartssonQkungsbacka.se>
 
 Ämne: Komplettering i ärende KS-2025-00287 - Hänvisning till PBL 4:17a och MB 7:18;
@@ -4152,7 +4148,7 @@ ekonomiskt och rekreationellt.
 En central del av översiktsplanen är att överbrygga barriärer som idag begränsar accessen till
 kusten och kopplar samman Åsas centrala delar med havet. Ett område på ca: 37 000 kvm,
 ursprungligen planerat som parkmark men aldrig realiserat, utgör just en sådan barriär.
-Markägaren har visat vilja att finansiera en strandpromenad - en lösning som direkt stöder
+Markägaren har visat vilja att finansiera en strandpromenad -—- en lösning som direkt stöder
 kommunens ambitioner om ökad rekreation och tillgänglighet. Ändå har inga samtal inletts.
 Detta är anmärkningsvärt, särskilt när markägaren dessutom är öppen för att kombinera detta
 med bebyggelse, vilket kan driva förtätning och utveckling av verksamheter i linje med planens
@@ -4180,8 +4176,6 @@ fokus på samverkan och långsiktighet. Genom att inleda en konstruktiv dialog k
 inte bara lösa barriärproblemet utan också skapa ett levande centrum, öka tryggheten och
 folkhälsan, samt stärka Åsas identitet. Låt oss inte låta byråkratisk tvekan stå i vägen för en
 blomstrande framtid — öppna dörren till samtalet nu!
-
-HI foctienetsägor lill
 
 https://norrahalland.se/debatt/debatt-ge-aasa-en-blomstrande-framtid/47833
 
@@ -4273,7 +4267,6 @@ Jag står gärna till förfogande för att diskutera frågan vidare och tillhand
 Med vänlig hälsning
 
 Ägare ti NN och MN
-re. NN
 
 <!-- sida 105 -->
 
@@ -4307,10 +4300,6 @@ Akten inneh, 20 skrivna sidor,
 
 <!-- sida 111 -->
 
-\$
-
-4
-
 MR
 
 Utan avgift.
@@ -4322,8 +4311,6 @@ MAA (006 2 oo Bi
 te inkom /7//A, 19821
 
 -.
-
-Bb. Ds år 19b1.
 
 Länspkysekasne i Hallands
 äte fe Nur Eka län resolution i fråga om fast-
@@ -4377,10 +4364,6 @@ EL | Secakt ÄDP Otel 2.
 <!-- sida 112 -->
 
 V
-
-; e
-
-<
 
 3 Ia
 
@@ -4488,11 +4471,10 @@ R
 \>
 
 icke vara mindre än som motsvarar den för byggnad tillåtna
+
 största höjden, byggnadsnämnden likväl obetaget att, där så
 prövas lämpligt, för uthus eller annan gårdsbyggnad medgiva
 mindre avstånd, dock ej under 3 meter.
-
-§ 6.
 
 åntal byggnader å tomtplats.
 
@@ -4547,8 +4529,6 @@ obebyggt ett område av minst 9 meters bredd ovan ett plan i
 jämnhöjd med fönstrets umderkans: dvd må fönster anbringas mot
 gårdsdel av mindre brdäd öva detta plan, därest -rugmets behov
 av dager är nöjaktigt tillgodosett genöm annat föRSTST.
-
-1\. ee -
 
 Förbud mot utfart till väg.
 
@@ -4656,13 +4636,9 @@ sommarhotell och restaurang. Upphovet till och förut, -
 
 <!-- sida 118 -->
 
-« i
-
 2
 
 v.
-
-gon =
 
 sättningen för fritidsbebyggelsen äro de goda bad--
 möjligheterna vid områdets klipp- och sandstränder
@@ -4685,7 +4661,7 @@ Det har icke förelegat någon anledning att före- > Föreslagna
 
 z : väger .
 
-slå ändring i rikshuvudvägens sträckning. Dgn har i i
+slå ändring i rikshuvudvägens sträckning. Dgn har i
 förslaget redovisats med 16 meters bredd. En av väg-
 ingenjören i länet företagen utredning fur givit vid
 
@@ -4700,8 +4676,6 @@ gjorts i planen. Så långt det varit möjligt har riks-
 huvudvägen skyddats mot direkta utfarter från tomter
 
 <!-- sida 119 -->
-
-Fi
 
 an
 
@@ -4738,10 +4712,6 @@ huvudsak nordsyvdlig väg, vilken genom en vägbro över ban-
 <!-- sida 120 -->
 
 2
-
-2
-
-ä
 
 2/
 
@@ -4790,8 +4760,6 @@ parkområden.
 <!-- sida 121 -->
 
 LM
-
-Då
 
 ä
 
@@ -4867,8 +4835,6 @@ valla församlings kyrka samt införd i tidningarna Nordhalland
 
 och Norra Hallands Veckoblad.
 
-Qåd
-
 Anmärkningar mot förslaget ha inkommit från vissa
 markägare.
 Med anledning av vad SverTentnäteren i sitt i ärendet
@@ -4883,8 +4849,6 @@ nämnden i Ölmevalla socken ävensom Kungl. Järnvägsstyrelsen
 tillfälle att inom viss, numera förfluten tid inkomma med
 
 yttrande i ärendet.
-
-.
 
 <!-- sida 123 -->
 
@@ -4991,7 +4955,7 @@ ligt byggnadsplanen avsett ändamål. :
 
 Jämlikt 123 3 tredje stycket byggnadsstadgan samt 2 3
 
-första ndra kö Kungl. kohgörrl sen den 21 november 1947 om
+första ndra Rå Kungl. kohgörrl sen den 21 november 1947 om
 
 ERPeer ing av beslut pörands ändring i rikets indelnire re
 
@@ -5026,8 +4990,6 @@ vid äventrr \<v talare förlust ckola till Kungl. Kommunikstionrs-
 <!-- sida 133 -->
 
 avskrift.
-
-22
 
 at I (
 Har vedwdue UM 133
@@ -5160,7 +5122,6 @@ icke vara mindre än som motsverar den för vnoensd tillåtna
 största höjden, byggnadsnämnden likväl obetaget att, där så
 prövas lämpligt, för uthus eller annan gårdsbyggnad medgiva
 mindre avstånd, dock ej under 3 meter.
-5 6.
 Antal byggnader å tomtplats.
 Å tomtplats, mn unrar med B betecknat område, får
 endast en huvudbyggnad uppföras. Å tomtplats, som innehåller
@@ -5588,9 +5549,7 @@ grRätt avskrivet; betygar
 
 S 452/53
 
-MNAS TILL. -
-far >
-Lake NE Va
+LÄMNAS ML -
 FOR KÄNNEDOM.
 
 KUNGL. BYGGNADSSTYRELSEN
@@ -5614,7 +5573,7 @@ perter påyrkat göra den säligt planförslaget omkring 30 me-
 ter breda parkremsan mellan rikshuvudvägen och stranden sm
 lare, och deras yrkanden beträffande utläggande av visat or
 råde för hotelländamål synes icke böra föranleda något un-
-dantag i den fastställda planen utan kunna upptagas till
+dantag 1 den fastställda planen utan kunna upptagas till
 prövning sedan nytt planförsleg framlagts för det område &
 tills vidare icke ingår 1 planen. :
 
@@ -5931,8 +5890,6 @@ cc Bygg- och miljöförvaltningen
 
 <!-- sida 158 -->
 
-rå
-
 Skickat: den 9 juli 2025 18:36
 
 Till: Kommun \<kommun(Qkungsbacka.se>
@@ -6222,8 +6179,6 @@ cc Bygg- och miljöförvaltningen
 
 <!-- sida 166 -->
 
-rån:
-
 Skickat: den 9 juli 2025 18:36
 
 Till: Kommun \<kommun(Qkungsbacka.se>
@@ -6389,8 +6344,6 @@ cc Bygg- och miljöförvaltningen
 
 <!-- sida 171 -->
 
-Från:
-
 Skickat: den 19 maj 2025 16:00
 
 Till: Info \<infoQkungsbacka.se>; Kommun \<kommun QMkungsbacka.se>; Peter Sebestyén
@@ -6502,17 +6455,15 @@ transparens.
 
 <!-- sida 174 -->
 
-Från
-
 Skickat: den 9 maj 2025 13:35
-
 Till: info (Qkungsbacka.se \<infoQkungsbacka.se>
 
 Ämne: Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
+
 Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
 
-Jag, , fastighetsägare vit! FN och , begär härmed att
-Kungsbacka kommun omedelbart förklarar att planbestämmelsen avseende
+JIE I omedelbart förkl = u mo avseende
+
 Parkmark — Allmän Platsmark i detaljplan Ö22, antagen 1951-12-12, är ogiltig då
 densamma aldrig slutgiltigt prövats i en lantmäteriförrättning för bildande av eller
 inlemmande i en gemensamhetsanläggning. Planbestämmelsen innebär, på det av
@@ -6550,6 +6501,8 @@ vilket ytterligare understryker dess ogiltighet.
 Kommunen hävdar återkommande att fastigheten skulle vara parkmark trots att ingen
 formell förrättning (expropriation, överlåtelse eller fastighetsreglering) har
 genomförts enligt Anläggningslagen eller Fastighetsbildningslagen. För att konstatera
+
+Jag, , fastighetsägare vit! FN och , begär härmed att
 
 <!-- sida 175 -->
 
@@ -6975,7 +6928,7 @@ Kopia: Kommun \<kommun(QMkungsbacka.se>; Carina Rasmussen
 \<carina.rasmussen(ÅMkungsbacka.se>; Veronica Löfqvist \<veronica.lofqvistQkungsbacka.se>;
 Lisa Andersson \<lisa.anderssonQkungsbacka.se>; Berit Bergström
 \<berit.bergstrom(Åkungsbacka.se>; Lars Eriksson \<lars.erikssonQkungsbacka.se>; Emanuel
-Forsell \<emanuel.forselWWkungsbacka.se>; Hravn Forsne \<hravn.forsneQMkungsbacka.se>;
+Forsell \<emanuel.forselWQÖkungsbacka.se>; Hravn Forsne \<hravn.forsne(QMkungsbacka.se>;
 Maria Gathendahl \<maria.gathendahl(WBkungsbacka.se>; Annika Hedman
 \<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
 \<patrik.jervne.henestam(Mkungsbacka.se>; Stefan Jägnert \<stefan.jagnertQkungsbacka.se>;
@@ -7708,8 +7661,6 @@ Tel.
 Mail:
 
 <!-- sida 205 -->
-
-Från: FR
 
 Skickat: den 18 november 2025 13:01
 
@@ -13337,115 +13288,87 @@ Med      ängarna         som      närmaste          granne
 
 <!-- sida 372 -->
 
-FÖRKLARINGAR
-
-FASTIGHETSGRÄNS
-TOMTGRÄNS
-GRÄSARMERING
-ASFALT
-GRÖNOMRÅDE
-BOSTAD/GEMENSAM LOKAL
-GRILLPLATS/LEKPLATS
-
-KONTEXTUELLT
-BULLERPLANK
-
-RÅÖVÄGEN
-
-G
-A
-T
-GÄRDSGÅRDSSTAKET
-LEKPLATS
-BUSSHÅLLSPLATS
-B E
-\-
-F.
-H ES
-V
-Ä
-G
-MARIEDAL
-5500
-GÄRDSGÅRDSSTAKET
-HÖJDKURVA 1m
-
-:NMANLIF
-N
-SKALA:
-30:22:90
-90-40-5202
-tvr.001-V-04-A\suH
-ssikS\lledoM\A\remmunstkejbO\EDEKS\suhraP
-1-22
-såresI
-90052\5202\\:G
-FÖRKLARINGAR
-FASTIGHETSGRÄNS
-TOMTGRÄNS
-GRÄSARMERING
-ASFALT
-GRÖNOMRÅDE
-BOSTAD/GEMENSAM LOKAL
-GRILLPLATS/LEKPLATS
-KONTEXTUELLT
-BULLERPLANK
-RÅÖVÄGEN
-G
-A
-T
-GÄRDSGÅRDSSTAKET
-LEKPLATS
-BUSSHÅLLSPLATS
-B E
-\-
-F.
-H ES
-V
-Ä
-G
-MARIEDAL
-5500
-GÄRDSGÅRDSSTAKET
-HÖJDKURVA 1m
-ILLUSTRATIONSPLAN ISERÅS 22:1 RÅÖVÄGEN 4, 439 92 ONSALA                                                   2025-03-06  1:400 A1
-:NMANLIF
-N
-SKALA:
-30:22:90
-90-40-5202
-tvr.001-V-04-A\suH
-ssikS\lledoM\A\remmunstkejbO\EDEKS\suhraP
-1-22
-såresI
-90052\5202\\:G
 ÖVERGRIPANDE  TANKE
+
+FÖRKLARINGAR
 Området är strategiskt placerat i ett generöst
-söderläge med bra busskommunikation,
-cykelavstånd till havet och smidigt
-pendlingsavstånd till både Göteborg och
-Varberg.
-Ambitionen är att skapa ett bostadsområde
+söderläge med bra busskommunikation,                                                                                                              FASTIGHETSGRÄNS
+cykelavstånd till havet och smidigt                                                                                                               TOMTGRÄNS
+pendlingsavstånd till både Göteborg och                                                                                                           GRÄSARMERING
+Varberg.                                                                                                                                          ASFALT
+GRÖNOMRÅDE
+Ambitionen är att skapa ett bostadsområde                                                                                                         BOSTAD/GEMENSAM LOKAL
+GRILLPLATS/LEKPLATS
 med höga kvaliteter och en atmosfär som
 för tankarna till en modern Bullerby, där
 grönskan bevaras och integreras mellan
 byggnaderna. Inom området planeras
 kedjehus i den nordöstra delen och parhus i
-den södra. Även gemensamma ytor kommer                                                                                  FÖRKLARINGAR
+den södra. Även gemensamma ytor kommer                                                                                  FFÖÖRRKKLLAARRININGGAARR
 att planeras in för att främja social samvaro
-och stärka områdets identitet.                                                                                                 FASTIGHETSGRÄNS
-TOMTGRÄNS
-GRÄSARMERING
-ASFALT
-GRÖNOMRÅDE
-BOSTAD/GEMENSAM LOKAL
-GRILLPLATS/LEKPLATS
+
+och stärka områdets identitet.                                                                                                 FFAASSTTIGIHGEHTSEGTRÄSNGSRÄNS
+TTOOMMTGTRGÄNRSÄNS
+GGRRÄÄSASRAMRERMINEGRING
+KONTEXTUELLT                          AASSFFAALTLT
+BULLERPLANK
+GGRRÖÖNONMORÅMDERÅDE
+BBOOSSTATDA/DGE/MGEENMSAEMN LSOKAAML LOKAL
+RÅÖVÄGEN                                                             GGRRILILLPLLPALTSA/TLSEK/PLLEAKTPSLATS
+G
+A
+T
+GÄRDSGÅRDSSTAKET
+LEKPLATS
+BUSSHÅLLSPLATS
+B E
+\-
+F.
+H ES
+V
+Ä
+G
+MARIEDAL
+KONTEXTUELLT
+BULLERPLANK
+5500
+RÅÖVÄGEN
+GÄRDSGÅRDSSTAKET
+G
+A                HÖJDKURVA 1m
+T
+GÄRDSGÅRDSSTAKET
+LEKPLATS
+BUSSHÅLLSPLATS
+B E
+\-
+F.
+H ES
+V
+Ä
+G
+MARIEDAL
+5500
+GÄRDSGÅRDSSTAKET
 0         10                                     50m
+HÖJDKURVA 1m
+N
+ILLUSTRATIONSPLAN ISERÅS 22:1 RÅÖVÄGEN 4, 439 92 ONSALA                                                   2025-03-06 SKALA:1:400 A1
 N
 PROJEKT                   PROJEKT NR  ORT         FASTIGHET   STATUS        DATUM       SIDA        INNEHÅLL
 ISERÅS  ÄNGGÅRDAR         25009       ONSALA      ISERÅS 22:1 FÖRSTUDIE     2025-07-04  1/3         ILLUSTRATIONSPLAN
 Ärendenummer: #223823 | Datum: 2025-08-12 08:56                                                                                                          Bilaga 1 sida 2 av 4
-ILLUSTRATIONSPLAN ISERÅS 22:1 RÅÖVÄGEN 4, 439 92 ONSALA                                                  2025-03-06  1:400 A1
+
+N
+ILLUSTRATIONSPLAN ISERÅS 22:1 RÅÖVÄGEN 4, 439 92 ONSALA                                                  2025-03-06 SKALA:1:400 A1
+
+2025-04-09 09:22:03
+
+2025-04-09 09:22:03
+
+FILNAMN: G:\2025\25009 Iserås 22-1 Parhus\SKEDE\Objektsnummer\A\Modell\Skiss Hus\A-40-V-100.rvt
+
+FILNAMN: G:\2025\25009 Iserås 22-1 Parhus\SKEDE\Objektsnummer\A\Modell\Skiss Hus\A-40-V-100.rvt
 
 <!-- sida 373 -->
 
@@ -14642,7 +14565,8 @@ la
 tv
 a
 s
-n a
+n
+a
 k
 re
 v
@@ -14659,126 +14583,586 @@ is
 n
 a
 n
-iF
 2
+iF
 6
-4
+4     Kostnaderna för Trafikverkets bevakning, åtgärd 2, faktureras Kommunen i
 0
 L
-L
+L     enlighet med § 7.
 A
 M
 T
 Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
 Station, Kungsbacka kommun
-N r .
+
+%
+
+%
+
+0
+
+0
+
+n
+
+0
+
+0
+
+e
+
 1
-2
-3
-4
-5
+
+1
+
+un
+
+m
+
+m
+
+r o
+
+iä K
+
+s
+
+n
+
+a
+
+0%
+
+0%
+
+0%
+
+in t
+
+0
+
+0
+
+0
+
+F e
+
+1
+
+1
+
+1
+
+rk
+
+ve
+
+ik
+
+f
+
+ra
+
+T
+
+)
+
+)
+
+r
+
+t
+
+k
+
+ft
+
+ft
+
+ft
+
+ft
+
+ft
+
+(
+
+i
+
+i e i
+
+i
+
+i
+
+g
+
+g rk g
+
+g
+
+g
+
+ad
+
+p
+
+p e p
+
+p
+
+p
+
+n
+
+p
+
+p v p
+
+p
+
+p
+
+t g u
+
+u
+
+ik u
+
+u
+
+u
+
+s
+
+f
+
+in n
+
+n
+
+n
+
+n
+
+n
+
+Ko n e
+
+e ra e
+
+e
+
+e
+
+g g
+
+g
+
+(T g
+
+g
+
+g
+
+g in
+
+in
+
+in
+
+in
+
+in
+
+lä
+
+n
+
+n
+
+e
+
+a
+
+g
+
+s
+
+in
+
+re en
+
+t gn t
+
+t
+
+t
+
+a n n
+
+e g e
+
+e
+
+e
+
+r u e
+
+rk
+
+lä rk
+
+rk
+
+rk
+
+fö
+
+n
+
+e n e
+
+e
+
+e
+
+t m u
+
+v
+
+a v
+
+v
+
+v
+
+U m m
+
+ik a ik
+
+ik
+
+ik
+
+f
+
+f
+
+f
+
+f
+
+o m
+
+a
+
+lig a
+
+a
+
+a
+
+K o
+
+r
+
+t r
+
+r
+
+r
+
+i K
+
+T
+
+T
+
+T
+
+T
+
+r
+
+ta
+
+e g
+
+s
+
+r
+
+h
+
+e
+
+d ä c
+
+n
+
+v
+
+r lv o
+
+e
+
+ä
+
+d
+
+ö
+
+g e
+
+d n
+
+t k g
+
+i a
+
+a
+
+g
+
+y ä
+
+l
+
+s
+
+u
+
 Å
-FmO
-B
-GFc
-Nf
-Nv
-t g ä r d e r
-Å t g ä r d e r
-r i l i g g a n d e g å n g - o c h c y k e l v ä g
-e l l a n F j ä r å s i n d u s t r i v ä g o c h
-r m v r å k s v ä g e n
-e v a k n i n g a v å t g ä r d 1
-Å t g ä r d e r i d e n s t
-å n g - o c h c y k e l v ä g m e l l a n
-j ä r å s i n d u s t r i v ä g o c h
-i r k u l a t i o n s p l a t s
-y t i l l g ä n g l i g h e t s a n p a s s a d
-i c k h å l l p l a t s i n y t t l ä g e
-y p a s s a g e m e d m i t t r e f u g ö v e r
-ä g 9 1 6
-i K o
-K o m
-T r a f
-a t lig
-T r a f
-T r a f
-T r a f
-U t f ö r a
-m m u n
-m u n e n
-i k v e r k e
-a a n lä g
-i k v e r k e
-i k v e r k e
-i k v e r k e
-r e
-e n
+
+v
+
+r l
+
+s
+
+f
+
+c i
+
+e e h
+
+a e
+
+e
+
+h tr
+
+1 d
+
+c
+
+p g
+
+r
+
+c
+
+r m
+
+ä
+
+tt
+
+s
+
+d
+
+o
+
+n l
+
+i
+
+o u
+
+r ä g
+
+a t
+
+\-
+
+ä g ä g
+
+t m
+
+d
+
 t
+
+ä s s y
+
 g n
-t
-t
-t
-s a
-in g
-n
+
+tg
+
+lv v t t
+
+n i n
+
+Å
+
+i a e n
+
+d
+
 e
-K o s t
-lä g g n in g
-i n g e n u
-i n g e n u
-n ( T r a f ik
-i n g e n u
-i n g e n u
-i n g e n u
-n
-p
-p
-vp
-p
-p
-a
-p
-p
-ep
-p
-p
-d ( k r
-g i f t
-g i f t
-r k e t
-g i f t
-g i f t
-g i f t
-)
-)
-T r a f ik v e r k
-1
-1
-1
-F in
-e t
-0 0
-0 0
-0 0
-a
-%
-%
-%
-n s iä rK
-o m m u n
-1
-1
+
+å
+
+e r l h i
+
 e
-0
-0
+
+å s
+
+k t
+
+g å g
+
+v
+
+y s p ig s
+
+m
+
+ä
+
+s l t
+
+e r v
+
+a
+
+c u n
+
+e
+
+d jä s
+
+g
+
+h d
+
+g la
+
+g
+
+r
+
 n
-0
-0
-%
-%
-Kostnaderna för Trafikverkets bevakning, åtgärd 2, faktureras Kommunen i
-enlighet med § 7.
+
+io n
+
+a
+
+n F k
+
+i
+
+c n t ä p
+
+e
+
+a
+
+å
+
+o i
+
+l
+
+s 6
+
+g l
+
+d
+
+n r
+
+n
+
+a l
+
+s
+
+r
+
+g
+
+k
+
+\- s l l å
+
+1
+
+ä
+
+ig la v
+
+a
+
+g å u i h
+
+a 9
+
+l l
+
+n r k t
+
+p
+
+g
+
+i e rm
+
+v
+
+ä r
+
+k
+
+g
+
+t
+
+r
+
+e
+
+å j i y ic
+
+y ä
+
+Å
+
+F m O
+
+B
+
+G F c N f N v
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+r
+
+N
 
 <!-- sida 402 -->
 
@@ -21704,7 +22088,8 @@ Region Halland                                   2025-12-09
 
 Diarienummer
 Ert diarienummer
-KS-2025-00735 RS230670
+KS-2025-00735
+RS230670
 
 Sammanfattande inställning
 Kungsbacka kommun är endast delvis positiv till det nya Trafikförsörjningsprogrammet. Kungsbacka
@@ -21749,44 +22134,222 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
-Y t t r a
-T ill
-R e g i o n H
-E rt d ia rie n u m
-R S 2 3 0 6 7
-n d e ö v
-a l l a n
-m e r
-0
-e r R
-d
-e g i o n H a l l a n d s r e m i s s : T r a f i k f ö r s ö r j n i n g s p r o
-K
-g
-o
+
+E n
+
 r
+
+0
+
+5
+
+e5
+
+D e
+
+tu
+
 m
-a
-K
-m
-m
+
+3
+
+ls
+
+a-0
+
+m73
+
+0
+
+N e
+
+D2
+
+nu0
+
+2
+
+A r
+
+1
+
+ie0
+
+–
+
+\-
+
+r-
+
+R ty
+
+5
+
+ia5
+
+6
+
+T s
+
+2
+
+D2
+
+2
+
+T n
+
+20
+
+0
+
+0
+
+u
+
+-2
+
+2
+
+Y
+
 S
-Y T T
-u n s
-2 0 2
-D
-\- 2 0 2
-2 0 2
-R A N D
-t y r e ls e
-D a tu
-5 - 1 2 - 0 5
-ia rie n u m m e
-5 - 0 0 7 3 5
-– 6 2 0 3
-En
+
+m
+
+K
+
+m
+
+om
+
+ra
+
+K
+
+g
+
+ro
+
+sp
+
+g
+
+in
+
+jn
+
 r
-0
+
+ö
+
+rs
+
+fö
+
+ik
+
+f
+
+ra
+
+T
+
+\:
+
+s
+
+is
+
+em
+
+r
+
+s
+
+nd
+
+lla
+
+a
+
+H
+
+n
+
+io
+
+g
+
+nd
+
+e
+
+la
+
+R
+
+l
+
+r
+
+r
+
+e
+
+a
+
+m0
+
+e
+
+H
+
+m7
+
+v
+
+n
+
+nu6
+
+ö
+
+ie0
+
+io
+
+r3
+
+ia
+
+e
+
+g
+
+d2
+
+d
+
+lle
+
+tS
+
+i
+
+r
+
+TR
+
+ER
+
+n
+
+ra
+
+tt
+
+Y
 
 <!-- sida 543 -->
 

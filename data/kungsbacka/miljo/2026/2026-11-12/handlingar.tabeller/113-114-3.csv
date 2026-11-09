@@ -1,0 +1,20 @@
+"4.3 Kontrolltid
+Här anger du den totala kontrolltiden som finns i er myndighets kontrollplan.Om du
+istället vill fylla i en schablon på andel kontrolltid i %, hoppa till rad 39.",
+Planerad offentlig kontroll,
+Händelsestyrd offentlig kontroll,
+Registrering/godkännande,
+Annan offentlig verksamhet,
+,
+,
+Summa kontrolltid,-
+4.4 Ange antal årsarbetskrafter inom livsmedelskontrollen,
+"Antalet årsarbetskrafter inom kontroll och annan offentlig verksamhet
+avseende livsmedelsanläggningar inklusive dricksvattenkontroll)","5,00"
+"Total faktiskt arbetad tid för samtliga handläggare inom
+livsmedelskontrollen",
+Kontrolltid,
+"Kontrolltid i % måste anges till höger! (SKR erfar att kontrolltiden ofta är
+50-60%.)",55%
+Kontrolltid i % av faktiskt arbetad tid 55%,
+Kontrolltid per handläggare 861 tim,

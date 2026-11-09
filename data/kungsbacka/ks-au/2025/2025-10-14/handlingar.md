@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4bf8b95b199c910f57caea/176001721391
 sha256: 6fac88376cb7edb09e30cbe65d3f1ddb964fc5fde2436fadd4477dbe2df8960c
 bytes: 12911545
 sidor: 111
-hamtad: 2026-10-25T08:21:22+00:00
-konverterad: 2026-10-25T08:22:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:56:52+00:00
+konverterad: 2026-11-09T12:58:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr]
@@ -897,9 +897,6 @@ diarienummer 5072-2025.
 
 Bilaga 6 — Förbud mot användning av lustgas i berusningssyfte:
 Kungsbacka stad
-
-No
-id ZrN
 
 \- Lunden
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5a53603d190a25d80872b0b4/1723037347
 sha256: ae68e46a3463a0aa573cda5b004f28a344bcda8e2946e09caaf7b8980f7a0cda
 bytes: 21118321
 sidor: 175
-hamtad: 2026-10-25T06:22:06+00:00
-konverterad: 2026-10-25T06:23:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-09T10:41:14+00:00
+konverterad: 2026-11-09T10:42:29+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -7066,30 +7066,53 @@ Bilaga 3: Kungsbacka 4:65                         17
 
 <!-- sida 153 -->
 
-Bakgrund                                               Behov
-Kungsbacka kommun har idag två ishallar vid Inlag (Kungs- Behov av yta
-backa sportcenter). Dessa ishallar har idag en otillräcklig ka- Eftersom det rör sig om en isyta finns det inget behov av publikkapacitet i
+Bakgrund
+Kungsbacka kommun har idag två ishallar vid Inlag (Kungs-
 
-pacitet till följd av kommunens befolkningstillväxt vilket gör den nya ishallen. Vid placering intill befintliga ishallar kan ytor likt förråd,
-att efterfrågan på ishallarna ökat. Det finns därför ett behov teknikutrymmen och omklädningsrum med mera samlokaliseras och upp-
-av ytterligare en ishall i form av en isyta.           skattas då uppta en yta på cirka 3400 kvadratmeter.
+backa sportcenter). Dessa ishallar har idag en otillräcklig ka-
+pacitet till följd av kommunens befolkningstillväxt vilket gör
+att efterfrågan på ishallarna ökat. Det finns därför ett behov
+av ytterligare en ishall i form av en isyta.
 
-Nämnden för Kultur & Fritid har identifierat behov av ny isyta för träning i En ny träningsishall i annat läge kräver även att förråd, omklädningsrum,
-Kungsbacka kommun och finns med i nämndens fastställda behov för perio- teknikutrymmen med mera byggs ut och då uppskattas behovet av yta uppgå
-den 2024-2028. Befintliga ishallar nyttjas av idrottsföreningar för ishockey, till cirka 4000 kvadratmeter.
+Nämnden för Kultur & Fritid har identifierat behov av ny isyta för träning i
+Kungsbacka kommun och finns med i nämndens fastställda behov för perio-
+den 2024-2028. Befintliga ishallar nyttjas av idrottsföreningar för ishockey,
 konståkning och bandy samt av kommunens skolor, allmänheten och evene-
-mang. Kommunstyrelsen beslutade 2023-03-21, § 65, att ge kommundirek- Utöver krav på yta för isyta skulle en ny placering även innebära att utbygg-
-tören i uppdrag att genomföra en lokaliseringsutredning för ny isyta i Kungs- nad av infrastruktur i form av väg, parkering, VA-ledningar med mera samt
+mang. Kommunstyrelsen beslutade 2023-03-21, § 65, att ge kommundirek-
 
-backa kommun.                                          yta för ismaskin och smältgrop. Oavsett placering vore det lämpligt att till-
-skapa ytor för smältgrop samt för uppvärmning och gym i vid isytan då dessa
-Syftet med lokaliseringsutredningen är att ge underlag för beslut om lokalise- funktioner idag saknas.
+tören i uppdrag att genomföra en lokaliseringsutredning för ny isyta i Kungs-
+backa kommun.
+
+Syftet med lokaliseringsutredningen är att ge underlag för beslut om lokalise-
 ring av en ny isyta. Utredningen är avgränsad till de frågor som är nödvändi-
-ga för ett lokaliseringsbeslut. Isytan ska enligt beslutad lokalplan 2024–2028 Som fortsatt del av arbetet med lokalisering av isyta kommer frågan kring
-vara färdig för inflyttning år 2028 och behöver därför byggstartas senast år utbyggnad av infrastruktur och parkering behöva utredas vidare av Service i
-2027\.                                                  samband med framtagande av förstudie.
+ga för ett lokaliseringsbeslut. Isytan ska enligt beslutad lokalplan 2024–2028
+vara färdig för inflyttning år 2028 och behöver därför byggstartas senast år
+2027\.
 
 4
+
+Behov
+Behov av yta
+Eftersom det rör sig om en isyta finns det inget behov av publikkapacitet i
+
+den nya ishallen. Vid placering intill befintliga ishallar kan ytor likt förråd,
+teknikutrymmen och omklädningsrum med mera samlokaliseras och upp-
+skattas då uppta en yta på cirka 3400 kvadratmeter.
+
+En ny träningsishall i annat läge kräver även att förråd, omklädningsrum,
+teknikutrymmen med mera byggs ut och då uppskattas behovet av yta uppgå
+till cirka 4000 kvadratmeter.
+
+Utöver krav på yta för isyta skulle en ny placering även innebära att utbygg-
+
+nad av infrastruktur i form av väg, parkering, VA-ledningar med mera samt
+yta för ismaskin och smältgrop. Oavsett placering vore det lämpligt att till-
+skapa ytor för smältgrop samt för uppvärmning och gym i vid isytan då dessa
+funktioner idag saknas.
+
+Som fortsatt del av arbetet med lokalisering av isyta kommer frågan kring
+utbyggnad av infrastruktur och parkering behöva utredas vidare av Service i
+samband med framtagande av förstudie.
 
 <!-- sida 154 -->
 
@@ -7127,63 +7150,76 @@ derat enligt Svenska ishockeyförbundet.
 
 <!-- sida 155 -->
 
-Bedömningskriterier                                    • Om det finns möjlighet för samutnyttjande
-–  Om platsen erbjuder möjlighet för ett samutnyttjande på flera plan, till
+Bedömningskriterier
 Utredningen har utrett, utöver att tillräcklig yta finns för isyta, förutsättningar
-exempel möjlighet att värma upp närliggande kommunala byggnader,
 och konsekvenser för respektive plats. Varje plats har bedömts utifrån ett an-
-närhet till skola, sammanbygga med andra lokaler, samutnyttja lokaler
+
 tal parametrar där varje parameter ges ett värde på en tregradig skala (grön,
-likt omklädningsrum med mera (grön).
 gul, röd) utifrån hur väl platsen uppfyller respektive parameter.
-–  Om det finns samutnyttjandevinster men enbart en faktor (gul).
-–  Om det inte finns någon förutsättning för samutnyttjande (röd).
+
 Platsen har sedan givits en totalsumma utifrån dess lämplighet där en grön
-• Om platsen inryms inom FÖP/ÖP.
 markering ger två poäng, gul markering ger ett poäng och röd markering
-–  Om platsen inryms inom FÖP/ÖP (grön).
 ger noll poäng. Kriterierna Kommunägd mark och Om platsen inryms inom
-–  Om platsen inte inryms inom FÖP/ÖP (röd).
 fördjupad översiktsplan (FÖP) eller översiktsplan (ÖP) har bedömts på en
-• Om tidplanen enligt lokalplan kan hållas.
 tvågradig skala (grön och röd) med anledning av att dessa parametrar har ett
-–  Om placeringen möjliggör att tidplanen kan hållas (grön).
 positivt respektive negativt värde.
-–  Om placeringen innebär en uppskattad tidsförskjutning på ett år (gul).
-–  Om placeringen innebär en uppskattad tidsförskjutning på två eller fler
+
 Parametrarna nedan är de som varje plats bedömts utifrån. Under varje para-
-år (röd).
 meter finns en närmare beskrivning vad varje färg för respektive parameter
-• Om platsen är hållbar utifrån ett stadsbyggnadsmässigt sätt. Hållbarhet
 innebär.
-i den här kontexten innebär en långsiktig planering som tar hänsyn till
-social, ekonomisk och miljömässig hållbarhet.
+
 • Om det finns kommunägd mark.
-–  Om placeringen möjliggör för en hållbar stadsbyggnad (grön).
 –  Kommunal mark (grön).
-–  Om placeringen varken gynnar eller missgynnar en hållbar stadsbygg-
 –  Ingen kommunal mark vilket innebär att markförhandlingar krävs
-nad (gul).
 (röd).
-–  Om placeringen innebär ohållbar stadsbyggnad (röd).
+
 • Om befintligt markanvändning försvårar placering av ishall.
 –  Om befintlig markanvändning inte försvårar en placering av is-
-Kartorna på respektive sida visar vilket upptagningsområde varje plats har
 hall(grön).
-om man färdas 10 minuter med antingen bil eller cykel.
 –  Om en placering försvåras till följd av befintlig markanvändning men
 inte ger någon större påverkan (gul).
 –  Om en placering försvåras till följd av befintlig markanvändning och
 ger en stor påverkan (röd).
 • Om platsen är tillgänglig
 –  Om en det finns förutsättningar för ökad biltrafik och det är lätt att ta
+
 sig till platsen för gående, cyklister och med kollektivtrafik (grön)
 –  Om en det finns sämre förutsättningar för ökad biltrafik men det är lätt
 att ta sig till platsen för gående, cyklister eller med kollektivtrafik (gul).
 –  Om en det finns sämre förutsättningar för ökad biltrafik och det är
 svårt att ta sig till platsen för gående, cyklister eller med kollektivtra-
 fik. (röd).
+
 6
+
+• Om det finns möjlighet för samutnyttjande
+–  Om platsen erbjuder möjlighet för ett samutnyttjande på flera plan, till
+exempel möjlighet att värma upp närliggande kommunala byggnader,
+närhet till skola, sammanbygga med andra lokaler, samutnyttja lokaler
+likt omklädningsrum med mera (grön).
+
+–  Om det finns samutnyttjandevinster men enbart en faktor (gul).
+–  Om det inte finns någon förutsättning för samutnyttjande (röd).
+• Om platsen inryms inom FÖP/ÖP.
+–  Om platsen inryms inom FÖP/ÖP (grön).
+–  Om platsen inte inryms inom FÖP/ÖP (röd).
+• Om tidplanen enligt lokalplan kan hållas.
+–  Om placeringen möjliggör att tidplanen kan hållas (grön).
+–  Om placeringen innebär en uppskattad tidsförskjutning på ett år (gul).
+–  Om placeringen innebär en uppskattad tidsförskjutning på två eller fler
+
+år (röd).
+• Om platsen är hållbar utifrån ett stadsbyggnadsmässigt sätt. Hållbarhet
+i den här kontexten innebär en långsiktig planering som tar hänsyn till
+social, ekonomisk och miljömässig hållbarhet.
+–  Om placeringen möjliggör för en hållbar stadsbyggnad (grön).
+–  Om placeringen varken gynnar eller missgynnar en hållbar stadsbygg-
+nad (gul).
+–  Om placeringen innebär ohållbar stadsbyggnad (röd).
+
+Kartorna på respektive sida visar vilket upptagningsområde varje plats har
+
+om man färdas 10 minuter med antingen bil eller cykel.
 
 <!-- sida 156 -->
 
@@ -7240,44 +7276,57 @@ väl platserna uppfyller de uppställda parametrarna. Övriga platser som studer
 
 <!-- sida 158 -->
 
-1\. Skårby   12:1                                       För närvarande saknas en trafiksäkerpassage över Göteborgsvägen, men
-en passage under vägen ska byggas i samband med att Björkris 2 byggs ut.
+1\. Skårby   12:1
 • Fastigheten ägs av Kungsbacka
-Dessutom planeras en gång- och cykelbro över Kungsbackaån vilket gör det
 kommun
-möjligt att nå platsen från Hede station utan att korsa Göteborgsvägen.
+
 • Platsen utgörs av jordbruksmark
 • Platsen har god tillgänglighet
 • FÖP/ÖP stöjder en placering
 • Möjlighet till effektivt samutnytt-
 jande
 • Följer tidplan
-• Bidrar till viss hållbarhet Föreslagen yta markerad med streckad linje.
+• Bidrar till viss hållbarhet
 Resonemang
 Platsen ligger i norra delen av
+
 Kungsbacka stad, på den östra sidan
 av Göteborgsvägen, med Björkris 2
 på andra sidan vägen som är under
 utbyggnad. Platsen utgörs av jord-
 bruksmark och ägs av Kungsbacka
 kommun och är inte planlagd. Enligt
-Föreslag på hur området skulle kunna utvecklas.
 kommunens översiktsplan från 2022
 ska den norra delen av Kungsbacka
-I Närområdet kommer en mängd bostäder utvecklas och en stor del av
 stad utvecklas med ny bebyggelse.
-Kungsbacka stads nya invånare skulle därför få en god tillgång till isytan
-vid en placering inom Skårby 12:1. Även invånare i Anneberg, som är en
+
 På den västra sidan av Göteborgs-
-utpekad utvecklingsort, kommer få bättre tillgänglighet till en isyta. Detta
 vägen ligger Skårbyskolan med
-bidrar även att trafiken kan minska i andra delar av staden då norra delen av
 tillhörande idrottshall, och söder om
-kommunen får bättre tillgänglighet till isyta.
 Skårby 12:1 planläggs Björkris 2b.
 Platsen har en god tillgänglighet för
-FÖP Kungsbacka stödjer placeringen, eftersom platsen kan bli en del av ett
 samtliga trafikslag.
+
+9
+
+För närvarande saknas en trafiksäkerpassage över Göteborgsvägen, men
+en passage under vägen ska byggas i samband med att Björkris 2 byggs ut.
+Dessutom planeras en gång- och cykelbro över Kungsbackaån vilket gör det
+möjligt att nå platsen från Hede station utan att korsa Göteborgsvägen.
+
+Föreslagen yta markerad med streckad linje.
+
+Föreslag på hur området skulle kunna utvecklas.
+
+I Närområdet kommer en mängd bostäder utvecklas och en stor del av
+Kungsbacka stads nya invånare skulle därför få en god tillgång till isytan
+vid en placering inom Skårby 12:1. Även invånare i Anneberg, som är en
+utpekad utvecklingsort, kommer få bättre tillgänglighet till en isyta. Detta
+
+bidrar även att trafiken kan minska i andra delar av staden då norra delen av
+kommunen får bättre tillgänglighet till isyta.
+
+FÖP Kungsbacka stödjer placeringen, eftersom platsen kan bli en del av ett
 nordligt idrottsområde i staden. Fastighetens storlek ger flexibilitet för att
 utveckla området med fler idrottsverksamheter. Skissen som tagits fram är ett
 Upptagningsområde inom 10 min.för bil (blå förslag på hur fastigheten skulle kunna komma att utvecklas.
@@ -7288,7 +7337,6 @@ nyttjande. Då kan omklädningsrum, gym, kansli, utrymme för uppvärmning
 med mera samutnyttjas. Närheten till Skårbyskolan ger elever en möjlighet
 att nyttja isyta en som en del av skolidrotten, och elever inom ishockey eller
 konståkning har nära till träning efter skoltid.
-9
 
 <!-- sida 159 -->
 
@@ -7328,69 +7376,84 @@ ring långt från ån eller i form byggnadstekniska åtgärder.
 
 <!-- sida 160 -->
 
-2\. Nötegång    1:108                                   Platsen är centrum/centrumnära enligt översiktsplanen. Inom centrum ska
-kommunen möjliggöra för en blandning av näringsliv, varierade boendefor-
+2\. Nötegång    1:108
 • Fastigheten ägs av Kungsbacka
-mer och rekreation.
 kommun.
+
 • Marken nyttjas inte i dagsläget.
-Platsen är planlagd för användningen allmänt ändamål med en tillåten bygg-
 • Relativt god tillgänglighet
-nadshöjd på 8,0 meter vilket innebär att det är möjligt att uppföra en isyta.
 • Möjlighet för effektivt samut-
-Användningen allmänt ändamål kräver dock att isytan drivs i kommunal
 nyttjande
-regi.
 • ÖP stödjer en placering
 • Följer tidplan
-När det kommer till hållbarhet kan platsen bidra till en ökad social hållbar-
 • Bidrar till viss hållbarhet Föreslagen yta markerad med streckad linje.
-het för boende i närområdet och i den nordvästra delen av Kungsbacka som
 Resonemang
-vid en placering här får bättre möjlighet för rekreation. Vidare kan flödet
 Nötegång 1:108 ligger i Särö cen-
-av människor som kommer nyttja isytan göra att området får en tillökning
+
 trum väster om Särö skola, med
-av människor som rör sig på platsen under kvällstid vilket bidrar till ökad
 tillhörande idrottshall, och norr
-trygghet.
 om Skörvallabäcken och ägs av
 Kungsbacka kommun. Intill platsen
-Fastigheten har en begränsad yta som inte kommer kunna inrymma mer än
 finns även en fotbollsplan. Platsen
-själva isytan och tillhörande komplement vilket begränsar möjligheten att få
 har tidigare varit en del av Bukärrs
-in andra typer av verksamheter. Med tanke på att det inte finns någon direkt
 idrottsplats med fotbollsplaner men
-möjlighet att skapa synergieffekter med intilliggande verksamheter är förut-
 är idag outnyttjad. Fastigheten består
-sättningarna för en ekonomisk hållbarhet sämre.
 av igenvuxen gräsyta och en parke-
+
 ring. Platsen har relativt god tillgäng-
-Infarten till området är smal och på sina håll endast tre meter bred varför vä-
 lighet med tanke på att det finns ett
-gen behöver breddas. Vägen går förbi Särö förskola och skola vilket innebär
 kollektivtrafikstråk till och från Särö
-en problematik då ökad trafik i närheten av skolor är negativt ur ett barn-
 centrum. En placering här skulle
-perspektiv. För att kunna bredda vägen behöver en ny detaljplan tas fram då
 även innebära att kommuninvånare
-vägen ligger inom användningen Park/Skola. Någon alternativ infart till plat-
 i kommunens nordvästra delar får
-sen finns inte på grund av utbyggd infrastruktur och bebyggelsestruktur runt
 bättre tillgång till aktiviteter likt kon-
-omkring. Trots att det krävs en ny detaljplan för att möjliggöra för infart till
 ståkning och ishockey samt allmän
-ishallen görs bedömningen att uppsatt tidplan kan hållas då en ny detaljplan
 skridskoåkning.
-Upptagningsområde inom 10 min.för bil (blå skulle vara relativt enkel att ta fram.
+Upptagningsområde inom 10 min.för bil (blå
 yta) och cykel (lila). Röd prick utgör Nöte-
 En isyta här skulle ge möjlighet för ett
 gång 1:108
-Närheten till Skörvallabäcken gör att träningsishall behöver placeras minst
 samutnyttjande med närhet till Särö
-30 meter från Skörvallabäcken på grund av säkerhet då risk för skred kan fö-
 skola då barn och unga kan nyttja isytan som del av skolidrotten.
+
+Platsen är centrum/centrumnära enligt översiktsplanen. Inom centrum ska
+kommunen möjliggöra för en blandning av näringsliv, varierade boendefor-
+mer och rekreation.
+
+Platsen är planlagd för användningen allmänt ändamål med en tillåten bygg-
+
+nadshöjd på 8,0 meter vilket innebär att det är möjligt att uppföra en isyta.
+Användningen allmänt ändamål kräver dock att isytan drivs i kommunal
+regi.
+
+När det kommer till hållbarhet kan platsen bidra till en ökad social hållbar-
+het för boende i närområdet och i den nordvästra delen av Kungsbacka som
+vid en placering här får bättre möjlighet för rekreation. Vidare kan flödet
+av människor som kommer nyttja isytan göra att området får en tillökning
+av människor som rör sig på platsen under kvällstid vilket bidrar till ökad
+
+trygghet.
+
+Fastigheten har en begränsad yta som inte kommer kunna inrymma mer än
+själva isytan och tillhörande komplement vilket begränsar möjligheten att få
+in andra typer av verksamheter. Med tanke på att det inte finns någon direkt
+möjlighet att skapa synergieffekter med intilliggande verksamheter är förut-
+sättningarna för en ekonomisk hållbarhet sämre.
+
+Infarten till området är smal och på sina håll endast tre meter bred varför vä-
+gen behöver breddas. Vägen går förbi Särö förskola och skola vilket innebär
+
+en problematik då ökad trafik i närheten av skolor är negativt ur ett barn-
+perspektiv. För att kunna bredda vägen behöver en ny detaljplan tas fram då
+vägen ligger inom användningen Park/Skola. Någon alternativ infart till plat-
+sen finns inte på grund av utbyggd infrastruktur och bebyggelsestruktur runt
+omkring. Trots att det krävs en ny detaljplan för att möjliggöra för infart till
+ishallen görs bedömningen att uppsatt tidplan kan hållas då en ny detaljplan
+skulle vara relativt enkel att ta fram.
+
+Närheten till Skörvallabäcken gör att träningsishall behöver placeras minst
+
+30 meter från Skörvallabäcken på grund av säkerhet då risk för skred kan fö-
 rekomma. Potentiellt kan diket i västra delen omfattas av biotopskydd. Om-
 fattas det av biotopskydd behöver en ansökan om dispens för biotopskydd
 sökas om placeringen påverkar diket.
@@ -7527,108 +7590,178 @@ placering intill befintliga ishallar har en fördjupad studie kring detta altern
 
 <!-- sida 166 -->
 
-Bilaga  3: Kungs-                                      Placeringen kräver ingen ny detaljplan då befintlig detaljplan möjliggör
-för användningen. Däremot behöver befintlig detaljplan ändras då delar av
+Bilaga  3: Kungs-
+
 backa   4:65
-befintlig ishall är placerad på prickad mark där bygnader inte får uppföras.
-Platsen ger förutsättningar för att tidplanen kan hållas.
+
 • Fastigheten ägs av Kungsbacka
-Sett ur hållbarhet har platsen för- och nackdelar. Den största fördelen är
 kommun
-ishallarna samlas på ett ställe, vilket ger driftmässiga fördelar och mindre
 • Marken nyttjas för ishall, boule
-klimatpåverkan då energi mellan hallarna kan optimeras. På kort sikt kan
 och fotboll
-detta vara ekonomiskt fördelaktigt men risken är även att man låser in sig i
 • Platsen har en god tillgänglighet
-en lösning. vilket kan vara negativt på lång sikt.Att samla ishallarna bidrar
 • Möjligt för effektivt samutnytt-
-dock inte till ökad tillgänglighet och därför bidrar inte platsen till någon
 jande
-stärkt social hållbarhet.
 • FÖP stödjer en placering
+
 • Följer tidplan
-Flexibel uteplats och mötesplats
-• R K I e n n e u l a d n s H g e g o l å s i n b a l s l e v a ö b c m d a K k r r h a a a u e n n 4 K t g : g 6 u s 5 n b g a l c s ig k b g a a e c s r k p a i o s r o t t c a c h d e n s u d t t e e g r l ö . e r n Föreslagen yta markerad med streckad linje. P A h i m ä d v a r r r a l e o e o l n n n a j t g e t r a i s n n n k a t a ä r n t s r v e e k o a l h o t n i m n å m g K l g e l s m a a u r k r a a n e e s o r n . g u c n A s p s h y t p b r ö t k e f t a r ö u n j r a c r l a e s t a k n u m s f a r k ö i e ä n o r v a n t m s e r g il t n e d m l ö e n r i - e s r a e - r Bou is le h h a a ll ll Cykelp S B a e Blo r r k äm v e n e m r k r in a i a n g rn g d e K S is c I s d e & r n o r Ss i t V d a t i s t e amt A p t p tl r a eil e na r n n k tgs a e to r r o g c Lter h äät sd Kb ae ao nu dp n Ss hp d ph ul e i aa sn S r c S t r g e o ee e d rt d r ig u l v m er t G i a n k r g u pprum W alk P C & T e y t e r a k g r e l r k o l a p lSn a s a o s v r e / r k d s n e e is r s r i kk n u g ä t ng Cykelpa B rk a e d r h in u g s La 8 s 0 tb m il a fr r å o S n c t t h ä å n g s g e s s p r e v å i l c r eingång AsasocpspdämudoyTlffsfuddmTpvcte aöo ö r a t o o i t y t o o f i n r ra ä a a c c e l l r e t r n a a a ä e a f t rr r e t e k t m m d g g r r k t r r h h b ö e ms t t d t d n a l n n g g a o h e n l u e s s e a l e t f e r ra s i n t f s , a l e e o e åe ll g s a g l d e n ä r l r r r n ip ln ä b k f v r e i k a n t t n tå a l n t e s n j ö v e s u ad a v s i a r g u e o l a g v l. a f n s u äk , e l n p a nr a a m o r a e p i t ä h u a r P t t f k i o t r n k n o e r m ,g b f o a m o s n b f t o f p i m l m i r r i e ad o ö m l o t as n n e a dt r r r h v g e . e v p h e r i e k g m e o c r t r- t ä n ar e l e . e P a s a g i s r s a l s n s m a n n n e t h k m å s s r t d ä o i n ö å r aa n e a l s t k n t g d o a t l e k s d e r t t c o e k d m i tn p g . s a m g u a e n r g r ö il i e n l e h f g e c n P ö t m a h e e n e t g a r, ö sl e r ut s n a r i h n e as p å a a r g b a s k n i u o o s e r m å o t k , a r e p a r r o p k v a e a g t t u v u k n c m d mö v1 p t g e r v r a l e a m o s e l r ä s 7 s t n a h i e e r o å m a l t ås m l n e p o t l r n p t k0 a t f d g e h n k n h ö c t , e kn a s r m s n a c l a k l e . t a d n a o j i i s a u a h r a n e g c r ä a v e l r e h D d r g n r ä o e c m e r t n k s p e , ny l s m a n ei l k a s n p ag e i k d e m a n p se t k a k n t r f a o ä n d a f e r t r t n , s f o n n a f å n l å r g i i c a s l r n a o n äp a ö t n s t r o s n n p s l ua e m c c a r o e n i a d l d r p , e u r a n t n k k f t . t r rr i n e x a f d c o , ä s t e r l a m f r s d a a . g O l p am ao u t ö i b b p s k d h o e r n d g D l k a t r u , n c t t d e ö r a s m u a i a r s a m t eo e ai t o l gn d e p g h d a y d r o n l p s i r n vr n r ä t s . c r vk e n u g l e o i . a s n i r p d a å g T k l a r d m h t a l m g l r o c o s a a t d e e e t a o t a ä a s h c r t a d t t n e r r r t r . e a h t g ä t a p t , t n s r e t a å t t
-kommersiella verksamheter som                  Roller derby målad Varje dag, varje årstid, varenda en
-F k b o e a fi s m t n i m g tl h u ig e n a t , e i i n s n , h k s a l o u ll m d a e r n ä ra g a r s k i a o d v m a g K m e u e n n r g i e s s n h b a a n l c y l, k a b a r o e u n l a e h a a tt l l u o p c p h f ö f r o a t s b . ollsplaner. Sydöst om e E x n e d m e p ta e l l j v p i l s a r n e ä st r a u u n ra d n e g r . framtagan- b S l o o l m ce mb ll ä e an r nkdaer Glaslanternin sedumtak Solceller B M us å s la p d a r a k s e f r a in lt g/ Multisport målad Möjlig utgång TvtkeflPlfemvevmieo n j oö r iu a a i a o nv v v vm å ä d b k a e r s e e e e r r n n r f a r j mn d r v g s b f n n n n e s o o å l aa i n e n e e e e e v t t d c s ds t n o u ö t t t i h m m m m e k h e l . . v e a cl s s ä o k r D T t ä a a a a g r sh e k l i r , v n nj d o n n n n n t u e n u s ff i la s d r s kg g g g j tö d l k t l a u g e p n k ka u a . a r f m s x o p ke t v n o a i l t s A n n s u a o i ti t å c a b p t a b da s r n r t f p h m t a t ae I e ö te a g d o s d m u pf n sn r r ls r m ä lä r t r t . el e f e a ao g i. ao o m n r s ö t N x a n n t D t s e dt m kn o r ä o i a ri ä t a f b t n e i l i e k s v c ä a rl i s , h rn d t i d f g t e p n h l t r k k e t uö i d a t r t e i n a k a k o o n l s s r e e ue l m t a a d r v z p r o e et tt ak , s n n a k ho e s p v m ö fm el o ä co l n a t t r n e l a a t j n . e c ä ae r l n d r o ö e ni g n Vg . r h l n s a s ll r j r a e e ö v an l gi g t m ri ed v d n m s g ä f ö r si e ö e ö n r o e n gö r o n a st s a t r tg r r em t d ör a i c t o c k e n l f s k o t r l k a r e ö y h r g , p r l e a n s l i n n e . l k ln an a a e , t a s s t n i s
-de för att möjliggöra för arenan.
+• Hållbarhet
+
+Resonemang
+Kungsbacka 4:65 ligger i stadsdelen
+Inlag i södra Kungsbacka och utgör
+en del av Kungsbacka sportcenter. Föreslagen yta markerad med streckad linje.
+Fastigheten, som ägs av Kungsbacka
+kommun, inkluderar idag en ishall, boulehall och fotbollsplaner. Sydöst om
+
+befintliga ishallarna kommer en ny arena att uppföras.
+
 Platsen har en god tillgänglighet tack vare närheten till Kungsbacka station
-Inför detaljplanearbetet har kom-     Fotbollsarena
 och innerstaden, vilket gör att det är enkelt att ta sig till platsen med alla tra-
-munen anordnat en projekttävling
-fikslag. Bilvägar till området är Lindens gata och Södra infarten. En ny isyta för att utse ett vinnande förslag av
-skulle öka trafiken på dessa vägar, och arenan kommer ytterligare belasta                   Möjlig utbyggnad - 1500 platser
-ny arena. I samband med projekt-
+fikslag. Bilvägar till området är Lindens gata och Södra infarten. En ny isyta
+skulle öka trafiken på dessa vägar, och arenan kommer ytterligare belasta
 trafiksituationen.
-tävlingen har medverkande fått i
-uppdrag att utarbeta ett förslag till arena där utemiljön samspelar med närlig-
+
 Det finns goda förutsättningar för ett samutnyttjande av befintlig infrastruktur
-gande anläggningar likt ishall och badhus. Vid projekttävlingen fanns en ny
+
 likt förråd, omklädningsrum och ismaskin, vilket kan minska driftkostna-
-isyta inte med som en förutsättning.
 derna. För de föreningar som använder ishallarna skulle en ny isyta intill de
 befintliga underlätta eftersom all verksamhet skulle samlas på en plats.
+
+Placeringen kräver ingen ny detaljplan då befintlig detaljplan möjliggör
+för användningen. Däremot behöver befintlig detaljplan ändras då delar av
+befintlig ishall är placerad på prickad mark där bygnader inte får uppföras.
+Platsen ger förutsättningar för att tidplanen kan hållas.
+
+Sett ur hållbarhet har platsen för- och nackdelar. Den största fördelen är
+ishallarna samlas på ett ställe, vilket ger driftmässiga fördelar och mindre
+klimatpåverkan då energi mellan hallarna kan optimeras. På kort sikt kan
+detta vara ekonomiskt fördelaktigt men risken är även att man låser in sig i
+en lösning. vilket kan vara negativt på lång sikt.Att samla ishallarna bidrar
+
+dock inte till ökad tillgänglighet och därför bidrar inte platsen till någon
+stärkt social hållbarhet.
+
+Flexibel uteplats och mötesplats Flexibel användning av Arenatorget
+
+P A h i m ä d v a r r r a l e o e o l n n n a j t g e t r a i s n n n k a t a ä r n t s r v e e k o a l h o t n i m n å m g K l g e l s m a a u r k r a a n e e s o r n . g u c n A s p s h y t p b r ö t k e f t a r ö u n j r a c r l a e s t a k n u m s f a r k ö i e ä n o r v a n t m s e r g il t n e d m l ö e n r i - e s r a e - r Bou is le h h a a ll ll Cyk P e a l r p S B k a e e Blo r r r k äm i v n e n e m g r k r in a i a n g rn g d e K S is c I s d e & r n o r Ss i t V d a t i s H t e amt A p t p u tl r a eil v e na r u n n k tg d s a e e to r n r t o g r c é Lter h äät sd Kb ae ao nu dp n Ss hp d ph ul e i aa sn S r c S t r g e o ee e d rt d r ig u l v m er t G i a n k r g u pprum W alk P C & T e y t e r a k g r e l r k o l a p lSn a s a Fo s v m r å e / r k dg o s n e e ie r s r s g r i l kk n p o u g oä n t sn te tg rrass Cykelpa B rk a e d r h in u g s La 8 s 0 tb m il a fr r å o S n c t t h ä å n g s g e s s p r e v å i l c r C ei y n k g e å lb n a g na AsasocpspdämudoyTlffsfuddmTpvcte aöo ö r a t o o i t y t o o f i n r ra ä a a c c e l l r e t r n a a a ä e a f t rr r e t e k t m m d g g r r k t r r h h b ö e ms t t d t d n a l n n g g a o h e n l u e s s e a l e t f e r ra s i n t f s , a l e e o e åe ll g s a g l d e n ä r l r r r n ip ln ä b k f v r e i k a n t t n tå a l n t e s n j ö v e s u ad a v s i a r g u e o l a g v l. a f n s u äk , e l n p a nr a a m o r a e p i t ä h u a r P t t f k i o t r n k n o e r m ,g b f o a m o s n b f t o f p i m l m i r r i e ad o ö m l o t as n n e a dt r r r h v g e . e v p h e r i e k g m e o c r t r- t ä n ar e l e . e P a s a g i s r s a l s n s m a n n n e t h k m å s s r t d ä o i n ö å r aa n e a l s t k n t g d o a t l e k s d e r t t c o e k d m i tn p g . s a m g u a e n r g r ö il i e n l e h f g e c n P ö t m a h e e n e t g a r, ö sl e r ut s n a r i h n e as p å a a r g b a s k n i u o o s e r m å o t k , a r e p a r r o p k v a e a g t t u v u k n c m d mö v1 p t g e r v r a l e a m o s e l r ä s 7 s t n a h i e e r o å m a l t ås m l n e p o t l r n p t k0 a t f d g e h n k n h ö c t , e kn a s r m s n a c l a k l e . t a d n a o j i i s a u a h r a n e g c r ä a v e l r e h D d r g n r ä o e c m e r t n k s p e , ny l s m a n ei l k a s n p ag e i k d e m a n p se t k a k n t r f a o ä n d a f e r t r t n , s f o n n a f å n l å r g i i c a s l r n a o n äp a ö t n s t r o s n n p s l ua e m c c a r o e n i a d l d r p , e u r a n t n k k f t . t r rr i n e x a f d c o , ä s t e r l a m f r s d a a . g O l p am ao u t ö i b b p s k d h o e r n d g D l k a t r u , n c t t d e ö r a s m u a i a r s a m t eo e ai t o l gn d e p g h d a y d r o n l p s i r n vr n r ä t s . c r vk e n u g l e o i . a s n i r p d a å g T k l a r d m h t a l m g l r o c o s a a t d e e e t a o t a ä a s h c r t a d t t n e r r r t r . e a h t g ä t a p t , t n s r e t a å t t
+
+kommersiella verksamheter som                  Roller derby målad Varje dag, varje årstid, varenda en
+e E x n e d m e p ta e l l j v p i l s a r n e ä st r a u u n ra d n e g r . framtagan- b S l o o l m ce mb ll ä e an r nkdaer Glaslanternin sedumtak Solceller B M us å s la p d a r a k s e f r a in lt g/ Multisport målad Möjlig utgång TvtkeflPlfemvevmieo n j oö r iu a a i a o nv v v vm å ä d b k a e r s e e e e r r n n r f a r j mn d r v g s b f n n n n e s o o å l aa i n e n e e e e e v t t d c s ds t n o u ö t t t i h m m m m e k h e l . . v e a cl s s ä o k r D T t ä a a a a g r sh e k l i r , v n nj d o n n n n n t u e n u s ff i la s d r s kg g g g j tö d l k t l a u g e p n k ka u a . a r f m s x o p ke t v n o a i l t s A n n s u a o i ti t å c a b p t a b da s r n r t f p h m t a t ae I e ö te a g d o s d m u pf n sn r r ls r m ä lä r t r t . el e f e a ao g i. ao o m n r s ö t N x a n n t D t s e dt m kn o r ä o i a ri ä t a f b t n e i l i e k s v c ä a rl i s , h rn d t i d f g t e p n h l t r k k e t uö i d a t r t e i n a k a k o o n l s s r e e ue l m t a a d r v z p r o e et tt ak , s n n a k ho e s p v m ö fm el o ä co l n a t t r n e l a a t j n . e c ä ae r l n d r o ö e ni g n Vg . r h l n s a s ll r j r a e e ö v an l gi g t m ri ed v d n m s g ä f ö r si e ö e ö n r o e n gö r o n a st s a t r tg r r em t d ör a i c t o c k e n l f s k o t r l k a r e ö y h r g , p r l e a n s l i n n e . l k ln an a a e , t a s s t n i s
+
+Exteriöra perspektiv
+
+Vpläartms aa tut phpä nfögra s, tmreöetet sidprloattts,.
+
+Sfoäosdotnrugcskbse,t monaatfdees tmivaarl.knader,
+
+Mindre konserter, evenemang.
+
+Lek, dagvatten, rekreation.
+
+Vinteraktiviteter.
+
+de för att möjliggöra för arenan.              Träningsbåna
+5min
+Inför detaljplanearbetet har kom-     Fotbollsarena   5min
+5min
+
+munen anordnat en projekttävling
+för att utse ett vinnande förslag av                Otoilclp hot imf m uga nil kv a tai n onsdn l eeu r t sntinadg Editat lonygt tm teodrg c seonmtru smtår i Nmfra aåm tnugt r i fd oas clds h äs b kor ioma l r o o g m isk rå det
+Möjlig utbyggnad - 1500 platser Situaionsplan 1:200 (A1) “KRONA” 3/12
+ny arena. I samband med projekt- Situationsplan över föreslagen arena. Semrén &
+tävlingen har medverkande fått i Månsson arkitekter
+uppdrag att utarbeta ett förslag till arena där utemiljön samspelar med närlig-
+gande anläggningar likt ishall och badhus. Vid projekttävlingen fanns en ny
+isyta inte med som en förutsättning.
+
 Projekttävlingen avslutades 2023-06-29 där Semrén & Månssons tillsam-
 mans med Hille Melbye Arkitekter vann med sitt förslag "Krona". Det
 vinnande förslaget kommer ligga till grund för utformningen av Kungsbacka
+
 17
-edårmosgnilväT
-\- snärG
-Flexibel användning av Arenatorget
-Exteriöra perspektiv Vpläartms aa tut phpä nfögra s, tmreöetet sidprloattts,. Parkering Sfoäosdotnrugcskbse,t monaatfdees tmivaarl.knader, Fågelpost morgonterrass Cykelbana Huvudentré Mindre konserter, evenemang.
-Lek, dagvatten, rekreation. Vinteraktiviteter.
-Träningsbåna
-5min
-5min
-5min
-Otoilclp hot imf m uga nil kv a tai n onsdn l eeu r t sntinadg Editat lonygt tm teodrg c seonmtru smtår i Nmfra aåm tnugt r i fd oas clds h äs b kor ioma l r o o g m isk rå det
-Situaionsplan 1:200 (A1) “KRONA” 3/12
-Situationsplan över föreslagen arena. Semrén &
-Månsson arkitekter
+
+Gräns - Tävlingsområde
 
 <!-- sida 167 -->
 
-arena. I förslaget har hänsyn tagits till hur arenan ska kopplas samman till Den befintliga ishallen, byggd 1976, når inom ett par år sin tekniska livs-
-sin omgivning med anslutningar och stråk. Längs med den västra fasadens längd och behöver byggas om alternativt rivas och byggas upp på nytt, vilket
-bottenvåning kommer vissa av entréerna till arenan att placeras. Här kommer bör ske i samband med att ny isyta lokaliseras till platsen. Detta innebär att
-även en del publika ytor placeras där tanken är att det ska finnas en kontakt två isytor behöver uppföras vilket driver upp kostnaderna.
+arena. I förslaget har hänsyn tagits till hur arenan ska kopplas samman till
+sin omgivning med anslutningar och stråk. Längs med den västra fasadens
+bottenvåning kommer vissa av entréerna till arenan att placeras. Här kommer
+även en del publika ytor placeras där tanken är att det ska finnas en kontakt
 till utemiljön och årummet. I det nordvästra hörnet av arenan finns förslag
-om att ett café/restaurang ska uppföras med tillhörande uteservering. Intill Placeringen påverkar flera intentioner med den nya arena negativt, vilket kan
-arenan planeras för en utveckling av en stadspark som löper från aktivitets- försämra helthetsintrycket. Det planerade parkstråket skulle antingen helt
 
-parken och ned förbi arenan och vidare mot Kungsbackaån. skäras av eller bli en del av ett potentiellt otryggt stråk mellan byggnaderna.
-Om isytan placeras längre söderut, för att öppna upp för stråket, förloras
-I juryns utlåtande om det vinnande förslaget till arena påpekas att stråket samordningsvinster, eftersom avståndet blir för stort för ismaskinen.
+om att ett café/restaurang ska uppföras med tillhörande uteservering. Intill
+arenan planeras för en utveckling av en stadspark som löper från aktivitets-
+parken och ned förbi arenan och vidare mot Kungsbackaån.
+
+I juryns utlåtande om det vinnande förslaget till arena påpekas att stråket
 mellan befintliga ishallar och arenan kan vara lite smalt för att det ska bli ett
-optimalt och trivsamt flöde intill arenans västra fasad. Sedan projekttävling- Vid en placering här är det därför av stor vikt att hänsyn tas till i arena-pro-
-en avgjorts har arenans läge flyttats längre norr- och österut vilket är positivt jektet med anledning av att det är två stora projekt som har en stor omgiv-
-ur ett trygghetsperspektiv då mellanrummet mellan bebyggelsen ökar. ningspåverkan. Det blir därför viktigt att samordna utbyggnad av infrastruk-
-tur men även att stämma av förslag till utformning av isyta för att minimera
-Placering inom Kungsbacka 4:65                         påverkan på arena-projektet.
+optimalt och trivsamt flöde intill arenans västra fasad. Sedan projekttävling-
+en avgjorts har arenans läge flyttats längre norr- och österut vilket är positivt
+ur ett trygghetsperspektiv då mellanrummet mellan bebyggelsen ökar.
+
+Placering inom Kungsbacka 4:65
 En ny isyta bör placeras direkt söder om befint-
+liga ishallar så att dessa kan byggas samman så
+att ismaskin kan ta sig mellan hallarna. Detta
+kräver att boulehallen flyttas och fotbollsplan
+omlokaliseras. För att hitta ny plats för boule-
+hallen behöver en lokaliseringsutredning tas
+fram. När den nya arenan byggs kommer befint-
+lig konstgräsplan behöva ersättas på ny plats,
 
-liga ishallar så att dessa kan byggas samman så        Kungsbacka 4:65 har i viss mån utretts vad gäller geoteknik. Norr om före-
-att ismaskin kan ta sig mellan hallarna. Detta         slagen placering av isyta har en geoteknisk utredning utförts som visar att
-kräver att boulehallen flyttas och fotbollsplan        marken består av lera till ett djup av mer än 40 meter. Enligt utredningen
-omlokaliseras. För att hitta ny plats för boule-       behöver byggnation ske på pålar i form av kohesionspålar då det inte ses
-hallen behöver en lokaliseringsutredning tas           som möjligt att påla ned till fast grund. Med anledning av närheten till utred-
-fram. När den nya arenan byggs kommer befint-          ningsområdet görs bedömningen att liknande förhållanden rimligtvis även
-lig konstgräsplan behöva ersättas på ny plats,         gäller här.
 som måste vara klar hösten 2024 för att inte på-
-verka föreningslivets möjlighet att spela fotboll      2019 utförde Norconsult en utredning längs med delar av Kungsbackaån för
+verka föreningslivets möjlighet att spela fotboll
+på konstgräs. Ett förslag var att placera den nya
+konstgräsplan på befintlig gräsplan direkt söder
+om boulehallen, men detta är inte möjligt om ny Föreslagen yta för ny isyta.
+isyta uppförs söder om befintliga ishallar.
 
-på konstgräs. Ett förslag var att placera den nya      utreda risk för eventuella skred. Utredningsområdet sträcker sig från GC-
-konstgräsplan på befintlig gräsplan direkt söder       bron norr om ishallarna ned till inlagsleden. Utredningen visar att det finns
-om boulehallen, men detta är inte möjligt om ny Föreslagen yta för ny isyta. en skredrisk längs med hela sträckan samt att stabiliteten inte är tillfredsstäl-
-isyta uppförs söder om befintliga ishallar.            lande. För att åtgärda stabilitetsförhållandena kan åkanten avschaktas alter-
-nativt att spont installeras utmed sträckan. 2019 bedömdes överslagsmässigt
-Utbyggnad av isyta innebär även att en fotbollsplan behöver tas bort då det att åtgärden skulle kosta mellan sex och åtta miljoner kronor. En ny kalkyl
-inte finns tillräckligt med yta för att kunna bibehålla antalet fotbollsplaner. som presenterats för kommunstyrelsen visar att kostnaden kan bli 25-30 mil-
-Detta kan få en påverkan på cuper likt Aranäs open och Gothia cup med joner kronor för att åtgärda stabiliteten längs med ån. Denna åtgärd är dock
-anledning av att en fotbollsplan försvinner.           oberoende av övriga projekt likt arena-projektet och en placering av isyta.
+Utbyggnad av isyta innebär även att en fotbollsplan behöver tas bort då det
+inte finns tillräckligt med yta för att kunna bibehålla antalet fotbollsplaner.
+
+Detta kan få en påverkan på cuper likt Aranäs open och Gothia cup med
+anledning av att en fotbollsplan försvinner.
 
 18
+
+Den befintliga ishallen, byggd 1976, når inom ett par år sin tekniska livs-
+längd och behöver byggas om alternativt rivas och byggas upp på nytt, vilket
+bör ske i samband med att ny isyta lokaliseras till platsen. Detta innebär att
+två isytor behöver uppföras vilket driver upp kostnaderna.
+
+Placeringen påverkar flera intentioner med den nya arena negativt, vilket kan
+försämra helthetsintrycket. Det planerade parkstråket skulle antingen helt
+skäras av eller bli en del av ett potentiellt otryggt stråk mellan byggnaderna.
+Om isytan placeras längre söderut, för att öppna upp för stråket, förloras
+samordningsvinster, eftersom avståndet blir för stort för ismaskinen.
+
+Vid en placering här är det därför av stor vikt att hänsyn tas till i arena-pro-
+jektet med anledning av att det är två stora projekt som har en stor omgiv-
+ningspåverkan. Det blir därför viktigt att samordna utbyggnad av infrastruk-
+
+tur men även att stämma av förslag till utformning av isyta för att minimera
+påverkan på arena-projektet.
+
+Kungsbacka 4:65 har i viss mån utretts vad gäller geoteknik. Norr om före-
+slagen placering av isyta har en geoteknisk utredning utförts som visar att
+marken består av lera till ett djup av mer än 40 meter. Enligt utredningen
+behöver byggnation ske på pålar i form av kohesionspålar då det inte ses
+som möjligt att påla ned till fast grund. Med anledning av närheten till utred-
+ningsområdet görs bedömningen att liknande förhållanden rimligtvis även
+gäller här.
+
+2019 utförde Norconsult en utredning längs med delar av Kungsbackaån för
+utreda risk för eventuella skred. Utredningsområdet sträcker sig från GC-
+bron norr om ishallarna ned till inlagsleden. Utredningen visar att det finns
+en skredrisk längs med hela sträckan samt att stabiliteten inte är tillfredsstäl-
+lande. För att åtgärda stabilitetsförhållandena kan åkanten avschaktas alter-
+nativt att spont installeras utmed sträckan. 2019 bedömdes överslagsmässigt
+att åtgärden skulle kosta mellan sex och åtta miljoner kronor. En ny kalkyl
+som presenterats för kommunstyrelsen visar att kostnaden kan bli 25-30 mil-
+
+joner kronor för att åtgärda stabiliteten längs med ån. Denna åtgärd är dock
+oberoende av övriga projekt likt arena-projektet och en placering av isyta.
 
 <!-- sida 168 -->
 
@@ -7672,12 +7805,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -7688,30 +7822,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 170 -->
@@ -7760,57 +7896,46 @@ Foto: Emelie Asplund
 
 <!-- sida 171 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -7822,6 +7947,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 172 -->
@@ -7846,29 +8014,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -7887,7 +8059,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -7901,24 +8074,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -7929,31 +8112,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -7962,6 +8144,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 175 -->
@@ -7969,26 +8163,35 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53

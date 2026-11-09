@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2177669a191e4fcbfb55e591/1726219009
 sha256: 0da36c4af56bcb801051e59c27c31d2cfaf46bb516d60bf677fd5ddae54c1b3f
 bytes: 39422820
 sidor: 90
-hamtad: 2026-10-25T06:34:34+00:00
-konverterad: 2026-10-25T06:36:55+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:55:18+00:00
+konverterad: 2026-11-09T10:58:03+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
@@ -237,7 +237,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -1466,12 +1466,8 @@ Redogörelse av ärendet
 Ursprunglig ansökan inkom 2022-03-31.
 
 Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
-11-01-2202
-–
-314300-2202
-D
-–
-volggyB
+
+Bygglov – D 2022-003413 – 2022-10-11
 
 <!-- sida 27 -->
 
@@ -2186,7 +2182,6 @@ Avtalet är upprättat i två likalydande exemplar varav parterna tagit ett vard
 Kungsbacka 2021-129 Kungsbacka 2021- / L- UY
 Kivi-Tex Properties Sweden AB
 
-vä AA
 för Kungsbacka kommun
 
 Lisa Andersson

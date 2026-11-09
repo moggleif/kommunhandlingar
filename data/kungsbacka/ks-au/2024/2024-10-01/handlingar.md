@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1e3990b19223341db97021d/17274438067
 sha256: 232811494f0bec169021597475d82dd05b49396a004449de7a1f45bfd59db7d6
 bytes: 234564879
 sidor: 786
-hamtad: 2026-10-25T06:36:55+00:00
-konverterad: 2026-10-25T06:44:46+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:58:03+00:00
+konverterad: 2026-11-09T11:07:41+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -165,43 +165,35 @@ INVESTERING OCH EXPLOATERING
 
 Lokaler        och     boenden
 
-Kungsbacka kommun är en attraktiv kommun, geo- egna lokaler och genom inhyrda lokaler. I genomförande-
-grafiskt placerad i en av Sveriges starkaste tillväxt- och fasen utför vi lokalprojekt för att omsätta behov till färdig
-arbetsmarknadsregioner. Antalet invånare förändras lokal.
+Kungsbacka kommun är en attraktiv kommun, geo-
+grafiskt placerad i en av Sveriges starkaste tillväxt- och
+arbetsmarknadsregioner. Antalet invånare förändras
 årligen och kommunen behöver nya lokaler för att möta
-behovet utifrån befolkningsförändringarna. Det övergripande målet med lokalförsörjningen är att nå
-en god ekonomisk hushållning med lokaler och service och
-Kommunen har en omfattande verksamhet som vi därmed kunna frigöra resurser till kommunens kärn-
-bedriver i olika lokaler. Dessutom förmedlar kommunen verksamheter. Det leder i förlängningen till ett effektivt
-olika slags boenden för grupper i samhället som har svårt lokalutnyttjande och lägre kostnader totalt sett för hela
-att få bostad på vanligt sätt eller fått biståndsbeslut. Det kommunen.
+behovet utifrån befolkningsförändringarna.
+
+Kommunen har en omfattande verksamhet som vi
+bedriver i olika lokaler. Dessutom förmedlar kommunen
+olika slags boenden för grupper i samhället som har svårt
+att få bostad på vanligt sätt eller fått biståndsbeslut. Det
 kan handla om boenden för äldre, personer med funk-
-tionsnedsättning, nyanlända samt socialt utsatta personer. Handläggningen av lokalbehoven behöver ske enligt
-Kommunen både äger och hyr in lokaler och boenden. nedanstående principer:
+tionsnedsättning, nyanlända samt socialt utsatta personer.
+Kommunen både äger och hyr in lokaler och boenden.
 
-Kommunfullmäktige har antagit följande lokalpolicy: • Vi ska omhänderta lokalbehoven enligt lokalförsörj-
-"Kommunen ska genom aktiv lokalförsörjning tillhanda- ningsprocessens olika steg för effektiv hantering.
-hålla och bibehålla ändamålsenliga och kostnadseffektiva • Vi ska prioritera utifrån den så kallade Prioriterings-
-lokaler över tiden".                principen i fallande ordning:
+Kommunfullmäktige har antagit följande lokalpolicy:
+"Kommunen ska genom aktiv lokalförsörjning tillhanda-
+hålla och bibehålla ändamålsenliga och kostnadseffektiva
+lokaler över tiden".
 
-1\. L okalbehov som inte är lagstyrd verksamhet
 Varje år beslutar nämnderna om hur de bedömer
-och lokalbehov som utgörs av kvalitets-
 lokalbehovet de kommande fem åren. Behovet är baserat
-höjningar i befintliga lokaler har lägst
-på befolkningsprognoser och lokalprognoser. Det är prioritet.
+på befolkningsprognoser och lokalprognoser. Det är
 kommunens lokalstyrgrupp som sammanställer behoven
-2\. Lokalbehov på grund av ny exploatering har
 till en lokalbehovsplan som bearbetas vidare till en
-medel prioritet.
 lokalplan. Den ska vara möjlig att genomföra ekonomiskt,
-3\. L okalbehov som beror på strukturomvand-
 tidsmässigt och fysiskt. Lokalplanen är en del av kom-
-lingar och som ger minskade driftskostna-
 munens flerårsbudget. Det är kommunfullmäktige som
-der samt lokalbehov på grund av volymut-
-beslutar om lokalplanen.                  ökningar inom befintliga områden har högst
-prioritet.
+beslutar om lokalplanen.
+
 Lokalförsörjningsprocessen
 Vi handlägger samtliga lokalbehov enligt den så kallade
 lokalförsörjningsprocessen som inleds med en lokalplane-
@@ -209,70 +201,152 @@ ringsfas. Det gör vi för en enhetlig och tydlig hantering.
 Handläggningen av lokalbehov ska vara gemensam
 för kommunens samtliga nämnder och vi ska använda
 processen för behov som innebär behov av investeringar i
+
+egna lokaler och genom inhyrda lokaler. I genomförande-
+fasen utför vi lokalprojekt för att omsätta behov till färdig
+lokal.
+
+Det övergripande målet med lokalförsörjningen är att nå
+en god ekonomisk hushållning med lokaler och service och
+därmed kunna frigöra resurser till kommunens kärn-
+verksamheter. Det leder i förlängningen till ett effektivt
+lokalutnyttjande och lägre kostnader totalt sett för hela
+kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt
+nedanstående principer:
+
+• Vi ska omhänderta lokalbehoven enligt lokalförsörj-
+ningsprocessens olika steg för effektiv hantering.
+• Vi ska prioritera utifrån den så kallade Prioriterings-
+principen i fallande ordning:
+
+1\. L okalbehov som inte är lagstyrd verksamhet
+och lokalbehov som utgörs av kvalitets-
+höjningar i befintliga lokaler har lägst
+prioritet.
+2\. Lokalbehov på grund av ny exploatering har
+medel prioritet.
+3\. L okalbehov som beror på strukturomvand-
+lingar och som ger minskade driftskostna-
+der samt lokalbehov på grund av volymut-
+ökningar inom befintliga områden har högst
+prioritet.
+
 Lokalplanering        Genomförande
+
 Behov     Insamling Förstudie Projektering Genomför- Avslut
-& utredning                    ande
+& utredning                     ande
 Behovsfas
+
 Kommunbudget 2025 och plan 2026–2027 45
 
 <!-- sida 8 -->
 
 INVESTERING OCH EXPLOATERING
 
-• Vi ska välja lokallösningar utifrån lokaleffektivitet lokalplanen får startas upp om de understiger 25 miljoner
-enligt den så kallade Fyrstegsmodellen1. Modellen kronor i investeringsbelopp. För behov som överstiger 25
-innebär att vi ska välja och överväga lokallösningar miljoner kronor eller är av särskild principiell karaktär ska
-enligt följande prioriteringsordning: kommunstyrelsen besluta om igångsättning. Motsvarande
-1\. Inte tillgodose behovet alls igångsättningsbeslut krävs för de behov som ska lösas
-2\. Leda om ”strömmar” av elever, boende till ledig genom inhyrning enligt lokalplanen där hyran motsvarar
-kapacitet i befintliga lokaler en investering av 25 miljoner kronor.
+• Vi ska välja lokallösningar utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen1. Modellen
+innebär att vi ska välja och överväga lokallösningar
+enligt följande prioriteringsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende till ledig
+kapacitet i befintliga lokaler
 3\. Bygga om eller till befintliga lokaler
-4\. Bygga nya lokaler            Nämnden för Service betalar kapitalkostnaden och tar ut
-• Vi ska föreslå och välja lokallösningar utifrån att detta som en hyra av hyresgästen. Behovsanalyserna bekos-
-”Minska behovet av att bygga nytt genom att sam- tar nämnderna inom sin driftsbudget. Investeringsprojekt
-utnyttja och bygga mer flexibelt” vilket innebär att som inte resulterar i en investering går på den beställande
-lokaler eller lokaldelar så långt det är möjligt planeras nämndens driftsbudget.
+4\. Bygga nya lokaler
+• Vi ska föreslå och välja lokallösningar utifrån att
+”Minska behovet av att bygga nytt genom att sam-
+utnyttja och bygga mer flexibelt” vilket innebär att
+lokaler eller lokaldelar så långt det är möjligt planeras
 för att kunna samnyttjas och användas för flera
-ändamål.                        I samband med kommunens investering i nya lokaler
-• Vi ska genomföra investeringar i egenägda lokaler om avsätter vi en procent av byggnadens byggutgift till
-verksamheten har ett långsiktigt lokalbehov. konstnärlig utsmyckning. Från och med Kommunbudget
-• Vi ska pröva inhyrning som ett alternativ till att äga 2026 avsätter vi 0,5 procent. Med byggutgift menar vi den
-fastigheter. Vi ska välja det om det råder osäkerhet om del av projektkostnaden som omfattar uppförande av en
-verksamhetens framtida innehåll och eller omfattning. byggnad exklusive markförvärv, projektering, markarbe-
-Vi ska också ta hänsyn till hur lång tid behovet finns ten, installationer och byggherrekostnader. Nämnden för
-eller om vi saknar investeringsmedel för egna investe- Kultur & Fritid får ansvaret att upphandla och besluta om
-ringar.                         den konstnärliga utsmyckningen. Kommunen avsätter
-• Vi ska arbeta med lokalförsörjning genom ett tätt ett särskilt belopp som kan fördelas olika mellan de
-samarbete med berörda förvaltningar. lokaler som byggs. Det innebär att det inte alltid blir den
-procentuella avsättningen i konstgestaltning per lokal utan
+ändamål.
+• Vi ska genomföra investeringar i egenägda lokaler om
+verksamheten har ett långsiktigt lokalbehov.
+• Vi ska pröva inhyrning som ett alternativ till att äga
+fastigheter. Vi ska välja det om det råder osäkerhet om
+verksamhetens framtida innehåll och eller omfattning.
+Vi ska också ta hänsyn till hur lång tid behovet finns
+eller om vi saknar investeringsmedel för egna investe-
+ringar.
+• Vi ska arbeta med lokalförsörjning genom ett tätt
+samarbete med berörda förvaltningar.
+
 Lokalbehov 2025–2029
-det kan variera mellan olika lokaler.. Detta gäller bara
-Nämnderna i Kungsbacka kommun har lämnat in bostads- byggnaderna. Vid investeringar i infrastruktur som till
-och lokalbehov för perioden 2025–2029 med utblicksår exempel gator och vägar så tar vi ställning till konstnärlig
-2030–2034. Nämndernas beslutade behov uttrycks i utsmyckning i varje enskilt projekt. Detsamma gäller i de
-volymmått, till exempel antal platser, antal elever eller fall kommunen hyr in lokal från externa fastighetsägare.
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2025–2029 med utblicksår
+2030–2034. Nämndernas beslutade behov uttrycks i
+volymmått, till exempel antal platser, antal elever eller
 antal förskolebarn. Lokalgruppen bearbetar och bedömer
-Återbruk av inventarier
 kostnader utifrån nyckeltal framtagna av förvaltningen för
-Service avseende investeringsutgifter och driftskostnader. I lokalplanen avsätter vi även budget för inventarier (lös
-Vi tar fram lokalplanen utifrån ett planerings- och inredning och utrustning). Det kan till exempel vara
-genomförandeperspektiv samt med utgångspunkt i ovan budget för möbler, växter och AV-utrustning för de
-nämnda principer.                 förändrade lokalbehoven. Kommunfullmäktiges mål
-om En hållbar utveckling och en hälsosam miljö anger
-Nya hyror för lokalinvesteringar samt inhyrda boenden att Kungsbacka ska verka för ett fossilfritt och cirkulärt
-budgeteras centralt och nämnden får en ram motsvarande samhälle. Detta avspeglas genom ökat fokus på återbruk av
-80 procent av hyran när lokalen är klar att börjar användas. inventarier vilket innebär att budgeten för nyinvesteringar
-Resterande 20 procent finansieras inom respektive nämnds minskar eftersom samtliga nämnder förväntas bidra till
-ram. Nämnderna får ingen ramtilldelning för verksam- att återbruka inventarier som redan finns i kommunen.
-hetsanpassning av lokaler.        Dessutom förväntar vi oss att inköp av återbruk från
-externa leverantörer ökar under planeringsperioden, vilket
-Investeringsbudget och hyresmedel för lokaler och också bidrar till att investeringsbudgeten för inventarier
-boenden tillhör kommunstyrelsen och kommunstyrelsen kan reduceras. Kommunfullmäktiges mål påverkar också
-kan justera mellan olika lokalprojekt under året. arbetet med återbruk av byggmaterial och än så länge i
-Behov som ska lösas genom egen investering enligt första hand avseende rivnings- och ombyggnadsprojekt.
+Service avseende investeringsutgifter och driftskostnader.
+Vi tar fram lokalplanen utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
+Nya hyror för lokalinvesteringar samt inhyrda boenden
+budgeteras centralt och nämnden får en ram motsvarande
+80 procent av hyran när lokalen är klar att börjar användas.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Nämnderna får ingen ramtilldelning för verksam-
+hetsanpassning av lokaler.
+
+Investeringsbudget och hyresmedel för lokaler och
+boenden tillhör kommunstyrelsen och kommunstyrelsen
+kan justera mellan olika lokalprojekt under året.
+Behov som ska lösas genom egen investering enligt
 1 Modellen är antagen av nämnden för Service 2015-06-07
 (Dnr SE/2015:82).
 46 Kommunbudget 2025 och plan 2026–2027
+
+lokalplanen får startas upp om de understiger 25 miljoner
+kronor i investeringsbelopp. För behov som överstiger 25
+miljoner kronor eller är av särskild principiell karaktär ska
+kommunstyrelsen besluta om igångsättning. Motsvarande
+igångsättningsbeslut krävs för de behov som ska lösas
+genom inhyrning enligt lokalplanen där hyran motsvarar
+en investering av 25 miljoner kronor.
+
+Nämnden för Service betalar kapitalkostnaden och tar ut
+detta som en hyra av hyresgästen. Behovsanalyserna bekos-
+tar nämnderna inom sin driftsbudget. Investeringsprojekt
+som inte resulterar i en investering går på den beställande
+nämndens driftsbudget.
+
+I samband med kommunens investering i nya lokaler
+avsätter vi en procent av byggnadens byggutgift till
+konstnärlig utsmyckning. Från och med Kommunbudget
+2026 avsätter vi 0,5 procent. Med byggutgift menar vi den
+del av projektkostnaden som omfattar uppförande av en
+byggnad exklusive markförvärv, projektering, markarbe-
+ten, installationer och byggherrekostnader. Nämnden för
+Kultur & Fritid får ansvaret att upphandla och besluta om
+den konstnärliga utsmyckningen. Kommunen avsätter
+ett särskilt belopp som kan fördelas olika mellan de
+lokaler som byggs. Det innebär att det inte alltid blir den
+procentuella avsättningen i konstgestaltning per lokal utan
+det kan variera mellan olika lokaler.. Detta gäller bara
+byggnaderna. Vid investeringar i infrastruktur som till
+exempel gator och vägar så tar vi ställning till konstnärlig
+utsmyckning i varje enskilt projekt. Detsamma gäller i de
+fall kommunen hyr in lokal från externa fastighetsägare.
+
+Återbruk av inventarier
+I lokalplanen avsätter vi även budget för inventarier (lös
+inredning och utrustning). Det kan till exempel vara
+budget för möbler, växter och AV-utrustning för de
+förändrade lokalbehoven. Kommunfullmäktiges mål
+om En hållbar utveckling och en hälsosam miljö anger
+att Kungsbacka ska verka för ett fossilfritt och cirkulärt
+samhälle. Detta avspeglas genom ökat fokus på återbruk av
+inventarier vilket innebär att budgeten för nyinvesteringar
+minskar eftersom samtliga nämnder förväntas bidra till
+att återbruka inventarier som redan finns i kommunen.
+Dessutom förväntar vi oss att inköp av återbruk från
+externa leverantörer ökar under planeringsperioden, vilket
+också bidrar till att investeringsbudgeten för inventarier
+kan reduceras. Kommunfullmäktiges mål påverkar också
+arbetet med återbruk av byggmaterial och än så länge i
+första hand avseende rivnings- och ombyggnadsprojekt.
 
 <!-- sida 9 -->
 
@@ -289,12 +363,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -305,30 +380,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 10 -->
@@ -377,57 +454,46 @@ Foto: Emelie Asplund
 
 <!-- sida 11 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -439,6 +505,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 12 -->
@@ -463,29 +572,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -504,7 +617,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -518,24 +632,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -546,31 +670,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -579,6 +702,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 15 -->
@@ -586,27 +721,36 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53
 
@@ -1448,7 +1592,6 @@ handlingen anges riktvärden på relevanta akustiska parametrar enligt Förordni
 2015:216 om trafikbuller samt redovisas resultat från bullerberäkningen.
 
 1.3 Underlag
-
 Följande underlag har använts:
 
 e Byggnadskarta från Lantmäteriet exkl. placering av nya byggnader,
@@ -1459,17 +1602,15 @@ e Byggnadsvolymer enl. A, dat. 2024-01-24
 
 Cedås Akustik
 
-Surupa.nnue[[ngqYge.r]
+3/
 
-&Ö
+Surupa.nnue[[ngqYge.r]
 
 AAeNY T:y oqssued | vz-TO-7z0Z
 
 <!-- sida 47 -->
 
 <!-- sida 48 -->
-
-d NY
 
 3 Riktvärden i projektet
 
@@ -1503,19 +1644,13 @@ Definition uteplats enligt Boverket:
 innebär att uteplatsen eller uteplatserna är direkt hänförliga till byggnadsverket eller
 tomten och således anordnas på kvartersmark.”
 
+Cedås Akustik Ö
+
 HIAPT[NY T:y oqssued | \$z-TO-7Z0Z
 
 Sutupatnto[ngqAgel]
 
-po mun &)
-
 <!-- sida 49 -->
-
-Bångsbo 4:1, Kullavik | 2024-01-24
-
-Trafikbullerutredning
-
-(6) Cedås Akustik
 
 4 Beräkningsunderlag
 
@@ -1555,9 +1690,15 @@ dat. 2024-01-21.
 Byggnadsvolym och antal våningar enligt underlag från White Arkitekter,
 dat. 2024-01-24.
 
+(6) Cedås Akustik
+
+Bångsbo 4:1, Kullavik | 2024-01-24
+
+Trafikbullerutredning
+
 <!-- sida 50 -->
 
-dä
+a
 
 5 Beräkningsresultat
 
@@ -1597,13 +1738,15 @@ hälften av boenderummen ha tillgång till en bullerdämpade sida (Laeq < 55 dB)
 
 Grön fasad: Planlösningen kan väljas fritt.
 
+Cedås Akustik Ö
+
 AAeNY T:y oqssued | vz-TO-7z0Z
 
 Sutupatnto[ngqAgel]
 
-Cedås Akustik Ö
-
 <!-- sida 51 -->
+
+dä Nn
 
 Översikt av kvarteren:
 
@@ -1612,13 +1755,15 @@ Grön: Planlösning kan väljas fritt
 
 Figur 4 Olika kvarter med tillhörande resultat
 
+(8) Cedås Akustik
+
 Bångsbo 4:1, Kullavik | 2024-01-24
 
 Trafikbullerutredning
 
-(8) Cedås Akustik
-
 <!-- sida 52 -->
+
+pe mun &
 
 5.4 Uteplats
 
@@ -1639,11 +1784,7 @@ Cedås Akustik AB
 
 Ina Hättenberger
 
-en Cedäs Akustik
-
 SUIupasIInta[[NAXAgel]
-
-O
 
 AAeNY T:y oqssued | vz-TO-7z0Z
 
@@ -1861,10 +2002,6 @@ www.cedasakustik.se
 
 318250
 
-318500
-
-09ZE8€9
-
 Projektnamn: Bångsbo 4:1
 Projektnummer. 24018
 Beställare: White Arkitekter
@@ -1894,18 +2031,18 @@ HI > 60
 
 N
 
+318500
+
 CEDÅS
 AKUSTIK
 Cedås Akustik AB, Kyrkogatan 4, Göteborg
 www.cedasakustik.se
 
+09ZE8€9
+
 <!-- sida 60 -->
 
 318250
-
-318500
-
-09ZE8€9
 
 Projektnamn: Bångsbo 4:1
 Projektnummer. 24018
@@ -1936,10 +2073,14 @@ HI > 30
 
 NN
 
+318500
+
 CEDÅS
 AKUSTIK
 Cedås Akustik AB, Kyrkogatan 4, Göteborg
 www.cedasakustik.se
+
+09ZE8€9
 
 <!-- sida 61 -->
 
@@ -4708,8 +4849,6 @@ Personnummer: (personnummer borttaget)
 
 sammanfattning av
 
-bi AGA 5
-
 ENERGIDEKLARATION
 
 (adress borttagen), 439 63 Frillesås
@@ -4768,8 +4907,12 @@ Energideklarationen är giltig till:
 
 Byggnaden - Egenskaper
 
-Typkod Byggnadskategori
-220 - Småhusenhet, bebyggd En- och tvåbostadshus
+Typkod
+220 - Småhusenhet, bebyggd
+
+Byggnadskategori
+En- och tvåbostadshus
+
 Byggnadens komplexitet Byggnadstyp Nybyggnadsår
 (6 Enkel (C Komplex Friliggande 1982
 Atemp mätt värde (exkl. Avarmgarage) Verksamhet Procent av
@@ -4777,12 +4920,11 @@ Atemp mätt värde (exkl. Avarmgarage) Verksamhet Procent av
 166 m Avarmgarage)
 Finns installerad eleffekt >10 W/m? för
 uppvärmning och varmvattenproduktion Bostäder (inkl. biarea, t.ex. trapphus och uppvärmd källare) 100
-(6 Ja C Nej
-
-Övrig verksamhet - ange vad
-
+eo Ja Nej
+(€ c , Övrig verksamhet - ange vad
 Är byggnaden skyddad som byggnadsminne eller
 är byggnaden en sådan särskilt värdefull Summa 100
+
 byggnad som avses i 8 kap 13 & PBL?
 
 (6 Nej
@@ -4795,9 +4937,9 @@ områdesbestämmelser
 Ja, är utpekad i annan typ av
 dokument
 
-3 3 A3A00
-
 Ja, egen bedömning
+
+3 3 A3A00
 
 <!-- sida 127 -->
 
@@ -4934,9 +5076,7 @@ Rekommendationer om kostnadseffektiva åtgärder
 Styr- och reglerteknisk
 
 Värme
-
 Nya radiatorventiler
-
 Injustering av värmesystem
 Tids-/behovsstyrning av värmesystem
 
@@ -4947,9 +5087,6 @@ Maxbegränsning av innetemperatur
 Ny inomhusgivare
 
 Byte/installation av tryckstyrda pumpar
-
-daga dad
-
 Annan åtgärd
 
 Ventilation
@@ -4981,8 +5118,6 @@ Installation av solvärme
 
 Installation av solceller
 
-JURA Raa
-
 Annan åtgärd
 
 Byggnadsteknik
@@ -5000,8 +5135,6 @@ med innerruta
 Tätning
 fönster/fönsterdörrarlytterdörrar
 
-UU dd dd Udda
-
 Annan åtgärd
 
 Minskad energianvändning
@@ -5016,6 +5149,12 @@ Beskrivning av åtgärden
 Byte av uppvärmning till
 
 Luft-vatten värmepump
+
+daga dad
+
+JURA Raa
+
+UU dd dd Udda
 
 <!-- sida 130 -->
 
@@ -7428,7 +7567,6 @@ SOU 2024:38                              Författningsförslag
 
 som regeringen bestämmer får myndighet som regeringen be-
 meddela föreskrifter om att en stämmer får meddela föreskrifter
-
 ansökan om inskrivning får ges om att en ansökan om inskriv-
 in i form av ett elektroniskt ning får ges in i form av ett elek-
 dokument.             troniskt dokument.
@@ -7439,6 +7577,7 @@ tiserad behandling och vars inne- tiserad behandling och vars inne-
 håll och utställare kan verifieras håll och utställare kan verifieras
 genom ett visst tekniskt förfar- genom ett visst tekniskt förfar-
 ande, enligt vad som föreskrivs ande, enligt vad som föreskrivs
+
 av regeringen eller den myndig- av regeringen eller den myndig-
 het som regeringen bestämmer. het som regeringen bestämmer.
 Sökanden skall ge in de hand- Sökanden ska ge in de hand-
@@ -7447,16 +7586,28 @@ ansökan.              ansökan.
 
 19 kap.
 11 a §
-Om en ansökan om inskriv- Om en ansökan om inskriv-
-ning ges in i form av ett elek- ning görs digitalt, får en fånges-
-troniskt dokument, får en fånges- handling eller annan handling
-handling eller annan handling som avses i 20 kap. 6 § 1, 21 kap.
-som avses i 20 kap. 6 § 1, 21 kap. 2 § första stycket eller 23 kap. 2 §
-2 § första stycket § eller 23 kap. första stycket 1 eller en handling
-2 § första stycket 1 eller en som avses i 7 kap. 5 § fjärde
-handling som avses i 7 kap. 5 § stycket äktenskapsbalken eller
-fjärde stycket äktenskapsbalken 23 § andra stycket sambolagen
-eller 23 § andra stycket sambo- (2003:376) ges in enligt före-
+
+Om en ansökan om inskriv-
+ning ges in i form av ett elek-
+troniskt dokument, får en fånges-
+handling eller annan handling
+som avses i 20 kap. 6 § 1, 21 kap.
+2 § första stycket § eller 23 kap.
+2 § första stycket 1 eller en
+handling som avses i 7 kap. 5 §
+fjärde stycket äktenskapsbalken
+eller 23 § andra stycket sambo-
+
+Om en ansökan om inskriv-
+ning görs digitalt, får en fånges-
+handling eller annan handling
+som avses i 20 kap. 6 § 1, 21 kap.
+2 § första stycket eller 23 kap. 2 §
+första stycket 1 eller en handling
+som avses i 7 kap. 5 § fjärde
+stycket äktenskapsbalken eller
+23 § andra stycket sambolagen
+(2003:376) ges in enligt före-
 
 lagen (2003:376) ges in elektro- skrifter som regeringen eller den
 niskt enligt föreskrifter som myndighet som regeringen be-
@@ -7476,7 +7627,6 @@ Författningsförslag                        SOU 2024:38
 
 ens överensstämmelse med ori-
 ginalet vara bestyrkt enligt före-
-
 skrifter som regeringen eller den
 myndighet som regeringen be-
 stämmer får meddela.
@@ -7485,83 +7635,151 @@ stämmer får meddela.
 7 §
 Förekommer inte omständigheter som avses i 6 §, ska lagfartsan-
 sökan förklaras vilande, om
-1\. vid köp, byte eller gåva över- 1. vid köp, byte eller gåva över-
-låtarens underskrift på fånges- låtarens underskrift på fånges-
-handlingen inte är styrkt av två handlingen inte är styrkt av två
-vittnen och överlåtelsen inte vittnen och köpehandlingen inte
-skett genom statlig myndighet, har upprättats elektroniskt eller
+
+1\. vid köp, byte eller gåva över-
+låtarens underskrift på fånges-
+handlingen inte är styrkt av två
+vittnen och överlåtelsen inte
+skett genom statlig myndighet,
+
+2\. fångesmannen inte har lag-
+fart och fall som avses i 9 § inte
+föreligger,
+3\. rättegång pågår om häv-
+ning eller återgång av förvärv av
+fastigheten eller om bättre rätt
+
+till denna,
+4\. lagfart söks på grund av
+testamente, dom eller förrätt-
+ning som ännu inte vunnit laga
+kraft,
+5\. vid förvärv genom legat
+detta inte utgivits,
+6\. vid förvärv på exekutiv för-
+säljning köpebrev inte utfärdats
+eller vid expropriation eller lik-
+nande tvångsförvärv inlösen inte
+fullbordats,
+7\. vid överlåtelse överlåtaren
+är gift och förvärvet enligt äkten-
+skapsbalkens bestämmelser är be-
+
+1\. vid köp, byte eller gåva över-
+låtarens underskrift på fånges-
+handlingen inte är styrkt av två
+vittnen och köpehandlingen inte
+har upprättats elektroniskt eller
 överlåtelsen inte skett genom
 statlig myndighet,
-2\. fångesmannen inte har lag- 2. fångesmannen inte har lag-
-fart och fall som avses i 9 § inte fart och fall som avses i 9 § inte
-föreligger,           föreligger,
-3\. rättegång pågår om häv- 3. rättegång pågår om häv-
-ning eller återgång av förvärv av ning eller återgång av förvärv av
-fastigheten eller om bättre rätt fastigheten eller om bättre rätt
-till denna,           till denna,
-4\. lagfart söks på grund av 4. lagfart söks på grund av
-testamente, dom eller förrätt- testamente, dom eller förrätt-
-ning som ännu inte vunnit laga ning som ännu inte vunnit laga
-kraft,                kraft,
-5\. vid förvärv genom legat 5. vid förvärv genom legat
-detta inte utgivits,  detta inte utgivits,
+2\. fångesmannen inte har lag-
+fart och fall som avses i 9 § inte
+föreligger,
+3\. rättegång pågår om häv-
+ning eller återgång av förvärv av
+fastigheten eller om bättre rätt
 
-6\. vid förvärv på exekutiv för- 6. vid förvärv på exekutiv för-
-säljning köpebrev inte utfärdats säljning köpebrev inte utfärdats
-eller vid expropriation eller lik- eller vid expropriation eller lik-
-nande tvångsförvärv inlösen inte nande tvångsförvärv inlösen inte
-fullbordats,          fullbordats,
-7\. vid överlåtelse överlåtaren 7. vid överlåtelse överlåtaren
-är gift och förvärvet enligt äkten- är gift och förvärvet enligt äkten-
-skapsbalkens bestämmelser är be- skapsbalkens bestämmelser är be-
+till denna,
+4\. lagfart söks på grund av
+testamente, dom eller förrätt-
+ning som ännu inte vunnit laga
+kraft,
+5\. vid förvärv genom legat
+detta inte utgivits,
+6\. vid förvärv på exekutiv för-
+säljning köpebrev inte utfärdats
+eller vid expropriation eller lik-
+nande tvångsförvärv inlösen inte
+fullbordats,
+7\. vid överlåtelse överlåtaren
+är gift och förvärvet enligt äkten-
+skapsbalkens bestämmelser är be-
 
 54
 
 <!-- sida 194 -->
 
-SOU 2024:38                              Författningsförslag
+SOU 2024:38
 
-roende av den andre makens roende av den andre makens sam-
-samtycke,             tycke,
+roende av den andre makens
+samtycke,
+8\. vid överlåtelse överlåtaren
+är sambo och förvärvet enligt
+bestämmelserna i sambolagen
+(2003:376) är beroende av den
+andra sambons samtycke, dock
+endast om ärende om anteck-
+ning i fastighetsregistrets in-
+skrivningsdel av anmälan enligt
+5 § andra stycket den lagen var
+upptaget på inskrivningsdag när
+överlåtelsen skedde,
+9\. vid överlåtelse genom bo-
+utredningsman förvärvet enligt
+ärvdabalkens bestämmelser är be-
+roende av dödsbodelägares sam-
+tycke,
+10\. förvärvet har skett genom
+en sådan gåva mellan makar som
 
-8\. vid överlåtelse överlåtaren 8. vid överlåtelse överlåtaren
-är sambo och förvärvet enligt är sambo och förvärvet enligt
-bestämmelserna i sambolagen bestämmelserna i sambolagen
-(2003:376) är beroende av den (2003:376) är beroende av den
-andra sambons samtycke, dock andra sambons samtycke, dock
-endast om ärende om anteck- endast om ärende om anteck-
-ning i fastighetsregistrets in- ning i fastighetsregistrets in-
-skrivningsdel av anmälan enligt skrivningsdel av anmälan enligt
-5 § andra stycket den lagen var 5 § andra stycket den lagen var
-upptaget på inskrivningsdag när upptaget på inskrivningsdag när
-överlåtelsen skedde,  överlåtelsen skedde,
-9\. vid överlåtelse genom bo- 9. vid överlåtelse genom bo-
-utredningsman förvärvet enligt utredningsman förvärvet enligt
-ärvdabalkens bestämmelser är be- ärvdabalkens bestämmelser är be-
-roende av dödsbodelägares sam- roende av dödsbodelägares sam-
-tycke,                tycke,
-10\. förvärvet har skett genom 10. förvärvet har skett genom
-en sådan gåva mellan makar som en sådan gåva mellan makar som
-inte har registrerats enligt inte har registrerats enligt
-16 kap. äktenskapsbalken, 16 kap. äktenskapsbalken,
-11\. förvärvet avser del av fas- 11. förvärvet avser del av fas-
-tighet och är beroende av fastig- tighet och är beroende av fastig-
-hetsbildning,         hetsbildning,
+inte har registrerats enligt
+16 kap. äktenskapsbalken,
+11\. förvärvet avser del av fas-
+tighet och är beroende av fastig-
+hetsbildning,
+
+12\. förvärvet i annat fall en-
+ligt lag är beroende av domstols
+eller annan myndighets tillstånd,
+eller
+13\. förvärvet är beroende av
+villkor och, i fråga om gåva, vill-
+koret avser viss tid som inte
+överstiger två är från den dag då
+gåvohandlingen upprättades.
+
+Författningsförslag
+
+roende av den andre makens sam-
+tycke,
+8\. vid överlåtelse överlåtaren
+är sambo och förvärvet enligt
+bestämmelserna i sambolagen
+(2003:376) är beroende av den
+andra sambons samtycke, dock
+endast om ärende om anteck-
+ning i fastighetsregistrets in-
+skrivningsdel av anmälan enligt
+5 § andra stycket den lagen var
+upptaget på inskrivningsdag när
+överlåtelsen skedde,
+9\. vid överlåtelse genom bo-
+utredningsman förvärvet enligt
+ärvdabalkens bestämmelser är be-
+roende av dödsbodelägares sam-
+tycke,
+10\. förvärvet har skett genom
+en sådan gåva mellan makar som
+
+inte har registrerats enligt
+16 kap. äktenskapsbalken,
+11\. förvärvet avser del av fas-
+tighet och är beroende av fastig-
+hetsbildning,
 12\. förvärvet omfattas av stat-
-
 lig eller kommunal förköpsrätt och
 är beroende av att förköp inte ut-
 övas eller vid utövande av förköp
 att detta inte är fullbordat,
-12\. förvärvet i annat fall en- 13. förvärvet i annat fall en-
-ligt lag är beroende av domstols ligt lag är beroende av domstols
-eller annan myndighets tillstånd, eller annan myndighets tillstånd,
-eller                 eller
-13\. förvärvet är beroende av 14. förvärvet är beroende av
-villkor och, i fråga om gåva, vill- villkor och, i fråga om gåva, vill-
-koret avser viss tid som inte koret avser viss tid som inte
-överstiger två är från den dag då överstiger två är från den dag då
-gåvohandlingen upprättades. gåvohandlingen upprättades.
+13\. förvärvet i annat fall en-
+ligt lag är beroende av domstols
+eller annan myndighets tillstånd,
+eller
+14\. förvärvet är beroende av
+villkor och, i fråga om gåva, vill-
+koret avser viss tid som inte
+överstiger två är från den dag då
+gåvohandlingen upprättades.
 
 55
 
@@ -7571,7 +7789,6 @@ Författningsförslag                        SOU 2024:38
 
 22 kap.
 3 §
-
 Ansökan om inteckning ska avslås, om
 1\. föreskrifterna i 2 § inte iakttagits,
 2\. på grund av särskild föreskrift eller enligt anteckning i fastig-
@@ -7580,33 +7797,53 @@ heten,
 3\. inskrivning av tomträtt i fastigheten är beviljad eller sökt,
 4\. fastigheten frångått sökanden på grund av exekutiv försäljning
 eller genom expropriation eller liknande tvångsförvärv,
-5\. sökanden är i konkurs eller 5. sökanden är i konkurs eller
-försätts i konkurs den dag då in- försätts i konkurs den dag då in-
-teckningen söks samt fastighe- teckningen söks samt fastighe-
-ten hör till konkursboet, eller ten hör till konkursboet,
-6\. en del av fastigheten har 6. en del av fastigheten har
-utmätts eller tagits i anspråk utmätts eller tagits i anspråk
-genom betalningssäkring eller genom betalningssäkring eller
-fastigheten eller en del av fastig- fastigheten eller en del av fastig-
-heten har belagts med kvarstad heten har belagts med kvarstad
-eller tagits i förvar och ett ärende eller tagits i förvar och ett ärende
-angående anteckning om åtgär- angående anteckning om åtgär-
-den har tagits upp senast på den den har tagits upp senast på den
-inskrivningsdag då inteckningen inskrivningsdag då inteckningen
-sökts, om inte ansökningen har sökts, om inte ansökningen har
-medgetts av Kronofogdemyn- medgetts av Kronofogdemyn-
-digheten.             digheten, eller
 
+5\. sökanden är i konkurs eller
+försätts i konkurs den dag då in-
+teckningen söks samt fastighe-
+ten hör till konkursboet, eller
+6\. en del av fastigheten har
+utmätts eller tagits i anspråk
+genom betalningssäkring eller
+fastigheten eller en del av fastig-
+heten har belagts med kvarstad
+eller tagits i förvar och ett ärende
+angående anteckning om åtgär-
+den har tagits upp senast på den
+inskrivningsdag då inteckningen
+
+sökts, om inte ansökningen har
+medgetts av Kronofogdemyn-
+digheten.
+
+5\. sökanden är i konkurs eller
+försätts i konkurs den dag då in-
+teckningen söks samt fastighe-
+ten hör till konkursboet,
+6\. en del av fastigheten har
+utmätts eller tagits i anspråk
+genom betalningssäkring eller
+fastigheten eller en del av fastig-
+heten har belagts med kvarstad
+eller tagits i förvar och ett ärende
+angående anteckning om åtgär-
+den har tagits upp senast på den
+inskrivningsdag då inteckningen
+
+sökts, om inte ansökningen har
+medgetts av Kronofogdemyn-
+digheten, eller
 7\. ärende angående anteckning
 om att stat eller kommun beslutat
 att utöva förköpsrätt i fråga om
 egendomen upptagits på inskriv-
+
 ningsdag.
 Har ärende angående lagfart för sökanden uppskjutits till senare
 inskrivningsdag, ska behandlingen av ansökan om inteckning upp-
 skjutas till samma dag.
 
-Denna lag träder i kraft d en 1 juli 2026.
+Denna lag träder i kraft den 1 juli 2026.
 
 56
 
@@ -7741,16 +7978,27 @@ Nuvarande lydelse     Föreslagen lydelse
 16 kap.
 2 §
 Ansökan om registrering görs Ansökan om registrering görs
-hos Skatteverket.     hos Skatteverket.
-Till ansökan ska fogas den Till ansökan ska fogas den
-handling som ska registreras. Be- handling som ska registreras. Be-
-gärs registrering av en gåva som gärs registrering av en gåva som
-inte har skett skriftligen, ska inte har skett skriftligen, ska
-uppgift om gåvan lämnas i en uppgift om gåvan lämnas i en
-handling som har undertecknats handling som har undertecknats
-av båda makarna.      av båda makarna. Registrering av
+
+hos Skatteverket.
+Till ansökan ska fogas den
+handling som ska registreras. Be-
+gärs registrering av en gåva som
+inte har skett skriftligen, ska
+uppgift om gåvan lämnas i en
+handling som har undertecknats
+av båda makarna.
+
+hos Skatteverket.
+Till ansökan ska fogas den
+handling som ska registreras. Be-
+gärs registrering av en gåva som
+inte har skett skriftligen, ska
+uppgift om gåvan lämnas i en
+handling som har undertecknats
+av båda makarna. Registrering av
 gåva av fast egendom får göras
 med elektroniskt upprättad och
+
 signerad handling.
 Beträffande anmälan om bodelning finns bestämmelser i 9 kap.
 1 § andra stycket.
@@ -7764,8 +8012,8 @@ Denna lag träder i kraft den 1 juli 2026.
 SOU 2024:38                              Författningsförslag
 
 1.7   Förslag till förordning med ändring
-
 i inskrivningsförordning (2000:309)
+
 Härigenom föreskrivs att 2 § inskrivningsförordningen (2000:309)
 ska ha följande lydelse.
 
@@ -7783,6 +8031,7 @@ gärder avseende tomträtt enligt
 21 kap. jordabalken,
 3\. inteckning enligt 22 kap.
 2 § jordabalken,
+
 4\. inteckningsåtgärder enligt
 22 kap. 7–11 §§ jordabalken, om
 inteckningen motsvaras av ett
@@ -7792,17 +8041,24 @@ borttagande av sådan anteckning
 enligt 22 kap. 12 § jordabalken,
 och
 6\. inskrivning eller andra åt-
-
 gärder avseende annan nyttjande-
+
 rätt än tomträtt samt avseende
 servitut och rätt till elektrisk kraft
 enligt 23 kap. jordabalken.
-I ärenden där en ansökan ges I ärenden där ansökan görs
-in elektroniskt får även en hand- digitalt får även en handling som
-ling som avses i 20 kap. 6 § 1, avses i 20 kap. 6 § 1, 21 kap. 2 §
-21 kap. 2 § första stycket 1 och första stycket 1 och 23 kap. 2 §
-23 kap. 2 § första stycket 1 jorda- första stycket 1 jordabalken samt
-balken samt 7 kap. 5 § fjärde 7 kap. 5 § fjärde stycket äkten-
+I ärenden där en ansökan ges
+in elektroniskt får även en hand-
+ling som avses i 20 kap. 6 § 1,
+21 kap. 2 § första stycket 1 och
+23 kap. 2 § första stycket 1 jorda-
+balken samt 7 kap. 5 § fjärde
+
+I ärenden där ansökan görs
+digitalt får även en handling som
+avses i 20 kap. 6 § 1, 21 kap. 2 §
+första stycket 1 och 23 kap. 2 §
+första stycket 1 jordabalken samt
+7 kap. 5 § fjärde stycket äkten-
 
 61
 
@@ -7810,19 +8066,31 @@ balken samt 7 kap. 5 § fjärde 7 kap. 5 § fjärde stycket äkten-
 
 Författningsförslag                        SOU 2024:38
 
-stycket äktenskapsbalken och skapsbalken och 23 § andra
-23 § andra stycket sambolagen stycket sambolagen (2003:376)
+stycket äktenskapsbalken och
+23 § andra stycket sambolagen
+(2003:376) ges in elektroniskt,
+om den elektroniska handlingen
+överensstämmer med originalet.
+I ärenden om anteckning och
+borttagande av anteckning enligt
+19 kap. 29 och 30 §§ jordabalken
+får anmälan eller annan handling
+som ska ligga till grund för åtgär-
+den ges in i form av ett elek-
+troniskt dokument.
 
-(2003:376) ges in elektroniskt, ges in elektroniskt, enligt före-
-om den elektroniska handlingen skrifter som Lantmäteriet får med-
-överensstämmer med originalet. dela.
-I ärenden om anteckning och I ärenden om anteckning och
-borttagande av anteckning enligt borttagande av anteckning enligt
-19 kap. 29 och 30 §§ jordabalken 19 kap. 29 och 30 §§ jordabalken
-får anmälan eller annan handling får anmälan eller annan handling
-som ska ligga till grund för åtgär- som ska ligga till grund för åtgär-
-den ges in i form av ett elek- den ges in i form av ett elek-
-troniskt dokument.    troniskt dokument.
+skapsbalken och 23 § andra
+stycket sambolagen (2003:376)
+ges in elektroniskt, enligt före-
+skrifter som Lantmäteriet får med-
+dela.
+I ärenden om anteckning och
+borttagande av anteckning enligt
+19 kap. 29 och 30 §§ jordabalken
+får anmälan eller annan handling
+som ska ligga till grund för åtgär-
+den ges in i form av ett elek-
+troniskt dokument.
 
 Denna lag träder i kraft den 1 juli 2026.
 
@@ -25685,51 +25953,91 @@ den 1 juni 2024.
 
 <!-- sida 615 -->
 
-Statens offentliga utredningar  2024
+Statens  offentliga utredningar 2024
 
 Kronologisk förteckning
 
-1\. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
-anställda mot våld, hot och trakas- – för ökad försörjningsberedskap. KN.
-serier. Ju.          20. Maskinellt värde för vissa industri-
-2\. Ett samordnat vaccinationsarbete byggnader – ett undantag från fastig-
-– för effektivare hantering av kom- hetsskatt. Fi.
-mande vacciner. Del 1 och 2. S. 21. Ett inkluderande jämställdhets-
-3\. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
-generationer. Nationell strategi för att 22. En ny organisation för förvaltning
-stärka judiskt liv i Sverige 2025–2034. av EU-medel. Fi.
+1\. Ett starkare skydd för offentlig-
+anställda mot våld, hot och trakas-
+serier. Ju.
+2\. Ett samordnat vaccinationsarbete
+– för effektivare hantering av kom-
+mande vacciner. Del 1 och 2. S.
+3\. Ett starkt judiskt liv för framtida
+generationer. Nationell strategi för att
+stärka judiskt liv i Sverige 2025–2034.
 Ku.
+4\. Inskränkningarna i upphovsrätten. Ju.
+5\. Förbättrad ordning och säkerhet
+vid förvar. Ju.
+6\. Steg mot stärkt kapacitet. Fi.
+7\. Ett säkrare och mer tillgängligt
+fastighetsregister. Ju.
+8\. Livsmedelsberedskap för en ny tid. LI.
+9\. Utvecklat samarbete för verksamhets-
+förlagd utbildning – långsiktiga åtgär-
+der för sjuksköterskeprogrammen. U.
+10\. Preskription av avlägsnandebeslut och
+vissa frågor om återreseförbud. Ju.
+11\. Rätt frågor på regeringens bord –
+en ändamålsenlig regeringsprövning
+på miljöområdet. KN.
+12\. Mål och mening med integration. A.
+13\. En effektivare kontaktförbuds-
+lagstiftning – ett utökat skydd
+för utsatta personer. Ju.
+14\. Arbetslivskriminalitet – myndighets-
+samverkan, en gemensam tipsfunk-
+tion, lärdomar från Belgien och
+gränsöverskridande arbete. A.
+15\. Nya regler för
+arbetskraftsinvandring m.m. Ju.
+16\. Växla yrke som vuxen – en reformerad
+vuxenutbildning och en ny yrkesskola
+för vuxna. U.
+17\. Skolor mot brott. U.
+18\. Nya regler om cybersäkerhet. Fö.
+
+19\. En ny beredskapssektor
+– för ökad försörjningsberedskap. KN.
+20\. Maskinellt värde för vissa industri-
+byggnader – ett undantag från fastig-
+hetsskatt. Fi.
+21\. Ett inkluderande jämställdhets-
+politiskt delmål mot våld. A.
+22\. En ny organisation för förvaltning
+av EU-medel. Fi.
 23\. En trygg uppväxt utan
-4\. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
-5\. Förbättrad ordning och säkerhet 24. Ett effektivt straffrättsligt skydd för
-vid förvar. Ju.        statliga stöd till företag. Fi.
-6\. Steg mot stärkt kapacitet. Fi. 25. En mer effektiv tillsyn över
-7\. Ett säkrare och mer tillgängligt socialtjänsten. S.
-fastighetsregister. Ju. 26. En utvärdering av förändringar
-8\. Livsmedelsberedskap för en ny tid. LI. i sjukförsäkringens regelverk
-9\. Utvecklat samarbete för verksamhets- under 2021 och 2022. S.
-förlagd utbildning – långsiktiga åtgär- 27. Kamerabevakning i offentlig
-der för sjuksköterskeprogrammen. U. verksamhet – lättnader och utökade
-10\. Preskription av avlägsnandebeslut och möjligheter. Ju.
-vissa frågor om återreseförbud. Ju. 28. Offentlighetsprincipen eller insyns-
-11\. Rätt frågor på regeringens bord – lag. Allmänhetens insyn i enskilda
-en ändamålsenlig regeringsprövning aktörer inom skolväsendet. U.
-på miljöområdet. KN. 29. Goda möjligheter till ökat välstånd.
-12\. Mål och mening med integration. A. Fi.
-13\. En effektivare kontaktförbuds- 30. En statlig ordning med
-lagstiftning – ett utökat skydd brottsförebyggande åtgärder
-för utsatta personer. Ju. för barn och unga. S.
-14\. Arbetslivskriminalitet – myndighets- 31. En ändamålsenlig vapenlagstiftning.
-samverkan, en gemensam tipsfunk- Del 1 och 2. Ju.
-tion, lärdomar från Belgien och 32. Åtgärder mot mervärdesskatte-
-gränsöverskridande arbete. A. bedrägerier. Fi.
-15\. Nya regler för     33. Delad hälsodata – dubbel nytta.
-arbetskraftsinvandring m.m. Ju. Regler för ökad interoperabilitet
-16\. Växla yrke som vuxen – en reformerad i hälso- och sjukvården. S.
-vuxenutbildning och en ny yrkesskola 34. Ansvar och oberoende
-för vuxna. U.          – public service i oroliga tider. Ku.
-17\. Skolor mot brott. U. 35. En framtid för alm och ask
-18\. Nya regler om cybersäkerhet. Fö. – förädling, forskning och
+nikotin, alkohol och lustgas. S.
+24\. Ett effektivt straffrättsligt skydd för
+statliga stöd till företag. Fi.
+25\. En mer effektiv tillsyn över
+socialtjänsten. S.
+26\. En utvärdering av förändringar
+i sjukförsäkringens regelverk
+under 2021 och 2022. S.
+27\. Kamerabevakning i offentlig
+verksamhet – lättnader och utökade
+möjligheter. Ju.
+28\. Offentlighetsprincipen eller insyns-
+lag. Allmänhetens insyn i enskilda
+aktörer inom skolväsendet. U.
+29\. Goda möjligheter till ökat välstånd.
+Fi.
+30\. En statlig ordning med
+brottsförebyggande åtgärder
+för barn och unga. S.
+31\. En ändamålsenlig vapenlagstiftning.
+Del 1 och 2. Ju.
+32\. Åtgärder mot mervärdesskatte-
+bedrägerier. Fi.
+33\. Delad hälsodata – dubbel nytta.
+Regler för ökad interoperabilitet
+i hälso- och sjukvården. S.
+34\. Ansvar och oberoende
+– public service i oroliga tider. Ku.
+35\. En framtid för alm och ask
+– förädling, forskning och
 finansiering. LI.
 
 <!-- sida 616 -->
@@ -25744,63 +26052,81 @@ vid fastighetstransaktioner. LI.
 
 <!-- sida 618 -->
 
-Statens offentliga utredningar  2024
+Statens  offentliga utredningar 2024
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet En effektivare kontaktförbuds-
-Mål och mening med integration. [12] lagstiftning – ett utökat skydd
-för utsatta personer. [13]
+Arbetsmarknadsdepartementet
+Mål och mening med integration. [12]
 Arbetslivskriminalitet – myndighets-
-samverkan, en gemensam tipsfunktion, Nya regler för arbetskraftsinvandring m.m.
-lärdomar från Belgien och gränsöver- [15]
-skridande arbete. [14] Kamerabevakning i offentlig
-Ett inkluderande jämställdhetspolitiskt verksamhet – lättnader och utökade
-delmål mot våld. [21] möjligheter. [27]
-En ändamålsenlig vapenlagstiftning.
-Del 1 och 2. [31]
+samverkan, en gemensam tipsfunktion,
+lärdomar från Belgien och gränsöver-
+skridande arbete. [14]
+Ett inkluderande jämställdhetspolitiskt
+delmål mot våld. [21]
 Finansdepartementet
 Steg mot stärkt kapacitet. [6]
-Klimat- och näringslivsdepartementet
 Maskinellt värde för vissa industribyggna-
-der – ett undantag från fastighetsskatt. Rätt frågor på regeringens bord – en
-[20]                  ändamålsenlig regeringsprövning på
-miljöområdet. [11]
+der – ett undantag från fastighetsskatt.
+[20]
 En ny organisation för förvaltning
-av EU-medel [22]    En ny beredskapssektor
-– för ökad försörjningsberedskap. [19]
+av EU-medel [22]
 Ett effektivt straffrättsligt skydd för
 statliga stöd till företag. [24]
-Kulturdepartementet
 Goda möjligheter till ökat välstånd. [29]
-Ett starkt judiskt liv för framtida
 Åtgärder mot mervärdesskatte-
-generationer. Nationell strategi för att
 bedrägerier. [32]
-stärka judiskt liv i Sverige 2025–2034. [3]
 Förenkla och förbättra! [36]
-Ansvar och oberoende
 Förbättrade ränteavdragsregler för
-– public service i oroliga tider. [34]
 företag. [37]
-Landsbygds- och infrastrukturdepartementet
 Försvarsdepartementet
-Livsmedelsberedskap för en ny tid. [8]
 Nya regler om cybersäkerhet. [18]
+Justitiedepartementet
+Ett starkare skydd för offentliganställda
+mot våld, hot och trakasserier. [1]
+Inskränkningarna i upphovsrätten. [4]
+Förbättrad ordning och säkerhet
+vid förvar. [5]
+Ett säkrare och mer tillgängligt
+fastighetsregister. [7]
+Preskription av avlägsnandebeslut och
+vissa frågor om återreseförbud. [10]
+
+En effektivare kontaktförbuds-
+lagstiftning – ett utökat skydd
+för utsatta personer. [13]
+Nya regler för arbetskraftsinvandring m.m.
+[15]
+Kamerabevakning i offentlig
+verksamhet – lättnader och utökade
+möjligheter. [27]
+En ändamålsenlig vapenlagstiftning.
+Del 1 och 2. [31]
+Klimat- och näringslivsdepartementet
+Rätt frågor på regeringens bord – en
+ändamålsenlig regeringsprövning på
+miljöområdet. [11]
+En ny beredskapssektor
+– för ökad försörjningsberedskap. [19]
+Kulturdepartementet
+Ett starkt judiskt liv för framtida
+generationer. Nationell strategi för att
+stärka judiskt liv i Sverige 2025–2034. [3]
+Ansvar och oberoende
+– public service i oroliga tider. [34]
+Landsbygds- och infrastrukturdepartementet
+Livsmedelsberedskap för en ny tid. [8]
 En framtid för alm och ask
 – förädling, forskning och finansiering.
-Justitiedepartementet
 [35]
-Ett starkare skydd för offentliganställda Digitala fastighetsköp & Förköpsrätt vid
-mot våld, hot och trakasserier. [1] fastighetstransaktioner. [38]
-Inskränkningarna i upphovsrätten. [4]
-Förbättrad ordning och säkerhet Socialdepartementet
-vid förvar. [5]
+Digitala fastighetsköp & Förköpsrätt vid
+fastighetstransaktioner. [38]
+Socialdepartementet
 Ett samordnat vaccinationsarbete – för
-Ett säkrare och mer tillgängligt effektivare hantering av kommande
-fastighetsregister. [7] vacciner. Del 1 och 2. [2]
-Preskription av avlägsnandebeslut och En trygg uppväxt utan
-vissa frågor om återreseförbud. [10] nikotin, alkohol och lustgas. [23]
+effektivare hantering av kommande
+vacciner. Del 1 och 2. [2]
+En trygg uppväxt utan
+nikotin, alkohol och lustgas. [23]
 
 <!-- sida 619 -->
 
@@ -26509,7 +26835,7 @@ LANTMÄTERIET
 Härigenom föreskrivs att 7 kap. 10 §, 8 kap. 3 §, 13 kap. 3 §, 14 kap. 5 § och
 15 kap. 2 § ska ha följande lydelse.
 
-Nuvarande lydelse         Föreslagen lydelse
+Nuvarande lydelse        Föreslagen lydelse
 
 7 kap.
 10 §
@@ -26532,26 +26858,47 @@ gälla om det tekniska förfarandet vid
 upprättande, verifiering och validering
 av innehåll i och utställare av ett elek-
 troniskt dokument.
+
 8 kap.
 3 §
 Avtal om jordbruksarrende, Avtal om jordbruksarrende,
 bostadsarrende och anläggnings- bostadsarrende och anläggnings-
-arrende skall upprättas skriftligen. I arrende ska upprättas skriftligen. I
-handlingen skall samtliga avtalsvillkor handlingen ska samtliga avtalsvillkor
-anges. Ändring eller tillägg som ej anges. Ändring eller tillägg som inte
-avfattas skriftligen är utan verkan. avfattas skriftligen är utan verkan.
-Har arrendatorn tillträtt arrende- Har arrendatorn tillträtt arrende-
-stället utan att skriftligt avtal blivit stället utan att skriftligt avtal blivit
-upprättat och har det ej berott på upprättat och har det inte berott på
-honom att giltigt arrendeavtal seder- arrendatorn att giltigt arrendeavtal
-mera icke kommit till stånd, har han sedermera inte kommit till stånd, har
-rätt till ersättning för skada. Väckes ej denne rätt till ersättning för skada.
-talan om ersättning inom ett år från det Väcks inte talan om ersättning inom ett
-jorden avträddes, är rätten till sådan år från det jorden avträddes, är rätten
-talan förlorad.           till sådan talan förlorad.
-Avtal om lägenhetsarrende skall Avtal om lägenhetsarrende ska upp-
-upprättas skriftligen, om ej annat rättas skriftligen, om inte annat
-överenskommes.            överenskoms.
+
+arrende skall upprättas skriftligen. I
+handlingen skall samtliga avtalsvillkor
+anges. Ändring eller tillägg som ej
+avfattas skriftligen är utan verkan.
+Har arrendatorn tillträtt arrende-
+stället utan att skriftligt avtal blivit
+upprättat och har det ej berott på
+honom att giltigt arrendeavtal seder-
+
+arrende ska upprättas skriftligen. I
+handlingen ska samtliga avtalsvillkor
+anges. Ändring eller tillägg som inte
+avfattas skriftligen är utan verkan.
+Har arrendatorn tillträtt arrende-
+stället utan att skriftligt avtal blivit
+upprättat och har det inte berott på
+arrendatorn att giltigt arrendeavtal
+
+mera icke kommit till stånd, har han
+rätt till ersättning för skada. Väckes ej
+talan om ersättning inom ett år från det
+jorden avträddes, är rätten till sådan
+talan förlorad.
+Avtal om lägenhetsarrende skall
+upprättas skriftligen, om ej annat
+överenskommes.
+
+sedermera inte kommit till stånd, har
+denne rätt till ersättning för skada.
+Väcks inte talan om ersättning inom ett
+år från det jorden avträddes, är rätten
+till sådan talan förlorad.
+Avtal om lägenhetsarrende ska upp-
+rättas skriftligen, om inte annat
+överenskoms.
 Skriftligt avtal enligt första och
 tredje stycket ingås genom att det
 
@@ -26566,12 +26913,20 @@ ras av parterna.
 
 13 kap.
 3 §
-Avtal varigenom tomträtt upplåtes Avtal varigenom tomträtt upplåts
-skall upprättas skriftligen. I handlingen ska upprättas skriftligen. I handlingen
-skall uttryckligen anges att upplåtelsen ska uttryckligen anges att upplåtelsen
-avser tomträtt.           avser tomträtt.
-Ändring eller tillägg som ej avfattas Ändring eller tillägg som inte
-skriftligen är utan verkan. avfattas skriftligen är utan verkan.
+
+Avtal varigenom tomträtt upplåtes
+skall upprättas skriftligen. I handlingen
+skall uttryckligen anges att upplåtelsen
+avser tomträtt.
+Ändring eller tillägg som ej avfattas
+skriftligen är utan verkan.
+
+Avtal varigenom tomträtt upplåts
+ska upprättas skriftligen. I handlingen
+ska uttryckligen anges att upplåtelsen
+avser tomträtt.
+Ändring eller tillägg som inte
+avfattas skriftligen är utan verkan.
 Skriftligt avtal enligt första och
 andra stycket samt överenskommelse
 enligt 22 § ingås genom att det skrivs
@@ -26579,30 +26934,53 @@ under eller på annat sätt signeras av
 parterna. För avtal enligt andra
 stycket samt överenskommelse enligt
 22 § gäller bestämmelserna i 7 kap.
-10 § fjärde stycket.
+
+10§ fjärde stycket.
+
 14 kap.
 5 §
 Servitut upplåtes skriftligen av den Servitut upplåts skriftligen av den
-tjänande fastighetens ägare. I upplåt- tjänande fastighetens ägare genom att
-elsehandlingen skall anges den härsk- denne skriver under eller på annat sätt
-ande och den tjänande fastigheten samt signerar upplåtelsehandlingen. I upp-
-ändamålet med upplåtelsen. Upplåtelse låtelsehandlingen ska anges den härsk-
-som icke uppfyller dessa föreskrifter ande och den tjänande fastigheten samt
-har ej verkan som upplåtelse av ändamålet med upplåtelsen. Upplåtelse
-servitut.                 som inte uppfyller dessa föreskrifter
+
+tjänande fastighetens ägare. I upplåt-
+elsehandlingen skall anges den härsk-
+ande och den tjänande fastigheten samt
+ändamålet med upplåtelsen. Upplåtelse
+som icke uppfyller dessa föreskrifter
+har ej verkan som upplåtelse av
+servitut.
+
+tjänande fastighetens ägare genom att
+denne skriver under eller på annat sätt
+signerar upplåtelsehandlingen. I upp-
+låtelsehandlingen ska anges den härsk-
+ande och den tjänande fastigheten samt
+ändamålet med upplåtelsen. Upplåtelse
+som inte uppfyller dessa föreskrifter
 har inte verkan som upplåtelse av
 servitut.
+
 15 kap.
+
+Avtal om rätt till elektrisk kraft
+skall upprättas skriftligen. I upplåtelse-
+handlingen skall anges den kraftstation
+från vilken kraften skall tillhandahållas
+samt den fastighet till vilken stationen
+hör.
+Upplåtelse som icke uppfyller dessa
+föreskrifter har ej verkan som upplå-
+telse av rätt till elektrisk kraft.
+
 2 §
-Avtal om rätt till elektrisk kraft Avtal om rätt till elektrisk kraft ska
-skall upprättas skriftligen. I upplåtelse- upprättas skriftligen och ingås genom
-handlingen skall anges den kraftstation att det skrivs under eller på annat sätt
-från vilken kraften skall tillhandahållas signeras av parterna. I upplåtelse-
-samt den fastighet till vilken stationen handlingen ska anges den kraftstation
-hör.                      från vilken kraften ska tillhandahållas
-Upplåtelse som icke uppfyller dessa samt den fastighet till vilken stationen
-föreskrifter har ej verkan som upplå- hör.
-telse av rätt till elektrisk kraft. Upplåtelse som inte uppfyller dessa
+Avtal om rätt till elektrisk kraft ska
+upprättas skriftligen och ingås genom
+att det skrivs under eller på annat sätt
+signeras av parterna. I upplåtelse-
+handlingen ska anges den kraftstation
+från vilken kraften ska tillhandahållas
+samt den fastighet till vilken stationen
+hör.
+Upplåtelse som inte uppfyller dessa
 föreskrifter har inte verkan som upplåt-
 else av rätt till elektrisk kraft.
 
@@ -26615,13 +26993,12 @@ Denna lag träder i kraft den 1 juli 2026.
 LANTMÄTERIET
 
 1.2 Förslag till lag om ändring i fastighetsbildningslagen
-
 (1970:988)
+
 Härigenom föreskrivs att 1 kap. 5 §, 5 kap. 18 §, 10 kap. 8 §, 12 kap. 2 §, 14 kap. 5 §
 ska ha följande lydelse.
 
-Nuvarande lydelse         Föreslagen lydelse
-
+Nuvarande lydelse        Föreslagen lydelse
 1 kap.
 5 §2
 Närmare föreskrifter för tillämpningen av denna lag meddelas av regeringen
@@ -26638,32 +27015,53 @@ avses i 5 kap. 18 § tredje stycket,
 avseende tilldelning, 12 kap. 2 § och
 14 kap. 5 §. Elektroniska förfaranden
 ska uppfylla höga krav på säkerhet.
+
 5 kap.
 18 §3
 Från nedan angivna bestämmelser i detta kapitel till skydd för enskilt intresse
 får avsteg göras i följande avseenden
 1\. 4 § första stycket och 5 § första 1. 4 § första stycket och 5 § första
+
 stycket, om ägarna av de fastigheter stycket, om ägarna av de fastigheter
 som beröres av regleringen medger som berörs av regleringen medger det,
+
 det,
 2\. 6 § andra stycket, 7 och 10–12 §§ samt 15 § tredje stycket, om de sakägare
 vilkas rätt är beroende av åtgärden samtycker till det,
+
 3\. 8 §, om fastighetens ägare och, om fastigheten är upplåten med tomträtt,
 även tomträttshavaren medger det,
-4\. 13 och 14 §§, om det medges av 4. 13 och 14 §§, om det medges av
-den som ålägges att betala mer än han den som åläggs att betala mer än han
-annars skulle ha varit skyldig att betala eller hon annars skulle ha varit skyldig
-och om avvikelsen från bestämmel- att betala och om avvikelsen från
-serna icke sker i otillbörligt syfte. bestämmelserna icke sker i otillbörligt
+
+4\. 13 och 14 §§, om det medges av
+den som ålägges att betala mer än han
+annars skulle ha varit skyldig att betala
+och om avvikelsen från bestämmel-
+serna icke sker i otillbörligt syfte.
+
+Avser regleringen fastighet som
+svarar för fordran, får avsteg från
+10–14 §§ med stöd av ägarens sam-
+tycke ske endast om även fordringens
+innehavare medger det. Besväras
+fastigheten av gemensam inteckning,
+fordras dessutom de medgivanden från
+fastighetsägare och fordringshavare
+
+4\. 13 och 14 §§, om det medges av
+den som åläggs att betala mer än han
+eller hon annars skulle ha varit skyldig
+att betala och om avvikelsen från
+bestämmelserna icke sker i otillbörligt
 syfte.
-Avser regleringen fastighet som Avser regleringen fastighet som
-svarar för fordran, får avsteg från svarar för fordran, får avsteg från
-10–14 §§ med stöd av ägarens sam- 10–14 §§ med stöd av ägarens sam-
-tycke ske endast om även fordringens tycke ske endast om även fordringens
-innehavare medger det. Besväras innehavare medger det. Besväras
-fastigheten av gemensam inteckning, fastigheten av gemensam inteckning,
-fordras dessutom de medgivanden från fordras dessutom de medgivanden från
-fastighetsägare och fordringshavare fastighetsägare och fordringshavare
+Avser regleringen fastighet som
+svarar för fordran, får avsteg från
+10–14 §§ med stöd av ägarens sam-
+tycke ske endast om även fordringens
+innehavare medger det. Besväras
+fastigheten av gemensam inteckning,
+fordras dessutom de medgivanden från
+fastighetsägare och fordringshavare
+
 2 Senaste lydelse 1977:362.
 3 Senaste lydelse 2003:380.
 
@@ -26673,33 +27071,59 @@ fastighetsägare och fordringshavare fastighetsägare och fordringshavare
 
 LANTMÄTERIET
 
-som i 22 kap. 11 § jordabalken före- som i 22 kap. 11 § jordabalken före-
-skrives för relaxation. Medgivande av skrivs för relaxation. Medgivande av
-rättsägare fordras ej, om regleringen är rättsägare fordras inte, om regleringen
-väsentligen utan betydelse för honom. är väsentligen utan betydelse för
-Ägares och tomträttshavares med- denne.
-givande enligt första stycket 3 till Ägares och tomträttshavares med-
-minskning av fastighets graderings- givande enligt första stycket 3 till
-värde skall upprättas skriftligen. minskning av fastighets graderings-
-Beträffande rätten att lämna sådant värde ska upprättas skriftligen och
-medgivande gäller samma villkor som skrivas under eller på annat sätt signe-
-för överlåtelse av fast egendom. ras. Beträffande rätten att lämna
-Sådant samtycke av sambo som avses i sådant medgivande gäller samma
-23 § sambolagen (2003:376) krävs villkor som för överlåtelse av fast
-dock endast om ärende om anteckning egendom. Sådant samtycke av sambo
-i fastighetsregistrets inskrivningsdel av som avses i 23 § sambolagen
-anmälan enligt 5 § andra stycket (2003:376) krävs dock endast om
-samma lag var upptaget på inskriv- ärende om anteckning i fastighets-
-ningsdag när medgivandet gjordes. registrets inskrivningsdel av anmälan
-Medgivande eller samtycke enligt enligt 5 § andra stycket samma lag var
-första stycket till åtgärd som berör upptaget på inskrivningsdag när
-samfälld mark skall, om samfällig- medgivandet gjordes.
-heten förvaltas av en samfällighets- Medgivande eller samtycke enligt
-förening, lämnas av föreningen i stället första stycket till åtgärd som berör
-för av delägarna.         samfälld mark ska, om samfälligheten
+som i 22 kap. 11 § jordabalken före-
+skrives för relaxation. Medgivande av
+rättsägare fordras ej, om regleringen är
+väsentligen utan betydelse för honom.
+Ägares och tomträttshavares med-
+givande enligt första stycket 3 till
+minskning av fastighets graderings-
+värde skall upprättas skriftligen.
+Beträffande rätten att lämna sådant
+medgivande gäller samma villkor som
+för överlåtelse av fast egendom.
+Sådant samtycke av sambo som avses i
+23 § sambolagen (2003:376) krävs
+dock endast om ärende om anteckning
+i fastighetsregistrets inskrivningsdel av
+anmälan enligt 5 § andra stycket
+samma lag var upptaget på inskriv-
+ningsdag när medgivandet gjordes.
+Medgivande eller samtycke enligt
+första stycket till åtgärd som berör
+samfälld mark skall, om samfällig-
+heten förvaltas av en samfällighets-
+förening, lämnas av föreningen i stället
+för av delägarna.
+
+som i 22 kap. 11 § jordabalken före-
+skrivs för relaxation. Medgivande av
+rättsägare fordras inte, om regleringen
+är väsentligen utan betydelse för
+denne.
+Ägares och tomträttshavares med-
+givande enligt första stycket 3 till
+minskning av fastighets graderings-
+värde ska upprättas skriftligen och
+skrivas under eller på annat sätt signe-
+ras. Beträffande rätten att lämna
+sådant medgivande gäller samma
+villkor som för överlåtelse av fast
+egendom. Sådant samtycke av sambo
+som avses i 23 § sambolagen
+(2003:376) krävs dock endast om
+ärende om anteckning i fastighets-
+registrets inskrivningsdel av anmälan
+enligt 5 § andra stycket samma lag var
+upptaget på inskrivningsdag när
+medgivandet gjordes.
+Medgivande eller samtycke enligt
+första stycket till åtgärd som berör
+samfälld mark ska, om samfälligheten
 förvaltas av en samfällighetsförening,
 lämnas av föreningen i stället för av
 delägarna.
+
 10 kap.
 8 §
 Har styckningsdelarna skilda ägare, Har styckningsdelarna skilda ägare,
@@ -26712,13 +27136,13 @@ har betydelse för avstyckningen, skall har betydelse för avstyckningen, ska
 även överenskommelsen beaktas i den även överenskommelsen beaktas i den
 mån den icke strider mot vad som varit mån den inte strider mot vad som varit
 avsett vid tillkomsten av grundhand- avsett vid tillkomsten av grundhand-
-lingen.                   lingen. Sådan överenskommelse träffas
+lingen.                  lingen. Sådan överenskommelse träffas
 Återkallar sökanden sin begäran om genom att den skrivs under eller på
 avstyckning, får förrättningen ej annat sätt signeras av sakägarna.
 inställas utan att annan sakägare fått Återkallar sökanden sin begäran om
 tillfälle att yrka att den fortsättes och avstyckning, får förrättningen inte
 han underlåtit att framställa sådant ställas in utan att annan sakägare fått
-yrkande.                  tillfälle att yrka att den fortsätts och
+yrkande.                 tillfälle att yrka att den fortsätts och
 han eller hon avstått från att framställa
 sådant yrkande.
 
@@ -26730,47 +27154,85 @@ LANTMÄTERIET
 
 12 kap.
 2 §4
+
 En fastighet som ägs av någon som är gift och är dennes giftorättsgods får
 inte sammanläggas med en fastighet som är samma makes enskilda egendom.
+
 Fastigheter som tillhör makar var Fastigheter som tillhör makar var
 för sig får sammanläggas, om makarna för sig får sammanläggas, om makarna
 träffar skriftligt avtal om att äga var sin träffar skriftligt avtal om att äga var sin
-bestämda andel i den nybildade fastig- bestämda andel i den nybildade fastig-
-heten och om vardera makens andel i heten och om vardera makens andel i
-sin helhet kommer att utgöra den sin helhet kommer att utgöra den
-makens giftorättsgods eller enskilda makens giftorättsgods eller enskilda
-egendom. Innefattar avtalet gåva, får egendom. Sådant avtal träffas genom
-sammanläggning ske bara om avtalet att det skrivs under eller på annat sätt
-har registrerats enligt 16 kap. signeras av makarna. Innefattar avtalet
-äktenskapsbalken.         gåva, får sammanläggning ske bara om
+
+bestämda andel i den nybildade fastig-
+heten och om vardera makens andel i
+sin helhet kommer att utgöra den
+makens giftorättsgods eller enskilda
+egendom. Innefattar avtalet gåva, får
+sammanläggning ske bara om avtalet
+har registrerats enligt 16 kap.
+äktenskapsbalken.
+
+bestämda andel i den nybildade fastig-
+heten och om vardera makens andel i
+sin helhet kommer att utgöra den
+makens giftorättsgods eller enskilda
+egendom. Sådant avtal träffas genom
+att det skrivs under eller på annat sätt
+signeras av makarna. Innefattar avtalet
+gåva, får sammanläggning ske bara om
 avtalet har registrerats enligt 16 kap.
 äktenskapsbalken.
+
 14 kap.
 5 §
-Avser fastighetsbestämning fråga Avser fastighetsbestämning fråga
-om sträckningen av annan gräns än om sträckningen av annan gräns än
-sådan som rör allmänt vattenområde sådan som rör allmänt vattenområde
-och träffas skriftlig överenskommelse och träffas skriftlig överenskommelse
-om gränsens sträckning, skall överens- om gränsens sträckning, ska överens-
-kommelsen läggas till grund för kommelsen läggas till grund för
-fastighetsbestämningsbeslutet. Över- fastighetsbestämningsbeslutet. Sådan
+
+Avser fastighetsbestämning fråga
+om sträckningen av annan gräns än
+sådan som rör allmänt vattenområde
+och träffas skriftlig överenskommelse
+om gränsens sträckning, skall överens-
+kommelsen läggas till grund för
+fastighetsbestämningsbeslutet. Över-
+
+Avser fastighetsbestämning fråga
+om sträckningen av annan gräns än
+sådan som rör allmänt vattenområde
+och träffas skriftlig överenskommelse
+om gränsens sträckning, ska överens-
+kommelsen läggas till grund för
+fastighetsbestämningsbeslutet. Sådan
+
 enskommelse får ej träffas, förrän överenskommelse träffas genom att
 gränssträckningen utstakats i behövlig den skrivs under eller på annat sätt
 omfattning. I överenskommelsen behö- signeras. Överenskommelse får inte
-ver icke deltaga andra sakägare än de träffas, förrän gränssträckningen
-som är närvarande vid sammanträde då utstakats i behövlig omfattning. I
-frågan behandlas eller, om förrätt- överenskommelsen behöver inga
-ningen handlägges utan sammanträde, andra sakägare delta än de som är
-som vid förrättningen fört talan i närvarande vid sammanträde då frågan
-frågan.                   behandlas eller, om förrättningen
-Överenskommelse skall icke beak- handläggs utan sammanträde, som vid
-tas, om den avtalade sträckningen förrättningen fört talan i frågan.
-väsentligt avviker från gränsens rätta Överenskommelse ska inte beaktas,
-läge eller överenskommelsen skulle om den avtalade sträckningen väsent-
-medföra att fastighets värde undergår ligt avviker från gränsens rätta läge
-minskning av betydelse eller att eller överenskommelsen skulle med-
+
+ver icke deltaga andra sakägare än de
+som är närvarande vid sammanträde då
+frågan behandlas eller, om förrätt-
+ningen handlägges utan sammanträde,
+som vid förrättningen fört talan i
+frågan.
+Överenskommelse skall icke beak-
+tas, om den avtalade sträckningen
+väsentligt avviker från gränsens rätta
+läge eller överenskommelsen skulle
+medföra att fastighets värde undergår
+minskning av betydelse eller att
+
+träffas, förrän gränssträckningen
+utstakats i behövlig omfattning. I
+överenskommelsen behöver inga
+andra sakägare delta än de som är
+närvarande vid sammanträde då frågan
+behandlas eller, om förrättningen
+handläggs utan sammanträde, som vid
+förrättningen fört talan i frågan.
+Överenskommelse ska inte beaktas,
+om den avtalade sträckningen väsent-
+ligt avviker från gränsens rätta läge
+eller överenskommelsen skulle med-
+
 olägenhet uppkommer från allmän föra att fastighets värde undergår
-synpunkt.                 minskning av betydelse eller att
+synpunkt.                minskning av betydelse eller att
 olägenhet uppkommer från allmän
 synpunkt.
 
