@@ -382,16 +382,39 @@ Vård & Omsorgs protokoll räknar upp behovsbeskrivningarna som bilagor
 2022–2026; lokalbehovsplanen 2021 står i handlingarna och har inga
 bilagor. Lokalbehovsplanen 2024–2028 bordlades 2022-10-19 och beslutades
 2022-11-16. Lokalbehovet 2027–2031 (hösten 2025) saknas i poolen.
-Lokalfilen har nämndens steg 2021–2026 och lokalplanen 2025 och 2026
-(löpnummer 811–826). Behov som är teknik eller utrustning i befintliga
+Lokalfilen har nämndens steg 2021–2026 och lokalplanen 2021–2026
+(löpnummer 803–826). Behov som är teknik eller utrustning i befintliga
 lokaler (laddstolpar, nödvatten, låssystem, trygghetslarm, wifi,
 hörslingor, komfortkyla, skugga och möbler utomhus, fastigheternas
 status) och flytten av arkivet står inte med, utom reservkraften som har
 ett eget löpnummer i lokalplanen. Åtgärdsvalet för Ekhaga 2022 står på
 samma sida som avvecklingen och är ett steg med den. Lokalplanens poster 827 och 828 ("Avveckling
 lokal hemtjänst", "Anpassning lokal hemtjänst") säger inte vilken lokal
-och står inte med. Startbesluten och servicenämndens projekt för VO är
-inte lästa än.
+och står inte med.
+
+Projekten följs genom alla organs handlingar på samma sätt som för GA:
+kommunstyrelsens startbeslut (Anneberg 2021, Signeshus 2024), servicenämndens
+"Projektinformation" och bokslut, och Vård & Omsorgs egna rapporter om när
+ett boende öppnade (Särö 2021, Björkris mars 2023, Signeshus april 2026).
+Servicenämndens bokslut anger dess egna projektnummer; där löpnumret inte
+står med (Hede i driftprojekten, Pölagården bland de vakanta lokalerna)
+eller där statusen läses ur en sifferkolumn (Vallda) är steget tolkat.
+Särö står inte i lokalplanen 2021 eller senare men har fått ett eget behov,
+eftersom boendet ersatte Bukärrsgården. Ekhagas startbeslut 2022 står bara
+som förslag (arbetsutskottet och kommunstyrelsens handlingar), eftersom
+kommunstyrelsens protokoll 2022-02-22 saknas i poolen. Bukärrsgården
+tömdes 2021 men hyrs vidare som tillfälligt boende och har inget utfört
+steg.
+
+Byggnämndens och fullmäktiges detaljplaner står som steg på gång. Nyckeln
+är fastighetsbeteckningen eller kvarteret: Kolla 5:6 är Gräskärrs förskola
+(nämnden för Förskola & Grundskola 2022-12-15), Iserås 19:1 är Iseråsskolan,
+Åsa 5:246 är Ölmevallaskolan (kommunstyrelsens handlingar 2023-10-24) och
+kvarteren Gjutaren och Liljan är skolan i kvarteret Liljan. Planer som inte går att knyta till ett visst behov
+står inte med: Annebergs centrum (planen nämner varken förskola eller
+boende) och Aranäs etapp 4 (utbildningslokaler utan nämnd).
+Byggloven för kommunens egna lokaler beslutas på delegation och syns inte i
+protokollen.
 
 ### Nämndernas initiativärenden
 
