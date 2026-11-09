@@ -353,6 +353,31 @@ Individ & Familjeomsorg (kontrollerat 2026-11-09 i poolen) har samma form
   "Uppföljning och prognos"), delårsrapporten och årsredovisningen. Den
   månatliga "Månadsuppföljning till nämnd" står inte med.
 
+Teknik (kontrollerat 2026-11-09 i poolen) har samma form 2020–2026,
+med de här skillnaderna:
+
+- **Poolen börjar 2019.** Arkivmappen för nämnden står i konfigurationen
+  men inget från 2015–2018 är hämtat, och 2019 har bara en skannad
+  handling. Arbetsutskottet har protokoll från 2020 och handlingar från
+  2024; dess ärenden räknas till nämnden.
+- **Nämndmål och fokusområden.** Nämndmålen 2020–2023 (till exempel
+  Kretslopp) har bytt rubrik över åren och är grupperade under den
+  senaste rubriken; två grupperingar, om investeringstakten och om att
+  vara möjliggörare, är tolkade. Från 2024 är målen nämndens
+  formuleringar efter planeringsdagen 2023. Nämndens direktiv står från
+  2025, ur delårsrapporten och årsredovisningen, eftersom avsnittet om
+  direktiv i nämndbudget 2025 är tomt i poolen.
+- **Statusen** tas ur delårsrapporten (prognos) och årsredovisningen
+  (utfall).
+- **Saknas i poolen:** handlingarna till åtta av nio möten 2020, till ett
+  av tre möten 2022 och till sju av tio möten 2023, så delårsrapporten
+  2022 och nämndbudgetarna 2023 och 2024 finns bara som beslut i
+  protokollet. Ett tjugotal handlingar är skannade.
+- **Protokollen** har aprilrapporten, delårsrapporten, årsredovisningen
+  och 2020 "Uppföljning av aktiviteter och måluppfyllnad". Dragningar är
+  förvaltningsbudget och genomförandeplan, nämndbudgeten och
+  bearbetningen av målformuleringen 2023.
+
 ### Kommunfullmäktiges mål och direktiv
 
 Fullmäktiges egen sida (K35,
@@ -499,6 +524,20 @@ boende) och Aranäs etapp 4 (utbildningslokaler utan nämnd).
 Byggloven för kommunens egna lokaler beslutas på delegation och syns inte i
 protokollen.
 
+Teknik äger själv de flesta av sina lokaler (reningsverk, vattenverk,
+pumpstationer och återvinningscentraler) och har därför bara ett
+löpnummer i lokalplanen, 1406 Duveheds omlastningscentral (2021–2023).
+Behoven är nämndens anläggningar och de lokaler nämnden hyr:
+omlastningen i Duvehed, som servicenämnden byggde och slutredovisade
+2025, och dess utbyggnad, lagringsytorna på Teknikens hus,
+återvinningscentralerna och Framtidens avloppsrening vid Hammargård, som
+fullmäktige godkände som projekt 2024 (startbeslut) och vars detaljplan
+för Kungsbacka 6:27 och Hammargård 1:7 följs genom fastighetsbeteckningen.
+Återvinningscentralen syd följs från planen i Frillesås-Rya 3:77 till
+lokaliseringen i Kläppa 2:2. Parkeringshuset Linden står med som utfört
+2021. Gator, VA-ledningar och cykelvägar är investeringar men inte
+lokaler och står inte med.
+
 ### Nämndernas initiativärenden
 
 Initiativfilen (K37,
@@ -568,6 +607,14 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   står som steg i de ärendena. Kommunstyrelsens beslut om pengar till
   nämndens satsningar står som uppföljning.
 
+- **Teknik** (2020–2026, kontrollerat 2026-11-09) skriver
+  "Initiativärende" och partiet med förkortning eller utskrivet.
+  Gemensamma initiativ har partierna som avsändare så som protokollet
+  skriver dem. Arbetsutskottets initiativ räknas till nämnden. Nämndens
+  egna uppdrag till förvaltningen (Kyrkogatan, en offentlig toalett,
+  dricksvattenavtalet, gatubelysning längs statlig väg med flera) följs
+  som initiativ med avsändaren `Nämnden`.
+
 ### Nämndernas redovisningar
 
 Redovisningssidan (K42,
@@ -627,6 +674,17 @@ inte med. Handlingsplanerna
 (åtgärdsplanen för budget i balans 2020–2021 med sina uppföljningar,
 psykisk hälsa, suicidprevention, konkurrensutsättning, digitalplanen och
 planen för höjd kvalitet i bemötande) står på handlingsplanssidan.
+
+Teknik (kontrollerat 2026-11-09) har återrapporter som nämnden beställt
+(uppdragen till förvaltningen 2021, parkeringshuset Linden,
+färdtjänstarbetet, förstudierna om vatten och avlopp och om de digitala
+vattenmätarna, säkerhetsarbetet och de löpande projektkostnaderna).
+Återkommande är dataskyddet, det systematiska arbetsmiljöarbetet,
+kvalitetsrapporten för färdtjänst och miljörapporterna. Nämndens egna
+planer (vattentjänstplanen, dagvattenplanen, trafikstrategin, gång- och
+cykelplanen, lekplatserna, återvinningscentralerna, slamstrategin,
+trafikförsörjningsprogrammen och budget i balans) står på
+handlingsplanssidan; remisser av andras planer står inte med.
 
 ### Dokumentens innehåll
 
