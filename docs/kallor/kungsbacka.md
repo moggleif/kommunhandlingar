@@ -406,6 +406,16 @@ kommunstyrelsens protokoll 2022-02-22 saknas i poolen. Bukärrsgården
 tömdes 2021 men hyrs vidare som tillfälligt boende och har inget utfört
 steg.
 
+Byggnämndens och fullmäktiges detaljplaner står som steg på gång när
+planen gäller just den lokalen (Gräskärrs förskola 2023, Iseråsskolan 2024)
+och som tolkade när planen gäller ett större område (kvarteren Gjutaren och
+Liljan, laga kraft 2023). Planer som inte går att knyta till ett visst behov
+står inte med: Annebergs centrum (planen nämner varken förskola eller
+boende), skolan i Åsa 5:246 (en ny F–3-skola som inte går att säkert koppla
+till ett löpnummer) och Aranäs etapp 4 (utbildningslokaler utan nämnd).
+Byggloven för kommunens egna lokaler beslutas på delegation och syns inte i
+protokollen.
+
 ### Nämndernas initiativärenden
 
 Initiativfilen (K37,
