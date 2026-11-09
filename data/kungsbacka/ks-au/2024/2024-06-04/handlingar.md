@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1d12ec9/1717407862
 sha256: e91dc06b074455510cf9108a16189da4abb53e84bfabab3aa9f94496e2403941
 bytes: 14423329
 sidor: 199
-hamtad: 2026-10-25T06:18:08+00:00
-konverterad: 2026-10-25T06:18:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:36:45+00:00
+konverterad: 2026-11-09T10:37:44+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok]
@@ -1924,7 +1924,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 42 -->
 
-| ” ;
 YE  Soerigedemokraterna
 
 Kungsbacka 200611
@@ -3677,29 +3676,39 @@ främjar drivmedelsutvecklingen och övergången till fossilfria drivmedelsalter
 Det finns risker relaterade till tillgänglighet och eventuella ändringar i skattetrycket på
 biodrivmedel, vilket kan påverka framtida kostnader. Hallandstrafiken strävar efter att fortsätta
 utvecklingen mot minskad miljöpåverkan genom att öka antalet resenärer, effektivisera resandet
-
 och investera i nya teknologier för att skapa en ännu mer hållbar kollektivtrafik.
 
-Mål                                   Indikatorer/Uppföljning
-Kollektivtrafiken ska drivas med fossilfria bränslen Utsläppsnivåer - fordonsdatabas
+Mål
+Kollektivtrafiken ska drivas med fossilfria bränslen
 
+Ökad elektrifiering inom busstrafiken
+
+Energianvändning per km. (kWh/km)
+
+Energianvändning per personkm (kWh/pkm)
+
+Energianvändning (MWh)
+
+Indikatorer/Uppföljning
+Utsläppsnivåer - fordonsdatabas
 FRIDA
-Ökad elektrifiering inom busstrafiken Antal elbussar – fordonsdatabas
+Antal elbussar – fordonsdatabas
 FRIDA
-Energianvändning per km. (kWh/km)     kWh/km – fordonsdatabas FRIDA
-Energianvändning per personkm (kWh/pkm) kWh/person km – fordonsdatabas
+kWh/km – fordonsdatabas FRIDA
+
+kWh/person km – fordonsdatabas
 FRIDA
-Energianvändning (MWh)                Totalt MWh – fordonsdatabas FRIDA
+Totalt MWh – fordonsdatabas FRIDA
 
 Andel körda kilometer med fossilfria bränslen
-
 (stad- och regionbusstrafik)
 99,6% 99,6% 99,80% 100,00% 100,00% 100,00%
 100%                  95,9%
 
 79,7%
-80%        75,9%
+80%       75,9%
 71,6%
+
 60%
 
 40%
@@ -3707,8 +3716,7 @@ Andel körda kilometer med fossilfria bränslen
 20%
 
 0%
-
-2014  2015  2016 2017  2018 2019  2020 2021  2022  2023
+2014 2015  2016  2017 2018  2019 2020  2021 2022  2023
 
 <!-- sida 94 -->
 
@@ -4902,44 +4910,54 @@ Haverdalsbro A \*            Skipås A
 Kvibille A                  Trönninge A
 Kvibille B                  Åled Kullavägen A
 Nissaström A                Åled Kullavägen B
-
 Nissaström B                Åled A
+
 Oskarström Bronsgatan A     Å led B
 Oskarström Bronsgatan B
 
 På kommunal väg:
-
 Frösakull A                Halmstad Giganten A
-Frösakull B                Halmstad Giganten B
-Frösakull Campingstigen A  Halmstad Grönevångs torg A
-Frösakull Campingstigen B  Halmstad Grönevångs torg B
-Frösakull Erik Staels väg A Halmstad Grönevångsvägen A
-Frösakull Erik Staels väg B Halmstad Grönevångsvägen B
 
-Frösakull Villavägen A     Halmstad Jesperslundsvägen A
-Frösakull Villavägen B     Halmstad Järnvägsgatan A
-Görvik A                   Halmstad Järnvägsgatan B
-Görvik B                   Halmstad Kardvägen A
-Halmstad Abborrvägen A     Halmstad Kardvägen B
-Halmstad Bergsgårdsvägen B Halmstad Klackerupsgatan A
+Frösakull B
+Frösakull Campingstigen A
+Frösakull Campingstigen B
+Frösakull Erik Staels väg A
 
-Halmstad Byvägen B         Halmstad Kolastigen A
-Halmstad Bäckagårdsvägen C Halmstad Kolastigen B
-Halmstad Bäckagårdsvägen D Halmstad Kvarnbacken A
-Halmstad Cirkusplatsen A   Halmstad Kvarnbacken B
-Halmstad Cirkusplatsen C   Halmstad Kvarnbacken C
-Halmstad Flygaregatan B \*  Halmstad Kärleken A
-Halmstad Flygplats A       Halmstad Larsfridsvägen A
+Frösakull Erik Staels väg B
+Frösakull Villavägen A
 
-Halmstad Flygstaden A \*    Halmstad Larsfridsvägen B
-Halmstad Flygstaden B \*    Halmstad Lasarettsvägen B \*
-Halmstad Fogdegatan B      Halmstad Linehed A
-Halmstad Frennarp A        Halmstad Linehed B \*
-Halmstad Frennarpsvägen A  Halmstad Lummervägen B
-Halmstad Frennarpsvägen B  Halmstad Magnus Stenbocks väg A
+Halmstad Giganten B
+Halmstad Grönevångs torg A
+Halmstad Grönevångs torg B
+Halmstad Grönevångsvägen A
 
-Halmstad Fridhemsparken A  Halmstad Noppvägen A
-Halmstad Fridhemsparken B  Halmstad Noppvägen B
+Halmstad Grönevångsvägen B
+Halmstad Jesperslundsvägen A
+
+Frösakull Villavägen B      Halmstad Järnvägsgatan A
+Görvik A                    Halmstad Järnvägsgatan B
+Görvik B                    Halmstad Kardvägen A
+Halmstad Abborrvägen A      Halmstad Kardvägen B
+
+Halmstad Bergsgårdsvägen B  Halmstad Klackerupsgatan A
+Halmstad Byvägen B          Halmstad Kolastigen A
+Halmstad Bäckagårdsvägen C  Halmstad Kolastigen B
+Halmstad Bäckagårdsvägen D  Halmstad Kvarnbacken A
+Halmstad Cirkusplatsen A    Halmstad Kvarnbacken B
+Halmstad Cirkusplatsen C    Halmstad Kvarnbacken C
+
+Halmstad Flygaregatan B \*   Halmstad Kärleken A
+Halmstad Flygplats A        Halmstad Larsfridsvägen A
+Halmstad Flygstaden A \*     Halmstad Larsfridsvägen B
+
+Halmstad Flygstaden B \*     Halmstad Lasarettsvägen B \*
+Halmstad Fogdegatan B       Halmstad Linehed A
+Halmstad Frennarp A         Halmstad Linehed B \*
+Halmstad Frennarpsvägen A   Halmstad Lummervägen B
+
+Halmstad Frennarpsvägen B   Halmstad Magnus Stenbocks väg A
+Halmstad Fridhemsparken A   Halmstad Noppvägen A
+Halmstad Fridhemsparken B   Halmstad Noppvägen B
 
 <!-- sida 128 -->
 
@@ -5046,39 +5064,65 @@ Bua skola A                 Tvååker Grusvägen A
 Bua skola B                 Tvååker Grusvägen B
 Lillebacka A                Tvååker Munkagårdsgymnasiet A \*
 Lillebacka B                Tvååker Munkagårdsgymnasiet B \*
-
 Limabacka Brandstation A    Väröbacka A
-L imabacka Brandstation B   Väröbacka B \*
+
+Limabacka Brandstation B    Väröbacka B \*
 
 På kommunal väg:
-Jonstaka A \*                Varberg Bolmen B
-Jonstaka B \*                Varberg Breared A
-Kuragård, A                 Varberg Breared B
+Jonstaka A \*
+Jonstaka B \*
+Kuragård, A
 
-Kuragård, B                 Varberg Brunnsberg södra A
-Lindbergs skola, A \*        Varberg Brunnsberg södra B
-Strandbackavägen A          Varberg Håstens torg A
-Träslövsläge Fiskebåtsvägen A Varberg Håstens torg B
-Träslövsläge Fiskebåtsvägen B Varberg Håstensskolan A
-Träslövsläge Jungmansvägen C Varberg Håstensskolan B
+Kuragård, B
+Lindbergs skola, A \*
+Strandbackavägen A
+Träslövsläge Fiskebåtsvägen A
+Träslövsläge Fiskebåtsvägen B
+Träslövsläge Jungmansvägen C
+Träslövsläge Jungmansvägen D
 
-Träslövsläge Jungmansvägen D Varberg Karlbergsvägen A
-Träslövsläge Hajvägen A     Varberg Karlbergsvägen B
-Träslövsläge Pilagårdsvägen A Varberg Lassabacka norra B \*
-Träslövsläge Pilagårdsvägen B Varberg Lassabacka södra A
-Träslövsläge Relingvägen A  Varberg Lindbergsvägen A \*
-Träslövsläge Relingvägen B  Varberg Lindbergsvägen B \*
-Träslövsläge Segelvägen A   Varberg Peder Skrivares skola A
+Träslövsläge Hajvägen A
+Träslövsläge Pilagårdsvägen A
+Träslövsläge Pilagårdsvägen B
+Träslövsläge Relingvägen A
+Träslövsläge Relingvägen B
+Träslövsläge Segelvägen A
 
-Träslövsläge Segelvägen B   Varberg Peder Skrivares skola B
-Träslövsläge Skepparevägen A Varberg Peder Skrivares skola C
-Träslövsläge Skepparevägen B Varberg Polishuset A
-Träslövsläge Tallåsen A     Varberg Polishuset B
-Träslövsläge Tallåsen B     Varberg S:t Jörgens kapell A
-Varberg Birger Svenssons väg A Varberg S:t Jörgens kapell B
+Träslövsläge Segelvägen B
+Träslövsläge Skepparevägen A
+Träslövsläge Skepparevägen B
+Träslövsläge Tallåsen A
+Träslövsläge Tallåsen B
+Varberg Birger Svenssons väg A
+
+Varberg Bolmen B
+Varberg Breared A
+Varberg Breared B
+Varberg Brunnsberg södra A
+
+Varberg Brunnsberg södra B
+Varberg Håstens torg A
+Varberg Håstens torg B
+Varberg Håstensskolan A
+Varberg Håstensskolan B
+Varberg Karlbergsvägen A
+
+Varberg Karlbergsvägen B
+Varberg Lassabacka norra B \*
+Varberg Lassabacka södra A
+Varberg Lindbergsvägen A \*
+Varberg Lindbergsvägen B \*
+Varberg Peder Skrivares skola A
+Varberg Peder Skrivares skola B
+
+Varberg Peder Skrivares skola C
+Varberg Polishuset A
+Varberg Polishuset B
+Varberg S:t Jörgens kapell A
+Varberg S:t Jörgens kapell B
 
 Varberg Birger Svenssons väg B V arberg Sjukhuset A \*
-V arberg Bolmen A
+Varberg Bolmen A
 
 <!-- sida 131 -->
 

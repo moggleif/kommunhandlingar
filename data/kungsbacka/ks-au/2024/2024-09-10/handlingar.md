@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2c0e0b6e191975d7155e49f/17255447814
 sha256: 46216dd0952275c2939d8f8c4f7c3fad92105ef64d9d0ba8db506e8754205763
 bytes: 103240714
 sidor: 473
-hamtad: 2026-10-25T06:26:51+00:00
-konverterad: 2026-10-25T06:34:34+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:46:44+00:00
+konverterad: 2026-11-09T10:55:18+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3960,34 +3960,34 @@ Max Falk, Anna Kronvall och Aako Raoofi Arne Ekelund, Sweco
 
 1   Inledning
 
-Västra Götaland ska utvecklas till en robust och Västra Götalandsregionen har som
-väl sammanhållen region. Det förutsätter att länsplaneupprättare ansvar för att ta fram en
-delarna samspelar och förstärker varandra samt regional transportinfrastrukturplan, hädanefter
-att de bidrar till en konkurrenskraftig helhet benämnd regional infrastrukturplan. Den
-med hållbar tillväxt, välfärd och god miljö. En regionala infrastrukturplanen utgör en del av
-sammanhållen region ger fler möjlighet till den nationella infrastrukturplanen och
-arbete, utbildning, vård och omsorg, kultur regeringen fastställer de ekonomiska ramarna.
+Västra Götaland ska utvecklas till en robust och
+väl sammanhållen region. Det förutsätter att
+delarna samspelar och förstärker varandra samt
+att de bidrar till en konkurrenskraftig helhet
+med hållbar tillväxt, välfärd och god miljö. En
+sammanhållen region ger fler möjlighet till
+arbete, utbildning, vård och omsorg, kultur
 och fritid. Västra Götaland är Sveriges
-transport- och logistikcentrum med flera Hur medlen ska fördelas inom den regionala
-geografiskt utspridda noder där flera infrastrukturplanen beslutas av
+transport- och logistikcentrum med flera
+geografiskt utspridda noder där flera
+transportslag möts.
 
-transportslag möts.             regionfullmäktige. Trafikverket ansvarar för
-planens genomförande. Rollen som
-Transportinfrastruktur är inget ändamål i sig, länsplaneupprättare ingår i det regionala
-utan en pusselbit i omställningen till ett utvecklingsuppdraget och planen ska, med
-hållbart och konkurrenskraftigt samhälle. Den hänsyn till de regionala förutsättningarna,
-regionala transportinfrastrukturen ska stödja bidra till att de transportpolitiska målen
-utvecklingen av ett transporteffektivt samhälle uppnås.
+Transportinfrastruktur är inget ändamål i sig,
+
+utan en pusselbit i omställningen till ett
+hållbart och konkurrenskraftigt samhälle. Den
+regionala transportinfrastrukturen ska stödja
+utvecklingen av ett transporteffektivt samhälle
 för person- och godstransporter i Västra
-Götaland.                       Den regionala infrastrukturplanen är
-framarbetad i nära dialog med de fyra
-Flera större omställningar i samhället pågår kommunalförbunden. Västtrafik och
-som kommer att påverka både användandet av Trafikverket har bistått arbetet. Dialog med
+Götaland.
 
-och kraven på transportsystemet. Elektrifiering kommunerna har förts via
-av fordon och vägar, digitalisering och kommunalförbunden och politisk förankring
-automatisering är exempel på större trender. har skett löpande i beredningen för hållbar
-Pandemin har påverkat resvanorna kraftigt och utveckling, BHU.
+Flera större omställningar i samhället pågår
+som kommer att påverka både användandet av
+och kraven på transportsystemet. Elektrifiering
+av fordon och vägar, digitalisering och
+automatisering är exempel på större trender.
+Pandemin har påverkat resvanorna kraftigt och
+
 ännu är det för tidigt att se vilka effekter det
 kommer att få på resmönstren på sikt. Den
 fortsatta klimatomställningen medför nya
@@ -4000,38 +4000,60 @@ förutsättningarna.
 
 3
 
+Västra Götalandsregionen har som
+länsplaneupprättare ansvar för att ta fram en
+regional transportinfrastrukturplan, hädanefter
+benämnd regional infrastrukturplan. Den
+regionala infrastrukturplanen utgör en del av
+den nationella infrastrukturplanen och
+regeringen fastställer de ekonomiska ramarna.
+
+Hur medlen ska fördelas inom den regionala
+infrastrukturplanen beslutas av
+regionfullmäktige. Trafikverket ansvarar för
+planens genomförande. Rollen som
+länsplaneupprättare ingår i det regionala
+utvecklingsuppdraget och planen ska, med
+hänsyn till de regionala förutsättningarna,
+bidra till att de transportpolitiska målen
+uppnås.
+
+Den regionala infrastrukturplanen är
+framarbetad i nära dialog med de fyra
+
+kommunalförbunden. Västtrafik och
+Trafikverket har bistått arbetet. Dialog med
+kommunerna har förts via
+kommunalförbunden och politisk förankring
+har skett löpande i beredningen för hållbar
+utveckling, BHU.
+
 <!-- sida 102 -->
 
 Ett regeringsuppdrag   i flera steg
 
 Planeringen av åtgärder i den statliga
-transportinfrastrukturen omfattar ett flertal Övergripande innehåll nationell plan
+transportinfrastrukturen omfattar ett flertal
 steg och är en process för vilken riksdagen och
-• Åtgärder på järnvägar, nationella
 regeringen anger villkoren. Åtgärdsplaneringen
-stamvägar och för sjöfart
 föregås av inriktningsplanering, som utreder
 mål, ekonomiska ramar och inriktning för den
-• Drift och underhåll
 kommande planperioden. Trafikverket tar fram
+
 ett inriktningsunderlag på nationell nivå och
-• Stadsmiljöavtal, med mera
 överlämnar till regeringen som skriver fram en
 infrastrukturproposition. Västra
-Övergripande innehåll regional plan
 Götalandsregionen har även tagit fram ett
-regionalt inriktningsunderlag, se avsnitt • Åtgärder på statliga regionala vägar,
-Regionalt inriktningsunderlag för   inklusive åtgärder för kollektivtrafik
-transportinfrastrukturen.           och cykel (inkluderar även gång och
-moped)
+regionalt inriktningsunderlag, se avsnitt
+Regionalt inriktningsunderlag för
+transportinfrastrukturen.
+
 Regeringen ger genom ett direktiv, se avsnitt
-• Statlig medfinans till
 Direktiv för åtgärdsplaneringen, Trafikverket
-kollektivtrafikåtgärder samt
 och regionerna i uppdrag att ta fram förslag till
-trafiksäkerhets- och miljöåtgärder på
-nationell respektive regionala      kommunalt vägnät
+nationell respektive regionala
 infrastrukturplaner. Planerna innehåller såväl
+
 namngivna åtgärder som medel till olika
 åtgärdsområden, där åtgärderna beslutas under
 planperioden. Regionala infrastrukturplaner
@@ -4039,12 +4061,36 @@ beslutas av regionfullmäktige och regeringen
 fastställer såväl den nationella som de regionala
 infrastrukturplanerna innan genomförandet tar
 vid.
+
 De transportpolitiska målen ligger till grund
 för utvecklingen av transportinfrastrukturen.
 Andra utgångspunkter är Agenda 2030,
 Klimatlagen och Nollvisionen. För mer
 information om de nationella
+
 utgångspunkterna, se avsnitt Nationella mål.
+
+Övergripande innehåll nationell plan
+
+• Åtgärder på järnvägar, nationella
+stamvägar och för sjöfart
+
+• Drift och underhåll
+
+• Stadsmiljöavtal, med mera
+
+Övergripande innehåll regional plan
+
+• Åtgärder på statliga regionala vägar,
+inklusive åtgärder för kollektivtrafik
+och cykel (inkluderar även gång och
+moped)
+
+• Statlig medfinans till
+kollektivtrafikåtgärder samt
+trafiksäkerhets- och miljöåtgärder på
+kommunalt vägnät
+
 2.Infrastrukturproposition 3.Förslag till nationell
 1.Inriktningsunderlag och direktiv för och regionala 4.Fastställelse
 åtgärdsplanering  infrastrukturplaner
@@ -4055,34 +4101,34 @@ Figur 1. Process för framtagande av nationella och regionala infrastrukturplane
 
 <!-- sida 103 -->
 
-Planens framtagande
+Planens  framtagande
 
-Det första steget i framtagandet av en ny Den politiska processen har skett via
-regional infrastrukturplan var att ta fram ett beredningen för hållbar utveckling, BHU.
-inriktningsunderlag för utvecklingen av Regionutvecklingsnämnden och
-transportinfrastrukturen i Västra Götaland. kollektivtrafiknämnden har löpande informerats
-Arbetet med inriktningsunderlaget inleddes under processen. Kommunalförbunden har
-med en övergripande gap-analys utifrån haft politisk beredning i respektive direktion/
-Agenda 2030. Analysen ledde till att tre förbundsstyrelse.
+Det första steget i framtagandet av en ny
+regional infrastrukturplan var att ta fram ett
+inriktningsunderlag för utvecklingen av
+transportinfrastrukturen i Västra Götaland.
+Arbetet med inriktningsunderlaget inleddes
+med en övergripande gap-analys utifrån
+Agenda 2030. Analysen ledde till att tre
 fokusområden lyftes fram som komplement till
-den tidigare regionala systemanalysen: klimat, Samrådsremiss av förslaget till regional
-social hållbarhet och trafiksäkerhet. infrastrukturplan 2022-2033 genomfördes
+den tidigare regionala systemanalysen: klimat,
+social hållbarhet och trafiksäkerhet.
+Inriktningsunderlaget ligger till grund för
 
-Inriktningsunderlaget ligger till grund för mellan 20 oktober 2021 och 31 januari 2022.
-framtagandet av den regionala   Slutlig version av planen beslutades av
-infrastrukturplanen.            regionfullmäktige i april 2022 efter
-ställningstagande i beredningen för hållbar
-För att koordinera arbetet har Västra utveckling och regionstyrelsen. Den antagna
-Götalandsregionen tillsatt en arbetsgrupp av versionen fastställs av regeringen, som en del av
-tjänstepersoner. De fyra kommunalförbunden, den nationella infrastrukturplanen.
+framtagandet av den regionala
+infrastrukturplanen.
+
+För att koordinera arbetet har Västra
+Götalandsregionen tillsatt en arbetsgrupp av
+tjänstepersoner. De fyra kommunalförbunden,
 som företräder de 49 kommunerna i Västra
 Götaland, har aktivt medverkat i arbetet och
 ansvarat för dialog och förankring med
 kommunerna. Trafikverket har deltagit i hela
 processen med underlag och stöd i
 framtagandet. Västtrafik har ansvarat för att
-
 sammanställa och göra inspel av
+
 kollektivtrafikens infrastrukturbehov. Arbetet
 har även stämts av med Länsstyrelsen, Klimat
 2030 samt Västra Götalandsregionens
@@ -4094,118 +4140,191 @@ Samtliga kommuner bjöds in till ett
 informationsmöte i januari 2021 och i februari
 2021 genomfördes dialogmöten med
 kommunalförbundens direktioner/
-
 förbundsstyrelse. Dialog med kommunerna har
 huvudsakligen skett via kommunalförbunden.
 
 5
 
+Den politiska processen har skett via
+beredningen för hållbar utveckling, BHU.
+Regionutvecklingsnämnden och
+kollektivtrafiknämnden har löpande informerats
+under processen. Kommunalförbunden har
+haft politisk beredning i respektive direktion/
+förbundsstyrelse.
+
+Samrådsremiss av förslaget till regional
+infrastrukturplan 2022-2033 genomfördes
+mellan 20 oktober 2021 och 31 januari 2022.
+Slutlig version av planen beslutades av
+regionfullmäktige i april 2022 efter
+ställningstagande i beredningen för hållbar
+utveckling och regionstyrelsen. Den antagna
+versionen fastställs av regeringen, som en del av
+den nationella infrastrukturplanen.
+
 <!-- sida 104 -->
 
-2   Förutsättningar
+2    Förutsättningar
 
-Nationella mål
+Nationella  mål
 
 Det övergripande målet för den nationella
 transportpolitiken är att säkerställa en
-samhällsekonomiskt effektiv och långsiktigt a.Hänsynsmål
-Säkerhet, miljö
+samhällsekonomiskt effektiv och långsiktigt
+
 hållbar transportförsörjning för medborgarna
-och hälsa
-(cid:20).Övergripande
 och för näringslivet i hela landet. Detta mål
-transport-
-samt regeringens direktiv sätter ramarna för           politiskt mål
+samt regeringens direktiv sätter ramarna för
 infrastrukturplaneringen på statlig och regional
 nivå. För att det övergripande
-transportpolitiska målet samt klimatmålet ska b. Funktionsmål
-kunna nås behöver funktionsmålet i huvudsak Tillgänglighet
+transportpolitiska målet samt klimatmålet ska
+kunna nås behöver funktionsmålet i huvudsak
 utvecklas inom ramen för hänsynsmålet.
 Agenda 2030, Klimatlagen och Nollvisionen är
-andra nationella utgångspunkter, liksom Figur 2. De transportpolitiska målen.
+andra nationella utgångspunkter, liksom
 barnkonventionen.
+
+Agenda 2030
+FN:s agenda 2030 och dess 17
+globala mål (med 169 delmål)
+omfattar alla politiska områden och
+delaktighet och engagemang på regional
+nivå är centralt.
+
+Klimatlagen
+Klimatlagen är en av tre delar inom
+ett klimatpolitiskt ramverk som
+trädde i kraft i januari 2018. De andra
+delarna är nya klimatmål och ett
+klimatpolitiskt råd. Klimatmålet innebär
+att Sverige år 2045 inte ska ha några
+nettoutsläpp av växthusgaser, för att
+därefter uppnå negativa utsläpp.
+
+Nollvisionen
+Nollvisionen innebär att ingen
+människa ska omkomma eller skadas
+allvarligt i trafiken. Visionen är
+ledstjärnan för Trafikverkets
+trafiksäkerhetsarbete.
+
+a.Hänsynsmål
+Säkerhet, miljö
+och hälsa
+(cid:20).Övergripande
+transport-
+politiskt mål
+
+b. Funktionsmål
+Tillgänglighet
+
+Figur 2. De transportpolitiska målen.
+
 Funktionsmålet innebär att transportsystemets
 utformning, funktion och användning ska
 medverka till att ge alla en grundläggande
-Agenda 2030
-FN:s agenda 2030 och dess 17 tillgänglighet med god kvalitet och
-globala mål (med 169 delmål) användbarhet samt bidra till utvecklingskraft i
-omfattar alla politiska områden och hela landet. Transportsystemet ska vara
-delaktighet och engagemang på regional
+tillgänglighet med god kvalitet och
+användbarhet samt bidra till utvecklingskraft i
+hela landet. Transportsystemet ska vara
 jämställt, det vill säga likvärdigt svara mot
-nivå är centralt.
 kvinnors respektive mäns transportbehov.
+
 Hänsynsmålet innebär att transportsystemets
+
 utformning, funktion och användning ska
-Klimatlagen                 anpassas till att ingen ska dödas eller skadas
-Klimatlagen är en av tre delar inom
+anpassas till att ingen ska dödas eller skadas
 allvarligt, bidra till att det övergripande
-ett klimatpolitiskt ramverk som
 generationsmålet för miljö och
-trädde i kraft i januari 2018. De andra
 miljökvalitetsmålen nås samt bidra till ökad
-delarna är nya klimatmål och ett
-klimatpolitiskt råd. Klimatmålet innebär hälsa.
-att Sverige år 2045 inte ska ha några
-nettoutsläpp av växthusgaser, för att Ett etappmål under hänsynsmålet är att
-därefter uppnå negativa utsläpp.
+hälsa.
+
+Ett etappmål under hänsynsmålet är att
 växthusgasutsläppen från inrikes transporter
 exklusive flyg ska minska med minst
 70 procent senast 2030 jämfört med 2010.
-Nollvisionen
+
 Enligt Sveriges etappmål för trafiksäkerhet så
-Nollvisionen innebär att ingen
+
 ska antalet omkomna till följd av trafikolyckor
-människa ska omkomma eller skadas
 inom vägtrafiken halveras till år 2030 jämfört
-allvarligt i trafiken. Visionen är
-ledstjärnan för Trafikverkets  med åren 2017-2019. Antalet allvarligt skadade
-trafiksäkerhetsarbete.         inom respektive trafikslag ska minska med
+med åren 2017-2019. Antalet allvarligt skadade
+inom respektive trafikslag ska minska med
 minst 25 procent till år 2030 enligt regeringens
 etappmål.
+
 6
 
 <!-- sida 105 -->
 
-Regionala  mål och              Miljö- och
+Regionala  mål  och
 
-strategier                      hållbarhetsbedömning
+strategier
 
-De globala målen för hållbar utveckling och En miljöbedömning ska genomföras som en
-Vision Västra Götaland utgör grunden för del av den regionala infrastrukturplanen enligt
-arbetet med regional utveckling. Utvecklingen i miljöbalken. Det övergripande syftet är att
-hela Västra Götaland ska ske med samtliga integrera miljöaspekterna i framtagandet för att
-hållbarhetsperspektiv i fokus - socialt, främja en hållbar utveckling.
+De globala målen för hållbar utveckling och
+Vision Västra Götaland utgör grunden för
+
+arbetet med regional utveckling. Utvecklingen i
+hela Västra Götaland ska ske med samtliga
+hållbarhetsperspektiv i fokus - socialt,
 miljömässigt och ekonomiskt.
-Västra Götalandsregionen har valt att
-Den regionala infrastrukturplanen är en genomföra en bredare hållbarhetsbedömning
-pusselbit av flera som bidrar till att nå visionen som, vid sidan av den miljömässiga
-om det goda livet. Vid sidan av visionen finns hållbarheten, även beaktar sociala och
 
-det ett flertal strategier och måldokument som ekonomiska hållbarhetsaspekter utifrån
-ligger till grund för utformningen av planen. Agenda 2030. Arbetet sker integrerat med
-Regional utvecklingsstrategi för Västra Götaland framtagandet av planen. Strategiska vägval och
-2021-2030 är utgångspunkt för det regionala åtgärder beskrivs i hållbarhetskonsekvens-
-utvecklingsarbetet och innehåller prioriteringar beskrivningen som är en del av den regionala
-för att möjliggöra omställningen till ett mer infrastrukturplanen. Slutsatser sammanfattas i
-hållbart och konkurrenskraftigt samhälle till år kapitlet Bedömning av effekter.
+Den regionala infrastrukturplanen är en
+pusselbit av flera som bidrar till att nå visionen
+om det goda livet. Vid sidan av visionen finns
+det ett flertal strategier och måldokument som
+ligger till grund för utformningen av planen.
+Regional utvecklingsstrategi för Västra Götaland
+2021-2030 är utgångspunkt för det regionala
+utvecklingsarbetet och innehåller prioriteringar
+
+för att möjliggöra omställningen till ett mer
+hållbart och konkurrenskraftigt samhälle till år
 2030\. Klimat 2030 och
 Trafikförsörjningsprogrammet är
 regionövergripande styrdokument som den
 regionala infrastrukturplanen ska stödja. Andra
 strategier som påverkar planens inriktning är
 Godstransportstrategin, Strategi för ökad cykling
-
 och Målbild Tåg 2035.
 
 Västra Götalandsregionens långsiktiga
 viljeinriktning för utvecklingen av
 transportinfrastrukturen redovisas i
-inriktningsunderlaget, se avsnitt           2.REGIONAL
+
+inriktningsunderlaget, se avsnitt
+Regionalt inriktningsunderlag för
+transportinfrastrukturen.
+
+Miljö- och
+
+hållbarhetsbedömning
+
+En miljöbedömning ska genomföras som en
+del av den regionala infrastrukturplanen enligt
+
+miljöbalken. Det övergripande syftet är att
+integrera miljöaspekterna i framtagandet för att
+främja en hållbar utveckling.
+
+Västra Götalandsregionen har valt att
+genomföra en bredare hållbarhetsbedömning
+som, vid sidan av den miljömässiga
+hållbarheten, även beaktar sociala och
+ekonomiska hållbarhetsaspekter utifrån
+Agenda 2030. Arbetet sker integrerat med
+framtagandet av planen. Strategiska vägval och
+åtgärder beskrivs i hållbarhetskonsekvens-
+beskrivningen som är en del av den regionala
+
+infrastrukturplanen. Slutsatser sammanfattas i
+kapitlet Bedömning av effekter.
+
+2.REGIONAL
 1.MÅLBILD
 UTVECKLINGS-
-Regionalt inriktningsunderlag för   TÅG 2035 STRATEGI
-transportinfrastrukturen.
+TÅG 2035  STRATEGI
+
 4.TRAFIK-
 3.GODS-
 FÖRSÖRJNINGS- 5.KLIMAT
@@ -4218,6 +4337,7 @@ Götalandsregionens och de 49
 kommunernas gemensamma vision.    INFRASTRUKTUR- FÖR ÖKAD
 Visionen uttrycker det önskade framtida PLAN CYKLING
 tillståndet – Det goda livet.
+
 Figur 3. Illustration av hur regional
 infrastrukturplan är en av
 flera pusselbitar i det regionala
@@ -4229,35 +4349,35 @@ utvecklingsarbetet.
 
 Innehåll och  ekonomi
 
-Den regionala infrastrukturplanen utgör Utöver planens ekonomiska ram förekommer
-tillsammans med den nationella  alternativfinansiering för vissa åtgärder. Det
-infrastrukturplanen en del i planeringen av den kan exempelvis handla om kommuner som
-statliga transportinfrastrukturen. De medfinansierar regionala vägåtgärder eller
-grundläggande målsättningarna och samfinansiering mellan regional och nationell
-utgångspunkterna är gemensamma. infrastrukturplan. För samtliga namngivna
-åtgärder som har med- eller samfinansiering
-Inom den regionala infrastrukturplanen träffas det särskilda avsiktsförklaringar eller
-genomförs såväl större om- eller avtal.
+Den regionala infrastrukturplanen utgör
+tillsammans med den nationella
+infrastrukturplanen en del i planeringen av den
+statliga transportinfrastrukturen. De
+grundläggande målsättningarna och
+utgångspunkterna är gemensamma.
+
+Inom den regionala infrastrukturplanen
+genomförs såväl större om- eller
 nybyggnationer som mindre trimningsåtgärder
+på de statliga vägar som inte ingår i
 
-på de statliga vägar som inte ingår i Västra Götalandsregionen har genom
-stamvägnätet. Trimningsåtgärderna består av regeringens direktiv tilldelats en ekonomisk
-förbättringar av kollektivtrafikens infrastruktur, ram på 7 339 miljoner kronor. Trafikverket har
-investeringar i cykelvägar samt mindre räknat upp den preliminära ramen till 7 655
-vägåtgärder. Kollektivtrafik-, cykel- samt miljoner kronor, efter justering utifrån
-trafiksäkerhets- och miljöåtgärder på underförbrukning under åren 2018-2021.
-kommunalt vägnät kan medfinansieras av Prisnivån för planen är 2021-02. Först då
-planen. Västra Götalandsregionen har även valt regeringen fastställer den nya nationella
-att avsätta medel till att samfinansiera infrastrukturplanen beslutas den slutliga
-järnvägsåtgärder i nationell infrastrukturplan. ekonomiska ramen.
+stamvägnätet. Trimningsåtgärderna består av
+förbättringar av kollektivtrafikens infrastruktur,
+investeringar i cykelvägar samt mindre
+vägåtgärder. Kollektivtrafik-, cykel- samt
+trafiksäkerhets- och miljöåtgärder på
+kommunalt vägnät kan medfinansieras av
+planen. Västra Götalandsregionen har även valt
+att avsätta medel till att samfinansiera
+järnvägsåtgärder i nationell infrastrukturplan.
 Drift och underhåll av hela det statliga vägnätet
-finansieras via nationell infrastrukturplan. Planmedlen fördelas till de utpekade
+finansieras via nationell infrastrukturplan.
 
-åtgärdsområdena under en tolvårsperiod.
-Åtgärder med en kostnad på minst 50 miljoner Genomförandet delas upp i fyraårsperioder och
-kronor ska namnges och en samlad Trafikverket arbetar för att förbrukningen inom
-effektbedömning (SEB) för objektet ska vara aktuell fyraårsperiod ska överensstämma med
-genomförd. Fortsättningsvis benämns dessa planens ram och fördelning.
+Åtgärder med en kostnad på minst 50 miljoner
+
+kronor ska namnges och en samlad
+effektbedömning (SEB) för objektet ska vara
+genomförd. Fortsättningsvis benämns dessa
 som namngivna åtgärder.
 
 Västra Götalandsregionen har tilldelats en
@@ -4265,13 +4385,47 @@ ekonomisk ram av regeringen att prioritera till
 olika åtgärder. De flesta åtgärder finansieras till
 100 procent från den regionala
 infrastrukturplanen, med några undantag.
-Förordningen om länsplaner för regional
-Investeringar i cykelvägar längs statligt vägnät transportinfrastruktur (1997:263) och
-finansieras med 50 procent från planen och förordningen om statlig medfinans
-50 procent via kommunal medfinansiering. (2009:237) styr vilka åtgärder som får
-ingå i infrastrukturplanen.
+Investeringar i cykelvägar längs statligt vägnät
+finansieras med 50 procent från planen och
+
+50 procent via kommunal medfinansiering.
 Åtgärder på kommunalt vägnät kan få statlig
 medfinansiering från planen med 50 procent.
+
+Utöver planens ekonomiska ram förekommer
+alternativfinansiering för vissa åtgärder. Det
+kan exempelvis handla om kommuner som
+medfinansierar regionala vägåtgärder eller
+samfinansiering mellan regional och nationell
+infrastrukturplan. För samtliga namngivna
+åtgärder som har med- eller samfinansiering
+
+träffas det särskilda avsiktsförklaringar eller
+avtal.
+
+Västra Götalandsregionen har genom
+regeringens direktiv tilldelats en ekonomisk
+ram på 7 339 miljoner kronor. Trafikverket har
+räknat upp den preliminära ramen till 7 655
+miljoner kronor, efter justering utifrån
+underförbrukning under åren 2018-2021.
+Prisnivån för planen är 2021-02. Först då
+regeringen fastställer den nya nationella
+infrastrukturplanen beslutas den slutliga
+ekonomiska ramen.
+
+Planmedlen fördelas till de utpekade
+åtgärdsområdena under en tolvårsperiod.
+Genomförandet delas upp i fyraårsperioder och
+Trafikverket arbetar för att förbrukningen inom
+aktuell fyraårsperiod ska överensstämma med
+planens ram och fördelning.
+
+Förordningen om länsplaner för regional
+transportinfrastruktur (1997:263) och
+förordningen om statlig medfinans
+(2009:237) styr vilka åtgärder som får
+ingå i infrastrukturplanen.
 
 8
 
@@ -4359,50 +4513,80 @@ Figur 4. Mål för infrastrukturplaneringen i Västra Götaland.
 
 Direktiv för åtgärdsplaneringen
 
-Regeringens planeringsdirektiv anger Regeringen pekar i planeringsdirektivet på
-tillsammans med det regionala   vikten av att väga in behov kopplat till
-inriktningsunderlaget förutsättningarna för bostadsbyggande och betydande
-framtagandet av den regionala   industriinvesteringar i framtagandet av planen.
-infrastrukturplanen. Generella utgångspunkter Effekter på bostadsbyggandet ska beskrivas. De
-för uppdraget är att den statliga föreslagna åtgärderna bör även bidra till att
-transportinfrastrukturen i hela landet ska andelen kollektivtrafikresande ökar.
-utvecklas och förvaltas så att det övergripande
-transportpolitiska målet samt etappmålen för Trafikverket ska inom ramen för den nationella
-trafiksäkerhet och klimat ska nås. I direktivet infrastrukturplanen samfinansiera de regionala
+Regeringens planeringsdirektiv anger
+tillsammans med det regionala
+inriktningsunderlaget förutsättningarna för
+framtagandet av den regionala
+infrastrukturplanen. Generella utgångspunkter
+för uppdraget är att den statliga
+transportinfrastrukturen i hela landet ska
 
-framgår att hållbarhetsaspekter ska integreras infrastrukturplanerna avseende
-genom att vid framtagandet av planen beakta trafiksäkerhetsåtgärder på det regionala
-sociala, miljömässiga och ekonomiska effekter vägnätet. Samfinansiering ska utformas så att
-samt att målsynergier ska eftersträvas. åtgärder som förkortar restiden på landsbygd
-prioriteras, till exempel mittseparering.
-Västra Götalandsregionen har genom Trafikverket ska också föreslå medel till
-regeringens direktiv tilldelats en ekonomisk samfinansiering av cykelåtgärder på regionalt
-ram på 7 339 miljoner kronor. Trafikverket har vägnät. Omfattning och hur medel fördelas ska
-räknat upp den preliminära ramen till 7 655 redovisas i den nationella infrastrukturplanen.
+utvecklas och förvaltas så att det övergripande
+transportpolitiska målet samt etappmålen för
+trafiksäkerhet och klimat ska nås. I direktivet
+framgår att hållbarhetsaspekter ska integreras
+genom att vid framtagandet av planen beakta
+sociala, miljömässiga och ekonomiska effekter
+samt att målsynergier ska eftersträvas.
+
+Västra Götalandsregionen har genom
+regeringens direktiv tilldelats en ekonomisk
+ram på 7 339 miljoner kronor. Trafikverket har
+räknat upp den preliminära ramen till 7 655
 miljoner kronor, efter justering utifrån
+
 underförbrukning under åren 2018-2021.
 Medlen ska fördelas på olika åtgärder och typer
 av åtgärder. Åtgärdsobjekt med en kostnad på
-Fyrstegsprincipen
 minst 50 miljoner kronor ska namnges.
-Fyrstegsprincipen är Trafikverkets
-Byggstartade men ännu ej avslutade objekt från arbetsstrategi som tillämpas för att
-tidigare plan bör finnas med i det nya säkerställa en god resurshushållning och
-planförslaget.                    för att åtgärder ska bidra till en hållbar
-samhällsutveckling.
+Byggstartade men ännu ej avslutade objekt från
+tidigare plan bör finnas med i det nya
+planförslaget.
+
 Prioriteringarna bakom förslagen samt
-eventuella osäkerheter avseende planens 1. 2.      3.     4.
-effekter ska enligt direktivet beskrivas. Det ska Tänk om Optimera Bygg om Bygg nytt
+eventuella osäkerheter avseende planens
+effekter ska enligt direktivet beskrivas. Det ska
 även framgå hur Fyrstegsprincipen har tillämpats
 samt på vilket sätt och i vilken utsträckning
+
 den regionala infrastrukturplanen bidrar till att
 öka transporteffektiviteten i samhället.
+
+Regeringen pekar i planeringsdirektivet på
+vikten av att väga in behov kopplat till
+bostadsbyggande och betydande
+industriinvesteringar i framtagandet av planen.
+Effekter på bostadsbyggandet ska beskrivas. De
+föreslagna åtgärderna bör även bidra till att
+andelen kollektivtrafikresande ökar.
+
+Trafikverket ska inom ramen för den nationella
+infrastrukturplanen samfinansiera de regionala
+infrastrukturplanerna avseende
+trafiksäkerhetsåtgärder på det regionala
+vägnätet. Samfinansiering ska utformas så att
+åtgärder som förkortar restiden på landsbygd
+prioriteras, till exempel mittseparering.
+Trafikverket ska också föreslå medel till
+samfinansiering av cykelåtgärder på regionalt
+vägnät. Omfattning och hur medel fördelas ska
+redovisas i den nationella infrastrukturplanen.
+
+Fyrstegsprincipen
+Fyrstegsprincipen är Trafikverkets
+arbetsstrategi som tillämpas för att
+säkerställa en god resurshushållning och
+för att åtgärder ska bidra till en hållbar
+samhällsutveckling.
+
+1\.      2.      3.     4.
+Tänk om Optimera Bygg om Bygg nytt
 
 10
 
 <!-- sida 109 -->
 
-Ramverk  för infrastrukturplanen
+Ramverk   för infrastrukturplanen
 
 Regional infrastrukturplan är en
 investeringsplan för en mångfald av
@@ -4414,9 +4598,15 @@ regionens viljeriktning för utveckling av
 transportinfrastrukturen. Förhållandet mellan
 den regionala infrastrukturplanen,
 inriktningsunderlaget och nationella och
-
 regionala utgångspunkterna visualiseras i
+
 figur 5.
+
+Figur 5. Illustration över hur den regionala infrastrukturplanen
+förhåller sig till inriktningsunderlaget och regionala samt
+nationella utgångspunkter.
+
+11
 
 •Den översta plattformen
 representerar den regionala
@@ -4433,43 +4623,64 @@ inriktningsunderlaget.
 regionala ramverk i form av lagar,
 förordningar, mål och strategier.
 
-Figur 5. Illustration över hur den regionala infrastrukturplanen
-förhåller sig till inriktningsunderlaget och regionala samt
-nationella utgångspunkter.
-
-11
-
 <!-- sida 110 -->
 
 4   Fördelning    av medel   2022-2033
 
-Den regionala infrastrukturplanen bygger på noder. De tre åtgärdsområdena Trimning och
-en struktur med sju åtgärdsområden som effektivisering i stråk, Trimning och effektivisering
-innehåller åtgärder och inriktningar för att till stråk samt Statlig medfinans till kommunalt
-stärka olika funktioner i transportsystemet. vägnät innehåller mindre åtgärder för
-Strukturen ska bidra till en regional kollektivtrafik, cykel och väg. Det statliga
-infrastrukturplanering med hänsyn till såväl vägnätets omfattning i Västra Götaland
-geografi som demografi. För att hela transport- framgår av bilaga 2.
+Den regionala infrastrukturplanen bygger på
+en struktur med sju åtgärdsområden som
+innehåller åtgärder och inriktningar för att
+stärka olika funktioner i transportsystemet.
+Strukturen ska bidra till en regional
+infrastrukturplanering med hänsyn till såväl
+geografi som demografi. För att hela transport-
+
 och reskedjan ska fungera behöver åtgärder
-prioriteras över hela regionen och i olika delar Inom åtgärdsområdet Samfinansiering nationell
-av transportsystemet. De olika transportslagen plan, järnväg avsätts medel för standardhöjande
-
-ska komplettera varandra för att skapa åtgärder för den regionala tågtrafiken.
-förutsättningar för ett transporteffektivt Storstadsåtgärder inomSverigeförhandlingen
-samhälle, stärka näringslivets konkurrenskraft innehåller ett antal åtgärder inom
-och uppfylla de transportpolitiska målen. I Göteborgsområdet, som är framförhandlade
-genomförandet behöver Trafikverket arbeta för och avtalade inom Sverigeförhandlingen.
-att kombinera fysiska åtgärder med steg 1- och Åtgärdsområdet Övrigt innehåller medel till
-2-åtgärder enligt fyrstegsprincipen. oförutsedda mindre åtgärder samt driftbidrag
-Sammantaget ska åtgärderna leda till en till flygplats.
+prioriteras över hela regionen och i olika delar
+av transportsystemet. De olika transportslagen
+ska komplettera varandra för att skapa
+förutsättningar för ett transporteffektivt
+samhälle, stärka näringslivets konkurrenskraft
+och uppfylla de transportpolitiska målen. I
+genomförandet behöver Trafikverket arbeta för
+att kombinera fysiska åtgärder med steg 1- och
+2-åtgärder enligt fyrstegsprincipen.
+Sammantaget ska åtgärderna leda till en
 förbättrad tillgänglighet i Västra Götaland och
-genomföras i linje med det beslutade Fördelningen av medel mellan olika
-inriktningsunderlaget.          åtgärdsområden grundar sig i regionala och
-nationella mål och politiska viljeinriktningar.
-Större investeringsåtgärder på statligt vägnät Det regionala inriktningsunderlaget har varit
+genomföras i linje med det beslutade
 
-och i kollektivtrafikens infrastruktur återfinns utgångspunkt för infrastrukturplanens
-inom åtgärdsområdet Större åtgärder i stråk och konkreta innehåll och prioriteringar.
+inriktningsunderlaget.
+
+Större investeringsåtgärder på statligt vägnät
+och i kollektivtrafikens infrastruktur återfinns
+inom åtgärdsområdet Större åtgärder i stråk och
+
+noder. De tre åtgärdsområdena Trimning och
+effektivisering i stråk, Trimning och effektivisering
+till stråk samt Statlig medfinans till kommunalt
+vägnät innehåller mindre åtgärder för
+kollektivtrafik, cykel och väg. Det statliga
+vägnätets omfattning i Västra Götaland
+framgår av bilaga 2.
+
+Inom åtgärdsområdet Samfinansiering nationell
+plan, järnväg avsätts medel för standardhöjande
+åtgärder för den regionala tågtrafiken.
+Storstadsåtgärder inomSverigeförhandlingen
+innehåller ett antal åtgärder inom
+Göteborgsområdet, som är framförhandlade
+och avtalade inom Sverigeförhandlingen.
+Åtgärdsområdet Övrigt innehåller medel till
+oförutsedda mindre åtgärder samt driftbidrag
+till flygplats.
+
+Fördelningen av medel mellan olika
+
+åtgärdsområden grundar sig i regionala och
+nationella mål och politiska viljeinriktningar.
+Det regionala inriktningsunderlaget har varit
+utgångspunkt för infrastrukturplanens
+konkreta innehåll och prioriteringar.
 
 (cid:25). Storstadsåtgärder inom
 Sverigeförhandlingen
@@ -4485,11 +4696,11 @@ järnväg
 och noder
 kommunalt vägnät
 38 %
-16  %
+16 %
 (cid:22).Trimning och effektivisering
-till stråk            (cid:21).Trimning och effektivisering
+till stråk             (cid:21).Trimning och effektivisering
 i stråk
-13 %
+13  %
 15 %
 Figur 6. Fördelning av medel till åtgärdsområden i planen, totalt 7 655 miljoner kronor.
 
@@ -4497,54 +4708,77 @@ Figur 6. Fördelning av medel till åtgärdsområden i planen, totalt 7 655 milj
 
 <!-- sida 111 -->
 
-En stor del av planens åtgärder beslutas Trafikverket har i nationell infrastrukturplan
-löpande under planperioden. Genomförandet avsatt medel för samfinansiering av
-ska beakta de skilda geografiska förut- cykelåtgärder samt mittseparering och
-sättningarna och säkerställa att det regionala mitträffling på regionalt vägnät under perioden
-inriktningsunderlaget genomsyrar både valen 2022-2027. Samfinansiering kan vara högst 50
-av åtgärder och deras utformning. Synergi- procent av statens åtgärdskostnad i den
-effekter ska eftersträvas för bättre mål- regionala infrastrukturplanen. De medel som
-uppfyllelse. För ett effektivt genomförande kan frigörs vid samfinansiering från nationell
-medel från olika potter och åtgärdsområden infrastrukturplan ska investeras i andra åtgärder
-kombineras där det finns förutsättningar. för cykel respektive trafiksäkerhet på regionalt
+En stor del av planens åtgärder beslutas
+löpande under planperioden. Genomförandet
+ska beakta de skilda geografiska förut-
+sättningarna och säkerställa att det regionala
+inriktningsunderlaget genomsyrar både valen
+av åtgärder och deras utformning. Synergi-
+effekter ska eftersträvas för bättre mål-
 
-Åtgärderna ska ha en geografisk spridning över vägnät.
+uppfyllelse. För ett effektivt genomförande kan
+medel från olika potter och åtgärdsområden
+kombineras där det finns förutsättningar.
+Åtgärderna ska ha en geografisk spridning över
 regionen och anpassas utifrån konkreta behov
-och bedömt bidrag till måluppfyllelse. För att framdriften av åtgärderna ska vara god
-behöver genomförandet kontinuerligt följas
-I den politiska prioriteringen av åtgärder och upp och anpassas. På kort sikt kan
-fördelning av medel har de skilda förut- underförbrukning i en del av planen behöva
-sättningarna och behoven inom Västra kompenseras genom en snabbare
-Götaland lyfts fram. Fria medel kan nyttjas för genomförandetakt i en annan del. I bilaga 1
-att möjliggöra strategiska industrietableringar finns en detaljerad beskrivning av hur medel
-av regional betydelse i linje med den regionala fördelas till olika åtgärder.
+och bedömt bidrag till måluppfyllelse.
+
+I den politiska prioriteringen av åtgärder och
+fördelning av medel har de skilda förut-
+sättningarna och behoven inom Västra
+Götaland lyfts fram. Fria medel kan nyttjas för
+att möjliggöra strategiska industrietableringar
+av regional betydelse i linje med den regionala
+
 utvecklingsstrategin.
+
+Trafikverket har i nationell infrastrukturplan
+avsatt medel för samfinansiering av
+cykelåtgärder samt mittseparering och
+mitträffling på regionalt vägnät under perioden
+2022-2027. Samfinansiering kan vara högst 50
+procent av statens åtgärdskostnad i den
+regionala infrastrukturplanen. De medel som
+
+frigörs vid samfinansiering från nationell
+infrastrukturplan ska investeras i andra åtgärder
+för cykel respektive trafiksäkerhet på regionalt
+vägnät.
+
+För att framdriften av åtgärderna ska vara god
+behöver genomförandet kontinuerligt följas
+upp och anpassas. På kort sikt kan
+underförbrukning i en del av planen behöva
+kompenseras genom en snabbare
+genomförandetakt i en annan del. I bilaga 1
+finns en detaljerad beskrivning av hur medel
+fördelas till olika åtgärder.
 
 Tabell 1. Fördelning av medel till åtgärdsområden, totalt 7 655 miljoner kronor.
 
-Fördelning av medel till                  2026-  2030-  Medel i
-2022  2023  2024  2025
+Fördelning av medel till                   2026- 2030-  Medel i
+2022  2023  2024   2025
 åtgärdsområden                             2029  2033  plan, mnkr
 Större åtgärder i stråk
-69    240   602    346   744   929      2 930
+69   240    602   346   744   929      2 930
 och noder
 Trimning och
-101   196   153    132   347   209      1 138
+101   196    153   132   347   209      1 138
 effektivisering i stråk
 Trimning och
-91    105   102    97    317   248       960
+91   105    102   97    317   248        960
 effektivisering till stråk
 Statlig medfinans till
-91    98     98    119   437   389      1 232
+91    98    98    119   437   389      1 232
 kommunalt vägnät
 Samfinansiering
-15    63     36    70    353   303       840
+15    63    36    70    353   303        840
 nationell plan, järnväg
 Storstadsåtgärder inom
-13    35     40    25    64    295       472
+13    35    40    25     64   295        472
 Sverigeförhandlingen
-Övrigt             8     9     7     7     26    26         83
-Summa             388   746   1038   796  2288   2399    7 655
+Övrigt             8     9     7      7     26    26        83
+Summa             388   746   1038   796   2288  2399     7 655
 
 13
 
@@ -4594,19 +4828,19 @@ Summa                            2 930
 
 <!-- sida 113 -->
 
-Större namngivna vägåtgärder    I den politiska prioriteringen vid framtagandet
-De större vägåtgärderna stärker befintliga stråk av planen har två nya större vägåtgärder
-genom att förbättra trafiksäkerheten och höja prioriterats. Större åtgärder på statligt vägnät
-standarden på de större regionala vägarna. som finansieras helt av extern part behöver
-Åtgärderna utgår ifrån utpekade brister och har namnges i planen, följa det regionala
-tagits fram inom genomförda     inriktningsunderlaget och ingå som en del av
-åtgärdsvalsstudier. Studierna utgår från miljöbedömningen. I denna plan finns en
-fyrstegsprincipen och innehåller ofta en sådan åtgärd, Väg 156 Förbifart Skene.
-kombination av åtgärder. Åtgärdsförslagen har
-prioriterats utifrån bedömda nyttor, kostnad En fördjupad beskrivning av större vägåtgärder
+Större namngivna vägåtgärder
+De större vägåtgärderna stärker befintliga stråk
+genom att förbättra trafiksäkerheten och höja
+standarden på de större regionala vägarna.
+Åtgärderna utgår ifrån utpekade brister och har
+tagits fram inom genomförda
+åtgärdsvalsstudier. Studierna utgår från
 
-och ekonomiskt utrymme i planen. finns i bilaga 3 och de högst prioriterade
-bristerna i bilaga 4.
+fyrstegsprincipen och innehåller ofta en
+kombination av åtgärder. Åtgärdsförslagen har
+prioriterats utifrån bedömda nyttor, kostnad
+och ekonomiskt utrymme i planen.
+
 Åtgärder som är planerade för genomförande i
 den tidigare delen av planperioden bör vara väl
 utredda avseende sträckning och utformning.
@@ -4614,6 +4848,20 @@ Det är en förutsättning för att trygga ett
 effektivt genomförande av planen.
 
 15
+
+I den politiska prioriteringen vid framtagandet
+av planen har två nya större vägåtgärder
+prioriterats. Större åtgärder på statligt vägnät
+som finansieras helt av extern part behöver
+namnges i planen, följa det regionala
+inriktningsunderlaget och ingå som en del av
+miljöbedömningen. I denna plan finns en
+
+sådan åtgärd, Väg 156 Förbifart Skene.
+
+En fördjupad beskrivning av större vägåtgärder
+finns i bilaga 3 och de högst prioriterade
+bristerna i bilaga 4.
 
 <!-- sida 114 -->
 
@@ -4663,31 +4911,48 @@ Summa               Inget data Inget data Inget data 2 400 Inget data
 
 <!-- sida 115 -->
 
-Större namngivna                I den politiska prioriteringen vid framtagandet
-kollektivtrafikåtgärder         av planen har fyra nya större
-De större kollektivtrafikåtgärderna skapar kollektivtrafikåtgärder prioriterats.
+Större namngivna
+kollektivtrafikåtgärder
+De större kollektivtrafikåtgärderna skapar
 förutsättningar för ett ökat
-kollektivtrafikresande genom åtgärder som ger De flesta kollektivtrafikåtgärderna är nära
-förbättrad tillgänglighet, framkomlighet och knutna till andra investeringar, såsom
-attraktivitet. Investeringar prioriteras i enlighet järnvägsåtgärder och andra
-med det regionala trafikförsörjningsprogrammet. infrastrukturåtgärder. Tidplanerna för
-Västtrafik har i uppdrag att sammanställa genomförandet behöver därför anpassas utifrån
-kollektivtrafikens behov och tar fram ett förslag dessa förutsättningar.
+kollektivtrafikresande genom åtgärder som ger
+förbättrad tillgänglighet, framkomlighet och
+attraktivitet. Investeringar prioriteras i enlighet
 
+med det regionala trafikförsörjningsprogrammet.
+Västtrafik har i uppdrag att sammanställa
+kollektivtrafikens behov och tar fram ett förslag
 på prioritering i dialog med berörda
-kommuner, kommunalförbund och   En fördjupad beskrivning av större
-Trafikverket.                   kollektivtrafikåtgärder finns i bilaga 3 och de
-högst prioriterade bristerna i bilaga 4.
+kommuner, kommunalförbund och
+Trafikverket.
+
 Merparten av åtgärderna ligger på det
 kommunala vägnätet och får statlig medfinans
 från planen. Åtgärderna behöver vara väl
 utredda och ekonomiskt prioriterade hos
 sökande part, vilka står för minst 50 procent av
 finansieringen. Större kollektivtrafikåtgärder på
+
 statligt vägnät har tagits fram inom
 genomförda åtgärdsvalsstudier.
 
 17
+
+I den politiska prioriteringen vid framtagandet
+av planen har fyra nya större
+kollektivtrafikåtgärder prioriterats.
+
+De flesta kollektivtrafikåtgärderna är nära
+knutna till andra investeringar, såsom
+järnvägsåtgärder och andra
+
+infrastrukturåtgärder. Tidplanerna för
+genomförandet behöver därför anpassas utifrån
+dessa förutsättningar.
+
+En fördjupad beskrivning av större
+kollektivtrafikåtgärder finns i bilaga 3 och de
+högst prioriterade bristerna i bilaga 4.
 
 <!-- sida 116 -->
 
@@ -4787,31 +5052,57 @@ Summa                                1 138
 
 <!-- sida 118 -->
 
-De tre potterna för kollektivtrafik-, cykel- och Cykelåtgärder
-mindre vägåtgärder ska prioritera åtgärder Utbyggnaden av cykelvägar ska sträva efter att
-inom hela Västra Götaland. Generellt sett är vara sammanhängande och knyta ihop
-åtgärder för de första 4-6 åren av den regionala boenden med målpunkter i anslutning till
-infrastrukturplanen uppbokade, resterande tätorter, såsom arbete, skola, kollektivtrafik och
-medel är fria att fördela. Utöver de tre potterna fritidsanläggningar. Kommunerna ombeds vart
-finns fem förstärkta satsningar i stråk kopplat fjärde år lämna in förslag på nya cykelvägar
-till den politiska prioriteringen vid som de avser att medfinansiera med halva
-framtagandet av planen. Förstärkningarna kostnaden. Förslagen samordnas av kommunal-
-innefattar specifika åtgärder och pottåtgärder. förbunden och prioriteras därefter av Västra
+De tre potterna för kollektivtrafik-, cykel- och
+mindre vägåtgärder ska prioritera åtgärder
+inom hela Västra Götaland. Generellt sett är
+åtgärder för de första 4-6 åren av den regionala
+infrastrukturplanen uppbokade, resterande
+medel är fria att fördela. Utöver de tre potterna
+finns fem förstärkta satsningar i stråk kopplat
 
-Götalandsregionen i samråd med Trafikverket.
-Kollektivtrafikåtgärder         Åtgärderna ska bidra till måluppfyllelse i
-För att öka kollektivtrafikens tillgänglighet, enlighet med den regionala cykelstrategin.
+till den politiska prioriteringen vid
+framtagandet av planen. Förstärkningarna
+innefattar specifika åtgärder och pottåtgärder.
+
+Kollektivtrafikåtgärder
+För att öka kollektivtrafikens tillgänglighet,
 trafiksäkerhet och attraktivitet krävs
-investeringar i hållplatser och Mindre vägåtgärder
-framkomlighetsåtgärder, såsom busskörfält eller För att förbättra trafiksäkerheten och
-signalprioritering. Västtrafik sammanställer tillgängligheten samt att minska barriäreffekter
-behov och åtgärdsförslag i dialog med behöver mindre åtgärder genomföras på det
-kommuner och kommunalförbund. Åtgärder statliga vägnätet. Standardhöjning,
-prioriteras av Västtrafik i samråd med korsningsåtgärder, passager för gående och
-Trafikverket. Åtgärderna ska bidra till cyklister samt kurvrätning utgör exempel på
-måluppfyllelse i enlighet med det regionala åtgärder. Samspelet mellan fordonstrafik,
-trafikförsörjningsprogrammet.   gående och cyklister samt näringslivets
+investeringar i hållplatser och
+framkomlighetsåtgärder, såsom busskörfält eller
+signalprioritering. Västtrafik sammanställer
+behov och åtgärdsförslag i dialog med
+kommuner och kommunalförbund. Åtgärder
+prioriteras av Västtrafik i samråd med
 
+Trafikverket. Åtgärderna ska bidra till
+måluppfyllelse i enlighet med det regionala
+trafikförsörjningsprogrammet.
+
+Cykelåtgärder
+Utbyggnaden av cykelvägar ska sträva efter att
+vara sammanhängande och knyta ihop
+boenden med målpunkter i anslutning till
+tätorter, såsom arbete, skola, kollektivtrafik och
+fritidsanläggningar. Kommunerna ombeds vart
+fjärde år lämna in förslag på nya cykelvägar
+
+som de avser att medfinansiera med halva
+kostnaden. Förslagen samordnas av kommunal-
+förbunden och prioriteras därefter av Västra
+Götalandsregionen i samråd med Trafikverket.
+Åtgärderna ska bidra till måluppfyllelse i
+enlighet med den regionala cykelstrategin.
+
+Mindre vägåtgärder
+För att förbättra trafiksäkerheten och
+tillgängligheten samt att minska barriäreffekter
+behöver mindre åtgärder genomföras på det
+statliga vägnätet. Standardhöjning,
+korsningsåtgärder, passager för gående och
+
+cyklister samt kurvrätning utgör exempel på
+åtgärder. Samspelet mellan fordonstrafik,
+gående och cyklister samt näringslivets
 transportbehov är särskilt viktiga aspekter.
 Åtgärder prioriteras av Trafikverket i samråd
 med Västra Götalandsregionen,
@@ -4822,11 +5113,11 @@ Tabell 6. Fördelning av medel för förstärkt satsning i stråk.
 Medel i plan,
 Förstärkt satsning i stråk
 mnkr
+
 Göteborgsregionen,
 50
 Kollektivtrafikåtgärder
 Göteborgsregionen, Cykelåtgärder 25
-
 Göteborgsregionen,
 100
 Obundna medel
@@ -4930,32 +5221,31 @@ Summa                                  960
 
 <!-- sida 121 -->
 
-De tre potterna för kollektivtrafik-, cykel- och Mindre vägåtgärder
-mindre vägåtgärder ska prioritera åtgärder För att förbättra trafiksäkerheten och
-inom hela Västra Götaland. Generellt sett är tillgängligheten behöver mindre åtgärder
-åtgärder för de första 4-6 åren av den regionala genomföras på det statliga vägnätet.
-infrastrukturplanen uppbokade, resterande Standardhöjning, korsningsåtgärder, passager
-medel är fria att fördela. Utöver de tre potterna för gående och cyklister samt kurvrätning
-finns en förstärkt satsning till stråk kopplat till utgör exempel på åtgärder. Samspelet mellan
-den politiska prioriteringen vid framtagandet fordonstrafik, gående och cyklister samt
-av planen. Förstärkningen innefattar näringslivets transportbehov är särskilt viktiga
-pottåtgärder.                   aspekter. Åtgärder prioriteras av Trafikverket i
+De tre potterna för kollektivtrafik-, cykel- och
+mindre vägåtgärder ska prioritera åtgärder
+inom hela Västra Götaland. Generellt sett är
+åtgärder för de första 4-6 åren av den regionala
+infrastrukturplanen uppbokade, resterande
+medel är fria att fördela. Utöver de tre potterna
+finns en förstärkt satsning till stråk kopplat till
 
-samråd med Västra Götalandsregionen,
-Kollektivtrafikåtgärder         kommunalförbunden och berörda kommuner.
+den politiska prioriteringen vid framtagandet
+av planen. Förstärkningen innefattar
+pottåtgärder.
+
+Kollektivtrafikåtgärder
 För att öka kollektivtrafikens tillgänglighet,
 trafiksäkerhet och attraktivitet krävs
-Tabell 9. Fördelning av medel för förstärkt satsning till stråk.
 investeringar i hållplatser och att bytespunkter
 fungerar för kombinationsresor. Västtrafik
-Förstärkt satsning till Medel i
 sammanställer behov och åtgärdsförslag i dialog
-stråk                plan, mnkr
 med kommuner och kommunalförbund.
 Åtgärder prioriteras av Västtrafik i samråd med
-Trafikverket. Åtgärderna ska bidra till Fyrbodal, Mindre åtgärder 120
+Trafikverket. Åtgärderna ska bidra till
+
 måluppfyllelse i enlighet med det regionala
 trafikförsörjningsprogrammet.
+
 Cykelåtgärder
 Utbyggnaden av cykelvägar ska sträva efter att
 vara sammanhängande och knyta ihop
@@ -4966,6 +5256,7 @@ trafikmiljön är av betydelse för barn och ungas
 självständighet i trafiken. På sikt är ambitionen
 att koppla samman det lokala cykelnätet till
 större stråk. Kommunerna ombeds vart fjärde
+
 år lämna in förslag på nya cykelvägar som de
 avser att medfinansiera med halva kostnaden.
 Förslagen samordnas av kommunalförbunden
@@ -4975,6 +5266,27 @@ Götalandsregionen i samråd med Trafikverket.
 enlighet med den regionala cykelstrategin.
 
 23
+
+Mindre vägåtgärder
+För att förbättra trafiksäkerheten och
+tillgängligheten behöver mindre åtgärder
+genomföras på det statliga vägnätet.
+Standardhöjning, korsningsåtgärder, passager
+för gående och cyklister samt kurvrätning
+utgör exempel på åtgärder. Samspelet mellan
+
+fordonstrafik, gående och cyklister samt
+näringslivets transportbehov är särskilt viktiga
+aspekter. Åtgärder prioriteras av Trafikverket i
+samråd med Västra Götalandsregionen,
+kommunalförbunden och berörda kommuner.
+
+Tabell 9. Fördelning av medel för förstärkt satsning till stråk.
+
+Förstärkt satsning till Medel i
+stråk                plan, mnkr
+
+Fyrbodal, Mindre åtgärder  120
 
 <!-- sida 122 -->
 
@@ -5070,35 +5382,65 @@ Summa                             1 232
 
 <!-- sida 124 -->
 
-De tre potterna för kollektivtrafik-, cykel- samt Cykelåtgärder
-trafiksäkerhets- och miljöåtgärder ska prioritera Potentialen för ökad cykling är generellt sett
-åtgärder inom hela Västra Götaland. Åtgärder stor längs det kommunala vägnätet, där det
-beslutas årligen. Utöver de tre potterna finns finns en koncentration av befolkning,
-två förstärkta satsningar kopplat till den arbetsplatser, fritidsanläggningar och service.
-politiska prioriteringen vid framtagandet av För att öka trafiksäkerheten och det hållbara
-planen. Förstärkningarna innefattar resandet behöver cykelvägar byggas ut för att
-pottåtgärder.                   koppla ihop lokala målpunkter. För att främja
-barnens självständighet i trafiken är de kortväga
-Kollektivtrafikåtgärder         cykelresorna i tätorter av stor betydelse.
+De tre potterna för kollektivtrafik-, cykel- samt
+trafiksäkerhets- och miljöåtgärder ska prioritera
+åtgärder inom hela Västra Götaland. Åtgärder
+beslutas årligen. Utöver de tre potterna finns
+två förstärkta satsningar kopplat till den
+politiska prioriteringen vid framtagandet av
+planen. Förstärkningarna innefattar
 
-För att öka kollektivtrafikens tillgänglighet, Kommunerna kan ansöka om medfinansiering
-trafiksäkerhet och attraktivitet krävs för cykelåtgärder från regional
-investeringar i hållplatser och infrastrukturplan via Trafikverket. Åtgärderna
-framkomlighetsåtgärder för kollektivtrafiken, ska bidra till måluppfyllelse i enlighet med den
-såsom busskörfält eller signalprioritering. För regionala cykelstrategin.
+pottåtgärder.
+
+Kollektivtrafikåtgärder
+För att öka kollektivtrafikens tillgänglighet,
+trafiksäkerhet och attraktivitet krävs
+investeringar i hållplatser och
+framkomlighetsåtgärder för kollektivtrafiken,
+såsom busskörfält eller signalprioritering. För
 hållplatser och bytespunkter prioriteras
-tillgänglighetsanpassning och annan Trafiksäkerhets- och miljöåtgärder
-standardhöjning samt i vissa fall nybyggnation. Det är i tätorterna på det kommunala vägnätet
-Kommunerna kan ansöka om medfinansiering som de flesta gående och cyklister rör sig och
-för kollektivtrafikåtgärder från regional det i högre utsträckning finns problem med
-infrastrukturplan via Västtrafik. Västra buller och luftkvalitet. Åtgärder som ger en
-Götalandsregionen/Västtrafik kan, som förbättrad trafiksäkerhet för gående och
-regional kollektivtrafikmyndighet, ansöka om cyklister och en förbättrad miljö inom
+tillgänglighetsanpassning och annan
+standardhöjning samt i vissa fall nybyggnation.
+Kommunerna kan ansöka om medfinansiering
+för kollektivtrafikåtgärder från regional
 
-medel till regionala kollektivtrafikanläggningar. tätorterna prioriteras. Barn och ungas behov är
-Åtgärderna ska bidra till måluppfyllelse i särskilt viktiga att beakta vid val av åtgärder.
-enlighet med det regionala      Kommunerna kan ansöka om medfinansiering
-trafikförsörjningsprogrammet.   för trafiksäkerhets- och miljöåtgärder från
+infrastrukturplan via Västtrafik. Västra
+Götalandsregionen/Västtrafik kan, som
+regional kollektivtrafikmyndighet, ansöka om
+medel till regionala kollektivtrafikanläggningar.
+Åtgärderna ska bidra till måluppfyllelse i
+enlighet med det regionala
+trafikförsörjningsprogrammet.
+
+Cykelåtgärder
+Potentialen för ökad cykling är generellt sett
+stor längs det kommunala vägnätet, där det
+finns en koncentration av befolkning,
+arbetsplatser, fritidsanläggningar och service.
+För att öka trafiksäkerheten och det hållbara
+resandet behöver cykelvägar byggas ut för att
+
+koppla ihop lokala målpunkter. För att främja
+barnens självständighet i trafiken är de kortväga
+cykelresorna i tätorter av stor betydelse.
+Kommunerna kan ansöka om medfinansiering
+för cykelåtgärder från regional
+infrastrukturplan via Trafikverket. Åtgärderna
+ska bidra till måluppfyllelse i enlighet med den
+regionala cykelstrategin.
+
+Trafiksäkerhets- och miljöåtgärder
+Det är i tätorterna på det kommunala vägnätet
+som de flesta gående och cyklister rör sig och
+det i högre utsträckning finns problem med
+
+buller och luftkvalitet. Åtgärder som ger en
+förbättrad trafiksäkerhet för gående och
+cyklister och en förbättrad miljö inom
+tätorterna prioriteras. Barn och ungas behov är
+särskilt viktiga att beakta vid val av åtgärder.
+Kommunerna kan ansöka om medfinansiering
+för trafiksäkerhets- och miljöåtgärder från
 regional infrastrukturplan via Trafikverket.
 
 Tabell 12. Fördelning av medel för förstärkt satsning kommunalt vägnät.
@@ -5205,31 +5547,40 @@ Summa                                   840
 
 <!-- sida 127 -->
 
-Ambitionen är att medel från potten i så stor Tabell 15. Vägledande principer för samfinansiering
-nationell plan, järnväg
+Ambitionen är att medel från potten i så stor
 utsträckning som möjligt ska förstärka
 planerade investeringar av Trafikverket för att
-Vägledande principer – Samfinansiering
 nå uppsatta resandemål. Exempel på viktiga
-nationell plan, järnväg
 åtgärder för regionaltrafiken är hastighets- och
 kapacitetshöjande åtgärder samt åtgärder inom
 stationsmiljöer som förlängning av plattformar.
-• Åtgärder ska ligga i linje med Målbild Tåg
-2035, inklusive delmål 2028
+
 Nivån på anslagna medel per järnväg kan
-• Fokus på systempåverkande åtgärder
 komma att justeras och omfördelas om
-åtgärder prioriteras för genomförande inom • Prioritera åtgärder som höjer och
-ramen för nationell infrastrukturplan. återupprättar standarden på de järnvägar
-som är viktiga för regiontrafiken
+åtgärder prioriteras för genomförande inom
+ramen för nationell infrastrukturplan.
 Omfördelning av medel från potten beslutas i
-regionstyrelsen via beredningen för hållbar • Åtgärder kan med fördel genomföras i
-samband med att Trafikverket utför
+regionstyrelsen via beredningen för hållbar
 utveckling, BHU.
-planerade underhållsåtgärder på banorna
 
 29
+
+Tabell 15. Vägledande principer för samfinansiering
+nationell plan, järnväg
+
+Vägledande principer – Samfinansiering
+nationell plan, järnväg
+
+• Åtgärder ska ligga i linje med Målbild Tåg
+2035, inklusive delmål 2028
+• Fokus på systempåverkande åtgärder
+
+• Prioritera åtgärder som höjer och
+återupprättar standarden på de järnvägar
+som är viktiga för regiontrafiken
+• Åtgärder kan med fördel genomföras i
+samband med att Trafikverket utför
+planerade underhållsåtgärder på banorna
 
 <!-- sida 128 -->
 
@@ -5320,55 +5671,90 @@ Summa                                83
 
 5   Bedömning      av effekter
 
-Den regionala infrastrukturplanens effekter Åtgärderna i infrastrukturplanen bedöms bidra
-beskrivs utifrån de transportpolitiska målen, till att andelen hållbara resor ökar, främst
-nationella och regionala mål, beslutat genom satsningar på cykelinfrastruktur och
-inriktningsunderlag för transport- kollektivtrafik vilka uppgår till cirka 1 000
-infrastrukturen i Västra Götaland samt den respektive 2 700 miljoner kronor. För
-genomförda hållbarhetsbedömningen. godstransporter är målet i inriktnings-
-underlaget att utveckla intermodalitet, vilket
-Regional infrastrukturplan grundar sig på innebär en överflyttning av lastbilstransporter
-regionens inriktningsunderlag som i sin tur tar till järnväg och sjöfart. Viktiga åtgärder för att
-avstamp i regionala mål och nationella åstadkomma detta ligger främst i nationell
+Den regionala infrastrukturplanens effekter
+beskrivs utifrån de transportpolitiska målen,
+nationella och regionala mål, beslutat
+inriktningsunderlag för transport-
+infrastrukturen i Västra Götaland samt den
+genomförda hållbarhetsbedömningen.
 
-utgångspunkter såsom de transportpolitiska infrastrukturplan, men regional
-målen och Agenda 2030. Den ekonomiska infrastrukturplan spelar en viktig roll när det
-fördelningen och innehållet bedöms som gäller att utveckla det kapillära vägnätet för att
-helhet att vara i linje med ovannämnda godstransporter ska kunna ta sig till stråk och
-utgångspunkter. Långsiktigt syftar den noder för omlastning. De flesta större
-regionala infrastrukturplanen till att förbättra vägåtgärderna består av flera olika delar bland
-tillgängligheten i hela regionen med fokus på annat mötesseparering, trafiksäkerhetsåtgärder
-olika funktioner i transportsystemet samt på ett för oskyddade trafikanter samt anpassningar
-hela resan-perspektiv både för person- och för kollektivtrafik och cykel.
+Regional infrastrukturplan grundar sig på
+regionens inriktningsunderlag som i sin tur tar
+avstamp i regionala mål och nationella
+utgångspunkter såsom de transportpolitiska
+målen och Agenda 2030. Den ekonomiska
+fördelningen och innehållet bedöms som
+
+helhet att vara i linje med ovannämnda
+utgångspunkter. Långsiktigt syftar den
+regionala infrastrukturplanen till att förbättra
+tillgängligheten i hela regionen med fokus på
+olika funktioner i transportsystemet samt på ett
+hela resan-perspektiv både för person- och
 godstransporter.
-Infrastrukturåtgärder i kombination med
-Det är de olika funktionerna i samklang med styrmedel och samhällsplanering har en
 
-varandra som skapar transportsystemet i Västra potential att påverka överflyttningen från bil/
-Götaland. Strukturen med åtgärdsområden lastbil till järnväg, kollektivtrafik, gång och
-utifrån funktion möjliggör en god spridning av cykel. Enskilda infrastrukturåtgärder ger
-åtgärder i regionen samtidigt som medel kan begränsade möjligheter till överflyttning.
-användas utifrån olika geografiska Däremot har transportinfrastrukturen en
-förutsättningar. Strukturen är anpassad för att förutsättningsskapande roll för utvecklingen av
-skapa en bättre helhet vid genomförandet ett transporteffektivt samhälle.
+Det är de olika funktionerna i samklang med
+varandra som skapar transportsystemet i Västra
+Götaland. Strukturen med åtgärdsområden
+utifrån funktion möjliggör en god spridning av
+åtgärder i regionen samtidigt som medel kan
+
+användas utifrån olika geografiska
+förutsättningar. Strukturen är anpassad för att
+skapa en bättre helhet vid genomförandet
 genom att medel från olika potter och
 åtgärdsområden kan kombineras. Regional
 infrastrukturplan har god potential att bidra till
-Hållbarhetskonsekvensbeskrivningen
 hållbarhetsaspekten tillgänglighet i
-innehåller en fördjupad bedömning av
 perspektiven; näringslivets transporter, stad,
-den regionala infrastrukturplanens
-landsbygd, grundläggande tillgänglighet samt effekter och finns publicerat på
-tillgänglighet för personer med   www.vgregion.se/regionalplan
+landsbygd, grundläggande tillgänglighet samt
+tillgänglighet för personer med
 funktionsnedsättning. Sammantaget bidrar
 åtgärderna till de transportpolitiska målen (det
 övergripande målet och funktionsmålet) samt
+
 till regionens övergripande mål i
 inriktningsunderlaget ”Ett fossiloberoende
 transportsystem för ökad konkurrenskraft och
 möjlighet till goda livsmiljöer i stad och på
 landsbygd – förbättrad tillgänglighet”.
+
+Åtgärderna i infrastrukturplanen bedöms bidra
+till att andelen hållbara resor ökar, främst
+genom satsningar på cykelinfrastruktur och
+kollektivtrafik vilka uppgår till cirka 1 000
+respektive 2 700 miljoner kronor. För
+godstransporter är målet i inriktnings-
+underlaget att utveckla intermodalitet, vilket
+
+innebär en överflyttning av lastbilstransporter
+till järnväg och sjöfart. Viktiga åtgärder för att
+åstadkomma detta ligger främst i nationell
+infrastrukturplan, men regional
+infrastrukturplan spelar en viktig roll när det
+gäller att utveckla det kapillära vägnätet för att
+godstransporter ska kunna ta sig till stråk och
+noder för omlastning. De flesta större
+vägåtgärderna består av flera olika delar bland
+annat mötesseparering, trafiksäkerhetsåtgärder
+för oskyddade trafikanter samt anpassningar
+för kollektivtrafik och cykel.
+
+Infrastrukturåtgärder i kombination med
+styrmedel och samhällsplanering har en
+potential att påverka överflyttningen från bil/
+lastbil till järnväg, kollektivtrafik, gång och
+cykel. Enskilda infrastrukturåtgärder ger
+begränsade möjligheter till överflyttning.
+Däremot har transportinfrastrukturen en
+förutsättningsskapande roll för utvecklingen av
+ett transporteffektivt samhälle.
+
+Hållbarhetskonsekvensbeskrivningen
+innehåller en fördjupad bedömning av
+den regionala infrastrukturplanens
+effekter och finns publicerat på
+www.vgregion.se/regionalplan
 
 32
 
@@ -5467,93 +5853,106 @@ indikerar att planen varken bidrar eller motverkar tydligt.
 
 <!-- sida 132 -->
 
-Medskick till genomförandet från Effekter på bostadsbyggande
-hållbarhetsbedömningen          Den regionala infrastrukturplanen bedöms
-skapa förutsättningar för ett ökat
+Medskick till genomförandet från
+hållbarhetsbedömningen
 
-• För att säkerställa att genomförandet av bostadsbyggande i Västra Götaland. I dialog
-den regionala infrastrukturplanen bidrar med kommuner framkommer det att flertalet
-till ett transporteffektivt samhälle behöver av de namngivna väg- och
-efterlevnaden av de vägledande principerna kollektivtrafikåtgärderna är av stor betydelse för
-för åtgärdsområden och        kommunernas tillväxt och bostadsplanering.
+• För att säkerställa att genomförandet av
+den regionala infrastrukturplanen bidrar
+till ett transporteffektivt samhälle behöver
+efterlevnaden av de vägledande principerna
+
+för åtgärdsområden och
 inriktningsunderlagets tre fokusområden
-följas upp.                   Direkta effekter är cirka 4 000 bostäder
-kopplat till de namngivna vägåtgärderna,
-• Tillgängligheten förbättras genom att välja främst norra delen av E20/riksväg 40
-en kombination av åtgärder, så att olika Tvärförbindelse och väg 156. Den regionala
-transportslag kompletterar varandra. På så infrastrukturplanen bidrar även till de 45 000
-sätt kan den regionala infrastrukturplanens bostäder i Göteborg som ingår i
+följas upp.
 
-positiva påverkan på hållbarhetsaspekter storstadsåtgärderna inom Sverigeförhandlingen.
+• Tillgängligheten förbättras genom att välja
+en kombination av åtgärder, så att olika
+transportslag kompletterar varandra. På så
+sätt kan den regionala infrastrukturplanens
+positiva påverkan på hållbarhetsaspekter
 stärkas och enskilda åtgärders negativa
-påverkan inom vissa aspekter mildras. Flertalet åtgärder bidrar till samhällsutveckling
-både lokalt och regionalt och ökar därmed
-• Målpunkter för barn och unga, så som möjligheterna till bostadsbyggande. Speciellt
-skolor, idrottsanläggningar, lekplatser och satsningarna på förbättrad regiontrafik på
-liknande bör vara i särskilt fokus under järnväg, åtgärder för kollektivtrafik och cykel
-genomförandet. Likaså bör barns och ungas bedöms skapa förutsättningar för ett ökat
-delaktighet och utsatthet i trafiksystemet bostadsbyggande i linje med ett
-beaktas.                      transporteffektivt samhälle.
+påverkan inom vissa aspekter mildras.
 
-• Om det görs betydande ändringar i den
+• Målpunkter för barn och unga, så som
+skolor, idrottsanläggningar, lekplatser och
+liknande bör vara i särskilt fokus under
+genomförandet. Likaså bör barns och ungas
+delaktighet och utsatthet i trafiksystemet
+beaktas.
+
+• Om  det görs betydande ändringar i den
 regionala infrastrukturplanen under
-
 genomförandet så bör det genomföras en
 hållbarhets- och miljöeffektbedömning.
+
+Effekter på bostadsbyggande
+Den regionala infrastrukturplanen bedöms
+skapa förutsättningar för ett ökat
+bostadsbyggande i Västra Götaland. I dialog
+med kommuner framkommer det att flertalet
+av de namngivna väg- och
+kollektivtrafikåtgärderna är av stor betydelse för
+
+kommunernas tillväxt och bostadsplanering.
+
+Direkta effekter är cirka 4 000 bostäder
+kopplat till de namngivna vägåtgärderna,
+främst norra delen av E20/riksväg 40
+Tvärförbindelse och väg 156. Den regionala
+infrastrukturplanen bidrar även till de 45 000
+bostäder i Göteborg som ingår i
+storstadsåtgärderna inom Sverigeförhandlingen.
+
+Flertalet åtgärder bidrar till samhällsutveckling
+både lokalt och regionalt och ökar därmed
+
+möjligheterna till bostadsbyggande. Speciellt
+satsningarna på förbättrad regiontrafik på
+järnväg, åtgärder för kollektivtrafik och cykel
+bedöms skapa förutsättningar för ett ökat
+bostadsbyggande i linje med ett
+transporteffektivt samhälle.
 
 34
 
 <!-- sida 133 -->
 
-6   Genomförande      och  uppföljning
+6   Genomförande       och  uppföljning
 
 Den regionala infrastrukturplanen består av sju
-åtgärdsområden med olika åtgärder, vägledande Åtgärder med en kostnad på över 50
-miljoner kronor ska vara namngivna i
+åtgärdsområden med olika åtgärder, vägledande
 principer och beslutsprocesser. Planens medel
-regional infrastrukturplan. Prioriteringen
 är avsatta såväl till konkreta åtgärder som till
-av övriga åtgärder hanteras olika
 olika åtgärdsinriktningar. Inom tre
-beroende av hur stor kostnad som
-åtgärdsområden behövs en aktiv planering belastar planen.
+åtgärdsområden behövs en aktiv planering
 under genomförandet: Trimning och
-effektivisering i stråk, Trimning och effektivisering • Åtgärder under 15 miljoner kronor
-till stråk samt Statlig medfinans till kommunalt prioriteras av Trafikverket/Västtrafik
-i samråd med berörda kommuner.
+
+effektivisering i stråk, Trimning och effektivisering
+till stråk samt Statlig medfinans till kommunalt
 vägnät. Inom dessa tre områden är det särskilt
 viktigt att följa upp genomförandet utifrån
-•  Åtgärder med en kostnad över
 inriktningsunderlaget, hållbarhets-
-15 miljoner kronor stäms av årligen
 bedömningens medskick samt geografisk
-mellan Västra Götalandsregionen,
-fördelning och anpassning.          Trafikverket och
-kommunalförbunden.
+fördelning och anpassning.
+
 De olika transportslagen ska komplettera
-varandra för att skapa förutsättningar för ett • Åtgärder med en kostnad som
-belastar planen med mellan 25 och
+varandra för att skapa förutsättningar för ett
 transporteffektivt samhälle med hänsyn till
-50 miljoner kronor hanteras politiskt
 olika geografiska förutsättningar. I
-viaberedningen för hållbar
 genomförandet behöver Trafikverket arbeta för
-utveckling, BHU,och beslut i
-att kombinera fysiska åtgärder med steg 1- och regionstyrelsen.
+
+att kombinera fysiska åtgärder med steg 1- och
 2-åtgärder enligt Fyrstegsprincipen.
-•  Åtgärder inom de förstärkta
-Brister i den statliga transportinfrastrukturen satsningarna med en kostnad upp
-till 50 miljoner kronor beslutas av
+
+Brister i den statliga transportinfrastrukturen
 identifieras och analyseras inom så kallade
-respektive kommunalförbund inom
 åtgärdsvalsstudier (ÅVS). En åtgärdsvalsstudie
-ramen för åtgärdsområdets
 görs tidigt i planeringen för att parterna
-vägledande principer.
 tillsammans ska få en helhetsbild och hitta
 hållbara förslag på åtgärder. Studierna utgår
 från fyrstegsprincipen och innehåller ofta en
 kombination av åtgärder.
+
 För att säkerställa att åtgärderna är i linje med
 infrastrukturplanens avsikter och det beslutade
 inriktningsunderlag behöver genomförandet
@@ -5566,20 +5965,62 @@ möjlighet för beredningen för hållbar utveckling,
 BHU, att årligen få en redovisning av
 Trafikverket gällande utfallet och avvikelser i
 den regionala infrastrukturplanen.
+
+Åtgärder med en kostnad på över 50
+miljoner kronor ska vara namngivna i
+regional infrastrukturplan. Prioriteringen
+av övriga åtgärder hanteras olika
+beroende av hur stor kostnad som
+belastar planen.
+
+• Åtgärder under 15 miljoner kronor
+prioriteras av Trafikverket/Västtrafik
+i samråd med berörda kommuner.
+• Åtgärder med en kostnad över
+15 miljoner kronor stäms av årligen
+mellan Västra Götalandsregionen,
+Trafikverket och
+kommunalförbunden.
+
+• Åtgärder med en kostnad som
+belastar planen med mellan 25 och
+50 miljoner kronor hanteras politiskt
+viaberedningen för hållbar
+utveckling, BHU,och beslut i
+regionstyrelsen.
+
+• Åtgärder inom de förstärkta
+satsningarna med en kostnad upp
+till 50 miljoner kronor beslutas av
+respektive kommunalförbund inom
+ramen för åtgärdsområdets
+vägledande principer.
+
 35
 
 <!-- sida 134 -->
 
-Hantering av åtgärder inom potter Inom åtgärdsområde Trimning och
-I figurerna nedan visas förenklade processer för effektivisering i stråk och Trimning och
-åtgärder som belastar planen med upp till effektivisering till stråk finns olika processer för
+Hantering av åtgärder inom potter
+I figurerna nedan visas förenklade processer för
+åtgärder som belastar planen med upp till
+25 miljoner kronor. Trafikverket ansvarar för
+planens genomförande. Avstämning med
+Västra Götalandsregionen och
+kommunalförbunden ska ske årligen. Åtgärder
 
-25 miljoner kronor. Trafikverket ansvarar för prioritering av åtgärder. Kommunerna och
-planens genomförande. Avstämning med kommunalförbunden har möjlighet att lyfta
-Västra Götalandsregionen och    förslag på åtgärder till Trafikverket/Västtrafik i
-kommunalförbunden ska ske årligen. Åtgärder befintliga dialogforum. Kommunerna ombeds
-med en kostnad mellan 25 och 50 miljoner vart fjärde år lämna in förslag på regionala
-kronor hanteras politiskt.      cykelåtgärder som de avser att medfinansiera
+med en kostnad mellan 25 och 50 miljoner
+kronor hanteras politiskt.
+
+Inom åtgärdsområde Trimning och
+effektivisering i stråk och Trimning och
+effektivisering till stråk finns olika processer för
+prioritering av åtgärder. Kommunerna och
+kommunalförbunden har möjlighet att lyfta
+förslag på åtgärder till Trafikverket/Västtrafik i
+befintliga dialogforum. Kommunerna ombeds
+
+vart fjärde år lämna in förslag på regionala
+cykelåtgärder som de avser att medfinansiera
 med halva kostnaden.
 
 Inom åtgärdsområde Statlig medfinans till
@@ -5597,10 +6038,10 @@ Till stråk
 Kollektivtrafik • Västtrafik               • Trafikverket
 Trafikverket
 • VGR och Trafikverket • VGR och
-Cykel                                      • Trafikverket
+Cykel                                     • Trafikverket
 via kommunalförbunden Trafikverket
 Mindre
-• Trafikverket    • Trafikverket • Trafikverket
+• Trafikverket   • Trafikverket • Trafikverket
 vägåtgärder
 Figur 13. Förenklade beslutsprocesser för åtgärder inom Trimning och effektivisering i stråk och Trimning och
 effektivisering till stråk.
@@ -5611,12 +6052,11 @@ medfinans till
 kommunalt
 vägnät
 
-Kollektivtrafik • Västtrafik • Västtrafik  • Kommun
+Kollektivtrafik • Västtrafik  • Västtrafik  • Kommun
 
-Cykel         • Trafikverket • Trafikverket • Kommun
-
+Cykel        • Trafikverket  • Trafikverket • Kommun
 Trafiksäkerhets-
-• Trafikverket • Trafikverket • Kommun
+• Trafikverket  • Trafikverket • Kommun
 och miljöåtgärder
 Figur 14. Förenklade beslutsprocesser för åtgärder inom Statlig medfinans till kommunalt vägnät.
 
@@ -5891,13 +6331,12 @@ samt väg 26 och 40.
 Statligt regionalt vägnät
 
 I den regionala infrastrukturplanen prioriteras
-åtgärder i stråk och till stråk. Stråken definieras   Statliga regionala vägar
-som ingår i stråken
+åtgärder i stråk och till stråk. Stråken definieras
 av Västra Götalandsregionens
-trafikförsörjningsprogram och                          Övriga statliga
-regionala vägar
+trafikförsörjningsprogram och
 godstransportstrategi samt Trafikverkets
-funktionellt prioriterade vägnät (FPV). FPV            Statliga nationella vägar
+
+funktionellt prioriterade vägnät (FPV). FPV
 innefattar vägar med viktiga funktioner för
 godstransporter, långväga personresor, dagliga
 personresor och kollektivtrafik. Fem vägar som
@@ -5910,9 +6349,9 @@ som långt avstånd. I stråken finns även
 betydelsefulla regionala och interregionala
 transportflöden. Övriga statliga vägar klassas
 som vägar till stråk.
+
 Prioriterat regionalt transportnät för
 personer med funktionsnedsättning
-
 Den regionala infrastrukturplanen ska innefatta
 en beskrivning av ett prioriterat regionalt
 transportnät inom vilket infrastrukturen,
@@ -5920,22 +6359,35 @@ stationer och fordon ska kunna användas av
 personer med funktionsnedsättning, enligt
 förordningen om länsplaner. Ett systematiskt
 arbete med att tillgänglighetsanpassa
-kollektivtrafiken har pågått i många år. I Figur 16. Statligt vägnät i Västra Götaland. Källa: NVDB.
+kollektivtrafiken har pågått i många år. I
 trafikförsörjningsprogrammet finns tidsbestämda
+
 mål för både fordon och hållplatser.
 Prioriterade hållplatser är de med flest
-påstigande längs regionala stråk och inom Lista över prioriterade hållplatser
-
-kommunalt vägnät samt utpekade viktiga och knutpunkter som ska vara
-målpunkter. Lista över prioriterade hållplatser anpassade för personer med
-funktionsnedsättning finns på
+påstigande längs regionala stråk och inom
+kommunalt vägnät samt utpekade viktiga
+målpunkter. Lista över prioriterade hållplatser
 och knutpunkter för tillgänglighetsanpassning
-samt status för genomförandet är en del av www.vgregion.se/kollektivtrafik
+samt status för genomförandet är en del av
 trafikförsörjningsprogrammet och finns på Västra
 Götalandsregionens hemsida för att kunna
 uppdateras löpande.
 
 42
+
+Statliga regionala vägar
+som ingår i stråken
+Övriga statliga
+regionala vägar
+Statliga nationella vägar
+
+Figur 16. Statligt vägnät i Västra Götaland. Källa: NVDB.
+
+Lista över prioriterade hållplatser
+och knutpunkter som ska vara
+anpassade för personer med
+funktionsnedsättning finns på
+www.vgregion.se/kollektivtrafik
 
 <!-- sida 141 -->
 
@@ -5988,20 +6440,30 @@ Förslag till                            Övrig
 Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
 åtgärd                               finansiering
 mnkr         mnkr
+
 E20 / Riksväg Väg 535, Landvettervägen- Det finns behov av att öka Trafiksäkerhet-, 138 mnkr 318 mnkr Regional
-40,         Partillevägen, förbinder väg 40 i framkomligheten och kollektivtrafik- och        infrastrukturplan
-Tvärförbindelse söder med E20 i norr. Vägen är trafiksäkerheten för GC-åtgärder.              kollektivtrafik-
-viktig för både lokala och personbilar, lastbilar och                             åtgärd,
-regionala resor och   kollektivtrafiken samt                                      Partille kommun
+40,         Partillevägen, förbinder väg 40 i framkomligheten och kollektivtrafik- och         infrastrukturplan
+Tvärförbindelse söder med E20 i norr. Vägen är trafiksäkerheten för GC-åtgärder.               kollektivtrafik-
+viktig för både lokala och personbilar, lastbilar och                              åtgärd,
+regionala resor och   kollektivtrafiken samt                                       Partille kommun
 godstransporter samt för förbättra tillgängligheten och
-kollektivtrafiken i östra trafiksäkerheten för gång-
-Storgöteborg. Vägen är tillåten och cykeltrafikanter. På den
-för dispens- och farligt södra delen finns behov av en
-godstransporter samt är av ny viltpassage för att minska
-Trafikverket utpekad som barräreffekten och gynna
-omledningsväg. Åtgärden biologisk mångfald.
+
+kollektivtrafiken i östra
+Storgöteborg. Vägen är tillåten
+för dispens- och farligt
+godstransporter samt är av
+Trafikverket utpekad som
+omledningsväg. Åtgärden
 möjliggör utbyggnad av 3 000
 bostäder i Partille kommun.
+
+trafiksäkerheten för gång-
+och cykeltrafikanter. På den
+södra delen finns behov av en
+ny viltpassage för att minska
+barräreffekten och gynna
+biologisk mångfald.
+
 Väg 41,                                                                                           Inget data
 Sundholmen
 \- Björketorp
@@ -6059,10 +6521,11 @@ kommun
 Större vägåtgärder
 
 Medel i plan Total kostnad
-Förslag till                             Övrig
+Förslag till                            Övrig
 Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
 åtgärd                               finansiering
 mnkr         mnkr
+
 Väg 678,    Väg 678, som är ett alternativ En ombyggnation av väg 678 Mötesfri väg. 122 mnkr 122 mnkr Inget data
 Grohed -    till väg 44, kopplar samman E6 mellan Grohed och Bratteröd
 Bratteröd   med Vänersborg, Trollhättan till 2+1 med mittseparering,
@@ -6074,19 +6537,29 @@ icke trafiksäkra sträckan mellan
 Trestadsområdet och Göteborg.
 Trafikverket prioriterar sträckan
 som omledningsväg för E6.
+
 Väg 156,    Väg 156 går genom fyra Genomfartstrafiken i Skene Standardhöjning 0 mnkr 268 mnkr  Marks kommun
 Förbifart   kommuner: Härryda, Mark, skapar bristande  av befintlig väg,
 Skene, Extern Svenljunga och Tranemo. trafiksäkerhet och trygghet, ny sträckning med
 finansiering Genomfartstrafiken på väg 156 inte minst för oskyddade hastighet 80 km/h.
 behöver idag ta sig genom trafikanter i Skene. Det
-centrala Skene för att ansluta relativt höga trafikflödet
-till väg 41. De kommande åren skapar även en miljö utsatt
-planerar Marks kommun för för buller och en försämrad
-cirka 740 nya bostäder. För att luftkvalitet. Det finns även en
-kunna utveckla centrala Skene risk för köbildning som
-med bostäder och      exempelvis kan påverka
-verksamheter behöver  kollektivtrafiken.
+
+centrala Skene för att ansluta
+till väg 41. De kommande åren
+planerar Marks kommun för
+cirka 740 nya bostäder. För att
+kunna utveckla centrala Skene
+med bostäder och
+verksamheter behöver
 förbifarten färdigställas.
+
+relativt höga trafikflödet
+skapar även en miljö utsatt
+för buller och en försämrad
+luftkvalitet. Det finns även en
+risk för köbildning som
+exempelvis kan påverka
+kollektivtrafiken.
 
 46
 
@@ -6241,41 +6714,72 @@ etapp 1
 
 Bilaga 4 – Högst  prioriterade brister
 
-Vid sidan av de större åtgärder som är Vid framtagandet av regional infrastrukturplan
-beslutade i den regionala infrastrukturplanen 2022-2033 har inga nya vägbrister prioriterats
-2022-2033 finns prioriterade brister som kan in för åtgärdsvalsstudier, då de flesta brister
-bli aktuella till kommande planrevideringar. I från planen 2018-2029 kvarstår och är fortsatt
-regional infrastrukturplan är avsikten att ha en prioriterade av kommunalförbunden.
-bred politisk förankring av prioriterade brister. Ytterligare åtgärdsvalsstudier kan, vid behov av
-Till den regionala infrastrukturplanen omprioritering, lyftas för beslut under planens
-2018-2029 pekades de högst prioriterade genomförande.
+Vid sidan av de större åtgärder som är
+beslutade i den regionala infrastrukturplanen
+2022-2033 finns prioriterade brister som kan
+bli aktuella till kommande planrevideringar. I
+regional infrastrukturplan är avsikten att ha en
+bred politisk förankring av prioriterade brister.
+Till den regionala infrastrukturplanen
+
+2018-2029 pekades de högst prioriterade
 bristerna i vägsystemet ut av varje
-kommunalförbund och brister inom Västra Götalandsregionen har i dialog med
-
-kollektivtrafiken pekades ut av Västtrafik. Vilka kommunalförbunden föreslagit att tematiska
-brister som prioriteras i den regionala åtgärdsvalsstudier ska genomföras. Syftet är att
-infrastrukturplanen behandlas politiskt i åtgärda brister som spänner över en större
-respektive kommunalförbund och sedan i geografi och som kan lösas med medel ur flera
-beredningen för hållbar utveckling, BHU, i av planens åtgärdsområden.
+kommunalförbund och brister inom
+kollektivtrafiken pekades ut av Västtrafik. Vilka
+brister som prioriteras i den regionala
+infrastrukturplanen behandlas politiskt i
+respektive kommunalförbund och sedan i
+beredningen för hållbar utveckling, BHU, i
 samband med planens framtagande.
-Trafikverket ser ett behov av att utreda
-För bristerna i statligt vägnät behöver det återstående del av väg 678, Lerbo - Grohed. En
-genomföras åtgärdsvalsstudier eller avsiktsförklaring har tecknats mellan Västra
-motsvarande utredningar. För de flesta Götalandsregionen, Trafikverket och Orust
-prioriterade brister i planen har kommun om att genomföra en
-åtgärdsvalsstudier redan genomförts, men ett åtgärdsvalsstudie för en ny förbindelse mellan
-fåtal återstår och kommer att genomföras. Orust och fastlandet. Åtgärdsvalsstudien
 
-Åtgärdsvalsstudier eller motsvarande finansieras av STO-kommunerna och
-utredningar genomförs av Trafikverket i nära ambitionen är att bygga en eventuell fast
-samverkan med berörda kommuner och förbindelse genom finansiering utanför
-aktörer. Brister inom kollektivtrafik som kan ordinarie nationell- och regional
-bli aktuella för statlig medfinans i kommande infrastrukturplan.
+För bristerna i statligt vägnät behöver det
+genomföras åtgärdsvalsstudier eller
+motsvarande utredningar. För de flesta
+
+prioriterade brister i planen har
+åtgärdsvalsstudier redan genomförts, men ett
+fåtal återstår och kommer att genomföras.
+Åtgärdsvalsstudier eller motsvarande
+utredningar genomförs av Trafikverket i nära
+samverkan med berörda kommuner och
+aktörer. Brister inom kollektivtrafik som kan
+bli aktuella för statlig medfinans i kommande
 planrevideringar kräver inte åtgärdsvalsstudie.
 Eftersom åtgärden behöver minst 50 procent
 finansiering från sökande part behöver de
 utredas i nära samverkan mellan Västtrafik och
 aktuell kommun.
+
+Vid framtagandet av regional infrastrukturplan
+2022-2033 har inga nya vägbrister prioriterats
+in för åtgärdsvalsstudier, då de flesta brister
+från planen 2018-2029 kvarstår och är fortsatt
+prioriterade av kommunalförbunden.
+Ytterligare åtgärdsvalsstudier kan, vid behov av
+omprioritering, lyftas för beslut under planens
+
+genomförande.
+
+Västra Götalandsregionen har i dialog med
+kommunalförbunden föreslagit att tematiska
+åtgärdsvalsstudier ska genomföras. Syftet är att
+åtgärda brister som spänner över en större
+geografi och som kan lösas med medel ur flera
+av planens åtgärdsområden.
+
+Trafikverket ser ett behov av att utreda
+återstående del av väg 678, Lerbo - Grohed. En
+avsiktsförklaring har tecknats mellan Västra
+Götalandsregionen, Trafikverket och Orust
+
+kommun om att genomföra en
+åtgärdsvalsstudie för en ny förbindelse mellan
+Orust och fastlandet. Åtgärdsvalsstudien
+finansieras av STO-kommunerna och
+ambitionen är att bygga en eventuell fast
+förbindelse genom finansiering utanför
+ordinarie nationell- och regional
+infrastrukturplan.
 
 51
 
@@ -6350,47 +6854,88 @@ Brister som kräver åtgärdsvalsstudie
 
 Bilaga 5 – Inriktning järnvägsåtgärder  per bana
 
-I den regionala infrastrukturplanen har medel Södra Bohusbanan
-avsatts för att i första hand genomföra åtgärder I Grohed färdigställdes ett nytt mötesspår år
-på fem av de järnvägar som är av stor betydelse 2020, vilket samfinansierades via regional
-för det regionala resandet, men som har lägre infrastrukturplan 2018-2029. Mötesspåret
-prioritet nationellt.           möjliggör att hela södra Bohusbanan mellan
-Göteborg och Uddevalla får kapacitet för att
-I Målbild Tåg 2035 beskrivs målsättningen för köra halvtimmestrafik. Från tidigare beslut
-utvecklingen av persontågstrafiken. Utifrån finns även medel avsatta för en ny station vid
-detta beskrivs nedan en inriktning för åtgärder Brunnsbo. Efter uppräkning till 2020 års
-på de fem järnvägarna.          prisnivå samt hantering av en kostnadsökning
+I den regionala infrastrukturplanen har medel
+avsatts för att i första hand genomföra åtgärder
+på fem av de järnvägar som är av stor betydelse
+för det regionala resandet, men som har lägre
+prioritet nationellt.
 
-har 74 miljoner kronor avsatts för ny station
-Kinnekullebanan                 vid Brunnsbo. I övrigt reserveras medel för att
-Avsatta medel för Kinnekullebanan inriktas till öka måluppfyllelsen genom exempelvis
-att förstärka positiva effekter vid kommande stations-, kapacitets- eller hastighetsåtgärder.
-spårbyte i huvudsak i form av hastighets- och 20 miljoner kronor av dessa avsätts till
-kapacitetshöjande åtgärder. Utöver plattformsåtgärder i samband med
-spårupprustningen har Trafikverket utrett Stenungsunds flytt av stationen till nya
-stationsmiljöerna längs Kinnekullebanan och resecentrum.
+I Målbild Tåg 2035 beskrivs målsättningen för
+
+utvecklingen av persontågstrafiken. Utifrån
+detta beskrivs nedan en inriktning för åtgärder
+på de fem järnvägarna.
+
+Kinnekullebanan
+Avsatta medel för Kinnekullebanan inriktas till
+att förstärka positiva effekter vid kommande
+spårbyte i huvudsak i form av hastighets- och
+kapacitetshöjande åtgärder. Utöver
+spårupprustningen har Trafikverket utrett
+stationsmiljöerna längs Kinnekullebanan och
 plankorsningarna som begränsar hastigheten på
-sträckan.                       Viskadalsbanan
-Tidigare avsatta medel för Viskadalsbanan
-Norra Bohusbanan                ersattes delvis av två nationella projekt i form
+sträckan.
 
-Från tidigare beslut fanns det 30 miljoner av nytt spår samt ett arbete med att åtgärda
-kronor avsatta för ett spårbyte på norra plankorsningar för att kunna återta tidigare
-Bohusbanan. Spåren är i dåligt skick och är i hastigheter på sträckan. Fokus för de avsatta
-behov av upprustning. Det nya regelverket medlen ligger därför på stationsmiljöerna.
-kring plankorsningar medför att även om Plattformarna behöver bli längre för att kunna
-spåret byts ut så krävs det att plankorsningarna hantera framtida fordon samt rustas upp för att
-åtgärdas för att det ska vara möjligt att höja erbjuda attraktiva och säkra stationer för
-hastigheten. Avsatta medel för norra resenärerna.
+Norra Bohusbanan
+Från tidigare beslut fanns det 30 miljoner
+kronor avsatta för ett spårbyte på norra
+Bohusbanan. Spåren är i dåligt skick och är i
+behov av upprustning. Det nya regelverket
+kring plankorsningar medför att även om
+spåret byts ut så krävs det att plankorsningarna
+åtgärdas för att det ska vara möjligt att höja
+hastigheten. Avsatta medel för norra
 Bohusbanan har därför fokus på
-hastighetshöjande åtgärder för att kunna utöka Älvsborgsbanan
-trafiken samt på robusthetsåtgärder, där Avsatta medel innehåller tidigare beslutade
-järnvägen till exempel är i stort behov av åtgärder om att utöka kapaciteten på
-trädsäkring längs hela sträckan Uddevalla- Vänersborg C för att kunna inrymma tre tåg
+hastighetshöjande åtgärder för att kunna utöka
 
-Strömstad. Trädsäkring innebär att området samtidigt på stationsområdet, samt signal-
-närmast järnvägen röjs från träd så att trafiken åtgärder för att förbättra kapacitet och
-inte tvingas ställas in vid hårda vindar. robusthet mellan Öxnered och Vänersborg.
+trafiken samt på robusthetsåtgärder, där
+järnvägen till exempel är i stort behov av
+trädsäkring längs hela sträckan Uddevalla-
+Strömstad. Trädsäkring innebär att området
+närmast järnvägen röjs från träd så att trafiken
+inte tvingas ställas in vid hårda vindar.
+
+Södra Bohusbanan
+I Grohed färdigställdes ett nytt mötesspår år
+2020, vilket samfinansierades via regional
+infrastrukturplan 2018-2029. Mötesspåret
+möjliggör att hela södra Bohusbanan mellan
+Göteborg och Uddevalla får kapacitet för att
+köra halvtimmestrafik. Från tidigare beslut
+
+finns även medel avsatta för en ny station vid
+Brunnsbo. Efter uppräkning till 2020 års
+prisnivå samt hantering av en kostnadsökning
+har 74 miljoner kronor avsatts för ny station
+vid Brunnsbo. I övrigt reserveras medel för att
+öka måluppfyllelsen genom exempelvis
+stations-, kapacitets- eller hastighetsåtgärder.
+20 miljoner kronor av dessa avsätts till
+plattformsåtgärder i samband med
+Stenungsunds flytt av stationen till nya
+resecentrum.
+
+Viskadalsbanan
+
+Tidigare avsatta medel för Viskadalsbanan
+ersattes delvis av två nationella projekt i form
+av nytt spår samt ett arbete med att åtgärda
+plankorsningar för att kunna återta tidigare
+hastigheter på sträckan. Fokus för de avsatta
+medlen ligger därför på stationsmiljöerna.
+Plattformarna behöver bli längre för att kunna
+hantera framtida fordon samt rustas upp för att
+erbjuda attraktiva och säkra stationer för
+resenärerna.
+
+Älvsborgsbanan
+
+Avsatta medel innehåller tidigare beslutade
+åtgärder om att utöka kapaciteten på
+Vänersborg C för att kunna inrymma tre tåg
+samtidigt på stationsområdet, samt signal-
+åtgärder för att förbättra kapacitet och
+robusthet mellan Öxnered och Vänersborg.
 Trafikverket har genomfört en åtgärdsvalsstudie
 för Älvsborgsbanan där flera viktiga åtgärder
 identifierats. För att förbättra trafiken är det
@@ -6398,6 +6943,7 @@ viktigt att höja hastigheten mellan Vänersborg
 och Herrljunga så att tågen kan anpassas med
 attraktiva bytestider till fjärr- och regiontåg i
 Herrljunga. Avsatta medel ska i första hand
+
 verka för denna hastighetshöjning.
 
 54
@@ -11089,59 +11635,102 @@ Förstudie
 2023|12|22
 
 (e-post borttagen) | semren-mansson.se
-3202
-nossnåM
-&
-nérmeS
-©
+
+© Semrén & Månsson 2023
 
 <!-- sida 273 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Översikt/Introduktion
-Denna Förstudierapport tar sin utgångspunkt i fram av Newsec och som utvecklats vidare under Krav på ytskikt skall uppfyllas så Kungsbacka
-tävlingsförslaget ”Krona”, som vann den inbjudna arbetet.                                 kommuns städ, skötsel och underhållskrav
-arkitekttävlingen om ny multiarena i Kungsbacka.                                          tillgodoses.
-Förslaget har bearbetats och i rapporten illustreras I vissa fall utnyttjas rumsligheter endast av en
-två varianter. En mindre variant där programmet brukare, medan det i andra fall går att överlagra Exempelvis så behöver träläktare och tegelgolv
-är samlat i en huvudbyggnad (Alternativ A), samt flera funktioner och brukare i samma rum, då ytskiktsbehandlas med transparent behandling
-en större variant där programmet utökats med ett olika verksamheter använder rummen vid olika så det enkelt går att rengöra. Väggskivor, ytskikt
-annex på byggnadens norra sida (Alternativ B). tider.                                     m.m. skall vara robusta och tåla hårt slitage.
+
+Denna Förstudierapport tar sin utgångspunkt i
+tävlingsförslaget ”Krona”, som vann den inbjudna
+arkitekttävlingen om ny multiarena i Kungsbacka.
+
+Förslaget har bearbetats och i rapporten illustreras
+två varianter. En mindre variant där programmet
+är samlat i en huvudbyggnad (Alternativ A), samt
+en större variant där programmet utökats med ett
+annex på byggnadens norra sida (Alternativ B).
+
+Förslagen redovisas med tydligt markerade
+kommunala ytor respektive kommersiella ytor. Det
+gör att målbilden avseende ytor går att härleda
+
+genom de båda varianterna.
+
+Kommunala ytor tar sin utgångspunkt i de
+behovsbeskrivningar som sammanställt de olika
+verksamheternas behov samt vilka rumsliga
+förutsättningar de kräver.
+
+Kommersiella ytor har bearbetats med
+utgångspunkt i den kommersiella analys som togs
+
+Alternativ A (exklusive annex)
+
+fram av Newsec och som utvecklats vidare under
+arbetet.
+
+I vissa fall utnyttjas rumsligheter endast av en
+brukare, medan det i andra fall går att överlagra
+
+flera funktioner och brukare i samma rum, då
+olika verksamheter använder rummen vid olika
+tider.
+
+De båda varianterna uppfyller lika stora
+arkitektoniska och upplevelsemässiga värden.
+Förstudien har tagits fram med stöd av teknisk
+sakkunskap samt i nära samarbete med
+representanter för Kungsbacka kommun.
+
+I förstudien ingår en beskrivning av viktiga
+material, lösningar och viktiga rum för att
+bibehålla den arkitektoniska upplevelsen och
+helheten. De rum som inte är beskrivna i
+förstudierapporten skall generellt uppfylla nivån i
+Kungsbacka Kommuns dokument, TKA-Bygg och
+Koncept Idrottshall version 1.0.
+
+Alternativ B (inklusive annex)
+
+Krav på ytskikt skall uppfyllas så Kungsbacka
+kommuns städ, skötsel och underhållskrav
+tillgodoses.
+
+Exempelvis så behöver träläktare och tegelgolv
+
+ytskiktsbehandlas med transparent behandling
+så det enkelt går att rengöra. Väggskivor, ytskikt
+m.m. skall vara robusta och tåla hårt slitage.
 Golv i korridorer/passager m.m. kopplat till
-De båda varianterna uppfyller lika stora     inomhusidrott kan vara slipade betonggolv som är
-Förslagen redovisas med tydligt markerade    arkitektoniska och upplevelsemässiga värden. transparent behandlade för slitage och städning.
-kommunala ytor respektive kommersiella ytor. Det Förstudien har tagits fram med stöd av teknisk Golv för fotboll får studeras vidare i skede efter
-gör att målbilden avseende ytor går att härleda sakkunskap samt i nära samarbete med      förstudie. Påkörningslister och sparkskydd på
-genom de båda varianterna.                   representanter för Kungsbacka kommun.        dörrar skall monteras där behov finns. Golv i
+inomhusidrott kan vara slipade betonggolv som är
+transparent behandlade för slitage och städning.
+Golv för fotboll får studeras vidare i skede efter
+förstudie. Påkörningslister och sparkskydd på
+dörrar skall monteras där behov finns. Golv i
+
 Back-of-House skall tåla trucktransport. Dörrar
-Kommunala ytor tar sin utgångspunkt i de     I förstudien ingår en beskrivning av viktiga till utrymmen där robotstädmaskinen skall
-behovsbeskrivningar som sammanställt de olika material, lösningar och viktiga rum för att förbi skall utföras med automatik, styrd från
-verksamheternas behov samt vilka rumsliga    bibehålla den arkitektoniska upplevelsen och robotstädmaskinen. Ytor där klisterhandboll
-förutsättningar de kräver.                   helheten. De rum som inte är beskrivna i     förekommer skall studeras med avseende på
-förstudierapporten skall generellt uppfylla nivån i rengörhetssynpunkt i nästa skede.
-Kommersiella ytor har bearbetats med         Kungsbacka Kommuns dokument, TKA-Bygg och
-utgångspunkt i den kommersiella analys som togs Koncept Idrottshall version 1.0.
-Alternativ A (exklusive annex)               Alternativ B (inklusive annex)               Entréfasad / Huvudentré
+till utrymmen där robotstädmaskinen skall
+förbi skall utföras med automatik, styrd från
+robotstädmaskinen. Ytor där klisterhandboll
+förekommer skall studeras med avseende på
+rengörhetssynpunkt i nästa skede.
+
+Entréfasad / Huvudentré
+
 2
+
+© Semrén & Månsson 2023
 
 <!-- sida 274 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Innehållsförteckning
+
 Alternativ A                                 Alternativ B                                 Utvändiga material
 Ytor                             Sida 4      Ytor                            Sida 15      Huvudbyggnad - Fasad            Sida 26
 Illustrationsplan                Sida 5      Illustrationsplan               Sida 16      Huvudbyggnad - Passage          Sida 27
@@ -11149,6 +11738,7 @@ Plan 1-Entréplan                 Sida 6      Plan 1-Entréplan                S
 Plan 2                           Sida 7      Plan 2                          Sida 18      Annex - Terrass & länk          Sida 29
 Plan 3                           Sida 8      Plan 3                          Sida 19      Fotbollsarena entréfasad        Sida 30
 Plan 4                           Sida 9      Plan 4                          Sida 20      Länkrum                         Sida 31
+
 Takplan                         Sida 10      Takplan                         Sida 21
 Invändiga material
 Sektion A-A, B-B, C-C           Sida 11      Sektion A-A, B-B, C-C           Sida 22
@@ -11159,26 +11749,26 @@ Fasad mot norr, söder           Sida 13      Fasad mot norr, söder           S
 Hall B                          Sida 34
 Fasad mot väster, öster         Sida 14      Fasad mot väster, öster         Sida 25
 Fondrum i länk och konferens    Sida 35
+
 Alternativ A (exklusive annex)               Alternativ B (inklusive annex)               Utvändiga och invändiga material
 
 3
 
+© Semrén & Månsson 2023
+
 <!-- sida 275 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Ytor
+
 Alternativ      A
+
 15230 m2 BTA
 Varav:
 ca 10120 m2 BTA Kommunalt
 ca 5110 m2 BTA Kommersiellt
+
 Ytorna som redovisas är bruttoytor och
 innefattar samtliga ytor i byggnaden. Några
 ytor nyttjas gemensamt av Kommunala och
@@ -11189,32 +11779,15 @@ Fasad mot norr
 
 4
 
+© Semrén & Månsson 2023
+
 <!-- sida 276 -->
 
-5 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-IDROTTSTORG
-VIP/RESTAURANG
-ENTRÉ
-HUVUDENTRÉ
-PUBLIK OCH SPORT
-ENTRÉ DRIFT KOMMERS 80 000
-ENTRÉ -BoH/ARENA
-BACK of HOUSE
-ENTRÉ -ARTIST/ELITIDROTT & DRIFT
-ENTRÉ -MEDIA/FÖRENINGAR
-ENTRÉ -BORTASUP.
-ENTRÉ -DRIFT FOTBOLLSPLAN
-5
-tsaL
-jak
+
 BADHUSET
 AKTIVITETSPARK
+
 ISARENA
 Alternativ      A                                                                                   S
 N
@@ -11232,29 +11805,37 @@ M
 0
 8
 ISHALL
-FRAMTIDA     FRAMTIDA
+IDROTTSTORG          FRAMTIDA     FRAMTIDA
 MÖJLIG       MÖJLIG
 BYGGRÄTT     BYGGRÄTT     INFART BoH
-HKP-PLATS
+VIP/RESTAURANG
+ENTRÉ
+HKP-PLATS HUVUDENTRÉ
+PUBLIK OCH SPORT
 BOULEHALLEN
 MILJÖRUM
 ENTRÉ GYM
-& LOKALER
+& LOKALER                                           ENTRÉ DRIFT KOMMERS 80 000
 SPORT-
 ARENA
-HALLEN
+HALLEN                                       ENTRÉ -BoH/ARENA
 
+BACK of HOUSE
 UTBREDNING &
 UTSEENDE ENLIGT L.
 ENTRÉ FORRÅD                                                                                
 OCH SKYDDSRUM
 
 IDROTTSPARK
+ENTRÉ -ARTIST/ELITIDROTT & DRIFT
+ENTRÉ -MEDIA/FÖRENINGAR
 ENTRÉ       FOTBOLLSLÄKTARE / SKÄRMTAK
-                                                 IDROTTSPARK
-                                                                                                            UTFART BoH
+
+ 
+IDROTTSPARK
+ENTRÉ -BORTASUP. UTFART BoH
 
-                                                                         ENTRÉ -FOTBOLL
+                                                                         ENTRÉ -FOTBOLL             ENTRÉ -DRIFT FOTBOLLSPLAN
 
                                                                                                                                            
 
@@ -11301,168 +11882,128 @@ ENTRÉ       FOTBOLLSLÄKTARE / SKÄRMTAK
  
                                                                                                                          SKALA 1:1000 (för A3) 
                                                                                                                                     N
-    Illustrationsplan                                    MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE                             0        25  50 m
+    Illustrationsplan                                    MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE                             0        25  50 m 5
 
 
                                                                                                                                 
-                                                                                                                 
+                                                                                                                     5 / 35
 
+
+© Semrén & Månsson 2023
+
+Last
+
+kaj
 
 <!-- sida 277 -->
 
-6 / 35
-3202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Förstudie - 23-12-22
-Legend
-Kommunalt
-Kommersiellt
-Delat
-HUVUDENTRÉ VIP/RESTAURANG
-PUBLIK OCH SPORT ENTRÉ
-VIP VINDFÅNG                                     TRAPPHUS
-RESTAURANG
-FOAJÉ                                                    PASSAGE
-UNDERCENTRAL
-INFODISK/DRIFT
-EL-RUM
-KOMMERSIELL    STÄD      RWC
-BACK OF HOUSE
-KIOSK
-SKYDDSRUM/REHABGYM    OMKL. A1
-OMKL. A2
-SKYDDSRUM/FÖRRÅD
-OMKL. A1                                FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE
-SKYDDSRUM/FORRÅD FOTBOLL                                                                    ENTRÉ -ARTIST/ELITIDROTT OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM
-ENTRÉ -MEDIA/FÖRENINGAR
-SPELARBÄNK MED TAK
-SKALA 1:500 (för A3)
-0      10      20 m      6
-EGASSAP
-PASSAGE/MIXED ZONE TRAPPHUS
-PASSAGE
-PASSAGE/SPELARTUNNEL
-&-DNAH TTÄVTLLOB              &-DNAH TTÄVTLLOB
-FRD FOTBOLL FROSTFRITT
-DRF LLOBTOFTILE
-FRD NIU
-LLOBDNAHTILE
-DRF
-LOKAL/CAFÉ
-VÄNTRUM
-EGASSAP
-HISS HISS STORKÖK
-WC  WC
-TICKET RIP
-FRD FRD HANDBOLL HANDBOLL
-FRD FRD HANDBOLL HANDBOLL                                       FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH
-RWC MASSAGE HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM
-EGASSAP
-ENTRÉ DRIFT KOMMERS
-MÖTESRUM
-KIOSK
-GYM
-OMKL. E  OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE
-PASSAGE
-TROP
-MILJÖRUM
-SCHAKT
-200 sittplatser
-PASSAGE
-CAFÉ                                                 OMKL.         GO K D O S M M M O E T R T S AK
-TICKET                  WC RIP
-ENTRÉ -BoH/ARENA
-OMKL. A1
-OMKL. A2
-OMKL. A1                                                MILJÖRUM
-OMKL. C    OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM
-FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH)
-FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT ENTRÉ -BORTASUP.
-ENTRÉ -DRIFT FOTBOLLSPLAN
-MURLIV
 YTSAMMANSTÄLLNING
 50/50
 Frostfritt
+Kungsbacka Arena - Förstudie - 23-12-22
 Kommersiell
 Kommunal
-FRAMTIDA MÖJLIG BYGGRÄTT
-TRAPPHUS                                                 PAUSRUM KONTOR
-OMKL. FRD FRYS KYL FETT- UTSLUTNING
-RWC PASSAGE
-CAFÉKÖK                                                WC STÄD
-OMKL.                                                                                TELERUM
-PASSAGEFRD/SOP
-RWC
-VILRUM RWC/D
-FRD
-/KOPI
-LASTKAJ
-LYFTBORD
-BOH-PLAN,
-UTBREDNING &
-ENTRÉ FORRÅD                                                                                              UTSEENDE ENLIGT L.
-OCH SKYDDSRUM              RWC/D   RWC/D
-EL-TRUCK
-ENTRÉ FORRÅD OCH SKYDDSRUM
-FRD HANDBOLL                                                                   OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D
-DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM
-ENTRÉ IDROTTSPARK
-LLOBDNAHTILE
-DRF
-FRAMTIDA MÖJLIG BYGGRÄTT
-CAFÉ
-ENTRÉ
-ENTRÉ GYM & LOKALER
-OMKL                           SCEN 2       SCEN1
-SPELARTUNNEL
-/ ENTRÉ
-FOTBOLL
-TROP
-FRD NIU
-Extra målställning
-SPELARBÄNK MED TAK
-DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE
-VINDFÅNG
-SKÄRMTAK                                                                             SKÄRMTAK
-STAKET
-SÄKERHETSGRÄNS
-GNÅFDNIV
-LLEISREMMOK
-ÉRTNE
-SKÄRMTAK
-KATMRÄKS
-KATMRÄKS
 A             B                                   C
-Alternativ      A
+FRAMTIDA MÖJLIG BYGGRÄTT
+Alternativ      A                                                            FRAMTIDA MÖJLIG BYGGRÄTT                                     Legend
+
+Kommunalt
+Kommersiellt
+
+Delat
+
 HKP-PLATS HKP-PLATS
-E                                                                                                                              E
-
-D                                                                                                                              D           
-
+CAFÉ          HUVUDENTRÉ VIP/RESTAURANG
+ENTRÉ        PUBLIK OCH SPORT ENTRÉ
+MILJÖRUM
+E                       TRAPPHUS SCHAKT VINDFÅNG HISS VIP VINDFÅNG         STORKÖK PAUSRUM KONTOR HISS TRAPPHUS                E
+200 sittplatser
+PASSAGE
+CAFÉ                                  RESTAURANG     OMKL. OMKL. FRD FRYS KYL UTS F L E U T T T N - ING GO K D O S M M M O E T R T S AK
+RWC PASSAGE
+E & N L T O R K É A G L Y E M R SKÄRMTAK CAFÉKÖK LOKAL/CAFÉ FOAJÉ TIC R K IP ET WC STÄD WC PASSAGE  ENTRÉ DRIFT KOMMERS
+OMKL.                                                                                TELERUM
+PASSAGEFRD/SOP                     MÖTESRUM                                       UNDERCENTRAL
+RWC                      INFODISK/DRIFT
+EL-RUM
+VILRUM RWC/D
+FRD                                                                                                 
+/KOPI
+WC  WC                                                       LASTKAJ
+KOMMERSIELL    STÄD TICKET
+D                                    RIP  RWC                                                                                  D           
+LYFTBORD                                           
+OMKL                           SCEN 2       SCEN1        BACK OF HOUSE ENTRÉ -BoH/ARENA
+KIOSK  KIOSK                                                                  BOH-PLAN,
+UTBREDNING &
 
- 
- 
+  OC
+E
+H
+N T
+S
+R
+K
+É
+Y D
+F
+D
+O
+S
+R
+R
+R
+U
+Å
+M
+D
+RWC/D   RWC/D
+UTSEENDE ENLIGT L.
+       SKYDDSRUM/REHABGYM    OMKL. A1 OMKL. A1
 
                                                                                                                                            
- 
-                                                                                                                                            
- 
-      
+
+                              OMKL. A2 OMKL. A2
+     FRD NIU HAN F D R B D OLL HAN F D R B D OLL GYM                                       EL-TRUCK                                 
+  OC E H N T S R K É Y D F D O S R R R U Å M D SKYDDSRUM/FÖRRÅD
+ 
+
+    HAN
+F
+D
+R
+B
+D
+OLL HAN
+F
+D
+R
+B
+D
+OLL HAN
+F
+D
+R
+B
+D
+OLL           RWC/D
+OMKL. A1
+RWC/D
+OMKL. A1
+ANTIDOPING VÄNTRUM TVÄTT AR O T M IS K T L L . O C G / E AR O T M IS K T L L . O B G / E HAN F D R B D OLL AR / E B N S O A T R F M O R D A L D A O T R E C R H IAL PROD. OFFICE RWC/D O D M RI K F L T . O D M RI K F L T . MILJÖRUM
 
-      
+        OC E H N T S R K É Y D F D O S R R R U Å M D SKYDDSRUM/FORRÅD FOTBOLL FRD NIU TRAPPHUS HISS RWC O OM M K K L L . . C B M L R E Ä W D R K I C U C A M R IN E S / K M M A M S A Ö S T A C T G E H E - C C R R O O E E M M W W K K R R L L . . O O D D O O / / M M / / E E N N S S O O E E M M M M K B K B L L L L . E . E D D L L O O G G E E / / E EN N S S O O E EM M M M B B K K L L L L E E . . E E L L O O G G E E / / E E N N S S O O E E M M M M B B K K L L L L E E . . E E L L O O G G E E /ARB P E R T E S S R S U R M U M M EDIA HISS PASSA T G R E A / P M P IX H E U D S ZONE MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM ENTRÉ -A D R R T IF IS T T/ELITIDROTT
 
- 
-                                                                                                                                           
+        SKÄRMTAK PASSAGE                                                             PASSAGE SKÄRMTAK ENTRÉ -MEDIA/FÖRENINGAR
+       ENTRÉ IDROTTSPARK FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT PASSAGE/SPELARTUNNEL Extra målställnin F g RD FOTBOLL FROSTFRITT 200 m3 - 20 S m P R x . 4 T A m N x K 2,5m (LxBxH) SPR. RUM                                        
 
                                                                                                                                                 
-                                                                                                                                                   
-
-                                                                                                                                               
-                                                                                                                                        
-    
+     STAKET FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT SPELARTUNNEL ENTRÉ -BORTASUP.                                          
+                                                   / ENTRÉ
+                                                  FOTBOLL                                                                                      
+                                           SPELARBÄNK MED TAK SPELARBÄNK MED TAK                                                        
+  
+SÄKERHETSGRÄNS                                                                        ENTRÉ -DRIFT FOTBOLLSPLAN         
                                                                                                                                            
                                                                                                                                     
                                                                                                                                     
@@ -11471,111 +12012,174 @@ D                                                                               
                                                                                                                              
                                                                                                                            
 
+SKALA 1:500 (för A3)
 N
+0      10      20 m      6
 Plan 1-Entréplan
+6 / 35
+
+© Semrén & Månsson 2023
+
+PORT
+
+ENTRÉ KOMMERSIELL
+
+VINDFÅNG
+
+PASSAGE
+
+PASSAGE
+
+PASSAGE
+
+FRD ELITHANDBOLL
+
+FRD ELITHANDBOLL
+
+HAND- &
+
+BOLLTVÄTT
+
+FRD
+
+ELITFOTBOLL
+
+FRD
+
+ELITFOTBOLL
+
+FRD
+
+ELITFOTBOLL
+
+FRD
+
+ELITFOTBOLL
+
+HAND- &
+
+BOLLTVÄTT
+
+VILRUM
+
+PORT
+
+SKÄRMTAK
+
+SKÄRMTAK
 
 <!-- sida 278 -->
 
-7 / 35
-3202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Förstudie - 23-12-22
-Legend
-Kommunalt
-Kommersiellt
-Delat
-TRAPPHUS
-WC         SERVERING                           WC UNI
-FRD HANDBOLL
-SPORTHALL    GALLERI
-PASSAGE FRD FÖRENINGAR RWC
-RWC WC   WC    KIOSK        SERVERING             TRAPPHUS KIOSK RWC
-SKALA 1:500 (för A3)
-0      10      20 m      7
-MURSDRÅVKUJS
 YTSAMMANSTÄLLNING
 50/50
 Kommersiell
+Kungsbacka Arena - Förstudie - 23-12-22
 Kommunal
-TRAPPHUS SCHAKT                                               HISS
-ÖPPET NED             HISS WC        RWC KIOSK                  KIOSK RWC SCHAKT
+A             B                                   C
+
+Alternativ      A                                                                                                                         Legend
+
+Kommunalt
+Kommersiellt
+
+Delat
+
+TRAPPHUS SCHAKT                        MÖRKLÄGGNINGSSYSTEM    HISS TRAPPHUS
+E              ÖPPET NED             HISS WC   WC   RWC KIOSK SERVERING        KIOSK RWC SCHAKT WC UNI                         E
+FRD HANDBOLL
 HC HC
 SCHAKT
 20p                              20p
 ÖPPET
 NED
 KIOSK
-115p
-HC
-KIOSK
-HAND-& BOLLTVÄTT                                                       SCHAKT HC HC
-FRD INNEBANDY   BØTTEKOTT FRD SPORTHALL
-SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS             HISS  KIOSK
-HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC
-20 PL M. BORD, MEDIA
-p911
-p781
-p911
-115p
-115p       307+4p        307+4p      115p
-20p                              20p
-p911
-p8+481
-p911
-LESGNÄTS
-LEBIXELF
-210p      197+8p    210p
-METSYSSGNINGGÄLKRÖM
-MÖRKLÄGGNINGSSYSTEM
-MÖRKLÄGGNINGSSYSTEM
-METSYSSGNINGGÄLKRÖM
-A             B                                   C
-Alternativ      A
-E                                                                                                                              E
+115p    210p      197+8p    210p     115p
 
 D                                                                                                                              D           
 
+SPORTHALL    GALLERI
+HC
                          E P V O S F E P O Ö N - N R U T P S
 
 
                                                                                                                                            
 
 
-                                                                                                                                        
-
+
+                                                115p       307+4p        307+4p      115p
+
 
 
 
 
-SON
-                               FÖR 
+SON                                                             KIOSK
+ 
 E
 P
 V
-O
+O F
 E
-P
+P Ö
 N
--U
+\- R U
 T
 P
 S
+20p                              20p
 
 
-   
+                   BO H L A L N T D V - Ä & TT               HC  HC                        SCHAKT
 
-   
-  
+      FRD SPORTHALL FÖRE F N R I D NGAR FRD INNEBANDY RWC PASSAGE BØTTEKOTT
+          RWC KIOSK SCHAKT TRAPPHUS HISS SCHAKT RWC WC WC KIOSK SERVERING   KIOSK HISS TRAPPHUS KIOSK RWC
 
-
+                                                              MÖRKLÄGGNINGSSYSTEM
 
- 
-                                                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
+
+
+              HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC     
+ 
+
+20 PL M. BORD, MEDIA                                                                  
+ 
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                                                                                                                                                 
                                                                                                                                                
@@ -11592,98 +12196,98 @@ S
                                                                                                                                         
                                                                                                                            
 
+SKALA 1:500 (för A3)
 N
+0      10      20 m      7
 Plan 2
+7 / 35
+
+© Semrén & Månsson 2023
+
+MÖRKLÄGGNINGSSYSTEM
+
+119p
+
+184+8p
+
+119p
+
+FLEXIBEL STÄNGSEL
+
+SJUKVÅRDSRUM
+
+119p
+
+187p
+
+119p
+
+MÖRKLÄGGNINGSSYSTEM
 
 <!-- sida 279 -->
 
-8 / 35
-3202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Förstudie - 23-12-22
-Legend
-Kommunalt
-Kommersiellt
-Delat
-SCHAKT                                  KONTOR         / F K R O D PISCHAKT
-MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
-MINI-STÄD
-BOKNINGSBAR LOKAL
-/CO-WORK /VIP-LOGE
-TEKNIK-ARENA
-HC
-TEKNIK/LJUD/LJUS
-MINI-STÄD
-LÄKTARE SPORTHALL HC GALLERI        YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY
-HK ARANÄS 7-10p
-SEMINARIERUM/FOTBOLLS-VIP                                        GREENROOM/
-TEKNIK-OMKL, GYM, M.M.    BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM
-SKALA 1:500 (för A3)
-0      10      20 m      8
-.TNEMMOK .TNEMMOK
 YTSAMMANSTÄLLNING
 50/50
 Kommersiell
+Kungsbacka Arena - Förstudie - 23-12-22
 Kommunal
-HISS TRAPPHUS HISS
+A             B                                   C
+
+Alternativ      A                                                                                                                         Legend
+
+Kommunalt
+Kommersiellt
+
+Delat
+
+TAKFÖNSTER
+E                          SCHAKT   HISS                           KONTOR         / F K R O D PISCHAKT HISS TRAPPHUS           E
+MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
 RWC/D
+MINI-STÄD
 MÖRKLÄGGNINGSSYSTEM
 BOKNINGSBAR LOKAL
 /CO-WORK
 /VIP-LOGE
 BOKNINGSBAR LOKAL
-/CO-WORK /VIP-LOGE
-BOKNINGSBAR LOKAL /CO-WORK
+/ / C V O IP - - W LO O G R E K                                                                      
+BOKNINGSBAR LOKAL
+/CO-WORK
+D                                       /VIP-LOGE                                                                              D           
+BOKNINGSBAR LOKAL                                                                                                 
+/CO-WORK
 /VIP-LOGE
+HC
 ÖPPET
 NED
 ÖPPET
 NED  / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S
 ÖPPET
 NED
-BOKNINGSBAR LOKAL /CO-WORK
-/VIP-LOGE
+TEKNIK-ARENA
 BOKNINGSBAR LOKAL
-/CO-WORK /VIP-LOGE
-BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
-BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
-MÖRKLÄGGNINGSSYSTEM
-RWC/D                     KA F N RD SLI         KA F N RD SLI
-SCHAKT
-TRAPPHUS HISS      KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI
-METSYSSGNINGGÄLKRÖM
-A             B                                   C
-Alternativ      A
-TAKFÖNSTER
-E                                                                                                                              E
-
-D                                                                                                                              D           
-
+/CO-WORK
+/VIP-LOGE
 
- 
-
+                                 BOKN / I / N C V G O IP S - - W L B O A O R G R E K LOKAL
 
 
                                                                                                                                            
- 
+                                   BOKN / I / N C V G O IP S - - W L B O A O R G R E K LOKAL
                                                                                                                                         
 
 
-  
+                                  BOKN / I / N C V G O IP S - - W L B O A O R G R E K LOKAL
 
 
-
- 
+                                                                                             TEKNIK/LJUD/LJUS
+                                    MINI-STÄD              MÖRKLÄGGNINGSSYSTEM
 
 
-   
+            LÄKTARE SPORTHALL HC GALLERI RWC/D  YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KA F N RD SLI KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI KA F N RD SLI ENTRÉ PENTRY
 
-
-
-     
+                                                               HK ARANÄS 7-10p
+        TEKNIK-OMKL, GYM, M.M. PEN T T R R A Y P / P F H O U T S BOLLS VI H P ISS SEMINARIERUM/FOTBOLLS-VIP SCHAKT BOKN / IN C G O S -W BA O R R K LOKAL KON / / S P T A E R M N O T T L R A L Y R L UM M /T / Ö V S T - A S E M T S T U R A D U L I M O KAMERA SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K T H O F K N T A O RA R N /K Ä A S N 4 T S p F LI K / K K O I A F N N T 2 S O p T L F R I K / Ö K O A v N r N T . T 3 S F O p L R I MÖTESR 5 U 0 M p FÖRENING K R A F W N R C D S / L D I KA F N RD SLI Y H T I O S R S FÖRENINGSLIV/ PAUSRUM AR G BE R M T E S E A R N T U R S M A O L O P / M RE / SS
 
 
                                                      HÖJ-OCH SÄNKBART PARTI I KAMERARUM                                                 
@@ -11706,47 +12310,50 @@ D                                                                               
                                                                                                                                         
                                                                                                                            
 
+SKALA 1:500 (för A3)
 N
+0      10      20 m      8
 Plan 3
+8 / 35
+
+© Semrén & Månsson 2023
+
+MÖRKLÄGGNINGSSYSTEM
+
+KOMMENT.
+
+KOMMENT.
 
 <!-- sida 280 -->
 
-9 / 35
-3202
-nossnåM
-&
-nérmeS
-©
-Kungsbacka Arena - Förstudie - 23-12-22
-Legend
-Kommunalt
-Kommersiellt
-Delat
-SKALA 1:500 (för A3)
-0      10      20 m      9
-LLAHTROPS/ANERA-KINKET
 YTSAMMANSTÄLLNING
 50/50
-ÖPPET
+Kungsbacka Arena - Förstudie - 23-12-22
+
+A             B                                   C
+
+Alternativ      A                                                                                                                         Legend
+
+Kommunalt
+Kommersiellt
+
+Delat
+
+E                                                                                                                              E
+
+LANTERNIN
+
+
+D                               ÖPPET
 NED
+D           
+
+JUMBOTRON
 ÖPPET
 NED
 GÅNGBRYGGA
 ÖPPET
 NED
-TRAPPHUS                                                      TRAPPHUS
-AGGYRBGNÅG             AGGYRBGNÅG AGGYRBGNÅG
-LANTERNIN
-JUMBOTRON
-GÅNGBRYGGA GÅNGBRYGGA
-SKÄRMTAK FOTBOLLSLÄKTARE
-ERALYKSLEDEMLYK
-A             B                                   C
-Alternativ      A
-E                                                                                                                              E
-
-D                                                                                                                              D           
-
 
  
                                                                                                   ANNAN PLACERING BEHÖVER
@@ -11773,9 +12380,8 @@ D                                                                               
 
 
 
-                                                  GÅNGBRYGGA
-
-
+                                                  GÅNGBRYGGA            GÅNGBRYGGA GÅNGBRYGGA
+                      TRAPPHUS                                                      TRAPPHUS
 
 
 
@@ -11787,8 +12393,50 @@ D                                                                               
 
                                                                                                                                                
 
-                                                                                                                                                 
-                                                                                                                                                
+ 
+
+SKÄRMTAK FOTBOLLSLÄKTARE                                                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                                                                                                                                
 
                                                                                                                                                
@@ -11803,21 +12451,40 @@ D                                                                               
                                                                                                                                         
                                                                                                                            
 
+SKALA 1:500 (för A3)
 N
+0      10      20 m      9
 Plan 4
+9 / 35
+
+© Semrén & Månsson 2023
+
+TEKNIK-ARENA/SPORTHALL
+
+GÅNGBRYGGA
+
+GÅNGBRYGGA
+
+GÅNGBRYGGA
+
+KYLMEDELSKYLARE
 
 <!-- sida 281 -->
 
-10 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
+A             B                                   C
+
+Alternativ      A
+
 TAK
 MILJÖRUM
-GLASTAK
+E                GLASTAK                           SEDUMTAK                                                                    E
+
+
+
+D
+
 SPO
 T
 R
@@ -11837,21 +12504,14 @@ SOLCELLER
 INOM
 STRECKAT
 ARENATAK
-SEDUMTAK
-TAK-FOTBOLLSLÄKTARE
-SKALA 1:500 (för A3)
-0      10      20 m     10
-ERALYKSLEDEMLYK
-A             B                                   C
-Alternativ      A
-E                                                  SEDUMTAK                                                                    E
-
-D                                                                                                                              D           
+D           
 
+
 
  
                                                                                                   ANNAN PLACERING BEHÖVER
-                                                                                                   UTREDAS I SENARE SKEDE                
+                                                                                                   UTREDAS I SENARE SKEDE
+                                                                                                                                           
 
 
                                                                                                                                         
@@ -11873,7 +12533,7 @@ D                                                                               
 
 
 
-
+                                                 SEDUMTAK
 
 
 
@@ -11886,7 +12546,7 @@ D                                                                               
 
                                                                                                                                                
 
-                                                                                                                                                
+                                               TAK-FOTBOLLSLÄKTARE                                                                              
 
                                                                                                                                                 
                                                                                                                                                
@@ -11906,52 +12566,45 @@ D                                                                               
                                                                                                                                        
                                                                                                                            
 
+SKALA 1:500 (för A3)
 N
+0      10      20 m     10
 Takplan
+10 / 35
+
+© Semrén & Månsson 2023
+
+KYLMEDELSKYLARE
 
 <!-- sida 282 -->
 
-11 / 35
-3202
-nossnåM
-& nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-VINDFÅNG            PASSAGE/ KIOSK RWC/D OMKL. A1 OMKL. A2 RWC/D OMKL. A1 RWC/DWCOMKL. RWC/D WC PUBLIKYTA EVENT C
-                              
-11
-EGASSAP
-DRF
-LLOBTOF EGASSAP
-LED-SCREEN
-/ KONST
-KONTOR                                   /L G Ä A N L K L R E U R M I S / E F M O I T N B A O R L IE L R -V U IP M LJUD OCH LJUS I SKÄRMTAK
-GALLERI/LÄNKRUM      VINDFÅNG
-FOAJÉ/LÄNKRUM INFODISK STÄD                    FRD FOTBOLL
-             
-OMKL. C                          WC-RUM RESTAURANG /ARTISTLOGE
-                              
-EGASSAP
-OMKL. E /ENSEMBLELOGE
-EGASSAP
-                              
-KONTOR/KANSLI                             MÖTESRUM KONTOR
-FRD FOTBOLL
-EGASSAP
-DRF
-LLOBTOF EGASSAP
+
 Alternativ      A
+
 KONTOR LÄKTARE                          LÄKTARE TEKNIK
 SPORTHALL
 FRD KIOSK
 FÖRENINGAR
 LOKAL/CAFÉ KOMMERSIELL GYM SKYDDSRUM/REHABGYM F H R A D N DBOLL F H R A D N DBOLL SKYDDSRUM/FRD FOTBOLL FO F T R B D OLL
-Sektion A-A
+
+Sektion A-A                                 
+
 
+
+LED-SCREEN
+/ KONST
+
+KONTOR                                   /L G Ä A N L K L R E U R M I S / E F M O I T N B A O R L IE L R -V U IP M LJUD OCH LJUS I SKÄRMTAK
+
+GALLERI/LÄNKRUM      VINDFÅNG
+
 
-Sektion B-B                                                                                                   
+VINDFÅNG FOAJÉ/LÄNKRUM INFODISK STÄD P P A U S B S LI A K G Y E T / A EVENT KIOSK RWC/D OMKL. A1 OMKL. A2 RWC/D OMKL. A1 RWC/DWCOM C KL. RWC/D WC FO F T R B D OLL
+Sektion B-B                                                                           
 
 
+
 
  
 
@@ -11976,8 +12629,10 @@ Sektion B-B                                                                     
 
 
 
+
   
-
+
+    KONTOR/KANSLI                       MÖTESRUM KONTOR
 
 
 
@@ -11985,60 +12640,115 @@ Sektion B-B                                                                     
 
 
 
- 
+
+
 
-Sektion A-A, B-B, C-C 
-                                                                                                                                               
+                                     FRD FOTBOLL O /E M N K S L E . M E BLELOGE O /A M R K T L IS . T C LOGE WC-RUM RESTAURANG
+Sektion
+
+A
+
+-A, B-B, C-C 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                                                                                                                                                 
 
 
-                           Sektion C-C                                                                                SKALA 1:500 (för A3)                                          
+                           Sektion C-C                                                        SKALA 1:500 (för A3)                                          
 
-                                                                                                          0      10      2  0     m                                                         
+                                                                                                          0      10      2  0     m                     1  1                                      
  
                                                                                                                                            
                                                                                                                                     
-                                                                                                                                    
+                                                                                                                                    11 / 35
 
 
 
                                                                                                                                               
                                                                                                                                       
 
+© Semrén & Månsson 2023
+
+PASSAGE
+
+PASSAGE
+
+PASSAGE
+
+PASSAGE
+
+FRD
+
+FRD
+
+FOTBOLL
+
+FOTBOLL
+
+PASSAGE
+
+PASSAGE
+
 <!-- sida 283 -->
 
-12 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
+Alternativ      A
+
 TEKNIK-ARENA/
 SPORTHALL
 GÅNGBRYGGA
 TEKNIK                                                BOKN / / IN C V G O IP S - - W L B O A O G R R E K LOKAL /L G Ä A N L K L R E U R M I /L G Ä A N L K L R E U R M I SP LÄ O K R T T A H R A E LL
 SPORTHALL
+
 BACK OF HOUSE                                              PASSAGE/          KOMMERSIELL
 PUBLIKYTA EVENT
                                                   
-VINDFÅNG        CAFÉ
-                                                  
-12
-TKAHCS-SSIH
-TKAHCS
-KONTOR
-TKAHCS-SSIH
-GODSMOTTAGVILRUM KONTOR PAUSRUM STORKÖK RESTAURANG     VIP-VINDFÅNG
-KOMMERS
-TKAHCS
-Alternativ      A
+
 Sektion D-D
-KONTOR       F K R O D P / I    KONTOR                                         KONTOR
+
+KONTOR       F K R O D P / I    KONTOR                         KONTOR          KONTOR
+
 WC-UNI       RWC KIOSK SERVERING  SERVERING KIOSK RWC WC WC
+
 
+GODSMOTTAGVILRUM KONTOR PAUSRUM STORKÖK RESTAURANG     VIP-VINDFÅNG VINDFÅNG    CAFÉ
+KOMMERS
     
+                                                  
 
 Sektion E-E
 
@@ -12085,12 +12795,12 @@ Sektion D-D, E
                                                                                                                        SKALA 1:500 (för A3)     
                                                                                                    
 
-                                                                                                          0      10      20  m                           
+                                                                                                          0      10      20  m      12                      
   
  
                                                                                                                                            
                                                                                                                                     
-                                                                                                                                    
+                                                                                                                                    12 / 35
 
 
 
@@ -12098,20 +12808,29 @@ Sektion D-D, E
                                                                                                                                               
                                                                                                                                       
 
+© Semrén & Månsson 2023
+
+HISS-SCHAKT
+
+SCHAKT
+
+HISS-SCHAKT
+
+SCHAKT
+
 <!-- sida 284 -->
 
-13 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Alternativ      A
+
 Fasad mot norr
+
 
+
     
 
+
 
  
 
@@ -12219,24 +12938,25 @@ söder     
                                                                                                                                     
 
 
-                                                                                                                                             
+                                                                                                                                        1  3  / 35      
                                                                                                                            
 
 
+© Semrén & Månsson 2023
+
 <!-- sida 285 -->
 
-14 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Alternativ      A
+
 Fasad mot väster
+
 
+
     
 
+
 
  
 
@@ -12331,26 +13051,24 @@ r, öster  
 
 
 
-                                                                                                                                             
+                                                                                                                                        1  4 / 3   5    
                                                                                                                            
 
 
+© Semrén & Månsson 2023
+
 <!-- sida 286 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Alternativ      B
+
 Ytor
 18335 m2 BTA
 Varav:
 ca 10120 m2 BTA Kommunalt
 ca 8215 m2 BTA Kommersiellt
+
 Ytorna som redovisas är bruttoytor och
 innefattar samtliga ytor i byggnaden. Några
 ytor nyttjas gemensamt av Kommunala och
@@ -12361,36 +13079,15 @@ Fasad mot norr
 
 15
 
+© Semrén & Månsson 2023
+
 <!-- sida 287 -->
 
-16 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-ENTRÉ
-LOKALER/KONTOR
-IDROTTSTORG
-ENTRÉ
-RESTAURANT/VIP
-VIP/RESTAURANG
-ENTRÉ
-HUVUDENTRÉ
-PUBLIK OCH SPORT
-ENTRÉ DRIFT KOMMERS 80 000
-ENTRÉ -BoH/ARENA
-BACK of HOUSE
-ENTRÉ -ARTIST/ELITIDROTT & DRIFT
-ENTRÉ -MEDIA/FÖRENINGAR
-ENTRÉ -BORTASUP.
-ENTRÉ -DRIFT FOTBOLLSPLAN
-16
-tsaL
-jak
+
 BADHUSET
 AKTIVITETSPARK
+
 ISARENA
 Alternativ      B                                                                                   S
 N
@@ -12408,30 +13105,40 @@ M
 0
 8
 ANNEX
-ISHALL
-FRAMTIDA
-MÖJLIG
+ISHALL                                                      ENTRÉ
+LOKALER/KONTOR
+IDROTTSTORG                       FRAMTIDA
+ENTRÉ               MÖJLIG
+RESTAURANT/VIP
 BYGGRÄTT     INFART BoH
-HKP-PLATS
+VIP/RESTAURANG
+ENTRÉ
+HKP-PLATS HUVUDENTRÉ
+PUBLIK OCH SPORT
 BOULEHALLEN
 MILJÖRUM
 ENTRÉ GYM
-& LOKALER
+& LOKALER                                           ENTRÉ DRIFT KOMMERS 80 000
 SPORT-
 ARENA
-HALLEN
+HALLEN                                       ENTRÉ -BoH/ARENA
 
+BACK of HOUSE
 UTBREDNING &
 UTSEENDE ENLIGT L.
 ENTRÉ FORRÅD                                                                                
 OCH SKYDDSRUM
 
 IDROTTSPARK
+ENTRÉ -ARTIST/ELITIDROTT & DRIFT
+ENTRÉ -MEDIA/FÖRENINGAR
 ENTRÉ       FOTBOLLSLÄKTARE / SKÄRMTAK
-                                                 IDROTTSPARK
-                                                                                                            UTFART BoH
+
+ 
+IDROTTSPARK
+ENTRÉ -BORTASUP. UTFART BoH
 
-                                                                         ENTRÉ -FOTBOLL
+                                                                         ENTRÉ -FOTBOLL             ENTRÉ -DRIFT FOTBOLLSPLAN
 
                                                                                                                                            
 
@@ -12478,321 +13185,323 @@ ENTRÉ       FOTBOLLSLÄKTARE / SKÄRMTAK
  
                                                                                                                          SKALA 1:1000 (för A3) 
                                                                                                                                      N
-     Illustrationsplan                                  MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE                             0        25  50 m
+     Illustrationsplan                                  MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE                             0        25  50 m 16
 
 
                                                                                                                                 
-                                                                                                                 
+                                                                                                                    16 / 35
 
+
+© Semrén & Månsson 2023
+
+Last
+
+kaj
 
 <!-- sida 288 -->
 
-17 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-Legend
-Kommunalt
-Kommersiellt
-Delat
-HUVUDENTRÉ VIP/RESTAURANG
-PUBLIK OCH SPORT ENTRÉ
-VIP VINDFÅNG                                     TRAPPHUS
-RESTAURANG
-FOAJÉ                                                    PASSAGE
-UNDERCENTRAL
-INFODISK/DRIFT
-EL-RUM
-KOMMERSIELL    STÄD      RWC
-BACK OF HOUSE
-KIOSK
-SKYDDSRUM/REHABGYM    OMKL. A1
-OMKL. A2
-SKYDDSRUM/FÖRRÅD
-OMKL. A1                                FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE
-SKYDDSRUM/FORRÅD FOTBOLL                                                                    ENTRÉ -ARTIST/ELITIDROTT OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM
-ENTRÉ -MEDIA/FÖRENINGAR
-SPELARBÄNK MED TAK
-SKALA 1:500 (för A3)
-0      10      20 m     17
-EGASSAP
-PASSAGE/MIXED ZONE TRAPPHUS
-PASSAGE
-PASSAGE/SPELARTUNNEL
-&-DNAH TTÄVTLLOB              &-DNAH TTÄVTLLOB
-FRD FOTBOLL FROSTFRITT
-DRF LLOBTOFTILE
-FRD NIU
-LLOBDNAHTILE
-DRF
-LOKAL/CAFÉ
-VÄNTRUM
-EGASSAP
-HISS HISS STORKÖK
-WC  WC
-TICKET RIP
-FRD FRD HANDBOLL HANDBOLL
-FRD FRD HANDBOLL HANDBOLL                                       FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH
-RWC MASSAGE HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM
-EGASSAP
-ENTRÉ DRIFT KOMMERS
-MÖTESRUM
-KIOSK
-GYM
-OMKL. E  OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE
-PASSAGE
-TROP
+A             B                                   C
+
+F       YTSAMMANSTÄLLNING                                                                                                      F
 KONTOR
-MÖTESRUM
-TRAPPHUS
-KONTOR
-RESTAURANG ANNEX
-Ca 340 + ute + ståande
-UNDERCENTRAL
-MÖJLIG EXPANSION STORKÖK
-MILJÖRUM
-SCHAKT
-200 sittplatser
-PASSAGE
-CAFÉ                                                 OMKL.         GO K D O S M M M O E T R T S AK
-TICKET                  WC RIP
-ENTRÉ -BoH/ARENA
-OMKL. A1
-OMKL. A2
-OMKL. A1                                                MILJÖRUM
-OMKL. C    OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM
-FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH)
-FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT ENTRÉ -BORTASUP.
-ENTRÉ -DRIFT FOTBOLLSPLAN
-MURLIV
-YTSAMMANSTÄLLNING
 50/50
-Frostfritt                                         RWC/D
+MÖTESRUM MÖTESRUM
+Alternativ      B       Frostfritt                                         RWC/D                                                          Legend
 HISS
 Kommersiell
-Kommunal
+ENTRÉ KONTOR/KOMMERS                       Kommunalt
+Kommunal                                                      TRAPPHUS
+Kommersiellt
+Delat
+KONTOR    FRAMTIDA MÖJLIG BYGGRÄTT
+ENTRÉ RESTAURANT/VIP  RESTAURANG ANNEX
 WC
-RWC
+FRAMTIDA MÖJLIG BYGGRÄTRTWC
 WC
+E                                                             Ca 340 + ute + ståande                                           E
 EL/TELERUM
 RWC/D
-TRAPPHUS                                                 PAUSRUM KONTOR
-OMKL. FRD FRYS KYL FETT- UTSLUTNING
-RWC PASSAGE CAFÉKÖK WC STÄD
-OMKL.                                                                                TELERUM
-PASSAGEFRD/SOP
-RWC
-VILRUM RWC/D FRD
-/KOPI
-LASTKAJ
-LYFTBORD
-BOH-PLAN,
-UTBREDNING &
-UTSEENDE ENLIGT L.
-RWC/D   RWC/D
-EL-TRUCK
-FRD HANDBOLL                                                                   OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D
-DRIFT RWC
-MURSETÖM MURSETÖM
-MÖTESRUM
-FRAMTIDA MÖJLIG BYGGRÄTT
-ENTRÉ RESTAURANT/VIP
-ENTRÉ FORRÅD
-OCH SKYDDSRUM
-ENTRÉ FORRÅD OCH SKYDDSRUM
-ENTRÉ FORRÅD OCH SKYDDSRUM
-ENTRÉ IDROTTSPARK
-LLOBDNAHTILE
-DRF
-ENTRÉ KONTOR/KOMMERS
-FRAMTIDA MÖJLIG BYGGRÄTT
-CAFÉ
-ENTRÉ
-ENTRÉ GYM & LOKALER
-OMKL                           SCEN 2       SCEN1
-SPELARTUNNEL
-/ ENTRÉ
-FOTBOLL
-TROP
-FRD NIU
-Extra målställning
-SPELARBÄNK MED TAK
-DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE
-VINDFÅNG
-SKÄRMTAK                                                                             SKÄRMTAK
-STAKET
-SÄKERHETSGRÄNS
-GNÅFDNIV
-LLEISREMMOK
-ÉRTNE
-LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
+UNDERCENTRAL
+HKP-PLATS HKP-PLATS                                                            LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
 MÖJLIG EXPANSION RESTAURANG UTREDS I SENARE SKEDE
-SKÄRMTAK
-KATMRÄKS
-KATMRÄKS
-A             B                                   C
-F                                                                                                                              F
-Alternativ      B
-E                                                                                                                              E
-HKP-PLATS HKP-PLATS
-D                                                                                                                              D
-
-    
-
+CAFÉ          HUVUDENTRÉ VIP/RESTAURANG
+ENTRÉ        PUBLIK OCH SPORT ENTRÉ
+MÖJLIG EXPANSION STORKÖK
+MILJÖRUM
+TRAPPHUS SCHAKT VINDFÅNG HISS VIP VINDFÅNG         STORKÖK PAUSRUM KONTOR HISS TRAPPHUS
+200 sittplatser
+PASSAGE
+CAFÉ                                  RESTAURANG     OMKL. OMKL. FRD FRYS KYL UTS F L E U T T T N - ING GO K D O S M M M O E T R T S AK
+D E & N L T O R K É A G L Y E M R SKÄRMTAK CAFÉKÖK LOKAL/CAFÉ FOAJÉ TIC R K IP ET RWC WC PASSA S G T E ÄD WC PASSAGE ENTRÉ DRIFT KOMMERS D
+OMKL.                                                                                TELERUM
+PASSAGEFRD/SOP                     MÖTESRUM                                       UNDERCENTRAL
+RWC                      INFODISK/DRIFT
+EL-RUM
+VILRUM RWC/D
+FRD                                                                                                 
+/KOPI
+WC  WC                                                       LASTKAJ
+KOMMERSIELL    STÄD TICKET
+RIP  RWC                                                                                              
+LYFTBORD                                           
+OMKL                           SCEN 2       SCEN1        BACK OF HOUSE ENTRÉ -BoH/ARENA
+KIOSK  KIOSK                                                                  BOH-PLAN,
+UTBREDNING &
 
- 
- 
+  OC
+E
+H
+N T
+S
+R
+K
+É
+Y D
+F
+D
+O
+S
+R
+R
+R
+U
+Å
+M
+D
+RWC/D   RWC/D
+UTSEENDE ENLIGT L.
+       SKYDDSRUM/REHABGYM    OMKL. A1 OMKL. A1
 
                                                                                                                                            
- 
-                                                                                                                                            
- 
-      
+
+                              OMKL. A2 OMKL. A2
+     FRD NIU HAN F D R B D OLL HAN F D R B D OLL GYM                                       EL-TRUCK                                 
+  OC E H N T S R K É Y D F D O S R R R U Å M D SKYDDSRUM/FÖRRÅD
+ 
+
+    HAN
+F
+D
+R
+B
+D
+OLL HAN
+F
+D
+R
+B
+D
+OLL HAN
+F
+D
+R
+B
+D
+OLL           RWC/D
+OMKL. A1
+RWC/D
+OMKL. A1
+ANTIDOPING VÄNTRUM TVÄTT AR O T M IS K T L L . O C G / E AR O T M IS K T L L . O B G / E HAN F D R B D OLL AR / E B N S O A T R F M O R D A L D A O T R E C R H IAL PROD. OFFICE RWC/D O D M RI K F L T . O D M RI K F L T . MILJÖRUM
 
-      
+        OC E H N T S R K É Y D F D O S R R R U Å M D SKYDDSRUM/FORRÅD FOTBOLL FRD NIU TRAPPHUS HISS RWC O O M M K K L L . . B C M L R E Ä W D R K I C U C A M R IN E S / K M M A M S A Ö S T A C T G E H E - C C R R O O E E M M W W K K R R L L . . O O D D O O / / M M / / E E N N S S O O E E M M M M K B K B L L L L . E . E D D L L O O G G E E / / E EN N S S O O E EM M M M B B K K L L L L E E . . E E L L O O G G E E / / E E N N S S O O E E M M M M B B K K L L L L E E . . E E L L O O G G E E /ARB P E R T E S S R S U R M U M M EDIA HISS PASSA T G R E A / P M P IX H E U D S ZONE MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM ENTRÉ -A D R R T IF IS T T/ELITIDROTT
 
- 
-                                                                                                                                           
+        SKÄRMTAK PASSAGE                                                             PASSAGE SKÄRMTAK ENTRÉ -MEDIA/FÖRENINGAR
+       ENTRÉ IDROTTSPARK FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT PASSAGE/SPELARTUNNEL Extra målställnin F g RD FOTBOLL FROSTFRITT 200 m3 - 20 S m P R x . 4 T A m N x K 2,5m (LxBxH) SPR. RUM                                        
 
                                                                                                                                                 
-                                                                                                                                                   
-
-                                                                                                                                               
-                                                                                                                                        
-    
-                                                                                                                                           
+     STAKET FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT SPELARTUNNEL ENTRÉ -BORTASUP.                                          
+                                                   / ENTRÉ
+                                                  FOTBOLL                                                                                      
+                                           SPELARBÄNK MED TAK SPELARBÄNK MED TAK                                                        
+  
+SÄKERHETSGRÄNS                                                                        ENTRÉ -DRIFT FOTBOLLSPLAN         
+                                                                                                            SKALA 1:500 (för A3)           
                                                                                                                                N    
-                                                                                                                                     Plan 1-Entréplan 
+Plan 1-Entréplan                                                                                                      0      10      20 m     17 
 
                 A             B                                   C
                                                                                                                              
-                                                                                                                           
+                                                                                                                      17 / 35  
 
+
+© Semrén & Månsson 2023
+
+PORT
+
+ENTRÉ KOMMERSIELL
+
+VINDFÅNG
+
+PASSAGE
+
+PASSAGE
+
+PASSAGE
+
+FRD ELITHANDBOLL
+
+FRD ELITHANDBOLL
+
+HAND- &
+
+BOLLTVÄTT
+
+FRD
+
+ELITFOTBOLL
+
+FRD
+
+ELITFOTBOLL
+
+FRD
+
+ELITFOTBOLL
+
+FRD
+
+ELITFOTBOLL
+
+MÖTESRUM
+
+MÖTESRUM
+
+HAND- &
+
+BOLLTVÄTT
+
+VILRUM
+
+PORT
+
+SKÄRMTAK
+
+SKÄRMTAK
 
 <!-- sida 289 -->
 
-18 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-Legend
-Kommunalt
-Kommersiellt
-Delat
-TRAPPHUS
-WC         SERVERING                           WC UNI
-FRD HANDBOLL
-SPORTHALL    GALLERI
-PASSAGE FRD FÖRENINGAR RWC
-RWC WC   WC    KIOSK        SERVERING             TRAPPHUS KIOSK RWC
-SKALA 1:500 (för A3)
-0      10      20 m     18
-MURSDRÅVKUJS
-YTSAMMANSTÄLLNING
+A             B                                   C
+
+F       YTSAMMANSTÄLLNING                                                                                                      F
+
 50/50
 MÖTESRUM KOPI MÖTESRUM
-Kommersiell
+Alternativ      B       Kommersiell                                        RWC/D                                                          Legend
 HISS
 Kommunal                                                RESTAURANG ANNEX
+Kommunalt
 TRAPPHUS
+Kommersiellt
+Delat
 TERRASS                KONTOR
 MÖTESRUM
 Ca 130 + ståande
 RWC/D
 WC
 WC
+E                                                                                                                              E
 RWC
 RESTAURANG ANNEX
-TRAPPHUS SCHAKT                                               HISS
-HISS              KIOSK WC RWC            KIOSK RWC SCHAKT
+LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
+UTREDS I SENARE SKEDE
+TRAPPHUS SCHAKT                        MÖRKLÄGGNINGSSYSTEM    HISS TRAPPHUS
+ÖPPET NED             HISS WC   WC   RWC KIOSK SERVERING        KIOSK RWC SCHAKT WC UNI
+FRD HANDBOLL
 HC HC
-SCHAKT
-KIOSK
-HC
-KIOSK
-HAND-& BOLLTVÄTT                                                       SCHAKT HC HC
-FRD INNEBANDY FRD SPORTHALL
-SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS             HISS  KIOSK
-HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC
-20 PL M. BORD, MEDIA
-MURSETÖM
-RWC/D
-ÖPPET NED
+D                                                                                              SCHAKT                          D
 20p                              20p
 ÖPPET
 NED
-115p
-BØTTEKOTT
-p911
-p781
-p911
-115p
-115p       307+4p        307+4p      115p
-20p                              20p
-p911
-p8+481
-p911
-LESGNÄTS
-LEBIXELF
-210p      197+8p    210p
-METSYSSGNINGGÄLKRÖM
-MÖRKLÄGGNINGSSYSTEM
-MÖRKLÄGGNINGSSYSTEM
-METSYSSGNINGGÄLKRÖM
-A             B                                   C
-F                                                                                                                              F
-Alternativ      B
-E                                                                                                                              E
-LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
-UTREDS I SENARE SKEDE
-D                                                                                                                              D
+KIOSK
+115p    210p      197+8p    210p     115p
 
     
 
+SPORTHALL    GALLERI
+HC
                          E P V O S F E P O Ö N - N R U T P S
 
 
                                                                                                                                            
 
 
-                                                                                                                                        
-
+
+                                                115p       307+4p        307+4p      115p
+
 
 
 
 
-SON
-                               FÖR 
+SON                                                             KIOSK
+ 
 E
 P
 V
-O
+O F
 E
-P
+P Ö
 N
--U
+\- R U
 T
 P
 S
+20p                              20p
 
 
-   
+                   BO H L A L N T D V - Ä & TT               HC  HC                        SCHAKT
 
-   
-  
+      FRD SPORTHALL FÖRE F N R I D NGAR FRD INNEBANDY RWC PASSAGE BØTTEKOTT
+          RWC KIOSK SCHAKT TRAPPHUS HISS SCHAKT RWC WC WC KIOSK SERVERING   KIOSK HISS TRAPPHUS KIOSK RWC
 
-
+                                                              MÖRKLÄGGNINGSSYSTEM
 
- 
-                                                                                                                                         
-                                                                                                                                                
-                                                                                                                                                
+
+
+              HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC     
+ 
+
+20 PL M. BORD, MEDIA                                                                  
+ 
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
                                                                                                                                                 
                                                                                                                                                
@@ -12801,111 +13510,110 @@ S
                                                                                                                                         
   
  
-                                                                                                                                           
+                                                                                                            SKALA 1:500 (för A3)           
                                                                                                                                N    
-                                                                                                                                     Plan 2 
+Plan 2                                                                                                                0      10      20 m     18 
 
                 A             B                                   C
                                                                                                                                         
-                                                                                                                           
+                                                                                                                      18 / 35  
 
+
+© Semrén & Månsson 2023
+
+MÖRKLÄGGNINGSSYSTEM
+
+119p
+
+184+8p
+
+119p
+
+MÖTESRUM
+
+FLEXIBEL STÄNGSEL
+
+SJUKVÅRDSRUM
+
+119p
+
+187p
+
+119p
+
+MÖRKLÄGGNINGSSYSTEM
 
 <!-- sida 290 -->
 
-19 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-Legend
+A             B                                   C
+
+F       YTSAMMANSTÄLLNING                                                                                                      F
+
+50/50
+Alternativ      B       Kommersiell                                                                                                       Legend
+Kommunal
 Kommunalt
 Kommersiellt
-Delat
-SCHAKT                                  KONTOR         / F K R O D PISCHAKT
-MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
-MINI-STÄD
-BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
-TEKNIK-ARENA
-HC
-TEKNIK/LJUD/LJUS
-MINI-STÄD
-LÄKTARE SPORTHALL HC GALLERI        YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY
-HK ARANÄS 7-10p
-SEMINARIERUM/FOTBOLLS-VIP                                        GREENROOM/
-TEKNIK-OMKL, GYM, M.M.    BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM
-SKALA 1:500 (för A3)
-0      10      20 m     19
-.TNEMMOK .TNEMMOK
-YTSAMMANSTÄLLNING
-50/50
-Kommersiell
-Kommunal
 TRAPPHUS
+Delat
+
 FLÄKTRUM-ANNEX
-HISS TRAPPHUS HISS
+
+E                                                                                                                              E
+
+LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
+UTREDS I SENARE SKEDE
+
+TAKFÖNSTER
+SCHAKT   HISS                           KONTOR         / F K R O D PISCHAKT HISS TRAPPHUS
+MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
 RWC/D
+D                                     MINI-STÄD                                                                                D
 MÖRKLÄGGNINGSSYSTEM
 BOKNINGSBAR LOKAL
 /CO-WORK
 /VIP-LOGE
 BOKNINGSBAR LOKAL
-/CO-WORK /VIP-LOGE
+/ / C V O IP - - W LO O G R E K                                                                      
 BOKNINGSBAR LOKAL
 /CO-WORK
 /VIP-LOGE
+    
+BOKNINGSBAR LOKAL                                                                                                 
+/CO-WORK
+/VIP-LOGE
+HC
 ÖPPET
 NED
 ÖPPET
 NED  / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S
 ÖPPET
 NED
+TEKNIK-ARENA
 BOKNINGSBAR LOKAL
 /CO-WORK
 /VIP-LOGE
-BOKNINGSBAR LOKAL
-/CO-WORK /VIP-LOGE
-BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
-BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
-MÖRKLÄGGNINGSSYSTEM
-RWC/D                     KA F N RD SLI         KA F N RD SLI
-SCHAKT
-TRAPPHUS HISS      KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI
-METSYSSGNINGGÄLKRÖM
-A             B                                   C
-F                                                                                                                              F
-Alternativ      B
-E                                                                                                                              E
-LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
-UTREDS I SENARE SKEDE
-TAKFÖNSTER
-D                                                                                                                              D
-
-    
-
 
- 
-
+                                 BOKN / I / N C V G O IP S - - W L B O A O R G R E K LOKAL
 
 
                                                                                                                                            
- 
+                                   BOKN / I / N C V G O IP S - - W L B O A O R G R E K LOKAL
                                                                                                                                         
 
 
-  
+                                  BOKN / I / N C V G O IP S - - W L B O A O R G R E K LOKAL
 
 
-
- 
+                                                                                             TEKNIK/LJUD/LJUS
+                                    MINI-STÄD              MÖRKLÄGGNINGSSYSTEM
 
 
-   
+            LÄKTARE SPORTHALL HC GALLERI RWC/D  YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KA F N RD SLI KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI KA F N RD SLI ENTRÉ PENTRY
 
-
-
-     
+                                                               HK ARANÄS 7-10p
+        TEKNIK-OMKL, GYM, M.M. PEN T T R R A Y P / P F H O U T S BOLLS VI H P ISS SEMINARIERUM/FOTBOLLS-VIP SCHAKT BOKN / IN C G O S -W BA O R R K LOKAL KON / / S P T A E R M N O T T L R A L Y R L UM M /T / Ö V S T - A S E M T S T U R A D U L I M O KAMERA SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K T H O F K N T A O RA R N /K Ä A S N 4 T S p F LI K / K K O I A F N N T 2 S O p T L F R I K / Ö K O A v N r N T . T 3 S F O p L R I MÖTESR 5 U 0 M p FÖRENING K R A F W N R C D S / L D I KA F N RD SLI Y H T I O S R S FÖRENINGSLIV/ PAUSRUM AR G BE R M T E S E A R N T U R S M A O L O P / M RE / SS
 
 
                                                      HÖJ-OCH SÄNKBART PARTI I KAMERARUM                                                 
@@ -12920,55 +13628,55 @@ D                                                                               
                                                                                                                                         
   
  
-                                                                                                                                           
+                                                                                                            SKALA 1:500 (för A3)           
                                                                                                                                N    
-                                                                                                                                     Plan 3 
+Plan 3                                                                                                                0      10      20 m     19 
 
                 A             B                                   C
                                                                                                                                         
-                                                                                                                           
+                                                                                                                      19 / 35  
 
+
+© Semrén & Månsson 2023
+
+MÖRKLÄGGNINGSSYSTEM
+
+KOMMENT.
+
+KOMMENT.
 
 <!-- sida 291 -->
 
-20 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-Legend
+A             B                                   C
+
+F       YTSAMMANSTÄLLNING                                                                                                      F
+
+50/50
+Alternativ      B                                                                                                                         Legend
+
 Kommunalt
 Kommersiellt
+
 Delat
-SKALA 1:500 (för A3)
-0      10      20 m     20
-LLAHTROPS/ANERA-KINKET
-YTSAMMANSTÄLLNING
-50/50
+
+E                                                                                                                              E
+
+D                                                                                                                              D
+
+LANTERNIN
+
+
 ÖPPET
 NED
+    
+
+JUMBOTRON
 ÖPPET
 NED
 GÅNGBRYGGA
 ÖPPET
 NED
-TRAPPHUS                                                      TRAPPHUS
-AGGYRBGNÅG             AGGYRBGNÅG AGGYRBGNÅG
-LANTERNIN
-JUMBOTRON
-GÅNGBRYGGA GÅNGBRYGGA
-SKÄRMTAK FOTBOLLSLÄKTARE
-ERALYKSLEDEMLYK
-A             B                                   C
-F                                                                                                                              F
-Alternativ      B
-E                                                                                                                              E
-D                                                                                                                              D
-
-    
-
 
  
                                                                                                   ANNAN PLACERING BEHÖVER
@@ -12995,9 +13703,8 @@ D                                                                               
 
 
 
-                                                  GÅNGBRYGGA
-
-
+                                                  GÅNGBRYGGA            GÅNGBRYGGA GÅNGBRYGGA
+                      TRAPPHUS                                                      TRAPPHUS
 
 
 
@@ -13009,40 +13716,101 @@ D                                                                               
 
                                                                                                                                                
 
-                                                                                                                                                 
-                                                                                                                                                
+ 
+
+SKÄRMTAK FOTBOLLSLÄKTARE                                                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                                                                                                                                
 
                                                                                                                                                
                                                                                                                                         
   
  
-                                                                                                                                           
+                                                                                                            SKALA 1:500 (för A3)           
                                                                                                                                N    
-                                                                                                                                     Plan 4 
+Plan 4                                                                                                                0      10      20 m     20 
 
                 A             B                                   C
                                                                                                                                         
-                                                                                                                           
+                                                                                                                      20 / 35  
 
+
+© Semrén & Månsson 2023
+
+TEKNIK-ARENA/SPORTHALL
+
+GÅNGBRYGGA
+
+GÅNGBRYGGA
+
+GÅNGBRYGGA
+
+KYLMEDELSKYLARE
 
 <!-- sida 292 -->
 
-21 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-SEDUMTAK
+A             B                                   C
+
+F                                                                                                                              F
+
+Alternativ      B                                                                  SEDUMTAK
+
 TERRASS
 PLAN 2
 TAK
 TEKNIKRUM
+
+E                                                                                                                              E
+
 TAK
 MILJÖRUM
 GLASTAK
+SEDUMTAK
+D                                                                                                                              D
+
+
+
 SPO
 T
 R
@@ -13062,20 +13830,9 @@ SOLCELLER
 INOM
 STRECKAT
 ARENATAK
-SEDUMTAK
-TAK-FOTBOLLSLÄKTARE
-SKALA 1:500 (för A3)
-0      10      20 m     21
-ERALYKSLEDEMLYK
-A             B                                   C
-F                                                                                                                              F
-Alternativ      B
-E                                                                                                                              E
-SEDUMTAK
-D                                                                                                                              D
-
-    
+    
 
+
 
  
                                                                                                   ANNAN PLACERING BEHÖVER
@@ -13102,7 +13859,7 @@ D                                                                               
 
 
 
-
+                                                 SEDUMTAK
 
 
 
@@ -13115,7 +13872,7 @@ D                                                                               
 
                                                                                                                                                
 
-                                                                                                                                                
+                                               TAK-FOTBOLLSLÄKTARE                                                                              
 
                                                                                                                                                 
                                                                                                                                                
@@ -13124,54 +13881,46 @@ D                                                                               
                                                                                                                                         
   
  
-                                                                                                                                            
+                                                                                                             SKALA 1:500 (för A3)           
                                                                                                                                N    
-                                                                                                                                    Takplan 
+Takplan                                                                                                              0      10      20 m     21 
 
                 A             B                                   C
                                                                                                                                        
-                                                                                                                           
+                                                                                                                      21 / 35  
 
+
+© Semrén & Månsson 2023
+
+KYLMEDELSKYLARE
 
 <!-- sida 293 -->
 
-22 / 35
-3202
-nossnåM
-& nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
-VINDFÅNG            PASSAGE/ KIOSK RWC/D OMKL. A1 OMKL. A2 RWC/D OMKL. A1 RWC/DWCOMKL. RWC/D WC PUBLIKYTA EVENT C
-                                         
-22
-EGASSAP
-DRF
-LLOBTOF EGASSAP
-LED-SCREEN
-/ KONST
-KONTOR                                   /L G Ä A N L K L R E U R M I S / E F M O I T N B A O R L IE L R -V U IP M LJUD OCH LJUS I SKÄRMTAK
-GALLERI/LÄNKRUM       VINDFÅNG
-FOAJÉ/LÄNKRUM INFODISK STÄD                    FRD FOTBOLL
-             
-RESTAURANG ANNEX MÖTESRUM KONTOR
-OMKL. C                         WC-RUM RESTAURANG            RESTAURANG ANNEX MÖTESRUM KONTOR /ARTISTLOGE
-                                         
-EGASSAP OMKL. E /ENSEMBLELOGE EGASSAP
-                                         
-KONTOR/KANSLI                             MÖTESRUM KONTOR         TEKNIK
-FRD FOTBOLL
-EGASSAP
-DRF
-LLOBTOF EGASSAP
+
 Alternativ      B
+
 KONTOR LÄKTARE                          LÄKTARE TEKNIK
 SPORTHALL
 FRD KIOSK
 FÖRENINGAR
 LOKAL/CAFÉ KOMMERSIELL GYM SKYDDSRUM/REHABGYM F H R A D N DBOLL F H R A D N DBOLL SKYDDSRUM/FRD FOTBOLL FO F T R B D OLL
+
+                                         
+
                         Sektion A-A
+
+LED-SCREEN
+/ KONST
+
+KONTOR                                   /L G Ä A N L K L R E U R M I S / E F M O I T N B A O R L IE L R -V U IP M LJUD OCH LJUS I SKÄRMTAK
+
+GALLERI/LÄNKRUM       VINDFÅNG
+
 
+VINDFÅNG FOAJÉ/LÄNKRUM INFODISK STÄD P P A U S B S LI A K G Y E T / A EVENT KIOSK RWC/D OMKL. A1 OMKL. A2 RWC/D OMKL. A1 RWC/DWCOM C KL. RWC/D WC FO F T R B D OLL
     
+                                         
 
 Sektion B-B
 
@@ -13199,28 +13948,31 @@ Sektion B-B
 
 
 
+
   
-
+
+    KONTOR/KANSLI                       MÖTESRUM KONTOR         TEKNIK
 
 
-
+                                                                                                           RESTAURANG ANNEX MÖTESRUM KONTOR
 
 
 
 
-                                                                                                                                  Se ktion D-D , E-E, F-F    
+
+                               FRD FOTBOLL O /E M N K S L E . M E BLELOGE O /A M R K T L IS . T C LOGE WC-RUM RESTAURANG RESTAURANG ANNEX MÖTESRUM KONTOR     Se k    t    i    o      n      D        -    D , E-E, F-F
 
                                                                                                                                             
 
                                                                                                                                   SKALA 1:500 (för A3) 
-                                                                                                                                           
+                                                                                         
 
-                      Sektion C-C                                                                                    0                      1    0                 2       0     m          
+                      Sektion C-C                                                                                    0                      1    0                 2       0     m           22
  
                                                                                                                                         
 
                                                                                                                                  
-                                                                                                                               
+                                                                                                                                22 / 35
 
 
 
@@ -13228,39 +13980,55 @@ Sektion B-B
                                                                                                                                           
                                                                                                                                   
 
+© Semrén & Månsson 2023
+
+PASSAGE
+
+PASSAGE
+
+PASSAGE
+
+PASSAGE
+
+FRD
+
+FRD
+
+FOTBOLL
+
+FOTBOLL
+
+PASSAGE
+
+PASSAGE
+
 <!-- sida 294 -->
 
-23 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
+Alternativ      B
+
 TEKNIK-ARENA/
 SPORTHALL
 GÅNGBRYGGA
 TEKNIK                                                BOKN / / IN C V G O IP S - - W L B O A O G R R E K LOKAL /L G Ä A N L K L R E U R M I /L G Ä A N L K L R E U R M I SP LÄ O K R T T A H R A E LL
 SPORTHALL
+
 BACK OF HOUSE                                              PASSAGE/          KOMMERSIELL
 PUBLIKYTA EVENT
                                                   
-VINDFÅNG        CAFÉ
-                                                  
-23
-TKAHCS-SSIH
-TKAHCS
-KONTOR
-TKAHCS-SSIH
-GODSMOTTAGVILRUM KONTOR PAUSRUM STORKÖK RESTAURANG     VIP-VINDFÅNG
-KOMMERS
-TKAHCS
-Alternativ      B
+
 Sektion D-D
-KONTOR       F K R O D P / I    KONTOR                                         KONTOR
+
+KONTOR       F K R O D P / I    KONTOR                         KONTOR          KONTOR
+
 WC-UNI       RWC KIOSK SERVERING  SERVERING KIOSK RWC WC WC
+
 
+GODSMOTTAGVILRUM KONTOR PAUSRUM STORKÖK RESTAURANG     VIP-VINDFÅNG VINDFÅNG    CAFÉ
+KOMMERS
     
+                                                  
 
 Sektion E-E
 
@@ -13307,33 +14075,42 @@ Sektion A-A, B-B, C�
                                                                                                                        SKALA 1:500 (för A3)     
                                                                                                    
 
-                      Sektion F-F                                                                         0      10      20  m                           
+                      Sektion F-F                                                                         0      10      20  m      23                      
   
  
                                                                                                                                             
 
                                                                                                                                      
-                                                                                                                                   
+                                                                                                                                   23 / 35
 
 
 
                                                                                                                                               
                                                                                                                                       
 
+© Semrén & Månsson 2023
+
+HISS-SCHAKT
+
+SCHAKT
+
+HISS-SCHAKT
+
+SCHAKT
+
 <!-- sida 295 -->
 
-24 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Alternativ      B
+
 Fasad mot norr
+
 
+
     
 
+
 
  
 
@@ -13430,24 +14207,25 @@ söder     
                                                                                                                                    
 
 
-                                                                                                                                             
+                                                                                                                                        2  4  / 35      
                                                                                                                            
 
 
+© Semrén & Månsson 2023
+
 <!-- sida 296 -->
 
-25 / 35
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Alternativ      B
+
 Fasad mot väster
+
 
+
     
 
+
 
  
 
@@ -13544,21 +14322,18 @@ r, öster  
                                                                                                                                    
 
 
-                                                                                                                                             
+                                                                                                                                        2  5 / 3   5    
                                                                                                                            
 
 
+© Semrén & Månsson 2023
+
 <!-- sida 297 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Huvudbyggnad      - Fasad
+
 a Mark utanför fasad av marktegel i fiskbensmönster.
 Marktegel linjerar med utsida fasadplan 3.
 n                                                                         b Platsmurad sockel av marktegel, ner i mark (plan 1)
@@ -13605,22 +14380,20 @@ b
 a
 Fasader Huvudbyggnad och Annex                                               Fasad mot väst
 Plan 1          Plan 2
+
 a         b d           b c        e          i        f h m  n  k                k           g
 Plan 3           Plan 4
 26
 Referensmaterial
 
+© Semrén & Månsson 2023
+
 <!-- sida 298 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Huvudbyggnad      - Passage
+
 a Golv (inkluderat trappor) av marktegel, fiskbensmönster
 b Slät fasad av fasadskivor, med fanerrelieff i träutseende, typ
 Parklex ljus ask, dolt montage (plan 2)
@@ -13639,31 +14412,35 @@ i Stabiliserande kryss i varmförzinkat utförande
 h
 h                                                    i
 b
+
 f
 e
+
 e               h
 a
+
 e
+
 a
 g
 Trappa och grind - Plan 1        Passage mot väst - Plan 2
+
 Referenser
+
 Plan 1          Plan 2
+
 a          g h        b c                   e               i                f
 Plan 3           Plan 4
 27
 
+© Semrén & Månsson 2023
+
 <!-- sida 299 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Annex   - Fasad
+
 a Platsmurad slätfasad av marktegel, ner i mark (plan 1
 b Djupa nischer i tegel
 g                                                             c Takkrön av typ Coverbricks i kulör lika tegelfasad
@@ -13702,22 +14479,21 @@ b
 a
 Fasad annex mot norr
 Referenser
+
 Plan 1          Plan 2
+
 a  b          l                   c              d                e          g               h          k
 Plan 3           Plan 4
 28
 
+© Semrén & Månsson 2023
+
 <!-- sida 300 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Länk
+
 a Slätmurad fasad av platsmurat tegel, nischer i tegel (plan 2)
 b Glaspartier utförs generellt som SG-fasader, typ Bark.
 Invändig stomme och täta delar samt synligt ytskikt och
@@ -13725,12 +14501,18 @@ konvektor, inklädnad av trä.
 c Pelare i dammbunden betong (plan 2)
 d Takkrön av typ Coverbricks i kulör lika tegelfasad
 e Yttertak av sedum
+
 a
+
 b
 c
+
 e
+
 d
+
 Koppling mellan huvudbyggnaden och Annex
+
 Plan 1          Plan 2
 
 a                           b                             c
@@ -13738,17 +14520,14 @@ Plan 3           Plan 4
 29
 Referensmaterial
 
+© Semrén & Månsson 2023
+
 <!-- sida 301 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Fotbollsarena   entréfasad
+
 a Mark utanför fasad av marktegel i fiskbensmönster, i linje
 med utsida fotbollsläktare.
 b Platsmurad sockel av marktegel, ner i mark (plan 1)
@@ -13778,25 +14557,25 @@ guldmetalliclackad aluminiumplåt
 l Räcken, grindar, fallskydd mm i varmförzinkat utförande
 d
 i                          c
+
 b
 a
+
 Vy från fotbollsläktaren mot arenan Vy från mediaentrén i arenans sydöstra hörn
+
 Plan 1          Plan 2
+
 a         b c           f g i                 i                l                 e
 Plan 3           Plan 4
 30
 Referensmaterial
 
+© Semrén & Månsson 2023
+
 <!-- sida 302 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Länkrum
 g
 a Golv i marktegel i fiskbensmönster, även i trappa, lika
@@ -13838,23 +14617,22 @@ l       k
 d
 a
 Vy över länkrum och galleri mot torget och taklanterninen                     Länkrummet sett från huvudentrén
+
 Plan 1          Plan 2
+
 a         c             b d           f h    h                e                  g               k
 Plan 3           Plan 4
 31
 Referensmaterial
 
+© Semrén & Månsson 2023
+
 <!-- sida 303 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Invändigt  Café/Restaurang
+
 a Golv i slipad betong/pågjutning, dammbundet
 ljuspimenterat utseende
 d                                                                               b Stomstabiliserande väggar i brädformsgjuten betong,
@@ -13877,32 +14655,34 @@ f Synliga plåtdetaljer i guldanodiserad aluminium/
 guldmetalliclackad aluminiumplåt
 g Räcken, helglasade utan vertikalprofiler, typ Q-railing, Easy
 Glass Strong Fascia i restaurangtrappa till plan 2
+
 a
 a
+
 Restaurang                                                                    Café
+
 Plan 1          Plan 2
+
 a                       c e                  e                 d                  f           b
 Plan 3           Plan 4
 32
 Referensmaterial
 
+© Semrén & Månsson 2023
+
 <!-- sida 304 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Hall A
+
 a Golv av sporthallsgolv, godkänt av Svenska
 Handbollsförbundet, linjemarkeringar och kulörsättning i
 deras standard
 b Pelare, balkar, fackverk och konstruktivt trä i limträ,
 transparent behandling
 c Veckade, perforerade väggskivor i träpanel, kulör lika
+
 d                                                                               d               fasadskivor plan 2, dolt montage
 d Undersida yttertaksytor inklusive installationer i svart kulör.
 Diktmonterade svarta absorbenter.
@@ -13915,26 +14695,27 @@ c                                                                               
 c
 b                                                                     b
 g             g
+
 g                                                                                       g
 e                          a                         e
+
 Vy över arenahallen
+
 Plan 1          Plan 2
+
 e               g                 b                 c
 Plan 3           Plan 4
 33
 Referensmaterial
 
+© Semrén & Månsson 2023
+
 <!-- sida 305 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Hall B
+
 a Golv av sporthallsgolv, godkänt av Kungsbacka Kommun,
 linjemarkeringar och kulörsättning i deras standard
 e
@@ -13961,26 +14742,27 @@ i Räcken, helglasade utan vertikalprofiler, typ Q-railing, Easy
 Glass Strong Fascia
 j Publikstolar med uppfällbar sits. Alla delar i accentkulör
 a
+
 Vy över sporthallen
+
 Plan 1          Plan 2
+
 f                     a                       c                  d                     b
 Plan 3           Plan 4
 34
 Referensmaterial
 
+© Semrén & Månsson 2023
+
 <!-- sida 306 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie - 23-12-22
+
 Fondrum   i länk &
+
 presskonferensrum/
 konferenskorridor
+
 d                                                             d                              a Golv i slipad betong/pågjutning, dammbundet
 ljuspimenterat utseende
 b Stomstabiliserande väggar i brädformsgjuten betong,
@@ -14002,12 +14784,17 @@ guldmetalliclackad aluminiumplåt
 a
 g Räcken, helglasade utan vertikalprofiler, typ Q-railing, Easy
 Glass Strong Fascia
+
 Fondrum mot fotboll                                   Fondrum mot torget
+
 Plan 1          Plan 2
+
 a                       b            c e                   e                d
 Plan 3           Plan 4
 35
 Referensmaterial
+
+© Semrén & Månsson 2023
 
 <!-- sida 307 -->
 
@@ -14018,23 +14805,15 @@ Förstudie             2.0
 2024/06/19
 
 (e-post borttagen) | semren-mansson.se
-4202
-nossnåM
-&
-nérmeS
-©
+
+© Semrén & Månsson 2024
 
 <!-- sida 308 -->
 
-4202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 Innehållsförteckning
+
 Innehållsförteckning             Sida 2      Tvärsektioner                   Sida 14
 Översikt / introduktion          Sida 3      Längdsektioner                  Sida 15
 Ytor                             Sida 5      Fasader                         Sida 16
@@ -14042,6 +14821,7 @@ Illustrationsplan (Ursprungligt läge) Sida 6 Illustrationer                  Si
 Illustrationsplan (Föreslagen flytt hus) Sida 7
 Illustrationsplan (Nytt förslag) Sida 8
 Plan 1 - Entréplan               Sida 9
+
 Plan 2                          Sida 10
 Plan 3                          Sida 11
 Plan 4 (Teknikplan)             Sida 12
@@ -14051,92 +14831,186 @@ Takplan                         Sida 13
 
 2/20
 
+© Semrén & Månsson 2024
+
 <!-- sida 309 -->
 
-4202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 Översikt  / introduktion
-Förslaget, är utvecklat ur tävlingsförslaget möjliggörs samtidigt en förskjutning av      gräsplanerna mer plats, samt att yta kan
-KRONA. Presenterad lösning har eftersträvat  byggnaden mot norr. Samtliga renderingar i   planeras för framtida byggrätter.
-projektets ekonomiska ramar, samtidigt som   denna PDF'en visar nya läget längst mot norr Gestaltning
-krav på kommersiella och kommunala har       (se även fotnot 1). Denna placering skapar   Multisportarenan är en stor rektangulär
-eftersträvats. Bearbetning har bland annat gjorts förutsättningar för ett intimare stadsrum som byggnadskropp. Utan tidigare föreslagen
-genom att reducera volym, minska komplexiteten kan utvecklas till ankomstplats för såväl arena annexbyggnad kommer byggnaden att uppträda
-och förenkla materialkonceptet.              som ishall och simhall - det föreslås bli ett nytt majestätiskt mot samtliga väderstreck.
+
+Förslaget, är utvecklat ur tävlingsförslaget
+KRONA. Presenterad lösning har eftersträvat
+projektets ekonomiska ramar, samtidigt som
+
+krav på kommersiella och kommunala har
+eftersträvats. Bearbetning har bland annat gjorts
+genom att reducera volym, minska komplexiteten
+och förenkla materialkonceptet.
+
+Kommunala ytor utgår från behovsbeskrivningar
+och kravställningar från idrotten. Kommersiella
+ytor har sökt affärsmässiga potential.
+
+Volym
+
+Arenan har minskat i storlek, genom att annexet
+tagits bort, byggnaden kortats 9 meter och
+livförskjutningar i fasaderna reducerats. Det ger
+sammantaget en mindre byggnadsvolym.
+
+Placering
+Med ny byggnadsvolym upplevs entréplatsen
+överdimensionerad. Men med ny mindre
+byggnadsvolym, med minskad byggnadslängd
+
+Huvudentré och idrottsplatsen1
+
+möjliggörs samtidigt en förskjutning av
+byggnaden mot norr. Samtliga renderingar i
+denna PDF'en visar nya läget längst mot norr
+(se även fotnot 1). Denna placering skapar
+förutsättningar för ett intimare stadsrum som
+
+kan utvecklas till ankomstplats för såväl arena
+som ishall och simhall - det föreslås bli ett nytt
 idrottstorg.
-Kommunala ytor utgår från behovsbeskrivningar                                             Byggnaden är indelad i en 9-metersmodul i både
-och kravställningar från idrotten. Kommersiella Byggnaden tangerar fortsatt 80-metersgränsen X- och Y-led. Det möjliggör ett repetitivt mönster,
-ytor har sökt affärsmässiga potential.       till järnvägen, och ytan mellan arenan och   med lika moduler mot alla väderstreck, vilket ger
-ishallen kan utvecklas till en bredare passage, stadga åt byggnadens gestaltning.
-Volym                                        som definierar sekvensen i rörelsen mellan
-Arenan har minskat i storlek, genom att annexet entrétorg och idrottspark i söder.        Horisontellt är gestaltningen uppbruten i mindre
-tagits bort, byggnaden kortats 9 meter och   På arenans södra sida möjliggörs ett mindre  delar, anpassade efter praktiska tillverknings-
-livförskjutningar i fasaderna reducerats. Det ger entrétorg, en samlingsyta för aktiviteterna i och montagemått. På så vis kan skalan
-sammantaget en mindre byggnadsvolym.         söder som kommer att bidra till att byggnaden bearbetas så att upplevelsen blir mänsklig.
-uppfattas än mer publik.                     Byggnaden ges en detaljeringsgrad som berikar.
-Placering                                                                                 Indelning, detaljering och vertikala element gör
-Med ny byggnadsvolym upplevs entréplatsen    Framtida möjliga byggrätter
-överdimensionerad. Men med ny mindre         Flytten norrut bidrar till ett effektivare
-byggnadsvolym, med minskad byggnadslängd     markutnyttjande. På den södra sidan ges
-Huvudentré och idrottsplatsen1                                                            Södra entrétorget1
+
+Byggnaden tangerar fortsatt 80-metersgränsen
+till järnvägen, och ytan mellan arenan och
+ishallen kan utvecklas till en bredare passage,
+som definierar sekvensen i rörelsen mellan
+entrétorg och idrottspark i söder.
+
+På arenans södra sida möjliggörs ett mindre
+entrétorg, en samlingsyta för aktiviteterna i
+söder som kommer att bidra till att byggnaden
+uppfattas än mer publik.
+
+Framtida möjliga byggrätter
+Flytten norrut bidrar till ett effektivare
+markutnyttjande. På den södra sidan ges
+
+gräsplanerna mer plats, samt att yta kan
+planeras för framtida byggrätter.
+Gestaltning
+Multisportarenan är en stor rektangulär
+byggnadskropp. Utan tidigare föreslagen
+
+annexbyggnad kommer byggnaden att uppträda
+majestätiskt mot samtliga väderstreck.
+
+Byggnaden är indelad i en 9-metersmodul i både
+X- och Y-led. Det möjliggör ett repetitivt mönster,
+med lika moduler mot alla väderstreck, vilket ger
+stadga åt byggnadens gestaltning.
+
+Horisontellt är gestaltningen uppbruten i mindre
+
+delar, anpassade efter praktiska tillverknings-
+och montagemått. På så vis kan skalan
+bearbetas så att upplevelsen blir mänsklig.
+Byggnaden ges en detaljeringsgrad som berikar.
+Indelning, detaljering och vertikala element gör
+
+Södra entrétorget1
+
 3/20
+
+© Semrén & Månsson 2024
 
 <!-- sida 310 -->
 
-4202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 Översikt  / introduktion
-Vertikalt har byggnaden en tydlig indelning med förslagsvis av slät prefabricerad betong, gjuten För att skapa trivsel adderas inslag av trä på
-en bottenvåning i robust och taktil materialitet, mot slät form, med skarpa hörndetaljer och väl valda platser. Det kan vara bärande stomme
-ett huvudplan (arenaplanet) med en saklig och inskjutna tydligt markerade fogar. Glaspartier till glaspartier och panelklädda ytor mot viktiga
-tålig karaktär och en översta våning som ger utförs som SG-partier, med glas monterat i liv publika stråk osv.
-byggnaden en lätthet och som reflekterar och med utsida betong, så att de upplevs som skira
-sprider ljus.                                hinnor, i kontrast till betongens yta.       Identitet
-Identitetsmässigt utvecklas temat KRONA.
-Material                                     Plan 3 framträder genom sin avvikande        Utan annexet kan kronmotivet upplevas på
-Entrévåningens fasad (plan 1) är gestaltad som gestaltning och sina utskjutande delar mot norr lika sätt från alla väderstreck. Kronmotivet
-en låg fasad, anpassad efter dörrarnas storlek. och söder. Den utförs förslagsvis med en utsida blir än tydligare. Vertikala stavar förselås som
-Det gör att den upplevda skiljelinjen mellan i en mattsvart kulör och är klädd med skivor av ersättning tilltidigare föreslagna flaggstänger.
-plan 1 och plan 2 fasadmässigt ligger under  kraftigt korrugerad och perforerad plåt.     Stavarna kan utforskas som bärare av ljus,
-bjälklagskanten. Detta medför att den delen                                               så att en flexibel festlighet kan bidra till att
-av byggnaden som ligger över sockeln upplevs Exteriörens materialpalett är tålig, men för att skapa fester av olika slag. Med en omsorgsfull
-resligare, högre och mera offentlig.         inte upplevas hård och avvisande föreslås att material- och detaljbearbetning kan byggnadens
-valda ytor ges en varmare och mer ombonad ton. karaktär motsvara digniteten i kronans
-Fasaden i plan 1 är förslagsvis utförd i tegel. Det                                       betydelse.
-gör den robust och slagtålig, men också taktil och Interiör upplevelse tar sin utgångpunkt i
-berikande när den ses på nära håll. Glaspartierna stommens betong. Exponerad betong i pelare,
-i teglet utförs som fönster.                 balkar och gärna slipad pågjutning på bjälklag
+
+Vertikalt har byggnaden en tydlig indelning med
+en bottenvåning i robust och taktil materialitet,
+ett huvudplan (arenaplanet) med en saklig och
+
+tålig karaktär och en översta våning som ger
+byggnaden en lätthet och som reflekterar och
+sprider ljus.
+
+Material
+Entrévåningens fasad (plan 1) är gestaltad som
+en låg fasad, anpassad efter dörrarnas storlek.
+Det gör att den upplevda skiljelinjen mellan
+plan 1 och plan 2 fasadmässigt ligger under
+bjälklagskanten. Detta medför att den delen
+
+av byggnaden som ligger över sockeln upplevs
+resligare, högre och mera offentlig.
+
+Fasaden i plan 1 är förslagsvis utförd i tegel. Det
+gör den robust och slagtålig, men också taktil och
+berikande när den ses på nära håll. Glaspartierna
+i teglet utförs som fönster.
+
+Fasaden på plan 2 reslig och hög. Den utförs
+
+Kronmotivet och fasad1
+
+förslagsvis av slät prefabricerad betong, gjuten
+mot slät form, med skarpa hörndetaljer och
+inskjutna tydligt markerade fogar. Glaspartier
+utförs som SG-partier, med glas monterat i liv
+med utsida betong, så att de upplevs som skira
+
+hinnor, i kontrast till betongens yta.
+
+Plan 3 framträder genom sin avvikande
+gestaltning och sina utskjutande delar mot norr
+och söder. Den utförs förslagsvis med en utsida
+i en mattsvart kulör och är klädd med skivor av
+kraftigt korrugerad och perforerad plåt.
+
+Exteriörens materialpalett är tålig, men för att
+
+inte upplevas hård och avvisande föreslås att
+valda ytor ges en varmare och mer ombonad ton.
+
+Interiör upplevelse tar sin utgångpunkt i
+stommens betong. Exponerad betong i pelare,
+balkar och gärna slipad pågjutning på bjälklag
 så långt möjligt. Det kompletteras med material
-Fasaden på plan 2 reslig och hög. Den utförs som ska tåla stora personlaster och hårt slitage.
-Kronmotivet och fasad1                                                                    Foajérum1
+som ska tåla stora personlaster och hårt slitage.
+
+För att skapa trivsel adderas inslag av trä på
+väl valda platser. Det kan vara bärande stomme
+till glaspartier och panelklädda ytor mot viktiga
+publika stråk osv.
+
+Identitet
+Identitetsmässigt utvecklas temat KRONA.
+Utan annexet kan kronmotivet upplevas på
+lika sätt från alla väderstreck. Kronmotivet
+blir än tydligare. Vertikala stavar förselås som
+ersättning tilltidigare föreslagna flaggstänger.
+Stavarna kan utforskas som bärare av ljus,
+så att en flexibel festlighet kan bidra till att
+skapa fester av olika slag. Med en omsorgsfull
+
+material- och detaljbearbetning kan byggnadens
+karaktär motsvara digniteten i kronans
+betydelse.
+
+Foajérum1
+
 4/20
+
+© Semrén & Månsson 2024
 
 <!-- sida 311 -->
 
-4202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 ca 14150 m2 BTA
 Varav:
 ca 9055 m2 BTA Kommunalt
 ca 5095 m2 BTA Kommersiellt
+
 Ytorna som redovisas är bruttoytor och innefattar samtliga
 ytor i byggnaden. Några ytor nyttjas gemensamt av
 Kommunala och Kommersiella aktörer, och de delas 50/50 i
@@ -14146,26 +15020,15 @@ Entréfasad mot norr1
 
 5/20
 
+© Semrén & Månsson 2024
+
 <!-- sida 312 -->
 
-6 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
-IDROTTSTORG
-80000
-BACK of HOUSE
-ENTRÉ -ARTIST/ELITIDROTT
-ENTRÉ -MEDIA/DRIFT/KOMMERS
-ENTRÉ -BORTASUP.
-ENTRÉ -DRIFT FOTBOLLSPLAN
-6/20
-jaktsaL
+
 BADHUSET
 AKTIVITETSPARK
+
 ISARENA
 S
 N
@@ -14182,64 +15045,48 @@ M
 \-
 0
 8
+IDROTTSTORG
 ISHALL                                                                   INFART BoH
-FRAMTIDA
-MÖJLIG
-BYGGRÄTT
-Miljörummens
-placering beror på
-infartens placering
-BOULEHALLEN
-SPORT-
-ARENA
-ENTRÉ FORRÅD OCH SKYDDSRUM HALLEN
-IDROTTSPARK
-UTFART/ INFART BoH
-ENTRÉ -FOTBOLL
-FOTBOLLARENA
-STALP-PKH
-INFART/UTFART MÅSTE
+FRAMTIDA                  INFART/UTFART MÅSTE
 UTREDAS OCH
-KVALITETSSÄKRAS VIDARE
-MED KOMMUN OCH
-TRAFIKKONSULT/L
+MÖJLIG                    KVALITETSSÄKRAS VIDARE
+HKP-PLATS                               MED KOMMUN OCH
+BYGGRÄTT                  TRAFIKKONSULT/L
 11 200
-HUVUDENTRÉ VIP/RESTAURANG
-PUBLIK OCH SPORT ENTRÉ
+Miljörummens
+HUVUDENTRÉ VIP/RESTAURANG             placering beror på
+PUBLIK OCH SPORT ENTRÉ                 infartens placering
+BOULEHALLEN
 ENTRÉ -BOH RESTAURANG
+80000
 ENTRÉ -BoH/ARENA
-UTBREDNING & UTSEENDE ENLIGT L. GRÄNS OCH PLACERING FÖR
+SPORT-                                      BACK of HOUSE
+ARENA
+OC E H N T S R K É Y D F D O S R R R U Å M D HALLEN     UTS U E T E B N R D E E D N E I N N L G IG & T L. GRÄNS OCH PLACERING FÖR
 STÄNGSEL UTREDAS VIDARE
-ENTRÉ-BoH/SCEN
-INFART/UTFART MÅSTE
-UTREDAS OCH
-KVALITETSSÄKRAS VIDARE
+FHK 2023-12-XX
+PLACERING AV HKP-
+PLATSER MÅSTE UTREDAS
+VIDARE MED KOMMUN OCH                                      ENTRÉ-BoH/SCEN
+L/TRAFIKKONSULT                                                                               BET  ÄNDRINGEN AVSER SIGN DATUM
+INFART/UTFART MÅSTE                 N
+IDROTTSPARK                                                                            UTREDAS OCH
+ENTRÉ -ARTIST/ELITIDROTT KVALITETSSÄKRAS VIDARE
 MED KOMMUN OCH
 TRAFIKKONSULT/L
-ENTRÉ GYM ENTRÉ OMKL / SÖDRA PLATSEN SPORTHALL /
-FOTBOLL
-GRÄNS OCH PLACERING FÖR
-STÄNGSEL UTREDAS VIDARE
-031
-51
-HKP-PLATS
-FHK 2023-12-XX
-PLACERING AV HKP- PLATSER MÅSTE UTREDAS
-VIDARE MED KOMMUN OCH
-L/TRAFIKKONSULT                                                                               BET  ÄNDRINGEN AVSER SIGN DATUM
-N
+ENTRÉ -MEDIA/DRIFT/KOMMERS
 t
-v .0 r .2
-e id
-u
+. v . 2 0 r                                     SÖDRA PLA E T NT S RÉ E G N YM SPORT E O H N M A T K L R L L É / / U IN T F F A A R R T T B / oH
+id e                                                          FOTBOLL
+u                                                                                                   ENTRÉ -BORTASUP.
 ts
-rö                                                                                                                                           FÖRSTUDIE
+rö                                                                                                  ENTRÉ -DRIFT FOTBOLLSPLAN                FÖRSTUDIE
 F
-\-
-a                                                                                                                                         KUNGSBACKA ARENA n
-e
+\-                                                                        ENTRÉ -FOTBOLL
+a n                                                                                                    GRÄNS OCH PLACERING FÖR            KUNGSBACKA ARENA
+e                                                                                                      STÄNGSEL UTREDAS VIDARE
 Ar
-a
+a                                                                     FOTBOLLARENA
 k
 ca
 b
@@ -14312,34 +15159,29 @@ A                                                                               
 4                                                                                                                                      NYBYGGNAD AV ARENABYNGGNAD
 :0
 1                                                                                                                                      SITUATIONSPLAN
-7 0 Illustrationsplan - Ursprungligt läge                                                                                  0        25       50 m
+7 0 Illustrationsplan - Ursprungligt läge                                                                                  0        25       50 m    6/20
 \-
 6
 0
 \- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
-0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000
+0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000    6 / 20
 SKALA 1:500 I A1 (1:1000 I A3-FORMAT)
+
+© Semrén & Månsson 2023
+
+HKP-PLATS
+
+15 130
+
+Lastkaj
 
 <!-- sida 313 -->
 
-7 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
-IDROTTSTORG
-80000
-BACK of HOUSE
-ENTRÉ -ARTIST/ELITIDROTT
-ENTRÉ -MEDIA/DRIFT/KOMMERS
-ENTRÉ -BORTASUP.
-ENTRÉ -DRIFT FOTBOLLSPLAN
-7/20
-jaktsaL
+
 BADHUSET
 AKTIVITETSPARK
+
 ISARENA
 S
 N
@@ -14356,64 +15198,48 @@ M
 \-
 0
 8
+IDROTTSTORG
 ISHALL                                                                   INFART BoH
-FRAMTIDA
-MÖJLIG
-BYGGRÄTT
-Miljörummens
-placering beror på
-infartens placering
-BOULEHALLEN
-SPORT-
-ARENA
-ENTRÉ FORRÅD OCH SKYDDSRUM HALLEN
-IDROTTSPARK
-UTFART/ INFART BoH
-ENTRÉ -FOTBOLL
-FOTBOLLARENA
-STALP-PKH
-INFART/UTFART MÅSTE
+FRAMTIDA                  INFART/UTFART MÅSTE
 UTREDAS OCH
-KVALITETSSÄKRAS VIDARE
-MED KOMMUN OCH
-TRAFIKKONSULT/L
+MÖJLIG                    KVALITETSSÄKRAS VIDARE
+HKP-PLATS                               MED KOMMUN OCH
+BYGGRÄTT                  TRAFIKKONSULT/L
 11 200
-HUVUDENTRÉ VIP/RESTAURANG
-PUBLIK OCH SPORT ENTRÉ
+Miljörummens
+HUVUDENTRÉ VIP/RESTAURANG             placering beror på
+PUBLIK OCH SPORT ENTRÉ                 infartens placering
+BOULEHALLEN
 ENTRÉ -BOH RESTAURANG
+80000
 ENTRÉ -BoH/ARENA
-UTBREDNING & UTSEENDE ENLIGT L. GRÄNS OCH PLACERING FÖR
+SPORT-                                      BACK of HOUSE
+ARENA
+OC E H N T S R K É Y D F D O S R R R U Å M D HALLEN     UTS U E T E B N R D E E D N E I N N L G IG & T L. GRÄNS OCH PLACERING FÖR
 STÄNGSEL UTREDAS VIDARE
-ENTRÉ-BoH/SCEN
-INFART/UTFART MÅSTE
-UTREDAS OCH
-KVALITETSSÄKRAS VIDARE
+FHK 2023-12-XX
+PLACERING AV HKP-
+PLATSER MÅSTE UTREDAS
+VIDARE MED KOMMUN OCH                                      ENTRÉ-BoH/SCEN
+L/TRAFIKKONSULT                                                                               BET  ÄNDRINGEN AVSER SIGN DATUM
+INFART/UTFART MÅSTE                 N
+IDROTTSPARK                                                                            UTREDAS OCH
+ENTRÉ -ARTIST/ELITIDROTT KVALITETSSÄKRAS VIDARE
 MED KOMMUN OCH
 TRAFIKKONSULT/L
-ENTRÉ GYM ENTRÉ OMKL / SÖDRA PLATSEN SPORTHALL /
-FOTBOLL
-GRÄNS OCH PLACERING FÖR
-STÄNGSEL UTREDAS VIDARE
-031
-51
-HKP-PLATS
-FHK 2023-12-XX
-PLACERING AV HKP- PLATSER MÅSTE UTREDAS
-VIDARE MED KOMMUN OCH
-L/TRAFIKKONSULT                                                                               BET  ÄNDRINGEN AVSER SIGN DATUM
-N
+ENTRÉ -MEDIA/DRIFT/KOMMERS
 t
-v .0 r .2
-e id
-u
+. v . 2 0 r                                     SÖDRA PLA E T NT S RÉ E G N YM SPORT E O H N M A T K L R L L É / / U IN T F F A A R R T T B / oH
+id e                                                          FOTBOLL
+u                                                                                                   ENTRÉ -BORTASUP.
 ts
-rö                                                                                                                                           FÖRSTUDIE
+rö                                                                                                  ENTRÉ -DRIFT FOTBOLLSPLAN                FÖRSTUDIE
 F
-\-
-a                                                                                                                                         KUNGSBACKA ARENA n
-e
+\-                                                                        ENTRÉ -FOTBOLL
+a n                                                                                                    GRÄNS OCH PLACERING FÖR            KUNGSBACKA ARENA
+e                                                                                                      STÄNGSEL UTREDAS VIDARE
 Ar
-a
+a                                                                     FOTBOLLARENA
 k
 ca
 b
@@ -14486,41 +15312,35 @@ A                                                                               
 4                                                                                                                                      NYBYGGNAD AV ARENABYNGGNAD
 :0
 1                                                                                                                                      SITUATIONSPLAN
-7 0 Illustrationsplan - Förslagen flytt hus                                                                                0        25       50 m
+7 0 Illustrationsplan - Förslagen flytt hus                                                                                0        25       50 m    7/20
 \-
 6
 0
 \- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
-0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000
+0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000    7 / 20
 SKALA 1:500 I A1 (1:1000 I A3-FORMAT)
+
+© Semrén & Månsson 2023
+
+HKP-PLATS
+
+15 130
+
+Lastkaj
 
 <!-- sida 314 -->
 
-8 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
-IDROTTSTORG
-BACK of HOUSE
-80 000
-ENTRÉ -ARTIST/ELITIDROTT
-ENTRÉ -MEDIA/DRIFT/KOMMERS
-ENTRÉ -BORTASUP.
-ENTRÉ -DRIFT FOTBOLLSPLAN
-8/20
-Illustrationsplan - Nytt förslag
-jaktsaL
+
 BADHUSET
 ISARENA                AKTIVITETSPARK
+
 S
 N
 Ä
 R
 G
-\- S
+IDROTTSTORG                      S -
 R
 E
 T
@@ -14528,85 +15348,91 @@ E
 M
 \-
 0
-8
-ISHALL                                                                   INFART BoH
-Miljörummens placering beror på
+HKP-PLATS               8
+ISHALL                             HUVUDENTRÉ VIP/RESTAURANG             INFART BoH
+PUBLIK OCH SPORT ENTRÉ
+INFART/UTFART MÅSTE
+UTREDAS OCH
+KVALITETSSÄKRAS VIDARE
+MED KOMMUN OCH
+TRAFIKKONSULT/L
+ENTRÉ -BOH RESTAURANG
+13 200
+ENTRÉ -BoH/ARENA Miljörummens
+placering beror på
 infartens placering
 SPORT-
 HALLEN              ARENA
 BOULEHALLEN
 ENTRÉ FORRÅD
-OCH SKYDDSRUM
-ENTRÉ -FOTBOLL IDROTTSPARK
-UTFART/ FOTBOLLARENA
-INFART BoH
-MER PLATS SÖDER OM FOTBOLLSARENA FÖR
-IDROTT ELLER FRAMTIDA MÖJLIG BYGGRÄTT
-STALP-PKH
-HUVUDENTRÉ VIP/RESTAURANG
-PUBLIK OCH SPORT ENTRÉ
-INFART/UTFART MÅSTE
-UTREDAS OCH
-KVALITETSSÄKRAS VIDARE
-MED KOMMUN OCH
-TRAFIKKONSULT/L
-ENTRÉ -BOH RESTAURANG
-ENTRÉ -BoH/ARENA
-GRÄNS OCH PLACERING FÖR
+OCH SKYDDSRUM                                        BACK of HOUSE  GRÄNS OCH PLACERING FÖR
 STÄNGSEL UTREDAS VIDARE
-UTBREDNING &
+UTBREDNING &                       FHK 2023-12-XX
 UTSEENDE ENLIGT L.
-ENTRÉ -BoH/SCEN
-ENTRÉ GYM ENTRÉ
-OMKL / SÖDRA PLATSEN SPORTHALL /
-FOTBOLL
-INFART/UTFART MÅSTE UTREDAS OCH
-KVALITETSSÄKRAS VIDARE
-MED KOMMUN OCH
-TRAFIKKONSULT/L
-GRÄNS OCH PLACERING FÖR
-STÄNGSEL UTREDAS VIDARE
-009
-41
-HKP-PLATS
-13 200
-PLACERING AV HKP- PLATSER MÅSTE UTREDAS
-VIDARE MED KOMMUN OCH
-L/TRAFIKKONSULT
-ALTERNATIV PLACERING AV ARENA
-000
-03
-009
-26
-052
-91
-FHK 2023-12-XX
-42 100                       BET  ÄNDRINGEN AVSER SIGN DATUM
+PLACERING AV HKP-
+PLATSER MÅSTE UTREDAS                                                  80 000
+VIDARE MED KOMMUN OCH                                      ENTRÉ -BoH/SCEN
+L/TRAFIKKONSULT                                                 42 100                       BET  ÄNDRINGEN AVSER SIGN DATUM
 N
+ENTRÉ -ARTIST/ELITIDROTT
+ENTRÉ -MEDIA/DRIFT/KOMMERS
+.2 0
+e
 tv
-0.r
-.2
-e
-di
-u
-ts
-rö                                                                                                                                           FÖRSTUDIE
+.r
+SÖDRA PLA
+E
+T
+NT
+S
+RÉ
+E
+G
+N
+YM
+SPO
 F
-\- a                                                                                                                                      KUNGSBACKA ARENA n
-e
-rA
-a
+R
+O
+T
+E
+O
+T
+H
+N
+M
+B
+A
+T
+O
+K L
+R
+L L
+L
+É
+L
+/ /
+d u i                                                                                              ENTRÉ -BORTASUP.
+ts
+rö                                                                                                 ENTRÉ -DRIFT FOTBOLLSPLAN                 FÖRSTUDIE
+F
+n - a                        IDROTTSPARK                                ENTRÉ -FOTBOLL                              I U N T F R A E R D T A /U S T O F C AR H T MÅSTE KUNGSBACKA ARENA
+e                                                                                                                   KVALITETSSÄKRAS VIDARE
+rA                                                                                                                  MED KOMMUN OCH
+a                                                      ALTERNATIV PLACERING AV ARENA                                TRAFIKKONSULT/L
 k
+s
 ca
-b s
-g n
+b                                                                    FOTBOLLARENA                            UTFART/
+g n                                                                                                          INFART BoH
 u
 K
 /
 a
 n
-e Ar
+A
 a
+e r                                                                                                   G ST R Ä Ä N N G S S O E C L H U T P R LA E C D E A R S I N V G ID A FÖ RE R
 k
 ac
 b
@@ -14626,8 +15452,8 @@ o
 tu                                                                                                                                     L ??        TEL: 031-000 00 00
 A                                                                                                                                     UPPDRAG NR RITAD AV HANDLÄGGARE
 0000-00 DM/HC/RR/FT DM/HC/RR/FT
-DATUM  ANSVARIG
-2                                                                                                                                            LZ/ML
+MER PLATS SÖDER OM FOTBOLLSARENA FÖR DATUM ANSVARIG
+2                                                                                                   IDROTT ELLER FRAMTIDA MÖJLIG BYGGRÄTT    LZ/ML
 :0 2                                                                                                                                  NYBYGGNAD AV ARENABYGGNAD
 :2 0                                                                                                                                  SITUATIONSPLAN
 1
@@ -14652,159 +15478,481 @@ BET
 SKALA 1:500 I A1 (1:1000 I A3-FORMAT)
 SKALA 1:1000 (för A3)
 N
-0        25       50 m
+0        25       50 m    8/20
+Illustrationsplan - Nytt förslag
+8 / 20
+
+© Semrén & Månsson 2023
+
+HKP-PLATS
+
+14 900
+
+30 000
+
+62 900
+
+19 250
+
+Lastkaj
 
 <!-- sida 315 -->
 
-9 / 20
-3202
-nossnåM
-& nérmeS
-©
 YTSAMMANSTÄLLNING
 50/50
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19            Kommersiell
 Kommunal
+
 OBS!                             Förklaring
 YTSAMMANSTÄLLNING
-50/5500/50
-KoKmmoemrsiemll ersiellt
-KoKmmoumnalmunal
+Arean i varje rum på planritningarna avser rumsytan 50/5500/50 BTA ca 990 m2
+A                 B                               C     innanför omslutande väggar och ger en annan
+KoKmmoemrsiemll ersiellt BTA ca 1340 m2
+totalsumma än räkYnTeSAmMMeAtNoSTdÄeLLnNI NfGö BrT BATPALA Ns 1om anges
+BTA-sammanställningen intill.      KoKmmoumnalmunal BTA ca 3870 m2
+50/50  994 m2
+Kommersiell 1.338 m2
+Kommunal 3.867 m2
 HUVUDENTRÉ  VIP/RESTAURANG
-PUBLIK OCH SPORT ENTRÉ
-A8
-A7/8
-TRAPPHUS A8 23,1 m² A7/8 A7 4 F 5 O 3, A 7 J m É ² M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S P6 I 8A E 5 ,S 1 2 L , 6 S L m A m / ² G K ² E ONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US A7
-INFO 3 D 2 I , S 3 K m /D ² RIFT                                                    T 11 E 0 K ,3 N m IK ²
-A6
-SKYDDSRUM/RE 99 H ,8 A B m G ² YM/GARDERÅB A6 A5        KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR RWC 4,8 m²
-FHK 2023-12-XX SKYDDS 2 R 2 U ,5 M m / ² FÖRRÅD A5
-A4                               1 S 5, T 3 Ä m D ²
-ÖPPETNED                     ÖPPETNED
-SCEN                                           BET  ÄNDRINGEN AVSER SIGN DATUM
-FÖRSTUDIE 2.0 -WORK IN PROGRESS                                                          N SKYDDSRUM/FORRÅD FOTBOLL / GYM OMKL. A1 99,8 m² 39,7 m² A4
-OMKL. A2 45,1 m²t A3 v .0 r .2 id e                         BACK 8 3 O ,9 F m H ² OUSE O 3 M 9 K ,6 L . m A ² 1u ts A3 - rö F ANT 29 ID ,5 O m P ² ING PRO 1 D 9, . 5 O m F ² FICE E 1 L 2 - ,1 R U m² M PA 68 S , S 5 A m G ² E FÖRSTUDIE A2 a n e PASSAGE/MIXED ZONE ENTRÉ -ARTIST/ELITIDROTT KOM 9 M 7, E 9 R m S ² IELL KUNGSBACKA ARENA
-Ar                      OMKL. D        WC              65,8 m² TR 2 A 3 P ,1 P m H ² US a k ca b s g n A2 /ENSE2M9,B5 LmE²LOGE 1 S 4 T ,0 Ä D m² /ENSP O E2AM M 4S,B K 8S L L AmE . G² E 1 L 9 EO 2 , G/ 6 M E m E ² ZZANIN 15,0 m² M P T R R IN2 E A 3 S P 1, P 10 S P A 3 m H P 5 E S ² , U L V 4 S A S T A m T . G ² S N E E E R D E F M Ö P A Ö V R Å M C T 9 IL ,K E L SE9 R Ä S R KD U m K R R E I M A² T D U IV A / M . A R / N E D N P E ERS 2/P O 3F,A N 5RU A 8 DmS , L ² 4 M R m E U ² D M IA KA 7, M 8 E m R ² A KO / E 6M M ,6Ö P N M A 5 mT E 3T S ²E N , S 8R T A m G É² K E O /4M - M ,5Ö M M Tm E E² E NT D SP / I 4M E A ,8Ö A / K Tm D E E ² R RIF K T O / N K T /9M R O ,9Ö O M Tm L E L ² R M UM ERS FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US A1 a k ca
-b s g
-n u
-B2     A18    A19   K /A20  A21    B10    B11    B12    B13    B14    B15     B16   A22                                                                    A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 / D :s co SPELARBÄNK MED TAK K E ? ? ? ? T T E E L L : : 0 0 3 3 1 1 - - 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-k s         B2     A18    A19    A20    A21    B10    B11    B12    B13    B14    B15    B16    A22                                    V ??         TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00 o t u L ?? TEL: 031-000 00 00 A UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
-9 4                                                                                                                                    DATUM A L N Z SV / A M RIG L
-:3
-5                                                                                                                                      NYBYGGNAD AV ARENABYGGNAD :5 1 PLAN 12 -VÅNING 3 7 0 -
-6
-0 - 4 2 PLAN 3                                                                                                                         S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
-0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
-SKALA 1:250 I A1 (1:500 I A3-FORMAT)
-0      10      20 m    9/20
-Plan 1 - Entréplan
-&-DNAH TTÄ²VmT 7L,L4OB DRF LLOB²mT O0F,1T1ILE &-DNAH TTÄ²VmT 5L,L4OB
-STORKÖK 96,9 m²
-MÖTESRUM 12,3 m²
-WC 20,1 m² HA1N4 F ,D8 R B D mO²LL HA1N3 F ,D8 R B D mO²LL 32 W ,9 C m²
-FRD FRD HA1N0,D9 BmO²LL HA1N0,D1 BmO²LL
-FRD HANDBOLL 7,8 m² PASSAGE 60,6 m² FRD MA 10 S ,7 S A m G ² E VÄNTRUM ARE /B N S O2 A T5R M O,D6 A L mO A T ²R E C R H IAL
-FR 7, D 4 N m² IU   4 R ,8 W m C ² M M6 A ,4Ö T C TmE H ² - HISS OMKL. E /ENSE2M5,B6 LmE²LOGE
-TROP
-YTSAMMANSTÄLLNING BTA
-50/50
-Kommersiell
-Kommunal
-MILJÖRUM
-23,5 m²
-KONTOR 12,2 m² PASSAGE TICKET RIP 30,4 m² GODSMOTTAK ALT 1 O 13 M ,0 K m L ² . O 12 M ,6 K m L ² . 6 F ,0 R m D ² 5 F , R 9 Y m S ² 5 K ,8 Y m L ²UTS F 6L, E U2 T Tm T N² - ING KO29M,2M Em²RS RWCPASSAGE 4,8 m² 6,9 m² WC 18,2 m² 6, W 6 C m² 2 S , T 6 Ä m D ²
-ENTRÉ -BoH/ARENA
-V 6 IL ,1 R m U ² MR 5 W ,0 C m / ² D ENTRÉ FORRÅD OCH SKYDDSRUM +1,1m
-ENTRÉ FORRÅD OCH SKYDDSRUM OMKL
-FRD                                                                                              BOH-PLAN, HA1N1,D0 BmO²LL UTBREDNING & RWC/D RWC/D UTSEENDE ENLIGT L.
-4,8 m²  4,8 m² OMKL. A1 ENTRÉ FORRÅD 39,6 m² OCH SKYDDSRUM
-OMKL. A2                                                    LASTKAJ 44,9 m² OMKL. A1 39,6 m² LYFTBORD R 4 W ,8 C m / ² D R 4 W ,8 C m / ² D TE 11 L , E 8 R m U ² M
-RWC/D 4,8 m² OMKL. D/ CRE24W,8 R mO²OM ENTRÉ GYM ENTRÉ OMKL / SPORTHALL / FOTBOLL
-ENTRÉ -BORTASUP. SPELARTUNNEL
-ENTRÉ -DRIFT FOTBOLLSPLAN TROP
-?gninllätslåm artxE
-FRD NIU 14,9 m²
-HCO-HCTAM TAGELED²mS T6E,7HREKÄS DRF LLOB²mT O1,F11TILE DRF LLOB²mTO 6F,8TILE
-STAKET
-SÄKERHETSGRÄNS
-KATMRÄKS
-30,1 m² MILJÖRUM
-12 000
-TVÄTT 13,7 m²     OMKL. C 23,1 m²
-OMKL. OMKL. 1D4R,2I FmT² 1D4R,2I FmT² LÄKARE/ MEDICINSK 11R,2U mM²
-005 62
-PLATSERING AV MILJÖRUM BEROR PÅ
+PUBLIK OCH SPORT ENTRÉ                                                         P M L IL A J T Ö S R E U R M IN G BE A R V O R PÅ
 LÖSNING FOR INFART
-VINDFÅN 16 G ,8 / T m I ² CKETRIP TR 1 A 6 P ,3 P m H ² US VIND 9 F ,7 Å N m G ² VIP RESTAURANG 347,4 m² BACK OF HOUSE 79,1 m²
-EL-TRUCK
-GARDERÅB / KIOSK MERCH / KIOSK MERCH / KIOSK 20,3 m² 20,1 m² 21,1 m²
+A8                            +2,5m
+MILJÖRUM
+A7/8                                                                                                        23,5 m²
+E    A7                           VINDF T Å IC N 1 A K 6 G L , E 8 T / T T A m 1 R I A A ² C 7IP/ 7 8 K 8 E 4 T F 5 R O 3 I , A P 7 J m É ² PUB 5, L 4 I K m H ² ISS TR 1 A 6 P ,3 P m H ² US M 1 E 4 Z 1, Z 6 A V m N I ² N IN D 9 F ,7 Å N m G ² VIP RES 34 T 7 A , U 4 R m A ² NG 4 R ,8 W 6 U m C , W 6 ² r i C m x P 4 ² A 6 S ,9 S A m 2 S G ² , T 6 E Ä m D ² 1 H 8 W F ,2 x C m 4 ² HISS T S R 2 T A 9 3 O 6 P , , 1 R 9 P m H K m ² Ö U ² S K W O 1 H 3 M F , C 0 K K 1m2 1 O L D W 2 ,² . 0 , N 2 C T m W m O 1 O H ²2 ² M F R , C 6 K m L D ² . PA 3 2 H 0 S , I 6 4 S S F 6 , A 0 S R m 0 G ² m D 0 E ² T 5 F R , R 2 9 A 3 Y P , m 1 S P ² m H ² U K S OM 5 M K ,8 Y E m L R ² 5 S P6 I 8A E 5 U ,S 1 2 P L , T 6 S L A B S m A U A F 6 m / ² L G , C K E S ² U2 E O T R K T 1 m 7 T 3 U N N O 9 ² , - 6 M I T , F N 1 O / m G V m H R ² ² I O LR U U S M E GO K D O2 S 9M, M 2M O Em T ²R T S AK +2,5m ENTRÉ -BOH RESTAURAN 1 G 4 W ,0 C m² S M C 6 I 3 , L H 0 0 J A , Ö m 1 K ² R m T U ² M HISS TR 2 A 3 P ,1 P m H ² US E
+
+2 400                                 EL-TRUCK     ENTRÉ -BoH/ARENA
+GARDE 2 R 0, Å 3 B m / ² KIOSK MER 2 C 0 H ,1 / m K ² IOSK MERC 21 H ,1 / m K ² IOSK INFO 3 D 2 I , S 3 K m /D ² RIFT MÖ 1 T 2, E 3 S m R ² UM T 11 E 0 K ,3 N m IK ²
+A6
 FOAJÉ
 140,6 m²
-FAST SCEN 318,0 m²
+SKYDDSRUM/RE 99 H ,8 A B m G ² YM/GARDERÅB A6V 6 IL ,1 R m U ² MR 5 W ,0 C m / ² D
+D    A5 OC E H N T S R K É Y D F D O S R R R U Å M D F 1 R 4 D ,9 N m I ² U HA1N4 F ,D8 R B D mO²LL HA1N3 F ,D8 R B D mO²LL TI 3 C A K L 3 E T T 5 2 R 0 IP 20 W ,1 C m² 4 R ,8 W m C ² 2 T A I C L 6 . T R 0 2 I 0 P 32 W ,9 C m² KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR FA + 3 S 1 1 8 T , , 1 0 S m C m² EN D FHK 2023-12-XX
 ARENA PLAN 1
-1417,7 m²
-D D D   D D D
-D D WC  D D WC                                                    PA 4 S 1,0 S A m G ² E FRD ELITHANDBOLL 14,0 m²
-ENTRÉ -BoH/SCEN PASSAGE 27,8 m² +1,1m GYM 409,8 m² AR O T1 M 5IS, K 5T L Lm . O ² B G / E AR O T2 M I1S, K 6T L Lm . O² C G / E TEKNIK 15 / , L 7 J U m D ² /LJUS PASSAGE 82,2 m²
-GYM 12 1 / , 0 E N m T ² RÉ 2, W 3 C m2², W 3 C m² CR O E3 M W0, K 5 L Rm . O ² D O / M /ENS O E3M M 0,B K 5 L L mE . ² E LOGE /ENS O E2M M 9,B K 5 L L mE . ² E LOGE OMKL. D A1/6 /ENSE2M5,B6 LmE²LOGE Ramp +0,5m
-SPELARBÄNK MED TAK
-7 x IRU 4 x FH 8 x FH
-HF      HF
-HF D D D D WC
-ROKSETU RODIRROK
-HF x4
-HF D D HWC/D HWC/D D D WC WC HF HF HF D D WC D D WC D D D D D D
-D D    WC    WC     D D D D  WCWC    D D                HF D D HWC/D WC WC HF D D D D HWC/DWC HF D D HF HF D D WC WC D D D D WCWC D D WC D D WC
-2x FH        HF HF WCDWCD Uri x4
-WC D D HWC DWC STALP-PKH STALP-PKH
-FRD ELITHANDBOLL 13,7 m²
-PASSAGE 47,6 m²        PASSAGE/SPELARTUNNEL 212,7 m²
-HWC D OMKL. B 16,3 m²
-003 3
-2 600
-2 400
-2 400                            2 600
-006 2
-007
+1417,7 m²                                                                                               FHK 2023-12-XX
+A4
+OC E H N T S R K É Y D F D O S R R R U Å M D
++2,5m HA1N1 F ,D0 R B D mO²L
+S
+L
+KYDD
+H
+S
+A
 2
-3 350  2 600
-Möjligt att bygga fotbollsläktaren i flera etapper, och denna del slutligen. Ca. 500 + 500 platser.
-005
-1000 3 000 4
-Arean i varje rum på planritningarna avser rumsytan BTA ca 990 m2
-A                 B                               C     innanför omslutande väggar och ger en annan
-BTA ca 1340 m2
-totalsumma än räknemetoden för BTPALA Ns 1om anges
-BTA-sammanställningen intill.                BTA ca 3870 m2
-994 m2
-1.338 m2
-3.867 m2
-+2,5m
-E                                        PUB 5, L 4 I K m H ² ISS                  HISS   PAUSR 13 U ,6 M / m V ² ILRUM        E +2,5m ENTRÉ -BOH RESTAURANG
-TIC A K L E T T 2 RIP T A IC L . T R 2 IP                                                                 FHK 2023-12-XX D D
-BET  ÄNDRINGEN AVSER SIGN DATUM FÖRSTUDIE 2.0 -WORK IN PROGRESS N
-+2,5m
-tv 0.r .2
-e di u ts rö                                                                                                                                 FÖRSTUDIE F - a KUNGSBACKA ARENA n e rA a k ca b +2,5m
-s g n u K                                                                         FRD / a 4,7 m² HISS n e A a r +2,5m k ac +2,5m +2,5m b s g n u K / A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
-/ s:                                                                                                                                    K ??        TEL: 031-000 00 00 co
-D                                                                                                                                       E ??        TEL: 031-000 00 00
-k s                                                                                                                                     V ??        TEL: 031-000 00 00 e d HC W ?? TEL: 031-000 00 00 o tu LJUSMAST LJUSMAST L ?? TEL: 031-000 00 00
-A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT Körbar yta för drift och lyft DATUM ANSVARIG 8 LZ/ML :2 0 :0 5 5 FLAGGSTÄNGER N P Y LA B N Y G 1 G 0 N - AD E N A T V R É A P R LA EN N ABYGGNAD
-1 4                                               105 000                                    5 000 2 000
-2
-0 2 0 .6 PLAN 1 - ENTRÉPLAN                                              Skrafferade delar av fotbollsläktare                          S A KA 1 LA 1:250 A NUM - MER 40-1-100 BET .2 0 5 10 15 20 25m A3 1:500 1 är med i förstudiekalkyl. Kan plockas
-A                 B                              SKCALA 1:250 I A1 (1:500 I A3-FORMAT) bort och utföras i senare skede
+1
+R
 N
+2
+0 F
+U ,
+,D
+5
+9 R
+M
+B D
+m
+mO
+/ ² F
+²L
+Ö
+L
+RRÅD
+HA1N0 F ,D R 1 B D mO²LL RWC/D D D D
+OMKL
+RW
+A
+C
+5
+/DD 1 S 5, T 3 Ä m D ² D D FRD EL 1 I 3 T , H 7 A m N ² DBOLL
+FÖRSTUDIE 2.0 ÖPPETNED -WORK IN PROGRESS ÖPPETNED
+UTS U E T B E B O N R H D E - E D P N L E A I N N N L G , I G & T L. SCEN
+BET  ÄNDRINGEN AVSER SIGN DA N TUM
+BET  ÄNDRINGEN AVSER SIGN DATUM
+0 tv .r OC E H N T S R K É Y D F D O S R R R U Å M D SKYDDSRUM/FO 9 R 9 R ,8 Å m D ² FOTBOLL / GYM 4,8 m² D O 3 M 9 K ,7 L . m H A ² D 1 F WC 4,8 A m 4 ² O D 3 M 9 K ,6 L . m A ² H D 1 F WC FRD EL 1 I 4 T , H 0 A m N ² DBOLL 12 000 FÖPRA 4 SS 1, T 0 SU A m DG ² IEE 2.0 -WORK IN PROGRESS N
+.2
+a k ca b n e rA F - a d u ts rö i e A A 2 3 PA 60 S , S 6 A m G ² E 40 G 9 Y ,8 M m² PA 47 S , S 6 A m G ² E R H 4 W W ,8 C C m / / ² D D O D D D D O 3 M 4 9 M K , 5 6 K , L 1 L . m m . A ² H H A ² 1 D D D D 2 F F a n e id e u t . v . t 2 0 r s - rö F D WC WC PA 82 S , S 2 A m G ² E H R 4 W W ,8 A C C m 3 / / D ² D O O D D D D 3 M 4 M 9 4 K , K 6 ,9 L L . m . m A ² A ² H H 1 D D D D 2 F F D WC WC PA 27 S , S 8 A m G M ² E F A 10 R S ,7 D S 1 T 3 A m V H , 7 7 G ² Ä , A 8 E T m N T m ² D H A ² B F N W O T 2 L C 9 ID L ,5 O m P ² INGVÄN P T A R S U S M AG 2 E 2 / S 12 4 P ,7 E 0 L m 0 A ² RTUNNEL O 2 M 3, K 1 L m . ² C WC D AR D O T1 M 5IS, K 5T L H Lm . O W ² B G / C E D A W R O C T2 M I1S, K 6T L Lm . O² C G / E ARE /B N S O2 A T5R F M O, R D6 A L D mO A T ²R E C R H IAL PRO 1 D 9, . 5 O m F ² FICE 2 600 P TE A K S N SA IK 1 G 5 / , L E 7 J / U M m D ² IX /L E J D U S ZONE BACK T 8 + E 3 O 1 1 , 1 L , 9 F , 1 E 8 m m H R m ² O U ² U M SE E 1 L 2 - ,1 R U m² M LY L + F A 2 T S ,5 B T m O K R AJ D E E N N T T R R É É - - A B R o T H I / S S T C / E E N LITIDROTT KOM 9 M 7, E 9 R m S ² IELL PA 68 S , S 5 A m G ² E KUNG F S Ö B R A S C T K U A D I A E RENA KUNG F S Ö B R A S C T K U A D I A E RENA
+tu
+k s e d o
+s co
+D
+u K
+\:
+/
+/
+a b s g n A a k c / a n e r s g n u K A A 1/ 1 6
+LJUSMAST
+STAKET B2
+EN G T Y R M 12 É 1 / , 0 E N m G + T ² 2 R Y ,5 É m M
+A18    A
+S
+1
+P
+9
+O F H R 7 F R , I D 4 S O T S N m E O T T ² I H U R N M B 2 A A 3 T P O , K 1 L P + R m 2 H L L L , ² U 5 É L m S / / 2, W 3
+D
+a e k Ar ca
+b s g
+n u
+K : / s / co
+a k Ar ca b s g n u K / a n C m2², W 3 C m
+A
+²
+20
+D A A A O 1 1 / 2 M 1 6 H 6 ,3 K W L m . C ² B D D D D D D
+A2 S 1 P
+C C
+E
+R R O O
+L
+E E2 3
+A
+M M 4 W W 0
+R
+, , K K 5 8
+B
+L L R R
+Ä
+m m . . O O
+N
+² ² D D O O
+K
+/ / M M
+MED TA
+H
+K
+WC W W /D C C 4 R ,8
+B
+W W M
+1
+m L C E C
+0
+Ä ² 1 D 1R K , I 2 C U A
+S
+M m I R M M6 N A ²
+P
+E ,4 S Ö T / K
+E
+C TmE H ²
+L
+\-
+A
+\+ + R
+R
+0 2 a , , 5 m
+T
+5 1 T m m 7 p
+U
+E 9 K ,7
+N
+N W W W m IK
+N
+² C C C
+E
+H H
+L
+F F
+B1
+/ / E E
+1
+N N S S O O E E 2 2 M M M M 5 9 , , B B K K 6 5 L L L L m m . E E .
+S
+² ² D D L L
+P
+O O
+E
+G G
+L
+E E
+ARBÄN
+D D D1 S 4
+K
+T , 0
+M
+Ä D D D D m
+E
+T ²
+D
+R 2 D D D A
+T
+3 P
+A
+,1 P
+K B
+D D D m H
+1
+² U
+2
+S / / E E N N S S R H 7 P O O E E W 2 3 , A I 2 M M M M S 4 0 S C , , S B B m K K 5 8S / ² L L L L D A m m E E . . G ² ² E E 1 L L 9 E O O 2 , G G/ 6 M E E m E ² ZZ H A W N L I O C N W W U / 5 D C C 0 N
+B
+,8 G
+1
+W W W E
+3
+m C C C ² YTA H H F F 15 W ,0 / / C E EmN N ²S S O O E E2 2M M M M 9 5 , , B B K K 5 6 L L L L m m E E . . ² ² E E L L O O G G E E M o
+B
+D D D c ö
+1
+h j
+4
+l i d g e D D D t n a n tt a W b 1 O d D y 4 C e g M R, l 2 g I s K a F l m L u T D f ² o t . li t g b e o n lls D . 1 O D l 4 C ä M R, k a 2 t I . K a W F m 5 L r T e ² 0 C . n 0 i + R f 4 4 l F 5 W e , ,7 8 0 r R a C 0 D m m e / p ² ² D
+B
+t l a a
+1
+p t
+5
+s p e e H r r . , ISS M P T R R I K N2 E A O 6 3 S P 5 1, M P 1 , 0 S P 8 A 3 M m H P 5 E S m ² E , U L V 4 S ² R A S T A m T S . G ² S I N E 4 E E E 6 L R 6 D
+B
+L , 3 E
+1
+F / M
+6
+F Ö m P A Ö V Ö ² R Å M C T 9 I R L ,K E L SE9 R E Ä S R KD U N m K R R E I M A I ² T D U N IV A / M . G A R A / N
+H
+E R D N
+C
+P E ERS 2/P O 3F,A N 5RU A
+L
+8 DmS ,
+J
+L ² 4 M
+U
+R m
+S
+E U H ²
+M
+D M F I
+A
+A
+ST
+A22
+KA 7, M 8 E m R ² A
+E
+K
+N
+O / E 6
+T
+M M ,6Ö P N
+R
+M A 5 mT E 3T S
+É
+²E N , S 8R T A
+\-
+m G É² K
+B
+E O /4M
+O
+\- M ,5Ö M M
+R
+Tm E E² E
+T
+NT
+A
+D SP /
+S
+I 4M E A ,8Ö
+U
+A / K Tm D
+P
+E E ² R R
+.
+IF K T O / N K T /9M R O ,9Ö O M Tm L R 4 E L ² W , R M 8 U C m M E / ² D R PA S 5 F S ,4 R S / E D A m 6L, G ² 3 K R E A Um 1 1 N , , W W ² 8 8 M S C C m m L ² ² I HISS ENTR 3 É 1, 1 P T m E R ² 2 N A 3 P T ,1 R P m Y H ² US A
+K
+E
+V W
+L
+?
+? ?
+?
+S
+??
+?
+? ?
+?
+emrén & Månsson / Hille Melbye
+T
+T T
+T
+T
+T
+E
+E E
+E
+E
+E
+L
+L L
+L
+L
+L
+\:
+\: :
+\:
+\:
+\:
+0
+0 0
+0
+0
+0
+3
+3
+3 3
+3
+3
+1
+1
+1 1
+1
+1
+\-
+\-
+\- -
+\-
+\-
+7
+0
+0 0
+0
+0
+4
+0
+0 0
+0
+0
+0
+0 0
+0
+0
+3
+0
+0 0
+0
+0
+0
+0
+0 0
+0
+0
+2
+0
+0 0
+0
+0
+0
+0
+0 0
+0
+0
+0
+A K
+E
+S ?
+?
+?
+?
+emrén & Månsson / Hille Melbye T T
+T
+E E
+E
+L L
+L
+\: :
+\:
+0 0
+0
+3 3
+3
+1 1
+1
+\-
+\-
+\- 0
+0
+74 0
+0
+0
+0
+3 0
+0
+0 0
+0
+2 0
+0
+0 0
+0
+0
+A :2 0 : 8 0 5 SÄKERHETSGRÄNS   k s e d o t A u B2 A18    A19    A20    A21  Körbar yta B fö 1 r 0 drift och lyft B11 B12 B1 E 3 NTR 5 É FL - AG D G R ST I Ä F N T GE R FOTB B1 O 4 LLSPLAN B15 B16 A22 U N 0 D P P A 0 P Y L T D U 0 A R B M A 0 N G Y - N G 0 R 1 0 G 0 N - AD E N A T V R R A D L I N T Z É M S A A V P D / / A R A M R L H V IG A E L C N N / A R B R Y /F G T GNA H D A M D NDL / Ä H GG C AR / E RR/FT U 0 P 0 PD V W L 0 RA 0 G - ? ? ? N ? ? ? 0 R 0 R D IT M AD / A H V C/RR/FT D H T T T A E E E M N L L L D : : : / L Ä 0 0 0 H G 3 3 3 G C 1 1 1 A - - - R / 0 0 0 E R 0 0 0 0 0 0 R 0 0 0 / 0 0 0 F 0 0 0 T 0 0 0
+1 4                             9 4               105 000                                    5 000 2 000                                                               DATUM A L N Z SV / A M RIG L
+.2 0 1 2 . 0 6 2 PLAN 1 - ENTRÉPLAN 7 0 - : : 3 5 5 1             0   5  S ä 10 r k m ra e ff d e r i 1 a 5 f d ö e rs d tu e 2 d l 0 a ie r k a a v l k f 2 o y 5 t l m . b K o a lls n l ä p k lo ta ck re a s S A A KA 1 3 LA 1 1 : : 2 5 5 0 0 0 A NUM - MER 40-1-100 BET N P Y LA B N Y G 1 G 2 N - AD V Å A N V IN A G R 3 ENABYGGNAD
+6
+A              0 - 4 2 B PLAN 3                  SKCALA 1:250 I A1 b o r t o (1 c :5 h 0 0 u t I f A ö 3 r - a FO s R i M s A e T n ) are skede       S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
+0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
+SKALA 1:250 I A1 (1:500 I A3-FORMAT) N
+0      10      20 m    9/20
+Plan 1 - Entréplan
+9 / 20
+
+© Semrén & Månsson 2023
+
+PORT
+
+HKP-PLATS
+
+HKP-PLATS
+
+Extra målställning?
+
+KORRIDOR UTESKOR
+
+URI x 7
+
+HF x 4
+
+HF x 8
+
+3 300
+
+HAND- &
+
+BO4L,L7 TmV²ÄTT
+
+MATCH- OCH
+
+SÄKERH7,E6T Sm²DELEGAT
+
+FRD
+
+ELIT11F,1O Tm²BOLL
+
+FRD
+
+ELIT8,F6 OTm²BOLL
+
+FRD
+
+ELI 1T1,F0O Tm²BOLL
+
+HF x2
+
+HAND- &
+
+BO4L,L5 TmV²ÄTT
+
+2 600
+
+4 000 3 000 1 500
+
+26 500
+
+2 700
+
+PORT
+
+SKÄRMTAK
 
 <!-- sida 316 -->
 
-10 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 YTSAMMANSTÄLLNING BTA
 50/50
 YTSAMMANSTÄLLNING
@@ -14815,164 +15963,378 @@ Kungsbacka Arena - Förstudie 2.0 - 24-06-19            Kommersiell
 Kommunal
 OBS!                             Förklaring
 YTSAMMANSTÄLLNING
-50/5500/50
-KoKmmoemrsiemll ersiellt
-KoKmmoumnalmunal
+Arean i varje rum på planritningarna avser rumsytan 50/5500/50 BTA ca 950 m2
+A                 B                               C     innanför omslutande väggar och ger en annan
+KoKmmoemrsiemll ersiellt BTA ca 365 m2
+totalsumma än räkYnTSeAmMMeANtoSTdÄLeLnNI NfGö BrT ABTPALA Ns 2om anges
+BTA-sammanställningen intill.      KoKmmoumnalmunal BTA ca 3400 m2
+50/50   950 m2
+Kommersiell 365 m2
+Kommunal 3.400 m2
 A8
 A7/8
-ÖPPET NED      A8               7 R ,4 W m C ² 1 K 3 I , O 9 S m K ² 1 K 4 I , O 0 S m K ² S 2 C ,8 H A m K ² T TR 2 A 3 P ,1 P m H ² US W 19 C ,3 U m N ² I
+E                    ÖPPET NED      A8   HISS TR 2 A 3 P ,1 P m H ² US 21 W ,0 C m² 7 R ,4 W m C ² 1 K 3 I , O 9 S m K ² SE 6 R 3 V ,5 E R m I ² NG 1 K 4 I , O 0 S m K ² 24 W ,8 C m² S 2 C ,8 H A m K ² THISS TR 2 A 3 P ,1 P m H ² US 9 F ,3 R D m² W 19 C ,3 U m N ² I E
 A7/8
-A7                                       M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US
-A7
-TEKNIK 110,3 m²
+A7                                       M 1 E 4 Z 1, Z 6 A m N ² IN HC HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US
+FRD SP 14 O ,6 R T m H ² ALLEN A7                         SER 90 V ,1 E R m² ING
+PU 30 B 7 L ,4 IK Y m² TA                                                             T 11 E 0 K ,3 N m IK ²
 A6
-A6
+SON
+A6PO F P Ö - R UP
+EVENTS
 A5                                                              KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR
-SPORTHALL                                                                                                                                             FHK 2023-12-XX 1171,5 m² A5 HC
+D                                                                                                                              D
+SP 1 O 17 R 1, T 5 H m A ² LL A5 HC      Ca. 2.000 F s Ö it R tp S la T t U se D r I E (+ 2 5 . 0 0 0 - p W å O till R fä K ll i I g N a P lä R kt O ar G e R p E å S fa S st scen) FHK 2023-12-XX FHK 2023-12-XX
 A4
 ÖPPETNED                     ÖPPETNED
-SCEN                                           BET  ÄNDRINGEN AVSER SIGN DATUM
+SCEN           BET  ÄNDRINGEN AVSER SIGN DATUM BET  ÄNDRINGEN AVSER SIGN DATUM
 FÖRSTUDIE 2.0 -WORK IN PROGRESS
-N
-A4
-t A3 v .0 r
-.2
-e id u ts A3
-rö                                                                                             PASSAGE                                       FÖRSTUDIE
-F                                                                                              68,5 m²
-\- A2 FRD FRD INNEBANDY PASS a n eAGE                                                     KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA FÖR2E0,N2 INmG²AR 16,0 m² 4 R ,8 W m C ² 25,4Ar m² 15 W ,0 C m² a FRD SP 2 O 2,6 R T m H ² ALLEN S 6 C ,4 H A m K ² T TR 2 A 3 P ,1 P m H ² US k ca b s g n HISS A2 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E T S 1 R 0 S 2 A 3 P P E ,1L P V Am H T T² . U S N S E E R D E F Ö P 6 R Å R ,6 W L S Ä m K C K ² R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² REN H IN C GAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US
-A1 a k ca HC            20 PL M. BORD, MEDIA       B C O A. R 1 T 0 A 0 S P U L P A P T O S R E T R
-b s g n u B2 A18 A19 K /A20 A21 B10 B11 B12 B13 B14 B15   B16   A22                                                                    A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 /
+N                               N
+HC  SON
+A4PO F P Ö - R UP
+EVENTS
+.2 0 tv .r A3                   t . v . 2 0 r
+F
+d u ts
+rö
+i e                             id e u ts
+rö
+F
+A3                                                 GR A E R E R N A R N O G O 9E0 M ,M1 / A S mN E ² R G V S E R R U I M NG /
+PA
+68
+S
+,
+S
+5
+A
+m
+G
+²
+E           FÖRSTUDIE                       FÖRSTUDIE
+s co
 D
-:s co                                                                                                                                  K
-E
-?
-?
-?
-?
-T
-T
-E
-E
-L
-L
-\:
-\:
-0
-0
-3
-3
+u K : / / a b s g n A a k c / a n e r s g n u K a k ca b n e rA - a A A A 1/ 2 1 6 PEN B T 2 RY 2 0 M ,0 E S m S ² OR O.L F . RD 3 H 9 A ,9 N m D ² BOLL A18 FR F D Ö S R2 P E 2 0 F O 2 ,N R 2 ,6 R I D Nm T m G² H ² A A R LLEN FRD S 6 I C 1 N , 6 4 H N , 0 A E m A K m ² B 1 T ² A 9 NDY T 4 R R , 2 8 A W 3 P , m C 1 P ² m H ² US PA 25 S ,4 S
+D
+a e k Ar ca b s g n u K : / s / co a n a e k Ar ca b s g n u K / a n - A H m G ² IS E S A20 VINDFÅN 2 G 9 T H , 9 I / A C C T A A m A K 1 I L ² / E C 2 1 T T 6 K 2 E R T IP RIP TV S - E S M TU IN A D A 2 IO R 1 IER 6 U 7 M ,0 /F m O ² TBO K L O L M S M -V E M IP NS ö ET jli K g R t a E t T t b A H y R F
+C
+g B B I g A
+a
+1 Ø a S M
+.
+0 T H T P
 1
+f I F 5 6 o N R T
+.
+E , ,
+0
+t 5 2 E I W b A
+0
+S K o K
+0
+m mT C l O l E ² ²Ä s
+s
+T l R
+i
+D ä
+t
+T
+t
+k
+p
+t
+l
+/ a
+a
+r
+t
+e
+s
+K n
+e
+A
+r
+i M
+p
+f 2 l
+å
+E e 1 T 3 W 7 R r ,
+h
+E A 2 a 9
+e
+A K C R ,7 e
+l
+m
+a
+N E t ² 9 a m I N
+f
+5 K p
+o
+² K A 3 p
+tb
+O , e 1 P
+o
+r M
+l
+, m L
+l s
+o M A ²
+l
+c
+ä
+N E h
+k
+N
+t
+2 B m
+a
+T
+r
+K 1 e
+e
+2 1 O d
+n
+5 W i , N a 9 d T C e m R l ² O sl L u L t S li R g JU e U n H K M . F V 1 2 / Å , M 6 R Ö D m T ² S E R 1 S 4 UT ,0 MÄ D m T ²2 R K 1 2 I A , H O 3 4 P , F 1 S P m 2 B K m 0 ² H 1 ² U 2 P S L M. BO R H 7 P R W , A I 2 S D S C S , m S / M ² D A E G 1 D 9 E 2 I A , / 6 M m E ² ZZAN L I O NS U 5 E 0 N 7 R B , 0 8 G V 1 , 6 E E 3 m R ² m Y I ² T N A G 15 W ,0 C m² 1 K 8 I , O 9 S H m K F ² 4 R ,3 M o W B c ö m C 1 h j ² 4 li d g e t n a n tt a / A b P d y R R e g B l g E s E a S l u T S f 4 o t S l K 4 i t R g b , O 9 e o U N n ll mM s . F ² l 1 ä . M k R 0 t E 0 a U D r 0 M e I p n A l a i t f s le e r r a n e ä B t r a 1 p f 5 ä p r e d H r i , g I P S . A S 11 S ,6 S A m G ² H E F M PR I K N E K O 7 T S , I 1 R 2 M O 0 S 2 A S M m 3 P P E K , ² H E B C 1L P V O R F A Am H T . T S ² R . U 3 1 S I N T E 4 S , W 0 3 E A E 6 L 0 R C 6 S D B L m F , P U 3 ² E R 1 F / L 6 P F Ö D m P A P Ö 6 ² R . Å T R 7 O , A R S 6 W , L S5 R R E E Ä m K C T R R N m K ² R H ² . I T N I R C V A G U A R A N M H E R D N C E EF1 L 9R- ,5 R 8 D , U 4mM M ²m E ² DIA A22 KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L R 4 E L ² W , R 8 U C m M / ² DPA 5 F S ,4 R S / E D A m 6L, G ² 3 K R E A Um 1 1 N , , W W ² 8 8 M S C C m m L ² ² I HISS ENTR 3 É 1, 1 P T m E R ² 2 N A 3 P T ,1 R P m Y H ² US KOM 9 M 7, E 9 R m S ² IELL A K
+E ?
+S ??
+?
+em K rén U & N M G ån S ss B on A / C Hil K le A Me lby A e R
+T
+T T E
+E
+E E
+L
+L L N
+\:
+\: :
+0
+0 0 A 3
+3
+3 1
+1
+1 -
+\-
+\- 7
+0
+0 4
+0
+0
+0
+0 3
+0
+0 0
+0
+0 2
+0
+0 0
+0
+0 0          A K
+E
+S ?
+?
+?
+?
+em K rén U & N M G ån S ss B on A / C Hil K le A Me lby A e R T T
+T
+E E E
+E
+L L
+L
+N : :
+\:
+0 0
+0
+A 3 3
+3
+1 1
 1
 \-
 \-
+\- 0
+0
+74 0
 0
 0
 0
+3 0
+0
+0 0
+0
+2 0
+0
+0 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0 k s B2 A18 A19 A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00 o t u L ?? TEL: 031-000 00 00
-A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
-9 4                                                                                                                                    DATUM A L N Z SV / A M RIG L
-:3 5                                                                                                                                   NYBYGGNAD AV ARENABYGGNAD :5 1 PLAN 12 -VÅNING 3
+tu
+A
+k s e d o                       k s e d o t
+A
+u           B2     A18    A19    A20    A21    B10    B11    B12    B13    B14    B15    B16    A22
+U 0 P 0 PD
+V W L
+0 RA 0 G -
+? ? ?
+N
+? ? ?
+0 R 0 R D IT M AD / A H V C/RR/FT
+T T T
+H D A
+E E E
+M N
+L L L
+D
+\: : :
+L / Ä
+0 0 0
+H G
+3 3 3
+G C
+1 1 1
+A
+\- - -
+R /
+0 0 0
+E
+0 0 0
+R
+0 0 0
+R
+0 0 0
+/
+0 0 0
+F
+0 0 0
+T
+0 0 0
+U 0 P 0 PD
+V W L
+0 RA 0 G -
+? ? ?
+N
+? ? ?
+0 R 0 R D IT M AD / A H V C/RR/FT D H
+T T T
+A
+E E E
+M N
+L L L
+D
+\: : :
+/ L Ä
+0 0 0
+H G
+3 3 3
+G C
+1 1 1
+A
+\- - -
+R /
+0 0 0
+E R
+0 0 0 0 0 0
+R
+0 0 0
+/
+0 0 0
+F
+0 0 0
+T
+0 0 0
+9 4                                                                                                    DATUM A L N Z SV / A M RIG L    DATUM A L N Z SV / A M RIG L
+:2 0
+1 4
+1 :1 1
 7 0 -
-6
-0 - 4 2 PLAN 3                                                                                                                         S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET 0 2 0 5 10 15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3) A3 1:500
-SKALA 1:250 I A1 (1:500 I A3-FORMAT)
+: : 3 5 5 1                              S
+är
+k
+m
+ra
+e
+ff
+d
+e r
+i
+a
+f
+d
+ö
+e
+rs
+d
+tu
+e
+d
+la
+ie
+r
+k
+a
+a
+v
+l k
+fo
+y
+t
+l.
+b
+K
+o
+a
+lls
+n
+l ä
+p
+k
+lo
+ta
+ck
+re
+a s
+N P Y LA B N Y G 1 G 1 N - AD V Å A N V IN G A R 2 ENABYGGNAD N P Y LA B N Y G 1 G 2 N - AD V Å A N V IN A G R 3 ENABYGGNAD
+2                               6
+.2 0 1 . 0 6 2 PLAN 2 A         0 - 4 2 0 2 B PLAN 3              0 C 5  b 10 ort och 15 utföra 2 s 0 i sen 2 a 5 r m e skede 0 5 10 15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3) S A A KA 1 3 LA 1 1 : : 2 5 5 0 0 0 A NUM - MER 40-1-200 BET S A A KA 1 3 LA 1 1 : : 2 5 5 0 0 0 A NUM - MER 40-1-300 BET
+SKALA 1:250 I A1 (1:500 I A3-FORMAT) SKALA 1:250 I A1 (1:500 I A3-FORMAT) N
 0      10      20 m   10/20
 Plan 2 (Arenaplan)
-LESGNÄTS
-LEBIXELF
-YTSAMMANSTÄLLNING BTA
-50/50
-Kommersiell
-Kommunal
-HISS TR 2 A 3 P ,1 P m H ² US 21 W ,0 C m² SE 6 R 3 V ,5 E R m I ² NG WC 24,8 m²
-FRD SP 14 O ,6 R T m H ² ALLEN                            SER 90 V ,1 E R m² ING
-PUBLIKYTA 307,4 m²
-SON
-FÖR POP-UP
-EVENTS
-SON
-FÖR POP-UP
-EVENTS
-GREENROOM/ SERVERING / ARRANG9E0,M1 AmN²GSRUM
-ARENA PLAN 2 953,1 m² PENTRY MESSOR O.L. 20,0 m² FRD HANDBOLL A1/6 39,9 m² VINDFÅN 2 G 9, 9 / T m I ² CKETRIP SEMINARIER 6 U 7 M ,0 /F m O ² TBOLLS-VIP BØ M T I6N R T ,2 E I W S K mT C O ²Ä T D T / 23 W ,2 C m² 25 W ,9 C m² SJUKV 12 Å ,6 R D m² SRUM 2 K 1 I , O 4 S m K ² SE 7 R 0 V ,6 E R m I ² NG 1 K 8 I , O 9 S m K ² /A P R R B E E S T S 4S K 4R, O 9U N mM F ² . M R E U D M IA PASSAGE WC 5,5 m² 11,6 m² 3,3 m²
-KOMMENSETKRETARIASTPEAKER KAMERA KONTROLLRUM / MÖTE Möjligt att bygga fotbollsläktaren i flera etapper, och denna del slutligen. 1 000 platser när färdig.
-008 9        055
-1000 3 000
-4
-058
-31
-Ca. 2.000 sittplatser (+500 på tillfälliga läktare på fast scen)
-).lP
-56 .ac( ERATKÄL
-EL-RUM 19,5 m²
-PIR
-TEKCIT
-PIR TEKCIT
-PIR TEKCIT
-2 TLA
-2 TLA
-2 TLA
-HISS    FRD 9,3 m²
-HC
-FÖRSTUDIE 2.0 -WORK IN PROGRESS
-HC
-HF HF FRD. ARR. RUM HISS 7,5 m² HF HF HF 4 R ,3 W m C ² K 7, I 2 O S m K ² TICKET RIP ALT 2
-TV-STUDIO     KOMMENT
-3x FH 3x FH 2x FH 2x FH
-PLAN 2
-950 m2
-365 m2
-3.400 m2
-HF HF Möjligt att bygga fotbollsläktaren i flera etapper, och mediadel slutligen.
-HC
-Ca. 1.000 sittplatser på hela fotbollsläktaren
-PIR TEKCIT 2 TLA
-Arean i varje rum på planritningarna avser rumsytan BTA ca 950 m2
-A                 B                               C     innanför omslutande väggar och ger en annan
-BTA ca 365 m2
-totalsumma än räknemetoden för BTA som anges
-BTA-sammanställningen intill.                BTA ca 3400 m2
-E                                                                                                                              E
-D                                                                                                                              D
-FHK 2023-12-XX
-BET  ÄNDRINGEN AVSER SIGN DATUM
-N
-tv 0.r
-.2
-e di u ts
-rö                                                                                                                                           FÖRSTUDIE
-F
-\- a                                                                                                                                       KUNGSBACKA ARENA n e rA a k ca b s g n u K / a n e Ar
-a k ac
-b s g n u K /                                                                                                                           A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 / s: K ?? TEL: 031-000 00 00 co
-D                                                                                                                                       E ??        TEL: 031-000 00 00 k s V ?? TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00 o tu L ?? TEL: 031-000 00 00
-A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
-DATUM ANSVARIG LZ/ML
-:2 0 1 :1 1                                                              Skrafferade delar av fotbollsläktare                          N P Y LA B N Y G 1 G 1 N - AD V Å A N V IN G A R 2 ENABYGGNAD
-1 4                                                                      är med i förstudiekalkyl. Kan plockas
-2
-0 . 0 6 2 PLAN 2 A                 B                               C     bort och utföras i senare skede                               S A KA 1 LA 1:250 A NUM - MER 40-1-200 BET .2 0 5 10 15 20 25m A3 1:500 1
-N SKALA 1:250 I A1 (1:500 I A3-FORMAT)
+10 / 20
+
+© Semrén & Månsson 2023
+
+LÄKTARE (ca. 65 Pl.)
+
+TICKET RIP
+
+TICKET RIP TICKET RIP
+
+TICKET RIP
+
+ALT 2
+
+ALT 2
+
+ALT 2
+
+ALT 2
+
+HF x3
+
+HF x3
+
+HF x2
+
+HF x2
+
+9 800
+
+FLEXIBEL STÄNGSEL
+
+4 000 3 000 1 550
+
+13 850
 
 <!-- sida 317 -->
 
-11 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 YTSAMMANSTÄLLNING BTA
 50/50
 YTSAMMANSTÄLLNING
@@ -15290,15 +16652,12 @@ A              0 - 4 2 B PLAN 3                  SKCALA 1:250 I A1 (1:500 I A3-F
 SKALA 1:250 I A1 (1:500 I A3-FORMAT) N
 0      10      20 m   11/20
 Plan 3 (Kommersiellt plan)
+11 / 20
+
+© Semrén & Månsson 2023
 
 <!-- sida 318 -->
 
-12 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 YTSAMMANSTÄLLNING BTA
 50/50
 YTSAMMANSTÄLLNING
@@ -15307,174 +16666,432 @@ Kungsbacka Arena - Förstudie 2.0 - 24-06-19            Kommersiell
 Kommunal
 OBS!                             Förklaring
 YTSAMMANSTÄLLNING
-50/5500/50
+Arean i varje rum på planritningarna avser rumsytan 50/5500/50 BTA ca 590 m2
+A                 B                               C     innanför omslutande väggar och ger en annan
 KoKmmoemrsiemll ersiellt
-KoKmmoumnalmunal
+totalsumma än räkYnTSeAmMMeANtSoTdÄLeLNnIN fGö BrT ABTPALA Ns 4o /m TAK anges
+BTA-sammanställningen intill.      KoKmmoumnalmunal
+50/50   589 m2
+
 A8
 A7/8
-A8
+E                                   A8                                                                                         E
 A7/8
 A7                                       M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US
+
 A7
 TEKNIK
 110,3 m²
 A6
+FHK 2023-12-XX
 A6
-A5                                                              KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR
+A5                                                              KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR                          BET  ÄNDRINGEN AVSER SIGN DATUM
+D                                                                                                                              D                        N
 FHK 2023-12-XX
+
+.2 0
+tv .r
 A4
-A5                         ÖPPET NED J ÖPPETNED UMBOTRON    ÖPPETNED
-SCEN                                           BET  ÄNDRINGEN AVSER SIGN DATUM FÖRSTUDIE 2.0 -WORK IN PROGRESS
-N
-A4
-t A3 v .0 r .2
-e
-id
-u ts A3
-rö F UNDE 5 R 1, C 7 E m N ² TRAL                                                              PA 68 S , S 5 A m G ² E                       FÖRSTUDIE
-\- A2 a n e                                                                               KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA
-Ar                                     WC 15,0 m²
-a
-A1/6                       k ca b s g n KAYL2MEDELSKYLARE 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E S 10 S P E L V A T T . S N E E R D E F Ö P R Å L S Ä K K R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US
-A1 a
-k ca
-b s g n
-u B2 A18 A19 K /A20 A21 B10 B11 B12 B13    B14    B15     B16   A22                                                                    A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
-/
-D
-:s co                                                                                                                                  K
-E
-?
-?
-?
-?
-T
-T
-E
-E
-L
-L
-\:
-\:
-0
-0
-3
-3
-1
-1
-\-
-\-
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0 k s B2 A18 A19 A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00
-o t u                                                                                                                                  L ??         TEL: 031-000 00 00 A UPPDRAG NR RITAD AV HANDLÄGGARE
-0000-00 DM/HC/RR/FT DM/HC/RR/FT
-9 4                                                                                                                                    DATUM A L N Z SV / A M RIG L
-:3
-5                                                                                                                                      NYBYGGNAD AV ARENABYGGNAD :5
-1                                                                                                                                      PLAN 12 -VÅNING 3
-7
-0
-\-
-6
-0 - 4 2 PLAN 3                                                                                                                         S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
-0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
-SKALA 1:250 I A1 (1:500 I A3-FORMAT)
-0      10      20 m   12/20
-Plan 4 (Teknikplan)
-GNINSÖL
-HCO ROGGYRBGNÅG
-NECS TSAF
-HCO MURLLAH
-REVÖ
-SAF ETSEN
-I TSADERTU
-ETSÅM
-Arean i varje rum på planritningarna avser rumsytan BTA ca 590 m2
-A                 B                               C     innanför omslutande väggar och ger en annan
-totalsumma än räkYnTSeAmMMeANtSoTdÄLeLNnIN fGö BrT ABTPALA Ns 4o /m TAK anges
-BTA-sammanställningen intill.
-50/50   589 m2
-E                                                                                                                              E
-FHK 2023-12-XX
-BET  ÄNDRINGEN AVSER SIGN DATUM D D N
-0
-tv
-.r
-TEKNIK-AR
-4
-E
-46
-N
-,
+TEKNIK
 A
-8
-/S
-m²
-PORTHALL
-.2
-e di
-u ts
+-A
+5
+R 4 E 46 N , A 8 /S m² PORTHALL ÖPPET
+NED J
+ÖPPETNED
+UMBOTRON
+FÖR
+Ö
+S
+P
+T
+P
+U
+E
+D
+T
+I
+N
+E
+E
+2
+D
+.0 -WORK IN PROGRESS  SCEN                                           BET  ÄNDRINGEN AVSER SIGN DATUM
+e                                                                                                                                                                                       N
+di
+u
+ts
+A4
 rö                                                                                                                                           FÖRSTUDIE
 F
-\- a                                                                                                                                       KUNGSBACKA ARENA n e rA
+n e rA - a A3                   t . v . 2 0 r                                                                                             KUNGSBACKA ARENA
+s g n
 a
 k ca
-b s g n
-u K / a n
-e Ar
-a                                                                                   Alternativ placering på k trappa/tillgång till tak ac b s g n u K / A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 / s: K ?? TEL: 031-000 00 00 co
-D                                                                                                                                       E ??        TEL: 031-000 00 00
-k s                                                                                                                                     V ??        TEL: 031-000 00 00
-e d                                                     SKÄRMTAK FOTBOLLSLÄKTARE                                                        W ??        TEL: 031-000 00 00 o tu L ?? TEL: 031-000 00 00
-A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
-DATUM ANSVARIG LZ/ML
-9 :2 0 : 2 1                                                                                                                           N P Y LA B N Y G 1 G 3 N - AD V Å A N V IN A G R 4 ENABYGGNAD 1
-4 2 0 2
-0
-.6  PLAN 4                                                                                                                             S
+b
+id
+e
+u ts
+rö F U
 A
-KA
+N
+3
+DE 5 R 1, C 7 E m N ² TRAL                                                                PA 68 S , S 5 A m G ² E                       FÖRSTUDIE
+/ a n u K A2                    a n e -                                                                                  KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA
+A e r                           Ar                                     15 W ,0 C m²
+tu
+A
+k s
+e d o
+s co
+D
+u K : / / a b s g n a k c A A 1/ 1 6
+B2     A18    A19
+a
+e
+k
+Ar
+ca
+b s g n
+u K /
+a
+k ca b s g n u K / a n
+A20
+K A AY
+A
+1 L / 2
 1
+M 6 EDELSKYLARE
+A21    B10
+1 T 7 E 9 K ,7 N m IK ²
+B11
+SKÄRMTA
+1 S 4 T ,
+K
+0 Ä D m T
+F
+² R 2
+O
+A 3 P ,1
+T
+P
+B
+m H
+B
+1
+² U
+2
+O
+S
+LLS
+R H 7 P W ,
+L
+A I 2 S S C
+Ä
+S m S / ² D
+K
+AG 1
+T
+9 E 2
+A
+, / 6 M
+R
+m E ²
+E
+ZZ AN L I O N U 50 N
+B
+,8 G
+1
+E
+3
+m ² YTA
+B14    B15
+A tra lte p r p n a a /t t i i l v lg p å l n a M P g c R I K e Nt E O i r l i l S 1 n M t0 g S a M k p P E E å L V R A T T S . S I N E 4 E E 6 L R 6 D
+B
+L , 3 E
+1
+F /
+6
+F Ö m P Ö ² R Å R L S E Ä K N K R I T N IV A G A R A N E R D N E FR 8 D , 4 M m E ² DIA
+A22
+KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L R 4 E L ² W , R 8 U C m M / ² DPA 5 F S ,4 R S / E D A m 6L, G ² 3 K R E A Um 1 1 N , , W W ² 8 8 M S C C m m L ² ² I HISS ENTR 3 É 1, 1 P T m E R ² 2 N A 3 P T ,1 R P m Y H ² US
+U 0 P 0 PD
+A K
+E
+V
+W L
+0 RA 0 G -
+?
+?
+? ?
+S ?
+N
+?
+?
+?
+? ?
+0
+e
+R
+m
+0
+rén & Måns
+R D I
+s
+T M
+o
+AD
+n
+/ A
+/
+H V C
+Hi
+/
+ll
+R
+e
+R
+M
+/
+el
+F
+by
+T
+e
+T
+T
+T T
+H
+T T
+D A
+E
+E
+E E
+E E
+M N
+L
+L
+L L
+L L
+D
+\:
+\:
+\: :
+\: :
+L / Ä
+0
+0
+0 0
+0 0
+H G
+3
+3
+3
+3 3
+3
+G C
+1
+1
+1
+1 1
+1
+A
+\-
+\-
+\-
+\- -
+\-
+R /
+7
+0
+0
+0 0
+0
+E
+4
+0
+0
+0 0
+0
+R
+0
+0
+0 0
+0 3
+R
+0
+0
+0 0
+0 0
+/
+0
+0
+0 0
+0 2
+F
+0
+0
+0 0
+0 0
+T
+0
+0
+0 0
+0 0
+A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
+/
+2 0 2
+:2 0 1
+4
+: 9 2 1                         k s e D d
+o t A u
+:s co
+B2     A18    A19    A20    A21    B10    B11    B12    B13    B14    B15    B16    A22    N
+D
+P
+A
+Y L
+TU
+A B
+M
+N Y G 1 G 3 N - AD V Å A N V
+A L
+I
+N
+N
+Z S
+A
+V
+G
+/ A
+R
+M RI
+4
+G
+E
+L
+NABYGGNAD
+UPPD
+K
+E V W
+L RAG
+?
+? ? ?
+? N
+?
+? ? ?
+? R RITAD AV H
+T
+T T T
+T A
+E
+E E E
+E N
+L
+L L L
+L D
+\:
+\: : :
+: L Ä
+0
+0 0 0
+0 G
+3
+3 3 3
+3 G
+1
+1 1 1
+1 A
+\-
+\- - -
+\- R
+0
+0 0 0
+0 E
+0
+0 0 0
+0
+0
+0 0 0
+0
+0
+0 0 0
+0
+0
+0 0 0
+0
+0
+0 0 0
+0
+0
+0 0 0
+0
+.2 0 1
+.6  PLAN 4
+9 4                               0   5   10 15  20  25m
+S
+A A
+KA
+1 3
 LA
-1:250 A
+1 1 : : 2 5 5 0 0 0 A
 NUM
 \-
 MER
 40-1-400
 BET
-.2                                                                0   5   10 15  20  25m                                               A3 1:500 1
-SKALA 1:250 I A1 (1:500 I A3-FORMAT)
-A                 B                               C
-N
+D
+0
+A
+0
+TU
+0
+M
+0-00
+A
+D
+L N Z
+M
+SV /
+/
+A M R
+H
+IG L
+C/RR/FT DM/HC/RR/FT
+: : 3 5 5 1                       SKALA 1:250 I A1 (1:500 I A3-FORMAT)                                                                 N P Y LA B N Y G 1 G 2 N - AD V Å A N V IN A G R 3 ENABYGGNAD
+7
+0
+\-
+6
+A              0 - 4 2 B PLAN 3                   C                                                                                                   S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
+0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
+SKALA 1:250 I A1 (1:500 I A3-FORMAT) N
+0      10      20 m   12/20
+Plan 4 (Teknikplan)
+12 / 20
+
+© Semrén & Månsson 2023
+
+GÅNGBRYGGOR OCH LÖSNING
+
+ÖVER HALLRUM OCH FAST SCEN
+
+MÅSTE UTREDAST I NESTE FAS
 
 <!-- sida 319 -->
 
-13 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 A                 B                               C
+
 E                                                                                                                              E
 TAK
 MILJÖRUM
+
 FHK 2023-12-XX
 ARENATAK
 BET  ÄNDRINGEN AVSER SIGN DATUM
+
 0
 tv
 .r
@@ -15492,8 +17109,10 @@ INOM
 STRECKAT
 D                        N
 .2
-e di
-u ts
+e
+di
+u
+ts
 rö                                                                                                                                           FÖRSTUDIE
 F
 \-
@@ -15565,19 +17184,20 @@ SKALA 1:500 (för A3)
 N
 0      10      20 m   13/20
 Takplan
+13 / 20
+
+© Semrén & Månsson 2023
 
 <!-- sida 320 -->
 
-14 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 A8 A7/8 A7    A6     A5     A4     A3     A2   A1/6 A1
+
 SeSkEKtiToIOnN A D--AD
+
 FHK 2023-12-XX
+
 BET  ÄNDRINGEN AVSER SIGN DATUM
 A8 A7/8 A7    A6     A5     A4     A3     A2   A1/6 A1
 N
@@ -15671,24 +17291,24 @@ F
 2
 0
 2
-0 .6                                                                                                                                   S A KA 1 LA 1:250 A NUM - MER 40-2-102 BET
+0 .6                                                                                                                                   S A KA 1 LA 1:250 1 A NU4M - ME R 4 / 0 2 - 0 2-102 BET
 .2                                                                                                                                     A3 1:500
 1
 
+© Semrén & Månsson 2023
+
 <!-- sida 321 -->
 
-15 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 A22    B16    B15    B14    B13    B12    B11    B10    A21    A20    A19    A18    B2
 SekStiEoKnT IDON- DA-A
+
 FHK 2023-12-XX
+
 BET  ÄNDRINGEN AVSER SIGN DATUM
 N
+
 tv
 0.r
 .2
@@ -15765,7 +17385,7 @@ Längdsektioner                                                                 
 DATUM ANSVARIG
 7                                                                                                                                            LZ/ML
 :3 0                                                                                                                                   NYBYGGNAD AV ARENABYGGNAD
-:2 0                                                                                                                                   SEKTION A-A, B-B, C-C
+:2 0                                                                                                                                   SEKTION A-A, 1B5-B ,/ C -2C0
 1
 4
 2
@@ -15786,19 +17406,18 @@ BET
 .2                                                                                                                                     A3 1:500
 1
 
+© Semrén & Månsson 2023
+
 <!-- sida 322 -->
 
-16 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 FaFAsSaAdD m MoOTt nNoOrRrR
 FASAD MOT NORR
+
 FHK 2023-12-XX
 FHK 2023-12-XX
+
 BET  ÄNDRINGEN AVSER SIGN DATUM
 BET  ÄNDRINGEN AVSER SIGN DATUM
 N
@@ -15958,25 +17577,25 @@ L
 0
 e d o t A u k s e d o t A u                                                                                             SKALA 1:500 (för A3) U U 0 P P 0 P P D D W L V W L 0 R R A A 0 G G - ? ? ? ? ?N N ? ? ? ? ? 0 R R 0 R D R I I T T M A A D D / A A H V V C/RR/FT D H T T H T T TA A E E E E E M N N L L L L LD D : : : : : / L L Ä Ä 0 0 0 0 0 H G G 3 3 3 3 3G G C 1 1 1 1 1A A - - - - -R R / 0 0 0 0 0E E R 0 0 0 0 0 0 0 0 0 0 R 0 0 0 0 0 / 0 0 0 0 0 F 0 0 0 0 0 T 0 0 0 0 0
 Fasad 7 0 : : 7 8 5 0 5 1 : : 7 8 5 0 5 1 er                                                                                0      10      2 N N D F D F 0A A0 A 0 A Y Y T T U U 0 S S B B M Mm 0 A A Y Y - D D G G 0 0 G GM M N NO O A AT T D D N N A AO O V V A LA D L R R N N Z Z MS S R 1 R A A V V/ / /A A , , 6 R R M M R R HI I S S G G E E L L C / Ö Ö N N / 2 D D A A R E E B B R 0 R R Y Y /F G G T G G N N A A DM D D /HC/RR/FT
-\- 6 0 7 0 -
+\- 6 0 7 0 -                                                                                                                                  16 / 20
 \- 4 2 0 2 6 0 - 4 2                                               0   5  10  15  20  25m                                               S A AS A K K A A 1 31 L L A A 1 11 : :: 2 52 5 05 0 00 A A N N U U M M- - M M E E R R4 4 0 0 - - 3 3 - - 1 1 0 0 1 1 B B E E T T
 0 2                                                               0   5  10  15  20  25m                                               A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 
+© Semrén & Månsson 2023
+
 <!-- sida 323 -->
 
-17 / 20
-3202
-nossnåM
-&
-nérmeS
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+
 FFaAsSaAdD mMOoTt vVäÄsStTeErR
+
 FHK 2023-12-XX
+
 BET  ÄNDRINGEN AVSER SIGN DATUM
 N
+
 t
 v
 .0 r
@@ -16083,49 +17702,36 @@ NABYGGNAD
 7
 0
 \-
-6 0
+6 0                                                                                                                                       17 / 20
 \- 4 2                                                                                                                                  S A KA 1 LA 1:250 A NUM - MER 40-3-102 BET
 0 2                                                               0   5  10  15  20  25m                                               A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 
+© Semrén & Månsson 2023
+
 <!-- sida 324 -->
 
-4202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
 
 Illustration Vy mot söder1                                                                                                                        18/20
 
+© Semrén & Månsson 2024
+
 <!-- sida 325 -->
 
-4202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
 
 Illustration - Vy från torget1                                                                                                                    19/20
 
+© Semrén & Månsson 2024
+
 <!-- sida 326 -->
 
-4202
-nossnåM
-
-&
-nérmeS
-
-©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
 
 Illustration - Fotbollsläktare och läktartak1                                                                                                     20/20
+
+© Semrén & Månsson 2024
 
 <!-- sida 327 -->
 
@@ -16221,41 +17827,71 @@ Illustrationsplan
 
 <!-- sida 333 -->
 
-PÅVERKAN FÄRDIG GOLVNIVÅ                       MATERIAL OCH UTRUSTNING:                      FORTSATT ARBETE:
+PÅVERKAN FÄRDIG GOLVNIVÅ
 
-Ett generellt krav på all nybyggnation inom Kungsbacka Back of Houseområdet och anslutande in- och utfart: • Höjdsättning
+Ett generellt krav på all nybyggnation inom Kungsbacka
+kommun är att färdig golvnivå läggs på +2,50 vilket är ca
+0,5m högre än nuvarande marknivåer. Detta medför att
 
-kommun är att färdig golvnivå läggs på +2,50 vilket är ca • Asfalt som markmaterial samt linjemålade
-• Dagvattenhantering - lösning har ej studerats i
-0,5m högre än nuvarande marknivåer. Detta medför att aktivitetsytor och markerade parkeringsplatser.
-nuläget
 anpassning av marknivåer i form av lutningar/ramper/
-•  En permanent inhägnad kring hela ytan krävs. Höjd
-• Skyfallshantering
 trappor kommer behöva utredas i kommande skede. All
-ca 2 m, ej klättringsbart.
-markuppfyllnad kräver geotekniska försärkningsåtgärder                                       • Utredning ledningspåverkan
-•  Större portar/grindar krävs vid in- och utfart samt
+markuppfyllnad kräver geotekniska försärkningsåtgärder
 alternativt avlastningsåtgärder i form av lättfyllnad.
-• Samt övrigt normalt förekommande utredningar i
-mindre portar vid inkörning för driftsfordon.
+
 Höjdsättning behöver studeras vidare i nästa skede.
-system- och bygghandlingsskede.
-•  Ca 4 st belysningsarmaturer/master kring området
-DAGVATTENHANTERING                                samt belysningsarmaturer på fasad. 4 st högre
-master belyser fotbollsplanen.
+
+DAGVATTENHANTERING
 Det finns inget krav på fördröjning av dagvatten
-inom kvartersmark. Både takvatten och ytvatten från • Lastkaj med lyftbord.
+
+inom kvartersmark. Både takvatten och ytvatten från
 fastigheten bedöms kunna ledas till befintligt svackdike
-öster om fastigheten. Vattnet får ledas dit via brunnar och Markytan vid huvudentrén:
-ledningar.                                     •  Naturstenshällar som markmaterial kompletterat
-med smågatsten som markering av RHP-platser.
+öster om fastigheten. Vattnet får ledas dit via brunnar och
+
+ledningar.
+
 ÅTKOMST BRANDBILAR
-•  Terrorskydd i form av förstärkta pollare.
+
 Avstämning med brandkonsult kring aktuell utformning
 är gjord och bedömningen är att utifrån redovisade
+
 scenarier så bör det inte vara något problem vid något av
 tillfällena.
+
+MATERIAL OCH UTRUSTNING:                     FORTSATT ARBETE:
+
+Back of Houseområdet och anslutande in- och utfart:
+• Asfalt som markmaterial samt linjemålade
+
+aktivitetsytor och markerade parkeringsplatser.
+• En permanent inhägnad kring hela ytan krävs. Höjd
+
+ca 2 m, ej klättringsbart.
+• Större portar/grindar krävs vid in- och utfart samt
+
+mindre portar vid inkörning för driftsfordon.
+• Ca 4 st belysningsarmaturer/master kring området
+
+samt belysningsarmaturer på fasad. 4 st högre
+master belyser fotbollsplanen.
+
+• Höjdsättning
+
+• Dagvattenhantering - lösning har ej studerats i
+nuläget
+
+• Skyfallshantering
+• Utredning ledningspåverkan
+
+• Samt övrigt normalt förekommande utredningar i
+system- och bygghandlingsskede.
+
+• Lastkaj med lyftbord.
+
+Markytan vid huvudentrén:
+• Naturstenshällar som markmaterial kompletterat
+
+med smågatsten som markering av RHP-platser.
+• Terrorskydd i form av förstärkta pollare.
 
 Linjemålad asfaltstyta
 
@@ -16272,10 +17908,11 @@ TRAFIK:
 1 st driftfordon på väg in för att drifta fotbollsplan
 
 2 st sopbilar på plats för att hämta avfall
+INFART
 Möjlig angöring för brand - ej angiven plats, stora ytor finns.
-
+INHÄGNAD
+MILJÖRUM
 Av alla uppställningsplatser är det endast 2 st RHP-
-
 platser och 2 st parkeringsplatser för driftsfordon som är                            SOPBIL
 markerade/målade på mark.
 
@@ -16288,18 +17925,15 @@ SOPBIL
 
 RHP    RHP
 
-P-DRIFT P-DRIFT
+P-DRIFT P-DRIFT MÖJLIG BRANDUPPSTÄLLNING
 
+UTFART
 DRIFTSFORDON
 
 PLAN SKALA 1:400(A3)
 4
-JAKTSAL
-INFART
-INHÄGNAD
-MILJÖRUM
-MÖJLIG BRANDUPPSTÄLLNING
-UTFART
+
+LASTKAJ
 
 <!-- sida 335 -->
 
@@ -16309,11 +17943,11 @@ TRAFIK:
 
 2 st turnébussar - 14 m (uppställningsyta)
 
-1 st TV-buss - 14 m (på väg in vid infart)
+1 st TV-buss - 14 m (på väg in vid infart)                                                            INFART
 1 st trailer A - 25 m (pågående avlastning vid lastkaj)
-1 st trailer B - 17 m (pågående avlastning vid lastkaj)
+1 st trailer B - 17 m (pågående avlastning vid lastkaj)                                                     INHÄGNAD
 1 st trailer B - 17 m (uppställningsyta för bortkoppling av släp)
-
+YTA FÖR CONTAINERS MILJÖRUM
 1 st trailer B- 17 m (trailer på väg till ytterligare avlastning. Släp
 på uppställningsyta för släp)
 2 st ambulanser/polisbilar i beredskap på uppställningsyta
@@ -16326,53 +17960,50 @@ Möjlig angöring för brand - ej angiven plats
 ÖVRIGT:
 
 Krav på källsortering och utsortering av matavfall gäller även
-vid event så yta för containers för detta behöver finnas.
-
-FÖRUSÄTTNINGAR:
-
+T
+vid event så yta för containers för detta behöver finnas.                             R A
+IL
+E
+T    R
+R A A
+IL
+E
+R
+FÖRUSÄTTNINGAR:                                                                         B
 Vi förutsätter att vid en större konsert kommer lastbilar lasta
 av och ställa av släpet innan turnébussar och TV-bussar/OB-
 bussar kommer.
 
-5
-RÄDDNINGSTJÄNST
-INHÄGNAD
-T
-R A
-IL
-E
-T    R
-R A A IL
-E
-R
-B
+2ST TURNÉBUSSAR
+
 TAXI DROP OFF
-T
+
+RHP    RHP            T
 UR
 TA
 A
 N
 IL
-E SR
+E
+SR
 L Ä B
 P
-TÖMT
-SLÄP
-TRAILER
-B
-TRAILER
-B
-2ST TURNÉBUSSAR
-TV-BUSS/OB
-BUSS
-INFART
-MILJÖRUM
-RHP    RHP
 P-DRIFT P-DRIFT
 UTFART
-JAKTSAL
-YTA FÖR CONTAINERS
 PLAN SKALA 1:400(A3)
+5
+
+LASTKAJ
+
+TRAILER B
+
+TRAILER B
+
+RÄDDNINGSTJÄNST
+
+TÖMT SLÄP
+
+TV-BUSS/OB BUSS
 
 <!-- sida 336 -->
 
@@ -16384,18 +18015,18 @@ TRAFIK:
 
 2 st spelarbussar - 14 m (uppställningsyta)
 
-1 st TV-buss - 14 m
+1 st TV-buss - 14 m                                                                                   INFART
 1 st trailer B - 17 m
-2 st ambulanser/polisbilar i beredskap i anslutning till arenan.
+2 st ambulanser/polisbilar i beredskap i anslutning till arenan.                                            INHÄGNAD
 1 st parkerad bil på RHP-plats
-
+MILJÖRUM
 1 st bortasupportbuss - 14 m på drop off-zon
 2 st parkerade bortasupportbussar - 14 m på uppställningsyta
 1 st taxi drop off
 
-Möjlig angöring för brand - ej angiven plats
+Möjlig angöring för brand - ej angiven plats                                   RÄDDNINGSTJÄNST
 Polis och ambulans ska kunna använda driftentrén för att vid
-behov komma in på utomhusplanen.
+behov komma in på utomhusplanen.                                              MÖJLIG BRANDUPPSTÄLLNING
 Möjlig uppställning för 10 st parkerade bilar.
 
 FÖRUTSÄTTNINGAR:
@@ -16405,40 +18036,32 @@ bortasupporters släppas av vid bortasupporter entrén. Dessa
 bussar kan sedan parkeras längsmed östra långsidan av Back
 of Houseområdet.
 
-BORTASUPPORT DROP OFF
-6
-BORTASUPPORT
-UPPSTÄLLNING
-RÄDDNINGSTJÄNST
-MÖJLIG BRANDUPPSTÄLLNING
-TAXI DROP OFF
-2
-ST
-SPELARBUSSAR
-1
-ST
-TV-BUSS/OB
-BUSS
-INFART
-MILJÖRUM
 TRAILER B
+
+TAXI DROP OFF
+
 RHP    RHP
+
+MÖJLIG BRANDUPPSTÄLLNING
+
 P-DRIFT P-DRIFT
 UTFART
-JAKTSAL
-INHÄGNAD
-MÖJLIG BRANDUPPSTÄLLNING
+
+BORTASUPPORT DROP OFF
 PLAN SKALA 1:400(A3)
-FÖR
-LAG
-OCH
-FUNKTIONÄRER
-MÖJLIG
-UPPSTÄLLNING
-FÖR
-10
-ST
-BILAR
+6
+
+LASTKAJ
+
+BORTASUPPORT UPPSTÄLLNING
+
+MÖJLIG UPPSTÄLLNING FÖR 10 ST BILAR
+
+FÖR LAG OCH FUNKTIONÄRER
+
+1 ST TV-BUSS/OB BUSS
+
+2 ST SPELARBUSSAR
 
 <!-- sida 337 -->
 
@@ -16467,53 +18090,56 @@ TRAFIK:
 
 Redovisning av samtliga fordon som förutsätts komma till
 
-arenan (förutom brandbil) på samma plan.
+arenan (förutom brandbil) på samma plan.                                                              INFART
 
+INHÄGNAD
+
+MILJÖRUM
 SOPBIL
 
 RÄDDNINGSTJÄNST
 
 MÖJLIG BRANDUPPSTÄLLNING
 
+TRAILER B
+
+TRAILER B
+TRAILER B
+
+TRAILER A
+
 SOPBIL
+
+SPELARBUSS
 
 TAXI DROP OFF
 
 RHP   RHP
 
-P-DRIFT P-DRIFT
+P-DRIFT P-DRIFT MÖJLIG BRANDUPPSTÄLLNING
 
-PLAN SKALA 1:400(A3)
-8
-TRAILERS
-RÄDDNINGSTJÄNST
-BORTASUPPORTERS/
-UPPSTÄLLNING
-FÖR
-AVLASTADE
-TRAILER B
-TRAILER B
-TRAILER B
-TRAILER A
-TV-BUSS TURNÉBUSSAR/ SPELARBUSSAR/
-INFART
-MILJÖRUM
-SPELARBUSS
 UTFART
 ENTRÉ DRIFT/POLIS/AMBULANS
-JAKTSAL
-INHÄGNAD
-MÖJLIG BRANDUPPSTÄLLNING
-FÖR
-LAG
-OCH
-FUNKTIONÄRER
-MÖJLIG
-UPPSTÄLLNING
-FÖR
-10
-ST
-BILAR
+PLAN SKALA 1:400(A3)
+8
+
+LASTKAJ
+
+RÄDDNINGSTJÄNST
+
+BORTASUPPORTERS/ UPPSTÄLLNING FÖR AVLASTADE
+
+MÖJLIG UPPSTÄLLNING FÖR 10 ST BILAR
+
+TRAILERS
+
+FÖR LAG OCH FUNKTIONÄRER
+
+SPELARBUSSAR/
+
+TURNÉBUSSAR/
+
+TV-BUSS
 
 <!-- sida 339 -->
 
@@ -16639,12 +18265,13 @@ lokaler och under 2027 1 098 miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-252       469      1 098     772       525
+
+252       469      1 098      772       525
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029
-56       27        42        76        66
+56        27        42       76        66
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -16655,30 +18282,32 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 Lokaltyp och beskrivning       2025 2026 2027 2028 2029
 138 Frillesås ridhus                        x
 140 Iserås fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-144 Bibliotek i Anneberg/Norra kommundelen            x
 
-145 Enkel isyta för träning (ishall)             x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+144 Bibliotek i Anneberg/Norra kommundelen           x
+145 Enkel isyta för träning (ishall)            x
+147 Evakuering klubbstugor Inlag  x
 
 Noter
-144 Folk Bibliotek i Anneberg/Norra kommundelen
 138 Frillesås ridhus
-Placering av en ny biblioteksfunktion för allmänheten i Anneberg
 Behov av ytterligare ny anläggning i Frillesås.
-samverkanshus.
 140 Iserås fullmått idrottshall
-145 Enkel isyta för träning
 I samband med en ny skola planerar vi en ny fullmåttsidrottshall
-Träningsishall som är något mindre än publika arenor.
 som fyller både skolverksamhetens och föreningslivets behov.
 Samordning sker med projekt 335 Iserås skola. Pågående projekt.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
+
+144 Folk Bibliotek i Anneberg/Norra kommundelen
+Placering av en ny biblioteksfunktion för allmänheten i Anneberg
+samverkanshus.
+145 Enkel isyta för träning
+Träningsishall som är något mindre än publika arenor.
 147 Ersättning klubblokaler Inlag
 Ersättning av föreningslokaler som för närvarande är placerade
-143 Åsa fullmåttshall
 på Inlagsområdet. Vi behöver ersättningslokaler med anledning
-Vi planerar för en ny idrottshall i Åsa.
 av arenans byggnation.
+
 Kommunbudget 2025 och plan 2026–2027 47
 
 <!-- sida 343 -->
@@ -16727,57 +18356,46 @@ Foto: Emelie Asplund
 
 <!-- sida 344 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-339 Kvarteret Liljan idrottssal
-I samband med att kommunen planerar en ny skola planerar vi
-207 Äppelgårdens förskola         också en ny skolidrottssal som tillgodoser skolverksamhetens
-Området är föremål för exploatering av nya bostäder. Därför måste och föreningslivets behov. Samordning sker med behov 338 Kvar-
-vi bygga nya förskolelokaler      teret Liljan skola. Pågående projekt.
-226 Anneberg förskola (del av samverkanshus) 341 Fjordskolan paviljong avveckling och flytt
-Området är föremål för exploatering av nya bostäder. Därför måste I samband med att kommunen anpassar Iseråsskolan genom ny-
-vi bygga nya förskolelokaler. Samordning sker med projekt 807 och ombyggnad kommer dess upptagningsområde förändras så
-Anneberg vård- och omsorgsboende. att fler elever kommer att gå på Iseråsskolan. Därmed kommer
-Fjordskolan att avlastas och vi tar bort paviljongen.
+
+207 Äppelgårdens förskola
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler
+226 Anneberg förskola (del av samverkanshus)
+Området är föremål för exploatering av nya bostäder. Därför måste
+vi bygga nya förskolelokaler. Samordning sker med projekt 807
+Anneberg vård- och omsorgsboende.
 227 Gräskärr förskola
-Exploatering av bostäder i centrala Kungsbacka har gett ökade 345 Tingbergsskolan paviljong avveckling och flytt
-behov av förskola. Därför måste vi bygga nya förskolelokaler. I samband med att vi bygger Kvarteret Liljan skola kommer det
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
-227 a Gräskärrs förskola infrastruktur avveckla den befintliga inhyrda lokalen.
+Exploatering av bostäder i centrala Kungsbacka har gett ökade
+behov av förskola. Därför måste vi bygga nya förskolelokaler.
+227 a Gräskärrs förskola infrastruktur
 Infrastruktur i form av tillfartsväg, VA och fjärrvärme för etable-
-ring av Gräskärrs förskola.       346 Åsa förskola avveckling
-Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-231 Skårby förskola               av flytt till permanenta lokaler i närområdet.
+ring av Gräskärrs förskola.
+231 Skårby förskola
 Området är föremål för exploatering av nytt bostadsområde. Vi
-behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt 347 Åsa förskola avveckling
-anslutning till Skårbyskolan.     Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-av flytt till permanenta lokaler i närområdet.
+behöver bygga cirka 180 nya förskoleplatser. Lokalisering i direkt
+anslutning till Skårbyskolan.
 236 Åsa förskola
-Området är föremål för exploatering av nytt bostadsområde. Vi 348 Åsa förskola avveckling
-bygger nya utbildningsplatser genom att anpassa befintliga skol- Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa av flytt till permanenta lokaler i närområdet.
+Området är föremål för exploatering av nytt bostadsområde. Vi
+bygger nya utbildningsplatser genom att anpassa befintliga skol-
+lokaler till förskolelokaler. Detta samordnas med projekt 237 Åsa
 förskola avveckling.
-349 Åsa förskola avveckling
-237 Åsa förskola avveckling       Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
-Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i av flytt till permanenta lokaler i närområdet.
+237 Åsa förskola avveckling
+Kommunen avvecklar inhyrda lokaler när ny förskola projekt 236 i
 Åsa står färdig.
-350 Åsa Gårdsskolan avveckling lokal
-238 Villa Emilia förskola paviljong avveckling När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
-Avveckling av inhyrd lokal eftersom det inte finns något behov och delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal eftersom det inte finns något behov och
 hyresavtalet löper ut.
-351 Tingbergsskolan avveckling lokal
-335 Iseråsskolan                  Avveckling av Tingbergsskolans lokaler i samband med färdig-
-Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans ställande av ny skola i kvarteret Liljan.
+335 Iseråsskolan
+Vi måste avveckla delar av Iseråsskolan eftersom vissa av skolans
 byggnader har nått sin tekniska livslängd och behöver ersättas
-med nya lokaler. Samordning sker med och projekt 1502 Iseråssko- 355 Förskola Centrum Norr
-lan tillagningskök. Pågående projekt. Området är föremål för exploatering av nya bostadsområden.
-Samhällsservice planeras för genom nya utbildningsplatser i
-140 Iserås fullmått idrottshall   området. Behovet tillhör utblicksår 2030.
+med nya lokaler. Samordning sker med och projekt 1502 Iseråssko-
+lan tillagningskök. Pågående projekt.
+140 Iserås fullmått idrottshall
 I samband med en ny skola planerar vi för en ny idrottshall i
-fullmåttsformat som fyller skolverksamhetens och föreningslivets 359 Anpassad grundskola
-behov. Samordning sker med projekt 335 Iserås skola och behov Utbildningsplatser för anpassad grundskola utökas vid centrum-
-1502 Iseråsskolans tillagningskök. Pågående projekt. nära Kollaskolan.
+fullmåttsformat som fyller skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola och behov
+1502 Iseråsskolans tillagningskök. Pågående projekt.
 358 Iseråsskolan evakueringslokal
 Vi behöver tillfälliga lokaler under tiden som Iseråsskolan byggs
 om och byggs till.
@@ -16789,6 +18407,49 @@ Planerar för expansionsmöjlighet.
 Området är föremål för exploatering av nytt bostadsområde.
 Därför måste vi bygga nya utbildningsplatser. Samordning med
 behov 339 Liljans idrottssal.
+
+INVESTERING OCH EXPLOATERING
+
+339 Kvarteret Liljan idrottssal
+I samband med att kommunen planerar en ny skola planerar vi
+också en ny skolidrottssal som tillgodoser skolverksamhetens
+och föreningslivets behov. Samordning sker med behov 338 Kvar-
+teret Liljan skola. Pågående projekt.
+341 Fjordskolan paviljong avveckling och flytt
+I samband med att kommunen anpassar Iseråsskolan genom ny-
+och ombyggnad kommer dess upptagningsområde förändras så
+att fler elever kommer att gå på Iseråsskolan. Därmed kommer
+Fjordskolan att avlastas och vi tar bort paviljongen.
+345 Tingbergsskolan paviljong avveckling och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+346 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+347 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+348 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+349 Åsa förskola avveckling
+Avveckling av verksamhetslokalisering i inhyrd lokal till förmån
+av flytt till permanenta lokaler i närområdet.
+350 Åsa Gårdsskolan avveckling lokal
+När vi byggt färdigt Ölmevalla skola kommer vi kunna använda
+delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
+351 Tingbergsskolan avveckling lokal
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+355 Förskola Centrum Norr
+Området är föremål för exploatering av nya bostadsområden.
+Samhällsservice planeras för genom nya utbildningsplatser i
+området. Behovet tillhör utblicksår 2030.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2025 och plan 2026–2027 49
 
 <!-- sida 345 -->
@@ -16813,29 +18474,33 @@ Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
 514 Boende med särskild service            12
 515 Boende med särskild service (Åsaberg) 12
-516 Boende med särskild service                12
+516 Boende med särskild service                 12
 
 Noter
-513 Stödboende
+
 405 Vallda boende med särskild service
-Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 Boende om tolv platser för att verkställa biståndsbeslut.
-platser, för att verkställa biståndsbeslut.
 413 Boende med särskild service, barn
-514 Boende med särskild service
 Gruppbostad för barn med fyra platser för att verkställa
-Boende om tolv platser för att verkställa biståndsbeslut.
 biståndsbeslut.
-515 Boende med särskild service (Åsaberg)
 414 Anneberg boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende av om tolv platser, för att verkställa biståndsbeslut.
-516 Boende med särskild service
+
 504 Björkris boende med särskild service
-Boende om tolv platser för att verkställa biståndsbeslut.
 Boende om tio platser för att verkställa biståndsbeslut. Behovet
-.
 tillhör utblicksår 2030.
+
+513 Stödboende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
+platser, för att verkställa biståndsbeslut.
+514 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service (Åsaberg)
+Boende om tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende om tolv platser för att verkställa biståndsbeslut.
+.
 
 50 Kommunbudget 2025 och plan 2026–2027
 
@@ -16854,7 +18519,8 @@ omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutr
 vård- och omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-807 Anneberg vård- och omsorgsboende            80
+807 Anneberg vård- och omsorgsboende           80
+
 808 Bukärrsgården vård- och omsorgsboende x
 avveckling
 811 Vård- och omsorgsboenden, reservkraft x x x
@@ -16868,24 +18534,34 @@ ombyggnation
 818 Ersättning verksamhetslokal   x
 
 Noter
-807 Anneberg vård- och omsorgsboende 815 Hemtjänst Sjöallén avveckling
-Nytt vård- och omsorgsboende med 80 lägenheter i kommunen. På grund av planerad utveckling av kvarteret Ejdern samt myn-
-Samordnas med projekt 226, Anneberg förskola, samt med pro- dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
-jekt 144, Bibliotek i Anneberg/Norra kommundelen. 9F. Därför måste vi flytta befintlig verksamhet och lokalen på
-Sjöallén 9F kommer att rivas.
+
+807 Anneberg vård- och omsorgsboende
+Nytt vård- och omsorgsboende med 80 lägenheter i kommunen.
+Samordnas med projekt 226, Anneberg förskola, samt med pro-
+jekt 144, Bibliotek i Anneberg/Norra kommundelen.
 808 Bukärrsgården avveckling
-Kommunen avvecklar verksamheten när hyresavtalet löper ut. 816 Signeshus Vård och omsorgsboende, ombyggnation
-Ombyggnation med fokus på myndighetskrav och anvisningar.
+Kommunen avvecklar verksamheten när hyresavtalet löper ut.
 811 Reservkraft
-För att uppfylla lagkrav och patientsäkerhet måste flertalet 817 Ekhaga vård- och omsorgsboende
-befintliga vård­ och omsorgsboenden ersätta mobila reserv- Mindre anpassningar av lokalerna.
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård­ och omsorgsboenden ersätta mobila reserv-
 kraftverk med stationära.
-818 Ersättning verksamhetslokal
-813 Administrativ lokal avveckling Permanent lokallösning för administrativa lokaler.
+813 Administrativ lokal avveckling
 Hyresavtal som löper ut år 2026.
 814 Sjöallén 9F, ersättningslokal
 På grund av myndighetskrav kommer hemtjänsten lämna lokaler
 på Sjöallén 9F. Omlokaliseras sker till nya lokaler.
+
+815 Hemtjänst Sjöallén avveckling
+På grund av planerad utveckling av kvarteret Ejdern samt myn-
+dighetskrav, kan hemtjänsten inte använda lokalerna på Sjöallén
+9F. Därför måste vi flytta befintlig verksamhet och lokalen på
+Sjöallén 9F kommer att rivas.
+816 Signeshus Vård och omsorgsboende, ombyggnation
+Ombyggnation med fokus på myndighetskrav och anvisningar.
+817 Ekhaga vård- och omsorgsboende
+Mindre anpassningar av lokalerna.
+818 Ersättning verksamhetslokal
+Permanent lokallösning för administrativa lokaler.
 
 Kommunbudget 2025 och plan 2026–2027 51
 
@@ -16896,31 +18572,30 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
 
-1502 Iseråsskolan tillagningskök      x
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+1502 Iseråsskolan tillagningskök       x
 1503 Datahall                                   x
 1506 Ombyggnad av ”hemkök” på förskolor x x x
 1514 Datahall 2                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
+
 1519 Rivning av villa Britta Lenas gata 1 x
 
 Noter
 
-1502 Iseråsskolan tillagningskök  1517 Avveckling administrativa lokaler
-Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-samt behov 140 Iserås fullmått idrottshall med behov 1516 Samlokalisering administrativa lokaler.
-1503 Datahall                     1518 Avveckling administrativa lokaler
-Datahall och lagring för flertalet av kommunens verksamhets- Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-system.                           sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-med behov 1516 Samlokalisering administrativa lokaler.
+1502 Iseråsskolan tillagningskök
+Vi ska bygga ett nytt tillagningskök. Det befintliga mottagnings-
+köket är tekniskt uttjänt. Samordnas med behov 335 Iserås skola
+samt behov 140 Iserås fullmått idrottshall
+1503 Datahall
+Datahall och lagring för flertalet av kommunens verksamhets-
+system.
 1506 Ombyggnad av ”hemkök” på förskolor
-Vi måste anpassa befintliga kök på flertalet förskolor utifrån 1519 Rivning Villa Britta Lenas gata
-arbetsmiljösynpunkt samt livsmedelshantering. Vi river enbostadshuset som står på allmän platsmark eftersom
-huset är tekniskt uttjänt.
+Vi måste anpassa befintliga kök på flertalet förskolor utifrån
+arbetsmiljösynpunkt samt livsmedelshantering.
 1514 Datahall 2
 Datahall och lagring för flertalet av kommunens verksamhets-
 system.
@@ -16929,6 +18604,18 @@ Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
 flera verksamheter.
 
+1517 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Rivning Villa Britta Lenas gata
+Vi river enbostadshuset som står på allmän platsmark eftersom
+huset är tekniskt uttjänt.
+
 52 Kommunbudget 2025 och plan 2026–2027
 
 <!-- sida 348 -->
@@ -16936,27 +18623,36 @@ flera verksamheter.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2025 2026 2027 2028 2029
-131 Arena inklusive skyddsrum               x
 
+Lokaltyp och beskrivning 2025 2026 2027 2028 2029
+131 Arena inklusive skyddsrum              x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser                                   x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst              x
-1413 Rivning kv. Liljan       x
+1413 Rivning kv. Liljan      x
 
 Noter
-131 Arena inklusive skyddsrum     1411 Räddningstjänst
-Arena som består av hall med läktarfunktion, utomhusläktare Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-för fotboll och kommersiella lokaler. Lokalisering söder om det pågår exploatering i sydöstra centrum där de befintliga loka-
-Kungsbacka Sportcenter.           lerna finns.
-1202 Tillfälliga lösningar eller oförutsedda händelser 1413 Rivning Kv. Liljan
-Medel för tillfälliga lokaler eller för hantering av oförutsedda Vi måste riva verksamhetslokaler och sanera marken eftersom
-behov som uppstår under planeringsperioden. det pågår exploatering av kvarteret med utbildnings ändamål.
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden.
 1410 Engångskostnader
 Medel för oplanerade lokalbehov som exempelvis rivning eller
 sanering som kan uppstå vid främst ombyggnationer av befintliga
 lokaler.
+
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+det pågår exploatering i sydöstra centrum där de befintliga loka-
+lerna finns.
+1413 Rivning Kv. Liljan
+Vi måste riva verksamhetslokaler och sanera marken eftersom
+det pågår exploatering av kvarteret med utbildnings ändamål.
 
 Kommunbudget 2025 och plan 2026–2027 53
 
@@ -18149,27 +19845,41 @@ för eget iordningställande   av lokalerna
 
 39
 
-Marknadsundersökning                               Kommersiella                 villkor
+Marknadsundersökning                              Kommersiella                  villkor
 
 Newsec har undersökt ett antal aspekter avseende de kommersiella villkoren och de önskemål
-som företagen har gällande hyra, driftkostnader, egna abonnemang med flera.      ”I rådande marknadsläge har vi haft
-omsättningshyra som krav utan
+som företagen har gällande hyra, driftkostnader, egna abonnemang med flera.
+
 Hyresnivå
-minimihyra. Annars brukar vi inte
 Aktörerna har valt att inte svara på vad de kan tänka sig betala i hyra. Newsec hänvisar till
-ha någon omsättningshyra”
+
 informationen avseende hyresnivåer som är presenterade i kapitel 5.
+
 Omsättningshyra vs. fast hyra
-Företag inom hälsa, spontanidrott och kontor/co-working föredrar en fast hyra. Aktörer inom      ”Önskar hyresrabatt år 1-3
-Mat och dryck föredrar framförallt omsättningshyra. Många aktörer beskriver att det är ett krav  för att kunna bygga
-för etablering.                                                                                  kundbas”
+Företag inom hälsa, spontanidrott och kontor/co-working föredrar en fast hyra. Aktörer inom
+Mat och dryck föredrar framförallt omsättningshyra. Många aktörer beskriver att det är ett krav
+för etablering.
 
 Momsadeller omomsadverksamhet
 De företag som Newsec har varit i kontakt med bedriver alla momsad verksamhet. Däremot
-”Vi kan tänka sig fast hyra eller
+
 inom segmentet hälsa kan det finnas flera företag som bedriver omomsad verksamhet vilket bör
-enbart omsättningshyra”
 beaktas av Kungsbacka kommun.
+
+”I rådande marknadsläge har vi haft
+omsättningshyra som krav utan
+
+minimihyra. Annars brukar vi inte
+ha någon omsättningshyra”
+
+”Önskar hyresrabatt år 1-3
+
+för att kunna bygga
+kundbas”
+
+”Vi kan tänka sig fast hyra eller
+enbart omsättningshyra”
+
 Intresse för eventuell LOU                                                                        ”Kan ej uppskatta
 De tre fullservice aktörerna som visat intresse för etablering i arenan, har alla meddelat att de är hyresnivå. Vi måste få veta
 intresserade av att delta i en eventuell framtida LOU process för Kungsbacka Arena.

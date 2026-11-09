@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.42ce99219cc5b296bd9fc2b/17732983134
 sha256: 90fd974decb7e507e67534217c135cdddf793ea5a616689bfb40a9ba6c52ac7b
 bytes: 54175492
 sidor: 466
-hamtad: 2026-11-07T00:37:52+00:00
-konverterad: 2026-11-07T00:40:49+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T08:47:43+00:00
+konverterad: 2026-11-09T08:51:00+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7466,21 +7466,24 @@ Internkontrollrapport 2025
 
 I matrisen beskrivs de risker som identifierats i arbetet med riskanalys och som tagits med till plan.
 
-6
-tehkilonnaS
 4     8     12     16
 4
+
 3     6      9     12
 3
 2 4
 2     4      6     8
+
 2
 1     3
 1     2      3     4
 1
+
 1     2      3     4
 Konsekvens
+
 2 Hög 2 Medel Totalt: 4
+
 Kritisk        Sannolikhet           Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den inte
@@ -7492,6 +7495,10 @@ berörda intressenter och kommunen)
 intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
+
+6
+
+Sannolikhet
 
 [Tabell 136-1](handlingar.tabeller/136-1.csv)
 
@@ -8348,7 +8355,6 @@ Kommundirektör                     Biträdande kommundirektör
 
 Kommunstyrelsens förvaltning
 
-NÄMNDEMÄNNENS 2026 -01- 14
 RIKSFÖRBUND
 
 Kungsbacka kommun
@@ -8413,7 +8419,7 @@ Anmälan: Separat inbjudan kommer att mailas ut till alla medlemmar
 
 Mars — Barnkidnappningar
 
-Advokat [NN är bland annat specialist på internationella barnkidnappningar, har
+Advokat (NN är bland annat specialist på internationella barnkidnappningar, har
 arbetat som diplomat för UD och arbetat för FN.
 
 När: Tisdag den 3 mars klockan 18.00 — 20.00

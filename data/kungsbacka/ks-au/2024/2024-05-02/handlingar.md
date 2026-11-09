@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.854733918f0f90cf8914cd/171403466512
 sha256: 1882c29a1208f9f88133eabc170d57907e125ce4cf0335ab890a78349572d372
 bytes: 22023269
 sidor: 93
-hamtad: 2026-10-24T10:56:12+00:00
-konverterad: 2026-10-24T10:58:14+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:27:49+00:00
+konverterad: 2026-11-09T10:30:54+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr]
@@ -1430,7 +1430,6 @@ Linda Biltmark
 Ordförande
 
 Helene Andersson
-\: |
 Vice ordförande
 
 Thomas Fager Cnristoier Lundholm
@@ -1473,7 +1472,6 @@ Document classification: KPMG Public
 kbMmG
 
 Samordningsförbundet i Halland
-
 Granskning av bokslut och årsredovisning per 2023-12-31
 
 2024-03-08
@@ -2285,7 +2283,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -2990,15 +2988,23 @@ Kommunbudget 2024 och plan 2025-2026 55
 <!-- sida 55 -->
 
 FJÄRÅS BRÄCKA
-BRISTER                            Arbetsplatsens utformning (AFS 2020:1), föreskrifter
+
 NATURUM
 Brister och lagkrav
+
+Sammanställning brister och lagkrav
+Underlag ”Behovsbeskrivning” samt inventering/
+platsbesök och samtal med verksamhet.
+
+BRISTER
+
 Kontor 2-3p, avskilt från besökare, saknas
-Sammanställning brister och lagkrav Idag utförs kontorsarbete i lokalytor där besökare befi nner sig.
-Underlag ”Behovsbeskrivning” samt inventering/ Verksamhet har behov av utrymme för att kunna arbeta ostört,
-platsbesök och samtal med verksamhet. avskilt från besökare.
+Idag utförs kontorsarbete i lokalytor där besökare befi nner sig.
+Verksamhet har behov av utrymme för att kunna arbeta ostört,
+avskilt från besökare.
 
 Förråd
+
 Brist på förrådsyta leder till att befi ntliga utrymmen används på
 olämpligt vis och kan vara direkt farliga ur arbetsmiljösynpunkt,
 pallar för att nå, staplade saker, elrum som blockeras m.m.
@@ -3007,10 +3013,10 @@ Externt garage hyrs för förvaring av extrabord mm.
 Städrum
 Städvagn ryms ej, trångt att arbeta med tvätt i detta utrymme,
 stor del av förbrukningsmaterial förvaras i frd långt bort från
-Personalutrymmen =
 huvudbyggnad
 
 Kök
+
 Flödet vid disk funkar dåligt när utgång mot café blockareras av
 pulpet. Ibland tas diskvagnar och annat igenom omklädningsslussen.
 kunder använder dörren in till disk.
@@ -3020,19 +3026,56 @@ Pausutrymme saknas
 
 Vilutrymme saknas
 
-sept, okt 2022          nov 2022             ddeecc 22002222            jan 2023                  feb 2023                mars 2023
+sept, okt 2022          nov 2022             ddeecc 22002222
+Behovsbeskrivning,      Förstudie            Förstudie
+Projektbeställning/     ABAKO Arkitektkontor Skissarbete, utredning ytor/lokalbehov
+Kungsbacka kommun                            Samanställning brister och lagkrav
+Tillgänglighetssakkunnig/TIL
+VVS-kompetens från Kungsbacka
+kommun, utredning dimensionering
+ventilation mm.
+Utredning förutsättningar på platsen.
 
-Behovsbeskrivning,      Förstudie            Förstudie                  nivå Bygglovshandling     nivå Bygglovshandling   Bygglovshandling
-Projektbeställning/     ABAKO Arkitektkontor Skissarbete, utredning ytor/lokalbehov Forts skissarbete. Forts skissarbete/ritningsarbete. Ritningsarbete. A stämmer av med konstruktör,
-Kungsbacka kommun                            Samanställning brister och lagkrav Storkökskonsult; skisser cafékök, Landskapsarkitekt kopplas in för innan färdigställande av bygglovshandling.
-Tillgänglighetssakkunnig/TIL framtagande eff ektlista bef och bliv. utredning utemiljö/ytor utanför Bygglovshandling klar (A-ritningar,
-VVS-kompetens från Kungsbacka Samording VVS, TIL, Brand. tillbyggnader samt framtagande L-ritning, Tillgänglighetsbeskrivning,
-kommun, utredning dimensionering Kontakter med Länsstyrelsen Halland, av gestaltningsidé och därefter Brandskyddsbeskrivning
-ventilation mm.            Forts. utredning förutsättningar på situationsplan till Bygglov Dispensansökan från reservatföreskrifter och
-Utredning förutsättningar på platsen. platsen, bl a ang dispensansökan från  strandskydd skickas(handläggningstid 6 mån)
+NATURUM FJÄRÅS BRÄCKA OM- OCH TILLBYGGNAD - FRÅN FÖRSTUDIE TILL BYGGLOVSHANDLING
+
+Arbetsplatsens utformning (AFS 2020:1), föreskrifter
+
+jan 2023
+nivå Bygglovshandling
+Forts skissarbete.
+Storkökskonsult; skisser cafékök,
+framtagande eff ektlista bef och bliv.
+Samording VVS, TIL, Brand.
+Kontakter med Länsstyrelsen Halland,
+Forts. utredning förutsättningar på
+platsen, bl a ang dispensansökan från
 reservatföreskrifter och strandskydd.
 
-NATURUM FJÄRÅS BRÄCKA OM- OCH TILLBYGGNAD - FRÅN FÖRSTUDIE TILL BYGGLOVSHANDLING         2023-03-17                             SIDA (cid:127)(cid:129) [(cid:141) (cid:127)]
+2023-03-17
+
+feb 2023
+nivå Bygglovshandling
+Forts skissarbete/ritningsarbete.
+Landskapsarkitekt kopplas in för
+utredning utemiljö/ytor utanför
+tillbyggnader samt framtagande
+av gestaltningsidé och därefter
+situationsplan till Bygglov
+
+Personalutrymmen =
+
+mars 2023
+
+Bygglovshandling
+Ritningsarbete. A stämmer av med konstruktör,
+innan färdigställande av bygglovshandling.
+Bygglovshandling klar (A-ritningar,
+L-ritning, Tillgänglighetsbeskrivning,
+Brandskyddsbeskrivning
+Dispensansökan från reservatföreskrifter och
+strandskydd skickas(handläggningstid 6 mån)
+
+SIDA (cid:127)(cid:129) [(cid:141) (cid:127)]
 
 <!-- sida 56 -->
 
@@ -3040,27 +3083,52 @@ FJÄRÅS BRÄCKA
 BRISTER                            Arbetsplatsens utformning (AFS 2020:1), föreskrifter
 NATURUM
 Brister och lagkrav
+
 RWC/D för personal är inte tillgänglig,
 uppfyller ej minsta mått 2,2 x 2,2 m.
 
-Boverkets byggregler (BBR)                Tillgänglighet på allmänna platser, ALM
+Boverkets byggregler (BBR)
 
 RWC för besökare är inte tillgänglig,
+
 uppfyller ej minsta mått 2,2 x 2,2 m.
 
-sept, okt 2022          nov 2022             ddeecc 22002222            jan 2023                  feb 2023                mars 2023
+sept, okt 2022          nov 2022             ddeecc 22002222            jan 2023
 
-Behovsbeskrivning,      Förstudie            Förstudie                  nivå Bygglovshandling     nivå Bygglovshandling   Bygglovshandling
-Projektbeställning/     ABAKO Arkitektkontor Skissarbete, utredning ytor/lokalbehov Forts skissarbete. Forts skissarbete/ritningsarbete. Ritningsarbete. A stämmer av med konstruktör,
-Kungsbacka kommun                            Samanställning brister och lagkrav Storkökskonsult; skisser cafékök, Landskapsarkitekt kopplas in för innan färdigställande av bygglovshandling.
-Tillgänglighetssakkunnig/TIL framtagande eff ektlista bef och bliv. utredning utemiljö/ytor utanför Bygglovshandling klar (A-ritningar,
-VVS-kompetens från Kungsbacka Samording VVS, TIL, Brand. tillbyggnader samt framtagande L-ritning, Tillgänglighetsbeskrivning,
-kommun, utredning dimensionering Kontakter med Länsstyrelsen Halland, av gestaltningsidé och därefter Brandskyddsbeskrivning
-ventilation mm.            Forts. utredning förutsättningar på situationsplan till Bygglov Dispensansökan från reservatföreskrifter och
-Utredning förutsättningar på platsen. platsen, bl a ang dispensansökan från  strandskydd skickas(handläggningstid 6 mån)
+Behovsbeskrivning,      Förstudie            Förstudie                  nivå Bygglovshandling
+Projektbeställning/     ABAKO Arkitektkontor Skissarbete, utredning ytor/lokalbehov Forts skissarbete.
+Kungsbacka kommun                            Samanställning brister och lagkrav Storkökskonsult; skisser cafékök,
+Tillgänglighetssakkunnig/TIL framtagande eff ektlista bef och bliv.
+VVS-kompetens från Kungsbacka Samording VVS, TIL, Brand.
+kommun, utredning dimensionering Kontakter med Länsstyrelsen Halland,
+ventilation mm.            Forts. utredning förutsättningar på
+Utredning förutsättningar på platsen. platsen, bl a ang dispensansökan från
 reservatföreskrifter och strandskydd.
 
-NATURUM FJÄRÅS BRÄCKA OM- OCH TILLBYGGNAD - FRÅN FÖRSTUDIE TILL BYGGLOVSHANDLING         2023-03-17                             SIDA (cid:127)(cid:127) [(cid:129) (cid:127)]
+NATURUM FJÄRÅS BRÄCKA OM- OCH TILLBYGGNAD - FRÅN FÖRSTUDIE TILL BYGGLOVSHANDLING         2023-03-17
+
+Tillgänglighet på allmänna platser, ALM
+
+feb 2023
+nivå Bygglovshandling
+Forts skissarbete/ritningsarbete.
+Landskapsarkitekt kopplas in för
+utredning utemiljö/ytor utanför
+tillbyggnader samt framtagande
+av gestaltningsidé och därefter
+situationsplan till Bygglov
+
+mars 2023
+Bygglovshandling
+Ritningsarbete. A stämmer av med konstruktör,
+innan färdigställande av bygglovshandling.
+Bygglovshandling klar (A-ritningar,
+L-ritning, Tillgänglighetsbeskrivning,
+Brandskyddsbeskrivning
+Dispensansökan från reservatföreskrifter och
+strandskydd skickas(handläggningstid 6 mån)
+
+SIDA (cid:127)(cid:127) [(cid:129) (cid:127)]
 
 <!-- sida 57 -->
 
@@ -4543,8 +4611,6 @@ universitét——
 
 agda ena Sundqvis'
 damot i Kommunfullmäktige
-
-/4
 
 <!-- sida 92 -->
 

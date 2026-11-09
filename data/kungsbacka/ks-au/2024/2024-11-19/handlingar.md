@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6900ef2d1932979363710d22/1731677915
 sha256: 9acbde6efcabcbf157d12fbee5dbc6652e905c162ea08b9b61390c2d27bf9d8b
 bytes: 51605589
 sidor: 109
-hamtad: 2026-10-25T06:57:14+00:00
-konverterad: 2026-10-25T06:59:06+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T11:22:09+00:00
+konverterad: 2026-11-09T11:24:14+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ok, ocr, ok, ocr, ocr, ok]
@@ -2549,7 +2549,7 @@ Jan Österdahl I (M) TVKk Xx I |
 
 Kjell-Åke Andersson | (M) | Vk | Malin Magnusson [XT] |
 
-Franklin Eck | (M) TVK Xx
+Franklin Eck I (M) TVK Xx
 
 Michael Cassaras - (M) | Vk Lars Thelén X
 
@@ -2670,9 +2670,6 @@ Justeringsmännens signatur:
 
 ( E
 biz t ;
-20- JSverigedemokn. pitega D
-CR Verig ATerna
-CE ; Itygalet år Tradition.
 2012-04-10 — Reservation i fråga nr 16 under kvällens kommunfullmäktigemöte om
 antagandet av Översiktsplan för vindkraft, tillägg till Kungsbacka översiktsplan 2006.
 
@@ -2790,8 +2787,6 @@ Arrendator Postadress Org. nr: 849400-1780
 2.7
 2.8
 2.9
-
-i i o
 
 Fakturaadress
 Samma som postadress

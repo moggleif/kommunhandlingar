@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c7443e6ff/1758870337
 sha256: bc3571af8c649cbdcffd669882bdd5a4388c48153234cadc0ff985a7325818e7
 bytes: 20676472
 sidor: 131
-hamtad: 2026-10-25T08:13:09+00:00
-konverterad: 2026-10-25T08:16:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:48:10+00:00
+konverterad: 2026-11-09T12:51:30+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr]
 tal_obekraftade: [8, 10, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 67, 70, 73, 74, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 99, 100, 101, 102, 103, 104, 105, 106, 107, 109, 111, 112, 118, 119, 120, 121, 122, 123, 124, 127, 128, 129, 130, 131]
 figurer: [69, 100, 101, 102, 103, 104, 105, 106, 118, 119, 121, 122, 123, 124]
 tolkade: []
@@ -1646,7 +1646,6 @@ Matavfall blir Biogas Egen Varmkompost R fall Bland
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
 Ifprorek
-Kärlstorlek;restavfall Hänitninssintervall a  foevea
 Blerde
 130 liter Varannan vecka, helår |2 850 2850 an
 Var fjärde vecka, helår | Inte valbar 2190 end
@@ -1654,7 +1653,6 @@ Var fjärde vecka, helår | Inte valbar 2190 end
 Var fjärde vecka, helår | Inte valbar 2470 IHerHbar
 370 liter Varannan vecka, helår |5 355  eR 92220
 660 liter"+ Varannan vecka, helår |13 825 13 825 20-445
-NR Zz = za
 
 ++ Det går inte att beställa nya abonnemang med/ändra till 660 liters kärl för permanent- och säsongsboende
 
@@ -2092,7 +2090,7 @@ Avstånd i meter Två gånger per vecka Varje vecka Varannan vecka
 
 21-50 7 625 3 810 955
 
-rea IHealbar en me
+Orea IHealbar en me
 
 ee Heder ee ade
 
@@ -2438,7 +2436,6 @@ Kungsbacka kommun Avfallstaxa 2026 25
 
 Avgifter, i kronor, per tömning av enskild avloppsanläggning, fettavskiljare och byggtoalett
 
-. ren enn 2 TSE
 entreprenör dagar HIemråtdyen
 ren re en Se
 
@@ -2753,6 +2750,24 @@ Förvaltningschef Teknik       Verksamhetschef Vatten Avfall Bredband
 
 <!-- sida 70 -->
 
+Kungsbacka
+
+\-
+
+v
+c
+
+Bestutadäv: Kommunfullmäktige 2025-05-06 5 90, KS-2024-00300
+
+"Gäller från: 2025-06-01
+Ansvarig förvaltning: Teknik
+ontakt: Kungsbacka direkt 0300-83 40 00, info(Mkungsbacka.se
+
+Kungsbacka kommun, 434 81 Kungsbacka
+kungsbacka.se
+
+pO” om < så i
+
 <!-- sida 71 -->
 
 Innehåll
@@ -2962,7 +2977,7 @@ Grundavgift per restavfallskärl, i kronor per år
 
 Årsavgift, i kronor, för helårsabonnemang, en- och tvåbostadshus, inklusive grundavgift
 
-130 liter or 2 660 5735
+130 liter or RR 2 660 5735
 helår
 — Arden, Inte valbar 2 045 Inte valbar
 helår
@@ -3995,8 +4010,6 @@ Kommundirektör                Biträdande kommundirektör
 
 1.0
 
-TMALL 0739 Överenskommelse-Samfinans
-
 Ärendenummer
 
 TRV 2025/66904
@@ -4024,23 +4037,21 @@ Samfinansiering med olika statliga anslag/finanser
 
 Samverkan där respektive part äger sin anläggning och finansierar sin del
 
-OIOIOIR
+Samverkan där annan part äger och finansierar sin anläggning och Trafikverket
+\- bevakar genomförandet när anläggningen är i anslutning till statens anläggning,
 
 eller
 — får i uppdrag att genomföra åtgärden
 
-Samverkan där annan part äger och finansierar sin anläggning och Trafikverket
-\- bevakar genomförandet när anläggningen är i anslutning till statens anläggning,
-
 Mellan nedanstående parter träffas härmed avtal om samverkan enligt följande:
-
-§1 Parter
-
-Trafikverket, Västra Regionen, 202100-6297, 781 89 Borlänge, nedan Trafikverket
 
 Kungsbacka Kommun, 212000-1256, Stadshuset, (adress borttagen), 434 81 Kungsbacka
 
+§1 Parter
+Trafikverket, Västra Regionen, 202100-6297, 781 89 Borlänge, nedan Trafikverket
+
 82 Definitioner och begrepp
+
 Följande definitioner och begrepp används i detta avtal:
 
 Bevakningsuppdrag: Trafikverkets bevakning av annan parts arbete som sker i närhet
@@ -4055,12 +4066,14 @@ kravhantering gentemot kommunen (utifrån bl.a. VGU vägars och gators utformnin
 83 Syfte och bakgrund
 
 Syftet med detta avtal är att reglera respektive parts åtagande och finansiella ansvar för
-
 åtgärden.
 
 Avtalet avser rivning av belysning samt byggnation av ny belysning i på väg 955, del av, i
-
 Särö, Kungsbacka kommun.
+
+TMALL 0739 Överenskommelse-Samfinans
+
+OIOIOIR
 
 <!-- sida 100 -->
 
@@ -4071,14 +4084,13 @@ TRV 2025/66904                    2025-06-18
 Sidor
 2(8)
 
-Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
-av ny belysning, Kungsbacka kommun, Hallands län
-0.1
-snanifmaS-eslemmoksnerevÖ
-9370
-LLAMT
 Bild 1: Översiktlig bild av området med belysning. Blå markering markerar befintlig belysning
 som ska rivas. Översänd från: Kungsbacka kommun.
+
+Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
+av ny belysning, Kungsbacka kommun, Hallands län
+
+TMALL 0739 Överenskommelse-Samfinans 1.0
 
 <!-- sida 101 -->
 
@@ -4089,14 +4101,13 @@ TRV 2025/66904                    2025-06-18
 Sidor
 3(8)
 
-Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
-av ny belysning, Kungsbacka kommun, Hallands län
-0.1
-snanifmaS-eslemmoksnerevÖ
-9370
-LLAMT
 Bild 2: Översiktlig bild av området med belysning. Röd markering markerar ny belysning som
 ska byggas. Översänd från: Kungsbacka kommun.
+
+Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
+av ny belysning, Kungsbacka kommun, Hallands län
+
+TMALL 0739 Överenskommelse-Samfinans 1.0
 
 <!-- sida 102 -->
 
@@ -4107,12 +4118,6 @@ TRV 2025/66904                    2025-06-18
 Sidor
 4(8)
 
-Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
-av ny belysning, Kungsbacka kommun, Hallands län
-0.1
-snanifmaS-eslemmoksnerevÖ
-9370
-LLAMT
 Bild 3:Visar Trafikverkets befintliga belysningsstolpar i Trafikplats Särö väg 158/955,
 belysningsstolpar som gråa cirklar och Trafikverkets belysningscentral som grå kvadrat strax
 väster om cirkulationen på väg 955.
@@ -4129,10 +4134,16 @@ Trafikplats Särö väg 158/955, bild 3 ovan.
 Avtalet gäller den del på väg 955 från där den idag statliga belysningsanläggningen finns
 i Trafikplats Särö och övertagandet gäller väster ut till strax norr om korsning
 Nötegången/Lysholmsvägen/Solberga allé.
+
 §4   Tidigare avsiktsförklaring eller avtal avseende medfinansiering och
 samverkan för åtgärden
 Parterna har inte tidigare tecknat avsiktsförklaring eller avtal om medfinansiering av
 åtgärden.
+
+Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
+av ny belysning, Kungsbacka kommun, Hallands län
+
+TMALL 0739 Överenskommelse-Samfinans 1.0
 
 <!-- sida 103 -->
 
@@ -4142,24 +4153,20 @@ PM
 TRV 2025/66904                    2025-06-18
 Sidor
 5(8)
-
-Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
-av ny belysning, Kungsbacka kommun, Hallands län
-0.1
-snanifmaS-eslemmoksnerevÖ
-9370
-LLAMT
 §5 Beskrivning av åtgärder
 Avtalet avser åtgärder i anläggningar som Trafikverket äger och ansvarar för. Objektet
 omfattar rivining samt nybyggnation av belysning längs väg 955, del av, i Särö,
 Kungsbacka kommun.
+
 Avtalet omfattar följande åtgärder:
 Åtgärder i och intill den statliga anläggningen
 Åtgärd 1 omfattar rivning och nybyggnation av belysning längs väg 955, del av, i
 Särö, Kungsbacka kommun.
+
 Åtgärd 2 Trafikverkets administration och projektledning (bevakningsuppdrag).
 Åtgärd 3 Överlämning av dokument och projekt specifika handlingar till
 Trafikverket från kommunens nybyggnation.
+
 §6 Finansiering
 6.1 Kungsbacka kommun förbinder sig till att bekosta åtgärderna under §5 i sin helhet.
 Detta gäller även eventuellt tillkommande åtgärder som härrör sig till
@@ -4196,6 +4203,11 @@ vara godkänt innan ansökan om TA-plan skickas in.
 trafikavstängningar, ersättningsvägar. Kungsbacka kommun ska ta fram en TA-plan
 som Trafikverket ska godkänna. Innan ansökan om Ta-plan görs skall eventuella
 
+Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
+av ny belysning, Kungsbacka kommun, Hallands län
+
+TMALL 0739 Överenskommelse-Samfinans 1.0
+
 <!-- sida 104 -->
 
 PM
@@ -4204,13 +4216,6 @@ PM
 TRV 2025/66904                    2025-06-18
 Sidor
 6(8)
-
-Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
-av ny belysning, Kungsbacka kommun, Hallands län
-0.1
-snanifmaS-eslemmoksnerevÖ
-9370
-LLAMT
 underentreprenör vara klar på vilka krav som gäller för trafikens framkomlighet.
 Kontakt ska tas med regionens trafikingenjör. Mail skickas till:
 (e-post borttagen) ange Västra Regionen, Trafikingenjör Ta-planer
@@ -4248,7 +4253,9 @@ https://www.trafikverket.se/ / sökord ”VGU”.
 §8 Hantering av kostnadsförändringar
 I de fall projektet avbryts står kommunen för de kostnader som dittills nedlagts.
 Kungsbacka kommun ska stå för samtliga kostnader för åtgärd 1 och 2.
+
 §9 Betalning
+
 Trafikverket har rätt att löpande fakturera Kungsbacka kommun för upparbetade
 kostnader avseende bevakning. Trafikverket kommer att fakturera Kungsbacka kommun
 för den i bevakningsuppdraget nedlagda tiden avseende projektledare samt eventuell tid
@@ -4256,6 +4263,11 @@ för specialister, utifrån Trafikverkets interna tidredovisningssystem
 Faktura ska sändas till utbetalarens fakturaadress och märkas på rätt sätt så att den
 hamnar rätt i leverantörssystem. Det åligger Kungsbacka kommun att informera
 Trafikverket om dessa uppgifter ändras.
+
+Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
+av ny belysning, Kungsbacka kommun, Hallands län
+
+TMALL 0739 Överenskommelse-Samfinans 1.0
 
 <!-- sida 105 -->
 
@@ -4265,18 +4277,12 @@ PM
 TRV 2025/66904                    2025-06-18
 Sidor
 7(8)
-
-Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
-av ny belysning, Kungsbacka kommun, Hallands län
-0.1
-snanifmaS-eslemmoksnerevÖ
-9370
-LLAMT
 Fakturering till kommunen sker genom e-faktura. Följande uppgifter ska anges:
 Peppol-id: 0007:2120001256
 Momsnummer: SE212000125601
 Organisationsnummer: 212000-1256
 Referens: Liw Rehnström
+
 §10   Projektorganisation och former för parternas samarbete
 Parterna ska ges full insyn i arbetet genom rapportering om hur arbetet framskrider
 tekniskt och tidsmässigt. Personal på Trafikverket kommer vid avslutat arbete att
@@ -4292,21 +4298,25 @@ tidpunkt.
 §11   Tidplan
 Preliminär tidplan: Under 2025 planeras genomförandet av rivning och nybyggnation av
 belysningen.
+
 §12   Avtalets giltighet
 Detta bevakningsavtal är giltigt från och med den dag då det undertecknats av båda
 parter. Avtalet upphör gälla när alla åtaganden enligt avtalet är uppfyllda och när
 projektet är slutfört, slutbesiktigat och godkänt. Då överlämningen är klar.
 Detta avtal är giltigt från och med den tidpunkt när det undertecknats av parterna och
 under förutsättning av:
+
 \- att eventuella ytterligare för åtgärden nödvändiga planer och tillstånd vunnit laga
 kraft
 \- att eventulla ytterligare åtgärder i den statliga anläggningen ansöks om i särskilt
 ärende/avtal
+
 §13   Övrigt
 Ändringar eller tillägg till detta avtal ska vara skriftliga och undertecknas av båda parter
 för att vara giltiga.
 Kungsbacka kommun får inte överlåta sina rättigheter och skyldigheter enligt detta avtal
 på någon annan, utan Trafikverkets skriftliga medgivande.
+
 Trafikverket ska ha rätt att på samma grund som Kungsbacka såsom byggherre, stoppa
 pågående entreprenad om företrädare för Trafikverket (projektledare eller byggledare)
 vid tillsyn upptäcker brister i utförandet som kan medföra risk för skada eller olycka.
@@ -4314,6 +4324,11 @@ Denna rättighet ska Kungsbacka kommun i kontrakt eller på annat sätt meddela 
 entreprenör innan arbeten påbörjas.
 Risk och hantering av skador ska regleras mellan parterna och krav ska ställas på att
 entreprenören uppfyller en minimiomfattning av försäkringsskydd.
+
+Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
+av ny belysning, Kungsbacka kommun, Hallands län
+
+TMALL 0739 Överenskommelse-Samfinans 1.0
 
 <!-- sida 106 -->
 
@@ -4323,24 +4338,26 @@ PM
 TRV 2025/66904                    2025-06-18
 Sidor
 8(8)
-
-Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
-av ny belysning, Kungsbacka kommun, Hallands län
-0.1
-snanifmaS-eslemmoksnerevÖ
-9370
-LLAMT
 §14   Tvistlösning
 Tvist avseende tillämpning eller tolkning av detta avtal ska avgöras av allmän domstol
 enligt svensk lag.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Detta avtal är upprättat i två (2) likalydande exemplar varav parterna tagit var sitt.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                 Ort och datum
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_     \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson Enhetschef      Ulrika Granfors Enhetschef
 Infrastrukturplanering Väg    Förvaltningschef för Teknik
 Trafikverket Västra regionen  Kungsbacka kommun
+
+Bevakningsavtal – Belysningsanläggning Särö vid väg 955, del av, rivning och byggnation
+av ny belysning, Kungsbacka kommun, Hallands län
+
+TMALL 0739 Överenskommelse-Samfinans 1.0
 
 <!-- sida 107 -->
 
@@ -4492,8 +4509,6 @@ Undertecknat av följande personer
 
 MONICA CHRISTINA NEPTUN
 Datum: 2025-07-04 14:40:49
-
-Transaktionsidentitet: i  euu+msuslat—
 
 <!-- sida 112 -->
 
@@ -5360,11 +5375,13 @@ Areal
 Område Totalareal Därav landareal Därav vattenareal
 Totalt 1 029 kvm 1 029 kvm 0 kvm
 Område
-Antal områden: 1
 Lagfart
 Agare Andel Inskrivningsdag
+
 12 1976-06-16
+
 1/4 1986-12-02
+
 1/4 1986-12-02
 
 1986-10-20

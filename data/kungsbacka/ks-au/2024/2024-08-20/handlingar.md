@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5a53603d190a25d8087361a6/1723723471
 sha256: 7c3418da77da006a3e76966983a45f6d186a7388aa904647d749fb473ef572f8
 bytes: 5953713
 sidor: 81
-hamtad: 2026-10-25T06:23:01+00:00
-konverterad: 2026-10-25T06:24:20+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:42:29+00:00
+konverterad: 2026-11-09T10:43:54+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -820,21 +820,22 @@ strategiska styrningen
 
 OMVÄRLDEN
 
-LA UELHETEN "es
-
-RELATIONER
-
 FRAMTIDS-
 BILD
 
-RELATIONER RELATIONER
-
-FRAMTIDS- LEDARSKAP
-DIALOG
+RELATIONER
 
 RELATIONER
 
+FRAMTIDS- LEDARSKAP
+
+DIALOG
+
 14
+
+RELATIONER
+
+RELATIONER
 
 <!-- sida 25 -->
 
@@ -936,7 +937,6 @@ förmåga och stabilitet.
 
 <!-- sida 27 -->
 
-Framtidsdialog FRÅGA I CENTRUM
 (steg 3) Vad betyder framtids-
 
 scenarierna och vilka bidrar?

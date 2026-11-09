@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1db334b719504a0b18aeba96/1740124548
 sha256: 133d081914e683fa9ad9f9c80b0170b273cd97f6ce0733e9844dbbff17707724
 bytes: 18659434
 sidor: 121
-hamtad: 2026-10-25T07:15:19+00:00
-konverterad: 2026-10-25T07:15:54+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T11:43:34+00:00
+konverterad: 2026-11-09T11:44:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4465,71 +4465,80 @@ Faktura markning: 24410-mikblo-3241
 
 <!-- sida 104 -->
 
-Planansökan gällande Kungsbacka  Mossen  3:2
+Planansökan  gällande Kungsbacka Mossen  3:2
 22 november 2024
 
 Bakgrund
-Nordr har utvecklat bostäder i Sverige och Norge sedan slutet av 90-talet och i Kungsbacka kommun Med en intim gatustruktur sätter vi mötet mellan människor först och skapar en plats för de som rör
-har vi tidigare varit aktiva i bland annat Kolla Parkstad där vi byggt sju kvarter med över 250 bostäder. sig på cykel eller till fots. Befintliga Gröna vägen bibehåller till största möjliga del sin karaktär av
-Våra värderingar styr både hur vi uppträder och hur vi utveckla våra bostäder. Omtänksamma, småskalig och lantlig väg genom byn. Nya kvartersgator utförs med tät kontakt till husen, en lantlig
-Engagerade och Långsiktiga.                          belysningsmiljö och gemensamma parkeringsytor utförs grusade istället för asfalterade vilket även
-Vårt mål är att skapa framtidens grannskap bestående av smarta, solida och självklart hållbara det tar hänsyn till den lantliga miljön samtidigt som det underlättar för skyfallshanteringen.
+Nordr har utvecklat bostäder i Sverige och Norge sedan slutet av 90-talet och i Kungsbacka kommun
+har vi tidigare varit aktiva i bland annat Kolla Parkstad där vi byggt sju kvarter med över 250 bostäder.
+Våra värderingar styr både hur vi uppträder och hur vi utveckla våra bostäder. Omtänksamma,
+Engagerade och Långsiktiga.
+Vårt mål är att skapa framtidens grannskap bestående av smarta, solida och självklart hållbara
 bostäder, som fungerar lika bra utanför husets fyra väggar som på insidan – bostadsmiljöer som bidrar
-till levande, trygga och goda levnadsvillkor.        Jordbruksmark, kulturmiljö och fornlämningar
-Bostäder är ett väsentligt samhällsintresse och i utvecklingsorterna i Kungsbacka är
+till levande, trygga och goda levnadsvillkor.
 Nordr har förvärvat del av fastigheten Kungsbacka Mossen 3:2 som är belägen i direkt anslutning till
-tätortsutveckling prioriterad framför jordbruksmark (ÖP22) . Genom att förlägga byggnationen direkt
 Ebbagården och dess omgivande småhusområden samt till Onsala vägen.
-gränsande till befintlig bebyggelse lämnas stora delar av fastigheten obebyggd och den blå-gröna
 Området är i ÖP22 utpekat som ingående i den prioriterade utvecklingsorten Onsala och ligger
-kilen tillgängliggör landskapet på ett sätt det tidigare inte gjort.
 centrumnära till skola, mataffär och service. Inom utvecklingsorten är marken i sig utpekat som del av
-Fastigheten gränsar till kulturmiljön i Onsala Kyrkby som är av riksintresse för kulturmiljövården.
 område som är viktigt för vardagsnära friluftsliv. I dag är marken inhägnad som hästhagar och ett
-På fastighetens södra del ligger Ebbagården, byggd ursprungligen 1847 och kraftigt ombyggt 1934.
 mindre skogsområde.
-Inga kända fornlämningar är registrerade inom fastigheten.
 Utbyggnadsförslag
-Grön-och blåstruktur
 Nordr har för avsikt att utveckla området till ett socialt, ekologiskt och trivsamt bostadsområde genom
-Genom utvecklingen av området öppnar vi upp och tillgängliggör området för alla och underlättar en
 att bidra med ett tillskott av ca 75 bostäder till utvecklingsorten i form av radhus och kedjehus, samt
-upplevelserik och naturskön koppling mellan Onsala vägen ned mot havet och Vickans badplats.
 lägenheter i tvåplanshus. Att tillföra lägenheter som bostadstyp ser vi som ett viktigt tillskott till ett
-Bäcken som i dag är mestadels övervuxen synliggörs genom varsam ansning och ett vackert
 område med en stor brist på detta. Denna brist gör att det idag är mycket svårt att bo kvar i Onsala i
-strövområde skapas. Delar av den befintliga skogen behålls och skapar en buffert mot Onsalavägen
 olika skeden av livet. Kan vi tillföra detta så skapar det en social hållbarhet och trygghet och
-och även delvis mot befintlig bebyggelse. De delar som idag består av hagmark planteras med träd
 underlättar även för sunda flyttkedjor och därmed en sund demografi.
-för skugga och återskapande av ett naturligt habitat för fåglar.
 Den hänsynstagande arkitekturen och sambandet mellan det byggda och naturen skapar
 välbefinnande ochenplats som berör alla sinnen.
-Infrastruktur och teknik
-Anslutningtillkommunalt VA, elservisermm bedöms kunna ske mot Onsalavägen som gränsar till
 Den nya byggnationen kommer med lätthet ansluta till befintlig infrastruktur och kollektivtrafik och
-området.
 därmed både till befintlig service och till arbetsplatser i Kungsbacka eller Göteborg. Endast 50 meter
-Gång-och cykelvägar mot Onsala och Kungsbacka nås enkelt genom Gröna vägenoch genom nya
 från fastigheten ligger busshållplatsen och på kort avstånd kan de boende nå huvudorten Onsala, som
-gångvägar genom området.
 endast ligger 1 km bort, både med cykel och till fots och därmed skapa ett bättre underlag till att hålla
-Marken ligger mellan 18-20 meter över havet och därmed utanför risk för översvämning från hav på
 huvudorten levande vilket är prioriterat i ÖP för att kunna skapa ett hållbart samhälle.
-en 200-årsnivå.
 Markområdet sluter an till ett befintligt etablerat småhusområde och kan därför ses som en
 komplettering av befintlig bebyggelse.
-Hälsa och Säkerhet
-Buller och luftkvalitet bedöms inte vara ett problem i området. För de hus som placeras närmas
 Platsen
-Onsalavägen hålls ett tillräckligt avstånd för att klara gällande bullerförordning och i söder lämnas
 Marken är idag lätt kuperad och böljande och vi vill anpassa husen och vägar efter de möjligheter som
-ett stort grönområde till de hästhagar som finns på grannfastigheten.
 naturen redan har gett oss. Bäcken blir vägledande för hur området planeras och skapar den
 blå-gröna kil genom landskapet som knyter ihop land och vatten. Längs med bäcken kan människor
 mötas på sin kvällspromenad, joggingturen eller på väg ned mot havet och barnen får naturliga platser
 för lek där deras egen fantasi och rörelse får utlopp i leken.
-Ärendenummer: #173466 | Datum: 2024-12-03 08:56                                                          Bilaga 2 sida 2 av 9
+Ärendenummer: #173466 | Datum: 2024-12-03 08:56
+
+Med en intim gatustruktur sätter vi mötet mellan människor först och skapar en plats för de som rör
+sig på cykel eller till fots. Befintliga Gröna vägen bibehåller till största möjliga del sin karaktär av
+småskalig och lantlig väg genom byn. Nya kvartersgator utförs med tät kontakt till husen, en lantlig
+belysningsmiljö och gemensamma parkeringsytor utförs grusade istället för asfalterade vilket även
+det tar hänsyn till den lantliga miljön samtidigt som det underlättar för skyfallshanteringen.
+Jordbruksmark, kulturmiljö och fornlämningar
+Bostäder är ett väsentligt samhällsintresse och i utvecklingsorterna i Kungsbacka är
+tätortsutveckling prioriterad framför jordbruksmark (ÖP22) . Genom att förlägga byggnationen direkt
+gränsande till befintlig bebyggelse lämnas stora delar av fastigheten obebyggd och den blå-gröna
+kilen tillgängliggör landskapet på ett sätt det tidigare inte gjort.
+Fastigheten gränsar till kulturmiljön i Onsala Kyrkby som är av riksintresse för kulturmiljövården.
+På fastighetens södra del ligger Ebbagården, byggd ursprungligen 1847 och kraftigt ombyggt 1934.
+Inga kända fornlämningar är registrerade inom fastigheten.
+Grön-och blåstruktur
+Genom utvecklingen av området öppnar vi upp och tillgängliggör området för alla och underlättar en
+upplevelserik och naturskön koppling mellan Onsala vägen ned mot havet och Vickans badplats.
+Bäcken som i dag är mestadels övervuxen synliggörs genom varsam ansning och ett vackert
+strövområde skapas. Delar av den befintliga skogen behålls och skapar en buffert mot Onsalavägen
+och även delvis mot befintlig bebyggelse. De delar som idag består av hagmark planteras med träd
+för skugga och återskapande av ett naturligt habitat för fåglar.
+Infrastruktur och teknik
+Anslutningtillkommunalt VA, elservisermm bedöms kunna ske mot Onsalavägen som gränsar till
+området.
+Gång-och cykelvägar mot Onsala och Kungsbacka nås enkelt genom Gröna vägenoch genom nya
+gångvägar genom området.
+Marken ligger mellan 18-20 meter över havet och därmed utanför risk för översvämning från hav på
+en 200-årsnivå.
+Hälsa och Säkerhet
+Buller och luftkvalitet bedöms inte vara ett problem i området. För de hus som placeras närmas
+Onsalavägen hålls ett tillräckligt avstånd för att klara gällande bullerförordning och i söder lämnas
+ett stort grönområde till de hästhagar som finns på grannfastigheten.
+
+Bilaga 2 sida 2 av 9
 
 <!-- sida 105 -->
 

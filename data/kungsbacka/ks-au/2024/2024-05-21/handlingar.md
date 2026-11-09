@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b3395ad1/1715954449225
 sha256: 89141073d3d85de090fb0debac67dcae8796d6cfc34be2f282037b2d3595c0d3
 bytes: 41166154
 sidor: 97
-hamtad: 2026-10-25T06:16:33+00:00
-konverterad: 2026-10-25T06:18:08+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:34:55+00:00
+konverterad: 2026-11-09T10:36:45+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90]
 figurer: [26, 43, 44, 48, 50, 71, 72, 73, 74, 91]
 tolkade: []
@@ -3555,7 +3555,7 @@ Köparen är medveten om att dagvattnet inom den egna kvartersmarken ska fördr�
 och renas enligt Kungsbacka kommuns krav. Fördröjning av dagvatten ska göras inom
 den egna fastigheten beroende på hur stor andel som är hårdgjord. För fastigheter som
 har hårdgjord yta större än 1000 m? ska fördröjningsåtgärder inom fastigheten vidtas.
-Fördröjningsanläggning med en effektiv volym av I m? per 100 m? hårdgjord yta skall
+Fördröjningsanläggning med en effektiv volym av 1 m? per 100 m? hårdgjord yta skall
 anläggas och bekostas av Köparen. Max tillåtet utflöde ska vara 10-årsflöde för
 förhållanden innan exploatering. Magasinen får förses med bräddfunktion vid fullt
 magasin.
@@ -4047,7 +4047,6 @@ avtal,
 
 Detta avtal är upprättat i två likalydande exemplar varav parterna erhåller var sitt.
 
-DA . .
 Hare se £a 2Y-C AG
 J
 
@@ -4074,6 +4073,46 @@ Ort Datum
 Ellevio AB, Box 2087, 650 02 KARLSTAD, tfn 08-606 00 00
 
 <!-- sida 90 -->
+
+20
+
+24
+
+32
+
+Datum
+
+FRILLESÅS-RYA
+
+2:124>1
+
+FRILLESÅS-RYA
+
+FRILLESÅS-RYA
+
+2:132>1
+
+FRILLESÅS-RYA
+
+2:133>1
+
+FRILLESÅS-RYA
+
+2:135> 14
+
+OLantmäteriet, via Metria Maps dl dj Fru
+
+Teckenförklaring Projekt: Boställets väg Skala Koordinatsystem Blad / Format
+
+Projektid: SA727 37047 SWEREF99 TM
+
+== + Lsp kabel Kommun: KUNGSBACKA 1:500 A4
+
+Koordinater: 330396E, 6356158N Avdelning Konstruerad av
+
+GS-ES5 AEG18
+
+2024-03-28 == INS
 
 <!-- sida 91 -->
 

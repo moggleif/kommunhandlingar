@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4df3e2dd19250eca9472b7de/1728052389
 sha256: b79b3566d35f515c58585b89b813584eb644d5cc14d0c8696697dcd3b4f90e74
 bytes: 36008688
 sidor: 159
-hamtad: 2026-10-25T06:44:46+00:00
-konverterad: 2026-10-25T06:46:00+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T11:07:41+00:00
+konverterad: 2026-11-09T11:09:05+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -171,7 +171,6 @@ Begäran  om planbesked för Åsa 4:2 och Åsa 4:28 i Åsa.
 
 Ansökan om planbesked
 
-ör
 Åsa 4:2 & 4:28
 Kaminsk . .
 RN 24/06/10 | PLANBESKED | BOSTÄDER | ÅSA KUNGSBACKA | A3 JARO JERTIED NING
@@ -5009,7 +5008,7 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 671EDC200B8BB1849DA97F79E11B804AF6B738BE31
-Transaktionsidentitet: D0146B643FE3098385538319E0968112B4DEBA9BDF
+Transaktionsidentitet: DO146B643FE3098385538319E0968112B4DEBA9BDF
 
 <!-- sida 129 -->
 

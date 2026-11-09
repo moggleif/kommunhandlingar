@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.39e904a19684f673c12eb1d/17461794278
 sha256: 28bfe7ebb6a6bc69bc622c358d2c02b97ebc661b4b0e80a5843806d3e17bbc86
 bytes: 21521226
 sidor: 140
-hamtad: 2026-10-25T07:34:24+00:00
-konverterad: 2026-10-25T07:39:05+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:05:10+00:00
+konverterad: 2026-11-09T12:10:01+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok]
@@ -476,7 +476,6 @@ bestämmelserna om upplåtelse av offentlig plats tillämpas. Tillstånd ska sö
 polisen och avgift utgår enligt särskild taxa. Tillståndsfrågan hanteras i detta fall av
 
 Teknik.
-\=
 
 <!-- sida 12 -->
 
@@ -686,7 +685,6 @@ Samhällsbyggnadskontoret avseende utförande av teknisk granskning, byggledning
 projektledning, deltagande på möten m.m. Kostnaden för personalens tid debiteras
 
 enligt gällande kommunala taxor.
-\=
 
 <!-- sida 15 -->
 
@@ -811,7 +809,6 @@ borttagen. En arkeologisk förundersökning har också genomförts inom den väs
 delen av Planområdet. Länsstyrelsen i Halland har meddelat slutbesked. I beskedet
 konstateras att inget hinder längre föreligger ur arkeologisk synpunkt att det
 arkeologiskt förundersökta området tas i anspråk för avsett ändamål.
-\=
 
 <!-- sida 17 -->
 
@@ -2060,40 +2057,32 @@ Grund för uttalanden
 Vi har utfört revisionen enligt Standard för kommunal räkenskapsrevision. Vårt ansvar enligt dessa standarder beskrivs närmare i avsnittet
 Revisorns ansvar. Uppdraget är utfört utifrån opartiskhet och självständighet i förhållande till förbundet.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som grund för våra uttalanden.
+
 Styrelsens ansvar
-Det är styrelsen som har ansvaret för att årsredovisningen upprättas Styrelsen ansvarar även för den interna kontroll som den bedömer är
-och att den ger en rättvisande bild enligt lagen om kommunal bokfö­ nödvändig för att upprätta en årsredovisning som inte innehåller
-ring och redovisning.               några väsentliga felaktigheter, vare sig dessa beror på oegentlig­
-heter eller misstag.
+Det är styrelsen som har ansvaret för att årsredovisningen upprättas
+och att den ger en rättvisande bild enligt lagen om kommunal bokfö­
+ring och redovisning.
 Revisorns ansvar
 Våra mål är att uppnå en rimlig grad av säkerhet om huruvida årsre­
-skaffar vi oss en förståelse av den del av förbundets interna
 dovisningens balansräkning, resultaträkning, driftredovisning samt
-kontroll som har betydelse för vår revision för att utforma
 noter inte innehåller några väsentliga felaktigheter, vare sig dessa
-granskningsåtgärder som är lämpliga med hänsyn till omstän­
 beror på oegentligheter eller misstag, och att lämna en revisionsbe­
-digheterna, men inte för att uttala oss om effektiviteten i den in­
 rättelse som innehåller våra uttalanden. Rimlig säkerhet är en hög
-terna kontrollen.
 grad av säkerhet, men är ingen garanti för att en revision som utförs
-enligt Standard för kommunal räkenskapsrevision alltid kommer att utvärderar vi lämpligheten i de redovisningsprinciper som an­
-upptäcka en väsentlig felaktighet om en sådan finns. Felaktigheter vänds och rimligheten i styrelsens uppskattningar i redovis­
-kan uppstå på grund av oegentligheter eller misstag och anses vara ningen och tillhörande upplysningar.
+enligt Standard för kommunal räkenskapsrevision alltid kommer att
+upptäcka en väsentlig felaktighet om en sådan finns. Felaktigheter
+kan uppstå på grund av oegentligheter eller misstag och anses vara
 väsentliga om de enskilt eller tillsammans rimligen kan förväntas på­
-verka de ekonomiska beslut som användare fattar med grund i ovan utvärderar vi den övergripande presentationen, strukturen och
-nämnda delar av årsredovisningen.     innehållet i årsredovisningens balansräkning, resultaträkning,
-driftredovisning samt noter, däribland upplysningarna, och om
+verka de ekonomiska beslut som användare fattar med grund i ovan
+nämnda delar av årsredovisningen.
 Som del av en revision enligt Standard för kommunal räkenskapsre­
-årsredovisningen återger de underliggande transaktionerna och
 vision använder vi professionellt omdöme och har en professionellt
-händelserna på ett sätt som ger en rättvisande bild.
 skeptisk inställning under hela revisionen. Dessutom:
-identifierar och bedömer vi riskerna för väsentliga felaktigheter i måste vi informera styrelsen om bland annat revisionens plane­
-årsredovisningens balansräkning, resultaträkning, driftredovis­ rade omfattning och inriktning samt tidpunkten för den. Vi måste
-ning samt noter, vare sig dessa beror på oegentligheter eller också informera om betydelsefulla iakttagelser under revis­
-misstag, utformar och utför granskningsåtgärder bland annat ut­ ionen, däribland de eventuella betydande brister i den interna
-ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga kontrollen som vi identifierat.
+identifierar och bedömer vi riskerna för väsentliga felaktigheter i
+årsredovisningens balansräkning, resultaträkning, driftredovis­
+ning samt noter, vare sig dessa beror på oegentligheter eller
+misstag, utformar och utför granskningsåtgärder bland annat ut­
+ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga
 och ändamålsenliga för att utgöra en grund för våra uttalanden.
 Risken för att inte upptäcka en väsentlig felaktighet till följd av
 oegentligheter är högre än för en väsentlig felaktighet som be­
@@ -2101,15 +2090,47 @@ ror på misstag, eftersom oegentligheter kan innefatta agerande
 i maskopi, förfalskning, avsiktliga utelämnanden, felaktig inform­
 ation eller åsidosättande av intern kontroll.
 Revisorns granskning av förvaltningsberättelsen
-Del är styrelsen som har ansvaret för förvaltningsberättelsen och de Detta innebär att vår granskning av förvaltningsberättelsen har en
-sammanställda räkenskaperna och att dessa upprättas i enlighet annan inriktning och mindre omfattning jämfört med den inriktning
-med LKBR. Vår granskning har skett enligt "Instruktion för gransk­ och omfattning som en revision enligt Standard för kommunal räken­
-ning av förvaltningsberättelse" i Standard för kommunal räkenskaps­ skapsrevision har. Vi anser att denna granskning ger oss tillräcklig
-revision.                           grund för våra uttalanden.
+Del är styrelsen som har ansvaret för förvaltningsberättelsen och de
+sammanställda räkenskaperna och att dessa upprättas i enlighet
+med LKBR. Vår granskning har skett enligt "Instruktion för gransk­
+ning av förvaltningsberättelse" i Standard för kommunal räkenskaps­
+revision.
+
+Styrelsen ansvarar även för den interna kontroll som den bedömer är
+nödvändig för att upprätta en årsredovisning som inte innehåller
+några väsentliga felaktigheter, vare sig dessa beror på oegentlig­
+heter eller misstag.
+
+skaffar vi oss en förståelse av den del av förbundets interna
+kontroll som har betydelse för vår revision för att utforma
+granskningsåtgärder som är lämpliga med hänsyn till omstän­
+digheterna, men inte för att uttala oss om effektiviteten i den in­
+terna kontrollen.
+utvärderar vi lämpligheten i de redovisningsprinciper som an­
+vänds och rimligheten i styrelsens uppskattningar i redovis­
+ningen och tillhörande upplysningar.
+utvärderar vi den övergripande presentationen, strukturen och
+innehållet i årsredovisningens balansräkning, resultaträkning,
+driftredovisning samt noter, däribland upplysningarna, och om
+årsredovisningen återger de underliggande transaktionerna och
+händelserna på ett sätt som ger en rättvisande bild.
+måste vi informera styrelsen om bland annat revisionens plane­
+rade omfattning och inriktning samt tidpunkten för den. Vi måste
+också informera om betydelsefulla iakttagelser under revis­
+ionen, däribland de eventuella betydande brister i den interna
+kontrollen som vi identifierat.
+
+Detta innebär att vår granskning av förvaltningsberättelsen har en
+annan inriktning och mindre omfattning jämfört med den inriktning
+och omfattning som en revision enligt Standard för kommunal räken­
+skapsrevision har. Vi anser att denna granskning ger oss tillräcklig
+grund för våra uttalanden.
 En förvaltningsberättelse har upprättats i enlighet med LKBR.
+
 1
 Med anpassning till de specifika förutsättningar som föreligger i ett finansiellt samordningsförbund. Främst att rapporten inte avges av "sak­
 kunnigt biträde" eller ställts till "de förtroendevalda revisorerna".
+
 Revisionsberättelse Samordningsförbundet Halland, org. nr 222000-2857, 2024 1 (2)
 
 <!-- sida 49 -->
@@ -2493,29 +2514,50 @@ I en tid där förändringar sker allt snabbare krävs ett tydligt fokus på utv
 vi vår roll som både innovatörer och förvaltare av en hållbar framtid. Våra medarbetare är hjärtat i vår verksamhet, och vi
 vill skapa en miljö där de känner sig delaktiga och inspirerade. Målarbetet är vårt verktyg för att skapa riktning, stärka vår
 värdegrund och se till att vi tillsammans når våra mål.
-Måluppbyggnad                   Trots att det ekonomiska resultatet är något lägre jäm-
-För att vårt målarbete ska fungera behövs en tydlig röd fört med föregående år känner vi stolthet över vad vi har
-tråd – från kommunens ägardirektiv hela vägen ner till åstadkommit. Vår starka ekonomiska grund, kombinerad
-handlingsplaner på individ- och avdelningsnivå. Processen med höga nöjdhetssiffror från våra hyresgäster, har skapat
-börjar med att styrelsen tar fram övergripande mål och en en trygg och motiverad organisation som vågar fortsätta
-affärsplan utifrån ägardirektiven och vår vision. Därefter utvecklas. Vi har också lärt oss mycket under året. Vi är öd-
-formulerar ledningsgruppen fokusområden som ligger mjuka inför de utmaningar som kommer med omvärldsfak-
-till grund för våra bolagsmål. De övergripande målen ger torer vi inte kan påverka, men vi har blivit bättre på att möta
-riktningen för hela verksamheten, och utifrån dessa skapar dem och på att stötta våra hyresgäster i en svår tid.
+
+Måluppbyggnad
+För att vårt målarbete ska fungera behövs en tydlig röd
+tråd – från kommunens ägardirektiv hela vägen ner till
+handlingsplaner på individ- och avdelningsnivå. Processen
+börjar med att styrelsen tar fram övergripande mål och en
+affärsplan utifrån ägardirektiven och vår vision. Därefter
+formulerar ledningsgruppen fokusområden som ligger
+till grund för våra bolagsmål. De övergripande målen ger
+riktningen för hela verksamheten, och utifrån dessa skapar
 varje avdelning sina egna mål och handlingsplaner. Genom
-detta arbetssätt säkerställer vi att målen får en direkt påver- Kommande målperiod 2025 - Året vi gör skillnad
-kan på verksamheten och att vi kan mäta eller stämma av För att ytterligare stärka vårt målarbete har vi valt att korta
-förändringar löpande.           ner nästa målperiod till ett år. Genom att arbeta med kortare
-målperioder blir det lättare att parera förändringar i omvärl-
-Att arbeta med målarbetet på det här sättet ger våra med- den och snabbare kunna anpassa verksamheten.
+detta arbetssätt säkerställer vi att målen får en direkt påver-
+kan på verksamheten och att vi kan mäta eller stämma av
+förändringar löpande.
+Att arbeta med målarbetet på det här sättet ger våra med-
 arbetare insikt i hela verksamheten och ökar förståelsen för
-varandras arbetsuppgifter. Genom att göra målen konkreta Vårt fokus för 2025 kommer att ligga på:
+varandras arbetsuppgifter. Genom att göra målen konkreta
 och närvarande i vardagen stärker vi vår kultur som en
-lärande organisation. Vår värdegrund är en viktig del av Att ytterligare konkretisera målarbetet och förankra det
-målarbetet. Den speglar hur vi ska agera mot varandra, våra bättre i hela organisationen.
+lärande organisation. Vår värdegrund är en viktig del av
+målarbetet. Den speglar hur vi ska agera mot varandra, våra
 hyresgäster och våra samarbetspartners. En stabil värde-
-grund skapar trygghet och trivsel på arbetsplatsen, och det Att skapa ett än mer lättillgängligt och levande målarbete
-är något vi alla måste bidra till dagligen. som känns relevant och aktuellt för alla medarbetare.
+grund skapar trygghet och trivsel på arbetsplatsen, och det
+är något vi alla måste bidra till dagligen.
+
+Trots att det ekonomiska resultatet är något lägre jäm-
+fört med föregående år känner vi stolthet över vad vi har
+åstadkommit. Vår starka ekonomiska grund, kombinerad
+med höga nöjdhetssiffror från våra hyresgäster, har skapat
+en trygg och motiverad organisation som vågar fortsätta
+utvecklas. Vi har också lärt oss mycket under året. Vi är öd-
+mjuka inför de utmaningar som kommer med omvärldsfak-
+torer vi inte kan påverka, men vi har blivit bättre på att möta
+dem och på att stötta våra hyresgäster i en svår tid.
+Kommande målperiod 2025 - Året vi gör skillnad
+För att ytterligare stärka vårt målarbete har vi valt att korta
+ner nästa målperiod till ett år. Genom att arbeta med kortare
+målperioder blir det lättare att parera förändringar i omvärl-
+den och snabbare kunna anpassa verksamheten.
+Vårt fokus för 2025 kommer att ligga på:
+Att ytterligare konkretisera målarbetet och förankra det
+bättre i hela organisationen.
+Att skapa ett än mer lättillgängligt och levande målarbete
+som känns relevant och aktuellt för alla medarbetare.
+
 Avslutad målperiod 2024-12-31   Att fortsätta utveckla vårt arbete med innovation och håll-
 Den avslutade målperioden som varat under 2023 - 2024 barhet, samtidigt som vi värnar om vår värdegrund och våra
 visar att vi haft hög måluppfyllnad inom våra prioriterade hyresgästers behov.
@@ -2523,6 +2565,7 @@ områden: innovation, utveckling, värdegrund och ekono-
 misk lönsamhet. Under året har vi haft ett starkt fokus på att Vi är redo att göra 2025 till året där vi verkligen gör skillnad
 stärka vår innovationsförmåga och att vårda vår gemensam- – både för våra medarbetare och för våra hyresgäster.
 ma värdegrund.
+
 FRÅN ÄGARE TILL MEDARBETARE
 
 8
@@ -2530,32 +2573,52 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 60 -->
 
+EKONOMI
+
+Vi skall verka för bolagets långsiktiga
+ekonomiska tillväxt
+Vi skall hushålla med bolagets resur-
+ser och förbättra bolagets driftnetto
+Vi skall växa och utvecklas i takt med
+efterfrågan på hyresrätter genom
+aktiv nyproduktion i Kungsbackas
+samtliga delar
+
+Målperiod 2025
+Året vi gör skillnad på riktigt för
+våra hyresgäster och för oss själva
+
 VÅRT MÅLARBETE
 
 EKSTA MÅLARBETE 2025
 
-EKONOMI                 KVALITET               HÅLLBARHET
-Vi skall verka för bolagets långsiktiga Vi skall verka för att stärka hyresrätten Vi skall verka för en minimerad
-ekonomiska tillväxt    som upplåtelseform       klimatpåverkan
+KVALITET
 
-Vi skall hushålla med bolagets resur- Vårt samverkande arbetssätt skall ge Vi skall vara en långsiktig
-ser och förbättra bolagets driftnetto fler helnöjda hyresgäster/kunder fastighetsförvaltare
-Vi skall växa och utvecklas i takt med Vi skall stärka vårt varumärke Vi skall vara ledande i arbetet för en
-efterfrågan på hyresrätter genom                 hållbar energiproduktion och
-aktiv nyproduktion i Kungsbackas Vårt arbetssätt skall kvalitets- energianvändning
-samtliga delar     och värdesäkra våra fastigheter
+Vi skall verka för att stärka hyresrätten
+som upplåtelseform
+Vårt samverkande arbetssätt skall ge
+fler helnöjda hyresgäster/kunder
+Vi skall stärka vårt varumärke
+
+Vårt arbetssätt skall kvalitets-
+och värdesäkra våra fastigheter
+
+HÅLLBARHET
+
+Vi skall verka för en minimerad
+klimatpåverkan
+Vi skall vara en långsiktig
+fastighetsförvaltare
+Vi skall vara ledande i arbetet för en
+hållbar energiproduktion och
+energianvändning
 Vårt arbetssätt skall ge en minskad
 energianvändning
 Vårt arbetssätt skall främja utveckling
 genom ökat intresse, nytänkande och
 innovation
 
-Målperiod 2025
-Året vi gör skillnad på riktigt för
-våra hyresgäster och för oss själva
-
 ”Vi vill alltid bli bättre och är inte rädda
-
 för att testa nya lösningar”
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 9
@@ -2569,41 +2632,71 @@ hållbarhet           för    eksta
 
 För oss på Eksta är hållbarhet inte bara en ambition utan en grundläggande del av vår verksamhet. Med utgångspunkt i
 långsiktigt ansvarstagande och en helhetssyn strävar vi efter att bidra till en hållbar utveckling varje dag.
-Vårt hållbarhetsarbete          Intressenter och väsentlighetsanalys
-Eksta har en tydlig vision om ett hållbart fastighetsägande En viktig del av vårt hållbarhetsarbete är att förstå vilka frå-
-och en grönare framtid genom förnybar energiproduktion. gor som är mest betydelsefulla för våra intressenter. Under
-Hållbarhetsarbetet är integrerat i bolagets övergripande året har vi tillsammans med övriga bolag i programmet
-verksamhetsstyrning genom policys, strategier, målarbete påbörjat arbetet med att identifiera vår värdekedja och våra
-och handlingsplaner och har pågått under hela 2024. I tider viktigaste intressenter. Detta arbete kommer att leda till en
-av ekonomisk osäkerhet blir det ännu viktigare att hålla fast uppdaterad väsentlighetsanalys, som sätter riktningen för
-vid våra hållbarhetsmål. Vi värnar om kvalitet, trygghet och vårt fortsatta hållbarhetsarbete.
+
+Vårt hållbarhetsarbete
+Eksta har en tydlig vision om ett hållbart fastighetsägande
+och en grönare framtid genom förnybar energiproduktion.
+Hållbarhetsarbetet är integrerat i bolagets övergripande
+verksamhetsstyrning genom policys, strategier, målarbete
+och handlingsplaner och har pågått under hela 2024. I tider
+av ekonomisk osäkerhet blir det ännu viktigare att hålla fast
+vid våra hållbarhetsmål. Vi värnar om kvalitet, trygghet och
 effektiv resursanvändning – grundpelare som vi aldrig kom-
-promissar med för kortsiktiga ekonomiska vinster. Vårt mål Våra hyresgäster är våra viktigaste intressenter. Deras trivsel
-är att ha nöjda hyresgäster, engagerade medarbetare och och trygghet står i centrum för allt vi gör. Men även vår
-en tillfredsställd ägare, samtidigt som vi bidrar till Kungs- ägare, våra medarbetare och samarbetspartners spelar
-backas positiva utveckling. Bra bostäder är alltid efterfrå- avgörande roller i vår verksamhet. Vi bygger våra intressent-
-gade, och vad som definierar en god bostad förändras över relationer på samverkan och dialog för att skapa ett hållbart
-tid. Därför arbetar vi med ett långsiktigt perspektiv för att utbyte där alla parter gynnas.
+promissar med för kortsiktiga ekonomiska vinster. Vårt mål
+är att ha nöjda hyresgäster, engagerade medarbetare och
+en tillfredsställd ägare, samtidigt som vi bidrar till Kungs-
+backas positiva utveckling. Bra bostäder är alltid efterfrå-
+gade, och vad som definierar en god bostad förändras över
+tid. Därför arbetar vi med ett långsiktigt perspektiv för att
 skapa värde både idag och i framtiden.
-Under året har vi fördjupat oss i de hållbarhetsfrågor som
-Kommande hållbarhetsrapportering är mest väsentliga för både oss och våra intressenter. Med
-Vi är väl medvetna om att hållbarhetsredovisningen för- denna grund kommer vi att fortsätta fokusera på frågor som
-ändras i och med den nya EU-lagen CSRD som börjar gälla vi kan påverka mest, särskilt inom områdena kundnöjdhet,
-2024\. Trots att vi ännu inte vet när vi kommer att omfattas medarbetare och klimatpåverkan. Vår uppdaterade vä-
-av de nya rapporteringskraven har vi redan börjat förbereda sentlighetsanalys kommer att vara ett viktigt verktyg i detta
-oss genom att höja vår interna kompetens och anpassa våra arbete och säkerställa att vi håller fokus på rätt områden.
+Kommande hållbarhetsrapportering
+Vi är väl medvetna om att hållbarhetsredovisningen för-
+ändras i och med den nya EU-lagen CSRD som börjar gälla
+2024\. Trots att vi ännu inte vet när vi kommer att omfattas
+av de nya rapporteringskraven har vi redan börjat förbereda
+oss genom att höja vår interna kompetens och anpassa våra
 processer. Under året har vi fortsatt och avslutat utbildning-
-en ”Mer än rapportering” som arrangerades av Sveriges All- Ekstas hållbarhetsarbete handlar om att varje dag ta ansvar
-männytta, vilket har gett oss värdefulla insikter och verktyg för framtiden. Genom att göra medvetna val och ständigt
-för att stärka vårt hållbarhetsarbete. Eftersom omfattnings- utveckla våra metoder och processer kan vi fortsätta skapa
-kraven förändrades under året har vi nu längre tid på oss att en bättre framtid för våra hyresgäster, medarbetare och
-säkerställa att våra processer håller hög kvalitet och följer hela samhället.
+en ”Mer än rapportering” som arrangerades av Sveriges All-
+männytta, vilket har gett oss värdefulla insikter och verktyg
+för att stärka vårt hållbarhetsarbete. Eftersom omfattnings-
+kraven förändrades under året har vi nu längre tid på oss att
+säkerställa att våra processer håller hög kvalitet och följer
 de nya direktiven. Vi ser också vikten av samverkan med
 andra bolag och vår branschorganisation Sveriges Allmän-
-nytta för att möta de kommande utmaningarna. Vi tar ansvar för framtiden
+nytta för att möta de kommande utmaningarna.
+
+Intressenter och väsentlighetsanalys
+En viktig del av vårt hållbarhetsarbete är att förstå vilka frå-
+gor som är mest betydelsefulla för våra intressenter. Under
+året har vi tillsammans med övriga bolag i programmet
+påbörjat arbetet med att identifiera vår värdekedja och våra
+viktigaste intressenter. Detta arbete kommer att leda till en
+uppdaterad väsentlighetsanalys, som sätter riktningen för
+vårt fortsatta hållbarhetsarbete.
+Våra hyresgäster är våra viktigaste intressenter. Deras trivsel
+och trygghet står i centrum för allt vi gör. Men även vår
+ägare, våra medarbetare och samarbetspartners spelar
+avgörande roller i vår verksamhet. Vi bygger våra intressent-
+relationer på samverkan och dialog för att skapa ett hållbart
+utbyte där alla parter gynnas.
+Under året har vi fördjupat oss i de hållbarhetsfrågor som
+är mest väsentliga för både oss och våra intressenter. Med
+denna grund kommer vi att fortsätta fokusera på frågor som
+vi kan påverka mest, särskilt inom områdena kundnöjdhet,
+medarbetare och klimatpåverkan. Vår uppdaterade vä-
+sentlighetsanalys kommer att vara ett viktigt verktyg i detta
+arbete och säkerställa att vi håller fokus på rätt områden.
+Ekstas hållbarhetsarbete handlar om att varje dag ta ansvar
+för framtiden. Genom att göra medvetna val och ständigt
+utveckla våra metoder och processer kan vi fortsätta skapa
+en bättre framtid för våra hyresgäster, medarbetare och
+hela samhället.
+Vi tar ansvar för framtiden
 och värnar om kvalitet, trygghet
 och effektiv resursanvändning.
+
 HÅLLBARHET
+
 Vi skall verka för en minimerad
 klimatpåverkan
 Vi skall vara en långsiktig
@@ -2983,8 +3076,6 @@ och stärka den.
 
 <
 
-\- At
-
 Pra introduktion [.
 ger bra förutsättningar. EmIl började hos oss
 
@@ -3028,7 +3119,7 @@ bygga och bemöta situationer där det finns risk för hot och
 våld. Nya medarbetare medverkar exempelvis på kursen
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024
-Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ———
+Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ——
 
 <!-- sida 67 -->
 
@@ -3174,53 +3265,85 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 SOCIAL HÅLLBARHET
 
-Vi ser ett behov av och planerar för att under nästkomman- samråder kring arbetsmiljöfrågor. Vi strävar ständigt efter
-de år implementera ett övergripande HR-system, detta för att förbättra arbetsmiljön i det dagliga arbetet och utvär-
-en mer samlad dokumentation, säker personuppgiftshan- derar tillbud för att minska riskerna. För att säkerställa en
-tering och effektivare HR-processer. Andra uppsidor torde god arbetsmiljö är ett aktivt och gemensamt engagemang
-bli en förbättrad kommunikation via ett användarvänligt nödvändigt för att förebygga framtida risker och arbets-
-system med ökad medarbetarnöjdhet som följd samt en skador. Anmälda och åtgärdade tillbud och arbetsskador
-möjlighet att kunna få bättre statistik som stöd för rapporte- rapporteras enligt vår Checklista vid olycksfall och tillbud.
-ring och en god strategisk personalplanering. Vi påminner regelbundet våra medarbetare om vikten av att
-rapportera tillbud, då detta ibland kan glömmas bort i det
-En väg in i fastighetsbranschen: Prao, praktik och dagliga arbetet.
+Vi ser ett behov av och planerar för att under nästkomman-
+de år implementera ett övergripande HR-system, detta för
+en mer samlad dokumentation, säker personuppgiftshan-
+tering och effektivare HR-processer. Andra uppsidor torde
+bli en förbättrad kommunikation via ett användarvänligt
+system med ökad medarbetarnöjdhet som följd samt en
+möjlighet att kunna få bättre statistik som stöd för rapporte-
+ring och en god strategisk personalplanering.
+En väg in i fastighetsbranschen: Prao, praktik och
 sommarjobb
-Ett bra sätt att väcka intresse för vår verksamhet och Friskvård
-bransch är genom att erbjuda ungdomar och studerande Vi arbetar aktivt med förebyggande och hälsofrämjande
-möjligheter till prao, praktik och sommarjobb. Vi deltar insatser för att främja medarbetarnas välmående. Fruktkor-
-också aktivt på mässor samt i arrangemang anordnade av gar levereras till våra olika arbetsställen och varje fredag
-bransch- och utbildningssamordnare. Fastighetsbranschen samlas vi för en gemensam frukost inom våra avdelningar.
-har en hög medelålder och står inför många pensionsav- En trevlig och viktig stund för att stärka vår sammanhållning
-gångar framöver, vilket gör att det är extra viktigt att mark- och gemenskap.
+Ett bra sätt att väcka intresse för vår verksamhet och
+bransch är genom att erbjuda ungdomar och studerande
+möjligheter till prao, praktik och sommarjobb. Vi deltar
+också aktivt på mässor samt i arrangemang anordnade av
+bransch- och utbildningssamordnare. Fastighetsbranschen
+har en hög medelålder och står inför många pensionsav-
+gångar framöver, vilket gör att det är extra viktigt att mark-
 nadsföra oss och locka unga talanger till vår verksamhet.
-Vi erbjuder ett generöst friskvårdsbidrag som ger våra
-Under året har flera ungdomar från högstadiet och gymna- medarbetare möjlighet att välja de aktiviteter som de bäst
-siet haft prao hos oss. Under sommaren erbjöd vi 16 ung- anser främja ett friskare och mer hälsosamt liv. Dessutom
-domar mellan 16 och 20 år möjligheten att prova på arbete kan medarbetarna leasa en personalcykel för att underlätta
-inom fastighetsbranschen. Vi har även haft tre studenter på aktiv transport. Vi är medvetna om att både stillasittande
-längre praktikperioder under året. Den ena av dem avslu- och fysiskt krävande arbeten kan påverka hälsan nega-
-tade sin utbildning tidigt på våren och vi var glada över att tivt, särskilt när det gäller rygg och nacke. Därför har vi en
-kunna erbjuda anställning när en tjänst blev ledig. En annan legitimerad massör/osteopat som besöker oss en gång i
-fick sommarjobb efter sin praktik. Att ta emot studenter un- månaden och erbjuder massage till ett förmånligt pris. Vår
-der deras praktikperioder är ett utmärkt sätt att lära känna företagshälsovård genomför hälsokontroller och ger då
-varandra. Studenten får en inblick i arbetsuppgifterna inom även individuella råd om hur man kan förbättra sin hälsa.
+Under året har flera ungdomar från högstadiet och gymna-
+siet haft prao hos oss. Under sommaren erbjöd vi 16 ung-
+domar mellan 16 och 20 år möjligheten att prova på arbete
+inom fastighetsbranschen. Vi har även haft tre studenter på
+längre praktikperioder under året. Den ena av dem avslu-
+tade sin utbildning tidigt på våren och vi var glada över att
+kunna erbjuda anställning när en tjänst blev ledig. En annan
+fick sommarjobb efter sin praktik. Att ta emot studenter un-
+der deras praktikperioder är ett utmärkt sätt att lära känna
+varandra. Studenten får en inblick i arbetsuppgifterna inom
 yrket och vi får möjlighet att se om vi passar bra ihop inför
-en eventuell framtida anställning. Vår friskvårdsgrupp arrangerar trevliga gemensamma
-aktiviteter ett par gånger om året. Även bolaget ordnar olika
-Arbetsmiljö                     evenemang som främjar både hälsa och gemenskap bland
-Vi arbetar i enlighet med våra personalpolicyer och följer personalen.
+en eventuell framtida anställning.
+Arbetsmiljö
+Vi arbetar i enlighet med våra personalpolicyer och följer
 ett systematiskt arbetsmiljöarbete som löper kontinuerligt.
 I detta arbete beaktas både fysiska, psykiska, sociala och
 organisatoriska aspekter. Uppföljning sker genom årliga
 skyddsronder, och vår skyddskommitté diskuterar och
+
+18
+Transaktion 09222115557540214944
+
+samråder kring arbetsmiljöfrågor. Vi strävar ständigt efter
+att förbättra arbetsmiljön i det dagliga arbetet och utvär-
+derar tillbud för att minska riskerna. För att säkerställa en
+god arbetsmiljö är ett aktivt och gemensamt engagemang
+nödvändigt för att förebygga framtida risker och arbets-
+skador. Anmälda och åtgärdade tillbud och arbetsskador
+rapporteras enligt vår Checklista vid olycksfall och tillbud.
+Vi påminner regelbundet våra medarbetare om vikten av att
+rapportera tillbud, då detta ibland kan glömmas bort i det
+dagliga arbetet.
+Friskvård
+Vi arbetar aktivt med förebyggande och hälsofrämjande
+insatser för att främja medarbetarnas välmående. Fruktkor-
+gar levereras till våra olika arbetsställen och varje fredag
+samlas vi för en gemensam frukost inom våra avdelningar.
+En trevlig och viktig stund för att stärka vår sammanhållning
+och gemenskap.
+Vi erbjuder ett generöst friskvårdsbidrag som ger våra
+medarbetare möjlighet att välja de aktiviteter som de bäst
+anser främja ett friskare och mer hälsosamt liv. Dessutom
+kan medarbetarna leasa en personalcykel för att underlätta
+aktiv transport. Vi är medvetna om att både stillasittande
+och fysiskt krävande arbeten kan påverka hälsan nega-
+tivt, särskilt när det gäller rygg och nacke. Därför har vi en
+legitimerad massör/osteopat som besöker oss en gång i
+månaden och erbjuder massage till ett förmånligt pris. Vår
+företagshälsovård genomför hälsokontroller och ger då
+även individuella råd om hur man kan förbättra sin hälsa.
+Vår friskvårdsgrupp arrangerar trevliga gemensamma
+aktiviteter ett par gånger om året. Även bolaget ordnar olika
+evenemang som främjar både hälsa och gemenskap bland
+personalen.
 
 Friskvårdsaktiviteter
 är en viktig del som främjar hälsa och
 gemenskap. Vi har bland annat spelat
 discgolf i Kungsbackaskogen.
 
-18
-Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 70 -->
 
@@ -3239,7 +3362,7 @@ en succé. Därför var det en självklarhet att ha ett till
 ännu större och vi hade 150 besökare under dagen.
 Syftet var att visa upp huset för nyfikna besökare och
 
-berätta om boendekonceptet med fokus på trygg- | nn I
+berätta om boendekonceptet med fokus på trygg- | I
 het, gemenskap och aktivitet. ad JINGE
 
 Mängden besökare är ett bevis på att trygghetsbo- Lagt EN
@@ -3272,7 +3395,7 @@ a 2 bade era ag I Å
 man
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024
-Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ———
+Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ——
 
 19
 
@@ -3483,47 +3606,85 @@ SOCIAL HÅLLBARHET
 
 utvecklingen     framåt
 
-Kungsbacka är en populär plats att bo och verka i. Närhe- utfört fasad- och takbyte i Fjärås centrum Rajgräsvägen
-ten till natur, hav och sjö kombinerat med en tydlig fram- 3-9, byte av förrådsdörrar på Rajgräsvägen 22-26, utvändig
-åtanda och trygghet gör att många väljer att bosätta sig målning på Gnejsvägen 65 & 75 och Lars Runebergs gata
-här. Vi är glada att kunna erbjuda bostäder i hela kommu- 1-77, upprustning av utemiljön på Fjärås Blåklintsväg 2 och
-nen och vi vågar säga att vi har bostäder som passar alla. Prästgårdsängens förskola, byte av trapphusbelysning
-Vi är Kungsbackas enda kommunala bostadsbolag och Rosengatan 18-44 och byte av centralt ventilationsaggregat
-vi tar ansvar för att fortsätta bygga och förse kommunen på Kyviksvägen 2.
+Kungsbacka är en populär plats att bo och verka i. Närhe-
+ten till natur, hav och sjö kombinerat med en tydlig fram-
+åtanda och trygghet gör att många väljer att bosätta sig
+här. Vi är glada att kunna erbjuda bostäder i hela kommu-
+nen och vi vågar säga att vi har bostäder som passar alla.
+Vi är Kungsbackas enda kommunala bostadsbolag och
+vi tar ansvar för att fortsätta bygga och förse kommunen
 med hållbara och trivsamma bostäder.
-Nytt underhållsverktyg för långsiktig förvaltning
-Nyproduktion                    Under året har vi investerat i ett nytt digitalt underhålls-
-Under 2023 färdigställdes inga nya lägenheter varför det verktyg. Ett viktigt steg för att säkerställa en långsiktig och
-är extra roligt att vi under 2024 kunde återgå till att förse bra underhållsplanering och skapa förutsättningar för ett
-Kungsbacka med 26 nya hållbara hyresrätter i Frillesås Rya strukturerat arbetssätt. Vi får en bra överblick både när det
-Ängar etapp II. De kraftiga kostnadsökningarna inom bygg- gäller budgetering och hållbar ekonomisk planering för våra
-sektorn har bromsat något men det är fortfarande en ut- fastigheter. Detta är också ett sätt att säkerställa värdet på
-maning att få ihop de ekonomiska kalkylerna för nyproduk- våra fastigheter.
+Nyproduktion
+Under 2023 färdigställdes inga nya lägenheter varför det
+är extra roligt att vi under 2024 kunde återgå till att förse
+Kungsbacka med 26 nya hållbara hyresrätter i Frillesås Rya
+Ängar etapp II. De kraftiga kostnadsökningarna inom bygg-
+sektorn har bromsat något men det är fortfarande en ut-
+maning att få ihop de ekonomiska kalkylerna för nyproduk-
 tionen. I slutet av 2024 påbörjades även Rya Ängar etapp
-III med 10 stadsradhus vilka kommer bli klara för inflyttning Förutsättningar för nyproduktion
-sommaren 2025. I övrigt är en del projekt fortsatt pausade. Det är en lång och krävande process att utveckla råmark
-Förhoppningsvis fortsätter förutsättningarna framöver att bli till färdiga bostäder. Att investera i mark i tidigt skede är
-mer gynnsamma så att vi kan öka nyproduktionstakten och nödvändigt för att vi ska kunna leverera nya bostäder till
-förse Kungsbacka med trivsamma hållbara hyresrätter runt våra kommuninvånare. Flera av våra senaste och pågående
-om i hela kommunen.             byggprojekt är resultat av tidigare strategiska markköp. För
+III med 10 stadsradhus vilka kommer bli klara för inflyttning
+sommaren 2025. I övrigt är en del projekt fortsatt pausade.
+Förhoppningsvis fortsätter förutsättningarna framöver att bli
+mer gynnsamma så att vi kan öka nyproduktionstakten och
+förse Kungsbacka med trivsamma hållbara hyresrätter runt
+om i hela kommunen.
+Renovering av Rosengatan 18–44
+Rosengatan 18–44 byggdes 1969 och är ett av våra största
+områden i centrala Kungsbacka med totalt 115 lägenheter.
+Under 2024 har renoveringen och arbetet med standardhöj-
+ningar invändigt och utvändigt fortsatt med hus B som likt
+hus A också kommer att få ett nytt ventilationsrum uppe på
+taket. Förutom ett nytt ventilationsrum innefattar renove-
+ringen underhållsarbeten och standardhöjande åtgärder i
+form av bland annat avlopp, värmesystem, vattenrör, fönster
+med mera. Projektet beräknas vara klart sommaren 2025.
+Underhåll
+Trots rådande omständigheter har vi kraftigt kunnat öka
+underhållsnivån jämfört med föregående år gentemot
+hyresgästerna invändigt och utvändigt under året, vilket är
+glädjande. Underhållsarbetet har skett löpande och för att
+nämna några större underhållsarbeten har vi bland annat
+
+utfört fasad- och takbyte i Fjärås centrum Rajgräsvägen
+3-9, byte av förrådsdörrar på Rajgräsvägen 22-26, utvändig
+målning på Gnejsvägen 65 & 75 och Lars Runebergs gata
+1-77, upprustning av utemiljön på Fjärås Blåklintsväg 2 och
+Prästgårdsängens förskola, byte av trapphusbelysning
+Rosengatan 18-44 och byte av centralt ventilationsaggregat
+på Kyviksvägen 2.
+Nytt underhållsverktyg för långsiktig förvaltning
+Under året har vi investerat i ett nytt digitalt underhålls-
+verktyg. Ett viktigt steg för att säkerställa en långsiktig och
+bra underhållsplanering och skapa förutsättningar för ett
+strukturerat arbetssätt. Vi får en bra överblick både när det
+gäller budgetering och hållbar ekonomisk planering för våra
+fastigheter. Detta är också ett sätt att säkerställa värdet på
+våra fastigheter.
+Förutsättningar för nyproduktion
+Det är en lång och krävande process att utveckla råmark
+till färdiga bostäder. Att investera i mark i tidigt skede är
+nödvändigt för att vi ska kunna leverera nya bostäder till
+våra kommuninvånare. Flera av våra senaste och pågående
+byggprojekt är resultat av tidigare strategiska markköp. För
 att uppnå kommunala gemensamma mål och kunna tillföra
-Renovering av Rosengatan 18–44  hållbara bostäder i kommunens alla delar krävs det lång-
-Rosengatan 18–44 byggdes 1969 och är ett av våra största siktiga samarbeten med andra byggherrar, markägare och
-områden i centrala Kungsbacka med totalt 115 lägenheter. framför allt krävs det ett bra samarbete med kommunens
-Under 2024 har renoveringen och arbetet med standardhöj- berörda förvaltningar. Under året har ca 6 ha råmark förvär-
-ningar invändigt och utvändigt fortsatt med hus B som likt vats i Onsala som i framtiden kan utvecklas i samband med
-hus A också kommer att få ett nytt ventilationsrum uppe på att nya Onsalavägen byggs. Hyresrätter är eftertraktade i
-taket. Förutom ett nytt ventilationsrum innefattar renove- Kungsbacka, inte bara i centrala kärnan utan i hela kommu-
-ringen underhållsarbeten och standardhöjande åtgärder i nen - något vi hoppas avspeglas i kommande kommunala
-form av bland annat avlopp, värmesystem, vattenrör, fönster planering av bostäder. Den tidigare målsättningen, att fär-
-med mera. Projektet beräknas vara klart sommaren 2025. digställa 75 nya hyresrätter årligen är reviderad nedåt med
+hållbara bostäder i kommunens alla delar krävs det lång-
+siktiga samarbeten med andra byggherrar, markägare och
+framför allt krävs det ett bra samarbete med kommunens
+berörda förvaltningar. Under året har ca 6 ha råmark förvär-
+vats i Onsala som i framtiden kan utvecklas i samband med
+att nya Onsalavägen byggs. Hyresrätter är eftertraktade i
+Kungsbacka, inte bara i centrala kärnan utan i hela kommu-
+nen - något vi hoppas avspeglas i kommande kommunala
+planering av bostäder. Den tidigare målsättningen, att fär-
+digställa 75 nya hyresrätter årligen är reviderad nedåt med
 anledning av de rådande omständigheterna på marknaden.
-Underhåll                       Vi försöker att vara starka, utmanande och engagerade i vår
-Trots rådande omständigheter har vi kraftigt kunnat öka roll som byggherre. För oss är det viktigt att vara med hela
-underhållsnivån jämfört med föregående år gentemot vägen, från början till slut. Upphandling, projektledning och
-hyresgästerna invändigt och utvändigt under året, vilket är kontrollansvar utförs till största del internt av egen personal.
-glädjande. Underhållsarbetet har skett löpande och för att Det leder till ett stort mervärde och säkerställer förvalt-
-nämna några större underhållsarbeten har vi bland annat ningskvaliteten på slutprodukten.
+Vi försöker att vara starka, utmanande och engagerade i vår
+roll som byggherre. För oss är det viktigt att vara med hela
+vägen, från början till slut. Upphandling, projektledning och
+kontrollansvar utförs till största del internt av egen personal.
+Det leder till ett stort mervärde och säkerställer förvalt-
+ningskvaliteten på slutprodukten.
+
 Den 1 juni var
 det inflyttning
 på Rya Ängar
@@ -3534,69 +3695,76 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 74 -->
 
-SOCIAL HÅLLBARHET
-
 Renoverade lokaler på
-kommunvägen         46-58
+
+kommunvägen          46-58
 
 Två gruppbostäder färdigställda
-med totalt 12 lägenheter
 
+med totalt 12 lägenheter
 Kommunvägen byggdes 1986 och här har vi 31
 lägenheter som vi via bostadsförmedlingen hyr
 ut till hyresgäster som fyllt 70 år eller mer.
 Utöver vanliga lägenheter har Kungsbacka
 kommun haft verksamhetslokaler i många år,
 vilka nu har fått en ordentlig renovering och
-Nya kök och vitvaror i samtliga lägenheter
 blivit två gruppbostäder.
-Tekniska lösningar
 Tre helt nya lägenheter med tillhörande samva-
-Förutom alla snickeriarbeten är det mycket att
 roytor har tillskapats och en grundlig renovering
-tänka på och många krav som ska uppfyllas
 med nya ytskick och kök har gjorts på nio lägen-
-så som exempelvis tillgänglighet, bullerskydd,
 heter.
-brandlarm och sprinkler. Något som kräver fo-
 \- Huvudbyggnaden hade tidigare bland annat
-kus och ett bra samarbete för att lyckas med.
 lokaler för hemtjänsten vilka nu byggts om till
-\- Vi har haft ett bra samarbete med alla
 tre nya lägenheter med tillhörande gemensamt
-berörda under hela projektet både ifrån kom-
 samvarorum och kök för boende. I källaren har vi
-munen som skall hyra lokalerna och produk-
 gjort många tekniska anpassningar och på plan
-tionen med entreprenörer mm. Alla måste vara
 tre är rena personalutrymmen, berättar Niklas
-lösningsorienterade och det är extra viktigt att
 Christensson, projektledare på Eksta.
-vi i projektgruppen har en tät dialog. Vi lyfter
-utmaningar tillsammans och kommer fram till
 Hög standard på lägenheterna
-lösningar tillsammans för projektets bästa så
 Lägenheter har omsorgsfullt valda färger och
-det inte ställer till det för någon annan entre-
 toner både såväl i kök, vardagsrum och badrum.
-prenör i nästa skede, säger Niklas.
 Vitvaror i form av diskmaskin och kombinerad
 tvättmaskin och torktumlare finns också i lägen-
-Vi hoppas att våra hyresgäs-
 heterna.
-ter ska trivas bra i sina nya
 \- Det är väldigt trevliga lägenheter som varie-
-lägenheter och gemen-
 rar lite i storlek och planlösning. Det är alltid en
-samhetsutrymmen!
 utmaning att få ihop allt när man bygger om och
 renoverar befintliga lokaler, man får förhålla sig
 och anpassa efter det man har, säger Niklas.
+
 Kommunvägen 46-58
 har fått sig ett ordentligt lyft
 under året
+
+Transaktion 09222115557540214944
+
+SOCIAL HÅLLBARHET
+
+Nya kök och vitvaror i samtliga lägenheter
+
+Tekniska lösningar
+Förutom alla snickeriarbeten är det mycket att
+tänka på och många krav som ska uppfyllas
+så som exempelvis tillgänglighet, bullerskydd,
+brandlarm och sprinkler. Något som kräver fo-
+kus och ett bra samarbete för att lyckas med.
+\- Vi har haft ett bra samarbete med alla
+berörda under hela projektet både ifrån kom-
+munen som skall hyra lokalerna och produk-
+tionen med entreprenörer mm. Alla måste vara
+lösningsorienterade och det är extra viktigt att
+vi i projektgruppen har en tät dialog. Vi lyfter
+utmaningar tillsammans och kommer fram till
+lösningar tillsammans för projektets bästa så
+det inte ställer till det för någon annan entre-
+prenör i nästa skede, säger Niklas.
+Vi hoppas att våra hyresgäs-
+ter ska trivas bra i sina nya
+lägenheter och gemen-
+samhetsutrymmen!
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 23
-Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 75 -->
 
@@ -3785,7 +3953,7 @@ eventuellt fel eller störning finns en oljepanna som back-up.
 Storleken på våra fjärrvärmeanläggningar varierar från 100
 KW till 5 MW. En stor del att få lönsamma system grundas
 
-j att få så många användare som möjligt, både internt och
+i att få så många användare som möjligt, både internt och
 externt. Detta för att utnyttja energin till fullo. En orosfaktor
 är den kraftiga och snabba prisökning på biobränslen, både
 pellets och våtflis vilket i sin tur medför att vi tvingats till
@@ -3803,7 +3971,6 @@ värmningslösningar De lämnar då kanske direktverkande el
 och oljepanna bakom sig och går över till Ekstas miljökloka
 alternativ med sol och biobränsle.
 
-DDR DIA |
 SN
 "Vi hart 20/bieRfänstlbanläggni
 söm var värmeprötiluktionsavdelning
@@ -4198,10 +4365,7 @@ Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 82 -->
 
-EKOLOGISK HÅLLBARHET
-
 Pilotprojekt med kommunen
-
 för att spara onödiga transporter
 
 Vi har moloker installerade i flera av våra områden,
@@ -4225,9 +4389,17 @@ en förlängning kan det bli att vi drar ner på transporterna,
 kostnaderna och miljöpåverkan i stort, säger Jonathan
 Hagrenius, förvaltningschef på Eksta.
 Utöver matavfall och hushållsavfall kommer också pap-
-perskärlen och plastkärlen inne i miljörummen att mätas Sensorer installeras
+perskärlen och plastkärlen inne i miljörummen att mätas
+
+Transaktion 09222115557540214944
+
+EKOLOGISK HÅLLBARHET
+
+Sensorer installeras
 i molokerna för att mäta innehållet.
+
 Hållbar förvaltning i fokus
+
 Hållbart byggande räcker inte – en stor del av mil-
 jöarbetet handlar om att förvalta och optimera våra
 fastigheter. Vi arbetar systematiskt med driftoptimering
@@ -4243,7 +4415,7 @@ ning.
 Totalt har vi 117 undercentraler i våra områden
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 31
-Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 83 -->
 
@@ -4702,7 +4874,7 @@ fastigheter genomgått en värdering på plats. De fastigheter
 som rullande bli besiktigade på plats är utvalda för att få en
 jämn fördelning gällande yta, typ och område mellan åren.
 
-Värderingen baseras på uppgifter kring faktiska hyresavtal
+värderingen baseras på uppgifter kring faktiska hyresavtal
 och erfarenheter av marknadshyror jämte normaliserade
 drift- och underhållskostnader för jämförbara fastigheter
 och tomträtter. Uppgifter om ortspriser utgörs av lagfarna
@@ -5082,16 +5254,27 @@ definitioner nyckeltal
 Fastigheter          Avkastning på eget kapital Soliditet
 färdigställda byggnader plus mark och Resultat efter finansiella poster, i Redovisat eget kapital och obeskattad
 markanläggningar.    förhållande till genomsnittligt eget kapital. reserv i förhållande till balansomslutning.
+
 Lägenhetsyta/lokalyta Driftkostnader      Justerad soliditet
-Uthyrningsbar yta vid årets slut. Driftkostnaderna har justerats för Redovisat eget kapital plus kapitalandelen
-försäljning av hushållsel och extern av obeskattade reserver plus bedömt
-Direktavkastning     värmeförsäljning.    övervärde i fastigheter minskat med
-Rörelseresultat exklusive                 uppskjuten skatt i förhållande till
-avskrivningar i relation till materiella Driftöverskott balansomslutning justerad för övervärdet.
+
+Uthyrningsbar yta vid årets slut. Driftkostnaderna har justerats för
+försäljning av hushållsel och extern
+Direktavkastning     värmeförsäljning.
+Rörelseresultat exklusive
+avskrivningar i relation till materiella Driftöverskott
 anläggningstillgångar. Resultat före avskrivningar och finansiella
-poster.              Kassaflöde exkl. investeringar
+poster.
+
+Redovisat eget kapital plus kapitalandelen
+av obeskattade reserver plus bedömt
+övervärde i fastigheter minskat med
+uppskjuten skatt i förhållande till
+balansomslutning justerad för övervärdet.
+Kassaflöde exkl. investeringar
 Resultat efter finansnetto plus
+
 avskrivningar
+
 40
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
@@ -5429,7 +5612,7 @@ Byggnader
 Årsredovisningen har upprättats enligt årsredovisningsla-
 gen (1995:1554) och BFNAR 2012:1 Årsredovisning och Grund och stomme 100 år
 koncernredovisning (K3).
-Fasader                   50 år
+Fasader                    50 år
 Bedömningar och uppskattningar   Yttertak, fönster och dörrar 40 år
 Alla bedömningar och uppskattningar är i linje med vad
 som är normalt för branschen. Genomförda nedskrivningar VA-system, badrum, köksinredning 40 år
@@ -5438,57 +5621,86 @@ Elinstallationer, ventilation, hissar 40 år
 Intäktsredovisning               Lokalanpassningar          10 år
 Hyror och försäljning
 Intäkterna redovisas till nominellt värde. Övrigt\*         100 år
-Byggnadsinventarier       20 år
+Byggnadsinventarier        20 år
 Tjänste- och entreprenaduppdrag
 Företaget vinstavräknar utförda uppdrag till fast pris när Markanläggningar 50 år
 arbetet är fullgjort. Pågående uppdrag värderas till direkt
 nedlagda utgifter med tillägg för indirekta utgifter samt Markinventarier 20 år
 med avdrag för dellikvider.      Värmeproduktionsanläggningar
-Offentliga bidrag                Byggnader                 100 år
+
+Offentliga bidrag
 Offentliga bidrag intäktsförs när dom erhålls. I de fall
-Produktionsutrustning     40 år
 bidraget är kopplat till en investering i materiella tillgångar
-reducerar bidraget det bokförda värdet. Bränslehanterings-, el-, och styrsystem 20 år
-Låneutgifter                     Värmedistributionsanläggningar
+reducerar bidraget det bokförda värdet.
+Låneutgifter
 Låneutgifter kostnadsförs i den period de uppstår. Avser
-Kulvertar                 50 år
 låneutgifterna finansiering av tillverkning av tillgångar som
-tar betydande tid att färdigställa (exempelvis byggnader) Undercentraler 40 år
+tar betydande tid att färdigställa (exempelvis byggnader)
 räknas låneutgifterna (räntorna) in i anskaffningsvärdet.
-Inventarier                5 år
 Leasing
-\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
 Företaget redovisar leasingavtal som en kostnad linjärt över
-leasingperioden.                Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
-fastigheter till ett värde över 10 mkr.
+leasingperioden.
 Ersättningar till anställda
-Företagets ersättningar innefattar bl.a. löner, betald se- Finansiella instrument
-mester, betald frånvaro, och ersättningar efter avslutad Finansiella instrument värderas utifrån anskaffningsvärdet.
+Företagets ersättningar innefattar bl.a. löner, betald se-
+mester, betald frånvaro, och ersättningar efter avslutad
 anställning i form av pensioner. Redovisning sker i takt med
-intjänandet. Bonus och liknande förkommer ej. Företaget Varulager
-har endast avgiftsbestämda pensionsplaner. Utgifter för Varulagret består av bränslen och är värderat utifrån inköps-
-dessa redovisas som en kostnad under den period de an- priset baserat på senast mottagna fakturor.
+intjänandet. Bonus och liknande förkommer ej. Företaget
+har endast avgiftsbestämda pensionsplaner. Utgifter för
+dessa redovisas som en kostnad under den period de an-
 ställda arbetar.
-Koncernredovisning
-Skatt                           Koncernredovisningen omfattar Tempohus Kungsbacka
-Total skatt utgörs av aktuell skatt och uppskjuten skatt och AB, med organisationsnummer 559151-1349. Koncernredo-
-redovisas i resultaträkningen. Aktuell skatt avser inkomst- visningen är upprättad enligt förvärvsmetoden. Förvärvs-
-skatt för föregående räkenskapsår. Uppskjuten skatt är metoden innebär att koncernens anskaffningsvärden på
-inkomstskatt som avser framtida räkenskapsår till följd av aktier och andelar vid förvärvstidpunkten avräknas mot det
-tidigare händelser. Redovisning sker enligt balansräknings- förvärvade företagets egna kapital inkl. andelen eget kapital
-metoden. Enligt denna redovisas uppskjutna skatteskulder i obeskattade reserver. I koncernens egna kapital ingår här-
-och uppskjutna skattefordringar på temporära skillnader igenom endast den del av dotterbolagets egna kapital som
-som uppstår mellan bokförda och skattemässiga värden för tillkommit efter förvärvet. Vid upprättandet av koncern-
-tillgångar och skulder samt för övriga skattemässiga avdrag balansräkningen har obeskattade reserver uppdelats i två
-eller underskott.               delar, dels uppskjuten skatteskuld vilken redovisas under
-rubriken avsättningar och dels eget kapital. Den uppskjutna
-Anläggningstillgångar           skatteskulden upptas till aktuell skattesats. Därmed redo-
-Materiella och immateriella anläggningstillgångar redovisas visas inga bokslutsdispositioner och obeskattade reserver i
-till anskaffningsvärde minskat med ackumulerade avskriv- koncernredovisningen.
+Skatt
+Total skatt utgörs av aktuell skatt och uppskjuten skatt och
+redovisas i resultaträkningen. Aktuell skatt avser inkomst-
+skatt för föregående räkenskapsår. Uppskjuten skatt är
+inkomstskatt som avser framtida räkenskapsår till följd av
+tidigare händelser. Redovisning sker enligt balansräknings-
+metoden. Enligt denna redovisas uppskjutna skatteskulder
+och uppskjutna skattefordringar på temporära skillnader
+som uppstår mellan bokförda och skattemässiga värden för
+tillgångar och skulder samt för övriga skattemässiga avdrag
+eller underskott.
+Anläggningstillgångar
+Materiella och immateriella anläggningstillgångar redovisas
+till anskaffningsvärde minskat med ackumulerade avskriv-
 ningar och nedskrivningar. Materiella anläggningstillgångar
 har delats upp på betydande komponenter enligt princi-
 perna för komponentavskrivning. Följande avskrivningstider
 tillämpas byggnades komponenter:
+
+Byggnader                 100 år
+Produktionsutrustning     40 år
+Bränslehanterings-, el-, och styrsystem 20 år
+
+Värmedistributionsanläggningar
+Kulvertar                  50 år
+Undercentraler            40 år
+Inventarier                5 år
+
+\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
+fastigheter till ett värde över 10 mkr.
+Finansiella instrument
+Finansiella instrument värderas utifrån anskaffningsvärdet.
+Varulager
+Varulagret består av bränslen och är värderat utifrån inköps-
+priset baserat på senast mottagna fakturor.
+Koncernredovisning
+Koncernredovisningen omfattar Tempohus Kungsbacka
+AB, med organisationsnummer 559151-1349. Koncernredo-
+visningen är upprättad enligt förvärvsmetoden. Förvärvs-
+metoden innebär att koncernens anskaffningsvärden på
+aktier och andelar vid förvärvstidpunkten avräknas mot det
+förvärvade företagets egna kapital inkl. andelen eget kapital
+i obeskattade reserver. I koncernens egna kapital ingår här-
+igenom endast den del av dotterbolagets egna kapital som
+tillkommit efter förvärvet. Vid upprättandet av koncern-
+balansräkningen har obeskattade reserver uppdelats i två
+delar, dels uppskjuten skatteskuld vilken redovisas under
+rubriken avsättningar och dels eget kapital. Den uppskjutna
+skatteskulden upptas till aktuell skattesats. Därmed redo-
+visas inga bokslutsdispositioner och obeskattade reserver i
+koncernredovisningen.
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 47
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
@@ -6313,57 +6525,49 @@ REVISIONSBERÄTTELSE
 
 revisionsberättelse
 
-utvärderar vi den övergripande presentationen, strukturen Revisorns ansvar
-och innehållet i årsredovisningen och koncernredovisning- Vårt mål beträffande revisionen av förvaltningen, och därmed
-en, däribland upplysningarna, och om årsredovisningen vårt uttalande om ansvarsfrihet, är att inhämta revisionsbevis för
-och koncernredovisningen återger de underliggande att med en rimlig grad av säkerhet kunna bedöma om någon
-transaktionerna och händelserna på ett sätt som ger en styrelseledamot eller verkställande direktören i något väsentligt
-rättvisande bild.              avseende:
-planerar och utför vi koncernrevisionen för att inhämta företagit någon åtgärd eller gjort sig skyldig till någon
-tillräckliga och ändamålsenliga revisionsbevis avseende försummelse som kan föranleda ersättningsskyldighet mot
-den finansiella informationen för företag eller affärsenhe- bolaget, eller
+utvärderar vi den övergripande presentationen, strukturen
+och innehållet i årsredovisningen och koncernredovisning-
+en, däribland upplysningarna, och om årsredovisningen
+och koncernredovisningen återger de underliggande
+transaktionerna och händelserna på ett sätt som ger en
+rättvisande bild.
+planerar och utför vi koncernrevisionen för att inhämta
+tillräckliga och ändamålsenliga revisionsbevis avseende
+den finansiella informationen för företag eller affärsenhe-
 terna inom koncernen som grund för att göra ett uttalande
-avseende koncernredovisningen. Vi ansvarar för styrning, på något annat sätt handlat i strid med aktiebolagslagen,
-övervakning och genomgång av det revisionsarbete som årsredovisningslagen eller bolagsordningen.
+avseende koncernredovisningen. Vi ansvarar för styrning,
+övervakning och genomgång av det revisionsarbete som
 utförts för koncernrevisionens syfte. Vi är ensamt ansvariga
-för våra uttalanden.           Vårt mål beträffande revisionen av förslaget till dispositioner av
-bolagets vinst eller förlust, och därmed vårt uttalande om detta,
-är att med rimlig grad av säkerhet bedöma om förslaget är
-Vi måste informera styrelsen om bland annat revisionens förenligt med aktiebolagslagen.
+för våra uttalanden.
+Vi måste informera styrelsen om bland annat revisionens
 planerade omfattning och inriktning samt tidpunkten för den.
-Vi måste också informera om betydelsefulla iakttagelser under Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti
-revisionen, däribland de eventuella betydande brister i den för att en revision som utförs enligt god revisionssed i Sverige
-interna kontrollen som vi identifierat. alltid kommer att upptäcka åtgärder eller försummelser som
-kan föranleda ersättningsskyldighet mot bolaget, eller att ett
-förslag till dispositioner av bolagets vinst eller förlust inte är
+Vi måste också informera om betydelsefulla iakttagelser under
+revisionen, däribland de eventuella betydande brister i den
+interna kontrollen som vi identifierat.
 Rapport om andra krav enligt lagar och andra
-förenligt med aktiebolagslagen.
 författningar
-Som en del av en revision enligt god revisionssed i Sverige
-Uttalanden                      använder vi professionellt omdöme och har en professionellt
-Utöver vår revision av årsredovisningen och koncernredovis- skeptisk inställning under hela revisionen. Granskningen av
-ningen har vi även utfört en revision av styrelsens och verkstäl- förvaltningen och förslaget till dispositioner av bolagets vinst
-lande direktörens förvaltning av Eksta Bostads AB för år 2024 eller förlust grundar sig främst på revisionen av räkenskaperna.
-samt av förslaget till dispositioner beträffande bolagets vinst Vilka tillkommande granskningsåtgärder som utförs baseras
-eller förlust.                  på vår professionella bedömning med utgångspunkt i risk
-’                               och väsentlighet. Det innebär att vi fokuserar granskningen på
-Vi tillstyrker att bolagsstämman disponerar vinsten enligt försla- sådana åtgärder, områden och förhållanden som är väsentliga
-get i förvaltningsberättelsen och beviljar styrelsens ledamöter för verksamheten och där avsteg och överträdelser skulle ha
-och verkställande direktören ansvarsfrihet för räkenskapsåret. särskild betydelse för bolagets situation. Vi går igenom och
-prövar fattade beslut, beslutsunderlag, vidtagna åtgärder och
-Grund för uttalanden            andra förhållanden som är relevanta för vårt uttalande om
-Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt ansvarsfrihet. Som underlag för vårt uttalande om styrelsens
-ansvar enligt denna beskrivs närmare i avsnittet Revisorns förslag till dispositioner beträffande bolagets vinst eller förlust
-ansvar. Vi är oberoende i förhållande till moderbolaget och kon- har vi granskat om förslaget är förenligt med aktiebolagslagen.
+Uttalanden
+Utöver vår revision av årsredovisningen och koncernredovis-
+ningen har vi även utfört en revision av styrelsens och verkstäl-
+lande direktörens förvaltning av Eksta Bostads AB för år 2024
+samt av förslaget till dispositioner beträffande bolagets vinst
+eller förlust.
+’
+Vi tillstyrker att bolagsstämman disponerar vinsten enligt försla-
+get i förvaltningsberättelsen och beviljar styrelsens ledamöter
+och verkställande direktören ansvarsfrihet för räkenskapsåret.
+Grund för uttalanden
+Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt
+ansvar enligt denna beskrivs närmare i avsnittet Revisorns
+ansvar. Vi är oberoende i förhållande till moderbolaget och kon-
 cernen enligt god revisorssed i Sverige och har i övrigt fullgjort
-vårt yrkesetiska ansvar enligt dessa krav. Göteborg den den dag som framgår av vår elektroniska
-underskrift.
+vårt yrkesetiska ansvar enligt dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och
-ändamålsenliga som grund för våra uttalanden. Ernst & Young AB
+ändamålsenliga som grund för våra uttalanden.
 Styrelsens och verkställande direktörens ansvar
 Det är styrelsen som har ansvaret för förslaget till dispositioner
-beträffande bolagets vinst eller förlust. Vid förslag till utdelning Anders Linusson
-innefattar detta bland annat en bedömning av om utdelningen Auktoriserad revisor
+beträffande bolagets vinst eller förlust. Vid förslag till utdelning
+innefattar detta bland annat en bedömning av om utdelningen
 är försvarlig med hänsyn till de krav som bolagets och koncer-
 nens verksamhetsart, omfattning och risker ställer på storleken
 av moderbolagets och koncernens egna kapital, konsolide-
@@ -6379,6 +6583,50 @@ enligt styrelsens riktlinjer och anvisningar och bland annat vidta
 de åtgärder som är nödvändiga för att bolagets bokföring ska
 fullgöras i överensstämmelse med lag och för att medelsför-
 valtningen ska skötas på ett betryggande sätt.
+
+Revisorns ansvar
+Vårt mål beträffande revisionen av förvaltningen, och därmed
+vårt uttalande om ansvarsfrihet, är att inhämta revisionsbevis för
+att med en rimlig grad av säkerhet kunna bedöma om någon
+styrelseledamot eller verkställande direktören i något väsentligt
+avseende:
+företagit någon åtgärd eller gjort sig skyldig till någon
+försummelse som kan föranleda ersättningsskyldighet mot
+bolaget, eller
+på något annat sätt handlat i strid med aktiebolagslagen,
+årsredovisningslagen eller bolagsordningen.
+Vårt mål beträffande revisionen av förslaget till dispositioner av
+bolagets vinst eller förlust, och därmed vårt uttalande om detta,
+är att med rimlig grad av säkerhet bedöma om förslaget är
+förenligt med aktiebolagslagen.
+Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti
+för att en revision som utförs enligt god revisionssed i Sverige
+alltid kommer att upptäcka åtgärder eller försummelser som
+kan föranleda ersättningsskyldighet mot bolaget, eller att ett
+förslag till dispositioner av bolagets vinst eller förlust inte är
+förenligt med aktiebolagslagen.
+Som en del av en revision enligt god revisionssed i Sverige
+använder vi professionellt omdöme och har en professionellt
+skeptisk inställning under hela revisionen. Granskningen av
+förvaltningen och förslaget till dispositioner av bolagets vinst
+eller förlust grundar sig främst på revisionen av räkenskaperna.
+Vilka tillkommande granskningsåtgärder som utförs baseras
+på vår professionella bedömning med utgångspunkt i risk
+och väsentlighet. Det innebär att vi fokuserar granskningen på
+sådana åtgärder, områden och förhållanden som är väsentliga
+för verksamheten och där avsteg och överträdelser skulle ha
+särskild betydelse för bolagets situation. Vi går igenom och
+prövar fattade beslut, beslutsunderlag, vidtagna åtgärder och
+andra förhållanden som är relevanta för vårt uttalande om
+ansvarsfrihet. Som underlag för vårt uttalande om styrelsens
+förslag till dispositioner beträffande bolagets vinst eller förlust
+har vi granskat om förslaget är förenligt med aktiebolagslagen.
+Göteborg den den dag som framgår av vår elektroniska
+underskrift.
+Ernst & Young AB
+Anders Linusson
+Auktoriserad revisor
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 61
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
@@ -6827,84 +7075,115 @@ Transaktion 09222115557540212763 Signerat CK, HS, PW, AL
 
 Förvaltningsberättelse
 
-Styrelsen och Verkställande direktören för Tempo- Verksamheten
-hus Kungsbacka AB, 559151–1349, avger följande Intäkterna från den löpande verksamheten uppgår till
-berättelse för bolagets verksamhet 2024-01-01-2024- 7,9 miljoner (8,4 miljoner). Intäktsminskningen beror
-12-31. Bolaget är helägt av Eksta Bostads AB 556497– på lägre förbrukning av individuell mätning samt ing-
-8293\. Tempohus Kungsbacka AB hänvisar till Eksta en försäkringsersättning under 2024. Årets resultat
-Bostads AB:s hållbarhetsrapport för 2024. Rapporten uppgår till 121 tkr (250 tkr). Det lägre resultatet 2024
-går att ladda ner och läsa på www.eksta.se. beror främst på omställningen av lägenheter för per-
-manent bygglov och upprustning för uthyrning via
-Viktiga händelser 2024          bostadsförmedlingen, ommålning, installation av disk-
-Sedan 2020 har bolaget övergått mer till traditionell maskiner och upprustning av utemiljön. Samt ökade
-fastighetsförvaltning av beståndet och med fokus på räntekostnader i samband med nyupplåning om 10
-att få ett stabilt positivt kassaflöde. Under 2024 har miljoner.
+Styrelsen och Verkställande direktören för Tempo-
+hus Kungsbacka AB, 559151–1349, avger följande
+berättelse för bolagets verksamhet 2024-01-01-2024-
+12-31. Bolaget är helägt av Eksta Bostads AB 556497–
+8293\. Tempohus Kungsbacka AB hänvisar till Eksta
+Bostads AB:s hållbarhetsrapport för 2024. Rapporten
+går att ladda ner och läsa på www.eksta.se.
+Viktiga händelser 2024
+Sedan 2020 har bolaget övergått mer till traditionell
+fastighetsförvaltning av beståndet och med fokus på
+att få ett stabilt positivt kassaflöde. Under 2024 har
 bolaget investerat och utfört extra planerat underhåll i
 fastighetsbeståndet i Anneberg för att uppfylla kraven
-Finansiella ägardirektiv
 på permanent bygglov. Detaljplanen för Skårby 2:3
-Aktuellt läge gentemot direktiven
 Anneberg vann laga kraft i slutet av 2022. Vi har under
-Bolagets direktiv är att sträva efter att generera årliga
 2024 erhållit permanent bygglov för de 52 lägenheter-
-positiva resultat och att ge moderbolaget en mark-
 na. Marken arrenderas av Kungsbacka kommun och
-nadsmässig avkastning på insatt kapital. Verksam-
 under 2025 kommer bolaget att förvärva marken av
-hetsåret visar ett positivt resultat.
 Kungsbacka kommun.
-Kvalitetsredovisning
 Lägenheterna i Anneberg är byggda i enlighet med
-Bolaget följer moderbolagets processer, ramavtal och
 Boverkets byggnadsregler och uppfyller dem med ett
-egenkontroller och har också underavtal med bl a
 avsteg gällande energiprestanda. Därför kommer ar-
-inköpsorganisationen HBV och Adda.
 bete att ske närmaste åren för att dra in fjärrvärme till
 varje lägenhet. Vid verksamhetsårets slut har bolaget
-ca 35 bostäder för uthyrning till kommunplacerade Byggverksamhet
+ca 35 bostäder för uthyrning till kommunplacerade
 nyanlända i Kungsbacka. Samtliga hyreskontrakt är
 tidsbegränsade till uthyrning i max två år.
-På grund av att behovet av lägenheter för nyanlända Behovet av bostäder för nyanlända har fortsatt mins-
-minskat de senaste åren har cirka 30 lägenheter i kat under 2024. Bolaget planerar därför inte att inves-
-Anneberg förmedlats ut via Kungsbacka bostads- tera i några nybyggnadsprojekt eller hyra in några bo-
-förmedling. På sikt kommer totalt 45 lägenheter för- städer under kommande året. Dock sker förändringar
-medlas ut via bostadsförmedlingen. Tre lägenheter i vår omvärld och närområde väldigt snabbt vilket gör
-har förmedlats via Boplats Göteborg och 7 lägenheter att bolaget måste vara beredd på att snabbt parera
-kommer vara reserverade för nyanlända då främst nya förutsättningar.
+På grund av att behovet av lägenheter för nyanlända
+minskat de senaste åren har cirka 30 lägenheter i
+Anneberg förmedlats ut via Kungsbacka bostads-
+förmedling. På sikt kommer totalt 45 lägenheter för-
+medlas ut via bostadsförmedlingen. Tre lägenheter
+har förmedlats via Boplats Göteborg och 7 lägenheter
+kommer vara reserverade för nyanlända då främst
 från Ukraina. De lägenheter som hyrts ut via bostads-
-förmedlingen och Boplats har utrustats med diskma- Aktuella projekt
-skin samt blivit ommålade.      Anpassningarna i och med erhållet permanent
-bygglov har genomförts under 2024, anpassningarna
-I området har vi satsat på att rusta upp utemiljön med har bestått av tillbyggnader av lägenhetsförråd, cykel-
-bland annat buskar och häckplanteringar. Det har rum och översyn av dagvattenhantering.
+förmedlingen och Boplats har utrustats med diskma-
+skin samt blivit ommålade.
+I området har vi satsat på att rusta upp utemiljön med
+bland annat buskar och häckplanteringar. Det har
 tillkommit förråd på husens gavlarna så varje lägenhet
-nu har ett tillhörande förråd. Området har också fått Årets resultat
+nu har ett tillhörande förråd. Området har också fått
 ett nytt stort cykelförråd. För att kunna erbjuda ladd-
 ning av elbilar i området finns det nu 4 laddplatser. En
-stor parkering har påbörjats under året och kommer Årets resultat, ett överskott om 121 376 kr, avspeglar
-att färdigaställas under året.  ett år där bolaget främst sysslat med förvaltningsverk-
-samhet.
+stor parkering har påbörjats under året och kommer
+att färdigaställas under året.
 Villafastigheter
-Styrelsens förslag till resultatdisposition
 Bolaget äger fyra villafastigheter. Dessa fastigheter
-Styrelsen och verkställande direktören föreslår att det
 ligger på Inlagsvägen och Östen Johanssons gata i
-fria egna kapitalet, ett överskott om 4 028 730 kr,
 Kungsbacka, Fjärås Bräckaväg i Fjärås samt Nancys
-balanseras i ny räkning.
 promenad i Åsa.
-Styrelsen bedömer att utdelning inte bör ske med
 Administration och fastighetsskötsel
-hänsyn till de krav som verksamhetens art, omfattning
 Bolaget har inga egna anställda och administrativa
-och risker ställer på storleken på det egna kapitalet
 tjänster köps in från moderbolaget. Viss del av fastig-
-och bolagets konsolideringsbehov, likviditet och ställ-
 hetsskötseln köps in på entreprenad.
+
+Verksamheten
+Intäkterna från den löpande verksamheten uppgår till
+7,9 miljoner (8,4 miljoner). Intäktsminskningen beror
+på lägre förbrukning av individuell mätning samt ing-
+en försäkringsersättning under 2024. Årets resultat
+uppgår till 121 tkr (250 tkr). Det lägre resultatet 2024
+beror främst på omställningen av lägenheter för per-
+manent bygglov och upprustning för uthyrning via
+bostadsförmedlingen, ommålning, installation av disk-
+maskiner och upprustning av utemiljön. Samt ökade
+räntekostnader i samband med nyupplåning om 10
+miljoner.
+Finansiella ägardirektiv
+Aktuellt läge gentemot direktiven
+Bolagets direktiv är att sträva efter att generera årliga
+positiva resultat och att ge moderbolaget en mark-
+nadsmässig avkastning på insatt kapital. Verksam-
+hetsåret visar ett positivt resultat.
+Kvalitetsredovisning
+Bolaget följer moderbolagets processer, ramavtal och
+egenkontroller och har också underavtal med bl a
+inköpsorganisationen HBV och Adda.
+Byggverksamhet
+
+Behovet av bostäder för nyanlända har fortsatt mins-
+kat under 2024. Bolaget planerar därför inte att inves-
+tera i några nybyggnadsprojekt eller hyra in några bo-
+städer under kommande året. Dock sker förändringar
+i vår omvärld och närområde väldigt snabbt vilket gör
+att bolaget måste vara beredd på att snabbt parera
+nya förutsättningar.
+Aktuella projekt
+Anpassningarna i och med erhållet permanent
+bygglov har genomförts under 2024, anpassningarna
+har bestått av tillbyggnader av lägenhetsförråd, cykel-
+rum och översyn av dagvattenhantering.
+Årets   resultat
+
+Årets resultat, ett överskott om 121 376 kr, avspeglar
+ett år där bolaget främst sysslat med förvaltningsverk-
+samhet.
+Styrelsens förslag till resultatdisposition
+Styrelsen och verkställande direktören föreslår att det
+fria egna kapitalet, ett överskott om 4 028 730 kr,
+balanseras i ny räkning.
+Styrelsen bedömer att utdelning inte bör ske med
+hänsyn till de krav som verksamhetens art, omfattning
+och risker ställer på storleken på det egna kapitalet
+och bolagets konsolideringsbehov, likviditet och ställ-
 ning i övrigt.
+
 Vi möter 2025 med stor tillförsikt.
 Styrelsen och Verkställande direktören
+
 4                                                                                                                                Årsredovisning Tempohus 2024 5
 Transaktion 09222115557540212763 Signerat CK, HS, PW, AL
 
@@ -7558,81 +7837,48 @@ Signerat CK, HS, PW, AL
 
 Revisionsberättelse
 
-Vi måste informera styrelsen om bland annat revisionens företagit någon åtgärd eller gjort sig skyldig till någon
-planerade omfattning och inriktning samt tidpunkten för försummelse som kan föranleda ersättningsskyldighet
-den. Vi måste också informera om betydelsefulla iakttagel- mot bolaget, eller
+Vi måste informera styrelsen om bland annat revisionens
+planerade omfattning och inriktning samt tidpunkten för
+den. Vi måste också informera om betydelsefulla iakttagel-
 ser under revisionen, däribland de eventuella betydande
-brister i den interna kontrollen som vi identifierat. på något annat sätt handlat i strid med aktiebolagsla-
-gen, årsredovisningslagen eller bolagsordningen.
+brister i den interna kontrollen som vi identifierat.
 Rapport om andra krav enligt lagar och
 andra författningar
-Vårt mål beträffande revisionen av förslaget till dispositio-
-ner av bolagets vinst eller förlust, och därmed vårt uttalan-
+
 Uttalanden
-de om detta, är att med rimlig grad av säkerhet bedöma
 Utöver vår revision av årsredovisningen har vi även utfört
-om förslaget är förenligt med aktiebolagslagen.
 en revision av styrelsens och verkställande direktörens
 förvaltning av Tempohus Kungsbacka AB för år 2024 samt
-Rimlig säkerhet är en hög grad av säkerhet, men ingen
 av förslaget till dispositioner beträffande bolagets vinst
-garanti för att en revision som utförs enligt god revisions-
 eller förlust.
-sed i Sverige alltid kommer att upptäcka åtgärder eller för-
-summelser som kan föranleda ersättningsskyldighet mot
 Vi tillstyrker att bolagsstämman disponerar vinsten enligt
-bolaget, eller att ett förslag till dispositioner av bolagets
 förslaget i förvaltningsberättelsen och beviljar styrelsens
-vinst eller förlust inte är förenligt med aktiebolagslagen.
 ledamöter och verkställande direktören ansvarsfrihet för
 räkenskapsåret.
-Som en del av en revision enligt god revisionssed i
-Sverige använder vi professionellt omdöme och har en
 Grund för uttalanden
-professionellt skeptisk inställning under hela revisionen.
 Vi har utfört revisionen enligt god revisionssed i Sverige.
-Granskningen av förvaltningen och förslaget till disposi-
 Vårt ansvar enligt denna beskrivs närmare i avsnittet Revi-
-tioner av bolagets vinst eller förlust grundar sig främst på
 sorns ansvar. Vi är oberoende i förhållande till Tempohus
-revisionen av räkenskaperna. Vilka tillkommande gransk-
 Kungsbacka AB enligt god revisorssed i Sverige och har i
-ningsåtgärder som utförs baseras på vår professionella
 övrigt fullgjort vårt yrkesetiska ansvar enligt dessa krav.
-bedömning med utgångspunkt i risk och väsentlighet.
-Det innebär att vi fokuserar granskningen på sådana
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga
-åtgärder, områden och förhållanden som är väsentliga för
 och ändamålsenliga som grund för våra uttalanden.
-verksamheten och där avsteg och överträdelser skulle ha
-särskild betydelse för bolagets situation. Vi går igenom och
 Styrelsens och verkställande direktörens ansvar
-prövar fattade beslut, beslutsunderlag, vidtagna åtgärder
 Det är styrelsen som har ansvaret för förslaget till disposi-
-och andra förhållanden som är relevanta för vårt uttalande
 tioner beträffande bolagets vinst eller förlust. Vid förslag
-om ansvarsfrihet. Som underlag för vårt uttalande om sty-
 till utdelning innefattar detta bland annat en bedömning
-relsens förslag till dispositioner beträffande bolagets vinst
 av om utdelningen är försvarlig med hänsyn till de krav
-eller förlust har vi granskat om förslaget är förenligt med
 som bolagets verksamhetsart, omfattning och risker stäl-
-aktiebolagslagen.
 ler på storleken av bolagets egna kapital, konsoliderings-
 behov, likviditet och ställning i övrigt.
-Göteborg den dag som framgår av vår elektroniska under-
-skrift.
 Styrelsen ansvarar för bolagets organisation och förvalt-
 ningen av bolagets angelägenheter. Detta innefattar
-Ernst & Young AB
 bland annat att fortlöpande bedöma bolagets ekonomiska
 situation och att tillse att bolagets organisation är utfor-
 mad så att bokföringen, medelsförvaltningen och bolagets
 ekonomiska angelägenheter i övrigt kontrolleras på ett
 betryggande sätt. Verkställande direktören ska sköta den
-Anders Linusson
 löpande förvaltningen enligt styrelsens riktlinjer och anvis-
-Auktoriserad revisor
 ningar och bland annat vidta de åtgärder som är nödvän-
 diga för att bolagets bokföring ska fullgöras i överensstäm-
 melse med lag och för att medelsförvaltningen ska skötas
@@ -7643,8 +7889,53 @@ därmed vårt uttalande om ansvarsfrihet, är att inhämta
 revisionsbevis för att med en rimlig grad av säkerhet kun-
 na bedöma om någon styrelseledamot eller verkställande
 direktören i något väsentligt avseende:
-14                                                                                                                               Årsredovisning Tempohus 2024 15
-Transaktion 09222115557540212763 Signerat CK, HS, PW, AL
+14
+Transaktion 09222115557540212763
+
+företagit någon åtgärd eller gjort sig skyldig till någon
+försummelse som kan föranleda ersättningsskyldighet
+mot bolaget, eller
+på något annat sätt handlat i strid med aktiebolagsla-
+gen, årsredovisningslagen eller bolagsordningen.
+
+Vårt mål beträffande revisionen av förslaget till dispositio-
+ner av bolagets vinst eller förlust, och därmed vårt uttalan-
+de om detta, är att med rimlig grad av säkerhet bedöma
+om förslaget är förenligt med aktiebolagslagen.
+
+Rimlig säkerhet är en hög grad av säkerhet, men ingen
+garanti för att en revision som utförs enligt god revisions-
+sed i Sverige alltid kommer att upptäcka åtgärder eller för-
+summelser som kan föranleda ersättningsskyldighet mot
+bolaget, eller att ett förslag till dispositioner av bolagets
+vinst eller förlust inte är förenligt med aktiebolagslagen.
+Som en del av en revision enligt god revisionssed i
+Sverige använder vi professionellt omdöme och har en
+professionellt skeptisk inställning under hela revisionen.
+Granskningen av förvaltningen och förslaget till disposi-
+tioner av bolagets vinst eller förlust grundar sig främst på
+revisionen av räkenskaperna. Vilka tillkommande gransk-
+ningsåtgärder som utförs baseras på vår professionella
+bedömning med utgångspunkt i risk och väsentlighet.
+Det innebär att vi fokuserar granskningen på sådana
+åtgärder, områden och förhållanden som är väsentliga för
+verksamheten och där avsteg och överträdelser skulle ha
+särskild betydelse för bolagets situation. Vi går igenom och
+prövar fattade beslut, beslutsunderlag, vidtagna åtgärder
+och andra förhållanden som är relevanta för vårt uttalande
+om ansvarsfrihet. Som underlag för vårt uttalande om sty-
+relsens förslag till dispositioner beträffande bolagets vinst
+eller förlust har vi granskat om förslaget är förenligt med
+aktiebolagslagen.
+Göteborg den dag som framgår av vår elektroniska under-
+skrift.
+Ernst & Young AB
+
+Anders Linusson
+Auktoriserad revisor
+
+Årsredovisning Tempohus 2024 15
+Signerat CK, HS, PW, AL
 
 <!-- sida 137 -->
 

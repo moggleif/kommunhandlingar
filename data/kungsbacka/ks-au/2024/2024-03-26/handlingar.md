@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec471bdb/17110964386
 sha256: 013b81daceb6eb40c31a19f18c0e34db6a9d8b8a4159ee1908720d70e5666b75
 bytes: 9857324
 sidor: 83
-hamtad: 2026-10-24T10:50:21+00:00
-konverterad: 2026-10-24T10:50:52+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:20:09+00:00
+konverterad: 2026-11-09T10:20:51+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2260,17 +2260,23 @@ Bilaga 2
 Hur man  överklagar
 MMD-02
 
-Vill du att domen ska ändras i någon del kan du Om överklagandet kommit in i tid, skickar mark-
-överklaga. Här får du veta hur det går till. och miljödomstolen överklagandet och alla hand-
+Vill du att domen ska ändras i någon del kan du
+överklaga. Här får du veta hur det går till.
+
+Överklaga skriftligt inom 3 veckor
+Ditt överklagande ska ha kommit in till domstolen
+inom 3 veckor från domens datum. Sista datum
+för överklagande finns på sista sidan i domen.
+
+Om överklagandet kommit in i tid, skickar mark-
+och miljödomstolen överklagandet och alla hand-
 lingar i målet vidare till Mark- och miljööver-
 domstolen.
-Överklaga skriftligt inom 3 veckor
+
 Har du tidigare fått brev genom förenklad
-Ditt överklagande ska ha kommit in till domstolen
 delgivning, kan även Mark- och miljö-
-inom 3 veckor från domens datum. Sista datum
 överdomstolen skicka brev på detta sätt.
-för överklagande finns på sista sidan i domen.
+
 Prövningstillstånd i Mark- och miljö-
 Så här gör du
 överdomstolen

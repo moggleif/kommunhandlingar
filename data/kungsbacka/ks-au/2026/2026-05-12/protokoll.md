@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.14efd31219e1b0a13f82ce86/1778737300
 sha256: f02973ca4b5a7531282e882303a8911bbdfad7017c56d059d99af4991f0f7ac5
 bytes: 408159
 sidor: 31
-hamtad: 2026-10-24T10:26:34+00:00
-konverterad: 2026-10-24T10:26:42+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-09T09:51:23+00:00
+konverterad: 2026-11-09T09:51:31+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -26,7 +26,7 @@ granskad: null
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN                   SAMMANTRÄDESPROTOKOLL
 Kommunstyrelsens arbetsutskott
 Datum
 2026-05-12
@@ -41,21 +41,30 @@ Stefan Jägnert (SD)           vid § 179
 Fredrik Kollberg (KD), deltar ej i § 179
 p.g.a. jäv
 
-Övriga        Tjänstemän                    Övriga
-Patrik Johansson, kommunsekreterare Berit Bergström (M), ordförande i
-Rickard Vidlund, kommundirektör Stiftelsen Tjolöholm, § 177
-Anders Johansson, biträdande  Lena Salomonsson, VD för Stiftelsen
-kommundirektör                Tjolöholm, § 177
-Lovisa Eld, samhällsbyggnadschef Thure Sandén (M),
-Linnea Princis, kommunjurist, § 177 byggnadsnämndens ordförande, § 188
+Övriga        Tjänstemän
+Patrik Johansson, kommunsekreterare
+Rickard Vidlund, kommundirektör
+Anders Johansson, biträdande
+kommundirektör
+Lovisa Eld, samhällsbyggnadschef
+Linnea Princis, kommunjurist, § 177
+
+Övriga
+Berit Bergström (M), ordförande i
+Stiftelsen Tjolöholm, § 177
+Lena Salomonsson, VD för Stiftelsen
+Tjolöholm, § 177
+Thure Sandén (M),
+byggnadsnämndens ordförande, § 188
+
 Sofia Jonsson, administrativ chef, Heinrich Kaufmann (C), vice
 § 177                         ordförande i byggnadsnämnden § 188
-
 Ing-Britt Blomberg, specialist ekonomi, Max Ramström (M), vice ordförande i
 § 189                         nämnden för Service, § 188
 Elinor Filipsson, näringslivschef, Niclas Nilsson (M), ordförande i
 §§ 188, 191                   nämnden för Miljö & Hälsoskydd,
 Katarina Öryd, förvaltningschef för Bygg § 188
+
 & Miljö, § 188                Peter Wesley (KD), vice ordförande i
 Julia Tryggvadottir Tollesson, nämnden för Miljö & Hälsoskydd,
 förvaltningschef för Service, § 188 § 188

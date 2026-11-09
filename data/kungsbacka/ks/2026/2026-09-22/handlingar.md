@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.515f200f1a0adad2ac422f5/17896266011
 sha256: 0c352865240ea4188a3c3c8d31937e8fb11fb643cc929dc92e69ab4b20cc8a5a
 bytes: 26102022
 sidor: 328
-hamtad: 2026-10-24T10:08:33+00:00
-konverterad: 2026-10-24T10:10:08+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T09:29:26+00:00
+konverterad: 2026-11-09T09:31:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2166,7 +2166,7 @@ begär det).
 
 e E-postadress.
 
-Annat som har betydelse för att domstolen ska kunna nå er.
+e Annat som har betydelse för att domstolen ska kunna nå er.
 
 Om ni har handlingar som ni anser stödjer ert överklagande bifogar ni
 kopior på dessa. Kontakta Länsstyrelsen i förväg om ni behöver bifoga
@@ -2189,7 +2189,6 @@ Ange diarienummer 24890-2026.
 
 VN Delgivningskvitto Dnr 24890-2026-2
 
-Rs
 FaR Länsstyrelsen 2026-07-31
 mEt Västra Götaland
 
@@ -8564,7 +8563,7 @@ Exempel på Utrustning | Tillstånds- Tillsyn? ' Ökad Ökad Ökad
 verksamhet prövning kostnad för kostnad för kostnad för
 (ansöknings- ett tillstånd = etttillstånd = etttillstånd
 avgift) med med med
-giltighetstid = giltighetstid + giltighetstid
+giltighetstid = giltighetstid | giltighetstid
 Sår- 5år- Sår-
 förnyelse förnyelse förnyelse
 2027 2028 2029

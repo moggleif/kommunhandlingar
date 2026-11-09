@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe802f6/1763735030
 sha256: 20f709db365993db67a79cf78cc77b78722809826a517c6a70f10d26b6393445
 bytes: 232738866
 sidor: 1082
-hamtad: 2026-11-07T00:10:32+00:00
-konverterad: 2026-11-07T00:23:18+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T08:17:36+00:00
+konverterad: 2026-11-09T08:31:43+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [14, 126, 133, 134, 135, 136, 137, 173, 202, 217, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 398, 399, 429, 470, 474, 477, 478, 809, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 906, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938, 939, 940, 941, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049]
 figurer: [61, 123, 126, 138, 143, 144, 145, 148, 153, 154, 156, 162, 164, 179, 202, 210, 211, 212, 213, 214, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 237, 241, 244, 254, 257, 258, 262, 265, 267, 280, 283, 288, 295, 297, 298, 299, 300, 304, 305, 310, 327, 330, 336, 337, 342, 359, 363, 366, 376, 383, 414, 442, 453, 455, 458, 459, 460, 461, 464, 469, 474, 477, 478, 480, 481, 482, 483, 484, 486, 487, 488, 489, 491, 492, 493, 494, 501, 502, 503, 573, 574, 656, 657, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 695, 696, 697, 700, 701, 704, 705, 706, 707, 708, 711, 714, 717, 718, 721, 723, 725, 726, 729, 732, 736, 740, 741, 745, 746, 751, 754, 756, 760, 761, 763, 769, 772, 776, 777, 783, 803, 809, 886, 906, 907, 922, 942, 943, 947, 948, 949, 950, 954, 959, 960, 961, 962, 967, 968, 969, 970, 971, 973, 979, 983, 984, 992, 993, 1011, 1081]
 tolkade: []
@@ -8205,7 +8205,7 @@ Kommunen tillhandahåller förbindelsepunkt för kommunalt vatten- och avlopp ca
 meter utanför fastighetsgräns.
 
 Planområdet uppfyller lagens krav för att inrätta ett VA-verksamhetsområde.
-Kommunens process är att fatta nya beslut om VA-verksamhetsområden årsvis. När
+Kommunens process är att fatta nya beslut om VA -verksamhetsområden årsvis. När
 Detaljplanen antas förbereds den för beslut på kommande ordinarie beslutstillfälle
 avseende inrättande av VA-område i kommunfullmäktige.
 
@@ -18856,34 +18856,8 @@ av kommunstyrelsen.
 
 <!-- sida 474 -->
 
-10,0
-
-```osaker-tabell
-   8,1                                      8,0
- 6,4                                      6,5
-4,8                                4,8
-```
-
-5,0
-2,9
-2,5
-1,8
-0,5                                         0,8
-0,0
--1,5
--2,6          -2,1-2,4-2,7 -2,6
-\- 5,0
--5,1
-\- 10,0                                -9,4
-\- 15,0
--15,4
--15,7
-\- 20,0
-Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
-öppen förskola öppen              Familjeomsorg
-fritidsverksamhet
-tnecorP
 KUNGSBACKAS FÖRUTSÄTTNINGAR
+
 Nettokostnadsavvkelse i procent    Avvikelse, miljoner 2022 2023 2024 Avvikelse i
 kronor                   procent av
 och miljoner kronor
@@ -18912,11 +18886,41 @@ ner lägre. För äldreomsorgen är kostnadsläget däremot 32
 miljoner kronor högre.
 Nettokostnadsavvikelse
 Nettokostnadsavvikelse
+10,0
+
+```osaker-tabell
+   8,1                                      8,0
+ 6,4                                      6,5
+4,8                                4,8
+```
+
+5,0
+2,9
+2,5
+1,8
+0,5                                         0,8
+0,0
+-1,5
+-2,6
+-2,1-2,4-2,7
+-2,6
+\- 5,0
+-5,1
+\- 10,0                                -9,4
+\- 15,0
+-15,4
+-15,7
+\- 20,0
+Förskola inkl. Fritidshem inkl. Grundskola F–9 Gymnasieskola Individ & LSS Äldreomsorg
+öppen förskola öppen              Familjeomsorg
+fritidsverksamhet
 2022 2023 2024
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå och/
 eller låg effektivitet. På motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre ambitions-
 nivå och/eller hög effektivitet.
 Kommunbudget 2026 och plan 2027–2028 37
+
+Procent
 
 <!-- sida 475 -->
 
@@ -19029,125 +19033,99 @@ Kommunbudget 2026 och plan 2027–2028 39
 
 <!-- sida 477 -->
 
-Skulder
+Skulder                           Pensionsskuld
 Låneskuldens utveckling
+2 500
 Låneskulden ökar under hela planperioden och är beräk-
-nad till 3,5 miljarder kronor 2028, vilket motsvarar 5,0
-miljarder kronor när finansiell leasing är inkluderat. Den
+2 000        2202 2181
+nad till 3,5 miljarder kronor 2028, vilket motsvarar 5,0 1946 2107 2056 2010
+1789
+miljarder kronor när finansiell leasing är inkluderat. Den 1 500
 ökade låneskulden beror i sin helhet på de stora investe-
-ringsvolymer som ligger i planeringen de kommande åren.
-I diagrammet är skulden uppdelad på skattekollektivet och
-avgiftskollektivet. Avgiftskollektivets skuld avser främst
-av vatten och avlopp som har stora investeringsbehov
-de kommande åren. Bland annat planeras omfattande
-ombyggnation av reningsverket i Hammargård.
-
-Låneskuld inklusive finansiell leasing
-6 000
-5027
-5 000
-4127
-4 000
-2927
-3 000  2805 2727 2577
-2098
-2 000
 1 000
+ringsvolymer som ligger i planeringen de kommande åren.
+I diagrammet är skulden uppdelad på skattekollektivet och 500
+avgiftskollektivet. Avgiftskollektivets skuld avser främst
 0
-2022 2023 2024 2025 2026 2027 2028
-ronork
-renojliM
-Skattefinansierad verksamhet
-Avgiftsfinansierad verksamhet
-Kommuninvest lån och finansiell leasing
-Låneskuld exklusive finansiell leasing
+av vatten och avlopp som har stora investeringsbehov 2022 2023 2024 2025 2026 2027 2028
+de kommande åren. Bland annat planeras omfattande From 1998 Före 1998 Summa skuld
+ombyggnation av reningsverket i Hammargård.
+Låneskuld inklusive finansiell leasing
+6 000                           Diagrammet ovan visar kommunens totala pensionsskuld
+5027
+till och med år 2028. Prognosen bygger på beräkningar
 5 000
+4127      från KPA Pension i april 2025. Skulden för pensioner
+4 000                           efter 1998 inkluderar visstidspension och pensioner för
+2927
+förtroendevalda enligt bestämmelser om pension och
+3 000  2805 2727 2577           avgångsersättning för förtroendevalda, PBF, och förslag
+2098
+till bestämmelser om omställningsstöd och pension
+2 000
+till förtroendevalda, OPF-KL. Skulden för pensioner
+1 000                          intjänade före 1998 sjunker kontinuerligt över perioden,
+vilket beror på att inget nyintjänande sker samtidigt som
+0
+utbetalningar sker.
+2022 2023 2024 2025 2026 2027 2028
+Skattefinansierad verksamhet
+Avgiftsfinansierad verksamhet Skulden justeras enbart av ränta- och basbeloppsuppräk-
+Kommuninvest lån och finansiell leasing ning och i förekommande fall av ändringar enligt riktlinjer
+för beräkning av pensionsskuld, RIPS. Den nya skulden
+som är pensioner intjänade från och med 1998 ökar stadigt
+Låneskuld exklusive finansiell leasing
+under perioden. De anställda tjänar löpande in till pension
+5 000                          och fler anställda har löneläge som överstiger brytpunkten
 3500
-4 000               2600
+4 000               2600       om 7,5 prisbasbelopp. Förändringen av skulden överstiger
+därför utbetalningarna. I likhet med ansvarsförbindelsen
 1400
 3 000
-1050
-2 000     1200
+1050              påverkas avsättningen av ränte- och basbeloppsuppräkning
+2 000     1200                 samt eventuell förändring av riktlinjer för beräkning
 1300 1200
+av pensionsskuld, RIPS. Under våren 2022 justerades
 1 000
+prognosen för bland annat prisbasbeloppet påtagligt vilket
 0
+medförde ökade kostnader för kommande år.
 -1 000
 -2 000
-2022 2023 2024 2025 2026 2027 2028
-ronork
-renojliM
-Pensionsskuld
-2 500
-2 000        2202 2181
-1946        2107 2056 2010
-1789
-1 500
-1 000
-500
-0
 2022 2023 2024 2025 2026 2027 2028
 Skattefinansierad verksamhet
 Avgiftsfinansierad verksamhet
 Kommuninvest lån
-ronork
-renojliM
-From 1998 Före 1998 Summa skuld
-Diagrammet ovan visar kommunens totala pensionsskuld
-till och med år 2028. Prognosen bygger på beräkningar
-från KPA Pension i april 2025. Skulden för pensioner
-efter 1998 inkluderar visstidspension och pensioner för
-förtroendevalda enligt bestämmelser om pension och
-avgångsersättning för förtroendevalda, PBF, och förslag
-till bestämmelser om omställningsstöd och pension
-till förtroendevalda, OPF-KL. Skulden för pensioner
-intjänade före 1998 sjunker kontinuerligt över perioden,
-vilket beror på att inget nyintjänande sker samtidigt som
-utbetalningar sker.
-Skulden justeras enbart av ränta- och basbeloppsuppräk-
-ning och i förekommande fall av ändringar enligt riktlinjer
-för beräkning av pensionsskuld, RIPS. Den nya skulden
-som är pensioner intjänade från och med 1998 ökar stadigt
-under perioden. De anställda tjänar löpande in till pension
-och fler anställda har löneläge som överstiger brytpunkten
-om 7,5 prisbasbelopp. Förändringen av skulden överstiger
-därför utbetalningarna. I likhet med ansvarsförbindelsen
-påverkas avsättningen av ränte- och basbeloppsuppräkning
-samt eventuell förändring av riktlinjer för beräkning
-av pensionsskuld, RIPS. Under våren 2022 justerades
-prognosen för bland annat prisbasbeloppet påtagligt vilket
-medförde ökade kostnader för kommande år.
 40 Kommunbudget 2026 och plan 2027–2028
+
+Miljoner kronor
+
+Miljoner kronor
+
+Miljoner kronor
 
 <!-- sida 478 -->
 
 EKONOMISK ÖVERSIKT OCH ANALYS
 
 Pensionskostnader
-
-700      625
-600
+Budgeterade pensionskostnader baseras på prognoser från
+KPA Pension som är pensionsbolaget för dem som jobbar
+700      625                    inom kommun och region. Kungsbacka kommun redovisar
+600                             pensionerna enligt fullfondsmodellen och då påverkar även
 515
-500
-400           345 299 335 353
-259
+500                             ansvarsförbindelsens förändring de redovisade kostna-
+400           345 299 335 353   derna. Eftersom pensionsåtagandet i sin helhet tagits upp i
+259                            balansräkningen och påverkat det egna kapitalet medför en
 300
+minskning av pensionsskulden för pensioner intjänade före
 200
+1998 en reducering av redovisade kostnader.
 100
 0
 2022 2023 2024 2025 2026 2027 2028
 -100
 -200
-ronork
-renojliM
-Budgeterade pensionskostnader baseras på prognoser från
-KPA Pension som är pensionsbolaget för dem som jobbar
-inom kommun och region. Kungsbacka kommun redovisar
-pensionerna enligt fullfondsmodellen och då påverkar även
-ansvarsförbindelsens förändring de redovisade kostna-
-derna. Eftersom pensionsåtagandet i sin helhet tagits upp i
-balansräkningen och påverkat det egna kapitalet medför en
-minskning av pensionsskulden för pensioner intjänade före
-1998 en reducering av redovisade kostnader.
 Skuldförändring Utbetalda pensioner ink löneskatt
 Övrigt        SUMMA
 Kostnaden för pensioner varierar stort mellan åren.
@@ -19167,6 +19145,8 @@ markant under 2025–2028 till en mer normal nivå.
 Foto: Mikael Stenberg
 
 Kommunbudget 2026 och plan 2027–2028 41
+
+Miljoner kronor
 
 <!-- sida 479 -->
 
@@ -33289,18 +33269,9 @@ SGI – (e-post borttagen)
 AR
 Vv
 
-aaths Väg
+Å
 
-AUB
-S IN
-
-se
-ee
-
-00€1SL=
-/ OOVISL=
-
-/
+N
 
 TECKENFÖRKLARING
 
@@ -33407,20 +33378,28 @@ i Gottskär
 Kungsbacka kommun
 
 Ajourföringsdatum
-
 2024-09-04
-
-Kungsbacka
-
 Koordinatsystem
 
-SWEREF99 12 00
+Kungsbacka | SWEREF99 12 00
+
+Upprättad 2024-09-06 Reviderad
 
 Höjdsystem
 
-Upprättad 2024-09-06 Reviderad RH 2000
-Malin Lundgren Patrik Stenberg Piarenr
+RH 2000
+
+Malin Lundgren Patrik Stenberg
+
+Diarenr
+
 Tf. Enhetschef Geodataenheten Mätningsingenjör 2018-00035
+
+aaths Väg
+
+00€1SL=
+
+/ OOVISL=
 
 <!-- sida 810 -->
 
@@ -35628,7 +35607,7 @@ Sign.
 
 Lantmannagatan är genomförd. Den slutliga ersättningen fastställs inför att marken
 ska överlåtas till Exploatören. Parterna är överens om att marknadsvärdet vid Avtalets
-tecknade är 3 100 000 kronor vilket ska räknas upp med årsmedelvärdet för KPI + 1 90
+tecknade är 3 100 000 kronor vilket ska räknas upp med årsmedelvärdet för KPI + 1 20
 varje år. Första uppräkningen sker med årsmedelvärde 2026 och därefter årligen fram
 till den månad och år som avtalet upprättas.
 
@@ -36606,7 +36585,7 @@ merkostnader uppkomma för undersökning, sanering och hantering av
 jordmassor/schaktmassor som innehåller föroreningar överstigande för användningen
 gällande riktvärden ska fördelning av kostnader mellan Parterna ske enligt följande:
 
-I. — För merkostnader (med merkostnader avses enbart de extra kostnader som
+I. —- För merkostnader (med merkostnader avses enbart de extra kostnader som
 uppkommer till följd av förekomst av föroreningar och inte kostnader för
 hantering av massorna som helhet) upp till 300 000 kr ansvarar Exploatören.
 
@@ -36776,7 +36755,6 @@ Balder i Göteborg AB
 Balder VM 10 i Kungsbacka
 Balder Verkmästaren 11 AB
 
-C E z ;
 va Sigurgeirsdottir Petra Spranger
 
 Ort och datum
@@ -36840,6 +36818,44 @@ Bilaga D, Överlåtelse av kvartersmark inklusive servitut
 <!-- sida 878 -->
 
 <!-- sida 879 -->
+
+Bilaga H,
+Fördelning kostnad för projektering och utbyggnad av allmän plats
+
+FI Projektering och utbyggnad
+för allmän plats bekostas av
+
+Exploatör
+
+är Projektering och utbyggnad
+: för allmän plats bekostas av
+Kommunen
+
+Princip för kostnadsfördelning av
+Varbergsvägen
+
+Exploatör bekostar gångbana,
+cykelbana, regnbäddar/plantering,
+avlastningsfickor och refug på västra
+sidan av Varbergsvägen. Principiellt
+markerat med rött.
+
+Kommunen bekostar övrig del av
+Varbergsvägen.
+
+ala 8
+\> FRE
+Fe ti: : : n =
+é Ni
+1 [ge KE ssoo— a Al ve |T-30-1008
+
+VREDE SA
+
+NIDYA SOIL A
+
+kg LinaN
+
+BOLA dl
 
 <!-- sida 880 -->
 
@@ -38799,7 +38815,6 @@ Handlingen är signerad digitalt och har därför ingen namnunderskrift.
 
 <!-- sida 921 -->
 
-TRA äg
 (el öl LÄNSSTYRELSEN
 SN
 
@@ -39103,7 +39118,6 @@ R BESLUT 316)
 Länsstyrelsen
 Skåne 2017-12-14 Dnr 404-28629-17
 90-B-0352
-Brisyglg
 
 hd = RR RERNRNER
 
@@ -39383,7 +39397,7 @@ att topografin enligt planhandlingarna i minsta möjliga mån ska förändras f�
 bibehålla de naturliga förhållandena blir den reella ytan/volymen för
 dagvattenhantering liten. Den effektiva ytan bedöms snarare vara runt 150 m?, Den
 teoretiska infiltrationshastigheten i finsand (utan motstånd i form av organiskt
-material vid ytan) är 0,00001 m/s ?, Om hela ytan på 1191 m? beräknas kunna
+material vid ytan) är 0,00001 m/s , Om hela ytan på 1191 m? beräknas kunna
 användas kan området infiltrera ca 12 1/s, Vid ett 10-årsregn genereras efter
 exploatering ca 21 1/s inom området, Detta gör att området teoretiskt översväramas
 med 91/s eller ca 6 m? vid en varaktighet på 10 min. Beroende på hur byggnader och
@@ -39447,7 +39461,7 @@ Hälsa och säkerhet
 Då den skyddande sandbanken kan förväntas erodera bort i framtiden blir
 planområdet mycket mer utsatt för risker i samband med höga havsnivåer, I ett
 framtida klimat beräknas havsnivån vid stormar och andra ogynnsamma
-väderförhållanden kunna generera havsnivåer mellan +3 och +3,5 meter 2), vilket
+väderförhållanden kunna generera havsnivåer mellan +3 och +3,5 meter 2). vilket
 stora delar av planområdet ligger lägre än, se Figur 6.1 och med att sandbanken
 
 = försvinner går översvämningsförloppen snabbare än om de som idag hade gått genom
@@ -44350,7 +44364,7 @@ bygglov. Då Köparen har för avsikt att bebygga Fastigheten i två deletapper 
 reglering av köpeskillingen enligt denna punkt ske först efter det att Köparen erhållit
 bygglov i beslut som vunnit laga kraft för den sista deletappen. Köpeskillingen ska
 regleras i det fall antal kvm BTA överstiger eller understiger vad som anges i
-nedanstående tabell med mer än 5 94. I det fall antal kvm BTA överstiger 5 20 ska
+nedanstående tabell med mer än 5 94. I det fall antal kvm BTA överstiger 5 24 ska
 ersättning utgå. Kommunen fakturerar Köparen och ersättningen faller till betalning
 trettio (30) dagar efter fakturadatum. Ersättningen ska ses som tilläggsköpeskilling för
 Fastigheten. I de fall antal kvm BTA understiger 5 20 ska motsvarande avdrag göras på

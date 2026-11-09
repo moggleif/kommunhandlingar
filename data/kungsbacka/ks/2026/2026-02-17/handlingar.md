@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e00836ce2/1770883677
 sha256: 908aed7d20da237037cb00f579366c56a604c8555ebb339442bdeec319c2b347
 bytes: 60252880
 sidor: 936
-hamtad: 2026-11-07T00:34:37+00:00
-konverterad: 2026-11-07T00:37:52+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T08:44:05+00:00
+konverterad: 2026-11-09T08:47:43+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5808,78 +5808,6 @@ Kungsbacka har antagandet om en skattad färdmedelsandel på 43% biltrafik anset
 
 rimligt.
 
-35
-M arkan vän d n in gstyp
-Läge n h e t
-R ad h u s/p arh u s
-V illa
-K o n to r
-Sm åin d u stri/h an tve rkare
-D e taljh an d e l
-Sto rm arkn ad
-N ärb u tik
-R e stau ran g
-Fö rsko la
-Låg/m e llan
-H ö g/gym n .
-G ym
-O m van d lin gsfakto re r [m 2 p
-69
-100
-123
-0.03
-0.025
-0.017
-0.015
-0.013
-0.015
-0.020
-0.060
-0.1
-0.245
-eOr mb ovsatnaddl ienlglesfra akntsoträelrld [/pAeellsretsrvoiennrge/srmt pamel [r Bpr beielosros BtraT pdAe]]r bKooelnl
-1.79 2.44 0.65
-2.48 2.48 0.65
-2.48 2.48 0.65
-4.44 0.61
-7.88 0.80
-53.79 0.58
-39.71 0.57
-26.12 0.21
-43.63 0.38
-6.4 0.58
-3.11 0.41
-2.45 0.23
-2.06 0.60
-Färd m e d e lsan d e lar
-d e /anCstyäkleldl/e le vG/månmg
-0.11 0.08
-0.11 0.08
-0.11 0.08
-0.13 0.12
-0.06 0.09
-0.05 0.06
-0.03 0.07
-0.00 0.09
-0.08 0.04
-0.07 0.08
-0.16 0.12
-0.26 0.16
-0.05 0.16
-o ch dÖavgr]igt
-0.14 0.02
-0.14 0.02
-0.14 0.02
-0.12 0.02
-0.04 0.01
-0.29 0.01
-0.33 0.01
-0.70 0.00
-0.47 0.03
-0.26 0.01
-0.28 0.03
-0.30 0.05
-0.15 0.05
 Lokalisering
 Välj svar i listorna
 Vilken kommun? Kungsbacka
@@ -5901,138 +5829,6025 @@ Låg/mellanstadium       Elever          0Elever 5%
 Högstadie/gymnasium     Elever          0Elever 5%
 Gym                     Besök/dag       0Besök/dag 5%
 
+35
+
+2 2 2 2 1 1 1 0 3 1 3 5 5
+
+.0 .0 .0 .0 .0 .0 .0 .0 .0 .0 .0 .0 .0
+
+t 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ig
+
+r]
+
+avg
+
+dÖ
+
+h 4 4 4 2 4 9 3 0 7 6 8 0 5
+
+c .1 .1 .1 .1 .0 .2 .3 .7 .4 .2 .2 .3 .1
+
+o 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+r mg
+
+la ån
+
+e /m
+
+d vG
+
+n le 8 8 8 2 9 6 7 9 4 8 2 6 6
+
+a
+
+.0 .0 .0 .1 .0 .0 .0 .0 .0 .0 .1 .1 .1
+
+s e
+
+l l/ 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+e ld
+
+d kle
+
+e tyä
+
+s
+
+m nC
+
+rd a 1 1 1 3 6 5 3 0 8 7 6 6 5
+
+/ .1 .1 .1 .1 .0 .0 .0 .0 .0 .0 .1 .2 .0
+
+Fä e 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ld
+
+ln
+
+e
+
+oo
+
+bK
+
+]]r 5 5 5 1 0 8 7 1 8 8 1 3 0
+
+e .6 .6 .6 .6 .8 .5 .5 .2 .3 .5 .4 .2 .6
+
+pdA 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+traT
+
+s B
+
+losro
+
+ie
+
+be
+
+Bpr
+
+[r
+
+l
+
+me 4 8 8 4 8 9 1 2 3 .4 1 5 6
+
+t pa .4 .4 .4 .4 .8 .7 .7 .1 .6 6 .1 .4 .0
+
+srm
+
+rge/ 2 2 2 4 7 53 39 26 43
+
+3 2 2
+
+ienn
+
+tsrvo
+
+lsre
+
+el
+
+/pAe
+
+[
+
+ld 9 8 8
+
+lr
+
+e .7 .4 .4
+
+trä
+
+so 1 2 2
+
+nt
+
+ak
+
+fra
+
+les
+
+lg
+
+ien
+
+l
+
+dd
+
+tna
+
+sa
+
+ov
+
+mb
+
+r
+
+eO
+
+p 9 0 3 3 5 7 5 3 5 0 0 .1 5
+
+2 6 0 2 .0 2 1 1 1 1 2 6 0 4
+
+1 1 0 .0 .0 .0 .0 .0 .0 .0
+
+.2
+
+[m
+
+0 0 0 0 0 0 0
+
+0
+
+r
+
+re
+
+to
+
+k
+
+fa
+
+s
+
+g
+
+in
+
+l
+
+nd
+
+va
+
+Om
+
+re
+
+a
+
+p
+
+rk
+
+ty
+
+e
+
+s
+
+tv
+
+g
+
+n
+
+in
+
+s
+
+a
+
+n
+
+u
+
+h l
+
+h
+
+i/
+
+d
+
+d
+
+r
+
+r e a
+
+.
+
+n a
+
+t d
+
+g
+
+n
+
+ä t p
+
+s n n
+
+n
+
+la n
+
+v e /
+
+u a rk ik a a l m
+
+n
+
+s
+
+r l
+
+h
+
+r d jh a t u
+
+e y
+
+a
+
+u
+
+n l
+
+u
+
+o
+
+g
+
+k n
+
+to i
+
+m
+
+a k m /
+
+r e h la
+
+å ta r rb t s / g
+
+a g d l n
+
+s r g
+
+m
+
+a i o
+
+e to ä e ö
+
+ö y
+
+M Lä R V K Sm D S N R F Lå H G
+
 <!-- sida 152 -->
 
-Kollektivtrafik
-Frågor om lokaltrafik
-1\. Turtäthet under högtrafik i om rådet (sam m anlagt för alla linjer)
-2\. Avstånd till hållplats (genom snitt i om rådet)
-3\. Är tidtabeller i tätorten taktfasta/styva (dvs är det regelbundna m inuttal alla tim m
-4\. Hur stor del av tätorten täcks av kollektivtrafiknät?
-5\. Vilken standard har de fordon som används för tätortstrafik?
-Frågor om regionaltrafik
-6\. Turtäthet under högtrafik i om rådet (sam m anlagt för alla linjer)
-7\. Avstånd till regional busshållplats (genom snitt i om rådet)
-8\. Avstånd till station m ed regional tågtrafik (genom snitt i om rådet)
-9\. Är tidtabeller i regionaltrafiken taktfasta/styva (dvs är det regelbundna m inuttal
-alla tim m ar)?
-10\. Vilken standard har de fordon som används för regionaltrafik?
-G enerella frågor
-11\. Har resenärerna tillgång till realtidsinform ation om kollektivtrafiken?
-12\. Prioriteras kollektivtrafiken i kom m unens planering?
-13\. Hur ofta ser kom m unen över kollektivtrafiknätet?
-14\. Finns m ål och handlingsplan för kollektivtrafiken?
-ar)?
-Välj svar i listorna (inget svar = Sverigem edel)
-16-30-m inuterstrafik
-250-600 m
-Alla linjer har i princip taktfasta tidtabeller.
-Stora delar av tätorten och alla viktiga m ålpunkter. Koordinerade tidtabeller underlättar byten.
-Enbart m oderna fordon (m ax 6 år gam la eller m otsvarande).
-16-30-m inuterstrafik
-1000-1500 m
-1000-1500 m
-Alla linjer har i princip taktfasta tidtabeller.
-Blandat m ellan äldre fordon och m oderna fordon.
-På den viktigaste knutpunkten (t ex busstationen i centrum ).
-Kollektivtrafiken är en viktig faktor vid planering av t ex nya bostadsom råden.
-Det var länge sedan en översyn gjordes, och ingen är planerad inom den närm sta tiden.
-Kom m unen har m ål, m en de om sätts inte i praktiken. Handlingsplan saknas.
-
-G ång
-Frågor om gångtrafik
-1\. Avstånd till lokalt centrum (genom snitt i om rådet)
-2\. Hur är gångvägnätet utform at i tätorten?
-3\. Hur är standarden på gångvägnätet i tätorten?
-4\. Finns problem m ed otrygghet för fotgängare i tätorten?
-5\. Hur stor andel av korsningspunkterna m ellan kom m unens gångpassager och
-biltrafikens huvudnät är hastighetssäkrade till 30 km /h? (85-percentil)
-6\. Är gångtrafik prioriterat vid drift och underhåll (t.ex. snöröjning)?
-7\. Följer kom m unen upp m ängden gångtrafik (t.ex. genom fotgängarräkningar
-eller resvaneundersökningar)?
-8\. Finns m ål och handlingsplan för gångtrafiken?
-
-1-2 km
-Gångvägar m .m . kom pletterar system atiskt trottoarer för att förbättra genheten.
-Större delen har god standard. Vissa om råden har dock brister.
-Tryggheten är på de flesta håll hög. Kom m unen arbetar aktivt m ed att förbättra tryggheten.
-M er än 60 %
-Gångtrafiknätet prioriteras efter t ex biltrafiken.
-Uppföljning görs när kom m unen känner det behövs, vilket brukar vara relativt regelbundet.
-Kom m unen har m ål, m en de om sätts inte i praktiken. Handlingsplan saknas.
-
-Cykel
-Frågor om cykeltrafik
-1\. Avstånd till lokalt centrum (genom snitt i om rådet)
-2\. Höjdskillnader vid färd till lokalt centrum
-3\. Hur stor del av tätorten täcks av cykelvägnät (cykelväg, cykelbana, cykelfält eller
-30 km /h-gator)?
-4\. Hur stor andel av kosningspunkterna m ellan kom m unens cykelvägnät och
-biltrafikens huvudnät är hastighetssäkrade till 30 km /h? (85-percentil)
-5\. Är cykeltrafiken prioriterad vid drift och underhåll (t.ex. snöröjning)?
-6\. Följer kom m unen upp m ängden cykeltrafik (t.ex. genom cykelräkningar eller
-resvaneundersökningar)?
-7\. Finns m ål och handlingsplan för cykeltrafiken?
-Bil
-Frågor om biltrafik
-1\. Hur planeras tillgången till bilparkering vid bostäder i om rådet?
-2\. Hur planeras tillgången till bilparkering vid arbetsplatser i om rådet?
-3\. Hur prioriterat är bilvägnätet i tätorten?
-4\. Generell parkeringstillgång i tätorten.
-5\. Förväntat bilinnehav i om rådet (M edel i Sverige 2009: 461 bilar/1000 invånare.
-M in 290. M ax 694)
-6\. Hur är inställningen till att bygga nya vägar i kom m unen?
-7\. Finns m ål och handlingsplan för att m inska biltrafiken?
-
-1-3 km
-I princip inga lutningar.
-Cykelvägnätet är sam m anhängande och täcker i princip hela tätorten.
-M er än 60 %
-Cykelvägnätet underhålls sam tidigt m ed biltrafiken.
-Uppföljning görs tätt och regelbundet.
-Kom m unen har tydliga och offensiva m ål m ed en tydlig handlingsplan. M ålen följs upp.
-Kom m unens parkeringspolicy tilläm pas.
-O m rådets arbetsplatser får parkeringsplatser högre än gällande p-norm (m inim ivärde).
-Biltrafiken har sam m a prioritet som kollektivtrafik, cykel och gång.
-Det är inga problem att hitta en ledig p-plats nära besöksm ålet.
-350-461 bilar/1000 inv.
-Relativ generös. N ya vägar byggs om det anses nödvändigt. Andra lösningar prövas, m en det slutar oftast i vägbyggen.
-Kom m unen har inga m ål uppsatta för att m inska biltrafiken.
-
-M obility m anagem ent
-Arbetar kom m unen m ed M obility m anagem ent?
-1\. Arbetar kom m unen m ed m obility m anagem ent dvs. m juka åtgärder för att
-ändra resbeteende?
-Hur arbetar kom m unen m ed…
-1\. Grön resplan/m obilitetsplan
-2\. Kam panjer för m er m iljövänligt resande
-3\. Sam lad reseinform ation för flera färdsätt
-4\. Utbildning om hållbart resande
-5\. Distansarbete
-6\. Resfria m öten
-7\. M ålgruppsanpassade kam panjer t.ex. testresenärer, hälsotram pare
-8\. Bättre cykelfaciliteter (ej infrastruktur)
-9\. Bilpooler
-10\. Sparsam körning/Eco-driving
-Kontinuitet
-1\. Hur länge har kom m unen arbetat m ed m obility m anagem ent?
-
-O m nej så kom m er hänsyn inte tas till övriga m obility m
-Ja
-Kom m unen arbetar inte m ed åtgärden
-Kom m unen arbetar system atiskt m ed åtgärden
-Kom m unen arbetar inte m ed åtgärden
-Kom m unen arbetar inte m ed åtgärden
-Kom m unen arbetar inte m ed åtgärden
-Kom m unen har gjort enstaka åtgärder
-Kom m unen arbetar system atiskt m ed åtgärden
-Kom m unen arbetar inte m ed åtgärden
-Kom m unen har gjort enstaka åtgärder
-Kom m unen arbetar inte m ed åtgärden
-Längre än 10 år
-anagem ent-frågor
-
 36
+
+.
+
+n
+
+ge
+
+yg
+
+b
+
+äg
+
+v
+
+i
+
+t
+
+s
+
+a
+
+ft
+
+o
+
+r
+
+ta
+
+.
+
+lu
+
+n
+
+s
+
+te
+
+.
+
+.
+
+t
+
+y
+
+n
+
+t
+
+e
+
+b
+
+e
+
+e
+
+d
+
+t
+
+d
+
+r
+
+.
+
+.
+
+.
+
+n
+
+a
+
+e
+
+n
+
+)
+
+e
+
+tt
+
+n
+
+h
+
+u
+
+p
+
+ä
+
+e
+
+g
+
+b
+
+p
+
+e
+
+m
+
+l
+
+d
+
+l
+
+u
+
+d
+
+,
+
+r
+
+i
+
+g
+
+r
+
+t
+
+y
+
+e
+
+js
+
+ä
+
+s
+
+e
+
+.
+
+r
+
+g
+
+l
+
+a
+
+d
+
+a
+
+t
+
+e
+
+iv
+
+v
+
+n
+
+t
+
+n
+
+a
+
+r
+
+fö
+
+ö
+
+. s
+
+e
+
+r
+
+t
+
+m
+
+r
+
+u
+
+t
+
+t
+
+i
+
+r
+
+n m .
+
+t
+
+iv
+
+.
+
+n
+
+n
+
+p
+
+e r s
+
+e
+
+ä
+
+t
+
+s
+
+le
+
+i
+
+r
+
+le
+
+ä
+
+h
+
+l
+
+d
+
+a
+
+b
+
+la
+
+a
+
+å
+
+m
+
+a
+
+r
+
+å n
+
+n
+
+r
+
+g
+
+e
+
+r
+
+n
+
+e
+
+e
+
+n
+
+(
+
+o
+
+n k
+
+ö
+
+r
+
+k
+
+M
+
+in
+
+b
+
+g
+
+f
+
+.
+
+g
+
+a
+
+m e sa
+
+t
+
+a
+
+sa
+
+.
+
+rm
+
+n
+
+å
+
+t
+
+o d
+
+ra
+
+t
+
+r
+
+n
+
+s
+
+r
+
+d
+
+s
+
+n
+
+t
+
+a
+
+a
+
+n
+
+n
+
+la
+
+o
+
+f
+
+i
+
+t
+
+e
+
+n .
+
+lö
+
+\-
+
+t
+
+d m la
+
+d
+
+v
+
+la
+
+t
+
+p
+
+\-
+
+t
+
+a
+
+ä
+
+r
+
+r
+
+s
+
+g
+
+e
+
+t o p
+
+b
+
+e
+
+p
+
+p n
+
+ra
+
+n
+
+s n s
+
+r
+
+a
+
+s
+
+o
+
+g
+
+.
+
+e
+
+d
+
+i
+
+k
+
+t
+
+n
+
+e å
+
+d
+
+o
+
+g
+
+ö . m
+
+g
+
+i
+
+t
+
+a
+
+d
+
+f r t
+
+u
+
+ä
+
+l
+
+d g e
+
+n
+
+m
+
+r
+
+. b
+
+in
+
+e
+
+r
+
+in
+
+t
+
+l
+
+e
+
+e .
+
+)
+
+a l
+
+t t iv
+
+b
+
+l
+
+a
+
+d
+
+n h
+
+A .
+
+)
+
+a r
+
+t
+
+l
+
+n
+
+a c å
+
+.
+
+g
+
+n
+
+m y e d
+
+a is t
+
+t
+
+d
+
+l
+
+t n
+
+a
+
+i e
+
+k
+
+e
+
+a
+
+l o m
+
+d d
+
+u n n n
+
+r r a
+
+e
+
+n
+
+h
+
+ä l s
+
+ig e
+
+n
+
+r
+
+a
+
+b
+
+k
+
+a
+
+h
+
+k
+
+r n
+
+t x la
+
+ö r
+
+l
+
+g e k
+
+d i
+
+a
+
+o
+
+H
+
+f k
+
+i
+
+H
+
+p
+
+ig
+
+k
+
+f
+
+a
+
+n e p
+
+a
+
+i
+
+l
+
+n
+
+ö
+
+n
+
+m
+
+o r
+
+.
+
+r c t
+
+v
+
+.
+
+y s
+
+a
+
+a
+
+e t r n
+
+e
+
+,
+
+n
+
+c
+
+.
+
+d
+
+ä c
+
+ä r
+
+K
+
+c
+
+r o e
+
+n
+
+e
+
+v t
+
+y
+
+. v
+
+v ä e
+
+s
+
+e
+
+i
+
+n
+
+y
+
+e ,
+
+l
+
+it
+
+s
+
+i
+
+a d b
+
+v
+
+r
+
+t
+
+r
+
+b
+
+d i
+
+l
+
+r
+
+.
+
+a n k
+
+r r
+
+k
+
+e
+
+k
+
+i
+
+t
+
+i
+
+o
+
+ö
+
+i
+
+p
+
+g i a
+
+ö b
+
+e o
+
+n
+
+n g e t
+
+t a a
+
+.
+
+t
+
+ik
+
+n
+
+f r
+
+b
+
+t
+
+o
+
+e
+
+t
+
+h
+
+i
+
+f
+
+e
+
+ö a
+
+n a
+
+k
+
+in g k
+
+h n
+
+n
+
+k
+
+r
+
+h r ä
+
+s k
+
+o
+
+n
+
+n
+
+m
+
+d
+
+n
+
+n a
+
+o
+
+e e
+
+a
+
+a
+
+t n
+
+s
+
+)
+
+n r
+
+r
+
+o r i r
+
+r n e
+
+k b
+
+r
+
+e
+
+r
+
+d
+
+r
+
+e
+
+m
+
+e
+
+e
+
+l
+
+u
+
+i e
+
+t
+
+n
+
+i
+
+t
+
+e
+
+v s
+
+s n
+
+d
+
+d
+
+.
+
+e
+
+.
+
+o
+
+p
+
+e
+
+t
+
+p
+
+k
+
+l
+
+e i t
+
+i
+
+a
+
+e
+
+r p l
+
+r
+
+f
+
+t n h i
+
+t d u
+
+f
+
+i
+
+c
+
+i
+
+s t
+
+n
+
+r
+
+r
+
+d
+
+l l
+
+a
+
+c
+
+k
+
+a e
+
+ä
+
+b
+
+m
+
+t k a
+
+g
+
+ä
+
+ä
+
+e
+
+e
+
+a
+
+t la
+
+å
+
+r
+
+l
+
+l
+
+a m
+
+i
+
+e
+
+l å e
+
+l
+
+o e
+
+s r m
+
+d
+
+e
+
+t
+
+a e
+
+r
+
+g
+
+g
+
+l
+
+l
+
+n
+
+s
+
+, t
+
+i
+
+lt
+
+t
+
+d
+
+å
+
+. l l p
+
+t t
+
+t
+
+t
+
+a
+
+r
+
+s p
+
+t
+
+i r
+
+h
+
+s
+
+l -
+
+t
+
+v
+
+m
+
+e m l
+
+e
+
+s n
+
+m m
+
+n
+
+e .
+
+p
+
+e
+
+å
+
+å
+
+e
+
+u d
+
+i
+
+a
+
+b e
+
+i
+
+c
+
+m
+
+a
+
+o p
+
+a
+
+ö
+
+n
+
+n n n r
+
+n r n
+
+e
+
+b a
+
+b
+
+i e
+
+o o
+
+t
+
+s
+
+d
+
+l
+
+m
+
+d
+
+b
+
+d s
+
+m K
+
+n
+
+s
+
+o
+
+m
+
+p g k g
+
+r
+
+il
+
+e d e e e e d e e e
+
+ig
+
+a g
+
+a
+
+v
+
+t
+
+x n
+
+t
+
+e
+
+a
+
+i
+
+ö
+
+e
+
+e
+
+t i a
+
+t
+
+o
+
+x
+
+r t
+
+e a .
+
+t
+
+e
+
+t
+
+v
+
+n
+
+m
+
+t
+
+d
+
+d d d d
+
+d d d
+
+r
+
+t
+
+r
+
+s
+
+e ä
+
+d
+
+i
+
+m i
+
+d
+
+f
+
+r
+
+r r r r
+
+r r r
+
+d
+
+g
+
+d
+
+e
+
+o ä
+
+t
+
+g
+
+ä
+
+d
+
+g
+
+r m
+
+o
+
+s
+
+m
+
+m
+
+e
+
+i k
+
+i
+
+m
+
+o j
+
+s is
+
+t k
+
+i n
+
+s
+
+lä
+
+o e
+
+a
+
+ä ä ä ä ä ä ä ä
+
+v
+
+t i r
+
+t
+
+t t g s
+
+ö
+
+s
+
+n
+
+u
+
+l e
+
+l
+
+s t
+
+a
+
+t
+
+t
+
+v å
+
+(
+
+y
+
+r n
+
+id
+
+n
+
+i
+
+s
+
+t
+
+g
+
+g g g g
+
+g g g
+
+S
+
+a
+
+a
+
+h
+
+k
+
+m
+
+s V h
+
+e
+
+m
+
+a
+
+b
+
+k
+
+g t
+
+t k t t t t k t t t
+
+c
+
+a n
+
+. l
+
+e
+
+t l
+
+e
+
+t r t n
+
+a
+
+s
+
+s
+
+\=
+
+t la 6
+
+t
+
+n f
+
+o
+
+r
+
+l
+
+t
+
+o
+
+g
+
+f
+
+e e
+
+g
+
+e
+
+å i å å å å i å å å
+
+s l
+
+s
+
+o
+
+y
+
+d
+
+f n
+
+n
+
+m e
+
+f
+
+y a
+
+y s
+
+t
+
+t
+
+t
+
+r
+
+x
+
+e
+
+s
+
+a r å
+
+e
+
+c p it
+
+p
+
+n
+
+d
+
+d d d a
+
+d a d
+
+a a
+
+a
+
+n
+
+t ig r e
+
+r
+
+u
+
+e
+
+ä
+
+a g
+
+o
+
+i
+
+a
+
+b
+
+i
+
+a
+
+k a
+
+k
+
+a
+
+f a
+
+f
+
+a h
+
+l r r t
+
+p
+
+e
+
+e e e
+
+e
+
+e
+
+t
+
+t
+
+o
+
+k t e d
+
+e
+
+s
+
+d
+
+h
+
+s e
+
+h
+
+t
+
+r
+
+a
+
+a
+
+v
+
+h
+
+t d a
+
+a m
+
+r
+
+o å o i
+
+u
+
+n
+
+m
+
+m
+
+s
+
+k c m
+
+k
+
+d
+
+n ik v n
+
+t
+
+t
+
+n
+
+n
+
+s
+
+c
+
+f i
+
+a
+
+y
+
+m
+
+m m m t
+
+m t m
+
+a
+
+(
+
+a
+
+r
+
+u
+
+n
+
+r
+
+l h
+
+p r h
+
+g l
+
+e
+
+s e
+
+s
+
+t
+
+o
+
+v ö e
+
+e a s
+
+m
+
+e
+
+a
+
+l
+
+o
+
+r
+
+s
+
+e t e e e
+
+t e
+
+e
+
+t n
+
+t
+
+o
+
+p
+
+l
+
+e
+
+.
+
+å c
+
+s
+
+p t
+
+ä å
+
+s
+
+n s
+
+n
+
+e
+
+t e
+
+t o
+
+r
+
+a
+
+g e t .
+
+n
+
+t
+
+t t t
+
+t
+
+t
+
+p n o
+
+p
+
+f
+
+t n n m
+
+p s l
+
+i k
+
+m
+
+m
+
+h o
+
+s a
+
+v
+
+v m
+
+n y n n n e y n e n
+
+g
+
+i
+
+i
+
+e
+
+f
+
+r
+
+a
+
+g
+
+n
+
+a
+
+ä
+
+i s i i i
+
+s i
+
+i
+
+k
+
+e d
+
+k
+
+e
+
+u e ,
+
+r
+
+,
+
+g m
+
+r t
+
+i
+
+i t
+
+n
+
+a
+
+t t
+
+in i
+
+c t
+
+i
+
+c
+
+r
+
+l
+
+m d
+
+o
+
+l
+
+t
+
+l
+
+r
+
+m
+
+i
+
+a
+
+h
+
+r
+
+r
+
+f
+
+r r
+
+f
+
+n r n
+
+e
+
+i ä
+
+a
+
+e
+
+la
+
+y
+
+r r r r r
+
+r r
+
+r
+
+(
+
+n
+
+o
+
+n
+
+d
+
+k
+
+å
+
+o o
+
+r
+
+å
+
+in
+
+d ä
+
+d
+
+e
+
+m
+
+g
+
+r
+
+a a a a a o a a o a
+
+a
+
+i o
+
+a
+
+i
+
+l
+
+ä a
+
+d
+
+n
+
+s
+
+t
+
+m
+
+0
+
+j
+
+j
+
+a r
+
+r t f
+
+r
+
+r
+
+k g
+
+p
+
+n
+
+n
+
+y
+
+k p
+
+e
+
+N n
+
+e
+
+t t t t t
+
+t t
+
+t
+
+ä
+
+e n d m
+
+.
+
+å
+
+s
+
+m
+
+r
+
+s
+
+t
+
+r s a l 0
+
+. i
+
+e e e e e g e e g e
+
+n t
+
+p ä a
+
+t
+
+p
+
+t
+
+e r
+
+r
+
+t r
+
+r
+
+t ä
+
+u r
+
+r
+
+t s b 0
+
+s r
+
+m
+
+r
+
+r
+
+r s
+
+i t
+
+s
+
+i
+
+s e
+
+a p
+
+u
+
+a
+
+b b b b b
+
+b b
+
+b
+
+r
+
+r
+
+n
+
+r
+
+n
+
+s a
+
+m
+
+e ö
+
+a
+
+l t
+
+t ö
+
+a
+
+e r o 1
+
+ö a
+
+r r r r r a r r a r
+
+o
+
+r
+
+r
+
+r
+
+a
+
+a k
+
+. h r
+
+t
+
+p
+
+/
+
+m
+
+å
+
+e
+
+v
+
+e
+
+l
+
+i
+
+h
+
+g
+
+h
+
+e
+
+e g
+
+h
+
+b a r
+
+r h
+
+a a a a a h a a h a
+
+t t
+
+a a e
+
+t
+
+a
+
+l
+
+g f e
+
+ä
+
+ä
+
+a t
+
+t
+
+s r
+
+r
+
+o
+
+is
+
+i
+
+g
+
+m n
+
+g
+
+g
+
+h p a
+
+e
+
+0
+
+l u
+
+h r d
+
+u m m h
+
+e
+
+t a
+
+n
+
+n %
+
+n
+
+n
+
+g ä
+
+%
+
+ä
+
+n
+
+n a
+
+l
+
+n n
+
+k
+
+n n n n n n n n n n
+
+1
+
+r n
+
+r le
+
+k n
+
+n
+
+n a i
+
+i n
+
+r a o
+
+n 0 0 r
+
+k t
+
+e
+
+e 0
+
+i i
+
+e
+
+in n
+
+0
+
+n i
+
+e
+
+e s
+
+e e
+
+å
+
+e e e e e e e e e e
+
+i m
+
+l
+
+i
+
+m
+
+i
+
+ä
+
+a
+
+t
+
+t
+
+g b
+
+n
+
+r
+
+e
+
+0 0 e
+
+v iv l n
+
+g e
+
+6
+
+f n
+
+n
+
+g
+
+6
+
+g n
+
+n
+
+n
+
+e n
+
+g n
+
+s
+
+n n n n n n n n n n
+
+ä
+
+0 j e m
+
+5 5 j
+
+t
+
+d e
+
+a j
+
+p ä
+
+ä j
+
+e k i 1
+
+j
+
+a m
+
+m
+
+t r u
+
+ä
+
+r l
+
+u
+
+i
+
+l
+
+u
+
+u
+
+i
+
+u
+
+u u u u u u u u u u
+
+v - 0 in d rt
+
+\- 1 1 in
+
+a
+
+n k a
+
+v e h n
+
+t
+
+c lv
+
+n
+
+lv
+
+d f r 6
+
+iv
+
+e
+
+e
+
+s 0 6 l a
+
+0 - - l
+
+d
+
+e
+
+v m
+
+m g r g ä
+
+g fö
+
+m
+
+m n
+
+ä
+
+fö
+
+m
+
+m å a ä 4
+
+t m
+
+n
+
+m m m m m m m m m m
+
+r
+
+j
+
+\-
+
+r a
+
+0 0
+
+le
+
+k
+
+r
+
+r
+
+k i e
+
+r
+
+e
+
+r r -
+
+a
+
+g
+
+l 3
+
+a
+
+3
+
+a
+
+n
+
+d l t m
+
+n
+
+g
+
+n p
+
+m
+
+p
+
+m
+
+m
+
+t t
+
+l m
+
+m m m m m m m m m m
+
+\- 0 l o b
+
+\- 0 0 l
+
+ö y e
+
+r k
+
+e
+
+k
+
+l
+
+0
+
+n
+
+ä
+
+l
+
+l
+
+la
+
+e
+
+2 å
+
+å p
+
+3
+
+y
+
+y p
+
+m i e
+
+e
+
+m
+
+6 5
+
+t n
+
+6 0 0
+
+å o
+
+o
+
+\-
+
+t r
+
+o
+
+\- p
+
+o
+
+o
+
+5
+
+o
+
+a
+
+o o o o o o o o o o
+
+ä
+
+V 1 2 A S E
+
+1 1 1 A
+
+B
+
+P K D K
+
+1 G S T M
+
+G U
+
+K
+
+1 I C M
+
+C U
+
+K
+
+K O B D 3
+
+R K
+
+O J
+
+K K K K K K K K K K
+
+L
+
+)?
+
+r
+
+a
+
+m
+
+l
+
+a
+
+r
+
+im
+
+t
+
+le
+
+.
+
+t
+
+t
+
+l
+
+r
+
+e
+
+la
+
+u
+
+r
+
+e
+
+e
+
+r
+
+l
+
+n
+
+h
+
+t
+
+l
+
+a
+
+i
+
+c
+
+a
+
+l
+
+l
+
+t
+
+a
+
+n
+
+t
+
+o
+
+g
+
+ä
+
+h
+
+e
+
+l
+
+m
+
+n
+
+f
+
+c
+
+å
+
+a
+
+r
+
+i
+
+l
+
+r
+
+v
+
+ta
+
+a
+
+?
+
+e )
+
+e
+
+o )
+
+a
+
+r
+
+t
+
+n
+
+g l
+
+n
+
+t l
+
+in
+
+ö
+
+n
+
+i
+
+k
+
+k
+
+i ? g
+
+f
+
+u
+
+d
+
+e
+
+a t
+
+ä
+
+y
+
+ä t ) in
+
+?
+
+0
+
+r
+
+in
+
+n
+
+k
+
+s n
+
+r
+
+c
+
+n n g
+
+t
+
+0
+
+e
+
+) u
+
+i
+
+s
+
+r
+
+,
+
+g
+
+n
+
+0
+
+e
+
+r
+
+t
+
+f
+
+a e ? a
+
+a
+
+e in k
+
+e
+
+d
+
+a
+
+m
+
+lb
+
+a
+
+p c ) g
+
+ä c
+
+ä
+
+d
+
+1
+
+r
+
+)
+
+a
+
+)
+
+e
+
+?
+
+r
+
+r g
+
+n
+
+lv r jn r
+
+? å
+
+/
+
+ä
+
+p
+
+r
+
+r
+
+d e
+
+t
+
+g e
+
+n
+
+a
+
+e
+
+l
+
+t r
+
+r
+
+e
+
+n
+
+e
+
+å g
+
+ik
+
+v
+
+n p in ä
+
+b
+
+e p ö e
+
+e
+
+la
+
+tg
+
+m
+
+t?
+
+j
+
+d
+
+j
+
+f
+
+i
+
+å -
+
+g
+
+l
+
+k - r
+
+m
+
+i
+
+a
+
+n
+
+?
+
+n
+
+r e
+
+t
+
+jn t
+
+y
+
+ö k
+
+d
+
+å
+
+r
+
+n
+
+i
+
+n
+
+k
+
+i
+
+r
+
+a
+
+k
+
+g 5
+
+e
+
+5
+
+y
+
+å o
+
+b
+
+t
+
+l
+
+i
+
+l
+
+m t
+
+r
+
+8 ö o
+
+k
+
+c 8 n
+
+i
+
+a
+
+e
+
+u
+
+f
+
+)
+
+t
+
+e
+
+s (
+
+f
+
+(
+
+c
+
+r
+
+1
+
+k
+
+o
+
+a
+
+b
+
+a t o e
+
+l
+
+l
+
+r
+
+y
+
+s s
+
+r
+
+?
+
+s
+
+m
+
+l
+
+l
+
+a
+
+l
+
+i
+
+l
+
+n
+
+ö
+
+c
+
+.
+
+m
+
+6
+
+u
+
+l
+
+l
+
+r
+
+l e d
+
+a
+
+o
+
+? e ?
+
+m
+
+n ? x m
+
+e
+
+4
+
+n
+
+j
+
+e
+
+e
+
+t
+
+d t
+
+n
+
+h n
+
+,
+
+e h
+
+o s
+
+?
+
+ä
+
+a
+
+s
+
+a
+
+t r
+
+k ?
+
+n n
+
+s o
+
+g
+
+e o
+
+i t
+
+\:
+
+e
+
+h
+
+g
+
+g
+
+t
+
+å i
+
+o
+
+/
+
+n / .
+
+n
+
+m
+
+a
+
+r
+
+r r
+
+ä
+
+i
+
+g
+
+e u
+
+. n
+
+ä
+
+n
+
+a
+
+9
+
+n
+
+.
+
+,
+
+ö
+
+e
+
+r
+
+ö
+
+n s
+
+n
+
+t
+
+m x
+
+u m (t e
+
+r l
+
+0
+
+e
+
+r
+
+n
+
+r
+
+o
+
+s
+
+g
+
+m i ? ?
+
+r
+
+e
+
+lv
+
+e
+
+u k
+
+s
+
+f
+
+t ? t
+
+f m
+
+v
+
+e
+
+o r t
+
+)
+
+m k e g
+
+)
+
+k l g
+
+p
+
+0
+
+i
+
+v
+
+e
+
+a
+
+t
+
+t
+
+t
+
+n
+
+t
+
+o
+
+.
+
+t
+
+e
+
+m l .
+
+d s
+
+2
+
+m f
+
+r
+
+e
+
+ä
+
+o m d
+
+r
+
+e e
+
+t m 0 t .
+
+0
+
+t
+
+d
+
+g
+
+ä t
+
+g i
+
+(
+
+n
+
+e
+
+e
+
+e
+
+k
+
+å x
+
+ä
+
+a
+
+ä
+
+m
+
+d
+
+o
+
+r
+
+n t
+
+ä
+
+3 ( x
+
+m 3
+
+t e
+
+e
+
+m r
+
+t
+
+a
+
+n r
+
+a
+
+o
+
+k
+
+d
+
+t o l
+
+d
+
+y
+
+h e
+
+n
+
+y
+
+l
+
+r
+
+l t n a
+
+ö
+
+i a ä i
+
+k l l e
+
+c
+
+o l r .
+
+?
+
+s b
+
+g
+
+o t
+
+? n
+
+t
+
+k ö
+
+t
+
+v
+
+f
+
+t l n f
+
+å
+
+? i l
+
+.
+
+?
+
+å
+
+k l
+
+t
+
+o
+
+i
+
+l
+
+t
+
+e
+
+i
+
+n
+
+ä i f
+
+n i e
+
+r
+
+i å t
+
+r
+
+(
+
+i e
+
+n
+
+r
+
+r
+
+k i
+
+e
+
+s
+
+l
+
+a ) f
+
+a
+
+y
+
+s
+
+a p k a
+
+n e n t
+
+(
+
+n
+
+t
+
+t
+
+(
+
+b a
+
+b
+
+n
+
+i
+
+t s
+
+n g t
+
+i r
+
+h
+
+n d
+
+e
+
+e
+
+i
+
+e
+
+ra s
+
+s (
+
+d
+
+s f t
+
+m
+
+e r la
+
+r
+
+e
+
+m
+
+ä
+
+k
+
+r
+
+e m
+
+r
+
+b
+
+m e v
+
+d
+
+m
+
+s
+
+m
+
+o
+
+t a l e
+
+ik
+
+k
+
+o
+
+la e n i
+
+ik
+
+d d
+
+v
+
+a
+
+t
+
+t
+
+k /
+
+n
+
+r n a iv
+
+r
+
+d e
+
+i
+
+n
+
+l d
+
+f
+
+i i
+
+S
+
+a k
+
+e
+
+t
+
+o
+
+d d v n
+
+m i
+
+ä
+
+r
+
+i
+
+g e
+
+f
+
+f
+
+i
+
+u
+
+f
+
+m g
+
+s
+
+m å ( i
+
+m
+
+f a
+
+o e t t
+
+? o n
+
+a d a
+
+m g
+
+e a
+
+a
+
+a
+
+v v
+
+i
+
+g s
+
+t
+
+a r
+
+t ä
+
+a o a t
+
+v
+
+f n v k
+
+t n t
+
+r n r
+
+a
+
+t
+
+ä
+
+r h r
+
+r
+
+g g ?
+
+l
+
+ä n
+
+e a
+
+e ä
+
+te )
+
+m
+
+s
+
+a k v
+
+s n r s
+
+n
+
+n
+
+i
+
+it
+
+ä ä m k
+
+t
+
+r
+
+it u v
+
+m k c lt
+
+t
+
+n .
+
+v i
+
+g n
+
+d s
+
+r
+
+v
+
+a
+
+i u t le
+
+e t g
+
+u
+
+t
+
+r l
+
+l
+
+n n
+
+e
+
+a
+
+.
+
+d
+
+( m
+
+e n
+
+( e t f
+
+a
+
+l
+
+n t t a ä g
+
+g
+
+n t
+
+ä o e
+
+i i e n
+
+a
+
+n d
+
+u
+
+t o y l a
+
+t g g t
+
+s m k
+
+r i
+
+n s h n
+
+n e
+
+a s t
+
+e
+
+r r t
+
+d
+
+a m
+
+n
+
+a r
+
+x t
+
+e
+
+t l
+
+(
+
+d
+
+o
+
+s
+
+o
+
+s
+
+n
+
+s
+
+k
+
+s f k
+
+k
+
+r e e
+
+y t
+
+m
+
+e k
+
+e i s
+
+e å k
+
+m
+
+i
+
+le k
+
+o t f r t c å
+
+å
+
+e
+
+rn t i y
+
+e e
+
+t
+
+t
+
+a
+
+s fä
+
+.
+
+m
+
+/ o
+
+s t a
+
+t m l
+
+m t e e
+
+o
+
+m
+
+y
+
+r
+
+y
+
+k k o r
+
+n
+
+e
+
+t u
+
+d t
+
+k m
+
+d
+
+l
+
+o
+
+l
+
+r
+
+e g
+
+g
+
+c c
+
+e e
+
+c
+
+c
+
+r r t M
+
+a
+
+m y
+
+r
+
+t
+
+t a
+
+t
+
+t
+
+s
+
+o o r
+
+o ä t
+
+t
+
+t
+
+o
+
+d
+
+o (
+
+a
+
+t
+
+r a
+
+r
+
+å i t
+
+o
+
+å a a
+
+a
+
+ö
+
+t ä ö k h
+
+n
+
+r
+
+lt
+
+t h n
+
+r
+
+a a ä t
+
+r
+
+i
+
+r
+
+t
+
+a
+
+r
+
+v s
+
+r l
+
+n
+
+k k f
+
+n i
+
+f
+
+if
+
+n
+
+v
+
+k
+
+t
+
+t
+
+g
+
+y l
+
+t
+
+e
+
+e s
+
+t
+
+n s
+
+n
+
+n
+
+e i
+
+n n g
+
+e ? ö
+
+a
+
+g d e
+
+ö
+
+p p i ä
+
+ö
+
+t i
+
+g e
+
+j
+
+m s a a n
+
+m p
+
+e
+
+r r
+
+e t
+
+t
+
+i r
+
+) f
+
+e
+
+a
+
+n i i
+
+f
+
+l l t e
+
+g f
+
+i b
+
+i l d
+
+a
+
+g
+
+e
+
+f s
+
+l o
+
+o
+
+l
+
+n
+
+g
+
+u t d d r
+
+k s
+
+t
+
+d
+
+i i t i
+
+y
+
+l
+
+l f
+
+n r
+
+b
+
+o
+
+l i k
+
+l n e
+
+g a ä e
+
+g
+
+u
+
+v
+
+d
+
+i
+
+n
+
+n
+
+f
+
+n
+
+o m t k
+
+o
+
+g i
+
+d
+
+i
+
+v a
+
+(
+
+p s
+
+g a n
+
+( lo k
+
+s
+
+g
+
+n
+
+b b e
+
+å
+
+b n
+
+o
+
+n r
+
+a
+
+i
+
+r
+
+i
+
+k
+
+d
+
+i å
+
+f
+
+r
+
+e
+
+l
+
+v h s a d
+
+g
+
+p a d
+
+l l t g
+
+b
+
+… a
+
+a
+
+p n
+
+a
+
+o
+
+c
+
+e
+
+t k ö
+
+m
+
+g
+
+i n
+
+la
+
+l c
+
+s
+
+n
+
+la
+
+l l
+
+r
+
+t la
+
+m
+
+l ä ö s
+
+i
+
+v
+
+a ä r
+
+h
+
+a
+
+o
+
+i p
+
+r g
+
+g h
+
+ä n
+
+l ä
+
+h a ä ?
+
+i i ä n
+
+t
+
+o
+
+d
+
+v f
+
+i
+
+k n t
+
+k s r r
+
+f
+
+g
+
+s
+
+m
+
+g
+
+v
+
+i p
+
+m i
+
+g r
+
+p
+
+p
+
+p
+
+e
+
+m j
+
+r
+
+n
+
+i
+
+t o
+
+i
+
+t
+
+f n
+
+o n
+
+n r
+
+t
+
+r
+
+)
+
+t t n å m
+
+a
+
+d
+
+e
+
+ö
+
+f e
+
+f
+
+f s d l
+
+n a
+
+g
+
+u f
+
+y i
+
+t m n s
+
+u t
+
+n
+
+e m r s
+
+g
+
+s
+
+M
+
+s j n r
+
+a e
+
+d
+
+e
+
+a
+
+n n
+
+a u
+
+e
+
+r e
+
+r t å r
+
+ä a
+
+r
+
+n
+
+i ä t a
+
+n n g l o
+
+l
+
+e
+
+t l
+
+t
+
+(
+
+\-
+
+g
+
+e
+
+e a
+
+å
+
+n
+
+t
+
+g t n
+
+k g
+
+t d
+
+i
+
+g
+
+ä l i
+
+l g
+
+d
+
+m
+
+i o
+
+k
+
+n
+
+r ( e e
+
+k r b
+
+d
+
+g t n i
+
+u
+
+s t r p
+
+n
+
+r e
+
+n t r p g n
+
+e e
+
+i
+
+i n
+
+e
+
+i r
+
+r
+
+o
+
+t
+
+t t d
+
+i t
+
+n
+
+r
+
+l
+
+l
+
+n
+
+o r
+
+ö i
+
+n
+
+t
+
+s
+
+i
+
+v
+
+t i
+
+e m
+
+n t
+
+t a
+
+e
+
+c
+
+u
+
+s r
+
+f
+
+l m
+
+l iv u
+
+t å
+
+ä e p s l
+
+ä
+
+ä o p n l
+
+g g l t v
+
+l
+
+t
+
+i m
+
+e
+
+g t
+
+r r
+
+g
+
+o
+
+a
+
+i
+
+d
+
+e
+
+o
+
+t
+
+e f r
+
+o
+
+i
+
+i
+
+i s
+
+?
+
+e l a b
+
+d t
+
+E
+
+o
+
+a
+
+a
+
+i
+
+t
+
+c e p d
+
+n i u r d
+
+c
+
+n
+
+u
+
+d
+
+n n
+
+a
+
+n d
+
+n
+
+m n
+
+i r
+
+l
+
+m
+
+k ö a
+
+o a
+
+r ö
+
+n
+
+h
+
+t
+
+m n
+
+k
+
+k
+
+r
+
+k
+
+o
+
+k
+
+r
+
+n
+
+b g
+
+)
+
+e
+
+n
+
+l
+
+a e
+
+/
+
+i
+
+l t t
+
+n
+
+g
+
+k
+
+i t t
+
+e d
+
+e
+
+i t d t
+
+d
+
+å å
+
+h
+
+e
+
+e
+
+e
+
+b e m
+
+t
+
+f h
+
+ä
+
+h
+
+lt h
+
+o
+
+a e
+
+a
+
+l ä n
+
+o n
+
+n
+
+f l i
+
+p n k n
+
+g g r n
+
+4 g n
+
+n
+
+d
+
+u
+
+r å
+
+s i
+
+g
+
+m
+
+p
+
+ä
+
+o i e
+
+d
+
+l m h
+
+f
+
+e
+
+v u i
+
+d a
+
+ä
+
+v u
+
+a
+
+l l
+
+i e
+
+a
+
+n
+
+o
+
+s l
+
+n
+
+a r l t t
+
+a r i t r
+
+r
+
+n l
+
+a a n
+
+m a v r e
+
+a a v t ? a v n e ö
+
+k l l ä r n 9 n
+
+m
+
+e
+
+n
+
+m o h
+
+i
+
+i
+
+o
+
+r
+
+l i d
+
+g
+
+i
+
+r
+
+o
+
+d
+
+n n h
+
+r
+
+n s h
+
+i i i
+
+i h
+
+u
+
+m
+
+f
+
+a
+
+e
+
+r
+
+n e
+
+a
+
+a
+
+r
+
+h
+
+r k g
+
+l u p
+
+t k r
+
+) l u
+
+f
+
+t e
+
+6
+
+e
+
+n
+
+e
+
+m r
+
+c
+
+n
+
+k
+
+t
+
+å
+
+v
+
+t
+
+e o k
+
+t
+
+r
+
+u
+
+l
+
+v r
+
+e
+
+r
+
+t t
+
+in
+
+n
+
+/
+
+n
+
+e n p a
+
+l d
+
+r a a
+
+o d e
+
+r
+
+d
+
+o
+
+k
+
+c
+
+o ä a m e h
+
+u
+
+h
+
+o e a
+
+e h k u
+
+h
+
+a
+
+a k l x l h
+
+g
+
+u m e
+
+m
+
+ö i m
+
+r
+
+r
+
+a
+
+h e
+
+i
+
+r s e ?
+
+r r
+
+g l
+
+k
+
+e c
+
+e l
+
+o
+
+i
+
+e c
+
+r s s r r i
+
+l c
+
+t
+
+n f
+
+t e n f
+
+a
+
+k
+
+n l l l d
+
+n l l l ) n
+
+g ä s e o
+
+l v d e d s i
+
+n
+
+l d l t d s f
+
+t
+
+a
+
+a
+
+o
+
+e o
+
+t
+
+l
+
+ö
+
+i
+
+k
+
+l l
+
+g
+
+l l l r
+
+l
+
+n l g
+
+l
+
+f m
+
+o
+
+k l
+
+m d o
+
+l a a e a b
+
+ä o
+
+m m e
+
+a r
+
+e
+
+a
+
+k
+
+h
+
+u i
+
+e n
+
+u i i
+
+a
+
+å n a s
+
+å i
+
+n
+
+n
+
+a
+
+i a e a n
+
+a
+
+i r r t
+
+n
+
+k l
+
+s
+
+s e
+
+f
+
+o
+
+e
+
+a
+
+e
+
+e a t
+
+r
+
+r å
+
+n
+
+b
+
+n a
+
+l
+
+y
+
+n r
+
+n l
+
+i p t M t l
+
+a
+
+o b
+
+e
+
+g b ö
+
+k
+
+a
+
+l t t
+
+d
+
+r t t t
+
+s
+
+f e
+
+a
+
+g t
+
+a
+
+a e r m v
+
+c t ln d g a e
+
+m u
+
+b e e r l
+
+s
+
+m k
+
+r p j e n r
+
+p
+
+r
+
+t e
+
+r
+
+b t
+
+b
+
+e
+
+å t o
+
+t
+
+å
+
+l -
+
+t o
+
+å
+
+l a .
+
+å
+
+s
+
+s
+
+r i
+
+m
+
+y
+
+m
+
+e d
+
+r s
+
+e d d
+
+m
+
+s
+
+t m
+
+d
+
+r r k
+
+o s
+
+d i r
+
+r k l
+
+e
+
+n n o
+
+t 0 n
+
+m
+
+o r
+
+a
+
+n
+
+a p
+
+e
+
+e g
+
+t
+
+h
+
+a
+
+h
+
+a
+
+n
+
+la
+
+it f
+
+g s
+
+i g k e
+
+h
+
+i e k
+
+a a i e
+
+i
+
+e
+
+t e
+
+d n s
+
+c l a
+
+t
+
+v
+
+m
+
+n t o
+
+m
+
+n n t
+
+l e
+
+s
+
+m n
+
+p o f
+
+r m
+
+m n k o / o f
+
+n m
+
+m l l r r n 9
+
+m
+
+k a r
+
+r a
+
+a u
+
+s
+
+i n
+
+i
+
+t
+
+t n
+
+t
+
+m e
+
+r r o
+
+r r
+
+t
+
+n r
+
+t
+
+t
+
+k r
+
+r
+
+y
+
+t
+
+e
+
+a d n i r e o r
+
+o ä å d
+
+o ä å å d i
+
+n
+
+o å
+
+s
+
+a
+
+s
+
+o å s
+
+a
+
+a s
+
+o
+
+ä 2 ä s
+
+t
+
+r
+
+a
+
+p l l
+
+r
+
+r
+
+u lä
+
+t
+
+r
+
+t i s e
+
+r
+
+t t i t lk
+
+e r io r
+
+r t ä ä
+
+s r å e r
+
+r t d s m s r y e
+
+r p p p e
+
+i
+
+a e r
+
+b n
+
+i a f g t o a
+
+k
+
+t
+
+t r k
+
+t
+
+t
+
+i
+
+r a
+
+u n
+
+r r n r t g j e n
+
+l
+
+s j r
+
+r t c j v n
+
+r r r n v n r n
+
+l
+
+t
+
+r
+
+t s l
+
+p
+
+n r
+
+o r s
+
+l
+
+o r s s a
+
+r
+
+i
+
+o s
+
+l l l
+
+o
+
+k
+
+l l s
+
+o
+
+r i
+
+i
+
+b d
+
+ö m m b s
+
+å t l p
+
+i
+
+le
+
+u v r u i
+
+u v v r l V
+
+e H P H F
+
+g
+
+v u u in u i r ö l in
+
+e
+
+v ö u
+
+u i r ö e in
+
+u u u e ö
+
+u in
+
+b
+
+e r
+
+a r a a t i e
+
+ä i S
+
+t u
+
+l
+
+g
+
+g
+
+l
+
+n
+
+n
+
+g
+
+g
+
+0
+
+g
+
+n
+
+r
+
+n
+
+å T A Ä H V
+
+å T A A Ä a .
+
+. . . .
+
+å A H H F H b Ä F e F
+
+k
+
+å A H H 3 H b Ä F r F
+
+l
+
+å H H H G F M H F
+
+o
+
+b A ä
+
+G K S U D R M B B .
+
+H
+
+o
+
+r . . . . .
+
+r . . . . 0
+
+e 1 2 3 4
+
+å
+
+r . . . . . . . .
+
+y
+
+r . . . . . . .
+
+i
+
+r . . . . . . .
+
+r .
+
+u . . . . . . . . . 0
+
+o .
+
+K
+
+F 1 2 3 4 5
+
+F 6 7 8 9 1
+
+G 1 1 1 1
+
+G
+
+F 1 2 3 4 5 6 7 8
+
+C
+
+F 1 2 3 4 5 6 7
+
+B
+
+F 1 2 3 4 5 6 7
+
+M
+
+A 1
+
+H 1 2 3 4 5 6 7 8 9 1
+
+K 1
 
 <!-- sida 153 -->
 
@@ -15420,69 +21235,86 @@ Vid skifte av
 kommunalförbundets behållna
 kommunalförbundets behållna
 11 (13)
-G
-M
-K
-P
-H
-L
-S
-T
-L
-T
-K o m m
-ö t e b o r g
-ö l n d a l
-u n g s b a c
-a r t il l e
-ä r r y d a
-e r u m
-t e n u n g s
-j ö r n
-i l l a E d e t
-o t a l t
-u
-k a
-u n
-n
+
+% % % % % % % % % %
+
+l 5 3 1 9 1 6 8 9 8 0
+
+e ,3 ,0 ,9 ,3 ,1 ,3 ,7 ,8 ,1 ,0
+
+nd 4 6 8 3 4 4 4 1 2 0
+
+A 6
+
+10
+
 d
-A
-1
+
 n
-6
-0
-d e
-4 , 3
-6 , 0
-8 , 9
-3 , 3
-4 , 1
-4 , 3
-4 , 7
-1 , 8
-2 , 1
-0 , 0
-l
-5
-3
-1
-9
-1
-6
-8
-9
-8
-0
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
+
+a
+
+n
+
+u
+
+k
+
+u
+
+m g l c
+
+s
+
+t
+
+r
+
+a
+
+a
+
+g
+
+e
+
+m o a b le d
+
+n
+
+d
+
+b d s l
+
+t
+
+o
+
+i y m u
+
+E l
+
+K e ln g t r
+
+n
+
+a
+
+t
+
+n r r u n r la t
+
+ö
+
+r e ö l
+
+ö
+
+u a ä
+
+t j i o
+
+G M K P H Le S T L T
 
 [Tabell 362-1](handlingar.tabeller/362-1.csv)
 
@@ -15789,76 +21621,84 @@ medlemskommun. Vid sådana möten ska en kommun i första hand företrädas av k
 annan politiker.
 
 3
-K
-G
-M
-K
-P
-H
-L
-S
-T
-L
-A
-K
-S
-o m m u n
-ö te b o rg
-ö ln d a l
-u n g s b a c k a
-a rtille
-ä rry d a
-e ru m
-te n u n g s u n
-jö rn
-illa E d e t
-le
-u n g ä lv
-u m m a
-d
-A
+
+l 7% 1% 5% 0% 6% 8% 7% 2% 0% 5% 9% 0%
+
+e ,2 ,5 ,1 ,1 ,7 ,9 ,3 ,7 ,0 ,3 ,7 ,0
+
+d 59 5 8 3 3 3 4 1 2 3 4 00
+
+An
+
 1
+
+d
+
+ka
+
 n
-5
-0
+
+c
+
+u
+
+t
+
+n rg l a
+
+s
+
+u
+
+a
+
+a
+
+g
+
+e
+
+lv a
+
+o
+
+b le d
+
+n
+
 d
-9
-5
-8
-3
-3
-3
-4
-1
-2
-3
-4
-0
-e l
-,2 7
-,5 1
-,1 5
-,1 0
-,7 6
-,9 8
-,3 7
-,7 2
-,0 0
-,3 5
-,7 9
-,0 0
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
+
+m b d s l
+
+ä m
+
+i y m u
+
+E
+
+e ln g t r u n n
+
+g
+
+m t
+
+n r r r
+
+r la
+
+n m
+
+ö
+
+e
+
+l e
+
+o ö
+
+u a ä e t jö i l u u
+
+K G M K P H L S T L A K S
 
 <!-- sida 370 -->
 
@@ -16154,80 +21994,86 @@ Kostnaderna för kommunalförbundets verksamhet ska, i den mån de inte täcks p
 genom bidrag från medlemskommunerna fördelat enligt andelarna i § 10.
 
 3
-G
-M
-K
-P
-H
-L
-S
-T
-L
-T
-K o m m
-ö t e b o r g
-ö l n d a l
-u n g s b a c
-a r t il l e
-ä r r y d a
-e r u m
-t e n u n g s
-j ö r n
-i l l a E d e t
-o t a l t
+
+% % % % % % % % % %
+
+l 5 3 1 9 1 6 8 9 8 0
+
+e ,3 ,0 ,9 ,3 ,1 ,3 ,7 ,8 ,1 ,0
+
+nd 4 6 8 3 4 4 4 1 2 0
+
+A 6
+
+10
+
+d
+
+n
+
+a
+
+n
+
 u
-k a
-u n
-n
-d
-A
-1
-n
-6
-0
-d
-4 ,
-6 ,
-8 ,
-3 ,
-4 ,
-4 ,
-4 ,
-1 ,
-2 ,
-0 ,
+
+k
+
+u
+
+m g l c
+
+s
+
+t
+
+r
+
+a
+
+a
+
+g
+
 e
-3
-0
-9
-3
-1
-3
-7
-8
-1
-0
-l
-5
-3
-1
-9
-1
-6
-8
-9
-8
-0
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
+
+m o a b le d
+
+n
+
+d
+
+b d s l
+
+t
+
+o
+
+i y m u
+
+E l
+
+K e ln g t r
+
+n
+
+a
+
+t
+
+n r r u n r la t
+
+ö
+
+r e ö l
+
+ö
+
+u a ä
+
+t j i o
+
+G M K P H Le S T L T
 
 <!-- sida 377 -->
 
@@ -34766,9 +40612,12 @@ n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 1 skydd
 
 <!-- sida 821 -->
 
+Bilaga 1
 Uppdragsnummer: 106 22 65
 
 Yttre översvämningsskydd mot höga havsnivåer Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
+
+Skydd "E6:an" nivå (RH2000)-volym (m3)
 
 1,2
 
@@ -34784,6 +40633,7 @@ Yttre översvämningsskydd mot höga havsnivåer Förstudie avseende lokaliserin
 
 0
 0  20000 40000 60000 80000 100000 120000 140000 160000 180000 200000
+Volym m3
 
 Figur 2.1 Beräknat nivå-volym förhållande för tillgänglig vattenmagasin med ett yttre skydd längs väg E6.
 
@@ -34812,12 +40662,8 @@ Pumparna kan monteras i separata pumpanordningar innefattande en eller flera pum
 i Figur 2.2, alternativt i en enda stor anordning innefattande alla pumpar.
 
 n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 1 skyddsalternativ längs e6.docx | 10(20)
-)0002HR(
-m
-åvinnettaV
-Bilaga 1
-Skydd "E6:an" nivå (RH2000)-volym (m3)
-Volym m3
+
+Vattennivå m (RH2000)
 
 <!-- sida 822 -->
 
@@ -35506,9 +41352,12 @@ inlagsleden.docx                                     2021-01-25| 9(21)
 
 <!-- sida 841 -->
 
+Bilaga 2
 Uppdragsnr: 106 22 65
 
 Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
+
+Skydd "Inlagsleden" nivå (RH2000)-volym (m3)
 
 1,2
 
@@ -35524,6 +41373,7 @@ Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokaliser
 
 0
 100000 110000 120000 130000 140000 150000 160000 170000 180000 190000 200000
+Volym m3
 
 Figur 2.1. Beräknat nivå-volym förhållande för tillgänglig magasinsvolym med ett yttre skydd längs
 Inlagsleden.
@@ -35555,12 +41405,8 @@ Figur 2.2, alternativt i en enda stor anordning innefattande alla pumpar.
 
 \\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 10(21)
-)0002HR(
-m
-åvinnettaV
-Bilaga 2
-Skydd "Inlagsleden" nivå (RH2000)-volym (m3)
-Volym m3
+
+Vattennivå m (RH2000)
 
 <!-- sida 842 -->
 

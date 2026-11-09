@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5eac742c1999d60a717b331/17593073979
 sha256: 27c7cbcaff0ef8e345e000141c734ff168fc0d980d4580ab9be34c4e650a26e7
 bytes: 55543196
 sidor: 153
-hamtad: 2026-10-25T08:16:18+00:00
-konverterad: 2026-10-25T08:21:22+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:51:30+00:00
+konverterad: 2026-11-09T12:56:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ej-konverterad, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr]
@@ -440,29 +440,45 @@ Tillväxt och inkludering
 
 Befolkningstillväxt
 
-Det finns ett starkt samband mellan en regions befolkningsmängd och näringslivsutveckling
-folkmängd och dess förmåga att skapa tillväxt. samt framtida behov av kompetens. Att enbart
-Göteborgsregionen har idag cirka 1,1 miljoner utgå från befolkningsprognoser ökar risken för
-invånare. Under de senaste 25 åren har befolk­ reaktiva beslut istället för ett mer förutseende
-ningen ökat med i snitt en procent per år, trots och långsiktigt agerande. För att skapa tillväxt
-svängningar till följd av IT-krasch, finanskris i regionen behöver kommuner och andra aktö­
-och pandemi.                   rer arbeta aktivt för att fler ska välja att flytta
-De globala trenderna visar att urbanise­ till Göteborgsregionen.
-ringen fortsätter och att storstadsregioner Ambitionen är att regionen ska fortsätta
-växer både i befolkning och antal arbetstill­ växa i samma takt som tidigare fram till 2050.
-fällen. Samtidigt pekar SCB:s prognoser på Det innebär att kommunerna behöver planera
-att befolkningsmängden kommer att minska. för upp till totalt 400 000 nya invånare, ett
-Befolkningsprognoser varierar över tid, så stort antal bostäder och tillgång till samhälls­
-också de senaste 25 åren, vilket försvårar service samt för en ökad regional pendling till
-långsiktiga bedömningar. Därför är det viktigt arbete och studier.
+Det finns ett starkt samband mellan en regions
+folkmängd och dess förmåga att skapa tillväxt.
+Göteborgsregionen har idag cirka 1,1 miljoner
+invånare. Under de senaste 25 åren har befolk­
+ningen ökat med i snitt en procent per år, trots
+svängningar till följd av IT-krasch, finanskris
+och pandemi.
+De globala trenderna visar att urbanise­
+ringen fortsätter och att storstadsregioner
+växer både i befolkning och antal arbetstill­
+fällen. Samtidigt pekar SCB:s prognoser på
+att befolkningsmängden kommer att minska.
+Befolkningsprognoser varierar över tid, så
+också de senaste 25 åren, vilket försvårar
+långsiktiga bedömningar. Därför är det viktigt
 att kontinuerligt följa prognoser för både
+
+befolkningsmängd och näringslivsutveckling
+samt framtida behov av kompetens. Att enbart
+utgå från befolkningsprognoser ökar risken för
+reaktiva beslut istället för ett mer förutseende
+och långsiktigt agerande. För att skapa tillväxt
+i regionen behöver kommuner och andra aktö­
+rer arbeta aktivt för att fler ska välja att flytta
+till Göteborgsregionen.
+Ambitionen är att regionen ska fortsätta
+växa i samma takt som tidigare fram till 2050.
+Det innebär att kommunerna behöver planera
+för upp till totalt 400 000 nya invånare, ett
+stort antal bostäder och tillgång till samhälls­
+service samt för en ökad regional pendling till
+arbete och studier.
 
 Vi är överens om att sträva efter att befolkningen ska växa
 med i snitt 1 procent om året fram till 2050.
 
 Tillsammans tar vi ansvar genom att:
-
 • bidra till en regional tillväxt på 1 procent utifrån varje kommuns
+
 lokala förutsättningar,
 • följa upp och justera våra planeringstal årligen utifrån regionens
 befolkningsprognos och tillväxtpotential.
@@ -486,19 +502,32 @@ också duktiga på att utnyttja sina investering­
 ar, vilket leder till högre exportintäkter och
 stärker hela Sveriges tillväxt.
 I takt med att kunskapsinnehållet inom in­
-dustrin ökar, blir tillgången till rätt kompetens tion och förbättra företagens konkurrenskraft
-avgörande för tillväxten. I ett internationellt skapas fler framgångsrika företag och fler jobb
-perspektiv har Göteborgsregionen ett utmärkt i regionen. Det leder till en starkare arbets­
-utgångsläge. Befolkningen är relativt ung och marknad, lägre arbetslöshet och bättre livskva­
-mer välutbildad än genomsnittet i Sverige, litet för invånarna i Göteborgsregionen.
-särskilt inom naturvetenskap och teknik. Det Besöksnäringen växer snabbt och är viktig
-finns också en bredd i kompetensen, allt från för Göteborgsregionen. Besökarna kommer
-hantverksskickliga yrkesutövare till innova­ både från Sverige och internationellt. Regio­
-tiva forskare. Detta har lett till att regionens nens attraktionskraft bedöms att öka, tack
-näringsliv är i framkant inom industrin. vare ett varierat utbud av evenemang, stadsliv,
-Att värna näringslivets position är viktigt, närhet till natur och en lägre risk för extrem­
-eftersom det är en del av Sveriges utveckling väder än andra destinationer. 
+dustrin ökar, blir tillgången till rätt kompetens
+avgörande för tillväxten. I ett internationellt
+perspektiv har Göteborgsregionen ett utmärkt
+utgångsläge. Befolkningen är relativt ung och
+mer välutbildad än genomsnittet i Sverige,
+särskilt inom naturvetenskap och teknik. Det
+finns också en bredd i kompetensen, allt från
+hantverksskickliga yrkesutövare till innova­
+tiva forskare. Detta har lett till att regionens
+näringsliv är i framkant inom industrin.
+Att värna näringslivets position är viktigt,
+eftersom det är en del av Sveriges utveckling
 mot hållbar tillväxt. Genom att stödja innova­
+
+tion och förbättra företagens konkurrenskraft
+skapas fler framgångsrika företag och fler jobb
+i regionen. Det leder till en starkare arbets­
+marknad, lägre arbetslöshet och bättre livskva­
+litet för invånarna i Göteborgsregionen.
+Besöksnäringen växer snabbt och är viktig
+för Göteborgsregionen. Besökarna kommer
+både från Sverige och internationellt. Regio­
+nens attraktionskraft bedöms att öka, tack
+vare ett varierat utbud av evenemang, stadsliv,
+närhet till natur och en lägre risk för extrem­
+väder än andra destinationer. 
 
 9
 
@@ -525,29 +554,45 @@ fossilfri energi.
 
 Kompetensförsörjning
 
-Både näringsliv och offentlig sektor i Göte­ Fram till år 2050 behöver kommunerna, till­
-borgsregionen har ett växande behov av kompe­ sammans med näringslivet och andra aktörer,
-tens, där rekrytering, omställning och kom­ driva det strategiska arbetet med att säkerstäl­
-petensutveckling är avgörande. Detta behov la tillgången på rätt kompetens i Göteborgs­
-förväntas finnas kvar under överskådlig tid. regionen. Utbildningssystemen måste orga­
-En stor utmaning är att bättre matcha ar­ niseras så att de snabbt kan anpassas och ge
-betsgivarnas behov med den befintliga kom­ individer möjlighet att utveckla sina kunska­
-petensen. För kommunerna är det avgörande per i takt med förändrade krav på arbetsmark­
-att ha medarbetare med rätt kunskaper för att naden. Det gäller även att möta efterfrågan på
-kunna erbjuda välfärdstjänster av god kvali­ nya färdigheter inom områden som artificiell
-tet. I näringslivet finns ett växande behov av intelligens, försvar och säkerhet.
-kompetens inom flera branscher. I Göteborgs­ En viktig uppgift för kommunerna blir att
-regionens unika mix, där stark forskning och skapa ett samhälle som lockar människor med
-innovation möter en kraftfull tillverkningsin­ olika kompetenser att bosätta sig och arbeta i
-dustri, behövs både hantverksskickliga yrkes­ regionen.
+Både näringsliv och offentlig sektor i Göte­
+borgsregionen har ett växande behov av kompe­
+tens, där rekrytering, omställning och kom­
+petensutveckling är avgörande. Detta behov
+förväntas finnas kvar under överskådlig tid.
+En stor utmaning är att bättre matcha ar­
+betsgivarnas behov med den befintliga kom­
+petensen. För kommunerna är det avgörande
+att ha medarbetare med rätt kunskaper för att
+kunna erbjuda välfärdstjänster av god kvali­
+tet. I näringslivet finns ett växande behov av
+kompetens inom flera branscher. I Göteborgs­
+regionens unika mix, där stark forskning och
+innovation möter en kraftfull tillverkningsin­
+dustri, behövs både hantverksskickliga yrkes­
 utövare och innovativa forskare.
+
+Fram till år 2050 behöver kommunerna, till­
+sammans med näringslivet och andra aktörer,
+driva det strategiska arbetet med att säkerstäl­
+la tillgången på rätt kompetens i Göteborgs­
+regionen. Utbildningssystemen måste orga­
+niseras så att de snabbt kan anpassas och ge
+individer möjlighet att utveckla sina kunska­
+per i takt med förändrade krav på arbetsmark­
+naden. Det gäller även att möta efterfrågan på
+nya färdigheter inom områden som artificiell
+intelligens, försvar och säkerhet.
+En viktig uppgift för kommunerna blir att
+skapa ett samhälle som lockar människor med
+olika kompetenser att bosätta sig och arbeta i
+regionen.
 
 Vi är överens om att göra Göteborgsregionen till en plats där
 fler vill arbeta och studera.
 
 Tillsammans tar vi ansvar genom att:
-• förstärka de strategiska strukturerna för kompetensförsörjning på
 
+• förstärka de strategiska strukturerna för kompetensförsörjning på
 regional, nationell och internationell nivå samt kopplingen mellan
 skola och arbetsliv,
 • förstärka arbetet med att alla elever ska fullfölja sina studier,
@@ -562,21 +607,36 @@ av livslångt lärande.
 
 Inkludering
 
-Socioekonomiska skillnader och utanförskap het, trygghet och tillit. Dessa är viktiga bygg­
-påverkar både individer och samhälle nega­ stenar i ett inkluderande samhälle.
-tivt. Trots att de flesta i Sverige har fått det En god regional samhällsplanering är avgö­
-bättre ekonomiskt de senaste decennierna, har rande för att ge människor tillgång till regio­
-grupper med låga inkomster haft en svagare nens kvaliteter. Den gör det möjligt för fler att
-utveckling, vilket har lett till ökande inkomst­ vara aktiva och delaktiga i samhället. Tillsam­
-skillnader. Om utanförskapet inte motverkas mans går det att skapa trygga och tillgängliga
-riskerar samhället att bli mer polariserat, livsmiljöer som bygger tillit till samhällets funk­
-med ökande klyftor och motsättningar som tioner och stärker den sociala hållbarheten.
-följd. Ett inkluderande samhälle förutsätter Ambitionen är att Göteborgsregionen år
-att människor har tillit – till demokratin, 2050 ska vara en inkluderande, hållbar och
-samhälls institutionerna och varandra. innovativ region där social rättvisa, demokra­
-När människor har god tillgång till utbild­ tiska värden och ekonomisk jämlikhet står i
-ning, arbete, bostäder, kultur, fritid, service centrum.
+Socioekonomiska skillnader och utanförskap
+påverkar både individer och samhälle nega­
+tivt. Trots att de flesta i Sverige har fått det
+bättre ekonomiskt de senaste decennierna, har
+grupper med låga inkomster haft en svagare
+utveckling, vilket har lett till ökande inkomst­
+skillnader. Om utanförskapet inte motverkas
+riskerar samhället att bli mer polariserat,
+med ökande klyftor och motsättningar som
+följd. Ett inkluderande samhälle förutsätter
+att människor har tillit – till demokratin,
+samhälls institutionerna och varandra.
+När människor har god tillgång till utbild­
+ning, arbete, bostäder, kultur, fritid, service
 och natur skapas förutsättningar för delaktig­
+
+het, trygghet och tillit. Dessa är viktiga bygg­
+stenar i ett inkluderande samhälle.
+En god regional samhällsplanering är avgö­
+rande för att ge människor tillgång till regio­
+nens kvaliteter. Den gör det möjligt för fler att
+vara aktiva och delaktiga i samhället. Tillsam­
+mans går det att skapa trygga och tillgängliga
+livsmiljöer som bygger tillit till samhällets funk­
+tioner och stärker den sociala hållbarheten.
+Ambitionen är att Göteborgsregionen år
+2050 ska vara en inkluderande, hållbar och
+innovativ region där social rättvisa, demokra­
+tiska värden och ekonomisk jämlikhet står i
+centrum.
 
 Vi är överens om att Göteborgsregionens samhällsutveckling
 ska präglas av hållbara och jämlika livsmiljöer.
@@ -585,8 +645,8 @@ Tillsammans tar vi ansvar genom att:
 
 • bidra till en hög tillit till demokratin och till samhällets funktioner,
 • öka satsningarna på utbildning och kompetensutveckling så att
-
 fler kommer i arbete,
+
 • planera för trygga, gestaltade och inkluderande livsmiljöer,
 
 • bidra till en jämlik tillgång till välfungerande boende- och livsmiljöer,
@@ -605,68 +665,89 @@ Samhällsbyggnad
 
 Strukturbilden
 
-Strukturbild för Göteborgsregionen är Strukturbildens delar
+Strukturbild för Göteborgsregionen är
 resultatet av ett politiskt uppdrag från rådsla­
-get 2006. Syftet var att skapa en gemensam Stadsområdet är vår regionkärna
-bild av hur och var regionen ska växa på ett Stadsområdet omfattar de tätbebyggda
-hållbart sätt. Arbetet genomfördes i nära delarna av Göteborg, Mölndal och Partille och
-samverkan mellan kommuner, näringsliv och utgör regionens starkaste tillväxtmotor. En
-akademi.                              stark regional kärna är avgörande för arbets­
+get 2006. Syftet var att skapa en gemensam
+bild av hur och var regionen ska växa på ett
+hållbart sätt. Arbetet genomfördes i nära
+samverkan mellan kommuner, näringsliv och
+akademi.
 
-marknadsregionen. Därför är det både ett ge­
-När Strukturbilden antogs 2008 var GR mensamt intresse och ansvar att stärka och
-regionplaneorgan enligt plan­ och bygglagen. vidareutveckla regionkärnan. Även framöver
-Detta gav dokumentet rättsverkan, till exem­ kommer regionens huvudsakliga tillväxt vara
-pel vid länsstyrelsens prövning av kommunala starkast här.
+När Strukturbilden antogs 2008 var GR
+regionplaneorgan enligt plan­ och bygglagen.
+Detta gav dokumentet rättsverkan, till exem­
+pel vid länsstyrelsens prövning av kommunala
 detaljplaner.
-Efter ändringar i lagstiftningen 2019 är GR Huvudstråken och stationssamhällena
+Efter ändringar i lagstiftningen 2019 är GR
 inte längre regionplaneorgan, vilket gör att
-I de fem huvudstråken fungerar järnvägen
 Strukturbilden inte längre har någon formell
-som regionens ryggrad. Den kompletteras
 rättsverkan. Däremot fungerar den fortsatt
-av motsvarande stråk för vägtrafik. Den
 som en politisk överenskommelse mellan
-regionala tillväxten koncentreras främst till
 medlemskommunerna.
-det sammanhängande stadsområdet och till
-stationssamhällena längs huvudstråken.
+
 Beslutet att planera enligt Strukturbilden
-har varit framgångsrikt. Det har bland annat Blåstruktur
+har varit framgångsrikt. Det har bland annat
 skapat tydlighet och förutsägbarhet gentemot
-Blåstrukturen i Göteborgsregionen består
 marknaden. Kommunernas gemensamma pla­
-huvudsakligen av kust, hav, sjöar samt Göta
 nering har också lett till att Göteborgsregionen
-älv. De är alla viktiga resurser, men det finns
 kunnat driva viktiga frågor inom infrastruktur
-också utmaningar eftersom målkonflik­
 och kollektivtrafik. Genom att planera bebyg­
-terna är många. Överenskommelserna om
 gelse längs kollektivtrafikstråken säkerställs
-utvecklingen i kustzonen beskrivs närmare i
 ett resandeunderlag som motiverar investe­
-Fördjupad strukturbild för kustzonen.
 ringar i den befintliga infrastrukturen.
-Grönstruktur
+
 Kommunerna i Göteborgsregionen kan fortfa­
-Den sammanhängande grönstrukturen och
 rande välja hur mark ska planeras, utan att be­
-tätortsnära grönskan bidrar till Göteborgs­
 höva kompromissa med andra viktiga värden.
-regionens attraktionskraft och är därför av
 Men för att regionen ska kunna fortsätta växa
-ett betydande gemensamt intresse. De utgör
 och behålla sina styrkor, behöver de regionala
-en värdefull regional resurs – för friluftsliv,
 resurserna användas optimalt. Var och hur ny
-biologisk mångfald, klimatreglering och för
 bebyggelse planeras spelar stor roll för regio­
-regionens robusthet.
 nens attraktivitet. Därför är det viktigt att ha
 både ett lokalt och regionalt perspektiv när ny
 bebyggelse planeras. 
+
 14
+
+Strukturbildens delar
+
+Stadsområdet är vår regionkärna
+Stadsområdet omfattar de tätbebyggda
+delarna av Göteborg, Mölndal och Partille och
+utgör regionens starkaste tillväxtmotor. En
+stark regional kärna är avgörande för arbets­
+marknadsregionen. Därför är det både ett ge­
+mensamt intresse och ansvar att stärka och
+vidareutveckla regionkärnan. Även framöver
+kommer regionens huvudsakliga tillväxt vara
+starkast här.
+
+Huvudstråken och stationssamhällena
+I de fem huvudstråken fungerar järnvägen
+som regionens ryggrad. Den kompletteras
+av motsvarande stråk för vägtrafik. Den
+regionala tillväxten koncentreras främst till
+det sammanhängande stadsområdet och till
+stationssamhällena längs huvudstråken.
+
+Blåstruktur
+
+Blåstrukturen i Göteborgsregionen består
+huvudsakligen av kust, hav, sjöar samt Göta
+älv. De är alla viktiga resurser, men det finns
+också utmaningar eftersom målkonflik­
+terna är många. Överenskommelserna om
+utvecklingen i kustzonen beskrivs närmare i
+Fördjupad strukturbild för kustzonen.
+
+Grönstruktur
+Den sammanhängande grönstrukturen och
+tätortsnära grönskan bidrar till Göteborgs­
+regionens attraktionskraft och är därför av
+ett betydande gemensamt intresse. De utgör
+en värdefull regional resurs – för friluftsliv,
+biologisk mångfald, klimatreglering och för
+regionens robusthet.
 
 <!-- sida 23 -->
 
@@ -703,13 +784,19 @@ Oslo-Göteborg-Malmö/Köpenhamn är god.
 I dagsläget uppfyller inte Uddevalla kriteri-
 erna som tillväxtnod. Vid nästa uppdatering
 av den regionala utvecklingsplanen bör även
-Uddevalla prövas som möjlig regional till-
 
+Uddevalla prövas som möjlig regional till-
 växtnod.
 
 Vi är överens om att ta ett gemensamt ansvar
+för att den regionala strukturen är långsiktigt hållbar.
 
-UULLLTTTTLTTTTTT TIG
+Tillsammans tar vi ansvar genom att:
+e planera i enlighet med strukturbilden,
+
+e stödja tillväxten i hela arbetsmarknadsregionen.
+
+16
 
 —
 ——
@@ -725,16 +812,17 @@ UULLLTTTTLTTTTTT TIG
 -—-—
 UJ
 
-för att den regionala strukturen är långsiktigt hållbar.
-
-Tillsammans tar vi ansvar genom att:
-e planera i enlighet med strukturbilden,
-
-e stödja tillväxten i hela arbetsmarknadsregionen.
-
-16
+JT
+I
+—
+IN
+JT
+IN
+SV
 
 INUNNNNNNNO >
+
+UULLLTTTTLTTTTTT TIG
 
 <!-- sida 25 -->
 
@@ -799,37 +887,53 @@ re . Br ne
 
 Mark     för  näringslivet
 
-Göteborgsregionen är ledande i Sverige inom Lokaliseringen är avgörande. Områdena be­
-innovation och industri. Prognoser pekar på höver ligga nära vägar och motorvägspåfarter,
-fortsatt tillväxt i näringslivet, vilket ställer samt ha tillgång till grundinfrastruktur som el,
-krav på en stabil tillgång till verksamhetsmark. vatten och avlopp. Personaltäta verksamheter
-Annars riskerar regionen att gå miste om nya behöver placeras där det är lätt och smidigt
-etableringar och att nödvändiga omlokalise­ att åka kollektivt medan mindre personaltäta
-ringar inte kan genomföras.    verksamheter kan ligga i områden med glesare
-Enligt Business Region Göteborg är behovet kollektivtrafik.
-av färdigplanerad mark mycket stort. För att Nyetableringar kommer att leda till målkon­
-möta detta krävs en aktiv markpolitik, inköp flikter, till exempel i relation till bevarandet av
-av mark och proaktiv planering, även när det grönområden. Därför är det viktigt att nog­
-ännu inte finns en förutbestämd exploatör. grant väga olika intressen mot varandra ur ett
-Flera större verksamhetsområden behöver regionalt nyttoperspektiv.
-planeras. Ambitionen bör vara att ha minst Det finns också potential att förtäta befintliga
-ett sådant område i varje huvudstråk samt i verksamhetsområden. Det kan dock kräva en
-de mer centrala delarna av regionen. Dessa annan affärsmodell för ändring av detaljplaner.
+Göteborgsregionen är ledande i Sverige inom
+innovation och industri. Prognoser pekar på
+fortsatt tillväxt i näringslivet, vilket ställer
+krav på en stabil tillgång till verksamhetsmark.
+Annars riskerar regionen att gå miste om nya
+etableringar och att nödvändiga omlokalise­
+ringar inte kan genomföras.
+Enligt Business Region Göteborg är behovet
+av färdigplanerad mark mycket stort. För att
+möta detta krävs en aktiv markpolitik, inköp
+av mark och proaktiv planering, även när det
+ännu inte finns en förutbestämd exploatör.
+Flera större verksamhetsområden behöver
+planeras. Ambitionen bör vara att ha minst
+ett sådant område i varje huvudstråk samt i
+de mer centrala delarna av regionen. Dessa
 områden bör planeras med hög flexibilitet för
 att möjliggöra viktiga etableringar.
 
-Vi är överens om att skapa fysiska förutsättningar
+Lokaliseringen är avgörande. Områdena be­
+höver ligga nära vägar och motorvägspåfarter,
+samt ha tillgång till grundinfrastruktur som el,
+vatten och avlopp. Personaltäta verksamheter
+behöver placeras där det är lätt och smidigt
+att åka kollektivt medan mindre personaltäta
+verksamheter kan ligga i områden med glesare
+kollektivtrafik.
+Nyetableringar kommer att leda till målkon­
+flikter, till exempel i relation till bevarandet av
+grönområden. Därför är det viktigt att nog­
+grant väga olika intressen mot varandra ur ett
+regionalt nyttoperspektiv.
+Det finns också potential att förtäta befintliga
+verksamhetsområden. Det kan dock kräva en
+annan affärsmodell för ändring av detaljplaner.
 
+Vi är överens om att skapa fysiska förutsättningar
 för ett expansivt näringsliv.
 
 Tillsammans tar vi ansvar genom att:
+
 • gemensamt planera markberedskap för några större,
 regionalt optimerade, verksamhetsområden,
-
 • verka för att fler arbetsplatser etableras längre ut i stråken och
 i de regionala tillväxtnoderna,
-• bidra till att hitta nya affärsmodeller som möjliggör förtätning
 
+• bidra till att hitta nya affärsmodeller som möjliggör förtätning
 av befintliga verksamhetsområden.
 
 18
@@ -1095,31 +1199,45 @@ Politiska överenskommelser
 
 Risk    och    sårbarhet
 
-Göteborgsregionen står inför flera utmaning­ tiv kommer det att ställa nya krav på hur vi
-ar när det gäller hot, risk och sårbarhet. Det planerar vår bebyggelse och infrastruktur. Ro­
-internationella säkerhetsläget, risken för nya busthet i både de lokala och regionala försörj­
-pandemier, cyberhot och hot mot det svenska ningssystemen blir viktigare än tidigare. Den
-välfärdssystemet ställer nya krav på samhäl­ nationella säkerheten kommer att få betydelse
-let. Den regionala försörjningen av energi, för såväl finansiering som utformning av ett
-livsmedel och varor till näringslivet måste antal regionala funktioner, såsom infrastruk­
-hanteras på lokal, regional och nationell nivå. tur och stöd till civilt försvar.
-Även klimatförändringarna ställer krav på an­ Göteborgsregionen behöver samarbeta med
-passning, dessa utmaningar tas upp i ett eget övriga aktörer i Sverige. Samarbetet måste
-kapitel, se sidan 31.          präglas av ett proaktivt arbetssätt som stärker
-Sveriges inträde i Nato ritar delvis om den krisberedskapen, säkrar försörjningssystemen
-regionala spelplanen. Ur ett försvarsperspek­ och främjar samhällsplaneringen.
+Göteborgsregionen står inför flera utmaning­
+ar när det gäller hot, risk och sårbarhet. Det
+internationella säkerhetsläget, risken för nya
+pandemier, cyberhot och hot mot det svenska
+välfärdssystemet ställer nya krav på samhäl­
+let. Den regionala försörjningen av energi,
+livsmedel och varor till näringslivet måste
+hanteras på lokal, regional och nationell nivå.
+Även klimatförändringarna ställer krav på an­
+passning, dessa utmaningar tas upp i ett eget
+kapitel, se sidan 31.
+Sveriges inträde i Nato ritar delvis om den
+regionala spelplanen. Ur ett försvarsperspek­
+
+tiv kommer det att ställa nya krav på hur vi
+planerar vår bebyggelse och infrastruktur. Ro­
+busthet i både de lokala och regionala försörj­
+ningssystemen blir viktigare än tidigare. Den
+nationella säkerheten kommer att få betydelse
+för såväl finansiering som utformning av ett
+antal regionala funktioner, såsom infrastruk­
+tur och stöd till civilt försvar.
+Göteborgsregionen behöver samarbeta med
+övriga aktörer i Sverige. Samarbetet måste
+präglas av ett proaktivt arbetssätt som stärker
+krisberedskapen, säkrar försörjningssystemen
+och främjar samhällsplaneringen.
 
 Vi är överens om att Göteborgsregionen ska präglas
 av robusthet.
 
 Tillsammans tar vi ansvar genom att:
 • planera för ökad motståndskraft i de regionala försörjnings systemen
-
 samt i transportinfrastrukturen,
-• stärka den digitala motståndskraften och infrastrukturen,
 
+• stärka den digitala motståndskraften och infrastrukturen,
 • öka den regionala självförsörjningsgraden med särskilt fokus på energi
 och livsmedel,
+
 • bevara jordbruksmark utanför tätorterna,
 
 • samarbeta för att motverka välfärdsbrottslighet.
@@ -1143,18 +1261,30 @@ rande för både Västsveriges och hela Sveriges
 ekonomi och konkurrenskraft. För att minska
 klimatpåverkan och samtidigt behålla produk­
 tion, kompetens och arbetstillfällen krävs en
-grön omställning. Det innebär att elproduk­ För att möta näringslivets och industrins am­
-tionen måste bli fossilfri, trygg och tillräcklig. bitioner att ställa om krävs en samhällsplane­
-Produktion från flera olika energislag behövs ring som tar hänsyn till det framtida behovet
-för att minska sårbarheten, liksom en högre av infrastruktur för fossilfri energiproduktion
-andel lokal elproduktion. Idag är självförsörj­ och eldistribution.
-ningsgraden i Göteborgsregionen endast tolv Möjligheterna att bygga ut landbaserad vind­
-procent.                       kraft i regionen är begränsade. Den största
-Den gröna omställningen inom industrin och potentialen finns i havsbaserad vindkraft och
-transportsektorn kräver en kraftig utbyggnad genom samverkan med andra regioner. Därför
-av både energiproduktion och elnät. Tillsam­ behöver samhällsplaneringen ske i ett bredare
-mans med kompetensförsörjning är tillgången perspektiv.
+grön omställning. Det innebär att elproduk­
+tionen måste bli fossilfri, trygg och tillräcklig.
+Produktion från flera olika energislag behövs
+för att minska sårbarheten, liksom en högre
+andel lokal elproduktion. Idag är självförsörj­
+ningsgraden i Göteborgsregionen endast tolv
+procent.
+Den gröna omställningen inom industrin och
+transportsektorn kräver en kraftig utbyggnad
+av både energiproduktion och elnät. Tillsam­
+mans med kompetensförsörjning är tillgången
 till energi avgörande för regionens välfärd.
+
+För att möta näringslivets och industrins am­
+bitioner att ställa om krävs en samhällsplane­
+ring som tar hänsyn till det framtida behovet
+av infrastruktur för fossilfri energiproduktion
+och eldistribution.
+Möjligheterna att bygga ut landbaserad vind­
+kraft i regionen är begränsade. Den största
+potentialen finns i havsbaserad vindkraft och
+genom samverkan med andra regioner. Därför
+behöver samhällsplaneringen ske i ett bredare
+perspektiv.
 
 Vi är överens om att när målkonflikter uppstår ska den
 gröna omställningens energibehov väga tungt.
@@ -1166,8 +1296,8 @@ Tillsammans tar vi ansvar genom att:
 
 • planera för regional energilagring,
 • påverka nationellt för att kommuner som tillåter viktiga
-
 etableringar trots målkonflikter, ska få kompensation,
+
 • acceptera att vissa tekniska lösningar kan
 förändra landskapsbilden,
 
@@ -1179,56 +1309,82 @@ förändra landskapsbilden,
 
 Dricksvattenförsörjning
 
-Dricksvatten är och kommer fortsatt vara vårt vattenförsörjning är även centralt ur ett risk­
-viktigaste livsmedel. I Göteborgsregionen får och sårbarhetsperspektiv.
-en majoritet av invånarna sitt vatten från Göta Flera kommuner klarar inte vattenförsörjning­
-älv, en sårbar källa, särskilt med tanke på kli­ en på egen hand, utan är beroende av regionala
-matförändringarna.             resurser. En sammanställning av kommunernas
-Beroendet av Göta älv kommer att kvarstå, planer fram till år 2050 visar att det totala vat­
-och för att säkerställa en hållbar vattenförsörj­ tenbehovet kan öka med 21 procent. För att möta
-ning i framtiden måste älven skyddas och fler efterfrågan krävs ett stärkt skydd av sjöar, vat­
-vattentäkter byggas ut. Detta är avgörande, tendrag och avrinningsområden, samt investe­
-inte bara för att trygga dricksvattenförsörj­ ringar i både nya och befintliga vattentäkter. Det
-ningen, utan också för att möta behoven från förutsätter ett nära samarbete och gemensamma
-jordbruk och industri. Att säkerställa en robust överenskommelser mellan kommunerna.
+Dricksvatten är och kommer fortsatt vara vårt
+viktigaste livsmedel. I Göteborgsregionen får
+en majoritet av invånarna sitt vatten från Göta
+älv, en sårbar källa, särskilt med tanke på kli­
+matförändringarna.
+Beroendet av Göta älv kommer att kvarstå,
+och för att säkerställa en hållbar vattenförsörj­
+ning i framtiden måste älven skyddas och fler
+vattentäkter byggas ut. Detta är avgörande,
+inte bara för att trygga dricksvattenförsörj­
+ningen, utan också för att möta behoven från
+jordbruk och industri. Att säkerställa en robust
+
+vattenförsörjning är även centralt ur ett risk­
+och sårbarhetsperspektiv.
+Flera kommuner klarar inte vattenförsörjning­
+en på egen hand, utan är beroende av regionala
+resurser. En sammanställning av kommunernas
+planer fram till år 2050 visar att det totala vat­
+tenbehovet kan öka med 21 procent. För att möta
+efterfrågan krävs ett stärkt skydd av sjöar, vat­
+tendrag och avrinningsområden, samt investe­
+ringar i både nya och befintliga vattentäkter. Det
+förutsätter ett nära samarbete och gemensamma
+överenskommelser mellan kommunerna.
 
 Vi är överens om att gemensamt skapa ett regionalt optimerat
-
 system för dricksvattenförsörjningen.
 
 Tillsammans tar vi ansvar genom att:
-
 • gemensamt planera för att regionens stora vattentäkter
 används för dricksvattenproduktion,
-• ställa höga och gemensamma krav i våra vattenskyddsområden,
 
+• ställa höga och gemensamma krav i våra vattenskyddsområden,
 • öka säkerheten i frågor som rör anläggningar för vattenförsörjning
 samt information om dessa,
+
 • optimera de organisatoriska förutsättningarna för ökat samarbete.
 
 28
 
 <!-- sida 37 -->
 
-Miljö    och    biologisk      mångfald
+Miljö   och    biologisk       mångfald
 
-Göteborgsregionen har fortfarande en poten­ fungerande ekosystem, från tillgången på för­
-tial att växa hållbart, med minimal påverkan nybara råvaror till den biologiska mångfaldens
-på de ekologiska värdena. En god livsmiljö och betydelse för forskning och innovation inom
-välfungerande ekosystem är avgörande för att life science. Om ekosystemen kollapsar utgör
-attrahera både invånare och företag. Fram till det en stor affärsrisk.
-2050 måste regionen hantera flera miljöutma­ Kommunerna har flera möjligheter att bidra
-ningar, såsom den snabbt minskande biolo­ till en livskraftig miljö, bland annat som verk­
-giska mångfalden samt hoten mot vatten­ och samhetsutövare, markägare, skogsbrukare,
-luftkvaliteten.                samhällsplanerare och upphandlare. Genom
-Den biologiska mångfalden kan öka genom att integrera cirkulära principer i både offent­
-en rikedom av arter, genetisk variation och lig verksamhet och näringsliv kan påverkan på
-genom att planera mark på ett sätt som skapar miljö och klimat minska. Detta stärker också
-olika livsmiljöer för djur och växter. den långsiktiga konkurrenskraften och främjar
-Även näringslivet är starkt beroende av en hållbar omställning av samhället.
+Göteborgsregionen har fortfarande en poten­
+tial att växa hållbart, med minimal påverkan
+på de ekologiska värdena. En god livsmiljö och
+välfungerande ekosystem är avgörande för att
+attrahera både invånare och företag. Fram till
+2050 måste regionen hantera flera miljöutma­
+ningar, såsom den snabbt minskande biolo­
+giska mångfalden samt hoten mot vatten­ och
+luftkvaliteten.
+Den biologiska mångfalden kan öka genom
+en rikedom av arter, genetisk variation och
+genom att planera mark på ett sätt som skapar
+olika livsmiljöer för djur och växter.
+Även näringslivet är starkt beroende av
+
+fungerande ekosystem, från tillgången på för­
+nybara råvaror till den biologiska mångfaldens
+betydelse för forskning och innovation inom
+life science. Om ekosystemen kollapsar utgör
+det en stor affärsrisk.
+Kommunerna har flera möjligheter att bidra
+till en livskraftig miljö, bland annat som verk­
+samhetsutövare, markägare, skogsbrukare,
+samhällsplanerare och upphandlare. Genom
+att integrera cirkulära principer i både offent­
+lig verksamhet och näringsliv kan påverkan på
+miljö och klimat minska. Detta stärker också
+den långsiktiga konkurrenskraften och främjar
+en hållbar omställning av samhället.
 
 Vi är överens om att Göteborgsregionen ska präglas av en
-
 hälsosam livsmiljö och hög biologisk mångfald.
 
 Tillsammans tar vi ansvar genom att:
@@ -1244,36 +1400,53 @@ Tillsammans tar vi ansvar genom att:
 
 Klimatomställning
 
-År 2045 ska Sverige ha noll nettoutsläpp av region som aktivt arbetar med klimatfrågor
-växthusgaser. För att nå dit är det både ekono­ lockar unga människor med framtidstro.
-miskt och socialt hållbart att arbeta proaktivt Inom transportsektorn behövs energieffektiva
-med klimatomställning istället för att genom­ fordon och transportsystem, samt en övergång
-föra plötsliga och påtvingade förändringar. till förnybara drivmedel. Satsningar på ett mer
-För att Göteborgsregionen ska behålla och transporteffektivt samhälle är nödvändiga
-stärka attraktiviteten och konkurrenskraften Fysisk planering, både lokalt och regionalt,
-är det avgörande att inte halka efter i klimat­ kan stödja omställningen. Det handlar bland
-omställningen. Omställningen skapar nya annat om att fatta välavvägda beslut kring
-marknader och regionen har goda förutsätt­ var bostäder och verksamheter ska placeras.
-ningar att ligga i framkant.   Investeringar i gång-, cykel- och kollektivtrafik
-Kommunerna behöver både anpassa sin är också viktiga, liksom att godstransporterna
-egen verksamhet och bidra till näringslivets blir mer effektiva.
-omställning. Företagen i Västsverige har en Den tekniska utvecklingen går fort och för att
-tydlig bild av läget och ser fördelar med att den ska kunna tillämpas måste samhällsplane­
-ställa om snabbt, för att kunna vara konkur­ ringen vara flexibel. Planeringen måste också ta
-renskraftiga på den globala marknaden. En höjd för framtida behov och möjligheter.
+År 2045 ska Sverige ha noll nettoutsläpp av
+växthusgaser. För att nå dit är det både ekono­
+miskt och socialt hållbart att arbeta proaktivt
+med klimatomställning istället för att genom­
+föra plötsliga och påtvingade förändringar.
+För att Göteborgsregionen ska behålla och
+stärka attraktiviteten och konkurrenskraften
+är det avgörande att inte halka efter i klimat­
+omställningen. Omställningen skapar nya
+marknader och regionen har goda förutsätt­
+ningar att ligga i framkant.
+Kommunerna behöver både anpassa sin
+egen verksamhet och bidra till näringslivets
+omställning. Företagen i Västsverige har en
+tydlig bild av läget och ser fördelar med att
+ställa om snabbt, för att kunna vara konkur­
+renskraftiga på den globala marknaden. En
+
+region som aktivt arbetar med klimatfrågor
+lockar unga människor med framtidstro.
+Inom transportsektorn behövs energieffektiva
+fordon och transportsystem, samt en övergång
+till förnybara drivmedel. Satsningar på ett mer
+transporteffektivt samhälle är nödvändiga
+Fysisk planering, både lokalt och regionalt,
+kan stödja omställningen. Det handlar bland
+annat om att fatta välavvägda beslut kring
+var bostäder och verksamheter ska placeras.
+Investeringar i gång-, cykel- och kollektivtrafik
+är också viktiga, liksom att godstransporterna
+blir mer effektiva.
+Den tekniska utvecklingen går fort och för att
+den ska kunna tillämpas måste samhällsplane­
+ringen vara flexibel. Planeringen måste också ta
+höjd för framtida behov och möjligheter.
 
 Vi är överens om att Göteborgsregionen ska vara
 fossiloberoende senast år 2045.
 
 Tillsammans tar vi ansvar genom att:
-
 • öka takten och ambitionerna i omställningen av kommunens
-egen verksamhet,
 
+egen verksamhet,
 • minska klimatpåverkan från resor och transporter,
+
 • ställa klimatkrav i upphandlingar, som går att följa upp, för att bidra
 till näringslivets omställning,
-
 • planera samhället på ett klimatsmart sätt.
 
 30
@@ -1282,26 +1455,45 @@ till näringslivets omställning,
 
 Klimatanpassning
 
-Effekterna av ett förändrat klimat förväntas Vid kraftiga skyfall är dagens avloppssystem
-öka fram till 2050. Det handlar om stigande inte dimensionerat för att avleda allt vatten,
-havsnivåer, extremväder som stormar, över­ vilket kan leda till att orenat avloppsvatten
-svämningar och långvarig torka. Att hantera hamnar i vattendrag och havet. Jordbruks­
-klimatförändringar kommer att bli kostsamt, mark, skog och vatten måste brukas och
-både när det gäller investeringar och plane­ skyddas på ett sätt som stärker ekosystemens
-ring. Det finns dock många oklarheter kring motståndskraft mot klimatförändringar­
-hur ansvaret ska fördelas mellan kommuner­ na, samtidigt som självförsörjningsgraden i
-na, regionerna och staten.     regionen ökar. De tätortsnära grönområdena
-De flesta kommunala verksamheter kom­ kommer att vara viktiga för att reglera tem­
-mer att påverkas och måste anpassas. Det kan peraturen och kunna ta emot stora mängder
-handla om att planera för att hantera stora vatten.
-mängder vatten, förbereda vård och omsorg vid För att möta dessa utmaningar måste det
-värmeböljor, utveckla beredskapsplaner för vat­ regionala samarbetet i Västsverige präglas av
-tenbrist och skapa livsmedelsstrategier som tar ett proaktivt arbetssätt. Samarbetet ska stärka
-hänsyn till förändrade växtsäsonger. Beroendet krisberedskapen, säkra försörjningssystemen,
-av Göta älv för dricksvatten kommer att finnas optimera investeringarna och bygga på ett
-kvar, vilket gör det viktigt att skydda älven från regionalt perspektiv i samhällsplaneringen. 
+Effekterna av ett förändrat klimat förväntas
+öka fram till 2050. Det handlar om stigande
+havsnivåer, extremväder som stormar, över­
+svämningar och långvarig torka. Att hantera
+klimatförändringar kommer att bli kostsamt,
+både när det gäller investeringar och plane­
+ring. Det finns dock många oklarheter kring
+hur ansvaret ska fördelas mellan kommuner­
+na, regionerna och staten.
+De flesta kommunala verksamheter kom­
+mer att påverkas och måste anpassas. Det kan
+handla om att planera för att hantera stora
+mängder vatten, förbereda vård och omsorg vid
+värmeböljor, utveckla beredskapsplaner för vat­
+tenbrist och skapa livsmedelsstrategier som tar
+hänsyn till förändrade växtsäsonger. Beroendet
+av Göta älv för dricksvatten kommer att finnas
+kvar, vilket gör det viktigt att skydda älven från
 skred, översvämningar och ett ökat inflöde till
 följd av stigande havsnivåer.
+
+Vid kraftiga skyfall är dagens avloppssystem
+inte dimensionerat för att avleda allt vatten,
+vilket kan leda till att orenat avloppsvatten
+hamnar i vattendrag och havet. Jordbruks­
+mark, skog och vatten måste brukas och
+skyddas på ett sätt som stärker ekosystemens
+motståndskraft mot klimatförändringar­
+na, samtidigt som självförsörjningsgraden i
+regionen ökar. De tätortsnära grönområdena
+kommer att vara viktiga för att reglera tem­
+peraturen och kunna ta emot stora mängder
+vatten.
+För att möta dessa utmaningar måste det
+regionala samarbetet i Västsverige präglas av
+ett proaktivt arbetssätt. Samarbetet ska stärka
+krisberedskapen, säkra försörjningssystemen,
+optimera investeringarna och bygga på ett
+regionalt perspektiv i samhällsplaneringen. 
 
 31
 
@@ -2285,19 +2477,16 @@ Bilaga A
 
 Exploateringsområde
 
-41:2 Då vn
+v:z
 Tölöberg
-
-UIPPIEISPOS
-
-Sa
-
-SN 2
-UIDENFDIOGON
 
 Exploateringsområdet har markerats med blå kantlinje och omfattar:
 
 Tölöberg 2, Tölö 1:17 (2), del av Tölö 6:15, del av Tölö 1:2
+
+UIPPIEISPOS
+
+UIDENFDIOGON
 
 <!-- sida 60 -->
 
@@ -2431,7 +2620,6 @@ VV
 OM AA +
 \- SV |
 Svackdike if SS >
-IG IR = rel
 Torr damm Ål Uv 2 4 / AR h
 v
 TE Na V

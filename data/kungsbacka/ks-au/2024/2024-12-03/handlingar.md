@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.329f2e9b19368002a6f19943/1732891450
 sha256: 6ff870cba8aab7d77be6dd1aae89fa13e3a3307139a97dcb172882ae85ae5e71
 bytes: 147408302
 sidor: 341
-hamtad: 2026-10-25T06:59:06+00:00
-konverterad: 2026-10-25T07:03:24+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T11:24:14+00:00
+konverterad: 2026-11-09T11:29:32+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok]
@@ -5621,33 +5621,58 @@ Sammanfattning
 <!-- sida 138 -->
 
 4
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                                                                     SAMMANFATTNING
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
 Sammanfattning
 
-Den    strategiska       planen      är en   del  av
-Vad   handlar      planen     om?                                               Vad    ska  åstadkommas?
+Vad   handlar      planen     om?
+
+Invånarna  i Västra Götaland  har olika livsvillkor och
+
+förutsättningar. Kollektivtrafiken har en avgörande   roll när
+
+det gäller att tillhandahålla tillgängliga transporter och är
+
+därmed  ett viktigt verktyg för att skapa jämlika förutsättningar
+
+i Västra Götaland. Det  är ett långsiktigt arbete att åstadkomma
+en kollektivtrafik som bidrar till jämlika förutsättningar. Den
+
+strategiska planen beskriver  viktiga områden  där kollektivtrafiken
+
+såväl som  kollektivtrafikplaneringen behöver  utvecklas.
+
+Sociala  analyser                       Delaktighet
+– i planering och genomförande        – utveckla dialog med särskilt
+
+fokus barn och unga
+
+SAMMANFATTNING
+
+Den    strategiska       planen     är  en  del   av
+Vad    ska   åstadkommas?
 trafikförsörjningsprogrammet
-Invånarna  i Västra Götaland  har olika livsvillkor och                         Den  strategiska planen  innehåller fyra åtgärdsområden   med
-förutsättningar. Kollektivtrafiken har en avgörande   roll när                  prioriterade insatser. Dessa presenteras  i figur 1 och fördjupas i             Den  s trategiska planen konkretiserar  genomförandet   av trafik­
+Den  strategiska planen  innehåller fyra åtgärdsområden    med
 
-det gäller att tillhandahålla tillgängliga transporter och är                   avsnittet Åtgärdsområden    och prioriterade insatser.                          försörjningsprogrammets     mål om  att kollektivtrafiken ska bidra
+prioriterade  insatser. Dessa presenteras  i figur 1 och fördjupas i             Den  s trategiska planen konkretiserar genomförandet    av trafik­
 
-därmed  ett viktigt verktyg för att skapa jämlika förutsättningar                                                                                               till jämlika förutsättningar. Ytterligare konkretiseringar görs
+avsnittet Åtgärdsområden    och prioriterade  insatser.                          försörjningsprogrammets    mål  om  att kollektivtrafiken ska bidra
+till jämlika förutsättningar. Ytterligare konkretiseringar görs
 
-i Västra Götaland. Det är ett långsiktigt arbete att åstadkomma                                                                                                 sedan  av Västtrafik i en handlingsplan.  I figur 2 beskrivs hur
+sedan av Västtrafik i en handlingsplan.  I figur 2 beskrivs hur
 
-en kollektivtrafik som bidrar till jämlika förutsättningar. Den                                                                                                 trafikförsörjningsprogrammets     mål och prioriterade  åtgärder
+trafikförsörjningsprogrammets    mål och  prioriterade åtgärder
 
-strategiska planen beskriver  viktiga områden  där kollektivtrafiken                                                                                            hänger  ihop  med  den stratgiska planens  åtgärdsområden    och
-såväl som kollektivtrafikplaneringen  behöver  utvecklas.                                                                                                       prioriterade  insatser samt i den handlingsplan  som  Västtrafik
+hänger  ihop med  den  stratgiska planens åtgärdsområden    och
 
-tar fram  som  en följd av den strategiska planen.
+prioriterade insatser samt  i den handlingsplan  som  Västtrafik
 
-Sociala analyser                        Delaktighet                     Hela  resan  fungerar                       Trygghet                                                                  Målområde
+tar fram som  en följd av den strategiska planen.
 
-– i planering och genomförande         – utveckla dialog med särskilt       – för personer med funktions­        – kollektivtrafiken ska kännas
-fokus barn och unga               nedsättning, barn och äldre                trygg och säker                            Trafikförsörjnings-
+Hela resan  fungerar                       Trygghet                                                                  Målområde
+
+– för personer med funktions­        – kollektivtrafiken ska kännas
+nedsättning, barn och äldre                trygg och säker                            Trafikförsörjnings-
 Mål
 programmet
 
@@ -5655,22 +5680,22 @@ Prioriterade åtgärder
 
 Åtgärds områden
 Strategisk  plan för
-kollektivtrafik på
 
-jämlika  villkor
+kollektivtrafik på
+jämlika villkor
 Prioriterade insatser
 
-Handlingsplan    för
+Handlingsplan   för
 Ytterligare
 kollektivtrafik på
 konkretis eringar
 jämlika  villkor
 
 Figur 2. Den strategiska planen (beslutas av
-infrastruktur- och kollektivtrafiknämnden) i förhållande till
 
-trafikförsörjningsprogrammet (beslutas av regionfullmäktige)
-Figur 1. Den strategiska planens åtgärdsområden   och prioriterade insatser                                                                                       och den handlingsplan som  Västtrafik beslutar om.
+infrastruktur- och kollektivtrafiknämnden) i förhållande till
+trafikförsörjningsprogrammet  (beslutas av regionfullmäktige)
+Figur 1. Den strategiska planens åtgärdsområden  och prioriterade insatser                                                                                       och den  handlingsplan som  Västtrafik beslutar om.
 
 [Tabell 138-1](handlingar.tabeller/138-1.csv)
 
@@ -5690,86 +5715,179 @@ Bakgrund
 <!-- sida 140 -->
 
 6
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                                                                            BAKGRUND
-
-Figur 3. Jämlikhet på tre olika sätt; göra lika, göra olika eller riva hinder
-
-och förändra strukturer.
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
 Bakgrund
 
-Kollektivtrafik        på  jämlika     villkor
-Västra Götalandsregionens   mål  för social hållbarhet slår fast att            Västra Götalandsregionens    trafikförsörjningsprogram   styr
-jämlikhet, delaktighet, transparens  och ansvar  ska genomsyra                  den långsiktiga utvecklingen  av kollektivtrafiken i Västra                     Arbete  med  jämlikhet  grundas  i de mänskliga rättigheterna. Det
+Västra Götalandsregionens    mål för social hållbarhet slår fast att
+jämlikhet, delaktighet, transparens  och ansvar  ska genomsyra
 
-all verksamhet och  alla beslut. Ingen människa  ska lämnas                     Götaland.  I trafikförsörjningsprogrammet   finns ett målområde;                innebär  att alla människor  är lika mycket värda  och ska behandlas
+all verksamhet  och alla beslut. Ingen människa   ska lämnas
 
-utanför. Ett socialt hållbart samhälle är ett jämställt1 och jämlikt            kollektivtrafiken ska bidra till jämlika förutsättningar i Västra               lika bra, oavsett kön, ålder, genus, könsidentitet, sexuell läggning,
+utanför. Ett socialt hållbart samhälle är ett jämställt1 och jämlikt
 
-samhälle, där människor   lever ett gott liv med god hälsa, utan                Götaland.  Den  strategiska planen för kollektivtrafik på jämlika               funktionsnedsättning,   utbildning, social ställning, socioekonomiska
-orättfärdiga skillnader. Det är ett samhälle med  hög tolerans där              villkor konkretiserar hur målområdet    och de tillhörande målen                förutsättningar,  etnisk eller religiös tillhörighet.
+samhälle,  där människor   lever ett gott liv med god hälsa, utan
 
-människors  lika värde står i centrum. Detta  kräver att människor              ska nås.
+orättfärdiga skillnader. Det är ett samhälle med  hög  tolerans där
 
-känner  tillit och förtroende till varandra och är delaktiga i                                                                                                  En  kollektivtrafik på jämlika villkor handlar om  att ge människor
+människors   lika värde står i centrum. Detta kräver att människor
+känner  tillit och förtroende till varandra och är delaktiga i
 
-samhällsutvecklingen2.                                                          Planen  ger förutsättningar för att öka systematiken  och                       likvärdiga möjligheter.  Det innebär  inte att göra lika för alla, utan
+samhällsutvecklingen2.
 
-utvecklingen  av arbetssätt inom  det arbete som  redan  pågår – från           att ge mer  stöd och resurser till de grupper som  behöver  det, för att
+Invånarna  i Västra Götaland  har olika livsvillkor och förut­
 
-Invånarna  i Västra Götaland  har olika livsvillkor och förut­                  det tidiga planeringsstadiet där resurser fördelas, till själva resan           få ett jämlikt utfall. Det kan också handla om  att riva de hinder och
-sättningar. Alla ges inte samma  möjlighet  att delta i samhället.              och dess olika delar.                                                           förändra  de strukturer  som  skapar ojämlikhet  från början. Figur 3
+sättningar. Alla ges inte samma  möjlighet  att delta i samhället.
 
-Transportsystemet   spelar en viktig roll för att människor ska kunna                                                                                           illustrerar jämlikhet på olika sätt.
+Transportsystemet   spelar en viktig roll för att människor ska kunna
 
-ta del av och utöva sina mänskliga  rättigheter, som rätten till                Strategi för kollektivtrafik på jämlika villkor antogs 2018. Den
+ta del av och utöva sina mänskliga  rättigheter, som  rätten till
+arbete, utbildning, kultur och hälso­ och  sjukvård. Kollektivtrafiken
 
-arbete, utbildning, kultur och hälso­ och sjukvård. Kollektivtrafiken           har reviderats i samband   med  att trafikförsörjningsprogrammets
+har en avgörande   roll när det gäller att tillhandahålla tillgängliga
 
-har en avgörande  roll när det gäller att tillhandahålla tillgängliga           revidering och  har nu fått namnet  Strategisk plan för kollektivtrafik
+transporter  och den är därmed   ett viktigt verktyg för att skapa
 
-transporter och den  är därmed  ett viktigt verktyg för att skapa               på jämlika  villkor. Planen omfattar den  allmänna  kollektivtrafiken,
+jämlika förutsättningar  i Västra Götaland.
 
-jämlika förutsättningar i Västra Götaland.                                      det vill säga den som är öppen  för alla och inte kräver särskilda
+Västra Götalandsregionens    trafikförsörjningsprogram   styr
+
+den långsiktiga utvecklingen  av kollektivtrafiken i Västra
+
+Götaland.  I trafikförsörjningsprogrammet   finns ett målområde;
+
+kollektivtrafiken ska bidra till jämlika förutsättningar i Västra
+Götaland.  Den  strategiska planen för kollektivtrafik på jämlika
+
+villkor konkretiserar hur målområdet    och de tillhörande målen
+
+ska nås.
+
+Planen  ger förutsättningar för att öka systematiken  och
+
+utvecklingen  av arbetssätt inom  det arbete som  redan  pågår – från
+det tidiga planeringsstadiet där resurser fördelas, till själva resan
+
+och dess olika delar.
+
+Strategi för kollektivtrafik på jämlika villkor antogs 2018. Den
+
+har reviderats i samband   med  att trafikförsörjningsprogrammets
+
+revidering och  har nu fått namnet  Strategisk plan för kollektivtrafik
+
+på jämlika  villkor. Planen omfattar den  allmänna  kollektivtrafiken,
+det vill säga den som är öppen  för alla och inte kräver särskilda
+
 tillstånd.
 
 1\. Jämställdhet brukar definieras som att kvinnor och män, flickor och pojkar ska ha samma möjligheter, rättigheter och skyldigheter. Jämlikhet är ett vidare begrepp som även omfattar lika möjligheter,
-
 rättigheter och skyldigheter i fler aspekter än två kön. I dokumentet används huvudsakligen begreppet jämlikhet som också inkluderar jämställdhet som en viktig del.
+
 2\. Västra Götalandsregionen (2020). Mål för social hållbarhet 2030 för Västra Götalandsregionen och de verksamheter som finansieras av Västra Götalandsregionen.
+
+BAKGRUND
+
+Figur 3. Jämlikhet på tre olika sätt; göra lika, göra olika eller riva hinder
+och förändra strukturer.
+
+Kollektivtrafik       på  jämlika     villkor
+
+Arbete med  jämlikhet  grundas  i de mänskliga  rättigheterna. Det
+
+innebär att alla människor  är lika mycket värda  och ska behandlas
+
+lika bra, oavsett kön, ålder, genus, könsidentitet, sexuell läggning,
+
+funktionsnedsättning,  utbildning,  social ställning, socioekonomiska
+
+förutsättningar, etnisk eller religiös tillhörighet.
+
+En kollektivtrafik på jämlika villkor handlar om  att ge människor
+
+likvärdiga möjligheter. Det innebär  inte att göra lika för alla, utan
+
+att ge mer stöd och resurser till de grupper som  behöver  det, för att
+
+få ett jämlikt utfall. Det kan också handla om att riva de hinder och
+
+förändra de strukturer  som  skapar ojämlikhet  från början. Figur 3
+
+illustrerar jämlikhet på olika sätt.
 
 <!-- sida 141 -->
 
 7
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                                                                            BAKGRUND
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
-Kollektivtrafikresenärer är inte en homogen   grupp, utan  är                   tre grupper bör  särskild uppmärksamhet    riktas mot  hbtqi+                   och  kulturella faktorer som påverkar  deras  liv. Det innebär att en
+Kollektivtrafikresenärer är inte en homogen   grupp,  utan är
 
-människor  med   olika behov, förutsättningar och  förmågor  att                ­personer  som  löper risk att bemötas illa och/eller utsättas för              person  kan  möta  olika former av hinder  beroende  på hur dessa
+människor   med  olika behov, förutsättningar och  förmågor  att
+använda  de transporter  som  erbjuds. Några  samhällsgrupper
 
-använda  de transporter  som  erbjuds. Några  samhällsgrupper                   trakasserier eller hatbrott på och i anslutning till kollektivtrafiken.         faktorer samspelar.  Att synliggöra  hur flera faktorer kan förstärka
+identifieras vara av särskild prioritet i arbetet med en kollektivtrafik
 
-identifieras vara av särskild prioritet i arbetet med en kollektivtrafik        Detsamma    gäller personer med  vissa typer av religiös klädsel eller          varandra   kallas att använda ett intersektionellt perspektiv. Till
-på jämlika villkor. Det handlar om  de delar av befolkningen  som               andra  attribut som kan  antas ha koppling  till en religion eller annan        exempel   kan en utlandsfödd   person med  funktionsnedsättning
+på jämlika villkor. Det handlar om  de delar av befolkningen  som
 
-forskning och tidigare erfarenheter  visar antingen är särskilt                 trosuppfattning.  Även  socioekonomiskt      svaga  grupper, som                möta  fler hinder i kollektivtrafiken än en person med  funktions­
+forskning och  tidigare erfarenheter visar antingen är särskilt
 
-beroende  av kollektivtrafik eller som löper större risk för att                många   gånger är beroende  av kollektivtrafik, behöver prioriteras.            nedsättning   som är född  i Sverige.
+beroende  av kollektivtrafik eller som löper större risk för att
 
-bli utsatta för diskriminering eller möta hinder i tillgången till              Det finns också  skillnader mellan mäns   och  kvinnors   förut­
+bli utsatta för diskriminering eller möta hinder i tillgången till
 
-kollektivtrafiken.                                                              sättningar, erfarenheter  och behov  i användning  av kollektiv­
+kollektivtrafiken.
 
-trafiken som  måste  beaktas och lyftas i ett arbete för en
+Personer    med  funktionsnedsättningar,        barn  och äldre
 
-Personer   med   funktionsnedsättningar,        barn  och äldre                 kollektivtrafik på jämlika villkor.
 är grupper som  kan  behöva  olika typer av anpassningar  för att
 
-kunna  använda  kollektivtrafiken. Samtidigt är de ofta beroende                Det är viktigt att poängtera att en persons erfarenheter  och
+kunna  använda  kollektivtrafiken. Samtidigt  är de ofta beroende
 
-av kollektivtrafiken för sin dagliga mobilitet eftersom de av olika             möjligheter  inte bara formas av en  enstaka kategori, som  ålder eller
+av kollektivtrafiken för sin dagliga mobilitet eftersom de av olika
 
-skäl saknar möjlighet att använda  andra  färdmedel.  Utöver  dessa             kön, utan  också av den komplexa   kombinationen    av olika sociala
+skäl saknar möjlighet  att använda  andra färdmedel.  Utöver  dessa
+
+tre grupper bör  särskild uppmärksamhet    riktas mot hbtqi+
+
+­personer  som  löper risk att bemötas illa och/eller utsättas för
+
+trakasserier eller hatbrott på och i anslutning till kollektivtrafiken.
+
+Detsamma    gäller personer med  vissa typer av religiös klädsel eller
+andra  attribut som kan  antas ha koppling  till en religion eller annan
+
+trosuppfattning.  Även  socioekonomiskt      svaga  grupper, som
+
+många   gånger är beroende  av kollektivtrafik, behöver prioriteras.
+
+Det finns också skillnader mellan  mäns   och  kvinnors   förut­
+
+sättningar, erfarenheter  och behov  i användning  av kollektiv­
+
+trafiken som  måste  beaktas och lyftas i ett arbete för en
+kollektivtrafik på jämlika villkor.
+
+Det är viktigt att poängtera att en persons erfarenheter  och
+
+möjligheter  inte bara formas av en  enstaka kategori, som  ålder eller
+
+kön, utan  också av den komplexa   kombinationen    av olika sociala
+
+BAKGRUND
+
+och kulturella faktorer som  påverkar  deras liv. Det innebär att en
+
+person  kan möta  olika former  av hinder beroende  på  hur dessa
+
+faktorer samspelar.  Att synliggöra hur flera faktorer kan förstärka
+
+varandra  kallas att använda  ett intersektionellt perspektiv. Till
+
+exempel  kan  en utlandsfödd  person  med  funktionsnedsättning
+
+möta  fler hinder i kollektivtrafiken än en person med  funktions­
+
+nedsättning  som  är född i Sverige.
 
 <!-- sida 142 -->
 
@@ -5780,49 +5898,46 @@ Utgångspunkter                                                        –     m
 <!-- sida 143 -->
 
 9
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                                                   UTGÅNGSPUNKTER    – MÅL  OCH LAGAR
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
 Utgångspunkter                            –  mål        och       lagar
 
-Västra     Götalandsregionens              mål
-I ett arbete med en kollektivtrafik på jämlika villkor är nedan                                                                                                 parter. Det ska  märkas  när Västra Götalandsregionen    prioriterar,
-för  social    hållbarhet
-listade måldokument   och  lagar viktiga utgångspunkter.                                                                                                        fattar beslut, arbetar främjande  och förebyggande   samt
-Västra Götalandsregionens    Mål  för social hållbarhet 2030 ska                kommunicerar,    samverkar   och för dialog. Målen  slår fast att
+I ett arbete med en kollektivtrafik på jämlika villkor är nedan
+
+listade måldokument   och  lagar viktiga utgångspunkter.
+
 Regional      utvecklingsstrategi            för
-tillsammans  med   Miljömål  2030  bidra till att skapa ett gott                mänskliga   rättigheter och jämlikhet ska vara  i centrum för Västra
 
 Västra    Götaland       2021–2030
-liv för varje människa på en  välmående   planet . Målen för                    Götalandsregionens    arbete.
-Den regionala  utvecklingsstrategin pekar  ut riktningen för hur                social hållbarhet antogs år 2020.  I samband   med  revidering av
 
-Västra Götaland  ska utvecklas  till 2030 och konkretiserar vad en              trafikförsörjningsprogrammet    har de sociala målen  brutits ned och           I måldokumentet    slås också fast att invånare i Västra Götaland
+Den  regionala utvecklingsstrategin  pekar ut riktningen  för hur
+Västra Götaland  ska utvecklas  till 2030 och konkretiserar vad  en
 
-sådan omställning  innebär  ur ett ekonomiskt,  miljömässigt  och               operationaliserats utifrån hur  relevanta de är för kollektivtrafiken.          har  olika livsvillkor och förutsättningar. Alla ges till exempel
-socialt perspektiv. Den säger bland  annat att Västra Götaland  ska             De  sociala målen för 2030  har varit en viktig utgångspunkt  för               inte samma   möjlighet  att vara delaktiga i samhället, att ta del
+sådan omställning   innebär ur ett ekonomiskt,  miljömässigt  och
 
-vara jämlikt och öppet. Mer  konkret  innebär det: I det jämlika                revideringen  av denna  strategiska plan.                                       av information   eller att leva ett hälsosamt liv. Västra Götalands­
+socialt perspektiv. Den säger bland  annat att Västra Götaland  ska
 
-Västra Götaland   deltar varje människa   i samhället på  jämställda                                                                                            regionen  ska skapa  jämlika förutsättningar  för invånarna.
+vara jämlikt och öppet. Mer  konkret  innebär  det: I det jämlika
 
-och jämlika villkor. Samhället  är inkluderande,  transparent   och             Måldokumentet    konstaterar  att Västra Götalandsregionen   aktivt             Måldokumentet     menar  att regionen behöver  riva hinder och  hitta
+Västra  Götaland  deltar varje människa   i samhället  på jämställda
 
-invånarna  känner   sig delaktiga.                                              ska bidra till en socialt hållbar utveckling i den verksamhet som               nya  lösningar som  fungerar  för fler. För att klara det behöver
+och jämlika  villkor. Samhället är inkluderande,   transparent  och
 
-bedrivs samt  i avtal och överenskommelser    som  sluts med andra              kunskapen   om  människors   förutsättningar  och rättigheter öka.
+invånarna   känner  sig delaktiga.
 
-I strategin pekas Öka inkluderingen   ut som  en viktig långsiktig
+I strategin pekas Öka  inkluderingen  ut som  en viktig långsiktig
+
 prioritering för att klara omställningen till ett hållbart och
 
 konkurrenskraftigt  samhälle.  Att öka inkluderingen  handlar  enligt
 
-den regionala utvecklingsstrategin  om  att skapa förutsättningar  för
-God  hälsa och                       Jämlikhet  och                       Tillit, trygghet
-alla individer att kunna vara aktiva i arbets­ och samhällsliv. Varje
-välbefinnande                        lika rättigheter                     och delaktighet
-människa  ska kunna   använda  sin fulla potential i ett jämlikt och
+den regionala  utvecklingsstrategin om  att skapa förutsättningar  för
 
-sammanhållet   Västra Götaland.  Det  regionala utvecklingsarbetet
+alla individer att kunna vara aktiva i arbets­ och samhällsliv. Varje
+människa   ska kunna  använda  sin fulla potential i ett jämlikt och
+
+sammanhållet   Västra  Götaland. Det  regionala utvecklingsarbetet
+
 ska vägledas dels av människors   villkor, rättigheter och olika
 
 behov, dels av människors   möjlighet till delaktighet.
@@ -5832,13 +5947,71 @@ Trafikförsörjningsprogram
 Trafikförsörjningsprogrammet    styr den långsiktiga
 
 utvecklingen  av kollektivtrafiken i Västra Götaland. Strategisk
+
 plan för kollektivtrafik på jämlika villkor konkretiserar hur
 
 trafikförsörjningsprogrammets    målområde   om  att kollektivtrafiken
 
 ska bidra till jämlika villkor i Västra Götaland ska nås. Planen är
 
-ska ses som en del av programmet.
+ska ses som  en del av programmet.
+
+Västra     Götalandsregionens              mål
+
+för  social    hållbarhet
+
+Västra Götalandsregionens    Mål för social hållbarhet 2030  ska
+tillsammans  med   Miljömål  2030  bidra till att skapa ett gott
+
+liv för varje människa på en  välmående   planet . Målen för
+
+social hållbarhet antogs år 2020.  I samband   med  revidering av
+
+trafikförsörjningsprogrammet    har de sociala målen  brutits ned och
+
+operationaliserats utifrån hur  relevanta de är för kollektivtrafiken.
+
+De sociala målen  för 2030  har varit en viktig utgångspunkt  för
+
+revideringen  av denna  strategiska plan.
+
+Måldokumentet    konstaterar  att Västra Götalandsregionen   aktivt
+
+ska bidra till en socialt hållbar utveckling i den verksamhet som
+
+bedrivs samt  i avtal och överenskommelser    som  sluts med andra
+
+God  hälsa och                       Jämlikhet  och
+välbefinnande                        lika rättigheter
+
+UTGÅNGSPUNKTER    – MÅL OCH  LAGAR
+
+parter. Det ska märkas  när Västra  Götalandsregionen   prioriterar,
+
+fattar beslut, arbetar främjande  och förebyggande   samt
+
+kommunicerar,    samverkar  och  för dialog. Målen slår fast att
+
+mänskliga  rättigheter och jämlikhet  ska vara i centrum  för Västra
+Götalandsregionens   arbete.
+
+I måldokumentet    slås också fast att invånare i Västra Götaland
+
+har olika livsvillkor och förutsättningar. Alla ges till exempel
+
+inte samma   möjlighet att vara delaktiga i samhället, att ta del
+
+av information  eller att leva ett hälsosamt liv. Västra Götalands­
+
+regionen  ska skapa jämlika  förutsättningar för invånarna.
+Måldokumentet    menar   att regionen behöver  riva hinder och hitta
+
+nya lösningar  som  fungerar för fler. För att klara det behöver
+
+kunskapen   om  människors   förutsättningar och  rättigheter öka.
+
+Tillit, trygghet
+och  delaktighet
 
 Figur 4. Västra Götalandsregionens Mål för social hållbarhet med tillhörande delmål.
 
@@ -5853,37 +6026,86 @@ Figur 4. Västra Götalandsregionens Mål för social hållbarhet med tillhöran
 <!-- sida 144 -->
 
 10
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                                                   UTGÅNGSPUNKTER    – MÅL  OCH LAGAR
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
-Diskrimineringslagen                                                            Barnkonventionen                                                                Lagen      om   handikappanpassad               kollektivtrafik
+Diskrimineringslagen
 
-Diskrimineringslagen   (SFS 2008:567)   har som  syfte att motverka             FN:s  konvention  om  barnets rättigheter har som  mål  att ge barn,            I lagen (1979:558)  om  handikappanpassad     kollektivtrafik finns
+Diskrimineringslagen   (SFS  2008:567)  har som  syfte att motverka
+diskriminering  och på andra  sätt främja lika rättigheter och
 
-diskriminering  och på andra  sätt främja lika rättigheter och                  oavsett bakgrund,  rätt att behandlas med   respekt och att få komma            bestämmelser    om  hur kollektivtrafik ska anpassas med  hänsyn  till
+möjligheter oavsett kön,  könsidentitet eller uttryck, etnisk
 
-möjligheter oavsett kön, könsidentitet  eller uttryck, etnisk                   till tals. Barnkonventionen klargör  vilka rättigheter alla barn i hela         resenärer  med  funktionsnedsättning.
-tillhörighet, religion, funktionsnedsättning, sexuell läggning                  världen  har. I beslut och åtgärder som rör barn  ska barnets bästa
-Lagen      om   tillgänglighet        till digital   offentlig
-eller ålder. Enkelt uttryckt innebär diskriminering  enligt                     alltid beaktas. Barnkonventionen   blev svensk  lag 2020. Regioner
+tillhörighet, religion, funktionsnedsättning, sexuell läggning
 
-service
-diskrimineringslagen  att någon  missgynnas   eller kränks utifrån              och kommuner    har  en skyldighet att säkerställa de rättigheter
-diskrimineringsgrunderna.   Diskriminering   kan vara  direkt eller             barnet har  enligt konventionen.                                                Lag  (2018:1937)  om  tillgänglighet till digital offentlig service, även
+eller ålder. Enkelt uttryckt innebär diskriminering  enligt
 
-indirekt. Även bristande  tillgänglighet, trakasserier, sexuella                                                                                                kallad DOS­lagen,   ställer krav på att offentliga aktörers webbplatser
+diskrimineringslagen   att någon missgynnas   eller kränks utifrån
+
+diskrimineringsgrunderna.    Diskriminering  kan  vara direkt eller
+
+indirekt. Även bristande  tillgänglighet, trakasserier, sexuella
+trakasserier och instruktioner att diskriminera  är former  av
+
+diskriminering.
+
+Diskriminering  inom  kollektivtrafiken kan  till exempel vara
+
+kränkande  bemötande,   trakasserier, bristande  tillgänglighet eller
+
+att information om  hur  en reser inte är tillgänglig för alla.
+
+Barnkonventionen
+
+FN:s  konvention  om  barnets rättigheter har som  mål  att ge barn,
+
+oavsett bakgrund,  rätt att behandlas med   respekt och att få komma
+
+till tals. Barnkonventionen klargör  vilka rättigheter alla barn i hela
+
+världen  har. I beslut och åtgärder som rör barn  ska barnets bästa
+
+alltid beaktas. Barnkonventionen   blev svensk  lag 2020. Regioner
+
+och kommuner    har  en skyldighet att säkerställa de rättigheter
+
+barnet har  enligt konventionen.
+
 Kollektivtrafiklagen
-trakasserier och instruktioner att diskriminera  är former av                                                                                                   och  mobila  applikationer ska vara tillgängliga. Genom  att följa
 
-diskriminering.                                                                 Kollektivtrafiklagen (2010:1065)   ställer krav på att ett                      en  särskild europeisk standard  kan  webb  och appar  leva upp till
-trafikförsörjningsprogram   ska innehålla tidsbestämda   mål  och               kraven.
+Kollektivtrafiklagen (2010:1065)   ställer krav på att ett
 
-Diskriminering  inom  kollektivtrafiken kan till exempel vara                   åtgärder för anpassning   av kollektivtrafik med hänsyn  till behov
+trafikförsörjningsprogram   ska innehålla tidsbestämda   mål  och
 
-kränkande  bemötande,   trakasserier, bristande tillgänglighet eller            hos personer  med  funktionsnedsättning   samt  redovisning  av de
+åtgärder för anpassning  av kollektivtrafik med  hänsyn  till behov
 
-att information om  hur en reser inte är tillgänglig för alla.                  bytespunkter  och  linjer som ska vara fullt tillgängliga för alla
+hos personer  med  funktionsnedsättning   samt  redovisning  av de
+bytespunkter  och  linjer som ska vara fullt tillgängliga för alla
 
 resenärer.
+
+UTGÅNGSPUNKTER    – MÅL OCH  LAGAR
+
+Lagen     om    handikappanpassad               kollektivtrafik
+
+I lagen (1979:558)  om  handikappanpassad    kollektivtrafik finns
+
+bestämmelser   om  hur kollektivtrafik ska anpassas  med  hänsyn  till
+
+resenärer  med  funktionsnedsättning.
+
+Lagen     om    tillgänglighet       till digital   offentlig
+
+service
+
+Lag (2018:1937)   om tillgänglighet till digital offentlig service, även
+
+kallad DOS­lagen,   ställer krav på att offentliga aktörers webbplatser
+
+och mobila  applikationer  ska vara tillgängliga. Genom  att följa
+
+en särskild europeisk  standard  kan webb  och appar  leva upp  till
+
+kraven.
 
 <!-- sida 145 -->
 
@@ -5964,272 +6186,596 @@ trafikförsörjningsprogrammet    följs upp.                                   
 <!-- sida 147 -->
 
 13
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                   SOCIALA ANALYSER   – SYSTEMATISKT  I PLANERING OCH  GENOMFÖRANDE
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
-Sociala            analyser              –   systematiskt                     i  planering                och       genomförande
+Sociala            analyser               –   systematiskt                     i planering                 och       genomförande
 
-Utvecklingsbehov                                                                Prioriterade        insatser
-Att arbeta systematiskt med  sociala analyser handlar  om  att
+Att arbeta systematiskt  med  sociala analyser handlar  om  att
 
-synliggöra olika gruppers  behov och  förutsättningar  i planering              En  utvärdering av förstudieprocessen   har visat att det upplevs               ●  Sociala  analyser   går  från  att vara  en aktivitet  till ett
+synliggöra olika gruppers  behov  och förutsättningar  i planering
 
-och, genomförande   av kollektivtrafiken som  underlag  för beslut.             svårt att göra avvägningar  och prioriteringar baserat på den  sociala             arbetssätt   som  är en del av ordinarie verksamhet.  I den
+och, genomförande    av kollektivtrafiken som underlag  för beslut.
 
-Det ingår också att beskriva konsekvenser   som  uppstår  för olika             konsekvensanalysen    i relation till andra prioriteringar. Därtill                ordinarie verksamheten   ska det sociala perspektivet  lyftas redan
-grupper.                                                                        har utvärderingen   visat att jämställdhets­ och barnperspektiven                  från början i projektdirektiv eller liknande och finnas med  i
-
-behöver  stärkas och integreras  bättre. Här behövs  ett                           beslutsunderlag  och beslut.  En genomlysning   behöver  göras  av
+Det ingår också  att beskriva konsekvenser  som  uppstår  för olika
+grupper.
 
 Nuläge
-utvecklingsarbete.                                                                 hur befintliga arbetssätt och metoder  kan  integrera det sociala
-Idag genomför   Västtrafik sociala konsekvensanalyser   i exempelvis                                                                                               perspektivet och  av vilka ytterligare metoder och arbetssätt som
 
-förstudieprocessen  inför upphandling   av kollektivtrafik. Där                 Arbetet med   sociala analyser behöver  också breddas  till fler delar             kommer   att behövas  inom  Västtrafiks olika verksamheter.
+Idag genomför   Västtrafik sociala konsekvensanalyser   i exempelvis
 
-sammanställs   relevant faktaunderlag  utifrån aspekter så som                  av verksamheten   och  göras mer  systematiskt. För att göra det
-●  Utveckla   verktyget   för social  konsekvensanalys      för
-åldersstruktur, socioekonomi   och viktiga målpunkter   för olika               krävs att metoder,  processer och  arbetssätt ses över och förbättras
-att bli mer användbart  och användarvänligt.  Därtill behöver
-grupper. Resultatet från den  sociala konsekvensanalysen   ingår i              och att kunskapen   höjs. På sikt är ambitionen att göra sociala
-både jämställdhets­  och barnperspektivet   stärkas. Till exempel
-förstudiens planeringsunderlag   vilket är en förutsättning för att             analyser i samtliga processer  och projekt i syfte att bidra till jämlika
-behöver  en mer  omfattade  analys av mäns  och  kvinnors resvanor
-systematiskt upphandla   kollektivtrafiken med  hänsyn  till olika              förutsättningar.
-och attityder, värderingar kopplat  till resor och transporter
-resenärsgruppers  behov  och  förutsättningar. Det kan exempelvis
-integreras. En prövning  av barnets  bästa bör också inkluderas.
-röra sig om att ändra tidtabellen för att bättre passa skolors
-●  Öka  kunskapen     om   olika gruppers    behov   och
-öppettider eller att identifiera viktiga målpunkter som  behöver
-förutsättningar    för att kunna göra  bättre analyser. Detta
+förstudieprocessen  inför upphandling   av kollektivtrafik. Där
+
+sammanställs   relevant faktaunderlag  utifrån aspekter  så som
+åldersstruktur, socioekonomi   och  viktiga målpunkter  för olika
+
+grupper.  Resultatet från den sociala konsekvensanalysen    ingår i
+
+förstudiens planeringsunderlag   vilket är en förutsättning för att
+
+systematiskt  upphandla   kollektivtrafiken med hänsyn   till olika
+
+resenärsgruppers   behov  och förutsättningar. Det kan  exempelvis
+
+röra sig om att ändra  tidtabellen för att bättre passa skolors
+
+öppettider  eller att identifiera viktiga målpunkter som behöver
 trafikeras.
-genom  bland  annat  ny forskning och  innovation, enkät­ och
-resvaneundersökningar    och dialog med   regionens invånare  (se
-åtgärdsområde   delaktighet) och  bred intern kunskapshöjning.
+
+Utvecklingsbehov
+
+En  utvärdering av förstudieprocessen   har visat att det upplevs
+
+svårt att göra avvägningar  och prioriteringar baserat på den  sociala
+
+konsekvensanalysen    i relation till andra prioriteringar. Därtill
+
+har utvärderingen   visat att jämställdhets­ och barnperspektiven
+
+behöver  stärkas och integreras  bättre. Här behövs  ett
+
+utvecklingsarbete.
+
+Arbetet med   sociala analyser behöver  också breddas  till fler delar
+
+av verksamheten   och  göras mer  systematiskt. För att göra det
+
+krävs att metoder,  processer och  arbetssätt ses över och förbättras
+
+och att kunskapen   höjs. På sikt är ambitionen att göra sociala
+
+analyser i samtliga processer  och projekt i syfte att bidra till jämlika
+
+förutsättningar.
+
+SOCIALA  ANALYSER  – SYSTEMATISKT  I PLANERING  OCH GENOMFÖRANDE
+
+Prioriterade       insatser
+
+● Sociala   analyser   går från  att vara  en  aktivitet till ett
+
+arbetssätt   som  är en del av ordinarie verksamhet.  I den
+
+ordinarie  verksamheten   ska det sociala perspektivet lyftas redan
+
+från början  i projektdirektiv eller liknande och finnas med  i
+
+beslutsunderlag   och beslut. En  genomlysning   behöver  göras av
+hur  befintliga arbetssätt och metoder  kan integrera det sociala
+
+perspektivet  och av vilka ytterligare metoder och  arbetssätt som
+
+kommer    att behövas inom  Västtrafiks olika verksamheter.
+
+● Utveckla    verktyget  för  social konsekvensanalys       för
+att bli mer användbart  och  användarvänligt.  Därtill behöver
+
+både  jämställdhets­ och  barnperspektivet  stärkas. Till exempel
+
+behöver  en mer  omfattade  analys  av mäns  och kvinnors  resvanor
+
+och  attityder, värderingar kopplat till resor och transporter
+
+integreras. En  prövning  av barnets bästa bör också  inkluderas.
+
+● Öka   kunskapen     om  olika  gruppers    behov   och
+
+förutsättningar     för att kunna göra bättre analyser. Detta
+
+genom   bland  annat ny forskning  och innovation,  enkät­ och
+
+resvaneundersökningar     och dialog med  regionens  invånare  (se
+
+åtgärdsområde    delaktighet) och bred  intern kunskapshöjning.
 
 <!-- sida 148 -->
 
 14
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                               DELAKTIGHET  – UTVECKLA  DIALOG MED  SÄRSKILT FOKUS  PÅ BARN OCH  UNGA
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                               DELAKTIGHET  – UTVECKLA  DIALOG MED  SÄRSKILT FOKUS  PÅ BARN  OCH UNGA
 
-Delaktighet                   –  utveckla               dialog           med         särskilt           fokus          på      barn        och       unga
+Delaktighet                   –   utveckla              dialog           med         särskilt            fokus          på     barn         och       unga
 
-Sett ur ett samhälleligt perspektiv är det centralt att människor               För att kunna  erbjuda en  jämlik kollektivtrafik med hög  kvalitet             Det  saknas dock  en systematik  och till viss del även arbetssätt för
+Sett ur ett samhälleligt perspektiv är det centralt att människor
 
-känner  att de har möjlighet att vara delaktiga i det som berör                 krävs kunskap   om  och insikt i olika människors levnadsvillkor,               att få kunskap  om  och insikt i olika människors levnadsvillkor,
+känner  att de har möjlighet att vara delaktiga i det som berör
 
-dem, annars  uppstår  utanförskap  och känslor  av maktlöshet.                  tankemönster   och förhållningssätt. Sådana  kunskaper   och insikter           tankemönster    och förhållningssätt. Detta gäller också möjligheten
-I kollektivtrafikens planering och genomförande    är delaktighet               kräver en dialogkultur  och ett ständigt pågående  samtal  för att              för människor   som  vanligtvis inte hörs att få sina röster hörda.
+dem,  annars  uppstår utanförskap  och  känslor av maktlöshet.
 
-både en fråga om  att människor  ska få den information   de behöver            människor   som  berörs av ett beslut ska ha tillgång till samma
+I kollektivtrafikens planering och genomförande    är delaktighet
+både  en fråga om  att människor  ska få den information  de behöver
 
-Prioriterad       insats
-samt att få möjlighet att uttrycka sin åsikt och kunna påverka  den             information  och ha  samma   möjligheter att påverka. Detta  är också
-kollektivtrafik som erbjuds.                                                    en förutsättning för att besluten ska kunna  uppfattas  som  legitima           ●  Utveckla  arbetssätt och systematik  för att skapa delaktighet,
+samt  att få möjlighet att uttrycka sin åsikt och kunna påverka  den
 
-och därmed   kunna  genomföras   med  önskvärd   effektivitet. För att             med  särskilt fokus på barn och unga.
+kollektivtrafik som erbjuds.
 
-Det finns skillnader i fördelningen av makt  och inflytande                     kollektivtrafiken ska planeras och  genomföras   på ett jämlikt sätt är
-mellan olika grupper  i samhället. Vissa grupper  har lättare att               det centralt att säkerställa att kunskap hämtas  in samt att berörda
+Det finns skillnader i fördelningen av makt  och  inflytande
 
-göra sig hörda om  något inte fungerar  eller inför att nya beslut              intressenter deltar i dialogen.
+mellan  olika grupper i samhället. Vissa grupper  har lättare att
+göra sig hörda om  något  inte fungerar eller inför att nya beslut
 
-ska tas. Detta ger en obalans i hur makt fördelas och  vilka som
+ska tas. Detta ger en obalans i hur makt  fördelas och vilka som
+
+känner  sig delaktiga. Barn är en grupp  som  har särskilt svårt
+
+att göra sin röst hörd; det saknas upparbetade   forum  för dialog
+
+med  barn, barn  omfattas inte av kollektivtrafikbarometern   och
+
+andra  undersökningar   och får sällan riktad information  eller ges
+
+möjlighet  till dialog. Barnkonventionen  slår fast att ”barn har rätt
+att uttrycka sin mening  och höras  i alla frågor som rör barnet.
+
+Hänsyn   ska tas till barnets åsikter, utifrån barnets ålder och
+
+mognad”.
+
+För att kunna  erbjuda en  jämlik kollektivtrafik med hög  kvalitet
+
+krävs kunskap   om  och insikt i olika människors levnadsvillkor,
+
+tankemönster   och förhållningssätt. Sådana  kunskaper   och insikter
+
+kräver en dialogkultur  och ett ständigt pågående  samtal  för att
+människor   som  berörs av ett beslut ska ha tillgång till samma
+
+information  och ha  samma   möjligheter att påverka. Detta  är också
+
+en förutsättning för att besluten ska kunna  uppfattas  som  legitima
+
+och därmed   kunna  genomföras   med  önskvärd  effektivitet. För att
+
+kollektivtrafiken ska planeras och  genomföras   på ett jämlikt sätt är
+
+det centralt att säkerställa att kunskap hämtas  in samt att berörda
+intressenter deltar i dialogen.
+
 Utvecklingsbehov
-känner  sig delaktiga. Barn är en grupp som  har särskilt svårt
 
-att göra sin röst hörd; det saknas upparbetade  forum  för dialog               Dialog med   invånare/det  civila samhället sker idag på lite
+Dialog med   invånare/det  civila samhället sker idag på lite
 
-med  barn, barn omfattas  inte av kollektivtrafikbarometern  och                olika sätt. Invånare och resenärer  har möjlighet att kontakta
+olika sätt. Invånare och resenärer  har möjlighet att kontakta
 
-andra undersökningar   och  får sällan riktad information eller ges             Västtrafik via kundservice  eller sociala medier. Det finns även
-möjlighet till dialog. Barnkonventionen  slår fast att ”barn har rätt           samverkansforum     som Aktiv  involvering, där representanter  från
+Västtrafik via kundservice  eller sociala medier. Det finns även
 
-att uttrycka sin mening och  höras i alla frågor som rör barnet.                funktionshinderrörelsen   får bidra till utformandet av kollektiv­
+samverkansforum     som Aktiv  involvering, där representanter  från
+funktionshinderrörelsen   får bidra till utformandet av kollektiv­
 
-Hänsyn  ska tas till barnets åsikter, utifrån barnets ålder och                 trafiken. I någon mån  sker även  dialog via Västra Götalands­
+trafiken. I någon mån  sker även  dialog via Västra Götalands­
 
-mognad”.                                                                        regionens  och kommunernas     olika samråd  och  dialogforum.
+regionens  och kommunernas     olika samråd  och  dialogforum.
 
 Exempelvis   genom  ungdomsråd    som  kan ge sin bild.
 
+Det saknas  dock  en systematik och  till viss del även arbetssätt för
+
+att få kunskap om  och  insikt i olika människors levnadsvillkor,
+
+tankemönster   och förhållningssätt. Detta  gäller också möjligheten
+
+för människor  som  vanligtvis inte hörs att få sina röster hörda.
+
+Prioriterad      insats
+
+● Utveckla  arbetssätt och systematik  för att skapa delaktighet,
+
+med   särskilt fokus på barn och unga.
+
 <!-- sida 149 -->
 
-15                                                                                                                                                                                                HELA RESAN  FUNGERAR   – MED FOKUS  PÅ PERSONER  MED
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
-FUNKTIONSNEDSÄTTNING,    BARN  OCH ÄLDRE
+15
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
 Hela        resan          fungerar               –   med         fokus          på     personer                med
 
-funktionsnedsättning,                                   barn         och       äldre
+funktionsnedsättning,                                    barn        och       äldre
 
-Att hela resekedjan fungerar  är något som  är viktigt för alla                 Barns  och ungas  möjlighet att resa med  kollektivtrafiken bidrar              För  att uppnå en tillgänglig kollektivtrafik för alla resenärsgrupper
+Att hela resekedjan  fungerar är något  som är viktigt för alla
 
-resenärer. För personer  med  funktionsnedsättning,   barn och                  till ökad självständighet, kontroll och möjlighet att i högre                   måste  hela reskedjan  fungera  så att följande moment  kan
-äldre kan det vara avgörande  för att de ska kunna  resa med                    utsträckning  påverka  och genomföra   sina fritidsaktiviteter. Viktiga         genomföras:
+resenärer. För personer  med  funktionsnedsättning,   barn  och
 
-kollektivtrafiken.                                                              aspekter  för att möjliggöra barns självständiga resande  är bland              ●  Planera sin resa
+äldre kan det vara avgörande   för att de ska kunna resa med
 
-annat  att information och biljettsystem är anpassade   för barn, bra
-●  Köpa  och använda   biljett
-Det finns många  olika typer av funktionsnedsättningar   som  på olika          bemötande   från ombordpersonal    och andra  resenärer, att fordonen
-●  Möjlighet att ta sig till och från hållplats/bytespunkt
-sätt innebär en nedsatt förmåga  att fungera fysiskt, psykiskt eller            är säkra och trygga samt  att hållplatser och vägen till och från
+kollektivtrafiken.
 
-intellektuellt. Socialstyrelsens definition av funktionsnedsättningar           hållplatserna är trafiksäkert utformade.                                        ●  Vistas och orientera sig på hållplats/bytespunkt
+Det finns många   olika typer av funktionsnedsättningar   som  på olika
+
+sätt innebär en nedsatt  förmåga  att fungera fysiskt, psykiskt eller
+
+intellektuellt. Socialstyrelsens definition av funktionsnedsättningar
+
 utgår ifrån olika svårigheter: att höra, att se, att röra sig, att tåla
-●  Ta del av information
-vissa ämnen  och att bearbeta, tolka och förmedla  information.                 Att bli äldre innebär inte nödvändigtvis  en funktionsnedsättning   i
 
-●  Ta sig ombord,  färdas och ta sig av fordonet
-Personer  med  funktionsnedsättning   gör färre resor per dag än                sig, men risken att drabbas  av en funktionsnedsättning   ökar med
-personer utan  funktionsnedsättning.  Det  gäller både det totala               stigande ålder. Många   äldre förlitar sig på bilen som huvudsakligt
+vissa ämnen  och  att bearbeta, tolka och förmedla  information.
+Personer  med  funktionsnedsättning   gör färre resor per dag än
 
-resandet och resande  med  kollektivtrafiken. För dessa grupper  kan            transportmedel.  Men   gång och  kollektivtrafik blir allt viktigare
+personer  utan funktionsnedsättning.   Det gäller både det totala
 
-den sociala och fysiska miljön i kollektivtrafiken innebära en rad              för den som  inte längre kan eller vill köra bil. En väl fungerade
+resandet  och resande  med  kollektivtrafiken. För dessa grupper  kan
 
-hinder och barriärer. Det kan  till exempel vara bristande utrop,               kollektivtrafik är därför en viktig förutsättning för mobilitet och
-otydlig trafikinformation, dålig funktionalitet på ramper  och liftar,          självständighet för många   äldre.
+den sociala och  fysiska miljön i kollektivtrafiken innebära en rad
 
-högt tempo  eller trängsel, väntetid, ljus, buller, luft, allergener, nya
+hinder  och barriärer. Det kan till exempel vara bristande  utrop,
 
-och okända  miljöer, dåligt bemötande   samt otillräckligt stöd som
+otydlig trafikinformation, dålig funktionalitet på ramper  och  liftar,
 
-ledsagning och  kundservice.
+högt tempo   eller trängsel, väntetid, ljus, buller, luft, allergener, nya
+och okända   miljöer, dåligt bemötande  samt  otillräckligt stöd som
+
+ledsagning  och kundservice.
+
+Barns  och ungas  möjlighet att resa med  kollektivtrafiken bidrar
+
+till ökad självständighet, kontroll och möjlighet att i högre
+
+utsträckning  påverka  och genomföra   sina fritidsaktiviteter. Viktiga
+
+aspekter för att möjliggöra barns  självständiga resande  är bland
+annat  att information och biljettsystem är anpassade   för barn, bra
+
+bemötande   från ombordpersonal    och andra  resenärer, att fordonen
+
+är säkra och trygga samt  att hållplatser och vägen till och från
+
+hållplatserna är trafiksäkert utformade.
+
+Att bli äldre innebär inte nödvändigtvis  en funktionsnedsättning   i
+sig, men risken att drabbas  av en funktionsnedsättning   ökar med
+
+stigande ålder. Många   äldre förlitar sig på bilen som huvudsakligt
+
+transportmedel.  Men   gång och  kollektivtrafik blir allt viktigare
+
+för den som  inte längre kan eller vill köra bil. En väl fungerade
+
+kollektivtrafik är därför en viktig förutsättning för mobilitet och
+
+självständighet för många   äldre.
+
+HELA RESAN  FUNGERAR  – MED  FOKUS PÅ PERSONER   MED
+FUNKTIONSNEDSÄTTNING,     BARN OCH  ÄLDRE
+
+För att uppnå  en tillgänglig kollektivtrafik för alla resenärsgrupper
+måste  hela reskedjan  fungera så att följande moment   kan
+
+genomföras:
+
+● Planera  sin resa
+
+● Köpa  och  använda  biljett
+
+● Möjlighet  att ta sig till och från hållplats/bytespunkt
+
+● Vistas och  orientera sig på hållplats/bytespunkt
+
+● Ta  del av information
+
+● Ta  sig ombord,  färdas och ta sig av fordonet
 
 <!-- sida 150 -->
 
-16                                                                                                                                                                                                HELA RESAN  FUNGERAR   – MED FOKUS  PÅ PERSONER  MED
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
-FUNKTIONSNEDSÄTTNING,    BARN  OCH ÄLDRE
+16
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
-●  Bibehåll tillgängligheten på fordonen  och  fortsätt utveckla
 Utvecklingsbehov
-Lagen  om  digital tillgänglighet till offentlig service har drivit på
-tillgängligheten vid nyanskaffningar  och uppgraderingar/
-Tillgängligheten till kollektivtrafiken för personer med                        anpassningen   och utvecklingen  av Västtrafiks websida  och app.
-revisioner. Utveckla metoder   för att säkerställa funktionen hos
-funktionsnedsättning,  barn  och äldre har kontinuerligt förbättrats            Den  fortsatta utvecklingen bör framförallt inriktas på utvecklade
-tillgänglighetsåtgärder, exempelvis  ramper,  skyltar och utrop,
-under de senaste  åren. Det är viktigt att fortsätta upprätthålla               tjänster och utökade  möjligheter  att använda  olika sinnen för
-när fordonen  är i trafik.
-den tillgänglighet som finns idag och att fortsätta utveckla                    att inhämta  information.  Det är också viktigt att ta hänsyn till
-●  Utveckla  kommunikation    och information.  Grundläggande
-kollektivtrafiken så att den blir tillgänglig på lika villkor.                  de personer  som  av olika anledningar  inte har tillgång till, eller
-information  bör vara välkomnande,    enkel, läsbar, hörbar, taktil
-förmåga  att använda,  digitala tjänster för exempelvis reseplanering
-och finnas på teckenspråk.
-Nya riktlinjer för tillgänglighet på hållplats har tagits fram. Fortsatt        eller biljettköp så att dessa inte utestängs från kollektivtrafiken.
+
+Tillgängligheten till kollektivtrafiken för personer med
+
+funktionsnedsättning,  barn  och äldre har kontinuerligt  förbättrats
+
+under  de senaste åren. Det är viktigt att fortsätta upprätthålla
+
+den tillgänglighet som  finns idag och att fortsätta utveckla
+
+kollektivtrafiken så att den blir tillgänglig på lika villkor.
+
+Nya riktlinjer för tillgänglighet på hållplats har tagits fram. Fortsatt
+
 arbete återstår för att tillgänglighetsanpassa de prioriterade
-●  Utveckla  websidan  och appen  när det gäller exempelvis  biljettköp
-hållplatsernas alla hållplatslägen. En ökad samverkan   mellan  de              En  väl fungerande  störningshantering  i kollektivtrafiken är viktig
-i förväg, anpassning för barn, information  om  tillgänglighet på
-parter som  delar ansvar för hållplatser krävs för att uppnå ökad               för att resenärerna ska känna  sig trygga. För barn och  personer
-fordon och  hållplatser.
-tillgänglighet.                                                                 med  syn­ hörsel­ och rörelsenedsättning   samt för de som  har svårt
-●  Utveckla  störningshantering  och störningsinformation   så att
-att bearbeta, tolka och förmedla  information,  kan en fungerande
-ersättningstrafiken fungerar  för alla och informationen  når fram
-Riktlinjer för att ta sig ombord, färdas och ta sig av fordonet i               och tillgänglig störningshantering  vara avgörande   för resan.
-och kan  förstås av alla resenärer.
-kollektivtrafiken sammanställer  riktlinjer gällande bland annat
-Prioriterade       insatser
-●  Fortsätt utveckla och kvalitetssäkra personliga  tjänster som
-bemötande,   rätten att resa med fordonen  och resa med  hjälpmedel.
-underlättar resan, exempelvis  ledsagning  och  bemötande.
-Syftet är att skapa tydlighet kring de förutsättningar som ska  gälla           ● Fortsatt arbete för att öka tillgänglighet på hållplatser behöver
-för dem som  reser med  Västtrafik. Arbetet ska fortsätta med  att                inledas. Detta genom   att inventera de prioriterade hållplatsernas
-●  Utveckla  utbildningar för att höja kompetensen   kring
-följa upp och kvalitetssäkra leveransen  inom  avtalen.                           alla hållplatslägen för att säkerställa tillförlitlig information, både
-funktionsnedsättningar   och andra  behov  som  kräver särskilt
-för fortsatt planering för åtgärder och för att kunna informera
-bemötande   hos tjänstepersoner  och  personal som  möter  kunder.
-Alla nyanskaffade  fordon är tillgänglighetsanpassade  och  de äldre              de resenärer  som  är beroende  av tillgänglighetsanpassningar.
-Involvera berörda  resenärsgrupper   i utvecklingsarbetet för att
-fordonen  kommer   att fasas ut över tid. Samtidigt är det viktigt att            Datalagringen   bör utvecklas för smidig  och tillförlitlig hantering.
-säkerställa kvalitet på utbildningarna.
-vidareutveckla tillgänglighetskraven  för fordonen  kontinuerligt och
-● Öka  samverkan   med  de parter som  delar ansvar  för hållplatser
+
+hållplatsernas alla hållplatslägen. En ökad samverkan   mellan  de
+
+parter som  delar ansvar för hållplatser krävs för att uppnå ökad
+
+tillgänglighet.
+
+Riktlinjer för att ta sig ombord, färdas och ta sig av fordonet i
+
+kollektivtrafiken sammanställer   riktlinjer gällande bland annat
+
+bemötande,   rätten att resa med fordonen  och  resa med  hjälpmedel.
+
+Syftet är att skapa tydlighet kring de förutsättningar som  ska gälla
+
+för dem som  reser med  Västtrafik. Arbetet ska fortsätta med  att
+
+följa upp och kvalitetssäkra leveransen  inom  avtalen.
+
+Alla nyanskaffade  fordon är tillgänglighetsanpassade  och  de äldre
+
+fordonen  kommer   att fasas ut över tid. Samtidigt är det viktigt att
+
+vidareutveckla  tillgänglighetskraven för fordonen  kontinuerligt och
+
 att säkerställa att alla tillgänglighetsanpassningar är i funktion.
+
+Lagen  om  digital tillgänglighet till offentlig service har drivit på
+
+anpassningen   och utvecklingen  av Västtrafiks websida  och app.
+
+Den  fortsatta utvecklingen bör framförallt inriktas på utvecklade
+
+tjänster och utökade  möjligheter  att använda  olika sinnen för
+att inhämta  information.  Det är också viktigt att ta hänsyn till
+
+de personer  som  av olika anledningar  inte har tillgång till, eller
+
+förmåga  att använda,  digitala tjänster för exempelvis reseplanering
+
+eller biljettköp så att dessa inte utestängs från kollektivtrafiken.
+
+En  väl fungerande  störningshantering  i kollektivtrafiken är viktig
+för att resenärerna ska känna  sig trygga. För barn och  personer
+
+med  syn­ hörsel­ och rörelsenedsättning   samt för de som  har svårt
+
+att bearbeta, tolka och förmedla  information,  kan en fungerande
+
+och tillgänglig störningshantering  vara avgörande   för resan.
+
+Prioriterade       insatser
+
+● Fortsatt arbete för att öka tillgänglighet på hållplatser behöver
+inledas. Detta genom   att inventera de prioriterade hållplatsernas
+
+alla hållplatslägen för att säkerställa tillförlitlig information, både
+
+för fortsatt planering för åtgärder och för att kunna informera
+
+de resenärer  som  är beroende  av tillgänglighetsanpassningar.
+
+Datalagringen   bör utvecklas för smidig  och tillförlitlig hantering.
+
+● Öka  samverkan   med  de parter som  delar ansvar  för hållplatser
+
 och  vägen till och från hållplats för att uppnå ökad tillgänglighet.
+
+HELA RESAN  FUNGERAR  – MED  FOKUS PÅ PERSONER   MED
+FUNKTIONSNEDSÄTTNING,     BARN OCH  ÄLDRE
+
+● Bibehåll  tillgängligheten på fordonen  och fortsätt utveckla
+
+tillgängligheten vid nyanskaffningar   och uppgraderingar/
+revisioner. Utveckla  metoder  för att säkerställa funktionen hos
+
+tillgänglighetsåtgärder, exempelvis  ramper,  skyltar och utrop,
+
+när fordonen   är i trafik.
+
+● Utveckla  kommunikation    och  information.  Grundläggande
+information   bör vara välkomnande,   enkel, läsbar, hörbar, taktil
+
+och  finnas på teckenspråk.
+
+● Utveckla  websidan   och appen  när det gäller exempelvis  biljettköp
+
+i förväg, anpassning  för barn, information  om  tillgänglighet på
+fordon  och hållplatser.
+
+● Utveckla  störningshantering   och störningsinformation   så att
+
+ersättningstrafiken  fungerar för alla och informationen  når fram
+
+och  kan förstås av alla resenärer.
+
+● Fortsätt utveckla  och kvalitetssäkra personliga tjänster som
+
+underlättar  resan, exempelvis  ledsagning  och bemötande.
+
+● Utveckla  utbildningar  för att höja kompetensen   kring
+
+funktionsnedsättningar    och andra  behov som  kräver  särskilt
+
+bemötande    hos tjänstepersoner  och personal  som  möter  kunder.
+
+Involvera  berörda  resenärsgrupper  i utvecklingsarbetet  för att
+
+säkerställa kvalitet på utbildningarna.
 
 <!-- sida 151 -->
 
 17
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                    TRYGGHET  – KOLLEKTIVTRAFIKEN  SKA KÄNNAS   TRYGG OCH  VARA SÄKER
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
 
-Trygghet               –  kollektivtrafiken                         ska       kännas             trygg         och       vara        säker
+Trygghet               –   kollektivtrafiken                         ska      kännas             trygg          och       vara        säker
+
+Trygghet  kan i en kollektivtrafikkontext beskrivas som  den
+
+upplevda  känslan  av att ha kontroll över faror, brister och
+
+funktioner  ombord   och i anslutning till kollektivtrafiken. Trygghet
+
+definieras som  den upplevda   risken att utsättas för något, medan
+säkerhet  är den faktiska risken. Den upplevda  känslan  av trygghet
+
+eller otrygghet kan skilja sig från den verkliga risken att exempelvis
+
+utsättas för brott och ordningsstörningar.  Känslor  av otrygghet kan
+
+leda till begränsningar i individers dagliga mobilitet, och innebära
+
+att människor  väljer bort att åka kollektivt eller begränsar sitt
+
+resande  till vissa tidpunkter på dygnet. Upplevelsen  av trygghet,
+men  också  den faktiska säkerheten,  varierar mellan olika grupper,
+
+platser och tider på dygnet.
+
+När  det gäller risken att utsättas för brott samlar Västtrafik
+
+kunskap  om  vilka platser som  är mer utsätta än andra  och vilka
+
+typer av brott det rör sig om. Det används  sedan  som  underlag  för
+
+brottsförebyggande   insatser.
+
+Risken  att utsättas för en trafikolycka i kollektivtrafiken är störst
+
+för fotgängare och  cyklister i anslutande miljöer till kollektiv­
+
+trafiken. I övrigt är det generellt mer trafiksäkert att resa med
+
+kollektivtrafiken än med  bil.
+
+För att kollektivtrafiken ska upplevas trygg och  säker behöver  hela
+
+resan beaktas.  Följande faktorer är viktiga:
+
+● miljöer befolkade  av människor,   både närvaro  av personal  och
+
+medresenärer,
+
+● trafiksäker utformning   av den fysiska miljön (både  på hållplats
+
+och  vägen till och från hållplats), där belysning, tydlighet,
+
+förutsägbarhet  och  överblickbarhet  ingår,
+
+● bra och  tillgänglig information genom   exempelvis
+
+realtidsinformation,  reseplanerare,  kartor och
+
+störningsinformation,
+
+● trafiksäkerhet  under färd, där exempelvis  körstil och möjlighet
+till bältesanvändning  är viktiga delar,
+
+● god  förvaltning och skötsel av hållplatser, stationer, bussar
+
+och  tåg,
+
+● bra bemötande    från personal och  medpassagerare
+
+Västtrafik ansvarar  för tryggheten och säkerheten  ombord   på
+
+fordonen.  På hållplatser och terminaler  är ansvaret delat med
+
+kommunerna.    För  vägen till och från hållplats bär väghållaren det
+
+huvudsakliga  ansvaret.  Förvaltningen  för fastighet stöd och service
+
+ansvarar  för utrustningen på  hållplatserna.
+
+TRYGGHET  – KOLLEKTIVTRAFIKEN   SKA KÄNNAS  TRYGG  OCH VARA  SÄKER
 
 Utvecklingsbehov
-Trygghet kan  i en kollektivtrafikkontext beskrivas som  den                    För att kollektivtrafiken ska upplevas trygg och  säker behöver  hela
 
-upplevda  känslan av att ha kontroll över faror, brister och                    resan beaktas.  Följande faktorer är viktiga:                                   Sedan  lagen  om  kommunernas    ansvar  för det brottsförebyggande
+Sedan  lagen om  kommunernas     ansvar för det brottsförebyggande
 
-funktioner ombord   och i anslutning till kollektivtrafiken. Trygghet           ● miljöer befolkade  av människor,   både närvaro  av personal  och             arbetet trädde  i kraft 2023, har Västtrafiks trygghetsarbete
+arbetet trädde i kraft 2023, har Västtrafiks trygghetsarbete
 
-definieras som den  upplevda  risken att utsättas för något, medan                medresenärer,                                                                 ändrat  fokus till att vara en viktig bidragande part i samverkan
+ändrat  fokus till att vara en viktig bidragande part i samverkan
 
-säkerhet är den faktiska risken. Den  upplevda  känslan  av trygghet                                                                                            med   aktörer som  har uppdrag  och  mandat  att hantera både
-● trafiksäker utformning   av den fysiska miljön (både  på hållplats
-eller otrygghet kan skilja sig från den verkliga risken att exempelvis                                                                                          sociala utmaningar   och utmaningar   kopplat  till vissa platser och
-och  vägen till och från hållplats), där belysning, tydlighet,
-utsättas för brott och ordningsstörningar.  Känslor av otrygghet  kan                                                                                           situationer. Arbetet behöver  fortsätta och ske systematiskt.  Det
-förutsägbarhet  och  överblickbarhet  ingår,
-leda till begränsningar i individers dagliga mobilitet, och innebära                                                                                            görs  bland annat  genom  att identifiera tänkbara otrygghetsfaktorer
-● bra och  tillgänglig information genom   exempelvis
-att människor  väljer bort att åka kollektivt eller begränsar sitt                                                                                              och  möjliggöra  en effektiv informationsöverföring  mellan  berörda
-realtidsinformation,  reseplanerare,  kartor och
-resande till vissa tidpunkter på dygnet. Upplevelsen  av trygghet,                                                                                              samverkanspartners.    Västtrafiks trygghetskoordinatorer   deltar vid
-störningsinformation,
-men  också den  faktiska säkerheten, varierar mellan  olika grupper,                                                                                            kommunernas     brottsförebyggande   och  trygghetsskapande   forum,
-platser och tider på dygnet.                                                    ● trafiksäkerhet  under färd, där exempelvis  körstil och möjlighet             delar lägesbilder, deltar vid kommunernas    trygghetsvandringar
+med  aktörer som  har uppdrag   och mandat   att hantera både
 
-till bältesanvändning  är viktiga delar,                                      samt  genomför   och bidrar till andra trygghetsskapande   insatser
-När det gäller risken att utsättas för brott samlar Västtrafik                                                                                                  för Västtrafik.
-● god  förvaltning och skötsel av hållplatser, stationer, bussar
-kunskap  om  vilka platser som är mer  utsätta än andra och  vilka
-och  tåg,
-typer av brott det rör sig om. Det används  sedan som  underlag  för                                                                                            Det  finns även ett behov av att förbättra arbetet med  ordnings­
-● bra bemötande    från personal och  medpassagerare
-brottsförebyggande   insatser.                                                                                                                                  störningar  och brott med  fokus  på särskilt utsatta grupper. Det
+sociala utmaningar   och utmaningar   kopplat till vissa platser och
 
-Västtrafik ansvarar  för tryggheten och säkerheten  ombord   på                 handlar  exempelvis  om  unga  kvinnor  och barn  som  utsätts för
-Risken att utsättas för en trafikolycka i kollektivtrafiken är störst           fordonen.  På hållplatser och terminaler  är ansvaret delat med                 sexuella trakasserier, om  människohandel    och prostitution. Det
+situationer. Arbetet behöver  fortsätta och ske systematiskt. Det
+görs bland  annat genom   att identifiera tänkbara otrygghetsfaktorer
 
-för fotgängare och cyklister i anslutande miljöer till kollektiv­               kommunerna.    För  vägen till och från hållplats bär väghållaren det           krävs  kunskapshöjande    insatser till anställda inom kollektivtrafiken
+och möjliggöra  en effektiv informationsöverföring   mellan berörda
 
-trafiken. I övrigt är det generellt mer trafiksäkert att resa med               huvudsakliga  ansvaret.  Förvaltningen  för fastighet stöd och service          och  utveckling av rapporteringsmöjligheterna    för att förebygga och
+samverkanspartners.    Västtrafiks trygghetskoordinatorer  deltar vid
 
-kollektivtrafiken än med  bil.                                                  ansvarar  för utrustningen på  hållplatserna.                                   hantera  dessa typer av brott.
+kommunernas     brottsförebyggande   och trygghetsskapande   forum,
+
+delar lägesbilder, deltar vid kommunernas    trygghetsvandringar
+
+samt  genomför  och  bidrar till andra trygghetsskapande  insatser
+
+för Västtrafik.
+
+Det finns även  ett behov av att förbättra arbetet med ordnings­
+
+störningar  och brott med  fokus på särskilt utsatta grupper. Det
+
+handlar  exempelvis  om  unga  kvinnor och  barn som  utsätts för
+
+sexuella trakasserier, om  människohandel    och prostitution. Det
+
+krävs kunskapshöjande    insatser till anställda inom kollektivtrafiken
+och utveckling  av rapporteringsmöjligheterna   för att förebygga och
+
+hantera  dessa typer av brott.
 
 <!-- sida 152 -->
 
 18
-STRATEGISK  PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR                                                                                                                    TRYGGHET  – KOLLEKTIVTRAFIKEN  SKA KÄNNAS   TRYGG OCH  VARA SÄKER
+STRATEGISK PLAN  FÖR KOLLEKTIVTRAFIK  PÅ JÄMLIKA  VILLKOR
+
+När det gäller trafiksäkerhet har hastighetsöverträdelser  och tvära
+inbromsningar   kopplat till stress och pressade tidtabeller har ökat
+
+de senaste åren. Detta leder till risker för fotgängare och cyklister i
+
+anslutning till miljöerna kring kollektivtrafiken. Det leder även till
+
+exempelvis  fallolyckor ombord  på  fordonen. Sedan  1999  finns krav
+
+på att bälte i buss ska användas om  sådant  finns, dock använder
+
+endast 50  procent av resenärerna  i Västra Götaland  bälte.
+
+De olika väghållarna  bär det huvudsakliga  ansvaret  för vägen
+
+till och från hållplatser. Västtrafik behöver fortsätta vara en
+
+pådrivande  part och utveckla  samverkan   med  de aktörer som
+
+ansvarar för området  kring  hållplatserna.
+
+TRYGGHET  – KOLLEKTIVTRAFIKEN  SKA KÄNNAS   TRYGG OCH  VARA SÄKER
 
 Prioriterade       insatser
-När det gäller trafiksäkerhet har hastighetsöverträdelser  och tvära
 
-inbromsningar   kopplat till stress och pressade tidtabeller har ökat           ● Utvecklad  samverkan   med   kommun    och andra  viktiga
+● Utvecklad  samverkan   med   kommun    och andra  viktiga
 
-de senaste åren. Detta leder till risker för fotgängare och cyklister i           samhällsaktörer   utifrån ett brottsförebyggande­  och
-anslutning till miljöerna kring kollektivtrafiken. Det leder även till            trafiksäkerhetsperspektiv.  Samverkan   med   kommun    och andra
+samhällsaktörer   utifrån ett brottsförebyggande­  och
 
-exempelvis  fallolyckor ombord  på fordonen.  Sedan  1999  finns krav             aktörer  pågår redan  men  behöver  utvecklas och  systematiseras.
+trafiksäkerhetsperspektiv.  Samverkan   med   kommun    och andra
 
-på att bälte i buss ska användas om  sådant finns, dock använder                  Det  kan exempelvis  ske genom   Västtrafiks så kallade
+aktörer  pågår redan  men  behöver  utvecklas och  systematiseras.
+Det  kan exempelvis  ske genom   Västtrafiks så kallade
 
-endast 50 procent  av resenärerna  i Västra Götaland  bälte.                      trygghetskoordinatorer.   Det handlar  också om  att Västtrafik
+trygghetskoordinatorer.   Det handlar  också om  att Västtrafik
 
 behöver  vara en  part i kommunernas    planprocesser  samt dela
 
-De olika väghållarna  bär det huvudsakliga  ansvaret  för vägen                   lägesinformation   kring platser med  bristande trafiksäkerhet.
-till och från hållplatser. Västtrafik behöver fortsätta vara en
+lägesinformation   kring platser med  bristande trafiksäkerhet.
+
 ● Brottsförebyggande    arbete ombord   på fordonen  och på
-pådrivande  part och utveckla samverkan    med  de aktörer som
+
 resecentra. Det  handlar  bland annat  om  att säkerställa
-ansvarar för området  kring hållplatserna.
+
 kompetens   hos  anställda i kollektivtrafiken om att vissa grupper
 
 är mer  utsatta för vissa typer av brott.
@@ -6503,59 +7049,99 @@ vid behov.
 <!-- sida 160 -->
 
 5
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                       INLEDNING  OCH  FÖRUTSÄTTNINGAR
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
 Behov           och        förutsättningar
 
-För att planera  för tillgänglighet   med   kollektivtrafik behövs    kunskap   om  rådande
+För att planera   för tillgänglighet  med   kollektivtrafik  behövs   kunskap   om   rådande
 
 befolkningsstruktur,    invånarnas    resmönster    och  behov   samt  olika förutsättningar.
 
-UUddddeevvaallllaa
-TTrroollllhhäättttaann--VVäänneerrssbboorrgg
-
 GGöötteebboorrgg
 
-SSkköövvddee
 BBoorrååss
 
 87          %                            13        %
 
-bor i städer/tätorter              bor i småorter/landsbygder
+bor i städer/tätorter               bor i småorter/landsbygder
+
+I Västra Götaland  bor drygt 1,7 miljoner
+
+invånare  varav cirka 87 procent  av befolk­
+
+ningen  bor i städer/tätorter och övriga
+
+13 procent  i småorter eller på landsbygderna.
+I genomsnitt  bor det 72 invånare/km2
+
+i Västra Götaland. Det  är betydligt glesare
+
+i jämförelse med  de övriga två storstads­
+
+regionerna,  Stockholm  med   360 invånare/
+
+km2  respektive Skåne med   124 invånare/
+
+km2. Befolkningen  är relativt ojämnt fördelad
+över länets 49 kommuner    med  en större
+
+koncentratration  kring de fyra regionala
+
+kärnorna;  Göteborg, Borås,  Trollhättan­
+
+Vänersborg­Uddevalla    och Skövde.  Här
+
+finns ofta ett större utbud av arbetstillfällen,
+
+utbildning, samhällsservice,  kultur med
+
+mera.  Göteborgsregionen   har en särskild
+
+betydelse för hela länet genom  sin roll och
+
+funktion  som  centrum  för exempelvis  arbets­
+
+marknad,   transport, logistik, innovation och
+
+forskning.
+
+Koncentrationen   av arbetsplatser är tydlig
+
+i jämförelse med  den relativt utspridda be­
+GGöötteebboorrgg
+byggelsen.  Arbetsplatserna  är koncentrerade
+
+till kommunc  entra och enskilda större arbets­
+
+platser i mindre orter. Cirka 75 procent  av
+BBoorrååss
+samtliga sysselsatta arbetar i någon av länets
+kommunhuvudorter.     Befolkningstätheten
+
+och arbetsplatsers  geografiska lokalisering
+
+har stor påverkan  på resande  strömmarna
+
+och kollektivtrafikp laneringen. Exempelvis
+
+för möjligheten  att skapa en resurseffektiv
+
+kollektivtrafik.
+
+INLEDNING  OCH  FÖRUTSÄTTNINGAR
+
+UUddddeevvaallllaa
+TTrroollllhhäättttaann--VVäänneerrssbboorrgg
+
+SSkköövvddee
 
 Figur 2. Figuren visar var människor arbetar i Västra Götaland
 
-I Västra Götaland  bor drygt 1,7 miljoner          betydelse  för hela länet genom  sin roll och
-
-invånare varav  cirka 87 procent av befolk­        funktion  som  centrum  för exempelvis  arbets­
-
-ningen bor  i städer/tätorter och övriga           marknad,   transport, logistik, innovation och
-
-13 procent i småorter eller på landsbygderna.      forskning.
-I genomsnitt bor  det 72 invånare/km2
 UUddddeevvaallllaa
-i Västra Götaland. Det är betydligt glesare        Koncentrationen   av arbetsplatser är tydlig
 TTrroollllhhäättttaann--VVäänneerrssbboorrgg
-i jämförelse med  de övriga två storstads­         i jämförelse med  den relativt utspridda be­
-GGöötteebboorrgg
-regionerna, Stockholm   med  360  invånare/        byggelsen.  Arbetsplatserna  är koncentrerade
 
-km2 respektive Skåne  med  124 invånare/           till kommunc  entra och enskilda  större arbets­
-
-km2. Befolkningen  är relativt ojämnt fördelad     platser i mindre  orter. Cirka 75 procent av
 SSkköövvddee
-BBoorrååss
-över länets 49 kommuner   med  en större           samtliga  sysselsatta arbetar i någon av länets
-koncentratration kring de fyra regionala           kommunhuvudorter.      Befolkningstätheten
-kärnorna; Göteborg,  Borås, Trollhättan­           och  arbetsplatsers geografiska  lokalisering
 
-Vänersborg­Uddevalla    och Skövde.  Här           har stor påverkan   på resande strömmarna
-
-finns ofta ett större utbud av arbetstillfällen,   och  kollektivtrafikp laneringen. Exempelvis
-
-utbildning, samhällsservice, kultur med            för möjligheten  att skapa en resurseffektiv
-
-mera. Göteborgsregionen    har en särskild         kollektivtrafik.
 Figur 3. Figuren visar var människor bor i Västra Götaland
 
 <!-- sida 161 -->
@@ -6636,55 +7222,59 @@ Källa: SCB, kartan bearbetad av VGR
 7
 TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                       INLEDNING  OCH  FÖRUTSÄTTNINGAR
 
+Arbets-, studie- och tjänsteresor
+drygt 50 procent
+
 ```osaker-tabell
-                   13%                                                                             21%
-13%                                                                            28%
-                          15%                                                                            28%
-            5%                                                                             18%
+                                                                                   13%                                                                             21%
+                                                                13%                                                                            28%
+                                                                                          15%                                                                            28%
+                                                                            5%                                                                             18%
 
-                                                              13%                                                                            21%
- 11%           14%                                  16%                          16%          17%                                   28%
+                                                                                                                              13%                                                                            21%
+                                                                 11%           14%                                  16%                          16%          17%                                   28%
 
-                     15%                                                                             23%
-                                                                 17%                                                                             26%
+                                                                                     15%                                                                             23%
+                                                                                                                                 17%                                                                             26%
+     Fördelningen                                                                                                        17%                                                                            25%
+                                                                       12%                                                                            17%
+för kollektivtrafikresor                                                                                    20%                                                                             29%
+                                                                                   15%                                                                             28%
+   i Västra Götaland                                          14%                                  17%                      11%              26%                                  33%                      23%
+                                                                   15%                                                                            29%
+                                                                           22%                                                                            29%
+                                                                                                             9%                                                                             22%
+                                                                                           10%                        19%                                                 15%                        35%
+                                                                                                                           14%                                                                            25%
+                                                                                                   12%                                                                             21%
+                                                                      11%           28%     7%                                                       17%           41%     13%
+                                                                                                            20%                                                                            29%
+                                                                                16%                                  11%                                       22%                                   24%
+                                                                          18%                                                                            25%
+                                                                    16%                                                                             20%
+                                                                                            15%                                                                             25%
+                                                                                                    14%                                                                             19%
+                                                                                27%                                                                            31%
+                                                                         29%            28%                                                             29%            41%
 ```
 
-17%                                                                            25% 12% 17%
+Serviceresor                           Fritidsresor
+23%                     12%                                                    28%                      21%
+20 procent                         knappt 30 procent
 
 ```osaker-tabell
-                                              20%                                                                             29%
-                     15%                                                                             28%
-14%                                                                            26% 17% 11%                          33%                      23%
-     15%                                                                            29%
-             22%                                                                            29%
-                                               9%                                                                             22%
-                             10%                        19%                                                 15%                        35%
-                                                             14%                                                                            25%
-                                     12%                                                                             21%
-        11%           28%     7%                                                       17%           41%     13%
-                                              20%                                                                            29%
-                  16%                                  11%                                       22%                                   24%
-            18%                                                                            25%
-      16%                                                                             20%
-                              15%                                                                             25%
-                                      14%                                                                             19%
-                  27%                                                                            31%
-           29%            28%                                                             29%            41%
-                     23%                     12%                                                    28%                      21%
-    27%     56%                                                                    41%     64%
-                  39%     23%     27%                                                            47%      27%    36%
-                    30%                                                                            36%
-               36%                                                                             46%
-               21%        15%               10%                                               29%         19%              22%
-                                   10%                                                                             16%
+27%     56%                                                                    41%     64%
+              39%     23%     27%                                                            47%      27%    36%
+                30%                                                                            36%
+           36%                                                                             46%
+           21%        15%               10%                                               29%         19%              22%
+                               10%                                                                             16%
 ```
 
 Arbets­, studie­ och tjänsteresor utgör drygt 40 procent  av
 alla resor i Västra Götaland, oavsett färdmedel. Övriga  60
-
 procent av resorna  fördelas ungefär lika mellan ”serviceresor”
 respektive ”fritidsresor”. Ärendefördelning  för enbart kollektiv­
-
 Figur 5. Kollektivtrafikens motoriserade marknadsandel (kollektivtrafik         Figur 6. Andel hållbara resor (kollektivtrafik, gång och cykel jämfört
 trafikresor ser något annorlunda  ut. Arbets­, studie­ och
 jämfört med totala antalet kollektivtrafik- och bilresor) per kommun.           med  totala antalet resor) per kommun.
@@ -6701,56 +7291,88 @@ av resorna sker i stadstrafiken i Göteborg­Mölndal­Partille.                
 Sett till antalet personkilometer står längre resor, ofta över                  nedsättning,  låginkomsttagare  och  äldre reser i högre grad lokalt
 
 flera kommungränser,   för cirka hälften av alla resta kilometer.               och är mer  beroende  av kollektivtrafiken för sin mobilitet.
-kirburmargaiD
-3
-2
-1
-Arbets-, studie- och tjänsteresor
-drygt 50 procent
-Fördelningen
-för kollektivtrafikresor
-i Västra Götaland
-Serviceresor                           Fritidsresor
-20 procent                         knappt 30 procent
+
+Diagramrubrik
+
+1 2 3
 
 <!-- sida 163 -->
 
 8
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                       INLEDNING  OCH  FÖRUTSÄTTNINGAR
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Underlag       för  framtagandet
-Transportinfrastruktur   är en viktig förutsättning för utvecklingen
-av kollektivtrafiken, samt för hållbar och förbättrad tillgänglighet             Som  underlag  för revideringen av trafikförsörjningsprogrammet
+Det  finns idag stora brister i järnvägsinfrastrukturen
 
-Det finns idag stora brister i järnvägsinfrastrukturen                     i Västra Götaland.                                                               togs en förutsättningsrapport fram.  Utöver den  har en särskild
+på flertalet ställen. Västra Götalandsregionen   har
 
-på flertalet ställen. Västra Götalandsregionen   har                                                                                                        kartläggning av utbudet  till större arbetsplatser genomförts.
-
-När  storstadsområden   växer och  förtätas behöver stomnätet                    Processen  har även inneburit  samråd  med   olika intressenter, det
 för nationell infrastrukturplan prioriterat följande
-byggas  ut, med fler spårdragningar  och fler spårfordon. Västra                 har gjorts en hållbarhetsbedömning    samt gjorts en prövning  av
+
 åtgärder:
-Götalandsregionen   och Västtrafik har också behov  av nya depåer                barnets bästa. Rapporterna   finns att läsa på VGR:s webb2.
-för både buss  och spårfordon  för att kunna utveckla  kollektiv­
-1\. Dubbelspårig    järnväg Göteborg–Borås
-trafiken på ett konkurrensneutralt  och  kostnadseffektivt sätt.                 Med  stöd i kunskaper  och slutsatser från arbetet ovan  togs en
 
-strategisk inriktning fram, där Västra  Götalandsregionen   till­
-2\. Fler spår på  Västra stambanan
-En god  infrastruktur för gång och cykel är viktig för att öka andelen           sammans   med  kommunalförbunden      kom  överens  om  principiellt
+1\.  Dubbelspårig   järnväg Göteborg–Borås
+
+2\.  Fler spår på Västra stambanan
 Göteborg–Alingsås
-hållbart resande, samt  för att möjliggöra kombinationsresor   med               innehåll och ramar  för programmet.
 
-3\. Dubbelspår    Göteborg–Oslo                                             dessa färdmedel   och kollektivtrafik. För att skapa en samman­
+3\.  Dubbelspår   Göteborg–Oslo
 
-hängande   helhet samt för att främja kombinationsresande   mellan               Utifrån inriktningen har trafikförsörjningsprogrammet   arbetats fram.
-4\. Satsningar   på samtliga  regionala järnvägar.                          cykel och kollektivtrafik krävs diverse åtgärder kring kollektiv­
+4\.  Satsningar  på samtliga  regionala  järnvägar.
+
+Transportinfrastruktur   är en viktig förutsättning för utvecklingen
+
+av kollektivtrafiken, samt för hållbar och förbättrad tillgänglighet
+
+i Västra Götaland.
+
+När  storstadsområden   växer och  förtätas behöver stomnätet
+
+byggas  ut, med fler spårdragningar  och fler spårfordon. Västra
+
+Götalandsregionen   och Västtrafik har också behov  av nya depåer
+
+för både buss  och spårfordon  för att kunna utveckla kollektiv­
+
+trafiken på ett konkurrensneutralt  och  kostnadseffektivt sätt.
+
+En god  infrastruktur för gång och cykel är viktig för att öka andelen
+
+hållbart resande, samt  för att möjliggöra kombinationsresor   med
+
+dessa färdmedel   och kollektivtrafik. För att skapa en samman­
+
+hängande   helhet samt för att främja kombinationsresande   mellan
+
+cykel och kollektivtrafik krävs diverse åtgärder kring kollektiv­
 
 trafiken såsom  pendelparkering   för cykel, cykelgarage och
 
 anslutande  cykelvägar. För  att tillgängliggöra kollektivtrafiken för
-
 fler behöver fler hållplatser och vägen dit tillgänglighetsanpassas.
+
+INLEDNING  OCH FÖRUTSÄTTNINGAR
+
+Underlag       för  framtagandet
+
+Som  underlag  för revideringen  av trafikförsörjningsprogrammet
+
+togs en förutsättningsrapport  fram. Utöver  den har en särskild
+
+kartläggning  av utbudet  till större arbetsplatser genomförts.
+Processen  har även  inneburit samråd   med  olika intressenter, det
+
+har gjorts en hållbarhetsbedömning    samt  gjorts en prövning av
+
+barnets bästa. Rapporterna   finns att läsa på VGR:s webb2.
+
+Med  stöd i kunskaper  och  slutsatser från arbetet ovan togs en
+
+strategisk inriktning fram, där  Västra Götalandsregionen    till­
+
+sammans    med  kommunalförbunden      kom  överens  om principiellt
+innehåll och ramar  för programmet.
+
+Utifrån inriktningen har trafikförsörjningsprogrammet   arbetats fram.
+
 2\. www.vgregion.se
 
 <!-- sida 164 -->
@@ -6762,594 +7384,1171 @@ Mål
 <!-- sida 165 -->
 
 10
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Övergripande       mål:   Hållbar    och  förbättrad     tillgänglighet     i Västra   Götaland
+I trafikförsörjningsprogrammet       finns  ett övergripande
 
-I trafikförsörjningsprogrammet       finns ett övergripande
+mål  om  hållbar  och  förbättrad   tillgänglighet  samt   tre
 
-mål  om  hållbar  och  förbättrad  tillgänglighet   samt   tre
-
-målområden     med   nio måttsatta   mål  som   samlat   bidrar
+målområden     med   nio måttsatta    mål  som  samlat   bidrar
 
 till det övergripande   målet.  Målen   är både   var för sig
 
-och tillsammans     ambitiösa   målsättningar.    För varje
+och  tillsammans    ambitiösa   målsättningar.    För varje
 
 målområde     beskrivs  prioriterade   åtgärder   som  VGR
 
-Målområde:                                           Målområde:                                           Målområde:
-och Västtrafik,  och  ibland  andra  parter,  behöver
-Kollektivtrafiken ska vara attraktiv                    Kollektivtrafiken ska bidra till                  Kollektivtrafiken i kombination med
-fokusera  på  och  samarbeta    kring  för att skapa                              och bidra till geografisk tillgänglighet                   jämlika förutsättningar                             andra  färdmedel ska vara
-resurseffektiv, klimatsmart och robust
+och  Västtrafik, och  ibland  andra   parter, behöver
+
+fokusera   på och  samarbeta    kring  för att skapa
+
 förändring   och  nå målen.
 
-Mål:                                                 Mål:                                                  Mål:
-
-• Kollektivtrafikens marknadsandel ska öka           • Alla fordon och 800 prioriterade h ållplatser ska  • Andelen hållbara resor ska öka till 45%
-på sikt med kortsiktig ambition att minst            vara tillgängliga för p ersoner med                   (41%  2023)
-
-vara 35%  2029  (31%  2023), för arbets- och         funktionsnedsättning (637  hållplatser 2023)
-• Självfinansieringsgraden ska öka på sikt med
-studieresor 49%  (44%  2023)
-• Antalet processer, innovations- och                  kortsiktigt ambition att minst b ibehålla dagens
-• Andelen invånare som  anger att de kan lita         utvecklingsprojekt där sociala analyser görs          nivå till 2029 (46,7% 2023)
-på att de kommer  fram  i tid ska öka till 45%,      ska öka  (mätetal tas fram under remisstiden)
-• Utsläppen av koldioxid per personkilometer
-(39%  2023)
-ska minska med  89%\*   jmf med år 2006
-• Andel invånare som kan nå en  kommun-                                                                     (71%  2023)
-huvudort  med kollektivtrafiken inom 30 minuter
-ska vara Y%  (tas fram under remissperioden)
-• Andel invånare som upplever att det är
-prisvärt att resa med kollektivtrafik ska minst
-vara 33%  (33%   2023)
-
-Prioriterade åtgärder:                               Prioriterade åtgärder:                               Prioriterade  åtgärder:
-• Fortsätta utveckla utbudet enligt fastställda      • Utveckla och säkerställa funktionen a v            • Fortsatt elektrifiering
-
-principer och prioriteringar                         tillgänglighetsanpassningar
-• Fortsätta utveckla det kombinerade r esandet
-• Samverka  för god samhällsplanering och            • Utveckla arbetet med sociala analyser
-• Utveckla åtgärder för hållbar finansiering av
-kollektivtrafikens framkomlighet
-• Utveckla dialog med särskilt fokus på barn           kollektivtrafiken över tid
-• Utvecklingsarbete kring vägen till och från         och unga
-• Systematisera arbetet med  civil beredskap
-hållplats
-• Utveckla och samverka  kring trafiksäkerhet
-och brottsförebyggande  arbete
 \*) Siffran kan komma att påverkas av ny EU-lagstiftning
-som kan kräva ändrad beräkningsfaktor för el, men                    Prioriterad åtgärd:  Verka för och genomföra forskning, innovation och utveckling som bidrar till att uppsatta mål nås
+som kan kräva ändrad beräkningsfaktor för el, men
 ambitionsnivån är i enlighet med miljö- och klimatstrategin.
+
+MÅL
+
+Övergripande       mål:   Hållbar    och  förbättrad     tillgänglighet     i Västra   Götaland
+
+Målområde:
+
+Kollektivtrafiken ska vara attraktiv
+och bidra till geografisk tillgänglighet
+
+Mål:
+• Kollektivtrafikens marknadsandel ska öka
+
+på sikt med kortsiktig ambition att minst
+vara 35%  2029 (31%  2023),  för arbets- och
+studieresor 49% (44%  2023)
+
+• Andelen invånare som  anger att de kan lita
+
+på att de kommer  fram i tid ska öka till 45%,
+(39%  2023)
+
+• Andel invånare som kan  nå en kommun-
+huvudort med  kollektivtrafiken inom 30 minuter
+ska vara Y% (tas fram under remissperioden)
+
+• Andel invånare som upplever  att det är
+
+prisvärt att resa med kollektivtrafik ska minst
+vara 33%  (33%  2023)
+
+Målområde:
+
+Kollektivtrafiken ska bidra till
+jämlika förutsättningar
+
+Mål:
+• Alla fordon och 800 prioriterade h ållplatser ska
+
+vara tillgängliga för p ersoner med
+funktionsnedsättning (637 hållplatser 2023)
+
+• Antalet processer, innovations- och
+utvecklingsprojekt där sociala analyser görs
+
+ska öka (mätetal tas fram under remisstiden)
+
+Målområde:
+
+Kollektivtrafiken i kombination med
+andra  färdmedel ska vara
+resurseffektiv, klimatsmart och robust
+
+Mål:
+• Andelen hållbara resor ska öka till 45%
+
+(41%  2023)
+
+• Självfinansieringsgraden ska öka på sikt med
+kortsiktigt ambition att minst b ibehålla dagens
+nivå till 2029 (46,7% 2023)
+
+• Utsläppen av koldioxid per personkilometer
+
+ska minska med  89%\*   jmf med år 2006
+(71%  2023)
+
+Prioriterade  åtgärder:
+
+• Fortsätta utveckla utbudet enligt fastställda
+principer och prioriteringar
+
+• Samverka  för god samhällsplanering och
+kollektivtrafikens framkomlighet
+
+• Utvecklingsarbete kring vägen till och från
+hållplats
+
+Prioriterade  åtgärder:
+
+• Utveckla och säkerställa funktionen a v
+tillgänglighetsanpassningar
+
+• Utveckla arbetet med sociala analyser
+
+• Utveckla dialog med särskilt fokus på barn
+och unga
+
+• Utveckla och samverka  kring trafiksäkerhet
+och brottsförebyggande arbete
+
+Prioriterade  åtgärder:
+
+• Fortsatt elektrifiering
+
+• Fortsätta utveckla det kombinerade r esandet
+• Utveckla åtgärder för hållbar finansiering av
+
+kollektivtrafiken över tid
+
+• Systematisera arbetet med  civil beredskap
+
+Prioriterad åtgärd:  Verka för och genomföra  forskning, innovation och utveckling som bidrar till att uppsatta mål nås
 
 <!-- sida 166 -->
 
 11
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029                                                                                                                                                                                                    MÅL
 
 Övergripande             mål:
 
-Hållbar            och       förbättrad                 tillgänglighet                     i Västra           Götaland
+Hållbar            och       förbättrad                 tillgänglighet                     i  Västra           Götaland
 
-Transportsystemet   och kollektivtrafiken har stor betydelse för                Detta trafikförsörjningsprogram   föreslår inte några nya större
+Transportsystemet   och  kollektivtrafiken har stor betydelse för
 
-människors  tillgänglighet och bidrar till att tillväxt och utveckling          satsningar, utan  tillgängligheten ska i stora delar utvecklas
+människors   tillgänglighet och bidrar till att tillväxt och utveckling
 
-kan ske i hela Västra Götaland. Samtidigt  står transporter för cirka           genom   resurseffektiva lösningar och inom   de budgetramar   som
-Mobilitet
-en fjärdedel av Västra Götalands  klimatpåverkande    utsläpp. En               regionfullmäktige  beslutar.
+kan ske i hela Västra Götaland.  Samtidigt  står transporter för cirka
 
+en fjärdedel av Västra Götalands   klimatpåverkande   utsläpp. En
 omställning  behöver  ske vad gäller drivmedel  men  framförallt av
 
-hur behoven  av tillgänglighet och mobilitet tillgodoses.
-Tillgänglighet        som    begrepp
+hur behoven   av tillgänglighet och mobilitet tillgodoses.
 
-En omställning  till ett transporteffektivt samhälle som i högre                I trafikförsörjningsprogrammet    definieras tillgänglighet som
+En  omställning  till ett transporteffektivt samhälle som i högre
 
-grad bygger på  att människor  har nära till viktiga målpunkter är              möjligheten  att ta del av något som antingen  är eftersträvat eller
+grad bygger  på att människor  har nära  till viktiga målpunkter är
 
-avgörande  för att i större utsträckning kunna minska  resbehov,                nödvändigt,  så som  arbete, utbildning, service och kultur.
+avgörande  för att i större utsträckning kunna  minska  resbehov,
+påverka  färdmedelsandelar   och göra  kollektivtrafik, gång och cykel
 
-påverka färdmedelsandelar    och göra kollektivtrafik, gång och cykel
+till självklara val för allt fler.
 
-till självklara val för allt fler.                                              Tillgänglighet kan åstadkommas     på tre sätt, genom nära
-Tillgänglighet
-lokalisering (rumsligt nära), genom   mobilitet/rörlighet (tidsmässigt
-Trafikförsörjningsprogrammets    övergripande   mål handlar  om                 nära) och  digitalt (virtuellt nära i tid och rum). Delarna påverkar
+Trafikförsörjningsprogrammets     övergripande  mål  handlar om
 
-att verka för hållbar tillgänglighet genom att erbjuda invånarna                också varandra.  Till exempel  påverkar målpunkters   lokalisering
+att verka för hållbar tillgänglighet genom att erbjuda invånarna
 
-resmöjligheter med   kollektivtrafiken i kombination  med  andra                och bredbandsutbyggnad     behovet  av fysisk mobilitet, men också
+resmöjligheter  med  kollektivtrafiken i kombination  med  andra
 
-hållbara färdsätt, utifrån människors  olika behov och  de varierande           att det som erbjuds  går att ta del av. Exempelvis att människor  har                Närhet                                            Digitalt
+hållbara färdsätt, utifrån människors  olika behov  och de varierande
+geografiska förutsättningarna   i regionen.
 
-geografiska förutsättningarna  i regionen.                                      råd, kunskap  och  möjlighet att använda  transportsystemet   och de
-
-digitala lösningar som  finns.
 Att gå i riktning mot en hållbar tillgänglighet betyder ett skifte mot
 
 att i högre grad planera för att möjliggöra ett minskat resbehov
 
-genom  nära  planering, digitala lösningar och att de resor som görs i                                                                                           Figur 7. Samband mellan rumslig, tidsmässig och digital tillgänglighet.
+genom   nära planering, digitala lösningar och att de resor som  görs i
 
-allt högre utsträckning sker med  hållbara färdmedel.
+allt högre utsträckning sker med  hållbara  färdmedel.
+
+Detta trafikförsörjningsprogram   föreslår inte några nya större
+
+satsningar, utan tillgängligheten ska i stora delar utvecklas
+
+genom   resurseffektiva lösningar och inom  de  budgetramar   som
+Mobilitet
+regionfullmäktige  beslutar.
+
+Tillgänglighet        som    begrepp
+
+I trafikförsörjningsprogrammet    definieras tillgänglighet som
+
+möjligheten  att ta del av något som antingen  är eftersträvat eller
+
+nödvändigt,  så som  arbete, utbildning, service och kultur.
+
+Tillgänglighet kan åstadkommas     på tre sätt, genom nära
+Tillgänglighet
+lokalisering (rumsligt nära), genom   mobilitet/rörlighet (tidsmässigt
+
+nära) och  digitalt (virtuellt nära i tid och rum). Delarna påverkar
+
+också varandra.  Till exempel  påverkar målpunkters   lokalisering
+
+och bredbandsutbyggnad     behovet  av fysisk mobilitet, men också
+
+att det som erbjuds  går att ta del av. Exempelvis att människor  har                Närhet                                            Digitalt
+råd, kunskap  och möjlighet  att använda  transportsystemet   och de
+
+digitala lösningar som  finns.
+
+Figur 7. Samband mellan rumslig, tidsmässig och digital tillgänglighet.
 
 <!-- sida 167 -->
 
 12
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
 Målområde:
 
-Kollektivtrafiken                         ska      vara        attraktiv             och
+Kollektivtrafiken                         ska       vara        attraktiv             och
 
-bidra         till   geografisk                  tillgänglighet
+bidra         till    geografisk                  tillgänglighet
 
-Kollektivtrafiken har betydelse i människors  liv, för att kunna ta             En  av kollektivtrafikens styrkor är möjligheten att nyttja tiden
+Kollektivtrafiken har betydelse  i människors  liv, för att kunna ta
 
-sig till arbete och studier men också andra målpunkter.   Ökade                 under  resan. Att kunna  arbeta och studera  ombord   förutsätter god
+sig till arbete och studier men också andra  målpunkter.  Ökade
+
+marknadsandelar    för kollektivtrafik möjliggör ett transporteffektivt
+
+samhälle,  minskade  utsläpp  och minskad   trängsel vilket kan frigöra
+platser/områden   för alternativ användning.  För programperioden
+
+är målsättningen  att öka marknadsandelen    till 35 procent, för att
+
+sikta mot branschmålet   om  40 procent.
+
+För att människor   ska vilja och kunna åka med   kollektivtrafiken
+
+är det avgörande  att den är attraktiv, med bra utbud  och hög
+kvalitet. Ett grundläggande  utbud  av kollektivtrafik över tid,
+
+utifrån geografiska och  platsspecifika förutsättningar, innebär
+
+en långsiktighet för invånarna.  Kollektivtrafiken ska, oavsett
+
+trafiklösning, vara enkel att använda  och i möjligaste mån  fungera
+
+i ett integrerat system vad gäller information, beställning, biljetter
+
+med  mera.
+
+Arbets­ och  studiemöjligheter  tillsammans  med  mycket  annan
+
+service samt  kultur­och fritidsaktiviteter är ofta koncentrerade till
+
+större tätorter, kommunhuvudorter     och städer. Genom   att utveckla
+
+kollektivtrafik till och från omkringliggande landsbygder   kan en
+
+ökad  andel invånare  resa med  kollektivtrafik till arbete, studier,
+
+service, fritids­ och kulturaktiviteter.
+
+En  av kollektivtrafikens styrkor är möjligheten att nyttja tiden
+
+under  resan. Att kunna  arbeta och studera  ombord   förutsätter god
+
+uppkoppling   mot  mobila bredbandstjänster.
+
+Utöver  utbud, resmöjligheter,  och restider är en viktig del för den
+
+upplevda  kvaliteten att det känns tryggt och tillförlitligt att resa
+
+i kollektivtrafiken. Undersökningar  visar att det främsta skälet
+
+för att resenärer ska uppleva trygghet  i kollektivtrafiken handlar
+
+om  att kunna  lita på att komma  fram i tid. Detta handlar om  att
+
+trafiken går i tid, att byten fungerar, tydlig information och lösning
+vid störningar. För att detta ska fungera behöver  kollektivtrafikens
+
+framkomlighet   prioriteras. Det behövs  också fortsatta insatser för
+
+att säkra kompetensförsörjning   i kollektivtrafiken, förbättrade
+
+system  och utvecklad  resenärsinformation,  både  av planerad  trafik
+
+och vid störningar.
+
+MÅL
+
 Målområde:
-marknadsandelar    för kollektivtrafik möjliggör ett transporteffektivt         uppkoppling   mot  mobila bredbandstjänster.
+
 Kollektivtrafiken ska vara attraktiv
-samhälle, minskade   utsläpp och  minskad  trängsel vilket kan frigöra
 och bidra till geografisk tillgänglighet
-platser/områden   för alternativ användning.  För programperioden               Utöver  utbud, resmöjligheter,  och restider är en viktig del för den
-
-är målsättningen  att öka marknadsandelen    till 35 procent, för att           upplevda  kvaliteten att det känns tryggt och tillförlitligt att resa
-sikta mot branschmålet   om  40 procent.                                        i kollektivtrafiken. Undersökningar  visar att det främsta skälet
 
 Mål:
-för att resenärer ska uppleva trygghet  i kollektivtrafiken handlar
-För att människor  ska vilja och kunna  åka med  kollektivtrafiken              om  att kunna  lita på att komma  fram i tid. Detta handlar om  att                                      • Kollektivtrafikens marknadsandel ska
-öka på sikt med kortsiktig ambition
-är det avgörande  att den är attraktiv, med bra utbud  och hög                  trafiken går i tid, att byten fungerar, tydlig information och lösning
-att minst vara 35% 2029  (31%  2023),
-kvalitet. Ett grundläggande  utbud av kollektivtrafik över tid,                 vid störningar. För att detta ska fungera behöver  kollektivtrafikens
-för arbets- och studieresor 49% (44%
-utifrån geografiska och platsspecifika förutsättningar, innebär                 framkomlighet   prioriteras. Det behövs  också fortsatta insatser för                                      2023)
-en långsiktighet för invånarna. Kollektivtrafiken ska, oavsett                  att säkra kompetensförsörjning   i kollektivtrafiken, förbättrade
-• Andelen invånare som  anger att de kan
-trafiklösning, vara enkel att använda och  i möjligaste mån  fungera            system  och utvecklad  resenärsinformation,  både  av planerad  trafik                                     lita på att de kommer fram i tid ska öka
 
+• Kollektivtrafikens marknadsandel ska
+öka på sikt med kortsiktig ambition
+att minst vara 35% 2029  (31%  2023),
+
+för arbets- och studieresor 49% (44%
+2023\)
+
+• Andelen invånare som  anger att de kan
+lita på att de kommer fram i tid ska öka
 till 45%, (39% 2023)
-i ett integrerat system vad gäller information, beställning, biljetter          och vid störningar.
-med  mera.
+
 • Andelen invånare som  kan nå en
 kommun  huvudort med  kollektivtrafiken
-inom 30 minuter ska vara Y%  (tas fram
-Arbets­ och studiemöjligheter  tillsammans   med  mycket  annan
-under remissperioden)
-service samt kultur­och  fritidsaktiviteter är ofta koncentrerade till
-större tätorter, kommunhuvudorter    och  städer. Genom   att utveckla                                                                                                                   • Andel invånare som  upplever att det är
 
+inom 30 minuter ska vara Y%  (tas fram
+under remissperioden)
+
+• Andel invånare som upplever  att det är
 prisvärt att resa med kollektivtrafik ska
-kollektivtrafik till och från omkringliggande landsbygder  kan  en
+
 minst vara 33%  (33%  2023)
-ökad andel  invånare resa med  kollektivtrafik till arbete, studier,
-service, fritids­ och kulturaktiviteter.
 
 <!-- sida 168 -->
 
 13
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Prioriterade         åtgärder         som     ska    bidra     till målområdet
+Prioriterade          åtgärder        som      ska   bidra     till  målområdet
 
 Fortsätta   utveckla    utbudet    enligt  fastställda
-Målbild  koll 2035 – Göteborg/Mölndal/Partille
-principer   och  prioriteringar
-En  mer kapacitetsstark, snabb  och  pålitlig kollektivtrafik i
-Kollektivtrafikens utbud  ska fortsätta att utvecklas i hela regionen           storstadsområdet   är en förutsättning för tillväxt och utveckling i
 
-i den takt som resandeutveckling   och regionfullmäktiges  budget­              både  området  i sig och i Västra Götaland som  helhet. Satsningarna
+principer    och  prioriteringar
 
-ramar  tillåter. I ett regionalt perspektiv är det prioriterat att              i målbilden ska leda till att restiderna kortas med 20–25  procent
-utöka öppettiderna  i de utpekade  stråken för att möjliggöra                   och att kapaciteten ökar  med  70 procent. Under   programperioden
+Kollektivtrafikens utbud  ska fortsätta att utvecklas i hela regionen
 
-arbets­ och studiependling,  tidigare på morgonen   och senare  på              är det prioriterat att fortsätta planering, säkerställa finansiering
+i den takt som resandeutveckling   och regionfullmäktiges   budget­
 
-kvällen. Ett succesivt införande föreslås under programperioden                 och byggstart  av en ny ”Allélänk” för att avlasta spårvägssystemet.
-Målområde:
-där vardagar är mest  angeläget följt av helger. (För mer om                    Därtill att arbeta med ett stegvis införande av konceptet  metrobuss
-Kollektivtrafiken ska vara attraktiv
-principer kring utbudet  se avsnitt Principer och prioriteringar  för           samt  att fortsatt samverka för förbättrad framkomlighet   för
-och bidra till geografisk tillgänglighet
-kollektivtrafikens utbud).                                                      kollektivtrafiken.
+ramar  tillåter. I ett regionalt perspektiv är det prioriterat att
 
-Tidigare beslutade  målbilder  och planer konkretiserar  kollektiv­
-trafikens utveckling gällande  tågtrafik och stadstrafik i Västra               Kollektivtrafikplaner  i Borås, Skövde,  Trollhättan/Vänersborg
+utöka öppettiderna   i de utpekade stråken  för att möjliggöra
+arbets­ och studiependling,  tidigare på morgonen   och  senare på
 
-Götalands  kärnor:                                                              och Uddevalla
-Prioriterade  åtgärder:
-Planerna  pekar  ut riktningen för att stödja hållbar region­ och
+kvällen. Ett succesivt införande föreslås under  programperioden
 
-Målbild Tåg  2035  inklusive Västtågsutredningen                                stads utveckling, möta kommunernas     befolkningstillväxt och                                           • Fortsätta utveckla utbudet enligt
-fastställda principer och prioriteringar
-Målbild tåg 2035  beskriver utvecklingsambitionen    för den                    uppnå  en ökad  marknadsandel    för hållbara resor. Utvecklingen
+där vardagar  är mest angeläget  följt av helger. (För mer om
 
-regionala tågtrafiken i Västra Götaland  som  är ryggraden  i det               i respektive område  sker i samverkan  mellan  Västtrafik, Västra
-• Samverka  för god samhällsplanering och
-regionala kollektivtrafiksystemet och  knyter samman    Västra                  Götalandsregionen   och  berörda  kommuner.                                                                kollektivtrafikens framkomlighet
-Götaland. På  kort sikt är det prioriterat att nyttja den potential
-• Utvecklingsarbete kring vägen till och
-för både förbättrad och förändrad  trafikering som  Västlänkens                                                                                                                            från hållplats
+principer kring utbudet  se avsnitt Principer och prioriteringar  för
 
-successiva öppnande   ger från och med  2026.  Ett fortsatt
-• Verka för och genomföra  forskning,
-påverkansarbete  för en utbyggd  järnvägsinfrastruktur  i Västra
-innovation och utveckling som bidrar
-47         %
-Götaland  är avgörande  för att nå målbildens ambitioner   om ett                                                                                                                          till att uppsatta mål nås
-ökat tågresande. Det  påbörjade  arbetet med  att möjliggöra nya
-stationer enligt Västtågsutredningen  fortsätter också under  de
-av befolkningen bor i de regionala kärnorna
+kollektivtrafikens utbud).
+
+Tidigare  beslutade målbilder  och planer  konkretiserar kollektiv­
+
+trafikens utveckling  gällande tågtrafik och stadstrafik i Västra
+Götalands  kärnor:
+
+Målbild  Tåg  2035  inklusive Västtågsutredningen
+
+Målbild  tåg 2035 beskriver  utvecklingsambitionen   för den
+
+regionala tågtrafiken i Västra Götaland  som  är ryggraden  i det
+
+regionala kollektivtrafiksystemet  och knyter samman    Västra
+Götaland.  På kort sikt är det prioriterat att nyttja den potential
+
+för både förbättrad och  förändrad  trafikering som Västlänkens
+
+successiva öppnande   ger från och  med  2026. Ett fortsatt
+
+påverkansarbete   för en utbyggd  järnvägsinfrastruktur  i Västra
+
+Götaland  är avgörande  för att nå målbildens  ambitioner  om  ett
+
+ökat tågresande.  Det påbörjade  arbetet med  att möjliggöra  nya
+
+stationer enligt Västtågsutredningen   fortsätter också under de
 kommande    åren.
-(Göteborg/Mölndal/Partille,  Borås, Skövde,
-Under  programperioden    kommer    en ny reviderad målbild  för                                      Trollhättan/Vänersborg  och Uddevalla)
+
+Under   programperioden    kommer   en ny reviderad  målbild för
 
 tågtrafik att tas fram.
+
+Målbild  koll 2035 – Göteborg/Mölndal/Partille
+
+En  mer kapacitetsstark, snabb  och  pålitlig kollektivtrafik i
+
+storstadsområdet   är en förutsättning för tillväxt och utveckling i
+
+både  området  i sig och i Västra Götaland som  helhet. Satsningarna
+i målbilden ska leda till att restiderna kortas med 20–25  procent
+
+och att kapaciteten ökar  med  70 procent. Under   programperioden
+
+är det prioriterat att fortsätta planering, säkerställa finansiering
+
+och byggstart  av en ny ”Allélänk” för att avlasta spårvägssystemet.
+
+Därtill att arbeta med ett stegvis införande av konceptet  metrobuss
+
+samt  att fortsatt samverka för förbättrad framkomlighet   för
+kollektivtrafiken.
+
+Kollektivtrafikplaner  i Borås, Skövde,  Trollhättan/Vänersborg
+
+och Uddevalla
+
+Planerna  pekar  ut riktningen för att stödja hållbar region­ och
+
+stads utveckling, möta kommunernas     befolkningstillväxt och
+
+uppnå  en ökad  marknadsandel    för hållbara resor. Utvecklingen
+i respektive område  sker i samverkan  mellan  Västtrafik, Västra
+
+Götalandsregionen   och  berörda  kommuner.
+
+47         %
+
+av befolkningen bor i de regionala kärnorna
+(Göteborg/Mölndal/Partille,  Borås, Skövde,
+
+Trollhättan/Vänersborg  och Uddevalla)
+
+MÅL
+
+Målområde:
+
+Kollektivtrafiken ska vara attraktiv
+och bidra till geografisk tillgänglighet
+
+Prioriterade åtgärder:
+
+• Fortsätta utveckla utbudet enligt
+
+fastställda principer och prioriteringar
+
+• Samverka  för god samhällsplanering och
+
+kollektivtrafikens framkomlighet
+
+• Utvecklingsarbete kring vägen till och
+
+från hållplats
+
+• Verka för och genomföra forskning,
+
+innovation och utveckling som bidrar
+till att uppsatta mål nås
 
 <!-- sida 169 -->
 
 14
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
 ”
 
-Genom     att prioritera   vägen   till och  från
+Genom     att prioritera   vägen    till och från
 
-hållplats   kan  tillgängligheten      och
+hållplats   kan   tillgängligheten     och
 
-attraktiviteten    öka  i hela Västra   Götaland
+attraktiviteten    öka  i hela  Västra   Götaland
 
-Samverka     för god   samhällsplanering        och
-restiden ökar, vilket påverkar attraktiviteten. Det behövs  ökad
+Samverka      för god  samhällsplanering         och
+
 kollektivtrafikens     framkomlighet
-samverkan   med  framförallt kommuner    och  Trafikverket för att
-Målområde:
-I samband  med  planering  av nya områden   och  större förändringar            förbättra framkomligheten.
-Kollektivtrafiken ska vara attraktiv
+
+I samband   med  planering av nya  områden   och större förändringar
+
 i den fysiska miljön finns störst möjlighet att skapa förutsättningar
-och bidra till geografisk tillgänglighet
-för hållbara färdmedelsval. Kommunerna     har  med  bland annat  stöd          De  senaste årens arbete för att höja både kunskap  och  medvetenhet
-av den fysiska planeringen,  parkeringspolicy  och parkeringsavgifter           om  roller, ansvar och kollektivtrafikens planeringsförutsättningar
-möjlighet att främja hållbara resor, i både ett lång­ och kortsiktigt           bland  parterna behöver  fortsätta och samverkan   utvecklas
 
-perspektiv. Med  fler bostäder och verksamheter   koncentrerade   till          ytterligare. En prioriterad fråga är att underlätta och möjliggöra
-Prioriterade  åtgärder:
-det utpekade  nätet (se sidan 24) förbättras förutsättningarna  för en          kollektivtrafik och andra hållbara resor i tidigt skede vid
+för hållbara färdmedelsval.  Kommunerna     har med  bland  annat stöd
 
-attraktiv och konkurrenskraftig  kollektivtrafik. När fler människor            nyetableringar/utbyggnader    av bostäder  och verksamheter.                                             • Fortsätta utveckla utbudet enligt
-fastställda principer och prioriteringar
-bor och arbetar inom  gångavstånd   från kollektivtrafiknätet ges fler
+av den fysiska planeringen,  parkeringspolicy  och parkeringsavgifter
+möjlighet  att främja hållbara resor, i både ett lång­ och kortsiktigt
+
+perspektiv. Med  fler bostäder och  verksamheter  koncentrerade   till
+
+det utpekade  nätet (se sidan 24) förbättras förutsättningarna  för en
+
+attraktiv och konkurrenskraftig  kollektivtrafik. När fler människor
+
+bor och arbetar  inom  gångavstånd  från kollektivtrafiknätet ges fler
+
+människor   möjlighet att resa med  kollektivtrafik.
+
+Tidig dialog mellan  Västtrafik och kommunerna     kopplat till
+
+kommunernas     planarbeten  är en viktig del i att få samhälls­
+
+planering  och kollektivtrafik att gå hand i hand. För att främja
+
+gång­ och  cykeltrafik är det viktigt att bland annat bygga gång­ och
+
+cykelbanor,  cykelparkeringar  vid kollektivtrafiknoder och  förbättra
+
+trafiksäkerheten  för fotgängare och cyklister.
+
+I regionens kärnor  och särskilt i Göteborg med  omnejd  finns stora
+
+utmaningar   kopplat till kollektivtrafikens framkomlighet. Det
+
+bidrar till att kollektivtrafiken blir mindre förutsägbar och att
+
+restiden ökar, vilket påverkar attraktiviteten. Det behövs  ökad
+
+samverkan   med  framförallt kommuner    och  Trafikverket för att
+
+förbättra framkomligheten.
+
+De senaste  årens arbete för att höja både kunskap  och  medvetenhet
+
+om  roller, ansvar och kollektivtrafikens planeringsförutsättningar
+
+bland  parterna behöver  fortsätta och samverkan   utvecklas
+
+ytterligare. En prioriterad fråga är att underlätta och möjliggöra
+
+kollektivtrafik och andra hållbara resor i tidigt skede vid
+
+nyetableringar/utbyggnader    av bostäder  och verksamheter.
+
 Utvecklingsarbete        kring  vägen    till och från  hållplats
-människor  möjlighet  att resa med kollektivtrafik.
-• Samverka  för god samhällsplanering och
-Genom   att prioritera vägar till och från hållplatsen men också                                           kollektivtrafikens framkomlighet
-Tidig dialog mellan Västtrafik och kommunerna     kopplat  till                 anslutningsmöjligheter   i form av exempelvis  fler pendelparkeringar
-• Utvecklingsarbete kring vägen till och
-kommunernas    planarbeten   är en viktig del i att få samhälls­                för bil och cykel kan tillgängligheten och attraktiviteten öka i hela                                      från hållplats
 
-planering och kollektivtrafik att gå hand i hand. För att främja                Västra Götaland.
-• Verka för och genomföra  forskning,
-gång­ och cykeltrafik är det viktigt att bland annat bygga gång­ och
-innovation och utveckling som bidrar
-cykelbanor, cykelparkeringar   vid kollektivtrafiknoder och förbättra           Under  programperioden    vill VGR  med  Västtrafik tillsammans  med                                       till att uppsatta mål nås
+Genom   att prioritera vägar till och från hållplatsen men också
 
-trafiksäkerheten för fotgängare  och cyklister.                                 kommunerna,    Trafikverket  och övriga berörda  aktörer gemensamt
+anslutningsmöjligheter   i form av exempelvis  fler pendelparkeringar
+
+för bil och cykel kan tillgängligheten och attraktiviteten öka i hela
+
+Västra Götaland.
+
+Under  programperioden    vill VGR  med  Västtrafik tillsammans  med
+
+kommunerna,    Trafikverket  och övriga berörda  aktörer gemensamt
+
 verka för att öka tillgängligheten och attraktiviteten till, från och på
 
-I regionens kärnor och  särskilt i Göteborg med omnejd   finns stora            hållplatser. Arbetet bör ta hänsyn  till de varierande förutsättningar
+hållplatser. Arbetet bör ta hänsyn  till de varierande förutsättningar
 
-utmaningar  kopplat  till kollektivtrafikens framkomlighet. Det                 som  råder i länet. Med fördel kan hållplatsområden   och  andra
+som  råder i länet. Med fördel kan hållplatsområden   och  andra
 
-bidrar till att kollektivtrafiken blir mindre förutsägbar och att               kollektivtrafikmiljöer bidra positivt till den gestaltade livsmiljön.
+kollektivtrafikmiljöer bidra positivt till den gestaltade livsmiljön.
+
+MÅL
+
+Målområde:
+
+Kollektivtrafiken ska vara attraktiv
+och bidra till geografisk tillgänglighet
+
+Prioriterade åtgärder:
+
+• Fortsätta utveckla utbudet enligt
+
+fastställda principer och prioriteringar
+
+• Samverka  för god samhällsplanering och
+
+kollektivtrafikens framkomlighet
+
+• Utvecklingsarbete kring vägen till och
+
+från hållplats
+
+• Verka för och genomföra forskning,
+
+innovation och utveckling som bidrar
+till att uppsatta mål nås
 
 <!-- sida 170 -->
 
 15
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
+
+Målområde:
+
+Kollektivtrafiken                         ska      bidra          till   jämlika            förutsättningar
+
+Det finns stora sociala och ekonomiska  skillnader i Västra Götaland,           Ambitionen   på sikt är att göra sociala analyser i samtliga processer
+
+där vissa grupper och  områden   är mer beroende   av kollektiv­                och projekt  i syfte att bidra till jämlika förutsättningar. Under
+
+trafiken för sitt vardagsresande än andra. Äldre, personer  med                 programperioden    fokuseras  arbetet till de mest prioriterade
+funktionsnedsättning,  kvinnor,  barn, ungdomar   och  personer  i              projekten  och processerna.
+
+hushåll med  lägre inkomster  är oftare beroende  av kollektivtrafik
+
+för sin resa. Vissa grupper möter också  större hinder i kollektiv­
+
+trafiken.
+
+Planering av kollektivtrafik påverkar människors   liv och möjlighet
+att ta del av samhällets utbud och på så vis påverkar  det även
+
+jämlikheten. För  att säkerställa att planering och genom förande
+
+av kollektivtrafiken görs med  medvetenhet   om  olika gruppers
+
+behov  och förutsättningar behöver  systematiska  analyser  av sociala
+
+faktorer vara en integrerad del i beslutsunderlag.
+
+MÅL
 
 Målområde:
 
 Kollektivtrafiken ska bidra till
-Målområde:                                                                                                                                                                                         jämlika förutsättningar
 
-Kollektivtrafiken                         ska      bidra         till    jämlika            förutsättningar
+jämlika förutsättningar
 
 Mål:
-Det finns stora sociala och ekonomiska  skillnader i Västra Götaland,           Ambitionen   på sikt är att göra sociala analyser i samtliga processer
+
 • Alla fordon och 800 prioriterade
-där vissa grupper och  områden   är mer beroende  av kollektiv­                 och projekt i syfte att bidra till jämlika förutsättningar. Under
 hållplatser ska vara tillgängliga för
-trafiken för sitt vardagsresande än andra. Äldre, personer  med                 programperioden    fokuseras  arbetet till de mest prioriterade                                            personer med  funktionsnedsättning
+personer med  funktionsnedsättning
+
 (637 hållplatser 2023)
-funktionsnedsättning,  kvinnor,  barn, ungdomar   och personer  i               projekten  och processerna.
-hushåll med  lägre inkomster  är oftare beroende  av kollektivtrafik
+
 • Antalet processer, innovations- och
-för sin resa. Vissa grupper möter också  större hinder i kollektiv­                                                                                                                        utvecklingsprojekt där sociala analyser
 
+utvecklingsprojekt där sociala analyser
 görs ska öka (mätetal tas fram under
-trafiken.
+
 remisstiden)
-
-Planering av kollektivtrafik påverkar människors   liv och möjlighet
-
-att ta del av samhällets utbud och på så vis påverkar det även
-jämlikheten. För  att säkerställa att planering och genom förande
-
-av kollektivtrafiken görs med medvetenhet    om  olika gruppers
-
-behov och  förutsättningar behöver  systematiska  analyser  av sociala
-
-faktorer vara en integrerad del i beslutsunderlag.
 
 <!-- sida 171 -->
 
 16
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Prioriterade         åtgärder         som     ska    bidra     till målområdet
+Prioriterade          åtgärder        som      ska   bidra     till  målområdet
 
 Utveckla    och  säkerställa    funktionen     av
-vilka som  känner  sig delaktiga. Barn är en grupp som  har särskilt
+
 tillgänglighetsanpassningar
-svårt att göra sin röst hörd; det saknas upparbetade  forum  för
-Arbetet med  att öka tillgängligheten inom  kollektivtrafiken                   dialog med  barn, de omfattas  inte av kollektivtrafikbarometerns
 
-för personer med  funktionsnedsättning   behöver  fortsätta. Det                undersökningar   och  får sällan riktad information eller ges
+Arbetet med   att öka tillgängligheten inom kollektivtrafiken
 
-handlar om  ytterligare anpassningar  såväl som  att säkerställa                möjlighet  till dialog. Barnkonventionen  slår fast att ”barn har rätt
-att de åtgärder som görs fungerar,  exempelvis  ramper,  skyltar                att uttrycka sin mening  och höras  i alla frågor som rör barnet.
+för personer med   funktionsnedsättning   behöver  fortsätta. Det
 
-och utrop på fordonen.  Hållplatser behöver  inventeras  för att                Hänsyn   ska tas till barnets åsikter, utifrån barnets ålder och
+handlar  om  ytterligare anpassningar  såväl som  att säkerställa
 
-säkerställa tillförlitligt underlag, både för fortsatt planering för            mognad”.   Här behöver  arbetssätt och  systematik utvecklas.
+att de åtgärder som  görs fungerar, exempelvis  ramper,  skyltar
+och utrop  på fordonen.  Hållplatser behöver  inventeras för att
 
-åtgärder och för att kunna informera   resenärer som  är beroende
-Målområde:
-Utveckla    och  samverka      kring  trafiksäkerhet     och
+säkerställa tillförlitligt underlag, både för fortsatt planering för
+
+åtgärder och  för att kunna informera  resenärer  som  är beroende
+
 av tillgänglighetsanpassningar.
-Kollektivtrafiken ska bidra till
-brottsförebyggande         arbete
-jämlika förutsättningar
-Utveckla    arbetet   med   sociala   analyser
-Rädsla  att utsättas för brott samt risker kopplat till trafiksäkerhet
-Genom   att identifiera och analysera olika gruppers behov  och                 är två viktiga parametrar  kopplat till trygghet och säkerhet i
-förutsättningar möjliggörs  mer  medvetna  beslut. Det arbete med               kollektivtrafiken. Vissa typer av brott och vissa trafiksäkerhetsrisker
-att göra sociala konsekvensanalyser  som  har påbörjats  i förstudier           är större för vissa grupper. Exempelvis  är det vanligare bland äldre
-Prioriterade  åtgärder:
-inför upphandling  av kollektivtrafik är ett sådant exempel. Arbetet            kvinnor  att råka ut för fallolyckor ombord. Kvinnor  är i högre grad
-• Utveckla och säkerställa funktionen a v
-behöver  utvecklas till att även omfatta beslutsskedena så att det              utsatta för sexualbrott och män  är mer  utsatta för misshandel.
-tillgänglighetsanpassningar
+
+Utveckla    arbetet   med    sociala   analyser
+
+Genom   att identifiera och analysera olika gruppers behov  och
+förutsättningar  möjliggörs mer  medvetna   beslut. Det arbete med
+
+att göra sociala konsekvensanalyser   som  har påbörjats i förstudier
+
+inför upphandling   av kollektivtrafik är ett sådant exempel. Arbetet
+
+behöver  utvecklas till att även omfatta beslutsskedena  så att det
+
 blir tydligt för beslutsfattare vilka konsekvenser olika alternativ
-• Utveckla arbetet med sociala analyser
-får för olika resenärsgrupper. Arbetet behöver  också  utvecklas                Det finns behov  av att utveckla det brottsförebyggande   arbetet,
-och systematiseras  i fler processer i kollektivtrafikplaneringen               bland  annat genom   att vidareutbilda förare i deras ansvar ombord
-• Utveckla dialog med särskilt fokus på
-under programperioden,    exempelvis  trafikplaneprocessen,  viktiga            på fordonen.  Mycket  av det brottsförebyggande   arbetet sker i                                           barn och unga
 
-innovations­ och  utvecklingsprojekt, revidering  av målbild tåg                samverkan   med  kommun    och  andra aktörer och  här behöver  ett
-• Utveckla och samverka  kring
-2035, kollektivtrafikplaner och trafikplikt.                                    fortsatt arbete ske. Det handlar bland  annat om  att få trygga miljöer
-trafiksäkerhet och brottsförebyggande
-i och kring kollektivtrafiken. Västtrafiks trygghetskoordinatorer  är                                      arbete
-Utveckla    dialog  med    särskilt  fokus   på  barn  och   unga
+får för olika resenärsgrupper. Arbetet  behöver  också utvecklas
+och systematiseras  i fler processer i kollektivtrafikplaneringen
+
+under  programperioden,   exempelvis   trafikplaneprocessen,  viktiga
+
+innovations­  och utvecklingsprojekt,  revidering av målbild  tåg
+
+2035,  kollektivtrafikplaner och trafikplikt.
+
+Utveckla    dialog   med   särskilt  fokus   på  barn   och  unga
+
+Det finns skillnader i inflytande och delaktighet mellan  olika
+grupper  i samhället och även  inom  grupper. Vissa grupper  har
+
+lättare att göra sig hörda om något  inte fungerar eller inför att
+
+nya beslut ska tas. Detta ger en obalans  i hur makt fördelas och
+
+vilka som  känner  sig delaktiga. Barn är en grupp som  har särskilt
+
+svårt att göra sin röst hörd; det saknas upparbetade  forum  för
+
+dialog med  barn, de omfattas  inte av kollektivtrafikbarometerns
+
+undersökningar   och  får sällan riktad information eller ges
+möjlighet  till dialog. Barnkonventionen  slår fast att ”barn har rätt
+
+att uttrycka sin mening  och höras  i alla frågor som rör barnet.
+
+Hänsyn   ska tas till barnets åsikter, utifrån barnets ålder och
+
+mognad”.   Här behöver  arbetssätt och  systematik utvecklas.
+
+Utveckla    och  samverka      kring  trafiksäkerhet     och
+
+brottsförebyggande         arbete
+
+Rädsla  att utsättas för brott samt risker kopplat till trafiksäkerhet
+
+är två viktiga parametrar  kopplat till trygghet och säkerhet i
+
+kollektivtrafiken. Vissa typer av brott och vissa trafiksäkerhetsrisker
+
+är större för vissa grupper. Exempelvis  är det vanligare bland äldre
+
+kvinnor  att råka ut för fallolyckor ombord. Kvinnor  är i högre grad
+
+utsatta för sexualbrott och män  är mer  utsatta för misshandel.
+
+Det finns behov  av att utveckla det brottsförebyggande  arbetet,
+
+bland  annat genom   att vidareutbilda förare i deras ansvar ombord
+
+på fordonen.  Mycket  av det brottsförebyggande   arbetet sker i
+
+samverkan   med  kommun    och  andra aktörer och  här behöver  ett
+
+fortsatt arbete ske. Det handlar bland  annat om  att få trygga miljöer
+i och kring kollektivtrafiken. Västtrafiks trygghetskoordinatorer  är
+
 viktiga resurser för kommunsamverkan.
-• Verka för och genomföra forskning,
-Det finns skillnader i inflytande och delaktighet mellan olika                                                                                                                             innovation och utveckling som bidrar
-till att uppsatta mål nås
-grupper i samhället  och även inom  grupper.  Vissa grupper  har                Arbetet med  trafiksäkerhet behöver fokusera på att minska hastighets­
-lättare att göra sig hörda om något inte fungerar eller inför att               överträdelser, samverkan  med  kommunerna     kring utformning  av
 
-nya beslut ska tas. Detta ger en obalans i hur makt  fördelas och               kollektivtrafikens miljöer samt kampanjer  för ökad bältesanvändning.
+Arbetet med  trafiksäkerhet behöver fokusera på att minska hastighets­
+
+överträdelser, samverkan  med  kommunerna     kring utformning  av
+
+kollektivtrafikens miljöer samt kampanjer  för ökad bältesanvändning.
+
+MÅL
+
+Målområde:
+
+Kollektivtrafiken ska bidra till
+
+jämlika förutsättningar
+
+Prioriterade åtgärder:
+
+• Utveckla och säkerställa funktionen a v
+tillgänglighetsanpassningar
+
+• Utveckla arbetet med sociala analyser
+
+• Utveckla dialog med särskilt fokus på
+
+barn och unga
+
+• Utveckla och samverka  kring
+
+trafiksäkerhet och brottsförebyggande
+arbete
+
+• Verka för och genomföra forskning,
+innovation och utveckling som bidrar
+
+till att uppsatta mål nås
 
 <!-- sida 172 -->
 
 17
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
+
+Målområde:
+
+Kollektivtrafiken                         i  kombination                     med         andra           färdmedel
+
+ska       vara       resurseffektiv,                       klimatsmart                    och       robust
+
+För att kollektivtrafiken ska vara hållbar över tid behöver den  vara
+
+klimatsmart,  resurseffektiv och robust. Det  innebär att satsningar
+
+och omställning  behöver  göras  utifrån den aktualiserade Miljö-
+
+och klimatstrategi  för kollektivtrafiken i Västra Götaland,  men
+även att befintlig kollektivtrafik är så resurseffektiv som möjligt.
+
+Kollektivtrafiken behöver  dessutom   vara robust och  fungera både
+
+över tid och i tider av kris och nödläge. Kollektivtrafiken behöver
+
+också fungera  i ett förändrat klimat.
+
+Kollektivtrafikens intäkter och kostnader  ökar  årligen, driven av
+
+satsningar, investeringar  och resandeutveckling.  De  senaste årens
+
+utveckling där  kostnaderna  ökat i snabbare  takt än intäkterna
+
+motiverar  åtgärder för att få en bättre balans mellan kostnader
+och intäkter. Detta för att möjliggöra framtida  satsningar på
+
+kollektivtrafiken men  också för att få ut mer måluppfyllnad  och
+
+nytta för investerade medel.  För programperioden    är målsättningen
+
+att självfinansieringsgraden  minst bibehålls på dagens  nivå för att
+
+på sikt återgå till minst 50 %.
+
+MÅL
 
 Målområde:
 
 Kollektivtrafiken i kombination med andra
-färdmedel  ska vara resurseffektiv,
-klimatsmart och robust
 
-Målområde:
+färdmedel  ska vara resurseffektiv,
+klimatsmart  och robust
 
 Mål:
-Kollektivtrafiken                         i kombination                      med         andra          färdmedel
+
 • Andelen hållbara resor ska öka till 45%
 (41%  2023)
-ska      vara        resurseffektiv,                      klimatsmart                     och       robust
 
 • Självfinansieringsgraden ska öka på
 sikt med kortsiktigt ambition att minst
-
 bibehålla dagens nivå till 2029
-För att kollektivtrafiken ska vara hållbar över tid behöver den vara            Kollektivtrafikens intäkter och kostnader  ökar  årligen, driven av                                        (46,7%  2023)
 
-klimatsmart,  resurseffektiv och robust. Det innebär  att satsningar            satsningar, investeringar  och resandeutveckling.  De  senaste årens
+(46,7%  2023)
+
 • Utsläppen av koldioxid per person-
-och omställning  behöver  göras utifrån den aktualiserade  Miljö-               utveckling där  kostnaderna  ökat i snabbare  takt än intäkterna
+
 kilometer ska minska med  89%\*
-och klimatstrategi  för kollektivtrafiken i Västra Götaland,  men               motiverar  åtgärder för att få en bättre balans mellan kostnader                                           jmf med  år 2006 (71%  2023)
-
-även att befintlig kollektivtrafik är så resurseffektiv som möjligt.            och intäkter. Detta för att möjliggöra framtida  satsningar på
-Kollektivtrafiken behöver  dessutom  vara robust  och fungera  både             kollektivtrafiken men  också för att få ut mer måluppfyllnad  och
-
-över tid och i tider av kris och nödläge. Kollektivtrafiken behöver             nytta för investerade medel.  För programperioden    är målsättningen
-
-också fungera  i ett förändrat klimat.                                          att självfinansieringsgraden  minst bibehålls på dagens  nivå för att
-
-på sikt återgå till minst 50 %.
+jmf med år 2006  (71%  2023)
 
 <!-- sida 173 -->
 
 18
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Prioriterade         åtgärder         som     ska    bidra     till målområdet
+Prioriterade          åtgärder        som      ska   bidra     till  målområdet
 
-Fortsatt  elektrifiering
-Vid korta avstånd  är cykel oftast det mest effektiva färdmedlet.
-Ett viktigt steg i att göra kollektivtrafiken mer klimatsmart är att, i         För längre resor kan  cykel komplettera  kollektivtrafiken och
+Fortsatt   elektrifiering
 
-enlighet med  miljö­ och klimatstrategin, fortsätta omställningen  till         bidra till en förbättrad tillgänglighet. En systematisk integrering
+Ett viktigt steg i att göra kollektivtrafiken mer klimatsmart är att, i
 
-eldrift som framför allt bidrar till minskade utsläpp av koldioxid.             av kollektivtrafik och cykel3 kan möjliggöra ett kapacitetsstarkt
+enlighet med  miljö­ och klimatstrategin,  fortsätta omställningen  till
 
-Genom   att först och främst i samband  med  upphandling   av ny                och flexibelt resealternativ både i städer och på landsbygden.
+eldrift som framför  allt bidrar till minskade utsläpp av koldioxid.
 
-trafik ställa krav på eldrift eller annat drivmedel som medför låga             Överflyttning  till gång, cykel och annan mikromobilitet  gör också
-koldioxidutsläpp  kan målet  om  minskat  utsläpp av koldioxid per              att mer plats skapas ombord   på fordonen   för de som behöver  resa
+Genom   att först och främst i samband  med  upphandling   av ny
 
-personkilometer  uppnås.                                                        med  kollektivtrafiken.
+trafik ställa krav på eldrift eller annat drivmedel som medför  låga
+koldioxidutsläpp  kan  målet om  minskat  utsläpp av koldioxid  per
 
-Elektrifieringen av trafiken får dock inte ske på bekostnad  av dåliga          Genom   att skapa lösningar  och goda  förutsättningar för att kombi­
-Målområde:
-arbetsvillkor hos dem  som  tillverkar fordonens komponenter,                   nera olika färdmedel,  såväl privata som  delade, kan det hållbara
-Kollektivtrafiken i kombination med andra
-exempelvis  batterier. Det är därför angeläget att verka för hållbara           resandet  öka. Kombinationsresan    ökar upptagningsområdet    för
-färdmedel  ska vara resurseffektiv,
-leverantörsled.                                                                 kollektivtrafiken samtidigt som  restiderna  minskar  för första och/                                              klimatsmart och robust
-eller sista kilometern, som ofta står för en betydande  del av den
+personkilometer   uppnås.
 
-Uppdraget  kring civil beredskap kan innebära  att en viss andel av             totala restiden. Det behövs  ett helhetsgrepp för att komplettera
+Elektrifieringen av trafiken får dock inte ske på bekostnad  av dåliga
 
-trafiken behöver ske med  andra drivmedel  än  el. Det kan vara nöd­            kollektivtrafiken med  andra  färdsätt.
-Prioriterade  åtgärder:
-vändigt att se över om den trafiken i så fall ska undantas målen.
-• Fortsatt elektrifiering
-Åtgärder  som  kan främja  kombinationsresandet    kan exempelvis
+arbetsvillkor hos dem  som  tillverkar fordonens  komponenter,
+
+exempelvis  batterier. Det är därför angeläget att verka för hållbara
+
+leverantörsled.
+
+Uppdraget   kring civil beredskap kan innebära att en viss andel av
+
+trafiken behöver ske med  andra  drivmedel  än el. Det kan vara nöd­
+
+vändigt att se över om den  trafiken i så fall ska undantas målen.
+
 Fortsätta   utveckla    det  kombinerade       resandet
-vara utveckling  av digitala verktyg, pendelparkeringar  för bil och
-• Fortsätta utveckla det kombinerade
-Utveckling av det hållbara och  kombinerade   resandet  bidrar till             cykel, möjlighet att ta med cykel på tåg, en tydlig kommunikativ                                           resandet
-hållbar tillgänglighet. Möjligheten att kombinera  olika färdsätt               profil för kombinationsresor  med  cykel och  kollektivtrafik, ökad
-• Utveckla åtgärder för hållbar
-utifrån olika behov kan medföra   att, om inte hela så åtminstone               gång­ och  cykelbarhet  till hållplats med mera.                                                           finansiering av kollektivtrafiken över tid
+
+Utveckling  av det hållbara och kombinerade    resandet bidrar till
+
+hållbar tillgänglighet. Möjligheten att kombinera   olika färdsätt
+
+utifrån olika behov kan  medföra  att, om inte hela så åtminstone
 
 delar av, resan kan ske med  ett hållbart transportmedel.  Om  fler
-• Systematisera arbetet med  civil
-väljer mer hållbara och yteffektiva färdmedel,  framför allt i våra
-beredskap
-städer, bidrar det även till minskad trängsel i stadsrummet.
-• Verka för och genomföra  forskning,
-innovation och utveckling som bidrar
 
-till att uppsatta mål nås
+väljer mer hållbara och  yteffektiva färdmedel, framför  allt i våra
+
+städer, bidrar det även till minskad trängsel i stadsrummet.
+
+Vid korta avstånd  är cykel oftast det mest effektiva färdmedlet.
+
+För längre resor kan  cykel komplettera  kollektivtrafiken och
+
+bidra till en förbättrad tillgänglighet. En systematisk integrering
+
+av kollektivtrafik och cykel3 kan möjliggöra ett kapacitetsstarkt
+och flexibelt resealternativ både i städer och på landsbygden.
+
+Överflyttning  till gång, cykel och annan mikromobilitet  gör också
+
+att mer plats skapas ombord   på fordonen   för de som behöver  resa
+
+med  kollektivtrafiken.
+
+Genom   att skapa lösningar  och goda  förutsättningar för att kombi­
+nera olika färdmedel,  såväl privata som  delade, kan det hållbara
+
+resandet  öka. Kombinationsresan    ökar upptagningsområdet    för
+
+kollektivtrafiken samtidigt som  restiderna  minskar  för första och/
+
+eller sista kilometern, som ofta står för en betydande  del av den
+
+totala restiden. Det behövs  ett helhetsgrepp för att komplettera
+
+kollektivtrafiken med  andra  färdsätt.
+
+Åtgärder  som  kan främja  kombinationsresandet    kan exempelvis
+
+vara utveckling  av digitala verktyg, pendelparkeringar  för bil och
+
+cykel, möjlighet att ta med cykel på tåg, en tydlig kommunikativ
+
+profil för kombinationsresor  med  cykel och  kollektivtrafik, ökad
+
+gång­ och  cykelbarhet till hållplats med mera.
 
 3\. I Strategisk plan för ökad cykling beskrivs och konkretiseras hur detta ska ske.
-
 Se www.vgregion.se för mer information.
+
+MÅL
+
+Målområde:
+
+Kollektivtrafiken i kombination med andra
+
+färdmedel  ska vara resurseffektiv,
+klimatsmart  och robust
+
+Prioriterade åtgärder:
+
+• Fortsatt elektrifiering
+
+• Fortsätta utveckla det kombinerade
+
+resandet
+
+• Utveckla åtgärder för hållbar
+
+finansiering av kollektivtrafiken över tid
+
+• Systematisera arbetet med  civil
+
+beredskap
+
+• Verka för och genomföra forskning,
+
+innovation och utveckling som bidrar
+till att uppsatta mål nås
 
 <!-- sida 174 -->
 
 19
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
 Utveckla    åtgärder    för hållbar   finansiering
-Det är angeläget  att fortsätta arbeta för flera finansieringskällor,
-av kollektivtrafiken     över  tid
-exempelvis  statlig medfinansiering,  för att begränsa depå­ och
-I syfte att uppnå en hållbar finansiering av kollektivtrafiken behövs           fordonsinvesteringarnas   andel av Västtrafiks kostnadsmassa.   VGR
-Målområde:
-åtgärder för att intäkter och kostnader ska utvecklas mer  balanserat.          behöver  tillsammans  med   övriga kollektivtrafiktrafikmyndigheter
-Kollektivtrafiken i kombination med andra
-och branschen   i sin helhet fortsatt driva påverkansarbete för att
-färdmedel  ska vara resurseffektiv,
-Utveckling och  effektivisering av kollektivtrafiken i alla steg, från          möjliggöra  detta.                                                                                                 klimatsmart och robust
-upphandling  till genomförande   och drift, ska fortsätta. Här ingår en
 
-Systematisera      arbetet    med   civil beredskap
+av kollektivtrafiken     över   tid
+
+I syfte att uppnå en hållbar finansiering av kollektivtrafiken behövs
+
+åtgärder för att intäkter och kostnader ska utvecklas mer  balanserat.
+
+Utveckling  och effektivisering av kollektivtrafiken i alla steg, från
+
+upphandling   till genomförande  och drift, ska fortsätta. Här ingår en
+
 bred palett med  exempelvis  fordonskrav,  trafikupplägg, insatser för
-ökad framkomlighet   i kombination   med  ny teknik och lösningar.              Kollektivtrafik utgör en samhällsviktig  verksamhet.  Det innebär  att
-Prioriterade  åtgärder:
-Med  fördel kan fler branschgemensamma      lösningar sökas och                 Västra Götalandsregionen    och Västtrafik enligt lag ska säkerställa
-• Fortsatt elektrifiering
-tillämpas för ökad kostnadseffektivitet.                                        att kollektivtrafik för samhällsviktiga funktioner och målpunkter,
 
-inom  regionen  och dess direkta närhet, ska  fortsätta att fungera
-• Fortsätta utveckla det kombinerade
-Åtgärder för intäktssäkring  är fortsatt prioriterat. Precisa                   även  vid kris och katastrof, både i freds­ och krigstid. VGR/                                             resandet
-aktiviteter och utformning  ansvarar Västtrafik för. Erfarenheter               Västtrafik ska även kunna   ge stöd till Försvarsmakten  avseende
-• Utveckla åtgärder för hållbar
-från utökade biljettkontroller utgör ett underlag för arbetet.                  transportresurser,  genomföra   sjukhustransporter  samt  bistå och                                        finansiering av kollektivtrafiken över tid
+ökad framkomlighet    i kombination  med  ny teknik och  lösningar.
 
-kunna  genomföra   storskalig utrymning.
-• Systematisera arbetet med  civil
+Med  fördel kan fler branschgemensamma      lösningar sökas  och
+
+tillämpas för ökad kostnadseffektivitet.
+
+Åtgärder  för intäktssäkring är fortsatt prioriterat. Precisa
+
+aktiviteter och utformning  ansvarar  Västtrafik för. Erfarenheter
+
+från utökade  biljettkontroller utgör ett underlag för arbetet.
+
 Under  programperioden    ska ett utvecklingsarbete genomföras
-beredskap
-kring principer och förhållningssätt för att på sikt återgå till en             För att kunna  uppfylla detta behöver  Västra Götalandsregionen
-• Verka för och genomföra  forskning,
-självfinansieringsgrad på minst  50 %. Exempel   här kan  handla                och Västtrafik fortsätta påbörjade  aktiviteter, utveckla och
-innovation och utveckling som bidrar
-om att i beslutsunderlag tydliggöra  hur olika satsningar och                   systematisera  arbetet med  civil beredskap för att säkerställa att det
-till att uppsatta mål nås
-investeringar påverkar  självfinansieringsgraden  på kort och                   finns en robust verksamhet   och resurser  som fungerar  i händelse av
-lång sikt samt att ta fram rutiner för uppföljning och mätbara                  kris eller krig.
+
+kring principer och förhållningssätt  för att på sikt återgå till en
+självfinansieringsgrad på minst  50 %. Exempel   här kan  handla
+
+om  att i beslutsunderlag tydliggöra hur olika satsningar och
+
+investeringar påverkar  självfinansieringsgraden  på kort och
+
+lång sikt samt att ta fram rutiner för uppföljning och mätbara
 
 indikatorer/nyckeltal.
+
+Det är angeläget  att fortsätta arbeta för flera finansieringskällor,
+
+exempelvis  statlig medfinansiering,  för att begränsa depå­ och
+
+fordonsinvesteringarnas   andel av Västtrafiks kostnadsmassa.   VGR
+
+behöver  tillsammans  med   övriga kollektivtrafiktrafikmyndigheter
+och branschen   i sin helhet fortsatt driva påverkansarbete för att
+
+möjliggöra  detta.
+
+Systematisera      arbetet    med   civil beredskap
+
+Kollektivtrafik utgör en samhällsviktig  verksamhet.  Det innebär  att
+
+Västra Götalandsregionen    och Västtrafik enligt lag ska säkerställa
+att kollektivtrafik för samhällsviktiga funktioner och målpunkter,
+
+inom  regionen  och dess direkta närhet, ska fortsätta att fungera
+
+även vid kris och katastrof, både i freds­ och krigstid. VGR/
+
+Västtrafik ska även kunna   ge stöd till Försvarsmakten  avseende
+
+transportresurser,  genomföra   sjukhustransporter  samt  bistå och
+
+kunna  genomföra   storskalig utrymning.
+
+För att kunna  uppfylla detta behöver  Västra Götalandsregionen
+
+och Västtrafik fortsätta påbörjade  aktiviteter, utveckla och
+
+systematisera  arbetet med  civil beredskap för att säkerställa att det
+
+finns en robust verksamhet   och resurser  som fungerar  i händelse av
+
+kris eller krig.
+
+MÅL
+
+Målområde:
+
+Kollektivtrafiken i kombination med andra
+
+färdmedel  ska vara resurseffektiv,
+klimatsmart  och robust
+
+Prioriterade åtgärder:
+
+• Fortsatt elektrifiering
+
+• Fortsätta utveckla det kombinerade
+
+resandet
+
+• Utveckla åtgärder för hållbar
+
+finansiering av kollektivtrafiken över tid
+
+• Systematisera arbetet med  civil
+
+beredskap
+
+• Verka för och genomföra forskning,
+
+innovation och utveckling som bidrar
+till att uppsatta mål nås
 
 <!-- sida 175 -->
 
 20
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                                     MÅL
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Verka          för     och       genomföra                    forskning,                innovation                 och
+Verka          för     och        genomföra                   forskning,                innovation                  och
 
-utveckling                 som         bidrar          till   måluppfyllelse                                                                                         Uppföljning
+utveckling                 som         bidrar          till    måluppfyllelse
 
-Att verka för och genomföra  forskning,  innovation  och utveckling             Genom   praktiska  tester kan lärdomar  dras av vad som  fungerar                    Målen   i programmet  följs upp årligen. Efter två år sker en mer
+Att verka för och genomföra   forskning, innovation  och utveckling
 
-(FOI) syftar till att få den kunskap som behövs  för att hitta                  bra och mindre   bra, vilka konsekvenser  det medför, uppskattning                   omfattande   uppföljning  och utvärdering.  En särskild plan för
-lösningar på både  små  och stora utmaningar   och omsätta  dem                 av kostnader,  vad som  behöver  utvecklas vidare samt  vad som  inte                uppföljning  ska tas fram som  följer Västra Götalandsregionens
+(FOI) syftar till att få den kunskap som behövs  för att hitta
 
-i praktiken. FOI ska leda till nya, bättre och kostnadseffektiva                ska arbetas vidare med.  Utveckling  av nya produkter,  tjänster eller               modell  ”Lärande  uppföljning  och utvärdering”  för redovisning
+lösningar på  både små  och stora utmaningar   och omsätta  dem
 
-lösningar, processer och tjänster för en hållbar tillgänglighet och             arbetssätt blir till innovationer först när de skalats upp i större                  av måluppfyllelse, genomförande    och aktiviteter. Uppföljningen
+i praktiken. FOI ska leda till nya, bättre och kostnadseffektiva
+lösningar, processer  och tjänster för en hållbar tillgänglighet och
 
-ge större nytta för invånarna.                                                  volymer,  spridits och kommit  till användning  i större sammanhang                  sker i de flesta fall via etablerade nationella och regionala
+ge större nytta för invånarna.
 
-och konkreta  verksamheter.                                                          datakällor  och undersökningar.
+FOI  ska ses som verktyg  för samtliga målområden    i trafik­
 
-FOI ska ses som  verktyg för samtliga målområden    i trafik­
+försörjningsprogrammet    och  är nödvändiga  för att målen ska nås.
 
-försörjningsprogrammet    och är nödvändiga   för att målen ska nås.
-Det förutsätter en tillåtande miljö som uppmuntrar    forskning
+Det förutsätter en tillåtande miljö som  uppmuntrar   forskning
+och innovation  där flera aktörer kan verka  tillsammans.  Västra
 
-och innovation  där flera aktörer kan verka tillsammans.  Västra
+Götalandsregionen   och  Västtrafik behöver  både arbeta med
 
-Götalandsregionen   och Västtrafik behöver  både  arbeta med
+forskning, innovation  och utveckling  i sin ordinarie verksamhet
 
-forskning, innovation  och utveckling i sin ordinarie verksamhet
+och vara en  arena för att nya lösningar ska kunna  utforskas,
 
-och vara en arena  för att nya lösningar ska kunna  utforskas,
+testas och efter utvärdering implementeras.
 
-testas och efter utvärdering implementeras.                                     Tabell 1. Olika lärandenivåer inom forskning, innovation och utveckling.
-
-Det handlar  både om  att förbättra den befintliga kollektivtrafiken               Typ  av lärande                  Typ  av åtgärd/intervention                       Exempel
-
+Det handlar  både  om  att förbättra den befintliga kollektivtrafiken
 (göra saker bättre) och att hitta nya lösningar (göra bättre saker).
-Göra  saker bättre               Utveckla, optimera  och effektivisera befintlig    Ruttoptimering med  AI, digitalisering av Närtrafiken,
-Därtill finns ett behov av att skapa utrymme  för förändring
-trafik                                             elektrifiering, samordning skoltrafik, framkomlighetsåtgärder
-genom  att etablera verktyg och processer  för att bättre förstå
 
-och verka för en möjlig framtid  (se kollektivtrafikens roll på nya                Göra  bättre saker               Förändra  strukturer, nya trafik- och              Närtrafik, dynamisk kollektivtrafik, kombinationsresor,
-mobilitetslösningar                                integrering med andra  färdsätt, ToGo
+Därtill finns ett behov av att skapa utrymme   för förändring
+
+genom   att etablera verktyg och processer för att bättre förstå
+
+och verka  för en möjlig framtid (se kollektivtrafikens roll på nya
+
 sätt). Att se kollektivtrafikens roll på nya sätt innebär att hitta nya
+
 utgångspunkter   för hur vi tar oss an utmaningar  kopplat till bland
-Se kollektivtrafikens roll       Skapa  utrymme   för förändring, etablera          Framtidsprototyper, nya och  andra finansieringsm öjligheter,
-annat sjunkande   servicenivåer på landsbygd,  begränsade   resurser
-på nya  sätt                     verktyg  och processer för att bättre förstå       en integrerad fysisk planering och kollektivtrafikplanering,
-och klimatet. Det behövs  aktiviteter och insatser i samtliga delar
-och  verka för en möjlig framtid                   att utforska och utmana  invanda roller och mandat
-och tillsammans  med  flera aktörer.
+annat  sjunkande  servicenivåer på  landsbygd, begränsade   resurser
+
+och klimatet. Det  behövs aktiviteter och insatser i samtliga delar
+
+och tillsammans   med  flera aktörer.
+
+Genom   praktiska  tester kan lärdomar  dras av vad som  fungerar
+
+bra och mindre   bra, vilka konsekvenser  det medför, uppskattning
+
+av kostnader,  vad som  behöver  utvecklas vidare samt  vad som  inte
+
+ska arbetas vidare med.  Utveckling  av nya produkter,  tjänster eller
+arbetssätt blir till innovationer först när de skalats upp i större
+
+volymer,  spridits och kommit  till användning  i större sammanhang
+
+och konkreta  verksamheter.
+
+Tabell 1. Olika lärandenivåer inom forskning, innovation och utveckling.
+
+Typ  av lärande                  Typ  av åtgärd/intervention
+
+Göra  saker bättre               Utveckla, optimera  och effektivisera befintlig
+
+trafik
+
+Göra  bättre saker               Förändra  strukturer, nya trafik- och
+mobilitetslösningar
+
+Se kollektivtrafikens roll       Skapa  utrymme   för förändring, etablera
+på nya  sätt                     verktyg  och processer för att bättre förstå
+
+och  verka för en möjlig framtid
+
+MÅL
+
+Uppföljning
+
+Målen  i programmet   följs upp årligen. Efter två år sker en mer
+
+omfattande   uppföljning och  utvärdering. En  särskild plan för
+
+uppföljning  ska tas fram som  följer Västra Götalandsregionens
+
+modell  ”Lärande  uppföljning  och utvärdering”  för redovisning
+
+av måluppfyllelse, genomförande    och aktiviteter. Uppföljningen
+
+sker i de flesta fall via etablerade nationella och regionala
+datakällor och  undersökningar.
+
+Exempel
+
+Ruttoptimering  med  AI, digitalisering av Närtrafiken,
+elektrifiering, samordning skoltrafik, framkomlighetsåtgärder
+
+Närtrafik, dynamisk  kollektivtrafik, kombinationsresor,
+
+integrering med  andra färdsätt, ToGo
+
+Framtidsprototyper,  nya och andra  finansieringsm öjligheter,
+en integrerad fysisk planering och kollektivtrafikplanering,
+
+att utforska och utmana  invanda  roller och mandat
 
 <!-- sida 176 -->
 
@@ -7362,45 +8561,90 @@ för           kollektivtrafikens                                               
 <!-- sida 177 -->
 
 22
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                          PRINCIPER  OCH PRIORITERINGAR  FÖR  KOLLEKTIVTRAFIKENS  UTBUD
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029                                                                                                                                         PRINCIPER  OCH PRIORITERINGAR   FÖR KOLLEKTIVTRAFIKENS   UTBUD
 
 ”
 
-Alla invånare    ska  ha  minst   ett
+Alla  invånare   ska  ha  minst   ett
 
 grundläggande        utbud
 
-Principer              och        prioriteringar                    för     kollektivtrafikens                           utbud
+Principer               och       prioriteringar                     för     kollektivtrafikens                          utbud
 
-Regionfullmäktiges  budget  sätter ramarna  för hur mycket  medel               Grundutbudet    ska vara långsiktigt för att skapa trygghet i att               resmöjligheter  med  kollektivtrafik behöver  särskilt belysas när
+Regionfullmäktiges   budget  sätter ramarna  för hur mycket  medel
 
-som  ska gå till kollektivtrafiken. Vilket kollektivtrafikutbud som             resmöjligheterna  kommer    att finnas kvar över tid. Det kan därmed            kollektivtrafiken utvecklas. VGR/Västtrafik   ska tillsammans   med
+som  ska gå till kollektivtrafiken. Vilket kollektivtrafikutbud som
 
-erbjuds baseras sedan  på vilken efterfrågan och  resandepotential              utgöra grund  för var samhällsutveckling  bör  ske för att bidra till fler      kommunerna     verka  för att anpassa trafiken och hitta gemensamma
+erbjuds baseras  sedan  på vilken efterfrågan och resandepotential
 
-det finns i ett område, stråk eller en resrelation. Finns det en stor           hållbara resor över tid.                                                        kostnadseffektiva  lösningar  för att öka tillgängligheten för
+det finns i ett område, stråk eller en resrelation. Finns det en stor
+efterfrågan och ett stort resandeunderlag  erbjuds  ett högre utbud
 
-efterfrågan och ett stort resandeunderlag  erbjuds ett högre utbud                                                                                              gymnasieelever.   Noteras  bör att merparten  gymnasielever   redan
-med  många  turer och  linjer. Är det en lägre efterfrågan och ett lägre        Arbets­ och  studiependling  ska prioriteras, men där  det erbjuds              idag  kan gå, cykla eller åka kollektivtrafik till sin gymnasieskola.
+med  många   turer och linjer. Är det en lägre efterfrågan och ett lägre
 
-resandeunderlag   erbjuds färre resmöjligheter.                                 ett bra utbud skapas  även resmöjligheter  för andra resor som                  Det  är tills vidare inte möjligt för VGR/Västtrafik att tillgodose
+resandeunderlag   erbjuds  färre resmöjligheter.
 
-service­ och fritidsresor. Med studiependling  avses  resor till                kollektivtrafiklösningar  för alla gymnasieelever på individnivå.
+Västra Götalandsregionen    erbjuder en lägstanivå  av tillgänglighet
 
-Västra Götalandsregionen   erbjuder  en lägstanivå av tillgänglighet            högskola,  gymnasieskola  och  grundskola.  Resurseffektiva lösningar
+med  kollektivtrafik till regionens invånare i form av ett grundutbud.
+Framtagna   principer och  nivåer för det grundläggande   utbudet
 
-med  kollektivtrafik till regionens invånare i form av ett grundutbud.          eftersträvas vilket innebär att merparten  av invånarna  ska kunna              Utvecklingen   av kollektivtrafik behöver skifta fokus från den
+säkerställer att kollektivtrafiken i Västra Götaland planeras på
 
-Framtagna   principer och nivåer för det grundläggande   utbudet                använda  kollektivtrafiken till arbete och studier. Kollektivtrafik kan         administrativa  geografin  till den funktionella i syfte att underlätta
+ett så likartat sätt som möjligt. Grundutbudet  anger  vilket utbud
 
-säkerställer att kollektivtrafiken i Västra Götaland planeras på                dock  inte garanteras på individnivå.                                           för invånarnas  resebehov.
-ett så likartat sätt som möjligt. Grundutbudet  anger vilket utbud
+som  invånarna  minst  kan förvänta  sig utifrån geografiska och
 
-som  invånarna  minst kan  förvänta sig utifrån geografiska och                 Ökad  tillgänglighet till gymnasieskolor kan innebära  bättre
+demografiska   förutsättningar, men  kan vara  betydligt högre där
 
-demografiska  förutsättningar, men   kan vara betydligt högre där               förutsättningar  att välja de utbildningar som ungdomar    önskar
+det finns en större efterfrågan på kollektivtrafikresor.
 
-det finns en större efterfrågan på kollektivtrafikresor.                        och öka  möjligheten  att fullfölja sina studier. Gymnasieelevers
+Grundutbudet    ska vara långsiktigt för att skapa trygghet i att
+
+resmöjligheterna  kommer    att finnas kvar över tid. Det kan därmed
+
+utgöra grund  för var samhällsutveckling  bör  ske för att bidra till fler
+
+hållbara resor över tid.
+
+Arbets­ och  studiependling  ska prioriteras, men där  det erbjuds
+
+ett bra utbud skapas  även resmöjligheter  för andra resor som
+
+service­ och fritidsresor. Med studiependling  avses  resor till
+
+högskola,  gymnasieskola  och  grundskola.  Resurseffektiva lösningar
+
+eftersträvas vilket innebär att merparten  av invånarna  ska kunna
+använda  kollektivtrafiken till arbete och studier. Kollektivtrafik kan
+
+dock  inte garanteras på individnivå.
+
+Ökad  tillgänglighet till gymnasieskolor kan innebära  bättre
+
+förutsättningar  att välja de utbildningar som ungdomar    önskar
+
+och öka  möjligheten  att fullfölja sina studier. Gymnasieelevers
+
+resmöjligheter  med  kollektivtrafik behöver särskilt belysas när
+
+kollektivtrafiken utvecklas. VGR/Västtrafik   ska tillsammans  med
+
+kommunerna     verka för att anpassa trafiken och hitta gemensamma
+
+kostnadseffektiva  lösningar för att öka tillgängligheten för
+gymnasieelever.  Noteras  bör att merparten  gymnasielever   redan
+
+idag kan gå, cykla eller åka kollektivtrafik till sin gymnasieskola.
+
+Det är tills vidare inte möjligt för VGR/Västtrafik att tillgodose
+
+kollektivtrafiklösningar för alla gymnasieelever  på individnivå.
+
+Utvecklingen  av kollektivtrafik behöver  skifta fokus från den
+administrativa  geografin till den funktionella i syfte att underlätta
+
+för invånarnas  resebehov.
 
 <!-- sida 178 -->
 
@@ -7480,61 +8724,115 @@ komplement   där det saknas  tågförbindelser.                                
 <!-- sida 179 -->
 
 24
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                          PRINCIPER  OCH PRIORITERINGAR  FÖR  KOLLEKTIVTRAFIKENS  UTBUD
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Utbud     inom    regionala      kärnor     och   större   tätorter
-Ett minsta utbud  och öppettider  ska erbjudas i hela nätet.                    Det utpekade   regionala nätet syftar i första hand till att skapa
-Syftet är att i huvudsak skapa goda  förutsättningar att kunna                  attraktiva resrelationer mellan  kommunhuvudorter.     Här  är kortare          Inom   de regionala kärnorna  och  större tätorter finns det underlag
+Ett minsta utbud  och öppettider  ska erbjudas  i hela nätet.
 
-arbets­ och studiependla  med  kollektivtrafik, även utanför de                 restider och kollektivtrafikens restidskvot jämfört med   bil viktigt           för att kunna  erbjuda kollektivtrafik inom  tätorterna. Där finns
+Syftet är att i huvudsak skapa goda  förutsättningar att kunna
 
-vanligaste pendlingstiderna.  För att kollektivtrafiken ska kunna               att arbeta med. Dock  kan  utbudets  utformning  behöva  anpassas               det också  potential och är nödvändigt  att fler väljer yteffektiva
+arbets­ och studiependla  med  kollektivtrafik, även utanför de
 
-vara ett attraktivt alternativ ska timmestrafik på vardagar och                 till vad som är den bästa lösningen  utifrån lokala och geografiska             transportmedel,   som  kollektivtrafik, för att minska trängseln.
-varannantimmestrafik    övrig tid mellan klockan 6­22  eftersträvas.            förutsättningar, till exempel snabba  turer med  få stopp, lite
+vanligaste pendlingstiderna.  För att kollektivtrafiken ska kunna
+vara ett attraktivt alternativ ska timmestrafik på vardagar och
 
-långsammare    turer med  fler stopp eller en mix av båda i relationer          Västtrafik har tagit fram riktlinjer för vilket kollektivtrafikutbud
+varannantimmestrafik    övrig tid mellan klockan  6­22 eftersträvas.
 
-I relationer med större resande, där grundutbudets    kapacitet inte            med  stort resandeunderlag.                                                     som  bör  erbjudas inom  tätorter. Öppettider, turutbud  och
+I relationer med större resande,  där grundutbudets   kapacitet inte
 
-räcker till, erbjuds ett högre utbud och mer generösa  öppettider,                                                                                              trafiklösning varierar beroende   på hur stor orten och hur tät
+räcker till, erbjuds ett högre utbud och mer generösa  öppettider,
 
-baserat på efterfrågan.                                                         För att så många  invånare  som  möjligt ska få tillgång till det               bebyggelsen   är. Riktlinjerna revideras vid behov.
+baserat på efterfrågan.
 
+Det utpekade   regionala nätet syftar i första hand till att skapa
+
+attraktiva resrelationer mellan  kommunhuvudorter.     Här  är kortare
+
+restider och kollektivtrafikens restidskvot jämfört med   bil viktigt
+
+att arbeta med. Dock  kan  utbudets  utformning  behöva  anpassas
+till vad som är den bästa lösningen  utifrån lokala och geografiska
+
+förutsättningar, till exempel snabba  turer med  få stopp, lite
+
+långsammare    turer med  fler stopp eller en mix av båda i relationer
+
+med  stort resandeunderlag.
+
+För att så många  invånare  som  möjligt ska få tillgång till det
 utpekade  regionala  nätet behöver  möjligheterna  att ta sig till och
-ansluta till nätet utvecklas. Det kan vara pendelparkeringar,  ökad             För  de regionala kärnorna  finns det särskilt framtagna  målbilder
 
-cykelbarhet  till hållplatser, matartrafik etcetera.                            och  planer för hur kollektivtrafiken ska utvecklas.
+ansluta till nätet utvecklas. Det kan vara pendelparkeringar,  ökad
+
+cykelbarhet  till hållplatser, matartrafik etcetera.
 
 Tabell 2. Sammanfattning av utbudet i olika geografier.
 
-Grundläggande    minsta   utbud
-Geografi                                                                                                     Trafiklösningar                                Prioriterade  resor
-och öppettider
+Grundläggande     minsta  utbud
+Geografi                                                                                                      Trafiklösningar
+och  öppettider
 
-Landsbygder                                    1 tur- och returresa (flera tidsfönster) mån–fre              Anropsstyrd  trafik ex. Närtrafik              Till kommunhuvudort/större   orter/hållplats i utpekat nät
+Landsbygder                                    1 tur- och returresa (flera tidsfönster) mån–fre               Anropsstyrd trafik ex. Närtrafik
 
-Syfte: Serviceresor
+Tätorter 200–499  invånare
 
-Tätorter 200–499  invånare                                                                                                                                  Till kommunhuvudort/hållplats  i utpekat nät
-Syfte: Arbets- och studiependling, serviceresor
+Tätorter 500–999  invånare
 
-Tätorter 500–999  invånare                                                                                                                                  Till kommunhuvudort/hållplats  i utpekat nät
-Syfte: Arbets- och studiependling, serviceresor
+Tätorter >1000
 
-Tätorter >1000                                                                                                                                              Till kommunhuvudort/hållplats  i utpekat nät
+invånare
 
-invånare                                                                                                                                                    Syfte: Arbets- och studiependling, service och i viss mån fritidsresor
+Utpekat  regionalt nät mellan
 
-Utpekat regionalt nät mellan                                                                                                                                Till kommunhuvudort/grannregioner
-kommunh   uvudorter                                                                                                                                         Syfte: Arbets- och studiependling, service- och fritidsresor
+kommunh   uvudorter
 
-Inom  regionala kärnor och större tätorter     Utbud i enlighet med kollektivtrafikplaner/Västtrafiks        Linjelagd trafik, kan vara anropsstyrd         Arbets- och studiependling, service- och fritidsresor
-
+Inom  regionala kärnor och större tätorter     Utbud  i enlighet med kollektivtrafikplaner/Västtrafiks        Linjelagd trafik, kan vara anropsstyrd
 riktlinjer för trafikering
 
 \* Utveckling av utbudet sker succesivt under programperioden utifrån ekonomiska förutsättningar.
 För länsgränsöverskridande relationer är inriktningen för utbudet 10 turer per riktning/vardag samt 5 turer per riktning /helgdag.
+
+PRINCIPER OCH  PRIORITERINGAR  FÖR KOLLEKTIVTRAFIKENS   UTBUD
+
+Utbud     inom    regionala      kärnor    och   större    tätorter
+
+Inom  de regionala  kärnorna  och större tätorter finns det underlag
+för att kunna erbjuda  kollektivtrafik inom tätorterna. Där finns
+
+det också potential och  är nödvändigt  att fler väljer yteffektiva
+
+transportmedel,  som  kollektivtrafik, för att minska trängseln.
+
+Västtrafik har tagit fram riktlinjer för vilket kollektivtrafikutbud
+
+som  bör erbjudas  inom  tätorter. Öppettider, turutbud  och
+trafiklösning varierar beroende  på hur  stor orten och hur tät
+
+bebyggelsen  är. Riktlinjerna revideras vid behov.
+
+För de regionala  kärnorna  finns det särskilt framtagna målbilder
+
+och planer  för hur kollektivtrafiken ska utvecklas.
+
+Prioriterade  resor
+
+Till kommunhuvudort/större   orter/hållplats i utpekat nät
+Syfte: Serviceresor
+
+Till kommunhuvudort/hållplats  i utpekat nät
+Syfte: Arbets- och studiependling, serviceresor
+
+Till kommunhuvudort/hållplats  i utpekat nät
+
+Syfte: Arbets- och studiependling, serviceresor
+
+Till kommunhuvudort/hållplats  i utpekat nät
+Syfte: Arbets- och studiependling, service och i viss mån fritidsresor
+
+Till kommunhuvudort/grannregioner
+
+Syfte: Arbets- och studiependling, service- och fritidsresor
+
+Arbets- och studiependling, service- och fritidsresor
 
 [Tabell 179-1](handlingar.tabeller/179-1.csv)
 
@@ -7553,45 +8851,78 @@ Kommersiell                                             trafik
 <!-- sida 181 -->
 
 26
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                                    KOMMERSIELL   TRAFIK
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
+
+Trafikföretag har enligt kollektivtrafiklagen rätt att etablera
+
+linjelagd kollektivtrafik på kommersiell grund.  Trafikföretag
+
+har också rätt till konkurrensneutralt tillträde till terminaler,
+
+knutpunkter  och  hållplatser. Principer för tillträde till
+infrastrukturen finns framtaget  i dokumentet   ”Principer för
+
+tillträde till bytespunkter4”, som Västra Götalandsregionen   har
+
+tagit fram tillsammans  med  trafikföretagens branschföreningar.
+
+Det är kollektivtrafikmyndigheten   i varje region som ansvarar  för
+
+att värdera samhällsnytta  och beslutar om  vilken kollektivtrafik
+som  ska handlas  upp och därmed   kunna  skattefinansieras. Inför
+
+4\. Se www.vgregion.se.
+
+all upphandling  av kollektivtrafik tas beslut om allmän  trafikplikt
+
+av infrastruktur­ och kollektivtrafiknämnden.   Infrastruktur­ och
+
+kollektivtrafiknämnden   kan  också besluta om  att avstå trafikplikt.
+
+Det sker då nämnden    anser att trafikförsörjningsprogrammets
+trafik­ och samhällsmål  kan  nås genom  kommersiell   trafik.
+
+Samtliga  mål och  riktlinjer i trafikförsörjningsprogrammet  gäller
+
+både  kommersiell  och  upphandlad   kollektivtrafik. Dokumentet
+
+”Kriterier för trafikplikt” beskriver process och kriterier inför beslut
+
+om  trafikplikt och har tagits fram av Västra Götalandsregionen   i
+
+dialog med  kollektivtrafikbranschens  parter.
+
+KOMMERSIELL   TRAFIK
 
 SÖK
 
-Information  kopplat till kommersiell trafik finns på
-
+Information kopplat  till kommersiell trafik finns på
 www.vgregion.se/kollektivtrafik
 
-•  Kriterier för trafikplikt – beskriver process och kriterier
-
+• Kriterier för trafikplikt – beskriver process och kriterier
 inför beslut om trafikplikt.
 
-•  PM  Principer för tillträde till bytespunkter.
+• PM  Principer för tillträde till bytespunkter.
 
-•  Förteckning  av kommersiell regional kollektivtrafik.
-Publiceras löpande.
+• Förteckning  av kommersiell  regional kollektivtrafik.
 
-Trafikföretag har enligt kollektivtrafiklagen rätt att etablera                 all upphandling  av kollektivtrafik tas beslut om allmän  trafikplikt           För  att underlätta marknadsanalys   för kommersiell   trafik ska
+Publiceras  löpande.
 
-linjelagd kollektivtrafik på kommersiell grund.  Trafikföretag                  av infrastruktur­ och kollektivtrafiknämnden.   Infrastruktur­ och              Västtrafik i samband   med  samråd  inför upphandling   av trafik
+För att underlätta marknadsanalys    för kommersiell  trafik ska
+Västtrafik i samband  med  samråd   inför upphandling  av trafik
 
-har också rätt till konkurrensneutralt tillträde till terminaler,               kollektivtrafiknämnden   kan  också besluta om  att avstå trafikplikt.          tillhandahålla  en öppen  redovisning  av data över bland annat
+tillhandahålla en öppen  redovisning  av data över bland  annat
 
-knutpunkter  och  hållplatser. Principer för tillträde till                     Det sker då nämnden    anser att trafikförsörjningsprogrammets                  antal resande  och intäkter för utgående  avtal. Trafikföretagen
-infrastrukturen finns framtaget  i dokumentet  ”Principer  för                  trafik­ och samhällsmål  kan  nås genom  kommersiell   trafik.                  kan  med  hjälp av detta underlag  avgöra om  det finns potential
+antal resande  och intäkter för utgående  avtal. Trafikföretagen
 
-tillträde till bytespunkter4”, som Västra Götalandsregionen   har               Samtliga  mål och  riktlinjer i trafikförsörjningsprogrammet  gäller            för kommersiell   trafik eller inte. Generellt kan sägas att
+kan med   hjälp av detta underlag avgöra  om  det finns potential
 
-tagit fram tillsammans  med  trafikföretagens branschföreningar.                både  kommersiell  och  upphandlad   kollektivtrafik. Dokumentet                förutsättningarna   för kommersiell  trafik bedöms  vara störst
+för kommersiell  trafik eller inte. Generellt kan sägas att
 
-”Kriterier för trafikplikt” beskriver process och kriterier inför beslut        på  de sträckor där det sker många  sällanresor, utan  behov av
+förutsättningarna  för kommersiell  trafik bedöms  vara störst
 
-Det är kollektivtrafikmyndigheten   i varje region som ansvarar  för            om  trafikplikt och har tagits fram av Västra Götalandsregionen   i             att byta vidare till det övriga kollektivtrafiksystemet.
-
-att värdera samhällsnytta  och beslutar om  vilken kollektivtrafik              dialog med  kollektivtrafikbranschens  parter.
-
-som  ska handlas upp  och därmed   kunna  skattefinansieras. Inför
-
-4\. Se www.vgregion.se.
+på de sträckor där det sker många   sällanresor, utan behov  av
+att byta vidare till det övriga kollektivtrafiksystemet.
 
 <!-- sida 182 -->
 
@@ -7602,49 +8933,83 @@ Kollektivtrafikens                                                            ek
 <!-- sida 183 -->
 
 28
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                                           KOLLEKTIVTRAFIKENS   EKONOMI
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029
 
-Nuläge                                                                          Kostnadsutveckling
-mål  är att minst bibehålla nuvarande   nivå, vilket innebär en
-Kollektivtrafiken i Västra Götaland  finansieras i huvudsak                     Kostnaderna   för kollektivtrafiken ökar årligen, vilket främst beror           ökning  med  cirka 1,3 procentenheter  jämfört  med  prognosen.
+Nuläge
 
-av biljettintäkter och skattemedel i form av regionbidrag  till                 på ökade  kostnader  för den befintliga trafiken, investeringar i nya           Detta  innebär  ett behov av flertalet åtgärder på intäkts­ och/eller
+Kollektivtrafiken i Västra Götaland  finansieras i huvudsak
 
-Västtrafik. 2024 är regionbidraget  till Västtrafik 6 242 miljoner              fordon  och depåer  samt satsningar  på utvecklad  eller ny trafik.             kostnadssidan.   Se sidan 19.
+av biljettintäkter och skattemedel i form av regionbidrag  till
 
-kronor jämfört  med  3 039 miljoner  kronor  2012. Utbud,  kvalitets­           Kostnaderna   för den befintliga trafiken ökar främst genom   det
+Västtrafik. 2024 är regionbidraget  till Västtrafik 6 242 miljoner
 
-och miljöförbättringar och  resande  har ökat kraftigt under den                kostnadsindex   som  Västtrafiks trafikavtal med trafikföretagen är
-här perioden. Västtrafiks totala budget för 2024  omfattar                      kopplade  till.
+kronor jämfört  med  3 039  miljoner kronor  2012. Utbud,  kvalitets­
+och miljöförbättringar  och resande  har ökat kraftigt under den
 
-Figur 9. Utveckling av självfinansieringsgrad, prognos respektive mål.
-cirka 11 800 miljoner kronor.
-Trafikförsörjningsprogrammets     mål att kollektivtrafiken ska vara
-50
-Självfinansieringsgraden  beskriver intäkternas  andel av                       attraktiv, bidra till geografisk tillgänglighet och jämlika förutsätt­
+här perioden. Västtrafiks totala budget  för 2024 omfattar
 
-kostnaderna  och var tidigare ungefär 50 procent i Västra Götaland.             ningar i länet innebär också  att kostnaderna  för kollektivtrafiken               49
+cirka 11 800 miljoner  kronor.
 
-Under  pandemin   minskade   intäkterna och  behovet av bidrag                  kommer   att öka. Med  stöd i mål om  resurseffektivitet och själv­
-48
-ökade. Västtrafiks självfinansieringsgrad under  2023  var                      finansieringsgrad  bedöms   regionbidraget  för kollektivtrafiken öka
-47
-46,7 procent.                                                                   med  i genomsnitt  XX5  procent per år under  perioden  fram till 2029.
-46
+Självfinansieringsgraden  beskriver intäkternas  andel av
 
-I biljettintäkterna ingår även kommunala   tillköp, exempelvis
-45
-Självfinansieringsgraden
-seniorkort. Dessa tillköp är skattefinansierade och  den totala
-44
-”skattefinansieringsgraden”  är därmed   högre än om  enbart                    I figur 9 beskrivs utvecklingen av självfinansieringsgraden  enligt
-2024       2025      2026      2027       2028      2029
-regionbidraget  beaktas.                                                        Västtrafiks prognos  till 2029. Trafikförsörjningsprogrammets
+kostnaderna  och var tidigare ungefär 50 procent  i Västra Götaland.
+
+Under  pandemin   minskade   intäkterna och  behovet  av bidrag
+ökade. Västtrafiks självfinansieringsgrad  under 2023  var
+
+46,7 procent.
+
+I biljettintäkterna ingår även kommunala    tillköp, exempelvis
+
+seniorkort. Dessa  tillköp är skattefinansierade och den totala
+
+”skattefinansieringsgraden”  är därmed   högre än om  enbart
+regionbidraget  beaktas.
 
 5\. Tas fram under remissperioden.
-tnecorP
+
+KOLLEKTIVTRAFIKENS   EKONOMI
+
+Kostnadsutveckling
+mål  är att minst bibehålla nuvarande   nivå, vilket innebär en
+
+Kostnaderna   för kollektivtrafiken ökar årligen, vilket främst beror           ökning  med  cirka 1,3 procentenheter  jämfört  med  prognosen.
+
+på ökade  kostnader  för den befintliga trafiken, investeringar i nya           Detta  innebär ett behov  av flertalet åtgärder på intäkts­ och/eller
+fordon  och depåer  samt satsningar  på utvecklad  eller ny trafik.             kostnadssidan.   Se sidan 19.
+
+Kostnaderna   för den befintliga trafiken ökar främst genom   det
+
+kostnadsindex   som  Västtrafiks trafikavtal med trafikföretagen är
+
+kopplade  till.
+Figur 9. Utveckling av självfinansieringsgrad, prognos respektive mål.
+
+Trafikförsörjningsprogrammets     mål att kollektivtrafiken ska vara
+50
+attraktiv, bidra till geografisk tillgänglighet och jämlika förutsätt­
+ningar i länet innebär också  att kostnaderna  för kollektivtrafiken               49
+
+kommer   att öka. Med  stöd i mål om  resurseffektivitet och själv­
+48
+finansieringsgrad  bedöms   regionbidraget  för kollektivtrafiken öka
+47
+med  i genomsnitt  XX5  procent per år under  perioden  fram till 2029.
+
+46
+
+45
+Självfinansieringsgraden
+
+44
+I figur 9 beskrivs utvecklingen av självfinansieringsgraden  enligt
+2024       2025      2026      2027       2028      2029
+Västtrafiks prognos  till 2029. Trafikförsörjningsprogrammets
 År
+
 Prognos 2024                Mål trafikförsörjningsprogram
+
+Procent
 
 <!-- sida 184 -->
 
@@ -7755,19 +9120,19 @@ Tabell 4. Aktörer för vilka trafikförsörjningsprogrammet är vägledande, sa
 <!-- sida 187 -->
 
 32
-TRAFIKFÖRSÖRJNINGSPROGRAM     2026–2029                                                                                                                                                          ANSVAR, ROLLER  OCH REGIONALA   STYRDOKUMENT
+TRAFIKFÖRSÖRJNINGSPROGRAM      2026–2029                                                                                                                                                         ANSVAR, ROLLER  OCH  REGIONALA  STYRDOKUMENT
 
-Västra           Götalandsregionens                                   styrande               strategier                och
+Västra           Götalandsregionens                                  styrande               strategier                och
 
-kopplingen                   till    trafikförsörjningsprogrammet
+kopplingen                    till   trafikförsörjningsprogrammet
 
 Trafikförsörjningsprogrammet        är ett av
 
-Västra  Götalandsr   egionens   fyra övergripande     styrdokument.
+Västra  Götalandsr   egionens    fyra övergripande    styrdokument.
 
-Prioriteringar  och  åtgärder   i trafikförsörjningsprogrammet
+Prioriteringar  och  åtgärder  i trafikförsörjningsprogrammet
 
-samspelar    och  bidrar  till de övriga strategierna:
+samspelar    och  bidrar till de övriga strategierna:
 
 2024-08-06
 
@@ -7783,26 +9148,52 @@ för Västra Götaland 2021 – 2030
 REVGÄIOSTNRAAL GUÖTVTAECLAKNLIDN G2S0S2T1R–A2T0E3G0I 1
 TEst
 
-Regional      utvecklingsstrategi            för                                Västra     Götalands       kulturstrategi        och                             Strategi     för  omställning        av  hälso­    och
+Regional      utvecklingsstrategi            för
 
-Västra    Götaland       2021–2030                                              kulturplan       2024–2027                                                       sjukvården       i Västra    Götalandsregionen
+Västra     Götaland      2021–2030
 
-2023–2027
+Den  regionala utvecklingsstrategin  har som  mål  att Västra
 
-Den regionala  utvecklingsstrategin har  som  mål att Västra                    Strategins fem  utvecklingsområden    med  tillhörande prioriteringar
+Götaland  ska vara ett föredöme  för omställning  till ett hållbart
 
-Götaland  ska vara ett föredöme  för omställning  till ett hållbart             styr mot ett fritt, rikt och starkt kulturliv i hela Västra Götaland.            Strategin pekar ut inriktningen  för hela Västra Götalandsregionens
+och konkurrenskraftigt   samhälle. Strategin innehåller  fyra
 
-och konkurrenskraftigt  samhälle.  Strategin innehåller fyra                    Kollektivtrafiken bidrar till att utveckla resmöjligheterna i hela               hälso­ och sjukvård. Trafikförsörjningsprogrammet     samspelar  med
+långsiktiga prioriteringar respektive fyra kraftsamlingar.
 
-långsiktiga prioriteringar respektive fyra kraftsamlingar.                      länet vilket möjliggör för fler att ta del av kulturutbudet, särskilt            strategin genom  att bidra till ökad tillgänglighet till bland annat
-
-Trafikförsörjningsprogrammet    bidrar främst  till den långsiktiga             barn  och ungdomar.                                                              målpunkter  för hälso­ och sjukvården.
-prioriteringen att knyta samman   Västra  Götaland  med  förbättrad
+Trafikförsörjningsprogrammet     bidrar främst till den långsiktiga
+prioriteringen att knyta samman    Västra Götaland  med  förbättrad
 
 tillgänglighet och hållbara resor. Kollektivtrafiken har också en
 
 viktig roll i övriga prioriteringar och kraftsamlingar.
+
+Västra     Götalands       kulturstrategi        och
+
+kulturplan       2024–2027
+
+Strategins fem  utvecklingsområden    med  tillhörande prioriteringar
+
+styr mot ett fritt, rikt och starkt kulturliv i hela Västra Götaland.
+
+Kollektivtrafiken bidrar till att utveckla resmöjligheterna i hela
+
+länet vilket möjliggör för fler att ta del av kulturutbudet, särskilt
+
+barn och  ungdomar.
+
+Strategi     för  omställning        av  hälso­     och
+
+sjukvården        i Västra    Götalandsregionen
+
+2023–2027
+
+Strategin pekar  ut inriktningen för hela Västra Götalandsregionens
+
+hälso­ och sjukvård.  Trafikförsörjningsprogrammet    samspelar  med
+
+strategin genom   att bidra till ökad tillgänglighet till bland annat
+
+målpunkter   för hälso­ och sjukvården.
 
 <!-- sida 188 -->
 
@@ -12609,8 +14000,6 @@ Kommundirektör                Samhällsbyggnadschef
 
 <!-- sida 296 -->
 
-rron. BIR sju so
-
 Sent on: Tuesday, November 12, 2024 9:57:11 AM
 To: Anna Wibling \<anna.wibling(Qkungsbacka.se>
 
@@ -12871,8 +14260,6 @@ Sign
 <!-- sida 302 -->
 
 <!-- sida 303 -->
-
-Bilaga A
 
 Uppdaterad 191206 1/7
 
@@ -13373,8 +14760,6 @@ Bilaga B
 
 <!-- sida 312 -->
 
-uniform KUB100 v 1,1, 2012-05-20
-
 Kungsbacka
 
 KUNGSBACKA KOMMUN 1 (2)
@@ -13401,8 +14786,8 @@ Samhällsbyggnadskontorets planavdelning, nedan kallad Planavdelningen.
 Information
 På kommunstyrelsens sammanträde 2019-11-26 avses följande att beslutas:
 
-\- Kommunstyrelsen beslutar att inleda en planeringsprocess för fastigheterna Alafors
-2:49 och Skårby 22:5 med syfte att genom detaljplan möjliggöra för verksamhets- och
+\- Kommunstyrelsen beslutar att inleda en planeringsprocess för fastigheterna Alafors |
+2:49 och Skårby 22:5 med syfte att genom detaljplan möjliggöra för verksamhets- och |
 bostadsändamål.
 
 \- Kommunstyrelsen överlämnar till byggnadsnämnden att inkludera Alafors 2:49 och
@@ -13426,10 +14811,12 @@ antagande.
 6, Övriga arbetsuppgifter som uppkommer i samband med samråd,
 underrättelse/granskning, antagande och arkivering.
 
-7\. Kostnaderna för utfört arbete enligt punkt 1-6 faktureras Beställaren,
+7\. Kostnaderna för utfört arbete enligt punkt 1-6 faktureras Beställaren, |
 
 8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
+
+uniform KUB100 v 1,1, 2012-05-20
 
 <!-- sida 313 -->
 
@@ -13899,8 +15286,6 @@ väg.
 
 f) Ev. kommunala behov
 
-ee”
-
 <!-- sida 320 -->
 
 Uppdaterad 191206 5/7
@@ -14002,7 +15387,7 @@ D. ÖVRIGA BESTÄMMELSER
 
 17\. Avtalstid
 
-17.1 — Avtalet löper från och med dagen för Kommunstyrelsens godkännande till den
+17.1 Avtalet löper från och med dagen för Kommunstyrelsens godkännande till den
 dag då giltigt exploateringsavtal föreligger, dock längst till och med 2021-12-31,
 Avtalstiden. Avtalet upphör då att gälla om inte Parterna överenskommer om
 annat.
@@ -14051,7 +15436,6 @@ kraft.
 
 Avtalet är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
 
-Q0e Ämne
 Kungsbacka 2049- 02-24 Kungsbacka 2019- LOG
 för Kungsbacka kommun för SW Fastigheter KB
 
@@ -14082,8 +15466,6 @@ Bilaga A
 Bilaga B
 
 <!-- sida 325 -->
-
-uniForm KUB100 v 1.1, 2012-05-20
 
 Kungsbacka
 
@@ -14123,12 +15505,13 @@ Skårby 22:5 i detaljplanen för utveckling av Annebergs centrum.
 principavtal med fastighetsägaren till Alafors 2:49 och Skårby 22:5.
 
 Följande utförs av Samhällsbyggnadskontoret, Planavdelningen i samråd med Beställaren
+
 1\. Planförslag med plankarta, illustrationskarta, planbeskrivning inklusive
 genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
 informationsmaterial för samråd och granskning.
+
 2\. Grundkarta och fastighetsförteckning.
 3, Skisser och utredningar som fordras vid framtagande av detaljplan.
-
 4, Samrådsredogörelse efter samråd och ett granskningsutlåtande efter granskning
 
 5\. Material beställt av Planavdelningen och som fordras vid samråd, granskning och
@@ -14141,6 +15524,8 @@ underrättelse/granskning, antagande och arkivering.
 
 8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
+
+uniForm KUB100 v 1.1, 2012-05-20
 
 <!-- sida 326 -->
 
@@ -14173,10 +15558,9 @@ SW Fastigheter KB (916553-2418)
 
 Firmatecknare, namnunderskrift
 
-A
 Kungsbacka den...
 
-ENTRE LEEKYSTSEEETETTETSTEETER TER TET
+ENTRE LEENYSTSYEEETETSTTTSEETIR TER TET
 
 Samhällsbyggnadskontoret/Byggnadsnämnden
 

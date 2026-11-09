@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.10708ba619b353ddef6dfcb6/1768461381
 sha256: 43c0fb956e97f81f83acec1caa817ef041cc5762bb23cf0063871ea0a490ac7f
 bytes: 55022787
 sidor: 370
-hamtad: 2026-11-07T00:32:19+00:00
-konverterad: 2026-11-07T00:34:37+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T08:41:27+00:00
+konverterad: 2026-11-09T08:44:05+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -2841,13 +2841,9 @@ oe
 4:118
 
 14
-1 OO
 
-| 4
 v22 Parkeringsplatsen, a,
 I
-
-| sg
 
 \|
 Gamla kiosken rives
@@ -10192,24 +10188,22 @@ REGIONAL FYSISK PLAN HALLAND
 
 <!-- sida 226 -->
 
-Målområde 1          Målområde 2            Målområde 3
-En tillgänglig,      En flerkärnig          En robust och
-inkluderande         region med attrak-     resilient region
+Målområde 1          Målområde 2           Målområde 3
+En tillgänglig,      En flerkärnig         En robust och
+inkluderande         region med attrak-    resilient region
 och sammanhållen     tiva och hållbara
 region               livsmiljöer
-låM
 
 • Restiden mellan större kärnor • Andelen hallänningar med • Målen inom detta
 i Sydvästsverige och Halland god tillgång till privat och område följs upp
 ska minska             offentlig service ska vara god i genom Länsstyrelsens
-regionens olika delar  miljömålsrapportering.
+regionens olika delar miljömålsrapportering.
 • Antalet tillgängliga arbets­
 tillfällen inom 60 minuter ska • Halland ska vara den mest
 öka i Halland och dess olika rekommenderade boende­
 delar                  regionen i Sverige
+
 • Kollektivtrafikens marknads­ • Antalet nybyggda bostäder
-PFR
-låmtkeffE
 
 andel ska öka          ska vara tillräckligt för att
 
@@ -10267,9 +10261,14 @@ ojämlikhetsindex)
 • De klimatpåver­ • Sysselsättnings­ • Antalet arbetstillfäl­ • Inrikes flyttnetto
 kande utsläppen i graden ska öka len i Halland ska öka ska vara bland det
 Halland ska minska                              högsta i Sverige
-SUR
 
 REGIONAL FYSISK PLAN HALLAND                                       95
+
+RUS
+
+Effektmål RFP
+
+Mål
 
 <!-- sida 227 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28dcea0d18cf3c913c85f20e/1705069889
 sha256: c7a02837d6784f074a4f911797f5edb37d6f3c912abedb7a14002ada04997276
 bytes: 37700814
 sidor: 161
-hamtad: 2026-10-24T10:40:39+00:00
-konverterad: 2026-10-24T10:42:38+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T10:07:01+00:00
+konverterad: 2026-11-09T10:10:02+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -233,7 +233,7 @@ j! t +
 É jo Lantmäteriet Geodatasamverkan
 YT Naturvårdsverket
 
-rr NK
+JR dn ad SE
 
 Beslut
 
@@ -453,17 +453,20 @@ och innehavare av särskild rätt till fastigheten att tåla åtgärder inom omr
 
 följande:
 
-I:
-
+18
 2\.
 
 utmärkning av naturreservatets gräns enligt Naturvårdsverkets anvisningar,
 anläggning och underhåll av friluftslivsanordningar exempelvis markerade stigar
 och informationsskyltar,
-naturvårdande skötsel i form av:
+
+. naturvårdande skötsel i form av:
+
 a. fällning, röjning och ringbarkning av gran, bok och idegran,
+
 b. veteranisering!, skapande av högstubbar, lågor och hålträd
 brunnshuggning, luckhuggning,
+
 c. sådd och plantering av ek och tall, användande av stängel och hägn som
 skydd för plantor,
 
@@ -485,8 +488,6 @@ utöver vad som annars gäller förbjudet att:
 I.
 2\.
 
-NAMNBPW
-
 skada levande eller döda träd, buskar och grenar,
 
 skada, plocka eller samla in mossor, lavar eller svampar annat än enstaka
@@ -504,15 +505,20 @@ elda.
 
 Dessutom är det förbjudet att utan Länsstyrelsens tillstånd:
 
-8\. anordna lägerverksamhet, tävlingar eller andra arrangemang,
-9\.
+8\.
+2,
+
+anordna lägerverksamhet, tävlingar eller andra arrangemang,
 
 inplantera för området främmande arter samt att
+
 utföra undersökningar som innebär markering, insamling, fångst eller annan
 påverkan på naturmiljön. Detta krav om tillstånd gäller dock inte vid insamling
 
 ! Veteranisering: mekanisk åverkan eller bearbetning på träd för att påskynda åldrande och skapande av
 sådana trädstrukturer som främst uppträder på gamla träd.
+
+NAMNBPW
 
 <!-- sida 13 -->
 
@@ -1101,12 +1107,7 @@ Nielsen, O. 1873. Valdemar Den Andens Jordebog. G.E.C. Gads Forlag.
 Prytz, A. 1930. Anteckningar från hemmanet och badorten Särö i Hallands län, Fjäre härad
 och Släps socken. Göteborg. 163 s. II. prtr. Kart.
 
-! ra 5 :
 Vd KM Y p
-
-\- ME ce
-\>
-k | j
 
 Figur 4 Arter som har hittats inom reservatet: Kattuggla, ädelkronlav & tallticka. Foto: Patrik Olofsson, Viveka Strand,
 Jonas Sundell
@@ -1338,10 +1339,6 @@ Informationsskyltar | Inom 10 år |1 3 Vårdanslaget
 <!-- sida 41 -->
 
 X
-
-LÄNSSTYRELSEN
-
-HALLANDS LÄN
 
 Länsstyrelsen i Hallands län + Postadress: 301 86 Halmstad » Besöksadress: Slottsgatan 2
 010- 224 30 00 » halland Qlansstyrelsen.se  www.lansstyrelsen.se/halland
@@ -1604,8 +1601,6 @@ Platt fjädermossa Neckera Mossor Signalart,
 complanata 2023
 
 Lindskål Holwaya mucida Storsvampar | Signalart, 2001
-
-Jätteticka Meripilus Storsvampar 20 1 6
 giganteus
 
 Grovticka Phaeolus Storsvampar | Signalart, 2021
@@ -1699,7 +1694,6 @@ I Särö 1:117 | - Samma som Särö 1:108
 Särö 1:273
 
 LANTMÄTERIET
-fs
 
 <!-- sida 50 -->
 
@@ -1726,7 +1720,6 @@ Särö s:2 Säröns Samfällighetsförening Vägar mm
 LSV) |
 
 | Beteckning på kartan ' Ägare/innehavare, adress Ändamål |
-äga fr
 
 Rättigheter inom reservatet (servitut, ledningsrätt, nyttjanderätt, vägrätt, viltvårdsområde, fiskevårdsområde,
 
@@ -1769,8 +1762,6 @@ Särö 1:273
 
 | Särö s:2
 
-| Övrigt
-
 "Beteckning
 | 1384-84/19.1
 
@@ -1781,8 +1772,6 @@ Särö 1:273
 | Belastar
 | Särö 1:83
 
-(Särö1:86
-
 I
 I
 
@@ -1790,7 +1779,6 @@ I
 
 Särö 1:273
 
-Övrigt
 LANTMÄTERIET
 
 Lu
@@ -1845,8 +1833,6 @@ Säröhusv 12
 
 1106 48 Stockholm -
 
-TE
-
 Utrymme
 
 <!-- sida 52 -->
@@ -1856,7 +1842,6 @@ Lantmäteriet 2022-07-01
 VIC Natur ID nr 1002073 Sida 6
 Beteckning | Ägare/innehavare, adress Ändamål
 1 13884-02/414 ee Röjning
-Till förmån för a a
 Särö ga:5 Särö Vägförening (Kungsbacka)
 | .\</O '
 fon
@@ -2146,7 +2131,6 @@ BOX 7012
 ' Belastar |
 Särö 1:273 Stafen Naturvårdsverket
 | 106 48 Stockholm
-| Övrigt
 Beteckning | Ägare/innehavare, adress Ändamål ee
 ' Oinskrivet servitat Ledning
 
@@ -2161,21 +2145,18 @@ Lantmäteriet 2022-07-01
 
 VIC Natur ID nr 1002073 Sida 13
 Fortum Distribution | Fortum Distribution Yngeredsfors
-
 Yngeredsfors AB AB
-
 BOX 2087
 1 650 02 Karlstad
+
 Belastar a -
 Särö 1:273 Staten N aturvårdsverket
-| 106 48 Stockholm
 
-Övrigt a
+| 106 48 Stockholm
 
 Eventuellt inom reservatet: =
 
 Beteckning | - | | Ägare/innehavare, adress = | Ändamål
-18/153 ee | Brunnmm
 Till förmån för
 Särö 1:148 =
 
@@ -2197,7 +2178,6 @@ Allmän väg | Ägare/innehavare adress Anmärkning
 Inga kända
 
 LANTMÄTERIET
-|—— É EEE
 
 <!-- sida 60 -->
 
@@ -2213,8 +2193,8 @@ Inga kända
 Planer inom reservatet
 Byggnadsplan
 13-SLA-3647
+
 | Berör inom reservatet
-(Särö 1:83
 
 Särö 1:86
 Särö 1:88
@@ -2302,8 +2282,6 @@ VIC Natur ID nr 1002073 Sida 16
 
 1:391
 3
-
-” | PAA 1208 I Åren vas nar
 
 Figur 1. Utrett område markerat NE blått.
 

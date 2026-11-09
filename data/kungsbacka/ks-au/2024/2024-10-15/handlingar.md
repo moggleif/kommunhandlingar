@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.458b81071927093b1521ec0b/1728562690
 sha256: fc23d5c96db5186b876108c2367342176e3e7685051a08afa8181e4905fddad5
 bytes: 11857571
 sidor: 76
-hamtad: 2026-10-25T06:46:00+00:00
-konverterad: 2026-10-25T06:46:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-09T11:09:05+00:00
+konverterad: 2026-11-09T11:09:27+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2554,12 +2554,12 @@ KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaacccccccccKKKKKKKK
 KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaaccccccccckkkkkkkkkaaaaaaaaa MMMMMMMMMyyyyyyyyyrrrrrrrrraaaaaaaaa 333333333:::::::::111111111888888888 (((((((((555555555)))))))))
 
 N 6371869
-Skala 1:11 700, SWEREF 99 TM, RH 2000.
-194623
-E
-027923
-E
 0         300       600       900m
+Skala 1:11 700, SWEREF 99 TM, RH 2000.
+
+E 326491
+
+E 329720
 
 <!-- sida 69 -->
 

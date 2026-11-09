@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2a9cb4ab195dc3282fcd9f6a/1743779281
 sha256: 4525adc164c04e1fbd4b6d60edc4efb4e8885b91d681458990f45d649b43eab1
 bytes: 70591783
 sidor: 359
-hamtad: 2026-10-25T07:30:00+00:00
-konverterad: 2026-10-25T07:34:09+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:00:02+00:00
+konverterad: 2026-11-09T12:04:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok]
 tal_obekraftade: [9, 13, 35, 36, 51, 64, 72, 78, 89, 95, 96, 103, 113, 118, 122, 123, 139, 147, 149, 156, 160, 161, 173, 175, 179, 194, 195, 196, 197, 198, 199, 200, 201, 202, 209, 211, 212, 219, 220, 221, 222, 227, 251, 252, 255, 256, 262, 264, 269, 270, 271, 272, 273, 274, 275, 276, 277, 282, 283, 284, 285, 286, 287, 288, 289, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 343, 344, 345, 346, 347, 348, 357, 358]
 figurer: [9, 10, 12, 17, 38, 41, 58, 73, 77, 78, 84, 85, 90, 91, 92, 93, 97, 98, 101, 104, 106, 107, 114, 115, 117, 118, 121, 124, 125, 128, 129, 131, 132, 133, 134, 135, 136, 140, 141, 142, 143, 144, 146, 150, 153, 154, 155, 156, 157, 158, 161, 162, 163, 173, 182, 189, 191, 192, 194, 196, 197, 198, 199, 200, 201, 204, 205, 207, 208, 209, 213, 215, 217, 218, 220, 221, 222, 223, 225, 227, 230, 266, 267, 268, 269, 270, 272, 273, 274, 275, 276, 277, 282, 284, 285, 286, 287, 288, 290, 294, 297, 300, 303, 304, 305, 306, 307, 308, 309, 310, 311, 313, 321, 324, 330, 332, 337, 338, 339, 340, 341, 343, 344, 345, 346, 347, 348, 353, 354, 355, 357, 359]
 tolkade: []
@@ -3881,18 +3881,6 @@ Uppdragsnr.: 108 12 18 Version: 3
 
 Tabell 2.2. Konsekvensskala för miljöbedömning
 
-Vid avvägande om vilket skalsteg i negativ respektive positiv riktning som bedömningen bör landa i, har
-matriser i Tabell 2.2 och Tabell 2.3 varit vägledande:
-
-Tabell 2.2 Vägledande matris negativ påverkan.
-
-Negativ påverkan            Aspektens värden och känslighet
-Mycket höga Höga      Måttliga   Låga
-
-n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 13 av 95
-/gninttafmo
-steppergnI
-rätkarak
 KONSEKVENSSKALA
 Stora negativa konsekvenser
 Medelstora negativa konsekvenser
@@ -3901,15 +3889,30 @@ Inga/obetydliga konsekvenser
 Små positiva konsekvenser
 Medelstora positiva konsekvenser
 Stora positiva konsekvenser
+Vid avvägande om vilket skalsteg i negativ respektive positiv riktning som bedömningen bör landa i, har
+matriser i Tabell 2.2 och Tabell 2.3 varit vägledande:
+
+Tabell 2.2 Vägledande matris negativ påverkan.
+
+Negativ påverkan            Aspektens värden och känslighet
+Mycket höga Höga      Måttliga   Låga
 Stort (areal,
 kvalitet, funktion)
+
 Medelstort (areal,
 kvalitet, funktion)
 Måttligt (areal,
 kvalitet, funktion)
 Litet (areal,
 kvalitet, funktion)
+
 Tabell 2.3 Vägledande matris positiv påverkan.
+
+n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 13 av 95
+
+Ingreppets omfattning/
+
+karaktär
 
 [Tabell 89-1](handlingar.tabeller/89-1.csv)
 
@@ -8458,7 +8461,7 @@ e - Transportsätt
 
 Samhällsviktig verksamhet . Utifrån RSA
 e Alternativ plan
-e - Utrymma kontra fortsatt hålla
+ee - Utrymma kontra fortsatt hålla
 
 i drift
 Skyddsrum och skyddade e Antal skyddsrum
@@ -10977,7 +10980,6 @@ längs vägnätet, 1:50 000
 5: Flygbildstolkning, samt fältkontroller huvudsakligen längs v
 
 [64 Eu
-r Tomtnii
 skala 1:5000 a Bosh olmen, -
 \+
 = + G& Stora Bosholmen
@@ -11017,267 +11019,421 @@ Foto på brunn vid fastigheten.
 
 <!-- sida 276 -->
 
-09:5
-
-43:3
-1,7
-3,6
-1,6
-0,6
-3,6
-5,6
-9,6
-8,7
-1,9
-1,01
-8,01
-1,11
-9,21
-0,31
-0,31
-1,31
-
-8,31
-
-6,41
-19:5
-8,6
-2,6
-5,6
-9,5
-1,6
-3,6
-7,6
-3,8
-4,01
-7,11
-4,21
-6,21
-5,31
-1,41
-9,51
-2,51
-2:3 1
-5,6
-3,6
-2,6
-7,5
-8,5
-0,6
-7,6
-0,01
-9,11
-0,41
-1,51
-0,61
-3,61
-3,81
-1,81
-1,71
-2,61
-01:3
-2,6
-4,6
-1,6
-7,5
-9,5
-2,6
-7,6
-2,9
-8,31
-2,61
-6,81
-2,02
-0,12
-8,91
-2,02
-3,91
-9,71
-3,71
-68:3
-2:3
-2,6
-2,6
-5
-2,6
-1,6
-8,5
-1,6
-6,6
-8,8
-1,61
-6,91
-3,81
-7,91
-2,12
-8,12
-2,12
-2,02
-7,91
-2,91
-31:3
-12:3
-1
-3,6
-3,6
-0,6
-0,6
-0,6
-9,5
-5,6
-2,11
-3,61
-7,81
-2,02
-7,02
-5,22
-0,22
-4,12
-0,12
-2,12
-2,6
-3,6
-2,6
-0,6
-0,6
-1,6
-1,6
-5,6
-3,9
-9,21
-0,81
-4,02
-4,02
-9,02
-4,12
-3,22
-3,32
-1,6
-2,6
-9,5
-8,5
-8,5
-3,5
-9,5
-6,6
-6,6
-2,9
-7,11
-7,41
-8,71
-8,81
-7,02
-1,22
-4,32
-3,62
-2:3
-07:3
-2
-2,6
-3,6
-8,5
-7,5
-6,5
-9,5
-0,6
-1,6
-4,6
-3,7
-7,21
-6,41
-3,91
-5,12
-1,32
-0,62
-69:3
-5,6
-3,6
-7,5
-6,5
-6,5
-8,5
-0,6
-1,6
-4,6
-3,6
-9,6
-3,01
-2,21
-8,51
-7,81
-391:1
-6,02
-0,52
-9,72
 45
+
 10
+
 8
-GNIRALKRÖFNEKCET
-danggyb
-giltnifeB
-danggyb
-yN
-gäV
+
+5:90
+
+3:34
+
+14,6
+
+13,8
+
+13,1
+
+13,0
+
+13,0
+
+12,9
+
+11,1
+
+10,8
+
+10,1
+
+9,1
+
+7,8
+
+6,9
+
+6,5
+
+6,3
+
+6,0
+
+TE
+
+6,1CKENFÖ
+
+6,R3KLARIN
+
+7,1G
+
+Bef5i:9nt1lig byggnad
+
+15,2
+
+15,9
+
+14,1
+
+13,5
+
+12,6
+
+12,4
+
+11,7
+
+10,4
+
+8,3
+
+6,7
+
+6,3
+
+6,1
+
+5,9
+
+Ny 6,5byggnad
+
+6,2
+
+6,8
+
+3:2
+
+1
+
 C
-snärgstehgitsaF
-D
-retehgitsaf
-agiljöm
-ayN
-B
-mvk
-0632
-aC
-\- A
-mvk
-0702
-aC
-\- B
-E
-mvk
-0281
-aC
-\- C
-mvk
-0871
-aC
-\- D
-mvk
-0881
-aC
-\- E
-A
+
+Väg
+
+16,2
+
+17,1
+
+18,1
+
+18,3
+
+16,3
+
+16,0 D
+
+15,1
+
+14,0
+
+11,9
+
+10,0
+
+6,7
+
+6,0
+
+5,8
+
+5,7
+
+Fas 6,t2ighetsgrä6,3ns
+
+6,5
+
+3:10
+
+Nya möjliga fastigheter
+
+17,3
+
+17,9
+
+19,3
+
+20,2
+
+19,8
+
+21,0
+
+20,2
+
+18,6
+
+16,2
+
+13,8
+
+9,2
+
+6,7
+
+6,2 B
+
+5,9
+
+5,7
+
+6,1
+
+6,4
+
+6,2
+
+3:86
+
+A - Ca 2360 kvm
+
+B - C3:a 22070 kvm
+
+5
+
+19,2
+
+19,7
+
+20,2
+
+21,2
+
+21,8 E
+
+21,2
+
+19,7
+
+18,3
+
+19,6
+
+16,1
+
+8,8
+
+6,6
+
+6,1
+
+5,8
+
+6,1
+
+6,2
+
+6,2
+
+6,2
+
+3:13
+
+C - Ca 1820 kvm
+
+3:21
+
+1
+
+21,2
+
+21,0
+
+21,4
+
+22,0
+
+22,5
+
+20,7
+
+20,2
+
+18,7
+
+16,3
+
+11,2
+
+6,5
+
+5,9
+
+6,0
+
+6,0
+
+D - 6,0Ca 1780
+
+6k,3vm
+
+6,3
+
 F
-mvk
-0122
-aC
-\- F
-1
-va
-1
-adis
+
+A
+
+E - Ca 1880 kvm
+
+23,3
+
+22,3
+
+21,4
+
+20,9
+
+20,4
+
+20,4
+
+18,0
+
+12,9
+
+9,3
+
+6,5
+
+6,1
+
+6,1
+
+6,0
+
+6,0
+
+F - 6,2Ca 2210 k6,3vm
+
+6,2
+
+26,3
+
+23,4
+
+22,1
+
+20,7
+
+18,8
+
+17,8
+
+14,7
+
+11,7
+
+9,2
+
+6,6
+
+6,6
+
+5,9
+
+5,3
+
+5,8
+
+5,8
+
+5,9
+
+6,2
+
+6,1
+
+3:70
+
+3:2
+
 2
-agaliB
-74:71
-61-21-4202
-:mutaD
-\|
-827571#
-:remmunednerÄ
+
+26,0
+
+23,1
+
+21,5
+
+19,3
+
+14,63:96
+
+12,7
+
+7,3
+
+6,4
+
+6,1
+
+6,0
+
+5,9
+
+5,6
+
+5,7
+
+5,8
+
+6,3
+
+6,2
+
+1:193
+
+27,9
+
+25,0
+
+20,6
+
+18,7
+
+15,8
+
+12,2
+
+10,3
+
+6,9
+
+6,3
+
+6,4
+
+6,1
+
+6,0
+
+5,8
+
+5,6
+
+5,6
+
+5,7
+
+6,3
+
+6,5
+
+Ärendenummer: #175728 | Datum: 2024-12-16 17:47
+
+Bilaga 2 sida 1 av 1
 
 <!-- sida 277 -->
 
-0001:1
+Skala 1:1000
 
-alakS
-nummok
-akcabsgnuK
-©
-thgirypoC
-m06
-04
-02
+Copyright © Kungsbacka kommun
+
 0
+
+20
+
+40
+
+60m
 
 <!-- sida 278 -->
 
@@ -11768,59 +11924,54 @@ Rapport nr: 24018 - 2
 
 1.1 Projektbeskrivning
 
-I Bångsbo/Kullavik ska det byggas ett nytt bostadsområde samt flera byggnader för
-industri och verksamhet. Väster om lokalerna planeras villaområde med enfamiljshus
 och parhus.
-
 Området är utsatt för trafikbuller från Väg 158.
 
 Bångsbo
 
 Figur 1 Planöversikt
-
 1.2 Uppdrag
 
-Cedås Akustik AB har i uppdrag att ta fram en trafikbullerutredning för fastigheten. I
-handlingen anges riktvärden på relevanta akustiska parametrar enligt Förordning
 2015:216 om trafikbuller samt redovisas resultat från bullerberäkningen.
 
 1.3 Underlag
 
 Följande underlag har använts:
-e  Byggnadskarta från Lantmäteriet exkl. placering av nya byggnader,
+
 dat. 2024-01-21
 eo  Trafikinformation för vägar enligt Trafikverkets Vägflödeskarta
 e  Byggnadsvolymer enl. A, dat. 2024-12-06
 
 Ina Hättenberger
+(mobilnummer borttaget)
 
-(mobilnummer borttaget) - |
-N, inaQcedasakustik.se Cedås Akustik
+N, inaQcedasakustik.se
+
+I Bångsbo/Kullavik ska det byggas ett nytt bostadsområde samt flera byggnader för
+industri och verksamhet. Väster om lokalerna planeras villaområde med enfamiljshus
+
+Cedås Akustik AB har i uppdrag att ta fram en trafikbullerutredning för fastigheten. I
+handlingen anges riktvärden på relevanta akustiska parametrar enligt Förordning
+
+e  Byggnadskarta från Lantmäteriet exkl. placering av nya byggnader,
+
+Cedås Akustik
+
+O
 
 SUIupaIInta[[NQAUeL]
-
-&Ö
 
 AIAPIMY T:y oqssugg | 81-Z1-7z0Z
 
 <!-- sida 299 -->
 
-Bångsbo 4:1, Kullavik | 2024-12-18
-
-Trafikbullerutredning
-
-Ö
-
 1.4 Situationsplan
 
 NE Vaage |
 
-2 Termer och definitioner
-
 Figur 2 Placering av Bångsbo 4:1, Kullavik
 
-\|
-Avd
+2 Termer och definitioner
 
 Nedan följer kortfattat symboler och storheter som används i den här handlingen.
 
@@ -11838,17 +11989,20 @@ Fast, beräknad som ett frifältsvärde.
 
 Tabell 1 Lista över termer
 
-Cedås Akustik
-
 Ina Hättenberger
-(mobilnummer borttaget)
-inaQMcedasakustik.se
+
+o . (mobilnummer borttaget)
+Cedås Akustik inaQcedasakustik.se
 
 S
 
+Bångsbo 4:1, Kullavik | 2024-12-18
+
+Trafikbullerutredning
+
 <!-- sida 300 -->
 
-a
+( NY
 
 3 Riktvärden i projektet
 
@@ -11883,15 +12037,12 @@ innebär att uteplatsen eller uteplatserna är direkt hänförliga till byggnads
 tomten och således anordnas på kvartersmark.”
 
 Ina Hättenberger
-
 (mobilnummer borttaget) o .
-N inaQcedasakustik.se Cedås Akustik
+N inaQcedasakustik.se Cedås Akustik Ö
 
 ATALI[NY 'T:y oqssugd | 81-Z1-7z0Z
 
 BUurupasmIol[nqYAgel
-
-Ö&
 
 <!-- sida 301 -->
 
@@ -11934,13 +12085,13 @@ dat. 2024-01-21.
 
 Byggnadsvolym och antal våningar enligt underlag från Broods, dat. 2024-12-06.
 
-Bångsbo 4:1, Kullavik | 2024-12-18
-
-Trafikbullerutredning
-
 Ina Hättenberger
 o . (mobilnummer borttaget)
 (6) Cedås Akustik inaQMcedasakustik.se J-
+
+Bångsbo 4:1, Kullavik | 2024-12-18
+
+Trafikbullerutredning
 
 <!-- sida 302 -->
 
@@ -12001,8 +12152,6 @@ AAPINY 'T:y oqssugd | 8T-Z1-7Z0Z
 
 BUurupasmIol[nqYAgel
 
-Ö
-
 <!-- sida 303 -->
 
 Projektnamn: Bångsbo 4:1
@@ -12040,6 +12189,44 @@ Cedås Akustik AB, Kyrkogatan 4, Göteborg
 www.cedasakustik.se
 
 <!-- sida 304 -->
+
+\- La / > \$
+—— os di
+h | Ja
+( 4 ve && -
+
+Projektnamn: Bångsbo 4:1
+Projektnummer. 24018
+Beställare: White Arkitekter
+
+Bullerkarta 1b
+
+Buller från vägtrafik vid fasad
+Frifältsvärde
+
+Prognosår 2040
+
+Ekvivalent ljudnivå, Laeq
+
+Upprättad av: Ina Hättenberger
+Skapad: 2024-12-17
+Processerad med SoundPLAN 9.0, Update 2024-12-03
+
+Ekvivalent ljudnivå Symboler
+
+i dB(A)
+HI < so = Byggnad
+
+me 55 FEN väg
+HN. cs
+m > es
+
+CEDÅS
+
+(AS AKUSTIK
+
+Cedås Akustik AB, Kyrkogatan 4, Göteborg
+www.cedasakustik.se
 
 <!-- sida 305 -->
 
@@ -12174,10 +12361,6 @@ www.cedasakustik.se
 
 318250
 
-318500
-
-0SZE8E9
-
 Projektnamn: Bångsbo 4:1
 Projektnummer. 24018
 Beställare: White Arkitekter
@@ -12197,13 +12380,14 @@ Skapad: 2024-12-17
 Processerad med SoundPLAN 9.0, Update 2024-12-03
 
 Ekvivalent ljudnivå Symboler
-
 i dB(A)
-He ss = Byggnad
 
+He ss =E Byggnad
 < 50 FEN väg
 
 NY
+
+318500
 
 CEDÅS
 (AS AKUSTIK
@@ -12211,13 +12395,11 @@ CEDÅS
 Cedås Akustik AB, Kyrkogatan 4, Göteborg
 www.cedasakustik.se
 
+0SZE8E9
+
 <!-- sida 310 -->
 
 318250
-
-318500
-
-0SZE8E9
 
 Projektnamn: Bångsbo 4:1
 Projektnummer. 24018
@@ -12238,19 +12420,22 @@ Skapad: 2024-12-17
 Processerad med SoundPLAN 9.0, Update 2024-12-03
 
 Maximal ljudnivå Symboler
-
 i dB(A)
-HI. cs = Byggnad
 
+HI. cs =E Byggnad
 << 70 FEN väg
 
 NY
+
+318500
 
 CEDÅS
 (AS AKUSTIK
 
 Cedås Akustik AB, Kyrkogatan 4, Göteborg
 www.cedasakustik.se
+
+0SZE8E9
 
 <!-- sida 311 -->
 
@@ -12491,12 +12676,13 @@ minskar behovet av både effekt och energi från elnätet. Detta leder till en
 
 lägre belastning på elnätet samt resulterar i sänkta elnätskostnader. ( : fö
 Överskottsenergin lagras i gemensamma batterier vilket möjliggör att
+
 fastigheterna kan dela på den redan producerade solenergin och drar nytta |
 av förnybar energi.
 
-. . a = .
 Vi har sedan 2023 ett separat energibolag - Buddy Energy - delägt av . A
 Broods, Investors fastighetsbolag Vectura och BRA Bygg där vi redan idag .
+
 har och distribuerar en färdig lösning för detta. Noa = VÄ
 
 une

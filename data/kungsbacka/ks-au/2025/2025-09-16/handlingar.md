@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.3ee0fded199371ed40ca04e/17575934513
 sha256: 0c7b9b1424e810a6306c77410af82b5f258e97118523985e0a1dd2169fe31252
 bytes: 9440179
 sidor: 69
-hamtad: 2026-10-25T08:12:12+00:00
-konverterad: 2026-10-25T08:13:09+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T12:47:09+00:00
+konverterad: 2026-11-09T12:48:10+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr]
 tal_obekraftade: [5, 18, 19, 20, 21, 25, 28, 37, 42, 43, 54, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69]
 figurer: []
 tolkade: []
@@ -134,6 +134,14 @@ Telefon 0300-83 40 00
 www.kungsbacka.se
 
 <!-- sida 5 -->
+
+Kungsbacka
+
+årsrappor
+
+Oo
+
+Del
 
 <!-- sida 6 -->
 
@@ -2690,8 +2698,6 @@ Firmanamn
 Datum: 2025-54 - 20
 
 Namnförtydligande
-
-Wu Irovsl Ve dNNI
 
 Firmanamn <<)
 
