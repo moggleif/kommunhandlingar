@@ -309,6 +309,24 @@ poolen), med de här skillnaderna:
   för delårsrapporten). Måldagar har nämnden inga. Uppföljningarna per
   april 2019, 2020 och 2025 saknas i poolen.
 
+Kultur & Fritid (kontrollerat 2026-11-09 i poolen) har samma form
+2019–2023, med de här skillnaderna:
+
+- **Målbild 2030 i stället för nämndmål.** Nämnden antog Målbild 2030
+  hösten 2023 (protokollet 2023-10-18). Nämndbudgetarna från 2025 har
+  "Nämndens målbild" och inga egna nämndmål, och uppföljningen heter
+  "Uppföljning målbild". Målfilen har målbilden som nämndmål, grupperad
+  under "Målbild 2030", utan bedömning, eftersom uppföljningen inte
+  bedömer den.
+- **Direktiven** är få. Alliansens direktiv om aktiviteter på särskilda
+  boenden (2025 och 2026) ges till både Kultur & Fritid och Vård &
+  Omsorg.
+- **Saknas i poolen:** dokumenten 2018 hör till Fritid & Folkhälsa, som
+  nämnden ersatte 2019, och är inte lästa. Nämndbudget 2020 och 2022–2024,
+  delårsrapporten 2022 och nämndens möten april–december 2022 saknas;
+  2023 har protokoll men inga handlingar. Flera protokoll 2019–2022 är
+  skannade.
+
 ### Kommunfullmäktiges mål och direktiv
 
 Fullmäktiges egen sida (K35,
@@ -406,6 +424,22 @@ kommunstyrelsens protokoll 2022-02-22 saknas i poolen. Bukärrsgården
 tömdes 2021 men hyrs vidare som tillfälligt boende och har inget utfört
 steg.
 
+Kultur & Fritids protokoll räknar upp behovsbeskrivningarna som bilagor
+2023 och 2024; 2025 och 2026 står behoven bara i handlingarnas tabell,
+som protokollet säger att nämnden biföll. Lokalbehovet 2021–2025 (2019)
+finns som beslut utan bilaga, 2023–2027 (2021) bara som kallelse, och
+2022–2026 (2020) inte alls. 2022 års lokalbehov syns genom
+kommunstyrelsens protokoll om isytan 2023-03-21.
+Lokalplanens löpnummer under "Fritidsanläggningar och kulturlokaler" är
+114 och 128–148; löpnummer 136 användes först för Björkris idrottshall
+och sedan för Skårby. Folkbiblioteket i Åsa står i lokalplanen ihop med
+skolan (337). Servicenämndens bokslut anger ofta lokalplanens löpnummer
+bredvid projektnamnet (138 Frillesås ridklubb, 142 Naturum). Behov som
+bytt namn med samma löpnummer (Iserås och Onsala fullmåttshall,
+Ölmevalla och Åsa fullmåttshall, kulturskolelokaler och KFT-hubb i Åsa)
+är samma behov; utan löpnummer är ett namnbyte tolkat. Detaljplanen för
+Skårby 3:4 gäller en tennishall för en förening och står inte med.
+
 Byggnämndens och fullmäktiges detaljplaner står som steg på gång. Nyckeln
 är fastighetsbeteckningen eller kvarteret: Kolla 5:6 är Gräskärrs förskola
 (nämnden för Förskola & Grundskola 2022-12-15), Iserås 19:1 är Iseråsskolan,
@@ -453,6 +487,12 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   ett uppdrag utan att säga att den bifaller initiativet står steget som
   `bifall` med `tolkad = ja`.
 
+- **Kultur & Fritid** (2021–2026, kontrollerat 2026-11-09) skriver
+  "Initiativ" eller "Initiativärende" och partiet med namn eller
+  förkortning. Nämnden har sedan 2025 en egen punkt, "Återrapportering
+  av initiativ", som ger utfallet. Protokollen 2023 saknas till stor del
+  i poolen; initiativ som behandlades då står med kallelsen som källa.
+
 ### Nämndernas redovisningar
 
 Redovisningssidan (K42,
@@ -495,6 +535,13 @@ och helåret, och Qvalifys kvalitetskontroller. Kvartalsrapporterna om ej
 verkställda beslut, de enskilda anmälningarna enligt lex Maria och lex
 Sarah, informationspunkterna (också Qvalifys halvår 2026), uppföljningen
 av arbetsmiljön och den interna kontrollen står inte med.
+
+Kultur & Fritid (kontrollerat 2026-11-09) har inga direktiv som börjar
+med Redovisning, Utredning eller Information. Återkommande är
+dataskyddet, God och nära vård och lokala BRÅ:s lägesrapporter.
+Nämndens "Uppdrag till förvaltningen" (bidragssystemet,
+idrottsanläggningarnas fördelning, studieförbunden med flera) står inte
+med; de är beslut på sammanträdet, inte beställda redovisningar.
 
 ### Dokumentens innehåll
 
