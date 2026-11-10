@@ -431,13 +431,15 @@ personal och lokaler för Bygg- och miljöförvaltningen sedan 2020:
   uppföljningarna hämtas bara ur nämndens egna dokument.
 - **Målen 2021–2023 är gemensamma med Miljö & Hälsoskydd** och står i
   nämndens egna dokument: årsredovisning 2021 (2022-02-24), nämndbudget
-  2022 (2021-11-25) och årsredovisning 2023 (2024-02-22), som också har
-  2023 års mål. Nämndens egna direktiv (OVK-tillsynen, handläggningstiden
-  för förhandsbesked, tillsynsplanen) står med. Från 2024 har budgeten,
+  2022 (2021-11-25) och årsredovisning 2023 (2024-02-22). Nämndbudgeten
+  2023 saknas i poolen, så 2023 års mål kommer ur årsredovisningen. Nämndens egna direktiv (OVK-tillsynen, handläggningstiden
+  för förhandsbesked, tillsynsplanen och fler) står med. Miljö &
+  Hälsoskydds egna mål i samma dokument (krogmiljöer, livsmedel och
+  dricksvatten, inomhusmiljöer) står bara på den nämndens sida. Från 2024 har budgeten,
   delårsrapporten och årsredovisningen bara fullmäktiges mål och
   direktiv.
 - **Protokollen** har årsredovisningen, aprilrapporten och
-  delårsrapporten 2014–2026 där mötena finns. Dragningar är
+  delårsrapporten 2014–2026 där protokollen finns. Dragningar är
   nämndbudgeten, förvaltningsbudgeten och måldagarna.
 
 ### Kommunfullmäktiges mål och direktiv
@@ -622,9 +624,10 @@ förvaltningens, och byggnadsnämnden, som förvaltningen hör till, har
 konstaterat att inga nya behov finns utöver platsen i Stadshuset och
 Teknikens hus. Det återrapporterades till nämnden 2023-11-09 § 129.
 
-Byggnadsnämnden har ingen lokalbehovssida. Varje år 2019–2026
-konstaterar nämnden att den inte har några nya behov utöver Stadshuset
-och Teknikens hus, och lägger lokalbehovet till handlingarna.
+Byggnadsnämnden har ingen lokalbehovssida. I lokalbehovsärendet
+2020, 2021 och 2024–2026 konstaterar nämnden att den inte har några nya
+behov utöver Stadshuset och Teknikens hus, och från 2024 läggs
+informationen till handlingarna.
 
 ### Nämndernas initiativärenden
 
@@ -839,7 +842,8 @@ Byggnadsnämnden (kontrollerat 2026-11-10) har återkommande
 redovisningar: dataskyddet, upphävda och återförvisade beslut, status
 för bygga-hus-processen, innovations- och utvecklingsportföljen,
 Insiktsmätningen, jämförelserna med andra kommuner ur Boverkets
-statistik och uppföljningen av den interna kontrollen. Tillsynsplanen
+statistik. Uppföljningen av den interna kontrollen står inte med, som
+för de andra nämnderna. Tillsynsplanen
 enligt plan- och bygglagen, strategin 2024–2027, taxan för plan- och
 byggverksamheten med indexjusteringarna (fullmäktige beslutar),
 riktlinjerna för sammanhållen bebyggelse och för skyltning, digital
