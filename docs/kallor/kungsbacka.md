@@ -853,6 +853,29 @@ handlingsplanen för budget i balans står på handlingsplanssidan.
 Delegeringsförteckningar, intern kontrollplan, remissvar och
 detaljplanerna står inte med.
 
+### Byggnadsnämndens detaljplaner
+
+Detaljplanssidan (K44,
+[ADR-0067](../decisions/0067-detaljplanerna-foljs-som-redovisningarna.md))
+har 65 planer med 168 steg (kontrollerat 2026-11-10 i poolen):
+
+- **Planerna med ett beslut 2024–2026** står med: nämndens
+  paragrafrubriker ("Uppdrag att upprätta …", "Samråd av …",
+  "Granskningsbeslut …", "Godkännande av …", "Antagande av …", "Avsluta
+  planuppdrag …", yttranden över överklaganden och anmälda
+  ordförandebeslut om dem), arbetsutskottets egna planuppdrag och
+  avslut, kommunstyrelsens planbesked och projektbeställningar
+  ("Godkännande av projektbeställning samt överlämnande …") och
+  fullmäktiges antaganden.
+- **Äldre steg** för samma planer står med där ett beslut finns i
+  poolen, tillbaka till 2014. En projektbeställning som gäller flera
+  planer står på var och en av dem. Arbetsutskottets förslag till
+  nämnden 2023 står inte med, fast nämndens protokoll från mars 2022
+  till 2023 saknas i poolen.
+- Information om planer, avstämningar, rättelser, utökade planområden,
+  avtal, tillsyn, bygglov och planer som bara finns före 2024 står inte
+  med.
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena

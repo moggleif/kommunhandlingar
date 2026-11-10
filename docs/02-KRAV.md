@@ -1381,3 +1381,27 @@ Hur och varför står i
   eller något annat som stoppar en annan spårfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
+
+## K44 — Detaljplanerna steg för steg
+
+Hur och varför står i
+[ADR-0067](decisions/0067-detaljplanerna-foljs-som-redovisningarna.md) och
+[Detaljplaner](03-ARKITEKTUR.md#detaljplaner). Issue
+[#242](https://github.com/moggleif/kommunhandlingar/issues/242).
+
+- **Givet** en kommun med en fil med detaljplaner, där varje rad är ett
+  steg en plan tar – planbesked, planuppdrag, samråd, granskning,
+  godkännande, antagande, överklagande eller avslutat planuppdrag – med
+  år, en text och en sida i ett protokoll i poolen som källa
+- **När** webbplatsen byggs
+- **Så** har nämnden som tar fram planerna en sida om dem, i översikten
+  och flikarna som de andra sidorna över tid (K39).
+- **Givet** sidan om detaljplanerna
+- **När** den visas
+- **Så** står varje plan på en rad i en tidslinje med en kolumn per år
+  och på ett kort, som redovisningarna (K42), också med steg i
+  kommunstyrelsens och fullmäktiges protokoll.
+- **Givet** en fil med detaljplaner med en okänd fas, en tom plan eller
+  något annat som stoppar en annan spårfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden och felet.
