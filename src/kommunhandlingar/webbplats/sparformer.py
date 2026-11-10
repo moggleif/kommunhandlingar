@@ -15,3 +15,5 @@ RUTA = '<rect x="1.5" y="1.5" width="13" height="13" rx="3" fill="currentColor"/
 KLART = RUTA + BOCK
 BUBBLA = f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>'
 TIMGLAS = f'<path d="M3 2h10L3 14h10z" {DRAG}/>'
+KVADRAT = f'<rect x="2" y="2" width="12" height="12" {DRAG}/>'
+PELARE = f'<path d="M2 6.5l6-4.5 6 4.5zM3.5 8v5M8 8v5M12.5 8v5M2 14h12" {DRAG}/>'

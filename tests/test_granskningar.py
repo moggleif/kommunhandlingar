@@ -67,7 +67,7 @@ class TestSidan(unittest.TestCase):
     def test_granskningen_foljs_fran_revisionen_till_namndens_svar(self):
         html = sida()
         self.assertIn(">Köpta platser</a></th>", html)
-        self.assertIn("<dt>rapporten godkänd av revisionen</dt><dd>1</dd>", html)
+        self.assertIn("<dt>rapporten antagen av revisionen</dt><dd>1</dd>", html)
         self.assertIn("<dt>nämndens svar eller åtgärder</dt><dd>1</dd>", html)
         self.assertIn("revisionens bedömning (inte)", html)
         self.assertIn(REVISION.removesuffix(".md"), html)
@@ -85,4 +85,7 @@ class TestKungsbacka(unittest.TestCase):
         fil = ROT / "granskningar" / "kungsbacka.csv"
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", GRANSKNINGAR)
         self.assertNotIn("revision", {s.organ for s in stegen})
+        for steg in stegen:
+            if steg.fas == "bedomning":
+                self.assertIn(steg.varde, steg.text, steg.namn)
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)

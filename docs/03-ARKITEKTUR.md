@@ -2018,22 +2018,27 @@ Hur och varför står i
 En kommun med en fil `granskningar/<kommun>.csv` får en sida
 `<kommun>/<organ>/granskningar.html` för varje organ med rader i filen
 (K43). Organet är det granskade: nämnden, eller kommunstyrelsen för en
-granskning av hela kommunen som ingen nämnd själv svarar på. Filen,
+granskning av hela kommunen, som dessutom står under varje nämnd som
+svarar själv. Filen,
 kontrollen och sidan är redovisningarnas ([Redovisningar](#redovisningar)),
 med de här skillnaderna:
 
 - **Kolumnen** `granskning`: granskningens namn på sidan, detsamma i
   alla steg och för alla organ som har den.
 - **Faserna** är `projektplan` (revisionen beslutar projektplanen),
-  `rapport` (revisionen godkänner eller avrapporterar granskningen),
-  `bedomning` (revisorernas sammanfattande bedömning i rapporten),
-  `svar` (nämndens svar, yttrande eller beslut om åtgärder),
+  `rapport` (revisionen antar eller godkänner granskningen; inte när
+  den bara noterar informationen),
+  `bedomning` (revisorernas sammanfattande bedömning, i rapporten eller
+  återgiven i ärendet om svaret),
+  `svar` (nämndens svar, yttrande eller beslut om åtgärder; inte
+  information som nämnden bara noterar),
   `fullmaktige` (revisionen informerar fullmäktige om granskningen) och
   `uppfoljning` (den uppföljande granskningen eller nämndens svar på
   den).
 - **Värdet** används bara i `bedomning`, och är ett av revisorernas ord:
   `inte`, `inte fullt ut`, `delvis`, `i stort`, `i huvudsak` eller
-  `i allt väsentligt`. Ordet står på källans sida, som de andra värdena.
+  `i allt väsentligt`. Ordet står i stegets text, som står på källans
+  sida.
 - **Återkommande granskningar** – årsbokslutet, delårsrapporten, den
   löpande och den grundläggande granskningen – är en rad med ett steg
   per år.
@@ -2042,4 +2047,3 @@ med de här skillnaderna:
 - **Formerna** som faserna ritas med delas av alla slag och står i
   `sparformer.py`. Slaget står i `granskningsslag.py` och listas i
   `sparslag.py` med de andra.
-

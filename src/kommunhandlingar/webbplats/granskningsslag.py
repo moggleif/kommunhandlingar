@@ -6,7 +6,14 @@ informationen i fullmäktige och den uppföljande granskningen.
 """
 
 from kommunhandlingar.webbplats.spar import Slag
-from kommunhandlingar.webbplats.sparformer import BUBBLA, CIRKEL, DRAG, FYLLD, RUTER
+from kommunhandlingar.webbplats.sparformer import (
+    BUBBLA,
+    CIRKEL,
+    FYLLD,
+    KVADRAT,
+    PELARE,
+    RUTER,
+)
 
 GRANSKNINGAR = Slag(
     id="granskningar",
@@ -17,21 +24,15 @@ GRANSKNINGAR = Slag(
     antal="granskningar",
     faser={
         "projektplan": (CIRKEL, "projektplanen beslutad"),
-        "rapport": (FYLLD, "rapporten godkänd av revisionen"),
-        "bedomning": (
-            f'<rect x="2" y="2" width="12" height="12" {DRAG}/>',
-            "revisionens bedömning",
-        ),
+        "rapport": (FYLLD, "rapporten antagen av revisionen"),
+        "bedomning": (KVADRAT, "revisionens bedömning"),
         "svar": (BUBBLA, "nämndens svar eller åtgärder"),
-        "fullmaktige": (
-            f'<path d="M2 6.5l6-4.5 6 4.5zM3.5 8v5M8 8v5M12.5 8v5M2 14h12" {DRAG}/>',
-            "redovisad för fullmäktige",
-        ),
+        "fullmaktige": (PELARE, "redovisad för fullmäktige"),
         "uppfoljning": (RUTER, "uppföljande granskning"),
     },
     inledning=(
         "<p>Kommunrevisionens granskningar av nämnden år för år: när "
-        "revisionen beslutade projektplanen och godkände rapporten, vad "
+        "revisionen beslutade projektplanen och antog rapporten, vad "
         "revisorerna bedömde, hur nämnden svarade, när revisionen berättade "
         "om granskningen i fullmäktige och när den följdes upp. Varje ikon "
         "länkar till sidan i dokumentet som visar steget.</p>"
@@ -41,11 +42,13 @@ GRANSKNINGAR = Slag(
         "bedömningen. Rapporten finns i poolen när den ligger bland "
         "nämndens, kommunstyrelsens eller fullmäktiges handlingar, oftast "
         "som underlag till nämndens svar. Bedömningen står som revisorerna "
-        "skriver den; saknas rapporten står ingen bedömning. Granskningar av "
+        "skriver den, i rapporten eller återgiven i ärendet om svaret; "
+        "saknas den står ingen bedömning. Granskningar av "
         "hela kommunen står under kommunstyrelsen, och under en nämnd när "
         "nämnden själv svarar. Den grundläggande granskningen, som "
         "revisionen gör av alla nämnder varje år, står med när nämnden har "
-        "ett eget steg. Granskningar av bolag, stiftelser och gemensamma "
+        "ett eget steg; information som nämnden bara noterar räknas inte. "
+        "Granskningar av bolag, stiftelser och gemensamma "
         "nämnder står inte med. Varje steg har en text som står på källans "
         "sida, och bygget prövar det.</p>"
         "<p>Där källan inte själv säger att det gäller granskningen är "

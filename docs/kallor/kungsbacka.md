@@ -880,10 +880,10 @@ har 65 planer med 168 steg (kontrollerat 2026-11-10 i poolen):
 
 Granskningssidorna (K43,
 [ADR-0066](../decisions/0066-revisionens-granskningar-foljs-per-namnd.md))
-har 52 granskningar med 152 steg i tio organ (kontrollerat 2026-11-10 i
+har 50 granskningar med 152 steg i tio organ (kontrollerat 2026-11-10 i
 poolen):
 
-- **Revisionen publicerar bara protokoll** (2019–2026), sedan 2023
+- **Revisionen publicerar bara protokoll** (2019–2026), sedan 2021
   ofta som "sammanträdesanteckningar". Rubrikerna är ojämna:
   "Avrapportering …", "Godkännande av …", "Projektplan …". Projektplaner
   och rapporter står med som steg; revisionens ekonomi, arvoden, kurser,

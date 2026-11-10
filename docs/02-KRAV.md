@@ -1401,7 +1401,7 @@ Hur och varför står i
 - **När** den visas
 - **Så** står varje granskning på en rad i en tidslinje med en kolumn
   per år och på ett kort, som redovisningarna (K42), och bedömningen
-  står med revisorernas ord.
+  står med revisorernas ord, som också står i stegets text.
 - **Givet** en bedömning som inte är ett av revisorernas ord – inte,
   inte fullt ut, delvis, i stort, i huvudsak eller i allt väsentligt –
   eller en fil med en okänd fas eller något annat som stoppar en annan
