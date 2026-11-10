@@ -1382,6 +1382,33 @@ Hur och varför står i
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
 
+## K43 — Revisionens granskningar steg för steg
+
+Hur och varför står i
+[ADR-0066](decisions/0066-revisionens-granskningar-foljs-per-namnd.md) och
+[Granskningar](03-ARKITEKTUR.md#granskningar). Issue
+[#244](https://github.com/moggleif/kommunhandlingar/issues/244).
+
+- **Givet** en kommun med en fil med granskningar, där varje rad är ett
+  steg en av revisionens granskningar av ett organ tar – projektplan,
+  rapport, bedömning, nämndens svar, information i fullmäktige eller
+  uppföljande granskning – med år, en text och en sida i vilket organs
+  dokument som helst i poolen som källa
+- **När** webbplatsen byggs
+- **Så** har varje granskat organ med rader en sida om granskningarna, i
+  översikten och flikarna som de andra sidorna över tid (K39).
+- **Givet** sidan om ett organs granskningar
+- **När** den visas
+- **Så** står varje granskning på en rad i en tidslinje med en kolumn
+  per år och på ett kort, som redovisningarna (K42), och bedömningen
+  står med revisorernas ord.
+- **Givet** en bedömning som inte är ett av revisorernas ord – inte,
+  inte fullt ut, delvis, i stort, i huvudsak eller i allt väsentligt –
+  eller en fil med en okänd fas eller något annat som stoppar en annan
+  spårfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden och felet.
+
 ## K44 — Detaljplanerna steg för steg
 
 Hur och varför står i

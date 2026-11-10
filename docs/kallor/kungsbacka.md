@@ -876,6 +876,35 @@ har 65 planer med 168 steg (kontrollerat 2026-11-10 i poolen):
   avtal, tillsyn, bygglov och planer som bara finns före 2024 står inte
   med.
 
+### Revisionens granskningar
+
+Granskningssidorna (K43,
+[ADR-0066](../decisions/0066-revisionens-granskningar-foljs-per-namnd.md))
+har 52 granskningar med 152 steg i tio organ (kontrollerat 2026-11-10 i
+poolen):
+
+- **Revisionen publicerar bara protokoll** (2019–2026), sedan 2023
+  ofta som "sammanträdesanteckningar". Rubrikerna är ojämna:
+  "Avrapportering …", "Godkännande av …", "Projektplan …". Projektplaner
+  och rapporter står med som steg; revisionens ekonomi, arvoden, kurser,
+  dialoger och informationspunkter står inte med.
+- **Rapporten med bedömningen** finns bara när den ligger i en nämnds,
+  kommunstyrelsens eller fullmäktiges handlingar, oftast som underlag
+  till nämndens svar. Revisorerna skriver bedömningen som "Vår
+  sammanfattande bedömning …" eller "Vi bedömer att nämnden …"; en
+  granskning av flera nämnder har en bedömning för var och en.
+- **Nämndernas svar** heter "Svar till kommunrevisionen …", "Yttrande
+  över revisionsrapport …" eller bara granskningens namn, och beslutet
+  är att nämnden antar svaret och översänder det. Den grundläggande
+  granskningen tar nämnderna oftast bara som information, och då står
+  den inte med.
+- **Fullmäktige** har en stående punkt, "Information om
+  revisionsrapporter från kommunrevisionen", där revisorerna berättar
+  om granskningar, årsredovisningen och delårsrapporten.
+- Kommunstyrelsens anmälningar av inkomna rapporter, lekmannarevisionen
+  av bolagen, granskningarna av stiftelser och gemensamma nämnder och
+  ansvarsfriheten står inte med.
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena

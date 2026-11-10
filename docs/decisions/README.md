@@ -89,4 +89,5 @@ Regler för det här repot, utöver MADR:
 | 0063 | [Löptext i spalter läses spalt för spalt med XY-snitt över textlagrets rader](0063-spalter-lases-spalt-for-spalt.md) | proposed |
 | 0064 | [Text på högkant tas ur flödet och skrivs sist på sidan; på en OCR-sida målas den vit och sidan läses om](0064-text-pa-hogkant-skrivs-sist.md) | proposed |
 | 0065 | [Redovisningarna följs steg för steg som handlingsplanerna, och direktiv som beställer en redovisning flyttar från målsidan](0065-redovisningarna-foljs-som-handlingsplanerna.md) | proposed |
+| 0066 | [Revisionens granskningar följs steg för steg per granskat organ, med stegen i alla organs dokument](0066-revisionens-granskningar-foljs-per-namnd.md) | proposed |
 | 0067 | [Detaljplanerna följs steg för steg som redovisningarna, med besluten i alla organs protokoll](0067-detaljplanerna-foljs-som-redovisningarna.md) | proposed |
