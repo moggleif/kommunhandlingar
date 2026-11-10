@@ -381,6 +381,24 @@ med de här skillnaderna:
   förvaltningsbudget och genomförandeplan, nämndbudgeten och
   bearbetningen av målformuleringen 2023.
 
+Service (kontrollerat 2026-11-10 i poolen) har en annan form:
+
+- **Poolen har 2013–2016 och 2021–2026.** 2017–2020 är inte hämtat
+  (utom en handling 2019), och handlingarna till fem möten 2022 är inte
+  hämtade. Nämnden har inget arbetsutskott.
+- **Målbild i stället för nämndmål.** Nämndbudgeten 2022 har nämndens
+  målbild med åtta rubriker; från nämndbudget 2024 står Målbild 2027 med
+  fem rubriker. Formuleringen är rubrikens första mening. Rubriken om
+  arbetsplatsen är grupperad som tolkad. Nämndbudget 2023 finns inte i
+  poolen.
+- **Ingen status.** Nämnden följer upp fullmäktiges mål, inte målbilden,
+  så raderna har ingen bedömning.
+- **Protokollen** har årsredovisningen, aprilrapporten och
+  delårsrapporten. Dragningar är förvaltningsbudget och verksamhetsplan,
+  nämndbudgeten, arbetet med Målbild 2027 och utvecklingsportföljen.
+  Månadsrapporterna (projektinformation, delegeringsbeslut) står inte
+  med.
+
 ### Kommunfullmäktiges mål och direktiv
 
 Fullmäktiges egen sida (K35,
@@ -542,6 +560,22 @@ lokaliseringen i Kläppa 2:2. Parkeringshuset Linden står med som utfört
 2021. Gator, VA-ledningar och cykelvägar är investeringar men inte
 lokaler och står inte med.
 
+Service bygger och hyr lokaler åt alla nämnder. De projekten hör till
+beställarens sida, där servicens projektinformation är steg när
+beställaren har en rad för behovet. Servicenämndens egen sida har bara
+nämndens egna behov ur beslutet "Service Lokalbehov" (2021–2026) och
+löpnumren i Service-avsnittet i lokalplanen (1405, 1407, 1500–1520 och
+238): kök och matsalar, datahallar och förråd, toaletter vid badplatser,
+rivningar och avvecklingar, administrativa lokaler, renoveringar som
+nämnden anmält 2023 och från 2026 tillagningskök, valförråd och yta för
+civil beredskap. Pågår och utfört tas ur projektinformationen och
+investeringstabellerna i årsredovisningen. Servicens projektnummer
+(16xx, 21xx, 49xx) är inte lokalplanens löpnummer, så en koppling genom
+projektnumret eller bara på namnet är tolkad. Att köket i Kapareskolan,
+Fjordskolans kök och toaletten vid Gårda brygga lades ned står inte med,
+eftersom sidan saknar ett steg för det; behoven står med till sitt
+sista steg.
+
 ### Nämndernas initiativärenden
 
 Initiativfilen (K37,
@@ -623,6 +657,14 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   dricksvattenavtalet, gatubelysning längs statlig väg med flera) följs
   som initiativ med avsändaren `Nämnden`.
 
+- **Service** (2020–2026, kontrollerat 2026-11-10) har få initiativ:
+  partiernas initiativ (2024 och 2025) och nämndens uppdrag till
+  förvaltningen (delning av personalbil, Löftagården, måltiderna vid Kolla,
+  gröna hyresavtal, laddstationer, lokalvården vid Elof Lindälvs
+  gymnasium), som följs med avsändaren `Nämnden`. Prova på skollunchen
+  har avsändaren så som protokollet skriver den.
+  Kommunstyrelsens initiativ som nämnden yttrar sig över står inte med.
+
 ### Nämndernas redovisningar
 
 Redovisningssidan (K42,
@@ -693,6 +735,17 @@ planer (vattentjänstplanen, dagvattenplanen, trafikstrategin, gång- och
 cykelplanen, lekplatserna, återvinningscentralerna, slamstrategin,
 trafikförsörjningsprogrammen och budget i balans) står på
 handlingsplanssidan; remisser av andras planer står inte med.
+
+Service (kontrollerat 2026-11-10) har slutredovisningarna av byggprojekten,
+också de som byggts åt andra nämnder, informationen om Kungsbacka Arena
+(en gång 2024 och månatligt från 2026, med kommunstyrelsen som
+projektägare), dataskyddet,
+inköpsrapporten, utvecklingsportföljen och det systematiska
+arbetsmiljöarbetet. Nämndens styrdokument (koncepten för boende,
+idrottshall, kök och utemiljö, principerna för lokalplanering och
+livsmedelsinköp, riktlinjerna för direktupphandling, fordonspolicyn och
+fastighetsstrategin) står på handlingsplanssidan. Yttranden över andras
+detaljplaner står inte med.
 
 ### Dokumentens innehåll
 
