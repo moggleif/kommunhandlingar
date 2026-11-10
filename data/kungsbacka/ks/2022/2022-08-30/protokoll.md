@@ -14,9 +14,9 @@ bytes: null
 sidor: null
 hamtad: 2026-11-07T12:09:01+00:00
 konverterad: null
-pipeline: kommunhandlingar 0.10.0
+pipeline: kommunhandlingar 0.11.0
 kvalitet: ej-hamtad
-fel: http-302
+fel: anslutning
 kvalitet_per_sida: null
 tal_obekraftade: null
 figurer: null
