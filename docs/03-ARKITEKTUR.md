@@ -222,8 +222,8 @@ src/kommunhandlingar/
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
-                   handlingsplanerna, redovisningarna, detaljplanerna och
-                   avvikelserna
+                   handlingsplanerna, redovisningarna, detaljplanerna,
+                   granskningarna och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -233,6 +233,7 @@ initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna f
 handlingsplaner/<kommun>.csv  nämndernas handlingsplaner steg för steg, skrivna för hand (K38)
 redovisningar/<kommun>.csv  nämndernas redovisningar steg för steg, skrivna för hand (K42)
 detaljplaner/<kommun>.csv  detaljplanerna steg för steg, skrivna för hand (K44)
+granskningar/<kommun>.csv  revisionens granskningar steg för steg, skrivna för hand (K43)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -2009,3 +2010,40 @@ skillnaderna:
 - **Värdet** används inte.
 - **Tolkad:** ett steg har `tolkad` satt till `ja` när källan kallar
   planen något annat och inte själv säger att det är samma plan.
+
+## Granskningar
+
+Hur och varför står i
+[ADR-0066](decisions/0066-revisionens-granskningar-foljs-per-namnd.md).
+En kommun med en fil `granskningar/<kommun>.csv` får en sida
+`<kommun>/<organ>/granskningar.html` för varje organ med rader i filen
+(K43). Organet är det granskade: nämnden, eller kommunstyrelsen för en
+granskning av hela kommunen, som dessutom står under varje nämnd som
+svarar själv. Filen,
+kontrollen och sidan är redovisningarnas ([Redovisningar](#redovisningar)),
+med de här skillnaderna:
+
+- **Kolumnen** `granskning`: granskningens namn på sidan, detsamma i
+  alla steg och för alla organ som har den.
+- **Faserna** är `projektplan` (revisionen beslutar projektplanen),
+  `rapport` (revisionen antar eller godkänner granskningen; inte när
+  den bara noterar informationen),
+  `bedomning` (revisorernas sammanfattande bedömning, i rapporten eller
+  återgiven i ärendet om svaret),
+  `svar` (nämndens svar, yttrande eller beslut om åtgärder; inte
+  information som nämnden bara noterar),
+  `fullmaktige` (revisionen informerar fullmäktige om granskningen) och
+  `uppfoljning` (den uppföljande granskningen eller nämndens svar på
+  den).
+- **Värdet** används bara i `bedomning`, och är ett av revisorernas ord:
+  `inte`, `inte fullt ut`, `delvis`, `i stort`, `i huvudsak` eller
+  `i allt väsentligt`. Ordet står på källans sida, och testet för
+  Kungsbackas fil prövar att det också står i stegets text.
+- **Återkommande granskningar** – årsbokslutet, delårsrapporten, den
+  löpande och den grundläggande granskningen – är en rad med ett steg
+  per år.
+- **Tolkad:** ett steg har `tolkad` satt till `ja` när källan inte själv
+  säger att det gäller granskningen.
+- **Formerna** som faserna ritas med delas av alla slag och står i
+  `sparformer.py`. Slaget står i `granskningsslag.py` och listas i
+  `sparslag.py` med de andra.

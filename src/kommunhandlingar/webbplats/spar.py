@@ -6,8 +6,8 @@ Läser en spårfil, `<slag>/<kommun>.csv`: en rad per steg en sak tar över
 tid – ett lokalbehov, ett initiativärende, en handlingsplan – med en sida
 i ett dokument i poolen som källa. Källan får vara vilket organs dokument som helst. Vad
 som skiljer slagen åt – kolumnens namn, faserna, värdena och sidans text –
-står i `sparslag.py`. Bygget stoppas med raden när den inte går ihop med
-kommunfilen och poolen (docs/03-ARKITEKTUR.md#lokalbehov och
+står i `sparslag.py` och `granskningsslag.py`. Bygget stoppas med raden
+när den inte går ihop med kommunfilen och poolen (docs/03-ARKITEKTUR.md#lokalbehov och
 #initiativärenden och #handlingsplaner).
 """
 
