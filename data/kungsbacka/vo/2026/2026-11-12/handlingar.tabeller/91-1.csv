@@ -1,0 +1,20 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för äldre och personer med funktionsnedsättning,,,,
+Process:,Hantera trygghetslarm,,,,
+Processnummer:,6.5.2.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Beställa,"Nybeställningar samt avbeställningar
+på trygghetslarm/lås i kvarboende",Combine,Digital,Se anmärkning,"Kan gallras efter att
+meddelandet med
+beställningen från Myndighet
+har skickats via Combine till
+enheten Innovation &
+digitalisering och
+beställningen har utförts."
+,"Arbetsorder till servicetekniker på
+Förvaltningen för Service",Opticare,Digital,2 år,
+Dokumentera,"Tillsynslista när de digitala
+trygghetslarmen är utslagna",I Care,Digital,Vid inaktualitet,
+,"Tillsynslista för tillbehörslarm för
+funktionsbevakning",Samarbetsrum,Digital,1 vecka,Gallras 1 gång varje vecka.

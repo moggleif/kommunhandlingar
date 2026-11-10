@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.69ba44111969f9e427016981/1746512274
 sha256: 6022136bd698196ef4b024f42601ade47081265a852a4d151819b1dd0338db6b
 bytes: 277556368
 sidor: 1016
-hamtad: 2026-10-25T10:41:33+00:00
-konverterad: 2026-10-25T10:54:45+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T01:23:49+00:00
+konverterad: 2026-11-10T01:38:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -260,6 +260,43 @@ Transaktionsidentitet: 8300BAB28540CA7B64192C2E4A80E95BEBE5B6C31A
 
 <!-- sida 11 -->
 
+Svar på interpellation från Magdalena Sundqvist (S) om
+finansiering av resursskola
+1 (2)
+
+Datum
+2025-02-25
+Interpellationssvar
+
+Jag vill inledningsvis tacka Magdalena Sundqvist för hennes interpellation. Nedan
+följer mina svar på de tre frågor som ställts.
+
+Fråga 1: Är det ett korrekt handhavande att driva en resursskola med medel från
+Förskola och Grundskolas resultatfond?
+Svar: Medel ur en resultatfond får användas för driftkostnader av
+engångskaraktär. De får inte användas för nivåhöjande kostnader som inte
+ryms inom budget. Som ordförande har jag inte uppfattat att nämnden avser
+
+att avvika från rådande ekonomistyrprinciper.
+I den artikel som interpellanten hänvisar till framgår också att resonemanget
+som förs av undertecknad avser eventuell uppstarskostnad och inte långsiktig
+driftkostnad.
+
+Fråga 2: Om inte, hur ska den bekostas? Finns det en risk att övriga befintliga
+grundskolor får mindre medel på grund av detta?
+
+Svar: Nämnden för Förskola och Grundskola fattar som tidigast beslut om
+införande av resursskola den nittonde mars, det vill säga efter fullmäktiges
+sammanträde och denna interpellations besvarande. Ett eventuellt införande
+och formerna för dess finansiering beslutas genom ett majoritetsbeslut i
+nämnden som jag inte kan eller vill föregå. Jag återkommer gärna i frågan efter
+att ett beslut är fattat.
+
+I de diskussioner som har förts kring ett eventuellt införande av resursskola har
+jag uppfattat att merparten av nämnden ser resursskola som ett viktigt verktyg
+för att skapa en tillgänglig lärmiljö för en elevgrupp som idag ofta har svårt att
+nå sin fulla potential i våra ordinarie skolor.
+
 Emanuel Forsell                                              Kungsbacka kommun
 Ordförande                                                    434 81 Kungsbacka
 Nämnden för Förskola & Grundskola
@@ -269,38 +306,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-32-50-2102
-,0.2v
-,0002BUK
-Svar på interpellation från Magdalena Sundqvist (S) om
-finansiering av resursskola
-1 (2)
-Datum
-2025-02-25
-Interpellationssvar
-Jag vill inledningsvis tacka Magdalena Sundqvist för hennes interpellation. Nedan
-följer mina svar på de tre frågor som ställts.
-Fråga 1: Är det ett korrekt handhavande att driva en resursskola med medel från
-Förskola och Grundskolas resultatfond?
-Svar: Medel ur en resultatfond får användas för driftkostnader av
-engångskaraktär. De får inte användas för nivåhöjande kostnader som inte
-ryms inom budget. Som ordförande har jag inte uppfattat att nämnden avser
-att avvika från rådande ekonomistyrprinciper.
-I den artikel som interpellanten hänvisar till framgår också att resonemanget
-som förs av undertecknad avser eventuell uppstarskostnad och inte långsiktig
-driftkostnad.
-Fråga 2: Om inte, hur ska den bekostas? Finns det en risk att övriga befintliga
-grundskolor får mindre medel på grund av detta?
-Svar: Nämnden för Förskola och Grundskola fattar som tidigast beslut om
-införande av resursskola den nittonde mars, det vill säga efter fullmäktiges
-sammanträde och denna interpellations besvarande. Ett eventuellt införande
-och formerna för dess finansiering beslutas genom ett majoritetsbeslut i
-nämnden som jag inte kan eller vill föregå. Jag återkommer gärna i frågan efter
-att ett beslut är fattat.
-I de diskussioner som har förts kring ett eventuellt införande av resursskola har
-jag uppfattat att merparten av nämnden ser resursskola som ett viktigt verktyg
-för att skapa en tillgänglig lärmiljö för en elevgrupp som idag ofta har svårt att
-nå sin fulla potential i våra ordinarie skolor.
+
+KUB2000, v2.0, 2012-05-23
 
 <!-- sida 12 -->
 
@@ -997,7 +1004,7 @@ fortsätter att vara så än idag.
 Il årsredovisningen från denna tid kunde man läsa:
 
 ” Med åren har det visat sig allt viktigare att säkra vårt dricksvatten som resurs. Det gäller allt från
-tillräcklig mängd vid torka till att vattnet är säkert och drickbart. I tider med hot från olika håll blir
+tillräcklig mänga vid torka till att vattnet är säkert och drickbart. I tider med hot från olika håll blir
 det extra viktigt. Kommunen samarbetar därför över kommungränserna bland annat med att
 säkra dricksvattentillgången vid kriser.”
 
@@ -1418,8 +1425,6 @@ Transaktionsidentitet: 87580B4B1F3E68824A0EEBB7324FF1CD7C689CFC48
 Transaktionsidentitet: 8300BAB28540CA7B64192C2E4A80E95BEBE5B6C31A
 
 <!-- sida 38 -->
-
-fo Sberigedemokraderna
 
 Kungsbacka 250220
 
@@ -12386,6 +12391,8 @@ visas åldersgruppernas andel av total befolkning.
 Kungsbacka har en högre andel personer mellan 12–18 år och 45–55 år än riket. Däremot är andel
 mellan 20–29 år betydligt lägre än riket.
 
+Åldersfördelning i Kungsbacka och riket 2023
+
 1,8%
 1,6%
 
@@ -12402,14 +12409,81 @@ mellan 20–29 år betydligt lägre än riket.
 
 0,0%
 
+Kungsbacka   Riket
+
 Figur 1 - Åldersfördelning för Kungsbacka och Riket Källa: Statistiska Centralbyrån (SCB) 2024
 En jämförelse mellan åldersgrupperna i kommunen från 2002 till 2022 visar att andelen personer
 över 65 år har ökat. Samtidigt har det skett en minskning i åldrarna 0–14 år och 25–44 år.
 
 6
-1 4 7 01 31 61 91 22 52 82 13 43 73 04 34 64 94 25 55 85 16 46 76 07 37 67 97 28 58 88 19 49 79 001
-Åldersfördelning i Kungsbacka och riket 2023
-Kungsbacka   Riket
+
+1
+
+4
+
+7
+
+10
+
+13
+
+16
+
+19
+
+22
+
+25
+
+28
+
+31
+
+34
+
+37
+
+40
+
+43
+
+46
+
+49
+
+52
+
+55
+
+58
+
+61
+
+64
+
+67
+
+70
+
+73
+
+76
+
+79
+
+82
+
+85
+
+88
+
+91
+
+94
+
+97
+
+100
 
 <!-- sida 298 -->
 
@@ -12449,6 +12523,8 @@ fördelning av åldersgrupperna, medan Gällinge har färre personer i åldern 1
 
 <!-- sida 299 -->
 
+Åldersfördelning
+
 10,0%
 
 9,0%
@@ -12466,40 +12542,44 @@ fördelning av åldersgrupperna, medan Gällinge har färre personer i åldern 1
 1,0%
 0,0%
 
+Femårsklasser
+
+Kungsbacka stad Släp    Vallda    Onsala   Kungsbacka
+
 Figur 3 - Åldersfördelning per delområden Kungsbacka stad, Släp, Vallda och Onsala samt hela kommunen, femårsklasser. Källa:
 Kungsbacka kommun
+
+Åldersfördelning
+
+10,0%
+9,0%
+
+8,0%
+7,0%
+
+6,0%
+5,0%
+
+4,0%
+3,0%
+
+2,0%
+
+1,0%
+0,0%
+
+Femårsklasser
+
+Fjärås   Åsa Frillesås Gällinge  Älvsåker   Kungsbacka
 
 Figur 4 - Åldersfördelning per delområden Fjärås, Åsa Frillesås, Gällinge, Älvsåker samt hela kommunen, femårsklasser. Källa:
 Kungsbacka kommun
 
 8
-13-21-2202
-gninklofeb
-latot
-va
-lednA
-Åldersfördelning
-Femårsklasser
-Kungsbacka stad Släp    Vallda    Onsala   Kungsbacka
-10,0%
-9,0%
-8,0%
-7,0%
-6,0%
-5,0%
-4,0%
-3,0%
-2,0%
-1,0%
-0,0%
-13-21-2202
-gninklofeb
-latot
-va
-lednA
-Åldersfördelning
-Femårsklasser
-Fjärås   Åsa Frillesås Gällinge  Älvsåker   Kungsbacka
+
+Andel av total befolkning 2022-12-31
+
+Andel av total befolkning 2022-12-31
 
 <!-- sida 300 -->
 
@@ -12556,6 +12636,9 @@ Detta indikerar en grov återvändargrad i området.
 
 <!-- sida 301 -->
 
+2018-2023 summerade flyttningar per åldersklass
+
+Inflyttning Utflyttning Netto
 1200
 
 1000
@@ -12571,21 +12654,23 @@ Detta indikerar en grov återvändargrad i området.
 -400
 -600
 -800
+Ålder
 
 Figur 6 – De fem senaste årens summerade flyttningar för åldersspannet 16 till 44. Källa: SCB, bearbetat av Kungsbacka kommun
 
 10
-3202-8102
-nammuS
-2018-2023 summerade flyttningar per åldersklass
-Inflyttning Utflyttning Netto
-Ålder
+
+Summan 2018-2023
 
 <!-- sida 302 -->
 
 1.2.1.3 Disponibel inkomst för olika grupper
 Kungsbacka kommun har den högsta medianinkomsten av alla GR-kommuner och Hallands
 kommuner 2021. Detta är en viktig faktor för att kunna skaffa en bostad på bostadsmarknaden.
+
+Förvärvsinkomst alla över 16 år
+
+2001 2011 2021
 
 450,0
 400,0
@@ -12599,23 +12684,21 @@ kommuner 2021. Detta är en viktig faktor för att kunna skaffa en bostad på bo
 50,0
 0,0
 
+GR-kommun och Halland
+
 Figur 7 - Median av summerad förvärvsinkomst per individ mellan 16–74 år efter år. Källa: SCB 2022
 När det kommer till förvärvsinkomst finns det en tydlig skillnad mellan könen. Både män och
 kvinnor i Kungsbacka har en högre medianinkomst än genomsnittet för Hallands län och riket.
 Dock tjänar män mer än kvinnor på alla nivåer.
 
-Figur 8 - Summerad förvärvsinkomst efter riket/region/kommun och kön. Källa: SCB
+Förvärvsinkomst, median
 
-11
-tsmoknisvrävröf
-daremmus
-naideM
-Förvärvsinkomst alla över 16 år
-2001 2011 2021
-GR-kommun och Halland
+Kungsbacka män  Kungsbacka kvinnor Halland män
+Halland kvinnor Riket män       Riket kvinnor
 500
 450
 400
+
 350
 300
 250
@@ -12624,12 +12707,16 @@ GR-kommun och Halland
 100
 50
 0
-tsmoknisvrävröf
-naideM
-Förvärvsinkomst, median
-Kungsbacka män  Kungsbacka kvinnor Halland män
-Halland kvinnor Riket män       Riket kvinnor
+
 År
+
+Figur 8 - Summerad förvärvsinkomst efter riket/region/kommun och kön. Källa: SCB
+
+11
+
+Median förvärvsinkomst
+
+Median summerad förvärvsinkomst
 
 <!-- sida 303 -->
 
@@ -12645,6 +12732,9 @@ Förvärvsinkomsten är lägre för personer som är utrikesfödda i hela GR-omr
 kommuner. Kungsbacka har den tredje största skillnaden mellan dessa grupper av kommuner i
 GR-området och Hallands kommuner.
 
+Förvärvsinkomst efter bakgrund
+
+födda i Sverige utrikes födda
 500
 450
 400
@@ -12657,6 +12747,8 @@ GR-området och Hallands kommuner.
 50
 0
 
+GR-kommuner och Hallands kommuner
+
 Figur 10 - Median för sammanräknad förvärvsinkomst efter kommun och bakgrund 2021. Källa: SCB 2022
 
 Under 2010-talet har förvärvsinkomsten för personer som bor i Kungsbacka kommun utvecklats
@@ -12664,16 +12756,18 @@ olika beroende på hur länge de har vistats i Sverige . De som har vistats i Sv
 tid har haft en större ökning i sin förvärvsinkomst jämfört med tidigare. Det finns dock en
 
 12
-tsmoknisvrävröf
-naideM
-Förvärvsinkomst efter bakgrund
-födda i Sverige utrikes födda
-GR-kommuner och Hallands kommuner
+
+Median förvärvsinkomst
 
 <!-- sida 304 -->
 
 betydande skillnad i inkomstnivå mellan dem och personer som har bott i Sverige under en längre
 tid.
+
+Sammanräknad  förvärvsinkomst för boende i Kungsbacka
+efter vistelsetid i Sverige
+
+1-2 år i Sverige 3-4 år i Sverige 5-9 år i Sverige 10-19 år i Sverige
 
 400,0
 350,0
@@ -12711,11 +12805,8 @@ egna hushållets ekonomi under det närmaste året, jämfört med 20 procent i d
 befolkningen. Källa: SCB (2022). Sämre ekonomi för personer med funktionsnedsättning.
 
 13
-tsmoknisvrävröf
-naideM
-Sammanräknad  förvärvsinkomst för boende i Kungsbacka
-efter vistelsetid i Sverige
-1-2 år i Sverige 3-4 år i Sverige 5-9 år i Sverige 10-19 år i Sverige
+
+Median förvärvsinkomst
 
 <!-- sida 305 -->
 
@@ -12754,7 +12845,9 @@ sjunkande fruktsamhet.
 
 <!-- sida 306 -->
 
-Framskrivning 2050;
+Folkmängd och folkökning per år, utfall och enligt prognos
+
+Folkökning Folkmängd Framskrivning 2050;
 109763
 1 800                                                 120 000
 Prognos 2033;
@@ -12772,29 +12865,79 @@ Prognos 2033;
 0                                                   20 000
 -200
 -400                                                  0
+År
 Figur 13 - Folkmängd och folkökning i Kungsbacka efter år. Vinrött är utfall och blått är prognos (2024–2033) samt framskrivning (2034–
 2050). Källa: Kungsbacka kommuns befolkningsprognos 2024–2050
 1.2.2.2 Förväntad åldersstruktur
 Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år beräknas att öka från
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
-
 2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
-rå
-rep
-gninkökloF
-0002 2002 4002 6002 8002 0102 2102 4102 6102 8102 0202 2202 4202 6202 8202 0302 2302 4302 6302 8302 0402 2402 4402 6402 8402 0502
-rå
-rep
-dgnämkloF
-Folkmängd och folkökning per år, utfall och enligt prognos
-Folkökning Folkmängd
-År
+
+Folkökning per år
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2028
+
+2030
+
+2032
+
+2034
+
+2036
+
+2038
+
+2040
+
+2042
+
+2044
+
+2046
+
+2048
+
+2050
+
+Folkmängd per år
 
 <!-- sida 307 -->
+
+Åldersfördelning i Kungsbacka, utfall och enligt prognos
+
+2022   2032
 
 1,8%
 1,6%
@@ -12810,59 +12953,115 @@ Folkökning Folkmängd
 0,2%
 0,0%
 
+Ålder
+
 Figur 14 - Åldersgrupper andel av total folkmängd enligt utfall och prognos. Källa: Kungsbacka kommuns befolkningsprognos 2023–
 2050
 Det är främst gruppen över 80 år som beräknas att öka i Kungsbacka och hela landet. Detta beror
 på de stora åldersgrupperna födda under 1940-talet i kombination med en ökande medellivslängd.
 
-Figur 15 - Antal folkbokförda i Kungsbacka efter åldersgrupper. Utfall i blått och prognos i vinrött. Källa: Kungsbacka kommuns
-befolkningsprognos 2023–2050
-
-16
-negninklofeb
-latot
-va
-ledna
-neppurgsredlÅ
-0 3 6 9 21 51 81 12 42 72 03 33 63 93 24 54 84 15 45 75 06 36 66 96 27 57 87 18 48 78 09 39 69 99
-Åldersfördelning i Kungsbacka, utfall och enligt prognos
-2022   2032
-Ålder
-30 000
-25 000
-20 000
-15 000
-10 000
-5 000
-0
-0-6 7-9 10-12 13-15 16-19 20-24 25-29 30-44 45-64 65-79 80-89 90-
-adröfkobklof
-latnA
 2010
 Antal folkbokförda i Kungsbacka efter åldersgrupp, utfall och prognos
 2011
 2012
+30 000
 2013
 2014
-2015
+25 000                                                      2015
 2016
 2017
-2018
+20 000                                                      2018
 2019
 2020
-2021
+15 000                                                      2021
 2022
 2023
+10 000
 2024
 2025
-2026
+5 000                                                       2026
 2027
 2028
-2029
-2030
+0                                                        2029
+0-6 7-9 10-12 13-15 16-19 20-24 25-29 30-44 45-64 65-79 80-89 90- 2030
 2031
 Åldersgrupper
 2032
+Figur 15 - Antal folkbokförda i Kungsbacka efter åldersgrupper. Utfall i blått och prognos i vinrött. Källa: Kungsbacka kommuns
+befolkningsprognos 2023–2050
+16
+
+Antal folkbokförda
+
+Åldersgruppen andel av total befolkningen
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+30
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+90
+
+93
+
+96
+
+99
 
 <!-- sida 308 -->
 
@@ -12892,24 +13091,30 @@ första gång på fem år under 2022. Onsala är de delområdet med högst andel
 19 och personer mellan 45–59 år, vilket gör att befolkningen beräknas att minska under
 prognosperioden.
 
+Befolkningsutveckling samtliga åldersgrupper
+
 35 000 Kungsbacka Stad;
 23927
 30 000
-25 000                   Onsala;
+2023
+25 000                   Onsala;                          2024
 14231       Åsa Frillesås;
-Släp;                    10712
+Släp;                    10712               2025
 20 000       12549
-Fjärås;            Älvsåker;
+Fjärås;            Älvsåker; 2026
 Vallda;      6638                6195
-15 000            8823                     Gällinge;
+15 000            8823                     Gällinge;      2027
 2457
+2028
 10 000
-5 000
+2029
+5 000                                                     2030
+2031
 0
-
+2032
+2033
 Figur 17 - Antal folkbokförda i Kungsbacka efter planeringsområde. Siffran i pratbubblan är antal folkbokförda per 2023. Källa:
 Kungsbacka kommuns befolkningsprognos 2024–2050
-
 1.3 Bostäder
 
 Sammanfattning
@@ -12928,20 +13133,8 @@ Mål enligt Kungsbackas bostadsförsörjningsprogram 2019–2025 var att Kungsba
 för 500 bostäder per år.
 
 18
-adröfkobklof
-latnA
-Befolkningsutveckling samtliga åldersgrupper
-2023
-2024
-2025
-2026
-2027
-2028
-2029
-2030
-2031
-2032
-2033
+
+Antal folkbokförda
 
 <!-- sida 310 -->
 
@@ -13002,6 +13195,10 @@ Kungsbacka har haft en betydligt högre prisutveckling än Varberg som har vuxit
 
 <!-- sida 312 -->
 
+Prisutveckling för småhus
+
+Kungsbacka  Göteborg  Härryda  Kungälv   Mölndal  Varberg
+
 60 000                                            Göteborg; 50897
 
 50 000                                               Mölndal; 49695
@@ -13023,6 +13220,21 @@ kan kraftigt variera mellan åren vilka objekt som har varit till salu, men det 
 prisnivån. I början av september 2023 var medelvärdet för en villa i Kungsbacka de nästhögst av
 närliggande kommuner.
 
+Pris för villor senaste 12 månader, 2023-09-08
+
+7 000 000      Kungsbacka;
+5596000
+6 000 000
+5 000 000
+
+4 000 000
+3 000 000
+
+2 000 000
+1 000 000
+
+0
+
 Figur 21 - Medelvärde för köpeskillnad senaste 12 månaderna från 2023-09-08. Källa: Mäklarstatsik.se
 
 Prisutvecklingen per kvadratmeter för bostadsrätter har också ökat sedan 2000. Även här är
@@ -13030,25 +13242,16 @@ kvadratmeterpris för bostadsrätter det näst högsta i Kungsbacka. Detta inneb
 god inkomst för att kunna köpa sig en lägenhet i Kungsbacka.
 
 21
-mvk/rk
-,sirpstehgitsaF
-Prisutveckling för småhus
-Kungsbacka  Göteborg  Härryda  Kungälv   Mölndal  Varberg
-7 000 000      Kungsbacka;
-5596000
-6 000 000
-5 000 000
-4 000 000
-3 000 000
-2 000 000
-1 000 000
-0
-gninjläsröf
-div
-edrävledeM
-Pris för villor senaste 12 månader, 2023-09-08
+
+Medelvärde vid försäljning
+
+Fastighetspris, kr/kvm
 
 <!-- sida 313 -->
+
+Prisutveckling för bostadsrätter
+
+Kungsbacka  Göteborg  Härryda   Kungälv   Mölndal   Varberg
 
 60 000
 Göteborg; 45983
@@ -13071,31 +13274,32 @@ Figur 22 - Kvadratmeterpris per bostadsrätter 2000–2022. Källa: Kolada.se
 och privata fastighetsvärdar i Göteborgsområdet. Mellan 2022 och 2023 var medianvärdet för den
 årliga ökningen i procent betydligt högre än någon annan gång under perioden.
 
-Figur 23 - Median för procentuell ökning av hyra för en hyresrätt i Storgöteborg. Källa: SCB
+Procentuell ökning på hyra i hyresrätter
 
-22
-mvk/rk
-,sirpstehgitsaF
-Prisutveckling för bostadsrätter
-Kungsbacka  Göteborg  Härryda   Kungälv   Mölndal   Varberg
 5,0
 4,5
 4,0
+
 3,5
 3,0
 2,5
+
 2,0
 1,5
 1,0
+
 0,5
 0,0
 2016    2017   2018    2019    2020   2021    2022    2023
-rettärseryh
-röf
-gninkötnecorp
-,naideM
-Procentuell ökning på hyra i hyresrätter
 Stor-Göteborg privata och övriga fastighetsägare Stor-Göteborg allmännyttiga bostadsföretag
+
+Figur 23 - Median för procentuell ökning av hyra för en hyresrätt i Storgöteborg. Källa: SCB
+
+22
+
+Fastighetspris, kr/kvm
+
+Median, procentökning för hyresrätter
 
 <!-- sida 314 -->
 
@@ -14763,6 +14967,13 @@ lägst andel bor i Gällinge. För gruppen över
 30 så minskar andelen som bor i
 Kungsbacka stad.
 
+Figur 85 - Antal folkbokförda i Kungsbackas planeringsområden 2022-
+12-31. Källa: SCB
+Andel av total befolkning boende inom planeringsområde
+2022
+
+20-24 år 25-29 år 30-44 år
+
 50    45
 45
 40
@@ -14782,15 +14993,8 @@ Unga mellan 20–29 år flyttar ofta, det syns sett till antal flyttar under de 
 Lund och Stockholm.
 
 65
-negninklofeb
-latot
-va
-lednA
-Figur 85 - Antal folkbokförda i Kungsbackas planeringsområden 2022-
-12-31. Källa: SCB
-Andel av total befolkning boende inom planeringsområde
-2022
-20-24 år 25-29 år 30-44 år
+
+Andel av total befolkningen
 
 [Tabell 356-1](handlingar.tabeller/356-1.csv)
 
@@ -14808,6 +15012,10 @@ Andel av total befolkning boende inom planeringsområde
 
 <!-- sida 357 -->
 
+Antal in- och utflyttning mellan 2018-2022 till Kungsbacka
+
+Inflyttning Utflyttning Netto
+
 1500
 
 1000
@@ -14819,6 +15027,7 @@ Andel av total befolkning boende inom planeringsområde
 -500
 
 -1000
+Ettårsklasser
 
 Figur 87 - Antal flyttar över kommungränsen efter ålder mellan 2018–2022. Källa: SCB 2022
 Under 2023 hade åldersgruppen 20–24 år det största negativa flyttningsöverskottet, med ett
@@ -14829,85 +15038,85 @@ Under 2000-talet var antalet in- och utflyttningar för åldersgruppen 20–29 �
 har både in- och utflyttningar ökat, men från 2018 har utflyttningarna ökat i högre takt. År 2023 var
 
 66
-rattylf
-latnA
-rå
-0
-rå
-3
-rå
-6
-rå
-9
-rå
-21
-rå
-51
-rå
-81
-rå
-12
-rå
-42
-rå
-72
-rå
-03
-rå
-33
-rå
-63
-rå
-93
-rå
-24
-rå
-54
-rå
-84
-rå
-15
-rå
-45
-rå
-75
-rå
-06
-rå
-36
-rå
-66
-rå
-96
-rå
-27
-rå
-57
-rå
-87
-rå
-18
-rå
-48
-rå
-78
-rå
-09
-rå
-39
-rå
-69
-rå
-99
-Antal in- och utflyttning mellan 2018-2022 till Kungsbacka
-Inflyttning Utflyttning Netto
-Ettårsklasser
+
+Antal flyttar
+
+0 år
+
+3 år
+
+6 år
+
+9 år
+
+12 år
+
+15 år
+
+18 år
+
+21 år
+
+24 år
+
+27 år
+
+30 år
+
+33 år
+
+36 år
+
+39 år
+
+42 år
+
+45 år
+
+48 år
+
+51 år
+
+54 år
+
+57 år
+
+60 år
+
+63 år
+
+66 år
+
+69 år
+
+72 år
+
+75 år
+
+78 år
+
+81 år
+
+84 år
+
+87 år
+
+90 år
+
+93 år
+
+96 år
+
+99 år
 
 <!-- sida 358 -->
 
 skillnaden mellan in- och utflyttningar den största hittills. Ett negativt flyttningsöverskott innebär att
 fler flyttar ut från kommunen än in.
 
+Antal in- och utflyttningar per år för åldersgruppen 20-29 år
+
+Inflyttningar Utflyttningar Flyttningsöverskott
 2000
 
 1500
@@ -14919,6 +15128,7 @@ fler flyttar ut från kommunen än in.
 0
 
 -500
+20-29 år
 
 -1000
 
@@ -14935,10 +15145,54 @@ Det är främst inom Onsala, Vallda och Släp som ungdomar tenderar att bo kvar,
 har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokföringsadress längre
 
 67
-0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202
-Antal in- och utflyttningar per år för åldersgruppen 20-29 år
-Inflyttningar Utflyttningar Flyttningsöverskott
-20-29 år
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
 
 [Tabell 358-1](handlingar.tabeller/358-1.csv)
 
@@ -15047,6 +15301,10 @@ anvisade. Efter det har antalet minskat. 2022 tog vi emot 109 personer. Bland ny
 
 ungefär hälften barn och hälften vuxna.
 
+Nyanlända
+
+Vuxna Under 18
+
 400
 350
 300
@@ -15065,6 +15323,8 @@ Under 18 15     93    163    137    83     69     65     58
 Vuxna    25    134    180    153    73     50     62     51
 ```
 
+År
+
 Figur 96 - Antal nyanlända som anvisats till Kungsbacka 2015–2022. Källa: Gymnasium & Arbetsmarknad, verksamhetssystem Viva
 
 1.5.3 Äldre
@@ -15072,11 +15332,8 @@ Andelen äldre i befolkningen beräknas att bli allt fler, både i riket och i K
 att de stora åldersgrupperna födda under 1940-talet nu går in i åldersgruppen 80+. Prognosen för
 
 71
-adnälnayn
-latnA
-Nyanlända
-Vuxna Under 18
-År
+
+Antal nyanlända
 
 <!-- sida 363 -->
 
@@ -15138,6 +15395,11 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 <!-- sida 364 -->
 
+Antal personer över 80 år i Kungsbacka kommun
+
+Senaste prognos - 65-79 år Senaste prognos - 80+
+Utfall - 65-79 år  Utfall - 80+
+
 18000
 2035; 14531
 16000
@@ -15159,14 +15421,9 @@ Ju äldre personen blir desto mindre inkomster har en att röra sig med. Från 6
 majoriteten att få ut pension i stället för lön och inkomsterna sjunker. Trenden i Kungsbacka är att
 alla åldersgrupper har ökat sin inkomst sedan 2000.
 
-Figur 100 - Median för förvärvsinkomst efter ålder i Kungsbacka. Källa: SCB 2022
+Summerad  förvärvsinkomst efter ålder för Kungsbacka
 
-73
-adröfkobklof
-latnA
-Antal personer över 80 år i Kungsbacka kommun
-Senaste prognos - 65-79 år Senaste prognos - 80+
-Utfall - 65-79 år  Utfall - 80+
+20-64 år 65+ år  85+ år
 2021; 418,4
 450,0
 400,0
@@ -15181,11 +15438,14 @@ Utfall - 65-79 år  Utfall - 80+
 2009; 146,0
 50,0
 0,0
-tsmoknisvrävröf
-va
-naideM
-Summerad  förvärvsinkomst efter ålder för Kungsbacka
-20-64 år 65+ år  85+ år
+
+Figur 100 - Median för förvärvsinkomst efter ålder i Kungsbacka. Källa: SCB 2022
+
+73
+
+Median av förvärvsinkomst
+
+Antal folkbokförda
 
 <!-- sida 365 -->
 
@@ -15193,22 +15453,26 @@ I samband med detta så ligger boendekostnaderna för äldre hushåll betydligt 
 sett till boendekostnader. Det är främst amorteringar, räntekostnader och underhåll som skiljer de
 yngre hushållen åt de äldre.
 
+Utgiftsposter för äganderätt i riket efter utgiftspost 2021
+
 160 000
 
 140 000
 120 000
 
+Villaförsäkring
 100 000
-
-80 000
-
+Underhåll och reparation
+80 000                                    Avgifter (VA, sophantering mm)
+Uppvärmning
 60 000
-
-40 000
+Fastighetsavgift
+40 000                                    Amortering
+Ränteutgifter m.m.
 20 000
-
 \-
 30-39 år 40-49 år 70-79 år 80+ år
+Åldersgrupper
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
 Detta i kombination med att äldre hushåll oftare bor i småhus med låga boendekostnader skapas
@@ -15217,20 +15481,8 @@ har Kungsbacka tio procent av total antal hushåll över 80 i småhus. Bland Hal
 Göteborgsregionen är det bara Göteborgs stad och Halmstad kommun som har högre andel.
 
 74
-tsoptfigtu
-retfe
-tekir
-röf
-edrävledeM
-Utgiftsposter för äganderätt i riket efter utgiftspost 2021
-Villaförsäkring
-Underhåll och reparation
-Avgifter (VA, sophantering mm)
-Uppvärmning
-Fastighetsavgift
-Amortering
-Ränteutgifter m.m.
-Åldersgrupper
+
+Medelvärde för riket efter utgiftpost
 
 <!-- sida 366 -->
 
@@ -17649,6 +17901,8 @@ visas åldersgruppernas andel av total befolkning.
 Kungsbacka har en högre andel personer mellan 12–18 år och 45–55 år än riket. Däremot är andel
 mellan 20–29 år betydligt lägre än riket.
 
+Åldersfördelning i Kungsbacka och riket 2023
+
 1,8%
 1,6%
 
@@ -17665,14 +17919,81 @@ mellan 20–29 år betydligt lägre än riket.
 
 0,0%
 
+Kungsbacka   Riket
+
 Figur 1 - Åldersfördelning för Kungsbacka och Riket Källa: Statistiska Centralbyrån (SCB) 2024
 En jämförelse mellan åldersgrupperna i kommunen från 2002 till 2022 visar att andelen personer
 över 65 år har ökat. Samtidigt har det skett en minskning i åldrarna 0–14 år och 25–44 år.
 
 6
-1 4 7 01 31 61 91 22 52 82 13 43 73 04 34 64 94 25 55 85 16 46 76 07 37 67 97 28 58 88 19 49 79 001
-Åldersfördelning i Kungsbacka och riket 2023
-Kungsbacka   Riket
+
+1
+
+4
+
+7
+
+10
+
+13
+
+16
+
+19
+
+22
+
+25
+
+28
+
+31
+
+34
+
+37
+
+40
+
+43
+
+46
+
+49
+
+52
+
+55
+
+58
+
+61
+
+64
+
+67
+
+70
+
+73
+
+76
+
+79
+
+82
+
+85
+
+88
+
+91
+
+94
+
+97
+
+100
 
 <!-- sida 433 -->
 
@@ -17714,6 +18035,8 @@ fördelning av åldersgrupperna, medan Gällinge har färre personer i åldern 1
 
 <!-- sida 434 -->
 
+Åldersfördelning
+
 10,0%
 
 9,0%
@@ -17731,40 +18054,44 @@ fördelning av åldersgrupperna, medan Gällinge har färre personer i åldern 1
 1,0%
 0,0%
 
+Femårsklasser
+
+Kungsbacka stad Släp    Vallda    Onsala   Kungsbacka
+
 Figur 3 - Åldersfördelning per delområden Kungsbacka stad, Släp, Vallda och Onsala samt hela kommunen, femårsklasser. Källa:
 Kungsbacka kommun
+
+Åldersfördelning
+
+10,0%
+9,0%
+
+8,0%
+7,0%
+
+6,0%
+5,0%
+
+4,0%
+3,0%
+
+2,0%
+
+1,0%
+0,0%
+
+Femårsklasser
+
+Fjärås   Åsa Frillesås Gällinge  Älvsåker   Kungsbacka
 
 Figur 4 - Åldersfördelning per delområden Fjärås, Åsa Frillesås, Gällinge, Älvsåker samt hela kommunen, femårsklasser. Källa:
 Kungsbacka kommun
 
 8
-13-21-2202
-gninklofeb
-latot
-va
-lednA
-Åldersfördelning
-Femårsklasser
-Kungsbacka stad Släp    Vallda    Onsala   Kungsbacka
-10,0%
-9,0%
-8,0%
-7,0%
-6,0%
-5,0%
-4,0%
-3,0%
-2,0%
-1,0%
-0,0%
-13-21-2202
-gninklofeb
-latot
-va
-lednA
-Åldersfördelning
-Femårsklasser
-Fjärås   Åsa Frillesås Gällinge  Älvsåker   Kungsbacka
+
+Andel av total befolkning 2022-12-31
+
+Andel av total befolkning 2022-12-31
 
 <!-- sida 435 -->
 
@@ -17821,6 +18148,9 @@ Detta indikerar en grov återvändargrad i området.
 
 <!-- sida 436 -->
 
+2018-2023 summerade flyttningar per åldersklass
+
+Inflyttning Utflyttning Netto
 1200
 
 1000
@@ -17836,21 +18166,23 @@ Detta indikerar en grov återvändargrad i området.
 -400
 -600
 -800
+Ålder
 
 Figur 6 – De fem senaste årens summerade flyttningar för åldersspannet 16 till 44. Källa: SCB, bearbetat av Kungsbacka kommun
 
 10
-3202-8102
-nammuS
-2018-2023 summerade flyttningar per åldersklass
-Inflyttning Utflyttning Netto
-Ålder
+
+Summan 2018-2023
 
 <!-- sida 437 -->
 
 1.2.1.3 Disponibel inkomst för olika grupper
 Kungsbacka kommun har den högsta medianinkomsten av alla GR-kommuner och Hallands
 kommuner 2021. Detta är en viktig faktor för att kunna skaffa en bostad på bostadsmarknaden.
+
+Förvärvsinkomst alla över 16 år
+
+2001 2011 2021
 
 450,0
 400,0
@@ -17864,23 +18196,21 @@ kommuner 2021. Detta är en viktig faktor för att kunna skaffa en bostad på bo
 50,0
 0,0
 
+GR-kommun och Halland
+
 Figur 7 - Median av summerad förvärvsinkomst per individ mellan 16–74 år efter år. Källa: SCB 2022
 När det kommer till förvärvsinkomst finns det en tydlig skillnad mellan könen. Både män och
 kvinnor i Kungsbacka har en högre medianinkomst än genomsnittet för Hallands län och riket.
 Dock tjänar män mer än kvinnor på alla nivåer.
 
-Figur 8 - Summerad förvärvsinkomst efter riket/region/kommun och kön. Källa: SCB
+Förvärvsinkomst, median
 
-11
-tsmoknisvrävröf
-daremmus
-naideM
-Förvärvsinkomst alla över 16 år
-2001 2011 2021
-GR-kommun och Halland
+Kungsbacka män  Kungsbacka kvinnor Halland män
+Halland kvinnor Riket män       Riket kvinnor
 500
 450
 400
+
 350
 300
 250
@@ -17889,12 +18219,16 @@ GR-kommun och Halland
 100
 50
 0
-tsmoknisvrävröf
-naideM
-Förvärvsinkomst, median
-Kungsbacka män  Kungsbacka kvinnor Halland män
-Halland kvinnor Riket män       Riket kvinnor
+
 År
+
+Figur 8 - Summerad förvärvsinkomst efter riket/region/kommun och kön. Källa: SCB
+
+11
+
+Median förvärvsinkomst
+
+Median summerad förvärvsinkomst
 
 <!-- sida 438 -->
 
@@ -17910,6 +18244,9 @@ Förvärvsinkomsten är lägre för personer som är utrikesfödda i hela GR-omr
 kommuner. Kungsbacka har den tredje största skillnaden mellan dessa grupper av kommuner i
 GR-området och Hallands kommuner.
 
+Förvärvsinkomst efter bakgrund
+
+födda i Sverige utrikes födda
 500
 450
 400
@@ -17922,6 +18259,8 @@ GR-området och Hallands kommuner.
 50
 0
 
+GR-kommuner och Hallands kommuner
+
 Figur 10 - Median för sammanräknad förvärvsinkomst efter kommun och bakgrund 2021. Källa: SCB 2022
 
 Under 2010-talet har förvärvsinkomsten för personer som bor i Kungsbacka kommun utvecklats
@@ -17929,16 +18268,18 @@ olika beroende på hur länge de har vistats i Sverige . De som har vistats i Sv
 tid har haft en större ökning i sin förvärvsinkomst jämfört med tidigare. Det finns dock en
 
 12
-tsmoknisvrävröf
-naideM
-Förvärvsinkomst efter bakgrund
-födda i Sverige utrikes födda
-GR-kommuner och Hallands kommuner
+
+Median förvärvsinkomst
 
 <!-- sida 439 -->
 
 betydande skillnad i inkomstnivå mellan dem och personer som har bott i Sverige under en längre
 tid.
+
+Sammanräknad  förvärvsinkomst för boende i Kungsbacka
+efter vistelsetid i Sverige
+
+1-2 år i Sverige 3-4 år i Sverige 5-9 år i Sverige 10-19 år i Sverige
 
 400,0
 350,0
@@ -17976,11 +18317,8 @@ egna hushållets ekonomi under det närmaste året, jämfört med 20 procent i d
 befolkningen. Källa: SCB (2022). Sämre ekonomi för personer med funktionsnedsättning.
 
 13
-tsmoknisvrävröf
-naideM
-Sammanräknad  förvärvsinkomst för boende i Kungsbacka
-efter vistelsetid i Sverige
-1-2 år i Sverige 3-4 år i Sverige 5-9 år i Sverige 10-19 år i Sverige
+
+Median förvärvsinkomst
 
 <!-- sida 440 -->
 
@@ -18019,7 +18357,9 @@ sjunkande fruktsamhet.
 
 <!-- sida 441 -->
 
-Framskrivning 2050;
+Folkmängd och folkökning per år, utfall och enligt prognos
+
+Folkökning Folkmängd Framskrivning 2050;
 109763
 1 800                                                 120 000
 Prognos 2033;
@@ -18037,29 +18377,79 @@ Prognos 2033;
 0                                                   20 000
 -200
 -400                                                  0
+År
 Figur 13 - Folkmängd och folkökning i Kungsbacka efter år. Vinrött är utfall och blått är prognos (2024–2033) samt framskrivning (2034–
 2050). Källa: Kungsbacka kommuns befolkningsprognos 2024–2050
 1.2.2.2 Förväntad åldersstruktur
 Befolkningen beräknas att bli allt äldre i Kungsbacka. Andel äldre än 60 år beräknas att öka från
 20,4 procent till 22,9 procent av total befolkning fram till 2032. Samtidigt beräknas andelen mellan
 0–9 år att minska från något från 10,9 procent av total befolkning 2024 till 10,5 procent per år
-
 2032\.
 Diagrammet nedan visar åldersfördelningen i ettårsklasser idag och enligt prognos tio år framåt.
 
 15
-rå
-rep
-gninkökloF
-0002 2002 4002 6002 8002 0102 2102 4102 6102 8102 0202 2202 4202 6202 8202 0302 2302 4302 6302 8302 0402 2402 4402 6402 8402 0502
-rå
-rep
-dgnämkloF
-Folkmängd och folkökning per år, utfall och enligt prognos
-Folkökning Folkmängd
-År
+
+Folkökning per år
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+2016
+
+2018
+
+2020
+
+2022
+
+2024
+
+2026
+
+2028
+
+2030
+
+2032
+
+2034
+
+2036
+
+2038
+
+2040
+
+2042
+
+2044
+
+2046
+
+2048
+
+2050
+
+Folkmängd per år
 
 <!-- sida 442 -->
+
+Åldersfördelning i Kungsbacka, utfall och enligt prognos
+
+2022   2032
 
 1,8%
 1,6%
@@ -18075,59 +18465,115 @@ Folkökning Folkmängd
 0,2%
 0,0%
 
+Ålder
+
 Figur 14 - Åldersgrupper andel av total folkmängd enligt utfall och prognos. Källa: Kungsbacka kommuns befolkningsprognos 2023–
 2050
 Det är främst gruppen över 80 år som beräknas att öka i Kungsbacka och hela landet. Detta beror
 på de stora åldersgrupperna födda under 1940-talet i kombination med en ökande medellivslängd.
 
-Figur 15 - Antal folkbokförda i Kungsbacka efter åldersgrupper. Utfall i blått och prognos i vinrött. Källa: Kungsbacka kommuns
-befolkningsprognos 2023–2050
-
-16
-negninklofeb
-latot
-va
-ledna
-neppurgsredlÅ
-0 3 6 9 21 51 81 12 42 72 03 33 63 93 24 54 84 15 45 75 06 36 66 96 27 57 87 18 48 78 09 39 69 99
-Åldersfördelning i Kungsbacka, utfall och enligt prognos
-2022   2032
-Ålder
-30 000
-25 000
-20 000
-15 000
-10 000
-5 000
-0
-0-6 7-9 10-12 13-15 16-19 20-24 25-29 30-44 45-64 65-79 80-89 90-
-adröfkobklof
-latnA
 2010
 Antal folkbokförda i Kungsbacka efter åldersgrupp, utfall och prognos
 2011
 2012
+30 000
 2013
 2014
-2015
+25 000                                                      2015
 2016
 2017
-2018
+20 000                                                      2018
 2019
 2020
-2021
+15 000                                                      2021
 2022
 2023
+10 000
 2024
 2025
-2026
+5 000                                                       2026
 2027
 2028
-2029
-2030
+0                                                        2029
+0-6 7-9 10-12 13-15 16-19 20-24 25-29 30-44 45-64 65-79 80-89 90- 2030
 2031
 Åldersgrupper
 2032
+Figur 15 - Antal folkbokförda i Kungsbacka efter åldersgrupper. Utfall i blått och prognos i vinrött. Källa: Kungsbacka kommuns
+befolkningsprognos 2023–2050
+16
+
+Antal folkbokförda
+
+Åldersgruppen andel av total befolkningen
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+27
+
+30
+
+33
+
+36
+
+39
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+78
+
+81
+
+84
+
+87
+
+90
+
+93
+
+96
+
+99
 
 <!-- sida 443 -->
 
@@ -18157,24 +18603,30 @@ första gång på fem år under 2022. Onsala är de delområdet med högst andel
 19 och personer mellan 45–59 år, vilket gör att befolkningen beräknas att minska under
 prognosperioden.
 
+Befolkningsutveckling samtliga åldersgrupper
+
 35 000 Kungsbacka Stad;
 23927
 30 000
-25 000                   Onsala;
+2023
+25 000                   Onsala;                          2024
 14231       Åsa Frillesås;
-Släp;                    10712
+Släp;                    10712               2025
 20 000       12549
-Fjärås;            Älvsåker;
+Fjärås;            Älvsåker; 2026
 Vallda;      6638                6195
-15 000            8823                     Gällinge;
+15 000            8823                     Gällinge;      2027
 2457
+2028
 10 000
-5 000
+2029
+5 000                                                     2030
+2031
 0
-
+2032
+2033
 Figur 17 - Antal folkbokförda i Kungsbacka efter planeringsområde. Siffran i pratbubblan är antal folkbokförda per 2023. Källa:
 Kungsbacka kommuns befolkningsprognos 2024–2050
-
 1.3 Bostäder
 
 Sammanfattning
@@ -18193,20 +18645,8 @@ Mål enligt Kungsbackas bostadsförsörjningsprogram 2019–2025 var att Kungsba
 för 500 bostäder per år.
 
 18
-adröfkobklof
-latnA
-Befolkningsutveckling samtliga åldersgrupper
-2023
-2024
-2025
-2026
-2027
-2028
-2029
-2030
-2031
-2032
-2033
+
+Antal folkbokförda
 
 <!-- sida 445 -->
 
@@ -18267,6 +18707,10 @@ Kungsbacka har haft en betydligt högre prisutveckling än Varberg som har vuxit
 
 <!-- sida 447 -->
 
+Prisutveckling för småhus
+
+Kungsbacka  Göteborg  Härryda  Kungälv   Mölndal  Varberg
+
 60 000                                            Göteborg; 50897
 
 50 000                                               Mölndal; 49695
@@ -18288,6 +18732,21 @@ kan kraftigt variera mellan åren vilka objekt som har varit till salu, men det 
 prisnivån. I början av september 2023 var medelvärdet för en villa i Kungsbacka de nästhögst av
 närliggande kommuner.
 
+Pris för villor senaste 12 månader, 2023-09-08
+
+7 000 000      Kungsbacka;
+5596000
+6 000 000
+5 000 000
+
+4 000 000
+3 000 000
+
+2 000 000
+1 000 000
+
+0
+
 Figur 21 - Medelvärde för köpeskillnad senaste 12 månaderna från 2023-09-08. Källa: Mäklarstatsik.se
 
 Prisutvecklingen per kvadratmeter för bostadsrätter har också ökat sedan 2000. Även här är
@@ -18295,25 +18754,16 @@ kvadratmeterpris för bostadsrätter det näst högsta i Kungsbacka. Detta inneb
 god inkomst för att kunna köpa sig en lägenhet i Kungsbacka.
 
 21
-mvk/rk
-,sirpstehgitsaF
-Prisutveckling för småhus
-Kungsbacka  Göteborg  Härryda  Kungälv   Mölndal  Varberg
-7 000 000      Kungsbacka;
-5596000
-6 000 000
-5 000 000
-4 000 000
-3 000 000
-2 000 000
-1 000 000
-0
-gninjläsröf
-div
-edrävledeM
-Pris för villor senaste 12 månader, 2023-09-08
+
+Medelvärde vid försäljning
+
+Fastighetspris, kr/kvm
 
 <!-- sida 448 -->
+
+Prisutveckling för bostadsrätter
+
+Kungsbacka  Göteborg  Härryda   Kungälv   Mölndal   Varberg
 
 60 000
 Göteborg; 45983
@@ -18336,31 +18786,32 @@ Figur 22 - Kvadratmeterpris per bostadsrätter 2000–2022. Källa: Kolada.se
 och privata fastighetsvärdar i Göteborgsområdet. Mellan 2022 och 2023 var medianvärdet för den
 årliga ökningen i procent betydligt högre än någon annan gång under perioden.
 
-Figur 23 - Median för procentuell ökning av hyra för en hyresrätt i Storgöteborg. Källa: SCB
+Procentuell ökning på hyra i hyresrätter
 
-22
-mvk/rk
-,sirpstehgitsaF
-Prisutveckling för bostadsrätter
-Kungsbacka  Göteborg  Härryda   Kungälv   Mölndal   Varberg
 5,0
 4,5
 4,0
+
 3,5
 3,0
 2,5
+
 2,0
 1,5
 1,0
+
 0,5
 0,0
 2016    2017   2018    2019    2020   2021    2022    2023
-rettärseryh
-röf
-gninkötnecorp
-,naideM
-Procentuell ökning på hyra i hyresrätter
 Stor-Göteborg privata och övriga fastighetsägare Stor-Göteborg allmännyttiga bostadsföretag
+
+Figur 23 - Median för procentuell ökning av hyra för en hyresrätt i Storgöteborg. Källa: SCB
+
+22
+
+Fastighetspris, kr/kvm
+
+Median, procentökning för hyresrätter
 
 <!-- sida 449 -->
 
@@ -20030,6 +20481,13 @@ lägst andel bor i Gällinge. För gruppen över
 30 så minskar andelen som bor i
 Kungsbacka stad.
 
+Figur 85 - Antal folkbokförda i Kungsbackas planeringsområden 2022-
+12-31. Källa: SCB
+Andel av total befolkning boende inom planeringsområde
+2022
+
+20-24 år 25-29 år 30-44 år
+
 50    45
 45
 40
@@ -20049,15 +20507,8 @@ Unga mellan 20–29 år flyttar ofta, det syns sett till antal flyttar under de 
 Lund och Stockholm.
 
 65
-negninklofeb
-latot
-va
-lednA
-Figur 85 - Antal folkbokförda i Kungsbackas planeringsområden 2022-
-12-31. Källa: SCB
-Andel av total befolkning boende inom planeringsområde
-2022
-20-24 år 25-29 år 30-44 år
+
+Andel av total befolkningen
 
 [Tabell 491-1](handlingar.tabeller/491-1.csv)
 
@@ -20075,6 +20526,10 @@ Andel av total befolkning boende inom planeringsområde
 
 <!-- sida 492 -->
 
+Antal in- och utflyttning mellan 2018-2022 till Kungsbacka
+
+Inflyttning Utflyttning Netto
+
 1500
 
 1000
@@ -20086,6 +20541,7 @@ Andel av total befolkning boende inom planeringsområde
 -500
 
 -1000
+Ettårsklasser
 
 Figur 87 - Antal flyttar över kommungränsen efter ålder mellan 2018–2022. Källa: SCB 2022
 Under 2023 hade åldersgruppen 20–24 år det största negativa flyttningsöverskottet, med ett
@@ -20096,85 +20552,85 @@ Under 2000-talet var antalet in- och utflyttningar för åldersgruppen 20–29 �
 har både in- och utflyttningar ökat, men från 2018 har utflyttningarna ökat i högre takt. År 2023 var
 
 66
-rattylf
-latnA
-rå
-0
-rå
-3
-rå
-6
-rå
-9
-rå
-21
-rå
-51
-rå
-81
-rå
-12
-rå
-42
-rå
-72
-rå
-03
-rå
-33
-rå
-63
-rå
-93
-rå
-24
-rå
-54
-rå
-84
-rå
-15
-rå
-45
-rå
-75
-rå
-06
-rå
-36
-rå
-66
-rå
-96
-rå
-27
-rå
-57
-rå
-87
-rå
-18
-rå
-48
-rå
-78
-rå
-09
-rå
-39
-rå
-69
-rå
-99
-Antal in- och utflyttning mellan 2018-2022 till Kungsbacka
-Inflyttning Utflyttning Netto
-Ettårsklasser
+
+Antal flyttar
+
+0 år
+
+3 år
+
+6 år
+
+9 år
+
+12 år
+
+15 år
+
+18 år
+
+21 år
+
+24 år
+
+27 år
+
+30 år
+
+33 år
+
+36 år
+
+39 år
+
+42 år
+
+45 år
+
+48 år
+
+51 år
+
+54 år
+
+57 år
+
+60 år
+
+63 år
+
+66 år
+
+69 år
+
+72 år
+
+75 år
+
+78 år
+
+81 år
+
+84 år
+
+87 år
+
+90 år
+
+93 år
+
+96 år
+
+99 år
 
 <!-- sida 493 -->
 
 skillnaden mellan in- och utflyttningar den största hittills. Ett negativt flyttningsöverskott innebär att
 fler flyttar ut från kommunen än in.
 
+Antal in- och utflyttningar per år för åldersgruppen 20-29 år
+
+Inflyttningar Utflyttningar Flyttningsöverskott
 2000
 
 1500
@@ -20186,6 +20642,7 @@ fler flyttar ut från kommunen än in.
 0
 
 -500
+20-29 år
 
 -1000
 
@@ -20202,10 +20659,54 @@ Det är främst inom Onsala, Vallda och Släp som ungdomar tenderar att bo kvar,
 har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokföringsadress längre
 
 67
-0002 1002 2002 3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202
-Antal in- och utflyttningar per år för åldersgruppen 20-29 år
-Inflyttningar Utflyttningar Flyttningsöverskott
-20-29 år
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
 
 [Tabell 493-1](handlingar.tabeller/493-1.csv)
 
@@ -20314,6 +20815,10 @@ anvisade. Efter det har antalet minskat. 2022 tog vi emot 109 personer. Bland ny
 
 ungefär hälften barn och hälften vuxna.
 
+Nyanlända
+
+Vuxna Under 18
+
 400
 350
 300
@@ -20332,6 +20837,8 @@ Under 18 15     93    163    137    83     69     65     58
 Vuxna    25    134    180    153    73     50     62     51
 ```
 
+År
+
 Figur 96 - Antal nyanlända som anvisats till Kungsbacka 2015–2022. Källa: Gymnasium & Arbetsmarknad, verksamhetssystem Viva
 
 1.5.3 Äldre
@@ -20339,11 +20846,8 @@ Andelen äldre i befolkningen beräknas att bli allt fler, både i riket och i K
 att de stora åldersgrupperna födda under 1940-talet nu går in i åldersgruppen 80+. Prognosen för
 
 71
-adnälnayn
-latnA
-Nyanlända
-Vuxna Under 18
-År
+
+Antal nyanlända
 
 <!-- sida 498 -->
 
@@ -20405,6 +20909,11 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 <!-- sida 499 -->
 
+Antal personer över 80 år i Kungsbacka kommun
+
+Senaste prognos - 65-79 år Senaste prognos - 80+
+Utfall - 65-79 år  Utfall - 80+
+
 18000
 2035; 14531
 16000
@@ -20426,14 +20935,9 @@ Ju äldre personen blir desto mindre inkomster har en att röra sig med. Från 6
 majoriteten att få ut pension i stället för lön och inkomsterna sjunker. Trenden i Kungsbacka är att
 alla åldersgrupper har ökat sin inkomst sedan 2000.
 
-Figur 100 - Median för förvärvsinkomst efter ålder i Kungsbacka. Källa: SCB 2022
+Summerad  förvärvsinkomst efter ålder för Kungsbacka
 
-73
-adröfkobklof
-latnA
-Antal personer över 80 år i Kungsbacka kommun
-Senaste prognos - 65-79 år Senaste prognos - 80+
-Utfall - 65-79 år  Utfall - 80+
+20-64 år 65+ år  85+ år
 2021; 418,4
 450,0
 400,0
@@ -20448,11 +20952,14 @@ Utfall - 65-79 år  Utfall - 80+
 2009; 146,0
 50,0
 0,0
-tsmoknisvrävröf
-va
-naideM
-Summerad  förvärvsinkomst efter ålder för Kungsbacka
-20-64 år 65+ år  85+ år
+
+Figur 100 - Median för förvärvsinkomst efter ålder i Kungsbacka. Källa: SCB 2022
+
+73
+
+Median av förvärvsinkomst
+
+Antal folkbokförda
 
 <!-- sida 500 -->
 
@@ -20460,22 +20967,26 @@ I samband med detta så ligger boendekostnaderna för äldre hushåll betydligt 
 sett till boendekostnader. Det är främst amorteringar, räntekostnader och underhåll som skiljer de
 yngre hushållen åt de äldre.
 
+Utgiftsposter för äganderätt i riket efter utgiftspost 2021
+
 160 000
 
 140 000
 120 000
 
+Villaförsäkring
 100 000
-
-80 000
-
+Underhåll och reparation
+80 000                                    Avgifter (VA, sophantering mm)
+Uppvärmning
 60 000
-
-40 000
+Fastighetsavgift
+40 000                                    Amortering
+Ränteutgifter m.m.
 20 000
-
 \-
 30-39 år 40-49 år 70-79 år 80+ år
+Åldersgrupper
 
 Figur 101 - Medelvärde för hushåll i äganderätt i riket för 2021. Källa: SCB
 Detta i kombination med att äldre hushåll oftare bor i småhus med låga boendekostnader skapas
@@ -20484,20 +20995,8 @@ har Kungsbacka tio procent av total antal hushåll över 80 i småhus. Bland Hal
 Göteborgsregionen är det bara Göteborgs stad och Halmstad kommun som har högre andel.
 
 74
-tsoptfigtu
-retfe
-tekir
-röf
-edrävledeM
-Utgiftsposter för äganderätt i riket efter utgiftspost 2021
-Villaförsäkring
-Underhåll och reparation
-Avgifter (VA, sophantering mm)
-Uppvärmning
-Fastighetsavgift
-Amortering
-Ränteutgifter m.m.
-Åldersgrupper
+
+Medelvärde för riket efter utgiftpost
 
 <!-- sida 501 -->
 
@@ -23739,7 +24238,7 @@ Exploateringsbidraget ska delas utifrån i detaljplanen erhållen byggrätt, enl
 21, ska fördelas mellan parterna enligt nedan.
 
 Inom delområde 1 fördelas kostnaderna enligt följande:
-55 94 Kungsbacka kommun
+55 24 Kungsbacka kommun
 
 31 24 Balder i Kungsbacka AB
 
@@ -24532,7 +25031,6 @@ Sommunstyrelsens förvaltning, skrivelse 2007-06-15
 Expedierat/bestyrkt
 
 MB
-TA EES
 LÅ
 
 <!-- sida 600 -->
@@ -24919,7 +25417,19 @@ Transaktionsidentitet: BA1F571E8522926DF3510D8B6A6E0EEF73B7AA8E3C
 
 <!-- sida 608 -->
 
-PLANBESTÄMMELSER                                                           Störningsskydd
+Detaljplanen är baserad på koordinatsystemet SWEREF 99
+1200 och höjdsystemet RH 2000
+Skala 1:2000 i A1, skala 1:4000 i A3
+
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum kartdata: 2022-10-28, kompletterande höjdgrid 2024-02-05
+
+Registernummer, tomtnummer                    Vägbana
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
+
+Fastighetsgräns                               Uthus fasad, resp. tak
+Gång- och cykelbana                           Skärmtak
+
+PLANBESTÄMMELSER                                                            Störningsskydd
 
 Fasader som vetter mot väg E6 ska utformas i obrännbart
 Följande gäller inom områden med nedanstående beteckningar. Endast angiven användning och utformning är
@@ -24927,12 +25437,12 @@ material. Luftintag samt entréer och inlastning ska anordnas på
 tillåten. Där beteckning saknas gäller bestämmelsen inom hela området.
 lämpligt sätt så att de vetter bort från väg E6. Minst en utrymningsväg i varje byggnad ska
 vetta bort från väg E6. Ytor mellan byggnad och väg E6 utformas för att inte uppmuntra till
-GRÄNSER                                                                                 stadigvarande vistelse.
+GRÄNSER                                                                                  stadigvarande vistelse.
 För bebyggelse för centrumändamål gäller:
 Planområdesgräns.
 Fönster och ingående komponenter ska vara motsvarande brandklass E 30 vilket innebär att
 fönster inte kan vara öppningsbara eller endast kan öppnas med specialverktyg för
-Användningsgräns.                                                          exempelvis fönsterputsning. Luftintag placeras högt och ska vetta bort från väg E6. Entréer
+Användningsgräns.                                                           exempelvis fönsterputsning. Luftintag placeras högt och ska vetta bort från väg E6. Entréer
 och inlastning ska anordnas på lämpligt sätt så att de vetter bort från väg E6. Vid utformning
 av byggnader ska hänsyn tas till dimensionerande explosionslast. Fasad ska vara i
 Egenskapsgräns.
@@ -24941,12 +25451,12 @@ För bebyggelse för centrumändamål gäller:
 Administrativ gräns.
 Luftintag placeras högt på byggnad och orienteras bort från väg E6.
 Byggnader och tekniska anläggningar kopplade till hantering av
-Egenskaps- och administrativ gräns.                                        brandfarliga vätskor får inte anläggas inom 25 meter från fastighetsgräns mot kvartersmark.
+Egenskaps- och administrativ gräns.                                         brandfarliga vätskor får inte anläggas inom 25 meter från fastighetsgräns mot kvartersmark.
 Avvattning av hårdgjorda ytor ska
 förses med anläggning för uppsamling av olja. Entréer för byggnader inom 25 meter från
 ANVÄNDNING   AV MARK
 drivmedelsstationen, bör vetta bort från drivmedelsstationen.Byggnader och tekniska
-Allmän platsmark med kommunalt huvudmannaskap                                           anläggningar kopplade till hantering av brandfarliga vätskor får inte anläggas inom 25 meter
+Allmän platsmark med kommunalt huvudmannaskap                                            anläggningar kopplade till hantering av brandfarliga vätskor får inte anläggas inom 25 meter
 från fastighetsgräns mot kvartersmark. Avvattning av hårdgjorda ytor ska förses med
 anläggning för uppsamling av olja. Entréer för byggnader inom 25 meter från
 Huvudgata.
@@ -24970,7 +25480,7 @@ Verksamheter.
 Avskärande dike för skyfallsled får finnas.
 Centrumverksamhet, ej hotell, vandrarhem eller handel med livsmedel.
 Utfart
-Återvinningscentral.                                                       Utfart för utryckningsfordon får finnas. Utfart för övriga fordon får inte finnas.
+Återvinningscentral.                                                        Utfart för utryckningsfordon får finnas. Utfart för övriga fordon får inte finnas.
 Utformning
 Transformatorstation.
 Fasad mot väg E6 och väg 158 ska ges en omsorgsfull utformning med hänsyn till områdets
@@ -24990,51 +25500,76 @@ Område inom vilket bergteknisk åtgärd ska utföras.
 EGENSKAPSBESTÄMMELSER      FÖR ALLMÄN  PLATS
 Ingen markbelastning är tillåten. Marknivåer enligt plankartan ska följas.
 Mark
+
 Markens höjd över nollplanet ska vara \<angivet> meter.
-ADMINISTRATIVA  BESTÄMMELSER    FÖR ALLMÄN  PLATS
-Genomförandetid
+
 Markens höjd över nollplanet ska vara lägst +37 meter.
-Genomförandetiden är 5 år från den dag planen vinner laga kraft.
+
 Dagvattendamm.
-ADMINISTRATIVA  BESTÄMMELSER    FÖR KVARTERSMARK
+
 Markens höjd över nollplanet får vara högst +38 meter .
-Markreservat
-EGENSKAPSBESTÄMMELSER      FÖR KVARTERSMARK                                             Markreservat för allmännyttiga underjordiska ledningar.
+
+EGENSKAPSBESTÄMMELSER      FÖR KVARTERSMARK
+
 Mark
-Villkor för startbesked
-Markens höjd över nollplanet ska vara 50 meter.                            Startbesked får inte ges för byggnader för stadigvarande vistelse förrän flytt av
-kraftledningen har kommit till stånd.
-Upplag får inte finnas.                                                    Startbesked får inte ges för byggnader och parkering får inte anläggas förrän flytt av
-kraftledningen har kommit till stånd.
+
+Markens höjd över nollplanet ska vara 50 meter.
+
+Upplag får inte finnas.
+
 Markens höjd över nollplanet får vara upp till max +38 meter.
-Startbesked får inte ges för byggnader förrän bergstekniska åtgärder har kommit till stånd.
+
 Omfattning
-Startbesked får inte ges för byggnader förrän avskärande dike för skyfallsled i öster har
-anlagts.
+
 Marken får inte förses med byggnad.
-ADMINISTRATIVA  BESTÄMMELSER    FÖR PLANOMRÅDET
+
 Högsta nockhöjd är \<angivet> meter över angivet nollplan .
-Genomförandetid
-Största byggnadsarea är 60 % per fastighet inom användningsområdet. Genomförandetiden är 15 år från den dag planen vinner laga kraft. Gäller inte för område a4.
+
+Största byggnadsarea är 60 % per fastighet inom användningsområdet.
+
 Placering
+
 Byggnad ska placeras minst 4 meter från fastighetsgräns. Bestämmelsen gäller inte om
 byggnder sammanbyggs i fastighetsgräns. .
-Detaljplanen är baserad på koordinatsystemet SWEREF 99
+
+ADMINISTRATIVA  BESTÄMMELSER    FÖR ALLMÄN  PLATS
+Genomförandetid
+
+Genomförandetiden är 5 år från den dag planen vinner laga kraft.
+
+ADMINISTRATIVA  BESTÄMMELSER    FÖR KVARTERSMARK
+
+Markreservat
+
+Markreservat för allmännyttiga underjordiska ledningar.
+
+Villkor för startbesked
+Startbesked får inte ges för byggnader för stadigvarande vistelse förrän flytt av
+kraftledningen har kommit till stånd.
+
+Startbesked får inte ges för byggnader och parkering får inte anläggas förrän flytt av
+kraftledningen har kommit till stånd.
+
+Startbesked får inte ges för byggnader förrän bergstekniska åtgärder har kommit till stånd.
+
+Startbesked får inte ges för byggnader förrän avskärande dike för skyfallsled i öster har
+anlagts.
+
+ADMINISTRATIVA  BESTÄMMELSER    FÖR PLANOMRÅDET
+Genomförandetid
+
+Genomförandetiden är 15 år från den dag planen vinner laga kraft. Gäller inte för område a4.
+
 Transformatorstation ska placeras minst 5 meter från angränsande byggnadsdel.
-1200 och höjdsystemet RH 2000
-Skala 1:2000 i A1, skala 1:4000 i A3
-TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum kartdata: 2022-10-28, kompletterande höjdgrid 2024-02-05
-Registernummer, tomtnummer                   Vägbana
+
 Detaljplan    för verksamheter     i
 ORIENTERINGSKARTA
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak                                                                                                                                                                                                Antagandehandling
+Antagandehandling
 Klovsten
-Fastighetsgräns                              Uthus fasad, resp. tak
-Gång- och cykelbana                          Skärmtak
-Beslutsdatum   Instans
+Beslutsdatum  Instans
 inom  Ysby  1:2 med   flera
 Samråd
-i Kungsbacka   stad                                       BN § 372
+i Kungsbacka   stad                                        BN § 372
 2019-11-21
 Kungsbacka    kommun                           Granskning
 BN § 372
@@ -25355,29 +25890,33 @@ våren 2023 har blivit föremål för deponiverksamhet i söder. Planområdet ä
 tar stort. Marken ägs till cirka 62% av kommunen, cirka 22% av Balder i Kungsbacka samt
 cirka 16% av Transportcentrum i Kungsbacka AB eller dotterbolag.
 
+Säröleden/väg 158
 Kungsbacka stadskärna
+Kungsbackaskogen
+
+Svarte mosse
 
 E6
 
 Planområdets ungefärliga avgränsning är markerat i brunt.
 
-8 Planbeskrivning                                                                                                              Planbeskrivning 9
-västra
-stambanan
-Säröleden/väg 158
-Kungsbackaskogen
-Svarte mosse
 Tidigare    ställningstaganden
+
 Riksintressen
 Väg E6 utgör riksintresse för kommunikationer. För övrigt omfattas planområdet inte av
 några riksintressen. Strax väster om Klovsten omfattas marken av riksintresse för rörligt
 friluftsliv, 4 kap 2 § MB. Planområdet avgränsas dock från detta riksintresse av motorvägen.
+
 Översiktliga planer
 I kommunens översiktsplan behandlas de övergripande planeringsfrågorna utifrån de
 allmänna intressena. I den gällande översiktsplanen för Kungsbacka kommun anges ett
 stort område kring centralorten som utvecklingsområde för Kungsbacka stad. Planområdet
 ligger inom utvecklingsområdet. Detta utvecklingsområde behandlas separat i den fördju-
 pade översiktsplanen (FÖP) för Kungsbacka stad som togs fram 2009. I FÖP:en anges den
+
+8 Planbeskrivning                                                                                                              Planbeskrivning 9
+
+västra stam banan
 
 <!-- sida 617 -->
 
@@ -27472,54 +28011,116 @@ www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 659 -->
 
-PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med  nedanstående    beteckningar.        GRÄNSER                                                                                  Egenskapsgräns.                                               ANVÄNDNING           AV   MARK                                                           Huvudgata.                                                    Kvartersmark                                                                             Drivmedelsförsäljning.                                                     Centrumverksamhet,      ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                      Pendelparkering.                                               EGENSKAPSBESTÄMMELSER                      FÖR    ALLMÄN        PLATS                   Markens   höjd  över nollplanet ska  vara \<angivet>  meter.                 Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över nollplanet  ska vara 50  meter.                        Markens   höjd över  nollplanet får vara upp  till max +38                  Marken  får inte förses med  byggnad.                                      Största byggnadsarea     är 60 %  per fastighet inom                        Byggnad   ska placeras  minst  4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som  vetter mot  väg  E6 ska  utformas  i                         För bebyggelse   för centrumändamål     gäller:                            För  bebyggelse   för centrumändamål    gäller:                             Byggnader   och  tekniska  anläggningar  kopplade   till                   Obebyggda     ytor bör utformas  så att de inte uppmuntrar                  Byggnader   som   uppförs inom  40  meter  från                            Stängsel   ska finnas längs  krön vid bergschakt.                           Påfyllningsanslutning  till cisterner ska placeras minst 25   Utfart                                                                      Utformning                                                                              Fasad   mot väg  E6  och väg  158  ska ges  en omsorgsfull                  En pylon  för skyltändamål  får uppföras  på en  plats inom   Utförande                                                                                Ingen markbelastning    är tillåten. Marknivåer enligt        ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                         Genomförandetiden     är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                   Markreservat   för allmännyttiga underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                 Startbesked  får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag  planen  vinner laga kraft.
+PLANBESTÄMMELSER                                                           Följande  gäller inom  områden   med   nedanstående    beteckningar.        GRÄNSER                                                                                 Egenskapsgräns.                                                ANVÄNDNING          AV   MARK                                                           Huvudgata.                                                     Kvartersmark                                                                            Drivmedelsförsäljning.                                                      Centrumverksamhet,     ej hotell, vandrarhem  eller handel                 Transformatorstation.                                                       Pendelparkering.                                              EGENSKAPSBESTÄMMELSER                       FÖR    ALLMÄN       PLATS                    Markens   höjd över nollplanet ska  vara \<angivet>   meter.                Dagvattendamm.                                                EGENSKAPSBESTÄMMELSER                       FÖR                                          Markens   höjd över  nollplanet ska vara  50 meter.                        Markens   höjd  över nollplanet får vara upp  till max +38                  Marken   får inte förses med  byggnad.                                     Största  byggnadsarea    är 60 %  per fastighet inom                        Byggnad   ska  placeras  minst 4 meter  från                               Transformatorstation   ska  placeras  minst 5 meter  från                   Fasader  som   vetter mot väg  E6  ska utformas  i                         För  bebyggelse   för centrumändamål    gäller:                             För bebyggelse   för centrumändamål     gäller:                            Byggnader    och tekniska  anläggningar   kopplade  till
 
-Endast  angiven  användning    och utformning   är tillåten. Där                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             med   livsmedel.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            meter.                                                                                                                                                 användningsområdet.                                                         fastighetsgräns. Bestämmelsen     gäller inte om  byggnder                 angränsande    byggnadsdel.                                                 obrännbart                                                                 Fönster  och  ingående  komponenter    ska  vara                           Luftintag  placeras högt  på byggnad   och  orienteras bort                 hantering  av                                                              till                                                                        kvartersmark   som  omfattas  av                                                                                                                       meter  från övriga byggnader   (ej bensinstation).                                                                                                                                                                                utformning  med   hänsyn  till områdets exponerade    läge.                 egenskapsområdet     med   en högsta  höjd på  12 meter.                                                                                               plankartan  ska följas.                                                                                                                                laga kraft.                                                                                                                                                                                                                       vistelse förrän flytt av kraftledningen har kommit  till                    inte anläggas  förrän flytt av kraftledningen har kommit  till             bergstekniska   åtgärder  har kommit  till stånd.                                                                                         Gäller inte för område  a4.
-KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     PLATS                                                                                                                                                  KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                             PLANOMRÅDET
-Planområdesgräns.                                                           Administrativ  gräns.                                         Allmän    platsmark    med   kommunalt     huvudmannaskap                                Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                               Verksamheter.                                                                                                                                                                                                                      Markens   höjd över nollplanet  får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd  är \<angivet>   meter  över angivet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Bergsäkringsåtgärder    ska  utföras vid sprängning   i                                                                                    PBL 4 kap, 9 §                                                             PBL 4 kap, 16 §                                                                                                                                                                                                                    PBL 4 kap, 16 §
-beteckning  saknas   gäller bestämmelsen    inom  hela området.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             sammanbyggs     i fastighetsgräns. .                                                                                                                   material. Luftintag samt  entréer och  inlastning ska                      motsvarande    brandklass  E  30 vilket innebär att fönster                från väg  E6.                                                               brandfarliga  vätskor får inte anläggas  inom  25 meter                    stadigvarande   vistelse.                                                   användningsbestämmelsen       G  (drivmedelsförsäljning)                                                                                                                                                                                                                                                                                                                                 Skyltning  får endast ske  på fasad  och  ska placeras  lägre               Anordningar   som  kan  inverka störande  på  trafiken på                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       stånd.                                                                      stånd.
-Centrumverksamhet,      ej hotell, vandrarhem  eller handel                                                                                            Återvinningscentral.                                                                                                                                                                                                                                                                                          Markens   höjd  över nollplanet ska  vara lägst +37  meter.                                                                                                                                                                                                                                      Omfattning                                                                                                                                             Placering                                                                                                                                              Störningsskydd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Avskärande   dike  för skyfallsled får finnas.                             Utfart för utryckningsfordon  får finnas. Utfart för övriga                                                                                                                                                                                                                                                   Område    inom  vilket bergteknisk åtgärd  ska utföras.                                                                                                                                                                                                                                                                                                                      Villkor för startbesked                                                                                                                                                                                                                        Startbesked   får inte ges för byggnader  förrän
-Mark                                                                                                                                                                                                                              Mark                                                                                                                                                                                                                                            nollplan .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        berget.  Åtgärden                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Genomförandetid                                                                                                                                        Markreservat                                                                                                                                                                                                                                                                                                                                                                             Genomförandetid
-Användningsgräns.                                                           Egenskaps-    och administrativ gräns.                         PBL 4 kap, 5 §                                                                          Väg.                                                                       med   livsmedel.                                                                                                                                                                                                                   Industri.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 anordnas  på                                                               inte kan vara  öppningsbara   eller endast kan  öppnas                                                                                                 från fastighetsgräns  mot  kvartersmark.  Avvattning  av                                                                                               ska utformas   med  utrymningsmöjlighet   som   vetter bort                                                                                                                                                                       fordon  får inte finnas.                                                                                                                               än  takfotshöjden.  Ljusskyltar eller andra anordningar                     väg E6  (exempelvis   ljusskyltar med  starkt ljus, blinkande                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          avskärande   dike för skyfallsled i öster har anlagts.
-ska  godkännas   av  sakkunnig  bergtekniker.
-PBL 4 kap, 11 §                                                                                                                                       PBL 4 kap, 16 §                                                                                                                                        PBL 4 kap, 12 §                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                PBL 4 kap, 14 §
-PBL 4 kap, 5 §                                                                                                                                                                                                                     PBL 4 kap, 10 §                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              lämpligt sätt så att de vetter bort från väg E6. Minst en                  med  specialverktyg   för exempelvis  fönsterputsning.                                                                                                 hårdgjorda  ytor ska                                                                                                                                   från drivmedelsförsäljningen.                                                                                                                                                                                                                                                                                                                                                            som   kan inverka  störande  på trafiken på väg  E6  får ej                 ljus eller bildväxlande skyltar) får ej anordnas.                                                                                                                                                                     PBL 4 kap, 21 §                                                                                                                                       PBL 4 kap, 6 §                                                                                                                                                                                                                                                                                                                                                                            PBL 4 kap, 21 §
-utrymningsväg   i varje byggnad  ska  vetta bort från väg                  Luftintag placeras  högt och  ska vetta bort från väg  E6.                                                                                             förses med   anläggning  för uppsamling   av olja. Entréer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      anordnas.
-E6. Ytor mellan  byggnad   och väg  E6  utformas  för att                  Entréer  och inlastning ska  anordnas   på lämpligt sätt så                                                                                            för byggnader   inom  25 meter  från drivmedelsstationen,
-inte uppmuntra  till stadigvarande vistelse.                               att de vetter bort från väg E6. Vid utformning   av                                                                                                    bör vetta bort från drivmedelsstationen.Byggnader      och
-byggnader   ska  hänsyn  tas till dimensionerande                                                                                                      tekniska  anläggningar  kopplade   till hantering av
-explosionslast.  Fasad  ska  vara i obrännbart  material.                                                                                              brandfarliga  vätskor får inte anläggas  inom  25 meter
-Platser för utevistelse får inte anordnas.                                                                                                             från fastighetsgräns  mot  kvartersmark.  Avvattning  av
+Endast  angiven   användning   och  utformning  är tillåten. Där                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              med  livsmedel.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            meter.                                                                                                                                                 användningsområdet.                                                         fastighetsgräns.  Bestämmelsen     gäller inte om byggnder                 angränsande    byggnadsdel.                                                 obrännbart                                                                 Fönster  och  ingående   komponenter   ska  vara                            Luftintag placeras  högt på  byggnad   och orienteras  bort                hantering  av
+KVARTERSMARK
+Planområdesgräns.                                                          Administrativ  gräns.                                          Allmän   platsmark    med   kommunalt      huvudmannaskap                               Naturområde.                                                   PBL 4 kap, 5 §                                                                          Verksamheter.                                                                                                                                          Pumpstation.                                                                Verksamheter.                                                                                                                                                                                                                     Markens   höjd över  nollplanet får vara högst +38  meter  .                                                                                           Upplag  får inte finnas.                                                                                                                               Högsta  nockhöjd   är \<angivet>  meter  över angivet
+beteckning   saknas  gäller bestämmelsen    inom  hela  området.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            sammanbyggs     i fastighetsgräns.  .                                                                                                                  material. Luftintag samt  entréer och  inlastning ska                      motsvarande    brandklass   E 30 vilket innebär att fönster                 från väg E6.                                                               brandfarliga  vätskor får inte anläggas  inom  25 meter
+Centrumverksamhet,     ej hotell, vandrarhem  eller handel                                                                                             Återvinningscentral.                                                                                                                                                                                                                                                                                          Markens   höjd över nollplanet ska  vara lägst +37  meter.                                                                                                                                                                                                                                      Omfattning                                                                                                                                             Placering                                                                                                                                              Störningsskydd
+Mark                                                                                                                                                                                                                              Mark                                                                                                                                                                                                                                            nollplan .
+Användningsgräns.                                                          Egenskaps-    och administrativ  gräns.                        PBL 4 kap, 5 §                                                                          Väg.                                                                                                                                                                                                                                                                                                          Industri.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 anordnas   på                                                              inte kan  vara öppningsbara   eller endast  kan öppnas                                                                                                 från fastighetsgräns  mot  kvartersmark.  Avvattning  av
+med  livsmedel.
+PBL 4 kap, 11 §                                                                                                                                        PBL 4 kap, 16 §                                                                                                                                        PBL 4 kap, 12 §
+PBL 4 kap, 5 §                                                                                                                                                                                                                     PBL 4 kap, 10 §                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              lämpligt sätt så att de vetter bort från väg E6. Minst  en                 med   specialverktyg  för exempelvis  fönsterputsning.                                                                                                 hårdgjorda   ytor ska
+
+utrymningsväg    i varje byggnad  ska vetta bort från väg                  Luftintag  placeras högt  och ska  vetta bort från väg E6.
+
+E6. Ytor mellan  byggnad   och  väg  E6 utformas  för att                  Entréer  och  inlastning ska anordnas   på lämpligt  sätt så
+inte uppmuntra   till stadigvarande vistelse.                              att de vetter bort från väg E6.  Vid utformning  av
+
+byggnader    ska hänsyn   tas till dimensionerande
+explosionslast.  Fasad   ska vara  i obrännbart material.
+
+Platser  för utevistelse får inte anordnas.
+
+förses med   anläggning  för uppsamling   av olja. Entréer
+
+för byggnader   inom  25 meter  från drivmedelsstationen,
+bör vetta bort från drivmedelsstationen.Byggnader      och
+
+tekniska  anläggningar  kopplade   till hantering av
+brandfarliga  vätskor får inte anläggas  inom  25 meter
+
+från fastighetsgräns  mot  kvartersmark.  Avvattning  av
 hårdgjorda  ytor ska  förses med  anläggning   för
-uppsamling   av olja. Entréer för byggnader   inom  25
-meter  från drivmedelsstationen,   bör vetta bort från
 
+uppsamling   av olja. Entréer för byggnader   inom  25
+
+meter  från drivmedelsstationen,   bör vetta bort från
 drivmedelsstationen.
 
 10-16 m
 
-Detaljplan    för verksamheter     i
+Obebyggda    ytor bör utformas  så  att de inte uppmuntrar                 Byggnader    som  uppförs  inom  40 meter  från                             Stängsel  ska  finnas längs krön  vid bergschakt.
+
+till                                                                       kvartersmark   som   omfattas  av
+Bergsäkringsåtgärder    ska utföras  vid sprängning  i
+stadigvarande   vistelse.                                                  användningsbestämmelsen        G (drivmedelsförsäljning)
+berget. Åtgärden
+ska  utformas  med   utrymningsmöjlighet   som  vetter bort
+ska godkännas    av sakkunnig   bergtekniker.
+från drivmedelsförsäljningen.
+
+Påfyllningsanslutning   till cisterner ska placeras minst 25  Utfart
+
+meter  från övriga byggnader   (ej bensinstation).
+PBL 4 kap, 9 §
+Avskärande    dike för skyfallsled får finnas.                             Utfart för utryckningsfordon   får finnas. Utfart för övriga
+fordon  får inte finnas.
+
+Utformning                                                                               Fasad  mot  väg E6  och  väg 158  ska ges  en omsorgsfull
+
+utformning  med  hänsyn   till områdets exponerade   läge.
+PBL 4 kap, 16 §
+Skyltning får endast  ske på fasad  och  ska placeras  lägre
+än takfotshöjden.  Ljusskyltar eller andra anordningar
+som  kan inverka  störande  på  trafiken på väg E6  får ej
+
+anordnas.
+
+En  pylon för skyltändamål   får uppföras på  en plats inom   Utförande
+
+egenskapsområdet     med   en högsta  höjd  på 12 meter.
+PBL 4 kap, 16 §
+Anordningar   som  kan  inverka störande   på trafiken på
+väg  E6 (exempelvis   ljusskyltar med  starkt ljus, blinkande
+ljus eller bildväxlande skyltar) får ej anordnas.
+
+Ingen  markbelastning   är tillåten. Marknivåer enligt         ADMINISTRATIVA           BESTÄMMELSER              FÖR    ALLMÄN                        Genomförandetiden      är 5 år från den dag  planen  vinner    ADMINISTRATIVA           BESTÄMMELSER              FÖR                                  Markreservat   för allmännyttiga  underjordiska  ledningar.                 Startbesked   får inte ges för byggnader  för stadigvarande                Startbesked   får inte ges för byggnader   och parkering  får               Startbesked   får inte ges för byggnader  förrän              ADMINISTRATIVA            BESTÄMMELSER             FÖR                      Genomförandetiden     är 15 år från den  dag planen  vinner  laga kraft.
+
+plankartan   ska följas.                                                                                                                               laga  kraft.                                                                                                                                                                                                                       vistelse förrän flytt av kraftledningen har kommit  till                   inte anläggas   förrän flytt av kraftledningen har kommit  till             bergstekniska   åtgärder har  kommit  till stånd.                                                                                         Gäller inte för område  a4.
+PLATS                                                                                                                                                  KVARTERSMARK                                                                                                                                                                                                                                                                                                                                                                             PLANOMRÅDET
+stånd.                                                                     stånd.
+Område   inom  vilket bergteknisk  åtgärd ska  utföras.                                                                                                                                                                                                                                                                                                                     Villkor  för startbesked                                                                                                                                                                                                                        Startbesked   får inte ges för byggnader  förrän
+Genomförandetid                                                                                                                                        Markreservat                                                                                                                                                                                                                                                                                                                                                                             Genomförandetid
+avskärande   dike för skyfallsled i öster har anlagts.
+PBL 4 kap, 14 §
+PBL 4 kap, 21 §                                                                                                                                        PBL 4 kap, 6 §                                                                                                                                                                                                                                                                                                                                                                            PBL 4 kap, 21 §
+
+Detaljplan   för verksamheter      i
 Antagandehandling
 Klovsten
 
-Inom  Ysby  1:2 med   flera                     Beslutsdatum  Instans
-i Kungsbacka   stad                             Samråd
+Inom   Ysby  1:2 med   flera                    Beslutsdatum   Instans
+
+i Kungsbacka    stad                             Samråd
 BN §372
 2019-11-21
 Granskning
 BN §372
-Kungsbacka    kommun                            2019-11-21
+Kungsbacka     kommun                            2019-11-21
 Antagande
-2025-01-21                                                  KF
+2025-01-21                                                 KF
 xxxx-xx-xx
 Laga kraft
 xxxx-xx-xx
 Plankostnads-
-Ida Lennartsson             Maria Malone        Diarenummer
+Ida Lennartsson            Maria Malone         Diarenummer
 avtal
 2018-00007
-Verksamhetschef Plan        Senior Planarkitekt             Ja/Nej
-Illustration          Detaljplanen är upprättad enlig PBL KBXXX
+Verksamhetschef Plan       Senior Planarkitekt             Ja/Nej
+Illustration         Detaljplanen är upprättad enlig PBL KBXXX
 2010:900 med utökat förfarande
 
 <!-- sida 660 -->
@@ -31897,7 +32498,7 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
@@ -32468,7 +33069,7 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
@@ -33031,98 +33632,110 @@ Transaktionsidentitet: 0233A04A9ACAE562EDBD1065C87FEB7629A9F4492A
 
 <!-- sida 774 -->
 
-PLANBESTÄMMELSER                                                           Skydd       mot    störningar
+PLANBESTÄMMELSER
+
+Följande      gäller   inom    områden        med
+
+nedanstående          beteckningar.        Endast      angiven
+
+användning        och    utformning       är  tillåten.  Där
+
+beteckning       saknas      gäller   bestämmelsen           inom
+
+hela   området.
+
+GRÄNSER
+
+Skydd       mot    störningar
 
 Stängsel      ska   finnas    längs    krön    vid
-Följande      gäller    inom    områden       med
+
 bergschakt.
-nedanstående           beteckningar.        Endast     angiven
 
 Oeftergivliga       eller  spetsiga      föremål     får
-användning         och   utformning       är  tillåten.   Där
-inte  finnas.
-beteckning        saknas     gäller    bestämmelsen          inom
 
-hela    området.                                                                         Byggnad       för  stadigvarande         vistelse     får
+inte  finnas.
+
+Byggnad       för  stadigvarande         vistelse     får
 
 ej  uppföras.      Fasader      inklusive     dörrar
-GRÄNSER
+
 och   fönster     som    vetter   mot
 
-Västkustbanan          ska    utföras    i lägst
+Västkustbanan          ska   utföras    i lägst
 Planområdesgräns.
 brandklass       EI  30.   Minst    en
 Användningsgräns.
-utrymningsväg          som    inte   vetter   mot
+utrymningsväg         som     inte  vetter   mot
 
 Egenskapsgräns.
-Västkustbanan          ska    finnas.
+Västkustbanan          ska   finnas.
 Sekundär       egenskapsgräns.
-Fasader      som     vetter   mot    Västkustbanan
+Fasader      som    vetter    mot   Västkustbanan
 
 ska   utföras    i obrännbart       material.     Minst
-ANVÄNDNING                  AV     MARK
+ANVÄNDNING                   AV    MARK
 
-en   utrymningsväg          som    inte  vetter    mot
-Allmän      platsmark
-Västkustbanan          ska    finnas.
+en  utrymningsväg          som    inte   vetter   mot
+Allmän       platsmark
+Västkustbanan          ska   finnas.
 
 Gata.
-Luftintag     ska   placeras      så  långt    från
+Luftintag    ska    placeras     så   långt   från
 
-Kvartersmark                                                                            Västkustbanan          som     möjligt.   Entréer/
+Kvartersmark                                                                             Västkustbanan          som    möjligt.    Entréer/
 
-lastintag     ska   om   möjligt    placeras      så  att
+lastintag    ska   om    möjligt    placeras     så   att
 Industri.
-de   inte  vetter    mot   järnvägen.
-
-EGENSKAPSBESTÄMMELSER                                       FÖR
-
-KVARTERSMARK                                                                            Bergsäkringsåtgärder             ska   utföras     vid
-
-sprängning        i berget.    Åtgärden      ska
-Avgränsad            via   egenskapsgräns                  och
-godkännas        av   sakkunnig       bergtekniker.
-användningsgräns
+de  inte   vetter   mot    järnvägen.
 
 EGENSKAPSBESTÄMMELSER                                        FÖR
-Begränsning           av    markens         utnyttjande
-KVARTERSMARK
-Marken      får  inte  förses    med     byggnad.
 
+KVARTERSMARK                                                                             Bergsäkringsåtgärder             ska   utföras    vid
+
+sprängning       i berget.    Åtgärden       ska
+Avgränsad            via   egenskapsgräns                  och
+godkännas        av  sakkunnig        bergtekniker.
+användningsgräns
+
+EGENSKAPSBESTÄMMELSER                                       FÖR
+Begränsning            av   markens         utnyttjande
+
+KVARTERSMARK
+Marken      får  inte  förses     med    byggnad.
 Avgränsad            via    sekundär
 Höjd     på   byggnadsverk
 
 egenskapsgräns                  och
-Högsta     nockhöjd       är  \<angivet>      meter
+Högsta      nockhöjd      är  \<angivet>       meter
 användningsgräns
-över   angivet     nollplan.
+över    angivet    nollplan.
 
-Markreservat            för  allmännyttiga           ändamål
-Högsta     totalhöjd     är  77   meter    över
+Markreservat            för   allmännyttiga           ändamål
+Högsta      totalhöjd    är  77   meter     över
 
-angivet    nollplan.
-Markreservat         för  allmännyttiga
+angivet     nollplan.
+Markreservat        för  allmännyttiga
 
-Markens         anordnande           och     vegetation                                 underjordiska        ledningar.
+Markens         anordnande            och    vegetation                                  underjordiska        ledningar.
 
 Marken      får  inte  hårdgöras.
 GENOMFÖRANDETID
-Befintligt   dike    ska   bevaras.
-Genomförandetiden              är  10  år.
 
-Befintlig    markhöjd      får  inte   ändras     mer    än
+Befintligt    dike   ska   bevaras.
+Genomförandetiden              är  10   år.
+Befintlig    markhöjd       får  inte  ändras     mer    än
 
-0,5  meter.
+0,5   meter.
 
 Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                       ORIENTERINGSKARTA
 Detaljplan    för industri inom            Antagandehandling
 Skala 1:1000 i A1, skala 1:2000 i A3                        1200 och höjdsystemet RH 2000
 
-Beslutsdatum   Instans
+Beslutsdatum  Instans
 del av Kungsbacka    6:27
 Samråd
-och Hammargård      1:7 m  fl                             BN § 227
+och Hammargård      1:7 m fl                              BN § 227
 TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2024-05-17                                                                                                                                                                                                                           2022-08-25
 i Kungsbacka                                   Granskning
 BN § 118
@@ -40631,7 +41244,6 @@ Socialdemokraterna yrkar att kommunfullmäktige beslutar att:
 
 minnesdagen.
 
-NIER
 Ann-Louise Lundqvist (S)
 
 Ermin Skorié (S) Shabnam Zamani (5) Lafs Ericsson (S) ”—
@@ -42855,8 +43467,6 @@ ar .
 SD Socialdemokraterna
 
 Motion 2024-09-28
-
-VW.
 
 F ra mtid e n S fo | kh ä | Sa Levnadsvanornas bidrag till hälsa
 

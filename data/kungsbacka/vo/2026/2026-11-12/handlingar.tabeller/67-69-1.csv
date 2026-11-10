@@ -1,0 +1,87 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Verksamhetsnära organisering,,,,
+Process:,"Hantera externa utförare, Hemtjänst inom kundvalet",,,,
+Processnummer:,6.0.3.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Besluta,Beslut,Ciceron,Digital,Bevara,"Exempel på beslut: Beslut
+om förfrågningsunderlag och
+revidering av
+förfrågningsunderlag."
+Hantera underlag,Förfrågningsunderlag,Ciceron,Digital,Bevara,"Krav och kommersiella
+villkor för utförare av
+hemtjänst.
+Kopia finns i Kungsbacka
+kommuns upphandlingsstöd."
+Hantera ansökan,Öppningsprotokoll,"Kungsbacka kommuns
+upphandlingsstöd",Digital,Bevara,
+,Ansökan,Ciceron,Digital,Bevara,"I ansökan ingår bilagor till
+ansökan såsom
+försäkringsbevis, IVO-
+tillstånd etc.
+Kopia finns i Kungsbacka
+kommuns upphandlingsstöd."
+,"Korrespondens under tiden för
+certifiering","Kungsbacka kommuns
+upphandlingsstöd",Digital,Bevara,"Förvaltningen för Vård &
+Omsorg får begära att
+ansökan förtydligas eller
+kompletteras om det kan ske
+utan risk för särbehandling
+eller konkurrensbegränsning."
+Hantera ansökan,Utvärderingsprotokoll,Ciceron,Digital,Bevara,"Inkluderar kvalificering av
+inkomna ansökningar."
+,,,,,"Kopia finns i Kungsbacka
+kommuns upphandlingsstöd."
+,"Förhandling enligt MBL § 38
+avseende beslut om ny utförare av
+hemtjänstinsatser inom kundvalet",Ciceron,Digital,Bevara,"38 § Lag (1976:580) om
+medbestämmande i
+arbetslivet.
+Kopia finns i Kungsbacka
+kommuns upphandlingsstöd."
+Besluta,Beslut,Ciceron,Digital,Bevaras,"Ett beslut i form av ett
+beviljande eller avslag om att
+få bedriva hemtjänst. Beslutet
+ger sökande rätt att ansöka
+om rättelse av beslutet till
+Förvaltningsrätten."
+Teckna avtal,Avtal,Ciceron avtalsdiarium,Digital,Bevara,"Avtal om att bedriva
+hemtjänst samt ändringar och
+tillägg till avtal, vilka
+skriftligen godkänts av
+utförare genom intyg att
+utföraren tagit del av
+reviderat
+förfrågningsunderlag.
+Avtalstecknande sker mellan
+parterna. Avtalet upprättas i
+två exemplar, varav det ena
+förvaras hos kommunen och
+det andra hos utföraren.
+Kopia finns i Kungsbacka
+kommuns upphandlingsstöd."
+Överklaga,Överklagan,Ciceron,Digital,Bevara,"Handlingar rörande
+överklagande/rättelse av
+beslut. Ansökan ska vara
+skriftlig och skickas till
+Förvaltningsrätten inom tre
+veckor från det att
+underrättelse om beslutet har
+lämnats."
+Hantera avtal,Brister i förpliktelser enligt avtal,Ciceron,Digital,Bevara,
+,Upphörande av avtal,Ciceron,Digital,Bevara,"Om utföraren inte har fått
+någon omsorgstagare ett år
+efter ett beviljande, upphör
+avtalet automatiskt att gälla."
+,Uppsägning av avtal,Ciceron,Digital,Bevara,"Tre månaders uppsägningstid
+gäller för både kommunen
+och utföraren."
+,Upphörande av avtal i förtid,Ciceron,Digital,Bevara,"Upphörande av avtal ska vara
+skriftligt och innehålla datum
+för avtalets upphörande."
+Dokumentera,"Godkännande av byte av driftansvarig
+i verksamhet som drivs hos leverantör
+i valfrihetssystem",Ciceron,Digital,Bevara,
+,Uppföljningar,Ciceron,Digital,Bevara,"Helårs-, delårs- och
+kvalitetsuppföljning"

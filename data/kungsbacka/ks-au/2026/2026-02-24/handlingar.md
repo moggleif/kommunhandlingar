@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4c720df819c6b1741e4d1a3b/1771855197
 sha256: 2985e3516bf8dd35e863c29b4e85febdc66308256ae6316a9bb1fb079baf0f7f
 bytes: 15700371
 sidor: 201
-hamtad: 2026-10-25T09:03:47+00:00
-konverterad: 2026-10-25T09:05:29+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T23:39:33+00:00
+konverterad: 2026-11-09T23:41:21+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok]
@@ -2132,27 +2132,20 @@ ska kunna komma till större användning i havsmiljöförvaltningen, se Brister 
 Tabell 1 Kriterier som ingår i definitionen av god miljöstatus gällande marina däggdjur enligt EU:s kommissionsbeslut och
 svenska indikatorer i HVMFS 2012:18, bilaga 2.
 
-Kriterium            Indikator             Övervakningsprogram
-D1C1                 1.1A Dödlighet av tumlare orsakad av Bifångst
-mänsklig aktivitet
+Kriterium
+D1C1
 Dödligheten per art till följd av bifångst är
-på en nivå som inte hotar arten och dess 1.1B Dödlighet av gråsäl orsakad av
-långsiktiga livskraft mänsklig aktivitet
-1.1C Dödlighet av knubbsäl orsakad av
-mänsklig aktivitet
-1.1D Dödlighet av vikaresäl orsakad av
-mänsklig aktivitet
-D1C2                 1.2C Abundans och trender för gråsäl Säl
-Populationer av arter av fåglar, däggdjur 1.2D Abundans och trender för knubbsäl
+på en nivå som inte hotar arten och dess
+långsiktiga livskraft
+
+D1C2
+Populationer av arter av fåglar, däggdjur
 och fiskar är inte negativt påverkade av
-1.2E Abundans och trender för vikaresäl
 belastning från mänsklig verksamhet,
 och deras långsiktiga överlevnad är
-1.2I Abundans och trender för tumlare Tumlare
 säkerställd
-D1C3                 1.3A Dräktighetsfrekvens hos gråsäl Hälso- och sjukdomstillstånd
-hos marina däggdjur
-Kompletterande (Obligatoriskt för 1.3B Späcktjocklek hos gråsäl
+D1C3
+Kompletterande (Obligatoriskt för
 kommersiellt utnyttjade fiskar och
 bläckfiskar och kompletterande för andra
 arter)
@@ -2163,32 +2156,59 @@ näringsstatus och
 reproduktionsförmåga) som tyder på att
 de är friska och inte negativt påverkade
 av mänsklig verksamhet
-D1C4                 1.4A Utbredning av gråsäl Säl
-(Obligatoriskt för arter som omfattas av 1.4B Utbredning av knubbsäl
+D1C4
+(Obligatoriskt för arter som omfattas av
 bilagorna II, IV eller V till direktiv
-1.4C Utbredning av vikaresäl
 92/43/EEG och kompletterande för
 andra arter)
 Utbredning av arter överensstämmer
-1.4D Utbreding av tumlare Tumlare
 med rådande geomorfologiska,
 geografiska och klimatiska villkor
-D1C5                 Indikator saknas      Övervakning av relevanta
-belastningar, till exempel
+D1C5
 (Obligatoriskt för arter som omfattas av
-undervattensbuller, fiske,
 bilagorna II, IV eller V till direktiv
-utsläpp av farliga ämnen och
 92/43/EEG och kompletterande för
-sjöfart.
 andra arter)
 Arters livsmiljöer har den nödvändiga
 utsträckning och de förhållanden som
 krävs för att stödja de olika stadierna i
 artens livscykel
+
+Indikator             Övervakningsprogram
+1.1A Dödlighet av tumlare orsakad av Bifångst
+mänsklig aktivitet
+1.1B Dödlighet av gråsäl orsakad av
+mänsklig aktivitet
+1.1C Dödlighet av knubbsäl orsakad av
+mänsklig aktivitet
+1.1D Dödlighet av vikaresäl orsakad av
+mänsklig aktivitet
+1.2C Abundans och trender för gråsäl Säl
+1.2D Abundans och trender för knubbsäl
+1.2E Abundans och trender för vikaresäl
+1.2I Abundans och trender för tumlare Tumlare
+
+1.3A Dräktighetsfrekvens hos gråsäl Hälso- och sjukdomstillstånd
+hos marina däggdjur
+1.3B Späcktjocklek hos gråsäl
+
+1.4A Utbredning av gråsäl Säl
+1.4B Utbredning av knubbsäl
+1.4C Utbredning av vikaresäl
+
+1.4D Utbreding av tumlare Tumlare
+
+Indikator saknas      Övervakning av relevanta
+belastningar, till exempel
+undervattensbuller, fiske,
+utsläpp av farliga ämnen och
+sjöfart.
+
 Underlag för miljökvalitetsnormer och åtgärdsuppföljning
+
 Det finns två miljökvalitetsnormer i HaV:s föreskrifter HVMFS 2012:18, som har betydelse för
 marina däggdjur.
+
 \- 26 -
 
 <!-- sida 49 -->
@@ -2563,29 +2583,30 @@ sjöfåglar (se tabell 4). Åtgärderna ses för närvarande över inför komman
 
 Tabell 4 Åtgärder med anknytning till sjöfåglar.
 
-Åtgärd               Förväntade effekter   Övervakningsprogram med
+Åtgärd                Förväntade effekter  Övervakningsprogram med
 koppling till åtgärden
-ÅPH 7                Minskad störning på fåglar på grund av Sjöfåglar i marin miljö
+
+ÅPH 7                 Minskad störning på fåglar på grund av Sjöfåglar i marin miljö
 minskad båttrafik
 Utreda var ytterligare fredningsområden
 bör inrättas i kustområdena, samt inrätta
-sådana områden       Minskade bifångster   Bifångst
-ÅPH 8                Minskad störning på fåglar på grund av Sjöfåglar i marin miljö
+sådana områden        Minskade bifångster  Bifångst
+ÅPH 8                 Minskad störning på fåglar på grund av Sjöfåglar i marin miljö
 minskad båttrafik
 Utreda för vilka arter och under vilken tid
 på året som generella fredningstider bör
 införas för kustfisk, samt inrätta sådana Minskade bifångster Bifångst
-ÅPH 9                Minskad störning på fåglar på grund av Sjöfåglar i marin miljö
+
+ÅPH 9                 Minskad störning på fåglar på grund av Sjöfåglar i marin miljö
 minskad båttrafik/minskad
 Anpassa fiskeflottans kapacitet till
 fiskeansträngning
 tillgängliga fiskemöjligheter i vissa
 flottsegment
-Minskade bifångster   Bifångst
-ÅPH 22               Minskade mängder marint skräp får Sjöfåglar i marin miljö
-positiva effekter för fåglar, fiskar och
+Minskade bifångster  Bifångst
+
+ÅPH 22
 Bedriva strategiskt arbete genom
-marina däggdjur
 inkludering av marint skräp i relevanta
 avfallsplaner och program inklusive de
 kommunala avfallsplanerna, där
@@ -2595,26 +2616,37 @@ Materialströmmar av plast behöver
 prioriteras och styrmedel utredas i syfte
 att minska förekomsten av plastföremål
 som skräp i den marina miljön
-ÅPH 23               Minskade mängder marint skräp får Sjöfåglar i marin miljö
-positiva effekter för fåglar, fiskar och
+ÅPH 23
 Vid revidering av de kommunala
-marina däggdjur
 avfallsplanerna identifiera och belysa hur
 avfallshanteringen kan bidra till att
 minska uppkomsten av marint skräp
 samt sätta upp målsättningar för ett
 sådant arbete
-ÅPH 46               Ökad jakt på storskarv Jakt på säl och sjöfågel
+
+Minskade mängder marint skräp får Sjöfåglar i marin miljö
+positiva effekter för fåglar, fiskar och
+marina däggdjur
+
+Minskade mängder marint skräp får Sjöfåglar i marin miljö
+positiva effekter för fåglar, fiskar och
+marina däggdjur
+
+ÅPH 46                Ökad jakt på storskarv Jakt på säl och sjöfågel
 Behovsstyrd områdesspecifik
 begränsning av rovdjur; gråsäl i
 Östersjön, knubbsäl i Västerhavet och
 storskarv, för att stödja åtgärder med
 syfte att återuppbygga lokala
 kustfisksamhällen.
+
 Brister och utveckling
+
 I dagsläget ger övervakningen av sjöfåglar underlag för bedömning av abundans (D1C2) och
 delvis häckningsframgång (D1C3) utifrån fastslagna tröskelvärden. Bedömning av bifångst
+
 19 Referens: Havs- och vattenmyndigheten (2021)
+
 \- 33 -
 
 <!-- sida 56 -->
@@ -2739,9 +2771,9 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 • Migrerande fisk (ål)
 • Migrerande fisk (lax)
-
 • Hälso- och sjukdomstillstånd hos fisk, kräft- och blötdjur
 • Genetisk inomartsvariation
+
 • Effekter av kylvatten
 • Bifångst
 • Kontroll av kommersiell fiskeriverksamhet
@@ -2753,42 +2785,33 @@ se nästa övervakningsstrategi). Under deskriptor 1 är det obligatoriskt att b
 arternas habitat) ska bedömas om det finns en risk att en specifik art eller artgrupp inte uppnår
 dessa. Förändringar i åldersstruktur hos fisk bedöms vara en viktig variabel och inkluderades
 därför i den senaste bedömningen. Dessutom ingår parametern som ett obligatoriskt kriterium
-
 enligt deskriptor 3, tillsammans med bedömning av lekbiomassa (D3C2) och fiskeridödlighet
 (D3C1). I dagsläget finns det indikatorer framtagna för att bedöma status baserat på data från
+
 övervakningsprogrammen Kustfisk och Fisk och kräftdjur i utsjön (se tabell 5), men övrig
 övervakning ger viktiga underlag för kvalitativ bedömning och analys av bakomliggande orsaker
 till det rådande tillståndet.
 
 Tabell 5 Kriterier som ingår i definitionen av god miljlöstatus för fisk enligt EU:s kommissionsbeslut och svenska indikatorer i
 HVMFS 2012:18, bilaga 2.
-Kriterium            Indikator             Övervakningsprogram
 
-D1C1                 Indikator saknas      Bifångst
+Kriterium
+D1C1
 Dödligheten per art till följd av bifångst är
 på en nivå som inte hotar arten och dess
 långsiktiga livskraft
-D1C2                 1.2J Förekomst av nyckelart av fisk i Kustfisk
-kustvatten
+D1C2
 Populationer av arter av fåglar, däggdjur
-och fiskar är inte negativt påverkade av 1.2K Trender för känsliga fiskarter Fisk och kräftdjur i utsjön
+och fiskar är inte negativt påverkade av
 belastning från mänsklig verksamhet,
-och deras långsiktiga överlevnad är 3.2A Lekbiomassa (SSB) för alla Fisk och kräftdjur i utsjön
-säkerställd          kommerciellt nyttjade populationer
-Inga svenska indikatorer, dock ingår Migrerande fisk (lax)
-bedömningar av lax och ål under D1C2
-Migrerande fisk (ål)
-baserat på Helcoms bedömning, som
-grundas på Ices senaste
-beståndsrådgivning.
-Bidra till bedömning av 1.2J och 3.2A. Effekter av kylvatten
-Genetisk inomartsvariation
-D1C3                 1.3E Storleksfördelning av kustfiskarter Kustfisk
-Kompletterande (Obligatoriskt för 3.3A Åldersfördelning för alla Fisk och kräftdjur i utsjön
-kommersiellt utnyttjade fiskar och kommersiellt nyttjade populationer
+och deras långsiktiga överlevnad är
+säkerställd
+
+D1C3
+Kompletterande (Obligatoriskt för
+kommersiellt utnyttjade fiskar och
 bläckfiskar och kompletterande för andra
-arter)               Inga indikatorer      Hälso- och sjukdomstillstånd
-hos fisk, kräft- och blötdjur
+arter)
 Populationerna av fåglar, däggdjur och
 fiskar har demografiska egenskaper (till
 exempel storleksfördelning,
@@ -2796,7 +2819,47 @@ näringsstatus och
 reproduktionsförmåga) som tyder på att
 de är friska och inte negativt påverkade
 av mänsklig verksamhet
-D1C4                 Indikator saknas      Kustfisk
+D1C4
+
+Indikator             Övervakningsprogram
+Indikator saknas      Bifångst
+
+1.2J Förekomst av nyckelart av fisk i
+kustvatten
+1.2K Trender för känsliga fiskarter
+3.2A Lekbiomassa (SSB) för alla
+kommerciellt nyttjade populationer
+Inga svenska indikatorer, dock ingår
+bedömningar av lax och ål under D1C2
+baserat på Helcoms bedömning, som
+grundas på Ices senaste
+beståndsrådgivning.
+Bidra till bedömning av 1.2J och 3.2A.
+1.3E Storleksfördelning av kustfiskarter
+
+3.3A Åldersfördelning för alla
+kommersiellt nyttjade populationer
+Inga indikatorer
+
+Kustfisk
+
+Fisk och kräftdjur i utsjön
+Fisk och kräftdjur i utsjön
+
+Migrerande fisk (lax)
+Migrerande fisk (ål)
+
+Effekter av kylvatten
+Genetisk inomartsvariation
+Kustfisk
+
+Fisk och kräftdjur i utsjön
+
+Hälso- och sjukdomstillstånd
+hos fisk, kräft- och blötdjur
+
+Indikator saknas      Kustfisk
+
 \- 36 -
 
 <!-- sida 59 -->
@@ -2859,13 +2922,15 @@ Tillhörande indikatorer till miljökvalitetsnormen C.4
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 I åtgärdsprogrammet som beslutades av HaV 202120 finns det ett antal åtgärder med koppling till
+
 fisk (se tabell 6). Åtgärderna ses för närvarande över inför kommande programperiod.
 
 Tabell 6 Åtgärder med anknytning till fisk.
 
-Åtgärd               Förväntade effekter   Övervakningsprogram med
+Åtgärd                Förväntade effekter  Övervakningsprogram med
 koppling till åtgärden
-ÅPH 4                Minskat fisketryck leder till positiv Kustfisk
+
+ÅPH 4                 Minskat fisketryck leder till positiv Kustfisk
 beståndsutveckling för såväl målarter
 Införa nya fiskebestämmelser för att       Fisk och kräftdjur i utsjön
 som eventuella bifångstarter
@@ -2875,7 +2940,7 @@ bestånd innanför trålgränsen i
 Skagerrak, Kattegatt och Östersjön         Kontroll av kommersiell
 fiskeriverksamhet
 Fritidsfiske
-ÅPH 5                Minskat fisketryck leder till positiv Kustfisk
+ÅPH 5                 Minskat fisketryck leder till positiv Kustfisk
 beståndsutveckling för såväl målarter
 Införa nya fiskebestämmelser som syftar    Fisk och kräftdjur i utsjön
 som eventuella bifångstarter
@@ -2885,53 +2950,71 @@ mer artselektivt i Skagerrak, Kattegatt
 och Östersjön                              Kontroll av kommersiell
 fiskeriverksamhet
 Fritidsfiske
-ÅPH 6                Minskat fisketryck leder till positiv Kustfisk
-beståndsutveckling för såväl målarter
-Införa fiskebestämmelser som syftar till   Fisk och kräftdjur i utsjön
-som eventuella bifångstarter
+
+ÅPH 6
+Införa fiskebestämmelser som syftar till
 att minska fisketrycket på kustlevande
-Bifångst
 bestånd innanför trålgränsen i
-Skagerrak, Kattegatt och Östersjön som     Kontroll av kommersiell
-behöver stärkt skydd, men som kan          fiskeriverksamhet
+Skagerrak, Kattegatt och Östersjön som
+behöver stärkt skydd, men som kan
 fiskas till viss del
-Fritidsfiske
-ÅPH 7                Minskat fisketryck leder till positiv Kustfisk
-beståndsutveckling för såväl målarter
-Utreda var ytterligare fredningsområden    Fisk och kräftdjur i utsjön
-som eventuella bifångstarter
+ÅPH 7
+Utreda var ytterligare fredningsområden
 bör inrättas i kustområdena, samt inrätta
-Bifångst
 sådana områden
-Kontroll av kommersiell
-fiskeriverksamhet
-Fritidsfiske
-ÅPH 8                Minskat fisketryck leder till positiv Kustfisk
-beståndsutveckling för såväl målarter
-Utreda för vilka arter och under vilken tid Fisk och kräftdjur i utsjön
-som eventuella bifångstarter
+
+ÅPH 8
+Utreda för vilka arter och under vilken tid
 på året som generella fredningstider bör
-Bifångst
 införas för kustfisk, samt inrätta sådana
+
+ÅPH 9
+Anpassa fiskeflottans kapacitet till
+tillgängliga fiskemöjligheter i vissa
+flottsegment
+
+ÅPH 24
+Ta fram övergripande ramar för
+nationella åtgärdsprogram för hotade
+
+Minskat fisketryck leder till positiv Kustfisk
+beståndsutveckling för såväl målarter
+Fisk och kräftdjur i utsjön
+som eventuella bifångstarter
+Bifångst
 Kontroll av kommersiell
 fiskeriverksamhet
 Fritidsfiske
-ÅPH 9                Minskat fisketryck leder till positiv Kustfisk
+Minskat fisketryck leder till positiv Kustfisk
 beståndsutveckling för såväl målarter
-Anpassa fiskeflottans kapacitet till       Fisk och kräftdjur i utsjön
+Fisk och kräftdjur i utsjön
 som eventuella bifångstarter
-tillgängliga fiskemöjligheter i vissa
 Bifångst
-flottsegment
 Kontroll av kommersiell
 fiskeriverksamhet
-ÅPH 24               Förbättrat tillstånd till följd av Migrerande fisk (lax)
+Fritidsfiske
+Minskat fisketryck leder till positiv Kustfisk
+beståndsutveckling för såväl målarter
+Fisk och kräftdjur i utsjön
+som eventuella bifångstarter
+Bifångst
+Kontroll av kommersiell
+fiskeriverksamhet
+Fritidsfiske
+Minskat fisketryck leder till positiv Kustfisk
+beståndsutveckling för såväl målarter
+Fisk och kräftdjur i utsjön
+som eventuella bifångstarter
+Bifångst
+Kontroll av kommersiell
+fiskeriverksamhet
+Förbättrat tillstånd till följd av Migrerande fisk (lax)
 åtgärdsprogram för anadroma och
-Ta fram övergripande ramar för
 diadroma arter, med fokus på
-nationella åtgärdsprogram för hotade
 flodnejonöga, havsnejonöga och lax
+
 20 Referens: Havs- och vattenmyndigheten (2021)
+
 \- 38 -
 
 <!-- sida 61 -->
@@ -2940,38 +3023,48 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 arter och naturtyper i marin miljö samt
 samordna arbetet nationellt
-ÅPH 34               Minskat oavsiktligt uttag av arter och Kustfisk
+ÅPH 34                Minskat oavsiktligt uttag av arter och Kustfisk
 bättre status för bestånd
 Stärkt tillsyn och förbättrad hantering av Fisk och kräftdjur i utsjön
 redskap inom fritidsfisket
 Fritidsfiske
-ÅPH 35               Begränsad fångst av stora individer av Kustfisk
+ÅPH 35                Begränsad fångst av stora individer av Kustfisk
 fisk och skaldjur
 Främja en storleksfördelning hos det       Kontroll av kommersiell
 kustnära fisksamhället som möjliggör att   fiskeriverksamhet
 viktiga funktioner i näringsväven
 upprätthålls
-ÅPH 36               Minskad påverkan i viktiga lek-, uppväxt- Kustfisk
-och/eller födosöksområden för relevanta
-Minska arealen trålsvept yta och öka       Fisk och kräftdjur i utsjön
-fiskbestånd, vilket leder till förbättrad
+
+ÅPH 36
+Minska arealen trålsvept yta och öka
 användningen av selektiva och
-status för bottenhabitat, näringsvävar Kontroll av kommersiell
 skonsamma redskap samt genomföra en
-och fiskbestånd       fiskeriverksamhet
 sammanställning av trålningens inverkan
 på kustnära fiskbestånd
+
+Minskad påverkan i viktiga lek-, uppväxt- Kustfisk
+och/eller födosöksområden för relevanta
+Fisk och kräftdjur i utsjön
+fiskbestånd, vilket leder till förbättrad
+status för bottenhabitat, näringsvävar Kontroll av kommersiell
+och fiskbestånd       fiskeriverksamhet
+
 Brister och utveckling
+
 Det finns övervakning för att ge underlag för bedömning av alla obligatoriska kriterier. Ändå finns
 potential för att kunna stärka och utveckla övervakningen i syfte att täcka fler områden och arter.
 Det finns inte indikatorer framtagna för all data som samlas in, men utvecklingen av indikatorer
 görs i samverkan med utvecklingen av övervakning.
+
 Arter som bedöms under deskriptor 1 (Biologisk mångfald) är delvis samma som de som bedöms
+
 under deskriptor 3 (Kommersiellt nyttjade fiskar och skaldjur). I D1 inkluderas dock även arter
 som inte är av ekonomiskt intresse. Data om broskfiskar i Västerhavet är i dagsläget bristfälligt. I
 senaste bedömningen ingick utvalda arter i en trendanalys. Att kunna göra en kvantitativ
 bedömning är dock fortfarande svårt.
+
 Kustfisk
+
 Övervakningen av kustfisk bedöms i dagsläget vara tillräcklig för att uppskatta abundans (D1C2)
 inom vissa kustvattentyper, men den geografiska täckningen behöver utökas för att möjliggöra
 mer heltäckande och säkra bedömningar. För att uppnå detta krävs en större omfattning av
@@ -2987,7 +3080,6 @@ bedöma om de kan användas som underlag för bland annat Havsmiljödirektivet.
 
 I bedömningen av kustfisk ingår även varmvattenarter såsom gös och gädda. För att öka
 tillförlitligheten i dessa bedömningar behöver data från både kustnära yrkesfiske och fritidsfiske
-
 inkluderas. Begränsningar i geografisk täckning och avsaknad av vissa arter i övervakningen
 påverkar även möjligheten att bedöma storleksfördelning hos kustfisk. För arter som sik, siklöja
 
@@ -3286,19 +3378,18 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 Tabell 8 Kriterier som ingår i definitionen av god miljöstatus för bentiska livsmiljöer enligt EU:s kommissionsbeslut och svenska
 indikatorer i HVMFS 2012:18, bilaga 2.
 
-Kriterium            Indikator             Övervakningsprogram
-D6C1                 Ger underlag för D6C4 Fysisk påverkan
+Kriterium             Indikator            Övervakningsprogram
+
+D6C1
 Rumslig omfattning och fördelning av
 fysisk förlust (varaktig förändring) av
 havsbotten
-D6C2                 Ger underlag för D6C3 Fysisk påverkan
+D6C2
 Rumslig omfattning och fördelning av
 belastningar som ger fysisk störning av
 havsbotten
-D6C3                 6.3A Utsträckning av fysisk störning i Kombinerad bedömning
-bentiska livsmiljöer  baserad på data från samtliga
+D6C3
 Rumslig omfattning av varje livsmiljötyp
-program
 som påverkas negativt av fysisk
 störning, genom ändring av dess
 biotiska och abiotiska struktur och dess
@@ -3309,42 +3400,71 @@ frånvaro av särskilt känsliga eller
 ömtåliga arter eller arter som
 tillhandahåller en viktig funktion, arternas
 storlekstruktur)
-D6C4                 6.4A Utsträckning av fysisk förlust i Kombinerad bedömning
-bentiska livsmiljöer  baserad på data från samtliga
+D6C4
 Omfattningen av förlust av
-program
 livsmiljötypen, till följd av mänskliga
 belastningar, överstiger inte en
 specificerad andel av livsmiljöns
 naturliga omfattning i
 bedömningsområdet
-D6C5                 5.5A Syrebalans i kustvatten Vattnets kemiska egenskaper
-– syre och pH
-Omfattningen av negativa effekter av 5.5B Syrebalans i utsjövatten
+D6C5
+Omfattningen av negativa effekter av
 mänskliga belastningar på
-5.5C Syreskuld i utsjövatten
 livsmiljötypens tillstånd, inklusive ändring
 av dess biotiska och abiotiska struktur
 och dess funktioner (till exempel typisk
 artsammansättning och dessa arters
 relativa abundans, frånvaro av särskilt
 känsliga eller ömtåliga arter eller arter
-5.7A Djuputbredning av makrovegetation Vegetationsklädda bottnar
 som tillhandahåller en viktig funktion,
-i kustvatten
 arternas storleksstruktur), överstiger inte
 en viss andel av livsmiljötypens naturliga
-omfattning i bedömningsområdet 5.8A Bottenfauna i kustvatten Sedimentlevande makrofauna
+omfattning i bedömningsområdet
+
+Ger underlag för D6C4 Fysisk påverkan
+
+Ger underlag för D6C3 Fysisk påverkan
+
+6.3A Utsträckning av fysisk störning i Kombinerad bedömning
+bentiska livsmiljöer  baserad på data från samtliga
+program
+
+6.4A Utsträckning av fysisk förlust i
+bentiska livsmiljöer
+
+5.5A Syrebalans i kustvatten
+5.5B Syrebalans i utsjövatten
+5.5C Syreskuld i utsjövatten
+
+5.7A Djuputbredning av makrovegetation
+i kustvatten
+5.8A Bottenfauna i kustvatten
 5.8B Bottenfauna i utsjövatten
+
+Kombinerad bedömning
+baserad på data från samtliga
+program
+
+Vattnets kemiska egenskaper
+– syre och pH
+
+Vegetationsklädda bottnar
+
+Sedimentlevande makrofauna
+
 6.5A Utbredning av ålgräsängar Vegetationsklädda bottnar
+
 Inga indikatorer      Större djur på havsbotten
 Bentiska livsmiljöer
 Genetisk inomartsvariation
+
 Underlag för miljökvalitetsnormer och åtgärdsuppföljning
+
 Det finns två miljökvalitetsnormer (MKN) för bentiska livsmiljöer i HaV:s föreskrifter HVMFS
 2012:18. Data från övervakningen av fysisk påverkan ger underlag till en av
 miljökvalitetsnormernas tillhörande indikatorer. Övervakningen av bentiska livsmiljöer kommer på
 sikt att kunna ge underlag för den MKN som i dagsläget saknar indikatorer.
+
 \- 45 -
 
 <!-- sida 68 -->
@@ -3355,7 +3475,6 @@ D.1 Miljökvalitetsnorm
 
 −  Havsbottenarealen som är opåverkad av mänsklig verksamhet ska ha en omfattning och
 utbredning som inte äventyrar upprätthållandet av livsmiljötypernas struktur samt deras
-
 funktioner, eller konnektiviteten för de livsmiljötypiska arterna.
 
 Tillhörande indikatorer till miljökvalitetsnormen D.1 saknas.
@@ -3363,6 +3482,7 @@ Tillhörande indikatorer till miljökvalitetsnormen D.1 saknas.
 D.3 Miljökvalitetsnorm
 
 −  Permanenta förändringar av hydrografiska förhållanden som beror på storskaliga
+
 verksamheter, enskilda eller samverkande, får inte påverka biologisk mångfald och
 ekosystem negativt.
 
@@ -3386,91 +3506,119 @@ programperiod.
 
 Tabell 9 Åtgärder med anknytning till bentiska livsmiljöer.
 
-Åtgärd               Förväntade effekter   Övervakningsprogram med
-koppling till åtgärden
-ÅPH 24               Förbättrat tillstånd till följd av Vegetationsklädda bottnar och
-åtgärdsprogram för:   Bentiska livsmiljöer
+Åtgärd
+
+ÅPH 24
 Ta fram övergripande ramar för
-nationella åtgärdsprogram för hotade Kustnära makrofyter och alger,
+nationella åtgärdsprogram för hotade
 arter och naturtyper i marin miljö samt
-Skalgrusbottnar och strömsatta grund i
 samordna arbetet nationellt
+
+ÅPH 25
+Ta fram kunskapsuppbyggande program
+för hotade arter och naturtyper i marin
+miljö samt samordna arbetet nationellt
+
+Förväntade effekter   Övervakningsprogram med
+koppling till åtgärden
+Förbättrat tillstånd till följd av Vegetationsklädda bottnar och
+åtgärdsprogram för:   Bentiska livsmiljöer
+Kustnära makrofyter och alger,
+Skalgrusbottnar och strömsatta grund i
 Östersjön med fokus på vissa fiskarter
 som harr och sik
 Musselbankar i Västerhavet med fokus
 på blåmusslor och hästmusslor
-ÅPH 25               Förbättrat tillstånd till följd av Bentiska livsmiljöer, Större
+Förbättrat tillstånd till följd av Bentiska livsmiljöer, Större
 kunskapsuppbyggande program: djur på havsbotten och Fysisk
-Ta fram kunskapsuppbyggande program
 påverkan
-för hotade arter och naturtyper i marin Musselbankar
-miljö samt samordna arbetet nationellt
+Musselbankar
 Fysisk påverkan: djupa mjukbottnar och
 sjöpennor i Västerhavet
+
 23 Referens: Havs- och vattenmyndigheten (2021)
+
 \- 46 -
 
 <!-- sida 69 -->
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
-Revmiljöer i marin atlantisk
-region/Nordsjön
-Skalgrusbottnar: bentisk fauna och
-maerl i Västerhavet
-ÅPH 26               Förbättrat tillstånd för bentiska livsmiljöer Bentiska livsmiljöer, Större
-i marina skyddade områden djur på havsbotten
+ÅPH 26
 Utveckla vägledning för vad
 förvaltningsdokument för marina
 skyddade områden ska innehålla
-ÅPH 27               Förbättrat tillstånd för bentiska livsmiljöer Bentiska livsmiljöer, Större
-i marina skyddade områden djur på havsbotten
+ÅPH 27
 Inrätta nya marina skyddade områden
 och andra rumsliga skyddsåtgärder i
 tillräcklig
 omfattning för att dessa ska stödja att
 god miljöstatus uppnås
-ÅPH 28               Förbättrat tillstånd för bentiska livsmiljöer Bentiska livsmiljöer, Större
-i marina skyddade områden djur på havsbotten
+ÅPH 28
 Införa förvaltningsåtgärder i marina
 skyddade områden (befintliga/nya, där
 sådana inte finns idag)
-ÅPH 29               Minskad påverkan på och ett förbättrat Bentiska livsmiljöer, Större
-tillstånd för bentiska livsmiljöer djur på havsbotten,
+ÅPH 29
 Att i samråd med berörda aktörer, ta
-Vegetationsklädda bottnar och
 fram en samordnad åtgärdsstrategi mot
-Fysisk påverkan
 fysisk påverkan
 och för biologisk återställning i
 kustvattenmiljön
-ÅPH 30               Minskad påverkan på och ett förbättrat Fysisk påverkan,
-tillstånd för bentiska livsmiljöer Vegetationsklädda bottnar och
+ÅPH 30
 Utveckla metoder för ekologisk
-Bentiska livsmiljöer
 kompensation och restaurering av
 marina miljöer
-ÅPH 31               Förbättrat tillstånd för ålgräsängar Vegetationsklädda bottnar och
-Bentiska livsmiljöer
+ÅPH 31
 Genomföra restaureringsåtgärder för
 ålgräs i Västerhavet
-ÅPH 36               Minskad fysisk störning från trålning Fysisk påverkan
+ÅPH 36
 Minska arealen trålsvept yta och öka
 användningen av selektiva och
 skonsamma redskap samt genomföra en
 sammanställning av trålningens inverkan
 på kustnära fiskbestånd
+
+Revmiljöer i marin atlantisk
+region/Nordsjön
+Skalgrusbottnar: bentisk fauna och
+maerl i Västerhavet
+Förbättrat tillstånd för bentiska livsmiljöer Bentiska livsmiljöer, Större
+i marina skyddade områden djur på havsbotten
+
+Förbättrat tillstånd för bentiska livsmiljöer Bentiska livsmiljöer, Större
+i marina skyddade områden djur på havsbotten
+
+Förbättrat tillstånd för bentiska livsmiljöer Bentiska livsmiljöer, Större
+i marina skyddade områden djur på havsbotten
+
+Minskad påverkan på och ett förbättrat Bentiska livsmiljöer, Större
+tillstånd för bentiska livsmiljöer djur på havsbotten,
+Vegetationsklädda bottnar och
+Fysisk påverkan
+
+Minskad påverkan på och ett förbättrat Fysisk påverkan,
+tillstånd för bentiska livsmiljöer Vegetationsklädda bottnar och
+Bentiska livsmiljöer
+
+Förbättrat tillstånd för ålgräsängar Vegetationsklädda bottnar och
+Bentiska livsmiljöer
+
+Minskad fysisk störning från trålning Fysisk påverkan
+
 Brister och utveckling
+
 Bedömningen av deskriptor 6 enligt havsmiljödirektivet är modellbaserad, där all tillgänglig
 information om de huvudsakliga livsmiljötyperna på havsbottnen har använts, både från nationell
 miljöövervakning och från övriga projekt där havsbottnen inventerats. För att kunna följa upp
 utbredningen och påverkanstrycket på livsmiljöerna och för att stärka konfidensen i modellen
 behöver den löpande övervakningen dock utökas.
+
 Uppskattning av den rumsliga omfattningen av aktiviteter som orsakar förlust (D6C1) och störning
 (D6C2) har inga indikatorer. Tillgängliga data ligger istället till grund för en modellerad
 uppskattning av fysisk störning per huvudsaklig livsmiljötyp (D6C3) och fysisk förlust per
 huvudsaklig livsmiljötyp (D6C4). Dessa bygger på information om livsmiljöernas utbredning,
 känslighet och en analys om risk för påverkan. Metoderna för påverkansanalysen finns beskrivna
+
 \- 47 -
 
 <!-- sida 70 -->
@@ -3894,21 +4042,29 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 inledande bedömningen enligt artikel 8.1
 i direktiv 2008/56/EG, minimeras och,
 om möjligt, minskas till noll
-D2C2 – Kompletterande Indikator saknas     Främmande arter
-Abundans och rumslig utbredning för        Medborgarforskning gällande
-etablerade främmande arter, särskilt för   främmande arter
+D2C2 – Kompletterande Indikator saknas
+Abundans och rumslig utbredning för
+etablerade främmande arter, särskilt för
 invasiva arter, som bidrar till betydande
-Effekter av kylvatten
 negativa effekter på särskilda artgrupper
-eller huvudsakliga livsmiljötyper          Uppfylls även delvis genom
-andra övervakningsprogram
-D2C3 – Kompletterande Indikator saknas     Övervakningsprogram saknas
+eller huvudsakliga livsmiljötyper
+D2C3 – Kompletterande Indikator saknas
 Andel av artgruppen eller rumslig
 omfattning av den huvudsakliga
 livsmiljötypen som förändrats negativt på
 grund av främmande arter, i synnerhet
 från invasiva främmande arter
+
+Främmande arter
+Medborgarforskning gällande
+främmande arter
+Effekter av kylvatten
+Uppfylls även delvis genom
+andra övervakningsprogram
+Övervakningsprogram saknas
+
 Underlag för miljökvalitetsnormer och åtgärdsuppföljning
+
 Det finns en miljökvalitetsnorm för främmande arter i HaV:s föreskrifter HVMFS 2012:18. Data
 från övervakningen av främmande arter ger underlag till miljökvalitetsnormens tillhörande
 indikator.
@@ -3916,6 +4072,7 @@ indikator.
 C.1 Miljökvalitetsnorm
 
 −  Nyintroduktion eller flyttning av främmande arter ska vara på en nivå som inte hindrar att
+
 god miljöstatus upprätthålls eller nås.
 
 Tillhörande indikatorer till miljökvalitetsnormen C.1
@@ -3928,26 +4085,37 @@ programperiod.
 
 Tabell 12 Åtgärder med anknytning till främmande arter.
 
-Åtgärd               Förväntade effekter   Övervakningsprogram med
+Åtgärd                Förväntade effekter  Övervakningsprogram med
 koppling till åtgärden
-ÅPH 1                Minskad spridning av främmande arter Främmande arter
-genom kontroll och bekämping
-Ta fram ett pilotprojekt för att utveckla  Medborgarforskning gällande
-metoder för kontroll och lokal             främmande arter
+
+ÅPH 1
+Ta fram ett pilotprojekt för att utveckla
+metoder för kontroll och lokal
 bekämpning av invasiva främmande
 arter
-ÅPH 3                Bekämpning av främmande arter- och Främmande arter
-därmed minskad utbredning av sådana
-Utveckla ett nationellt varnings- och      Medborgarforskning gällande
-arter, till följd av bättre
-responssystem för tidig upptäckt av nya    främmande arter
-kunskapsunderlag
+ÅPH 3
+Utveckla ett nationellt varnings- och
+responssystem för tidig upptäckt av nya
 invasiva främmande arter samt
 hanterings- och beredskapsplaner för
 dessa
-ÅPH 33               Minskad nyintroduktion och spridning av Främmande arter
+ÅPH 33
+
+Minskad spridning av främmande arter Främmande arter
+genom kontroll och bekämping
+Medborgarforskning gällande
+främmande arter
+Bekämpning av främmande arter- och Främmande arter
+därmed minskad utbredning av sådana
+Medborgarforskning gällande
+arter, till följd av bättre
+främmande arter
+kunskapsunderlag
+Minskad nyintroduktion och spridning av Främmande arter
 invasiva främmande arter
+
 32 Referens: Havs- och vattenmyndigheten (2021)
+
 \- 55 -
 
 <!-- sida 78 -->
@@ -4072,9 +4240,9 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
 • Fritidsfiske
 • Säl
-
 • Sjöfåglar i marin miljö
 • Hälso- och sjukdomstillstånd hos marina däggdjur
+
 • Bentiska livsmiljöer
 • Större djur på havsbotten
 • Sedimentlevande makrofauna
@@ -4087,7 +4255,6 @@ trofiska nivåer. Storleksfördelning (D4C3) och produktivitet (D4C4) inom den t
 bedömas om kriteriet riskerar att inte uppnå god miljöstatus.
 
 I dagsläget finns det indikatorer framtagna som kan bidra till bedömning av näringsväven baserat
-
 på data från åtta av de 13 övervakningsprogrammen (se tabell 13), men annan övervakning kan
 potentiellt också användas. Även data från övervakning av övergödning, fiskeriverksamhet, jakt
 och andra belastningar kan ge underlag för analys av bakomliggande orsaker till det rådande
@@ -4101,25 +4268,35 @@ utveckling.
 Tabell 13 Kriterier som ingår i definitionen av god miljöstatus för marina näringsvävar enligt EU:s kommissionsbeslut och
 svenska indikatorer i HVMFS 2012:18, bilaga 2.
 
-Kriterium            Indikator             Övervakningsprogram
-D4C1                 1.2A Abundans av häckande sjöfåglar Sjöfåglar
-Den trofiska gildens mångfald 1.2B Abundans av övervintrande
-(artsammansättning och arternas sjöfåglar
+Kriterium             Indikator            Övervakningsprogram
+
+D4C1
+Den trofiska gildens mångfald
+(artsammansättning och arternas
 relativa abundans) är inte negativt
 påverkad till följd av mänskliga
 belastningar
+
+1.2A Abundans av häckande sjöfåglar Sjöfåglar
+1.2B Abundans av övervintrande
+sjöfåglar
+
 1.2C Abundans och trender för gråsäl Säl
 1.2D Abundans och trender för knubbsäl
+
 1.2E Abundans och trender för vikaresäl
+
 1.2J Förekomst av nyckelart av fisk i Kustfisk
 kustvatten
 1.6B Artsammansättning av Växtplankton,
 växtplankton          bakterieplankton,
 primärproduktion och
 blomningar
+
 Indikatorer saknas    Fisk och kräftdjur i utsjön
 Bentiska livsmiljöer
 Större djur på havsbotten
+
 Sedimentlevande makrofauna
 Vegetationsklädda bottnar
 
@@ -4373,47 +4550,62 @@ livsmiljöer eller andra
 
 Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 
-D5C5                 5.5A Syrebalans i kustvatten Vattnets kemiska egenskaper
-\- syre och pH
-Halten löst syre har inte på grund av 5.5B Syrebalans i Utsjövatten
+D5C5
+Halten löst syre har inte på grund av
 näringsberikning minskats till nivåer som
-5.5C Syreskuld i utsjövatten
 tyder på negativa effekter på bentiska
 livsmiljöer eller andra
 övergödningseffekter
-D5C6 – Kompletterande Indikator saknas     Vegetationsklädda bottnar
+D5C6 – Kompletterande
 Mängden opportunistiska makroalger
 ligger inte på nivåer som tyder på
 negativa effekter av näringsberikning
-D5C7 – Kompletterande 5.7A Djuputbredning av makrovegetation Vegetationsklädda bottnar
-i kustvatten
+D5C7 – Kompletterande
 Makrofytsamhällenas
 artsammansättning samt relativa
 abundans uppnår värden som indikerar
 att det inte förekommer någon negativ
 effekt på grund av näringsberikning eller
 organisk berikning
-D5C8 – Kompletterande (utom när det 5.8A Bottenfauna i Kustvatten Sedimentlevande makrofauna
+D5C8 – Kompletterande (utom när det
 ersätter D5C5)
-5.8B Bottenfauna i utsjövatten
 Makrofaunasamhällenas
 artsammansättning samt relativa
 abundans uppnår värden som indikerar
 att det inte förekommer någon negativ
 effekt på grund av näringsberikning eller
 organisk berikning
+
+5.5A Syrebalans i kustvatten Vattnets kemiska egenskaper
+\- syre och pH
+5.5B Syrebalans i Utsjövatten
+5.5C Syreskuld i utsjövatten
+
+Indikator saknas      Vegetationsklädda bottnar
+
+5.7A Djuputbredning av makrovegetation Vegetationsklädda bottnar
+i kustvatten
+
+5.8A Bottenfauna i Kustvatten Sedimentlevande makrofauna
+5.8B Bottenfauna i utsjövatten
+
 Underlag för miljökvalitetsnormer och åtgärdsuppföljning
+
 Det finns en miljökvalitetsnorm för övergödning i HaV:s föreskrifter HVMFS 2012:18. Data från
 övervakningen av tillförsel av föroreningar ger underlag till miljökvalitetsnormens tillhörande
 indikator.
+
 A.1 Miljökvalitetsnorm
+
 −  Tillförsel av näringsämnen ska minska tills den inte orsakar koncentrationer av kväve och
+
 fosfor i havsmiljön som förhindrar att god miljöstatus upprätthålls eller nås.
+
 Tillhörande indikator till miljökvalitetsnormen A.1
+
 •  A.1.1 Tillförsel av kväve och fosfor
 
 I åtgärdsprogrammet som beslutades av HaV 202135 finns det ett antal åtgärder med koppling till
-
 övergödning (se tabell 16). Åtgärderna ses för närvarande över inför kommande programperiod.
 
 Tabell 16 Åtgärder med anknytning till övergödning.
@@ -4425,6 +4617,7 @@ koncentrationer av näringsämnen i förutom de som mäter tillförsel
 vatten och minskade   från land och atmosfär.
 Östersjön
 övergödningseffekter
+
 35 Referens: Havs- och vattenmyndigheten (2021)
 
 \- 63 -
@@ -4620,9 +4813,8 @@ Det finns en miljökvalitetsnorm för hydrografiska ändringar i HaV:s föreskri
 
 D.3 Miljökvalitetsnorm
 
-•  Permanenta förändringar av hydrografiska förhållanden som beror på storskaliga
+• Permanenta förändringar av hydrografiska förhållanden som beror på storskaliga
 verksamheter, enskilda eller samverkande, får inte påverka biologisk mångfald och
-
 ekosystem negativt.
 
 Indikatorer till miljökvalitetsnormen D.3 saknas. Data från övervakningsprogrammen ger dock
@@ -4634,28 +4826,36 @@ programperiod.
 
 Tabell 18 Åtgärder med anknytning till ändringar i hydrografiska villkor.
 
-Åtgärd               Förväntade effekter   Övervakningsprogram med
-koppling till åtgärden
-ÅPH 13               Förebyggande åtgärder, då Övervakningen i samtliga
-vägledningarna ska ge bättre underlag övervakningsprogram fungerar
+Åtgärd
+
+ÅPH 13
 Ta fram en vägledning kring hur
-om effekter på hydrografiska villkor vid som kontroll att påverkan inte
 förändrade hydrografiska förhållanden
-tillståndsprövning av verksamheter samt skett
 påverkar biologisk mångfald och
-vid tillämpning av plan- och bygglagen
 ekosystem
 ÅPH 14
 Att följa upp och utveckla stöd och
 vägledning för kommunal och regional
 havs- och kustplanering enligt plan- och
 bygglagen
+
+Förväntade effekter   Övervakningsprogram med
+koppling till åtgärden
+Förebyggande åtgärder, då Övervakningen i samtliga
+vägledningarna ska ge bättre underlag övervakningsprogram fungerar
+om effekter på hydrografiska villkor vid som kontroll att påverkan inte
+tillståndsprövning av verksamheter samt skett
+vid tillämpning av plan- och bygglagen
+
 Brister och utveckling
+
 Sverige har ett etablerat system för att motverka förändringar av hydrografiska villkor till följd av
 mänskliga verksamheter. Nya verksamheter prövas enligt miljöbalken, vilket innebär krav på
 miljökonsekvensbeskrivningar som en del av prövningsprocessen. Ett eventuellt tillstånd kan
 förenas med villkor som syftar till att minimera påverkan.
+
 För att säkerställa att systemet fungerar och för att upptäcka negativa effekter av
+
 vattenverksamheter används data från övervakningsprogrammen som underlag för kvalitativa
 bedömningar av hydrografiska villkor. Inom vattenförvaltningen finns även behov av att följa upp
 mer lokala effekter i kustmiljön som orsakas av mänskliga aktiviteter. Övervakningsprogrammet
@@ -4663,7 +4863,6 @@ Fysisk påverkan kan ge underlag för bedömningar både på lokal nivå och fö
 övervakning i större skala i utsjön.
 
 För att möjliggöra kvantitativa bedömningar av deskriptorn krävs fortsatt utveckling och fördjupad
-
 analys. Det behövs ytterligare arbete för att kvantifiera olika verksamheters bidrag till förändringar
 
 38 Referens: Havs- och vattenmyndigheten (2021)
@@ -4793,9 +4992,9 @@ Samråd – Marin strategi för Nordsjön och Östersjön 2027-2032
 Under deskriptor 8 är det obligatoriskt att bedöma koncentrationer av farliga ämnen (D8C1) och
 omfattningen av oljeutsläpp (D8C3), medan effekter av farliga ämnen (D8C2) och oljeutsläpp
 (D8C4) endast behöver bedömas om det finns en risk att god miljöstatus inte uppnås. I dagsläget
-
 finns det indikatorer framtagna för att bedöma status baserat på data från sex av
 övervakningsprogrammen (se tabell 18). Övrig övervakning ger viktiga underlag för en kvalitativ
+
 bedömning av status, samt för analys av bakomliggande orsaker till det rådande tillståndet.
 
 Övervakningen kan även användas för att följa upp miljökvalitetsnormer och effekter av åtgärder,
@@ -4806,8 +5005,9 @@ utveckling.
 Tabell 19 Kriterier som ingår i definitionen av god miljöstatus gällande farliga ämnen enligt EU:s kommissionsbeslut och
 svenska indikatorer i HVMFS 2012:18, bilaga 2.
 
-Kriterium            Indikator             Övervakningsprogram
-D8C1                 8.1A Halter av farliga ämnen Farliga ämnen i sediment
+Kriterium             Indikator            Övervakningsprogram
+
+D8C1                  8.1A Halter av farliga ämnen Farliga ämnen i sediment
 Halter av farliga ämnen i relevant matris  Farliga ämnen i biota
 (biota, sediment eller vatten) överskrider
 inte de bedömningsgrunder eller 8.1B Halter av radionuklider Radioaktiva ämnen
@@ -4815,25 +5015,19 @@ gränsvärden som anges för marin miljö i
 HVMFS 2019:25 eller värden som
 överenskommits genom regionalt eller
 delregionalt samarbete
-D8C2 – Kompletterande 8.2A Effekter av organiska Biologiska effekter av
-tennföreningar på snäckor (imposex) organiska tennföreningar
+
+D8C2 – Kompletterande
 Arternas hälsa eller livsmiljöernas
-tillstånd påverkas inte negativt på grund 8.2B Produktivitet hos havsörn Övervakningsprogrammet
-av farliga ämnen, inklusive kumulativa Indikatorn används inte i Västerhavet. Reproduktion hos havsörn har
-och synergistiska effekter                 pausats
-8.2C Störningar i reproduktionen hos Biologiska effekter hos
-vitmärla              vitmärla
-8.2D Störningar i reproduktionen hos Hälso- och sjukdomstillstånd
-tånglake              hos fisk, kräft- och blötdjur
-Indikator saknas      Hälso- och sjukdomstillstånd
-hos marina däggdjur
-D8C3                 8.3A Volymer av upptäckta utsläpp av Utsläpp av olja och andra
-olja och oljeliknande produkter skadliga ämnen till havs
+tillstånd påverkas inte negativt på grund
+av farliga ämnen, inklusive kumulativa
+och synergistiska effekter
+
+D8C3
 Den rumsliga omfattningen och
 varaktigheten av betydande akuta
 föroreningshändelser minimeras
-D8C4 – Kompletterande (ska Indikator saknas Utsläpp av olja och andra
-användas när en betydande akut             skadliga ämnen till havs
+D8C4 – Kompletterande (ska
+användas när en betydande akut
 föroreningshändelse har inträffat):
 De negativa effekterna av betydande
 akuta föroreningshändelser på arternas
@@ -4841,11 +5035,31 @@ hälsa och livsmiljöernas tillstånd (till
 exempel artsammansättning och relativ
 abundans) minimeras och, om möjligt,
 elimineras
+
+8.2A Effekter av organiska Biologiska effekter av
+tennföreningar på snäckor (imposex) organiska tennföreningar
+8.2B Produktivitet hos havsörn Övervakningsprogrammet
+Indikatorn används inte i Västerhavet. Reproduktion hos havsörn har
+pausats
+8.2C Störningar i reproduktionen hos Biologiska effekter hos
+vitmärla              vitmärla
+8.2D Störningar i reproduktionen hos Hälso- och sjukdomstillstånd
+tånglake              hos fisk, kräft- och blötdjur
+Indikator saknas      Hälso- och sjukdomstillstånd
+hos marina däggdjur
+8.3A Volymer av upptäckta utsläpp av Utsläpp av olja och andra
+olja och oljeliknande produkter skadliga ämnen till havs
+
+Indikator saknas      Utsläpp av olja och andra
+skadliga ämnen till havs
+
 Underlag för miljökvalitetsnormer och åtgärdsuppföljning
+
 Det finns två miljökvalitetsnormer för farliga ämnen i HaV:s föreskrifter HVMFS 2012:18. Data
 från fem övervakningsprogram ger underlag till miljökvalitetsnormernas tillhörande indikatorer –
 Tillförsel av föroreningar från land respektive atmosfär, utsläpp av olja och andra skadliga ämnen,
 farliga ämnen i biota samt biologiska effekter av tennorganiska föreningar.
+
 \- 70 -
 
 <!-- sida 93 -->
@@ -5387,7 +5601,7 @@ Främja en effektiv och hållbar insamling
 och mottagning av förlorade
 fiskeredskap samt
 förebygga förlusten av nya.
-ÅPH 20               Förebyggande åtgärd som kan leda till Skräp på stränder
+ÅPH 20                Förebyggande åtgärd som kan leda till Skräp på stränder
 minskad nedskräpning
 Ta fram en riktad nationell                Skräp på havsbotten
 informationskampanj till allmänhet och
@@ -5397,17 +5611,15 @@ skräpföremål i den marina miljön, dess
 negativa påverkan på miljön samt
 kopplingen till konsumenternas
 beteende
-ÅPH 21               Minskad mängd skräp i den marina Skräp på stränder
+ÅPH 21                Minskad mängd skräp i den marina Skräp på stränder
 miljön
 Stödja initiativ som främjar, organiserar  Skräp på havsbotten
 och genomför strandstädning i särskilt
 drabbade områden
-ÅPH 22               Förebyggande åtgärd som kan leda till Skräp på stränder
-minskad nedskräpning och mindre
-Bedriva strategiskt arbete genom           Skräp på havsbotten
-mängder skräp i den marina miljön
+
+ÅPH 22
+Bedriva strategiskt arbete genom
 inkludering av marint skräp i relevanta
-Mikroskräp
 avfallsplaner och program inklusive de
 kommunala avfallsplanerna, där
 avfallshanteringens betydelse för
@@ -5416,37 +5628,54 @@ Materialströmmar av plast behöver
 prioriteras och styrmedel utredas i syfte
 att minska förekomsten av plastföremål
 som skräp i den marina miljön
-ÅPH 23               Förebyggande åtgärd som kan leda till Skräp på stränder
-minskad nedskräpning och mindre
-Vid revidering av de kommunala             Skräp på havsbotten
-mängder skräp i den marina miljön
+ÅPH 23
+Vid revidering av de kommunala
 avfallsplanerna identifiera och belysa hur
-Mikroskräp
 avfallshanteringen kan bidra till att
 minska uppkomsten av marint skräp
 samt sätta upp målsättningar för ett
 sådant arbete
-ÅPH 42               Förebyggande åtgärd som kan leda till Skräp på stränder
+
+Förebyggande åtgärd som kan leda till Skräp på stränder
+minskad nedskräpning och mindre
+Skräp på havsbotten
+mängder skräp i den marina miljön
+Mikroskräp
+
+Förebyggande åtgärd som kan leda till Skräp på stränder
+minskad nedskräpning och mindre
+Skräp på havsbotten
+mängder skräp i den marina miljön
+Mikroskräp
+
+ÅPH 42                Förebyggande åtgärd som kan leda till Skräp på stränder
 minskad tillförsel av fiskerelaterat skräp i
 Produkt-, material- och                    Skräp på havsbotten
 den marina miljön
 märkningsutveckling gällande
 Mikroskräp
 fiskeredskap.
+
 Brister och utveckling
+
 Övervakningen av skräp på stränder och havsbotten utgör underlag för bedömningen av det
 obligatoriska kriteriet D10C1.
+
 Skräp på havsbotten
+
 För havsbottenskräp är den geografiska täckningen dock delvis bristfällig, eftersom
 övervakningen sker i samband med provtagning av bottenlevande fisk inom den nationella
 kustprovtrålningen i Västerhavet samt de internationella provtrålningsprogrammen programmen
 IBTS (International Bottom Trawl Survey) i Västerhavet och BITS (Baltic International Trawl
+
 Survey) i Östersjön. I Östersjön omfattar BITS endast Egentliga Östersjön, vilket innebär att
 Bottniska viken saknar övervakning av skräp på havsbotten.
+
 Utveckling av visuella metoder pågår för att med hjälp av undervattensvideo dokumentera
 förekomsten av skräp. Under 2024 finansierade Havs- och vattenmyndigheten ett projekt där
 skräp noterades i samband med filmning av havskräftbon inom övervakningsprogrammet Större
 djur på havsbotten. Resultaten visade att de ytor som täcks in vid filmning inte är tillräckliga för att
+
 \- 80 -
 
 <!-- sida 103 -->
@@ -9340,7 +9569,7 @@ Projektnamn
 Detaljplan för norra Voxlöv inom Voxlöv 4:9 och Hede 9:26 i Kungsbacka stad
 Beställare
 Namn och roll E-postadress Telefon
-Lovisa Eld lovisa.eld(ÅMkungsbacka.se 0300-837783
+Lovisa Eld lovisa.eldÅkungsbacka.se 0300-837783
 Status
 Beställningen är Datum
 Färdigställd 2026-02-04

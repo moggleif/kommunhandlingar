@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.10a4623319e63a11ebe208a6/1780059529
 sha256: 82a6d978ca30c5db913c4380e0ce8ce40098938e04a2565c1cc4536764ade61a
 bytes: 42986239
 sidor: 287
-hamtad: 2026-10-25T09:30:49+00:00
-konverterad: 2026-10-25T09:36:55+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:08:12+00:00
+konverterad: 2026-11-10T00:14:32+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ok, ej-konverterad, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad]
@@ -1297,7 +1297,7 @@ WWW.V Om
 
 <!-- sida 23 -->
 
-FSD AST RES Ks RAND I AS rs ae nrg ARN IR tager ara PE PYRIDRAC EEE
+FSD STR S Ks RAND 1 AS rs ena 1 ARN IR EE TeNre ara PE PYRIDAC IEEE
 
 Kungsbacka
 Redovisning av kommunalt partistöd År 2025
@@ -1353,7 +1353,6 @@ I äl
 Summa överföringar = 52920,00
 Underskrift
 Jag Intygar rktigheten] de uppgifter som lämnats I radovisningen
-oo BE -
 Datum
 Hanna Schölander 2l0C- 00- 30
 Granskningsrapport
@@ -1370,8 +1369,6 @@ I
 Namnförty:
 
 anges
-
-FT,
 
 Granskningsrapport
 
@@ -3972,7 +3969,7 @@ Kungsbacka kommun genom beslut som får laga kraft.
 
 Avtalet är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
 
-Kungsbacka 2026 - Göteborg 2026 -035 07
+Kungsbacka 2026 - Göteborg 2026 -05 07
 för Kungsbacka kommun för Tölö Utvecklings AB
 
 Lisa Andersson
@@ -4415,8 +4412,6 @@ Bilaga 1: Området
 
 \|
 
-NA VA
-Aa ERE NR LIE : :
 ellt område för markanvisning av del av Åsa 5:246, markerat med blått inom
 
 pra
@@ -6307,19 +6302,13 @@ Planprogram för Åsaberg i Åsa, Kungsbacka kommun Datum: 2026-05-13
 |) —> Kraftledning
 )), Trafik
 Grönstruktur
-/; W vwvattenhantering
 3 Ej planlagd natur
 4 1 Nyallmän plats
 
 \> Oforandrad allmän plats
 
 J. Q Fe Ny SM
-
-ÖT FaR ' Ne
-
-; : 2 se RDR VARE SAG RAG S
 | SN CRVSA pd SKAA SFR
-Sr I 18:71 / VANA VEPADPPir a bet AA MARS IDO SS
 
 Planprogrammet anger delat huvudmannaskap för allmän plats. Kommunen ansvarar för
 öppna dagvattenanläggningar medan gator, GC-vägar och naturmark får enskilt
@@ -6656,19 +6645,13 @@ acceptabel lutning på 5940 samt att trafiken till och från Åsaberg leds direk
 vägen, vilket ger en tydlig och bra koppling i det större vägnätet.
 
 Uppe på Åsaberg, i anslutning till den nya tillfartsvägen, finns utrymme för besöksparkering.
--Kläppavägen—- - ed 78 AÅ Do oÅ AS
-i et? 3 sö ER Xx
+/ NV
+-Kläppaväl ———
 
-.
-ve
+å Teckenförklaring:
 
-NR
-
-eo0cte8
-
-I es 4 NS SY Teckenförklaring:
-G Y = AR KRA 74 Bostadsbebyggelse
-NN Fö Tillfartsväg
+Bostadsbebyggelse
+be Tillfartsväg
 
 Figur 9. Det nya bostadsområdet på Åsaberg angörs via en ny väg från Kläppavägen. Den röda cirkeln i figuren visar var
 vägen passerar över fastigheten Åsa 3:14
@@ -6681,6 +6664,8 @@ separat gång- och cykelväg mot stationen och centrala delarna av Åsa. Detta b
 huvudsakliga kopplingen till bebyggelsen på Åsaberg.
 
 Samrådshandling 16 (44)
+
+eo0cte8
 
 <!-- sida 143 -->
 
@@ -6739,8 +6724,6 @@ grilla eller bara njuta av utsikten. I sydväst finns områden med öppen hällm
 fina vistelsemiljöer och i sydost finns ett vindskydd. På Åsaberg finns flera fornminnen, de
 flesta i form av rösen, vilka är spännande inslag i rekreationsmiljön. Stenmurar vittnar om hur
 berget tidigare använts för bete.
-
-FF
 
 känt
 
@@ -6836,9 +6819,6 @@ o De flöden av vatten som ytledes når nedströms liggande områden får inte �
 eller koncentration i förhållande till hur det är idag, före en exploatering.
 o Växtlighet, och då särskilt större träd, ska om möjligt bevaras i syfte att binda vatten.
 
-I BG Ork
-
-5 fee
 2 FRDRona
 
 FANER 9
@@ -7804,34 +7784,22 @@ Närmsta hållplats är Hamragårdsvägen och ligger på Kläppavägen. Buss gå
 Åsaberg ligger på plushöjd ca 30 meter. Omkringliggande Kläppavägen på plushöjd
 cirka 7 meter, drygt 20 meters nivåskillnad
 
-(3
-
-AT
+TELE
+;
 
 ”
-
-ge
-NAS esk
-Ur rd
-
-KV
-
-på
-BF
-fa
-(MS
 
 ve
 \||
 
-FAKARL
-a
-Au
+ps ER
+sr or Ye
 
-Lge
+— Bie
+fa) ale
+(ÅA I
 
 Rb
-4 BE
 
 Figur 1. Karta över aktuell del av Åsa.
 
@@ -7839,6 +7807,8 @@ Figur 1. Karta över aktuell del av Åsa.
 bebyggelse.
 
 Sida 5 (12)
+
+FAKARL
 
 <!-- sida 201 -->
 
@@ -8421,8 +8391,6 @@ Kommundirektör                        Samhällsbyggnadschef
 
 A Orienteringskarta, Bröndome 1:3
 
-N 2026-05-13 Kungsbocke
-
 Kyrkobyr
 
 Kungsbacka
@@ -8454,7 +8422,6 @@ N | Bröndome 1:3 ligger inom landsbygd enlighet kommunens I
 
 översiktsplan.
 
-Ma
 ALP
 | Bröndome 1:3
 TTR
@@ -8490,7 +8457,7 @@ E-post
 Kungsbacka kommun | Stadshuset, (adress borttagen), 434 81 Kungsbacka | 0300-83 40 00
 Organisationsnummer: 212000-1256 | infoQkungsbacka.se | kungsbacka.se
 
-Ärendenummer: £269118 | Inskickat av: HNIININN Datum: 2026-03-18 15:24
+Ärendenummer: £269118 | Inskickat av: NINI Datum: 2026-03-18 15:24
 
 Sida 1 av4
 
@@ -8558,10 +8525,10 @@ Du kan välja att bifoga en situationskarta med tydliga markeringar istället f�
 fastigheterna på denna kartan.
 
 se
-Ha
-J |
 
+Ha
 La
+
 H
 
 Kärren

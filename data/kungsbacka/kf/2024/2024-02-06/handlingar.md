@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.66facb8818d54d93d3e1660d/1707234487
 sha256: 8e6826a288f53861cbe06ef8d3c90a099331b0e7eac726a54419b1802aa62c31
 bytes: 32407299
 sidor: 336
-hamtad: 2026-10-25T10:13:25+00:00
-konverterad: 2026-10-25T10:15:15+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:53:39+00:00
+konverterad: 2026-11-10T00:55:38+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2128,8 +2128,6 @@ SAMMANTRÄDESPROTOKOLL
 
 Styrelsesammanträde
 
-å Å
-
 '
 
 TJOLÖHOLMS
@@ -2322,8 +2320,6 @@ Avtal med Västkuststiftelsen 1991-11-25
 
 <!-- sida 63 -->
 
-uniForm KUB301 v 1.0, 2005-11-25
-
 Stadgar för Stiftelsen Tjolöholm
 
 Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF § 187/96 samt
@@ -2369,6 +2365,8 @@ Fax 0300-54 41 66
 
 info(tjoloholm.se
 www.tjoloholm.se
+
+uniForm KUB301 v 1.0, 2005-11-25
 
 <!-- sida 64 -->
 
@@ -10294,7 +10292,6 @@ Gårdå Så
 [sed Härkila I. Mälltorp
 Håkankila cen Rygal— Aratorp
 å innahult , Offentlig & Aktiv &
-in a M
 "= MD. mö - Tlagnad för
 än Sven elbilsladdning
 RN Skene — Örby

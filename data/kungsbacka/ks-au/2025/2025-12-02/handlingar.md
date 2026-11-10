@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbed4c44/1764247380
 sha256: b3a00c2b732ca65e4085fb10358badf4de74634db8f447f78281dc54d05d3039
 bytes: 45776796
 sidor: 339
-hamtad: 2026-10-25T08:40:33+00:00
-konverterad: 2026-10-25T08:49:04+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T23:15:25+00:00
+konverterad: 2026-11-09T23:24:15+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ocr, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr]
@@ -911,7 +911,6 @@ Kungsbacka kommun   Taxa för Kungsbacka kommuns plan- och byggverksamhet 6 (21)
 
 <!-- sida 28 -->
 
-= 3 1
 A - Taxetabeller för lov, anmälan m.m.
 A1 Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader
 Arendetyp Avgift
@@ -1814,24 +1813,19 @@ Bilaga 2. Källförteckning ....................................................
 
 Sammanfattning
 
-Utifrån granskningen rekommenderas kommunstyrelsen att:
 På uppdrag av kommunrevisionen i Kungsbacka kommun har
 EY granskat kommunstyrelsens uppsiktsplikt. Granskningen har
-genomförts som en fördjupad insats inom ramen för ► Överväga att besluta om riktlinjer för kommunstyrelsens
-uppsikt som tydliggör uppsiktens inriktning, omfattning och
+genomförts som en fördjupad insats inom ramen för
+
 grundläggande granskning 2025. Granskningen har sin grund i
-genomförande samt former för rapporteringen till fullmäktige
 att revisionen vid den grundläggande granskningen under flera
-i syfte att skapa en transparens och överskådlighet av
 år uppmärksammat utvecklingsområden avseende kommun-
-uppsiktsplikten i dess helhet.
 styrelsens uppsiktsplikt.
-►  Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
-den utökade uppsiktsplikten över kommunens bolag.
+
 Den sammanfattande bedömningen utifrån granskningen syfte
-är att kommunstyrelsen utövar sin uppsiktsplikt på ett i huvudsak ► Säkerställa transparens och tydlighet kring årligt ärende om
-avtalssamverkan i enlighet med 9 kap. 38 § KL.
+är att kommunstyrelsen utövar sin uppsiktsplikt på ett i huvudsak
 ändamålsenligt sätt.
+
 Uppsiktsplikten över kommunens nämnder bedöms
 ändamålsenlig. Uppsiktsplikten i övrigt, det vill säga över
 verksamhet bedriven på annat sätt än genom nämnd, bedrivs i
@@ -1839,104 +1833,144 @@ huvudsak ändamålsenligt men bedöms kunna tydliggöras. Det
 saknas idag dokumenterade riktlinjer för uppsiktsplikten utifrån
 ett helhetsperspektiv vilket vi bedömer försvårar kontroll- och
 transparens. Vi bedömer att detta är en brist som bör åtgärdas.
+
 Vi noterar också ett par brister vad avser formella krav kring
 uppföljning av avtalssamverkan samt den förstärkta uppsikts-
+
 plikten av kommunens bolag.
+
+Utifrån granskningen rekommenderas kommunstyrelsen att:
+
+►  Överväga att besluta om riktlinjer för kommunstyrelsens
+uppsikt som tydliggör uppsiktens inriktning, omfattning och
+genomförande samt former för rapporteringen till fullmäktige
+i syfte att skapa en transparens och överskådlighet av
+uppsiktsplikten i dess helhet.
+
+►  Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
+den utökade uppsiktsplikten över kommunens bolag.
+►  Säkerställa transparens och tydlighet kring årligt ärende om
+avtalssamverkan i enlighet med 9 kap. 38 § KL.
 
 3
 
 <!-- sida 54 -->
 
-1\. Inledning                                 1.3. Revisionskriterier
-Med revisionskriterier avses de bedömningsgrunder som bildar
-1.1. Bakgrund                                underlag för revisionens analyser, slutsatser och bedömningar.
+1\. Inledning
 
-Den grundläggande granskningen har under flera år visat att det Revisionskriterierna beskrivs närmare i bilaga 1.
+1.1. Bakgrund
+Den grundläggande granskningen har under flera år visat att det
 finns utvecklingsområden avseende kommunstyrelsens
-1.4. Metod
 uppsiktsplikt. Granskningen har visat att kommunstyrelsen inte
-Granskningen har genomförts genom dokumentstudier samt
 närmare definierat hur uppsiktsplikten över övriga nämnder,
-genom en utökad dialog med kommunstyrelsens presidium inom
 bolag och stiftelsen ska utövas samt att det inte finns riktlinjer för
-ramen för den grundläggande granskningen.
+
 arbetet.
-Källförteckning framgår av bilaga 2. Samtliga intervjuade har
+
 Kommunrevisionen har bedömt att det är väsentligt att granska
-getts tillfälle att sakfelsgranska rapporten.
 kommunstyrelsens uppsiktsplikt. Granskningen genomförs som
 en fördjupad insats inom ramen för grundläggande granskning
-1.5. Avgränsningar och ansvarig nämnd
 2025\.
-Granskningen avser kommunstyrelsen utifrån presenterade
-revisionsfrågor.
+
 1.2. Syfte och revisionsfrågor
 Granskningen har syftat till att bedöma om kommunstyrelsen
 utövar sin uppsiktsplikt över den kommunala verksamheten på
 ett ändamålsenligt sätt.
+
 Granskningen besvarar följande revisionsfrågor:
-►  Har kommunstyrelsen utarbetat ändamålsenliga riktlinjer,
+► Har kommunstyrelsen utarbetat ändamålsenliga riktlinjer,
 rutiner eller styrdokument som beskriver hur uppsiktsplikten
 ska bedrivas?
-►  I vilket forum behandlas uppsiktsplikten?
-►  Har kommunstyrelsen fastställt former för hur rapportering
+► I vilket forum behandlas uppsiktsplikten?
+► Har kommunstyrelsen fastställt former för hur rapportering
 ska ske till kommunfullmäktige?
-►  Utövar kommunstyrelsen sin uppsikt över nämnder, bolag,
+► Utövar kommunstyrelsen sin uppsikt över nämnder, bolag,
 stiftelser, kommunalförbund samt eventuella ytterligare
 instanser ändamålsenligt?
+
+1.3. Revisionskriterier
+Med revisionskriterier avses de bedömningsgrunder som bildar
+underlag för revisionens analyser, slutsatser och bedömningar.
+Revisionskriterierna beskrivs närmare i bilaga 1.
+
+1.4. Metod
+Granskningen har genomförts genom dokumentstudier samt
+genom en utökad dialog med kommunstyrelsens presidium inom
+ramen för den grundläggande granskningen.
+
+Källförteckning framgår av bilaga 2. Samtliga intervjuade har
+getts tillfälle att sakfelsgranska rapporten.
+
+1.5. Avgränsningar och ansvarig nämnd
+Granskningen avser kommunstyrelsen utifrån presenterade
+revisionsfrågor.
+
 4
 
 <!-- sida 55 -->
 
-2\. Uppsiktsplikt i lag och praxis            Uppsiktsplikten kan sägas ha två olika funktioner; en reaktiv och
-proaktiv funktion. Den förstnämnda innebär att en uppföljning
+2\. Uppsiktsplikt i lag och praxis
 I kommunallagen (2017:725), KL, framgår att styrelsen ska leda
-sker i efterhand att utförd verksamhet och dess förenlighet med
 och samordna förvaltningen av kommunens eller regionens
-lag och riktlinjer i övrigt. Den sistnämnda har en riskhanterande
 angelägenheter och ha uppsikt över övriga nämnders och
-utgångspunkt och syftar till att minska risken för att något
 eventuella gemensamma nämnders verksamhet. Styrelsen ska
-oönskat inträffar.
+
 också ha uppsikt över sådan avtalssamverkan som sker enligt 9
 kap. 37 § KL eller enligt annan lag eller författning. Vidare
-Uppsiktsplikten kan vidare delas in i en formell del och en mer
 framgår att uppsikt även ska utövas över verksamhet som
-praktisk del. I den formella strukturen ingår att följa mål och
 bedrivs som kommunala bolag, stiftelser och föreningar liksom
-budget samt övergripande styrmodell, reglemente för styrelse,
 verksamhet i kommunalförbund och samordningsförbund.1
-specifika styrdokument (generella eller riktade mot något bolag),
-reglemente för intern kontroll samt instruktion för direktören.
+
 KL är en ramlag och förarbetena ger inga tydliga anvisningar om
-Uppsikt i praktiken innebär bland annat uppföljning enligt
 innehållet i uppsiktsplikten. Detta innebär att det är upp till
-styrmodell (månad, tertial, delår och helår), protokoll och
 respektive kommun att utforma formerna för uppsiktspliktens
-handlingar från nämnder och bolag samt dialogmöten och
 innehåll och hur den ska genomföras i praktiken. KL betonar
-kommunikation i olika former.
 vikten av styrningen av den kommunala verksamheten oavsett
 juridisk form. Detta innebär således att det inte har någon
-Sedan 2013 gäller förstärkt uppsiktsplikt över kommunala
 betydelse om verksamheten bedrivs i förvaltnings- eller
-bolag.2 Styrelsen ska i årliga beslut pröva om den verksamhet
 bolagsform eller annan form. Det förekommer att det finns s.k.
-som bolaget har bedrivit under föregående kalenderår har varit
 personunion mellan ledamöter i kommunstyrelsen och
-förenlig med det fastställda kommunala ändamålet och utförts
 exempelvis bolagsstyrelser och förbund. Detta fråntar inte
-inom ramen för de kommunala befogenheterna. Det framgår inte
 kommunstyrelsens skyldighet som helhet att utöva uppsikt över
-av lagtexten när beslutet ska överlämnas, men det anges att en
 exempelvis nämnderna, bolagen och förbunden.
+
+En praxis på området har utvecklats och redogörs för nedan.
+
+1 6 kap. 1 § KL
+2 6 kap. 9 § KL
+
+Uppsiktsplikten kan sägas ha två olika funktioner; en reaktiv och
+proaktiv funktion. Den förstnämnda innebär att en uppföljning
+sker i efterhand att utförd verksamhet och dess förenlighet med
+lag och riktlinjer i övrigt. Den sistnämnda har en riskhanterande
+utgångspunkt och syftar till att minska risken för att något
+oönskat inträffar.
+
+Uppsiktsplikten kan vidare delas in i en formell del och en mer
+praktisk del. I den formella strukturen ingår att följa mål och
+budget samt övergripande styrmodell, reglemente för styrelse,
+
+specifika styrdokument (generella eller riktade mot något bolag),
+reglemente för intern kontroll samt instruktion för direktören.
+Uppsikt i praktiken innebär bland annat uppföljning enligt
+styrmodell (månad, tertial, delår och helår), protokoll och
+handlingar från nämnder och bolag samt dialogmöten och
+kommunikation i olika former.
+
+Sedan 2013 gäller förstärkt uppsiktsplikt över kommunala
+bolag.2 Styrelsen ska i årliga beslut pröva om den verksamhet
+som bolaget har bedrivit under föregående kalenderår har varit
+förenlig med det fastställda kommunala ändamålet och utförts
+inom ramen för de kommunala befogenheterna. Det framgår inte
+av lagtexten när beslutet ska överlämnas, men det anges att en
 lämplig tidpunkt kan vara i samband med att den kommunala
 årsredovisningen lämnas. De flesta kommuner tycks också ha
-En praxis på området har utvecklats och redogörs för nedan.
 valt denna ordning beträffande när rapporteringen sker till
 fullmäktige.3 Lagstiftaren har i förarbeten anfört att det är
-1 6 kap. 1 § KL                              3 Förstärkta uppsiktspliktregler över kommun- och landstingsägda
-2 6 kap. 9 § KL                              bolag, Daniel Stattin, 2 juli 2018
+
+3 Förstärkta uppsiktspliktregler över kommun- och landstingsägda
+bolag, Daniel Stattin, 2 juli 2018
+
 5
 
 <!-- sida 56 -->
@@ -1979,20 +2013,27 @@ helhetsperspektiv vilket vi bedömer är en brist utifrån ett I gemensamt regle
 kontroll- och transparensperspektiv. Vi noterar också ett par anges att nämnderna ska redovisa till fullmäktige hur de har
 brister vad avser:                          fullgjort de uppdrag som fullmäktige lämnat till dem.
 Redovisningen ska ske enligt principer fastställda av
-►  Uppföljningen av avtalssamverkan är begränsad till en fullmäktige.6 Redovisningen ska lämnas till kommunstyrelsen
+► Uppföljningen av avtalssamverkan är begränsad till en fullmäktige.6 Redovisningen ska lämnas till kommunstyrelsen
 redovisning av vilken avtalssamverkan som finns i som har att samordna nämndernas olika redovisningar.
 kommunen. Hur aktuell samverkan följs upp framgår inte. Nämnderna har också ett ansvar för en tillräcklig intern kontroll i
-►  Den förstärkta uppsiktsplikten innebär att styrelsen i årliga enlighet med kommunens styrdokument för intern kontroll.
+► Den förstärkta uppsiktsplikten innebär att styrelsen i årliga enlighet med kommunens styrdokument för intern kontroll.
+
 beslut för varje bolag ska pröva om. Något uttalande om
-huruvida den verksamhet som bolaget har bedrivit under Härutöver hänvisas såvitt avser tillämpningen av uppsiktsplikten
-föregående kalenderår har varit förenlig med det fastställda till kommunens ekonomistyrningsprinciper. Dessa ingår i
-kommunala ändamålet och utförts inom ramen för de budgetbeslutet och antas härigenom årligen. Av dessa följer
-kommunala befogenheterna framgår inte av det årliga bland annat att nämnderna är skyldiga att göra uppföljning med
-ärendet om Eksta och Tempohus årsredovisningar. så täta intervaller som krävs för att ha en god kontroll. Efter 30
+huruvida den verksamhet som bolaget har bedrivit under
+föregående kalenderår har varit förenlig med det fastställda
+kommunala ändamålet och utförts inom ramen för de
+kommunala befogenheterna framgår inte av det årliga
+ärendet om Eksta och Tempohus årsredovisningar.
+
+Härutöver hänvisas såvitt avser tillämpningen av uppsiktsplikten
+till kommunens ekonomistyrningsprinciper. Dessa ingår i
+budgetbeslutet och antas härigenom årligen. Av dessa följer
+bland annat att nämnderna är skyldiga att göra uppföljning med
+så täta intervaller som krävs för att ha en god kontroll. Efter 30
 april och 31 augusti rapporterar nämnden sin uppföljning och
+
 Sammanfattningsvis bedöms uppsiktsplikten utifrån ett prognos till kommunstyrelsen. Kommunstyrelsen i sin tur gör en
 helhetsperspektiv kunna utvecklas och göras mer transparent uppföljning och prognos för kommunen som helhet som
-
 och spårbar.                                redovisas till fullmäktige. Detsamma gäller årsbokslutet efter den
 31 december.
 
@@ -2002,111 +2043,192 @@ och spårbar.                                redovisas till fullmäktige. Detsam
 
 <!-- sida 58 -->
 
-Av styrprinciperna framgår också att nämnderna har ansvaret för moderbolagets delårsuppföljning två gånger om året samt vid
-den interna kontrollen inom sitt verksamhetsområde. årsredovisningsrapporteringen.
+Av styrprinciperna framgår också att nämnderna har ansvaret för
+den interna kontrollen inom sitt verksamhetsområde.
 Kommunstyrelsen ska, med utgångspunkt i nämndernas
-uppföljningsrapporter, utvärdera kommunens samlade system Dessutom anges i ägardirektiven för bägge bolagen att ett antal
-för intern kontroll. Den samlade utvärderingen ska i ägardirektivet specificerade handlingar och information ska
-
-kommunstyrelsen rapportera till fullmäktige. Den samlade lämnas i anslutning till kommunens budgetprocess. Båda
-redovisningen av i uppföljningsrapport intern kontroll är bolagen har vidare att fortlöpande informera kommunstyrelsens
-begränsad till en redovisning av de tre identifierade presidium och kommundirektören om större eller viktigare frågor
-kommunövergripande riskerna som granskats enligt plan i alla och förändringar i bolagets verksamhet.
+uppföljningsrapporter, utvärdera kommunens samlade system
+för intern kontroll. Den samlade utvärderingen ska
+kommunstyrelsen rapportera till fullmäktige. Den samlade
+redovisningen av i uppföljningsrapport intern kontroll är
+begränsad till en redovisning av de tre identifierade
+kommunövergripande riskerna som granskats enligt plan i alla
 nämnderna.
-I bolagsordningen för såväl Eksta som Tempohus att
-För processerna kring budget och uppföljning finns mallar i kommunstyrelsen har inspektionsrätt, dvs kommunstyrelsens
-Stratsys, det system kommunen använder för bl.a. planering och har rätt att ta del av bolagets handlingar och räkenskaper samt i
-uppföljning. Måluppfyllelse följs upp i begränsad omfattning i övrigt inspektera bolaget och dess verksamhet.
+
+För processerna kring budget och uppföljning finns mallar i
+Stratsys, det system kommunen använder för bl.a. planering och
+uppföljning. Måluppfyllelse följs upp i begränsad omfattning i
 samband med delår och i dess helhet i samband med helår.
-Tidplan för uppföljningar publiceras på kommunens intranät. I Enligt uppgift hanteras den förstärkta uppsiktsplikten av bolagen
-Stratsys finns också checklistor kopplat till uppföljning av genom årligt ärende om årsredovisning för Eksta Bostads AB
-arbetsmiljö, internkontroll och krisberedskap. och Tempohus Kungsbacka AB”.7
+Tidplan för uppföljningar publiceras på kommunens intranät. I
+Stratsys finns också checklistor kopplat till uppföljning av
+arbetsmiljö, internkontroll och krisberedskap.
 
-För Eksta Bostäder AB (nedan Eksta) respektive dess Förstärkt uppsiktsplikt gäller bara bolag och inte stiftelser. Enligt
-dotterbolag Tempohus Kungsbacka AB (nedan Tempohus) kommunstyrelsen reglemente ska kommunstyrelsen ha uppsikt
-anges i ägardirektiven att kommunstyrelsen ska ha en överblick över verksamhet som bedrivs i kommunala bolag, stiftelse och
-och kontroll över bolagets/dotterbolagets verksamhet, den så kommunalförbund. Stiftelsen Tjolöholms stadgar innehåller
-kallade uppsiktsplikten. Vidare anges för Eksta att all information ingen skrivning om rapportering till kommunstyrelsen. Hur och
-
-enligt ägardirektivet ska rapporteras till kommunstyrelsen i om uppföljning av kommunens stiftelser sker framgår inte av
-anslutning till delårsuppföljningen två gånger om året samt vid något styrdokument.
+För Eksta Bostäder AB (nedan Eksta) respektive dess
+dotterbolag Tempohus Kungsbacka AB (nedan Tempohus)
+anges i ägardirektiven att kommunstyrelsen ska ha en överblick
+och kontroll över bolagets/dotterbolagets verksamhet, den så
+kallade uppsiktsplikten. Vidare anges för Eksta att all information
+enligt ägardirektivet ska rapporteras till kommunstyrelsen i
+anslutning till delårsuppföljningen två gånger om året samt vid
 årsredovisningsrapporteringen. För Tempohus anges att i
-ägardirektivet att all information enligt ägardirektivet ska Vi har inte tagit del av något styrdokument som beskriver hur
-rapporteras till kommunstyrelsens förvaltning i anslutning till uppsiktsplikt över kommunalförbund, gemensamma nämnder
+ägardirektivet att all information enligt ägardirektivet ska
+rapporteras till kommunstyrelsens förvaltning i anslutning till
 
 7 Sammanträdesprotokoll, Kommunfullmäktige 2025-06-16, § 118
+
+moderbolagets delårsuppföljning två gånger om året samt vid
+årsredovisningsrapporteringen.
+
+Dessutom anges i ägardirektiven för bägge bolagen att ett antal
+i ägardirektivet specificerade handlingar och information ska
+lämnas i anslutning till kommunens budgetprocess. Båda
+bolagen har vidare att fortlöpande informera kommunstyrelsens
+presidium och kommundirektören om större eller viktigare frågor
+och förändringar i bolagets verksamhet.
+
+I bolagsordningen för såväl Eksta som Tempohus att
+kommunstyrelsen har inspektionsrätt, dvs kommunstyrelsens
+har rätt att ta del av bolagets handlingar och räkenskaper samt i
+övrigt inspektera bolaget och dess verksamhet.
+
+Enligt uppgift hanteras den förstärkta uppsiktsplikten av bolagen
+genom årligt ärende om årsredovisning för Eksta Bostads AB
+och Tempohus Kungsbacka AB”.7
+
+Förstärkt uppsiktsplikt gäller bara bolag och inte stiftelser. Enligt
+kommunstyrelsen reglemente ska kommunstyrelsen ha uppsikt
+över verksamhet som bedrivs i kommunala bolag, stiftelse och
+kommunalförbund. Stiftelsen Tjolöholms stadgar innehåller
+ingen skrivning om rapportering till kommunstyrelsen. Hur och
+om uppföljning av kommunens stiftelser sker framgår inte av
+något styrdokument.
+
+Vi har inte tagit del av något styrdokument som beskriver hur
+uppsiktsplikt över kommunalförbund, gemensamma nämnder
 
 8
 
 <!-- sida 59 -->
 
-och avtalade samarbeten följs upp. Av protokoll från Enligt uppgift informeras ny kommunstyrelse vid mandat-
-kommunstyrelsens sammanträden framgår en stående punkt periodens start om uppsiktsplikten och hur den utövas i
-”Information om aktuella händelser från nämnder, bolag, Kungsbacka kommun.8
+och avtalade samarbeten följs upp. Av protokoll från
+kommunstyrelsens sammanträden framgår en stående punkt
+”Information om aktuella händelser från nämnder, bolag,
 intresseorganisationer (SKR, GR med fler).” Ärendet innehåller
-en kortfattad redovisning av den information som utsedda Av den presentation ”Uppsiktsplikt i en kommun – Hur gör vi i
+en kortfattad redovisning av den information som utsedda
+representanter återrapporterar från respektive organ.
 
-representanter återrapporterar från respektive organ. Kungsbacka” som föredragits för kommunstyrelsen framgår
-bland annat att det varierar hur olika kommuner styr och följer
-Inom Räddningstjänstförbundet Storgöteborgs (RSG) finns ett samt att det inte finns något krav på särskilda styrdokument/
-medlemssamråd till vilket kommunfullmäktige utsett rutiner för uppsikten. Det anges dock att det ska vara möjligt att
-representanter som regelbundet deltar i medlemssamråd. spåra och verifiera den uppföljning som görs.
+Inom Räddningstjänstförbundet Storgöteborgs (RSG) finns ett
+medlemssamråd till vilket kommunfullmäktige utsett
+representanter som regelbundet deltar i medlemssamråd.
+
 Göteborgsregionens kommunalförbund (GR) och RSG skickar
-remiss inför kommande budget som hanteras som information I presentationen beskrivs den årliga processen för planering och
-och dialoger.                                uppföljning som bestående av tre delvis parallella processer;
-budgetprocess, process för uppföljning av delår och helår samt
-Av protokoll från kommunstyrelsen framgår att rapportering sker kvalitetsuppföljning.9
+remiss inför kommande budget som hanteras som information
+och dialoger.
+
+Av protokoll från kommunstyrelsen framgår att rapportering sker
 från överförmyndarnämnden vid ett antal tillfällen per år. Bland
-annat ärenden i mars 2024 respektive 2025 avseende Vidare anges i den presentation som redovisas för
-Överförmyndare i samverkans verksamhetsberättelse. kommunstyrelsen att det utöver årliga processer för styrning och
+annat ärenden i mars 2024 respektive 2025 avseende
+Överförmyndare i samverkans verksamhetsberättelse.
+
+3.3. Forum för uppsiktsplikt och kommunstyrelsens
+utövande av densamma
+I detta avsnitt redovisas våra iakttagelser kring forum för
+uppsiktsplikt i Kungsbacka kommun och kommunens utövande
+av densamma.
+
+8 Kommunstyrelsens protokoll 230110, § 1
+
+Enligt uppgift informeras ny kommunstyrelse vid mandat-
+periodens start om uppsiktsplikten och hur den utövas i
+Kungsbacka kommun.8
+
+Av den presentation ”Uppsiktsplikt i en kommun – Hur gör vi i
+Kungsbacka” som föredragits för kommunstyrelsen framgår
+bland annat att det varierar hur olika kommuner styr och följer
+samt att det inte finns något krav på särskilda styrdokument/
+rutiner för uppsikten. Det anges dock att det ska vara möjligt att
+spåra och verifiera den uppföljning som görs.
+
+I presentationen beskrivs den årliga processen för planering och
+uppföljning som bestående av tre delvis parallella processer;
+budgetprocess, process för uppföljning av delår och helår samt
+kvalitetsuppföljning.9
+
+Vidare anges i den presentation som redovisas för
+kommunstyrelsen att det utöver årliga processer för styrning och
 uppföljning också finns dialogmöten med nämnder och bolag,
 ledningsdialog (Framtidsdagen och Budgetdagen) samt
-3.3. Forum för uppsiktsplikt och kommunstyrelsens uppföljningsärenden till kommunstyrelsen och fullmäktige.
-utövande av densamma
-I detta avsnitt redovisas våra iakttagelser kring forum för Av dialoganteckningar från grundläggande granskning framgår
-uppsiktsplikt i Kungsbacka kommun och kommunens utövande att alla protokoll från nämnder och Eksta skickas till
-av densamma.                                 kommunstyrelsen.
+uppföljningsärenden till kommunstyrelsen och fullmäktige.
 
-8 Kommunstyrelsens protokoll 230110, § 1     9 Enligt muntlig uppgift sker uppföljning av måluppfyllelsen i begränsad
+Av dialoganteckningar från grundläggande granskning framgår
+att alla protokoll från nämnder och Eksta skickas till
+kommunstyrelsen.
+
+9 Enligt muntlig uppgift sker uppföljning av måluppfyllelsen i begränsad
 omfattning i anslutning till delår samt i dess helhet i samband med
 helåret.
+
 9
 
 <!-- sida 60 -->
 
-Kommunstyrelsen och Eksta har presidiemöte fyra gånger/år. bild av data- och integritetsskyddet i kommunen under det
-Vid mötet deltar presidiet för kommunstyrelsen respektive Eksta gångna året.
+Kommunstyrelsen och Eksta har presidiemöte fyra gånger/år.
+Vid mötet deltar presidiet för kommunstyrelsen respektive Eksta
 samt kommundirektör, VD för Eksta samt samhällsbyggnads-
-chef. Mötena har en fast agenda och protokoll från mötena Kommunstyrelsen tar också regelbundet del av uppföljning av ej
-skickas till kommunstyrelsen.10              verkställda beslut enligt socialtjänstlagen samt avstämning av
+chef. Mötena har en fast agenda och protokoll från mötena
+skickas till kommunstyrelsen.10
 
-lokalplanering. På kommunstyrelsens sammanträden finns
-Någon samlad beskrivning härutöver av när, hur och var dialog stående informationspunkter om bland annat information om
-och uppföljning inom ramen för uppsiktsplikten sker framgår inte aktuella händelser från nämnder, bolag, intresseorganisationer
-av något styrdokument.                       (SKR, GR med flera).
+Någon samlad beskrivning härutöver av när, hur och var dialog
+och uppföljning inom ramen för uppsiktsplikten sker framgår inte
+av något styrdokument.
 
-I uppföljningsrapport intern kontroll, som behandlas i kommun- Härutöver finns ett årshjul för information till KSAU som uppges
-styrelsen redovisas årets riskanalys och årets arbete med intern vara en del av uppsiktsplikten. Av årshjulet framgår bland annat
-kontroll på ett kommunövergripande plan. Uppföljningen är information om näringsliv, hållbar utveckling, internkontroll,
-begränsad till de tre observerade kommungemensamma säkerhet och beredskap samt kommunikation. Rapporteringen
-riskerna.                                    sker muntligt till KSAU. Skriftligt underlag från rapporteringen i
-KSAU går vidare till kommunstyrelsen.
+I uppföljningsrapport intern kontroll, som behandlas i kommun-
+styrelsen redovisas årets riskanalys och årets arbete med intern
+kontroll på ett kommunövergripande plan. Uppföljningen är
+begränsad till de tre observerade kommungemensamma
+riskerna.
+
 I uppföljningsrapporten för intern kontroll presenteras också
 bland annat följande.
-►  Resultat av annan granskning av kommunens verksamhet 3.4. Fastställda former för rapportering till fullmäktige
-(bland annat granskningar av kommunrevisionen, Nedan redovisas våra iakttagelser kring omfattningen på
-länsstyrelsen, Skolinspektionen, Inspektionen för vård och fastställda former för rapporteringen till fullmäktige.
+► Resultat av annan granskning av kommunens verksamhet
+(bland annat granskningar av kommunrevisionen,
+länsstyrelsen, Skolinspektionen, Inspektionen för vård och
 omsorg (IVO) samt Justitieombudsmannen (JO).
+► Resultat av granskning och uppföljning av privata utförare i
+de nämnder där detta finns.
+► Avtalssamverkan och annan samverkan.
 
-►  Resultat av granskning och uppföljning av privata utförare i Av kommunstyrelsens reglemente framgår att kommunstyrelsen
-de nämnder där detta finns.               två gånger per år ska rapportera till fullmäktige hur samtliga
-►  Avtalssamverkan och annan samverkan.      kommunens verksamheter utvecklas mot bakgrund av fastlagda
-mål och hur den ekonomiska ställningen är under budgetåret.
-Kommunstyrelsen tar vidare del av dataskyddsombudets (DSO) Detta sker genom delårsbokslut och helårsbokslut.
+Kommunstyrelsen tar vidare del av dataskyddsombudets (DSO)
 årsrapport som avser nämnderna samt Eksta och Tempohus AB
 samt Stiftelsen Tjolöholm slott. I denna sammanfattar DSO sin
 
 10 Ärende KS-2024-00026
+
+bild av data- och integritetsskyddet i kommunen under det
+gångna året.
+
+Kommunstyrelsen tar också regelbundet del av uppföljning av ej
+verkställda beslut enligt socialtjänstlagen samt avstämning av
+lokalplanering. På kommunstyrelsens sammanträden finns
+stående informationspunkter om bland annat information om
+aktuella händelser från nämnder, bolag, intresseorganisationer
+(SKR, GR med flera).
+
+Härutöver finns ett årshjul för information till KSAU som uppges
+vara en del av uppsiktsplikten. Av årshjulet framgår bland annat
+information om näringsliv, hållbar utveckling, internkontroll,
+säkerhet och beredskap samt kommunikation. Rapporteringen
+sker muntligt till KSAU. Skriftligt underlag från rapporteringen i
+KSAU går vidare till kommunstyrelsen.
+
+3.4. Fastställda former för rapportering till fullmäktige
+Nedan redovisas våra iakttagelser kring omfattningen på
+fastställda former för rapporteringen till fullmäktige.
+
+Av kommunstyrelsens reglemente framgår att kommunstyrelsen
+två gånger per år ska rapportera till fullmäktige hur samtliga
+kommunens verksamheter utvecklas mot bakgrund av fastlagda
+mål och hur den ekonomiska ställningen är under budgetåret.
+Detta sker genom delårsbokslut och helårsbokslut.
 
 10
 
@@ -2251,45 +2373,78 @@ working world
 <!-- sida 63 -->
 
 4.2. Slutsatser och rekommendationer
-Granskningens syfte har varit att bedöma om kommunstyrelsen Vidare saknas ett uttalande från kommunstyrelsen om huruvida
-utövar sin uppsiktsplikt över den kommunala verksamheten på bolagens verksamhet varit förenlig med det fastställda
-ett ändamålsenligt sätt. Vår sammanfattande bedömning utifrån kommunala ändamålet och utförts inom ramen för de
-granskningens syfte och grunderna för ansvarsprövning är att kommunala befogenheterna i det årliga ärende om bolagens
+Granskningens syfte har varit att bedöma om kommunstyrelsen
+utövar sin uppsiktsplikt över den kommunala verksamheten på
+ett ändamålsenligt sätt. Vår sammanfattande bedömning utifrån
+granskningens syfte och grunderna för ansvarsprövning är att
+kommunstyrelsen utövar sin uppsiktplikt på ett i huvudsak
+ändamålsenligt sätt.
 
-kommunstyrelsen utövar sin uppsiktplikt på ett i huvudsak årsredovisning som uppges utgöra underlaget för den förstärkta
-ändamålsenligt sätt.                         uppsiktsplikten över bolagen.
+Kommunstyrelsen utövar sin uppsiktsplikt inom ramen för
+processen för den ordinarie styrningen och uppföljningen genom
 
-Kommunstyrelsen utövar sin uppsiktsplikt inom ramen för Slutligen finns otydligheter kring huruvida uppföljningen av
-processen för den ordinarie styrningen och uppföljningen genom Tempohus omfattas av den protokollförda dialog som hålls med
-beslut om budget och plan samt uppföljning genom delårs- och Eksta som delges kommunstyrelsen. I detta sammanhang
-helårsbokslut. Härutöver utövas uppsiktsplikten genom noteras även att det inte framgår att det sker någon uppföljning
-uppföljning av internkontroll, andra granskningar av nämndernas av kommunens stiftelse idag.
+beslut om budget och plan samt uppföljning genom delårs- och
+helårsbokslut. Härutöver utövas uppsiktsplikten genom
+uppföljning av internkontroll, andra granskningar av nämndernas
 verksamheter samt uppföljning av privata utförare.
-Uppsiktsplikten av nämnderna bedöms härmed ändamålsenlig. Utifrån granskningen rekommenderar vi kommunstyrelsen att:
-►  Överväga att besluta om riktlinjer för kommunstyrelsens
-Vi bedömer däremot att det finns en bristande överskådlighet av uppsikt som tydliggör uppsiktens inriktning, omfattning och
-uppsiktsplikten utifrån ett helhetsperspektiv avseende gemen- genomförande samt former för rapporteringen till fullmäktige
-samma nämnder, kommunalförbund, bolag, stiftelser och i syfte att skapa en transparens och överskådlighet av
-avtalssamverkan. Vi kan konstatera att kommunstyrelsen får uppsiktsplikten i dess helhet.
-information om verksamhet i andra organ än kommunens egna ► Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
-nämnder. Det saknas dock riktlinjer, rutiner och styrdokument den utökade uppsiktsplikten över kommunens bolag.
-som tydligt beskriver hur uppsikten är tänkt att genomföras. ► Säkerställa transparens och tydlighet kring årligt ärende om
-avtalssamverkan i enlighet med 9 kap. 38 § KL.
+Uppsiktsplikten av nämnderna bedöms härmed ändamålsenlig.
+
+Vi bedömer däremot att det finns en bristande överskådlighet av
+uppsiktsplikten utifrån ett helhetsperspektiv avseende gemen-
+samma nämnder, kommunalförbund, bolag, stiftelser och
+avtalssamverkan. Vi kan konstatera att kommunstyrelsen får
+information om verksamhet i andra organ än kommunens egna
+nämnder. Det saknas dock riktlinjer, rutiner och styrdokument
+som tydligt beskriver hur uppsikten är tänkt att genomföras.
 
 Det finns en redovisning över vilken avtalssamverkan som finns
-i kommunen i uppföljningsrapport intern kontroll. Hur den Göteborg den 27 oktober 2025
+i kommunen i uppföljningsrapport intern kontroll. Hur den
 verksamhet som bedrivs genom denna avtalssamverkan följs
-upp framgår dock inte. Det finns också viss otydlighet kring årlig Johanna Rössberger Karin Knutsson Friberg
-rapportering från kommunstyrelsen till fullmäktige av Verksamhetsrevisor Certifierad kommunal yrkesrevisor
-kommunens samverkan. Denna bedömning gäller oaktat Ernst & Young AB Ernst & Young AB
-omfattningen på förekomst av eventuell avtalssamverkan.         Kvalitetssäkrare
+upp framgår dock inte. Det finns också viss otydlighet kring årlig
+rapportering från kommunstyrelsen till fullmäktige av
+
+kommunens samverkan. Denna bedömning gäller oaktat
+omfattningen på förekomst av eventuell avtalssamverkan.
+
+Vidare saknas ett uttalande från kommunstyrelsen om huruvida
+bolagens verksamhet varit förenlig med det fastställda
+kommunala ändamålet och utförts inom ramen för de
+kommunala befogenheterna i det årliga ärende om bolagens
+årsredovisning som uppges utgöra underlaget för den förstärkta
+uppsiktsplikten över bolagen.
+
+Slutligen finns otydligheter kring huruvida uppföljningen av
+Tempohus omfattas av den protokollförda dialog som hålls med
+Eksta som delges kommunstyrelsen. I detta sammanhang
+
+noteras även att det inte framgår att det sker någon uppföljning
+av kommunens stiftelse idag.
+
+Utifrån granskningen rekommenderar vi kommunstyrelsen att:
+►  Överväga att besluta om riktlinjer för kommunstyrelsens
+uppsikt som tydliggör uppsiktens inriktning, omfattning och
+genomförande samt former för rapporteringen till fullmäktige
+i syfte att skapa en transparens och överskådlighet av
+uppsiktsplikten i dess helhet.
+►  Säkerställa årligt ärende i enlighet med 6 kap. 9 § KL, dvs
+den utökade uppsiktsplikten över kommunens bolag.
+►  Säkerställa transparens och tydlighet kring årligt ärende om
+avtalssamverkan i enlighet med 9 kap. 38 § KL.
+
+Göteborg den 27 oktober 2025
+
+Johanna Rössberger Karin Knutsson Friberg
+Verksamhetsrevisor Certifierad kommunal yrkesrevisor
+Ernst & Young AB   Ernst & Young AB
+
+Kvalitetssäkrare
 
 13
 
 <!-- sida 64 -->
 
 Bilaga 1. Revisionskriterier                 Kommunstyrelsens reglemente
-Av  kommunstyrelsens reglemente framgår bl.a. att
+Av kommunstyrelsens reglemente framgår bl.a. att
 kommunstyrelsen är kommunens ledande politiska
 Kommunallagen (KL)
 förvaltningsorgan. Den har ett helhetsansvar för att leda,
@@ -2306,22 +2461,28 @@ sådan avtalssamverkan som sker enligt 9 kap. 37 § KL eller
 lag eller författning samt över kommunal verksamhet som
 enligt annan lag eller författning (3 § p 3).
 bedrivs i sådana juridiska personer som avses i 10 kap. 2–6 §§
+
 och sådana kommunalförbund som kommunen eller regionen
-I 11 § regleras hur kommunstyrelsens uppföljning. Här anges
 är medlem i.
-bl.a. att kommunstyrelsen ska följa upp hur den interna
+
 Nämndernas ansvar framgår av 6 kap. 6 § KL av vilken framgår
-kontrollen sköts i nämnderna, att kommunstyrelsen två gånger
 bl.a. att nämnderna var och en inom sitt område ska se till att
-per år ska rapportera till kommunfullmäktige hur samtliga
 verksamheten bedrivs i enlighet med de mål och riktlinjer som
-kommunens verksamheter utvecklas mot bakgrund av fastlagda
 fullmäktige har bestämt samt de bestämmelser i lag eller annan
-mål och hur den ekonomiska ställningen är under budgetåret
 författning som gäller för verksamheten.
+De ska också se till att den interna kontrollen är tillräcklig för att
+förebygga fel och oegentligheter i verksamheten, och att
+
+I 11 § regleras hur kommunstyrelsens uppföljning. Här anges
+bl.a. att kommunstyrelsen ska följa upp hur den interna
+kontrollen sköts i nämnderna, att kommunstyrelsen två gånger
+per år ska rapportera till kommunfullmäktige hur samtliga
+kommunens verksamheter utvecklas mot bakgrund av fastlagda
+mål och hur den ekonomiska ställningen är under budgetåret
 samt en gång årligen till kommunfullmäktige rapportera om
-De ska också se till att den interna kontrollen är tillräcklig för att kommunens avtalssamverkan enligt 9 kap. 37 § kommunallagen
-förebygga fel och oegentligheter i verksamheten, och att eller enligt annan lag eller författning.
+kommunens avtalssamverkan enligt 9 kap. 37 § kommunallagen
+eller enligt annan lag eller författning.
+
 verksamheten bedrivs på ett i övrigt tillfredsställande sätt.
 Gemensamt reglemente för kommunstyrelsen och
 Styrelsen har vidare ålagts en förstärkt uppsiktsplikt avseende nämnderna
@@ -2332,6 +2493,7 @@ verksamhet som bolaget har bedrivit under föregående enligt riktlinjer som fas
 kalenderår har varit förenlig med det fastställda kommunala Redovisningen lämnas till kommunstyrelsen som samordnar de
 ändamålet och utförts inom ramen för de kommunala olika nämndernas redovisningar.
 befogenheterna.
+
 14
 
 <!-- sida 65 -->
@@ -2373,8 +2535,6 @@ rapportering av ej verkställda beslut)
 15
 
 <!-- sida 66 -->
-
-uniForm KUB100 v 1.0, 2008-10-02
 
 Kungsbacka
 
@@ -2428,6 +2588,8 @@ Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
 kommunrevision(Åkungsbacka.se
 www kungsbacka.se
+
+uniForm KUB100 v 1.0, 2008-10-02
 
 <!-- sida 67 -->
 
@@ -4147,8 +4309,6 @@ Kommundirektör                     Samhällsbyggnadschef
 
 <!-- sida 104 -->
 
-TMALL 0462 Finansiering och samverkansavtal 4.0
-
 AVTAL
 
 Ärendenummer Dokumentdatum
@@ -4197,6 +4357,8 @@ vägplan/järnvägsplan.
 
 1 (10)
 
+TMALL 0462 Finansiering och samverkansavtal 4.0
+
 <!-- sida 105 -->
 
 AVTAL                                2 (10)
@@ -4204,17 +4366,11 @@ AVTAL                                2 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 3  Syfte och bakgrund
+
 Syftet med detta avtal är att reglera respektive Parts åtaganden och finansiella
 ansvar för åtgärderna i avtalet.
+
 I kommunens handlingsplan för nya verksamhetsområden pekades
 fastigheten Duvehed 2:14 som ligger öster om Västkustbanan, söder om
 Tostaredsvägen (väg 916), ut som nästa område att utveckla i Fjärås
@@ -4224,22 +4380,34 @@ gör att området har goda förutsättningar för att företag med transportinte
 verksamhet ska kunna etablera sig. Idag saknas en gång- och cykelväg för
 oskyddade trafikanter som förflyttar sig längs sträckan mellan det nya
 verksamhetsområdet och den västra sidan om järnvägen.
+
 Detta avtal avser samverkan och bevakning gällande projektering och
 byggande av gång- och cykelväg längs väg 916 mellan Ormvråksvägen och
 cirkulationsplatsen mellan väg 916 och 939, en passage över väg 916 i höjd
 med pendelparkeringen Fjärås Station och flytt samt
 tillgänglighetsanpassning av hållplatsen Fjärås station läge D.
+
 Den nya gång- och cykelvägen kommer att byggas ihop med det befintliga
 gång- och cykelvägnätet i området väster om järnvägen. Åtgärderna
 genomförs för att öka framkomligheten och trafiksäkerheten för oskyddade
+
 trafikanter som reser längs sträckan.
+
 3.1    Parternas nyttor och motivering av finansiering
 Följande nyttor bedöms gälla för genomförande av åtgärderna:
+
 (cid:120) Ökad framkomlighet för oskyddade trafikanter
 (cid:120) Ökad trafiksäkerhet för oskyddade trafikanter
 (cid:120) Ökat hållbart resande
+
 3.2    Tidigare studier och utredningar kopplat till detta avtal
+
 Någon åtgärdsvalsstudie bedöms inte behövas.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 106 -->
 
@@ -4248,34 +4416,40 @@ AVTAL                                3 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 4  Tidigare avsiktsförklaring och/eller avtal om
 finansiering och samverkan
+
 Parterna har inte tidigare tecknat avsiktsförklaring eller avtal om
 medfinansiering och samverkan av åtgärderna.
+
 5  Beskrivning av åtgärder
+
 Avtalet avser åtgärder i anläggningar som Trafikverket och Kommunen äger
 och ansvarar för. Objektet omfattar nybyggnation av gång- och cykelväg,
 ombyggnation och flytt av hållplats samt byggande av passage över väg 916 i
 Fjärås station i Kungsbacka kommun. Åtgärdernas lokalisering illustreras i
 kartan i figur 1 nedan.
+
 5.1    Åtgärder i den kommunala anläggningen
+
 Åtgärd 1. Friliggande gång- och cykelväg mellan Fjärås industriväg och
 Ormvråksvägen.
+
 Åtgärd 2. Bevakningsuppdrag: bevakning av genomförandet av åtgärd 1.
+
 5.2    Åtgärder i den statliga anläggningen
+
 Åtgärd 3. Gång- och cykelväg mellan Fjärås industriväg och cirkulationsplats
 Fjärås station (väg 916/väg 939).
 Åtgärd 4. Flytt samt tillgänglighetsanpassning av fickhållplatsen Fjärås
 station läge D.
+
 Åtgärd 5. Ny passage med mittrefug över väg 916.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 107 -->
 
@@ -4284,17 +4458,11 @@ AVTAL                                4 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 Figur 1. Lokaliseringen av åtgärderna. Röda åtgärder utförs av Trafikverket. Blåa åtgärder
 utförs av Kommunen (genomförande av åtgärd 1) och Trafikverket (bevakning av åtgärd 1).
+
 6  Finansiering
+
 Finansieringen av åtgärderna fördelas enligt nedan:
 Finansiär
 Nr. Åtgärder           Utförare  Kostnad (kr) Trafikverket Kommunen
@@ -4311,8 +4479,14 @@ cirkulationsplats
 fickhållplats i nytt läge
 5 Ny passage med mittrefug över Trafikverket ingen uppgift 100%
 väg 916
+
 Kostnaderna för Trafikverkets bevakning, åtgärd 2, faktureras Kommunen i
 enlighet med § 7.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 108 -->
 
@@ -4321,36 +4495,45 @@ AVTAL                                5 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 Hantering av kostnadsförändringar sker enligt §8 i detta avtal.
+
 Respektive part finansierar sina anläggningar inklusive projektering och
 administrationskostnader som hör till parternas anläggningar. Detta innebär
 att Kommunen finansierar Trafikverkets bevakningsuppdrag, åtgärd 2.
+
 6.1    Drift- och underhållskostnader
+
 Kostnader för ägande respektive drift och underhåll i förvaltningsskedet ingår
 inte i ovan angivna totala kostnader. Parterna svarar för dessa kostnader i sin
 egen anläggning. Vid behov kan avtal om utförande av drift och underhåll
 komma att tecknas mellan Parterna i senare skede.
+
 6.2    Principer och kostnader i samverkansavtal /
 bevakningssavtal
+
 Kommunen ska stå för samtliga kostnader inklusive de personalkostnader
 som Trafikverkets bevakning medför.
+
 Respektive part finansierar sina anläggningar inklusive sina
 byggherrekostnader som hör till parternas anläggningar.
+
 7  Betalning
+
 Trafikverket har rätt att löpande fakturera Kommunen för upparbetade
 kostnader i bevakningsuppdraget, åtgärd 2.
+
 Fakturering adresseras till:
+
 Kungsbacka kommun
+
 Fakturan
+
 434 81 Kungsbacka
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 109 -->
 
@@ -4359,41 +4542,49 @@ AVTAL                                6 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 8  Hantering av kostnadsförändringar
+
 Inom samverkansavtal har respektive Part ansvar för sina anläggningar och
 eventuella kostnadsförändringar som förekommer.
+
 9  Ansvarsfördelning
+
 Parterna beslutar självständigt i genomförandet av sina respektive
 anläggningar enligt § 5 om det inte påverkar förutsättningarna för hela
 projektet. För övrigt gäller följande:
+
 9.1    Planer, tillstånd och myndighetsbeslut
 Trafikverkets ansvar
+
 1\. Trafikverket ansvarar för att tillämpliga lagar och andra författningar
 samt myndighetsbeslut iakttas för åtgärderna som Trafikverket ansvarar
 för.
 2\. Trafikverket svarar för formell hantering enligt väglagen för åtgärderna i
 statlig anläggning (upprättande av vägplan eller ställningstagande SO-
 åtgärd).
+
 Kommunens ansvar
 1\. Kommunen ansvarar för att tillämpliga lagar och andra författningar samt
 myndighetsbeslut iakttas för åtgärd 1, som Kommunen ansvarar för.
+
 2\. Kommunen genomför och bekostar eventuellt erforderliga ändringar av
 detaljplaner för genomförande av åtgärder knutna till detta avtal.
+
 9.2    Genomförande
 Trafikverkets ansvar
 1\.   Trafikverket ska utföra eller låta utföra åtgärderna inom det statliga
 åtagandet som omfattas av detta avtal §§5 och 6.
+
 2\.   Trafikverket svarar för projektering av åtgärder 3, 4, 5.
+
 3\.   Trafikverket svarar för byggande av åtgärder 3, 4, 5.
+
 4\.   Trafikverket svarar för att dialog förs med Västtrafik.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 110 -->
 
@@ -4402,42 +4593,51 @@ AVTAL                                7 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 Kommunens ansvar
+
 1\. Kommunen ska utföra eller låta utföra de åtgärder som inte ingår i det
 statliga åtagandet och som omfattas av detta avtal §§5 och 6.
 2\. Kommunen ska (är skyldig) att säkerställa att Trafikverkets krav följs. Alla
 brister i utförandet ska Kommunen avhjälpa på egen hand.
+
 3\. Kommunen ska informera Trafikverkets bevakningsledare om det
 uppkommer en risk att åtgärd kan påverka Trafikverkets anläggning på
 något sätt.
+
 4\. Kommunen får inte godkänna slutbesiktning av åtgärd 1 utan
 Trafikverkets medgivande.
+
 5\. Kommunen svarar för genomförande av sin parallella investering i egen
 anläggning.
 6\. Kommunen svarar för projektering av åtgärd 1.
+
 7\. Kommunen svarar för byggande av åtgärd 1.
+
 8\. Kommunen har samordningsansvar för åtgärd 1.
+
 9.3    Markförvärv och fastighetsbildning
+
 Kommunens ansvar
+
 1\. Kommunen ska tillhandahålla den mark som behövs för projektets
 genomförande.
 2\. Kommunen ska, utan ersättning, tillhandahålla den mark som behövs för
 projektets genomförande samt drift och underhåll.
+
 9.4    Ägaransvar och förvaltningsansvar
 Trafikverkets ansvar
+
 1\. Trafikverket blir efter färdigställandet väghållare och sköter och bekostar
 framtida drift och underhåll samt eventuell förnyelse av åtgärd 3, 4, 5.
+
 Kommunens ansvar
 1\. Kommunen blir efter färdigställandet väghållare och sköter och bekostar
 framtida drift och underhåll samt eventuell förnyelse av åtgärd 1.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 111 -->
 
@@ -4446,22 +4646,16 @@ AVTAL                                8 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 9.5    Övrigt
 Trafikverkets ansvar
 1\. Trafikverket ansvarar för att tillsätta en bevakningsledare som kommer att
 fungera som kontaktperson vid frågor.
+
 2\. Trafikverket ansvarar för att säkerställa en cirkulär masshantering i ett
 tidigt skede och att skapa förutsättningar för en mer resurseffektivt
 nyttjande av massor i genomförandeprocessen. Överlåtelse av massor till
 annan part regleras genom överlåtelsehandlingar.
+
 Kommunens ansvar
 1\. Kommunen ansvarar för att bevakningsledaren kallas till erforderliga
 möten och får ta del av erforderligt material för genomförande av
@@ -4469,21 +4663,31 @@ uppgifterna enligt §5.
 2\. Kommunen ansvarar för att upprätta och överlämna förvaltningsdata i
 enlighet med Trafikverket önskemål.
 3\. Kommunen tillhandahåller nödvändigt kartmaterial utan ersättning.
+
 3\. Kommunen ansvarar för att säkerställa en cirkulär masshantering i ett
 tidigt skede och att skapa förutsättningar för en mer resurseffektivt
 nyttjande av massor i genomförandeprocessen. Överlåtelse av massor till
 annan part regleras genom överlåtelsehandlingar.
+
 10 Projektorganisation och  parternas samarbete
+
 Parterna samverkar med varandra och agerar i samförstånd vid projektering
 och genomförande av åtgärder beskrivna i §5 för att minimera varandras
 risker, undvika onödiga kostnader och tidsförluster samt begränsa varandras
 möjliga skador.
 Trafikverket kommer att behöva byta en trumma i samband med åtgärd 1,
 särskild samverkan krävs vid genomförandet.
+
 Ömsesidiga informationsmöten ska genomföras med den regelbundenhet som
 parterna beslutar i särskild ordning.
+
 Parterna ska ges full insyn i arbetet genom rapportering om hur arbetet
 framskrider tekniskt och tidsmässigt.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 112 -->
 
@@ -4492,45 +4696,54 @@ AVTAL                                9 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 11 Tidplan
+
 Preliminär starttidpunkt 2026
+
 12 Avtalets giltighet
+
 Avtalet träder i kraft när det undertecknats av Parterna och under
 förutsättning av att Parterna undertecknat avtalet senast 2025-12-30.
+
 12.1   Upphörande i förtid
+
 I de fall projektet avbryts eller avtalet upphör att gälla står respektive Part för
 de kostnader inom sitt ansvar som dittills nedlagts i enlighet med §6.
+
 13 Övrigt
+
 13.1   Ändringar och tillägg
 Ändringar och/eller tillägg till detta avtal ska vara skriftligen upprättade och
 undertecknade av Parterna för att vara gällande.
+
 Ytterligare avtal om genomförande och drift och underhåll kan komma att
 tecknas senare.
+
 13.2   Risk och hantering av skador
 Risk och hantering av skador ska regleras mellan byggherre och
 entreprenören och krav ska ställas på att entreprenören uppfyller en
 minimiomfattning av försäkringsskydd enligt aktuell AMA AF (Allmän
 material- och arbetsbeskrivning och Administrativa föreskrifter).
+
 Trafikverket ska ha rätt att på samma grund som Kommunen såsom
 byggherre, stoppa pågående entreprenad om företrädare för Trafikverket vid
 tillsyn upptäcker brister i utförandet som kan medföra risk för skada eller
 olycka. Denna rättighet ska Kommunen i kontrakt eller på annat sätt meddela
 utsedd entreprenör innan arbeten påbörjas.
+
 14 Tvistlösning
+
 Eventuella tvister som uppstår med anledning av detta avtal ska i första hand
 avgöras genom förhandlingar mellan Parterna. Parterna ska vidta alla skäliga
 åtgärder för att i största möjliga mån undvika en rättslig prövning och istället
 lösa den uppkomna frågan i samförstånd. Om parterna inte förmår lösa
 tvisten genom förhandlingar ska den slutligt avgöras av allmän domstol enligt
 svensk lag.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 113 -->
 
@@ -4539,33 +4752,38 @@ AVTAL                               10 (10)
 Dokumentdatum
 2025-11-04
 
-Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
-Station, Kungsbacka kommun
-0.4
-latvasnakrevmas
-hco
-gnireisnaniF
-2640
-LLAMT
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Detta avtal är upprättat i 2 likalydande exemplar varav parterna tagit var sitt.
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum                Ort och datum
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Hanna Jonsson                Lisa Andersson
 Enhetschef Infrastrukturplanering väg Kommunstyrelsens ordförande
 Trafikverket                 Kungsbacka kommun
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Ort och datum
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Rikard Vidlund
 Kommundirektör
 Kungsbacka kommun
+
 Dokumentegenskaper, Ärendenummer TRV 2025/89319, Motpartens ärendenummer [Motpartens ärendenummer], Dokumentdatum 2025-11-04, Konfidentialitetsnivå [Konfidentialitetsnivå],
 Dokumenttyp AVTAL.
+
 Ovanstående textfält är endast avsett att läsas digitalt och får ej tas bort. Det innehåller uppgifter
 från sidhuvudet och gör att dokumentets egenskaper blir tillgängliga enligt Lag (2018:1937) om
 tillgänglighet till digital offentlig service.
+
+Bevaknings- och samverkansavtal gång- och cykelväg längs väg 916 i Fjärås
+Station, Kungsbacka kommun
+
+TMALL 0462 Finansiering och samverkansavtal 4.0
 
 <!-- sida 114 -->
 
@@ -5130,7 +5348,6 @@ GUNILLA APLER
 
 Svensk e-legitimation
 
-Sep Od NN
 i VIS
 2019-06-19 16:58:21 +02:00 i CS | ;
 Ref: 726196 4 ERE,
@@ -5824,7 +6041,6 @@ Kommunstyrelsens förvaltning
 
 <!-- sida 144 -->
 
-Från: [I »
 Skickat: den 9 november 2025 14:18
 
 Till: Kommun \<kommun(Ökungsbacka.se>
@@ -5846,7 +6062,7 @@ Storckenfeldt \<axel.storckenfeldtQekungsbacka.se>; Magdalena Sundqvist
 \<magdalena.sundqvistQkungsbacka.se>; Elisabeth Svensson
 \<elisabeth.svensson(Mkungsbacka.se>; Johan Tolinsson \<johan.tolinssonQkungsbacka.se>;
 Stefan Vilumsons \<stefan.vilumsonsQkungsbacka.se>; Marie Wadström
-\<marie.wadstrom(ÅMkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQMkungsbacka.se>
+\<marie.wadstrom(Mkungsbacka.se>; Shabnam Zamani \<shabnam.zamaniQMkungsbacka.se>
 Ämne: Komplettering till begäran om normprövning enligt RF 11 kap. 14 8 i ärende KS-2025-
 00287
 
@@ -7396,7 +7612,6 @@ Kommunstyrelsens förvaltning
 
 <!-- sida 186 -->
 
-Från: [I »
 Skickat: den 21 oktober 2025 12:20
 
 Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(Mkungsbacka.se>
@@ -8263,7 +8478,7 @@ Tjänstenotering: Frågor från fastighetsägaren har genom mejl 2025-
 05-09 övergått till begäran om ogiltigförklaring av
 detaljplanebestämmelse fö fl. Rubrik ändras från Frågor
 
-om parkmark Billilliän.f. till Bggären om ogiltigförklaring av
+om parkmark Billlliän.fi. til Bggären om ogiltigförklaring av
 detaljplanebestämmels
 
 Tjänstenotering: En mottagningsbekräftelse har skickats till sökanden.
@@ -8273,7 +8488,7 @@ Skickat E-post: Svar på mail 2025-04-25, KS-2025-00287
 Bil - Begäran om inlösen av del av mark inom fastigheten BN
 KS-2019-00602, KS 2022-03-22 8 63
 
-Bil - Ansökan om planbesked fö [BIIKsS-2019-00602, KS 2019-
+Bil - Ansökan om planbesked fö [IIKsS-2019-00602, KS 2019-
 12-19 5 326
 
 Bil - Planbesked fö [KS-2018-00795, KS 2019-02-19 & 41
@@ -8399,7 +8614,6 @@ Med vänlig hälsning
 
 <!-- sida 203 -->
 
-Från: emm
 Till: Ida Lennartsson; Info; Kommun
 
 Ärende: Komplettering i ärende: KS-2025-00287 - Rättskraft, genomförande och kommunens ansvar vid detaljplan
@@ -8571,7 +8785,6 @@ och HH
 
 <!-- sida 207 -->
 
-Från;
 Till: Ida Lennartsson
 
 Ärende: Korrigering av komplettering i ärende KS-2025-00287
@@ -8736,7 +8949,7 @@ Från:
 
 Skickat: den 17 september 2025 12:35
 
-Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(Mkungsbacka.se>; Ida Lennartsson
+Till: Info \<infoQkungsbacka.se>; Kommun \<kommun(ÅMkungsbacka.se>; Ida Lennartsson
 \<ida.lennartssonQkungsbacka.se>
 
 Ämne: Komplettering i ärende KS-2025-00287 - Hänvisning till PBL 4:17a och MB 7:18;
@@ -9037,7 +9250,7 @@ ekonomiskt och rekreationellt.
 En central del av översiktsplanen är att överbrygga barriärer som idag begränsar accessen till
 kusten och kopplar samman Åsas centrala delar med havet. Ett område på ca: 37 000 kvm,
 ursprungligen planerat som parkmark men aldrig realiserat, utgör just en sådan barriär.
-Markägaren har visat vilja att finansiera en strandpromenad - en lösning som direkt stöder
+Markägaren har visat vilja att finansiera en strandpromenad -—- en lösning som direkt stöder
 kommunens ambitioner om ökad rekreation och tillgänglighet. Ändå har inga samtal inletts.
 Detta är anmärkningsvärt, särskilt när markägaren dessutom är öppen för att kombinera detta
 med bebyggelse, vilket kan driva förtätning och utveckling av verksamheter i linje med planens
@@ -9065,8 +9278,6 @@ fokus på samverkan och långsiktighet. Genom att inleda en konstruktiv dialog k
 inte bara lösa barriärproblemet utan också skapa ett levande centrum, öka tryggheten och
 folkhälsan, samt stärka Åsas identitet. Låt oss inte låta byråkratisk tvekan stå i vägen för en
 blomstrande framtid — öppna dörren till samtalet nu!
-
-HI foctienetsägor lill
 
 https://norrahalland.se/debatt/debatt-ge-aasa-en-blomstrande-framtid/47833
 
@@ -9158,7 +9369,6 @@ Jag står gärna till förfogande för att diskutera frågan vidare och tillhand
 Med vänlig hälsning
 
 Ägare ti NN och MN
-re. NN
 
 <!-- sida 225 -->
 
@@ -9192,10 +9402,6 @@ Akten inneh, 20 skrivna sidor,
 
 <!-- sida 231 -->
 
-\$
-
-4
-
 MR
 
 Utan avgift.
@@ -9207,8 +9413,6 @@ MAA (006 2 oo Bi
 te inkom /7//A, 19821
 
 -.
-
-Bb. Ds år 19b1.
 
 Länspkysekasne i Hallands
 äte fe Nur Eka län resolution i fråga om fast-
@@ -9262,10 +9466,6 @@ EL | Secakt ÄDP Otel 2.
 <!-- sida 232 -->
 
 V
-
-; e
-
-<
 
 3 Ia
 
@@ -9373,11 +9573,10 @@ R
 \>
 
 icke vara mindre än som motsvarar den för byggnad tillåtna
+
 största höjden, byggnadsnämnden likväl obetaget att, där så
 prövas lämpligt, för uthus eller annan gårdsbyggnad medgiva
 mindre avstånd, dock ej under 3 meter.
-
-§ 6.
 
 åntal byggnader å tomtplats.
 
@@ -9432,8 +9631,6 @@ obebyggt ett område av minst 9 meters bredd ovan ett plan i
 jämnhöjd med fönstrets umderkans: dvd må fönster anbringas mot
 gårdsdel av mindre brdäd öva detta plan, därest -rugmets behov
 av dager är nöjaktigt tillgodosett genöm annat föRSTST.
-
-1\. ee -
 
 Förbud mot utfart till väg.
 
@@ -9541,13 +9738,9 @@ sommarhotell och restaurang. Upphovet till och förut, -
 
 <!-- sida 238 -->
 
-« i
-
 2
 
 v.
-
-gon =
 
 sättningen för fritidsbebyggelsen äro de goda bad--
 möjligheterna vid områdets klipp- och sandstränder
@@ -9570,7 +9763,7 @@ Det har icke förelegat någon anledning att före- > Föreslagna
 
 z : väger .
 
-slå ändring i rikshuvudvägens sträckning. Dgn har i i
+slå ändring i rikshuvudvägens sträckning. Dgn har i
 förslaget redovisats med 16 meters bredd. En av väg-
 ingenjören i länet företagen utredning fur givit vid
 
@@ -9585,8 +9778,6 @@ gjorts i planen. Så långt det varit möjligt har riks-
 huvudvägen skyddats mot direkta utfarter från tomter
 
 <!-- sida 239 -->
-
-Fi
 
 an
 
@@ -9623,10 +9814,6 @@ huvudsak nordsyvdlig väg, vilken genom en vägbro över ban-
 <!-- sida 240 -->
 
 2
-
-2
-
-ä
 
 2/
 
@@ -9675,8 +9862,6 @@ parkområden.
 <!-- sida 241 -->
 
 LM
-
-Då
 
 ä
 
@@ -9752,8 +9937,6 @@ valla församlings kyrka samt införd i tidningarna Nordhalland
 
 och Norra Hallands Veckoblad.
 
-Qåd
-
 Anmärkningar mot förslaget ha inkommit från vissa
 markägare.
 Med anledning av vad SverTentnäteren i sitt i ärendet
@@ -9768,8 +9951,6 @@ nämnden i Ölmevalla socken ävensom Kungl. Järnvägsstyrelsen
 tillfälle att inom viss, numera förfluten tid inkomma med
 
 yttrande i ärendet.
-
-.
 
 <!-- sida 243 -->
 
@@ -9876,7 +10057,7 @@ ligt byggnadsplanen avsett ändamål. :
 
 Jämlikt 123 3 tredje stycket byggnadsstadgan samt 2 3
 
-första ndra kö Kungl. kohgörrl sen den 21 november 1947 om
+första ndra Rå Kungl. kohgörrl sen den 21 november 1947 om
 
 ERPeer ing av beslut pörands ändring i rikets indelnire re
 
@@ -9911,8 +10092,6 @@ vid äventrr \<v talare förlust ckola till Kungl. Kommunikstionrs-
 <!-- sida 253 -->
 
 avskrift.
-
-22
 
 at I (
 Har vedwdue UM 133
@@ -10045,7 +10224,6 @@ icke vara mindre än som motsverar den för vnoensd tillåtna
 största höjden, byggnadsnämnden likväl obetaget att, där så
 prövas lämpligt, för uthus eller annan gårdsbyggnad medgiva
 mindre avstånd, dock ej under 3 meter.
-5 6.
 Antal byggnader å tomtplats.
 Å tomtplats, mn unrar med B betecknat område, får
 endast en huvudbyggnad uppföras. Å tomtplats, som innehåller
@@ -10473,9 +10651,7 @@ grRätt avskrivet; betygar
 
 S 452/53
 
-MNAS TILL. -
-far >
-Lake NE Va
+LÄMNAS ML -
 FOR KÄNNEDOM.
 
 KUNGL. BYGGNADSSTYRELSEN
@@ -10499,7 +10675,7 @@ perter påyrkat göra den säligt planförslaget omkring 30 me-
 ter breda parkremsan mellan rikshuvudvägen och stranden sm
 lare, och deras yrkanden beträffande utläggande av visat or
 råde för hotelländamål synes icke böra föranleda något un-
-dantag i den fastställda planen utan kunna upptagas till
+dantag 1 den fastställda planen utan kunna upptagas till
 prövning sedan nytt planförsleg framlagts för det område &
 tills vidare icke ingår 1 planen. :
 
@@ -10816,8 +10992,6 @@ cc Bygg- och miljöförvaltningen
 
 <!-- sida 278 -->
 
-rå
-
 Skickat: den 9 juli 2025 18:36
 
 Till: Kommun \<kommun(Qkungsbacka.se>
@@ -11107,8 +11281,6 @@ cc Bygg- och miljöförvaltningen
 
 <!-- sida 286 -->
 
-rån:
-
 Skickat: den 9 juli 2025 18:36
 
 Till: Kommun \<kommun(Qkungsbacka.se>
@@ -11274,8 +11446,6 @@ cc Bygg- och miljöförvaltningen
 
 <!-- sida 291 -->
 
-Från:
-
 Skickat: den 19 maj 2025 16:00
 
 Till: Info \<infoQkungsbacka.se>; Kommun \<kommun QMkungsbacka.se>; Peter Sebestyén
@@ -11387,17 +11557,15 @@ transparens.
 
 <!-- sida 294 -->
 
-Från
-
 Skickat: den 9 maj 2025 13:35
-
 Till: info (Qkungsbacka.se \<infoQkungsbacka.se>
 
 Ämne: Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
+
 Till Kommunstyrelsen / ansvarig nämnd i Kungsbacka kommun
 
-Jag, , fastighetsägare vit! FN och , begär härmed att
-Kungsbacka kommun omedelbart förklarar att planbestämmelsen avseende
+JIE I omedelbart förkl = u mo avseende
+
 Parkmark — Allmän Platsmark i detaljplan Ö22, antagen 1951-12-12, är ogiltig då
 densamma aldrig slutgiltigt prövats i en lantmäteriförrättning för bildande av eller
 inlemmande i en gemensamhetsanläggning. Planbestämmelsen innebär, på det av
@@ -11435,6 +11603,8 @@ vilket ytterligare understryker dess ogiltighet.
 Kommunen hävdar återkommande att fastigheten skulle vara parkmark trots att ingen
 formell förrättning (expropriation, överlåtelse eller fastighetsreglering) har
 genomförts enligt Anläggningslagen eller Fastighetsbildningslagen. För att konstatera
+
+Jag, , fastighetsägare vit! FN och , begär härmed att
 
 <!-- sida 295 -->
 
@@ -11860,7 +12030,7 @@ Kopia: Kommun \<kommun(QMkungsbacka.se>; Carina Rasmussen
 \<carina.rasmussen(ÅMkungsbacka.se>; Veronica Löfqvist \<veronica.lofqvistQkungsbacka.se>;
 Lisa Andersson \<lisa.anderssonQkungsbacka.se>; Berit Bergström
 \<berit.bergstrom(Åkungsbacka.se>; Lars Eriksson \<lars.erikssonQkungsbacka.se>; Emanuel
-Forsell \<emanuel.forselWWkungsbacka.se>; Hravn Forsne \<hravn.forsneQMkungsbacka.se>;
+Forsell \<emanuel.forselWQÖkungsbacka.se>; Hravn Forsne \<hravn.forsne(QMkungsbacka.se>;
 Maria Gathendahl \<maria.gathendahl(WBkungsbacka.se>; Annika Hedman
 \<annika.hedman(Mkungsbacka.se>; Patrik Jervne Henestam
 \<patrik.jervne.henestam(Mkungsbacka.se>; Stefan Jägnert \<stefan.jagnertQkungsbacka.se>;
@@ -12593,8 +12763,6 @@ Tel.
 Mail:
 
 <!-- sida 325 -->
-
-Från: FR
 
 Skickat: den 18 november 2025 13:01
 

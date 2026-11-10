@@ -1,0 +1,22 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Hantera inrapporterade händelser och anmälningar,,,,
+Process:,Hantera synpunkter och klagomål från myndigheter,,,,
+Processnummer:,6.1.2.7,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Registrera,Begäran,Ciceron,Digital,Bevaras,
+Besvara,Yttrande,Ciceron,Digital,Bevaras,
+Korrespondens,Korrespondens,Ciceron,Digital,Se anmärkning,"Korrespondens av betydelse
+diarieförs och bevaras.
+Korrespondens av ringa eller
+tillfällig betydelse gallras vid
+inaktualitet"
+Hantera anmälan,Polisanmälan,Ciceron,Digital,Bevaras,"När förvaltningen upprättar
+anmälan om brott mot
+verksamheten. För
+polisanmälningar rörande
+personal, se informations-
+hanteringsplanen för
+kommungemensamma
+stödprocesser, processnummer
+2.3.8.2."

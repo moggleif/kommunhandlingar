@@ -1,0 +1,49 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Verksamhetsnära organisering,,,,
+Process:,Hantera digitala lås,,,,
+Processnummer:,6.0.3.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Hantera avtal,"Godkännande att Kungsbacka
+kommun monterar upphandlat
+nyckelsystem hos fastighetsägare för
+hyres- och bostadsrätt",Samarbetsrum,Digitalt,"2 år efter
+nedmontering","Förvaras i samarbetsrum för
+lås och larm"
+Beställa intern,"Beställningar för installation eller
+avslut av digitala lås hos
+omsorgstagare/patient",Combine,Digital,Se anmärkning,"Kan gallras efter att
+meddelandet med
+beställningen från
+myndighet, kvarboende
+eller hemsjukvården har
+skickats via Combine till
+Verksamhetssupport och
+beställningen har utförts."
+,"Registrera och avregistrera
+läkemedelsskåp",Artvise,Digital,14 månader,"Registrera och avregistrera
+läkemedelsskåp"
+,"Serviceärenden eller felanmälan från
+verksamheten",Outlook Artivse,Digital,14 månader,"Registreras utan
+personuppgifter, endast
+låsnummer"
+,Serviceärenden från fastighetsägare,Outlook,Digital,14 månader,
+Beställa externt,"Beställning av lås och
+läkemedelsskåp",Proceedo,Digital,7 år,
+,"Beställning av värdeskåp och
+läkemedelsskåp",Proceedo,Digital,7 år,
+,"Arbetsorder till Swedlock support
+om servicetekniker inte kan montera
+digitalt lås eller
+reklamationsärenden.",Outlook,Digital,14 månader,
+Hantera register,"Lista över adress och
+lägenhetsnummer där digitalt lås
+monterats i äldrelägenhet",Närarkiv Samarbetsrum,Papper Digital,Vid inaktualitet,"Förvaras i samarbetsrum för lås
+och larm"
+Beställa,"Registrera och avregistrera
+läkemedelsskåp",Artvise,Digital,14 månader,
+,"Beställning av värdeskåp
+och läkemedelsskåp",Proceedo,Digital,7 år,
+Dokumentera,"Lista över inkomna
+installationsärenden",Samarbetsrum,Digitalt,1 vecka,"Tillfälligt arbetssätt i avvaktan
+på ärendehanteringssystem"

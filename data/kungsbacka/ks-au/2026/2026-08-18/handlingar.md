@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.a07712b19fe9b41f3168609/17867108310
 sha256: 76f83fdf29bb681e00cf729617280e28ca8648a9e1fa59fe93f3c610bc51785c
 bytes: 11437021
 sidor: 80
-hamtad: 2026-10-25T09:48:19+00:00
-konverterad: 2026-10-25T09:50:17+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:26:27+00:00
+konverterad: 2026-11-10T00:28:37+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok]
@@ -434,7 +434,7 @@ er Kungsbacka ger sitt godkännande gällande överlåtelsen av fastigheten Kung
 KORSEINENON Fors 1:230 samt Fors 1:231 som detta köpekontrakt behandlar.
 
 Köpet ska återgå om denna förutsättning inte uppfyllts senast på tillträdesdagen.
-Om köper årergår ska betald handpenning återbetalas till köparen utan
+Om köper återgår ska betald handpenning återbetalas till köparen utan
 skadeståndsskyldighet för någon av parterna.
 
 §17 Friskrivning Köparen har uppmanats att undersöka fastigheten. Köparen godtar fastighetens
@@ -745,7 +745,7 @@ E-post: mattias.carlssongfastighetsbyran.se
 Extra kontaktperson: Oscar Ardfelt
 
 Ovanstående uppgifter är lämnade av säljaren och är endast kontrollerade av fastighetsmäklaren om
-omständigheterna krävt det. Köparen har före köpet uppmanats att noggrant undersöka fastigheten. Köparen
+omständigheterna krävt det. Köparen har före köpet oppmanats att noggrant undersöka fastigheten. Köparen
 uppmanas även att särskilt ta del av Fastighetsbyråns köparinformation,
 
 31250 MC
@@ -771,12 +771,12 @@ Fastighotsmöälklarinspektionen.
 
 Uppdrajgsavtalet
 Ear förmedlingsuppdrag avseende en bostad ska enligt FM vu skrifdigt. I uppdragsavtalet anges förursävninganna för
-uppdraget samt uppdragsgivarens och mäklarens tespektive ränigheter och skybkligherer vid fiemedlingen,
+uppdraget samt uppdragsgivarens och mäklarens tespektive räntigheter och skybkligherer vid fölemedlingen,
 
 Mallarens ersättalng
 
 Uppdragsgivaren och miklsren får komma överens om vad som ska gälla i fråga om mäklarcas ersännlag, Der fans inga
-fasoställda taxne eller liknande. Mäklarens ersäctning för arbetet utgår normalt som provision, vilken oftast Isesäms till on viss
+fasosnällda taxne eller knamde. Mäklarens ersäctning för arbetet utgår normalt som provision, vilken oftast Isesäms till en viss
 procent av köpeskillingen. Utöver avtalad provision har mäklaren inte rätt ace 1a ut särskild ersäremniag för sina tjänster, om inte
 särskild överenskommelse träffats om just detra.
 
@@ -806,7 +806,7 @@ Säljarens upplysmingsskyldigher
 
 Säljaren har ingen generell upplysningsplikt om allt denoc känner till. Utgångspunkten är iställer act säljaren Inte kan givas
 ansvarig för fel som är upptäckbara för köparen, Trots detta har säljaren I vissa situationer ändå eo ansvar a upplysa om sådana
-fel säljaren känner till och borde insc/Förstå är av betydelse. En förutsättning för sådant ansvar är dock ar der är ev väsenrlige
+fel säljaren känner till och borde insc/Förstå är av betydelse. En förutsättning för sådant ansvar är dock ar der är ev väsenilige
 fel eller avvikelse, dvs. något som köparen borde ha kunnat säkra med at bli upplyst om, sina ar säljarens undestirenhetr arr
 upplysa köparen om felet eller avvikelsen kan antas ha inverkar på köper,
 
@@ -831,7 +831,7 @@ nindersika samt förekamst av radon i vatten, mark och byggnad.
 
 Budgivning
 
-Hud är inte bindande för budpgivaren och säljaren är inte tvungen arr sälja till den som lagr det högsta budet, Ince heller måste
+Hud är inte bindande för budgivaren och säljaren är inte tvungen arr sälja till den som lagr det bigsta budet, Ince heller måste
 säljaren förklara sitt val av köpare. Enligt fastighetsmäklarlagen ska en mäklare uppsäcta en budgivningslista ner alla od som
 lämnats med kontaktupppifter ill budgivarns, Petra för act kopna säkerställa act budpivningen går till på cr kooreka sl,
 Observera att denna budgivningstista endast lämnas ut till säljaren och köparen med hiinsyn till personmuppgifeenna däri.
@@ -849,24 +849,24 @@ För art ec köp av en fastighet ska bil gilige krävs act vissa formkrav enligt
 köpet blir gällande först när samtliga säljare och köpare undertecknar köpekantrakuer, Fx manligt eller skriftliga löfre acn sälja,
 eller anbud att köpa, är alltså inte bindande. När formkraven är uppfyllda går det ime att enskligt ångra” köper.
 
-Särskilda villbor I köpekomrakeer
+Särskilda villbor I köpekomtrakeer
 
 Der finns vissa valbara villkor I köpekontraktet som kan ge parterna, eller en av dem, sär avt frånträda köper. Vanligt är au
 käparen vill kunna frånträda köpet om hen ime beviljas län för att kunna finansiera köper. Andra villkor som kan förekomma är
 att köparen får Ika en sakkunnig person besiktiga bostaden innan köpet Islir bindande, Säljarens villkor kan handla om avt hen
 vill kunna köpa en annan bostad, 1essa så kallade svävarvillkor tr alltid tidsbegränsade och ambirionen är avt de normal ska
-upplyira att pilla efter selativt koct tik. Frågan om denna typ av villkor ska förekonsma eller inte är en del av förhandlingen
+upplyira att pilla efter selativt koct (kl. Frågan om denna typ av villkor ska förekonsma eller inte är en del av förhandlingen
 mellan säljaren och köparen.
 
 Vad Ingår I köpet?
 
 I jordabalken definieras vad som är fast egendom (fastighet) och vad sne hör till en fastipher (fassighers- och
-byggnadstilllbehörk. Det som inte är fast egendom eller fastighets- och bygpgnadstillbehör är lils egendom och ingår normalt inte
+bypggnadstilllbehörk. Det som inte är fast egendom eller fastighets- och bygpgnadstillbehör är lils egendom och ingår normalt inte
 vid köp av en fastighet.
 
 Fastighetstillbehör är t cx byggnaden, ledningar, stängsel, Hagpstång, oljetank etc. och byggnadstillbehör är t ex badkar,
 duschkabin, vitvaror, ote. Finns dessa saker vid kontraktsskrivningen ingår de i köpet, om inget annat avralats mellan partcena.
-Det är dock fullt SS Fr säljaren art undanta tillbehör från köpet om man har talat om vad som ska undantas i god td innan
+Det är dock fullt SS Fr säljaren art undanta tillbehör från köpet om man har talat om vad som ska undantas i god tid innan
 köpekontrakter skrivs. Ar det osäkert om något ska betraktas som tillbehör eller lös egendom är det bra om parterna klargör
 deta innan köpekontrakoet skrivs.
 
@@ -899,14 +899,14 @@ marknadsvärde om felet hade varit känt innan köpet. Uppfylls dessa två föru
 säljaren.
 
 Det är alltså till stör del köparens undersökningsplikt som avgör om något kan anses som ett dolt fel. Köparens
-undersökningsplikt utökas om ben ser tecken på t ex fel på byggnaden eller om fel kan nvisstänkas p p a skicker, Säljuens
+undersökningsplikt utökas om ben ser tecken på t ex fel på byggnaden eller om fel kan nvisstänkas p p a skicker, Säljauens
 
 uppgifter påverkar också omfattningen av köparens undersökningsplikt. Om säljaren tex upplyser köparen om att der gill och
 från varit fuke I källaren kan der uvöka köparens undersökningsplike.
 
 Reklansation till säljaren
 
-Säljaren ansvarar för dolda fel i on såld fastighet i tio år efter köparens tillträde. Om köparen vill åberopa att fastigpheren är
+Säljaren ansvarar för dolda fel i on såld fastighet i tio år efter köparens tillträde. Om köparen vill Iberopa att fastigheren är
 fetakrig ska köparen reklamera (framställa krav) till säljaren. Reklamationen måste ske inom skilig tid efter det att köparen
 märkt, eller borde ha märkt, felet. Om köparen reklamerar för sent förloras i normalfallet rätten att kräva kompensation av
 
@@ -916,7 +916,7 @@ Om säljaren köpe Fastighetsbyråns Besiktigadpaket med en dolda fel-försäkri
 
 Även om det är säljaren som är försäkringstagare har även köparen av byggnaden möjlighet att anmäla dokla fel-krav direkt till
 Anticimex Försäkringar. Om du som köpare upptäckt ett fel som du anser utgör ett så kallat dolt fel är det viktigt att du
-anmäler dema så snart som möjligt till säljaren eller Anticimex. Du har då gjort en reklamarion av felet till säljaren. För av
+anmäler dena så snart som möjligt till säljaren eller Anticimex. Du har då gjort en reklamarion av felet till säljaren. För av
 Anticimex ska kunna göra en korrekt bedömning av din krav måste du beskriva felet så utförligt som nsöjllge I din
 skadeanmälan, Om du kan så ange även ditt ersäeningskrav i kronor. Har du som köpare anmält cet fel direkt till Anticinrex och
 säljaren köpt Fastighetsbyråns besikrigadpaker, anses anmäla vara ev meddelande om fel (reklamation) till säljaren och
@@ -932,7 +932,7 @@ dn änskar cn bocndekostnadskalkyl.
 
 Reklamation till mäklaren
 
-Ansor säljaren eller köparen att mäklaren har begått ott fel som orsakat en ekopomisk skada ska reklamationen ske inom skållg
+Ansor säljaren eller köparen att mäklaren har begått ott fel som orsakat en ekonomisk skada ska reklamationen ske inom skållg
 tid efter det att säljaren eller köparen insett, eller borde ha insett, de omsrändigheter som reklamarionen grundar sig på, Krav
 möt mäklare preskriberas normalt efter tiv år. Reklamation och underrättelse om skadeståndskrav kan överlämnas, muntligen
 eller skriftligen, till mäktaren eller till kontoret vars adress finns angiven i uppdragsavtalet eller köpekonerakter.
@@ -969,7 +969,7 @@ Denna rätt förutsätter dock att uppdragsgivaren uttryckligen begärt arc tjä
 Tilläggstjänsver
 
 Som kund hos Fastighetsbyrån erbjuds du skräddarsydda lösningar med produkter och tjänster från våra samarhetspariners,
-Miäklaren kan erhålla ersättning vid förmedling av tilläggstjänster. För 1. ex. cn förmedlad bostadsannons på hemactse kan en
+Miäklaren kan erhålla ersättning vid förmedling av tilliggstjänster. För 1. ex. cn förmedlad bostadsannons på hemactse kan en
 enskild mäklare erhålls upp till mellan 30-50 96 av priset för den köpta tjänsten, exklusive moms, För en förmedltad
 encergideklarasion utförd av Anticinsex eller OBM kan en coskild mäklare erhålla 320 ke Du kan lisa mer om våra tjänsser och
 
@@ -1256,10 +1256,7 @@ avses är de som tillkommer genom detaljplanen för Skällared 3:55 m fl.
 Tabell 3 Framräknade trafikflöden för bostäderna nom planen
 
 Trafikalstringsverktyget | Resvaneundersökningen
-(RVU)
-
 Antal bilresor per 241 277
-
 dvan från bostäderna
 
 Svar på domstolens frågor om trafik
@@ -1356,7 +1353,6 @@ Figur 1. Flygfotografi från 2024-05-18 som visar placering av allmänna parkeri
 
 ite | i
 | | N
-4 Jå |
 | p
 
 Inom den så kallade
@@ -1747,8 +1743,6 @@ Bilaga 2 -     , beslut om förlängning av tidsbegränsat lov, BNAU 2022-11-03,
 
 <!-- sida 39 -->
 
-aniFonn KUISOH v 1.5, 1050-23-08
-
 43993 Onsala
 
 Beslut om bygglov för Datum: 2018-05-11
@@ -1768,6 +1762,7 @@ Beslut
 
 Byggnadsnämnden beviljar bygglov för tidsbegränsat bygglov i fem år för ändrad
 användning från handel till frukostservering/café och uteservering. Beskedet är
+
 bindande för nämnden i två år.
 
 Lovet upphör att gälla om åtgärden inte har påbörjats inom två år och avslutats inom
@@ -1795,12 +1790,16 @@ Innan byggnadsverket får tas i bruk ska en begäran om slutbesked inlämnas, d�
 byggherren intygar att den utförda åtgärden överensstämmer med bygglovet och
 gällande föreskrifter,
 
-Sokaemn Skaltyvorket Lanrfrmaätedet Kartavdotningen Teknik
+; Koplar
+2 -05-14
 
-; Kopläc
-12-05-14 Lo HH | |
+Skaltyvorket
 
-Avgifter Lov Acrrälin Pilaningitt Mätringsavgift Övrigt
+Kartavderingen Teknik
+
+Avgifter
+
+aniFonn KUISOH v 1.5, 1050-23-08
 
 <!-- sida 40 -->
 
@@ -1914,7 +1913,6 @@ restaurang/café och turistbyrå
 Dnr BN 2022-004028
 
 Förslag
-
 Byggnadsnämndens arbetsutskott beviljar ansökan om förlängning av tidsbegränsat bygglov om
 fem år för verksamhet i form av restaurang, café & turistbyrå.
 
@@ -1957,7 +1955,7 @@ bygglov om fem år.
 
 Justerare Expedierat/bestyrkt
 
-Bygglov — BNAU § 502 — 2022-11-03
+Bygglov — BNAU \$ 502 — 2022-11-03
 
 <!-- sida 43 -->
 
@@ -2217,47 +2215,59 @@ VÄNERSBORGS  TINGSRÄTT     FÖRELÄGGANDE                Aktbilaga
 Mark- och miljödomstolen   2026-05-27                  Mål nr P 1316-26
 R53
 
-781967
-
-dI.koD
 Kungsbacka kommun
+
 Dnr:KS-2025-00320
+
 Parter:       m.fl. ./. Kungsbacka kommun
 Målet gäller: överklagande av kommunens beslut 2025-12-11, dnr KS-2025-00320 om
+
 antagande av detaljplan för bostäder,verksamheter och restaurang inom Skällared 3:55 m.fl. i
 Gottskär i Kungsbacka kommun
+
 Lämna ett yttrande till domstolen
 Kungsbacka kommun ska lämna ett skriftligt yttrande över det som står i bifogade
 handlingar, och då särskilt yttra sig över vad som anförs om trafiksituationen och parkering.
+
 Beträffande trafik saknas i planhandlingarna en redovisning av det totala trafikflödet som är
 att vänta på Gottskärsvägen på sträckan Dragsvägen–Hamnplan efter ett plangenomförande.
 Kommunens yttrande bör innehålla uppgift härom, såväl för ett normaldygn som för ett
 maxdygn.
+
 I fråga om parkering noterar domstolen att det i planbeskrivningen förekommer olika
 uppgifter om antalet allmänna parkeringsplatser på Hamnplan. På sidan 54 anges ”drygt 90
 platser” och på sidan 75 ”cirka 70 allmänna parkeringar”. Domstolen kan inte heller av
 planbeskrivningen eller av övriga planhandlingar utläsa vilka och hur många av de idag
 tillgängliga platserna som kommer beröras vid ett plangenomförande. Kommunens yttrande
 bör innehålla ett förtydligande i dessa delar.
+
 Domstolen måste ha kommunens yttrande inom 21 dagar efter det att ni fått del av detta
 föreläggande. Om kommunen inte yttrar er kan målet ändå komma att avgöras.
+
 När ni skickar in yttrandet
 Uppge ert namn, målnummer P 1316-26 och det telefonnummer som ni kan nås på. Lämna
 också e-postadress, så att vi framöver kan skicka handlingar i målet via e-post.
 Skicka gärna in handlingar till domstolen digitalt, helst i PDF-format. De behöver då inte
+
 lämnas på annat sätt. På www.domstol.se/skickadigitalt finns information om hur ni kan
 lämna in handlingar digitalt.
+
 Har ni frågor?
 På webbplatsen finns information om domstolen och om handläggningen. Kontakta oss
 gärna vid frågor – ni når oss via e-post (e-post borttagen) eller per telefon 0521-270
 305\.
+
 Sida 1 (av 2)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 769187
 
 <!-- sida 49 -->
 
@@ -2587,7 +2597,7 @@ Parkeringssituationen i Gottskär är redan idag ansträngd, särskilt under som
 Beslutet innebär att cirka två tredjedelar av parkeringsplatserna på Hamnplan
 försvinner, motsvarande omkring 36 platser.
 
-Samtidigt tillkommer cirka 70 nya bostäder med betydande parkenngsbehov.,
+Samtidigt tillkommer cirka 70 nya bostäder med betydande paårkenngsbehov,
 
 Ytterligare försvinner platser på Klaraplan i samband med flytt av busshållplatsen
 Gottskär. Sammantaget saknas en långsiktigt hållbar lösning för boende, besökare,
@@ -2975,8 +2985,6 @@ med tanke på att de nya byggnaderna skall stå i över 200 år!
 Kommunstyrelsens förvaltning
 KUNGSBACKA KOMM
 
-un sent f 2026 0 I
-
 Onsala den 8 januari 2026
 
 VÄNERSBORGS TINGSRÄTT
@@ -3216,12 +3224,9 @@ Med vänlig hälsning
 
 <!-- sida 76 -->
 
-ön
 frit, VÄNERSBORGS TINGSRÄTT
 a t ” - Mark- och miljödomstolen
 PARTER
-
-Dok.Id 766557
 
 Klagande
 
@@ -3257,7 +3262,6 @@ BESLUT
 
 Mark- och miljödomstolen avvisar överklagandet från NA
 
-Avgörandet är elektroniskt undertecknat ]
 Besöksadress Öppettider Postadress E-post
 Hamngatan 6 måndag-fredag Box 1070 mmd.vanersborg(Qdom.se
 Telefon 08:00—-16:00 462 28 Vänersborg Webbplats
@@ -3265,6 +3269,8 @@ Telefon 08:00—-16:00 462 28 Vänersborg Webbplats
 0521-27 02 00
 
 www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 766557
 
 <!-- sida 77 -->
 

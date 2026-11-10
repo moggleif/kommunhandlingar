@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6b3c9de619a7bbdb141125a0/1763120304
 sha256: edc124a4b52e0e46aa6a2490574edb9d99d9edd6aa200e3a6d3e47c7da5861fa
 bytes: 4166080
 sidor: 31
-hamtad: 2026-10-25T08:39:57+00:00
-konverterad: 2026-10-25T08:40:33+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+hamtad: 2026-11-09T23:14:49+00:00
+konverterad: 2026-11-09T23:15:25+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr]
 tal_obekraftade: [6, 7, 9, 12, 13, 16, 21, 24, 27, 28, 29, 31]
 figurer: [7, 8, 10, 11, 13, 14, 15, 16]
 tolkade: []
@@ -177,6 +177,19 @@ Onsala, Kungsbacka kommun.
 Ortofoto. Område som ansökan avser inom fastigheten Iserås 22:1
 
 <!-- sida 7 -->
+
+v
+ANG Bagorgt JE. 1
+
+Särdsjöbacka Aauroservat IN
+AM
+
+nipeat
+
+ä: 1:150 000 (vid A4 stående)
+17,5 km
+
+Karta över översiktsplanen i Kungsbacka. Läget för begäran om planbesked för Iserås 22:1 i Onsala.
 
 <!-- sida 8 -->
 

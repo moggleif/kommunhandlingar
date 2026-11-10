@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.39cb05a61a0d6c86ab85c076/1790585265
 sha256: cd602200bbc6623539e9442f9399da8d9893f164e81dac92606f398cb9693366
 bytes: 68667157
 sidor: 348
-hamtad: 2026-10-25T09:52:16+00:00
-konverterad: 2026-10-25T10:01:17+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:30:42+00:00
+konverterad: 2026-11-10T00:39:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr]
@@ -1975,7 +1975,6 @@ Budad tömning inom 24 timmar,
 även kväll och helg SR 000 0
 Tidsbestämd tömning under vald
 
-SS lö
 timmar i förväg
 
 Akut tömning inom 4 timmar 10 000 11 000 350
@@ -3194,76 +3193,6 @@ Höjning 11,2 % per år men olika antagande på räntesatser från 2028.
 
 Fall 1b Räntan ökar 1% mer än SKR:s räntebana from 2028
 
-2
-F
-Å
-a
-r
-l l 1 a
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-b
-0 2
-0 2
-0 2
-0 3
-0 3
-0 3
-0 3
-0 3
-0 3
-0 3
-a
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-l a
-H
-n s ö v e r 1
-ö jn in g %
-1 1 ,
-1 1 ,
-1 1 ,
-1 1 ,
-1 1 ,
-1 1 ,
-1 1 ,
-1 1 ,
-1 1 ,
-1 1 ,
-0
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-å r ö v e r s k o t t i n t ä k t
-M a x U n d e r s k o t t m
-3 3 0 0
-k
-0
-r
-0
 Fall 1b balans uppnås ej ränta +1%
 År     Höjning % Max Underskott mkr
 
@@ -3275,10 +3204,105 @@ Fall 1b balans uppnås ej ränta +1%
 2031   11,2
 2032   11,2
 2033   11,2
+
 2034   11,2        616 000
 2035   11,2
 2036   11,2
 ```
+
+2
+
+r
+
+0
+
+k
+
+0
+
+t
+
+0
+
+k t m
+
+ä t
+
+0
+
+t o
+
+33
+
+n k
+
+i s
+
+r
+
+t
+
+t e
+
+o d
+
+k n
+
+s
+
+r U
+
+e x
+
+v a
+
+ö
+
+r M
+
+å
+
+0
+
+1 % ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2
+
+r 1 1 1 1 1 1 1 1 1 1
+
+e g 1 1 1 1 1 1 1 1 1 1
+
+v in
+
+ö n
+
+j
+
+s ö
+
+n
+
+la H
+
+a
+
+7 8 9 0 1 2 3 4 5 6
+
+b
+
+2 2 2 3 3 3 3 3 3 3
+
+a
+
+0 0 0 0 0 0 0 0 0 0
+
+1
+
+2 2 2 2 2 2 2 2 2 2
+
+ll
+
+r
+
+Fa Å
 
 <!-- sida 77 -->
 
@@ -3290,83 +3314,12 @@ Fall 2
 Höjning 10%
 
 Balans uppnås ej på 10 år
-
-3
-F
-Å
-a
-r
-l l 1 c
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-b
-0 2
-0 2
-0 2
-0 3
-0 3
-0 3
-0 3
-0 3
-0 3
-0 3
-a
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-l a
-H
-n s u p p
-ö jn in g
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-n å
-%
-1 , 2
-1 , 2
-1 , 2
-1 , 2
-1 , 2
-1 , 2
-1 , 2
-1 , 2
-1 , 2
-1 , 2
-s å r 2 0 3 4 r ä n t a - 0 , 5 %
-M a x U n d e r s k o t t m
-2 1 2 0
-k
-0
-r
-0
 Fall 2 balans uppnås ej 10år
 År     Höjning % Max Underskott mkr
 
 ```osaker-tabell
 2027     10
+
 2028     10
 2029     10
 2030     10
@@ -3377,6 +3330,100 @@ Fall 2 balans uppnås ej 10år
 2035     10
 2036     10
 ```
+
+3
+
+r
+
+k
+
+00
+
+% m
+
+0
+
+,5 tt
+
+2
+
+-0 o
+
+21
+
+k
+
+a s
+
+t r
+
+n e
+
+ä d
+
+r
+
+n
+
+4
+
+U
+
+3 x
+
+0
+
+a
+
+2
+
+r M
+
+å
+
+s
+
+å
+
+,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2 ,2
+
+n % 1 1 1 1 1 1 1 1 1 1
+
+p g 1 1 1 1 1 1 1 1 1 1
+
+p in
+
+u n
+
+j
+
+s ö
+
+n
+
+la H
+
+a
+
+7 8 9 0 1 2 3 4 5 6
+
+b
+
+2 2 2 3 3 3 3 3 3 3
+
+c
+
+0 0 0 0 0 0 0 0 0 0
+
+1
+
+2 2 2 2 2 2 2 2 2 2
+
+ll
+
+r
+
+Fa Å
 
 <!-- sida 78 -->
 
@@ -3398,152 +3445,166 @@ korrigeras genom att avgifterna sänks kommande år om man inte vill fortsätta 
 bygga upp en ”positiv fond”.
 
 4
-F
-Å
-F
-Å
-a
-r
-a
-r
-l l 3
-l l 4
-b
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-b
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-2 0
-a
-2
-2
-2
-3
-3
-3
-3
-3
-3
-3
-a
-2
-2
-2
-3
-3
-3
-3
-3
-3
-3
-l a
-7
-8
-9
+
+00
+
+00
+
 0
-1
-2
-3
-4
-5
-6
-l a
-7
-8
-9
+
 0
-1
-2
-3
-4
-5
-6
-n s
-H
-n s
-H
-ö v
-ö jn
-ö v
-ö jn
-e r 1
-in g
-e r 1
-in g
-0
-1
-1
-1
-1
-1
-0
-1
-1
-1
-1
-1
-1
-1
-1
-å
-8
-6
-5
-0
-0
-8
-7
-3
-3
-0
-å
-2
-2
-2
-2
-2
-2
-2
-2
-3
-0
-r
-r
-M a x U n d e s k o
-1
-ö v e r s k o t t i n t ä
-M a x U n d e s k o
-2
-t t
-1
-k
-t t
-7
-2
+
 t
+
+2
+
+t
+
 7
+
+t
+
+1
+
+k tt
+
+7
+
+o
+
+1
+
+ä o
+
+2
+
+k
+
+t k
+
+n
+
+s
+
+i s
+
+e
+
+e
+
+t
+
+d
+
+t d
+
+n
+
+o n
+
+U
+
+k U
+
+s
+
+x
+
+r x
+
+a
+
+e a
+
+M
+
+v
+
+ö M
+
+r
+
+r
+
+å
+
+8 6 5 0 0 8 7 3 3 0
+
+å
+
+2 2 2 2 2 2 2 2 3 0
+
 0
+
+1 1 1 1 1
+
 0
-0
-0
-0
-0
+
+1 1 1 1 1 1 1 1
+
+1
+
+1
+
+r g
+
+r g
+
+e in
+
+e in
+
+v jn
+
+v jn
+
+ö ö
+
+ö ö
+
+ns H
+
+ns H
+
+la
+
+7 8 9 0 1 2 3 4 5 6
+
+la
+
+7 8 9 0 1 2 3 4 5 6
+
+a
+
+2 2 2 3 3 3 3 3 3 3
+
+a
+
+2 2 2 3 3 3 3 3 3 3
+
+b
+
+20 20 20 20 20 20 20 20 20 20
+
+b
+
+20 20 20 20 20 20 20 20 20 20
+
+l 3
+
+4
+
+l
+
+ll
+
+r
+
+r
+
+Fa Å
+
+Fa Å
 
 <!-- sida 79 -->
 
@@ -3592,7 +3653,8 @@ Balans år 3
 2029 13
 2030
 2031
-2032
+2032 —
+
 2033
 2034
 2035
@@ -3980,7 +4042,6 @@ Servisavgift 5.1 a) 100920 6.1a) | 10090
 Förbindelsepunktsavgift 5.1 b) 10090 6.1b) | 10090
 Tomtyteavgift 5.1 c) 100290 6.1c) | 7090
 Bostadsenhetsavgift 5.1 d) 04 -
-a [0 810) | 1004
 
 Avgift enligt 5.1 e) och 6.1 d) tas inte ut om avgift för Df enligt 5.1 a) och b) samt 6.1 a)
 och b) tas ut. I det fall avgift enligt 5.1 e) eller 6.1 d) tas ut reduceras avgift enligt 5.1 a)
@@ -4542,7 +4603,6 @@ C 28. & BH HH 1 5 &
 \- e
 I KOMMUNIKATIONS- [at
 Aktivt APERATÖR <
-| ära
 2 SAR
 Passivt NÄTÄGARE
 
@@ -4611,7 +4671,7 @@ Monofiber
 
 12 mån | 24 mån | >24 mån
 
-Månadsavgift upp till 50Om 1 800 kr | 1650 kr | Offert
+Månadsavgift upp till 500m 1 800 kr | 1650 kr | Offert
 
 Månadsavgift, påbörjade 480 kr 440 kr Offert
 ytterligare 500m
@@ -7490,15 +7550,12 @@ ch FR 30 17 eller 18 & miljöprövningsförordningen är tillsynstiden
 15.190.04 30 timmar för annan verksamhet som inte omfattas av
 någon av 1-3. IUV-tillägg tillämpas.
 För en verksamhet som är anmälningspliktig enligt 5 kap.
-15.200 9 SSE RE É 2 fs Å ;
 19 8 miljöprövningsförordningen är tillsynstiden 9 timmar.
 15.210 30 För en verksamhet som är tillståndspliktig enligt 5 kap. 20
 : 8 miljöprövningsförordningen är tillsynstiden 30 timmar.
 För en verksamhet som är anmälningspliktig enligt 5 kap.
-15.220 6 KE VGER SA RE A ;
 21 8 miljöprövningsförordningen är tillsynstiden 6 timmar.
 För en verksamhet som är tillståndspliktig enligt 5 kap. 22
-15.230 64 TS RR é SN 5 5
 & miljöprövningsförordningen är tillsynstiden 64 timmar.
 15.240 9 För en verksamhet som är anmälningspliktig enligt 5 kap.
 ” 23 8 miljöprövningsförordningen är tillsynstiden 9 timmar.
@@ -8806,7 +8863,7 @@ Verksamhetsgrupp Järnvägsutrustning och flygplan
 18
 
 För en verksamhet som är anmälningspliktig enligt 18
-kap. 5 8 miljöprövningsförordningen är tillsynstiden 18
+kap. 5 & miljöprövningsförordningen är tillsynstiden 18
 timmar.
 
 Verksamhetsgrupp Maskinell bearbetning
@@ -10766,8 +10823,6 @@ kap miljöbalken.
 
 RSRSAS MRS SENS ENERe Timavgift
 I har förocksajttö
-
-ber é =
 RN NEN
 illstånd-tillinrä io-ac
 
@@ -10789,17 +10844,17 @@ människors hälsa.
 ene Timavgift
 j har föraskivitts
 
-dd 5 a
 attHör on gorholortför
+
 E fögd sndand
 
-frombi
 EV-TIyER Näggning för
+
 SI undva ttontäl stock denna
 kap-miljöbalken- jö -
+
 SA RREENEnaeneeneee Timavgift
 Sp
-läggning fö
 
 RAR Assn en ee -
 
@@ -10865,7 +10920,7 @@ ae
 Zz > |
 ; se ap z SM Se 5 a = OHitor
 FA AA ARA RAA RAS RASEN
-tagits-urbruk-
+tagits ur bruk-
 
 26 Utförande av övrng tillsyn Timavgift Övrig tillsyn av hantering av Timavgift
 avseende hantering av brandfarliga vätskor och
@@ -10961,7 +11016,6 @@ Timavgift
 RA RAA
 Övrig tillsyn av PCB-varor
 och PCB-produkter sem-nte
-fö
 Hloynopkqitaxoblaga + + -
 
 Timavgift
@@ -10998,7 +11052,6 @@ Taxa för prövning och tillsyn
 ÖVRIGT AVSEENDE
 
 KEMISKA PRODUKTER
-
 40 Utförande av tillsyn Timavgift Primärleverantörers Timavgift
 avseende hantering av kemiska
 primärleverantörers och produkter, biotekniska
@@ -11009,7 +11062,6 @@ produkter, biotekniska EGdeEEsESeeeeeneN ee
 organismer och varor som manen
 inte innebär utsläppande på
 marknaden.
-
 41 Utförande av tillsyn Timavgift Hantering av kemiska Timavgift
 avseende hantering av produkter, biotekniska
 kemiska produkter, organismer och varor i
@@ -11025,7 +11077,6 @@ biotekniska organismer och
 varor som
 Kemikalieinspektionen
 ansvarar för.
-
 42 Utförande av kontroll enligt Timavgift Ovrigtillsyn-av kemiska Timavgift
 förordning (EU) 2019/1020, produkter, som inte omfattas
 eller utförande av övrig av fast avgift för tillsyn enligt
@@ -11033,31 +11084,24 @@ tillsyn avseende kemiska taxebilaga 2.
 produkter som inte omfattas
 av fast avgift för tillsyn enligt
 Taxebilaga 2.
-
 AVGIFT FOR VISS ÖVRIG VERKSAMHET
 ÄRENDEN OM ALLMÄNNA
 HÄNSYNSREGLER
-
 ENLIGT 2 KAP
-
 MILJÖBALKEN
-
 43 Utförande av tillsyn Timavgift
 avseende miljöbalkens
 hänsynsregler och att dessa
 tillämpas i verksamheten
 eller vid vidtagande av en
 åtgärd.
-
 EEE Timavgift
 samt användningav ällor-i
 förnyelsebara-onorgikällor +
 rd bogar ka sa färd-som
-forttsyponiattaxoblaga n + N =
 (teamen Timavgift
 vidtagande-av-ålgärd-som
 into ae SG fast avgift+
-lage ist; ord
 på - å ,
 3-minska-de-negativa
 RR AA Ae AS AA
@@ -11657,51 +11701,30 @@ Taxa för prövning och tillsyn
 <!-- sida 209 -->
 
 1\. För en verksamhet som är tillståndspliktig enligt 4 kap.
-
 11.20.01 B 13 9 & miljöprövningsförordningen är tillsynstiden 13 timmar
 för utvinning i vattenområde.
 2\. För en verksamhet som är tillståndspliktig enligt 4 kap.
-
 11.20.02 B 6 9 8 miljöprövningsförordningen är tillsynstiden 6 timmar
 för utvinning på land.
-
 11.30 C 9 För en verksamhet som är anmälningspliktig enligt 4 kap.
-
 ” 10 8 miljöprövningsförordningen är tillsynstiden 9 timmar.
-
 Verksamhetsgrupp Malm och mineral
-
 1340.04 A 90 HH SE É : d mig ä dn mr i ngr nd Spiktg i pd pig! t ap
-
 SS A ec
-
 4310-03 A 64
-
 230001 AA 22
-
 13-10-05 A 184
-
 Se Ä& ec
-
-em A 1284
-
 13.30 B 90 För en verksamhet som är tillståndspliktig enligt 4 kap. 13
-
 ” & miljöprövningsförordningen är tillsynstiden 90 timmar.
-
 13-40-01 A 90
-
 13-40-02 Ä et
-
 13-40-03 A 227
-
 1340-04 A 184
 1\. För en verksamhet som är tillståndspliktig enligt 4 kap.
-
 13.50.01 B 227 15 8 miljöprövningsförordningen är tillsynstiden 227
 timmar om verksamheten avser uran- eller toriummalm.
 2\. För en verksamhet som är tillståndspliktig enligt 4 kap.
-
 13.50.02 B 64 15 8 miljöprövningsförordningen är tillsynstiden 64 timmar
 om verksamheten inte omfattas av 1.
 
@@ -11755,7 +11778,7 @@ För en verksamhet som är tillståndspliktig enligt 5 kap. 2
 För en verksamhet som är anmälningspliktig enligt 5 kap.
 3 & miljöprövningsförordningen är tillsynstiden 9 timmar.
 
-c bra BRYR RAIS HER ONA
+äc bra BRYR RAIS HER ONA
 
 Verksamhetsgqrupp Livsmedel och foder av animaliska
 råvaror
@@ -12042,7 +12065,6 @@ mikroorganismer.
 15.310 6 För en verksamhet som är anmälningspliktig enligt 5 kap.
 ” 28 8 miljöprövningsförordningen är tillsynstiden 6 timmar.
 Ver het Eod imalis | tabilisl
-15-350--01 90
 echt5-370
 \-
 Sehtee
@@ -12191,46 +12213,24 @@ Taxa för prövning och tillsyn 33 (69)
 
 <!-- sida 215 -->
 
-21-10-02 A 227
-
-210-03 A 484
-
-2110-04 A 137
-
-00-03 A +=
-
-SA A 90
-
-00 A oc
-
-21-30-02 A 47
 För en verksamhet som är tillståndspliktig enligt 9 kap. 3
-
-21.40 B 47 ba RR ; fr ä ;
 8 miljöprövningsförordningen är tillsynstiden 47 timmar.
 VERKSAMHETSGRUPP FOTOGRAFISK OCH
 GRAFISK PRODUKTION
 För en verksamhet som är anmälningspliktig enligt 10
-
 22.10 C 18 kap. 18 miljöprövningsförordningen är tillsynstiden 18
 timmar.
 För en verksamhet som är anmälningspliktig enligt 10
-
 22.20 C 9 kap. 2 & miljöprövningsförordningen är tillsynstiden 9
 timmar.
-
 22.30 B 230 För en verksamhet som är tillståndspliktig enligt 10 kap. 3
-
 ” 8 miljöprövningsförordningen är tillsynstiden 30 timmar.
-
 För en verksamhet som är anmälningspliktig enligt 10
-
 22.40 C 9 kap. 4 8 miljöprövningsförordningen är tillsynstiden 9
 timmar.
 VERKSAMHETSGRUPP STENKOLSPRODUKTER,
 RAFFINERADE PETROLEUMPRODUKTER OCH
 KÄRNBRÄNSLE
-
 23-05-01 A 3
 
 Kungsbacka kommun Taxa för prövning och tillsyn 34 (69)
@@ -12338,7 +12338,6 @@ Taxa för prövning och tillsyn 36 (69)
 
 <!-- sida 218 -->
 
-2423-02 A 484
 För en verksamhet som är tillståndspliktig enligt 12 kap.
 24.24-i B 90 24 8 miljöprövningsförordningen är tillsynstiden 90
 timmar. IUV-tillägg tillämpas.
@@ -12793,8 +12792,6 @@ För en verksamhet som är anmälningspliktig enligt 14
 26.180 18 kap. 20 8 miljöprövningsförordningen är tillsynstiden 18
 timmar.
 VERKSAMHETSGRUPP STÅL OCH METALL
-SN Gt
-SS ec
 2720-01 64
 Se se
 27-20-03 90
@@ -14308,8 +14305,6 @@ kap. 18 miljöprövningsförordningen är tillsynstiden 13
 timmar för civilt skjutfält.
 
 92.10.02
-
-till 4 | wi ti fö i ki Hält-
 
 92.20
 
@@ -16554,7 +16549,7 @@ avloppsledningar till förmån för Kungsbacka kommun som belastar Må 3:15 och 
 2:]. Ledningsrätten påverkas av Detaljplanens genomförande och måste omprövas och
 befintliga ledningar måste flyttas/ersättas med nya i enlighet med bilaga F.
 Ledningsrätten utökas från en bredd på 4 meter till 6 meter och kommer att avse både
-vatten-, spillvatten» och dagvattenledningar. Ledningsrättsområdet kommer även
+vatten-, spillvatten- och dagvattenledningar. Ledningsrättsområdet kommer även
 utökas med flera nya delsträckor.
 
 Exploatören medger Kommunen rätt att inom område som är betecknat med u samt
@@ -16616,7 +16611,7 @@ ledningsrätt för nya kommunala VA- och tele/optoledningar, enligt punkt 9 ovan
 
 Betalning till Kommunen ska ske i takt med genomförandet av förrättningar enligt
 punkt 10.3-10.4. Exploatören ska beredas möjlighet att ta del av samtliga handlingar
-som lhigger till grund för betalning av förrättningskostnader.
+som ligger till grund för betalning av förrättningskostnader.
 
 EXPLOATERING
 Byggnader och anläggningar inom kvartersmark
@@ -17388,7 +17383,7 @@ huvudmannaskap gäller för gatan som går igenom området och kommunalt
 huvudmannaskap gäller för naturmark avsedd för dagvattenanläggning.
 
 1.2 — Syftet med överenskommelsen är att ändra befintliga servitut för fiberledning:
-= akt 1384-15/151,.3 till förmån för Må 3:100 och som belastar Må 3:15
+= akt 1384-15/151.3 till förmån för Må 3:100 och som belastar Må 3:15
 \- akt 1384-15/151.4 till förmån för Må 3: 100 och som belastar Må 2:1
 
 Servituten behöver ändras för att stämma överens med nytt ledningsläge.
@@ -17553,7 +17548,7 @@ för ledningarna som utgör tillbehör till Fastighetsägarens fastighet Må 3:1
 
 2\. Frigörande av fastighetstillbehör
 
-21 — Vattens, spillvatten- och dagvattenledningar, med tillhörande brunnar, som
+21 — Vattens, spillvatten- och dagvatbenledningar, med tillhörande brunnar, som
 markerats med blå, röd respektive grön färg på kartor, bilaga 1. 2 och 3. ska inte
 längre höra till den fastighet på vilken de är belägna, Må 3:15.
 
@@ -18099,119 +18094,52 @@ Gemensamhetsbyggnad
 
 <!-- sida 338 -->
 
-”-
-
-”
-
-Tä
-fir
-TITT
-TER T TER
-VIRKET KTETR
-
-ITELLA)
-
-nr
-7
-
-LEE E Gå
-HITLER!
-= FEL
-LIL
-— CL
-FÅ
-
-Lä
--—
-—
-
-FAKTA
-
-FLERBOSTADSHUS TYP I
-
-BOSTADSTYP
-
-ANTAL BYGGNADER
-ANTAL LÄCENHETER
-RUMSFÖRDELNING
-BOA (LÄGENHETER)
-BOA (PER BYGGNAD)
-BYA (PER BYGGNAD)
-P-PLATSER
-
-ENBOSTADSHUS
-
-BOSTADSTYP
-ANTAL
-RUMSFÖRDELNING
-
-BOA (PER HUS)
-BYA (PER BYGGNAD) 1
-P-PLATSER
-
-Gemensamhetsbyggnad, vy från
-
-syd-ost
-
-Flerbostadshus
-4st,2plkn
-
-6 st/byggnad
-
-3RoK
-
-103,75, 72m
-
-500 m? (2000 m! tot)
-415 m' (1660 m' tot)
-6 st/byggnad (varav
-Tst HCP)
-
-Enbostadshus
-7st,1 plan
-
-3RoK
-100.m? (700 m? tot.)
-100 m" (700 mf tot)
-
-2st/enbostadshus
-(l4sttot)
-
 Ölmanäs 1:17, Kungsbacka Kommun
 
 Typplaner
 
-FLERBOSTADSHUS TYP 2
+FAKTA
 
-BOSTADSTYP Flerbostadshus
-ANTAL BYGGNADER 3.st, 3 plan (Sutteräng)
-ANTAL LÄGENHETER 8
-RUMSFÖRDELNING 2=3 RoK
-
-BOA (LÄGENHETER) 103, 75, 72, 54 må?
-BOA (PER BYGGNAD) 626 m' (1878 m? tot)
-
-BYA (PER BYGGNAD) 415 m (1245 m' tot)
-P-PLATSER 8 sUbyggnad (varav
-
-1 st HCP)
-GEMENSAMHETSBYGGNAD
-BYGGNADSTYP Rekreationsbyggnad
-ANTAL 1st, 3 plan finkl garage)
-BTA 13104 772458 m'
-BYA 630 + 60 m?
-P-PLATSER 5435 st (varav 2 st HCP)
+FLERBOSTADSHUS TYP I FLERBOSTADSHUS TYP 2
+od BOSTADSTYP Flerbostadshus BOSTADSTYP Flerbostadshus
+ANTAL BYGGNADER 4st,2pln ANTAL BYGGNADER 3st,3 plan (Sutteräng)
+N ANTAL LÄGENHETER 6 st/byggnad ANTAL LÄGENHETER 8
+N RUMSFÖRDELNING 3 RoK RUMSFÖRDELNING 2=3 RoK
+N BOA (LÄGENHETER) 103,75, 72m! BOA (LÄGENHETER) 103,75, 72, 54 må
+ww BOA (PER BYGGNAD) 500 m? (2000 m? tot) BOA (PER BYGGNAD) 626 m' (1878 m' tot)
+NN BYA (PER BYGGNAD) 415 m (1660 m' tot) BYA (PER BYGGNAD) 415 m' (1245 m' tot)
+P-PLATSER 6 st/byggnad (varav P-PLATSER 8 st/byggnad (varav
+NN 1 st HCP) 1 st HCP)
+rn
+ENBOSTADSHUS GEMENSAMHETSBYGGNAD
+BOSTADSTYP Enbostadshus BYGGNADSTYP Rekreationsbyggnad
+ANTAL 7st,1 plan ANTAL 1st, 3 plan finkl garage)
+RUMSFÖRDELNING 3RoK BTA 13104 7724 58 m'
+BOA (PER HUS) 100. m? (700 m? tot) BYA 630 + 60 m?
+BYA (PER BYGGNAD) 1 100 m? (700 m? tot) P-PLATSER 5435 st (varav 2 st HCP)
+P-PLATSER 2st/enbostadshus
+(l4sttot)
 SOPRUM
 BYA (TOTAL) 75 m (tot. 5 st byggnader)
 RESTAVFALL 5-6 st 660 L kärl
-MATAVFALL 46 st 240 L kär
+MATAVFALL 4-6 st 240 L kärl
 FÖRPACKNINGAR 7 st 660L käd
-KARTONG 2st 10001 kär
-TIDNINGAR 1=2 st 660 L kärl
+KARTONG 2st 10001 kän
+TIDNINGAR 1-2 st 6601 kärl
 
 kl KONTROLLBOLAGET
 
-2025-11-28
+Gemensamhetsbyggnad, vy från 2025-11-28
+
+syd-ost
+
+TITT
+
+VIRKET KTETR
+
+ITELLA)
+
+HITLER!
 
 <!-- sida 339 -->
 
@@ -18329,8 +18257,6 @@ den ål
 
 i
 
-IE mel
-
 SAMMANFATTNING
 
 Trygghetsboendet för 55+ i Ölmanäs erbjuder ett naturnära, tryggt och tillgängligt
@@ -18365,8 +18291,6 @@ får lämna in en planansökan avseende ovan nämnda tastighet.
 
 Detta godkännande gäller enbart för inlämnande av planansökan och innebär inte något
 ställningstagande till planens innehåll eller genomförande.
-
-Ört och datum: Hedesa ”lA ÅOC -Ö Y- fe
 
 Markägarens namn: Peter Eriksson
 
@@ -18443,8 +18367,6 @@ Nej, jag vill ange en annan faktureringsadress
 
 Ange fakturaadressen?
 
-Mä -
-
 Utdelningsadress + Postnummer +
 VI 81895
 
@@ -18514,10 +18436,7 @@ Kungsbacka direkt
 
 Besöksadress politik/kontakta-oss)
 infoQkungsbacka.se
-
 Kungsbacka kommun (mailto:infoQkungsbacka.se)
-
-Stadshuset, Storgatan 371 telefon 0300-83 40 00
 
 434 81 Kungsbacka (tel:0300834000)
 
@@ -18532,11 +18451,8 @@ N Ölmanäs 1:17 ligger inom kustbygd enligt kommunens
 
 2026-06-17
 
-KY
+8: 1:150 000 (vid A4 stående)
+
+175 km
 
 Tasete st Fen
-
-sva
-
-5: 1:150 000 (vid 4 stående)
-175 ka

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2dfcb25c19c988798136d106/1772434137
 sha256: 2c029e94d8c4caf5c127a5002daa733d43fbc916b5a6631f5b928c502ce33b9d
 bytes: 38694527
 sidor: 498
-hamtad: 2026-10-26T06:25:33+00:00
-konverterad: 2026-10-26T06:27:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-10T02:08:38+00:00
+konverterad: 2026-11-10T02:10:22+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -14019,24 +14019,32 @@ tidsmässigt samtidigt som projektet kan pausas och skjutas på framtiden av exe
 prioriteringar för andra projekt. En uppskattning av sådana eventuella pauser finns inte medtaget i
 nedanstående flödesschema.
 
+Beslutsfas ca 1 -2 år
+Kommunen tar beslut om och i vilket
+läge ett yttre översvämningskydd ska
+byggas. Samarbete med andra
+intressenter såsom Trafikverket,
+kraftbolag krävs.
+
 Tillståndsfasen 3-10 år
-Beslutsfas ca 1 -2 år   Utredningsfas ca 3-5 år Tillståndsprocessen omfattar ett samråd,
+Utredningsfas ca 3-5 år Tillståndsprocessen omfattar ett samråd,
 framtagande av ansökningshandlingar, en
-Kommunen tar beslut om och i vilket Valt alternativ studeras mer i detalj ärendehantering i Mark-och
-läge ett yttre översvämningskydd ska              miljödomstolen samt ett domslut. Under
+Valt alternativ studeras mer i detalj ärendehantering i Mark-och
+miljödomstolen samt ett domslut. Under
 gällande viktiga faktorer som
-byggas. Samarbete med andra                       processen kan krav på ytterligare
+processen kan krav på ytterligare
 geoteknik, hydrologi, tekniska
-intressenter såsom Trafikverket,                utredningar och kompletteringar uppkomma
-kraftbolag krävs.        lösningar etc.     från myndigheter, enskilda och allmänheten
+utredningar och kompletteringar uppkomma
+lösningar etc.     från myndigheter, enskilda och allmänheten
 vilket kan medföra att processen blir
 tidskrävande.
+
 Planerings-och
 Byggfasen 3-5 år
 projekteringsfasen 3-5 år
 Denna fas omfattar framtagande av de Fasen innefattar en inledande Färdigt
 upphandling av entreprenör för
-bygglov och fastighetsrättliga dokument             översvämningsskydd
+bygglov och fastighetsrättliga dokument            översvämningsskydd
 samt eventuella detaljplaner som krävs. I projektet och den tid det faktiskt tar att
 denna fas tas även projekterings-och anlägga översvämningsskyddet med om 15-30 år
 förfrågningsunderlag fram. Denna fas kan tillhörande teknisk utrustning och
@@ -14553,9 +14561,12 @@ n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 1 skydd
 
 <!-- sida 364 -->
 
+Bilaga 1
 Uppdragsnummer: 106 22 65
 
 Yttre översvämningsskydd mot höga havsnivåer Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
+
+Skydd "E6:an" nivå (RH2000)-volym (m3)
 
 1,2
 
@@ -14571,6 +14582,7 @@ Yttre översvämningsskydd mot höga havsnivåer Förstudie avseende lokaliserin
 
 0
 0  20000 40000 60000 80000 100000 120000 140000 160000 180000 200000
+Volym m3
 
 Figur 2.1 Beräknat nivå-volym förhållande för tillgänglig vattenmagasin med ett yttre skydd längs väg E6.
 
@@ -14599,12 +14611,8 @@ Pumparna kan monteras i separata pumpanordningar innefattande en eller flera pum
 i Figur 2.2, alternativt i en enda stor anordning innefattande alla pumpar.
 
 n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 1 skyddsalternativ längs e6.docx | 10(20)
-)0002HR(
-m
-åvinnettaV
-Bilaga 1
-Skydd "E6:an" nivå (RH2000)-volym (m3)
-Volym m3
+
+Vattennivå m (RH2000)
 
 <!-- sida 365 -->
 
@@ -15293,9 +15301,12 @@ inlagsleden.docx                                     2021-01-25| 9(21)
 
 <!-- sida 384 -->
 
+Bilaga 2
 Uppdragsnr: 106 22 65
 
 Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
+
+Skydd "Inlagsleden" nivå (RH2000)-volym (m3)
 
 1,2
 
@@ -15311,6 +15322,7 @@ Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokaliser
 
 0
 100000 110000 120000 130000 140000 150000 160000 170000 180000 190000 200000
+Volym m3
 
 Figur 2.1. Beräknat nivå-volym förhållande för tillgänglig magasinsvolym med ett yttre skydd längs
 Inlagsleden.
@@ -15342,12 +15354,8 @@ Figur 2.2, alternativt i en enda stor anordning innefattande alla pumpar.
 
 \\\norconsultad.com\dfs\swe\göteborg\n-data\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 2 skyddsalternativ längs
 inlagsleden.docx                                     2021-01-25| 10(21)
-)0002HR(
-m
-åvinnettaV
-Bilaga 2
-Skydd "Inlagsleden" nivå (RH2000)-volym (m3)
-Volym m3
+
+Vattennivå m (RH2000)
 
 <!-- sida 385 -->
 

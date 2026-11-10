@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.673b6e6519d7224d2e8f6a1/17758032012
 sha256: 2795afdfc5375758f11d62d77cdeb6bb6f590f5277226da60b858b175ab97059
 bytes: 17849907
 sidor: 210
-hamtad: 2026-10-25T09:18:25+00:00
-konverterad: 2026-10-25T09:24:41+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T23:54:50+00:00
+konverterad: 2026-11-10T00:01:07+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad]
 tal_obekraftade: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 110, 118, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 144, 145, 165, 167, 168, 170, 173, 175, 176, 177, 178, 179, 180, 184, 186, 192, 193, 195, 208, 209, 210]
 figurer: [125, 140, 189]
 tolkade: []
@@ -142,8 +142,10 @@ www.kungsbacka.se
 
 GRANSKNINGSRAPPORT
 
-Till bolagsstämman i EKSTA Bostads AB Org.nr 5356497-8293
+Till bolagsstämman i EKSTA Bostads AB
 Till Kungsbacka kommunfullmäktige för kännedom
+
+Org.nr 5356497-8293
 
 Vi har granskat bolagets verksamhet under år 2025. Granskningen har utförts i enlighet med
 bestämmelserna i aktiebolagslagen, kommunallagen och god sed. Det innebär att vi planerat
@@ -161,8 +163,7 @@ granskningsredogörelse som överlämnats till bolagets styrelse.
 
 Underskrift i enlighet med digital signering.
 
-Birgitta Litsegård Ingvar Henriksson
-
+Birgitta Litsegård
 Av kommunfullmäktige
 utsedd lekmannarevisor
 
@@ -178,6 +179,7 @@ Lars-Erik Hörmander
 Av kommunfullmäktige
 utsedd lekmannarevisor
 
+Ingvar Henriksson
 Av kommunfullmäktige
 utsedd lekmannarevisor
 
@@ -196,6 +198,7 @@ Penneo document key: C5PIF-V96XX-TZ47J-OGAUT-A1APT-JPBMP
 GRANSKNINGSRAPPORT
 
 Till bolagsstämman i Tempohus Kungsbacka AB Org.nr 559151-1349
+
 Till Kungsbacka kommunfullmäktige för kännedom
 
 Vi har granskat bolagets verksamhet under år 2025. Granskningen har utförts i enlighet med
@@ -680,7 +683,7 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 VD OM ÅRET SOM GÅTT
 
 ”Medarbetarnas engagemang är grunden för att vi på Eksta
-kan göra skillnad och skapa hållbara och trivsamma bostäder”
+kan göra skillnad och skapa hållbara och trivsamma bestäder”
 
 Christer Kilersjö, vd Eksta Bostads AB
 
@@ -836,17 +839,6 @@ STA JM
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 24 -->
-
-AG 1rcerTETI 17490
-Dokument-ID 09222115557571174859
-
-ÅRS- OCH HÅLLBARHETSREDOVISNING 2025
-
-Signerat CK, HS, PW, AM, JB, IH, KW, M
-
-ÅRET 2025
-
-T
 
 <!-- sida 25 -->
 
@@ -1124,10 +1116,10 @@ Vi bygger Förlanda ekoby. borg. Vinner prestigefyllda oss på Eksta. munfullmä
 priset: Sabos miljöpris. 2008 att fusionera AB
 Kungsbackabostäder och
 Eksta,
-oo0o00 000000 000000 08 6
+oo0o00 6000 00000 000000 6
 . J
 o . .
-»« Utdrag ur Ekstas årsredovisning 1995 =»
+» Utdrag ur Ekstas årsredovisning 1995 =»
 "All utveckling kräver förändringar. De rätta förändringarna 9
 9 ger en god utveckling. Det är inte de stora omorganisatio- e
 e nerna som skapar det effektiva och trivsamma företaget, e
@@ -1294,7 +1286,6 @@ förvaltningen, där medarbetare frivilligt har klivit fram
 Aterbruksgruppen
 Iehan, William, David
 & Jchanna
-ASS vå
 
 Dokument-ID 09222115557571174859 ==
 
@@ -1855,7 +1846,7 @@ organisationen.
 Personalomsättning, rekrytering och introduktion
 
 På årets sista dag hade Eksta 56 anställda. Under 2025 var
-personalomsättningen 3,9 2 (12,2 24 2024). Två personer har
+personalomsättningen 3,9 2 (12,2 2 2024). Två personer har
 slutat sin anställning, en för att gå vidare till annat arbete
 och en för att gå i pension. En person har bytt jobb internt.
 Vi har under året välkomnat fem nya medarbetare.
@@ -4261,7 +4252,7 @@ Driftskostnader 4,9,10 -175 327 764 = -173 269 355 -173 853 271 171 566 676
 Underhållskostnader 5 -63 241597 — -60 505 092 -62 170 377 -59 534 163
 Fastighetsskatt 6 -7 277 730 -7 412 032 -7 203 834 -7 373 680
 Övriga kostnader 7 -317 326 -789 955 -317 326 -789 955
-Av- och nedskrivningar 8 -105 341705 = -104 586 604 101809 815 — -101297 479
+Av- och nedskrivningar 8 -105 341 705 = -104 586 604 101809 815 — -101297 479
 -351 506122 +-346 563 038 -345 354 623 <++-340 561 953
 
 Resultat från finansiella poster n
@@ -4664,7 +4655,7 @@ visas inga bokslutsdispositioner och obeskattade reserver i
 koncernredovisningen.
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025
-Signerat CK, HS, PW, AM, JB, IH KW ML AL... — —FHÄHÄAA-
+Signerat CK, HS, PW, AM, JB, IH KW ML AL... — —FHÄHÄA.-
 
 <!-- sida 67 -->
 
@@ -5501,7 +5492,6 @@ Dokument-ID 09222115557571174859 CE Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 Dokument-ID 0922211555757117 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 PN ÅRS- OCH HÅLLBARHETSREDOVISNING 2025
-127059 SEE
 
 <!-- sida 83 -->
 
@@ -5589,7 +5579,7 @@ Boställets väg 6-8
 
 Frillesås Mellanväg 10, Skattkammaren förskola
 
-Frillesås Mellanväg I, Talavidsvägen 28-32
+Frillesås Mellanväg TI, Talavidsvägen 28-32
 Talavidsvägen 6-26
 Frillesås Stationsväg 8 A-E
 
@@ -6071,28 +6061,17 @@ Kassaflödesanalys
 
 Förändring av det egna kapitalet
 
-Noter
-
-Underskrifter
-
+Noter 10-11
+Underskrifter 12
 Revisionsberättelse 13-14
-Granskningsrapport
+Granskningsrapport 15
 
-OMWJIAUNBNENBU
-
-—
-
-TY
--—
-SE
-
-om
-un
-
-örsprg huv Bild från eva
+örsprg nav Bild från ev av
 sf PÅ Södra Ann
 
 Dokument-ID 09222115557571073374 == Signerat CK, HS, PW, AL
+
+OMWJIAUNBNENBU
 
 <!-- sida 92 -->
 
@@ -6586,15 +6565,19 @@ Summa 45 000 000 25000 000
 Not 12 - Upplupna kostnader och förutbe-
 talda intäkter
 
-EE 230500 — 20020
 Ingående ack. Anskaffningsvärden 529929 529 929 Upplupna driftskostnader 89235 22784
+
 Nyanskaffning under året 150 000 [0] Upplupna projektkostnader 457 768
+
 Utgående ack. Anskaffningsvärden 679 929 529 929 Summa 324 136 724 77
 
 \- oo Not 13 - Kassaflödesanalys
+
 Ingående ack Avskrivning 124557 20724 Kassaflödesanalysen har upprättats enligt indirekt
+
 Årets avskrivning enligt plan 125 999 -103 832 metod. Redovisat kassaflöde har justerats för ej likvidi-
 tetspåverkande poster för att på så vis ge en rättvisan-
+
 2250 556 — -124556 de bild av årets in- och utbetalningar.
 Utgående bokfört värde 429 373 405 373
 
@@ -7499,27 +7482,33 @@ I GÖTEBORG             2026-03-11             9454-25
 Meddelad i Göteborg
 Avd. 5
 
-6872311
-
-dI.koD
 KLAGANDE
 Kungsbacka kommun
+
 MOTPART
 Länsstyrelsen i Hallands län
+
 ÖVERKLAGAT  BESLUT
 Länsstyrelsens beslut 2025-07-15, dnr 5072-2025, bilaga 1
+
 SAKEN
 Upphävande av allmänna lokala ordningsföreskrifter enligt ordningslagen
 (1993:1617), förkortad OL
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 FÖRVALTNINGSRÄTTENS AVGÖRANDE
+
 Förvaltningsrätten avslår överklagandet.
+
 Avgörandet är elektroniskt undertecknat
+
 Besöksadress   Öppettider Postadress     E-post
 Sten Sturegatan 14 måndag–fredag Box 53197 (e-post borttagen)
 08:00–16:00 400 15 Göteborg
 Telefon                                  Webbplats
 031 - 732 70 00                          www.forvaltningsrattenigoteborg.domstol.se
+
+Dok.Id 1132786
 
 <!-- sida 119 -->
 
@@ -8221,123 +8210,126 @@ Page 7 of 15
 
 <!-- sida 140 -->
 
-Sida 1 av 2
-www.domstol.se
-50-0202
-• gnilkcevtuslotsmod
-röf
-.dvA
-,tekrevslotsmoD
-va
-tarecudorP
-•
-TP
-\-
-v
-3
-ditednagalkrevÖ
-–
-30-RF
-ednagalkrevö
-röf
-ragninsivnA
 Bilaga 2
+
 Hur man  överklagar                                      FR-03
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
-du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3\. Tala om vilka bevis du vill hänvisa till.
-Förklara vad du vill visa med varje bevis.
+
+Vill du att beslutet ska ändras i någon del kan
+du överklaga. Här får du veta hur det går till.
+
 Överklaga skriftligt inom 3 veckor
-Skicka med skriftliga bevis som inte redan
-Tiden räknas oftast från den dag som du fick finns i målet.
+Tiden räknas oftast från den dag som du fick
 del av det skriftliga beslutet. I vissa fall räknas
-tiden i stället från beslutets datum. Det gäller 4. Lämna namn och personnummer eller
-om beslutet avkunnades vid en muntlig organisationsnummer.
+tiden i stället från beslutets datum. Det gäller
+om beslutet avkunnades vid en muntlig
 förhandling, eller om rätten vid förhandlingen
-Lämna aktuella och fullständiga uppgifter
 gav besked om datum för beslutet.
-om var domstolen kan nå dig: postadresser,
-e-postadresser och telefonnummer.
+
 För en part som företräder det allmänna (till
-exempel myndigheter) räknas tiden alltid från Om du har ett ombud, lämna också
-den dag domstolen meddelade beslutet. ombudets kontaktuppgifter.
-Observera att överklagandet måste ha kommit 5. Skicka eller lämna in överklagandet till
-in till domstolen när tiden går ut. förvaltningsrätten. Du hittar adressen i
-beslutet.
+exempel myndigheter) räknas tiden alltid från
+den dag domstolen meddelade beslutet.
+
+Observera att överklagandet måste ha kommit
+in till domstolen när tiden går ut.
+
 Vilken dag går tiden ut?
-Sista dagen för överklagande är samma veckodag Vad händer sedan?
+Sista dagen för överklagande är samma veckodag
 som tiden börjar räknas. Om du exempelvis fick
-Förvaltningsrätten kontrollerar att överklagan-
 del av beslutet måndagen den 2 mars går tiden ut
-måndagen den 23 mars.           det kommit in i rätt tid. Har det kommit in för
-sent avvisar domstolen överklagandet. Det
+måndagen den 23 mars.
 Om sista dagen infaller på en lördag, söndag eller
-innebär att beslutet gäller.
 helgdag, midsommarafton, julafton eller nyårs-
 afton, räcker det att överklagandet kommer in
-Om överklagandet kommit in i tid, skickar
 nästa vardag.
-förvaltningsrätten överklagandet och alla
-handlingar i målet vidare till kammarrätten.
-Har du tidigare fått brev genom förenklad Så här gör du
-delgivning kan även kammarrätten skicka brev
+
+Så här gör du
+
 1\. Skriv förvaltningsrättens namn och
-på detta sätt.
 målnummer.
 2\. Förklara varför du tycker att beslutet ska
 ändras. Tala om vilken ändring du vill ha
 och varför du tycker att kammarrätten ska
 
+ta upp ditt överklagande (läs mer om
+prövningstillstånd längre ner).
+
+3\. Tala om vilka bevis du vill hänvisa till.
+Förklara vad du vill visa med varje bevis.
+Skicka med skriftliga bevis som inte redan
+finns i målet.
+4\. Lämna namn och personnummer eller
+organisationsnummer.
+
+Lämna aktuella och fullständiga uppgifter
+om var domstolen kan nå dig: postadresser,
+e-postadresser och telefonnummer.
+Om du har ett ombud, lämna också
+ombudets kontaktuppgifter.
+
+5\. Skicka eller lämna in överklagandet till
+förvaltningsrätten. Du hittar adressen i
+beslutet.
+
+Vad händer sedan?
+
+Förvaltningsrätten kontrollerar att överklagan-
+det kommit in i rätt tid. Har det kommit in för
+sent avvisar domstolen överklagandet. Det
+innebär att beslutet gäller.
+Om överklagandet kommit in i tid, skickar
+förvaltningsrätten överklagandet och alla
+handlingar i målet vidare till kammarrätten.
+
+Har du tidigare fått brev genom förenklad
+delgivning kan även kammarrätten skicka brev
+på detta sätt.
+
+Sida 1 av 2
+
+www.domstol.se
+
+Anvisningar för överklagande FR-03 – Överklagandetid 3 v - PT • Producerat av Domstolsverket, Avd. för domstolsutveckling • 2020-05
+
 <!-- sida 141 -->
 
-Sida 2 av 2
-www.domstol.se
-50-0202
-•
-gnilkcevtuslotsmod
-röf
-.dvA
-,tekrevslotsmoD
-va
-tarecudorP
-•
-TP
-\-
-v
-3
-ditednagalkrevÖ
-–
-30-RF
-ednagalkrevö
-röf
-ragninsivnA
 Prövningstillstånd i kammarrätten
 När överklagandet kommer in till kammar-
 rätten tar domstolen först ställning till om
 målet ska tas upp till prövning.
+
 Kammarrätten ger prövningstillstånd i fyra
 olika fall.
 (cid:120) Domstolen bedömer att det finns
 anledning att tvivla på att förvaltnings-
 rätten dömt rätt.
+
 (cid:120) Domstolen anser att det inte går att
 bedöma om förvaltningsrätten dömt rätt
 utan att ta upp målet.
 (cid:120) Domstolen behöver ta upp målet för att
 ge andra domstolar vägledning i rätts-
 tillämpningen.
+
 (cid:120) Domstolen bedömer att det finns
 synnerliga skäl att ta upp målet av någon
 annan anledning.
+
 Om du inte får prövningstillstånd gäller det
 överklagade beslutet. Därför är det viktigt att i
 överklagandet ta med allt du vill föra fram.
+
 Vill du veta mer?
 Ta kontakt med förvaltningsrätten om du har
 frågor. Adress och telefonnummer hittar du på
 första sidan i beslutet.
+
 Mer information finns på www.domstol.se.
+
+Sida 2 av 2
+www.domstol.se
+
+Anvisningar för överklagande FR-03 – Överklagandetid 3 v - PT • Producerat av Domstolsverket, Avd. för domstolsutveckling • 2020-05
 
 <!-- sida 142 -->
 
@@ -8449,7 +8441,7 @@ av invasiva arter kan även innebära kostnad för samhället och för den enski
 
 Bakgrund - invasiva arter i Kungsbacka
 
-Att bekämpa dessa arter är dyrt, personalintensivt och svårt, Men det finns redan en
+Att bekämpa dessa arter är dyrt, personalintensivt och svårt. Men det finns redan en
 beprövad metod som engagerar invånare, stärker gemenskapen - och som fått stor
 medial uppmärksamhet i kommuner som Hagfors, Lilla Edet och flera andra.
 

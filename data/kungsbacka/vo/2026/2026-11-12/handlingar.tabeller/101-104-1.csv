@@ -1,0 +1,159 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Bedriva kommunal hälso- och sjukvård,,,,
+Process:,Dokumentera hälso- och sjukvård,,,,
+Processnummer:,6.6.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera hälso- och
+sjukvårdsjournal",Hälso- och sjukvårdsjournal,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+Hantera journalhandling,"Inkomna, utgående och upprättade
+handlingar av betydelse för ärendet",Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,"Inkomna, utgående och upprättade
+handlingar av tillfällig betydelse
+och/eller rutinmässig karaktär",Combine,Digital,Vid inaktualitet,"Eventuella pappershandlingar
+förvaras i närarkiv."
+"Dokumentera
+delegeringsbeslut","Utfärda och signera delegeringsbeslut
+av hälso- och sjukvårdsinsatser",Alfa eCare,Digital,3 år,
+Hantera journalhandling,"Hälso- och sjukvårdsjournal,
+Signeringslista",Alfa eCare,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,"Hälso- och sjukvårdsjournal,
+Signeringslista vid driftstopp",Hemdok,Papper,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista uppgiften.
+Personer födda på datumen 5, 15, 25
+bevaras"
+,Signaturförtydligandelistor,Alfa eCare,Digital,"10 år (5, 15, 25
+bevaras)","Gallras 10 år efter sista
+uppgiften. Personer födda på"
+,,,,Se anmärkning,"datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,Journalkopior från andra vårdgivare,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,Intyg,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,Remiss,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,Remissvar,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,Bilder/filmer,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,Ordinationshandling/läkemedelslista,Hemdok,Papper,"10 år (5, 15, 25
+bevaras)","Gallras 10 år efter sista
+uppgiften. Personer födda på"
+,,,,Se anmärkning,"datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+,Patients narkotikajournal,Alfa eCare,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+"Hantera
+förrådsadministration","Förbrukningsjournal och kontroll av
+narkotikaklassade läkemedel i förråd",Närarkiv,Papper,10 år,"Förbrukningsjournal och
+kontroll av narkotikaklassade
+läkemedel i förråd"
+Hantera läkemedel,"Signeringslista för avläsning av kylskåp
+där läkemedel förvaras",I anslutning till kylskåp,Papper,3 månader,
+"Hantera medicintekniska
+produkter","Register över medicintekniska produkter
+som används inom hälso- och
+sjukvården","Samarbetsrum för
+medicintekniska produkter",Digital,"Vid inaktualitet
+Se anmärkning","Gallring sker vid utrangering
+och nya inköp"
+,"Register över medicintekniska produkter
+som används inom vård- och
+omsorgsboende och hemtjänsten",Pythagoras,Digital,Se anmärkning,"Gallring sker vid utrangering
+och nya inköp"
+Hantera funktionskontroll,"Kvalitetskontroller och besiktningar,
+medicintekniska produkter som
+används inom hälso- och sjukvården","Samarbetsrum för
+medicintekniska produkter",Digital,Se anmärkning,"Gallras vid utrangering 3 år
+efter att produkten sålts eller
+på annat sätt tagits ur bruk."
+,"Kvalitetskontroller och besiktningar,
+medicintekniska produkter som
+används inom vård- och omsorgsboende
+och hemtjänsten",Pythagoras,Digital,Se anmärkning,"Gallras vid utrangering 3 år
+efter att produkten sålts eller
+på annat sätt tagits ur bruk."
+Hantera journalhandling,Träningsprogram,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras
+Eventuella pappershandlingar
+förvaras i närarkiv."
+"Hantera
+utprovningsprotokoll",Utprovningsprotokoll,Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras"
+,,,,,"Eventuella pappershandlingar
+förvaras i närarkiv."
+Hantera journalhandling,"Risk-/funktions- och
+aktivitetsbedömningar,
+standardiserade instrument",Combine,Digital,"10 år (5, 15, 25
+bevaras)
+Se anmärkning","Gallras 10 år efter sista
+uppgiften. Personer födda på
+datumen 5, 15, 25 bevaras"
+Hantera instruktion,Bruksanvisning till hjälpmedel,Hemdok,Papper,Vid inaktualitet,"Gallring sker när ett
+hjälpmedel inte längre är
+aktuellt för patient"
+,Hjälpmedelslista,Hemdok,Papper,Vid inaktualitet,"Gallring sker när ett
+hjälpmedel inte längre är
+aktuellt för patient"
+Hantera avtal,Avtal för medicintekniska produkter,Ciceron avtalsdiarium,Digital,Bevaras,
+,"Avtal avseende blodprovstagning
+mellan Polismyndigheten och
+Hemsjukvården Kungsbacka kommun",Ciceron avtalsdiarium,Digital,Bevaras,

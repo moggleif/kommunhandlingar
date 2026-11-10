@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6cf878e819c986b5ee7e3b1d/1772801136
 sha256: cee44bad12441635d111226bc754b017f11d8e507964e656b2996833ac81e9c3
 bytes: 6036294
 sidor: 65
-hamtad: 2026-10-25T09:11:30+00:00
-konverterad: 2026-10-25T09:12:10+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T23:47:40+00:00
+konverterad: 2026-11-09T23:48:23+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -394,22 +394,17 @@ har enbart ett fåtal publika laddpunkter etablerats i kommunal regi.
 
 SL SSR Laddningspool
 SS ” 2 re
-EE ve i. Nf
 SO HI taddningsstation « - Laddningsstation
 
 sOdElr
-
-Feb TE
 
 =>)
 
 Tr
 \-
 
-\- Rom -
 3ladäni kt a ER
 a . BIDSSPUN er VY - j 2 laddningspunkter
-AR SEN foå LT
 
 Nuläge
 
@@ -564,37 +559,18 @@ dessa förhåller sig till varandra och vilka strategier som matcher respektive 
 
 <!-- sida 14 -->
 
-Lo
-
 Ska fler publika laddpunkter byggas ut?
-
-Ja
-
-Nej
-
-—
-v
-
-Strategi 1
-
+| Ja Nej
+Ja Strategi 1 Strategi 3
 Delvis Strategi 4
-
-Strategi 3
-
-Ska kommunen fortsätta äga
-och driva publika laddpunkter?
-2
-
-Strategi 2
-
-Ingen av de
-identifierade
+me 3
+Nei Strategi 2 Ingen av de
+J identifierade
 strategierna
 
 Ja
 
-Ska privata aktörer driva publika
-laddpunkter på kommunal mark?
+Nej
 
 Ska fler publika laddpunkter byggas ut?
 
@@ -617,6 +593,14 @@ Strategi 3
 KUNGSBACKA KOMMUN
 6 0)
 
+Ska kommunen fortsätta äga
+
+och driva publika laddpunkter?
+
+Ska privata aktörer driva publika
+
+laddpunkter på kommunal mark?
+
 <!-- sida 15 -->
 
 KUNGSBACKA KOMMUN
@@ -624,21 +608,12 @@ KUNGSBACKA KOMMUN
 
 Ska kommunen fortsätta äga och driva publika
 laddpunkter?
-
-Ja Nej
-
-IT
-
-Strategi 4 Strategi 2
-
-Strategi 1 Ingen av de
-och identifierade
+| Ja Nej
+Ja Strategi 4 Strategi 2
+—————— a -
+Nei Strategi 1 Ingen av de
+J och identifierade
 Strategi 3 strategierna
-
-Ska privata aktörer driva publika
-laddpunkter på kommunal mark?
-\|
-å
 
 Identifierade strategier
 
@@ -663,6 +638,10 @@ underhåll för ny laddinfrastruktur då de äger den laddinfrastruktur de etabl
 Förändring mot idag är att kommunen etablerar en funktion där privata aktörer kan ansöka om att få
 etablera laddplatser på allmän plats och kommunen godkänner platsen. Aktören sköter sedan sin
 anläggning helt fritt, benämnt ”Stockholmsmodellen”.
+
+Ska privata aktörer driva publika
+
+laddpunkter på kommunal mark?
 
 <!-- sida 16 -->
 
@@ -1323,9 +1302,9 @@ EKONOMI
 
 17
 
-RESURSBEHOV    INTERNT  FÖRVALTNINGEN     FÖR TEKNIK
+RESURSBEHOV    INTERNT   FÖRVALTNINGEN    FÖR  TEKNIK
 
-SAMMANSTÄLLNING      AV KOSTNADER    OCH  INTÄKTER
+SAMMANSTÄLLNING      AV  KOSTNADER   OCH  INTÄKTER
 
 STRATEGI 2
 STRATEGI 1
@@ -1333,28 +1312,47 @@ STRATEGI 1
 Teknik etablerar laddinfrastruktur. Privata aktör etablerar ny laddinfrastruktur.
 Privat aktör drift & underhåller Äger, drift & underhåller ny/befintlig
 laddinfrastrukturen             laddinfrastruktur
+
 Etablering:                    Etablering:
 Ca 100 000 – 300 000 kr per laddningsstation 0 kr
 Laddutrustning:                Laddutrustning:
 Ca 50 000 kr per laddningsstation (två 0 kr
-laddningspunkter)              Kostnader för drift och underhåll:
-Abonnemangskostnader           0 kr
-Ca 3 000 kr per laddningsstation/månad Intäkter för såld el:
-Intäkter för såld el, nya och befintliga 0 kr
-laddningsstationer:            Intäkt - aktör köper ut kommunens befintliga
-Intäkter för såld el från samtliga laddinfrastruktur:
-laddningsstationer, olika varje månad, beror på Ca 5 000 – 10 000 kr per site/anläggning – Sker
 
-hur mycket de använts          genom upphandling, den aktör som betalar
-Servicekostnader för befintliga mest för den befintliga laddinfrastrukturen
-laddningsstationer:            vinner upphandlingen
-Ca 200 000 – 300 000 kr per år för alla 52 Intäkt för arrende:
-laddningsstationer             Aktören betalar ett arrende för marken där
-Samt:                          laddinfrastrukturen skall placeras
-Ca 25 000 kr per laddningsstation Resurs 50%:
-Info: När en laddningsstation blir 7 – 8 år Ca 400 000 kr/år utifrån löneberäkning från år
-gammal behöver laddningsutrustning 2024
+laddningspunkter)
+Abonnemangskostnader
+Ca 3 000 kr per laddningsstation/månad
+Intäkter för såld el, nya och befintliga
+laddningsstationer:
+Intäkter för såld el från samtliga
+laddningsstationer, olika varje månad, beror på
+hur mycket de använts
+Servicekostnader för befintliga
+laddningsstationer:
+Ca 200 000 – 300 000 kr per år för alla 52
+laddningsstationer
+Samt:
+Ca 25 000 kr per laddningsstation
+Info: När en laddningsstation blir 7 – 8 år
+gammal behöver laddningsutrustning
+
 uppdateras och förnyas, helt eller delvis. Tekniks
+
+Kostnader för drift och underhåll:
+0 kr
+Intäkter för såld el:
+0 kr
+Intäkt - aktör köper ut kommunens befintliga
+laddinfrastruktur:
+Ca 5 000 – 10 000 kr per site/anläggning – Sker
+genom upphandling, den aktör som betalar
+mest för den befintliga laddinfrastrukturen
+vinner upphandlingen
+Intäkt för arrende:
+Aktören betalar ett arrende för marken där
+laddinfrastrukturen skall placeras
+Resurs 50%:
+Ca 400 000 kr/år utifrån löneberäkning från år
+2024
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
@@ -1379,44 +1377,74 @@ Resurs 100%:
 Ca 800 000 kr/år utifrån löneberäkning från år
 2024
 
-SAMMANSTÄLLNING      AV KOSTNADER    OCH  INTÄKTER
+SAMMANSTÄLLNING      AV  KOSTNADER   OCH  INTÄKTER
 
-STRATEGI 3                     STRATEGI 4
+STRATEGI 3
 
-Ingen nyetablering av laddinfrastruktur. Privata aktörer etablerar ny laddinfrastruktur
-Privat aktör drift & underhåller Drift & underhåller ny/befintlig
-laddinfrastrukturen             laddinfrastruktur
+Ingen nyetablering av laddinfrastruktur.
+Privat aktör drift & underhåller
+laddinfrastrukturen
 
-Abonnemangskostnader           Etablering:
-Ca 3 000 kr per laddningsstation/månad 0 kr
-Intäkter för såld el av befintliga Laddutrustning:
-laddningsstationer:            0 kr
-Intäkter för såld el, olika varje månad, beror på Abonnemangskostnader för befintliga
-hur mycket de använts          laddningsstationer:
-Servicekostnader för befintliga Ca 3 000 kr per laddningsstation/månad
-laddningsstationer:            Intäkter för såld el av befintliga
-Ca 200 000 – 300 000 kr per år för alla 52 laddningsstationer:
-laddningsstationer             Intäkter för såld el, olika varje månad, beror på
-Samt:                          hur mycket de använts
-Ca 25 000 kr per laddningsstation Servicekostnader för befintliga
-Info: När en laddningsstation blir 7 – 8 år laddningsstationer:
-gammal behöver laddningsutrustning Ca 200 000 – 300 000 kr per år för alla 52
-uppdateras och förnyas, helt eller delvis. Tekniks laddningsstationer
-laddningsstationer är i dagsläget 8 år gamla och Samt: Ca 25 000 kr per laddningsstation
-behöver förnyas inom en snar framtid. Info: När en laddningsstation blir 7 – 8 år
-Beräkning: 25 0000 (kr) x 52   gammal behöver laddningsutrustning
-(laddningsstationer) = 1 300 000 kr uppdateras och förnyas, helt eller delvis. Tekniks
-Denna service återkommer ca var 8e år. laddningsstationer är i dagsläget 8 år gamla och
-Resurs 30 %:                   behöver förnyas inom en snar framtid.
-Ca 250 000 kr/år utifrån löneberäkning från år Beräkning: 25 0000 (kr) x 52
-2024                           (laddningsstationer) = 1 300 000 kr.
+Abonnemangskostnader
+Ca 3 000 kr per laddningsstation/månad
+Intäkter för såld el av befintliga
+laddningsstationer:
+Intäkter för såld el, olika varje månad, beror på
+hur mycket de använts
+Servicekostnader för befintliga
+laddningsstationer:
+Ca 200 000 – 300 000 kr per år för alla 52
+laddningsstationer
+Samt:
+Ca 25 000 kr per laddningsstation
+Info: När en laddningsstation blir 7 – 8 år
+gammal behöver laddningsutrustning
+uppdateras och förnyas, helt eller delvis. Tekniks
+laddningsstationer är i dagsläget 8 år gamla och
+behöver förnyas inom en snar framtid.
+Beräkning: 25 0000 (kr) x 52
+(laddningsstationer) = 1 300 000 kr
+Denna service återkommer ca var 8e år.
+Resurs 30 %:
+Ca 250 000 kr/år utifrån löneberäkning från år
+2024
+
+STRATEGI 4
+
+Privata aktörer etablerar ny laddinfrastruktur
+Drift & underhåller ny/befintlig
+laddinfrastruktur
+
+Etablering:
+0 kr
+Laddutrustning:
+0 kr
+Abonnemangskostnader för befintliga
+laddningsstationer:
+Ca 3 000 kr per laddningsstation/månad
+Intäkter för såld el av befintliga
+laddningsstationer:
+Intäkter för såld el, olika varje månad, beror på
+hur mycket de använts
+Servicekostnader för befintliga
+laddningsstationer:
+Ca 200 000 – 300 000 kr per år för alla 52
+laddningsstationer
+Samt: Ca 25 000 kr per laddningsstation
+Info: När en laddningsstation blir 7 – 8 år
+gammal behöver laddningsutrustning
+uppdateras och förnyas, helt eller delvis. Tekniks
+laddningsstationer är i dagsläget 8 år gamla och
+behöver förnyas inom en snar framtid.
+Beräkning: 25 0000 (kr) x 52
+(laddningsstationer) = 1 300 000 kr.
 Denna service återkommer ca var 8e år.
 Intäkt för arrende av mark för nyetablering av
 laddinfrastruktur:
 Aktören betalar ett arrende för marken där
-
 laddinfrastrukturen skall placeras
 Resurs 60 %:
+
 Ca 500 000 kr/år utifrån löneberäkning från år
 2024
 
@@ -1953,7 +1981,6 @@ I N
 
 Kommunstyrelsens Ordförande
 
-a ä MÖSS I0 AL SEco |
 AE Kommundirektör
 
 <!-- sida 50 -->
