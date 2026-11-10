@@ -1,10 +1,10 @@
-"""Krav: K36, K37, K38 och K42 i docs/02-KRAV.md, ADR-0057, ADR-0058,
-ADR-0059 och ADR-0065. Test: tests/test_lokalbehov.py,
+"""Krav: K36, K37, K38, K42 och K44 i docs/02-KRAV.md, ADR-0057, ADR-0058,
+ADR-0059, ADR-0065 och ADR-0067. Test: tests/test_lokalbehov.py,
 tests/test_initiativ.py, tests/test_handlingsplaner.py,
-tests/test_redovisningar.py.
+tests/test_redovisningar.py, tests/test_detaljplaner.py.
 
 Slagen av spår över tid: vad som skiljer lokalbehoven, initiativärendena,
-handlingsplanerna och redovisningarna åt. Filen är längre än målet för
+handlingsplanerna, redovisningarna och detaljplanerna åt. Filen är längre än målet för
 att varje slag är data i ett stycke; att dela den skulle skilja slagen
 från listan över dem. Allt annat är gemensamt (`spar.py`, `sparsida.py`).
 """
@@ -19,6 +19,8 @@ BOCK = '<path d="M4.5 8.5l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width=
 KRYSS = '<path d="M5 5l6 6M11 5l-6 6" fill="none" stroke="#fff" stroke-width="2"/>'
 RUTA = '<rect x="1.5" y="1.5" width="13" height="13" rx="3" fill="currentColor"/>'
 KLART = RUTA + BOCK
+BUBBLA = f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>'
+TIMGLAS = f'<path d="M3 2h10L3 14h10z" {DRAG}/>'
 
 LOKALBEHOV = Slag(
     id="lokalbehov",
@@ -79,10 +81,10 @@ INITIATIV = Slag(
     antal="ärenden",
     faser={
         "vackt": (CIRKEL, "väckt"),
-        "beredning": (f'<path d="M3 2h10L3 14h10z" {DRAG}/>', "beredning"),
+        "beredning": (TIMGLAS, "beredning"),
         "bifall": (FYLLD + BOCK, "bifall"),
         "avslag": (FYLLD + KRYSS, "avslag"),
-        "besvarat": (f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>', "besvarat"),
+        "besvarat": (BUBBLA, "besvarat"),
         "uppfoljning": (RUTER, "uppföljning"),
         "genomfort": (KLART, "genomfört"),
     },
@@ -118,7 +120,7 @@ HANDLINGSPLANER = Slag(
     antal="planer",
     faser={
         "uppdrag": (CIRKEL, "förslag, uppdrag eller arbete"),
-        "yttrande": (f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>', "yttrande"),
+        "yttrande": (BUBBLA, "yttrande"),
         "plan": (
             f'<path d="M3.5 1.5h6l3 3v10h-9z" {DRAG}/>'
             '<path d="M5.5 7.5h5M5.5 10h5" stroke="currentColor"/>',
@@ -126,7 +128,7 @@ HANDLINGSPLANER = Slag(
         ),
         "antagen": (FYLLD + BOCK, "antagen eller framtagen"),
         "uppfoljning": (RUTER, "uppföljning"),
-        "revidering": (f'<path d="M3 2h10L3 14h10z" {DRAG}/>', "revidering"),
+        "revidering": (TIMGLAS, "revidering"),
     },
     inledning=(
         "<p>Nämndens handlingsplaner år för år: vem som föreslog dem, när de "
@@ -192,4 +194,42 @@ REDOVISNINGAR = Slag(
     adr="0065-redovisningarna-foljs-som-handlingsplanerna.md",
 )
 
-SLAGEN = (LOKALBEHOV, INITIATIV, HANDLINGSPLANER, REDOVISNINGAR)
+DETALJPLANER = Slag(
+    id="detaljplaner",
+    kolumn="detaljplan",
+    rubrik="Detaljplaner",
+    sak="Plan",
+    saker="Planerna",
+    antal="planer",
+    faser={
+        "planbesked": (CIRKEL, "planbesked"),
+        "uppdrag": (f'<path d="M4 2.5v11l9-5.5z" {DRAG}/>', "planuppdrag"),
+        "samrad": (BUBBLA, "samråd"),
+        "granskning": (RUTER, "granskning"),
+        "godkannande": (FYLLD, "godkänd för fullmäktige"),
+        "antagande": (FYLLD + BOCK, "antagen"),
+        "overklagande": (TIMGLAS, "överklagad"),
+        "avslutad": (FYLLD + KRYSS, "planuppdraget avslutat"),
+    },
+    inledning=(
+        "<p>Detaljplanerna som nämnden arbetar med år för år: planbeskedet, "
+        "uppdraget att ta fram planen, samrådet, granskningen, antagandet och "
+        "ett överklagande eller ett avslutat planuppdrag. Varje ikon länkar "
+        "till sidan i dokumentet som visar steget.</p>"
+    ),
+    metod=(
+        "<p>Ett steg är ett beslut i nämndens, arbetsutskottets, "
+        "kommunstyrelsens eller fullmäktiges protokoll. Beredningen av "
+        "nämndens ärenden, informationen och avstämningarna står inte med, "
+        "och ett planbesked bara när det blev en plan på sidan. Varje steg "
+        "har en text som står på källans sida, och bygget prövar det.</p>"
+        "<p>En plan har ett namn på sidan, med fastighetsbeteckningen, även "
+        "när källorna kallar den olika. Ett år utan ikon betyder att inget "
+        "steg står i poolen det året, inte att inget hände; poolen saknar en "
+        "del protokoll. Sidan visar vad som står var och värderar inte "
+        "planerna.</p>"
+    ),
+    adr="0067-detaljplanerna-foljs-som-redovisningarna.md",
+)
+
+SLAGEN = (LOKALBEHOV, INITIATIV, HANDLINGSPLANER, REDOVISNINGAR, DETALJPLANER)

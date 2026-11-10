@@ -222,7 +222,8 @@ src/kommunhandlingar/
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
-                   handlingsplanerna, redovisningarna och avvikelserna
+                   handlingsplanerna, redovisningarna, detaljplanerna och
+                   avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -231,6 +232,7 @@ lokalbehov/<kommun>.csv  nämndernas lokalbehov steg för steg, skrivna för han
 initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna för hand (K37)
 handlingsplaner/<kommun>.csv  nämndernas handlingsplaner steg för steg, skrivna för hand (K38)
 redovisningar/<kommun>.csv  nämndernas redovisningar steg för steg, skrivna för hand (K42)
+detaljplaner/<kommun>.csv  detaljplanerna steg för steg, skrivna för hand (K44)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1977,3 +1979,28 @@ En kommun med en fil `redovisningar/<kommun>.csv` får en sida
 - **Tolkad:** ett steg `redovisad` har `tolkad` satt till `ja` när
   paragrafen inte själv säger att den svarar på direktivet och
   rubrikerna skiljer sig.
+
+## Detaljplaner
+
+Hur och varför står i
+[ADR-0067](decisions/0067-detaljplanerna-foljs-som-redovisningarna.md).
+En kommun med en fil `detaljplaner/<kommun>.csv` får en sida
+`<kommun>/<organ>/detaljplaner.html` för varje organ med rader i filen
+(K44). Organet är nämnden som tar fram planerna. Filen, kontrollen och
+sidan är redovisningarnas ([Redovisningar](#redovisningar)), med de här
+skillnaderna:
+
+- **Kolumnen** `detaljplan`: planens namn på sidan, med vad den gäller
+  och fastighetsbeteckningen, detsamma i alla steg.
+- **Vilka steg:** ett beslut i nämndens, arbetsutskottets,
+  kommunstyrelsens eller fullmäktiges protokoll. Arbetsutskottets
+  förslag till nämnden, informationen och avstämningarna står inte med,
+  och ett planbesked bara när det blev en plan i filen.
+- **Faserna** är `planbesked`, `uppdrag` (planuppdraget, eller
+  kommunstyrelsens uppdrag att ta fram en projektbeställning),
+  `samrad`, `granskning`, `godkannande` (nämnden godkänner planen för
+  antagande i fullmäktige), `antagande`, `overklagande` (ett beslut om
+  ett överklagande) och `avslutad` (planuppdraget avslutas).
+- **Värdet** används inte.
+- **Tolkad:** ett steg har `tolkad` satt till `ja` när källan kallar
+  planen något annat och inte själv säger att det är samma plan.
