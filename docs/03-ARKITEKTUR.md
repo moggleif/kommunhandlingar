@@ -2037,8 +2037,8 @@ med de här skillnaderna:
   den).
 - **Värdet** används bara i `bedomning`, och är ett av revisorernas ord:
   `inte`, `inte fullt ut`, `delvis`, `i stort`, `i huvudsak` eller
-  `i allt väsentligt`. Ordet står i stegets text, som står på källans
-  sida.
+  `i allt väsentligt`. Ordet står på källans sida, och testet för
+  Kungsbackas fil prövar att det också står i stegets text.
 - **Återkommande granskningar** – årsbokslutet, delårsrapporten, den
   löpande och den grundläggande granskningen – är en rad med ett steg
   per år.
