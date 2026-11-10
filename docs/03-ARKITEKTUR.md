@@ -1900,8 +1900,8 @@ skillnaderna:
   ("Sverigedemokraterna", "allianspartierna"), annars källans ord
   (till exempel fyra partier uppräknade med partinamn). En förkortning står på
   källans sida när den står inom parentes, som `(S)`, eller när partiets
-  namn står där, och `Alliansen` också när `(M)`, `(L)`, `(C)` och
-  `(KD)` alla står där (`webbplats/partier.py`); andra avsändare prövas som
+  namn står där, och `Alliansen` också när minst tre av `(M)`, `(L)`,
+  `(C)` och `(KD)` står där (`webbplats/partier.py`); andra avsändare prövas som
   andra värden. Så räknas varje parti en gång på sidan. Ledamöternas namn står inte i filen;
   de står i källan ett klick bort.
 - **Ordningen** inom ett år är den första fasen först och sedan

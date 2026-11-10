@@ -3,8 +3,9 @@
 En avsändare skrivs med partiets förkortning, eller Alliansen, också när
 källan skriver ut namnet. Förkortningen står på källans sida när den står
 inom parentes, som i "Initiativärende (S)", eller när partiets namn står
-där. Alliansen står också där när de fyra partiernas förkortningar står
-där, som i "Initiativärende (M) (L) (C) (KD)". Andra avsändare prövas som
+där. Alliansen står också där när minst tre av de fyra partiernas
+förkortningar står där, som i "Initiativärende (M) (L) (C) (KD)": ett
+parti kan sakna ledamot i nämnden eller vid mötet. Andra avsändare prövas som
 andra värden.
 """
 
@@ -33,6 +34,6 @@ def former(avsandare: str) -> tuple[str, ...]:
 
 
 def star_pa(avsandare: str, sidan: str) -> bool:
-    if avsandare == "Alliansen" and all(p in sidan for p in ALLIANSPARTIERNA):
+    if avsandare == "Alliansen" and sum(p in sidan for p in ALLIANSPARTIERNA) >= 3:
         return True
     return any(provbar(f) in sidan for f in former(avsandare))

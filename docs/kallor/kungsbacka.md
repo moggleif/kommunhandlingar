@@ -700,9 +700,9 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   fyra allianspartierna står bakom. Alliansens initiativ undertecknas
   "Moderaterna – Kristdemokraterna – Liberalerna - Centern", men
   protokollet räknar bara upp de närvarande ledamöterna från M, KD och C.
-  Där initiativet finns i handlingarna (eldning av trädgårdsavfall och
-  minireningsverken) är avsändaren `Alliansen`; annars står det första
-  partiet i protokollets uppräkning, `M`. Initiativet om att se över
+  Avsändaren är ändå `Alliansen`, med källa i initiativet där det
+  finns i handlingarna (eldning av trädgårdsavfall och
+  minireningsverken). Initiativet om att se över
   delegeringsförteckningen står med, men inte förteckningen själv.
   Myndighetsärenden mot enskilda (förelägganden, viten, avlopp,
   serveringstillstånd) står inte med.

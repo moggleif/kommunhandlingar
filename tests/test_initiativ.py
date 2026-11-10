@@ -101,9 +101,10 @@ class TestAvsandaren(unittest.TestCase):
         self.assertIn("allianspartierna", former("Alliansen"))
         self.assertEqual(former("Fyra partier"), ("Fyra partier",))
 
-    def test_alliansen_star_som_de_fyra_partiernas_forkortningar(self):
+    def test_alliansen_star_som_minst_tre_av_partiernas_forkortningar(self):
         self.assertTrue(star_pa("Alliansen", "Initiativärende(M)(L)(C)(KD)-Om"))
-        self.assertFalse(star_pa("Alliansen", "Initiativärende(M)(L)(C)-Om"))
+        self.assertTrue(star_pa("Alliansen", "Initiativärende(M)(KD)(C)-Om"))
+        self.assertFalse(star_pa("Alliansen", "Initiativärende(M)(C)-Om"))
         self.assertTrue(star_pa("SD", "Initiativ(SD)"))
 
 
