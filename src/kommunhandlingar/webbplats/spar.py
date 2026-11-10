@@ -114,7 +114,7 @@ def kallans_sida(steg: Steg, organ: set[str], sidtext: Sidtext) -> str:
 
 
 # Avsändaren får stå som partiets namn, eller Alliansen som de fyra
-# partiernas förkortningar, på sidan (partier.py).
+# partiernas förkortningar, minst tre av dem, på sidan (partier.py).
 def kontrollera_sidan(steg: Steg, slag: Slag, sidan: str) -> None:
     if provbar(steg.text) not in sidan:
         raise ValueError(f"texten står inte på {steg.kalla}")

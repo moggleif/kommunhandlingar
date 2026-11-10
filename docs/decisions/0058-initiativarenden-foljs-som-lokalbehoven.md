@@ -135,6 +135,13 @@ ledamöternas namn. Avsändaren blir då `Alliansen`, och bygget godtar
 det när alla fyra förkortningarna står på sidan. Partinamn utan
 förkortningar skrivs fortfarande som källan skriver dem.
 
+Tillägg 2026-11-10, när Miljö & Hälsoskydd kom med: Alliansens
+initiativ i den nämnden undertecknas av alla fyra partierna, men
+protokollet räknar bara upp de närvarande ledamöterna från (M), (KD)
+och (C). Projektägaren bestämde att initiativet ändå är Alliansens,
+även om ett parti saknas. Bygget godtar därför `Alliansen` när minst
+tre av de fyra förkortningarna står på sidan.
+
 Under genomgången visade det sig att flera möten har protokollet i flera
 filer, och att några initiativ bara står i den andra filen. En sökning
 som bara läser `protokoll.md` missar dem.
