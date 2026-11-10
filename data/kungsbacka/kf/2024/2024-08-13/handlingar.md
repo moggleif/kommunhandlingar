@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5a53603d190a25d8087317b6/1723443539
 sha256: a0c94c3c23b577f188b9a4354282837154cbe5e5bf86b1853b569f3551ac6f0c
 bytes: 13792747
 sidor: 122
-hamtad: 2026-10-25T10:26:21+00:00
-konverterad: 2026-10-25T10:26:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T01:07:10+00:00
+konverterad: 2026-11-10T01:07:50+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad]
@@ -1987,7 +1987,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 45 -->
 
-| ” ;
 YE  Soerigedemokraterna
 
 Kungsbacka 200611

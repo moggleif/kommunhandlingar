@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3487527419ddc981c034c4b2/1777875194
 sha256: ea35ee551b44eaa7c9d5edda19dd43f0131bd2fb2023b5b21f39010050c3fe47
 bytes: 31430770
 sidor: 82
-hamtad: 2026-10-25T09:25:21+00:00
-konverterad: 2026-10-25T09:28:24+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:01:49+00:00
+konverterad: 2026-11-10T00:05:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr]
@@ -422,14 +422,11 @@ I april deltog en delegation från Halland på nationella Finsamkonferensen i St
 
 Electronically signed
 
-https://sign
-
 Sähköisest
 
 visma. net/sv/document-check
 
 allekirjoitettu / Elektroniskt signerats
-/aB482353-2646-45d682053400F109A5R1T52
 
 Elektronisk s
 
@@ -1128,9 +1125,6 @@ masig [
 <!-- sida 26 -->
 
 Electronically signed / Sähköisest
-https
-
-sign
 
 visma. net/sv/document-check
 
@@ -2159,10 +2153,6 @@ LÄ KN
 
 <!-- sida 49 -->
 
-jewall se/Documents/MoJoLoLoC/PRIVATA PROJEKT/VILLA
-
-https://liljewall-my.sharepoint.com/personal/mabe. lilj
-
 WS
 
 Ansökan om planbesked för två fastigheter på
@@ -2172,8 +2162,7 @@ Göteborg, 260124
 
 Ansökan
 
-HH. Markus Bergerheim samt liilljoch BINNNNIN:ger sedan sju år
-
+ch Markus Bergerheim samt liillloch BIN: ger sedan sju år
 fastigheten Bukärr 22:36. Fastigheten ligger i Särö i området Budskär på Hultaberget
 som delar Maleviken och Skörvalla viken. Vår avsikt är att ansöka om planbesked för
 två fastigheter på Bukärr 22:36 i Kungsbacka kommun. Det är onekligen en
@@ -2182,15 +2171,17 @@ bostadsändamål och önskar att lämpligheten prövas i ett planarbete.
 
 119\)
 
-Telefo
-
 Liljewall arkitekter AB
 
-n 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
+Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
+
+jewall se/Documents/MoJoLoLoC/PRIVATA PROJEKT/VILLA
+
+https://liljewall-my.sharepoint.com/personal/mabe. lilj
 
 <!-- sida 50 -->
 
-[sökväg]
+2 (9)
 
 WS
 
@@ -2237,15 +2228,15 @@ aktualiseras.
 Påverkan på närboende bedöms som begränsad. Endast två angränsande
 fastigheter berörs direkt, och förslaget bedöms inte ge betydande negativa effekter
 
-2 (9)
-
 Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
+[sökväg]
+
 <!-- sida 51 -->
 
-[sökväg]
+3 (9)
 
 WS
 
@@ -2288,9 +2279,6 @@ ett större omland. Områden som ligger på gångavstånd
 till skola, mataffär och hållplats kallas här centrum och
 områden som ligger på cykelavstånd kallas centrumnära.
 
-CE >
-VALE
-
 Gällande detaljplan
 
 Den gällande detaljplan S.94 fastställdes av Länsstyrelsen den 7 november år 1955.
@@ -2301,15 +2289,15 @@ Det är rimligt att anta att planen togs fram för att ge de befintliga fastighe
 planstöd genom byggrätter. Fastigheten Bukärr 22:36 var vid tiden obebyggd,
 förmodligen på grund av dess förhållandevis kuperade terräng. Därav gavs området
 
-3 (9)
-
 Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
-<!-- sida 52 -->
-
 [sökväg]
+
+VALE
+
+<!-- sida 52 -->
 
 419\)
 
@@ -2338,9 +2326,9 @@ Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
-<!-- sida 53 -->
-
 [sökväg]
+
+<!-- sida 53 -->
 
 WS
 
@@ -2385,9 +2373,9 @@ Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
 Liljewall arkitekter AB
 
-<!-- sida 54 -->
-
 [sökväg]
+
+<!-- sida 54 -->
 
 ;
 
@@ -2419,9 +2407,11 @@ Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
 Liljewall arkitekter AB
 
+[sökväg]
+
 <!-- sida 55 -->
 
-[sökväg]
+7 (9)
 
 Bild från 22:36 mot föreslagen bebyggelse
 Teknisk försörjning
@@ -2457,15 +2447,15 @@ Ansökan om planbesked omfattar två tomter på fastigheten 22:36 i anslutning t
 vägsamfälligheten Bukärr S:36. Eftersom ägarna även är delägare, har de rådighet
 över samfälligheten och ser i den aspekten i dagsläget inga hinder i planansökan.
 
-7 (9)
-
 Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
+[sökväg]
+
 <!-- sida 56 -->
 
-[sökväg]
+8 (9)
 
 WS
 
@@ -2496,15 +2486,13 @@ eller utsikt. Fastighet 22:5 ligger lägre än föreslagen byggrätt 2. Den kan 
 påverkas av sen eftermiddagssol. Bukärr 22:36 har idag en del vegetation som
 säkerligen behöver tas ned vid byggnation. Det är möjligt att förutsättningarna för
 
-8 (9)
-
 Liljewall arkitekter AB
 
 Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
-<!-- sida 57 -->
-
 [sökväg]
+
+<!-- sida 57 -->
 
 WS
 
@@ -2552,6 +2540,8 @@ mabe(Oliljewall.se
 Telefon 010-205 10 80 infoQliljewall.se www.liljewall.se Org.nr 556145-0379
 
 Liljewall arkitekter AB
+
+[sökväg]
 
 <!-- sida 58 -->
 
@@ -2781,21 +2771,15 @@ Du kan välja att bifoga en situationskarta med tydliga markeringar istället f�
 
 fastigheterna på denna kartan.
 
-da p
-ot
-ön R
-SE
 [
 I
 NR | ——
 fn
 X ja NE, =
 rr NY [d
-EN Y
 än : "ng X | :
 ÄR . fe ry s HEP
 \+ = Re S |
-Aa
 Ya a
 I I I | osten BEA 2 Pp kung
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfbe7ad0/17774703310
 sha256: 610d70688db761a36c6d618d46f852220323e285394af4a208c7a772a5c89254
 bytes: 14442892
 sidor: 332
-hamtad: 2026-10-26T06:28:56+00:00
-konverterad: 2026-10-26T06:30:16+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T02:11:39+00:00
+konverterad: 2026-11-10T02:12:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3888,9 +3888,9 @@ EKONOMI
 
 17
 
-RESURSBEHOV    INTERNT  FÖRVALTNINGEN     FÖR TEKNIK
+RESURSBEHOV    INTERNT   FÖRVALTNINGEN    FÖR  TEKNIK
 
-SAMMANSTÄLLNING      AV KOSTNADER    OCH  INTÄKTER
+SAMMANSTÄLLNING      AV  KOSTNADER   OCH  INTÄKTER
 
 STRATEGI 2
 STRATEGI 1
@@ -3898,28 +3898,47 @@ STRATEGI 1
 Teknik etablerar laddinfrastruktur. Privata aktör etablerar ny laddinfrastruktur.
 Privat aktör drift & underhåller Äger, drift & underhåller ny/befintlig
 laddinfrastrukturen             laddinfrastruktur
+
 Etablering:                    Etablering:
 Ca 100 000 – 300 000 kr per laddningsstation 0 kr
 Laddutrustning:                Laddutrustning:
 Ca 50 000 kr per laddningsstation (två 0 kr
-laddningspunkter)              Kostnader för drift och underhåll:
-Abonnemangskostnader           0 kr
-Ca 3 000 kr per laddningsstation/månad Intäkter för såld el:
-Intäkter för såld el, nya och befintliga 0 kr
-laddningsstationer:            Intäkt - aktör köper ut kommunens befintliga
-Intäkter för såld el från samtliga laddinfrastruktur:
-laddningsstationer, olika varje månad, beror på Ca 5 000 – 10 000 kr per site/anläggning – Sker
 
-hur mycket de använts          genom upphandling, den aktör som betalar
-Servicekostnader för befintliga mest för den befintliga laddinfrastrukturen
-laddningsstationer:            vinner upphandlingen
-Ca 200 000 – 300 000 kr per år för alla 52 Intäkt för arrende:
-laddningsstationer             Aktören betalar ett arrende för marken där
-Samt:                          laddinfrastrukturen skall placeras
-Ca 25 000 kr per laddningsstation Resurs 50%:
-Info: När en laddningsstation blir 7 – 8 år Ca 400 000 kr/år utifrån löneberäkning från år
-gammal behöver laddningsutrustning 2024
+laddningspunkter)
+Abonnemangskostnader
+Ca 3 000 kr per laddningsstation/månad
+Intäkter för såld el, nya och befintliga
+laddningsstationer:
+Intäkter för såld el från samtliga
+laddningsstationer, olika varje månad, beror på
+hur mycket de använts
+Servicekostnader för befintliga
+laddningsstationer:
+Ca 200 000 – 300 000 kr per år för alla 52
+laddningsstationer
+Samt:
+Ca 25 000 kr per laddningsstation
+Info: När en laddningsstation blir 7 – 8 år
+gammal behöver laddningsutrustning
+
 uppdateras och förnyas, helt eller delvis. Tekniks
+
+Kostnader för drift och underhåll:
+0 kr
+Intäkter för såld el:
+0 kr
+Intäkt - aktör köper ut kommunens befintliga
+laddinfrastruktur:
+Ca 5 000 – 10 000 kr per site/anläggning – Sker
+genom upphandling, den aktör som betalar
+mest för den befintliga laddinfrastrukturen
+vinner upphandlingen
+Intäkt för arrende:
+Aktören betalar ett arrende för marken där
+laddinfrastrukturen skall placeras
+Resurs 50%:
+Ca 400 000 kr/år utifrån löneberäkning från år
+2024
 
 [Tabell 111-1](handlingar.tabeller/111-1.csv)
 
@@ -3944,44 +3963,74 @@ Resurs 100%:
 Ca 800 000 kr/år utifrån löneberäkning från år
 2024
 
-SAMMANSTÄLLNING      AV KOSTNADER    OCH  INTÄKTER
+SAMMANSTÄLLNING      AV  KOSTNADER   OCH  INTÄKTER
 
-STRATEGI 3                     STRATEGI 4
+STRATEGI 3
 
-Ingen nyetablering av laddinfrastruktur. Privata aktörer etablerar ny laddinfrastruktur
-Privat aktör drift & underhåller Drift & underhåller ny/befintlig
-laddinfrastrukturen             laddinfrastruktur
+Ingen nyetablering av laddinfrastruktur.
+Privat aktör drift & underhåller
+laddinfrastrukturen
 
-Abonnemangskostnader           Etablering:
-Ca 3 000 kr per laddningsstation/månad 0 kr
-Intäkter för såld el av befintliga Laddutrustning:
-laddningsstationer:            0 kr
-Intäkter för såld el, olika varje månad, beror på Abonnemangskostnader för befintliga
-hur mycket de använts          laddningsstationer:
-Servicekostnader för befintliga Ca 3 000 kr per laddningsstation/månad
-laddningsstationer:            Intäkter för såld el av befintliga
-Ca 200 000 – 300 000 kr per år för alla 52 laddningsstationer:
-laddningsstationer             Intäkter för såld el, olika varje månad, beror på
-Samt:                          hur mycket de använts
-Ca 25 000 kr per laddningsstation Servicekostnader för befintliga
-Info: När en laddningsstation blir 7 – 8 år laddningsstationer:
-gammal behöver laddningsutrustning Ca 200 000 – 300 000 kr per år för alla 52
-uppdateras och förnyas, helt eller delvis. Tekniks laddningsstationer
-laddningsstationer är i dagsläget 8 år gamla och Samt: Ca 25 000 kr per laddningsstation
-behöver förnyas inom en snar framtid. Info: När en laddningsstation blir 7 – 8 år
-Beräkning: 25 0000 (kr) x 52   gammal behöver laddningsutrustning
-(laddningsstationer) = 1 300 000 kr uppdateras och förnyas, helt eller delvis. Tekniks
-Denna service återkommer ca var 8e år. laddningsstationer är i dagsläget 8 år gamla och
-Resurs 30 %:                   behöver förnyas inom en snar framtid.
-Ca 250 000 kr/år utifrån löneberäkning från år Beräkning: 25 0000 (kr) x 52
-2024                           (laddningsstationer) = 1 300 000 kr.
+Abonnemangskostnader
+Ca 3 000 kr per laddningsstation/månad
+Intäkter för såld el av befintliga
+laddningsstationer:
+Intäkter för såld el, olika varje månad, beror på
+hur mycket de använts
+Servicekostnader för befintliga
+laddningsstationer:
+Ca 200 000 – 300 000 kr per år för alla 52
+laddningsstationer
+Samt:
+Ca 25 000 kr per laddningsstation
+Info: När en laddningsstation blir 7 – 8 år
+gammal behöver laddningsutrustning
+uppdateras och förnyas, helt eller delvis. Tekniks
+laddningsstationer är i dagsläget 8 år gamla och
+behöver förnyas inom en snar framtid.
+Beräkning: 25 0000 (kr) x 52
+(laddningsstationer) = 1 300 000 kr
+Denna service återkommer ca var 8e år.
+Resurs 30 %:
+Ca 250 000 kr/år utifrån löneberäkning från år
+2024
+
+STRATEGI 4
+
+Privata aktörer etablerar ny laddinfrastruktur
+Drift & underhåller ny/befintlig
+laddinfrastruktur
+
+Etablering:
+0 kr
+Laddutrustning:
+0 kr
+Abonnemangskostnader för befintliga
+laddningsstationer:
+Ca 3 000 kr per laddningsstation/månad
+Intäkter för såld el av befintliga
+laddningsstationer:
+Intäkter för såld el, olika varje månad, beror på
+hur mycket de använts
+Servicekostnader för befintliga
+laddningsstationer:
+Ca 200 000 – 300 000 kr per år för alla 52
+laddningsstationer
+Samt: Ca 25 000 kr per laddningsstation
+Info: När en laddningsstation blir 7 – 8 år
+gammal behöver laddningsutrustning
+uppdateras och förnyas, helt eller delvis. Tekniks
+laddningsstationer är i dagsläget 8 år gamla och
+behöver förnyas inom en snar framtid.
+Beräkning: 25 0000 (kr) x 52
+(laddningsstationer) = 1 300 000 kr.
 Denna service återkommer ca var 8e år.
 Intäkt för arrende av mark för nyetablering av
 laddinfrastruktur:
 Aktören betalar ett arrende för marken där
-
 laddinfrastrukturen skall placeras
 Resurs 60 %:
+
 Ca 500 000 kr/år utifrån löneberäkning från år
 2024
 
@@ -6392,7 +6441,7 @@ vattenverket vid Fjärås bräcka med vatten från sjön Lygnern och grundvatten
 Kommunen har nyligen (maj 2024) lämnat in en ansökan till Mark- och miljödomstolen
 om ett högre vattenuttag från Lygnern för att bättre kunna försörja kommuninvånarna.
 För att vattenbalansbudgeten ska hålla beräknas dock invånarna behöva minska sin
-vattenförbrukning (från ca 130 I till 100 I per dygn).
+vattenförbrukning (från ca 130 IL till 100 I per dygn).
 
 Lygnerns vatten rinner ut via Sundsjön och Stensjön till Rolfsån som är ett skyddat
 område enligt Natura 2000. Livsmiljön för de hotade djuren havsnejonöga,

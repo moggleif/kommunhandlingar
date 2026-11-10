@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.38e8b5fa1a0421c38b9eafe8/1788445321
 sha256: 2eb76f1ec2577aacf3c38aa1987f6887be7e377b6939a95bbe005027f3f50a0c
 bytes: 16091722
 sidor: 204
-hamtad: 2026-10-25T09:50:42+00:00
-konverterad: 2026-10-25T09:52:16+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:29:04+00:00
+konverterad: 2026-11-10T00:30:42+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1033,7 +1033,7 @@ begär det).
 
 e E-postadress.
 
-Annat som har betydelse för att domstolen ska kunna nå er.
+e Annat som har betydelse för att domstolen ska kunna nå er.
 
 Om ni har handlingar som ni anser stödjer ert överklagande bifogar ni
 kopior på dessa. Kontakta Länsstyrelsen i förväg om ni behöver bifoga
@@ -3970,7 +3970,7 @@ Exempel på Utrustning | Tillstånds- Tillsyn? ' Ökad Ökad Ökad
 verksamhet prövning kostnad för kostnad för kostnad för
 (ansöknings- ett tillstånd = etttillstånd = etttillstånd
 avgift) med med med
-giltighetstid = giltighetstid + giltighetstid
+giltighetstid = giltighetstid | giltighetstid
 Sår- 5år- Sår-
 förnyelse förnyelse förnyelse
 2027 2028 2029

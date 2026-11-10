@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe28039656/1733745854
 sha256: 080324e1840a373322da103dd39619782be1991a839ce4bdd5a75422768a2b44
 bytes: 13965447
 sidor: 228
-hamtad: 2026-10-25T10:31:32+00:00
-konverterad: 2026-10-25T10:32:26+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T01:12:48+00:00
+konverterad: 2026-11-10T01:13:44+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -357,7 +357,7 @@ och mer optimistiska siffror finns för 2021 och 2022 i årsredovisningen för 2
 Delårsbokslutet kommunen 2024
 
 Indikator 2004-2002 1-12023 "2024 NOG
-Avfall från hushåll ska minska med 30 26 per 35005 1 BROS 1100 DE fras = MINSKA
+Avfall från hushåll ska minska med 30 26 per 005 1 BROS 00 DE fras = MINSKA
 invånare från 2020 till 2030. Startvärde 100,
 
 målvärde 2030 är 70.
@@ -447,8 +447,6 @@ e Kommunen ska säkerhetsställa att kustlinjen städas regelbundet
 Avfallsplanen generellt, inte bara de ovan nämnda?
 
 27 oktober 2024
-
-| IM Mun
 
 Maria Losman och Elisabeth Sahlsten
 Miljöpartiet
@@ -2108,232 +2106,337 @@ för färdtjänsten har kommunen en skyldighet att upprätta ett Trafikförsörj
 följa lagstiftningen ska programmet omfatta minst tre fastställda punkter kopplat till miljö, resor-
 nas omfattning samt prissättning. Kungsbackas kommunala trafikförsörjningsprogram utgår ifrån
 Regionens och följer därför struktur och tidsperiod så långt det är möjligt.
+
 Detta dokument beskriver den särskilda kollektivtrafikens förutsättningar samt strategier och
 målsättningar och är en komplettering av Region Hallands Trafikförsörjningsprogram 2021-
-
 2025, Kapitel 8 Särskild kollektivtrafik, I övrigt gäller för Kungsbacka, likt Hallands resterande
 kommuner, Region Hallands Trafikförsörjningsprogram.
 
-Särskild Kollektivtrafik          Färdtjänst
-Färdtjänsten regleras i Lag (1997:736) om
+Särskild Kollektivtrafik
+
 Den särskilda kollektivtrafiken erbjuds en
-färdtjänst och enligt lagen är kommunen
 definierad målgrupp med särskilt tillstånd
-ansvarig för färdtjänst. Färdtjänst ska enligt
 eller behörighet till skillnad från den
-färdtjänstlagen ses som en form av kollektiv-
 allmänna kollektivtrafiken som är öppen för
-trafik. 2022 var genomsnittet i Sverige drygt
 alla. I Halland benämns färdtjänst, sjukresor
-33 personer med färdtjänsttillstånd per 1000
 och skolskjuts som former av särskild kollek-
-invånare. För Halland var samma siffra ca
 tivtrafik
-37 per 1 000 invånare och 32 per 1 000
-Den särskilda kollektivtrafiken erbjuds en de- invånare för Kungsbacka1.
+
+Den särskilda kollektivtrafiken erbjuds en de-
 finierad målgrupp med särskilt tillstånd eller
-Riktlinjerna är att en resa som kan ske med den
 behörighet till skillnad från den allmänna
-allmänna kollektivtrafiken ska ske med den all-
 kollektivtrafiken som är öppen för alla. I
-männa kollektivtrafiken och att en resa ska
 Halland benämns färdtjänst, sjukresor och
-samordnas när så är möjligt. Till skillnad från
 skolskjuts som former av särskild kollektiv-
-Hallands övriga kommuner, som lämnat över
 trafik. Den särskilda kollektivtrafiken utförs
-ansvaret till Region Halland, ansvarar
 med anropsstyrd trafik eller särskilt arrange-
-Kungsbacka kommun för myndighets-
 rade linjer såsom skolbuss- och sjukrese-
-utövningen och utföranden av färdtjänst och
 linjer.
-riksfärdtjänst.
+
 Gemensamt för den särskilda kollektiv-
-Nämnden för Teknik beslutar om regelverket för
 trafiken är att det är olika uppdragsgivare
-färdtjänst i dokumentet Tillämpningsregler2 som
 och kostnadsbärare men att samordning och
-ses över och revideras varje år för att hållas
 samplanering sker inom respektive trafikslag
-uppdaterade utefter rådande nationell praxis.
 vilket beskrivs nedan under varje område.
-Den särskilda kollektivtrafiken ska sträva Egenavgifterna och den geografiska zonindel-
-efter att spegla den allmänna kollektiv- ningen för färdtjänsten baseras på den av
-trafiken, där det är rimligt och möjligt, men kommunfullmäktige beslutade Taxan3. Taxan är
-med hänsyn till resenärens behov utifrån kopplad till taxan för den allmänna kollektiv-
-rättigheter som ges i lagstiftning och följande trafiken och justeras av nämnden för Teknik
-myndighetsutövning.               utefter Västtrafiks beslutade ändringar av
-kollektivtrafiken.
+Den särskilda kollektivtrafiken ska sträva
+efter att spegla den allmänna kollektiv-
+trafiken, där det är rimligt och möjligt, men
+med hänsyn till resenärens behov utifrån
+rättigheter som ges i lagstiftning och följande
+
+myndighetsutövning.
 Särskild Kollektivtrafik är Region Hallands
-och även Kungsbackas, benämning på det För att resenären ska kunna använda färdtjänst
-som på nationellt plan kallas Särskilda krävs ett individuellt beslut och dessa beslut
-persontransporter.                fattas av Förvaltningen för Teknik i Kungsbacka
+och även Kungsbackas, benämning på det
+som på nationellt plan kallas Särskilda
+persontransporter.
+
+Färdtjänst
+Färdtjänsten regleras i Lag (1997:736) om
+färdtjänst och enligt lagen är kommunen
+
+ansvarig för färdtjänst. Färdtjänst ska enligt
+färdtjänstlagen ses som en form av kollektiv-
+trafik. 2022 var genomsnittet i Sverige drygt
+33 personer med färdtjänsttillstånd per 1000
+invånare. För Halland var samma siffra ca
+37 per 1 000 invånare och 32 per 1 000
+invånare för Kungsbacka1.
+
+Riktlinjerna är att en resa som kan ske med den
+allmänna kollektivtrafiken ska ske med den all-
+männa kollektivtrafiken och att en resa ska
+samordnas när så är möjligt. Till skillnad från
+Hallands övriga kommuner, som lämnat över
+ansvaret till Region Halland, ansvarar
+Kungsbacka kommun för myndighets-
+utövningen och utföranden av färdtjänst och
+riksfärdtjänst.
+
+Nämnden för Teknik beslutar om regelverket för
+färdtjänst i dokumentet Tillämpningsregler2 som
+ses över och revideras varje år för att hållas
+uppdaterade utefter rådande nationell praxis.
+Egenavgifterna och den geografiska zonindel-
+ningen för färdtjänsten baseras på den av
+kommunfullmäktige beslutade Taxan3. Taxan är
+
+kopplad till taxan för den allmänna kollektiv-
+trafiken och justeras av nämnden för Teknik
+utefter Västtrafiks beslutade ändringar av
+kollektivtrafiken.
+För att resenären ska kunna använda färdtjänst
+krävs ett individuellt beslut och dessa beslut
+fattas av Förvaltningen för Teknik i Kungsbacka
+
 1 Regionfakta.com/hallands-lan/samhallets- 3 Särskild kollektivtrafik – Taxa,
 service/fardtjansttillstand/      Kommunfullmäktige 9 april 2024 § 58
 2 Tillämpningsregler särskild kollektivtrafik – KS2023-00666
 Färdtjänst, § 9 TE-2023-00717
-Kungsbacka kommun            Trafikförsörjningsprogram          2 (5)
+
+Kungsbacka kommun             Trafikförsörjningsprogram         2 (5)
 
 <!-- sida 59 -->
 
-kommun. Innehållet i besluten används av • Region Halland har som mål att minst 30
-beställningscentralen när resenären gör sin procent av alla sjukresor över kommun-
-resebeställning och i detta beslut framgår om gränsen sker med sjukreselinjen.
-resenären har särskilda behov. Det kan till • Fler resor bör ske inom den allmänna
-exempel framgå om resenären enbart kan sitta kollektivtrafiken.
+kommun. Innehållet i besluten används av
+beställningscentralen när resenären gör sin
+resebeställning och i detta beslut framgår om
+resenären har särskilda behov. Det kan till
+exempel framgå om resenären enbart kan sitta
 fram i fordonet eller om det finns restriktioner
-• Resorna samordnas när så är möjligt både
 för samåkning.
-med andra sjukresor men även med färd-
-• Färdtjänst kompenserar inte brist på tjänst och skolskjutsar.
+
+• Färdtjänst kompenserar inte brist på
 allmänna kommunikationer.
-Skolskjutstrafik5
 • En resa som kan ske med den allmänna
-kollektivtrafiken ska ske med den allmänna Enligt Skollagen (2010:800) har elever i grund-
-kollektivtrafiken.              skola med offentlig huvudman rätt till kostnads-
-fri skolskjuts till den skola som eleven placeras i
+kollektivtrafiken ska ske med den allmänna
+kollektivtrafiken.
+
 • Riktlinjer och tillämpningar ska så långt det
-av kommunen. Det finns även möjlighet för
 är möjligt anpassas till kollektivtrafiken.
-elever att bli berättigade skolskjuts till annan
 • Resorna samordnas när så är möjligt
+
+Riksfärdtjänst
+Resor med beviljade tillstånd till riksfärdtjänst
+bokas hos företaget Riksfärdtjänst i Sverige AB.
+
+RIAK
+
+I Kungsbacka erbjuds resenärer också möjlig-
+heten till så kallade RIAK-resor (Resor i annan
+kommun), vilket ger resenären möjligheten att
+åka med upphandlade taxibolag till ett
+subventionerat pris. RIAK är en del av riksf-
+ärdtjänst.
+
+Sjukresor4
+Grunderna för sjukresor styrs av Lag om rese-
+
+kostnadsersättning vid sjukresa (1991:419).
+Sjukvårdshuvudmannen, det vill säga Region
+Halland, ansvarar för prövning och resekost-
+nadsersättning vid sjukresor. För sjukresor finns
+ett särskilt regelverk om vilket Regionstyrelsen
+beslutar. Ungefär 10–12 procent av alla
+vårdbesök ger upphov till en sjukresa. Utgångs-
+punkten för en sjukresa är att den ska utföras
+med det för samhället billigaste färdsättet.
+Resorna samplaneras med övrig anropsstyrd
+trafik och organiseras av Ambulanssjukvården
+Halland. Beställning av sjukresor görs via
+Hallandstrafikens beställningscentral.
+
+4 Kapitlet är kopierat från Regionens
+trafikförsörjningsprogram för att skapa en
+helhetsöversikt
+
+• Region Halland har som mål att minst 30
+procent av alla sjukresor över kommun-
+gränsen sker med sjukreselinjen.
+• Fler resor bör ske inom den allmänna
+kollektivtrafiken.
+
+• Resorna samordnas när så är möjligt både
+med andra sjukresor men även med färd-
+tjänst och skolskjutsar.
+
+Skolskjutstrafik5
+Enligt Skollagen (2010:800) har elever i grund-
+skola med offentlig huvudman rätt till kostnads-
+fri skolskjuts till den skola som eleven placeras i
+av kommunen. Det finns även möjlighet för
+elever att bli berättigade skolskjuts till annan
+
 skola, såväl privata som offentliga, än den
 kommunen har placerat eleven om skolskjutsen
-Riksfärdtjänst
 kan ske utan ekonomiska eller organisatoriska
-Resor med beviljade tillstånd till riksfärdtjänst
 svårigheter. Kommunen är huvudman för
-bokas hos företaget Riksfärdtjänst i Sverige AB.
 skolan och står för hela kostnaden. Kommunen
 är därmed skyldig att anordna skolskjuts om
-RIAK
 skolskjuts behövs på grund av färdvägens
-I Kungsbacka erbjuds resenärer också möjlig- längd, trafikförhållanden, funktionsnedsättning
-heten till så kallade RIAK-resor (Resor i annan hos elev eller någon annan särskild
-kommun), vilket ger resenären möjligheten att omständighet. Myndighetsutövningen, beslut
-åka med upphandlade taxibolag till ett om vem som har rätt till skolskjuts och hur, får
-subventionerat pris. RIAK är en del av riksf- inte överlåtas till någon annan organisation utan
-ärdtjänst.                        det är kommunens angelägenhet. Det finns
+längd, trafikförhållanden, funktionsnedsättning
+hos elev eller någon annan särskild
+omständighet. Myndighetsutövningen, beslut
+om vem som har rätt till skolskjuts och hur, får
+inte överlåtas till någon annan organisation utan
+det är kommunens angelägenhet. Det finns
 stöd i kollektivtrafiklagen (2010:1065) för
-Sjukresor4
 kommunen att överlåta upphandling och sam-
-Grunderna för sjukresor styrs av Lag om rese- ordning till den regionala kollektivtrafik-
-kostnadsersättning vid sjukresa (1991:419). myndigheten. I Halland upphandlar och
-Sjukvårdshuvudmannen, det vill säga Region samordnar Hallandstrafiken skolskjutstrafiken i
-Halland, ansvarar för prövning och resekost- samtliga kommuner. Detta är en bra förut-
-nadsersättning vid sjukresor. För sjukresor finns sättning för att samordning och samplanering
-ett särskilt regelverk om vilket Regionstyrelsen mellan skolskjutstrafik och den allmänna
-beslutar. Ungefär 10–12 procent av alla kollektivtrafiken ska kunna ske. En utökad sam-
-vårdbesök ger upphov till en sjukresa. Utgångs- ordning, vid till exempel upphandling ger
-punkten för en sjukresa är att den ska utföras fördelar såsom bättre kostnadseffektivitet, till-
-med det för samhället billigaste färdsättet. gänglighet till kollektivtrafik på landsbygd samt
-Resorna samplaneras med övrig anropsstyrd mindre utsläpp då samma fordon kan användas
-trafik och organiseras av Ambulanssjukvården till både skolelever och resenärer i den
-Halland. Beställning av sjukresor görs via allmänna kollektivtrafiken.
-Hallandstrafikens beställningscentral.
+ordning till den regionala kollektivtrafik-
+myndigheten. I Halland upphandlar och
+samordnar Hallandstrafiken skolskjutstrafiken i
+samtliga kommuner. Detta är en bra förut-
+sättning för att samordning och samplanering
+
+mellan skolskjutstrafik och den allmänna
+kollektivtrafiken ska kunna ske. En utökad sam-
+ordning, vid till exempel upphandling ger
+fördelar såsom bättre kostnadseffektivitet, till-
+gänglighet till kollektivtrafik på landsbygd samt
+mindre utsläpp då samma fordon kan användas
+till både skolelever och resenärer i den
+allmänna kollektivtrafiken.
+
 • Samordning ska ske med den allmänna
 kollektivtrafiken.
-4 Kapitlet är kopierat från Regionens 5 Kapitlet är kopierat från Regionens
-trafikförsörjningsprogram för att skapa en trafikförsörjningsprogram för att skapa en
-helhetsöversikt                   helhetsöversikt
+
+5 Kapitlet är kopierat från Regionens
+trafikförsörjningsprogram för att skapa en
+helhetsöversikt
 
 <!-- sida 60 -->
 
-• Regelverk och riktlinjer ska så långt det är öka nyttjandet av kommunens digitala tjänster6
-möjligt utformas gemensamt.     varför ett stort arbete kring förenkling och
-• Resorna samordnas när så är möjligt både digitalisering av processen för ansökan av
-med allmän kollektivtrafik men även med färdtjänst där kommunen bistår den sökande
-andra skolskjutsresor samt färdtjänst och med kontakten med vården har gjorts och
-sjukresor.                      kommer att fortsätta utvecklas.
+• Regelverk och riktlinjer ska så långt det är
+möjligt utformas gemensamt.
+• Resorna samordnas när så är möjligt både
+med allmän kollektivtrafik men även med
+andra skolskjutsresor samt färdtjänst och
+sjukresor.
 
-Målbild Särskild kollektivtrafik
 Strategier och målsättningar
-Kungsbacka kommuns målsättning är att öka
 Den särskilda kollektivtrafiken har sin ut-
-integrationen av färdtjänst och allmän kollektiv-
+
 gångspunkt i olika lagrum och har
-trafik. I takt med att den allmänna kollektiv-
 organisatoriskt olika uppdragsgivare och
-trafiken anpassas allt mer till olika personers
 kostnadsbärare. Samverkansavtal och riktlinjer
-fysiska och psykiska förutsättningar minskar
 ser olika ut men den gemensamma nämnaren
-också behovet av färdtjänst och riksfärdtjänst
 är fokus på den tjänst som ska levereras och
-med personbil och specialfordon. Men
 under vilka förutsättningar. Samverkan mellan
-kommunen räknar ändå med att behovet av
 de olika parterna, kostnadsbärare och utförare,
-färdtjänst kommer att kvarstå för ett visst antal
 är ett viktigt inslag för att nå en ökad förståelse
-personer.
 kring den komplexa process som styr verksam-
 heten och driver kostnader. Denna samverkan
-Grunder  för prissättning
 är viktig för att gemensamt identifiera dessa
 faktorer och möjliga åtgärder för att uppnå en
-Färdtjänst
 social- och ekonomisk hållbarhet. Särskilt viktigt
-är det att samverka när förändringar sker Enligt beskrivning ovan baseras färdtjänstens
-gällande regelverk och riktlinjer eller egenavgifter på den, av kommunfullmäktige,
-beslutade Taxan7. Taxan är kopplad till taxan
-för den allmänna kollektivtrafiken och justeras
+är det att samverka när förändringar sker
+gällande regelverk och riktlinjer eller
+
 ÖVERGRIPANDE STRATEGIER
-av nämnden för Teknik utefter Västtrafiks
 GÄLLANDE DEN SÄRSKILDA
-beslutade ändringar av kollektivtrafiken. Detta
 KOLLEKTIVTRAFIKEN FÖR HALLAND
-beslut fastställdes av Kommunfullmäktige den 9
-april 2024, § 58 KS2023-00666,
+
 • Säkra samhällstjänsterna inom den
 särskilda kollektivtrafiken med fokus
-Riksfärdtjänst
 på långsiktig social och ekonomisk
-hållbarhet.                    ”Vid resa med riksfärdtjänst skall resenären
-betala en viss avgift, den s k egenavgiften.
+hållbarhet.
+
 • Utveckla former för samverkan och
-Egenavgiftens storlek skall motsvara normala
 samplanering mellan den allmänna-
-reskostnader med allmänna färdmedel och
 och särskilda kollektivtrafiken till
-beräknas efter vägavståndet i kilometer.
 exempel utvecklad Närtrafik och
-Resenärer under 26 år och studerande som
 Öppna upp skolskjutsar.
-innehar Centrala Studiestödsnämndens rabatt-
-kort eller något av Studentkårernas studentkort
 förändringar inom verksamheten för att uppnå
-som Mecenat och Studentkortet betalar endast
+
 en god samplanering och samordning av
-70% av egenavgiften”.8
 resorna.
 Härtill arbetar Kungsbacka för att minska det
 digitala utanförskapet bland våra invånare och
-6 Digital strategi, Kommunstyrelsen 2017-03- 7 Särskild kollektivtrafik – Taxa,
-14, § 61                          Kommunfullmäktige 9 april 2024 § 58
+
+6 Digital strategi, Kommunstyrelsen 2017-03-
+14, § 61
+
+öka nyttjandet av kommunens digitala tjänster6
+varför ett stort arbete kring förenkling och
+digitalisering av processen för ansökan av
+färdtjänst där kommunen bistår den sökande
+med kontakten med vården har gjorts och
+kommer att fortsätta utvecklas.
+
+Målbild Särskild kollektivtrafik
+
+Kungsbacka kommuns målsättning är att öka
+integrationen av färdtjänst och allmän kollektiv-
+trafik. I takt med att den allmänna kollektiv-
+trafiken anpassas allt mer till olika personers
+fysiska och psykiska förutsättningar minskar
+också behovet av färdtjänst och riksfärdtjänst
+med personbil och specialfordon. Men
+kommunen räknar ändå med att behovet av
+färdtjänst kommer att kvarstå för ett visst antal
+personer.
+
+Grunder  för prissättning
+
+Färdtjänst
+Enligt beskrivning ovan baseras färdtjänstens
+egenavgifter på den, av kommunfullmäktige,
+beslutade Taxan7. Taxan är kopplad till taxan
+för den allmänna kollektivtrafiken och justeras
+av nämnden för Teknik utefter Västtrafiks
+beslutade ändringar av kollektivtrafiken. Detta
+beslut fastställdes av Kommunfullmäktige den 9
+april 2024, § 58 KS2023-00666,
+
+Riksfärdtjänst
+
+”Vid resa med riksfärdtjänst skall resenären
+betala en viss avgift, den s k egenavgiften.
+Egenavgiftens storlek skall motsvara normala
+reskostnader med allmänna färdmedel och
+beräknas efter vägavståndet i kilometer.
+Resenärer under 26 år och studerande som
+innehar Centrala Studiestödsnämndens rabatt-
+kort eller något av Studentkårernas studentkort
+som Mecenat och Studentkortet betalar endast
+70% av egenavgiften”.8
+
+7 Särskild kollektivtrafik – Taxa,
+Kommunfullmäktige 9 april 2024 § 58
 KS2023-00666
 8 Riksfärdtjänsten Sverige AB
 
 <!-- sida 61 -->
 
-Åtgärder  för att skydda miljön   upphandling som utförts under 2021 stämdes
-miljöfrågan av med varje kostnadsbärare
-Som en del av Hallandstrafikens kollektivtrafik (kommun och region) och utifrån de samtalen
-omfattas färdtjänsten av gällande miljöarbete i samt Hallandstrafikens professionella
-’Regionalt Trafikförsörjningsprogram’ som bedömning blev ingången att påbörja en
-antogs av Regionfullmäktige den 9 december omställning till ett fossilfritt samhälle senast
-2020\. I de riktlinjer som skapades mellan 2030. Aktuella avtalskrav blev därför en
-Hallands kommuner och Region Halland funktionell kravställning på fossilfrihet (ingen
-gällande överlåtelse av färdtjänsten pekas de specifik teknik) som när trafikavtal 2022–2026
-strategiska frågorna ut till det regionala trafikf- går igång ska vara 50 procent fossilfritt vid
-örsörjningsprogrammet. För den trafik- avtalsstart och 75 procent innan avtalet tar slut.
+Åtgärder  för att skydda miljön
+
+Som en del av Hallandstrafikens kollektivtrafik
+omfattas färdtjänsten av gällande miljöarbete i
+’Regionalt Trafikförsörjningsprogram’ som
+antogs av Regionfullmäktige den 9 december
+2020\. I de riktlinjer som skapades mellan
+Hallands kommuner och Region Halland
+gällande överlåtelse av färdtjänsten pekas de
+strategiska frågorna ut till det regionala trafikf-
+örsörjningsprogrammet. För den trafik-
 
 Uppföljning  och indikatorer9
 
 9 Kapitlet är kopierat från Regionens
 trafikförsörjningsprogram för att skapa en
 helhetsöversikt
+
+upphandling som utförts under 2021 stämdes
+miljöfrågan av med varje kostnadsbärare
+(kommun och region) och utifrån de samtalen
+samt Hallandstrafikens professionella
+bedömning blev ingången att påbörja en
+omställning till ett fossilfritt samhälle senast
+2030\. Aktuella avtalskrav blev därför en
+funktionell kravställning på fossilfrihet (ingen
+specifik teknik) som när trafikavtal 2022–2026
+går igång ska vara 50 procent fossilfritt vid
+
+avtalsstart och 75 procent innan avtalet tar slut.
 
 <!-- sida 62 -->
 

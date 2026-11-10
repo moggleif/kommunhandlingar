@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d534dc3e/1769679530
 sha256: a3282993970c1e12ecc70aec5a956778d670f60894c4c3d8090a5f2b0d38e6cf
 bytes: 6198562
 sidor: 197
-hamtad: 2026-10-25T09:03:09+00:00
-konverterad: 2026-10-25T09:03:47+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T23:38:56+00:00
+konverterad: 2026-11-09T23:39:33+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok]
@@ -901,69 +901,86 @@ Vid skifte av
 kommunalförbundets behållna
 kommunalförbundets behållna
 11 (13)
-G
-M
-K
-P
-H
-L
-S
-T
-L
-T
-K o m m
-ö t e b o r g
-ö l n d a l
-u n g s b a c
-a r t il l e
-ä r r y d a
-e r u m
-t e n u n g s
-j ö r n
-i l l a E d e t
-o t a l t
-u
-k a
-u n
-n
+
+% % % % % % % % % %
+
+l 5 3 1 9 1 6 8 9 8 0
+
+e ,3 ,0 ,9 ,3 ,1 ,3 ,7 ,8 ,1 ,0
+
+nd 4 6 8 3 4 4 4 1 2 0
+
+A 6
+
+10
+
 d
-A
-1
+
 n
-6
-0
-d e
-4 , 3
-6 , 0
-8 , 9
-3 , 3
-4 , 1
-4 , 3
-4 , 7
-1 , 8
-2 , 1
-0 , 0
-l
-5
-3
-1
-9
-1
-6
-8
-9
-8
-0
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
+
+a
+
+n
+
+u
+
+k
+
+u
+
+m g l c
+
+s
+
+t
+
+r
+
+a
+
+a
+
+g
+
+e
+
+m o a b le d
+
+n
+
+d
+
+b d s l
+
+t
+
+o
+
+i y m u
+
+E l
+
+K e ln g t r
+
+n
+
+a
+
+t
+
+n r r u n r la t
+
+ö
+
+r e ö l
+
+ö
+
+u a ä
+
+t j i o
+
+G M K P H Le S T L T
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
@@ -1270,76 +1287,84 @@ medlemskommun. Vid sådana möten ska en kommun i första hand företrädas av k
 annan politiker.
 
 3
-K
-G
-M
-K
-P
-H
-L
-S
-T
-L
-A
-K
-S
-o m m u n
-ö te b o rg
-ö ln d a l
-u n g s b a c k a
-a rtille
-ä rry d a
-e ru m
-te n u n g s u n
-jö rn
-illa E d e t
-le
-u n g ä lv
-u m m a
-d
-A
+
+l 7% 1% 5% 0% 6% 8% 7% 2% 0% 5% 9% 0%
+
+e ,2 ,5 ,1 ,1 ,7 ,9 ,3 ,7 ,0 ,3 ,7 ,0
+
+d 59 5 8 3 3 3 4 1 2 3 4 00
+
+An
+
 1
+
+d
+
+ka
+
 n
-5
-0
+
+c
+
+u
+
+t
+
+n rg l a
+
+s
+
+u
+
+a
+
+a
+
+g
+
+e
+
+lv a
+
+o
+
+b le d
+
+n
+
 d
-9
-5
-8
-3
-3
-3
-4
-1
-2
-3
-4
-0
-e l
-,2 7
-,5 1
-,1 5
-,1 0
-,7 6
-,9 8
-,3 7
-,7 2
-,0 0
-,3 5
-,7 9
-,0 0
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
+
+m b d s l
+
+ä m
+
+i y m u
+
+E
+
+e ln g t r u n n
+
+g
+
+m t
+
+n r r r
+
+r la
+
+n m
+
+ö
+
+e
+
+l e
+
+o ö
+
+u a ä e t jö i l u u
+
+K G M K P H L S T L A K S
 
 <!-- sida 29 -->
 
@@ -1635,80 +1660,86 @@ Kostnaderna för kommunalförbundets verksamhet ska, i den mån de inte täcks p
 genom bidrag från medlemskommunerna fördelat enligt andelarna i § 10.
 
 3
-G
-M
-K
-P
-H
-L
-S
-T
-L
-T
-K o m m
-ö t e b o r g
-ö l n d a l
-u n g s b a c
-a r t il l e
-ä r r y d a
-e r u m
-t e n u n g s
-j ö r n
-i l l a E d e t
-o t a l t
+
+% % % % % % % % % %
+
+l 5 3 1 9 1 6 8 9 8 0
+
+e ,3 ,0 ,9 ,3 ,1 ,3 ,7 ,8 ,1 ,0
+
+nd 4 6 8 3 4 4 4 1 2 0
+
+A 6
+
+10
+
+d
+
+n
+
+a
+
+n
+
 u
-k a
-u n
-n
-d
-A
-1
-n
-6
-0
-d
-4 ,
-6 ,
-8 ,
-3 ,
-4 ,
-4 ,
-4 ,
-1 ,
-2 ,
-0 ,
+
+k
+
+u
+
+m g l c
+
+s
+
+t
+
+r
+
+a
+
+a
+
+g
+
 e
-3
-0
-9
-3
-1
-3
-7
-8
-1
-0
-l
-5
-3
-1
-9
-1
-6
-8
-9
-8
-0
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
+
+m o a b le d
+
+n
+
+d
+
+b d s l
+
+t
+
+o
+
+i y m u
+
+E l
+
+K e ln g t r
+
+n
+
+a
+
+t
+
+n r r u n r la t
+
+ö
+
+r e ö l
+
+ö
+
+u a ä
+
+t j i o
+
+G M K P H Le S T L T
 
 <!-- sida 36 -->
 

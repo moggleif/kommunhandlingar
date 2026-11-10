@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe2c36d/17095387722
 sha256: 3d3891d7e7bb97670c9dec5749139b61ce02c5034d0685ef6a142db8590517b4
 bytes: 30695835
 sidor: 230
-hamtad: 2026-10-25T10:15:15+00:00
-konverterad: 2026-10-25T10:17:36+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+hamtad: 2026-11-10T00:55:38+00:00
+konverterad: 2026-11-10T00:58:02+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok]
 tal_obekraftade: [6, 7, 8, 10, 13, 57, 58, 143, 144, 145, 146, 147, 148, 149, 150, 159, 160, 184, 185, 186, 187, 188, 189, 190, 207, 218, 226, 227, 228, 229]
 figurer: [16, 26, 27, 69, 76, 138, 143, 144, 145, 146, 147, 148, 149, 150, 184, 185, 186, 187, 188, 189, 190, 218, 227]
 tolkade: []
@@ -2494,6 +2494,12 @@ kommun(Qkungsbacka.se
 www.kungsbacka.se
 
 <!-- sida 58 -->
+
+KUNGSBACKA KOMMUN
+2 (2)
+
+Lisa Andersson Patrik Johansson
+Kommunstyrelsens ordförande Kommunsekreterare
 
 <!-- sida 59 -->
 
@@ -6443,7 +6449,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -8918,7 +8924,7 @@ Ek plan
 
 Ek avd
 
-21 UTZ III = NOSPIEA I sta PEN SAD
+21 UTZ III = NOÖSPIEA Ir uta PEN SAD
 
 Te npbestyrkandae
 
@@ -10099,7 +10105,6 @@ kommunens regi vilket kan skänka glädje, lycka och gemenskap till alla Kungsba
 Socialdemokraterna yrkar därför att:
 
 ee -Kommunfullmäktige ger kommunstyrelsen i uppdrag att återuppta nationaldagsfirandet i
-K ( å
 
 Magdaleria Sundqvist(S);/kommunfullmäktigeledamot
 

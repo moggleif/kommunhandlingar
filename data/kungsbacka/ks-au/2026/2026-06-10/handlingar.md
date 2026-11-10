@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6447748c19e6392323474a2e/1780660060
 sha256: 9689113563a514cfd226218beac3961ea9b934ab76f9d663f6bcf81b096d1c25
 bytes: 117508267
 sidor: 395
-hamtad: 2026-10-25T09:36:55+00:00
-konverterad: 2026-10-25T09:45:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:14:32+00:00
+konverterad: 2026-11-10T00:23:21+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ok, ok, ej-konverterad, ocr, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok]
@@ -2924,7 +2924,6 @@ helhetsperspektiv, samt stöd från andra aktörer och även forskare.
 
 <!-- sida 83 -->
 
-ITM EN a
 HIM
 
 2025-10-08
@@ -3201,7 +3200,6 @@ set RAR
 
 pg || T NV vemfatå
 CV
-SE
 
 Figur 2. Målbild tåg 2035 inklusive Västtågsutredningen samt konkretiseringen Delmål 2028.
 Västtrafik har i sin tur tagit fram en handlingsplan, med fokus på år 2028. Källa: VGR och
@@ -3278,8 +3276,6 @@ Zz 35 o
 
 mm O e
 
-22 .
-
 AN
 
 1
@@ -3293,7 +3289,7 @@ AN
 = 5
 
 (0)
-\- CC Bb - [ap] Pb ap
+
 2330: 585088::0:0ese:e03a3aas
 
 å
@@ -3348,8 +3344,6 @@ h e 4000
 
 S 15 s [J
 
-T JE 23000 —
-
 2 10 7 2000
 
 5 km
@@ -3364,7 +3358,7 @@ AJ (=)
 
 E INMAPLAaITIMALA a Min = + 00 0 NM FO 20 0 NM <
 FER EEREE TRE ERREEE
-NN NNNbNNbNNANNISAN NN SRA A-A-E
+NN NNbNNbNNANNANNN SRA A-A-E
 e Ambitioner fordonskilometer e Ambitioner sittplatskilometer
 e— Fordonskilometer — Sittplatskilometer
 
@@ -3460,19 +3454,18 @@ snabba resandeökningarna på bland annat linjen Göteborg — Vänersborg och G
 regiontågen. När dessa sedan lämnades tillbaka i mitten på 2010-talet, ersattes de av 10
 inhyrda fordon från Skånetrafiken, som var av samma typ som de nya pendeltågen.
 
-40 000 140
+40 000 - 140
 
-35 000
+35 000 sec?
 
-30 000 ETTA 100
+30 000 RETT IT ARAAAAE 100
+.
 25 000 Je L 80 2
-ZE 20 000 ee — =
+20 000 ot — =
 15 000 60 £
 10 000 — 40
 5 000 = - 20
 \- 0
-
-Antal sittplatser
 
 2010 2015 2024 2028 2031
 11 me X12,.X14 BIEN X50 mm X61
@@ -3496,6 +3489,8 @@ regiontåg. I upphandlingen finns en option med möjlighet att beställa ytterli
 fordon. Denna option har ännu inte nyttjas men beslut väntas hösten 2025 om att
 beställa 35 fordon från optionen. Utvecklingen av fordonsflottan har även inneburit ett
 
+Antal sittplatser
+
 <!-- sida 96 -->
 
 Utvärdering av Målbild tåg 2035 Sida 13
@@ -3516,21 +3511,15 @@ samtliga linjer varierar över ett vardagsmedeldygn. Beläggningen är i snitt m
 Siffrorna indikerar på att det finns potential för ett ökat dubbelriktat resande. Det visar
 även att det finns stora skillnader i resande över dagen.
 
-45 70
 40 4
 35 20
 30 2
-25
-
-os
-20 70
-
-Beläggningsgrad
-
+25 2
+20
 15 No
 10 N
-592
-oo
+52
+(0
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
 Timme på dygnet
 
@@ -3543,6 +3532,8 @@ under hela dagen för de flesta linjer, och därmed under tider med lägre belä
 skapar tydlighet och ett mer attraktivt erbjudande för resenärerna. Beläggningen beror
 bland annat på tågens storlek, antalet turer/dubbelturer och kan också påverkas
 kortsiktigt av ökningar och sänkningar i tågutbudet.
+
+Beläggningsgrad
 
 <!-- sida 97 -->
 
@@ -3614,12 +3605,10 @@ göra på grund av en förändrad metod för intäktsfördelning, som beskrivits
 3
 3 2
 5\.
-= 3 1,5
 NN
 E 1
 bo org
 5
-= 2 0,5
 v [0]
 (=) Resor Kostnader Fördelade biljettintäkter
 
@@ -4565,7 +4554,6 @@ sträckan.
 Göteborg - Borås kommer inte att
 uppnå 320 km/h. Trafikverkets
 positionspapper från 2018 gav en
-oötalandsbanar/kust Doro ske ha on hastgnet på 220
 till kustbanan: Göteborg 90-140 200-320 90-140 km/h (dock inte till 2035). Detta
 \- Borås mosas o s
 förstärktes på grund av regeringens
@@ -5034,8 +5022,6 @@ PN
 —
 —
 
-Ö Nässjö
-
 Station
 
 \>120
@@ -5049,7 +5035,6 @@ Station
 
 <!-- sida 134 -->
 
-Ö
 KARLSTAD
 
 Mål Dp
@@ -5806,76 +5791,48 @@ andel av befolkningen bor i en större stad, även om de bor i en tätort.
 
 100
 
-N
-
-90
-
-80
-
-wo
+90 8 7
+80 75,
 
 70
-
--—
-
 60
-
 50
-
 40
-
 30
-
 20
 
 10
 
-än
-
-Uppsala län -—
-N
-i a ÅA
-Riket NÅ
-ÄN
-ÄN
-än
-ÄN
-So
-nn od
-an 4
-ÄN
-än sn
-ÄN
-Ö ÄN
-än sn
-än
-ÄN
-än sn
-ÄN
-än
-än
-ÄN
-[ec]
-Halmstad — mmeemeemmmm Oh
-Len]
-Falkenberg mmm — 10
-[en]
-Varberg nn (a
-un wo
-Kungsbacka | 3»
-Laholm mmm Oh
-un
-Hylte.— N
-
 [a]
-Stockholms län — ENN
+än
+ÖN
+ÄN
+ÄN
+MT
+ÖN >
+[0]
+Mn
+MN
+än
+ÄN
+AN
+än
+Mn
+än
+än
+AN
+än
+ÄN
+& —-
+\-
+ät
 
 n vv nn an n n n nan n Oo vn vw An vn an PM = un
 DTE MUTDTTDITTICEÉE MIC MD MID TI I
 CA 5CCCCofnNvYoclctcy]cf:stcERL
 225880 ELTLLEXT TLA CT E
-c VT BB mr O:0 Oo vr EA v =
-2 cc :0o mr Aa Oo AL E [=]
+c VT BB mm F&F 0 :0t Oo vr EA v =
+2 cc :0o mr Aa O AE E [=]
 T Xx nm ECE
 \>0 MI ot = = . (C)
 E 83 Lb > föds & E£523
@@ -5884,10 +5841,28 @@ sg PP BRO 2 8 Xx
 :o :d 20 > >
 un >
 
-Västra Götalands lär -— Esso
-
 Figur 3. Andel av befolkningen boende i närhet (400 m) av kollektivtrafikstation (2022). Endast hållplatser med
 regelbundna avgångar inkluderas. Källa: SCB
+
+Uppsala län -—
+
+Riket NÅ
+
+Halmstad — mmeemeemmmm Oh
+
+Falkenberg mmm — 10
+
+Varberg nn (a
+
+Kungsbacka | 3»
+
+Laholm mmm Oh
+
+Hylte.— N
+
+Stockholms län — ENN
+
+Västra Götalands lär -— Esso
 
 <!-- sida 167 -->
 
@@ -5900,12 +5875,10 @@ Hallandstrafiken
 2.8 GENOMFÖRDA TRAFIKFÖRÄNDRINGAR 2015 - 2025, URVAL
 
 » Nytt stadsbusslinjenät Kungsbacka
-» Förtätning av regionbusstråk
+» Förtätning av regionbusstråk j
 
 » Ny Pågatågstrafik Halmstad-Helsingborg
 « Nytt stadsbusslinjenät Varberg
-
-<< €€€€e
 
 e Nytt Västtåg Varberg - Göteborg, dubbeltur morgon/eftermiddag )
 
@@ -5934,9 +5907,8 @@ Fler turer till och från Ullared, brytning av linje 555 i Ullared
 
 e Förändrad lin äcknin n Halmstad, snabba - och ifran Vallas
 
-»« Utökat trafikutbud tillhörande ”testperiod HNJ” med fler turer under vardagar samt helger kvarstår inom
+« Utökat trafikutbud tillhörande ”testperiod HNJ” med fler turer under vardagar samt helger kvarstår inom
 Tågplan 2021, inkluderat busslinje 417 Hylte - Landeryd.
-
 « Utökat trafikutbud på linje 62 till och från Söder i Halmstad
 
 J
@@ -5957,14 +5929,16 @@ Västtåg Varberg - Borås, en avgång per vardag och riktning söndag - fredag.
 « Utökade öppettider och förstärkt utbud i kollektivtrafikstråken. Utökning linje 509 Falkenberg.
 
 »« Kungsbacka, trafikering av Björkris och badhuset. Varberg, förändrad linjedragning Träslövsläge. Halmstad,
+justerad linjesträckning linje 2. I
+
+Utökad trafik vardagar med Västtåg Kungsbacka - Göteborg (Kungsbackapendeln) )
+
+Utvecklad Närtrafik 2.0
+Regionbusstrafik Varberg, övriga linjer 660/661 )J
+
+<< €€€€e
 
 €«€ €€€€
-
-justerad linjesträckning linje 2. I
-»« Utökad trafik vardagar med Västtåg Kungsbacka - Göteborg (Kungsbackapendeln) )
-» Utvecklad Närtrafik 2.0
-
-»« Regionbusstrafik Varberg, övriga linjer 660/661
 
 <!-- sida 169 -->
 
@@ -6506,9 +6480,9 @@ av branschen och förvaltas av Samtrafiken.
 
 <!-- sida 180 -->
 
-Hallandstrafiken
-
 SIDA | 25
+
+Hallandstrafiken
 
 4.3 TRAFIKFÖRÄNDRINGAR 2026
 
@@ -6523,8 +6497,6 @@ De ekonomiska förutsättningarna har saknats för att genomföra vissa av de f�
 trafikobjekten. Lista på trafikförändringar 2026:
 
 Objekt Kommentar
-
-Tågtrafik
 
 Hallandståg Varberg -
 Göteborg, fler avgångar
@@ -6541,8 +6513,6 @@ utbud
 Västkustbanan är det högst prioriterade kollektivtrafikstråket i Halland och
 spelar en central roll i att förbinda städerna längs kusten. Satsningarna
 följer beskriven målbild för tågtrafikens utveckling.
-
-Regionbusstrafik
 
 — | |
 Harplinge
@@ -6572,13 +6542,9 @@ på ett ökat resande och en hög beläggningsgrad. Insatsen är därmed att
 betrakta som tvingande för att möta det växande behovet av
 kollektivtrafik.
 
-Stadsbusstrafik
-
 Justerad passning tåg vs
 
 Trafikobjektet förutsätter att kapacitetstilldelning av tåglägen sker genom
-
-Figur 16. Trafikförändringar 2026
 
 buss Varberg att Öresundstågen i båda riktningarna fortsatt möts i Varberg.
 
@@ -6587,13 +6553,19 @@ förlängning till Pilgatan vilken inte bedöms vara färdigställd under 2026.
 
 K backa, utökad Obiel år.
 
-a id
-
 Ökat antal fordon - Åtgärden utgör en nödvändig och strategiskt motiverad satsning, grundad
 Halmstad på ett ökat resande och en hög beläggningsgrad. Insatsen är därmed att
 
+Figur 16. Trafikförändringar 2026
+
 betrakta som tvingande för att möta det växande behovet av
 kollektivtrafik.
+
+Tågtrafik
+
+Regionbusstrafik
+
+Stadsbusstrafik
 
 <!-- sida 181 -->
 
@@ -7422,6 +7394,8 @@ nöjda eller mycket nöjda med skolskjutsen som helhet. Nöjdheten är högst bl
 eleverna, vilket kan härledas till att äldre elever sannolikt hade föredragit ett annat färdmedel till
 och från skolan.
 
+Nöjdhetsundersökning skolskjuts med buss
+
 100%
 
 90%
@@ -7436,12 +7410,8 @@ och från skolan.
 Falkenberg Halmstad   Hylte    Laholm     Varberg
 
 Figur 23. Nöjdhet med skolskjuts som helhet, läsåret 2023–2024
-adjön
-tekcym
-relle
-adjön
-lednA
-Nöjdhetsundersökning skolskjuts med buss
+
+Andel nöjda eller mycket nöjda
 
 <!-- sida 201 -->
 
@@ -7474,7 +7444,7 @@ ce N N gng
 
 LÅ1213LÅ1314LÅ1415LÅ1516LÅ1617LÅ1718LÅ1819LÅ1920LÅ2021LÅ2122LÅ2223LÅ23241Å2425
 
-== Kungsbacka Varberg Falkenberg =&Ö=Halmstad === aholm =&= Hylte
+== Kungsbacka Varberg Falkenberg =—&Ö=Halmstad === aholm =&= Hylte
 
 Figur 24. Antal elever planerade på skol- eller linjebuss per läsår och kommun, Läsår 2012/13 - 2024/25
 
@@ -8794,7 +8764,6 @@ riktningar och vändmöjlighet måste finnas.
 
 <!-- sida 241 -->
 
-f
 Å
 Hede station
 
@@ -8803,12 +8772,8 @@ j
 | Kolla
 s +
 LI
-4 +
-th
 | N
-4 +.
 UC
-Ny 4
 A ng,
 Y in.
 4 Stadsbusstråk Kungsbacka
@@ -9219,7 +9184,6 @@ ry 2 fa
 föeedelälden nd
 25\) Fin hå ena
 CI -
-tee GEN a SS
 52 345 246 Cl CM
 4 M3
 
@@ -9442,8 +9406,6 @@ Kungsbacka
 
 Tätort - Plats Typ av rastlokal Förvaltas av
 
-6120 Nobina |590 344 1379 504 1184 408 1219 354 Kungsbacka Rastlokal + Toalett Västfastigheter
-
 Kungsbacka Resecentrum
 
 Totalsumma [1221 557 2712 029 2.551 987 2583 478 Hede Station Rastlokal + Toalett Kungsbacka kommun
@@ -9461,7 +9423,7 @@ Arendalsvägen Toalett + pentry
 
 Tabell 6. Rast- och pauslokaler i området.
 
-« Avtal 6120 = 14 st Boggibuss + 2st reservfordon
+« Avtal 6120 =14 st Boggibuss + 2st reservfordon
 
 <!-- sida 254 -->
 
@@ -9618,14 +9580,13 @@ Illustrationsplan Hedeleden.
 Källa: Kungsbacka kommun,
 ritning utförd av Sigma.
 Till höger: den planerade
-vägen i förhållande till
 le linienät. Ungefärli
 
 sokni korad
 på Hallandstrafik
 linienätsk
 
-a
+ee
 
 Inom det kommunala vägnätet finns planer på att bygga en ny vägförbindelsen är en del av utvecklingen av nordöstra Kungsbacka
 väg mellan Hällingsjövägen och Hede station, kallad Hedeleden?. stad, där flera nya bostadsområden är planerade.
@@ -9674,11 +9635,8 @@ t
 Karta 14. Till vänster: illustrationsplan
 för breddning av Varlavägen,
 källa: Kungsbacka kommun. Till
-År höger: den planerade åtgärden
 id i förhållande till nuvarande
-
 —6 AD linjenät. Även åtgärd planerad
-
 (AE inom exploateringsprojektet
 Ve Stadsdelen Valand. Markerat på
 
@@ -9852,10 +9810,8 @@ kommun
 
 För att kunna skapa en attraktiv kollektivtrafik som man vill Invånarantal faktiskt utfall (1990-2022) och
 behov har många resenärer gemensamt, medan andra behov
-| | A Å a Kungsbacka
-varierar mellan olika områden och målgrupper. För att kunna 49294
+varierar mellan olika områden och målgrupper. För att kunna 424 Kungsbacka
 identifiera och tillgodose de olika resenärernas behov är det - 10 SS kil. EN
-3 mh
 samar . - är. E 0 a LES 3 a
 viktigt att förstå vem resenären är. £ 100 000-
 ej
@@ -9878,20 +9834,24 @@ ac
 c
 <
 
-1990
-
-2000-
-20207
-20307
-20407
-20504
-
-20104
-
 Figur 5. Invånarantal och
 befolkningsprognos, Kungsbacka
 kommun. Källa: SCB och bearbetningar
 av Region Halland.
+
+1990
+
+2000-
+
+20207
+
+20307
+
+20407
+
+20504
+
+20104
 
 <!-- sida 264 -->
 
@@ -9968,7 +9928,6 @@ socioekonomisk status har en god tillgång till kollektivtrafik. Detta a Ae A
 omfattar både geografisk täckning och ett tillräckligt utbud under vn ae I =S h H
 ja | é
 £
-Ö Mosede fr
 
 rm KT Frråder med mycket p ed rå Prstuet
 1
@@ -10162,7 +10121,6 @@ större vägen Söderåleden. ; ”- ve
 Kungsmässan och Hede Fashion Outlet är viktiga både som fr C des
 besöksmål och som områden med många arbetstillfällen, även om
 
-. 2 . . so . Frikesis 9 / : —
 det inte finns någon enskild arbetsgivare som är särskilt stor. :
 
 Karta 18. Grundskolor, gymnasieskolor och vuxenutbildning. Källa: Kungsbacka kommun.
@@ -10236,7 +10194,7 @@ resande över kommungränsen. Inom kommunen är det ont om större
 
 arbetsgivare.
 
-Tätortsgraden ligger i linje med rikssnittet på 88 2, men befolkningen
+Tätortsgraden ligger i linje med rikssnittet på 88 26, men befolkningen
 är fördelad på ett flertal tätorter och i kommunhuvudorten
 Kungsbacka stad bor endast 28 246 av kommunens befolkning.
 
@@ -10359,7 +10317,7 @@ helger och vissa tider på dagen.
 Linje 742: Även linje 742 har önskemål om tätare turer och utökade
 öppettider framför allt på helgen. Även förbättrad samordning
 
-med andra linjer. Önskemål om bättre anpassning till pendeltågens
+med andra linjer. Örskemål om bättre anpassning till pendeltågens
 ankomsttider förekommer.
 
 <!-- sida 275 -->
@@ -10810,7 +10768,6 @@ till Onsala”. Notera att det första scenariot, utan X7, kommer att gälla fö
 
 = Regionbuss
 Karta 21. Översikt trafikeringsförslag, illustrerat ovanpå nuvarande a
-linjekarta. Gröna linjer motsvarar sträckor som ingår i befintligt (0) Knutpunkt, tag
 linjenät men som inte ingår i föreslaget linjenät. Ett scenario med X7 O Knutpunkt
 till Kungsbacka station.
 
@@ -10882,8 +10839,8 @@ Budkärr skol
 Sanna-Dala
 
 EN rn
+
 lat
-720 TE söp öns
 ”Kyrkobyn
 Hantbocks |
 
@@ -11275,8 +11232,6 @@ tågtrafikens räckvidd utökas.
 8\. KONSEKVENSER OCH RISKER |
 
 <!-- sida 294 -->
-
-9 ww |
 
 Jämförelse mellan NN
 
@@ -11788,7 +11743,6 @@ en eventuell premie. Detta för att neutralisera möjligheterna för
 
 <!-- sida 304 -->
 
-1 & SS — i Gottskär
 H ; i
 
 Ytterligare
@@ -12283,7 +12237,6 @@ NN 12 5 | Mariedal, vändplats
 10
 NAN - 9 | Inlagsleden, ny hållplats
 5 SÅ Fr -— Onsalavägen, anpassning av
-— — — 10 o
 a hållplatser
 11 | Hedeleden, ny väg
 . Kungsbacka station, hållplats
@@ -12549,11 +12502,8 @@ Bakgrund
 Med framtaget trafikeringsförslag tas allmän linjetrafik bort från den enskilda vägen Stenavägen.
 Linje 747 avslutas i närheten av hållplats Stenavägen och får sträckning Ölmanäs - Åsa station.
 
-\- , - | | Ad je NE
 Linjen avslutas bo i/ 744
 id Stenavägen . : Fo | fre
-
-VI g / . 732 MaA
 p - I Vändmöjlighet nd
 
 föreslås
@@ -15245,27 +15195,18 @@ Kungsbacka kommun Lokaliseringsutredning - Ny idrottshall i Onsala Sida 10 av 14
 
 4\. Iseråsskolan
 
-e  Iseråsskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
+e - Iseråsskolan har elver i åk F-6 och ligger i yttre delen av utecklingsorten Onsala.
 e Vid skolan finns en mindre idrottshall som nyttjas av skolan och till viss del föreningslivet.
 
 e - Skoltomten ligger inom fastigheten Iserås 19:1 och berörs av detaljplan OP197, laga kraft 2025-02-26.
 Genomförandetiden går ut 2030-02-26.
 
-pe ro I
-MN fär
-ÅN S | a |
 ww 2
-| dT ; i
-Nå 38 ./AN
-4 2” N z PT
 7 (aa | ar 3
 / Fa : ne)
-/ Åh N f
 A / : / & fö 5 Eg
 5 od kn |
-j fler VIE
 NV /d J-Å vg
-N RS N ”M
 & Så | |
 / Aes Ny
 [] bh pd

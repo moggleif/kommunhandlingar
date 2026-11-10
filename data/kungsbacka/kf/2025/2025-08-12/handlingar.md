@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5a783478198736c426b7442a/1754565408
 sha256: 8ff045dc4fad23d67315275f7076c1a903a10522d59c56a291fa52e52c734449
 bytes: 104446377
 sidor: 314
-hamtad: 2026-10-25T11:01:41+00:00
-konverterad: 2026-10-25T11:04:50+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T01:45:19+00:00
+konverterad: 2026-11-10T01:48:45+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok]
@@ -628,10 +628,6 @@ fr
 Sberigedemokruterna
 
 PG /
-N -
-LJ
-= ES
-3
 
 Kungsbacka 250220
 
@@ -838,7 +834,7 @@ inte nyttjas?
 
 \+ Vad är planen för dessa kommunalägda fastigheter/villor?
 
-\+ Varför inte upplåta fastigheterna till bostäder? Bostadsbristen är stor i kommunen.
+" Varför inte upplåta fastigheterna till bostäder? Bostadsbristen är stor i kommunen.
 
 Violet Dunér (V)
 
@@ -2874,9 +2870,8 @@ rekommendationerna och kommer införa rutinarbetet och arbetsfördelning under �
 påvisande vid kommande bokslut.
 
 Medlem i Ernst & Young Global Limited
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 73 -->
 
@@ -2920,9 +2915,8 @@ Redovisningsbyrån har goda rutiner för detta och ser inte att det kommer händ
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
 
@@ -2983,9 +2977,8 @@ med lag om offentlig upphandling. Kontrollen bör utföras av annan och överord
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 75 -->
 
@@ -3038,9 +3031,8 @@ i takt med att kostnader uppstår och redovisa investeringsbidrag mot anläggnin
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 76 -->
 
@@ -3088,9 +3080,8 @@ att Stiftelsen är tillräckligt försäkrad.
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 77 -->
 
@@ -3128,9 +3119,8 @@ Auktoriserad revisor
 
 Medlem i Ernst & Young Global Limited
 )
-XB9GP-CKQEZ-OJCQJ-C476D-UJFNG-6JC3B
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: B3CJ6-GNFJU-D674C-JQCJO-ZEQKC-PG9BX
 
 <!-- sida 78 -->
 
@@ -3138,79 +3128,103 @@ Revisionsberättelse
 Till styrelsen i Stiftelsen Tjolöholm, org.nr 849400–4578
 
 Rapport om årsredovisningen
-
 Uttalanden
-Vi har utfört en revision av årsredovisningen för Stiftelsen Som del av en revision enligt ISA använder vi professionellt om-
-Tjolöholm för år 2024.           döme och har en professionellt skeptisk inställning under hela
-revisionen. Dessutom:
+
+Vi har utfört en revision av årsredovisningen för Stiftelsen
+Tjolöholm för år 2024.
 Enligt vår uppfattning har årsredovisningen upprättats i enlig-
-het med årsredovisningslagen och ger en i alla väsentliga av- • identifierar och bedömer vi riskerna för väsentliga felaktig-
-seenden rättvisande bild av stiftelsens finansiella ställning per heter i årsredovisningen, vare sig dessa beror på oegent-
-den 31 december 2024 och av dess finansiella resultat för året ligheter eller misstag, utformar och utför granskningsåt-
-enligt årsredovisningslagen. Förvaltningsberättelsen är fören- gärder bland annat utifrån dessa risker och inhämtar revis-
-lig med årsredovisningens övriga delar. ionsbevis som är tillräckliga och ändamålsenliga för att ut-
-göra en grund för våra uttalanden. Risken för att inte upp-
+het med årsredovisningslagen och ger en i alla väsentliga av-
+seenden rättvisande bild av stiftelsens finansiella ställning per
+den 31 december 2024 och av dess finansiella resultat för året
+enligt årsredovisningslagen. Förvaltningsberättelsen är fören-
+lig med årsredovisningens övriga delar.
 Grund för uttalanden
-täcka en väsentlig felaktighet till följd av oegentligheter är
-Vi har utfört revisionen enligt International Standards on Au- högre än för en väsentlig felaktighet som beror på misstag,
-diting (ISA) och god revisionssed i Sverige. Vårt ansvar enligt eftersom oegentligheter kan innefatta agerande i maskopi,
-dessa standarder beskrivs närmare i avsnittet Revisorns an- förfalskning, avsiktliga utelämnanden, felaktig information
-svar. Vi är oberoende i förhållande till stiftelsen enligt god re- eller åsidosättande av intern kontroll.
+Vi har utfört revisionen enligt International Standards on Au-
+diting (ISA) och god revisionssed i Sverige. Vårt ansvar enligt
+dessa standarder beskrivs närmare i avsnittet Revisorns an-
+svar. Vi är oberoende i förhållande till stiftelsen enligt god re-
 visorssed i Sverige och har i övrigt fullgjort vårt yrkesetiska an-
-• skaffar vi oss en förståelse av den del av stiftelsens interna
 svar enligt dessa krav.
-kontroll som har betydelse för vår revision för att utforma
-Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och granskningsåtgärder som är lämpliga med hänsyn till om-
-ändamålsenliga som grund för våra uttalanden. ständigheterna, men inte för att uttala oss om effektivite-
-ten i den interna kontrollen.
+Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och
+ändamålsenliga som grund för våra uttalanden.
 Styrelsens ansvar
-• utvärderar vi lämpligheten i de redovisningsprinciper som
 Det är styrelsen som har ansvaret för att årsredovisningen
-används och rimligheten i styrelsens uppskattningar i re-
 upprättas och att den ger en rättvisande bild enligt årsredovis-
-dovisningen och tillhörande upplysningar.
 ningslagen. Styrelsen ansvarar även för den interna kontroll
-som de bedömer är nödvändig för att upprätta en årsredovis- • drar vi en slutsats om lämpligheten i att styrelsen använder
-ning som inte innehåller några väsentliga felaktigheter, vare antagandet om fortsatt drift vid upprättandet av årsredo-
-sig dessa beror på oegentligheter eller misstag. visningen. Vi drar också en slutsats, med grund i de inhäm-
-tade revisionsbevisen, om det finns någon väsentlig osä-
+som de bedömer är nödvändig för att upprätta en årsredovis-
+ning som inte innehåller några väsentliga felaktigheter, vare
+sig dessa beror på oegentligheter eller misstag.
 Vid upprättandet av årsredovisningen ansvarar styrelsen för
-kerhetsfaktor som avser sådana händelser eller förhållan-
 bedömningen av stiftelsens förmåga att fortsätta verksam-
-den som kan leda till betydande tvivel om stiftelsens för-
 heten. Den upplyser, när så är tillämpligt, om förhållanden som
-måga att fortsätta verksamheten. Om vi drar slutsatsen att
 kan påverka förmågan att fortsätta verksamheten och att an-
-det finns en väsentlig osäkerhetsfaktor, måste vi i revis-
 vända antagandet om fortsatt drift. Antagandet om fortsatt
-ionsberättelsen fästa uppmärksamheten på upplysning-
 drift tillämpas dock inte om beslut har fattats om att upphöra
-arna i årsredovisningen om den väsentliga osäkerhetsfak-
 med verksamheten.
-torn eller, om sådana upplysningar är otillräckliga, modifi-
-Revisorns ansvar                   era uttalandet om årsredovisningen. Våra slutsatser base-
-ras på de revisionsbevis som inhämtas fram till datumet för
+Revisorns ansvar
 Våra mål är att uppnå en rimlig grad av säkerhet om att årsre-
-revisionsberättelsen. Dock kan framtida händelser eller
 dovisningen som helhet inte innehåller några väsentliga felak-
-förhållanden göra att en stiftelse inte längre kan fortsätta
 tigheter, vare sig dessa beror på oegentligheter eller misstag,
-verksamheten.
 och att lämna en revisionsberättelse som innehåller våra utta-
-landen. Rimlig säkerhet är en hög grad av säkerhet, men är • utvärderar vi den övergripande presentationen, strukturen
-ingen garanti för att en revision som utförs enligt ISA och god och innehållet i årsredovisningen, däribland upplysning-
-revisionssed i Sverige alltid kommer att upptäcka en väsentlig arna, och om årsredovisningen återger de underliggande
-felaktighet om en sådan finns. Felaktigheter kan uppstå på transaktionerna och händelserna på ett sätt som ger en
-grund av oegentligheter eller misstag och anses vara väsent- rättvisande bild.
+landen. Rimlig säkerhet är en hög grad av säkerhet, men är
+ingen garanti för att en revision som utförs enligt ISA och god
+revisionssed i Sverige alltid kommer att upptäcka en väsentlig
+felaktighet om en sådan finns. Felaktigheter kan uppstå på
+grund av oegentligheter eller misstag och anses vara väsent-
 liga om de enskilt eller tillsammans rimligen kan förväntas på-
-verka de ekonomiska beslut som användare fattar med grund i Vi måste informera styrelsen om bland annat revisionens pla-
-årsredovisningen.                nerade omfattning och inriktning samt tidpunkten för den. Vi
+verka de ekonomiska beslut som användare fattar med grund i
+årsredovisningen.
+
+Som del av en revision enligt ISA använder vi professionellt om-
+döme och har en professionellt skeptisk inställning under hela
+revisionen. Dessutom:
+• identifierar och bedömer vi riskerna för väsentliga felaktig-
+heter i årsredovisningen, vare sig dessa beror på oegent-
+ligheter eller misstag, utformar och utför granskningsåt-
+gärder bland annat utifrån dessa risker och inhämtar revis-
+ionsbevis som är tillräckliga och ändamålsenliga för att ut-
+göra en grund för våra uttalanden. Risken för att inte upp-
+täcka en väsentlig felaktighet till följd av oegentligheter är
+högre än för en väsentlig felaktighet som beror på misstag,
+eftersom oegentligheter kan innefatta agerande i maskopi,
+förfalskning, avsiktliga utelämnanden, felaktig information
+eller åsidosättande av intern kontroll.
+• skaffar vi oss en förståelse av den del av stiftelsens interna
+kontroll som har betydelse för vår revision för att utforma
+granskningsåtgärder som är lämpliga med hänsyn till om-
+ständigheterna, men inte för att uttala oss om effektivite-
+ten i den interna kontrollen.
+• utvärderar vi lämpligheten i de redovisningsprinciper som
+används och rimligheten i styrelsens uppskattningar i re-
+dovisningen och tillhörande upplysningar.
+• drar vi en slutsats om lämpligheten i att styrelsen använder
+antagandet om fortsatt drift vid upprättandet av årsredo-
+visningen. Vi drar också en slutsats, med grund i de inhäm-
+tade revisionsbevisen, om det finns någon väsentlig osä-
+kerhetsfaktor som avser sådana händelser eller förhållan-
+den som kan leda till betydande tvivel om stiftelsens för-
+måga att fortsätta verksamheten. Om vi drar slutsatsen att
+det finns en väsentlig osäkerhetsfaktor, måste vi i revis-
+ionsberättelsen fästa uppmärksamheten på upplysning-
+arna i årsredovisningen om den väsentliga osäkerhetsfak-
+torn eller, om sådana upplysningar är otillräckliga, modifi-
+era uttalandet om årsredovisningen. Våra slutsatser base-
+ras på de revisionsbevis som inhämtas fram till datumet för
+revisionsberättelsen. Dock kan framtida händelser eller
+förhållanden göra att en stiftelse inte längre kan fortsätta
+verksamheten.
+• utvärderar vi den övergripande presentationen, strukturen
+och innehållet i årsredovisningen, däribland upplysning-
+arna, och om årsredovisningen återger de underliggande
+transaktionerna och händelserna på ett sätt som ger en
+rättvisande bild.
+Vi måste informera styrelsen om bland annat revisionens pla-
+nerade omfattning och inriktning samt tidpunkten för den. Vi
 måste också informera om betydelsefulla iakttagelser under
 revisionen, däribland de eventuella betydande brister i den in-
 terna kontrollen som vi identifierat.
-D8DK1-YXMTB-5H727-35GFL-VN215-O80PX
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: XP08O-512NV-LFG53-727H5-BTMXY-1KD8D
 
 <!-- sida 79 -->
 
@@ -3266,9 +3280,8 @@ Ernst & Young AB
 Maria Strandberg
 Auktoriserad revisor
 2 (2)
-D8DK1-YXMTB-5H727-35GFL-VN215-O80PX
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: XP08O-512NV-LFG53-727H5-BTMXY-1KD8D
 
 <!-- sida 80 -->
 
@@ -3314,9 +3327,8 @@ för stiftelsens verksamhet och ekonomi för att säkerställa att insatserna f�
 på de områden där risken för bristfällig styrning och uppföljning är som störst.
 
 Styrelseledamöterna har inte handlat i strid med stiftelselagen eller stiftelseförordnandet.
-VPCA6-HR19C-NSQ55-UVR9X-44GA0-B28V1
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 1V82B-0AG44-X9RVU-55QSN-C91RH-6ACPV
 
 <!-- sida 81 -->
 
@@ -3352,9 +3364,8 @@ utsedd revisor             utsedd revisor
 Christine Lindeberg        Bo Regnér
 Av kommunfullmäktige       Av kommunfullmäktige
 utsedd revisor             utsedd revisor
-VPCA6-HR19C-NSQ55-UVR9X-44GA0-B28V1
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 1V82B-0AG44-X9RVU-55QSN-C91RH-6ACPV
 
 <!-- sida 82 -->
 
@@ -7802,11 +7813,7 @@ Stefan Jägnert Stefan Vilumsons
 
 Sverigedemokraterna i Kungsbacka
 
-Adress: NN
-
 Postadress: MN
-
-Org nr: ANN
 
 Granskningsintyg
 
@@ -7839,8 +7846,6 @@ Kun | IVUVIUN
 
 Kol g5backa direkt
 Oommunens kundcenter
-
-2025 -03- 17.
 
 År 2024
 
@@ -7959,8 +7964,6 @@ Vänsterpartiet Kungsbacka
 Parti 849400-8587
 
 Kontonummer
-
-\- Åsa
 
 Utdelningsadress E-postadress
 
@@ -10621,8 +10624,6 @@ ar .
 SD Socialdemokraterna
 
 Motion 2024-09-28
-
-(8 corssomseamrasmr VE
 
 F ra mtid e n S fo | kh ä | Sa Levnadsvanornas bidrag till hälsa -
 

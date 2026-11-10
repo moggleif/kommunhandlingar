@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.29af6da91949d95a61c5db05/1738066731
 sha256: af83d72493a481e0a7f3095261bb418cb200f24658566359f90fdb543278bd3c
 bytes: 227388954
 sidor: 322
-hamtad: 2026-10-25T10:32:26+00:00
-konverterad: 2026-10-25T10:39:06+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T01:13:44+00:00
+konverterad: 2026-11-10T01:21:13+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok]
@@ -1088,7 +1088,7 @@ Jan Österdahl | (M) TVK X |
 
 Kjell-Åke Andersson | (M) | Vk | Malin Magnusson IX |
 
-Franklin Eck | (M) TVK Xx
+Franklin Eck I (M) TVK Xx
 
 Michael Cassaras - (M) | Vk Lars Thelén X
 
@@ -1204,10 +1204,6 @@ Sida 1 av1
 KF § 89/12
 
 fa t å
-0 JSverigedemokn pirage D
-(0 SVEN ATerna
-EC : Itvgglet ön Traditinn.
-
 2012-04-10 — Reservation i fråga nr 16 under kvällens kommunfullmäktigemöte om
 antagandet av Översiktsplan för vindkraft, tillägg till Kungsbacka översiktsplan 2006.
 
@@ -9396,7 +9392,7 @@ förekomst i ytliga fyllnadsmassor har påvisats.
 
 Vid nuvarande markanvändning har massorna bedömts inte utgöra risk. Generellt riktvärde
 för KM överskrids, så risk kan föreligga vid förändrad markanvändning till bostadsändamål —
-om marken används till odling som motsvarar 10946 av det totala intaget av växter för de
+om marken används till odling som motsvarar 1096 av det totala intaget av växter för de
 boende (Intag växter är styrande för KM, och baseras i det fallet på att 10960 av totala intaget
 växter kommer från den aktuella platsen).
 
@@ -9511,7 +9507,7 @@ Lokalt på platsen:
 \- Buller
 \- - Damning
 Regionalt/nationellt:
-\- - Uppfyllnad av deponier
+\-  Uppfyllnad av deponier
 \-  Resursanvändning vid ev. återfyllnad på platsen efter genomförd schaktning
 \- Transporter till och från platsen
 o Miljöpåverkande utsläpp från dessa
@@ -9636,9 +9632,7 @@ Sida 7 av 7
 
 <!-- sida 227 -->
 
-B0000L00Z6L006€Z6€0086- SyET00
-
-OR AN OR AO ÄRR NON AN
+OR AN NA ONE NON AN AN EI
 
 Bilaga 6
 
@@ -9650,24 +9644,23 @@ Kungsbacka kommun
 Kungsbacka
 
 1 (8) Kungsbacka kommun,
-
 Datum 8 , 4ö ,
+
 Förvaltningen för Service
-
-LDL Att: Paul Dexell
-
-Diarienummer
-
+2023-10-12
+Dlarlsnummer Att: Paul Dexell
 MH-2023-2921-20 Storgatan 37
-
 Ärendetyp 434 81 Kungsbacka
-7.5.1.06
+7.5,1.06
 
 Beslut om försiktighetsåtgärder i samband med efterbehandling
+
 av förorenat område samt beslut om avgift
 
 Nämnden för Miljö & Hälsoskydd förelägger Kungsbacka Kommun, förvaltningen
+
 för Service, att för efterbehandlingsarbetet inom fastigheten GJUTAREN 1 vidta
+
 följande försiktighetsåtgärder:
 
 I Åtgärderna ska genomföras i enlighet med vad som redovisats i anmälan,
@@ -9700,14 +9693,21 @@ massor med de föroreningar och föroreningshalter som förekommer i jorden.
 Transportdokument ska upprättas om farligt avfall uppkommer,
 
 Bygg- och miljöförvaltningen Kungsbacka kommun
-Natali Kjernell 434 81 Kungsbacka
-Direkt +46300834134 Besöksadress
 
-natali.kjernellQkungsbacka.se Stadshuset, Storgatan 37
+Natali Kjernell 434 81 Kungsbacka
+
+Direkt +46300834134
+
+sö e
+natali.kjernelldkungsbacka.se Besöksadress
+
+Stadshuset, Storgatan 37
 
 Telefon 0300-83 40 00
 info(dkungsbacka.se
 www.kungsbacka.se
+
+B0000L00Z6L006€Z6€0086- SyET00
 
 <!-- sida 228 -->
 
@@ -9770,9 +9770,7 @@ löpande mellan konsulter och Miljö & Hälsoskydd.
 
 <!-- sida 229 -->
 
-NRO AO OR AE AO ON ROD ANT NT
-
-60000Z00Z6L006€Z6T0081 - ByET00
+INR OAU OR AN AO TOR AA ND « 1 ANT VE «IT
 
 KUNGSBACKA KOMMUN
 
@@ -9834,6 +9832,8 @@ andra beslut som har meddelats med stöd av balken ska följas. Mer ingripande
 verksamhet eller vidtar en åtgärd som det finns bestämmelser om i denna balk eller i
 föreskrifter som meddelats med stöd av balken, att till myndigheten lämna de
 
+60000Z00Z6L006€Z6T0081 - ByET00
+
 <!-- sida 230 -->
 
 KUNGSBACKA KOMMUN
@@ -9891,9 +9891,7 @@ myndighet får bestämma att dess beslut om avgift skall gälla omedelbart även
 
 <!-- sida 231 -->
 
-AYDE AN RT TON VEN NA AV TA
-
-L0000€00Z6L006€Z6T008Z ” OSET00
+AREAN ORT AT ON TEN AN AV TA I
 
 KUNGSBACKA KOMMUN
 
@@ -9927,19 +9925,18 @@ från den dag du fick del av beslutet, Annars kan din överklagan inte prövas.
 Nämnden för Miljö & Hälsoskydd skickar ditt överklagande vidare till högre instans
 för prövning.
 
+L0000€00Z6L006€Z6T008Z ” OSET00
+
 <!-- sida 232 -->
 
 <!-- sida 233 -->
 
-ORON AO OR EN RN ORD NAN ÄN AN NAT
-
-9000 L700Z6L006EZ620082 - LSET00
+II |
 
 Kungsbacka
 
 Delgivningskvitto
 Ett delgivningskvitto är enbart en bekräftelse på att du har tagit emot det angivna beslutet, Det
-
 innebär inte att du har godkänt beslutets innehåll.
 
 Det är viktigt för både dig och oss att du bekräftar att du delgivits beslutet så snart som möjligt,
@@ -9956,11 +9953,15 @@ Diarienummer: MH-2023-2921-20
 
 Jag har tagit emot ovan angivna handling
 
-€OorOVPEPPECDEFPECCVECPPAFPABPAWWVZJZ—- 0 ++-+m-nmm»> AARAPRONRERPAPPPPEPREPPERPEPRPPPEPPPPE PAPPA PEPPER GPR ARR AA
+€OrOVPEPPECDEVPACVECPPAFPAWBPRZZ”X”V—V m-==s-m.2o2=+-—- AARAPVOVRERPPPPEPREPPERPEPRPPPPEVPPPAAPE PAPPA PEPPAR GPR ARR AA
 
 Datum Underskrift
 
 Namnförtydligande
+
+ORON AO OR EN RN ORD NAN ÄN AN NAT
+
+9000 L700Z6L006EZ620082 - LSET00
 
 <!-- sida 234 -->
 
@@ -10661,7 +10662,7 @@ Sida 2 av 3
 
 <!-- sida 245 -->
 
-fred ere —tng RN FB FMTS DRAGNA
+fred ere —tng RN FRYS FM DRAGNA
 
 Metria FastighetSök - Kungsbacka Gjutaren I
 . Taxeringsuppgifter
@@ -11729,13 +11730,11 @@ Källa: Lantmäteriet
 
 <!-- sida 258 -->
 
-Ä / pryd
 /
 MM Grad Aj CJanS
 
 / Ior 7 ÅA bope
 f A
-j A UV: Sale /
 
 Fullmakt
 

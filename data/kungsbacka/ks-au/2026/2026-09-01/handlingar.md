@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28437bed1a0422e77ad4b7/178781796622
 sha256: 12db1436c0c686a49e5e3a8c49118f52ceffd30e1f7edd9ab3b66ff5b7f9fa55
 bytes: 4397264
 sidor: 23
-hamtad: 2026-10-25T09:50:17+00:00
-konverterad: 2026-10-25T09:50:42+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:28:37+00:00
+konverterad: 2026-11-10T00:29:04+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ej-konverterad, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ej-konverterad]
@@ -109,7 +109,7 @@ för nyaniägpning av vitmarker, däribland det tidigare förslaget om ett "Kung
 ee att kommunen aktivt ska verka för att fler våtmarksprojekt genomförs i samverkan med privata maräigsne,
 lantbrukare och berörda myndigheter
 
-= — att vålmarkers betydelse för biologisk mångfald, klinatanpassning, vattenkvalitet och klinmatskydd ska iniegreras
+= — att vålmarkers betydelse för biologisk mångfald, klinatanpassning, vattenkvalitet och klimatskydd ska iniegreras
 och beaktas i komnmyunens långsiktiga översikts- och detaljplanering
 
 s — att komnyunen ska samverka med det lokala Riceningslivet och ideella Mreningar för franstida våätmaarkssatsningar
@@ -142,7 +142,7 @@ mer kvärdiga förutsättningar att bedriva undervisning I alla kommunens försk
 skolor, där så mycket som möjligt av skattemedlen används för verksamhet nära
 eleverna. Kommunen ansvarar för att det finns skola för alla elever och har ett så kallat
 ”utbudsansvar” Detta Innebär att kommunens skolor behöver en högre tilldelning av
-skatternedel än friskolorna, Finansteringsmodellen bör utformas så att den täcker
+skattemedel än friskolorna, Finansteringsmodellen bör utformas så att den täcker
 marginalkostnader så att varje skola får möjlighet att kunna tillgodose alla elevers
 behov. Skolbyten mitt i terminerna kostar pengar och sjunkande slevartal leder till
 överkapacitet I skollokaler.

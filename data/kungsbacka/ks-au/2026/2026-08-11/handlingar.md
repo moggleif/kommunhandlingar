@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5dad318c19fb16abb679e602/1785997287
 sha256: d525c95a426c825c946a85d4fb9ee1f82917a2cc2f260e88ad5b31eb0b996273
 bytes: 19599751
 sidor: 316
-hamtad: 2026-10-25T09:45:18+00:00
-konverterad: 2026-10-25T09:48:19+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:23:21+00:00
+konverterad: 2026-11-10T00:26:27+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -1256,8 +1256,6 @@ Nämnden diskuterar ärendet
 
 BESLUT
 Avgifter för upplåtelse av offentlig plats tas ut enligt följande:
-
-HÖRVE sansa
 Zon 1 Kungsbacka centrum — högsta avgift enligt KF Ta: 7 a ESRSRNESSSETIEFSSSSTREREEAIEEDNE
 Zon 2 Kungsbacka stad — 50 960 av högsta avgift pttätss ris rrnseresrrr rr ARLA sana
 Zon 3 Kungsbacka kommun - 2596 av högsta avgift Gåälä/ Park soessrsrtorturseres
@@ -1266,8 +1264,6 @@ Uldrag KN arma NV Asos ba fbligpunenn
 TE, Planeringsavd |
 
 VÄL
-
-TG:
 
 J Expadlorat / Bestyrkt
 
@@ -1362,7 +1358,7 @@ råd men lyckades inte uppnå full enighet
 Av denna anledning presenterar Teknik ett nytt eget förslag för stlällningstagande
 till finansiering av upplåtelsen.
 
-i Kommunen har en taxa som reglerar avgifterna för begagnande av offentlig plats,
+i Komrnunen har en taxa som reglerar avgifterna för begagnande av offentlig plats,
 vilken varit oförändrad sedan 1997. Detta innebär för jen aktuella upplåtelsetypen
 (A Försäljningsändarnål / 2. Uteserveringar) att 120 kr/m2 per år tas ut. Taxan ger
 endast en marginell täckning för kommunens kostnader. Det är samtidigt
@@ -1447,7 +1443,6 @@ Det kommunala retroakiivitietsförbudet skall iakttas.
 Jäv
 Violet Dunér (v) dekager p g a jäv inle i behandlingen av ärendet.
 
-\|
 Utdrag:
 
 TE
@@ -9854,28 +9849,17 @@ HSLF-FS
 Omvårdnad
 
 Vad som ingår i omvårdnaden
-
 58 För det bam eller den ungdom som behöver det, ska
 omvårdnaden omfatta stöd och hjälp med att
-
 . göra den dagliga tillvaron begriplig, förutsägbar och trygg,
-
 . äta, dricka och förflytta sig,
-
 . sköta personlig hygien och klä sig,
-
 . kommunicera,
-
 . göra läxor, leka och ägna sig åt intressen,
-
 . vara delaktig i vardagliga göromål,
-
 . vara med i sociala sammanhang,
-
 . upprätthålla kontakt med föräldrar, övrig familj och vänner, och
 . planera sin framtid.
-
-BA HHAVRWINH
 
 Planering av omvårdnaden
 
@@ -9914,6 +9898,8 @@ Polisanmälan och skydd
 som avses i 3, 4 eller 6 kap. brottsbalken eller i lagen (1982:316) om
 förbud mot könsstympning av kvinnor och oskuldsingrepp på
 kvinnor ska den som förestår verksamheten skyndsamt göra en
+
+BA HHAVRWINH
 
 <!-- sida 213 -->
 
@@ -12066,9 +12052,6 @@ Befolkningsutveckling efter ålder, genomsnitt de fom senaste åren, Varberg kom
 
 40
 
-Antal
-\=
-
 2 TAN 2 AIR NAN HR 2 TR RI”
 
 Figur 3 — Befolkningsutvecklings efter ålder. Källa: Evidens 2025
@@ -12076,7 +12059,7 @@ Figur 3 — Befolkningsutvecklings efter ålder. Källa: Evidens 2025
 Hushåliens sommarsättnng, 2024 Andel parsonar pår älderigrupp. 2024
 
 1008
-805 a & :
+805 & :
 608 ;
 4086 dad
 
@@ -12095,6 +12078,8 @@ I sammanboende mod barn 3: : 3 3 : i
 Figur 4 - Hushållens sammansättning 2024 samt andel personer per åldersgrupp 2024. Källa: Evidens 2025
 
 Analys - remissversion| Varbergs kommun
+
+Antal
 
 <!-- sida 264 -->
 

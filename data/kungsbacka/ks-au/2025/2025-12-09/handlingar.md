@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7afd6e1d19ae7d4de8b1d70/17648426823
 sha256: c9516b97af17ac4639930467196f2a567dfe59a991eb7682e721dc6d3dfc5962
 bytes: 39783867
 sidor: 291
-hamtad: 2026-10-25T08:49:04+00:00
-konverterad: 2026-10-25T08:55:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T23:24:15+00:00
+konverterad: 2026-11-09T23:30:39+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
@@ -630,7 +630,7 @@ uppgifter som lämnats enligt 2 § samt följande uppgifter
 1\. hur länge incidenten pågått,
 hur incidenten upptäcktes,
 i tillämpliga fall, när incidenten avhjälptes,
-en preliminär bedömning om incidentens orsak,
+.. en preliminär bedömning om incidentens orsak,
 i tillämpliga fall, information om angreppsindikatorer,
 påverkan på ett systems förmåga att upprätthålla konfidentialitet,
 riktighet inklusive autenticitet, och tillgänglighet,
@@ -644,8 +644,6 @@ b) berört geografiskt område,
 c) ekonomisk skada, och
 d) gränsöverskridande konsekvenser.
 
-NAV RBYN
-
 Slutrapport eller lägesrapport
 48 — Slutrapporten ska innehålla en komplettering och uppdatering av
 uppgifter som lämnats enligt 2—3 §§. I tillämpliga fall ska den även
@@ -657,6 +655,8 @@ vidtagits eller kommer att vidtas för att
 2\. hantera och minimera konsekvenserna av incidenten, och
 
 3\. undvika att liknande incidenter inträffar.
+
+NAV RBYN
 
 <!-- sida 17 -->
 
@@ -930,7 +930,7 @@ Transporter
 
 Sjöfart, Lufttransport och Vägtransport
 
-58 -. Med betydande incident som har orsakat allvarlig driftstörning för
+58 - Med betydande incident som har orsakat allvarlig driftstörning för
 
 den erbjudna tjänsten avses en incident där
 
@@ -1534,21 +1534,13 @@ miljön.
 säkerhetsåtgärder ingår att vid behov men minst årligen informera sig om
 
 1\. risker som bedöms som allvarliga för cybersäkerheten,
-
 status i arbetet med åtgärdsplaner,
-
 betydande incidenter,
-
 bristande cybersäkerhet hos leverantörer och i leveranskedjor,
 samordnarens utvärdering enligt 2 kap. 24 §,
-
 resultat av intern och extern revision,
-
 resultat av genomförd tillsyn, och
-
 hinder för att uppnå lämplig nivå av cybersäkerhet.
-
-ONAVRWN
 
 Ledningens utbildning om säkerhetsåtgärder
 98 Ledningens utbildning om säkerhetsåtgärder ska minst omfatta
@@ -1586,6 +1578,8 @@ Allmänna råd
 Kontroller bör genomföras genom identitetskontroll, intervju, kontakt med
 referenser samt verifiering av akademiska, yrkesmässiga och övriga
 kvalifikationer.
+
+ONAVRWN
 
 <!-- sida 32 -->
 
@@ -2266,8 +2260,6 @@ att förhindra spridning och minimera konsekvenser av incidenter. I
 produktionsmiljöns it-segment ska, om inte särskilda hinder identifierats,
 minst följande placeras i separata segment
 
-In Bl bI
-
 en
 \:
 
@@ -2685,8 +2677,6 @@ hur länge säkerhetskopiorna ska bevaras,
 hur återläsning av säkerhetskopior ska göras, och
 hur återläsning av säkerhetskopior kontrolleras.
 
-IA RB lb
-
 en
 \:
 
@@ -2843,16 +2833,12 @@ eller avbrott i deras funktion på grund av fel eller avbrott i tekniska
 försörjningssystem.
 Verksamhetsutövaren ska säkerställa tillräcklig funktion och redundans i
 produktionsmiljö avseende
-
 I. elförsörjning,
-
 2\. elektroniska kommunikationsnät och elektroniska
 kommunikationstjänster,
 kyla,
 värme, och
 ventilation.
-
-bildad
 
 78 - Verksamhetsutövaren ska identifiera och hantera behovet av att
 övervaka de tekniska försörjningssystemens funktion och säkerställa att
@@ -2860,7 +2846,6 @@ larm genereras vid otillräcklig funktion vid på förhand fastställda nivåer 
 produktionsmiljön.
 
 8§ :Verksamhetsutövaren ska identifiera och hantera behovet av
-
 tillräcklig funktion och redundans hos tekniska försörjningssystem i
 utvecklings-, test- och utbildningsmiljö.
 
@@ -2869,15 +2854,17 @@ utvecklings-, test- och utbildningsmiljö.
 Offentlig förvaltning
 
 System för kriskommunikation
+
 18 Verksamhetsutövaren ska identifiera och hantera behovet av att
 använda Rakel (Radiokommunikation för effektiv ledning) och SGSI
-
 (Swedish Government Secure Intranet) för kriskommunikation.
 
 28 =: Verksamhetsutövare ska en gång per kvartal, kontrollera funktionen
 hos system för intern och extern kriskommunikation.
 
 25
+
+bildad
 
 <!-- sida 51 -->
 
@@ -4789,7 +4776,7 @@ föreskrifter om rapportering av incidenter för leverantörer av digitala tjän
 
 <!-- sida 88 -->
 
-(MSBFS 2018:10).:? Här bedöms den nya regleringen om incidentrapportering
+(MSBFS 2018:10).:2 Här bedöms den nya regleringen om incidentrapportering
 därför inte ge upphov till några ökade kostnader. I jämförelse med dessa krav,
 enligt vilken den första notifieringen till CSIRT-enheten ska lämnas senast sex
 timmar efter att organisationen har identifierat en rapporteringspliktig
@@ -9647,7 +9634,6 @@ www kungsbacka.se
 aCNO
 
 ra €
-on MA
 « vs
 STA?
 
@@ -10151,12 +10137,13 @@ miljoner kronor.
 
 Investeringsbudget för nya lokaler och boenden, belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-91       761       663      442       568
+
+91       761       663       442       568
 
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner
 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2030
-18       24        58        57        36
+18        24        58       57        36
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis förstudie, sanering, restvärden, paviljonghyror och
 inredning.
@@ -10166,19 +10153,24 @@ Fritidsanläggningarna är kommunens anläggningar för idrotts- och fritidsakti
 
 Lokaltyp och beskrivning       2026 2027 2028 2029 2030
 140 Onsala fullmåttshall                    x
-143 Åsa fullmåttshall                            x
-145 Enkel isyta för träning (ishall)                  x
-147 Evakuering klubbstugor Inlag   x
+143 Åsa fullmåttshall                           x
+
+145 Enkel isyta för träning (ishall)                 x
+147 Evakuering klubbstugor Inlag  x
+
+Noter
+140 Onsala fullmåttshall
+Ny fullmåttsidrottshall som fyller både skolverksamhetens
+och föreningslivets behov.
+143 Åsa fullmåttshall
+Vi planerar för en ny idrottshall i Åsa.
 
 145 Enkel isyta för träning
-Noter
 Träningsishall som är något mindre än publika arenor.
-140 Onsala fullmåttshall
-Ny fullmåttsidrottshall som fyller både skolverksamhetens 147 Ersättning klubblokaler Inlag
-och föreningslivets behov.        Tillfällig ersättning av föreningslokaler som för närvarande
+147 Ersättning klubblokaler Inlag
+Tillfällig ersättning av föreningslokaler som för närvarande
 är placerade på Inlagsområdet. Vi behöver ersättningslokaler
-143 Åsa fullmåttshall             med anledning av arenans byggnation.
-Vi planerar för en ny idrottshall i Åsa.
+med anledning av arenans byggnation.
 
 Kommunbudget 2026 och plan 2027–2028 51
 
@@ -10219,34 +10211,20 @@ Foto: Emelie Asplund
 
 <!-- sida 217 -->
 
-INVESTERING OCH EXPLOATERING
-
 Noter
-351 Tingbergsskolan avveckling lokal och flytt
+
 227 Gräskärr förskola
-Avveckling av Tingbergsskolans lokaler i samband med färdig-
 Exploatering av bostäder i centrala Kungsbacka har gett ökade
-ställande av ny skola i kvarteret Liljan.
 behov av förskola. Därför måste vi bygga nya förskolelokaler.
-345 Tingbergsskolan avveckling lokal och flytt
 227 a Gräskärrs förskola infrastruktur
-I samband med att vi bygger Kvarteret Liljan skola kommer det
 Infrastruktur i form av tillfartsväg, vatten och avlopp och fjärr-
-att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
 värme för etablering av Gräskärrs förskola.
-avveckla den befintliga inhyrda lokalen.
 236 Åsa förskola
-341 Fjordskolan avveckling lokal och flytt
 Området är föremål för exploatering av nytt bostadsområde. Vi
-På grund av överkapacitet av lokaler ser kommunen över möjlig-
 bygger nya utbildningsplatser genom att anpassa befintliga skollo-
-heten att avveckla lokalen.
 kaler till förskolelokaler. Vi färdigställer funktionen i två etapper.
-359 Anpassad grundskola
 346 Åsa förskola avveckling
-Utbildningsplatser för anpassad grundskola utökas vid centrum-
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
-nära Kollaskolan.
 flytt till permanenta lokaler i närområdet.
 347 Åsa förskola avveckling
 Avveckling av verksamhetslokalisering i inhyrd lokal till förmån av
@@ -10282,6 +10260,23 @@ föreningslivets behov. Samordning sker med behov 338 Kvarteret
 Liljan skola.
 339b Kvarteret Liljan garage
 Parkeringsgarage i direkt anslutning till framtida grundskola.
+
+INVESTERING OCH EXPLOATERING
+
+351 Tingbergsskolan avveckling lokal och flytt
+Avveckling av Tingbergsskolans lokaler i samband med färdig-
+ställande av ny skola i kvarteret Liljan.
+345 Tingbergsskolan avveckling lokal och flytt
+I samband med att vi bygger Kvarteret Liljan skola kommer det
+att bli en överkapacitet på Tingbergsskolan. Detta gör att vi kan
+avveckla den befintliga inhyrda lokalen.
+341 Fjordskolan avveckling lokal och flytt
+På grund av överkapacitet av lokaler ser kommunen över möjlig-
+heten att avveckla lokalen.
+359 Anpassad grundskola
+Utbildningsplatser för anpassad grundskola utökas vid centrum-
+nära Kollaskolan.
+
 Kommunbudget 2026 och plan 2027–2028 53
 
 <!-- sida 218 -->
@@ -10297,24 +10292,31 @@ stycken gruppbostad och sex stycken som servicebostad eller att alla tolv nyttja
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 413 Boende med särskild service, barn           4
-414 Boende med särskild service  12
-513 Stödboende                                 12
+414 Boende med särskild service   12
+513 Stödboende                                  12
 514 Boende med särskild service       12
-515 Boende med särskild service            12
 
-516 Boende med särskild service                12
+515 Boende med särskild service            12
+516 Boende med särskild service                 12
 
 Noter
-413 Boende med särskild service, barn 514 Boende med särskild service
-Gruppbostad för barn med fyra platser för att verkställa Boende med tolv platser för att verkställa biståndsbeslut.
+
+413 Boende med särskild service, barn
+Gruppbostad för barn med fyra platser för att verkställa
 biståndsbeslut.
-515 Boende med särskild service
-414 Boende med särskild service   Boende med tolv platser för att verkställa biståndsbeslut.
+414 Boende med särskild service
 Boende med tolv platser för att verkställa biståndsbeslut.
-516 Boende med särskild service
-513 Stödboende                    Boende med tolv platser för att verkställa biståndsbeslut.
+513 Stödboende
 Bemannat boende inriktat mot missbruk och psykisk ohälsa. Tolv
 platser för att verkställa biståndsbeslut.
+
+514 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+515 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
+
+516 Boende med särskild service
+Boende med tolv platser för att verkställa biståndsbeslut.
 
 Gymnasium och arbetsmarknad
 Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem år räknar vi med att antal elever är cirka
@@ -10322,6 +10324,7 @@ Idag går det cirka 2 900 elever på de tre kommunala gymnasieskolorna. Om fem �
 användande av lokaler för att klara av denna elevmängd i befintliga lokaler.
 
 Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+
 1412 Fordons och Transportprogrammet       x
 1413 Kompetenscentrum             x
 
@@ -10354,31 +10357,34 @@ Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 819 Verksamhetslokal digital Hemtjänst och x
 Hemsjukvård
 820 Centralförråd grundutrustning Hjälpmedel x
-821 Verksamhetslokal för Hemtjänsten och    x
+821 Verksamhetslokal för Hemtjänsten och   x
 Hemsjukvård i Åsa med tillhörande parke-
 ringsplatser med laddstolpar för tjänste-
 bilar
 
 Noter
-819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+
 811 Reservkraft
-Möjlighet till samlokalisering i Signes Hus.
 Vi behöver ersätta flertalet befintliga vård­ och omsorgs­
 boendens mobila reservkraftverk med stationära för att uppfylla
-820 Centralförråd grundutrustning Hjälpmedel
 lagkrav och patientsäkerhet.
-Möjlighet till samlokalisering i Signes Hus.
 813 Administrativ lokal avveckling
-821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
 Hyresavtal som löper ut år 2026.
-tillhörande parkeringsplatser med laddstolpar för tjänstebilar
-Vi har genomfört en utredning och det finns möjlighet för nämn-
 817 Ekhaga vård-och omsorgsboende
-den att börja använda dem innan 2029, om det finns önskemål
 Mindre anpassningar av lokalerna
-om det.
 818 Ersättning verksamhetslokal
 Permanent lokallösning för administrativa lokaler.
+
+819 Verksamhetslokal digital Hemtjänst och Hemsjukvård
+Möjlighet till samlokalisering i Signes Hus.
+820 Centralförråd grundutrustning Hjälpmedel
+Möjlighet till samlokalisering i Signes Hus.
+
+821 Verksamhetslokal för Hemtjänst och Hemsjukvård i Åsa med
+tillhörande parkeringsplatser med laddstolpar för tjänstebilar
+Vi har genomfört en utredning och det finns möjlighet för nämn-
+den att börja använda dem innan 2029, om det finns önskemål
+om det.
 
 Kommunbudget 2026 och plan 2027–2028 55
 
@@ -10389,33 +10395,41 @@ INVESTERING OCH EXPLOATERING
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service Digitalt center. Återkommande
 lokaltyper är storkök, kontor och specifika IT-lokaler.
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
 1503 Förråd                                x
 1514 Förråd 2                                   x
 1516 Administrativa lokaler samlokalisering x
 1517 Administrativa lokaler avveckling x
 1518 Administrativa lokaler avveckling x
 1519 Administrativa lokaler evakuering x
-238 Villa Emilia paviljong avveckling x
+238 Villa Emilia paviljong avveckling  x
 
 Noter
 
-1503 Förråd                       1518 Avveckling administrativa lokaler
-Lagring för flertalet av kommunens verksamheter. Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
-sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
-1514 Förråd 2                     med behov 1516 Samlokalisering administrativa lokaler.
+1503 Förråd
 Lagring för flertalet av kommunens verksamheter.
-1519 Administrativa lokaler evakuering
-1516 Samlokalisering administrativa lokaler Tillfällig lokallösning i samband med evakuering. Samordnas med
-Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka- behov 1516 Samlokalisering administrativa lokaler.
+1514 Förråd 2
+Lagring för flertalet av kommunens verksamheter.
+
+1516 Samlokalisering administrativa lokaler
+Ombyggnation av Stadshuset, Hus B, i syfte att anpassa loka-
 lerna till framtidens arbetssätt och därigenom samlokalisera
-flera verksamheter.               238 Villa Emilia förskola paviljong avveckling
-Avveckling av inhyrd lokal.
+flera verksamheter.
 1517 Avveckling administrativa lokaler
 Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
 sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
 med behov 1516 Samlokalisering administrativa lokaler.
+
+1518 Avveckling administrativa lokaler
+Vi avvecklar kontorslokaler som vi hyr externt för att samlokali-
+sera oss i stadshuset, där vi gör om lokalerna i Hus B. Samordnas
+med behov 1516 Samlokalisering administrativa lokaler.
+1519 Administrativa lokaler evakuering
+Tillfällig lokallösning i samband med evakuering. Samordnas med
+behov 1516 Samlokalisering administrativa lokaler.
+238 Villa Emilia förskola paviljong avveckling
+Avveckling av inhyrd lokal.
 
 56 Kommunbudget 2026 och plan 2027–2028
 
@@ -10424,22 +10438,32 @@ med behov 1516 Samlokalisering administrativa lokaler.
 INVESTERING OCH EXPLOATERING
 
 Övriga lokaler
-Lokaltyp och beskrivning 2026 2027 2028 2029 2030
-131 Arena inklusive skyddsrum          x
 
-1202 Oförutsedda behov        x   x    x    x
-1410 Engångsdriftskostnader allmänt x x x   x   x
+Lokaltyp och beskrivning 2026 2027 2028 2029 2030
+131 Arena inklusive skyddsrum         x
+1202 Oförutsedda behov       x    x   x    x
+1410 Engångsdriftskostnader allmänt x x x  x    x
 1411 Räddningstjänst                            x
 
 Noter
-131 Arena inklusive skyddsrum     1410 Engångskostnader
-Arena som består av hall med läktarfunktion, utomhusläktare Medel för oplanerade lokalbehov som exempelvis rivning eller
-för fotboll och kommersiella lokaler. Lokalisering söder om sanering som kan uppstå vid främst ombyggnationer av befintliga
-Kungsbacka Sportcenter.           lokaler.
-1202 Oförutsedda behov            1411 Räddningstjänst
-Medel för hantering av oförutsedda behov som uppstår under Räddningstjänsten måste flytta till nybyggda lokaler eftersom
-planeringsperioden. Exempel är iordningsställande av tillfälliga vi planerar exploatering i sydöstra centrum där de befintliga
-lokaler.                          lokalerna finns
+
+131 Arena inklusive skyddsrum
+Arena som består av hall med läktarfunktion, utomhusläktare
+för fotboll och kommersiella lokaler. Lokalisering söder om
+Kungsbacka Sportcenter.
+1202 Oförutsedda behov
+Medel för hantering av oförutsedda behov som uppstår under
+planeringsperioden. Exempel är iordningsställande av tillfälliga
+lokaler.
+
+1410 Engångskostnader
+Medel för oplanerade lokalbehov som exempelvis rivning eller
+sanering som kan uppstå vid främst ombyggnationer av befintliga
+lokaler.
+1411 Räddningstjänst
+Räddningstjänsten måste flytta till nybyggda lokaler eftersom
+vi planerar exploatering i sydöstra centrum där de befintliga
+lokalerna finns
 
 Foto: Berit Prohaszka
 
@@ -12356,7 +12380,6 @@ Kartläggning                    externa             priser
 <!-- sida 271 -->
 
 Kartläggning interna priset
-BE AE EE AA EE
 
 Årets leverans, Årets
 nyskapare, Årets

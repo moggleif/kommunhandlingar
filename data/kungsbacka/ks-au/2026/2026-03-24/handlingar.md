@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4693ec7119d053506a93bc4/17739220994
 sha256: 51082188508169120cf07e42ff7429820c11f4fc2c7c4fd73e96d16141cc556c
 bytes: 40442599
 sidor: 131
-hamtad: 2026-10-25T09:12:10+00:00
-konverterad: 2026-10-25T09:14:19+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-09T23:48:23+00:00
+konverterad: 2026-11-09T23:50:38+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr]
@@ -242,7 +242,6 @@ genom annan insats.
 genom annan insats.
 2025-05-28 11 kap 1 § SoL Saknar plats Avslutat 2025-12-05.
 öppenvårdsverksamhet Insatsen önskas inte
-längre.
 2025-07-01 11 kap 1 § SoL Rekryteringsbekymmer, finns Avslutat 2026-01-19.
 kontaktfamilj ingen kontaktfamilj som Insatsen önskas inte
 matchar behovet. längre.
@@ -4245,7 +4244,7 @@ Nockhöjd/våningsantal prövas slutligt i detaljplanen.
 inom kvartersmark (bil och cykel). Parkeringstal för bil och cykel tas fram i
 planarbetet.
 
-= Anläggningar och byggnader både inom allmän plats och kvartersmark ska
+«= Anläggningar och byggnader både inom allmän plats och kvartersmark ska
 hålla en hög nivå. Gestaltningsnivåer, kvalitetsnivåer och referensobjekt ska
 slås fast i detaljplanen.
 
@@ -5067,7 +5066,7 @@ platsen är en av de sista kommunala fastigheter som fortfarande inte är
 
 såld.
 
-e Platsen är tillräckligt stor att inrymma en fullmåttig ÅVC om 10 000 kvm.
+e — Platsen är tillräckligt stor att inrymma en fullmåttig ÅVC om 10 000 kvm.
 e - Duveheds verksamhetsområde och har god tillgänglighet för transporter.
 
 Kartbilden illustrerar placering av ÅVC i Duveheds verksamhetsområde.

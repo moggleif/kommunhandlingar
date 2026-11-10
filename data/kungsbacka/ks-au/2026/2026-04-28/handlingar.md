@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.392a4a7119d9a642aaa8f7dd/1777025199
 sha256: fc9c56035fd213acf67a82399c9ecc2dc9e3d2307730d12271a7f170c098dd09
 bytes: 10969842
 sidor: 146
-hamtad: 2026-10-25T09:24:41+00:00
-konverterad: 2026-10-25T09:25:21+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-10T00:01:07+00:00
+konverterad: 2026-11-10T00:01:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
@@ -2112,44 +2112,88 @@ Figur 17. Alternativa utredningskorridorer avfärdade innan myndighetsdialog.
 Tabell 4. Alternativa utredningskorridorer avfärdade innan myndighetsdialog samt
 motivering till avfärdande.
 
-Alternativ Beskrivning alternativ Motiv till avfärdande
-Hav – H3 Utgår från mötespunkt mot Onödigt lång sträcka utan
-Danmark, löper söderut och anledning som motiverar den
-viker sedan av österut för att extra sträckan.
+Alternativ Beskrivning alternativ
+
+Hav – H3 Utgår från mötespunkt mot
+Danmark, löper söderut och
+viker sedan av österut för att
 ansluta mot H2
-Hav – H4 Fortsätter söderut från H3 och Korridoren ansluter till ett
-ansluter mot landtag i Ringhals landtag som avfärdats, därmed
+Hav – H4 Fortsätter söderut från H3 och
+ansluter mot landtag i Ringhals
+
+Hav/land – Utgår norrut från H1 i havet
+1        och viker av österut vid Billdal.
+Följer befintliga Konti-Skan 1
+och 2. Ansluter på land mot
+avfärdade korridor N
+
+Motiv till avfärdande
+
+Onödigt lång sträcka utan
+anledning som motiverar den
+extra sträckan.
+
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
 avfärdas även anslutande
 korridor till havs.
-
-Hav/land – Utgår norrut från H1 i havet Korridoren ansluter till ett
-1        och viker av österut vid Billdal. landtag som avfärdats, därmed
-Följer befintliga Konti-Skan 1 avfärdas även anslutande
-och 2. Ansluter på land mot korridorer både till havs och på
-avfärdade korridor N land.
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
+avfärdas även anslutande
+korridorer både till havs och på
+land.
 
 39
 
 <!-- sida 56 -->
 
-Alternativ Beskrivning alternativ Motiv till avfärdande
+Alternativ Beskrivning alternativ
+Hav/land 2 Utgår norrut från korridor
+”Hav/land 3” i havet. Landtag i
+Örsvik och ansluter på land
+mot avfärdade ”Hav/land 1”
+samt C1.
 
-Hav/land 2 Utgår norrut från korridor Korridoren ansluter till ett
-”Hav/land 3” i havet. Landtag i landtag som avfärdats, därmed
-Örsvik och ansluter på land avfärdas även anslutande
-mot avfärdade ”Hav/land 1” korridorer både till havs och på
-samt C1.             land.
-Hav/land 3 Utgår norrut från havskorridor Korridoren ansluter till ett
-4 med landtag i Kyvik. landtag som avfärdats, därmed
-Fortsätter österut på land och avfärdas även anslutande
-ansluter mot C1.     korridorer både till havs och på
+Hav/land 3 Utgår norrut från havskorridor
+4 med landtag i Kyvik.
+Fortsätter österut på land och
+ansluter mot C1.
+
+Land b   Utredningskorridoren följer väg
+E6 på östra sidan av Natura
+2000-områdena Sandsjöbacka
+och Sandsjöbacka-Halland.
+Ont om utrymme mellan E6 och
+berg på flera ställen.
+
+Land g   Utgår från S3 som en kortare
+alternativ delsträcka öster om
+Lindome.
+
+Land N   Norra alternativet längs med
+Konti-Skans befintliga kablar
+och luftledning på land.
+
+40
+
+Motiv till avfärdande
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
+avfärdas även anslutande
+korridorer både till havs och på
 land.
-Land b   Utredningskorridoren följer väg I detta skede fanns inga
-E6 på östra sidan av Natura projektörer som kunde bedöma
-2000-områdena Sandsjöbacka framkomlighet inom korridoren.
-och Sandsjöbacka-Halland. Alternativet löper delvis inom
-Ont om utrymme mellan E6 och östra delen av Natura 2000
-berg på flera ställen. området Sandsjöbacka,
+
+Korridoren ansluter till ett
+landtag som avfärdats, därmed
+avfärdas även anslutande
+korridorer både till havs och på
+land.
+I detta skede fanns inga
+projektörer som kunde bedöma
+framkomlighet inom korridoren.
+Alternativet löper delvis inom
+östra delen av Natura 2000
+området Sandsjöbacka,
 byggarbeten kan medföra
 påverkan på Natura 2000
 området genom sprängning
@@ -2159,12 +2203,12 @@ bedömdes finnas alternativ
 med bättre/enklare
 framkomlighet avfärdades
 detta alternativ.
-Land g   Utgår från S3 som en kortare Avfärdas med anledning av
-alternativ delsträcka öster om golfbana, längd och ingen
-Lindome.             tydlig struktur att följa.
-Land N   Norra alternativet längs med Det är byggtekniskt svårt samt
-Konti-Skans befintliga kablar förknippat med stora
-och luftledning på land. arbetsmiljörisker att anlägga
+Avfärdas med anledning av
+golfbana, längd och ingen
+tydlig struktur att följa.
+Det är byggtekniskt svårt samt
+förknippat med stora
+arbetsmiljörisker att anlägga
 nya kablar nära befintliga
 ledningar samtidigt som de
 befintliga är i drift. Befintlig
@@ -2178,8 +2222,6 @@ avfärdande. Vidare har de två
 landtagen som ansluter till N
 förkastats, vilket gör korridor N
 inaktuell.
-
-40
 
 <!-- sida 57 -->
 
@@ -2205,9 +2247,41 @@ Figur 18. Avfärdade alternativa utredningskorridorer efter myndighetsdialogen.
 Tabell 5. Avfärdade alternativa utredningskorridorer efter myndighetsdialogen samt
 motivering till avfärdande.
 
-Alternativ Beskrivning alternativ Motiv till avfärdande
-Hav – H2 Den södra av de två  Korridoren avfärdas då den i
-korridorerna i havet. större utsträckning berör
+Alternativ Beskrivning alternativ
+
+Hav – H2 Den södra av de två
+korridorerna i havet.
+
+Hav – h  En mindre korridor som ger
+möjlighet att byta mellan norra
+och södra korridoren i havet
+
+Hav – i  En mindre korridor som ger
+möjlighet att byta mellan norra
+och södra korridoren i havet
+Hav/land – Utgår från H2 med landtag vid
+6        Låddholmen/Lerkil. Fortsätter
+österut på land och ansluter till
+S1.
+
+Hav/land - Utgår från H2 med landtag vid
+7        Gate Klova. Fortsätter österut
+på land och ansluter till S1.
+
+Land – S1 Fortsätter norrut från Hav/land
+6 och 7. Ansluter till S2 väster
+om Kungsbacka tätort.
+
+Land – del Den norra delen av C2 som
+av C2    följer E6 norrut. Viker av
+österut längs med befintlig
+infrastruktur och ansluter till
+S3.
+
+Motiv till avfärdande
+
+Korridoren avfärdas då den i
+större utsträckning berör
 försiktighetsområde
 (Precautionary Area) där flera
 fartygsrutter går ihop vilket
@@ -2215,37 +2289,35 @@ inte är bra ur sjötrafiksynpunkt.
 Sjöfartsverket och
 Transportstyrelsen förespråkar
 H1 framför H2.
-Hav – h  En mindre korridor som ger Utgår till följd av att korridor
-möjlighet att byta mellan norra H2 utgår.
-och södra korridoren i havet
-Hav – i  En mindre korridor som ger Utgår till följd av att korridor
-möjlighet att byta mellan norra H2 utgår.
-och södra korridoren i havet
+Utgår till följd av att korridor
+H2 utgår.
 
-Hav/land – Utgår från H2 med landtag vid Korridoren avfärdas p.g.a.
-6        Låddholmen/Lerkil. Fortsätter Försvarsmaktens yttrande och
-österut på land och ansluter till att det inte finns någon annan
-S1.                  anledning som motiverar den
-extra längden. Det finns andra
-alternativ som är likvärdiga
-eller bättre avseende påverkan
-på förekommande intressen.
-Hav/land - Utgår från H2 med landtag vid Korridoren avfärdas p.g.a.
-7        Gate Klova. Fortsätter österut Försvarsmaktens yttrande och
-på land och ansluter till S1. att det inte finns någon annan
+Utgår till följd av att korridor
+H2 utgår.
+
+Korridoren avfärdas p.g.a.
+Försvarsmaktens yttrande och
+att det inte finns någon annan
 anledning som motiverar den
 extra längden. Det finns andra
 alternativ som är likvärdiga
 eller bättre avseende påverkan
 på förekommande intressen.
-Land – S1 Fortsätter norrut från Hav/land Utgår till följd av att landtag 6
-6 och 7. Ansluter till S2 väster och 7 utgår.
-om Kungsbacka tätort.
-Land – del Den norra delen av C2 som Avfärdas med anledning av
-av C2    följer E6 norrut. Viker av tekniskt mycket svår passage
-österut längs med befintlig av väg, järnväg och vatten vid
-infrastruktur och ansluter till Sagsjön.
-S3.
+Korridoren avfärdas p.g.a.
+Försvarsmaktens yttrande och
+att det inte finns någon annan
+anledning som motiverar den
+extra längden. Det finns andra
+alternativ som är likvärdiga
+eller bättre avseende påverkan
+på förekommande intressen.
+Utgår till följd av att landtag 6
+och 7 utgår.
+
+Avfärdas med anledning av
+tekniskt mycket svår passage
+av väg, järnväg och vatten vid
+Sagsjön.
 
 42
 
