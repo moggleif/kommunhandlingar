@@ -1,5 +1,5 @@
-"""Krav: K36, K37, K38, K42 och K44 i docs/02-KRAV.md, ADR-0057, ADR-0058,
-ADR-0059, ADR-0065 och ADR-0067. Test: tests/test_lokalbehov.py,
+"""Krav: K36, K37, K38, K42 och K44 i docs/02-KRAV.md, ADR-0057,
+ADR-0058, ADR-0059, ADR-0065 och ADR-0067. Test: tests/test_lokalbehov.py,
 tests/test_initiativ.py, tests/test_handlingsplaner.py,
 tests/test_redovisningar.py, tests/test_detaljplaner.py.
 
@@ -213,18 +213,22 @@ DETALJPLANER = Slag(
     },
     inledning=(
         "<p>Detaljplanerna som nämnden arbetar med år för år: planbeskedet, "
-        "uppdraget att ta fram planen, samrådet, granskningen, antagandet och "
+        "uppdraget att ta fram planen, samrådet, granskningen, godkännandet, "
+        "antagandet och "
         "ett överklagande eller ett avslutat planuppdrag. Varje ikon länkar "
         "till sidan i dokumentet som visar steget.</p>"
     ),
     metod=(
         "<p>Ett steg är ett beslut i nämndens, arbetsutskottets, "
-        "kommunstyrelsens eller fullmäktiges protokoll. Beredningen av "
+        "kommunstyrelsens eller fullmäktiges protokoll; från "
+        "kommunstyrelsen planbeskedet och projektbeställningen. Beredningen av "
         "nämndens ärenden, informationen och avstämningarna står inte med, "
         "och ett planbesked bara när det blev en plan på sidan. Varje steg "
         "har en text som står på källans sida, och bygget prövar det.</p>"
         "<p>En plan har ett namn på sidan, med fastighetsbeteckningen, även "
-        "när källorna kallar den olika. Ett år utan ikon betyder att inget "
+        "när källorna kallar den olika. Där källan inte själv säger att det "
+        "gäller planen är kopplingen en bedömning och ikonen har en streckad "
+        "ram. Ett år utan ikon betyder att inget "
         "steg står i poolen det året, inte att inget hände; poolen saknar en "
         "del protokoll. Sidan visar vad som står var och värderar inte "
         "planerna.</p>"

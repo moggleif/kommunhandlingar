@@ -23,7 +23,7 @@ sedan följa.
 Poolen har ungefär 110 planärenden i nämndens protokoll 2024–2026 och
 ungefär 130 i arbetsutskottets 2023–2026, och de flesta av utskottets
 är förslag till nämnden. Före 2024 har nämndens protokoll ingen
-innehållsförteckning, och nämnden saknas helt 2018 och från april 2022
+innehållsförteckning, och nämnden saknas helt 2018 och från mars 2022
 till 2023. Hur visas planerna utan att sidan blir en lista över
 dagordningen?
 
@@ -51,13 +51,14 @@ organ, och sidorna för spår redan visar det med källor.
 * **Slaget** `detaljplaner` står i `sparslag.py` med kolumnen
   `detaljplan` och faserna `planbesked`, `uppdrag`, `samrad`,
   `granskning`, `godkannande`, `antagande`, `overklagande` och
-  `avslutad`. Ingen annan kod ändras.
+  `avslutad`. Två ikoner som slagen delar blir konstanter; ingen annan
+  kod ändras.
 * **Planen** har ett namn med vad den gäller och fastighetsbeteckningen,
   så att den går att känna igen på lokalbehovssidorna.
 * **Ett steg är ett beslut:** nämndens, arbetsutskottets egna
-  (planuppdragen), kommunstyrelsens och fullmäktiges. Utskottets förslag
-  till nämnden står inte med, också när nämndens protokoll saknas i
-  poolen.
+  (planuppdragen), kommunstyrelsens (planbesked och projektbeställningar)
+  och fullmäktiges. Utskottets förslag till nämnden står inte med, också
+  när nämndens protokoll saknas i poolen.
 * **Planbeskeden** står med bara när de blev en plan på sidan. De flesta
   gäller en enskild fastighet som aldrig blir en plan.
 * **Första omgången** har planerna med ett steg 2024–2026 och deras

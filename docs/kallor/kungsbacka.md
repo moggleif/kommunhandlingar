@@ -857,24 +857,24 @@ detaljplanerna står inte med.
 
 Detaljplanssidan (K44,
 [ADR-0067](../decisions/0067-detaljplanerna-foljs-som-redovisningarna.md))
-har 63 planer med 108 steg (kontrollerat 2026-11-10 i poolen):
+har 65 planer med 168 steg (kontrollerat 2026-11-10 i poolen):
 
 - **Planerna med ett beslut 2024–2026** står med: nämndens
   paragrafrubriker ("Uppdrag att upprätta …", "Samråd av …",
-  "Granskning av …", "Godkännande av …", "Antagande av …", "Avsluta
-  planuppdrag …" och överklagandena), arbetsutskottets egna planuppdrag
-  ("Byggnadsnämndens arbetsutskott ger samhällsbyggnadskontoret i
-  uppdrag …") och fullmäktiges antaganden.
+  "Granskningsbeslut …", "Godkännande av …", "Antagande av …", "Avsluta
+  planuppdrag …", yttranden över överklaganden och anmälda
+  ordförandebeslut om dem), arbetsutskottets egna planuppdrag och
+  avslut, kommunstyrelsens planbesked och projektbeställningar
+  ("Godkännande av projektbeställning samt överlämnande …") och
+  fullmäktiges antaganden.
 - **Äldre steg** för samma planer står med där ett beslut finns i
-  poolen, tillbaka till 2016. Arbetsutskottets förslag till nämnden 2023
-  står inte med, fast nämndens protokoll från april 2022 till 2023
-  saknas i poolen.
-- **Planbesked** gav inga träffar på planerna. Kommunstyrelsens uppdrag
-  om en projektbeställning för Åsa 4:146 (2022) står som planuppdrag.
-- **Tolkad** är tennishallen inom Skårby 3:4 (2023), som
-  nämnden 2025 kallar idrottsändamål.
-- Information om planer, avstämningar, rättelser, tillsyn, bygglov och
-  planer som bara finns före 2024 står inte med.
+  poolen, tillbaka till 2014. En projektbeställning som gäller flera
+  planer står på var och en av dem. Arbetsutskottets förslag till
+  nämnden 2023 står inte med, fast nämndens protokoll från mars 2022
+  till 2023 saknas i poolen.
+- Information om planer, avstämningar, rättelser, utökade planområden,
+  avtal, tillsyn, bygglov och planer som bara finns före 2024 står inte
+  med.
 
 ### Dokumentens innehåll
 

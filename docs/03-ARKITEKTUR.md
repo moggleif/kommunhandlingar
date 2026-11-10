@@ -1993,14 +1993,19 @@ skillnaderna:
 - **Kolumnen** `detaljplan`: planens namn på sidan, med vad den gäller
   och fastighetsbeteckningen, detsamma i alla steg.
 - **Vilka steg:** ett beslut i nämndens, arbetsutskottets,
-  kommunstyrelsens eller fullmäktiges protokoll. Arbetsutskottets
-  förslag till nämnden, informationen och avstämningarna står inte med,
-  och ett planbesked bara när det blev en plan i filen.
-- **Faserna** är `planbesked`, `uppdrag` (planuppdraget, eller
-  kommunstyrelsens uppdrag att ta fram en projektbeställning),
-  `samrad`, `granskning`, `godkannande` (nämnden godkänner planen för
-  antagande i fullmäktige), `antagande`, `overklagande` (ett beslut om
-  ett överklagande) och `avslutad` (planuppdraget avslutas).
+  kommunstyrelsens eller fullmäktiges protokoll, och ordförandens
+  brådskande beslut när de anmäls till nämnden. Från kommunstyrelsen
+  räknas planbeskeden och projektbeställningarna som lämnar över planen
+  till nämnden, inte avtalen. Arbetsutskottets förslag till nämnden,
+  informationen, avstämningarna och beslut som inte är ett av stegen
+  (som att utöka planområdet) står inte med, och ett planbesked bara
+  när det blev en plan i filen.
+- **Faserna** är `planbesked`, `uppdrag` (planuppdraget från nämnden
+  eller arbetsutskottet, eller kommunstyrelsens projektbeställning som
+  lämnar över planen), `samrad`, `granskning`, `godkannande` (nämnden
+  godkänner planen för antagande i fullmäktige), `antagande`,
+  `overklagande` (ett yttrande eller beslut om ett överklagande) och
+  `avslutad` (planuppdraget avslutas).
 - **Värdet** används inte.
 - **Tolkad:** ett steg har `tolkad` satt till `ja` när källan kallar
   planen något annat och inte själv säger att det är samma plan.

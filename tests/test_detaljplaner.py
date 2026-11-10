@@ -50,7 +50,7 @@ class TestSidan(unittest.TestCase):
         self.assertIn(">Skola inom Skolan 1:2</a></th>", html)
         self.assertIn("<dt>samråd</dt><dd>1</dd>", html)
         self.assertIn("<dt>antagen</dt><dd>1</dd>", html)
-        self.assertIn(f"{BESLUT.removesuffix('.md')}", html)
+        self.assertIn(BESLUT.removesuffix(".md"), html)
 
 
 class TestKungsbacka(unittest.TestCase):

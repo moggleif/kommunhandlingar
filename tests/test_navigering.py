@@ -54,7 +54,12 @@ class TestNavigering(unittest.TestCase):
         self.assertIn('<a href="exempelby/fsn/initiativ.html">2 ärenden</a>', html)
         self.assertNotIn("exempelby/bun/", html)
         self.assertEqual(html.count('<td class="tom">'), 6 + 4)
-        for rubrik in ("Mål och direktiv", "Lokalbehov", "Detaljplaner"):
+        for rubrik in (
+            "Mål och direktiv",
+            "Lokalbehov",
+            "Handlingsplaner",
+            "Detaljplaner",
+        ):
             self.assertIn(f'<th scope="col">{rubrik}</th>', html)
 
     def test_utskottet_star_under_sin_namnd(self):
