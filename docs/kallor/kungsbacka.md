@@ -399,6 +399,28 @@ Service (kontrollerat 2026-11-10 i poolen) har en annan form:
   Månadsrapporterna (projektinformation, delegeringsbeslut) står inte
   med.
 
+Miljö & Hälsoskydd (kontrollerat 2026-11-10 i poolen) har ingen egen
+förvaltning:
+
+- **Poolen har 2013, 2020 (en kallelse) och 2021–2026.** Protokollen
+  hösten 2022 saknas, och ett tiotal handlingar 2023–2026 är inte
+  hämtade. Nämnden har inget arbetsutskott.
+- **Målen är gemensamma med byggnadsnämnden.** Sedan 2020 delar nämnden
+  Bygg- och miljöförvaltningen med byggnadsnämnden, och nämndmålen
+  ("Nämnderna ska …") står i byggnadsnämndens årsredovisning och
+  delårsrapport. Nämnden får dem som återrapportering, och raderna har
+  källa i nämndens egna handlingar: årsredovisning 2021 (2022-03-10),
+  delårsrapport 2023 (2023-10-12) och årsredovisning 2023 (2024-03-14).
+  Nämndens egen budget och årsredovisning har bara fullmäktiges mål och
+  nämndens kostnader. Fyra mål 2021 är grupperade som tolkade under
+  2023 års mål. Nämndmålen 2022 finns bara i byggnadsnämndens
+  dokument och står inte med. Från 2025 arbetar nämnden direkt mot
+  fullmäktiges mål.
+- **Protokollen** har nämndens årsredovisning, aprilrapport och
+  delårsrapport och byggnadsnämndens som återrapportering. Dragningar är
+  måldagen, nämndbudgeten, förvaltningsbudgeten och yttrandena över
+  byggnadsnämndens nämndbudget.
+
 ### Kommunfullmäktiges mål och direktiv
 
 Fullmäktiges egen sida (K35,
@@ -576,6 +598,10 @@ Fjordskolans kök och toaletten vid Gårda brygga lades ned står inte med,
 eftersom sidan saknar ett steg för det; behoven står med till sitt
 sista steg.
 
+Miljö & Hälsoskydd har ingen lokalbehovssida. Nämnden skriver själv
+(2023-11-09 § 129) att den inte har några behov utöver förvaltningens
+plats i Stadshuset och Teknikens hus, och tar inget beslut om lokalbehov.
+
 ### Nämndernas initiativärenden
 
 Initiativfilen (K37,
@@ -665,6 +691,12 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   har avsändaren så som protokollet skriver den.
   Kommunstyrelsens initiativ som nämnden yttrar sig över står inte med.
 
+- **Miljö & Hälsoskydd** (2022–2026, kontrollerat 2026-11-10) skriver
+  "Initiativärende" (2022–2023) eller "Initiativ" med partiet som
+  avsändare, och `Alliansen` när alla
+  fyra allianspartierna står bakom. Myndighetsärenden mot enskilda
+  (förelägganden, viten, avlopp, serveringstillstånd) står inte med.
+
 ### Nämndernas redovisningar
 
 Redovisningssidan (K42,
@@ -746,6 +778,20 @@ idrottshall, kök och utemiljö, principerna för lokalplanering och
 livsmedelsinköp, riktlinjerna för direktupphandling, fordonspolicyn och
 fastighetsstrategin) står på handlingsplanssidan. Yttranden över andras
 detaljplaner står inte med.
+
+Miljö & Hälsoskydd (kontrollerat 2026-11-10) har återkommande
+redovisningar: uppföljningen av tillsynsplanen, dataskyddet,
+Miljösamverkans verksamhetsberättelse, upphävda och återförvisade
+beslut, samverkansavtalet med Mölndals stad, innovations- och
+utvecklingsportföljen, Insiktsmätningen, åtalsanmälningarna,
+livsmedelskontrollen och tillsynen av alkohol, folköl och tobak.
+Nämndens styrdokument (behovsutredningen, kontroll- och tillsynsplanerna,
+tillsynsprogrammet för industriutsläpp, handlingsplanen för
+barnkonventionen, informationshanteringsplanen, riktlinjerna för
+serveringstillstånd) och taxorna, de lokala föreskrifterna och
+reglementet, med stegen i kommunstyrelsen och fullmäktige, står på
+handlingsplanssidan. Delegeringsförteckningar, remissvar och yttranden
+över detaljplaner står inte med.
 
 ### Dokumentens innehåll
 
