@@ -423,6 +423,23 @@ förvaltning:
   måldagen, nämndbudgeten, förvaltningsbudgeten och yttrandena över
   byggnadsnämndens nämndbudget.
 
+Byggnadsnämnden (kontrollerat 2026-11-10 i poolen) har budget,
+personal och lokaler för Bygg- och miljöförvaltningen sedan 2020:
+
+- **Poolen saknar nämndens möten 2018 och från april 2022 till och med
+  2023.** Arbetsutskottets protokoll finns de åren, men målen och
+  uppföljningarna hämtas bara ur nämndens egna dokument.
+- **Målen 2021–2023 är gemensamma med Miljö & Hälsoskydd** och står i
+  nämndens egna dokument: årsredovisning 2021 (2022-02-24), nämndbudget
+  2022 (2021-11-25) och årsredovisning 2023 (2024-02-22), som också har
+  2023 års mål. Nämndens egna direktiv (OVK-tillsynen, handläggningstiden
+  för förhandsbesked, tillsynsplanen) står med. Från 2024 har budgeten,
+  delårsrapporten och årsredovisningen bara fullmäktiges mål och
+  direktiv.
+- **Protokollen** har årsredovisningen, aprilrapporten och
+  delårsrapporten 2014–2026 där mötena finns. Dragningar är
+  nämndbudgeten, förvaltningsbudgeten och måldagarna.
+
 ### Kommunfullmäktiges mål och direktiv
 
 Fullmäktiges egen sida (K35,
@@ -605,6 +622,10 @@ förvaltningens, och byggnadsnämnden, som förvaltningen hör till, har
 konstaterat att inga nya behov finns utöver platsen i Stadshuset och
 Teknikens hus. Det återrapporterades till nämnden 2023-11-09 § 129.
 
+Byggnadsnämnden har ingen lokalbehovssida. Varje år 2019–2026
+konstaterar nämnden att den inte har några nya behov utöver Stadshuset
+och Teknikens hus, och lägger lokalbehovet till handlingarna.
+
 ### Nämndernas initiativärenden
 
 Initiativfilen (K37,
@@ -707,6 +728,15 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   Myndighetsärenden mot enskilda (förelägganden, viten, avlopp,
   serveringstillstånd) står inte med.
 
+- **Byggnadsnämnden** (2014–2026, kontrollerat 2026-11-10) har
+  partiernas initiativ och nämndens uppdrag till förvaltningen, som
+  följs med avsändaren `Byggnadsnämnden`, eftersom protokollet skriver
+  så. Initiativet om förenkling och förbättring (2023) lämnades av
+  en moderat ledamot med flera och har avsändaren `M`. Initiativ från
+  minst tre av allianspartierna har avsändaren `Alliansen`.
+  Myndighetsärenden (bygglov, förelägganden, viten och
+  sanktionsavgifter) och detaljplanerna står inte med.
+
 ### Nämndernas redovisningar
 
 Redovisningssidan (K42,
@@ -804,6 +834,20 @@ där fullmäktiges protokoll saknas eller inte finns än, kommunstyrelsens
 förslag. Taxorna och föreskrifterna är nämndens normer, inte planer,
 men de beslutas i samma steg och följs därför på samma sida. Delegeringsförteckningar, remissvar och yttranden
 över detaljplaner står inte med.
+
+Byggnadsnämnden (kontrollerat 2026-11-10) har återkommande
+redovisningar: dataskyddet, upphävda och återförvisade beslut, status
+för bygga-hus-processen, innovations- och utvecklingsportföljen,
+Insiktsmätningen, jämförelserna med andra kommuner ur Boverkets
+statistik och uppföljningen av den interna kontrollen. Tillsynsplanen
+enligt plan- och bygglagen, strategin 2024–2027, taxan för plan- och
+byggverksamheten med indexjusteringarna (fullmäktige beslutar),
+riktlinjerna för sammanhållen bebyggelse och för skyltning, digital
+plan, reglementet, handlingsplanen för barnkonventionen,
+färgsättningsprogrammet, inriktningen för civil beredskap och
+handlingsplanen för budget i balans står på handlingsplanssidan.
+Delegeringsförteckningar, intern kontrollplan, remissvar och
+detaljplanerna står inte med.
 
 ### Dokumentens innehåll
 
