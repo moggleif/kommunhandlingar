@@ -53,7 +53,7 @@ class TestSidan(unittest.TestCase):
         html = sida()
         self.assertIn(">Redovisning av simskolan</a></th>", html)
         self.assertIn(">Tillsyn</a></th>", html)
-        self.assertIn("<dt>redovisad för nämnden</dt><dd>1</dd>", html)
+        self.assertIn("<dt>redovisad</dt><dd>1</dd>", html)
         self.assertIn("<dt>återkommande redovisning</dt><dd>1</dd>", html)
 
 
@@ -64,7 +64,7 @@ class TestKungsbacka(unittest.TestCase):
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", REDOVISNINGAR)
         self.assertEqual(
             {s.organ for s in stegen},
-            {"bygg", "fg", "ifo", "kultur", "miljo", "service", "teknik", "vo"},
+            {"bygg", "fg", "ifo", "kf", "kultur", "miljo", "service", "teknik", "vo"},
         )
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)
 

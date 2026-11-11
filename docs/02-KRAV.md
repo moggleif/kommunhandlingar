@@ -1362,8 +1362,8 @@ Hur och varför står i
 [Redovisningar](03-ARKITEKTUR.md#redovisningar).
 
 - **Givet** en kommun med en fil med redovisningar, där varje rad är ett
-  steg en redovisning i ett organ tar – beställd som direktiv i
-  nämndbudgeten, redovisad för nämnden eller återkommande redovisning –
+  steg en redovisning i ett organ tar – beställd som direktiv eller
+  uppdrag, redovisad eller återkommande redovisning –
   med år, en text och en sida i ett dokument i poolen som källa
 - **När** webbplatsen byggs
 - **Så** har varje organ med rader en sida om sina redovisningar, i
