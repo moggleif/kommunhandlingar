@@ -1983,7 +1983,8 @@ En kommun med en fil `redovisningar/<kommun>.csv` får en sida
   tillbaka till nämnden eller fullmäktige) och `aterkommande` (paragrafen med en
   återkommande redovisning).
 - **Året** är budgetåret i `direktiv` och mötets år i de andra faserna,
-  också när redovisningen gäller året före.
+  också när redovisningen gäller året före. Fullmäktiges uppdrag har
+  mötets år.
 - **Värdet** används inte.
 - **Tolkad:** ett steg `redovisad` har `tolkad` satt till `ja` när
   paragrafen inte själv säger att den svarar på direktivet och
