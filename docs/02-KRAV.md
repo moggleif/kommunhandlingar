@@ -1232,7 +1232,8 @@ och [Initiativärenden](03-ARKITEKTUR.md#initiativärenden).
   ett dokument i poolen som källa
 - **När** webbplatsen byggs
 - **Så** har varje organ med rader en sida om sina initiativärenden,
-  länkad från organets sida.
+  länkad från organets sida. Fullmäktiges initiativärenden är
+  motionerna.
 - **Givet** sidan om ett organs initiativärenden
 - **När** den visas
 - **Så** står varje ärende på en rad i en tidslinje med en kolumn per år,
@@ -1251,8 +1252,9 @@ och [Initiativärenden](03-ARKITEKTUR.md#initiativärenden).
   avsändare. Utan JavaScript står alla.
 - **Givet** en initiativfil med ett steg `vackt` utan avsändare, en
   avsändare som inte står på källans sida (en partiförkortning står där
-  inom parentes eller som partiets namn, och Alliansen också som de fyra
-  partiernas förkortningar), en okänd fas, ett tomt ärende
+  inom parentes eller som partiets namn, Alliansen också som de fyra
+  partiernas förkortningar, partilös som "(-)" och flera förkortningar
+  skilda med komma när var och en står där), en okänd fas, ett tomt ärende
   eller något annat som stoppar en lokalbehovsfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.

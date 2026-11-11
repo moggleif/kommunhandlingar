@@ -107,6 +107,12 @@ class TestAvsandaren(unittest.TestCase):
         self.assertFalse(star_pa("Alliansen", "Initiativärende(M)(C)-Om"))
         self.assertTrue(star_pa("SD", "Initiativ(SD)"))
 
+    def test_flera_avsandare_star_var_for_sig(self):
+        sidan = "MotionfrånEnledamot(KB)ochEnannan(-)omkvinnojouren"
+        self.assertTrue(star_pa("KB, Partilös", sidan))
+        self.assertFalse(star_pa("KB, S", sidan))
+        self.assertTrue(star_pa("L, M, C och KD", "frånL,M,CochKDom"))
+
 
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
@@ -164,7 +170,18 @@ class TestKungsbacka(unittest.TestCase):
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", INITIATIV)
         self.assertEqual(
             {s.organ for s in stegen},
-            {"bygg", "fg", "ga", "ifo", "kultur", "miljo", "service", "teknik", "vo"},
+            {
+                "bygg",
+                "fg",
+                "ga",
+                "ifo",
+                "kf",
+                "kultur",
+                "miljo",
+                "service",
+                "teknik",
+                "vo",
+            },
         )
         self.assertTrue(all(s.varde for s in stegen if s.fas == "vackt"))
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)

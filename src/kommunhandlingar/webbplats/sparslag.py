@@ -89,18 +89,18 @@ INITIATIV = Slag(
         "genomfort": (KLART, "genomfört"),
     },
     inledning=(
-        "<p>Nämndens initiativärenden år för år: vem som väckte dem, hur de "
-        "bereddes, vad nämnden beslutade, hur besluten följdes upp och om "
+        "<p>Initiativärenden och motioner år för år: vem som väckte dem, hur "
+        "de bereddes, vad som beslutades, hur besluten följdes upp och om "
         "förslaget blev genomfört. Varje ikon länkar till sidan i dokumentet "
         "som visar steget.</p>"
     ),
     metod=(
         "<p>Stegen är lästa ur poolens dokument, från vilket organ som helst. "
-        "Avsändaren står som källan skriver den: ett parti, flera partier "
-        "eller Alliansen. Varje steg har en text som står på källans sida, "
+        "Avsändaren står som källan skriver den: ett parti, flera partier, "
+        "Alliansen eller partilös. Varje steg har en text som står på källans sida, "
         "och bygget prövar det.</p>"
         "<p>Ett ärende har ett namn på sidan även när källorna kallar det "
-        "olika. Där källan inte själv säger att det gäller initiativet är "
+        "olika. Där källan inte själv säger att det gäller ärendet är "
         "kopplingen en bedömning och ikonen har en streckad ram. Ett år utan "
         "ikon betyder att inget steg står i poolen det året, inte att inget "
         "hände; poolen saknar en del protokoll. Sidan visar vad som står var "
