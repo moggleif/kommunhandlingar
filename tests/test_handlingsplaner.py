@@ -93,6 +93,7 @@ class TestKungsbacka(unittest.TestCase):
                 "ga",
                 "ifo",
                 "kf",
+                "ks",
                 "kultur",
                 "miljo",
                 "service",
