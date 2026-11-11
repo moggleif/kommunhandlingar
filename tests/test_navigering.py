@@ -53,12 +53,13 @@ class TestNavigering(unittest.TestCase):
         self.assertIn('<a href="exempelby/fsn/mal-och-direktiv.html">2 mål</a>', html)
         self.assertIn('<a href="exempelby/fsn/initiativ.html">2 ärenden</a>', html)
         self.assertNotIn("exempelby/bun/", html)
-        self.assertEqual(html.count('<td class="tom">'), 6 + 4)
+        self.assertEqual(html.count('<td class="tom">'), 7 + 5)
         for rubrik in (
             "Mål och direktiv",
             "Lokalbehov",
             "Handlingsplaner",
             "Detaljplaner",
+            "Granskningar",
         ):
             self.assertIn(f'<th scope="col">{rubrik}</th>', html)
 
@@ -104,7 +105,7 @@ class TestNavigering(unittest.TestCase):
             )
         ]
         self.assertEqual(ordning, sorted(ordning))
-        self.assertEqual(html.count('<th scope="rowgroup" colspan="8">'), 2)
+        self.assertEqual(html.count('<th scope="rowgroup" colspan="9">'), 2)
         self.assertEqual(html.count("<tbody>"), 2)
 
     def test_flikarna_pa_organets_sida(self):

@@ -4,23 +4,26 @@ tests/test_initiativ.py, tests/test_handlingsplaner.py,
 tests/test_redovisningar.py, tests/test_detaljplaner.py.
 
 Slagen av spår över tid: vad som skiljer lokalbehoven, initiativärendena,
-handlingsplanerna, redovisningarna och detaljplanerna åt. Filen är längre än målet för
-att varje slag är data i ett stycke; att dela den skulle skilja slagen
-från listan över dem. Allt annat är gemensamt (`spar.py`, `sparsida.py`).
+handlingsplanerna, redovisningarna och detaljplanerna åt, och listan
+över alla slag. Filen är längre än målet för att varje slag är data i
+ett stycke. Granskningarna står i `granskningsslag.py` för att filen
+annars går över den hårda gränsen. Allt annat är gemensamt (`spar.py`,
+`sparsida.py`, `sparformer.py`).
 """
 
+from kommunhandlingar.webbplats.granskningsslag import GRANSKNINGAR
 from kommunhandlingar.webbplats.spar import Slag
-
-DRAG = 'fill="none" stroke="currentColor" stroke-width="1.5"'
-CIRKEL = f'<circle cx="8" cy="8" r="6" {DRAG}/>'
-FYLLD = '<circle cx="8" cy="8" r="7" fill="currentColor"/>'
-RUTER = f'<path d="M8 1.5l6.5 6.5-6.5 6.5-6.5-6.5z" {DRAG}/>'
-BOCK = '<path d="M4.5 8.5l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2"/>'
-KRYSS = '<path d="M5 5l6 6M11 5l-6 6" fill="none" stroke="#fff" stroke-width="2"/>'
-RUTA = '<rect x="1.5" y="1.5" width="13" height="13" rx="3" fill="currentColor"/>'
-KLART = RUTA + BOCK
-BUBBLA = f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>'
-TIMGLAS = f'<path d="M3 2h10L3 14h10z" {DRAG}/>'
+from kommunhandlingar.webbplats.sparformer import (
+    BOCK,
+    BUBBLA,
+    CIRKEL,
+    DRAG,
+    FYLLD,
+    KLART,
+    KRYSS,
+    RUTER,
+    TIMGLAS,
+)
 
 LOKALBEHOV = Slag(
     id="lokalbehov",
@@ -236,4 +239,11 @@ DETALJPLANER = Slag(
     adr="0067-detaljplanerna-foljs-som-redovisningarna.md",
 )
 
-SLAGEN = (LOKALBEHOV, INITIATIV, HANDLINGSPLANER, REDOVISNINGAR, DETALJPLANER)
+SLAGEN = (
+    LOKALBEHOV,
+    INITIATIV,
+    HANDLINGSPLANER,
+    REDOVISNINGAR,
+    DETALJPLANER,
+    GRANSKNINGAR,
+)
