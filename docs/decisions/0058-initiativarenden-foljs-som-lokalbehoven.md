@@ -154,3 +154,22 @@ Ett protokoll (2024-06-12) har en beslutstext som säger att
 förvaltningen får i uppdrag att utreda, medan beslutsgången och
 omröstningen säger att nämnden avslog initiativet. Steget står som
 avslag med omröstningens ord som text.
+
+Tillägg 2026-11-11, när kommunfullmäktige kom med: fullmäktiges
+motsvarighet till initiativen är motionerna. En motion anmäls i
+fullmäktige, remitteras till kommunstyrelsen, bereds med yttranden från
+nämnderna och får bifall, avslag eller besvaras, och det är initiativens
+faser. Projektägaren bestämde att motionerna följs i initiativfilen och
+syns på fullmäktiges initiativsida. Interpellationer och frågor följs
+inte: de besvaras i en debatt utan beslut och har inget förlopp.
+
+Två avsändare var nya. Ledamöter utan parti skrivs "(-)" i protokollen;
+avsändaren blir `Partilös`, som bygget godtar när "(-)" står på sidan.
+En motion från ledamöter i olika partier får alla förkortningarna,
+skilda med komma (`KB, Partilös`), och bygget godtar det när var och en
+står på sidan. Alternativet, att skriva bara den första ledamotens
+parti, skulle tappa medundertecknarna utan att säga det. Följden är att
+en kombination som `KB, Partilös` blir en egen avsändare i sidans urval
+och sammandrag, som de uppräknade partierna redan var i nämnderna.
+Ett annat alternativ, ett steg `vackt` per parti, hade räknat varje parti
+för sig men krävt att bygget godtar samma steg två gånger ur samma källa.
