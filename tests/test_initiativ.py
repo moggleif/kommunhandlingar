@@ -112,6 +112,7 @@ class TestAvsandaren(unittest.TestCase):
         self.assertTrue(star_pa("KB, Partilös", sidan))
         self.assertFalse(star_pa("KB, S", sidan))
         self.assertTrue(star_pa("L, M, C och KD", "frånL,M,CochKDom"))
+        self.assertTrue(star_pa("KB", "MotionfrånKungsbackaborna"))
 
 
 class TestSidan(unittest.TestCase):

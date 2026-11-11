@@ -740,7 +740,7 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   Myndighetsärenden (bygglov, förelägganden, viten och
   sanktionsavgifter) och detaljplanerna står inte med.
 
-- **Kommunfullmäktige** (2013–2026, kontrollerat 2026-11-11) har
+- **Kommunfullmäktige** (protokoll 2013–2026, kontrollerat 2026-11-11) har
   motionerna i stället för initiativ. Fullmäktiges protokoll har två
   paragrafer per motion: "Anmälan av motion" (2013–2017 bara "Motion
   om"), där motionen remitteras till kommunstyrelsen, och "Svar på
@@ -751,14 +751,19 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   uppräkning av motionärerna, och `Partilös` för ledamöter som
   protokollet skriver "(-)". Året för `vackt` är anmälan till
   fullmäktige; finns den inte i poolen tas året ur svarets "anmäldes vid
-  …", motionens datum eller diarienumret. Beredningen är nämndernas
+  …", motionens datum eller diarienumret, så de äldsta motionerna har år
+  före 2013. Beredningen är nämndernas
   yttranden och kommunstyrelsens förslag, med källa i det organets
   protokoll där det finns i poolen och annars raden i fullmäktiges
-  beslutsunderlag; arbetsutskottets remisser står inte med. Bordläggningar
+  beslutsunderlag. Står flera av dem bara i beslutsunderlaget blir
+  kommunstyrelsens förslag steget, eftersom ett steg bara kan ha en källa
+  en gång. Arbetsutskottets remisser står inte med. Bordläggningar
   står inte med; en återremiss är ett steg `beredning`. Ett beslut som
   bifaller en del och avslår eller besvarar resten har ett steg för varje
-  utfall. Uppföljningen är återrapporter och riktlinjer som fullmäktige
-  eller kommunstyrelsen senare tar med motionen som bakgrund.
+  utfall. Uppföljningen är återrapporter och kommunstyrelsens yttranden
+  när beslutet överklagats; `genomfort` är riktlinjer som fullmäktige
+  senare antar och demokratidagarna, som Kultur & Fritid rapporterar
+  (en tolkad koppling).
   Interpellationer och frågor står inte med. Poolen saknar det mesta av
   fullmäktiges protokoll 2015–2020, så motioner som besvarades då saknas.
 

@@ -97,8 +97,8 @@ INITIATIV = Slag(
     metod=(
         "<p>Stegen är lästa ur poolens dokument, från vilket organ som helst. "
         "Avsändaren står som källan skriver den: ett parti, flera partier, "
-        "Alliansen eller partilös. Varje steg har en text som står på källans sida, "
-        "och bygget prövar det.</p>"
+        "Alliansen, eller partilös där källan skriver (-). Varje steg har en "
+        "text som står på källans sida, och bygget prövar det.</p>"
         "<p>Ett ärende har ett namn på sidan även när källorna kallar det "
         "olika. Där källan inte själv säger att det gäller ärendet är "
         "kopplingen en bedömning och ikonen har en streckad ram. Ett år utan "

@@ -168,4 +168,8 @@ avsändaren blir `Partilös`, som bygget godtar när "(-)" står på sidan.
 En motion från ledamöter i olika partier får alla förkortningarna,
 skilda med komma (`KB, Partilös`), och bygget godtar det när var och en
 står på sidan. Alternativet, att skriva bara den första ledamotens
-parti, skulle tappa medundertecknarna utan att säga det.
+parti, skulle tappa medundertecknarna utan att säga det. Följden är att
+en kombination som `KB, Partilös` blir en egen avsändare i sidans urval
+och sammandrag, som de uppräknade partierna redan var i nämnderna.
+Ett annat alternativ, ett steg `vackt` per parti, hade räknat varje parti
+för sig men krävt att bygget godtar samma steg två gånger ur samma källa.

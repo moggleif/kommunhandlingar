@@ -1888,8 +1888,7 @@ och sidan är lokalbehovens ([Lokalbehov](#lokalbehov)), med de här
 skillnaderna:
 
 - **Kolumnen** `arende` i stället för `behov`: initiativärendets namn på
-  sidan, detsamma i alla steg. Fullmäktiges initiativärenden är
-  motionerna.
+  sidan, detsamma i alla steg.
 - **Faserna** är `vackt`, `beredning` (remitterat, bordlagt eller
   återremitterat), `bifall`, `avslag`, `besvarat`, `uppfoljning`
   (återrapport, information eller ett annat organs beslut efter
@@ -1906,8 +1905,9 @@ skillnaderna:
   namn står där, och `Alliansen` också när minst tre av `(M)`, `(L)`,
   `(C)` och `(KD)` står där (`webbplats/partier.py`). `Partilös` står där
   som `(-)`, och flera förkortningar skilda med komma, som `KB, Partilös`
-  för en motion från två ledamöter, när var och en står där; andra
-  avsändare prövas som andra värden. Så räknas varje parti en gång på sidan. Ledamöternas namn står inte i filen;
+  för en motion från två ledamöter, när var och en står där; en sådan
+  kombination är en egen avsändare på sidan. Andra avsändare prövas som
+  andra värden. Så räknas varje parti en gång på sidan. Ledamöternas namn står inte i filen;
   de står i källan ett klick bort.
 - **Ordningen** inom ett år är den första fasen först och sedan
   källornas datum, så att en återrapport står före ett senare beslut
