@@ -910,8 +910,8 @@ annars inte, som informationssäkerhetspolicyn 2017.
 
 ### Kommunstyrelsens sidor
 
-Kommunstyrelsen (protokoll 2021–2026 kompletta, kontrollerat
-2026-11-11; 2018–2019 gick inte att hämta) har inga egna mål, se
+Kommunstyrelsen (protokoll 2021–2026, kontrollerat 2026-11-11; fyra
+möten 2022–2023 och alla 2018–2019 gick inte att hämta) har inga egna mål, se
 [Kommunfullmäktiges mål och direktiv](#kommunfullmäktiges-mål-och-direktiv),
 och därmed ingen målsida. Stegen står i kommunstyrelsens och
 arbetsutskottets protokoll och, för åren före 2021, i protokollsutdrag
@@ -921,19 +921,24 @@ som ligger som underlag i arbetsutskottets handlingar.
   väckta på sammanträdet, och kommunstyrelsens egna uppdrag till
   förvaltningen, som följs med avsändaren `Kommunstyrelsen`. Ett
   uppdrag som bara syns när det avslutas har sitt `vackt` ur
-  avslutsparagrafens "som lämnades …". Fullmäktiges uppdrag till
+  avslutsparagrafens "som lämnades …". Ett avslutat uppdrag är
+  `genomfort` när det som beställdes är gjort och annars `uppfoljning`.
+  Där kommunstyrelsens protokoll saknas är arbetsutskottets förslag
+  källan. Fullmäktiges uppdrag till
   kommunstyrelsen står på fullmäktiges sida, motionerna likaså.
   Försäljningar, rivningar och uppdrag om detaljplaner och
   projektbeställningar står inte med, inte heller val och entlediganden.
 - **Handlingsplaner** är de styrdokument kommunstyrelsen antar själv och
   som inte står på fullmäktiges sida. Dokumenthanterings- och
   informationshanteringsplaner, intern kontroll, regler för fakturering
-  och flaggning står inte med.
-- **Redovisningar** är Individ & Familjeomsorgs uppföljning av budget i
-  balans (2021–2022), arbetsutskottets årliga information om det
-  systematiska arbetsmiljöarbetet och slutredovisningen av gång- och
-  cykelvägen längs Vallbyvägen. Nämndernas rapporter om ej verkställda
-  beslut står på fullmäktiges sida.
+  och flaggning står inte med, inte heller riktlinjer för planprocessen
+  (detaljplanerna) eller strategier för Kungsbacka Arena (Kultur &
+  Fritids lokalbehov).
+- **Redovisningar** är Individ & Familjeomsorgs återkommande uppföljning
+  av budget i balans (2021–2022). Arbetsutskottets information ur
+  årshjulet och projektens slutredovisningar står inte med, och
+  nämndernas rapporter om ej verkställda beslut står på fullmäktiges
+  sida.
 - **Lokalbehov** är Räddningstjänstens nya lokaler i Klovsten (löpnummer
   1411), som står under "Övriga lokaler" i lokalplanen. Övriga beslut om
   lokalplanen står som steg hos den nämnd som äger behovet.
