@@ -740,6 +740,28 @@ har Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
   Myndighetsärenden (bygglov, förelägganden, viten och
   sanktionsavgifter) och detaljplanerna står inte med.
 
+- **Kommunfullmäktige** (2013–2026, kontrollerat 2026-11-11) har
+  motionerna i stället för initiativ. Fullmäktiges protokoll har två
+  paragrafer per motion: "Anmälan av motion" (2013–2017 bara "Motion
+  om"), där motionen remitteras till kommunstyrelsen, och "Svar på
+  motion", med beslutet och ett beslutsunderlag som räknar upp
+  nämndernas yttranden, arbetsutskottet och kommunstyrelsen med datum och
+  paragraf. Båda har motionens diarienummer, som håller ihop stegen.
+  Avsändaren är partierna bakom motionen, ur sammanfattningens
+  uppräkning av motionärerna, och `Partilös` för ledamöter som
+  protokollet skriver "(-)". Året för `vackt` är anmälan till
+  fullmäktige; finns den inte i poolen tas året ur svarets "anmäldes vid
+  …", motionens datum eller diarienumret. Beredningen är nämndernas
+  yttranden och kommunstyrelsens förslag, med källa i det organets
+  protokoll där det finns i poolen och annars raden i fullmäktiges
+  beslutsunderlag; arbetsutskottets remisser står inte med. Bordläggningar
+  står inte med; en återremiss är ett steg `beredning`. Ett beslut som
+  bifaller en del och avslår eller besvarar resten har ett steg för varje
+  utfall. Uppföljningen är återrapporter och riktlinjer som fullmäktige
+  eller kommunstyrelsen senare tar med motionen som bakgrund.
+  Interpellationer och frågor står inte med. Poolen saknar det mesta av
+  fullmäktiges protokoll 2015–2020, så motioner som besvarades då saknas.
+
 ### Nämndernas redovisningar
 
 Redovisningssidan (K42,
