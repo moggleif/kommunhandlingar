@@ -1971,9 +1971,12 @@ En kommun med en fil `redovisningar/<kommun>.csv` får en sida
   dataskyddsrapporten. Ett sådant direktiv står här och inte i
   `mal/<kommun>.csv`. Uppföljningarna av målen står i
   `uppfoljningar/<kommun>.csv`, och förvaltningens stående information
-  och revisionens rapporter står inte med.
+  och revisionens rapporter står inte med. Fullmäktiges redovisningar är
+  de återkommande rapporterna nämnderna lämnar till fullmäktige och
+  återrapporterna av fullmäktiges uppdrag.
 - **Faserna** är `direktiv` (direktivet står i nämndbudgeten, eller i
-  delårsrapporten eller årsredovisningen som listar budgetens direktiv),
+  delårsrapporten eller årsredovisningen som listar budgetens direktiv,
+  eller fullmäktiges uppdrag),
   `redovisad` (paragrafen i protokollet där redovisningen kommer
   tillbaka till nämnden) och `aterkommande` (paragrafen med en
   återkommande redovisning).

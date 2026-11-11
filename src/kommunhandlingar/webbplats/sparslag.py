@@ -134,21 +134,20 @@ HANDLINGSPLANER = Slag(
         "revidering": (TIMGLAS, "revidering"),
     },
     inledning=(
-        "<p>Nämndens handlingsplaner år för år: vem som föreslog dem, när de "
-        "antogs och hur de följdes upp och reviderades. "
+        "<p>Handlingsplaner, program och policyer år för år: vem som "
+        "föreslog dem, när de antogs och hur de följdes upp och reviderades. "
         "Varje ikon länkar till sidan i dokumentet som visar steget, och "
         "finns själva planen i poolen länkar kortet till den.</p>"
     ),
     metod=(
-        "<p>En plan står med när den har ett eget steg i nämndens protokoll "
-        "eller handlingar: ett uppdrag, ett beslut, ett yttrande, en "
-        "återrapport eller en uppföljning. Nämndens egna planer står med, och "
-        "kommunens planer där nämnden har ett eget steg. Planer som bara nämns, "
-        "den interna kontrollplanen och planer för enskilda elever står inte "
-        "med. Avsändaren står när "
-        "planen kommer ur en motion eller ett initiativ, som källan skriver "
-        "den. Varje steg har en text som står på källans sida, och bygget "
-        "prövar det.</p>"
+        "<p>En plan står med när den har ett eget steg i nämndens eller "
+        "fullmäktiges protokoll eller handlingar: ett uppdrag, ett beslut, ett "
+        "yttrande, en återrapport eller en uppföljning. Egna planer står med, "
+        "och kommunens planer där nämnden har ett eget steg. Planer som bara "
+        "nämns, den interna kontrollplanen och planer för enskilda elever står "
+        "inte med. Avsändaren står när planen kommer ur en motion eller ett "
+        "initiativ, som källan skriver den. Varje steg har en text som står "
+        "på källans sida, och bygget prövar det.</p>"
         "<p>En plan har ett namn på sidan även när källorna kallar den olika. "
         "Där källan inte själv säger att det gäller planen är kopplingen en "
         "bedömning och ikonen har en streckad ram. Ett år utan ikon betyder "
@@ -169,23 +168,23 @@ REDOVISNINGAR = Slag(
     saker="Redovisningarna",
     antal="redovisningar",
     faser={
-        "direktiv": (CIRKEL, "beställd som direktiv i nämndbudgeten"),
-        "redovisad": (FYLLD, "redovisad för nämnden"),
+        "direktiv": (CIRKEL, "beställd som direktiv eller uppdrag"),
+        "redovisad": (FYLLD, "redovisad"),
         "aterkommande": (RUTER, "återkommande redovisning"),
     },
     inledning=(
-        "<p>Det förvaltningen redovisar för nämnden år för år: redovisningar "
-        "som nämnden beställt som direktiv i sin budget, och när de kom "
-        "tillbaka, och redovisningar som återkommer varje år enligt lag "
-        "eller nämndens årshjul. Varje ikon länkar till sidan i dokumentet "
+        "<p>Det som redovisas för nämnden eller fullmäktige år för år: "
+        "redovisningar som beställts som direktiv eller uppdrag, och när de "
+        "kom tillbaka, och redovisningar som återkommer enligt lag eller "
+        "årshjulet. Varje ikon länkar till sidan i dokumentet "
         "som visar steget.</p>"
     ),
     metod=(
         "<p>Ett direktiv står här i stället för bland målen när källan "
         "själv kallar det en redovisning, en utredning eller information: "
         "rubriken börjar med de orden. Redovisningen är paragrafen i "
-        "nämndens protokoll. Uppföljningar av målen, som årsredovisningen "
-        "och delårsrapporten, står på sidan om mål och direktiv, och "
+        "nämndens eller fullmäktiges protokoll. Uppföljningar av målen, som "
+        "årsredovisningen och delårsrapporten, står på sidan om mål och direktiv, och "
         "förvaltningens stående information står inte med. Varje steg har "
         "en text som står på källans sida, och bygget prövar det.</p>"
         "<p>Där källan inte själv säger att paragrafen svarar på direktivet "
