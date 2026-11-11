@@ -16,7 +16,7 @@ hamtad: 2026-11-10T10:45:34+00:00
 konverterad: null
 pipeline: kommunhandlingar 0.11.0
 kvalitet: ej-hamtad
-fel: http-404
+fel: anslutning
 kvalitet_per_sida: null
 tal_obekraftade: null
 figurer: null

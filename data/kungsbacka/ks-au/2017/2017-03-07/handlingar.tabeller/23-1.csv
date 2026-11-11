@@ -1,0 +1,54 @@
+Delområde,Anläggning,Mängd,Anmärkning,À-pris,Kostnad
+A,"Fördjupning och breddning av
+befintligt dike","L=300 m
+B=14 m","Jordschakt (material återanvänds), fyllning med kross i
+botten samt grässådd","800-1200 kr/löpmeter
+(för kalkyl används 1000
+kr/löpmeter)",300 000 kr
+B alt 1,Kassettmagasin (fotbollsplan),A=9800 m2,"Kassettmagasin typ, jordschakt, brunn m sandf. (innan
+magasin) Reglerbrunn",2735 kr/m2,26 800 000 kr
+B alt 1,Marksänkning (fotbollsplan),"D=0,5 m
+A=6300 m2","Jordschakt, överbyggnad för vegetationsyta, torvsådd","250-350 kr/m2
+(för kalkyl används 300
+kr/m2)",1 900 000 kr
+B alt 2,"Makadamfyllda diken
+(Avskärningsdiken)","L=300 m
+B=8 m","Jordschakt, fyllning, dagvattenbrunn med sandfång (innan
+magasin), reglerbrunn (efter magasin)","300-550 kr/m3
+(för kalkyl används 350
+kr/m2)",840 000 kr
+B alt 2,Marksänkning,"D=0,7 m
+A=6300 m2","Jordschakt, överbyggnad för konstgräs","250-350 kr/m2
+(för kalkyl används 300
+kr/m2)",1 900 000 kr
+C,Våtmark,"L=280 m
+B=20 m","Jordschakt (material återanvänds), fyllning med kross i
+botten samt grässådd och växt plantering.","250-600 kr/m3
+(för kalkyl används 300
+kr/m2)",1 680 000 kr
+C,"Makadamfyllda diken
+(Avskärningsdiken)","L=300 m
+B=8 m","Jordschakt, fyllning, dagvattenbrunn med sandfång (innan
+magasin), reglerbrunn (efter magasin)","300-550 kr/m3
+(för kalkyl används 350
+kr/m2)",840 000 kr
+C,Regnträdgård,V=80 m3,"Jordschakt, fyllning, växter, dagvattenbrunn m sandf.
+Reglerbrunn (efter magasin), priset varierar beroende på
+typ av anläggning.","450-2000 kr/m3
+(för kalkyl används 1500
+kr/m3)",120 000 kr
+C,Kassettmagasin (torg),A=3500 m2,"Kassettmagasin typ, jordschakt, brunn m sandf. (innan
+magasin) Reglerbrunn",2735 kr/m2,9 570 000 kr
+D,Ledningsstråk (kulvert),L=350 m / 600 m,"Jordchakt, fyllning, ledningar och brunnar","2200-5000 kr/m
+(för kalkyl används 3000
+kr/m)","900 000 kr /
+1 800 000 kr"
+E,Damm,V=1580 m3,"Jordschakt, fyllning med krossmaterial, geotextil,
+geomembran, grässådd, dagvattenbrunn m sandf. (innan
+magasin), reglerbrunn (efter magasin).","1100-1300 kr/m3
+(för kalkyl används 1200
+kr/m3)",1 900 000 kr
+E,Stödmur,L=300m,"Schakt och fyllning för L-stödsmur, L-stödsmur synlig höjd
+300 mm, samt fyllning mot mur med befintligt material.","2200-2800 kr/löpmeter
+(för kalkyl används 2500
+kr/löpmeter)",750 000 kr
