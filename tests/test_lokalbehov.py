@@ -192,6 +192,6 @@ class TestKungsbacka(unittest.TestCase):
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", LOKALBEHOV)
         self.assertEqual(
             {s.organ for s in stegen},
-            {"fg", "ga", "ifo", "kultur", "service", "teknik", "vo"},
+            {"fg", "ga", "ifo", "ks", "kultur", "service", "teknik", "vo"},
         )
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)
