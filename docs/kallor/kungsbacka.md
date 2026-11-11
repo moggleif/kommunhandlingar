@@ -880,23 +880,33 @@ handlingsplanen för budget i balans står på handlingsplanssidan.
 Delegeringsförteckningar, intern kontrollplan, remissvar och
 detaljplanerna står inte med.
 
+### Kommunfullmäktiges handlingsplaner och redovisningar
+
 Kommunfullmäktige (protokoll 2013–2026, kontrollerat 2026-11-11) har
 återkommande redovisningar: nämndernas rapporter om ej verkställda
 beslut enligt socialtjänstlagen och LSS (Individ & Familjeomsorg, Vård
 & Omsorg, Gymnasium & Arbetsmarknad, och 2013–2015 Äldreomsorg och
 Funktionsstöd, som var för sig), redovisningen av motioner som inte är
-färdigberedda och partistödets redovisning. Återrapporterna av
+färdigberedda och partistödets redovisning. Rapporterna om ej
+verkställda beslut står på fullmäktiges sida och inte på nämndens,
+eftersom det är fullmäktige de redovisas för. Återrapporterna av
 fullmäktiges uppdrag står som `redovisad`, med uppdraget som `direktiv`
-där det står i poolen. Revisionsberättelsen, revisionens rapporter och
-information från myndigheter och regionen står inte med. Handlingsplanssidan har de styrdokument
-fullmäktige antar: planer, program, strategier, policyer och
-riktlinjer. Reglementen, taxor, föreskrifter, förbundsordningar,
-arvodesregler, budgeten och detaljplanerna står inte med. Ett steg är
-fullmäktiges beslut (`antagen`, eller `revidering` för en ny version),
-nämndernas yttranden ur fullmäktiges beslutsunderlag och, som
-`uppdrag`, den nämnd som tog fram förslaget. Själva planen är sidan i
-fullmäktiges handlingar där planens titelsida står, när den har gått
-att hitta.
+där det står i poolen. Revisionsberättelsen, revisionens rapporter,
+inkomna skrivelser och information från myndigheter och regionen står inte med.
+
+Handlingsplanssidan har de styrdokument fullmäktige antar: planer,
+program, strategier, policyer och riktlinjer. Reglementen, taxor,
+föreskrifter, förbundsordningar, arvodesregler och förmåner till
+förtroendevalda, riktlinjer för priser och stipendier, budgeten med
+riktlinjerna för god ekonomisk hushållning och lokalplanen, och
+detaljplanerna står inte med. Ett steg är fullmäktiges beslut
+(`antagen`, eller `revidering` för en ny version), nämndernas yttranden
+ur fullmäktiges beslutsunderlag och, som `uppdrag`, den nämnd som tog
+fram förslaget. Själva planen är sidan i fullmäktiges handlingar där
+planens titelsida står, när den har gått att hitta. Där fullmäktiges
+protokoll inte gick att hämta står beslutet med när ett annat dokument
+i poolen säger att fullmäktige fattade det, som klimatstrategin 2022;
+annars inte, som informationssäkerhetspolicyn 2017.
 
 ### Byggnadsnämndens detaljplaner
 

@@ -1943,7 +1943,9 @@ Filen, kontrollen och sidan är initiativärendenas
   motion om den), `plan` (sidan där själva planen står), `antagen`
   (beslutad, godkänd eller framtagen), `uppfoljning` och `revidering`.
   Ett steg som återkommer i ett senare dokument, som en årsredovisning
-  efter delårsrapporten, är `uppfoljning`.
+  efter delårsrapporten, är `uppfoljning`. På fullmäktiges sida är
+  `uppdrag` nämnden som tog fram förslaget och `yttrande` en annan nämnd
+  som yttrade sig till fullmäktige.
 - **Värdet** är frivilligt. I `antagen` säger det vem som antog planen
   när källan säger det. I `uppdrag` är det avsändaren när planen kommer ur
   en motion eller ett initiativ, med partiets förkortning; en plan utan
@@ -1978,7 +1980,7 @@ En kommun med en fil `redovisningar/<kommun>.csv` får en sida
   delårsrapporten eller årsredovisningen som listar budgetens direktiv,
   eller fullmäktiges uppdrag),
   `redovisad` (paragrafen i protokollet där redovisningen kommer
-  tillbaka till nämnden) och `aterkommande` (paragrafen med en
+  tillbaka till nämnden eller fullmäktige) och `aterkommande` (paragrafen med en
   återkommande redovisning).
 - **Året** är budgetåret i `direktiv` och mötets år i de andra faserna,
   också när redovisningen gäller året före.
