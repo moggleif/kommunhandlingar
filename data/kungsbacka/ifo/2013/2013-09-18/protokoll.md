@@ -1,0 +1,25 @@
+---
+kommun: kungsbacka
+organ: ifo
+datum: 2013-09-18
+lopnr: null
+typ: protokoll
+namn: null
+kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Individ%20och%20Familjeomsorg/2013-09-18/protokoll
+tidigare_kallnycklar: []
+arenden: null
+kalla_url: [https://web.archive.org/web/20140806164217id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Individ%20och%20Familjeomsorg/Protokoll/2013/IFN_protokoll_18_september.pdf, https://web.archive.org/web/20140806163503id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Individ%20och%20Familjeomsorg/Protokoll/2013/Yrkande%20fr%c3%a5n%20S-gruppen%20130918.pdf]
+sha256: null
+bytes: null
+sidor: null
+hamtad: 2026-11-10T23:44:14+00:00
+konverterad: null
+pipeline: kommunhandlingar 0.11.0
+kvalitet: ej-hamtad
+fel: anslutning
+kvalitet_per_sida: null
+tal_obekraftade: null
+figurer: null
+tolkade: null
+granskad: null
+---

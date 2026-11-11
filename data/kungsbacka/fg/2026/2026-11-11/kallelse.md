@@ -5,15 +5,15 @@ datum: 2026-11-11
 lopnr: null
 typ: kallelse
 namn: null
-kallnyckel: sitevision:18.74782bfe1a1a1a6a2656e4df
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.7fe6ac921a1a19543f99b09f
+tidigare_kallnycklar: [sitevision:18.74782bfe1a1a1a6a2656e4df]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.74782bfe1a1a1a6a2656e4df/1794231116217/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20kallelse%202026-11-11.pdf
-sha256: c528f3272026b478db974098cf10e436b205423499ba0b382b19403d1e149fe3
-bytes: 187786
+kalla_url: https://kungsbacka.se/download/18.7fe6ac921a1a19543f99b09f/1794300708708/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20kallelse%202026-11-11.pdf
+sha256: 6da35593b3fea998af224a03743e2cfd86f8d74725c58a8f1390553e1cca50c4
+bytes: 127148
 sidor: 5
-hamtad: 2026-11-09T23:03:11+00:00
-konverterad: 2026-11-09T23:03:18+00:00
+hamtad: 2026-11-10T20:32:20+00:00
+konverterad: 2026-11-10T20:32:26+00:00
 pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
@@ -64,7 +64,7 @@ KUNGSBACKA  KOMMUN
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
-| 6. | Utredning långsiktig<br>skolorganisering Onsala<br>Kl 15:35-16:10<br>Anna Flinck, utvecklingsledare<br>Fredrik Wallman,<br>lokalplanerare<br>Tommy Korsell,<br>verksamhetschef<br>Lena Benedetto,<br>verksamhetschef | FG-2026-00609 | Nämnden för Förskola & Grundskola beslutar<br>att:<br>• Iseråsskolan avvecklas när Fjordskolans och<br>Presseskolans om- och tillbyggnationer är<br>färdigställda.<br>• Del av Iseråsskolans lokaler - Mariedal -<br>återställs som förskola när Iseråsskolan har<br>avvecklats.<br>• Iserås förskola avvecklas när byggnaderna på<br>Mariedal har återställts som förskola.<br>• Kaptensgårdens förskola avvecklas tidigast<br>hösten 2027 och senast hösten 2029, under<br>förutsättning att barnens behov av förskoleplatser<br>kan tillgodoses på andra förskolor.<br>• I lokalbehovsplan 2028-2032 ta upp behov av<br>120 platser i förskolan i området för<br>Presseskolans upptagningsområde.<br>• Manetens förskola avvecklas i samband med att<br>gällande avtal för lokalerna löper ut, årsskiftet<br>2031/32, under förutsättning att behovet av<br>förskoleplatser kan tillgodoses inom övriga<br>förskolor i området.<br>• Presse Parks förskola avvecklas i samband med<br>att gällande avtal för lokalerna löper ut,<br>20280731, under förutsättning att behovet av<br>förskoleplatser kan tillgodoses inom övriga<br>förskolor i området. |
+| 6. | Utredning långsiktig<br>skolorganisering Onsala<br>Kl 15:35-16:10<br>Anna Flinck, utvecklingsledare<br>Fredrik Wallman,<br>lokalplanerare<br>Tommy Korsell,<br>verksamhetschef<br>Lena Benedetto,<br>verksamhetschef | FG-2026-00609 | Arbetsutskottet överlämnar ärendet till nämnden<br>för Förskola & Grundskola utan eget förslag till<br>beslut. |
 | 7. | Riksdagens Ombudsmän (JO)<br>Begäran om yttrande Dnr 7537-<br>2026<br>Kl 16:10-16:20<br>Frida Byrsten, verksamhetschef | FG-2026-00498 | Nämnden översänder yttrande 2026-11-03, till<br>JO- Riksdagens ombudsmän.<br>Nämnden förklarar paragrafen omedelbart<br>justerad. |
 | 8. | Plan för intern kontroll 2027<br>Kl 16:20-16:35<br>Frida Byrsten, verksamhetschef | FG-2026-00589 | Nämnden för Förskola & Grundskola godkänner<br>Intern kontrollplan 2027 med följande<br>nämndspecifika granskningsområden;<br>• Frånvaroutredning genomförs inte för<br>elever med omfattande frånvaro.<br>• Felaktiga utbetalningar av bidrag till<br>fristående huvudmän.<br>• Anmälan görs inte till berörda<br>myndigheter, såsom Polismyndigheten,<br>Skatteverket och socialtjänsten. |
 | 9. | Barn- och elevhälsaarbete<br>uppföljning 2, 2026. Utfall per<br>yrkesgrupp barn- och elevhälsa,<br>aggregerad nivå samt<br>enhetsnivå<br>Kl 16:35-16:50<br>Susanne Lyckevall, enhetschef | FG-2026-00575 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
