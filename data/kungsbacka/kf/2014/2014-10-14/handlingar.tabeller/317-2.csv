@@ -1,0 +1,9 @@
+Tågtyp,Antal tåg,"Hastighet
+(km/h)","Maximal tåg-
+längd (m)","Medeltåg-
+längd (m)"
+Godståg,70,100,650,450
+X2,20,200,165,165
+Pendeltåg X60,12,160,220,150
+Reginatåg X31/32,70,180,240,120
+Totalt antal tåg,172,,,
