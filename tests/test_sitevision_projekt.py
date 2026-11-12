@@ -82,9 +82,24 @@ class TestProjektsidorna(unittest.TestCase):
         self.assertEqual(self.avvisade[0].kalla, f"{LISTA}/borta")
         self.assertIn("http-404", self.avvisade[0].orsak)
 
-    def test_en_listsida_som_inte_svarar_stoppar(self):
-        with self.assertRaises(Hamtfel):
-            upptack({"bun-projekt": "https://exempelby.se/saknas"}, hamta)
+    def test_en_listsida_som_inte_svarar_star_i_sammanfattningen(self):
+        kandidater, avvisade = upptack({"o": "https://exempelby.se/saknas"}, hamta)
+        self.assertEqual(kandidater, [])
+        self.assertIn(
+            "listan: https://exempelby.se/saknas: http-404", avvisade[0].orsak
+        )
+
+    def test_en_projektsida_som_inte_gar_att_lasa_hoppas_over(self):
+        trasig = "<script>AppRegistry.registerInitialState('12.1',{\"files\":[{"
+
+        def med_trasig(adress: str) -> str:
+            return trasig if adress.endswith("/va-i-by") else hamta(adress)
+
+        kandidater, avvisade = upptack({"o": LISTA}, med_trasig)
+        self.assertEqual(len(kandidater), 2)
+        self.assertEqual(
+            [a.kalla for a in avvisade], [f"{LISTA}/va-i-by", f"{LISTA}/borta"]
+        )
 
     def test_utan_projekt_hamtas_inget(self):
         self.assertEqual(upptack({}, hamta), ([], []))

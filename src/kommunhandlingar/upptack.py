@@ -43,12 +43,21 @@ def upptack(
         nya, bort = sitevision.upptack(kalla, html)
         kandidater += nya
         avvisade += bort
+    nya, bort = projekten(kommun, klient, {k.kallnyckel for k in kandidater})
+    return ordna(kandidater + nya, [o.id for o in kommun.organ]), avvisade + bort
+
+
+def projekten(
+    kommun: konfiguration.Kommun, klient, moten: set[str]
+) -> tuple[list[Kandidat], list[Avvisad]]:
+    """Projektsidornas filer; en fil som också står på en mötessida är mötets."""
+    kandidater: list[Kandidat] = []
+    avvisade: list[Avvisad] = []
     for kalla in kommun.kallor:
         nya, bort = sitevision_projekt.upptack(kalla.projekt, partial(sida, klient))
-        moten = {k.kallnyckel for k in kandidater}
         kandidater += [k for k in nya if k.kallnyckel not in moten]
         avvisade += bort
-    return ordna(kandidater, [o.id for o in kommun.organ]), avvisade
+    return kandidater, avvisade
 
 
 def upptack_arkiv(

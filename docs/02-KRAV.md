@@ -1452,9 +1452,10 @@ och [Projektsidorna](03-ARKITEKTUR.md#projektsidorna). Issue
 - **Givet** en fil som står på flera projektsidor, eller på en mötessida
   och en projektsida
 - **När** upptäckten körs
-- **Så** blir den en enda kandidat, och mötessidan går före.
-- **Givet** en projektsida som inte går att hämta
+- **Så** blir den en enda kandidat, och mötessidan går före. En fil som
+  redan finns i poolen stannar på sin plats (K9).
+- **Givet** en lista eller projektsida som inte går att hämta eller läsa
 - **När** upptäckten körs
 - **Så** blir sidans filer inga kandidater den körningen, adressen och
-  orsaken står i sammanfattningen, och upptäckten fortsätter. En listsida
-  som inte går att hämta stoppar upptäckten som en mötessida (K2).
+  orsaken står i sammanfattningen, och upptäckten fortsätter, så att
+  mötena hämtas ändå.

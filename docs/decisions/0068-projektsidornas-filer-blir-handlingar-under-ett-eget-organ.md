@@ -71,8 +71,12 @@ sökvägen.
   har alltid ett namn, som en bilaga.
 * **En fil på flera ställen** blir en kandidat (K2): mötessidan går före,
   sedan den första projektsidan i listans ordning.
-* **En projektsida som inte går att hämta** står i sammanfattningen, och
-  upptäckten fortsätter. Listsidan är en källsida som mötessidorna.
+* **En lista eller projektsida som inte går att hämta eller läsa** står i
+  sammanfattningen, och upptäckten fortsätter. Till skillnad från
+  mötessidorna stoppar den aldrig upptäckten: ett fel bland projekten ska
+  inte hindra mötena, och inget kan placeras fel av att projektens
+  kandidater saknas en natt, eftersom deras platser bara kan tas av
+  projektens filer.
 * Kontaktuppgifterna på projektsidorna läses inte; bara filerna.
 
 ### Consequences
@@ -85,6 +89,11 @@ sökvägen.
   Det säger när kommunen publicerade, och det är det som går att belägga.
 * Bad, eftersom ett långt projektnamn kan korta bort filnamnet (80 tecken).
   Två filer i samma projekt samma dag kan då få löpnummer som namn.
+* Bad, eftersom upptäckten varje natt hämtar listan och alla
+  projektsidor, cirka 155 sidor med 5 sekunder emellan, ungefär 13 minuter
+  av tidsbudgeten.
+* Neutral, eftersom organets sida på webbplatsen räknar varje
+  uppläggningsdag som ett sammanträde tills visningen är bestämd.
 * Neutral, eftersom bilder och kartor utan text blir `ej-konverterad`
   sida för sida, och filer som inte är PDF (en presentation) registreras
   som `ej-konverterad` med orsaken, som allt annat som inte går att läsa.
@@ -102,7 +111,8 @@ svarar. Den första nattkörningen efter mergen ska visa organet
 ### A – Eget organ, uppläggningsdag och projektets namn
 
 * Good, eftersom modellen, front matter och webbplatsen är oförändrade.
-* Good, eftersom datumet går att belägga i källan och inte ändras.
+* Good, eftersom datumet går att belägga i källan, och platsen behåller
+  det också när filen byts ut.
 * Bad, eftersom "organ" och "datum" betyder lite annat här än för möten.
 
 ### B – En ny nivå i modellen

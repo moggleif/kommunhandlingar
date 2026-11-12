@@ -389,15 +389,16 @@ bun-projekt = "https://exempelby.se/…/aktuella-projekt"
 | ---------------- | -------------------------------------------------------------- |
 | `kalla.projekt`  | Organets id och adressen till listan med projekt. Utelämnas annars. |
 
-- **Listan** är en källsida: den och varje bläddringssida hämtas, och en
-  som inte går att hämta stoppar upptäckten som en mötessida. En
+- **Listan** och varje bläddringssida hämtas. En
   bläddringssida är en länk till listans adress med en enda parameter
   vars värde är ett tal (`?page12_…=2`); filtren, med fler parametrar,
   följs inte.
 - **Ett projekt** är en länk på listan till en sida en nivå under listans
-  adress, utan frågesträng, i listans ordning. En projektsida som inte går
-  att hämta ger inga kandidater och står i sammanfattningen med adressen
-  och orsaken; upptäckten fortsätter.
+  adress, utan frågesträng, i listans ordning.
+- **Ett fel stoppar aldrig upptäckten.** En lista eller projektsida som
+  inte går att hämta eller läsa ger inga kandidater och står i
+  sammanfattningen med adressen och orsaken; upptäckten fortsätter, och
+  mötena hämtas.
 - **Filerna** läses som på mötessidorna, i båda formerna. Varje fil blir
   en kandidat av typen `handlingar` under organet. Datumet är dagen,
   i svensk tid, i tidsstämpeln i filens adress; namnet är projektsidans
@@ -1276,11 +1277,13 @@ K8 och K9 vad som händer. Sammanfattningen räknar
 utfallen och nämner varje dokument som inte gick att hämta, med orsak.
 
 - **Platsen** för en ny källnyckel är organ, datum och typ. En bilaga får
-  alltid ett namn, ur filnamnet utan `.pdf`. Är platsen upptagen av ett
+  alltid ett namn, ur filnamnet utan `.pdf`, och en kandidat med ett
+  `namn` från adaptern (ADR-0068) alltid det namnet. Är platsen upptagen av ett
   dokument vars källnyckel inte längre finns bland kandidaterna blir den
   nya filen en ny version av det, och den gamla källnyckeln flyttas till
   `tidigare_kallnycklar`. Finns den kvar får det nya dokumentet ett namn
-  ur filnamnet, eller ett löpnummer om namnet är upptaget eller tomt.
+  ur adaptern eller filnamnet, eller ett löpnummer om namnet är upptaget
+  eller tomt.
 - **PDF:en** strömmas till en temporär katalog utanför repot, och
   katalogen tas bort när dokumentet är klart, också om något gick fel.
 - **Tiderna** `hamtad` och `konverterad` skrivs i UTC, på sekunden.

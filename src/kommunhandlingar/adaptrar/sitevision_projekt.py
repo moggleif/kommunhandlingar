@@ -21,7 +21,6 @@ from kommunhandlingar.kandidat import Avvisad, Kandidat
 from kommunhandlingar.plats import namn_av
 
 TIDSZON = ZoneInfo("Europe/Stockholm")
-TYP = "handlingar"
 
 
 class Lankar(HTMLParser):
@@ -42,7 +41,7 @@ def lankar(html: str, sidadress: str) -> list[str]:
 
 
 def projektsidor(lista: str, hamta: Callable[[str], str]) -> list[str]:
-    """Listans projekt i sidornas ordning; ett fel på en listsida stoppar."""
+    """Listans projekt i sidornas ordning."""
     sidor, projekt, i = [lista], [], 0
     while i < len(sidor):
         for adress in lankar(hamta(sidor[i]), sidor[i]):
@@ -66,19 +65,29 @@ def ar_projekt(lista: str, adress: str) -> bool:
     return not delar.query and str(sokvag.parent) == urlsplit(lista).path.rstrip("/")
 
 
+# Ett fel här stoppar aldrig upptäckten (ADR-0068): sidan hoppas över och
+# står i sammanfattningen, så att mötena hämtas ändå.
+FEL = (Hamtfel, ValueError, KeyError)
+
+
 def upptack(
     projekt: dict[str, str], hamta: Callable[[str], str]
 ) -> tuple[list[Kandidat], list[Avvisad]]:
     kandidater: dict[str, Kandidat] = {}
     avvisade: list[Avvisad] = []
     for organ, lista in projekt.items():
-        for sida in projektsidor(lista, hamta):
+        try:
+            sidor = projektsidor(lista, hamta)
+        except FEL as fel:
+            avvisade.append(Avvisad(lista, "", f"listan: {fel}"))
+            continue
+        for sida in sidor:
             try:
-                html = hamta(sida)
-            except Hamtfel as fel:
-                avvisade.append(Avvisad(sida, "", f"projektsidan: {fel.orsak}"))
+                nya = kandidater_pa(organ, sida, hamta(sida))
+            except FEL as fel:
+                avvisade.append(Avvisad(sida, "", f"projektsidan: {fel}"))
                 continue
-            for kandidat in kandidater_pa(organ, sida, html):
+            for kandidat in nya:
                 kandidater.setdefault(kandidat.kallnyckel, kandidat)
     return list(kandidater.values()), avvisade
 
@@ -89,7 +98,7 @@ def kandidater_pa(organ: str, sida: str, html: str) -> list[Kandidat]:
         Kandidat(
             organ=organ,
             datum=upplagd(f.adress),
-            typ=TYP,
+            typ="handlingar",
             url=f.adress,
             kalla=sida,
             kallnyckel=kallnyckel(f),
