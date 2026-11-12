@@ -91,3 +91,4 @@ Regler för det här repot, utöver MADR:
 | 0065 | [Redovisningarna följs steg för steg som handlingsplanerna, och direktiv som beställer en redovisning flyttar från målsidan](0065-redovisningarna-foljs-som-handlingsplanerna.md) | proposed |
 | 0066 | [Revisionens granskningar följs steg för steg per granskat organ, med stegen i alla organs dokument](0066-revisionens-granskningar-foljs-per-namnd.md) | proposed |
 | 0067 | [Detaljplanerna följs steg för steg som redovisningarna, med besluten i alla organs protokoll](0067-detaljplanerna-foljs-som-redovisningarna.md) | proposed |
+| 0068 | [Projektsidornas filer blir handlingar under ett eget organ, daterade med dagen de lades upp](0068-projektsidornas-filer-blir-handlingar-under-ett-eget-organ.md) | proposed |

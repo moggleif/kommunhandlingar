@@ -13,7 +13,7 @@ kommuner/<kommun>.toml
         │
         ▼
 1. upptäck   adaptrar per plattform  →  kandidatlista: organ, datum, typ, URL,
-                                         källa, källnyckel, filnamn, delar
+                                         källa, källnyckel, filnamn, delar, namn
         │
         ▼
 2. hämta och konvertera, ett dokument i taget
@@ -181,8 +181,9 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
   git-historiken är versionshistoriken.
 - Platsen bestäms första gången källnyckeln hittas och följer sedan
   källnyckeln. `<lopnr>` används när två sammanträden hålls samma dag.
-  `<namn>` används alltid för bilagor och handlingar uppdelade per ärende,
-  och annars bara när platsen redan är upptagen. Reglerna står i ADR-0003.
+  `<namn>` används alltid för bilagor, handlingar uppdelade per ärende och
+  filer från projektsidorna (ADR-0068), och annars bara när platsen redan
+  är upptagen. Reglerna står i ADR-0003.
 - `<namn>` bildas ur källans rubrik eller filnamn: små bokstäver, å och ä
   blir `a`, ö blir `o`, andra diakritiska tecken tas bort, allt som inte är
   bokstav eller siffra blir bindestreck, flera bindestreck i rad blir ett,
@@ -205,7 +206,8 @@ src/kommunhandlingar/
   adaptrar/        en modul per publiceringsplattform (sitevision, ciceron, …)
                    eller arkiv (wayback);
                    sitevision_html.py läser mötessidan, sitevision.py tolkar den,
-                   sitevision_arkiv.py läser sidorna och filerna ur arkivet
+                   sitevision_arkiv.py läser sidorna och filerna ur arkivet,
+                   sitevision_projekt.py listan med projekt och projektsidorna
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
@@ -370,6 +372,38 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 - **En fil som står under flera möten** blir en kandidat: det första
   stället i sidans ordning som ger en kandidat gäller.
 
+### Projektsidorna
+
+Hur och varför står i
+[ADR-0068](decisions/0068-projektsidornas-filer-blir-handlingar-under-ett-eget-organ.md),
+och beteendet i K45. En kommuns lista med aktuella projekt, där varje
+projekt har en egen Sitevision-sida med filer, läses av Sitevision-källan
+när den har fältet `projekt`.
+
+```toml
+[kalla.projekt]
+bun-projekt = "https://exempelby.se/…/aktuella-projekt"
+```
+
+| Fält             | Betyder                                                        |
+| ---------------- | -------------------------------------------------------------- |
+| `kalla.projekt`  | Organets id och adressen till listan med projekt. Utelämnas annars. |
+
+- **Listan** är en källsida: den och varje bläddringssida, en länk till
+  listans adress med en frågesträng, hämtas, och en som inte går att
+  hämta stoppar upptäckten som en mötessida.
+- **Ett projekt** är en länk på listan till en sida en nivå under listans
+  adress, utan frågesträng, i listans ordning. En projektsida som inte går
+  att hämta ger inga kandidater och står i sammanfattningen med adressen
+  och orsaken; upptäckten fortsätter.
+- **Filerna** läses som på mötessidorna, i båda formerna. Varje fil blir
+  en kandidat av typen `handlingar` under organet. Datumet är dagen,
+  i svensk tid, i tidsstämpeln i filens adress; namnet är projektsidans
+  sista del och filnamnet utan ändelse, bildat som andra namn
+  ([Datamodell](#datamodell)). Kandidaten har namnet i fältet `namn`.
+- **En fil som står på flera projektsidor** blir en kandidat från den
+  första; en fil som också står på en mötessida blir mötessidans.
+
 ### Episerver
 
 Hur och varför står i
@@ -480,7 +514,8 @@ läser `hamtning.toml` i samma repo som kommunfilen och stoppas om
 arbetskatalogen ligger i repot. Det hämtar varje källsida, kör adaptern och skriver
 `<arbetskatalog>/<kommun>.kandidater.json`: en lista i ordningen från
 K13, en post per kandidat med fälten `organ`, `datum` (`ÅÅÅÅ-MM-DD`),
-`typ`, `url`, `kalla`, `kallnyckel` och `filnamn`. Sammanfattningen
+`typ`, `url`, `kalla`, `kallnyckel`, `filnamn`, `delar` och `namn` (tomt
+utom för projektsidornas filer). Sammanfattningen
 skrivs ut: antal kandidater per organ och varje fil som inte blev
 kandidat, med orsak och källsida. En källsida som inte går att hämta
 stoppar upptäckten innan listan skrivs, med kod 3, utom i arkivet

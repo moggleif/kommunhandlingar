@@ -966,6 +966,24 @@ har 65 planer med 168 steg (kontrollerat 2026-11-10 i poolen):
   avtal, tillsyn, bygglov och planer som bara finns före 2024 står inte
   med.
 
+### Aktuella projekt
+
+Läst 2026-11-12. Listan
+<https://kungsbacka.se/bygga-bo-och-miljo/aktuella-projekt> har 146
+projekt på sju bläddringssidor (`?page12_<portlet>=2` och så vidare):
+detaljplaner, planprogram, utbyggnad av vatten och avlopp, vägar,
+skolor. Varje projekt har en sida en nivå under listan, med steg i
+processen, fastighetsbeteckning, tidplan och dokument i grupper som
+"Samrådshandlingar", "Granskningshandlingar" och "Utredningar".
+Fillistorna står som JSON i `AppRegistry.registerInitialState`, som på
+mötessidorna, och några som länkar. 81 projekt hade filer, cirka 690
+unika och 3 GB, de största 75 MB; en var en presentation (`.pptx`).
+Samma fil (VA-taxan, de allmänna bestämmelserna) står på många projekt.
+
+Projektsidorna har kontaktuppgifter till tjänstepersoner, exploatörer och
+fastighetsägare. Bara filerna läses (ADR-0068); organet och listan står i
+kommunfilen.
+
 ### Revisionens granskningar
 
 Granskningssidorna (K43,

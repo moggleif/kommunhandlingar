@@ -1434,3 +1434,27 @@ Hur och varför står i
   något annat som stoppar en annan spårfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
+
+## K45 — Kommunens projektsidor tas in som handlingar
+
+Hur och varför står i
+[ADR-0068](decisions/0068-projektsidornas-filer-blir-handlingar-under-ett-eget-organ.md)
+och [Projektsidorna](03-ARKITEKTUR.md#projektsidorna). Issue
+[#254](https://github.com/moggleif/kommunhandlingar/issues/254).
+
+- **Givet** en kommun vars webbplats har en lista med projekt, där varje
+  projekt har en egen sida med filer, och en kommunfil som anger listan
+  och organet projekten står under
+- **När** upptäckten körs
+- **Så** blir varje fil på varje projektsida, på alla listans sidor, en
+  kandidat av typen handlingar under det organet, med dagen filen lades
+  upp som datum och projektets och filens namn som namn.
+- **Givet** en fil som står på flera projektsidor, eller på en mötessida
+  och en projektsida
+- **När** upptäckten körs
+- **Så** blir den en enda kandidat, och mötessidan går före.
+- **Givet** en projektsida som inte går att hämta
+- **När** upptäckten körs
+- **Så** blir sidans filer inga kandidater den körningen, adressen och
+  orsaken står i sammanfattningen, och upptäckten fortsätter. En listsida
+  som inte går att hämta stoppar upptäckten som en mötessida (K2).
