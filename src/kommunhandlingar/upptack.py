@@ -1,4 +1,5 @@
-"""Krav: K2, K13, K16 och K23 i docs/02-KRAV.md, ADR-0013, ADR-0018 och ADR-0039.
+"""Krav: K2, K13, K16, K23 och K45 i docs/02-KRAV.md, ADR-0013, ADR-0018,
+ADR-0039 och ADR-0068.
 Test: tests/test_upptack.py.
 
 Steg 1: `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>
@@ -15,10 +16,16 @@ import sys
 from collections import Counter
 from dataclasses import asdict
 from datetime import UTC, datetime
+from functools import partial
 from pathlib import Path
 
 from kommunhandlingar import konfiguration, tidsbudget
-from kommunhandlingar.adaptrar import episerver_arkiv, sitevision, sitevision_arkiv
+from kommunhandlingar.adaptrar import (
+    episerver_arkiv,
+    sitevision,
+    sitevision_arkiv,
+    sitevision_projekt,
+)
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
@@ -35,6 +42,11 @@ def upptack(
         html = {adress: sida(klient, adress) for adress in kalla.sidor.values()}
         nya, bort = sitevision.upptack(kalla, html)
         kandidater += nya
+        avvisade += bort
+    for kalla in kommun.kallor:
+        nya, bort = sitevision_projekt.upptack(kalla.projekt, partial(sida, klient))
+        moten = {k.kallnyckel for k in kandidater}
+        kandidater += [k for k in nya if k.kallnyckel not in moten]
         avvisade += bort
     return ordna(kandidater, [o.id for o in kommun.organ]), avvisade
 

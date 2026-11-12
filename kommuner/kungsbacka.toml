@@ -98,6 +98,13 @@ id = "kf"
 namn = ["Kommunfullmäktige"]
 grupp = "Kommunfullmäktige och kommunstyrelsen"
 
+# Filerna på kommunens projektsidor (ADR-0068). Står under byggnadsnämnden
+# som arbetsutskottet, men sist i listan, så att mötena hämtas först.
+[[organ]]
+id = "bygg-projekt"
+namn = ["Aktuella projekt"]
+hor_till = "bygg"
+
 # Mötessidorna på kungsbacka.se (ADR-0011): organet är sidans, typen står i
 # filnamnet, och datumet i filnamnet eller i mötets rubrik. Organen i wayback
 # läses också ur Internet Archive (ADR-0018, ADR-0027, ADR-0047).
@@ -153,6 +160,11 @@ revision = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/polit
 ks = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kommunstyrelsens-sammantraden"
 ks-au = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kommunstyrelsens-arbetsutskotts-sammantraden"
 kf = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-moten-och-sammantraden/kommunfullmaktiges-sammantraden"
+
+# Listan med aktuella projekt; varje fil på en projektsida blir handlingar
+# under organet (ADR-0068).
+[kalla.projekt]
+bygg-projekt = "https://kungsbacka.se/bygga-bo-och-miljo/aktuella-projekt"
 
 # Filer vars filnamn och rubrik anger olika datum (K2, ADR-0011). Datumet är
 # belagt i kallelsens eller protokollets egen text, hämtad 2026-10-07.

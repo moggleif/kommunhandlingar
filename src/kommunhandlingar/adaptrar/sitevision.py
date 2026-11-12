@@ -1,4 +1,5 @@
-"""Krav: K1, K2 och K16 i docs/02-KRAV.md, ADR-0011, ADR-0027 och ADR-0062.
+"""Krav: K1, K2, K16 och K45 i docs/02-KRAV.md, ADR-0011, ADR-0027, ADR-0062
+och ADR-0068.
 Test: tests/test_sitevision.py."""
 
 import re
@@ -10,7 +11,16 @@ from kommunhandlingar.adaptrar.sitevision_html import Forekomst, forekomster
 from kommunhandlingar.fel import IngenKandidat, Konfigurationsfel
 from kommunhandlingar.kandidat import Avvisad, Kandidat
 
-FALT = {"adapter", "monster", "manader", "sidor", "rubrik", "rattelser", "wayback"}
+FALT = {
+    "adapter",
+    "monster",
+    "manader",
+    "sidor",
+    "rubrik",
+    "rattelser",
+    "wayback",
+    "projekt",
+}
 MONSTERGRUPPER = {"ar", "manad", "dag", "typ"}
 # Ett möte som flyttas, flyttas några dagar (ADR-0062).
 FLYTTAT_MOTE = timedelta(days=7)
@@ -24,6 +34,8 @@ class Kalla:
     manader: tuple[str, ...]
     rattelser: dict[str, date]
     wayback: tuple[str, ...]
+    # Organet och adressen till kommunens lista med projekt (ADR-0068).
+    projekt: dict[str, str]
     # Sätts av arkivets adapter, inte av kommunfilen.
     arkiv: bool = False
 
@@ -44,6 +56,7 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
             schema.valfritt(post, "rattelser", dict, var) or {}, "sitevision", var
         ),
         arkivorgan(schema.textlista(post, "wayback", var), motessidor, var),
+        sidor(schema.valfritt(post, "projekt", dict, var) or {}, organ_id, var),
     )
 
 

@@ -1,7 +1,9 @@
-"""Krav: K2, K8 och K9 i docs/02-KRAV.md, ADR-0003. Test: tests/test_plats.py.
+"""Krav: K2, K8, K9 och K45 i docs/02-KRAV.md, ADR-0003 och ADR-0068.
+Test: tests/test_plats.py.
 
 Var ett nytt dokument hamnar i poolen. Platsen bestäms första gången
-källnyckeln hittas: bilagor har alltid ett namn, övriga får ett bara när
+källnyckeln hittas: bilagor och filer som adaptern namngett (ADR-0068)
+har alltid ett namn, övriga får ett bara när
 platsen är upptagen. En ny källnyckel på en upptagen plats är en ny version
 av dokumentet där, om dess källnyckel inte längre finns bland kandidaterna.
 """
@@ -53,10 +55,13 @@ def ledigt_namn(onskat: str, upptagen) -> str:
 
 def grundplats(kandidat: Kandidat) -> Plats:
     plats = Plats(kandidat.organ, kandidat.datum, kandidat.typ)
-    if kandidat.typ == "bilaga":
-        return replace(plats, namn=filnamnet(kandidat) or "2")
+    if kandidat.typ == "bilaga" or kandidat.namn:
+        return replace(plats, namn=onskat_namn(kandidat) or "2")
     return plats
 
 
-def filnamnet(kandidat: Kandidat) -> str:
-    return namn_av(kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF"))
+def onskat_namn(kandidat: Kandidat) -> str:
+    """Adapterns namn (ADR-0068), annars filnamnets."""
+    return kandidat.namn or namn_av(
+        kandidat.filnamn.removesuffix(".pdf").removesuffix(".PDF")
+    )

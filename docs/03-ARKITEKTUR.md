@@ -389,9 +389,11 @@ bun-projekt = "https://exempelby.se/…/aktuella-projekt"
 | ---------------- | -------------------------------------------------------------- |
 | `kalla.projekt`  | Organets id och adressen till listan med projekt. Utelämnas annars. |
 
-- **Listan** är en källsida: den och varje bläddringssida, en länk till
-  listans adress med en frågesträng, hämtas, och en som inte går att
-  hämta stoppar upptäckten som en mötessida.
+- **Listan** är en källsida: den och varje bläddringssida hämtas, och en
+  som inte går att hämta stoppar upptäckten som en mötessida. En
+  bläddringssida är en länk till listans adress med en enda parameter
+  vars värde är ett tal (`?page12_…=2`); filtren, med fler parametrar,
+  följs inte.
 - **Ett projekt** är en länk på listan till en sida en nivå under listans
   adress, utan frågesträng, i listans ordning. En projektsida som inte går
   att hämta ger inga kandidater och står i sammanfattningen med adressen

@@ -58,7 +58,8 @@ sökvägen.
   har hundratals projektfiler att ta in.
 * **Källan** är ett nytt fält i Sitevision-källan, `projekt`: organet och
   adressen till listan. Listans bläddringssidor (samma adress med en
-  frågesträng) följs, och varje länk en nivå under listan är ett projekt.
+  enda parameter vars värde är ett tal) följs, men inte filtren, som
+  `robots.txt` stänger. Varje länk en nivå under listan är ett projekt.
 * **Typen** är alltid `handlingar`.
 * **Datumet** är dagen filen lades upp, i svensk tid, ur tidsstämpeln i
   Sitevisions adress (`/download/18.<nod-id>/<millisekunder>/…`). Den

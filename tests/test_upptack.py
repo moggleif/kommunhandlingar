@@ -1,4 +1,4 @@
-"""Krav: K2, K13 och K16, ADR-0013, ADR-0018 och ADR-0061.
+"""Krav: K2, K13, K16 och K45, ADR-0013, ADR-0018, ADR-0061 och ADR-0068.
 Kod: src/kommunhandlingar/upptack.py."""
 
 import argparse
@@ -63,6 +63,27 @@ class TestUpptack(unittest.TestCase):
         self.assertIn("  bun: 2", text)
         self.assertIn("Budget 2022.pdf (inget mönster matchar)", text)
 
+    def test_projektsidornas_filer_efter_motenas(self):
+        kalla = replace(
+            self.kommun.kallor[0], projekt={"fsn": "https://exempelby.se/p"}
+        )
+        kommun = replace(self.kommun, kallor=(kalla,))
+        klient = Klient(
+            {
+                "https://exempelby.se/bun": BUN,
+                "https://exempelby.se/fsn": FSN,
+                "https://exempelby.se/p": '<a href="/p/vagen">Vägen</a>',
+                "https://exempelby.se/p/vagen": lank("b1", "Kallelse.pdf")
+                + lank("c1", "Plankarta.pdf"),
+            }
+        )
+        kandidater, _ = upptack(kommun, klient)
+        self.assertEqual(
+            [(k.kallnyckel[-2:], k.organ) for k in kandidater],
+            [("b2", "bun"), ("b1", "bun"), ("f1", "fsn"), ("c1", "fsn")],
+        )
+        self.assertEqual(kandidater[-1].namn, "vagen-plankarta")
+
     def test_en_sida_som_inte_gar_att_hamta_stoppar(self):
         klient = Klient({"https://exempelby.se/bun": BUN})
         with self.assertRaisesRegex(Hamtfel, "https://exempelby.se/fsn: http-404"):
@@ -82,7 +103,17 @@ class TestUpptack(unittest.TestCase):
         self.assertEqual(poster[0]["filnamn"], "Protokoll 2022-05-02.pdf")
         self.assertEqual(
             set(poster[0]),
-            {"organ", "datum", "typ", "url", "kalla", "kallnyckel", "filnamn", "delar"},
+            {
+                "organ",
+                "datum",
+                "typ",
+                "url",
+                "kalla",
+                "kallnyckel",
+                "filnamn",
+                "delar",
+                "namn",
+            },
         )
 
     def test_arbetskatalogen_ligger_utanfor_repot(self):
