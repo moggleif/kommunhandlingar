@@ -31,10 +31,12 @@ class TestKommunfilen(unittest.TestCase):
 
     def test_kungsbacka_lases(self):
         kommun = las(ROT / "kommuner" / "kungsbacka.toml")
-        self.assertEqual(len(kommun.organ), 17)
+        self.assertEqual(len(kommun.organ), 18)
         self.assertEqual(kommun.organ[0].id, "ga")
-        self.assertEqual([o.id for o in kommun.organ[-3:]], ["ks", "ks-au", "kf"])
-        self.assertEqual(kommun.kallor[0].wayback, tuple(o.id for o in kommun.organ))
+        moten = [o.id for o in kommun.organ[:-1]]
+        self.assertEqual(moten[-3:], ["ks", "ks-au", "kf"])
+        self.assertEqual(kommun.kallor[0].wayback, tuple(moten))
+        self.assertEqual(list(kommun.kallor[0].projekt), ["bygg-projekt"])
 
     def test_utan_arkiv(self):
         self.assertFalse(las(FIXTURER / "exempelby.toml").kallor[0].wayback)
@@ -118,6 +120,14 @@ class TestFelStopparKorningen(unittest.TestCase):
             data["kalla"][0]["wayback"] = ["fsn"]
 
         self.stoppas(utan_sida)
+
+    def test_projektlistan_ar_ett_organ_och_en_adress(self):
+        self.stoppas(lambda d: d["kalla"][0].update(projekt={"okant": "https://x"}))
+        self.stoppas(lambda d: d["kalla"][0].update(projekt={"bun": 3}))
+        self.stoppas(lambda d: d["kalla"][0].update(projekt="https://x"))
+
+    def test_utan_projektlista_ar_den_tom(self):
+        self.assertEqual(las(FIXTURER / "exempelby.toml").kallor[0].projekt, {})
 
     def test_omkonvertera_ar_sant_eller_falskt(self):
         self.stoppas(lambda d: d.update(omkonvertera="nej"))
