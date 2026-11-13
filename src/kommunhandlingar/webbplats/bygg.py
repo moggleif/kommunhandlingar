@@ -32,7 +32,7 @@ from kommunhandlingar.webbplats.rakning import okanda, rakna
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
 from kommunhandlingar.webbplats.sparsida import sparsida
-from kommunhandlingar.webbplats.sparslag import SLAGEN
+from kommunhandlingar.webbplats.sparslag import DETALJPLANER, SLAGEN
 
 
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
@@ -44,7 +44,7 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
         s.id: las_kommunfiler(rot, s.id, kommuner, partial(spar.las, slag=s))
         for s in SLAGEN
     }
-    projekten = las_projekten(rot, kommuner, sparen[projekt.SLAG])
+    projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
     mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
     ut.mkdir(parents=True, exist_ok=True)
     (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
@@ -88,7 +88,7 @@ def bygg_sparen(ut: Path, mall: Mall, kommun: Kommun, organ: str) -> None:
         alla = mall.spar[slag.id].get(kommun.id, [])
         if stegen := [s for s in alla if s.organ == organ]:
             vy = Vy.over(slag, kommun, stegen)
-            if slag.id == projekt.SLAG:
+            if slag == DETALJPLANER:
                 vy = replace(vy, projekt=mall.projekt.get(kommun.id, {}))
             html = sparsida(mall, vy, stegen)
             adress = sparets_adress(kommun, organ, slag)

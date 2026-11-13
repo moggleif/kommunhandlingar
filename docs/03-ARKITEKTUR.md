@@ -226,8 +226,8 @@ src/kommunhandlingar/
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
-                   handlingsplanerna, redovisningarna, detaljplanerna,
-                   granskningarna och avvikelserna
+                   handlingsplanerna, redovisningarna, detaljplanerna med
+                   sina projekt, granskningarna och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -237,6 +237,7 @@ initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna f
 handlingsplaner/<kommun>.csv  nämndernas handlingsplaner steg för steg, skrivna för hand (K38)
 redovisningar/<kommun>.csv  nämndernas redovisningar steg för steg, skrivna för hand (K42)
 detaljplaner/<kommun>.csv  detaljplanerna steg för steg, skrivna för hand (K44)
+projekt/<kommun>.csv     detaljplanernas projekt på kommunens webbplats, skrivna för hand (K46)
 granskningar/<kommun>.csv  revisionens granskningar steg för steg, skrivna för hand (K43)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
@@ -2087,16 +2088,18 @@ bygg-projekt,Bostäder inom Må 3:15,bostader-i-fjaras,
 - `detaljplan` är planens namn som det står i
   `detaljplaner/<kommun>.csv`.
 - `projekt` är projektsidans sista del i adressen.
-- `tolkad` är `ja` när kopplingen bygger på namnet. Samma fastighet,
-  också ett kvartersnamn, på projektsidan och i planens namn är en
-  direkt koppling.
+- `tolkad` är `ja` när planen och projektet inte gäller samma fastighet,
+  eller projektet är ett planprogram. Samma fastighet, också ett
+  kvartersnamn, på projektsidan och i planens namn är en direkt koppling.
 
 Projektets dokument är organets dokument vars namn börjar med
 `namn_av(projekt)` och ett bindestreck, utom de som börjar med ett längre
 projekt i filen. Planens kort får länken och, hopfällda, dokumenten med
-namnet utan projektet och datumet. Bygget stoppas när en rad inte går
+källans filnamn som titel och datumet. Bygget stoppas när en rad inte går
 ihop med kommunfilen eller detaljplanerna; ett projekt utan dokument i
-poolen stoppar det inte.
+poolen stoppar det inte. Projektsidor som ligger under ett annat projekt
+(`kungsbacka-arena/detaljplan-for-kungsbacka-arena`) tas inte in (K45),
+så en plan kopplas då till projektet ovanför.
 
 ## Granskningar
 

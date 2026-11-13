@@ -13,8 +13,6 @@ får en länk till projektsidan och en lista med dokumenten.
 import csv
 import re
 from dataclasses import dataclass
-from html import escape
-from itertools import islice, takewhile
 from pathlib import Path, PurePosixPath
 from urllib.parse import unquote, urlsplit
 
@@ -24,48 +22,51 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.plats import namn_av
 from kommunhandlingar.webbplats.spar import Steg
 
-# Spårslaget vars saker är detaljplanerna.
-SLAG = "detaljplaner"
 KOLUMNER = ["organ", "detaljplan", "projekt", "tolkad"]
-# Datum, titel och adress för varje dokument.
 Dokument = tuple[tuple[str, str, str], ...]
-# Datum, namn, titel och adress för ett organs dokument.
-Pool = tuple[tuple[str, str, str, str], ...]
+# Organets dokument med namnet, som projektet känns igen på, efter datumet.
+Organets = tuple[tuple[str, str, str, str], ...]
 
 
 @dataclass(frozen=True)
 class Projekt:
-    plan: str
     # Projektsidans adress på kommunens webbplats.
     adress: str
     tolkad: bool
-    # Projektets dokument i poolen.
+    # Projektets dokument i poolen: datum, titel och adress.
     dokument: Dokument
 
 
 def las(fil: Path, kommun: Kommun, data: Path) -> dict[str, Projekt]:
     with fil.open(encoding="utf-8", newline="") as f:
-        rader = list(csv.reader(f))
-    if not rader or rader[0] != KOLUMNER:
+        rubrik, *rader = list(csv.reader(f)) or [[]]
+    if rubrik != KOLUMNER:
         raise Datafel(f"{fil}: rubrikerna är inte {','.join(KOLUMNER)}")
     listor = {o: a for k in kommun.kallor for o, a in k.projekt.items()}
-    for nr, rad in enumerate(rader[1:], 2):
-        if fel := radfel(rad, listor, {r[1] for r in rader[1 : nr - 1]}):
+    planerna = set()
+    for nr, rad in enumerate(rader, 2):
+        if fel := radfel(rad, listor, planerna):
             raise Datafel(f"{fil}, rad {nr}: {fel}")
-    pool = {organ: poolens(data, organ) for organ, *_ in rader[1:]}
+        planerna.add(rad[1])
+    namnen = {namn_av(r[2]) for r in rader}
+    pool = {organ: organets(data, organ) for organ in {r[0] for r in rader}}
     return {
-        rad[1]: projektet(rad, listor[rad[0]], pool[rad[0]], rader[1:])
-        for rad in rader[1:]
+        plan: Projekt(
+            f"{listor[organ]}/{projekt}",
+            tolkad == "ja",
+            dokumenten(namn_av(projekt), pool[organ], namnen),
+        )
+        for organ, plan, projekt, tolkad in rader
     }
 
 
-def radfel(rad: list[str], listor: dict[str, str], tidigare: set[str]) -> str:
+def radfel(rad: list[str], listor: dict[str, str], planerna: set[str]) -> str:
     if len(rad) != len(KOLUMNER):
         return f"{len(rad)} fält, inte {len(KOLUMNER)}"
     organ, plan, projekt, tolkad = rad
     if organ not in listor:
         return f"organet {organ!r} har ingen lista med projekt i kommunfilen"
-    if not plan or plan in tidigare:
+    if not plan or plan in planerna:
         return f"planen {plan!r} är tom eller står redan i filen"
     if not re.fullmatch(r"[a-z0-9-]+", projekt):
         return f"projektet {projekt!r} är inte en del av en adress"
@@ -74,60 +75,29 @@ def radfel(rad: list[str], listor: dict[str, str], tidigare: set[str]) -> str:
     return ""
 
 
-def projektet(
-    rad: list[str], lista: str, pool: Pool, rader: list[list[str]]
-) -> Projekt:
-    organ, plan, projekt, tolkad = rad
-    namn = namn_av(projekt)
-    langre = [namn_av(r[2]) for r in rader if r[0] == organ]
-    langre = [n for n in langre if n.startswith(namn + "-")]
-    dokument = tuple(
+def dokumenten(projekt: str, organets: Organets, namnen: set[str]) -> Dokument:
+    langre = [n for n in namnen if n.startswith(projekt + "-")]
+    return tuple(
         (datum, titel, adress)
-        for datum, d, titel, adress in pool
-        if d.startswith(namn + "-") and not any(d.startswith(n + "-") for n in langre)
+        for datum, namn, titel, adress in organets
+        if namn.startswith(projekt + "-")
+        and not any(namn.startswith(n + "-") for n in langre)
     )
-    return Projekt(plan, f"{lista}/{projekt}", tolkad == "ja", dokument)
 
 
-# Organets dokument, bara front matter, lästa en gång per organ.
-def poolens(data: Path, organ: str) -> Pool:
-    return tuple(sorted(dokumentet(fil, data) for fil in (data / organ).rglob("*.md")))
-
-
-# Titeln är källans filnamn, med å, ä och ö, som namnet saknar.
-def dokumentet(fil: Path, data: Path) -> tuple[str, str, str, str]:
-    with fil.open(encoding="utf-8") as f:
-        huvud = "".join(takewhile(lambda r: r != "---\n", islice(f, 1, None)))
-    falt = frontmatter.las(f"---\n{huvud}---\n")
-    kalla = frontmatter.adresser(falt["kalla_url"])[0]
-    titel = unquote(PurePosixPath(urlsplit(kalla).path).stem)
-    adress = fil.relative_to(data).with_suffix(".html").as_posix()
-    return falt["datum"], falt["namn"], titel, adress
+# Titeln är källans filnamn som det står, med å, ä, ö och versaler.
+def organets(data: Path, organ: str) -> Organets:
+    dokumenten = []
+    for fil in sorted((data / organ).rglob("*.md")):
+        falt = frontmatter.las(fil.read_text(encoding="utf-8"))
+        kalla = frontmatter.adresser(falt["kalla_url"])[0]
+        titel = unquote(PurePosixPath(urlsplit(kalla).path).stem)
+        adress = fil.relative_to(data).with_suffix(".html").as_posix()
+        dokumenten.append((falt["datum"], falt["namn"], titel, adress))
+    return tuple(sorted(dokumenten))
 
 
 def kontrollera(projekten: dict[str, Projekt], stegen: list[Steg], fil: str) -> None:
     planerna = {s.namn for s in stegen}
     if okanda := sorted(set(projekten) - planerna):
         raise Datafel(f"{fil}: planen {okanda[0]!r} står inte bland detaljplanerna")
-
-
-# Länken till projektsidan och projektets dokument, som ligger i ett
-# annat organs katalog.
-def kortdel(projekt: Projekt | None) -> str:
-    if not projekt:
-        return ""
-    tolkad = " <small>tolkad</small>" if projekt.tolkad else ""
-    lank = (
-        f'<p><a href="{escape(projekt.adress)}">Kommunens projektsida</a>{tolkad}</p>'
-    )
-    if not projekt.dokument:
-        return lank + "<p>Projektets dokument: inga i poolen.</p>"
-    poster = "".join(
-        f'<li><a href="../{escape(adress)}">'
-        f"{escape(namn.replace('-', ' ').capitalize())}</a> {datum}</li>"
-        for datum, namn, adress in projekt.dokument
-    )
-    return (
-        lank + "<details><summary>Projektets dokument i poolen, "
-        f"{len(projekt.dokument)} st</summary><ul>{poster}</ul></details>"
-    )

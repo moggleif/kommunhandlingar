@@ -51,8 +51,8 @@ granska rad för rad, som stegen i spårfilerna.
   organet projektens dokument står under, som kommunfilen ger en lista med
   projekt (ADR-0068). `detaljplan` är planens namn som det står i
   `detaljplaner/<kommun>.csv`. `projekt` är projektsidans sista del i
-  adressen. `tolkad` är `ja` när kopplingen bygger på namnet och inte på
-  fastighetsbeteckningen.
+  adressen. `tolkad` är `ja` när planen och projektet inte gäller samma
+  fastighet, eller projektet är ett planprogram.
 * **Direkt** är en koppling när en fastighet i planens namn, också ett
   kvartersnamn, står under "Fastighet" på projektsidan. Delar två projekt
   fastigheten avgör planens och projektets namn vilket det är, och det är
@@ -63,12 +63,15 @@ granska rad för rad, som stegen i spårfilerna.
   projekt i filen hör det dit.
 * **Kortet** för en kopplad plan får en länk "Kommunens projektsida", med
   "tolkad" när kopplingen är tolkad, och en hopfälld lista med projektets
-  dokument i poolen: namnet utan projektet och dagen det lades upp.
+  dokument i poolen: källans filnamn som det står, med å, ä, ö,
+  versaler och datum, och dagen det lades upp. Dokumentets namn i poolen
+  saknar å, ä och ö och duger inte som titel.
   Saknas dokumenten står det.
-* **Bygget stoppas** med filen och raden när organet saknar en lista med
-  projekt, planen står två gånger eller är tom, projektet inte är en del av
-  en adress eller `tolkad` är något annat än tomt eller `ja`, och med filen
-  när en plan inte finns på detaljplanssidan.
+* **Bygget stoppas** med filen när rubrikerna är fel, med filen och raden
+  när raden har fel antal fält, organet saknar en lista med projekt,
+  planen står två gånger eller är tom, projektet inte är en del av en
+  adress eller `tolkad` är något annat än tomt eller `ja`, och med filen
+  och planen när planen inte finns på detaljplanssidan.
 
 ### Consequences
 
@@ -80,6 +83,10 @@ granska rad för rad, som stegen i spårfilerna.
 * Bad, eftersom ett projekt som är början av ett annat projekts namn (som
   `asa-restaurangstrak` och `asa-restaurangstrak-del-2`) tar det andras
   dokument tills det andra står i filen.
+* Bad, eftersom en projektsida under ett annat projekt inte tas in
+  (ADR-0068), så Kungsbacka arenas detaljplan kopplas till arenans
+  projektsida, tolkad, och dess dokument saknas i poolen.
+* Bad, eftersom en ändrad adress till projektsidan inte märks i bygget.
 * Neutral, eftersom ett projekt utan dokument i poolen inte stoppar
   bygget: 65 av kommunens projekt har inga filer, och nya dokument kommer
   med nattkörningen.
@@ -115,7 +122,7 @@ Projektägaren sa 2026-11-13 ja till kopplingsfilen, länken och dokumenten
 på detaljplanssidan och till att de äldre planerna (2019–2023) läggs till
 på detaljplanssidan därefter, och nej till kommunens status och tidplan.
 
-AI-agenten kopplade 50 av de 65 planerna i Kungsbacka: 43 på fastighet och
-7 tolkade. Två planer med fastighet i två projekt lämnades utan koppling:
-ett upphävande av en del av en äldre plan och en ändring av en plan för
-samma fastighet som ett annat projekt.
+AI-agenten kopplade 50 av de 65 planerna i Kungsbacka: 43 på fastighet
+och 7 tolkade, varav ett planprogram. Två planer med fastighet i två
+projekt lämnades utan koppling: ett upphävande av en del av en äldre plan
+och en ändring av en plan för samma fastighet som ett annat projekt.

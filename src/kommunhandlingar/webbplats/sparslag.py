@@ -234,8 +234,8 @@ DETALJPLANER = Slag(
         "inte att inget hände; poolen saknar en del protokoll. Sidan visar vad "
         "som står var och värderar inte planerna.</p><p>En plan med ett projekt "
         "på kommunens webbplats länkar dit och till projektets dokument i "
-        "poolen. Kopplingen är tolkad när den bygger på namnet och inte på "
-        "fastighetsbeteckningen (ADR-0069).</p>"
+        "poolen. Kopplingen är tolkad när planen och projektet inte gäller "
+        "samma fastighet, eller projektet är ett planprogram (ADR-0069).</p>"
     ),
     adr="0067-detaljplanerna-foljs-som-redovisningarna.md",
 )

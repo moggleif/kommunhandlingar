@@ -1479,8 +1479,9 @@ och [Projekten](03-ARKITEKTUR.md#projekten). Issue
 - **När** webbplatsen byggs
 - **Så** har planens kort på detaljplanssidan en länk till kommunens
   projektsida och en lista med projektets dokument i poolen, med dagen de
-  lades upp, och "tolkad" när kopplingen bygger på namnet och inte på
-  fastighetsbeteckningen.
+  lades upp, och "tolkad" när planen och projektet inte gäller samma
+  fastighet eller projektet är ett planprogram. Dokumentets titel är
+  källans filnamn.
 - **Givet** ett projekt vars namn är början av ett annat projekts namn i
   filen
 - **När** webbplatsen byggs
@@ -1490,8 +1491,12 @@ och [Projekten](03-ARKITEKTUR.md#projekten). Issue
 - **När** webbplatsen byggs
 - **Så** står det på kortet att dokumenten inte finns i poolen, och bygget
   fortsätter.
-- **Givet** en rad med en plan som inte finns bland detaljplanerna, en
-  plan som står två gånger, ett organ utan lista med projekt eller ett
-  projekt som inte är en del av en adress
+- **Givet** en fil med fel rubriker, eller en rad med fel antal fält, en
+  tom plan, en plan som står två gånger, ett organ utan lista med
+  projekt, ett projekt som inte är en del av en adress eller `tolkad`
+  som varken är tomt eller `ja`
 - **När** webbplatsen byggs
-- **Så** stoppas bygget med filen, raden och felet.
+- **Så** stoppas bygget med filen, raden när det finns en, och felet.
+- **Givet** en rad med en plan som inte finns bland detaljplanerna
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen och planen.

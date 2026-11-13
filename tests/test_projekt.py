@@ -9,6 +9,7 @@ from pathlib import Path
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las as las_kommun
 from kommunhandlingar.webbplats import projekt, spar
+from kommunhandlingar.webbplats.sparkort import projektet
 from kommunhandlingar.webbplats.sparslag import DETALJPLANER
 from tests.test_detaljplaner import ROT, sida
 from tests.test_webbplats import dokument, exempelby
@@ -43,7 +44,7 @@ def las(rader: str, filer: dict[str, str] | None = None) -> dict[str, projekt.Pr
 class TestLas(unittest.TestCase):
     def test_projektets_adress_och_dokument(self):
         filer = {
-            "skolan-plankarta": "Plankarta%20f%C3%B6r%20skolan.pdf",
+            "skolan-plankarta": "PM%20Plankarta%20f%C3%B6r%20R-51%202021-10-08.pdf",
             "skolan-del-2-buller": "Buller.pdf",
             "annat-skolan-pm": "PM.pdf",
         }
@@ -57,13 +58,20 @@ class TestLas(unittest.TestCase):
             (
                 (
                     "2024-01-01",
-                    "Plankarta för skolan",
+                    "PM Plankarta för R-51 2021-10-08",
                     "fsn/2024/2024-01-01/handlingar-skolan-plankarta.html",
                 ),
             ),
         )
         self.assertEqual([d[1] for d in projekten["Annan plan"].dokument], ["Buller"])
         self.assertTrue(projekten["Annan plan"].tolkad)
+
+    def test_fel_rubrik_stoppar(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            fil = Path(tmp) / "exempelby.csv"
+            fil.write_text("organ,plan,projekt,tolkad\n", encoding="utf-8")
+            with self.assertRaisesRegex(Datafel, "rubrikerna är inte"):
+                projekt.las(fil, kommunen(), Path(tmp))
 
     def test_fel_rad_stoppar(self):
         fel = {
@@ -87,21 +95,23 @@ class TestLas(unittest.TestCase):
 
 class TestKortet(unittest.TestCase):
     def test_lank_och_dokument_pa_planens_kort(self):
-        projekten = las(f"fsn,{PLAN},skolan,ja\n", {"skolan-plankarta": "Karta.pdf"})
+        projekten = las(
+            f"fsn,{PLAN},skolan,ja\n", {"skolan-plankarta": "SKA-rapport.pdf"}
+        )
         html = sida(projekten)
         self.assertIn(f'<a href="{LISTA}/skolan">Kommunens projektsida</a>', html)
         self.assertIn("<small>tolkad</small>", html)
         self.assertIn("Projektets dokument i poolen, 1 st", html)
         self.assertIn(
             '<a href="../fsn/2024/2024-01-01/handlingar-skolan-plankarta.html">'
-            "Karta</a> 2024-01-01",
+            "SKA-rapport</a> 2024-01-01",
             html,
         )
 
     def test_projekt_utan_dokument(self):
-        html = projekt.kortdel(las(f"fsn,{PLAN},skolan,\n")[PLAN])
+        html = projektet(las(f"fsn,{PLAN},skolan,\n")[PLAN])
         self.assertIn("Projektets dokument: inga i poolen.", html)
-        self.assertEqual(projekt.kortdel(None), "")
+        self.assertEqual(projektet(None), "")
 
 
 class TestKungsbacka(unittest.TestCase):

@@ -14,7 +14,7 @@ from dataclasses import dataclass, field
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.projekt import Projekt, kortdel
+from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Slag, Steg
 from kommunhandlingar.webbplats.sparikon import ikon
 
@@ -57,7 +57,7 @@ def kort(vy: Vy, nr: int, sak: Sak) -> str:
         f"<p>Senast: {vy.slag.faser[senaste.fas][1]} {senaste.ar}"
         f"{f' ({escape(senaste.varde)})' if senaste.varde else ''}"
         f"{' <small>tolkad</small>' if senaste.tolkad else ''}</p>"
-        f"{planen(vy, stegen)}{kortdel(vy.projekt.get(namn))}{remsa(vy, stegen)}"
+        f"{planen(vy, stegen)}{projektet(vy.projekt.get(namn))}{remsa(vy, stegen)}"
         f"<details><summary>Läs mer: historiken och källorna, {len(stegen)} steg"
         "</summary>"
         f"<ol>{poster}</ol></details></article>"
@@ -69,6 +69,25 @@ def planen(vy: Vy, stegen: list[Steg]) -> str:
     return "".join(
         f'<p>Planen: <a href="{escape(adress)}">{escape(text)}</a></p>'
         for adress, text in kallorna
+    )
+
+
+# Länken till kommunens projektsida och projektets dokument i poolen,
+# som ligger i projektorganets katalog (K46).
+def projektet(projekt: Projekt | None) -> str:
+    if not projekt:
+        return ""
+    tolkad = " <small>tolkad</small>" if projekt.tolkad else ""
+    lank = f'<p><a href="{escape(projekt.adress)}">Kommunens projektsida</a>'
+    if not projekt.dokument:
+        return f"{lank}{tolkad}</p><p>Projektets dokument: inga i poolen.</p>"
+    poster = "".join(
+        f'<li><a href="../{escape(adress)}">{escape(titel)}</a> {datum}</li>'
+        for datum, titel, adress in projekt.dokument
+    )
+    return (
+        f"{lank}{tolkad}</p><details><summary>Projektets dokument i poolen, "
+        f"{len(projekt.dokument)} st</summary><ul>{poster}</ul></details>"
     )
 
 
