@@ -1,0 +1,35 @@
+Gynnsamma förhållanden,,Ogynnsamma förhållanden,
+Stort antal beräknade glidytor.,X,Litet antal beräknade glidytor.,
+"Känslighetsanalys utförd på valda
+parametrar.",X,"Ingen känslighetsanalys utförd på valda
+Parametrar.",
+"Samtidigt valda ogynnsammaste
+extremvärden för last, portryck och
+vattenstånd. Ringa sannolikhet för att
+vald kombination inträffar samtidigt.",X,"Vald kombination för last, portryck och
+vattenstånd motsvarar normaltillståndet
+för slänten.",
+"Utförd känslighetsanalys av
+svårtolkade förutsättningar ger endast
+ringa förändring på
+beräkningsresultatet.",X,"Utförd känslighetsanalys av svårtolkade
+förutsättningar ger betydelsefull
+förändring av beräkningsresultat.",
+"Kritiska glidytan omfattar mycket stor
+jordvolym med ett stort antal
+hållfasthetsbestämningar och mindre
+glidytor har god beräkningsmässig
+säkerhet.",X,"Kritiska glidytan omfattar mindre
+jordvolymer med ett fåtal
+hållfasthetsbestämningar.",
+"Förhållandena är enkla med små
+variationer i yta, jordlagerföljd eller
+hållfasthet.",,"Förhållandena är komplicerade med
+stora variationer i yta, jordlagerföljd
+eller hållfasthet.",X
+"Glidytans läge i plan vald i farligaste
+delen av slänten ur stabilitetssynpunkt.",X,"Glidytans läge i plan representerar
+släntens genomsnittliga geometri.",
+"Tvådimensionell analys (som regel
+något på säkra sidan).",X,"Tredimensionell analys (begränsad
+erfarenhet för stora slänter).",

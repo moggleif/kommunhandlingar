@@ -1,0 +1,48 @@
+"FÄLTANALYSPROTOKOLL
+Projekt: Släps-Hagen Laboratorium: ALS
+Projektnummer: 211205 Entreprenör: Sweco
+Uppdragsansvarig: David Lundh Väderlek: Mulet, +4 grader
+Provtagare: Rebecka Gustafsson Antal provpunkter: 6
+Provtagningsdatum: 2023-10-31",,,,,,
+Analysprotokoll,,,,Borrprotokoll,,
+Prov,Djup,VOC*,Lab-,Djup,Jordart,Notering
+,(m),(ppm),analys,(m),,
+23EYT1,"0,0-0,4",-,x,,MuSiLe,"Samlingsprov. Kol hittad på ca 0,15
+m u my i en av delproverna nära
+järnvägen. Lera >0,4 m u my"
+,,,,,,
+23E01,"0,0-0,4",0,x,,MuSiLets,"Hög gv-nivå ungefär vid 0,1 m u my."
+,"0,4-1,0",0,x,,Lets,
+,"1,0-1,4",0,x,,Lets/Le,
+,"1,4-2,0",0,,,Le,
+,,,,,,
+23E02,"0,0-0,4","0,1",,,MuSiLets,rötter
+,"0,4-0,6","0,1",x,,SiLets,
+,"0,6-0,9",0,x,,SiSa,Snäckskal
+,"0,9-1,4","0,1",,,Le/Lets,Snäckskal
+,"1,4-2,0","0,1",,,Le/Lets,Snäckskal
+,,,,,,
+23E03,"0,0-0,2","0,1",,,MuSiLe,
+,"0,2-0,5","0,1",,,SaSiLe,
+,"0,5-0,7","0,1",x,,Lets,
+,"0,7-1,4","0,1",,,Lets,
+,"1,4-2,0","0,1",,,Lets/Le,
+,,,,,,
+23E04,"0,0-0,5",0,x,,MuSiLe,"Mycket vatten, hög gv-nivå"
+,"0,5-0,9","0,1",,,SaSiLets,Lets varvat med SaSi
+,"0,9-1,5",0,x,,Lets/Le,
+,"1,5-2,0",0,,,Le,
+,,,,,,
+23E05,"0,0-0,4",0,x,,MuSiLe,
+,"0,4-1,0",0,,,SaSiLe,
+,"1,0-1,5",0,,,Lets,
+,"1,5-2,0",0,x,,Lets/Le,Snäckskal
+,,,,,,
+"*VOC: (Volatile Organic Compounds); fältanalys utförd med ett PID-instrument.
+Mätningen är endast relativ och syftar främst till att ligga till grund för vidare undersökningar
+samt beslut om vilka prover som det behövs ackrediterad analys på.
+Förkortningar (jordarter):
+St = sten Si = silt Bl = block F = fyllnadsmassor
+Gr = grus Le = lera B = berg Sa = sand
+Mn = morän Lets= Torrskorpelera Mu = mull T=torv
+f = fin m = mellan g = grov",,,,,,

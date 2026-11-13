@@ -1,0 +1,27 @@
+Analysmetoder,Metod
+W-PP-filt,"Filtrering med 0.45µm filter (SE-SOP-0259, SS-EN ISO 5667-3:2018)."
+W-SFMS-5D,"Analys av metaller i förorenat vatten med ICP-SFMS enligt SS-EN ISO 17294-2:2016 och US EPA Method 200.8:1994.
+Analys utan föregående uppslutning. Provet är surgjort med 1 ml HNO3 (suprapur) per 100 ml före analys. Detta gäller ej
+prov som varit surgjort vid ankomst till laboratoriet."
+"Cyanid_7937,10",Bestämning av cyanid total enligt metod DS/EN ISO 14403-2:2012.
+OV-6A_6722,Bestämning av klorerade alifater inkl. vinylklorid enligt DS/EN ISO 10301:2000. Mätning utförs med headspace GC-MS.
+W-PFCLMS02,"Bestämning av perfluorerade ämnen enligt metod baserad på US EPA 537 och CSN P CEN/TS 15968.
+PFOS, PFHxS och PFOSA; Summan grenade och linjära rapporteras.
+Mätning utförs med LC-MS-MS.
+Provet homogeniseras innan upparbetning. Om extraktet innehåller partiklar, filtreras det innan det injiceras i instrumentet.
+PFAS, summa 11 består av PFBA, PFPeA, PFHxA, PFHpA, PFOA, PFNA, PFDA, PFBS, PFHxS, PFOS och 6:2 FTS. Resultat
+som är ”mindre än” (<) ingår inte i summeringen. Resultat ""mindre än"" (<) betyder ej detekterbart för PFAS summa 11."
+HS-OV-21,"Mätningen utförs med headspace GC-MS, enligt intern instruktion TKI42a som är baserad på SPIMFABs kvalitetsmanual.
+Enligt direktiv från Naturvårdsverket oktober 2008."
+SVOC-/HS-OV-21*,Summa alifater >C5-C16 beräknad från HS-OJ-21 och SVOC-OJ-21.
+SVOC-OV-21,"Bestämning av alifatfraktioner och aromatfraktioner
+Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA)
+Summa metylpyrener/metylfluorantener och summa metylkrysener/metylbens(a)antracener.
+GC-MS TK535 N 012 som är baserade på SPIMFABs kvalitetsmanual.
+PAH cancerogena utgörs av bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren,
+dibens(ah)antracen och indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren.
+Summa PAH H: bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, indeno(1,2,3-c,d)pyren,
+dibens(a,h)antracen och bens(g,h,i)perylen.
+PAH summorna är definierade enligt direktiv från Naturvårdsverket utgivna i oktober 2008."

@@ -1,0 +1,59 @@
+"Er beteckning 19GS12 0,7-1
+Provtagare SaL, JuB, NiK
+Labnummer O11151437",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+TS_105°C,73.8,2.0,%,1,V,WIDF
+As,19.5,5.5,mg/kg TS,1,H,WIDF
+Ba,46.0,10.5,mg/kg TS,1,H,WIDF
+Cd,0.118,0.029,mg/kg TS,1,H,WIDF
+Co,9.25,2.24,mg/kg TS,1,H,WIDF
+Cr,30.1,6.2,mg/kg TS,1,H,WIDF
+Cu,22.5,4.8,mg/kg TS,1,H,WIDF
+Hg,<0.2,,mg/kg TS,1,H,WIDF
+Ni,26.4,6.9,mg/kg TS,1,H,WIDF
+Pb,18.6,3.8,mg/kg TS,1,H,WIDF
+V,43.4,9.4,mg/kg TS,1,H,WIDF
+Zn,73.4,13.9,mg/kg TS,1,H,WIDF
+,,,,,,
+TS_105°C,72.8,,%,2,O,SONE
+alifater >C5-C8,<10,,mg/kg TS,3,J,AMLU
+alifater >C8-C10,<10,,mg/kg TS,3,J,LISO
+alifater >C10-C12,<20,,mg/kg TS,3,J,LISO
+alifater >C12-C16,<20,,mg/kg TS,3,J,LISO
+alifater >C5-C16 *,<30,,mg/kg TS,3,N,AMLU
+alifater >C16-C35,30,,mg/kg TS,3,J,LISO
+aromater >C8-C10,<1,,mg/kg TS,3,J,LISO
+aromater >C10-C16,<1,,mg/kg TS,3,J,LISO
+metylpyrener/metylfluorantener *,<1,,mg/kg TS,3,N,LISO
+metylkrysener/metylbens(a)antracener *,<1,,mg/kg TS,3,N,LISO
+aromater >C16-C35,<1,,mg/kg TS,3,J,LISO
+bensen,<0.01,,mg/kg TS,3,J,AMLU
+toluen,<0.05,,mg/kg TS,3,J,AMLU
+etylbensen,<0.05,,mg/kg TS,3,J,AMLU
+"m,p-xylen",<0.05,,mg/kg TS,3,J,AMLU
+o-xylen,<0.05,,mg/kg TS,3,J,AMLU
+"xylener, summa *",<0.05,,mg/kg TS,3,N,AMLU
+"TEX, summa *",<0.1,,mg/kg TS,3,N,AMLU
+naftalen,<0.1,,mg/kg TS,3,J,LISO
+acenaftylen,<0.1,,mg/kg TS,3,J,LISO
+acenaften,<0.1,,mg/kg TS,3,J,LISO
+fluoren,0.11,0.028,mg/kg TS,3,J,LISO
+fenantren,0.74,0.20,mg/kg TS,3,J,LISO
+antracen,0.22,0.055,mg/kg TS,3,J,LISO
+fluoranten,0.74,0.19,mg/kg TS,3,J,LISO
+pyren,0.57,0.15,mg/kg TS,3,J,LISO
+bens(a)antracen,0.35,0.091,mg/kg TS,3,J,LISO
+krysen,0.28,0.070,mg/kg TS,3,J,LISO
+bens(b)fluoranten,0.30,0.078,mg/kg TS,3,J,LISO
+bens(k)fluoranten,0.11,0.028,mg/kg TS,3,J,LISO
+bens(a)pyren,0.25,0.068,mg/kg TS,3,J,LISO
+dibens(ah)antracen,<0.08,,mg/kg TS,3,J,LISO
+benso(ghi)perylen,0.14,0.038,mg/kg TS,3,J,LISO
+indeno(123cd)pyren,0.16,0.048,mg/kg TS,3,J,LISO
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+"PAH, summa 16",4.0,,mg/kg TS,3,D,LISO
+"PAH, summa cancerogena *",1.5,,mg/kg TS,3,N,LISO
+"PAH, summa övriga *",2.5,,mg/kg TS,3,N,LISO
+"PAH, summa L *",<0.15,,mg/kg TS,3,N,LISO
+"PAH, summa M *",2.4,,mg/kg TS,3,N,LISO
+"PAH, summa H *",1.6,,mg/kg TS,3,N,LISO

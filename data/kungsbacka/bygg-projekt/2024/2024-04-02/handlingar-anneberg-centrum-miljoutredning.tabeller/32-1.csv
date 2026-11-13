@@ -1,0 +1,5 @@
+Tidpunkt,Dag,Ljudkrav (dBA)
+07:00-18:00,måndag-fredag,55
+18:00-22:00,måndag-fredag,45
+07:00-22:00,"lördag, sön- och helgdagar",45
+22:00-07:00,måndag-söndag,40

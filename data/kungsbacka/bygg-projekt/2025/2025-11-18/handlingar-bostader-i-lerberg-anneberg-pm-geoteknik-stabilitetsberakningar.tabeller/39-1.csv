@@ -1,0 +1,21 @@
+Name,"Slope Stability
+Material Model","Unit
+Weight
+(kN/m³)","C-Top of
+Layer
+(kPa)","C-Rate of
+Change
+((kN/m²)/m)","C-Maximum
+(kPa)","Piezometric
+Surface","Effective
+Friction
+Angle (°)","Su-Top
+of
+Layer
+(kPa)","Su-Rate of
+Change
+((kN/m²)/m)"
+"Le odrän ned
+till +8",S=f(depth),"15,5","14,5",0,0,1,,,
+"Le odrän
+under +8",S=f(depth),"15,8","17,5","1,3",0,1,,,

@@ -1,0 +1,28 @@
+"Er beteckning 19GS12 Asfalt
+Provtagare SaL, JuB, NiK
+Provtagningsdatum 2019-05-31
+Labnummer O11151521",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+"kryomalning, semivolatila",ja,,,1,1,WIDF
+naftalen,<0.10,,mg/kg,1,1,WIDF
+acenaftylen,<0.10,,mg/kg,1,1,WIDF
+acenaften,0.077,0.031,mg/kg,1,1,WIDF
+fluoren,0.056,0.017,mg/kg,1,1,WIDF
+fenantren,0.287,0.086,mg/kg,1,1,WIDF
+antracen,0.166,0.050,mg/kg,1,1,WIDF
+fluoranten,0.373,0.112,mg/kg,1,1,WIDF
+pyren,0.357,0.107,mg/kg,1,1,WIDF
+bens(a)antracen,0.434,0.130,mg/kg,1,1,WIDF
+krysen,<0.040,,mg/kg,1,1,WIDF
+bens(b)fluoranten,0.923,0.277,mg/kg,1,1,WIDF
+bens(k)fluoranten,0.156,0.047,mg/kg,1,1,WIDF
+bens(a)pyren,0.565,0.170,mg/kg,1,1,WIDF
+dibens(ah)antracen,<0.010,,mg/kg,1,1,WIDF
+benso(ghi)perylen,0.202,0.061,mg/kg,1,1,WIDF
+indeno(123cd)pyren,0.032,0.009,mg/kg,1,1,WIDF
+"PAH, summa 16 *",3.6,,mg/kg,1,1,WIDF
+"PAH, summa cancerogena *",2.1,,mg/kg,1,1,WIDF
+"PAH, summa övriga *",1.5,,mg/kg,1,1,WIDF
+"PAH, summa L *",0.077,,mg/kg,1,1,WIDF
+"PAH, summa M *",1.2,,mg/kg,1,1,WIDF
+"PAH, summa H *",2.3,,mg/kg,1,1,WIDF

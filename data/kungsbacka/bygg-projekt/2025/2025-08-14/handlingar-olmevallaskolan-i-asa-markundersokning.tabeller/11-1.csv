@@ -1,0 +1,31 @@
+Media,Antal prover,Prov,Parametrar
+Jord,10,"24E02 0,0–0,5
+24E02 0,5–1,0
+24E05 0,0–0,5
+24E06 0,0–0,5
+24E07 0,5–1,0
+24E07 1,0–1,5
+24E08 0,5–1,0
+24E09 0,0–0,5
+24E10 0,0–0,5
+24E10 0,5–1,0","MS-1 Metaller (11) i jord, slam och sediment,
+HNO3 uppslutning.
+OJ-1 PAH (EPA-PAH, 16 st) i jord, slam och
+sediment."
+Jord,5,"24E01 0,0–0,5
+24E03 0,0–0,5
+24E04 0,0–0,5
+24E07 0,0–0,5
+24E08 0,0–0,5","MS-1 Metaller (11) i jord, slam och sediment,
+HNO3 uppslutning.
+OJ-21a alifater, aromater, BTEX, PAH (16) i
+j ord, slam och sediment enligt SPIMFAB."
+Jord,1,"24E04 0,0–0,5",OJ-2a PCB7 i jord och slam.
+Jord,2,"24E04 0,0–0,5
+24E09 0,0–0,5","OJ-3a Klorerade pesticider i jord, slam och
+sediment."
+Jord,3,"24E07 0,0–0,5
+24E07 0,5–1,0
+24E07 1,0–1,5","pH i jord och slam.
+TOC, beräknad från GF, i jord, slam och
+sediment."

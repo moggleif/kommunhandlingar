@@ -1,0 +1,9 @@
+"BP24
+F M",,,,,,,
+,,Norr (E6),Söder (E6),Väster,Cirkulation norr (4),Cirkulation öst (5),Cirkulation söder (6)
+1,Norr (E6),0,1117,197,29,25,0
+3,Söder (E6),1868,0,35,47,39,1
+2,Väster,416,37,0,328,274,16
+4,Cirkulation norr (4),63,15,22,0,43,22
+5,Cirkulation öst (5),201,47,21,23,0,21
+6,Cirkulation söder (6),8,2,9,15,25,0

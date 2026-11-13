@@ -1,0 +1,20 @@
+Ämne,"Befintligt
+(µg/l)","Framtida
+utan rening
+(µg/l)","Framtida
+med rening
+(µg/l)","Riktvärden (µg/l) vid
+utsläppspunkt"
+Fosfor (P),220,270,140,200
+Kväve (N),1700,1800,1400,3000
+Bly (Pb)20,14,17,"6,1",14
+Koppar (Cu),31,32,15,20
+Zink (Zn),180,170,65,60
+Kadmium (Cd)20,"0,98",1,"0,53","0,4"
+Krom (Cr)20,"9,7","6,6","2,2",15
+Nickel (Ni),13,"9,9","4,7",20
+Kvicksilver (Hg)20,"0,054","0,051","0,035","0,05"
+Suspenderat material (SS)20,68 000,90 000,26 000,60 000
+Olja20,1600,1600,240,1000
+PAH1620,"0,66","0,63","0,19",-
+Benso(a)pyren (BaP) 20,"0,1","0,1","0,031","0,05"

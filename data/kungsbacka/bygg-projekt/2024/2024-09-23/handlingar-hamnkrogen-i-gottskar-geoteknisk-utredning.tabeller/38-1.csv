@@ -1,0 +1,23 @@
+Name,Model,"Unit
+Weight
+(kN/m³","Cohesion'
+(kPa)
+)","Phi'
+(°)","Phi-B
+(°)","Constant
+Unit Wt.
+Above
+Water Table
+(kN/m³)","C-Datum
+(kPa)","C-Rate of
+Change
+((kN/m²)/m)","Cu-Datum
+(kPa)","Cu-Rate of
+Change
+((kN/m²)/m)","C/Cu
+Ratio","Datum
+(Elevation)
+(m)"
+Lera 1 Komb red,"Combined, S=f(datum)",16,,28,,,"0,45","0,1","4,5",1,"0,1","-6,5"
+Lera 2 Komb red,"Combined, S=f(datum)",18,,28,,,"1,44","0,1","14,4",1,"0,1","-17,5"
+Sand red,Mohr-Coulomb,20,0,33,0,18,,,,,,

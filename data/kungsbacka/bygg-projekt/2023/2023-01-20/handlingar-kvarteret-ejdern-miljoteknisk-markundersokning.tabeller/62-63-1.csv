@@ -1,0 +1,71 @@
+,Metod
+1,"Bestämning av metaller enligt MS-1.
+Analysprovet har torkats vid 50°C och elementhalterna TS-korrigerats.
+För jord siktas provet efter torkning.
+För sediment/slam mals alternativt hamras det torkade provet .
+Vid expressanalys har upplösning skett på vått samt osiktat/omalt prov.
+Upplösning har skett med salpetersyra för slam/sediment och för jord med salpetersyra/väteperoxid.
+Analys med ICP-SFMS har skett enligt SS EN ISO 17294-1, 2 (mod) samt EPA-metod 200.8 (mod).
+Rev 2015-07-24"
+2,"Bestämning av torrsubstans enligt SS 028113 utg. 1
+Provet torkas vid 105°C.
+Mätosäkerhet (k=2): ±6%
+Rev 2018-03-28"
+3,"Paket OJ-21A
+Bestämning av alifatfraktioner och aromatfraktioner
+Bestämning av bensen, toluen, etylbensen och xylen (BTEX).
+Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA)
+* summa metylpyrener/metylfluorantener och summa metylkrysener/metylbens(a)antracener.
+Mätning utförs med GCMS enligt interna instruktioner TKI45a och TKI42a som är baserade på SPIMFABs
+kvalitetsmanual.
+PAH cancerogena utgörs av benso(a)antracen, krysen, benso(b)fluoranten, benso(k)fluoranten, benso(a)pyren,
+dibenso(ah)antracen och indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren.
+Summa PAH H: benso(a)antracen, krysen, benso(b)fluoranten, benso(k)fluoranten, benso(a)pyren,
+indeno(1,2,3-c,d)pyren, dibenso(a,h)antracen och benso(g,h,i)perylen.
+Enligt direktiv från Naturvårdsverket oktober 2008.
+Mätosäkerhet (k=2):
+Alifatfraktioner: ±33-44%
+Aromatfraktioner: ±29-31%
+Enskilda PAH: ±25-30%
+Bensen ±29% vid 0,1 mg/kg
+Toluen ±22% vid 0,1 mg/kg
+Etylbensen ±24% vid 0,1 mg/kg
+m+p-Xylen ±25% vid 0,1 mg/kg
+o-Xylen ±25% vid 0,1 mg/kg
+Summorna för metylpyrener/metylfluorantener, metylkrysener/metylbens(a)antracener och alifatfraktionen >C5-C16 är
+inte ackrediterade.
+Rev 2018-06-12"
+4,"Paket OJ-2A.
+Bestämning av polyklorerade bifenyler, PCB7
+Mätning utförs med GCMS enligt metod baserad på SS EN 16167:2018 + AC2019 mod och intern instruktion TKI70.
+Mätosäkerhet k=2
+Enskilda PCB: ±26-32%
+Rev 2019-05-02"
+5,"Bestämning av glödgningsrest enligt SS 028113 utg. 1
+Torkat prov glödgas i ugn vid 550°C.
+Mätosäkerhet (k=2): ±6%
+Rev 2018-03-28"
+6,"Bestämning av glödgningsförlust enligt SS 028113 utg.1
+Torkat prov glödgas i ugn vid 550°C.
+Mätosäkerhet (k=2): ±6%
+Rev 2011-02-08"
+7,"TOC beräknas utifrån glödförlust baserad på “Van Bemmel” faktorn.
+Glödgningsförlustbestämningen är ackrediterad.
+Rev 2016-04-04"
+8,"Paket OJ-1
+Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA)
+Mätning utförs med GCMS enligt metod baserad på SS EN ISO 18287:2008 utg. 1 mod. och intern instruktion TKI38.
+PAH cancerogena utgörs av benso(a)antracen, krysen, benso(b)fluoranten, benso(k)fluoranten, benso(a)pyren,
+dibenso(ah)antracen och indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren
+Summa PAH H: benso(a)antracen, krysen, benso(b)fluoranten, benso(k)fluoranten, benso(a)pyren,
+indeno(1,2,3-c,d)pyren, dibenso(a,h)antracen och benso(g,h,i)perylen)
+Enligt direktiv från Naturvårdsverket oktober 2008.
+Mätosäkerhet k=2
+Enskilda PAH: ±27-37%
+Rev 2017-02-27"
+9,"Tillverkning av samlingsprov.
+Rev 2015-05-29"

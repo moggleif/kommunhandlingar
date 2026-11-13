@@ -1,0 +1,16 @@
+"Er beteckning 19GS15 0,4-1
+Provtagare SaL, JuB, NiK
+Labnummer O11151442",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+TS_105°C,67.7,2.0,%,1,V,WIDF
+As,14.7,4.1,mg/kg TS,1,H,WIDF
+Ba,46.8,10.8,mg/kg TS,1,H,WIDF
+Cd,0.101,0.031,mg/kg TS,1,H,WIDF
+Co,11.4,2.8,mg/kg TS,1,H,WIDF
+Cr,30.5,6.0,mg/kg TS,1,H,WIDF
+Cu,22.3,4.7,mg/kg TS,1,H,WIDF
+Hg,<0.2,,mg/kg TS,1,H,WIDF
+Ni,33.5,9.1,mg/kg TS,1,H,WIDF
+Pb,20.1,4.2,mg/kg TS,1,H,WIDF
+V,41.9,8.9,mg/kg TS,1,H,WIDF
+Zn,81.1,16.0,mg/kg TS,1,H,WIDF
