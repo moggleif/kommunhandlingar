@@ -8,11 +8,13 @@ tests/test_ordning.py, tests/test_spalter.py och tests/test_hogkant.py.
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
 tom prövas för figurer. Personuppgifterna maskas i text och celler innan
-sidan lämnas vidare. En sida ur textlagret får en skarv för K19, vars rader
-bara jämförs och aldrig skrivs. Text i spalter läses spalt för spalt,
+sidan lämnas vidare, och styrtecken blir ersättningstecken. En sida ur
+textlagret får en skarv för K19, vars rader bara jämförs och aldrig
+skrivs. Text i spalter läses spalt för spalt,
 och text på högkant skrivs sist.
 """
 
+import re
 from dataclasses import dataclass, field, replace
 
 import pypdfium2 as pdfium
@@ -38,6 +40,8 @@ from kommunhandlingar.konvertering.vag import olasliga, vag
 from kommunhandlingar.personuppgifter import maska
 
 RENDERING_72_DPI = 1
+# Styrtecken utom radbrytning och tabb (Unicode Cc).
+STYRTECKEN = re.compile(r"[\x00-\x08\x0b-\x1f\x7f-\x9f]")
 
 
 @dataclass(frozen=True)
@@ -62,8 +66,14 @@ def las_sida(sida: Page, rendering: pdfium.PdfPage) -> Sida:
 
 
 def maskad(sida: Sida) -> Sida:
-    tabeller_ = [[[maska(c) for c in rad] for rad in t] for t in sida.tabeller]
-    return replace(sida, text=maska(sida.text), tabeller=tabeller_)
+    tabeller_ = [[[rensad(c) for c in rad] for rad in t] for t in sida.tabeller]
+    return replace(sida, text=rensad(sida.text), tabeller=tabeller_)
+
+
+def rensad(text: str) -> str:
+    """Personuppgifterna maskas, och ett styrtecken ur textlagret blir `�`,
+    så att filen alltid är text (#257)."""
+    return maska(STYRTECKEN.sub("\ufffd", text))
 
 
 def ocr_sida(rendering: pdfium.PdfPage, figur: bool) -> Sida:

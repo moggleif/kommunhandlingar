@@ -198,6 +198,13 @@ kunna läggas till utan kodändring.
   när sidan inte står i listan, oavsett textens kvalitet, och alla
   dokumentets tal när listan är tom.
 
+- **Givet** ett textlager med styrtecken, till exempel NUL där en
+  punktlistas tecken skulle stå
+- **När** dokumentet konverteras
+- **Så** skrivs varje styrtecken utom radbrytning och tabb som
+  ersättningstecknet `�`, i text och tabeller, så att `.md` och CSV
+  alltid är text (issue [#257](https://github.com/moggleif/kommunhandlingar/issues/257)).
+
 - **Givet** en fil som inte går att öppna som PDF – lösenordsskyddad,
   trasig eller inte en PDF alls
 - **När** konverteringen försöker

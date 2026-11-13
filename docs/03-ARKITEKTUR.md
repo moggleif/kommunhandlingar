@@ -713,6 +713,12 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 5. **Annars** läses textlagret, hur kort det än är, och sidan blir `ok`
    eller `tabell-osaker`.
 
+Ett styrtecken (Unicode Cc) utom radbrytning och tabb, som finns kvar i
+text eller celler från ett textlager med färre oläsliga tecken än
+tröskeln, skrivs som `�`. Annars blir filen binär för git, och
+nattkörningen checkar inte in något
+([#257](https://github.com/moggleif/kommunhandlingar/issues/257)).
+
 - **OCR:** sidan renderas med pypdfium2 i 300 dpi och gråskala, utan
   annan förberedelse, och läses av Tesseract med svensk modell (`swe`).
   Det läser den inskannade sidan i `tests/fixtures/pdf/` rätt; den är
