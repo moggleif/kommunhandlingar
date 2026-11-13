@@ -119,7 +119,7 @@ den riktiga filen mot kommunfilen, poolen och detaljplanerna.
 ## More Information
 
 Projektägaren sa 2026-11-13 ja till kopplingsfilen, länken och dokumenten
-på detaljplanssidan och till att de äldre planerna (2019–2023) läggs till
+på detaljplanssidan och till att de äldre planerna, före 2024, läggs till
 på detaljplanssidan därefter, och nej till kommunens status och tidplan.
 
 AI-agenten kopplade 50 av de 65 planerna i Kungsbacka: 43 på fastighet

@@ -63,6 +63,9 @@ organ, och sidorna för spår redan visar det med källor.
   gäller en enskild fastighet som aldrig blir en plan.
 * **Första omgången** har planerna med ett steg 2024–2026 och deras
   äldre steg där poolen har dem.
+* **Andra omgången** (2026-11-13) lägger till planerna som har ett
+  projekt på kommunens lista med projekt (ADR-0068, ADR-0069) och minst
+  ett steg i poolen, också de äldre.
 
 ### Consequences
 
@@ -70,7 +73,8 @@ organ, och sidorna för spår redan visar det med källor.
   `sparslag.py`, en CSV och dokumentationen.
 * Good, eftersom en plan som fullmäktige antar visar hela vägen från
   nämnden.
-* Neutral, eftersom planer som bara finns före 2024 inte står med än.
+* Neutral, eftersom planer som bara finns före 2024 och inte har ett
+  projekt på kommunens lista inte står med än.
 * Bad, eftersom ett steg som bara står i arbetsutskottets förslag 2023
   saknas, när nämndens protokoll inte finns i poolen.
 
