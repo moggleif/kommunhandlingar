@@ -3,6 +3,7 @@ sparslag.py."""
 
 import tempfile
 import unittest
+from dataclasses import replace
 from pathlib import Path
 
 from kommunhandlingar.konfiguration import las as las_kommun
@@ -29,7 +30,7 @@ RADER = (
 )
 
 
-def sida() -> str:
+def sida(projekten: dict | None = None) -> str:
     with tempfile.TemporaryDirectory() as tmp:
         fil, data = Path(tmp) / "exempelby.csv", Path(tmp) / "data"
         fil.write_text(RUBRIK + RADER, encoding="utf-8")
@@ -40,7 +41,7 @@ def sida() -> str:
                 dokument(organ, datum, text=text, per_sida="[ok]"), encoding="utf-8"
             )
         stegen = spar.las(fil, exempelby(), data, DETALJPLANER)
-    vy = Vy.over(DETALJPLANER, exempelby(), stegen)
+    vy = replace(Vy.over(DETALJPLANER, exempelby(), stegen), projekt=projekten or {})
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
 

@@ -2068,6 +2068,36 @@ skillnaderna:
 - **Tolkad:** ett steg har `tolkad` satt till `ja` när källan kallar
   planen något annat och inte själv säger att det är samma plan.
 
+## Projekten
+
+Hur och varför står i
+[ADR-0069](decisions/0069-projekten-kopplas-till-detaljplanerna-i-en-fil-skriven-for-hand.md).
+En kommun med en fil `projekt/<kommun>.csv` kopplar sina detaljplaner
+([Detaljplaner](#detaljplaner)) till projekten på kommunens lista med
+projekt ([Projektsidorna](#projektsidorna)), en rad per plan (K46):
+
+```csv
+organ,detaljplan,projekt,tolkad
+bygg-projekt,Bostäder inom Må 3:15,bostader-i-fjaras,
+```
+
+- `organ` är organet projektens dokument står under. Kommunfilens
+  `[kalla.projekt]` ger listans adress, och projektsidan är listans adress,
+  ett snedstreck och `projekt`.
+- `detaljplan` är planens namn som det står i
+  `detaljplaner/<kommun>.csv`.
+- `projekt` är projektsidans sista del i adressen.
+- `tolkad` är `ja` när kopplingen bygger på namnet. Samma fastighet,
+  också ett kvartersnamn, på projektsidan och i planens namn är en
+  direkt koppling.
+
+Projektets dokument är organets dokument vars namn börjar med
+`namn_av(projekt)` och ett bindestreck, utom de som börjar med ett längre
+projekt i filen. Planens kort får länken och, hopfällda, dokumenten med
+namnet utan projektet och datumet. Bygget stoppas när en rad inte går
+ihop med kommunfilen eller detaljplanerna; ett projekt utan dokument i
+poolen stoppar det inte.
+
 ## Granskningar
 
 Hur och varför står i

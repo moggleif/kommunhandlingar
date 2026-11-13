@@ -1,6 +1,6 @@
-"""Krav: K36, K37 och K38 i docs/02-KRAV.md, ADR-0057, ADR-0058 och ADR-0059.
-Test: tests/test_lokalbehov.py, tests/test_initiativ.py,
-tests/test_handlingsplaner.py.
+"""Krav: K36, K37, K38 och K46 i docs/02-KRAV.md, ADR-0057, ADR-0058,
+ADR-0059 och ADR-0069. Test: tests/test_lokalbehov.py, tests/test_initiativ.py,
+tests/test_handlingsplaner.py, tests/test_projekt.py.
 
 Ett kort per sak, under tidslinjen, som målkorten: åren, vem som står
 bakom, det senaste steget, en länk till själva saken när den finns i
@@ -10,10 +10,11 @@ tidslinjen och korten delar: årets ikoner, egenskaperna för urvalet och
 länken till en källa, som kan vara vilket organs dokument som helst.
 """
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
+from kommunhandlingar.webbplats.projekt import Projekt, kortdel
 from kommunhandlingar.webbplats.spar import Slag, Steg
 from kommunhandlingar.webbplats.sparikon import ikon
 
@@ -26,6 +27,8 @@ class Vy:
     slag: Slag
     kommun: Kommun
     ar: range
+    # Sakernas projekt på kommunens webbplats, per namn (K46).
+    projekt: dict[str, Projekt] = field(default_factory=dict)
 
     @classmethod
     def over(cls, slag: Slag, kommun: Kommun, stegen: list[Steg]) -> "Vy":
@@ -54,7 +57,7 @@ def kort(vy: Vy, nr: int, sak: Sak) -> str:
         f"<p>Senast: {vy.slag.faser[senaste.fas][1]} {senaste.ar}"
         f"{f' ({escape(senaste.varde)})' if senaste.varde else ''}"
         f"{' <small>tolkad</small>' if senaste.tolkad else ''}</p>"
-        f"{planen(vy, stegen)}{remsa(vy, stegen)}"
+        f"{planen(vy, stegen)}{kortdel(vy.projekt.get(namn))}{remsa(vy, stegen)}"
         f"<details><summary>Läs mer: historiken och källorna, {len(stegen)} steg"
         "</summary>"
         f"<ol>{poster}</ol></details></article>"

@@ -73,6 +73,7 @@ krav eller ett test. Det betyder:
 | Nämndernas handlingsplaner steg för steg        | `handlingsplaner/<kommun>.csv`     |
 | Nämndernas redovisningar steg för steg          | `redovisningar/<kommun>.csv`       |
 | Detaljplanerna steg för steg                    | `detaljplaner/<kommun>.csv`        |
+| Detaljplanernas projekt på kommunens webbplats  | `projekt/<kommun>.csv`             |
 | Revisionens granskningar steg för steg          | `granskningar/<kommun>.csv`        |
 | Hämtningens User-Agent och intervall per värd   | `hamtning.toml`                    |
 | Front matter-schemat och tabellernas format     | `docs/03-ARKITEKTUR.md`            |

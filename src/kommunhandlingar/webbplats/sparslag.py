@@ -230,10 +230,12 @@ DETALJPLANER = Slag(
         "<p>En plan har ett namn på sidan, med fastighetsbeteckningen, även "
         "när källorna kallar den olika. Där källan inte själv säger att det "
         "gäller planen är kopplingen en bedömning och ikonen har en streckad "
-        "ram. Ett år utan ikon betyder att inget "
-        "steg står i poolen det året, inte att inget hände; poolen saknar en "
-        "del protokoll. Sidan visar vad som står var och värderar inte "
-        "planerna.</p>"
+        "ram. Ett år utan ikon betyder att inget steg står i poolen det året, "
+        "inte att inget hände; poolen saknar en del protokoll. Sidan visar vad "
+        "som står var och värderar inte planerna.</p><p>En plan med ett projekt "
+        "på kommunens webbplats länkar dit och till projektets dokument i "
+        "poolen. Kopplingen är tolkad när den bygger på namnet och inte på "
+        "fastighetsbeteckningen (ADR-0069).</p>"
     ),
     adr="0067-detaljplanerna-foljs-som-redovisningarna.md",
 )

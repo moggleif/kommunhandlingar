@@ -8,6 +8,7 @@ from html import escape
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import avvikelser
 from kommunhandlingar.webbplats.mal import Mal
+from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Steg
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
@@ -56,6 +57,8 @@ class Mall:
     uppfoljningar: dict[str, list[Uppfoljning]] = field(default_factory=dict)
     # Stegen per spårslag och kommun, som `spar["lokalbehov"]["kungsbacka"]`.
     spar: dict[str, dict[str, list[Steg]]] = field(default_factory=dict)
+    # Detaljplanernas projekt per kommun och plan (K46).
+    projekt: dict[str, dict[str, Projekt]] = field(default_factory=dict)
 
 
 def rot(adress: str) -> str:
