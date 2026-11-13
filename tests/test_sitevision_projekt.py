@@ -26,6 +26,7 @@ def json_fil(nod: str, tid: str, namn: str) -> str:
 
 SIDOR = {
     LISTA: '<a href="/bygga/projekt/bostader-i-by">Bostäder</a>'
+    '<a href="/bygga/projekt?sida=1">1</a>'
     '<a href="/bygga/projekt?sida=2">2</a><a href="/bygga">Bygga</a>'
     '<a href="/bygga/projekt?sv.target=1&amp;kategori=VA">Filter</a>',
     f"{LISTA}?sida=2": '<a href="/bygga/projekt/va-i-by">VA</a>'
@@ -39,7 +40,11 @@ SIDOR = {
 }
 
 
+HAMTADE: list[str] = []
+
+
 def hamta(adress: str) -> str:
+    HAMTADE.append(adress)
     if adress not in SIDOR:
         raise Hamtfel("http-404", adress)
     return SIDOR[adress]
@@ -47,6 +52,7 @@ def hamta(adress: str) -> str:
 
 class TestProjektsidorna(unittest.TestCase):
     def setUp(self):
+        HAMTADE.clear()
         self.kandidater, self.avvisade = upptack({"bun-projekt": LISTA}, hamta)
 
     def test_varje_fil_pa_alla_listans_sidor(self):
@@ -100,6 +106,10 @@ class TestProjektsidorna(unittest.TestCase):
         self.assertEqual(
             [a.kalla for a in avvisade], [f"{LISTA}/va-i-by", f"{LISTA}/borta"]
         )
+
+    def test_listans_forsta_sida_hamtas_en_gang(self):
+        self.assertEqual(HAMTADE.count(LISTA), 1)
+        self.assertNotIn(f"{LISTA}?sida=1", HAMTADE)
 
     def test_utan_projekt_hamtas_inget(self):
         self.assertEqual(upptack({}, hamta), ([], []))

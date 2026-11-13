@@ -30,7 +30,7 @@ from kommunhandlingar.arkivluckor import (
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
-from kommunhandlingar.plats import grundplats, ledigt_namn, onskat_namn
+from kommunhandlingar.plats import grundplats, ledigt_for
 from kommunhandlingar.pool import Pool
 from kommunhandlingar.tidsbudget import utan_avbrott
 
@@ -120,7 +120,7 @@ def placera(steg: Steg2, kandidat: Kandidat) -> Dokument:
             replace(plats, namn=forslag).sokvag(steg.kommun) in steg.pool.efter_sokvag
         )
 
-    plats = replace(plats, namn=ledigt_namn(onskat_namn(kandidat), finns))
+    plats = replace(plats, namn=ledigt_for(kandidat, finns))
     return Dokument(kandidat, plats.sokvag(steg.kommun), None, plats.namn)
 
 

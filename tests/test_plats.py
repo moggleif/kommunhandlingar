@@ -37,6 +37,13 @@ class TestPlats(unittest.TestCase):
         self.assertEqual(ledigt_namn("kallelse", upptagna.__contains__), "3")
         self.assertEqual(ledigt_namn("", upptagna.__contains__), "3")
 
+    def test_upptaget_adapternamn_far_lopnummer_efter_namnet(self):
+        upptagna = {"projekt-plankarta", "projekt-plankarta-2"}.__contains__
+        self.assertEqual(
+            ledigt_namn("projekt-plankarta", upptagna, "projekt-plankarta"),
+            "projekt-plankarta-3",
+        )
+
     def test_adapterns_namn_ger_alltid_ett_namn(self):
         kandidat = Kandidat(
             "bun-projekt",

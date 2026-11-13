@@ -201,7 +201,7 @@ kunna läggas till utan kodändring.
 - **Givet** ett textlager med styrtecken, till exempel NUL där en
   punktlistas tecken skulle stå
 - **När** dokumentet konverteras
-- **Så** skrivs varje styrtecken utom radbrytning och tabb som
+- **Så** skrivs varje styrtecken utom radbrytning, vagnretur och tabb som
   ersättningstecknet `�`, i text och tabeller, så att `.md` och CSV
   alltid är text (issue [#257](https://github.com/moggleif/kommunhandlingar/issues/257)).
 

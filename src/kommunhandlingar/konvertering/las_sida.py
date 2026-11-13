@@ -40,8 +40,8 @@ from kommunhandlingar.konvertering.vag import olasliga, vag
 from kommunhandlingar.personuppgifter import maska
 
 RENDERING_72_DPI = 1
-# Styrtecken utom radbrytning och tabb (Unicode Cc).
-STYRTECKEN = re.compile(r"[\x00-\x08\x0b-\x1f\x7f-\x9f]")
+# Styrtecken utom radbrytning, vagnretur och tabb (Unicode Cc).
+STYRTECKEN = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]")
 
 
 @dataclass(frozen=True)

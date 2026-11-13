@@ -156,6 +156,7 @@ Datakontrollerna, i körningen och i CI
   ([Granskade dokument](#granskade-dokument)).
 - Figurerna och tolkningarna hänger ihop, och varje tal i en tolkad CSV
   står i sidans text, enligt [Tolkade figurer](#tolkade-figurer).
+- Ingen text eller tabell har styrtecken (#257); de skrivs som `�`.
 - Ingen text eller tabell har personuppgifter som maskningen skulle ta
   bort, enligt [Personuppgifter](#personuppgifter).
 
@@ -190,7 +191,8 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
   och bindestreck först och sist tas bort. Namnet kortas till högst 80
   tecken, vid sista bindestrecket om det finns ett. Blir namnet tomt, eller
   ger två rubriker samma namn, får dokumentet ett löpnummer som namn: `2`,
-  `3`, …
+  `3`, …; en kandidat med ett namn från adaptern (ADR-0068) får löpnumret
+  efter namnet: `<namn>-2`.
 - Ärendet är ett attribut, `arenden` i [front matter](#front-matter).
   Diariet är en källa till mötesdokument, inte till egna dokument.
 
@@ -391,8 +393,8 @@ bun-projekt = "https://exempelby.se/…/aktuella-projekt"
 
 - **Listan** och varje bläddringssida hämtas. En
   bläddringssida är en länk till listans adress med en enda parameter
-  vars värde är ett tal (`?page12_…=2`); filtren, med fler parametrar,
-  följs inte.
+  vars värde är ett tal från 2 (`?page12_…=2`); sida 1 är listan själv,
+  och filtren, med fler parametrar, följs inte.
 - **Ett projekt** är en länk på listan till en sida en nivå under listans
   adress, utan frågesträng, i listans ordning.
 - **Ett fel stoppar aldrig upptäckten.** En lista eller projektsida som
@@ -713,7 +715,7 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
 5. **Annars** läses textlagret, hur kort det än är, och sidan blir `ok`
    eller `tabell-osaker`.
 
-Ett styrtecken (Unicode Cc) utom radbrytning och tabb, som finns kvar i
+Ett styrtecken (Unicode Cc) utom radbrytning, vagnretur och tabb, som finns kvar i
 text eller celler från ett textlager med färre oläsliga tecken än
 tröskeln, skrivs som `�`. Annars blir filen binär för git, och
 nattkörningen checkar inte in något

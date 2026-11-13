@@ -54,9 +54,11 @@ def projektsidor(lista: str, hamta: Callable[[str], str]) -> list[str]:
 
 
 def bladdring(lista: str, adress: str) -> bool:
-    """Listans sida med ett sidnummer, `?<parameter>=2`; filtren har fler."""
+    """Listans sida med ett sidnummer från 2, `?<parameter>=2`; sida 1 är
+    listan själv, och filtren har fler parametrar."""
     sokvag, _, fraga = adress.partition("?")
-    return sokvag == lista and bool(re.fullmatch(r"[^&=]+=\d+", fraga))
+    traff = re.fullmatch(r"[^&=]+=(\d+)", fraga)
+    return sokvag == lista and bool(traff) and int(traff[1]) > 1
 
 
 def ar_projekt(lista: str, adress: str) -> bool:

@@ -1211,24 +1211,24 @@ Checklista   för säkerhet  i lokal
 Innan du börjar arbeta
 
 Ta reda på:
- Vad händer idag? Tider/schema?
+� Vad händer idag? Tider/schema?
 
- Vad är min uppgift? Hur utför jag den?
- Ska jag vara beredd att göra något annat?
- Vem är min ansvarige? Har jag kontaktuppgifterna
+� Vad är min uppgift? Hur utför jag den?
+� Ska jag vara beredd att göra något annat?
+� Vem är min ansvarige? Har jag kontaktuppgifterna
 
 till den/de?
- Var får väljarna vara?
- Vad får väljarna göra?
+� Var får väljarna vara?
+� Vad får väljarna göra?
 
- Vanliga frågor från väljare – och var hittar jag
+� Vanliga frågor från väljare – och var hittar jag
 svar enklast?
 
- Var finns nödutgångar? Gör ett fysiskt besök.
- Finns det något säkert rum? Gör ett fysiskt besök.
- Var finns brandsläckare? Hur använder jag den?
+� Var finns nödutgångar? Gör ett fysiskt besök.
+� Finns det något säkert rum? Gör ett fysiskt besök.
+� Var finns brandsläckare? Hur använder jag den?
 
- Var finns första hjälpen kit? Hur använder
+� Var finns första hjälpen kit? Hur använder
 jag det?
 
 I rollen

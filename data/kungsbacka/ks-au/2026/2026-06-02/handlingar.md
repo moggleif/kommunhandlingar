@@ -400,7 +400,7 @@ Förslag till beslut i kommunfullmäktige
 Kommunfullmäktige beviljar Moderaterna, Centerpartiet, Liberalerna, Kristdemokraterna,
 Socialdemokraterna, Miljöpartiet de gröna, Vänsterpartiet, Sverigedemokraterna och
 Kungsbackaborna partistöd för år 2027, under förutsättningen att respektive parti finns representerade i
-kommunfullmäktige även under mandatperioden 20262030.
+kommunfullmäktige även under mandatperioden 2026�2030.
 Kommunfullmäktige fastställer att partistödets storlek för år 2027 baseras på det antal mandat
 respektive parti besitter i kommunfullmäktige efter de allmänna valen 2026. Partistödet betalas ut i
 januari 2027.
@@ -412,7 +412,7 @@ antagit regler för kommunalt partistöd.
 
 I reglerna anges att en mottagare av partistöd årligen ska lämna en skriftlig redovisning som visar att
 partistödet har använts för det ändamål som anges i kommunallagen och att det till denna redovisning
-ska lämnas ett granskningsintyg. Redovisningen och granskningen ska avse perioden 1 januari31
+ska lämnas ett granskningsintyg. Redovisningen och granskningen ska avse perioden 1 januari�31
 december och lämnas in senast sex månader efter räkenskapsårets utgång. Partistöd betalas ut årligen i
 förskott under januari månad efter beslut av kommunfullmäktige. Om redovisning och
 granskningsrapport enligt 4 kap. 31 § andra stycket kommunallagen inte lämnats in inom föreskriven
@@ -464,7 +464,7 @@ Utöver dessa grundläggande bestämmelser har kommunfullmäktige den 5 mars 202
 kommunalt partistöd.
 En mottagare av partistöd ska årligen lämna en skriftlig redovisning som visar att partistödet har
 använts för det ändamål som anges i 4 kap. 29 § första stycket kommunallagen. Till redovisningen ska
-också ett granskningsintyg lämnas. Redovisningen och granskningen ska avse perioden 1 januari31
+också ett granskningsintyg lämnas. Redovisningen och granskningen ska avse perioden 1 januari�31
 december och lämnas in senast sex månader efter räkenskapsårets utgång.
 
 Kommunfullmäktige kan besluta att inte betala ut partistöd till ett parti för nästkommande år om:
@@ -502,7 +502,7 @@ Kommunstyrelsens förvaltnings bedömning
 Samtliga partier har inom föreskriven tid inkommit med både redovisning och granskningsintyg för
 2025 års partistöd. Därmed föreslås kommunfullmäktige att bevilja partistöd för år 2027 för samtliga
 partier, under förutsättningen att respektive parti finns representerade i kommunfullmäktige även under
-mandatperioden 20262030. Partistödet betalas ut i januari 2027.
+mandatperioden 2026�2030. Partistödet betalas ut i januari 2027.
 
 Rickard Vidlund                  Anders Johansson
 Kommundirektör                   Biträdande kommundirektör
@@ -2523,7 +2523,7 @@ utvecklingscenter.
 2.Bakgrund och uppdrag
 Uppdrag från kommunstyrelsenKS-2024-00464-Ett utvecklingscenter för innovation och
 utveckling av näringslivet i Kungsbacka
-Alliansen i Kungsbacka föreslår ett spännande initiativ som handlar om att etablera ett
+�Alliansen i Kungsbacka föreslår ett spännande initiativ som handlar om att etablera ett
 utvecklingscenter för företag. Detta är inte bara en investering i kommunens näringsliv utan också
 en viktig utveckling för dess invånare. Genom att skapa ett centrum för teknisk innovation och
 företagsutveckling kommer Kungsbacka att kunna dra nytta av sin närhet till Göteborgsregionens
@@ -2548,7 +2548,7 @@ strategi som positionerar Kungsbacka som en framåtblickande och innovativ kommu
 Mot bakgrund av ovan föreslår alliansen att:
 
 Kommundirektören får i uppdrag att utreda möjligheten till etablering av ett utvecklingscenter i
-kommunen. Utredningen ska belysa intressenter, placering och finansiering.
+kommunen. Utredningen ska belysa intressenter, placering och finansiering.�
 
 3\. Metod och tillvägagångsätt
 
@@ -2910,7 +2910,7 @@ affärsmodell.
 Beslutsunderlag
 Kommunstyrelsens arbetsutskott 2025-06-03, § 172
 Kommunledningskontorets tjänsteskrivelse, 2025-05-12
-Presentation  arbetet med ett utvecklingscenter för innovation och utveckling,
+Presentation � arbetet med ett utvecklingscenter för innovation och utveckling,
 2025-04-25
 Jämförelse av fem modeller, 2025-04-29
 Kommunstyrelsen 2024-06-18, § 169
@@ -2959,7 +2959,7 @@ avseende intressenter, ägarskap och affärsmodell.
 
 Beslutsunderlag
 Kommunledningskontoretstjänsteskrivelse, 2025-05-12
-Presentation  arbetet med ett utvecklingscenter för innovation och utveckling, 2025-04-25
+Presentation � arbetet med ett utvecklingscenter för innovation och utveckling, 2025-04-25
 Jämförelse av fem modeller, 2025-04-29
 Kommunstyrelsen 2024-06-18, § 169
 Initiativ från Niclas Nilsson (M) m.fl. om att utreda möjligheten till etablering av ett utvecklingscenter
@@ -2990,7 +2990,7 @@ KUNGSBACKA  KOMMUN
 2 (2)
 
 kompetens i frågan behövdes, och upphandling av konsultstöd har därför genomfört under vintern
-2024  2025. Under våren har, i fas ett, en del sonderade genomförts. Utredningen visar såhär långt att
+2024 � 2025. Under våren har, i fas ett, en del sonderade genomförts. Utredningen visar såhär långt att
 det är möjligt att göra olika tolkningar av vad som skall åstadkommas i utredningsuppdraget. I
 dagsläget har några olika möjliga modeller för ett utvecklingscenter tagits fram. Dessa är;
 
@@ -3020,7 +3020,7 @@ Kommundirektör              Biträdande kommundirektör
 
 <!-- sida 58 -->
 
-Utvecklingscenter                        
+Utvecklingscenter                        �
 
 jämförelse              av    fem       modeller
 
@@ -3040,7 +3040,7 @@ Innehåll
 2.3  För vilka skapar centret nytta (vem)...................................................4
 2.4  Vilka funktioner finns i centret (hur)..................................................4
 2.5  Hur drivs centret resursmässigt och finansiellt (hur).......................4
-2.6  Utblick  liknande exempel..................................................................4
+2.6  Utblick � liknande exempel..................................................................4
 
 3 Innovationsdistriktet......................................................................................4
 3.1  Syftet med centret (varför)..................................................................4
@@ -3049,7 +3049,7 @@ Innehåll
 3.4  Vilka funktioner finns i centret (hur)..................................................5
 
 3.5  Hur drivs centret resursmässigt och finansiellt (hur).......................5
-3.6  Utblick  liknande exempel..................................................................5
+3.6  Utblick � liknande exempel..................................................................5
 4 Innovation City...............................................................................................5
 4.1  Syftet med centret (varför)..................................................................5
 
@@ -3057,7 +3057,7 @@ Innehåll
 4.3  För vilka skapar centret nytta (vem)...................................................6
 4.4  Vilka funktioner finns i centret (hur)..................................................6
 4.5  Hur drivs centret resursmässigt och finansiellt (hur).......................6
-4.6  Utblick  liknande exempel..................................................................6
+4.6  Utblick � liknande exempel..................................................................6
 
 5 Samverkansarenan för samhällsutmaningar..............................................6
 5.1  Syftet med centret (varför)..................................................................6
@@ -3066,7 +3066,7 @@ Innehåll
 
 5.4  Vilka funktioner finns i centret (hur)..................................................7
 5.5  Hur drivs centret resursmässigt och finansiellt (hur).......................7
-5.6  Utblick  liknande exempel..................................................................7
+5.6  Utblick � liknande exempel..................................................................7
 6 Coworking.......................................................................................................7
 
 6.1  Syftet med centret (varför)..................................................................7
@@ -3075,10 +3075,10 @@ Innehåll
 6.4  Vilka funktioner finns i centret (hur)..................................................8
 6.5  Hur drivs centret resursmässigt och finansiellt (hur).......................8
 
-6.6  Utblick  liknande exempel..................................................................8
-7 Översikt  fem modeller i relation till Kungsbacka kommuns förutsättningar 9
+6.6  Utblick � liknande exempel..................................................................8
+7 Översikt � fem modeller i relation till Kungsbacka kommuns förutsättningar 9
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 2
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 2
 
 <!-- sida 60 -->
 
@@ -3086,18 +3086,18 @@ Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 2
 
 Kungsbacka kommun har fått ett politiskt uppdrag att utreda möjligheten att etablera
 ett utvecklingscenter för företag i kommunen. Syftet är att på ett öppet och
-utforskande sätt undersöka vilka behov och möjligheter som finns  och om ett sådant
+utforskande sätt undersöka vilka behov och möjligheter som finns � och om ett sådant
 initiativ skulle kunna skapa värde för näringslivet, kommunen och invånarna.
 Många kommuner i Sverige står idag inför liknande frågor: hur kan vi samla olika aktörer,
 stärka innovationskraften och skapa strukturer för att möta framtidens
-samhällsutmaningar? Ett svar är att etablera ett utvecklingscenter  en platsbunden
+samhällsutmaningar? Ett svar är att etablera ett utvecklingscenter � en platsbunden
 eller digital miljö där samverkan, lärande och innovation sker i praktiken. Men ett sådant
 center kan ta sig flera olika former, beroende på kommunens mål, resurser och
 samverkansambitioner.
 
 Denna sammanställning presenterar fem olika modeller för utvecklingscenter, baserade
 på befintliga exempel från Sverige. Modellerna varierar i komplexitet, funktion och syfte
- från enklare coworkingmiljöer till avancerade innovationsdistrikt och
+� från enklare coworkingmiljöer till avancerade innovationsdistrikt och
 samverkansarenor. Gemensamt är att de alla utgör plattformar för utveckling och
 samhandling mellan offentlig sektor, näringsliv, akademi och civilsamhälle.
 
@@ -3111,8 +3111,8 @@ politiska forum, ledningsgrupper och förstudier. För Kungsbacka kommun kan val
 modell vägledas av vilken roll kommunen vill spela i den lokala och regionala
 innovationskedjan. Vill kommunen bygga en motor för entreprenörskap och
 företagsutveckling, kan kunskapsarenan vara en konkret startpunkt. Om syftet är att
-skapa en öppen, flexibel arena för samskapande och systemförändring  utan krav på
-ny infrastruktur  kan samverkansarenan vara ett strategiskt och kraftfullt alternativ.
+skapa en öppen, flexibel arena för samskapande och systemförändring � utan krav på
+ny infrastruktur � kan samverkansarenan vara ett strategiskt och kraftfullt alternativ.
 
 2 Kunskapsarenan
 
@@ -3132,7 +3132,7 @@ idéer, starta initiativ och dela kunskap. Det fungerar som ett nav för entrepr
 rådgivning och projektutveckling med fokus på praktiska resultat. Verksamheten
 kombinerar utbildningsinsatser, innovationsstöd och nätverkande i en miljö där teori
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 3
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 3
 
 <!-- sida 61 -->
 
@@ -3161,7 +3161,7 @@ utvecklingsfrågor och samverkan. Kommunen har ofta en central roll, men
 verksamheten kan organiseras i samverkan med lokala partners. Flexibilitet i
 finansieringsmodellen gör det möjligt att anpassa satsningen över tid.
 
-2.6 Utblick  liknande exempel
+2.6 Utblick � liknande exempel
 Liknande arenor finns i flera svenska kommuner, ofta i form av innovationshus,
 entreprenörsarenor eller verksamheter kopplade till kommunala näringslivsstrategier. I
 Norden finns liknande initiativ där coworking kombineras med utbildning och
@@ -3169,7 +3169,7 @@ samhällsutveckling. I Europa bygger många städer liknande noder som förenar 
 företagande och lokal tillväxt.
 
 I Sverige finns liknande kunskapsarenor såsom High Five i Halmstad, YESBOX-Home of
-entrepreneurs i Göteborg, Minc i Malmö och Do Space i Linköping  alla fokuserade på
+entrepreneurs i Göteborg, Minc i Malmö och Do Space i Linköping � alla fokuserade på
 entreprenörskap, innovation och samhällsutveckling. I Norden är Dokk1 i Aarhus ett
 inspirerande exempel, där bibliotek och innovationsarena samverkar. I Helsingfors finns
 Maria 01, en startup-hubb med koppling till staden och techsektorn. I Europa är Impact
@@ -3186,12 +3186,12 @@ forskningsmiljöer, företag och invånare i en gemensam struktur kan nya lösni
 och spridas. Fokus ligger på att skapa bättre livskvalitet för invånare och ökad
 hållbarhet i stadens utveckling.
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 4
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 4
 
 <!-- sida 62 -->
 
 3.2 Förklaring av centret (vad)
-Detta är ett område  ofta inom eller nära stadskärnan  där innovationsprojekt och
+Detta är ett område � ofta inom eller nära stadskärnan � där innovationsprojekt och
 samhällsutveckling integreras. Området fungerar som en testbädd där olika aktörer
 samverkar kring utmaningar som rör välfärd, boende, mobilitet och klimat. Det är både
 en fysisk plats och en organiserad struktur för systemövergripande innovation.
@@ -3215,7 +3215,7 @@ Driften sker i samverkan mellan kommunen, akademi och näringsliv. Finansiering
 kommer från kommunala investeringar, regionala medel, statliga innovationsprogram
 och EU-fonder. Strukturkapital byggs genom långsiktiga partnerskap. Organisationen kan
 formas som ett partnerskapsforum, projektkontor eller samverkansplattform.
-3.6 Utblick  liknande exempel
+3.6 Utblick � liknande exempel
 
 Flera svenska städer utvecklar innovationsdistrikt där innovation kopplas till fysisk
 utveckling, till exempel i storstadsområden och stadsomvandlingsprojekt. I Norden finns
@@ -3226,8 +3226,8 @@ I Sverige är Helsingborg Innovation District, Lindholmen Science Park i Götebo
 etablerat exempel, liksom Hammarby Sjöstad 2.0 i Stockholm. Uppsala Innovation
 Centre och Johanneberg Science Park är också relevanta. I Norden finns Oslo Science
 City, som liknar Helsingborgs arbete med urbana testbäddar. I Köpenhamn är BLOXHUB
-ett exempel på en hubb för hållbar stadsutveckling. I Europa finns Eindhovens Brainport
-och Barcelonas 22@District som förebilder  båda samlar aktörer i samverkande kluster
+ett exempel på en hubb för hållbar stadsutveckling. I Europa finns Eindhoven�s Brainport
+och Barcelona�s 22@District som förebilder � båda samlar aktörer i samverkande kluster
 för innovation med starkt fokus på samhällsutveckling och hållbarhet.
 
 4 Innovation  City
@@ -3239,7 +3239,7 @@ forskning, näringsliv och samhällsnytta inom ett visst tema, ofta kopplat till
 hälsa, klimat eller teknik. Det handlar om att bygga en framtidsorienterad stadsmiljö där
 innovation och vardagsliv möts i ett nytt ekosystem.
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 5
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 5
 
 <!-- sida 63 -->
 
@@ -3267,17 +3267,17 @@ Detta är ofta ett privat-offentligt utvecklingsprojekt med långsiktiga investe
 Fastighetsbolag, investerare och offentliga aktörer samverkar. Finansieringen är
 kapitalintensiv och sker via blandning av offentliga medel, privata investeringar och EU-
 stöd. Driften hanteras av särskilda utvecklingsbolag eller partnerskapsstrukturer.
-4.6 Utblick  liknande exempel
+4.6 Utblick � liknande exempel
 
 Sverige, Norden och Europa har flera exempel på storskaliga kluster med tematisk spets
- särskilt inom life science, digitalisering och hållbar stadsutveckling. Modellen bygger
+� särskilt inom life science, digitalisering och hållbar stadsutveckling. Modellen bygger
 på internationell synlighet, tät samverkan och stark infrastrukturell kapacitet.
 I Sverige kan GoCo Health Innovation City i Mölndal, Karolinska Institutet Science Park
 och Medicon Village i Lund nämnas som liknande satsningar inom hälsa och life science.
 Även Sahlgrenska Science Park i Göteborg har liknande inriktning, men med annan skala.
 I Norden finns Oslo Cancer Cluster Innovation Park och BioInnovation Institute i
 Köpenhamn. Internationellt liknar Health Valley i Nederländerna, One Nucleus i
-Cambridge (UK) och Biotech Campus Basel i Schweiz GoCo:s modell  där innovation,
+Cambridge (UK) och Biotech Campus Basel i Schweiz GoCo:s modell � där innovation,
 forskning och urban utveckling möts i specialiserade kluster för framtidens hälsa.
 
 5 Samverkansarenan    för samhällsutmaningar
@@ -3285,12 +3285,12 @@ forskning och urban utveckling möts i specialiserade kluster för framtidens h�
 5.1 Syftet med centret (varför)
 
 Syftet är att skapa en samverkansplattform där offentlig sektor, civilsamhälle, näringsliv
-och akademi gemensamt arbetar med komplexa samhällsutmaningar  såsom
+och akademi gemensamt arbetar med komplexa samhällsutmaningar � såsom
 kompetensförsörjning, omställning eller social hållbarhet. Centret fungerar som en
 demokratisk arena där nya idéer föds, testas och utvecklas i nära dialog med invånare
 och berörda aktörer.
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 6
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 6
 
 <!-- sida 64 -->
 
@@ -3298,7 +3298,7 @@ Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 6
 Detta är en öppen, processdriven miljö där aktörer möts för att analysera behov,
 samskapa lösningar och genomföra projekt. Det är en neutral zon för systemförändring,
 där offentlig verksamhet och civilsamhälle samarbetar över traditionella gränser. Fokus
-ligger på tillit, långsiktighet och experimentella arbetssätt  snarare än färdiga modeller.
+ligger på tillit, långsiktighet och experimentella arbetssätt � snarare än färdiga modeller.
 
 5.3 För vilka skapar centret nytta (vem)
 Centret skapar värde för näringsliv, invånare, brukare, offentliga verksamheter,
@@ -3321,7 +3321,7 @@ regionala utvecklingsprogram samt projektfinansiering via fonder eller EU-medel.
 Verksamheten drivs i nära samverkan med andra aktörer och leds av ett team med
 kompetens inom samhällsutveckling, innovation och facilitering. Ägarskap och ansvar
 delas mellan parter.
-5.6 Utblick  liknande exempel
+5.6 Utblick � liknande exempel
 
 Liknande arenor finns i flera svenska kommuner där man arbetar med
 medborgarinvolvering, hållbarhetsmål och social innovation. I Norden och Europa finns
@@ -3343,7 +3343,7 @@ samskapande mellan sektorer.
 Syftet är att erbjuda en professionell, flexibel och gemenskapsdriven arbetsmiljö där
 personer från olika organisationer och sektorer kan arbeta, mötas och samverka.
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 7
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 7
 
 <!-- sida 65 -->
 
@@ -3351,7 +3351,7 @@ Centret främjar kunskapsutbyte, spontana samarbeten och nya mötespunkter för 
 Det fungerar som en katalysator för vardagsnära innovation och samverkan.
 
 6.2 Förklaring av centret (vad)
-Detta är ett coworkingkoncept  ett kontorshotell kombinerat med gemensamma ytor
+Detta är ett coworkingkoncept � ett kontorshotell kombinerat med gemensamma ytor
 och innovationsmiljöer. Här finns arbetsplatser, mötesrum, studios, loungemiljöer och
 eventytor. Målgruppen består av företag, organisationer, forskare, entreprenörer och
 ibland även studenter. Miljön är aktivitetsbaserad och ofta kopplad till ett universitet
@@ -3376,9 +3376,9 @@ Finansiering sker genom hyresintäkter och medlemskap. Vissa projekt eller initi
 samfinansieras med offentliga medel. Ett värdteam ansvarar för drift, kundstöd och
 communityutveckling. Driftmodellen är kommersiellt hållbar men anpassningsbar.
 
-6.6 Utblick  liknande exempel
+6.6 Utblick � liknande exempel
 
-Det finns många liknande coworkingkoncept i Sverige, Norden och Europa  ofta
+Det finns många liknande coworkingkoncept i Sverige, Norden och Europa � ofta
 kopplade till innovation, entreprenörskap eller samhällsnytta. De mest framgångsrika
 fungerar som nav för kunskapsspridning och bygger starka användarcommunitys. Denna
 modell är ofta snabb att etablera och skalbar.
@@ -3391,11 +3391,11 @@ Internationellt finns Station F i Paris och Factory Berlin som kombinerar arbets
 event och nätverk i storskaliga kunskapskluster. Gemensamt är platsens roll som
 katalysator för innovation, samverkan och nya affärsmodeller.
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 8
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 8
 
 <!-- sida 66 -->
 
-7 Översikt  fem  modeller i relation till Kungsbacka
+7 Översikt � fem  modeller i relation till Kungsbacka
 kommuns    förutsättningar
 
 Tabellerna på nästa sida sammanfattar fem möjliga inriktningar för utvecklingscenter
@@ -3408,10 +3408,10 @@ Bedömningen bygger på etablerade exempel och erfarenheter från både svenska 
 internationella miljöer. Värdena är inte absoluta utan ska ses som vägledande för att
 förstå hur olika modeller kan skapa värde i olika kontexter. I vissa modeller är
 kommunen den drivande parten, medan andra kräver ett starkare
-näringslivsengagemang. På motsvarande sätt varierar graden av samhällsnytta  från
+näringslivsengagemang. På motsvarande sätt varierar graden av samhällsnytta � från
 kompetensförsörjning och social hållbarhet till näringslivstillväxt och systeminnovation.
 
-Kungsbacka kommun Utvecklingscenter jämförelse av fem modeller 9
+Kungsbacka kommun Utvecklingscenter �jämförelse av fem modeller 9
 
 <!-- sida 67 -->
 
@@ -4034,7 +4034,7 @@ säga samhällsbyggnadskontorets förslag.
 Ordföranden (M) prövar förslaget och finner att arbetsutskottet bifaller det.
 
 Beslutet skickas till
-Samhällsbyggnadskontoret  Planavdelningen
+Samhällsbyggnadskontoret � Planavdelningen
 Fastighetsägare
 
 Det här dokumentet är digitalt signerat
@@ -4922,7 +4922,7 @@ säga samhällsbyggnadskontorets förslag.
 Ordföranden (M) prövar förslaget och finner att arbetsutskottet bifaller det.
 
 Beslutet skickas till
-Samhällsbyggnadskontoret  Planavdelningen
+Samhällsbyggnadskontoret � Planavdelningen
 Fastighetsägare
 
 Det här dokumentet är digitalt signerat
@@ -5264,11 +5264,11 @@ TIDPLAN
 Revidering: Tidplanen har reviderats med anledning av att projektet behövt invänta en
 övergripande dagvattenutredning för norra delen av Åsa.
 
-2025  kvartal fyra  reviderad projektbeställning godkänd i kommunstyrelsen
-2025 - kvartal fyra  Uppdragsbeslut för detaljplan i byggnadsnämndens arbetsutskott
-2026  kvartal fyra  beslut om samråd, BN
-2027  kvartal tre  beslut om granskning, BN
-2028  kvartal ett  beslut om antagande, BN
+2025 � kvartal fyra � reviderad projektbeställning godkänd i kommunstyrelsen
+2025 - kvartal fyra � Uppdragsbeslut för detaljplan i byggnadsnämndens arbetsutskott
+2026 � kvartal fyra � beslut om samråd, BN
+2027 � kvartal tre � beslut om granskning, BN
+2028 � kvartal ett � beslut om antagande, BN
 
 EKONOMI
 PLANKOSTNADSAVTAL
@@ -5447,8 +5447,8 @@ Kommunen och Exploatören kallas gemensamt Parterna
 A.   BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 1\.   Uppdrag, politiska beslut med mera
-1.1  Samhällsbyggnadskontoret har fått i uppdrag att upprätta förslag till Detaljplan för
-bostäder inom Skörvalla 1:116 i Särö, Kungsbacka kommun, nedan kallad
+1.1  Samhällsbyggnadskontoret har fått i uppdrag att upprätta förslag till �Detaljplan för
+bostäder inom Skörvalla 1:116 i Särö, Kungsbacka kommun�, nedan kallad
 Detaljplanen, genom beslut i Byggnadsnämndens arbetsutskott 2024-05-23 § 137.
 
 1.2  Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
@@ -5638,8 +5638,8 @@ framtida fastighetsägare för att bekosta och anordna erforderliga tryckstegran
 åtgärder eller anläggningar.
 
 10.3.3 Om Exploatören avser att installera sprinkleranläggning ska detta anordnas och
-bekostas av Exploatören i enlighet med Kungsbacka kommuns dokument Riktlinjer
-för sprinkleranläggningar, daterad 2023-03-29.
+bekostas av Exploatören i enlighet med Kungsbacka kommuns dokument �Riktlinjer
+för sprinkleranläggningar�, daterad 2023-03-29.
 
 Sign.
 
@@ -6011,7 +6011,7 @@ vinner laga kraft
 31\.  Tidsplan och utbyggnadstakt
 
 31.1 Exploatören ska upprätta en övergripande tidplan för exploateringens genomförande,
-inklusive eventuell etappindelning (Huvudtidplan). Huvudtidplanen ska delges
+inklusive eventuell etappindelning (�Huvudtidplan�). Huvudtidplanen ska delges
 Kommunen, som ges möjlighet att lämna synpunkter, i syfte att möjliggöra
 samordning av planering och anläggningsarbeten.
 31.2 Vid avvikelse från, eller risk för avvikelse från, huvudtidplanen ska Exploatören utan
@@ -6047,11 +6047,11 @@ Lisa Andersson                  Richard Vidlund
 Kommunstyrelsens ordförande     Kommundirektör
 
 Bilagor:
-Bilaga A  Exploateringsområdet
-Bilaga B  Ledningar
-Bilaga C  Belysningsanläggning
-Bilaga D  Utfart
-Bilaga E  Koppling till Säröbanan
+Bilaga A � Exploateringsområdet
+Bilaga B � Ledningar
+Bilaga C � Belysningsanläggning
+Bilaga D � Utfart
+Bilaga E � Koppling till Säröbanan
 Avtalet är giltigt utifrån punkt 30.4 när båda beslut enligt nedan har vunnit laga kraft.
 
 Beslut om godkännande av avtal vann laga kraft: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6334,7 +6334,7 @@ Samrådshandling 3 (44)
 Kungsbacka kommun
 Planprogram för Åsaberg
 
-Diarienummer 200300165
+Diarienummer 2003�00165
 Upprättad 2026-05-13
 
 Handläggare:
@@ -6564,7 +6564,7 @@ bostadsbebyggelse kan placeras inom det identifierade området. Strukturskissen 
 sätt som bebyggelsen kan placeras och utformas inom området för bostadsbebyggelse.
 
 Strukturskissen föreslår i huvudsak två typer av bebyggelse med totalt 160 bostäder. I det inre
-skogsgårdskvarteret föreslås att en mer sammanhängande radhusbebyggelse med 42
+�skogsgårdskvarteret� föreslås att en mer sammanhängande radhusbebyggelse med 42
 bostäder kring en inre gröning. Här kan landskapsbearbetningen vara större med plats för till
 exempel lekplats och en mindre gräsplan. Från det inre kvarteret förgrenar sig tre gator som
 avslutas i rundlar. Längs dessa vägar föreslås 59 parhus, det vill säga 118 bostäder, med
@@ -7532,7 +7532,7 @@ med exploateringen.
 Åsaberg har länge varit ett välutnyttjat rekreationsområde som använts av alla åldersgrupper.
 Närheten till bostadsområden gör att det har höga sociala värden och bidrar till att stärka både
 social samvaro och vardagslivet. Topografin gör att Åsaberg är svårtillgängligt för personer
-med nedsatt rörlighet. Den avverkning som gjordes av skogen 2024  2025 har påverkat
+med nedsatt rörlighet. Den avverkning som gjordes av skogen 2024 � 2025 har påverkat
 förutsättningarna för rörelse och rekreation i området på ett negativt sätt.
 
 För att minska den negativa påverkan på den sociala hållbarheten är det viktigt att bevara så
@@ -8241,7 +8241,7 @@ Beslutsunderlag
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2026-05-13
 Orienteringskarta, Bröndome 1:3, 2026-05-13
-Orienteringskarta  översiktsplan, Bröndome 1:3, 2026-05-13
+Orienteringskarta � översiktsplan, Bröndome 1:3, 2026-05-13
 Begäran om planbesked inkl. bilagor för Bröndome 1:3, 2026-03-18
 
 Beslutet skickas till
@@ -8305,7 +8305,7 @@ I bostadsförsörjningsplanen redovisas kommunens mål och ambitioner för bosta
 utveckling av bostadsbeståndet samt kommunens planerade insatser för att nå dessa uppsatta mål.
 Planen anger vilka områden som behöver prioriteras och vad kommunen ska göra för att skapa de
 bästa förutsättningarna för att alla invånare ska få tillgång till ett bra boende. Kommunen har som mål
-att under perioden 20252029 planera för 2500 bostäder, varav 25 % ska planeras inom
+att under perioden 2025�2029 planera för 2500 bostäder, varav 25 % ska planeras inom
 utvecklingsorterna Vallda, Onsala, Kullavik, Särö, Fjärås och Frillesås. Detta motsvarar cirka 625
 bostäder totalt under perioden. Pågående planering i Vallda-Backa 1:6 tillsammans med den inom
 Vallda 20:3 m fl utgör cirka 400 bostäder. Nu aktuell begäran innehåller förslag på 34 bostäder.
@@ -8748,7 +8748,7 @@ KUNGSBACKA  KOMMUN
 Beslutsunderlag
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-05-13
 Orienteringskarta, Kyvik 2:14, 2026-05-13
-Orienteringskarta  översiktsplan, Kyvik 2:14, 2026-05-13
+Orienteringskarta � översiktsplan, Kyvik 2:14, 2026-05-13
 
 Begäran om planbesked, 2026-03-11
 
@@ -8767,7 +8767,7 @@ Kommundirektör                   Samhällsbyggnadschef
 
 Kullavik 2026-03-10
 
-Ansökan om planbesked  Kyvik 2:14, Kungsbacka kommun
+Ansökan om planbesked � Kyvik 2:14, Kungsbacka kommun
 
 Sökande:
 
@@ -8791,7 +8791,7 @@ Bebyggelsen avses anpassas till områdets befintliga karaktär och skala.
 
 Tillfart, parkering och gemensamma ytor
 
-Tillfart till de nya fastigheterna planeras via Kyviks Allé(namn på infartsvägen i förslaget).
+Tillfart till de nya fastigheterna planeras via �Kyviks Allé�(namn på infartsvägen i förslaget).
 Infartsväg samt vissa gemensamma ytor föreslås ingå i en gemensamhetsanläggning.
 
 I anslutning till infarten planeras en gemensam yta för parkering och avfallshantering. Där
