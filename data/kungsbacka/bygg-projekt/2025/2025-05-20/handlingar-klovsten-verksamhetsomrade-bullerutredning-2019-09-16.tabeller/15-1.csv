@@ -1,0 +1,20 @@
+Kontrollpunkt,Adress,"Maxtimme
+vardag dB(A)","Maxtimme
+Helg dB(A)","Lmax återvinning
+helg dagtid dB(A)"
+1,"Varlabergsvägen 51
+mot söder (vån 1)",48,44,55
+2,"Varlabergsvägen 53
+mot väster (vån 1)",47,43,53
+3,"Varlabergsvägen 55
+mot söder (vån 2)",47,41,51
+4,"Ysbyhults backe 1 mot
+nordöst (vån 1)",48,35,45
+5,"Ysbyhults väg 11 mot
+sydöst (vån 1)",53,37,47
+"Riktvärde
+bostäder",-,50,45,-
+6,Kungsbackaskogen 1,50,47,57
+7,Kungsbackaskogen 2,47,25,35
+"Riktvärde
+rekreation",-,40,35,-

@@ -1,0 +1,50 @@
+Analysmetoder,Metod
+W-AFS-17V3b,"Analys av kvicksilver (Hg) i förorenat vatten med AFS enligt SS-EN ISO 17852:2008 efter uppslutning av prov enligt
+W-PV-AC."
+W-PP-filt,"Filtrering med 0.45µm filter (SE-SOP-0259, SS-EN ISO 5667-3:2018)."
+W-PV-AC,Upplösning med salpetersyra i autoklav enligt SS 28150:1993 (SE-SOP-0400).
+W-SFMS-06,"Analys av metaller i förorenat vatten med ICP-SFMS enligt SS-EN ISO 17294-2:2016 och US EPA Metod 200.8:1994 efter
+uppslutning av prov enligt W-PV-AC."
+W-ALIGMS,"Bestämning av flyktiga organiska föreningar enligt metod baserad på US EPA 624, US EPA 8260, US EPA 8015, EN ISO
+10301, MADEP 2004, rev. 1.1, ISO 11423, ISO 15680. Mätning utförd med GC-FID och GC-MS."
+W-CLPGMS01,"Bestämning av fenoler, klorerade fenoler och kresoler enligt metod baserad på US EPA 8041, US EPA 3500 och CSN EN
+12673. Mätning utförd med GC-MS."
+W-HG-AFSFL,"Bestämning av kvicksilver (Hg) enligt metod baserad på US EPA 245.7, CSN EN ISO 178 52, CSN EN 16192. Mätningen
+utförs med atomfluorescensspektrometri. Provet filtrerades genom mikrofilter med porositet 0,45 µm följt av tillsats av
+salpetersyra före analys."
+W-METMSFL1,"Bestämning av metaller enligt metod baserad på US EPA 200.8, CSN EN ISO 17294-2, US EPA 6020A, CSN EN 16192 och
+CSN 75 7358. Mätning utförs med ICP-MS. Provet filtrerades genom mikrofilter med porositet 0,45 µm följt av tillsats av
+salpetersyra före analys."
+W-METMSFL2,"CZ_SOP_D06_02_002 (US EPA 200.8, CSN EN ISO 17294-2, US EPA 6020A, CSN EN 16192, CSN 75 7358 prover
+framställda som Per CZ_SOP_D06_02_J02 kapitel 10.1 och 10.2) Bestämning av element genom masspektrometri med
+induktivt kopplad plasma och stökiometriska beräkningar av föreningar koncentration från uppmätta värden inklusive
+beräkning av total mineralisering och beräkning av summan av Ca + Mg. Provet filtrerades genom mikrofilter med porositet
+0,45 | im följt av salpetersyra tillsats före analys."
+W-OCPECD01,"Bestämning av klorerade pesticider och andra halogenerade ämnen enligt metod baserad på CSN EN ISO 6468, US EPA
+8081 och DIN 38407-3. Mätning utförs med GC-ECD."
+W-PCBGMS05,"Bestämning av polyklorerade bifenyler, PCB (7 kongener) enligt metod baserad på US EPA 8270D, US EPA 8082A, CSN EN
+ISO 6468 och US EPA 8000D. Mätningen utförs med GC-MS eller GC-MS/MS."
+W-SPIGMS04,"Bestämning av alifatfraktioner och aromatfraktioner. Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar
+enligt EPA). Summa metylpyrener/metylfluorantener och summa metylkrysener/metylbens(a)antracener. GC-MS enligt intern
+instruktion som är baserade på SPIMFABs kvalitetsmanual. PAH cancerogena utgörs av bens(a)antracen, krysen,
+bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, dibens(ah)antracen och indeno(123cd)pyren. Summa PAH L:
+naftalen, acenaften och acenaftylen. Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren. Summa PAH H:
+bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, indeno(1,2,3-c,d)pyren,
+dibens(a,h)antracen och bens(g,h,i)perylen. PAH summorna är definerade enligt direktiv från Naturvårdsverket utgivna i
+oktober 2008."
+W-VOCGMS01,"Bestämning av flyktiga organiska föreningar enligt metod baserad på US EPA 624, US EPA 8260, US EPA 8015, CSN EN ISO
+10301, MADEP 2004, rev. 1.1, CSN ISO 11423, CSN EN ISO 15680. Mätningen utförs med GC-FID och GC-MS."
+HS-OV-21,"Mätningen utförs med headspace GC-MS, enligt EPA Metod 5021a rev 2 update V. Enligt direktiv från Naturvårdsverket
+oktober 2008."
+SVOC-/HS-OV-21*,Summa alifater >C5-C16 beräknad från HS-OJ-21 och SVOC-OJ-21.
+SVOC-OV-21,"Bestämning av alifatfraktioner och aromatfraktioner
+Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA)
+Summa metylpyrener/metylfluorantener och summa metylkrysener/metylbens(a)antracener.
+GC-MS TK535 N 012 som är baserade på SPIMFABs kvalitetsmanual.
+PAH cancerogena utgörs av bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren,
+dibens(ah)antracen och indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren.
+Summa PAH H: bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, indeno(1,2,3-c,d)pyren,
+dibens(a,h)antracen och bens(g,h,i)perylen.
+PAH summorna är definierade enligt direktiv från Naturvårdsverket utgivna i oktober 2008."

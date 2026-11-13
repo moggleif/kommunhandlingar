@@ -1,0 +1,15 @@
+Väg,"ÅDT
+(antal fordon)","Andel tung trafik
+cat 2","Andel tung
+trafik cat 3",Hastighet (km/h)
+"Varbergsvägen (Petters väg-
+Ölmanäs Ringväg)",9468,2,3,80
+"Varbergsvägen (Ölmanäs
+ringväg-Kläppavägen)",9157,2,3,40-80
+"Varbergsvägen (Kläppavägen-
+Stenviksvägen)",7840,2,3,40-50
+"Varbergsvägen (Stenviksvägen-
+Krokviksvägen)",7296,2,3,40-50
+Kläppavägen,2221,"1,6","2,4",40-50
+Ölmanäs ringväg,4695,"2,4","3,6",30-40
+Åsa Stationsväg,660,2,3,30

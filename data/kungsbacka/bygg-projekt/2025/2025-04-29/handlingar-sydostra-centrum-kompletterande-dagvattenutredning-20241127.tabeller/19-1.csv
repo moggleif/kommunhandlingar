@@ -1,0 +1,20 @@
+Befintlig situation Planområdet Φ,,
+Asfalt,"0,556","0,80"
+Grönyta,"0,901","0,10"
+Parkering,"3,35","0,85"
+Parkmark,"0,374","0,10"
+Takyta,"1,22","0,90"
+Väg,"1,55","0,85"
+Totalt [ha],"7,94",-
+"t [min]
+r",10,-
+"φ [-]
+S","0,72",-
+"A [ha]
+red","5,7",-
+"Q , 10-årsregn [l/s]
+dim",1 300,-
+"Q , 30-årsregn [l/s]
+dim",1 900,-
+"Q , 100-årsregn [l/s]*
+dim",3 200,-

@@ -1,0 +1,17 @@
+Parameter,,,
+,Avrinningsomr A01,Avrinningsomr A02,Avrinningsomr A03
+Rinnlängd (m),112,250,160
+"Flödeshastighet i
+befintlig mark
+(m/s)","0,1","0,1","0,1"
+"Regnvaraktighet för
+befintlig situation
+(min)",19 minuter,42 minuter,27 minuter
+"Flödeshastighet
+efter exploatering
+genom ledning
+(m/s)","1,5","1,5","1,5"
+"Regnvaraktighet för
+framtida situation
+(min)",10 minuter,10 minuter,10 minuter
+Klimatfaktor (kf),"1,25","1,25","1,25"

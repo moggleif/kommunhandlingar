@@ -1,0 +1,42 @@
+Borrpunkt,Provdjup,Analys,Jordart,PID,Anm
+24E01,"0,0-0,5",X,stsa (F),-,Trasig PID
+,"0,5-1,0",,stsa (F),-,
+,"1,0-1,5",,Lets,-,
+,"1,5-2,0",,Lets,-,
+24E02,"0,0-0,5",X,stsagr (F),-,Trasig PID
+,"0,5-1,0",X,Lets (F?),-,Ganska omrörd Lets så kanske fyllt
+,"1,0-1,5",,Lets,-,
+,"1,5-2,0",,Lets,-,
+24E03,"0,0-0,5",X,stsagr (F),-,Trasig PID
+,"0,5-1,0",,stsagr (F),-,
+,"1,0-1,5",,Lets,-,
+,"1,5-2,0",,Lets,-,
+24E04,"0,0-0,5",X,musale (F),"0,3",Asfaltsbitar
+,"0,5-0,8",,musale (F),"0,3",Liten tegelbit
+,"0,8-1,5",,Lets,-,"Lets börjar 0,8"
+,"1,5-2,0",,Lets,-,Vatten i hålet
+24E05,"0,0-0,5",X,stsagr (F),-,Trasig PID
+,"0,5-1,0",,Lets (F?),-,Omrört och stenar i så möjligt fylle
+,"1,0-1,5",,Lets,-,
+,"1,5-2,0",,Lets,-,
+24E06,"0,0-0,5",X,stsagr (F),-,Trasig PID
+,"0,5-1,0",,Lets (F?),-,"Insprängda stenar, omrört"
+,"1,0-1,5",,Lets,-,
+,"1,5-2,0",,Lets,-,
+24E07,"0,0-0,5",X,stgr (F),"2,5",
+,"0,5-1,0",X,Lets (F?),-,Omrört
+,"1,0-1,5",X,Lets,-,
+,"1,5-2,0",,Lets,-,
+24E08,"0,0-0,5",X,stgr (F),"11,5",Större stenar
+,"0,5-1,0",X,Lets (F?),"0,3",Omrört
+,"1,0-1,5",,Lets,-,"Tegel, men sannolikt nertryckt från
+ovan lager vid borrning"
+,"1,5-2,0",,Lets,-,
+24E09,"0,0-0,5",X,Mu + Lets,"1,3",10 övesta cm Mu
+,"0,5-1,0",,Lets,"0,0",
+,"1,0-1,5",,Lets,-,
+,"1,5-2,0",,Lets,-,
+24E10,"0,0-0,5",X,Mu + Lets (F),"0,0","Översta 10cm Mu. Tegel, omrört."
+,"0,5-1,0",X,Lets (F),"0,0","Tegel, omrört"
+,"1,0-1,5",,Lets,-,
+,"1,5-2,0",,Lets,-,

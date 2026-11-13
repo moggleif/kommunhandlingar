@@ -1,0 +1,37 @@
+Analysmetoder,Metod
+S-PM59-HB,Upplösning i 7M salpetersyra i hotblock enligt SE-SOP-0021.
+S-PP-dry50,Torkning av prov vid 50°C.
+S-PP-siev/grind,Jord siktas <2mm enligt ISO 11464:2006. Slam och sediment homogeniseras genom mortling.
+S-SFMS-59,"Analys av metaller i jord, slam, sediment och byggnadsmaterial med ICP-SFMS enligt SS-EN ISO 17294-2:2016 och US EPA
+Method 200.8:1994 efter uppslutning av prov enligt S-PM59-HB."
+Asfalt-OJ-1,"Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA) i asfalt och tjärpapp. Provberedning enligt
+intern instruktion INS-0360.
+Mätning utförs med GCMS enligt SS-ISO 18287:2008, utg. 1 mod.
+PAH cancerogena utgörs av bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren,
+dibens(ah)antracen och indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren
+Summa PAH H: bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, indeno(1,2,3-c,d)pyren,
+dibens(a,h)antracen och bens(g,h,i)perylen.
+PAH-summorna är definierade enligt direktiv från Naturvårdsverket utgivna i oktober 2008."
+OJ-1,"Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA)
+Mätning utförs med GC-MS enligt metod baserad på SS-EN ISO 18287:2008, utg. 1 mod. PAH cancerogena utgörs av
+bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, dibens(ah)antracen och
+indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren
+Summa PAH H: bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, indeno(1,2,3-c,d)pyren,
+dibens(a,h)antracen och bens(g,h,i)perylen)
+PAH-summorna är definierade enligt direktiv från Naturvårdsverket utgivna i oktober 2008."
+SVOC-OJ-21,"Bestämning av alifatfraktioner och aromatfraktioner
+Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA)
+Summa metylpyrener/metylfluorantener och summa metylkrysener/metylbens(a)antracener.
+GC-MS enligt SIS/TK 535 N012 som är baserad på SPIMFABs kvalitetsmanual.
+PAH cancerogena utgörs av bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren,
+dibens(ah)antracen och indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren.
+Summa PAH H: bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, indeno(1,2,3-c,d)pyren,
+dibens(a,h)antracen och bens(g,h,i)perylen.
+PAH-summorna är definerade enligt direktiv från Naturvårdsverket utgivna i oktober 2008."
+TS-105,Bestämning av torrsubstans (TS) enligt SS-EN 15934:2012 utg 1.

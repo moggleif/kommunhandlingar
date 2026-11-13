@@ -1,0 +1,84 @@
+"Erbeteckning PG2
+0.5-0.7
+Provtagare LinaLöfqvist
+Provtagningsdatum 2020-01-22
+Labnummer O11237513",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+TS_105°C,89.9,2.0,%,1,V,ERKU
+As,1.31,0.39,mg/kgTS,1,H,ERKU
+Ba,21.2,4.9,mg/kgTS,1,H,ERKU
+Cd,<0.1,,mg/kgTS,1,H,ERKU
+Co,2.23,0.57,mg/kgTS,1,H,ERKU
+Cr,2.48,0.56,mg/kgTS,1,H,ERKU
+Cu,10.0,2.1,mg/kgTS,1,H,ERKU
+Hg,<0.2,,mg/kgTS,1,H,ERKU
+Ni,2.54,0.67,mg/kgTS,1,H,ERKU
+Pb,6.56,1.35,mg/kgTS,1,H,ERKU
+V,6.58,1.40,mg/kgTS,1,H,ERKU
+Zn,19.8,3.8,mg/kgTS,1,H,ERKU
+,,,,,,
+TS_105°C,90.1,5.44,%,2,1,KAIN
+naftalen,<0.100,,mg/kgTS,2,1,KAIN
+acenaftylen,<0.100,,mg/kgTS,2,1,KAIN
+acenaften,<0.100,,mg/kgTS,2,1,KAIN
+fluoren,<0.100,,mg/kgTS,2,1,KAIN
+fenantren,<0.100,,mg/kgTS,2,1,KAIN
+antracen,<0.100,,mg/kgTS,2,1,KAIN
+fluoranten,<0.100,,mg/kgTS,2,1,KAIN
+pyren,<0.100,,mg/kgTS,2,1,KAIN
+bens(a)antracen,<0.050,,mg/kgTS,2,1,KAIN
+krysen,<0.050,,mg/kgTS,2,1,KAIN
+bens(b)fluoranten,<0.050,,mg/kgTS,2,1,KAIN
+bens(k)fluoranten,<0.050,,mg/kgTS,2,1,KAIN
+bens(a)pyren,<0.050,,mg/kgTS,2,1,KAIN
+dibens(ah)antracen,<0.050,,mg/kgTS,2,1,KAIN
+benso(ghi)perylen,<0.100,,mg/kgTS,2,1,KAIN
+indeno(123cd)pyren,<0.050,,mg/kgTS,2,1,KAIN
+"PAH,summa16 *",<0.63,,mg/kgTS,2,1,KAIN
+"PAH,summacancerogena *",<0.18,,mg/kgTS,2,1,KAIN
+"PAH,summaövriga *",<0.45,,mg/kgTS,2,1,KAIN
+"PAH,summa L *",<0.15,,mg/kgTS,2,1,KAIN
+"PAH,summa M *",<0.25,,mg/kgTS,2,1,KAIN
+"PAH,summa H *",<0.23,,mg/kgTS,2,1,KAIN
+"Erbeteckning PG4
+0-0.5-0.2
+Provtagare LinaLöfqvist
+Provtagningsdatum 2020-01-22
+Labnummer O11237514",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+TS_105°C,90.5,2.0,%,1,V,ERKU
+As,1.32,0.41,mg/kgTS,1,H,ERKU
+Ba,32.7,7.6,mg/kgTS,1,H,ERKU
+Cd,<0.1,,mg/kgTS,1,H,ERKU
+Co,4.65,1.14,mg/kgTS,1,H,ERKU
+Cr,7.77,1.56,mg/kgTS,1,H,ERKU
+Cu,11.8,2.5,mg/kgTS,1,H,ERKU
+Hg,<0.2,,mg/kgTS,1,H,ERKU
+Ni,6.30,1.70,mg/kgTS,1,H,ERKU
+Pb,7.63,1.63,mg/kgTS,1,H,ERKU
+V,14.1,3.4,mg/kgTS,1,H,ERKU
+Zn,28.4,5.6,mg/kgTS,1,H,ERKU
+,,,,,,
+TS_105°C,90.8,5.48,%,2,1,KAIN
+naftalen,<0.100,,mg/kgTS,2,1,KAIN
+acenaftylen,<0.100,,mg/kgTS,2,1,KAIN
+acenaften,<0.100,,mg/kgTS,2,1,KAIN
+fluoren,<0.100,,mg/kgTS,2,1,KAIN
+fenantren,<0.100,,mg/kgTS,2,1,KAIN
+antracen,<0.100,,mg/kgTS,2,1,KAIN
+fluoranten,<0.100,,mg/kgTS,2,1,KAIN
+pyren,<0.100,,mg/kgTS,2,1,KAIN
+bens(a)antracen,<0.050,,mg/kgTS,2,1,KAIN
+krysen,<0.050,,mg/kgTS,2,1,KAIN
+bens(b)fluoranten,<0.050,,mg/kgTS,2,1,KAIN
+bens(k)fluoranten,<0.050,,mg/kgTS,2,1,KAIN
+bens(a)pyren,<0.050,,mg/kgTS,2,1,KAIN
+dibens(ah)antracen,<0.050,,mg/kgTS,2,1,KAIN
+benso(ghi)perylen,<0.100,,mg/kgTS,2,1,KAIN
+indeno(123cd)pyren,<0.050,,mg/kgTS,2,1,KAIN
+"PAH,summa16 *",<0.63,,mg/kgTS,2,1,KAIN
+"PAH,summacancerogena *",<0.18,,mg/kgTS,2,1,KAIN
+"PAH,summaövriga *",<0.45,,mg/kgTS,2,1,KAIN
+"PAH,summa L *",<0.15,,mg/kgTS,2,1,KAIN
+"PAH,summa M *",<0.25,,mg/kgTS,2,1,KAIN
+"PAH,summa H *",<0.23,,mg/kgTS,2,1,KAIN

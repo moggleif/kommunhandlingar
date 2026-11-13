@@ -1,0 +1,9 @@
+"BP24
+FM",,1,2,3,4,5,6
+,Nod,Norr (E6),Söder (E6),Väster,Cirkulation norr (4),Cirkulation öst (5),Cirkulation söder (6)
+1,Norr (E6),0,1113,222,0,0,0
+3,Söder (E6),1917,0,110,89,46,0
+2,Väster,651,150,0,168,87,0
+4,Cirkulation norr (4),20,43,70,0,0,0
+5,Cirkulation öst (5),16,34,56,0,0,0
+6,Cirkulation söder (6),0,0,0,0,0,0

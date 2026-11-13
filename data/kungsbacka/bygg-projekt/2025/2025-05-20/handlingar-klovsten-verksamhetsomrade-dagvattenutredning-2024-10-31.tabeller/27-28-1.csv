@@ -1,0 +1,39 @@
+Område,A (ha),φ (-),Areducerad (ha)
+"Avrinningsområde _Norr,
+befintlig markanvändning",,,
+Asfalterade ytor,"2,9","0,8","2,33"
+Gröna ytor,"2,9","0,1","0,29"
+Öppen mark/grus och sand,"3,0","0,2","0,60"
+Berg,"0,6","0,1","0,06"
+Tak,"0,5","0,9","0,43"
+Ej asfalterad väg,"0,1","0,4","0,06"
+Asfalterade väg,"0,7","0,8","0,60"
+Totalt,"10,75","0,116","4,37"
+"Avrinningsområde _Norr,
+framtida markanvändning",,,
+Asfalterade väg,"1,58","0,8","1,26"
+Tak (60% av kvartersmark),"5,44","0,9","4,9"
+"Asfalterade ytor (90 % av
+obebyggd kvartersmarken)","3,27","0,8","2,61"
+"Genomsläpplig mark (10 %
+av obebyggd kvartersmar-
+ken)","0,36","0,2","0,07"
+Totalt,"10,65","0,8","8,85"
+"Avrinningsområde _Söder,
+befintlig markanvändning",,,
+Asfalterade ytor,"0,1","0,8","0,08"
+Grön mark,"5,12","0,1","0,36"
+Öppen mark/grus och sand,"3,48","0,2","0,15"
+Berg,"1,49","0,1","0,70"
+Tak,"0,03","0,9","0,15"
+Totalt,"10,22","0,1","1,47"
+"Avrinningsområde _Söder,
+framtida markanvändning",,,
+"Asfalterade ytor (90 % av obe-
+byggd kvartersmarken)","2,75","0,8","2,20"
+Tak,"4,58","0,9","4,13"
+"Genomsläpplig mark (10 % av
+obebyggd kvartersmarken)","0,31","0,2","0,06"
+Asfalterad väg,"0,24","0,8","0,19"
+dike och damm/naturmark,"2,44","0,1","0,24"
+Totalt,"10,32","0,7","6,82"

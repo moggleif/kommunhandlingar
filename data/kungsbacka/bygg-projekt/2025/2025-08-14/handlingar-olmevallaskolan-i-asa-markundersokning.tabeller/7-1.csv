@@ -1,0 +1,38 @@
+Punkt,"Avstånd till
+område (m)","MIFO-
+id","Riskklass/
+status","Primär bransch /
+Sekundär bransch","Branschspecifika
+föroreningar - Mark"
+1,"Inom
+undersöknings
+området",108217,"Ej
+riskklassad","Mellanlagring och
+sorteringsstation avfall","PAH (antracen, naftalen,
+benso(a)pyren), bly (Pb)"
+2,100,108283,3,"Bilvårdsanläggning,
+bilverkstad samt åkerier","Alifatiska kolväten
+(hexan, oktan), PAH
+(antracen, naftalen,
+benso(a)pyren)"
+3,300,108272,"Ej
+riskklassad","Bilvårdsanläggning,
+bilverkstad samt åkerier","Alifatiska kolväten
+(hexan, oktan), PAH
+(antracen, naftalen,
+benso(a)pyren)"
+4,350,108443,"Ej
+riskklassad","Sågverk utan
+doppning/impregnering","PAH (antracen, naftalen,
+benso(a)pyren), bly (Pb)"
+5,500,108207,3,"Avfallsdeponier - icke
+farligt, farligt avfall","Alifatiska kolväten
+(hexan, oktan), bly (Pb),
+högfluorerade ämnen
+(PFAS)"
+6,550,108304,4,Förbränningsanläggning,"Alifatiska kolväten
+(hexan, oktan), PAH
+(antracen, naftalen,
+benso(a)pyren)"
+7,550,178274,3,Grafisk industri,"PAH (antracen, naftalen,
+benso(a)pyren), bly (Pb)"

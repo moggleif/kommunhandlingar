@@ -1,0 +1,110 @@
+FÄLTPROTOKOLL - JORD,,,,,,,
+"Datum: 2020-04-01 och 2020-04-02
+Projekt: ÖMTMU Klovsten
+Proj.nr. 606020
+Plats: Klovsten, Kungsbacka
+Kund: Kungsbacka kommun",,,,Förkortning jordarter enligt SGFBGS 2001:2,,,
+Jordlagerföljd,,,,Provtagning,,,
+Provpunkt,Djup,Jordart,Anmärkning,Djup,PID,HDI,Kommentar
+,(m),,,(m),(ppm),(mV),
+20G01,"0-0,1",F/Mu,,"0-0,1",15,x,
+,"0,1-1",F/grSa,,"0,1-1","0,3",,
+20G02,,,,,,,
+,"0-0,5",F/stgrSa,,"0-0,5","0,3",,
+,"0,5-1",F/stgrSa,,"0,5-1","0,1",,
+,"1-1,5",F/stgrSa,,"1-1,5","0,2",x,
+,"1,5-2",F/siLe,snäckskal,"1,5-2",0,,
+,"2-2,2",F/siLe,snäckskal,,,,Stopp på grund av berg
+20G03,,,,,,,
+,"0-0,05",F/asfalt,,"0-0,05",,x,
+,"0,05-0,5",F/grSa,,"0-0,5","0,3",,
+,"0,5-1",F/grSa,,"0,5-1","0,1",,
+,"1-1,5",F/grSa,,"1-1,5","0,3",,
+,"1,5-2",F/grSa,,"1,5-2","0,4",x,Stopp på grund av berg
+20G04,,,,,,,
+,"0-0,5",F/stgrSa,,"0-0,5",,,
+,"0,5-1",F/stgrSa,,"0,5-1","0,4",x,"Isoleringsmaterial, ingen lukt"
+,"1-1,4",F/leMu,,"1-1,4","0,9",,
+,"1,4-1,6",F/grSa,,"1,4-1,6",0,,
+,"1,6-2",siLe,,"1,6-2","0,2",,
+,"2-2,5",siLe,,"2-2,5","0,4",,
+,"2,5-3",siLe,,"2,5-3","0,7",,
+,3-4,siLe,,,,,
+20G05,,,,,,,
+,"0-0,05",F/asfalt,,,,,"Asfalt pulveriserar, ej prov"
+,"0,05-0,5",F/stgrSa,,"0,05-0,5","5,8",x,
+,"0,5-1",F/stgrSa,,"0,5-1","0,2",,
+,"1-1,6",F/grSa,,"1-1,6","1,2",,Stopp
+20G06,,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,,
+,"0,05-0,5",F/stgrSa,,"0,05-0,5","0,3",,
+,"0,5-1",F/stgrSa,,"0,5-1","0,3",,
+,"1-1,5",siLe,,"1-1,5","1,5",x,
+,"1,5-2",siLe,,"1,5-2","0,1",,
+20G07,,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,x,
+,"0,05-0,5",F/grSa,,"0,05-0,5","0,6",,
+,"0,5-1",F/grSa,,"0,5-1","0,2",,
+,"1-1,6",F/grSa,,"1-1,6","0,1",,
+,"1,6-2",F/siLe,,"1,6-2","0,5",x,
+,"2-2,1",F/grSa,,,,,
+,"2,1-2,5",F/sasiLe,,"2,1-2,5","0,3",,snäckskal
+,"2,5-3",siLe,,"2,5-3","0,5",x,
+,"3-3,8",siLe,,"3-3,8",,,"vatten in, Stopp på grund av berg"
+"Grundvattenrör satt: Spets 3,8 m, Filter 1 m, Rör 2,8 m överst (kapat 20 cm), GV-yta provtagning (RÖK) 1,7 m",,,,,,,
+Jordlagerföljd,,,,Provtagning,,,
+Provpunkt,Djup,Jordart,Anmärkning,Djup,PID,HDI,Kommentar
+,(m),,,(m),(ppm),(mV),
+20G08,,,,,,,
+,"0-0,7",F/Mu,,"0-0,7","0,3",x,
+,"0,7-1",siLe,,"0,7-1","0,4",x,
+,"1-1,5",siLe,,"1-1,5","0,1",,
+,"1,5-2",siLe,,"1,5-2","0,3",,Stopp på grund av berg
+,,,,,,,"Inget vatten, ej grundvattenrör"
+20G09,,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,,
+,"0,05-0,5",F/stgrSa,,"0,05-0,5","1,4",,
+,"0,5-1",F/stgrSa,,"0,5-1","0,9",,
+,"1-1,3",F/stgrSa,,"1-1,3","1,3",x,"Lite gråsvart, ej lukt."
+,"1,3-1,9",F/leMu,,"1,3-1,9","1,4",,Träbitar
+,"1,9-2",siLe,,,,,
+,"2-2,5",siLe,,"2-2,5","0,4",,
+,"2,5-3",siLe,,"2,5-3","0,1",,
+20G10,,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,x,
+,"0,05-0,7",F/stgrSa,,"0,05-0,7","0,5",x,"Inget vatten, ej grundvattenrör"
+,,,,,,,Stopp på grund av berg
+20G11,,,,,,,
+,"0-0,2",F/Mu,,"0-0,2",,,
+,"0,2-0,8",F/Sa,,"0,2-0,8","0,3",,
+,"0,8-1",F/siLet,,"0,8-1","0,3",,
+,"1-1,8",F/sisagrlet,,"1-1,8","0,4",x,Stopp ppå grund av berg
+20G12,,,,,,,
+,"0-0,2",F/Mu,,"0-0,2","0,4",,
+,"0,2-1",F/grSa,,"0,2-1","0,4",x,
+,"1-1,5",siSa,,"1-1,5","0,4",,
+,"1,5-2",siSa,,"1,5-2","0,4",,Stopp på grund av berg
+"Grundvattenrör satt: Spets 2 m, Filter 1 m, Rör 1 m överst (kapat 5 cm), GV-yta (RÖK) provtagning 0,7 m",,,,,,,
+20G13,,,,,,,
+,"0-0,6",F/stgrSa,,"0-0,6","0,4",,
+,"0,6-1",F/sigrSa,,"0,6-1","0,4",,
+,"1-1,4",F/grSa,,"1-1,4","0,4",x,
+,"1,4-2",Sa,,"1,4-2","0,4",,
+,"2-2,6",Sa,,"2-2,6","0-0,4",,
+20G14,,,,,,,
+,"0-0,5",F/saMu,,"0-0,5","0,5",,
+,"0,5-1",F/saMu,,"0,5-1","0,5",,
+,"1-1,5",Sa,,"1-1,5","1,1",x,Stopp på grund av berg
+20G15,,,,,,,
+,"0-0,5",F/Mu,,"0-0,5","0,3",x,
+,"0,5-1",Sa,,"0,5-1","0,4",,
+,"1-1,5",Sa,,"1-1,5","0,4",,Vatten in mellan 1-2 meter
+,"1,5-2",Sa,,"1,5-2","0,4",,
+,2-3,Sa,,,,,Stopp på grund av berg
+"Grundvattenrör satt: Spets 3 m, Filter 2 m, Rör 2 m överst (uppstick 1,17 m), GV-yta (RÖK) provtagning 1,69 m",,,,,,,
+20G16,,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,x,
+,"0,05-0,5",F/stgrSa,,"0,05-0,5",,,
+,"0,5-1",F/grSa,,"0,5-1","0,6",,
+,"1-1,5",F/grSa,,"1-1,5","0,7",,
+,"1,5-2",F/grSa,,"1,5-2","5,4",x,Stopp på grund av berg

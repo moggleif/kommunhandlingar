@@ -1,0 +1,14 @@
+Sektion,Skede,Analys,"Säkerhets-
+faktor",Utfall,Kommentar
+A,Framtid,Odränerad,"1,67",">1,5 Ok","last 20 kPa, 3 m från släntkrön"
+A,Framtid,Kombinerad,"1,41",">1,4 Ok","last 20 kPa, 3 m från från
+släntkrön"
+A,Framtid,Odränerad,"1,51",">1,5 Ok","Fördjupning av diket med 0,5
+m, last 20 kPa 3 m från
+släntkrön"
+A,Framtid,Kombinerad,"1,15","<1,4 Ej
+Ok","Fördjupning av diket med 0,5
+m, last 20 kPa 3 m från
+släntkrön"
+A,Framtid,Kombinerad,,">1,4 Ok","Åtgärd släntlutning 1:2 samt
+last 20 kPa 3 m från släntkrön"

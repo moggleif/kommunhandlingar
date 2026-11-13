@@ -1,0 +1,26 @@
+Typ av yta,Area [ha],,φ [-],"Red.area
+[ha]"
+Delområde A1 e.e.,,,,
+Grönområde,,,0.1,0
+Villaområde,1.12,11200,0.35,0.392
+Asfalt,0.28,2800,0.8,0.224
+Tak,,,0.9,0
+Summa,1.4,,,0.616
+Delområde A2 e.e.,,,,
+Grönområde,,0,0.1,0
+Villaområde,5.8,58000,0.37,2.146
+Asfalt,,,0.8,0
+Tak,,,0.9,0
+Summa,5.8,,,2.146
+Delområde A3 e.e.,,,,
+Grönområde,,0,0.1,0
+Villaområde,4.2,42000,0.37,1.554
+Asfalt,,,0.8,0
+Tak,,,0.9,0
+Summa,4.2,,,1.554
+Delområde A4 e.e.,,,,
+Grönområde,,0,0.1,0
+Villaområde,5.7,57000,0.37,2.109
+Asfalt,,,0.8,0
+Tak,,,0.9,0
+Summa,5.7,,,2.109

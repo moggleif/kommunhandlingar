@@ -1,0 +1,11 @@
+Djup,Material,"c
+ud","c´
+d","´
+d","
+d"
+0-2,Torrskorpa (Let),20 kPa,"2,3 kPa","23,9°",18/8 kN/m3
+2-5,Lera 1 (L2#1),"10,7 kPa","1,2 kPa","23,9°",16/6 kN/m3
+5-,Lera 2 (Le#2),"10,7+(1,1*z) kPa
+z=0 på 5 m djup","1,2+(0,1*z) kPa
+z=0 på 5 m djup","23,9°",16/6 kN/m3
+Varierar,Friktionsjord (Fr),-,-,"28,3°",18/10 kN/m3

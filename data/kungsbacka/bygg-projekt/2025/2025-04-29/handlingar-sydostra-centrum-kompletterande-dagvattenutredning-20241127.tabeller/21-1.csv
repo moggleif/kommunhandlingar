@@ -1,0 +1,21 @@
+Planerad situation Planområdet φ,,
+Asfalt,"0,940","0,85"
+Grönyta,"0,647","0,10"
+Gårdsyta inom kvarter,"1,23","0,45"
+Lokalgata,"0,472","0,70"
+Parkmark,"0,570","0,10"
+Takyta,"1,82","0,90"
+Väg,"2,26","0,85"
+Totalt [ha],"7,94",-
+"t [min]
+r",10,-
+"φ [-]
+S","0,58",-
+"A [ha]
+red","4,3",-
+"Q , 10-årsregn med kf [l/s]
+dim",1 500,-
+"Q , 30-årsregn med kf [l/s]
+dim",2 100,-
+"Q , 100-årsregn med kf [l/s]*
+dim",3 900,-
