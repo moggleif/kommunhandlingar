@@ -1,11 +1,11 @@
-"""Krav: K11, K15, K17 och K34 i docs/02-KRAV.md, ADR-0006, ADR-0017, ADR-0022
+"""Krav: K6, K11, K15, K17 och K34 i docs/02-KRAV.md, ADR-0006, ADR-0017, ADR-0022
 och ADR-0055. Test: tests/test_datakontroll.py och tests/test_granskning.py.
 
 `python -m kommunhandlingar.datakontroll <data>` prövar varje fil under
 `data/` mot schemat i docs/03-ARKITEKTUR.md: front matter, sökvägen,
-tabellkatalogerna, att inga temporära filer finns kvar och att inga
-personuppgifter står omaskade. Varje fel skrivs ut, och kommandot avslutas
-med fel om något hittades.
+tabellkatalogerna, att inga temporära filer finns kvar, att inga
+personuppgifter står omaskade och att inga styrtecken står i texten.
+Varje fel skrivs ut, och kommandot avslutas med fel om något hittades.
 """
 
 import re
@@ -16,6 +16,7 @@ from kommunhandlingar import datakontroll_tolkning, frontmatter
 from kommunhandlingar.datakontroll_tabeller import tabellfel
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konvertering.kvalitet import KVALITETER, SIDKVALITETER
+from kommunhandlingar.konvertering.las_sida import STYRTECKEN
 from kommunhandlingar.personuppgifter import maskad_md, maskade_celler
 
 ALLTID = ("kommun", "organ", "datum", "typ", "kallnyckel", "kalla_url")
@@ -39,7 +40,7 @@ def fel_i(data: Path) -> list[str]:
 def filfel(data: Path, fil: Path) -> list[str]:
     if fil.suffix == ".md" and fil.parent != data:
         text = fil.read_text(encoding="utf-8")
-        fel = dokumentfel(fil.relative_to(data), text)
+        fel = dokumentfel(fil.relative_to(data), text) + styrteckenfel(text)
         return fel + personuppgiftsfel(maskad_md(text) != text)
     if fil.parent.suffix == ".tabeller":
         # En CSV med formfel går kanske inte att läsa; formfelen rättas först.
@@ -48,8 +49,14 @@ def filfel(data: Path, fil: Path) -> list[str]:
 
 
 def tabellens_personuppgifter(fil: Path) -> list[str]:
-    celler = maskade_celler(fil.read_text(encoding="utf-8"))
-    return personuppgiftsfel(celler is not None)
+    text = fil.read_text(encoding="utf-8")
+    fel = personuppgiftsfel(maskade_celler(text) is not None)
+    return fel + styrteckenfel(text)
+
+
+def styrteckenfel(text: str) -> list[str]:
+    """Ett styrtecken ska vara `�` (#257); NUL gör filen binär för git."""
+    return ["styrtecken i texten"] if STYRTECKEN.search(text) else []
 
 
 def personuppgiftsfel(finns: bool) -> list[str]:

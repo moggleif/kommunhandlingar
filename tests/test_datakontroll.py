@@ -140,6 +140,18 @@ class TestTabellkontroll(Pool):
         md.write_text(md.read_text(encoding="utf-8") + "Sökanden 121212-1212\n")
         self.assertEqual(self.fel(), [f"{DOKUMENT}: {PERSONUPPGIFTER}"])
 
+    def test_styrtecken_i_texten_och_tabellen(self):
+        md = self.data / DOKUMENT
+        md.write_text(md.read_text(encoding="utf-8") + "\x00 Fönster\n")
+        (self.katalog / "2-1.csv").write_text("Roll,Antal\nLedamot\x02,3\n")
+        self.assertEqual(
+            self.fel(),
+            [
+                f"{DOKUMENT}: styrtecken i texten",
+                f"{self.relativ}/2-1.csv: styrtecken i texten",
+            ],
+        )
+
     def test_namn(self):
         namn = (
             "<sida>-<nr>.csv, <sida>-<sista sida>-<nr>.csv eller <sida>-<nr>.tolkad.csv"

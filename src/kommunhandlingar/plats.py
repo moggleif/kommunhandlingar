@@ -44,13 +44,23 @@ def namn_av(text: str) -> str:
     return text
 
 
-def ledigt_namn(onskat: str, upptagen) -> str:
+def ledigt_namn(onskat: str, upptagen, bas: str = "") -> str:
+    """Det önskade namnet, annars ett löpnummer, efter `bas` när
+    adaptern gett ett namn (ADR-0068), så att projektet står kvar."""
     if onskat and not upptagen(onskat):
         return onskat
     nummer = 2
-    while upptagen(str(nummer)):
+    while upptagen(lopnamn(bas, nummer)):
         nummer += 1
-    return str(nummer)
+    return lopnamn(bas, nummer)
+
+
+def ledigt_for(kandidat: Kandidat, upptagen) -> str:
+    return ledigt_namn(onskat_namn(kandidat), upptagen, kandidat.namn)
+
+
+def lopnamn(bas: str, nummer: int) -> str:
+    return f"{bas}-{nummer}" if bas else str(nummer)
 
 
 def grundplats(kandidat: Kandidat) -> Plats:

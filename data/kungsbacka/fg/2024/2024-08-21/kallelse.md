@@ -3808,20 +3808,20 @@ e Tidig schemaläggning för att kunna arbeta fram bra lösningar.
 KUNGSBACKA  KOMMUN
 
 3 (3)
-  Kommunicera vart man kan be om hjälp om man känner oro.
-  Uppmuntra till social samvaro.
-  Erbjuda hjälp i att prioritera i sitt uppdrag.
+�  Kommunicera vart man kan be om hjälp om man känner oro.
+�  Uppmuntra till social samvaro.
+�  Erbjuda hjälp i att prioritera i sitt uppdrag.
 
 2\. När ska åtgärderna vara genomförda?
-  Kommunicera organisationen tydligt till samtliga medarbetare, var alla ska vara. – vt 24 påbörjad
+�  Kommunicera organisationen tydligt till samtliga medarbetare, var alla ska vara. – vt 24 påbörjad
 
-  Tidig schemaläggning för att kunna arbeta fram bra lösningar. – vt 24 påbörjad
-  Kommunicera vart man kan be om hjälp om man känner oro. – vt 24 samt ht 24 planerad
-  Uppmuntra till social samvaro. - vt 24 samt ht 24 påbörjad
-  Erbjuda hjälp i att prioritera i sitt uppdrag. - vt 24 samt ht 24 pågående
+�  Tidig schemaläggning för att kunna arbeta fram bra lösningar. – vt 24 påbörjad
+�  Kommunicera vart man kan be om hjälp om man känner oro. – vt 24 samt ht 24 planerad
+�  Uppmuntra till social samvaro. - vt 24 samt ht 24 påbörjad
+�  Erbjuda hjälp i att prioritera i sitt uppdrag. - vt 24 samt ht 24 pågående
 
 3\. Vem ser till att åtgärderna genomförs?
-  Rektorerna på Presseskolan
+�  Rektorerna på Presseskolan
 
 Beskrivning
 

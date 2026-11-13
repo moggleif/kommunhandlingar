@@ -10043,7 +10043,7 @@ inom ett område där Kommunen ska växa och utvecklas i syfte att effektivisera
 samt i nära anslutning till kollektivtrafik vilket innebär att en utveckling av marken inte skulle belasta vägnätet mer än hur det är i dagsläget.
 
 Att Kommunen har en uttalad restriktiv inställning till nybyggnation i området framgår av bostadspolitikens styrdokument
-Bostadsförsörjningsprogrammet 20192025, i vilket det är uttalat att 15 bostäder per år kan byggas i området som benämns som kollektivtrafiknära lägen
+�Bostadsförsörjningsprogrammet� 2019�2025, i vilket det är uttalat att 15 bostäder per år kan byggas i området som benämns som kollektivtrafiknära lägen
 i Onsala. Detta för att inte belasta vägnätet innan beslut om den nya Onsalavägen har fattats. Vi vill dock framföra att detta restriktiva beslut rörande
 nybyggnation inte stämmer överens med den bostadsplanering som bland annat pågår i Gottskär längst ut i Onsala där avsikten är att upprätta 50st
 bostäder. Med bakgrund av utveckling i bland annat Gottskär och den påverkan på trafiknätet som det kommer att ha, anser vi att en utveckling av

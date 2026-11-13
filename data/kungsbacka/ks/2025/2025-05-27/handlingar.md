@@ -3023,7 +3023,7 @@ Internpriser
 
 | Uppräkning i<br>Tjänst Prismodell procent |  |  |
 | --- | --- | --- |
-| Hyror | Hyra per lokaler enligt hyresmodell<br>som beslutats i KF § 154/14 Dnr<br>2014–247. Beräkning av hyror görs<br>med internränta 2,5% som<br>utgångspunkt. | 3,1 procent |
+| Hyror | Hyra per lokaler enligt hyresmodell<br>som beslu�tats i KF § 154/14 Dnr<br>2014–247. Beräkning av hyror görs<br>med internränta 2,5% som<br>utgångs�punkt. | 3,1 procent |
 | Måltider | Livsmedel plus övriga tillägg<br>Alliansen, 3 mnkr | 3,1 procent |
 | Lokalvård | Pris per timma | 3,1 procent |
 | Lönehantering | Pris per lönespecifikation | 3,1 procent |

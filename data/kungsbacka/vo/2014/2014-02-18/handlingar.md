@@ -3533,11 +3533,11 @@ tomten B
 
 hede broväg
 
-00 p-platser
+�00 p-platser
 
 tomten D tomten C
 m m m
-+4 m +4,5 m 0 50 0
++4 m +4,5 m �0 50 �0
 Arendalsleden
 tomten E
 +4,5 m
@@ -3555,7 +3555,7 @@ de åtgärder krävs, se geoteknisk utredning.
 område lämpligt för parkering med mera.
 område lämpligt endast för väg på grund av
 räddningstjänstens krav. gäller den helröda
-0 m-zonen.
+�0 m-zonen.
 
 gång- och cykelväg eller gångväg
 norra rondellen byggs i samband
@@ -3958,7 +3958,7 @@ Ivllyu sat r-a Atiroenn fdraålns vpälagnepnr oögsrtaemrumtet. Vy Arendalsväg
 
 vy b - göteborgsvägen norrut
 
-1
+1�
 
 <!-- sida 93 -->
 

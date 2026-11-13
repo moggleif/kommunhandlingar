@@ -58,7 +58,7 @@ sökvägen.
   har hundratals projektfiler att ta in.
 * **Källan** är ett nytt fält i Sitevision-källan, `projekt`: organet och
   adressen till listan. Listans bläddringssidor (samma adress med en
-  enda parameter vars värde är ett tal) följs, men inte filtren, som
+  enda parameter vars värde är ett tal från 2) följs, men inte filtren, som
   `robots.txt` stänger. Varje länk en nivå under listan är ett projekt.
 * **Typen** är alltid `handlingar`.
 * **Datumet** är dagen filen lades upp, i svensk tid, ur tidsstämpeln i
@@ -88,7 +88,8 @@ sökvägen.
 * Bad, eftersom datumet är när filen lades upp, inte när något beslutades.
   Det säger när kommunen publicerade, och det är det som går att belägga.
 * Bad, eftersom ett långt projektnamn kan korta bort filnamnet (80 tecken).
-  Två filer i samma projekt samma dag kan då få löpnummer som namn.
+  Två filer i samma projekt samma dag får då ett löpnummer efter namnet,
+  `<namn>-2`, så att projektet står kvar.
 * Bad, eftersom upptäckten varje natt hämtar listan och alla
   projektsidor, cirka 155 sidor med 5 sekunder emellan, ungefär 13 minuter
   av tidsbudgeten.
