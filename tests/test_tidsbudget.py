@@ -130,7 +130,7 @@ class TestDokumentetsGrans(unittest.TestCase):
             kandidat("s:2", "u2", "kallelse", "2.pdf"),
         ]
 
-    def kor(self):
+    def kor(self, version: str = "kommunhandlingar 0.1.0"):
         steg = Steg2(
             self.data,
             "exempelby",
@@ -138,7 +138,8 @@ class TestDokumentetsGrans(unittest.TestCase):
             self.klient,
             frozenset(k.kallnyckel for k in self.kandidater),
             lambda: TID,
-            "kommunhandlingar 0.1.0",
+            version,
+            omkonvertera=True,
         )
         return kor(steg, self.kandidater, TID + timedelta(hours=1))
 
@@ -175,6 +176,19 @@ class TestDokumentetsGrans(unittest.TestCase):
             self.kor()
         self.assertEqual(self.kor(), {"oförändrad": 2})
 
+    def test_en_omkonvertering_vid_gransen_lamnar_texten_orord(self):
+        self.kor()
+        md = self.data / "exempelby/ks/2025/2025-04-22/protokoll.md"
+        fore = md.read_text(encoding="utf-8")
+        with mock.patch(
+            "kommunhandlingar.konvertering.dokument.las_sidor",
+            side_effect=Dokumentgrans,
+        ):
+            utfall = self.kor("kommunhandlingar 0.2.0")
+        orord = "ej konverterad (tidsgrans), fullständig .md orörd"
+        self.assertEqual(utfall, {orord: 2})
+        self.assertEqual(md.read_text(encoding="utf-8"), fore)
+
 
 class TestHogst(unittest.TestCase):
     def setUp(self):
@@ -189,12 +203,20 @@ class TestHogst(unittest.TestCase):
         self.assertEqual(signal.getsignal(signal.SIGALRM), avbryt)
 
     def test_den_harda_gransen_stalls_tillbaka(self):
-        signal.alarm(3600)
+        signal.setitimer(signal.ITIMER_REAL, 3600)
         with tidsbudget.hogst(60):
-            kvar = signal.alarm(0)
-            signal.alarm(kvar)
-            self.assertEqual(kvar, 60)
-        self.assertGreaterEqual(signal.alarm(0), 3599)
+            self.assertAlmostEqual(signal.getitimer(signal.ITIMER_REAL)[0], 60, 2)
+            time.sleep(0.5)
+        kvar = signal.getitimer(signal.ITIMER_REAL)[0]
+        self.assertAlmostEqual(kvar, 3599.5, delta=0.2)
+
+    def test_korta_konverteringar_drar_av_sin_tid(self):
+        signal.setitimer(signal.ITIMER_REAL, 3600)
+        for _ in range(10):
+            with tidsbudget.hogst(60):
+                time.sleep(0.1)
+        kvar = signal.getitimer(signal.ITIMER_REAL)[0]
+        self.assertAlmostEqual(kvar, 3599, delta=0.2)
 
     def test_den_harda_gransen_gar_fore(self):
         signal.alarm(30)

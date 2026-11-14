@@ -1,6 +1,8 @@
 """Krav: K4, K6, K8, K9, K16, K23, K30, K34, K48 och K52 i docs/02-KRAV.md,
-ADR-0003, 0004, 0018, 0019, 0039, 0048, 0055, 0071, 0075 och 0076. Test i tests/:
-test_hamta*.py, test_omkonvertering.py, test_plattformar.py och test_granskning.py.
+ADR-0003, ADR-0004, ADR-0018, ADR-0019, ADR-0039, ADR-0048, ADR-0055, ADR-0071,
+ADR-0075 och ADR-0076. Test i tests/: test_hamta.py, test_hamta_arkiv.py,
+test_omkonvertering.py, test_plattformar.py, test_granskning.py och
+test_tidsbudget.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta, konvertera
 och skriv. Ett misslyckat försök skriver aldrig över en fullständig `.md`. En
@@ -29,7 +31,7 @@ from kommunhandlingar.arkivluckor import (
 )
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
-from kommunhandlingar.konvertering.dokument import Resultat, konvertera, versioner
+from kommunhandlingar.konvertering.dokument import Resultat, konvertera, kvalitetsfalt
 from kommunhandlingar.plats import grundplats, ledigt_for
 from kommunhandlingar.pool import Pool
 from kommunhandlingar.tidsbudget import utan_avbrott
@@ -154,9 +156,11 @@ def hamtad_fil(
     resultat = (
         Resultat("ej-konverterad", hamtat.fel) if hamtat.fel else konvertera(hamtat.pdf)
     )
+    if resultat.fel == tidsbudget.FEL and gammal and har_text(gammal):
+        return f"ej konverterad ({tidsbudget.FEL}), fullständig .md orörd"
     if steg.arkiv and forlorar(gammal, dokument.kandidat, resultat.kvalitet):
         return behall(steg, dokument)
-    falt = grundfalt(steg, dokument) | kvalitetsfalt(steg, resultat)
+    falt = grundfalt(steg, dokument) | kvalitetsfalt(steg.version, resultat)
     falt |= {"sha256": hamtat.sha256, "bytes": hamtat.bytes}
     falt |= {"hamtad": hamtad.isoformat(), "konverterad": steg.tid().isoformat()}
     kropp = skrivning.kropp(steg.data / dokument.sokvag, resultat.sidor)
@@ -168,24 +172,15 @@ def hamtad_fil(
     return "konverterad om" if samma_fil else "konverterad"
 
 
+def har_text(falt: dict[str, str]) -> bool:
+    return falt["kvalitet"] not in ("ej-hamtad", "ej-konverterad")
+
+
 def samma_original(gammal: dict | None, kandidat: Kandidat, sha256) -> bool:
     """Ett granskat dokument behåller sin text också under en ny källnyckel."""
     if gammal is None or gammal["sha256"] != frontmatter.varde_av(sha256):
         return False
     return gammal["kallnyckel"] == kandidat.kallnyckel or gammal["granskad"] != "null"
-
-
-def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
-    return {
-        "sidor": len(resultat.sidor) if resultat.sidor else None,
-        "pipeline": " / ".join([steg.version, *versioner(resultat)]),
-        "kvalitet": resultat.kvalitet,
-        "fel": resultat.fel,
-        "kvalitet_per_sida": resultat.kvalitet_per_sida,
-        "tal_obekraftade": resultat.tal_obekraftade,
-        "figurer": resultat.figurer,
-        "tolkade": None if resultat.figurer is None else [],
-    }
 
 
 def ny_adress(steg: Steg2, dokument: Dokument) -> str:

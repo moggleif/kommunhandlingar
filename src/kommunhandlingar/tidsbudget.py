@@ -67,19 +67,19 @@ def utan_avbrott():
 @contextmanager
 def hogst(sekunder: int):
     """Larmet för den hårda gränsen står kvar när det kommer först, och
-    ställs annars tillbaka efteråt."""
-    kvar = signal.alarm(0)
+    ställs annars tillbaka efteråt, räknat på bråkdelar av sekunder."""
+    kvar = signal.getitimer(signal.ITIMER_REAL)[0]
     if kvar and kvar <= sekunder:
-        signal.alarm(kvar)
         yield
         return
-    borjan = time.monotonic()
+    slut = time.monotonic() + kvar
     tidigare = signal.signal(signal.SIGALRM, avbryt_dokumentet)
-    signal.alarm(sekunder)
+    signal.setitimer(signal.ITIMER_REAL, sekunder)
     try:
         yield
     finally:
-        signal.alarm(0)
+        with utan_avbrott():
+            signal.setitimer(signal.ITIMER_REAL, 0)
         signal.signal(signal.SIGALRM, tidigare)
         if kvar:
-            signal.alarm(max(1, kvar - int(time.monotonic() - borjan)))
+            signal.setitimer(signal.ITIMER_REAL, max(0.001, slut - time.monotonic()))

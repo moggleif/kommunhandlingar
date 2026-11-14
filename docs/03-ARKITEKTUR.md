@@ -127,9 +127,10 @@ två startas står i K11.
   konverteringen mer än 30 minuter avbryts den, och dokumentet skrivs som
   `ej-konverterad` med `fel: tidsgrans` innan körningen tar nästa
   kandidat (K52,
-  [ADR-0075](decisions/0075-ett-dokument-far-en-egen-tidsgrans.md)).
-  Kommer den hårda gränsen först går den före. Resten av tiden fram till Actions gräns på 6 timmar per
-  jobb är till för kontrollerna och pushen. Budgeten är vår egen och följer
+  [ADR-0075](decisions/0075-ett-dokument-far-en-egen-tidsgrans.md)). En
+  omkonvertering som når gränsen lämnar ett dokument med text orört.
+  Kommer den hårda gränsen först går den före. Resten av tiden fram till
+  Actions gräns på 6 timmar per jobb är till för kontrollerna och pushen. Budgeten är vår egen och följer
   GitHubs gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
 - **Datakontrollerna körs innan något pushas**, och sedan att bara filer
@@ -671,15 +672,15 @@ inom hakparenteser på samma rad, som i exemplet.
 | `kalla_url`            | Adressen originalet hämtades från, eller försöktes hämtas från; för ett dokument i delar en lista med delarnas adresser i ordning (ADR-0049). | aldrig |
 | `sha256`               | Originalets sha256; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
 | `bytes`                | Originalets storlek i byte; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
-| `sidor`                | Originalets antal sidor.                                     | `ej-hamtad`, eller filen gick inte att öppna |
+| `sidor`                | Originalets antal sidor.                                     | `ej-hamtad`, filen gick inte att öppna, eller `fel: tidsgrans` |
 | `hamtad`               | Tiden för hämtningen; för `ej-hamtad` det första misslyckade försöket. | aldrig |
 | `konverterad`          | Tiden för konverteringen.                                    | `ej-hamtad` |
 | `pipeline`             | Poolens version och verktygen som läste dokumentet (nedan).  | aldrig |
 | `kvalitet`             | Dokumentets kvalitet (nedan).                                | aldrig |
-| `fel`                  | Kort orsakskod, till exempel `http-404`, `kapad` eller `krypterad`. | originalet hämtades och gick att öppna |
-| `kvalitet_per_sida`    | Varje sidas kvalitet, i sidordning (nedan).                  | `ej-hamtad`, eller filen gick inte att öppna |
-| `tal_obekraftade`      | Sidor vars tal inte är bekräftade (nedan); `[]` när alla är det. | `ej-hamtad`, eller filen gick inte att öppna |
-| `figurer`              | Sidor som kan ha en figur ([Figurer](#figurer)); `[]` när inga. | `ej-hamtad`, filen gick inte att öppna, eller dokumentet konverterades före version 0.3.0 |
+| `fel`                  | Kort orsakskod, till exempel `http-404`, `kapad` eller `krypterad`. | originalet hämtades, gick att öppna och blev konverterat inom tidsgränsen |
+| `kvalitet_per_sida`    | Varje sidas kvalitet, i sidordning (nedan).                  | `ej-hamtad`, filen gick inte att öppna, eller `fel: tidsgrans` |
+| `tal_obekraftade`      | Sidor vars tal inte är bekräftade (nedan); `[]` när alla är det. | `ej-hamtad`, filen gick inte att öppna, eller `fel: tidsgrans` |
+| `figurer`              | Sidor som kan ha en figur ([Figurer](#figurer)); `[]` när inga. | `ej-hamtad`, filen gick inte att öppna, `fel: tidsgrans`, eller dokumentet konverterades före version 0.3.0 |
 | `tolkade`              | Sidor som har tolkats ([Tolkade figurer](#tolkade-figurer)); `[]` när inga. | när `figurer` är `null` |
 | `granskad`             | Dagen dokumentet granskades för hand, `ÅÅÅÅ-MM-DD` ([Granskade dokument](#granskade-dokument)). | dokumentet inte är granskat, och alltid för `ej-hamtad` |
 

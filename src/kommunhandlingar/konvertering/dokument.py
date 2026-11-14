@@ -45,6 +45,19 @@ class Resultat:
         return [nr for nr, s in enumerate(self.sidor, 1) if s.figur]
 
 
+def kvalitetsfalt(poolens_version: str, resultat: Resultat) -> dict:
+    return {
+        "sidor": len(resultat.sidor) if resultat.sidor else None,
+        "pipeline": " / ".join([poolens_version, *versioner(resultat)]),
+        "kvalitet": resultat.kvalitet,
+        "fel": resultat.fel,
+        "kvalitet_per_sida": resultat.kvalitet_per_sida,
+        "tal_obekraftade": resultat.tal_obekraftade,
+        "figurer": resultat.figurer,
+        "tolkade": None if resultat.figurer is None else [],
+    }
+
+
 def versioner(resultat: Resultat) -> list[str]:
     lasta = [f"{namn} {version(namn)}" for namn in VERKTYG]
     kvaliteter = set(resultat.kvalitet_per_sida or [])

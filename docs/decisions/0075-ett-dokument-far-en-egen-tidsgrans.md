@@ -64,6 +64,10 @@ dokument som tar för lång tid, inte bara det här.
   (ADR-0004), så med samma `kalla_url` är det oförändrat. Med
   omkonverteringen påslagen prövas det igen när poolens version är en
   annan (ADR-0019), och med ny `kalla_url` som en ny version (K9).
+* **En omkonvertering som når gränsen** lämnar ett dokument som har text
+  orört; bara ett nytt dokument, ett `ej-hamtad` eller ett
+  `ej-konverterad` skrivs som `fel: tidsgrans`. Annars kunde en
+  långsammare runner ta bort text som en tidigare version läste.
 * **Budgetens hårda gräns går före.** Kommer den före dokumentets 30
   minuter läggs dokumentet åt sidan som förut (K11), utan att något
   skrivs. Annars ställs larmet om till den hårda gränsen när
@@ -86,6 +90,11 @@ dokument som tar för lång tid, inte bara det här.
   kan bli klart på en snabbare runner. Med 30 minuter mot 19 för det
   längsta hittills är marginalen liten men tydlig; ett vanligt dokument
   som når gränsen syns som `fel: tidsgrans` och kan prövas igen.
+* Dåligt, eftersom larmet bara bryter mellan Pythons instruktioner: ett
+  enskilt anrop i C som aldrig blir klart, eller en sida som tar slut på
+  minnet, stoppas inte av gränsen. Taket i #275 hjälper mot det senare.
+* Neutralt, eftersom gränsen gäller varje anrop till `konvertera`, också
+  facit (K20), där inget dokument kommer nära den.
 * Neutralt, eftersom en omkonvertering vid varje ny version prövar
   dokumentet igen och kostar 30 minuter av den natten.
 
@@ -94,8 +103,9 @@ dokument som tar för lång tid, inte bara det här.
 Tester i `tests/test_tidsbudget.py`: en konvertering som når dokumentets
 gräns skrivs som `ej-konverterad` med `fel: tidsgrans` och klarar
 datakontrollerna, nästa kandidat tas, nästa körning räknar dokumentet som
-oförändrat, och larmet för den hårda gränsen ställs tillbaka efter
-konverteringen eller går före när det kommer först.
+oförändrat, en omkonvertering vid gränsen lämnar texten orörd, och larmet
+för den hårda gränsen ställs tillbaka efter konverteringen, minus tiden den
+tog också när den är kort, eller går före när det kommer först.
 
 ## Pros and Cons of the Options
 
