@@ -1,15 +1,14 @@
-"""Krav: K4, K6, K8, K9, K16, K23, K30, K34 och K48 i docs/02-KRAV.md, ADR-0003,
-ADR-0004, ADR-0018, ADR-0019, ADR-0039, ADR-0048, ADR-0055 och ADR-0071. Test i tests/:
-test_hamta.py, test_omkonvertering.py, test_plattformar.py och test_granskning.py.
+"""Krav: K4, K6, K8, K9, K16, K23, K30, K34, K48 och K52 i docs/02-KRAV.md,
+ADR-0003, 0004, 0018, 0019, 0039, 0048, 0055, 0071, 0075 och 0076. Test i tests/:
+test_hamta*.py, test_omkonvertering.py, test_plattformar.py och test_granskning.py.
 
-Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
-konvertera och skriv. Ett misslyckat försök skriver aldrig över en
-fullständig `.md`. En kandidat ur ett arkiv fyller bara luckor, så att en
-äldre kopia aldrig ersätter ett dokument i poolen; har sammanträdet typen
-från en annan plattform står den med högst kvalitet kvar. Med omkonverteringen
-påslagen räknas ett dokument från en annan version av poolen inte som
-befintligt, utom när det är granskat för hand. Skrivningen avbryts aldrig av
-tidsgränsen (K11).
+Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta, konvertera
+och skriv. Ett misslyckat försök skriver aldrig över en fullständig `.md`. En
+kandidat ur ett arkiv fyller bara luckor, så att en äldre kopia aldrig ersätter
+ett dokument i poolen; har sammanträdet typen från en annan plattform står den
+med högst kvalitet kvar. Med omkonverteringen påslagen räknas ett dokument från
+en annan version av poolen, också i arkivet, inte som befintligt, utom när det
+är granskat för hand. Skrivningen avbryts aldrig av tidsgränsen (K11).
 """
 
 import tempfile
@@ -18,7 +17,7 @@ from dataclasses import dataclass, replace
 from datetime import datetime
 from pathlib import Path, PurePosixPath
 
-from kommunhandlingar import frontmatter, original, skrivning
+from kommunhandlingar import frontmatter, original, skrivning, tidsbudget
 from kommunhandlingar.arenden import arenden
 from kommunhandlingar.arkivluckor import (
     forlorar,
@@ -70,7 +69,7 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
     else:
         dokument = Dokument(kandidat, sokvag, steg.pool.efter_sokvag[sokvag])
     gammal = dokument.befintlig
-    luckor = steg.arkiv and not rival
+    luckor = steg.arkiv and not rival and not bara_omkonvertering(steg, kandidat)
     if luckor and ingen_lucka(steg.pool, steg.kommun, kandidat, gammal):
         return "finns redan; arkivet fyller bara luckor"
     if sokvag and samma_kalla(gammal, kandidat) and aktuell(steg, gammal):
@@ -164,6 +163,8 @@ def hamtad_fil(
     falt["arenden"] = arenden(falt["typ"], kropp)
     text = frontmatter.skriv(falt) + kropp
     spara(steg, dokument.sokvag, text, skrivning.tabellfiler(resultat.sidor or []))
+    if resultat.fel == tidsbudget.FEL:
+        return f"ej konverterad ({tidsbudget.FEL})"
     return "konverterad om" if samma_fil else "konverterad"
 
 

@@ -1,7 +1,9 @@
-"""Krav: K4–K6, ADR-0005 och ADR-0009. Test: tests/test_konvertering.py.
+"""Krav: K4–K6 och K52, ADR-0005, ADR-0009 och ADR-0075.
+Test: tests/test_konvertering.py och tests/test_tidsbudget.py.
 
 Läser en PDF sida för sida och ger Markdown-texten, tabellerna som CSV och
-kvaliteten per sida och för dokumentet.
+kvaliteten per sida och för dokumentet. Blir läsningen inte klar inom
+dokumentets tidsgräns är dokumentet `ej-konverterad` med `fel: tidsgrans`.
 """
 
 import sys
@@ -12,6 +14,7 @@ from pathlib import Path
 import pdfplumber
 import pypdfium2 as pdfium
 
+from kommunhandlingar import tidsbudget
 from kommunhandlingar.konvertering import kvalitet, ocr
 from kommunhandlingar.konvertering.las_sida import Sida, las_sida
 
@@ -59,7 +62,10 @@ def konvertera(pdf: Path) -> Resultat:
     if PDF_BORJAN not in borjan:
         return Resultat("ej-konverterad", "inte-pdf")
     try:
-        sidor = las_sidor(pdf)
+        with tidsbudget.hogst(tidsbudget.DOKUMENT):
+            sidor = las_sidor(pdf)
+    except tidsbudget.Dokumentgrans:
+        return Resultat("ej-konverterad", tidsbudget.FEL)
     except pdfium.PdfiumError as fel:
         return Resultat("ej-konverterad", oppningsfel(fel))
     except Exception as fel:

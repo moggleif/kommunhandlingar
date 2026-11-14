@@ -1698,7 +1698,8 @@ och [Körning och incheckning](03-ARKITEKTUR.md#körning-och-incheckning).
 - **Givet** ett dokument vars konvertering inte är klar efter 30 minuter
 - **När** gränsen nås, före budgetens hårda gräns (K11)
 - **Så** avbryts konverteringen, dokumentet skrivs som `ej-konverterad`
-  med `fel: tidsgrans`, och körningen går vidare till nästa kandidat.
+  med `fel: tidsgrans`, sammanfattningen visar adressen, och körningen går
+  vidare till nästa kandidat.
 - **Givet** ett dokument med `fel: tidsgrans` och samma `kalla_url` som
   kandidaten
 - **När** en senare körning når kandidaten

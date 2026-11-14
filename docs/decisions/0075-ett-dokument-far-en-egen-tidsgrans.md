@@ -69,8 +69,9 @@ dokument som tar för lång tid, inte bara det här.
   skrivs. Annars ställs larmet om till den hårda gränsen när
   konverteringen är klar.
 * **Ett larm.** Dokumentets gräns använder samma `SIGALRM` som den hårda
-  gränsen, med ett eget undantag (`Dokumentgrans`), så att steg 2 kan
-  skilja de två åt.
+  gränsen, med ett eget undantag (`Dokumentgrans`) som konverteringen
+  fångar, medan den hårda gränsens undantag går vidare till steg 2 som
+  förut.
 
 ### Consequences
 

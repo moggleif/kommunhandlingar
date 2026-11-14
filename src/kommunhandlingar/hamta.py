@@ -60,7 +60,7 @@ def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
             utfall["väntar på nästa körning"] += len(kandidater) - nr - 1
             break
         utfall[resultat] += 1
-        if resultat.startswith("ej hämtad"):
+        if resultat.startswith(("ej hämtad", "ej konverterad")):
             print(f"{resultat}: {kandidat.url}", flush=True)
     return utfall
 
