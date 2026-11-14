@@ -1694,9 +1694,10 @@ och [Versionsloggen](03-ARKITEKTUR.md#versionsloggen).
 
 - **Givet** en schemalagd eller manuell körning
 - **När** den startar
-- **Så** hämtas kommunernas levande källor först, i en egen del som checkar
-  in på en egen gren och öppnar en egen PR när den är klar, utan att vänta
-  på arkivet; arkivet körs sedan ovanpå den grenen, med en egen gren och PR.
+- **Så** hämtas det nya och ändrade i kommunernas levande källor först, i en
+  egen del som checkar in på en egen gren och öppnar en egen PR när den är
+  klar, utan att vänta på omkonverteringen eller arkivet; de körs sedan
+  ovanpå den grenen, med en egen gren och PR.
 - **Givet** att den första delen faller
 - **När** körningen fortsätter
 - **Så** körs arkivet ändå, från `main`.

@@ -110,10 +110,13 @@ två startas står i K11.
   startar schemat två körningar om dygnet; den andra raden i `cron` tas
   bort när arkivet är ikapp (ADR-0061). Körningen har två jobb
   ([ADR-0077](decisions/0077-motessidorna-forst-och-en-versionslogg.md)):
-  `moten` kör upptäckten och steg 2 för varje kommunfil i `kommuner/`,
-  och checkar in; `arkiv` startar när det är klart, från dess gren eller,
-  utan gren eller om `moten` föll, från `main`, och kör detsamma med
-  `--arkiv`. Varje jobb checkar in och får sin PR för sig.
+  `moten` kör upptäckten och steg 2 för varje kommunfil i `kommuner/`
+  utan omkonvertering (`--utan-omkonvertering`), och checkar in; `arkiv`
+  startar när det är klart, från dess gren eller, utan gren eller om
+  `moten` föll, från `main`. Det gör upptäckten om och kör steg 2, som då
+  bara har omkonverteringen kvar, och sedan detsamma med `--arkiv`. Går
+  upptäckten inte där väntar omkonverteringen till nästa körning. Varje
+  jobb checkar in och får sin PR för sig.
   Stoppas upptäckten i en kommuns levande källor av en källsida (kod 3)
   hoppar jobbet över kommunens levande steg 2, skriver det i
   sammanfattningen och går vidare (ADR-0061); upptäckten skriver inget i

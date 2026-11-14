@@ -1,0 +1,35 @@
+# PR:en från en av nattkörningens grenar, med automatisk merge (ADR-0052).
+# Ett eget jobb på en ny runner, utan utcheckning, så att inget som hämtats
+# kan nå token; båda nattkörningens jobb anropar det (ADR-0077).
+name: Nattkörningens PR
+
+on:
+  workflow_call:
+    inputs:
+      gren:
+        type: string
+        required: true
+    secrets:
+      NATTKORNING_TOKEN:
+        required: false
+
+permissions: {}
+
+jobs:
+  pr:
+    name: PR med automatisk merge
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.NATTKORNING_TOKEN }}
+          GREN: ${{ inputs.gren }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Datat ligger på grenen \`$GREN\`; öppna en PR därifrån (ADR-0015)." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$GREN" \
+            --title "Nattkörning ${GREN:12:10}, ${GREN##*-}" \
+            --body "Datat från nattkörningen; mergas när kontrollen gått igenom (ADR-0052)."
+          gh pr merge "$GREN" --repo "$GITHUB_REPOSITORY" --auto --merge
+          echo "PR från \`$GREN\` mergas när kontrollen gått igenom (ADR-0052)." >> "$GITHUB_STEP_SUMMARY"
