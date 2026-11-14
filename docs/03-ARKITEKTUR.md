@@ -288,6 +288,7 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | `organ.hor_till`       | Id för organet det här är utskott till, så att de får samma färgton i [kalendern](#kalendern) och utskottet står under organet på kommunens sida. Utelämnas annars. |
 | `grupper`              | Rubrikerna som delar in kommunens sida ([Webbplatsen](#webbplatsen)), i sin ordning. Utelämnas när sidan inte ska delas in. |
 | `organ.grupp`          | Gruppen ur `grupper` som organet står i. Krävs med grupper för varje organ utan `hor_till`, och utelämnas för utskott. |
+| `gruppmote`            | Partiernas gruppmöten i [kalendern](#kalendern): `fore` (organets id), `veckodag` (`måndag` … `söndag`) och `tid` (texten som visas). Utelämnas när kommunen inte har några. |
 | `kalla.adapter`        | Adaptern som läser källan.                                   |
 | `kalla.monster`        | Hur adaptern översätter en rubrik, ett filnamn eller en sökväg till organ, datum och typ. |
 | `kalla.manader`        | Månadernas namn i källan, januari först. Utelämnas när källan skriver månaden med siffror. |
@@ -1720,6 +1721,15 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
 - **Färgerna** räknas fram: organen grupperas efter `hor_till`, varje
   grupp får en egen färgton jämnt fördelad runt färgcirkeln i kommunfilens
   ordning, och ett utskott en ljusare nyans av sin grupps ton.
+- **Gruppmötena** (K49,
+  [ADR-0072](decisions/0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md))
+  räknas fram när sidan byggs, ur kommunfilens `gruppmote`: ett den
+  närmaste veckodagen före varje sammanträde i organet, från dagen sidan
+  byggs. De står inte i kalenderfilen och har ingen källa. Rutan har
+  prickad grå kant och texten "Gruppmöte" med tiden, urvalet och listan
+  kallar dem partiernas gruppmöte inför organet, och en mening över
+  urvalet säger att det är en vana hos partierna, inget beslutat
+  sammanträde. De räknas inte under Kvalitet.
 - **Skriptet** står i sidan. Det visar en månad i taget med knappar
   bakåt och framåt, med början på innevarande månad, döljer sammanträden
   före dagens datum i listan tills knappen "Visa tidigare sammanträden"

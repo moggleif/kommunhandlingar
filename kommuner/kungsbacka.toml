@@ -9,6 +9,10 @@
 namn = "Kungsbacka kommun"
 grupper = ["Kommunfullmäktige och kommunstyrelsen", "Nämnderna", "Övriga"]
 
+# Partierna har gruppmöte måndagskvällen före kommunstyrelsens sammanträden.
+# Det är en vana, inget beslutat sammanträde; kalendern räknar fram det (K49).
+gruppmote = { fore = "ks", veckodag = "måndag", tid = "kväll" }
+
 # Påslaget för omkonverteringen i #84 (ADR-0019); raden tas bort när
 # poolen är omkonverterad.
 omkonvertera = true

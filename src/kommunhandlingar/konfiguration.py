@@ -1,5 +1,5 @@
-"""Krav: K1, K22 och K23 i docs/02-KRAV.md, ADR-0019, ADR-0032 och ADR-0039.
-Test: tests/test_konfiguration.py."""
+"""Krav: K1, K22, K23 och K49 i docs/02-KRAV.md, ADR-0019, ADR-0032, ADR-0039
+och ADR-0072. Test: tests/test_konfiguration.py och tests/test_gruppmoten.py."""
 
 import tomllib
 from dataclasses import dataclass
@@ -9,6 +9,7 @@ from pathlib import Path
 from kommunhandlingar import schema
 from kommunhandlingar.adaptrar import episerver, sitevision
 from kommunhandlingar.fel import Konfigurationsfel
+from kommunhandlingar.gruppmote import Gruppmote, gruppmote_av
 
 ORGANFALT = {"id", "namn", "fran", "till", "foregangare", "hor_till", "grupp"}
 
@@ -36,6 +37,8 @@ class Kommun:
     arkivkallor: tuple[episerver.Kalla, ...]
     # Grupperna på kommunens sida, i sin ordning (K39).
     grupper: tuple[str, ...] = ()
+    # Partiernas gruppmöten inför ett organs sammanträden (K49).
+    gruppmote: Gruppmote | None = None
 
 
 def las(sokvag: Path) -> Kommun:
@@ -45,7 +48,9 @@ def las(sokvag: Path) -> Kommun:
 
 def tolka(kommun_id: str, data: dict) -> Kommun:
     schema.kontrollera_falt(
-        data, {"namn", "organ", "kalla", "omkonvertera", "grupper"}, "kommunen"
+        data,
+        {"namn", "organ", "kalla", "omkonvertera", "grupper", "gruppmote"},
+        "kommunen",
     )
     namn = schema.varde(data, "namn", str, "kommunen")
     organ = tuple(organ_av(post) for post in poster(data, "organ"))
@@ -57,6 +62,7 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
         kalla_av(post, i, organ_id) for i, post in enumerate(poster(data, "kalla"), 1)
     ]
     omkonvertera = schema.valfritt(data, "omkonvertera", bool, "kommunen") or False
+    gruppmote = schema.valfritt(data, "gruppmote", dict, "kommunen")
     return Kommun(
         schema.katalognamn(kommun_id, "kommunen"),
         namn,
@@ -65,6 +71,7 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
         omkonvertera,
         tuple(k for k in alla if isinstance(k, episerver.Kalla)),
         grupper,
+        None if gruppmote is None else gruppmote_av(gruppmote, organ_id),
     )
 
 

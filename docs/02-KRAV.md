@@ -1531,3 +1531,34 @@ och [Steg 3: indexet](03-ARKITEKTUR.md#steg-3-indexet). Issue
   kvaliteten och de obekräftade talen ska läsas, var fälten förklaras, och
   för varje kommun länkar till indexet, kommunens översikt, varje organs
   sida och kommunens filer skrivna för hand som finns.
+
+## K49 — Partiernas gruppmöten står i kalendern
+
+Issue: [#269](https://github.com/moggleif/kommunhandlingar/issues/269).
+Hur och varför står i
+[ADR-0072](decisions/0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md)
+och [Kalendern](03-ARKITEKTUR.md#kalendern).
+
+- **Givet** en kommunfil som säger att partierna har gruppmöte en viss
+  veckodag före ett organs sammanträden, och en kalenderfil med organets
+  sammanträden
+- **När** webbplatsen byggs
+- **Så** har kalendern ett gruppmöte den närmaste sådana veckodagen före
+  varje sammanträde i organet, från dagen webbplatsen byggs, utan att
+  gruppmötena står i kalenderfilen.
+- **Givet** ett nytt sammanträde i organet i kalenderfilen
+- **När** webbplatsen byggs
+- **Så** får det sitt gruppmöte av sig självt.
+- **Givet** ett gruppmöte i kalendern
+- **När** det visas
+- **Så** ser det annorlunda ut än organens sammanträden, med texten
+  "Gruppmöte" och tiden, sidan säger att det är en vana hos partierna och
+  inget beslutat sammanträde, och det kan väljas bort som ett organ.
+  Gruppmötena räknas inte bland sammanträdena under Kvalitet.
+- **Givet** en kommunfil utan gruppmöten
+- **När** webbplatsen byggs
+- **Så** har kalendern inga gruppmöten och ingen text om dem.
+- **Givet** en kommunfil vars gruppmöte gäller ett organ som inte finns,
+  eller en veckodag som inte är en av måndag till söndag
+- **När** kommunfilen läses
+- **Så** stoppas läsningen med felet.
