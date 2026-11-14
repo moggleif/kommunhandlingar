@@ -19,6 +19,11 @@ att läsa på
 webbplatsen:
 <https://moggleif.github.io/kommunhandlingar/>.
 
+För en AI börjar poolen i
+<https://moggleif.github.io/kommunhandlingar/llms.txt>, som pekar på
+indexet över alla dokument per kommun
+([K47](docs/02-KRAV.md#k47--poolen-har-ett-index-och-en-ingång-för-ai)).
+
 ## Hur det fungerar
 
 PDF:en hämtas tillfälligt, konverteras och raderas. Kvar blir texten, och
