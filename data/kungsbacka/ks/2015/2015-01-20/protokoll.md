@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2015/KS%20Protokoll%202015-01-20.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2007:143, KS/2013:195, KS/2014:104, KS/2014:384, KS/2014:454, KS/2014:46, KS/2014:464, KS/2014:469, KS/2014:495, KS/2014:496, KS/2014:497, KS/2014:499, KS/2014:500, KS/2014:514, KS/2014:515, KS/2014:520, KS/2014:562]
 kalla_url: https://web.archive.org/web/20150318095735id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2015/KS%20Protokoll%202015-01-20.pdf
 sha256: 20de5cb3413cdeece1e1fabd5dad865ecd036c59e9342096f47d88f9bf88903e
 bytes: 184284

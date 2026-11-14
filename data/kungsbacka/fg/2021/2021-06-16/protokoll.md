@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d9570b
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00007, 2021-00021, 2021-00022, 2021-00031, 2021-00161, 2021-00162, 2021-00289, 2021-00445, 2021-00557, 2021-00561, 2021-00568, 2021-00583, 2021-00623, 2021-00676, 2021-00717, 2021-00748, 2021-00777]
 kalla_url: https://web.archive.org/web/20221001092329id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d9570b/1644474859795/N%C3%A4mnden%20F%C3%B6rskola%20&%20Grundskola%20protokoll%202021-06-16.pdf
 sha256: f793d9c72671847eb073a8e80be36e1e28f95a20a910cb49bb5f3947720850f2
 bytes: 284784

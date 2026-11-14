@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunstyrelsen-protokoll-2023-06-20-160
 kallnyckel: sitevision:18.4108226e188bd8de7bc18d4a
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00048]
 kalla_url: https://web.archive.org/web/20240917183859id_/https://kungsbacka.se/download/18.4108226e188bd8de7bc18d4a/1687777548414/Kommunstyrelsen%20protokoll%202023-06-20,%20%C2%A7%20160.pdf
 sha256: 309798a1f1f99690041f26f536d4c1ff3e88ea4b7aa9876af90f178a30400f2b
 bytes: 573609

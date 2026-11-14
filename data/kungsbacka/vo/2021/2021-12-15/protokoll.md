@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2021/protokoll-nvo-211215.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a503733e]
-arenden: null
+arenden: [2021-00044, 2021-00315, 2021-00344, 2021-00359, 2021-00377, 2021-00391, 2021-00392, 2021-00397, 2021-00400, 2021-00401]
 kalla_url: https://web.archive.org/web/20220320014117id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2021/protokoll-nvo-211215.signerad.pub.pdf
 sha256: 56e47089b25a65f39e57a9de9ba81fcd8992aefd05458f55f47f6ca071dca44b
 bytes: 574510

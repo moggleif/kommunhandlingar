@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/2015-02-24/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2000:298, KS/2006:100, KS/2012:110, KS/2013:345, KS/2014:236, KS/2014:336, KS/2014:422, KS/2014:444, KS/2014:474, KS/2014:479, KS/2014:551, KS/2014:560, KS/2014:561, KS/2014:86, KS/2015:26, KS/2015:34, KS/2015:40, KS/2015:41, KS/2015:46, KS/2015:47, KS/2015:8]
 kalla_url: [https://web.archive.org/web/20150318122440id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2015/KS%20protokoll%202015-02-24.pdf, https://web.archive.org/web/20150318113809id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2015/KSAU%20protokoll%202015-02-24.pdf]
 sha256: [2cb140e89da8abec92caebd83d22b79e714155ff5efb19c2b395ac59ce52636f, d8378347e0bab5f284f1d275878c9321a0720d54d86c32c9283891357aebd98c]
 bytes: [212929, 58260]

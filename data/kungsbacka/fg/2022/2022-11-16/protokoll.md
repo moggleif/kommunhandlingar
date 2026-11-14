@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.af5a4a018418b6a06c3e21f
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-00003, 2022-00006, 2022-00023, 2022-00024, 2022-00042, 2022-01094, 2022-01273, 2022-01324, 2022-01483, 2022-01492]
 kalla_url: https://web.archive.org/web/20231206173650id_/https://kungsbacka.se/download/18.af5a4a018418b6a06c3e21f/1669020749676/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20protokoll%202022-11-16.pdf
 sha256: c7f829e1c4acbc5c6e8779b30b06abbf221132168b47728280cf572c4da369de
 bytes: 600794

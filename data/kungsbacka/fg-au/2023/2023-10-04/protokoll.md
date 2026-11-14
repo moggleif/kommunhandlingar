@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.77b42c5418b14ae50e518a6
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FG-2023-00025, FG-2023-00026, FG-2023-00027, FG-2023-00028, FG-2023-00029, FG-2023-00030, FG-2023-00953, FG-2023-01028, FG-2023-01049, FG-2023-01079, FG-2023-01080, FG-2023-01102]
 kalla_url: https://web.archive.org/web/20251216062949id_/https://kungsbacka.se/download/18.77b42c5418b14ae50e518a6/1696925095072/F%C3%B6rskola%20&%20Grundskola%20arbetsutskott%20protokoll%202023-10-04.pdf
 sha256: 80eb4b7a0bc7f71907b881a00c25118489a5bf994c10292957d51c166cf9bdbc
 bytes: 613499

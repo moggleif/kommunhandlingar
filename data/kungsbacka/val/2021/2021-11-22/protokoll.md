@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/valnamnd/protokoll/2021/protokoll-vn-211122.signerad.pub-002.pdf
 tidigare_kallnycklar: [sitevision:18.2dd2542217ed46db56eea97]
-arenden: null
+arenden: [2020-00013, 2021-00004, 2021-00005, 2021-00012, 2021-00021, 2021-00023, 2021-00024, 2021-00025, 2021-00026]
 kalla_url: https://web.archive.org/web/20220319231315id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/valnamnd/protokoll/2021/protokoll-vn-211122.signerad.pub-002.pdf
 sha256: f29539e38582838f1915a9761a830ff08c1e5562072a7345cce7162e1e7c5893
 bytes: 560131

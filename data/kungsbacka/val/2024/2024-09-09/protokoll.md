@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.6582e5c2191974ffda71a7ac
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VN-2024-00001, VN-2024-00005, VN-2024-00006, VN-2024-00047, VN-2024-00048, VN-2024-00050, VN-2024-00051]
 kalla_url: https://kungsbacka.se/download/18.6582e5c2191974ffda71a7ac/1726121193714/Valn%C3%A4mnd%20protokoll%202024-09-09.pdf
 sha256: 7028fa52c2a5e421bc33dd0e6c2721b771e202711486202a5ebdb7f841717726
 bytes: 269515

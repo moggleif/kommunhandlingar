@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Valn%C3%A4mnd/Protokoll/2015/VN_2015-09-21%20protokoll.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VN/2015:1, VN/2015:8, VN/2015:9]
 kalla_url: https://web.archive.org/web/20160611220813id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Valn%c3%a4mnd/Protokoll/2015/VN_2015-09-21%20protokoll.pdf
 sha256: 0ba26279e0c22f499fa900f82564a39b1c62eba006aced431ca4dd435a5f877e
 bytes: 537307

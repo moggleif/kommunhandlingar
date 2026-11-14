@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunfullm%C3%A4ktige/Protokoll/2016/KF%20protokoll%202016-09-13%20%C2%A7%20124%20publicera%201.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2016:375]
 kalla_url: https://web.archive.org/web/20170808070615id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunfullm%c3%a4ktige/Protokoll/2016/KF%20protokoll%202016-09-13%20%c2%a7%20124%20publicera%201.pdf
 sha256: fcb88d551626a4d2d81ad459fb025b7376a4e67f2cc03446bdb8fc074cc7d8b2
 bytes: 40981

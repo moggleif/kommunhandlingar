@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.28437bed1a0422e77ad1d114
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2023-00096, KS-2025-00320, KS-2025-00846, KS-2026-00004, KS-2026-00006, KS-2026-00014, KS-2026-00015, KS-2026-00016, KS-2026-00123, KS-2026-00235, KS-2026-00376, KS-2026-00407, KS-2026-00424, KS-2026-00464, KS-2026-00488]
 kalla_url: https://kungsbacka.se/download/18.28437bed1a0422e77ad1d114/1787904840024/Kommunstyrelsen%20protokoll%202026-08-25.pdf
 sha256: 1eb9a902e7af1a843fa62ae1bd5ca429f73d6e7c18e475e61f16279388a913cc
 bytes: 401101

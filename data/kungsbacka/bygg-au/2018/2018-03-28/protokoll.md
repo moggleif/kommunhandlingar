@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2018/bnau-protokoll-2018-03-28-webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2016-0838, 2016-1211, 2016-1212, 2016-1213, 2016-1214, 2016-1215, 2016-1216, 2016-1217, 2016-1218, 2017-0894, 2017-0916, 2017-0932, 2017-0945, 2017-1016, 2017-1024, 2017-1288, 2017-1292, 2017-1825, 2017-1967, 2018-0050, 2018-0213, 2018-0292, 2018-0432, 2018-K0155, PL/2016:12, PL/2016:79]
 kalla_url: https://web.archive.org/web/20200710142811id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2018/bnau-protokoll-2018-03-28-webb.pdf
 sha256: 1706a34280da65c0df6b9cc5d82f2545422b51850169c999b60bf81bb7d525d7
 bytes: 294297

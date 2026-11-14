@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2021/bn-protokoll-2021-01-28-webb.pdf
 tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50149a1]
-arenden: null
+arenden: [BN-2016-001550, BN-2017-000267, BN-2017-001316, BN-2017-001566, BN-2018-000390, BN-2018-001915, BN-2020-000083, BN-2020-00026, BN-2020-00028, BN-2020-00029, BN-2020-00033, BN-2020-001412, BN-2020-001427, BN-2020-001437, BN-2020-001438, BN-2020-001672, BN-2020-002147, BN-2020-002150, BN-2020-002166, BN-2020-002174, BN-2020-002965, BN-2020-003353, BN-2021-000002]
 kalla_url: https://web.archive.org/web/20220319190354id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2021/bn-protokoll-2021-01-28-webb.pdf
 sha256: 8e42a6cee11b02974495481ef212acb4b618e5c7def6c786adddb02a4d3e5547
 bytes: 1652648

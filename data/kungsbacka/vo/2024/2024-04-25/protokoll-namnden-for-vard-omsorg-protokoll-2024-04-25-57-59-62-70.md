@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-vard-omsorg-protokoll-2024-04-25-57-59-62-70
 kallnyckel: sitevision:18.7413c81a18f379bdaa41f70
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO-2020-00871, VO-2021-00242, VO-2023-00042, VO-2024-00004, VO-2024-00005, VO-2024-00006, VO-2024-00007, VO-2024-00020, VO-2024-00021, VO-2024-00040, VO-2024-00078, VO-2024-00082, VO-2024-00120, VO-2024-00188]
 kalla_url: https://kungsbacka.se/download/18.7413c81a18f379bdaa41f70/1714731505207/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsorg%20protokoll%202024-04-25,%20%C2%A7%C2%A7%2057-59,%2062-70.pdf
 sha256: 2d238ca7142efd022ec466163181e8f2ffd4b13d81b9f23413093f5c3e97118f
 bytes: 247290

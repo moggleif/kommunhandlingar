@@ -16,7 +16,9 @@ from tests.test_webbplats import FIXTURER, REPO, TID, dokument
 MOTE = Path("fsn") / "2024" / "2024-05-02"
 
 
-class TestIndex(unittest.TestCase):
+class Index(unittest.TestCase):
+    """En liten pool och webbplatsen byggd ur den; utan egna tester."""
+
     def setUp(self):
         tmp = tempfile.TemporaryDirectory()
         self.addCleanup(tmp.cleanup)
@@ -38,6 +40,8 @@ class TestIndex(unittest.TestCase):
         bygg(self.rot, self.ut, REPO, TID)
         return (self.ut / "llms.txt").read_text(encoding="utf-8")
 
+
+class TestIndex(Index):
     def test_en_rad_per_dokument_i_sokvagarnas_ordning(self):
         self.spara("protokoll.md", dokument())
         self.spara("kallelse.md", dokument(typ="kallelse"))

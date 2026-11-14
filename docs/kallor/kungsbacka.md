@@ -1066,6 +1066,19 @@ poolen):
   motioner och interpellationer som redan fått ett OCR-lager. Tjänsteskrivelsernas
   tabeller är ritade med linjer; budgetens tabeller har bara vågräta
   linjer och färgade kolumner.
+- **Protokollens paragrafer** (kontrollerat 2026-11-14 i poolen för
+  [ADR-0071](../decisions/0071-protokollen-delas-per-paragraf-vid-bygget.md)):
+  varje paragraf börjar på en rad med `§` och numret. Byggnadsnämnden och
+  dess arbetsutskott skriver ofta förkortningen först (`BN § 1`,
+  `AU § 326`), mest 2013–2016. Från 2020 har
+  protokollen en innehållsförteckning med `§ N Dnr …` före paragraferna.
+  Diarienumret skrivs `GA-2026-00004` från 2024, `2020-00327` utan organ
+  2020–2023 och `KS/2016:375` eller `GV/2014:4` före 2020. Äldre bygglov
+  har ärendenumret i rubriken utan `Dnr`. Revisionens
+  sammanträdesanteckningar har inga paragrafer. Paragrafer som justerats
+  för sig eller rör sekretess står ofta i ett eget protokoll, och
+  uppräkningen `Paragrafer §§ …` på första sidan stämmer inte alltid med
+  innehållet.
 - Fullmäktige sänds och arkiveras som video (YouTube 2022–2024, Screen9 2024–),
   med kapitel per ärende och inlägg. Redan hämtat i politik-repot.
 

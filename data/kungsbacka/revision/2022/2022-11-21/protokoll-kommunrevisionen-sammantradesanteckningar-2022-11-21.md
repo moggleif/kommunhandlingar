@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunrevisionen-sammantradesanteckningar-2022-11-21
 kallnyckel: sitevision:18.24b1b9a318529f1c20821c
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20240712210111id_/https://kungsbacka.se/download/18.24b1b9a318529f1c20821c/1671454835732/Kommunrevisionen%20sammantr%C3%A4desanteckningar%202022-11-21.pdf
 sha256: da188ca7d9133a9c83d575899650adb83a123d246e9b49bc19562251d9abeb1a
 bytes: 153936

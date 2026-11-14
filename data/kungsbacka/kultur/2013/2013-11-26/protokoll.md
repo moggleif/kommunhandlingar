@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Fritid%20och%20Folkh%C3%A4lsa/Protokoll/2013/Fritid%20protokoll%2026%20nove.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FH13-00118/84, FR13-00078/84, FR13-00098/84, FR13-00109/84, FR13-00114/84, FR13-00116/84]
 kalla_url: https://web.archive.org/web/20140806181746id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Fritid%20och%20Folkh%c3%a4lsa/Protokoll/2013/Fritid%20protokoll%2026%20nove.pdf
 sha256: 37b4b32f6ec59e873b7359b7013065c544114483842cd23d1ce88f4cd5036b0b
 bytes: 3160701

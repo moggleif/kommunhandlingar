@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-protokoll-2024-05-23-137-163-164
 kallnyckel: sitevision:18.44c56de518fa42b4f1dbe73
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2023-001564, BN-2023-00211, BN-2024-000899]
 kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1dbe73/1717057658908/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202024-05-23%20%C2%A7%C2%A7%20137,%20163,%20164.pdf
 sha256: 0d7c3ec2921da775d4bdc8bf371c0745316e50bb4af9eb2b6354d10f1a09ebd8
 bytes: 174366

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2014/TEAU%20%C2%A7%C2%A71-10%20140107.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140410153708id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2014/TEAU%20%c2%a7%c2%a71-10%20140107.pdf
 sha256: a5dc50a8c59a3918c41d36b16e92a18c38ed0cc076c0eeca082dfef9157f3d47
 bytes: 451507

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2022/nmh-2022-01-20-protokoll---webb.pdf
 tidigare_kallnycklar: [sitevision:18.7f46a58d17f98c034d8eea]
-arenden: null
+arenden: [MH-2021-109, MH-2021-3122, MH-2021-4146, MH-2021-4984, MH-2021-5130, MH-2022-1, MH-2022-44, MH-2022-86]
 kalla_url: https://web.archive.org/web/20220319184535id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2022/nmh-2022-01-20-protokoll---webb.pdf
 sha256: 9cbd57d33a47d43a2bfd6bb280095d0b04e8a2b808199af0ca99d1786abf694b
 bytes: 721956

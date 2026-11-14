@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-tekniks-arbetsutskott-protokoll-2026-06-01-23
 kallnyckel: sitevision:18.1e14078e19e634213a624fe8
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2026-00243]
 kalla_url: https://kungsbacka.se/download/18.1e14078e19e634213a624fe8/1780391097963/N%C3%A4mnden%20f%C3%B6r%20Tekniks%20arbetsutskott%20-%20Protokoll%202026-06-01%20%C2%A7%2023.pdf
 sha256: 091ec302240f0226833194ce699fd07e31a1df0b768009f01670c5e3dbeb1098
 bytes: 185338

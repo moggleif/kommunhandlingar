@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-teknik-protokoll-2026-10-21
 kallnyckel: sitevision:18.3ead0d801a16313586e16ddb
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2024-00027, TE-2026-00001, TE-2026-00002, TE-2026-00007, TE-2026-00008, TE-2026-00283, TE-2026-00549, TE-2026-00776, TE-2026-00834, TE-2026-00870, TE-2026-00871, TE-2026-00880, TE-2026-00894]
 kalla_url: https://kungsbacka.se/download/18.3ead0d801a16313586e16ddb/1792745745334/N%C3%A4mnden%20f%C3%B6r%20Teknik%20-%20Protokoll%202026-10-21.pdf
 sha256: 738d7e5fabe4b8032b78916d48bb62b6838e54a4389e88e8e9dd767e78ac43ae
 bytes: 244776

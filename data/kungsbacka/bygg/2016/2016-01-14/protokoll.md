@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mnden/Protokoll/2016/Protokoll%20BN%20160114-webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2011-P016, 2013-0786, 2014-0653, 2014-P008, 2014-P029, 2014-P047, 2014-P061, 2015-0079, 2015-1082, 2015-1488, 2015-1614, 2015-1715, 2015-1716, 2015-1725, 2015-1742, 2015-1766, 2015-1813, 2015-1898, 2015-P016, 2015-P018]
 kalla_url: https://web.archive.org/web/20160611225809id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mnden/Protokoll/2016/Protokoll%20BN%20160114-webb.pdf
 sha256: 99c8a865d88ad0e83b959835206313cc5e08c30ae8a2ebfea7034e7ecdbeebcd
 bytes: 145690

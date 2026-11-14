@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Milj%C3%B6%20och%20H%C3%A4lsoskydd/Protokoll/2013/MH%20protokoll%2024%20okt.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140805233336id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Milj%c3%b6%20och%20H%c3%a4lsoskydd/Protokoll/2013/MH%20protokoll%2024%20okt.pdf
 sha256: 45567de7c2ed2a57a172cef65be3269f1e6e9a8c6b412a2bd129a7d9af7396cd
 bytes: 91263

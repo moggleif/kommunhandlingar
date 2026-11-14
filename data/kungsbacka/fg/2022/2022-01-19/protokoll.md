@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2022/nfg_220119_protokoll.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.68e39ecb17ede8bc2d95706]
-arenden: null
+arenden: [2021-00028, 2021-01319, 2021-01420, 2021-01566, 2021-01636, 2022-00001, 2022-00002, 2022-00003, 2022-00006, 2022-00009, 2022-00012, 2022-00021, 2022-00023, 2022-00024, 2022-00028, 2022-00034, 2022-00041, 2022-00058]
 kalla_url: https://web.archive.org/web/20220319202152id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2022/nfg_220119_protokoll.signerad.pub.pdf
 sha256: d96c8ec8db810032e3b7619dec76e7ba121766d39de011e673402a851a29d012
 bytes: 969867

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2022/forskola--grundskola-namnd-protokoll-2022-02-16.pdf
 tidigare_kallnycklar: [sitevision:18.6a3eb39417f2a84ab5b13908]
-arenden: null
+arenden: [2021-01604, 2021-01625, 2021-01652, 2021-01733, 2022-00003, 2022-00006, 2022-00021, 2022-00023, 2022-00024, 2022-00042, 2022-00131, 2022-00135, 2022-00136, 2022-00137, 2022-00138, 2022-00146, 2022-00221, 2022-00222]
 kalla_url: https://web.archive.org/web/20220319203721id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2022/forskola--grundskola-namnd-protokoll-2022-02-16.pdf
 sha256: 98bbe26004cb9a845bdb1921b39a943bec0f861a4229f01a3dea953e9c39d0bc
 bytes: 681317

@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunrevisionen-protokoll-2023-06-19-11
 kallnyckel: sitevision:18.3681ec99188bdbf7b001eb3a
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20240712210550id_/https://kungsbacka.se/download/18.3681ec99188bdbf7b001eb3a/1688017690827/Kommunrevisionen%20protokoll%202023-06-19,%20%C2%A7%2011.pdf
 sha256: 64f5ac49995603cb9bad5880273ada9eedd92c38802ae020345175690b8d0681
 bytes: 364236

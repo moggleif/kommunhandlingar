@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2014/KS_140415.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2007:174, KS/2009:175, KS/2011:181, KS/2012:202, KS/2012:264, KS/2012:293, KS/2012:302, KS/2012:325, KS/2013:222, KS/2013:226, KS/2013:260, KS/2014:107, KS/2014:114, KS/2014:135, KS/2014:24, KS/2014:49, KS/2014:59, KS/2014:751, KS/2014:76, KS/2014:81, KS/2014:91]
 kalla_url: https://web.archive.org/web/20140703201419id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2014/KS_140415.pdf
 sha256: ef1deeb9fb35e33170f772b6be8d7fa0aa9a7d938c31506bd2b74842d26a0be4
 bytes: 15238275

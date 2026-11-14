@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-protokoll-2026-10-13-155-156-158-171
 kallnyckel: sitevision:18.664df97b1a13049acffccaed
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2020-00012, BN-2022-001187, BN-2023-000215, BN-2023-00253, BN-2024-00398, BN-2025-001968, BN-2026-00001, BN-2026-00003, BN-2026-000354, BN-2026-000366, BN-2026-000422, BN-2026-00062, BN-2026-000688, BN-2026-00071, BN-2026-000821, BN-2026-000921]
 kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acffccaed/1792479666714/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202026-10-13%20%C2%A7%C2%A7%20155-156,%20158-171.pdf
 sha256: 4c9744745d3dbbbd57d0163373f41ae62313413e8a9da43240bf26693664f2fb
 bytes: 498997

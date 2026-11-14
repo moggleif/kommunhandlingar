@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.3f19ad5f18d548ea2e05ab4
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2020-00131, KS-2022-00122, KS-2023-00336, KS-2023-00395, KS-2023-00633, KS-2023-00704, KS-2023-00815, KS-2023-00853, KS-2024-00025, KS-2024-00076]
 kalla_url: https://kungsbacka.se/download/18.3f19ad5f18d548ea2e05ab4/1706694534364/Kommunstyrelsens%20arbetsutskott%20protokoll%202024-01-30.pdf
 sha256: 226d5862248d6d406e432cd12aab002568dd4aedd2827f14a668e43566e21013
 bytes: 410289

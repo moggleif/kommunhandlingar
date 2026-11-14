@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2014/TEN140213_%C2%A7%C2%A712-21.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE/2014:57, TE/2014:60]
 kalla_url: https://web.archive.org/web/20140703201021id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2014/TEN140213_%c2%a7%c2%a712-21.pdf
 sha256: e72e31f93ddfe576156bbd6090b1ccad3e24ddb00e21e0d856a03966280e213d
 bytes: 525740

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.11a49e3519c6f3d10315000d
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE-2025-00424, SE-2025-00531, SE-2025-00539, SE-2026-00003, SE-2026-00004, SE-2026-00005, SE-2026-00006, SE-2026-00008, SE-2026-00023, SE-2026-00024, SE-2026-00025, SE-2026-00026, SE-2026-00034, SE-2026-00046, SE-2026-00049]
 kalla_url: https://kungsbacka.se/download/18.11a49e3519c6f3d10315000d/1771592459959/N%C3%A4mnden%20f%C3%B6r%20Service%20protokoll%202026-02-19.pdf
 sha256: 8470fcd617ec90967d10b7109ae3c613a4705bbf7d47e7595d3a2ae0265ab120
 bytes: 329452

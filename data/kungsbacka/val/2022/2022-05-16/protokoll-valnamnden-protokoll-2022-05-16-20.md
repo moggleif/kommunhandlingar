@@ -7,7 +7,7 @@ typ: protokoll
 namn: valnamnden-protokoll-2022-05-16-20
 kallnyckel: sitevision:18.72c977df18094afe5b04ea25
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-00025]
 kalla_url: https://web.archive.org/web/20241204150739id_/https://kungsbacka.se/download/18.72c977df18094afe5b04ea25/1653648815594/Valn%C3%A4mnden%20protokoll%202022-05-16%20%C2%A720.pdf
 sha256: 59d1baf62c712e8b4726e5e6146455ea0b500d61cfa90786c28d45f6171b0977
 bytes: 485637

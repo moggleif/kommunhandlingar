@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/protokoll/2022/namnden-for-service-protokoll-2022-03-17.pdf
 tidigare_kallnycklar: [sitevision:18.7a1b2d7d17f4497e1e929b8c]
-arenden: null
+arenden: [2021-00183, 2021-00196, 2021-00287, 2021-00369, 2021-00409, 2022-00001, 2022-00002, 2022-00038, 2022-00041, 2022-00042, 2022-00043, 2022-00044, 2022-00045, 2022-00062]
 kalla_url: https://web.archive.org/web/20220320113402id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/protokoll/2022/namnden-for-service-protokoll-2022-03-17.pdf
 sha256: 8181ddbf3144b53ed5495e088712025a29ed2b0c7d034ed4b5ab8a63a22c9309
 bytes: 245472

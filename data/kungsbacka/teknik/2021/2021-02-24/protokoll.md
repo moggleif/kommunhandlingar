@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d9265c4
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2019-00999, 2020-01026, 2020-01163, 2021-00003, 2021-00004, 2021-00005, 2021-00006, 2021-00016, 2021-00038, 2021-00074, 2021-00075, 2021-00078, 2021-00099, 2021-00102]
 kalla_url: https://web.archive.org/web/20220630162459id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d9265c4/1645001816747/N%C3%A4mnden%20f%C3%B6r%20Teknik%20protokoll%202021-02-24.pdf
 sha256: 745d82a6ab4c146e67133b1621a0f31de2abaa6b9e5a902959b4bc701ff01474
 bytes: 826213

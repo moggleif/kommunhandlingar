@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2021/protokoll-nmh-2021-06-10--76-88-signerad-webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-2617]
 kalla_url: https://web.archive.org/web/20220319192200id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2021/protokoll-nmh-2021-06-10--76-88-signerad-webb.pdf
 sha256: 83ede8d70b210c8a086aa87a7776a453aa9cda6223642e3876cf99d533b77334
 bytes: 241307

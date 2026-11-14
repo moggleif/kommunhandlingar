@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.42ce99219cc5b296bd9eeb9
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2024-00576, KS-2024-00785, KS-2025-00597, KS-2025-00891, KS-2025-00902, KS-2025-00913, KS-2025-00936, KS-2025-00937, KS-2025-00938, KS-2025-00939, KS-2025-00945, KS-2025-00954, KS-2025-00969, KS-2026-00005, KS-2026-00008, KS-2026-00069, KS-2026-00151, KS-2026-00160, KS-2026-00177, KS-2026-00184]
 kalla_url: https://kungsbacka.se/download/18.42ce99219cc5b296bd9eeb9/1773295726478/Kommunfullm%C3%A4ktige%20protokoll%202026-03-03.pdf
 sha256: 3a2a6ac6d4f3844d0ba6dbf89af5f8f68be088b64c871d7815ccb3b20a7dccc6
 bytes: 641328

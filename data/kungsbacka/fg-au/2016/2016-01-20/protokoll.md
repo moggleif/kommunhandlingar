@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/F%C3%B6rskola%20och%20Grundskola%20arbetsutskott/Protokoll/2016/FGAU%20protokoll%202016-01-20.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FG/2015:297, FG/2015:344, FG/2016:4, FG/2016:7]
 kalla_url: https://web.archive.org/web/20160612021331id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/F%c3%b6rskola%20och%20Grundskola%20arbetsutskott/Protokoll/2016/FGAU%20protokoll%202016-01-20.pdf
 sha256: d4fa5dba971f8d57c0a95f76ee39c7d41ea0af8e890befa043231ff77cfb0404
 bytes: 566906

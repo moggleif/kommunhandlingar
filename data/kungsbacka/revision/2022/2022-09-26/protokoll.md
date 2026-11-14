@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.bb15d6018388c7e65d45f8f
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20240712205632id_/https://kungsbacka.se/download/18.bb15d6018388c7e65d45f8f/1666693653847/Kommunrevisionen%20sammantr%C3%A4desanteckningar%202022-09-26.pdf
 sha256: bbfdd2e5748a176e720ab8cbaab49ba6ba74c007f009062ffa48051f866fd7fd
 bytes: 80237

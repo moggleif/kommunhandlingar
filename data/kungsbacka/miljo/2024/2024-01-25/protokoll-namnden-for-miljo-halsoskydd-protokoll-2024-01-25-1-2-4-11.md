@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-miljo-halsoskydd-protokoll-2024-01-25-1-2-4-11
 kallnyckel: sitevision:18.5a85c91a18d54a8c7652a12
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-06135, 2023-07089, 2024-00001, 2024-00002, 2024-00003, 2024-00004, 2024-00005, 2024-00006, 2024-00010, 2024-00012]
 kalla_url: https://kungsbacka.se/download/18.5a85c91a18d54a8c7652a12/1706623978063/N%C3%A4mnden%20f%C3%B6r%20Milj%C3%B6%20&%20H%C3%A4lsoskydd%20protokoll%202024-01-25%20%C2%A7%C2%A7%201-2,%204-11%20.pdf
 sha256: 4109ce15d7cff1d1ac77b94c1051a10df5a5d12cc06c0523643e17548601dedf
 bytes: 197417

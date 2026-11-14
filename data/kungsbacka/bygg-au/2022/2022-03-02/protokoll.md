@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2022/byggnadsnamndens-arbetsutskott-protokoll-2022-03-02.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2019-000543, BN-2020-001497, BN-2020-003277, BN-2020-003548, BN-2021-00019, BN-2021-000653, BN-2021-000848, BN-2021-001192, BN-2021-001356, BN-2021-001359, BN-2021-001383, BN-2021-001397, BN-2021-001670, BN-2021-002104, BN-2021-002289, BN-2021-002455, BN-2021-002489, BN-2021-002526, BN-2021-002731, BN-2021-003018, BN-2021-003273, BN-2021-003290, BN-2021-003504, BN-2021-004332, BN-2021-004505, BN-2021-004668, BN-2022-000125, BN-2022-000146, BN-2022-000232, BN-2022-000370, BN2020-00012]
 kalla_url: https://web.archive.org/web/20220319221024id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2022/byggnadsnamndens-arbetsutskott-protokoll-2022-03-02.pdf
 sha256: 1e8b90b1ca54e324815179a2d49d0ec971926b1ca6f1de2ca758fe56ba70e621
 bytes: 1296761

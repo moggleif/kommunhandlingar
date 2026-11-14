@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/2021-05-21/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2016-00016, BN-2017-001316, BN-2018-001211, BN-2019-000764, BN-2020-00015, BN-2020-000374, BN-2020-000883, BN-2020-000933, BN-2020-001760, BN-2020-002307, BN-2020-002387, BN-2020-002469, BN-2020-003157, BN-2021-000002, BN-2021-00003, BN-2021-00004, BN-2021-00005, BN-2021-000053, BN-2021-00008, BN-2021-00009, BN-2021-00010, BN-2021-00011, BN-2021-000156, BN-2021-000443, BN-2021-000544, BN-2021-000553, BN-2021-000807, BN-2021-001002, BN-2021-001069, BN-2021-001256, BN-2021-001525, BN-2021-001527]
 kalla_url: [https://web.archive.org/web/20220320022226id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2021/bn-protokoll-2021-05-21--116-121-123-169_webb.pdf, https://web.archive.org/web/20220319184510id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2021/bn-protokoll-2021-05-21--122-uppfoljning-och-prognos-april-2021.pdf]
 sha256: [b6e3d6e12ed2a1e71e7ca6e4ef4cd0c25157ccf3c2e7e7cda1e513850d3edd85, 4fbe41846e4b87e59fb7c8339177bd822bd78f39e94569de9502ab61c5816556]
 bytes: [1612524, 1587564]

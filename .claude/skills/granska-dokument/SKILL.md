@@ -37,7 +37,9 @@ och formaten under "Tabeller" och "Tolkade figurer".
    du bekräftat ur `tal_obekraftade`; gör
    de `tabell-osaker`-sidor där varje tabell blivit CSV till `ok` och
    räkna om `kvalitet` från sidorna.
-6. Radera bilderna. Kör `python -m kommunhandlingar.datakontroll data`
+6. Radera bilderna. Har texten i ett protokoll ändrats, kör
+   `python -m kommunhandlingar.arenden data` (K48). Kör
+   `python -m kommunhandlingar.datakontroll data`
    och Markdown-lint på de ändrade filerna, och rätta det som faller.
 7. Committa bara filer under `data/`, öppna en PR med vilka dokument som
    granskats och vad som var osäkert, och merga den när "Ren kod och

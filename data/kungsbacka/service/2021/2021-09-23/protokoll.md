@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/protokoll/2021/nse-protokoll-2021-09-23.pdf
 tidigare_kallnycklar: [sitevision:18.6ea12a3f17f1cb356901fca]
-arenden: null
+arenden: [2021-00192, 2021-00275, 2021-00276, 2021-00277, 2021-00278, 2021-00279, 2021-00280, 2021-00281, 2021-00282, 2021-00283, 2021-00285, 2021-00287, 2021-00289]
 kalla_url: https://web.archive.org/web/20220320075503id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/protokoll/2021/nse-protokoll-2021-09-23.pdf
 sha256: 1d41d0f1ab31df36c0d1b3700cb8cef5e77066bdd5ff8f5d6823d32ef3c7812d
 bytes: 234506

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2013/TE_protokoll_%20131024_110-117.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE13-00242/34]
 kalla_url: https://web.archive.org/web/20140806181142id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2013/TE_protokoll_%20131024_110-117.pdf
 sha256: 9b6bf2a56ea8ad95219c30ceec0cb3e0fef3f3ca95bdfe202b59e7f705ea9d6c
 bytes: 552717

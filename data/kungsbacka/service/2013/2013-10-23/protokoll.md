@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Service/Protokoll/2013/SE_Protokoll_131023.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE13-00009/00, SE13-00012/00]
 kalla_url: https://web.archive.org/web/20140805150240id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Service/Protokoll/2013/SE_Protokoll_131023.pdf
 sha256: 5a5fe2773dd33ee44141ebdb4b2e89420cc93ac8b344bc3206d342a236346c77
 bytes: 60504

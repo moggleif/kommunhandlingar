@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/2022-02-24/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2017-000267, BN-2019-00044, BN-2020-000676, BN-2020-001395, BN-2020-003491, BN-2021-001076, BN-2021-001993, BN-2021-002697, BN-2021-002730, BN-2021-003248, BN-2021-003297, BN-2021-004583, BN-2021-004650, BN-2022-000047, BN-2022-000082, BN-2022-000183, BN-2022-000480]
 kalla_url: [https://web.archive.org/web/20220319233301id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2022/bn-protokoll-2022-02-24--49-52-57-80_webb.pdf, https://web.archive.org/web/20220320044309id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2022/bn-protokoll-2022-02-24--53-56_inskannat.pdf]
 sha256: [c5500468de0154bf2930057fbd0db30bfd07dc242d2fc72d0e74aa4593db7435, 514cd2a726cb88f28d8670f0b05aaa55a257d1ec8d3945147fa09383e45e2241]
 bytes: [605527, 4641969]

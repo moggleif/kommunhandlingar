@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2014/Protokoll%20n%C3%A4mnd%20141020%20-%20%C3%B6ppet.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [ÄO/2014:51, ÄO/2014:87]
 kalla_url: https://web.archive.org/web/20150510152827id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2014/Protokoll%20n%c3%a4mnd%20141020%20-%20%c3%b6ppet.pdf
 sha256: f866c19f05da258aa23959a6c5ea335caaf6389f514078295f4ab491d6c8e1e9
 bytes: 113083

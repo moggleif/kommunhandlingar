@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.6f3c0c5618a26185636f9c4
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00001, 2023-00004, 2023-00023, 2023-00043, 2023-00253, 2023-00305, 2023-00307, 2023-00363, 2023-00431, 2023-00516, 2023-00545, 2023-00626, 2023-00627]
 kalla_url: https://web.archive.org/web/20250324033857id_/https://kungsbacka.se/download/18.6f3c0c5618a26185636f9c4/1693479109347/N%C3%A4mnden%20f%C3%B6r%20Tekniks%20arbetsutskott%20-%20Protokoll%202023-08-28.pdf
 sha256: f09b2f5c9c5711c288d8db6a8a2cb10b1f6562419fdc437f7480465103919a19
 bytes: 728600

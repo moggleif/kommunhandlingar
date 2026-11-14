@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/valnamnd/protokoll/2021/vn-protokoll-2021-05-10--8-12-.pdf
 tidigare_kallnycklar: [sitevision:18.2dd2542217ed46db56eea78]
-arenden: null
+arenden: [2020-00013, 2021-00004, 2021-00005, 2021-00007, 2021-00008]
 kalla_url: https://web.archive.org/web/20220320114928id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/valnamnd/protokoll/2021/vn-protokoll-2021-05-10--8-12-.pdf
 sha256: 433d4ac580d9da716298431c6e80c402cb157fbce929912b311b2a5f2e4d5181
 bytes: 189039

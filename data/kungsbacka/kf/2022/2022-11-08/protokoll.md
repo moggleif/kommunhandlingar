@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.75a3baec18418ccdbc430e53
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-01038, 2021-01154, 2022-00005, 2022-00008, 2022-00013, 2022-00099, 2022-00290, 2022-00526, 2022-00578, 2022-00646, 2022-00657, 2022-00677, 2022-00757, 2022-00764, 2022-00843]
 kalla_url: https://web.archive.org/web/20240902032703id_/https://kungsbacka.se/download/18.75a3baec18418ccdbc430e53/1668604718222/Kommunfullm%C3%A4ktige%20protokoll%202022-11-08.pdf
 sha256: 72a1d687becaf13eeefb72501a3f1c9cf35b09d07fa1348c8913d4f3ef518913
 bytes: 1220097

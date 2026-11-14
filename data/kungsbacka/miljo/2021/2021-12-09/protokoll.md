@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.7f46a58d17f98c034d8ee2
 tidigare_kallnycklar: []
-arenden: null
+arenden: [MH-2021-4959]
 kalla_url: https://web.archive.org/web/20220625075548id_/https://kungsbacka.se/download/18.7f46a58d17f98c034d8ee2/1647597522501/N%C3%A4mnden%20f%C3%B6r%20Milj%C3%B6%20&%20H%C3%A4lsoskydd%20protokoll%202021-12-09,%20%C2%A7%20158.pdf
 sha256: a63aab0a59ffb329a5d345d184c475884a26933a93a84fffc23977a42a4f47cc
 bytes: 192638

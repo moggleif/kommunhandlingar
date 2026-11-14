@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunrevisionen-protokoll-2022-10-24-160
 kallnyckel: sitevision:18.af5a4a018418b6a06ce2d6
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20240712201827id_/https://kungsbacka.se/download/18.af5a4a018418b6a06ce2d6/1667313894406/Kommunrevisionen%20protokoll%202022-10-24,%20%C2%A7%20160.pdf
 sha256: c30c32e4a5712500685d1d894f04958445ef105978c931248cdc45a3eea142e8
 bytes: 372974

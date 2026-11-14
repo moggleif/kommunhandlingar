@@ -1,8 +1,8 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46 och K47 i docs/02-KRAV.md.
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47 och K48 i docs/02-KRAV.md.
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
 tests/test_uppfoljningar.py, tests/test_lokalbehov.py, tests/test_initiativ.py,
-tests/test_dokumentindex.py.
+tests/test_dokumentindex.py, tests/test_paragrafindex.py.
 """
 
 import shutil
@@ -18,6 +18,7 @@ from kommunhandlingar.webbplats import (
     dokumentindex,
     kalender,
     mal,
+    paragrafindex,
     projekt,
     sidor,
     spar,
@@ -62,13 +63,15 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
 # i minnet.
 def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     (ut / kommun.id).mkdir(exist_ok=True)
-    dokument = []
+    dokument, stycken = [], []
     for fil in sorted(katalog.rglob("*.md")):
         falt, text = las_dokument(fil, katalog, kommun)
         html = dokumentsida(mall, kommun, falt, text)
         skriv_dokument(fil, ut / kommun.id / falt["adress"], html)
         dokument.append(falt)
+        stycken += paragrafindex.av_dokument(falt, text, katalog)
     dokumentindex.skriv(ut, dokument, katalog)
+    paragrafindex.skriv(ut, stycken, katalog)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
     rader = rakna(kommun, dokument, mall.byggd.date())

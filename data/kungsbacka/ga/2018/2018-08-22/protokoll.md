@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2018/2018-08-22.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GA/2018:42, GA/2018:43, GA/2018:44, GA/2018:46, GA/2018:55]
 kalla_url: https://web.archive.org/web/20200120043644id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2018/2018-08-22.pdf
 sha256: e7ef172728f56d809804149d0c2c61c0ad35af01811218723cf09c1388073ad8
 bytes: 551616

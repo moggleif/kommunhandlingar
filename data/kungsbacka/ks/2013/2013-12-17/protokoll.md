@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2013/KS_131217.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS11-00204/50, KS12-00132/21, KS12-00207/21, KS12-00278/32, KS12-00314/84, KS13-00006/10, KS13-00015/10, KS13-00032/00, KS13-00084/25, KS13-00091/51, KS13-00157/11, KS13-00207/04, KS13-00266/92, KS13-00273/42, KS13-00282/10, KS13-00290/21, KS13-00301/21, KS13-00304/08, KS13-00320/04, KS13-00321/04, KS13-00322/04, KS13-00324/82]
 kalla_url: https://web.archive.org/web/20140806032432id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2013/KS_131217.pdf
 sha256: 22e23c9c49a2db0e8c9f7ebba4bd748f510d5184fce37b6db3fc62d3ecefb9b4
 bytes: 195125

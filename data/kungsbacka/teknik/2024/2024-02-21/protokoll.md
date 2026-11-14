@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.366666ef18d873f2cac3b26c
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2022-01101, TE-2023-00717, TE-2023-00949, TE-2023-00950, TE-2023-01068, TE-2024-00002, TE-2024-00003, TE-2024-00004, TE-2024-00025, TE-2024-00050, TE-2024-00073, TE-2024-00074, TE-2024-00075, TE-2024-00076, TE-2024-00077, TE-2024-00078, TE-2024-00079]
 kalla_url: https://kungsbacka.se/download/18.366666ef18d873f2cac3b26c/1708963524679/N%C3%A4mnden%20f%C3%B6r%20Teknik%20Protokoll%202024-02-21.pdf
 sha256: b723ce1f51428ec409e3f5bc36f8fa8fe03aacd00eacfc5d385e4e8552ae0155
 bytes: 475999

@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-protokoll-2024-11-21-321-332-334-338
 kallnyckel: sitevision:18.4d9a7d041932991fe6089ff3
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2024-00001, 2024-00003, 2024-00399, BN-2018-000805, BN-2020-000869, BN-2023-00016, BN-2023-001342, BN-2023-00211, BN-2023-002189, BN-2023-002343, BN-2024-00113, BN-2024-00114, BN-2024-001406, BN-2024-001529, BN-2024-001911, BN-2024-002034, BN-2024-002065]
 kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe6089ff3/1732612865200/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202024-11-21%20%C2%A7%C2%A7%20321-332,%20334-338.pdf
 sha256: d57a4a20884170d01c21fa23d6121356e1cef810fcb77723c31c2e6410c6213c
 bytes: 383399

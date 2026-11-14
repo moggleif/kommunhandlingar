@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2020/kf-protokoll-2020-12-08--165-169-171-195.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2019-00147, 2019-00620, 2019-00890, 2020-00005, 2020-00094, 2020-00151, 2020-00552, 2020-00757, 2020-00776, 2020-00817, 2020-00831, 2020-00842, 2020-00851, 2020-00856, 2020-00891, 2020-00912, 2020-00970, 2020-00977, 2020-00978, 2020-00993, 2020-01022, 2020-01032, 2020-01049, 2020-01050, 2020-01061, 2020-01063, 2020-01074, 2020-01075, 2020-01098, 2020-01132]
 kalla_url: https://web.archive.org/web/20210506035539id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2020/kf-protokoll-2020-12-08--165-169-171-195.pdf
 sha256: c19961a39da5bec420a27d6b17eb5f6b797a547a026f824176606d9ab410830d
 bytes: 537803

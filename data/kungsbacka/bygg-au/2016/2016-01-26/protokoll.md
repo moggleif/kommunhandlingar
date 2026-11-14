@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mndens%20arbetsutskott/Protokoll/2016/Protokoll_BNAU%20160126-webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2012-0185, 2013-P025, 2014-0968, 2014-1017, 2014-1358, 2014-P072, 2015-0003, 2015-0043, 2015-0182, 2015-0320, 2015-0356, 2015-0466, 2015-0661, 2015-0769, 2015-0901, 2015-0971, 2015-0991, 2015-0998, 2015-1056, 2015-1092, 2015-1118, 2015-1122, 2015-1175, 2015-1221, 2015-1392, 2015-1472, 2015-1526, 2015-1651, 2015-1662, 2015-1760, 2015-1887, 2015-P006, 2015-P014, 2015-P071]
 kalla_url: https://web.archive.org/web/20160612021219id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mndens%20arbetsutskott/Protokoll/2016/Protokoll_BNAU%20160126-webb.pdf
 sha256: d37eeed42b7b0ce9fe55a71e9d35316b0356f3fa1c758d2aed039c6e32e7b5a1
 bytes: 334997

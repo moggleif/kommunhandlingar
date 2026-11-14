@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.5a2a131997952e26b575ee
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE-2025-00330, SE-2025-00336, SE-2025-00337, SE-2025-00338, SE-2025-00339, SE-2025-00340, SE-2025-00344, SE-2025-00345, SE-2025-00346, SE-2025-00370, SE-2025-00371]
 kalla_url: https://kungsbacka.se/download/18.5a2a131997952e26b575ee/1758873139988/N%C3%A4mnden%20f%C3%B6r%20Service%20protokoll%202025-09-25.pdf
 sha256: 9b04e6fc09f34d9540f6fabd0fbc0f1ad9b6b1886b3b1e935842bafcb7c2e415
 bytes: 233855

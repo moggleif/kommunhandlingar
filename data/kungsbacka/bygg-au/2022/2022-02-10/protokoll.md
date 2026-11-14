@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/2022-02-10/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2019-00044, BN-2020-000500, BN-2020-002283, BN-2020-003274, BN-2020-2354, BN-2021-000596, BN-2021-001076, BN-2021-001131, BN-2021-001967, BN-2021-001993, BN-2021-002104, BN-2021-002188, BN-2021-002234, BN-2021-002687, BN-2021-002697, BN-2021-002730, BN-2021-003248, BN-2021-003273, BN-2021-003297, BN-2021-004353, BN-2021-004401, BN-2021-004469, BN-2021-004583, BN-2021-004638, BN-2021-004650, BN-2021-004656, BN-2021-004657, BN-2021-004658, BN-2021-004671, BN-2022-00003, BN-2022-000047, BN-2022-000140, BN-2022-000150, BN-2022-000183]
 kalla_url: [https://web.archive.org/web/20220319233134id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2022/bnau-protokoll-2022-02-10--53-78-80-91_webb.pdf, https://web.archive.org/web/20220319214609id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2022/bnau-protokoll-2022-02-10--79_webb.pdf]
 sha256: [33401281831b1a67f118d21b529f75584627e5b1d016239f825fe5573d03db66, d1ab9c5f5808d27d44c2196d4b9bdaa842425ee938fbdea659132fc246561486]
 bytes: [1068676, 201149]

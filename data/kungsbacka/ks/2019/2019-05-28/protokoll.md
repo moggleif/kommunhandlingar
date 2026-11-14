@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/2019-05-28/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2014:309, KS/2014:455, KS/2016:321, KS/2018:482, KS/2018:529, KS/2018:703, KS/2018:724, KS/2018:759, KS/2018:840, KS/2019:107, KS/2019:118, KS/2019:134, KS/2019:177, KS/2019:189, KS/2019:190, KS/2019:198, KS/2019:209, KS/2019:211, KS/2019:218, KS/2019:219, KS/2019:220, KS/2019:225, KS/2019:248, KS/2019:262, KS/2019:283, KS/2019:284, KS/2019:285, KS/2019:288, KS/2019:292, KS/2019:298, KS/2019:309, KS/2019:316, KS/2019:341, KS/2019:356, KS/2019:4, KS/2019:412, KS/2019:413, KS/2019:63, KS/2019:67]
 kalla_url: [https://web.archive.org/web/20210226224920id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2019/ks-protokoll-2019-05-28--117-147-149-161.pdf, https://web.archive.org/web/20210305224150id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2019/ks-protokoll-2019-05-28--148.pdf]
 sha256: [0f0999bd8c50fb5993107ca8d488f05aeeab5d44152d3c02d4ae8a1013da2f2c, bbf2eb1fa18b16dca41898d13c781adb553b6a49f9b12179973107dc6eedb3b0]
 bytes: [793937, 416603]

@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-teknik-protokoll-2026-06-17-64
 kallnyckel: sitevision:18.604293d519ed466b616e955
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2026-00065]
 kalla_url: https://kungsbacka.se/download/18.604293d519ed466b616e955/1781787803589/N%C3%A4mnden%20f%C3%B6r%20Teknik%20-%20Protokoll%202026-06-17%20%C2%A7%2064.pdf
 sha256: 46e9f50df5db8c890e7dff5fc50101c6ab8fed77e90a68ecfed11c600ff06575
 bytes: 236878

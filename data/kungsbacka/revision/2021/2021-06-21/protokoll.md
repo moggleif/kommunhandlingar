@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2727e29417ee2988a501b31c
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20220630192017id_/https://kungsbacka.se/download/18.2727e29417ee2988a501b31c/1644938080123/Kommunrevisionen%20sammantr%C3%A4desanteckningar%202021-06-21.pdf
 sha256: c16c80e2adb27feedd9f187bef4fc9c8faae77d61f5051959e819f9da2a676f8
 bytes: 123567

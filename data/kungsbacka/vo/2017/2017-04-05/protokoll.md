@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2017/AU/Protokoll%20VOAU%202017-04-05%20utan%20sekretessparagrafer%20f%C3%B6r%20publicering.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO/2016:103, VO/2016:114, VO/2016:115, VO/2016:141, VO/2016:90, VO/2017:15, VO/2017:3, VO/2017:42, VO/2017:43, VO/2017:48]
 kalla_url: https://web.archive.org/web/20170722041919id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2017/AU/Protokoll%20VOAU%202017-04-05%20utan%20sekretessparagrafer%20f%c3%b6r%20publicering.pdf
 sha256: 78fd69f914def398b0d4e17a4d0e84c713f9d59aacbfdb7880b96036f6f4a964
 bytes: 170853
