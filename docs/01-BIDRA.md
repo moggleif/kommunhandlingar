@@ -198,4 +198,6 @@ de äldre, vilket också stänger deras PR:er; det de hade utöver den hämtas
 igen nästa natt.
 En gren som skrivits av en version före 0.5.0 maskas först med
 `python3 -m kommunhandlingar.maska_poolen data`; annars faller
-datakontrollen på dess personuppgifter (ADR-0022).
+datakontrollen på dess personuppgifter (ADR-0022). På samma sätt fylls
+`arenden` i en gren från en version före K48 med
+`python3 -m kommunhandlingar.arenden data` (ADR-0071).

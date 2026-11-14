@@ -220,6 +220,8 @@ src/kommunhandlingar/
   plats.py         sökvägen och namnet för ett nytt dokument (ADR-0003)
   skrivning.py     `.md` och tabellkatalog, tabellerna först och `.md` sist
   frontmatter.py   front matter läses och skrivs
+  paragrafer.py    ett protokoll delat per paragraf (K48); diarienummer.py numren
+  arenden.py       `arenden` ur paragraferna, och kommandot som fyller poolen
   tidsbudget.py    budgetens hårda gräns, som inte avbryter en skrivning
   datakontroll*.py datakontrollerna av allt under data/ (K11)
   tolkning.py      arbetslistan och renderingen av figurerna (K15)
@@ -229,7 +231,7 @@ src/kommunhandlingar/
                    kalendern, målen, lokalbehoven, initiativärendena,
                    handlingsplanerna, redovisningarna, detaljplanerna med
                    sina projekt, granskningarna och avvikelserna, och
-                   indexet med llms.txt (steg 3)
+                   indexet, paragraferna och llms.txt (steg 3)
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -652,7 +654,7 @@ inom hakparenteser på samma rad, som i exemplet.
 | `namn`                 | `<namn>` i sökvägen (ADR-0003).                              | sökvägen saknar namn |
 | `kallnyckel`           | Adapterns källnyckel (ADR-0003).                             | aldrig |
 | `tidigare_kallnycklar` | Källnycklar dokumentet haft tidigare (K9); `[]` när inga.     | aldrig |
-| `arenden`              | Diarienummer; `[]` när dokumentet inte rör något ärende.      | det inte är känt |
+| `arenden`              | Ett protokolls diarienummer ur paragraferna ([Paragraferna och ärendena](#paragraferna-och-ärendena)); `[]` när paragraferna saknar diarienummer. | dokumentet inte är ett protokoll, eller inga paragrafer hittas |
 | `kalla_url`            | Adressen originalet hämtades från, eller försöktes hämtas från; för ett dokument i delar en lista med delarnas adresser i ordning (ADR-0049). | aldrig |
 | `sha256`               | Originalets sha256; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
 | `bytes`                | Originalets storlek i byte; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
@@ -1543,7 +1545,59 @@ inte in. Det visar poolen som den är; versionerna står i git (ADR-0003).
   kommun ett avsnitt med indexet, översikten, varje organs sida i
   kommunfilens ordning och de filer skrivna för hand som kommunen har
   (kalendern, målen, uppföljningarna, spårfilerna och projekten), länkade
-  med `<repo>/raw/main/`. Webbplatsens sidor länkas relativt.
+  med `<repo>/raw/main/`. Webbplatsens sidor länkas relativt. Där står
+  också paragraferna och hur `beslut` ska läsas.
+
+### Paragraferna och ärendena
+
+Hur och varför står i
+[ADR-0071](decisions/0071-protokollen-delas-per-paragraf-vid-bygget.md)
+(K48). Delningen är en ren funktion av ett protokolls text
+(`paragrafer.py`, diarienumren i `diarienummer.py`), som konverteringen,
+kommandot, datakontrollen och bygget delar.
+
+- **En paragraf** börjar på en rad med `§` och numret, med eller utan
+  mellanslag och ibland efter organets förkortning med två till fyra
+  versaler (`BN § 1`, `AU § 326`). Efter numret får bara ett
+  diarienummer eller `forts` stå; `§§ 6-9`, `§ 85/2016` och `7 kap 18 c
+  §` inleder ingen paragraf. Ett ensamt `§ 4` räknas bara efter en tom
+  rad, en sidbrytning eller en rad med bara ett datum.
+- **Samma nummer flera gånger.** Innehållsförteckningen och närvarolistan
+  räknar upp numren först, så det sista avsnittet med ett nummer gäller.
+  En fortsättning (`§ 270, forts`) direkt efter hör till samma paragraf.
+  Paragraferna står i protokollets ordning.
+- **Rubriken** är första raden efter numret som inte är ett diarienummer
+  eller en sidbrytning, och `null` när paragrafen börjar med ett avsnitt
+  (Beslut, Sammanfattning, …) eller sidfoten.
+- **Diarienumren** är numren efter `Dnr`, `Diarienr` eller `Diarienummer`
+  från rubrikraden till raden Beslut, och ett nummer som står ensamt på
+  rubrikraden (`§ 142   GV/2014:4`), i ordning och utan dubbletter.
+  Mellanslag kring bindestrecket och mellan förled och år blir ett
+  bindestreck (`BN 2024-000123` blir `BN-2024-000123`); annars skrivs
+  numret som det står.
+- **Beslutet** är raderna efter raden Beslut till nästa avsnitt.
+  Avsnitten är en fast lista med protokollens rubriker (`AVSNITT` i
+  `paragrafer.py`). Når beslutet en sidbrytning eller sidfoten (en rad
+  som börjar med Justerare, eller den digitala signaturen) först blir det
+  `null`, eftersom det kan fortsätta på nästa sida. Saknas raden Beslut
+  är det också `null`.
+- **`arenden`** (`arenden.py`) är paragrafernas diarienummer, sorterade
+  och utan dubbletter, och skrivs när ett protokoll konverteras. `[]` när
+  paragraferna saknar diarienummer, `null` när inga paragrafer hittas och
+  för alla andra typer än `protokoll`.
+- **Poolen** fylls med `python -m kommunhandlingar.arenden data`, som
+  skriver om bara raden `arenden` där den inte stämmer, också i granskade
+  dokument, utan att hämta PDF:en. En andra körning ändrar ingenting.
+- **Datakontrollen** faller på ett dokument vars `arenden` inte stämmer
+  med texten och säger vad fältet borde vara.
+- **`<kommun>/paragrafer.jsonl`** (`webbplats/paragrafindex.py`) har en
+  rad per paragraf i protokollen som hämtats, i sökvägarnas och
+  protokollets ordning: `organ`, `datum`, `lopnr` (tal eller `null`),
+  `paragraf` (numret), `rubrik`, `diarienummer` (en lista), `beslut`,
+  `sidnummer` (sidan paragrafen börjar på, `null` utan sidbrytning före),
+  `kvalitet` (den sidans kvalitet), `tal_obekraftade` (om sidan står i
+  dokumentets `tal_obekraftade`), `fil` och `sida` som i indexet, med
+  `#sida-<sidnummer>` efter sidan. Paragraftexten följer inte med.
 
 ## Webbplatsen
 
