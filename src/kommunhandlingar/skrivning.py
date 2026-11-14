@@ -35,6 +35,11 @@ def brodtext(sidor: list[Sida], katalog: str) -> str:
     return "\n\n".join(delar) + "\n"
 
 
+def kropp(md: Path, sidor: list[Sida] | None) -> str:
+    """Texten efter front matter; tom när dokumentet saknar sidor."""
+    return "\n" + brodtext(sidor, tabellkatalog(md).name) if sidor else ""
+
+
 def skriv(md: Path, text: str, tabeller: dict[str, str]) -> None:
     md.parent.mkdir(parents=True, exist_ok=True)
     katalog = tabellkatalog(md)

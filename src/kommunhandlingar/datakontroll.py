@@ -1,10 +1,12 @@
-"""Krav: K6, K11, K15, K17 och K34 i docs/02-KRAV.md, ADR-0006, ADR-0017, ADR-0022
-och ADR-0055. Test: tests/test_datakontroll.py och tests/test_granskning.py.
+"""Krav: K6, K11, K15, K17, K34 och K48 i docs/02-KRAV.md, ADR-0006, ADR-0017,
+ADR-0022, ADR-0055 och ADR-0071. Test: tests/test_datakontroll.py,
+tests/test_granskning.py och tests/test_arenden.py.
 
 `python -m kommunhandlingar.datakontroll <data>` prövar varje fil under
 `data/` mot schemat i docs/03-ARKITEKTUR.md: front matter, sökvägen,
 tabellkatalogerna, att inga temporära filer finns kvar, att inga
-personuppgifter står omaskade och att inga styrtecken står i texten.
+personuppgifter står omaskade, att inga styrtecken står i texten och att
+`arenden` stämmer med protokollets paragrafer.
 Varje fel skrivs ut, och kommandot avslutas med fel om något hittades.
 """
 
@@ -13,6 +15,7 @@ import sys
 from pathlib import Path
 
 from kommunhandlingar import datakontroll_tolkning, frontmatter
+from kommunhandlingar.arenden import ratt_varde
 from kommunhandlingar.datakontroll_tabeller import tabellfel
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konvertering.kvalitet import KVALITETER, SIDKVALITETER
@@ -76,7 +79,13 @@ def dokumentfel(relativ: Path, text: str) -> list[str]:
     if fel:
         return fel
     fel = vardefel(falt) + sokvagsfel(relativ, falt) + statusfel(falt)
-    return fel + datakontroll_tolkning.dokumentfel(falt, text)
+    return fel + arendefel(falt, text) + datakontroll_tolkning.dokumentfel(falt, text)
+
+
+def arendefel(falt: dict[str, str], text: str) -> list[str]:
+    if falt["arenden"] == (ratt := ratt_varde(text)):
+        return []
+    return [f"arenden borde vara {ratt} (python -m kommunhandlingar.arenden)"]
 
 
 def vardefel(falt: dict[str, str]) -> list[str]:
