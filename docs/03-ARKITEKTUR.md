@@ -123,7 +123,12 @@ två startas står i K11.
   skrivs det klart. Ett avbrutet dokument har inte skrivit något, eftersom
   allt skrivs efter hämtning och konvertering och PDF:en ligger utanför
   repot. Det nämns i sammanfattningen, och körningen går vidare till
-  kontrollerna. Resten av tiden fram till Actions gräns på 6 timmar per
+  kontrollerna. Varje dokument har också en egen gräns: tar
+  konverteringen mer än 30 minuter avbryts den, och dokumentet skrivs som
+  `ej-konverterad` med `fel: tidsgrans` innan körningen tar nästa
+  kandidat (K52,
+  [ADR-0075](decisions/0075-ett-dokument-far-en-egen-tidsgrans.md)).
+  Kommer den hårda gränsen först går den före. Resten av tiden fram till Actions gräns på 6 timmar per
   jobb är till för kontrollerna och pushen. Budgeten är vår egen och följer
   GitHubs gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
@@ -223,7 +228,8 @@ src/kommunhandlingar/
   paragrafer.py    ett protokoll delat per paragraf (K48), med paragrafinnehall.py
                    och diarienummer.py
   arenden.py       `arenden` ur paragraferna, och kommandot som fyller poolen
-  tidsbudget.py    budgetens hårda gräns, som inte avbryter en skrivning
+  tidsbudget.py    budgetens hårda gräns, som inte avbryter en skrivning,
+                   och dokumentets egen gräns (ADR-0075)
   datakontroll*.py datakontrollerna av allt under data/ (K11)
   tolkning.py      arbetslistan och renderingen av figurerna (K15)
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
@@ -590,6 +596,11 @@ steg 2 gör som för de levande källorna med två skillnader:
   lista, hämtas inte ("finns redan; arkivet fyller bara
   luckor"). Ett `ej-hamtad` med samma källnyckel fylls; misslyckas också
   arkivets försök står den levande källans försök kvar orört.
+- **Arkivets egna dokument konverteras om** som de levande källornas, när
+  kommunfilen har `omkonvertera = true`: ett dokument med samma
+  källnyckel och samma `kalla_url` som kandidaten, från en annan version
+  av poolen, hämtas igen och konverteras om, sist i arkivets lista (K52,
+  [ADR-0076](decisions/0076-arkivet-konverterar-om-sina-egna-dokument.md)).
 - **Två plattformar** ([ADR-0039](decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md),
   [ADR-0048](decisions/0048-hogst-kvalitet-vinner-mellan-plattformarna.md)).
   Plattformen är källnyckelns första del, före `:`. En kandidat ur
@@ -872,7 +883,8 @@ gäller. Den sämsta sidan avgör:
 När filen inte gick att öppna står orsaken i `fel`: `krypterad` (filen
 kräver lösenord för att öppnas; ett lösenord som bara begränsar utskrift
 eller ändring hindrar inte), `trasig-pdf` (också en fil utan sidor) eller
-`inte-pdf`; vilka fält som då är `null` står i
+`inte-pdf`, och `tidsgrans` när konverteringen inte blev klar på 30
+minuter (ADR-0075); vilka fält som då är `null` står i
 [Front matter](#front-matter). Har filen sidor men ingen av dem gick att
 läsa är `fel` `null`, och `sidor`, `kvalitet_per_sida` och
 `tal_obekraftade` visar sidorna som de är.

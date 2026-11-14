@@ -32,7 +32,7 @@ Regler för det här repot, utöver MADR:
 | 0003 | [Dokumentet identifieras av sin plats i modellen och en källnyckel; sha256 är versionen](0003-dokumentets-identitet-och-datamodell.md) | accepted |
 | 0004 | [Inkrementell körning: poolen är tillståndet och adressen är signalen](0004-inkrementell-korning-poolen-ar-tillstandet.md) | accepted (0019 lägger till omkonvertering vid en annan version) |
 | 0005 | [Konvertering: pdfplumber och Tesseract, tal bara från textlagret, och kvalitet som den sämsta sidan avgör](0005-konvertering-verktyg-ocr-och-kvalitet.md) | accepted (0016 skärper av säker tabell, 0033 märker talrader i linje, 0034 fäller avskurna tabeller, 0036 tar bort mellanslag inne i en siffra) |
-| 0006 | [Körningen sker varje natt i GitHub Actions och checkar in data direkt till `main` efter datakontrollerna](0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md) | accepted |
+| 0006 | [Körningen sker varje natt i GitHub Actions och checkar in data direkt till `main` efter datakontrollerna](0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md) | accepted (0075 ger varje dokument en egen tidsgräns) |
 | 0007 | [Poolen är en ögonblicksbild: det som en gång checkats in tas inte bort, och historiken skrivs inte om](0007-poolen-ar-en-ogonblicksbild.md) | accepted |
 | 0008 | [Kommunkonfigurationen skrivs i TOML, en fil per kommun, och artigheten per värd står i en gemensam fil](0008-kommunkonfigurationen-i-toml.md) | accepted |
 | 0009 | [Tabellernas härkomst är dokumentets, sidnumret står i filnamnet, och CSV skrivs i ett fast format](0009-tabellernas-harkomst-och-csv-format.md) | accepted (0024 lägger till ett namn för tabeller över flera sidor) |
@@ -44,7 +44,7 @@ Regler för det här repot, utöver MADR:
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | accepted (0052 låter körningen öppna och merga PR:en själv) |
 | 0016 | [Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje](0016-tabeller-utan-lodrata-linjer.md) | accepted (0028 delar tabeller med linjer och flera tal i en cell; 0030 fäller en ombruten etikett; 0035 tar med avsnittsrubriker och årtal; 0040 läser rubriker i kolumnens fack) |
 | 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | accepted (0055 behåller tolkningarna i granskade dokument) |
-| 0018 | [Wayback hämtas sist i nattkörningen, nyast först, och fyller bara luckor](0018-wayback-sist-nyast-forst-och-bara-luckor.md) | accepted (0027 slår på arkivet per organ) |
+| 0018 | [Wayback hämtas sist i nattkörningen, nyast först, och fyller bara luckor](0018-wayback-sist-nyast-forst-och-bara-luckor.md) | accepted (0027 slår på arkivet per organ, 0076 konverterar om arkivets egna dokument) |
 | 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | accepted (0055 undantar granskade dokument) |
 | 0020 | [Luckorna räknas fram ur poolen på statussidan och lagras inte](0020-luckor-raknas-fram-lagras-inte.md) | accepted (0062 visar år utan dokument) |
 | 0021 | [Poolens text escapas vid konverteringen så att den är riktig Markdown, och CI kör Markdown-lint](0021-texten-ar-riktig-markdown.md) | accepted |
@@ -98,3 +98,5 @@ Regler för det här repot, utöver MADR:
 | 0072 | [Partiernas gruppmöten räknas fram ur kommunstyrelsens datum när kalendern byggs, och visas diskret som en vana](0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md) | proposed |
 | 0073 | [Målsidan får tre perspektiv att välja mellan – tidslinje, ett år i taget och målkort – och valet står i adressen](0073-malsidan-far-tre-perspektiv-att-valja-mellan.md) | proposed |
 | 0074 | [Webbplatsen följer läsarens ljusa eller mörka inställning, med en knapp i övre högra hörnet som minns valet](0074-webbplatsen-har-ljust-och-morkt-tema.md) | proposed |
+| 0075 | [Ett dokument får konverteras i högst 30 minuter och blir annars `ej-konverterad` med `fel: tidsgrans`](0075-ett-dokument-far-en-egen-tidsgrans.md) | proposed |
+| 0076 | [Arkivet konverterar om sina egna dokument från en annan version av poolen, efter luckorna](0076-arkivet-konverterar-om-sina-egna-dokument.md) | proposed |

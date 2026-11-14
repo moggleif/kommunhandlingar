@@ -561,7 +561,8 @@ arkivet per organ.
 - **När** en kandidat ur arkivet för den källnyckeln eller platsen tas
 - **Så** hämtas den inte, och dokumentet i poolen lämnas orört. Ett
   misslyckat försök ur arkivet från en annan plattform är ett undantag
-  (K23).
+  (K23), och ett dokument ur arkivet från en annan version av
+  poolen ett annat (K52).
 - **Givet** flera versioner och kopior av samma fil i arkivet
 - **När** arkivet upptäcks
 - **Så** blir den nyaste versionen kandidat, med den största kopian och vid
@@ -1684,3 +1685,34 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 - **När** den visas
 - **Så** följer den läsarens inställning, eller är ljus, och knappen visas
   inte.
+
+## K52 — Ett dokument stoppar inte körningen, och arkivets dokument konverteras om
+
+Issues: [#274](https://github.com/moggleif/kommunhandlingar/issues/274) och
+[#84](https://github.com/moggleif/kommunhandlingar/issues/84).
+Hur och varför står i
+[ADR-0075](decisions/0075-ett-dokument-far-en-egen-tidsgrans.md),
+[ADR-0076](decisions/0076-arkivet-konverterar-om-sina-egna-dokument.md)
+och [Körning och incheckning](03-ARKITEKTUR.md#körning-och-incheckning).
+
+- **Givet** ett dokument vars konvertering inte är klar efter 30 minuter
+- **När** gränsen nås, före budgetens hårda gräns (K11)
+- **Så** avbryts konverteringen, dokumentet skrivs som `ej-konverterad`
+  med `fel: tidsgrans`, och körningen går vidare till nästa kandidat.
+- **Givet** ett dokument med `fel: tidsgrans` och samma `kalla_url` som
+  kandidaten
+- **När** en senare körning når kandidaten
+- **Så** hämtas och konverteras det bara om omkonverteringen är påslagen
+  och dokumentets `pipeline` har en annan version av poolen än den som
+  körs (K8); annars är det oförändrat.
+- **Givet** att budgetens hårda gräns kommer före dokumentets 30 minuter
+- **När** den nås
+- **Så** läggs dokumentet åt sidan som i K11, utan att något skrivs.
+- **Givet** en kommunfil med `omkonvertera = true` och ett fullständigt
+  dokument ur arkivet som inte är granskat (K34), vars `pipeline` har en
+  annan version av poolen än den som körs
+- **När** arkivets kandidat med samma källnyckel och samma `kalla_url`
+  tas
+- **Så** hämtas kopian och konverteras om som i K8, efter arkivets
+  luckor. Ett dokument från en levande källa ersätts fortfarande aldrig av
+  en kopia ur arkivet (K16).
