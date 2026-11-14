@@ -1,4 +1,4 @@
-"""Krav: K4–K6, K8, K9, K11, K13 och K16 i docs/02-KRAV.md, ADR-0004,
+"""Krav: K4–K6, K8, K9, K11, K13, K16 och K52 i docs/02-KRAV.md, ADR-0004,
 ADR-0018 och ADR-0019. Test: tests/test_hamta.py och
 tests/test_omkonvertering.py.
 
