@@ -77,6 +77,9 @@ dokumentet för den som läser repot.
 * Good, eftersom en AI kan följa ett diarienummer genom alla organs
   protokoll med en fil.
 * Bad, eftersom paragraferna bara finns där webbplatsen finns.
+* Bad, eftersom filen är stor, 10,9 MB för Kungsbackas 21 207 paragrafer
+  när beslutet togs, och växer med poolen. Den delas per organ om det blir
+  ett problem, som indexet (ADR-0070).
 * Bad, eftersom diarienumren 2020–2023 saknar organets förled
   (`2020-00327`), så att samma nummer kan finnas i två organ. Organet står
   på samma rad i paragrafindexet.
