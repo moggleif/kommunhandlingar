@@ -391,7 +391,8 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **När** den ska checka in
 - **Så** körs datakontrollerna först, och bara om de går igenom checkas
   ändringen in, på en egen gren som en commit som bara rör filer under
-  `data/` och `versioner/` (K53); den når `main` genom en PR där samma kontroller körs igen
+  `data/` och `versioner/` (K53);
+  den når `main` genom en PR där samma kontroller körs igen
   (ADR-0015).
 
 - **Givet** en körning som har pushat sin gren, i ett repo med en token
@@ -1702,8 +1703,9 @@ och [Versionsloggen](03-ARKITEKTUR.md#versionsloggen).
 - **När** körningen fortsätter
 - **Så** körs arkivet ändå, från `main`.
 - **Givet** ett dokument från en levande källa som poolen inte har, eller som
-  har fått en ny adress
-- **När** steg 2 har tagit in det, också när det inte gick att hämta
+  har fått en ny adress eller ett nytt innehåll
+- **När** steg 2 har tagit in det, också när det inte gick att hämta eller
+  när steg 2 stoppas av ett fel efter det
 - **Så** har `versioner/<kommun>.csv` fått en rad med när körningen såg det,
   organ, datum, typ, källnyckel, adress, sha256 och dokumentets sökväg.
 - **Givet** en körning där inget kommit eller ändrats, en omkonvertering

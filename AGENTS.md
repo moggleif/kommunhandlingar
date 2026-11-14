@@ -108,7 +108,9 @@ Skriv aldrig om ett annat dokuments fakta – länka till dem.
   upphovsrättsraden i `LICENSE` är undantagna, utom ett konto- eller
   organisationsnamn som innehåller ett personnamn. Poolens innehåll under
   `data/` återger källan och är också undantaget; där maskas bara
-  identifierare (ADR-0022).
+  identifierare (ADR-0022). Det gäller också versionsloggen i
+  `versioner/<kommun>.csv`, som citerar dokumentens front matter
+  (ADR-0077).
 
 ## Arbetsflöde
 

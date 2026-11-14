@@ -113,16 +113,18 @@ två startas står i K11.
   `moten` kör upptäckten och steg 2 för varje kommunfil i `kommuner/`
   utan omkonvertering (`--utan-omkonvertering`), och checkar in; `arkiv`
   startar när det är klart, från dess gren eller, utan gren eller om
-  `moten` föll, från `main`. Det gör upptäckten om och kör steg 2, som då
-  bara har omkonverteringen kvar, och sedan detsamma med `--arkiv`. Går
-  upptäckten inte där väntar omkonverteringen till nästa körning. Varje
-  jobb checkar in och får sin PR för sig.
+  `moten` föll, från `main`. Det gör upptäckten om och kör steg 2 för de
+  levande källorna, som då har omkonverteringen kvar och det som kommit
+  sedan mötenas jobb, och sedan detsamma med `--arkiv`. Varje
+  jobb checkar in och får sin PR för sig. De levande källornas steg är
+  samma i båda jobben, `.github/actions/levande`, och incheckningen är
+  `.github/actions/checka-in`.
   Stoppas upptäckten i en kommuns levande källor av en källsida (kod 3)
   hoppar jobbet över kommunens levande steg 2, skriver det i
   sammanfattningen och går vidare (ADR-0061); upptäckten skriver inget i
   `data/`. Ett annat fel i upptäckten stoppar jobbet. Ett fel i arkivets steg
-  stoppar inte jobbet (`continue-on-error`), så att det arkivet hunnit
-  hämta ändå kontrolleras och checkas in.
+  stoppar inte jobbet (`continue-on-error`), så att det levande ändå
+  kontrolleras och checkas in.
 - **Varje körning börjar från en ren utcheckning av `main`**, och arkivet
   från mötenas gren, så att arkivets gren bygger på den och de två PR:erna
   inte krockar.
@@ -137,18 +139,22 @@ två startas står i K11.
   GitHubs gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
 - **Datakontrollerna körs innan något pushas**, och sedan att bara filer
-  under `data/` och `versioner/` har ändrats och att inget av dem är binärt. Faller något
-  pushas ingenting.
-- **Varje jobb pushar en egen gren**, `nattkorning/<datum>-<körningens id>-moten`
-  och `-arkiv`,
-  och datat når `main` genom en PR, där "Ren kod och tester" kör samma
+  under `data/` och `versioner/` har ändrats och att inget av dem är
+  binärt. Faller något pushas ingenting.
+- **Varje jobb pushar en egen gren**,
+  `nattkorning/<datum>-<körningens id>-moten` och `-arkiv`, och datat
+  når `main` genom en PR, där "Ren kod och tester" kör samma
   kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
   till `main` bygger om webbplatsen.
 - **Körningen öppnar PR:en själv** när hemligheten `NATTKORNING_TOKEN`
   finns, och slår på automatisk merge. Det görs i ett eget jobb på en ny
   runner, utan utcheckning, som får grenens namn som jobb-output; bara det
-  jobbet får hemligheten. Det är ett återanvänt workflow,
-  `.github/workflows/nattkorning-pr.yml`, som båda jobben anropar. Utan den öppnar en människa eller agent PR:en.
+  jobbet får hemligheten. Utan hemligheten öppnar en människa eller agent
+  PR:en. Jobbet är ett återanvänt workflow,
+  `.github/workflows/nattkorning-pr.yml`, som båda jobben anropar.
+  Arkivets jobb checkar ut mötenas gren medan dess PR kan mergas; det
+  förutsätter att GitHub inte tar bort grenar efter merge (*Automatically
+  delete head branches* är avslaget).
 
 Datakontrollerna, i körningen och i CI
 (`python -m kommunhandlingar.datakontroll data`, utom binärerna):
@@ -184,7 +190,8 @@ Hur och varför står i
 poolen sett i en levande källa sedan 2026-11-15. Steg 2 utan `--arkiv`
 läser poolens front matter före och efter, och skriver en rad för varje
 källnyckel som efter steg 2 inte fanns före eller har en annan
-`kalla_url` än före. Raderna läggs till sist i filen; inget skrivs om.
+`kalla_url` eller `sha256` än före, också när steg 2 stoppas av ett fel.
+Raderna läggs till sist i filen; inget skrivs om.
 
 | Kolumn       | Värde                                                         |
 | ------------ | ------------------------------------------------------------- |
@@ -198,7 +205,8 @@ källnyckel som efter steg 2 inte fanns före eller har en annan
 | `dokument`   | sökvägen under `data/`, som bär härkomsten (ADR-0009)          |
 
 Den första raden för en källnyckel är när poolen först såg dokumentet, de
-följande när det byttes ut. Samma `sha256` på två rader är en ny adress med
+följande när det byttes ut eller, efter ett försök som inte gick att
+hämta, när det gick. Samma `sha256` på två rader är en ny adress med
 samma innehåll. Inget av det, eller dagar före och efter mötet, lagras.
 
 ## Datamodell
@@ -251,7 +259,7 @@ src/kommunhandlingar/
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
-  versioner.py     versionsloggen: nya och ändrade dokument efter steg 2 (K53)
+  versionslogg.py  versionsloggen: nya och ändrade dokument efter steg 2 (K53)
   behandla.py      steg 2 för en kandidat: hoppa över, hämta, konvertera, skriva
   original.py      originalet hämtas, ett dokument i delar slås ihop (ADR-0049)
   pool.py          poolens front matter, uppslagen på källnyckel och sökväg

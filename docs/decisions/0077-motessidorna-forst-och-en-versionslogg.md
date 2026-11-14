@@ -55,15 +55,19 @@ versionerna lagras.
   i [ADR-0052](0052-nattkorningen-mergar-sin-pr-sjalv.md).
 * **Jobbet `arkiv`** startar när `moten` är klart, från dess gren eller,
   utan gren eller om `moten` föll, från `main`. Det gör upptäckten om och
-  kör steg 2 för de levande källorna, som då bara har omkonverteringen
-  kvar (ADR-0019), sedan arkivet, och checkar in på
+  kör steg 2 för de levande källorna, som då har omkonverteringen kvar
+  (ADR-0019) och det som kommit sedan mötenas jobb, sedan arkivet, och
+  checkar in på
   `nattkorning/<datum>-<id>-arkiv`. Grenen bygger på mötenas, så att de två
   PR:erna aldrig krockar: mergas arkivets först följer mötenas commit med.
   Varje jobb har sin egen tidsbudget.
 * **PR-jobbet** är ett återanvänt workflow som båda anropar, så att token
-  fortfarande bara når ett jobb utan utcheckning.
+  fortfarande bara når ett jobb utan utcheckning. De levande källornas
+  steg och incheckningen är var sin composite action som båda jobben
+  använder. Bara arkivets steg har `continue-on-error`, som i dag.
 * **`versioner/<kommun>.csv`** får en rad för varje källnyckel som efter
-  ett levande steg 2 är ny i poolen eller har en annan `kalla_url` än före:
+  ett levande steg 2 är ny i poolen eller har en annan `kalla_url` eller
+  `sha256` än före, också när steg 2 stoppas av ett fel:
   `sedd` (körningens tid), `organ`, `datum`, `typ`, `kallnyckel`,
   `kalla_url`, `sha256` och `dokument`. Raden räknas fram ur poolens front
   matter före och efter steg 2, inte i behandlingen av varje dokument.
@@ -85,10 +89,15 @@ versionerna lagras.
   (den upptäcks inte i dag heller, K12).
 * Dåligt, eftersom en version som både kommer och byts ut mellan två
   körningar inte syns.
+* Dåligt, eftersom adresserna i loggen kan ha personnamn i filnamnet,
+  som front matter under `data/`; undantaget i AGENTS.md utvidgas därför
+  till `versioner/`.
+* Dåligt, eftersom arkivets jobb checkar ut mötenas gren medan dess PR kan
+  mergas, så att GitHub inte får ta bort grenar efter merge.
 
 ### Confirmation
 
-Testerna för loggen i `tests/test_versioner.py`. Att jobben går i rätt
+Testerna för loggen i `tests/test_versionslogg.py`. Att jobben går i rätt
 ordning syns i första körningen efter mergen: mötenas PR öppnas innan
 arkivet är klart.
 
@@ -140,6 +149,19 @@ absolut först och vara en egen del, vilket gav de två jobben.
 
 Fönstren 7/7 och 0/14 dagar blir regler för statistiken när den byggs.
 Loggen fylls inte bakåt ur git-historiken nu; det går att göra senare.
+
+Granskningen (fas 6) fann att adresserna kan bära personnamn, till
+exempel i en motions filnamn. Loggen citerar samma värden som dokumentets
+front matter, maskade på samma sätt (ADR-0022), och utan adressen går
+källans tidpunkt förlorad. AI-agenten valde därför att utvidga undantaget
+för poolens innehåll till loggen i stället för att ta bort kolumnen; det
+avgörs av projektägaren vid kontrollpunkten i fas 7.
+
+Granskningen fann också att en rad som först skrivs med tom `sha256`,
+när dokumentet inte gick att hämta, aldrig fick sitt innehåll när det
+senare hämtades under samma adress. En ändrad `sha256` ger därför också en
+rad. Och loggen skrivs i en `finally`, så att ett oväntat fel i steg 2 inte
+lämnar ändrade dokument utan rad.
 
 Radens `sedd` är körningens tid, inte `hamtad`, eftersom en ny adress med
 samma innehåll inte ändrar `hamtad`

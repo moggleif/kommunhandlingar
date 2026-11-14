@@ -188,16 +188,19 @@ två saker i repot, som en ägare ordnar en gång:
    under Settings → Secrets and variables → Actions.
 2. *Allow auto-merge* påslaget under Settings → General.
 
-Faller jobbet "PR med automatisk merge" har token gått ut, saknar
+Faller jobbet "PR med automatisk merge" (under `pr-moten` eller
+`pr-arkiv`) har token gått ut, saknar
 behörighet, eller är automatisk merge avslagen; rätta det i
 inställningarna. Grenen är pushad ändå, och står PR:en redan öppen kan
 den mergas för hand.
 
 Utan hemligheten öppnar en människa eller agent PR:en från grenen
 (ADR-0015). En PR vars kontroll fallit står kvar omergad tills någon
-rättar felet. Ligger flera grenar omergade, merga den nyaste och ta bort
-de äldre, vilket också stänger deras PR:er; det de hade utöver den hämtas
-igen nästa natt.
+rättar felet. Arkivets gren bygger på mötenas från samma körning, så en
+merge av `-arkiv` tar med `-moten`. Ligger flera körningars grenar
+omergade, merga den nyaste körningens `-arkiv`, eller dess `-moten` om
+arkivet inte checkade in något, och ta bort de äldre, vilket också
+stänger deras PR:er; det de hade utöver den hämtas igen nästa natt.
 En gren som skrivits av en version före 0.5.0 maskas först med
 `python3 -m kommunhandlingar.maska_poolen data`; annars faller
 datakontrollen på dess personuppgifter (ADR-0022). På samma sätt fylls
