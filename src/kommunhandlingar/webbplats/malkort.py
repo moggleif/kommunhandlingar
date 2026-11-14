@@ -1,5 +1,5 @@
-"""Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050 och ADR-0056.
-Test: tests/test_malkort.py och tests/test_fokusomraden.py.
+"""Krav: K29, K35 och K50 i docs/02-KRAV.md, ADR-0050, ADR-0056 och ADR-0073.
+Test: tests/test_malkort.py, tests/test_fokusomraden.py och tests/test_malar.py.
 
 Ett kort per spår på sidan om ett organs mål och direktiv, de som gäller
 det senaste året först, och ett kommunmåls fokusområden i dess kort.
@@ -110,12 +110,14 @@ def post(mal: Mal) -> str:
     if mal.formulering:
         delar.append(f"<q>{escape(mal.formulering)}</q>")
     if mal.uppfoljning:
-        text = escape(mal.status) or utan_status(mal.bedomning)
-        prognos = " (prognos)" if mal.prognos else ""
-        delar.append(
-            f"Status: {ikon(mal.bedomning, mal.status, mal.prognos)} {text}{prognos}"
-        )
+        delar.append(status(mal))
     return "<br>".join([*delar, f"Källa: {kallank(mal.kalla)}"])
+
+
+def status(mal: Mal) -> str:
+    text = escape(mal.status) or utan_status(mal.bedomning)
+    prognos = " (prognos)" if mal.prognos else ""
+    return f"Status: {ikon(mal.bedomning, mal.status, mal.prognos)} {text}{prognos}"
 
 
 # En bedömning utan status är läst ur färgen på källans sida (ADR-0056).

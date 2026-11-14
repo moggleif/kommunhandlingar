@@ -183,7 +183,8 @@ class TestSidor(unittest.TestCase):
 
     def test_text_ur_poolen_escapas(self):
         html = self.statussida(dokument(datum="<script>"))
-        self.assertNotIn("<script>", html)
+        # Sidans eget skript är temats (K51); inget annat får bli ett.
+        self.assertEqual(html.count("<script>"), 1)
 
 
 class TestBygg(unittest.TestCase):

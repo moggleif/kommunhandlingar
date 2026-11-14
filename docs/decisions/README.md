@@ -38,7 +38,7 @@ Regler för det här repot, utöver MADR:
 | 0009 | [Tabellernas härkomst är dokumentets, sidnumret står i filnamnet, och CSV skrivs i ett fast format](0009-tabellernas-harkomst-och-csv-format.md) | accepted (0024 lägger till ett namn för tabeller över flera sidor) |
 | 0010 | [Kandidaterna hämtas organ för organ i konfigurationens ordning, och inom organet protokoll före handlingar](0010-ordningen-organ-for-organ.md) | accepted (0018 ger en ny ordning för ny historik, 0019 lägger omkonverteringen sist) |
 | 0011 | [Sitevision-adaptern tar organet från sidan, datumet ur filnamnet eller rubriken, och avvikande datum rättas i kommunfilen](0011-sitevision-organ-fran-sidan-datum-och-rattelser.md) | accepted (0062 låter filnamnet gälla i arkivet under ett annat möte samma år) |
-| 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0023 lägger till markdown-it-py för dokumenten, 0032 ett skript för kalendern, 0044 ett skript för målen, 0054 avvikelserna ur issuen) |
+| 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0023 lägger till markdown-it-py för dokumenten, 0032 ett skript för kalendern, 0044 ett skript för målen, 0054 avvikelserna ur issuen, 0074 ett skript för temat) |
 | 0013 | [Hämtningen görs med standardbiblioteket och en egen läsning av robots.txt, och kandidatlistan skrivs som JSON](0013-artig-hamtning-och-kandidatlistan.md) | accepted (0061 försöker `robots.txt` igen vid tillfälliga fel) |
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | accepted (0021 lägger till escapning) |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | accepted (0052 låter körningen öppna och merga PR:en själv) |
@@ -73,7 +73,7 @@ Regler för det här repot, utöver MADR:
 | 0047 | [Alla organ läses ur arkivets Sitevision-kopior, utan att vänta på att konverteringen blir färdig](0047-alla-organ-lases-ur-arkivet.md) | accepted |
 | 0048 | [När samma möte finns ur arkivet från två plattformar vinner dokumentet med högst kvalitet](0048-hogst-kvalitet-vinner-mellan-plattformarna.md) | accepted |
 | 0049 | [Ett mötes filer av samma typ hos Episerver slås ihop till ett dokument, med delarnas adresser och sha256 i front matter](0049-ett-motes-filer-slas-ihop-till-ett-dokument.md) | accepted |
-| 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik) |
+| 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik, 0073 lägger till ett år i taget och en väljare mellan perspektiven) |
 | 0051 | [Tidslinjen visar varje rubrik på en egen rad och markerar nya formuleringar](0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md) | accepted |
 | 0052 | [Nattkörningen öppnar sin PR med en egen token och mergas automatiskt när kontrollerna gått igenom](0052-nattkorningen-mergar-sin-pr-sjalv.md) | accepted |
 | 0053 | [Tidigare sammanträden läses ur poolens mappar och skrivs i kalenderfilen, och listan döljer dem bakom en knapp](0053-tidigare-sammantraden-las-ur-poolens-mappar.md) | accepted |
@@ -96,3 +96,5 @@ Regler för det här repot, utöver MADR:
 | 0070 | [Indexet byggs med webbplatsen som JSON Lines per kommun, med en `llms.txt` som ingång, och checkas inte in](0070-indexet-och-ingangen-byggs-med-webbplatsen.md) | proposed |
 | 0071 | [Protokollen delas per paragraf när webbplatsen byggs, och `arenden` fylls med paragrafernas diarienummer vid konverteringen](0071-protokollen-delas-per-paragraf-vid-bygget.md) | proposed |
 | 0072 | [Partiernas gruppmöten räknas fram ur kommunstyrelsens datum när kalendern byggs, och visas diskret som en vana](0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md) | proposed |
+| 0073 | [Målsidan får tre perspektiv att välja mellan – tidslinje, ett år i taget och målkort – och valet står i adressen](0073-malsidan-far-tre-perspektiv-att-valja-mellan.md) | proposed |
+| 0074 | [Webbplatsen följer läsarens ljusa eller mörka inställning, med en knapp i övre högra hörnet som minns valet](0074-webbplatsen-har-ljust-och-morkt-tema.md) | proposed |

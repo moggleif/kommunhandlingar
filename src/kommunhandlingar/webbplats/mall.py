@@ -1,9 +1,10 @@
-"""Krav: K14, K18, K22, K26, K27, K28, K36, K37 och K39 i docs/02-KRAV.md.
-Test: tests/test_webbplats.py."""
+"""Krav: K14, K18, K22, K26, K27, K28, K36, K37, K39 och K51 i docs/02-KRAV.md,
+ADR-0074 för temat. Test: tests/test_webbplats.py och tests/test_tema.py."""
 
 from dataclasses import dataclass, field
 from datetime import datetime
 from html import escape
+from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import avvikelser
@@ -12,38 +13,61 @@ from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Steg
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
+TEMA = Path(__file__).with_name("tema.js").read_text(encoding="utf-8")
+# Varje färg har ett ljust och ett mörkt värde (ADR-0074). En webbläsare utan
+# light-dark() får de ljusa värdena, och skriptet visar då ingen knapp.
 STIL = """
+:root { color-scheme: light dark;
+  --text: light-dark(#1a1a1a, #e4e6ea); --bakgrund: light-dark(#fff, #15171b);
+  --kant: light-dark(#999, #5f6672); --yta: light-dark(#f5f6f8, #22262d);
+  --linje: light-dark(#d9dde5, #3a404b); --dampad: light-dark(#5b6475, #a8b0bd);
+  --accent: light-dark(#1d5d73, #7cc4dc); --band: light-dark(#e3eef2, #1e3942);
+  --uppnatt: light-dark(#1a6b2a, #72d083); --delvis: light-dark(#8a5a00, #e6b552);
+  --ej: light-dark(#b00020, #ff8a94); }
+@supports not (color: light-dark(black, white)) {
+  :root { color-scheme: light; --text: #1a1a1a; --bakgrund: #fff; --kant: #999;
+    --yta: #f5f6f8; --linje: #d9dde5; --dampad: #5b6475; --accent: #1d5d73;
+    --band: #e3eef2; --uppnatt: #1a6b2a; --delvis: #8a5a00; --ej: #b00020; } }
+:root[data-tema="ljust"] { color-scheme: light; }
+:root[data-tema="morkt"] { color-scheme: dark; }
+.tema { position: fixed; top: 0.5rem; right: 0.5rem; z-index: 1; font: inherit;
+        padding: 0.2rem 0.8rem; border: 1px solid var(--kant); border-radius: 999px;
+        background: var(--bakgrund); color: var(--text); cursor: pointer; }
+.tema[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+nav[aria-label="Webbplatsen"] ul { padding-right: 9rem; }
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;
-       padding: 0 1rem; line-height: 1.5; color: #1a1a1a; background: #fff; }
+       padding: 0 1rem; line-height: 1.5; color: var(--text);
+       background: var(--bakgrund); }
 nav ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 1.5rem; }
 nav a[aria-current] { font-weight: bold; text-decoration: none; }
 .tabell, .sida { overflow-x: auto; }
 table { border-collapse: collapse; margin-bottom: 2rem; }
-th, td { border: 1px solid #999; padding: 0.25rem 0.6rem; vertical-align: top; }
+th, td { border: 1px solid var(--kant); padding: 0.25rem 0.6rem; vertical-align: top; }
 th[scope="row"] { text-align: left; }
 td.tal { text-align: right; font-variant-numeric: tabular-nums; }
 dl.harkomst { display: grid; grid-template-columns: max-content 1fr; gap: 0 1rem; }
 dl.harkomst dd { margin: 0; overflow-wrap: anywhere; }
-.sida { border-top: 1px solid #999; margin-top: 2rem; }
+.sida { border-top: 1px solid var(--kant); margin-top: 2rem; }
 .sida p { white-space: pre-wrap; }
 .markering { font-weight: bold; }
-pre { background: #f2f2f2; padding: 0.5rem; overflow-x: auto; }
+pre { background: var(--yta); padding: 0.5rem; overflow-x: auto; }
 .status { display: inline-block; padding: 0.1em; line-height: 0;
           border: 1px solid transparent; border-radius: 0.3em; cursor: help; }
 .status.prognos { border: 1px dashed currentColor; }
-.status.uppnatt { color: #1a6b2a; } .status.delvis { color: #8a5a00; }
-.status.ej { color: #b00020; }
-.status.ingen, .status.beslutat { color: #555; }
-.flikar ul { gap: 0.25rem; border-bottom: 2px solid #1a1a1a; margin: 0 0 1.5rem; }
-.flikar a { display: block; padding: 0.35rem 0.8rem; border: 1px solid #999;
+.status.uppnatt { color: var(--uppnatt); } .status.delvis { color: var(--delvis); }
+.status.ej { color: var(--ej); }
+.status.ingen, .status.beslutat { color: var(--dampad); }
+.flikar ul { gap: 0.25rem; border-bottom: 2px solid var(--text); margin: 0 0 1.5rem; }
+.flikar a { display: block; padding: 0.35rem 0.8rem; border: 1px solid var(--kant);
             border-bottom: none; border-radius: 0.4rem 0.4rem 0 0;
-            background: #f6f6f6; }
-.flikar a[aria-current] { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+            background: var(--yta); }
+.flikar a[aria-current] { background: var(--text); color: var(--bakgrund);
+                          border-color: var(--text); }
 .oversikt td { text-align: center; }
 .dold { position: absolute; width: 1px; height: 1px; overflow: hidden; }
-.oversikt tr.grupp th { background: #eee; text-align: left; }
+.oversikt tr.grupp th { background: var(--yta); text-align: left; }
 .oversikt th.utskott { padding-left: 1.8rem; font-weight: normal; }
-footer { border-top: 1px solid #999; margin-top: 3rem; padding: 1rem 0; }
+footer { border-top: 1px solid var(--kant); margin-top: 3rem; padding: 1rem 0; }
 """
 
 
@@ -73,8 +97,10 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(rubrik)} – kommunhandlingar</title>
 <style>{STIL}</style>
+<script>{TEMA}</script>
 </head>
 <body>
+<button type="button" class="tema" hidden>Mörkt tema</button>
 {meny(mall, adress)}
 <main>
 <h1>{escape(rubrik)}</h1>

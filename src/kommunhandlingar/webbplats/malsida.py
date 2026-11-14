@@ -1,12 +1,13 @@
-"""Krav: K26, K27, K29, K35 och K39 i docs/02-KRAV.md, ADR-0044, ADR-0045, ADR-0050,
-ADR-0051 och ADR-0056. Test: tests/test_mal.py, tests/test_malkort.py och
-tests/test_fokusomraden.py.
+"""Krav: K26, K27, K29, K35, K39 och K50 i docs/02-KRAV.md, ADR-0044, ADR-0045,
+ADR-0050, ADR-0051, ADR-0056 och ADR-0073. Test: tests/test_mal.py,
+tests/test_malkort.py, tests/test_malar.py och tests/test_fokusomraden.py.
 
 Sidan om ett organs mål och direktiv: en hopfälld del om metoden, antalet
-per år (`malstatistik.py`), ett urval, tidslinjen (`maltidslinje.py`) och
-ett kort per spår (`malkort.py`). Skriptet i `mal.js` visar bara det som
-valts och öppnar kortet för ett mål som väljs i tidslinjen; utan det står
-allt på sidan. Stilen står i `mal.css`.
+per år (`malstatistik.py`), ett urval och tre perspektiv: tidslinjen
+(`maltidslinje.py`), ett år i taget (`malar.py`) och ett kort per spår
+(`malkort.py`). Skriptet i `mal.js` visar bara det som valts och öppnar
+kortet för ett mål som väljs i tidslinjen, och `perspektiv.js` visar ett
+perspektiv i taget; utan dem står allt på sidan. Stilen står i `mal.css`.
 """
 
 from collections import defaultdict
@@ -16,12 +17,14 @@ from pathlib import Path
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.flikar import MAL, flikar
 from kommunhandlingar.webbplats.mal import SLAG, Mal
+from kommunhandlingar.webbplats.malar import Underlag, aren
 from kommunhandlingar.webbplats.malkort import korten
 from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.malstatistik import protokollar, statistik
 from kommunhandlingar.webbplats.maltidslinje import namnden_rad, tidslinje
 
 SKRIPT = Path(__file__).with_name("mal.js")
+PERSPEKTIVSKRIPT = Path(__file__).with_name("perspektiv.js")
 STIL = Path(__file__).with_name("mal.css")
 ADR = "/blob/main/docs/decisions/"
 ADR_0044 = "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
@@ -63,6 +66,14 @@ FOKUS = (
     "för varje.</p>"
 )
 
+# Väljaren visas av skriptet, som visar ett perspektiv i taget (ADR-0073).
+PERSPEKTIV = (
+    '<div class="perspektiv" role="group" aria-label="Perspektiv" hidden>'
+    '<button type="button" data-vy="tidslinje">Tidslinje</button>'
+    '<button type="button" data-vy="ar">Ett år i taget</button>'
+    '<button type="button" data-vy="kort">Målkort</button></div>'
+)
+
 
 # Sidan börjar med målens första år; poolens dokument kan vara äldre.
 def fore_malen(forsta_dokument: int, forsta_mal: int) -> str:
@@ -99,11 +110,27 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
         + om_sidan(mall, any(m.huvudmal for m in malen))
         + statistik(malen, uppfoljda, protokoll)
         + urval(ar[-1], {m.slag for m in malen})
-        + tidslinje(spar, ar, luckor, namnden_rad(uppfoljda, protokoll, ar))
-        + korten(spar, ar, luckor)
-        + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
+        + PERSPEKTIV
+        + vy(
+            "tidslinje",
+            tidslinje(spar, ar, luckor, namnden_rad(uppfoljda, protokoll, ar)),
+        )
+        + vy("ar", aren(Underlag(spar, ar, luckor, uppfoljda, protokoll)))
+        + vy("kort", korten(spar, ar, luckor))
+        + skript()
     )
     return sida(mall, sidans, f"Mål och direktiv – {namn}", innehall)
+
+
+def skript() -> str:
+    return "".join(
+        f"<script>{fil.read_text(encoding='utf-8')}</script>"
+        for fil in (SKRIPT, PERSPEKTIVSKRIPT)
+    )
+
+
+def vy(namn: str, innehall: str) -> str:
+    return f'<section data-vy="{namn}">{innehall}</section>'
 
 
 def sparen(malen: list[Mal]) -> list[list[Mal]]:

@@ -1,7 +1,7 @@
-// Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050 och ADR-0056.
+// Krav: K29, K35 och K50 i docs/02-KRAV.md, ADR-0050, ADR-0056 och ADR-0073.
 // Test: tests/test_malkort.py och tests/test_fokusomraden.py.
-// Visar bara de mål i tidslinjen och bland korten som valts med en knapp,
-// och döljer ett slags rubrik i tidslinjen när inget av dess mål visas.
+// Visar bara de mål som valts med en knapp, i tidslinjen, bland korten och
+// i målsidans Ett år i taget, och döljer ett slags rubrik i tidslinjen när inget av dess mål visas.
 // Öppnar historiken på kortet för ett mål som väljs i tidslinjen, också
 // när samma mål väljs igen. Ett kommunmåls kort visas när ett av dess
 // fokusområden visas.

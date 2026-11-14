@@ -1,4 +1,5 @@
-"""Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
+"""Krav: K22 och K51 i docs/02-KRAV.md, ADR-0032 och ADR-0074. Test:
+tests/test_kalender.py och tests/test_tema.py.
 
 Ett organ och organen som hör till det (`hor_till`) får samma färgton, och
 tonerna fördelas jämnt runt färgcirkeln i kommunfilens ordning. Färgen bär
@@ -26,6 +27,6 @@ def farger(kommun: Kommun, organ: set[str]) -> dict[str, tuple[str, str]]:
 
 def stil(farg: dict[str, tuple[str, str]]) -> str:
     return "".join(
-        f".o-{organ} {{ background: {bakgrund}; border-color: {kant}; }}"
+        f".o-{organ} {{ background: {bakgrund}; border-color: {kant}; color: {kant}; }}"
         for organ, (bakgrund, kant) in farg.items()
     )

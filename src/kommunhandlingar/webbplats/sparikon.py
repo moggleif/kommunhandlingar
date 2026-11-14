@@ -1,5 +1,5 @@
-"""Krav: K36 och K37 i docs/02-KRAV.md, ADR-0057 och ADR-0058.
-Test: tests/test_lokalbehov.py, tests/test_initiativ.py.
+"""Krav: K36, K37 och K51 i docs/02-KRAV.md, ADR-0057, ADR-0058 och ADR-0074.
+Test: tests/test_lokalbehov.py, tests/test_initiativ.py, tests/test_tema.py.
 
 Ett stegs fas som ikon. Faserna skiljs åt med form, inte bara färg; en
 fas med siffra bär den och ett tolkat steg har en streckad ram. Varje
@@ -31,7 +31,7 @@ def siffra(slag: Slag, steg: Steg) -> str:
     tecken = steg.varde if steg.varde.isdigit() else steg.varde[:1].upper()
     return (
         f'<text x="8" y="11.5" text-anchor="middle" font-size="10" '
-        f'font-weight="bold" fill="#fff">{escape(tecken)}</text>'
+        f'font-weight="bold" style="fill: var(--bakgrund)">{escape(tecken)}</text>'
     )
 
 
