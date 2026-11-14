@@ -63,7 +63,8 @@ Valt: A, eftersom villkoret redan finns för de levande källorna
 ### Consequences
 
 * Bra, eftersom hela poolen kan föras till samma version, och #84 kan
-  stängas när sammanfattningen inte längre har några "konverterad om".
+  stängas när sammanfattningen inte längre har några "konverterad om"
+  eller "fullständig .md orörd" vid tidsgränsen (ADR-0075).
 * Bra, eftersom koden blir ett villkor.
 * Dåligt, eftersom 1 573 kopior hämtas igen ur webbarkivet. Med arkivets
   intervall och konverteringen tar det flera nätter, efter de levande

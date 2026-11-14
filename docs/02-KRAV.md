@@ -1700,10 +1700,11 @@ och [Körning och incheckning](03-ARKITEKTUR.md#körning-och-incheckning).
 - **Så** avbryts konverteringen, dokumentet skrivs som `ej-konverterad`
   med `fel: tidsgrans`, sammanfattningen visar adressen, och körningen går
   vidare till nästa kandidat.
-- **Givet** ett dokument med text som konverteras om (K8)
+- **Givet** ett dokument med text som konverteras om med samma sha256 (K8)
 - **När** omkonverteringen når dokumentets gräns
-- **Så** lämnas dokumentets `.md` orörd, och sammanfattningen visar
-  adressen.
+- **Så** lämnas dokumentets `.md` orörd, sammanfattningen visar adressen,
+  och nästa körning försöker igen. En ny version med en annan sha256
+  skrivs som `fel: tidsgrans` över den gamla, som i K9.
 - **Givet** ett dokument med `fel: tidsgrans` och samma `kalla_url` som
   kandidaten
 - **När** en senare körning når kandidaten

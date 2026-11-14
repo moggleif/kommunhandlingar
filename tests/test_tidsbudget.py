@@ -189,6 +189,18 @@ class TestDokumentetsGrans(unittest.TestCase):
         self.assertEqual(utfall, {orord: 2})
         self.assertEqual(md.read_text(encoding="utf-8"), fore)
 
+    def test_en_ny_version_vid_gransen_skrivs_over(self):
+        self.kor()
+        self.klient.filer["u1"] = "begransad.pdf"
+        with mock.patch(
+            "kommunhandlingar.konvertering.dokument.las_sidor",
+            side_effect=Dokumentgrans,
+        ):
+            utfall = self.kor("kommunhandlingar 0.2.0")
+        orord = "ej konverterad (tidsgrans), fullständig .md orörd"
+        self.assertEqual(utfall, {"ej konverterad (tidsgrans)": 1, orord: 1})
+        self.assertEqual(self.falt("protokoll")["fel"], "tidsgrans")
+
 
 class TestHogst(unittest.TestCase):
     def setUp(self):

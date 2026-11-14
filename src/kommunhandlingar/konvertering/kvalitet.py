@@ -15,6 +15,7 @@ KVALITETER = (
 )
 SIDKVALITETER = ("ok", "tabell-osaker", "ocr", "tom", "ej-konverterad")
 LASTA = {"ok", "tabell-osaker", "ocr"}
+UTAN_TEXT = ("ej-hamtad", "ej-konverterad")
 
 
 def dokumentets(per_sida: list[str]) -> str:

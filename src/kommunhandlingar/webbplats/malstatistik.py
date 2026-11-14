@@ -12,6 +12,7 @@ bredvid grafen, och tabellen är hopfälld under dem.
 
 from dataclasses import dataclass
 
+from kommunhandlingar.konvertering.kvalitet import UTAN_TEXT
 from kommunhandlingar.webbplats.mal import SLAG, Mal
 from kommunhandlingar.webbplats.malgraf import graf
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
@@ -36,8 +37,6 @@ FLERTAL = {
 }
 RUBRIKER = ("Uppföljningar med målen", "Med bedömning")
 NAMNDEN = ("uppföljningar i protokollen", "dragningar om målen")
-
-UTAN_TEXT = ("ej-hamtad", "ej-konverterad")
 
 
 @dataclass(frozen=True)

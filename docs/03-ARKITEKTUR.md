@@ -128,7 +128,8 @@ två startas står i K11.
   `ej-konverterad` med `fel: tidsgrans` innan körningen tar nästa
   kandidat (K52,
   [ADR-0075](decisions/0075-ett-dokument-far-en-egen-tidsgrans.md)). En
-  omkonvertering som når gränsen lämnar ett dokument med text orört.
+  omkonvertering av samma original som når gränsen lämnar ett dokument
+  med text orört, och nästa körning försöker igen.
   Kommer den hårda gränsen först går den före. Resten av tiden fram till
   Actions gräns på 6 timmar per jobb är till för kontrollerna och pushen. Budgeten är vår egen och följer
   GitHubs gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),

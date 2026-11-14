@@ -32,6 +32,7 @@ from kommunhandlingar.arkivluckor import (
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.kandidat import Kandidat
 from kommunhandlingar.konvertering.dokument import Resultat, konvertera, kvalitetsfalt
+from kommunhandlingar.konvertering.kvalitet import UTAN_TEXT
 from kommunhandlingar.plats import grundplats, ledigt_for
 from kommunhandlingar.pool import Pool
 from kommunhandlingar.tidsbudget import utan_avbrott
@@ -156,7 +157,7 @@ def hamtad_fil(
     resultat = (
         Resultat("ej-konverterad", hamtat.fel) if hamtat.fel else konvertera(hamtat.pdf)
     )
-    if resultat.fel == tidsbudget.FEL and gammal and har_text(gammal):
+    if resultat.fel == tidsbudget.FEL and samma_fil and har_text(gammal):
         return f"ej konverterad ({tidsbudget.FEL}), fullständig .md orörd"
     if steg.arkiv and forlorar(gammal, dokument.kandidat, resultat.kvalitet):
         return behall(steg, dokument)
@@ -173,7 +174,7 @@ def hamtad_fil(
 
 
 def har_text(falt: dict[str, str]) -> bool:
-    return falt["kvalitet"] not in ("ej-hamtad", "ej-konverterad")
+    return falt["kvalitet"] not in UTAN_TEXT
 
 
 def samma_original(gammal: dict | None, kandidat: Kandidat, sha256) -> bool:

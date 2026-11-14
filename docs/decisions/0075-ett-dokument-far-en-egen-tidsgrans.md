@@ -65,9 +65,11 @@ dokument som tar för lång tid, inte bara det här.
   omkonverteringen påslagen prövas det igen när poolens version är en
   annan (ADR-0019), och med ny `kalla_url` som en ny version (K9).
 * **En omkonvertering som når gränsen** lämnar ett dokument som har text
-  orört; bara ett nytt dokument, ett `ej-hamtad` eller ett
-  `ej-konverterad` skrivs som `fel: tidsgrans`. Annars kunde en
-  långsammare runner ta bort text som en tidigare version läste.
+  orört, när originalet är detsamma (samma sha256). Annars kunde en
+  långsammare runner ta bort text som en tidigare version läste. Det
+  registreras inte, så nästa körning försöker igen. En ny version med
+  en annan sha256 skrivs som `fel: tidsgrans`, som varje ny version som
+  inte går att konvertera (K9).
 * **Budgetens hårda gräns går före.** Kommer den före dokumentets 30
   minuter läggs dokumentet åt sidan som förut (K11), utan att något
   skrivs. Annars ställs larmet om till den hårda gränsen när
@@ -93,6 +95,14 @@ dokument som tar för lång tid, inte bara det här.
 * Dåligt, eftersom larmet bara bryter mellan Pythons instruktioner: ett
   enskilt anrop i C som aldrig blir klart, eller en sida som tar slut på
   minnet, stoppas inte av gränsen. Taket i #275 hjälper mot det senare.
+* Dåligt, eftersom en omkonvertering som når gränsen kostar 30 minuter
+  varje natt tills versionen i dokumentet stämmer, vilket den inte gör
+  förrän konverteringen blir snabbare. Sammanfattningen visar adressen,
+  så att det syns. Inget dokument i poolen har hittills tagit mer än 19
+  minuter.
+* Dåligt, eftersom larmet kan gå i ögonblicket mellan konverteringens
+  slut och att det stängs av; då blir ett färdigt dokument `tidsgrans`.
+  Fönstret är mikrosekunder.
 * Neutralt, eftersom gränsen gäller varje anrop till `konvertera`, också
   facit (K20), där inget dokument kommer nära den.
 * Neutralt, eftersom en omkonvertering vid varje ny version prövar
@@ -103,9 +113,10 @@ dokument som tar för lång tid, inte bara det här.
 Tester i `tests/test_tidsbudget.py`: en konvertering som når dokumentets
 gräns skrivs som `ej-konverterad` med `fel: tidsgrans` och klarar
 datakontrollerna, nästa kandidat tas, nästa körning räknar dokumentet som
-oförändrat, en omkonvertering vid gränsen lämnar texten orörd, och larmet
-för den hårda gränsen ställs tillbaka efter konverteringen, minus tiden den
-tog också när den är kort, eller går före när det kommer först.
+oförändrat, en omkonvertering vid gränsen lämnar texten orörd medan en ny
+version skrivs över, och larmet för den hårda gränsen ställs tillbaka efter
+konverteringen, minus tiden den tog också när den är kort, eller går före
+när det kommer först.
 
 ## Pros and Cons of the Options
 
