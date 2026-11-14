@@ -1,5 +1,5 @@
-"""Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050 och ADR-0056.
-Test: tests/test_malkort.py och tests/test_fokusomraden.py.
+"""Krav: K29, K35 och K50 i docs/02-KRAV.md, ADR-0050, ADR-0056 och ADR-0073.
+Test: tests/test_malkort.py, tests/test_fokusomraden.py och tests/test_malar.py.
 
 Ett kort per spår på sidan om ett organs mål och direktiv, de som gäller
 det senaste året först, och ett kommunmåls fokusområden i dess kort.

@@ -1,13 +1,16 @@
-// Krav: K50 i docs/02-KRAV.md, ADR-0073. Test: tests/test_malar.py.
-// Står på målsidan efter mal.js. Visar ett perspektiv i taget, och i Ett år
-// i taget ett år, efter adressen: ?vy=tidslinje, ?vy=ar&ar=2025 eller
-// ?vy=kort. Utan val är det tidslinjen och det senaste året, och en adress
-// till ett kort (#mal-3) visar korten. Varje val läggs i webbläsarens
-// historik. Ett mål som väljs visar korten, före klicket så att
-// webbläsaren kan gå till kortet. Utan skriptet står alla perspektiv.
+// Krav: K50 i docs/02-KRAV.md, ADR-0073. Test: tests/test_malar.py prövar att
+// skriptet och väljarna står på sidan; hur det beter sig prövas för hand.
+// Står på målsidan. Visar ett perspektiv i taget, och i Ett år i taget ett
+// år, efter adressen: ?vy=tidslinje, ?vy=ar&ar=2025 eller ?vy=kort. Utan val
+// är det tidslinjen och det senaste valda året, först det senaste året, och
+// en adress till ett kort (#mal-3) visar korten. Varje val läggs i
+// webbläsarens historik. Ett mål som väljs visar korten redan i
+// klickhanteraren, så att webbläsaren kan gå till kortet. Utan skriptet står
+// alla perspektiv.
 (function () {
   var perspektiv = document.querySelector(".perspektiv");
   var arval = document.querySelector(".arval");
+  var valt = null;
   var aren = Array.prototype.map.call(arval.querySelectorAll("button"), function (knapp) {
     return knapp.dataset.ar;
   });
@@ -17,7 +20,8 @@
     var fraga = new URLSearchParams(location.search);
     var vy = /^#mal-/.test(location.hash) ? "kort" : fraga.get("vy");
     if (!perspektiv.querySelector('[data-vy="' + vy + '"]')) vy = "tidslinje";
-    var ar = aren.indexOf(fraga.get("ar")) >= 0 ? fraga.get("ar") : aren[aren.length - 1];
+    var onskat = fraga.get("ar") || valt;
+    var ar = aren.indexOf(onskat) >= 0 ? onskat : aren[aren.length - 1];
     return { vy: vy, ar: ar };
   }
 
@@ -36,6 +40,7 @@
 
   function visa() {
     var nu = lage();
+    valt = nu.ar;
     visaVy(nu.vy);
     document.querySelectorAll("section.aret").forEach(function (sektion) {
       sektion.hidden = sektion.dataset.ar !== nu.ar;

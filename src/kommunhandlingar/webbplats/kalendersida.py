@@ -1,5 +1,6 @@
-"""Krav: K22, K32 och K49 i docs/02-KRAV.md, ADR-0032, ADR-0053 och ADR-0072.
-Test: tests/test_kalender.py och tests/test_gruppmoten.py.
+"""Krav: K22, K32, K49 och K51 i docs/02-KRAV.md, ADR-0032, ADR-0053, ADR-0072
+och ADR-0074. Test: tests/test_kalender.py, tests/test_gruppmoten.py och
+tests/test_tema.py.
 
 Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen och
 källorna per organ och år, urvalet av organ, en tabell per månad och

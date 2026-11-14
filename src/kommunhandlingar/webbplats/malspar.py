@@ -1,7 +1,7 @@
-"""Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050 och ADR-0056.
-Test: tests/test_malkort.py och tests/test_fokusomraden.py.
+"""Krav: K29, K35 och K50 i docs/02-KRAV.md, ADR-0050, ADR-0056 och ADR-0073.
+Test: tests/test_malkort.py, tests/test_fokusomraden.py och tests/test_malar.py.
 
-Det tidslinjen och korten båda behöver veta om ett spår: dess rubriker,
+Det tidslinjen, korten och Ett år i taget alla behöver veta om ett spår: dess rubriker,
 slag och egenskaper för urvalet, vad som visas för ett år, och vilka
 fokusområden som står under ett kommunmål.
 """

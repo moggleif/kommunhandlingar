@@ -3,6 +3,8 @@ malar.py, malsida.py och mal.js."""
 
 import unittest
 
+from tests.test_fokusomraden import RADER
+from tests.test_fokusomraden import sida as fokussida
 from tests.test_malkort import UPPFOLJDA, sida
 
 # Trygga miljöer står 2022 och 2025 och heter Läsfrämjande 2026; direktivet
@@ -79,6 +81,10 @@ class TestEttArITaget(unittest.TestCase):
         self.assertIn("Protokollen 2022 tar inte upp målen.", aret(html, 2022))
         self.assertIn("Inga protokoll med text i poolen 2025.", aret(html, 2025))
 
+    def test_ar_utan_mal_har_protokollen(self):
+        html = sida(dokumentar=(2022, 2023, 2024), uppfoljda=UPPFOLJDA)
+        self.assertIn("Protokollen 2023 tar inte upp målen.", aret(html, 2023))
+
     def test_utan_uppfoljningsfil_inget_om_protokollen(self):
         self.assertNotIn("Protokollen", aret(sida(), 2022))
 
@@ -100,3 +106,14 @@ class TestPerspektiven(unittest.TestCase):
         self.assertLess(html.index('class="urval"'), vyer[0])
         self.assertIn('<div class="arval" role="group" aria-label="År" hidden>', html)
         self.assertIn("// Krav: K50 i docs/02-KRAV.md, ADR-0073.", html)
+
+
+class TestFokusomradenEttArITaget(unittest.TestCase):
+    def test_fokusomrade_utan_sitt_kommunmal_det_aret_star_for_sig(self):
+        rader = RADER.replace(
+            "fsn,2024,fokusområde,Goda bostäder för fler.",
+            "fsn,2025,fokusområde,Goda bostäder för fler.",
+        )
+        html = aret(fokussida(rader), 2025)
+        self.assertIn("<dt>fokusområden</dt><dd>1</dd>", html)
+        self.assertIn("<h4>Goda bostäder för fler. <small>tolkad</small></h4>", html)

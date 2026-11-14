@@ -1,6 +1,6 @@
-"""Krav: K27, K28, K29 och K35 i docs/02-KRAV.md, ADR-0045, ADR-0046, ADR-0050
-och ADR-0056. Test: tests/test_malgrupper.py, tests/test_uppfoljningar.py och
-tests/test_fokusomraden.py.
+"""Krav: K27, K28, K29, K35 och K50 i docs/02-KRAV.md, ADR-0045, ADR-0046,
+ADR-0050, ADR-0056 och ADR-0073. Test: tests/test_malgrupper.py,
+tests/test_uppfoljningar.py, tests/test_fokusomraden.py och tests/test_malar.py.
 
 Antalet per år på sidan om ett organs mål och direktiv: rubrikerna av
 varje slag som finns på sidan, uppföljningarna i poolen som redovisar dem,
@@ -67,7 +67,7 @@ def statistik(
     ]
     return (
         '<h2 id="antal">Antal per år</h2><div class="sammandrag">'
-        + senaste(ar[-1], slagen, antal[-1], namnden[-1])
+        + arets_ruta(malen, uppfoljningar, protokollar, ar[-1])
         + f'<div class="ruta">{graf(list(ar), serier)}</div></div>'
         + "<details><summary>Tabell över antal per år</summary>"
         + tabell(ar, slagen, antal, namnden)
@@ -76,7 +76,8 @@ def statistik(
     )
 
 
-# Det senaste året har alltid mål, eftersom åren slutar med målens sista år.
+# Året har mål: det senaste året har alltid det, eftersom åren slutar med
+# målens sista år, och Ett år i taget visar rutan bara för år med mål.
 def senaste(ar: int, slagen: list[str], antal: Antal, namnden: tuple | None) -> str:
     tal = list(zip(antal.per_slag, (FLERTAL[s] for s in slagen), strict=True))
     if namnden:
@@ -85,13 +86,14 @@ def senaste(ar: int, slagen: list[str], antal: Antal, namnden: tuple | None) -> 
     return f'<div class="ruta"><h3>{ar}</h3><dl class="siffror">{siffror}</dl></div>'
 
 
-# Ett år med mål, som det står i Ett år i taget (K50).
+# Ett år med mål: det senaste i sammandraget, och varje år i Ett år i taget
+# (K50).
 def arets_ruta(
-    malen: list[Mal], uppfoljningar: list[Uppfoljning], protokollar: set[int], ar: int
+    malen: list[Mal], uppfoljningar: list[Uppfoljning], med_protokoll: set[int], ar: int
 ) -> str:
     slagen = [s for s in SLAG if any(m.slag == s for m in malen)]
     arets = [u for u in uppfoljningar if u.ar == ar]
-    namnden = i_namnden(arets) if ar in protokollar else None
+    namnden = i_namnden(arets) if ar in med_protokoll else None
     return senaste(ar, slagen, rakna([m for m in malen if m.ar == ar], slagen), namnden)
 
 

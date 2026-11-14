@@ -51,6 +51,12 @@ Valt: CSS-variabler med `light-dark()` och en knapp som minns valet.
   innan sidan ritas, så att den inte blinkar.
 * **Utan skript** följer sidan läsarens inställning, och knappen, som
   inte kan göra något, visas inte.
+* **Ljust tema** får samma värden som målsidan redan hade, så några gråa
+  toner på andra sidor ändras lite (`#555` blir `#5b6475`, `#f2f2f2` och
+  `#eee` blir `#f5f6f8`, `#ccc` och `#888` blir variablernas linje och
+  kant).
+* **Nyckeln** i `localStorage` är `kommunhandlingar-tema`, eftersom
+  lagringen delas med andra sidor på samma värd.
 * **Kalenderns organrutor** behåller sina ljusa färgtoner och mörk text i
   båda temana, eftersom tonerna är det som skiljer organen åt.
 
@@ -60,15 +66,19 @@ Valt: CSS-variabler med `light-dark()` och en knapp som minns valet.
   hen vill.
 * Good, eftersom en ny färg skrivs en gång med båda värdena.
 * Bad, eftersom `light-dark()` kräver en webbläsare från 2024 eller
-  senare; en äldre visar ljust tema.
+  senare. I en äldre blir variablerna ogiltiga och statusfärgerna och
+  bocken i ikonerna skulle försvinna, så stilen har en reserv med de ljusa
+  värdena i `@supports not (color: light-dark(black, white))`. De ljusa
+  värdena står därmed två gånger, och ett test prövar att de är lika. En
+  äldre webbläsare visar ljust tema och ingen knapp.
 * Bad, eftersom valet bara gäller i den webbläsaren, och den som rensar
   den får läsarens inställning igen.
 
 ### Confirmation
 
 `tests/test_tema.py` prövar att sidan har knappen och skriptet i
-`<head>`, och att stilarna och figurerna inte har några färger utanför
-variablerna.
+`<head>`, att stilarna och figurerna inte har några färger utanför
+variablerna och att reserven har de ljusa värdena.
 Läsbarheten prövas för hand i båda temana på en målsida, en spårsida, en
 dokumentsida och kalendern.
 

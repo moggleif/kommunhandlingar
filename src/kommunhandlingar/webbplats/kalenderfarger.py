@@ -1,4 +1,5 @@
-"""Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
+"""Krav: K22 och K51 i docs/02-KRAV.md, ADR-0032 och ADR-0074. Test:
+tests/test_kalender.py och tests/test_tema.py.
 
 Ett organ och organen som hör till det (`hor_till`) får samma färgton, och
 tonerna fördelas jämnt runt färgcirkeln i kommunfilens ordning. Färgen bär

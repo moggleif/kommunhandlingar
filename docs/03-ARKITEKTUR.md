@@ -1591,11 +1591,13 @@ varje push till `main`, för hand och när ett issue med etiketten
   [ADR-0074](decisions/0074-webbplatsen-har-ljust-och-morkt-tema.md)):
   färgerna står som CSS-variabler i sidmallens stil, var och en med ett
   ljust och ett mörkt värde i `light-dark()`, och övriga stilar och
-  SVG-figurerna använder variablerna. Sidan följer läsarens inställning
-  (`color-scheme: light dark`). Skriptet `webbplats/tema.js` står i varje
-  sidas `<head>`: det sätter temat som sparats i `localStorage` innan
-  sidan ritas, och visar knappen "Mörkt tema" fast i övre högra hörnet,
-  som byter och sparar temat. Kalenderns organrutor har mörk text på sina
+  SVG-figurerna använder variablerna. En webbläsare utan `light-dark()`
+  får de ljusa värdena ur en `@supports`-reserv. Sidan följer läsarens
+  inställning (`color-scheme: light dark`). Skriptet `webbplats/tema.js`
+  står i varje sidas `<head>`: det sätter temat som sparats i
+  `localStorage` (nyckeln `kommunhandlingar-tema`) innan sidan ritas, och
+  visar knappen "Mörkt tema" fast i övre högra hörnet, som byter och
+  sparar temat. Utan `light-dark()` visas ingen knapp. Kalenderns organrutor har mörk text på sina
   ljusa toner i båda temana.
 - **Kommunens översikt** (K39, `webbplats/oversikt.py`) börjar med
   antalet dokument och det äldsta och senaste datumet. Tabellen har en
@@ -1893,10 +1895,12 @@ filen (K26), länkad från organets sida.
     status och källa, märkt "nytt" när spåret inte står året innan, en
     lista med spåren som stod året innan men inte i år, och protokollens
     uppföljningar och dragningar det året med länk till paragrafens sida.
-    Fokusområdena står i sitt kommunmåls kort. En lucka och ett år utan mål
+    Fokusområdena står i sitt kommunmåls kort, och för sig ett år då
+    kommunmålet saknas. En lucka och ett år utan mål
     sägs med ord, efter en lucka jämförs inte med året innan, och ett år
-    utan protokoll med text säger det.
-  Det tidslinjen och korten delar, som årets status, spårets rubrik och
+    utan protokoll med text säger det. Ett år med dokument men utan mål
+    har också protokollen.
+  Det tidslinjen, korten och Ett år i taget delar, som årets status, spårets rubrik och
   slag och radens data-attribut för urvalet, står i
   `webbplats/malspar.py`. Stilen står i `webbplats/mal.css`.
 - **Skripten** står i sidan. `webbplats/mal.js` visar urvalet och

@@ -1,5 +1,5 @@
-"""Krav: K27 och K35 i docs/02-KRAV.md, ADR-0045 och ADR-0056.
-Test: tests/test_malgrupper.py.
+"""Krav: K27, K35 och K51 i docs/02-KRAV.md, ADR-0045, ADR-0056 och ADR-0074.
+Test: tests/test_malgrupper.py och tests/test_tema.py.
 
 En linjegraf i SVG, utan skript: år längs x-axeln, antal längs y-axeln
 och en linje per serie. Serierna skiljs med streckning och punktform, inte

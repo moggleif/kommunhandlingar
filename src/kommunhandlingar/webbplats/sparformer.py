@@ -1,5 +1,5 @@
-"""Krav: K36–K38, K42–K44 i docs/02-KRAV.md. Test: tests/test_lokalbehov.py
-och de andra testerna för spår över tid.
+"""Krav: K36–K38, K42–K44 och K51 i docs/02-KRAV.md. Test: tests/test_lokalbehov.py,
+de andra testerna för spår över tid och tests/test_tema.py.
 
 Formerna som slagen av spår ritar sina faser med (`sparslag.py`,
 `granskningsslag.py`). Faserna skiljs åt med form, inte bara färg.

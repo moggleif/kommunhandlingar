@@ -1596,7 +1596,8 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   med årets rubrik, formulering, status och källa, märkt när målet är nytt
   för året, vilka mål som fanns året innan men inte i år, och protokollens
   uppföljningar och dragningar om målen det året med paragraf och länk.
-  Ett kommunmåls fokusområden står i dess kort.
+  Ett kommunmåls fokusområden står i dess kort, och för sig ett år då
+  kommunmålet saknas, så att inget av årets mål utelämnas.
 - **Givet** ett år i Ett år i taget som är en lucka i poolen, ett år med
   dokument men utan mål, eller ett år vars föregående år är en lucka
 - **När** året visas
@@ -1631,6 +1632,8 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 - **Så** går text, länkar, statusikoner, faser, grafer, tidslinjen,
   korten och kalendern att läsa, och statusfärgerna skiljs åt som i ljust
   tema. Färgen bär aldrig informationen ensam.
-- **Givet** en sida utan JavaScript
+- **Givet** en sida utan JavaScript, eller i en webbläsare utan stöd för
+  två värden per färg
 - **När** den visas
-- **Så** följer den läsarens inställning, och knappen visas inte.
+- **Så** följer den läsarens inställning, eller är ljus, och knappen visas
+  inte.

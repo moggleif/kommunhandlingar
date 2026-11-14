@@ -52,14 +52,16 @@ def innehall(underlag: Underlag, ar: int) -> str:
     if ar in underlag.luckor:
         return f"<h3>{ar}</h3><p>Lucka i poolen: inga dokument från organet {ar}.</p>"
     if not pa_aret(underlag.spar, ar):
-        return f"<h3>{ar}</h3><p>Poolens dokument från organet {ar} har inga mål.</p>"
+        return (
+            f"<h3>{ar}</h3><p>Poolens dokument från organet {ar} har inga mål.</p>"
+            + protokollen(underlag, ar)
+        )
     malen = [m for spar in underlag.spar for m in spar]
-    nya = nytt(underlag, ar)
     return (
         arets_ruta(malen, underlag.uppfoljda, underlag.protokollar, ar)
         + jamforelse(underlag, ar)
         + '<div class="malkort">'
-        + "".join(arskort(underlag, nr, ar, nya) for nr in ordnade(underlag, ar))
+        + "".join(arskort(underlag, nr, ar) for nr in ordnade(underlag, ar))
         + "</div>"
         + protokollen(underlag, ar)
     )
@@ -94,10 +96,14 @@ def jamforelse(underlag: Underlag, ar: int) -> str:
     return f"<p>Försvann sedan {ar - 1}: {lankar}.</p>"
 
 
-# Fokusområdena står i sitt kommunmåls kort och inte för sig.
+# Ett fokusområde står i sitt kommunmåls kort, och för sig de år kommunmålet
+# saknas, så att inget av årets mål utelämnas.
 def ordnade(underlag: Underlag, ar: int) -> list[int]:
     aret = pa_aret(underlag.spar, ar)
-    nummer = [nr for nr, _ in fristaende(underlag.spar) if nr in aret]
+    nummer = []
+    for nr, malen in fristaende(underlag.spar):
+        egna = [nr] if nr in aret else [f for f, _ in under(underlag.spar, malen)]
+        nummer += [n for n in egna if n in aret]
     return sorted(nummer, key=lambda nr: nyckel(underlag.spar[nr], ar))
 
 
@@ -106,15 +112,15 @@ def nyckel(malen: list[Mal], ar: int) -> tuple[int, str]:
     return SLAG.index(sista.slag), sista.rubrik.casefold()
 
 
-def arskort(underlag: Underlag, nr: int, ar: int, nya: set[int]) -> str:
+def arskort(underlag: Underlag, nr: int, ar: int) -> str:
     malen = underlag.spar[nr]
     arets = [m for m in malen if m.ar == ar]
-    markor = [*slagen(arets), *(["nytt"] if nr in nya else [])]
+    markor = [*slagen(arets), *(["nytt"] if nr in nytt(underlag, ar) else [])]
     return (
         f"<article {egenskaper(nr, malen, underlag.ar)}>"
         f'<p class="markor">{" ".join(f"<span>{m}</span>" for m in markor)}</p>'
         f"<h4>{rubrik(arets_rubrik(malen, ar))}</h4>{rader(arets)}"
-        f"{fokusomraden(underlag, nr, ar, nya)}</article>"
+        f"{fokusomraden(underlag, nr, ar)}</article>"
     )
 
 
@@ -133,9 +139,9 @@ def rad(mal: Mal) -> str:
     return f"{besked}<br>Källa: {kallank(mal.kalla)}"
 
 
-def fokusomraden(underlag: Underlag, nr: int, ar: int, nya: set[int]) -> str:
+def fokusomraden(underlag: Underlag, nr: int, ar: int) -> str:
     fokus = "".join(
-        arskort(underlag, n, ar, nya)
+        arskort(underlag, n, ar)
         for n, m in under(underlag.spar, underlag.spar[nr])
         if any(f.ar == ar for f in m)
     )

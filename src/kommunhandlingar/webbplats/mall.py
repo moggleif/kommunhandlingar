@@ -1,5 +1,5 @@
-"""Krav: K14, K18, K22, K26, K27, K28, K36, K37 och K39 i docs/02-KRAV.md.
-Test: tests/test_webbplats.py."""
+"""Krav: K14, K18, K22, K26, K27, K28, K36, K37, K39 och K51 i docs/02-KRAV.md,
+ADR-0074 för temat. Test: tests/test_webbplats.py och tests/test_tema.py."""
 
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -13,8 +13,9 @@ from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Steg
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
-TEMA = Path(__file__).with_name("tema.js")
-# Varje färg har ett ljust och ett mörkt värde (ADR-0074).
+TEMA = Path(__file__).with_name("tema.js").read_text(encoding="utf-8")
+# Varje färg har ett ljust och ett mörkt värde (ADR-0074). En webbläsare utan
+# light-dark() får de ljusa värdena, och skriptet visar då ingen knapp.
 STIL = """
 :root { color-scheme: light dark;
   --text: light-dark(#1a1a1a, #e4e6ea); --bakgrund: light-dark(#fff, #15171b);
@@ -23,6 +24,10 @@ STIL = """
   --accent: light-dark(#1d5d73, #7cc4dc); --band: light-dark(#e3eef2, #1e3942);
   --uppnatt: light-dark(#1a6b2a, #72d083); --delvis: light-dark(#8a5a00, #e6b552);
   --ej: light-dark(#b00020, #ff8a94); }
+@supports not (color: light-dark(black, white)) {
+  :root { color-scheme: light; --text: #1a1a1a; --bakgrund: #fff; --kant: #999;
+    --yta: #f5f6f8; --linje: #d9dde5; --dampad: #5b6475; --accent: #1d5d73;
+    --band: #e3eef2; --uppnatt: #1a6b2a; --delvis: #8a5a00; --ej: #b00020; } }
 :root[data-tema="ljust"] { color-scheme: light; }
 :root[data-tema="morkt"] { color-scheme: dark; }
 .tema { position: fixed; top: 0.5rem; right: 0.5rem; z-index: 1; font: inherit;
@@ -92,7 +97,7 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(rubrik)} – kommunhandlingar</title>
 <style>{STIL}</style>
-<script>{TEMA.read_text(encoding="utf-8")}</script>
+<script>{TEMA}</script>
 </head>
 <body>
 <button type="button" class="tema" hidden>Mörkt tema</button>
