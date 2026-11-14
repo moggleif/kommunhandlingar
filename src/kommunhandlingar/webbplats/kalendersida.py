@@ -67,7 +67,7 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
         + f"<style>{STIL}{stil(farg)}</style>"
         + INLEDNING
         + kvalitet(mall, sammantraden, namn)
-        + om_gruppmoten(kommun, namn)
+        + om_gruppmoten(kommun, moten, namn)
         + urval([*farg, *([GRUPPMOTE] if moten else [])], namn)
         + kalendervyer.manader(sammantraden + moten)
         + kalendervyer.lista(sammantraden + moten, namn)
@@ -142,15 +142,14 @@ def kallcell(organ: str, cell: dict[str, int]) -> str:
     return "<br>".join(lankar)
 
 
-# Gruppmötena förklaras bara när kalendern har några.
-def om_gruppmoten(kommun: Kommun, namn: dict[str, str]) -> str:
-    if GRUPPMOTE not in namn:
+def om_gruppmoten(kommun: Kommun, moten: list[Sammantrade], namn: dict) -> str:
+    if not moten:
         return ""
     regel = kommun.gruppmote
     return (
         "<p>Partierna har gruppmöte "
         f"{VECKODAGAR[regel.veckodag]}en före varje sammanträde i "
-        f"{escape(namn[regel.fore].lower())}. Det är en vana hos partierna, inget "
+        f"{escape(namn[regel.fore])}. Det är en vana hos partierna, inget "
         "beslutat sammanträde. Datumen är räknade ur sammanträdena, inte lästa "
         "i någon källa, och bara kommande gruppmöten visas.</p>"
     )

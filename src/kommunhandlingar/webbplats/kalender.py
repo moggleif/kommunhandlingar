@@ -72,19 +72,20 @@ def i_poolen(kalla: str, data: Path) -> bool:
     return len(delar) == 4 and kalla.endswith(".md") and (data / kalla).is_file()
 
 
-# Ett gruppmöte är en vana, inte ett sammanträde med källa; bara de från
-# dagen sidan byggs tas med.
+# Ett gruppmöte är en vana, inte ett sammanträde med källa, och ärver inte
+# sammanträdets osäkerhet. Två sammanträden samma vecka ger ett gruppmöte.
 def gruppmoten(
     sammantraden: list[Sammantrade], regel: Gruppmote | None, idag: date
 ) -> list[Sammantrade]:
     if regel is None:
         return []
-    return [
-        Sammantrade(GRUPPMOTE, dag, regel.tid, "", "", "")
+    dagar = {
+        dag
         for s in sammantraden
         if s.organ == regel.fore
         and (dag := dagen_fore(s.datum, regel.veckodag)) >= idag
-    ]
+    }
+    return [Sammantrade(GRUPPMOTE, dag, regel.tid, "", "", "") for dag in sorted(dagar)]
 
 
 def dagen_fore(datum: date, veckodag: int) -> date:

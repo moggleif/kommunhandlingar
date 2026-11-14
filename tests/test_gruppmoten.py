@@ -79,6 +79,11 @@ class TestGruppmoten(unittest.TestCase):
         moten = gruppmoten(SAMMANTRADEN, REGEL, date(2026, 11, 16))
         self.assertEqual(len(moten), 1)
 
+    def test_tva_sammantraden_samma_vecka_ett_gruppmote(self):
+        tva = [sammantrade("fsn", "2026-11-17"), sammantrade("fsn", "2026-11-19")]
+        moten = gruppmoten(tva, REGEL, date(2026, 11, 1))
+        self.assertEqual([m.datum for m in moten], [date(2026, 11, 16)])
+
     def test_utan_regel_inga(self):
         self.assertEqual(gruppmoten(SAMMANTRADEN, None, date(2026, 1, 1)), [])
 
@@ -95,7 +100,7 @@ class TestSidan(unittest.TestCase):
         self.assertIn('type="checkbox" checked data-organ="gruppmöte"', html)
         self.assertIn("Partiernas gruppmöte inför Förskole- och skolnämnden", html)
         self.assertIn("Det är en vana hos partierna, inget beslutat", html)
-        self.assertIn("måndagen före varje sammanträde i förskole-", html)
+        self.assertIn("måndagen före varje sammanträde i Förskole-", html)
 
     def test_gruppmoten_raknas_inte_som_sammantraden(self):
         html = self.sida({"fore": "fsn", "veckodag": "måndag", "tid": "kväll"})

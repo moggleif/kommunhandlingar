@@ -11,12 +11,11 @@ står i en konfigurationsfil per kommun.
 Vad poolen innehåller just nu, vilka sammanträden som saknar kallelse
 och handlingar eller protokoll, varje dokument med sina tabeller, en
 kalender med kommunens sammanträden och partiernas gruppmöten,
-nämndernas och fullmäktiges mål och direktiv, nämndernas lokalbehov, initiativärenden, handlingsplaner
-och redovisningar, fullmäktiges motioner, detaljplanerna med kommunens
-projekt och deras dokument och revisionens
-granskningar år för år och de fel i källan som ska meddelas kommunen går
-att läsa på
-webbplatsen:
+nämndernas och fullmäktiges mål och direktiv, nämndernas lokalbehov,
+initiativärenden, handlingsplaner och redovisningar, fullmäktiges
+motioner, detaljplanerna med kommunens projekt och deras dokument och
+revisionens granskningar år för år och de fel i källan som ska meddelas
+kommunen går att läsa på webbplatsen:
 <https://moggleif.github.io/kommunhandlingar/>.
 
 För en AI börjar poolen i

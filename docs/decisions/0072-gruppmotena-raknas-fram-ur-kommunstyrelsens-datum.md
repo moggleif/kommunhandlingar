@@ -46,10 +46,14 @@ också när ett datum flyttas, utan att någon behöver komma ihåg det.
   veckodag = "måndag", tid = "kväll" }`: organet, veckodagen före och
   tiden som visas.
 * **Datumet** är den närmaste veckodagen före sammanträdet, aldrig samma
-  dag. Ett sammanträde på en tisdag ger måndagen dagen före.
+  dag. Ett sammanträde på en tisdag ger måndagen dagen före. Två
+  sammanträden samma vecka ger ett gruppmöte, och ett extra sammanträde
+  får sitt eget. Ett osäkert datum för sammanträdet gör inte gruppmötet
+  osäkert, eftersom gruppmötet redan sägs vara räknat.
 * **Bara framåt.** Gruppmöten före dagen webbplatsen byggs tas inte med,
   eftersom det inte går att veta om de hölls. Nästa bygge tar bort dem
-  som passerat.
+  som passerat. Byggdagen räknas i UTC, vilket bara spelar roll för ett
+  bygge sent på kvällen dagen före ett gruppmöte.
 * **Visningen** är diskret: en ruta med prickad grå kant och texten
   "Gruppmöte kväll", inte i ett organs färg. I listan och urvalet heter
   det "Partiernas gruppmöte inför Kommunstyrelsen", och en mening över
