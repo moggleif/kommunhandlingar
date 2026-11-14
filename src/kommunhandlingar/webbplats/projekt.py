@@ -2,8 +2,9 @@
 
 Läser kopplingsfilen, `projekt/<kommun>.csv`: en rad per detaljplan som
 hör till ett projekt på kommunens lista med projekt (K45). Projektet är
-projektsidans sista del i adressen, och dess dokument är projektorganets
-dokument vars namn börjar med det (ADR-0068). Ett dokument hör till det
+projektsidans adress efter listans, en del eller två för en sida under
+ett annat projekt, och dess dokument är projektorganets dokument vars
+namn börjar med sidans sista del (ADR-0068). Ett dokument hör till det
 längsta av filens projekt som namnet börjar med, så att `asa-restaurangstrak`
 inte tar `asa-restaurangstrak-del-2`:s dokument när båda står i filen
 (docs/03-ARKITEKTUR.md#projekten). Planens kort på detaljplanssidan
@@ -48,13 +49,13 @@ def las(fil: Path, kommun: Kommun, data: Path) -> dict[str, Projekt]:
         if fel := radfel(rad, listor, planerna):
             raise Datafel(f"{fil}, rad {nr}: {fel}")
         planerna.add(rad[1])
-    namnen = {namn_av(r[2]) for r in rader}
+    namnen = {forled(r[2]) for r in rader}
     pool = {organ: organets(data, organ) for organ in {r[0] for r in rader}}
     return {
         plan: Projekt(
             f"{listor[organ]}/{projekt}",
             tolkad == "ja",
-            dokumenten(namn_av(projekt), pool[organ], namnen),
+            dokumenten(forled(projekt), pool[organ], namnen),
         )
         for organ, plan, projekt, tolkad in rader
     }
@@ -68,11 +69,17 @@ def radfel(rad: list[str], listor: dict[str, str], planerna: set[str]) -> str:
         return f"organet {organ!r} har ingen lista med projekt i kommunfilen"
     if not plan or plan in planerna:
         return f"planen {plan!r} är tom eller står redan i filen"
-    if not re.fullmatch(r"[a-z0-9-]+", projekt):
-        return f"projektet {projekt!r} är inte en del av en adress"
+    if not re.fullmatch(r"[a-z0-9-]+(/[a-z0-9-]+)?", projekt):
+        return f"projektet {projekt!r} är inte en eller två delar av en adress"
     if tolkad not in ("", "ja"):
         return f"tolkad {tolkad!r} är varken tom eller ja"
     return ""
+
+
+# Dokumentens namn börjar med projektsidans sista del, också för en sida
+# under ett annat projekt (ADR-0068).
+def forled(projekt: str) -> str:
+    return namn_av(projekt.rpartition("/")[2])
 
 
 def dokumenten(projekt: str, organets: Organets, namnen: set[str]) -> Dokument:

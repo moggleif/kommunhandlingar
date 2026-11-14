@@ -113,3 +113,47 @@ class TestProjektsidorna(unittest.TestCase):
 
     def test_utan_projekt_hamtas_inget(self):
         self.assertEqual(upptack({}, hamta), ([], []))
+
+
+PROJEKTET = f"{LISTA}/arena"
+UNDER = {
+    LISTA: '<a href="/bygga/projekt/arena">Arena</a>',
+    PROJEKTET: fil("c1", MORGON, "Program.pdf")
+    + '<a href="/bygga/projekt/arena/detaljplan">Detaljplan</a>'
+    '<a href="/bygga/projekt/arena/detaljplan#karta">Detaljplan</a>'
+    '<a href="/bygga/projekt/arena/borta">Borta</a>'
+    '<a href="/bygga/projekt/bostader-i-by">Grannen</a>',
+    f"{PROJEKTET}/detaljplan": fil("c2", SENT, "Plankarta.pdf")
+    + fil("c1", MORGON, "Program.pdf")
+    + '<a href="/bygga/projekt/arena/detaljplan/djupare">Djupare</a>',
+}
+
+
+class TestSidorUnderEttProjekt(unittest.TestCase):
+    def setUp(self):
+        self.hamtade: list[str] = []
+
+        def under(adress: str) -> str:
+            self.hamtade.append(adress)
+            return UNDER[adress] if adress in UNDER else hamta(adress)
+
+        self.kandidater, self.avvisade = upptack({"o": LISTA}, under)
+
+    def test_sidan_under_ar_ett_eget_projekt(self):
+        self.assertEqual(
+            [(k.namn, k.kalla) for k in self.kandidater],
+            [
+                ("arena-program", PROJEKTET),
+                ("detaljplan-plankarta", f"{PROJEKTET}/detaljplan"),
+            ],
+        )
+
+    def test_en_niva_och_varje_sida_en_gang(self):
+        borta = f"{PROJEKTET}/borta"
+        self.assertEqual(
+            self.hamtade, [LISTA, PROJEKTET, f"{PROJEKTET}/detaljplan", borta]
+        )
+        self.assertEqual(
+            [(a.kalla, a.orsak) for a in self.avvisade],
+            [(borta, f"sidan under projektet: {borta}: http-404")],
+        )

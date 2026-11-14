@@ -992,6 +992,13 @@ mötessidorna, och några som länkar. 81 projekt hade filer, cirka 690
 unika och 3 GB, de största 75 MB; en var en presentation (`.pptx`).
 Samma fil (VA-taxan, de allmänna bestämmelserna) står på många projekt.
 
+Läst 2026-11-14 ([#262](https://github.com/moggleif/kommunhandlingar/issues/262)):
+fem projekt har egna sidor under ett annat projekt, med 23 filer, och
+ingen av dem har sidor under sig. Kungsbacka arenas sida har tre,
+detaljplanen (18 filer), projekttävlingen (2) och bygget (1); Aranäs
+etapp 4 och kvarteret Gjutaren och Liljan har var sin
+markanvisningstävling (1 vardera).
+
 Projektsidorna har kontaktuppgifter till tjänstepersoner, exploatörer och
 fastighetsägare. Bara filerna läses (ADR-0068); organet och listan står i
 kommunfilen.

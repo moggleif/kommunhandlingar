@@ -397,7 +397,9 @@ bun-projekt = "https://exempelby.se/…/aktuella-projekt"
   vars värde är ett tal från 2 (`?page12_…=2`); sida 1 är listan själv,
   och filtren, med fler parametrar, följs inte.
 - **Ett projekt** är en länk på listan till en sida en nivå under listans
-  adress, utan frågesträng, i listans ordning.
+  adress, utan frågesträng, i listans ordning. En länk på en projektsida
+  till en sida en nivå under den är också ett projekt, direkt efter
+  projektsidan; sidor längre ner följs inte.
 - **Ett fel stoppar aldrig upptäckten.** En lista eller projektsida som
   inte går att hämta eller läsa ger inga kandidater och står i
   sammanfattningen med adressen och orsaken; upptäckten fortsätter, och
@@ -408,7 +410,7 @@ bun-projekt = "https://exempelby.se/…/aktuella-projekt"
   sista del och filnamnet utan ändelse, bildat som andra namn
   ([Datamodell](#datamodell)). Kandidaten har namnet i fältet `namn`.
 - **En fil som står på flera projektsidor** blir en kandidat från den
-  första; en fil som också står på en mötessida blir mötessidans.
+  första, och projektsidan går före sidorna under den; en fil som också står på en mötessida blir mötessidans.
 
 ### Episerver
 
@@ -2087,19 +2089,19 @@ bygg-projekt,Bostäder inom Må 3:15,bostader-i-fjaras,
   ett snedstreck och `projekt`.
 - `detaljplan` är planens namn som det står i
   `detaljplaner/<kommun>.csv`.
-- `projekt` är projektsidans sista del i adressen.
+- `projekt` är projektsidans adress efter listans: en del, eller två för
+  en sida under ett annat projekt
+  (`kungsbacka-arena/detaljplan-for-kungsbacka-arena`).
 - `tolkad` är `ja` när planen och projektet inte gäller samma fastighet,
   eller projektet är ett planprogram. Samma fastighet, också ett
   kvartersnamn, på projektsidan och i planens namn är en direkt koppling.
 
 Projektets dokument är organets dokument vars namn börjar med
-`namn_av(projekt)` och ett bindestreck, utom de som börjar med ett längre
+`namn_av` av projektets sista del och ett bindestreck, utom de som börjar med ett längre
 projekt i filen. Planens kort får länken och, hopfällda, dokumenten med
 källans filnamn som titel och datumet. Bygget stoppas när en rad inte går
 ihop med kommunfilen eller detaljplanerna; ett projekt utan dokument i
-poolen stoppar det inte. Projektsidor som ligger under ett annat projekt
-(`kungsbacka-arena/detaljplan-for-kungsbacka-arena`) tas inte in (K45),
-så en plan kopplas då till projektet ovanför.
+poolen stoppar det inte.
 
 ## Granskningar
 
