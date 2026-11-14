@@ -8,7 +8,7 @@ skrivs `BN-2024-000123`, `BN-2016-000170` och `MH-2021-3122`.
 
 import re
 
-NUMMER = r"(?:[A-ZÅÄÖ]{1,5}[ /–-]?)?\d[\dA-Z]*(?:(?:\s?[–-]\s?|/|:)[A-Z]?\d[\dA-Z]*)*"
+NUMMER = r"(?:[A-ZÅÄÖ]{1,5}[ /–-]?)?\d[\dA-Z]*(?:(?: ?[–-] ?|/|:)[A-Z]?\d[\dA-Z]*)*"
 MED_ETIKETT = re.compile(rf"\b(?:Dnr|Diarienr|Diarienummer)\.?:?\s*({NUMMER})")
 UTAN_ETIKETT = re.compile(r"[A-ZÅÄÖ]{1,5}[ /–-]?\d{2,4}[–/:-]\d+(?:/\d+)?")
 
@@ -21,5 +21,5 @@ def i_huvudet(text: str, ensam: bool = False) -> list[str]:
 
 
 def normaliserat(nummer: str) -> str:
-    nummer = re.sub(r"\s*[–-]\s*", "-", nummer)
+    nummer = re.sub(r" ?[–-] ?", "-", nummer)
     return re.sub(r"^([A-ZÅÄÖ]+) (?=\d)", r"\1-", nummer)

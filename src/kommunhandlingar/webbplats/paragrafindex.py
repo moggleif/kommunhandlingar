@@ -10,37 +10,31 @@ from pathlib import Path
 
 from kommunhandlingar.frontmatter import brodtext, lista
 from kommunhandlingar.paragrafer import Paragraf, paragrafer
+from kommunhandlingar.webbplats.dokumentindex import platser, varde
 
 
 def av_dokument(falt: dict[str, str], text: str, katalog: Path) -> list[str]:
-    if falt["typ"] != "protokoll" or falt["kvalitet"] == "ej-hamtad":
+    if falt["typ"] != "protokoll":
         return []
     return [rad(falt, p, katalog) for p in paragrafer(brodtext(text))]
 
 
 def rad(falt: dict[str, str], paragraf: Paragraf, katalog: Path) -> str:
-    md = Path(falt["adress"]).with_suffix(".md").as_posix()
-    sida = f"{katalog.name}/{falt['adress']}"
+    plats = platser(falt, katalog)
+    plats["sida"] += f"#sida-{paragraf.sida}"
     objekt = {
         "organ": falt["organ"],
         "datum": falt["datum"],
-        "lopnr": None if falt["lopnr"] == "null" else int(falt["lopnr"]),
+        "lopnr": varde("lopnr", falt["lopnr"]),
         "paragraf": paragraf.nummer,
         "rubrik": paragraf.rubrik,
         "diarienummer": paragraf.diarienummer,
         "beslut": paragraf.beslut,
         "sidnummer": paragraf.sida,
-        "kvalitet": sidans(falt["kvalitet_per_sida"], paragraf.sida),
+        "kvalitet": lista(falt["kvalitet_per_sida"])[paragraf.sida - 1],
         "tal_obekraftade": str(paragraf.sida) in lista(falt["tal_obekraftade"]),
-        "fil": f"data/{katalog.name}/{md}",
-        "sida": f"{sida}#sida-{paragraf.sida}" if paragraf.sida else sida,
     }
-    return json.dumps(objekt, ensure_ascii=False)
-
-
-def sidans(kvalitet_per_sida: str, sida: int | None) -> str | None:
-    sidor = lista(kvalitet_per_sida)
-    return sidor[sida - 1] if sida and sida <= len(sidor) else None
+    return json.dumps(objekt | plats, ensure_ascii=False)
 
 
 def skriv(ut: Path, rader: list[str], katalog: Path) -> None:

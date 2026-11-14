@@ -1544,7 +1544,7 @@ Issue [#266](https://github.com/moggleif/kommunhandlingar/issues/266).
 - **När** webbplatsen byggs
 - **Så** har kommunen en fil i JSON Lines på webbplatsen med en rad per
   paragraf, i sökvägarnas och protokollets ordning. Raden har organet,
-  datumet, paragrafens nummer, rubrik och diarienummer, beslutet, sidan
+  datumet, sammanträdets löpnummer, paragrafens nummer, rubrik och diarienummer, beslutet, sidan
   paragrafen börjar på, den sidans kvalitet och om dess tal är
   obekräftade, och länkar till dokumentet i repot och till sidan på
   webbplatsen.
@@ -1556,8 +1556,15 @@ Issue [#266](https://github.com/moggleif/kommunhandlingar/issues/266).
   innehållsförteckning eller i närvarolistan innan de kommer
 - **När** paragraferna läses ut
 - **Så** blir varje paragraf en rad, och uppräkningen ingen.
-- **Givet** en paragraf som saknar rubriken Beslut, eller vars beslut når
-  sidans slut
+- **Givet** ett protokoll som har en fortsättningssida som upprepar
+  paragrafens nummer, eller ett diarienummer från en annan myndighet i
+  paragrafens rubrik
+- **När** paragraferna läses ut
+- **Så** blir fortsättningen en del av paragrafen, och bara nämndens egna
+  diarienummer, de efter `Dnr` på rubrikraden eller på en egen rad, kommer
+  med.
+- **Givet** en paragraf som saknar rubriken Beslut på sin första sida,
+  eller vars beslut når sidans slut
 - **När** paragraferna läses ut
 - **Så** är beslutet `null`, hellre än gissat eller kapat.
 - **Givet** ett protokoll som konverteras

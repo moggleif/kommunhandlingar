@@ -68,7 +68,7 @@ class TestDelningen(unittest.TestCase):
         funna = paragrafer(text)
         self.assertEqual([p.nummer for p in funna], [1, 2])
         self.assertEqual(funna[1].diarienummer, ["KT/2016:5"])
-        self.assertIsNone(funna[1].sida)
+        self.assertEqual(funna[1].sida, 1)
 
     def test_diarienumret_pa_raden_efter_rubriken(self):
         text = (
@@ -86,8 +86,26 @@ class TestDelningen(unittest.TestCase):
         text = "§ 270\nDispens\nBeslut\nJa.\n\nMotivering\n"
         text += "<!-- sida 2 -->\n\n§ 270, forts\n"
         (paragraf,) = paragrafer(text)
-        self.assertEqual((paragraf.nummer, paragraf.sida), (270, None))
+        self.assertEqual((paragraf.nummer, paragraf.sida), (270, 1))
         self.assertEqual(paragraf.beslut, "Ja.")
+
+    def test_en_fortsattningssida_utan_forts(self):
+        text = "§ 4\nDnr TE/2015:1033\nTorghandel\nBeslut\nJa.\n\nMotivering\n"
+        text += "<!-- sida 2 -->\n\n2016-01-27\n\n§ 4\n\n2. fortsatt text\n"
+        (paragraf,) = paragrafer(text)
+        self.assertEqual((paragraf.rubrik, paragraf.sida), ("Torghandel", 1))
+        self.assertEqual(paragraf.diarienummer, ["TE/2015:1033"])
+
+    def test_en_rad_i_innehallet_utan_paragraf_blir_ingen(self):
+        text = "§ 39 Dnr XN-2024-00012\nRedovisning av domar ............ 19\n\n"
+        text += "§ 40 Dnr XN-2024-00013\nBudget\n"
+        self.assertEqual([p.nummer for p in paragrafer(text)], [40])
+
+    def test_en_annan_myndighets_nummer_i_rubriken(self):
+        text = "§ 98   Dnr XN-2026-00498\nJO Begäran om yttrande Dnr 7537-2026\n"
+        (paragraf,) = paragrafer(text)
+        self.assertEqual(paragraf.rubrik, "JO Begäran om yttrande Dnr 7537-2026")
+        self.assertEqual(paragraf.diarienummer, ["XN-2026-00498"])
 
     def test_hanvisningar_inleder_inga_paragrafer(self):
         text = "§ 5\nTillsyn\n\nBeslutet 2022-01-27\n§18\n\n§§ 6-9 gäller\n"
@@ -112,6 +130,16 @@ class TestBeslutet(unittest.TestCase):
 
     def test_ett_beslut_som_nar_sidans_slut_blir_null(self):
         text = "§ 3\nBygglov\nBeslut\nBeviljas med\n\nJusterare   Expedierat\n"
+        self.assertIsNone(paragrafer(text)[0].beslut)
+
+    def test_beslut_med_kolon(self):
+        self.assertEqual(
+            paragrafer("§ 3\nBygglov\nBeslut:\nJa.\n\nVillkor\n")[0].beslut, "Ja."
+        )
+
+    def test_raden_beslut_efter_sidans_slut_blir_null(self):
+        text = "§ 34\nTillsyn\n\nJusteras separat.\n<!-- sida 2 -->\n"
+        text += "35 Dnr XN-2026-00083\nNästa ärende\nBeslut\nNämnden fastställer.\n"
         self.assertIsNone(paragrafer(text)[0].beslut)
 
     def test_ingen_rubrik_nar_paragrafen_borjar_med_ett_avsnitt(self):

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/prot-19-12-11.pdf
 tidigare_kallnycklar: []
-arenden: [2018-00205, 2019-00020, 2019-00046, 2019-00168, 2019-00170, 2019-00265, 2019-00273, 2019-00281, 2019-00284, 2019-00285, 4972, 4973, 4989, 4990, 4994]
+arenden: [2018-00205, 2019-00020, 2019-00046, 2019-00168, 2019-00170, 2019-00273, 2019-00281, 2019-00284, 2019-00285, 4973, 4989]
 kalla_url: https://web.archive.org/web/20200101050510id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/prot-19-12-11.pdf
 sha256: 93a38496ffe676ac174a3b57bf7c0576bef92109ed5ffeaac3ed21aae18fa43c
 bytes: 7242014

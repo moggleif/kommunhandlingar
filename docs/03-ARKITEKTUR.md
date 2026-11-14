@@ -220,7 +220,8 @@ src/kommunhandlingar/
   plats.py         sökvägen och namnet för ett nytt dokument (ADR-0003)
   skrivning.py     `.md` och tabellkatalog, tabellerna först och `.md` sist
   frontmatter.py   front matter läses och skrivs
-  paragrafer.py    ett protokoll delat per paragraf (K48); diarienummer.py numren
+  paragrafer.py    ett protokoll delat per paragraf (K48), med paragrafinnehall.py
+                   och diarienummer.py
   arenden.py       `arenden` ur paragraferna, och kommandot som fyller poolen
   tidsbudget.py    budgetens hårda gräns, som inte avbryter en skrivning
   datakontroll*.py datakontrollerna av allt under data/ (K11)
@@ -1553,34 +1554,42 @@ inte in. Det visar poolen som den är; versionerna står i git (ADR-0003).
 Hur och varför står i
 [ADR-0071](decisions/0071-protokollen-delas-per-paragraf-vid-bygget.md)
 (K48). Delningen är en ren funktion av ett protokolls text
-(`paragrafer.py`, diarienumren i `diarienummer.py`), som konverteringen,
-kommandot, datakontrollen och bygget delar.
+(`paragrafer.py`, paragrafens delar i `paragrafinnehall.py` och
+diarienumren i `diarienummer.py`), som konverteringen, kommandot,
+datakontrollen och bygget delar.
 
-- **En paragraf** börjar på en rad med `§` och numret, med eller utan
-  mellanslag och ibland efter organets förkortning med två till fyra
-  versaler (`BN § 1`, `AU § 326`). Efter numret får bara ett
-  diarienummer eller `forts` stå; `§§ 6-9`, `§ 85/2016` och `7 kap 18 c
-  §` inleder ingen paragraf. Ett ensamt `§ 4` räknas bara efter en tom
-  rad, en sidbrytning eller en rad med bara ett datum.
-- **Samma nummer flera gånger.** Innehållsförteckningen och närvarolistan
-  räknar upp numren först, så det sista avsnittet med ett nummer gäller.
-  En fortsättning (`§ 270, forts`) direkt efter hör till samma paragraf.
-  Paragraferna står i protokollets ordning.
-- **Rubriken** är första raden efter numret som inte är ett diarienummer
-  eller en sidbrytning, och `null` när paragrafen börjar med ett avsnitt
-  (Beslut, Sammanfattning, …) eller sidfoten.
+- **En rubrikrad** har `§` och numret först, med eller utan mellanslag och
+  ibland efter organets förkortning med två till fyra versaler (`BN § 1`,
+  `AU § 326`). Efter numret får bara ett diarienummer eller `forts`
+  stå; `§§ 6-9`, `§ 85/2016` och `7 kap 18 c §` är inga rubrikrader. Ett
+  ensamt `§ 4` räknas bara efter en tom rad, en sidbrytning eller en rad
+  med bara ett datum. Ett avsnitt går från rubrikraden till nästa.
+- **Vilka avsnitt som blir paragrafer.** Ett avsnitt vars första rad
+  efter rubrikraden har en punktrad (`....` eller `…`) är
+  innehållsförteckningens och hoppas över. Ett avsnitt direkt efter ett
+  med samma nummer är en fortsättningssida, med eller utan `forts`, och
+  läggs till. Har ett nummer ändå flera avsnitt gäller det sista,
+  eftersom närvarolistan räknar upp numren först. Paragraferna står i
+  protokollets ordning.
+- **Rubriken** är första raden efter rubrikraden som inte är en
+  sidbrytning eller börjar med `Dnr`, och `null` när paragrafen börjar
+  med ett avsnitt (Beslut, Sammanfattning, …) eller sidfoten (en rad som
+  börjar med Justerare). Står sidhuvudet före rubriken i textlagret blir
+  det rubriken.
 - **Diarienumren** är numren efter `Dnr`, `Diarienr` eller `Diarienummer`
-  från rubrikraden till raden Beslut, och ett nummer som står ensamt på
-  rubrikraden (`§ 142   GV/2014:4`), i ordning och utan dubbletter.
-  Ett tankstreck, och mellanslag kring bindestrecket eller mellan förled
-  och år, blir ett bindestreck (`BN 2016–000170` blir `BN-2016-000170`);
-  annars skrivs numret som det står.
-- **Beslutet** är raderna efter raden Beslut till nästa avsnitt.
-  Avsnitten är en fast lista med protokollens rubriker (`AVSNITT` i
-  `paragrafer.py`). Når beslutet en sidbrytning eller sidfoten (en rad
-  som börjar med Justerare, eller den digitala signaturen) först blir det
-  `null`, eftersom det kan fortsätta på nästa sida. Saknas raden Beslut
-  är det också `null`.
+  på rubrikraden, numret som står ensamt där (`§ 142   GV/2014:4`), och
+  numren på rader som börjar med `Dnr` före första avsnittet eller
+  sidfoten, i ordning och utan dubbletter. Ett `Dnr` inne i rubriken är en
+  annan myndighets och tas inte med. Ett tankstreck, och mellanslag kring
+  bindestrecket eller mellan förled och år, blir ett bindestreck
+  (`BN 2016–000170` blir `BN-2016-000170`); annars skrivs numret som det
+  står.
+- **Beslutet** är raderna efter raden Beslut (med eller utan kolon) till
+  nästa avsnitt. Avsnitten är en fast lista med protokollens rubriker
+  (`AVSNITT` i `paragrafinnehall.py`). Beslutet är `null` när raden
+  Beslut saknas på paragrafens första sida, eftersom den då kan höra till
+  en paragraf som tappat sitt `§`, och när beslutet når en sidbrytning
+  eller sidfoten först, eftersom det kan fortsätta på nästa sida.
 - **`arenden`** (`arenden.py`) är paragrafernas diarienummer, sorterade
   och utan dubbletter, och skrivs när ett protokoll konverteras. `[]` när
   paragraferna saknar diarienummer, `null` när inga paragrafer hittas och
@@ -1591,13 +1600,13 @@ kommandot, datakontrollen och bygget delar.
 - **Datakontrollen** faller på ett dokument vars `arenden` inte stämmer
   med texten och säger vad fältet borde vara.
 - **`<kommun>/paragrafer.jsonl`** (`webbplats/paragrafindex.py`) har en
-  rad per paragraf i protokollen som hämtats, i sökvägarnas och
-  protokollets ordning: `organ`, `datum`, `lopnr` (tal eller `null`),
-  `paragraf` (numret), `rubrik`, `diarienummer` (en lista), `beslut`,
-  `sidnummer` (sidan paragrafen börjar på, `null` utan sidbrytning före),
-  `kvalitet` (den sidans kvalitet), `tal_obekraftade` (om sidan står i
-  dokumentets `tal_obekraftade`), `fil` och `sida` som i indexet, med
-  `#sida-<sidnummer>` efter sidan. Paragraftexten följer inte med.
+  rad per paragraf i protokollen, i sökvägarnas och protokollets ordning:
+  `organ`, `datum`, `lopnr` (tal eller `null`), `paragraf` (numret),
+  `rubrik`, `diarienummer` (en lista), `beslut`, `sidnummer` (sidan
+  paragrafen börjar på), `kvalitet` (den sidans kvalitet),
+  `tal_obekraftade` (om sidan står i dokumentets `tal_obekraftade`), och
+  `fil` och `sida` som i indexet, med `#sida-<sidnummer>` efter sidan.
+  Paragraftexten följer inte med.
 
 ## Webbplatsen
 

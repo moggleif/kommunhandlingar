@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2ed9706017f44c50af130b37
 tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/protokoll/2021/protokoll-210617-nkft.pdf]
-arenden: [2021-00078, 2021-00079, 2021-00106, 2021-00118, 2021-00119, 2021-00120, 2021-00127, 2021-00130]
+arenden: [2021-00078, 2021-00079, 2021-00106, 2021-00118, 2021-00119, 2021-00127, 2021-00130]
 kalla_url: https://web.archive.org/web/20220404172413id_/https://kungsbacka.se/download/18.2ed9706017f44c50af130b37/1649076638703/N%C3%A4mnden%20f%C3%B6r%20Kultur%20&%20Fritid%20protokoll%202021-06-17.pdf
 sha256: c8a1c49e0e4338027ab754acd0fc84f0d18fc37ed15ef9d927c513dbedaf0d89
 bytes: 2295331

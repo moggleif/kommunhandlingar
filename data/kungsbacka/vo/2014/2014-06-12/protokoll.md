@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2014/Protokoll%20%20N%C3%A4mnd%20140612%20-%20exkl%20sekretess.pdf
 tidigare_kallnycklar: []
-arenden: [8, ÄO/2014:59, ÄO/2014:61, ÄO/2014:64]
+arenden: [ÄO/2014:59, ÄO/2014:61, ÄO/2014:64]
 kalla_url: https://web.archive.org/web/20140703120935id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2014/Protokoll%20%20N%c3%a4mnd%20140612%20-%20exkl%20sekretess.pdf
 sha256: 92ad30ec0dca728dbc7a1ebb8803f37f8288e52a94199da695df368cb9ead76f
 bytes: 110675

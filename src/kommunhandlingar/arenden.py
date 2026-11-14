@@ -22,9 +22,7 @@ def arenden(typ: str, brodtext: str) -> list[str] | None:
     if typ != "protokoll":
         return None
     funna = paragrafer(brodtext)
-    if not funna:
-        return None
-    return sorted({nummer for p in funna for nummer in p.diarienummer})
+    return sorted({n for p in funna for n in p.diarienummer}) if funna else None
 
 
 def ratt_varde(text: str) -> str:

@@ -3,14 +3,14 @@ länken i src/kommunhandlingar/webbplats/llms.py."""
 
 import json
 
-from tests.test_dokumentindex import MOTE, TestIndex
+from tests.test_dokumentindex import MOTE, Index
 from tests.test_webbplats import dokument
 
 TEXT = "<!-- sida 1 -->\n\nFörsättsblad\n\n<!-- sida 2 -->\n\n"
 TEXT += "§ 4 Dnr XN-2024-00012\nLokalbehov\n\nBeslut\n\nNämnden godkänner.\n"
 
 
-class TestParagrafindex(TestIndex):
+class TestParagrafindex(Index):
     def paragrafer(self) -> list[dict]:
         self.index()
         fil = self.ut / "exempelby" / "paragrafer.jsonl"
@@ -42,6 +42,8 @@ class TestParagrafindex(TestIndex):
         self.spara("kallelse.md", dokument(typ="kallelse", text=TEXT))
         self.assertEqual(self.paragrafer(), [])
 
-    def test_llms_lankar_till_paragraferna(self):
+    def test_llms_lankar_till_paragraferna_och_forklarar_beslutet(self):
         self.spara("protokoll.md", dokument())
-        self.assertIn("(exempelby/paragrafer.jsonl)", self.llms())
+        llms = self.llms()
+        self.assertIn("(exempelby/paragrafer.jsonl)", llms)
+        self.assertIn("`beslut` är `null`", llms)
