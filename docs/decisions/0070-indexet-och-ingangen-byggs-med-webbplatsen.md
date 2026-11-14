@@ -65,12 +65,15 @@ indexet då följer poolen utan att något lagras.
 * Bad, eftersom indexet bara finns där webbplatsen finns. Den som klonar
   repot får bygga webbplatsen, eller läsa front matter själv.
 * Bad, eftersom JSON Lines är sämre att öppna i ett kalkylark än CSV.
+* Bad, eftersom indexet är en fil per kommun, 7,6 MB för Kungsbacka när
+  beslutet togs, och växer med poolen. Ett verktyg som kapar långa filer
+  får inte allt. Indexet delas per organ om det blir ett problem.
 * Neutral, eftersom steg 3 inte blir ett eget kommando, som arkitekturen
   tänkte sig. Det blir det om något annat än webbplatsen behöver indexet.
 
 ### Confirmation
 
-`tests/test_index.py` prövar indexets rader och `llms.txt` på en liten
+`tests/test_dokumentindex.py` prövar indexets rader och `llms.txt` på en liten
 påhittad pool. Webbplatsens bygge i CI kör båda mot hela poolen.
 
 ## Pros and Cons of the Options
@@ -109,8 +112,9 @@ per paragraf som ett eget steg senare, och tidsserierna när tabellerna är
 rättade (#84), eftersom serierna annars ärver dagens fel. Projektägaren
 sade ja.
 
-Agenten föreslog först CSV för att den är lätt att öppna. Projektägaren
-frågade varför inte JSON Lines. Svaret blev att JSON Lines är enklare: hela
+Agenten rekommenderade först CSV, med JSON Lines som alternativ, för att
+CSV är lätt att öppna. Projektägaren frågade varför det skulle bli CSV och
+inte JSON Lines. Svaret blev att JSON Lines är enklare: hela
 front matter följer med utan urval och utan att listorna görs om till
 antal, och koden blir kortare. En AI läser båda lika bra. Agenten bytte
 rekommendation, och projektägaren valde JSON Lines.

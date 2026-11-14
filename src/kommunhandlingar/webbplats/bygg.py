@@ -2,7 +2,7 @@
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
 tests/test_uppfoljningar.py, tests/test_lokalbehov.py, tests/test_initiativ.py,
-tests/test_index.py.
+tests/test_dokumentindex.py.
 """
 
 import shutil
@@ -15,7 +15,7 @@ from kommunhandlingar import frontmatter, konfiguration
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import (
-    index,
+    dokumentindex,
     kalender,
     mal,
     projekt,
@@ -68,7 +68,7 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
         html = dokumentsida(mall, kommun, falt, text)
         skriv_dokument(fil, ut / kommun.id / falt["adress"], html)
         dokument.append(falt)
-    index.skriv(ut, dokument, katalog)
+    dokumentindex.skriv(ut, dokument, katalog)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
     rader = rakna(kommun, dokument, mall.byggd.date())

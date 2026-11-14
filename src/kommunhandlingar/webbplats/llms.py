@@ -1,4 +1,4 @@
-"""Krav: K47 i docs/02-KRAV.md, ADR-0070. Test: tests/test_index.py.
+"""Krav: K47 i docs/02-KRAV.md, ADR-0070. Test: tests/test_dokumentindex.py.
 
 `llms.txt` i webbplatsens rot, enligt https://llmstxt.org/: ingången för
 en AI, som säger hur poolen ska läsas och pekar på varje kommuns index,

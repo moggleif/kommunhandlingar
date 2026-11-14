@@ -2,8 +2,8 @@
 
 Det här beskriver hur poolen är tänkt att byggas. Upptäckten (steg 1)
 och hämtningen och konverteringen (steg 2) finns som kod; indexet (steg 3)
-byggs med webbplatsen ([Steg 3: indexet](#steg-3-indexet)). Där koden finns är det koden som gäller, och dokumentet
-rättas efter den.
+byggs med webbplatsen ([Steg 3: indexet](#steg-3-indexet)). Där koden
+finns är det koden som gäller, och dokumentet rättas efter den.
 *Varför* står i [docs/decisions/](decisions/).
 
 ## Flödet
@@ -26,9 +26,10 @@ kommuner/<kommun>.toml
 3. indexera   med webbplatsen         →  index över alla dokument och llms.txt
 ```
 
-Steg 1 och 2 är egna kommandon; steg 3 körs när webbplatsen byggs. Steg 1 och 3 läser bara föregående stegs
-utdata; steg 2 läser kandidatlistan och dessutom poolens front matter, som
-är tillståndet. Kandidatlistan skrivs till en arbetskatalog utanför repot
+Steg 1 och 2 är egna kommandon; steg 3 körs när webbplatsen byggs. Steg 1
+läser bara kommunfilen och källorna; steg 2 läser kandidatlistan och
+dessutom poolens front matter, som är tillståndet; steg 3 läser poolens
+front matter, kommunfilen och filerna skrivna för hand. Kandidatlistan skrivs till en arbetskatalog utanför repot
 och tas fram på nytt vid varje körning. Steg 1 och 2 körs två gånger:
 först för de levande källorna och sedan, med `--arkiv`, för arkivet
 ([Arkivet](#arkivet)).
@@ -1524,7 +1525,7 @@ enligt `.claude/skills/granska-dokument/SKILL.md`.
 
 Hur och varför står i
 [ADR-0070](decisions/0070-indexet-och-ingangen-byggs-med-webbplatsen.md)
-(K47). Indexet byggs med webbplatsen (`webbplats/index.py`) och checkas
+(K47). Indexet byggs med webbplatsen (`webbplats/dokumentindex.py`) och checkas
 inte in. Det visar poolen som den är; versionerna står i git (ADR-0003).
 
 - **`<kommun>/index.jsonl`** har en rad per dokument under

@@ -1,4 +1,4 @@
-"""Krav: K47 i docs/02-KRAV.md, ADR-0070. Test: tests/test_index.py.
+"""Krav: K47 i docs/02-KRAV.md, ADR-0070. Test: tests/test_dokumentindex.py.
 
 Indexet över en kommuns dokument: en rad i JSON Lines per dokument, med
 front matter som JSON-typer och var dokumentet och dess tabeller finns.

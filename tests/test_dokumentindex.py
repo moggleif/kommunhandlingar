@@ -1,4 +1,4 @@
-"""Krav: K47 i docs/02-KRAV.md. Kod: src/kommunhandlingar/webbplats/index.py,
+"""Krav: K47 i docs/02-KRAV.md. Kod: src/kommunhandlingar/webbplats/dokumentindex.py,
 src/kommunhandlingar/webbplats/llms.py."""
 
 import json
@@ -7,7 +7,10 @@ import tempfile
 import unittest
 from pathlib import Path
 
+from kommunhandlingar.frontmatter import FALT
 from kommunhandlingar.webbplats.bygg import bygg
+from kommunhandlingar.webbplats.llms import handskrivna
+from kommunhandlingar.webbplats.mall import Mall
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument
 
 MOTE = Path("fsn") / "2024" / "2024-05-02"
@@ -51,7 +54,14 @@ class TestIndex(unittest.TestCase):
         self.assertIsNone(rad["arenden"])
         self.assertIsNone(rad["figurer"])
         self.assertEqual(rad["datum"], "2024-05-02")
-        self.assertEqual(list(rad)[:2], ["kommun", "organ"])
+        self.assertEqual(list(rad), [*FALT, "fil", "sida", "tabeller"])
+
+    def test_ett_dokument_i_delar_har_listor(self):
+        text = dokument().replace("bytes: 1000", "bytes: [600, 400]")
+        self.spara("protokoll.md", text.replace("sha256: 3f9a", "sha256: [3f9a, 4e1b]"))
+        rad = self.index()[0]
+        self.assertEqual(rad["bytes"], [600, 400])
+        self.assertEqual(rad["sha256"], ["3f9a", "4e1b"])
 
     def test_sokvagen_sidan_och_tabellerna(self):
         self.spara("protokoll.md", dokument())
@@ -69,7 +79,6 @@ class TestIndex(unittest.TestCase):
         self.assertEqual(self.index()[0]["tabeller"], [])
 
     def test_llms_txt_pekar_in_i_poolen(self):
-        self.spara("protokoll.md", dokument())
         text = self.llms()
         self.assertTrue(text.startswith("# kommunhandlingar\n\n> "))
         self.assertIn("`tal_obekraftade`", text)
@@ -90,6 +99,33 @@ class TestIndex(unittest.TestCase):
         text = self.llms()
         self.assertIn(f"({REPO}/raw/main/kalender/exempelby.csv)", text)
         self.assertNotIn("/raw/main/mal/", text)
+
+
+class TestHandskrivna(unittest.TestCase):
+    def test_alla_slag_i_ordning_och_bara_de_som_finns(self):
+        alla = {"exempelby": []}
+        mall = Mall(
+            [],
+            REPO,
+            TID,
+            kalendrar=frozenset({"exempelby"}),
+            malen=alla,
+            uppfoljningar=alla,
+            spar={"lokalbehov": alla, "granskningar": alla, "initiativ": {}},
+            projekt=alla,
+        )
+        self.assertEqual(
+            [katalog for katalog, _ in handskrivna(mall, "exempelby")],
+            [
+                "kalender",
+                "mal",
+                "uppfoljningar",
+                "lokalbehov",
+                "granskningar",
+                "projekt",
+            ],
+        )
+        self.assertEqual(handskrivna(mall, "annanby"), [])
 
 
 if __name__ == "__main__":

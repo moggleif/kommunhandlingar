@@ -1531,7 +1531,3 @@ och [Steg 3: indexet](03-ARKITEKTUR.md#steg-3-indexet). Issue
   kvaliteten och de obekräftade talen ska läsas, var fälten förklaras, och
   för varje kommun länkar till indexet, kommunens översikt, varje organs
   sida och kommunens filer skrivna för hand som finns.
-- **Givet** en körning som hämtat nya dokument
-- **När** den checkas in
-- **Så** ändras inget index i repot, eftersom indexet bara finns på
-  webbplatsen.
