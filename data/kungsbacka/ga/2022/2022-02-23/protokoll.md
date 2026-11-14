@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.72941e9317f452787b6c0f5
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2019-00196, 2022-00038]
 kalla_url: https://web.archive.org/web/20220702181109id_/https://kungsbacka.se/download/18.72941e9317f452787b6c0f5/1646405067469/N%C3%A4mnden%20f%C3%B6r%20Gymnasium%20&%20Arbetsmarknad%20protokoll%202022-02-23,%20%C2%A715-16.pdf
 sha256: 2fd0a04af8555364d7d0f2e22f2b2c706fe8074e8748bc4bfe0cb208cab37b8c
 bytes: 384098

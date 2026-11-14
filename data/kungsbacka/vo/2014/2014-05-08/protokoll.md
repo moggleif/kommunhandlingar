@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2014/Protokoll%20Au%20140508.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [ÄO/2012:125, ÄO/2014:49, ÄO/2014:56, ÄO/2014:59, ÄO/2014:60]
 kalla_url: https://web.archive.org/web/20140703135711id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2014/Protokoll%20Au%20140508.pdf
 sha256: 0b8ab4329292cee69f6e794849d8713a469fc8a5e3d7f387d8a55eb1ae883c0e
 bytes: 135426

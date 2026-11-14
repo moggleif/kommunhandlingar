@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2017/Protokoll%20NTE%202017-04-19.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE/2017:131, TE/2017:184, TE/2017:185, TE/2017:236, TE/2017:238, TE/2017:239, TE/2017:245]
 kalla_url: https://web.archive.org/web/20170818235848id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2017/Protokoll%20NTE%202017-04-19.pdf
 sha256: d4d74ae0abdfcc69d6a467549131a4055a90846a187966d007263c162e4c04bb
 bytes: 562978

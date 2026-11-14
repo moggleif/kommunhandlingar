@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2020/bn-protokoll-2020-11-26--301-354_webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2016-000170, BN-2017-001635, BN-2018-000390, BN-2019-001360, BN-2019-001583, BN-2019-001982, BN-2020-000018, BN-2020-000083, BN-2020-00023, BN-2020-000492, BN-2020-000500, BN-2020-000569, BN-2020-000599, BN-2020-000741, BN-2020-000747, BN-2020-000811, BN-2020-000828, BN-2020-000840, BN-2020-001072, BN-2020-001097, BN-2020-001137, BN-2020-001206, BN-2020-001220, BN-2020-001423, BN-2020-001428, BN-2020-001461, BN-2020-001635, BN-2020-001686, BN-2020-001709, BN-2020-002194, BN-2020-002354, BN-2020-002607, BN-2020-002648, BN-2020-002846, BN-2020-002921, BN-2020-002965, BN-2020-002966, BN-2020-002967, BN-2020-003007, BN-2020-0779]
 kalla_url: https://web.archive.org/web/20220319203137id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2020/bn-protokoll-2020-11-26--301-354_webb.pdf
 sha256: fa5772e00ce0f307123d06c55f5a5c4e1da4992952f64124ec60a5c8b5d78093
 bytes: 2489326

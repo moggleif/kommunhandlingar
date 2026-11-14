@@ -7,7 +7,7 @@ typ: protokoll
 namn: protokoll-230831-81-84-86-95-signerad-pub
 kallnyckel: sitevision:18.6f3c0c5618a261856362e341
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00001, 2023-00002, 2023-00012, 2023-00059, 2023-00064, 2023-00065, 2023-00079, 2023-00080, 2023-00081, 2023-00103, 2023-00107, 2023-00108, 2023-00116, 2023-00121]
 kalla_url: https://web.archive.org/web/20250213021243id_/https://kungsbacka.se/download/18.6f3c0c5618a261856362e341/1694425484917/Protokoll%20230831%20%C2%A7%C2%A7%2081-84,%2086-95.signerad.pub.pdf
 sha256: bb938db1f1eebd39ec86a627f7c04a2ed2efb12e34e886fafa4669492d21d7dc
 bytes: 586416

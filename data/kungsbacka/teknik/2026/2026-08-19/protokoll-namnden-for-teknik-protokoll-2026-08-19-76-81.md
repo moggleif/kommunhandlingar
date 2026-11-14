@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-teknik-protokoll-2026-08-19-76-81
 kallnyckel: sitevision:18.4d978f5f1a01d631f6a6f76
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2026-00445, TE-2026-00510]
 kalla_url: https://kungsbacka.se/download/18.4d978f5f1a01d631f6a6f76/1787225500001/N%C3%A4mnden%20f%C3%B6r%20Teknik%20-%20Protokoll%202026-08-19%20%C2%A7%C2%A7%2076,%2081.pdf
 sha256: 05b37406f80cdce2a3cf8a0b4d2fdc52e437006e1157d45aee48358a9a0ac024
 bytes: 281526

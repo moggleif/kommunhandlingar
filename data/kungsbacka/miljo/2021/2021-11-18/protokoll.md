@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2021/nmh-2021-11-18-protokoll--132-146.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-3122, 2021-4766]
 kalla_url: https://web.archive.org/web/20220319184816id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2021/nmh-2021-11-18-protokoll--132-146.pdf
 sha256: 9cfda64cbf65f74d46fc5754301a755c1d3236e4df02c5fccdb433571681b932
 bytes: 212482

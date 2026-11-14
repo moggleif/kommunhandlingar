@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Tekniks%20arbetsutskott/Protokoll/2014/140304%20%C2%A7%C2%A717-30.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE/2013:314, TE/2014:102, TE/2014:35, TE/2014:66, TE/2014:94]
 kalla_url: https://web.archive.org/web/20140703170633id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Tekniks%20arbetsutskott/Protokoll/2014/140304%20%c2%a7%c2%a717-30.pdf
 sha256: 826f17025c2e312eca2610aba8b3c08a75fec465b29998498512c38082461e46
 bytes: 1038729

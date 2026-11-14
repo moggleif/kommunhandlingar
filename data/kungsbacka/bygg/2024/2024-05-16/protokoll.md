@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.1fdd930a18f775083cf3cbc
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2024-00155]
 kalla_url: https://kungsbacka.se/download/18.1fdd930a18f775083cf3cbc/1715926670813/Byggnadsn%C3%A4mndens%20protokoll%202024-05-16%20%C2%A7%20117.pdf
 sha256: 0c84ffa4e37d4c2c14a125d0936039bfc9fe6270539b3f9167ba0618ee284b83
 bytes: 184209

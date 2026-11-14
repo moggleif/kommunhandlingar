@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/protokoll-nvo-2019-10-16med-sekretessmarkering.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO/2019:20]
 kalla_url: https://web.archive.org/web/20200712021011id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/protokoll-nvo-2019-10-16med-sekretessmarkering.pdf
 sha256: a82d0d3c217c1a6d841593e22d29b578f06ecec3cebedda047434b9a19dac01b
 bytes: 6511110

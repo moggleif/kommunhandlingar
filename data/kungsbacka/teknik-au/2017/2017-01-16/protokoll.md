@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Tekniks%20arbetsutskott/Protokoll/2017/Protokoll%20TEAU%202017-01-16.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE/2016:677, TE/2016:758, TE/2016:844, TE/2016:877, TE/2016:918, TE/2016:931, TE/2016:932, TE/2016:953, TE/2016:982, TE/2016:983, TE/2016:984, TE/2016:985, TE/2016:986, TE/2017:10, TE/2017:2, TE/2017:23, TE/2017:26, TE/2017:33, TE/2017:4, TE/2017:9]
 kalla_url: https://web.archive.org/web/20170819000333id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Tekniks%20arbetsutskott/Protokoll/2017/Protokoll%20TEAU%202017-01-16.pdf
 sha256: 0f8febae64452756531a593f597183ab26f362119adb718e2044a9a42526b56e
 bytes: 631902

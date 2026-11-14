@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Protokoll/2014/Protokoll%20n%C3%A4mnd%20140219.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GV/2011:85, GV/2014:10, GV/2014:11, GV/2014:12, GV/2014:13, GV/2014:14, GV/2014:3, GV/2014:4, GV/2014:5, GV/2014:6, GV/2014:7, GV/2014:8, GV/2014:9, GV13-00085/00]
 kalla_url: https://web.archive.org/web/20140703171413id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Protokoll/2014/Protokoll%20n%c3%a4mnd%20140219.pdf
 sha256: 718eb25cf335c9433c390fa95d406f7d5bcce7aef06423043010fed7d5b4ce6e
 bytes: 128812

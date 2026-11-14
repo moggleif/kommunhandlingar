@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2013/TEN%20%C2%A7%C2%A7%20121-131%2020131121.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS13-00280/25]
 kalla_url: https://web.archive.org/web/20140806181014id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2013/TEN%20%c2%a7%c2%a7%20121-131%2020131121.pdf
 sha256: 18bcca3ed1e8f91983f2d5e1b27e725b7e9ee38c50d998b8f1bccc58b7f8ee8e
 bytes: 886921

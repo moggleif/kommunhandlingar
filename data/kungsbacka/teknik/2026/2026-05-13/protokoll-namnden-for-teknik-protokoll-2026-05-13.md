@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-teknik-protokoll-2026-05-13
 kallnyckel: sitevision:18.6e62270219e4ad9859d2f8b3
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2025-00287, TE-2025-00817, TE-2026-00001, TE-2026-00002, TE-2026-00007, TE-2026-00008, TE-2026-00033, TE-2026-00065, TE-2026-00159, TE-2026-00216, TE-2026-00284, TE-2026-00359, TE-2026-00369, TE-2026-00376, TE-2026-00425]
 kalla_url: https://kungsbacka.se/download/18.6e62270219e4ad9859d2f8b3/1779699007230/N%C3%A4mnden%20f%C3%B6r%20Teknik%20-%20Protokoll%202026-05-13.pdf
 sha256: d68b4551c74acf5bd01d02be7782ca24055f4eada4fe54d664b6e0f72be00c8e
 bytes: 293409

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2014/KSAU_140121.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140408174443id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2014/KSAU_140121.pdf
 sha256: cb915d063affbb491234d8e8d04c5a1cfa6066e2c18aba33f27c55004a9a1575
 bytes: 214792

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Valn%C3%A4mnd/Protokoll/2013/VN_130520_protokoll.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS13-00003/00]
 kalla_url: https://web.archive.org/web/20140805173426id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Valn%c3%a4mnd/Protokoll/2013/VN_130520_protokoll.pdf
 sha256: 45ff3871dc4beb1a5976c695c80c31ea2d695f91c43744f9a0a13c4e52785041
 bytes: 205646

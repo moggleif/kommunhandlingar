@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/protokoll/2021/nse-protokoll-2021-05-20.pdf
 tidigare_kallnycklar: [sitevision:18.6ea12a3f17f1cb356901eef]
-arenden: null
+arenden: [2020-00336, 2021-00124, 2021-00125, 2021-00133, 2021-00153, 2021-00154, 2021-00155, 2021-00156, 2021-00157, 2021-00158, 2021-00161, 2021-00162]
 kalla_url: https://web.archive.org/web/20220319222042id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/protokoll/2021/nse-protokoll-2021-05-20.pdf
 sha256: 520438ab5d8a186ddf9e06cf818706d0565b348638df90518822a30381375f49
 bytes: 211924

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2019/kf-protokoll-2019-08-13.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2018:528, KS/2019:148, KS/2019:178, KS/2019:263, KS/2019:351, KS/2019:379, KS/2019:384, KS/2019:399, KS/2019:472, KS/2019:563, KS/2019:564, KS/2019:578, KS/2019:580, KS/2019:582]
 kalla_url: https://web.archive.org/web/20211206211345id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2019/kf-protokoll-2019-08-13.pdf
 sha256: 0f4702f53a5189377bf2b128ea941ac25fd2298b245a1cd806e925d86b8017d3
 bytes: 531288

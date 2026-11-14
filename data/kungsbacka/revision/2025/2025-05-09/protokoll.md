@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.120e6b95196c7fa447f16074
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f16074/1747214453341/Kommunrevisionen%20protokoll%202025-05-09%20%C2%A7%2015.pdf
 sha256: 7d2d8af84dd87c127c3c1679f8e5d0b806d0e8193b54f1f8897f3ecca77fbfc7
 bytes: 211903

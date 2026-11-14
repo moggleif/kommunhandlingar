@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-protokoll-2024-06-11-142-143
 kallnyckel: sitevision:18.1722ec5a1900ff6cbab94
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2023-001564, BN-2024-000899]
 kalla_url: https://kungsbacka.se/download/18.1722ec5a1900ff6cbab94/1718260441899/Byggnadsn%C3%A4mndens%20protokoll%202024-06-11%20%C2%A7%C2%A7%20142-143.pdf
 sha256: 75d40250d375c294b40e8892ca1a934e06e937bdcb06d01545bc03d3149a0496
 bytes: 169739

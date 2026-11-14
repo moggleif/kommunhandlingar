@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-protokoll-2026-08-11-119-120-122-125
 kallnyckel: sitevision:18.a07712b19fe9b41f31bb732
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2026-00001, BN-2026-00003, BN-2026-000150, BN-2026-000494, BN-2026-000626, BN-2026-000630]
 kalla_url: https://kungsbacka.se/download/18.a07712b19fe9b41f31bb732/1786965516363/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202026-08-11%20%C2%A7%C2%A7%20119-120,%20122-125%20.pdf
 sha256: e1b5ac1b30f8fb9260c5d6c7c82f3939d3686ab9f79f08ecd01da429e8563a25
 bytes: 306511

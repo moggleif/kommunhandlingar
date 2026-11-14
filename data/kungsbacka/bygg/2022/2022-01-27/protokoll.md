@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/2022-01-27/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2016-00088, BN-2017-000729, BN-2018-00026, BN-2018-00040, BN-2018-000430, BN-2021-00003, BN-2021-000037, BN-2021-000053, BN-2021-00009, BN-2021-000523, BN-2021-001763, BN-2021-001876, BN-2021-002165, BN-2021-002585, BN-2021-003248, BN-2021-003263, BN-2021-003265, BN-2021-003349, BN-2021-003350, BN-2021-004095, BN-2021-004649, BN-2022-000007]
 kalla_url: [https://web.archive.org/web/20220319233238id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2022/bn-protokoll-2022-01-27--1-3-6-48_webb.pdf, https://web.archive.org/web/20220319211125id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2022/bn-protokoll-2022-01-27--4-5_omedelbar-justering.pdf]
 sha256: [7a094da7170f9ffe6ff4c4362b0537130e6aed0ada580256fed5715b16aea725, 6b9ce74970173d7086393a3577d1690f159fdde64a8b24dcf652f97ce5fc509c]
 bytes: [1431593, 1956029]

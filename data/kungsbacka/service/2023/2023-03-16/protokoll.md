@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.28c3bfdf186a1b346b42be79
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-00226, 2022-00327, 2022-00334, 2022-00335, 2023-00026, 2023-00027, 2023-00039, 2023-00050, 2023-00051, 2023-00052, 2023-00053, 2023-00057, 2023-00058, 2023-00059, 2023-00062, 2023-00064, 2023-00071]
 kalla_url: https://web.archive.org/web/20241115031501id_/https://kungsbacka.se/download/18.28c3bfdf186a1b346b42be79/1679054612491/N%C3%A4mnden%20f%C3%B6r%20Service%20protokoll%202023-03-16.pdf
 sha256: 5ba79a8228c6ea9718b7e7584ed6fbddec376fb8c9faff2ecefecfd73c3cd487
 bytes: 283205

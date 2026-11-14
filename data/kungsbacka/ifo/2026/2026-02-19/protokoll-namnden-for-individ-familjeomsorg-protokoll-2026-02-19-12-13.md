@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-individ-familjeomsorg-protokoll-2026-02-19-12-13
 kallnyckel: sitevision:18.420f32a619c71138a003fbc2
 tidigare_kallnycklar: []
-arenden: null
+arenden: [IF-2025-00165, IF-2026-00046]
 kalla_url: https://kungsbacka.se/download/18.420f32a619c71138a003fbc2/1771602091962/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202026-02-19,%20%C2%A7%C2%A7%2012-13.pdf
 sha256: 5164a2fcec0a5de195b1fbe5c7cda4b8736c8d859bccbce0b1a3fcdf9a6aabfc
 bytes: 358677

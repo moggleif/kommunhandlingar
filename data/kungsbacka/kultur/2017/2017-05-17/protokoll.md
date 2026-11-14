@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kultur%20och%20Turism/Protokoll/2017/KT_protokoll_170517.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KT/2017:33, KT/2017:35]
 kalla_url: https://web.archive.org/web/20170726083959id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kultur%20och%20Turism/Protokoll/2017/KT_protokoll_170517.pdf
 sha256: 9781c2d903cdc301cd4025ace3614a59bd0b627abedbadafcf65c314ffbbbe03
 bytes: 1720399

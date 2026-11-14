@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-vard-omsorg-protokoll-2023-05-17-61
 kallnyckel: sitevision:18.7ade669418851b707b8485
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00135]
 kalla_url: https://web.archive.org/web/20240416210044id_/https://kungsbacka.se/download/18.7ade669418851b707b8485/1685008449835/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsorg%20protokoll%202023-05-17,%20%C2%A7%2061.pdf
 sha256: 5af9144b433b9f859dcfc37503fdd85242021b22e75a3cde38b01a81ab21e0c9
 bytes: 55276

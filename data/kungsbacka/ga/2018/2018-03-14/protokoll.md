@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2018/protokoll-namnden-for-gymnasie--vuxenutbildning-2018-03-14.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GV/2015:49, GV/2017:81, GV/2017:85, GV/2018:10, GV/2018:11, GV/2018:19, GV/2018:22, GV/2018:24, GV/2018:29, GV/2018:3, GV/2018:5]
 kalla_url: https://web.archive.org/web/20200120174714id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2018/protokoll-namnden-for-gymnasie--vuxenutbildning-2018-03-14.pdf
 sha256: 63662b3373968c390e9143b8a1bed65d4836785ce33717c2ee285fa59379f8f6
 bytes: 313802

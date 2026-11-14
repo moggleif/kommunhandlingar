@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2021/bnau-protokoll--2021-03-04---webb.pdf
 tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a5013bb3]
-arenden: null
+arenden: [BN-2018-000847, BN-2019-00029, BN-2019-00045, BN-2019-000926, BN-2019-001110, BN-2020-00026, BN-2020-000826, BN-2020-001083, BN-2020-001243, BN-2020-001495, BN-2020-001880, BN-2020-001978, BN-2020-002030, BN-2020-002051, BN-2020-002299, BN-2020-002523, BN-2020-002574, BN-2020-002626, BN-2020-003499, BN-2021-000412, BN-2021-000440, BN-2021-000596]
 kalla_url: https://web.archive.org/web/20210506041327id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2021/bnau-protokoll--2021-03-04---webb.pdf
 sha256: ed46dfa6bc781479cf12d5bd8d50b23b053dfc32f5697a4dcb205722f20e37af
 bytes: 835592

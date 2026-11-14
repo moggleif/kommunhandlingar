@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-teknik-protokoll-2025-02-19
 kallnyckel: sitevision:18.79699e4a19528b6643b666bb
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2024-00118, TE-2024-00634, TE-2024-01349, TE-2024-01370, TE-2024-01371, TE-2024-01372, TE-2024-01374, TE-2024-01384, TE-2025-00002, TE-2025-00003, TE-2025-00004, TE-2025-00019, TE-2025-00028, TE-2025-00037, TE-2025-00049]
 kalla_url: https://kungsbacka.se/download/18.79699e4a19528b6643b666bb/1740391314303/N%C3%A4mnden%20f%C3%B6r%20Teknik%20Protokoll%202025-02-19.pdf
 sha256: f5b126b777b5aaef469e0546602bee5903dd8b744e08211cce70a904262c7201
 bytes: 443565

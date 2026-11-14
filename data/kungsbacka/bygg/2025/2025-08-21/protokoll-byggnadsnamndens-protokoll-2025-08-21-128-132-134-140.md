@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-protokoll-2025-08-21-128-132-134-140
 kallnyckel: sitevision:18.1a32a2aa198caf3d5f79a0b6
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2019-00020, BN-2021-002535, BN-2022-001665, BN-2023-00211, BN-2025-00001, BN-2025-00002, BN-2025-00003, BN-2025-00006, BN-2025-00007, BN-2025-001172, BN-2025-00149, BN-2025-00184]
 kalla_url: https://kungsbacka.se/download/18.1a32a2aa198caf3d5f79a0b6/1756126194785/Byggnadsn%C3%A4mndens%20protokoll%202025-08-21%20%C2%A7%C2%A7%20128-132,%20134-140.pdf
 sha256: 3ee5fddbae8c0e69934196b0e4d9247c88a2909c23b892d0e37561832e21e40e
 bytes: 243306

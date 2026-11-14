@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Valn%C3%A4mnd/Protokoll/2016/VN%20protokoll%202016-02-01.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VN/2016:1, VN/2016:2]
 kalla_url: https://web.archive.org/web/20160611195443id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Valn%c3%a4mnd/Protokoll/2016/VN%20protokoll%202016-02-01.pdf
 sha256: 262a250bbd4b8b654d5b56241deff5bbd1634ddb5ebb1deb5d86b435e5d1defb
 bytes: 488099

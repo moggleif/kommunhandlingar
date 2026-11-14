@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mndens%20arbetsutskott/Protokoll/2013/Protokoll%20AU%20130917%20webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140806084630id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mndens%20arbetsutskott/Protokoll/2013/Protokoll%20AU%20130917%20webb.pdf
 sha256: c7d0d312d4b1dc43d554a52de35e5051f3319d2e87acd63fb737d4e6bde11be5
 bytes: 186626

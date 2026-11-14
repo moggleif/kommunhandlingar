@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/210519-protokoll.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.72941e9317f452787b6c02c]
-arenden: null
+arenden: [2019-00196, 2020-00036, 2020-00243, 2020-00325, 2020-00326, 2020-00327, 2021-00003, 2021-00005, 2021-00019, 2021-00093, 2021-00098, 2021-00100, 2021-00119, 2021-00120]
 kalla_url: https://web.archive.org/web/20220319190116id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/210519-protokoll.signerad.pub.pdf
 sha256: 9ec6c14115c24cb756ecb7e10657a29f61d847a345125db662a007ade35cd6f3
 bytes: 1078274

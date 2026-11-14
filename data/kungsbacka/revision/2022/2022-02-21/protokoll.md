@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2022/kommunrev.-protokoll-2022-02-21--17.signerad.pub.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20220319190652id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2022/kommunrev.-protokoll-2022-02-21--17.signerad.pub.pdf
 sha256: 99f693cdfa8f8c7e70aaeae38ed5869917666c388d9faf72c760000f4e118fa2
 bytes: 376672

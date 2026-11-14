@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-teknik-protokoll-2021-02-24-11-12-pdf
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d9265c5
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00006, 2021-00074]
 kalla_url: https://web.archive.org/web/20220518053319id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d9265c5/1645001897991/N%C3%A4mnden%20f%C3%B6r%20Teknik%20protokoll%202021-02-24%20%C2%A7%2011-12.pdf%C2%A0
 sha256: aea013d5d2bd7e8a25c7b6eec7e42ac95240a9ea3eb5469936e9e53f4edc7054
 bytes: 684810

@@ -7,7 +7,7 @@ typ: protokoll
 namn: protokoll-ga-januari-signerad-pub
 kallnyckel: sitevision:18.7b9d1ad18d54c082d55f3b
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GA-2023-00126, GA-2023-00137, GA-2023-00143, GA-2023-00154, GA-2023-00161, GA-2023-00164, GA-2023-00173, GA-2024-00001, GA-2024-00002, GA-2024-00003, GA-2024-00004, GA-2024-00005, GA-2024-00006, GA-2024-00007, GA-2024-00008]
 kalla_url: https://kungsbacka.se/download/18.7b9d1ad18d54c082d55f3b/1706789957310/Protokoll%20GA%20januari.signerad.pub.pdf
 sha256: 2ce40269555cfaf9ff2499c3e459f4b1fa986532fbfc6fb43f4325cdcb880126
 bytes: 361593

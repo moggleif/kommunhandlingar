@@ -1,4 +1,5 @@
-"""Krav: K47 i docs/02-KRAV.md, ADR-0070. Test: tests/test_dokumentindex.py.
+"""Krav: K47 och K48 i docs/02-KRAV.md, ADR-0070 och ADR-0071.
+Test: tests/test_dokumentindex.py, tests/test_paragrafindex.py.
 
 `llms.txt` i webbplatsens rot, enligt https://llmstxt.org/: ingången för
 en AI, som säger hur poolen ska läsas och pekar på varje kommuns index,
@@ -27,6 +28,11 @@ Indexet har en rad per dokument i JSON Lines, med hela front matter.
 `{repo}/raw/main/<fil>`. `sida` är dokumentets sida på den här webbplatsen,
 och tabellerna i `tabeller` ligger bredvid den i
 `<sida utan .html>.tabeller/`.
+
+Paragraferna har en rad per paragraf i protokollen, med rubriken,
+diarienumren, beslutet och sidan där paragrafen börjar. `beslut` är `null`
+när paragrafen saknar rubriken Beslut eller beslutet når sidans slut;
+läs det då på sidan. `arenden` i indexet är protokollets alla diarienummer.
 """
 
 
@@ -39,6 +45,7 @@ def llms(mall: Mall) -> str:
 def kommunavsnitt(mall: Mall, kommun: Kommun) -> str:
     lankar = [
         f"[Index över dokumenten]({kommun.id}/index.jsonl)",
+        f"[Protokollens paragrafer]({kommun.id}/paragrafer.jsonl)",
         f"[Översikt]({kommun.id}.html)",
     ]
     lankar += [f"[{o.namn[0]}]({kommun.id}/{o.id}.html)" for o in kommun.organ]

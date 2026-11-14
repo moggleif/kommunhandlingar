@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.33df50461a157e1b9001ea6f
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2026-00792]
 kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001ea6f/1792562010143/Kommunstyrelsen%20protokoll%202026-10-20,%20%C2%A7%20250.pdf
 sha256: 46dfb0dfcd8ff4c6912e42d111e7bdaa250edc6deda781e77b89bd11cd028b31
 bytes: 238579

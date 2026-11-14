@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2020/nfg-201216-sign-protokoll.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2020-00101, 2020-00283, 2020-00417, 2020-01478, 2020-01503, 2020-01703, 2020-01728, 2020-01729, 2020-01744, 2020-01750, 2020-01751, 2020-01754, 2020-01780, 2020-01791, 2020-01857]
 kalla_url: https://web.archive.org/web/20220319203147id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2020/nfg-201216-sign-protokoll.pdf
 sha256: b7ba6df423fd19322e36399f98dd1fe69f79f376cc6608003f07b7c204662e2b
 bytes: 362021

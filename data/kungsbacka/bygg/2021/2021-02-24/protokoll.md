@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/2021-02-24/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2015-00082, BN-2017-001283, BN-2018-00040, BN-2019-000765, BN-2019-001588, BN-2020-00009, BN-2020-000683, BN-2020-000883, BN-2020-001059, BN-2020-002967, BN-2021-000053]
 kalla_url: [https://web.archive.org/web/20220319185047id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2021/bn-protokoll-2021-02-24--37-39_omedelbar-justering-inskannat.pdf, https://web.archive.org/web/20210506043510id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2021/bn-protokoll-2021-02-24_webb.pdf]
 sha256: [042635d4ba6be174c473c55c70847dafbafc99d43f282a321b68bc4a045d7c32, 2b8cc2b71b2a805e8384d61bf0ec92e90f19233c625e5e533ae68c7011dc02cf]
 bytes: [3569682, 926404]

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunfullm%C3%A4ktige/Protokoll/2014/KF%20protokoll%202014-11-11.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2013:170, KS/2013:189, KS/2014:122, KS/2014:149, KS/2014:247, KS/2014:262, KS/2014:305, KS/2014:369, KS/2014:388, KS/2014:422, KS/2014:450, KS/2014:467, KS/2014:85, KS/2014:98]
 kalla_url: https://web.archive.org/web/20150510154103id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunfullm%c3%a4ktige/Protokoll/2014/KF%20protokoll%202014-11-11.pdf
 sha256: 98129a79b47d3af30a9f03dd50ed7dea6a1188f770a5819db3bceb13b902e97f
 bytes: 408855

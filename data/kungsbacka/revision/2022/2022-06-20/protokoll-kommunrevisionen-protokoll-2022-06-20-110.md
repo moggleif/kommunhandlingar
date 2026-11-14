@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunrevisionen-protokoll-2022-06-20-110
 kallnyckel: sitevision:18.4f14e26f18180016f4b27bbe
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20240712221052id_/https://kungsbacka.se/download/18.4f14e26f18180016f4b27bbe/1656656770657/Kommunrevisionen%20protokoll%202022-06-20,%20%C2%A7%20110.pdf
 sha256: 64698b41c771c5f3183a1b6171608db0fe8cc19aab904b8fb8a94b7953521adb
 bytes: 374162

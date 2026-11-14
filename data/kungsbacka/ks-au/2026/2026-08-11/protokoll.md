@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.a07712b19fe9b41f3137402
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2022-00532, KS-2024-00697, KS-2025-00970, KS-2025-00975, KS-2026-00123, KS-2026-00174, KS-2026-00235, KS-2026-00340, KS-2026-00376, KS-2026-00407, KS-2026-00424, KS-2026-00460, KS-2026-00464, KS-2026-00488]
 kalla_url: https://kungsbacka.se/download/18.a07712b19fe9b41f3137402/1786539327332/Kommunstyrelsens%20arbetsutskott%20protokoll%202026-08-11.pdf
 sha256: 9d9eebad98b009dfa78d136872fa7417b6e533ab34b3468688a7978b2f2c24b0
 bytes: 228623

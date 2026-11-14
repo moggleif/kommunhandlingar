@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola-arbetsutskott/protokoll/2022/fgau_220112_protokoll.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.68e39ecb17ede8bc2d9612e]
-arenden: null
+arenden: [2021-00028, 2021-01049, 2021-01319, 2021-01420, 2021-01566, 2021-01636, 2022-00001, 2022-00002, 2022-00003, 2022-00004, 2022-00006, 2022-00007, 2022-00009, 2022-00011, 2022-00012, 2022-00013, 2022-00021, 2022-00028]
 kalla_url: https://web.archive.org/web/20220319194131id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola-arbetsutskott/protokoll/2022/fgau_220112_protokoll.signerad.pub.pdf
 sha256: fa7c41fc81b877c3ceffcddb47c3edaf6daae8197478a9259222c827756f2e36
 bytes: 886842

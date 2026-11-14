@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2019/bn-protokoll-2019-08-15-webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-0946, 2018-2081, 2019-0001, 2019-0824, BN/2019:138, PL/2016:41, PL/2017:20, PL/2018:30, PL/2018:40, PL/2019:26]
 kalla_url: https://web.archive.org/web/20200923233751id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/protokoll/2019/bn-protokoll-2019-08-15-webb.pdf
 sha256: 57e6048571314207683a771e4707d897237c18fc1f6f633c5753c8fe7cede96a
 bytes: 559862

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Dagordning/2014/Protokoll%20PU%202014-11-12.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20150321100312id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Dagordning/2014/Protokoll%20PU%202014-11-12.pdf
 sha256: b6c310cfc575142ef7f34be4f6199b9d63eb084abb1e9acffc16a8a0c895ed56
 bytes: 190903

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.7dfb7256199c8e9b9cb1acb0
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2025-00004, TE-2025-00251, TE-2025-00378, TE-2025-00720, TE-2025-00779, TE-2025-00846, TE-2025-00889]
 kalla_url: https://kungsbacka.se/download/18.7dfb7256199c8e9b9cb1acb0/1760095016562/N%C3%A4mnden%20f%C3%B6r%20Tekniks%20arbetsutskott%20-%20Protokoll%202025-10-06.pdf
 sha256: c1b2eb0ceb1f5f6b1a12bde2d4bb4fe2b953cd255ef3bbcf42044b970d1094e0
 bytes: 322061

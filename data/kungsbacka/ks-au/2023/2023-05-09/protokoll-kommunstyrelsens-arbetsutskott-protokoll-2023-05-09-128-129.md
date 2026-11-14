@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunstyrelsens-arbetsutskott-protokoll-2023-05-09-128-129
 kallnyckel: sitevision:18.16089e6187eae32b3ff27e
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-00664, 2023-00021]
 kalla_url: https://web.archive.org/web/20241214010001id_/https://kungsbacka.se/download/18.16089e6187eae32b3ff27e/1683790356886/Kommunstyrelsens%20arbetsutskott%20protokoll%202023-05-09%20%C2%A7%C2%A7%20128-129.pdf
 sha256: cdea01c912c24ae6711acc9ed07ca9b8c1551cfcfa64b9657a33292823b712a3
 bytes: 550100

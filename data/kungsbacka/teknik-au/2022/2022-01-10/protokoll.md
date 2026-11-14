@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2ed9706017f44c50af12b142
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00185, 2021-00716, 2021-01061, 2021-01132, 2021-01163, 2021-01199, 2022-00001, 2022-00006]
 kalla_url: https://web.archive.org/web/20220404172428id_/https://kungsbacka.se/download/18.2ed9706017f44c50af12b142/1648796044396/Arbetsutskottet%20f%C3%B6r%20Teknik%20protokoll%202022-01-10.pdf
 sha256: 89eb2e2a00dc3f617c07648640a57280152cab60a62777ed7b66509d03ee14f9
 bytes: 206389

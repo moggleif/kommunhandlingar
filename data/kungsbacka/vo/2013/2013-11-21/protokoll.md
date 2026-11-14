@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/2013-11-21/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [ÄO11-00064/75, ÄO13-00017/75, ÄO13-00057/75, ÄO13-00067/75, ÄO13-00087/75, ÄO13-00126/75, ÄO13-00131/75]
 kalla_url: [https://web.archive.org/web/20140805033553id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2013/Protokoll%20n%c3%a4mnd%20131121%20-%20avtalsf%c3%b6rl%c3%a4ngningar%20Ekhaga-Vickan.pdf, https://web.archive.org/web/20140805031010id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2013/Protokoll%20n%c3%a4mnd%20131121%20-%20%c3%b6ppet.pdf]
 sha256: [88ba37484a193514376e0115efea7eb658a33f6f47256fece97c55f9f6894bac, 8ef00aa9d480a112505649f8c465b125150739276181ceab3cea9cab2ab52336]
 bytes: [75489, 123204]

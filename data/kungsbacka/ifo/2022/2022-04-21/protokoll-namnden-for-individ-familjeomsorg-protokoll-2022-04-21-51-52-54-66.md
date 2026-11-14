@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-individ-familjeomsorg-protokoll-2022-04-21-51-52-54-66
 kallnyckel: sitevision:18.50c580bd18002891b9f25f2d
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-00082, 2019-00334, 2019-00337, 2019-00338, 2019-00350, 2019-00351, 2021-00004, 2021-00005, 2021-00006, 2021-00007, 2021-00008, 2021-00247, 2022-00010, 2022-00059, 2022-00064, 2022-00068, 2022-00071]
 kalla_url: https://web.archive.org/web/20241016050104id_/https://kungsbacka.se/download/18.50c580bd18002891b9f25f2d/1650981168798/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202022-04-21%20%C2%A7%2051-52,%2054-66.pdf
 sha256: 0d2c33910bc4ae7ad0f3f8e210e2000b5d07e1a50297aea4878dcdae0b1d5a18
 bytes: 251528

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/2014-04-24/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [ÄO/2013:124, ÄO/2014:32, ÄO/2014:35, ÄO/2014:50, ÄO/2014:51, ÄO/2014:52, ÄO/2014:57]
 kalla_url: [https://web.archive.org/web/20140703112840id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2014/Protokoll%20n%c3%a4mnd%20140424%20%c2%a7%2045.pdf, https://web.archive.org/web/20140703115845id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2014/Protokoll%20n%c3%a4mnd%20140424%20%c2%a7%2046-57.pdf]
 sha256: [47c8ba50fa641be02d1638f6eb3bee905fe66ff397579967d1fadecfd3490076, 7cc4c6aaee3ff1e34518e062b3d948caaef89f6026bf8b81c98380d5da560b79]
 bytes: [73995, 117177]

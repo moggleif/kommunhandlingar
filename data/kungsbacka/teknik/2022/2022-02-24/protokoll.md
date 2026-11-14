@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/2022-02-24/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-00895, 2021-00508, 2021-00772, 2021-01155, 2021-01162, 2021-01192, 2022-00003, 2022-00004, 2022-00005, 2022-00006, 2022-00007, 2022-00010, 2022-00011, 2022-00071]
 kalla_url: [https://web.archive.org/web/20220319202118id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2022/namnden-for-teknik-protokoll-2022-02-24--17-o-19.pdf, https://web.archive.org/web/20220319195832id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2022/namnden-for-teknik-protokoll-2022-02-24.pdf]
 sha256: [cf36280cfeadfde05c04b572d61735ab7807eba7112f1956dde69e154723a1f1, 7ef07781a25f26f0b0631515cb45bedd5ac113ad4ada8f0b28eeace5d356a86b]
 bytes: [496706, 610873]

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Service/Protokoll/2014/SE_Protokoll_140129.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE/2014:12, SE/2014:13, SE/2014:5, SE/2014:7]
 kalla_url: https://web.archive.org/web/20140703135904id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Service/Protokoll/2014/SE_Protokoll_140129.pdf
 sha256: aef0932deb60e3e55af4480e4ae0f803c81f76a9cc053b871338cd507977fc8e
 bytes: 87999

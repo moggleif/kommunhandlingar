@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/2021-05-04/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2017-00096, 2017-00334, 2018-00045, 2018-00686, 2019-00058, 2020-00909, 2021-00014, 2021-00159, 2021-00277, 2021-00302, 2021-00333, 2021-00386, 2021-00397, 2021-00422, 2021-00450, 2021-00486]
 kalla_url: [https://web.archive.org/web/20220320070850id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/protokoll/2021/protokoll-ksau-210504--166-167--169-181.signerad.pub.pdf, https://web.archive.org/web/20220320133910id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/protokoll/2021/protokoll-ksau-210504--168.pdf]
 sha256: [a26fad0053f72d8ecb040f44d969cfd4012c299830d1601d6f39aede74e0a85d, 73181c7a1505ef523917d6c9656942f14ceb25e066ac8ed61e9fda1238d5bb03]
 bytes: [749785, 558418]

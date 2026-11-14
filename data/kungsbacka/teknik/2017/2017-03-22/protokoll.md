@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2017/Protokoll%20NTE%202017-03-22.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE/2016:433, TE/2017:131, TE/2017:162, TE/2017:163, TE/2017:71]
 kalla_url: https://web.archive.org/web/20170818213146id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2017/Protokoll%20NTE%202017-03-22.pdf
 sha256: b4998061e405912dbc1f6212414cf045606c247ffebd1836b48518489ef539cd
 bytes: 548750

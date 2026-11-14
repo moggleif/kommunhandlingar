@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.23b86de517f44a713881fcf6
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-00258]
 kalla_url: https://web.archive.org/web/20240914163950id_/https://kungsbacka.se/download/18.23b86de517f44a713881fcf6/1648126027139/Kommunstyrelsen%20protokoll%202022-03-22,%20%C2%A7%2082.pdf
 sha256: 801d55b3b38e5efb96c8fb1989e6fc67a749265f35a0ba78c90c369c49772b14
 bytes: 485352

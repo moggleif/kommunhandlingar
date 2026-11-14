@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mndens%20arbetsutskott/Protokoll/2014/Protokoll%20AU%202014-02-18%20webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140703192136id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mndens%20arbetsutskott/Protokoll/2014/Protokoll%20AU%202014-02-18%20webb.pdf
 sha256: e0e18a2358a5b4b766cda2b2fb7e6d6abbe168dace5d261d78e2b027bb175037
 bytes: 131943

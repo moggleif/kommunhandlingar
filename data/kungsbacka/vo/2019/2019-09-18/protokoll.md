@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/nvo-protokoll-2019-09-18.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO/2018:158, VO/2018:219, VO/2019:109, VO/2019:123, VO/2019:125, VO/2019:126, VO/2019:128, VO/2019:129, VO/2019:137, VO/2019:138, VO/2019:143, VO/2019:161, VO/2019:167, VO/2019:20]
 kalla_url: https://web.archive.org/web/20200712170656id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/nvo-protokoll-2019-09-18.pdf
 sha256: 9b635102afbf3ab1c99ae523564c54deb23b5b5edf4c77ecf0cfb863653163a8
 bytes: 501440

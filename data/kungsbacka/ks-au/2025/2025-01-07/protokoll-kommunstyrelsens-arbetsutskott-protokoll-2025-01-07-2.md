@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunstyrelsens-arbetsutskott-protokoll-2025-01-07-2
 kallnyckel: sitevision:18.7a86dc02194401f5c323c53
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2024-00744]
 kalla_url: https://kungsbacka.se/download/18.7a86dc02194401f5c323c53/1736259630983/Kommunstyrelsens%20arbetsutskott%20protokoll%202025-01-07%20%C2%A7%202.pdf
 sha256: 9fe3163138a9bbee67a948251a9b46ebd1cb1f069a2f8a24089b704d8ea3b8f0
 bytes: 230565

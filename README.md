@@ -21,7 +21,9 @@ kommunen går att läsa på webbplatsen:
 För en AI börjar poolen i
 <https://moggleif.github.io/kommunhandlingar/llms.txt>, som pekar på
 indexet över alla dokument per kommun
-([K47](docs/02-KRAV.md#k47--poolen-har-ett-index-och-en-ingång-för-ai)).
+([K47](docs/02-KRAV.md#k47--poolen-har-ett-index-och-en-ingång-för-ai)) och
+på protokollens paragrafer med diarienummer och beslut
+([K48](docs/02-KRAV.md#k48--protokollen-går-att-läsa-paragraf-för-paragraf)).
 
 ## Hur det fungerar
 

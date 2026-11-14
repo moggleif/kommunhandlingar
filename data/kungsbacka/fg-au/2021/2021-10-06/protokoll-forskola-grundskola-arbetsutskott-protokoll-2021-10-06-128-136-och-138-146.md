@@ -7,7 +7,7 @@ typ: protokoll
 namn: forskola-grundskola-arbetsutskott-protokoll-2021-10-06-128-136-och-138-146
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d9563d
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00002, 2021-00020, 2021-00021, 2021-00022, 2021-00028, 2021-00853, 2021-00946, 2021-00978, 2021-01054, 2021-01072, 2021-01107, 2021-01125, 2021-01153, 2021-01154, 2021-01155, 2021-01156, 2021-01191, 2021-01208]
 kalla_url: https://web.archive.org/web/20220404190927id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d9563d/1644473616738/F%C3%B6rskola%20&%20Grundskola%20arbetsutskott%20protokoll%202021-10-06%20%C2%A7%C2%A7%20128-136%20och%20%C2%A7%C2%A7%20138-146.pdf
 sha256: 0dc09694e951162d492fc27fa80d692abc22e6fd203f444a37e9be1e873b1c49
 bytes: 922235

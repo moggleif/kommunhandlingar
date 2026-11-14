@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.708627c5190a253b1da4543a
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2020-00618, KS-2023-00621, KS-2024-00005, KS-2024-00009, KS-2024-00104, KS-2024-00156, KS-2024-00362, KS-2024-00448, KS-2024-00474, KS-2024-00475, KS-2024-00532, KS-2024-00539]
 kalla_url: https://kungsbacka.se/download/18.708627c5190a253b1da4543a/1724247635425/Kommunfullm%C3%A4ktige%20protokoll%202024-08-13.pdf
 sha256: 6058c153fe1c8a4bfcade78da33efd951a1464aacae91676364251530ab0b28f
 bytes: 892582

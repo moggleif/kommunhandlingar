@@ -7,7 +7,7 @@ typ: protokoll
 namn: forskola-grundskola-namnd-protokoll-29-2025-03-19
 kallnyckel: sitevision:18.101af520195b23fbe32a559d
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FG-2025-00105]
 kalla_url: https://kungsbacka.se/download/18.101af520195b23fbe32a559d/1742988258064/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20Protokoll%20%C2%A7%2029%202025-03-19%20.pdf
 sha256: 401be04d8244aca9f30bc1e555cc044044f2753e960f4d6ddcaab9df0b5463c6
 bytes: 237965

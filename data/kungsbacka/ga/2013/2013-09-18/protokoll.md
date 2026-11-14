@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Protokoll/2013/Protokoll_18%20september%202013_GV.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GV13-00012/60, GV13-00013/02, GV13-00029/03, GV13-00049/60, GV13-00052/03, GV13-00053/11, GV13-00054/66, GV13-00055/65, GV13-00056/65, GV13-00057/65]
 kalla_url: https://web.archive.org/web/20140806023345id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Protokoll/2013/Protokoll_18%20september%202013_GV.pdf
 sha256: be05601d4549657e5829fbf36bbe1d2fd780feb5306abe6adabd3fc912f492a6
 bytes: 116603

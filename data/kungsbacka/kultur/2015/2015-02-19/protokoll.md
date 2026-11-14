@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Fritid%20och%20Folkh%C3%A4lsa/Protokoll/2015/FH_protokoll_150219.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20150318092707id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Fritid%20och%20Folkh%c3%a4lsa/Protokoll/2015/FH_protokoll_150219.pdf
 sha256: a9e460602a39b8e43cc825742d7ddbfb161ee49377e17b38d76b332967ace220
 bytes: 3593851

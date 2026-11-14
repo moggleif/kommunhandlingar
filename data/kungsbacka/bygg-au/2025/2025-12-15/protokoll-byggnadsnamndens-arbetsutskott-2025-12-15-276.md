@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-2025-12-15-276
 kallnyckel: sitevision:18.14178fa219b2bfdb5494788
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2023-000333]
 kalla_url: https://kungsbacka.se/download/18.14178fa219b2bfdb5494788/1766043802034/Byggnadsn%C3%A4mndens%20arbetsutskott%202025-12-15%20%C2%A7%20276.pdf
 sha256: 131218d95009368f79b804faf0c27792e00c9c489058bc3bb51accf294d7c43b
 bytes: 134168

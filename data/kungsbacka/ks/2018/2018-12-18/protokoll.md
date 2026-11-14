@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/2018-12-18/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2014:309, KS/2017:557, KS/2017:666, KS/2018:42, KS/2018:570, KS/2018:635, KS/2018:743, KS/2018:760, KS/2018:784, KS/2018:792, KS/2018:793, KS/2018:802, KS/2018:809]
 kalla_url: [https://web.archive.org/web/20210418210856id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2018/ks-protokoll-2018-12-18--300-309-312-321.pdf, https://web.archive.org/web/20210418211234id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2018/ks-protokoll-2018-12-18--310-311.pdf]
 sha256: [1be4b91634504d254abaeb8e1e2a17297ddef46067e665fafa57e856a6d82509, ad75fb5179fc74ab79d89e4aeea331ab3a6a8eaf7f0157aa599eba70cd38b6d4]
 bytes: [884869, 816001]

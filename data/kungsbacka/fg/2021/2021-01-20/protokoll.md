@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/2021-01-20/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2020-01556, 2020-01913, 2020-01965, 2020-01983, 2021-00007, 2021-00012, 2021-00015, 2021-00016, 2021-00018, 2021-00021, 2021-00022, 2021-00031, 2021-00036, 2021-00045, 2021-00093]
 kalla_url: [https://web.archive.org/web/20220319202857id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2021/nfg-protokoll-2021-01-20--1-10-12-15.pdf, https://web.archive.org/web/20210225081021id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/2021/nfg-protokoll-2021-01-20--11.pdf]
 sha256: [bb3d6b6d81baa2df429fcdd3581de56c90584382202908db9ab4055146978e46, 5ecd95ce65ff53168eb0982d98b65633066a1d6dd79d6b166dbe429e0459a802]
 bytes: [260953, 199745]

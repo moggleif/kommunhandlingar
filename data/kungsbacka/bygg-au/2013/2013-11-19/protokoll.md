@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mndens%20arbetsutskott/Protokoll/2013/Protokoll%20AU%20131119%20webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140806085742id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mndens%20arbetsutskott/Protokoll/2013/Protokoll%20AU%20131119%20webb.pdf
 sha256: 374a6ba1882f210c04fecc6935d7fe0ea594f7b2354c0a52d8d8e660f3c50d2d
 bytes: 179608

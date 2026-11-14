@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskotts-protokoll-2021-06-24-301-310
 kallnyckel: sitevision:18.2727e29417ee2988a5013f73
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2020-002948, BN-2020-003136, BN-2020-003423, BN-2021-000375, BN-2021-000569]
 kalla_url: https://web.archive.org/web/20220404172438id_/https://kungsbacka.se/download/18.2727e29417ee2988a5013f73/1644834023715/Byggnadsn%C3%A4mndens%20arbetsutskotts%20protokoll%202021-06-24,%20%C2%A7%C2%A7%20301-310.pdf
 sha256: 6b90e287869a9bb10246a4a607d87f0ff2dbc350ffca7e3fab73f66888b52eef
 bytes: 422896

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2020/kommunrev.-2020-01-21-22--188-200.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20200923230534id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2020/kommunrev.-2020-01-21-22--188-200.pdf
 sha256: 77c516b1efd0c8380a88aedefa29defc6e4696d6ebb8edc09a032dd85bb45df2
 bytes: 198541

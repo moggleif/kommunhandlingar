@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2021/kf-protokoll-2021-11-09--134-136-138-169.signerad.pub.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2019-00779, 2020-00329, 2020-00846, 2020-01167, 2021-00005, 2021-00008, 2021-00013, 2021-00274, 2021-00322, 2021-00421, 2021-00430, 2021-00484, 2021-00540, 2021-00541, 2021-00542, 2021-00691, 2021-00824, 2021-00846, 2021-00858, 2021-00875, 2021-00881, 2021-00922, 2021-00923, 2021-00996, 2021-00997, 2021-01016, 2021-01028, 2021-01042, 2021-01083, 2021-01084, 2021-01085, 2021-01086, 2021-01098, 2021-01101, 2021-01114]
 kalla_url: https://web.archive.org/web/20220319214205id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2021/kf-protokoll-2021-11-09--134-136-138-169.signerad.pub.pdf
 sha256: 115f1410c5730edcb429ca07a9f3bd1a0d44a785ab513471440e8a5dd3195c6d
 bytes: 1213924

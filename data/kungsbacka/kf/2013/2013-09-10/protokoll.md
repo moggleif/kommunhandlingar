@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunfullm%C3%A4ktige/Protokoll/2013/KF_130910.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS11-00139/04, KS11-00172/42, KS12-00262/11, KS13-00002/13, KS13-00006/10, KS13-00021/70, KS13-00085/11, KS13-00162/03, KS13-00172/04, KS13-00213/11, KS13-00225/11, KS13-00230/11, KS13-00233/12]
 kalla_url: https://web.archive.org/web/20140805113909id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunfullm%c3%a4ktige/Protokoll/2013/KF_130910.pdf
 sha256: 87f7c99a785181efd0c542e91d94446339846a6ca0816495d43d0bd8df98b12a
 bytes: 366631

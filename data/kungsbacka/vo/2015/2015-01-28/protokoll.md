@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2015/%C3%84O%20Protokoll%202015-01-28.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20150321061646id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2015/%c3%84O%20Protokoll%202015-01-28.pdf
 sha256: 41d500b9eea80a34554b5d35b1d2bae727b968e700a9583e3d0ee1020e07757b
 bytes: 99205

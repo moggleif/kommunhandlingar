@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2021/kommunrev.-protokoll-2021-10-18--131.signerad.pub.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20220320053416id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2021/kommunrev.-protokoll-2021-10-18--131.signerad.pub.pdf
 sha256: f2cc11d0bb921f84f8b12e9662d3aa0a9b7ea8a0cf522fe34ea62f3bf4148962
 bytes: 363288

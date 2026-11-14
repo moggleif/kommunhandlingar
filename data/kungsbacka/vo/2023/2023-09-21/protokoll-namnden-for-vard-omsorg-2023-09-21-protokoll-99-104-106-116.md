@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-vard-omsorg-2023-09-21-protokoll-99-104-106-116
 kallnyckel: sitevision:18.ca3d06e18afe5e4f1c2da9
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO-2021-00337, VO-2021-00424, VO-2021-00425, VO-2022-00180, VO-2022-00245, VO-2023-00003, VO-2023-00009, VO-2023-00010, VO-2023-00014, VO-2023-00042, VO-2023-00135, VO-2023-00136, VO-2023-00148, VO-2023-00164, VO-2023-00165, VO-2023-00175, VO-2023-00211, VO-2023-00214]
 kalla_url: https://web.archive.org/web/20240416191910id_/https://kungsbacka.se/download/18.ca3d06e18afe5e4f1c2da9/1696577477342/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsorg%202023-09-21%20protokoll%20%C2%A7%C2%A7%2099-104%20106-116.pdf
 sha256: 12e9f82d034e4aba48580a926ef37b04a932358a17704558e0d280fdaf47332d
 bytes: 220145

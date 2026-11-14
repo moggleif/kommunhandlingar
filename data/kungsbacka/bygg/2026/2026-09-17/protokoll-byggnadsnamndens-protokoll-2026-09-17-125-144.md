@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-protokoll-2026-09-17-125-144
 kallnyckel: sitevision:18.6a370aed1a0ad9793db9faa4
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2022-00024, BN-2023-001559, BN-2023-001564, BN-2024-002266, BN-2024-00272, BN-2025-00046, BN-2025-00084, BN-2026-00003, BN-2026-00005, BN-2026-00006, BN-2026-00007, BN-2026-00027, BN-2026-000525, BN-2026-000626, BN-2026-00091, BN-2026-00121, BN-2026-00132, BN-2026-00158, BN-2026-00164, BN-2026-00176]
 kalla_url: https://kungsbacka.se/download/18.6a370aed1a0ad9793db9faa4/1789992956393/Byggnadsn%C3%A4mndens%20protokoll%202026-09-17%20%C2%A7%C2%A7%20125-144.pdf
 sha256: fffe964c520850d3985261b63a756415d2f28d42912403ad8cf1df11f10b7dc5
 bytes: 400731

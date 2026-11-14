@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Service/Protokoll/2016/Protokoll%2016-01-20.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE/2015:120, SE/2015:170, SE/2016:4, SE/2016:5, SE/2016:6, SE/2016:7, SE/2016:8, SE/2016:9]
 kalla_url: https://web.archive.org/web/20160612081613id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Service/Protokoll/2016/Protokoll%2016-01-20.pdf
 sha256: bf76e911430b06e1d290e25d93fe48e3555a52f0b7f45ecfedc487840e4d528e
 bytes: 61385

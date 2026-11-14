@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Fritid%20och%20Folkh%C3%A4lsa/Protokoll/2016/FH_protokoll_160218.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FH/2016:13, FH/2016:2]
 kalla_url: https://web.archive.org/web/20160612075320id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Fritid%20och%20Folkh%c3%a4lsa/Protokoll/2016/FH_protokoll_160218.pdf
 sha256: 0f9bbe66660c07fa15ed314a2d3ffd7816b85ac7c0ad40f512f41d580e341499
 bytes: 4545754

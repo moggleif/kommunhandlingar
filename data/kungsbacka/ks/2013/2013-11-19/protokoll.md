@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2013/KS_131119_protokoll.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS09-00056/20, KS09-00100/25, KS11-00076/21, KS12-00252/21, KS12-00305/11, KS12-00318/08, KS13-00006/10, KS13-00015/10, KS13-00020/70, KS13-00038/03, KS13-00117/21, KS13-00151/21, KS13-00188/21, KS13-00191/02, KS13-00205/21, KS13-00206/04, KS13-00218/84, KS13-00221/21, KS13-00224/21, KS13-00234/20, KS13-00239/20, KS13-00245/04, KS13-00249/04, KS13-00258/20, KS13-00259/87, KS13-00267/25, KS13-00268/25, KS13-00270/25, KS13-00271/02, KS13-00283/20, KS13-00288/02, KS13-00293/50]
 kalla_url: https://web.archive.org/web/20140806040549id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2013/KS_131119_protokoll.pdf
 sha256: b4f01650fd60d1ae2273546024be669614129be7184372d5a09327c62b55bfe6
 bytes: 245303

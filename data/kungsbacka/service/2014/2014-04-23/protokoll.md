@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Service/Protokoll/2014/Protokoll%20SE%2014-04-23.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE/2013:54, SE/2014:30, SE/2014:31, SE/2014:48, SE/2014:49]
 kalla_url: https://web.archive.org/web/20150512223144id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Service/Protokoll/2014/Protokoll%20SE%2014-04-23.pdf
 sha256: cf9dc0f33ccf5918247c91644e64d0a2c03975f2d49976d6f22d5feda7d53b3e
 bytes: 103288

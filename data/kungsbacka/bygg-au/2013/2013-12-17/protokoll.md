@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mndens%20arbetsutskott/Protokoll/2013/Protokoll%20BNAU%20131217.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140806092339id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mndens%20arbetsutskott/Protokoll/2013/Protokoll%20BNAU%20131217.pdf
 sha256: 2f1845ec5d777cd7f951ae87cebc8a2bdd7b093aeff973340c3733656d290272
 bytes: 198521

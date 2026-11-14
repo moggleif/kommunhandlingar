@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/2020-05-19/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-00084, 2018-00226, 2019-00225, 2019-00247, 2019-00324, 2019-00331, 2019-00332, 2019-00333, 2019-00334, 2019-00335, 2019-00336, 2019-00337, 2019-00338, 2019-00339, 2019-00340, 2019-00350, 2019-00375, 2020-00018, 2020-00019, 2020-00034, 2020-00048, 2020-00123, 2020-00124, 2020-00144, 2020-00161, 2020-00168, 2020-00169, 8716]
 kalla_url: [https://web.archive.org/web/20200923222140id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/protokoll/2020/nif-2020-05-19-protokoll.pdf, https://web.archive.org/web/20200928064616id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/protokoll/2020/nif-protokoll-2020-05-19--65.pdf]
 sha256: [b16f2485c3d47ff70d5bbc95dfd742b4702325dba1e1245a007d1d71a3269886, c67532622a1ea7f7dc368ab83c64d9fa8d3157a9524135f0fd3e75e64b9c08b3]
 bytes: [263761, 52371]

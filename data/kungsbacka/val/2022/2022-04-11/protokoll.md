@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.3b70f31c180033086eb1588c
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00012, 2022-00001, 2022-00011, 2022-00015, 2022-00019, 2022-00020, 2022-00021, 2022-00022]
 kalla_url: https://web.archive.org/web/20241204162903id_/https://kungsbacka.se/download/18.3b70f31c180033086eb1588c/1650462427679/Valn%C3%A4mnden%20Protokoll%202022-04-11.pdf
 sha256: 4dd8197c40d45d1bad48361093255e3251c7759ac9a089c143eebae2a9e1bda5
 bytes: 209475

@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-miljo-och-halsoskydd-protokoll-2023-06-08-69-71-74-81
 kallnyckel: sitevision:18.152d98188bdd3bb5e2128
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00002, 2023-00003, 2023-00014, 2023-00015, 2023-00668, 2023-03054, 2023-03060, 2023-03079, MH-2022-1871]
 kalla_url: https://web.archive.org/web/20250317150732id_/https://kungsbacka.se/download/18.152d98188bdd3bb5e2128/1686899437355/N%C3%A4mnden%20f%C3%B6r%20Milj%C3%B6%20och%20H%C3%A4lsoskydd%20protokoll%202023-06-08%20%C2%A7%C2%A7%2069-71,%2074-81.pdf
 sha256: fba4e9bfc7055afaa6932d860c5a621f83658564fb54af20e56e87abf3069d95
 bytes: 242491

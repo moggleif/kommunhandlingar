@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/2022-02-17/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [MH-2021-4146, MH-2021-4812, MH-2021-5046, MH-2021-5208, MH-2022-2, MH-2022-26, MH-2022-843, MH-2022-858, MH-2022-876]
 kalla_url: [https://web.archive.org/web/20220319210506id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2022/namnden-for-miljo--halsoskydd-protokoll-2022-02-17--15-18-20-30.pdf, https://web.archive.org/web/20220319222804id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/protokoll/2022/namnden-for-miljo--halsoskydd-protokoll-2022-02-17--19.pdf]
 sha256: [204147cb43a8db2c98794c2f0aedc40b563df61043e22c50cb824ec1afc164bb, 506256efc65b3b59c9d12f61b12e80a85910f29a846bdfd4d2211a04bdb8df69]
 bytes: [637460, 516811]

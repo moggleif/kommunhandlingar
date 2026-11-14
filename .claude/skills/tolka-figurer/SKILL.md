@@ -36,7 +36,9 @@ Formatet står i `docs/03-ARKITEKTUR.md#tolkade-figurer`. Läs det först.
    som i resten av texten ([ADR-0021](../../../docs/decisions/0021-texten-ar-riktig-markdown.md)),
    och CI kör Markdown-lint på PR:en.
 5. Lägg sidans nummer i `tolkade`, i nummerordning.
-6. Radera bilderna. Kör `python -m kommunhandlingar.datakontroll data`
+6. Radera bilderna. Har texten i ett protokoll ändrats, kör
+   `python -m kommunhandlingar.arenden data` (K48). Kör
+   `python -m kommunhandlingar.datakontroll data`
    och rätta det som faller. Faller ett tal som står i sidans text, för
    att det läses ihop med ett tal bredvid eller kan vara en del av ett
    tal som delats över en radbrytning eller ett smalt mellanslag, skriv

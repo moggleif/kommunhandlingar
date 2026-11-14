@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2021/kommunrev.-sammantradeanteckningar-2021-03-22.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20220320053348id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2021/kommunrev.-sammantradeanteckningar-2021-03-22.pdf
 sha256: cce6beb1f6a54987ae4a81d175a13df5adb7f83b3e02467f9e27e42ac6893917
 bytes: 122897

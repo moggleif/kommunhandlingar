@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d9267ce
 tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2022/220119-protokoll.signerad.pub.pdf]
-arenden: null
+arenden: [2017-00245, 2018-00602, 2021-00185, 2021-00716, 2021-00863, 2021-01061, 2021-01064, 2021-01132, 2022-00004, 2022-00005, 2022-00006, 2022-00007, 2022-00008, 2022-00009, 2022-00025]
 kalla_url: https://web.archive.org/web/20220630172845id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d9267ce/1645003975232/N%C3%A4mnden%20f%C3%B6r%20Teknik%20protokoll%202022-01-19.pdf
 sha256: 57f167c8a20b0056b93befd3dd58a957850e3045bfb25bc14d408f97ee543a81
 bytes: 661725

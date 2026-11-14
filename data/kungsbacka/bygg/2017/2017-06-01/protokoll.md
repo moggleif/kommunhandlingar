@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mnden/Protokoll/2017/BN%20protokoll%202017-06-01-web.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2016-1267, 2016-1850, 2017-0072, 2017-0146, 2017-0257, 2017-0291, 2017-0568, 2017-0575, PL/2015:29, PL/2016:90, PL/2017:14, PL/2017:9]
 kalla_url: https://web.archive.org/web/20170722075130id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mnden/Protokoll/2017/BN%20protokoll%202017-06-01-web.pdf
 sha256: 836f5b36d76d2c0bf9201d0d2d814e9b07c0b84e00d734433b1e65fedb1a37c4
 bytes: 155136

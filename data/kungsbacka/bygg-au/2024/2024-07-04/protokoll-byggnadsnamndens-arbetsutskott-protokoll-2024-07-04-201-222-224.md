@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-protokoll-2024-07-04-201-222-224
 kallnyckel: sitevision:18.38cb5fd51900fdb3cb7391b5
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2024-00001, 2024-00003, BN-2011-006116, BN-2017-000116, BN-2018-00035, BN-2019-001604, BN-2020-002301, BN-2021-000147, BN-2021-00028, BN-2021-001031, BN-2023-001391, BN-2023-001966, BN-2023-002369, BN-2024-000489, BN-2024-000541, BN-2024-000568, BN-2024-000691, BN-2024-000815, BN-2024-000848]
 kalla_url: https://kungsbacka.se/download/18.38cb5fd51900fdb3cb7391b5/1720517158956/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202024-07-04%20%C2%A7%C2%A7%20201-222,%20224.pdf
 sha256: 965f75f11b2076c976d0170baeeacfde831dfabf8bea335299ba368fedd79c19
 bytes: 542051

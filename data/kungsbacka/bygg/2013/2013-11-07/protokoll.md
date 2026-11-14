@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mnden/2013-11-07/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: [https://web.archive.org/web/20140805113351id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mnden/Protokoll/2013/Protokoll%20BN%20131107%20-%c2%ba%20300.pdf, https://web.archive.org/web/20140805105443id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mnden/Protokoll/2013/Protokoll%20BN%20131107%20webb.pdf]
 sha256: [2b417eaa425e3b1b5f001fd65923360f51fae2cadfa8b9be70cd0e8072020df5, 8c4bd11e38ea752e4da5027a80e3b063d4711ff2ea0c2215bc1c58f5b2abc1b0]
 bytes: [62658, 161476]

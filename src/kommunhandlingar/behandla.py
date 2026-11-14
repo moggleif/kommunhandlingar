@@ -1,5 +1,5 @@
-"""Krav: K4, K6, K8, K9, K16, K23, K30 och K34 i docs/02-KRAV.md, ADR-0003,
-ADR-0004, ADR-0018, ADR-0019, ADR-0039, ADR-0048 och ADR-0055. Test i tests/:
+"""Krav: K4, K6, K8, K9, K16, K23, K30, K34 och K48 i docs/02-KRAV.md, ADR-0003,
+ADR-0004, ADR-0018, ADR-0019, ADR-0039, ADR-0048, ADR-0055 och ADR-0071. Test i tests/:
 test_hamta.py, test_omkonvertering.py, test_plattformar.py och test_granskning.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
@@ -19,6 +19,7 @@ from datetime import datetime
 from pathlib import Path, PurePosixPath
 
 from kommunhandlingar import frontmatter, original, skrivning
+from kommunhandlingar.arenden import arenden
 from kommunhandlingar.arkivluckor import (
     forlorar,
     hel,
@@ -159,11 +160,9 @@ def hamtad_fil(
     falt = grundfalt(steg, dokument) | kvalitetsfalt(steg, resultat)
     falt |= {"sha256": hamtat.sha256, "bytes": hamtat.bytes}
     falt |= {"hamtad": hamtad.isoformat(), "konverterad": steg.tid().isoformat()}
-    md = steg.data / dokument.sokvag
-    text = frontmatter.skriv(falt)
-    if resultat.sidor:
-        katalog = skrivning.tabellkatalog(md).name
-        text += "\n" + skrivning.brodtext(resultat.sidor, katalog)
+    kropp = skrivning.kropp(steg.data / dokument.sokvag, resultat.sidor)
+    falt["arenden"] = arenden(falt["typ"], kropp)
+    text = frontmatter.skriv(falt) + kropp
     spara(steg, dokument.sokvag, text, skrivning.tabellfiler(resultat.sidor or []))
     return "konverterad om" if samma_fil else "konverterad"
 

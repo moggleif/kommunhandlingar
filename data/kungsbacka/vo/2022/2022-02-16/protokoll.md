@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.6ea12a3f17f1cb3569023a5
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00005, 2021-00307, 2021-00416, 2021-00435, 2021-00438, 2021-00439, 2022-00011, 2022-00012, 2022-00013, 2022-00014, 2022-00015, 2022-00017, 2022-00027, 2022-00030, 2022-00032, 2022-00034]
 kalla_url: https://web.archive.org/web/20240416204258id_/https://kungsbacka.se/download/18.6ea12a3f17f1cb3569023a5/1645536944361/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsorg%20protokoll%202022-02-16.pdf
 sha256: d30dbcd2caddbd699ba3d7ae8679c3c92796022a48633f14e603bbdf2656c6b3
 bytes: 815845

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/F%C3%B6rskola%20och%20Grundskola%20arbetsutskott/Protokoll/2014/FGAU_Protokoll_140514_webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FG/2013:305, FG/2014:104, FG/2014:127, FG/2014:140, FG/2014:142, FG/2014:143, FG/2014:20, FG/2014:44, FG/2014:6, FG/2014:63]
 kalla_url: https://web.archive.org/web/20140703195734id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/F%c3%b6rskola%20och%20Grundskola%20arbetsutskott/Protokoll/2014/FGAU_Protokoll_140514_webb.pdf
 sha256: 08f6789a10b835e433e485cc120aea05d95bcecd7b50832373e25dfe9db70407
 bytes: 135280

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2017/AU/Protokoll%20VOAU%202017-03-08.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO/2017:26, VO/2017:27]
 kalla_url: https://web.archive.org/web/20170722030920id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2017/AU/Protokoll%20VOAU%202017-03-08.pdf
 sha256: cfb72c19d0a80697c129365eb9a137c863067ed2e43d8d1a473f401052473e84
 bytes: 506892

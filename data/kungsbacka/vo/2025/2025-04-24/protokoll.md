@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.bf4d0b1965b8a126d7dac3
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO-2022-00203]
 kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d7dac3/1745906516707/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsog%20protokoll%202025-04-24,%20%C2%A7%2058.pdf
 sha256: 677b7438eeeb833df02c68d0b7b1b7259b343e9fb9efa95a03a28250e0379456
 bytes: 121354

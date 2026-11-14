@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2022/kommunfullmaktige-protokoll-2022-03-08.pdf
 tidigare_kallnycklar: [sitevision:18.2ed9706017f44c50af125bc7]
-arenden: null
+arenden: [2020-00618, 2020-00913, 2021-00842, 2021-00865, 2021-00922, 2021-00946, 2021-01029, 2021-01215, 2022-00005, 2022-00008, 2022-00012, 2022-00151, 2022-00177, 2022-00206, 2022-00208, 2022-00211, 2022-00222, 2022-00229, 2022-00247, 2022-00248]
 kalla_url: https://web.archive.org/web/20220319204619id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2022/kommunfullmaktige-protokoll-2022-03-08.pdf
 sha256: 5da7fd9931a89665593622cd928f0638b55f33156d60d86609cc761c42f6defc
 bytes: 1188567

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.1d09d024193954e4ee645f68
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://kungsbacka.se/download/18.1d09d024193954e4ee645f68/1733823396636/Kommunrevisionen%20protokoll%202024-12-03,%20%C2%A7%2014.pdf
 sha256: cd029e6842ed03dc08c038ea0324caaade9792ce63d6f43c0684914749af2c0f
 bytes: 265624

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2017/bnau-protokoll-2017-09-13-webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [PL/2013:7, PL/2017:4]
 kalla_url: https://web.archive.org/web/20200118154737id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2017/bnau-protokoll-2017-09-13-webb.pdf
 sha256: 49489cda9681fc09357d744851834a6d8252797f05747798cee27749a2c60e60
 bytes: 676467

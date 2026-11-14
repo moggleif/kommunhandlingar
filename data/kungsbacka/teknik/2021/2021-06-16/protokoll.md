@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2021/nte-protokoll-210616.pdf
 tidigare_kallnycklar: [sitevision:18.68e39ecb17ede8bc2d926693]
-arenden: null
+arenden: [2018-00895, 2019-01219, 2020-00452, 2020-01251, 2021-00003, 2021-00004, 2021-00005, 2021-00333, 2021-00373, 2021-00393, 2021-00509]
 kalla_url: https://web.archive.org/web/20220319210238id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2021/nte-protokoll-210616.pdf
 sha256: c9d15d9315ec2ba2c3cbf8f9097165b24b97d33e37b87d01bbc84b9f152dd42f
 bytes: 708075

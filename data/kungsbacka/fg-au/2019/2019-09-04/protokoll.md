@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola-arbetsutskott/protokoll/2019/fgau-protokoll-2019-09-04.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FG/2019:1061, FG/2019:1062, FG/2019:1063, FG/2019:1064, FG/2019:1067, FG/2019:1068, FG/2019:242, FG/2019:279, FG/2019:8, FG/2019:83, FG/2019:84]
 kalla_url: https://web.archive.org/web/20220319191032id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola-arbetsutskott/protokoll/2019/fgau-protokoll-2019-09-04.pdf
 sha256: 5bee6c4ee56672a1bec37e2578300a5370d5e9a99b4f4a31cea944afed9f8886
 bytes: 498447

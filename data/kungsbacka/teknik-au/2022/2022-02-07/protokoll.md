@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2022/220207-protokoll.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.2ed9706017f44c50af12b143]
-arenden: null
+arenden: [2020-00874, 2020-01268, 2021-00772, 2021-01162, 2021-01192, 2022-00006, 2022-00007, 2022-00010, 2022-00011, 2022-00023, 2022-00071]
 kalla_url: https://web.archive.org/web/20220319195851id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2022/220207-protokoll.signerad.pub.pdf
 sha256: 1447d1a02326aa1a07ec5a0594376374feea32eb34153f9c23bf89ef004f8684
 bytes: 591913

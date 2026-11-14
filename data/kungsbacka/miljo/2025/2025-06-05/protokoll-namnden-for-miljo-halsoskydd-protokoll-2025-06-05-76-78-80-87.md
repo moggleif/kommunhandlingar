@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-miljo-halsoskydd-protokoll-2025-06-05-76-78-80-87
 kallnyckel: sitevision:18.7f17e7f7197627ca5f92660c
 tidigare_kallnycklar: []
-arenden: null
+arenden: [MH-2025-00005, MH-2025-00006, MH-2025-00007, MH-2025-00008, MH-2025-00009, MH-2025-00010, MH-2025-01846, MH-2025-02469, MH-2025-02869, MH-2025-02933, MH-2025-1260]
 kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f92660c/1749795491805/N%C3%A4mnden%20f%C3%B6r%20Milj%C3%B6%20&%20H%C3%A4lsoskydd%20protokoll%202025-06-05%20%C2%A7%C2%A7%2076-78,%2080-87.pdf
 sha256: 010add42698b12c6f223fcfe464f08b9812ab65ced271eb488482713458f79c1
 bytes: 206880

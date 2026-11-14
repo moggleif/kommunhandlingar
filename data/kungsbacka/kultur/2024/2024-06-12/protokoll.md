@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.38cb5fd51900fdb3cb7383
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KFT-2024-00111, KFT-2024-00160, KFT-2024-00171, KFT-2024-00173, KFT-2024-00174, KFT-2024-00175, KFT-2024-00176, KFT-2024-00178, KFT-2024-00179, KFT-2024-00182, KFT-2024-00183, KFT-2024-00187, KFT-2024-00189]
 kalla_url: https://kungsbacka.se/download/18.38cb5fd51900fdb3cb7383/1718276382747/N%C3%A4mnden%20f%C3%B6r%20Kultur%20&%20Fritid%20protokoll%202024-06-12.pdf
 sha256: 2ec78ae88bbd2e3992f434fc882b290465df7f6c0d77808fc600e6792c2878c8
 bytes: 397510

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2016/KS_2016-02-23%20protokoll.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2002:239, KS/2010:82, KS/2013:128, KS/2014:481, KS/2015:318, KS/2015:333, KS/2015:45, KS/2015:465, KS/2015:5, KS/2016:17, KS/2016:23, KS/2016:27, KS/2016:28, KS/2016:40, KS/2016:61, KS/2016:82, KS/2016:95]
 kalla_url: https://web.archive.org/web/20160612015341id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2016/KS_2016-02-23%20protokoll.pdf
 sha256: 6205b0838dd4a178bc1e9ffc0e05ceaf36e406d696248ef7cbfac3e9814cea66
 bytes: 698639

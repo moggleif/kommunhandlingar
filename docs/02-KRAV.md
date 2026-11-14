@@ -1532,6 +1532,53 @@ och [Steg 3: indexet](03-ARKITEKTUR.md#steg-3-indexet). Issue
   för varje kommun länkar till indexet, kommunens översikt, varje organs
   sida och kommunens filer skrivna för hand som finns.
 
+## K48 — Protokollen går att läsa paragraf för paragraf
+
+Hur och varför står i
+[ADR-0071](decisions/0071-protokollen-delas-per-paragraf-vid-bygget.md)
+och [Paragraferna och ärendena](03-ARKITEKTUR.md#paragraferna-och-ärendena).
+Issue [#266](https://github.com/moggleif/kommunhandlingar/issues/266).
+
+- **Givet** ett protokoll i poolen vars paragrafer börjar på en egen rad med
+  `§` och numret
+- **När** webbplatsen byggs
+- **Så** har kommunen en fil i JSON Lines på webbplatsen med en rad per
+  paragraf, i sökvägarnas och protokollets ordning. Raden har organet,
+  datumet, sammanträdets löpnummer, paragrafens nummer, rubrik och diarienummer, beslutet, sidan
+  paragrafen börjar på, den sidans kvalitet och om dess tal är
+  obekräftade, och länkar till dokumentet i repot och till sidan på
+  webbplatsen.
+- **Givet** webbplatsen
+- **När** den byggs
+- **Så** länkar `llms.txt` till varje kommuns paragrafer och säger när
+  beslutet är `null`.
+- **Givet** ett protokoll som räknar upp paragraferna i en
+  innehållsförteckning eller i närvarolistan innan de kommer
+- **När** paragraferna läses ut
+- **Så** blir varje paragraf en rad, och uppräkningen ingen.
+- **Givet** ett protokoll som har en fortsättningssida som upprepar
+  paragrafens nummer, eller ett diarienummer från en annan myndighet i
+  paragrafens rubrik
+- **När** paragraferna läses ut
+- **Så** blir fortsättningen en del av paragrafen, och bara nämndens egna
+  diarienummer, de efter `Dnr` på rubrikraden eller på en egen rad, kommer
+  med.
+- **Givet** en paragraf som saknar rubriken Beslut på sin första sida,
+  eller vars beslut når sidans slut
+- **När** paragraferna läses ut
+- **Så** är beslutet `null`, hellre än gissat eller kapat.
+- **Givet** ett protokoll som konverteras
+- **När** det skrivs till poolen
+- **Så** är `arenden` paragrafernas diarienummer som de står i protokollet,
+  sorterade och utan dubbletter; `[]` när paragraferna saknar
+  diarienummer, och `null` när inga paragrafer hittas. Andra dokument
+  har `arenden: null`.
+- **Givet** ett dokument vars `arenden` inte stämmer med dess paragrafer,
+  till exempel konverterat av en äldre version eller granskat för hand
+- **När** datakontrollen körs
+- **Så** faller den och säger vad fältet borde vara, och ett kommando
+  skriver om bara den raden, utan att hämta PDF:en.
+
 ## K49 — Partiernas gruppmöten står i kalendern
 
 Issue: [#269](https://github.com/moggleif/kommunhandlingar/issues/269).
