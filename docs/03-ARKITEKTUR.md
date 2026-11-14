@@ -1587,6 +1587,16 @@ varje push till `main`, för hand och när ett issue med etiketten
   (K39) – startsidan, för varje kommun i bokstavsordning efter id dess
   översikt, kalender när den finns och statussida, och sist avvikelserna –
   och en sidfot som länkar till repot och säger när sidan byggdes.
+- **Temat** (K51,
+  [ADR-0074](decisions/0074-webbplatsen-har-ljust-och-morkt-tema.md)):
+  färgerna står som CSS-variabler i sidmallens stil, var och en med ett
+  ljust och ett mörkt värde i `light-dark()`, och övriga stilar och
+  SVG-figurerna använder variablerna. Sidan följer läsarens inställning
+  (`color-scheme: light dark`). Skriptet `webbplats/tema.js` står i varje
+  sidas `<head>`: det sätter temat som sparats i `localStorage` innan
+  sidan ritas, och visar knappen "Mörkt tema" fast i övre högra hörnet,
+  som byter och sparar temat. Kalenderns organrutor har mörk text på sina
+  ljusa toner i båda temana.
 - **Kommunens översikt** (K39, `webbplats/oversikt.py`) börjar med
   antalet dokument och det äldsta och senaste datumet. Tabellen har en
   rad per organ i kommunfilens ordning, med varje utskott direkt under
@@ -1825,7 +1835,9 @@ filen (K26), länkad från organets sida.
   år med mål ur ett senare dokument, som en årsredovisning, är ingen
   lucka, och ett år med dokument men utan mål står som "inga mål". Har
   poolen dokument från organet före det första året med mål säger sidan
-  det. Sidan har fyra delar:
+  det. Sidan har sammandraget och urvalet överst och sedan tre
+  perspektiv (K50,
+  [ADR-0073](decisions/0073-malsidan-far-tre-perspektiv-att-valja-mellan.md)):
   - **Antalet per år** (`webbplats/malstatistik.py`): det senaste årets
     antal per slag som finns för organet, och uppföljningar och
     dragningar i nämnden, bredvid en linjegraf i SVG
@@ -1837,7 +1849,9 @@ filen (K26), länkad från organets sida.
     räknas en gång per år. Ett år utan rader står som – och bryter
     linjen.
   - **Urvalet**: knappar för alla, de som gäller det senaste året,
-    varje slag som finns och de som bytt rubrik.
+    varje slag som finns och de som bytt rubrik. Det gäller i alla tre
+    perspektiven.
+  - **Väljaren**: knappar för Tidslinje, Ett år i taget och Målkort.
   - **Tidslinjen** (`webbplats/maltidslinje.py`): en teckenförklaring och
     en tabell med en rad per rubrik i varje spår, varje slag i sin
     grupp, spåren ordnade efter första år, slag och
@@ -1873,10 +1887,23 @@ filen (K26), länkad från organets sida.
     En bedömning utan status står som "enligt färgen i källan".
     Fokusområdenas kort står inuti sitt kommunmåls kort, som då tar hela
     bredden.
+  - **Ett år i taget** (`webbplats/malar.py`): en knapp per år och ett
+    avsnitt per år, nyast först. Avsnittet har årets antal (samma ruta som
+    sammandragets), ett kort per spår med årets rubrik, formulering,
+    status och källa, märkt "nytt" när spåret inte står året innan, en
+    lista med spåren som stod året innan men inte i år, och protokollens
+    uppföljningar och dragningar det året med länk till paragrafens sida.
+    Fokusområdena står i sitt kommunmåls kort. En lucka och ett år utan mål
+    sägs med ord, efter en lucka jämförs inte med året innan, och ett år
+    utan protokoll med text säger det.
   Det tidslinjen och korten delar, som årets status, spårets rubrik och
   slag och radens data-attribut för urvalet, står i
   `webbplats/malspar.py`. Stilen står i `webbplats/mal.css`.
-- **Skriptet** (`webbplats/mal.js`) står i sidan. Det visar urvalet och
+- **Skriptet** (`webbplats/mal.js`) står i sidan. Det visar ett perspektiv
+  i taget, tidslinjen när adressen inte säger något, och i Ett år i taget
+  ett år, det senaste när adressen inte säger något. Valet står i
+  frågesträngen (`?vy=tidslinje`, `?vy=ar&ar=2025`, `?vy=kort`) och läggs i
+  webbläsarens historik, och en adress med `#mal-N` visar målkorten. Det visar urvalet och
   döljer det som inte valts, i tidslinjen och bland korten, och öppnar
   historiken på kortet när ett mål väljs i tidslinjen. Ett kommunmåls kort
   visas när ett av dess fokusområden visas. Utan skriptet

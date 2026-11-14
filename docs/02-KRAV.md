@@ -1562,3 +1562,75 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
   eller en veckodag som inte är en av måndag till söndag
 - **När** kommunfilen läses
 - **Så** stoppas läsningen med felet.
+
+## K50 — Målsidan i tre perspektiv
+
+Issue: [#271](https://github.com/moggleif/kommunhandlingar/issues/271).
+Bygger på K29 och K35. Hur och varför står i
+[ADR-0073](decisions/0073-malsidan-far-tre-perspektiv-att-valja-mellan.md)
+och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
+
+- **Givet** sidan om ett organs mål och direktiv med JavaScript
+- **När** den visas
+- **Så** står under sammandraget och urvalet en väljare med tre
+  perspektiv: Tidslinje, Ett år i taget och Målkort. Ett perspektiv visas
+  åt gången, och utan val är det tidslinjen.
+- **Givet** ett valt perspektiv, och i Ett år i taget ett valt år
+- **När** besökaren kopierar adressen eller går bakåt och framåt i
+  webbläsaren
+- **Så** står valet i adressen (`?vy=tidslinje`, `?vy=ar&ar=2025`,
+  `?vy=kort`), samma adress visar samma perspektiv och år, och bakåt och
+  framåt går mellan valen.
+- **Givet** ett mål som väljs i tidslinjen
+- **När** besökaren klickar på det
+- **Så** byter sidan till målkorten och visar målets kort med historiken
+  öppen.
+- **Givet** urvalet (alla, de som gäller det senaste året, ett slag, de som
+  bytt rubrik)
+- **När** besökaren väljer
+- **Så** gäller valet i alla tre perspektiven.
+- **Givet** Ett år i taget
+- **När** perspektivet visas
+- **Så** finns en knapp per år från målens första till sista år, och utan
+  val är det senaste året valt. För året står årets antal, ett kort per mål
+  med årets rubrik, formulering, status och källa, märkt när målet är nytt
+  för året, vilka mål som fanns året innan men inte i år, och protokollens
+  uppföljningar och dragningar om målen det året med paragraf och länk.
+  Ett kommunmåls fokusområden står i dess kort.
+- **Givet** ett år i Ett år i taget som är en lucka i poolen, ett år med
+  dokument men utan mål, eller ett år vars föregående år är en lucka
+- **När** året visas
+- **Så** säger sidan att året är en lucka eller att poolens dokument inte
+  har några mål det året, och efter en lucka säger den inte vad som är nytt
+  eller försvann, eftersom det inte går att veta. Ett år utan protokoll med
+  text säger det i stället för att visa noll uppföljningar.
+- **Givet** sidan utan JavaScript
+- **När** den visas
+- **Så** står alla tre perspektiven efter varandra och Ett år i taget som
+  ett avsnitt per år, nyast först. Väljarna visas inte.
+
+## K51 — Ljust och mörkt tema
+
+Issue: [#271](https://github.com/moggleif/kommunhandlingar/issues/271).
+Hur och varför står i
+[ADR-0074](decisions/0074-webbplatsen-har-ljust-och-morkt-tema.md)
+och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
+
+- **Givet** en sida på webbplatsen
+- **När** den visas för en besökare vars webbläsare eller system är inställt
+  på mörkt
+- **Så** är sidan mörk, och för en besökare med ljust eller ingen
+  inställning ljus.
+- **Givet** en sida med JavaScript
+- **När** den visas
+- **Så** står en knapp för mörkt tema i övre högra hörnet och syns också när
+  sidan rullas. Ett klick byter tema, och valet gäller på alla sidor och vid
+  nästa besök tills besökaren byter igen.
+- **Givet** mörkt tema
+- **När** sidan visas
+- **Så** går text, länkar, statusikoner, faser, grafer, tidslinjen,
+  korten och kalendern att läsa, och statusfärgerna skiljs åt som i ljust
+  tema. Färgen bär aldrig informationen ensam.
+- **Givet** en sida utan JavaScript
+- **När** den visas
+- **Så** följer den läsarens inställning, och knappen visas inte.

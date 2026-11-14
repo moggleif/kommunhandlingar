@@ -73,7 +73,7 @@ Regler för det här repot, utöver MADR:
 | 0047 | [Alla organ läses ur arkivets Sitevision-kopior, utan att vänta på att konverteringen blir färdig](0047-alla-organ-lases-ur-arkivet.md) | accepted |
 | 0048 | [När samma möte finns ur arkivet från två plattformar vinner dokumentet med högst kvalitet](0048-hogst-kvalitet-vinner-mellan-plattformarna.md) | accepted |
 | 0049 | [Ett mötes filer av samma typ hos Episerver slås ihop till ett dokument, med delarnas adresser och sha256 i front matter](0049-ett-motes-filer-slas-ihop-till-ett-dokument.md) | accepted |
-| 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik) |
+| 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik, 0073 lägger till ett år i taget och en väljare mellan perspektiven) |
 | 0051 | [Tidslinjen visar varje rubrik på en egen rad och markerar nya formuleringar](0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md) | accepted |
 | 0052 | [Nattkörningen öppnar sin PR med en egen token och mergas automatiskt när kontrollerna gått igenom](0052-nattkorningen-mergar-sin-pr-sjalv.md) | accepted |
 | 0053 | [Tidigare sammanträden läses ur poolens mappar och skrivs i kalenderfilen, och listan döljer dem bakom en knapp](0053-tidigare-sammantraden-las-ur-poolens-mappar.md) | accepted |
@@ -95,3 +95,5 @@ Regler för det här repot, utöver MADR:
 | 0069 | [Projekten kopplas till detaljplanerna i en fil skriven för hand, och planens kort visar projektsidan och dokumenten](0069-projekten-kopplas-till-detaljplanerna-i-en-fil-skriven-for-hand.md) | proposed |
 | 0070 | [Indexet byggs med webbplatsen som JSON Lines per kommun, med en `llms.txt` som ingång, och checkas inte in](0070-indexet-och-ingangen-byggs-med-webbplatsen.md) | proposed |
 | 0072 | [Partiernas gruppmöten räknas fram ur kommunstyrelsens datum när kalendern byggs, och visas diskret som en vana](0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md) | proposed |
+| 0073 | [Målsidan får tre perspektiv att välja mellan – tidslinje, ett år i taget och målkort – och valet står i adressen](0073-malsidan-far-tre-perspektiv-att-valja-mellan.md) | proposed |
+| 0074 | [Webbplatsen följer läsarens ljusa eller mörka inställning, med en knapp i övre högra hörnet som minns valet](0074-webbplatsen-har-ljust-och-morkt-tema.md) | proposed |
