@@ -47,22 +47,22 @@ Valt alternativ: "A", eftersom nattkörningen redan kollar allt och det
 enda som saknades var att mötessidorna inte väntar på arkivet och att
 versionerna lagras.
 
-- **Jobbet `moten`** kör upptäckt och steg 2 för de levande källorna i
+* **Jobbet `moten`** kör upptäckt och steg 2 för de levande källorna i
   varje kommun, utan omkonvertering (`hamta --utan-omkonvertering`), så
   att bara det nya och ändrade tas, och sedan datakontrollerna och
   incheckningen på grenen
   `nattkorning/<datum>-<id>-moten`, och dess PR öppnas och mergas som
   i [ADR-0052](0052-nattkorningen-mergar-sin-pr-sjalv.md).
-- **Jobbet `arkiv`** startar när `moten` är klart, från dess gren eller,
+* **Jobbet `arkiv`** startar när `moten` är klart, från dess gren eller,
   utan gren eller om `moten` föll, från `main`. Det gör upptäckten om och
   kör steg 2 för de levande källorna, som då bara har omkonverteringen
   kvar (ADR-0019), sedan arkivet, och checkar in på
   `nattkorning/<datum>-<id>-arkiv`. Grenen bygger på mötenas, så att de två
   PR:erna aldrig krockar: mergas arkivets först följer mötenas commit med.
   Varje jobb har sin egen tidsbudget.
-- **PR-jobbet** är ett återanvänt workflow som båda anropar, så att token
+* **PR-jobbet** är ett återanvänt workflow som båda anropar, så att token
   fortfarande bara når ett jobb utan utcheckning.
-- **`versioner/<kommun>.csv`** får en rad för varje källnyckel som efter
+* **`versioner/<kommun>.csv`** får en rad för varje källnyckel som efter
   ett levande steg 2 är ny i poolen eller har en annan `kalla_url` än före:
   `sedd` (körningens tid), `organ`, `datum`, `typ`, `kallnyckel`,
   `kalla_url`, `sha256` och `dokument`. Raden räknas fram ur poolens front
