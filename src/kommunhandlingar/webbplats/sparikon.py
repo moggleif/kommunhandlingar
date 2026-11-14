@@ -31,7 +31,7 @@ def siffra(slag: Slag, steg: Steg) -> str:
     tecken = steg.varde if steg.varde.isdigit() else steg.varde[:1].upper()
     return (
         f'<text x="8" y="11.5" text-anchor="middle" font-size="10" '
-        f'font-weight="bold" fill="#fff">{escape(tecken)}</text>'
+        f'font-weight="bold" style="fill: var(--bakgrund)">{escape(tecken)}</text>'
     )
 
 

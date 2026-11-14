@@ -6,9 +6,9 @@
        position: relative; }
 a.fas:hover, a.fas:focus { border-color: currentColor; }
 .fas.tolkad { border: 1px dashed currentColor; }
-.fas.startbeslut, .fas.pagar, .fas.beredning, .fas.revidering { color: #8a5a00; }
-.fas.utfort, .fas.bifall, .fas.genomfort, .fas.antagen, .fas.avslutad { color: #1a6b2a; }
-.fas.avslag { color: #b00020; }
-.fas.besvarat, .fas.yttrande { color: #555; }
+.fas.startbeslut, .fas.pagar, .fas.beredning, .fas.revidering { color: var(--delvis); }
+.fas.utfort, .fas.bifall, .fas.genomfort, .fas.antagen, .fas.avslutad { color: var(--uppnatt); }
+.fas.avslag { color: var(--ej); }
+.fas.besvarat, .fas.yttrande { color: var(--dampad); }
 .malkort .remsa li { min-height: 2.9rem; }
 table.tidslinje col.rubrik { width: 18rem; }

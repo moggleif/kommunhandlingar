@@ -14,9 +14,9 @@ VANSTER, HOGER, TOPP, BOTTEN = 40, 16, 36, 30
 # Linjens streckning och punktens fyllning per serie, i seriernas ordning.
 STILAR = [
     ("", "currentColor"),
-    ('stroke-dasharray="6 4"', "#fff"),
+    ('stroke-dasharray="6 4"', "var(--bakgrund)"),
     ('stroke-dasharray="1 3"', "currentColor"),
-    ('stroke-dasharray="8 3 2 3"', "#fff"),
+    ('stroke-dasharray="8 3 2 3"', "var(--bakgrund)"),
 ]
 
 Serie = tuple[str, list[int | None]]
@@ -54,7 +54,7 @@ def axlar(ar: list[int], topp: int, steg: int, punkt) -> str:
         x, y = punkt(0, v)
         delar.append(
             f'<line x1="{x}" x2="{BREDD - HOGER}" y1="{y}" y2="{y}" '
-            f'stroke="#ccc"/><text x="{x - 6}" y="{y + 4}" '
+            f'style="stroke: var(--linje)"/><text x="{x - 6}" y="{y + 4}" '
             f'text-anchor="end">{v}</text>'
         )
     for i, a in enumerate(ar):
@@ -75,7 +75,8 @@ def linje(varden: list[int | None], stil: tuple[str, str], punkt) -> str:
             f'stroke-width="2" {streck}/>'
         )
     delar += [
-        f'<circle cx="{x}" cy="{y}" r="4" fill="{fyllning}" stroke="currentColor"/>'
+        f'<circle cx="{x}" cy="{y}" r="4" style="fill: {fyllning}" '
+        'stroke="currentColor"/>'
         for x, y in (punkt(i, v) for i, v in med)
     ]
     return "".join(delar)
@@ -87,6 +88,6 @@ def forklaring(nr: int, namn: str, stil: tuple[str, str]) -> str:
     return (
         f'<line x1="{x}" x2="{x + 30}" y1="14" y2="14" stroke="currentColor" '
         f'stroke-width="2" {streck}/><circle cx="{x + 15}" cy="14" r="4" '
-        f'fill="{fyllning}" stroke="currentColor"/>'
+        f'style="fill: {fyllning}" stroke="currentColor"/>'
         f'<text x="{x + 38}" y="18">{escape(namn)}</text>'
     )

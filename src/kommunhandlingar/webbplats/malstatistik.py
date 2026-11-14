@@ -85,6 +85,16 @@ def senaste(ar: int, slagen: list[str], antal: Antal, namnden: tuple | None) -> 
     return f'<div class="ruta"><h3>{ar}</h3><dl class="siffror">{siffror}</dl></div>'
 
 
+# Ett år med mål, som det står i Ett år i taget (K50).
+def arets_ruta(
+    malen: list[Mal], uppfoljningar: list[Uppfoljning], protokollar: set[int], ar: int
+) -> str:
+    slagen = [s for s in SLAG if any(m.slag == s for m in malen)]
+    arets = [u for u in uppfoljningar if u.ar == ar]
+    namnden = i_namnden(arets) if ar in protokollar else None
+    return senaste(ar, slagen, rakna([m for m in malen if m.ar == ar], slagen), namnden)
+
+
 # Uppföljningarna i protokollen räknas bara år med ett protokoll med text.
 def protokollar(organets: list[dict]) -> set[int]:
     return {

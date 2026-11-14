@@ -26,6 +26,6 @@ def farger(kommun: Kommun, organ: set[str]) -> dict[str, tuple[str, str]]:
 
 def stil(farg: dict[str, tuple[str, str]]) -> str:
     return "".join(
-        f".o-{organ} {{ background: {bakgrund}; border-color: {kant}; }}"
+        f".o-{organ} {{ background: {bakgrund}; border-color: {kant}; color: {kant}; }}"
         for organ, (bakgrund, kant) in farg.items()
     )

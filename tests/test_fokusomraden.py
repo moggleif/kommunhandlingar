@@ -155,7 +155,8 @@ class TestSidan(unittest.TestCase):
             '<article id="mal-3"'
         )[0]
         self.assertEqual(fokus.count("<article"), 2)
-        self.assertEqual(html.count('<div class="fokusomraden">'), 1)
+        korten = html.split('<section data-vy="kort">')[1]
+        self.assertEqual(korten.count('<div class="fokusomraden">'), 1)
 
     def test_farg_utan_status(self):
         html = sida()

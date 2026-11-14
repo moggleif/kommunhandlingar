@@ -9,8 +9,10 @@ DRAG = 'fill="none" stroke="currentColor" stroke-width="1.5"'
 CIRKEL = f'<circle cx="8" cy="8" r="6" {DRAG}/>'
 FYLLD = '<circle cx="8" cy="8" r="7" fill="currentColor"/>'
 RUTER = f'<path d="M8 1.5l6.5 6.5-6.5 6.5-6.5-6.5z" {DRAG}/>'
-BOCK = '<path d="M4.5 8.5l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2"/>'
-KRYSS = '<path d="M5 5l6 6M11 5l-6 6" fill="none" stroke="#fff" stroke-width="2"/>'
+# Bocken och krysset står på en fylld figur, i sidans bakgrundsfärg.
+MOT = 'fill="none" style="stroke: var(--bakgrund)" stroke-width="2"'
+BOCK = f'<path d="M4.5 8.5l2.5 2.5 4.5-5" {MOT}/>'
+KRYSS = f'<path d="M5 5l6 6M11 5l-6 6" {MOT}/>'
 RUTA = '<rect x="1.5" y="1.5" width="13" height="13" rx="3" fill="currentColor"/>'
 KLART = RUTA + BOCK
 BUBBLA = f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>'

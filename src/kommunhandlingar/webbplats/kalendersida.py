@@ -48,10 +48,10 @@ STIL = """
 .osakert { border-style: dashed; }
 table.kalender { table-layout: fixed; width: 100%; min-width: 44rem; }
 table.kalender td { height: 5rem; }
-.dag { display: block; font-size: 0.8rem; color: #555; }
+.dag { display: block; font-size: 0.8rem; color: var(--dampad); }
 details { margin-bottom: 1rem; }
 .urval label { display: inline-block; margin: 0 1rem 0.25rem 0; }
-.o-gruppmöte { border: 2px dotted #888; color: #555; background: none; }
+.o-gruppmöte { border: 2px dotted var(--kant); color: var(--dampad); background: none; }
 """
 
 

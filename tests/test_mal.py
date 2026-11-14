@@ -162,7 +162,8 @@ class TestSidan(unittest.TestCase):
     def test_ett_spar_per_rad_och_ett_ar_per_kolumn_med_mal(self):
         html = self.sida()
         self.assertEqual(html.count("<tr data-mal"), 2)
-        self.assertEqual(html.count("<article"), 2)
+        korten = html.split('<section data-vy="kort">')[1]
+        self.assertEqual(korten.count("<article"), 2)
         for ar in ("2024", "2025"):
             self.assertIn(f'<th scope="col">{ar}</th>', html)
         self.assertNotIn('<th scope="col">2023', html)

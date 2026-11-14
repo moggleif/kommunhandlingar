@@ -110,12 +110,14 @@ def post(mal: Mal) -> str:
     if mal.formulering:
         delar.append(f"<q>{escape(mal.formulering)}</q>")
     if mal.uppfoljning:
-        text = escape(mal.status) or utan_status(mal.bedomning)
-        prognos = " (prognos)" if mal.prognos else ""
-        delar.append(
-            f"Status: {ikon(mal.bedomning, mal.status, mal.prognos)} {text}{prognos}"
-        )
+        delar.append(status(mal))
     return "<br>".join([*delar, f"Källa: {kallank(mal.kalla)}"])
+
+
+def status(mal: Mal) -> str:
+    text = escape(mal.status) or utan_status(mal.bedomning)
+    prognos = " (prognos)" if mal.prognos else ""
+    return f"Status: {ikon(mal.bedomning, mal.status, mal.prognos)} {text}{prognos}"
 
 
 # En bedömning utan status är läst ur färgen på källans sida (ADR-0056).

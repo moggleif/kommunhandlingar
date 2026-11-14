@@ -108,7 +108,8 @@ class TestSidan(unittest.TestCase):
                 "![bild](https://example.com/p.png)\n",
             )
         )
-        self.assertNotIn("<script>", html)
+        # Sidans eget skript är temats (K51); inget annat får bli ett.
+        self.assertEqual(html.count("<script>"), 1)
         self.assertNotIn("<b>A", html)
         self.assertNotIn("<img", html)
         self.assertNotIn('href="javascript', html)

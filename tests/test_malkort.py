@@ -21,8 +21,12 @@ GRUPPER = RADER + (
     f"fsn,2022,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1-2,,,\n"
 )
 UPPFOLJDA = [
-    Uppfoljning("fsn", "2024-05-02", "5", "uppföljning", "Trygga miljöer", BUDGET),
-    Uppfoljning("fsn", "2024-05-02", "6", "dragning", "Läsfrämjande", BUDGET),
+    Uppfoljning(
+        "fsn", "2024-05-02", "5", "uppföljning", "Trygga miljöer", f"{BUDGET}#sida-1"
+    ),
+    Uppfoljning(
+        "fsn", "2024-05-02", "6", "dragning", "Läsfrämjande", f"{BUDGET}#sida-2"
+    ),
 ]
 
 

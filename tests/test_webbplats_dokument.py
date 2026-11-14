@@ -125,7 +125,8 @@ class TestDokumentsida(unittest.TestCase):
     def test_html_i_texten_blir_text(self):
         text = "<!-- sida 1 -->\n\n<script>alert(1)</script>\n\n<!-- sida 2 -->\n"
         html = self.dokumentsida(dokument(text=text))
-        self.assertNotIn("<script>", html)
+        # Sidans eget skript är temats (K51); inget annat får bli ett.
+        self.assertEqual(html.count("<script>"), 1)
         self.assertIn("&lt;script&gt;", html)
 
     def test_kalla_som_inte_ar_webbadress_lankas_inte(self):

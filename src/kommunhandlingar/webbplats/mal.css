@@ -1,7 +1,6 @@
-/* Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050, ADR-0051 och ADR-0056. Stilen för
-   sidan om ett organs mål och direktiv: sammandraget, tidslinjen och korten. */
-:root { --accent: #1d5d73; --band: #e3eef2; --yta: #f5f6f8;
-            --linje: #d9dde5; --dampad: #5b6475; }
+/* Krav: K29, K35 och K50 i docs/02-KRAV.md, ADR-0050, ADR-0051, ADR-0056 och
+   ADR-0073. Stilen för sidan om ett organs mål och direktiv: sammandraget,
+   väljarna, tidslinjen, ett år i taget och korten. Färgerna står i sidmallen. */
 [hidden] { display: none !important; }
 details { margin-bottom: 1rem; }
 summary { cursor: pointer; }
@@ -18,11 +17,18 @@ summary { cursor: pointer; }
               font-variant-numeric: tabular-nums; }
 .siffror dt { color: var(--dampad); font-size: 0.85rem; }
 svg.graf { width: 100%; height: auto; }
-.urval { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1.5rem 0 0.5rem; }
-.urval button { font: inherit; border: 1px solid var(--linje); background: #fff;
-                border-radius: 999px; padding: 0.2rem 0.9rem; cursor: pointer; }
-.urval button[aria-pressed="true"] { border-color: var(--accent);
+.urval, .perspektiv, .arval { display: flex; flex-wrap: wrap; gap: 0.4rem;
+                             margin: 1.5rem 0 0.5rem; }
+.urval button, .perspektiv button, .arval button {
+  font: inherit; border: 1px solid var(--linje); background: var(--bakgrund);
+  color: inherit; border-radius: 999px; padding: 0.2rem 0.9rem; cursor: pointer; }
+.urval button[aria-pressed="true"], .perspektiv button[aria-pressed="true"],
+.arval button[aria-pressed="true"] { border-color: var(--accent);
                                      background: var(--band); color: var(--accent); }
+.perspektiv button { font-weight: 600; }
+.arval button { font-variant-numeric: tabular-nums; padding: 0.1rem 0.6rem; }
+.aret { margin-bottom: 2rem; }
+.aret > .ruta { margin-bottom: 1rem; }
 table.tidslinje { border-collapse: separate; border-spacing: 0; table-layout: fixed;
                   width: 100%; min-width: 46rem; }
 table.tidslinje th, table.tidslinje td { border: none; padding: 0.15rem 0; }
@@ -96,8 +102,8 @@ td .ny-formulering { position: absolute; top: 50%; left: 14%; margin-top: -0.25r
 .dold { position: absolute; width: 1px; height: 1px; overflow: hidden;
         clip-path: inset(50%); white-space: nowrap; }
 .malkort details { margin: 0; }
-.malkort details ol { list-style: none; padding: 0; display: grid; gap: 0.6rem;
-                      font-size: 0.9rem; }
+.malkort details ol, .malkort ol.rader { list-style: none; padding: 0; display: grid; gap: 0.6rem;
+                                         font-size: 0.9rem; }
 @media (max-width: 40rem) {
   table.tidslinje col.rubrik { width: 9rem; }
 }
