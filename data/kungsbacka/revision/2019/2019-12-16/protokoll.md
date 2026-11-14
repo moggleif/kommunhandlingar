@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2019/kommunrev.-2019-12-16-171-187.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20220319194139id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2019/kommunrev.-2019-12-16-171-187.pdf
 sha256: 39f35856e44f28ca03c621f5ae33d6c2ca9a53be88275b3c667df4b1262bf558
 bytes: 2895908

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2020/nte-protokoll-200219.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2017-00060, 2019-00297, 2019-01142, 2019-01218, 2019-01273, 2020-00010, 2020-00011, 2020-00040, 2020-00056, 2020-00077, 2020-00088]
 kalla_url: https://web.archive.org/web/20210506041254id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2020/nte-protokoll-200219.pdf
 sha256: 5fbd49b159eea92d9825afbd4edecda713d0512bf2eea25badab1acd3bebecd4
 bytes: 623520

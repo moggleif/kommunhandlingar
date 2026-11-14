@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2017/KSAU%20protokoll%202017-02-28.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2014:351, KS/2014:386, KS/2016:192, KS/2016:197, KS/2016:295, KS/2016:296, KS/2016:316, KS/2016:334, KS/2016:569, KS/2016:627, KS/2016:681, KS/2017:34, KS/2017:71, KS/2017:81, KS/2017:83, KS/2017:9]
 kalla_url: https://web.archive.org/web/20170722032553id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2017/KSAU%20protokoll%202017-02-28.pdf
 sha256: ba3f4a4175725633e7ec12f51f4ec92ca6b2a0c257bc60290a0f23ebe4bfa4a4
 bytes: 570185

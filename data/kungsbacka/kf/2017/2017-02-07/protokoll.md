@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunfullm%C3%A4ktige/Protokoll/2017/KF%20protokoll%202017-02-07.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2014:295, KS/2015:246, KS/2015:467, KS/2016:167, KS/2016:252, KS/2016:343, KS/2016:576, KS/2016:578, KS/2016:598, KS/2016:605, KS/2016:608, KS/2016:638, KS/2016:646, KS/2016:647, KS/2016:676, KS/2016:677, KS/2016:84, KS/2017:50, KS/2017:61, KS/2017:69, KS/2017:71, KS/2017:73, KS/2017:77, KS/2017:81]
 kalla_url: https://web.archive.org/web/20170808050154id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunfullm%c3%a4ktige/Protokoll/2017/KF%20protokoll%202017-02-07.pdf
 sha256: 5372965156ebf93fd3c49b8d3db2051c87fcd528653d5b51c70d35604489becf
 bytes: 620603

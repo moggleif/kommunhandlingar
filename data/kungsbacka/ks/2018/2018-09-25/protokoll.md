@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2018/ks-protokoll-2018-09-25.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2013:135, KS/2016:552, KS/2016:662, KS/2018:17, KS/2018:200, KS/2018:318, KS/2018:330, KS/2018:385, KS/2018:388, KS/2018:392, KS/2018:419, KS/2018:42, KS/2018:504, KS/2018:515, KS/2018:546, KS/2018:549, KS/2018:550, KS/2018:559]
 kalla_url: https://web.archive.org/web/20210421112817id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2018/ks-protokoll-2018-09-25.pdf
 sha256: 30da26e9b0dfdfe56bf4b4fce00d9b06c6f2784a0213f0488a8f5c102f9aba50
 bytes: 707882

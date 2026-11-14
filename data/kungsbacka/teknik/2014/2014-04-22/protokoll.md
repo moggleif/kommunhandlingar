@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2014/TE20140422_%C2%A73%C2%A738-47.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE/2014:100, TE/2014:165]
 kalla_url: https://web.archive.org/web/20140703164129id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2014/TE20140422_%c2%a73%c2%a738-47.pdf
 sha256: d5da7fb1ec4e0c3896dddc26f5010e2fe4cb22916d22826ade3438cfe904109e
 bytes: 546828

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.32a80ba01a1ce4fb98216bd6
 tidigare_kallnycklar: []
-arenden: null
+arenden: [MH-2026-3732]
 kalla_url: https://kungsbacka.se/download/18.32a80ba01a1ce4fb98216bd6/1794564830202/N%C3%A4mnden%20f%C3%B6r%20Milj%C3%B6%20&%20H%C3%A4lsoskydd%20protokoll%202026-11-12%20%C2%A7%20151.pdf
 sha256: f7ab485decba7c686b8bc9231762025a5177849f405b0d37f2dbc9dd68028ac6
 bytes: 173126

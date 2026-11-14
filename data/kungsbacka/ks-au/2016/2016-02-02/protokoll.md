@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2016/KSAU%20protokoll%202016-02-02.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2013:128, KS/2016:23, KS/2016:27, KS/2016:28]
 kalla_url: https://web.archive.org/web/20160611193552id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2016/KSAU%20protokoll%202016-02-02.pdf
 sha256: 065f069742f5353756a55b81d4aa73e0c3b94ffe2a1c89b66204e4d12d8aa31e
 bytes: 556027

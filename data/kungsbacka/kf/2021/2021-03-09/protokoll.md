@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2021/kf-protokoll-2021-03-09.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2019-00032, 2019-00214, 2020-00379, 2020-00508, 2020-00695, 2020-00699, 2020-00840, 2020-00973, 2020-01174, 2020-01176, 2021-00005, 2021-00100, 2021-00117, 2021-00143, 2021-00229, 2021-00267, 2021-00281, 2021-00296, 2021-00312, 2021-00322]
 kalla_url: https://web.archive.org/web/20210517192117id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/protokoll/2021/kf-protokoll-2021-03-09.pdf
 sha256: 23ce9adda9a316de5927b01f900f4f85618d074154135ca929786dadc97c686a
 bytes: 318967

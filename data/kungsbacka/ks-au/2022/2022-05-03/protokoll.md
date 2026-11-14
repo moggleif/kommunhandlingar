@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.3023420180029b28a93258b
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-00365, 2019-00837, 2020-00906, 2022-00014, 2022-00036, 2022-00145, 2022-00149, 2022-00190, 2022-00191, 2022-00228, 2022-00331]
 kalla_url: https://web.archive.org/web/20241202222603id_/https://kungsbacka.se/download/18.3023420180029b28a93258b/1651665540581/Kommunstyrelsens%20arbetsutskott%20protokoll%202022-05-03.pdf
 sha256: 87fb06ba8096d032b46c8f280e9a30a41b4fb2c396f92953d7a699684ba7449e
 bytes: 455273

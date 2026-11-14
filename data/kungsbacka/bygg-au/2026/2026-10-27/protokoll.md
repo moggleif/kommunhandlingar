@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.4ed046511a18c407b744294c
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2024-00426, BN-2026-00001, BN-2026-000029, BN-2026-00003, BN-2026-000156, BN-2026-000829, BN-2026-000970, BN-2026-000996, BN-2026-001280, BN-2026-001347, BN-2026-001585, BN-2026-00160, BN-2026-00161, BN-2026-00162, BN-2026-00183, BN-2026-00198]
 kalla_url: https://kungsbacka.se/download/18.4ed046511a18c407b744294c/1793628160315/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202026-10-27.pdf
 sha256: 1b39440d43673f49dec0f88b152852d2f91197ab17f2ba37ab38478ccab2e7a8
 bytes: 301123

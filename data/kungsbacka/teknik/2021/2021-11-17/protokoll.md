@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2021/protokoll-211117.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.68e39ecb17ede8bc2d9267a2]
-arenden: null
+arenden: [2021-00003, 2021-00004, 2021-00005, 2021-00217, 2021-00376, 2021-00533, 2021-00619, 2021-00923, 2021-00945, 2021-00966, 2021-00979, 2021-00996, 2021-00997]
 kalla_url: https://web.archive.org/web/20220319202152id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/protokoll/2021/protokoll-211117.signerad.pub.pdf
 sha256: 550d480aba87ca4326982580faecfb8eb9a710a53bfc334484250701e8112097
 bytes: 621067

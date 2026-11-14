@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.6ea12a3f17f1cb35690208e
 tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/protokoll/2022/nse-protokoll-2022-01-20.pdf]
-arenden: null
+arenden: [2021-00366, 2021-00397, 2021-00398, 2021-00399, 2021-00400, 2021-00401, 2021-00402, 2021-00403, 2021-00409, 2022-00004]
 kalla_url: https://web.archive.org/web/20241109140326id_/https://kungsbacka.se/download/18.6ea12a3f17f1cb35690208e/1645534726970/N%C3%A4mnden%20f%C3%B6r%20Service%20protokoll%202022-01-20.pdf
 sha256: d10255a1f7136adaab3bfc1ab9b685d06286b51e57ddd56b77e4369e88a7d2f6
 bytes: 185051

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2021/teau-protokoll-210503.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00005, 2021-00127, 2021-00208, 2021-00323, 2021-00324, 2021-00344, 2021-00378, 2021-00379, 2021-00392, 2021-00393]
 kalla_url: https://web.archive.org/web/20220319220912id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2021/teau-protokoll-210503.pdf
 sha256: b9cd0cced43ded828553e49ab507cd1076c8beea54a8fbfb2dcff1e6b89c1841
 bytes: 596668

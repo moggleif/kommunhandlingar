@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunrevisionen-sammantradesanteckningar-2021-02-22-2021-03-01
 kallnyckel: sitevision:18.2727e29417ee2988a501b294
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20220630202448id_/https://kungsbacka.se/download/18.2727e29417ee2988a501b294/1644938004668/Kommunrevisionen%20sammantr%C3%A4desanteckningar%202021-02-22,%202021-03-01.pdf
 sha256: aecc10caeba6679bcda57e60bbc09f56709ef39e7cad4a10dfe1fb55d82061ba
 bytes: 128832

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.207ab1f818bcc088b053625
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2022-00590, KS-2022-00909, KS-2023-00005, KS-2023-00008, KS-2023-00013, KS-2023-00258, KS-2023-00299, KS-2023-00301, KS-2023-00357, KS-2023-00425, KS-2023-00428, KS-2023-00521, KS-2023-00652, KS-2023-00667, KS-2023-00710, KS-2023-00716]
 kalla_url: https://web.archive.org/web/20241004223754id_/https://kungsbacka.se/download/18.207ab1f818bcc088b053625/1700059141637/Kommunfullm%C3%A4ktige%20protokoll%202023-11-07.pdf
 sha256: cf24b4792ba9fe1ef01438f9f35573186f27df0b37255151fa3d47548b50b7d7
 bytes: 1321646

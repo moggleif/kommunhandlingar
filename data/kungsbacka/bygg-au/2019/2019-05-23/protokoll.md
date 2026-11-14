@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2019/bnau-protokoll-2019-05-23-webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2016-1649, 2018-0256, 2018-0782, 2018-0979, 2018-1102, 2018-1270, 2018-1450, 2018-1538, 2018-1621, 2018-1773, 2018-1896, 2018-1965, 2018-2051, 2018-2147, 2019-0258, 2019-0290, 2019-0293, 2019-0325, 2019-0457, 2019-0468, 2019-0546, 2019-0605]
 kalla_url: https://web.archive.org/web/20200101072033id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2019/bnau-protokoll-2019-05-23-webb.pdf
 sha256: 832be8ea22803dd6bf3113858065ef70b21686f4c0137a50fec5a76d79ed5c0b
 bytes: 1494337

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.33df50461a157e1b9001d6a
 tidigare_kallnycklar: [sitevision:18.7573952919a7bcb3bbe10680]
-arenden: null
+arenden: [IF-2020-00101, IF-2023-00001, IF-2023-00002, IF-2023-00003, IF-2023-00005, IF-2023-00006, IF-2023-00008, IF-2023-00055, IF-2023-00100, IF-2024-00012, IF-2025-00006, IF-2025-00251, IF-2025-00319, IF-2025-00335, IF-2025-00336, IF-2025-00343]
 kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001d6a/1792480853489/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-11-13,%20%C2%A7%C2%A7%20143-158.pdf
 sha256: e773936a0d642d1e0a761d1c8b9ce511b1f5386e7409dbc8a80b87a325a32c95
 bytes: 362227

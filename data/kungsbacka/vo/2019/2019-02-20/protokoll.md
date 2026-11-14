@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/2019-02-20/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO/2018:128, VO/2018:151, VO/2018:153, VO/2018:213, VO/2018:217, VO/2018:218, VO/2018:31, VO/2018:33, VO/2019:10, VO/2019:19, VO/2019:3, VO/2019:4, VO/2019:6, VO/2019:7, VO/2019:9]
 kalla_url: [https://web.archive.org/web/20200713225723id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/protokoll-nvo-2019-02-20-omedelbar-justering-14-.pdf, https://web.archive.org/web/20200713215801id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2019/protokoll-nvo-2019-02-20.pdf]
 sha256: [456f4c0a2a9552907c9fc57772a217d94b1f8adb6aa199fa66e1be55483071cf, 3b620359ac2f8269ac78ccd36114134a724804de95563bc8c5c44ba7af352b12]
 bytes: [505109, 603310]

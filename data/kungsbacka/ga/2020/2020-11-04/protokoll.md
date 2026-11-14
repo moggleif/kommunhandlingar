@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2020/101.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2020-00256]
 kalla_url: https://web.archive.org/web/20210225074705id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2020/101.pdf
 sha256: 1028444cfa5b9976e242fef36b444b7880afcecaf44f23b0d8962bbb0359c1dd
 bytes: 55886

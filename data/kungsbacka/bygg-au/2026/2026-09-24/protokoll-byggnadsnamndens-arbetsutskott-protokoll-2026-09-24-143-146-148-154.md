@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-protokoll-2026-09-24-143-146-148-154
 kallnyckel: sitevision:18.35b654231a0d0c8586cbf150
 tidigare_kallnycklar: []
-arenden: null
+arenden: [BN-2021-00020, BN-2022-00029, BN-2024-000509, BN-2024-00061, BN-2024-00105, BN-2025-002092, BN-2026-00001, BN-2026-00003, BN-2026-000630, BN-2026-000867, BN-2026-001289]
 kalla_url: https://kungsbacka.se/download/18.35b654231a0d0c8586cbf150/1790667827961/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202026-09-24%20%C2%A7%C2%A7%20143-146,%20148-154.pdf
 sha256: 24df3c89423e240a4232b8857aacb20bf31654b57f62f916e0c3fad1effe2489
 bytes: 326819

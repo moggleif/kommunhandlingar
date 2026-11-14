@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Service/Protokoll/2014/SE_protokoll%20140219-just.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE/2014:16, SE/2014:17, SE/2014:27, SE/2014:28]
 kalla_url: https://web.archive.org/web/20140703135811id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Service/Protokoll/2014/SE_protokoll%20140219-just.pdf
 sha256: 18d5ef7fe8c588dfdc6a9703633c3e2a36564ce696310de8a4e4168f5234d1ab
 bytes: 4018832

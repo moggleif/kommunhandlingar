@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.313f1a0718a932c81bbd843
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-00895, 2023-00001, 2023-00002, 2023-00003, 2023-00004, 2023-00023, 2023-00043, 2023-00253, 2023-00305, 2023-00307, 2023-00363, 2023-00450, 2023-00545, 2023-00569, 2023-00577]
 kalla_url: https://web.archive.org/web/20251213103555id_/https://kungsbacka.se/download/18.313f1a0718a932c81bbd843/1695133294583/N%C3%A4mnden%20f%C3%B6r%20Teknik%20Protokoll%202023-09-13.pdf
 sha256: e747373100a2e4749197aea598c1e539e57f6dd4eff41e2ef55f7d0673e67dac
 bytes: 657306

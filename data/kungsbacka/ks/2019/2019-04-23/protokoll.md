@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2019/ks-protokoll-2019-04-23.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2014:309, KS/2015:36, KS/2016:655, KS/2018:541, KS/2018:554, KS/2018:563, KS/2018:646, KS/2018:822, KS/2019:1, KS/2019:104, KS/2019:106, KS/2019:126, KS/2019:170, KS/2019:208, KS/2019:223, KS/2019:243, KS/2019:297, KS/2019:304, KS/2019:339, KS/2019:340, KS/2019:36, KS/2019:37, KS/2019:38, KS/2019:4, KS/2019:55]
 kalla_url: https://web.archive.org/web/20210226222524id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2019/ks-protokoll-2019-04-23.pdf
 sha256: e341a1c161c5c0f724dfd654ff7916e4df6abd17c25a2c4eae2a19e369d86caf
 bytes: 984545

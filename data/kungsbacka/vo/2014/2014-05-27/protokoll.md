@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2014/Protokoll%20%20Au%20140527%20exkl%20sekretess.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [ÄO/2014:42, ÄO/2014:43, ÄO/2014:59, ÄO/2014:64]
 kalla_url: https://web.archive.org/web/20140703191336id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2014/Protokoll%20%20Au%20140527%20exkl%20sekretess.pdf
 sha256: 2172e6325845f10639ca1afa4326e3a56ef5199209bff4b28440eb245f824af6
 bytes: 105655

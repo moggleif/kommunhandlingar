@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2727e29417ee2988a50372c8
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2020-00839, 2020-00871, 2021-00044, 2021-00066, 2021-00102, 2021-00141, 2021-00151, 2021-00153, 2021-00155, 2021-00156, 2021-00162, 2021-00164]
 kalla_url: https://web.archive.org/web/20220404175438id_/https://kungsbacka.se/download/18.2727e29417ee2988a50372c8/1645429722372/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsorg%20protokoll%202021-05-19.pdf
 sha256: 1b38e50b87214810152b3664277a173c81497de8452fb13209db289ef1e878b8
 bytes: 667528

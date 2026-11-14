@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunstyrelsens-arbetsutskott-protokoll-2024-04-09-119-128
 kallnyckel: sitevision:18.2f18dd4b18ecb609445aef
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2019-00413, KS-2021-00907, KS-2022-00696, KS-2023-00051, KS-2023-00143, KS-2023-00527, KS-2023-00868, KS-2024-00018, KS-2024-00025, KS-2024-00167]
 kalla_url: https://kungsbacka.se/download/18.2f18dd4b18ecb609445aef/1712843614762/Kommunstyrelsens%20arbetsutskott%20protokoll%202024-04-09%20%C2%A7%C2%A7%20119-128.pdf
 sha256: 86328e4fff32ebd99cfa52af826f923e5587751921852b72cd1d83a30f264261
 bytes: 377414

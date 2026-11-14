@@ -1572,9 +1572,9 @@ kommandot, datakontrollen och bygget delar.
 - **Diarienumren** är numren efter `Dnr`, `Diarienr` eller `Diarienummer`
   från rubrikraden till raden Beslut, och ett nummer som står ensamt på
   rubrikraden (`§ 142   GV/2014:4`), i ordning och utan dubbletter.
-  Mellanslag kring bindestrecket och mellan förled och år blir ett
-  bindestreck (`BN 2024-000123` blir `BN-2024-000123`); annars skrivs
-  numret som det står.
+  Ett tankstreck, och mellanslag kring bindestrecket eller mellan förled
+  och år, blir ett bindestreck (`BN 2016–000170` blir `BN-2016-000170`);
+  annars skrivs numret som det står.
 - **Beslutet** är raderna efter raden Beslut till nästa avsnitt.
   Avsnitten är en fast lista med protokollens rubriker (`AVSNITT` i
   `paragrafer.py`). Når beslutet en sidbrytning eller sidfoten (en rad

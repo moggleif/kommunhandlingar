@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2022/teau-2022-03-07-protokoll.signerad.pub.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2020-00760, 2020-00864, 2022-00006, 2022-00040, 2022-00092, 2022-00097, 2022-00137, 2022-00138, 2022-00165, 2022-00182, 2022-00189, 2022-00194]
 kalla_url: https://web.archive.org/web/20220320035433id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2022/teau-2022-03-07-protokoll.signerad.pub.pdf
 sha256: 6b6ba2a97f2ddd2f1aa4ec80fc52ca4e24a56466edf20e7231a1c438aac6e2d4
 bytes: 672258

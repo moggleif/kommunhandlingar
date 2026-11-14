@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.72f9f89f1900fe890bfd28e
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2020-00121, KS-2020-00618, KS-2022-00955, KS-2023-00621, KS-2024-00004, KS-2024-00006, KS-2024-00011, KS-2024-00014, KS-2024-00015, KS-2024-00016, KS-2024-00104, KS-2024-00156, KS-2024-00256, KS-2024-00284, KS-2024-00327, KS-2024-00328, KS-2024-00333, KS-2024-00362, KS-2024-00392, KS-2024-00464]
 kalla_url: https://kungsbacka.se/download/18.72f9f89f1900fe890bfd28e/1718860642687/Kommunstyrelsen%20protokoll%202024-06-18.pdf
 sha256: 201cded9e23bf712dc65d5e7e0ee9ab44f920cd07f8fd14d924158695bab8c0d
 bytes: 667897

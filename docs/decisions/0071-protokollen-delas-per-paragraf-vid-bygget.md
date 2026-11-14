@@ -52,8 +52,9 @@ dokumentet för den som läser repot.
   innehållsförteckningen och närvarolistan kommer först, och en
   fortsättning direkt efter läggs till.
 * **Diarienumret** är det som står efter `Dnr` i paragrafens huvud, eller
-  ensamt på rubrikraden. Mellanslag kring bindestrecket och mellan förled
-  och år blir ett bindestreck; annars skrivs numret som det står. Organets
+  ensamt på rubrikraden. Ett tankstreck, och mellanslag kring
+  bindestrecket eller mellan förled och år, blir ett bindestreck; annars
+  skrivs numret som det står. Organets
   förled läggs inte till där det saknas.
 * **Beslutet** är texten efter raden Beslut till nästa rubrik i
   paragrafen. Når det sidans slut innan dess blir det `null`, eftersom det

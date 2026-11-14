@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Byggnadsn%C3%A4mnden/Protokoll/2014/Protokoll%20BN%20140306%20webb.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20140703191158id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Byggnadsn%c3%a4mnden/Protokoll/2014/Protokoll%20BN%20140306%20webb.pdf
 sha256: 58dc7183ff73f4a03437c642c915a8af1879b94968cb5d65ed0e7052194c2edb
 bytes: 98158

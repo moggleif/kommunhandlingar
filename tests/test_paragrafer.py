@@ -130,9 +130,10 @@ class TestDiarienummer(unittest.TestCase):
             with self.subTest(text):
                 self.assertEqual(i_huvudet(text), vantat)
 
-    def test_mellanslag_blir_bindestreck(self):
+    def test_mellanslag_och_tankstreck_blir_bindestreck(self):
         self.assertEqual(i_huvudet("Dnr BN 2024-000123"), ["BN-2024-000123"])
         self.assertEqual(i_huvudet("Dnr MH-2021- 3122"), ["MH-2021-3122"])
+        self.assertEqual(i_huvudet("Dnr BN 2016–000170"), ["BN-2016-000170"])
 
     def test_inget_nummer_utan_dnr(self):
         self.assertEqual(i_huvudet("Kyrkobyn 1:8 - Strandskyddsdispens, 2014-0849"), [])

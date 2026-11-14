@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-teknik-protokoll-2023-05-17
 kallnyckel: sitevision:18.46e13f69187eb13eae02f4e4
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-00850, 2023-00001, 2023-00002, 2023-00003, 2023-00004, 2023-00197, 2023-00212, 2023-00253, 2023-00285, 2023-00387, 2023-00398, 2023-00405, 2023-00407]
 kalla_url: https://web.archive.org/web/20251216063745id_/https://kungsbacka.se/download/18.46e13f69187eb13eae02f4e4/1684915880601/N%C3%A4mnden%20f%C3%B6r%20Teknik%20Protokoll%202023-05-17.pdf
 sha256: 9a770ed8ca8a6aa3d23d4e34ae682ea4aa365856743472784a205e50f7620d2f
 bytes: 589245

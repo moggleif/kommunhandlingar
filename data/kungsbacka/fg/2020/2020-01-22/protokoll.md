@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/nfg-protokoll-2020-01-22.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2019-01150, 2020-00015, 2020-00016, 2020-00019, 2020-00020, 2020-00034, 2020-00101, 25738, 25739]
 kalla_url: https://web.archive.org/web/20220319201810id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/protokoll/nfg-protokoll-2020-01-22.pdf
 sha256: bca3967b6b7636d0a89bd485568d8a7296a5aa65cd6a232040bc851e8f5c60c0
 bytes: 701217

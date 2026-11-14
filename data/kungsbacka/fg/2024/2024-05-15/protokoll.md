@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.1fdd930a18f775083cf8df5
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FG-2024-00001, FG-2024-00002, FG-2024-00003, FG-2024-00018, FG-2024-00058, FG-2024-00059, FG-2024-00251, FG-2024-00255, FG-2024-00256, FG-2024-00258, FG-2024-00288, FG-2024-00299, FG-2024-00300]
 kalla_url: https://kungsbacka.se/download/18.1fdd930a18f775083cf8df5/1716190102069/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20protokoll%202024-05-15,%20%C2%A7%C2%A7%2046-48,%20%C2%A7%C2%A7%2050-58.pdf
 sha256: 3b78a8feb5b5517759976568fed09304edd674a1a8ec00d24af5902a2a020d14
 bytes: 389137

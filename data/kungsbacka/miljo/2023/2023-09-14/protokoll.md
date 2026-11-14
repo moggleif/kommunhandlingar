@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.494c3da818a92ef2fa21499a
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00002, 2023-00003, 2023-00014, 2023-00015, 2023-00668, 2023-05146, 2023-05160, 2023-05161, 2023-05225, MH-2020-663, MH-2023-1852]
 kalla_url: https://web.archive.org/web/20250317141858id_/https://kungsbacka.se/download/18.494c3da818a92ef2fa21499a/1695292218715/N%C3%A4mnden%20f%C3%B6r%20Milj%C3%B6%20och%20H%C3%A4lsoskydd%20protokoll%202023-09-14.pdf
 sha256: e65305f8a63a2b2568f8cb73eadb62146ee0f5d8d9e96e96fee290b1df022a7b
 bytes: 215381

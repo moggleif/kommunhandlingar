@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/2021-05-25/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2017-00096, 2019-00058, 2020-00619, 2020-00725, 2020-00909, 2020-00919, 2020-00928, 2020-00941, 2020-01130, 2021-00004, 2021-00006, 2021-00007, 2021-00015, 2021-00016, 2021-00017, 2021-00104, 2021-00161, 2021-00165, 2021-00212, 2021-00275, 2021-00277, 2021-00302, 2021-00333, 2021-00335, 2021-00367, 2021-00386, 2021-00397, 2021-00422, 2021-00447, 2021-00450, 2021-00477, 2021-00479, 2021-00486, 2021-00495, 2021-00496, 2021-00499]
 kalla_url: [https://web.archive.org/web/20220319200627id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2021/ks-protokoll-2021-05-25--132-163-165-167.pdf, https://web.archive.org/web/20220320094145id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2021/ks-protokoll-2021-05-25--164.pdf]
 sha256: [01b4e4ce241aaacd6da75762d3cc650b5e395c7cacc48fef695b20803f0e77da, 30f2201ab69619aa672b6f257b9461d44aa12aaeb55c75fa82a4fe3a05ac2469]
 bytes: [905875, 568718]

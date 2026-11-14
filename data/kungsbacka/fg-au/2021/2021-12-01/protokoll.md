@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d9563f
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00002, 2021-00020, 2021-00021, 2021-00022, 2021-00044, 2021-01420, 2021-01535, 2021-01536, 2021-01537, 2021-01538, 2021-01589]
 kalla_url: https://web.archive.org/web/20220404190930id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d9563f/1644473636195/F%C3%B6rskola%20&%20Grundskola%20arbetsutskott%20protokoll%202021-12-01.pdf
 sha256: 3ef867cb0aebb0035369d947acce994119bb50849e275079796d366974823526
 bytes: 769751

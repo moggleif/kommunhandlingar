@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Valn%C3%A4mnd/Protokoll/2014/VN_140528.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VN/2014:7, VN/2014:8, VN/2014:9]
 kalla_url: https://web.archive.org/web/20140703152320id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Valn%c3%a4mnd/Protokoll/2014/VN_140528.pdf
 sha256: 153c54f13ad066959dc24029ce305c7839289b059b69a7bed5ca19d7a3c3f0e7
 bytes: 88217

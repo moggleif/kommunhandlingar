@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.14d8b7ca18a262cd73723744
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20240712220315id_/https://kungsbacka.se/download/18.14d8b7ca18a262cd73723744/1694085129266/Kommunrevisionen%20protokoll%20%202023-08-29,%20%C2%A7%2012.pdf
 sha256: 22473e6ea3322d848824ee8b4873b260ac6273da6854571b113935e371f22cae
 bytes: 365040

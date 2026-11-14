@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2022/ks-protokoll-2022-01-25.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a501a6df]
-arenden: null
+arenden: [2019-00214, 2019-00915, 2020-00725, 2020-00913, 2020-01063, 2021-00402, 2021-00472, 2021-00665, 2021-00735, 2021-00886, 2021-00966, 2021-00983, 2021-01010, 2021-01011, 2021-01017, 2021-01029, 2021-01102, 2021-01166, 2021-01167, 2021-01179, 2021-01226, 2021-01254, 2022-00004, 2022-00006, 2022-00015, 2022-00016, 2022-00017]
 kalla_url: https://web.archive.org/web/20220319191021id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2022/ks-protokoll-2022-01-25.signerad.pub.pdf
 sha256: 4908ca584c5ef1516a217ced73075eee963db206a057c59b9a04380770144f7f
 bytes: 1001553

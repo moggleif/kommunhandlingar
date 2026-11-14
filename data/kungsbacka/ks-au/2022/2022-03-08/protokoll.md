@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/protokoll/2022/kommunstyrelsens-arbetsutskott-protokoll-2022-03-08.pdf
 tidigare_kallnycklar: [sitevision:18.533f690b17f7294399b14428]
-arenden: null
+arenden: [2010-00094, 2020-00049, 2020-00131, 2020-00594, 2020-01080, 2021-00591, 2021-00701, 2021-00728, 2021-00777, 2021-00957, 2021-01186, 2021-01204, 2021-01205, 2021-01264, 2022-00010, 2022-00014, 2022-00079, 2022-00122, 2022-00239]
 kalla_url: https://web.archive.org/web/20220319212240id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/protokoll/2022/kommunstyrelsens-arbetsutskott-protokoll-2022-03-08.pdf
 sha256: df5c4fb24e68a1de4f4bf37749e2824f0f560013537381125b1a4cf4594b4dca
 bytes: 674646

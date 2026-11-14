@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2013/Protokoll%20n%C3%A4mnd%20131212.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [ÄO13, ÄO13-00017/75, ÄO13-00108/75, ÄO13-00116/75, ÄO13-00144/75, ÄO13-00145/75]
 kalla_url: https://web.archive.org/web/20140805025352id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2013/Protokoll%20n%c3%a4mnd%20131212.pdf
 sha256: 1c1d3c6d556b4833928f4957bd51b242f94797aaea64f06413d59a3b78eff3bd
 bytes: 134196

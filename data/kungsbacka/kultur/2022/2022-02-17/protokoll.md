@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/protokoll/2022/protokoll-nkft-20220217-1-8-10-14.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.2ed9706017f44c50af1305c4]
-arenden: null
+arenden: [2021-00287, 2021-00311, 2022-00005, 2022-00011, 2022-00013, 2022-00014, 2022-00015, 2022-00016, 2022-00017, 2022-00032, 2022-00044, 2022-00049, 2022-00052]
 kalla_url: https://web.archive.org/web/20220320101725id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/protokoll/2022/protokoll-nkft-20220217-1-8-10-14.signerad.pub.pdf
 sha256: f3cc726a948f2b10752ed524bb0f230d86d173df6da961f5df3da136d06e479f
 bytes: 686765

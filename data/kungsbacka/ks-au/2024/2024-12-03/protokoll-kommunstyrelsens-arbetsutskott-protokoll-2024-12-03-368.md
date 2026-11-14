@@ -7,7 +7,7 @@ typ: protokoll
 namn: kommunstyrelsens-arbetsutskott-protokoll-2024-12-03-368
 kallnyckel: sitevision:18.2eac78ea193953fe280299f
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2024-00720]
 kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe280299f/1733392416010/Kommunstyrelsens%20arbetsutskott%20protokoll%202024-12-03%20%C2%A7%20368.pdf
 sha256: c7dde45ee9e0fec77a3f0b816e62f575edf3282c58dd0683ea047117e60f73af
 bytes: 223161

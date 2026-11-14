@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2019/kommunrev.-2019-05-20--68-83-.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20220319203322id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2019/kommunrev.-2019-05-20--68-83-.pdf
 sha256: 1760f1095cffef75f94e067aaf0f87a71e64652f35c3ad5bebc860bd4846a423
 bytes: 2971594

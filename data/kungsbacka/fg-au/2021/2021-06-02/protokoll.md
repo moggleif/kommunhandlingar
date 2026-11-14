@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d95639
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00002, 2021-00020, 2021-00021, 2021-00022, 2021-00044, 2021-00161, 2021-00162, 2021-00445, 2021-00557, 2021-00561, 2021-00568, 2021-00583, 2021-00676, 2021-00717, 2021-00748, 2021-00777]
 kalla_url: https://web.archive.org/web/20220404190855id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d95639/1644473570549/F%C3%B6rskola%20
 sha256: 8ea66a3fe0b69c86d9eb7cb64442c94ec020445e6ac1068cdc83e77409bca736
 bytes: 847878

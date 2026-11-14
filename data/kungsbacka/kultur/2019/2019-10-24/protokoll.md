@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/protokoll/2019/nkft-protokoll-2019-10-24.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KFT/2019:11, KFT/2019:182, KFT/2019:192, KFT/2019:212, KFT/2019:213, KFT/2019:218, KFT/2019:219, KFT/2019:222, KFT/2019:225, KFT/2019:9]
 kalla_url: https://web.archive.org/web/20200714194644id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/protokoll/2019/nkft-protokoll-2019-10-24.pdf
 sha256: a9f08a88dc5af6d855cc1001b0fb8e9a939a548332e9959955fd9b34869ad0d8
 bytes: 548234

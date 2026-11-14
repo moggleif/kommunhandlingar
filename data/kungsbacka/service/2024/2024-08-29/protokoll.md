@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2c0e0b6e191975d7155318a
 tidigare_kallnycklar: []
-arenden: null
+arenden: [SE-2024-00244, SE-2024-00245, SE-2024-00246, SE-2024-00247, SE-2024-00268, SE-2024-00287, SE-2024-00288]
 kalla_url: https://kungsbacka.se/download/18.2c0e0b6e191975d7155318a/1724999377403/N%C3%A4mnden%20f%C3%B6r%20Service%20protokoll%202024-08-29.pdf
 sha256: 83379d0fe147520cac39d44eb722c1a945269b8819ce80d9bf2548aec1900fbd
 bytes: 221267

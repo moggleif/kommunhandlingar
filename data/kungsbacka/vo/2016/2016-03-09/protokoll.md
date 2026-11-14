@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/%C3%84ldreomsorg/Protokoll/2016/Protokoll%20Au%20160309.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO/2016:31, VO/2016:37]
 kalla_url: https://web.archive.org/web/20160611193228id_/http://www.kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/%c3%84ldreomsorg/Protokoll/2016/Protokoll%20Au%20160309.pdf
 sha256: 61ad3fb7b890e1cabe40769f9652fcb9416b8d3f26e8fec64a96aa70f4bb0cf4
 bytes: 4919990

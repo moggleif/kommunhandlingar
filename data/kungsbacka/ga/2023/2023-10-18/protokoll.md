@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.5f19131d18b6acfb55630
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GA-2023-00001, GA-2023-00002, GA-2023-00008, GA-2023-00012, GA-2023-00035, GA-2023-00059, GA-2023-00064, GA-2023-00079, GA-2023-00080, GA-2023-00081, GA-2023-00103, GA-2023-00111, GA-2023-00126, GA-2023-00131, GA-2023-00132, GA-2023-00134, GA-2023-00135, GA-2023-00136, GA-2023-00137, GA-2023-00150]
 kalla_url: https://web.archive.org/web/20250213040938id_/https://kungsbacka.se/download/18.5f19131d18b6acfb55630/1698305189281/Protokoll%20231018.signerad.pub.pdf
 sha256: face84340a1ef8cef382d26a74eb32c5957c54fa1795a96dcf22a250893ec426
 bytes: 818177

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.5ea575a19367eedc8617d0e
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GA-2023-00058, GA-2024-00001, GA-2024-00002, GA-2024-00003, GA-2024-00007, GA-2024-00008, GA-2024-00071, GA-2024-00134, GA-2024-00148, GA-2024-00164, GA-2024-00185, GA-2024-00187, GA-2024-00188, GA-2024-00193, GA-2024-00194, GA-2024-00195, GA-2024-00202]
 kalla_url: https://kungsbacka.se/download/18.5ea575a19367eedc8617d0e/1732870777532/Protokoll%20f%C3%B6r%20n%C3%A4mnden%20f%C3%B6r%20Gymnasium%20&%20arbetsmarknad%202024-11-20.pdf
 sha256: fec6c58b79a3b53aaccd2b25037478250cfedaee65100adb512b1330181299dd
 bytes: 547248

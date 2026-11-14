@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-individ-familjeomsorg-protokoll-2023-02-23-12-14-23-24
 kallnyckel: sitevision:18.f6671b21864b96e2ba1ea25
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2020-00374, 2022-00087, 2023-00052]
 kalla_url: https://web.archive.org/web/20241016041347id_/https://kungsbacka.se/download/18.f6671b21864b96e2ba1ea25/1677232970538/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202023-02-23%20%C2%A7%C2%A7%2012-14,%2023-24.pdf
 sha256: 4e915c33877b7a869edd6d08f134fa70cff6b60f3ea73e597aeee0594c2a47f0
 bytes: 72288

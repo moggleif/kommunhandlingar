@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2014/KS_140121.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS12-00267/21, KS13-00006/10, KS13-00021/70, KS13-00166/29, KS13-00173/30, KS13-00179/20, KS13-00259/87, KS13-00303/51, KS13-00340/21, KS13-00341/25]
 kalla_url: https://web.archive.org/web/20140410203401id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsen/Protokoll/2014/KS_140121.pdf
 sha256: cb81de7cefb6780bc54bd33e49fe82abfe4ea42c17b5200167be29f7da399f58
 bytes: 2732210

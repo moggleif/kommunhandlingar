@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.5fc2dffe18b1490ff0c46dd
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS-2020-00131, KS-2021-00118, KS-2022-00590, KS-2023-00018, KS-2023-00022, KS-2023-00025, KS-2023-00225, KS-2023-00233, KS-2023-00299, KS-2023-00301, KS-2023-00357, KS-2023-00425, KS-2023-00492]
 kalla_url: https://web.archive.org/web/20241212003928id_/https://kungsbacka.se/download/18.5fc2dffe18b1490ff0c46dd/1697017880183/Kommunstyrelsens%20arbetsutskott%20protokoll%202023-10-10.pdf
 sha256: 4951fd9e9559d59b0be9abc113f5a0ee955b6ee07356b2562d8a203d0e095f89
 bytes: 624105

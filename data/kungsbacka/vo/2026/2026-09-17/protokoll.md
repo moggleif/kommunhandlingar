@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.515f200f1a0adad2ac4a49fd
 tidigare_kallnycklar: []
-arenden: null
+arenden: [VO-2026-00152, VO-2026-00236, VO-2026-00288, VO-2026-00343]
 kalla_url: https://kungsbacka.se/download/18.515f200f1a0adad2ac4a49fd/1790075249480/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsorg%20protokoll%202026-09-17,%20%C2%A7%C2%A7%20139-142.pdf
 sha256: b95562aaac49f78c1bdcf9d56494a16a4753bacc5f1a533781d8ead6e9bc1d52
 bytes: 284780

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.6f3c0c5618a261856362e33f
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00098]
 kalla_url: https://web.archive.org/web/20250213025029id_/https://kungsbacka.se/download/18.6f3c0c5618a261856362e33f/1694425454200/Protokoll%20230831%20%C2%A7%2085.signerad.pub.pdf
 sha256: 0acd3aeeec4471a4970ee5eb75aeb977eec8f9a2e118c98f234b89282be4464c
 bytes: 400863

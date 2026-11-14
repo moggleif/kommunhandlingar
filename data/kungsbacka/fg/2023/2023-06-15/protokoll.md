@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.4108226e188bd8de7bcbc28
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00025, 2023-00027, 2023-00030, 2023-00121, 2023-00128, 2023-00129, 2023-00145, 2023-00146, 2023-00558, 2023-00559, 2023-00795, 2023-00796, 2023-00798, 2023-00809, 2023-00844]
 kalla_url: https://web.archive.org/web/20231206171711id_/https://kungsbacka.se/download/18.4108226e188bd8de7bcbc28/1687268888507/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20protokoll%202023-06-15.pdf
 sha256: 46795d93e55c810e812e8e5205cb00d24cb8e958fd34fc7d9bf38169ecf4d38f
 bytes: 736201

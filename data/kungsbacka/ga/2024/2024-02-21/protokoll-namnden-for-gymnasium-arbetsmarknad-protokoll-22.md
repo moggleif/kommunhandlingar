@@ -7,7 +7,7 @@ typ: protokoll
 namn: namnden-for-gymnasium-arbetsmarknad-protokoll-22
 kallnyckel: sitevision:18.740037a718d876d2ccf36c6b
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GA-2024-00012]
 kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf36c6b/1708957034987/N%C3%A4mnden%20f%C3%B6r%20Gymnasium%20&%20Arbetsmarknad%20protokoll%20%C2%A7%2022.pdf
 sha256: 630e6e70a7c584c7d366f65efb98536ef9a490df85d210d1b958a18312a97dbc
 bytes: 238806

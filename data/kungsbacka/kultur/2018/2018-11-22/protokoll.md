@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/fritid-och-folkhalsa/protokoll/2018/fh-protokoll-2018-11-22.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [FH/2017:88, FH/2017:93, FH/2018:61, FH/2018:67, FH/2018:8, FH/2018:83, FH/2018:9]
 kalla_url: https://web.archive.org/web/20200121120938id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/fritid-och-folkhalsa/protokoll/2018/fh-protokoll-2018-11-22.pdf
 sha256: 1befc5433919c139ba07ffdda1dc3db5fcffd4c0ab459b4777f27ce7f1a762ca
 bytes: 822240

@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2020/kommunrev.-2020-06-22--253-266.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: []
 kalla_url: https://web.archive.org/web/20200928062922id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2020/kommunrev.-2020-06-22--253-266.pdf
 sha256: a0499ae19b71d1c2870fc8db9b177a7d1c1afebb85bdc52c320ab5b9769804bd
 bytes: 208285

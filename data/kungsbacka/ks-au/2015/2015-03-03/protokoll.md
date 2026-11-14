@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/2015-03-03/protokoll
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2014:553, KS/2015:11, KS/2015:2, KS/2015:74, KS/2015:79, KS/2015:88]
 kalla_url: [https://web.archive.org/web/20150318123046id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2015/KSAU%20protokoll%202015-03-03.pdf, https://web.archive.org/web/20150318123052id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunstyrelsens%20arbetsutskott/Protokoll/2015/KSAU_%20150303%20publicering.pdf]
 sha256: [e997a0b47e70e6ae572ba96acb377e08c96b95a8ec130196a480dcaa85572ccd, b3620e981d2d4865ca0543986a64062c4a8aed511bfde348b2c5cd8e4c5fb4b4]
 bytes: [106379, 20460025]

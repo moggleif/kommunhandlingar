@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/protokoll/2021/protokoll-210601.signerad.pub.pdf
 tidigare_kallnycklar: [sitevision:18.533f690b17f7294399b13d97]
-arenden: null
+arenden: [2016-00714, 2017-00334, 2020-00313, 2020-00443, 2020-00547, 2020-00555, 2021-00010, 2021-00014, 2021-00164, 2021-00427, 2021-00548, 2021-00581, 2021-00582, 2021-00591]
 kalla_url: https://web.archive.org/web/20220320070916id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/protokoll/2021/protokoll-210601.signerad.pub.pdf
 sha256: 23438f6ef22fa89c1826edbe8f982b803eb02fc9bcaa4e3da7cd74877f42cb82
 bytes: 797476

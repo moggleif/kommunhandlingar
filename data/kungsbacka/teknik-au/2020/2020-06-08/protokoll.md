@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2020/teau-protokoll-200608.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2018-00159, 2019-00319, 2019-01142, 2019-01273, 2020-00340, 2020-00406, 2020-00407, 2020-00436, 2020-00437, 2020-00451, 2020-00454, 2020-00465, 2020-00486, 2020-00487, 2020-00515, 2020-00528]
 kalla_url: https://web.archive.org/web/20220319201230id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/protokoll/2020/teau-protokoll-200608.pdf
 sha256: 14577be70db70c2ddaefd6b407f95fccd8f0a4fa76a015c9cf28b0d9912541de
 bytes: 657045

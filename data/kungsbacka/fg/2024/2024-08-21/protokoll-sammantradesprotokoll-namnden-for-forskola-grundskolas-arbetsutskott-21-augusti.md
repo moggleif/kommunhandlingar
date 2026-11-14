@@ -7,7 +7,7 @@ typ: protokoll
 namn: sammantradesprotokoll-namnden-for-forskola-grundskolas-arbetsutskott-21-augusti
 kallnyckel: sitevision:18.e273be8191786587b21c91
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2024-00239, FG-2024-00341]
 kalla_url: https://kungsbacka.se/download/18.e273be8191786587b21c91/1724413069065/Sammantr%C3%A4desprotokoll%20N%C3%A4mnden%20f%C3%B6r%20F%C3%B6rskola%20&%20Grundskolas%20arbetsutskott%2021%20augusti.pdf
 sha256: 3df8732b3721ffb8e8a50e86e0855d0ce36d51f85ce578a8df609b307c6e8066
 bytes: 251376

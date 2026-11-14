@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.1f9fe7e6187eac7db531edfd
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00017]
 kalla_url: https://web.archive.org/web/20241016034147id_/https://kungsbacka.se/download/18.1f9fe7e6187eac7db531edfd/1684346986330/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202023-05-17,%20%C2%A7%C2%A7%2063-65,%2069.pdf
 sha256: db67ba912eb26f5c1cdf8f1045c4ba97bff9b0db0061852ce2788c223bd08133
 bytes: 57091

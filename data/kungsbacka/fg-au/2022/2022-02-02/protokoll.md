@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola-arbetsutskott/protokoll/2022/forskola--grundskola-arbetutskottet-protokoll-2022-02-02.pdf
 tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50131b5]
-arenden: null
+arenden: [2021-01625, 2021-01652, 2022-00003, 2022-00004, 2022-00006, 2022-00007, 2022-00011, 2022-00021, 2022-00042, 2022-00131, 2022-00135, 2022-00138, 2022-00139]
 kalla_url: https://web.archive.org/web/20220320020811id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola-arbetsutskott/protokoll/2022/forskola--grundskola-arbetutskottet-protokoll-2022-02-02.pdf
 sha256: 19d8b643fe8b7755efbf79e319d42020064c01f6116e9ad887d2a57fd486f596
 bytes: 603141

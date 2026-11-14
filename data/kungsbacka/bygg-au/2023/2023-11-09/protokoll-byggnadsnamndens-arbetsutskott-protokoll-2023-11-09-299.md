@@ -7,7 +7,7 @@ typ: protokoll
 namn: byggnadsnamndens-arbetsutskott-protokoll-2023-11-09-299
 kallnyckel: sitevision:18.7912569118bab8be8f010454
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00167]
 kalla_url: https://web.archive.org/web/20250516141502id_/https://kungsbacka.se/download/18.7912569118bab8be8f010454/1699879975977/Byggnadsn%C3%A4mndens%20arbetsutskott%20protokoll%202023-11-09%20%C2%A7%20299.pdf
 sha256: 6e50dcfc1e646528823a79785bd5763534022dd53bf2a4d325bcb2be53eca7b3
 bytes: 485674

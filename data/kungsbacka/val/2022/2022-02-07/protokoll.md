@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.68e39ecb17ede8bc2d9578b
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-00001, 2022-00002, 2022-00003, 2022-00011, 2022-00012, 2022-00013, 2022-00014, 2022-00016]
 kalla_url: https://web.archive.org/web/20241204155502id_/https://kungsbacka.se/download/18.68e39ecb17ede8bc2d9578b/1644476581637/Valn%C3%A4mnden%20protokoll%202022-02-07.pdf
 sha256: 41fc99b395cb356a56edc1354e402553a2e8715f93a66c34151e333303f0c55b
 bytes: 195154

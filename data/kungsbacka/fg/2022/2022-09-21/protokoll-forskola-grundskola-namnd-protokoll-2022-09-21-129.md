@@ -7,7 +7,7 @@ typ: protokoll
 namn: forskola-grundskola-namnd-protokoll-2022-09-21-129
 kallnyckel: sitevision:18.5bba8c07182e92654f3549d3
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-01077]
 kalla_url: https://web.archive.org/web/20231206175117id_/https://kungsbacka.se/download/18.5bba8c07182e92654f3549d3/1663823610297/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20protokoll%202022-09-21,%20%C2%A7%20129.pdf
 sha256: 4b004e47cc28445a5b701f61b2c0395647b6f6e94fb5042e1fde7dd0e9846a8e
 bytes: 381415

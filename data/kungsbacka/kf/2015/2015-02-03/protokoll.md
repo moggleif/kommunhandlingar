@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kommunfullm%C3%A4ktige/Protokoll/2015/KF%20protokoll%202015-02-03.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KS/2007:143, KS/2013:195, KS/2014:104, KS/2014:172, KS/2014:331, KS/2014:384, KS/2014:454, KS/2014:457, KS/2014:46, KS/2014:495, KS/2014:496, KS/2014:497, KS/2014:499, KS/2014:507, KS/2014:553, KS/2015:21, KS/2015:3]
 kalla_url: https://web.archive.org/web/20150321051611id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kommunfullm%c3%a4ktige/Protokoll/2015/KF%20protokoll%202015-02-03.pdf
 sha256: 7844f77c0c17219936af826b7b590e2c93cd1496e3ed0021747fa9d0fcfc00be
 bytes: 441851

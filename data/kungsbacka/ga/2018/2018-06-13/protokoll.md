@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2018/protokoll-nga-2018-06-13.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GV/2018:3, GV/2018:76, GV/2018:77, GV/2018:80]
 kalla_url: https://web.archive.org/web/20200120085959id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2018/protokoll-nga-2018-06-13.pdf
 sha256: 79316865e01fe31aadb4fd4144dded5c8f5142743665bcbc1eb0cadd00168196
 bytes: 544960

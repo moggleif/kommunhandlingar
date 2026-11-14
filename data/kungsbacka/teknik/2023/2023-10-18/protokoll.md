@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.64fcc4f518b37e51592be67
 tidigare_kallnycklar: []
-arenden: null
+arenden: [TE-2023-00340]
 kalla_url: https://web.archive.org/web/20251213093751id_/https://kungsbacka.se/download/18.64fcc4f518b37e51592be67/1697790263005/N%C3%A4mnden%20f%C3%B6r%20Teknik%20Protokoll%202023-10-18%20%C2%A7%20100.pdf
 sha256: 0a714d4ca640cf5eaa1efdf875ce77fe31e9fe8e7a34534ebb7dc7b64e228791
 bytes: 494576

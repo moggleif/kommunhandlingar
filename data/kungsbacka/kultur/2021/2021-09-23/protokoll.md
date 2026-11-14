@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2ed9706017f44c50af130c5d
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00117, 2021-00174, 2021-00175, 2021-00176, 2021-00177, 2021-00178, 2021-00179, 2021-00180]
 kalla_url: https://web.archive.org/web/20220404172436id_/https://kungsbacka.se/download/18.2ed9706017f44c50af130c5d/1649080082105/N%C3%A4mnden%20f%C3%B6r%20Kultur%20&%20Fritid%20protokoll%202021-09-23%20(2).pdf
 sha256: 2b8be6b6caa618705004c2a6d81c3f4ffba040d491996f9b3fdeb393f69b4275
 bytes: 587444

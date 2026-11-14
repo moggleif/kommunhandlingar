@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2ed9706017f44c50af130bcf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00116, 2021-00130, 2021-00135, 2021-00138, 2021-00143, 2021-00149, 2021-00158]
 kalla_url: https://web.archive.org/web/20220404172427id_/https://kungsbacka.se/download/18.2ed9706017f44c50af130bcf/1649078513197/N%C3%A4mnden%20f%C3%B6r%20Kultur%20
 sha256: a2b89f96f9be3c041d03991a22915a1c0ee5ae99059f4142a7447c4356ef51a2
 bytes: 590288

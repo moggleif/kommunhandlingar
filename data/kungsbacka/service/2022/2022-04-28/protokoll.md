@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.50c580bd18002891b9f342d6
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2021-00196, 2022-00015, 2022-00028, 2022-00060, 2022-00074, 2022-00075, 2022-00076, 2022-00077, 2022-00078, 2022-00079, 2022-00083, 2022-00084, 2022-00085]
 kalla_url: https://web.archive.org/web/20241109142631id_/https://kungsbacka.se/download/18.50c580bd18002891b9f342d6/1651498932870/N%C3%A4mnden%20f%C3%B6r%20Service%20protokoll%202022-04-28.pdf
 sha256: d30134d15c715d95997a55d8bbe47c651ea018b4677d7fbebe0b75fe1cb95f09
 bytes: 243631

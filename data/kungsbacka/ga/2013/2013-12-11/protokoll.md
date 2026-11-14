@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Protokoll/2013/Protokoll%20n%C3%A4mnd%20131211.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [GV11-00012/60, GV11-00017/07, GV12-00095/03, GV12-00098/04, GV13-00012/60, GV13-00052/03, GV13-00085/00, GV13-00091/04, GV13-00092/04, GV13-00093/60]
 kalla_url: https://web.archive.org/web/20140806023627id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Gymnasie%20och%20Vuxenutbildning/Protokoll/2013/Protokoll%20n%c3%a4mnd%20131211.pdf
 sha256: a609fd62d4b76bc7d4083d001f6996da32383ef6ce4bdda43aed0f2d0c46891d
 bytes: 114969

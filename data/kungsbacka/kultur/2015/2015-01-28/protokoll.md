@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Kultur%20och%20Turism/Protokoll/2015/KT_protokoll_150128.pdf
 tidigare_kallnycklar: []
-arenden: null
+arenden: [KT/2014:103]
 kalla_url: https://web.archive.org/web/20150318124848id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Kultur%20och%20Turism/Protokoll/2015/KT_protokoll_150128.pdf
 sha256: ab41ed1f5b59b9f7d85f2ea3772b950dbb19721f8bee82b37a38bbf0775e18aa
 bytes: 6043637

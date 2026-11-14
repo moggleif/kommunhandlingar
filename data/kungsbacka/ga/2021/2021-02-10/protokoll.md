@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.72941e9317f452787b6c01b
 tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/210210-protokoll.pdf]
-arenden: null
+arenden: [2019-00009, 2019-00179, 2020-00228, 2020-00271, 2020-00325, 2020-00326, 2020-00327, 2020-00328, 2021-00001, 2021-00003, 2021-00005, 2021-00010, 2021-00015, 2021-00016, 2021-00017, 2021-00029]
 kalla_url: https://web.archive.org/web/20220702164819id_/https://kungsbacka.se/download/18.72941e9317f452787b6c01b/1646404718447/N%C3%A4mnden%20f%C3%B6r%20Gymnasium%20&%20Arbetsmarknad%20protokoll%202021-02-10.pdf
 sha256: 38ece92a8632c02d7990fea86d174aff83bc7a310af483a43917d6e787c041db
 bytes: 327196
