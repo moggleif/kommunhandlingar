@@ -1,10 +1,11 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37 och K39 i docs/02-KRAV.md.
-Test: tests/test_webbplats.py,
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39 och K46 i docs/02-KRAV.md.
+Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
 tests/test_uppfoljningar.py, tests/test_lokalbehov.py, tests/test_initiativ.py.
 """
 
 import shutil
+from dataclasses import replace
 from datetime import datetime
 from functools import partial
 from pathlib import Path
@@ -12,7 +13,14 @@ from pathlib import Path
 from kommunhandlingar import frontmatter, konfiguration
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats import kalender, mal, sidor, spar, uppfoljningar
+from kommunhandlingar.webbplats import (
+    kalender,
+    mal,
+    projekt,
+    sidor,
+    spar,
+    uppfoljningar,
+)
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.mall import Mall, statusadress
@@ -24,7 +32,7 @@ from kommunhandlingar.webbplats.rakning import okanda, rakna
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
 from kommunhandlingar.webbplats.sparsida import sparsida
-from kommunhandlingar.webbplats.sparslag import SLAGEN
+from kommunhandlingar.webbplats.sparslag import DETALJPLANER, SLAGEN
 
 
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
@@ -36,7 +44,8 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
         s.id: las_kommunfiler(rot, s.id, kommuner, partial(spar.las, slag=s))
         for s in SLAGEN
     }
-    mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen)
+    projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
+    mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
     ut.mkdir(parents=True, exist_ok=True)
     (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     for kommun in kommuner:
@@ -78,9 +87,20 @@ def bygg_sparen(ut: Path, mall: Mall, kommun: Kommun, organ: str) -> None:
     for slag in SLAGEN:
         alla = mall.spar[slag.id].get(kommun.id, [])
         if stegen := [s for s in alla if s.organ == organ]:
-            html = sparsida(mall, Vy.over(slag, kommun, stegen), stegen)
+            vy = Vy.over(slag, kommun, stegen)
+            if slag == DETALJPLANER:
+                vy = replace(vy, projekt=mall.projekt.get(kommun.id, {}))
+            html = sparsida(mall, vy, stegen)
             adress = sparets_adress(kommun, organ, slag)
             (ut / adress).write_text(html, encoding="utf-8")
+
+
+def las_projekten(rot: Path, kommuner: list[Kommun], planerna: dict) -> dict:
+    projekten = las_kommunfiler(rot, "projekt", kommuner, projekt.las)
+    for kommun, kopplade in projekten.items():
+        fil = f"projekt/{kommun}.csv"
+        projekt.kontrollera(kopplade, planerna.get(kommun, []), fil)
+    return projekten
 
 
 def kommunfiler(katalog: Path, kommuner: list[Kommun]) -> frozenset[str]:

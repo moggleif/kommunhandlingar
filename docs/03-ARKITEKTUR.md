@@ -226,8 +226,8 @@ src/kommunhandlingar/
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
-                   handlingsplanerna, redovisningarna, detaljplanerna,
-                   granskningarna och avvikelserna
+                   handlingsplanerna, redovisningarna, detaljplanerna med
+                   sina projekt, granskningarna och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -237,6 +237,7 @@ initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna f
 handlingsplaner/<kommun>.csv  nämndernas handlingsplaner steg för steg, skrivna för hand (K38)
 redovisningar/<kommun>.csv  nämndernas redovisningar steg för steg, skrivna för hand (K42)
 detaljplaner/<kommun>.csv  detaljplanerna steg för steg, skrivna för hand (K44)
+projekt/<kommun>.csv     detaljplanernas projekt på kommunens webbplats, skrivna för hand (K46)
 granskningar/<kommun>.csv  revisionens granskningar steg för steg, skrivna för hand (K43)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
@@ -2067,6 +2068,38 @@ skillnaderna:
 - **Värdet** används inte.
 - **Tolkad:** ett steg har `tolkad` satt till `ja` när källan kallar
   planen något annat och inte själv säger att det är samma plan.
+
+## Projekten
+
+Hur och varför står i
+[ADR-0069](decisions/0069-projekten-kopplas-till-detaljplanerna-i-en-fil-skriven-for-hand.md).
+En kommun med en fil `projekt/<kommun>.csv` kopplar sina detaljplaner
+([Detaljplaner](#detaljplaner)) till projekten på kommunens lista med
+projekt ([Projektsidorna](#projektsidorna)), en rad per plan (K46):
+
+```csv
+organ,detaljplan,projekt,tolkad
+bygg-projekt,Bostäder inom Må 3:15,bostader-i-fjaras,
+```
+
+- `organ` är organet projektens dokument står under. Kommunfilens
+  `[kalla.projekt]` ger listans adress, och projektsidan är listans adress,
+  ett snedstreck och `projekt`.
+- `detaljplan` är planens namn som det står i
+  `detaljplaner/<kommun>.csv`.
+- `projekt` är projektsidans sista del i adressen.
+- `tolkad` är `ja` när planen och projektet inte gäller samma fastighet,
+  eller projektet är ett planprogram. Samma fastighet, också ett
+  kvartersnamn, på projektsidan och i planens namn är en direkt koppling.
+
+Projektets dokument är organets dokument vars namn börjar med
+`namn_av(projekt)` och ett bindestreck, utom de som börjar med ett längre
+projekt i filen. Planens kort får länken och, hopfällda, dokumenten med
+källans filnamn som titel och datumet. Bygget stoppas när en rad inte går
+ihop med kommunfilen eller detaljplanerna; ett projekt utan dokument i
+poolen stoppar det inte. Projektsidor som ligger under ett annat projekt
+(`kungsbacka-arena/detaljplan-for-kungsbacka-arena`) tas inte in (K45),
+så en plan kopplas då till projektet ovanför.
 
 ## Granskningar
 

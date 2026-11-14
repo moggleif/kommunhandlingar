@@ -947,7 +947,7 @@ som ligger som underlag i arbetsutskottets handlingar.
 
 Detaljplanssidan (K44,
 [ADR-0067](../decisions/0067-detaljplanerna-foljs-som-redovisningarna.md))
-har 65 planer med 168 steg (kontrollerat 2026-11-10 i poolen):
+har 83 planer med 198 steg (kontrollerat 2026-11-13 i poolen):
 
 - **Planerna med ett beslut 2024–2026** står med: nämndens
   paragrafrubriker ("Uppdrag att upprätta …", "Samråd av …",
@@ -962,9 +962,21 @@ har 65 planer med 168 steg (kontrollerat 2026-11-10 i poolen):
   planer står på var och en av dem. Arbetsutskottets förslag till
   nämnden 2023 står inte med, fast nämndens protokoll från mars 2022
   till 2023 saknas i poolen.
+- **Äldre planer med ett projekt** på kommunens lista med projekt står
+  med sedan 2026-11-13, 14 planer med steg 2016–2023, och fyra planer
+  med kommunstyrelsens projektbeställning 2026-10-20. Projekten som bara
+  har ett planprogram (`asaberg`, `bostader-i-sparhaga`,
+  `kvarteret-ejdern`, `nordostra-kungsbacka-stad`) står inte med. Inte
+  heller Algusered 1:290, Äskatorp 4:19 och Hedeleden och Klippebergen,
+  vars beslut i poolen bara är arbetsutskottets förslag, en bordläggning
+  eller en återremiss. Nämndens protokoll saknas för flera möten
+  2016–2020 och nästan helt 2018 och 2023, och fullmäktiges 2018–2019.
+- **Kommunstyrelsens hemställan** om en detaljplan före 2020 (som för
+  Stockalid 1:4 2018) står inte med; från kommunstyrelsen räknas bara
+  planbeskeden och projektbeställningarna.
 - Information om planer, avstämningar, rättelser, utökade planområden,
-  avtal, tillsyn, bygglov och planer som bara finns före 2024 står inte
-  med.
+  avtal, tillsyn, bygglov och andra planer som bara finns före 2024 står
+  inte med.
 
 ### Aktuella projekt
 

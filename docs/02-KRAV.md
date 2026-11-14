@@ -1466,3 +1466,37 @@ och [Projektsidorna](03-ARKITEKTUR.md#projektsidorna). Issue
 - **Så** blir sidans filer inga kandidater den körningen, adressen och
   orsaken står i sammanfattningen, och upptäckten fortsätter, så att
   mötena hämtas ändå.
+
+## K46 — Detaljplanerna länkar till kommunens projekt
+
+Hur och varför står i
+[ADR-0069](decisions/0069-projekten-kopplas-till-detaljplanerna-i-en-fil-skriven-for-hand.md)
+och [Projekten](03-ARKITEKTUR.md#projekten). Issue
+[#261](https://github.com/moggleif/kommunhandlingar/issues/261).
+
+- **Givet** en kommun med en fil som kopplar detaljplaner till projekt på
+  kommunens lista med projekt (K45), en rad per plan
+- **När** webbplatsen byggs
+- **Så** har planens kort på detaljplanssidan en länk till kommunens
+  projektsida och en lista med projektets dokument i poolen, med dagen de
+  lades upp, och "tolkad" när planen och projektet inte gäller samma
+  fastighet eller projektet är ett planprogram. Dokumentets titel är
+  källans filnamn.
+- **Givet** ett projekt vars namn är början av ett annat projekts namn i
+  filen
+- **När** webbplatsen byggs
+- **Så** står varje dokument bara under det längsta projektet som dess
+  namn börjar med.
+- **Givet** ett projekt utan dokument i poolen
+- **När** webbplatsen byggs
+- **Så** står det på kortet att dokumenten inte finns i poolen, och bygget
+  fortsätter.
+- **Givet** en fil med fel rubriker, eller en rad med fel antal fält, en
+  tom plan, en plan som står två gånger, ett organ utan lista med
+  projekt, ett projekt som inte är en del av en adress eller `tolkad`
+  som varken är tomt eller `ja`
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden när det finns en, och felet.
+- **Givet** en rad med en plan som inte finns bland detaljplanerna
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen och planen.
