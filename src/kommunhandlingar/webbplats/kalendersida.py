@@ -1,10 +1,11 @@
-"""Krav: K22 och K32 i docs/02-KRAV.md, ADR-0032 och ADR-0053.
-Test: tests/test_kalender.py.
+"""Krav: K22, K32 och K49 i docs/02-KRAV.md, ADR-0032, ADR-0053 och ADR-0072.
+Test: tests/test_kalender.py och tests/test_gruppmoten.py.
 
 Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen och
 källorna per organ och år, urvalet av organ, en tabell per månad och
-listan. Skriptet i `kalender.js` visar en månad i taget och döljer det som
-valts bort; utan det står allt på sidan.
+listan, med partiernas gruppmöten bland sammanträdena. Skriptet i
+`kalender.js` visar en månad i taget och döljer det som valts bort; utan
+det står allt på sidan.
 """
 
 from collections import defaultdict
@@ -12,9 +13,10 @@ from html import escape
 from pathlib import Path
 from urllib.parse import urlparse
 
+from kommunhandlingar.gruppmote import VECKODAGAR
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import kalendervyer
-from kommunhandlingar.webbplats.kalender import Sammantrade
+from kommunhandlingar.webbplats.kalender import GRUPPMOTE, Sammantrade, gruppmoten
 from kommunhandlingar.webbplats.kalenderfarger import farger, stil
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
 
@@ -49,6 +51,7 @@ table.kalender td { height: 5rem; }
 .dag { display: block; font-size: 0.8rem; color: #555; }
 details { margin-bottom: 1rem; }
 .urval label { display: inline-block; margin: 0 1rem 0.25rem 0; }
+.o-gruppmöte { border: 2px dotted #888; color: #555; background: none; }
 """
 
 
@@ -56,14 +59,18 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
     adress = f"{kommun.id}/kalender.html"
     namn = {o.id: o.namn[0] for o in kommun.organ}
     farg = farger(kommun, {s.organ for s in sammantraden})
+    moten = gruppmoten(sammantraden, kommun.gruppmote, mall.byggd.date())
+    if moten:
+        namn[GRUPPMOTE] = f"Partiernas gruppmöte inför {namn[kommun.gruppmote.fore]}"
     innehall = (
         stig([(f"{rot(adress)}{kommun.id}.html", kommun.namn)])
         + f"<style>{STIL}{stil(farg)}</style>"
         + INLEDNING
         + kvalitet(mall, sammantraden, namn)
-        + urval(farg, namn)
-        + kalendervyer.manader(sammantraden)
-        + kalendervyer.lista(sammantraden, namn)
+        + om_gruppmoten(kommun, namn)
+        + urval([*farg, *([GRUPPMOTE] if moten else [])], namn)
+        + kalendervyer.manader(sammantraden + moten)
+        + kalendervyer.lista(sammantraden + moten, namn)
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
     )
     return sida(mall, adress, f"Kalender – {kommun.namn}", innehall)
@@ -135,12 +142,26 @@ def kallcell(organ: str, cell: dict[str, int]) -> str:
     return "<br>".join(lankar)
 
 
-def urval(farg: dict[str, tuple[str, str]], namn: dict[str, str]) -> str:
+# Gruppmötena förklaras bara när kalendern har några.
+def om_gruppmoten(kommun: Kommun, namn: dict[str, str]) -> str:
+    if GRUPPMOTE not in namn:
+        return ""
+    regel = kommun.gruppmote
+    return (
+        "<p>Partierna har gruppmöte "
+        f"{VECKODAGAR[regel.veckodag]}en före varje sammanträde i "
+        f"{escape(namn[regel.fore].lower())}. Det är en vana hos partierna, inget "
+        "beslutat sammanträde. Datumen är räknade ur sammanträdena, inte lästa "
+        "i någon källa, och bara kommande gruppmöten visas.</p>"
+    )
+
+
+def urval(organen: list[str], namn: dict[str, str]) -> str:
     rutor = "".join(
         f'<label><input type="checkbox" checked data-organ="{organ}"> '
-        f'<span class="ruta o-{organ}">{organ.upper()}</span> '
+        f'<span class="ruta o-{organ}">{kalendervyer.kort(organ)}</span> '
         f"{escape(namn[organ])}</label>"
-        for organ in farg
+        for organ in organen
     )
     return f'<fieldset class="urval"><legend>Organ som visas</legend>{rutor}</fieldset>'
 

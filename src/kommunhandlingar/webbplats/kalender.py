@@ -1,20 +1,25 @@
-"""Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
+"""Krav: K22 och K49 i docs/02-KRAV.md, ADR-0032 och ADR-0072.
+Test: tests/test_kalender.py och tests/test_gruppmoten.py.
 
 Läser `kalender/<kommun>.csv` och stoppar bygget med raden när den inte
-går ihop med kommunfilen och poolen (docs/03-ARKITEKTUR.md#kalendern).
+går ihop med kommunfilen och poolen (docs/03-ARKITEKTUR.md#kalendern), och
+räknar fram partiernas gruppmöten ur organets sammanträden.
 """
 
 import csv
 import re
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 from kommunhandlingar.fel import Datafel
+from kommunhandlingar.gruppmote import Gruppmote
 from kommunhandlingar.konfiguration import Kommun
 
 DATUM = re.compile(r"\d{4}-\d{2}-\d{2}")
 KOLUMNER = ["organ", "datum", "tid", "plats", "kalla", "osakert"]
+# Gruppmötet är inget organ; id:t är inget katalognamn och krockar inte.
+GRUPPMOTE = "gruppmöte"
 
 
 @dataclass(frozen=True)
@@ -65,3 +70,22 @@ def tolka(rad: list[str], organ: set[str], data: Path) -> Sammantrade:
 def i_poolen(kalla: str, data: Path) -> bool:
     delar = kalla.split("/")
     return len(delar) == 4 and kalla.endswith(".md") and (data / kalla).is_file()
+
+
+# Ett gruppmöte är en vana, inte ett sammanträde med källa; bara de från
+# dagen sidan byggs tas med.
+def gruppmoten(
+    sammantraden: list[Sammantrade], regel: Gruppmote | None, idag: date
+) -> list[Sammantrade]:
+    if regel is None:
+        return []
+    return [
+        Sammantrade(GRUPPMOTE, dag, regel.tid, "", "", "")
+        for s in sammantraden
+        if s.organ == regel.fore
+        and (dag := dagen_fore(s.datum, regel.veckodag)) >= idag
+    ]
+
+
+def dagen_fore(datum: date, veckodag: int) -> date:
+    return datum - timedelta(days=(datum.weekday() - veckodag - 1) % 7 + 1)
