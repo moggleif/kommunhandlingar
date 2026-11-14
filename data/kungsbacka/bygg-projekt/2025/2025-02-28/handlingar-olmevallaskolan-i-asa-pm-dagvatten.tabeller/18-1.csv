@@ -1,0 +1,19 @@
+"Tekniska delavrinningsområden
+Planerad situation φ
+Skolområde Återvinningscentral",,,
+,Skolområde,Återvinningscentral,
+Skolområde [ha],"1,39",,"0,56*"
+Återvinningscentral [ha],,"0,17","0,85"
+Totalt [ha],"1,39","0,17",-
+"t [min]
+r",10,10,-
+"φ [-]
+S","0,56*","0,85",-
+"A [ha]
+red","0,78","0,15",-
+"Q , 5-årsregn [l/s] kf=1,25
+dim",176,33,-
+"Q , 20-årsregn [l/s] kf1=1,25
+dim",279,53,-
+"Q , 100-årsregn [l/s] kf=1,4
+dim",532,101,-

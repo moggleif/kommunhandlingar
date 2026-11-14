@@ -1,0 +1,77 @@
+Jordlagerföljd,,,,Provtagning,,
+Provpunkt,Djup,Jordart,Anmärkning,Djup,"Inskickat
+analys",Kommentar
+,(m),,,(m),,
+21GS15,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",x,
+,"0,05-0,7",F/stgrSa,,"0-0,7",,
+,"0,7-1",Le,,"0,7-1",x,
+21GS16,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,
+,"0,05-0,8",F/stgrSa,,"0-0,8",,
+,"0,8-2",Le,,1-2,x,
+21GS17,,,,,,
+,"0-1,5",Le(t),,0-1,x,
+,"1,5-2",Le,,,,
+21GS18,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,
+,"0,05-0,8",F/stgrSa,,"0-0,5",,
+,"0,8-1,2",Le(t),,"0,8-1",x,
+,"1,2-2",gyLe,,,,
+21GS19,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",x,Svag lukt av petroleum
+,"0,05-0,8",F/stgrSa,,"0-0,8",,"Lite grått/svart i, ingen lukt"
+,"0,8-2",gyLe,,"1-1,5",x,"Luktar petroleum, mkt gyttja"
+,,,,"1,5-2",,
+21GS20,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,
+,"0,05-0,7",F/stgrSa,,"0-0,7",,
+,"0,7-1",gyLe(t),,"0,7-1",x,Luktar lite petroleum
+,1-2,gyLe,,"1-1,5",,
+,,,,"1,5-2",,
+21GS21,,,,,,
+,"0-0,3",F/Sa,,"0-0,3",x,
+,"0,3-1",Le(t),,"0,3-1",,Lite mull i första 20 cm
+21GS22,,,,,,
+,"0-0,06",F/Asfalt,,"0-0,06",x,
+,"0,06-0,5",F/Makadam,,ej prov,,
+,"0,5-0,7",F/stgrSa,,"0,5-0,7",x,
+,"0,7-2",gyLe,,1-2,,"vatten ca 1,5m ner"
+,"2,0-3,0",Le,,ej prov,,
+"Grundvattenrör satt: Spets: 3,20 m.u.my, Filter 2 m (3,10-1,10), Rör 1,0 m (nerstick ca. 0,1 m.u.my), dexel plast
+GV-yta provtagning (RÖK) : 0,63 GV-yta (RÖK) pumpstopp: 0,97",,,,,,
+21GS23,,,,,,
+,"0-0,3",F/muSa,,"0-0,3",x,
+,"0,3-0,6",F/stgrSa,,"0,3-0,6",,
+,"0,6-1",Le(t),,"0,6-1",,
+21GS24,,,,,,
+,"0-0,4",F/muLe,,"0-0,4",,
+,"0,4-1",gyLe(t),,"0,4-1",x,"mycket gyttja ifrån 0,7 mumy"
+,"1,0-2,0",gyLe,,,,
+,"2,0-3,0",gyLe,,ej prov,,Mycket gyttja
+"Grundvattenrör satt: Spets: 3,1 m.u.my, Filter 2 m (3,00-1,00), Rör 1,5 m (ca. 0,5 ö.m.y)
+GV-yta provtagning (RÖK) : 1,18 GV-yta (RÖK) pumpstopp: 1,38",,,,,,
+21GS25,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",x,
+,"0,05-1",F/stgrSa,,0-1,,
+,1-2,Le,,"1-1,5",x,Mycket sten i. Luktar petroleum
+,,,,"1,5-2",,"Vatten in 1,5 mumy"
+,2-3,stLe,,,,För mycket sten GV-rör flyttas.
+21GS26,,,,,,
+,"0-0,5",muLe(t),,"0-0,5",x,
+,"0,5-1",Le(t),,"0,5-1",,
+21GS28,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,Lukt petroleum
+,"0,05-0,7",F/Makadam,,Ej prov,,
+,"0,7-1",F/stgrSa,,"0,7-1",,
+,1-2,gyLe,,"1-1,5",x,
+,,,,"1,5-2",,
+21GS29,,,,,,
+,"0-0,6",F/muLe(t),,"0-0,6",x,
+,"0,6-1",Le(t),,"0,6-1",,
+21GS30,,,,,,
+,"0-0,05",F/Asfalt,,"0-0,05",,
+,"0,05-0,5",F/Makadam,,Ej prov,,
+,"0,5-1",F/stgrSa,,"0,5-1",x,
+,"1-1,5",gyLe(t),,"1-1,5",,
+,"1,5-2",gyLe,,"1,5-2",,mkt finkornig lera

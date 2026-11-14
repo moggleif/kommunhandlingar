@@ -1,0 +1,17 @@
+Jordmaterial,Jordparameter,Härlett värde
+"Lera 1
+-6,5 till -17,5","Tunghet, (g )
+Effektiv tunghet, (g ')
+Odränerad
+skjuvhållfasthet, (c )
+u","16 kN/m3
+6 kN/m3
+5 + 1 * z kPa/m 1"
+"Lera 2
+-17,5 till -22","Tunghet, (g )
+Effektiv tunghet, (g ')
+Odränerad
+skjuvhållfasthet, (c )
+u","18 kN/m3
+8 kN/m3
+16 + 1 * z kPa/m 1"

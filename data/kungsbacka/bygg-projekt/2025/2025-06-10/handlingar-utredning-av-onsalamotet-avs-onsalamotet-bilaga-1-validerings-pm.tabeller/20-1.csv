@@ -1,0 +1,16 @@
+"Kommun
+FM",,1,2,3,4,5,6
+,Nod,"Norr
+(E6 )","Söder
+(E6)","Väste
+r","Cirkulation norr
+(4)","Cirkulation öst
+(5)","Cirkulation söder
+(6)"
+1,Norr (E6),,1370,242,14,12,0
+3,Söder (E6),2443,,46,185,154,5
+2,Väster,761,68,,600,501,16
+4,Cirkulation norr (4),114,79,64,,124,22
+5,Cirkulation öst (5),367,255,206,227,,21
+6,"Cirkulation söder
+(6)",15,11,9,15,25,

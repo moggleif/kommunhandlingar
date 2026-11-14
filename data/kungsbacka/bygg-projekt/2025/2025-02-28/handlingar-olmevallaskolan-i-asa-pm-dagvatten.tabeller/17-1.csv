@@ -1,0 +1,22 @@
+"Tekniska delavrinningsområden
+Befintlig situation φ
+Skolområde Återvinningscentral",,,
+,Skolområde,Återvinningscentral,
+Körbana [ha],"0,34",,"0,85"
+Skolområde [ha],"1,05",,"0,57*"
+Återvinningscentral [ha],,"0,17","0,85"
+Totalt [ha],"1,39","0,17",-
+"t [min]
+r",10,10,-
+"φ [-]
+S","0,64","0,85",-
+"A [ha]
+red","0,89","0,15",-
+"Q , 5-årsregn [l/s]
+dim",162,27,-
+"Q , 20-årsregn [l/s]
+dim",256,42,-
+"Q , 100-årsregn [l/s]
+dim",511,64,-
+"Q , Naturmarksavrinning [l/s]
+dim",40,6,-

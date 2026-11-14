@@ -1,0 +1,27 @@
+"Beräkningssektion/
+skede","Belastning/
+avlastning","Fc/ F EN
+odränerad
+analys","Fc/ F EN
+Kombinerad
+analys",Kommentar
+"Sektion A-A
+(karakteristiska värden)",Obelastad,"1,58","1,54","Kommenteras ej-
+kontrollberäkning"
+"Sektion A-A
+(dimensionerande värden)","Hus och
+damm","1,23","1,27","F EN >1,1 ok"
+"Sektion A-A med 0,5 meter
+tryckbank
+(dimensionerande värden)","Hus och
+damm","1,29","1,24","F EN>1,1 ok"
+"Sektion B-B
+(dimensionerande värden)",damm,"1,0","1,0","F EN<1,1 ej ok
+Om antagande
+kvicklera
+F EN >1,0 ok
+Om antagande ej
+kvickera (SK2)"
+"Sektion B-B med tryckbank/
+erosionsskydd + avlastning
+(dimensionerande värden)",damm,"1,21","1,16","F EN >1,1 ok"

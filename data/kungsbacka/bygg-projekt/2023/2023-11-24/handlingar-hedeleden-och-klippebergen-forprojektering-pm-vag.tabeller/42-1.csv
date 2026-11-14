@@ -1,0 +1,43 @@
+Kod,Text,Enhet,Mängd,á-pris,Belopp
+,,,,,
+BV:EBB/E,"Broar för vägtrafik, plattbro",,,,
+,Plattramsbro,st,2,1 500 000 kr,3 000 000 kr
+BFE.22,Borttagning markvegetation,,,,
+,Fall B,m3,12500,350 kr,4 392 500 kr
+CBB.112,Jordschakt kategori B,,,,
+,Fall B,m3,5500,350 kr,1 925 000 kr
+CBB.113,Jordschakt kategori C,,,,
+,Fall B,m3,18200,350 kr,6 370 000 kr
+CBB.3112,Jordschakt för dränledning,,,,
+,Fall B,m3,400,200 kr,80 000 kr
+CEB.11221,Fyllning kategori B,,,,
+,Fall B,m3,600,185 kr,111 000 kr
+CEB.1123,Fyllning kategori C,,,,
+,Fall B,m3,2900,130 kr,377 000 kr
+CEB.422,"Fyllning för grundläggning av mur, trappa m m",,,,
+,Fyllning Fall B,m3,13,320 kr,4 160 kr
+CEC.2112,Ledningsbädd för dränledning,,,,
+,Tjocklek 100mm,m2,360,80 kr,28 800 kr
+CEC.3112,Kringfyllning för dränledning,,,,
+,Fall B,m3,340,300 kr,102 000 kr
+DBB.31213,"Materialskiljande lager av geotextil kring
+ledningsbädd och kringfyllning i ledningsgrav i
+jord",,,,
+,Bruksklass N2,m2,3150,15 kr,47 250 kr
+DBB.3131,"Materialskiljande lager av geotextil under
+överbyggnad för väg",,,,
+,Bruksklass N3,m2,31500,20 kr,630 000 kr
+DCB.212,Förstärkningslager kategori B,,,,
+,Fall B (Väg),m3,9390,260 kr,2 441 400 kr
+DCB.213,Förstärkningslager kategori C,,,,
+,Fall B (GC),m3,4130,260 kr,1 073 800 kr
+DCB.312,Obundet bärlager kategori B till belagda ytor,,,,
+,Tjocklek 80mm (Väg),m2,15525,40 kr,621 000 kr
+DCB.313,Obundet bärlager kategori C till belagda ytor,,,,
+,Tjocklek 80mm (GC),m2,11090,40 kr,443 600 kr
+DCB.612,"Stödremsa av obundet bärlagermaterial kategori
+B till belagda ytor",,,,
+,"Utförande vid avsaknad av räcke. Bredd 0,25m,
+tjocklek 90mm (Väg)",m,2020,20 kr,40 400 kr
+,"Utförande vid räcke. Bredd 0,50m, tjocklek
+90mm (Väg)",m,635,40 kr,25 400 kr

@@ -1,0 +1,42 @@
+"Erbeteckning PG8
+0.2-0.8
+Provtagare LinaLöfqvist
+Provtagningsdatum 2020-01-22
+Labnummer O11237518",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+TS_105°C,91.3,2.0,%,1,V,ERKU
+As,0.546,0.203,mg/kgTS,1,H,ERKU
+Ba,16.0,3.7,mg/kgTS,1,H,ERKU
+Cd,<0.1,,mg/kgTS,1,H,ERKU
+Co,2.90,0.77,mg/kgTS,1,H,ERKU
+Cr,4.35,0.90,mg/kgTS,1,H,ERKU
+Cu,9.24,1.96,mg/kgTS,1,H,ERKU
+Hg,<0.2,,mg/kgTS,1,H,ERKU
+Ni,4.33,1.18,mg/kgTS,1,H,ERKU
+Pb,3.28,0.71,mg/kgTS,1,H,ERKU
+V,7.48,1.61,mg/kgTS,1,H,ERKU
+Zn,18.8,4.0,mg/kgTS,1,H,ERKU
+,,,,,,
+TS_105°C,94.1,5.68,%,2,1,KAIN
+naftalen,<0.100,,mg/kgTS,2,1,KAIN
+acenaftylen,<0.100,,mg/kgTS,2,1,KAIN
+acenaften,<0.100,,mg/kgTS,2,1,KAIN
+fluoren,<0.100,,mg/kgTS,2,1,KAIN
+fenantren,<0.100,,mg/kgTS,2,1,KAIN
+antracen,<0.100,,mg/kgTS,2,1,KAIN
+fluoranten,<0.100,,mg/kgTS,2,1,KAIN
+pyren,<0.100,,mg/kgTS,2,1,KAIN
+bens(a)antracen,<0.050,,mg/kgTS,2,1,KAIN
+krysen,<0.050,,mg/kgTS,2,1,KAIN
+bens(b)fluoranten,<0.050,,mg/kgTS,2,1,KAIN
+bens(k)fluoranten,<0.050,,mg/kgTS,2,1,KAIN
+bens(a)pyren,<0.050,,mg/kgTS,2,1,KAIN
+dibens(ah)antracen,<0.050,,mg/kgTS,2,1,KAIN
+benso(ghi)perylen,<0.100,,mg/kgTS,2,1,KAIN
+indeno(123cd)pyren,<0.050,,mg/kgTS,2,1,KAIN
+"PAH,summa16 *",<0.63,,mg/kgTS,2,1,KAIN
+"PAH,summacancerogena *",<0.18,,mg/kgTS,2,1,KAIN
+"PAH,summaövriga *",<0.45,,mg/kgTS,2,1,KAIN
+"PAH,summa L *",<0.15,,mg/kgTS,2,1,KAIN
+"PAH,summa M *",<0.25,,mg/kgTS,2,1,KAIN
+"PAH,summa H *",<0.23,,mg/kgTS,2,1,KAIN

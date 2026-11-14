@@ -1,0 +1,59 @@
+"Er beteckning 19GS01
+Provtagare Julia Bredstenslien
+Provtagningsdatum 2019-06-05
+Labnummer O11150458",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+"filtrering metaller, vid provtagning *",ja,,,1,1,MB
+As,7.77,3.55,µg/l,2,H,WIDF
+Ba,53.0,10.1,µg/l,2,H,WIDF
+Cd,<0.05,,µg/l,2,H,WIDF
+Co,1.36,0.28,µg/l,2,H,WIDF
+Cr,3.29,0.68,µg/l,2,H,WIDF
+Cu,<1,,µg/l,2,H,WIDF
+Mo,12.7,2.5,µg/l,2,H,WIDF
+Ni,2.66,0.91,µg/l,2,H,WIDF
+Pb,<0.5,,µg/l,2,H,WIDF
+Zn,<4,,µg/l,2,H,WIDF
+V,26.6,5.2,µg/l,2,H,WIDF
+Hg,<0.02,,µg/l,3,F,WIDF
+,,,,,,
+alifater >C5-C8,<10,,µg/l,4,2,WIDF
+alifater >C8-C10,<10,,µg/l,4,2,WIDF
+alifater >C10-C12,<10,,µg/l,4,2,WIDF
+alifater >C12-C16,<10,,µg/l,4,2,WIDF
+alifater >C5-C16 *,<20,,µg/l,4,2,WIDF
+alifater >C16-C35,<10,,µg/l,4,2,WIDF
+aromater >C8-C10,<0.30,,µg/l,4,2,WIDF
+aromater >C10-C16,<0.775,,µg/l,4,2,WIDF
+metylpyrener/metylfluorantener,<1.0,,µg/l,4,2,WIDF
+metylkrysener/metylbens(a)antracener,<1.0,,µg/l,4,2,WIDF
+aromater >C16-C35,<1.0,,µg/l,4,2,WIDF
+bensen,<0.20,,µg/l,4,2,WIDF
+toluen,0.21,0.06,µg/l,4,2,WIDF
+etylbensen,<0.20,,µg/l,4,2,WIDF
+"m,p-xylen",<0.20,,µg/l,4,2,WIDF
+o-xylen,<0.20,,µg/l,4,2,WIDF
+"xylener, summa *",<0.20,,µg/l,4,2,WIDF
+naftalen,0.023,0.007,µg/l,4,2,WIDF
+acenaftylen,<0.010,,µg/l,4,2,WIDF
+acenaften,<0.010,,µg/l,4,2,WIDF
+fluoren,<0.010,,µg/l,4,2,WIDF
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+fenantren,<0.010,,µg/l,4,2,WIDF
+antracen,<0.010,,µg/l,4,2,WIDF
+fluoranten,<0.010,,µg/l,4,2,WIDF
+pyren,<0.010,,µg/l,4,2,WIDF
+bens(a)antracen,<0.010,,µg/l,4,2,WIDF
+krysen,<0.010,,µg/l,4,2,WIDF
+bens(b)fluoranten,<0.010,,µg/l,4,2,WIDF
+bens(k)fluoranten,<0.010,,µg/l,4,2,WIDF
+bens(a)pyren,<0.010,,µg/l,4,2,WIDF
+dibenso(ah)antracen,<0.010,,µg/l,4,2,WIDF
+benso(ghi)perylen,<0.010,,µg/l,4,2,WIDF
+indeno(123cd)pyren,<0.010,,µg/l,4,2,WIDF
+"PAH, summa 16 *",0.023,,µg/l,4,2,WIDF
+"PAH, summa cancerogena *",<0.035,,µg/l,4,2,WIDF
+"PAH, summa övriga *",0.023,,µg/l,4,2,WIDF
+"PAH, summa L *",0.023,,µg/l,4,2,WIDF
+"PAH, summa M *",<0.025,,µg/l,4,2,WIDF
+"PAH, summa H *",<0.040,,µg/l,4,2,WIDF

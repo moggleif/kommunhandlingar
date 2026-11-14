@@ -1,0 +1,21 @@
+"Avr.
+Omr.","Dagvatten-
+anläggning","Yta
+[m2]","Volym
+[m3]","Djup
+[m]","Slänt-
+lutning","Längd
+[m]","Total-
+bredd
+[m]","Brunns-
+filter, typ"
+A,"Svackdike med
+biofiltermaterial",90,55,"0,4",1:2,40,"2,3",-
+B,Gräsdike,100,36,"0,5",1:2,30,"3,3",Anpassat
+C,Makadamdike,320,89,"0,25",1:2,100,"3,2",Standard
+D,Makadamdike,180,56,"0,25",1:2,50,"3,6",Anpassat
+E,Makadamdike,160,53,"0,25",1:2,60,"2,7",Standard
+F,"Svackdike med
+biofiltermaterial",190,112,"0,4",1:2,50,"3,8",-
+G,"Svackdike med
+biofiltermaterial",110,61,"0,4",1:2,45,"2,5",-

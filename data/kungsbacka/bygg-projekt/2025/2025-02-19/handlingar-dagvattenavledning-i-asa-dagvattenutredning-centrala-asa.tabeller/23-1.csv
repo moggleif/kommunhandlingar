@@ -1,0 +1,37 @@
+"Land use
+(StormTac)","Beskrivning (taget
+från StormTac)",Area (ha),"Avrinningskoefficient
+(StormTac)",Kommentarer
+Road 1,Smågator i området,"11,7","0,8",
+Road 2,"Varbergsvägen,
+med en daglig
+trafikintensitet på
+mellan 7000–8000","1,1","0,8",
+Road 3,"Övriga gator, med
+mindre trafik","27,5","0,7",
+Residential area,"Område med villor,
+inkluderar all
+”vanlig”
+markanvändning
+inom ett sådant
+område så som
+lokalgator, diken,
+tak, uppfarter och
+gräsmattor.","25,2","0,4","Öppen mark plus
+tak"
+Forest,"Skog med olika
+typer av träd,
+inkluderar små
+gator och berg.","46,8","0,05",
+"Agricultural
+property","Jordbrukslandskap
+med olika typer av
+grädor.","39,9","0,1",Åkermark
+"Mixed green
+area","Grönt område med
+mixad vegetation
+med träddungor,
+gräsmattor och
+parkmark.","30,3","0,12",
+Mountain area,"Naturlig mark med
+sten, berg i dagen.","0,9","0,3",

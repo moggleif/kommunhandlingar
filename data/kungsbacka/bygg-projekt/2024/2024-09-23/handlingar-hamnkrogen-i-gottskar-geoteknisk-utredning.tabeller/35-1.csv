@@ -1,0 +1,18 @@
+Name,Model,"Unit
+Weight
+(kN/m³)","Cohesio
+(kPa)","n' Phi'
+(°)","Phi-B
+(°)","Constant
+Unit Wt.
+Above
+Water Table
+(kN/m³)","C-Datum
+(kPa)","C-Rate of
+Change
+((kN/m²)/m)","Datum
+(Elevation)
+(m)"
+Lera 1 Odrän,S=f(datum),16,,,,,5,1,"-6,5"
+Lera 2 Odrän,S=f(datum),18,,,,,16,1,"-17,5"
+Sand,Mohr-Coulomb,20,0,35,0,18,,,

@@ -1,0 +1,48 @@
+Parameter,Resultat,MU,Enhet,LOR,Metod,Utf.
+Perfluorerade ämnen,,,,,,
+OV-34aQ,,,,,,
+perfluorbutansyra (PFBA),<0.0050,----,µg/L,0.0020,OV-PFAS-SPE,ST
+perfluorpentansyra (PFPeA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluorhexansyra (PFHxA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluorheptansyra (PFHpA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluoroktansyra (PFOA),0.00111,± 0.0005,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluornonansyra (PFNA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluordekansyra (PFDA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluorbutansulfonsyra (PFBS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluorhexansulfonsyra (PFHxS),0.00105,± 0.0005,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluoroktansulfonsyra (PFOS),0.00143,± 0.0006,µg/L,0.0003,OV-PFAS-SPE,ST
+6:2 fluortelomersulfonsyra (6:2 FTS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+summa PFAS 4,0.00359,± 0.0016,µg/L,0.0006,OV-PFAS-SPE,ST
+summa PFAS 11,0.00359,± 0.0019,µg/L,0.0025,OV-PFAS-SPE,ST
+perfluorundekansyra (PFUnDA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluordodekansyra (PFDoDA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluortridekansyra (PFTrDA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluorpentansulfonsyra (PFPeS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluorheptansulfonsyra (PFHpS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluornonansulfonsyra (PFNS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluordekansulfonsyra (PFDS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+"perfluorundekansulfonsyra
+(PFUnDS)",<0.0010,----,µg/L,0.0010,OV-PFAS-SPE,ST
+"perfluordodekansulfonsyra
+(PFDoDS)",<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluortridekansulfonsyra (PFTrDS),<0.0010,----,µg/L,0.0010,OV-PFAS-SPE,ST
+summa PFAS 20,0.00359,± 0.0022,µg/L,0.0046,OV-PFAS-SPE,ST
+summa PFAS 21,0.00359,± 0.0023,µg/L,0.0047,OV-PFAS-SPE,ST
+4:2 fluortelomersulfonsyra (4:2 FTS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+8:2 fluortelomersulfonsyra (8:2 FTS),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+perfluoroktan-sulfonamid (PFOSA),<0.0010,----,µg/L,0.0003,OV-PFAS-SPE,ST
+"N-metylperfluoroktansulfonamid
+(MeFOSA)",<0.0020,----,µg/L,0.0020,OV-PFAS-SPE,ST
+"N-etylperfluoroktansulfonamid
+(EtFOSA)",<0.0050,----,µg/L,0.0020,OV-PFAS-SPE,ST
+"N-metylperfluoroktansulfonamidetan
+ol (MeFOSE)",<0.0050,----,µg/L,0.0020,OV-PFAS-SPE,ST
+"N-etylperfluoroktansulfonamidetanol
+(EtFOSE)",<0.0050,----,µg/L,0.0020,OV-PFAS-SPE,ST
+"perfluoroktansulfonamidättiksyra
+(FOSAA)",<0.0050,----,µg/L,0.0010,OV-PFAS-SPE,ST
+"N-metylperfluoroktansulfonamidättik
+syra (MeFOSAA)",<0.0010,----,µg/L,0.0010,OV-PFAS-SPE,ST
+"N-etylperfluoroktansulfonamidättiksy
+ra (EtFOSAA)",<0.0010,----,µg/L,0.0010,OV-PFAS-SPE,ST
+7H-perfluorheptansyra (HPFHpA),<0.0050,----,µg/L,0.0010,OV-PFAS-SPE,ST

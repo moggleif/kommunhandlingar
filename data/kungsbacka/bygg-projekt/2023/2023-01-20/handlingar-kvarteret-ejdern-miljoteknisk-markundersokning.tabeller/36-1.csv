@@ -1,0 +1,40 @@
+"Er beteckning 19GS02 0,05-0,7
+Provtagare SaL, JuB, NiK
+Labnummer O11151423",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+TS_105°C,93.6,2.0,%,1,V,WIDF
+As,3.59,1.00,mg/kg TS,1,H,WIDF
+Ba,46.0,10.5,mg/kg TS,1,H,WIDF
+Cd,<0.09,,mg/kg TS,1,H,WIDF
+Co,5.19,1.40,mg/kg TS,1,H,WIDF
+Cr,15.9,3.2,mg/kg TS,1,H,WIDF
+Cu,12.3,2.6,mg/kg TS,1,H,WIDF
+Hg,<0.2,,mg/kg TS,1,H,WIDF
+Ni,11.4,3.1,mg/kg TS,1,H,WIDF
+Pb,14.0,2.9,mg/kg TS,1,H,WIDF
+V,24.2,5.6,mg/kg TS,1,H,WIDF
+Zn,49.3,9.7,mg/kg TS,1,H,WIDF
+,,,,,,
+TS_105°C,90.7,,%,2,O,SONE
+naftalen,<0.1,,mg/kg TS,8,J,AMLU
+acenaftylen,<0.1,,mg/kg TS,8,J,AMLU
+acenaften,<0.1,,mg/kg TS,8,J,AMLU
+fluoren,<0.1,,mg/kg TS,8,J,AMLU
+fenantren,<0.1,,mg/kg TS,8,J,AMLU
+antracen,<0.1,,mg/kg TS,8,J,AMLU
+fluoranten,<0.1,,mg/kg TS,8,J,AMLU
+pyren,<0.1,,mg/kg TS,8,J,AMLU
+bens(a)antracen,<0.05,,mg/kg TS,8,J,AMLU
+krysen,<0.05,,mg/kg TS,8,J,AMLU
+bens(b)fluoranten,<0.05,,mg/kg TS,8,J,AMLU
+bens(k)fluoranten,<0.05,,mg/kg TS,8,J,AMLU
+bens(a)pyren,<0.05,,mg/kg TS,8,J,AMLU
+dibens(ah)antracen,<0.05,,mg/kg TS,8,J,AMLU
+benso(ghi)perylen,<0.1,,mg/kg TS,8,J,AMLU
+indeno(123cd)pyren,<0.05,,mg/kg TS,8,J,AMLU
+"PAH, summa 16",<1.3,,mg/kg TS,8,D,AMLU
+"PAH, summa cancerogena *",<0.2,,mg/kg TS,8,N,AMLU
+"PAH, summa övriga *",<0.5,,mg/kg TS,8,N,AMLU
+"PAH, summa L *",<0.15,,mg/kg TS,8,N,AMLU
+"PAH, summa M *",<0.25,,mg/kg TS,8,N,AMLU
+"PAH, summa H *",<0.25,,mg/kg TS,8,N,AMLU
