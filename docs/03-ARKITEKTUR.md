@@ -410,7 +410,8 @@ bun-projekt = "https://exempelby.se/…/aktuella-projekt"
   sista del och filnamnet utan ändelse, bildat som andra namn
   ([Datamodell](#datamodell)). Kandidaten har namnet i fältet `namn`.
 - **En fil som står på flera projektsidor** blir en kandidat från den
-  första, och projektsidan går före sidorna under den; en fil som också står på en mötessida blir mötessidans.
+  första, och projektsidan går före sidorna under den; en fil som också
+  står på en mötessida blir mötessidans.
 
 ### Episerver
 
@@ -2097,11 +2098,11 @@ bygg-projekt,Bostäder inom Må 3:15,bostader-i-fjaras,
   kvartersnamn, på projektsidan och i planens namn är en direkt koppling.
 
 Projektets dokument är organets dokument vars namn börjar med
-`namn_av` av projektets sista del och ett bindestreck, utom de som börjar med ett längre
-projekt i filen. Planens kort får länken och, hopfällda, dokumenten med
-källans filnamn som titel och datumet. Bygget stoppas när en rad inte går
-ihop med kommunfilen eller detaljplanerna; ett projekt utan dokument i
-poolen stoppar det inte.
+`namn_av` av projektets sista del och ett bindestreck, utom de som börjar
+med ett längre projekt i filen. Planens kort får länken och, hopfällda,
+dokumenten med källans filnamn som titel och datumet. Bygget stoppas när
+en rad inte går ihop med kommunfilen eller detaljplanerna; ett projekt
+utan dokument i poolen stoppar det inte.
 
 ## Granskningar
 

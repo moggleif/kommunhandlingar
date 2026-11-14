@@ -117,15 +117,20 @@ class TestProjektsidorna(unittest.TestCase):
 
 PROJEKTET = f"{LISTA}/arena"
 UNDER = {
-    LISTA: '<a href="/bygga/projekt/arena">Arena</a>',
+    LISTA: '<a href="/bygga/projekt/arena">Arena</a>'
+    '<a href="/bygga/projekt/simhall">Simhall</a>'
+    '<a href="/bygga/projekt/borta">Borta</a>',
     PROJEKTET: fil("c1", MORGON, "Program.pdf")
     + '<a href="/bygga/projekt/arena/detaljplan">Detaljplan</a>'
     '<a href="/bygga/projekt/arena/detaljplan#karta">Detaljplan</a>'
     '<a href="/bygga/projekt/arena/borta">Borta</a>'
-    '<a href="/bygga/projekt/bostader-i-by">Grannen</a>',
+    '<a href="/bygga/projekt/arena/trasig">Trasig</a>'
+    '<a href="/bygga/projekt/simhall">Grannen</a>',
     f"{PROJEKTET}/detaljplan": fil("c2", SENT, "Plankarta.pdf")
     + fil("c1", MORGON, "Program.pdf")
     + '<a href="/bygga/projekt/arena/detaljplan/djupare">Djupare</a>',
+    f"{PROJEKTET}/trasig": "<script>AppRegistry.registerInitialState('12.1',{",
+    f"{LISTA}/simhall": fil("c2", SENT, "Plankarta.pdf"),
 }
 
 
@@ -135,11 +140,13 @@ class TestSidorUnderEttProjekt(unittest.TestCase):
 
         def under(adress: str) -> str:
             self.hamtade.append(adress)
-            return UNDER[adress] if adress in UNDER else hamta(adress)
+            if adress not in UNDER:
+                raise Hamtfel("http-404", adress)
+            return UNDER[adress]
 
         self.kandidater, self.avvisade = upptack({"o": LISTA}, under)
 
-    def test_sidan_under_ar_ett_eget_projekt(self):
+    def test_sidan_under_ar_ett_eget_projekt_fore_listans_nasta(self):
         self.assertEqual(
             [(k.namn, k.kalla) for k in self.kandidater],
             [
@@ -149,11 +156,13 @@ class TestSidorUnderEttProjekt(unittest.TestCase):
         )
 
     def test_en_niva_och_varje_sida_en_gang(self):
-        borta = f"{PROJEKTET}/borta"
+        borta, trasig = f"{PROJEKTET}/borta", f"{PROJEKTET}/trasig"
         self.assertEqual(
-            self.hamtade, [LISTA, PROJEKTET, f"{PROJEKTET}/detaljplan", borta]
+            self.hamtade,
+            [LISTA, PROJEKTET, f"{PROJEKTET}/detaljplan", borta, trasig]
+            + [f"{LISTA}/simhall", f"{LISTA}/borta"],
         )
         self.assertEqual(
-            [(a.kalla, a.orsak) for a in self.avvisade],
-            [(borta, f"sidan under projektet: {borta}: http-404")],
+            [a.kalla for a in self.avvisade], [borta, trasig, f"{LISTA}/borta"]
         )
+        self.assertEqual(self.avvisade[0].orsak, f"projektsidan: {borta}: http-404")

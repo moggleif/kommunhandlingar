@@ -74,8 +74,8 @@ sökvägen.
   adressen och filnamnet utan ändelse:
   `bostader-i-fjaras-planbeskrivning`, och för en sida under ett annat
   projekt ur den sidans sista del:
-  `detaljplan-for-kungsbacka-arena-planbeskrivning`. Ett dokument från en projektsida
-  har alltid ett namn, som en bilaga.
+  `detaljplan-for-kungsbacka-arena-planbeskrivning`. Ett dokument från en
+  projektsida har alltid ett namn, som en bilaga.
 * **En fil på flera ställen** blir en kandidat (K2): mötessidan går före,
   sedan den första projektsidan i listans ordning, och projektsidan före
   sidan under den.
@@ -101,6 +101,11 @@ sökvägen.
 * Bad, eftersom upptäckten varje natt hämtar listan och alla
   projektsidor, cirka 160 sidor med 5 sekunder emellan, ungefär 13 minuter
   av tidsbudgeten. Sidorna under andra projekt var fem 2026-11-14.
+* Bad, eftersom namnet bara bär sidans sista del: två sidor under olika
+  projekt med samma sista del, eller en sida under ett projekt med samma
+  sista del som ett projekt på listan, får namn som börjar likadant, och
+  kopplingen till detaljplanerna (ADR-0069) skiljer dem inte åt. De fem
+  sidorna 2026-11-14 krockar inte.
 * Neutral, eftersom organets sida på webbplatsen räknar varje
   uppläggningsdag som ett sammanträde tills visningen är bestämd.
 * Neutral, eftersom bilder och kartor utan text blir `ej-konverterad`

@@ -1501,8 +1501,7 @@ och [Projekten](03-ARKITEKTUR.md#projekten). Issue
 - **Givet** en fil med fel rubriker, eller en rad med fel antal fält, en
   tom plan, en plan som står två gånger, ett organ utan lista med
   projekt, ett projekt som inte är en eller två delar av en adress, eller
-  `tolkad`
-  som varken är tomt eller `ja`
+  `tolkad` som varken är tomt eller `ja`
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden när det finns en, och felet.
 - **Givet** en rad med en plan som inte finns bland detaljplanerna

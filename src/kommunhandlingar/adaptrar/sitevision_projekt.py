@@ -85,36 +85,30 @@ def upptack(
             avvisade.append(Avvisad(lista, "", f"listan: {fel}"))
             continue
         for sida in sidor:
-            nya, bort = projektet(organ, sida, hamta)
+            nya, bort = med_sidorna_under(organ, sida, hamta)
             avvisade += bort
             for kandidat in nya:
                 kandidater.setdefault(kandidat.kallnyckel, kandidat)
     return list(kandidater.values()), avvisade
 
 
-def projektet(
+def med_sidorna_under(
     organ: str, sida: str, hamta: Callable[[str], str]
 ) -> tuple[list[Kandidat], list[Avvisad]]:
     """Projektsidans filer och filerna på sidorna en nivå under den, som
-    räknas som egna projekt. Djupare sidor finns inte och läses inte."""
+    räknas som egna projekt. Sidor längre ner läses inte."""
+    avvisade: list[Avvisad] = []
     try:
-        html, kandidater = pa_sidan(organ, sida, hamta)
+        html = hamta(sida)
+        kandidater = kandidater_pa(organ, sida, html)
     except FEL as fel:
         return [], [Avvisad(sida, "", f"projektsidan: {fel}")]
-    avvisade = []
     for under in dict.fromkeys(a for a in lankar(html, sida) if ar_projekt(sida, a)):
         try:
-            kandidater += pa_sidan(organ, under, hamta)[1]
+            kandidater += kandidater_pa(organ, under, hamta(under))
         except FEL as fel:
-            avvisade.append(Avvisad(under, "", f"sidan under projektet: {fel}"))
+            avvisade.append(Avvisad(under, "", f"projektsidan: {fel}"))
     return kandidater, avvisade
-
-
-def pa_sidan(
-    organ: str, sida: str, hamta: Callable[[str], str]
-) -> tuple[str, list[Kandidat]]:
-    html = hamta(sida)
-    return html, kandidater_pa(organ, sida, html)
 
 
 def kandidater_pa(organ: str, sida: str, html: str) -> list[Kandidat]:

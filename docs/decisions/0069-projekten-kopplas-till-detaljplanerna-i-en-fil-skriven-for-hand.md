@@ -61,7 +61,8 @@ granska rad för rad, som stegen i spårfilerna.
   fortfarande direkt. Ett planprogram som omfattar planens fastighet är
   `tolkad`.
 * **Projektets dokument** är organets dokument vars namn börjar med
-  projektets sista del och ett bindestreck. Börjar namnet också med ett längre
+  projektets sista del och ett bindestreck. Börjar namnet också med ett
+  längre
   projekt i filen hör det dit.
 * **Kortet** för en kopplad plan får en länk "Kommunens projektsida", med
   "tolkad" när kopplingen är tolkad, och en hopfälld lista med projektets
@@ -72,8 +73,8 @@ granska rad för rad, som stegen i spårfilerna.
 * **Bygget stoppas** med filen när rubrikerna är fel, med filen och raden
   när raden har fel antal fält, organet saknar en lista med projekt,
   planen står två gånger eller är tom, projektet inte är en eller två
-  delar av en adress eller `tolkad` är något annat än tomt eller `ja`, och med filen
-  och planen när planen inte finns på detaljplanssidan.
+  delar av en adress eller `tolkad` är något annat än tomt eller `ja`, och
+  med filen och planen när planen inte finns på detaljplanssidan.
 
 ### Consequences
 
