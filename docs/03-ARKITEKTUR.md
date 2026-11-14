@@ -2,7 +2,7 @@
 
 Det här beskriver hur poolen är tänkt att byggas. Upptäckten (steg 1)
 och hämtningen och konverteringen (steg 2) finns som kod; indexet (steg 3)
-gör det inte än. Där koden finns är det koden som gäller, och dokumentet
+byggs med webbplatsen ([Steg 3: indexet](#steg-3-indexet)). Där koden finns är det koden som gäller, och dokumentet
 rättas efter den.
 *Varför* står i [docs/decisions/](decisions/).
 
@@ -23,10 +23,10 @@ kommuner/<kommun>.toml
                                          maskade, PDF:en raderas
         │
         ▼
-3. indexera                            →  index över alla dokument och versioner
+3. indexera   med webbplatsen         →  index över alla dokument och llms.txt
 ```
 
-Varje steg är ett eget kommando. Steg 1 och 3 läser bara föregående stegs
+Steg 1 och 2 är egna kommandon; steg 3 körs när webbplatsen byggs. Steg 1 och 3 läser bara föregående stegs
 utdata; steg 2 läser kandidatlistan och dessutom poolens front matter, som
 är tillståndet. Kandidatlistan skrivs till en arbetskatalog utanför repot
 och tas fram på nytt vid varje körning. Steg 1 och 2 körs två gånger:
@@ -227,7 +227,8 @@ src/kommunhandlingar/
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
                    handlingsplanerna, redovisningarna, detaljplanerna med
-                   sina projekt, granskningarna och avvikelserna
+                   sina projekt, granskningarna och avvikelserna, och
+                   indexet med llms.txt (steg 3)
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -1519,6 +1520,30 @@ enligt `.claude/skills/granska-dokument/SKILL.md`.
   den är `null` för `ej-hamtad`, och prövar inte att ett granskat
   dokuments `ocr`- och `ej-konverterad`-sidor står i `tal_obekraftade`.
 
+## Steg 3: indexet
+
+Hur och varför står i
+[ADR-0070](decisions/0070-indexet-och-ingangen-byggs-med-webbplatsen.md)
+(K47). Indexet byggs med webbplatsen (`webbplats/index.py`) och checkas
+inte in. Det visar poolen som den är; versionerna står i git (ADR-0003).
+
+- **`<kommun>/index.jsonl`** har en rad per dokument under
+  `data/<kommun>/`, i sökvägarnas ordning. Raden är ett JSON-objekt med
+  [front matter](#front-matter) i schemats ordning: `null` blir `null`,
+  en lista en lista, och `lopnr`, `bytes`, `sidor` och sidnumren i
+  `tal_obekraftade`, `figurer` och `tolkade` blir tal. Efter front matter
+  står `fil`, sökvägen i repot (`data/<kommun>/…/<typ>.md`), `sida`,
+  sidan på webbplatsen relativt dess rot, och `tabeller`, filnamnen i
+  dokumentets tabellkatalog i bokstavsordning, `[]` när den saknas.
+  Tabellerna ligger på webbplatsen i `<sida utan .html>.tabeller/`.
+- **`llms.txt`** i webbplatsens rot (`webbplats/llms.py`) följer
+  <https://llmstxt.org/>: rubrik, sammanfattning, hur `kvalitet` och
+  `tal_obekraftade` ska läsas och en länk till fälten här, och för varje
+  kommun ett avsnitt med indexet, översikten, varje organs sida i
+  kommunfilens ordning och de filer skrivna för hand som kommunen har
+  (kalendern, målen, uppföljningarna, spårfilerna och projekten), länkade
+  med `<repo>/raw/main/`. Webbplatsens sidor länkas relativt.
+
 ## Webbplatsen
 
 Hur och varför står i
@@ -1554,7 +1579,8 @@ varje push till `main`, för hand och när ett issue med etiketten
   (`<kommun>/<organ>/handlingsplaner.html`,
   [Handlingsplaner](#handlingsplaner)),
   och en sida med avvikelserna
-  i källan (`avvikelser.html`, se nedan). Sidmallen,
+  i källan (`avvikelser.html`, se nedan), och dessutom indexet och
+  `llms.txt` ([Steg 3: indexet](#steg-3-indexet)). Sidmallen,
   menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny
   (K39) – startsidan, för varje kommun i bokstavsordning efter id dess
   översikt, kalender när den finns och statussida, och sist avvikelserna –
@@ -1574,7 +1600,7 @@ varje push till `main`, för hand och när ett issue med etiketten
   Översikten och flikarna läser samma lista (`flikar.overtid`), så att en
   ny slags sida syns på båda.
 - **Statussidan** (`<kommun>/status.html`) räknar ur front matter i varje `.md` under
-  `data/<kommun>/`, utan något index. Den har en rad per organ i
+  `data/<kommun>/`, utan att läsa indexet. Den har en rad per organ i
   kommunfilens ordning: antal sammanträden (olika `datum` och `lopnr`),
   antal dokument per `typ`, antal dokument per `kvalitet` och antal sidor
   i `tal_obekraftade`. Ett organ utan dokument står med som "inget hämtat

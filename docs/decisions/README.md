@@ -93,3 +93,4 @@ Regler för det här repot, utöver MADR:
 | 0067 | [Detaljplanerna följs steg för steg som redovisningarna, med besluten i alla organs protokoll](0067-detaljplanerna-foljs-som-redovisningarna.md) | proposed |
 | 0068 | [Projektsidornas filer blir handlingar under ett eget organ, daterade med dagen de lades upp](0068-projektsidornas-filer-blir-handlingar-under-ett-eget-organ.md) | proposed |
 | 0069 | [Projekten kopplas till detaljplanerna i en fil skriven för hand, och planens kort visar projektsidan och dokumenten](0069-projekten-kopplas-till-detaljplanerna-i-en-fil-skriven-for-hand.md) | proposed |
+| 0070 | [Indexet byggs med webbplatsen som JSON Lines per kommun, med en `llms.txt` som ingång, och checkas inte in](0070-indexet-och-ingangen-byggs-med-webbplatsen.md) | proposed |

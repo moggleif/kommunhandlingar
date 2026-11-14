@@ -1507,3 +1507,31 @@ och [Projekten](03-ARKITEKTUR.md#projekten). Issue
 - **Givet** en rad med en plan som inte finns bland detaljplanerna
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen och planen.
+
+## K47 — Poolen har ett index och en ingång för AI
+
+Hur och varför står i
+[ADR-0070](decisions/0070-indexet-och-ingangen-byggs-med-webbplatsen.md)
+och [Steg 3: indexet](03-ARKITEKTUR.md#steg-3-indexet). Issue
+[#56](https://github.com/moggleif/kommunhandlingar/issues/56).
+
+- **Givet** en kommunfil och poolens dokument under `data/<kommun>/`
+- **När** webbplatsen byggs
+- **Så** har kommunen ett index i JSON Lines på webbplatsen med en rad per
+  dokument, i sökvägarnas ordning. Raden har dokumentets hela front matter,
+  med `null` som `null`, listor som listor och tal som tal, och dessutom
+  dokumentets sökväg i repot, dess sida på webbplatsen och namnen på dess
+  tabeller.
+- **Givet** ett dokument utan tabeller
+- **När** webbplatsen byggs
+- **Så** har dess rad en tom lista med tabeller.
+- **Givet** webbplatsen
+- **När** den byggs
+- **Så** har den en `llms.txt` i roten som säger vad poolen är, hur
+  kvaliteten och de obekräftade talen ska läsas, var fälten förklaras, och
+  för varje kommun länkar till indexet, kommunens översikt, varje organs
+  sida och kommunens filer skrivna för hand som finns.
+- **Givet** en körning som hämtat nya dokument
+- **När** den checkas in
+- **Så** ändras inget index i repot, eftersom indexet bara finns på
+  webbplatsen.
