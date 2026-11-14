@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%C3%B6ten%2C%20handlingar%20och%20protokoll/Teknik/Protokoll/2015/Protokoll%20NTE%20150217.pdf
 tidigare_kallnycklar: []
-arenden: [TE/2013:314, TE/2014:561]
+arenden: [KS/2014:361, TE/2013:314, TE/2014:561]
 kalla_url: https://web.archive.org/web/20150318090135id_/http://kungsbacka.se/Global/Kommun%20och%20politik/Dokument/M%c3%b6ten,%20handlingar%20och%20protokoll/Teknik/Protokoll/2015/Protokoll%20NTE%20150217.pdf
 sha256: 261f0e17b5762b91afd62695235043d76d6e849911417fcfc9df6f11272ad260
 bytes: 78592

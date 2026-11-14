@@ -7,7 +7,7 @@ typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2021/protokoll-nvo-2021-04-21-pub.pdf
 tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50372c5]
-arenden: [2020-00354, 2020-00871, 2021-00005, 2021-00044, 2021-00048, 2021-00049, 2021-00082, 2021-00094, 2021-00095, 2021-00096, 2021-00097, 2021-00101, 2021-00123, 2021-00137, 2021-00138]
+arenden: [2020-00354, 2020-00871, 2021-00005, 2021-00044, 2021-00049, 2021-00082, 2021-00094, 2021-00095, 2021-00096, 2021-00097, 2021-00101, 2021-00123, 2021-00137, 2021-00138]
 kalla_url: https://web.archive.org/web/20220320014107id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2021/protokoll-nvo-2021-04-21-pub.pdf
 sha256: 6693c3becbb5421a5e8dcc1bb5f36d5b6abdb4e010ff80f4e38a15fb2ccb42e3
 bytes: 696898

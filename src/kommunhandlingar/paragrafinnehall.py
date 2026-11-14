@@ -2,14 +2,15 @@
 
 En paragrafs rubrik, raderna med diarienummer och beslutet, ur raderna
 efter rubrikraden. Avsnitten är protokollens egna rubriker inne i en
-paragraf; sidfoten börjar med `Justerare`.
+paragraf; sidfoten börjar med `Justerare` eller med den digitala
+signaturens första rad, som signeringstjänsten skriver längst ner.
 """
 
 import re
 from itertools import takewhile
 
 SIDA = re.compile(r"^<!-- sida (\d+) -->$")
-DNR_FORST = re.compile(r"^\s*(?:Dnr|Diarienr|Diarienummer)\b")
+DNR_FORST = re.compile(r"^\s*(?i:Dnr|Diarienr|Diarienummer)")
 AVSNITT = {
     "Beslut",
     "Beslutsgång",
@@ -36,7 +37,7 @@ AVSNITT = {
     "Yrkanden",
     "Överklagande",
 }
-SIDFOT = "Justerare"
+SIDFOT = ("Justerare", "Det här dokumentet är digitalt signerat")
 
 
 def avsnitt(rad: str) -> bool:

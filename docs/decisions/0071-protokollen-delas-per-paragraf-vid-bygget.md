@@ -48,8 +48,9 @@ dokumentet för den som läser repot.
   förkortning (`BN § 1`). Efter numret får bara ett diarienummer eller
   `forts` stå. Ett ensamt `§ 4` räknas bara efter en tom rad, en
   sidbrytning eller ett datum, eftersom det annars hör till närvarolistan
-  eller texten. Innehållsförteckningens rader känns igen på punktraden
-  efter rubriken och hoppas över. Ett avsnitt direkt efter ett med samma
+  eller texten. Innehållsförteckningens rader känns igen på punktraden och
+  sidnumret efter rubriken, på någon av rubrikens tre första rader, och
+  hoppas över. Ett avsnitt direkt efter ett med samma
   nummer är en fortsättningssida, med eller utan `forts`. Har ett nummer
   ändå flera avsnitt gäller det sista, eftersom närvarolistan kommer
   först.
@@ -82,7 +83,7 @@ dokumentet för den som läser repot.
 * Good, eftersom en AI kan följa ett diarienummer genom alla organs
   protokoll med en fil.
 * Bad, eftersom paragraferna bara finns där webbplatsen finns.
-* Bad, eftersom filen är stor, 10,9 MB för Kungsbackas 21 167 paragrafer
+* Bad, eftersom filen är stor, 10,9 MB för Kungsbackas 21 146 paragrafer
   när beslutet togs, och växer med poolen. Den delas per organ om det blir
   ett problem, som indexet (ADR-0070).
 * Bad, eftersom diarienumren 2020–2023 saknar organets förled
@@ -92,14 +93,21 @@ dokumentet för den som läser repot.
   paragraferna 2013–2019, 93 % 2020–2023 och 99 % 2024–2026. Äldre
   bygglov har ärendenumret utan `Dnr` i rubriken, och det läses inte.
 * Bad, eftersom en hänvisning som `§ 18` på en egen rad efter ett datum
-  kan dela en paragraf fel. I 45 av 1 612 protokoll kommer numren inte i
+  kan dela en paragraf fel. I 38 av 1 612 protokoll kommer numren inte i
   ordning; de flesta är dokument i delar (ADR-0049) eller paragrafer som
   justerats för sig, och inte fel.
-* Bad, eftersom 2,2 % av besluten med raden Beslut blir `null` (348 av
+* Bad, eftersom 2,1 % av besluten med raden Beslut blir `null` (328 av
   15 844), de flesta för att de når sidans slut. De står på sidan som
   raden länkar till.
 * Bad, eftersom ett sidhuvud som i textlagret står före rubriken blir
   rubriken, i omkring 40 av 21 167 paragrafer.
+* Bad, eftersom två olika ärenden som källan gett samma nummer direkt
+  efter varandra blir en paragraf, som i revisionens protokoll
+  2022-06-20 med två § 105.
+* Neutral, eftersom sidfoten känns igen på `Justerare` och på den
+  digitala signaturens första rad, som signeringstjänsten skriver. En
+  kommun med en annan tjänst får beslut som slutar i sidbrytningen i
+  stället, och de blir också `null`.
 * Neutral, eftersom orden som avslutar ett beslut (Sammanfattning,
   Beslutsmotivering, …) är svenska protokollrubriker, inte Kungsbackas. En
   kommun med andra rubriker får längre beslut tills orden läggs till.
@@ -110,9 +118,9 @@ dokumentet för den som läser repot.
 mallarna i poolen, `tests/test_arenden.py` fältet, kommandot och
 datakontrollen, och `tests/test_paragrafindex.py` raderna och länken i
 `llms.txt`. Mot hela poolen, när beslutet togs: 1 612 hämtade protokoll
-gav 21 167 paragrafer; 53 protokoll har inga, varav 32 är revisionens
+gav 21 146 paragrafer; 53 protokoll har inga, varav 32 är revisionens
 sammanträdesanteckningar. 993 protokoll räknar själva upp sina paragrafer
-(`Paragrafer §§ 1-10, 12-15`), och i 864 stämmer delningen exakt. De
+(`Paragrafer §§ 1-10, 12-15`), och i 858 stämmer delningen exakt. De
 andra är paragrafer som justerats i ett separat protokoll, sekretess, och
 uppräkningar som inte stämmer med innehållet.
 
@@ -183,9 +191,12 @@ Skolinspektionens nummer, kom med i `arenden`. Rättelserna blev de tre
 reglerna ovan: innehållsförteckningen känns igen på punktraden, ett
 avsnitt direkt efter ett med samma nummer är en fortsättning, och bara
 `Dnr` på rubrikraden eller först på en rad räknas. Att slå ihop angränsande
-avsnitt utan att först hoppa över innehållsförteckningen prövades och
-avvisades, eftersom ett protokoll med en enda paragraf då får
-förteckningens rad som början. Granskningen visade också att
+avsnitt kräver att innehållsförteckningen hoppas över först, annars får
+ett protokoll med en enda paragraf förteckningens rad som början. En
+andra granskning visade att förteckningen ofta har rubriken på två rader
+med punkterna på den andra, eller bara tre punkter, och att `Dnr2017-0782`
+och gemena `dnr` missades; reglerna prövar därför rubrikens tre första
+rader och läser `Dnr` utan hänsyn till stora och små bokstäver. Granskningen visade också att
 förteckningens rad blev en paragraf när paragrafen inte fanns i
 protokollet, och att ett beslut kunde hamna under fel paragraf när ett
 `§` tappats; därför regeln om beslutets första sida.

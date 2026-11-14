@@ -1564,9 +1564,9 @@ datakontrollen och bygget delar.
   stå; `§§ 6-9`, `§ 85/2016` och `7 kap 18 c §` är inga rubrikrader. Ett
   ensamt `§ 4` räknas bara efter en tom rad, en sidbrytning eller en rad
   med bara ett datum. Ett avsnitt går från rubrikraden till nästa.
-- **Vilka avsnitt som blir paragrafer.** Ett avsnitt vars första rad
-  efter rubrikraden har en punktrad (`....` eller `…`) är
-  innehållsförteckningens och hoppas över. Ett avsnitt direkt efter ett
+- **Vilka avsnitt som blir paragrafer.** Ett avsnitt vars rubrik, på
+  någon av sina tre första rader, har en punktrad (`....`, `…`, eller
+  `...` följt av sidnumret) är innehållsförteckningens och hoppas över. Ett avsnitt direkt efter ett
   med samma nummer är en fortsättningssida, med eller utan `forts`, och
   läggs till. Har ett nummer ändå flera avsnitt gäller det sista,
   eftersom närvarolistan räknar upp numren först. Paragraferna står i
@@ -1574,9 +1574,11 @@ datakontrollen och bygget delar.
 - **Rubriken** är första raden efter rubrikraden som inte är en
   sidbrytning eller börjar med `Dnr`, och `null` när paragrafen börjar
   med ett avsnitt (Beslut, Sammanfattning, …) eller sidfoten (en rad som
-  börjar med Justerare). Står sidhuvudet före rubriken i textlagret blir
+  börjar med Justerare, eller den digitala signaturens rad "Det här
+  dokumentet är digitalt signerat"). Står sidhuvudet före rubriken i textlagret blir
   det rubriken.
-- **Diarienumren** är numren efter `Dnr`, `Diarienr` eller `Diarienummer`
+- **Diarienumren** är numren efter `Dnr`, `Diarienr` eller `Diarienummer`,
+  med stora eller små bokstäver och med eller utan mellanslag före numret,
   på rubrikraden, numret som står ensamt där (`§ 142   GV/2014:4`), och
   numren på rader som börjar med `Dnr` före första avsnittet eller
   sidfoten, i ordning och utan dubbletter. Ett `Dnr` inne i rubriken är en

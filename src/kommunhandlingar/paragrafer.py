@@ -8,6 +8,7 @@ paragrafer avgör `paragrafer`.
 import re
 from collections.abc import Iterator
 from dataclasses import dataclass
+from itertools import dropwhile, takewhile
 
 from kommunhandlingar.diarienummer import i_huvudet
 from kommunhandlingar.paragrafinnehall import SIDA, beslut, dnr_rader, rubrik
@@ -15,7 +16,7 @@ from kommunhandlingar.paragrafinnehall import SIDA, beslut, dnr_rader, rubrik
 RUBRIKRAD = re.compile(r"^\s*(?:[A-ZÅÄÖ]{2,4}\s*)?§\s*(\d+)(.*)$")
 FORTS = re.compile(r"^[\s,./]*forts", re.IGNORECASE)
 DATUM = re.compile(r"\d{4}-\d{2}-\d{2}")
-PUNKTER = re.compile(r"\.{4}|…")
+PUNKTER = re.compile(r"\.{4}|…|\.{3}\s*\d+\s*$")
 
 
 @dataclass(frozen=True)
@@ -46,9 +47,10 @@ def paragrafer(text: str) -> list[Paragraf]:
 
 
 def forteckning(rader: list[str]) -> bool:
-    """Innehållsförteckningens rad: rubriken följs av punkter och sidan."""
-    forsta = next((r for r in rader if r.strip()), "")
-    return bool(PUNKTER.search(forsta))
+    """Innehållsförteckningens rad: rubriken, på en rad eller tre, följs av
+    en punktrad och sidan."""
+    rubrik = list(takewhile(str.strip, dropwhile(lambda r: not r.strip(), rader)))
+    return any(PUNKTER.search(rad) for rad in rubrik[:3])
 
 
 def avsnitten(rader: list[str]) -> list[tuple[int, int, int]]:

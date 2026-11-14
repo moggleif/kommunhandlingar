@@ -101,6 +101,17 @@ class TestDelningen(unittest.TestCase):
         text += "§ 40 Dnr XN-2024-00013\nBudget\n"
         self.assertEqual([p.nummer for p in paragrafer(text)], [40])
 
+    def test_en_rubrik_pa_tva_rader_i_innehallet(self):
+        text = "§ 121 Dnr XN-2026-00147\nSammanträdesdagar 2027 för\n"
+        text += "nämnden ........... 3\n\n<!-- sida 3 -->\n\n"
+        text += "§ 121 Dnr XN-2026-00147\nSammanträdesdagar 2027\nBeslut\nJa.\n"
+        (paragraf,) = paragrafer(text)
+        self.assertEqual((paragraf.sida, paragraf.beslut), (3, "Ja."))
+
+    def test_innehallet_med_tre_punkter(self):
+        text = "§ 154 Dnr XN-2026-00001\nDetaljplan ... 3\n\n§ 155\nBudget\n"
+        self.assertEqual([p.nummer for p in paragrafer(text)], [155])
+
     def test_en_annan_myndighets_nummer_i_rubriken(self):
         text = "§ 98   Dnr XN-2026-00498\nJO Begäran om yttrande Dnr 7537-2026\n"
         (paragraf,) = paragrafer(text)
@@ -130,6 +141,11 @@ class TestBeslutet(unittest.TestCase):
 
     def test_ett_beslut_som_nar_sidans_slut_blir_null(self):
         text = "§ 3\nBygglov\nBeslut\nBeviljas med\n\nJusterare   Expedierat\n"
+        self.assertIsNone(paragrafer(text)[0].beslut)
+
+    def test_ett_beslut_som_nar_signaturen_blir_null(self):
+        text = "§ 3\nBygglov\nBeslut\nBeviljas\n\n"
+        text += "Det här dokumentet är digitalt signerat\n"
         self.assertIsNone(paragrafer(text)[0].beslut)
 
     def test_beslut_med_kolon(self):
@@ -162,6 +178,12 @@ class TestDiarienummer(unittest.TestCase):
         self.assertEqual(i_huvudet("Dnr BN 2024-000123"), ["BN-2024-000123"])
         self.assertEqual(i_huvudet("Dnr MH-2021- 3122"), ["MH-2021-3122"])
         self.assertEqual(i_huvudet("Dnr BN 2016–000170"), ["BN-2016-000170"])
+
+    def test_dnr_utan_mellanslag_och_med_gemener(self):
+        text = "§ 418\nBygglov\nDnr2017-0782\n\n§ 419\nAnmälan\ndnr 2017-0790\n"
+        self.assertEqual(
+            [p.diarienummer for p in paragrafer(text)], [["2017-0782"], ["2017-0790"]]
+        )
 
     def test_inget_nummer_utan_dnr(self):
         self.assertEqual(i_huvudet("Kyrkobyn 1:8 - Strandskyddsdispens, 2014-0849"), [])
