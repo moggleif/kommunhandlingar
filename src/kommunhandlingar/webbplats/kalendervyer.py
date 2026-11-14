@@ -1,5 +1,5 @@
-"""Krav: K22 och K32 i docs/02-KRAV.md, ADR-0032 och ADR-0053.
-Test: tests/test_kalender.py.
+"""Krav: K22, K32 och K49 i docs/02-KRAV.md, ADR-0032, ADR-0053 och ADR-0072.
+Test: tests/test_kalender.py och tests/test_gruppmoten.py.
 
 Kalenderns två vyer: en tabell per månad, måndag först, med en ruta per
 sammanträde, och en lista med en tabell per månad och en knapp för det som
@@ -10,11 +10,11 @@ import calendar
 from collections import defaultdict
 from html import escape
 
-from kommunhandlingar.webbplats.kalender import Sammantrade
+from kommunhandlingar.gruppmote import VECKODAGAR
+from kommunhandlingar.webbplats.kalender import GRUPPMOTE, Sammantrade
 
 MANADER = ["januari", "februari", "mars", "april", "maj", "juni", "juli"]
 MANADER += ["augusti", "september", "oktober", "november", "december"]
-VECKODAGAR = ["måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag", "söndag"]
 
 
 def manadsnamn(ar: int, manad: int) -> str:
@@ -79,7 +79,7 @@ def dagcell(dag: int, rutor: list[str]) -> str:
 
 
 def ruta(s: Sammantrade) -> str:
-    text = " ".join(filter(None, [s.organ.upper(), s.tid, "?" if s.osakert else ""]))
+    text = " ".join(filter(None, [kort(s.organ), s.tid, "?" if s.osakert else ""]))
     klass = f"ruta o-{s.organ}" + (" osakert" if s.osakert else "")
     plats = f' title="{escape(s.plats)}"' if s.plats else ""
     return f'<span class="{klass}" data-organ="{s.organ}"{plats}>{escape(text)}</span> '
@@ -109,7 +109,7 @@ def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
     )
     celler = [
         datumtext(s) + osakert,
-        f'<span class="ruta o-{s.organ}">{s.organ.upper()}</span> '
+        f'<span class="ruta o-{s.organ}">{kort(s.organ)}</span> '
         + escape(namn[s.organ]),
         escape(s.tid),
     ]
@@ -122,3 +122,7 @@ def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
 
 def datumtext(s: Sammantrade) -> str:
     return f"{VECKODAGAR[s.datum.weekday()]} {s.datum.isoformat()}"
+
+
+def kort(organ: str) -> str:
+    return "Gruppmöte" if organ == GRUPPMOTE else organ.upper()
