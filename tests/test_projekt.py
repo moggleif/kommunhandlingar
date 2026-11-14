@@ -47,8 +47,12 @@ class TestLas(unittest.TestCase):
             "skolan-plankarta": "PM%20Plankarta%20f%C3%B6r%20R-51%202021-10-08.pdf",
             "skolan-del-2-buller": "Buller.pdf",
             "annat-skolan-pm": "PM.pdf",
+            "detaljplan-skolan-plankarta": "Plankarta.pdf",
         }
-        rader = f"fsn,{PLAN},skolan,\nfsn,Annan plan,skolan-del-2,ja\n"
+        rader = (
+            f"fsn,{PLAN},skolan,\nfsn,Annan plan,skolan-del-2,ja\n"
+            "fsn,Tredje plan,skolan/detaljplan-skolan,\n"
+        )
         projekten = las(rader, filer)
         skolan = projekten[PLAN]
         self.assertEqual(skolan.adress, f"{LISTA}/skolan")
@@ -65,6 +69,9 @@ class TestLas(unittest.TestCase):
         )
         self.assertEqual([d[1] for d in projekten["Annan plan"].dokument], ["Buller"])
         self.assertTrue(projekten["Annan plan"].tolkad)
+        under = projekten["Tredje plan"]
+        self.assertEqual(under.adress, f"{LISTA}/skolan/detaljplan-skolan")
+        self.assertEqual([d[1] for d in under.dokument], ["Plankarta"])
 
     def test_fel_rubrik_stoppar(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -78,7 +85,8 @@ class TestLas(unittest.TestCase):
             "bun,X,skolan,\n": "ingen lista med projekt",
             f"fsn,{PLAN},skolan,\nfsn,{PLAN},annat,\n": "står redan i filen",
             "fsn,,skolan,\n": "är tom",
-            f"fsn,{PLAN},Skolan/1,\n": "inte en del av en adress",
+            f"fsn,{PLAN},Skolan/1,\n": "inte en eller två delar",
+            f"fsn,{PLAN},a/b/c,\n": "inte en eller två delar",
             f"fsn,{PLAN},skolan,kanske\n": "varken tom eller ja",
             f"fsn,{PLAN},skolan\n": "3 fält",
         }

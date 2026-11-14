@@ -59,7 +59,12 @@ sökvägen.
 * **Källan** är ett nytt fält i Sitevision-källan, `projekt`: organet och
   adressen till listan. Listans bläddringssidor (samma adress med en
   enda parameter vars värde är ett tal från 2) följs, men inte filtren, som
-  `robots.txt` stänger. Varje länk en nivå under listan är ett projekt.
+  `robots.txt` stänger. Varje länk en nivå under listan är ett projekt,
+  och så är varje länk på en projektsida en nivå under den
+  ([#262](https://github.com/moggleif/kommunhandlingar/issues/262)):
+  kommunen lägger ibland ett delprojekt, som en detaljplan inom ett större
+  projekt, på en egen sida där. Sidor längre ner följs inte; det fanns
+  inga 2026-11-14.
 * **Typen** är alltid `handlingar`.
 * **Datumet** är dagen filen lades upp, i svensk tid, ur tidsstämpeln i
   Sitevisions adress (`/download/18.<nod-id>/<millisekunder>/…`). Den
@@ -67,10 +72,13 @@ sökvägen.
   så en ny version av filen, med en ny tidsstämpel, hamnar på samma plats.
 * **Namnet** bildas som andra namn (ADR-0003) ur projektsidans sista del i
   adressen och filnamnet utan ändelse:
-  `bostader-i-fjaras-planbeskrivning`. Ett dokument från en projektsida
-  har alltid ett namn, som en bilaga.
+  `bostader-i-fjaras-planbeskrivning`, och för en sida under ett annat
+  projekt ur den sidans sista del:
+  `detaljplan-for-kungsbacka-arena-planbeskrivning`. Ett dokument från en
+  projektsida har alltid ett namn, som en bilaga.
 * **En fil på flera ställen** blir en kandidat (K2): mötessidan går före,
-  sedan den första projektsidan i listans ordning.
+  sedan den första projektsidan i listans ordning, och projektsidan före
+  sidan under den.
 * **En lista eller projektsida som inte går att hämta eller läsa** står i
   sammanfattningen, och upptäckten fortsätter. Till skillnad från
   mötessidorna stoppar den aldrig upptäckten: ett fel bland projekten ska
@@ -91,8 +99,13 @@ sökvägen.
   Två filer i samma projekt samma dag får då ett löpnummer efter namnet,
   `<namn>-2`, så att projektet står kvar.
 * Bad, eftersom upptäckten varje natt hämtar listan och alla
-  projektsidor, cirka 155 sidor med 5 sekunder emellan, ungefär 13 minuter
-  av tidsbudgeten.
+  projektsidor, cirka 160 sidor med 5 sekunder emellan, ungefär 13 minuter
+  av tidsbudgeten. Sidorna under andra projekt var fem 2026-11-14.
+* Bad, eftersom namnet bara bär sidans sista del: två sidor under olika
+  projekt med samma sista del, eller en sida under ett projekt med samma
+  sista del som ett projekt på listan, får namn som börjar likadant, och
+  kopplingen till detaljplanerna (ADR-0069) skiljer dem inte åt. De fem
+  sidorna 2026-11-14 krockar inte.
 * Neutral, eftersom organets sida på webbplatsen räknar varje
   uppläggningsdag som ett sammanträde tills visningen är bestämd.
 * Neutral, eftersom bilder och kartor utan text blir `ej-konverterad`
@@ -104,7 +117,8 @@ sökvägen.
 Testerna i `tests/test_sitevision_projekt.py` läser en påhittad lista med
 två bläddringssidor och projektsidor i båda formerna av fillista, och
 kontrollerar datum, namn, organ, dubbletter och en projektsida som inte
-svarar. Den första nattkörningen efter mergen ska visa organet
+svarar, och att en sida under en projektsida läses men inte sidorna under
+den. Den första nattkörningen efter mergen ska visa organet
 `bygg-projekt` med kandidater i sammanfattningen.
 
 ## Pros and Cons of the Options

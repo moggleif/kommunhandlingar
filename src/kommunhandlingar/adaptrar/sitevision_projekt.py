@@ -1,9 +1,9 @@
 """Krav: K45 i docs/02-KRAV.md, ADR-0068. Test: tests/test_sitevision_projekt.py.
 
 Kommunens lista med projekt: listan och dess bläddringssidor ger
-projektsidorna, och varje fil på en projektsida blir handlingar under
-organet, daterad med dagen den lades upp och namngiven efter projektet
-och filen.
+projektsidorna, och en sida en nivå under en projektsida är ett eget
+projekt. Varje fil på en projektsida blir handlingar under organet,
+daterad med dagen den lades upp och namngiven efter projektet och filen.
 """
 
 import re
@@ -61,10 +61,11 @@ def bladdring(lista: str, adress: str) -> bool:
     return sokvag == lista and bool(traff) and int(traff[1]) > 1
 
 
-def ar_projekt(lista: str, adress: str) -> bool:
+# En sida direkt under listan, eller under en projektsida.
+def ar_projekt(ovan: str, adress: str) -> bool:
     delar = urlsplit(adress)
     sokvag = PurePosixPath(delar.path)
-    return not delar.query and str(sokvag.parent) == urlsplit(lista).path.rstrip("/")
+    return not delar.query and str(sokvag.parent) == urlsplit(ovan).path.rstrip("/")
 
 
 # Ett fel här stoppar aldrig upptäckten (ADR-0068): sidan hoppas över och
@@ -84,14 +85,30 @@ def upptack(
             avvisade.append(Avvisad(lista, "", f"listan: {fel}"))
             continue
         for sida in sidor:
-            try:
-                nya = kandidater_pa(organ, sida, hamta(sida))
-            except FEL as fel:
-                avvisade.append(Avvisad(sida, "", f"projektsidan: {fel}"))
-                continue
+            nya, bort = med_sidorna_under(organ, sida, hamta)
+            avvisade += bort
             for kandidat in nya:
                 kandidater.setdefault(kandidat.kallnyckel, kandidat)
     return list(kandidater.values()), avvisade
+
+
+def med_sidorna_under(
+    organ: str, sida: str, hamta: Callable[[str], str]
+) -> tuple[list[Kandidat], list[Avvisad]]:
+    """Projektsidans filer och filerna på sidorna en nivå under den, som
+    räknas som egna projekt. Sidor längre ner läses inte."""
+    avvisade: list[Avvisad] = []
+    try:
+        html = hamta(sida)
+        kandidater = kandidater_pa(organ, sida, html)
+    except FEL as fel:
+        return [], [Avvisad(sida, "", f"projektsidan: {fel}")]
+    for under in dict.fromkeys(a for a in lankar(html, sida) if ar_projekt(sida, a)):
+        try:
+            kandidater += kandidater_pa(organ, under, hamta(under))
+        except FEL as fel:
+            avvisade.append(Avvisad(under, "", f"projektsidan: {fel}"))
+    return kandidater, avvisade
 
 
 def kandidater_pa(organ: str, sida: str, html: str) -> list[Kandidat]:

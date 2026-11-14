@@ -1466,6 +1466,13 @@ och [Projektsidorna](03-ARKITEKTUR.md#projektsidorna). Issue
 - **Så** blir sidans filer inga kandidater den körningen, adressen och
   orsaken står i sammanfattningen, och upptäckten fortsätter, så att
   mötena hämtas ändå.
+- **Givet** en projektsida med en länk till en sida under sig, en nivå
+  ner ([#262](https://github.com/moggleif/kommunhandlingar/issues/262))
+- **När** upptäckten körs
+- **Så** är sidan under ett eget projekt: varje fil på den blir en
+  kandidat med den sidans namn, och en fil som också står på projektsidan
+  blir projektsidans. Sidor längre ner följs inte. En sida under som inte
+  går att hämta eller läsa står i sammanfattningen som en projektsida.
 
 ## K46 — Detaljplanerna länkar till kommunens projekt
 
@@ -1493,8 +1500,8 @@ och [Projekten](03-ARKITEKTUR.md#projekten). Issue
   fortsätter.
 - **Givet** en fil med fel rubriker, eller en rad med fel antal fält, en
   tom plan, en plan som står två gånger, ett organ utan lista med
-  projekt, ett projekt som inte är en del av en adress eller `tolkad`
-  som varken är tomt eller `ja`
+  projekt, ett projekt som inte är en eller två delar av en adress, eller
+  `tolkad` som varken är tomt eller `ja`
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden när det finns en, och felet.
 - **Givet** en rad med en plan som inte finns bland detaljplanerna
