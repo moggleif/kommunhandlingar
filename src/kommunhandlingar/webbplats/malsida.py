@@ -5,9 +5,9 @@ tests/test_malkort.py, tests/test_malar.py och tests/test_fokusomraden.py.
 Sidan om ett organs mål och direktiv: en hopfälld del om metoden, antalet
 per år (`malstatistik.py`), ett urval och tre perspektiv: tidslinjen
 (`maltidslinje.py`), ett år i taget (`malar.py`) och ett kort per spår
-(`malkort.py`). Skriptet i `mal.js` visar ett perspektiv och bara det som
-valts, och öppnar kortet för ett mål som väljs i tidslinjen; utan det står
-allt på sidan. Stilen står i `mal.css`.
+(`malkort.py`). Skriptet i `mal.js` visar bara det som valts och öppnar
+kortet för ett mål som väljs i tidslinjen, och `perspektiv.js` visar ett
+perspektiv i taget; utan dem står allt på sidan. Stilen står i `mal.css`.
 """
 
 from collections import defaultdict
@@ -24,6 +24,7 @@ from kommunhandlingar.webbplats.malstatistik import protokollar, statistik
 from kommunhandlingar.webbplats.maltidslinje import namnden_rad, tidslinje
 
 SKRIPT = Path(__file__).with_name("mal.js")
+PERSPEKTIVSKRIPT = Path(__file__).with_name("perspektiv.js")
 STIL = Path(__file__).with_name("mal.css")
 ADR = "/blob/main/docs/decisions/"
 ADR_0044 = "0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md"
@@ -116,9 +117,16 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
         )
         + vy("ar", aren(Underlag(spar, ar, luckor, uppfoljda, protokoll)))
         + vy("kort", korten(spar, ar, luckor))
-        + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
+        + skript()
     )
     return sida(mall, sidans, f"Mål och direktiv – {namn}", innehall)
+
+
+def skript() -> str:
+    return "".join(
+        f"<script>{fil.read_text(encoding='utf-8')}</script>"
+        for fil in (SKRIPT, PERSPEKTIVSKRIPT)
+    )
 
 
 def vy(namn: str, innehall: str) -> str:

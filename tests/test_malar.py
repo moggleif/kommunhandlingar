@@ -99,3 +99,4 @@ class TestPerspektiven(unittest.TestCase):
         self.assertEqual(vyer, sorted(vyer))
         self.assertLess(html.index('class="urval"'), vyer[0])
         self.assertIn('<div class="arval" role="group" aria-label="År" hidden>', html)
+        self.assertIn("// Krav: K50 i docs/02-KRAV.md, ADR-0073.", html)

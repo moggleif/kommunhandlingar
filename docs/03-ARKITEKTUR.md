@@ -1899,15 +1899,15 @@ filen (K26), länkad från organets sida.
   Det tidslinjen och korten delar, som årets status, spårets rubrik och
   slag och radens data-attribut för urvalet, står i
   `webbplats/malspar.py`. Stilen står i `webbplats/mal.css`.
-- **Skriptet** (`webbplats/mal.js`) står i sidan. Det visar ett perspektiv
-  i taget, tidslinjen när adressen inte säger något, och i Ett år i taget
-  ett år, det senaste när adressen inte säger något. Valet står i
-  frågesträngen (`?vy=tidslinje`, `?vy=ar&ar=2025`, `?vy=kort`) och läggs i
-  webbläsarens historik, och en adress med `#mal-N` visar målkorten. Det visar urvalet och
-  döljer det som inte valts, i tidslinjen och bland korten, och öppnar
-  historiken på kortet när ett mål väljs i tidslinjen. Ett kommunmåls kort
-  visas när ett av dess fokusområden visas. Utan skriptet
-  visas allt och urvalet är dolt.
+- **Skripten** står i sidan. `webbplats/mal.js` visar urvalet och
+  döljer det som inte valts, i alla perspektiv, och öppnar historiken på
+  kortet när ett mål väljs i tidslinjen. Ett kommunmåls kort visas när ett
+  av dess fokusområden visas. `webbplats/perspektiv.js` visar ett
+  perspektiv i taget, tidslinjen när adressen inte säger något, och i Ett
+  år i taget ett år, det senaste när adressen inte säger något. Valet står
+  i frågesträngen (`?vy=tidslinje`, `?vy=ar&ar=2025`, `?vy=kort`) och läggs
+  i webbläsarens historik, och en adress med `#mal-N` visar målkorten.
+  Utan skripten visas allt och väljarna är dolda.
 
 ### Uppföljningar i nämnden
 

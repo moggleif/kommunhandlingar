@@ -69,13 +69,14 @@ Valt: tre perspektiv på samma sida med en väljare, valet i frågesträngen.
   behövs.
 * Bad, eftersom sidan blir större: Ett år i taget upprepar årets rader ur
   korten, och utan skript blir sidan mycket lång.
-* Bad, eftersom skriptet får ett tillstånd att hålla i takt med adressen.
+* Bad, eftersom ett skript till får ett tillstånd att hålla i takt med
+  adressen.
 
 ### Confirmation
 
 `tests/test_malar.py` prövar Ett år i taget med en påhittad kommun: nytt,
-försvann, luckan, år utan mål och protokollen. `tests/test_malkort.py`
-prövar att perspektiven och väljaren står på sidan. Skriptet prövas för
+försvann, luckan, år utan mål och protokollen, och att perspektiven,
+väljarna och skriptet `perspektiv.js` står på sidan. Skriptet prövas för
 hand i en webbläsare: perspektiven, åren, urvalet i alla tre, adressen,
 bakåt och framåt, och ett mål valt i tidslinjen.
 

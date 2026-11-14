@@ -66,8 +66,9 @@ Valt: CSS-variabler med `light-dark()` och en knapp som minns valet.
 
 ### Confirmation
 
-`tests/test_webbplats.py` prövar att varje sida har knappen och skriptet,
-och att stilarna inte har några färger utanför variablerna.
+`tests/test_tema.py` prövar att sidan har knappen och skriptet i
+`<head>`, och att stilarna och figurerna inte har några färger utanför
+variablerna.
 Läsbarheten prövas för hand i båda temana på en målsida, en spårsida, en
 dokumentsida och kalendern.
 
