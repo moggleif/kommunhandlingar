@@ -11,8 +11,8 @@ from pathlib import Path
 
 from kommunhandlingar.pool import Pool
 
-FRONT_MATTER = ("organ", "datum", "typ", "kallnyckel", "kalla_url", "sha256")
-RUBRIK = ("sedd", *FRONT_MATTER, "dokument")
+FRONT_MATTER = ("organ", "datum", "typ", "kallnyckel", "kalla_url")
+RUBRIK = ("sedd", *FRONT_MATTER, "sha256", "dokument")
 
 
 def versioner(pool: Pool) -> dict[str, tuple[str, str]]:
@@ -26,14 +26,21 @@ def version(falt: dict[str, str]) -> tuple[str, str]:
     return falt["kalla_url"], falt["sha256"]
 
 
-def nya(fore: dict[str, tuple[str, str]], efter: Pool, sedd: datetime) -> list:
+def nya(
+    fore: dict[str, tuple[str, str]], efter: Pool, sedd: datetime
+) -> list[list[str]]:
     rader = []
     for nyckel, sokvag in sorted(efter.efter_nyckel.items()):
         falt = efter.efter_sokvag[sokvag]
         if fore.get(nyckel) != version(falt):
-            varden = [falt[k] for k in FRONT_MATTER]
+            varden = [falt[k] for k in FRONT_MATTER] + [sha256(falt)]
             rader.append([sedd.isoformat(), *varden, str(sokvag)])
-    return [["" if v == "null" else v for v in rad] for rad in rader]
+    return rader
+
+
+def sha256(falt: dict[str, str]) -> str:
+    """Tomt när dokumentet inte gick att hämta."""
+    return "" if falt["sha256"] == "null" else falt["sha256"]
 
 
 def skriv(fil: Path, rader: list[list[str]]) -> None:

@@ -1701,7 +1701,8 @@ och [Versionsloggen](03-ARKITEKTUR.md#versionsloggen).
   ovanpå den grenen, med en egen gren och PR.
 - **Givet** att den första delen faller
 - **När** körningen fortsätter
-- **Så** körs arkivet ändå, från `main`.
+- **Så** börjar den andra delen från `main` och tar de levande källorna
+  igen; går de igenom där körs arkivet.
 - **Givet** ett dokument från en levande källa som poolen inte har, eller som
   har fått en ny adress eller ett nytt innehåll
 - **När** steg 2 har tagit in det, också när det inte gick att hämta eller

@@ -56,7 +56,8 @@ versionerna lagras.
 * **Jobbet `arkiv`** startar när `moten` är klart, från dess gren eller,
   utan gren eller om `moten` föll, från `main`. Det gör upptäckten om och
   kör steg 2 för de levande källorna, som då har omkonverteringen kvar
-  (ADR-0019) och det som kommit sedan mötenas jobb, sedan arkivet, och
+  (ADR-0019) och det som kommit sedan mötenas jobb, eller allt levande om
+  `moten` föll, och sedan arkivet, om det levande steget gick igenom. Det
   checkar in på
   `nattkorning/<datum>-<id>-arkiv`. Grenen bygger på mötenas, så att de två
   PR:erna aldrig krockar: mergas arkivets först följer mötenas commit med.
