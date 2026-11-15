@@ -1,9 +1,11 @@
-"""Krav: K4–K6 och K52, ADR-0005, ADR-0009 och ADR-0075.
+"""Krav: K4–K6, K52 och K55, ADR-0005, ADR-0009, ADR-0075 och ADR-0079.
 Test: tests/test_konvertering.py och tests/test_tidsbudget.py.
 
 Läser en PDF sida för sida och ger Markdown-texten, tabellerna som CSV och
-kvaliteten per sida och för dokumentet. Blir läsningen inte klar inom
-dokumentets tidsgräns är dokumentet `ej-konverterad` med `fel: tidsgrans`.
+kvaliteten per sida och för dokumentet. En sida med fler tecken än taket
+läses inte: den blir `ej-konverterad` och märks som figur. Blir läsningen
+inte klar inom dokumentets tidsgräns är dokumentet `ej-konverterad` med
+`fel: tidsgrans`.
 """
 
 import sys
@@ -20,6 +22,8 @@ from kommunhandlingar.konvertering.las_sida import Sida, las_sida
 
 VERKTYG = ("pdfplumber", "pdfminer.six")
 PDF_BORJAN = b"%PDF-"
+TECKENTAK = 500_000
+TUNG_SIDA = Sida("ej-konverterad", True, figur=True)
 
 
 @dataclass(frozen=True)
@@ -95,6 +99,19 @@ def las_sidor(pdf: Path) -> list[Sida]:
     with pdfium.PdfDocument(pdf) as rendering, pdfplumber.open(pdf) as dokument:
         sidor = []
         for nr, sida in enumerate(dokument.pages, 1):
-            sidor.append(las_sida(sida, rendering[nr - 1]))
+            sidor.append(las_under_taket(sida, rendering[nr - 1]))
             sida.close()
         return sidor
+
+
+def las_under_taket(sida: pdfplumber.page.Page, rendering: pdfium.PdfPage) -> Sida:
+    if tecken(rendering) > TECKENTAK:
+        return TUNG_SIDA
+    return las_sida(sida, rendering)
+
+
+def tecken(rendering: pdfium.PdfPage) -> int:
+    textsida = rendering.get_textpage()
+    antal = textsida.count_chars()
+    textsida.close()
+    return antal
