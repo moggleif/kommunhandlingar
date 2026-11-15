@@ -1,0 +1,95 @@
+,"Dokumenterad testmetodik för nya
+IT-system införd hösten 2019.
+Dokumenterad testmetodik är
+införd hösten 2019 och
+rekommenderas att användas både
+vid upphandling av nya IT-system
+men även vid uppgraderingar av
+befintliga. Säkerhetsaspekter ska
+testas.
+Enligt systemförvaltarmodellen ska
+följande dokumentation finnas
+(minimumnivå):
+• Avtal med leverantör av
+verksamhetssystem eller digitalt
+verktyg (upprättas i samband med
+upphandling, ska överlämnas av
+projekt)
+• Personuppgiftsbiträdesavtal
+(PUB-avtal)
+• Service Level Agreement (SLA) i
+samband med upphandling
+(Överenskommelse med leverantör
+av drift)
+• Förvaltningsplan (upprättas och
+revideras årligen)
+• Beskrivning av teknisk miljö,
+integrationer etc (SE DC Driftwiki)
+I Förvaltningsplanen beskrivs
+hantering av behörigheter för
+respektive system.",,
+"Brist på formella rutiner för
+uppföljning av efterlevnad av
+kommunens policy och riktlinjer för
+personuppgiftshantering.","Rutin för årlig uppföljning av policy
+och riktlinjer för
+personuppgiftshantering tas fram.",Säkerhetschef,2020
+"Brist på kommunövergripande
+kontinuitetsplanering och periodiskt
+genomförande av en övergripande
+analys (specifik utifrån
+informationssäkerhetsrelaterade
+risker)","Plan för återkommande analys av
+informationssäkerhetsrelaterade
+risker införs.
+Riktlinjer för krisberedskap (under
+beslut) kräver att varje nämnd tar
+fram kontinuitetsplaner för
+samhällsviktig verksamhet. Former
+för planering av
+kommungemensamt arbete och
+uppföljning av nämndernas arbete i
+frågan ses över inför 2021.","Specialist
+informationssäkerhet
+Specialister för
+informationssäkerhet
+respektive
+krisberedskap","Enligt riktlinjer
+informationssäkerhet
+december 2020"
+"Det saknas riktlinjer för uppföljning
+och övervakning av extern leverantör","Se svar på observationen ”Möjlighet
+till insyn i leverantörs arbete med IT",Respektive systemägare,december 2020
+(Pulsen/Combine),"och informationssäkerhet är inte
+avtalat” som anger vägen framåt.
+Uppföljning av befintligt avtal med
+Pulsen/Combine sker inom ramen
+för systemförvaltarmodellen.",och förvaltare,
+"Riktlinjer och policies för
+behörighetshantering är inte
+definierade och kritiska kontroller
+saknas (Combine)","Kraven för behörighetshantering
+regleras av befintlig
+klassningsmodell och
+systemförvaltarmodell. Enligt
+systemförvaltarmodellen ska
+behörighetshantering beskrivas
+utifrån klassning i
+förvaltningsplanen för systemet,
+vilken tas fram av systemförvaltaren.
+Följsamhet till befintliga rutiner är
+en del av intern kontrollplanen
+2019. Uppföljning av resultat och
+åtgärd av eventuella brister under
+2020.
+Ny rutin för avslut av anställning
+och motsvarande avslut av
+behörigheter införd 2019.","Respektive systemägare
+och förvaltare",december 2020
+"Kungsbacka kommun saknar insikt i
+extern leverantörs testning Combine)","Se tidigare punkt angående avtal.
+Insyn i testning ingår vid behov i
+kravställning.
+För Combine specifikt sker
+diskussion med berörd leverantör.","Systemägare och
+förvaltare.",december 2020

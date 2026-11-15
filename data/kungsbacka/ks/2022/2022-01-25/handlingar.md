@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/handlingar/2022/2022-01-25/ks-handlingar-2022-01-25_pub.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a501a6de]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320065701id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/handlingar/2022/2022-01-25/ks-handlingar-2022-01-25_pub.pdf
 sha256: a7babb6bf327e1a8333e6772ec62a742034c5d6c9611486e1c9f0ea3ce343100
