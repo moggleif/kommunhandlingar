@@ -1,19 +1,22 @@
-"""Krav: K11, ADR-0006. Kod: src/kommunhandlingar/tidsbudget.py och hamta.py."""
+"""Krav: K11 och K52, ADR-0006 och ADR-0075.
+Kod: src/kommunhandlingar/tidsbudget.py, behandla.py och hamta.py."""
 
 import os
 import signal
 import tempfile
+import time
 import unittest
 from datetime import timedelta
 from pathlib import Path
 from unittest import mock
 
-from kommunhandlingar import pool, tidsbudget
+from kommunhandlingar import frontmatter, pool, tidsbudget
 from kommunhandlingar.behandla import Steg2
 from kommunhandlingar.datakontroll import fel_i
 from kommunhandlingar.hamta import kor
-from kommunhandlingar.tidsbudget import Tidsgrans, avbryt, utan_avbrott
-from tests.test_hamta import TID, Klient, kandidat
+from kommunhandlingar.konvertering import dokument
+from kommunhandlingar.tidsbudget import Dokumentgrans, Tidsgrans, avbryt, utan_avbrott
+from tests.test_hamta import PDF, TID, Klient, kandidat
 
 
 class Avbrytande(Klient):
@@ -113,6 +116,125 @@ class TestSkrivningenAvbrytsInte(unittest.TestCase):
             skrivet = True
         self.assertTrue(skrivet)
         self.assertNotIn(signal.SIGALRM, signal.sigpending())
+
+
+class TestDokumentetsGrans(unittest.TestCase):
+    def setUp(self):
+        katalog = tempfile.TemporaryDirectory()
+        self.addCleanup(katalog.cleanup)
+        self.data = Path(katalog.name)
+        self.klient = Klient()
+        self.klient.filer |= {"u1": "sidor.pdf", "u2": "begransad.pdf"}
+        self.kandidater = [
+            kandidat("s:1", "u1"),
+            kandidat("s:2", "u2", "kallelse", "2.pdf"),
+        ]
+
+    def kor(self, version: str = "kommunhandlingar 0.1.0"):
+        steg = Steg2(
+            self.data,
+            "exempelby",
+            pool.las(self.data, "exempelby"),
+            self.klient,
+            frozenset(k.kallnyckel for k in self.kandidater),
+            lambda: TID,
+            version,
+            omkonvertera=True,
+        )
+        return kor(steg, self.kandidater, TID + timedelta(hours=1))
+
+    def falt(self, namn: str) -> dict[str, str]:
+        md = self.data / "exempelby/ks/2025/2025-04-22" / f"{namn}.md"
+        return frontmatter.las(md.read_text(encoding="utf-8"))
+
+    def test_dokumentet_blir_ej_konverterat_och_nasta_tas(self):
+        las_sidor = dokument.las_sidor
+
+        def forsta_tar_for_lang_tid(pdf):
+            if pdf.read_bytes() == (PDF / "sidor.pdf").read_bytes():
+                raise Dokumentgrans
+            return las_sidor(pdf)
+
+        with mock.patch(
+            "kommunhandlingar.konvertering.dokument.las_sidor",
+            side_effect=forsta_tar_for_lang_tid,
+        ):
+            utfall = self.kor()
+        self.assertEqual(utfall, {"ej konverterad (tidsgrans)": 1, "konverterad": 1})
+        falt = self.falt("protokoll")
+        self.assertEqual(
+            (falt["kvalitet"], falt["fel"]), ("ej-konverterad", "tidsgrans")
+        )
+        self.assertEqual(self.falt("kallelse")["fel"], "null")
+        self.assertEqual(fel_i(self.data), [])
+
+    def test_nasta_korning_tar_inte_dokumentet_igen(self):
+        with mock.patch(
+            "kommunhandlingar.konvertering.dokument.las_sidor",
+            side_effect=Dokumentgrans,
+        ):
+            self.kor()
+        self.assertEqual(self.kor(), {"oförändrad": 2})
+
+    def test_en_omkonvertering_vid_gransen_lamnar_texten_orord(self):
+        self.kor()
+        md = self.data / "exempelby/ks/2025/2025-04-22/protokoll.md"
+        fore = md.read_text(encoding="utf-8")
+        with mock.patch(
+            "kommunhandlingar.konvertering.dokument.las_sidor",
+            side_effect=Dokumentgrans,
+        ):
+            utfall = self.kor("kommunhandlingar 0.2.0")
+        orord = "ej konverterad (tidsgrans), fullständig .md orörd"
+        self.assertEqual(utfall, {orord: 2})
+        self.assertEqual(md.read_text(encoding="utf-8"), fore)
+
+    def test_en_ny_version_vid_gransen_skrivs_over(self):
+        self.kor()
+        self.klient.filer["u1"] = "begransad.pdf"
+        with mock.patch(
+            "kommunhandlingar.konvertering.dokument.las_sidor",
+            side_effect=Dokumentgrans,
+        ):
+            utfall = self.kor("kommunhandlingar 0.2.0")
+        orord = "ej konverterad (tidsgrans), fullständig .md orörd"
+        self.assertEqual(utfall, {"ej konverterad (tidsgrans)": 1, orord: 1})
+        self.assertEqual(self.falt("protokoll")["fel"], "tidsgrans")
+
+
+class TestHogst(unittest.TestCase):
+    def setUp(self):
+        gammal = signal.signal(signal.SIGALRM, avbryt)
+        self.addCleanup(signal.signal, signal.SIGALRM, gammal)
+        self.addCleanup(tidsbudget.stoppa)
+
+    def test_gransen_avbryter_blocket(self):
+        with self.assertRaises(Dokumentgrans), tidsbudget.hogst(1):
+            time.sleep(3)
+        self.assertEqual(signal.alarm(0), 0)
+        self.assertEqual(signal.getsignal(signal.SIGALRM), avbryt)
+
+    def test_den_harda_gransen_stalls_tillbaka(self):
+        signal.setitimer(signal.ITIMER_REAL, 3600)
+        with tidsbudget.hogst(60):
+            self.assertAlmostEqual(signal.getitimer(signal.ITIMER_REAL)[0], 60, 2)
+            time.sleep(0.5)
+        kvar = signal.getitimer(signal.ITIMER_REAL)[0]
+        self.assertAlmostEqual(kvar, 3599.5, delta=0.2)
+
+    def test_korta_konverteringar_drar_av_sin_tid(self):
+        signal.setitimer(signal.ITIMER_REAL, 3600)
+        for _ in range(10):
+            with tidsbudget.hogst(60):
+                time.sleep(0.1)
+        kvar = signal.getitimer(signal.ITIMER_REAL)[0]
+        self.assertAlmostEqual(kvar, 3599, delta=0.2)
+
+    def test_den_harda_gransen_gar_fore(self):
+        signal.alarm(30)
+        with tidsbudget.hogst(60):
+            self.assertEqual(signal.getsignal(signal.SIGALRM), avbryt)
+        self.assertLessEqual(signal.alarm(0), 30)
 
 
 if __name__ == "__main__":

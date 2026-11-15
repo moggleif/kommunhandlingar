@@ -1,12 +1,15 @@
-"""Krav: K16 i docs/02-KRAV.md, ADR-0018. Kod: src/kommunhandlingar/behandla.py."""
+"""Krav: K16 och K52 i docs/02-KRAV.md, ADR-0018 och ADR-0076.
+Kod: src/kommunhandlingar/behandla.py och hamta.py."""
 
 import tempfile
 import unittest
+from dataclasses import replace
 from pathlib import Path
 
 from kommunhandlingar import frontmatter, pool
 from kommunhandlingar.arkivluckor import ensamma
 from kommunhandlingar.behandla import Steg2, behandla
+from kommunhandlingar.hamta import ordna
 from kommunhandlingar.kandidat import Kandidat
 from tests.test_hamta import PDF, TID, Klient, kandidat
 
@@ -33,8 +36,8 @@ class Arkivbas(unittest.TestCase):
         self.data = Path(katalog.name)
         self.klient = KapandeKlient()
 
-    def kor(self, *kandidater: Kandidat, arkiv: bool = True) -> list[str]:
-        steg = Steg2(
+    def steg(self, kandidater: list[Kandidat], arkiv: bool = True) -> Steg2:
+        return Steg2(
             self.data,
             "exempelby",
             pool.las(self.data, "exempelby"),
@@ -43,8 +46,11 @@ class Arkivbas(unittest.TestCase):
             lambda: TID,
             "kommunhandlingar 0.2.0",
             arkiv,
-            ensamma=ensamma(list(kandidater)),
+            ensamma=ensamma(kandidater),
         )
+
+    def kor(self, *kandidater: Kandidat, arkiv: bool = True) -> list[str]:
+        steg = self.steg(list(kandidater), arkiv)
         return [behandla(steg, k) for k in kandidater]
 
     def md(self, namn: str = "protokoll") -> Path:
@@ -120,6 +126,34 @@ class TestArkivet(Arkivbas):
         self.assertEqual(
             (self.falt()["fel"], self.falt()["kalla_url"]), ("anslutning", W2)
         )
+
+
+class TestOmkonverteringen(Arkivbas):
+    def steg(self, kandidater: list[Kandidat], arkiv: bool = True) -> Steg2:
+        return replace(super().steg(kandidater, arkiv), omkonvertera=True)
+
+    def gammal(self, kandidat: Kandidat, arkiv: bool = True) -> None:
+        steg = replace(self.steg([kandidat], arkiv), version="kommunhandlingar 0.1.0")
+        behandla(steg, kandidat)
+
+    def test_arkivets_dokument_fran_en_annan_version_konverteras_om(self):
+        self.klient.filer[W1] = "sidor.pdf"
+        self.gammal(kandidat("s:1", W1))
+        self.assertEqual(self.kor(kandidat("s:1", W1)), ["konverterad om"])
+        self.assertTrue(self.falt()["pipeline"].startswith("kommunhandlingar 0.2.0 /"))
+        self.assertEqual(self.kor(kandidat("s:1", W1)), [LUCKOR])
+
+    def test_ett_levande_dokument_konverteras_inte_om_ur_arkivet(self):
+        self.klient.filer |= {"u1": "sidor.pdf", W1: "sidor.pdf"}
+        self.gammal(kandidat("s:1", "u1"), arkiv=False)
+        self.assertEqual(self.kor(kandidat("s:1", W1)), [LUCKOR])
+        self.assertEqual(self.falt()["kalla_url"], "u1")
+
+    def test_omkonverteringen_tas_efter_luckorna(self):
+        self.klient.filer[W1] = "sidor.pdf"
+        self.gammal(kandidat("s:1", W1))
+        lista = [kandidat("s:1", W1), kandidat("s:2", W2, "kallelse")]
+        self.assertEqual(ordna(self.steg(lista), lista), lista[::-1])
 
 
 if __name__ == "__main__":

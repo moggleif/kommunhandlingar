@@ -1,6 +1,7 @@
-"""Krav: K4–K6, K8, K9, K11, K13, K16 och K53 i docs/02-KRAV.md, ADR-0004,
-ADR-0018, ADR-0019 och ADR-0077. Test: tests/test_hamta.py,
-tests/test_omkonvertering.py och tests/test_versionslogg.py.
+"""Krav: K4–K6, K8, K9, K11, K13, K16, K52 och K53 i docs/02-KRAV.md, ADR-0004,
+ADR-0018, ADR-0019, ADR-0075 och ADR-0077. Test: tests/test_hamta.py,
+tests/test_omkonvertering.py, tests/test_tidsbudget.py och
+tests/test_versionslogg.py.
 
 Steg 2: `python -m kommunhandlingar.hamta <kommunfil> <arbetskatalog>
 [--arkiv] [--start N] [--utan-omkonvertering]`. Läser kandidatlistan från
@@ -64,7 +65,7 @@ def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
             utfall["väntar på nästa körning"] += len(kandidater) - nr - 1
             break
         utfall[resultat] += 1
-        if resultat.startswith("ej hämtad"):
+        if resultat.startswith(("ej hämtad", "ej konverterad")):
             print(f"{resultat}: {kandidat.url}", flush=True)
     return utfall
 
