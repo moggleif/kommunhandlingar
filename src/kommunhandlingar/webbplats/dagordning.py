@@ -13,7 +13,8 @@ from itertools import takewhile
 TABELLRAD = re.compile(r"^\| (\d+)\. \| (.*?) \| (.*?) \| (.*?) \|$", re.MULTILINE)
 LOPTEXT = re.compile(r"^(\d+)\\\. .+? (\d{4}-\d+) ", re.MULTILINE)
 # Föredragandena och föredragningens tid står efter rubriken i samma cell.
-EFTER_RUBRIKEN = re.compile(r"Föredragande|(?:Kl\.? )?\d{1,2}[.:]\d{2}\s*[–-]")
+EFTER_RUBRIKEN = re.compile(r"Föredrag(?:ande|are)|(?:Kl\.? )?\d{1,2}[.:]\d{2}\s*[–-]")
+FOREDRAGANDE = re.compile(r"\s*Föredrag(?:ande|are):.*")
 # Nämndernas kallelser delar numret över raderna i cellen (`GA-2026-` och
 # `00059`) och skriver ibland föredragandena efter det.
 DIARIENUMMER = re.compile(r"((?:[A-ZÅÄÖ]{1,5}-)?\d{4})[ –-]+(\d{3,6})\b")
@@ -43,7 +44,8 @@ def dagordning(kallelse: str) -> list[Punkt]:
 
 def rubrik(cell: str) -> str:
     rader = cell.split("<br>")
-    return fogat(takewhile(lambda r: not EFTER_RUBRIKEN.match(r.strip()), rader))
+    text = fogat(takewhile(lambda r: not EFTER_RUBRIKEN.match(r.strip()), rader))
+    return FOREDRAGANDE.sub("", text)
 
 
 def diarienummer(cell: str) -> str:

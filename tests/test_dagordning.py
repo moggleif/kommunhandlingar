@@ -88,6 +88,7 @@ NAMND = "\n".join(
         RAD.format("4.", "Förhandsbesked", "BN-2026<br>001234", ""),
         RAD.format("5.", "Anmälan", "BN-2026–<br>000170", ""),
         RAD.format("6.", "Ärendelista<br>Kl. 17:05-17:45", "VN-2026-00012", ""),
+        RAD.format("7.", "Information Föredragare: En<br>Person", "", ""),
     ]
 )
 
@@ -106,9 +107,11 @@ class TestNamndernasKallelser(unittest.TestCase):
                 "BN-2026-001234",
                 "BN-2026-000170",
                 "VN-2026-00012",
+                "",
             ],
         )
 
     def test_rubriken_slutar_fore_foredragandena_och_klockslaget(self):
         self.assertEqual(self.punkter[1].rubrik, "Årsrapport")
         self.assertEqual(self.punkter[5].rubrik, "Ärendelista")
+        self.assertEqual(self.punkter[6].rubrik, "Information")

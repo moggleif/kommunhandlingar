@@ -2372,7 +2372,9 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
   att läsa.
 - **Dagordningen** (`dagordning.py`) är kallelsens tabellrader som börjar
   med punktens nummer: rubriken (till första raden som börjar med
-  `Föredragande` eller en tidpunkt, `13.00–13.45`, `Kl. 17:05-17:45`),
+  `Föredragande`, `Föredragare` eller en tidpunkt, `13.00–13.45`,
+  `Kl. 17:05-17:45`, och utan `Föredragare:` med det som följer inne i en
+  rad),
   diarienumret och förslaget. Diarienumret är det första numret i
   beteckningens cell när raderna fogats ihop, så att ett nummer som är
   delat över raderna (`GA-2026-` och `00059`) blir helt och det som står
