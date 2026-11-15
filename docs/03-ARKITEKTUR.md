@@ -1692,7 +1692,9 @@ varje push till `main`, för hand och när ett issue med etiketten
 - **Sidorna:** en startsida, en översikt per kommunfil i `kommuner/`
   (`<kommun>.html`), en statussida per kommun (`<kommun>/status.html`),
   en sida per organ i kommunfilen
-  (`<kommun>/<organ>.html`), en sida per dokument i poolen, på samma
+  (`<kommun>/<organ>.html`), en sida per sammanträde punkt för punkt för
+  organ med `sammantradessidor` (`<kommun>/<organ>/<år>/<sammanträde>.html`,
+  [Sammanträdets sida](#sammanträdets-sida)), en sida per dokument i poolen, på samma
   sökväg som under `data/` med `.html` i stället för `.md`, och en
   kalender per kommun med en kalenderfil (`<kommun>/kalender.html`,
   [Kalendern](#kalendern)), och en sida om målen och direktiven för
@@ -2346,7 +2348,13 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
 
 - **Vilka sammanträden:** organ med `sammantradessidor` i kommunfilen,
   från det året, när sammanträdet har en kallelse. Sidan ligger bredvid
-  sammanträdets katalog, `<kommun>/<organ>/<år>/<sammanträde>.html`.
+  sammanträdets katalog, `<kommun>/<organ>/<år>/<sammanträde>.html`, och
+  sammanträdets rubrik på organets sida länkar dit ("punkt för punkt").
+- **Överst** står en rad per dokument från sammanträdet, i
+  organsidans ordning (kallelse, handlingar, protokoll), med antalet sidor.
+- **Förslaget** är kallelsens. En punkt utan förslag i tabellen säger att
+  kallelsen inte har något; en punkt ur löptext säger att det inte gick
+  att läsa.
 - **Dagordningen** (`dagordning.py`) är kallelsens tabellrader som börjar
   med punktens nummer: rubriken (till första raden som börjar med en
   tidpunkt, `13.00–13.45`), beteckningen och förslaget. En punkt som
@@ -2362,7 +2370,8 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
   punktens början, där ett diarienummer efter `Dnr` eller `Diarienummer`
   ([`diarienummer.py`](#paragraferna-och-ärendena)) är punktens. Punkten
   slutar sidan före nästa punkts början. En punkt utan en sådan sida har
-  ingen handling.
+  ingen handling. Har sammanträdet flera handlingar delas den första,
+  den utan namn.
 - **Sammanfattningen** är texten efter raden `Sammanfattning av ärendet`
   eller `Sammanfattning` på punktens sidor, till nästa rubrik i
   tjänsteskrivelsen, sidnumret (`1 (2)`) eller sidans slut.

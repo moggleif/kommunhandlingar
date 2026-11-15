@@ -1079,6 +1079,18 @@ poolen):
   för sig eller rör sekretess står ofta i ett eget protokoll, och
   uppräkningen `Paragrafer §§ …` på första sidan stämmer inte alltid med
   innehållet.
+- **Kommunstyrelsens kallelse och handlingar** (kontrollerat 2026-11-15 i
+  poolen för
+  [ADR-0078](../decisions/0078-sammantradet-punkt-for-punkt-ur-kallelsen.md)):
+  kallelsen har en tabell med kolumnerna Ärende, Beteckning och Förslag,
+  en rad per punkt, från 2015. Under rubriken står föredragningens tid och
+  föredragandena. Beteckningen är diarienumret utan organets förled
+  (`2026-00543` för `KS-2026-00543`). Handlingarna börjar med kallelsen och
+  har sedan punkterna i dagordningens ordning, var och en med
+  arbetsutskottets protokollsutdrag (`§ 289 Dnr KS-2026-00543`) eller
+  tjänsteskrivelsen (`Diarienummer KS-2026-00543`) först och bilagorna
+  efter. Tjänsteskrivelsen har ett avsnitt "Sammanfattning av ärendet".
+  Informationspunkterna har ingen egen handling.
 - Fullmäktige sänds och arkiveras som video (YouTube 2022–2024, Screen9 2024–),
   med kapitel per ärende och inlägg. Redan hämtat i politik-repot.
 
