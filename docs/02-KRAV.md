@@ -1751,3 +1751,43 @@ och [Versionsloggen](03-ARKITEKTUR.md#versionsloggen).
   eller ett dokument ur arkivet
 - **När** steg 2 är klart
 - **Så** får loggen ingen rad, och utan ändringar pushas ingen gren.
+
+## K54 — Ett sammanträde punkt för punkt
+
+Issue: [#277](https://github.com/moggleif/kommunhandlingar/issues/277),
+fortsättning i [#283](https://github.com/moggleif/kommunhandlingar/issues/283).
+Hur och varför står i
+[ADR-0078](decisions/0078-sammantradet-punkt-for-punkt-ur-kallelsen.md)
+och [Sammanträdets sida](03-ARKITEKTUR.md#sammanträdets-sida).
+
+- **Givet** ett organ med `sammantradessidor` i kommunfilen och ett
+  sammanträde det året eller senare som har en kallelse i poolen
+- **När** webbplatsen byggs
+- **Så** har sammanträdet en egen sida, och rubriken för sammanträdet på
+  organets sida länkar dit. Överst står en rad per dokument från
+  sammanträdet, med länk. Sedan kommer dagordningen, en punkt i taget, i
+  kallelsens ordning.
+- **Givet** en punkt på dagordningen
+- **När** sidan byggs
+- **Så** visar punkten sitt nummer, sin rubrik, sitt diarienummer och
+  förslaget till beslut som de står i kallelsen, sammanfattningen ur
+  tjänsteskrivelsen och vilka sidor i handlingarna som hör till punkten,
+  med länk, och beslutet i protokollets paragraf med samma diarienummer,
+  med länk. Ingen text skrivs av webbplatsen.
+- **Givet** en punkt vars handling, sammanfattning, förslag eller beslut
+  inte går att hitta
+- **När** sidan byggs
+- **Så** säger punkten det, i stället för att visa en gissning eller
+  utelämna punkten.
+- **Givet** en punkt med ett diarienummer
+- **När** sidan byggs
+- **Så** har punkten en historik: alla paragrafer i poolen, i alla organ,
+  med samma diarienummer eller med ett diarienummer som står i punktens
+  handling, med datum, organ, paragraf och rubrik och länk till sidan; och
+  de kort på organens sidor över tid (lokalbehov, initiativ, handlingsplaner,
+  redovisningar, detaljplaner, granskningar) som har ett steg i en sådan
+  paragraf, med länk till kortet.
+- **Givet** ett steg vars källsida också har en paragraf med ett annat
+  diarienummer
+- **När** kortet kopplas till punkten
+- **Så** är kopplingen märkt `tolkad`.
