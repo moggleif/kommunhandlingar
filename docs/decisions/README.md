@@ -103,3 +103,4 @@ Regler för det här repot, utöver MADR:
 | 0077 | [Mötessidorna hämtas först i ett eget jobb, och varje ny version av ett dokument skrivs i en versionslogg](0077-motessidorna-forst-och-en-versionslogg.md) | accepted |
 | 0078 | [Sammanträdet visas punkt för punkt ur kallelsens dagordning, med handlingens sidor, beslutet och historiken räknade fram vid bygget](0078-sammantradet-punkt-for-punkt-ur-kallelsen.md) | accepted |
 | 0079 | [En sida med fler än 500 000 tecken läses inte, utan blir `ej-konverterad` och märks som figur](0079-en-sida-med-fler-an-en-halv-miljon-tecken-lases-inte.md) | accepted |
+| 0080 | [Menyn följer projektets gemensamma form och laddar sajtraden från Giffå](0080-menyn-i-projektets-gemensamma-form.md) | accepted |

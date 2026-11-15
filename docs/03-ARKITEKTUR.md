@@ -1721,10 +1721,15 @@ varje push till `main`, för hand och när ett issue med etiketten
   och en sida med avvikelserna
   i källan (`avvikelser.html`, se nedan), och dessutom indexet och
   `llms.txt` ([Steg 3: indexet](#steg-3-indexet)). Sidmallen,
-  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny
-  (K39) – startsidan, för varje kommun i bokstavsordning efter id dess
-  översikt, kalender när den finns och statussida, och sist avvikelserna –
-  och en sidfot som länkar till repot och säger när sidan byggdes.
+  och stilen står i `webbplats/mall.py`, menyn i `webbplats/meny.py`.
+  Varje sida har samma meny (K39, K57,
+  [ADR-0080](decisions/0080-menyn-i-projektets-gemensamma-form.md)) i
+  projektets gemensamma form – för varje kommun i bokstavsordning efter id
+  en undermeny med översikten och organen grupp för grupp, kalendern när
+  den finns, och "Om poolen" med statussidan och avvikelserna – och en
+  sidfot som länkar till repot och säger när sidan byggdes. Raden till
+  projektets övriga sajter läggs dit av Giffås `sajter.js`, som varje sida
+  laddar från samma värd.
 - **Temat** (K51,
   [ADR-0074](decisions/0074-webbplatsen-har-ljust-och-morkt-tema.md)):
   färgerna står som CSS-variabler i sidmallens stil, var och en med ett

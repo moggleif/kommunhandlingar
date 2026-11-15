@@ -6,7 +6,8 @@ from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
 from kommunhandlingar.webbplats.luckavsnitt import luckavsnitt
-from kommunhandlingar.webbplats.mall import Mall, sida, statusadress
+from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.meny import statusadress
 from kommunhandlingar.webbplats.rakning import Organrad, rakna
 
 ARKITEKTUR = "/blob/main/docs/03-ARKITEKTUR.md"

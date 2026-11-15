@@ -1,13 +1,16 @@
-"""Krav: K39 i docs/02-KRAV.md, ADR-0060. Kod: src/kommunhandlingar/webbplats/
-mall.py, flikar.py, oversikt.py, organsida.py, sparsida.py och malsida.py."""
+"""Krav: K39 och K57 i docs/02-KRAV.md, ADR-0060 och ADR-0080. Kod:
+src/kommunhandlingar/webbplats/meny.py, organordning.py, flikar.py, oversikt.py,
+organsida.py, sparsida.py och malsida.py."""
 
+import re
 import unittest
 from collections import Counter
 from dataclasses import replace
 
 from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.mal import Mal
-from kommunhandlingar.webbplats.mall import Mall, meny
+from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.meny import meny
 from kommunhandlingar.webbplats.oversikt import kommunsida
 from kommunhandlingar.webbplats.rakning import Organrad
 from kommunhandlingar.webbplats.spar import Steg
@@ -40,11 +43,35 @@ class TestNavigering(unittest.TestCase):
         self.mall = Mall([exempelby()], REPO, TID, malen=malen, spar=spar)
 
     def test_menyn_har_kommunens_sidor(self):
-        mall = replace(self.mall, kalendrar=frozenset({"exempelby"}))
-        html = meny(mall, "exempelby/fsn.html")
+        html = meny([exempelby()], frozenset({"exempelby"}), "exempelby/fsn.html")
         for adress in ("index", "exempelby", "exempelby/kalender", "exempelby/status"):
             self.assertIn(f'href="../{adress}.html"', html)
         self.assertIn('href="../avvikelser.html"', html)
+
+    def test_menyn_i_den_gemensamma_formen(self):
+        html = meny(
+            [kommun_med_utskott()], frozenset({"exempelby"}), "exempelby/fsn.html"
+        )
+        self.assertTrue(
+            html.startswith('<nav class="sajtmeny" aria-label="Webbplatsen">')
+        )
+        self.assertIn(
+            '<a href="../index.html" class="sajtnamn">Kommunhandlingar</a>', html
+        )
+        toppen = re.sub(r"</summary>.*?</details>", "</summary></details>", html)
+        poster = re.findall(r"<li><(?:a [^>]*|details><summary)>([^<]+)<", toppen)
+        self.assertEqual(poster, [exempelby().namn, "Kalender", "Om poolen"])
+        self.assertIn(
+            '<p class="grupp">Översikt</p><ul><li><a href="../exempelby.html">', html
+        )
+        self.assertIn('href="../exempelby/fsn.html" aria-current="page"', html)
+        self.assertNotIn("exempelby/bun-au.html", html)
+
+    def test_sidan_laddar_den_gemensamma_menyn_fran_giffa(self):
+        html = sida(self.mall, "index.html", "Start", "")
+        self.assertIn('<link rel="stylesheet" href="/giffa/sajter.css">', html)
+        self.assertIn('<script src="/giffa/sajter.js" defer></script>', html)
+        self.assertLess(html.index('class="tema"'), html.index('class="sajtmeny"'))
 
     def test_oversikten_har_en_kolumn_per_sida_och_antalet(self):
         rader = [rad("bun", 0), rad("fsn", 4)]
@@ -65,7 +92,7 @@ class TestNavigering(unittest.TestCase):
 
     def test_utskottet_star_under_sin_namnd(self):
         rader = [rad("bun", 0), rad("fsn", 4), rad("bun-au", 1)]
-        html = kommunsida(self.mall, kommun_med_utskott(), rader, [])
+        html = kommunsida(self.mall, kommun_med_utskott(), rader, []).split("<main>")[1]
         bun, utskott, fsn = (
             html.index(f'"exempelby/{o}.html"') for o in ("bun", "bun-au", "fsn")
         )
@@ -93,7 +120,7 @@ class TestNavigering(unittest.TestCase):
             ),
         )
         rader = [rad("bun", 0), rad("fsn", 4), rad("bun-au", 1)]
-        html = kommunsida(self.mall, kommun, rader, [])
+        html = kommunsida(self.mall, kommun, rader, []).split("<main>")[1]
         ordning = [
             html.index(t)
             for t in (
