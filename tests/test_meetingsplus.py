@@ -103,6 +103,22 @@ class TestMotessidan(unittest.TestCase):
         self.assertTrue(all("/agenda/" in k.kallnyckel for k in bilagor))
         self.assertEqual({k.datum for k in kandidater}, {date(2023, 1, 20)})
 
+    def test_en_bilaga_bara_under_protokollet_blir_en_kandidat(self):
+        mote = f"{SJUKHUS}/mote-2026-01-01"
+        sida = (
+            '<a href="/w/mote-2026-01-01/agenda/apdf?downloadMode=open">A.pdf</a>'
+            '<a href="/w/mote-2026-01-01/protocol/apdf?downloadMode=open">A.pdf</a>'
+            '<a href="/w/mote-2026-01-01/protocol/bpdf?downloadMode=open">B.pdf</a>'
+        )
+        kandidater, _ = las_mote(kalla(), "hs", mote, sida)
+        self.assertEqual(
+            [(k.typ, k.kallnyckel) for k in kandidater],
+            [
+                ("bilaga", "meetingsplus:/w/mote-2026-01-01/agenda/apdf"),
+                ("bilaga", "meetingsplus:/w/mote-2026-01-01/protocol/bpdf"),
+            ],
+        )
+
     def test_en_fil_som_inte_ar_pdf_blir_ingen_kandidat(self):
         sida = f'<a href="{BAS}/x/agenda/lista-xlsx?downloadMode=open">Lista.xlsx</a>'
         kandidater, avvisade = las_mote(
@@ -152,6 +168,18 @@ class TestKallan(unittest.TestCase):
         post["samlingsmoten"] = [f"{BAS}/regionstyrelsen/mote-2013-01-01"]
         with self.assertRaises(Konfigurationsfel):
             kalla(post)
+
+    def test_samlingsmotet_skrivs_som_upptackten_skriver_det(self):
+        post = copy.deepcopy(POST)
+        post["samlingsmoten"] = [f"{SAMLING}/"]
+        self.assertEqual(kalla(post).samlingsmoten, (SAMLING,))
+
+    def test_samlingsmote_som_inte_ar_ett_mote_under_organsidan_stoppar(self):
+        for adress in (f"{SAMLING}/agenda", f"{BAS}/regionfullmaktige/arkiv"):
+            post = copy.deepcopy(POST)
+            post["samlingsmoten"] = [adress]
+            with self.subTest(adress), self.assertRaises(Konfigurationsfel):
+                kalla(post)
 
     def test_okant_falt_och_okant_organ_stoppar(self):
         for andring in ({"rubrik": "x"}, {"sidor": {"okand": SJUKHUS}}):

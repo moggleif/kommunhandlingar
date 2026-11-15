@@ -45,18 +45,19 @@ def upptack(
         kandidater += nya
         avvisade += bort
     nya, bort = projekten(kommun, klient, {k.kallnyckel for k in kandidater})
-    portalens, portalens_bort = meetingsplus_kallorna(kommun, klient)
+    meetingsplus_kandidater, meetingsplus_bort = meetingsplus_kallorna(kommun, klient)
     organordning = [o.id for o in kommun.organ]
+    # Meetings Plus har hela historiken levande: nyast först, som arkivet (ADR-0080).
     return (
-        ordna(kandidater + nya, organordning) + ordna_bakat(portalens, organordning),
-        avvisade + bort + portalens_bort,
+        ordna(kandidater + nya, organordning)
+        + ordna_bakat(meetingsplus_kandidater, organordning),
+        avvisade + bort + meetingsplus_bort,
     )
 
 
 def meetingsplus_kallorna(
     kommun: konfiguration.Kommun, klient
 ) -> tuple[list[Kandidat], list[Avvisad]]:
-    """Hela historiken är levande, så den tas nyast först, som arkivet (ADR-0080)."""
     kandidater: list[Kandidat] = []
     avvisade: list[Avvisad] = []
     for kalla in kommun.meetingsplus_kallor:

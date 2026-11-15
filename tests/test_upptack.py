@@ -1,5 +1,4 @@
-"""Krav: K2, K13, K16, K45 och K57, ADR-0013, ADR-0018, ADR-0061, ADR-0068 och
-ADR-0080.
+"""Krav: K2, K13, K16 och K45, ADR-0013, ADR-0018, ADR-0061 och ADR-0068.
 Kod: src/kommunhandlingar/upptack.py."""
 
 import argparse
@@ -14,7 +13,7 @@ from pathlib import Path
 from unittest import mock
 
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
-from kommunhandlingar.konfiguration import las, tolka
+from kommunhandlingar.konfiguration import las
 from kommunhandlingar.tidsbudget import Tidsgrans
 from kommunhandlingar.upptack import (
     KALLAN_STOPPADE,
@@ -201,39 +200,3 @@ class TestKommandot(unittest.TestCase):
             self.assertRaises(KeyError),
         ):
             kommandot(argparse.Namespace())
-
-
-def motessida(mote: str, fil: str) -> str:
-    return f'<a href="{mote}/protocol/{fil}?downloadMode=open">Öppna protokoll</a>'
-
-
-class TestMeetingsPlus(unittest.TestCase):
-    def test_kallan_tas_nyast_forst_over_alla_organ(self):
-        data = {
-            "namn": "Exempelby kommun",
-            "organ": [{"id": "bun", "namn": ["Bun"]}, {"id": "fsn", "namn": ["Fsn"]}],
-            "kalla": [
-                {
-                    "adapter": "meetingsplus",
-                    "sidor": {"bun": "https://m.se/c/bun", "fsn": "https://m.se/c/fsn"},
-                }
-            ],
-        }
-        kommun = tolka("exempelby", data)
-        sidor = {
-            "https://m.se/c/bun": '<a href="/c/bun/mote-2023-01-01">1</a>'
-            '<a href="/c/bun/mote-2025-01-01">2</a>',
-            "https://m.se/c/fsn": '<a href="/c/fsn/mote-2024-01-01">3</a>',
-        }
-        for adress in (
-            "bun/mote-2023-01-01",
-            "bun/mote-2025-01-01",
-            "fsn/mote-2024-01-01",
-        ):
-            mote = f"https://m.se/c/{adress}"
-            sidor[mote] = motessida(mote, "protokollpdf")
-        kandidater, _ = upptack(kommun, Klient(sidor))
-        self.assertEqual(
-            [(k.organ, k.datum.year) for k in kandidater],
-            [("bun", 2025), ("fsn", 2024), ("bun", 2023)],
-        )

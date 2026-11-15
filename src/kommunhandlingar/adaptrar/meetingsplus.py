@@ -34,18 +34,26 @@ class Kalla:
 def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
     schema.kontrollera_falt(post, FALT, var)
     sidor = sitevision.sidor(schema.varde(post, "sidor", dict, var), organ_id, var)
-    samlingar = schema.textlista(post, "samlingsmoten", var)
-    for adress in samlingar:
-        if not any(adress.startswith(f"{s.rstrip('/')}/") for s in sidor.values()):
-            raise Konfigurationsfel(
-                f"{var}: samlingsmötet {adress} har ingen organsida"
-            )
+    samlingar = tuple(
+        samlingsmote(a, sidor, var)
+        for a in schema.textlista(post, "samlingsmoten", var)
+    )
     poster = schema.valfritt(post, "monster", list, var) or []
     return Kalla(
         sidor,
         samlingar,
         tuple(monster.kompilera(p, MONSTERGRUPPER, f"{var}, mönster") for p in poster),
     )
+
+
+def samlingsmote(adress: str, sidor: dict[str, str], var: str) -> str:
+    """Mötessidan direkt under en organsida, skriven som upptäckten skriver den."""
+    organsida, _, sista = adress.rstrip("/").rpartition("/")
+    if organsida not in {s.rstrip("/") for s in sidor.values()} or not (
+        meetingsplus_html.MOTESDATUM.search(sista)
+    ):
+        raise Konfigurationsfel(f"{var}: samlingsmötet {adress} är inget möte i källan")
+    return f"{organsida}/{sista}"
 
 
 def upptack(

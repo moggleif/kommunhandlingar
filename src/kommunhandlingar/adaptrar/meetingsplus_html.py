@@ -9,7 +9,6 @@ och bara den första läses.
 
 import re
 from dataclasses import dataclass
-from html import unescape
 from html.parser import HTMLParser
 from urllib.parse import unquote, urljoin, urlsplit
 
@@ -38,7 +37,7 @@ class Lankar(HTMLParser):
 
     def handle_starttag(self, tagg, attribut):
         if tagg == "a":
-            self.adress, self.text = dict(attribut).get("href") or "", ""
+            self.adress, self.text = dict(attribut).get("href"), ""
 
     def handle_endtag(self, tagg):
         if tagg == "a" and self.adress is not None:
@@ -54,7 +53,7 @@ def lankar(html: str, sidadress: str) -> list[tuple[str, str]]:
     tolk = Lankar()
     tolk.feed(html)
     tolk.close()
-    return [(urljoin(sidadress, unescape(a)), t) for a, t in tolk.lankar]
+    return [(urljoin(sidadress, a), t) for a, t in tolk.lankar]
 
 
 def moten(html: str, organsida: str) -> list[str]:

@@ -38,8 +38,8 @@ Uppmätt 2026-11-15:
 
 * **Adaptrar per plattform, aldrig per kommun.** Adresser, organ och
   samlingsmöten står i kommunfilen.
-* **Korrekthet före fart.** Ett datum gissas inte; en dubblett sparas
-  inte två gånger.
+* **Korrekthet före fart.** Ett datum gissas inte, och samma bilaga
+  sparas inte två gånger.
 * **Tomt är inte noll.** En fil som inte blir kandidat nämns i
   sammanfattningen.
 * **Det nya först.** Med tre gånger Kungsbackas volym tar den första
@@ -69,6 +69,9 @@ att alla 17 organ och bilagorna tas med från början.
 * **Protokollets bilagor** tas bara med när filnamnet inte står bland
   kallelsens bilagor. Annars hade varje bilaga på de äldre sidorna sparats
   två gånger.
+* **Två kallelser** för samma möte, som när en rättad kallelse lagts upp
+  bredvid den första, blir två dokument. Vilken som gäller går inte att
+  avgöra ur sidan, och ingen gissas fram.
 * **Samlingsmötena** står som adresser i kommunfilen, och mönstren läser
   typ och datum ur filnamnet där. Ett möte daterat 1 januari är inte
   samlingsmöte av sig självt: listan gör det synligt vilka sidor som
@@ -93,8 +96,18 @@ att alla 17 organ och bilagorna tas med från början.
   1 100 sidor, en halvtimme med två sekunder mellan anropen. En upptäckt
   som bara läser nya möten kräver att den läser poolen, och väntar tills
   tiden blir ett problem.
-* Dåligt, eftersom ett nytt samlingsmöte måste läggas till i kommunfilen
-  för hand. Tills dess blir dess filer bilagor med mötets datum.
+* Dåligt, eftersom ett samlingsmöte som saknas i kommunfilen gör dess
+  filer till bilagor med mötets datum, och dokumentets plats följer sedan
+  källnyckeln. Läggs mötet till i efterhand måste dokumenten tas bort ur
+  poolen för hand, så att nästa körning hämtar dem på rätt plats. Därför
+  gicks alla regionens möten daterade 1 januari igenom innan den första
+  körningen, och alla står i kommunfilen.
+* Dåligt, eftersom en mötessida som inte går att hämta stoppar kommunens
+  hela levande upptäckt till nästa körning, som en Sitevision-sida gör
+  ([ADR-0061](0061-korningen-tal-tillfalliga-fel-pa-robots.md)). Med
+  omkring 1 100 sidor är det fler tillfällen, men klienten försöker igen
+  vid tillfälliga fel, och en halv lista vore värre: det som saknas i den
+  skulle se borttaget ut.
 
 ### Confirmation
 

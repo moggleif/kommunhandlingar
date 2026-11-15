@@ -1863,7 +1863,7 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
 - **När** kandidatlistan skrivs
 - **Så** står de efter övriga levande kandidater, med det nyaste mötet
   först över alla organ.
-- **Givet** ett samlingsmöte som inte ligger under någon organsida i
-  källan
+- **Givet** ett samlingsmöte som inte ligger direkt under någon
+  organsida i källan, eller vars sista del inte har något datum
 - **När** kommunfilen läses
 - **Så** stoppas körningen innan något hämtas.
