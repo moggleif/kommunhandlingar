@@ -1791,6 +1791,17 @@ och [Sammanträdets sida](03-ARKITEKTUR.md#sammanträdets-sida).
   diarienummer
 - **När** kortet kopplas till punkten
 - **Så** är kopplingen märkt `tolkad`.
+- **Givet** en kallelse där diarienumret är delat över raderna i cellen
+  (`GA-2026-` och `00059`) eller följs av föredragande och tid, och där
+  rubriken följs av `Föredragande:` med namn
+- **När** dagordningen läses
+- **Så** är punktens diarienummer det hela numret (`GA-2026-00059`), och
+  rubriken slutar före föredragandena.
+- **Givet** en punkt utan diarienummer i kallelsen, som "Val av
+  justerare"
+- **När** sidan byggs
+- **Så** säger punkten att den inte har något diarienummer, och varken
+  beslut eller historik söks.
 
 ## K55 — En sida som är för tung att läsa gör inte hela dokumentet okonverterat
 
@@ -1807,3 +1818,17 @@ och [Konvertering och kvalitet](03-ARKITEKTUR.md#konvertering-och-kvalitet).
 - **Givet** en sida med högst 500 000 tecken
 - **När** dokumentet konverteras
 - **Så** läses den som förut.
+
+## K56 — Kalendern länkar till sammanträdets sida
+
+Issue: [#283](https://github.com/moggleif/kommunhandlingar/issues/283).
+Sidan står i [K54](#k54--ett-sammanträde-punkt-för-punkt) och
+[Sammanträdets sida](03-ARKITEKTUR.md#sammanträdets-sida).
+
+- **Givet** ett sammanträde i kalendern som har en egen sida, också ett
+  kommande vars kallelse finns i poolen
+- **När** kalendern byggs
+- **Så** länkar rutan i månadsvyn och organet i listan till sidan.
+- **Givet** ett sammanträde utan egen sida
+- **När** kalendern byggs
+- **Så** står det som förut, utan länk.

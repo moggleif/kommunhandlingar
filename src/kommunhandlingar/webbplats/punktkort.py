@@ -27,16 +27,28 @@ def punktkort(arende: Arende, lankar: Lankar) -> str:
     rubrik = punkt.rubrik or (arende.beslut or {}).get("rubrik") or "Rubriken saknas"
     return (
         f'<article id="punkt-{punkt.nummer}"><p class="markor">'
-        f"<span>Punkt {punkt.nummer}</span>"
-        f"<span>Dnr {escape(arende.diarienummer)}</span></p>"
+        f"<span>Punkt {punkt.nummer}</span>{dnr(arende.diarienummer)}</p>"
         f"<h3>{escape(rubrik)}</h3>"
         + forslag(punkt.forslag)
         + sammanfattning(arende.sammanfattning, arende.handling)
         + handling(arende.handling, lankar)
-        + beslut(arende.beslut, lankar)
-        + historik(arende, lankar)
+        + utfall(arende, lankar)
         + "</article>"
     )
+
+
+def dnr(nummer: str) -> str:
+    return f"<span>Dnr {escape(nummer)}</span>" if nummer else ""
+
+
+# Utan diarienummer finns inget att söka beslutet och historiken på.
+def utfall(arende: Arende, lankar: Lankar) -> str:
+    if not arende.diarienummer:
+        return (
+            "<p>Punkten har inget diarienummer i kallelsen, så beslut och "
+            "historik söks inte.</p>"
+        )
+    return beslut(arende.beslut, lankar) + historik(arende, lankar)
 
 
 def forslag(stycken: tuple[str, ...] | None) -> str:

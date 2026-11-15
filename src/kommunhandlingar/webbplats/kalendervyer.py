@@ -1,4 +1,4 @@
-"""Krav: K22, K32 och K49 i docs/02-KRAV.md, ADR-0032, ADR-0053 och ADR-0072.
+"""Krav: K22, K32, K49 och K56 i docs/02-KRAV.md, ADR-0032, ADR-0053 och ADR-0072.
 Test: tests/test_kalender.py och tests/test_gruppmoten.py.
 
 Kalenderns två vyer: en tabell per månad, måndag först, med en ruta per
@@ -82,7 +82,10 @@ def ruta(s: Sammantrade) -> str:
     text = " ".join(filter(None, [kort(s.organ), s.tid, "?" if s.osakert else ""]))
     klass = f"ruta o-{s.organ}" + (" osakert" if s.osakert else "")
     plats = f' title="{escape(s.plats)}"' if s.plats else ""
-    return f'<span class="{klass}" data-organ="{s.organ}"{plats}>{escape(text)}</span> '
+    falt = f'class="{klass}" data-organ="{s.organ}"{plats}'
+    if s.sida:
+        return f'<a {falt} href="{escape(s.sida)}">{escape(text)}</a> '
+    return f"<span {falt}>{escape(text)}</span> "
 
 
 def lista(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
@@ -110,7 +113,7 @@ def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
     celler = [
         datumtext(s) + osakert,
         f'<span class="ruta o-{s.organ}">{kort(s.organ)}</span> '
-        + escape(namn[s.organ]),
+        + lankad(escape(namn[s.organ]), s.sida),
         escape(s.tid),
     ]
     return (
@@ -126,3 +129,7 @@ def datumtext(s: Sammantrade) -> str:
 
 def kort(organ: str) -> str:
     return "Gruppmöte" if organ == GRUPPMOTE else organ.upper()
+
+
+def lankad(text: str, sida: str) -> str:
+    return f'<a href="{escape(sida)}">{text}</a>' if sida else text

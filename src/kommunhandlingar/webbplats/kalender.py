@@ -1,4 +1,4 @@
-"""Krav: K22 och K49 i docs/02-KRAV.md, ADR-0032 och ADR-0072.
+"""Krav: K22, K49 och K56 i docs/02-KRAV.md, ADR-0032 och ADR-0072.
 Test: tests/test_kalender.py och tests/test_gruppmoten.py.
 
 Läser `kalender/<kommun>.csv` och stoppar bygget med raden när den inte
@@ -8,7 +8,7 @@ räknar fram partiernas gruppmöten ur organets sammanträden.
 
 import csv
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -30,6 +30,8 @@ class Sammantrade:
     plats: str
     kalla: str
     osakert: str
+    # Sammanträdets sida i kommunens katalog (K56); tomt utan sida.
+    sida: str = ""
 
 
 def las(fil: Path, kommun: Kommun, data: Path) -> list[Sammantrade]:
@@ -64,6 +66,17 @@ def tolka(rad: list[str], organ: set[str], data: Path) -> Sammantrade:
     if s.datum.weekday() >= 5 and not s.osakert:
         raise ValueError(f"{s.datum} är en lördag eller söndag, inte märkt osäkert")
     return s
+
+
+# Sammanträdets sida ligger bredvid dess katalog, <organ>/<år>/<datum>.html
+# (K54), och skrivs innan kalendern byggs (bygg.py).
+def med_sidor(sammantraden: list[Sammantrade], katalog: Path) -> list[Sammantrade]:
+    return [med_sida(s, katalog) for s in sammantraden]
+
+
+def med_sida(s: Sammantrade, katalog: Path) -> Sammantrade:
+    adress = f"{s.organ}/{s.datum.year}/{s.datum.isoformat()}.html"
+    return replace(s, sida=adress) if (katalog / adress).is_file() else s
 
 
 # Ett dokument ligger på <organ>/<år>/<datum>/<typ>.md (ADR-0003).

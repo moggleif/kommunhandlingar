@@ -1091,6 +1091,19 @@ poolen):
   tjänsteskrivelsen (`Diarienummer KS-2026-00543`) först och bilagorna
   efter. Tjänsteskrivelsen har ett avsnitt "Sammanfattning av ärendet".
   Informationspunkterna har ingen egen handling.
+- **Nämndernas och utskottens kallelser 2026** (kontrollerat 2026-11-15
+  för #283): samma tabell, men beteckningen har organets förled och är
+  ofta delad över två rader i cellen (`GA-2026-` och `00059`; byggnämnden
+  också `BN-2026` och `001234` utan bindestreck, eller med tankstreck).
+  Teknik skriver ibland föredragandena och tiden i samma cell som
+  numret. Rubrikcellen har ofta `Föredragande:` med namn och tiden
+  (`17.30-17.45`, `Kl. 17:05-17:45`) efter rubriken, och ibland
+  föredragandena utan etikett eller med stavningen `Föredagande:`. Punkter
+  som "Val av justerare" och "Paus" har ingen beteckning. Vård & Omsorgs
+  tjänsteskrivelser skriver numret efter `Diarienummer` med förledet två
+  gånger eller med mellanslag (`VO VO-2026-00191`, `VO- 2026-00017`).
+  Bygg- och miljönämndernas handlingar har tjänsteskrivelser för bara en
+  del av punkterna.
 - Fullmäktige sänds och arkiveras som video (YouTube 2022–2024, Screen9 2024–),
   med kapitel per ärende och inlägg. Redan hämtat i politik-repot.
 

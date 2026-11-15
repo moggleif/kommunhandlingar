@@ -68,3 +68,59 @@ class TestDagordning(unittest.TestCase):
 
     def test_en_punkt_i_loptext_har_varken_rubrik_eller_forslag(self):
         self.assertEqual(self.punkter[3], Punkt(35, "", "2025-00785", None))
+
+
+NAMND = "\n".join(
+    [
+        RAD.format("1.", "Val av justerare", "", ""),
+        RAD.format(
+            "2.",
+            "Årsrapport<br>Föredragande: En<br>Tjänsteperson<br>17.30-17.45",
+            "GA-2026-<br>00059",
+            "",
+        ),
+        RAD.format(
+            "3.",
+            "Uppföljning april",
+            "TE-2026-<br>00368,<br>Föredragande:<br>En Person,<br>17:35 – 18:00",
+            "",
+        ),
+        RAD.format("4.", "Förhandsbesked", "BN-2026<br>001234", ""),
+        RAD.format("5.", "Anmälan", "BN-2026–<br>000170", ""),
+        RAD.format("6.", "Ärendelista<br>Kl. 17:05-17:45", "VN-2026-00012", ""),
+        RAD.format("7.", "Information Föredragare: En<br>Person", "", ""),
+        RAD.format("8.", "BUKÄRR 5:90 och BUKÄRR<br>5:91 - Förhandsbesked", "", ""),
+        RAD.format("9.", "Taxa", "KS/2019:177", ""),
+    ]
+)
+
+
+class TestNamndernasKallelser(unittest.TestCase):
+    def setUp(self):
+        self.punkter = dagordning(NAMND)
+
+    def test_diarienumret_ur_en_delad_cell(self):
+        self.assertEqual(
+            [p.diarienummer for p in self.punkter],
+            [
+                "",
+                "GA-2026-00059",
+                "TE-2026-00368",
+                "BN-2026-001234",
+                "BN-2026-000170",
+                "VN-2026-00012",
+                "",
+                "",
+                "KS/2019:177",
+            ],
+        )
+
+    def test_rubriken_slutar_fore_foredragandena_och_klockslaget(self):
+        self.assertEqual(self.punkter[1].rubrik, "Årsrapport")
+        self.assertEqual(self.punkter[5].rubrik, "Ärendelista")
+        self.assertEqual(self.punkter[6].rubrik, "Information")
+
+    def test_en_fastighetsbeteckning_ar_inget_klockslag(self):
+        self.assertEqual(
+            self.punkter[7].rubrik, "BUKÄRR 5:90 och BUKÄRR 5:91 - Förhandsbesked"
+        )

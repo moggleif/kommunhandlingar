@@ -17,68 +17,83 @@ gruppmote = { fore = "ks", veckodag = "måndag", tid = "kväll" }
 # poolen är omkonverterad.
 omkonvertera = true
 
+# Sammanträdena får en sida punkt för punkt från 2026, för organen med
+# kallelser; äldre år kan läggas till per organ (K54, #283).
 [[organ]]
 id = "ga"
+sammantradessidor = 2026
 namn = ["Nämnden för Gymnasium & Arbetsmarknad"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "fg"
+sammantradessidor = 2026
 namn = ["Nämnden för Förskola & Grundskola"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "fg-au"
+sammantradessidor = 2026
 namn = ["Förskola & Grundskolas arbetsutskott"]
 hor_till = "fg"
 
 [[organ]]
 id = "bygg"
+sammantradessidor = 2026
 namn = ["Byggnadsnämnden"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "bygg-au"
+sammantradessidor = 2026
 namn = ["Byggnadsnämndens arbetsutskott"]
 hor_till = "bygg"
 
 [[organ]]
 id = "teknik"
+sammantradessidor = 2026
 namn = ["Nämnden för Teknik"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "teknik-au"
+sammantradessidor = 2026
 namn = ["Tekniks arbetsutskott"]
 hor_till = "teknik"
 
 [[organ]]
 id = "service"
+sammantradessidor = 2026
 namn = ["Nämnden för Service"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "ifo"
+sammantradessidor = 2026
 namn = ["Nämnden för Individ & Familjeomsorg"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "kultur"
+sammantradessidor = 2026
 namn = ["Nämnden för Kultur & Fritid"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "miljo"
+sammantradessidor = 2026
 namn = ["Nämnden för Miljö & Hälsoskydd"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "vo"
+sammantradessidor = 2026
 namn = ["Nämnden för Vård & Omsorg"]
 grupp = "Nämnderna"
 
 [[organ]]
 id = "val"
+sammantradessidor = 2026
 namn = ["Valnämnden"]
 grupp = "Övriga"
 
@@ -89,18 +104,19 @@ grupp = "Övriga"
 
 [[organ]]
 id = "ks"
+sammantradessidor = 2026
 namn = ["Kommunstyrelsen"]
 grupp = "Kommunfullmäktige och kommunstyrelsen"
-# Sammanträdena punkt för punkt prövas först för 2026 (K54, #283).
-sammantradessidor = 2026
 
 [[organ]]
 id = "ks-au"
+sammantradessidor = 2026
 namn = ["Kommunstyrelsens arbetsutskott"]
 hor_till = "ks"
 
 [[organ]]
 id = "kf"
+sammantradessidor = 2026
 namn = ["Kommunfullmäktige"]
 grupp = "Kommunfullmäktige och kommunstyrelsen"
 

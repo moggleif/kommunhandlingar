@@ -160,3 +160,16 @@ i stället för att utelämnas.
 Samma sida för kommande eller senaste sammanträde på systerprojektets
 webbplats följs i ett eget issue där,
 [giffa#56](https://github.com/moggleif/giffa/issues/56).
+
+Tillägg 2026-11-15, när alla organ kom med (#283): projektägaren bad om
+årets sammanträden i alla organ och kommande sammanträden när
+kallelsen hämtats, och inte äldre år än. Beslutet är detsamma; bara
+kommunfilen har `sammantradessidor = 2026` på fler organ. Nämndernas
+kallelser delar diarienumret över två rader i cellen och har föredragande
+i rubriken, så att tolkningen av cellerna breddades (K54). Kalendern
+länkar till sidan (K56). Hur ofta handlingen hittas skiljer sig mellan
+organen: för de flesta som kommunstyrelsen, men Vård & Omsorgs
+tjänsteskrivelser skriver numret som `VO VO-2026-00191`, som tolkningen
+efter `Diarienummer` inte läser (ADR-0071,
+[#289](https://github.com/moggleif/kommunhandlingar/issues/289)), och bygg- och miljönämndernas
+handlingar har tjänsteskrivelser för bara en del av punkterna.

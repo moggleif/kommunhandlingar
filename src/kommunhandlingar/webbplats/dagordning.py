@@ -10,10 +10,21 @@ from collections.abc import Iterable
 from dataclasses import dataclass
 from itertools import takewhile
 
+from kommunhandlingar.diarienummer import UTAN_ETIKETT, normaliserat
+
 TABELLRAD = re.compile(r"^\| (\d+)\. \| (.*?) \| (.*?) \| (.*?) \|$", re.MULTILINE)
 LOPTEXT = re.compile(r"^(\d+)\\\. .+? (\d{4}-\d+) ", re.MULTILINE)
-# Föredragningens tid och föredragandena står efter rubriken i samma cell.
-TIDPUNKT = re.compile(r"\d{1,2}\.\d{2}\s*[–-]")
+# Föredragandena och föredragningens tid står efter rubriken i samma cell.
+# Klockslaget är ett intervall, så att en fastighetsbeteckning som `5:91 -`
+# inte tas för ett.
+EFTER_RUBRIKEN = re.compile(
+    r"Föredrag(?:ande|are)|(?:Kl\.? )?\d{1,2}[.:]\d{2}\s*[–-]\s*\d{1,2}[.:]\d{2}"
+)
+FOREDRAGANDE = re.compile(r"\s*Föredrag(?:ande|are):.*")
+# Nämndernas kallelser delar numret över raderna i cellen (`GA-2026-` och
+# `00059`) och skriver ibland föredragandena efter det. Äldre former, som
+# `KS/2019:177`, läses som numret står (`diarienummer.UTAN_ETIKETT`).
+DIARIENUMMER = re.compile(r"((?:[A-ZÅÄÖ]{1,5}-)?\d{4})[ –-]+(\d{3,6})\b")
 FORSLAG = "Förslag till beslut"
 
 
@@ -31,7 +42,7 @@ def dagordning(kallelse: str) -> list[Punkt]:
     punkter = {}
     for nummer, arende, beteckning, forslag in TABELLRAD.findall(kallelse):
         punkter[int(nummer)] = Punkt(
-            int(nummer), rubrik(arende), beteckning.strip(), stycken(forslag)
+            int(nummer), rubrik(arende), diarienummer(beteckning), stycken(forslag)
         )
     for nummer, beteckning in LOPTEXT.findall(kallelse):
         punkter.setdefault(int(nummer), Punkt(int(nummer), "", beteckning, None))
@@ -39,7 +50,17 @@ def dagordning(kallelse: str) -> list[Punkt]:
 
 
 def rubrik(cell: str) -> str:
-    return fogat(takewhile(lambda r: not TIDPUNKT.match(r), cell.split("<br>")))
+    rader = cell.split("<br>")
+    text = fogat(takewhile(lambda r: not EFTER_RUBRIKEN.match(r.strip()), rader))
+    return FOREDRAGANDE.sub("", text)
+
+
+def diarienummer(cell: str) -> str:
+    text = fogat(cell.split("<br>"))
+    if traff := DIARIENUMMER.search(text):
+        return f"{traff[1]}-{traff[2]}"
+    aldre = UTAN_ETIKETT.search(text)
+    return normaliserat(aldre[0]) if aldre else ""
 
 
 # Raderna blir en text och Markdowns escapning tas bort. En rad som slutar

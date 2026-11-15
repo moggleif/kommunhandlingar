@@ -4,7 +4,9 @@ sammantrade.py, sammantradessida.py, punktkort.py och organsida.py."""
 import unittest
 
 from kommunhandlingar.webbplats.bygg import bygg
-from kommunhandlingar.webbplats.punktkort import Lankar, sammanfattning
+from kommunhandlingar.webbplats.dagordning import Punkt
+from kommunhandlingar.webbplats.punktkort import Lankar, punktkort, sammanfattning
+from kommunhandlingar.webbplats.sammantrade import Arende
 from kommunhandlingar.webbplats.sammantradessida import dagordningen
 from tests.test_dokumentindex import Index
 from tests.test_webbplats import REPO, TID, dokument
@@ -139,6 +141,17 @@ class TestSammantradessida(Index):
         self.assertIn('2024-05-02 – <a href="fsn/2024/2024-05-02.html">', organsida)
         self.assertNotIn("2024-03-01 – <a", organsida)
 
+    def test_kalendern_lankar_till_sidan(self):
+        (self.rot / "kalender").mkdir()
+        rader = "fsn,2024-05-02,,,https://exempelby.se/fsn,\n"
+        rader += "fsn,2024-03-01,,,https://exempelby.se/fsn,\n"
+        rubrik = "organ,datum,tid,plats,kalla,osakert\n"
+        (self.rot / "kalender" / "exempelby.csv").write_text(rubrik + rader)
+        self.bygg()
+        kalendern = (self.ut / "exempelby" / "kalender.html").read_text()
+        self.assertEqual(kalendern.count('href="fsn/2024/2024-05-02.html"'), 2)
+        self.assertNotIn('href="fsn/2024/2024-03-01.html"', kalendern)
+
     def test_utan_kallelse_ingen_sida(self):
         self.spara("protokoll.md", dokument(text=PROTOKOLL))
         bygg(self.rot, self.ut, REPO, TID)
@@ -167,3 +180,10 @@ class TestDagordningen(unittest.TestCase):
             "Ingen sammanfattning av ärendet", sammanfattning((), range(2, 3))
         )
         self.assertEqual(sammanfattning((), None), "")
+
+    def test_en_punkt_utan_diarienummer_sags(self):
+        punkt = Punkt(1, "Val av justerare", "", ())
+        kort = punktkort(Arende(punkt, "", None, (), None, [], []), Lankar("", "", {}))
+        self.assertNotIn("Dnr", kort)
+        self.assertIn("inget diarienummer i kallelsen", kort)
+        self.assertNotIn("Beslut", kort)
