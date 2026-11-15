@@ -108,16 +108,27 @@ två startas står i K11.
   `cancel-in-progress`. Gruppen håller högst en körning i kö; en senare
   start ersätter den som väntar. Medan arkivet har kandidater som väntar
   startar schemat två körningar om dygnet; den andra raden i `cron` tas
-  bort när arkivet är ikapp (ADR-0061). Jobbet kör upptäckten och steg 2
-  för varje kommunfil i `kommuner/`, och sedan detsamma med `--arkiv`.
+  bort när arkivet är ikapp (ADR-0061). Körningen har två jobb
+  ([ADR-0077](decisions/0077-motessidorna-forst-och-en-versionslogg.md)):
+  `moten` kör upptäckten och steg 2 för varje kommunfil i `kommuner/`
+  utan omkonvertering (`--utan-omkonvertering`), och checkar in; `arkiv`
+  startar när det är klart, från dess gren eller, utan gren eller om
+  `moten` föll, från `main`. Det gör upptäckten om och kör steg 2 för de
+  levande källorna, som då har omkonverteringen kvar och det som kommit
+  sedan mötenas jobb, och sedan detsamma med `--arkiv`. Varje
+  jobb checkar in och får sin PR för sig. De levande källornas steg är
+  samma i båda jobben, `.github/actions/levande`, och incheckningen är
+  `.github/actions/checka-in`.
   Stoppas upptäckten i en kommuns levande källor av en källsida (kod 3)
   hoppar jobbet över kommunens levande steg 2, skriver det i
   sammanfattningen och går vidare (ADR-0061); upptäckten skriver inget i
   `data/`. Ett annat fel i upptäckten stoppar jobbet. Ett fel i arkivets steg
-  stoppar inte jobbet (`continue-on-error`), så att det som hämtats från
-  de levande källorna ändå kontrolleras och checkas in.
-- **Varje körning börjar från en ren utcheckning av `main`.**
-- **Tidsbudget, räknat från jobbets start** (`hamta --start`). Efter 5
+  stoppar inte jobbet (`continue-on-error`), så att det levande ändå
+  kontrolleras och checkas in.
+- **Varje körning börjar från en ren utcheckning av `main`**, och arkivet
+  från mötenas gren, så att arkivets gren bygger på den och de två PR:erna
+  inte krockar.
+- **Tidsbudget, räknat från varje jobbs start** (`hamta --start`). Efter 5
   timmar startas inget nytt dokument. Efter 5 timmar och 30 minuter
   avbryts det pågående dokumentet (`SIGALRM`), utom medan det skrivs: då
   skrivs det klart. Ett avbrutet dokument har inte skrivit något, eftersom
@@ -128,16 +139,22 @@ två startas står i K11.
   GitHubs gräns ([Actions limits](https://docs.github.com/en/actions/reference/limits),
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
 - **Datakontrollerna körs innan något pushas**, och sedan att bara filer
-  under `data/` har ändrats och att inget av dem är binärt. Faller något
-  pushas ingenting.
-- **Körningen pushar en egen gren**, `nattkorning/<datum>-<körningens id>`,
-  och datat når `main` genom en PR, där "Ren kod och tester" kör samma
+  under `data/` och `versioner/` har ändrats och att inget av dem är
+  binärt. Faller något pushas ingenting.
+- **Varje jobb pushar en egen gren**,
+  `nattkorning/<datum>-<körningens id>-moten` och `-arkiv`, och datat
+  når `main` genom en PR, där "Ren kod och tester" kör samma
   kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
   till `main` bygger om webbplatsen.
 - **Körningen öppnar PR:en själv** när hemligheten `NATTKORNING_TOKEN`
   finns, och slår på automatisk merge. Det görs i ett eget jobb på en ny
   runner, utan utcheckning, som får grenens namn som jobb-output; bara det
-  jobbet får hemligheten. Utan den öppnar en människa eller agent PR:en.
+  jobbet får hemligheten. Utan hemligheten öppnar en människa eller agent
+  PR:en. Jobbet är ett återanvänt workflow,
+  `.github/workflows/nattkorning-pr.yml`, som båda jobben anropar.
+  Arkivets jobb checkar ut mötenas gren medan dess PR kan mergas; det
+  förutsätter att GitHub inte tar bort grenar efter merge (*Automatically
+  delete head branches* är avslaget).
 
 Datakontrollerna, i körningen och i CI
 (`python -m kommunhandlingar.datakontroll data`, utom binärerna):
@@ -162,7 +179,35 @@ Datakontrollerna, i körningen och i CI
   bort, enligt [Personuppgifter](#personuppgifter).
 
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
-körningen bara har ändrat filer under `data/`.
+körningen bara har ändrat filer under `data/` och `versioner/`.
+
+### Versionsloggen
+
+Hur och varför står i
+[ADR-0077](decisions/0077-motessidorna-forst-och-en-versionslogg.md) (K53).
+
+`versioner/<kommun>.csv` har en rad för varje version av ett dokument som
+poolen sett i en levande källa sedan 2026-11-15. Steg 2 utan `--arkiv`
+läser poolens front matter före och efter, och skriver en rad för varje
+källnyckel som efter steg 2 inte fanns före eller har en annan
+`kalla_url` eller `sha256` än före, också när steg 2 stoppas av ett fel.
+Raderna läggs till sist i filen; inget skrivs om.
+
+| Kolumn       | Värde                                                         |
+| ------------ | ------------------------------------------------------------- |
+| `sedd`       | när steg 2 var klart, UTC i ISO 8601                          |
+| `organ`      | ur front matter                                               |
+| `datum`      | ur front matter                                               |
+| `typ`        | ur front matter                                               |
+| `kallnyckel` | ur front matter                                               |
+| `kalla_url`  | ur front matter, som där (en lista för ett dokument i delar)  |
+| `sha256`     | ur front matter, tomt när dokumentet inte gick att hämta      |
+| `dokument`   | sökvägen under `data/`, som bär härkomsten (ADR-0009)          |
+
+Den första raden för en källnyckel är när poolen först såg dokumentet, de
+följande när det byttes ut eller, efter ett försök som inte gick att
+hämta, när det gick. Samma `sha256` på två rader är en ny adress med
+samma innehåll. Inget av det, eller dagar före och efter mötet, lagras.
 
 ## Datamodell
 
@@ -214,6 +259,7 @@ src/kommunhandlingar/
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
+  versionslogg.py  versionsloggen: nya och ändrade dokument efter steg 2 (K53)
   behandla.py      steg 2 för en kandidat: hoppa över, hämta, konvertera, skriva
   original.py      originalet hämtas, ett dokument i delar slås ihop (ADR-0049)
   pool.py          poolens front matter, uppslagen på källnyckel och sökväg
@@ -235,6 +281,7 @@ src/kommunhandlingar/
                    indexet, paragraferna och llms.txt (steg 3)
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
+versioner/<kommun>.csv varje ny version från en levande källa, skriven av steg 2 (K53)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
 uppfoljningar/<kommun>.csv  nämndernas uppföljningar av målen i protokollen (K28)
 lokalbehov/<kommun>.csv  nämndernas lokalbehov steg för steg, skrivna för hand (K36)

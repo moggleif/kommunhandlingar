@@ -175,9 +175,11 @@ körningen innan den checkar in, står under "Körning och incheckning" i
 
 `.github/workflows/nattkorning.yml` går varje natt, och en gång till på
 eftermiddagen tills arkivet är ikapp (ADR-0061), och kan startas för
-hand under Actions. Den pushar en gren `nattkorning/<datum>-<id>` när
-något ändrats, öppnar en PR från den och slår på automatisk merge, så att
-GitHub mergar när "Ren kod och tester" gått igenom (ADR-0052). Det kräver
+hand under Actions. Mötessidorna hämtas först i ett eget jobb och arkivet
+sedan ovanpå (ADR-0077). Varje jobb pushar en gren
+`nattkorning/<datum>-<id>-moten` eller `-arkiv` när något ändrats, öppnar
+en PR från den och slår på automatisk merge, så att GitHub mergar när
+"Ren kod och tester" gått igenom (ADR-0052). Det kräver
 två saker i repot, som en ägare ordnar en gång:
 
 1. En finkornig token (Settings → Developer settings → Fine-grained
@@ -186,16 +188,19 @@ två saker i repot, som en ägare ordnar en gång:
    under Settings → Secrets and variables → Actions.
 2. *Allow auto-merge* påslaget under Settings → General.
 
-Faller jobbet "PR med automatisk merge" har token gått ut, saknar
+Faller jobbet "PR med automatisk merge" (under `pr-moten` eller
+`pr-arkiv`) har token gått ut, saknar
 behörighet, eller är automatisk merge avslagen; rätta det i
 inställningarna. Grenen är pushad ändå, och står PR:en redan öppen kan
 den mergas för hand.
 
 Utan hemligheten öppnar en människa eller agent PR:en från grenen
 (ADR-0015). En PR vars kontroll fallit står kvar omergad tills någon
-rättar felet. Ligger flera grenar omergade, merga den nyaste och ta bort
-de äldre, vilket också stänger deras PR:er; det de hade utöver den hämtas
-igen nästa natt.
+rättar felet. Arkivets gren bygger på mötenas från samma körning, så en
+merge av `-arkiv` tar med `-moten`. Ligger flera körningars grenar
+omergade, merga den nyaste körningens `-arkiv`, eller dess `-moten` om
+arkivet inte checkade in något, och ta bort de äldre, vilket också
+stänger deras PR:er; det de hade utöver den hämtas igen nästa natt.
 En gren som skrivits av en version före 0.5.0 maskas först med
 `python3 -m kommunhandlingar.maska_poolen data`; annars faller
 datakontrollen på dess personuppgifter (ADR-0022). På samma sätt fylls

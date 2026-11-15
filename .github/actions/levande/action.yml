@@ -1,0 +1,28 @@
+# Upptäckt och steg 2 för de levande källorna i varje kommun, som båda
+# nattkörningens jobb gör (K11, K53, ADR-0061 och ADR-0077).
+name: De levande källorna
+description: Upptäckt och steg 2 för varje kommunfil, utan arkivet.
+inputs:
+  flaggor:
+    description: extra flaggor till steg 2
+    default: ""
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      run: |
+        for kommunfil in kommuner/*.toml; do
+          # Upptäckten skriver inget i data/. Stoppas den av en källa (kod 3)
+          # går körningen vidare; varje annat fel stoppar den (ADR-0061).
+          kod=0
+          python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
+            | tee -a "$RUNNER_TEMP/sammanfattning.txt" || kod=$?
+          if [ "$kod" -eq 3 ]; then
+            echo "Det levande i $kommunfil hoppas över; nästa körning försöker igen." \
+              | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+            continue
+          fi
+          [ "$kod" -eq 0 ] || exit "$kod"
+          python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
+            --start "$START" ${{ inputs.flaggor }} | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+        done
