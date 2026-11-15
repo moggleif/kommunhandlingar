@@ -1,0 +1,7 @@
+/* Krav: K54 i docs/02-KRAV.md, ADR-0078. Sammanträdets punkter, en i
+   taget, som målkorten (mal.css). */
+.malkort.punkter { grid-template-columns: 1fr; max-width: 52rem; }
+.punkter h4 { margin-top: 0.6rem; }
+.punkter blockquote { margin: 0; padding: 0 0 0.3rem 0.6rem;
+                      border-left: 3px solid var(--linje); font-style: italic; }
+.punkter details { margin-top: 0.5rem; }

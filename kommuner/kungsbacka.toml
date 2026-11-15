@@ -91,6 +91,8 @@ grupp = "Övriga"
 id = "ks"
 namn = ["Kommunstyrelsen"]
 grupp = "Kommunfullmäktige och kommunstyrelsen"
+# Sammanträdena punkt för punkt prövas först för 2026 (K54, #283).
+sammantradessidor = 2026
 
 [[organ]]
 id = "ks-au"

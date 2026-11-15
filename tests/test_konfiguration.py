@@ -1,4 +1,4 @@
-"""Krav: K1, K22 och K39 i docs/02-KRAV.md.
+"""Krav: K1, K22, K39 och K54 i docs/02-KRAV.md.
 Kod: src/kommunhandlingar/konfiguration.py."""
 
 import copy
@@ -28,6 +28,15 @@ class TestKommunfilen(unittest.TestCase):
         self.assertEqual(
             kommun.kallor[0].rattelser, {"sitevision:18.abc": date(2024, 5, 2)}
         )
+
+    def test_sammantradessidor_ar_ett_ar(self):
+        data = exempelby()
+        self.assertIsNone(tolka("exempelby", data).organ[1].sammantradessidor)
+        data["organ"][1]["sammantradessidor"] = 2024
+        self.assertEqual(tolka("exempelby", data).organ[1].sammantradessidor, 2024)
+        data["organ"][1]["sammantradessidor"] = "2024"
+        with self.assertRaises(Konfigurationsfel):
+            tolka("exempelby", data)
 
     def test_kungsbacka_lases(self):
         kommun = las(ROT / "kommuner" / "kungsbacka.toml")
