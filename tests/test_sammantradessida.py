@@ -141,6 +141,17 @@ class TestSammantradessida(Index):
         self.assertIn('2024-05-02 – <a href="fsn/2024/2024-05-02.html">', organsida)
         self.assertNotIn("2024-03-01 – <a", organsida)
 
+    def test_kalendern_lankar_till_sidan(self):
+        (self.rot / "kalender").mkdir()
+        rader = "fsn,2024-05-02,,,https://exempelby.se/fsn,\n"
+        rader += "fsn,2024-03-01,,,https://exempelby.se/fsn,\n"
+        rubrik = "organ,datum,tid,plats,kalla,osakert\n"
+        (self.rot / "kalender" / "exempelby.csv").write_text(rubrik + rader)
+        self.bygg()
+        kalendern = (self.ut / "exempelby" / "kalender.html").read_text()
+        self.assertEqual(kalendern.count('href="fsn/2024/2024-05-02.html"'), 2)
+        self.assertNotIn('href="fsn/2024/2024-03-01.html"', kalendern)
+
     def test_utan_kallelse_ingen_sida(self):
         self.spara("protokoll.md", dokument(text=PROTOKOLL))
         bygg(self.rot, self.ut, REPO, TID)

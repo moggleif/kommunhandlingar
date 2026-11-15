@@ -17,8 +17,8 @@ gruppmote = { fore = "ks", veckodag = "måndag", tid = "kväll" }
 # poolen är omkonverterad.
 omkonvertera = true
 
-# Sammanträdena får en sida punkt för punkt från 2026; äldre år kan läggas
-# till per organ (K54, #283).
+# Sammanträdena får en sida punkt för punkt från 2026, för organen med
+# kallelser; äldre år kan läggas till per organ (K54, #283).
 [[organ]]
 id = "ga"
 sammantradessidor = 2026
@@ -99,7 +99,6 @@ grupp = "Övriga"
 
 [[organ]]
 id = "revision"
-sammantradessidor = 2026
 namn = ["Kommunrevisionen"]
 grupp = "Övriga"
 
@@ -125,7 +124,6 @@ grupp = "Kommunfullmäktige och kommunstyrelsen"
 # som arbetsutskottet, men sist i listan, så att mötena hämtas först.
 [[organ]]
 id = "bygg-projekt"
-sammantradessidor = 2026
 namn = ["Aktuella projekt"]
 hor_till = "bygg"
 

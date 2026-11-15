@@ -10,13 +10,20 @@ from collections.abc import Iterable
 from dataclasses import dataclass
 from itertools import takewhile
 
+from kommunhandlingar.diarienummer import UTAN_ETIKETT, normaliserat
+
 TABELLRAD = re.compile(r"^\| (\d+)\. \| (.*?) \| (.*?) \| (.*?) \|$", re.MULTILINE)
 LOPTEXT = re.compile(r"^(\d+)\\\. .+? (\d{4}-\d+) ", re.MULTILINE)
 # Föredragandena och föredragningens tid står efter rubriken i samma cell.
-EFTER_RUBRIKEN = re.compile(r"Föredrag(?:ande|are)|(?:Kl\.? )?\d{1,2}[.:]\d{2}\s*[–-]")
+# Klockslaget är ett intervall, så att en fastighetsbeteckning som `5:91 -`
+# inte tas för ett.
+EFTER_RUBRIKEN = re.compile(
+    r"Föredrag(?:ande|are)|(?:Kl\.? )?\d{1,2}[.:]\d{2}\s*[–-]\s*\d{1,2}[.:]\d{2}"
+)
 FOREDRAGANDE = re.compile(r"\s*Föredrag(?:ande|are):.*")
 # Nämndernas kallelser delar numret över raderna i cellen (`GA-2026-` och
-# `00059`) och skriver ibland föredragandena efter det.
+# `00059`) och skriver ibland föredragandena efter det. Äldre former, som
+# `KS/2019:177`, läses som numret står (`diarienummer.UTAN_ETIKETT`).
 DIARIENUMMER = re.compile(r"((?:[A-ZÅÄÖ]{1,5}-)?\d{4})[ –-]+(\d{3,6})\b")
 FORSLAG = "Förslag till beslut"
 
@@ -49,8 +56,11 @@ def rubrik(cell: str) -> str:
 
 
 def diarienummer(cell: str) -> str:
-    traff = DIARIENUMMER.search(fogat(cell.split("<br>")))
-    return f"{traff[1]}-{traff[2]}" if traff else ""
+    text = fogat(cell.split("<br>"))
+    if traff := DIARIENUMMER.search(text):
+        return f"{traff[1]}-{traff[2]}"
+    aldre = UTAN_ETIKETT.search(text)
+    return normaliserat(aldre[0]) if aldre else ""
 
 
 # Raderna blir en text och Markdowns escapning tas bort. En rad som slutar

@@ -1097,8 +1097,13 @@ poolen):
   också `BN-2026` och `001234` utan bindestreck, eller med tankstreck).
   Teknik skriver ibland föredragandena och tiden i samma cell som
   numret. Rubrikcellen har ofta `Föredragande:` med namn och tiden
-  (`17.30-17.45`, `Kl. 17:05-17:45`) efter rubriken. Punkter som "Val av
-  justerare" och "Paus" har ingen beteckning.
+  (`17.30-17.45`, `Kl. 17:05-17:45`) efter rubriken, och ibland
+  föredragandena utan etikett eller med stavningen `Föredagande:`. Punkter
+  som "Val av justerare" och "Paus" har ingen beteckning. Vård & Omsorgs
+  tjänsteskrivelser skriver numret efter `Diarienummer` med förledet två
+  gånger eller med mellanslag (`VO VO-2026-00191`, `VO- 2026-00017`).
+  Bygg- och miljönämndernas handlingar har tjänsteskrivelser för bara en
+  del av punkterna.
 - Fullmäktige sänds och arkiveras som video (YouTube 2022–2024, Screen9 2024–),
   med kapitel per ärende och inlägg. Redan hämtat i politik-repot.
 

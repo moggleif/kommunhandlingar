@@ -69,16 +69,14 @@ def tolka(rad: list[str], organ: set[str], data: Path) -> Sammantrade:
 
 
 # Sammanträdets sida ligger bredvid dess katalog, <organ>/<år>/<datum>.html
-# (K54), och skrivs innan kalendern byggs.
+# (K54), och skrivs innan kalendern byggs (bygg.py).
 def med_sidor(sammantraden: list[Sammantrade], katalog: Path) -> list[Sammantrade]:
-    return [
-        replace(s, sida=adress) if (katalog / (adress := sidan(s))).is_file() else s
-        for s in sammantraden
-    ]
+    return [med_sida(s, katalog) for s in sammantraden]
 
 
-def sidan(s: Sammantrade) -> str:
-    return f"{s.organ}/{s.datum.year}/{s.datum.isoformat()}.html"
+def med_sida(s: Sammantrade, katalog: Path) -> Sammantrade:
+    adress = f"{s.organ}/{s.datum.year}/{s.datum.isoformat()}.html"
+    return replace(s, sida=adress) if (katalog / adress).is_file() else s
 
 
 # Ett dokument ligger på <organ>/<år>/<datum>/<typ>.md (ADR-0003).

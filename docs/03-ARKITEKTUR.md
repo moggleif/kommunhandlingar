@@ -2360,9 +2360,8 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
 ([Paragraferna och ärendena](#paragraferna-och-ärendena)). Inget lagras.
 
 - **Vilka sammanträden:** organ med `sammantradessidor` i kommunfilen,
-  från det året, när sammanträdet har en kallelse. Kungsbacka har det för
-  alla organ från 2026, och ett kommande sammanträde får sin sida när
-  kallelsen hämtats. Sidan ligger bredvid
+  från det året, när sammanträdet har en kallelse; ett kommande
+  sammanträde får alltså sin sida när kallelsen hämtats. Sidan ligger bredvid
   sammanträdets katalog, `<kommun>/<organ>/<år>/<sammanträde>.html`, och
   sammanträdets rubrik på organets sida länkar dit ("punkt för punkt").
 - **Överst** står en rad per dokument från sammanträdet, i

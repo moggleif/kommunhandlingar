@@ -89,6 +89,8 @@ NAMND = "\n".join(
         RAD.format("5.", "Anmälan", "BN-2026–<br>000170", ""),
         RAD.format("6.", "Ärendelista<br>Kl. 17:05-17:45", "VN-2026-00012", ""),
         RAD.format("7.", "Information Föredragare: En<br>Person", "", ""),
+        RAD.format("8.", "BUKÄRR 5:90 och BUKÄRR<br>5:91 - Förhandsbesked", "", ""),
+        RAD.format("9.", "Taxa", "KS/2019:177", ""),
     ]
 )
 
@@ -108,6 +110,8 @@ class TestNamndernasKallelser(unittest.TestCase):
                 "BN-2026-000170",
                 "VN-2026-00012",
                 "",
+                "",
+                "KS/2019:177",
             ],
         )
 
@@ -115,3 +119,8 @@ class TestNamndernasKallelser(unittest.TestCase):
         self.assertEqual(self.punkter[1].rubrik, "Årsrapport")
         self.assertEqual(self.punkter[5].rubrik, "Ärendelista")
         self.assertEqual(self.punkter[6].rubrik, "Information")
+
+    def test_en_fastighetsbeteckning_ar_inget_klockslag(self):
+        self.assertEqual(
+            self.punkter[7].rubrik, "BUKÄRR 5:90 och BUKÄRR 5:91 - Förhandsbesked"
+        )
