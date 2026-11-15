@@ -53,4 +53,4 @@ sist står avvikelserna. Så ryms fem kommuner inom sex poster.
 ### Confirmation
 
 `tests/test_navigering.py` prövar menyns form och att varje sida laddar
-`/giffa/sajter.css` och `/giffa/sajter.js` (K57).
+`/giffa/sajter.css` och `/giffa/sajter.js` (K58).

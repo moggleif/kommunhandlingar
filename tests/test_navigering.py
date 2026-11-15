@@ -1,4 +1,4 @@
-"""Krav: K39 och K57 i docs/02-KRAV.md, ADR-0060 och ADR-0080. Kod:
+"""Krav: K39 och K58 i docs/02-KRAV.md, ADR-0060 och ADR-0081. Kod:
 src/kommunhandlingar/webbplats/meny.py, organordning.py, flikar.py, oversikt.py,
 organsida.py, sparsida.py och malsida.py."""
 

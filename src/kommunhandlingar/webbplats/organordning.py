@@ -1,4 +1,4 @@
-"""Krav: K39 och K57 i docs/02-KRAV.md, ADR-0060. Test: tests/test_navigering.py.
+"""Krav: K39 och K58 i docs/02-KRAV.md, ADR-0060. Test: tests/test_navigering.py.
 
 Organens ordning på kommunens sida och i menyn: kommunfilens grupper och
 ordning, med varje utskott direkt efter sitt organ.

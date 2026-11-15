@@ -1,6 +1,6 @@
-"""Krav: K57 i docs/02-KRAV.md, ADR-0080. Test: tests/test_navigering.py.
+"""Krav: K58 i docs/02-KRAV.md, ADR-0081. Test: tests/test_navigering.py.
 
-Webbplatsens meny i den gemensamma form som Giffå ritar (ADR-0080): poolens
+Webbplatsens meny i den gemensamma form som Giffå ritar (ADR-0081): poolens
 namn och högst sex poster, där en post är en länk eller en undermeny. Varje
 kommun får en enda post: en undermeny med översikten, kalendern och
 statussidan och sedan organen i kommunfilens grupper. Sist står avvikelserna.

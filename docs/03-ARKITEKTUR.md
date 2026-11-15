@@ -90,7 +90,10 @@ Vilken ordning står i K13, och hur och varför i
 mellan organ är `[[organ]]`-listans ordning i kommunfilen; det finns
 inget eget fält för den. Ordningen inom ett organ står i koden och är
 densamma för alla kommuner. Arkivets lista tas nyast först
-([ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)).
+([ADR-0018](decisions/0018-wayback-sist-nyast-forst-och-bara-luckor.md)),
+och så också kandidaterna från Meetings Plus, som har hela historiken
+levande och står sist i den levande listan
+([ADR-0080](decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md)).
 
 ### Körning och incheckning
 
@@ -232,8 +235,8 @@ Kommun ── Organ (KF, KS, nämnd, utskott)    giltighetsperiod, föregångare
 - **Identitet** ([ADR-0003](decisions/0003-dokumentets-identitet-och-datamodell.md)).
   Ett dokument identifieras av sin plats i modellen – organ, datum,
   löpnummer, typ och namn – och känns igen på adapterns källnyckel
-  (Sitevisions nod-id, Episervers adress) när adressen eller filnamnet
-  ändras. En ny sha256 är en ny version och skriver över filen;
+  (Sitevisions nod-id, Episervers adress, filens sökväg på Meetings Plus)
+  när adressen eller filnamnet ändras. En ny sha256 är en ny version och skriver över filen;
   git-historiken är versionshistoriken.
 - Platsen bestäms första gången källnyckeln hittas och följer sedan
   källnyckeln. `<lopnr>` används när två sammanträden hålls samma dag.
@@ -264,7 +267,9 @@ src/kommunhandlingar/
                    eller arkiv (wayback);
                    sitevision_html.py läser mötessidan, sitevision.py tolkar den,
                    sitevision_arkiv.py läser sidorna och filerna ur arkivet,
-                   sitevision_projekt.py listan med projekt och projektsidorna
+                   sitevision_projekt.py listan med projekt och projektsidorna,
+                   meetingsplus_html.py läser Meetings Plus sidor,
+                   meetingsplus.py tolkar dem
   upptack.py       steg 1: hämtar källsidorna och skriver kandidatlistan
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
@@ -360,7 +365,7 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
   och bindestreck.
 - **Källorna står i prioritetsordning.** Varje adapter anger vilka fält
   den har utöver `adapter` och `monster`; de beskrivs under adaptern
-  nedan. `adapter` är `sitevision` eller `episerver`.
+  nedan. `adapter` är `sitevision`, `episerver` eller `meetingsplus`.
 - **Datumet** byggs av grupperna `ar`, `manad` och `dag`, så att ordningen
   och skiljetecknen i källan står i mönstret och inte i koden. `manad` är
   siffror eller ett av namnen i `manader`, utan hänsyn till versaler.
@@ -537,6 +542,59 @@ regex = '(?i)^protokoll/'
   dokument. En kapad del, eller en del som inte går att hämta, gör hela
   dokumentet `ej-hamtad`. En del som inte går att öppna gör det `ej-konverterad`
   med orsaken i `fel` (`krypterad` eller `trasig-pdf`).
+
+### Meetings Plus
+
+Hur och varför står i
+[ADR-0080](decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md),
+och beteendet i K57. Formpipe Meetings Plus publika webb har en sida per
+organ som listar alla dess möten, och en sida per möte med dess filer.
+Adaptern läser organets sida och sedan varje mötes sida, som text.
+
+```toml
+[[kalla]]
+adapter = "meetingsplus"
+samlingsmoten = ["https://exempelby.se/committees/fullmaktige/mote-2014-01-01"]
+
+[[kalla.monster]]
+typ = "protokoll"
+regex = '(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})'
+
+[kalla.sidor]
+kf = "https://exempelby.se/committees/fullmaktige"
+```
+
+| Fält                  | Betyder                                                      |
+| --------------------- | ------------------------------------------------------------ |
+| `kalla.sidor`         | Organets id och adressen till organets sida. Organet är sidans. |
+| `kalla.samlingsmoten` | Mötessidor som rymmer flera sammanträdens filer, oftast ett helt års protokoll. Varje adress ligger direkt under en av organsidorna och har ett datum i sista delen; ett avslutande `/` tas bort. Utelämnas annars. |
+| `kalla.monster`       | Hur ett samlingsmötes filnamn ger typ och datum. Utelämnas utan samlingsmöten. |
+
+- **Mötena** är länkarna på organets sida vars adress ligger direkt under
+  organsidans och vars sista del har ett datum `ÅÅÅÅ-MM-DD`, som
+  `mote-2026-09-30` eller `mote-2023-01-20-12741`. Datumet är mötets.
+  Sidans övriga länkar, till exempel menyn, är inga möten.
+- **En mötessida som inte går att hämta** stoppar upptäckten, som en
+  Sitevision-sida ([Kandidatlistan](#kandidatlistan)).
+- **Filerna** är mötessidans länkar som öppnar en fil
+  (`downloadMode=open`) under `…/agenda/<fil>` eller `…/protocol/<fil>`.
+  Länken som laddar ner samma fil, och zip-paketen, läses inte. En fil
+  under mötessidans egen adress är kallelsen (`agenda`) eller protokollet
+  (`protocol`); en fil under en annan adress är en bilaga till en
+  ärendepunkt. Protokollets bilagor är oftast kallelsens igen under en
+  annan adress, och bara de vars filnamn inte står bland kallelsens
+  bilagor tas med.
+- **Filnamnet** är länktexten när den slutar på en filändelse, annars
+  adressens sista del, avkodad. En fil vars filnamn inte slutar på `pdf`,
+  eventuellt följt av `-` och ett löpnummer, blir ingen kandidat.
+- **Typen och datumet** är avsnittets och mötets. I ett samlingsmöte
+  prövas mönstren mot filnamnet i stället; en fil som inget mönster ger
+  ett datum blir ingen kandidat.
+- **Källnyckeln** är `meetingsplus:` och filens sökväg, utan värd och
+  frågesträng. Kandidatens `url` är länkens adress, gjord absolut, och
+  `kalla` mötessidan.
+- **Ordningen** är det nyaste mötet först över alla organ, efter
+  övriga levande källors kandidater ([Ordningen kandidaterna tas i](#ordningen-kandidaterna-tas-i)).
 
 `docs/kallor/<kommun>.md` beskriver hur kommunen publicerar, vad som är
 belagt och hur, vad som är att verifiera och kända luckor. Organ,
@@ -1722,8 +1780,8 @@ varje push till `main`, för hand och när ett issue med etiketten
   i källan (`avvikelser.html`, se nedan), och dessutom indexet och
   `llms.txt` ([Steg 3: indexet](#steg-3-indexet)). Sidmallen och
   stilen står i `webbplats/mall.py`, menyn i `webbplats/meny.py`.
-  Varje sida har samma meny (K39, K57,
-  [ADR-0080](decisions/0080-menyn-i-projektets-gemensamma-form.md)) i
+  Varje sida har samma meny (K39, K58,
+  [ADR-0081](decisions/0081-menyn-i-projektets-gemensamma-form.md)) i
   projektets gemensamma form – för varje kommun i bokstavsordning efter id
   en undermeny med översikten, kalendern när den finns, statussidan och
   organen grupp för grupp, och sist avvikelserna – och en
