@@ -38,13 +38,15 @@ Valt alternativ: "Ladda Giffås `sajter.js` och `sajter.css`", eftersom
 listan över sajterna och menyns utseende då står på ett ställe, i Giffå
 (beslut 0013 där), och poolen bara skriver sin egen meny i formen:
 `nav.sajtmeny` med sajtnamnet och en lista där en post är en länk eller en
-`details` med undermenyn. Organen nås nu direkt ur kommunens undermeny,
-grupp för grupp.
+`details` med undermenyn. Varje kommun blir en enda post, en undermeny
+med översikten, kalendern, statussidan och organen grupp för grupp, och
+sist står avvikelserna. Så ryms fem kommuner inom sex poster.
 
 ### Consequences
 
 * Bra, eftersom en ny sajt i projektet syns överallt utan ändring här.
 * Bra, eftersom organen nås från varje sida.
+* Dåligt, eftersom en sjätte kommun kräver ett nytt beslut om menyn.
 * Dåligt, eftersom poolens sida laddar ett skript från en annan sajt på
   samma värd; går den inte att nå står menyn som en lista utan sajtraden.
 

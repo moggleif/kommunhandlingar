@@ -1842,13 +1842,14 @@ Hur och varför står i
 - **Givet** en sida på webbplatsen
 - **När** den byggs
 - **Så** har den en `nav class="sajtmeny"` med sajtens namn som länk till
-  startsidan och en lista med för varje kommun en undermeny, kalendern
-  när kommunen har en, och "Om poolen" med statussidan och avvikelserna.
+  startsidan och en lista med en undermeny för varje kommun och sist
+  avvikelserna, så att fem kommuner ryms inom sex poster.
 - **Givet** en kommun
 - **När** menyn byggs
-- **Så** har kommunens undermeny först gruppen "Översikt" med kommunens
-  sida och sedan en grupp per grupp i kommunfilen med dess organ, utan
-  utskott.
+- **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"
+  (kommunens sida), "Kalender" när kommunen har en och "Poolens status",
+  och sedan en grupp per grupp i kommunfilen med dess organ, utan
+  utskott. En kommunfil utan grupper ger gruppen "Organen".
 - **Givet** en sida i menyn
 - **När** sidan visas
 - **Så** är dess länk märkt `aria-current="page"`.

@@ -56,22 +56,34 @@ class TestNavigering(unittest.TestCase):
             html.startswith('<nav class="sajtmeny" aria-label="Webbplatsen">')
         )
         self.assertIn(
-            '<a href="../index.html" class="sajtnamn">Kommunhandlingar</a>', html
+            '<a class="sajtnamn" href="../index.html">Kommunhandlingar</a>', html
         )
         toppen = re.sub(r"</summary>.*?</details>", "</summary></details>", html)
         poster = re.findall(r"<li><(?:a [^>]*|details><summary)>([^<]+)<", toppen)
-        self.assertEqual(poster, [exempelby().namn, "Kalender", "Om poolen"])
+        self.assertEqual(poster, [exempelby().namn, "Avvikelser"])
         self.assertIn(
             '<p class="grupp">Översikt</p><ul><li><a href="../exempelby.html">', html
         )
         self.assertIn('href="../exempelby/fsn.html" aria-current="page"', html)
         self.assertNotIn("exempelby/bun-au.html", html)
 
+    def test_varje_kommun_ar_en_post_i_menyn(self):
+        andra = replace(exempelby(), id="andraby", namn="Andraby", grupper=())
+        html = meny([exempelby(), andra], frozenset({"exempelby"}), "index.html")
+        toppen = re.sub(r"</summary>.*?</details>", "</summary></details>", html)
+        poster = re.findall(r"<li><(?:a [^>]*|details><summary)>([^<]+)<", toppen)
+        self.assertEqual(poster, [exempelby().namn, "Andraby", "Avvikelser"])
+        self.assertIn('href="andraby/status.html">Poolens status<', html)
+        self.assertNotIn("andraby/kalender.html", html)
+        self.assertIn('<p class="grupp">Organen</p>', html)
+        self.assertNotIn('<p class="grupp"></p>', html)
+
     def test_sidan_laddar_den_gemensamma_menyn_fran_giffa(self):
         html = sida(self.mall, "index.html", "Start", "")
         self.assertIn('<link rel="stylesheet" href="/giffa/sajter.css">', html)
         self.assertIn('<script src="/giffa/sajter.js" defer></script>', html)
         self.assertLess(html.index('class="tema"'), html.index('class="sajtmeny"'))
+        self.assertLess(html.index("/giffa/sajter.css"), html.index("<style>"))
 
     def test_oversikten_har_en_kolumn_per_sida_och_antalet(self):
         rader = [rad("bun", 0), rad("fsn", 4)]

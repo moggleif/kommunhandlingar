@@ -34,6 +34,7 @@ STIL = """
         padding: 0.2rem 0.8rem; border: 1px solid var(--kant); border-radius: 999px;
         background: var(--bakgrund); color: var(--text); cursor: pointer; }
 .tema[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+/* Sajtraden går fri från temaknappen; stilen står efter Giffås sajter.css. */
 .sajtrad ul { padding-right: 9rem; }
 :root { --sajtaccent: var(--accent); --sajtyta: var(--bakgrund); --sajtkant: 0; }
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;
@@ -96,9 +97,9 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(rubrik)} – kommunhandlingar</title>
+{GEMENSAM}
 <style>{STIL}</style>
 <script>{TEMA}</script>
-{GEMENSAM}
 </head>
 <body>
 <button type="button" class="tema" hidden>Mörkt tema</button>
