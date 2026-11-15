@@ -214,7 +214,9 @@ Raderna läggs till sist i filen; inget skrivs om.
 Den första raden för en källnyckel är när poolen först såg dokumentet, de
 följande när det byttes ut eller, efter ett försök som inte gick att
 hämta, när det gick. Samma `sha256` på två rader är en ny adress med
-samma innehåll. Inget av det, eller dagar före och efter mötet, lagras.
+samma innehåll, eller, med samma adress, ett dokument som tagits bort ur
+poolen för hand för att hämtas igen
+([ADR-0079](decisions/0079-en-sida-med-fler-an-en-halv-miljon-tecken-lases-inte.md)). Inget av det, eller dagar före och efter mötet, lagras.
 
 ## Datamodell
 
@@ -774,7 +776,7 @@ Först räknas sidans tecken med pypdfium2. Har textlagret fler än 500 000
 tecken läses sidan inte: den blir `ej-konverterad` och står i `figurer`
 (K55,
 [ADR-0079](decisions/0079-en-sida-med-fler-an-en-halv-miljon-tecken-lases-inte.md)).
-Poolens vanliga sidor har högst omkring 110 000 tecken. Annars prövas
+Annars prövas
 sidan i den här ordningen, och den första regeln som stämmer gäller:
 
 1. **Tom:** inga tecken, och sidan renderad i 72 dpi har högst 0,5 %
@@ -947,7 +949,8 @@ läsa är `fel` `null`, och `sidor`, `kvalitet_per_sida` och
 `pipeline` är poolens version ur `pyproject.toml` följd av de verktyg som
 läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
 pypdfium2 samt Tesseract och språkmodellens version när någon sida
-lästes med OCR, till exempel
+är `ocr` eller `ej-konverterad`, också en sida som är för tung att läsa
+(K55) och aldrig prövades med OCR, till exempel
 `kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
 pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
 verktyg läst dokumentet, och `pipeline` är bara poolens version.

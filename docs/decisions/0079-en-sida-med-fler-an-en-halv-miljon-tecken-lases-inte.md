@@ -31,7 +31,8 @@ Mätt 2026-11-15, tecken per sida enligt pypdfium2 och tid i sidläsningen:
 
 Tiden växer snabbare än antalet tecken. De tyngsta sidorna i fyra stora
 handlingar har 3 000–4 500 tecken. Textens längd per sida i hela poolen
-(5 148 dokument), som en övre gräns: 99,99 procent av sidorna har under
+(5 148 dokument), räknat utan blanktecken i Markdown-texten mellan
+sidkommentarerna, som en ungefärlig övre gräns: 99,99 procent av sidorna har under
 42 000 tecken, och den tyngsta omkring 110 000.
 
 ## Decision Drivers
@@ -70,7 +71,8 @@ börjar och blir detsamma på varje maskin.
   som redan har den nya versionen. Ingen sida i poolen är i närheten av
   taket, så de skulle bli likadana. Geoteknikrapportens tomma dokument
   togs i stället bort för hand, så att nattkörningen hämtar den som ett
-  nytt dokument.
+  nytt dokument. Versionsloggen (K53) får då en andra rad för rapporten
+  med samma adress och sha256 som den första; loggen skrivs aldrig om.
 
 ### Consequences
 
@@ -84,13 +86,17 @@ börjar och blir detsamma på varje maskin.
   sådan sida har hittats i en vanlig handling.
 * Neutralt, eftersom tecknen räknas en gång till för varje sida; det
   kostar en bråkdel av sidläsningen.
+* Neutralt, eftersom `pipeline` nämner Tesseract när en sida är
+  `ej-konverterad`, också när sidan var för tung och aldrig prövades med
+  OCR.
 
 ### Confirmation
 
 Tester i `tests/test_konvertering.py`: taket är 500 000; en sida över
 taket blir `ej-konverterad`, står i `figurer` och `tal_obekraftade`; en
 sida med exakt så många tecken som taket läses; övriga sidor läses som
-vanligt. Geoteknikrapporten konverterad lokalt med taket: se PR:en.
+vanligt. Geoteknikrapporten konverterades lokalt med taket på 302
+sekunder: sida 94 och 103 blev `ej-konverterad`, dokumentet `delvis`.
 
 ## Pros and Cons of the Options
 
