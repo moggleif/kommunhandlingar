@@ -80,24 +80,24 @@ Regler för det här repot, utöver MADR:
 | 0054 | [Webbplatsen visar avvikelserna i källan ur de öppna issuen, hämtade när den byggs](0054-avvikelserna-pa-webbplatsen-ur-issuen.md) | accepted |
 | 0055 | [Ett dokument som granskats för hand märks med datumet i `granskad` och konverteras inte om, och två OCR-fel rättas i konverteringen](0055-granskade-dokument-konverteras-inte-om.md) | accepted |
 | 0056 | [Kommunfullmäktiges mål står på en egen målsida, med fokusområdena under sina mål och färgen i källan som bedömning](0056-kommunfullmaktiges-mal-med-fokusomraden-och-farg.md) | accepted |
-| 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | proposed |
-| 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | proposed |
-| 0059 | [Handlingsplanerna följs steg för steg som initiativärendena, med en länk till själva planen](0059-handlingsplanerna-foljs-som-initiativen.md) | proposed |
+| 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | accepted |
+| 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | accepted |
+| 0059 | [Handlingsplanerna följs steg för steg som initiativärendena, med en länk till själva planen](0059-handlingsplanerna-foljs-som-initiativen.md) | accepted |
 | 0060 | [Kommunens sida blir en översikt över organen och deras sidor, organets sidor får flikar och statusen en egen sida](0060-navigeringen-med-oversikt-och-flikar.md) | accepted |
-| 0061 | [Ett tillfälligt fel på `robots.txt` försöks igen och stoppar inte arkivet, och körningen går två gånger om dygnet tills arkivet är ikapp](0061-korningen-tal-tillfalliga-fel-pa-robots.md) | proposed |
-| 0062 | [I arkivet gäller filnamnets datum under ett annat möte samma år, ett tvåsiffrigt år är 2000-talets, och statussidan visar år utan dokument](0062-arkivets-datum-och-ar-utan-dokument.md) | proposed |
-| 0063 | [Löptext i spalter läses spalt för spalt med XY-snitt över textlagrets rader](0063-spalter-lases-spalt-for-spalt.md) | proposed |
-| 0064 | [Text på högkant tas ur flödet och skrivs sist på sidan; på en OCR-sida målas den vit och sidan läses om](0064-text-pa-hogkant-skrivs-sist.md) | proposed |
-| 0065 | [Redovisningarna följs steg för steg som handlingsplanerna, och direktiv som beställer en redovisning flyttar från målsidan](0065-redovisningarna-foljs-som-handlingsplanerna.md) | proposed |
-| 0066 | [Revisionens granskningar följs steg för steg per granskat organ, med stegen i alla organs dokument](0066-revisionens-granskningar-foljs-per-namnd.md) | proposed |
-| 0067 | [Detaljplanerna följs steg för steg som redovisningarna, med besluten i alla organs protokoll](0067-detaljplanerna-foljs-som-redovisningarna.md) | proposed |
-| 0068 | [Projektsidornas filer blir handlingar under ett eget organ, daterade med dagen de lades upp](0068-projektsidornas-filer-blir-handlingar-under-ett-eget-organ.md) | proposed |
-| 0069 | [Projekten kopplas till detaljplanerna i en fil skriven för hand, och planens kort visar projektsidan och dokumenten](0069-projekten-kopplas-till-detaljplanerna-i-en-fil-skriven-for-hand.md) | proposed |
-| 0070 | [Indexet byggs med webbplatsen som JSON Lines per kommun, med en `llms.txt` som ingång, och checkas inte in](0070-indexet-och-ingangen-byggs-med-webbplatsen.md) | proposed |
-| 0071 | [Protokollen delas per paragraf när webbplatsen byggs, och `arenden` fylls med paragrafernas diarienummer vid konverteringen](0071-protokollen-delas-per-paragraf-vid-bygget.md) | proposed |
-| 0072 | [Partiernas gruppmöten räknas fram ur kommunstyrelsens datum när kalendern byggs, och visas diskret som en vana](0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md) | proposed |
-| 0073 | [Målsidan får tre perspektiv att välja mellan – tidslinje, ett år i taget och målkort – och valet står i adressen](0073-malsidan-far-tre-perspektiv-att-valja-mellan.md) | proposed |
-| 0074 | [Webbplatsen följer läsarens ljusa eller mörka inställning, med en knapp i övre högra hörnet som minns valet](0074-webbplatsen-har-ljust-och-morkt-tema.md) | proposed |
-| 0075 | [Ett dokument får konverteras i högst 30 minuter och blir annars `ej-konverterad` med `fel: tidsgrans`](0075-ett-dokument-far-en-egen-tidsgrans.md) | proposed |
-| 0076 | [Arkivet konverterar om sina egna dokument från en annan version av poolen, efter luckorna](0076-arkivet-konverterar-om-sina-egna-dokument.md) | proposed |
-| 0077 | [Mötessidorna hämtas först i ett eget jobb, och varje ny version av ett dokument skrivs i en versionslogg](0077-motessidorna-forst-och-en-versionslogg.md) | proposed |
+| 0061 | [Ett tillfälligt fel på `robots.txt` försöks igen och stoppar inte arkivet, och körningen går två gånger om dygnet tills arkivet är ikapp](0061-korningen-tal-tillfalliga-fel-pa-robots.md) | accepted |
+| 0062 | [I arkivet gäller filnamnets datum under ett annat möte samma år, ett tvåsiffrigt år är 2000-talets, och statussidan visar år utan dokument](0062-arkivets-datum-och-ar-utan-dokument.md) | accepted |
+| 0063 | [Löptext i spalter läses spalt för spalt med XY-snitt över textlagrets rader](0063-spalter-lases-spalt-for-spalt.md) | accepted |
+| 0064 | [Text på högkant tas ur flödet och skrivs sist på sidan; på en OCR-sida målas den vit och sidan läses om](0064-text-pa-hogkant-skrivs-sist.md) | accepted |
+| 0065 | [Redovisningarna följs steg för steg som handlingsplanerna, och direktiv som beställer en redovisning flyttar från målsidan](0065-redovisningarna-foljs-som-handlingsplanerna.md) | accepted |
+| 0066 | [Revisionens granskningar följs steg för steg per granskat organ, med stegen i alla organs dokument](0066-revisionens-granskningar-foljs-per-namnd.md) | accepted |
+| 0067 | [Detaljplanerna följs steg för steg som redovisningarna, med besluten i alla organs protokoll](0067-detaljplanerna-foljs-som-redovisningarna.md) | accepted |
+| 0068 | [Projektsidornas filer blir handlingar under ett eget organ, daterade med dagen de lades upp](0068-projektsidornas-filer-blir-handlingar-under-ett-eget-organ.md) | accepted |
+| 0069 | [Projekten kopplas till detaljplanerna i en fil skriven för hand, och planens kort visar projektsidan och dokumenten](0069-projekten-kopplas-till-detaljplanerna-i-en-fil-skriven-for-hand.md) | accepted |
+| 0070 | [Indexet byggs med webbplatsen som JSON Lines per kommun, med en `llms.txt` som ingång, och checkas inte in](0070-indexet-och-ingangen-byggs-med-webbplatsen.md) | accepted |
+| 0071 | [Protokollen delas per paragraf när webbplatsen byggs, och `arenden` fylls med paragrafernas diarienummer vid konverteringen](0071-protokollen-delas-per-paragraf-vid-bygget.md) | accepted |
+| 0072 | [Partiernas gruppmöten räknas fram ur kommunstyrelsens datum när kalendern byggs, och visas diskret som en vana](0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md) | accepted |
+| 0073 | [Målsidan får tre perspektiv att välja mellan – tidslinje, ett år i taget och målkort – och valet står i adressen](0073-malsidan-far-tre-perspektiv-att-valja-mellan.md) | accepted |
+| 0074 | [Webbplatsen följer läsarens ljusa eller mörka inställning, med en knapp i övre högra hörnet som minns valet](0074-webbplatsen-har-ljust-och-morkt-tema.md) | accepted |
+| 0075 | [Ett dokument får konverteras i högst 30 minuter och blir annars `ej-konverterad` med `fel: tidsgrans`](0075-ett-dokument-far-en-egen-tidsgrans.md) | accepted |
+| 0076 | [Arkivet konverterar om sina egna dokument från en annan version av poolen, efter luckorna](0076-arkivet-konverterar-om-sina-egna-dokument.md) | accepted |
+| 0077 | [Mötessidorna hämtas först i ett eget jobb, och varje ny version av ett dokument skrivs i en versionslogg](0077-motessidorna-forst-och-en-versionslogg.md) | accepted |
