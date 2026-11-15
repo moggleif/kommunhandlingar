@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/dagordning/2022/ks-kallelse-2022-01-25.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a501a6d7]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320130427id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/dagordning/2022/ks-kallelse-2022-01-25.pdf
 sha256: b59897443afd8ca224e5de2dff5e2f93daff56641d9b0b976cf3156c2ed75083

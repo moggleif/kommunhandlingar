@@ -6,7 +6,7 @@ lopnr: null
 typ: protokoll
 namn: null
 kallnyckel: sitevision:18.2727e29417ee2988a501b290
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/2021/sammantradesanteckningar-2021-01-25-26.pdf]
 arenden: []
 kalla_url: https://web.archive.org/web/20220630194827id_/https://kungsbacka.se/download/18.2727e29417ee2988a501b290/1644937975160/Kommunrevisionen%20sammantr%C3%A4desanteckningar%202021-01-25-26.pdf
 sha256: 25cab888ab0282bbf3c327386cefb7a6150857ced342737a20620ff73aea2e2e
