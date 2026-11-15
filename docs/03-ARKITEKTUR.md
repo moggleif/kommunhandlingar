@@ -1867,7 +1867,11 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   rad per sammanträde: datum, organ och tid. Rutan har organets id med
   versaler och tiden, och platsen som `title`; ett osäkert sammanträde har ett
   frågetecken i rutan och i listan ordet "osäkert", som länkar till
-  tabellen över de osäkra och har skälet som `title`.
+  tabellen över de osäkra och har skälet som `title`. Ett sammanträde med en
+  egen sida ([Sammanträdets sida](#sammanträdets-sida), K56) har rutan
+  och organets namn i listan som länk dit. Sidorna skrivs innan
+  kalendern byggs, och kalendern länkar till
+  `<organ>/<år>/<datum>.html` när den filen finns.
 - **Färgerna** räknas fram: organen grupperas efter `hor_till`, varje
   grupp får en egen färgton jämnt fördelad runt färgcirkeln i kommunfilens
   ordning, och ett utskott en ljusare nyans av sin grupps ton.
@@ -2356,7 +2360,9 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
 ([Paragraferna och ärendena](#paragraferna-och-ärendena)). Inget lagras.
 
 - **Vilka sammanträden:** organ med `sammantradessidor` i kommunfilen,
-  från det året, när sammanträdet har en kallelse. Sidan ligger bredvid
+  från det året, när sammanträdet har en kallelse. Kungsbacka har det för
+  alla organ från 2026, och ett kommande sammanträde får sin sida när
+  kallelsen hämtats. Sidan ligger bredvid
   sammanträdets katalog, `<kommun>/<organ>/<år>/<sammanträde>.html`, och
   sammanträdets rubrik på organets sida länkar dit ("punkt för punkt").
 - **Överst** står en rad per dokument från sammanträdet, i
@@ -2365,8 +2371,13 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
   kallelsen inte har något; en punkt ur löptext säger att det inte gick
   att läsa.
 - **Dagordningen** (`dagordning.py`) är kallelsens tabellrader som börjar
-  med punktens nummer: rubriken (till första raden som börjar med en
-  tidpunkt, `13.00–13.45`), beteckningen och förslaget. En punkt som
+  med punktens nummer: rubriken (till första raden som börjar med
+  `Föredragande` eller en tidpunkt, `13.00–13.45`, `Kl. 17:05-17:45`),
+  diarienumret och förslaget. Diarienumret är det första numret i
+  beteckningens cell när raderna fogats ihop, så att ett nummer som är
+  delat över raderna (`GA-2026-` och `00059`) blir helt och det som står
+  efter det inte kommer med. En punkt utan nummer, som "Val av
+  justerare", säger det, och varken beslut eller historik söks. En punkt som
   konverteringen skrev som löptext, med numret och diarienumret på samma
   rad, kommer med utan förslag, och rubriken tas då ur protokollets
   paragraf.

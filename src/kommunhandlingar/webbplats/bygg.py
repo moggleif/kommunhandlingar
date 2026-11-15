@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48 och K54 i
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54 och K56 i
 docs/02-KRAV.md.
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
@@ -136,6 +136,7 @@ def bygg_kalender(rot: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     if kommun.id in mall.kalendrar:
         fil = rot / "kalender" / f"{kommun.id}.csv"
         sammantraden = kalender.las(fil, kommun, rot / "data" / kommun.id)
+        sammantraden = kalender.med_sidor(sammantraden, ut / kommun.id)
         html = kalendersida(mall, kommun, sammantraden)
         (ut / kommun.id / "kalender.html").write_text(html, encoding="utf-8")
 

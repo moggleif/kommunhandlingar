@@ -4,7 +4,9 @@ sammantrade.py, sammantradessida.py, punktkort.py och organsida.py."""
 import unittest
 
 from kommunhandlingar.webbplats.bygg import bygg
-from kommunhandlingar.webbplats.punktkort import Lankar, sammanfattning
+from kommunhandlingar.webbplats.dagordning import Punkt
+from kommunhandlingar.webbplats.punktkort import Lankar, punktkort, sammanfattning
+from kommunhandlingar.webbplats.sammantrade import Arende
 from kommunhandlingar.webbplats.sammantradessida import dagordningen
 from tests.test_dokumentindex import Index
 from tests.test_webbplats import REPO, TID, dokument
@@ -167,3 +169,10 @@ class TestDagordningen(unittest.TestCase):
             "Ingen sammanfattning av ärendet", sammanfattning((), range(2, 3))
         )
         self.assertEqual(sammanfattning((), None), "")
+
+    def test_en_punkt_utan_diarienummer_sags(self):
+        punkt = Punkt(1, "Val av justerare", "", ())
+        kort = punktkort(Arende(punkt, "", None, (), None, [], []), Lankar("", "", {}))
+        self.assertNotIn("Dnr", kort)
+        self.assertIn("inget diarienummer i kallelsen", kort)
+        self.assertNotIn("Beslut", kort)
