@@ -1,0 +1,25 @@
+Parameter,Resultat,MU,Enhet,LOR,Metod,Utf.
+"Polycykliska aromatiska kolväten (PAH)
+Asfalt-OJ-1",,,,,,
+naftalen,<0.50,----,mg/kg,0.10,Asfalt-OJ-1,ST
+acenaftylen,<0.50,----,mg/kg,0.10,Asfalt-OJ-1,ST
+acenaften,<0.50,----,mg/kg,0.10,Asfalt-OJ-1,ST
+fluoren,<0.50,----,mg/kg,0.10,Asfalt-OJ-1,ST
+fenantren,0.90,± 0.32,mg/kg,0.10,Asfalt-OJ-1,ST
+antracen,<0.50,----,mg/kg,0.10,Asfalt-OJ-1,ST
+fluoranten,<0.50,----,mg/kg,0.10,Asfalt-OJ-1,ST
+pyren,0.51,± 0.20,mg/kg,0.10,Asfalt-OJ-1,ST
+bens(a)antracen,<0.25,----,mg/kg,0.05,Asfalt-OJ-1,ST
+krysen,0.32,± 0.12,mg/kg,0.05,Asfalt-OJ-1,ST
+bens(b)fluoranten,0.38,± 0.14,mg/kg,0.05,Asfalt-OJ-1,ST
+bens(k)fluoranten,<0.25,----,mg/kg,0.05,Asfalt-OJ-1,ST
+bens(a)pyren,<0.25,----,mg/kg,0.05,Asfalt-OJ-1,ST
+"dibens(a,h)antracen",<0.25,----,mg/kg,0.05,Asfalt-OJ-1,ST
+"bens(g,h,i)perylen",0.27,± 0.10,mg/kg,0.05,Asfalt-OJ-1,ST
+"indeno(1,2,3,cd)pyren",<0.25,----,mg/kg,0.05,Asfalt-OJ-1,ST
+summa PAH 16,<6.0,----,mg/kg,1.3,Asfalt-OJ-1,ST
+summa cancerogena PAH,0.70,± 0.29,mg/kg,0.20,Asfalt-OJ-1,ST
+summa övriga PAH,1.68,± 0.70,mg/kg,0.50,Asfalt-OJ-1,ST
+summa PAH L,<0.75,----,mg/kg,0.15,Asfalt-OJ-1,ST
+summa PAH M,1.41,± 0.53,mg/kg,0.25,Asfalt-OJ-1,ST
+summa PAH H,0.97,± 0.39,mg/kg,0.25,Asfalt-OJ-1,ST
