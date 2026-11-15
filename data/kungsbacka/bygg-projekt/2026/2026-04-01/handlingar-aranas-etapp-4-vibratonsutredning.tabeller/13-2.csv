@@ -1,0 +1,11 @@
+"MAX NATT (TÅG)
+Mätpunkt_datum_kl","Beräknat komfortvärde vid
+Q=10. Horisontellt, tvärs spår
+(vägd RMS [mm/s])","Beräknat komfortvärde vid
+Q=10. Horisontellt, längs spår
+(vägd RMS [mm/s])","Beräknat komfortvärde
+vid Q=10. Vertikalt
+(vägd RMS [mm/s])"
+MP1_170615_232113,"0,31 (5,7 Hz)","0,22 (5,0 Hz)","0,79 (5,0 Hz)"
+MP2_170615_020128,"0,39 (4,0 Hz)","0,30 (4,8 Hz)","1,0 (4,0 Hz)"
+MP3_170615_232107,"0,32 (4,0 Hz)","0,17 (3,6 Hz)","1,6 (4,0 Hz)"

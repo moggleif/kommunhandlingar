@@ -1,0 +1,15 @@
+pyren,<0.21,----,mg/kg,0.10,BM-SVOC-OJ-21,ST
+bens(a)antracen,<0.16,----,mg/kg,0.08,BM-SVOC-OJ-21,ST
+krysen,<0.16,----,mg/kg,0.08,BM-SVOC-OJ-21,ST
+bens(b)fluoranten,<0.16,----,mg/kg,0.08,BM-SVOC-OJ-21,ST
+bens(k)fluoranten,<0.16,----,mg/kg,0.08,BM-SVOC-OJ-21,ST
+bens(a)pyren,<0.16,----,mg/kg,0.08,BM-SVOC-OJ-21,ST
+"dibens(a,h)antracen",<0.16,----,mg/kg,0.08,BM-SVOC-OJ-21,ST
+"bens(g,h,i)perylen",<0.21,----,mg/kg,0.10,BM-SVOC-OJ-21,ST
+"indeno(1,2,3,cd)pyren",<0.16,----,mg/kg,0.08,BM-SVOC-OJ-21,ST
+summa PAH 16,<3.0,----,mg/kg,1.5,BM-SVOC-OJ-21,ST
+summa cancerogena PAH,<0.56,----,mg/kg,0.28,BM-SVOC-OJ-21,ST
+summa övriga PAH,<0.94,----,mg/kg,0.45,BM-SVOC-OJ-21,ST
+summa PAH L,<0.32,----,mg/kg,0.15,BM-SVOC-OJ-21,ST
+summa PAH M,<0.52,----,mg/kg,0.25,BM-SVOC-OJ-21,ST
+summa PAH H,<0.66,----,mg/kg,0.33,BM-SVOC-OJ-21,ST

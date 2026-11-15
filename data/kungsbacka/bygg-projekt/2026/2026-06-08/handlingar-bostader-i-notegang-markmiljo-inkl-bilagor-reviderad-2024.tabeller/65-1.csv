@@ -1,0 +1,15 @@
+pyren,<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+bens(a)antracen,<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+krysen,<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+bens(b)fluoranten,<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+bens(k)fluoranten,<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+bens(a)pyren,<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+"dibens(a,h)antracen",<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+"bens(g,h,i)perylen",<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+"indeno(1,2,3,cd)pyren",<0.010,----,µg/L,0.010,SVOC-OV-21,ST
+summa PAH 16,<0.180 *,----,µg/L,0.090,SVOC-OV-21,ST
+summa cancerogena PAH,<0.035 *,----,µg/L,0.035,SVOC-OV-21,ST
+summa övriga PAH,<0.055 *,----,µg/L,0.055,SVOC-OV-21,ST
+summa PAH L,<0.025 *,----,µg/L,0.025,SVOC-OV-21,ST
+summa PAH M,<0.025 *,----,µg/L,0.030,SVOC-OV-21,ST
+summa PAH H,<0.040 *,----,µg/L,0.040,SVOC-OV-21,ST

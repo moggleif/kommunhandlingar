@@ -1,0 +1,4 @@
+,Porepressure,Friction,Tip resistance
+Before,"100,00","0,00","0,00"
+After,"103,00","1,00","-0,02"
+Diff,"3,00","1,00","-0,02"

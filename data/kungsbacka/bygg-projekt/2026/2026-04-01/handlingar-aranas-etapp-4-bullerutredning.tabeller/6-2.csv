@@ -1,0 +1,9 @@
+Tågtyp,Antal tåg,"Hastighet
+(km/h)","Maximal
+tåglängd (m)","Medel
+tåglängd
+(m)"
+"Persontåg, X31",70,190,240,130
+"Snabbtåg, X2",25,200,165,165
+Pendeltåg (X60-62),12,190,220,150
+Godståg,60,100,750,450

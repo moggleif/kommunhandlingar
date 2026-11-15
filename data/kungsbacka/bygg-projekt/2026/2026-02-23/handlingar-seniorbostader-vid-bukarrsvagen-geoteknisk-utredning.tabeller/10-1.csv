@@ -1,0 +1,65 @@
+"Torrskorpelera (Let)
+Sand/ silt skikt
+Djup 0,2-1,5 m",Tunghet,"γ = 18 kN/m³
+γ'= 9 kN/m³","γ = 18 kN/m³
+k
+γ' = 9 kN/m³
+k"
+,"Odränerad
+skjuvhållfasthet","C = 25 kPa
+u","C = 25 kPa
+u"
+,Friktionsvinkel,"φ = 30o
+’","φ = 30o
+’k"
+,Modul,"M ≈ 5 MPa
+0","M ≈ 5 MPa
+0"
+"siltig sulfidfläckig lera
+Djup 1,5 - 10m
+(nivå +2 till -8)
+z räknas från nivå 0 (ca 3m djup)",Tunghet,"γ = 17 kN/m³
+k
+γ' = 7 kN/m³
+k","γ = 17 kN/m³
+k
+γ' = 7 kN/m³
+k"
+,"Odränerad
+skjuvhållfasthet","C = 12 + 1,8*z kPa/m
+u","C = 11 + 1,7 kPa/m
+uk"
+,Modul,"M ≈ 250* C kPa
+0 u","M ≈ 250* C kPa
+0 u"
+"siltig lera
+Djup >10m
+(friktionsjord varierar mellan
+nivå -4 och -21 enl. sonderingar)
+(nivå -8 till friktion)
+z räknas från nivå 0 (ca 3m djup)",Tunghet,"γ = 18 kN/m³
+k
+γ' = 8 kN/m³
+k","γ = 18 kN/m³
+k
+γ' = 8 kN/m³
+k"
+,"Odränerad
+skjuvhållfasthet","C = 12 + 1,8*z kPa/m
+u","C = 11 + 1,7*z kPa/m
+uk"
+,Modul,"M ≈ 300* C kPa
+0 u","M ≈ 300* C kPa
+0 u"
+Friktionsjord,Tunghet,"γ = 18 kN/m³
+k
+γ' = 8 kN/m³
+k","γ = 18 kN/m³
+k
+γ' = 8 kN/m³
+k"
+,Friktionsvinkel,"φ = 35o
+’","φ = 35o
+’k"
+,Modul,E ≈ 20 MPa,"E ≈ 20 MPa
+k"

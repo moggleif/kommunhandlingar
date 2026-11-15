@@ -1,0 +1,9 @@
+Område,Markanvänding,Area m2,Area ha,Faktor/Ådt,Kommentar
+Flerfamiljshusområde väster,Flerfamiljshusområde LOD,5120,0.512,5,
+Flerfamiljshusområde öster,Flerfamiljshusområde LOD,10135,1.0135,5,
+Villaområde väster,Villaområde utan gata,7660,0.766,5,
+Villaområde öster,Villaområde utan gata,8831,0.8831,5,
+Bygata väster,Väg,803,0.0803,44,
+Bygata öster,Väg,873,0.0873,48,
+Gata 6 KV,Väg,366,0.0366,200,
+Gata 7 KV,Väg,810,0.081,220,

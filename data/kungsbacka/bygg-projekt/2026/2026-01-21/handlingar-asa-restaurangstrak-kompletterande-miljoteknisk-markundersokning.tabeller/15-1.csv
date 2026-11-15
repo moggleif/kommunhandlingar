@@ -1,0 +1,48 @@
+Prov,Övre djup,"Undre
+djup (m)","Jordart
+(bedömd i fält)",Anmärkning,PID,Laboratorieanalys
+,(m),,,,,
+,,,,,,
+NC21:1,0,"0,2","F/ st, gr, sa",Lite material. Brun färg.,-,-
+NC21:2,"0,2","0,5","F/ gr, sa",Brun färg.,0,-
+NC21:3,"0,5","0,75","F/ gr, sa",Svart färg. Ingen lukt.,0,"PAH, metaller"
+NC21:4,"0,8",1,"F/ gr, sa",Brun Färg.,0,-
+NC21:5,1,"1,1","F/ gr, sa",Övergång till lera. Lite material. Brun färg. Dyig lukt.,-,-
+NC21:6,"1,1","1,6",grsaLet,Sandlins/gruslins.,-,-
+NC22:1,0,"0,5","F/ sa, gr",Inslag av grus. Brun färg.,0,metaller
+NC22:2,"0,5","0,9","F/ Sa,",Mörk gråbrun färg.,0,"metaller, PAH"
+NC22:3,"0,9",1,Let,Grå färg med svarta inslag. Ingen lukt.,0,PAH
+NC22:4,1,"1,2",Let,Grå färg.,1,metaller
+NC22:5,"1,2","1,7",Le,Gråblå färg.,0,-
+NC23:1,0,"0,5","F/ gr, sa, st",Lite material. Brun färg.,0,metaller
+NC23:2,"0,5","0,7","F/ gr, sa, st",Lite material. Brun färg.,"0,2",-
+NC23:3,"0,7",1,"F/ gr, sa",Mörkgrå färg. Luktar lite dyigt.,0,"PAH, metaller"
+NC23:4,1,"1,1","F/ gr, sa",Mörkgråsvart. Luktar lite dyigt.,"0,2",-
+NC23:5,"1,1","1,3",Le,Gråbrun färg.,"0,4",-
+NC23:6,"1,3","1,8",Le,Gråblågrön färg.,0,metaller
+NC24:1,0,"0,2","F/ st, gr, sa",Lite material. Grå färg.,0,-
+NC24:2,"0,2","0,5",F/ sa,Brun färg.,"0,2",metaller
+NC24:3,"0,5","0,7",F/sa,Svart färg.,0,"PAH, metaller"
+NC24:4,"0,7","0,9",F/sa,Ljusbrun färg.,0,-
+NC24:5,"0,9",1,Let,Grå färg.,0,-
+NC24:6,1,"1,5",Le,"Inslag av snäckskal 1,2-1,5 m u my. Gråblå färg.",0,metaller
+NC25:1,0,"0,1","F/ gr, sa, st",Brun färg.,0,-
+NC25:2,"0,1","0,6",F/ sa,Brun med inslag av svart färg.,0,"PAH, metaller"
+NC25:3,"0,6","0,7",F/ Sa,Gul färg.,0,-
+NC25:4,"0,7",1,Let,Borrstopp 1-2 m. Grå färg.,0,-
+NC26:1,0,"0,1","F/ st, gr",Inget prov.,-,-
+NC26:2,"0,1","0,4","F/ sa, gr",Brun färg.,0,PAH
+NC26:3,"0,4","0,6",F/ sa,Grå färg.,0,metaller
+NC26:4,"0,6",1,F/sa,Svart färg.,1,PAH
+NC26:5,1,"1,5",Sa,Grå färg.,-,-
+NC26:6,"1,5",2,Le,Inget prov. Grå färg.,-,-
+NC27:1,0,"0,4","F/st, gr, sa",Lite material. Makadam. Brungrå färg.,"0,2",-
+-,"0,4","0,6","F/ gr, sa",Inget prov. Mörkbrun färg.,-,-
+NC27:2,"0,6","0,7",F/ sa,Brun färg översta delen och grå färg nedersta delen.,"0,2","PAH, metaller"
+NC27:3,"0,7",1,Let,Grå färg med röda inslag.,0,-
+NC27:4,1,"1,5",siSa,Grå färg. Inslag av grus.,"0,7",-
+NC27:5,"1,5",2,siSa,Grå färg.,"0,3",-
+-,0,1,F/st,Inget prov. Makadam.,-,-
+NC28:1,1,"1,5","F/ sa, gr, le",Mörkbrun färg.,"0,4","PAH, metaller"
+-,"1,5","1,6",Sa,Brun färg. Luktar dyigt.,-,-
+NC28:2,"1,6",2,saLe,Grå färg. Luktar dyigt. Sandlins.,0,metaller

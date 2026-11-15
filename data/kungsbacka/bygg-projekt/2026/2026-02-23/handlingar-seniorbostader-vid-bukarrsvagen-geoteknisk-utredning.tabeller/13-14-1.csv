@@ -1,0 +1,65 @@
+Sektion/beräkning,Analys,"Säkerhets-
+faktor",Krav,Kommentar
+"Sektion B - Stabilitet för
+planerad byggnation med
+rekommenderad ytlast",Odrän,"FOS =1,87","FOS ≥ 1,5–1,7","Tillfredställande
+Ytlast 20 kPa (tvåvånings-
+plan) + 1 m fyllning."
+"Sektion B - Stabilitet för
+planerad byggnation med
+rekommenderad ytlast",Komb,"FOS =1,76","FOS ≥ 1,4–1,5","Tillfredställande
+Ytlast 20 kPa (tvåvånings-
+plan) + 1 m fyllning."
+"Sektion B - Stabilitet för
+planerad byggnation med
+utökad ytlast",Odrän,"FOS =1,51","FOS ≥ 1,5–1,7","Tillfredställande
+(Ytlast 30 kPa (trevånings-
+plan) + 1 m fyllning."
+"Sektion B - Stabilitet för
+planerad byggnation med
+utökad ytlast",Komb,"FOS =1,44","FOS ≥ 1,4–1,5","Tillfredställande
+(Ytlast 30 kPa (trevånings-
+plan) + 1 m fyllning."
+"Sektion B -Kontroll
+känslighetsanalys för
+instängt grundvatten",Komb,"FOS =1,39","FOS ≥ 1,4–1,5","Ej Tillfredställande
+Ytlast 30kPa i kombination
+med högre grundvattennivå."
+"Sektion B -
+Känslighetsanalys
+för bäcken",Odrän,"FOS =1,98","FOS ≥ 1,4–1,6","Tillfredställande
+Fördjupad bäckfåra och
+brantare slänt.
+Högre grundvattenyta"
+"Sektion B -
+Känslighetsanalys
+för bäcken",Komb,"FOS =1,04","FOS ≥ 1,3–1,4","Ej Tillfredställande
+Fördjupad bäckfåra och
+brantare slänt.
+Högre grundvattenyta"
+"Sektion A-Kontroll av
+totalstabiliteten för den
+planerad bebyggelsen i
+förhållande till planerad
+dagvattendammen.",Odrän,"FOS =1,60","FOS ≥ 1,5–1,7","Tillfredställande
+Dammensbottens djup är ca
+1,4 m"
+"Sektion A-Kontroll av
+totalstabiliteten för den
+planerad bebyggelsen i
+förhållande till planerad
+dagvattendammen.",Komb,"FOS =1,55","FOS ≥ 1,4–1,5","Tillfredställande
+Dammensbottens djup är ca
+1,4 m"
+"Sektion C-Kontroll av den
+befintlig bebyggelsen i
+förhållande till planerad
+dagvattendammen.",Odrän,"FOS =1,73","FOS ≥ 1,5–1,7","Tillfredställande
+Dammensbottens djup är ca
+1,4 m"
+"Sektion C-Kontroll av den
+befintlig bebyggelsen i
+förhållande till planerad
+dagvattendammen.",Komb,"FOS =1,67","FOS ≥ 1,4–1,5","Tillfredställande
+Dammensbottens djup är ca
+1,4 m"

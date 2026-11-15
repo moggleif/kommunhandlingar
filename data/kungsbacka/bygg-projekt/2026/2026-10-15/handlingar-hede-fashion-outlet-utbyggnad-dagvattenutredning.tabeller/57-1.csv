@@ -1,0 +1,33 @@
+Ämne,Enhet,TARO 4,,Striktast riktvärde,
+,,"Planerad
+situation utan
+regnväxtbädd","Planerad situation
+med föreslagen
+regnväxtbädd 4",,
+,,,,Värde,Källa1
+Fosfor (P),µg/l,100,22,31,VISS
+Kväve (N),µg/l,1600,490,1250,G
+Bly (Pb),µg/l,"8,7","0,48",8,R
+Koppar (Cu),µg/l,20,"1,4",10,G
+Zink (Zn),µg/l,50,"2,5",30,G
+Kadmium (Cd),µg/l,"0,29","0,050","0,4",R/V
+Krom (Cr),µg/l,"7,9","2,2",7,G
+Nickel (Ni),µg/l,"4,0","0,74",15,R
+Kvicksilver (Hg),µg/l,"0,050","0,014","0,03",R
+Suspenderad substans (SS),µg/l,40000,4700,25000,G
+Oljeindex (Olja),µg/l,690,110,400,R
+Benso(a)pyren (BaP),µg/l,"0,031","0,0035","0,03",R
+Bensen,µg/l,"0,97","0,29",10,V
+Bromerad difenyleter (BDE 47),µg/l,"0,00019","0,000056","0,14",HaV
+Bromerad difenyleter (BDE 99),µg/l,"0,00023","0,000070","0,14",HaV
+Bromerad difenyleter (BDE 209),µg/l,"0,015","0,0045","0,14",HaV
+Tributyltenn (TBT),µg/l,"0,0017","0,00050","0,001",V
+Arsenik (As),µg/l,"2,7","0,53","7,9",HaV
+Totalt organsikt kol (TOC),µg/l,16000,4700,12000,V/G
+Polyklorerade bifenyl (PCB 28),µg/l,"0,021","0,0063","0,014",V/G
+Polyklorerade bifenyl (PCB 52),µg/l,"0,029","0,0087","0,014",V/G
+Polyklorerade bifenyl (PCB 101),µg/l,"0,0091","0,0027","0,014",V/G
+Polyklorerade bifenyl (PCB 118),µg/l,"0,0099","0,0030","0,014",V/G
+Polyklorerade bifenyl (PCB 138),µg/l,"0,0020","0,00061","0,014",V/G
+Polyklorerade bifenyl (PCB 153),µg/l,"0,0019","0,00057","0,014",V/G
+Polyklorerade bifenyl (PCB 180),µg/l,"0,0020","0,00059","0,014",V/G
