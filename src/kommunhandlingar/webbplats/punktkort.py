@@ -31,7 +31,7 @@ def punktkort(arende: Arende, lankar: Lankar) -> str:
         f"<span>Dnr {escape(arende.diarienummer)}</span></p>"
         f"<h3>{escape(rubrik)}</h3>"
         + forslag(punkt.forslag)
-        + sammanfattning(arende.sammanfattning)
+        + sammanfattning(arende.sammanfattning, arende.handling)
         + handling(arende.handling, lankar)
         + beslut(arende.beslut, lankar)
         + historik(arende, lankar)
@@ -52,9 +52,13 @@ def forslag(stycken: tuple[str, ...] | None) -> str:
     )
 
 
-def sammanfattning(stycken: tuple[str, ...]) -> str:
-    if not stycken:
+# Utan handling säger raden om handlingen det; med handling men utan
+# avsnittet sägs det här.
+def sammanfattning(stycken: tuple[str, ...], omfang: range | None) -> str:
+    if not omfang:
         return ""
+    if not stycken:
+        return "<p>Ingen sammanfattning av ärendet i handlingen.</p>"
     text = "".join(f"<p>{escape(s)}</p>" for s in stycken)
     rubrik = "<summary>Sammanfattning ur tjänsteskrivelsen</summary>"
     return f"<details>{rubrik}{text}</details>"

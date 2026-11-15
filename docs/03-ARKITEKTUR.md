@@ -2377,7 +2377,9 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
 - **Sammanfattningen** är texten efter raden `Sammanfattning av ärendet`
   eller `Sammanfattning` på punktens sidor, till nästa rubrik i
   tjänsteskrivelsen (`Beskrivning av ärendet`, `Beslutsunderlag`,
-  `Bakgrund`), sidnumret (`1 (2)`) eller sidans slut.
+  `Bakgrund`), sidnumret (`1 (2)`), e-signaturens sidfot (`Det här
+  dokumentet är digitalt signerat`) eller sidans slut. En punkt med
+  handling men utan avsnittet säger det.
 - **Beslutet** är paragrafen i sammanträdets protokoll med punktens
   diarienummer.
 - **Historiken** är paragraferna med punktens diarienummer eller med ett

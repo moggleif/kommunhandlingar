@@ -13,9 +13,13 @@ from kommunhandlingar.webbplats.dagordning import Punkt, fogat
 from kommunhandlingar.webbplats.text import SIDA
 
 SAMMANFATTNING = re.compile(r"^Sammanfattning(?: av ärendet)?$")
-# Det som avslutar sammanfattningen: tjänsteskrivelsens rubriker efter den
-# och sidnumret i sidfoten, `1 (2)`. Annars slutar den vid sidans slut.
-SLUT = re.compile(r"^(?:Beskrivning av ärendet|Beslutsunderlag|Bakgrund|\d+ \(\d+\))$")
+# Det som avslutar sammanfattningen: tjänsteskrivelsens rubriker efter den,
+# sidnumret i sidfoten, `1 (2)`, och e-signaturens sidfot. Annars slutar
+# den vid sidans slut.
+SLUT = re.compile(
+    r"^(?:(?:Beskrivning av ärendet|Beslutsunderlag|Bakgrund|\d+ \(\d+\))$"
+    r"|Det här dokumentet är digitalt signerat)"
+)
 
 
 def sidor(text: str) -> dict[int, str]:

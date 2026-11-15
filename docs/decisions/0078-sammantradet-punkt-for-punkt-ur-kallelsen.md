@@ -85,6 +85,10 @@ diarienumret utan att något lagras.
 * Bad, eftersom en sida i ett protokoll kan ha flera paragrafer, så att
   ett kort över tid kan kopplas till en punkt det inte gäller. Den
   kopplingen märks `tolkad`.
+* Bad, eftersom tolkningen av kallelsens tabell (Nr, Ärende, Beteckning,
+  Förslag) följer den form kallelserna har i dag. En kallelse i en annan
+  form ger en sida som säger att dagordningen inte gick att läsa, tills
+  tolkningen breddas (#283).
 * Neutral, eftersom rubrikerna som avslutar sammanfattningen
   (Beskrivning av ärendet, Beslutsunderlag, …) är svenska
   tjänsteskrivelsers, inte Kungsbackas.

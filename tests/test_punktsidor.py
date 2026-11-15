@@ -95,3 +95,12 @@ class TestSammanfattningen(unittest.TestCase):
 
     def test_utan_rubriken_ingen_sammanfattning(self):
         self.assertEqual(sammanfattning(sidor(HANDLINGAR), range(4, 6)), ())
+
+    def test_e_signaturens_sidfot_avslutar_sammanfattningen(self):
+        sida = (
+            "<!-- sida 1 -->\n\nSammanfattning av ärendet\n\nByggstart i höst.\n"
+            "Det här dokumentet är digitalt signerat\nTransaktionsidentitet: 1\n"
+        )
+        self.assertEqual(
+            sammanfattning(sidor(sida), range(1, 2)), ("Byggstart i höst.",)
+        )

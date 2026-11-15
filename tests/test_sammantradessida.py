@@ -4,7 +4,7 @@ sammantrade.py, sammantradessida.py, punktkort.py och organsida.py."""
 import unittest
 
 from kommunhandlingar.webbplats.bygg import bygg
-from kommunhandlingar.webbplats.punktkort import Lankar
+from kommunhandlingar.webbplats.punktkort import Lankar, sammanfattning
 from kommunhandlingar.webbplats.sammantradessida import dagordningen
 from tests.test_dokumentindex import Index
 from tests.test_webbplats import REPO, TID, dokument
@@ -161,3 +161,9 @@ class TestDagordningen(unittest.TestCase):
     def test_utan_punkter_sags_det(self):
         html = dagordningen([], Lankar("", "", {}))
         self.assertIn("Dagordningen gick inte att läsa ur kallelsen.", html)
+
+    def test_en_handling_utan_sammanfattning_sags(self):
+        self.assertIn(
+            "Ingen sammanfattning av ärendet", sammanfattning((), range(2, 3))
+        )
+        self.assertEqual(sammanfattning((), None), "")
