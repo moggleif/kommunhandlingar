@@ -1,0 +1,23 @@
+Borrhål,Djup,OCR CRS,OCR Cpt,Slutsats
+NCC2506,"3,5","2,5",7,"Tfu blir ngt lågfrån cpt, empiri osäker"
+,5,3,"4,5","Tfu blir ngt lågfrån cpt, empiri osäker"
+,,,,
+NCC2511,3,"1,5","1,5",Bra överensstämmelse och rimliga värden Empiri OK
+,5,"1,5","1,5",Bra överensstämmelse och rimliga värden Empiri OK
+,7,"1,7","1,5",Bra överensstämmelse och rimliga värden Empiri OK
+,10,"1,7","1,5",Bra överensstämmelse och rimliga värden Empiri OK
+,14,"1,3","1,5",Bra överensstämmelse och rimliga värden Empiri OK
+,18,1,"1,2",Ej trolig OCR ej empiri
+,,,,
+NC2406,12,"1,25","1,4",Något låg Empiri ok
+,15,"1,1","1,2",Låg ej empiri
+,18,"1,25","1,25",Bra Empiri ok
+,,,,
+NC2411,12,"2,1",Fel,CRS ej trolig ingen empiri
+,15,"1,5",Fel,Bra Empiri ok
+,18,"1,5",Fel,Bra Empiri ok
+,,,,
+NC10,4,"1,8",,Något hög OK empiri
+,6,Stört,,Utgår
+,8,"1,7",,Något hög OK empiri
+,12,"1,9",,Något hög OK empiri
