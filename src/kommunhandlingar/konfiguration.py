@@ -1,5 +1,7 @@
-"""Krav: K1, K22, K23 och K49 i docs/02-KRAV.md, ADR-0019, ADR-0032, ADR-0039
-och ADR-0072. Test: tests/test_konfiguration.py och tests/test_gruppmoten.py."""
+"""Krav: K1, K22, K23, K49 och K57 i docs/02-KRAV.md, ADR-0019, ADR-0032,
+ADR-0039, ADR-0072 och ADR-0080.
+Test: tests/test_konfiguration.py, tests/test_gruppmoten.py och
+tests/test_meetingsplus.py."""
 
 import tomllib
 from dataclasses import dataclass
@@ -7,7 +9,7 @@ from datetime import date
 from pathlib import Path
 
 from kommunhandlingar import schema
-from kommunhandlingar.adaptrar import episerver, sitevision
+from kommunhandlingar.adaptrar import episerver, meetingsplus, sitevision
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.gruppmote import Gruppmote, gruppmote_av
 
@@ -50,6 +52,8 @@ class Kommun:
     grupper: tuple[str, ...] = ()
     # Partiernas gruppmöten inför ett organs sammanträden (K49).
     gruppmote: Gruppmote | None = None
+    # Källor på Formpipe Meetings Plus (ADR-0080).
+    meetingsplus_kallor: tuple[meetingsplus.Kalla, ...] = ()
 
 
 def las(sokvag: Path) -> Kommun:
@@ -83,6 +87,7 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
         tuple(k for k in alla if isinstance(k, episerver.Kalla)),
         grupper,
         None if gruppmote is None else gruppmote_av(gruppmote, organ_id),
+        tuple(k for k in alla if isinstance(k, meetingsplus.Kalla)),
     )
 
 
@@ -160,7 +165,11 @@ def overlappar(a: Organ, b: Organ) -> bool:
     )
 
 
-ADAPTRAR = {"sitevision": sitevision.kalla_av, "episerver": episerver.kalla_av}
+ADAPTRAR = {
+    "sitevision": sitevision.kalla_av,
+    "episerver": episerver.kalla_av,
+    "meetingsplus": meetingsplus.kalla_av,
+}
 
 
 def kalla_av(post: dict, nummer: int, organ_id: list[str]):

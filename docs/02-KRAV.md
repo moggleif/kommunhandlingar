@@ -448,7 +448,8 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **När** hämtningen börjar
 - **Så** tas kandidaterna i samma ordning.
 
-- **Givet** en kandidatlista ur ett arkiv (K16)
+- **Givet** en kandidatlista ur ett arkiv (K16), eller kandidaterna från
+  Meetings Plus (K57) efter övriga levande kandidater
 - **När** hämtningen börjar
 - **Så** tas det nyaste sammanträdet först, för alla organ samtidigt; vid
   samma datum organ och typ som ovan, och sist i källnyckelns ordning.
@@ -1832,3 +1833,37 @@ Sidan står i [K54](#k54--ett-sammanträde-punkt-för-punkt) och
 - **Givet** ett sammanträde utan egen sida
 - **När** kalendern byggs
 - **Så** står det som förut, utan länk.
+
+## K57 — Handlingarna på Formpipe Meetings Plus
+
+Issue: [#292](https://github.com/moggleif/kommunhandlingar/issues/292).
+Hur och varför står i
+[ADR-0080](decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md)
+och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
+
+- **Givet** en källa på Meetings Plus med organets sida i kommunfilen
+- **När** upptäckten körs
+- **Så** blir varje PDF på varje möte som sidan listar en kandidat:
+  kallelsen och protokollet med sina typer och bilagorna under
+  ärendepunkterna som `bilaga`, alla med mötets datum.
+- **Givet** en bilaga under protokollet med samma filnamn som en bilaga
+  under kallelsen
+- **När** mötet läses
+- **Så** blir bara kallelsens en kandidat. En bilaga som bara står under
+  protokollet blir en kandidat.
+- **Givet** ett möte som står som samlingsmöte i kommunfilen
+- **När** mötet läses
+- **Så** ger kommunfilens mönster varje fils typ och datum ur filnamnet,
+  och en fil vars filnamn inget datum ger blir ingen kandidat och nämns i
+  sammanfattningen.
+- **Givet** en fil som inte är en PDF
+- **När** mötet läses
+- **Så** blir den ingen kandidat och nämns i sammanfattningen.
+- **Givet** kandidater från Meetings Plus
+- **När** kandidatlistan skrivs
+- **Så** står de efter övriga levande kandidater, med det nyaste mötet
+  först över alla organ.
+- **Givet** ett samlingsmöte som inte ligger direkt under någon
+  organsida i källan, eller vars sista del inte har något datum
+- **När** kommunfilen läses
+- **Så** stoppas körningen innan något hämtas.
