@@ -154,4 +154,5 @@ fel; den märks `tolkad` när sidan har paragrafer med andra diarienummer,
 i stället för att utelämnas.
 
 Samma sida för kommande eller senaste sammanträde på systerprojektets
-webbplats följs i ett eget issue där.
+webbplats följs i ett eget issue där,
+[giffa#56](https://github.com/moggleif/giffa/issues/56).

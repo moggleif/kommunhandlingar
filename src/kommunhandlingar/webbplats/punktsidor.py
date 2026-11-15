@@ -13,8 +13,8 @@ from kommunhandlingar.webbplats.dagordning import Punkt, fogat
 from kommunhandlingar.webbplats.text import SIDA
 
 SAMMANFATTNING = re.compile(r"^Sammanfattning(?: av ärendet)?$")
-# Det som avslutar sammanfattningen: tjänsteskrivelsens nästa rubrik och
-# sidnumret i sidfoten, `1 (2)`.
+# Det som avslutar sammanfattningen: tjänsteskrivelsens rubriker efter den
+# och sidnumret i sidfoten, `1 (2)`. Annars slutar den vid sidans slut.
 SLUT = re.compile(r"^(?:Beskrivning av ärendet|Beslutsunderlag|Bakgrund|\d+ \(\d+\))$")
 
 
@@ -34,15 +34,22 @@ def ar_punktens(nummer: str, punkt: Punkt) -> bool:
 
 
 def handlingen(handlingar: dict[int, str], punkter: list[Punkt]) -> dict[int, range]:
-    borjan, fran = {}, min(handlingar, default=1)
+    starter = list(borjan(handlingar, punkter).items())
+    if not starter:
+        return {}
+    slut = [start for _, start in starter[1:]] + [max(handlingar) + 1]
+    return {nr: range(start, s) for (nr, start), s in zip(starter, slut, strict=True)}
+
+
+# Varje punkts första sida, för de punkter som har en; i dagordningens ordning.
+def borjan(handlingar: dict[int, str], punkter: list[Punkt]) -> dict[int, int]:
+    starter, fran = {}, min(handlingar, default=1)
     for punkt in punkter:
         for nr in range(fran, max(handlingar, default=0) + 1):
             if any(ar_punktens(n, punkt) for n in diarienummer(handlingar[nr])):
-                borjan[punkt.nummer], fran = nr, nr + 1
+                starter[punkt.nummer], fran = nr, nr + 1
                 break
-    starter = sorted(borjan.items(), key=lambda p: p[1])
-    slut = [s for _, s in starter[1:]] + [max(handlingar, default=0) + 1]
-    return {nr: range(start, s) for (nr, start), s in zip(starter, slut, strict=True)}
+    return starter
 
 
 def sammanfattning(handlingar: dict[int, str], omfang: range) -> tuple[str, ...]:

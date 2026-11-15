@@ -1,7 +1,11 @@
 """Krav: K54 i docs/02-KRAV.md, ADR-0078. Kod: src/kommunhandlingar/webbplats/
 sammantrade.py, sammantradessida.py, punktkort.py och organsida.py."""
 
+import unittest
+
 from kommunhandlingar.webbplats.bygg import bygg
+from kommunhandlingar.webbplats.punktkort import Lankar
+from kommunhandlingar.webbplats.sammantradessida import dagordningen
 from tests.test_dokumentindex import Index
 from tests.test_webbplats import REPO, TID, dokument
 
@@ -113,7 +117,7 @@ class TestSammantradessida(Index):
 
     def test_historiken_har_andra_sammantraden_men_inte_det_egna(self):
         kort = self.punkt(1)
-        self.assertIn("Historik: 1 paragrafer", kort)
+        self.assertIn("Historik: 1 paragraf, 0 kort", kort)
         self.assertIn("<b>2024-03-01</b>", kort)
         self.assertIn("§ 9</a> Lokalbehovet anmäls", kort)
 
@@ -135,7 +139,7 @@ class TestSammantradessida(Index):
         self.assertIn('2024-05-02 – <a href="fsn/2024/2024-05-02.html">', organsida)
         self.assertNotIn("2024-03-01 – <a", organsida)
 
-    def test_utan_kallelse_eller_fore_aret_ingen_sida(self):
+    def test_utan_kallelse_ingen_sida(self):
         self.spara("protokoll.md", dokument(text=PROTOKOLL))
         bygg(self.rot, self.ut, REPO, TID)
         self.assertFalse(
@@ -151,3 +155,9 @@ class TestSammantradessida(Index):
         )
         with self.assertRaises(FileNotFoundError):
             self.bygg()
+
+
+class TestDagordningen(unittest.TestCase):
+    def test_utan_punkter_sags_det(self):
+        html = dagordningen([], Lankar("", "", {}))
+        self.assertIn("Dagordningen gick inte att läsa ur kallelsen.", html)

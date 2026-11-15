@@ -35,10 +35,14 @@ def steg(sida: int, namn: str = "Ny skola") -> Steg:
 
 class TestKortkoppling(unittest.TestCase):
     def test_sidan_tacks_av_den_sista_paragrafen_som_borjat(self):
-        self.assertEqual(tacker(INDEX, f"{FIL}#sida-3"), ["FSN-2024-1"])
+        self.assertEqual(tacker(INDEX, f"{FIL}#sida-3"), [["FSN-2024-1"]])
 
     def test_paragraferna_som_borjar_pa_sidan(self):
-        self.assertEqual(tacker(INDEX, f"{FIL}#sida-4"), ["FSN-2024-2", "FSN-2024-3"])
+        paragraferna = [["FSN-2024-2"], ["FSN-2024-3"]]
+        self.assertEqual(tacker(INDEX, f"{FIL}#sida-4"), paragraferna)
+
+    def test_en_kalla_over_flera_sidor_raknas_fran_den_forsta(self):
+        self.assertEqual(tacker(INDEX, f"{FIL}#sida-3-5"), [["FSN-2024-1"]])
 
     def test_en_sida_fore_forsta_paragrafen_och_ett_annat_dokument(self):
         self.assertEqual(tacker(INDEX, f"{FIL}#sida-1"), [])
@@ -50,3 +54,9 @@ class TestKortkoppling(unittest.TestCase):
         rubrik = "Initiativärenden, Förskole- och skolnämnden: Ny skola"
         self.assertEqual(lankar["FSN-2024-1"], [Kortlank(adress, rubrik, False)])
         self.assertEqual(lankar["FSN-2024-3"], [Kortlank(adress, rubrik, True)])
+
+    def test_en_paragraf_med_tva_nummer_ar_inte_tolkad(self):
+        index = sidindex([paragraf(2, "FSN-2024-1", "FSN-2024-9")])
+        lankar = kortlankar(exempelby(), [(INITIATIV, [steg(2)])], index)
+        self.assertFalse(lankar["FSN-2024-1"][0].tolkad)
+        self.assertFalse(lankar["FSN-2024-9"][0].tolkad)

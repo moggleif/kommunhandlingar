@@ -7,7 +7,6 @@ tests/test_dokumentindex.py, tests/test_paragrafindex.py,
 tests/test_sammantradessida.py.
 """
 
-import json
 import shutil
 from dataclasses import replace
 from datetime import datetime
@@ -23,24 +22,20 @@ from kommunhandlingar.webbplats import (
     mal,
     paragrafindex,
     projekt,
-    sammantrade,
+    sammantradesbygge,
     sidor,
     spar,
     uppfoljningar,
 )
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
-from kommunhandlingar.webbplats.kortkoppling import kortlankar, sidindex
 from kommunhandlingar.webbplats.llms import llms
 from kommunhandlingar.webbplats.mall import Mall, statusadress
 from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
 from kommunhandlingar.webbplats.malsida import malsida
 from kommunhandlingar.webbplats.organsida import organsida
 from kommunhandlingar.webbplats.oversikt import kommunsida
-from kommunhandlingar.webbplats.punktsidor import sidor as pdfsidorna
 from kommunhandlingar.webbplats.rakning import okanda, rakna
-from kommunhandlingar.webbplats.sammantrade import Mote, Underlag, per_nummer
-from kommunhandlingar.webbplats.sammantradessida import sammantradessida
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
 from kommunhandlingar.webbplats.sparsida import sparsida
@@ -80,7 +75,8 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
         stycken += paragrafindex.av_dokument(falt, text, katalog)
     dokumentindex.skriv(ut, dokument, katalog)
     paragrafindex.skriv(ut, stycken, katalog)
-    bygg_sammantraden(katalog, ut, mall, underlaget(mall, kommun, dokument, stycken))
+    underlag = sammantradesbygge.underlag(mall, katalog, kommun, (dokument, stycken))
+    sammantradesbygge.bygg(ut, mall, underlag)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
     rader = rakna(kommun, dokument, mall.byggd.date())
@@ -110,35 +106,6 @@ def bygg_sparen(ut: Path, mall: Mall, kommun: Kommun, organ: str) -> None:
             html = sparsida(mall, vy, stegen)
             adress = sparets_adress(kommun, organ, slag)
             (ut / adress).write_text(html, encoding="utf-8")
-
-
-def underlaget(mall: Mall, kommun: Kommun, dokument: list[dict], stycken: list[str]):
-    paragraferna = [json.loads(rad) for rad in stycken]
-    sparen = [(s, mall.spar[s.id].get(kommun.id, [])) for s in SLAGEN]
-    kort = kortlankar(kommun, sparen, sidindex(paragraferna))
-    return Underlag(kommun, dokument, paragraferna, per_nummer(paragraferna), kort)
-
-
-def bygg_sammantraden(katalog: Path, ut: Path, mall: Mall, underlag: Underlag) -> None:
-    for dokumenten in sammantrade.moten(underlag):
-        mote = Mote(
-            underlag.kommun,
-            dokumenten,
-            forsta_text(katalog, dokumenten, "kallelse"),
-            pdfsidorna(forsta_text(katalog, dokumenten, "handlingar")),
-            sammantrade.egna(underlag, dokumenten),
-        )
-        html = sammantradessida(mall, mote, sammantrade.arenden(mote, underlag))
-        sidfil = ut / underlag.kommun.id / sammantrade.adress(dokumenten)
-        sidfil.write_text(html, encoding="utf-8")
-
-
-def forsta_text(katalog: Path, dokumenten: list[dict], typ: str) -> str:
-    funna = [d for d in sammantrade.ordnade(dokumenten) if d["typ"] == typ]
-    if not funna:
-        return ""
-    fil = (katalog / funna[0]["adress"]).with_suffix(".md")
-    return frontmatter.brodtext(fil.read_text(encoding="utf-8"))
 
 
 def las_projekten(rot: Path, kommuner: list[Kommun], planerna: dict) -> dict:

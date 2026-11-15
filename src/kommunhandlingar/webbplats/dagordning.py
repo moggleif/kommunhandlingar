@@ -42,8 +42,9 @@ def rubrik(cell: str) -> str:
     return fogat(takewhile(lambda r: not TIDPUNKT.match(r), cell.split("<br>")))
 
 
-# Raderna blir en text; ett avstavat ord fogas ihop och Markdowns
-# escapning tas bort.
+# Raderna blir en text och Markdowns escapning tas bort. En rad som slutar
+# med bindestreck fogas till nästa utan mellanslag; bindestrecket står
+# kvar, eftersom det lika gärna kan höra till ett sammansatt ord.
 def fogat(rader: Iterable[str]) -> str:
     text = ""
     for rad in (r.strip() for r in rader):

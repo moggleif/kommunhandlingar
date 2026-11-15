@@ -82,9 +82,12 @@ def historik(arende: Arende, lankar: Lankar) -> str:
         return "<p>Historik: inga andra paragrafer med diarienumret i poolen.</p>"
     kort = "".join(kortpost(k, lankar) for k in arende.kort)
     poster = "".join(paragraf(p, arende.diarienummer, lankar) for p in arende.historik)
-    antal = f"{len(arende.historik)} paragrafer, {len(arende.kort)} kort"
+    hur_manga = (
+        f"{antal(len(arende.historik), 'paragraf', 'paragrafer')}, "
+        f"{len(arende.kort)} kort"
+    )
     return (
-        f"<details><summary>Historik: {antal}</summary>"
+        f"<details><summary>Historik: {hur_manga}</summary>"
         f"{f'<ul>{kort}</ul>' if kort else ''}<ol>{poster}</ol></details>"
     )
 
@@ -108,3 +111,7 @@ def paragraf(p: dict, nummer: str, lankar: Lankar) -> str:
 
 def paragrafs_lank(p: dict, lankar: Lankar) -> str:
     return f'<a href="{escape(lankar.rot + p["sida"])}">§ {p["paragraf"]}</a>'
+
+
+def antal(tal: int, ett: str, flera: str) -> str:
+    return f"{tal} {ett if tal == 1 else flera}"

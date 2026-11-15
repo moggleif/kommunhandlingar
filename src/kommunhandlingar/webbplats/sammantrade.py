@@ -10,7 +10,7 @@ med kallelsens, och annars kallelsens.
 from collections import defaultdict
 from dataclasses import dataclass
 from functools import cached_property
-from pathlib import PurePosixPath
+from pathlib import Path, PurePosixPath
 
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
@@ -28,6 +28,8 @@ from kommunhandlingar.webbplats.punktsidor import (
 @dataclass(frozen=True)
 class Underlag:
     kommun: Kommun
+    # Kommunens katalog i poolen, `data/<kommun>`.
+    katalog: Path
     # Kommunens dokument, front matter med `adress` i kommunens katalog.
     dokument: list[dict]
     paragrafer: list[dict]

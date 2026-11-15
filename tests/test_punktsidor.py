@@ -69,6 +69,10 @@ class TestHandlingen(unittest.TestCase):
         )
         self.assertEqual(omfang, {5: range(4, 6)})
 
+    def test_utan_nagon_borjan_ingen_handling(self):
+        self.assertEqual(handlingen(self.sidor, [punkt(2, "2026-00014")]), {})
+        self.assertEqual(handlingen({}, [punkt(1, "2026-00543")]), {})
+
     def test_handlingarna_foljer_dagordningen(self):
         omfang = handlingen(
             self.sidor, [punkt(5, "2026-00246"), punkt(6, "2026-00543")]

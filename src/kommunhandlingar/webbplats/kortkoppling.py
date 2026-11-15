@@ -33,18 +33,21 @@ def sidindex(paragrafer: list[dict]) -> Sidindex:
     return index
 
 
-def tacker(index: Sidindex, kalla: str) -> list[str]:
-    fil, _, sida = kalla.partition("#sida-")
-    fore = [(s, d) for s, d in index.get(fil, []) if sida and s <= int(sida)]
+# Diarienumren för varje paragraf som täcker källans sida. En källa över
+# flera sidor, `#sida-3-5`, räknas från sin första sida.
+def tacker(index: Sidindex, kalla: str) -> list[list[str]]:
+    fil, _, sidor = kalla.partition("#sida-")
+    sida = int(sidor.split("-")[0]) if sidor else 0
+    fore = [(s, d) for s, d in index.get(fil, []) if s <= sida]
     forsta = max((s for s, _ in fore), default=None)
-    return [n for s, dnr in fore if s == forsta for n in dnr]
+    return [dnr for s, dnr in fore if s == forsta]
 
 
 def kortlankar(kommun: Kommun, sparen: Spar, index: Sidindex):
-    lankar = defaultdict(list)
+    lankar, namnen = defaultdict(list), organnamn(kommun)
     for slag, organ, nr, (namn, stegen, _) in alla_saker(sparen):
         sidans = f"{adress(kommun, organ, slag)}#sak-{nr}"
-        rubrik = f"{slag.rubrik}, {organnamn(kommun, organ)}: {namn}"
+        rubrik = f"{slag.rubrik}, {namnen[organ]}: {namn}"
         for dnr, tolkad in kopplingar(index, stegen).items():
             lankar[dnr].append(Kortlank(sidans, rubrik, tolkad))
     return lankar
@@ -58,14 +61,17 @@ def alla_saker(sparen: Spar):
             yield from ((slag, organ, nr, sak) for nr, sak in enumerate(sakerna))
 
 
+# Ett nummer är tolkat när sidan också har en paragraf utan det, och
+# kopplingen är direkt om något steg är det.
 def kopplingar(index: Sidindex, stegen: list[Steg]) -> dict[str, bool]:
     funna = {}
     for steg in stegen:
-        numren = tacker(index, steg.kalla)
-        for dnr in numren:
-            funna[dnr] = funna.get(dnr, True) and len(set(numren)) > 1
+        paragraferna = tacker(index, steg.kalla)
+        for dnr in {n for numren in paragraferna for n in numren}:
+            tolkad = any(dnr not in numren for numren in paragraferna)
+            funna[dnr] = funna.get(dnr, True) and tolkad
     return funna
 
 
-def organnamn(kommun: Kommun, organ: str) -> str:
-    return next(o.namn[0] for o in kommun.organ if o.id == organ)
+def organnamn(kommun: Kommun) -> dict[str, str]:
+    return {o.id: o.namn[0] for o in kommun.organ}

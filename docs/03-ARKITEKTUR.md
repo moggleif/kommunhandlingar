@@ -2366,15 +2366,18 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
   protokollet som är detsamma eller slutar med `-` och kallelsens nummer
   (`KS-2026-00543`), och annars kallelsens.
 - **Handlingen** (`punktsidor.py`): handlingarna följer dagordningen. En
-  punkt börjar på första sidan efter kallelsens sidor, och efter förra
-  punktens början, där ett diarienummer efter `Dnr` eller `Diarienummer`
-  ([`diarienummer.py`](#paragraferna-och-ärendena)) är punktens. Punkten
+  punkt börjar på första sidan efter förra punktens början där ett
+  diarienummer efter `Dnr` eller `Diarienummer`
+  ([`diarienummer.py`](#paragraferna-och-ärendena)) är punktens. Kallelsens
+  tabell står först i handlingarna men har numren utan de orden, så den
+  blir ingen punkts början. Punkten
   slutar sidan före nästa punkts början. En punkt utan en sådan sida har
   ingen handling. Har sammanträdet flera handlingar delas den första,
   den utan namn.
 - **Sammanfattningen** är texten efter raden `Sammanfattning av ärendet`
   eller `Sammanfattning` på punktens sidor, till nästa rubrik i
-  tjänsteskrivelsen, sidnumret (`1 (2)`) eller sidans slut.
+  tjänsteskrivelsen (`Beskrivning av ärendet`, `Beslutsunderlag`,
+  `Bakgrund`), sidnumret (`1 (2)`) eller sidans slut.
 - **Beslutet** är paragrafen i sammanträdets protokoll med punktens
   diarienummer.
 - **Historiken** är paragraferna med punktens diarienummer eller med ett
@@ -2384,3 +2387,7 @@ kallelse, handlingar och protokoll och ur kommunens paragrafer
   täcker sidan, alltså de som börjar där eller annars den sista som
   börjat före. Har sidan paragrafer med andra diarienummer är kopplingen
   `tolkad`.
+
+Bygget (`sammantradesbygge.py`) läser kommunens paragrafer och korten en
+gång och skriver sedan en sida per sammanträde; sidan sätts ihop i
+`sammantradessida.py` och varje punkt i `punktkort.py`.
