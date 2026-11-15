@@ -1,8 +1,10 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47 och K48 i docs/02-KRAV.md.
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48 och K54 i
+docs/02-KRAV.md.
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
 tests/test_uppfoljningar.py, tests/test_lokalbehov.py, tests/test_initiativ.py,
-tests/test_dokumentindex.py, tests/test_paragrafindex.py.
+tests/test_dokumentindex.py, tests/test_paragrafindex.py,
+tests/test_sammantradessida.py.
 """
 
 import shutil
@@ -20,6 +22,7 @@ from kommunhandlingar.webbplats import (
     mal,
     paragrafindex,
     projekt,
+    sammantradesbygge,
     sidor,
     spar,
     uppfoljningar,
@@ -72,6 +75,8 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
         stycken += paragrafindex.av_dokument(falt, text, katalog)
     dokumentindex.skriv(ut, dokument, katalog)
     paragrafindex.skriv(ut, stycken, katalog)
+    underlag = sammantradesbygge.underlag(mall, katalog, kommun, (dokument, stycken))
+    sammantradesbygge.bygg(ut, mall, underlag)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
     rader = rakna(kommun, dokument, mall.byggd.date())

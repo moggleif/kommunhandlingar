@@ -11,7 +11,16 @@ from kommunhandlingar.adaptrar import episerver, sitevision
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.gruppmote import Gruppmote, gruppmote_av
 
-ORGANFALT = {"id", "namn", "fran", "till", "foregangare", "hor_till", "grupp"}
+ORGANFALT = {
+    "id",
+    "namn",
+    "fran",
+    "till",
+    "foregangare",
+    "hor_till",
+    "grupp",
+    "sammantradessidor",
+}
 
 
 @dataclass(frozen=True)
@@ -24,6 +33,8 @@ class Organ:
     hor_till: str | None = None
     # Gruppen organet står i på kommunens sida; ett utskott står i sitt organs.
     grupp: str | None = None
+    # Första året organets sammanträden får en egen sida (K54).
+    sammantradessidor: int | None = None
 
 
 @dataclass(frozen=True)
@@ -96,6 +107,7 @@ def organ_av(post: dict) -> Organ:
         schema.textlista(post, "foregangare", var),
         schema.valfritt(post, "hor_till", str, var),
         schema.valfritt(post, "grupp", str, var),
+        schema.valfritt(post, "sammantradessidor", int, var),
     )
 
 

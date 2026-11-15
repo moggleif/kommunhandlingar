@@ -1,4 +1,4 @@
-"""Krav: K18, K26, K36, K37 och K39 i docs/02-KRAV.md, ADR-0023.
+"""Krav: K18, K26, K36, K37, K39 och K54 i docs/02-KRAV.md, ADR-0023.
 Test: tests/test_webbplats_dokument.py, tests/test_mal.py, tests/test_lokalbehov.py,
 tests/test_initiativ.py."""
 
@@ -6,12 +6,13 @@ from collections import defaultdict
 from html import escape
 
 from kommunhandlingar.frontmatter import adresser, lista
-from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, lank, sida
 from kommunhandlingar.webbplats.rakning import Organrad
+from kommunhandlingar.webbplats.sammantrade import adress as sammantradets
+from kommunhandlingar.webbplats.sammantrade import har_sida, ordnade
 
 Mote = tuple[str, str]
 
@@ -23,7 +24,8 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
     saknas = {(lucka.datum, lucka.lopnr): lucka.saknas for lucka in rad.luckor}
     ar = defaultdict(list)
     for mote in sorted(moten, key=ordning, reverse=True):
-        ar[mote[0][:4]].append(motesavsnitt(mote, moten[mote], saknas.get(mote, ())))
+        rubrik = moterubrik(mote, kommun, moten[mote])
+        ar[mote[0][:4]].append(motesavsnitt(rubrik, moten[mote], saknas.get(mote, ())))
     adress = f"{kommun.id}/{rad.id}.html"
     innehall = flikar(mall, kommun.id, rad.id, SAMMANTRADEN) + (
         "".join(f"<h2>{escape(a)}</h2>{''.join(m)}" for a, m in ar.items())
@@ -42,18 +44,20 @@ def dokumentrubrik(d: dict) -> str:
     return d["typ"] + ("" if d["namn"] == "null" else f" – {d['namn']}")
 
 
-def motesavsnitt(mote: Mote, dokument: list[dict], saknas: tuple[str, ...]) -> str:
-    ordnade = sorted(dokument, key=lambda d: (TYPORDNING.index(d["typ"]), namnet(d)))
-    poster = [dokumentpost(d) for d in ordnade]
-    poster += [f"{escape(grupp)} saknas" for grupp in saknas]
+# Rubriken länkar till sammanträdets sida när den finns (K54).
+def moterubrik(mote: Mote, kommun: Kommun, dokument: list[dict]) -> str:
     namn = escape(motesnamn(*mote))
+    if not har_sida(kommun, dokument):
+        return f'<h3 id="{namn}">{namn}</h3>'
+    lank = f'<a href="{escape(sammantradets(dokument))}">punkt för punkt</a>'
+    return f'<h3 id="{namn}">{namn} – {lank}</h3>'
+
+
+def motesavsnitt(rubrik: str, dokument: list[dict], saknas: tuple[str, ...]) -> str:
+    poster = [dokumentpost(d) for d in ordnade(dokument)]
+    poster += [f"{escape(grupp)} saknas" for grupp in saknas]
     punkter = "".join(f"<li>{post}</li>" for post in poster)
-    return f'<h3 id="{namn}">{namn}</h3><ul>{punkter}</ul>'
-
-
-# Dokumentet utan namn först, sedan de namngivna i bokstavsordning.
-def namnet(d: dict) -> tuple[bool, str]:
-    return d["namn"] != "null", d["namn"]
+    return f"{rubrik}<ul>{punkter}</ul>"
 
 
 def dokumentpost(d: dict) -> str:

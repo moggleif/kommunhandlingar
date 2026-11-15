@@ -346,6 +346,7 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | `organ.hor_till`       | Id för organet det här är utskott till, så att de får samma färgton i [kalendern](#kalendern) och utskottet står under organet på kommunens sida. Utelämnas annars. |
 | `grupper`              | Rubrikerna som delar in kommunens sida ([Webbplatsen](#webbplatsen)), i sin ordning. Utelämnas när sidan inte ska delas in. |
 | `organ.grupp`          | Gruppen ur `grupper` som organet står i. Krävs med grupper för varje organ utan `hor_till`, och utelämnas för utskott. |
+| `organ.sammantradessidor` | Första året organets sammanträden får en egen sida punkt för punkt ([Sammanträdets sida](#sammanträdets-sida)). Utelämnas annars. |
 | `gruppmote`            | Partiernas gruppmöten i [kalendern](#kalendern): `fore` (organets id), `veckodag` (`måndag` … `söndag`) och `tid` (texten som visas). Utelämnas när kommunen inte har några. |
 | `kalla.adapter`        | Adaptern som läser källan.                                   |
 | `kalla.monster`        | Hur adaptern översätter en rubrik, ett filnamn eller en sökväg till organ, datum och typ. |
@@ -1691,7 +1692,9 @@ varje push till `main`, för hand och när ett issue med etiketten
 - **Sidorna:** en startsida, en översikt per kommunfil i `kommuner/`
   (`<kommun>.html`), en statussida per kommun (`<kommun>/status.html`),
   en sida per organ i kommunfilen
-  (`<kommun>/<organ>.html`), en sida per dokument i poolen, på samma
+  (`<kommun>/<organ>.html`), en sida per sammanträde punkt för punkt för
+  organ med `sammantradessidor` (`<kommun>/<organ>/<år>/<sammanträde>.html`,
+  [Sammanträdets sida](#sammanträdets-sida)), en sida per dokument i poolen, på samma
   sökväg som under `data/` med `.html` i stället för `.md`, och en
   kalender per kommun med en kalenderfil (`<kommun>/kalender.html`,
   [Kalendern](#kalendern)), och en sida om målen och direktiven för
@@ -2334,3 +2337,59 @@ med de här skillnaderna:
 - **Formerna** som faserna ritas med delas av alla slag och står i
   `sparformer.py`. Slaget står i `granskningsslag.py` och listas i
   `sparslag.py` med de andra.
+
+## Sammanträdets sida
+
+Hur och varför står i
+[ADR-0078](decisions/0078-sammantradet-punkt-for-punkt-ur-kallelsen.md)
+(K54). Sidan räknas fram när webbplatsen byggs, ur sammanträdets
+kallelse, handlingar och protokoll och ur kommunens paragrafer
+([Paragraferna och ärendena](#paragraferna-och-ärendena)). Inget lagras.
+
+- **Vilka sammanträden:** organ med `sammantradessidor` i kommunfilen,
+  från det året, när sammanträdet har en kallelse. Sidan ligger bredvid
+  sammanträdets katalog, `<kommun>/<organ>/<år>/<sammanträde>.html`, och
+  sammanträdets rubrik på organets sida länkar dit ("punkt för punkt").
+- **Överst** står en rad per dokument från sammanträdet, i
+  organsidans ordning (kallelse, handlingar, protokoll), med antalet sidor.
+- **Förslaget** är kallelsens. En punkt utan förslag i tabellen säger att
+  kallelsen inte har något; en punkt ur löptext säger att det inte gick
+  att läsa.
+- **Dagordningen** (`dagordning.py`) är kallelsens tabellrader som börjar
+  med punktens nummer: rubriken (till första raden som börjar med en
+  tidpunkt, `13.00–13.45`), beteckningen och förslaget. En punkt som
+  konverteringen skrev som löptext, med numret och diarienumret på samma
+  rad, kommer med utan förslag, och rubriken tas då ur protokollets
+  paragraf.
+- **Diarienumret.** Kallelsen skriver numret utan organets förled
+  (`2026-00543`). Punktens diarienummer är numret i handlingen eller
+  protokollet som är detsamma eller slutar med `-` och kallelsens nummer
+  (`KS-2026-00543`), och annars kallelsens.
+- **Handlingen** (`punktsidor.py`): handlingarna följer dagordningen. En
+  punkt börjar på första sidan efter förra punktens början där ett
+  diarienummer efter `Dnr` eller `Diarienummer`
+  ([`diarienummer.py`](#paragraferna-och-ärendena)) är punktens. Kallelsens
+  tabell står först i handlingarna men har numren utan de orden, så den
+  blir ingen punkts början. Punkten
+  slutar sidan före nästa punkts början. En punkt utan en sådan sida har
+  ingen handling. Har sammanträdet flera handlingar delas den första,
+  den utan namn.
+- **Sammanfattningen** är texten efter raden `Sammanfattning av ärendet`
+  eller `Sammanfattning` på punktens sidor, till nästa rubrik i
+  tjänsteskrivelsen (`Beskrivning av ärendet`, `Beslutsunderlag`,
+  `Bakgrund`), sidnumret (`1 (2)`), e-signaturens sidfot (`Det här
+  dokumentet är digitalt signerat`) eller sidans slut. En punkt med
+  handling men utan avsnittet säger det.
+- **Beslutet** är paragrafen i sammanträdets protokoll med punktens
+  diarienummer.
+- **Historiken** är paragraferna med punktens diarienummer eller med ett
+  diarienummer som står i punktens handling, utom sammanträdets egen,
+  sorterade efter datum. Korten över tid kopplas genom sina steg: ett
+  steg vars källa är en sida i ett protokoll hör till paragrafen som
+  täcker sidan, alltså de som börjar där eller annars den sista som
+  börjat före. Har sidan paragrafer med andra diarienummer är kopplingen
+  `tolkad`.
+
+Bygget (`sammantradesbygge.py`) läser kommunens paragrafer och korten en
+gång och skriver sedan en sida per sammanträde; sidan sätts ihop i
+`sammantradessida.py` och varje punkt i `punktkort.py`.
