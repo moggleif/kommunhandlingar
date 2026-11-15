@@ -1,4 +1,5 @@
-"""Krav: K4–K6, ADR-0005 och ADR-0009. Kod: src/kommunhandlingar/konvertering/."""
+"""Krav: K4–K6 och K55, ADR-0005, ADR-0009 och ADR-0079.
+Kod: src/kommunhandlingar/konvertering/."""
 
 import os
 import unittest
@@ -9,8 +10,8 @@ from unittest import mock
 import pypdfium2 as pdfium
 
 from kommunhandlingar.fel import Konfigurationsfel
-from kommunhandlingar.konvertering import ocr
-from kommunhandlingar.konvertering.dokument import konvertera, versioner
+from kommunhandlingar.konvertering import dokument, ocr
+from kommunhandlingar.konvertering.dokument import konvertera, tecken, versioner
 from kommunhandlingar.konvertering.kvalitet import dokumentets
 from kommunhandlingar.konvertering.ocr import medelsakerhet
 from kommunhandlingar.konvertering.tabeller import som_csv, som_markdown
@@ -90,6 +91,39 @@ class TestSidorna(unittest.TestCase):
         self.assertTrue(sida.text.startswith("```osaker-tabell\nIntäkter"))
         self.assertIn("4 078        12", sida.text)
         self.assertEqual(sida.tabeller, [])
+
+
+class TestTeckentaket(unittest.TestCase):
+    """K55: en sida med fler tecken än taket läses inte."""
+
+    def test_taket_ar_en_halv_miljon_tecken(self):
+        self.assertEqual(dokument.TECKENTAK, 500_000)
+
+    def test_sida_over_taket_blir_ej_konverterad_figur(self):
+        with mock.patch.object(dokument, "TECKENTAK", 0):
+            resultat = konvertera(PDF / "sidor.pdf")
+        self.assertEqual(resultat.kvalitet_per_sida[0], "ej-konverterad")
+        self.assertEqual(resultat.sidor[0].text, "")
+        self.assertIn(1, resultat.figurer)
+        self.assertIn(1, resultat.tal_obekraftade)
+        self.assertEqual(resultat.kvalitet_per_sida[3], "tom")
+
+    def test_sida_pa_taket_lases(self):
+        with pdfium.PdfDocument(PDF / "sidor.pdf") as pdf:
+            antal = tecken(pdf[0])
+        with mock.patch.object(dokument, "TECKENTAK", antal):
+            resultat = konvertera(PDF / "sidor.pdf")
+        self.assertEqual(resultat.kvalitet_per_sida[0], "ok")
+        self.assertIn("Paragraf 12", resultat.sidor[0].text)
+
+    def test_ovriga_sidor_lases_som_vanligt(self):
+        with pdfium.PdfDocument(PDF / "sidor.pdf") as pdf:
+            antal = tecken(pdf[0])
+        with mock.patch.object(dokument, "TECKENTAK", antal - 1):
+            resultat = konvertera(PDF / "sidor.pdf")
+        self.assertEqual(resultat.kvalitet_per_sida[0], "ej-konverterad")
+        self.assertEqual(resultat.kvalitet_per_sida[1], "ok")
+        self.assertEqual(resultat.kvalitet, "delvis")
 
 
 class TestFilerSomInteGarAttOppna(unittest.TestCase):

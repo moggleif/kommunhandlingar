@@ -1791,3 +1791,19 @@ och [Sammanträdets sida](03-ARKITEKTUR.md#sammanträdets-sida).
   diarienummer
 - **När** kortet kopplas till punkten
 - **Så** är kopplingen märkt `tolkad`.
+
+## K55 — En sida som är för tung att läsa gör inte hela dokumentet okonverterat
+
+Issue: [#275](https://github.com/moggleif/kommunhandlingar/issues/275).
+Hur och varför står i
+[ADR-0079](decisions/0079-en-sida-med-fler-an-en-halv-miljon-tecken-lases-inte.md)
+och [Konvertering och kvalitet](03-ARKITEKTUR.md#konvertering-och-kvalitet).
+
+- **Givet** en sida vars textlager har fler än 500 000 tecken
+- **När** dokumentet konverteras
+- **Så** läses sidan inte: den blir `ej-konverterad`, står i
+  `tal_obekraftade` och i `figurer`, och dokumentets övriga sidor
+  konverteras som vanligt.
+- **Givet** en sida med högst 500 000 tecken
+- **När** dokumentet konverteras
+- **Så** läses den som förut.

@@ -102,3 +102,4 @@ Regler för det här repot, utöver MADR:
 | 0076 | [Arkivet konverterar om sina egna dokument från en annan version av poolen, efter luckorna](0076-arkivet-konverterar-om-sina-egna-dokument.md) | accepted |
 | 0077 | [Mötessidorna hämtas först i ett eget jobb, och varje ny version av ett dokument skrivs i en versionslogg](0077-motessidorna-forst-och-en-versionslogg.md) | accepted |
 | 0078 | [Sammanträdet visas punkt för punkt ur kallelsens dagordning, med handlingens sidor, beslutet och historiken räknade fram vid bygget](0078-sammantradet-punkt-for-punkt-ur-kallelsen.md) | proposed |
+| 0079 | [En sida med fler än 500 000 tecken läses inte, utan blir `ej-konverterad` och märks som figur](0079-en-sida-med-fler-an-en-halv-miljon-tecken-lases-inte.md) | accepted |
