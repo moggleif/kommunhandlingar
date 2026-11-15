@@ -391,7 +391,8 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **När** den ska checka in
 - **Så** körs datakontrollerna först, och bara om de går igenom checkas
   ändringen in, på en egen gren som en commit som bara rör filer under
-  `data/`; den når `main` genom en PR där samma kontroller körs igen
+  `data/` och `versioner/` (K53);
+  den når `main` genom en PR där samma kontroller körs igen
   (ADR-0015).
 
 - **Givet** en körning som har pushat sin gren, i ett repo med en token
@@ -1722,3 +1723,31 @@ och [Körning och incheckning](03-ARKITEKTUR.md#körning-och-incheckning).
 - **Så** hämtas kopian och konverteras om som i K8, efter arkivets
   luckor. Ett dokument från en levande källa ersätts fortfarande aldrig av
   en kopia ur arkivet (K16).
+
+## K53 — Mötessidorna först, och en logg över varje ny version
+
+Issue: [#276](https://github.com/moggleif/kommunhandlingar/issues/276).
+Hur och varför står i
+[ADR-0077](decisions/0077-motessidorna-forst-och-en-versionslogg.md)
+och [Versionsloggen](03-ARKITEKTUR.md#versionsloggen).
+
+- **Givet** en schemalagd eller manuell körning
+- **När** den startar
+- **Så** hämtas det nya och ändrade i kommunernas levande källor först, i en
+  egen del som checkar in på en egen gren och öppnar en egen PR när den är
+  klar, utan att vänta på omkonverteringen eller arkivet; de körs sedan
+  ovanpå den grenen, med en egen gren och PR.
+- **Givet** att den första delen faller
+- **När** körningen fortsätter
+- **Så** börjar den andra delen från `main` och tar de levande källorna
+  igen; går de igenom där körs arkivet.
+- **Givet** ett dokument från en levande källa som poolen inte har, eller som
+  har fått en ny adress eller ett nytt innehåll
+- **När** steg 2 har tagit in det, också när det inte gick att hämta eller
+  när steg 2 stoppas av ett fel efter det
+- **Så** har `versioner/<kommun>.csv` fått en rad med när körningen såg det,
+  organ, datum, typ, källnyckel, adress, sha256 och dokumentets sökväg.
+- **Givet** en körning där inget kommit eller ändrats, en omkonvertering
+  eller ett dokument ur arkivet
+- **När** steg 2 är klart
+- **Så** får loggen ingen rad, och utan ändringar pushas ingen gren.

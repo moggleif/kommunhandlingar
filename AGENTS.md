@@ -66,6 +66,7 @@ krav eller ett test. Det betyder:
 | Hur en viss kommun publicerar                   | `docs/kallor/<kommun>.md`          |
 | En kommuns organ, adresser och filnamnsmönster  | `kommuner/<kommun>.toml`           |
 | En kommuns sammanträden i kalendern             | `kalender/<kommun>.csv`            |
+| Varje ny version av ett dokument, sedd i källan | `versioner/<kommun>.csv`           |
 | En kommuns nämndmål och direktiv över tid       | `mal/<kommun>.csv`                 |
 | Nämndernas uppföljningar av målen i protokollen | `uppfoljningar/<kommun>.csv`       |
 | En kommuns lokalbehov steg för steg över tid    | `lokalbehov/<kommun>.csv`          |
@@ -107,7 +108,9 @@ Skriv aldrig om ett annat dokuments fakta – länka till dem.
   upphovsrättsraden i `LICENSE` är undantagna, utom ett konto- eller
   organisationsnamn som innehåller ett personnamn. Poolens innehåll under
   `data/` återger källan och är också undantaget; där maskas bara
-  identifierare (ADR-0022).
+  identifierare (ADR-0022). Det gäller också versionsloggen i
+  `versioner/<kommun>.csv`, som citerar dokumentens front matter
+  (ADR-0077).
 
 ## Arbetsflöde
 

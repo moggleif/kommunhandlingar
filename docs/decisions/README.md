@@ -100,3 +100,4 @@ Regler för det här repot, utöver MADR:
 | 0074 | [Webbplatsen följer läsarens ljusa eller mörka inställning, med en knapp i övre högra hörnet som minns valet](0074-webbplatsen-har-ljust-och-morkt-tema.md) | proposed |
 | 0075 | [Ett dokument får konverteras i högst 30 minuter och blir annars `ej-konverterad` med `fel: tidsgrans`](0075-ett-dokument-far-en-egen-tidsgrans.md) | proposed |
 | 0076 | [Arkivet konverterar om sina egna dokument från en annan version av poolen, efter luckorna](0076-arkivet-konverterar-om-sina-egna-dokument.md) | proposed |
+| 0077 | [Mötessidorna hämtas först i ett eget jobb, och varje ny version av ett dokument skrivs i en versionslogg](0077-motessidorna-forst-och-en-versionslogg.md) | proposed |
