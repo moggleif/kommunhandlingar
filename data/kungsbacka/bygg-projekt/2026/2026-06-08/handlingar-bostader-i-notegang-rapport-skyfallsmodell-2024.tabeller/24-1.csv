@@ -1,0 +1,17 @@
+Klass (namn),"Infiltrations-
+hastighet
+(mm/h)","Porositet
+(%)","Mäktighet
+(m)","Läckage
+(mm/h)","Initial vatten-
+mättnad (%)"
+Fingrus,360,30,"0,3",3600,0
+Grovsand,360,30,"0,3",360,0
+Mellansand,360,30,"0,3",36,0
+Grovsilt,"3,6",30,"0,3","0,36",0
+Morän,"0,36",30,"0,3","0,036",0
+Lerig morän,"0,0036",30,"0,3","0,00036",0
+Lera,"0,0036",30,"0,3","0,00036",0
+Vattenyta,0,0,0,0,0
+"Hårdgjorda ytor
+(IR-analys)",0,0,0,0,0

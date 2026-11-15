@@ -1,0 +1,14 @@
+"MAX DAG
+Mätpunkt_datum_kl","Horisontellt, tvärs
+spår
+(vägd RMS
+[mm/s])","Horisontellt, längs
+spår
+(vägd RMS
+[mm/s])","Vertikalt
+(vägd RMS
+[mm/s])","Tåglängd / Vikt
+[m / t]"
+MP1_170620_080204,"0,17 (4 Hz)","0,16 (4 Hz)","0,9 (3 Hz)",Fordonstrafik
+MP2_170620_105742,"0,10 (3 Hz)","0,10 (3 Hz)","0,7 (3 Hz)",Fordonstrafik
+MP3_170614_161608,"0,74 (11 Hz)","0,45 (12 Hz)","1,1 (11 Hz)",Fordonstrafik

@@ -1,0 +1,14 @@
+,Fördamm,Huvuddamm
+Längd och bredd,1:3,1:5
+"Fördröjningsvolym (m³), Vd1 + Vd2",740,2650
+"Utflödet från permanent vatten
+del, l/s",2,2
+"Maximalt utflöde, l/s",300,13
+"Permanent vattenyta, m²",390,1700
+"Totalt regleryta, m²",1100,3300
+"Regelhöjd, m",1,1
+"Permanent vattendjup, m","0,5","0,5"
+"Totalt damm djup, m","1,5","1,5"
+Nedre släntlutning,1:4,1:4
+Övre släntlutning,1:6,1:6
+"Bredd av våtmarkszon, m",1,1

@@ -1,0 +1,24 @@
+Planerad situation Planområdet φ,,
+Väg 1 [ha],"0,1656","0,85"
+Väg 2 [ha],"0,0043","0,85"
+Parkering [ha],"0,0399","0,85"
+Parkmark [ha],"0,4359","0,10"
+Skogsmark [ha],"0,7826","0,10"
+Takyta [ha],"0,6022","0,90"
+Blandat grönområde [ha],"0,2550","0,10"
+Grönyta [ha],"0,8695","0,10"
+Gång och cykelväg [ha],"0,0431","0,85"
+Grusyta [ha],"0,0397","0,40"
+Totalt [ha],"3,2380",-
+"t [min]
+r",15,-
+"φ [-]
+S","0,31",-
+"A [ha]
+red","1,0131",-
+"Q , 2-årsregn med kf [l/s]
+dim",130,-
+"Q , 10-årsregn med kf [l/s]
+dim",230,-
+"Q , 100-årsregn med kf [l/s]
+dim",1200,-

@@ -1,0 +1,14 @@
+"MAX NATT
+Mätpunkt_datum_kl","Horisontellt, tvärs
+spår
+(vägd RMS
+[mm/s])","Horisontellt, längs
+spår
+(vägd RMS
+[mm/s])","Vertikalt
+(vägd RMS
+[mm/s])","Tåglängd / Vikt
+[m / t]"
+MP1_170617_230546,"0,15 (10 Hz)","0,17 (8 Hz)","0,33 (9 Hz)",Fordonstrafik
+MP2_170613_223039,"0,07 (4 Hz)","0,10 (2 Hz)","0,44 (4 Hz)",Fordonstrafik
+MP3_170615_232107,"0,07 (4 Hz)","0,04 (6 Hz)","0,28 (4 Hz)",579/1095

@@ -1,0 +1,10 @@
+Fyllning,Mohr-Coulomb,19,,,36,,,,1,,,,0
+Grovbetong,Mohr-Coulomb,24,,,34,,,,1,,,,0
+Gyttja komb,"Combined, S=f(depth)",14,0,0,30,13,0,0.1,1,,,,
+Lera 1 komb,"Combined, S=f(depth)",16,0,0,30,13,0,0.1,1,,,,
+Lera 2 komb,"Combined, S=f(datum)",16,,0,30,,0.4,0.1,1,-5,0,13,
+Lera 3 komb,"Combined, S=f(datum)",16,,0,30,,1.5,0.1,1,-10,0,15,
+Lera 4 komb,"Combined, S=f(datum)",16,,0,30,,1.3,0.1,1,-12,0,18,
+Stödmur,High Strength,24,,,,,,,1,,,,
+"Torrskorpelera
+komb","Combined, S=f(depth)",18,0,0,30,20,0,0.1,1,,,,

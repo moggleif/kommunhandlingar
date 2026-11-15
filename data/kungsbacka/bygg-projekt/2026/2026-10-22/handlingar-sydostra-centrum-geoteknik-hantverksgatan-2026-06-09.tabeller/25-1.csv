@@ -1,0 +1,27 @@
+Name,"Slope Stability
+Material Model","Unit
+Weight
+(kN/m³)","Su-Top
+of
+Layer
+(kPa)","Su-Rate of
+Change
+((kN/m²)/m)","Piezometric
+Surface","Datum
+(Elevation)
+(m)","Su at
+Datum
+(kPa)","Effective
+Friction
+Angle (°)"
+Fyllning,Mohr-Coulomb,19,,,1,,,36
+Grovbetong,Mohr-Coulomb,24,,,1,,,34
+Gyttja odrän,S=f(depth),14,13,0,1,,,
+Lättfyllnad,Mohr-Coulomb,11,,,1,,,35
+Lera 1 odrän,S=f(depth),16,13,0,1,,,
+Lera 2 odrän,S=f(datum),16,,0.4,1,-5,13,
+Lera 3 odrän,S=f(datum),16,,1.5,1,-10,15,
+Lera 4 odrän,S=f(datum),16,,1.3,1,-12,18,
+Stödmur,High Strength,24,,,1,,,
+"Torrskorpelera
+odrän",S=f(depth),18,20,0,1,,,

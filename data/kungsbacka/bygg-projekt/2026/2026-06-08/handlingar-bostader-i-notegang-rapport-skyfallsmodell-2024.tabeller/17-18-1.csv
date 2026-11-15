@@ -1,0 +1,68 @@
+Modell: Befintlig/ framtida situation,,,,
+SGUjordarter,Shape,"SGU:s jordartskarta.
+Underlaget har laddats ner från SCALGO Live av
+Sweco.",Infiltration,2022-07-12
+"20220622_ortofoto_2
+020",Ecw,Ortofoto. Kungsbacka kommuns skanning.,"Bakgrunds-
+karta",2022-06-22
+Modell: Befintlig situation,,,,
+"Särö_resultat_polygo
+ner_hardgjort_och_g
+ront_200925",Shape,"Hårdgjorda och gröna områden framtagna genom
+IR-analys av flygfoto. Daterat 2020-09-25.
+Underlaget kompletterades av Sweco med
+Naturvårdsverkets marktäckesdata (nedladdat från
+SCALGO Live) för områden utanför underlagets
+avgränsning.","Infiltration,
+strömnings-
+motstånd",2022-06-22
+my_1384,Shape,"Markyta-lager från fastighetskartan nyttjades som
+ett komplement till IR-analysen, för beskrivning av
+områden med odling, skog, låg bebyggelse och
+öppen mark.","Infiltration,
+strömnings-
+motstånd",2022-06-22
+byggnader_scalgo,Shape,"Befintliga byggnadsytor från Lantmäteriet.
+Underlaget har laddats ner från SCALGO Live av
+Sweco.","Infiltration,
+strömnings-
+motstånd",2022-07-11
+las_fil,Las,"Höjdskanning av befintliga höjder inom
+avrinningsområdet. Utfört av Kungsbacka kommun.
+Upplösning 1x1 m.
+Underlaget kompletterades av Sweco med höjddata
+av Lantmäteriet, upplösning 1x1 m (nedladdat från
+SCALGO Live) för områden utanför underlagets
+avgränsning.",Höjdsättning,2022-06-22
+"Dike Nötegång
+210526",Dwg,"Inmätning av sektioner i befintligt dike genom
+planområdet. Utfört av Kungsbacka kommun,
+daterat 2021-05-26.",Höjdsättning,2022-06-28
+Nötegång dike,Dwg,"Inmätning av sektioner i befintligt dike söder om
+planområdet. Utfört av Kungsbacka kommun,
+daterat 2022-08-15.","Diken och
+trummor",2022-08-16
+"220907 Nötegång
+dike JT",Dwg,"Inmätning av uppströms och nedströms vattengång
+för befintlig trumma under väg Nötegången, från
+dike söder om planområdet. Ledningen är ca 50 m
+och har en dimension på 500 mm. Första delen av
+ledningen är i betong, som övergår till plastledning.
+Utfört av Kungsbacka kommun, daterat 2022-09-
+07.","Diken och
+trummor",2022-09-08
+VA_karta Nötegång,Dwg,"Befintligt VA-ledningsnät inom och angränsande
+planområdet. Erhållet av Kungsbacka kommun.","Ledningsnät
+nedströms-
+planområdet",2022-06-22
+Modell: Framtida situation,,,,
+"L-01-P-
+001_5_SWEREF",Dwg,"Situationsplan med framtida byggnadsytor och
+vägar. Framtaget av Sweco för SKANSKA.","Infiltration,
+strömnings-
+motstånd",2024-02-27
+"Höjddgrid 1m 2024-
+02-27 Sweref99
+1200",Asc,"Framtida höjdmodell för beskrivning av
+planområdet, inkluderat nya diken och torr damm.
+Framtaget av Sweco för Kungsbacka kommun.",Höjdsättning,2024-02-27

@@ -1,0 +1,10 @@
+Storhet,Symbol,Enhet,Kommentar
+"Ekvivalent A-vägd
+ljudnivå","L
+eq",dBA,"Ljudnivå för buller från spårtrafik och
+vägtrafik, beräknad som ett medelvärde per
+dygn under ett år."
+"Maximal A-vägd
+ljudnivå","L
+max",dBA,"Maximal ljudnivå för buller från spårtrafik och
+vägtrafik av den mest bullrande fordonstypen."

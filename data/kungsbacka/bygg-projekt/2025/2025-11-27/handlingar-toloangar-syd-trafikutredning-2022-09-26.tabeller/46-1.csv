@@ -1,0 +1,9 @@
+,Antal bostäder,Parkeringstal,Total efterfrågan
+Cykel,,,
+Flerbostadshus,"270 boende, 150 lgh",1cpl/boende + 1 cpl/lgh,270+150=420
+Småhus,"375 boende, 150 bostäder",1 cpl/boende + 1 cpl/bostad,375+150=525
+,,,945
+Bil,,,
+Flerbostadshus,150 lgh,"1,2 bpl/lgh",180
+Småhus,150 bostäder,"1,8 bpl/bostad",270
+,,,450

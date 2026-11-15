@@ -1,0 +1,75 @@
+"FÄLTANALYSPROTOKOLL
+Projekt: MTU Nötegång Laboratorium: ALS & Eurofins
+Projektnummer: 211228 Entreprenör: Geoinvest AB
+Uppdragsansvarig: Niclas Eneberg/David Lundh Väderlek: Mulet, blåstigt, +3 grader
+Provtagare: Niclas Eneberg Antal provpunkter: 12
+Provtagningsdatum: 2023-11-13/14",,,,,,
+Analysprotokoll,,,,Borrprotokoll,,
+Prov,Djup,VOC*,Lab-,Djup,Jordart,Notering
+,(m),(ppm),analys,(m),,
+23E01,-,-,,,-,"Utgick pga betongplatta och
+brunnar i närheten utan
+ledningsanvisning"
+,,,,,,
+23E02,"0,0-0,5","0,1",x,,F(GrSa),"Två prover uttogs, en för
+Eurofins och en för ALS"
+,"0,5-1,0","0,1",,,Lets,
+,"1,0-1,5","0,1",,,Lets,
+,"1,5-2,0","0,1",,,Lets,
+,,,,,,
+23E03,"0,0-0,5","0,1",,,F(SaGr),"Två prover uttogs, en för
+Eurofins och en för ALS"
+,"0,5-1,0","0,1",x,,Lets,
+,"1,0-1,5","0,1",,,Lets,
+,"1,5-2,0","0,1",,,Lets,
+,,,,,,
+23E04,"0,0-0,3","0,1",,,MuLe,
+,"0,3-1,0",0,,,Lets,
+,"1,0-1,4",0,,,Lets,
+,"1,4-2,0",0,,,Lets,
+,"2,0-2,4","0,1",,,Lets/Le,Inslag av sand
+,"2,4-3,0",0,,,Le,"GV-yta på 2,4? Borrstopp på 3
+m. GV-rör sätts på 3 m varav 1
+filter och 3 rör (1 m rör över
+markytan)"
+,,,,,,
+23E05,"0,0-0,4",0,x,,LeMu,
+,"0,4-1,0",0,x,,Lets,"Vid ca 0,5 m litet inslag av
+sandlager"
+,"1,0-1,5",0,,,Lets,
+,"1,5-2,0",0,,,Lets,
+,,,,,,
+23E06,"0,0-0,5","0,1",x,,LeMu,
+,"0,5-1,0",0,x,,Lets,
+,"1,0-1,5",0,,,Lets,
+,"1,5-2,0",0,,,Lets,
+,,,,,,
+23E07,"0,0-0,5",0,x,,F(SaSiLets),"Översta centimetrarna Mu.
+Tegel på markytan. Två prover
+uttogs, en för Eurofins och en
+för ALS"
+,"0,5-1,0",0,,,F(SaSiLets),"Gradvis mer Lets än tidigare
+lager"
+,"1,0-1,5",0,,,Lets,
+,"1,5-2,0",0,,,Lets/fSa,Övergång mellan Lets till fSa
+,,,,,,
+23E08,"0,0-0,4",0,x,,LeMu,Rötter
+,"0,4-1,0",0,,,Lets,
+,"1,0-1,5",0,,,Lets,
+,"1,5-2,0",0,,,Lets,Lite rötter
+,"2,0-2,5",0,,,Lets/Le,Övergång från Lets till Le
+,"2,5-3,0",0,,,Le,"GV-yta ca 2,5 m"
+,"3,0-4,0",0,,,Le,"GV-rör sätts på 4 m varav 2
+filter och 3 rör (1 m rör över
+markytan)"
+,,,,,,
+23E09,"0,0-0,4",0,x,,LeMu,
+,"0,4-1,0",0,x,,Lets,
+,"1,0-1,5",0,,,Lets/Le,Övergång från Lets till Le
+,"1,5-2,0",0,,,Le,
+,,,,,,
+23E10,"0,0-0,3",0,x,,LeSaMu,
+,"0,3-0,7",0,x,,F(GrSa),
+,"0,7-1,0",0,,,Lets,
+,"1,0-1,5",0,,,Lets,
+,"1,5-2,0",0,,,Lets/Le,Övergång från Lets till Le

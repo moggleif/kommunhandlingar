@@ -1,0 +1,16 @@
+Analysmetoder,Metod
+W-PP-filt,"Filtrering med 0.45µm filter (SE-SOP-0259, SS-EN ISO 5667-3:2018)."
+W-SFMS-5D,"Analys av metaller i förorenat vatten med ICP-SFMS enligt SS-EN ISO 17294-2:2016 och US EPA Method 200.8:1994.
+Analys utan föregående uppslutning. Provet är surgjort med 1 ml HNO3 (suprapur) per 100 ml före analys."
+HS-OV-21,"Mätningen utförs med headspace GC-MS, enligt EPA Metod 5021a rev 2 update V."
+SVOC-/HS-OV-21*,Summa alifater >C5-C16 beräknad från HS-OJ-21 och SVOC-OJ-21.
+SVOC-OV-21,"Bestämning av alifatfraktioner och aromatfraktioner
+Bestämning av polycykliska aromatiska kolväten, PAH (16 föreningar enligt EPA)
+Summa metylpyrener/metylfluorantener och summa metylkrysener/metylbens(a)antracener.
+GC-MS TK535 N 012 som är baserade på SPIMFABs kvalitetsmanual.
+PAH cancerogena utgörs av bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren,
+dibens(ah)antracen och indeno(123cd)pyren.
+Summa PAH L: naftalen, acenaften och acenaftylen.
+Summa PAH M: fluoren, fenantren, antracen, fluoranten och pyren.
+Summa PAH H: bens(a)antracen, krysen, bens(b)fluoranten, bens(k)fluoranten, bens(a)pyren, indeno(1,2,3-c,d)pyren,
+dibens(a,h)antracen och bens(g,h,i)perylen."
