@@ -103,3 +103,4 @@ Regler för det här repot, utöver MADR:
 | 0077 | [Mötessidorna hämtas först i ett eget jobb, och varje ny version av ett dokument skrivs i en versionslogg](0077-motessidorna-forst-och-en-versionslogg.md) | accepted |
 | 0078 | [Sammanträdet visas punkt för punkt ur kallelsens dagordning, med handlingens sidor, beslutet och historiken räknade fram vid bygget](0078-sammantradet-punkt-for-punkt-ur-kallelsen.md) | accepted |
 | 0079 | [En sida med fler än 500 000 tecken läses inte, utan blir `ej-konverterad` och märks som figur](0079-en-sida-med-fler-an-en-halv-miljon-tecken-lases-inte.md) | accepted |
+| 0080 | [Meetings Plus läses mötessida för mötessida, med bilagorna var för sig och det nyaste mötet först](0080-meetings-plus-las-motessidorna-nyast-forst.md) | accepted |

@@ -1,5 +1,5 @@
-"""Krav: K2, K13, K16, K23 och K45 i docs/02-KRAV.md, ADR-0013, ADR-0018,
-ADR-0039 och ADR-0068.
+"""Krav: K2, K13, K16, K23, K45 och K57 i docs/02-KRAV.md, ADR-0013, ADR-0018,
+ADR-0039, ADR-0068 och ADR-0080.
 Test: tests/test_upptack.py.
 
 Steg 1: `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>
@@ -22,6 +22,7 @@ from pathlib import Path
 from kommunhandlingar import konfiguration, tidsbudget
 from kommunhandlingar.adaptrar import (
     episerver_arkiv,
+    meetingsplus,
     sitevision,
     sitevision_arkiv,
     sitevision_projekt,
@@ -44,7 +45,24 @@ def upptack(
         kandidater += nya
         avvisade += bort
     nya, bort = projekten(kommun, klient, {k.kallnyckel for k in kandidater})
-    return ordna(kandidater + nya, [o.id for o in kommun.organ]), avvisade + bort
+    portalens, portalens_bort = meetingsplus_kallorna(kommun, klient)
+    organordning = [o.id for o in kommun.organ]
+    return (
+        ordna(kandidater + nya, organordning) + ordna_bakat(portalens, organordning),
+        avvisade + bort + portalens_bort,
+    )
+
+
+def meetingsplus_kallorna(
+    kommun: konfiguration.Kommun, klient
+) -> tuple[list[Kandidat], list[Avvisad]]:
+    """Hela historiken är levande, så den tas nyast först, som arkivet (ADR-0080)."""
+    kandidater: list[Kandidat] = []
+    avvisade: list[Avvisad] = []
+    for kalla in kommun.meetingsplus_kallor:
+        nya, bort = meetingsplus.upptack(kalla, partial(sida, klient))
+        kandidater, avvisade = kandidater + nya, avvisade + bort
+    return kandidater, avvisade
 
 
 def projekten(
