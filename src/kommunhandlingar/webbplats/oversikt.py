@@ -11,6 +11,7 @@ from html import escape
 from kommunhandlingar.konfiguration import Kommun, Organ
 from kommunhandlingar.webbplats.flikar import SIDOR, overtid
 from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.organordning import grupperade
 from kommunhandlingar.webbplats.rakning import Organrad
 
 TOM = '<td class="tom">–<span class="dold"> saknas</span></td>'
@@ -43,24 +44,6 @@ def inledning(dokument: list[dict]) -> str:
         "Välj ett organ, eller gå direkt till en av dess sidor över tid. "
         "Ett streck betyder att organet inte har sidan.</p>"
     )
-
-
-# Utan grupper i kommunfilen står alla organ i en grupp utan namn.
-def grupperade(kommun: Kommun) -> list[tuple[str, list[Organ]]]:
-    ordnade = ordning(kommun.organ)
-    if not kommun.grupper:
-        return [("", ordnade)]
-    grupp = {o.id: o.grupp for o in kommun.organ}
-    return [
-        (namn, [o for o in ordnade if grupp[o.hor_till or o.id] == namn])
-        for namn in kommun.grupper
-    ]
-
-
-# Kommunfilens ordning, men varje utskott direkt efter sitt organ.
-def ordning(organen: tuple[Organ, ...]) -> list[Organ]:
-    plats = {o.id: i for i, o in enumerate(organen)}
-    return sorted(organen, key=lambda o: (plats[o.hor_till or o.id], bool(o.hor_till)))
 
 
 def grupprad(namn: str, kolumner: int) -> str:

@@ -7,8 +7,8 @@ from html import escape
 from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats import avvikelser
 from kommunhandlingar.webbplats.mal import Mal
+from kommunhandlingar.webbplats.meny import GEMENSAM, meny
 from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Steg
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
@@ -34,12 +34,12 @@ STIL = """
         padding: 0.2rem 0.8rem; border: 1px solid var(--kant); border-radius: 999px;
         background: var(--bakgrund); color: var(--text); cursor: pointer; }
 .tema[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
-nav[aria-label="Webbplatsen"] ul { padding-right: 9rem; }
+/* Sajtraden går fri från temaknappen; stilen står efter Giffås sajter.css. */
+.sajtrad ul { padding-right: 9rem; }
+:root { --sajtaccent: var(--accent); --sajtyta: var(--bakgrund); --sajtkant: 0; }
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;
        padding: 0 1rem; line-height: 1.5; color: var(--text);
        background: var(--bakgrund); }
-nav ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 1.5rem; }
-nav a[aria-current] { font-weight: bold; text-decoration: none; }
 .tabell, .sida { overflow-x: auto; }
 table { border-collapse: collapse; margin-bottom: 2rem; }
 th, td { border: 1px solid var(--kant); padding: 0.25rem 0.6rem; vertical-align: top; }
@@ -57,7 +57,8 @@ pre { background: var(--yta); padding: 0.5rem; overflow-x: auto; }
 .status.uppnatt { color: var(--uppnatt); } .status.delvis { color: var(--delvis); }
 .status.ej { color: var(--ej); }
 .status.ingen, .status.beslutat { color: var(--dampad); }
-.flikar ul { gap: 0.25rem; border-bottom: 2px solid var(--text); margin: 0 0 1.5rem; }
+.flikar ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.25rem;
+             border-bottom: 2px solid var(--text); margin: 0 0 1.5rem; }
 .flikar a { display: block; padding: 0.35rem 0.8rem; border: 1px solid var(--kant);
             border-bottom: none; border-radius: 0.4rem 0.4rem 0 0;
             background: var(--yta); }
@@ -96,12 +97,13 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{escape(rubrik)} – kommunhandlingar</title>
+{GEMENSAM}
 <style>{STIL}</style>
 <script>{TEMA}</script>
 </head>
 <body>
 <button type="button" class="tema" hidden>Mörkt tema</button>
-{meny(mall, adress)}
+{meny(mall.kommuner, mall.kalendrar, adress)}
 <main>
 <h1>{escape(rubrik)}</h1>
 {innehall}
@@ -110,25 +112,6 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 </body>
 </html>
 """
-
-
-def meny(mall: Mall, aktuell: str) -> str:
-    poster = [("index.html", "Start")]
-    for k in mall.kommuner:
-        poster.append((f"{k.id}.html", k.namn))
-        if k.id in mall.kalendrar:
-            poster.append((f"{k.id}/kalender.html", "Kalender"))
-        poster.append((statusadress(k.id), "Poolens status"))
-    poster.append((avvikelser.ADRESS, "Avvikelser"))
-    lankar = "".join(
-        menypost(rot(aktuell) + adress, namn, adress == aktuell)
-        for adress, namn in poster
-    )
-    return f'<nav aria-label="Webbplatsen"><ul>{lankar}</ul></nav>'
-
-
-def statusadress(kommun_id: str) -> str:
-    return f"{kommun_id}/status.html"
 
 
 def menypost(adress: str, namn: str, aktuell: bool) -> str:

@@ -1306,8 +1306,8 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 
 - **Givet** en sida på webbplatsen
 - **När** den visas
-- **Så** har menyn startsidan, för varje kommun kommunens sida, kalendern
-  när kommunen har en och statussidan, och sist avvikelserna.
+- **Så** har den den gemensamma menyn i
+  [K58](#k58--menyn-följer-projektets-gemensamma-form).
 - **Givet** en kommunfil
 - **När** webbplatsen byggs
 - **Så** börjar kommunens sida med antalet dokument och det äldsta och
@@ -1867,3 +1867,29 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
   organsida i källan, eller vars sista del inte har något datum
 - **När** kommunfilen läses
 - **Så** stoppas körningen innan något hämtas.
+
+## K58 — Menyn följer projektets gemensamma form
+
+Hur och varför står i
+[ADR-0081](decisions/0081-menyn-i-projektets-gemensamma-form.md) och
+[Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
+
+- **Givet** en sida på webbplatsen
+- **När** den byggs
+- **Så** har den en `nav class="sajtmeny"` med sajtens namn som länk till
+  startsidan och en lista med en undermeny för varje kommun och sist
+  avvikelserna, så att fem kommuner ryms inom sex poster.
+- **Givet** en kommun
+- **När** menyn byggs
+- **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"
+  (kommunens sida), "Kalender" när kommunen har en och "Poolens status",
+  och sedan en grupp per grupp i kommunfilen med dess organ, utan
+  utskott. En kommunfil utan grupper ger gruppen "Organen".
+- **Givet** en sida i menyn
+- **När** sidan visas
+- **Så** är dess länk märkt `aria-current="page"`.
+- **Givet** en sida på webbplatsen
+- **När** den byggs
+- **Så** laddar den `/giffa/sajter.css` och `/giffa/sajter.js`, som lägger
+  raden till projektets övriga sajter ovanför menyn; utan skriptet står
+  menyn som en lista.

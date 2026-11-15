@@ -30,9 +30,10 @@ from kommunhandlingar.webbplats import (
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.llms import llms
-from kommunhandlingar.webbplats.mall import Mall, statusadress
+from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
 from kommunhandlingar.webbplats.malsida import malsida
+from kommunhandlingar.webbplats.meny import statusadress
 from kommunhandlingar.webbplats.organsida import organsida
 from kommunhandlingar.webbplats.oversikt import kommunsida
 from kommunhandlingar.webbplats.rakning import okanda, rakna
