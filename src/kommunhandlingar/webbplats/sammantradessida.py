@@ -11,7 +11,7 @@ from pathlib import Path
 from kommunhandlingar.webbplats.kortkoppling import organnamn
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
-from kommunhandlingar.webbplats.organsida import dokumentrubrik
+from kommunhandlingar.webbplats.organsida import dokumentlank, dokumentrubrik
 from kommunhandlingar.webbplats.punktkort import Lankar, antal, punktkort
 from kommunhandlingar.webbplats.sammantrade import Arende, Mote, adress, ordnade
 
@@ -58,7 +58,7 @@ def dagordningen(arenden: list[Arende], lankar: Lankar) -> str:
 
 def dokumentlista(kommun_id: str, dokument: list[dict], till_rot: str) -> str:
     rader = "".join(
-        f'<li><a href="{escape(till_rot + kommun_id + "/" + d["adress"])}">'
+        f'<li><a href="{escape(dokumentlank(d, f"{till_rot}{kommun_id}/"))}">'
         f"{escape(dokumentrubrik(d).capitalize())}</a>{sidantal(d)}</li>"
         for d in ordnade(dokument)
     )

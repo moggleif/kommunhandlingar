@@ -27,7 +27,7 @@ from kommunhandlingar.webbplats import (
     spar,
     uppfoljningar,
 )
-from kommunhandlingar.webbplats.dokumentsida import dokumentsida
+from kommunhandlingar.webbplats.dokumentsida import dokumentsida, har_egen_sida, i_repot
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.llms import llms
 from kommunhandlingar.webbplats.mall import Mall
@@ -70,8 +70,11 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     dokument, stycken = [], []
     for fil in sorted(katalog.rglob("*.md")):
         falt, text = las_dokument(fil, katalog, kommun)
-        html = dokumentsida(mall, kommun, falt, text)
-        skriv_dokument(fil, ut / kommun.id / falt["adress"], html)
+        adress = f"{kommun.id}/{falt['adress']}"
+        if har_egen_sida(kommun, falt):
+            skriv_dokument(fil, ut / adress, dokumentsida(mall, kommun, falt, text))
+        else:
+            falt["i_repot"] = i_repot(mall, adress)
         dokument.append(falt)
         stycken += paragrafindex.av_dokument(falt, text, katalog)
     dokumentindex.skriv(ut, dokument, katalog)

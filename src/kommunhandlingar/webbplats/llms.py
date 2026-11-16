@@ -27,7 +27,8 @@ Indexet har en rad per dokument i JSON Lines, med hela front matter.
 `fil` är sökvägen i repot, och Markdown-filen finns på
 `{repo}/raw/main/<fil>`. `sida` är dokumentets sida på den här webbplatsen,
 och tabellerna i `tabeller` ligger bredvid den i
-`<sida utan .html>.tabeller/`.
+`<sida utan .html>.tabeller/`. Har dokumentets typ ingen egen sida är
+`sida` Markdown-filen i repot, och tabellerna ligger bredvid den där.
 
 Paragraferna har en rad per paragraf i protokollen, med rubriken,
 diarienumren, beslutet och sidan där paragrafen börjar. `beslut` är `null`

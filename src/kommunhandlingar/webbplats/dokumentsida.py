@@ -16,7 +16,7 @@ def dokumentsida(mall: Mall, kommun: Kommun, falt: dict[str, str], text: str) ->
     mote = motesnamn(falt["datum"], falt["lopnr"])
     organsida = f"{rot(adress)}{kommun.id}/{falt['organ']}.html"
     vag = [(f"{rot(adress)}{kommun.id}.html", kommun.namn), (organsida, organ)]
-    md = f"{mall.repo}/blob/main/data/{adress.removesuffix('.html')}.md"
+    md = i_repot(mall, adress)
     innehall = (
         stig([*vag, (f"{organsida}#{mote}", mote)])
         + harkomst(falt, md)
@@ -24,6 +24,15 @@ def dokumentsida(mall: Mall, kommun: Kommun, falt: dict[str, str], text: str) ->
     )
     rubrik = f"{organ} {mote}: {dokumentrubrik(falt)}"
     return sida(mall, adress, rubrik, innehall)
+
+
+def har_egen_sida(kommun: Kommun, falt: dict[str, str]) -> bool:
+    return kommun.dokumentsidor is None or falt["typ"] in kommun.dokumentsidor
+
+
+def i_repot(mall: Mall, adress: str) -> str:
+    """Markdown-filen i repot bakom sidan `<kommun>/<sökväg>.html`."""
+    return f"{mall.repo}/blob/main/data/{adress.removesuffix('.html')}.md"
 
 
 # Hela front matter, i schemats ordning, med fältens egna namn.

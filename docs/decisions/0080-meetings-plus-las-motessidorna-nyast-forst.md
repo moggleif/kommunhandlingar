@@ -167,3 +167,12 @@ ADR:erna och Bidra går till kommunhandlingar (`KALLKOD` i
 konstant räcker: koden har ett hem, och ett andra argument eller ett fält
 i kommunfilen hade bara kunnat ha det värdet (K14). Länkarna går till
 `main` och kan beskriva en nyare version än den regionen kör.
+
+GitHub Pages tar högst 1 GB. Kungsbackas sida är omkring 766 MB för
+5 210 dokument, och regionen väntas få tre till fyra gånger så mycket
+text. Därför säger kommunfilen vilka typer som får en egen sida
+(`dokumentsidor`, K18): för regionen kallelser och protokoll, 1 546 av
+20 632 filer. Bilagorna länkas till sin Markdown-fil i repot, som GitHub
+visar med front matter som tabell. Allt går att nå, och sidan ryms med
+marginal. En egen server (#18) hade gett alla en sida men står sist i
+planen. Utan fältet får alla dokument en sida, som i Kungsbacka.

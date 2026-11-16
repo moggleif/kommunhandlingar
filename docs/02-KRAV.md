@@ -634,6 +634,12 @@ Vilka mönster som räknas står i
 - **När** webbplatsen byggs
 - **Så** har det en sida som visar härkomsten ur front matter, med källan
   som länk och en länk till `.md` i repot, och sedan texten sida för sida.
+- **Givet** en kommunfil med `dokumentsidor` och ett dokument vars typ
+  inte står där
+- **När** webbplatsen byggs
+- **Så** får dokumentet ingen egen sida, och organets sida, sammanträdets
+  sida och indexet länkar till dess `.md` i repot. Så ryms en stor pool,
+  som Region Hallands, under GitHub Pages gräns på 1 GB (ADR-0080).
 - **Givet** en sida i dokumentet
 - **När** dokumentets sida visas
 - **Så** har den en egen rubrik med sin kvalitet, och en sida i

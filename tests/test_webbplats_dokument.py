@@ -167,3 +167,26 @@ class TestBygg(unittest.TestCase):
             self.assertIn(
                 'href="exempelby/fsn.html"', (ut / "exempelby.html").read_text()
             )
+
+    def test_dokument_utan_egen_sida_lankas_till_filen_i_repot(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            rot, ut = Path(tmp) / "repo", Path(tmp) / "ut"
+            (rot / "kommuner").mkdir(parents=True)
+            kommunfil = (FIXTURER / "exempelby.toml").read_text(encoding="utf-8")
+            (rot / "kommuner" / "exempelby.toml").write_text(
+                'dokumentsidor = ["protokoll"]\n' + kommunfil, encoding="utf-8"
+            )
+            mote = rot / "data" / "exempelby" / "fsn" / "2024" / "2024-05-02"
+            mote.mkdir(parents=True)
+            (mote / "protokoll.md").write_text(dokument(), encoding="utf-8")
+            (mote / "kallelse.md").write_text(dokument(typ="kallelse"))
+            bygg(rot, ut, REPO, TID)
+            sida = ut / "exempelby" / "fsn" / "2024" / "2024-05-02"
+            self.assertTrue((sida / "protokoll.html").exists())
+            self.assertFalse((sida / "kallelse.html").exists())
+            fil = f"{REPO}/blob/main/data/exempelby/fsn/2024/2024-05-02/kallelse.md"
+            organet = (ut / "exempelby" / "fsn.html").read_text()
+            self.assertIn(f'href="{fil}"', organet)
+            self.assertIn('href="fsn/2024/2024-05-02/protokoll.html"', organet)
+            index = (ut / "exempelby" / "index.jsonl").read_text()
+            self.assertIn(f'"sida": "{fil}"', index)

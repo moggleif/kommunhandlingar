@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 
 from kommunhandlingar.frontmatter import FALT, lista
+from kommunhandlingar.webbplats.organsida import dokumentlank
 
 TAL = {"lopnr", "bytes", "sidor", "tal_obekraftade", "figurer", "tolkade"}
 
@@ -30,7 +31,7 @@ def platser(falt: dict[str, str], katalog: Path) -> dict[str, str]:
     md = Path(falt["adress"]).with_suffix(".md").as_posix()
     return {
         "fil": f"data/{katalog.name}/{md}",
-        "sida": f"{katalog.name}/{falt['adress']}",
+        "sida": dokumentlank(falt, f"{katalog.name}/"),
     }
 
 

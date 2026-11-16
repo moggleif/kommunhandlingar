@@ -40,6 +40,11 @@ def ordning(mote: Mote) -> tuple[str, int]:
     return datum, int(lopnr.replace("null", "1"))
 
 
+# Ett dokument utan egen sida länkas till sin Markdown-fil i repot (K18).
+def dokumentlank(d: dict, till_kommun: str = "") -> str:
+    return d.get("i_repot") or till_kommun + d["adress"]
+
+
 def dokumentrubrik(d: dict) -> str:
     return d["typ"] + ("" if d["namn"] == "null" else f" – {d['namn']}")
 
@@ -64,7 +69,7 @@ def dokumentpost(d: dict) -> str:
     rader = [f"kvalitet {d['kvalitet']}"]
     if obekraftade := len(lista(d["tal_obekraftade"])):
         rader.append(f"obekräftade tal på {obekraftade} sidor")
-    post = f'<a href="{escape(d["adress"])}">{escape(dokumentrubrik(d))}</a>: '
+    post = f'<a href="{escape(dokumentlank(d))}">{escape(dokumentrubrik(d))}</a>: '
     post += escape(", ".join(rader))
     if d["fel"] != "null":
         post += f", fel {escape(d['fel'])}, " + lank(
