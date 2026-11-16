@@ -8,7 +8,7 @@ from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import Mal
-from kommunhandlingar.webbplats.meny import GEMENSAM, meny
+from kommunhandlingar.webbplats.meny import GEMENSAM, meny, sajtnamn
 from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Steg
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
@@ -74,7 +74,7 @@ footer { border-top: 1px solid var(--kant); margin-top: 3rem; padding: 1rem 0; }
 
 # Dokumentationen bor med koden, också när poolen ligger i ett eget datarepo,
 # som regionens (K14).
-KALLKOD = "https://github.com/moggleif/kommunhandlingar"
+KALLKOD = "https://github.com/moggleif/kungsbackakommun"
 
 
 @dataclass(frozen=True)
@@ -101,7 +101,7 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{escape(rubrik)} – kommunhandlingar</title>
+<title>{escape(rubrik)} – {escape(sajtnamn(mall.kommuner))}</title>
 {GEMENSAM}
 <style>{STIL}</style>
 <script>{TEMA}</script>

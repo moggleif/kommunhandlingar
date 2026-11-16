@@ -7,7 +7,7 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
 from kommunhandlingar.webbplats.luckavsnitt import luckavsnitt
 from kommunhandlingar.webbplats.mall import KALLKOD, Mall, sida
-from kommunhandlingar.webbplats.meny import statusadress
+from kommunhandlingar.webbplats.meny import sajtnamn, statusadress
 from kommunhandlingar.webbplats.rakning import Organrad, rakna
 
 ARKITEKTUR = "/blob/main/docs/03-ARKITEKTUR.md"
@@ -23,7 +23,7 @@ def startsida(mall: Mall) -> str:
         '#readme">README</a>.</p>'
         f"<h2>Vad poolen innehåller</h2><ul>{kommuner}</ul>"
     )
-    return sida(mall, "index.html", "kommunhandlingar", innehall)
+    return sida(mall, "index.html", sajtnamn(mall.kommuner), innehall)
 
 
 def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> str:

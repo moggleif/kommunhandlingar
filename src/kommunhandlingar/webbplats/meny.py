@@ -1,6 +1,6 @@
 """Krav: K58 i docs/02-KRAV.md, ADR-0081. Test: tests/test_navigering.py.
 
-Webbplatsens meny i den gemensamma form som Giffå ritar (ADR-0081): poolens
+Webbplatsens meny i den gemensamma form som Giffå ritar (ADR-0081): sajtens
 namn och högst sex poster, där en post är en länk eller en undermeny. Varje
 kommun får en enda post: en undermeny med översikten, kalendern och
 statussidan och sedan organen i kommunfilens grupper. Sist står avvikelserna.
@@ -26,11 +26,19 @@ Grupp = tuple[str, list[tuple[str, str]]]
 def meny(kommuner: list[Kommun], kalendrar: frozenset[str], aktuell: str) -> str:
     poster = [undermeny(k.namn, sidorna(k, kalendrar), aktuell) for k in kommuner]
     poster.append(post(avvikelser.ADRESS, "Avvikelser", aktuell))
-    namn = lank("index.html", NAMN, aktuell).replace("<a ", '<a class="sajtnamn" ', 1)
+    namn = lank("index.html", sajtnamn(kommuner), aktuell).replace(
+        "<a ", '<a class="sajtnamn" ', 1
+    )
     return (
         f'<nav class="sajtmeny" aria-label="Webbplatsen">{namn}'
         f"<ul>{''.join(poster)}</ul></nav>"
     )
+
+
+# En pool med en enda kommun, som Kungsbackas eller regionens datarepo, heter
+# som den.
+def sajtnamn(kommuner: list[Kommun]) -> str:
+    return kommuner[0].namn if len(kommuner) == 1 else NAMN
 
 
 # Översikten först, sedan organen i kommunfilens grupper; utskotten nås från

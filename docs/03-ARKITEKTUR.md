@@ -1788,7 +1788,9 @@ varje push till `main`, för hand och när ett issue med etiketten
   [ADR-0081](decisions/0081-menyn-i-projektets-gemensamma-form.md)) i
   projektets gemensamma form – för varje kommun i bokstavsordning efter id
   en undermeny med översikten, kalendern när den finns, statussidan och
-  organen grupp för grupp, och sist avvikelserna – och en
+  organen grupp för grupp, och sist avvikelserna – med
+  sajtens namn, som är kommunens när webbplatsen har en enda kommun,
+  annars "Kommunhandlingar" – och en
   sidfot som länkar till repot och säger när sidan byggdes. En pool i
   ett eget datarepo, som Region Hallands (ADR-0080), länkar sitt data och
   sina issues där, och dokumentationen och källkoden i kommunhandlingar
