@@ -1905,8 +1905,9 @@ Hur och varför står i
 - **Givet** en sida på webbplatsen
 - **När** den byggs
 - **Så** har den en `nav class="sajtmeny"` med sajtens namn som länk till
-  startsidan och en lista med högst sex poster. Med flera kommuner är posterna en undermeny för varje kommun och
-  sist avvikelserna, så att fem kommuner ryms.
+  startsidan och en lista med högst sex poster. Med flera kommuner är
+  posterna en undermeny för varje kommun och sist avvikelserna, så att
+  fem kommuner ryms.
 - **Givet** en webbplats med en enda kommun, som Kungsbackas eller ett
   eget datarepo
 - **När** den byggs

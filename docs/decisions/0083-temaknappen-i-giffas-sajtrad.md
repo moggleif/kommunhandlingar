@@ -12,10 +12,10 @@ consulted: AI-agenten
 Webbplatsen har ljust och mörkt tema
 ([ADR-0074](0074-webbplatsen-har-ljust-och-morkt-tema.md)) med en egen
 textknapp, "Mörkt tema", och ett eget skript (`webbplats/tema.js`). Sedan
-Giffås sajtrad blev en rad på mobilen
-([ADR-0082](0082-en-kommuns-grupper-ar-menyns-poster.md)) stod knappen
-sist i menyn, bakom knappen *Meny* på mobilen, och tog plats i menyraden
-på datorn. Giffå och Kungsbacka i siffror hade inget mörkt tema. Ägaren bad
+Giffås sajtrad blev en rad på mobilen (Giffås beslut 0014) och knappen
+flyttades sist i menyn
+([ADR-0082](0082-en-kommuns-grupper-ar-menyns-poster.md)), stod den bakom
+knappen *Meny* på mobilen och tog plats i menyraden på datorn. Giffå och Kungsbacka i siffror hade inget mörkt tema. Ägaren bad
 2026-11-16 om mörkt tema på alla projektets sidor, med en ikon i stället
 för text, mitt på i mobilvyn och på en lämplig plats på datorn. Var ska
 knappen och skriptet bo?
@@ -46,6 +46,10 @@ sajterna och valet gäller på alla.
 * Poolens egen knapp, `webbplats/tema.js` och dess regler för
   `data-tema` tas bort. Färgerna står kvar i sidmallen med `light-dark()`
   (ADR-0074).
+* Det här ersätter de delar av ADR-0074 som gäller knappen (fast i övre
+  högra hörnet), skriptet i sidans `<head>` och nyckeln
+  `kommunhandlingar-tema`, och den del av ADR-0082 som säger att
+  temaknappen står sist i menyn. Resten av de besluten gäller.
 
 ### Consequences
 

@@ -20,7 +20,7 @@ class TestTemat(unittest.TestCase):
         head = html.split("</head>")[0]
         self.assertIn('<script src="/giffa/tema.js"></script>', head)
         self.assertIn("color-scheme: light dark", head)
-        self.assertNotIn("<button", html)
+        self.assertNotIn("Mörkt tema", html)
 
     def test_farger_bara_i_variablerna(self):
         filer = [
