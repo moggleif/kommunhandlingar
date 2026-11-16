@@ -1,6 +1,6 @@
 """Krav: K39 och K58 i docs/02-KRAV.md, ADR-0060 och ADR-0081. Kod:
 src/kommunhandlingar/webbplats/meny.py, organordning.py, flikar.py, oversikt.py,
-organsida.py, sparsida.py och malsida.py."""
+organsida.py, sparsida.py, malsida.py och kalendersida.py."""
 
 import re
 import unittest
@@ -79,6 +79,8 @@ class TestNavigering(unittest.TestCase):
         kalender = kalendersida(self.mall, exempelby(), [])
         self.assertNotIn('aria-label="Här är du"', kalender)
         self.assertIn('<a href="../index.html">Handlingar och protokoll</a>', kalender)
+        flera = Mall([exempelby(), replace(exempelby(), id="andraby")], REPO, TID)
+        self.assertNotIn('aria-label="Här är du"', kalendersida(flera, exempelby(), []))
 
     def test_en_kommun_utan_kalender_har_ingen_kalenderpost(self):
         html = meny([exempelby()], frozenset(), "index.html")

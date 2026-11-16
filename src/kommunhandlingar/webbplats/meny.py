@@ -1,5 +1,5 @@
-"""Krav: K51 och K58 i docs/02-KRAV.md, ADR-0081 och ADR-0082. Test:
-tests/test_navigering.py.
+"""Krav: K51 och K58 i docs/02-KRAV.md, ADR-0081, ADR-0082 och ADR-0084.
+Test: tests/test_navigering.py.
 
 Webbplatsens meny i den gemensamma form som Giffå ritar (ADR-0081): sajtens
 namn och högst sex poster, där en post är en länk eller en undermeny. Med
