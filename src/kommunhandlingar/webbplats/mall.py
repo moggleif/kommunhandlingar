@@ -1,10 +1,10 @@
 """Krav: K14, K18, K22, K26, K27, K28, K36, K37, K39 och K51 i docs/02-KRAV.md,
-ADR-0074 för temat. Test: tests/test_webbplats.py och tests/test_tema.py."""
+ADR-0074 och ADR-0083 för temat. Test: tests/test_webbplats.py och
+tests/test_tema.py."""
 
 from dataclasses import dataclass, field
 from datetime import datetime
 from html import escape
-from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import Mal
@@ -13,9 +13,9 @@ from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Steg
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
-TEMA = Path(__file__).with_name("tema.js").read_text(encoding="utf-8")
 # Varje färg har ett ljust och ett mörkt värde (ADR-0074). En webbläsare utan
-# light-dark() får de ljusa värdena, och skriptet visar då ingen knapp.
+# light-dark() får de ljusa värdena. Knappen och det valda temat kommer från
+# Giffås gemensamma meny (ADR-0083).
 STIL = """
 :root { color-scheme: light dark;
   --text: light-dark(#1a1a1a, #e4e6ea); --bakgrund: light-dark(#fff, #15171b);
@@ -28,12 +28,6 @@ STIL = """
   :root { color-scheme: light; --text: #1a1a1a; --bakgrund: #fff; --kant: #999;
     --yta: #f5f6f8; --linje: #d9dde5; --dampad: #5b6475; --accent: #1d5d73;
     --band: #e3eef2; --uppnatt: #1a6b2a; --delvis: #8a5a00; --ej: #b00020; } }
-:root[data-tema="ljust"] { color-scheme: light; }
-:root[data-tema="morkt"] { color-scheme: dark; }
-.tema { margin-left: auto; font: inherit;
-        padding: 0.2rem 0.8rem; border: 1px solid var(--kant); border-radius: 999px;
-        background: var(--bakgrund); color: var(--text); cursor: pointer; }
-.tema[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
 :root { --sajtaccent: var(--accent); --sajtyta: var(--bakgrund); --sajtkant: 0; }
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;
        padding: 0 1rem; line-height: 1.5; color: var(--text);
@@ -108,7 +102,6 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <title>{escape(titel)}</title>
 {GEMENSAM}
 <style>{STIL}</style>
-<script>{TEMA}</script>
 </head>
 <body>
 {meny(mall.kommuner, mall.kalendrar, adress)}

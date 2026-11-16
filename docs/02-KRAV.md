@@ -1693,10 +1693,12 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
   inställning ljus.
 - **Givet** en sida med JavaScript
 - **När** den visas
-- **Så** står en knapp för mörkt tema sist i menyn, till höger på bred
-  skärm och i den utfällda menyn på smal
-  ([ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md)). Ett klick byter tema, och valet gäller på alla sidor och vid
-  nästa besök tills besökaren byter igen.
+- **Så** står en knapp med en ikon för mörkt tema i sajtraden från
+  Giffås gemensamma meny: mitt på raden på smal skärm och längst till
+  höger på bred
+  ([ADR-0083](decisions/0083-temaknappen-i-giffas-sajtrad.md)). Ett klick
+  byter tema, och valet gäller på alla sidor, på projektets andra sajter
+  och vid nästa besök tills besökaren byter igen.
 - **Givet** mörkt tema
 - **När** sidan visas
 - **Så** går text, länkar, statusikoner, faser, grafer, tidslinjen,
@@ -1903,8 +1905,7 @@ Hur och varför står i
 - **Givet** en sida på webbplatsen
 - **När** den byggs
 - **Så** har den en `nav class="sajtmeny"` med sajtens namn som länk till
-  startsidan, en lista med högst sex poster och sist knappen för mörkt
-  tema. Med flera kommuner är posterna en undermeny för varje kommun och
+  startsidan och en lista med högst sex poster. Med flera kommuner är posterna en undermeny för varje kommun och
   sist avvikelserna, så att fem kommuner ryms.
 - **Givet** en webbplats med en enda kommun, som Kungsbackas eller ett
   eget datarepo

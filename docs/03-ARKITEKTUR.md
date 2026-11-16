@@ -1795,8 +1795,7 @@ varje push till `main`, för hand och när ett issue med etiketten
   själva posterna: "Kalender" när den finns, en undermeny per grupp och
   sist "Om poolen" med statussidan och avvikelserna; översikten är då
   också startsidan, och ingen rubrik upprepar kommunens namn
-  ([ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md)). Sist i
-  menyn står knappen "Mörkt tema". Sidan har också en
+  ([ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md)). Sidan har också en
   sidfot som länkar till repot och säger när sidan byggdes. En pool i
   ett eget datarepo, som Region Hallands (ADR-0080), länkar sitt data och
   sina issues där, och dokumentationen och källkoden i kommunhandlingar
@@ -1811,10 +1810,14 @@ varje push till `main`, för hand och när ett issue med etiketten
   ljust och ett mörkt värde i `light-dark()`, och övriga stilar och
   SVG-figurerna använder variablerna. En webbläsare utan `light-dark()`
   får de ljusa värdena ur en `@supports`-reserv. Sidan följer läsarens
-  inställning (`color-scheme: light dark`). Skriptet `webbplats/tema.js`
-  står i varje sidas `<head>`: det sätter temat som sparats i
-  `localStorage` (nyckeln `kommunhandlingar-tema`) innan sidan ritas, och
-  visar knappen "Mörkt tema" sist i menyn, som byter och sparar temat. Utan `light-dark()` visas ingen knapp. Kalenderns organrutor har mörk text på sina
+  inställning (`color-scheme: light dark`). Knappen och det valda temat
+  kommer från Giffås gemensamma meny
+  ([ADR-0083](decisions/0083-temaknappen-i-giffas-sajtrad.md)): Giffås
+  `/giffa/tema.js` står i varje sidas `<head>` och sätter temat som
+  sparats (nyckeln `sajter-tema`, gemensam för projektets sajter) innan
+  sidan ritas, och `/giffa/sajter.js` lägger en ikonknapp i sajtraden som
+  byter och sparar temat. Utan `light-dark()`, eller utan Giffås filer,
+  visas ingen knapp. Kalenderns organrutor har mörk text på sina
   ljusa toner i båda temana.
 - **Kommunens översikt** (K39, `webbplats/oversikt.py`) börjar med
   antalet dokument och det äldsta och senaste datumet. Tabellen har en

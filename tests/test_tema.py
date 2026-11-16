@@ -1,5 +1,5 @@
-"""Krav: K51 i docs/02-KRAV.md, ADR-0074. Kod: src/kommunhandlingar/webbplats/
-mall.py, tema.js och stilarna i samma katalog."""
+"""Krav: K51 i docs/02-KRAV.md, ADR-0074 och ADR-0083. Kod:
+src/kommunhandlingar/webbplats/mall.py och stilarna i samma katalog."""
 
 import re
 import unittest
@@ -15,14 +15,12 @@ FARG = re.compile(r"#[0-9a-fA-F]{3}(?:[0-9a-fA-F]{3})?\b")
 
 
 class TestTemat(unittest.TestCase):
-    def test_sidan_har_knappen_och_skriptet_i_head(self):
+    def test_temat_kommer_fran_giffa_och_sidan_har_inte_egen_knapp(self):
         html = sidor.startsida(Mall([exempelby()], REPO, TID))
         head = html.split("</head>")[0]
-        self.assertIn("localStorage", head)
+        self.assertIn('<script src="/giffa/tema.js"></script>', head)
         self.assertIn("color-scheme: light dark", head)
-        self.assertIn(
-            '<button type="button" class="tema" hidden>Mörkt tema</button>', html
-        )
+        self.assertNotIn("<button", html)
 
     def test_farger_bara_i_variablerna(self):
         filer = [

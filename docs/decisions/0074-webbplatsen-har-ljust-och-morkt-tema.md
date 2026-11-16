@@ -44,7 +44,8 @@ Valt: CSS-variabler med `light-dark()` och en knapp som minns valet.
   och spårsidornas stil, kalendern och SVG-figurerna använder variablerna
   i stället för egna värden. `color-scheme: light dark` gör att
   webbläsaren också ger länkar, knappar och rullister rätt färg.
-* **Knappen** "Mörkt tema" står fast i övre högra hörnet på varje sida och
+* **Knappen** (ersatt av Giffås ikonknapp i sajtraden,
+  [ADR-0083](0083-temaknappen-i-giffas-sajtrad.md)) "Mörkt tema" står fast i övre högra hörnet på varje sida och
   är nedtryckt när temat är mörkt. Ett klick byter tema; valet sparas i
   webbläsarens `localStorage` och gäller på alla sidor och vid nästa
   besök. Ett litet skript i sidans `<head>` sätter det sparade temat
