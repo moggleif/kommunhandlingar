@@ -5,21 +5,21 @@ datum: 2026-11-18
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.f4ce0ed1a1ce40718e41d8
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.f4ce0ed1a1ce40718e5629b
+tidigare_kallnycklar: [sitevision:18.f4ce0ed1a1ce40718e41d8]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.f4ce0ed1a1ce40718e41d8/1794479728765/N%C3%A4mnden%20f%C3%B6r%20Kultur%20&%20Fritid%20handlingar%202026-11-18.pdf
-sha256: abaf7075b0487eb27df281c161232dcc47cb3fe3c42979dbbf5f0eec1107cc41
-bytes: 5162998
-sidor: 114
-hamtad: 2026-11-13T15:22:11+00:00
-konverterad: 2026-11-13T15:22:33+00:00
+kalla_url: https://kungsbacka.se/download/18.f4ce0ed1a1ce40718e5629b/1794772931639/N%C3%A4mnden%20f%C3%B6r%20Kultur%20&%20Fritid%20handlingar%202026-11-18.pdf
+sha256: 8d1db812f5e07c1766f9610b66ca2edb4e7b8e142ca0b162fcb568db6708f1d3
+bytes: 5271682
+sidor: 117
+hamtad: 2026-11-16T08:21:26+00:00
+konverterad: 2026-11-16T08:21:47+00:00
 pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [16, 106]
-figurer: [17, 21, 22, 23, 107]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [16, 109]
+figurer: [17, 21, 22, 23, 79, 80, 81, 110]
 tolkade: []
 granskad: null
 ---
@@ -3513,6 +3513,138 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 79 -->
 
+Borekulla      är mer    än  en  fastighet    –  värdera
+
+hela  föreningens       samhällsnytta
+
+Frillesås Rid- och Körklubbs synpunkter till utredningen
+
+Frillesås Rid- och Körklubb (fortsättningsvis benämnd FRK) motsätter sig kraftfullt
+utredningens förslag om att begränsa underhållet av Borekulla och på sikt minska kommunens
+ansvar för anläggningen. Vi anser att förslaget väcker en större och mer grundläggande fråga
+om hur Kungsbacka kommun fördelar sina resurser, vilka verksamheter som ges möjlighet att
+utvecklas och hur tidigare politiska prioriteringar riskerar att skapa och förstärka ojämlikhet.
+
+Ojämlikhet uppstår inte alltid genom medvetna beslut att missgynna någon. Den kan också
+
+växa fram genom historiska prioriteringar, olika ekonomiska förutsättningar och etablerade
+sätt att värdera verksamheter. När dessa skillnader inte synliggörs riskerar de att ligga till
+grund för nya beslut som ytterligare förstärker ojämlikheten.
+
+Under flera år har Kungsbacka kommun fört en dialog med ridklubbarna om en långsiktig
+upprustning av anläggningarna. Planeringen innebar att Alekärr skulle rustas upp först,
+därefter Vallda och slutligen Borekulla. Alekärr och Vallda har delvis rustats upp, medan
+Borekulla fortfarande väntar på tidigare diskuterade investeringar och underhållsåtgärder. När
+utredningen nu pekar ut Alekärr som den mest lämpade anläggningen för framtida satsningar,
+bland annat utifrån skick och funktion, uppstår en grundläggande motsägelse.
+
+Det är inte rimligt att kommunen först skjuter upp investeringar i en anläggning och
+därefter använder dess skick som argument för att inte längre investera i den.
+
+Ridföreningarna verkar dessutom under olika ekonomiska och organisatoriska förutsättningar.
+Vissa bedriver sin verksamhet på helt kommunägda anläggningar, medan FRK själv äger sitt
+
+ridhus och ansvarar för dess investeringar och underhåll. Kommunen äger stall och
+klubbstuga. Att FRK äger sitt ridhus innebär ett omfattande ekonomiskt ansvar som måste
+vägas in när anläggningarna jämförs.
+
+Utredningen anger att det beräknade underhållsbehovet för den kommunägda delen av
+Borekulla uppgår till 3,8 miljoner kronor under 30 år, motsvarande cirka 127 000 kronor per
+år. Detta är enligt utredningen betydligt lägre än motsvarande behov för Alekärr och Vallda.
+Kommunen behöver därför redovisa vilka faktiska besparingar som förväntas genom ett
+minskat ansvar och hur dessa står i proportion till konsekvenserna. Att överföra kostnader till
+en ideell förening innebär inte att behoven försvinner.
+
+En förenings betydelse kan inte enbart mätas i byggnader, ekonomi eller antalet deltagare i en
+viss verksamhet. FRK har cirka 320 medlemmar, medan utredningen huvudsakligen beskriver
+
+<!-- sida 80 -->
+
+verksamheten utifrån cirka 180 ridskoleelever. Utöver ridskolan bedriver FRK träningar,
+tävlingar, voltige och paraverksamhet. Voltigen håller internationell nivå och engagerar aktiva
+
+även från närliggande kommuner. FRK deltar dessutom i ett internationellt paraprojekt och
+har genom Svenska Riksidrottsförbundet fått stöd till en mekanisk häst.
+
+Bakom verksamheten finns utbildade ledare, erfarenhet, sociala relationer och ett omfattande
+ideellt engagemang som byggts upp under lång tid. Dessa värden behöver få en tydligare plats
+i kommunens bedömning. Det kan heller inte förutsättas att en annan anläggning automatiskt
+kan ersätta Borekulla. Kommunen måste i så fall visa att det finns kapacitet och
+ändamålsenliga förutsättningar för hela FRK verksamhet.
+
+Även föreningarnas ekonomi behöver bedömas långsiktigt. År 2024 var ett avvikande
+verksamhetsår för FRK med ovanligt stora kostnader för egna investeringar och nödvändiga
+åtgärder på anläggningen. Att använda detta enskilda år som grund för att bedöma en
+förenings ekonomiska bärkraft riskerar att ge en missvisande bild.
+
+För att undersöka vilka konsekvenser en förändring av Borekullas framtid skulle kunna få har
+FRK genomfört en enkät som sammanställdes den 2 november 2026 och omfattar 141
+
+inkomna svar. Av de svarande bedömer 90,8 procent att det inte, eller troligen inte, skulle
+vara möjligt att fortsätta med ridning i Kungsbacka. Nästan 93 procent uppger att regelbundet
+deltagande skulle bli mycket eller betydligt svårare, medan 56,7 procent bedömer att eleven
+skulle behöva pausa eller sluta rida.
+
+Enkäten är inte vetenskapligt utformad eller validerad och resultaten kan därför inte
+generaliseras till samtliga medlemmar. Däremot ger de 141 svaren en tydlig indikation på att
+många barn och ungdomar riskerar att förlora både möjligheten att utöva sin idrott och den
+trygga plats för gemenskap och meningsfull fritid som Borekulla utgör. Det är en signal som
+kommunen behöver ta på allvar och undersöka närmare innan beslut fattas om anläggningens
+framtid.
+
+Enkäten visar också vilka praktiska hinder som ligger bakom denna oro. Drygt 75 procent
+anger längre restider, 53,2 procent begränsade möjligheter till skjuts och lika många ökade
+resekostnader. Samtidigt uppger 44,7 procent att eleven i dag kan ta sig till ridskolan själv. En
+
+centralisering riskerar därmed att göra barns och ungdomars möjligheter att delta mer
+beroende av familjens ekonomi, arbetstider och tillgång till bil.
+
+Men vad innebär det för samhället om så många riskerar att förlora en viktig del av sin fritid
+och vardag? Enkäten visar att drygt 85 procent vistas på anläggningen även utanför sina
+ordinarie ridlektioner. Borekulla är således inte enbart en plats för ridundervisning, utan också
+en social mötesplats där barn och ungdomar utvecklar vänskap, självständighet,
+ansvarstagande och relationer med trygga vuxna.
+
+Genom ungdomssektionen Cavallo, FRK:s ideella engagemang och samarbeten med
+kommunala verksamheter ges även barn och ungdomar med särskilda behov och psykisk
+ohälsa möjlighet att delta i en meningsfull gemenskap. För vissa är stallet en särskilt viktig
+trygg miljö och en plats där de känner tillhörighet.
+
+<!-- sida 81 -->
+
+När sådana sammanhang riskerar att försvinna handlar konsekvenserna inte längre enbart om
+möjligheten att utöva en idrott. Det handlar också om social gemenskap, förebyggande
+
+samhällsarbete och barns och ungdomars uppväxtvillkor. Det som kan framstå som en
+besparing i kommunens fastighetsbudget riskerar att innebära en betydande social förlust och
+på längre sikt ett ökat behov av andra samhällsinsatser.
+
+FRK har en särskild betydelse genom sin geografiska placering i kommunens södra del.
+Kungsbacka består av både tätorter och landsbygd, och tillgången till föreningsverksamhet
+behöver finnas även utanför de centrala delarna. Om verksamheter koncentreras till färre
+platser riskerar barn och familjer i södra kommunen att få betydligt sämre möjligheter att
+delta.
+
+I kommunens lokal- och anläggningsstrategi för 2026–2041 betonas tillgänglighet, rättvis och
+jämställd resursfördelning samt långsiktig planering av underhåll och investeringar.
+Barnkonventionen ställer dessutom krav på att barnets bästa beaktas vid beslut som rör barn.
+Vi anser därför att kommunen behöver genomföra en barnkonsekvensanalys där barns och
+ungdomars egna synpunkter och FRK enkätresultat tas till vara.
+
+FRK begär att Kungsbacka kommun omprövar utredningens förslag, tar ansvar för
+underhållet av sina fastigheter och presenterar en långsiktig plan för Borekulla. Beslutet måste
+grundas på en konsekvensanalys som omfattar hela föreningens verksamhet och betydelse för
+barn, familjer och lokalsamhälle, inte enbart fastigheternas skick och kostnader.
+
+Borekullas framtid får inte avgöras av kommunens tidigare investeringsprioriteringar eller
+enbart ekonomiska kalkyler. Den avgörande frågan är inte bara vad det kostar att bevara
+anläggningen, utan vad samhället riskerar att förlora om verksamheten försvinner.
+
+Frillesås Rid- och Körklubb
+Styrelsen
+
+<!-- sida 82 -->
+
 TJÄNSTESKRIVELSE
 
 Datum
@@ -3562,7 +3694,7 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 80 -->
+<!-- sida 83 -->
 
 TJÄNSTESKRIVELSE
 
@@ -3599,7 +3731,7 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 81 -->
+<!-- sida 84 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3610,7 +3742,7 @@ Nämnden     för Kultur  & Fritid
 
 1
 
-<!-- sida 82 -->
+<!-- sida 85 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3625,7 +3757,7 @@ Innehållsförteckning
 
 2
 
-<!-- sida 83 -->
+<!-- sida 86 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3682,7 +3814,7 @@ och offentlig konst.
 
 3
 
-<!-- sida 84 -->
+<!-- sida 87 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3742,7 +3874,7 @@ stöd på de platser där de befinner sig.
 
 4
 
-<!-- sida 85 -->
+<!-- sida 88 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3777,7 +3909,7 @@ möjligheterna för nationella och lokala kulturella och kreativa näringar.
 
 5
 
-<!-- sida 86 -->
+<!-- sida 89 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3795,7 +3927,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 
 6
 
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
+[Tabell 89-1](handlingar.tabeller/89-1.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -3804,7 +3936,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 86-2](handlingar.tabeller/86-2.csv)
+[Tabell 89-2](handlingar.tabeller/89-2.csv)
 
 | Indikator | Utvärde<br>ra A,<br>B, C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -3816,7 +3948,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (KOLADA) |  |  |  |
 | Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn (KOLADA) |  |  |  |
 
-[Tabell 86-3](handlingar.tabeller/86-3.csv)
+[Tabell 89-3](handlingar.tabeller/89-3.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -3825,7 +3957,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 86-87-4](handlingar.tabeller/86-87-4.csv)
+[Tabell 89-90-4](handlingar.tabeller/89-90-4.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -3844,7 +3976,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Andelen återbrukade möbler |  |  |  |
 | Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn |  |  |  |
 
-<!-- sida 87 -->
+<!-- sida 90 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3853,7 +3985,7 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - FOKUSOMRÅDEN
 
 7
 
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
+[Tabell 90-1](handlingar.tabeller/90-1.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -3862,7 +3994,7 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - FOKUSOMRÅDEN
 |  |  |
 |  |  |
 
-<!-- sida 88 -->
+<!-- sida 91 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3874,7 +4006,7 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET - INDIKATORER
 
 8
 
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
+[Tabell 91-1](handlingar.tabeller/91-1.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -3886,7 +4018,7 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET - INDIKATORER
 | Småföretagarindex, ranking utifrån nio olika<br>dimensioner av företagande (Källa:<br>Småföretagarnas riksförbund) |  |  |  |
 |  |  |  |  |
 
-[Tabell 88-2](handlingar.tabeller/88-2.csv)
+[Tabell 91-2](handlingar.tabeller/91-2.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -3895,7 +4027,7 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 88-3](handlingar.tabeller/88-3.csv)
+[Tabell 91-3](handlingar.tabeller/91-3.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -3905,7 +4037,7 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET - INDIKATORER
 | Arbetslösa av befolkningen, 18–65 år (Källa:<br>Kolada) |  |  |  |
 | Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) |  |  |  |
 
-<!-- sida 89 -->
+<!-- sida 92 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3915,7 +4047,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 
 9
 
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
+[Tabell 92-1](handlingar.tabeller/92-1.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -3924,7 +4056,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 89-2](handlingar.tabeller/89-2.csv)
+[Tabell 92-2](handlingar.tabeller/92-2.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -3937,7 +4069,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 |  |  |  |  |
 |  |  |  |  |
 
-<!-- sida 90 -->
+<!-- sida 93 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3949,7 +4081,7 @@ Förslag på Nytt mål 2 - Fokusområden
 
 10
 
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
+[Tabell 93-1](handlingar.tabeller/93-1.csv)
 
 | Förslag på nytt mål | Förslag på nya fokusområden |
 | --- | --- |
@@ -3958,7 +4090,7 @@ Förslag på Nytt mål 2 - Fokusområden
 |  |  |
 |  |  |
 
-[Tabell 90-2](handlingar.tabeller/90-2.csv)
+[Tabell 93-2](handlingar.tabeller/93-2.csv)
 
 | Indikator | Målsättning 2027<br>(öka/minska) | Kommentar nya förslag |
 | --- | --- | --- |
@@ -3969,7 +4101,7 @@ Förslag på Nytt mål 2 - Fokusområden
 |  |  |  |
 |  |  |  |
 
-[Tabell 90-3](handlingar.tabeller/90-3.csv)
+[Tabell 93-3](handlingar.tabeller/93-3.csv)
 
 | Förslag på nytt mål | Förslag på nya fokusområden |
 | --- | --- |
@@ -3978,7 +4110,7 @@ Förslag på Nytt mål 2 - Fokusområden
 |  |  |
 |  |  |
 
-<!-- sida 91 -->
+<!-- sida 94 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -3988,7 +4120,7 @@ Förslag på Nytt mål 3 - Fokusområden
 
 11
 
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
+[Tabell 94-1](handlingar.tabeller/94-1.csv)
 
 | Indikator | Målsättning 2027<br>(öka/minska) | Kommentar nya förslag |
 | --- | --- | --- |
@@ -3999,7 +4131,7 @@ Förslag på Nytt mål 3 - Fokusområden
 |  |  |  |
 |  |  |  |
 
-[Tabell 91-2](handlingar.tabeller/91-2.csv)
+[Tabell 94-2](handlingar.tabeller/94-2.csv)
 
 | Förslag på nytt mål | Förslag på nya fokusområden |
 | --- | --- |
@@ -4008,7 +4140,7 @@ Förslag på Nytt mål 3 - Fokusområden
 |  |  |
 |  |  |
 
-<!-- sida 92 -->
+<!-- sida 95 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till kommunbudget 2028
@@ -4020,7 +4152,7 @@ Förslag på Nytt mål 4 - Indikatorer
 
 0
 
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
+[Tabell 95-1](handlingar.tabeller/95-1.csv)
 
 | Indikator | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- |
@@ -4031,7 +4163,7 @@ Förslag på Nytt mål 4 - Indikatorer
 |  |  |  |
 |  |  |  |
 
-[Tabell 92-2](handlingar.tabeller/92-2.csv)
+[Tabell 95-2](handlingar.tabeller/95-2.csv)
 
 | Förslag på nytt mål | Förslag på nya fokusområden |
 | --- | --- |
@@ -4040,7 +4172,7 @@ Förslag på Nytt mål 4 - Indikatorer
 |  |  |
 |  |  |
 
-[Tabell 92-3](handlingar.tabeller/92-3.csv)
+[Tabell 95-3](handlingar.tabeller/95-3.csv)
 
 | Indikator | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- |
@@ -4051,7 +4183,7 @@ Förslag på Nytt mål 4 - Indikatorer
 |  |  |  |
 |  |  |  |
 
-<!-- sida 93 -->
+<!-- sida 96 -->
 
 TJÄNSTESKRIVELSE
 
@@ -4093,7 +4225,7 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 94 -->
+<!-- sida 97 -->
 
 Version 1 2026-10-28
 
@@ -4109,7 +4241,7 @@ Utredning pågår om behov av biblioteksbuss eller mindre fordon
 
 Budgeten har fördelats ut på 2 år. Samma belopp som tidigare
 
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
+[Tabell 97-1](handlingar.tabeller/97-1.csv)
 
 |  | Investeringsplan 2027-2036<br>Löpande investeringar | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4129,7 +4261,7 @@ Budgeten har fördelats ut på 2 år. Samma belopp som tidigare
 |  | Lokaler Konst 1% -Fördelas till KFT från lokalbudget |  |  |  |  |  |  |  |  |  |  |  |
 |  | S.A INVESTERINGAR | 29 000 | 16 300 | 19 500 | 24 400 | 16 500 | 16 500 | 16 500 | 16 500 | 17 000 | 16 500 | 16 500 |
 
-<!-- sida 95 -->
+<!-- sida 98 -->
 
 BEHOVSBESKRIVNING
 Övriga Investeringar
@@ -4191,7 +4323,7 @@ Besöksadress    Telefon
 Fax
 0300-83 47 04 www.kungsbacka.se
 
-<!-- sida 96 -->
+<!-- sida 99 -->
 
 KUNGSBACKA  KOMMUN
 
@@ -4207,13 +4339,13 @@ Påbörja upphandling året innan för att kunna lägga om under sommarperioden
 
 Underskrift
 
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
+[Tabell 99-1](handlingar.tabeller/99-1.csv)
 
 | Datum | Namnförtydligande | Datum | Namnförtydligande |
 | --- | --- | --- | --- |
 | Underskrift |  | Underskrift |  |
 
-<!-- sida 97 -->
+<!-- sida 100 -->
 
 BEHOVSBESKRIVNING
 Övriga Investeringar
@@ -4283,7 +4415,7 @@ U
 K   4 34 81 Kungsbacka BVesöksadresäs gmästaren, Syréngatan 1 T0elefon 300-83 40 00 i (e-post borttagen)
 F0ax 300-83 47 04 w ww.kungsbacka.se
 
-<!-- sida 98 -->
+<!-- sida 101 -->
 
 Kungsbacka kommun
 
@@ -4332,19 +4464,19 @@ Den totala projekttiden beräknas till cirka 24 månader.
 
 Underskrift
 
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
+[Tabell 101-1](handlingar.tabeller/101-1.csv)
 
 | D atum | N amnförtydliga nde | D atum | N amnförtydliga nde |
 | --- | --- | --- | --- |
 | U nderskrift |  | U nderskrift |  |
 
-<!-- sida 99 -->
+<!-- sida 102 -->
 
 Kungsbacka kommun
 
 3 (3)
 
-<!-- sida 100 -->
+<!-- sida 103 -->
 
 BEHOVSBESKRIVNING
 Övriga Investeringar
@@ -4425,7 +4557,7 @@ Besöksadress    Telefon
 Fax
 0300-83 47 04 www.kungsbacka.se
 
-<!-- sida 101 -->
+<!-- sida 104 -->
 
 KUNGSBACKA  KOMMUN
 
@@ -4474,7 +4606,7 @@ platsen också beaktas. Det finns därför behov av en tydlig ansvarsfördelning
 drift och underhåll, samt noggrant genomtänkta avtal och tillstånd för att säkerställa att det kan bevaras
 och uppskattas långsiktigt.
 
-<!-- sida 102 -->
+<!-- sida 105 -->
 
 KUNGSBACKA  KOMMUN
 
@@ -4500,13 +4632,13 @@ Underskrift
 
 Blanketten sparas som bilaga i Stratsys
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 105-1](handlingar.tabeller/105-1.csv)
 
 | Datum | Namnförtydligande<br>Sofia Rosén | Datum | Namnförtydligande<br>Peter Rudvall |
 | --- | --- | --- | --- |
 | Underskrift |  | Underskrift |  |
 
-<!-- sida 103 -->
+<!-- sida 106 -->
 
 BEHOVSBESKRIVNING
 Övriga Investeringar
@@ -4568,7 +4700,7 @@ Besöksadress    Telefon
 Fax
 0300-83 47 04 www.kungsbacka.se
 
-<!-- sida 104 -->
+<!-- sida 107 -->
 
 KUNGSBACKA  KOMMUN
 
@@ -4620,14 +4752,14 @@ besiktning,
 Underskrift
 Datum    Namnförtydligande         Datum    Namnförtydligande
 
-<!-- sida 105 -->
+<!-- sida 108 -->
 
 KUNGSBACKA  KOMMUN
 
 Underskrift                        Underskrift
 3 (3)
 
-<!-- sida 106 -->
+<!-- sida 109 -->
 
 BEHOVSBESKRIVNING
 
@@ -4682,7 +4814,7 @@ C:\Users\erik.norinder\AppData\Local\Ciceron\1071941\Motionsspår, behovsbeskriv
 
 uniForm KUB671 v 2.0, 2010-10-06
 
-<!-- sida 107 -->
+<!-- sida 110 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -4706,7 +4838,7 @@ INVESTERINGSSVOLYM
 TIDPLAN
 2029-2030
 
-<!-- sida 108 -->
+<!-- sida 111 -->
 
 TJÄNSTESKRIVELSE
 
@@ -4748,7 +4880,7 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 109 -->
+<!-- sida 112 -->
 
 Nr   Kund            Beskrivning    Belopp Attest Attesterat
 
@@ -4769,15 +4901,15 @@ Vuxenskolan     utbetalning
 2295 IFK Fjärås     Särskild utbetalning till 50000,00 Godkänd 2026-10-13 09:17
 föreningar
 
-<!-- sida 110 -->
+<!-- sida 113 -->
 
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
+[Tabell 113-1](handlingar.tabeller/113-1.csv)
 
 | Ärende/ärendegrupp enligt<br>delegationslistan | Delegeringsbeslut, insats samt ev. omfattning | Beslutsfattare |
 | --- | --- | --- |
 | 2.4.5 Verksamhet | Ansöka om bidrag där Kungsbacka<br>kommun står som sökande<br>Ansökan om medel för vidare<br>brottsförebyggande och<br>trygghetsskapande arbete med Trygga Val | Cecilia Ljungkvist-<br>Holm |
 
-<!-- sida 111 -->
+<!-- sida 114 -->
 
 TJÄNSTESKRIVELSE
 
@@ -4812,7 +4944,7 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 112 -->
+<!-- sida 115 -->
 
 Ankom      Namn            Beskrivning                Diarienr
 
@@ -4846,32 +4978,35 @@ Tjolöholm 1:1
 fasadändring av byggnad och anläggning
 Tjolöholm (BN 2026-001743) svar senast:
 261127
+2026-11-04 Frillesås Rid- och Yttrande från Kungsbacka Ridklubb KFT-2026-00211
+Körklubb        2026.10.21
 2026-11-03 Privatperson    Brev gällande Frillesås Ridklubb KFT-2026-00261
+
 2026-11-02 Privatperson    Brev gällande Frillesås Rid-och Körklubbs KFT-2026-00261
 framtid
-
 2026-10-30 Privatperson    Öppet brev till politikerna i Kungsbacka KFT-2026-00261
 kommun gällande ridskolan i Frillesås
 2026-10-27 Förskola & Grundskola (Förskola & Grundskola) Begäran om KFT-2026-00253
+
 förlängd remisstid
 2026-10-23 Kommunstyrelsen (Kommunstyrelsen) (protokollsutdrag) KFT-2026-00260
-
 Uppstart av lokalprojekt i lokalplan Onsala
 idrottshall (löpnr 140) (KS 2026-00690) § 222
 
 2026-10-23 Kommunstyrelsen (Kommunstyrelsen) (protokollsutdrag) KFT-2026-00258
+
 Uppstart av lokalprojekt i lokalplan-Anpassad
 grundskola utökat behov (KS 2026-00691)
-
 §221
+
+<!-- sida 116 -->
+
 2026-10-23 Kommunstyrelsen (Kommunstyrelsen) (protokollsutdrag) KFT-2024-000860
+
 Begäran om omprövning av beslut om
 amorteringsfrihet för lån med kommunela
 borgen, Vallda Tennisklubb (KS 2026-00246)
 §218
-
-<!-- sida 113 -->
-
 2026-10-23 Samhällsbyggnads- Granskning 2 - Följebrev KFT-2025-00115
 
 kontoret
@@ -4879,29 +5014,29 @@ kontoret
 Redovisning av förstudie
 2026-10-21 Vård & Omsorg   Bilaga 5 Risk och konsekvensanalys KFT-2026-00259
 2026-10-21 Vård & Omsorg   Bilaga 4 Genomförandemodell styrning och KFT-2026-00259
-
 resursbehov
+
 2026-10-21 Vård & Omsorg   Bilaga 3 Ekonomisk nulägesbild KFT-2026-00259
 2026-10-21 Vård & Omsorg   Bilaga 2 Marknads och omvärldsanalys KFT-2026-00259
 2026-10-21 Vård & Omsorg   Bilaga 1 Förvaltningens samlade underlag KFT-2026-00259
 2026-10-21 Vård & Omsorg   (Nämnden för Vård & Omsorg) KFT-2026-00259
 (Tjänsteskrivelse) Upphandling av ny
-
 verksamhetsplattform
+
 2026-10-21 Vård & Omsorg   (Nämnden för Vård Omsorg)  KFT-2026-00259
 (protokollsutdrag) Upphandling av ny
 verksamhetsplattform för Vård & Omsorg (VO
 2026-00416) § 157
 2026-10-21 Kungsbacka Ridklubb Yttrande från Kungsbacka Ridklubb KFT-2026-00211
-
 2026.10.21
+
 2026-10-20 IFK Fjärås      Föreningsuppdrag IFK Fjärås KFT-2026-00256
 2026-10-20 Hallands        Hallands Ridsportförbund - Återkoppling KFT-2026-00211
 Ridsportförbund
 2026-10-19 Svenska         Svenska Ridsportsförbundets återkoppling KFT-2026-00211
 Ridsportförbundet på Kungsbackas rapport
-
 2026-10-16 Privatperson    Bifogat tidningsurklipp (Göteborgs Posten KFT-2026-00136
+
 2017-09-28) - Markägare kan stoppa
 strandväg
 2026-10-16 Privatperson    Begäran om åtgärder avseende Åsa KFT-2026-00136
@@ -4913,17 +5048,16 @@ som ersättare i nämnden för Kultur & Fritid
 (KS 2026-00731) §178
 2026-10-14 Kommunfullmäktige (Kommunfullmäktige) (Beslut) Utdelning av KFT-2024-00247
 medel ur Stiftelsen Adolf och Hélene
-
 Hasselgrens
+
 2026-10-14 Kommunfullmäktige (Kommunfullmäktige) (protokoll) Antagande KFT-2026-00254
 av arbetsgivarpolicy (KS 2025-00400) §166
 
 2026-10-14 Kommunfullmäktige Antagande av uppdaterad arbetsgivarpolicy KFT-2026-00254
 (Tjänsteskrivelse)
-
 2026-10-14 Kommunfullmäktige Arbetsgivarpolicy        KFT-2026-00254
 
-<!-- sida 114 -->
+<!-- sida 117 -->
 
 TJÄNSTESKRIVELSE
 
