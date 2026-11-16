@@ -1859,6 +1859,11 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
 - **Givet** en fil som inte är en PDF
 - **När** mötet läses
 - **Så** blir den ingen kandidat och nämns i sammanfattningen.
+- **Givet** en mötessida som inte går att hämta
+- **När** upptäckten körs
+- **Så** läses de andra mötena ändå, mötessidan nämns i sammanfattningen
+  med orsaken, och organet får ingen kandidat med mötets datum förrän en
+  senare körning hämtar sidan.
 - **Givet** kandidater från Meetings Plus
 - **När** kandidatlistan skrivs
 - **Så** står de efter övriga levande kandidater, med det nyaste mötet

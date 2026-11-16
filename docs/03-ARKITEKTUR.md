@@ -574,8 +574,11 @@ kf = "https://exempelby.se/committees/fullmaktige"
   organsidans och vars sista del har ett datum `ÅÅÅÅ-MM-DD`, som
   `mote-2026-09-30` eller `mote-2023-01-20-12741`. Datumet är mötets.
   Sidans övriga länkar, till exempel menyn, är inga möten.
-- **En mötessida som inte går att hämta** stoppar upptäckten, som en
-  Sitevision-sida ([Kandidatlistan](#kandidatlistan)).
+- **En mötessida som inte går att hämta** nämns i sammanfattningen med
+  filnamnet `mötessidan` och felets orsak, och organets alla kandidater
+  med mötets datum tas bort ur listan till nästa körning. En organsida som
+  inte går att hämta stoppar upptäckten, som en Sitevision-sida
+  ([Kandidatlistan](#kandidatlistan)).
 - **Filerna** är mötessidans länkar som öppnar en fil
   (`downloadMode=open`) under `…/agenda/<fil>` eller `…/protocol/<fil>`.
   Länken som laddar ner samma fil, och zip-paketen, läses inte. En fil

@@ -15,7 +15,7 @@ from urllib.parse import urlsplit
 from kommunhandlingar import monster, schema
 from kommunhandlingar.adaptrar import meetingsplus_html, sitevision
 from kommunhandlingar.adaptrar.meetingsplus_html import Fil
-from kommunhandlingar.fel import IngenKandidat, Konfigurationsfel
+from kommunhandlingar.fel import Hamtfel, IngenKandidat, Konfigurationsfel
 from kommunhandlingar.kandidat import Avvisad, Kandidat
 
 FALT = {"adapter", "sidor", "samlingsmoten", "monster"}
@@ -59,14 +59,29 @@ def samlingsmote(adress: str, sidor: dict[str, str], var: str) -> str:
 def upptack(
     kalla: Kalla, hamta_sida: Callable[[str], str]
 ) -> tuple[list[Kandidat], list[Avvisad]]:
+    """En mötessida som inte går att hämta stoppar inte de andra (ADR-0080)."""
     kandidater: list[Kandidat] = []
     avvisade: list[Avvisad] = []
+    missade: set[tuple[str, date]] = set()
     for organ, organsida in kalla.sidor.items():
         for motessida in meetingsplus_html.moten(hamta_sida(organsida), organsida):
-            html = hamta_sida(motessida)
+            try:
+                html = hamta_sida(motessida)
+            except Hamtfel as fel:
+                missade.add((organ, motesdatum(motessida)))
+                avvisade.append(Avvisad(motessida, "mötessidan", fel.orsak))
+                continue
             nya, bort = las_mote(kalla, organ, motessida, html)
             kandidater, avvisade = kandidater + nya, avvisade + bort
-    return kandidater, avvisade
+    return utan_missade_dagar(kandidater, missade), avvisade
+
+
+def utan_missade_dagar(
+    kandidater: list[Kandidat], missade: set[tuple[str, date]]
+) -> list[Kandidat]:
+    """Ett annat möte samma dag kunde annars ta det missade mötets plats i
+    poolen; organets kandidater den dagen väntar till nästa körning."""
+    return [k for k in kandidater if (k.organ, k.datum) not in missade]
 
 
 def las_mote(

@@ -1,6 +1,6 @@
 ---
 status: accepted
-date: 2026-11-15
+date: 2026-11-16
 decision-makers: projektägaren
 consulted: AI-agenten
 ---
@@ -102,12 +102,11 @@ att alla 17 organ och bilagorna tas med från början.
   poolen för hand, så att nästa körning hämtar dem på rätt plats. Därför
   gicks alla regionens möten daterade 1 januari igenom innan den första
   körningen, och alla står i kommunfilen.
-* Dåligt, eftersom en mötessida som inte går att hämta stoppar kommunens
-  hela levande upptäckt till nästa körning, som en Sitevision-sida gör
-  ([ADR-0061](0061-korningen-tal-tillfalliga-fel-pa-robots.md)). Med
-  omkring 1 100 sidor är det fler tillfällen, men klienten försöker igen
-  vid tillfälliga fel, och en halv lista vore värre: det som saknas i den
-  skulle se borttaget ut.
+* Dåligt, eftersom en mötessida som inte går att hämta ger en lucka till
+  nästa körning. Den nämns i sammanfattningen, och organets alla
+  kandidater den dagen väntar också, så att ett annat möte samma dag inte
+  tar det missade mötets plats i poolen. En organsida som inte går att
+  hämta stoppar upptäckten som förut, eftersom den listar alla mötena.
 
 ### Confirmation
 
@@ -151,3 +150,10 @@ möten och uppskattat 15 000 dokument, tre gånger Kungsbackas. Därför ett
 eget datarepo, `moggleif/regionhalland`, med kommunfil, data och
 nattkörning, som installerar den här koden i en fast version.
 Webbplatsen för regionen är ett senare steg.
+
+**Tillägg 2026-11-16.** Först stoppade en mötessida som inte gick att
+hämta hela upptäckten, som en Sitevision-sida. Den första körningen för
+regionen stannade efter 37 minuter på ett anslutningsfel på en av
+omkring 1 100 mötessidor, och ingenting hämtades. Med så många sidor
+blir det för ofta, så en mötessida som inte går att hämta stoppar nu
+bara sitt organs dag (K57).
