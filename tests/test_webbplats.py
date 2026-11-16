@@ -224,9 +224,18 @@ class TestBygg(unittest.TestCase):
     def test_webbplatsen_byggs_ur_kommunfilerna_och_poolen(self):
         self.spara(dokument())
         bygg(self.rot, self.ut, REPO, TID)
-        self.assertIn("Exempelby kommun", (self.ut / "index.html").read_text())
+        start = (self.ut / "index.html").read_text()
+        self.assertIn("<title>Exempelby kommun</title>", start)
+        self.assertIn('<table class="oversikt">', start)
         status = self.ut / "exempelby" / "status.html"
         self.assertIn("Dokument: 1", status.read_text())
+
+    def test_med_flera_kommuner_listar_startsidan_dem(self):
+        shutil.copy(FIXTURER / "exempelby.toml", self.rot / "kommuner" / "andraby.toml")
+        bygg(self.rot, self.ut, REPO, TID)
+        start = (self.ut / "index.html").read_text()
+        self.assertIn('<a href="andraby.html">', start)
+        self.assertNotIn('<table class="oversikt">', start)
 
     def test_okant_organ_typ_eller_kvalitet_stoppar_bygget(self):
         self.spara(dokument(organ="nedlagd", typ="beslut", kvalitet="bra"))

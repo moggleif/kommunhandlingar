@@ -96,12 +96,14 @@ def rot(adress: str) -> str:
 
 
 def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
+    namn = sajtnamn(mall.kommuner)
+    titel = namn if rubrik == namn else f"{rubrik} – {namn}"
     return f"""<!doctype html>
 <html lang="sv">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{escape(rubrik)} – {escape(sajtnamn(mall.kommuner))}</title>
+<title>{escape(titel)}</title>
 {GEMENSAM}
 <style>{STIL}</style>
 <script>{TEMA}</script>
