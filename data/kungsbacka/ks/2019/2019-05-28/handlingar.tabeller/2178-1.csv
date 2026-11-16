@@ -1,0 +1,42 @@
+"Er beteckning 19GS03
+0,5-1,0
+Provtagare Johanna Arlinger
+Provtagningsdatum 2019-01-21
+Labnummer O11097497",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+TS_105°C,72.5,2.0,%,1,V,STGR
+As,3.05,0.85,mg/kg TS,1,H,STGR
+Ba,118,29,mg/kg TS,1,H,STGR
+Cd,0.317,0.074,mg/kg TS,1,H,STGR
+Co,5.33,1.31,mg/kg TS,1,H,STGR
+Cr,14.6,3.2,mg/kg TS,1,H,STGR
+Cu,100,22,mg/kg TS,1,H,STGR
+Hg,0.293,0.088,mg/kg TS,1,H,STGR
+Ni,11.4,3.6,mg/kg TS,1,H,STGR
+Pb,39.5,8.8,mg/kg TS,1,H,STGR
+V,19.6,5.0,mg/kg TS,1,H,STGR
+Zn,130,26,mg/kg TS,1,H,STGR
+,,,,,,
+TS_105°C,70.4,,%,3,O,ANFO
+naftalen,<0.1,,mg/kg TS,5,J,MASU
+acenaftylen,<0.1,,mg/kg TS,5,J,MASU
+acenaften,<0.1,,mg/kg TS,5,J,MASU
+fluoren,<0.1,,mg/kg TS,5,J,MASU
+fenantren,<0.1,,mg/kg TS,5,J,MASU
+antracen,<0.1,,mg/kg TS,5,J,MASU
+fluoranten,<0.1,,mg/kg TS,5,J,MASU
+pyren,<0.1,,mg/kg TS,5,J,MASU
+bens(a)antracen,<0.05,,mg/kg TS,5,J,MASU
+krysen,<0.05,,mg/kg TS,5,J,MASU
+bens(b)fluoranten,<0.05,,mg/kg TS,5,J,MASU
+bens(k)fluoranten,<0.05,,mg/kg TS,5,J,MASU
+bens(a)pyren,<0.05,,mg/kg TS,5,J,MASU
+dibens(ah)antracen,<0.05,,mg/kg TS,5,J,MASU
+benso(ghi)perylen,<0.1,,mg/kg TS,5,J,MASU
+indeno(123cd)pyren,<0.05,,mg/kg TS,5,J,MASU
+"PAH, summa 16",<1.3,,mg/kg TS,5,D,MASU
+"PAH, summa cancerogena *",<0.2,,mg/kg TS,5,N,MASU
+"PAH, summa övriga *",<0.5,,mg/kg TS,5,N,MASU
+"PAH, summa L *",<0.15,,mg/kg TS,5,N,MASU
+"PAH, summa M *",<0.25,,mg/kg TS,5,N,MASU
+"PAH, summa H *",<0.25,,mg/kg TS,5,N,MASU
