@@ -6,8 +6,9 @@ namn och högst sex poster, där en post är en länk eller en undermeny. Med
 flera kommuner får varje kommun en enda post: en undermeny med översikten,
 kalendern och statussidan och sedan organen i kommunfilens grupper, och sist
 står avvikelserna. Så ryms fem kommuner. En pool med en enda kommun heter som
-den, och då är kommunfilens grupper själva posterna (ADR-0082): kalendern,
-en undermeny per grupp och sist *Om poolen*. Översikten är då startsidan.
+den, och då är kommunfilens grupper själva posterna (ADR-0082): först
+*Handlingar och protokoll*, översikten som är startsidan (ADR-0084), sedan
+kalendern, en undermeny per grupp och sist *Om poolen*.
 Knappen för mörkt tema står i Giffås sajtrad (ADR-0083).
 """
 
@@ -59,7 +60,8 @@ def en_kommuns_poster(
         (avvikelser.ADRESS, "Avvikelser"),
     ]
     return (
-        kalenderpost
+        [post("index.html", EN_KOMMUN, aktuell)]
+        + kalenderpost
         + [
             enkel_undermeny(namn or "Organen", organlankar(kommun.id, organen), aktuell)
             for namn, organen in grupperade(kommun)

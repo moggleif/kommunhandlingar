@@ -1792,10 +1792,12 @@ varje push till `main`, för hand och när ett issue med etiketten
   organen grupp för grupp, och sist avvikelserna – med
   sajtens namn, som är kommunens när webbplatsen har en enda kommun,
   annars "Kommunhandlingar". Med en enda kommun är kommunfilens grupper
-  själva posterna: "Kalender" när den finns, en undermeny per grupp och
-  sist "Om poolen" med statussidan och avvikelserna; översikten är då
-  också startsidan, och ingen rubrik upprepar kommunens namn
-  ([ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md)). Sidan har också en
+  själva posterna: först "Handlingar och protokoll", översikten som då
+  också är startsidan
+  ([ADR-0084](decisions/0084-handlingar-och-protokoll-i-menyn.md)),
+  "Kalender" när den finns, en undermeny per grupp och sist "Om poolen"
+  med statussidan och avvikelserna, och ingen rubrik upprepar kommunens
+  namn ([ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md)). Sidan har också en
   sidfot som länkar till repot och säger när sidan byggdes. En pool i
   ett eget datarepo, som Region Hallands (ADR-0080), länkar sitt data och
   sina issues där, och dokumentationen och källkoden i kommunhandlingar

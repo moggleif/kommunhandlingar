@@ -107,3 +107,4 @@ Regler för det här repot, utöver MADR:
 | 0081 | [Menyn följer projektets gemensamma form och laddar sajtraden från Giffå](0081-menyn-i-projektets-gemensamma-form.md) | accepted |
 | 0082 | [En enda kommuns grupper är menyns poster, och dess översikt är startsidan](0082-en-kommuns-grupper-ar-menyns-poster.md) | accepted |
 | 0083 | [Temaknappen står i Giffås sajtrad, och valet gäller på projektets alla sajter](0083-temaknappen-i-giffas-sajtrad.md) | accepted |
+| 0084 | [Handlingar och protokoll är menyns första post, och kalendern har ingen stig](0084-handlingar-och-protokoll-i-menyn.md) | accepted |

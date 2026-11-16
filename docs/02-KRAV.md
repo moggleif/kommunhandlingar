@@ -1903,7 +1903,8 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
 
 Hur och varför står i
 [ADR-0081](decisions/0081-menyn-i-projektets-gemensamma-form.md),
-[ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md) och
+[ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md),
+[ADR-0084](decisions/0084-handlingar-och-protokoll-i-menyn.md) och
 [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 
 - **Givet** en sida på webbplatsen
@@ -1921,7 +1922,8 @@ Hur och varför står i
   "Kommunhandlingar", och rubrikerna slutar med kommunens namn.
 - **Givet** en webbplats med en enda kommun
 - **När** menyn byggs
-- **Så** är posterna "Kalender" när kommunen har en, en undermeny per
+- **Så** är posterna först "Handlingar och protokoll", en länk till
+  startsidan, sedan "Kalender" när kommunen har en, en undermeny per
   grupp i kommunfilen med dess organ utan utskott ("Organen" när filen
   saknar grupper), och sist "Om poolen" med "Poolens status" och
   "Avvikelser".
@@ -1929,9 +1931,10 @@ Hur och varför står i
 - **När** den byggs
 - **Så** är startsidan kommunens översikt med tabellen över organen och
   rubriken "Handlingar och protokoll", och `<kommun>.html` finns kvar med
-  samma innehåll. Stigen överst på organens, dokumentens, sammanträdenas
-  och kalenderns sidor börjar med "Handlingar och protokoll" i stället för
-  kommunens namn. Med flera kommuner listar startsidan kommunerna.
+  samma innehåll. Stigen överst på organens, dokumentens och
+  sammanträdenas sidor börjar med "Handlingar och protokoll" i stället för
+  kommunens namn. Kalendern har ingen stig, eftersom den och översikten
+  står bredvid varandra i menyn. Med flera kommuner listar startsidan kommunerna.
 - **Givet** en sida vars rubrik är sajtens namn
 - **När** den byggs
 - **Så** är sidans titel bara namnet, inte namnet två gånger.
