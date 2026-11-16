@@ -484,6 +484,10 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en sida på webbplatsen
 - **När** den visas
 - **Så** har den samma meny (K39) och en sidfot som länkar till repot.
+- **Givet** en sida på webbplatsen och en skärm 320 punkter bred eller mer
+- **När** den visas
+- **Så** går sidan aldrig att rulla i sidled: en bred tabell rullar i sin
+  egen ruta, och långa adresser och ord i rubrikerna bryts.
 - **Givet** en pool i ett eget datarepo, som Region Hallands (ADR-0080)
 - **När** webbplatsen byggs
 - **Så** länkar sidfoten både datarepot och kommunhandlingar, och sidornas

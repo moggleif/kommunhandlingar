@@ -32,7 +32,9 @@ STIL = """
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;
        padding: 0 1rem; line-height: 1.5; color: var(--text);
        background: var(--bakgrund); }
-.tabell, .sida { overflow-x: auto; }
+/* En bred tabell rullar i sin egen ruta, aldrig hela sidan; det som ligger
+   absolut i tabellen stannar i rutan (K14). */
+.tabell, .sida { overflow-x: auto; position: relative; }
 table { border-collapse: collapse; margin-bottom: 2rem; }
 th, td { border: 1px solid var(--kant); padding: 0.25rem 0.6rem; vertical-align: top; }
 th[scope="row"] { text-align: left; }
@@ -57,10 +59,13 @@ pre { background: var(--yta); padding: 0.5rem; overflow-x: auto; }
 .flikar a[aria-current] { background: var(--text); color: var(--bakgrund);
                           border-color: var(--text); }
 .oversikt td { text-align: center; }
-.dold { position: absolute; width: 1px; height: 1px; overflow: hidden; }
+.dold { position: absolute; width: 1px; height: 1px; overflow: hidden;
+        clip-path: inset(50%); white-space: nowrap; }
 .oversikt tr.grupp th { background: var(--yta); text-align: left; }
 .oversikt th.utskott { padding-left: 1.8rem; font-weight: normal; }
-footer { border-top: 1px solid var(--kant); margin-top: 3rem; padding: 1rem 0; }
+footer { border-top: 1px solid var(--kant); margin-top: 3rem; padding: 1rem 0;
+         overflow-wrap: anywhere; }
+h1, h2 { overflow-wrap: break-word; hyphens: auto; }
 """
 
 
