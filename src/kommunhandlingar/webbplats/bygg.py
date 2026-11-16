@@ -33,13 +33,9 @@ from kommunhandlingar.webbplats.llms import llms
 from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
 from kommunhandlingar.webbplats.malsida import malsida
-from kommunhandlingar.webbplats.meny import statusadress
+from kommunhandlingar.webbplats.meny import oversiktsnamn, statusadress
 from kommunhandlingar.webbplats.organsida import organsida
-from kommunhandlingar.webbplats.oversikt import (
-    adresser,
-    oversikt,
-    startar_pa_oversikten,
-)
+from kommunhandlingar.webbplats.oversikt import adresser, oversikt
 from kommunhandlingar.webbplats.rakning import okanda, rakna
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
@@ -59,7 +55,7 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
     projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
     mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
     ut.mkdir(parents=True, exist_ok=True)
-    if not startar_pa_oversikten(kommuner):
+    if not mall.en_kommun:
         (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     (ut / "llms.txt").write_text(llms(mall), encoding="utf-8")
     for kommun in kommuner:
@@ -93,7 +89,7 @@ def bygg_oversikten(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) 
     rader = rakna(kommun, dokument, mall.byggd.date())
     innehall = oversikt(mall, kommun, rader, dokument)
     for adress in adresser(mall, kommun):
-        html = sida(mall, adress, kommun.namn, innehall)
+        html = sida(mall, adress, oversiktsnamn(mall.kommuner, kommun), innehall)
         (ut / adress).write_text(html, encoding="utf-8")
 
 

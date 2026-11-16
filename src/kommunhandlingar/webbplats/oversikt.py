@@ -4,7 +4,8 @@ Kommunens sida: en rad per organ med antalet sammanträden och en kolumn
 per sida över tid, så att det syns vilka organ som har vilka sidor. Ett
 utskott står direkt under organet det hör till, och organen står i
 kommunfilens grupper när den har några. En webbplats med en enda kommun
-börjar på kommunens sida (K58).
+börjar på kommunens sida, som då heter "Handlingar och protokoll" i stället för
+sajtens namn (K58, ADR-0082).
 """
 
 from html import escape
@@ -18,13 +19,9 @@ from kommunhandlingar.webbplats.rakning import Organrad
 TOM = '<td class="tom">–<span class="dold"> saknas</span></td>'
 
 
-def startar_pa_oversikten(kommuner: list[Kommun]) -> bool:
-    return len(kommuner) == 1
-
-
 def adresser(mall: Mall, kommun: Kommun) -> list[str]:
     egen = f"{kommun.id}.html"
-    return [egen, "index.html"] if startar_pa_oversikten(mall.kommuner) else [egen]
+    return [egen, "index.html"] if mall.en_kommun else [egen]
 
 
 def oversikt(

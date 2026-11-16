@@ -145,7 +145,6 @@ class TestSidor(unittest.TestCase):
         mall = Mall([exempelby()], REPO, TID)
         for html, rot in ((sidor.startsida(mall), ""), (self.statussida(), "../")):
             self.assertIn(f'href="{rot}index.html"', html)
-            self.assertIn(f'href="{rot}exempelby.html"', html)
             self.assertIn(f'href="{rot}exempelby/status.html"', html)
             self.assertIn(f'href="{REPO}"', html)
             self.assertIn("2026-10-07 20:15 UTC", html)
@@ -225,10 +224,15 @@ class TestBygg(unittest.TestCase):
         self.spara(dokument())
         bygg(self.rot, self.ut, REPO, TID)
         start = (self.ut / "index.html").read_text()
-        self.assertIn("<title>Exempelby kommun</title>", start)
+        self.assertIn(
+            "<title>Handlingar och protokoll – Exempelby kommun</title>", start
+        )
+        self.assertIn("<h1>Handlingar och protokoll</h1>", start)
         self.assertIn('<table class="oversikt">', start)
-        status = self.ut / "exempelby" / "status.html"
-        self.assertIn("Dokument: 1", status.read_text())
+        self.assertIn('class="sajtnamn" href="index.html" aria-current="page"', start)
+        status = (self.ut / "exempelby" / "status.html").read_text()
+        self.assertIn("Dokument: 1", status)
+        self.assertIn("<title>Poolens status – Exempelby kommun</title>", status)
 
     def test_med_flera_kommuner_listar_startsidan_dem(self):
         shutil.copy(FIXTURER / "exempelby.toml", self.rot / "kommuner" / "andraby.toml")

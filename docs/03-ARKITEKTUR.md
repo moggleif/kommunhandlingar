@@ -1791,7 +1791,12 @@ varje push till `main`, för hand och när ett issue med etiketten
   en undermeny med översikten, kalendern när den finns, statussidan och
   organen grupp för grupp, och sist avvikelserna – med
   sajtens namn, som är kommunens när webbplatsen har en enda kommun,
-  annars "Kommunhandlingar" – och en
+  annars "Kommunhandlingar". Med en enda kommun är kommunfilens grupper
+  själva posterna: "Kalender" när den finns, en undermeny per grupp och
+  sist "Om poolen" med statussidan och avvikelserna; översikten är då
+  också startsidan, och ingen rubrik upprepar kommunens namn
+  ([ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md)). Sist i
+  menyn står knappen "Mörkt tema". Sidan har också en
   sidfot som länkar till repot och säger när sidan byggdes. En pool i
   ett eget datarepo, som Region Hallands (ADR-0080), länkar sitt data och
   sina issues där, och dokumentationen och källkoden i kommunhandlingar
@@ -1809,8 +1814,7 @@ varje push till `main`, för hand och när ett issue med etiketten
   inställning (`color-scheme: light dark`). Skriptet `webbplats/tema.js`
   står i varje sidas `<head>`: det sätter temat som sparats i
   `localStorage` (nyckeln `kommunhandlingar-tema`) innan sidan ritas, och
-  visar knappen "Mörkt tema" fast i övre högra hörnet, som byter och
-  sparar temat. Utan `light-dark()` visas ingen knapp. Kalenderns organrutor har mörk text på sina
+  visar knappen "Mörkt tema" sist i menyn, som byter och sparar temat. Utan `light-dark()` visas ingen knapp. Kalenderns organrutor har mörk text på sina
   ljusa toner i båda temana.
 - **Kommunens översikt** (K39, `webbplats/oversikt.py`) börjar med
   antalet dokument och det äldsta och senaste datumet. Tabellen har en

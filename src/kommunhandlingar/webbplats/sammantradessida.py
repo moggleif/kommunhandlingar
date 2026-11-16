@@ -11,6 +11,7 @@ from pathlib import Path
 from kommunhandlingar.webbplats.kortkoppling import organnamn
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
+from kommunhandlingar.webbplats.meny import oversiktsnamn
 from kommunhandlingar.webbplats.organsida import dokumentrubrik
 from kommunhandlingar.webbplats.punktkort import Lankar, antal, punktkort
 from kommunhandlingar.webbplats.sammantrade import Arende, Mote, adress, ordnade
@@ -23,7 +24,7 @@ def sammantradessida(mall: Mall, mote: Mote, arenden: list[Arende]) -> str:
     sidans, namn = f"{kommun.id}/{adress(mote.dokument)}", organnamn(kommun)
     lankar = Lankar(rot(sidans), handlingarna(kommun.id, mote.dokument), namn)
     vag = [
-        (f"{lankar.rot}{kommun.id}.html", kommun.namn),
+        (f"{lankar.rot}{kommun.id}.html", oversiktsnamn(mall.kommuner, kommun)),
         (f"{lankar.rot}{kommun.id}/{forsta['organ']}.html", namn[forsta["organ"]]),
     ]
     innehall = (
