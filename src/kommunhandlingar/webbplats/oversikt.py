@@ -3,7 +3,8 @@
 Kommunens sida: en rad per organ med antalet sammanträden och en kolumn
 per sida över tid, så att det syns vilka organ som har vilka sidor. Ett
 utskott står direkt under organet det hör till, och organen står i
-kommunfilens grupper när den har några.
+kommunfilens grupper när den har några. En pool med en enda kommun har
+översikten som startsida, och då heter den inte som sajten (ADR-0082).
 """
 
 from html import escape
@@ -14,6 +15,7 @@ from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.organordning import grupperade
 from kommunhandlingar.webbplats.rakning import Organrad
 
+EN_KOMMUN = "Organ och handlingar"
 TOM = '<td class="tom">–<span class="dold"> saknas</span></td>'
 
 
@@ -33,7 +35,8 @@ def kommunsida(
         f'<th scope="col">Organ</th><th scope="col">Sammanträden</th>{huvud}'
         f"</tr></thead>{grupper}</table></div>"
     )
-    return sida(mall, f"{kommun.id}.html", kommun.namn, innehall)
+    rubrik = EN_KOMMUN if len(mall.kommuner) == 1 else kommun.namn
+    return sida(mall, f"{kommun.id}.html", rubrik, innehall)
 
 
 def inledning(dokument: list[dict]) -> str:

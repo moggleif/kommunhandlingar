@@ -1693,8 +1693,9 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
   inställning ljus.
 - **Givet** en sida med JavaScript
 - **När** den visas
-- **Så** står en knapp för mörkt tema i övre högra hörnet och syns också när
-  sidan rullas. Ett klick byter tema, och valet gäller på alla sidor och vid
+- **Så** står en knapp för mörkt tema sist i menyn, till höger på bred
+  skärm och i den utfällda menyn på smal
+  ([ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md)). Ett klick byter tema, och valet gäller på alla sidor och vid
   nästa besök tills besökaren byter igen.
 - **Givet** mörkt tema
 - **När** sidan visas
@@ -1895,7 +1896,8 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
 ## K58 — Menyn följer projektets gemensamma form
 
 Hur och varför står i
-[ADR-0081](decisions/0081-menyn-i-projektets-gemensamma-form.md) och
+[ADR-0081](decisions/0081-menyn-i-projektets-gemensamma-form.md),
+[ADR-0082](decisions/0082-en-kommuns-grupper-ar-menyns-poster.md) och
 [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 
 - **Givet** en sida på webbplatsen
@@ -1906,9 +1908,21 @@ Hur och varför står i
 - **Givet** en webbplats med en enda kommun, som Kungsbackas eller ett
   eget datarepo
 - **När** den byggs
-- **Så** heter sajten som kommunen, i menyn, på startsidan och i varje
-  sidas titel. Med flera kommuner heter den "Kommunhandlingar".
-- **Givet** en kommun
+- **Så** heter sajten som kommunen, i menyn och sist i varje sidas titel,
+  och ingen sidas rubrik upprepar namnet: statussidan heter "Poolens
+  status" och kalendern "Kalender". Med flera kommuner heter den
+  "Kommunhandlingar", och rubrikerna slutar med kommunens namn.
+- **Givet** en webbplats med en enda kommun
+- **När** menyn byggs
+- **Så** är posterna "Kalender" när kommunen har en, en undermeny per
+  grupp i kommunfilen med dess organ utan utskott ("Organen" när filen
+  saknar grupper), och sist "Om poolen" med "Poolens status" och
+  "Avvikelser".
+- **Givet** en webbplats med en enda kommun
+- **När** den byggs
+- **Så** är startsidan kommunens översikt, med rubriken "Organ och
+  handlingar", och `<kommun>.html` finns kvar med samma innehåll.
+- **Givet** en webbplats med flera kommuner och en av dem
 - **När** menyn byggs
 - **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"
   (kommunens sida), "Kalender" när kommunen har en och "Poolens status",

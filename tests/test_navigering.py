@@ -9,8 +9,8 @@ from dataclasses import replace
 
 from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.mal import Mal
-from kommunhandlingar.webbplats.mall import Mall, sida
-from kommunhandlingar.webbplats.meny import meny
+from kommunhandlingar.webbplats.mall import Mall, kommunens, sida
+from kommunhandlingar.webbplats.meny import TEMAKNAPP, meny
 from kommunhandlingar.webbplats.oversikt import kommunsida
 from kommunhandlingar.webbplats.rakning import Organrad
 from kommunhandlingar.webbplats.spar import Steg
@@ -44,11 +44,11 @@ class TestNavigering(unittest.TestCase):
 
     def test_menyn_har_kommunens_sidor(self):
         html = meny([exempelby()], frozenset({"exempelby"}), "exempelby/fsn.html")
-        for adress in ("index", "exempelby", "exempelby/kalender", "exempelby/status"):
+        for adress in ("index", "exempelby/kalender", "exempelby/status"):
             self.assertIn(f'href="../{adress}.html"', html)
         self.assertIn('href="../avvikelser.html"', html)
 
-    def test_menyn_i_den_gemensamma_formen(self):
+    def test_en_kommuns_grupper_ar_menyns_poster(self):
         html = meny(
             [kommun_med_utskott()], frozenset({"exempelby"}), "exempelby/fsn.html"
         )
@@ -60,12 +60,26 @@ class TestNavigering(unittest.TestCase):
         )
         toppen = re.sub(r"</summary>.*?</details>", "</summary></details>", html)
         poster = re.findall(r"<li><(?:a [^>]*|details><summary)>([^<]+)<", toppen)
-        self.assertEqual(poster, [exempelby().namn, "Avvikelser"])
-        self.assertIn(
-            '<p class="grupp">Översikt</p><ul><li><a href="../exempelby.html">', html
-        )
+        self.assertEqual(poster, ["Kalender", "Organen", "Om poolen"])
+        self.assertNotIn(f"<summary>{exempelby().namn}</summary>", html)
+        self.assertNotIn('class="grupp"', html)
         self.assertIn('href="../exempelby/fsn.html" aria-current="page"', html)
         self.assertNotIn("exempelby/bun-au.html", html)
+        self.assertIn(
+            '<summary>Om poolen</summary><ul><li><a href="../exempelby/status.html">'
+            'Poolens status</a></li><li><a href="../avvikelser.html">Avvikelser</a>',
+            html,
+        )
+        self.assertTrue(html.endswith(f"</ul>{TEMAKNAPP}</nav>"))
+
+    def test_en_kommun_utan_kalender_har_ingen_kalenderpost(self):
+        html = meny([exempelby()], frozenset(), "index.html")
+        self.assertNotIn("kalender.html", html)
+
+    def test_en_kommuns_oversikt_heter_inte_som_sajten(self):
+        html = kommunsida(self.mall, exempelby(), [rad("bun", 0), rad("fsn", 0)], [])
+        self.assertIn("<h1>Organ och handlingar</h1>", html)
+        self.assertIn("<title>Organ och handlingar – Exempelby kommun</title>", html)
 
     def test_varje_kommun_ar_en_post_i_menyn(self):
         andra = replace(exempelby(), id="andraby", namn="Andraby", grupper=())
@@ -78,6 +92,15 @@ class TestNavigering(unittest.TestCase):
         self.assertIn('<p class="grupp">Organen</p>', html)
         self.assertNotIn('<p class="grupp"></p>', html)
         self.assertIn('aria-current="page">Kommunhandlingar</a>', html)
+        self.assertIn(
+            '<p class="grupp">Översikt</p><ul><li><a href="andraby.html">', html
+        )
+
+    def test_kommunens_namn_i_rubriken_bara_med_flera_kommuner(self):
+        andra = replace(exempelby(), id="andraby", namn="Andraby")
+        flera = Mall([exempelby(), andra], REPO, TID)
+        self.assertEqual(kommunens(self.mall, "Kalender", andra), "Kalender")
+        self.assertEqual(kommunens(flera, "Kalender", andra), "Kalender – Andraby")
 
     def test_sidan_heter_som_sin_enda_kommun(self):
         html = sida(self.mall, "exempelby/fsn.html", "Förskolan", "")
@@ -87,7 +110,7 @@ class TestNavigering(unittest.TestCase):
         html = sida(self.mall, "index.html", "Start", "")
         self.assertIn('<link rel="stylesheet" href="/giffa/sajter.css">', html)
         self.assertIn('<script src="/giffa/sajter.js" defer></script>', html)
-        self.assertLess(html.index('class="tema"'), html.index('class="sajtmeny"'))
+        self.assertLess(html.index('class="sajtmeny"'), html.index('class="tema"'))
         self.assertLess(html.index("/giffa/sajter.css"), html.index("<style>"))
 
     def test_oversikten_har_en_kolumn_per_sida_och_antalet(self):

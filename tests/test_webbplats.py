@@ -145,7 +145,6 @@ class TestSidor(unittest.TestCase):
         mall = Mall([exempelby()], REPO, TID)
         for html, rot in ((sidor.startsida(mall), ""), (self.statussida(), "../")):
             self.assertIn(f'href="{rot}index.html"', html)
-            self.assertIn(f'href="{rot}exempelby.html"', html)
             self.assertIn(f'href="{rot}exempelby/status.html"', html)
             self.assertIn(f'href="{REPO}"', html)
             self.assertIn("2026-10-07 20:15 UTC", html)
@@ -225,8 +224,16 @@ class TestBygg(unittest.TestCase):
         self.spara(dokument())
         bygg(self.rot, self.ut, REPO, TID)
         self.assertIn("Exempelby kommun", (self.ut / "index.html").read_text())
-        status = self.ut / "exempelby" / "status.html"
-        self.assertIn("Dokument: 1", status.read_text())
+        status = (self.ut / "exempelby" / "status.html").read_text()
+        self.assertIn("Dokument: 1", status)
+        self.assertIn("<title>Poolens status – Exempelby kommun</title>", status)
+
+    def test_en_kommuns_oversikt_ar_startsidan(self):
+        self.spara(dokument())
+        bygg(self.rot, self.ut, REPO, TID)
+        start = (self.ut / "index.html").read_text()
+        self.assertEqual(start, (self.ut / "exempelby.html").read_text())
+        self.assertIn("<h1>Organ och handlingar</h1>", start)
 
     def test_okant_organ_typ_eller_kvalitet_stoppar_bygget(self):
         self.spara(dokument(organ="nedlagd", typ="beslut", kvalitet="bra"))

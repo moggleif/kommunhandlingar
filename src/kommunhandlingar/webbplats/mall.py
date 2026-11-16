@@ -30,12 +30,10 @@ STIL = """
     --band: #e3eef2; --uppnatt: #1a6b2a; --delvis: #8a5a00; --ej: #b00020; } }
 :root[data-tema="ljust"] { color-scheme: light; }
 :root[data-tema="morkt"] { color-scheme: dark; }
-.tema { position: fixed; top: 0.5rem; right: 0.5rem; z-index: 1; font: inherit;
+.tema { margin-left: auto; font: inherit;
         padding: 0.2rem 0.8rem; border: 1px solid var(--kant); border-radius: 999px;
         background: var(--bakgrund); color: var(--text); cursor: pointer; }
 .tema[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
-/* Sajtraden går fri från temaknappen; stilen står efter Giffås sajter.css. */
-.sajtrad ul { padding-right: 9rem; }
 :root { --sajtaccent: var(--accent); --sajtyta: var(--bakgrund); --sajtkant: 0; }
 body { font-family: system-ui, sans-serif; max-width: 72rem; margin: 0 auto;
        padding: 0 1rem; line-height: 1.5; color: var(--text);
@@ -107,7 +105,6 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <script>{TEMA}</script>
 </head>
 <body>
-<button type="button" class="tema" hidden>Mörkt tema</button>
 {meny(mall.kommuner, mall.kalendrar, adress)}
 <main>
 <h1>{escape(rubrik)}</h1>
@@ -122,6 +119,12 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 def menypost(adress: str, namn: str, aktuell: bool) -> str:
     markering = ' aria-current="page"' if aktuell else ""
     return f'<li><a href="{adress}"{markering}>{escape(namn)}</a></li>'
+
+
+# En pool med en enda kommun heter som den, så kommunens namn står inte en
+# gång till i rubriken (ADR-0082).
+def kommunens(mall: Mall, rubrik: str, kommun: Kommun) -> str:
+    return rubrik if len(mall.kommuner) == 1 else f"{rubrik} – {kommun.namn}"
 
 
 def stig(lankar: list[tuple[str, str]]) -> str:

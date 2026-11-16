@@ -6,7 +6,7 @@ from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
 from kommunhandlingar.webbplats.luckavsnitt import luckavsnitt
-from kommunhandlingar.webbplats.mall import KALLKOD, Mall, sida
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall, kommunens, sida
 from kommunhandlingar.webbplats.meny import sajtnamn, statusadress
 from kommunhandlingar.webbplats.rakning import Organrad, rakna
 
@@ -39,7 +39,10 @@ def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> st
         + luckavsnitt(kommun, rader)
     )
     return sida(
-        mall, statusadress(kommun.id), f"Poolens status – {kommun.namn}", innehall
+        mall,
+        statusadress(kommun.id),
+        kommunens(mall, "Poolens status", kommun),
+        innehall,
     )
 
 

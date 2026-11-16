@@ -1,10 +1,14 @@
-"""Krav: K58 i docs/02-KRAV.md, ADR-0081. Test: tests/test_navigering.py.
+"""Krav: K51 och K58 i docs/02-KRAV.md, ADR-0081 och ADR-0082. Test:
+tests/test_navigering.py.
 
 Webbplatsens meny i den gemensamma form som Giffå ritar (ADR-0081): sajtens
-namn och högst sex poster, där en post är en länk eller en undermeny. Varje
-kommun får en enda post: en undermeny med översikten, kalendern och
-statussidan och sedan organen i kommunfilens grupper. Sist står avvikelserna.
-Så ryms fem kommuner.
+namn och högst sex poster, där en post är en länk eller en undermeny. Med
+flera kommuner får varje kommun en enda post: en undermeny med översikten,
+kalendern och statussidan och sedan organen i kommunfilens grupper, och sist
+står avvikelserna. Så ryms fem kommuner. En pool med en enda kommun heter som
+den, och då är kommunfilens grupper själva posterna (ADR-0082): kalendern,
+en undermeny per grupp och sist *Om poolen*. Översikten är då startsidan.
+Knappen för mörkt tema står sist i menyn.
 """
 
 from html import escape
@@ -23,15 +27,39 @@ GEMENSAM = (
 Grupp = tuple[str, list[tuple[str, str]]]
 
 
+TEMAKNAPP = '<button type="button" class="tema" hidden>Mörkt tema</button>'
+
+
 def meny(kommuner: list[Kommun], kalendrar: frozenset[str], aktuell: str) -> str:
-    poster = [undermeny(k.namn, sidorna(k, kalendrar), aktuell) for k in kommuner]
-    poster.append(post(avvikelser.ADRESS, "Avvikelser", aktuell))
+    if len(kommuner) == 1:
+        poster = en_kommuns_poster(kommuner[0], kalendrar, aktuell)
+    else:
+        poster = [undermeny(k.namn, sidorna(k, kalendrar), aktuell) for k in kommuner]
+        poster.append(post(avvikelser.ADRESS, "Avvikelser", aktuell))
     namn = lank("index.html", sajtnamn(kommuner), aktuell).replace(
         "<a ", '<a class="sajtnamn" ', 1
     )
     return (
         f'<nav class="sajtmeny" aria-label="Webbplatsen">{namn}'
-        f"<ul>{''.join(poster)}</ul></nav>"
+        f"<ul>{''.join(poster)}</ul>{TEMAKNAPP}</nav>"
+    )
+
+
+def en_kommuns_poster(
+    kommun: Kommun, kalendrar: frozenset[str], aktuell: str
+) -> list[str]:
+    kalender = f"{kommun.id}/kalender.html"
+    om_poolen = [
+        (statusadress(kommun.id), "Poolens status"),
+        (avvikelser.ADRESS, "Avvikelser"),
+    ]
+    return (
+        [post(kalender, "Kalender", aktuell)] * (kommun.id in kalendrar)
+        + [
+            enkel_undermeny(namn or "Organen", organlankar(kommun.id, organen), aktuell)
+            for namn, organen in grupperade(kommun)
+        ]
+        + [enkel_undermeny("Om poolen", om_poolen, aktuell)]
     )
 
 
@@ -69,7 +97,14 @@ def statusadress(kommun_id: str) -> str:
 
 def undermeny(rubrik: str, grupper: list[Grupp], aktuell: str) -> str:
     kolumner = "".join(grupp(namn, lankar, aktuell) for namn, lankar in grupper)
-    panel = f'<div class="grupper">{kolumner}</div>'
+    return utfallbar(rubrik, f'<div class="grupper">{kolumner}</div>')
+
+
+def enkel_undermeny(rubrik: str, lankar: list[tuple[str, str]], aktuell: str) -> str:
+    return utfallbar(rubrik, lista(lankar, aktuell))
+
+
+def utfallbar(rubrik: str, panel: str) -> str:
     return f"<li><details><summary>{escape(rubrik)}</summary>{panel}</details></li>"
 
 

@@ -55,7 +55,8 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
     projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
     mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
     ut.mkdir(parents=True, exist_ok=True)
-    (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
+    if len(kommuner) > 1:
+        (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     (ut / "llms.txt").write_text(llms(mall), encoding="utf-8")
     for kommun in kommuner:
         bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun)
@@ -83,6 +84,9 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     rader = rakna(kommun, dokument, mall.byggd.date())
     html = kommunsida(mall, kommun, rader, dokument)
     (ut / f"{kommun.id}.html").write_text(html, encoding="utf-8")
+    # En enda kommuns översikt är också startsidan (ADR-0082).
+    if len(mall.kommuner) == 1:
+        (ut / "index.html").write_text(html, encoding="utf-8")
     bygg_organen(ut, mall, kommun, dokument)
 
 
