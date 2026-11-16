@@ -35,7 +35,7 @@ from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
 from kommunhandlingar.webbplats.malsida import malsida
 from kommunhandlingar.webbplats.meny import statusadress
 from kommunhandlingar.webbplats.organsida import organsida
-from kommunhandlingar.webbplats.oversikt import kommunsida
+from kommunhandlingar.webbplats.oversikt import adresser, kommunsida, oversikt
 from kommunhandlingar.webbplats.rakning import okanda, rakna
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
@@ -55,7 +55,8 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
     projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
     mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
     ut.mkdir(parents=True, exist_ok=True)
-    (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
+    if len(kommuner) > 1:
+        (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     (ut / "llms.txt").write_text(llms(mall), encoding="utf-8")
     for kommun in kommuner:
         bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun)
@@ -80,10 +81,16 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     sammantradesbygge.bygg(ut, mall, underlag)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
-    rader = rakna(kommun, dokument, mall.byggd.date())
-    html = kommunsida(mall, kommun, rader, dokument)
-    (ut / f"{kommun.id}.html").write_text(html, encoding="utf-8")
+    bygg_oversikten(ut, mall, kommun, dokument)
     bygg_organen(ut, mall, kommun, dokument)
+
+
+def bygg_oversikten(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> None:
+    rader = rakna(kommun, dokument, mall.byggd.date())
+    innehall = oversikt(mall, kommun, rader, dokument)
+    for adress in adresser(mall, kommun):
+        html = kommunsida(mall, kommun, adress, innehall)
+        (ut / adress).write_text(html, encoding="utf-8")
 
 
 def bygg_organen(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> None:

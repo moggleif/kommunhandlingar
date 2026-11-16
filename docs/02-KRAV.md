@@ -1908,6 +1908,11 @@ Hur och varför står i
 - **När** den byggs
 - **Så** heter sajten som kommunen, i menyn, på startsidan och i varje
   sidas titel. Med flera kommuner heter den "Kommunhandlingar".
+- **Givet** en webbplats med en enda kommun
+- **När** den byggs
+- **Så** är startsidan kommunens översikt med tabellen över organen, och
+  `<kommun>.html` finns kvar med samma innehåll. Med flera kommuner listar
+  startsidan kommunerna.
 - **Givet** en kommun
 - **När** menyn byggs
 - **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"

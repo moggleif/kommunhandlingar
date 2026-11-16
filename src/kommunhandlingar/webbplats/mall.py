@@ -101,7 +101,7 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{escape(rubrik)} – {escape(sajtnamn(mall.kommuner))}</title>
+<title>{escape(titel(rubrik, sajtnamn(mall.kommuner)))}</title>
 {GEMENSAM}
 <style>{STIL}</style>
 <script>{TEMA}</script>
@@ -117,6 +117,10 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 </body>
 </html>
 """
+
+
+def titel(rubrik: str, namn: str) -> str:
+    return namn if rubrik == namn else f"{rubrik} – {namn}"
 
 
 def menypost(adress: str, namn: str, aktuell: bool) -> str:

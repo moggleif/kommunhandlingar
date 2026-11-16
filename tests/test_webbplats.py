@@ -224,7 +224,9 @@ class TestBygg(unittest.TestCase):
     def test_webbplatsen_byggs_ur_kommunfilerna_och_poolen(self):
         self.spara(dokument())
         bygg(self.rot, self.ut, REPO, TID)
-        self.assertIn("Exempelby kommun", (self.ut / "index.html").read_text())
+        start = (self.ut / "index.html").read_text()
+        self.assertIn("<title>Exempelby kommun</title>", start)
+        self.assertIn('<table class="oversikt">', start)
         status = self.ut / "exempelby" / "status.html"
         self.assertIn("Dokument: 1", status.read_text())
 
