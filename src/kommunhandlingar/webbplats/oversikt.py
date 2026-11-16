@@ -4,7 +4,7 @@ Kommunens sida: en rad per organ med antalet sammanträden och en kolumn
 per sida över tid, så att det syns vilka organ som har vilka sidor. Ett
 utskott står direkt under organet det hör till, och organen står i
 kommunfilens grupper när den har några. En webbplats med en enda kommun
-börjar på kommunens sida, som då heter "Organ och handlingar" i stället för
+börjar på kommunens sida, som då heter "Handlingar och protokoll" i stället för
 sajtens namn (K58, ADR-0082).
 """
 

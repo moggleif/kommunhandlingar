@@ -45,7 +45,7 @@ namnet och lägger ett klick framför organen.
   undermeny per grupp i kommunfilen och sist "Om poolen" med statussidan
   och avvikelserna. Med flera kommuner gäller ADR-0081 som förut.
 * Översikten, som sedan tillägget till ADR-0081 också är startsidan,
-  får rubriken "Organ och handlingar" i stället för sajtens namn, och
+  får rubriken "Handlingar och protokoll" i stället för sajtens namn, och
   `index.html` märks som startsidan i menyn.
 * Rubriker som slutade med kommunens namn, och stigen som började med
   det, gör det bara när poolen har flera kommuner (`kommunens()` och

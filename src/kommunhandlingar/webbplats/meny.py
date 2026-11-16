@@ -27,7 +27,7 @@ GEMENSAM = (
 Grupp = tuple[str, list[tuple[str, str]]]
 
 
-EN_KOMMUN = "Organ och handlingar"
+EN_KOMMUN = "Handlingar och protokoll"
 TEMAKNAPP = '<button type="button" class="tema" hidden>Mörkt tema</button>'
 
 

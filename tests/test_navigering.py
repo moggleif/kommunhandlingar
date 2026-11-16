@@ -78,7 +78,7 @@ class TestNavigering(unittest.TestCase):
 
     def test_en_kommuns_oversikt_heter_inte_som_sajten(self):
         self.assertEqual(
-            oversiktsnamn(self.mall.kommuner, exempelby()), "Organ och handlingar"
+            oversiktsnamn(self.mall.kommuner, exempelby()), "Handlingar och protokoll"
         )
 
     def test_varje_kommun_ar_en_post_i_menyn(self):
@@ -102,7 +102,7 @@ class TestNavigering(unittest.TestCase):
         self.assertEqual(
             kommunens([exempelby(), andra], "Kalender", andra), "Kalender – Andraby"
         )
-        self.assertEqual(oversiktsnamn([andra], andra), "Organ och handlingar")
+        self.assertEqual(oversiktsnamn([andra], andra), "Handlingar och protokoll")
         self.assertEqual(oversiktsnamn([exempelby(), andra], andra), "Andraby")
 
     def test_sidan_heter_som_sin_enda_kommun(self):

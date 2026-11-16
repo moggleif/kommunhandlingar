@@ -224,8 +224,10 @@ class TestBygg(unittest.TestCase):
         self.spara(dokument())
         bygg(self.rot, self.ut, REPO, TID)
         start = (self.ut / "index.html").read_text()
-        self.assertIn("<title>Organ och handlingar – Exempelby kommun</title>", start)
-        self.assertIn("<h1>Organ och handlingar</h1>", start)
+        self.assertIn(
+            "<title>Handlingar och protokoll – Exempelby kommun</title>", start
+        )
+        self.assertIn("<h1>Handlingar och protokoll</h1>", start)
         self.assertIn('<table class="oversikt">', start)
         self.assertIn('class="sajtnamn" href="index.html" aria-current="page"', start)
         status = (self.ut / "exempelby" / "status.html").read_text()
