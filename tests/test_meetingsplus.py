@@ -11,7 +11,7 @@ from pathlib import Path
 
 from kommunhandlingar.adaptrar import meetingsplus_html
 from kommunhandlingar.adaptrar.meetingsplus import kalla_av, las_mote, upptack
-from kommunhandlingar.fel import Konfigurationsfel
+from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 
 SIDOR = Path(__file__).parent / "fixtures" / "meetingsplus"
 BAS = "https://politik.regionhalland.se/committees"
@@ -160,6 +160,32 @@ class TestUpptack(unittest.TestCase):
         kandidater, _ = upptack(kalla(), sidor.__getitem__)
         self.assertEqual(len(kandidater), 10)
         self.assertEqual({k.organ for k in kandidater}, {"hs"})
+
+    def test_ett_mote_som_inte_gar_att_hamta_stoppar_bara_sin_dag(self):
+        moten = [f"{SJUKHUS}/mote-2026-09-30", f"{SJUKHUS}/mote-2026-09-30-1"]
+        moten.append(f"{SJUKHUS}/mote-2026-10-01")
+        sidor = {
+            POST["sidor"]["rf"]: "",
+            SJUKHUS: "".join(f'<a href="{m}">Möte</a>' for m in moten),
+            moten[1]: protokollet(moten[1]),
+            moten[2]: protokollet(moten[2]),
+        }
+
+        def hamta(adress: str) -> str:
+            if adress not in sidor:
+                raise Hamtfel("anslutning", adress)
+            return sidor[adress]
+
+        kandidater, avvisade = upptack(kalla(), hamta)
+        self.assertEqual([k.datum for k in kandidater], [date(2026, 10, 1)])
+        self.assertEqual(
+            [(a.kalla, a.filnamn, a.orsak) for a in avvisade],
+            [(moten[0], "mötessidan", "anslutning")],
+        )
+
+
+def protokollet(mote: str) -> str:
+    return f'<a href="{mote}/protocol/ppdf?downloadMode=open">Öppna protokoll</a>'
 
 
 class TestKallan(unittest.TestCase):
