@@ -1,4 +1,4 @@
-"""Krav: K1, K22, K23, K49 och K57 i docs/02-KRAV.md, ADR-0019, ADR-0032,
+"""Krav: K1, K18, K22, K23, K49 och K57 i docs/02-KRAV.md, ADR-0019, ADR-0032,
 ADR-0039, ADR-0072 och ADR-0080.
 Test: tests/test_konfiguration.py, tests/test_gruppmoten.py och
 tests/test_meetingsplus.py."""
@@ -12,7 +12,17 @@ from kommunhandlingar import schema
 from kommunhandlingar.adaptrar import episerver, meetingsplus, sitevision
 from kommunhandlingar.fel import Konfigurationsfel
 from kommunhandlingar.gruppmote import Gruppmote, gruppmote_av
+from kommunhandlingar.kandidat import TYPORDNING
 
+KOMMUNFALT = {
+    "namn",
+    "organ",
+    "kalla",
+    "omkonvertera",
+    "grupper",
+    "gruppmote",
+    "sidor_med_text",
+}
 ORGANFALT = {
     "id",
     "namn",
@@ -54,6 +64,8 @@ class Kommun:
     gruppmote: Gruppmote | None = None
     # Källor på Formpipe Meetings Plus (ADR-0080).
     meetingsplus_kallor: tuple[meetingsplus.Kalla, ...] = ()
+    # Typerna som visar texten på dokumentets sida; None är alla (K18).
+    sidor_med_text: tuple[str, ...] | None = None
 
 
 def las(sokvag: Path) -> Kommun:
@@ -62,11 +74,7 @@ def las(sokvag: Path) -> Kommun:
 
 
 def tolka(kommun_id: str, data: dict) -> Kommun:
-    schema.kontrollera_falt(
-        data,
-        {"namn", "organ", "kalla", "omkonvertera", "grupper", "gruppmote"},
-        "kommunen",
-    )
+    schema.kontrollera_falt(data, KOMMUNFALT, "kommunen")
     namn = schema.varde(data, "namn", str, "kommunen")
     organ = tuple(organ_av(post) for post in poster(data, "organ"))
     kontrollera_organ(organ)
@@ -88,7 +96,17 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
         grupper,
         None if gruppmote is None else gruppmote_av(gruppmote, organ_id),
         tuple(k for k in alla if isinstance(k, meetingsplus.Kalla)),
+        sidor_med_text_av(data),
     )
+
+
+def sidor_med_text_av(data: dict) -> tuple[str, ...] | None:
+    if "sidor_med_text" not in data:
+        return None
+    typer = schema.textlista(data, "sidor_med_text", "kommunen")
+    if okanda := set(typer) - set(TYPORDNING):
+        raise Konfigurationsfel(f"kommunen: okänd typ i sidor_med_text: {min(okanda)}")
+    return typer
 
 
 def poster(data: dict, falt: str) -> list[dict]:

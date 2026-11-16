@@ -351,6 +351,7 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | `organ.fran`, `till`   | Giltighetsperioden, som datum. Ett utelämnat värde är öppet åt det hållet. |
 | `organ.foregangare`    | Id för organ som gick upp i det här (datamodellen). Varje id finns i filen. |
 | `organ.hor_till`       | Id för organet det här är utskott till, så att de får samma färgton i [kalendern](#kalendern) och utskottet står under organet på kommunens sida. Utelämnas annars. |
+| `sidor_med_text`       | Typerna vars dokument visar texten på sin sida på [webbplatsen](#webbplatsen), som `["kallelse", "protokoll"]`. Övriga dokuments sidor visar härkomsten och länkar till `.md` i repot. Utelämnas när alla ska visa texten. |
 | `grupper`              | Rubrikerna som delar in kommunens sida ([Webbplatsen](#webbplatsen)), i sin ordning. Utelämnas när sidan inte ska delas in. |
 | `organ.grupp`          | Gruppen ur `grupper` som organet står i. Krävs med grupper för varje organ utan `hor_till`, och utelämnas för utskott. |
 | `organ.sammantradessidor` | Första året organets sammanträden får en egen sida punkt för punkt ([Sammanträdets sida](#sammanträdets-sida)). Utelämnas annars. |
@@ -1848,7 +1849,9 @@ varje push till `main`, för hand och när ett issue med etiketten
 - **Dokumentets sida** (K18, `webbplats/dokumentsida.py`) visar hela
   front matter med fältens namn, i schemats ordning, med källan och
   `.md` i repot som länkar och sidorna i `tal_obekraftade` som länkar
-  till sidorna. Texten delas
+  till sidorna. Ett dokument vars typ inte står i kommunfilens
+  `sidor_med_text` visar bara härkomsten, med sidnumren som text, och en
+  länk till `.md`; tabellerna kopieras ändå. Texten delas
   vid `<!-- sida N -->` och renderas sida för sida
   (`webbplats/text.py`), under en rubrik med ankaret `sida-N`, sidans
   kvalitet ur `kvalitet_per_sida` och, för en sida i `tal_obekraftade`,

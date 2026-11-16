@@ -125,3 +125,7 @@ kopieringen av CSV:erna och att HTML i texten blir text.
    Sök blir ett eget issue (#67). Projektägaren sa ja.
 5. **Omprövas** om webbplatsen behöver sök, eller om storleken närmar sig
    gränsen på GitHub Pages.
+
+**Tillägg 2026-11-16.** Storleken närmade sig gränsen för Region Halland.
+Hur en kommunfil kan låta en typ visa bara härkomsten står i ADR-0080
+(`sidor_med_text`).

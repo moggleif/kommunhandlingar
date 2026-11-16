@@ -3,6 +3,7 @@
 import shutil
 import tempfile
 import unittest
+from dataclasses import replace
 from pathlib import Path
 
 from kommunhandlingar import frontmatter
@@ -167,3 +168,16 @@ class TestBygg(unittest.TestCase):
             self.assertIn(
                 'href="exempelby/fsn.html"', (ut / "exempelby.html").read_text()
             )
+
+    def test_typ_utanfor_sidor_med_text_visar_harkomsten_och_filen(self):
+        kommun = replace(exempelby(), sidor_med_text=("protokoll",))
+        mall = Mall([kommun], REPO, TID)
+        text = dokument(typ="kallelse", tal="[2]")
+        kallelse = las(text, "fsn/2024/2024-05-02/kallelse.html")
+        html = dokumentsida(mall, kommun, kallelse, text)
+        fil = f"{REPO}/blob/main/data/exempelby/fsn/2024/2024-05-02/kallelse.md"
+        self.assertIn(f'Texten står i <a href="{fil}">Markdown-filen i repot</a>', html)
+        self.assertNotIn("Mer text", html)
+        self.assertNotIn('href="#sida-', html)
+        protokoll = las(dokument())
+        self.assertIn("Mer text", dokumentsida(mall, kommun, protokoll, dokument()))

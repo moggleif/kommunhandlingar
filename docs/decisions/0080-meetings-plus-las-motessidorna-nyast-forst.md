@@ -167,3 +167,23 @@ ADR:erna och Bidra går till kommunhandlingar (`KALLKOD` i
 konstant räcker: koden har ett hem, och ett andra argument eller ett fält
 i kommunfilen hade bara kunnat ha det värdet (K14). Länkarna går till
 `main` och kan beskriva en nyare version än den regionen kör.
+
+GitHub Pages tar högst 1 GB. Kungsbackas sida är omkring 766 MB för
+5 210 dokument, och nästan allt är dokumentens text. Regionen väntas få
+tre till fyra gånger så mycket. Därför säger kommunfilen vilka typer som
+visar texten på sin sida (`sidor_med_text`, K18): för regionen kallelser
+och protokoll, 1 546 av 20 632 filer. Bilagornas sidor visar härkomsten
+och länkar till Markdown-filen i repot, som GitHub visar med front matter
+som tabell. Varje dokument har kvar sin sida, så alla länkar på
+webbplatsen, i kalendern, målen och spåren fungerar som förut, och
+indexet är oförändrat. En egen server (#18) hade gett all text på sidan
+men står sist i planen. Utan fältet visar alla dokument sin text, som i
+Kungsbacka.
+
+Uppskattad storlek för regionen när poolen är ikapp: sidorna utan text
+omkring 10 kB styck, för 19 086 bilagor ungefär 185 MB; kallelserna och
+protokollen med text ungefär 150 MB; tabellerna, som kopieras för alla
+dokument så att indexet stämmer, ungefär 200 MB. Det ger omkring 550 MB,
+under gränsen. Priset är att en länk med `#sida-N` till en bilaga,
+från målen, spåren eller punktkorten, landar högst upp på sidan utan
+text, och att Markdown-filen saknar sidankare.

@@ -633,7 +633,17 @@ Vilka mönster som räknas står i
 - **Givet** ett dokument i poolen
 - **När** webbplatsen byggs
 - **Så** har det en sida som visar härkomsten ur front matter, med källan
-  som länk och en länk till `.md` i repot, och sedan texten sida för sida.
+  som länk och en länk till `.md` i repot, och sedan texten sida för sida,
+  om inte kommunfilens `sidor_med_text` säger annat. Scenarierna om
+  dokumentets sidor och tabeller nedan gäller ett dokument som visar
+  texten.
+- **Givet** en kommunfil med `sidor_med_text` och ett dokument vars typ
+  inte står där
+- **När** webbplatsen byggs
+- **Så** visar dokumentets sida härkomsten, med sidorna i
+  `tal_obekraftade` som text, och en länk till `.md` i repot, men inte
+  texten. Så ryms en stor pool under GitHub Pages gräns på 1 GB
+  (ADR-0080).
 - **Givet** en sida i dokumentet
 - **När** dokumentets sida visas
 - **Så** har den en egen rubrik med sin kvalitet, och en sida i

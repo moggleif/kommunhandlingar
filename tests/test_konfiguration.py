@@ -38,6 +38,17 @@ class TestKommunfilen(unittest.TestCase):
         with self.assertRaises(Konfigurationsfel):
             tolka("exempelby", data)
 
+    def test_sidor_med_text_ar_typer(self):
+        data = exempelby()
+        self.assertIsNone(tolka("exempelby", data).sidor_med_text)
+        data["sidor_med_text"] = ["protokoll", "kallelse"]
+        self.assertEqual(
+            tolka("exempelby", data).sidor_med_text, ("protokoll", "kallelse")
+        )
+        data["sidor_med_text"] = ["beslut"]
+        with self.assertRaisesRegex(Konfigurationsfel, "beslut"):
+            tolka("exempelby", data)
+
     def test_kungsbacka_lases(self):
         kommun = las(ROT / "kommuner" / "kungsbacka.toml")
         self.assertEqual(len(kommun.organ), 18)
