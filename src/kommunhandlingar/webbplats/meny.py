@@ -8,7 +8,7 @@ kalendern och statussidan och sedan organen i kommunfilens grupper, och sist
 står avvikelserna. Så ryms fem kommuner. En pool med en enda kommun heter som
 den, och då är kommunfilens grupper själva posterna (ADR-0082): kalendern,
 en undermeny per grupp och sist *Om poolen*. Översikten är då startsidan.
-Knappen för mörkt tema står sist i menyn.
+Knappen för mörkt tema står i Giffås sajtrad (ADR-0083).
 """
 
 from html import escape
@@ -18,9 +18,11 @@ from kommunhandlingar.webbplats import avvikelser
 from kommunhandlingar.webbplats.organordning import grupperade
 
 NAMN = "Kommunhandlingar"
-# Giffå publicerar menyns stil och skript på samma värd som poolens sida.
+# Giffå publicerar menyns stil och skript, och tema.js som sätter det valda
+# temat innan sidan ritas (ADR-0083), på samma värd som poolens sida.
 GEMENSAM = (
     '<link rel="stylesheet" href="/giffa/sajter.css">\n'
+    '<script src="/giffa/tema.js"></script>\n'
     '<script src="/giffa/sajter.js" defer></script>'
 )
 
@@ -28,7 +30,6 @@ Grupp = tuple[str, list[tuple[str, str]]]
 
 
 EN_KOMMUN = "Handlingar och protokoll"
-TEMAKNAPP = '<button type="button" class="tema" hidden>Mörkt tema</button>'
 
 
 def meny(kommuner: list[Kommun], kalendrar: frozenset[str], aktuell: str) -> str:
@@ -42,7 +43,7 @@ def meny(kommuner: list[Kommun], kalendrar: frozenset[str], aktuell: str) -> str
     )
     return (
         f'<nav class="sajtmeny" aria-label="Webbplatsen">{namn}'
-        f"<ul>{''.join(poster)}</ul>{TEMAKNAPP}</nav>"
+        f"<ul>{''.join(poster)}</ul></nav>"
     )
 
 

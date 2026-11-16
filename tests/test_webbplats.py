@@ -203,8 +203,9 @@ class TestSidor(unittest.TestCase):
 
     def test_text_ur_poolen_escapas(self):
         html = self.statussida(dokument(datum="<script>"))
-        # Sidans eget skript är temats (K51); inget annat får bli ett.
-        self.assertEqual(html.count("<script>"), 1)
+        # Sidan har inget eget skript (temats kommer från Giffå, ADR-0083), och
+        # text ur poolen får inte bli ett.
+        self.assertEqual(html.count("<script>"), 0)
 
 
 class TestBygg(unittest.TestCase):

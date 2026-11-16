@@ -10,7 +10,7 @@ from dataclasses import replace
 from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.mal import Mal
 from kommunhandlingar.webbplats.mall import Mall, sida
-from kommunhandlingar.webbplats.meny import TEMAKNAPP, kommunens, meny, oversiktsnamn
+from kommunhandlingar.webbplats.meny import kommunens, meny, oversiktsnamn
 from kommunhandlingar.webbplats.oversikt import adresser, oversikt
 from kommunhandlingar.webbplats.rakning import Organrad
 from kommunhandlingar.webbplats.spar import Steg
@@ -70,7 +70,7 @@ class TestNavigering(unittest.TestCase):
             'Poolens status</a></li><li><a href="../avvikelser.html">Avvikelser</a>',
             html,
         )
-        self.assertTrue(html.endswith(f"</ul>{TEMAKNAPP}</nav>"))
+        self.assertTrue(html.endswith("</ul></nav>"))
 
     def test_en_kommun_utan_kalender_har_ingen_kalenderpost(self):
         html = meny([exempelby()], frozenset(), "index.html")
@@ -123,7 +123,8 @@ class TestNavigering(unittest.TestCase):
         html = sida(self.mall, "index.html", "Start", "")
         self.assertIn('<link rel="stylesheet" href="/giffa/sajter.css">', html)
         self.assertIn('<script src="/giffa/sajter.js" defer></script>', html)
-        self.assertLess(html.index('class="sajtmeny"'), html.index('class="tema"'))
+        tema = html.index('<script src="/giffa/tema.js"></script>')
+        self.assertLess(tema, html.index("</head>"))
         self.assertLess(html.index("/giffa/sajter.css"), html.index("<style>"))
 
     def test_oversikten_har_en_kolumn_per_sida_och_antalet(self):

@@ -106,3 +106,4 @@ Regler för det här repot, utöver MADR:
 | 0080 | [Meetings Plus läses mötessida för mötessida, med bilagorna var för sig och det nyaste mötet först](0080-meetings-plus-las-motessidorna-nyast-forst.md) | accepted |
 | 0081 | [Menyn följer projektets gemensamma form och laddar sajtraden från Giffå](0081-menyn-i-projektets-gemensamma-form.md) | accepted |
 | 0082 | [En enda kommuns grupper är menyns poster, och dess översikt är startsidan](0082-en-kommuns-grupper-ar-menyns-poster.md) | accepted |
+| 0083 | [Temaknappen står i Giffås sajtrad, och valet gäller på projektets alla sajter](0083-temaknappen-i-giffas-sajtrad.md) | accepted |
