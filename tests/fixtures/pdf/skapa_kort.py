@@ -3,10 +3,10 @@
 Körs för hand med reportlab och pypdf, som inte är projektets beroenden:
 `python tests/fixtures/pdf/skapa_kort.py`.
 
-Fyra sidor ur `sidor.pdf` utan någon inskannad sida, så att konverteringen
-går fort utan OCR: en textsida, en tabell, kurvor och ett diagram. Det ger
-kvaliteten `delvis` och en figur. `kort-begransad.pdf` har samma innehåll
-men en annan sha256.
+Fyra av sidorna i `sidor.pdf`, ritade på nytt och utan någon inskannad
+sida, så att konverteringen går fort utan OCR: en textsida, en tabell,
+kurvor och ett diagram. Det ger kvaliteten `delvis` och en figur.
+`kort-begransad.pdf` har samma innehåll men en annan sha256.
 """
 
 from pypdf import PdfReader, PdfWriter

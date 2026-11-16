@@ -91,6 +91,15 @@ class Epost(unittest.TestCase):
     def test_escapad_som_markdown(self):
         self.assertEqual(maska(r"\<sokanden\_b@exempel.se>"), rf"\<{EPOST}>")
 
+    def test_adress_direkt_efter_en_annan(self):
+        for rad, maskad in (
+            ("a@b.se+c@d.se", f"{EPOST}{EPOST}"),
+            ("x@y.se+e.f@d.se+g@h.se", f"{EPOST}{EPOST}{EPOST}"),
+            ("a@b.se.@c.se", f"{EPOST}{EPOST}"),
+        ):
+            with self.subTest(rad):
+                self.assertEqual(maska(rad), maskad)
+
 
 class Gatuadress(unittest.TestCase):
     def test_med_postnummer_pa_samma_rad(self):

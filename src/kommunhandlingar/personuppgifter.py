@@ -20,8 +20,7 @@ MOBILNUMMER = re.compile(
     r"(?<![\w+-])(?<!\d[,.])(?<!\b\d )(?<!\b\d\d )(?<!\b\d{3} )(?<!\b\d{4} )"
     r"(?:\+46 ?|0)7[02369](?:[- ]?\d){7}(?![\w-])(?! \d{1,4}\b)"
 )
-# Börjar bara där ett ord börjar; annars prövas varje bokstav i varje ord.
-EPOST = re.compile(r"(?<![\w.+-])(?:[\w.+-]|\\_)+@[\w-]+(?:\.[\w-]+)+")
+EPOST = re.compile(r"(?:[\w.+-]|\\_)+@[\w-]+(?:\.[\w-]+)+")
 # Efterleden är en fast lista, så att "platser" eller "vägar" följt av tal
 # i en tabellrad inte läses som en adress.
 EFTERLED = "väg|vägen|gata|gatan|gränd|gränden|stig|stigen|backe|backen"
@@ -30,13 +29,22 @@ GATA = rf"\b[A-ZÅÄÖ][\w-]*? ?(?:{EFTERLED})"
 NUMMER = r" \d{1,4}(?: ?[A-Z]\b)?(?:,? ?[Ll]gh\.? ?\d+)?"
 POSTORT = r"(?=[ ,]*(?:(?:<br>|\n)[ \t]*){0,2}\d{3} ?\d{2} [A-ZÅÄÖ])"
 GATUADRESS = re.compile(GATA + NUMMER + POSTORT)
+EPOSTMARKOR = "(e-post borttagen)"
 
 
 def maska(text: str) -> str:
     text = PERSONNUMMER.sub(personnummer, text)
     text = MOBILNUMMER.sub("(mobilnummer borttaget)", text)
-    text = EPOST.sub("(e-post borttagen)", text)
+    text = utan_epost(text)
     return GATUADRESS.sub("(adress borttagen)", text)
+
+
+def utan_epost(text: str) -> str:
+    """Bara rader med `@` prövas. Mönstret går aldrig över ett radslut, och
+    att pröva det vid varje bokstav i varje rad tog mest tid i
+    datakontrollen."""
+    rader = text.splitlines(keepends=True)
+    return "".join(EPOST.sub(EPOSTMARKOR, r) if "@" in r else r for r in rader)
 
 
 def maskad_md(text: str) -> str:
