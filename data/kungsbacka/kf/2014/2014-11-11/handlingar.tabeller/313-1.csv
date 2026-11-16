@@ -1,0 +1,33 @@
+KK,AK,PN,Beskrivning
+34.80-1,9,C,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 10 kubikmeter men högst 20
+kubikmeter, om verksamheten inte är tillstånds- eller anmälningspliktig
+enligt någon av beskrivningarna i 34.10-34.70, 35.10 eller 35.20.
+Med total tankvolym avses detsamma som i 34.70 andra stycket."
+34.80-2,6,C,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 5 kubikmeter men högst 10
+kubikmeter, om verksamheten inte är tillstånds- eller anmälningspliktig
+enligt någon av beskrivningarna i 34.10-34.70, 35.10 eller 35.20.
+Med total tankvolym avses detsamma som i 34.70 andra stycket."
+34.80-3,4,C,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 1 kubikmeter men högst 5
+kubikmeter, om verksamheten inte är tillstånds- eller anmälningspliktig
+enligt någon av beskrivningarna i 34.10-34.70, 35.10 eller 35.20.
+Med total tankvolym avses detsamma som i 34.70 andra stycket."
+34.8001,1,U,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 200 liter men högst 1
+kubikmeter. Med total tankvolym avses såväl volymen i ett fast centralt
+system för vätskor som volymen i lösa behållare som är kopplade till
+metallbearbetningsmaskin eller öppnade behållare som används för
+påfyllning av metallbearbetningsmaskin."
+35.10,28,A,"Byggande av en plattform som är avsedd att användas vid utvinning av
+olja eller gas inom havsområden, om verksamheten inte prövas enligt
+11 kap. miljöbalken."
+35.1001,18,U,"Plattform för verkstad på vattnet när fråga är om förläggning nära
+kusten för montering, utrustning, ombyggnad, reparation, underhåll
+eller liknande åtgärd."
+35.20,4,C,Skeppsvarv.

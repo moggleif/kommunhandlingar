@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220320055343id_/https://www.kungsbacka.
 sha256: e0c5fc2fab952a5c1d9bc67df6e211df044c905bd655cf0729aa935f6e000020
 bytes: 13379171
 sidor: 416
-hamtad: 2026-10-28T10:40:08+00:00
-konverterad: 2026-10-28T10:41:36+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:22:35+00:00
+konverterad: 2026-11-16T00:24:24+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ok, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [35, 339, 344, 345, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 369, 370, 371, 373, 376, 379, 381, 386, 396, 397]
 figurer: [18, 35, 92, 96, 101, 113, 126, 150, 339, 348, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 392, 400, 411, 415, 416]
 tolkade: []
@@ -1258,17 +1258,16 @@ Elanders Sverige AB, e-postadress: (e-post borttagen)
 
 <!-- sida 35 -->
 
-SOU 2021:49
-SOU
-2021:49
+Kommuner          mot     brott
+
 BETÄNKANDE AV
 UTREDNINGEN OM
 KOMMUNERNAS BROTTS-
-FÖREBYGGANDE ANSVAR
-Kommuner
-mot
-brott
-Kommuner          mot     brott
+FÖREBYGGANDE ANSVAR                      SOU 2021:49
+
+Komm uner m ot b rott
+
+SOU 2021 :49
 
 <!-- sida 36 -->
 
@@ -13799,55 +13798,92 @@ Tack för din värdefulla medverkan!
 
 <!-- sida 335 -->
 
-Statens offentliga utredningar  2021
+Statens  offentliga utredningar 2021
 
 Kronologisk förteckning
 
-1\. Säker och kostnadseffektiv it-drift 16. En väl fungerande ordning för val
-– rättsliga förutsättningar för och beslutsfattande i kommuner
-utkontraktering. I.    och regioner. Fi.
-2\. Krav på kunskaper i svenska och 17. Ett moderniserat konsumentskydd. Fi.
-samhällskunskap för svenskt 18. Bolags rörlighet över gränserna.
-medborgarskap. Ju.     Volym 1 & 2. Ju.
-3\. Skolbibliotek för bildning och 19. En stärkt försörjningsberedskap för
-utbildning. U.         hälso- och sjukvården. Del 1 och 2. S.
-4\. Informationsöverföring inom vård 20. Ecris-TCN – ett mer effektivt utbyte
-och omsorg. S.         av brottmålsdomar mot tredjelands-
-5\. Ett förbättrat system för arbetskrafts- medborgare. Ju.
-invandring. Ju.      21. En klimatanpassad miljöbalk för
-6\. God och nära vård. Rätt stöd till samtiden och framtiden. M.
-psykisk hälsa. S.    22. Hårdare regler för nya nikotin-
-7\. Förstärkt skydd för väljarna vid röst- produkter. S.
-mottagningen. Ju.    23. Stärkt planering för en hållbar
-8\. När behovet får styra utveckling. Fi.
-– ett tandvårdssystem för en mer jäm- 24. Äga avfall
-lik tandhälsa. Vol. 1 & Vol. 2, bilagor – en del av den cirkulära ekonomin. M.
+1\. Säker och kostnadseffektiv it-drift
+– rättsliga förutsättningar för
+utkontraktering. I.
+2\. Krav på kunskaper i svenska och
+samhällskunskap för svenskt
+medborgarskap. Ju.
+3\. Skolbibliotek för bildning och
+utbildning. U.
+4\. Informationsöverföring inom vård
+och omsorg. S.
+5\. Ett förbättrat system för arbetskrafts-
+invandring. Ju.
+6\. God och nära vård. Rätt stöd till
+psykisk hälsa. S.
+7\. Förstärkt skydd för väljarna vid röst-
+mottagningen. Ju.
+8\. När behovet får styra
+– ett tandvårdssystem för en mer jäm-
+lik tandhälsa. Vol. 1 & Vol. 2, bilagor
 \+ Sammanfattning (häfte). S.
-25\. Struktur för ökad motståndskraft. Ju.
 9\. Vem kan man lita på? Enkel och
-26\. Använd det som fungerar. M.
 ändamålsenlig användning av
-betrodda tjänster i den offentliga 27. Ett förbud mot rasistiska
-förvaltningen. I.      organisationer. Ju.
-10\. Radiologiska skador – skadestånd, 28. Immunitet för utställningsföremål. Ku.
-säkerheter, skadereglering. M. 29. Ökade möjligheter att förhindra
-11\. Bättre möjligheter för elever att nå illegal handel via post. I.
-kunskapskraven – aktivt stöd- och 30. Kampen om tiden
-elevhälsoarbete samt stärkt utbildning – mer tid till lärande. U.
-för elever med intellektuell funktions- 31. Kontroller på väg. I.
+betrodda tjänster i den offentliga
+förvaltningen. I.
+10\. Radiologiska skador – skadestånd,
+säkerheter, skadereglering. M.
+11\. Bättre möjligheter för elever att nå
+kunskapskraven – aktivt stöd- och
+elevhälsoarbete samt stärkt utbildning
+för elever med intellektuell funktions-
 nedsättning. U.
-32\. Papper, poddar och ...
-12\. Andra chans för krisande företag Pliktmateriallagstiftning för ett
-– En ny lag om företagsrekonstruktion. tryggat källmaterial. U.
+12\. Andra chans för krisande företag
+– En ny lag om företagsrekonstruktion.
 Ju.
+13\. En teknikneutral grundlags-
+bestämmelse för regeringsbeslut. Ju.
+14\. Boende på (o)lika villkor
+– merkostnader i bostad med särskild
+service för vuxna enligt LSS. S.
+15\. Föreningsfrihet och terrorist-
+organisationer. Ju.
+
+16\. En väl fungerande ordning för val
+och beslutsfattande i kommuner
+och regioner. Fi.
+17\. Ett moderniserat konsumentskydd. Fi.
+18\. Bolags rörlighet över gränserna.
+Volym 1 & 2. Ju.
+19\. En stärkt försörjningsberedskap för
+hälso- och sjukvården. Del 1 och 2. S.
+20\. Ecris-TCN – ett mer effektivt utbyte
+av brottmålsdomar mot tredjelands-
+medborgare. Ju.
+21\. En klimatanpassad miljöbalk för
+samtiden och framtiden. M.
+22\. Hårdare regler för nya nikotin-
+produkter. S.
+23\. Stärkt planering för en hållbar
+utveckling. Fi.
+24\. Äga avfall
+– en del av den cirkulära ekonomin. M.
+25\. Struktur för ökad motståndskraft. Ju.
+26\. Använd det som fungerar. M.
+27\. Ett förbud mot rasistiska
+organisationer. Ju.
+28\. Immunitet för utställningsföremål. Ku.
+29\. Ökade möjligheter att förhindra
+illegal handel via post. I.
+30\. Kampen om tiden
+– mer tid till lärande. U.
+31\. Kontroller på väg. I.
+32\. Papper, poddar och ...
+Pliktmateriallagstiftning för ett
+tryggat källmaterial. U.
 33\. En tioårig grundskola. Införandet
-13\. En teknikneutral grundlags- av en ny årskurs 1 i grundskolan,
-bestämmelse för regeringsbeslut. Ju. grundsärskolan, specialskolan och
-14\. Boende på (o)lika villkor sameskolan. U.
-– merkostnader i bostad med särskild 34. Börja med barnen! En sammanhållen
-service för vuxna enligt LSS. S. god och nära vård för barn och unga. S.
-15\. Föreningsfrihet och terrorist- 35. En stärkt rättsprocess och en ökad
-organisationer. Ju.    lagföring. Ju.
+av en ny årskurs 1 i grundskolan,
+grundsärskolan, specialskolan och
+sameskolan. U.
+34\. Börja med barnen! En sammanhållen
+god och nära vård för barn och unga. S.
+35\. En stärkt rättsprocess och en ökad
+lagföring. Ju.
 
 <!-- sida 336 -->
 
@@ -13882,63 +13918,83 @@ M.
 
 <!-- sida 337 -->
 
-Statens offentliga utredningar  2021
+Statens  offentliga utredningar 2021
 
 Systematisk förteckning
 
-Finansdepartementet   Bolags rörlighet över gränserna.
-En väl fungerande ordning för val och Volym 1 & 2. [18]
-beslutsfattande i kommuner och Ecris-TCN – ett mer effektivt utbyte av
-regioner. [16]        brottmålsdomar mot tredjelandsmed-
-Ett moderniserat konsumentskydd. [17] borgare. [20]
-Stärkt planering för en hållbar utveckling. Struktur för ökad motståndskraft. [25]
-[23]                Ett förbud mot rasistiska organisationer.
-Mervärdesskatt vid inhyrd personal för [27]
-vård och social omsorg. [40] En stärkt rättsprocess och en ökad lag-
-Stärkta åtgärder mot penningtvätt föring. [35]
-och finansiering av terrorism. [42] Gode män och förvaltare – en översyn.
-Ett nytt regelverk för bygglov. Del 1 och 2. [36]
-[47]                En ny lag om ordningsvakter m.m. [38]
-Ett förstärkt skydd mot sexuella
-Infrastrukturdepartementet kränkningar. [43]
-Säker och kostnadseffektiv it-drift Snabbare lagföring
-rättsliga förutsättningar för – ett snabbförfarande i brottmål. [46]
-utkontraktering. [1] Kommuner mot brott. [49]
+Finansdepartementet
+En väl fungerande ordning för val och
+beslutsfattande i kommuner och
+regioner. [16]
+Ett moderniserat konsumentskydd. [17]
+Stärkt planering för en hållbar utveckling.
+[23]
+Mervärdesskatt vid inhyrd personal för
+vård och social omsorg. [40]
+Stärkta åtgärder mot penningtvätt
+och finansiering av terrorism. [42]
+Ett nytt regelverk för bygglov. Del 1 och 2.
+[47]
+Infrastrukturdepartementet
+Säker och kostnadseffektiv it-drift
+rättsliga förutsättningar för
+utkontraktering. [1]
 Vem kan man lita på? Enkel och ändamåls-
-enlig användning av betrodda tjänster Kulturdepartementet
+enlig användning av betrodda tjänster
 i den offentliga förvaltningen. [9]
-Immunitet för utställningsföremål. [28]
 Ökade möjligheter att förhindra illegal
 handel via post. [29]
-Miljödepartementet
 Kontroller på väg. [31]
-Radiologiska skador – skadestånd,
-säkerheter, skadereglering. [10]
 Justitiedepartementet
-En klimatanpassad miljöbalk för samtiden
-Krav på kunskaper i svenska och och framtiden. [21]
+Krav på kunskaper i svenska och
 samhällskunskap för svenskt
-Äga avfall
 medborgarskap. [2]
-– en del av den cirkulära ekonomin. [24]
 Ett förbättrat system för arbetskrafts-
-Använd det som fungerar. [26]
 invandring. [5]
-I en värld som ställer om.
 Förstärkt skydd för väljarna vid röst-
-Sverige utan fossila drivmedel 2040.
 mottagningen. [7]
-[48]
 Andra chans för krisande företag
 – En ny lag om företagsrekonstruktion.
-Näringsdepartementet
 [12]
-En EU-anpassad djurläkemedels-
 En teknikneutral grundlags bestämmelse
-lagstiftning. Del 1 och 2. [45]
 för regeringsbeslut. [13]
 Föreningsfrihet och terroristorganisationer.
 [15]
+
+Bolags rörlighet över gränserna.
+Volym 1 & 2. [18]
+Ecris-TCN – ett mer effektivt utbyte av
+brottmålsdomar mot tredjelandsmed-
+borgare. [20]
+Struktur för ökad motståndskraft. [25]
+Ett förbud mot rasistiska organisationer.
+[27]
+En stärkt rättsprocess och en ökad lag-
+föring. [35]
+Gode män och förvaltare – en översyn.
+[36]
+En ny lag om ordningsvakter m.m. [38]
+Ett förstärkt skydd mot sexuella
+kränkningar. [43]
+Snabbare lagföring
+– ett snabbförfarande i brottmål. [46]
+Kommuner mot brott. [49]
+Kulturdepartementet
+Immunitet för utställningsföremål. [28]
+Miljödepartementet
+Radiologiska skador – skadestånd,
+säkerheter, skadereglering. [10]
+En klimatanpassad miljöbalk för samtiden
+och framtiden. [21]
+Äga avfall
+– en del av den cirkulära ekonomin. [24]
+Använd det som fungerar. [26]
+I en värld som ställer om.
+Sverige utan fossila drivmedel 2040.
+[48]
+Näringsdepartementet
+En EU-anpassad djurläkemedels-
+lagstiftning. Del 1 och 2. [45]
 
 <!-- sida 338 -->
 
@@ -13991,19 +14047,14 @@ sameskolan. [33]
 
 103 33 Stockholm Växel 08-405 10 00 www.regeringen.se
 ISBN 978-91-525-0133-7 ISSN 0375-250X
-BA
-egirevS
-srednalE
-:galsmO
-grebÖ
-S
-atengA
-:dliB
-Kommuner
-mot
-brott
-SOU
-2021:49
+
+Omslag: Elanders Sverige AB
+
+Bild: Agneta S Öberg
+
+Komm uner m ot b rott
+
+SOU 2021 :49
 
 <!-- sida 340 -->
 
@@ -15213,6 +15264,13 @@ Så många som möjligt, så länge som möjligt i så bra miljö som möjligt.
 •
 
 <!-- sida 379 -->
+
+Elvaårspuckeln
+
+BEHÅLLA - Livslångt
+idrottande
+
+11år
 
 <!-- sida 380 -->
 
@@ -16442,52 +16500,72 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 416 -->
 
-Kan Hälsocertifieringen bidra med
-utökad sponsring?
-
-Denna kvällen lyfter vi blicken förbi
-pandemin och ser möjligheter och
-
-utmaningar i framtiden. En av
-utvecklingsresorna i Strategi2025 är att
-vara en modern förening.
-
 Hållbar             sponsring
 
 \- Digital föreläsning  15  september    2021
 
 Frans Fransson introducerar hållbar sponsring
-Digital föreläsning
 som begreppoch förklarar hur sponsring
-Kostnadsfritt!
+
 utvecklats under senaste åren. Under kvällen går
-15 september 2021, kl. 19-21
 vi igenom behovet av att arbeta med
-föreningens varumärkeoch bygga sitt            Välkommen!
-sponsorskap utifrån ett tydligt                Anmäl dig redan idag och sprid i din
-förening. Vi har valt att sända
+föreningens varumärkeoch bygga sitt
+
+sponsorskap utifrån ett tydligt
 värdegrundsarbete. Vi lyfter också behovet av
-digitalt så att så många som möjligt
+
 att förstå och känna till sin målgruppoch hur
-kan delta. Samt att du får praktiska
 man som förening presenterar denna för en
-verktyg att jobba vidare med på
-sponsor. Vi går igenom vilka olika motiv och   hemmaplan. Du får också höra
-drivkrafter som en sponsor har till sponsring  några goda exempel ifrån vårt
-lokala föreningsliv.
+sponsor. Vi går igenom vilka olika motiv och
+
+drivkrafter som en sponsor har till sponsring
 idag.
-Anmäl dig härsenast 12 september!
+
 Frans har arbetat med sponsring och
 sportmarknadsföring sedan 2005.
-Kontakt:
 Han har bland annat drivit
-Anette Alsterå
 yrkeshögskoleutbildningen Sports
-(e-post borttagen)
+
 Marketing. Frans är också en av
 författarna till boken Hållbar sponsring
-som gavs ut 2018.                              Malin Eriksson
-(e-post borttagen)
+som gavs ut 2018.
+
 Han föreläser, utbildar och projektleder
 inom sponsring med fokus på
 idrottsföreningar.
+
+Kan Hälsocertifieringen bidra med
+utökad sponsring?
+
+Denna kvällen lyfter vi blicken förbi
+pandemin och ser möjligheter och
+utmaningar i framtiden. En av
+
+utvecklingsresorna i Strategi2025 är att
+vara en modern förening.
+
+Digital föreläsning
+Kostnadsfritt!
+15 september 2021, kl. 19-21
+
+Välkommen!
+Anmäl dig redan idag och sprid i din
+
+förening. Vi har valt att sända
+digitalt så att så många som möjligt
+kan delta. Samt att du får praktiska
+verktyg att jobba vidare med på
+hemmaplan. Du får också höra
+några goda exempel ifrån vårt
+
+lokala föreningsliv.
+
+Anmäl dig härsenast 12 september!
+
+Kontakt:
+
+Anette Alsterå
+(e-post borttagen)
+
+Malin Eriksson
+(e-post borttagen)

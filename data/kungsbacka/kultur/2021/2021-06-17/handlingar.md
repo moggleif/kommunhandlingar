@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320043824id_/https://www.kungsbacka.
 sha256: 09a6fe7fcb560147523afe62e64fdae93cd1485474c19cb808dacd23b1b103d3
 bytes: 86745346
 sidor: 779
-hamtad: 2026-10-28T11:35:25+00:00
-konverterad: 2026-10-28T11:39:27+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:41:54+00:00
+konverterad: 2026-11-16T00:44:51+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ej-konverterad, ocr, ok, ok, ok]
@@ -1697,28 +1697,44 @@ Strategiskt område: Förnyelseförmåga och konkurrenskraft
 Strategins mål
 Hållbar tillväxt byggd på konkurrenskraft, grön omställning
 samt ett attraktivt och inkluderande samhälle
+
 Strategiskt område
 Förnyelseförmåga och konkurrenskraft
 Mål strategiskt område
 En region med internationell konkurrenskraft och hållbar tillväxt
 
-Prioriteringar               Delmål
+Prioriteringar              Delmål
 Stimulera entreprenörskap och stödja företag i Fler nya företag och ökad överlevnadsgrad
 uppstartsfasen
-Främja den tekniska utvecklingen och digitala Fler kunskapsintensiva företag och jobb i
-omställningen i det halländska näringslivet regionen
-Främja internationalisering bland företagen Fler exportföretag och ökade exportintäkter till
+
+Främja den tekniska utvecklingen och digitala
+omställningen i det halländska näringslivet
+Främja internationalisering bland företagen
+
+Stimulera och attrahera offentliga och privata in-
+vesteringar i forskning och utveckling
+
+Stärka företagens innovationskapacitet
+
+Positionera Halland för att attrahera besökare,
+kompetenser, företag och investeringar
+Stimulera till hållbar omställning av det
+halländska näringslivet
+
+Fler kunskapsintensiva företag och jobb i
+regionen
+Fler exportföretag och ökade exportintäkter till
 regionen
 
-Stimulera och attrahera offentliga och privata in- Ökade investeringar i FoU bland regionens
-vesteringar i forskning och utveckling aktörer
+Ökade investeringar i FoU bland regionens
+aktörer
 
-Stärka företagens innovationskapacitet Fler innovativa företag i regionen
+Fler innovativa företag i regionen
 
-Positionera Halland för att attrahera besökare, Regionen ska attrahera fler etableringar, besö-
-kompetenser, företag och investeringar kare och kompetenser
-Stimulera till hållbar omställning av det Fler företag ska bedriva ett aktivt mångfalds-,
-halländska näringslivet      klimat- och miljöarbete
+Regionen ska attrahera fler etableringar, besö-
+kare och kompetenser
+Fler företag ska bedriva ett aktivt mångfalds-,
+klimat- och miljöarbete
 
 För att uppnå långsiktig regional utveckling och tillväxt behövs goda förutsättningar
 för entreprenörskap och innovation, som i sin tur genererar arbetstillfällen för män-
@@ -2754,7 +2770,6 @@ Justerare                         Expedierat/bestyrkt
 <!-- sida 64 -->
 
 CN D)
-and ban a
 ( . Se tfedemokKraterna
 
 Motion om handlingsplan för suicidprevention Kungsbacka 210307
@@ -2819,7 +2834,6 @@ Med anledning av ovanstående föreslår Sverigedemokraterna i Kungsbacka fullm�
 
 Sverigedemokraterna Kungsbacka genom
 
-; PAR /
 4 Z MD EZ LIBS TA
 Carita Boulwén (SD)
 
@@ -2953,8 +2967,6 @@ Förvaltningschef Kultur & Fritid
 
 <!-- sida 69 -->
 
-KUB6009, 2.0, 2018-07-17
-
 Dnr BN 2020-003307 — Ankom 2020-11-19
 
 ANSÖKAN OM BYGGLOV, MARKLOV, RIVNINGSLOV ELLER.
@@ -2979,7 +2991,6 @@ Samhällsbyggnadskontoret, Kungsbacka kommun Emma Kjernald 212000-1256
 | Gatuadress | | Telefon dagtid =
 
 Stadshuset, Storgatan 37
-
 Postnummer och postort
 
 76434 81 KUNGSBACKA
@@ -3058,26 +3069,24 @@ Fasadmaterial (vid nybyggnad, om- och tillbyggnad eller efter ändring) Annat Ku
 CI Trä Cl Tegel CJ Puts [I Betong CJ Plåt
 Takmaterial (före ändring) Annat Kulör (NCS-nr)
 C] Tegel [] Betong- CI Papp CI Plåt CJ Skiffer
-
 panna
 Takmaterial (vid nybyggnad, om- och tillbyggnad eller efter ändring) | Annat a Kulör (NCS-nr)
 CI Tegel LJ Betong- CJ Papp CI Plåt CJ Skiffer
-
 panna
 "Material i fönsterkarmar (före ändring) == | Annat | Kulör (NGS-nr) |
 CJ Trä CJ Plåt CI Lättmetall
 Material i fönsterkarmar (vid nybyggnad, om- och tillbyggnad eller efter ändring) = JAmato - Kulör (NCS-nr)
 CJ Trä CC Plåt [] Lättmetall
 Kungsbacka kommun
-
 Besöksadress Telefon
-
 434 81 Kungsbacka Stadshuset, Storgatan 37 0300-83 40 00 infoMkungsbacka.se
 
 Fax
 0300-83 40 30
 
 www.kungsbacka.se
+
+KUB6009, 2.0, 2018-07-17
 
 <!-- sida 70 -->
 
@@ -3110,8 +3119,6 @@ Förhandsbesked finns = a Kn a
 | Förhandsbesked beviljades datuti |
 
 Anslutning till
-
-Anslutning till — a a å
 
 | [] Kommunal VA-anläggning CJ Enskild VA-anläggning [ VA-förening CJ Enskild dagvattenanläggning
 
@@ -3289,67 +3296,112 @@ Objekt:        Magasinsbyggnad vid Åsa Station
 Adress:        Åsa Stationsväg 20, Kungsbacka kommun
 
 Fastighetsbeteckning: Åsa 4:118
+
 Byggnadsår:    1887
 
 Fastighetsägare: Kungsbacka kommun
 
 Sammanfattning
 
-Åsa station ingick som en del av järnvägstrafiken som gick mellan Göteborg och innebär att det skulle krävas en stor renovering, sanering och även en hel del
-Varberg. Stationssamhället i Åsa byggdes uppfördes 1887 med stationsbyggnad, utbyte av material för att byggnaden skall kunna bevaras. Men stora delar av
-magasin, jordkällare, banvaktarstuga och senare även arbetarbostäder. byggnadens kulturhistoriskt värdefulla detaljer bedöms som möjliga att bevara
-och stommen är till största del intakt. Även om stora delar av byggnadens kultur-
-Den aktuella magasinsbyggnaden besitter sammantaget ett stort kulturhistor­ historiska värden ligger i det fysiska materialet utgör även byggnadens placering
-iskt värde som en viktig del i den större stationsmiljön. Den är välbevarad och i stationsområdet och sammanhanget med de övriga byggnaderna runt stations-
-bidrar starkt till läsbarheten av helhetsmiljön som just en fd stationsmiljö. miljön en viktig del i värdet.
+Åsa station ingick som en del av järnvägstrafiken som gick mellan Göteborg och
+Varberg. Stationssamhället i Åsa byggdes uppfördes 1887 med stationsbyggnad,
+magasin, jordkällare, banvaktarstuga och senare även arbetarbostäder.
+Den aktuella magasinsbyggnaden besitter sammantaget ett stort kulturhistor­
+iskt värde som en viktig del i den större stationsmiljön. Den är välbevarad och
+bidrar starkt till läsbarheten av helhetsmiljön som just en fd stationsmiljö.
 
-Magasinsbyggnaden saknar idag kulturhistoriskt skydd i detaljplan men är offic iellt Magasinsbyggnaden utgör genom dess utformning och läge utmed den gamla
-utpekad som särskilt kulturhistoriskt värdefull i en bebyggelseinventering utförd av banvallen en viktig, och kanske sista, komponent för att kunna avläsa den histor­
-Kulturmiljö Halland. Byggnaden gavs klassning B, vilket innebär att den bedömdes iska stationsmiljön i Åsa. Byggnaden bör bevaras, renoveras och ges ett kultur-
-vara av regionalt intresse samt vara omistlig genom sitt kulturhistoriska värde. historiskt skydd i ny detaljplan. En viktig del i arbetet är förstås att finna en an-
-vändning för byggnaden. Genom att utveckla och förstärka karaktären kring det
-Byggnaden har under alla tider utgjorts av en enkel magasinsbyggnad som var- gamla stationsområdet skulle miljön kunna bli en resurs för samhället och den
-ken är isolerad eller inredd. Därtill har magasinsbyggnaden under flera år nu planerade utvecklingen av närområdet. Om t ex gamla banvallen görs om till
-stått outnyttjad med bristande underhåll vilket lett till skador och att byggnaden gång­ och cykelstråk skulle magasinsbyggnaden kunna utgöra en destinations-
-bl a nyttjats som tillhåll för duvor. Detta har i sin tur orsakat skador i form av punk i form av t ex café, samlingslokal eller dylikt.
+Magasinsbyggnaden saknar idag kulturhistoriskt skydd i detaljplan men är offic iellt
+utpekad som särskilt kulturhistoriskt värdefull i en bebyggelseinventering utförd av
+Kulturmiljö Halland. Byggnaden gavs klassning B, vilket innebär att den bedömdes
+vara av regionalt intresse samt vara omistlig genom sitt kulturhistoriska värde.
+
+Byggnaden har under alla tider utgjorts av en enkel magasinsbyggnad som var-
+ken är isolerad eller inredd. Därtill har magasinsbyggnaden under flera år nu
+stått outnyttjad med bristande underhåll vilket lett till skador och att byggnaden
+bl a nyttjats som tillhåll för duvor. Detta har i sin tur orsakat skador i form av
 fågelträck som inneburit att stora delar av interiören är kontaminerad. Detta
 
 2
 
+innebär att det skulle krävas en stor renovering, sanering och även en hel del
+utbyte av material för att byggnaden skall kunna bevaras. Men stora delar av
+byggnadens kulturhistoriskt värdefulla detaljer bedöms som möjliga att bevara
+och stommen är till största del intakt. Även om stora delar av byggnadens kultur-
+historiska värden ligger i det fysiska materialet utgör även byggnadens placering
+i stationsområdet och sammanhanget med de övriga byggnaderna runt stations-
+miljön en viktig del i värdet.
+Magasinsbyggnaden utgör genom dess utformning och läge utmed den gamla
+banvallen en viktig, och kanske sista, komponent för att kunna avläsa den histor­
+iska stationsmiljön i Åsa. Byggnaden bör bevaras, renoveras och ges ett kultur-
+historiskt skydd i ny detaljplan. En viktig del i arbetet är förstås att finna en an-
+vändning för byggnaden. Genom att utveckla och förstärka karaktären kring det
+gamla stationsområdet skulle miljön kunna bli en resurs för samhället och den
+planerade utvecklingen av närområdet. Om t ex gamla banvallen görs om till
+gång­ och cykelstråk skulle magasinsbyggnaden kunna utgöra en destinations-
+punk i form av t ex café, samlingslokal eller dylikt.
+
 <!-- sida 84 -->
 
-Inledning                                     Historik
+Inledning
 
-Föreliggande handling utgör en antikvarisk förundersökning av magasinsbyggnad­ Åsa station med dess tillhörande magasinsbyggnad byggdes i samband med ut-
-en i anslutning till Åsa gamla station, Åsa Stationsväg 20, Kungsbacka kommun. byggnaden av järnvägstrafiken mellan Göteborg och Varberg som stod klar 1888.
-Förundersökningen är upprättad i januari 2021 av byggnadsantikvarier Robert Denna järnvägssträcka fick namnet Göteborg ­ Hallands järnvägar och var ett privat
-Eriksson och Johanna Roos vid Antiquum AB på uppdrag av Kungsbacka kommun järnvägsbolag där Bergslagsbanan var huvudägare. Bergslagsbanan drev sedan
-via Jan Håkanssons byggplanering AB. I uppdraget har en översiktlig historik om tidigare järnväg mellan Göteborg och Oslo och såg en utbyggnadspotential att
-järnvägen och Åsa station samt stationssamhälle tagits fram. Inom ramen för koppla samman Oslo och Köpenhamn genom att ansluta till Mellersta Hallands
-historiken har även en översiktlig sondering av hur många magasinsbyggnader Järnväg som var under uppbyggnad mellan Varberg och Halmstad. Från Halmstad
-av trä som finns kvar längs Göteborg ­ Hallands järnväg gjorts. Antiquum har kunde man fortsätta till Helsingborg för färjetrafik till Köpenhamn.
+Föreliggande handling utgör en antikvarisk förundersökning av magasinsbyggnad­
+en i anslutning till Åsa gamla station, Åsa Stationsväg 20, Kungsbacka kommun.
+Förundersökningen är upprättad i januari 2021 av byggnadsantikvarier Robert
+Eriksson och Johanna Roos vid Antiquum AB på uppdrag av Kungsbacka kommun
+via Jan Håkanssons byggplanering AB. I uppdraget har en översiktlig historik om
+järnvägen och Åsa station samt stationssamhälle tagits fram. Inom ramen för
+historiken har även en översiktlig sondering av hur många magasinsbyggnader
+av trä som finns kvar längs Göteborg ­ Hallands järnväg gjorts. Antiquum har
 vidare utfört en byggnadsbeskrivning över magasinet liksom en kulturhistorisk
-värdering av den samma.                       Den 77 km långa sträckan mellan Göteborg och Varberg stod klar 1888. Redan
-1896 förstatligades sträckan tillsammans med de övriga privata järnvägarna längs
-Kulturhistorisk skyddsstatus                  kusten och västkustbanan bildades.
-Den aktuella magasinsbyggnaden saknar idag kulturhistoriskt skydd i detaljplan. Hållplatserna längs sträckan var Göteborg, Gårda, Almedal, Fässberg, Kållered,
-Den är dock officiellt utpekas som särskilt kulturhistoriskt värdefull i Kulturmiljö Lindome, Anneberg, Hede, Kungsbacka, Fjärås, Åsa, Frillesås, Väröbacka, Åskloster,
-Hallands bebyggelseinventering som genomfördes mellan 2005 och 2009. I inven- Tångeberga och Varberg. I dessa orter längs järnvägen växte små stationssamhäll­
-teringen gavs magasinsbyggnaden klassning B, vilket innebär att den bedömdes en upp med bland annat stationshus och magasin för gods.
+värdering av den samma.
+Kulturhistorisk skyddsstatus
+
+Den aktuella magasinsbyggnaden saknar idag kulturhistoriskt skydd i detaljplan.
+Den är dock officiellt utpekas som särskilt kulturhistoriskt värdefull i Kulturmiljö
+Hallands bebyggelseinventering som genomfördes mellan 2005 och 2009. I inven-
+teringen gavs magasinsbyggnaden klassning B, vilket innebär att den bedömdes
 vara av regionalt intresse samt vara omistlig genom sitt kulturhistoriska värde.
-Klassningen innebär vidare att Kulturmiljö Halland gjorde bedömningen att bygg- Åsa station uppfördes år 1887 med en stationsbyggnad av tegel samt magasin med
-naden är av så stort kulturhistoriskt värde att den inte får förvanskas och att den lastkaj, jordkällare, banvaktarstuga och sedermera bostäder. Byggnader kopplade
-bör förses med skyddsbestämmelser i detaljplan eller områdesplan. till järnvägen byggdes ofta efter typritningar som togs fram av järnvägsbolagens
-arkitekter vilket innebar att banvaktstugor och stationsbyggnaderna med tillhö-
-Att magasinsbyggnaden är officiellt utpekad i inventeringen som särskilt kultur- rande ekonomibyggnader ofta fick likvärdiga utseende längs järnvägarna. Det går
-historiskt värdefull innebär att den bedömts ha så stort kulturhistoriskt värde att se på äldre bilder att stationsbyggnaderna och magasinen i Anneberg, Åsa,
-att bevarandet av den utgör ett verkligt allmänt intresse. Det innebär vidare Väröbacka och Åskloster gavs ett likvärdigt utseende. Av stationsbyggnaderna
-att byggnaden lyder under Plan­ och bygglagen (PBL) kap. 8 §13 som anger att är idag endast de i Åsa och Åskloster bevarade, övriga är rivna. Vad gäller maga-
-byggnader som är särskilt värdefulla från historisk, kulturhistorisk, miljömässig sinsbyggnader är den aktuella magasinsbyggnaden i Åsa den enda kvarvarande.
+Klassningen innebär vidare att Kulturmiljö Halland gjorde bedömningen att bygg-
+naden är av så stort kulturhistoriskt värde att den inte får förvanskas och att den
+bör förses med skyddsbestämmelser i detaljplan eller områdesplan.
+Att magasinsbyggnaden är officiellt utpekad i inventeringen som särskilt kultur-
+historiskt värdefull innebär att den bedömts ha så stort kulturhistoriskt värde
+att bevarandet av den utgör ett verkligt allmänt intresse. Det innebär vidare
+att byggnaden lyder under Plan­ och bygglagen (PBL) kap. 8 §13 som anger att
+byggnader som är särskilt värdefulla från historisk, kulturhistorisk, miljömässig
 eller konstnärlig synpunkt får enligt PBL inte förvanskas. För byggnaden gäller
 även det allmänna varsamhetskravet i PBL kap. 8 §17. Alla ändringar ska därför
 utföras varsamt och ta hänsyn till byggnadens karaktärsdrag och dess tekniska,
 historiska, kulturhistoriska, miljömässiga och konstnärliga värden.
+
+Historik
+
+Åsa station med dess tillhörande magasinsbyggnad byggdes i samband med ut-
+byggnaden av järnvägstrafiken mellan Göteborg och Varberg som stod klar 1888.
+Denna järnvägssträcka fick namnet Göteborg ­ Hallands järnvägar och var ett privat
+järnvägsbolag där Bergslagsbanan var huvudägare. Bergslagsbanan drev sedan
+tidigare järnväg mellan Göteborg och Oslo och såg en utbyggnadspotential att
+koppla samman Oslo och Köpenhamn genom att ansluta till Mellersta Hallands
+Järnväg som var under uppbyggnad mellan Varberg och Halmstad. Från Halmstad
+kunde man fortsätta till Helsingborg för färjetrafik till Köpenhamn.
+Den 77 km långa sträckan mellan Göteborg och Varberg stod klar 1888. Redan
+1896 förstatligades sträckan tillsammans med de övriga privata järnvägarna längs
+kusten och västkustbanan bildades.
+
+Hållplatserna längs sträckan var Göteborg, Gårda, Almedal, Fässberg, Kållered,
+Lindome, Anneberg, Hede, Kungsbacka, Fjärås, Åsa, Frillesås, Väröbacka, Åskloster,
+Tångeberga och Varberg. I dessa orter längs järnvägen växte små stationssamhäll­
+en upp med bland annat stationshus och magasin för gods.
+
+Åsa station uppfördes år 1887 med en stationsbyggnad av tegel samt magasin med
+lastkaj, jordkällare, banvaktarstuga och sedermera bostäder. Byggnader kopplade
+till järnvägen byggdes ofta efter typritningar som togs fram av järnvägsbolagens
+arkitekter vilket innebar att banvaktstugor och stationsbyggnaderna med tillhö-
+rande ekonomibyggnader ofta fick likvärdiga utseende längs järnvägarna. Det går
+att se på äldre bilder att stationsbyggnaderna och magasinen i Anneberg, Åsa,
+Väröbacka och Åskloster gavs ett likvärdigt utseende. Av stationsbyggnaderna
+är idag endast de i Åsa och Åskloster bevarade, övriga är rivna. Vad gäller maga-
+sinsbyggnader är den aktuella magasinsbyggnaden i Åsa den enda kvarvarande.
 
 3
 
@@ -3409,26 +3461,26 @@ runt stationen. Källa: Lantmäteriet.
 
 Byggnadsbeskrivning
 
-Exteriör                                      Takfoten på den ursprungliga delen har dekorativa konsoler samt pärlspont i röd-
-Byggnadens äldre del står på höga naturstensplintar. Plintarna är grovt huggna till målat trä, tillbyggnadens takfot består av synliga enkla taktassar från takstolarna.
+Exteriör
+Byggnadens äldre del står på höga naturstensplintar. Plintarna är grovt huggna till
 rektangulära block. Delen som byggdes till efter 1945 har delvis höga betongplint­
-ar och delvis en betongplatta på mark. Bjälklaget på tillbyggnaden består delvis Magasinets tak är tegelklätt med tvåkupiga takpannor. Tegeltaket har större skador
-av järnbalkar. På den ursprungliga delen är bjälklaget av grovt fyrkantstimmer. speciellt mot banvallen där t ex tegelpannor saknas. Vindskivor och vattbrädor
-är av trä med stora skador.
+ar och delvis en betongplatta på mark. Bjälklaget på tillbyggnaden består delvis
+av järnbalkar. På den ursprungliga delen är bjälklaget av grovt fyrkantstimmer.
 Byggnaden har en enhetlig panel som troligtvis bytts på senare år. Panelen består
-av en liggande enkelfasad panel som är målad i en röd kulör, troligen Falu rödfärg. På den norra gaveln finns ett troligtvis sentida enkelt skärmtak där konstruktionen
-Panelen är sliten med mycket synligt gråträ och det förekommer rötskador, framför är av trä och taket lagt med korrugerad plåt. Skärmtaket står på en lastbrygga av
-allt mot syd och i sydost. Mot banvallen består den övre delen av panelen, på den tjärbehandlat timmer med en trall av plankor.
+av en liggande enkelfasad panel som är målad i en röd kulör, troligen Falu rödfärg.
+Panelen är sliten med mycket synligt gråträ och det förekommer rötskador, framför
+allt mot syd och i sydost. Mot banvallen består den övre delen av panelen, på den
 ursprungliga delen, av stående pärlspontspanel. Gaveln mot norr har en dekor i
-panelens övre del. Denna består av stående pärlspont som är indelad i 8 st fält. På den södra gaveln finns två rum som nås via träklädda dörrar från marknivå.
-Dörrarna är i dåligt skick och panel saknas.
+panelens övre del. Denna består av stående pärlspont som är indelad i 8 st fält.
+
 Magasinet har två större lastportar, en mot banvallen och en mot gården. Dessa
-består av parskjutportar som skjuts isär. Portarna är utförda av trä med en stå- På äldre fotografier är magasinetes knutar, fönsterfoder och foder runt dekoren
-ende rödmålad panel. Beslagningen på portarna är troligtvis den ursprungliga på gavlarna vitmålade.
+består av parskjutportar som skjuts isär. Portarna är utförda av trä med en stå-
+ende rödmålad panel. Beslagningen på portarna är troligtvis den ursprungliga
 och består av en kraftig metallräls på insidan. Hjulen som portarna glider på är
 fastmonterade i portarna på kraftiga plattjärn.
 I anslutning till lastportarna finns lastbryggor som består av kraftiga brädor, dessa
 är partiellt rötskadade och består bl a tryckimpregnerat trä.
+
 Magasinet har ett fönster mot gården. Detta sitter i den del av byggnaden som
 byggdes till 1945 och består av ett spröjsat 2­luftsfönster. På gaveln mot söder har
 det tidigare suttit ett spröjsat 3­luftsfönster men detta är idag täckt med panel.
@@ -3439,7 +3491,25 @@ igenspikade fönstret syns de ursprungliga bågarna som är krysspröjsade. På 
 mot norr finns spår av fönster men dessa är igenspikade med ett skivmaterial.
 Flertalet fönster är skadade och saknar glas. Fönsterblecken på den ursprungliga
 delens fönster består av plåt med en vulstad framkant.
+
+Takfoten på den ursprungliga delen har dekorativa konsoler samt pärlspont i röd-
+målat trä, tillbyggnadens takfot består av synliga enkla taktassar från takstolarna.
+
+Magasinets tak är tegelklätt med tvåkupiga takpannor. Tegeltaket har större skador
+speciellt mot banvallen där t ex tegelpannor saknas. Vindskivor och vattbrädor
+är av trä med stora skador.
+På den norra gaveln finns ett troligtvis sentida enkelt skärmtak där konstruktionen
+är av trä och taket lagt med korrugerad plåt. Skärmtaket står på en lastbrygga av
+tjärbehandlat timmer med en trall av plankor.
+
+På den södra gaveln finns två rum som nås via träklädda dörrar från marknivå.
+Dörrarna är i dåligt skick och panel saknas.
+
+På äldre fotografier är magasinetes knutar, fönsterfoder och foder runt dekoren
+på gavlarna vitmålade.
+
 Magasinet sett från bangården. 2021
+
 7
 
 <!-- sida 89 -->
@@ -3501,37 +3571,66 @@ Gavel mot norr med krysspröjsade fönster och synlig timmerkonstruktion. 2021 I
 <!-- sida 93 -->
 
 Kulturhistoriskt värde
-Den aktuella magasinsbyggnaden besitter sammantaget ett stort kultur- Genom sin tydliga koppling till stationsområdet och den verksamhet som
-historiskt värde som en viktig del i den större stationsmiljön. Den är väl- bedrevs på platsen sedan järnvägens etablering besitter magasinsbygg-
-bevarad och bidrar starkt till läsbarheten av helhetsmiljön som just en fd naden ett högt kulturhistoriskt värde. Den fungerar som en markör för
-stationsmiljö.                                järnvägsverksamheten med lastning och lossning av gods samt har ett
-miljöskapande värde som bidrar till förståelsen av stationsmiljön. Värdet
-Lokalhistoriskt värde                         är kopplat både till att byggnaden är välbevarad med en hög andel beva-
-Stationsbyggnaderna i Åsa är en del i den större nationella berättelsen rat originalmaterial och till dess karaktärsgivande funktion i miljön. Detta
-om den utveckling som ägde rum i Sverige i slutet av 1800­talet och bör- gäller i synnerhet den äldre delen av magasinsbyggnaden, men även den
-jan av 1900­talet då järnvägsnätet byggdes ut i Sverige. Göteborg ­ Hall­ sentida delen besitter ett värde genom att den speglar miljöns utveckling.
-ands järnväg kom vidare att få stor betydelse för utvecklingen av flera nya
-Västsvenska samhällen på landsbygden. Järnvägsstationen i Åsa var en Sedan tidigare har ombyggnaden av stationsbyggnaden liksom flytten av
-avgörande komponent i ortens utveckling genom att ett stationssamhälle järnvägsspåren gjort det svårare att förstå miljön som just en järnvägs-
-växte fram kring stationsbyggnaden. Den fd stationsmiljön har därför ett miljö, varför helhetsmiljön idag är känslig för åtgärder som ytterligare
-stort lokalhistoriskt värde genom att den speglar ett viktigt skede i ortens försvårar möjligheten att läsa av och förstå den. I detta sammanhang
-historia och utveckling. Runt stationen växte flera pensionat och andra spelar magasinsbyggnaden en viktig roll i att understödja den historiska
-verksamheter kopplade till sommargästerna fram. läsbarheten av järnvägsmiljön.
+Den aktuella magasinsbyggnaden besitter sammantaget ett stort kultur-
+historiskt värde som en viktig del i den större stationsmiljön. Den är väl-
+bevarad och bidrar starkt till läsbarheten av helhetsmiljön som just en fd
+stationsmiljö.
 
-Viktig del i den samlade järnvägsmiljön       Egenskaper av betydelse för stationsmiljön:
-Åsas stationsmiljö utgör idag den sista kompletta stationsmiljön längs den • De sammankopplade enheterna med Stationsbyggnaden, magasin­
-tidigare järnvägssträckan mellan Göteborg och Varberg. Längs järnvägen et, arbetarbostäderna och banvallen.
+Lokalhistoriskt värde
+Stationsbyggnaderna i Åsa är en del i den större nationella berättelsen
+om den utveckling som ägde rum i Sverige i slutet av 1800­talet och bör-
+jan av 1900­talet då järnvägsnätet byggdes ut i Sverige. Göteborg ­ Hall­
+ands järnväg kom vidare att få stor betydelse för utvecklingen av flera nya
+Västsvenska samhällen på landsbygden. Järnvägsstationen i Åsa var en
+avgörande komponent i ortens utveckling genom att ett stationssamhälle
+växte fram kring stationsbyggnaden. Den fd stationsmiljön har därför ett
+stort lokalhistoriskt värde genom att den speglar ett viktigt skede i ortens
+historia och utveckling. Runt stationen växte flera pensionat och andra
+verksamheter kopplade till sommargästerna fram.
+
+Viktig del i den samlade järnvägsmiljön
+Åsas stationsmiljö utgör idag den sista kompletta stationsmiljön längs den
+tidigare järnvägssträckan mellan Göteborg och Varberg. Längs järnvägen
 uppfördes minst 4 st magasinsbyggnader efter samma typritning. Åsa sta-
-tions magasinsbyggnad är den sista bevarade av dessa fyra. Byggnaden Järnvägshistoriskt värde
-togs ur bruk som magasin för järnvägens godstrafik i samband med att Åsas stationsbyggnader har ett stort järnvägshistoriskt värde som en del i
-järnvägen flyttades 1978.                     en större helhet med flera enhetligt utformade stationsbyggnader utmed
-Göteborg ­ Hallands järnväg utförda efter typritningar. Byggnadernas ge-
-Även sett i ett större nationellt perspektiv är magasinsbyggnaden av be- mensamma utformning speglar tydligt sekelskiftets stora arkitektuppgift
-tydelse då många av järnvägens äldre magasinsbyggnader successivt har där typmodeller blev en förutsättning för att klara utmaningen.
+tions magasinsbyggnad är den sista bevarade av dessa fyra. Byggnaden
+togs ur bruk som magasin för järnvägens godstrafik i samband med att
+järnvägen flyttades 1978.
+
+Även sett i ett större nationellt perspektiv är magasinsbyggnaden av be-
+tydelse då många av järnvägens äldre magasinsbyggnader successivt har
 rivits. Idag finns sannorlikt inte många magasinsbyggnader från denna
+
 tidsepok i Sverige bevarade.
 
 12
+
+Genom sin tydliga koppling till stationsområdet och den verksamhet som
+bedrevs på platsen sedan järnvägens etablering besitter magasinsbygg-
+naden ett högt kulturhistoriskt värde. Den fungerar som en markör för
+järnvägsverksamheten med lastning och lossning av gods samt har ett
+miljöskapande värde som bidrar till förståelsen av stationsmiljön. Värdet
+är kopplat både till att byggnaden är välbevarad med en hög andel beva-
+rat originalmaterial och till dess karaktärsgivande funktion i miljön. Detta
+gäller i synnerhet den äldre delen av magasinsbyggnaden, men även den
+sentida delen besitter ett värde genom att den speglar miljöns utveckling.
+
+Sedan tidigare har ombyggnaden av stationsbyggnaden liksom flytten av
+järnvägsspåren gjort det svårare att förstå miljön som just en järnvägs-
+miljö, varför helhetsmiljön idag är känslig för åtgärder som ytterligare
+försvårar möjligheten att läsa av och förstå den. I detta sammanhang
+spelar magasinsbyggnaden en viktig roll i att understödja den historiska
+läsbarheten av järnvägsmiljön.
+
+Egenskaper av betydelse för stationsmiljön:
+• De sammankopplade enheterna med Stationsbyggnaden, magasin­
+et, arbetarbostäderna och banvallen.
+
+Järnvägshistoriskt värde
+Åsas stationsbyggnader har ett stort järnvägshistoriskt värde som en del i
+en större helhet med flera enhetligt utformade stationsbyggnader utmed
+Göteborg ­ Hallands järnväg utförda efter typritningar. Byggnadernas ge-
+mensamma utformning speglar tydligt sekelskiftets stora arkitektuppgift
+där typmodeller blev en förutsättning för att klara utmaningen.
 
 <!-- sida 94 -->
 
@@ -7374,15 +7473,15 @@ bosatta i Särö/Kullavik ska tolkas försiktigt utifrån låg 0
 svarsfrekvens i gruppen.             Åk8           Gy2
 Resultat från Lupp 2020, Kungsbacka kommun
 
-Elevinflytande                    Vad jag får lära mig     67 26
+Elevinflytande                    Vad jag får lära mig 26  67      Vill
 Arbetsformer\*            81
-–vad eleverna villoch upplever att de får            36
+–vad eleverna villoch upplever att de får            36            Får
 Läxorna             73
 18
 vara med och bestämma om i skolan
 Proven             71
 19
-Schemat              72
+Åk8     Schemat              72
 12
 Maten               76
 10
@@ -7394,41 +7493,31 @@ Skolmiljön ute     52
 28
 Vad jag får lära mig      72
 27
-Arbetsformer\*             89
+Enkätfrågor: Hur mycket eller lite villdu som elev Arbetsformer\* 89
 51
-Läxorna               83
-28
-Proven                83
-31
-Schemat               77
-14
-Maten               78
-9
-Skolans ”regler”    56 28
-Skolmiljön inne       62
-28
-Skolmiljön ute   44
-19
-0  20  40  60  80  100
-Resultat från Lupp 2020, Kungsbacka kommun
-8kÅ
-2yG
-Vill
-Får
-Åk8
-Enkätfrågor: Hur mycket eller lite villdu som elev
 vara med och bestämma om följande? respektive
-Hur mycket eller lite upplever du att du som elev får
-vara med och bestämma när det gäller följande?
-Samma svarsalternativ för båda frågor: Väldigt lite/ Gy2
+Läxorna               83
+Hur mycket eller lite upplever du att du som elev får 28
+vara med och bestämma när det gäller följande? Proven         83
+31
+Samma svarsalternativ för båda frågor: Väldigt lite/ Gy2 Schemat 77
+14
 ingenting; Ganska lite; Ganska mycket; Väldigt
-mycket.
-\*Formulering i enkäten: Hur vi ska arbeta, till
-exempel grupparbete/projektarbete.
+Maten               78
+mycket.                                        9
+\*Formulering i enkäten: Hur vi ska arbeta, till Skolans ”regler” 28 56
+exempel grupparbete/projektarbete.  Skolmiljön inne       62
+28
 Resultaten visar andelen som svarat ganska eller
-väldigt mycket på respektive fråga, baserat på
-minst 1 060 svar i åk8 och 656 svar i gy2. Procent
+Skolmiljön ute   44
+väldigt mycket på respektive fråga, baserat på   19
+minst 1 060 svar i åk8 och 656 svar i gy2. Procent 0 20 40 60 80 100
+Resultat från Lupp 2020, Kungsbacka kommun
 42
+
+Gy2
+
+Åk8
 
 <!-- sida 188 -->
 
@@ -8072,39 +8161,37 @@ Resultat från Lupp 2020, Kungsbacka kommun
 
 <!-- sida 199 -->
 
+Självskattad  kunskap  i relation till uppfattning om de flesta vuxnas
+kunskap   om  barnets rättigheter i barnkonventionen
+
+Procent
 100
 7    6    8    10   9    10
-90 20 13 19 12 20 14 17 15 18
+90 20 13 19 12 20 14 17 15 18    Vet inte vad BK är
 80
 27 19 26  29
 70 19  19   19   21        23
-60   33   35   31
+60   33   35   31                Känner inte till
 50
 40 34  37   31   39 36 44 38 34 35
-30
+Känner till men bryr
+30                               sig inte så mycket
 47   47   47
 20
-10 27  25   30   23 27 22 27 25 26
-0
-
-Resultat från Lupp 2020, Kungsbacka kommun
-vläjS anxuV vläjS anxuV vläjS anxuV vläjS anxuV vläjS anxuV vläjS anxuV
-Självskattad  kunskap  i relation till uppfattning om de flesta vuxnas
-kunskap   om  barnets rättigheter i barnkonventionen
-Procent
-Vet inte vad BK är
-Känner inte till
-Känner till men bryr
-sig inte så mycket
-Enkätfrågor: Känner du till vilka rättigheter du har enligt barnkonventionen? samt Tror du att vuxna i Känner till och
-allmänhet känner till barnets rättigheter enligt           försöker ta hänsyn
+E en n l k ig ä t t f b rå a g rn o k r: o K nv ä e n n n t e io r n d e u n t ? il l s v a i m lka t T r r ä o t r t i d gh u e a te tt r v d u u x n h a a r i 10 27 25 30 23 27 22 27 25 26 Känner till och
+allmänhet känner till barnets rättigheter enligt 0         försöker ta hänsyn
 barnkonventionen?
 För svarsalternativ, se föregående bilder.
 Resultaten baseras på minst 1 048 svar i åk8 och Åk8: Åk8: Åk8: Gy2: Gy2: Gy2:
 minst 678 svar i gy2.       Samtliga Tjejer Killar Samtliga Tjejer Killar
+Resultat från Lupp 2020, Kungsbacka kommun
+
 Egna   kunskaper    om  rättigheterna   i barnkonventionen
+
 2017, 2020
+
 2017     2020
+
 Procent
 100
 80
@@ -8124,6 +8211,30 @@ positiva svarsalternativen.            Åk8                Gy2
 Resultat från Lupp 2020, Kungsbacka kommun
 
 54
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
 
 <!-- sida 200 -->
 
@@ -9963,13 +10074,13 @@ Delfrågorna är rangordnade efter andelen av samtliga som
 svarat lite/mycket sämre.                Procent 0 20 40 60  80
 Resultat från Lupp 2020, Kungsbacka kommun
 Förändrad    livssituation
-Möjligheten till extrajobb  53 6
-på  grund   av                             Fritiden 11     40
+Möjligheten till extrajobb 6 53 Sämre
+på  grund   av                             Fritiden 11     40      Bättre
 Psykiska hälsan 24
 12
 Corona-pandemin                        Livet som helhet 23
 14
-Kompisumgänget  22
+Åk8    Kompisumgänget  22
 16
 Fysiska hälsan 17
 19
@@ -9983,38 +10094,28 @@ Möjligheten till extrajobb    60
 5
 Fritiden        38
 11
-Psykiska hälsan    36
-11
-Skolsituationen    34
-12
-Fysiska hälsan 25
-19
-Livet som helhet 24
-11
-Kompisumgänget   24 16
-Familjens ekonomi 12
-8
-Familjerelationen 10
-20
-0 10 20 30 40 50 60 70
-Resultat från Lupp 2020, Kungsbacka kommun
-8kÅ
-2yG
-Sämre
-Bättre
-Åk8
 Enkätfråga: Om du tänker på hur det är nu och hur det var
-innan Corona-pandemin började –På vilket sätt har ditt liv
-förändrats på grund av Corona-pandemin?, följt av nio
+Psykiska hälsan    36
+innan Corona-pandemin började –På vilket sätt har ditt liv 11
+förändrats på grund av Corona-pandemin?, följt av nio Skolsituationen 34
+12
 delfrågor.                     Gy2
-Svarsalternativ: Mycket sämre; Lite sämre; Ungefär lika
-som innan; Lite bättre; Mycket bättre.
-Resultaten visar andelen som svarat lite eller mycket sämre
-respektive lite eller mycket bättre på respektive delfråga,
-baserat på minst 1 038 svar i åk8 och 670 svar i gy2.
-Delfrågorna är rangordnade efter andelen som svarat
-lite/mycket sämre, per målgrupp.            Procent
+Fysiska hälsan 25
+Svarsalternativ: Mycket sämre; Lite sämre; Ungefär lika 19
+Livet som helhet 24
+som innan; Lite bättre; Mycket bättre.              11
+Resultaten visar andelen som svarat lite eller mycket sämre Kompisumgänget 16 24
+respektive lite eller mycket bättre på respektive delfråga, Familjens ekonomi 12
+baserat på minst 1 038 svar i åk8 och 670 svar i gy2. 8
+Familjerelationen 10
+Delfrågorna är rangordnade efter andelen som svarat   20
+lite/mycket sämre, per målgrupp.            Procent 0 10 20 30 40 50 60 70
+Resultat från Lupp 2020, Kungsbacka kommun
 88
+
+Gy2
+
+Åk8
 
 <!-- sida 234 -->
 
@@ -10194,34 +10295,52 @@ tid på ett så effektivt och  transparens    sätt som   möjligt.
 
 Sammanfattning
 
-Föreningsbidrag                                                      Taxor
+Föreningsbidrag
 
-•  Det nya bidragssystemet har arbetats fram för att vara likvärdigt, • Det nya taxesystemet har arbetats fram för att vara likvärdigt, enkelt
-enkelt och transparent.                                              och transparent.
+•  Det nya bidragssystemet har arbetats fram för att vara likvärdigt,
+enkelt och transparent.
 
-•  Regler för bidragsbidragsberättigade föreningar fortsätter att gälla. • Taxor är ungefär som idag och kan jämföras med taxor i
-grannkommuner.
+•  Regler för bidragsbidragsberättigade föreningar fortsätter att gälla.
+
 •  Storleken på de totala bidragen och proportionerna mellan olika
-grupper kommer  att fortsätta att vara ungefär som tidigare.      •  Taxesystemet är enkelt att förstå och är endast ett ”pris” för att nyttja
-en anläggning eller lokal, inte en exakt beräkning för att täcka
-•  Förändringar sker för fritidsföreningar                              kommunens   kostnader för drift och underhåll av anläggningen.
+grupper kommer  att fortsätta att vara ungefär som tidigare.
 
+•  Förändringar sker för fritidsföreningar
 •  Fördelningen mellan olika grupper kommer också att vara ungefär som
-•  Målet är att främja folkhälsa och att det oavsett idrott/förening finns
 tidigare. Däremot kommer det att ske en omfördelning mellan hur
-mycket en förening får i bidrag för motsvarande ca 30 procent av möjlighet att bedriva verksamhet i kommunen.
+mycket en förening får i bidrag för motsvarande ca 30 procent av
 föregående års bidrag.
-•  Förslaget möjliggör effektivare hantering av taxor.
 •  Det lokala aktivitetsstödet och medlemsstödet fortsätter i princip som
 tidigare, ca 65-70 procent av föregående års bidrag.
-•  Förslaget kommer innebära att anläggningar av olika ”kvalitet” får
-•  Det föreslås finnas cirka 5 procent som fria medel som kan användas för samma taxor. Från tid till annan kan det upplevas orättvist, men i takt
+
+•  Det föreslås finnas cirka 5 procent som fria medel som kan användas för
 att stimulera särskilt goda initiativ.
-med  investeringar i nya anläggningar kommer det utjämnas över tid.
-Det bör också vara möjligt för alla föreningar att hyra ”de bästa”
 •  Blanketter/ansökan har förenklats.
-anläggningarna någon/några gånger per år.
+
 •  Förslaget möjliggör effektivare bidragshantering och uppföljning.
+
+Taxor
+
+•  Det nya taxesystemet har arbetats fram för att vara likvärdigt, enkelt
+och transparent.
+
+•  Taxor är ungefär som idag och kan jämföras med taxor i
+grannkommuner.
+
+•  Taxesystemet är enkelt att förstå och är endast ett ”pris” för att nyttja
+en anläggning eller lokal, inte en exakt beräkning för att täcka
+kommunens   kostnader för drift och underhåll av anläggningen.
+
+•  Målet är att främja folkhälsa och att det oavsett idrott/förening finns
+möjlighet att bedriva verksamhet i kommunen.
+
+•  Förslaget möjliggör effektivare hantering av taxor.
+
+•  Förslaget kommer innebära att anläggningar av olika ”kvalitet” får
+samma  taxor. Från tid till annan kan det upplevas orättvist, men i takt
+med investeringar i nya anläggningar kommer det utjämnas över tid.
+Det bör också vara möjligt för alla föreningar att hyra ”de bästa”
+anläggningarna någon/några gånger per år.
 
 <!-- sida 248 -->
 
@@ -12226,15 +12345,9 @@ av-deltagaruppgifter-ett-verktyg-for-att-motverka-fusk-och-felaktigheter/
 
 <!-- sida 327 -->
 
-SENSUS
+VERKSAMHETEN 2020
 
-STUDIEFÖRBUND
-
-VÄSTRA
-
-SVERIGE
-VERKSAMHETEN
-2020
+SENSUS STUD IEFÖRBUND VÄSTRA SVER IGE
 
 <!-- sida 328 -->
 
@@ -12442,76 +12555,111 @@ vi      bland                  annat
 
 <!-- sida 334 -->
 
+Samtal om bemötande mellan religioner under ett besök i nationalparken Ein Gedi, vid Döda havet.
+
 TIA i pandemitider
 
-PANDEMIN HAR BEGRÄNSAT OSS ALLA och för en del en stor migrationsanläggning som heter Spenshult,
-grupper blir livet än svårare. Under vår/vintern 2020 ett tidigare reumatologiskt sjukhus som ligger vid
-stängde vi ner fysiska inomhusaktiviteter och ställde Nissan i ett naturreservat.
+PANDEMIN HAR BEGRÄNSAT OSS ALLA och för en del
+grupper blir livet än svårare. Under vår/vintern 2020
+stängde vi ner fysiska inomhusaktiviteter och ställde
 om digitalt. I Halmstad där vi har en stor verksamhet
-för asylsökande blev detta mycket kännbart för våra Cirklar inom en mängd områden
+för asylsökande blev detta mycket kännbart för våra
+deltagare. Vi flyttade språkcirklar till zoom-rummet
+vilket för en del fungerade och andra inte. Som ny i
+Sverige är de fysiska mänskliga mötet viktigt för
+språkinlärning och förståelse av samhället samt ger
+en stunds andrum från oron i asylsökningsprocessen.
+Sedan tidigare finns det möjlighet att söka TIA medel
+från Länsstyrelsen. För asylverksamheten i Halm-
+stad blev dessa medelvägen till aktiviteter utomhus.
 
-deltagare. Vi flyttade språkcirklar till zoom-rummet Vi kunde med dessa medel starta cirklar inom en
-vilket för en del fungerade och andra inte. Som ny i mängd olika områden. De asylsökande har getts möj-
-Sverige är de fysiska mänskliga mötet viktigt för lighet att delta på matlagningskurser utomhus, lärt
-språkinlärning och förståelse av samhället samt ger sig om naturen och allemansrätten. Populärast blev
-en stunds andrum från oron i asylsökningsprocessen. våra fiskecirklar och cykelkurser. Våra asylledare
-Sedan tidigare finns det möjlighet att söka TIA medel införskaffade fiskespön och redskap samt skapade
-från Länsstyrelsen. För asylverksamheten i Halm- nya utbildningsmaterial och de fiskades i Nissan till
-stad blev dessa medelvägen till aktiviteter utomhus. de asylsökandes stora glädje. På anläggningen fanns
-Många av de asylsökande som vi arbetar med bor på sedan tidigare några medfarna cyklar som var svå-
+Många av de asylsökande som vi arbetar med bor på
 
-8 Sensus Västra Sverige Verksamheten 2020                                                                                      Sensus Västra Sverige Verksamheten 2020 9
-AIT
-aturatkaF
-enerys
-dem
-allok
-dliB
-eneryS
-txet
-Samtal om bemötande mellan religioner under ett besök i nationalparken Ein Gedi, vid Döda havet.
+8 Sensus Västra Sverige Verksamheten 2020
+
+en stor migrationsanläggning som heter Spenshult,
+ett tidigare reumatologiskt sjukhus som ligger vid
+Nissan i ett naturreservat.
+
+Cirklar inom en mängd områden
+Vi kunde med dessa medel starta cirklar inom en
+mängd olika områden. De asylsökande har getts möj-
+
+lighet att delta på matlagningskurser utomhus, lärt
+sig om naturen och allemansrätten. Populärast blev
+våra fiskecirklar och cykelkurser. Våra asylledare
+införskaffade fiskespön och redskap samt skapade
+nya utbildningsmaterial och de fiskades i Nissan till
+de asylsökandes stora glädje. På anläggningen fanns
+sedan tidigare några medfarna cyklar som var svå-
+
+Sensus Västra Sverige Verksamheten 2020 9
+
+text Syrene Bild kolla med syrene Faktaruta TIA
 
 <!-- sida 335 -->
 
-Tala    väl   om    varandra
+Tala    väl   om     varandra
 
 Det svenska samhället bär på en rik mångfald av olika livsåskådningar och
 religioner. Kursen ”Tala väl om varandra” handlar om att upptäcka mer av
 
 denna rikedom.
 
-I SLUTET AV 2020 avslutades den fjärde omgången av sationerna som gruppen mötte heter Parents circle
-kursen. Deltagarna var ideella och anställda medar- och består av både israeler och palestinier som mist
-betare i Svenska kyrkan från olika delar av Sverige. någon anhörig i konflikten. Representanterna för or-
-Genom kursen rustades deltagarna att bli aktiva dia- ganisationen berättade om en väg bort från hat och
-logaktörer genom att övas i religionsdialog i interakti- att också se hur det går att mötas i dialog och gemen-
-va övningar och reflektion blandat med föreläsningar skap, trots att omvärlden många gånger förväntar sig
-och textstudier.                   fiendskap mellan grupperna.
+I SLUTET AV 2020 avslutades den fjärde omgången av
+kursen. Deltagarna var ideella och anställda medar-
+betare i Svenska kyrkan från olika delar av Sverige.
+Genom kursen rustades deltagarna att bli aktiva dia-
+logaktörer genom att övas i religionsdialog i interakti-
+va övningar och reflektion blandat med föreläsningar
+och textstudier.
 
-Interreligiös dialogverksamhet     En ögonöppnare
+Interreligiös dialogverksamhet
+I ett moment i kursen genomförde deltagarna en
+interreligiös dialogverksamhet i sin hemförsamling,
+ett slags projekt som kunde handla om att arrangera
+en interreligiös ungdomsträff, studiecirkel
+med deltagare från olika religioner eller kanske
+ett panelsamtal. Erfarenheterna från de olika
+dialogverksamheterna delades i gruppen och gav
+därmed idéer till fler aktiviteter.
 
-I ett moment i kursen genomförde deltagarna en För många av kursdeltagarna blev mötet med
-interreligiös dialogverksamhet i sin hemförsamling, människor och organisationer i Israel-Palestina en
-ett slags projekt som kunde handla om att arrangera ögonöppnare för hur viktig dialog och respekt blir för
-en interreligiös ungdomsträff, studiecirkel samlevnaden. Efter genomförd kurs inbjuds deltagar-
-med deltagare från olika religioner eller kanske na till ett nätverk tillsammans med tidigare deltagare
-ett panelsamtal. Erfarenheterna från de olika i kursen, med ett fortsatt erfarenhetsutbyte. Tanken
-dialogverksamheterna delades i gruppen och gav är att dialogen och samtalet ska kunna fortsätta på
-därmed idéer till fler aktiviteter. hemmaplan, så att fler kan se tillgången i den religiö-
-sa mångfalden i Sverige. Bakom kursen står Svenska
-Studieresa i Jerusalem             kyrkan och Sensus.
-Under åtta dagar i början av 2020 var kursdeltagarna Under 2021 erbjuds kursen igen, men då med
-på studieresa i Jerusalem. Där mötte gruppen orga- breddat deltagande från olika sammanhang och reli-
+Studieresa i Jerusalem
+Under åtta dagar i början av 2020 var kursdeltagarna
 
-nisationer och människor som har lång erfarenhet gioner.
+på studieresa i Jerusalem. Där mötte gruppen orga-
+nisationer och människor som har lång erfarenhet
 av möten och samtal mellan religioner. En av organi-
+
+sationerna som gruppen mötte heter Parents circle
+och består av både israeler och palestinier som mist
+någon anhörig i konflikten. Representanterna för or-
+ganisationen berättade om en väg bort från hat och
+att också se hur det går att mötas i dialog och gemen-
+skap, trots att omvärlden många gånger förväntar sig
+fiendskap mellan grupperna.
+
+En ögonöppnare
+För många av kursdeltagarna blev mötet med
+människor och organisationer i Israel-Palestina en
+ögonöppnare för hur viktig dialog och respekt blir för
+samlevnaden. Efter genomförd kurs inbjuds deltagar-
+na till ett nätverk tillsammans med tidigare deltagare
+i kursen, med ett fortsatt erfarenhetsutbyte. Tanken
+är att dialogen och samtalet ska kunna fortsätta på
+hemmaplan, så att fler kan se tillgången i den religiö-
+sa mångfalden i Sverige. Bakom kursen står Svenska
+kyrkan och Sensus.
+Under 2021 erbjuds kursen igen, men då med
+
+breddat deltagande från olika sammanhang och reli-
+gioner.
 
 ra att cykla på. De asylsökande undrade om vi kunde
 hålla kurser i att lära sig att cykla och våren stod i full
 blom. I ett nära samarbete med Rädda Barnen, som
 tillhandahöll en ledare, införskaffade Sensus i Halm-
 stad tre cyklar och verksamheten var i full gång. De
-
 blå cyklarna väntar i ett förråd på att våren ska kom-
 ma och vi kan cykla igen.
 
@@ -12521,9 +12669,32 @@ personers framtida etablering i Sverige genom en meningsfull
 sysselsättning under asyltiden. Länsstyrelsen beslutar om
 bidrag för insatserna och samordnar länets arbete.
 
-8 Sensus Västra Sverige Verksamheten 2020           Sensus Västra Sverige Verksamheten 2020 9
+8 Sensus Västra Sverige Verksamheten 2020                                                                                      Sensus Västra Sverige Verksamheten 2020 9
 
 <!-- sida 336 -->
+
+Leda  väst
+
+EN KALL MEN SOLIG februarihelg träffades 180 scoutledare från hela
+västra Sverige på Flämslätts kursgård för utbildningshelgen Leda Väst.
+Det var första gången som arrangemanget genomfördes och bakom det
+står Scouternas folkhögskola, Scouterna och Sensus.
+Deltagarna fick välja på över 20 kurspass i bland annat lägerbål, för-
+sta hjälpen, hantverk, Trygga möten och Anpassat ledarskap. Under
+helgen bjöds det på fantastisk mat och nya kontakter knöts mellan olika
+scoutkårer, organisationer och distrikt.
+Att få diskutera viktiga frågor och lära sig mer tillsammans med an-
+
+dra scoutledare var något som uttrycktes som mycket givande. Gensva-
+ret var otroligt positivt och utvärderingarna var eniga: vi vill fortsätta ha
+Leda Väst varje år!
+
+Scouterna och Sensus
+Scouterna är Sensus näst största medlemsorganisation och vi samverkar inom många
+olika områden. Vi skapar mötesplatser, utvecklar programmaterial, genomför utbild-
+ningar och samverkar kring demokratijamboreen som exempel.
+
+10 Sensus Västra Sverige Verksamheten 2020
 
 Måltidsvän  Skara
 
@@ -12531,8 +12702,8 @@ SKARA KOMMUN gjorde tillsam-
 mans med Sensus och övriga
 studieförbund projektet Måltids-
 vän under våren 2020. Att bryta
-
 ensamhet, samlas kring mat, äta
+
 tillsammans på uteservering eller
 tillaga mat tillsammans, var den
 enkla idén bakom projektet. Mål-
@@ -12545,39 +12716,18 @@ Skövde. Corona hindrade att pro-
 jektet genomfördes, men måltids-
 vännerna står fortfarande beredda
 och väntar på att finnas till hands
-
 när restriktionerna upphör.
 
-Leda  väst
+⊲ sensus.se/scouterna
 
-EN KALL MEN SOLIG februarihelg träffades 180 scoutledare från hela
-västra Sverige på Flämslätts kursgård för utbildningshelgen Leda Väst.
-Det var första gången som arrangemanget genomfördes och bakom det
-står Scouternas folkhögskola, Scouterna och Sensus.
-Deltagarna fick välja på över 20 kurspass i bland annat lägerbål, för-
-sta hjälpen, hantverk, Trygga möten och Anpassat ledarskap. Under
-helgen bjöds det på fantastisk mat och nya kontakter knöts mellan olika
-scoutkårer, organisationer och distrikt.
-
-Att få diskutera viktiga frågor och lära sig mer tillsammans med an-
-dra scoutledare var något som uttrycktes som mycket givande. Gensva-
-ret var otroligt positivt och utvärderingarna var eniga: vi vill fortsätta ha
-Leda Väst varje år!
-
-Scouterna och Sensus
-Scouterna är Sensus näst största medlemsorganisation och vi samverkar inom många
-olika områden. Vi skapar mötesplatser, utvecklar programmaterial, genomför utbild-
-ningar och samverkar kring demokratijamboreen som exempel. ⊲ sensus.se/scouterna
-
-10 Sensus Västra Sverige Verksamheten 2020                                                                                     Sensus Västra Sverige Verksamheten 2020 11
+Sensus Västra Sverige Verksamheten 2020 11
 
 <!-- sida 337 -->
 
-Låna    en   bokkasse       och   starta     en  bokcirkel!
+Låna    en   bokkasse       och    starta    en  bokcirkel!
 
 Ja, den uppmaningen gav Sensus och Skövde stadsbibliotek tillsammans
-
-genom ett nytt samarbete som startades under hösten.
+genom  ett nytt samarbete som startades under hösten.
 
 DET SKA VARA BÅDE ENKELT OCH INSPIRERANDE att börja
 läsa böcker som någon annan, i detta fall personal på Skövde
@@ -12585,8 +12735,8 @@ stadsbibliotek, valt ut och därefter diskutera boken tillsam-
 mans med andra.
 – Initiativet till bokkassar för utlåning kom från en av bib-
 liotekarierna på Skövde stadsbibliotek och när jag fick frå-
-
 gan om Sensus ville samarbeta kring bokcirklar kom vi snabbt
+
 igång med planeringen, då vi tidigare haft andra läsfrämjande
 samarbeten och för att vi tillsammans gärna uppmuntrar till
 bokcirklar, berättar Leena Larsson, verksamhetsutvecklare på
@@ -12599,8 +12749,8 @@ och metodtips för bokcirkeln” framtaget av Sensus och infor-
 mation om var och hur man kan anmäla sin cirkel. Med hjälp
 av Sensus bokcirkelmetod kan man lätt komma igång med
 samtal om både boken man läst och tankar som väcks. Tankar
-
 som ofta leder till fina samtal mellan cirkeldeltagarna.
+
 – Vi vill inte styra samtalen, men vi vill inspirera och ge tips
 på hur man kan diskutera en bok man läst tillsammans med
 andra. Ibland kan det vara skönt att ha färdiga frågor att be-
@@ -12613,52 +12763,79 @@ Precis som studieförbunden fick även biblioteken ställa om
 och ställa in verksamheter under rådande pandemi och res-
 triktionerna som kom. Hur gick vi då tillväga för att fortsatt
 uppmuntra läsande och erbjuda bokkassarna? Det löstes ge-
+nom att biblioteket höll öppet en speciell service för utlåning
 
-nom att biblioteket höll öppet en speciell service för utlåning Om bokkassarna
-av böcker och genom att bokcirklarna fanns publicerade och I varje bokkasse finns fem böcker av samma titel.
-Det fanns från början sex kassar att låna,
+av böcker och genom att bokcirklarna fanns publicerade och
 öppna för anmälan på Sensus hemsida. När vi på grund av pan-
-men antalet kassar har utökats. Både manliga
 demin ville hindra smittspridning och minska fysiska träffar,
-och kvinnliga författare är representerade.
 öppnade Sensus upp för möjligheten att träffas digitalt genom
+att uppdatera informationen i bokkassarna och erbjuda digita-
+la verktyg till studiecirklarna.
+
+10 Sensus Västra Sverige Verksamheten 2020
+
+Om bokkassarna
+I varje bokkasse finns fem böcker av samma titel.
+Det fanns från början sex kassar att låna,
+men antalet kassar har utökats. Både manliga
+och kvinnliga författare är representerade.
 Genrebredden finns, så som realism, historia,
-att uppdatera informationen i bokkassarna och erbjuda digita- äventyr, pikaresk, fantasy, feelgood, drama, kärlek
-la verktyg till studiecirklarna.         och skräck. Den första bokcirkeln som tog kontakt
+äventyr, pikaresk, fantasy, feelgood, drama, kärlek
+och skräck. Den första bokcirkeln som tog kontakt
 med Sensus lånade bokkasse nr 5 innehållande:
 Swede Hollow av Ola Larsmo, utgiven 2016.
-10 Sensus Västra Sverige Verksamheten 2020          Sensus Västra Sverige Verksamheten 2020 11
+
+Sensus Västra Sverige Verksamheten 2020 11
 
 <!-- sida 338 -->
 
 Filmprojektet
 
-Chock       –  familjen       är  allt   jag   har.
+Chock       – familjen        är  allt   jag   har.
 
-UNDER 2019 OCH BÖRJAN AV 2020 genomfördes Efter att ha sett filmen har flera vittnat om en stör-
-filmprojektet Chock i Borås. Syftet var att skapa mö- re förståelse om hur det är att fly från sitt land för att
-ten och förståelse mellan människor med olika bak- starta upp ett nytt liv i ett främmande land.
+UNDER 2019 OCH BÖRJAN AV 2020 genomfördes
+filmprojektet Chock i Borås. Syftet var att skapa mö-
+ten och förståelse mellan människor med olika bak-
 grund och åldrar och resultera i en film om en familjs
-flykt från krig och mötet med drömlandet Sverige. Ett arbete präglat av jämställdhet och jämlikhet
-Projektet ledde fram till den tvåspråkiga filmen Processen har varit det viktigaste i projektet. Jäm-
-Chock – familjen är allt jag har. Handlingen kret- ställdhet och jämlikhet har präglat deltagandet. Alla
-sar kring viktiga frågor som flykt, funktionsvariation skulle kunna vara med på lika villkor. Projektet har
-och kultur. Filmen har visats för en heterogen publik eftersträvat och också lyckats med att agera som en
+flykt från krig och mötet med drömlandet Sverige.
+Projektet ledde fram till den tvåspråkiga filmen
+Chock – familjen är allt jag har. Handlingen kret-
 
-(drygt 100 personer), på Hemgården i Borås och flera brobyggare mellan människor från olika delar av värl-
-gånger på Brygghusets biograf. I anslutning till film- den. Nästan 50 personer har varit delaktiga, en härlig
-visningen användes metoden ”Tala film – tala liv”. blandning av barn, ungdomar, vuxna och äldre, med
+sar kring viktiga frågor som flykt, funktionsvariation
+och kultur. Filmen har visats för en heterogen publik
+(drygt 100 personer), på Hemgården i Borås och flera
+gånger på Brygghusets biograf. I anslutning till film-
+visningen användes metoden ”Tala film – tala liv”.
+
+Starka och känsliga bilder ifrån krig och flykt
+Filmen innehåller starka och känsliga bilder ifrån krig
+och flykt, därför har den inte visats fritt utan i grup-
+per där man förklarar syftet och kan ha eftersamtal.
+
+Efter att ha sett filmen har flera vittnat om en stör-
+re förståelse om hur det är att fly från sitt land för att
+starta upp ett nytt liv i ett främmande land.
+
+Ett arbete präglat av jämställdhet och jämlikhet
+Processen har varit det viktigaste i projektet. Jäm-
+ställdhet och jämlikhet har präglat deltagandet. Alla
+
+skulle kunna vara med på lika villkor. Projektet har
+eftersträvat och också lyckats med att agera som en
+brobyggare mellan människor från olika delar av värl-
+den. Nästan 50 personer har varit delaktiga, en härlig
+blandning av barn, ungdomar, vuxna och äldre, med
 bakgrund i fyra olika länder.
-Starka och känsliga bilder ifrån krig och flykt Förutom integrationsbidraget från Borås stad har
-Filmen innehåller starka och känsliga bilder ifrån krig projektet fått stöd av Västra Götalandsregionen. Pro-
-och flykt, därför har den inte visats fritt utan i grup- jektet har också fått stort stöd från Brygghuset i Borås
-per där man förklarar syftet och kan ha eftersamtal. genom tillgång till lokaler och teknik och hjälp med
+Förutom integrationsbidraget från Borås stad har
+projektet fått stöd av Västra Götalandsregionen. Pro-
+jektet har också fått stort stöd från Brygghuset i Borås
+genom tillgång till lokaler och teknik och hjälp med
 marknadsföring. Några av sponsorerna bör nämnas –
 Erikshjälpen, Borås Stadsteater och föreningen Tåget
 har lånat ut rekvisita. Nobina har ställt upp med bus-
+
 sar och chaufförer, Räddningstjänsten gav oss möjlig-
 het att spela in på Bockaby i en miljö som påminner
-
 om en bombad stad.
 
 Thomas Alsoufani och Mohammad Aldafes
@@ -12758,83 +12935,82 @@ PANDEMI OCH DIGITAL OMSTÄLLNING
 
 PANDEMI OCH DIGITAL OMSTÄLLNING
 
-Sensus ledning initierade snabbt en krisgrupp som Grunden blev instruktioner kring digitala verktyg,
-analyserade läget och såg vilka åtgärder som krävdes. ljud och bild i videomöten, film, mötesformer, strea-
+Sensus ledning initierade snabbt en krisgrupp som
+analyserade läget och såg vilka åtgärder som krävdes.
+Krisgruppen fungerade sedan som ett nav och en mo-
+tor i det fortsatta arbetet. En av de första åtgärderna
+var att skapa en arbetsgrupp för digital omställning,
+med inriktning mot föreningar, organisationer, cir-
+kelledare och deltagare. Fokus blev cirkelledare och
 
-Krisgruppen fungerade sedan som ett nav och en mo- ming och upphovsrätt. Allt för att skapa förutsätt-
-tor i det fortsatta arbetet. En av de första åtgärderna ningar för att kunna mötas trots geografisk distans,
-var att skapa en arbetsgrupp för digital omställning, karantän och avstånd. Den första versionen av den
-med inriktning mot föreningar, organisationer, cir- digitala verktygslådan blev klar 27 mars. Vi vågade,
-kelledare och deltagare. Fokus blev cirkelledare och provade och lärde under tiden, utan att från början
-deltagare och hur de snabbt och enkelt skulle kunna riktigt veta vart det skulle ta vägen. Men det bar sig
-komma igång med att mötas digitalt. Man enades om och det höll ihop. Cirklar, konferenser och årsmöten
-att skapa en lättbegriplig guide, fylld med verktyg och fick nya och tekniskt anpassade former i det digitala.
+deltagare och hur de snabbt och enkelt skulle kunna
+komma igång med att mötas digitalt. Man enades om
+att skapa en lättbegriplig guide, fylld med verktyg och
 tips som Sensus-medarbetare hade god erfarenhet av
-och kunde lära ut. Eventuella trösklar för att rent tek- Lärande för alla
-niskt komma igång skulle bort.     Parallellt med att den digitala verktygslådan togs fram
-insåg vi att det fanns en mängd saker vi i Sensus behö-
-Sensus digitala verktygslåda       ver kunna för att hitta oss själva som folkbildare i det
+och kunde lära ut. Eventuella trösklar för att rent tek-
+niskt komma igång skulle bort.
 
-Den lättbegripliga guiden som byggdes fick namnet digitala. En arbetsgrupp som kunde stötta, koordinera
-Sensus digitala verktygslåda. Innehållet skapades och skapa infrastruktur för lärtillfällen bildades. Det
-utifrån egna nätpedagogiska erfarenheter samt uti- fick det att gro och växa i hela landet. Alla som ville
-från efterfrågan från våra kontakter och samarbeten. fick bidra med sin kunskap och dela den med andra.
+Sensus digitala verktygslåda
+Den lättbegripliga guiden som byggdes fick namnet
+Sensus digitala verktygslåda. Innehållet skapades
+utifrån egna nätpedagogiska erfarenheter samt uti-
+från efterfrågan från våra kontakter och samarbeten.
 
-10 mars
-Förbundsrektor tillsätter
-en rikstäckande kris-
-grupp för att hantera
-coronasituationen.
-
-10 mars
-Folkhälsomyndigheten
-meddelar att risken för
-samhällsspridning är
-mycket hög. Alla med
-symtom på luftvägssym-
-tom uppmanas att avstå
-sociala kontakter.
-
-FOLKBILDNINGEN
-FORTSÄTTER PÅ NÄTET
-Sensus har länge erbjudit och stöttat distans-
-verksamhet i olika former. Men när en stor
-del av den fysiska verksamheten riskerade
-att ställas in eller skjutas upp så blev det
-extra viktigt att samla och synliggöra vår
-distansverksamhet på hemsidan.
-
-⊲ sensus.se/distans
-
-16 Sensus Västra Sverige Verksamheten 2020                                                                                     Sensus Västra Sverige Verksamheten 2020 17
-0202
-RÅ
-DLRÄVMO
 11 mars    13 mars
 Sensus första gemen- sensus.se uppdateras
-19 mars     20 mars     23 mars samma förhållningssätt med corona-information.
-publiceras i våra kanaler Mejlutskick till alla ledare En arbetsgrupp med Intern och extern infor- Arbetsgruppen Lärtillfäl-
-för internkommunikation. om hur verksamheterna uppgift att samordna mation om att Sensus len startas. Den första
-påverkas.   den digitala omställning- ställer om all verksamhet livestreamade konserten
+10 mars
+samma förhållningssätt med corona-information.
+Förbundsrektor tillsätter publiceras i våra kanaler Mejlutskick till alla ledare
+en rikstäckande kris- för internkommunikation. om hur verksamheterna
+grupp för att hantera  påverkas.
+coronasituationen.
+
+Grunden blev instruktioner kring digitala verktyg,
+ljud och bild i videomöten, film, mötesformer, strea-
+ming och upphovsrätt. Allt för att skapa förutsätt-
+ningar för att kunna mötas trots geografisk distans,
+karantän och avstånd. Den första versionen av den
+digitala verktygslådan blev klar 27 mars. Vi vågade,
+provade och lärde under tiden, utan att från början
+
+riktigt veta vart det skulle ta vägen. Men det bar sig
+och det höll ihop. Cirklar, konferenser och årsmöten
+fick nya och tekniskt anpassade former i det digitala.
+
+Lärande för alla
+Parallellt med att den digitala verktygslådan togs fram
+insåg vi att det fanns en mängd saker vi i Sensus behö-
+ver kunna för att hitta oss själva som folkbildare i det
+digitala. En arbetsgrupp som kunde stötta, koordinera
+och skapa infrastruktur för lärtillfällen bildades. Det
+fick det att gro och växa i hela landet. Alla som ville
+fick bidra med sin kunskap och dela den med andra.
+
+19 mars     20 mars    23 mars
+En arbetsgrupp med Intern och extern infor- Arbetsgruppen Lärtillfäl-
+uppgift att samordna mation om att Sensus len startas. Den första
+den digitala omställning- ställer om all verksamhet livestreamade konserten
 en startar. Den första där det är möjligt till i serien "Kultur för årsrika"
 versionen av risk- och digitalt/distans. Fysiska sänds. Konserterna vänder
 väsentlighetsanalys görs. träffar endast efter nog- sig särskilt till personer
 grann riskanalys. som tillhör en riskgrupp.
-11 mars    13 mars
-WHO deklarerar att Folkhälsomyndighetens
+
+11 mars     13 mars
+10 mars    WHO deklarerar att Folkhälsomyndighetens
 16 mars
-covid-19 är en pandemi. riskbedömningsmall för
-arrangörer av evene- Allmänna sammankoms-
+Folkhälsomyndigheten covid-19 är en pandemi. riskbedömningsmall för
+meddelar att risken för arrangörer av evene- Allmänna sammankoms-
 19 mars
-mang publiceras. ter med fler än 500 per-
-soner förbjuds. Personer 18 mars Studieförbunden i sam-
-över 70 år uppmanas att Folkbildningsrådet be- verkan kommer överens
-begränsa sina sociala slutar om dispenser som om gemensamma förhåll-
-kontakter.  möjliggör verksamhet på ningssätt till verksamhet.
+samhällsspridning är   mang publiceras. ter med fler än 500 per-
+mycket hög. Alla med               soner förbjuds. Personer 18 mars Studieförbunden i sam-
+symtom på luftvägssym-             över 70 år uppmanas att Folkbildningsrådet be- verkan kommer överens
+tom uppmanas att avstå             begränsa sina sociala slutar om dispenser som om gemensamma förhåll-
+sociala kontakter.                 kontakter.  möjliggör verksamhet på ningssätt till verksamhet.
 distans. Universitet och
 gymnasieskolor övergår
 till distansundervisning.
 SENSUS DIGITALA VERKTYGSLÅDA
+
 Sensus digitala verktygslåda erbjuder stöd
 till alla som behöver ställa om sin verksam-
 het till distans. Den digitala verktygslådan
@@ -12845,68 +13021,125 @@ distans, styrelser som vill hålla årsstämmor
 digitalt och musikband som vill live-streama
 sina evenemang.
 ⊲ digitalaverktyg.sensus.se
-0202
-RÅ
-SUSNES
+
+FOLKBILDNINGEN
+FORTSÄTTER PÅ NÄTET
+
+Sensus har länge erbjudit och stöttat distans-
+verksamhet i olika former. Men när en stor
+del av den fysiska verksamheten riskerade
+att ställas in eller skjutas upp så blev det
+extra viktigt att samla och synliggöra vår
+distansverksamhet på hemsidan.
+⊲ sensus.se/distans
+
+16 Sensus Västra Sverige Verksamheten 2020                                                                                     Sensus Västra Sverige Verksamheten 2020 17
+
+OMVÄRLD ÅR 2020
+
+SENSUS ÅR 2020
 
 <!-- sida 343 -->
 
+Alla medarbetare kunde också efterfråga de lärtillfäl-
+len som de kände att de behövde.
+Från början var det ett fåtal medarbetare som höll
+lärtillfällen för våra medlemsorganisationer och sam-
+arbetsparter. Men över tid blev det fler och fler som
+kände sig trygga med att dela med sig av sina kunska-
+per. Det var, och är, ett arbete i ständig utveckling.
+
+Utifrån föreningars, organisationers och studiecirk-
+lars behov, förutsättningar och önskemål har vi ut-
+vecklat folkbildningen i de digitala rummen.
+
+Ställa in, ställa om, skapa nytt?
+En stor del av vår verksamhet kunde alltså snabbt
+genomföra en flytt från fysiska till digitala rum. För
+andra delar av verksamheten har det varit tuffare att
+ställa om. Hur repar ett band när musikhusen tvingas
+stänga? Hur träffas en kör med många medlemmar?
+Hur kan man genomföra en planerad konsert när det
+finns restriktioner?
+
+1 april
+27 mars    Sensus utbud av digitala
+25 mars     Sajten Sensus digitala evenemang växer sig
+Kampanjen "Folkbild- verktygslåda lanseras i större och kommuniceras
+ningen fortsätter på en första version. i sociala medier.
+nätet" inleds i Sensus alla
+sociala mediekanaler.
+
 PANDEMI OCH DIGITAL OMSTÄLLNING
 
-Alla medarbetare kunde också efterfråga de lärtillfäl- Mycket kulturverksamhet har fått ställas in. Samti-
-len som de kände att de behövde.   digt har också helt ny verksamhet skapats. Varianter
+Mycket kulturverksamhet har fått ställas in. Samti-
+digt har också helt ny verksamhet skapats. Varianter
+av streamade konserter och livesända kulturupple-
+velser har vuxit fram. Via videomöten har kunskap
+och kompetenser spridits även till våra kulturutövan-
+de ledare och deltagare. Flera av dessa digitala lärtill-
+fällen har varit väldigt populära med många anmälda.
 
-Från början var det ett fåtal medarbetare som höll av streamade konserter och livesända kulturupple-
-lärtillfällen för våra medlemsorganisationer och sam- velser har vuxit fram. Via videomöten har kunskap
-arbetsparter. Men över tid blev det fler och fler som och kompetenser spridits även till våra kulturutövan-
-kände sig trygga med att dela med sig av sina kunska- de ledare och deltagare. Flera av dessa digitala lärtill-
-per. Det var, och är, ett arbete i ständig utveckling. fällen har varit väldigt populära med många anmälda.
-Utifrån föreningars, organisationers och studiecirk-
-lars behov, förutsättningar och önskemål har vi ut- Uthållighet och engagemang inför 2021
-vecklat folkbildningen i de digitala rummen. Pandemin har skapat nya utmaningar, hinder och
+Uthållighet och engagemang inför 2021
+Pandemin har skapat nya utmaningar, hinder och
 begränsningar. Vi har fått utforska, prova och skapa
-Ställa in, ställa om, skapa nytt?  möjligheter för mänskliga möten. Ingen vet vad som
-En stor del av vår verksamhet kunde alltså snabbt blir det nya normala eller vad vi har med oss i bagaget
-genomföra en flytt från fysiska till digitala rum. För när det här året övergår i ett nytt. Men en förhopp-
-andra delar av verksamheten har det varit tuffare att ning är att vi kan ta med oss kraften i den förflyttning
+möjligheter för mänskliga möten. Ingen vet vad som
+blir det nya normala eller vad vi har med oss i bagaget
 
-ställa om. Hur repar ett band när musikhusen tvingas som gjordes. En trolig konsekvens av pandemin och
-stänga? Hur träffas en kör med många medlemmar? den omställning till digitalt som gjordes är i alla fall
-Hur kan man genomföra en planerad konsert när det att vi kommer att ha stor nytta av det kreativa och
-finns restriktioner?               lösningsinriktade förhållningssättet.
+när det här året övergår i ett nytt. Men en förhopp-
+ning är att vi kan ta med oss kraften i den förflyttning
+som gjordes. En trolig konsekvens av pandemin och
+den omställning till digitalt som gjordes är i alla fall
+att vi kommer att ha stor nytta av det kreativa och
+lösningsinriktade förhållningssättet.
 
-1 april     16 april
-27 mars     Sensus utbud av digitala Sensus digitala verktygs-
-25 mars    Sajten Sensus digitala evenemang växer sig låda lanseras externt. 17 september 2 november
-Kampanjen "Folkbild- verktygslåda lanseras i större och kommuniceras Den digitala verktygs- All verksamhet med
-ningen fortsätter på en första version. i sociala medier. lådan byggs ut med fysiska träffar pausas
-nätet" inleds i Sensus alla                    moduler för omställ- efter att de skärpta lokala
-sociala mediekanaler.                          ningsstöd för Sensus råden börjat införas.
+16 april
+Sensus digitala verktygs-
+låda lanseras externt. 17 september 2 november
+Den digitala verktygs- All verksamhet med
+lådan byggs ut med fysiska träffar pausas
+moduler för omställ- efter att de skärpta lokala
+ningsstöd för Sensus råden börjat införas.
 samarbetsparter.
 
-13 augusti  20 oktober
+13 augusti 20 oktober
 Folkhälsomyndigheten Uppsala län blir först ut 24 november 14 december
 publicerar särskilda med skärpta lokala råd. Max åtta personer får Nya nationella råd ersät-
-27 mars    rekommendationer för    delta i allmänna samman- ter de lokala råden.
-Allmänna samman- körverksamhet.    komster och offentliga 27 december
-komster med fler än 50             tillställningar.       Arbetet med att vaccinera
-personer förbjuds.                                        personer i Sverige inleds.
+27 mars     rekommendationer för   delta i allmänna samman- ter de lokala råden.
+Allmänna samman- körverksamhet.    komster och offentliga  27 december
+komster med fler än 50             tillställningar.        Arbetet med att vaccinera
+personer förbjuds.                                         personer i Sverige inleds.
+
 VI KALLAR DET LÄRTILLFÄLLEN
 
 Behovet av att snabbt dela kunskap och stötta
-varandra i den digitala omställningen ledde till SENSUS ERBJUDER
-en mängd videomöten mellan medarbetare. DIGITALA MÖTESRUM
+varandra i den digitala omställningen ledde till
+en mängd videomöten mellan medarbetare.
 Mötena var öppna för alla och kom att kallas
-lärtillfällen. Från mars till december hölls cirka I september lanserades en ny version av
-225 interna lärtillfällen i olika ämnen. Ungefär Sensus digitala verktygslåda. Här presentera-
-40 av Sensus medarbetare bidrog med sina des konkreta stödåtgärder till föreningar och
-kunskaper. Under året skapades även lärtill- grupper som har samarbeten med Sensus.
-fällen som riktade sig mot Sensus medlemsor- Som exempel kan nämnas att få egna konton
-ganisationer, samarbetsparter och ledare. till digitala mötesrum via Zoom, tillgång till
-De uppstod ur önskemål och förfrågningar Sensus digitala lärplattform Learnify och möj-
-men också utifrån våra egna idéer och med lighet till förenklad hantering av cirkellistor
-utgångspunkt i den digitala verktygslådan. med Sensus e-tjänst.
-16 Sensus Västra Sverige Verksamheten 2020          Sensus Västra Sverige Verksamheten 2020 17
+lärtillfällen. Från mars till december hölls cirka
+225 interna lärtillfällen i olika ämnen. Ungefär
+40 av Sensus medarbetare bidrog med sina
+kunskaper. Under året skapades även lärtill-
+fällen som riktade sig mot Sensus medlemsor-
+ganisationer, samarbetsparter och ledare.
+De uppstod ur önskemål och förfrågningar
+men också utifrån våra egna idéer och med
+utgångspunkt i den digitala verktygslådan.
+16 Sensus Västra Sverige Verksamheten 2020
+
+SENSUS ERBJUDER
+DIGITALA MÖTESRUM
+
+I september lanserades en ny version av
+Sensus digitala verktygslåda. Här presentera-
+des konkreta stödåtgärder till föreningar och
+grupper som har samarbeten med Sensus.
+Som exempel kan nämnas att få egna konton
+till digitala mötesrum via Zoom, tillgång till
+Sensus digitala lärplattform Learnify och möj-
+lighet till förenklad hantering av cirkellistor
+med Sensus e-tjänst.
+Sensus Västra Sverige Verksamheten 2020 17
 
 <!-- sida 344 -->
 
@@ -12916,34 +13149,61 @@ Kultur i en märklig tid
 
 \- David Oest, verksamhetsutvecklare berättar
 
-FÖR ETT ÅR SEDAN var det ingen som hade en tanke nio tillfällen som i dagsläget har haft cirka 10000 vis-
-på att vi måste förbereda oss för hur man gör kultur- ningar. Blandningen var stor, det var visprogram, gre-
-program under en pandemi. Vi på Sensus älskar ju att kisk musik, dans och diktläsning. Vi hade även allsång
-vara en del av alla fysiska föreställningar, konserter, vid två tillfällen och det roligaste vi fick höra var nog
+FÖR ETT ÅR SEDAN var det ingen som hade en tanke
+på att vi måste förbereda oss för hur man gör kultur-
+program under en pandemi. Vi på Sensus älskar ju att
+vara en del av alla fysiska föreställningar, konserter,
+diktuppläsningar och andra scenkonstframträdanden
+som våra samverkansparter framför. Varför skulle det
+ske digitalt?
 
-diktuppläsningar och andra scenkonstframträdanden att de på ett äldreboende berättade att de hade samlat
-som våra samverkansparter framför. Varför skulle det alla i dagrummet (på behörigt avstånd såklart!) och
-ske digitalt?                      gjort en gemensam allsångsstund av det.
 Idag vet vi mer. Och vi var väldigt snabbfotade när
-det väl inföll att de fysiska kulturprogrammen ställ- Med stor kärlek till kulturen
-des in. Tidigt föreslog Annika Broman, enhetschef Att Sensus är ett studieförbund med stor kärlek till
-på Sensus Västra Sverige, att vi skulle göra något för kulturen och att vi kan ställa om fort lyckades vi även
-de äldre. Det var ju de som hade blivit beordrade att visa i december då vi på ganska kort varsel lyckades
-stanna hemma. Om vi även kunde kombinera det med sända 16 korta kulturprogram på Facebooksidan Sen-
-att stötta kulturarbetare så skulle vi göra det. sus Göteborg under namnet Kulturklappar. Vi bad fle-
-Sagt och gjort, kontakt togs med en av våra samver- ra av de vi samverkar med att spela in när de framför
-kansparter, Anna & Martin, och de var dubbelt drab- något under 7-10 minuter. Det var allt från egenskriv-
-bade eftersom alla deras kulturprogram var inställda, na låtar med bandet Landet till tejpkonst, Lina Ek-
+det väl inföll att de fysiska kulturprogrammen ställ-
+des in. Tidigt föreslog Annika Broman, enhetschef
+på Sensus Västra Sverige, att vi skulle göra något för
+de äldre. Det var ju de som hade blivit beordrade att
+stanna hemma. Om vi även kunde kombinera det med
+att stötta kulturarbetare så skulle vi göra det.
+Sagt och gjort, kontakt togs med en av våra samver-
+kansparter, Anna & Martin, och de var dubbelt drab-
+bade eftersom alla deras kulturprogram var inställda,
+kören de driver kunde inte ses och lokalen de har gick
+inte att hyra ut. I deras garage av alla ställen ställde
+vi upp en enkel men ganska vacker scenografi dit vi,
 
-kören de driver kunde inte ses och lokalen de har gick dahls dikter och Masthuggsteaterns egenproducerade
-inte att hyra ut. I deras garage av alla ställen ställde julfilm med coronatema. Både Kultur för årsrika och
-vi upp en enkel men ganska vacker scenografi dit vi, Kulturklapparna finns fortsatt att se på Facebooksi-
-under rubriken Kultur för årsrika, bjöd in totalt 16 dan Sensus Göteborg och Sensus Youtubekanal.
-musiker som framförde halvtimmeslånga program Att ”ställa in och ställa om” var ju två ledord förra
-som sändes på vår Facebooksida. P4 Göteborg gjorde året. För att lyckas vara ett studieförbund som stöttar
-ett inslag innan och GP skrev om det under rubriken kulturlivet så valde vi att endast göra det senare av
-”Sensus sänder konserter för hemmasittande äldre”. dessa två.
+under rubriken Kultur för årsrika, bjöd in totalt 16
+musiker som framförde halvtimmeslånga program
+som sändes på vår Facebooksida. P4 Göteborg gjorde
+ett inslag innan och GP skrev om det under rubriken
+”Sensus sänder konserter för hemmasittande äldre”.
 Totalt blev det
+
+nio tillfällen som i dagsläget har haft cirka 10000 vis-
+ningar. Blandningen var stor, det var visprogram, gre-
+kisk musik, dans och diktläsning. Vi hade även allsång
+vid två tillfällen och det roligaste vi fick höra var nog
+att de på ett äldreboende berättade att de hade samlat
+alla i dagrummet (på behörigt avstånd såklart!) och
+gjort en gemensam allsångsstund av det.
+
+Med stor kärlek till kulturen
+Att Sensus är ett studieförbund med stor kärlek till
+kulturen och att vi kan ställa om fort lyckades vi även
+visa i december då vi på ganska kort varsel lyckades
+sända 16 korta kulturprogram på Facebooksidan Sen-
+sus Göteborg under namnet Kulturklappar. Vi bad fle-
+ra av de vi samverkar med att spela in när de framför
+något under 7-10 minuter. Det var allt från egenskriv-
+na låtar med bandet Landet till tejpkonst, Lina Ek-
+dahls dikter och Masthuggsteaterns egenproducerade
+julfilm med coronatema. Både Kultur för årsrika och
+Kulturklapparna finns fortsatt att se på Facebooksi-
+
+dan Sensus Göteborg och Sensus Youtubekanal.
+Att ”ställa in och ställa om” var ju två ledord förra
+året. För att lyckas vara ett studieförbund som stöttar
+kulturlivet så valde vi att endast göra det senare av
+dessa två.
 
 18 Sensus Västra Sverige Verksamheten 2020                                                                                     Sensus Västra Sverige Verksamheten 2020 19
 
@@ -12953,24 +13213,40 @@ Navigera  i det nya medielandskapet
 
 – en cirkel i digital marknadsföring
 
-ÅR 2019 HADE SVERIGES KONSTFÖRENINGAR digi- för att konstföreningarna skulle ha kunskaper att göra
-talisering som sitt tema. I det sammanhanget skrev en hemsida och delta i sociala medier. Vi startade en
-webbredaktören Mathias Jansson handledningen diskussion med Anna Brorson, Sensus, om att skapa
-Från papper till padda om konsten att navigera i det en studiecirkel i marknadsföring för konstförening-
-nya digitala landskapet för att synas bättre och hitta ar. Med hänsyn till pandemin blev det snabbt tal om
-nya medlemmar. Inom Göteborgsdistriktet ordnade digital cirkel via zoom. Sensus planerade och starta-
+ÅR 2019 HADE SVERIGES KONSTFÖRENINGAR digi-
+talisering som sitt tema. I det sammanhanget skrev
+webbredaktören Mathias Jansson handledningen
+Från papper till padda om konsten att navigera i det
+nya digitala landskapet för att synas bättre och hitta
+nya medlemmar. Inom Göteborgsdistriktet ordnade
+vi på hösten en utbildningsdag, där Mathias Jansson
 
-vi på hösten en utbildningsdag, där Mathias Jansson de upp en pilotutbildning under våren med deltagare
-föreläste utifrån sin handledning för ett 40-tal styrel- från både Göteborgs och Hallands distrikt, som blev
-seledamöter från konstföreningar inom hela Västra mycket uppskattad. Därmed hade studiecirkeln Na-
-Götaland. Det blev en bra genomgång av marknadsfö- vigera i det nya medielandskapet – en cirkel i digital
-ring, medielandskap och sociala medier. Under 2020 marknadsföring, kommit till och erbjöds till konstför-
-sjösatte Sveriges Konstföreningar sin nya hemsida, eningsledamöter. Under hösten deltog då 11 personer
-som då även gav möjligheten för anslutna konstfören- från olika konstföreningar från Västra Götaland och
-ingar att gratis få en egen hemsida. Vi såg behov av att Halland.
+föreläste utifrån sin handledning för ett 40-tal styrel-
+seledamöter från konstföreningar inom hela Västra
+Götaland. Det blev en bra genomgång av marknadsfö-
+ring, medielandskap och sociala medier. Under 2020
+sjösatte Sveriges Konstföreningar sin nya hemsida,
+som då även gav möjligheten för anslutna konstfören-
+ingar att gratis få en egen hemsida. Vi såg behov av att
 gå vidare mot mer praktiska kunskaper inom området
 
-18 Sensus Västra Sverige Verksamheten 2020         Sensus Västra Sverige Verksamheten 2020 19
+för att konstföreningarna skulle ha kunskaper att göra
+en hemsida och delta i sociala medier. Vi startade en
+diskussion med Anna Brorson, Sensus, om att skapa
+en studiecirkel i marknadsföring för konstförening-
+ar. Med hänsyn till pandemin blev det snabbt tal om
+digital cirkel via zoom. Sensus planerade och starta-
+de upp en pilotutbildning under våren med deltagare
+
+från både Göteborgs och Hallands distrikt, som blev
+mycket uppskattad. Därmed hade studiecirkeln Na-
+vigera i det nya medielandskapet – en cirkel i digital
+marknadsföring, kommit till och erbjöds till konstför-
+eningsledamöter. Under hösten deltog då 11 personer
+från olika konstföreningar från Västra Götaland och
+Halland.
+
+18 Sensus Västra Sverige Verksamheten 2020                                                                                     Sensus Västra Sverige Verksamheten 2020 19
 
 <!-- sida 346 -->
 
@@ -12982,31 +13258,51 @@ Kören Gaudium  använder sina röster för att stärka det goda i samhället. I
 
 oktober sändes konserten på Sensus Youtube-kanal.
 
-GAUDIUM är en Sensusansluten kör och använder av bröstcancer, antingen personligt eller som anhörig
-sina röster för att stärka det goda i samhället. eller vän. Vikten av att samla in medel till forskningen
-På körens initiativ bildades en projektgrupp där kör- poängterades särskilt.
-medlemmar, Bröstcancerföreningen Viola och Sen- Att få genomföra denna konsert i dessa tider var
-sus ingick. Planen var att genomföra en konsert med enormt viktigt. Engagemanget i kören har aldrig varit
-publik på plats men på grund av restriktioner kring så stort. Kören är djupt tacksam för att Sensus bidrog
+GAUDIUM är en Sensusansluten kör och använder
+sina röster för att stärka det goda i samhället.
+På körens initiativ bildades en projektgrupp där kör-
+medlemmar, Bröstcancerföreningen Viola och Sen-
+sus ingick. Planen var att genomföra en konsert med
+publik på plats men på grund av restriktioner kring
+pandemin beslutades det spela in konserten och sän-
 
-pandemin beslutades det spela in konserten och sän- så kraftfullt! Planen för hösten 2021 är en konsert till
-da den digitalt.                   förmån för psykisk ohälsa.
+da den digitalt.
 Konserten premiärsändes lördagen den 31 oktober
 20.00 på Sensus Youtube-kanal. Konsertprojektet vi-
-sade sig engagera stort. Sensus bidrog med kostnader WEBBSÄND
-för filmteam samt med personal och projektledning. KONSERT MED
-Även Borås stads kulturnämnd, Borås tidning och KÖREN GAUDIUM
-lokala företagare bidrog med kostnader kring arrang- TILL FÖRMÅN FÖR
+sade sig engagera stort. Sensus bidrog med kostnader
+för filmteam samt med personal och projektledning.
+Även Borås stads kulturnämnd, Borås tidning och
+lokala företagare bidrog med kostnader kring arrang-
 emanget,blommor, tyger och marknadsföringsmate-
+rial.
+Under den webbsända konserten klipptes olika ta-
+lare in som gav vittnesbörd om hur det är att drabbas
+
+av bröstcancer, antingen personligt eller som anhörig
+eller vän. Vikten av att samla in medel till forskningen
+poängterades särskilt.
+Att få genomföra denna konsert i dessa tider var
+enormt viktigt. Engagemanget i kören har aldrig varit
+så stort. Kören är djupt tacksam för att Sensus bidrog
+så kraftfullt! Planen för hösten 2021 är en konsert till
+
+förmån för psykisk ohälsa.
+
+WEBBSÄND
+KONSERT   MED
+KÖREN  GAUDIUM
+TILL FÖRMÅN FÖR
 BRÖSTCANCERFONDEN
-rial U . nder den webbsända konserten klipptes olika ta- P R E K M Ö IÄ R R E S N Ä G ND A S U d D 31 IU O M i K T I Bu K O L 2 R 0 Å m . S 0 0 O P C Å H Y O U T U B E U SE P N P S D U R S A .S G E : / S G Å A N U G DIUM
+P R E K M Ö IÄ R R E S N Ä G ND A S U d D 31 IU O M i K T I Bu K O L 2 R 0 Å m . S 0 0 O P C Å H Y O U T U B E U SE P N P S D U R S A .S G E : / S G Å A N U G DIUM
+
 u
 a
-lare in som gav vittnesbörd om hur det är att drabbas G
+G
 UNDER
 LEDNING AV
 CHARLOTTE
 BRORSSON TRELL
+
 INGEN KAN GÖRA ALLT MEN ALLA KAN GÖRA NÅGOT
 S
 INSA
@@ -13038,6 +13334,7 @@ FR .O
 U!
 MEDDELANDE: KONSERT 31 OKT
 DET ÄR SAMMA NR TILL BRÖSTCANCERFONDENS BANKGIRO
+
 Tack!
 Konserten var ett ett samarbete mellan Sensus, Bröstcancer-
 föreningen Viola, Svenska kyrkan i Borås och kören Gaudium
@@ -13048,11 +13345,13 @@ kyrkan i Borås som upplät Gustav Adolfskyrkan till inspelningen
 av konserten. Tack till er personal för all praktisk hjälp och ert
 engagemang. Insamlingen slutade på 20 000 kr.
 ⊲ youtube.com/sensusstudieforbund
+
 20 Sensus Västra Sverige Verksamheten 2020                                                                                     Sensus Västra Sverige Verksamheten 2020 21
 
 <!-- sida 347 -->
 
-Handsprit,  vädringspaus,  och  sociala avstånd
+Handsprit,  vädringspaus,   och sociala avstånd
+
 Allt för glädjen att få sjunga Kents älskade  låtar tillsammans
 
 INNAN PANDEMIN bröt ut hann
@@ -13062,71 +13361,114 @@ ter i egen regi på Världskulturmu-
 seet i december. I januari gjorde
 kören två klubbspelningar vid en
 utsåld Kentfest på Musikens hus i
+
 Majorna. Så i februari var det dags
 igen i Nordstan, vid ett event som
 uppmärksammade sällsynta diag-
 noser. Körens teckengrupp teckna-
-
 de till låtarna som framfördes för
 extra inkludering.
 
 Trådlös högtalare och avstånd
 Sedan kom corona. Körrepen fick
-bli digitala och de fortsatt ambitiö- ”körlinjalen” som mätte ut de före- relsen upp profilprylar för försälj-
-sa konsertplanerna lades på hyllan. skrivna två meter som var minsta ning. Nu har Kentkören hoodies,
-Lite senare under våren träffades avstånd mellan körsångarna. Allt zippers och vattenflaskor med
-mindre grupper utomhus runtom för glädjen att få sjunga Kents äls- trycket ”Kentkören Göteborg”.
-i staden och repade på ett smittsä- kade låtar tillsammans!
-kert sätt med en trådlös högtalare            Roliga och effektiva digitala rep
-och goda avstånd till varandra. De Ett virtuellt körframträdande När smittspridningen åter ökade
-elva personer som tidigare hade Konserter och framträdanden och hårdare restriktioner inför-
+bli digitala och de fortsatt ambitiö-
+sa konsertplanerna lades på hyllan.
+Lite senare under våren träffades
+mindre grupper utomhus runtom
 
-ordnat konserter ägnade nu tiden kunde såklart inte hållas men kö- des slutade Kentkören att träffas
-åt att bilda en förening och en sty- ren bestämde sig för att utmana fysiskt. Efter några veckors uppe-
-relse. När sommaruppehållet kom sig själva med ett virtuellt kör- håll började återigen de digitala
-föddes så föreningen Järnspöken framträdande. Ett femtiotal kör- repetitioner och styrelsen åter-
-Event som arbetar med hela kö- medlemmar spelade in sig själva upptog planerna för roligare och
-rens verksamhet och samarbetet därhemma. Valet föll på ”På drift?” effektivare digitala rep. Repertoa-
-med Sensus inleddes.   som antimobbing-organisationen ren byggdes ut med flera av Tobias
-Styrelsen var fast besluten att Friends har använt. Alla filme- Ljungmans fina körarrangemang
-hitta ett sätt att repetera med fy- na sattes ihop till en konsert som och en ny låt hamnade i kör-appen
-siska träffar på ett säkert sätt. Kö- släpptes den 23 december som en We Are Voice.
-ren delades in i tre mindre grupper julklapp till kören och alla Kent- Och långt framme vid pande-
-och varje körövning var en tredje- fans.      mins horisont finns nya spännande
-del av kören med på plats med- För att mera påtagligt visa för konsertplaner!
+i staden och repade på ett smittsä-
+kert sätt med en trådlös högtalare
+och goda avstånd till varandra. De
+elva personer som tidigare hade
+ordnat konserter ägnade nu tiden
+åt att bilda en förening och en sty-
+relse. När sommaruppehållet kom
+föddes så föreningen Järnspöken
+Event som arbetar med hela kö-
+rens verksamhet och samarbetet
+med Sensus inleddes.
+Styrelsen var fast besluten att
+hitta ett sätt att repetera med fy-
 
-an de andra repade hemma via en varandra att vi finns, så tryckte sty-
+siska träffar på ett säkert sätt. Kö-
+ren delades in i tre mindre grupper
+och varje körövning var en tredje-
+del av kören med på plats med-
+an de andra repade hemma via en
 livesändning i en sluten Facebook-
 grupp. Folkhälsomyndighetens re-
-Om Kentkören
 kommendationer för körer följdes
-Körens föreningsnamn Järnspöken Event kommer från en kentlåt och Järntorget i
 minutiöst. Det var bestämda plat-
-Göteborg som är körstyrelsens ankarplats.
 ser, handsprit, vädringspaus, soci-
+ala avstånd och rutiner för in- och
+utpassering. En återkommande
+syn vid varje ”tvåmetersrep” var
+
+20 Sensus Västra Sverige Verksamheten 2020
+
+”körlinjalen” som mätte ut de före-
+skrivna två meter som var minsta
+avstånd mellan körsångarna. Allt
+för glädjen att få sjunga Kents äls-
+kade låtar tillsammans!
+
+Ett virtuellt körframträdande
+
+Konserter och framträdanden
+kunde såklart inte hållas men kö-
+ren bestämde sig för att utmana
+sig själva med ett virtuellt kör-
+framträdande. Ett femtiotal kör-
+medlemmar spelade in sig själva
+därhemma. Valet föll på ”På drift?”
+som antimobbing-organisationen
+Friends har använt. Alla filme-
+na sattes ihop till en konsert som
+släpptes den 23 december som en
+julklapp till kören och alla Kent-
+fans.
+
+För att mera påtagligt visa för
+varandra att vi finns, så tryckte sty-
+
+relsen upp profilprylar för försälj-
+ning. Nu har Kentkören hoodies,
+zippers och vattenflaskor med
+trycket ”Kentkören Göteborg”.
+
+Roliga och effektiva digitala rep
+När smittspridningen åter ökade
+
+och hårdare restriktioner inför-
+des slutade Kentkören att träffas
+fysiskt. Efter några veckors uppe-
+håll började återigen de digitala
+repetitioner och styrelsen åter-
+upptog planerna för roligare och
+effektivare digitala rep. Repertoa-
+ren byggdes ut med flera av Tobias
+Ljungmans fina körarrangemang
+och en ny låt hamnade i kör-appen
+We Are Voice.
+Och långt framme vid pande-
+mins horisont finns nya spännande
+
+konsertplaner!
+
+Om Kentkören
+Körens föreningsnamn Järnspöken Event kommer från en kentlåt och Järntorget i
+Göteborg som är körstyrelsens ankarplats.
 Kentkören startade 2018 och sjunger förstås enbart låtar av bandet kent.
-ala avstånd och rutiner för in- och Kentkören är en gehörs-kör och använder kör-appen We Are Voice.
-utpassering. En återkommande Under höstterminen 2020 hade kören 82 medlemmar.
-syn vid varje ”tvåmetersrep” var Ansvarig körledare Tobias Ljungman, biträdande Elin Andersson.
-20 Sensus Västra Sverige Verksamheten 2020         Sensus Västra Sverige Verksamheten 2020 21
+Kentkören är en gehörs-kör och använder kör-appen We Are Voice.
+Under höstterminen 2020 hade kören 82 medlemmar.
+Ansvarig körledare Tobias Ljungman, biträdande Elin Andersson.
+
+Sensus Västra Sverige Verksamheten 2020 21
 
 <!-- sida 348 -->
 
-Om Skrönor och skrän
-Möjliggjordes av medel från Västra Götalandsregionen
-Spelades i: Mellerud, Dals-Ed, Bengtsfors och Årjäng
-Medverkande: Lisbeth Johansson och Carita Jonsson
-Oknytt: Små övernaturliga väsen i skandinavisk folktro.
-Deras karaktär växlar, men en viss illvilja och lust till rackartyg
-dominerar. (Wikipedia)
-Se mer på facebook.com/sensusdalsland
-22 Sensus Västra Sverige Verksamheten 2020                                                                                    Sensus Västra Sverige Verksamheten 2020 23
-nossnahoJ
-htebsiL
-hco
-nossnoJ
-atiraC
 Skrönor        och    skrän
+
 EFTER EN MINST SAGT tuff och trist livekulturvår
 med en abrupt nedstängning skapades plötsligt en
 öppning i oktober. Skrönor och skrän, en musikalisk
@@ -13136,6 +13478,7 @@ skulle ut på turné och möta publik.
 – Det kändes jätteroligt att kunna göra detta, säger
 Irene Malmberg, Sensus. Det här var en annorlunda
 folkloristisk berättelse och den ville vi ha hit till Dals-
+
 land.
 Turnén planerades av Irene tillsammans med de två
 medverkande Lisbeth och Carita. 1 oktober spelades
@@ -13167,6 +13510,17 @@ möjligt igen att möta publiken.
 platser i naturen. Det är ju mötet som är grejen, att
 spela för människor och inte mist pratet med dem
 efteråt.
+Om Skrönor och skrän
+Möjliggjordes av medel från Västra Götalandsregionen
+Spelades i: Mellerud, Dals-Ed, Bengtsfors och Årjäng
+Medverkande: Lisbeth Johansson och Carita Jonsson
+Oknytt: Små övernaturliga väsen i skandinavisk folktro.
+Deras karaktär växlar, men en viss illvilja och lust till rackartyg
+dominerar. (Wikipedia)
+Se mer på facebook.com/sensusdalsland
+22 Sensus Västra Sverige Verksamheten 2020                                                                                    Sensus Västra Sverige Verksamheten 2020 23
+
+Carita Jonsson och Lisbeth Johansson
 
 <!-- sida 349 -->
 
@@ -13237,9 +13591,9 @@ andra tillfälle beslutade vi att köra kursen digitalt,
 så det blev nödvändigt för mig att gå en snabbkurs
 i Zoom. Jag fick hjälp av Sensus att lära mig det ab-
 solut nödvändigaste till dagen därpå. Några hade
+
 väldigt svårt att koppla upp sig men jag hade hjälp av
 Sensus under kvällen och snart var vi igång.
-
 Det var en som kände sig osäker och tyckte det var
 för svårt. Hon beslutade sig för att avstå kursen, vil-
 ket jag tyckte var väldigt tråkigt, men några dagar
@@ -13249,35 +13603,64 @@ prova vid nästa tillfälle.
 sus nödvändig för att jag skulle kunna hålla kurser-
 na. Kurstillfällena blev väldigt viktiga för deltagar-
 na eftersom flera av dem satt i karantän på grund
-av sådant som ålder och ökad risk att bli svårt sjuk i Ulrika Jannert Kallenberg hade precis kommit igång med en
-covid-19.                          skrivarkurs när pandemin bröt ut.
+av sådant som ålder och ökad risk att bli svårt sjuk i
+covid-19.
+
 – När det gäller mitt eget ledarskap så tyckte jag
-inte att jag lyckade så bra första gången. Jag var gan- kande från några som åt. Men till nästa gång hade
+inte att jag lyckade så bra första gången. Jag var gan-
+ska stressad över tekniken och tänkte inte på att be
+deltagarna att slå av mikrofonen när de inte pratade.
+Det resulterade i att det blev väldigt mycket oönska-
+de ljud, såsom hundar som skällde, prassel och smas-
 
-ska stressad över tekniken och tänkte inte på att be jag lärt mig att lägga in matpauser samt förklarat hur
-deltagarna att slå av mikrofonen när de inte pratade. man sätter på och stänger av mikrofonen, och då blev
-Det resulterade i att det blev väldigt mycket oönska- kursen riktigt bra! Vi hade jätteroligt och skrattade
-de ljud, såsom hundar som skällde, prassel och smas- massor.
+Skriv brev, dela upplevelse
 
-Skriv brev, dela upplevelse        Brevkurs
+NÄR PANDEMIN SLOG TILL lades det stor vikt vid att
+kunna fortsätta folkbildningen digitalt. Det kändes
+viktigt att fortsätta folkbilda även där möjligheten
 
-NÄR PANDEMIN SLOG TILL lades det stor vikt vid att VART TAR HOPPET OCH GLÄDJEN VÄGEN i pandemi-
-kunna fortsätta folkbildningen digitalt. Det kändes tiderna? Detta var frågan som den digitala brevkur-
-viktigt att fortsätta folkbilda även där möjligheten sen utgick ifrån. Finns det någon inspiration att få?
-inte fanns att delta digitalt. Idén till cirkeln ”Skriv Britt-Marie Hjertén, präst i Skara församling höll en
-brev, dela upplevelse” växte fram. Under våren träf- brevkurs med deltagare från hela Skaraborg asyn-
+inte fanns att delta digitalt. Idén till cirkeln ”Skriv
+brev, dela upplevelse” växte fram. Under våren träf-
+fades deltagare fysiskt och coronaanpassat och under
+hösten fick man fortsätta cirkeln asynkront. Deltagar-
+na fick rubriker och skrev hemma för att sedan mötas
+(så länge det var möjligt) och läsa sina texter. Cirkeln
+avslutades med att de som ville deltog i en gudstjänst
+och skrev en berättelse med stöd av söndagens text.
+När cirkeln var avslutad skickades materialet till
+Margareta Vintfjärd, Sensus, som gjorde ett kompen-
+dium av berättelserna som sedan postades till dem.
 
-fades deltagare fysiskt och coronaanpassat och under kront under hösten.
-hösten fick man fortsätta cirkeln asynkront. Deltagar- Alla träffarna i brevkursen utgick från Filipperbre-
-na fick rubriker och skrev hemma för att sedan mötas vet och Paulus utrop ”Gläd er!” Där ställdes frågor-
-(så länge det var möjligt) och läsa sina texter. Cirkeln na ”Hur kan han skriva så? Vad har han att glädjas åt
-avslutades med att de som ville deltog i en gudstjänst som sitter fängslad under den kamp som den tidiga
-och skrev en berättelse med stöd av söndagens text. kyrkan hade? Blir Paulus uppmaning eller en provo-
-När cirkeln var avslutad skickades materialet till kation?” Brevkursen pågick under fem träffar som
-Margareta Vintfjärd, Sensus, som gjorde ett kompen- alla behandlade olika frågeställning utifrån Filipper-
-dium av berättelserna som sedan postades till dem. brevets innehåll.
+24 Sensus Västra Sverige Verksamheten 2020
 
-24 Sensus Västra Sverige Verksamheten 2020         Sensus Västra Sverige Verksamheten 2020 25
+Ulrika Jannert Kallenberg hade precis kommit igång med en
+skrivarkurs när pandemin bröt ut.
+
+kande från några som åt. Men till nästa gång hade
+jag lärt mig att lägga in matpauser samt förklarat hur
+man sätter på och stänger av mikrofonen, och då blev
+kursen riktigt bra! Vi hade jätteroligt och skrattade
+massor.
+
+Brevkurs
+
+VART TAR HOPPET OCH GLÄDJEN VÄGEN i pandemi-
+tiderna? Detta var frågan som den digitala brevkur-
+sen utgick ifrån. Finns det någon inspiration att få?
+Britt-Marie Hjertén, präst i Skara församling höll en
+brevkurs med deltagare från hela Skaraborg asyn-
+kront under hösten.
+Alla träffarna i brevkursen utgick från Filipperbre-
+vet och Paulus utrop ”Gläd er!” Där ställdes frågor-
+na ”Hur kan han skriva så? Vad har han att glädjas åt
+
+som sitter fängslad under den kamp som den tidiga
+kyrkan hade? Blir Paulus uppmaning eller en provo-
+kation?” Brevkursen pågick under fem träffar som
+alla behandlade olika frågeställning utifrån Filipper-
+brevets innehåll.
+
+Sensus Västra Sverige Verksamheten 2020 25
 
 <!-- sida 352 -->
 
@@ -13286,358 +13669,658 @@ Allt   från    sårsminkning           och
 filmproduktion            till personlig       utveckling
 
 Leena Larsson, verksamhetsutvecklare på Sensus pratar Filmkollo och
-Rubrik 1B Voice Camp med verksamhetsledare Ronnie Brolin
+Rubrik       1B                      Voice Camp med verksamhetsledare Ronnie Brolin
 
-NÄR SOMMAREN GRÖNSKAR som allra vackrast, då för de unga medverkande, i form av social kompetens
-Cepudae vid moluptamet harum barn och ungdomar har sommarlovet framför sig, och personlig utveckling. Filmprojekten vi arbetade
-börjar det sjuda av liv och aktiviteter på en mindre ort med sträckte sig över ett par år och vi funderade på
+NÄR SOMMAREN GRÖNSKAR som allra vackrast, då
+Cepudae vid moluptamet harum         barn och ungdomar har sommarlovet framför sig,
+börjar det sjuda av liv och aktiviteter på en mindre ort
 faceatium rem que opta posae aut
-i Skaraborg. En bit ut på landet finns en spännande om det skulle gå att göra i mindre skala och då utfor-
+i Skaraborg. En bit ut på landet finns en spännande
 expedion conecat quiatqui vendi
-plats för unga människor som tillsammans med an- mades koncepten för Filmkollo och Voice Camp. Vi
-dundae et dra vill lära sig mer om sina stora intressen inom film har arrangerat läger varje sommar sedan 2010 och
-och sång. Tillsammans vill de lära sig nya saker och få har nu haft drygt 3 700 deltagare.
-ingå i en social sammanhållning där Ansvar, Delak- Det är så verksamhetsledare Ronnie Brolin beskri-
-tighet och Respekt är ledorden. Det är föreningen In- ver för mig hur resan började för föreningen Inven-
-ventums ledord. Föreningen är arrangör av läger med tum, som idag arrangerar veckolånga läger på som-
-inriktning film och sång och Sensus är, enligt fören- marlovet, för ungdomar 10-17 år. Det är i Främmestad,
-ingens verksamhetsledare, en värdefull samverkans- Essunga kommun det händer. Ronnie berättar vidare
-part. Det är med stolthet vi är det! Här berättar vi om att vid genomförandet av ett Filmkollo bildas mindre
-en verksamhet som gick att genomföra även somma- grupper där deltagarna lär sig allt om att göra egna
-ren 2020, trots årets stora utmaningar. filmer.
-\- Vår resa började med ett intresse för filmskapan- - De lär sig allt de behöver kunna inom filmpro-
-de kopplat till de positiva effekter ett filmprojekt får duktion, sårsminkning, regi, skådespeleri och inspel-
+plats för unga människor som tillsammans med an-
+dundae et                            dra vill lära sig mer om sina stora intressen inom film
+och sång. Tillsammans vill de lära sig nya saker och få
+ingå i en social sammanhållning där Ansvar, Delak-
+tighet och Respekt är ledorden. Det är föreningen In-
+ventums ledord. Föreningen är arrangör av läger med
+inriktning film och sång och Sensus är, enligt fören-
+ingens verksamhetsledare, en värdefull samverkans-
+part. Det är med stolthet vi är det! Här berättar vi om
+en verksamhet som gick att genomföra även somma-
+ren 2020, trots årets stora utmaningar.
+\- Vår resa började med ett intresse för filmskapan-
+de kopplat till de positiva effekter ett filmprojekt får
+
+för de unga medverkande, i form av social kompetens
+och personlig utveckling. Filmprojekten vi arbetade
+med sträckte sig över ett par år och vi funderade på
+om det skulle gå att göra i mindre skala och då utfor-
+mades koncepten för Filmkollo och Voice Camp. Vi
+har arrangerat läger varje sommar sedan 2010 och
+har nu haft drygt 3 700 deltagare.
+
+Det är så verksamhetsledare Ronnie Brolin beskri-
+ver för mig hur resan började för föreningen Inven-
+tum, som idag arrangerar veckolånga läger på som-
+marlovet, för ungdomar 10-17 år. Det är i Främmestad,
+Essunga kommun det händer. Ronnie berättar vidare
+att vid genomförandet av ett Filmkollo bildas mindre
+grupper där deltagarna lär sig allt om att göra egna
+filmer.
+\- De lär sig allt de behöver kunna inom filmpro-
+duktion, sårsminkning, regi, skådespeleri och inspel-
+
 26 Sensus Västra Sverige Verksamheten 2020                                                                                    Sensus Västra Sverige Verksamheten 2020 27
 
 <!-- sida 353 -->
 
-ning i vår filmstudio, för att nå målet. Lägret håller och förväntningarna på oss, blir jag glad av svaret
-på i en vecka, söndag till lördag, och avslutas med en som sätter igång tankar och utmanar oss på hur vi på
-filmpremiär tillsammans med deltagarnas familjer, bästa sätt kan ta samarbetet vidare, inte minst inom
+ning i vår filmstudio, för att nå målet. Lägret håller
+på i en vecka, söndag till lördag, och avslutas med en
+filmpremiär tillsammans med deltagarnas familjer,
+där alla filmer visas och vi berättar vad vi gjort under
+veckan. Ronnie berättar vidare att Voice Camp har
+liknande upplägg fast med sången och rösten i fokus.
 
-där alla filmer visas och vi berättar vad vi gjort under ledarutveckling.
-veckan. Ronnie berättar vidare att Voice Camp har - Folkbildning för oss är nyfikenhet, lärande uti-
-liknande upplägg fast med sången och rösten i fokus. från viljan att lära sig, där individens kunskap nöd-
-vändigtvis inte behöver komma från traditionella
-Det är kombinationen som gör helheten utbildningssystemet utan lika gärna kan vara inhäm-
-När jag frågar om ungdomarna har ett engagemang tad utifrån engagemang och livserfarenhet, utan att
-i föreningen efter att de medverkat på läger berättar för den delen vara mindre värd. Våra läger innehåll-
-Ronnie att flera fortsätter engagera sig i föreningen. er både föreläsningar och praktiska workshops såväl
-\- De är då ungdomar som delar vår bild av lika som mer traditionell folkbildning där deltagarna i
-delar intresse för filmen/sången och det estetiska, grupp inhämtar kunskap och diskuterar sig fram för
-som värdet av upplevelsen och vikten av den sociala att tillsammans skapa en film utifrån sina egna för-
-sammanhållningen. Det är kombinationen som gör utsättningar. När vi var nystartade gav Sensus oss en
-helheten och vår verksamhet skulle inte vara bra om bra grund med sin ledarutbildning, det vidgade vårt
+Det är kombinationen som gör helheten
 
-vi bara fokuserade på en av dem. Majoriteten av våra tankesätt. Vi är glada att Sensus varit med oss på hela
-ledare är tidigare deltagare och den som varit hos oss resan och ser fram emot ett fortsatt samarbete. Då
-längst har varit ledare i 9 år och dessförinnan deltaga- verksamheten växer och vi nu har fler ledare varje år
-re under två somrar.”              ökar behovet av ledarutbildning vilket vi hoppas att
-På min fråga till föreningen om framgångar väljer Sensus kan hjälpa till med.”
+När jag frågar om ungdomarna har ett engagemang
+i föreningen efter att de medverkat på läger berättar
+Ronnie att flera fortsätter engagera sig i föreningen.
+\- De är då ungdomar som delar vår bild av lika
+delar intresse för filmen/sången och det estetiska,
+som värdet av upplevelsen och vikten av den sociala
+sammanhållningen. Det är kombinationen som gör
+helheten och vår verksamhet skulle inte vara bra om
+vi bara fokuserade på en av dem. Majoriteten av våra
+ledare är tidigare deltagare och den som varit hos oss
+längst har varit ledare i 9 år och dessförinnan deltaga-
+re under två somrar.”
+
+På min fråga till föreningen om framgångar väljer
 Ronnie att bland annat lyfta fram föreningens ledord.
-\- Vi är bra på att skapa aktiviteter som sätter Från Filmkollo och Voicecamp till Idol och Drama-
-människan i centrum, lyfta fram individer och skapa ten
-sammanhållning utifrån våra ledord Ansvar, Delak- Avslutningsvis frågar jag föreningen vad som är ro-
-tighet och Respekt. Vi har valt att inte dela upp lägren ligast just nu och uppmuntrar dem att lyfta fram en
-efter ålder på deltagarna utan välkomnar alla 10-17 år, framgångssaga eller två. Det finns mycket att vara
-där de flesta är 11-15 år. När de arbetar i sina filmgrup- stolt över tänker jag när Ronnie berättar om det sto-
-per är de fördelade efter ålder men de flesta aktivi- ra lägerintresset trots pandemin och om framgångar
+\- Vi är bra på att skapa aktiviteter som sätter
+människan i centrum, lyfta fram individer och skapa
+sammanhållning utifrån våra ledord Ansvar, Delak-
+tighet och Respekt. Vi har valt att inte dela upp lägren
+efter ålder på deltagarna utan välkomnar alla 10-17 år,
+där de flesta är 11-15 år. När de arbetar i sina filmgrup-
+per är de fördelade efter ålder men de flesta aktivi-
+teter sker i helgrupp. Det skapar en dynamisk grupp
+vilket fungerar mycket bra.
+Förutom framgångarna finns det självklart även
+utmaningar, inte minst under 2020 och så här reflek-
 
-teter sker i helgrupp. Det skapar en dynamisk grupp inom film och musik.
-vilket fungerar mycket bra.          - Intresset för våra läger håller i sig och vi ser ett
-Förutom framgångarna finns det självklart även stort behov i samhället av vår verksamhet. Under
-utmaningar, inte minst under 2020 och så här reflek- dessa pandemiår kommer antalet deltagare vara lägre
-terar föreningen om lägersommaren 2020 och inför än normalt, men i takt med att samhället återhäm-
-2021\.                              tar sig kommer vår verksamhet återigen att växa. Vi
-\- Efter en rad åtgärder kunde vi genomföra lägren förbereder oss på att ta emot deltagare och utvecklar
-under sommaren 2020 på ett säkert sätt och vi hopp- våra aktiviteter så att verksamheten blir än bättre.
-as att sommaren 2021 ska fungera lika bra. Det känns Flera av våra tidigare deltagare och ledare arbetar
-som att utmaningarna som just nu tar upp tiden bara idag inom film- och musikbranschen. En tidigare Voi-
-är kopplade till pandemin men utöver det är det hela ce Camp-deltagare vann Idol 2019 och flera Film-
-tiden ett utvecklingsarbete kring upplägg/aktiviteter, kollodeltagare kan man se i olika biofilmer, serier och
-utbildning och sammansättning av personalgrupper uppsättningar på Dramaten. Filmskaparen Casper
-
-och ledare. Med potentiellt 18 läger och 700 deltaga- Thor, deltagare på Filmkollo under flera somrar och
-re per lägersommar är det mycket förberedelser med som nu är ledare sedan några år tillbaka, vann 2020
-personal och leverantörer av mat, teknik, lokaler med Frame Filmfestival i sin åldersklass med sin kortfilm:
-mera.                              "Var är Bosse?”
+terar föreningen om lägersommaren 2020 och inför
+2021\.
+\- Efter en rad åtgärder kunde vi genomföra lägren
+under sommaren 2020 på ett säkert sätt och vi hopp-
+as att sommaren 2021 ska fungera lika bra. Det känns
+som att utmaningarna som just nu tar upp tiden bara
+är kopplade till pandemin men utöver det är det hela
+tiden ett utvecklingsarbete kring upplägg/aktiviteter,
+utbildning och sammansättning av personalgrupper
+och ledare. Med potentiellt 18 läger och 700 deltaga-
+re per lägersommar är det mycket förberedelser med
+personal och leverantörer av mat, teknik, lokaler med
+mera.
 
 Sensus och folkbildningen
 När jag ställer frågor till föreningen som handlar om
 vad folkbildning är för dom, hur de använder folk-
 bildningen i sitt arbete och kring Sensus betydelse
 
-26 Sensus Västra Sverige Verksamheten 2020         Sensus Västra Sverige Verksamheten 2020 27
+26 Sensus Västra Sverige Verksamheten 2020
+
+och förväntningarna på oss, blir jag glad av svaret
+som sätter igång tankar och utmanar oss på hur vi på
+bästa sätt kan ta samarbetet vidare, inte minst inom
+ledarutveckling.
+\- Folkbildning för oss är nyfikenhet, lärande uti-
+från viljan att lära sig, där individens kunskap nöd-
+vändigtvis inte behöver komma från traditionella
+
+utbildningssystemet utan lika gärna kan vara inhäm-
+tad utifrån engagemang och livserfarenhet, utan att
+för den delen vara mindre värd. Våra läger innehåll-
+er både föreläsningar och praktiska workshops såväl
+som mer traditionell folkbildning där deltagarna i
+grupp inhämtar kunskap och diskuterar sig fram för
+att tillsammans skapa en film utifrån sina egna för-
+utsättningar. När vi var nystartade gav Sensus oss en
+bra grund med sin ledarutbildning, det vidgade vårt
+tankesätt. Vi är glada att Sensus varit med oss på hela
+resan och ser fram emot ett fortsatt samarbete. Då
+verksamheten växer och vi nu har fler ledare varje år
+ökar behovet av ledarutbildning vilket vi hoppas att
+
+Sensus kan hjälpa till med.”
+
+Från Filmkollo och Voicecamp till Idol och Drama-
+ten
+Avslutningsvis frågar jag föreningen vad som är ro-
+ligast just nu och uppmuntrar dem att lyfta fram en
+framgångssaga eller två. Det finns mycket att vara
+stolt över tänker jag när Ronnie berättar om det sto-
+ra lägerintresset trots pandemin och om framgångar
+inom film och musik.
+\- Intresset för våra läger håller i sig och vi ser ett
+stort behov i samhället av vår verksamhet. Under
+dessa pandemiår kommer antalet deltagare vara lägre
+
+än normalt, men i takt med att samhället återhäm-
+tar sig kommer vår verksamhet återigen att växa. Vi
+förbereder oss på att ta emot deltagare och utvecklar
+våra aktiviteter så att verksamheten blir än bättre.
+Flera av våra tidigare deltagare och ledare arbetar
+idag inom film- och musikbranschen. En tidigare Voi-
+ce Camp-deltagare vann Idol 2019 och flera Film-
+kollodeltagare kan man se i olika biofilmer, serier och
+uppsättningar på Dramaten. Filmskaparen Casper
+Thor, deltagare på Filmkollo under flera somrar och
+som nu är ledare sedan några år tillbaka, vann 2020
+Frame Filmfestival i sin åldersklass med sin kortfilm:
+"Var är Bosse?”
+
+Sensus Västra Sverige Verksamheten 2020 27
 
 <!-- sida 354 -->
 
-Kreativ       lek   för    vuxna       –
+Kreativ       lek   för   vuxna        –
 
-en   grupp       som     lever    upp     till  namnet
+en   grupp      som      lever    upp     till  namnet
 
 Vad gör man i en Sensus-cirkel som heter Kreativ lek för vuxna när
-pandemin  slår till med full kraft i mars 2020? Agneta Arpi berätt ar.
 
-UNDER FLERA ÅR har vi, ett tio- ser (Kajsa), 2 april: Dramatisera till det vanliga. Det gick inte över.
-tal kvinnor, pensionärer, haft vår en litterär text (Gunilla), 16 april: Det blev värre. Då bestämde vi att
-verksamhet på Frivilligcentralen Måleri och dikt (Carin) 23 april: göra vissa av våra programpunk-
-Oscar på Linnégatan i centrala Improvisationsteater (Agneta E), ter utomhus, exempelvis dramaöv-
-Göteborg. Varje torsdag mellan 30 april: Improvisation och berät- ningar, berättarövningar, gympa,
-10 och 12.15 har vi träff ats sedan tarövningar (Agneta A), 7 maj: Vi meditation, sång samt skrivande
-2015\. Jag, Agneta, står som led- sjunger (Gunilla) 14 maj: Medita- passade ganska bra att göra utom-
-are, håller i det byråkratiska och tion (Ingrid). hus, medan måleri och vissa tea-
-det praktiska, fyller i listor, skriver Så vad skulle vi göra när vi terövningar passade bäst inomhus.
+pandemin slår till med full kraft i mars 2020? Agneta Arpi berätt ar.
 
-rapporter, håller koll på deltagar- inte längre fi ck träff as inomhus i Vi hittade också på nya program-
-na. Dock planerar vi tillsammans de lokaler vi var vana vid och där punkter under vår, sommar och
-all verksamhet och alla deltagar- vi hade material till måleri och höst. Bland annat bekantade vi
-na turas om att leda, även jag. Vi rekvisita till dramaövningar? Efter oss med många träd, buskar och
-är bra på olika saker. Så här såg ett par trevande veckor bestämde blommor och vi lärde känna delar
-vårt planerade program ut, en del vi att träff as utomhus. Första träf- av Göteborg där fl era av oss aldrig
-av våren 2020, från 12 mars till 14 fen gick vi i Botaniska trädgården tidigare varit.
-maj: 12 mars: Drömtolkning (Eli- och pratade om hur konstigt allt Vi lärde oss således det mesta
-sabeth), 19 mars: Lek och massage hade blivit men att det nog snart om Axel Dahlströms torg och Hög-
-(My), 26 mars: Sagor och berättel- var över och att livet skulle återgå sbotorp och beundrade väggmo-
+UNDER FLERA ÅR har vi, ett tio-
+tal kvinnor, pensionärer, haft vår
+verksamhet på Frivilligcentralen
+Oscar på Linnégatan i centrala
+Göteborg. Varje torsdag mellan
+10 och 12.15 har vi träff ats sedan
+2015\. Jag, Agneta, står som led-
 
-2288 SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200                                               SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200 2299
+are, håller i det byråkratiska och
+det praktiska, fyller i listor, skriver
+rapporter, håller koll på deltagar-
+na. Dock planerar vi tillsammans
+all verksamhet och alla deltagar-
+na turas om att leda, även jag. Vi
+är bra på olika saker. Så här såg
+vårt planerade program ut, en del
+av våren 2020, från 12 mars till 14
+maj: 12 mars: Drömtolkning (Eli-
+sabeth), 19 mars: Lek och massage
+(My), 26 mars: Sagor och berättel-
+
+ser (Kajsa), 2 april: Dramatisera
+en litterär text (Gunilla), 16 april:
+Måleri och dikt (Carin) 23 april:
+Improvisationsteater (Agneta E),
+30 april: Improvisation och berät-
+tarövningar (Agneta A), 7 maj: Vi
+sjunger (Gunilla) 14 maj: Medita-
+
+tion (Ingrid).
+Så vad skulle vi göra när vi
+inte längre fi ck träff as inomhus i
+de lokaler vi var vana vid och där
+vi hade material till måleri och
+rekvisita till dramaövningar? Efter
+ett par trevande veckor bestämde
+vi att träff as utomhus. Första träf-
+fen gick vi i Botaniska trädgården
+och pratade om hur konstigt allt
+hade blivit men att det nog snart
+var över och att livet skulle återgå
+
+2288 SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200
+
+till det vanliga. Det gick inte över.
+Det blev värre. Då bestämde vi att
+göra vissa av våra programpunk-
+ter utomhus, exempelvis dramaöv-
+ningar, berättarövningar, gympa,
+meditation, sång samt skrivande
+passade ganska bra att göra utom-
+
+hus, medan måleri och vissa tea-
+terövningar passade bäst inomhus.
+Vi hittade också på nya program-
+punkter under vår, sommar och
+höst. Bland annat bekantade vi
+oss med många träd, buskar och
+blommor och vi lärde känna delar
+av Göteborg där fl era av oss aldrig
+tidigare varit.
+Vi lärde oss således det mesta
+om Axel Dahlströms torg och Hög-
+sbotorp och beundrade väggmo-
+
+SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200 2299
 
 <!-- sida 355 -->
 
-2288 SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200 SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200 2299
-iprA
-atengA
-saiken, Marmorintarsia, av Endre klockan åtta på morgonen i en
-Nemes och verket Ur väggen som gångtunnel vid Karl Johansga-
-står på torget. Vi vet nu vem Axel tan för att fi ra vintersolståndet. Vi
-Dahlström var och varför gatorna gick tillsammans i mörkret, och
-runt torget bär namn som har med tittade på de otaliga ljusen. Vid
-pengar att göra. Vi gick till Torpa den lilla stranden strax bortom
-damm genom Högsbohöjd och åt Röda sten stannade vi och sjöng
-vår medhavda matsäck vid dam- julsånger, vi begravde det gam-
-men och upptäckte ett bokskåp la och tråkiga och mörka under
-där man får ta eller låna böcker. stenarna på stranden och tog fram
+saiken, Marmorintarsia, av Endre
+Nemes och verket Ur väggen som
+står på torget. Vi vet nu vem Axel
+Dahlström var och varför gatorna
+runt torget bär namn som har med
+pengar att göra. Vi gick till Torpa
+damm genom Högsbohöjd och åt
+
+vår medhavda matsäck vid dam-
+men och upptäckte ett bokskåp
+där man får ta eller låna böcker.
 En annan gång gick vi till Opaltor-
-"Vad  som  varit extra  viktigt för mig  är
 get och lärde känna Tynnered och
 Tynneredsskogen, där vi aldrig
-att kunna   hänga   upp  varje vecka  – hur
 tidigare varit. Till Mölndal tog
-vi oss på ett ganska coronasä- trist veckan än varit – på torsdagarna.
+vi oss på ett ganska coronasä-
 kert sätt, i bil, med munskydd och
-Rundorna    och  promenader.    Fysisk
 vandrade runt den fi na sjön Hor-
-sikan. På hemvägen stannade vi i distans men inte social distans."
+sikan. På hemvägen stannade vi i
 Kvarnbyn i Mölndal och där fanns
-också väldigt spännande gammal våra önskningar för det nya året.
-historia att lära mer om. Nu är det 2021 och vi är igång
-Tjolöholms slott har vi be- igen. Sedan i höstas har vi också
-sökt och vandrat i dess närhet, en digital mötesplats, där vi pla-
-längs havet. Norra promenaden på nerar våra aktiviteter och utbyter
-Vrångö har vi gått, en vacker sep- tankar om det som rör vår grupp.
-temberdag, då de modigaste av oss Varje tisdag förmiddag möts vi
-äldre damer badade i havet. i det digitala rummet. Det är ett
-Radiotorget och Säröbanan, bra komplement till det som är
-järnvägen som lades ner 1965, och vår huvudsakliga passion: Att
-som gick mellan Linnéplatsen leka, sjunga, improvisera och
-och Särö, vet vi det mesta om. För vandra IRL.
+också väldigt spännande gammal
+
+historia att lära mer om.
+Tjolöholms slott har vi be-
+sökt och vandrat i dess närhet,
+längs havet. Norra promenaden på
+Vrångö har vi gått, en vacker sep-
+temberdag, då de modigaste av oss
+äldre damer badade i havet.
+Radiotorget och Säröbanan,
+järnvägen som lades ner 1965, och
+som gick mellan Linnéplatsen
+och Särö, vet vi det mesta om. För
 att inte tala om Dr Fries torg och
-Guldhedsdalen! Så nära och tidi- Kram från fröken A
-gare så obekanta platser. Många Efter varje träff skriver den som
-gånger satt vi dock stilla, om väd- har varit ledare en rapport och no-
-ret tillät, på ”stubbarna” i Slotts- terar vilka aktiviteter vi haft. Här
-skogen, en cirkel av stubbar som är ett exempel:
-fi nns i närheten av landskapsstu- ”Hej kära dramavänner, idag
-gorna. Vi hade sittunderlag, ter- träff ades Carin, Ingrid, Agneta
-mos med varm dryck och varma E och Agneta A i Slottsskogen kl
-kläder. Där kunde vi ha ”run- 10, "vid stubbarna". Där var det
-dor” och berättarövningar och kallt och blåsigt så vi gick vidare
-skrivövningar.         till scenen utanför Björngårds-
-Vi har träff ats hela våren re- villan, där det också var kallt och
-gelbundet, från 9 april till 11 juni. blåsigt. Efter ett tag gick vi upp-
-Därefter tog vår sommarcirkel vid, för backen mot djurgårdarna och
-2 juli till 20 augusti. Direkt när tog en paus där det var lite lä, men
-sommarcirkeln var slut startade vi ändå ganska kallt och blåsigt. Sen
-höstcirkeln som pågick mellan 27 gick vi vidare mot Pliktabacken
-augusti och 21 december. och där skildes våra vägar. Under
-Den 21 december träff ades vi denna kalla och blåsiga promenad
+Guldhedsdalen! Så nära och tidi-
+
+gare så obekanta platser. Många
+gånger satt vi dock stilla, om väd-
+ret tillät, på ”stubbarna” i Slotts-
+skogen, en cirkel av stubbar som
+fi nns i närheten av landskapsstu-
+gorna. Vi hade sittunderlag, ter-
+mos med varm dryck och varma
+kläder. Där kunde vi ha ”run-
+dor” och berättarövningar och
+skrivövningar.
+Vi har träff ats hela våren re-
+gelbundet, från 9 april till 11 juni.
+Därefter tog vår sommarcirkel vid,
+
+2 juli till 20 augusti. Direkt när
+sommarcirkeln var slut startade vi
+höstcirkeln som pågick mellan 27
+augusti och 21 december.
+Den 21 december träff ades vi
+
+2288 SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200
+
+klockan åtta på morgonen i en
+gångtunnel vid Karl Johansga-
+tan för att fi ra vintersolståndet. Vi
+gick tillsammans i mörkret, och
+tittade på de otaliga ljusen. Vid
+den lilla stranden strax bortom
+Röda sten stannade vi och sjöng
+
+julsånger, vi begravde det gam-
+la och tråkiga och mörka under
+stenarna på stranden och tog fram
+"Vad  som  varit extra  viktigt för mig  är
+
+att kunna   hänga   upp  varje vecka  – hur
+
+trist veckan  än  varit – på torsdagarna.
+
+Rundorna    och  promenader.    Fysisk
+distans  men  inte social distans."
+
+våra önskningar för det nya året.
+
+Nu är det 2021 och vi är igång
+igen. Sedan i höstas har vi också
+en digital mötesplats, där vi pla-
+nerar våra aktiviteter och utbyter
+tankar om det som rör vår grupp.
+Varje tisdag förmiddag möts vi
+i det digitala rummet. Det är ett
+bra komplement till det som är
+vår huvudsakliga passion: Att
+leka, sjunga, improvisera och
+vandra IRL.
+
+Kram från fröken A
+
+Efter varje träff skriver den som
+har varit ledare en rapport och no-
+terar vilka aktiviteter vi haft. Här
+är ett exempel:
+”Hej kära dramavänner, idag
+träff ades Carin, Ingrid, Agneta
+E och Agneta A i Slottsskogen kl
+10, "vid stubbarna". Där var det
+kallt och blåsigt så vi gick vidare
+till scenen utanför Björngårds-
+villan, där det också var kallt och
+blåsigt. Efter ett tag gick vi upp-
+för backen mot djurgårdarna och
+
+tog en paus där det var lite lä, men
+ändå ganska kallt och blåsigt. Sen
+gick vi vidare mot Pliktabacken
+och där skildes våra vägar. Under
+denna kalla och blåsiga promenad
+
+SSeennssuuss VVäässttrraa SSvveerriiggee VVeerrkkssaammhheetteenn 22002200 2299
+
+Agneta Arpi
 
 <!-- sida 356 -->
 
 gjorde vi följande: Vi började med gråta över gammal ost". Carin be-
 en runda, där vi berättade något rättade också om när Sven Woll-
 som ligger oss varmt om hjärtat. ter sa fel i ett förstamajtal. Han sa
-
 Sen gjorde vi några berättarim- nämligen "Lika barn leka häst".
 provisationer. Carin berättade en Vi hade med andra ord roligt i
 historia om hur hon dammsög sitt kylan och blåsten. Nästa torsdag
 träff as vi igen vid stubbarna kl 10.
-Jag  vill istället framhålla vårens   akti-
+Jag vill istället framhålla  vårens  akti-
 Ha det så bra idag på Valborgs-
-viteter som   särskilt viktiga. Det  blev ett  mässoafton, imorgon på Första
+viteter som  särskilt viktiga.  Det blev ett   mässoafton, imorgon på Första
 maj och resten av veckan också!
-sätt att bryta  det vacuum    vi kände  att vi
+sätt att bryta det  vacuum   vi kände   att vi
 Kram från fröken A”
+
 hamnat    i och istället hitt a mål och me-
 Meningsfulla aktiviteter
-ning  igen. Det viktiga  för mig  var att vi  och skimrande pärlor
+ning  igen. Det  viktiga för mig  var att vi  och skimrande pärlor
 Sammanfattningsvis kan sägas
-behöll vårt  koncept,  men  fl ytt ade det till
+behöll  vårt koncept,  men   fl ytt ade det till
 om året i pandemins skugga, att vi
 verkligen har fått leva upp till vårt
-en annan   miljö och  gjorde  allt corona-
+en annan   miljö  och gjorde  allt corona-
 cirkelnamn Kreativ lek för vuxna.
-anpassat   med  avstånd   och  försiktighet.   Vi har inte gett upp vår verksam-
+anpassat   med   avstånd  och  försiktighet.   Vi har inte gett upp vår verksam-
 het, vi har träff ats regelbundet och
-vardagsrum. Ingrid berättade om ihärdigt i stort sett varje vecka,
-vad fi ber egentligen är. Agneta Ek- vår, sommar, höst och vinter, och
-ström berättade om hur det kända vi har hittat meningsfulla aktivite-
-Into the Woods arrangeras i Unnaryd i Hylte kommun
-uttrycket "En svala gör ingen glad" ter och skimrande pärlor nära oss. och är en festival som med musik och kurser tar
-myntades av Håkan Hellströms I vardagen. I nuet.            deltagarperspektivet till en ny nivå. Man är deltagare
-i första hand, och besökare i andra.
-fl ickvän, Agneta Arpi berättade Mitt framför näsan på oss, där
-om när hon övernattade med Lill- pärlorna säkert har legat länge
-babs i en fj ällstuga och Lillbabs sa och väntat.
-Into    the    Woods
+
+vardagsrum. Ingrid berättade om
+vad fi ber egentligen är. Agneta Ek-
+ström berättade om hur det kända
+uttrycket "En svala gör ingen glad"
+myntades av Håkan Hellströms
+fl ickvän, Agneta Arpi berättade
+om när hon övernattade med Lill-
+
+babs i en fj ällstuga och Lillbabs sa
 de berömda orden: "Man ska inte
-INTO THE WOODS ÄR SKOGSFESTIVALEN som istället rerna tog de fram idén om festivalbussen och koncep-
-för att ställa in ställde om. Och ur den dystra verklig- tet Into the Woods On Tour.
-het som coronapandemin innebar föddes en kreativ I tre dagar rattade Nü Fiona festivalbussen runt
-idé. När folket inte kan komma till festivalen så får i Hyltebruks kommun. De genomförde massor med
-festivalen komma till folket.      livespelningar och livestreamade kurserna och kon-
-Jag minns glädjen i att kunna träff as igen, hur mysigt vi hade det på stubbarna Into the Woods arrangeras i Unnaryd i Hylte kom- serterna från festivalområdet med projektor. Till de
-när löven ännu inte hade utvecklats och man såg fram emot sommaren. mun och är en festival som med musik och kurser tar praktiska kurserna hade de med material och agerade
-deltagarperspektivet till en ny nivå. Man är deltagare assistenter till de digitala kursledarna.
+
+ihärdigt i stort sett varje vecka,
+vår, sommar, höst och vinter, och
+vi har hittat meningsfulla aktivite-
+ter och skimrande pärlor nära oss.
+I vardagen. I nuet.
+Mitt framför näsan på oss, där
+pärlorna säkert har legat länge
+
+och väntat.
+
+Jag minns glädjen i att kunna träff as igen, hur mysigt vi hade det på stubbarna
+när löven ännu inte hade utvecklats och man såg fram emot sommaren.
 Jag minns våren och sommaren i Slott sskogen, som en grön oas där vänner
-ger mig att dricka, en plats där vi fått blomma och vissna, mogna och falla. i första hand, och besökare i andra. Deltagarna bidrar För Nü Fiona och Into the Woods föddes på grund
-Jag minns stubbarna, förskolebarnen och solen. Jag minns dramaövningar, till helheten genom att exempelvis hålla i en pro- av pandemin en kreativ idé där resultatet i många fall
+ger mig att dricka, en plats där vi fått blomma och vissna, mogna och falla.
+Jag minns stubbarna, förskolebarnen och solen. Jag minns dramaövningar,
 skogsbad, allsång, guidningar i healing, kroppen, Slott sskogen, stubbarna,
-grampunkt, jobba i köket, städa, hålla i samskapan- översteg förväntningarna, bland annat i utbytet och
 killgissning.
-de projekt eller bara bidra med pengar. Tidigare år kontakten med både de lokala volontärerna och med
-Jag minns min glädje och hur nöjd jag varit eft er våra träff ar. har festivalen haft hundratals deltagare i det vackra besökarna.
-skogsområdet i Unnaryd. Men sommaren 2020 kun- - Många vackra och roliga stunder upplevdes un-
+Jag minns min glädje och hur nöjd jag varit eft er våra träff ar.
+
 Jag minns mötet med den gamla eken. Ljud av trafi k, fåglar, tystnad. Träden
-som ger ett soligt rum, som en skål. Det vi ger varandra i förtroende och ärlighet de de bara ta emot 50 deltagare. Då föddes idén om der dessa dagar men ett väldigt fi nt minne vi har var
-har betytt mest.                                          en festivalbuss med ett mobilt tält som kunde ta mu- när två tyska cykelturister hittade oss under första
-siken och kurserna ut från festivalområdet. dagen vi riggade upp. Dom blev så begeistrade att
+som ger ett soligt rum, som en skål. Det vi ger varandra i förtroende och ärlighet
+har betytt mest.
 Det har aldrig regnat.
-Nü Fiona är ett folkpop-band som vid två tidigare dom följde efter oss resten av helgen och hjälpte fri-
-tillfällen har spelat på Into the Woods. Medlemmar- villigt till att bygga upp scen- och kursområdet. Det
+
 Ur en gruppdikt från sommaren. Vi skrev utvärderings-meningar på lappar,
-na är alla en del av det konstnärskollektiv som ligger är så fantastiskt att se hur ett bra koncept kan få folk
 som sedan sattes ihop till en dikt. Den handlar om vår och sommar i Slottsskogen.
-bakom festivalen. Tillsammans med festivalarrangö- att vilja frivilligt hjälpa till.
-333000 SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000           SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000 333111
+
+333000 SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000
+
+Into the Woods arrangeras i Unnaryd i Hylte kommun
+och är en festival som med musik och kurser tar
+deltagarperspektivet till en ny nivå. Man är deltagare
+i första hand, och besökare i andra.
+
+Into    the    Woods
+
+INTO THE WOODS ÄR SKOGSFESTIVALEN som istället
+för att ställa in ställde om. Och ur den dystra verklig-
+het som coronapandemin innebar föddes en kreativ
+
+idé. När folket inte kan komma till festivalen så får
+festivalen komma till folket.
+Into the Woods arrangeras i Unnaryd i Hylte kom-
+mun och är en festival som med musik och kurser tar
+deltagarperspektivet till en ny nivå. Man är deltagare
+i första hand, och besökare i andra. Deltagarna bidrar
+till helheten genom att exempelvis hålla i en pro-
+grampunkt, jobba i köket, städa, hålla i samskapan-
+de projekt eller bara bidra med pengar. Tidigare år
+har festivalen haft hundratals deltagare i det vackra
+skogsområdet i Unnaryd. Men sommaren 2020 kun-
+de de bara ta emot 50 deltagare. Då föddes idén om
+en festivalbuss med ett mobilt tält som kunde ta mu-
+
+siken och kurserna ut från festivalområdet.
+Nü Fiona är ett folkpop-band som vid två tidigare
+tillfällen har spelat på Into the Woods. Medlemmar-
+na är alla en del av det konstnärskollektiv som ligger
+bakom festivalen. Tillsammans med festivalarrangö-
+
+rerna tog de fram idén om festivalbussen och koncep-
+tet Into the Woods On Tour.
+I tre dagar rattade Nü Fiona festivalbussen runt
+i Hyltebruks kommun. De genomförde massor med
+livespelningar och livestreamade kurserna och kon-
+serterna från festivalområdet med projektor. Till de
+praktiska kurserna hade de med material och agerade
+
+assistenter till de digitala kursledarna.
+För Nü Fiona och Into the Woods föddes på grund
+av pandemin en kreativ idé där resultatet i många fall
+översteg förväntningarna, bland annat i utbytet och
+kontakten med både de lokala volontärerna och med
+besökarna.
+\- Många vackra och roliga stunder upplevdes un-
+der dessa dagar men ett väldigt fi nt minne vi har var
+när två tyska cykelturister hittade oss under första
+dagen vi riggade upp. Dom blev så begeistrade att
+dom följde efter oss resten av helgen och hjälpte fri-
+villigt till att bygga upp scen- och kursområdet. Det
+är så fantastiskt att se hur ett bra koncept kan få folk
+
+att vilja frivilligt hjälpa till.
+
+SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000 333111
 
 <!-- sida 357 -->
 
 gjorde vi följande: Vi började med gråta över gammal ost". Carin be-
 en runda, där vi berättade något rättade också om när Sven Woll-
 som ligger oss varmt om hjärtat. ter sa fel i ett förstamajtal. Han sa
-
 Sen gjorde vi några berättarim- nämligen "Lika barn leka häst".
 provisationer. Carin berättade en Vi hade med andra ord roligt i
 historia om hur hon dammsög sitt kylan och blåsten. Nästa torsdag
 träff as vi igen vid stubbarna kl 10.
-Jag vill istället framhålla vårens akti-
+Jag vill istället framhålla  vårens  akti-
 Ha det så bra idag på Valborgs-
-viteter som särskilt viktiga. Det blev ett mässoafton, imorgon på Första
+viteter som  särskilt viktiga.  Det blev ett   mässoafton, imorgon på Första
 maj och resten av veckan också!
-sätt att bryta det vacuum vi kände att vi
+sätt att bryta det  vacuum   vi kände   att vi
 Kram från fröken A”
-hamnat i och istället hitt a mål och me-
+
+hamnat    i och istället hitt a mål och me-
 Meningsfulla aktiviteter
-ning igen. Det viktiga för mig var att vi och skimrande pärlor
+ning  igen. Det  viktiga för mig  var att vi  och skimrande pärlor
 Sammanfattningsvis kan sägas
-behöll vårt koncept, men fl ytt ade det till
+behöll  vårt koncept,  men   fl ytt ade det till
 om året i pandemins skugga, att vi
 verkligen har fått leva upp till vårt
-en annan miljö och gjorde allt corona-
+en annan   miljö  och gjorde  allt corona-
 cirkelnamn Kreativ lek för vuxna.
-anpassat med avstånd och försiktighet. Vi har inte gett upp vår verksam-
+anpassat   med   avstånd  och  försiktighet.   Vi har inte gett upp vår verksam-
 het, vi har träff ats regelbundet och
-vardagsrum. Ingrid berättade om ihärdigt i stort sett varje vecka,
-vad fi ber egentligen är. Agneta Ek- vår, sommar, höst och vinter, och
-ström berättade om hur det kända vi har hittat meningsfulla aktivite-
-Into the Woods arrangeras i Unnaryd i Hylte kommun
-uttrycket "En svala gör ingen glad" ter och skimrande pärlor nära oss. och är en festival som med musik och kurser tar
-myntades av Håkan Hellströms I vardagen. I nuet. deltagarperspektivet till en ny nivå. Man är deltagare
-i första hand, och besökare i andra.
-fl ickvän, Agneta Arpi berättade Mitt framför näsan på oss, där
-om när hon övernattade med Lill- pärlorna säkert har legat länge
-babs i en fj ällstuga och Lillbabs sa och väntat.
-Into    the   Woods
+
+vardagsrum. Ingrid berättade om
+vad fi ber egentligen är. Agneta Ek-
+ström berättade om hur det kända
+uttrycket "En svala gör ingen glad"
+myntades av Håkan Hellströms
+fl ickvän, Agneta Arpi berättade
+om när hon övernattade med Lill-
+
+babs i en fj ällstuga och Lillbabs sa
 de berömda orden: "Man ska inte
-INTO THE WOODS ÄR SKOGSFESTIVALEN som istället rerna tog de fram idén om festivalbussen och koncep-
-för att ställa in ställde om. Och ur den dystra verklig- tet Into the Woods On Tour.
-het som coronapandemin innebar föddes en kreativ I tre dagar rattade Nü Fiona festivalbussen runt
-idé. När folket inte kan komma till festivalen så får i Hyltebruks kommun. De genomförde massor med
-festivalen komma till folket.      livespelningar och livestreamade kurserna och kon-
-Jag minns glädjen i att kunna träff as igen, hur mysigt vi hade det på stubbarna Into the Woods arrangeras i Unnaryd i Hylte kom- serterna från festivalområdet med projektor. Till de
-när löven ännu inte hade utvecklats och man såg fram emot sommaren. mun och är en festival som med musik och kurser tar praktiska kurserna hade de med material och agerade
-deltagarperspektivet till en ny nivå. Man är deltagare assistenter till de digitala kursledarna.
+
+ihärdigt i stort sett varje vecka,
+vår, sommar, höst och vinter, och
+vi har hittat meningsfulla aktivite-
+ter och skimrande pärlor nära oss.
+I vardagen. I nuet.
+Mitt framför näsan på oss, där
+pärlorna säkert har legat länge
+
+och väntat.
+
+Jag minns glädjen i att kunna träff as igen, hur mysigt vi hade det på stubbarna
+när löven ännu inte hade utvecklats och man såg fram emot sommaren.
 Jag minns våren och sommaren i Slott sskogen, som en grön oas där vänner
-ger mig att dricka, en plats där vi fått blomma och vissna, mogna och falla. i första hand, och besökare i andra. Deltagarna bidrar För Nü Fiona och Into the Woods föddes på grund
-Jag minns stubbarna, förskolebarnen och solen. Jag minns dramaövningar, till helheten genom att exempelvis hålla i en pro- av pandemin en kreativ idé där resultatet i många fall
+ger mig att dricka, en plats där vi fått blomma och vissna, mogna och falla.
+Jag minns stubbarna, förskolebarnen och solen. Jag minns dramaövningar,
 skogsbad, allsång, guidningar i healing, kroppen, Slott sskogen, stubbarna,
-grampunkt, jobba i köket, städa, hålla i samskapan- översteg förväntningarna, bland annat i utbytet och
 killgissning.
-de projekt eller bara bidra med pengar. Tidigare år kontakten med både de lokala volontärerna och med
-Jag minns min glädje och hur nöjd jag varit eft er våra träff ar. har festivalen haft hundratals deltagare i det vackra besökarna.
-skogsområdet i Unnaryd. Men sommaren 2020 kun- - Många vackra och roliga stunder upplevdes un-
+Jag minns min glädje och hur nöjd jag varit eft er våra träff ar.
+
 Jag minns mötet med den gamla eken. Ljud av trafi k, fåglar, tystnad. Träden
-som ger ett soligt rum, som en skål. Det vi ger varandra i förtroende och ärlighet de de bara ta emot 50 deltagare. Då föddes idén om der dessa dagar men ett väldigt fi nt minne vi har var
-har betytt mest. en festivalbuss med ett mobilt tält som kunde ta mu- när två tyska cykelturister hittade oss under första
-siken och kurserna ut från festivalområdet. dagen vi riggade upp. Dom blev så begeistrade att
+som ger ett soligt rum, som en skål. Det vi ger varandra i förtroende och ärlighet
+har betytt mest.
 Det har aldrig regnat.
-Nü Fiona är ett folkpop-band som vid två tidigare dom följde efter oss resten av helgen och hjälpte fri-
-tillfällen har spelat på Into the Woods. Medlemmar- villigt till att bygga upp scen- och kursområdet. Det
+
 Ur en gruppdikt från sommaren. Vi skrev utvärderings-meningar på lappar,
-na är alla en del av det konstnärskollektiv som ligger är så fantastiskt att se hur ett bra koncept kan få folk
 som sedan sattes ihop till en dikt. Den handlar om vår och sommar i Slottsskogen.
-bakom festivalen. Tillsammans med festivalarrangö- att vilja frivilligt hjälpa till.
-333000 SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000 SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000 333111
+
+333000 SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000
+
+Into the Woods arrangeras i Unnaryd i Hylte kommun
+och är en festival som med musik och kurser tar
+deltagarperspektivet till en ny nivå. Man är deltagare
+i första hand, och besökare i andra.
+
+Into    the    Woods
+
+INTO THE WOODS ÄR SKOGSFESTIVALEN som istället
+för att ställa in ställde om. Och ur den dystra verklig-
+het som coronapandemin innebar föddes en kreativ
+
+idé. När folket inte kan komma till festivalen så får
+festivalen komma till folket.
+Into the Woods arrangeras i Unnaryd i Hylte kom-
+mun och är en festival som med musik och kurser tar
+deltagarperspektivet till en ny nivå. Man är deltagare
+i första hand, och besökare i andra. Deltagarna bidrar
+till helheten genom att exempelvis hålla i en pro-
+grampunkt, jobba i köket, städa, hålla i samskapan-
+de projekt eller bara bidra med pengar. Tidigare år
+har festivalen haft hundratals deltagare i det vackra
+skogsområdet i Unnaryd. Men sommaren 2020 kun-
+de de bara ta emot 50 deltagare. Då föddes idén om
+en festivalbuss med ett mobilt tält som kunde ta mu-
+
+siken och kurserna ut från festivalområdet.
+Nü Fiona är ett folkpop-band som vid två tidigare
+tillfällen har spelat på Into the Woods. Medlemmar-
+na är alla en del av det konstnärskollektiv som ligger
+bakom festivalen. Tillsammans med festivalarrangö-
+
+rerna tog de fram idén om festivalbussen och koncep-
+tet Into the Woods On Tour.
+I tre dagar rattade Nü Fiona festivalbussen runt
+i Hyltebruks kommun. De genomförde massor med
+livespelningar och livestreamade kurserna och kon-
+serterna från festivalområdet med projektor. Till de
+praktiska kurserna hade de med material och agerade
+
+assistenter till de digitala kursledarna.
+För Nü Fiona och Into the Woods föddes på grund
+av pandemin en kreativ idé där resultatet i många fall
+översteg förväntningarna, bland annat i utbytet och
+kontakten med både de lokala volontärerna och med
+besökarna.
+\- Många vackra och roliga stunder upplevdes un-
+der dessa dagar men ett väldigt fi nt minne vi har var
+när två tyska cykelturister hittade oss under första
+dagen vi riggade upp. Dom blev så begeistrade att
+dom följde efter oss resten av helgen och hjälpte fri-
+villigt till att bygga upp scen- och kursområdet. Det
+är så fantastiskt att se hur ett bra koncept kan få folk
+
+att vilja frivilligt hjälpa till.
+
+SSSeeennnsssuuusss VVVääässstttrrraaa SSSvvveeerrriiigggeee VVVeeerrrkkksssaaammmhhheeettteeennn 222000222000 333111
 
 <!-- sida 358 -->
 
 Digital avslutning för ett engagerat gäng Diplomerade HR-koordinatorer. Stolta, nöjda och glada deltagare uttryckte också ett vemod
 att inte fortsätta att träffas trots att de aldrig har setts fysiskt.
 
-Sensus   diplomutbildningar   - nära lärande på  distans
+Sensus  diplomutbildningar    - nära lärande på  distans
 
 SAMTLIGA SENSUS DIPLOMUTBILDNINGAR har ställts om till att genomföras digitalt. Vi vill inte kalla det för
 distans. Tvärtom har vi sett möjligheter i att värna Sensus ledstjärnor i det pedagogiska förhållningssättet även
 i det digitala rummet. Upplägget i Diplomerad HR-koordinator, Diplomerad HR-specialist, Diplomerad kom-
 munikatör och Diplomerad projektledare har samtliga för ögonen att arbeta med folkbildningspedagogiska
-
 metoder på nätet. I Zoom (digitala mötesplatsen) och på Learnify (digitala studieplatsen) jobbar vi med att var
 och en skall bli sedd, olikheter skall tas till vara och att skapa tillsammans. Och det har blivit så bra och upp-
+
 skattat! Nära lärande på distans, alltså!
 
-Gott  betyg från våra  medlemsorganisationer
+Gott betyg  från våra medlemsorganisationer
+
 och  samverkansparter
+
+GÅR DET ATT MÄTA relationer?
+Tillsammans med våra medlems-
+organisationer, samverkansparter och
+deltagare skapar vi mötesplatser för kultur
+och bildning.
+Förutom att ständigt jobba med
+förbättringar i vardagen så gör Sensus då
+
+och då även enkätundersökningar. Vi i
+Sensus Västra Sverige är oerhört stolta över
+att ha fått ett så gott betyg i den senaste
+undersökningen!
+
+32 Sensus Västra Sverige Verksamheten 2020
 
 9
 7
-GÅR DET ATT MÄTA relationer?
-Tillsammans med våra medlems- Nöjd Kund Index
+Nöjd Kund Index
 NKI varierar mellan 0 och 100. Ett resultat mellan 60
-organisationer, samverkansparter och
 och 75 indikerar ett normalt resultat och nöjda kunder.
-deltagare skapar vi mötesplatser för kultur Västra Sverige visar ett utmärkt resultat med ett NKI
-och bildning.                på 79.
-Förutom att ständigt jobba med
+Västra Sverige visar ett utmärkt resultat med ett NKI
+på 79.
 8
 4
-förbättringar i vardagen så gör Sensus då Net Promoter Score
-och då även enkätundersökningar. Vi i NPS (Net Promoter Score) ger en tydlig bild över hur
+Net Promoter Score
+NPS (Net Promoter Score) ger en tydlig bild över hur
 stor andel ambassadörer respektive kritiker företaget
-Sensus Västra Sverige är oerhört stolta över
 har. Genomsnittsföretag, alla branscher inräknat, ligger
-att ha fått ett så gott betyg i den senaste på ett NPS runt 10-15 procent. Västra Sverige visar ett
-undersökningen!              utmärkt resultat på 48.
-32 Sensus Västra Sverige Verksamheten 2020                                                                                    Sensus Västra Sverige Verksamheten 2020 33
+på ett NPS runt 10-15 procent. Västra Sverige visar ett
+utmärkt resultat på 48.
+Sensus Västra Sverige Verksamheten 2020 33
 
 <!-- sida 359 -->
 
@@ -13675,16 +14358,15 @@ Fler tips: digitalaverktyg.sensus.se
 
 <!-- sida 360 -->
 
-Fakta  om  Sensus   Västra Sverige
+Fakta  om  Sensus  Västra  Sverige
 
 Sensus Västra Sverige omfattar Halland, Värmland och
-
 Västra Götaland som totalt består av 71 kommuner.
+
 Tillsammans med föreningar, organisationer och grupper
-
 skapar vi mötesplatser för lärande och utveckling runt
-om i regionen. Vi har kontor i Bengtsfors, Borås, Göteborg,
 
+om i regionen. Vi har kontor i Bengtsfors, Borås, Göteborg,
 Halmstad, Karlstad, Skövde och Uddevalla.
 
 SENSUS
@@ -13726,94 +14408,130 @@ MUSIKHUS
 • Magnus Högdahl      Sensus Västra Sverige bedriver verk- • Halmstad
 (personalrepresentant) samhet i 69 av de 71 kommuner som • Skövde
 regionen omfattar.        • Uddevalla
+
 MEDLEMSORGANISATIONER
-Sensus studieförbund har både nationella • KFUM Sverige • Sigtunastiftelsen
-och regionala medlemsorganisationer. • Kvinnor för mission • Spädbarnsfonden
-Utöver det samarbetar vi med en mängd • Kvinnor i Svenska kyrkan • Stiftelsen Sverige och Kristen Tro
-olika samarbetsparter.  • Kyrkans Akademikerförbund • Svenska kyrkan
-• Kyrkomusikernas Riksförbund • Svenska kyrkans arbetsgivarorganisation
-Nationella medlemsorganisationer: • Mandeiska Sabeiska Samfundet i Sve- • Svenska kyrkans lekmannaförbund
-• Amningshjälpen        rige                   • Svenska Kyrkans Unga
-• Bröstcancerförbundet  • RFHL, Riksförbundet för Rättigheter, • Svenska Lottakåren
-• Credo                 Frigörelse, Hälsa och Likabehandling • Svenska Muslimer för fred och rättvisa
-• EFS                   • Riksförbundet EKHO   • Sveriges Konstföreningar
-• Frisk & fri - Riksföreningen mot ätstör- • Riksförbundet för SuicidPrevention och • Sveriges Kyrkosångsförbund
-ningar                 Efterlevandes Stöd - SPES • Sveriges Syriska Riksförbund
-• Föreningen Svenska kyrkans anställda i • S:t Georgs Scoutgillen i Sverige • Y´s Men International, distrikt Sverige
+Sensus studieförbund har både nationella • KFUM Sverige
+och regionala medlemsorganisationer. • Kvinnor för mission
+Utöver det samarbetar vi med en mängd • Kvinnor i Svenska kyrkan
+olika samarbetsparter. • Kyrkans Akademikerförbund
+• Kyrkomusikernas Riksförbund
+Nationella medlemsorganisationer:
+• Mandeiska Sabeiska Samfundet i Sve-
+• Amningshjälpen
+rige
+• Bröstcancerförbundet
+• RFHL, Riksförbundet för Rättigheter,
+• Credo
+Frigörelse, Hälsa och Likabehandling
+• EFS
+• Riksförbundet EKHO
+• Frisk & fri - Riksföreningen mot ätstör-
+• Riksförbundet för SuicidPrevention och
+ningar
+Efterlevandes Stöd - SPES
+• Föreningen Svenska kyrkans anställda i
+• S:t Georgs Scoutgillen i Sverige
 Sjukhuskyrkan SKAIS
 • Scouterna
 • Individuell Människohjälp
 • Shedo
-34 Sensus Västra Sverige Verksamheten 2020                                                                                    Sensus Västra Sverige Verksamheten 2020 35
+34 Sensus Västra Sverige Verksamheten 2020
+
+• Sigtunastiftelsen
+• Spädbarnsfonden
+• Stiftelsen Sverige och Kristen Tro
+• Svenska kyrkan
+• Svenska kyrkans arbetsgivarorganisation
+• Svenska kyrkans lekmannaförbund
+• Svenska Kyrkans Unga
+• Svenska Lottakåren
+• Svenska Muslimer för fred och rättvisa
+• Sveriges Konstföreningar
+• Sveriges Kyrkosångsförbund
+• Sveriges Syriska Riksförbund
+• Y´s Men International, distrikt Sverige
+
+Sensus Västra Sverige Verksamheten 2020 35
 
 <!-- sida 361 -->
 
-0   10  20   30  40  50
+Sensus  Västra  Sverige  i siffror
 
-242        921
+VERKSAMHET
 
-Antal studietimmar 2020 i studiecirklar, annan folkbild-
-0      20     40     60      80     100   ning och kulturprogram.
+23 arrangemang/dag
+Sensus Västra Sverige År 2020 har präglats av coro-
+genomförde 8 401 arrange- napandemin. Sensus Västra
+0mang u1n0der 202200. Det b30lir 23 40 Sverig5e0s verksamhetsvolym
+arrangemang per dag om en har minskat med 43 % sedan
+fördelar dem jämt över året. föregående år.
+
+520 deltagare/dag
+Totalt nådde Sensus Västra
+Sverige 189 702 deltagare un-
+der 2020. Om en fördelar dem
+jämt över året blir 520 deltaga-
+re per dag.
+
+3 141
+
+Antal kulturprogram i Sensus
+Västra Sverige 2020. Det
+kan exempelvis vara digitala
+föreläsningar eller livestreamade
+konserter.
+
+Fördelning av verksamhet 2020.
+242         921
+70 %            18 % 12 %
+
+Studiecirklar            Annan  Kultur-   Antal studietimmar 2020 i studiecirklar, annan folkbild-
+0      20     40     60  folkbildn80ings- program100 ning och kulturprogram.
+verksamhet
 \*Kulturprogram = 9 studietimmar
+DELTAGARE OCH LEDARE
+
+Albin       13  och     Lisa-Kristina              94
 
 Sensus Västra Sveriges yngsta och äldsta cirkelledare. Totalt är 3 220 ledare verksamma i regionen.
 
-Unika deltagare 2020 i studie- Deltagare 202 0 0 i stud 1 ie 0 cirklar 2 o 0 ch ann 3 a 0 n folkbi 4 ld 0 ning 50
-cirklar och annan folkbildning. fördelade efter åldersgrupp.
-
-32
-
-0      20     40      60     80     100
-
-Sensus studieförbund har 32
-nationella medlemsorganisa-
-77 % av verksamheten sker i tioner. Sensus Västra Sverige
-samarbete med en medlems- har utöver dem fler regionala Antal studietimmar 2020 till-
-organisation eller samarbetspart. medlemsorganisationer och sammans med samarbetsparter
-samarbetsparter.                   utöver medlemsorganisationer.
-34 Sensus Västra Sverige Verksamheten 2020         Sensus Västra Sverige Verksamheten 2020 35
-
-0   10  20  30  40  50
-
-0     20      40     60     80     100
-683
-82
-785
-111
-Sensus  Västra  Sverige  i siffror
-VERKSAMHET
-3  141
-23 arrangemang/dag                  520 deltagare/dag
-Sensus Västra Sverige År 2020 har präglats av coro- Totalt nådde Sensus Västra Antal kulturprogram i Sensus
-genomförde 8 401 arrange- napandemin. Sensus Västra Sverige 189 702 deltagare un- Västra Sverige 2020. Det
-mang under 2020. Det blir 23 Sveriges verksamhetsvolym der 2020. Om en fördelar dem kan exempelvis vara digitala
-arrangemang per dag om en har minskat med 43 % sedan jämt över året blir 520 deltaga- föreläsningar eller livestreamade
-fördelar dem jämt över året. föregående år. re per dag. konserter.
-Fördelning av verksamhet 2020.
-70 %            18 %  12 %
-Studiecirklar           Annan  Kultur-
-folkbildnings- program
-verksamhet
-DELTAGARE OCH LEDARE
-Albin       13  och     Lisa-Kristina              94
 < 13 år 17 %
+
 13 - 24 år 20 %
 100 %
 25 - 65 år 43 %
 \> 65 år 20 %
-Bland Sensus deltagare finns kvinnor,
-unga, ickebinära, landsortsbor, äldre,
+
+Unika deltagare 2020 i studie- Deltagare 202 0 0 i stud 1 ie 0 cirklar 2 o 0 ch ann 3 a 0 n folkbi 4 ld 0 ning 50 Bland Sensus deltagare finns kvinnor,
+cirklar och annan folkbildning. fördelade efter åldersgrupp. unga, ickebinära, landsortsbor, äldre,
 män, stadsbor... 100 % människor.
 SAMARBETEN
+
+32
 1\. Svenska kyrkan
 2\. Scouterna
+0      20      40     60     80     100
 77 %                       3. Sveriges
 Kyrkosångsförbund
-0  10  20 30  40 50  60
-De tre största medlemsorgani-
-sationer i Sensus Västra Sve-
-rige räknat i antal studietimmar.
-0      20     40     60     80     100
+Sensus studieförbun0d har 3120 20 30 40 50 60
+nationella medlemsorganisa-
+77 % av verksamheten sker i tioner. Sensus Västra Sverige De tre största medlemsorgani-
+samarbete med en medlems- har utöver dem fler regionala sationer i Sensus Västra Sve- Antal studietimmar 2020 till-
+organisation eller samarbetspart. medlemsorganisationer och rige räknat i antal studietimmar. sammans med samarbetsparter
+samarbetsparter.                  utöver medlemsorganisationer.
+34 Sensus Västra Sverige Verksamheten 2020                                                                                    Sensus Västra Sverige Verksamheten 2020 35
+
+```osaker-tabell
+                                                                                                              0      20     40     60     80     100
+
+0   10  20  30   40  50
+
+0      20     40     60      80     100
+```
+
+28 386
+
+111 587
 
 <!-- sida 362 -->
 
@@ -14385,66 +15103,104 @@ DocuSign Envelope ID: 89EB0850-F6CA-481C-9A11-291957FEFE80
 Till föreningsstämman i Sensus Västra Sverige, org. nr 857203-9868
 
 Rapport om årsredovisningen
+
 Uttalanden
 Vi har utfört en revision av årsredovisningen för Sensus Västra Sverige för år 2020.
 Enligt vår uppfattning har årsredovisningen upprättats i enlighet med årsredovisningslagen och ger en i alla väsentliga avseenden rättvisande
 bild av föreningens finansiella ställning per den 31 december 2020 och av dess finansiella resultat för året enligt årsredovisningslagen. Förvalt-
 ningsberättelsen är förenlig med årsredovisningens övriga delar.
 Vi tillstyrker därför att föreningsstämman fastställer resultaträkningen och balansräkningen för föreningen.
+
 Grund för uttalanden
 Vi har utfört revisionen enligt god revisionssed i Sverige. Revisorernas ansvar enligt denna sed beskrivs närmare i avsnitten Den auktorise-
 rade revisorns ansvar samt Den förtroendevalda revisorns ansvar.
 Vi är oberoende i förhållande till föreningen enligt god revisorssed i Sverige. Jag som auktoriserad revisor har fullgjort mitt yrkesetiska ansvar
 enligt dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som grund för våra uttalanden.
+
 Styrelsens ansvar
-Det är styrelsen som har ansvaret för att årsredovisningen upprättas Vid upprättandet av årsredovisningen ansvarar styrelsen för bedöm-
-och att den ger en rättvisande bild enligt årsredovisningslagen. Sty- ningen av föreningens förmåga att fortsätta verksamheten. Den upp-
-relsen ansvarar även för den interna kontroll som den bedömer är lyser, när så är tillämpligt, om förhållanden som kan påverka för-
-nödvändig för att upprätta en årsredovisning som inte innehåller mågan att fortsätta verksamheten och att använda antagandet om
-några väsentliga felaktigheter, vare sig dessa beror på oegentlig- fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om sty-
-heter eller misstag.                relsen avser att likvidera föreningen, upphöra med verksamheten el-
+Det är styrelsen som har ansvaret för att årsredovisningen upprättas
+och att den ger en rättvisande bild enligt årsredovisningslagen. Sty-
+relsen ansvarar även för den interna kontroll som den bedömer är
+nödvändig för att upprätta en årsredovisning som inte innehåller
+några väsentliga felaktigheter, vare sig dessa beror på oegentlig-
+heter eller misstag.
+
+Vid upprättandet av årsredovisningen ansvarar styrelsen för bedöm-
+ningen av föreningens förmåga att fortsätta verksamheten. Den upp-
+lyser, när så är tillämpligt, om förhållanden som kan påverka för-
+mågan att fortsätta verksamheten och att använda antagandet om
+fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om sty-
+relsen avser att likvidera föreningen, upphöra med verksamheten el-
 ler inte har något realistiskt alternativ till att göra något av detta.
+
 Den auktoriserade revisorns ansvar
-Jag har att utföra revisionen enligt International Standards on Au- ⎯ utvärderar jag lämpligheten i de redovisningsprinciper som an-
+Jag har att utföra revisionen enligt International Standards on Au-
 diting (ISA) och god revisionssed i Sverige. Mitt mål är att uppnå en
-vänds och rimligheten i styrelsens uppskattningar i redovis-
 rimlig grad av säkerhet om huruvida årsredovisningen som helhet
-ningen och tillhörande upplysningar.
 inte innehåller några väsentliga felaktigheter, vare sig dessa beror på
-oegentligheter eller misstag. Rimlig säkerhet är en hög grad av sä- ⎯ drar jag en slutsats om lämpligheten i att styrelsen använder
-kerhet, men är ingen garanti för att en revision som utförs enligt ISA antagandet om fortsatt drift vid upprättandet av årsredovis-
-och god revisionssed i Sverige alltid kommer att upptäcka en väsent- ningen. Jag drar också en slutsats, med grund i de inhämtade
-lig felaktighet om en sådan finns. Felaktigheter kan uppstå på grund revisionsbevisen, om huruvida det finns någon väsentlig osä-
-av oegentligheter eller misstag och anses vara väsentliga om de en- kerhetsfaktor som avser sådana händelser eller förhållanden
-skilt eller tillsammans rimligen kan förväntas påverka de ekonomiska som kan leda till betydande tvivel om föreningens förmåga att
-beslut som användare fattar med grund i årsredovisningen. fortsätta verksamheten. Om jag drar slutsatsen att det finns en
-Som del av en revision enligt ISA använder jag professionellt om- väsentlig osäkerhetsfaktor, måste jag i revisionsberättelsen
-döme och har en professionellt skeptisk inställning under hela revis- fästa uppmärksamheten på upplysningarna i årsredovisningen
-ionen. Dessutom:                      om den väsentliga osäkerhetsfaktorn eller, om sådana upplys-
-ningar är otillräckliga, modifiera uttalandet om årsredovisningen.
-⎯  identifierar och bedömer jag riskerna för väsentliga felaktigheter Mina slutsatser baseras på de revisionsbevis som inhämtas
-i årsredovisningen, vare sig dessa beror på oegentligheter eller fram till datumet för revisionsberättelsen. Dock kan framtida
-misstag, utformar och utför granskningsåtgärder bland annat ut- händelser eller förhållanden göra att en förening inte längre kan
-ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga fortsätta verksamheten.
+oegentligheter eller misstag. Rimlig säkerhet är en hög grad av sä-
+kerhet, men är ingen garanti för att en revision som utförs enligt ISA
+och god revisionssed i Sverige alltid kommer att upptäcka en väsent-
+lig felaktighet om en sådan finns. Felaktigheter kan uppstå på grund
+av oegentligheter eller misstag och anses vara väsentliga om de en-
+skilt eller tillsammans rimligen kan förväntas påverka de ekonomiska
+beslut som användare fattar med grund i årsredovisningen.
+Som del av en revision enligt ISA använder jag professionellt om-
+döme och har en professionellt skeptisk inställning under hela revis-
+ionen. Dessutom:
+⎯ identifierar och bedömer jag riskerna för väsentliga felaktigheter
+i årsredovisningen, vare sig dessa beror på oegentligheter eller
+misstag, utformar och utför granskningsåtgärder bland annat ut-
+ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga
 och ändamålsenliga för att utgöra en grund för mina uttalanden.
-Risken för att inte upptäcka en väsentlig felaktighet till följd av ⎯ utvärderar jag den övergripande presentationen, strukturen och
-oegentligheter är högre än för en väsentlig felaktighet som be- innehållet i årsredovisningen, däribland upplysningarna, och om
-ror på misstag, eftersom oegentligheter kan innefatta agerande årsredovisningen återger de underliggande transaktionerna och
-i maskopi, förfalskning, avsiktliga utelämnanden, felaktig inform- händelserna på ett sätt som ger en rättvisande bild.
+Risken för att inte upptäcka en väsentlig felaktighet till följd av
+oegentligheter är högre än för en väsentlig felaktighet som be-
+ror på misstag, eftersom oegentligheter kan innefatta agerande
+i maskopi, förfalskning, avsiktliga utelämnanden, felaktig inform-
 ation eller åsidosättande av intern kontroll.
-Jag måste informera styrelsen om bland annat revisionens planerade
-⎯  skaffar jag mig en förståelse av den del av föreningens interna omfattning och inriktning samt tidpunkten för den. Jag måste också
-kontroll som har betydelse för min revision för att utforma informera om betydelsefulla iakttagelser under revisionen, däribland
-granskningsåtgärder som är lämpliga med hänsyn till omstän- de eventuella betydande brister i den interna kontrollen som jag iden-
-digheterna, men inte för att uttala mig om effektiviteten i den in- tifierat.
+⎯ skaffar jag mig en förståelse av den del av föreningens interna
+kontroll som har betydelse för min revision för att utforma
+granskningsåtgärder som är lämpliga med hänsyn till omstän-
+digheterna, men inte för att uttala mig om effektiviteten i den in-
 terna kontrollen.
+
+⎯ utvärderar jag lämpligheten i de redovisningsprinciper som an-
+vänds och rimligheten i styrelsens uppskattningar i redovis-
+ningen och tillhörande upplysningar.
+⎯ drar jag en slutsats om lämpligheten i att styrelsen använder
+antagandet om fortsatt drift vid upprättandet av årsredovis-
+ningen. Jag drar också en slutsats, med grund i de inhämtade
+revisionsbevisen, om huruvida det finns någon väsentlig osä-
+kerhetsfaktor som avser sådana händelser eller förhållanden
+som kan leda till betydande tvivel om föreningens förmåga att
+fortsätta verksamheten. Om jag drar slutsatsen att det finns en
+väsentlig osäkerhetsfaktor, måste jag i revisionsberättelsen
+fästa uppmärksamheten på upplysningarna i årsredovisningen
+om den väsentliga osäkerhetsfaktorn eller, om sådana upplys-
+ningar är otillräckliga, modifiera uttalandet om årsredovisningen.
+Mina slutsatser baseras på de revisionsbevis som inhämtas
+fram till datumet för revisionsberättelsen. Dock kan framtida
+händelser eller förhållanden göra att en förening inte längre kan
+fortsätta verksamheten.
+⎯ utvärderar jag den övergripande presentationen, strukturen och
+innehållet i årsredovisningen, däribland upplysningarna, och om
+årsredovisningen återger de underliggande transaktionerna och
+händelserna på ett sätt som ger en rättvisande bild.
+Jag måste informera styrelsen om bland annat revisionens planerade
+omfattning och inriktning samt tidpunkten för den. Jag måste också
+informera om betydelsefulla iakttagelser under revisionen, däribland
+de eventuella betydande brister i den interna kontrollen som jag iden-
+tifierat.
+
 Den förtroendevalda revisorns ansvar
 Jag har att utföra en revision enligt revisionslagen och därmed enligt god revisionssed i Sverige. Mitt mål är att uppnå en rimlig grad av säker-
 het om huruvida årsredovisningen har upprättats i enlighet med årsredovisningslagen och om årsredovisningen ger en rättvisande bild av
 föreningens resultat och ställning.
+
 Rapport om andra krav enligt lagar och andra författningar samt stadgar
 Uttalande
+
 Revisionsberättelse Sensus Västra Sverige, org. nr 857203-9868, 2020 1 (2)
 
 <!-- sida 376 -->
@@ -14453,32 +15209,45 @@ DocuSign Envelope ID: 89EB0850-F6CA-481C-9A11-291957FEFE80
 
 Utöver vår revision av årsredovisningen har vi även utfört en revision av styrelsens förvaltning för Sensus Västra Sverige för år 2020.
 Vi tillstyrker att föreningsstämman beviljar styrelsens ledamöter ansvarsfrihet för räkenskapsåret.
+
 Grund för uttalande
 Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt ansvar enligt denna beskrivs närmare i avsnittet Revisorns ansvar. Vi är obero-
 ende i förhållande till föreningen enligt god revisorssed i Sverige. Jag som auktoriserad revisor har i övrigt fullgjort mitt yrkesetiska ansvar
 enligt dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som grund för vårt uttalande.
+
 Styrelsens ansvar
 Det är styrelsen som har ansvaret för förvaltningen.
 Revisorns ansvar
-Vårt mål beträffande revisionen av förvaltningen, och därmed vårt ut- Som en del av en revision enligt god revisionssed i Sverige använder
-talande om ansvarsfrihet, är att inhämta revisionsbevis för att med en den auktoriserade revisorn professionellt omdöme och har en pro-
-rimlig grad av säkerhet kunna bedöma om någon styrelseledamot i fessionellt skeptisk inställning under hela revisionen. Granskningen
-något väsentligt avseende företagit någon åtgärd eller gjort sig skyl- av förvaltningen grundar sig främst på revisionen av räkenskaperna.
-dig till någon försummelse som kan föranleda ersättningsskyldighet Vilka tillkommande granskningsåtgärder som utförs baseras på den
-mot föreningen.                     auktoriserade revisorns professionella bedömning och övriga valda
-Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti för att revisorers bedömning med utgångspunkt i risk och väsentlighet. Det
-en revision som utförs enligt god revisionssed i Sverige alltid kommer innebär att vi fokuserar granskningen på sådana åtgärder, områden
-att upptäcka åtgärder eller försummelser som kan föranleda ersätt- och förhållanden som är väsentliga för verksamheten och där avsteg
-ningsskyldighet mot föreningen.     och överträdelser skulle ha särskild betydelse för föreningens situat-
+Vårt mål beträffande revisionen av förvaltningen, och därmed vårt ut-
+talande om ansvarsfrihet, är att inhämta revisionsbevis för att med en
+rimlig grad av säkerhet kunna bedöma om någon styrelseledamot i
+något väsentligt avseende företagit någon åtgärd eller gjort sig skyl-
+dig till någon försummelse som kan föranleda ersättningsskyldighet
+mot föreningen.
+Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti för att
+en revision som utförs enligt god revisionssed i Sverige alltid kommer
+att upptäcka åtgärder eller försummelser som kan föranleda ersätt-
+ningsskyldighet mot föreningen.
+
+Som en del av en revision enligt god revisionssed i Sverige använder
+den auktoriserade revisorn professionellt omdöme och har en pro-
+fessionellt skeptisk inställning under hela revisionen. Granskningen
+av förvaltningen grundar sig främst på revisionen av räkenskaperna.
+Vilka tillkommande granskningsåtgärder som utförs baseras på den
+auktoriserade revisorns professionella bedömning och övriga valda
+revisorers bedömning med utgångspunkt i risk och väsentlighet. Det
+innebär att vi fokuserar granskningen på sådana åtgärder, områden
+och förhållanden som är väsentliga för verksamheten och där avsteg
+och överträdelser skulle ha särskild betydelse för föreningens situat-
 ion. Vi går igenom och prövar fattade beslut, beslutsunderlag, vid-
 tagna åtgärder och andra förhållanden som är relevanta för vårt utta-
 lande om ansvarsfrihet.
+
 Göteborg 2021-
 
 Daniel Haglund         Bill Johansson
 Auktoriserad revisor   Förtroendevald revisor
-
 KPMG AB
 2021-03-05 | 09:12 CET
 2021-03-05 | 17:38 CET
@@ -15066,7 +15835,7 @@ redovisningen. Verksamheten fortlöper enligt plan.
 
 NEvISIONSDerättelse
 
-Till föreningsstämman i Studiefrämjandet Halland, org. nr 848600-4865
+Till föreningsstämman i Studiefrämjandet Halland, org. nr 8486500-4865
 
 Rapport om årsredovisningen
 
@@ -15225,8 +15994,6 @@ ningsskyldighet mot föreningen.
 Borås den 4 mars 0
 KPMG AB
 
-dusanna Ev j
-
 Susanna Everborn Gun Engström
 
 Auktoriserad revisor
@@ -15317,36 +16084,65 @@ Fotografer: Studiefrämjandet Halland, Alma Bengtsson, Strawtownhero Foto.
 
 Året   som   gått
 
-Studiefrämjandet är ett av Sveriges största stu- verksamhet har genomförts vilket innebar en stor
-dieförbund och samlar varje år över tre miljoner lärprocess som vi kommer att ha god nytta av i vårt
-deltagare varav många är unga. Studiefrämjandet fortsatta arbete. Vi har nationellt arbetat med en ny
-är ett partipolitiskt, fackligt och religiöst obundet strategiplan vilket engagerat alla styrelseledamöter
+Studiefrämjandet är ett av Sveriges största stu-
+dieförbund och samlar varje år över tre miljoner
+deltagare varav många är unga. Studiefrämjandet
 
-studieförbund.                       och anställda i Studiefrämjandet Halland.
+är ett partipolitiskt, fackligt och religiöst obundet
+studieförbund.
 
-Vår verksamhet grundar sig på folkbildningens Hyresavtalet för lokalerna i Halmstad gick ut under
-idéer och pedagogik. Det betyder att vi utgår ifrån året och vi beslöt att inte förlänga detta. Nytt avtal
-de önskemål, förutsättningar och erfarenheter som tecknades med kulturförvaltningen och vi har fått
-varje deltagare har. Detta möjliggör för människor tillgång till lämpliga lokaler i centrala Halmstad
-att söka ny kunskap, skapa och utvecklas tillsam- i Nolltrefem-huset. Flytten kommer genomföras
-mans. Alla människors lika värde är viktigt för oss. under 2021.
+Vår verksamhet grundar sig på folkbildningens
+idéer och pedagogik. Det betyder att vi utgår ifrån
+de önskemål, förutsättningar och erfarenheter som
+varje deltagare har. Detta möjliggör för människor
+att söka ny kunskap, skapa och utvecklas tillsam-
+mans. Alla människors lika värde är viktigt för oss.
 
-Studiefrämjandet har 19 medlemsorganisationer Stort fokus i vår verksamhet har vi haft på att
-som engagerar människor med intresse för bland utveckla den digitala folkbildningen och vi har bi-
-annat natur, djur, miljö och kultur. Vi samarbetar dragit med vår kompetens både inom och utanför
-också med andra organisationer, kommuner och organisationen på olika vis.
+Studiefrämjandet har 19 medlemsorganisationer
+som engagerar människor med intresse för bland
+annat natur, djur, miljö och kultur. Vi samarbetar
+också med andra organisationer, kommuner och
 föreningar. Studiefrämjandet Halland har verksam-
-het i länets alla sex kommuner.      Jag vill rikta ett stort tack till våra fantastiska
-medarbetare, ledare, föreningar samt vår styrelse
-2020 kommer att bli ett år som vi pratar om länge, för ett mycket gott och kreativt arbete under det
-det har varit märkligt att arbeta under en pandemi. gångna året.
-Vi har fokuserat på att utveckla och ställa om till
+het i länets alla sex kommuner.
 
+2020 kommer att bli ett år som vi pratar om länge,
+
+det har varit märkligt att arbeta under en pandemi.
+Vi har fokuserat på att utveckla och ställa om till
 digital verksamhet och haft möjlighet att samla
-våra krafter inför en förhoppningsvis efterfrågad Varberg februari 2021
+våra krafter inför en förhoppningsvis efterfrågad
 uppstart.
+
+En omfattande granskning av all folkbildnings-
+
+verksamhet har genomförts vilket innebar en stor
+lärprocess som vi kommer att ha god nytta av i vårt
+fortsatta arbete. Vi har nationellt arbetat med en ny
+strategiplan vilket engagerat alla styrelseledamöter
+och anställda i Studiefrämjandet Halland.
+
+Hyresavtalet för lokalerna i Halmstad gick ut under
+året och vi beslöt att inte förlänga detta. Nytt avtal
+tecknades med kulturförvaltningen och vi har fått
+tillgång till lämpliga lokaler i centrala Halmstad
+i Nolltrefem-huset. Flytten kommer genomföras
+under 2021.
+
+Stort fokus i vår verksamhet har vi haft på att
+
+utveckla den digitala folkbildningen och vi har bi-
+dragit med vår kompetens både inom och utanför
+organisationen på olika vis.
+
+Jag vill rikta ett stort tack till våra fantastiska
+medarbetare, ledare, föreningar samt vår styrelse
+för ett mycket gott och kreativt arbete under det
+gångna året.
+
+Varberg februari 2021
+
 Barbro Göteson
-En omfattande granskning av all folkbildnings- Verksamhetschef
+Verksamhetschef
 
 4
 
@@ -15480,31 +16276,51 @@ VERKSAMHETSBERÄTTELSE
 ALLMÄNT
 
 2020 har varit ett speciellt år för Studiefrämjandet
+
 Halland. Vi har trots allt engagerat ca 68 000 delta-
 gare i Hallands kommuner. Det har varit ett krea-
-
 tivt år för att hitta på alternativa sätt att fortsätta
 utveckla att det finns möjlighet att mötas både via
 digitala arrangemang och coronasäkrade mötes-
 platser. Här har vi sammanställt lite av det som
-hänt under året inom de olika ämnesområdena. Musikframträdande med Mollie Minott.
+hänt under året inom de olika ämnesområdena.
 
-Musik                                I början på året var vi mentorer för två unga killar
-Vi hann på vårvintern köra Livekarusellen, men som vill lära sig att arrangera, de gick en utbildning
-efter det har det mesta fått ställas in eller ställas via vår medlemsorganisation Svensk Live – Unga
+Musik
 
-om. Vi har istället sett 2020 mer eller mindre som Arrangörsnätverket. Bandmöten/kvartsamtal har
-ett planeringsår. Fokuserat på att göra i ordning i genomförts digitalt med musikerna.
+Vi hann på vårvintern köra Livekarusellen, men
+efter det har det mesta fått ställas in eller ställas
+om. Vi har istället sett 2020 mer eller mindre som
+ett planeringsår. Fokuserat på att göra i ordning i
 musikhusen, städat, röjt och rensat. Bistått riks-
-förbundet med en del saker som att ta fram en I våras var det uppstart för det nya arrangörsnät-
-nationell musikplan genom enkätundersökningar, verket Live Halland, även där höll vi träffar digi-
-diskussioner och andra undersökningar och dia- talt. Pianokurser på Furubergsskolan har hållits
-loger och som nationell samordnare för Sweden som vanligt, vi startade även upp en trumkurs
-Rock Festival. Har ställt om det mesta till digitalt. Vi på musikhuset Arken för unga tjejer. Kurser i ar-
-har haft en gitarrkurs på distans med en gitarrhjäl- tistutveckling har hållits digitalt. Nemiskonserter
+förbundet med en del saker som att ta fram en
+nationell musikplan genom enkätundersökningar,
+diskussioner och andra undersökningar och dia-
+loger och som nationell samordnare för Sweden
+Rock Festival. Har ställt om det mesta till digitalt. Vi
 
-te från Laholm, Christopher Amott (fd. Arch Enemy, och festivaler har i år varit omställda till digitala.
-Dark Tranquillity), med deltagare från hela Sverige. Kulturkraft är en nystartad nationell grupp med
+har haft en gitarrkurs på distans med en gitarrhjäl-
+te från Laholm, Christopher Amott (fd. Arch Enemy,
+Dark Tranquillity), med deltagare från hela Sverige.
+
+Kulturprogram på Rotundan i Halmstad.
+
+Musikframträdande med Mollie Minott.
+
+I början på året var vi mentorer för två unga killar
+som vill lära sig att arrangera, de gick en utbildning
+via vår medlemsorganisation Svensk Live – Unga
+Arrangörsnätverket. Bandmöten/kvartsamtal har
+genomförts digitalt med musikerna.
+
+I våras var det uppstart för det nya arrangörsnät-
+verket Live Halland, även där höll vi träffar digi-
+talt. Pianokurser på Furubergsskolan har hållits
+som vanligt, vi startade även upp en trumkurs
+på musikhuset Arken för unga tjejer. Kurser i ar-
+tistutveckling har hållits digitalt. Nemiskonserter
+och festivaler har i år varit omställda till digitala.
+Kulturkraft är en nystartad nationell grupp med
+
 uppdrag att etablera och vidareutveckla konceptet
 kulturkraft. KultUrkraft är ett nytt (be)grepp inom
 Studiefrämjandet och står för stärkande och fri-
@@ -15518,7 +16334,7 @@ frigörande kraften i vår verksamhet samtidigt som
 den erbjuder en konceptuell inramning för hur vi
 kan definiera mervärdet i vad vi gör.
 
-Kulturprogram på Rotundan i Halmstad. Welander uppträder på en av våra festivaler.
+Welander uppträder på en av våra festivaler.
 7
 
 <!-- sida 401 -->
@@ -15531,48 +16347,60 @@ som har pratat om alltifrån turnéliv till djupare
 kunskaper inom olika huvudinstrument. De unga
 i IB-gruppen har tillsammans gjort ett IB EXPO
 CAMP, där ungdomar upp till 25 år har kunnat
-Livestreamade spelningar har blivit vardag 2020.
 jobba ihop med olika workshops och gjort låtar
 ihop. Det hela avslutades med en digital konsert
-sig att skriva och producera egna låtar. Musiken
 som sågs av flera tusen tittare online. En digital
-kan vara i valfri genre, men det kommer sannolikt
+
 workshop i “Varumärke och artistprofilering” har
-att vara mycket fokus på pop, hiphop och sing-
 hållits med Kultivation som är en organisation som
-er-songwriting. Målgruppen är satt för att delta-
 jobbar med management och bokningar av konser-
-garna lätt ska kunna relatera till varandra, samt
 ter. Under workshopen fick man verktyg att bygga
-att de ska ligga på en relativt seriös nivå där de har
 upp sin egen varumärkesprofil ochfrämst hur man
-ett tydligt framtidsmål med sin musik. På kort sikt
 når ut med sin musik i den digitala världen.
-handlar det om att uppmuntra unga tjejer att ska-
-pa musik – både att producera och att skriva. Ge-
+
 Ett projekt med Region Halland som heter ”Systrar-
-nom att göra det i en grupp med endast tjejer så får
 na” är inlett, där vi kommer att jobba för att stärka
-de större chans att ta plats och känna sig bekväma.
+
 upp unga kvinnor i musiken med två projektan-
-De får också en chans att bygga på sin självkänsla
 ställda och ca tio deltagare. Syftet med projektet
-och utvecklas i sitt artisteri.
 är att unga kvinnliga musiker mellan 15–25 år ska
 träffas för att skapa musik tillsammans. De får lära
+
+Festival på Kulturhuset Najaden.
+
+Livestreamade spelningar har blivit vardag 2020.
+
+sig att skriva och producera egna låtar. Musiken
+
+kan vara i valfri genre, men det kommer sannolikt
+att vara mycket fokus på pop, hiphop och sing-
+er-songwriting. Målgruppen är satt för att delta-
+garna lätt ska kunna relatera till varandra, samt
+att de ska ligga på en relativt seriös nivå där de har
+ett tydligt framtidsmål med sin musik. På kort sikt
+handlar det om att uppmuntra unga tjejer att ska-
+pa musik – både att producera och att skriva. Ge-
+nom att göra det i en grupp med endast tjejer så får
+de större chans att ta plats och känna sig bekväma.
+
+De får också en chans att bygga på sin självkänsla
+och utvecklas i sitt artisteri.
+
 Vi har arrangerat två digitala festivaler under
 parollen “Kulturen tystnar aldrig” med samman-
 lagt ca 25 lokala akter och 5 000 visningar. Vi har
 livestreamat en Sweden Rock-spelning och ytterli-
 gare ett band. Under december samarrangerade vi
 Musikhjälpen ihop med Radio Halmstad där flera
+
 av våra grupper medverkade. En av dagarna var en
 temadag för jämställdhet, “Musikgäris för Musik-
 hjälpen”.
+
 Vi har arrangerat en online-studiecirkel om mu-
 sikvideor och skrivit en studieplan (för nationellt
 bruk) om att planera, göra och marknadsföra en
-Festival på Kulturhuset Najaden.     musikvideo.
+musikvideo.
 8
 
 <!-- sida 402 -->
@@ -15591,37 +16419,38 @@ Många av våra cirklar har valt att fortsätta med att
 repa och spela in musik.
 
 Kulturfrämjandet
+
 Studiefrämjandet Halland har fått treårigt projekt-
-
-stöd från Allmänna arvsfonden med start 2020. I Digital rollspels-workshop öppen för alla hall-
-projektet Kulturföreningen Kulturfrämjandet job- änningar.
+stöd från Allmänna arvsfonden med start 2020. I
+projektet Kulturföreningen Kulturfrämjandet job-
 bar vi för att personer med NPF (neuropsykiatriskt
-funktionshinder) och funktionsvariationer i alla biblioteket i Halmstad och ungdomskulturhuset
-åldrar ska få ökade möjligheter till en kreativ fritid Nolltrefem runt Fantastikens månad. Då tänker vi
-och gemenskap.                       oss en minifestival med prova-på-workshops i cos-
-play, lajv och slöjdande. När det gäller skapande/
-Projektet startar med aktiviteter i Halmstad och slöjdandet så har vi kontakt med slöjdutvecklare
-kommer sedan att spridas i hela regionen. Vi satsar på Kultur i Halland för samarbete. Vi planerar även
+funktionshinder) och funktionsvariationer i alla
+åldrar ska få ökade möjligheter till en kreativ fritid
+och gemenskap.
 
-till att börja med på digitala aktiviteter, exempelvis en fortbildning för exempelvis handledare inom
-cosplayföreläsningar/workshops, på grund av de området NPF och funktionsvariationer ihop med
-restriktioner som råder i Halland.   handikappkonsulent Yvonne Danielsson på Region
-Halland.
+Projektet startar med aktiviteter i Halmstad och
+kommer sedan att spridas i hela regionen. Vi satsar
+
+till att börja med på digitala aktiviteter, exempelvis
+cosplayföreläsningar/workshops, på grund av de
+restriktioner som råder i Halland.
+
 Parallellt med verksamheten startar vi upp en kul-
-turförening med samma namn som projektet. Spelkultur
-I föreningen kommer personer med olika funk- Vi har anordnat en spelkultur-konstutställning på
-tionsvariationer att sitta i styrelsen och driva verk- temat #nördkonst som planerades och genom-
-samheten tillsammans med några nyckelpersoner fördes av en lokal arrangörscirkel. Olika konst-
-som arbetar inom kultur och funktionsvariationer former som ”card altering” (att måla på och göra
+turförening med samma namn som projektet.
+I föreningen kommer personer med olika funk-
+tionsvariationer att sitta i styrelsen och driva verk-
+samheten tillsammans med några nyckelpersoner
 
-inom regionen.                       om spelkort), pärlplattekonst, digital konst, foto,
-cosplay-dräkter med mera ingick. Utställningen
-Projektet anordnar kulturaktiviteter för personer flyttade sen vidare till en lokal spelbutik och kom-
-med funktionsvariationer men vi exkluderar inte mer flytta till Halmstad stadsbibliotek så snart
-någon utan arbetar med att lyfta jämställdhet och restriktionerna tillåter.
+som arbetar inom kultur och funktionsvariationer
+inom regionen.
+
+Projektet anordnar kulturaktiviteter för personer
+med funktionsvariationer men vi exkluderar inte
+någon utan arbetar med att lyfta jämställdhet och
 tillgänglighet genom att arbeta inkluderande i allt
 vi gör. Huvudfokus i projektet är cosplay och lajv
 och allt kreativt skapande som går att koppla till
+
 dessa kulturformer.
 
 Projektet har fått möjlighet att docka an till en
@@ -15631,18 +16460,66 @@ upp sommaren 2021. Det är en teaterföreställning
 med inslag av lajv och cosplay som utspelar sig på
 1600-talet. Föreläsningar och cirklar startas inom
 olika kulturområden inför premiären i sommar. Vi
-En ny cirkel har startats där deltagarna ställer
 har även startat ett samarbete med Sverok, Stads-
+
+Digital rollspels-workshop öppen för alla hall-
+änningar.
+
+biblioteket i Halmstad och ungdomskulturhuset
+Nolltrefem runt Fantastikens månad. Då tänker vi
+oss en minifestival med prova-på-workshops i cos-
+play, lajv och slöjdande. När det gäller skapande/
+
+slöjdandet så har vi kontakt med slöjdutvecklare
+på Kultur i Halland för samarbete. Vi planerar även
+en fortbildning för exempelvis handledare inom
+området NPF och funktionsvariationer ihop med
+handikappkonsulent Yvonne Danielsson på Region
+Halland.
+
+Spelkultur
+Vi har anordnat en spelkultur-konstutställning på
+
+temat #nördkonst som planerades och genom-
+fördes av en lokal arrangörscirkel. Olika konst-
+former som ”card altering” (att måla på och göra
+om spelkort), pärlplattekonst, digital konst, foto,
+cosplay-dräkter med mera ingick. Utställningen
+flyttade sen vidare till en lokal spelbutik och kom-
+mer flytta till Halmstad stadsbibliotek så snart
+restriktionerna tillåter.
+
+En ny cirkel har startats där deltagarna ställer
 ut konst med inspiration från spel, film etc.
 9
 
 <!-- sida 403 -->
+
+Nördkonst-utställning i Halmstad.
+
+Föreningarna Halmstad United Gamers och Halm-
+stad Figurspelsförening har fortsatt sin verksamhet
+till del, i slutet av året har dock verksamheten satts
+på paus eller flyttat online, till plattformar som
+Discord och Tabletopia.
+
+Nya spelrelaterade cirklar har startat upp i bland
+annat Falkenberg och Halmstad. Några grupper
+
+har flyttat sitt spelande online, vi har försökt stötta
+med tips kring detta. Spelkultur-podden fortsätter
+sin verksamhet.
+
+Fantastikens månad, podcast-inspelning i Halm-
+
+stad.
 
 Vi har genomfört online-workshop i rollspelande
 ihop med Studiefrämjandet i Väst och Sverok.
 
 Vi har jobbat aktivt med att försöka få in spelkul-
 turen i Hallands kulturstrategi, vilket gick igenom i
+
 slutet av året.
 
 Vi har startat samverkan med bland annat Kungs-
@@ -15652,47 +16529,72 @@ var inplanerat i Halmstad (Nolltrefem-huset) men
 fick ställas in.
 
 Scenkonst, teater, dans
+
 I februari 2020 gjorde vi studiebesök på Danskaru-
 sellen i Malmö och hjälpte till bakom kulisserna.
 
 4H
 Studiefrämjandet har sedan många år ett samar-
 bete med 4H i Halland. Under 2020 fördjupades
-Nördkonst-utställning i Halmstad.
 samarbetet ytterligare genom ett stort antal ge-
-Föreningarna Halmstad United Gamers och Halm- mensamma arrangemang runtom i Halland. Vi har
-stad Figurspelsförening har fortsatt sin verksamhet bland annat genomfört matskolor i hemkunskaps-
-till del, i slutet av året har dock verksamheten satts salar och guidningar och utbildningar i naturen.
-på paus eller flyttat online, till plattformar som
-Discord och Tabletopia.              Trädgård
+mensamma arrangemang runtom i Halland. Vi har
+bland annat genomfört matskolor i hemkunskaps-
+salar och guidningar och utbildningar i naturen.
+
+Trädgård
 Den 28 juli genomfördes det nationella eventet
-Nya spelrelaterade cirklar har startat upp i bland Tusen Trädgårdar. Privatpersoner och offentliga
-annat Falkenberg och Halmstad. Några grupper verksamheter öppnade upp sina fantastiska träd-
-har flyttat sitt spelande online, vi har försökt stötta gårdar för allmänheten. Trots corona och hårda
-med tips kring detta. Spelkultur-podden fortsätter restriktioner gick det att genomföra och blev myck-
-sin verksamhet.                      et populärt. 45 halländska trädgårdar deltog och
+Tusen Trädgårdar. Privatpersoner och offentliga
+verksamheter öppnade upp sina fantastiska träd-
+gårdar för allmänheten. Trots corona och hårda
+restriktioner gick det att genomföra och blev myck-
+et populärt. 45 halländska trädgårdar deltog och
 hade öppet. Även digitala visningar förekom.
 
 LAHOLM
 
 Tillsammans med Laholms Trädgårdssällskap har
+
 det arrangerats trädgårdsvisningar, kurser, föreläs-
 ningar och utflykter.
 
-Fantastikens månad, podcast-inspelning i Halm-
-stad.                                4H-läger har hållits i olika delar av Halland.
+4H-läger har hållits i olika delar av Halland.
 10
 
 <!-- sida 404 -->
+
+Tusen trädgårdar är en populär del av vår träd-
+gårdsverksamhet.
+
+Vi har genomfört tre veckor av 4H:s Matskola som
+syftar till att ge barn och ungdomar kunskap om
+
+bra mat och motion på ett kul, lärorikt och prak-
+tiskt sätt. Förhoppningsvis är det så inspirerande
+att barnen får lite nya idéer som de fortsätter med
+hemma.
+
+Vi har deltagit på Kulturfrukostar och därmed ska-
+pat nya värdefulla nätverk.
+
+Studiefrämjandet Halland har tagit fram turistbro-
+
+schyren ”Följ med på upptäcktsfärd i Laholms na-
+tur 2020” i samarbete med föreningar i kommunen,
+Laholms kommun och Länsstyrelsen.
+
+Naturvandringar har genomförts med bland andra
+Naturskyddsföreningen Södra Halland, STF Södra
+Halland och Friluftsfrämjandet Laholm. Frilufts-
+främjandet Knäred har byggt en kolmila.
 
 Föreningarna Laholms Brukshundklubb och Hal-
 labergs hundklubb har bedrivit hundkurser för
 hundägare.
 
 Vi har fortsatt vår samverkan med Strandteatern.
+
 Strandteatern i Laholm har genomfört diverse kul-
 turprogram och studiecirklar under året och även
-
 arrangerat livemusik-spelningar på öppen scen i
 Mellbystrand.
 
@@ -15700,9 +16602,9 @@ En ny konstellation har tillkommit, dramapedagog
 Magdalena Granholm från Teater- och dramaskolan
 samt konstnären Elvira Roslund Gustavsson har
 under sommaren arrangerat en interaktiv saga för
+
 barn. Familjer har genom en saga fått i uppdrag att
 tillverka ett konstverk i lera som sedan monterats
-
 ihop till ett verk som visats upp på Gamla krukma-
 keriet, Laholm. Vid jul gjorde de samma koncept
 med en julsaga och tillverkning av lerfigurer.
@@ -15717,44 +16619,31 @@ HALMSTAD
 
 Två digitala festivaler med ca 10–15 akter per
 festival arrangerades (i april och september) i
-Tusen trädgårdar är en populär del av vår träd- samverkan med bland andra Hallandsposten och
+samverkan med bland andra Hallandsposten och
 med stöd från Region Halland och Halmstad kom-
-gårdsverksamhet.
+
 mun. Den sistnämnda var en hybridfestival med
 50 personer i publiken. Sammanlagt runt 5 000
-Vi har genomfört tre veckor av 4H:s Matskola som
 personer har tittat på sändningarna. Föreningen
-syftar till att ge barn och ungdomar kunskap om
 FIKA:s kulturprogram fick göras om och anpassas
-bra mat och motion på ett kul, lärorikt och prak-
 utifrån det rådande corona-läget, men kunde ändå
-tiskt sätt. Förhoppningsvis är det så inspirerande
 genomföras i en förändrad version. Musikhjälpen
-att barnen får lite nya idéer som de fortsätter med
 ihop med Radio Halmstad genomfördes med in-
-hemma.
 tervjuer, live-musik och insamling under en vecka
 i december. Musik-workshop-träffar och kickoff för
-Vi har deltagit på Kulturfrukostar och därmed ska-
+
 nya grupper har genomförts (fysiskt) i Halmstad i
-pat nya värdefulla nätverk.
 början av året.
-Studiefrämjandet Halland har tagit fram turistbro-
+
 Ett 100-tal personer (fördelade på mindre grupper)
-schyren ”Följ med på upptäcktsfärd i Laholms na-
 besökte vår #nördkonst-utställning under hös-
-tur 2020” i samarbete med föreningar i kommunen,
 ten. Nordisk speldag ställdes tyvärr in. Vår spel-
-Laholms kommun och Länsstyrelsen.
 podd-cirkel har börjat sända radio. Flera livesända
 podcast-intervjuer på temat “fantasy” genomför-
-Naturvandringar har genomförts med bland andra
 des från våra lokaler i april. I januari gjorde vi ett
-Naturskyddsföreningen Södra Halland, STF Södra
 skolbesök på Sannarpsgymasiet i Halmstad. Några
-Halland och Friluftsfrämjandet Laholm. Frilufts-
+
 nya spelcirklar har anslutit sig till oss under året.
-främjandet Knäred har byggt en kolmila.
 11
 
 <!-- sida 405 -->
@@ -15809,11 +16698,33 @@ lokal för det nystartade ”#nördkonst”.
 
 <!-- sida 406 -->
 
+Öppet hus under ”Tusen trädgårdar”.
+
+Vi ingår i nätverket Föräldrar Emellan Halmstad där
+vi är en av flera organisationer som arrangerar gra-
+tis föreläsningar för föräldrar i Halmstads kommun.
+
+Studiefrämjandet har varit fortsatt aktivt i “Kli-
+matet & Vi” som anordnar klimatföreläsningar på
+Halmstads Stadsbibliotek tillsammans med bland
+andra Halmstad kommun, Högskolan i Halmstad,
+Länsstyrelsen, Region Halland, Europa direkt,
+Hallandsposten, ABF, Länsförsäkringar, Natur-
+skyddsföreningen Halmstad och Laholmsbuktens
+Havsnätverk.
+
+I samarbete med Hallands Astronomiska förening
+
+har vi haft intressanta arrangemang på Plönninge
+observatorium inom astronomi. Science Safari har
+med sin buss haft nedslag med experiment.
+
 STF Södra Halland har genomfört utflykter och
 guidade vandringar. De har dock fått ställa in en del
 på grund av corona.
 
 Cykelfrämjandet Halmstad har varje vecka under
+
 sommaren genomfört cykelturer med guidade vis-
 ningar till olika besöksmål runt om i kommunen.
 
@@ -15828,8 +16739,8 @@ deltagarna lärt sig laga mat och fått besöka en gård
 med djur.
 
 I Falkenberg genomförde ornitologiska föreningen
-fem studiecirklar med 59 deltagare. Det är en liten
 
+fem studiecirklar med 59 deltagare. Det är en liten
 minskning jämfört med tidigare år, beroende på
 att några grupper har valt att inte starta och flera
 deltagare avstått från att delta på grund av corona.
@@ -15838,37 +16749,53 @@ Tillsammans med Ornitologiska Föreningens Tho-
 mas Andersson och Göran Johansson spelades två
 digitala fältföreläsningar in. Våtmarksrestaurering
 och fågelskydd avhandlades. Drygt 750 personer
+
 har nåtts av de båda föreläsningarna.
 
 I Falkenberg har Foldern ”Upplev Naturen” getts ut
 med vår hjälp och ekonomiskt stöd av Falkenbergs
-Öppet hus under ”Tusen trädgårdar”.
 kommun. Åtta olika organisationer har fått presen-
 tera sina utomhusaktiviteter i en folder. Flera av
 aktiviteterna har blivit inställda.
-Vi ingår i nätverket Föräldrar Emellan Halmstad där
-vi är en av flera organisationer som arrangerar gra-
+
 Vårt musikhus i Falkenberg är fullbelagt även om
-tis föreläsningar för föräldrar i Halmstads kommun.
+
 en del förändringar skedde under året med band
 som bytt lokal eller flyttat ut. Till följd av corona
-Studiefrämjandet har varit fortsatt aktivt i “Kli-
 har repandet till viss del ersatts av online-möten
-matet & Vi” som anordnar klimatföreläsningar på
-Halmstads Stadsbibliotek tillsammans med bland
-andra Halmstad kommun, Högskolan i Halmstad,
-Länsstyrelsen, Region Halland, Europa direkt,
-Hallandsposten, ABF, Länsförsäkringar, Natur-
-skyddsföreningen Halmstad och Laholmsbuktens
-Havsnätverk.
-I samarbete med Hallands Astronomiska förening
-har vi haft intressanta arrangemang på Plönninge
-observatorium inom astronomi. Science Safari har
-med sin buss haft nedslag med experiment.
+
 Med ett falköga mot framtiden.
 13
 
 <!-- sida 407 -->
+
+Man vet aldrig vad våra ledare har i kikaren!
+
+där man skriver låtar, skickar filer och diskuterar
+musiken.
+
+En ny rollspels-grupp har börjat träffas i vår lokal i
+Falkenberg varje vecka.
+
+Tillsammans med Fontänhuset i Falkenberg har vi
+
+haft fem olika cirklar i ämnen som till exempel ska-
+pande verkstad, att göra en tidning och trädgård.
+
+Falkenbergs Brukshundklubb och Ullareds Bruks-
+hundklubb har anordnat hundkurser under året.
+
+En utbildning inför internationell adoption har
+genomförts.
+
+Vi har haft grupper i ”Svenska från dag 1” för asyl-
+sökande i Fegen och i vår egen verksamhetslokal i
+Falkenberg.
+
+En målgrupp som vi har arbetat med är utrikesföd-
+da kvinnor som står långt ifrån arbetsmarknaden.
+Vi har erbjudit yrkessvenska-förberedande med
+inriktning barnomsorg och kök och restaurang.
 
 Trädgårdsvisningar och föreläsningar har genom-
 förts med Uppsticklingarna.
@@ -15879,8 +16806,8 @@ Aktiva nyckelpersoner inom spelkultur i Varberg
 har ingått i en planeringsgrupp, tillsammans med
 representanter från kommunen, för framtida spel-
 kulturaktiviteter i Varberg, på exempelvis Rosen-
-fred eller Komedianten. Vi vill helst starta fysiska
 
+fred eller Komedianten. Vi vill helst starta fysiska
 studiecirklar och anordna kulturarrangemang när
 restriktionerna tillåter.
 
@@ -15898,75 +16825,40 @@ I augusti togs beslut att ställa in 2020 års upplaga
 av Folk och Fåglar. Genom tillmötesgående från
 bidragsgivarna som lät oss övervintra anslagna
 medel, hoppas vi att kunna genomföra arrange-
-Man vet aldrig vad våra ledare har i kikaren!
 manget hösten 2021.
-där man skriver låtar, skickar filer och diskuterar
+
 Fem fågelcirklar har ägt rum i Varberg med 57 del-
-musiken.
 tagare. Verksamheten vid Getteröns Fågelstation
 har gått på sparlåga under året. En digital före-
-En ny rollspels-grupp har börjat träffas i vår lokal i
 läsning genomfördes med Reino Andersson som
-Falkenberg varje vecka.
 samlade över 300 personer på nätet.
-Tillsammans med Fontänhuset i Falkenberg har vi
+
 Galtabäckskskeppets bygglag har tillsammans
-haft fem olika cirklar i ämnen som till exempel ska-
 med oss genomfört flera cirklar och kulturpro-
-pande verkstad, att göra en tidning och trädgård.
 gram. Föreningen fokuserar på båtar, hantverk och
-Falkenbergs Brukshundklubb och Ullareds Bruks-
-hundklubb har anordnat hundkurser under året.
-En utbildning inför internationell adoption har
-genomförts.
-Vi har haft grupper i ”Svenska från dag 1” för asyl-
-sökande i Fegen och i vår egen verksamhetslokal i
-Falkenberg.
-En målgrupp som vi har arbetat med är utrikesföd-
-da kvinnor som står långt ifrån arbetsmarknaden.
-Vi har erbjudit yrkessvenska-förberedande med
-inriktning barnomsorg och kök och restaurang.
+
 Vi ”vågade” pröva digitala föreläsningar i år.
 14
 
 <!-- sida 408 -->
 
-Vi har genomfört två veckor av 4H:s Matskola som
-är en veckoutbildning i och utanför en hemkun-
-skapssal. Dessutom har en mängd aktiviteter kring
-djur och natur genomförts på 4H-gården Ästad.
-
-Kreativa amatörmålare har haft kamratcirklar i våra
-lokaler och i Träslövsläge.
-
-Vi har tillsammans med sportfiskarna haft studie-
-cirklar i flugbindning.
-
-”Kvinnan här och i världen” heter en cirkel om
-mänskliga rättigheter som vi samordnade tillsam-
-mans med FN föreningen Varberg.
-
-Vi har haft spanskakurser för nybörjare och fort-
-
-sättning.
 Ängspiplärka som valt att trotsa vintervädret.
-Vi har haft svenskakurser för asylsökande.
-historiska byggnader. I Varbergs hamn har besö-
-kare fått möjlighet att bli guidade på det berömda Fortsatt samarbete med Samordningsförbundet,
-Galtabäcksskeppet.                   där långtidssjuka erbjuds att delta i medicinsk
-yoga.
-Natur- och kulturguidningar i kommunen ar-
 
-rangerades i samarrangemang med bland andra Uppsökande och motiverande insatser har genom-
-Varbergskretsens biodlarförening, Svenska Turist- förts för utrikesfödda kvinnor med tema ”Älskade
-föreningen Kungsbacka Varberg, Cykelfrämjandet Barn” och hälsa.
+historiska byggnader. I Varbergs hamn har besö-
+kare fått möjlighet att bli guidade på det berömda
+Galtabäcksskeppet.
+
+Natur- och kulturguidningar i kommunen ar-
+rangerades i samarrangemang med bland andra
+Varbergskretsens biodlarförening, Svenska Turist-
+föreningen Kungsbacka Varberg, Cykelfrämjandet
 Varberg och Naturskyddsföreningen i Varberg. I
-Varberg har Foldern ”Upplev Naturen” getts ut med Alla planerade guidningar kunde inte genomföras
-vår hjälp och ekonomiskt stöd av Varbergs kom- på grund av pandemin.
+Varberg har Foldern ”Upplev Naturen” getts ut med
+vår hjälp och ekonomiskt stöd av Varbergs kom-
 mun och naturum Getterön. Tolv olika organisa-
 tioner har fått presentera sina utomhusaktiviteter
-i en omtyckt folder. I foldern bjöds in till ett 60-tal
 
+i en omtyckt folder. I foldern bjöds in till ett 60-tal
 arrangemang, men flera fick ställas in på grund av
 smittläget.
 
@@ -15987,18 +16879,77 @@ vi anordnat en föreläsning på tema textilt återbruk
 och genomfört spinn- och vävcirklar och slöjdcafé.
 
 Vi har utvecklat slöjden med prova-på-dagar och
+cirklar; täljkurser, karvsnitt och knivslöjd.
 
-cirklar; täljkurser, karvsnitt och knivslöjd. Lantlivsläger med 4H. Bilden är från Stättared.
+Vi har genomfört två veckor av 4H:s Matskola som
+är en veckoutbildning i och utanför en hemkun-
+skapssal. Dessutom har en mängd aktiviteter kring
+djur och natur genomförts på 4H-gården Ästad.
+
+Kreativa amatörmålare har haft kamratcirklar i våra
+lokaler och i Träslövsläge.
+
+Vi har tillsammans med sportfiskarna haft studie-
+cirklar i flugbindning.
+
+”Kvinnan här och i världen” heter en cirkel om
+mänskliga rättigheter som vi samordnade tillsam-
+mans med FN föreningen Varberg.
+
+Vi har haft spanskakurser för nybörjare och fort-
+sättning.
+
+Vi har haft svenskakurser för asylsökande.
+
+Fortsatt samarbete med Samordningsförbundet,
+där långtidssjuka erbjuds att delta i medicinsk
+yoga.
+
+Uppsökande och motiverande insatser har genom-
+förts för utrikesfödda kvinnor med tema ”Älskade
+Barn” och hälsa.
+
+Alla planerade guidningar kunde inte genomföras
+på grund av pandemin.
+
+Lantlivsläger med 4H. Bilden är från Stättared.
 15
 
 <!-- sida 409 -->
+
+Aktiviteter för unga inom djuromsorg har ge-
+nomförts.
+
+KUNGSBACKA
+
+Vi har genomfört tre veckor av 4H:s Matskola där
+barnen har kul med matlagning och motion.
+
+På 4H-gården Stättared har kulturarrangemang
+kring hotade lantraser genomförts. 4H-gården har
+dessutom genomfört en mängd utbildningsaktivi-
+teter för unga inom djuromsorg och att vistas i na-
+turen. På gården har också genomförts 4H-dagen,
+
+historiska och botaniska vandringar och föreläs-
+ningar om biodling. En ledare och guideutbildning
+genomfördes under våren till gårdens föreningsak-
+tiva, för att stärka gårdens guideverksamhet.
+
+I Kungsbacka har också Matskolor genomförts i
+samarbete mellan Studiefrämjandet och 4H.
+
+I mars medverkade vi vid Sverok Västs årsmöte på
+biblioteket i Kungsbacka.
+
+Vi har påbörjat samarbete med spelkultur-ansva-
 
 riga på kommunen. Vårt fysiska besök hos spel-
 kultur-centrat ”Digitalt kulturcenter” fick ställas in
 på grund av corona, men vi har istället haft onli-
 ne-möten. Vi har en rollspels-cirkel som flyttat ut
-
 sina träffar på nätet och med hjälp av olika digitala
+
 verktyg spelar vidare.
 
 I samarbete med Kungsbacka Brukshundklubb har
@@ -16023,34 +16974,25 @@ Språkcafé på Åsa bibliotek planerades med olika
 teman för hela våren men endast två kunde ge-
 nomföras.
 
-Aktiviteter för unga inom djuromsorg har ge- Kungsbacka kommun har fått medel från Länssty-
-nomförts.                            relsen för att bedriva svenska för föräldralediga. Vi
+Kungsbacka kommun har fått medel från Länssty-
+relsen för att bedriva svenska för föräldralediga. Vi
 fick uppdraget att genomföra kurserna. Vi startade
-KUNGSBACKA
 en grupp under hösten på Hålabäcks öppna försko-
 la.
-Vi har genomfört tre veckor av 4H:s Matskola där
-barnen har kul med matlagning och motion. Vi ingår i nätverket Föräldrar Emellan Kungsbacka
+
+Vi ingår i nätverket Föräldrar Emellan Kungsbacka
 som erbjuder gratis föreläsningar till föräldrar i
-På 4H-gården Stättared har kulturarrangemang Kungsbacka kommun. Vi hade en föreläsning med
-kring hotade lantraser genomförts. 4H-gården har Petra Krantz Lindgren, tema ”För barnets bästa –
-dessutom genomfört en mängd utbildningsaktivi- från tjat och skärmbråk till samarbete”. En digital
-teter för unga inom djuromsorg och att vistas i na- föreläsning som lockade drygt 300 deltagare.
-turen. På gården har också genomförts 4H-dagen,
+Kungsbacka kommun. Vi hade en föreläsning med
+Petra Krantz Lindgren, tema ”För barnets bästa –
+från tjat och skärmbråk till samarbete”. En digital
+föreläsning som lockade drygt 300 deltagare.
 
-historiska och botaniska vandringar och föreläs- Övrigt
-ningar om biodling. En ledare och guideutbildning Ett digitalt nyhetsbrev har skickats ut till alla våra
-genomfördes under våren till gårdens föreningsak- deltagare och ledare, där vi berättat om vår verk-
-tiva, för att stärka gårdens guideverksamhet. samhet och tipsat om utbildningar.
+Övrigt
 
-I Kungsbacka har också Matskolor genomförts i
-samarbete mellan Studiefrämjandet och 4H.
+Ett digitalt nyhetsbrev har skickats ut till alla våra
+deltagare och ledare, där vi berättat om vår verk-
+samhet och tipsat om utbildningar.
 
-I mars medverkade vi vid Sverok Västs årsmöte på
-
-biblioteket i Kungsbacka.
-
-Vi har påbörjat samarbete med spelkultur-ansva-
 16
 
 <!-- sida 410 -->
@@ -16511,55 +17453,92 @@ revisionsbolagets ansvar samt Den förtroendevalda revisorns ansvar.
 Vi är oberoende i förhållande till föreningen enligt god revisorssed i Sverige. Vi som registrerat revisionsbolag har fullgjort vårt yrkesetiska
 ansvar enligt dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som grund för våra uttalanden.
+
 Styrelsens ansvar
-Det är styrelsen som har ansvaret för att årsredovisningen upprättas Vid upprättandet av årsredovisningen ansvarar styrelsen för bedöm-
-och att den ger en rättvisande bild enligt årsredovisningslagen. Sty- ningen av föreningens förmåga att fortsätta verksamheten. Den upp-
-relsen ansvarar även för den interna kontroll som den bedömer är lyser, när så är tillämpligt, om förhållanden som kan påverka för-
-nödvändig för att upprätta en årsredovisning som inte innehåller mågan att fortsätta verksamheten och att använda antagandet om
-några väsentliga felaktigheter, vare sig dessa beror på oegentlig- fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om sty-
-heter eller misstag.               relsen avser att likvidera föreningen, upphöra med verksamheten el-
+Det är styrelsen som har ansvaret för att årsredovisningen upprättas
+och att den ger en rättvisande bild enligt årsredovisningslagen. Sty-
+relsen ansvarar även för den interna kontroll som den bedömer är
+nödvändig för att upprätta en årsredovisning som inte innehåller
+några väsentliga felaktigheter, vare sig dessa beror på oegentlig-
+heter eller misstag.
+
+Vid upprättandet av årsredovisningen ansvarar styrelsen för bedöm-
+ningen av föreningens förmåga att fortsätta verksamheten. Den upp-
+lyser, när så är tillämpligt, om förhållanden som kan påverka för-
+mågan att fortsätta verksamheten och att använda antagandet om
+fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om sty-
+relsen avser att likvidera föreningen, upphöra med verksamheten el-
 ler inte har något realistiskt alternativ till att göra något av detta.
+
 Det registrerade revisionsbolagets ansvar
-Vi har att utföra revisionen enligt International Standards on Auditing 
-utvärderar vi lämpligheten i de redovisningsprinciper som an-
+Vi har att utföra revisionen enligt International Standards on Auditing
 (ISA) och god revisionssed i Sverige. Vårt mål är att uppnå en rimlig
-vänds och rimligheten i styrelsens uppskattningar i redovis-
 grad av säkerhet om huruvida årsredovisningen som helhet inte in-
-ningen och tillhörande upplysningar.
 nehåller några väsentliga felaktigheter, vare sig dessa beror på oe-
-gentligheter eller misstag. Rimlig säkerhet är en hög grad av säker-  drar vi en slutsats om lämpligheten i att styrelsen använder an-
-het, men är ingen garanti för att en revision som utförs enligt ISA och tagandet om fortsatt drift vid upprättandet av årsredovisningen.
-god revisionssed i Sverige alltid kommer att upptäcka en väsentlig Vi drar också en slutsats, med grund i de inhämtade revisions-
-felaktighet om en sådan finns. Felaktigheter kan uppstå på grund av bevisen, om huruvida det finns någon väsentlig osäkerhetsfak-
-oegentligheter eller misstag och anses vara väsentliga om de enskilt tor som avser sådana händelser eller förhållanden som kan
-eller tillsammans rimligen kan förväntas påverka de ekonomiska be- leda till betydande tvivel om föreningens förmåga att fortsätta
-slut som användare fattar med grund i årsredovisningen. verksamheten. Om vi drar slutsatsen att det finns en väsentlig
-Som del av en revision enligt ISA använder vi professionellt omdöme osäkerhetsfaktor, måste vi i revisionsberättelsen fästa uppmärk-
-och har en professionellt skeptisk inställning under hela revisionen. samheten på upplysningarna i årsredovisningen om den vä-
-Dessutom:                             sentliga osäkerhetsfaktorn eller, om sådana upplysningar är
-otillräckliga, modifiera uttalandet om årsredovisningen. Våra
+gentligheter eller misstag. Rimlig säkerhet är en hög grad av säker-
+het, men är ingen garanti för att en revision som utförs enligt ISA och
+god revisionssed i Sverige alltid kommer att upptäcka en väsentlig
+felaktighet om en sådan finns. Felaktigheter kan uppstå på grund av
+oegentligheter eller misstag och anses vara väsentliga om de enskilt
+eller tillsammans rimligen kan förväntas påverka de ekonomiska be-
+slut som användare fattar med grund i årsredovisningen.
+Som del av en revision enligt ISA använder vi professionellt omdöme
+och har en professionellt skeptisk inställning under hela revisionen.
+Dessutom:
 
-identifierar och bedömer vi riskerna för väsentliga felaktigheter i slutsatser baseras på de revisionsbevis som inhämtas fram till
-årsredovisningen, vare sig dessa beror på oegentligheter eller datumet för revisionsberättelsen. Dock kan framtida händelser
-misstag, utformar och utför granskningsåtgärder bland annat ut- eller förhållanden göra att en förening inte längre kan fortsätta
-ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga verksamheten.
+identifierar och bedömer vi riskerna för väsentliga felaktigheter i
+årsredovisningen, vare sig dessa beror på oegentligheter eller
+misstag, utformar och utför granskningsåtgärder bland annat ut-
+ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga
 och ändamålsenliga för att utgöra en grund för våra uttalanden.
-
-Risken för att inte upptäcka en väsentlig felaktighet till följd av utvärderar vi den övergripande presentationen, strukturen och
-oegentligheter är högre än för en väsentlig felaktighet som be- innehållet i årsredovisningen, däribland upplysningarna, och om
-ror på misstag, eftersom oegentligheter kan innefatta agerande årsredovisningen återger de underliggande transaktionerna och
-i maskopi, förfalskning, avsiktliga utelämnanden, felaktig inform- händelserna på ett sätt som ger en rättvisande bild.
+Risken för att inte upptäcka en väsentlig felaktighet till följd av
+oegentligheter är högre än för en väsentlig felaktighet som be-
+ror på misstag, eftersom oegentligheter kan innefatta agerande
+i maskopi, förfalskning, avsiktliga utelämnanden, felaktig inform-
 ation eller åsidosättande av intern kontroll.
-Vi måste informera styrelsen om bland annat revisionens planerade
- skaffar vi oss en förståelse av den del av föreningens interna omfattning och inriktning samt tidpunkten för den. Vi måste också in-
-kontroll som har betydelse för vår revision för att utforma formera om betydelsefulla iakttagelser under revisionen, däribland de
-granskningsåtgärder som är lämpliga med hänsyn till omstän- eventuella betydande brister i den interna kontrollen som vi identifie-
-digheterna, men inte för att uttala oss om effektiviteten i den in- rat.
+
+skaffar vi oss en förståelse av den del av föreningens interna
+kontroll som har betydelse för vår revision för att utforma
+granskningsåtgärder som är lämpliga med hänsyn till omstän-
+digheterna, men inte för att uttala oss om effektiviteten i den in-
 terna kontrollen.
+
+
+utvärderar vi lämpligheten i de redovisningsprinciper som an-
+vänds och rimligheten i styrelsens uppskattningar i redovis-
+ningen och tillhörande upplysningar.
+
+drar vi en slutsats om lämpligheten i att styrelsen använder an-
+tagandet om fortsatt drift vid upprättandet av årsredovisningen.
+Vi drar också en slutsats, med grund i de inhämtade revisions-
+bevisen, om huruvida det finns någon väsentlig osäkerhetsfak-
+tor som avser sådana händelser eller förhållanden som kan
+leda till betydande tvivel om föreningens förmåga att fortsätta
+verksamheten. Om vi drar slutsatsen att det finns en väsentlig
+osäkerhetsfaktor, måste vi i revisionsberättelsen fästa uppmärk-
+samheten på upplysningarna i årsredovisningen om den vä-
+sentliga osäkerhetsfaktorn eller, om sådana upplysningar är
+otillräckliga, modifiera uttalandet om årsredovisningen. Våra
+slutsatser baseras på de revisionsbevis som inhämtas fram till
+datumet för revisionsberättelsen. Dock kan framtida händelser
+eller förhållanden göra att en förening inte längre kan fortsätta
+verksamheten.
+
+utvärderar vi den övergripande presentationen, strukturen och
+innehållet i årsredovisningen, däribland upplysningarna, och om
+årsredovisningen återger de underliggande transaktionerna och
+händelserna på ett sätt som ger en rättvisande bild.
+Vi måste informera styrelsen om bland annat revisionens planerade
+omfattning och inriktning samt tidpunkten för den. Vi måste också in-
+formera om betydelsefulla iakttagelser under revisionen, däribland de
+eventuella betydande brister i den interna kontrollen som vi identifie-
+rat.
+
 Den förtroendevalda revisorns ansvar
 Jag har att utföra en revision enligt revisionslagen och därmed enligt god revisionssed i Sverige. Mitt mål är att uppnå en rimlig grad av säker-
 het om huruvida årsredovisningen har upprättats i enlighet med årsredovisningslagen och om årsredovisningen ger en rättvisande bild av
 föreningens resultat och ställning.
+
 Revisionsberättelse Studiefrämjandet Halland, org. nr 849600-4865, 2020 1 (2)
 29
 
@@ -16569,6 +17548,7 @@ Rapport om andra krav enligt lagar och andra författningar samt stadgar
 Uttalande
 Utöver vår revision av årsredovisningen har vi även utfört en revision av styrelsens förvaltning för Studiefrämjandet Halland för år 2020.
 Vi tillstyrker att föreningsstämman beviljar styrelsens ledamöter ansvarsfrihet för räkenskapsåret.
+
 Grund för uttalande
 Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt ansvar enligt denna beskrivs närmare i avsnittet Revisorns ansvar. Vi är obero-
 ende i förhållande till föreningen enligt god revisorssed i Sverige. Vi som registrerat revisionsbolag har i övrigt fullgjort vårt yrkesetiska ansvar
@@ -16576,26 +17556,37 @@ enligt dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som grund för vårt uttalande.
 Styrelsens ansvar
 Det är styrelsen som har ansvaret för förvaltningen.
+
 Revisorns ansvar
-Vårt mål beträffande revisionen av förvaltningen, och därmed vårt ut- Som en del av en revision enligt god revisionssed i Sverige använder
-talande om ansvarsfrihet, är att inhämta revisionsbevis för att med en det registrerade revisionsbolaget professionellt omdöme och har en
-rimlig grad av säkerhet kunna bedöma om någon styrelseledamot i professionellt skeptisk inställning under hela revisionen. Gransk-
-något väsentligt avseende företagit någon åtgärd eller gjort sig skyl- ningen av förvaltningen grundar sig främst på revisionen av räken-
-dig till någon försummelse som kan föranleda ersättningsskyldighet skaperna. Vilka tillkommande granskningsåtgärder som utförs base-
-mot föreningen.                    ras på det registrerade revisionsbolagets professionella bedömning
-och övriga valda revisorers bedömning med utgångspunkt i risk och
+Vårt mål beträffande revisionen av förvaltningen, och därmed vårt ut-
+talande om ansvarsfrihet, är att inhämta revisionsbevis för att med en
+rimlig grad av säkerhet kunna bedöma om någon styrelseledamot i
+något väsentligt avseende företagit någon åtgärd eller gjort sig skyl-
+dig till någon försummelse som kan föranleda ersättningsskyldighet
+mot föreningen.
 Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti för att
-väsentlighet. Det innebär att vi fokuserar granskningen på sådana åt-
 en revision som utförs enligt god revisionssed i Sverige alltid kommer
-gärder, områden och förhållanden som är väsentliga för verksam-
 att upptäcka åtgärder eller försummelser som kan föranleda ersätt-
-heten och där avsteg och överträdelser skulle ha särskild betydelse
 ningsskyldighet mot föreningen.
+
+Som en del av en revision enligt god revisionssed i Sverige använder
+det registrerade revisionsbolaget professionellt omdöme och har en
+professionellt skeptisk inställning under hela revisionen. Gransk-
+ningen av förvaltningen grundar sig främst på revisionen av räken-
+skaperna. Vilka tillkommande granskningsåtgärder som utförs base-
+ras på det registrerade revisionsbolagets professionella bedömning
+och övriga valda revisorers bedömning med utgångspunkt i risk och
+väsentlighet. Det innebär att vi fokuserar granskningen på sådana åt-
+gärder, områden och förhållanden som är väsentliga för verksam-
+heten och där avsteg och överträdelser skulle ha särskild betydelse
 för föreningens situation. Vi går igenom och prövar fattade beslut,
 beslutsunderlag, vidtagna åtgärder och andra förhållanden som är
 relevanta för vårt uttalande om ansvarsfrihet.
+
 Borås den
+
 KPMG AB
+
 Susanna Everborn       Gun Engström
 Auktoriserad revisor   Förtroendevald revisor
 
@@ -18084,44 +19075,148 @@ i  skuggan                  av       pandemin
 Kreativa lösningar och förmåga att ställa om visar att kunskap förändrar och att vi tillsammans klarar tuffa situationer och tvära kast.
 Utbildning fortsätter att spela en avgörande roll – under och efter coronapandemin.
 
-Inför 2020 fanns det signaler om en samtidigt fortsatt i form av studiecirk- stort vuxenutbildningsuppdrag för Utbildning avgörande när
-försämrad konjunktur med potential att lar i svenska och samhällsorientering Göteborgs Stad, något som bidragit till samhället startar om
-skapa nya möjligheter för studieförbund samt kurser i vardagssvenska och för en minskning av stiftelsens omsättning. Början av 2021 präglas av den pågående
-och andra utbildningsanordnare. Utbild- föräldralediga. En satsning på gratis Samtidigt har vi startat upp ny verksam- pandemin som fortsätter att ställa oss
-ning skulle bidra till att lösa några av distanskurser för dem som förlorat job- het på uppdrag av Göteborgs Stad: sfi inför nya utmaningar. Läget är fortfa-
-våra mest pockande samhällsutmaning- bet under pandemin har också inletts. och grundläggande vuxenutbildning på rande ovisst. Men en sak vet vi: Utbild-
-ar: att lyfta dem som inte gått klart gym- Samtliga insatser har finansierats med distans. Även där har vi sett ett mång- ning kommer att vara avgörande när
-nasiet, integrationen och omställningen riktade statsbidrag och rapporterats till dubbelt större inflöde än beräknat som samhället ska starta om och arbetslös-
-mitt i livet. Kort sagt insatser inom det Folkbildningsrådet. en konsekvens av pandemin. Göteborgs heten bekämpas. Kurser, studiecirklar
-”livslånga lärandet” där Folkuniversite-       upphandling av vuxenutbildning och sfi och kulturarrangemang kommer att
-tet är en viktig samhällsaktör. Lågkonjunkturen gav inflöde till prövas fortfarande juridisk, vilket gör fylla kunskapsmässiga och sociala be-
-När pandemin slog till förändrades skolorna   att verksamheten i nuläget bedrivs med hov även på andra sidan pandemin. Tills
-förutsättningarna från en dag till en En konsekvens av pandemin blev en halvårsvisa, temporära avtal. Kommun- dess gäller det att hålla i och hålla ut och
-annan och året som följde innebar starkt förändrad konjunktur med stigan- fullmäktige har fattat beslut om att in- fortsätta att ta ansvar för att minska
-många utmaningar, omställningar och de arbetslöshet som innebar ökat inflöde föra ett kundvalssystem inom sfi. Det är smittspridningen.
-nya lärdomar. De nationella restriktio- till våra skolor under hösten. Både yrkes- fortfarande oklart när det träder i kraft, Tills sist vill vi tacka Folkuniversite-
-nerna tvingade oss att snabbt gå över högskoleutbildningar och konst- och men förhoppningen är att det innebär tets samtliga medarbetare för oerhört
-till verksamhet på distans. Genom ett kulturskolor gjorde en stark rekrytering. slutet på ständiga överprövningar. imponerade insatser under detta turbu-
-otroligt engagemang från medarbetar- Problem uppstod dock i vissa utbildning- Liksom folkbildningen har däremot lenta år. Ert hårda arbete, era kreativa
-na lyckades vi inom loppet av några få ar inom hantverks- och estetområdena försäljningen av kurser och utbildningar lösningar och förmåga att snabbt ställa
-veckor. Därefter har nya pedagogiska där praktiska moment har varit svåra till företag och organisationer drabbats om visar att kunskap förändrar och att
-lösningar implementerats löpande, dels att utföra på distans. Gymnasieskolan i hårt då rekommendationer om hemarbe- vi tillsammans klarar oss igenom tuffa
-för att utveckla, dels för att möta kraven Trollhättan har högt söktryck och fort- te och det osäkra ekonomiska läget har situationer och tvära kast – nu och i
-från stat och huvudmän. sätter sitt utvecklingsarbete. gjort att många avvaktar. framtiden.
-Folkbildningen hårt drabbad Uppdragen växer med stigande Granskning visar god kvalitet
-Folkbildningen drabbades särskilt hårt arbetslöshet inom folkbildningen
-av pandemin. Strikta riktlinjer har gjort Även uppdragsverksamheten påver- På uppdrag av Folkbildningsrådet har
-att viss verksamhet inte har kunnat kades av den ökade arbetslösheten i vi tillsammans med resten av Folk-
-genomföras som planerat, något som pandemins efterföljd. Akademikerspåret universitetet och övriga studieförbund Martin Bergö
-lett till minskade kursintäkter. För att Korta Vägen som utförs på uppdrag gjort en omfattande kvalitetskontroll Ordförande
-motverka negativa ekonomiska kon- av Arbetsförmedlingen har haft en av studiecirkelverksamheten för åren
-sekvenser har vi vidtagit krisåtgärder särskilt god utveckling. Vi har också 2017–2019. Granskningen visar att vi har
-som korttidspermittering av lärare och fördjupat samarbetet med folkhögskolor god kvalitet och endast några mindre
-tjänstemän som beviljades och gav ett i regionen och bedriver i samverkan en justeringar har gjorts. Ett nytt regelverk Stig-Olov Blixt
-betydande stöd.         framgångsrik verksamhet riktad till och nya granskningar under 2021 kom- Stiftelserektor
-Arbetet riktat till asylsökande på nyanlända inom Etablering. mer på sikt att innebära förändringar för
-uppdrag av Folkbildningsrådet har Vid halvårsskiftet avvecklades ett alla studieförbund.
+Inför 2020 fanns det signaler om en
+försämrad konjunktur med potential att
+skapa nya möjligheter för studieförbund
+och andra utbildningsanordnare. Utbild-
+ning skulle bidra till att lösa några av
+våra mest pockande samhällsutmaning-
+ar: att lyfta dem som inte gått klart gym-
+nasiet, integrationen och omställningen
+mitt i livet. Kort sagt insatser inom det
+”livslånga lärandet” där Folkuniversite-
+tet är en viktig samhällsaktör.
+När pandemin slog till förändrades
+förutsättningarna från en dag till en
+annan och året som följde innebar
+många utmaningar, omställningar och
+nya lärdomar. De nationella restriktio-
+nerna tvingade oss att snabbt gå över
+till verksamhet på distans. Genom ett
+otroligt engagemang från medarbetar-
+na lyckades vi inom loppet av några få
+veckor. Därefter har nya pedagogiska
+lösningar implementerats löpande, dels
+för att utveckla, dels för att möta kraven
+från stat och huvudmän.
+Folkbildningen hårt drabbad
+Folkbildningen drabbades särskilt hårt
+av pandemin. Strikta riktlinjer har gjort
+att viss verksamhet inte har kunnat
+genomföras som planerat, något som
+lett till minskade kursintäkter. För att
+motverka negativa ekonomiska kon-
+sekvenser har vi vidtagit krisåtgärder
+som korttidspermittering av lärare och
+tjänstemän som beviljades och gav ett
+betydande stöd.
+Arbetet riktat till asylsökande på
+uppdrag av Folkbildningsrådet har
 2
+
+samtidigt fortsatt i form av studiecirk-
+lar i svenska och samhällsorientering
+samt kurser i vardagssvenska och för
+föräldralediga. En satsning på gratis
+distanskurser för dem som förlorat job-
+bet under pandemin har också inletts.
+Samtliga insatser har finansierats med
+riktade statsbidrag och rapporterats till
+Folkbildningsrådet.
+Lågkonjunkturen gav inflöde till
+skolorna
+En konsekvens av pandemin blev en
+starkt förändrad konjunktur med stigan-
+de arbetslöshet som innebar ökat inflöde
+till våra skolor under hösten. Både yrkes-
+högskoleutbildningar och konst- och
+kulturskolor gjorde en stark rekrytering.
+Problem uppstod dock i vissa utbildning-
+ar inom hantverks- och estetområdena
+där praktiska moment har varit svåra
+att utföra på distans. Gymnasieskolan i
+Trollhättan har högt söktryck och fort-
+sätter sitt utvecklingsarbete.
+Uppdragen växer med stigande
+arbetslöshet
+Även uppdragsverksamheten påver-
+kades av den ökade arbetslösheten i
+pandemins efterföljd. Akademikerspåret
+Korta Vägen som utförs på uppdrag
+av Arbetsförmedlingen har haft en
+särskilt god utveckling. Vi har också
+fördjupat samarbetet med folkhögskolor
+i regionen och bedriver i samverkan en
+framgångsrik verksamhet riktad till
+nyanlända inom Etablering.
+Vid halvårsskiftet avvecklades ett
+
+stort vuxenutbildningsuppdrag för
+Göteborgs Stad, något som bidragit till
+en minskning av stiftelsens omsättning.
+Samtidigt har vi startat upp ny verksam-
+het på uppdrag av Göteborgs Stad: sfi
+och grundläggande vuxenutbildning på
+distans. Även där har vi sett ett mång-
+dubbelt större inflöde än beräknat som
+en konsekvens av pandemin. Göteborgs
+upphandling av vuxenutbildning och sfi
+prövas fortfarande juridisk, vilket gör
+att verksamheten i nuläget bedrivs med
+halvårsvisa, temporära avtal. Kommun-
+fullmäktige har fattat beslut om att in-
+föra ett kundvalssystem inom sfi. Det är
+fortfarande oklart när det träder i kraft,
+men förhoppningen är att det innebär
+slutet på ständiga överprövningar.
+Liksom folkbildningen har däremot
+försäljningen av kurser och utbildningar
+till företag och organisationer drabbats
+hårt då rekommendationer om hemarbe-
+te och det osäkra ekonomiska läget har
+gjort att många avvaktar.
+Granskning visar god kvalitet
+inom folkbildningen
+På uppdrag av Folkbildningsrådet har
+vi tillsammans med resten av Folk-
+universitetet och övriga studieförbund
+gjort en omfattande kvalitetskontroll
+av studiecirkelverksamheten för åren
+2017–2019. Granskningen visar att vi har
+god kvalitet och endast några mindre
+justeringar har gjorts. Ett nytt regelverk
+och nya granskningar under 2021 kom-
+mer på sikt att innebära förändringar för
+alla studieförbund.
+
+Utbildning avgörande när
+samhället startar om
+Början av 2021 präglas av den pågående
+pandemin som fortsätter att ställa oss
+inför nya utmaningar. Läget är fortfa-
+rande ovisst. Men en sak vet vi: Utbild-
+ning kommer att vara avgörande när
+samhället ska starta om och arbetslös-
+heten bekämpas. Kurser, studiecirklar
+och kulturarrangemang kommer att
+fylla kunskapsmässiga och sociala be-
+hov även på andra sidan pandemin. Tills
+dess gäller det att hålla i och hålla ut och
+fortsätta att ta ansvar för att minska
+smittspridningen.
+Tills sist vill vi tacka Folkuniversite-
+tets samtliga medarbetare för oerhört
+imponerade insatser under detta turbu-
+lenta år. Ert hårda arbete, era kreativa
+lösningar och förmåga att snabbt ställa
+om visar att kunskap förändrar och att
+vi tillsammans klarar oss igenom tuffa
+situationer och tvära kast – nu och i
+framtiden.
+Martin Bergö
+Ordförande
+Stig-Olov Blixt
+Stiftelserektor
 
 <!-- sida 516 -->
 
@@ -18180,53 +19275,150 @@ Med          kniven               mot         strupen
 Andreas Åhs Harald Nilsson
 
 En imponerande prestation. Så sammanfattar Ulrika Andersson Meijer den digitala omställning kurs-
-Att  gå
 verksamheten gjorde i mars. Nu ser hon fram emot att vinna tillbaka deltagarna när samhället öppnar igen.
-När coronapandemin slog till förändra- resande, har haft en negativ utveckling. påbörjat betydligt tidigare och innan genom rutan
-des allt över en natt. Hundratals kun- Men det finns också kurser som går pandemin. I framtiden måste vi vara på
-skapssugna brukade samlas varje dag i bättre än någonsin. tårna och inte vänta tills vi har kniven
-Martin Fridlizius ger sina bästa
-Folkuniversitetets lokaler runt Järntor- – Skrivande, navigation, inredning mot strupen.
-get i Göteborg. Nu ekade korridorerna och trädgård trendar. Människor har När pandemin är över väntar ett tips för att lyckas med distans-
-tomma.                  anpassat sig efter pandemin och vänt sig stenhårt arbete för att vinna tillbaka
-undervisning.
-– Vi pausade precis allt när vuxen- inåt, mot hemmet, naturen och sig själva, deltagarna.
-utbildningen ställdes om till distans i säger Ulrika Andersson Meijer. – Vi vill ju gärna tro att de bara sitter Det är minst lika viktigt att tänka på
-mitten av mars. Vi hade 1–2 veckor på oss       och väntar på att få komma tillbaka till avsikt, delaktighet och pedagogisk stra-
-och jobbade dag och natt med att köpa Coronan gav hjälp på traven Folkuniversitetet. Men det är inte givet tegi när man undervisar på distans som
-in digitala verktyg och fortbilda lärarna Vid sidan av de ekonomiska utmaning- att man vill gå en kurs när samhället i ett vanligt klassrum. Det säger Martin
-i att sköta undervisningen hemifrån, arna tycker Ulrika Andersson Meijer öppnar igen. Man kanske har hittat en Fridlizius, svensklärare på Folkuniversi-
-säger Ulrika Andersson Meijer, verksam- att pandemin paradoxalt nog har fört annan hobby som drar istället. Nu måste tetet i Göteborg.
-hetschef för kursenheten i Göteborg. mycket gott med sig. vi lägga örat mot marken och ta reda på Interaktionen och lusten att vistas
-– Det var en mycket imponerande – Vi har som sagt tagit enorma kliv hur människors livsstil och beteenden i det digitala rummet präglas av om
-prestation och fantastiskt att se hur alla i vår digitalisering och utvecklat både har förändrats och skruva vårt utbud läraren lyckas skapa en kommunikativ
-medarbetare växlade upp för att klara pedagogiken och formaten. Där har därefter. Det ska bli riktigt spännande, atmosfär som bygger på tillit, tilltal och
-utmaningen. Vi genomförde flera års coronan onekligen hjälpt oss på traven. säger Ulrika Andersson Meijer. tonfall. Själv använder Martin Fridlizius
-utvecklingsarbete på bara några dagar – Distans live, kurser på distans i realtid, ofta rekvisita och rollspel.
-och det gick.           är något vi verkligen har upptäckt och              – En enkel handling som att koka ägg
-kommer att ta med oss, säger hon.                  kan få en dramatisk kvalitet och bli
-Har anpassat sig efter pandemin Hon ser också en digital framtid för       språkligt intressant. ”Häll vatten i kast-
-Trots en framgångsrik omställning fick smalare ämnen som kan locka deltagare rullen! Sätt den på spisen! Lägg ägget
-coronapandemin inte helt oväntat en från hela landet och nya möjligheter att försiktigt i kastrullen!” Här finns mycket
-starkt negativ inverkan på kurser och nå människor som bor långt ifrån stor- att hämta som tränar och utvecklar del-
-studiecirklar. Intäkterna sjönk drastiskt städernas breda utbud och kurslokaler. tagarnas språk, säger Martin Fridlizius.
-när många valde att pausa sina studier – Det kan vara svårt att få igång kur- Han arbetar mycket med att skapa
-i väntan på att få komma tillbaka till ser i till exempel urdu eller bulgariska kontextuellt rika och visuella situa-
-klassrummet.            för det är alldeles för få som är intresse-        tioner som är lätta att komma ihåg,
-– Ett av våra främsta säljargument rade i Göteborg. Ett annat exempel är  med mottot ”att lära genom att göra”.
-är att vi är riktigt duktiga på att göra Tecken som stöd som säljer som smör En annan metod han ofta använder är
-kurser på plats, IRL. Det är vad folk just nu. Med den ökade tillgängligheten ”break-out-room”-funktionen, ett ut-
-köper hos oss och betalar lite extra för; kan deltagare från hela Sverige anmäla Distans Live märkt digitalt forum för diskussion och
-att komma hit och träffa kursledare och sig och gå kurser i realtid.       argumentation.
+
+När coronapandemin slog till förändra-
+des allt över en natt. Hundratals kun-
+skapssugna brukade samlas varje dag i
+Folkuniversitetets lokaler runt Järntor-
+get i Göteborg. Nu ekade korridorerna
+tomma.
+– Vi pausade precis allt när vuxen-
+utbildningen ställdes om till distans i
+mitten av mars. Vi hade 1–2 veckor på oss
+och jobbade dag och natt med att köpa
+in digitala verktyg och fortbilda lärarna
+i att sköta undervisningen hemifrån,
+säger Ulrika Andersson Meijer, verksam-
+hetschef för kursenheten i Göteborg.
+– Det var en mycket imponerande
+prestation och fantastiskt att se hur alla
+medarbetare växlade upp för att klara
+utmaningen. Vi genomförde flera års
+utvecklingsarbete på bara några dagar –
+och det gick.
+Har anpassat sig efter pandemin
+Trots en framgångsrik omställning fick
+coronapandemin inte helt oväntat en
+starkt negativ inverkan på kurser och
+studiecirklar. Intäkterna sjönk drastiskt
+när många valde att pausa sina studier
+i väntan på att få komma tillbaka till
+klassrummet.
+– Ett av våra främsta säljargument
+är att vi är riktigt duktiga på att göra
+kurser på plats, IRL. Det är vad folk
+köper hos oss och betalar lite extra för;
+att komma hit och träffa kursledare och
+andra människor som delar deras intres-
+se, säger Ulrika Andersson Meijer.
+Konstnärliga kurser drabbades sär-
+skilt hårt, men även språkkurserna, som
+har en stark koppling till målgruppernas
+
+resande, har haft en negativ utveckling.
+Men det finns också kurser som går
+bättre än någonsin.
+– Skrivande, navigation, inredning
+och trädgård trendar. Människor har
+anpassat sig efter pandemin och vänt sig
+inåt, mot hemmet, naturen och sig själva,
+säger Ulrika Andersson Meijer.
+Coronan gav hjälp på traven
+Vid sidan av de ekonomiska utmaning-
+arna tycker Ulrika Andersson Meijer
+att pandemin paradoxalt nog har fört
+mycket gott med sig.
+– Vi har som sagt tagit enorma kliv
+i vår digitalisering och utvecklat både
+pedagogiken och formaten. Där har
+coronan onekligen hjälpt oss på traven.
+Distans live, kurser på distans i realtid,
+är något vi verkligen har upptäckt och
+kommer att ta med oss, säger hon.
+Hon ser också en digital framtid för
+smalare ämnen som kan locka deltagare
+från hela landet och nya möjligheter att
+nå människor som bor långt ifrån stor-
+städernas breda utbud och kurslokaler.
+– Det kan vara svårt att få igång kur-
+ser i till exempel urdu eller bulgariska
+för det är alldeles för få som är intresse-
+rade i Göteborg. Ett annat exempel är
+Tecken som stöd som säljer som smör
+just nu. Med den ökade tillgängligheten
+kan deltagare från hela Sverige anmäla
+sig och gå kurser i realtid.
+En annan lärdom Ulrika Andersson
+Meijer tar med sig från coronaåret är att
+inte vänta.
+– Vi landade på fötterna med den
+digitala omställningen som vi kunde ha
+
+påbörjat betydligt tidigare och innan
+pandemin. I framtiden måste vi vara på
+tårna och inte vänta tills vi har kniven
+mot strupen.
+När pandemin är över väntar ett
+stenhårt arbete för att vinna tillbaka
+deltagarna.
+– Vi vill ju gärna tro att de bara sitter
+och väntar på att få komma tillbaka till
+Folkuniversitetet. Men det är inte givet
+att man vill gå en kurs när samhället
+öppnar igen. Man kanske har hittat en
+annan hobby som drar istället. Nu måste
+vi lägga örat mot marken och ta reda på
+hur människors livsstil och beteenden
+har förändrats och skruva vårt utbud
+därefter. Det ska bli riktigt spännande,
+säger Ulrika Andersson Meijer.
+
+Distans Live
 På en distans live-kurs är deltagarna
-andra människor som delar deras intres- En annan lärdom Ulrika Andersson    – Välj teman som är personligt
 och kursledaren aktiva samtidigt på
-se, säger Ulrika Andersson Meijer. Meijer tar med sig från coronaåret är att relevanta och socialt angelägna till-
 en bestämd dag och tid – precis som i
-Konstnärliga kurser drabbades sär- inte vänta.                            sammans med deltagarna. Det skapar
 ett vanligt klassrum.
-skilt hårt, men även språkkurserna, som – Vi landade på fötterna med den   engagemang och väcker intresse, säger
-har en stark koppling till målgruppernas digitala omställningen som vi kunde ha Martin Fridlizius.
+
+Att  gå
+
+genom      rutan
+
+Martin Fridlizius ger sina bästa
+tips för att lyckas med distans-
+undervisning.
+Det är minst lika viktigt att tänka på
+avsikt, delaktighet och pedagogisk stra-
+tegi när man undervisar på distans som
+i ett vanligt klassrum. Det säger Martin
+Fridlizius, svensklärare på Folkuniversi-
+tetet i Göteborg.
+Interaktionen och lusten att vistas
+i det digitala rummet präglas av om
+läraren lyckas skapa en kommunikativ
+atmosfär som bygger på tillit, tilltal och
+tonfall. Själv använder Martin Fridlizius
+ofta rekvisita och rollspel.
+– En enkel handling som att koka ägg
+kan få en dramatisk kvalitet och bli
+språkligt intressant. ”Häll vatten i kast-
+rullen! Sätt den på spisen! Lägg ägget
+försiktigt i kastrullen!” Här finns mycket
+att hämta som tränar och utvecklar del-
+tagarnas språk, säger Martin Fridlizius.
+Han arbetar mycket med att skapa
+kontextuellt rika och visuella situa-
+tioner som är lätta att komma ihåg,
+med mottot ”att lära genom att göra”.
+En annan metod han ofta använder är
+”break-out-room”-funktionen, ett ut-
+märkt digitalt forum för diskussion och
+argumentation.
+– Välj teman som är personligt
+relevanta och socialt angelägna till-
+sammans med deltagarna. Det skapar
+engagemang och väcker intresse, säger
+Martin Fridlizius.
 5
 
 <!-- sida 519 -->
@@ -18242,181 +19434,384 @@ teborgs universitet, just med uppdraget
 att föra ut forskningsinformation och
 Eva Lundgren
 folkbildning till allmänheten i västra
-Sverige. Jonsereds herrgård är en viktig
-Ett nytt samarbete mellan Jonsereds herrgård vid Göteborgs universi- samverkanspartner i det arbetet, säger
-tet och Folkuniversitetet tar det akademiska samtalet vidare till publika Stig-Olov Blixt.
-Lena Ulrika Rudeke, verksamhets- och
+
+Ett nytt samarbete mellan Jonsereds herrgård vid Göteborgs universi-
+tet och Folkuniversitetet tar det akademiska samtalet vidare till publika
 scener och platser.
+
+Jonsereds herrgård är Göteborgs
+universitets särskilda mötesplats för
+samverkan, och verksamheten bedrivs
+på rektors uppdrag. En av de bärande
+grenarna handlar om folkbildning.
+Därför har man sedan länge ett väl rotat
+samarbete med Folkuniversitetet. Nu
+har samarbetet stärkts och ett avtal upp-
+rättats mellan de båda aktörerna: den så
+kallade Tvåspårsmodellen.
+Tvåspårsmodellen innebär en ännu
+starkare betoning på akademisk forsk-
+ning i samverkan med folkbildning.
+– Folkuniversitetet har samverkat med
+Jonsereds herrgård under många år. I
+och med vårt avtal har samarbetet nu
+blivit mer systematiserat och vi kommer
+att nå ut ännu bredare än tidigare, säger
+Stig-Olov Blixt, rektor på Folkuniversi-
+tetet.
+I de avgränsade Jonseredssemi-
+narierna ute på herrgården träffas
+mindre grupper med människor utifrån
+olika forsk-
+ningsområden,
+verksamheter
+och perspektiv
+för att diskute-
+ra angelägna
+frågor som
+ligger i tiden. Stig-Olov Blixt
+I Tvåspårs-
+modellen
+flyttar det akademiska samtalet vidare,
+och ut till publika scener, platser och
+
+livesändningar. Genom att låta semina-
+rieserier i Jonsered och föreläsningar för
+allmänheten vävas samman och löpa
+parallellt åstadkoms en ny, helt unik
+korsbefruktning.
+– Jag känner inte till någon annan
+verksamhet som fungerar på det sättet,
+som kombinerar mer personliga möten
+med öppna arrangemang, säger Stig-
+Olov Blixt. Det vinnande konceptet har
+varit att satsa på aktuella ämnen, sådant
+som just nu diskuteras i samhället och
+som lockar en bred publik.
+På Kvartersscenen 2Lång i Göte-
+borg har allmänheten kunnat ta del
+av ett första resultat av detta utökade
+samarbete, i satsningen ”Forskaren
+som aktivist”. Och precis som i seriens
+tillhörande seminarier på Jonsereds
+herrgård, handlar det om vetenskap och
+samhällsengagemang. Kvällarna bjuder
+på djupintervju med en forskare under
+ungefär en timme, sedan följer diskus-
+sion med publiken, och slutligen musik
+från intervjupersonens egen spellista.
+Under pandemin har serien sänts live via
+Facebook och nått en stor publik.
+– Forskarens personliga engagemang
+är annars något vi ofta missar att lyfta
+fram i våra föreläsningar och andra ar-
+rangemang. Just ett starkt engagemang
+eller djupt intresse är spännande att ta
+del av, inte minst för en ung publik.
+Stig-Olov Blixt har varit ledamot av
+Jonsereds herrgårds styrgrupp i sju år.
+
+Sverige. Jonsereds herrgård är en viktig
+samverkanspartner i det arbetet, säger
+Stig-Olov Blixt.
+Lena Ulrika Rudeke, verksamhets- och
 programansvarig för Jonsereds herr-
 gård, konstate-
-Jonsereds herrgård är Göteborgs livesändningar. Genom att låta semina- rar kraften i det
-universitets särskilda mötesplats för rieserier i Jonsered och föreläsningar för gemensamma
-samverkan, och verksamheten bedrivs allmänheten vävas samman och löpa sättet att arbeta:
-på rektors uppdrag. En av de bärande parallellt åstadkoms en ny, helt unik – På Jon-
-grenarna handlar om folkbildning. korsbefruktning. sereds herr-
-Därför har man sedan länge ett väl rotat – Jag känner inte till någon annan gård möts vi
-samarbete med Folkuniversitetet. Nu verksamhet som fungerar på det sättet, i avgränsade
-har samarbetet stärkts och ett avtal upp- som kombinerar mer personliga möten sammanhang
-rättats mellan de båda aktörerna: den så med öppna arrangemang, säger Stig- tillsammans
-kallade Tvåspårsmodellen. Olov Blixt. Det vinnande konceptet har med människor från samhällets olika
-Tvåspårsmodellen innebär en ännu varit att satsa på aktuella ämnen, sådant grenar, för att med utgångspunkt i
-starkare betoning på akademisk forsk- som just nu diskuteras i samhället och forskning och utbildning gemensamt
-ning i samverkan med folkbildning. som lockar en bred publik. formulera samtidens utmaningar. Men
-– Folkuniversitetet har samverkat med På Kvartersscenen 2Lång i Göte- där får inte arbetet stanna. Våra öppna
-Jonsereds herrgård under många år. I borg har allmänheten kunnat ta del publika samtal samlar idag tusentals del-
-och med vårt avtal har samarbetet nu av ett första resultat av detta utökade tagare, som är engagerade i frågan
-blivit mer systematiserat och vi kommer samarbete, i satsningen ”Forskaren om vetenskapens roll i samhällsbygget.
-9    245
-att nå ut ännu bredare än tidigare, säger som aktivist”. Och precis som i seriens Under mina många år i olika slags
-Stig-Olov Blixt, rektor på Folkuniversi- tillhörande seminarier på Jonsereds folkbildande verksamheter har jag sällan
-tetet.                  herrgård, handlar det om vetenskap och sett ett så stort intresse för att diskutera
-I de avgränsade Jonseredssemi- samhällsengagemang. Kvällarna bjuder vetenskap i sig, inte bara de ämnen den
-narierna ute på herrgården träffas på djupintervju med en forskare under utforskar. Under 2020 besökte 9 245
-mindre grupper med människor utifrån ungefär en timme, sedan följer diskus- Stig-Olov Blixt ser med stor tillförsikt
-olika forsk-            sion med publiken, och slutligen musik på hur samarbetet mellan Folkuniversi- personer Folkuniversitetets
-ningsområden,           från intervjupersonens egen spellista. tetet och Jonsereds herrgård inte bara
-populärvetenskapliga
-verksamheter            Under pandemin har serien sänts live via leder till gemensamma arrangemang,
-och perspektiv          Facebook och nått en stor publik. utan även inspirerar vidare: föreläsningar och samtal i
-för att diskute-         – Forskarens personliga engagemang – Mycket av det vi i övrigt gör, till-
-ra angelägna            är annars något vi ofta missar att lyfta sammans med forskare från Göteborgs Västsverige. Totalt arrang-
-frågor som              fram i våra föreläsningar och andra ar- universitet, har vi fått tips och idéer till
-erades 83 föreläsningar i 11
-ligger i tiden. Stig-Olov Blixt rangemang. Just ett starkt engagemang genom samverkan med Jonseredsverk-
-I Tvåspårs-            eller djupt intresse är spännande att ta samheten. kommuner. 32 föreläsningar
-modellen                del av, inte minst för en ung publik.
-flyttar det akademiska samtalet vidare, Stig-Olov Blixt har varit ledamot av och samtal var digitala och
-och ut till publika scener, platser och Jonsereds herrgårds styrgrupp i sju år.
-streamades live.
-6
-nossliN
-dlaraH
-:otoF
-grobgniW
-nahoJ
-:otoF
-nosslO
-naröG
-:otoF
-Lena Ulrika
+rar kraften i det
+gemensamma
+sättet att arbeta:
+– På Jon-
+sereds herr-
+gård möts vi Lena Ulrika
+i avgränsade
 Rudeke
+sammanhang
+tillsammans
+med människor från samhällets olika
+grenar, för att med utgångspunkt i
+forskning och utbildning gemensamt
+formulera samtidens utmaningar. Men
+där får inte arbetet stanna. Våra öppna
+publika samtal samlar idag tusentals del-
+tagare, som är engagerade i frågan
+om vetenskapens roll i samhällsbygget.
+Under mina många år i olika slags
+folkbildande verksamheter har jag sällan
+sett ett så stort intresse för att diskutera
+vetenskap i sig, inte bara de ämnen den
+utforskar.
+Stig-Olov Blixt ser med stor tillförsikt
+på hur samarbetet mellan Folkuniversi-
+tetet och Jonsereds herrgård inte bara
+leder till gemensamma arrangemang,
+utan även inspirerar vidare:
+– Mycket av det vi i övrigt gör, till-
+sammans med forskare från Göteborgs
+universitet, har vi fått tips och idéer till
+genom samverkan med Jonseredsverk-
+samheten.
+
+6
+
+9    245
+
+Under 2020 besökte 9 245
+personer Folkuniversitetets
+populärvetenskapliga
+föreläsningar och samtal i
+
+Västsverige. Totalt arrang-
+erades 83 föreläsningar i 11
+kommuner. 32 föreläsningar
+och samtal var digitala och
+
+streamades live.
+
+Foto: Harald Nilsson
+
+Foto: Johan Wingborg
+
+Foto: Göran Olsson
 
 <!-- sida 520 -->
 
-1   536
 Utökad           särskild
 
 kontroll           2021
-Under 2020 deltog 1 536 personer
-i Folkuniversitetets AMNI-kurser
+
 Folkbildningsrådet har fattat beslut om förtydliganden och
-(Arbetsmarknadsnära insatser på
 skärpningar av villkoren för statsbidrag från och med 2021,
-distans). Kurserna var gratis för
 vilket Folkuniversitetet välkomnar.
-alla som blivit permitterade eller
-Folkbildningsrådet uppmanade i oktober 2020 studieförbunden att genomföra en på annat sätt fått sin anställning
+
+Folkbildningsrådet uppmanade i oktober 2020 studieförbunden att genomföra en
 utökad särskild kontroll av rapporterad verksamhet 2017, 2018 och 2019. Bakgrunden
-till begäran var konstaterade brister i flera studieförbunds (dock ej Folkuniversitetets) påverkad av coronapandemin.
+till begäran var konstaterade brister i flera studieförbunds (dock ej Folkuniversitetets)
 verksamhet i området Järva.
 Den särskilda kontrollen genomfördes mellan mitten av oktober 2020 och den 15
 januari 2021. En mer djupgående kontroll än tidigare möjliggjordes av ett samarbete
 inom Studieförbunden i samverkan, som inleddes redan våren 2020. Det bestod i
 utvecklingen av ett IT-baserat analysverktyg i Power BI och samkörning av studieför-
-bundens register.                                De     fick
+bundens register.
 Som ett resultat av den utökade särskilda kontrollen återkallade Folkuniversitetet
 sammanlagt 32 010 studietimmar för åren 2017, 2018 och 2019 vilket motsvarar 1,3
-procent av de rapporterade Folkuniversitetets
+procent av de rapporterade
 studietimmarna. Huvudde-
 len av återtaget, 80 procent,
-var ett resultat av att det nya stipendium
+var ett resultat av att det nya
 IT-baserade analysverktyget
 användes. Det handlar om
 grupper eller föreningar som
-rapporterat samma verksam- Årets mottagare av Folkuniversitetets stipendium är Vizion (VZN),
-het till flera studieförbund Karlstadsjuristerna och Afroinstitutionen.
+rapporterat samma verksam-
+het till flera studieförbund
 eller där en eller flera deltagare
-finns upptagna på samtidiga Folkuniversitetets stipendium för fri kunskapsbildning delas ut till grupper och
-studiesammankomster. Mer föreningar som bedriver studiecirklar i Västra Götalands, Hallands eller Värmlands
-än hälften av timmarna rörde län. Årets stipendiater är Vizion (VZN), Karlstadsjuristerna och Afroinstitutionen
-band och grupper inom musik- som får 10 000 kronor var för att utveckla sina respektive verksamheter.
+finns upptagna på samtidiga
+studiesammankomster. Mer
+än hälften av timmarna rörde
+band och grupper inom musik-
 området.
-Folkbildningsrådet har fat- Juryns motiveringar:
+Folkbildningsrådet har fat-
 tat beslut om förtydliganden
-och skärpningar av villkoren Vizion (VZN) tilldelas Folkuniversitetets stipendium för fri kunskapsbildning för
+och skärpningar av villkoren
 Cecilia Palm är
-för statsbidrag från och med sitt ideella arbete med att främja musikskapande, kreativitet och trygghet bland
+för statsbidrag från och med
 generalsekreterare
-2021, vilket Folkuniversitetet ungdomar i utsatta områden.
+2021, vilket Folkuniversitetet
 för Folkuniversitetet
-välkomnar.          Karlstadsjuristerna tilldelas Folkuniversitetets stipendium för fri kunskapsbild-
-– Vi bedömer att villkors- ning för sitt angelägna arbete med att i samarbete med Stadsmissionen och Karl-
-ändringarna tillsammans med stads universitet erbjuda kostnadsfri, juridisk rådgivning åt samhällets utsatta.
-en ökad användning av IT i uppföljningen och fortsatt samarbete studieförbunden Afroinstitutionen tilldelas Folkuniversitetets stipendium för fri kunskapsbildning
-emellan, kommer att leda till att den redan låga felprocenten kan minska ytterligare, för sitt viktiga arbete med att belysa bristen av afrosvensk representation i sam-
-säger Cecilia Palm, Folkuniversitetets generalsekreterare. hället och att stötta, bilda och stärka afrosvenskar samt förbättra afrosvenskars
+välkomnar.
+– Vi bedömer att villkors-
+ändringarna tillsammans med
+en ökad användning av IT i uppföljningen och fortsatt samarbete studieförbunden
+emellan, kommer att leda till att den redan låga felprocenten kan minska ytterligare,
+säger Cecilia Palm, Folkuniversitetets generalsekreterare.
+
+1   536
+
+Under 2020 deltog 1 536 personer
+i Folkuniversitetets AMNI-kurser
+(Arbetsmarknadsnära insatser på
+
+distans). Kurserna var gratis för
+alla som blivit permitterade eller
+på annat sätt fått sin anställning
+
+påverkad av coronapandemin.
+
+De     fick
+
+Folkuniversitetets
+
+stipendium
+
+Årets mottagare av Folkuniversitetets stipendium är Vizion (VZN),
+Karlstadsjuristerna och Afroinstitutionen.
+Folkuniversitetets stipendium för fri kunskapsbildning delas ut till grupper och
+föreningar som bedriver studiecirklar i Västra Götalands, Hallands eller Värmlands
+län. Årets stipendiater är Vizion (VZN), Karlstadsjuristerna och Afroinstitutionen
+som får 10 000 kronor var för att utveckla sina respektive verksamheter.
+Juryns motiveringar:
+
+Vizion (VZN) tilldelas Folkuniversitetets stipendium för fri kunskapsbildning för
+sitt ideella arbete med att främja musikskapande, kreativitet och trygghet bland
+ungdomar i utsatta områden.
+Karlstadsjuristerna tilldelas Folkuniversitetets stipendium för fri kunskapsbild-
+ning för sitt angelägna arbete med att i samarbete med Stadsmissionen och Karl-
+stads universitet erbjuda kostnadsfri, juridisk rådgivning åt samhällets utsatta.
+Afroinstitutionen tilldelas Folkuniversitetets stipendium för fri kunskapsbildning
+för sitt viktiga arbete med att belysa bristen av afrosvensk representation i sam-
+hället och att stötta, bilda och stärka afrosvenskar samt förbättra afrosvenskars
 sociala förutsättningar.
 7
-nosslO
-naröG
-:otoF
-apuaL
-sungaM
-:otoF
+
+Foto: Göran Olsson
+
+Foto: Magnus Laupa
 
 <!-- sida 521 -->
 
-Skolorna            fyller                       Dans           bortom
+Skolorna            fyller
 
-platserna             –
-alla      gränser
+platserna              –
+
 hantverk             i tiden
 
-Andreas Åhs Harald Nilsson
 Andreas Åhs Oskar Allerby
+
+Den positiva trenden håller i sig. Folkuniversitetets yrkeshögskola
+och konst- och kulturutbildningar gjorden en stark rekrytering.
+
+Efter att ansökan stängde den 15 april
+hade Folkuniversitetet mycket goda
+siffror på i stort sett alla utbildningar
+inom yrkeshögskolan och konst- och
+kulturområdet.
+Inom yrkeshögskolan var antalet sö-
+kande 738 till 192 platser, vilket innebär
+3,85 sökande per plats. Föregående år var
+motsvarande siffror 639 sökande till 242
+platser och 2,65 sökande per plats.
+KV Konstskola hade 92 sökande till 54
+platser på Konstnärlig grundläggande
+utbildning, 43 sökande till 14 platser på
+Konstnärlig fördjupning och 40 sökande
+till 14 platser på Bild och rumsgestalt-
+ning. Inredning och design på Art
+College hade 40 sökande till 17 platser
+och Skara Skolscens sceniska utbildning
+hade 59 sökande till 12 platser.
+– Vi kan konstatera en stor framgång.
+Vi har ett rekordstort antal sökande till
+samtliga utbildningar och fyller alla
+platser, säger Thomas Ringsby, region-
+chef för vuxenutbildning.
+– Detta är resultatet av en oerhört
+framgångsrik marknadsföring i kombi-
+nation med hårt arbete på våra skolor,
+fortsätter han.
+Hantverksyrken ligger i tiden
+Ansökningsläget är särskilt gott på
+Tibro Hantverksakademi som historiskt
+har haft lite svårare att få in många
+8
+
+Thomas Ringsby
+
+ansökningar: 159 sökande jämfört med
+90 förra året. Dessutom är många av de
+sökande ovanligt kvalificerade.
+– Vinden har vänt för hantverks-
+utbildningarna och klimat- och håll-
+barhetsaspekterna får gehör, berättar
+Thomas Ringsby.
+– Från att ha varit ett marginaliserat
+och ifrågasatt yrkesval ser jag nu sökan-
+de som kommer att kunna lyfta fram
+sina yrken i nytt ljus och vara förebilder
+i det hållbara samhället. Framgångs-
+faktor nummer ett är att hantverk ligger
+i tiden – de studerande får vara med och
+påverka framtiden.
+
+Dans           bortom
+
+alla       gränser
+
+Andreas Åhs Harald Nilsson
+
 När pandemin slog till ställde och gick in i arbetet med passion och
 engagemang. De tog ansvar och lärde sig
-Den positiva trenden håller i sig. Folkuniversitetets yrkeshögskola Balettakademien om. Resultatet?
+Balettakademien om. Resultatet?
 något helt nytt eftersom vi tillsammans
-och konst- och kulturutbildningar gjorden en stark rekrytering. En på alla sätt gränsöverskridan- var tvungna att överskrida gränsen
+
+En på alla sätt gränsöverskridan- var tvungna att överskrida gränsen
 för det kända och normala, säger Jarek
 de dansföreställning som koreo-
 Cemerek.
-Efter att ansökan stängde den 15 april           graferades på länk från Prag. För eleverna har det trots utmaningar-
-hade Folkuniversitetet mycket goda                                       na varit en spännande process.
-siffror på i stort sett alla utbildningar        Mörk dubstep dånar ur högtalarna. Vaga – Det har funkat förvånansvärt bra,
-inom yrkeshögskolan och konst- och               gestalter avtecknar sig i den nersläckta även om kommunikationen var svår
-kulturområdet.                                   lokalen. När ljuset tänds inleds en sug- ibland. Vi har gått fram till kameran en
-Inom yrkeshögskolan var antalet sö-             gestiv och – ska det visa sig – symbolisk och en för att bli coachade av Jarek. Trots
-kande 738 till 192 platser, vilket innebär       kamp för att överskrida yttre och inre att han är så långt bort har han förmågan
-3,85 sökande per plats. Föregående år var        gränser.                att se allt vi gör, säger Stina Nordgren.
-motsvarande siffror 639 sökande till 242          Det är Balettakademiens avgångsklass Inanna Aragati håller med.
-platser och 2,65 sökande per plats.              som genrepar inför premiä-    – Vi har blivit självständiga
-KV Konstskola hade 92 sökande till 54           ren av Terminus Vivendi i    eftersom det har legat ett
-platser på Konstnärlig grundläggande             koreografi av Jarek Cemerek. ansvar på oss att leverera, köra
-utbildning, 43 sökande till 14 platser på        Men inget blev som det var   på känsla och skapa på plats.
-Konstnärlig fördjupning och 40 sökande           tänkt. När han inte kunde ta Som grupp har vi fått ett bra
-till 14 platser på Bild och rumsgestalt-         sig till Sverige från hemlan- samarbete. Vi har helt enkelt
-ning. Inredning och design på Art Thomas Ringsby det Tjeckien fick allt göras varit tvungna att hålla ihop för
+graferades på länk från Prag. För eleverna har det trots utmaningar-
+na varit en spännande process.
+
+Mörk dubstep dånar ur högtalarna. Vaga
+gestalter avtecknar sig i den nersläckta
+lokalen. När ljuset tänds inleds en sug-
+gestiv och – ska det visa sig – symbolisk
+kamp för att överskrida yttre och inre
+gränser.
+Det är Balettakademiens avgångsklass
+som genrepar inför premiä-
+ren av Terminus Vivendi i
+koreografi av Jarek Cemerek.
+
+– Det har funkat förvånansvärt bra,
+även om kommunikationen var svår
+ibland. Vi har gått fram till kameran en
+och en för att bli coachade av Jarek. Trots
+att han är så långt bort har han förmågan
+att se allt vi gör, säger Stina Nordgren.
+Inanna Aragati håller med.
+– Vi har blivit självständiga
+eftersom det har legat ett
+ansvar på oss att leverera, köra
+
+Men inget blev som det var   på känsla och skapa på plats.
+
+tänkt. När han inte kunde ta Som grupp har vi fått ett bra
+sig till Sverige från hemlan- samarbete. Vi har helt enkelt
+det Tjeckien fick allt göras varit tvungna att hålla ihop för
 Jarek Cemerek
-College hade 40 sökande till 17 platser          om med kort varsel.          att klara det.
-och Skara Skolscens sceniska utbildning           – Gränser var det första     Joacim Hedman och Alexan-
-hade 59 sökande till 12 platser. ansökningar: 159 sökande jämfört med jag tänkte på eftersom jag dra Topalov som leder Balett-
-– Vi kan konstatera en stor framgång. 90 förra året. Dessutom är många av de var isolerad och den fria rörligheten var akademien ser tillbaka på en månad då
-Vi har ett rekordstort antal sökande till sökande ovanligt kvalificerade. begränsad, säger Jarek Cemerek, som förutsättningarna har ändrats dagli-
-samtliga utbildningar och fyller alla – Vinden har vänt för hantverks- byggde sitt nya coronaanpassade tema gen. Båda är förundrade över elevernas
-platser, säger Thomas Ringsby, region- utbildningarna och klimat- och håll- runt fysiskt distanserade duetter. utveckling.
-chef för vuxenutbildning. barhetsaspekterna får gehör, berättar Den akuta frågan för produktionen – De har steppat upp och tagit ansvar
-– Detta är resultatet av en oerhört Thomas Ringsby. blev hur gör man ett hantverk med kol- som individer och grupp. De har inte
-framgångsrik marknadsföring i kombi- – Från att ha varit ett marginaliserat lektiva processer och fysiska möten som kunnat sätta sin tillit till en pedagog i
-nation med hårt arbete på våra skolor, och ifrågasatt yrkesval ser jag nu sökan- metod digitalt. Genom kreativa lösningar rummet utan jobbat på en helt ny kreativ
-fortsätter han.        de som kommer att kunna lyfta fram och uppoffringar från alla inblandade nivå, säger Joacim Hedman.
-sina yrken i nytt ljus och vara förebilder skapades en radikalt annorlunda process – Vi var oroliga att de skulle tappa moti-
-Hantverksyrken ligger i tiden i det hållbara samhället. Framgångs- där arbetet leddes via videoapp från ett vationen men det har triggat dem istället.
-Ansökningsläget är särskilt gott på faktor nummer ett är att hantverk ligger vardagsrum i Prag, mer än hundra mil Det är helt fantastiskt, säger Alexandra
-Tibro Hantverksakademi som historiskt i tiden – de studerande får vara med och bort. Topalov.
-har haft lite svårare att få in många påverka framtiden. – Dansarna har gjort ett otroligt jobb Terminus Vivendi hade premiär 16 maj.
-8
+om med kort varsel.          att klara det.
+
+– Gränser var det första
+jag tänkte på eftersom jag
+var isolerad och den fria rörligheten var
+begränsad, säger Jarek Cemerek, som
+byggde sitt nya coronaanpassade tema
+runt fysiskt distanserade duetter.
+Den akuta frågan för produktionen
+blev hur gör man ett hantverk med kol-
+lektiva processer och fysiska möten som
+metod digitalt. Genom kreativa lösningar
+och uppoffringar från alla inblandade
+skapades en radikalt annorlunda process
+där arbetet leddes via videoapp från ett
+vardagsrum i Prag, mer än hundra mil
+bort.
+– Dansarna har gjort ett otroligt jobb
+
+Joacim Hedman och Alexan-
+dra Topalov som leder Balett-
+akademien ser tillbaka på en månad då
+förutsättningarna har ändrats dagli-
+gen. Båda är förundrade över elevernas
+utveckling.
+– De har steppat upp och tagit ansvar
+som individer och grupp. De har inte
+kunnat sätta sin tillit till en pedagog i
+rummet utan jobbat på en helt ny kreativ
+nivå, säger Joacim Hedman.
+– Vi var oroliga att de skulle tappa moti-
+vationen men det har triggat dem istället.
+Det är helt fantastiskt, säger Alexandra
+Topalov.
+Terminus Vivendi hade premiär 16 maj.
 
 <!-- sida 522 -->
 
@@ -18428,11 +19823,56 @@ framför Terminus Vivendi.
 
 <!-- sida 523 -->
 
-Sfi-eleverna         når    kunskaps-
 Nytt uppdrag.
-Katarina Einald är    kraven      med     nyskapande
+Katarina Einald är
 verksamhetschef för
-sfi på distans.       utbildning        på   distans
+sfi på distans.
+
+Distansuppdraget
+
+i Göteborg          växer
+
+Andreas Åhs Lars Hallqvist
+
+Antalet elever på sfi och grund-
+läggande kurser växer stadigt.
+
+Folkuniversitetet vann Göteborgs Stads
+upphandling av sfi och grundläggande
+vuxenutbildning på distans. Verksam-
+heten startade i augusti och sedan dess
+har den vuxit så att det knakar.
+I uppstarten räknade verksamheten
+med totalt 150–200 helårselever, men en
+kombination av Folkuniversitetets goda
+renommé och en ökad benägenhet att
+välja distansutbildning under corona-
+pandemin ledde till ett ökat inflöde.
+Inom sfi valde runt 300 elever Folkuni-
+
+versitetet under året, och inom grund-
+läggande kurser – det vill säga elever
+som läser svenska, svenska som andra-
+språk, matematik, samhällskunskap och
+engelska på grundskolenivå – drygt 500.
+Totalt alltså över 800 elever – drygt fyra
+gånger mer än vad verksamheten hade
+räknat med!
+– Jag känner mig så glad över det
+vi har byggt upp tillsammans sedan
+starten i augusti. Medarbetarna gör ett
+fantastiskt jobb och är hjälpsamma mot
+varandra. Det krävs i en liten organisa-
+tion med ett nytt uppdrag, säger Katari-
+na Einald, verksamhetschef.
+
+10
+
+Sfi-eleverna         når    kunskaps-
+
+kraven      med     nyskapande
+
+utbildning        på   distans
 
 Andreas Åhs
 
@@ -18447,37 +19887,104 @@ rätt till och att integrationen påverkas
 negativt.
 På Folkuniversitetet i Karlstad har
 skolledning och lärare antagit utma-
-Distansuppdraget
 ningen och utvecklat ett fjärr-flex-
 upplägg som strävar efter närhet trots
 distans och som visat sig vara fram-
-i Göteborg          växer
 gångsrikt.
-Med tydlig struktur, lyhördhet och Lisa Svensson
+Med tydlig struktur, lyhördhet och
 enkla videokonferensanläggningar
 skapar lärarna en pedagogisk helhet där
-Andreas Åhs Lars Hallqvist                   eleverna känner sig delaktiga i en och
-samma undervisningssituation – oavsett Steve Norman, rektor vid Vuxenut-
-Antalet elever på sfi och grund- versitetet under året, och inom grund- om de är på plats i klassrummet eller bildningen i Karlstad, är imponerad av
-läggande kurser – det vill säga elever studerar hemifrån. Folkuniversitetets arbete.
-läggande kurser växer stadigt.
-som läser svenska, svenska som andra- – Det kräver en lärarkår med mod, – Utbildning på distans för sfi-elev-
-språk, matematik, samhällskunskap och nytänkande, flexibilitet och förmåga er är en riktigt stor utmaning men
-Folkuniversitetet vann Göteborgs Stads engelska på grundskolenivå – drygt 500. att skapa personliga relationer genom fjärr-flex-upplägget som Folkuniver-
-upphandling av sfi och grundläggande Totalt alltså över 800 elever – drygt fyra kameran, säger Lisa Svensson, verksam- sitetet arbetat fram fungerar alldeles
-vuxenutbildning på distans. Verksam- gånger mer än vad verksamheten hade hetschef på Folkuniversitetet. utmärkt. Engagerade lärare och skol-
-heten startade i augusti och sedan dess räknat med!                     ledning med fokus på elevens lärande
-har den vuxit så att det knakar. – Jag känner mig så glad över det Ett arbetssätt med möjliggör positiva utvecklingssteg, trots
-I uppstarten räknade verksamheten vi har byggt upp tillsammans sedan framtiden för sig pandemin.
-med totalt 150–200 helårselever, men en starten i augusti. Medarbetarna gör ett När arbetssättet nu utvärderas är resul- Efter KLIVA-utredningens förslag
-kombination av Folkuniversitetets goda fantastiskt jobb och är hjälpsamma mot taten tydligt positiva. om utökad distansundervisning inom
-renommé och en ökad benägenhet att varandra. Det krävs i en liten organisa- – Vi har elever med tilltagande digital sfi (SOU 2020:66) har Folkuniversitetets
-välja distansutbildning under corona- tion med ett nytt uppdrag, säger Katari- kompetens som i hög utsträckning når nyskapande arbetssätt framtiden för sig
-pandemin ledde till ett ökat inflöde. na Einald, verksamhetschef. kunskapskraven på samma sätt som och redan nu implementeras det på orter
-Inom sfi valde runt 300 elever Folkuni-        tidigare, säger Lisa Svensson. som Göteborg och Varberg.
-10
+eleverna känner sig delaktiga i en och
+samma undervisningssituation – oavsett
+om de är på plats i klassrummet eller
+studerar hemifrån.
+– Det kräver en lärarkår med mod,
+nytänkande, flexibilitet och förmåga
+att skapa personliga relationer genom
+kameran, säger Lisa Svensson, verksam-
+hetschef på Folkuniversitetet.
+Ett arbetssätt med
+framtiden för sig
+När arbetssättet nu utvärderas är resul-
+taten tydligt positiva.
+– Vi har elever med tilltagande digital
+kompetens som i hög utsträckning når
+kunskapskraven på samma sätt som
+tidigare, säger Lisa Svensson.
+
+Lisa Svensson
+
+Steve Norman, rektor vid Vuxenut-
+bildningen i Karlstad, är imponerad av
+Folkuniversitetets arbete.
+– Utbildning på distans för sfi-elev-
+er är en riktigt stor utmaning men
+fjärr-flex-upplägget som Folkuniver-
+sitetet arbetat fram fungerar alldeles
+utmärkt. Engagerade lärare och skol-
+ledning med fokus på elevens lärande
+möjliggör positiva utvecklingssteg, trots
+pandemin.
+Efter KLIVA-utredningens förslag
+om utökad distansundervisning inom
+sfi (SOU 2020:66) har Folkuniversitetets
+nyskapande arbetssätt framtiden för sig
+och redan nu implementeras det på orter
+som Göteborg och Varberg.
 
 <!-- sida 524 -->
+
+Nu     öppnar                   Daniel Jonlund
+
+Folkuniversitetets
+
+sfi-skola          i Göteborg
+
+Andreas Åhs Andrew Colwin
+
+Utbildningen anordnas av Sundbybergs Folkhögskola och skolan
+drivs i samverkan med Folkuniversitetet.
+
+Folkuniversitetets sfi-skola ligger i Folk-
+universitetets lokaler på Norra Allégatan
+6 i Göteborg och erbjuder alla studie-
+vägar och kurser inom sfi. Eleverna kan
+välja mellan Jobbspåret och Akademi-
+kerspåret beroende på utbildningsbak-
+grund och mål.
+Avsikten är att ge sfi-utbildning
+med utgångspunkt i folkbildningens
+kunskapssyn och värdegrund samt att
+verka för en långsiktig utveckling av
+forskningsanknuten pedagogik som
+sätter individen i centrum och där sfi är
+ett redskap på vägen mot vidare studier
+eller jobb.
+– Sundbybergs folkhögskola har under
+de senaste 30 åren arbetat med Folkhög-
+skolekurser för deltagare med svenska
+som andraspråk, Etableringskurser för
+nyanlända och Svenska från dag ett för
+
+asylsökanden. Nu ser vi fram emot att
+starta upp sfi i samverkan med Folk-
+universitetet, säger Pethra Bixo Larsson,
+rektor för Sundbybergs Folkhögskola.
+– Våra gemensamma erfarenheter
+och kvalitativa verksamheter kan bara
+ge en riktigt bra sfi-skola i Göteborg.
+Det känns roligt och superspännande,
+fortsätter hon.
+– Sundbybergs Folkhögskola har stor
+erfarenhet från folkhögskolevärlden
+och driver kurser och projekt i Stock-
+holms mångkulturella ytterområden
+som vi kan lära oss av. Samtidigt får vi
+möjlighet att bedriva närundervisning
+i svenska för invandrare igen, något vi
+gjort med framgång under lång tid i Gö-
+teborg, säger Daniel Jonlund, regionchef
+på Folkuniversitetet.
 
 Två    YH-utbildningar
 
@@ -18486,49 +19993,37 @@ beviljade
 Myndigheten för yrkeshögskolan beviljade
 Folkuniversitetet att starta två nya YH-utbildningar
 i Göteborg och på Tibro Hantverksakademi:
-
 Teknikinformatör och Förgyllare/Dekormålare/
 Ytbehandlare.
 Totalt erbjöd Folkuniversitetet 13 YH-utbildningar
-Nu     öppnar                    Daniel Jonlund        med start hösten 2020.
-
-Folkuniversitetets
-
-sfi-skola          i Göteborg
-
-Andreas Åhs Andrew Colwin
+med start hösten 2020.
 
 Ytterligare
-Utbildningen anordnas av Sundbybergs Folkhögskola och skolan
-drivs i samverkan med Folkuniversitetet.
+
 två   omgångar
-Folkuniversitetets sfi-skola ligger i Folk- asylsökanden. Nu ser vi fram emot att
-universitetets lokaler på Norra Allégatan starta upp sfi i samverkan med Folk- kontakttolk
-6 i Göteborg och erbjuder alla studie- universitetet, säger Pethra Bixo Larsson,
-vägar och kurser inom sfi. Eleverna kan rektor för Sundbybergs Folkhögskola.
-välja mellan Jobbspåret och Akademi- – Våra gemensamma erfarenheter
-Andreas Åhs Harald Nilsson
-kerspåret beroende på utbildningsbak- och kvalitativa verksamheter kan bara
-grund och mål.          ge en riktigt bra sfi-skola i Göteborg.
-Avsikten är att ge sfi-utbildning Det känns roligt och superspännande, Folkuniversitetet i Göteborg har beviljats statsbidrag från Myndig-
-med utgångspunkt i folkbildningens fortsätter hon.
-heten för yrkeshögskolan för ytterligare två omgångar av grund-
-kunskapssyn och värdegrund samt att – Sundbybergs Folkhögskola har stor
-verka för en långsiktig utveckling av erfarenhet från folkhögskolevärlden utbildning till kontakttolk.
-forskningsanknuten pedagogik som och driver kurser och projekt i Stock-
-sätter individen i centrum och där sfi är holms mångkulturella ytterområden Utbildningen till kontakttolk sträcker sig över två terminer och har för närvarande
-ett redskap på vägen mot vidare studier som vi kan lära oss av. Samtidigt får vi pågående grupper i tolkspråken arabiska, persiska, engelska, spanska, ryska, bosniska/
-eller jobb.             möjlighet att bedriva närundervisning serbiska/kroatiska, polska, rumänska och sorani.
-– Sundbybergs folkhögskola har under i svenska för invandrare igen, något vi – Vi är glada och stolta över att återigen ha fått myndighetens förtroende för att be-
-de senaste 30 åren arbetat med Folkhög- gjort med framgång under lång tid i Gö- driva den här samhällsnyttiga utbildningen, säger Alexander Petrovic, kursansvarig ut-
-skolekurser för deltagare med svenska teborg, säger Daniel Jonlund, regionchef bildningsledare som också representerar Folkuniversitetet i Myndigheten för yrkeshög-
-som andraspråk, Etableringskurser för på Folkuniversitetet. skolans nationella samordnargrupp för kontakttolkutbildningar inom folkbildningen.
-nyanlända och Svenska från dag ett för           Folkuniversitetet kommer att bedriva utbildningen fram till juni 2022.
-11
-:otoF
-nossliN
-dlaraH
+
+kontakttolk
+
 Alexander Petrovic
+Andreas Åhs Harald Nilsson
+
+Folkuniversitetet i Göteborg har beviljats statsbidrag från Myndig-
+heten för yrkeshögskolan för ytterligare två omgångar av grund-
+utbildning till kontakttolk.
+
+Utbildningen till kontakttolk sträcker sig över två terminer och har för närvarande
+pågående grupper i tolkspråken arabiska, persiska, engelska, spanska, ryska, bosniska/
+serbiska/kroatiska, polska, rumänska och sorani.
+– Vi är glada och stolta över att återigen ha fått myndighetens förtroende för att be-
+driva den här samhällsnyttiga utbildningen, säger Alexander Petrovic, kursansvarig ut-
+bildningsledare som också representerar Folkuniversitetet i Myndigheten för yrkeshög-
+skolans nationella samordnargrupp för kontakttolkutbildningar inom folkbildningen.
+Folkuniversitetet kommer att bedriva utbildningen fram till juni 2022.
+11
+
+Foto:
+
+Harald Nilsson
 
 <!-- sida 525 -->
 
@@ -18542,137 +20037,292 @@ till ökad integration.
 
 <!-- sida 526 -->
 
+Behovsdrivet               Vinnova-projekt
+
+tar   helhetsgrepp               om     integrationen
+
+på    arbetsmarknaden
+
+Andreas Åhs Harald Nilsson
+
+Projektet Digital kommunikation
+– nyckeln till ökad integration
+ska ta fram digitala stöd som
+effektivt bidrar till att utrikes
+födda tar sig in i arbetslivet.
+Projektet är i hög grad behovs-
+drivet och sker i samverkan
+mellan tunga aktörer inom
+utbildning och forskning.
+
+Digital kommunikation – nyckeln till
+ökad integration är ett tvåårigt sam-
+verkansprojekt inom utmaningsdriven
+innovation som rör språk och kommuni-
+kation för utrikes födda i Sverige. Syftet
+är att ta ett helhetsgrepp kring integra-
+tionen på arbetsmarknaden och de möj-
+
+ligheter som digitala stöd skapar för att
+ge tillträde till det svenska arbetslivet.
+– Det unika är att projektet är behovs-
+drivet. Vi vänder oss direkt till använ-
+darna, alla från utrikes födda med kort
+utbildningsbakgrund till företrädare för
+arbetsliv, civilsamhälle och myndigheter,
+säger Daniel Jonlund, projektledare och
+regionchef på Folkuniversitetet.
+Utrikes födda involverade
+från start
+Målet med projektet är att utveckla
+digitala språkverktyg som gör tillgäng-
+ligheten till arbetsplatsen mer hållbar
+och dessutom sträcker sig vidare efter
+praktikplatser och korta kontrakt.
+Utrikes födda är involverade från start.
+Genom att tillvarata erfarenheter och
+synpunkter identifieras behov och lös-
+
+ningar som motsvarar reella utmaning-
+ar i arbetslivet.
+– Vi bedömer att våra resultat kommer
+att få påverkan på systemnivå och att
+utvecklingen öppnar för en ny, större
+marknad inom området migration kopp-
+lat till digitala lösningar runt språkut-
+veckling i arbetslivet, säger Daniel
+Jonlund.
+Folkuniversitetet leder projektet i sam-
+verkan med flera tunga aktörer inom
+utbildning och forskning: Göteborgs uni-
+versitet, Lingio, Foxway, Högskolan Väst,
+Social Society Sweden AB och Göteborgs
+Stad – Arbetsmarknad och vuxenutbild-
+ning. Projektet finansieras av Vinnova.
+
 Världsunika
 
 innovationer
 för  språkstöd
 
 Andreas Åhs
-Folkuniversitetet medverkar i
 
-Behovsdrivet                Vinnova-projekt                                ytterligare ett Vinnova-projekt
+Folkuniversitetet medverkar i
+ytterligare ett Vinnova-projekt
 som ska resultera i en digi-
 tal utbildningsprodukt med
-tar    helhetsgrepp              om     integrationen
 världsunika innovationer för
 språkstöd.
-på    arbetsmarknaden
 Utbildningsföretaget Lingio ligger
 bakom en Vinnova-ansökan som har
 beviljats medel och där Folkuniversite-
 tet är en samarbetspartner.
-Andreas Åhs Harald Nilsson                                                Bakgrunden är att coronakrisen
+Bakgrunden är att coronakrisen
 har lett till ökad långtidsarbetslöshet
-Projektet Digital kommunikation ligheter som digitala stöd skapar för att ningar som motsvarar reella utmaning- bland främst utrikesfödda. Syftet är
-– nyckeln till ökad integration ge tillträde till det svenska arbetslivet. ar i arbetslivet. att skapa en digital utbildningspro-
-– Det unika är att projektet är behovs- – Vi bedömer att våra resultat kommer dukt med världsunika innovationer
-ska ta fram digitala stöd som
-drivet. Vi vänder oss direkt till använ- att få påverkan på systemnivå och att för språkstöd på både individ- och
-effektivt bidrar till att utrikes darna, alla från utrikes födda med kort utvecklingen öppnar för en ny, större gruppnivå som ska vara klar att sättas
-utbildningsbakgrund till företrädare för marknad inom området migration kopp- in i kampen mot en av våra största
-födda tar sig in i arbetslivet.
-arbetsliv, civilsamhälle och myndigheter, lat till digitala lösningar runt språkut- samhällsutmaningar redan under 2021.
-Projektet är i hög grad behovs- säger Daniel Jonlund, projektledare och veckling i arbetslivet, säger Daniel – Att vi har blivit beviljade medel
-regionchef på Folkuniversitetet. Jonlund.          är viktigt och utmanande eftersom
-drivet och sker i samverkan
-Folkuniversitetet leder projektet i sam- det ger oss ytterligare möjligheter att
-mellan tunga aktörer inom Utrikes födda involverade verkan med flera tunga aktörer inom medverka till utvecklingen av digitala
-från start              utbildning och forskning: Göteborgs uni- verktyg som underlättar integration
-utbildning och forskning.
-Målet med projektet är att utveckla versitet, Lingio, Foxway, Högskolan Väst, och språkstöd, säger Daniel Jonlund,
-Digital kommunikation – nyckeln till digitala språkverktyg som gör tillgäng- Social Society Sweden AB och Göteborgs regionchef för sfi- och komvuxutbild-
-ökad integration är ett tvåårigt sam- ligheten till arbetsplatsen mer hållbar Stad – Arbetsmarknad och vuxenutbild- ning.
-verkansprojekt inom utmaningsdriven och dessutom sträcker sig vidare efter ning. Projektet finansieras av Vinnova. – Med en stigande arbetslöshet
-innovation som rör språk och kommuni- praktikplatser och korta kontrakt.   bland utrikes födda är detta en av flera
-kation för utrikes födda i Sverige. Syftet Utrikes födda är involverade från start. avgörande strategier för att undvika
-är att ta ett helhetsgrepp kring integra- Genom att tillvarata erfarenheter och utanförskap för våra deltagare och
-tionen på arbetsmarknaden och de möj- synpunkter identifieras behov och lös- elever och en chans att förbättra och
+bland främst utrikesfödda. Syftet är
+att skapa en digital utbildningspro-
+dukt med världsunika innovationer
+för språkstöd på både individ- och
+gruppnivå som ska vara klar att sättas
+in i kampen mot en av våra största
+samhällsutmaningar redan under 2021.
+– Att vi har blivit beviljade medel
+är viktigt och utmanande eftersom
+det ger oss ytterligare möjligheter att
+medverka till utvecklingen av digitala
+verktyg som underlättar integration
+och språkstöd, säger Daniel Jonlund,
+regionchef för sfi- och komvuxutbild-
+ning.
+– Med en stigande arbetslöshet
+bland utrikes födda är detta en av flera
+avgörande strategier för att undvika
+utanförskap för våra deltagare och
+elever och en chans att förbättra och
 tillgängliggöra våra utbildningsinsats-
 er, fortsätter han.
 13
 
 <!-- sida 527 -->
 
+Marcus Hallberg
+
 Rekordhögt
 
-söktryck      till           Kathryn                   Boyer
+söktryck      till
 
 gymnasiet       i
 
-årets           FN-lärare
 Trollhättan
 
 Efter en riktigt stark ansök-
+
 ningsomgång fortsätter
 Folkuniversitetets gymnasium
 i Trollhättan att växa.
-Andreas Åhs Emma Dahlskog
+
 Totalt hade gymnasiet 444 sökande till
-Kathryn Boyer, lärare i historia på Folkuniversitetets gymnasium i
 140 platser, varav 129 var förstahands-
-sökande. Siffran kan jämföras med 116 Trollhättan, har valts till årets FN-lärare 2020 av Svenska FN-förbundet.
+sökande. Siffran kan jämföras med 116
 (2019) och 86 (2018).
-– Det är glädjande och viktigt att vi Årets FN-lärare är ett pris som delas na de får i klassrummet kan tillämpas har varit fantastiskt och utan henne
-även i år har ett högt söktryck och att ut till en lärare som inom ramen för på problem och frågeställningar ute i det hade det inte blivit lika lyckat.
-vi därför kan fortsätta utbyggnaden en FN-skola arbetar nyskapande och verkliga livet. Årets FN-lärare får, förutom äran,
-av skolan med två klasser inom ekono- långsiktigt och därmed verkar för att – En viktig drivkraft för mig är att visa en studieresa till Genève. Där kommer
-miprogrammet och två klasser inom öka elevernas kunskap, engagemang och att de inte måste vänta med att engagera Kathryn Boyer genom direkta möten
-samhällsvetenskapliga programmet, förståelse för globala frågor. sig tills de är färdigutbildade och har ett med olika FN-organ och organisationer
-säger Marcus Hallberg, biträdande stif- Kathryn Boyer har varit involverad i jobb. De kan vara med och påverka på att kunna fördjupa sig i hur FN arbetar
-telserektor.                 att stärka gymnasiets globala profil ända alla nivåer nu, trots att de är tonåringar i för mänskliga rättigheter.
-Men det är inte bara ekonomi och sedan skolan arrangerade sitt första Trollhättan. Priset delades ut den 1 september i
-samhäll som går bra.         FN-rollspel för många år sedan. Kathryn Boyer betonar att ett fram- samband med Svenska FN-förbundets
-– Vi ser även ett större intresse och fler Hon är mån om att hitta ämnen som gångsrikt arbete som FN-skola kräver årliga nationella FN-rollspel för gymna-
-förstahandssökande till vårt estetiska engagerar eleverna, till exempel frågor bra teamwork och att så många andra sieelever.
-program vilket gör att vi sammantaget om klimat, mänskliga rättigheter och lärare som möjligt deltar.
-förstärker både skolans och Folkuni- kvinnors och flickors rättigheter. – Det senaste året har jag fått enorm
-versitetets position i Trollhättan och – Det är underbart att se hur eleverna hjälp av min kollega Sonja Andrén som
-Vänersborg.                  utvecklas när de förstår att kunskaper- är lärare i naturkunskap. Vårt samarbete
+– Det är glädjande och viktigt att vi
+även i år har ett högt söktryck och att
+vi därför kan fortsätta utbyggnaden
+av skolan med två klasser inom ekono-
+miprogrammet och två klasser inom
+samhällsvetenskapliga programmet,
+säger Marcus Hallberg, biträdande stif-
+telserektor.
+Men det är inte bara ekonomi och
+samhäll som går bra.
+– Vi ser även ett större intresse och fler
+förstahandssökande till vårt estetiska
+program vilket gör att vi sammantaget
+förstärker både skolans och Folkuni-
+versitetets position i Trollhättan och
+Vänersborg.
 14
-ybrellA
-raksO
-:otoF
-Marcus Hallberg
+
+Kathryn                   Boyer
+
+årets            FN-lärare
+
+Andreas Åhs Emma Dahlskog
+
+Kathryn Boyer, lärare i historia på Folkuniversitetets gymnasium i
+Trollhättan, har valts till årets FN-lärare 2020 av Svenska FN-förbundet.
+
+Årets FN-lärare är ett pris som delas
+ut till en lärare som inom ramen för
+en FN-skola arbetar nyskapande och
+långsiktigt och därmed verkar för att
+öka elevernas kunskap, engagemang och
+förståelse för globala frågor.
+Kathryn Boyer har varit involverad i
+att stärka gymnasiets globala profil ända
+sedan skolan arrangerade sitt första
+FN-rollspel för många år sedan.
+Hon är mån om att hitta ämnen som
+engagerar eleverna, till exempel frågor
+om klimat, mänskliga rättigheter och
+kvinnors och flickors rättigheter.
+– Det är underbart att se hur eleverna
+utvecklas när de förstår att kunskaper-
+
+na de får i klassrummet kan tillämpas
+på problem och frågeställningar ute i det
+verkliga livet.
+– En viktig drivkraft för mig är att visa
+att de inte måste vänta med att engagera
+sig tills de är färdigutbildade och har ett
+jobb. De kan vara med och påverka på
+alla nivåer nu, trots att de är tonåringar i
+Trollhättan.
+Kathryn Boyer betonar att ett fram-
+gångsrikt arbete som FN-skola kräver
+bra teamwork och att så många andra
+lärare som möjligt deltar.
+– Det senaste året har jag fått enorm
+hjälp av min kollega Sonja Andrén som
+är lärare i naturkunskap. Vårt samarbete
+
+har varit fantastiskt och utan henne
+hade det inte blivit lika lyckat.
+Årets FN-lärare får, förutom äran,
+en studieresa till Genève. Där kommer
+Kathryn Boyer genom direkta möten
+med olika FN-organ och organisationer
+att kunna fördjupa sig i hur FN arbetar
+för mänskliga rättigheter.
+Priset delades ut den 1 september i
+samband med Svenska FN-förbundets
+årliga nationella FN-rollspel för gymna-
+sieelever.
+
+Foto: Oskar Allerby
 
 <!-- sida 528 -->
 
-Vi ser mycket stolthet från våra deltagare.
-Morgan Kjellin, coach på Korta vägen i Karlstad,
 Nystart           av
-i Arbetsförmedlingens webbinarium.
+
 Korta         vägen
 
-En     fantastisk
 Sedan nystarten av Akademikerspåret Korta vägen i Göteborg har
 Folkuniversitetet varit ledande i landet avseende antal deltagare.
-möjlighet
+
 Före sommaren var totalt 307 deltagare inskrivna på Korta vägen varav 76 – eller 25
 procent – hos Folkuniversitetet i Göteborg. Sedan dess har siffran bara ökat.
-– Det är helt andra förutsättningar nu än när Korta vägen var som störst 2017. Men Morgan Kjellin från Folkuniversitetet i Karlstad medverkade i
+– Det är helt andra förutsättningar nu än när Korta vägen var som störst 2017. Men
 trots att nivåerna har minskat fortsätter vi att leverera och det är otroligt roligt, säger
-Arbetsförmedlingens webbinarium om Korta vägen.
 Björn Tjällgren, verksamhetschef.
 Peter Zackariasson är utbildningsledare för Korta vägen i Göteborg. Han är
-övertygad om att Folkuniversitetets effektiva arbetssätt och erfarenhet gör att man Folkuniversitetet fick äran att medverka i ett webbinarium om Korta vägen som
-fortsätter locka deltagare.                     arrangerades av Arbetsförmedlingen och livesändes via myndighetens hemsida.
-– Genom att ha en kontinuerlig och nära kontakt med Arbetsförmedlingen, univer- Webbinariet vände sig till personer som har en akademisk utbildning från utlandet
-sitetet och arbetsmarknaden skapar vi en attraktiv utbildning. och som snabbt vill etablera dig på den svenska arbetsmarknaden.
-Folkuniversitetet i Karlstad har också haft en god utveckling gällande deltagare i Morgan Kjellin som är coach på Folkuniversitetet i Karlstad berättade mer om ut-
-Korta vägen.                                    bildningen och svarade på frågor tillsammans med Jessica Leander som är nationellt
-– Detta är glädjande och ett gott betyg åt Folkuniversitetet och alla som arbetar i ansvarig för Korta vägen på Arbetsförmedlingen.
+övertygad om att Folkuniversitetets effektiva arbetssätt och erfarenhet gör att man
+fortsätter locka deltagare.
+– Genom att ha en kontinuerlig och nära kontakt med Arbetsförmedlingen, univer-
+sitetet och arbetsmarknaden skapar vi en attraktiv utbildning.
+Folkuniversitetet i Karlstad har också haft en god utveckling gällande deltagare i
+Korta vägen.
+– Detta är glädjande och ett gott betyg åt Folkuniversitetet och alla som arbetar i
 uppdraget. Personalen i Göteborg och Karlstad har jobbat hårt för att nå dit vi är nu,
-”Vi ser mycket  stolthet från våra deltagare”
 säger Mikael Nordberg, regionchef för uppdragsverksamhet.
+Kortar vägen till jobb eller studier
+Korta vägen är en språngbräda till jobb och studier som matchar kompetenta
+akademiker mot organisationer och företag. Utbildningen arrangeras i samarbete
+med Göteborgs och Karlstads universitetet på uppdrag av Arbetsförmedlingen.
+
+Vi ser mycket stolthet från våra deltagare.
+Morgan Kjellin, coach på Korta vägen i Karlstad,
+i Arbetsförmedlingens webbinarium.
+
+En     fantastisk
+
+möjlighet
+
+Morgan Kjellin från Folkuniversitetet i Karlstad medverkade i
+
+Arbetsförmedlingens webbinarium om Korta vägen.
+
+Folkuniversitetet fick äran att medverka i ett webbinarium om Korta vägen som
+arrangerades av Arbetsförmedlingen och livesändes via myndighetens hemsida.
+Webbinariet vände sig till personer som har en akademisk utbildning från utlandet
+och som snabbt vill etablera dig på den svenska arbetsmarknaden.
+Morgan Kjellin som är coach på Folkuniversitetet i Karlstad berättade mer om ut-
+bildningen och svarade på frågor tillsammans med Jessica Leander som är nationellt
+ansvarig för Korta vägen på Arbetsförmedlingen.
+”Vi ser mycket  stolthet från våra deltagare”
 – Korta vägen är en fantastisk möjlighet för den som tar chansen. Du får en indi-
-Kortar vägen till jobb eller studier            viduell planering. Du får en praktik som är riktad mot din utbildning. Vi ser mycket
-Korta vägen är en språngbräda till jobb och studier som matchar kompetenta stolthet från våra deltagare och de vill gärna lägga till i sina CV att de går den exklu-
-akademiker mot organisationer och företag. Utbildningen arrangeras i samarbete siva utbildning Korta vägen och det tycker jag är fantastiskt, sa Morgan Kjellin under
-med Göteborgs och Karlstads universitetet på uppdrag av Arbetsförmedlingen. webbinariet.
+viduell planering. Du får en praktik som är riktad mot din utbildning. Vi ser mycket
+stolthet från våra deltagare och de vill gärna lägga till i sina CV att de går den exklu-
+siva utbildning Korta vägen och det tycker jag är fantastiskt, sa Morgan Kjellin under
+webbinariet.
 15
-negnildemröfstebrA
-:otoF
+
+Foto: Arbetsförmedlingen
 
 <!-- sida 529 -->
+
+Nystart            av     Stöd
+
+och      matchning
+
+Folkuniversitetet startar om Stöd och matchning i Göteborg,
+Kungsbacka och Borås.
+
+När coronapandemin slog till sköt arbetslösheten i höjden. Ett verktyg Arbetsförmed-
+lingen har till sitt förfogande för att möta krisen är Stöd och matchning (STOM) som
+bygger på att deltagaren själv väljer den leverantör som ska bidra till att korta vägen
+till studier eller jobb.
+– När Stöd och matchning startade 2014 var vi med på många orter. När arbets-
+lösheten minskade försvann behovet, vilket ledde till att vi sa upp våra avtal med
+Arbetsförmedlingen. Nu är situationen annorlunda och vi ska självklart vara med och
+ta ansvar, säger Mikael Nordberg, regionchef för uppdragsverksamheten.
+De nya verksamheterna startade under sommaren.
+– Vi fyller en viktig funktion genom att matcha ut arbetslösa samtidigt som vi
+återigen utvecklar vårt arbete med Stöd och matchning i hela regionen, säger Björn
+Tjällgren, verksamhetschef.
+Folkuniversitetet bedriver sedan tidigare Stöd och matchning i Karlstad där det har
+skett en kraftigt ökad efterfrågan.
+16
 
 Utbildar           framtidens
 
@@ -18691,30 +20341,19 @@ det känns extra roligt att vi erbjuds genomföra en samhällsviktig utbildning.
 dessutom oerhört roligt att vi återetablerar oss i Lidköping, säger Mikael Nordberg,
 regionchef för uppdragsutbildning.
 
-Nystart            av    Stöd
+Ny   webbsida       med
 
-och      matchning
+användaren        i fokus
 
-Folkuniversitetet startar om Stöd och matchning i Göteborg,
-Kungsbacka och Borås.
-Ny    webbsida       med
-När coronapandemin slog till sköt arbetslösheten i höjden. Ett verktyg Arbetsförmed-
-användaren         i fokus
-lingen har till sitt förfogande för att möta krisen är Stöd och matchning (STOM) som
-bygger på att deltagaren själv väljer den leverantör som ska bidra till att korta vägen
-till studier eller jobb.                            I februari lanserade Folkuniversitetet sin nya webbsida,
-– När Stöd och matchning startade 2014 var vi med på många orter. När arbets-
+I februari lanserade Folkuniversitetet sin nya webbsida,
 utvecklad i samarbete med Metamatrix AB.
-lösheten minskade försvann behovet, vilket ledde till att vi sa upp våra avtal med
-Arbetsförmedlingen. Nu är situationen annorlunda och vi ska självklart vara med och
-ta ansvar, säger Mikael Nordberg, regionchef för uppdragsverksamheten. – Vi har nu en webb där användarnas behov står i fokus. Den är snabb,
-De nya verksamheterna startade under sommaren.     modern och fungerar bra i sökmotorer, säger webbansvarig Patrik Kvernes.
-– Vi fyller en viktig funktion genom att matcha ut arbetslösa samtidigt som vi Ett kvitto på den nya webbsidans kvaliteter kom i form av en nominering
-återigen utvecklar vårt arbete med Stöd och matchning i hela regionen, säger Björn till Publishingpriset hösten 2020.
-Tjällgren, verksamhetschef.                           – Jag är stolt och tacksam för nomineringen och för det fina arbete som
-Folkuniversitetet bedriver sedan tidigare Stöd och matchning i Karlstad där det har utförs med vår webbplats varje dag, säger Patrik Kvernes.
-skett en kraftigt ökad efterfrågan.
-16
+
+– Vi har nu en webb där användarnas behov står i fokus. Den är snabb,
+modern och fungerar bra i sökmotorer, säger webbansvarig Patrik Kvernes.
+Ett kvitto på den nya webbsidans kvaliteter kom i form av en nominering
+till Publishingpriset hösten 2020.
+– Jag är stolt och tacksam för nomineringen och för det fina arbete som
+utförs med vår webbplats varje dag, säger Patrik Kvernes.
 
 <!-- sida 530 -->
 
@@ -18749,6 +20388,7 @@ forskare, lärare och studerande till insatser för ett fritt och frivilligt och
 öppet studiearbete. Stiftelsen ser som en viktig angelägenhet att pröva nya former Avkastning på eget kapital % -31 -56 -34 -2 -28
 och metoder inom folkbildning och vuxenutbildning samt att verka för en ökad Avkastning på totalt kapital % -8 -21 -15 -1 -14
 internationalisering av studiearbetet.
+
 Stiftelsen är ett studieförbund som har sitt geografiska verksamhetsområde i västra
 För definitioner, se redovisnings- och värderingsprinciper.
 Sverige. Stiftelsen är sedan 2017 moderbolag för Folkuniversitetet Uppdrag Väst AB
@@ -18772,20 +20412,26 @@ Vid årets slut 12 500 000 70 000 8 360 492 -5 089 570
 Skolor omfattar utbildningsformerna kompletterande utbildningar, konst- och
 kulturutbildningar och yrkeshögskoleutbildningar. Stiftelsen är även huvudman för
 en gymnasieskola i Trollhättan.                 Väsentliga händelser under räkenskapsåret
-Stiftelsen har under året arbetat med att förtydliga mål och handlingsplaner. Syftet är
-Under 2020 har nettoomsättningen i stiftelsen uppgått till 227 miljoner kronor (276 att tydliggöra stiftelsens färdriktning och göra personalen delaktig i uppfyllandet av
-miljoner kronor). Stiftelsen har haft ett svagt ekonomiskt år och redovisar ett negativt stiftelsens målsättningar.
+
+Under 2020 har nettoomsättningen i stiftelsen uppgått till 227 miljoner kronor (276
+miljoner kronor). Stiftelsen har haft ett svagt ekonomiskt år och redovisar ett negativt
 resultat med -5,1 miljoner kronor (-13,2 miljoner kronor). Stora ansträngningar har
-Under året har stiftelsen fortsatt varumärkesarbetet i regionen genom interninforma-
 under året gjorts för att minska kostnaderna i verksamheten men då en stor del av kur-
-tion och marknadskommunikation.
 sintäkterna uteblivit till följd av inställda kurser på grund av covid-19-pandemin visar
-verksamheten ändå ett underskott i resultat.    Inom folkbildningen har stiftelsen varit hårt drabbat av covid-19, och till följd av strikta
+verksamheten ändå ett underskott i resultat.
+
+Stiftelsen har under året arbetat med att förtydliga mål och handlingsplaner. Syftet är
+att tydliggöra stiftelsens färdriktning och göra personalen delaktig i uppfyllandet av
+stiftelsens målsättningar.
+Under året har stiftelsen fortsatt varumärkesarbetet i regionen genom interninforma-
+tion och marknadskommunikation.
+Inom folkbildningen har stiftelsen varit hårt drabbat av covid-19, och till följd av strikta
 restriktioner från Folkhälsomyndigheten har viss verksamhet inte kunnat genom-
 föras som planerat. Detta har i sin tur lett till minskade kursintäkter från deltagare
 inom folkbildningen. För att motverka de negativa ekonomiska konsekvenserna har
 stiftelsen vidtagit krisåtgärder såsom korttidspermittering av den berörda personalen.
 Stiftelsen har ansökt om och beviljats ett betydande stöd för dessa åtgärder.
+
 På uppdrag av Folkbildningsrådet har stiftelsen tillsammans med andra stiftelser inom
 Folkuniversitetet och de övriga studieförbunden genomfört ett omfattande kontroll
 och kvalitetsarbete av studiecirkelverksamheten för åren 2017–2019. Granskningen av
@@ -18793,95 +20439,136 @@ och kvalitetsarbete av studiecirkelverksamheten för åren 2017–2019. Granskni
 
 <!-- sida 532 -->
 
-stiftelsens verksamhet har inte gett några större anmärkningar. Då Folkbildningsrådet Inom uppdragsutbildning har antalet deltagare ökat under sista kvartalet 2020 vilket
-jämte flertalet kommuner i regionen beslutat att inte räkna volymerna under 2020 har innebär att vi går in i 2021 med många deltagare. Under 2021 kommer flera upphand-
-inte all verksamhet som genomförts rapporterats i verksamhetssystemet eller slut- lingar för stat, kommuner och landsting att genomföras. Målsättningen är att stif-
-rapporterats. Detta har då resulterat i en minskad volym av folkbildningstimmar, som telsen kommer att fortsätta att tillhandahålla och utveckla utbildningar åt dessa i
-uppgått till ca 95 000 omräknade bidragstimmar. Stiftelsen har en stipendiefond som regionen.
+stiftelsens verksamhet har inte gett några större anmärkningar. Då Folkbildningsrådet
+jämte flertalet kommuner i regionen beslutat att inte räkna volymerna under 2020 har
+inte all verksamhet som genomförts rapporterats i verksamhetssystemet eller slut-
+rapporterats. Detta har då resulterat i en minskad volym av folkbildningstimmar, som
+uppgått till ca 95 000 omräknade bidragstimmar. Stiftelsen har en stipendiefond som
 syftar till att främja och stimulera gruppers och föreningars arbete med fri kunskaps-
-På skolsidan kommer stiftelsen att fortsätta bedriva en stor verksamhet inom yrkes-
 bildning. Denna har i enlighet med stiftelsens stadgar delat ut stipendier under året.
-högskolan. Stiftelsen har ansökt om och beviljats fem nya yrkeshögskoleutbildningar
-Arbetet med verksamhet för asylsökande på uppdrag av Folkbildningsrådet har med start 2021. Stiftelsen är också underleverantör för flera yrkeshögskoleutbildningar
-fortsatt under året. Det har bedrivits i form av studiecirklar i svenska och samhälls- i Varberg.
+Arbetet med verksamhet för asylsökande på uppdrag av Folkbildningsrådet har
+fortsatt under året. Det har bedrivits i form av studiecirklar i svenska och samhälls-
 orientering. Det har också genomförts kurser i vardagssvenska och för föräldralediga.
-Stiftelsen planerar att fortsätta utbyggnaden av gymnasiet i Trollhättan med flera
 En ny verksamhet i form av gratis digitala kurser för arbetslösa har också påbörjats
-parallella klasser inför höstterminen 2021.
 under året. Samtliga dessa verksamheter har finansierats med riktade statsbidrag och
-rapporterats till Folkbildningsrådet.           För att minska underskottet i verksamheten har stiftelsen genomfört besparingar i
-budgeten för 2021. Under 2021 kommer ytterligare besparingar göras. De ansträngning-
+rapporterats till Folkbildningsrådet.
 Inom uppdragsutbildning har stiftelsen samverkat med övriga stiftelser inom Folkuni-
-ar i form av neddragningar på såväl personal- som lokalsidan som stiftelsen har gjort
 versitetet i en organisation för nationella upphandlingar. Uppdragen för Arbetsförmed-
-och kommer göra för att förbättra ekonomin blir ett avstamp inför de kommande åren.
 lingen har ökat under året, främst inom uppdraget Korta vägen där verksamheten har
-startats upp på nytt under våren 2020 i Göteborg. Stiftelsen har på ett framgångsrikt Styrelsen bedömer att omsättningen kommer att minska under 2021. Styrelsen bedö-
-sätt fördjupat samarbetet med flera olika folkhögskolor i regionen riktat mot målgrup- mer dock att det finns en fortsatt stor efterfrågan på offentliga uppdrag, skolverksam-
-pen nyanlända, främst inom uppdraget Etablering. het och utbildningar för asylsökande under 2021.
-Inom skolverksamheten har stiftelsen cirka tjugo olika yrkeshögskoleutbildningar i Under 2021 förväntas viss uppdragsverksamhet att bedrivas i dotterbolaget Folkuniver-
-regionen. Under hösten 2020 gjordes en bra rekrytering. Ett problem som dock uppstod sitetet Uppdrag Väst AB (556330-1844).
+startats upp på nytt under våren 2020 i Göteborg. Stiftelsen har på ett framgångsrikt
+sätt fördjupat samarbetet med flera olika folkhögskolor i regionen riktat mot målgrup-
+pen nyanlända, främst inom uppdraget Etablering.
+Inom skolverksamheten har stiftelsen cirka tjugo olika yrkeshögskoleutbildningar i
+regionen. Under hösten 2020 gjordes en bra rekrytering. Ett problem som dock uppstod
 i vissa av utbildningarna var att den rådande pandemin krävde verksamhet på distans
-Väsentliga risker och osäkerhetsfaktorer
 vilket varit svårt att genomföra i de mer praktiska utbildningarna inom hantverks- och
-estetområden. Verksamheten har därför drabbats av flera avhopp och ökade kostnader Stiftelsens verksamhet är beroende av politiska beslut och andra omvärldsfaktorer,
-för sitt genomförande. Verksamheten inom sfi och kommunal vuxenutbildning för såsom den internationella konjunkturen och flyktingströmmarna. Konsekvenserna av
-Göteborgs Stad avslutades vid halvårsskiftet vilket lett till en betydande minskning av covid-19 innebär en stor osäkerhet inför de kommande åren.
+estetområden. Verksamheten har därför drabbats av flera avhopp och ökade kostnader
+för sitt genomförande. Verksamheten inom sfi och kommunal vuxenutbildning för
+Göteborgs Stad avslutades vid halvårsskiftet vilket lett till en betydande minskning av
 intäkterna jämfört med föregående år. Stiftelsen har vunnit ett anbud och startat upp
-Stiftelsens skattestatus som tidigare år (2015) varit föremål för utredning hos Skatte-
 en verksamhet inom sfi och grundläggande vuxenutbildning på distans för Göteborgs
-verket har blivit bedömd som skattepliktig. Då stiftelsen redovisade förluster under
 Stad under året.
-åren 2015–2020 saknar frågan emellertid finansiell betydelse i årets bokslut.
 Stiftelsen har under året erhållit ett kapitaltillskott med 4 Mkr från Folkuniversitets-
-Styrelsen anser att resultatutvecklingen 2021 är svårbedömd, men stiftelsen förväntas
 föreningen som är en av stiftarna. Tillskottet har tillförts till det egna kapitalet under
-ändå att uppvisa en tillräckligt god likviditet och soliditet under hela räkenskapsåret.
 räkenskapsåret 2020.
-Förväntad framtida utveckling                   Icke finansiella upplysningar
-Den akuta kris Sverige befinner sig i som en konsekvens av covid-19 innebär osäkerhet Stiftelsen ska vara en attraktiv arbetsgivare med en inkluderande kultur som ger alla
-inför 2021. Verksamheten har ställts om till att genomföras på distans där så är möjligt. anställda en känsla av tillhörighet. Stiftelsen arbetar aktivt för en god arbetsmiljö med
-På sikt kommer Sverige behöva en satsning på utbildning för att ställa om personal bra ledarskap och goda möjligheter till kompetensutveckling. Det eftersträvas mång-
-som idag friställs. Stiftelsens bedömning är att osäkerhet finns hur lång tid det tar fald inom alla verksamheter vilket leder till att stiftelsen på ett framgångsrikt sätt kan
-innan åtgärder kommer att starta inom arbetsmarknadsområdet och hur efterfrågan möta olika människor och gruppers behov av utbildning och utveckling.
-kommer vara för den öppna kursverksamheten.     Tjänstemän omfattas av kollektivavtal mellan Unionen respektive Akademikerförbun-
-Folkbildningsrådet har till följd av detta fattat beslut om att antalet genomförda den och FREMIA. Cirkelledare, lärare och andra pedagoger omfattas av kollektivavtal
-studietimmar under 2021 inte kommer påverka statsbidraget till folkbildningen för mellan Lärarnas Samverkansråd och FREMIA. Båda kollektivavtalen ger en förmånlig
-kommande år.                                    tjänstepension enligt ITP samt omfattas av omställningsförsäkring TRR.
-Inom folkbildningen kommer stiftelsen även under 2021 att dela ut stipendier till grup- En medarbetarundersökning genomfördes i februari 2020 med en svarsfrekvens på
-per och föreningar för att främja fri kunskapsbildning. 87 %. Resultatet visar på både ett högt medarbetarindex och ledarindex. Analys och
+Förväntad framtida utveckling
+Den akuta kris Sverige befinner sig i som en konsekvens av covid-19 innebär osäkerhet
+inför 2021. Verksamheten har ställts om till att genomföras på distans där så är möjligt.
+På sikt kommer Sverige behöva en satsning på utbildning för att ställa om personal
+som idag friställs. Stiftelsens bedömning är att osäkerhet finns hur lång tid det tar
+innan åtgärder kommer att starta inom arbetsmarknadsområdet och hur efterfrågan
+kommer vara för den öppna kursverksamheten.
+Folkbildningsrådet har till följd av detta fattat beslut om att antalet genomförda
+studietimmar under 2021 inte kommer påverka statsbidraget till folkbildningen för
+kommande år.
+Inom folkbildningen kommer stiftelsen även under 2021 att dela ut stipendier till grup-
+per och föreningar för att främja fri kunskapsbildning.
+
+Inom uppdragsutbildning har antalet deltagare ökat under sista kvartalet 2020 vilket
+innebär att vi går in i 2021 med många deltagare. Under 2021 kommer flera upphand-
+lingar för stat, kommuner och landsting att genomföras. Målsättningen är att stif-
+telsen kommer att fortsätta att tillhandahålla och utveckla utbildningar åt dessa i
+regionen.
+På skolsidan kommer stiftelsen att fortsätta bedriva en stor verksamhet inom yrkes-
+högskolan. Stiftelsen har ansökt om och beviljats fem nya yrkeshögskoleutbildningar
+med start 2021. Stiftelsen är också underleverantör för flera yrkeshögskoleutbildningar
+i Varberg.
+Stiftelsen planerar att fortsätta utbyggnaden av gymnasiet i Trollhättan med flera
+parallella klasser inför höstterminen 2021.
+För att minska underskottet i verksamheten har stiftelsen genomfört besparingar i
+budgeten för 2021. Under 2021 kommer ytterligare besparingar göras. De ansträngning-
+ar i form av neddragningar på såväl personal- som lokalsidan som stiftelsen har gjort
+och kommer göra för att förbättra ekonomin blir ett avstamp inför de kommande åren.
+Styrelsen bedömer att omsättningen kommer att minska under 2021. Styrelsen bedö-
+mer dock att det finns en fortsatt stor efterfrågan på offentliga uppdrag, skolverksam-
+het och utbildningar för asylsökande under 2021.
+Under 2021 förväntas viss uppdragsverksamhet att bedrivas i dotterbolaget Folkuniver-
+sitetet Uppdrag Väst AB (556330-1844).
+Väsentliga risker och osäkerhetsfaktorer
+Stiftelsens verksamhet är beroende av politiska beslut och andra omvärldsfaktorer,
+såsom den internationella konjunkturen och flyktingströmmarna. Konsekvenserna av
+covid-19 innebär en stor osäkerhet inför de kommande åren.
+Stiftelsens skattestatus som tidigare år (2015) varit föremål för utredning hos Skatte-
+verket har blivit bedömd som skattepliktig. Då stiftelsen redovisade förluster under
+åren 2015–2020 saknar frågan emellertid finansiell betydelse i årets bokslut.
+Styrelsen anser att resultatutvecklingen 2021 är svårbedömd, men stiftelsen förväntas
+ändå att uppvisa en tillräckligt god likviditet och soliditet under hela räkenskapsåret.
+Icke finansiella upplysningar
+Stiftelsen ska vara en attraktiv arbetsgivare med en inkluderande kultur som ger alla
+anställda en känsla av tillhörighet. Stiftelsen arbetar aktivt för en god arbetsmiljö med
+bra ledarskap och goda möjligheter till kompetensutveckling. Det eftersträvas mång-
+fald inom alla verksamheter vilket leder till att stiftelsen på ett framgångsrikt sätt kan
+möta olika människor och gruppers behov av utbildning och utveckling.
+Tjänstemän omfattas av kollektivavtal mellan Unionen respektive Akademikerförbun-
+den och FREMIA. Cirkelledare, lärare och andra pedagoger omfattas av kollektivavtal
+mellan Lärarnas Samverkansråd och FREMIA. Båda kollektivavtalen ger en förmånlig
+tjänstepension enligt ITP samt omfattas av omställningsförsäkring TRR.
+En medarbetarundersökning genomfördes i februari 2020 med en svarsfrekvens på
+87 %. Resultatet visar på både ett högt medarbetarindex och ledarindex. Analys och
 åtgärdsplaner kommer att hanteras på olika nivåer i verksamheten.
 19
 
 <!-- sida 533 -->
 
-Hållbarhetsrapport                              När det gäller stiftelsens arbete med att lämna in anbud i offentliga upphandlingar
-tillämpas firmateckning två i förening.
+Hållbarhetsrapport
 Stiftelsen avlämnar härmed hållbarhetsredovisning för år 2020.
-Avseende inköp har stiftelsen en dokumenterad attestordning som antagits av sty-
 Miljö
-relsen. Större inköp genomförs alltid två i förening. Större leverantörer måste skriva
-Stiftelsen är miljöcertifierad enligt ISO 14001 och har en dokumenterad miljöpolicy under leverantörsgodkännande. Alla inköp förankras i stiftelsens kvalitets- och miljö-
-som omfattar all verksamhet. Risken för negativ miljöpåverkan kopplad till stiftelsens policys. Inga avvikelser avseende försäljning eller inköp har framkommit under året.
+Stiftelsen är miljöcertifierad enligt ISO 14001 och har en dokumenterad miljöpolicy
+som omfattar all verksamhet. Risken för negativ miljöpåverkan kopplad till stiftelsens
 tjänsteproduktion uppstår främst genom transporter, materialförbrukning, energi-
 användning i lokaler och användning av kemikalier, främst inom stiftelsens estetiska
 verksamheter.
 Stiftelsens miljömål följs upp och granskas vid årliga interna och externa revisioner av
-Förslag till disposition beträffande stiftelsens resultat
 verksamheterna.
-Styrelsen föreslår att årets resultat kronor -5 089 570, tillsammans med balanserat
 Sociala förhållanden och personal
-resultat kronor 4 360 493 samt kapitaltillskott kronor 4 000 000, tillsammans kronor
-Stiftelsen har en dokumenterad personalpolicy. Stiftelsen har kollektivavtal för samt- 3 270 923 disponeras enligt följande:
+Stiftelsen har en dokumenterad personalpolicy. Stiftelsen har kollektivavtal för samt-
 liga anställda och tecknar försäkringar och tjänstepension enligt dessa. Stiftelsen har
 regelbundna dialoger med berörda fackliga organisationer och genomför regelbundna
-medarbetarundersökningar där resultaten ligger till grund för kontinuerligt förbätt- Till förfogande står: Belopp i kr
+medarbetarundersökningar där resultaten ligger till grund för kontinuerligt förbätt-
 ringsarbete.
-Balanserat resultat                     4 360 493
-Stiftelsen har en dokumenterad mångfaldspolicy. Mångfald eftersträvas för att på ett Kapitaltillskott 4 000 000
-framgångsrikt sätt kunna möta människors behov av utbildning och utveckling. Årets resultat -5 089 570
-Stiftelsen genomför regelbundna lönekartläggningar för att säkerställa att det inte Summa 3 270 923
+Stiftelsen har en dokumenterad mångfaldspolicy. Mångfald eftersträvas för att på ett
+framgångsrikt sätt kunna möta människors behov av utbildning och utveckling.
+Stiftelsen genomför regelbundna lönekartläggningar för att säkerställa att det inte
 finns osakliga löneskillnader mellan kvinnor och män.
+
+När det gäller stiftelsens arbete med att lämna in anbud i offentliga upphandlingar
+tillämpas firmateckning två i förening.
+Avseende inköp har stiftelsen en dokumenterad attestordning som antagits av sty-
+relsen. Större inköp genomförs alltid två i förening. Större leverantörer måste skriva
+under leverantörsgodkännande. Alla inköp förankras i stiftelsens kvalitets- och miljö-
+policys. Inga avvikelser avseende försäljning eller inköp har framkommit under året.
+
+Förslag till disposition beträffande stiftelsens resultat
+Styrelsen föreslår att årets resultat kronor -5 089 570, tillsammans med balanserat
+resultat kronor 4 360 493 samt kapitaltillskott kronor 4 000 000, tillsammans kronor
+3 270 923 disponeras enligt följande:
+
+Till förfogande står:                  Belopp i kr
+Balanserat resultat                     4 360 493
+Kapitaltillskott                       4 000 000
+Årets resultat                         -5 089 570
+Summa                                   3 270 923
+
 Respekt för mänskliga rättigheter
 Avsättning till Folkuniversitetet Göteborgs Stipendiefond 30 000
 Stiftelsen är en del av studieförbundet Folkuniversitetet. Folkbildningsverksamheten Balanseras i ny räkning 3 240 923
@@ -18903,10 +20590,12 @@ upphandling vunnit anbud. I förfrågningsunderlagen till grund för upphandling
 ställs krav kopplade till bland annat jämställdhet, miljöhänsyn och bemötande. Upp-
 dragsgivarna följer vid olika tidpunkter upp stiftelsen som leverantör. Inga väsentliga
 avvikelser har framkommit under året.
+
 Motverkande av korruption
 I stiftelsens verksamheter är situationer med förhandlingar med kunder av mycket
 liten omfattning. Risken för olämpliga situationer avseende försäljning är därmed
 mycket liten.
+
 20
 
 <!-- sida 534 -->
@@ -19227,68 +20916,99 @@ med totalt 17 607 355 kr av försiktighetsskäl.
 
 <!-- sida 539 -->
 
-Som del av en revision enligt ISA använder jag professionellt omdöme och har en Grund för uttalande
+Som del av en revision enligt ISA använder jag professionellt omdöme och har en
 professionellt skeptisk inställning under hela revisionen. Dessutom:
-Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt ansvar enligt denna beskrivs
-\- i dentifierar och bedömer jag riskerna för väsentliga felaktigheter i årsredovisningen, närmare i avsnittet Revisorns ansvar. Vi är oberoende i förhållande till stiftelsen enligt god
-vare sig dessa beror på oegentligheter eller misstag, utformar och utför granskningsåt- revisorssed i Sverige. Jag som auktoriserad revisor har i övrigt fullgjort mitt yrkesetiska
-gärder bland annat utifrån dessa risker och inhämtar revisionsbevis som är tillräckliga ansvar enligt dessa krav.
+\- i dentifierar och bedömer jag riskerna för väsentliga felaktigheter i årsredovisningen,
+vare sig dessa beror på oegentligheter eller misstag, utformar och utför granskningsåt-
+gärder bland annat utifrån dessa risker och inhämtar revisionsbevis som är tillräckliga
 och ändamålsenliga för att utgöra en grund för mina uttalanden. Risken för att inte
-Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som
 upptäcka en väsentlig felaktighet till följd av oegentligheter är högre än för en väsent-
-grund för vårt uttalande.
 lig felaktighet som beror på misstag, eftersom oegentligheter kan innefatta agerande i
 maskopi, förfalskning, avsiktliga utelämnanden, felaktig information eller åsidosättan-
-Styrelsens ansvar
 de av intern kontroll.
-Det är styrelsen som har ansvaret för förvaltningen enligt stiftelselagen och stiftelseför-
 \- skaffar jag mig en förståelse av den del av stiftelsens interna kontroll som har betydel-
-ordnandet.
 se för min revision för att utforma granskningsåtgärder som är lämpliga med hänsyn
-till omständigheterna, men inte för att uttala mig om effektiviteten i den interna Revisorns ansvar
+till omständigheterna, men inte för att uttala mig om effektiviteten i den interna
 kontrollen.
-Vårt mål beträffande revisionen av förvaltningen, och därmed vårt uttalande, är att
-\- utvärderar jag lämpligheten i de redovisningsprinciper som används och rimligheten i inhämta revisionsbevis för att med en rimlig grad av säkerhet kunna bedöma om någon
-styrelsens uppskattningar i redovisningen och tillhörande upplysningar. styrelseledamot i något väsentligt avseende:
-\- drar jag en slutsats om lämpligheten i att styrelsen använder antagandet om fortsatt - företagit någon åtgärd eller gjort sig skyldig till någon försummelse som kan föranle-
-drift vid upprättandet av årsredovisningen. Jag drar också en slutsats, med grund i de da ersättningsskyldighet mot stiftelsen eller om det finns skäl för entledigande, eller
+\- utvärderar jag lämpligheten i de redovisningsprinciper som används och rimligheten i
+styrelsens uppskattningar i redovisningen och tillhörande upplysningar.
+\- drar jag en slutsats om lämpligheten i att styrelsen använder antagandet om fortsatt
+drift vid upprättandet av årsredovisningen. Jag drar också en slutsats, med grund i de
 inhämtade revisionsbevisen, om huruvida det finns någon väsentlig osäkerhetsfaktor
-som avser sådana händelser eller förhållanden som kan leda till betydande tvivel om - på något annat sätt handlat i strid med stiftelselagen, stiftelseförordnandet eller
-stiftelsens förmåga att fortsätta verksamheten. Om jag drar slutsatsen att det finns en årsredovisningslagen.
-väsentlig osäkerhetsfaktor, måste jag i revisionsberättelsen fästa uppmärksamheten Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti för att en revision som
-på upplysningarna i årsredovisningen om den väsentliga osäkerhetsfaktorn eller, om utförs enligt god revisionssed i Sverige alltid kommer att upptäcka åtgärder eller försum-
-sådana upplysningar är otillräckliga, modifiera uttalandet om årsredovisningen. Mina melser som kan föranleda ersättningsskyldighet mot stiftelsen.
+som avser sådana händelser eller förhållanden som kan leda till betydande tvivel om
+stiftelsens förmåga att fortsätta verksamheten. Om jag drar slutsatsen att det finns en
+väsentlig osäkerhetsfaktor, måste jag i revisionsberättelsen fästa uppmärksamheten
+på upplysningarna i årsredovisningen om den väsentliga osäkerhetsfaktorn eller, om
+sådana upplysningar är otillräckliga, modifiera uttalandet om årsredovisningen. Mina
 slutsatser baseras på de revisionsbevis som inhämtas fram till datumet för revisions-
-Som en del av en revision enligt god revisionssed i Sverige använder den auktoriserade
 berättelsen. Dock kan framtida händelser eller förhållanden göra att en stiftelse inte
-revisorn professionellt omdöme och har en professionellt skeptisk inställning under hela
 längre kan fortsätta verksamheten.
-revisionen. Granskningen av förvaltningen grundar sig främst på revisionen av räken-
-\- utvärderar jag den övergripande presentationen, strukturen och innehållet i årsredo- skaperna. Vilka tillkommande granskningsåtgärder som utförs baseras på den auktori-
-visningen, däribland upplysningarna, och om årsredovisningen återger de underliggan- serade revisorns professionella bedömning och övriga valda revisorers bedömning med
-de transaktionerna och händelserna på ett sätt som ger en rättvisande bild. utgångspunkt i risk och väsentlighet. Det innebär att vi fokuserar granskningen på sådana
-Jag måste informera styrelsen om bland annat revisionens planerade omfattning och åtgärder, områden och förhållanden som är väsentliga för verksamheten och där avsteg
-inriktning samt tidpunkten för den. Jag måste också informera om betydelsefulla och överträdelser skulle ha särskild betydelse för stiftelsens situation. Vi går igenom och
-iakttagelser under revisionen, däribland de eventuella betydande brister i den interna prövar fattade beslut, beslutsunderlag, vidtagna åtgärder och andra förhållanden som är
-kontrollen som jag identifierat.                relevanta för vårt uttalande.
-Den förtroendevalda revisorns ansvar            Revisorns yttrande avseende den lagstadgade hållbarhetsrapporten
-Vi har att utföra en revision enligt revisionslagen och därmed enligt god revisionssed i Det är styrelsen som har ansvaret för hållbarhetsrapporten på sidan 20 och för att den är
-Sverige. Vårt mål är att uppnå en rimlig grad av säkerhet om huruvida årsredovisningen upprättad i enlighet med årsredovisningslagen.
-har upprättats i enlighet med årsredovisningslagen och om årsredovisningen ger en Vår granskning har skett enligt FAR:s rekommendation RevR 12 Revisorns yttrande om
-rättvisande bild av stiftelsens resultat och ställning. den lagstadgade hållbarhetsrapporten. Detta innebär att vår granskning av hållbarhets-
-rapporten har en annan inriktning och en väsentligt mindre omfattning jämfört med den
-Rapport om andra krav enligt lagar och andra författningar inriktning och omfattning som en revision enligt International Standards on Auditing och
-god revisionssed i Sverige har. Vi anser att denna granskning ger oss tillräcklig grund för
-Uttalande                                       vårt uttalande.
-Utöver vår revision av årsredovisningen har vi även utfört en revision av styrelsens En hållbarhetsrapport har upprättats.
+\- utvärderar jag den övergripande presentationen, strukturen och innehållet i årsredo-
+visningen, däribland upplysningarna, och om årsredovisningen återger de underliggan-
+de transaktionerna och händelserna på ett sätt som ger en rättvisande bild.
+Jag måste informera styrelsen om bland annat revisionens planerade omfattning och
+inriktning samt tidpunkten för den. Jag måste också informera om betydelsefulla
+iakttagelser under revisionen, däribland de eventuella betydande brister i den interna
+kontrollen som jag identifierat.
+Den förtroendevalda revisorns ansvar
+Vi har att utföra en revision enligt revisionslagen och därmed enligt god revisionssed i
+Sverige. Vårt mål är att uppnå en rimlig grad av säkerhet om huruvida årsredovisningen
+har upprättats i enlighet med årsredovisningslagen och om årsredovisningen ger en
+rättvisande bild av stiftelsens resultat och ställning.
+Rapport om andra krav enligt lagar och andra författningar
+Uttalande
+Utöver vår revision av årsredovisningen har vi även utfört en revision av styrelsens
 förvaltning för Folkuniversitetet Stiftelsen Kursverksamheten vid Göteborgs universitet
-år 2020.                                        Göteborg den 31 mars 2021
+år 2020.
 Enligt vår uppfattning har någon styrelseledamot inte handlat i strid med stiftelselagen,
-Fredrik Waern Lars-Åke Lagerkwist Nora Myrne Widfors
 stiftelseförordnandet eller årsredovisningslagen.
+26
+
+Grund för uttalande
+Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt ansvar enligt denna beskrivs
+närmare i avsnittet Revisorns ansvar. Vi är oberoende i förhållande till stiftelsen enligt god
+revisorssed i Sverige. Jag som auktoriserad revisor har i övrigt fullgjort mitt yrkesetiska
+ansvar enligt dessa krav.
+Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som
+grund för vårt uttalande.
+Styrelsens ansvar
+Det är styrelsen som har ansvaret för förvaltningen enligt stiftelselagen och stiftelseför-
+ordnandet.
+Revisorns ansvar
+Vårt mål beträffande revisionen av förvaltningen, och därmed vårt uttalande, är att
+inhämta revisionsbevis för att med en rimlig grad av säkerhet kunna bedöma om någon
+styrelseledamot i något väsentligt avseende:
+\- företagit någon åtgärd eller gjort sig skyldig till någon försummelse som kan föranle-
+da ersättningsskyldighet mot stiftelsen eller om det finns skäl för entledigande, eller
+\- på något annat sätt handlat i strid med stiftelselagen, stiftelseförordnandet eller
+årsredovisningslagen.
+Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti för att en revision som
+utförs enligt god revisionssed i Sverige alltid kommer att upptäcka åtgärder eller försum-
+melser som kan föranleda ersättningsskyldighet mot stiftelsen.
+Som en del av en revision enligt god revisionssed i Sverige använder den auktoriserade
+revisorn professionellt omdöme och har en professionellt skeptisk inställning under hela
+revisionen. Granskningen av förvaltningen grundar sig främst på revisionen av räken-
+skaperna. Vilka tillkommande granskningsåtgärder som utförs baseras på den auktori-
+serade revisorns professionella bedömning och övriga valda revisorers bedömning med
+utgångspunkt i risk och väsentlighet. Det innebär att vi fokuserar granskningen på sådana
+åtgärder, områden och förhållanden som är väsentliga för verksamheten och där avsteg
+och överträdelser skulle ha särskild betydelse för stiftelsens situation. Vi går igenom och
+prövar fattade beslut, beslutsunderlag, vidtagna åtgärder och andra förhållanden som är
+relevanta för vårt uttalande.
+Revisorns yttrande avseende den lagstadgade hållbarhetsrapporten
+Det är styrelsen som har ansvaret för hållbarhetsrapporten på sidan 20 och för att den är
+upprättad i enlighet med årsredovisningslagen.
+Vår granskning har skett enligt FAR:s rekommendation RevR 12 Revisorns yttrande om
+den lagstadgade hållbarhetsrapporten. Detta innebär att vår granskning av hållbarhets-
+rapporten har en annan inriktning och en väsentligt mindre omfattning jämfört med den
+inriktning och omfattning som en revision enligt International Standards on Auditing och
+god revisionssed i Sverige har. Vi anser att denna granskning ger oss tillräcklig grund för
+vårt uttalande.
+En hållbarhetsrapport har upprättats.
+Göteborg den 31 mars 2021
+Fredrik Waern Lars-Åke Lagerkwist Nora Myrne Widfors
 Auktoriserad revisor Förtroendevald revisor Förtroendevald revisor
 KPMG AB
-26
 
 <!-- sida 540 -->
 
@@ -19412,109 +21132,196 @@ KRISTINEHAMN
 Föreningssamarbete: studiecirklar
 och kulturarrangemang
 KUNGSBACKA
-ALE                     FALKÖPING              GÖTENE\*                 Kursprogram: språk, ekonomi, estetiska ämnen
+ALE                     FALKÖPING               GÖTENE\*                Kursprogram: språk, ekonomi, estetiska ämnen
 Föreningssamarbete: studiecirklar Distanskurser Föreningssamarbete: kulturarrangemang Föreningssamarbete: studiecirklar
 och kulturarrangemang                                                  och kulturarrangemang
-Folkhögskola: Etableringskurs FILIPSTAD\*       HAGFORS\*                Föreläsningsprogram: forskarföreläsningar
+Folkhögskola: Etableringskurs FILIPSTAD\*        HAGFORS\*               Föreläsningsprogram: forskarföreläsningar
 Föreningssamarbete: studiecirklar Folkhögskola: Etableringskurs Uppdrag för Arbetsförmedlingen: Stöd och
 ALINGSÅS\*               och kulturarrangemang                          matchning
-Föreningssamarbete: studiecirklar              HAMMARÖ\*                Folkhögskola: Etableringskurs
-och kulturarrangemang   GRUMS                  Föreningssamarbete: studiecirklar
+Föreningssamarbete: studiecirklar               HAMMARÖ\*               Folkhögskola: Etableringskurs
+och kulturarrangemang   GRUMS                   Föreningssamarbete: studiecirklar
 Föreläsningsprogram: forskarföreläsningar Kulturprogram och kulturarrangemang KUNGSHAMN
 Kulturverksamhet för äldre Folkhögskola: Etableringskurs
 ARVIKA\*                 GRÄSTORP
 Föreningssamarbete: studiecirklar Föreningssamarbete: studiecirklar HJO KUNGÄLV
-och kulturarrangemang                          Distanskurser           Föreningssamarbete: studiecirklar
+och kulturarrangemang                           Distanskurser          Föreningssamarbete: studiecirklar
 Forskarföreläsningar    GULLSPÅNG                                      och kulturarrangemang
-Uppdrag för Arbetsförmedlingen: Distanskurser  HÄRRYDA\*
-Grundläggande moduler                          Föreningssamarbete: studiecirklar LERUM
-Folkhögskola: Etableringskurs GÖTEBORG\*        och kulturarrangemang   Föreningssamarbete: studiecirklar
+Uppdrag för Arbetsförmedlingen: Distanskurser   HÄRRYDA\*
+
+Grundläggande moduler
+Folkhögskola: Etableringskurs
+BOLLEBYGD
+Kursprogram: natur och mat
+Kulturverksamhet för deltagare
+med funktionsvariation och äldre
+BORÅS\*
+Kursprogram: språk, ekonomi, data,
+hantverk, estetiska ämnen
+Studiecirklar för asylsökande
+Kulturarrangemang
+Föreläsningsprogram: forskarföreläsningar
+Föreningssamarbete: studiecirklar
+och kulturarrangemang
+Kulturverksamhet för deltagare med
+funktionsvariation och äldre
+
+Föreningssamarbete: studiecirklar LERUM
+GÖTEBORG\*               och kulturarrangemang  Föreningssamarbete: studiecirklar
 Kursprogram: 1 000-tals kurser i Föreläsningsprogram: forskarföreläsningar och kulturarrangemang
-BOLLEBYGD               100-tals olika ämnen                           Föreläsningsprogram: forskarföreläsningar
-Kursprogram: natur och mat Föreläsningsprogram: forskarföreläsningar KARLSBORG
-Kulturverksamhet för deltagare Kontakttolk     Kulturarrangemang       LIDKÖPING\*
-med funktionsvariation och äldre Diplomutbildningar                    Föreningssamarbete: studiecirklar
+100-tals olika ämnen                           Föreläsningsprogram: forskarföreläsningar
+Föreläsningsprogram: forskarföreläsningar KARLSBORG
+Kontakttolk             Kulturarrangemang      LIDKÖPING\*
+Diplomutbildningar                             Föreningssamarbete: studiecirklar
 Internationella språkexaminationer KARLSTAD\*   och kulturarrangemang
-BORÅS\*                  Studie- och kulturverksamhet för deltagare Kursprogram: språk, administrativa ämnen,
-Kursprogram: språk, ekonomi, data, med funktionsvariation och äldre data, estetiska ämnen LYSEKIL
-hantverk, estetiska ämnen Samarbeten med kulturinstitutioner Föreläsningsprogram: forskarföreläsningar Folkhögskola: Etableringskurs
-Studiecirklar för asylsökande Föreningssamarbete: studiecirklar Föreningssamarbete: studiecirklar
-Kulturarrangemang       och kulturarrangemang  och kulturarrangemang   MARKS KOMMUN
-Föreläsningsprogram: forskarföreläsningar Svenska och samhällsorientering Studie- och kulturverksamhet för deltagare Föreningssamarbete: kulturarrangemang
-Föreningssamarbete: studiecirklar för asylsökande med funktionsvariation och äldre
-och kulturarrangemang   Svenska för föräldralediga Samarbeten med kulturinstitutioner MELLERUD
-Kulturverksamhet för deltagare med AMNI – Arbetsmarknadsnära insatser Svenska för invandrare Distanskurser
-funktionsvariation och äldre Kommunal vuxenutbildning YH-utbildning: Drifttekniker, Energi-
-Personalutbildning      Svenska för invandrare och fastighetstekniker  MUNKFORS
+Studie- och kulturverksamhet för deltagare Kursprogram: språk, administrativa ämnen,
+
+med funktionsvariation och äldre
+Samarbeten med kulturinstitutioner
+Föreningssamarbete: studiecirklar
+och kulturarrangemang
+Svenska och samhällsorientering
+för asylsökande
+Svenska för föräldralediga
+AMNI – Arbetsmarknadsnära insatser
+Kommunal vuxenutbildning
+
+data, estetiska ämnen   LYSEKIL
+Föreläsningsprogram: forskarföreläsningar Folkhögskola: Etableringskurs
+Föreningssamarbete: studiecirklar
+och kulturarrangemang   MARKS KOMMUN
+Studie- och kulturverksamhet för deltagare Föreningssamarbete: kulturarrangemang
+med funktionsvariation och äldre
+Samarbeten med kulturinstitutioner MELLERUD
+Svenska för invandrare  Distanskurser
+YH-utbildning: Drifttekniker, Energi-
+
+Personalutbildning      Svenska för invandrare  och fastighetstekniker MUNKFORS
 Folkhögskola: Etableringskurs Skolverksamhet: Art College, Uppdrag för Arbetsförmedlingen: Distanskurser
 Balettakademien, KV Konstskola Tolkutbildning, Korta vägen,
 DALS-ED                 YH-utbildning: Arbetsmiljöingenjör, Stöd och matchning MÖLNDAL\*
 Distanskurser           Fukttekniker, Säkerhets- och Folkhögskola: Etableringskurs Föreningssamarbete: studiecirklar
 trygghetskoordinator                           och kulturarrangemang
 DINGLE                  Uppdragsutbildning för bland annat Göteborgs KIL Föreläsningsprogram: forskarföreläsningar
-Folkhögskola: Etableringskurs Stad,            Föreningssamarbete: studiecirklar
+Folkhögskola: Etableringskurs Stad,             Föreningssamarbete: studiecirklar
 Arbetsförmedlingen (exempelvis Korta vägen), och kulturprogram ORUST
 ESSUNGA\*                Västra Götalandsregionen, Chalmers Tekniska    Distanskurser
 Föreningssamarbete: studiecirklar Högskola och privat näringsliv
+
 PARTILLE
 Föreningssamarbete: kulturarrangemang
+
 30
 
 <!-- sida 544 -->
 
-SKARA                   TORSBY                 VARA\*
-Föreningssamarbete: studiecirklar Folkhögskola: Etableringskurs Föreläsningsprogram: forskarföreläsningar
-och kulturarrangemang                          Föreningssamarbete: studiecirklar
+SKARA                   TORSBY
+Föreningssamarbete: studiecirklar Folkhögskola: Etableringskurs
+och kulturarrangemang
 Föreläsningsprogram: forskarföreläsningar TRANEMO\*
-Skara skolscen med kompletterande Föreningssamarbete: studiecirklar VARBERG\*
-utbildning inom skådespeleri och kulturarrangemang Kursprogram: språk, ekonomi, data
-Föreningssamarbete: studiecirklar
-SKÖVDE                  TROLLHÄTTAN\*           och kulturarrangemang
-Föreningssamarbete: studiecirklar Kursprogram: språk, ekonomi, ledarskap, data, Föreläsningsprogram: forskarföreläsningar
-och kulturarrangemang   estetiska ämnen, teater och musik, trädgård, Personalutbildning
-Föreläsningsprogram: forskarföreläsningar kurser för seniorer, individuell undervisning Svenska för invandrare
-Kulturprogram          Kommunal vuxenutbildning
-SOTENÄS                 Diplomutbildningar     Svenska för invandrare
-Föreningssamarbete: kulturarrangemang Föreläsningsprogram: forskarföreläsningar YH-utbildning i samarbete med Campus
-Föreningssamarbete: studiecirklar och Varberg: Energitekniker, Järnvägsprojektör,
-STORFORS                kulturarrangemang      Elkonstruktör, Medicinsk sekreterare,
-Distanskurser           Motiverande insatser för utrikesfödda kvinnor Mjukvaruutvecklare
+Skara skolscen med kompletterande Föreningssamarbete: studiecirklar
+utbildning inom skådespeleri och kulturarrangemang
+
+SKÖVDE                  TROLLHÄTTAN\*
+Föreningssamarbete: studiecirklar Kursprogram: språk, ekonomi, ledarskap, data,
+och kulturarrangemang   estetiska ämnen, teater och musik, trädgård,
+Föreläsningsprogram: forskarföreläsningar kurser för seniorer, individuell undervisning
+Kulturprogram
+SOTENÄS                 Diplomutbildningar
+Föreningssamarbete: kulturarrangemang Föreläsningsprogram: forskarföreläsningar
+Föreningssamarbete: studiecirklar och
+STORFORS                kulturarrangemang
+Distanskurser           Motiverande insatser för utrikesfödda kvinnor
 AMNI – Arbetsmarknadsnära insatser
-STRÖMSTAD               Uppdrag för Arbetsförmedlingen: Korta vägen VÄNERSBORG
-Uppdrag för Arbetsförmedlingen: Folkhögskola: Etableringskurs Kursprogram: trädgårdskurser
-Folkhögskola: Etableringskurs Uppdrag för Trollhättans stad: Vardagssvenska Föreningssamarbete: studiecirklar
-Uppdrag för Arbetsförmedlingen: och kulturarrangemang
-SUNNE                   Arbetsträningsplatser  Studiecirklar för asylsökande: Vardagssvenska Under 2020 har vi också erbjudit
-Distanskurser           Uppdrag i samverkan med Trollhättans stad: och Svenska från dag ett 100-tals distanskurser tillgängliga
-Språkoteket            Uppdrag för Vänersborgs kommun:
-för alla invånare i Västra Götaland
-SÄFFLE\*                 Gymnasieskola: Samhällsvetenskaps- och Vardagssvenska
-Föreningssamarbete: studiecirklar ekonomiprogrammet med internationell profil och Värmland.
-och kulturarrangemang   och estetiska programmet med teater- och ÅMÅL\*
-designinriktning       Föreningssamarbete: studiecirklar
-TANUM                                          och kulturarrangemang
-Folkhögskola: Etableringskurs TÖREBODA         Uppdrag för Arbetsförmedlingen: Stöd och
-Distanskurser          matchning
-TJÖRN                                          Folkhögskola: Etableringskurs
+STRÖMSTAD               Uppdrag för Arbetsförmedlingen: Korta vägen
+Uppdrag för Arbetsförmedlingen: Folkhögskola: Etableringskurs
+Folkhögskola: Etableringskurs Uppdrag för Trollhättans stad: Vardagssvenska
+Uppdrag för Arbetsförmedlingen:
+SUNNE                   Arbetsträningsplatser
+Distanskurser           Uppdrag i samverkan med Trollhättans stad:
+Språkoteket
+SÄFFLE\*                 Gymnasieskola: Samhällsvetenskaps- och
+Föreningssamarbete: studiecirklar ekonomiprogrammet med internationell profil
+och kulturarrangemang   och estetiska programmet med teater- och
+designinriktning
+TANUM
+Folkhögskola: Etableringskurs TÖREBODA
+Distanskurser
+
+TJÖRN
 Kulturprogram           UDDEVALLA\*
-Kursprogram: språk, ekonomi, ledarskap, data, ÅRJÄNG\*
-TIBRO                   kurser för seniorer, estetiska ämnen Föreningssamarbete: studiecirklar
-Tibro Hantverksakademi: yrkesinriktade Diplomutbildningar och kulturarrangemang
-utbildningar inom möbel- och Föreläsningsprogram: forskarföreläsningar Distanskurser
-inredningsbranschen     Föreningssamarbete: studiecirklar och
-Kompletterande utbildningar inom hantverk kulturarrangemang ÖCKERÖ
-YH-utbildningar: Dekormålare/Förgyllare/       Föreningssamarbete: studiecirklar
-Ytbehandlare,           ULRICEHAMN\*            och kulturarrangemang
-Möbelrestaurerare, Möbeltapetserare, Kulturprogram
-Projektkoordinator inom möbel- och Föreläsningsprogram: forskarföreläsningar
-inredningsbranschen, Specialsnickare Kulturverksamhet för deltagare med
-inom möbel- och inredningsindustrin, funktionsvariation och äldre
-Träbildhuggare, Trähantverkare Föreningssamarbete: studiecirklar och
-Hantverksstegen         kulturarrangemang
+Kursprogram: språk, ekonomi, ledarskap, data,
+
+TIBRO
+Tibro Hantverksakademi: yrkesinriktade
+utbildningar inom möbel- och
+inredningsbranschen
+Kompletterande utbildningar inom hantverk
+YH-utbildningar: Dekormålare/Förgyllare/
+Ytbehandlare,
+Möbelrestaurerare, Möbeltapetserare,
+Projektkoordinator inom möbel- och
+inredningsbranschen, Specialsnickare
+inom möbel- och inredningsindustrin,
+Träbildhuggare, Trähantverkare
+Hantverksstegen
 Kortkurser i hantverk
-Personalutbildning                             Uppgifterna för orter markerade med \* inkluderar verksamhet i
-samarbete med Riksförbundet Hem och Samhälle
+Personalutbildning
 Studiecirklar
+
+kurser för seniorer, estetiska ämnen
+Diplomutbildningar
+Föreläsningsprogram: forskarföreläsningar
+Föreningssamarbete: studiecirklar och
+kulturarrangemang
+ULRICEHAMN\*
+Kulturprogram
+Föreläsningsprogram: forskarföreläsningar
+Kulturverksamhet för deltagare med
+funktionsvariation och äldre
+Föreningssamarbete: studiecirklar och
+kulturarrangemang
+
+VARA\*
+Föreläsningsprogram: forskarföreläsningar
+Föreningssamarbete: studiecirklar
+VARBERG\*
+Kursprogram: språk, ekonomi, data
+Föreningssamarbete: studiecirklar
+och kulturarrangemang
+Föreläsningsprogram: forskarföreläsningar
+Personalutbildning
+Svenska för invandrare
+Kommunal vuxenutbildning
+Svenska för invandrare
+YH-utbildning i samarbete med Campus
+Varberg: Energitekniker, Järnvägsprojektör,
+Elkonstruktör, Medicinsk sekreterare,
+Mjukvaruutvecklare
+VÄNERSBORG
+Kursprogram: trädgårdskurser
+Föreningssamarbete: studiecirklar
+och kulturarrangemang
+Studiecirklar för asylsökande: Vardagssvenska Under 2020 har vi också erbjudit
+och Svenska från dag ett 100-tals distanskurser tillgängliga
+Uppdrag för Vänersborgs kommun:
+för alla invånare i Västra Götaland
+Vardagssvenska
+och Värmland.
+ÅMÅL\*
+Föreningssamarbete: studiecirklar
+och kulturarrangemang
+Uppdrag för Arbetsförmedlingen: Stöd och
+matchning
+Folkhögskola: Etableringskurs
+ÅRJÄNG\*
+Föreningssamarbete: studiecirklar
+och kulturarrangemang
+Distanskurser
+ÖCKERÖ
+Föreningssamarbete: studiecirklar
+och kulturarrangemang
+Uppgifterna för orter markerade med \* inkluderar verksamhet i
+samarbete med Riksförbundet Hem och Samhälle
 31
 
 <!-- sida 545 -->
@@ -19701,7 +21508,7 @@ Registrerad Antal Antal deltagare Funktions- Invandrare med Studie- Deltagartimm
 verksamhet Arr Totalt Kvinnor — Män nedsättnina brist i svenska timmar Bidrag
 Folkbildning
 Summa annan folkbildningsverksamhet
-Totalt 1 33 33 0 0 0 15 225
+Totalt 1 33 33 [0] 0 0 15 225
 Ej tilläggsbidrag 1 33 33 0 0 0 15 225
 Beräknade studiecirklar och annan folkbildningsverksamhet
 Totalt 1 33 33 0 0 0 8 113
@@ -19750,14 +21557,14 @@ Kungsbacka
 Funktions-
 nedsättnina
 
-o0cMo00
-
 Invandrare med
 brist i svenska
 
-oo0c0o000
-
 146
+
+o0cMo00
+
+oo0c0o000
 
 <!-- sida 554 -->
 
@@ -20114,8 +21921,8 @@ Bilda Sydväst 2020
 Detta är en kortfattad beskrivning av verksamheten i Kungsbacka kommun 2020.
 Bifogat är också en sammanfattning av den utökade granskningen som genomförts för åren 2017-2019 i er
 kommun.
-I verksamhetsberättelsen Bildaåret 2020 kan du läsa mer om verksamhet i hela regionen.
 
+I verksamhetsberättelsen Bildaåret 2020 kan du läsa mer om verksamhet i hela regionen.
 Vi tror att det är i mötet med andra som vi får
 Folkbildning                      nya perspektiv på tillvaron och växer som män-
 niskor.
@@ -20123,36 +21930,60 @@ niskor.
 Ingen växer utan möten
 2020 har onekligen varit ett utmanande och
 annorlunda år för alla, även för oss som arbe-
-Studieverksamhet
 tar med folkbildning. På Bilda är mötet
-centralt, där vi tror att mötet med andra män- Pandemin satte tidigt begränsningar i vår verk-
-niskor, andra tankar och andra utryck är vad samhet för stora grupper och personer i risk-
-som får oss att växa. Möten som innan 2020 i grupp. Mycket verksamhet i församlingarna i
-stort sett alltid var fysiska i vår verksamhet. Kungsbacka fick ställas in men tillsammans
-Möten kan dock ske på olika sätt och under med enstaka grupper hittade vi vägar för att
-året har vi ställt om och verkat för att stötta fortsätta genom digitala verktyg eller att träffas
-och kompetensutveckla människor i alla åldrar utomhus med trygga avstånd.
-och i vitt skilda verksamheter för att de ska Inom Bilda värnas samtalet om existentiella
-kunna fortsätta mötas, utvecklas och bilda sig. frågor, om Gud, tro och livet. Livssamtal kan få
-Mötet har aldrig varit viktigare än det är just stimuleras genom exempelvis hantverk och
-nu och på Bilda är vi stolta att under 2020 ha slöjd. Under pandemin blev forum för samtal
-kunnat verka för att möjliggöra och förbättra än mer viktiga.
+centralt, där vi tror att mötet med andra män-
+niskor, andra tankar och andra utryck är vad
+som får oss att växa. Möten som innan 2020 i
+stort sett alltid var fysiska i vår verksamhet.
+Möten kan dock ske på olika sätt och under
+året har vi ställt om och verkat för att stötta
+och kompetensutveckla människor i alla åldrar
+och i vitt skilda verksamheter för att de ska
+kunna fortsätta mötas, utvecklas och bilda sig.
+Mötet har aldrig varit viktigare än det är just
+nu och på Bilda är vi stolta att under 2020 ha
+kunnat verka för att möjliggöra och förbättra
 möten i många olika former.
 Ingen växer utan möten!
+Bilda  – studieförbundet
+utan  kurskatalog
+
+Vi jobbar med massor av olika sorters projekt,
+verksamhet och former av samverkan, oftast
+med koppling till kultur, samhällsfrågor, tro,
+religion eller existentiella frågor. Det som skil-
+jer oss från andra studieförbund är att hos oss
+finns ingen färdig kurskatalog, här är delta-
+garna med och skapar verksamheten.
+
+Studieverksamhet
+Pandemin satte tidigt begränsningar i vår verk-
+samhet för stora grupper och personer i risk-
+grupp. Mycket verksamhet i församlingarna i
+Kungsbacka fick ställas in men tillsammans
+med enstaka grupper hittade vi vägar för att
+fortsätta genom digitala verktyg eller att träffas
+utomhus med trygga avstånd.
+Inom Bilda värnas samtalet om existentiella
+frågor, om Gud, tro och livet. Livssamtal kan få
+stimuleras genom exempelvis hantverk och
+slöjd. Under pandemin blev forum för samtal
+än mer viktiga.
 Kulturverksamhet
+
 Under sommarhalvåret samverkar vi nära med
-Bilda  – studieförbundet          Vallersvikskyrkans sommargård och erbjuder
+Vallersvikskyrkans sommargård och erbjuder
 program för familjer och gäster. Dock i mindre
-utan  kurskatalog                 skala detta år, men lika innerligt för det. Gläd-
+skala detta år, men lika innerligt för det. Gläd-
 jen i att hitta vägar för musik och föreläsningar
 genom den folkbildning det är, berikar många.
-Vi jobbar med massor av olika sorters projekt, Och utifrån olika teman bjuds alla in till något
-verksamhet och former av samverkan, oftast att smaka på.
-med koppling till kultur, samhällsfrågor, tro, Övriga året erbjuder en äldre grupp in till dag-
-religion eller existentiella frågor. Det som skil- ledigsamlingar med ett brett utbud av föredrag
-jer oss från andra studieförbund är att hos oss med allt från lokalhistoria till reseskildringar
-finns ingen färdig kurskatalog, här är delta- från när och fjärran. Detta år i mindre ut-
-garna med och skapar verksamheten. sträckning, och vi har en stor förhoppning att
+Och utifrån olika teman bjuds alla in till något
+att smaka på.
+Övriga året erbjuder en äldre grupp in till dag-
+ledigsamlingar med ett brett utbud av föredrag
+med allt från lokalhistoria till reseskildringar
+från när och fjärran. Detta år i mindre ut-
+sträckning, och vi har en stor förhoppning att
 skala upp verksamhet när pandemin tillåter.
 Under året har vi samverkat med
 
@@ -20223,50 +22054,85 @@ Tryck: TMG Tabergs 2021
 
 Ingen          växer         utan        möten!
 
-DET ÄR MED BITTERLJUV eftersmak jag summerar med våra medlemsorganisationer och samverkanspar-
-året 2020 och konstaterar att folkbildningen och Bild- ter har vi tagit fram nya digitala koncept för försam-
-as idéer aldrig varit mer relevanta. Vi har som organi- lingarnas folkbildningsverksamhet, erbjudit digitala
-sation under en lång tid drivits av vår övertygelse att spelningar till kulturarbetare och utbildat otaliga per-
-mötet är avgörande. Mötet inte bara med det okända soner i hur man kommer igång och använder digitala
-och nya, utan också med det trygga och vardagliga. verktyg.
-Möten människor emellan, mötet med andra åsikter,
-mötet med det som inte går att klä eller beskriva med Det jag dock är extra stolt över, är alla de samtal vi
-ord.                              genomfört med deltagare och ledare, samtal som inte
+DET ÄR MED BITTERLJUV eftersmak jag summerar
+året 2020 och konstaterar att folkbildningen och Bild-
+as idéer aldrig varit mer relevanta. Vi har som organi-
+sation under en lång tid drivits av vår övertygelse att
+mötet är avgörande. Mötet inte bara med det okända
+och nya, utan också med det trygga och vardagliga.
 
+Möten människor emellan, mötet med andra åsikter,
+mötet med det som inte går att klä eller beskriva med
+ord.
+
+Pandemin har på ett brutalt och tragiskt sätt satt
+fingret på vikten av att träffas och aldrig har längtan
+efter att interagera med andra människor engagerat
+och berört så många världen över. Detta är egentligen
+föga förvånande, då livet som människa blir totalt
+annorlunda.
+
+Men det är inte bara pandemin som gör att jag anser
+att mötet är vår framtids största utmaning och möjlig-
+
+het. Den ökade polariseringen i samhället, alternativa
+fakta och en önskan att vrida klockan tillbaka till en
+mer homogen verklighet pekar alla på samma sak;
+att mötas och inte minst hur vi möts spelar en avgö-
+rande roll för hur framtiden kommer att bli. Det är
+i sammanhang där oliktänkande inte får plats, som
+extremism och lögner frodas. Det är i stadsdelar där
+mötet med en annan verklighet saknas, som ungdo-
+mar tappat sin framtidstro. Det är på behörigt avstånd
+i vardagsrummets trygga tillvaro, som medmänniskor
+förvandlas till enheter och problem.
+
+Under året har vi på Bilda gjort en imponerande resa
+
+där vi på kort tid ställt om och ändrat våra verksam-
+heter där mötet alltid står i centrum. I nära samarbete
+
+med våra medlemsorganisationer och samverkanspar-
+ter har vi tagit fram nya digitala koncept för försam-
+lingarnas folkbildningsverksamhet, erbjudit digitala
+spelningar till kulturarbetare och utbildat otaliga per-
+soner i hur man kommer igång och använder digitala
+verktyg.
+
+Det jag dock är extra stolt över, är alla de samtal vi
+genomfört med deltagare och ledare, samtal som inte
 alltför sällan handlat om att stötta, inspirera och lyss-
-Pandemin har på ett brutalt och tragiskt sätt satt na under ett år som för många varit svårt och tröst-
-fingret på vikten av att träffas och aldrig har längtan löst. Dessa samtal kommer
+na under ett år som för många varit svårt och tröst-
+löst. Dessa samtal kommer
 Det är min över-
-efter att interagera med andra människor engagerat inte synas i vår årsredovis-
+inte synas i vår årsredovis-
 tygelse att det vi
-och berört så många världen över. Detta är egentligen ning, men det är min överty-
+ning, men det är min överty-
 berättar om i denna
-föga förvånande, då livet som människa blir totalt gelse att det vi berättar om i
+gelse att det vi berättar om i
 verksamhetsberät-
-annorlunda.                       denna verksamhetsberättelse
+denna verksamhetsberättelse
 telse inte hade varit
 inte hade varit möjligt utan
 möjligt utan den
-Men det är inte bara pandemin som gör att jag anser den vardagliga kontakten
+den vardagliga kontakten
 vardagliga kontak-
-att mötet är vår framtids största utmaning och möjlig- med ledare och deltagare.
+med ledare och deltagare.
 ten med ledare och
-het. Den ökade polariseringen i samhället, alternativa Ett folkbildningsarbete som
+Ett folkbildningsarbete som
 deltagare.
-fakta och en önskan att vrida klockan tillbaka till en inte bara gör punktinsatser,
-mer homogen verklighet pekar alla på samma sak; utan ett folkbildningsarbete
-att mötas och inte minst hur vi möts spelar en avgö- som påverkar, förändrar och
-rande roll för hur framtiden kommer att bli. Det är inspirerar i grunden.
-i sammanhang där oliktänkande inte får plats, som
-extremism och lögner frodas. Det är i stadsdelar där Folkbildningens styrka ligger nämligen inte bara i de
-mötet med en annan verklighet saknas, som ungdo- utmanande kulturprojekten, kvällskurser i bokföring
-mar tappat sin framtidstro. Det är på behörigt avstånd eller interreligiösa konferenser. Folkbildning är också
-i vardagsrummets trygga tillvaro, som medmänniskor Lasse som sjunger i kör en helt vanlig tisdag, Maria
-förvandlas till enheter och problem. som fördjupar sig i Johannesevangeliets historiska
+inte bara gör punktinsatser,
+utan ett folkbildningsarbete
+som påverkar, förändrar och
+inspirerar i grunden.
+Folkbildningens styrka ligger nämligen inte bara i de
+utmanande kulturprojekten, kvällskurser i bokföring
+eller interreligiösa konferenser. Folkbildning är också
+Lasse som sjunger i kör en helt vanlig tisdag, Maria
+som fördjupar sig i Johannesevangeliets historiska
 kontext i sin lokala församling eller Kim som spelar
-Under året har vi på Bilda gjort en imponerande resa bas i ett rockband som nästan aldrig har några spel-
-där vi på kort tid ställt om och ändrat våra verksam- ningar.
-heter där mötet alltid står i centrum. I nära samarbete
+bas i ett rockband som nästan aldrig har några spel-
+ningar.
 Är det något 2020 har lärt oss, så är det att alla former
 av möten är essentiella för att vi som människor ska
 må bra och utvecklas. Något som i sin tur ger växt-
@@ -20278,64 +22144,101 @@ Regionchef
 
 <!-- sida 570 -->
 
-Bildas           uppdrag
+Bildas          uppdrag
 
-BILDA ÄR ETT studieförbund som skapar studiecirklar, och öppen för alla oavsett bakgrund och utbildning.
-kurser och evenemang tillsammans med organisatio- Verksamheten ska värna mångfalden och ett demo-
-ner, församlingar, föreningar och fria grupper. Med kratiskt arbetssätt, stärka livslångt lärande och kultu-
-stöd och inspiration från oss får människor med olika rell verksamhet samt stimulera ett aktivt kunskaps-
-bakgrund möjlighet att mötas, skapa fritt och utvecklas. sökande. Det stärker individens möjlighet att påverka
-Bilda har sina rötter i flera idétraditioner. Här möts både sin livssituation och samhällsutvecklingen.
+BILDA ÄR ETT studieförbund som skapar studiecirklar,
+kurser och evenemang tillsammans med organisatio-
+ner, församlingar, föreningar och fria grupper. Med
+stöd och inspiration från oss får människor med olika
+bakgrund möjlighet att mötas, skapa fritt och utvecklas.
+Bilda har sina rötter i flera idétraditioner. Här möts
+
 svenska folkrörelser, tusenåriga kyrkliga traditioner,
-kulturer med rötter i olika delar av världen och fritt I Bildas folkbildningsverksamhet är också mötet mel-
-skapande inom musik, dans, hantverk bland mycket lan människor viktigt. Det är i det ömsesidiga erfaren-
-annat.                            hetsutbytet och i den gemensamma reflektionen som
+kulturer med rötter i olika delar av världen och fritt
+skapande inom musik, dans, hantverk bland mycket
+annat.
 
-de verkliga bildningsprocesserna äger rum.
 Vår vision
-Bildas vision är: Tillsammans bildar vi för livet. Statens bidrag till folkbildningen
-Det är i mötet med andra, som vi lär av varandra. Syftet med statens stöd till folkbildningen är att:
-Vi vill göra möten mellan människor möjliga, och • stödja verksamhet som bidrar till att stärka och
-sprida den möjligheten till fler.    utveckla demokratin,
-•  bidra till att göra det möjligt för en mångfald
+Bildas vision är: Tillsammans bildar vi för livet.
+Det är i mötet med andra, som vi lär av varandra.
+Vi vill göra möten mellan människor möjliga, och
+sprida den möjligheten till fler.
+
 Vår verksamhetsidé
-människor att påverka sin livssituation och skapa
 Bilda är ett studieförbund som skapar frizoner där olika
-engagemang att delta i samhällsutvecklingen,
+
 perspektiv möts och där samspelet frigör människors
-•  bidra till att utjämna utbildningsklyftor och höja
 engagemang. Medskapande, delaktighet och livstolk-
-bildnings- och utbildningsnivån i samhället, och
 ning är centralt i vår bildnings- och kulturverksamhet.
-•  bidra till att bredda intresset för och öka delaktig-
 Vår utgångspunkt är människors egna drivkrafter.
-heten i kulturlivet.
+
 Vårt syfte och uppdrag
-Bildas organisation
 Studieförbundet Bilda ska med kristen livsåskådning
-Studieförbundet Bilda bildades 1947 och har sina röt-
 som grund bedriva folkbildningsarbete som:
-ter i de svenska folkrörelserna. Vi är en ideell, parti-
-•  svarar mot behov i kyrka och samhälle,
-politiskt obunden organisation med drygt 14 500 ak-
-•  värnar individens integritet,
-tiva ledare och folkbildningsverksamhet i hela landet,
-•  främjar människans förmåga     organiserade i sex regioner. Vi har ett förbundskansli
-\- till självständigt ställningstagande i Stockholm och ett studiecenter i Jerusalem. Våra
-\- till skapande verksamhet     medlemsorganisationer finns främst inom frikyrkor-
-\- till samarbete och gemenskap, na, ortodoxa kyrkorna och katolska kyrkan. Våra sam-
-•  stimulerar till ett ansvarigt engagemang i sam- verkansparter verkar inom kultur, kyrka och samhälle.
+• svarar mot behov i kyrka och samhälle,
+
+• värnar individens integritet,
+• främjar människans förmåga
+\- till självständigt ställningstagande
+\- till skapande verksamhet
+\- till samarbete och gemenskap,
+• stimulerar till ett ansvarigt engagemang i sam-
 hälls- och kulturliv.
-Verksamheten utgår från de tre profilområdena kyrka,
-I bildningsarbetet betraktas studieförbundets och kultur och samhälle. I själva verket är verksamheten
-medlemsorganisationernas respektive identitet och ofta överlappande, inte minst eftersom det sker
-uppdrag som gemensamma tillgångar. mycket samhälls- och kulturarbete i samverkan med
-medlemsorganisationer och samverkansparter inom
+
+I bildningsarbetet betraktas studieförbundets och
+
+medlemsorganisationernas respektive identitet och
+uppdrag som gemensamma tillgångar.
+
 Vår bildningssyn
-de tre kyrkofamiljerna.
 Studieförbundet Bildas verksamhet vilar på folkbild-
 ningens grundsyn. Verksamheten är fri och frivillig
 4
+
+och öppen för alla oavsett bakgrund och utbildning.
+Verksamheten ska värna mångfalden och ett demo-
+kratiskt arbetssätt, stärka livslångt lärande och kultu-
+rell verksamhet samt stimulera ett aktivt kunskaps-
+sökande. Det stärker individens möjlighet att påverka
+både sin livssituation och samhällsutvecklingen.
+
+I Bildas folkbildningsverksamhet är också mötet mel-
+lan människor viktigt. Det är i det ömsesidiga erfaren-
+hetsutbytet och i den gemensamma reflektionen som
+de verkliga bildningsprocesserna äger rum.
+
+Statens bidrag till folkbildningen
+Syftet med statens stöd till folkbildningen är att:
+• stödja verksamhet som bidrar till att stärka och
+utveckla demokratin,
+
+• bidra till att göra det möjligt för en mångfald
+människor att påverka sin livssituation och skapa
+engagemang att delta i samhällsutvecklingen,
+• bidra till att utjämna utbildningsklyftor och höja
+bildnings- och utbildningsnivån i samhället, och
+• bidra till att bredda intresset för och öka delaktig-
+heten i kulturlivet.
+
+Bildas organisation
+
+Studieförbundet Bilda bildades 1947 och har sina röt-
+ter i de svenska folkrörelserna. Vi är en ideell, parti-
+politiskt obunden organisation med drygt 14 500 ak-
+tiva ledare och folkbildningsverksamhet i hela landet,
+organiserade i sex regioner. Vi har ett förbundskansli
+i Stockholm och ett studiecenter i Jerusalem. Våra
+medlemsorganisationer finns främst inom frikyrkor-
+na, ortodoxa kyrkorna och katolska kyrkan. Våra sam-
+verkansparter verkar inom kultur, kyrka och samhälle.
+
+Verksamheten utgår från de tre profilområdena kyrka,
+kultur och samhälle. I själva verket är verksamheten
+
+ofta överlappande, inte minst eftersom det sker
+mycket samhälls- och kulturarbete i samverkan med
+medlemsorganisationer och samverkansparter inom
+de tre kyrkofamiljerna.
 
 <!-- sida 571 -->
 
@@ -20363,42 +22266,74 @@ Ur Bildas verksamhetsidé
 
 <!-- sida 572 -->
 
-Digital           omställning
+Digital          omställning
 
 i  pandemins                   spår
 
-UNDER DET HÄR SPECIELLA ÅRET engagerade sig Tillsammans direktsände och arrangerade vi webb-
-hela Bilda i omställningsarbetet som berörde all inarier, digitala montrar, ledarutbildningar, föreläs-
-verksamhet och alla målgrupper till följd av corona- ningar, paneldebatter, konferenser, årsstämmor och
-pandemin. Digitala verktyg testades och nya förmågor cirklar om allt möjligt. Vi ordnade hybridmöten och
-förvärvades samtidigt som mycket digital verksamhet digitala workshops. Grupper samtalade, dansade,
-realiserades. Verksamheten anpassades på olika sätt, sjöng, jammade och repade digitalt.
+UNDER DET HÄR SPECIELLA ÅRET engagerade sig
+hela Bilda i omställningsarbetet som berörde all
+verksamhet och alla målgrupper till följd av corona-
+pandemin. Digitala verktyg testades och nya förmågor
+förvärvades samtidigt som mycket digital verksamhet
+realiserades. Verksamheten anpassades på olika sätt,
+
 men ställdes också in, utifrån myndigheters nationella
-och regionala riktlinjer för att förebygga smittsprid- Våra cirkelledare och deltagare erbjöds digitala
-ning.                             tjänster och koncept samt coachning, inspiration och
+och regionala riktlinjer för att förebygga smittsprid-
+ning.
 
-metodstöd i hur man folkbildar digitalt. Som folkbil-
-En av Bildas strategiska prioriteringar är att både ut- dare bidrog vi också till att sprida digital kompetens
-veckla digital verksamhet och människors förmåga att som minskade det digitala utanförskapet. Många fina
-navigera i ett digitalt samhälle. För att stärka sin rele- insatser genererade spännande verksamhet.
+En av Bildas strategiska prioriteringar är att både ut-
+veckla digital verksamhet och människors förmåga att
+navigera i ett digitalt samhälle. För att stärka sin rele-
 vans i dagens samhälle och samordna förändringsre-
-san startade Bilda ett treårigt digitalt utvecklingspro- Intern mötesplats i den digitala tiden –
-jekt 2018, med extra resurser centralt och regionalt. Kyrktorget
-Projektgruppen arbetar brett över hela verksamheten Eftersom året innebar hemarbete för många och vissa
-med att öka den digitala kunskapen och förmågan fysiska möten ställdes in initierades Kyrktorget, en
-inom Bilda, samt för våra medlemsorganisationer, digital mötesplats för Bildas verksamhetsutvecklare
-samverkansparter, cirkelledare och deltagare. inom profilområde kyrka. Syftet var att skapa en mö-
-tesplats för delande av tankar och idéer samt kompe-
-Under 2019 gick Bilda över till Office 365 och upp- tensutveckling.
-graderade en ålderstigen dator- och mobilpark. Det
-gjorde att medarbetarna kunde dela dokument och Vid vissa tillfällen bjöds representanter från med-
-kommunicera samt utforska och lära tillsammans. lemsorganisationer in för att berätta om behov de ser
+san startade Bilda ett treårigt digitalt utvecklingspro-
+jekt 2018, med extra resurser centralt och regionalt.
+Projektgruppen arbetar brett över hela verksamheten
+med att öka den digitala kunskapen och förmågan
+inom Bilda, samt för våra medlemsorganisationer,
+samverkansparter, cirkelledare och deltagare.
 
-Det var tacksamt att den övergången redan hade skett eller något gemensamt vi gör. Ett exempel var när
-när coronapandemin påverkade folkbildningen i hög Equmenia berättade om sin ledarsatsning Led med
-utsträckning under 2020. Den absolut största delen ditt liv med efterföljande samtal om hur Bilda kan för-
-av Bildas verksamhet skedde fram till mars genom mera och sprida detta inom våra olika kyrkofamiljer.
+Under 2019 gick Bilda över till Office 365 och upp-
+graderade en ålderstigen dator- och mobilpark. Det
+gjorde att medarbetarna kunde dela dokument och
+kommunicera samt utforska och lära tillsammans.
+Det var tacksamt att den övergången redan hade skett
+när coronapandemin påverkade folkbildningen i hög
+utsträckning under 2020. Den absolut största delen
+av Bildas verksamhet skedde fram till mars genom
 fysiska möten och arrangemang.
+
+6
+
+Tillsammans direktsände och arrangerade vi webb-
+inarier, digitala montrar, ledarutbildningar, föreläs-
+ningar, paneldebatter, konferenser, årsstämmor och
+cirklar om allt möjligt. Vi ordnade hybridmöten och
+digitala workshops. Grupper samtalade, dansade,
+sjöng, jammade och repade digitalt.
+
+Våra cirkelledare och deltagare erbjöds digitala
+tjänster och koncept samt coachning, inspiration och
+metodstöd i hur man folkbildar digitalt. Som folkbil-
+dare bidrog vi också till att sprida digital kompetens
+som minskade det digitala utanförskapet. Många fina
+insatser genererade spännande verksamhet.
+
+Intern mötesplats i den digitala tiden –
+Kyrktorget
+Eftersom året innebar hemarbete för många och vissa
+fysiska möten ställdes in initierades Kyrktorget, en
+digital mötesplats för Bildas verksamhetsutvecklare
+inom profilområde kyrka. Syftet var att skapa en mö-
+tesplats för delande av tankar och idéer samt kompe-
+tensutveckling.
+
+Vid vissa tillfällen bjöds representanter från med-
+lemsorganisationer in för att berätta om behov de ser
+eller något gemensamt vi gör. Ett exempel var när
+Equmenia berättade om sin ledarsatsning Led med
+ditt liv med efterföljande samtal om hur Bilda kan för-
+mera och sprida detta inom våra olika kyrkofamiljer.
+
 Nya möjligheter
 Digitala arbetssätt, verktyg och arrangemang ska-
 par nya möjligheter. Verksamheten blev mer synlig
@@ -20409,68 +22344,114 @@ att ta med inför framtida folkbildningsarbete.
 Nya kreativa koncept föddes ur pandemin, för att
 nämna några: Cirkelsnack, Digitalt kyrkkaffe, #di-
 gistämman, Möten i Jerusalem genom webbinarier.
-
 Livssyn och livsmod – en programserie för UR.
 Digitala diaserter på Live At Heart och den virtuella
 julkören.
-
-6
 
 <!-- sida 573 -->
 
 Kultur
 
 BILDA HAR EN rik och bred kulturverksamhet med dansklasser, digitala konserter och föreläsningar, vis-
-många olika kreativa uttrycksformer, till största delen sång i det fria, målarkurser och julpyssel på zoom.
-musikverksamhet. Verksamheten präglas av stark
-deltagarkultur och medskapande eftersom vi tror på Det har varit ett otroligt utvecklande år och den om-
-att utövarna ska få utvecklas på sina egna villkor. ställning vi tvingats till har gett oss många nya verktyg
-för att fortsätta utveckla vårt folkbildningsarbete.
-Sydväst
-2020 har för oss som för många andra präglats av att Folklig kultur
-tänka om och tänka nytt. Under året har vi tillsam- Bildas folkliga kulturverksamhet innefattar allt från
-mans med de ideella ledare och deltagare vi samver- kinesisk torgdans och afrikansk gospel till serbiskt
 
-kar med kämpat för att kunna genomföra så mycket folkdräktsbroderi och svenskt fiolspel. Vi samarbetar
-som möjligt av den planerade verksamheten. Kreati- med etniska- och andra kulturföreningar såväl som
-viteten har flödat, befintlig verksamhet har ställts om fria kulturgrupper, men arrangerar också ett stort
-och ny verksamhet har skapats utifrån de förutsätt- antal öppna kurser inom folklig kultur.
+många olika kreativa uttrycksformer, till största delen sång i det fria, målarkurser och julpyssel på zoom.
+
+musikverksamhet. Verksamheten präglas av stark
+deltagarkultur och medskapande eftersom vi tror på
+att utövarna ska få utvecklas på sina egna villkor.
+
+Sydväst
+2020 har för oss som för många andra präglats av att
+tänka om och tänka nytt. Under året har vi tillsam-
+
+mans med de ideella ledare och deltagare vi samver-
+kar med kämpat för att kunna genomföra så mycket
+som möjligt av den planerade verksamheten. Kreati-
+viteten har flödat, befintlig verksamhet har ställts om
+och ny verksamhet har skapats utifrån de förutsätt-
+
+Det har varit ett otroligt utvecklande år och den om-
+ställning vi tvingats till har gett oss många nya verktyg
+för att fortsätta utveckla vårt folkbildningsarbete.
+
+Folklig kultur
+Bildas folkliga kulturverksamhet innefattar allt från
+kinesisk torgdans och afrikansk gospel till serbiskt
+
+folkdräktsbroderi och svenskt fiolspel. Vi samarbetar
+med etniska- och andra kulturföreningar såväl som
+fria kulturgrupper, men arrangerar också ett stort
+antal öppna kurser inom folklig kultur.
+
 ningar som rått.
 När pandemin slog till startade vi i Bilda Sydväst en
-Inom ramarna för Bilda Sydvästs            digital konsertserie, #digistämman,
-kulturverksamhet ryms en härlig            som fick stor genomslagskraft och
-Vår uppgift är att
-blandning av musik i alla dess former,     snabbt växte till ett nationellt projekt.
-tillgodose de behov
-dans, hantverk, litteratur, målarkonst     Detta gav en rejäl skjuts i vårt folkmu-
-som finns för att
-och mycket mer. Det som förenar är         sikarbete och stärkte vår plats som en
-möjliggöra verksam-
-ett driv att uttrycka sig och sin kultur   självklar aktör på den svenska folk-
-heten och stärka
-men också att dela den med andra och       musikscenen. #digistämman följdes
-deltagarna i sitt
-att finna inspiration i andras kulturella  av ännu en digital serie, #folkporträtt,
-skapande.
-uttryck.                                   där folkmusiker och sångare berättade
-om sina förebilder inom folkmusiken.
-All verksamhet präglas av deltagarkul-     Även denna var välbesökt och mycket
-tur och medskapande. Vi tror på varje      uppskattad.
+
+Inom ramarna för Bilda Sydvästs
+kulturverksamhet ryms en härlig
+blandning av musik i alla dess former,
+dans, hantverk, litteratur, målarkonst
+och mycket mer. Det som förenar är
+ett driv att uttrycka sig och sin kultur
+men också att dela den med andra och
+
+att finna inspiration i andras kulturella
+uttryck.
+
+All verksamhet präglas av deltagarkul-
+tur och medskapande. Vi tror på varje
 människas rätt att uttrycka sig och
-skapa mening tillsammans med andra. Vår uppgift är Ett av de fysiska event vi faktiskt kunde genomföra
-att tillgodose de behov som finns för att möjliggöra under 2020 var FOLKFEST Malmö. Efter månader av
-verksamheten och stärka deltagarna i sitt skapande. distansverksamhet var det fint att bli påmind om vil-
-ken energi det ger att kunna mötas fysiskt och skapa
-Dessa behov har i år sett lite annorlunda ut. Mycket tillsammans.
+
+digital konsertserie, #digistämman,
+som fick stor genomslagskraft och
+Vår uppgift är att
+snabbt växte till ett nationellt projekt.
+tillgodose de behov
+Detta gav en rejäl skjuts i vårt folkmu-
+som finns för att
+sikarbete och stärkte vår plats som en
+möjliggöra verksam-
+självklar aktör på den svenska folk-
+heten och stärka
+musikscenen. #digistämman följdes
+deltagarna i sitt
+av ännu en digital serie, #folkporträtt,
+skapande.
+där folkmusiker och sångare berättade
+om sina förebilder inom folkmusiken.
+Även denna var välbesökt och mycket
+uppskattad.
+
+skapa mening tillsammans med andra. Vår uppgift är
+att tillgodose de behov som finns för att möjliggöra
+verksamheten och stärka deltagarna i sitt skapande.
+
+Dessa behov har i år sett lite annorlunda ut. Mycket
 har handlat om att vara behjälpliga i omställningen
-till digitala träffar och att hitta andra lösningar som Vi har inom Bilda nationellt kunnat erbjuda kurser
-att flytta verksamheten utomhus eller göra det möjligt och event som nått deltagare oavsett vart de befinner
-att träffas i mindre grupper. Många ledare har varit sig i landet, då alla regioner så småningom fått ställa
-snabba att ställa om medan andra har behövt mer om till digitalt. Detta har varit enormt positivt mitt
-stöttning.                        i de utmaningar vi haft, då vi kunnat erbjuda kom-
-petensutveckling i en utsträckning vi inte tidigare
-Vi har trots situationen kunnat hålla igång mycket kunnat regionalt.
+till digitala träffar och att hitta andra lösningar som
+
+att flytta verksamheten utomhus eller göra det möjligt
+att träffas i mindre grupper. Många ledare har varit
+snabba att ställa om medan andra har behövt mer
+stöttning.
+
+Vi har trots situationen kunnat hålla igång mycket
 av vår verksamhet. Det har resulterat i streamade
+
+Ett av de fysiska event vi faktiskt kunde genomföra
+under 2020 var FOLKFEST Malmö. Efter månader av
+distansverksamhet var det fint att bli påmind om vil-
+ken energi det ger att kunna mötas fysiskt och skapa
+tillsammans.
+
+Vi har inom Bilda nationellt kunnat erbjuda kurser
+
+och event som nått deltagare oavsett vart de befinner
+sig i landet, då alla regioner så småningom fått ställa
+om till digitalt. Detta har varit enormt positivt mitt
+i de utmaningar vi haft, då vi kunnat erbjuda kom-
+petensutveckling i en utsträckning vi inte tidigare
+kunnat regionalt.
+
 7
 
 <!-- sida 574 -->
@@ -20479,42 +22460,67 @@ Urban kultur                      Viss del av verksamheten har kunnat fortsätta
 Under 2020 har vi fortsatt och utvecklat vårt sam- vanligt med fysiska träffar medan viss undervisning
 arbete med Fryshuset, Essence of Hiphop, danssko- har hållits igång genom streamade klasser och när
 lan Twisted Feet och Svenska Beatbox Community. vädret tillåtit utomhus.
+
 Utöver den löpande verksamheten arrangerade vi i
+
 år i samarbete med dessa föreningar ett antal större En annan ljuspunkt är uppstarten av dansgrupper i
-arrangemang. I juni hölls det årliga       Alingsås som kommit igång och känns
-Hiphop & Hälsa lägret i samarbete Väldigt roligt läger stabila.
+
+arrangemang. I juni hölls det årliga
+Väldigt roligt läger
+Hiphop & Hälsa lägret i samarbete
 där människor från
 med Essence of Hiphop. Och i novem-
-olika stadsdelar får Öppna kurser och workshops
+olika stadsdelar får
 ber arrangerade vi tillsammans med
 mötas och dela sina
-dem, Fryshuset Göteborg och Pussel         Under 2020 har vi fortsatt att utveck-
+dem, Fryshuset Göteborg och Pussel
 färdigheter obero-
-Borås ett graffitti event under årets No   la vårt arbete med öppna kurser och
+Borås ett graffitti event under årets No
 ende av socioeko-
-Limit Street Art Festival där det bjöds    workshops. Mycket har varit digitalt
+Limit Street Art Festival där det bjöds
 nomiska förutsätt-
-på graffitti jam, prova-på graffiti och ningar. Alla har varit och det har varit spännande och utma-
-rap cypher.               öppensinnade och nande att hitta lösningar på hur man
-det har stärkt ge- kan uppnå samma kvalitet och engage-
-I början av året öppnade vi upp våra menskapen. mang från deltagarna som på en fysisk
-replokaler i Kviberg för fler band, och    kurs. Vi har även sett att vi når ut till
-nu har vi 22 aktiva band som repar i Deltagare Hiphop & Hälsalägret deltagare som av olika anledningar
-lokalerna. På grund av pandemin var vi     inte haft möjlighet att delta i våra
-tvungna att stänga ner verksamheten        fysiska kurser.
+på graffitti jam, prova-på graffiti och ningar. Alla har varit
+rap cypher.               öppensinnade och
+det har stärkt ge-
+I början av året öppnade vi upp våra menskapen.
+replokaler i Kviberg för fler band, och
+nu har vi 22 aktiva band som repar i Deltagare Hiphop & Hälsalägret
+lokalerna. På grund av pandemin var vi
+tvungna att stänga ner verksamheten
+
+Alingsås som kommit igång och känns
+stabila.
+
+Öppna kurser och workshops
+Under 2020 har vi fortsatt att utveck-
+la vårt arbete med öppna kurser och
+workshops. Mycket har varit digitalt
+
+och det har varit spännande och utma-
+nande att hitta lösningar på hur man
+kan uppnå samma kvalitet och engage-
+mang från deltagarna som på en fysisk
+kurs. Vi har även sett att vi når ut till
+deltagare som av olika anledningar
+inte haft möjlighet att delta i våra
+fysiska kurser.
+
 i november och december, det samma
 Exempel på digitala workshops och kurser
 gällde för Kulturhuset Havanna i Malmö.
 under året
+
 Under tiden lokalerna varit stängda har vi istället upp- •Snabbkurs i musikproduktion •Målning •Klassisk
 muntrat banden att ta del av Bildas digitala kurser där sång •Språk: Kinesiska och Koreanska •Sångteknik
 det finns ett brett musikrelaterat utbud. •Svensk husmanskost •Folkmusik: tagelharpa, fiol,
 folksång •Dans: folk och modern •Kurser i ledarskap
 Många av de större eventen, så som Malmö Festiva- och pedagogik utomhus.
+
 len, som vi årligen brukar samarbeta kring ställdes på
 grund av pandemin in. Istället har vi fått tänka nytt
 och vi har bland annat streamat event på plattformar
 som Instagram och Facebook.
+
 Dansskolan God Moves
 Dansskolan God Moves i Vårgårda fyllde 2020 15 år.
 När man träffas fysiskt är det som
@@ -20528,38 +22534,64 @@ omställning så var det fantastiskt att få se alla i sina
 scenkläder, effektfullt upplysta och framför allt, upp-
 leva glädjen att få dansa tillsammans.
 Bandmedlem som repar i våra lokaler i Kviberg.
+
 8
 
 <!-- sida 575 -->
 
-Folkporträtt som väcker                  Vissång utomhus sprider
-känslor                                  glädje till fler
+Folkporträtt som väcker
+känslor
 
-Ett av Bilda Folks tre digitala koncept under Jag heter Alice och jobbar som verksam-
-2020 var "folkporträtt", en digital berät- hetsutvecklare med inriktning mot folkmu-
-tarkväll där nutida spelmän, sångare och sik i Malmö.
+Ett av Bilda Folks tre digitala koncept under
+2020 var "folkporträtt", en digital berät-
+tarkväll där nutida spelmän, sångare och
 folkmusikvetare fick chansen att porträttera
-sina musikaliska förebilder.             I höst startades en studiecirkel i vissång
-tillsammans med oss på Bilda. Utifrån rådande
-Folkporträtt var en lyckad satsning, med omständigheter träffas deltagarna utomhus
-oftast ca 50 personer i publiken, men när det för att sjunga, och inte vart som helst utan i
-var som mest var det ungefär 160 personer. Malmö Folkets Park. Parken är kvällstid fylld
-Upplevelsen av att titta på något samtidigt av vackra ljuskonstverk i träden och gruppen
-som andra verkar ha varit positiv för många, tänder även ljus på marken och tar med sig
-och folk har ställt frågor och öst mycket varm dryck i termos, både för att hålla värmen
-kärlek i kommentarsfälten, berättar Alice och skapa atmosfär. Med lite kreativitet går
-Andersson, Verksamhetsutvecklare Folkmusik det utmärkt att ses utomhus även nu under
-på Bilda Sydväst.                        hösten – och genom det kanske dessutom
-sprida ljus och glädje till fler! När jag satt där
-Enkelheten i idén och att alla som medverkat tänkte jag att ibland är de lösningar vi behö-
-berättat om någon dom själva tycker är viktig ver komma på nu inte alltid försämringar eller
-och intressant har gjort det mycket fångande. en "Plan B" utan något som också kan skapa
-nya värden och glädjeämnen.
+sina musikaliska förebilder.
+
+Folkporträtt var en lyckad satsning, med
+oftast ca 50 personer i publiken, men när det
+var som mest var det ungefär 160 personer.
+Upplevelsen av att titta på något samtidigt
+som andra verkar ha varit positiv för många,
+och folk har ställt frågor och öst mycket
+kärlek i kommentarsfälten, berättar Alice
+Andersson, Verksamhetsutvecklare Folkmusik
+på Bilda Sydväst.
+Enkelheten i idén och att alla som medverkat
+berättat om någon dom själva tycker är viktig
+och intressant har gjort det mycket fångande.
+
 Jag hoppas få höra folkporträtt live på många
 festivaler och stämmor framöver - är det inte
 spännande att vi kommer ha en massa digitala
 koncept att översätta till live-upplevelser
-snart?                                   Text från Bilda Sydvästs nyhetsbrev oktober 2020
+snart?
+
+Vissång utomhus sprider
+glädje till fler
+
+Jag heter Alice och jobbar som verksam-
+hetsutvecklare med inriktning mot folkmu-
+sik i Malmö.
+
+I höst startades en studiecirkel i vissång
+tillsammans med oss på Bilda. Utifrån rådande
+omständigheter träffas deltagarna utomhus
+för att sjunga, och inte vart som helst utan i
+Malmö Folkets Park. Parken är kvällstid fylld
+av vackra ljuskonstverk i träden och gruppen
+tänder även ljus på marken och tar med sig
+varm dryck i termos, både för att hålla värmen
+och skapa atmosfär. Med lite kreativitet går
+det utmärkt att ses utomhus även nu under
+hösten – och genom det kanske dessutom
+sprida ljus och glädje till fler! När jag satt där
+tänkte jag att ibland är de lösningar vi behö-
+ver komma på nu inte alltid försämringar eller
+en "Plan B" utan något som också kan skapa
+nya värden och glädjeämnen.
+
+Text från Bilda Sydvästs nyhetsbrev oktober 2020
 
 Vi har varit med i studieförbund tidigare men aldrig
 fått så här många erbjudanden.
@@ -20571,7 +22603,6 @@ fler utbildningar.
 
 Fina lokaler, engagerade i ert arbete och hjälpsamma
 med snabb återkoppling.
-
 9
 Röster från Bildas bandverksamhet
 
@@ -20685,43 +22716,64 @@ Flickor, som gjorde en konsert under #digistämman
 Digital
 
 Idén till #digistämman, en digital musikfestival
+
 för och av folkmusiker, föddes ur coronapande-
-
 min. Det gick från idé till bokning på några dagar
-och därefter genomförde 150 musiker  och dansare
 
-festival                 omkring 70 digitala konserter och workshops un-
+och därefter genomförde  150 musiker och dansare
 
+festival                                                            omkring  70 digitala konserter och workshops un-
 der 13 helger.
 
 BILDAS VERKSAMHETSUTVECKLARE Sammanlagt samlades det in ett stöd på
 som arbetar med folkmusik lyckades cirka 120 000 kronor.
-
 ställa om snabbt när alla musikarrang-
 emang stängdes ner i mars 2020 som Alice Andersson var en av musikerna i
 en följd av coronapandemin. Idén till #digistämman: Kan du berätta mer?
 en digital musikfestival föddes i mitten Jag och min syster gjorde en konsert
 av mars, när många musiker stod utan med vårt band Två Otrevliga Flickor,
-jobb. Tanken var att göra något både och det var så himla roligt att få göra
-för musiker och för den folkbildande något alls med sitt band. Vi fick bra
-verksamheten. Några dagar senare hjälp av Bilda att fixa tekniken så det
-gjordes den första bokningen och sedan kändes tryggt när vi väl sände. Vi hade
-startade livesändningarna via Face- två kompisar som publik i rummet så att
-book. #digistämman blev väl mottagen det kändes som att man ändå spelade för
-och spred sig snabbt.   någon. På något sätt tillförde det att det
+
+jobb. Tanken var att göra något både
+för musiker och för den folkbildande
+verksamheten. Några dagar senare
+gjordes den första bokningen och sedan
+startade livesändningarna via Face-
+book. #digistämman blev väl mottagen
+och spred sig snabbt.
+
+och det var så himla roligt att få göra
+något alls med sitt band. Vi fick bra
+hjälp av Bilda att fixa tekniken så det
+kändes tryggt när vi väl sände. Vi hade
+två kompisar som publik i rummet så att
+det kändes som att man ändå spelade för
+någon. På något sätt tillförde det att det
+
+Vi lyckades tack vare vår nationella
+struktur för folkmusik i Bilda med verk-
+samhetsutvecklare i hela landet och
+tack vare att alla kände att de hade en
+stor uppgift att fylla i det tomrum som
+uppstod både för musiker och publik,
+säger Lotta Johansson, verksamhetsut-
+
+vecklare inom folkmusik och dans.
+
+Tack vare att folkmusiknätverket inom
 
 var digitalt och sänt ifrån mitt hem – det
-Vi lyckades tack vare vår nationella gav en slags frihet.
-struktur för folkmusik i Bilda med verk-
+gav en slags frihet.
+
 Varför spred sig digistämman så snabbt?
-samhetsutvecklare i hela landet och
-tack vare att alla kände att de hade en Jag tror att det var för att Bilda var
-stor uppgift att fylla i det tomrum som snabbt på bollen att göra riktigt bra
-uppstod både för musiker och publik, livestreamar med väldigt olika typer av
-säger Lotta Johansson, verksamhetsut- musiker, och att allt var samlat under ett
-vecklare inom folkmusik och dans. paraply. Det spreds snabbt att #digi-
+Jag tror att det var för att Bilda var
+snabbt på bollen att göra riktigt bra
+livestreamar med väldigt olika typer av
+musiker, och att allt var samlat under ett
+paraply. Det spreds snabbt att #digi-
+
 stämman är en grej, både bland artister
-Tack vare att folkmusiknätverket inom och publik.
+och publik.
+
 Bilda lyckades få stor spridning av initi-
 ativet via Facebook var det många som
 lyssnade till konserterna. 150
@@ -20729,6 +22781,7 @@ lyssnade till konserterna. 150
 Jag skulle vilja lyfta kraften, lusten och
 energin. Många som utövar folkmusik
 gör det för att det är socialt. Vi lyckades
+
 hitta en familjär och opretentiös ton i
 allt vi gjorde. Folk kände sig hemma,
 säger Lotta Johansson.
@@ -20742,19 +22795,19 @@ insamling där beloppet oavkortat dela-
 tittare, 450 000 minuter.
 des solidariskt mellan de musik
 som deltog i satsningen.
+
 13
 
 <!-- sida 580 -->
 
-Vi får jättebra stöd från Bilda!  kurs bara för oss.
-Innan vi började samarbeta med Bilda kände vi bara till an-
+Vi får jättebra stöd från Bilda!
+
 Hej Jun Wang Hjelm! Vad har det betytt för dig och grup-
-dra studieförbund men nu talar alla om Bilda som nummer
 pen att kunna mötas i cirkel under cornoapandemin?
-ett!
 Det har haft jättestor betydelse. Många har mått mycket
 dåligt på grund av pandemin och då har våra studiecirklar
 varit otroligt viktiga för deras välmående.
+
 Hur har du/ni gjort för att och ställa om verksamheten?
 Vi ändrade innehållet i våra planerade studiecirklar och
 kurser för att kunna göra dem online eller utomhus. Vi
@@ -20770,20 +22823,20 @@ Hua Dings samarbete med Bilda är väldigt bra. Bilda är
 effektiva och snabba och vi får jättebra stöd när vi har nå-
 got behov. Till exempel hjälpte de oss att starta upp kurser
 i svenska på bara någon vecka och när vi behövde lära oss
-Jun Wang Hjelm
 mer om digitala plattformar gjorde Bilda direkt en Zoom-
 
-FOLKFEST  i Malmö                  ”Kursen var väldigt rolig och inspireran-
-de. Jag var också glad att få gå en sång-
-Tre dagar av folk- och världsmusikens nerv och ekvi- kurs ’på riktigt’ och få sjunga tillsam-
-librism, sväng, svett och improvisation, frihetskänsla, mans med andra för en gångs skull.”
+FOLKFEST  i Malmö
+
+Tre dagar av folk- och världsmusikens nerv och ekvi-
+librism, sväng, svett och improvisation, frihetskänsla,
 svårt vemod, värme och sprittande glädje.
-Deltagare från Johanna Böljas viskurs
+
 För tredje året i rad arrangerades FOLKFEST Malmö, en
 helg av konserter, jam, kurser och annat gott för själ och
 hjärta. I FOLKFEST Malmö strålar en lång rad olika aktörer
 från södra Sveriges musikliv samman för att bjuda på allt
 fantastiskt som finns inom folk- och världsmusiken!
+
 Alla höll andan och hoppades att det skulle gå att ge-
 nomföra festivalen i år på ett corona-säkert sätt och vi
 lyckades! Med begränsat antal deltagare kunde vi faktiskt
@@ -20796,31 +22849,28 @@ manstämmor detta året.
 Tillsammans med Spelmansgården arrangerade vi också
 VM i träskofiol som i år hölls på Tröls i Malmö. Årets seger
 togs hem av Ida Eriksson som på lånad fiol för första gång-
-en ställde upp och gjorde det med bravur!      Ida Eriksson, vinnare i Träskofiol VM
-
+en ställde upp och gjorde det med bravur!
 14
+
+kurs bara för oss.
+
+Innan vi började samarbeta med Bilda kände vi bara till an-
+dra studieförbund men nu talar alla om Bilda som nummer
+ett!
+
+Jun Wang Hjelm
+
+”Kursen var väldigt rolig och inspireran-
+de. Jag var också glad att få gå en sång-
+kurs ’på riktigt’ och få sjunga tillsam-
+mans med andra för en gångs skull.”
+
+Deltagare från Johanna Böljas viskurs
+
+Ida Eriksson, vinnare i Träskofiol VM
 
 <!-- sida 581 -->
 
-Det   enda    som
-
-varit  positivt
-
-denna     coronatid
-
-är  att jag  deltagit
-
-i otroligt   mycket
-
-musikevenemang
-
-som    jag  aldrig
-
-gjort  annars.
-
-Underbart      Bilda!
-
-Deltagare #folkporträtt
 Hiphop och Hälsaläger
 
 Även i år var Bilda med och arangerade Hip-
@@ -20840,27 +22890,57 @@ i kurser under årets gång.
 
 "Jag har lärt mig att tillsam-
 mans är vi starka och ifall alla
-hjälps åt går allting mycket           Serbiskt kulturarv
-snabbare"                       vidare till nästa generation
+hjälps åt går allting mycket
+snabbare"
 
-"Jag har lärt mig om andra             I februari, precis innan pandemin, arrangera-
-människors liv och bakgrunder.           des en kvinnofestival i Malmö med 180 per-
-soner från 22 olika serbiska, kulturföreningar
+"Jag har lärt mig om andra
+människors liv och bakgrunder.
+
 Vi har diskuterat massa saker
-från hela Sverige. Idén med festivalen, som
 och jag har fått nya perspektiv
-firades för 12:e gången, är att bibehålla den
 på olika saker inom både musik
-serbiska kulturen och traditionen och föra den
-och livet."                     vidare till den yngre generationen med samma
-bakgrund, men som är uppvuxen i Sverige.
+och livet."
+
 "Det va mycket skönt att vara
-Dagen började med ett seminarium på temat
 utomhus så mycket, komma
-"Kvinna i dagens samhälle" där det talades om
 bort från stan och vara i skogs-
-mobbing och hur man kan söka råd och hjälp.
 miljöer i naturen."
+
+Det   enda   som
+
+varit  positivt
+
+denna     coronatid
+
+är att  jag  deltagit
+
+i otroligt   mycket
+
+musikevenemang
+
+som   jag  aldrig
+
+gjort  annars.
+
+Underbart      Bilda!
+
+Deltagare #folkporträtt
+
+Serbiskt kulturarv
+
+vidare till nästa generation
+
+I februari, precis innan pandemin, arrangera-
+des en kvinnofestival i Malmö med 180 per-
+soner från 22 olika serbiska, kulturföreningar
+från hela Sverige. Idén med festivalen, som
+firades för 12:e gången, är att bibehålla den
+serbiska kulturen och traditionen och föra den
+vidare till den yngre generationen med samma
+bakgrund, men som är uppvuxen i Sverige.
+Dagen började med ett seminarium på temat
+"Kvinna i dagens samhälle" där det talades om
+mobbing och hur man kan söka råd och hjälp.
 Sedan fortsatte dagen med uppvisning av
 hantverk, bakverk och stor fest med kulturella
 danser och sånger.
@@ -20872,46 +22952,80 @@ Nedslag             i  omställningen                       under           pand
 
 Sandra Rydsmo, Stina Krantz och Bonette Bryngelsten: Handledare vid Dansskolan God Moves. Ulrika Ölund och Abraham Fraiman: Verksamhetsutvecklare urban kultur i Göteborg. Suzanne Cronstam, Frida Rosen Babarik och Alice Andersson: Verksamhetsutvecklare Kultur i Malmö.
 
-Hur har ni kunnat fortsätta verksamheten Zoom och sociala medier har varit våra stora
-på dansskolan God Moves, Vårgårda?       "go-to" under året.
+Hur har ni kunnat fortsätta verksamheten
+på dansskolan God Moves, Vårgårda?
 
-Vi har filmat tutorials och lektionsmaterial Vi har gjort en del online-event såsom att
-som deltagarna tagit del av via vår hemsida. låta vår planerade musikproduktionstävling
-Vi har kört pass utomhus. Vi har livestreamat inom urban musik bli digital. Detta var väldigt
-dansklasser. Man får om-fokusera syftet med uppskattat och vi kommer definitivt göra
-lektionerna utifrån den nya miljön, Men det detta igen. I Borås hade vi efter sommaren ett
-har också gjort att vi har kunnat lägga ett graffitti-evenemang där vi hade ett inhägnat
-större fokus på andra saker än vad vi normalt område för att kunna ha koll på antal besö-
-brukar/kan, vilket har varit både lärorikt och kare/deltagare. Våra kurser inom sångteknik
-givande för både oss och deltagarna. Mer och musikproduktion hölls via Zoom, vilket
-fokus på känslan i rörelserna och tekniken, än möjliggjorde för ett stort deltagande oavsett
-hur den ser ut.                          vart man befann sig i landet.
-Vi har ökat vår tekniska kompetens rejält, och En viktig framgångsfaktor har varit att alltid
-vi kommer troligtvis fortsätta med streaming ha en plan-B samt att ha en nära kontakt med
-även efter pandemin.                     grupperna.
+Vi har filmat tutorials och lektionsmaterial
+som deltagarna tagit del av via vår hemsida.
+Vi har kört pass utomhus. Vi har livestreamat
+dansklasser. Man får om-fokusera syftet med
+lektionerna utifrån den nya miljön, Men det
+har också gjort att vi har kunnat lägga ett
+större fokus på andra saker än vad vi normalt
+brukar/kan, vilket har varit både lärorikt och
+givande för både oss och deltagarna. Mer
+fokus på känslan i rörelserna och tekniken, än
+hur den ser ut.
+Vi har ökat vår tekniska kompetens rejält, och
+vi kommer troligtvis fortsätta med streaming
+även efter pandemin.
 
-Utmaningen har varit alla snabba omställning- Abraham och Ulrika, verksamhetsutvecklare
+Utmaningen har varit alla snabba omställning-
 ar, att vara kreativ och hitta ett lugn i det. Att
-skapa en relation med deltagare man inte kän- Vad har ni i Malmö upplevt som utmaningar
-ner och knappt hunnit träffa. Att vi inte kan se och framgångsfaktorer under pandemin?
+skapa en relation med deltagare man inte kän-
+ner och knappt hunnit träffa. Att vi inte kan se
 och känna in varandra på samma sätt. Mycket
-av ansvaret hamnar därför på den enskilda En viktig sak är att vi verksamhetsutveckla-
-deltagaren och det blir svårare att fånga upp. re under året kompetensutvecklats väldigt
-mycket inom digitala medier och pedagogiken
-Bonette, Sandra och Stina, handledare.   som följer med det. Det har gjort att vi känt
-oss trygga i vår roll och kunnat sprida kunska-
-Hur har ni anpassar verksamheten inom    pen vidare till våra ledare.
+av ansvaret hamnar därför på den enskilda
+deltagaren och det blir svårare att fånga upp.
+Bonette, Sandra och Stina, handledare.
+
+Hur har ni anpassar verksamheten inom
 urbankultur och pop och rock i Göteborg
-och Borås?                               Vi upplever att det handlar mycket om led-
-aren, att denne har tillräcklig kunskap eller
-Det har varit en utmaning, vi har använt oss intresse av att lära sig hur man ställer om till
-av fler digitala verktyg än någonsin. Chattrum digitalt. De flesta grupper och samverkans-
-har funkat bra för vår urbana verksamhet, parter har varit väldigt duktiga på att själva
+och Borås?
+Det har varit en utmaning, vi har använt oss
+av fler digitala verktyg än någonsin. Chattrum
+har funkat bra för vår urbana verksamhet,
+
 16
+
+Zoom och sociala medier har varit våra stora
+"go-to" under året.
+
+Vi har gjort en del online-event såsom att
+låta vår planerade musikproduktionstävling
+inom urban musik bli digital. Detta var väldigt
+uppskattat och vi kommer definitivt göra
+detta igen. I Borås hade vi efter sommaren ett
+graffitti-evenemang där vi hade ett inhägnat
+område för att kunna ha koll på antal besö-
+kare/deltagare. Våra kurser inom sångteknik
+och musikproduktion hölls via Zoom, vilket
+möjliggjorde för ett stort deltagande oavsett
+vart man befann sig i landet.
+En viktig framgångsfaktor har varit att alltid
+ha en plan-B samt att ha en nära kontakt med
+grupperna.
+
+Abraham och Ulrika, verksamhetsutvecklare
+Vad har ni i Malmö upplevt som utmaningar
+och framgångsfaktorer under pandemin?
+
+En viktig sak är att vi verksamhetsutveckla-
+re under året kompetensutvecklats väldigt
+mycket inom digitala medier och pedagogiken
+som följer med det. Det har gjort att vi känt
+oss trygga i vår roll och kunnat sprida kunska-
+pen vidare till våra ledare.
+
+Vi upplever att det handlar mycket om led-
+aren, att denne har tillräcklig kunskap eller
+intresse av att lära sig hur man ställer om till
+digitalt. De flesta grupper och samverkans-
+parter har varit väldigt duktiga på att själva
 
 <!-- sida 583 -->
 
-Nedslag i omställningen under pandemin
+Nedslag             i  omställningen                       under           pandemin
 
 Sandra Rydsmo, Stina Krantz och Bonette Bryngelsten: Handledare vid Dansskolan God Moves. Ulrika Ölund och Abraham Fraiman: Verksamhetsutvecklare urban kultur i Göteborg. Suzanne Cronstam, Frida Rosen Babarik och Alice Andersson: Verksamhetsutvecklare Kultur i Malmö.
 
@@ -20929,10 +23043,10 @@ av vårt digitala utbud, verksamhet som de
 annars kanske inte hade fått upp ögonen för,
 vilket är en positiv bi-effekt av de omställ- ledning i alterna-
 ningar vi behövt göra.
-tiva  sätt  att träf-
+tiva  sätt  att  träf-
 Det som har varit svårast att ställa om har
 varit kör-verksamheten. Många har tagit en
-fas  och   att hålla
+fas  och   att  hålla
 paus, en del har hittat lösningar asynkront
 eller delat upp sig i mindre grupper under en
 igång    projekt
@@ -20945,15 +23059,24 @@ i det digitala och svårare att sticka ut från
 tacksamma         för!
 mängden av event och erbjudanden som
 plötsligt kom från alla håll.
+
 Att etablera nya kontakter utan att träffas
-fysiskt är en utmaning. Det är mycket lättare Men en sak är säker: Vi saknar verkligen att
-att snabbt hitta en god relation när man får ses och få musicera och utvecklas tillsam-
-träffas. Att bevara en relation digitalt går mans! Vi saknar att träffa trevliga människor i
-däremot lättare.                         samband med spelningar! Vi saknar att dansa
-med publiken!
+fysiskt är en utmaning. Det är mycket lättare
+att snabbt hitta en god relation när man får
+träffas. Att bevara en relation digitalt går
+däremot lättare.
+
 Frida, Alice och Suzanne, verksamhetsutveck-
-lare inom kultur.                                      Cirkelledare Julia Cook
+lare inom kultur.
+
+Men en sak är säker: Vi saknar verkligen att
+ses och få musicera och utvecklas tillsam-
+mans! Vi saknar att träffa trevliga människor i
+samband med spelningar! Vi saknar att dansa
+med publiken!
+Cirkelledare Julia Cook
 i Kalasbandet från Göteborg
+
 17
 
 <!-- sida 584 -->
@@ -20961,14 +23084,22 @@ i Kalasbandet från Göteborg
 Samhälle
 
 VI HAR BRED VERKSAMHET tillsammans med med- sentativt beslutsfattande.
+
 lemsorganisationer och andra samverkansparter, 16.b – Främja och verkställa icke-diskriminerande
+
 som på olika sätt bidrar till att utveckla människor politik och lagstiftning.
+
 och samhälle på ett hållbart och demokratiskt sätt.
 Under 2020 ställde vi om vår verksamhet till digital, Sydväst
+
 på grund av covid-19. Vi fortsatte även arbetet med Sydväst har under året, tillsammans med våra sam-
+
 att tydliggöra och stärka verksamhetens kopplingar verkanspartners, genomfört ett stort antal cirklar,
+
 till FN:s globala mål för hållbar utveckling och agenda föreläsningar, kurser och kulturarrangemang i vitt
+
 2030\. Vi vill bidra till att skapa verksamhet som är skilda ämnen inom samhällsområdet. En del av
+
 lyhörd, inkluderande, baserad på del-      denna verksamhet görs tillsammans
 Samtidigt började
 aktighet och som bidrar till samhällelig   med våra medlemsorganisationer,
@@ -20993,52 +23124,99 @@ heter som behövs för att främja en         aktiviteter stängde ner i mars 20
 hållbar utveckling, bland annat genom      då det fanns en stor osäkerhet kring
 utbildning för hållbar utveckling och      smittan och vad man ändå kunde göra
 hållbara livsstilar, mänskliga rättigheter, jämställdhet, för verksamhet under rådande omständigheter. Allt
-främjande av en kultur av fred, icke-våld och glo- eftersom under våren började vi hitta andra, ofta
-balt medborgarskap samt värdesättande av kulturell digitala, sätt att mötas. Mycket tid under våren lades
-mångfald och kulturens bidrag till hållbar utveckling. på att fortbilda personal, medlemsorganisationer och
-Mål 5 Jämställdhet – Jämställdhet mellan kvinnor samverkansparter i olika digitala program så som
-och män är en förutsättning för en hållbar och fredlig Teams och Zoom. Samt hur man filmar, streamar och
-utveckling.                       lägger upp filmer på olika plattformar som tex Youtu-
-Mål 10 Minskad ojämlikhet (Exempelvis mål be, Facebook och Instagram, så att andra kan se och
-10.2) – Till 2030 möjliggöra och verka för att alla delta. Takten på denna tekniska kompetensutveckling
-människor, oavsett ålder, kön, funktionsnedsättning, var mycket hög (högre än om coronapandemin inte
-ras, etnicitet, ursprung, religion eller ekonomisk eller hade funnits.)
+
+främjande av en kultur av fred, icke-våld och glo-
+balt medborgarskap samt värdesättande av kulturell
+mångfald och kulturens bidrag till hållbar utveckling.
+Mål 5 Jämställdhet – Jämställdhet mellan kvinnor
+och män är en förutsättning för en hållbar och fredlig
+utveckling.
+Mål 10 Minskad ojämlikhet (Exempelvis mål
+
+10.2) – Till 2030 möjliggöra och verka för att alla
+människor, oavsett ålder, kön, funktionsnedsättning,
+ras, etnicitet, ursprung, religion eller ekonomisk eller
 annan ställning, blir inkluderade i det sociala, ekono-
-miska och politiska livet.        Den verksamhet inom profilområde Samhälle som
-Mål 12 Hållbar konsumtion och produktion tidigast och mest fick effekter av nedstängningen var
-Mål 12.8 – Öka allmänhetens kunskap om hållbara vår verksamhet inom området Kultur & Hälsa, det vill
-livsstilar.                       säga samverkan vi har med äldreboenden, LLS-boen-
-Mål 16 – Fredliga och inkluderande samhällen de och Träffpunkter för seniorer. Eftersom äldre var
-16.1 - Minska våldet i världen.   de som var mest i riskzon för smittan, stängdes alla
-16.7 – Säkerställa ett lyhört, inkluderande och repre- boende för besökare och alla aktiviteter stoppades.
+
+eftersom under våren började vi hitta andra, ofta
+digitala, sätt att mötas. Mycket tid under våren lades
+på att fortbilda personal, medlemsorganisationer och
+samverkansparter i olika digitala program så som
+Teams och Zoom. Samt hur man filmar, streamar och
+lägger upp filmer på olika plattformar som tex Youtu-
+be, Facebook och Instagram, så att andra kan se och
+
+delta. Takten på denna tekniska kompetensutveckling
+var mycket hög (högre än om coronapandemin inte
+hade funnits.)
+
+miska och politiska livet.
+Mål 12 Hållbar konsumtion och produktion
+Mål 12.8 – Öka allmänhetens kunskap om hållbara
+livsstilar.
+Mål 16 – Fredliga och inkluderande samhällen
+16.1 - Minska våldet i världen.
+16.7 – Säkerställa ett lyhört, inkluderande och repre-
+
+Den verksamhet inom profilområde Samhälle som
+tidigast och mest fick effekter av nedstängningen var
+vår verksamhet inom området Kultur & Hälsa, det vill
+säga samverkan vi har med äldreboenden, LLS-boen-
+de och Träffpunkter för seniorer. Eftersom äldre var
+de som var mest i riskzon för smittan, stängdes alla
+boende för besökare och alla aktiviteter stoppades.
+
 18
 
 <!-- sida 585 -->
 
-Träffpunkterna slutade att ordna träffar och deras per- eller covers, antingen med inspelad bakgrund eller
-sonal blev omflyttade till andra områden inom äldre- med kompmusiker. Vinnaren går sen vidare till den
-omsorgen. Samtidigt visade det sig snart att just denna nationella finalen i Sundsvall. Tävlingen i Göteborg
-målgrupp mådde väldigt dåligt över att inte kunna träffa skulle vara på stora Posthotellet vid Centralstationen
-familj och vänner och blev ofta väldigt isolerade på sina och flera prominenta Göteborgare hade tackat ja till
-rum eller i sina lägenheter.      att sitta i juryn. Tyvärr fick tävlingen göras digital
+Träffpunkterna slutade att ordna träffar och deras per-
+sonal blev omflyttade till andra områden inom äldre-
+omsorgen. Samtidigt visade det sig snart att just denna
+målgrupp mådde väldigt dåligt över att inte kunna träffa
+familj och vänner och blev ofta väldigt isolerade på sina
+rum eller i sina lägenheter.
+
+eller covers, antingen med inspelad bakgrund eller
+med kompmusiker. Vinnaren går sen vidare till den
+nationella finalen i Sundsvall. Tävlingen i Göteborg
+skulle vara på stora Posthotellet vid Centralstationen
+och flera prominenta Göteborgare hade tackat ja till
+att sitta i juryn. Tyvärr fick tävlingen göras digital
+
 istället och i mycket mindre skala. Kontakterna finns
 En stor utmaning med denna verksamhet är också att dock kvar och vi hoppas kunna göra en mer storsla-
 majoriteten av deltagarna inte har smartphones, dato- gen tävling framöver. I år vann David Farnouide från
 rer, emailadresser och saknar teknisk kompetens för Lund i Skåne och Juanita Månsson i Västra Götaland.
-
 att kunna delta i digitala studiecirklar och kulturevene-
-mang. Många boenden saknar dessutom internet för de Även i år har vi samarbetat med Högskolan i Halm-
-boende. Detta gjorde att det inte bara var att ställa om stad, kring deras ledarutbildning för alla ansvariga för
-verksamheten till digitalt. Samtidigt började våra ledare nollningen. Detta för att nollningsperioden skall bli
-och kontaktpersoner höra av sig under och strax efter en positiv upplevelse som skapar gemenskap. Utbild-
-sommaren och meddela att vi måste göra något för de ningar hålls för alla ledare i etik, värderingar, alkohol-
-äldre som mår väldigt psykiskt dåligt av ensamheten och policy, första hjälpen, teambuilding med mera.
-isoleringen. Så länge vädret tillät ställde vi om många De hade utbildningar av alla ledare och ansvariga
-av kulturarrangemangen till att genomföras utomhus. under våren, men på grund av corona fick de ställa in
-Bland annat så startade vi ett samarbete med Göteborgs själva nollningen,( vilket är en verksamhet som inte
-Stad och flera bostadsbolag och höll 185 stycken utom- rapporteras till Bilda).
+
+mang. Många boenden saknar dessutom internet för de
+boende. Detta gjorde att det inte bara var att ställa om
+verksamheten till digitalt. Samtidigt började våra ledare
+och kontaktpersoner höra av sig under och strax efter
+sommaren och meddela att vi måste göra något för de
+äldre som mår väldigt psykiskt dåligt av ensamheten och
+isoleringen. Så länge vädret tillät ställde vi om många
+
+av kulturarrangemangen till att genomföras utomhus.
+Bland annat så startade vi ett samarbete med Göteborgs
+Stad och flera bostadsbolag och höll 185 stycken utom-
 huskonserter vid seniorboenden/65+ boenden. Vi har
-även försökt att erbjuda digitala konserter för de boende Riktade uppdrag
+även försökt att erbjuda digitala konserter för de boende
+
+Även i år har vi samarbetat med Högskolan i Halm-
+stad, kring deras ledarutbildning för alla ansvariga för
+nollningen. Detta för att nollningsperioden skall bli
+en positiv upplevelse som skapar gemenskap. Utbild-
+ningar hålls för alla ledare i etik, värderingar, alkohol-
+policy, första hjälpen, teambuilding med mera.
+De hade utbildningar av alla ledare och ansvariga
+
+under våren, men på grund av corona fick de ställa in
+själva nollningen,( vilket är en verksamhet som inte
+rapporteras till Bilda).
+
+Riktade uppdrag
 
 som har internet och möjlighet att         Under 2020 hade vi bara en studiecir-
 Denna verksamhet är
@@ -21067,95 +23245,154 @@ att de har fått stärkt
 Kultur, andra samarbeten avslutades.       delsförvaltningen i Lundby, Göteborg
 självförtroende.
 och öppna förskolan Fyrklövern i
-Inför 2020 års Musikschlaget i             Lundby. Detta är en verksamhet där vi
-Sydväst, hade vi stora planer på att       erbjuder språkträning och samhälls-
-uppmärksamma denna fantastiska             orientering för föräldralediga utrikes-
-tävling. Musikschlaget är en melodifestival för musiker/ födda föräldrar. Föräldralediga går inte på SFI, vilket
-artister med funktionsnedsättningar. Artisterna medver- gör att många tappar eller lär sig inte språket på flera
-kar med band eller som soloartister, med eget material år. Detta gör förstås etableringen mycket svårare.
+
+Inför 2020 års Musikschlaget i
+Sydväst, hade vi stora planer på att
+uppmärksamma denna fantastiska
+tävling. Musikschlaget är en melodifestival för musiker/
+artister med funktionsnedsättningar. Artisterna medver-
+kar med band eller som soloartister, med eget material
+
+Lundby. Detta är en verksamhet där vi
+erbjuder språkträning och samhälls-
+orientering för föräldralediga utrikes-
+födda föräldrar. Föräldralediga går inte på SFI, vilket
+gör att många tappar eller lär sig inte språket på flera
+år. Detta gör förstås etableringen mycket svårare.
+
 19
 
 <!-- sida 586 -->
 
-Tanken med samarbetet med öppna förskolorna är att hur saker och ting funkar i Sverige, samt berätta om
-pedagogerna kan hjälpa till att ta hand om barnen så den verksamhet som finns i området. Detta projekt
-att föräldrarna lättare kan fokusera på undervisning. har varit modellen för hur vi sen har byggt upp de nya
-De fyra första träffarna i oktober kunde vi träffas på samarbetena med Öppnaförskolor i den nya upp-
-öppna förskolan och de var mycket uppskattade. Sen dragsformen ovan. Projektet tog slut sista december
-fick vi gå över till digitala träffar, vilket också har 2020, men Länsstyrelsen har beviljat oss fortsatta
-fungerat bra. Men tre deltagare fick tyvärr hoppa av medel för 2021 vilket är väldigt roligt!
-då de inte hade möjligheter att delta digitalt. Denna
-verksamhet är mycket uppskattad av deltagarna, som På Vättnedalsskolan började vi under 2019 samverka
-ofta känner sig isolerade i sina hem under föräldra- kring att man öppnat upp skolans lokaler på kvällar
+Tanken med samarbetet med öppna förskolorna är att
+pedagogerna kan hjälpa till att ta hand om barnen så
+att föräldrarna lättare kan fokusera på undervisning.
+De fyra första träffarna i oktober kunde vi träffas på
+öppna förskolan och de var mycket uppskattade. Sen
+fick vi gå över till digitala träffar, vilket också har
+fungerat bra. Men tre deltagare fick tyvärr hoppa av
 
-ledigheten, speciellt nu under corona. Fler deltagare och helger i den satsningen som kallas “Skola som
-har sagt att dessa grupper hjälper dem att våga börja arena”1. Här finns Bilda Sydväst med och skapar akti-
-prata svenska och att de har fått stärkt självförtroen- viteter för barnen i form av dansworkshops och kurser
-de. Under 2021 kommer vi att försöka bygga ut denna i hiphop. Man har också jobbat med graffitti på en
-verksamhet till fler grupper och fler öppna förskolor. avsedd vägg med barnen. Pengar till detta projekt har
+då de inte hade möjligheter att delta digitalt. Denna
+
+hur saker och ting funkar i Sverige, samt berätta om
+den verksamhet som finns i området. Detta projekt
+har varit modellen för hur vi sen har byggt upp de nya
+samarbetena med Öppnaförskolor i den nya upp-
+dragsformen ovan. Projektet tog slut sista december
+2020, men Länsstyrelsen har beviljat oss fortsatta
+medel för 2021 vilket är väldigt roligt!
+
+verksamhet är mycket uppskattad av deltagarna, som
+ofta känner sig isolerade i sina hem under föräldra-
+ledigheten, speciellt nu under corona. Fler deltagare
+har sagt att dessa grupper hjälper dem att våga börja
+prata svenska och att de har fått stärkt självförtroen-
+de. Under 2021 kommer vi att försöka bygga ut denna
+verksamhet till fler grupper och fler öppna förskolor.
+
+På Vättnedalsskolan började vi under 2019 samverka
+kring att man öppnat upp skolans lokaler på kvällar
+och helger i den satsningen som kallas “Skola som
+arena”1. Här finns Bilda Sydväst med och skapar akti-
+viteter för barnen i form av dansworkshops och kurser
+i hiphop. Man har också jobbat med graffitti på en
+avsedd vägg med barnen. Pengar till detta projekt har
+
 vi fått framför allt från Bildas interna utvecklingsfond
 Projekt                           som Bildas Förbundskansli startade under 2019. Vi
-Under 2019 startade vi också ett sam-       har också fått lite pengar från Stads-
-arbete med Stadsdelsförvaltningen Vi matchar nya delsförvaltningen Västra Göteborg.
-Västra Göteborg som hittills utmyn- svenskar med fören- Denna verksamhet ställdes dock in
-nat i två projekt – Integration genom ingslivet i nordöstra under corona. Samtal förs hur vi ska
-öppna förskolan Opaltorget och Pilot- Skåne. Detta för att kunna fortsätta och utveckla denna
-projekt Skola som arena Vättnedals- kunna erbjuda nyan- verksamhet framöver.
 
-skolan. Båda dessa projekt genomförs lända möjligheten att
-i samma område i Göteborg, i centrala komma ut i förenings- Vi har också fortsatt med verksam-
-Tynnered, som är ett så kallat särskilt livet och i studieför- heten, “NAD – Nätverk, Aktivitet,
-utsatt område med stora socioeko- bund för att på så vis Delaktighet”, som vi har tillsammans
-nomiska utmaningar. Bilda Sydväst stärka sina sociala med Region Skåne, Nätverket – Idé-
-har flera medlemsorganisationer i nätverk, öva svenska buren sektor i Skåne, Länsstyrelsen
-området, varför det är extra intressant språket och förbättra Skåne och Arbetsförmedlingen, där vi
-att genomföra verksamhet här. sin hälsa.    matchar nya svenska med förenings-
+Under 2019 startade vi också ett sam-
+arbete med Stadsdelsförvaltningen
+Västra Göteborg som hittills utmyn-
+nat i två projekt – Integration genom
+öppna förskolan Opaltorget och Pilot-
+projekt Skola som arena Vättnedals-
+skolan. Båda dessa projekt genomförs
+
+i samma område i Göteborg, i centrala
+Tynnered, som är ett så kallat särskilt
+utsatt område med stora socioeko-
+nomiska utmaningar. Bilda Sydväst
+har flera medlemsorganisationer i
+området, varför det är extra intressant
+att genomföra verksamhet här.
+
+Integration genom öppna förskolan
+
+har också fått lite pengar från Stads-
+Vi matchar nya  delsförvaltningen Västra Göteborg.
+svenskar med fören- Denna verksamhet ställdes dock in
+ingslivet i nordöstra under corona. Samtal förs hur vi ska
+Skåne. Detta för att kunna fortsätta och utveckla denna
+kunna erbjuda nyan- verksamhet framöver.
+lända möjligheten att
+
+komma ut i förenings- Vi har också fortsatt med verksam-
+livet och i studieför- heten, “NAD – Nätverk, Aktivitet,
+bund för att på så vis Delaktighet”, som vi har tillsammans
+stärka sina sociala med Region Skåne, Nätverket – Idé-
+nätverk, öva svenska buren sektor i Skåne, Länsstyrelsen
+språket och förbättra Skåne och Arbetsförmedlingen, där vi
+sin hälsa.    matchar nya svenska med förenings-
 livet i nordöstra Skåne. Detta för att
-Integration genom öppna förskolan           kunna erbjuda nyanlända möjligheten
-Opaltorget har fortsatt under 2020.         att komma ut i föreningslivet och i
-Detta projekt bygger på samma grundtanke som studieförbund för att på så vis stärka sina sociala nät-
-uppdraget ovan, det vill säga att erbjuda språkträning verk, öva svenska språket och förbättra sin hälsa. Un-
+kunna erbjuda nyanlända möjligheten
 
-och samhällsorientering till utrikesfödda föräldraledi- der året har det dock varit svårt att få deltagare, något
-ga föräldrar. Detta projekt har dock finansiering från som Arbetsförmedlingen skall bidra med, på grund
-Länsstyrelsen i Västra Götaland. Det gör att vi i detta av deras stora omorganisation. Corona har dessutom
-projekt har mer pengar och kan ha två “brobyggare” gjort att många aktiviteter ställts in. Finansieringen
-anställda, Zakia är från Somalia och Leila är från Syri- av NAD för 2021 har varit väldigt osäker och mycket
-en. De finns som resurser i området för att guida och tid har gått åt till olika möten med NAD-cheferna,
-hjälpa människor i området med tolkning, förklara Länsstyrelsen Skåne, Arbetsförmedlingen med flera.
+Opaltorget har fortsatt under 2020.
+Detta projekt bygger på samma grundtanke som
+uppdraget ovan, det vill säga att erbjuda språkträning
+och samhällsorientering till utrikesfödda föräldraledi-
+ga föräldrar. Detta projekt har dock finansiering från
+Länsstyrelsen i Västra Götaland. Det gör att vi i detta
+projekt har mer pengar och kan ha två “brobyggare”
+
+anställda, Zakia är från Somalia och Leila är från Syri-
+en. De finns som resurser i området för att guida och
+hjälpa människor i området med tolkning, förklara
+
+att komma ut i föreningslivet och i
+studieförbund för att på så vis stärka sina sociala nät-
+verk, öva svenska språket och förbättra sin hälsa. Un-
+der året har det dock varit svårt att få deltagare, något
+som Arbetsförmedlingen skall bidra med, på grund
+av deras stora omorganisation. Corona har dessutom
+gjort att många aktiviteter ställts in. Finansieringen
+
+av NAD för 2021 har varit väldigt osäker och mycket
+tid har gått åt till olika möten med NAD-cheferna,
+Länsstyrelsen Skåne, Arbetsförmedlingen med flera.
 
 20
 
 <!-- sida 587 -->
 
-Samtidigt har man jobbat på att göra om metoden för personal i Bilda Sydväst deltog. På grund av corona
-NAD för att inte vara beroende av att Arbetsförmed- fick dock övrig planerad verksamhet ställas in. Vi
-lingen skickar deltagare.         hoppas nu få använda de pengar vi har kvar under
-2021 och för samtal med Social Resursnämnd i Göte-
-Under 2020 har vi också fortsatt det dotterprojekt borg.
+Samtidigt har man jobbat på att göra om metoden för
+NAD för att inte vara beroende av att Arbetsförmed-
+lingen skickar deltagare.
+
+Under 2020 har vi också fortsatt det dotterprojekt
 till NAD som startades 2017 – Plats för engagemang
-(PfE), där vi ger föreningsinformation till alla nya Annan verksamhet
-svenskar som är registrerade på Arbetsförmedlingen, Det mesta av övrig planerad verksamhet som
-samt förmedlar kontakter till olika föreningar i kom- #killmiddag, civilkurage, feministiska konfirmand-
-munerna. Sedan november 2018 är alla 5 kommuner samtal, slow fashion, hållbarhet, mänskliga rättighe-
+(PfE), där vi ger föreningsinformation till alla nya
 
-i nordöstra Skåne med i projektet, som finansieras av ter med mera har tyvärr inte kunnat genomföras på
-Länsstyrelsen i Skåne, som också är en aktiv partner grund av pandemin. Vi kommer dock att fortsätta med
-i projektet. Metodförändringen i NAD har dock gjort denna verksamhet så fort läget tillåter.
+svenskar som är registrerade på Arbetsförmedlingen,
+samt förmedlar kontakter till olika föreningar i kom-
+munerna. Sedan november 2018 är alla 5 kommuner
+i nordöstra Skåne med i projektet, som finansieras av
+Länsstyrelsen i Skåne, som också är en aktiv partner
+i projektet. Metodförändringen i NAD har dock gjort
 att PfE och NADs verksamhet inte bara kompletterar
-varandra utan dessutom nu överlappar en del. Detta Under 2020 beslöt vi att vi tyvärr var tvungna att
-har krävt vissa justeringar och fördjupat samarbete avsluta vår verksamhet Kulturkompis – ”make friends
-mellan PfE och NAD under året. När corona gjorde att through culture” i Skåne och i Göteborg. Denna
-det svårt att få till informationsträffar och besök på verksamhet har inneburit att kulturlivet utmanas att
-SFI, skapades ett informationsmaterial med fören- förenkla för nyanlända att ta del av regionens rika kul-
-ingsinformation, som kommer att användas i alla fem turliv. Samtidigt skapas nya arenor för integration och
-kommuner i nordöstra Skåne. Projektet PfE avsluta- samtal kring mångfald och demokrati genom kultur
-des enligt plan sista oktober 2020. Vi har under året och mötet mellan nyanländ och etablerad. Projektet
-fört samtal med kommunerna i området för att se ger nyanlända och etablerade svenskar möjlighet att
+varandra utan dessutom nu överlappar en del. Detta
+har krävt vissa justeringar och fördjupat samarbete
+mellan PfE och NAD under året. När corona gjorde att
+det svårt att få till informationsträffar och besök på
+SFI, skapades ett informationsmaterial med fören-
+ingsinformation, som kommer att användas i alla fem
 
-om vi skulle samverka mer framöver och göra en ny uppleva kulturarrangemang tillsammans. På grund
-gemensam ansökan för att utveckla integrationsarbe- av bristande finansiering har vi inte haft möjlighet
-tet. På grund av kommunernas situation har vi inte fortsätta detta viktiga arbete.
+kommuner i nordöstra Skåne. Projektet PfE avsluta-
+des enligt plan sista oktober 2020. Vi har under året
+fört samtal med kommunerna i området för att se
+om vi skulle samverka mer framöver och göra en ny
+gemensam ansökan för att utveckla integrationsarbe-
+tet. På grund av kommunernas situation har vi inte
 kunnat hitta ett sådant gemensamt projekt. Erfaren-
 heterna och kontakterna inom PfE finns dock nu hos
 vår NAD-personal i regionen.
@@ -21163,9 +23400,9 @@ vår NAD-personal i regionen.
 När projektet Hur nära är för nära? avslutades fanns
 det en del pengar kvar. Dessa medel har vi fått lov
 att använda i ett nytt projekt under 2020 om heter
+
 Makt, våld och MR, där vi fortsätter att arbeta med
 frågor kring makt, våld, våldsprevention, normkritik,
-
 civilkurage med mera. I detta projekt försöker vi ta ett
 helhetsgrepp kring det arbete och alla olika koncept
 som Bilda har kring dessa frågor – MOD, #killmiddag,
@@ -21173,8 +23410,38 @@ Män som förändrar, civilkurage, ickevåld med flera. Vi
 har också skapat en arbetsgrupp för denna verksam-
 het med verksamhetsutvecklare från alla profilområ-
 dena och med geografisk spridning i regionen.
-Juanita Månsson vinnare av Musikschlagets delfinal för
 Vi genomförde en MOD-ledarutbildning i mars, där
+
+personal i Bilda Sydväst deltog. På grund av corona
+fick dock övrig planerad verksamhet ställas in. Vi
+hoppas nu få använda de pengar vi har kvar under
+2021 och för samtal med Social Resursnämnd i Göte-
+borg.
+
+Annan verksamhet
+
+Det mesta av övrig planerad verksamhet som
+\#killmiddag, civilkurage, feministiska konfirmand-
+samtal, slow fashion, hållbarhet, mänskliga rättighe-
+ter med mera har tyvärr inte kunnat genomföras på
+grund av pandemin. Vi kommer dock att fortsätta med
+denna verksamhet så fort läget tillåter.
+
+Under 2020 beslöt vi att vi tyvärr var tvungna att
+avsluta vår verksamhet Kulturkompis – ”make friends
+through culture” i Skåne och i Göteborg. Denna
+verksamhet har inneburit att kulturlivet utmanas att
+förenkla för nyanlända att ta del av regionens rika kul-
+turliv. Samtidigt skapas nya arenor för integration och
+
+samtal kring mångfald och demokrati genom kultur
+och mötet mellan nyanländ och etablerad. Projektet
+ger nyanlända och etablerade svenskar möjlighet att
+uppleva kulturarrangemang tillsammans. På grund
+av bristande finansiering har vi inte haft möjlighet
+fortsätta detta viktiga arbete.
+
+Juanita Månsson vinnare av Musikschlagets delfinal för
 Västra Götaland.
 21
 
@@ -21270,111 +23537,164 @@ Deltagare i språkträning till föräldralediga utrikesfödda i form av Öppen 
 
 <!-- sida 590 -->
 
-Noomi Gustafsson ledare på Öppna Förskolan i Lundby. Yan Su, deltagare Öppna Förskolan Lundby.
+Noomi Gustafsson ledare på Öppna Förskolan i Lundby.
 
-Fantastiskt att se utvecklingen i att Hej Yan! Vad har det betytt för dig som deltagare att
-kunna träffa de andra mammorna under coronapande-
+Fantastiskt att se utvecklingen i att
 våga prata svenska
-min?
+
 Hej Noomi, ledare på Öppna Förskolan i Lundby med
-För mig, som en mamma som är föräldraledig hemma,
 fokus på att erbjuda språkträning och samhällsoriente-
-hjälpte den här kursen mig att få chansen att lära mig
 ring till utrikesfödda föräldralediga föräldrar. Vad har det
-något användbart och till och med kan känna några andra
 betytt för dig och gruppen att kunna mötas i cirkel under
-underbara människor under coronapandemin.
 coronapandemin?
-Distanscirklar är en utmaning för alla, särskilt för mitt barn.
+
 Jag upplever det som om det har betytt mycket för mam-
-Det blev svårt att sitta stilla och prata hela tiden, men vi
 morna att ses under den här perioden. Att vara föräldrale-
-klarade oss ganska bra.
 dig kan vara ensamt i vanliga fall och under hösten har det
 ju även inneburit att en inte får träffa vänner på fritiden,
-Verksamheten för mig är en mycket ny och bra sak under
 samtidigt som en partner (för vissa av deltagarna) jobbat
-min föräldraledighet. Att lära sig mer svenska och ha lite
 eller studerat hemifrån och det varit lite körigt att vara
-socialt liv. Ser fram emot att coronapandemin slutar snart.
 hemma med små barn hela tiden. Bäst var när vi fortfaran-
 de fick ses på Öppna Förskolan under oktober månad när
 barnen kunde vara med och leka med varandra.
-Jag  har   lärt  mig
 När vi i början av november inte längre fick träffas på Öpp-
 na Förskolan ställde vi om till att träffas via Zoom och job-
-flicka  (mamma)
 ba på Lernify. För vissa av mammorna blev det lite svårare
 att delta då det var digitalt, eftersom barnen pockade på
-makt    och   mer
 uppmärksamheten och en eventuell sambo jobbade/stude-
 rade hemifrån eller var i väg på jobb. Men cirkeln fortsatte.
-svenska.
 För mig har det varit värdefullt att få vara med och skapa
-en träffpunkt för mammorna under hösten. Och det har Jag känner mig att
+en träffpunkt för mammorna under hösten. Och det har
 varit fantastiskt att se deras utveckling i att våga prata
 svenska samt deras glädje över att ses, på Öppna Försko-
-engagera      mer   i det
 lan såväl som på Zoom.
-svenska
+
 Vi fick ett stort stöd från Bilda när vi ställde om digitalt.
 Bildas It-ansvarige ordnade så att vi fick tillgång till ett av
-Bildas Zoom-konton och introducerade oss i Lernify och samhället.
+Bildas Zoom-konton och introducerade oss i Lernify och
 hur vi kunde använda detta i utbildningen/cirkeln.
-Deltagare i verksamheten.
+
 24
+
+Yan Su, deltagare Öppna Förskolan Lundby.
+
+Hej Yan! Vad har det betytt för dig som deltagare att
+kunna träffa de andra mammorna under coronapande-
+min?
+
+För mig, som en mamma som är föräldraledig hemma,
+hjälpte den här kursen mig att få chansen att lära mig
+något användbart och till och med kan känna några andra
+underbara människor under coronapandemin.
+Distanscirklar är en utmaning för alla, särskilt för mitt barn.
+Det blev svårt att sitta stilla och prata hela tiden, men vi
+klarade oss ganska bra.
+
+Verksamheten för mig är en mycket ny och bra sak under
+min föräldraledighet. Att lära sig mer svenska och ha lite
+socialt liv. Ser fram emot att coronapandemin slutar snart.
+
+Jag  har  lärt  mig
+
+flicka   (mamma)
+
+makt    och   mer
+
+svenska.
+
+Jag  känner     mig   att
+
+engagera     mer    i det
+
+svenska
+
+samhället.
+
+Deltagare i verksamheten.
 
 <!-- sida 591 -->
 
-Nedslag              i omställningen
+Nedslag             i  omställningen
 
 Sara Sivertsson och Jeanette Borssén: Verksamhetsutvecklare Kultur och Hälsa i Göteborg. Emilia Angel: Samordnare TIA och NAD.
 
-Hur har det gått med omställningen i vårt kulturarbete Hej Emilia, hur har det gått med omställningen för folk-
-på äldreboenden?                  bildningsverksamheten i NAD under pandemin?
+Hur har det gått med omställningen i vårt kulturarbete
+på äldreboenden?
 Det har varit enormt svårt att anpassa och ställa om
-vår verksamhet med Kultur och Hälsa. Vi jobbar med Nätverk Aktivitet Delaktighet är vår verksamhet för att
-människor som är i riskgrupp, som inte alltid har uppkopp- öka nyanlända personers hälsa och välmående, underlätta
-ling på boendena eller någon på plats med digital kompe- språkinlärningen och erbjuda möjlighet att bygga sociala
-tens och därmed inte kan ta del av våra digitala lösningar. nätverk, genom att erbjuda möjlighet att delta i förenings-
-De vi jobbar mot har också ett stort behov av att ses aktiviteter.
+vår verksamhet med Kultur och Hälsa. Vi jobbar med
+människor som är i riskgrupp, som inte alltid har uppkopp-
+ling på boendena eller någon på plats med digital kompe-
+tens och därmed inte kan ta del av våra digitala lösningar.
+De vi jobbar mot har också ett stort behov av att ses
 fysiskt för att verksamheten ska kunna funka och för att de
-ska känna gemenskap. Det är i mötet det positiva uppstår. Det har varit väldigt svårt då vi jobbar nära SFI som ställt
-De tynar bort fort när de inte har ett socialt liv. Här ser vi om till digital undervisning. Vår målgrupp är språksvag, och
-tydligt hur viktig vår verksamhet är. då vi inte kan träffas fysiskt och ta hjälp av tolk är det svårt
-för deltagarna att förstå information. Många i målgruppen
-Vi har gjort så gott vi kunnat med sång och musik utom- saknar även digital kompetens och tillgång till datorer.
+ska känna gemenskap. Det är i mötet det positiva uppstår.
+De tynar bort fort när de inte har ett socialt liv. Här ser vi
+tydligt hur viktig vår verksamhet är.
+Vi har gjort så gott vi kunnat med sång och musik utom-
 hus. Men vi vill så gärna göra mycket mer!
-Vi har dock digitaliserat vårt informationsmaterial till en
-Kan ni ge exempel på verksamhet som ni ändå lyckades film som finns på Youtube och vi har tagit fram en fritids-
-genomföra?                        guid som nu finns på fem språk.
+
+Kan ni ge exempel på verksamhet som ni ändå lyckades
+genomföra?
 En omställning som blev bra för de äldre var "Kultur i kvar-
-teret", ett samarbete med Göteborgs stad och bostads- Hur tycker du att Bildas övergripande omställning till
-föreningar, där vi har haft musiker som sjungit utanför digitalt fungerat?
-trygghetsboenden. Det har varit väldigt uppskattat och Bildas sätt att ställa om digitalt har varit väldigt bra och
-pågick hela sommaren fram till hösten. snabbt. Vi ligger väldigt långt fram i den digitala utveck-
-lingen och har vunnit mycket förtroende på det, att vi har
-Det finns också eldsjälar som gör allt för att hitta vägar. den kompetensen.
+teret", ett samarbete med Göteborgs stad och bostads-
+föreningar, där vi har haft musiker som sjungit utanför
+trygghetsboenden. Det har varit väldigt uppskattat och
+pågick hela sommaren fram till hösten.
+Det finns också eldsjälar som gör allt för att hitta vägar.
 Rune Larsson, i Lomma, är en av våra mest aktiva och inn-
-ovativa äldre volontärer. Han brukar vara runt på en mängd Vad har du upplevt som framgångsfaktorer i omställ-
-äldreboenden i Lomma och musicera. Han var snabb på ningen/anpassningen?
-förändrings-bollen och bestämde sig för att köra utomhu- Att vi haft en bra relation med länsstyrelsen, arbetsför-
-skonserter där han även drog in en högtalare på boendet medlingen och kommuner sedan innan och därmed kunnat
-så även de som inte kunde ta sig ut fick ta del av musiken. upprätthålla en bra dialog med dessa under pandemin.
-Emilia, samordnare TIA och NAD
+ovativa äldre volontärer. Han brukar vara runt på en mängd
+äldreboenden i Lomma och musicera. Han var snabb på
+förändrings-bollen och bestämde sig för att köra utomhu-
+skonserter där han även drog in en högtalare på boendet
+så även de som inte kunde ta sig ut fick ta del av musiken.
+
 Vad har varit mest utmanande?
 När våra kontaktpersoner blivit förflyttade till andra delar
 av verksamheten. Att flertalet äldreboenden saknar inter-
 net. Att förutsättningen att få digitalt kunniga personer till
 boendena är svårt. Att nå de deltagare som normalt brukar
-Jag ville helt enkelt bara skriva några
 komma på våra öppna träffpunkter. Arbetsmiljön för oss
-rader och tacka för en fantastiskt fin bro-
 verksamhetsutvecklare under detta år, det har varit en
-schyr om "Fritidsbanken" på Bildas hem-
 pressad och svår situation på många sätt.
+Deltagare i verksamheten.  Jeanette och Sara, verksamhetsutveklare inom Kultur och Hälsa.
+
+Hej Emilia, hur har det gått med omställningen för folk-
+bildningsverksamheten i NAD under pandemin?
+
+Nätverk Aktivitet Delaktighet är vår verksamhet för att
+öka nyanlända personers hälsa och välmående, underlätta
+språkinlärningen och erbjuda möjlighet att bygga sociala
+nätverk, genom att erbjuda möjlighet att delta i förenings-
+aktiviteter.
+Det har varit väldigt svårt då vi jobbar nära SFI som ställt
+om till digital undervisning. Vår målgrupp är språksvag, och
+då vi inte kan träffas fysiskt och ta hjälp av tolk är det svårt
+för deltagarna att förstå information. Många i målgruppen
+saknar även digital kompetens och tillgång till datorer.
+
+Vi har dock digitaliserat vårt informationsmaterial till en
+film som finns på Youtube och vi har tagit fram en fritids-
+guid som nu finns på fem språk.
+
+Hur tycker du att Bildas övergripande omställning till
+digitalt fungerat?
+Bildas sätt att ställa om digitalt har varit väldigt bra och
+snabbt. Vi ligger väldigt långt fram i den digitala utveck-
+lingen och har vunnit mycket förtroende på det, att vi har
+den kompetensen.
+Vad har du upplevt som framgångsfaktorer i omställ-
+ningen/anpassningen?
+Att vi haft en bra relation med länsstyrelsen, arbetsför-
+medlingen och kommuner sedan innan och därmed kunnat
+upprätthålla en bra dialog med dessa under pandemin.
+Emilia, samordnare TIA och NAD
+
+Jag ville helt enkelt bara skriva några
+
+rader och tacka för en fantastiskt fin bro-
+schyr om "Fritidsbanken" på Bildas hem-
 sida! Fick tipset i senaste nyhetsbrevet.
-Deltagare i verksamheten. Jeanette och Sara, verksamhetsutveklare inom Kultur och Hälsa. Den ska jag genast ge till vår nyanlända
+Den ska jag genast ge till vår nyanlända
 iranska familj i församlingen.
 25
 
@@ -21383,224 +23703,389 @@ iranska familj i församlingen.
 Kyrka
 
 INOM PROFILOMRÅDE KYRKA ryms folkbildningsar- rit tvungna att prova nya sätt att bedriva folkbildning. Vi
+
 betet inom tre kyrkofamiljer: frikyrkorna, de ortodoxa har omvärderat vad vi tänker när vi pratar om skärmtid.
+
 kyrkorna och den katolska kyrkan. Inom studieför-
 bundet finns stor mångfald, där våra kyrkofamiljer Våra samverkansparter har även de haft ett utmanande
 omfattar fler än hundra olika nationaliteter. Våra nära år och vi har tillsammans försökt att göra det bästa av
 relationer till kyrkofamiljerna är identitetsskapande förutsättningarna för att göra meningsfull verksamhet.
-för Bilda. Vi vill vara ett studieförbund för kyrkor, för
-deras samspel med varandra och deras engagemang Mycket av den vanliga folkbildningsverksamheten har
-i samhället. Vi vill också lyfta frågor i det offentliga ställts in, så som verksamhet för pensionärer och senio-
-samtalet som berör existentiella ting, religionens plats rer. Det har inte varit möjligt att träffas i större grupper
 
-i samhället och kyrkornas betydelse för demokratiska- och storleken på ”godkända” grupper har varierat under
-pande.                           året, vilket har gjort det svårt att planera och förutse vad
+för Bilda. Vi vill vara ett studieförbund för kyrkor, för
+deras samspel med varandra och deras engagemang
+i samhället. Vi vill också lyfta frågor i det offentliga
+samtalet som berör existentiella ting, religionens plats
+i samhället och kyrkornas betydelse för demokratiska-
+pande.
+
+Mycket av den vanliga folkbildningsverksamheten har
+ställts in, så som verksamhet för pensionärer och senio-
+rer. Det har inte varit möjligt att träffas i större grupper
+och storleken på ”godkända” grupper har varierat under
+året, vilket har gjort det svårt att planera och förutse vad
 som är möjligt att göra. Samtidigt har behovet av mö-
+
 I samarbetet med kyrkorna prioriterar vi att ge för- tesplatser och fysiska möten ökat under året. Många har
 samlingar redskap för sin bildnings- och kulturverk- farit illa och mått dåligt när de begränsat sina kontakter
 samhet, med utrymme för såväl teologisk reflektion med andra människor.
-som odling av spiritualitet och tradi-
-tion. Vi vill också ge perspektiv genom Vi har under pande- Vi i Bilda har påverkats av detta på
-att skapa mötesplatser, ge inspiration min haft ett tydligt många plan. Vi har hanterat det som
-och möjligheter att möta varandra och fokus på att stärka en arbetsmiljöfråga i relation till alla
-samhället. Verksamheten sker både relationerna till våra anställda. Sedan har varje verksam-
-inom de tre olika kyrkofamiljerna i samverkansparter. hetsutvecklare hanterat detta i rela-
-samverkan och i samverkan mellan Utifrån behov och tion till de samverkansparter som vi
 
-kyrkofamiljerna. Under året hade vi önskemål har vi erbju- samarbetar med. Vi har under pande-
-extra fokus på ekumeniska satsningar dit utbildningar och min haft ett tydligt fokus på att stärka
-och samverkan mellan våra ung- inspirationstillfällen relationerna till våra samverkans-
-domsorganisationer.         för ledare och  parter. Att finnas där som bollplank
+som odling av spiritualitet och tradi-
+tion. Vi vill också ge perspektiv genom
+att skapa mötesplatser, ge inspiration
+och möjligheter att möta varandra och
+samhället. Verksamheten sker både
+inom de tre olika kyrkofamiljerna i
+samverkan och i samverkan mellan
+
+kyrkofamiljerna. Under året hade vi
+extra fokus på ekumeniska satsningar
+och samverkan mellan våra ung-
+domsorganisationer.
+
+Under det gångna året präglade pan-
+demins framfart både folkbildningen
+
+Vi har under pande- Vi i Bilda har påverkats av detta på
+min haft ett tydligt många plan. Vi har hanterat det som
+fokus på att stärka en arbetsmiljöfråga i relation till alla
+relationerna till våra anställda. Sedan har varje verksam-
+samverkansparter. hetsutvecklare hanterat detta i rela-
+Utifrån behov och tion till de samverkansparter som vi
+önskemål har vi erbju- samarbetar med. Vi har under pande-
+
+dit utbildningar och min haft ett tydligt fokus på att stärka
+inspirationstillfällen relationerna till våra samverkans-
+för ledare och  parter. Att finnas där som bollplank
 anställda.    för vad som går att göra och vad som
-Under det gångna året präglade pan-         inte går att göra med anledning av
-demins framfart både folkbildningen         de restriktioner som funnits. Utifrån
+inte går att göra med anledning av
+de restriktioner som funnits. Utifrån
+
 och kyrkorna i hög grad. Tidigt landa-      de behov och önskemål vi fångat upp
 de många av församlingarna i att så långt det gick stäl- har vi erbjudit utbildningar och inspirationstillfällen för
 la om sin verksamhet istället för att ställa in den. Bilda ledare och anställda hos våra samverkansparter.
-försökte stödja församlingarna i den strävan. Det finns
-också flera exempel på digitala koncept som föddes De kurser vi har erbjudit har varit digitala och har i
 
-ur pandemin när det inte längre gick att mötas som stor utsträckning handlat om hur vi kan mötas på ett
-vanligt, däribland Cirkelsnack och Digitalt kyrkkaffe bra sätt digitalt. Vi har haft kurser om livestreaming,
-samt stöd och hjälp för att hålla igång smågrupper i om hur Zoom funkar, om hur vi kan skapa delaktighet i
-församlingen.                    ett digitalt möte med mera. Det har handlat om teknik,
+försökte stödja församlingarna i den strävan. Det finns
+också flera exempel på digitala koncept som föddes
+ur pandemin när det inte längre gick att mötas som
+vanligt, däribland Cirkelsnack och Digitalt kyrkkaffe
+samt stöd och hjälp för att hålla igång smågrupper i
+församlingen.
+
+Sydväst
+
+Vi kommer att minnas 2020 som ett år som inte var
+som något annat år. Vi har lärt oss mycket. Vi har va-
+
+De kurser vi har erbjudit har varit digitala och har i
+stor utsträckning handlat om hur vi kan mötas på ett
+bra sätt digitalt. Vi har haft kurser om livestreaming,
+om hur Zoom funkar, om hur vi kan skapa delaktighet i
+ett digitalt möte med mera. Det har handlat om teknik,
 men också om pedagogik. I detta arbete har hela Bilda
-Sydväst                          varit aktiva och delat med sig av sin spetskompetens.
-Vi kommer att minnas 2020 som ett år som inte var Vi har erbjudit kurser för ledare i församlingar i Skå-
-som något annat år. Vi har lärt oss mycket. Vi har va- ne, tillsammans med deltagare från hela landet, under
+varit aktiva och delat med sig av sin spetskompetens.
+
+Vi har erbjudit kurser för ledare i församlingar i Skå-
+ne, tillsammans med deltagare från hela landet, under
 
 26
 
 <!-- sida 593 -->
 
 ledning av en verksamhetsutvecklare i Umeå. Vi har istället träffas digitalt. För många var det osäkert och lite
+
 alltså kunnat erbjuda stor och bred kompetens, från otryggt. Det fanns en ovana av att använda videoverktyg
+
 Bildaanställda i hela landet, till cirkelledare i vår och att känna sig bekväm med tekniken. Vi erbjöd då ett
+
 region. Vi har varit ett stöd för våra samverkansparter flertal utbildningstillfällen i verktyget Zoom för ett ge
-i digitalt lärande, men har även lärt oss   redskap och kunskap till cirkelledare
-mycket själva.                              så att de kunde känna sig trygga. Vi
+
+i digitalt lärande, men har även lärt oss
+mycket själva.
+
+Alla kyrkors verksamhet har påverkats
+mycket av pandemin och de begräns-
+ningar som de olika riktlinjerna
+inneburit. Ibland har det kommit na-
+
+tionella direktiv från en kyrkoledning
+
+redskap och kunskap till cirkelledare
+så att de kunde känna sig trygga. Vi
 Det har ställt stora
 har varit bollplank och stöd för cir-
 krav på våra verksam-
-Alla kyrkors verksamhet har påverkats       kelledare och församlingsanställda i
+kelledare och församlingsanställda i
 hetsutvecklare att
-mycket av pandemin och de begräns-          en osäker tid. Vad ska vara i fokus för
+en osäker tid. Vad ska vara i fokus för
 vara lyhörda, kloka
-ningar som de olika riktlinjerna            verksamheten och hur kan vi tillsam-
+verksamheten och hur kan vi tillsam-
 och kreativa.
-inneburit. Ibland har det kommit na-        mans nå dit?
-tionella direktiv från en kyrkoledning
-eller samfundsledning som begränsat          Vi har även tagit fram ett koncept;
-möjligheterna till verksamhet. Och          ”Digitalt Kyrkkaffe”, för att inspirera
-ibland har den lokala församlingen gjort egna bedöm- församlingar till gemenskap och reflektion efter att man
-ningar av möjligheten att genomföra verksamhet på deltagit i en digital gudstjänst. Vid fysiska kyrkobesök
-ett säkert sätt relaterat till risken för smittspridning. fortsätter ofta samtalet om gudstjänstens betydelse runt
-Det har gjort att förutsättningar att bedriva folkbild- fikaborden. Men när man deltar framför en skärm blir
-ningsverksamhet har varit väldigt olika mellan de det mer utav envägskommunikation där samtalet ute-
-olika kyrkofamiljerna, de olika kyrkorna och de olika blir. “Digitalt kyrkkaffe” kan fylla den funktionen.
+mans nå dit?
+
+eller samfundsledning som begränsat
+möjligheterna till verksamhet. Och
+ibland har den lokala församlingen gjort egna bedöm-
+ningar av möjligheten att genomföra verksamhet på
+ett säkert sätt relaterat till risken för smittspridning.
+Det har gjort att förutsättningar att bedriva folkbild-
+ningsverksamhet har varit väldigt olika mellan de
+
+olika kyrkofamiljerna, de olika kyrkorna och de olika
 lokala församlingarna. Det har ställt stora krav på
-våra verksamhetsutvecklare att vara lyhörda, kloka På grund av pandemin har många föreläsare och
-och kreativa.                    musiker inom frikyrkan fått mindre att göra. Detta har
-medfört att de, tillsammans med oss på Bilda, kunna
-Folkbildning i frikyrkorna       erbjuda ett flertal digitala studiecirklar. Vi har bland an-
-När restriktionerna gjorde att man inte längre kunde nat genomfört en studiecirkel om att skriva sånger med
-ha samlingar i kyrkan var det många församlingar Michael Jeff Johnson som ledare, samt en studiecirkel
-som började livestreama sina gudstjänster eller spela om att leda lovsång med Mattias Martinson som ledare.
+våra verksamhetsutvecklare att vara lyhörda, kloka
+och kreativa.
+
+Folkbildning i frikyrkorna
+När restriktionerna gjorde att man inte längre kunde
+ha samlingar i kyrkan var det många församlingar
+som började livestreama sina gudstjänster eller spela
 in andakter och lägga ut dem på sociala medier. Ge-
-menskap har alltid varit viktigt inom frikyrkan. Under Konferenser
-våren, då verksamheten digitaliserades, lyckades Samfundens stora sommar- och kyrkokonferenser har
-frikyrkorna inte skapa rum för detta. För folkbildning- under året ställts in eller gjorts om till digitala konfe-
-en är mötet grundläggande. Därför har vi på Bilda lyft renser. Under de konferenser som har varit i form av
-betydelsen av att möta andra, även om det endast kan årsmöten med beslut har Bilda inte varit delaktiga på det
-ske digitalt.                    sätt vi brukar. Detta på grund av att vårt bidrag till dessa
-konferenser främst brukar vara olika kulturarrangemang
-Digital verksamhet               och dessa inte varit genomförbara. När det gäller bland
-En klyscha som kommunicerades under hela 2020 annat Hönökonferensen har vi varit med i samtalet inför
-var: ”Vi ställer inte in. Vi ställer om.” Som med de fles- konferensen för att bidra med folkbildningsperspektivet
-ta klyschor så finns det en viktig poäng, även om det till en digital konferens.
+menskap har alltid varit viktigt inom frikyrkan. Under
+våren, då verksamheten digitaliserades, lyckades
+frikyrkorna inte skapa rum för detta. För folkbildning-
+
+en är mötet grundläggande. Därför har vi på Bilda lyft
+betydelsen av att möta andra, även om det endast kan
+ske digitalt.
+
+Digital verksamhet
+En klyscha som kommunicerades under hela 2020
+var: ”Vi ställer inte in. Vi ställer om.” Som med de fles-
+ta klyschor så finns det en viktig poäng, även om det
 ibland kan uppfattas lite väl käckt. När många sam-
-talsgrupper och cirklar under början av året ställdes Vi planerade att genomföra en konferens i Malmö för
-in så försökte vi att uppmuntra våra cirkelledare att smågruppsledare under hösten. Vi hade hoppats att
+talsgrupper och cirklar under början av året ställdes
+in så försökte vi att uppmuntra våra cirkelledare att
+
+Vi har även tagit fram ett koncept;
+”Digitalt Kyrkkaffe”, för att inspirera
+församlingar till gemenskap och reflektion efter att man
+deltagit i en digital gudstjänst. Vid fysiska kyrkobesök
+fortsätter ofta samtalet om gudstjänstens betydelse runt
+fikaborden. Men när man deltar framför en skärm blir
+det mer utav envägskommunikation där samtalet ute-
+
+blir. “Digitalt kyrkkaffe” kan fylla den funktionen.
+
+På grund av pandemin har många föreläsare och
+musiker inom frikyrkan fått mindre att göra. Detta har
+medfört att de, tillsammans med oss på Bilda, kunna
+erbjuda ett flertal digitala studiecirklar. Vi har bland an-
+nat genomfört en studiecirkel om att skriva sånger med
+Michael Jeff Johnson som ledare, samt en studiecirkel
+om att leda lovsång med Mattias Martinson som ledare.
+
+Konferenser
+Samfundens stora sommar- och kyrkokonferenser har
+under året ställts in eller gjorts om till digitala konfe-
+
+renser. Under de konferenser som har varit i form av
+årsmöten med beslut har Bilda inte varit delaktiga på det
+sätt vi brukar. Detta på grund av att vårt bidrag till dessa
+konferenser främst brukar vara olika kulturarrangemang
+och dessa inte varit genomförbara. När det gäller bland
+annat Hönökonferensen har vi varit med i samtalet inför
+konferensen för att bidra med folkbildningsperspektivet
+till en digital konferens.
+
+Vi planerade att genomföra en konferens i Malmö för
+smågruppsledare under hösten. Vi hade hoppats att
+
 27
 
 <!-- sida 594 -->
 
-kunna genomföra den fysiskt eftersom det såg ut att as fysiskt eller digitalt. När hösten kom och konferen-
-lätta med smittspridning efter sommaren. Men gan- sen genomfördes den 2 oktober blev konferensen både
-ska snart insåg vi att det inte var möjligt att genomfö- digital och fysisk. De medverkande fanns på plats i
-ra konferensen på det sätt som vi tänkt. Vi gjorde då Bodakyrkan medan deltagarna deltog via nätet. En
-om konferensen till att istället vara föreläsningar som av Bildas verksamhetsutvecklare fanns på plats för
-sändes på Facebook. Det var två föreläsningar samt att vara länken mellan de digitala och de som fanns
-ett samtal mellan föreläsarna som lanserades under på plats, och samla in frågor från deltagarna till de
-namnet ”Helig skärpa”. Efter att föreläsningarna medverkande.
-sändes så fanns det även möjlighet att se dessa före-
-läsningar i ett format som paketerats under namnet Jesus till barnen
+kunna genomföra den fysiskt eftersom det såg ut att
+lätta med smittspridning efter sommaren. Men gan-
+ska snart insåg vi att det inte var möjligt att genomfö-
+ra konferensen på det sätt som vi tänkt. Vi gjorde då
+om konferensen till att istället vara föreläsningar som
+sändes på Facebook. Det var två föreläsningar samt
+ett samtal mellan föreläsarna som lanserades under
 
-"Cirkelsnack".                    ”Jesus till barnen” är en ekumenisk konferens för alla
-som på olika sätt är ledare för barngrupper i försam-
-Sommaren                          lingar. I år genomfördes den regionala konferensen i
-En stor del av vår verksamhet under sommaren Göteborg. Den 7 mars samlades 175 barnledare från
-sker i samverkan med våra medlemsorganisationers olika församlingar och samfund för att bli inspirera-
-sommargårdar. Verksamheten på dessa gårdar har på- de och utrustade i sitt viktiga uppdrag att skapa bra
-verkats mycket av pandemin. Det har varit möjligt att verksamhet för barn.
+namnet ”Helig skärpa”. Efter att föreläsningarna
+sändes så fanns det även möjlighet att se dessa före-
+läsningar i ett format som paketerats under namnet
+"Cirkelsnack".
+
+Sommaren
+En stor del av vår verksamhet under sommaren
+sker i samverkan med våra medlemsorganisationers
+sommargårdar. Verksamheten på dessa gårdar har på-
+verkats mycket av pandemin. Det har varit möjligt att
 genomföra viss verksamhet, men i mycket begränsad
-Folkbildning i de ortodoxa kyrkorna
 omfattning och med färre deltagare. Vi är ändå glada
 över att vi tillsammans har haft möjlighet att genom-
-Verksamheten i de ortodoxa kyrkorna har varierat
+
 föra viss god verksamhet som har varit till glädje för
-stort mellan de olika kyrkorna, men även mellan
 deltagarna.
-varje lokal församling. Vissa biskopar har tagit beslut
-om hur den kyrkan ska hantera de restriktioner som
+
 Sommaren är även en tid för läger. Det är scoutläger,
-Folkhälsomyndigheten gått ut med och vilken verk-
 tonårsläger, idrottsläger med flera. En tydlig signal
-samhet som ska ställas in. Andra kyrkor har överlåtit
 som vi uppfattade under våren var att de flesta av
-de besluten till de lokala församlingarna. Det har gjort
 dessa läger skulle ställas in. Några av våra verksam-
-att förutsättningarna att bedriva verksamhet har varit
 hetsutvecklare funderade då tillsammans på vad vi i
-väldigt olika. Sedan har även förmågan och kompe-
 Bilda skulle kunna göra för dessa barn och ungdomar
-tensen att genomföra digital verksamhet varierat stort
 som inte kunde åka på läger. Vi skapade koncep-
-mellan församlingarna. Några har varit snabba på att
 tet ”Hemmaläger”. Det var en bank av aktiviteter
-ha föreläsningar och samtalsgrupper digitalt. Andra
 som kunde genomföras på hemmaplan för den lilla
-har valt att ha föreläsningar i kyrkan, men med ett
 gruppen. Det kunde sedan delas digitalt med andra
-begränsat deltagarantal så länge det har gått.
+
 grupper från andra platser. På det sättet kunde man
 vara på läger hemma, men ändå känna att man träffa-
-Konferenser
 de deltagare från andra ställen och deltog i ett större
-Kvinnokonferensen hölls den 7 mars i den Syrisk
 sammanhang.
+
+Boråsmötet
+Varje år arrangerar församlingar i Borås, som tillhör
+Equmeniakyrkan, en missionskonferens. Detta år var
+temat ”Tänd på mission”. När konferensen planerades
+under våren var det osäkert om den kunde genomför-
+
+28
+
+as fysiskt eller digitalt. När hösten kom och konferen-
+sen genomfördes den 2 oktober blev konferensen både
+digital och fysisk. De medverkande fanns på plats i
+Bodakyrkan medan deltagarna deltog via nätet. En
+av Bildas verksamhetsutvecklare fanns på plats för
+att vara länken mellan de digitala och de som fanns
+på plats, och samla in frågor från deltagarna till de
+
+medverkande.
+Jesus till barnen
+
+”Jesus till barnen” är en ekumenisk konferens för alla
+som på olika sätt är ledare för barngrupper i försam-
+lingar. I år genomfördes den regionala konferensen i
+Göteborg. Den 7 mars samlades 175 barnledare från
+olika församlingar och samfund för att bli inspirera-
+de och utrustade i sitt viktiga uppdrag att skapa bra
+verksamhet för barn.
+
+Folkbildning i de ortodoxa kyrkorna
+
+Verksamheten i de ortodoxa kyrkorna har varierat
+stort mellan de olika kyrkorna, men även mellan
+varje lokal församling. Vissa biskopar har tagit beslut
+om hur den kyrkan ska hantera de restriktioner som
+Folkhälsomyndigheten gått ut med och vilken verk-
+samhet som ska ställas in. Andra kyrkor har överlåtit
+
+de besluten till de lokala församlingarna. Det har gjort
+att förutsättningarna att bedriva verksamhet har varit
+väldigt olika. Sedan har även förmågan och kompe-
+tensen att genomföra digital verksamhet varierat stort
+mellan församlingarna. Några har varit snabba på att
+ha föreläsningar och samtalsgrupper digitalt. Andra
+har valt att ha föreläsningar i kyrkan, men med ett
+begränsat deltagarantal så länge det har gått.
+
+Konferenser
+Kvinnokonferensen hölls den 7 mars i den Syrisk
 Ortodoxa Församlingen i Borås och den genomfördes
 precis innan alla begräsningar kom. Temat för konfe-
-Boråsmötet
+
 rensen var ”Psykisk ohälsa”. Tre föreläsare bidrog till
-Varje år arrangerar församlingar i Borås, som tillhör
 innehållet och temat genom att ge kunskap utifrån sitt
-Equmeniakyrkan, en missionskonferens. Detta år var
 perspektiv. Föreläsarna var Charlotte Hansson som
-temat ”Tänd på mission”. När konferensen planerades
 är psykolog, Jennifer Samuelsson som är hjärnkirurg
-under våren var det osäkert om den kunde genomför-
 samt Ephrem Hanna som är präst. Dagen varvades
-28
 
 <!-- sida 595 -->
 
-med föreläsningar och samtal i mindre grupper. De 40 vi hade haft konserten i en kyrka. Även om upplevelsen
-deltagarna uppskattade möjligheten att tillsammans inte blev densamma kunde vi glädjas över allt som de
-reflektera över ett viktigt tema. tidigare årens konserter fått betyda. Det blev trots allt ett
-värdigt 10-årsjubileum.
+med föreläsningar och samtal i mindre grupper. De 40
+deltagarna uppskattade möjligheten att tillsammans
+reflektera över ett viktigt tema.
+
 En helg i oktober genomfördes en konferens för de
-bysantinska ortodoxa kyrkorna med temat: ”Ortodox Ikonmålarkurs
-mission i Sverige.” Huvudföreläsare var fader Mikael Det har under många år uttryckts en önskan om en
-Fälthammar som tillsammans med flera andra före- ikonmålarkurs. Glädjande nog kunde vi bjuda in till en
-läsare, på ett kunnigt och inspirerande sätt, lotsade kurs och genomföra den med restriktioner och avstånd
-deltagarna genom den ortodoxa teologin. Deltagarna mellan deltagarna. Vi kunde inte ta emot så många del-
+bysantinska ortodoxa kyrkorna med temat: ”Ortodox
+mission i Sverige.” Huvudföreläsare var fader Mikael
 
-fanns med både i den Serbisk Ortodoxa Kyrkan i Kor- tagare som vi önskat, men de som var med uttryckte en
-tedala samt framför sina datorer då föreläsningarna stor tacksamhet över möjligheten att lära sig ikonmåleri.
-även sändes över nätet.          Kursen leddes av Dusan Oparnica och hölls i den Serbisk
-Ortodoxa Kyrkan.
+Fälthammar som tillsammans med flera andra före-
+läsare, på ett kunnigt och inspirerande sätt, lotsade
+deltagarna genom den ortodoxa teologin. Deltagarna
+fanns med både i den Serbisk Ortodoxa Kyrkan i Kor-
+tedala samt framför sina datorer då föreläsningarna
+även sändes över nätet.
+
 Digital omställning
-De två största verksamheterna inom den ortodoxa Eritreansk satsning
-folkbildningen är föreläsningar och samtalsgrupper. Vi har under året påbörjat en satsning för att starta upp
-Båda dessa verksamheter har varit möjliga att genom- och utveckla folkbildningsverksamhet tillsammans med
-föra digitalt. Vissa församlingar har varit snabba i sin de eritreanska ortodoxa församlingarna. Vi ser att det
-digitala omställning, medan det i andra sammanhang finns ett stort intresse hos de eritreanska församlingarna
-varit svårare. En anledning är att människor har för samverkan med oss i Bilda men har hittills inte haft
-värderat den fysiska gemenskapen högt och försam- resurser att utveckla det på ett bra sätt. Under hösten
-lingar då har anpassat verksamheten så att den ske har vi anställt en verksamhetsutvecklare som själv har
+De två största verksamheterna inom den ortodoxa
+folkbildningen är föreläsningar och samtalsgrupper.
+Båda dessa verksamheter har varit möjliga att genom-
+föra digitalt. Vissa församlingar har varit snabba i sin
+digitala omställning, medan det i andra sammanhang
 
-på ett smittsäkert sätt med begräsningar. En annan bakgrund i Eritrea för att få igång detta arbete på ett
-anledning till att det varit svårare att genomföra verk- bättre sätt. Vi ser redan frukten av det, men kommer att
-samheten digitalt är brist på kunskap om de tekniska se ännu mer under nästkommande år.
+varit svårare. En anledning är att människor har
+värderat den fysiska gemenskapen högt och försam-
+lingar då har anpassat verksamheten så att den ske
+på ett smittsäkert sätt med begräsningar. En annan
+anledning till att det varit svårare att genomföra verk-
+samheten digitalt är brist på kunskap om de tekniska
 redskap som behövs. Vi har då erbjudit kurser i Zoom
-och livestreaming vilket har varit mycket uppskattat. Folkbildning i den Katolska Kyrkan
-Den största delen av folkbildningen i Katolska Kyrkan
-Julkonserten                     är kateketundervisning. Det är olika åldersgrupper som
-Vi har under många år arrangerat en julkonsert som fördjupar sig i den katolska tron. Det är främst verksam-
-samlat körer från de flesta olika ortodoxa kyrkotra- het som riktar sig till barn och unga. Vi har ett väl ut-
-ditionerna. Detta år skulle den traditionella julkon- vecklat samarbete med Katolska Pedagogiska Nämnden
-serten fira 10-årsjubileum. Vi hade planerat att göra (KPN) om hur vi kan stötta och fortbilda alla ledare som
-något extra, men på grund av pandemin fick vi tänka finns i den här verksamheten. KPN har bra studiemate-
-om. Det gick inte att göra en extra stor och påkostad rial och genomför även regelbundna utbildningsinsatser
+och livestreaming vilket har varit mycket uppskattat.
 
-konsert detta år. Det vi gjorde var att producera en för dessa ledare. Vi i Bilda genomför dessa utbildningar
-film som både var en tillbakablick från tidigare års tillsammans med KPN samt att vi har regelbunden kon-
-konserter, intervjuer med deltagare som varit med takt med alla ledare för att stötta dem i deras uppdrag.
+Julkonserten
+Vi har under många år arrangerat en julkonsert som
+samlat körer från de flesta olika ortodoxa kyrkotra-
+ditionerna. Detta år skulle den traditionella julkon-
+
+serten fira 10-årsjubileum. Vi hade planerat att göra
+något extra, men på grund av pandemin fick vi tänka
+om. Det gick inte att göra en extra stor och påkostad
+konsert detta år. Det vi gjorde var att producera en
+film som både var en tillbakablick från tidigare års
+konserter, intervjuer med deltagare som varit med
 samt nyinspelningar av hymner från några körer.
-Allt detta samanställdes och klipptes ihop till en film I samband med pandemin så beslutade biskopen i Ka-
-som sedan sändes både på Facebook och Youtube. På tolska Kyrkan att denna verksamhet skulle pausas vilket
-det sättet fick konserten en långt större publik än om medförde att den största delen av folkbildningsverksam-
+Allt detta samanställdes och klipptes ihop till en film
+som sedan sändes både på Facebook och Youtube. På
+det sättet fick konserten en långt större publik än om
+
+vi hade haft konserten i en kyrka. Även om upplevelsen
+inte blev densamma kunde vi glädjas över allt som de
+tidigare årens konserter fått betyda. Det blev trots allt ett
+värdigt 10-årsjubileum.
+
+Ikonmålarkurs
+Det har under många år uttryckts en önskan om en
+
+ikonmålarkurs. Glädjande nog kunde vi bjuda in till en
+kurs och genomföra den med restriktioner och avstånd
+mellan deltagarna. Vi kunde inte ta emot så många del-
+tagare som vi önskat, men de som var med uttryckte en
+stor tacksamhet över möjligheten att lära sig ikonmåleri.
+Kursen leddes av Dusan Oparnica och hölls i den Serbisk
+Ortodoxa Kyrkan.
+
+Eritreansk satsning
+Vi har under året påbörjat en satsning för att starta upp
+och utveckla folkbildningsverksamhet tillsammans med
+de eritreanska ortodoxa församlingarna. Vi ser att det
+finns ett stort intresse hos de eritreanska församlingarna
+
+för samverkan med oss i Bilda men har hittills inte haft
+resurser att utveckla det på ett bra sätt. Under hösten
+har vi anställt en verksamhetsutvecklare som själv har
+bakgrund i Eritrea för att få igång detta arbete på ett
+bättre sätt. Vi ser redan frukten av det, men kommer att
+se ännu mer under nästkommande år.
+
+Folkbildning i den Katolska Kyrkan
+Den största delen av folkbildningen i Katolska Kyrkan
+är kateketundervisning. Det är olika åldersgrupper som
+fördjupar sig i den katolska tron. Det är främst verksam-
+het som riktar sig till barn och unga. Vi har ett väl ut-
+vecklat samarbete med Katolska Pedagogiska Nämnden
+
+(KPN) om hur vi kan stötta och fortbilda alla ledare som
+finns i den här verksamheten. KPN har bra studiemate-
+rial och genomför även regelbundna utbildningsinsatser
+för dessa ledare. Vi i Bilda genomför dessa utbildningar
+tillsammans med KPN samt att vi har regelbunden kon-
+takt med alla ledare för att stötta dem i deras uppdrag.
+
+I samband med pandemin så beslutade biskopen i Ka-
+tolska Kyrkan att denna verksamhet skulle pausas vilket
+medförde att den största delen av folkbildningsverksam-
 
 29
 
@@ -21612,88 +24097,132 @@ svår att genomföra digitalt på grund av att barnen ofta
 inte själva hade tillgång till egen dator. Det var även
 svårt för ledarna att genomföra verksamheten digitalt
 eftersom studiematerialet som fanns inte var anpassat
-Det positiva energiutbytet
 till digital verksamhet.
-var viktigt för mig
+
 Kataketundervisningen startade upp igen efter
-sommaren när smittspridningen avtog. Men när Jag heter Grzegorz Kraska och har varit
-deltagare i Inzoomat som KPN tillsammans
+sommaren när smittspridningen avtog. Men när
 smittspridningen under hösten återigen tilltog så
-med Bilda erbjuder. Det är en halvtimmes
 avslutades verksamheten igen. Vi har trots det kunnat
-föreläsning följt av samtal. Förutom att det
 genomföra viss kateketundervisning även om den
-varit mycket intressant, så var det viktigt för
-varit mycket mindre i omfattning.        mig att vi kunde se varandra och delta i fråge-
-stunden. Det positiva energiutbytet, strålan-
-Ledarstöd                                de glädje från deltagarna var något mycket
-viktigt för mig som jag skulle gått miste om,
+varit mycket mindre i omfattning.
+
+Ledarstöd
 Våra verksamhetsutvecklare som arbetat med den
-om jag inte kopplat upp mig.
 katolska folkbildningsverksamheten har haft ett
 utmanande år. Den viktigaste uppgiften har varit att
-Under våren 2020 deltog jag även i Leico Divi-
-ha kontakt med cirkelledare och kontaktpersoner na, en studiecirkel via Teams. Vi behövde först
-inom församlingarna. Det har inte varit lätt att vara lära oss det tekniska, innan vi kunde sätta
-ideell ledare och hålla modet uppe hela tiden när man igång med ämnet på riktigt. Våra Teams-
-möten var byggda på så sätt att vi först titta-
+ha kontakt med cirkelledare och kontaktpersoner
+
+inom församlingarna. Det har inte varit lätt att vara
+ideell ledare och hålla modet uppe hela tiden när man
 inte vet från en vecka till en annan hur verksamheten
-de tillsammans på ett föredrag från YouTube
 kommer att bli. Vi har även för denna målgrupp
-och sedan samtalade vi med varandra.
 erbjudit kurser i digitala redskap som Zoom och i li-
-Det var värdefullt utbyte för mig och tur att
-vestreaming. Vi har även genomfört ett flertal ledarut- vi kunde göra detta via datorn. Videomöte
-bildningar i samverkan med lokala församlingar. ersätter aldrig det fysiska mötet men är ett
-bra alternativ om det inte går att mötas på ett
-Adventskalender                          annat sätt.
+vestreaming. Vi har även genomfört ett flertal ledarut-
+bildningar i samverkan med lokala församlingar.
+
+Adventskalender
 Under december skapade Iwona Dekajlo som är verk-
-Mitt deltagande i Lecio Divina studiecirkeln
 samhetsutvecklare en adventskalender i samverkan
-har ännu mera stärkt mitt intresse för Bibeln
-med S:t Thomas Katolska församling i Lund. Det var så att jag har skrivit in mig till en Bibelkurs på
-en filmbaserad kalender som sändes varje dag från folkhögskolan i Göteborg. Största delen av ut-
-den 1-25 december. Varje dag hade ett tema som be- bildningen sker just nu via datorn och detta är
-absolut inget att jämföra med den fysiska när-
+med S:t Thomas Katolska församling i Lund. Det var
+en filmbaserad kalender som sändes varje dag från
+
+den 1-25 december. Varje dag hade ett tema som be-
 lystes med både humor och värme. Dessa korta filmer
-varon. Dock är den stora poängen i det hela
 har sedan kunnat användas som grund för samtal i
-är att jag utan resor och allt vad det innebär
 mindre och större grupper.
-på ett enklare sätt kan delta i föreläsningar
-och fullfölja utbildningen. Jag sätter mig bara
-framför datorn och är redan inne.
+
 Att ungdomsgruppen kunnat fortsätta
 mötas digitalt, trots panemin har varit väldigt
+
 viktigt för gruppdynamiken. Det tar tid att
 bygga upp en gemenskap där deltagarna allt
 mer bjuder på och delar med sig av sig själva.
 30
 Ledare för katolsk konfirmationsundervisning
 
+Det positiva energiutbytet
+var viktigt för mig
+
+Jag heter Grzegorz Kraska och har varit
+deltagare i Inzoomat som KPN tillsammans
+med Bilda erbjuder. Det är en halvtimmes
+föreläsning följt av samtal. Förutom att det
+varit mycket intressant, så var det viktigt för
+mig att vi kunde se varandra och delta i fråge-
+stunden. Det positiva energiutbytet, strålan-
+de glädje från deltagarna var något mycket
+viktigt för mig som jag skulle gått miste om,
+om jag inte kopplat upp mig.
+
+Under våren 2020 deltog jag även i Leico Divi-
+na, en studiecirkel via Teams. Vi behövde först
+lära oss det tekniska, innan vi kunde sätta
+igång med ämnet på riktigt. Våra Teams-
+möten var byggda på så sätt att vi först titta-
+de tillsammans på ett föredrag från YouTube
+och sedan samtalade vi med varandra.
+Det var värdefullt utbyte för mig och tur att
+vi kunde göra detta via datorn. Videomöte
+ersätter aldrig det fysiska mötet men är ett
+bra alternativ om det inte går att mötas på ett
+annat sätt.
+Mitt deltagande i Lecio Divina studiecirkeln
+har ännu mera stärkt mitt intresse för Bibeln
+så att jag har skrivit in mig till en Bibelkurs på
+folkhögskolan i Göteborg. Största delen av ut-
+bildningen sker just nu via datorn och detta är
+absolut inget att jämföra med den fysiska när-
+varon. Dock är den stora poängen i det hela
+är att jag utan resor och allt vad det innebär
+på ett enklare sätt kan delta i föreläsningar
+och fullfölja utbildningen. Jag sätter mig bara
+framför datorn och är redan inne.
+
 <!-- sida 597 -->
 
-Nödlösningar                             Lyckades nå publik
-bättre än ursprungsidén                  utan teknikvana
+Nödlösningar
+bättre än ursprungsidén
 
-Jag heter Rebecca och jobbar i Malmö med Jag heter Josefin och jobbar i Göteborg.
-folkbildning i frikyrkorna. Jag är så glad för Några kyrkor i Borås bad redan i våras Bilda
-alla smågrupper i församlingar runtom i Skå- om hjälp för en plan-B, om deras årliga mis-
-ne. De delar livet och tron med varandra vecka sionskonferens skulle behöva ställas om. Och
-efter vecka - en fast punkt i tillvaron som i oktober gick den av stapeln, denna gång helt
-kanske behövs mer än någonsin. Vi på Bilda digital för deltagarna. Med hjälp av ett par bra
-brukar varje år bjuda in dessa grupper till en mobilkameror och ett bildmixerprogram kun-
-ledarkonferens, men i år fick vi tänka om. Vi de seminarierna sändas på youtube. Reflek-
-spelade in en serie med undervisning på te- tioner och frågor från publiken kunde skickas
-mat "Helig Skärpa - Andens verk i smågrupp- via sms. Jag tog emot deltagarnas frågor och
-ssamtalen", som alla smågrupper kan ta del lyfte deras röster till talarna under de olika
-av när de vill via Facebook. Det visade sig bli passen. Genom enkelt och begripligt upplägg,
-ett upplägg som uppskattades av många. En som krävde så få klick som möjligt, lyckades
-konferens som skulle ha nått en liten grupp vi nå en äldre publik utan stor teknikvana.
-blev nu ett material som kan användas av hur Och genom att digitalisera konferensen kunde
-många som helst. Ibland kan våra nödlösning- dessutom än fler i landet vara med och inspi-
-ar bli bättre än ursprungsidén!          reras till nya vägar för mission.
-Text från Bilda Sydvästs nyhetsbrev oktober 2020 Text från Bilda Sydvästs nyhetsbrev oktober 2020
+Jag heter Rebecca och jobbar i Malmö med
+folkbildning i frikyrkorna. Jag är så glad för
+alla smågrupper i församlingar runtom i Skå-
+ne. De delar livet och tron med varandra vecka
+efter vecka - en fast punkt i tillvaron som
+kanske behövs mer än någonsin. Vi på Bilda
+brukar varje år bjuda in dessa grupper till en
+ledarkonferens, men i år fick vi tänka om. Vi
+spelade in en serie med undervisning på te-
+mat "Helig Skärpa - Andens verk i smågrupp-
+ssamtalen", som alla smågrupper kan ta del
+av när de vill via Facebook. Det visade sig bli
+ett upplägg som uppskattades av många. En
+konferens som skulle ha nått en liten grupp
+blev nu ett material som kan användas av hur
+många som helst. Ibland kan våra nödlösning-
+ar bli bättre än ursprungsidén!
+Text från Bilda Sydvästs nyhetsbrev oktober 2020
+
+Lyckades nå publik
+utan teknikvana
+
+Jag heter Josefin och jobbar i Göteborg.
+Några kyrkor i Borås bad redan i våras Bilda
+om hjälp för en plan-B, om deras årliga mis-
+sionskonferens skulle behöva ställas om. Och
+i oktober gick den av stapeln, denna gång helt
+digital för deltagarna. Med hjälp av ett par bra
+mobilkameror och ett bildmixerprogram kun-
+de seminarierna sändas på youtube. Reflek-
+tioner och frågor från publiken kunde skickas
+via sms. Jag tog emot deltagarnas frågor och
+lyfte deras röster till talarna under de olika
+passen. Genom enkelt och begripligt upplägg,
+som krävde så få klick som möjligt, lyckades
+vi nå en äldre publik utan stor teknikvana.
+Och genom att digitalisera konferensen kunde
+dessutom än fler i landet vara med och inspi-
+reras till nya vägar för mission.
+Text från Bilda Sydvästs nyhetsbrev oktober 2020
 
 En kväll om att fånga målgruppen på sociala medier
 
@@ -21711,31 +24240,50 @@ nadseffektivt och med relativt kort framförhåll.
 
 <!-- sida 598 -->
 
-Teknikhjälp                              Delar livet
+Teknikhjälp
+viktigt för bra samtal
 
-viktigt för bra samtal                   i vandringsssamtal
-
-Jag heter Iwona och jobbar med Katolsk   Mitt namn är Viola och jag jobbar som verk-
-bildning och kultur i Malmö. Något jag har samhetsutvecklare för frikyrkorna i Göteborg.
-uppskattat under den här tiden är samarbetet Jag blir så glad av att se Bönegruppen i
-med KPN (Katolska Pedagogiska Nämnden)   Bua pingstförsamling ställa om sina träffar
-där vi tillsammans tagit fram konceptet  till vandringssamtal för att anpassa verk-
-Inzoomat- Katolsk folkbildning online. Det är samheten under pandemin. De promenerar,
-en halvtimmes digital föreläsning följt av sam- samtalar om tro och delar livet tillsammans.
-tal med föreläsaren. Detta innebär att du kan När möjligheten inte finns att träffas inomhus,
-delta ”live” var du än är i landet. Men du kan tänker de nytt och träffas på andra sätt- i
-även ta del av föreläsningen i efterhand, när denna tid när vi behöver varandra som mest.
-det passar dig. Det är intressanta och folkbil- För att vara ute är kläder efter väder en bra
-dande ämnen. Från Bildas håll är vi alltid med utgångspunkt! Så tänker även exempelvis
-i början och berättar hur tekniken fungerar scouterna i Equmenia Bergum som har alla
-och ser till att alla får lov att ställa frågor kring sina scoutkvällar utomhus för att kunna fort-
-det de är osäkra på, t ex hur man stänger på sätta ses även när verksamheten anpassas
-och av mick och kamera. Vi hjälper även till att under pandemin.
+Jag heter Iwona och jobbar med Katolsk
+bildning och kultur i Malmö. Något jag har
+uppskattat under den här tiden är samarbetet
+med KPN (Katolska Pedagogiska Nämnden)
+där vi tillsammans tagit fram konceptet
+Inzoomat- Katolsk folkbildning online. Det är
+en halvtimmes digital föreläsning följt av sam-
+tal med föreläsaren. Detta innebär att du kan
+delta ”live” var du än är i landet. Men du kan
+även ta del av föreläsningen i efterhand, när
+det passar dig. Det är intressanta och folkbil-
+dande ämnen. Från Bildas håll är vi alltid med
+i början och berättar hur tekniken fungerar
+och ser till att alla får lov att ställa frågor kring
+det de är osäkra på, t ex hur man stänger på
+och av mick och kamera. Vi hjälper även till att
 hålla koll på chatten under föreläsningen. Det
-Text från Bilda Sydvästs nyhetsbrev oktober 2020
 är små, men viktiga saker för att alla deltagare
 ska känna sig bekväma, och för att samtalet
 ska flyta på bra.
+Text från Bilda Sydvästs nyhetsbrev oktober 2020
+
+Delar livet
+i vandringsssamtal
+
+Mitt namn är Viola och jag jobbar som verk-
+samhetsutvecklare för frikyrkorna i Göteborg.
+Jag blir så glad av att se Bönegruppen i
+Bua pingstförsamling ställa om sina träffar
+till vandringssamtal för att anpassa verk-
+samheten under pandemin. De promenerar,
+samtalar om tro och delar livet tillsammans.
+När möjligheten inte finns att träffas inomhus,
+tänker de nytt och träffas på andra sätt- i
+denna tid när vi behöver varandra som mest.
+För att vara ute är kläder efter väder en bra
+utgångspunkt! Så tänker även exempelvis
+scouterna i Equmenia Bergum som har alla
+sina scoutkvällar utomhus för att kunna fort-
+sätta ses även när verksamheten anpassas
+under pandemin.
 Text från Bilda Sydvästs nyhetsbrev oktober 2020
 
 Vi vill fortsätta utveckla vår verksamhet tillsammans med Bilda
@@ -21796,8 +24344,36 @@ per vilket gör att fler kan komma tilltals och få prata med varandra.
 
 <!-- sida 600 -->
 
+Man lärde sig mycket
+om livet
+
+Konfirmation i S:t Johannes församling i Ryd
+i Skövde
+
+Ledare Georgettte Yacob
+Vi lyckades genoföra många av gångerna
+fysiskt till konfirmandernas stora glädje. De
+ville så gärna fortsätta i helgrupp och träffas
+fysiskt. Barnen kände ett stort behov av något
+normalt liv under pandemin.
+
+Bilda var ett stort stöd under pandemin och
+bidrog med tips och alternativa lösningar.
+Konfirmand Ibrahim Aychouch
+Det var så roligt när vi träffades igen efter
+upehållet. Att träffa alla konfirmander och
+känna att livet var normalt under oroliga tider.
+För mig har det varit jätteviktigt att lära mig
+mer om min tro och hur det är att leva som
+kristen i dagens samhälle. Det var också roligt
+att lära känna nya kompisar och man lärde sig
+mycket om livet. Vi hade jätteroligt!
+
+34
+
 Jag kände mig inte så
 avskuren från kyrkan
+
 och samhället
 
 Att få mötas i cirkel under pandemin har
@@ -21810,97 +24386,110 @@ värt för mig. Jag kände mig inte så avskuren
 från kyrkan och samhället som jag med störs-
 ta sannolikhet skulle ha gjort annars.
 Jag har deltagit i fantastiska digitala föreläs-
-Man  lärde sig mycket
 ningar som letts av ryska präster. Vi lär oss
-om livet                                 ständigt nya saker och jag ser fram emot tis-
+ständigt nya saker och jag ser fram emot tis-
 dagarna varje vecka. Jag har också varit med
 i diskussionsgrupper på fredagar och så våra
-Konfirmation i S:t Johannes församling i Ryd
 digitala körövningar. Det har kännts viktigt för
-i Skövde
 mig att hålla kontakten med mina körmedlem-
 mar. Förutom att upprätthålla sången och lära
-Ledare Georgettte Yacob
 mig nya hymner, har det kännts viktigt för mig
-Vi lyckades genoföra många av gångerna
 att hålla kontakten med mina körmedlemmar.
-fysiskt till konfirmandernas stora glädje. De
 Det har betytt mycket rent socialt! Att kunna
-ville så gärna fortsätta i helgrupp och träffas
 se mina vänner i kören med hjälp av Zoom fick
-fysiskt. Barnen kände ett stort behov av något
 mig att känna mig som en del av kören. Även
-normalt liv under pandemin.
 humorn hos kören fick mig att känna mig
 piggare.
-Bilda var ett stort stöd under pandemin och
-bidrog med tips och alternativa lösningar.
 Cirkeln med föreläsningar av Fader Sergej har
 verkligen varit utvecklande och stärkande.
-Konfirmand Ibrahim Aychouch
 Jag har drömt om en sådan fantastisk "sön-
-Det var så roligt när vi träffades igen efter
 dagsskola" tidigare. Att få lära sig mer om Bi-
-upehållet. Att träffa alla konfirmander och
 beln och kyrkliga festdagar och diskutera tron
-känna att livet var normalt under oroliga tider.
 med andra likasinnade, istället för att bara
-För mig har det varit jätteviktigt att lära mig
 sitta isolerad hemma, har givit mig styrka.
-mer om min tro och hur det är att leva som
 Jag är så tacksam för att ha fått möjlighet att
-kristen i dagens samhälle. Det var också roligt
 kunna delta och hoppas innerligt att cirklarna
-att lära känna nya kompisar och man lärde sig
 fortsätter!
-mycket om livet. Vi hade jätteroligt!
 Elena Kotjerba, deltagare i Ryska Ortodoxa Kyrko-
 församlingen i Göteborg
-34
 
 <!-- sida 601 -->
 
-Nedslag              i omställningen
+Nedslag             i  omställningen
 
 Charlotte Härnstam, Viola Angervall och Eleonore Holmberg är verksamhetsutvecklare för folkbildning i frikyrkorna i Göteborg.
 
-Hur har ni gjort för att hjälpa kyrkor i Göteborg att an- högtalare, eller för en promenad utomhus. Det är så viktigt
-passa sin folkbildningsverksamhet under pandemin? att inte kontakterna bryts bara för att allt inte ser ut som
-vanligt. Tids nog blir det möjligt att ses för att lära nytt och
-Många av de kyrkor och församlingar vi samarbetar med fördjupa och då måste vägarna vara korta till varandra.
+Hur har ni gjort för att hjälpa kyrkor i Göteborg att an-
+passa sin folkbildningsverksamhet under pandemin?
+
+Många av de kyrkor och församlingar vi samarbetar med
 har varit på tårna för att skapa alternativa mötesplatser.
-De har verkligen uppmanat till att höras och ses på nya Guidning via bilda.nu
-sätt, och funnits där för människor i en sån utmanande tid, Under våren byggde vi upp olika samlingssidor på vår
-säger Charlotte.                  hemsida för stöd och guidning, som vi kunde hänvisa till
-i samtal med ledare. Höstterminen präglades allt mer av
-Olika faser                       nästa steg i att verkligen komma igång med det digitala på
-Man kan se det som att vi under året har gått igenom olika bredare front. Där har Bildas snabbkurser i olika digitala
-faser. Till en början vid pandemins utbrott i mars var vi nog verktyg och sätt att mötas digitalt varit en betydelsefull del
-många som närmast drabbades av panik. Man visste ing- för många ledare i att bli stärkta i sitt uppdrag i församling-
-enting om viruset, vad det innebar för verksamheten, hur en.
+De har verkligen uppmanat till att höras och ses på nya
+sätt, och funnits där för människor i en sån utmanande tid,
+säger Charlotte.
+Olika faser
+Man kan se det som att vi under året har gått igenom olika
+faser. Till en början vid pandemins utbrott i mars var vi nog
+många som närmast drabbades av panik. Man visste ing-
+enting om viruset, vad det innebar för verksamheten, hur
 länge det skulle pågå eller hur man skulle tänka framåt. Det
-flera församlingar tog sig an som första steg var att ställa Flexibilitet och kreativitet
-om gudstjänsten. Med fullt fokus på det lades till att börja Det har varit fascinerande att se hur församlingar har ställt
-med studiecirkelarbetet lite åt sidan. om sättet att vara kyrka under året. Så många ideella led-
-are som ställt upp och varit otroligt flexibla och kreativa för
-Tända en gnista                   att se till att både den andliga och sociala biten av att vara
-I samtal med ledare och anställda i kyrkor fick vi ibland kyrka har kunnat fortsätta. En del saker har gjorts i digital
-vara de som kunde föreslå alternativa samtalsvägar så som form men också fysiskt på ett smittsäkert sätt, inte minst
-Teams, Zoom och Messenger. I det kunde Bilda få hjälpa för barn och ungdomar. Scoutpatruller har varit tappra och
-till att väcka tanken på att det faktiskt finns vägar till att kört på med sina träffar i ur och skur under hela året, och
-mötas, för dem som inte varit bekanta med dessa verktyg även annan verksamhet för unga har så långt det varit möj-
-innan. Som verksamhetsutvecklare har jag också fått vara ligt fortsatt utifrån mindre grupper. De har verkligen inte
-behjälplig i flera personers allra första videosamtal. Ledare gett upp i första taget utan varit extremt uthålliga.
+flera församlingar tog sig an som första steg var att ställa
+om gudstjänsten. Med fullt fokus på det lades till att börja
+med studiecirkelarbetet lite åt sidan.
+
+Tända en gnista
+I samtal med ledare och anställda i kyrkor fick vi ibland
+vara de som kunde föreslå alternativa samtalsvägar så som
+Teams, Zoom och Messenger. I det kunde Bilda få hjälpa
+till att väcka tanken på att det faktiskt finns vägar till att
+mötas, för dem som inte varit bekanta med dessa verktyg
+innan. Som verksamhetsutvecklare har jag också fått vara
+behjälplig i flera personers allra första videosamtal. Ledare
 har kunnat ringa upp mig för att få testa hur det fungerar,
-för att sedan känna sig mera trygga i att fortsätta på egen Många telefonsamtal
-hand. Det känns fint att få vara med och föreslå möjligheter När jag inte har kunnat möta ledare fysiskt som brukligt
-som kan tända en gnista, säger Viola. har det istället blivit många telefonsamtal. Många vittnar
-om svårigheten i att planera framåt utifrån att man inte
-En stund av social gemenskap      vetat vart pandemin tar vägen eller hur omständigheterna
-Det finns de grupper där det varit svårt att bedriva stu- ska se ut kommande tid. Trots det har man hela tiden
-dieverksamhet utifrån rådande omständigheter, men där lyckats trolla med knäna. Det är så imponerande, säger
-man i alla fall har mötts för en stund av social gemenskap. Eleonore.
+för att sedan känna sig mera trygga i att fortsätta på egen
+hand. Det känns fint att få vara med och föreslå möjligheter
+som kan tända en gnista, säger Viola.
+En stund av social gemenskap
+Det finns de grupper där det varit svårt att bedriva stu-
+dieverksamhet utifrån rådande omständigheter, men där
+man i alla fall har mötts för en stund av social gemenskap.
 Om det så är bara för ett gemensamt telefonsamtal med
+
+högtalare, eller för en promenad utomhus. Det är så viktigt
+att inte kontakterna bryts bara för att allt inte ser ut som
+vanligt. Tids nog blir det möjligt att ses för att lära nytt och
+fördjupa och då måste vägarna vara korta till varandra.
+
+Guidning via bilda.nu
+Under våren byggde vi upp olika samlingssidor på vår
+hemsida för stöd och guidning, som vi kunde hänvisa till
+i samtal med ledare. Höstterminen präglades allt mer av
+nästa steg i att verkligen komma igång med det digitala på
+bredare front. Där har Bildas snabbkurser i olika digitala
+verktyg och sätt att mötas digitalt varit en betydelsefull del
+för många ledare i att bli stärkta i sitt uppdrag i församling-
+en.
+Flexibilitet och kreativitet
+Det har varit fascinerande att se hur församlingar har ställt
+om sättet att vara kyrka under året. Så många ideella led-
+are som ställt upp och varit otroligt flexibla och kreativa för
+att se till att både den andliga och sociala biten av att vara
+kyrka har kunnat fortsätta. En del saker har gjorts i digital
+form men också fysiskt på ett smittsäkert sätt, inte minst
+för barn och ungdomar. Scoutpatruller har varit tappra och
+kört på med sina träffar i ur och skur under hela året, och
+även annan verksamhet för unga har så långt det varit möj-
+ligt fortsatt utifrån mindre grupper. De har verkligen inte
+gett upp i första taget utan varit extremt uthålliga.
+Många telefonsamtal
+När jag inte har kunnat möta ledare fysiskt som brukligt
+har det istället blivit många telefonsamtal. Många vittnar
+om svårigheten i att planera framåt utifrån att man inte
+vetat vart pandemin tar vägen eller hur omständigheterna
+ska se ut kommande tid. Trots det har man hela tiden
+lyckats trolla med knäna. Det är så imponerande, säger
+Eleonore.
+
 35
 
 <!-- sida 602 -->
@@ -21908,127 +24497,221 @@ Om det så är bara för ett gemensamt telefonsamtal med
 Anneli Bergsviker och Yvonne Johansson; verksamhetsutvecklare för frikyrkorna i Skaraborg och Sjuhärad. Iwona Dekajlo; verksamhetsutvecklare katolska kyrkan.
 Canet Hanna; verksamhetsutvecklare ortodoxa kyrkorna
 
-Hur har ni gjort för att hjälpa kyrkor i Sjuhärad och Jag fick tack-sms redan under våren för de idéer jag givit
-Skara-området att ställa om sin folkbildningsverksamet? kring att få ut gudstjänster och samlingar digitalt. Genom
-tät dialog med ledare och kontaktpersoner har jag kunnat
-Vi samarbetar med många små församlingar på lands- känna av behov och tipsa om rätt saker i rätt tid, säger
-bygden, med mestadels äldre medlemmar. Där skiljer sig Yvonne. Även om mycket folkbildningsverksamhet blev
-förutsättningarna ganska mycket åt jämfört med större inställt under året såddes många frön, och vi fick odla
-stadsförsamlingar vad gäller tillgång till och kunskap om relationer som kommer leda fram till fler saker framöver.
-teknik.                           Ett konkret exempel var en kurs i marknadsföring via
-sociala medier som vi fick genomföra i slutet av året för ett
-God hälsa i en svår tid           församlingsnätverk utifrån uttryckt behov. Det vill vi gärna
-Jag har haft kontakt med en del samtalsgrupper som arbeta vidare på.
+Hur har ni gjort för att hjälpa kyrkor i Sjuhärad och
+Skara-området att ställa om sin folkbildningsverksamet?
+
+Vi samarbetar med många små församlingar på lands-
+bygden, med mestadels äldre medlemmar. Där skiljer sig
+förutsättningarna ganska mycket åt jämfört med större
+stadsförsamlingar vad gäller tillgång till och kunskap om
+teknik.
+God hälsa i en svår tid
+Jag har haft kontakt med en del samtalsgrupper som
 flyttat ut sina träffar, säger Yvonne. De har varit otroligt
-måna om att göra det smittsäkert och gått i små grupper. Utmaningar
-För varje tillfälle har de haft ett tema att samtala utifrån. Det allra mest utmanande har varit att lotsa de teknikova-
-Vid tillfälle slår man sig ner med medhavt fika för en stilla na till en digital omställning under pandemin. Kunskapen
-stund. I det här konceptet får man ju också in rörelse och och tillgången till tekniken varierar så otroligt mycket
-frisk luft som är så avgörande för att hålla sig vid god hälsa i de högre åldrarna. Bland de yngre är åtminstone de
-i en svår tid.                    allmänna kunskaperna större. Det gör att en omställning
-till digital gemenskap kräver tunga processer i en försam-
-Dialog viktig för framtiden       ling med hög medelålder. Det är inte bara en person som
-Trots motgångar är det ändå många som behållit sin krea- ska producera video, utan att få till ett utbyte kräver en
-tivitet och ett öppet sinne för nya vägar. En del församling- större teknikvana hos alla. Vi skulle behöva komma ut med
-ar har hittat fram till digitala lösningar som har möjliggjort utbildning där på ett helt annat sätt för att överbrygga
-fortsatt verksamhet för dem. Det har varit saker som digital kunskapsgapen.
+måna om att göra det smittsäkert och gått i små grupper.
+För varje tillfälle har de haft ett tema att samtala utifrån.
+Vid tillfälle slår man sig ner med medhavt fika för en stilla
+stund. I det här konceptet får man ju också in rörelse och
+frisk luft som är så avgörande för att hålla sig vid god hälsa
+i en svår tid.
+
+Dialog viktig för framtiden
+Trots motgångar är det ändå många som behållit sin krea-
+tivitet och ett öppet sinne för nya vägar. En del församling-
+ar har hittat fram till digitala lösningar som har möjliggjort
+fortsatt verksamhet för dem. Det har varit saker som digital
 Alpha, konfirmation genom Zoom, och små dagliga andak-
-ter genom Facebook. Oavsett om det blivit rapporterings- Med kännedom om de här utmaningarna vet vi att den
-bar folkbildning av det så finns vi ju tillgängliga för stöd digitala verksamheten som har blivit av inte har gjort sig
-och idéer för församlingen som helhet också. Den dialogen själv, utan det har föregåtts av lärande och människor som
-och kontakten är avgörande för framtiden, för att vi ska utmanat sig på många plan. Även om det inte ser mycket
-kunna erbjuda undervisning och fördjupande studier i ett ut i statistik så ligger det en stor kraftsamling bakom.
+ter genom Facebook. Oavsett om det blivit rapporterings-
+bar folkbildning av det så finns vi ju tillgängliga för stöd
+och idéer för församlingen som helhet också. Den dialogen
+och kontakten är avgörande för framtiden, för att vi ska
+kunna erbjuda undervisning och fördjupande studier i ett
 längre perspektiv. Kontakten kyrkorna emellan har också
 stärkts under den här tiden, upplever jag, då man hänvisat
-till varandra på ett fint sätt.   Hej Iwona! Kan du ge ett exempel på hur du hjälp de
-katolska kyrkorna i Malmö under pandemin?
+till varandra på ett fint sätt.
 Framgångsfaktorer
-Att vi som organisation tidigt var på tårna och skapade Strax efter att förbudet att anordna allmänna samman-
-guider, kom ut med digitala kurser och redskap var upp- komster med fler än åtta deltagare infördes i november
-skattat hos många, säger Anneli. Vi har försökt att hela hörde en anställd i en församling av sig till mig. Kyrkoher-
-tiden se möjligheter och erbjudit alternativ och stöd utifrån den i samma församling hade fört dialog med henne om de
-varje församlings förutsättningar. möjligen kunde skapa någon slags undervisning digitalt.
-Hon kom då på idén att fråga Bilda om råd kring detta.
+Att vi som organisation tidigt var på tårna och skapade
+guider, kom ut med digitala kurser och redskap var upp-
+skattat hos många, säger Anneli. Vi har försökt att hela
+tiden se möjligheter och erbjudit alternativ och stöd utifrån
+varje församlings förutsättningar.
+
 36
+
+Jag fick tack-sms redan under våren för de idéer jag givit
+kring att få ut gudstjänster och samlingar digitalt. Genom
+tät dialog med ledare och kontaktpersoner har jag kunnat
+känna av behov och tipsa om rätt saker i rätt tid, säger
+Yvonne. Även om mycket folkbildningsverksamhet blev
+inställt under året såddes många frön, och vi fick odla
+relationer som kommer leda fram till fler saker framöver.
+Ett konkret exempel var en kurs i marknadsföring via
+sociala medier som vi fick genomföra i slutet av året för ett
+församlingsnätverk utifrån uttryckt behov. Det vill vi gärna
+arbeta vidare på.
+Utmaningar
+Det allra mest utmanande har varit att lotsa de teknikova-
+na till en digital omställning under pandemin. Kunskapen
+och tillgången till tekniken varierar så otroligt mycket
+i de högre åldrarna. Bland de yngre är åtminstone de
+allmänna kunskaperna större. Det gör att en omställning
+till digital gemenskap kräver tunga processer i en försam-
+ling med hög medelålder. Det är inte bara en person som
+ska producera video, utan att få till ett utbyte kräver en
+större teknikvana hos alla. Vi skulle behöva komma ut med
+utbildning där på ett helt annat sätt för att överbrygga
+kunskapsgapen.
+Med kännedom om de här utmaningarna vet vi att den
+digitala verksamheten som har blivit av inte har gjort sig
+själv, utan det har föregåtts av lärande och människor som
+utmanat sig på många plan. Även om det inte ser mycket
+ut i statistik så ligger det en stor kraftsamling bakom.
+
+Hej Iwona! Kan du ge ett exempel på hur du hjälp de
+katolska kyrkorna i Malmö under pandemin?
+Strax efter att förbudet att anordna allmänna samman-
+komster med fler än åtta deltagare infördes i november
+hörde en anställd i en församling av sig till mig. Kyrkoher-
+den i samma församling hade fört dialog med henne om de
+möjligen kunde skapa någon slags undervisning digitalt.
+Hon kom då på idén att fråga Bilda om råd kring detta.
 
 <!-- sida 603 -->
 
 Anneli Bergsviker och Yvonne Johansson; verksamhetsutvecklare för frikyrkorna i Skaraborg och Sjuhärad. Iwona Dekajlo; verksamhetsutvecklare katolska kyrkan.
 Canet Hanna; verksamhetsutvecklare ortodoxa kyrkorna
 
-Jag hade nyligen hört från en kollega att de inom Bildas För barn och unga har det också blivit en ny struktur i och
-kulturteam planerade för en adventskalender på Facebook. med digitaliseringen. Tre ledare har nu delat upp ansvaret
-Jag föreslog ett liknande upplägg för församlingen, där emellan sig och håller i pass med olika teman. En håller i
-man genom dagliga små klipp på temat ”väntan” skul- körsång online, en annan i samhällskunskap och den tredje
-le kunna nå ut till församlingsmedlemmarna på sociala i bibelundervisning. Det har blivit mycket mera strukture-
-medier. De anställda i församlingen nappade på idén och rat och också innehållsrikt i och med denna organisering,
-jag hjälpte dem vidare och involverade både barn och berättar Canet Hanna.
+Jag hade nyligen hört från en kollega att de inom Bildas
+kulturteam planerade för en adventskalender på Facebook.
+Jag föreslog ett liknande upplägg för församlingen, där
+man genom dagliga små klipp på temat ”väntan” skul-
+le kunna nå ut till församlingsmedlemmarna på sociala
+medier. De anställda i församlingen nappade på idén och
+jag hjälpte dem vidare och involverade både barn och
 äldre i processen. I början var det riktigt utmanande då
-jag inte hade några förkunskaper i att jobba med film- och Vilka är framgångsfaktorerna
-videoproduktion, men jag lärde mig jättemycket längs med för Bildas stöd till ortodoxa församingar?
-vägen. Det var inte heller klart från början vilka som skulle Att vi i vårt arbetslag själva har bakgrund från de kulturer
-vara med i filmerna, men när fler och fler såg klippen spred och kyrkor som dem vi samverkar med, har varit en viktig
-sig ett engagemang och jag fick in intresseanmälningar. faktor till att vi överhuvudtaget når fram. Att ha kulturför-
-ståelse, kännedom om traditionerna och även tankesätt
-Klippen har blivit en samlande kraft och någonting att som ibland kan skilja sig från det gängse svenska är en
-samtala kring både församlingsmedlemmar emellan och för resurs för oss, som gör att vi kan prata samma språk när vi
-oss som varit involverade i produktionen. Jag har fått höra utvecklar folkbildning tillsammans. Till det spelar självklart
-att en del vill skapa egna liknande adventskalendrar inför det faktum att vi tillsammans i vårt profilområde behärskar
-nästa år och jag planerar redan nu för att under tidig höst flertalet olika språk en betydande roll.
+jag inte hade några förkunskaper i att jobba med film- och
+videoproduktion, men jag lärde mig jättemycket längs med
+vägen. Det var inte heller klart från början vilka som skulle
+vara med i filmerna, men när fler och fler såg klippen spred
+sig ett engagemang och jag fick in intresseanmälningar.
+Klippen har blivit en samlande kraft och någonting att
+samtala kring både församlingsmedlemmar emellan och för
+oss som varit involverade i produktionen. Jag har fått höra
+att en del vill skapa egna liknande adventskalendrar inför
+nästa år och jag planerar redan nu för att under tidig höst
 2021 starta studiecirklar för att göra det möjligt.
-Vad har varit utmanande?
-Att många på ett eller annat sätt blivit drabbade av corona
-Hej Canet! Kan du se något positivt som omställningen har förstås varit oerhört tragiskt, och en bidragande faktor
-under pandemin bidragit till vad gäller folkbildningsar- till ett lägre engagemang i vissa fall. Det har varit svårt att
-betet i den ortodoxa kyrkan?      inspirera till ny motivation och lust bland tidigare eldsjälar
-när tiden framåt är oviss och allting är tvunget att ske un-
-En av mina församlingar har ställt om helt under året, och der särskilda former. För många är en av huvudorsakerna
-flera gånger dessutom, utifrån de förändrade restriktioner- till att man är med i en studiecirkel just att man får träffas
-na. Under hösten började man digitalisera så gott som alla öga mot öga, socialisera och vara tillsammans. Allt det går
-grupper vilket varit positivt på flera sätt. Dels för att man inte att ersätta med digitala möten.
+
+Hej Canet! Kan du se något positivt som omställningen
+under pandemin bidragit till vad gäller folkbildningsar-
+betet i den ortodoxa kyrkan?
+
+En av mina församlingar har ställt om helt under året, och
+flera gånger dessutom, utifrån de förändrade restriktioner-
+na. Under hösten började man digitalisera så gott som alla
+grupper vilket varit positivt på flera sätt. Dels för att man
 haft en möjlighet till att mötas, dela tron och livet under
 en påfrestande tid men också i att det tillfört en tydligare
 struktur och ordning när man tvingats tänka om och tänka
 till ordentligt. Dessutom har fler blivit delaktiga i utföran-
 det av verksamheten, jämfört med tidigare. Nu är det inte
-Att ha kulturförståelse, kännedom om
 bara prästen som håller i kvällsföreläsningar utan man har
-delat upp det mellan fyra personer som tar en vecka var i traditionerna och även tankesätt som
-månaden. Församlingens diakoner har exempelvis engage- ibland kan skilja sig från det gängse
-rats allt mer, och prästen har i större utsträckning ägnat sig svenska är en resurs för oss, som gör att
+delat upp det mellan fyra personer som tar en vecka var i
+månaden. Församlingens diakoner har exempelvis engage-
+rats allt mer, och prästen har i större utsträckning ägnat sig
 åt bibelstudier och barnverksamheten.
+
+För barn och unga har det också blivit en ny struktur i och
+med digitaliseringen. Tre ledare har nu delat upp ansvaret
+emellan sig och håller i pass med olika teman. En håller i
+körsång online, en annan i samhällskunskap och den tredje
+i bibelundervisning. Det har blivit mycket mera strukture-
+rat och också innehållsrikt i och med denna organisering,
+berättar Canet Hanna.
+Vilka är framgångsfaktorerna
+för Bildas stöd till ortodoxa församingar?
+Att vi i vårt arbetslag själva har bakgrund från de kulturer
+och kyrkor som dem vi samverkar med, har varit en viktig
+faktor till att vi överhuvudtaget når fram. Att ha kulturför-
+ståelse, kännedom om traditionerna och även tankesätt
+som ibland kan skilja sig från det gängse svenska är en
+resurs för oss, som gör att vi kan prata samma språk när vi
+utvecklar folkbildning tillsammans. Till det spelar självklart
+det faktum att vi tillsammans i vårt profilområde behärskar
+flertalet olika språk en betydande roll.
+Vad har varit utmanande?
+Att många på ett eller annat sätt blivit drabbade av corona
+har förstås varit oerhört tragiskt, och en bidragande faktor
+till ett lägre engagemang i vissa fall. Det har varit svårt att
+inspirera till ny motivation och lust bland tidigare eldsjälar
+när tiden framåt är oviss och allting är tvunget att ske un-
+der särskilda former. För många är en av huvudorsakerna
+till att man är med i en studiecirkel just att man får träffas
+öga mot öga, socialisera och vara tillsammans. Allt det går
+inte att ersätta med digitala möten.
+
+Att ha kulturförståelse, kännedom om
+traditionerna och även tankesätt som
+ibland kan skilja sig från det gängse
+svenska är en resurs för oss, som gör att
 vi kan prata samma språk när vi utvecklar
 folkbildning tillsammans.
+
 37
 
 <!-- sida 604 -->
 
 Möten           i  Jerusalem
 
-UNDER 2020 SATSADE kompetensområde Möten i Både syftet och målet, det vill säga ”varför/därför?”,
-Jerusalem stort på nya möten, i digital form. Orsaken har varit ledstjärna för verksamheten även under
-är naturligtvis coronapandemin och de inskränkning- 2020. Men på frågan ”hur?” blev svaret helt annorlun-
-ar i resor som genomfördes under vårvintern. I början da än vad som var planerat. Vi planerade för cirka 25
-av året hann ändå flera studieresor genomföras. studieresor under året, några för lokala studiegrupper,
-andra med deltagare från olika delar av landet som
-I rapporten från den interna genomlysning av Möten anmält sig för någon av våra temaresor. Vi kunde
-i Jerusalem som presenterades under slutet av 2019 genomföra fyra innan pandemin stängde dörren.
-formuleras ett kortfattat syfte, och ett något mer Däremot genomförde vi under perioden maj – decem-
-mångordigt mål:                   ber åtta digitala seminarier, så kallade webbinarier,
+UNDER 2020 SATSADE kompetensområde Möten i
+Jerusalem stort på nya möten, i digital form. Orsaken
+är naturligtvis coronapandemin och de inskränkning-
+ar i resor som genomfördes under vårvintern. I början
+av året hann ändå flera studieresor genomföras.
 
-alla med olika teman och målgrupp. Antalet deltagare
-Syftet med Möten i Jerusalem är att med utsiktspunk- vid respektive webbinarium var 35-80 personer, och
-ten Jerusalem – helig stad för tre religioner, politisk totalt nådde vi cirka 300 unika deltagare.
+I rapporten från den interna genomlysning av Möten
+i Jerusalem som presenterades under slutet av 2019
+formuleras ett kortfattat syfte, och ett något mer
+mångordigt mål:
+
+Syftet med Möten i Jerusalem är att med utsiktspunk-
+ten Jerusalem – helig stad för tre religioner, politisk
 vision för två folk – erbjuda folkbildning kring religi-
-on, kultur och samhälle.          I webbinarierna deltog personer i det nätverk som
+on, kultur och samhälle.
+
+Målet är att erbjuda människor möjligheter till ett
+fördjupat lärande, möten över gränser och stärkt en-
+gagemang. I dagens mångreligiösa och mångkulturella
+
+svenska samhälle vill vi bidra till att utjämna utbild-
+ningsklyftor och höja bildnings- och utbildningsnivån,
+för att på så vis ge människor en ökad möjlighet att
+påverka sin livssituation.
+
+Både syftet och målet, det vill säga ”varför/därför?”,
+har varit ledstjärna för verksamheten även under
+2020\. Men på frågan ”hur?” blev svaret helt annorlun-
+da än vad som var planerat. Vi planerade för cirka 25
+studieresor under året, några för lokala studiegrupper,
+andra med deltagare från olika delar av landet som
+anmält sig för någon av våra temaresor. Vi kunde
+
+genomföra fyra innan pandemin stängde dörren.
+Däremot genomförde vi under perioden maj – decem-
+ber åtta digitala seminarier, så kallade webbinarier,
+alla med olika teman och målgrupp. Antalet deltagare
+vid respektive webbinarium var 35-80 personer, och
+totalt nådde vi cirka 300 unika deltagare.
+
+I webbinarierna deltog personer i det nätverk som
 finns kring Bildas studiecenter i Jerusalem, Swedish
-Målet är att erbjuda människor möjligheter till ett Christian Study Centre, med föreläsningar och samtal.
-fördjupat lärande, möten över gränser och stärkt en- Ämnena skiftade, från hur coronapandemin har drab-
-gagemang. I dagens mångreligiösa och mångkulturella bat området, till politisk orientering, till frågor om
-svenska samhälle vill vi bidra till att utjämna utbild- kulturens roll i tider av nedstängning. Några webbi-
-ningsklyftor och höja bildnings- och utbildningsnivån, narier har uppmärksammat religiösa frågor, som vad
-för att på så vis ge människor en ökad möjlighet att som kan räknas som en ”helig plats”, och hur kyrkor-
-påverka sin livssituation.        na i det som ibland kallas Det heliga landet förbereder
+Christian Study Centre, med föreläsningar och samtal.
+Ämnena skiftade, från hur coronapandemin har drab-
+bat området, till politisk orientering, till frågor om
+kulturens roll i tider av nedstängning. Några webbi-
+
+narier har uppmärksammat religiösa frågor, som vad
+som kan räknas som en ”helig plats”, och hur kyrkor-
+na i det som ibland kallas Det heliga landet förbereder
 
 Studieresan med lärare från Malmö. Från vänster: Möte med organisatinen Youths against settlements i Hebron. Studiegruppen på taket av Bildas Studiecenter i Jerusalem. Besök i Old Moshe, ultraortodoxt kvarter.
 
@@ -22036,30 +24719,56 @@ Studieresan med lärare från Malmö. Från vänster: Möte med organisatinen Yo
 
 <!-- sida 605 -->
 
-sig inför ett julfirande under coronapandemin. Vilken resa! Jag håller fortfarande på
-och bearbetar den.
+sig inför ett julfirande under coronapandemin.
+
 Personal från Bilda deltog även med föreläsningar
-kring frågor som rör Israel och Palestina i en rad Bilda Sydväst hade tur och lyckades i
-olika sammanhang, som i lärarfortbildning i Malmö, februari genomföra en studieresa innan
-högskolan i Jönköping och en folkhögskolekurs i Här- restriktionerna satte in. Det var en resa
-nösand och gymnasieskola i Falun. Det mesta skedde med universitetslärare samt gymnasielä-
-digitalt.                                rare från Malmö. Syftet med resan var
+kring frågor som rör Israel och Palestina i en rad
+olika sammanhang, som i lärarfortbildning i Malmö,
+högskolan i Jönköping och en folkhögskolekurs i Här-
+nösand och gymnasieskola i Falun. Det mesta skedde
 
-att främja ett bättre undervisningsklimat
-Under 2020 samarbetade Bilda med Folkmusikens vad gäller just undervisning om Israel och
-hus i Rättvik och andra aktörer, såväl svenska som Palestina och om ockupationen utan att
-internationella, för att förbereda arrangemanget skapa konflikt och förvirring i diskussio-
-Ethno Palestine under 2021. Vår ansökan till Svenska ner bland studenter. Syftet var också att
-Institutet om anslag för ett inledande projekt bevilja- lära sig hur man jobbar med att förhindra
-des och planeringen rullade igång.       antisemitism, samt utöka kunskap genom
-att besöka historiska och religiösa platser.
+digitalt.
+
+Under 2020 samarbetade Bilda med Folkmusikens
+hus i Rättvik och andra aktörer, såväl svenska som
+internationella, för att förbereda arrangemanget
+Ethno Palestine under 2021. Vår ansökan till Svenska
+Institutet om anslag för ett inledande projekt bevilja-
+des och planeringen rullade igång.
+
 Under vintern 2020 genomfördes fyra studieresor,
-från fyra olika av Bildas regioner: Nord, Mitt, Syd- Innan resan hade de två grupperna studie-
-väst och Öst. Även två frukostklubbar, med svenskar cirkel och introduktionsträff tillsammans
-i Jerusalem som målgrupp, kunde genomföras på med resepedagogen och i samverkan med
-studiecentret innan pandemin gjorde det nödvändigt Bildas studiecenter SCSC i Jerusalem.
-att tillfälligt stänga studiecentret.    En av deltagarna säger att hon under och
+från fyra olika av Bildas regioner: Nord, Mitt, Syd-
+väst och Öst. Även två frukostklubbar, med svenskar
+i Jerusalem som målgrupp, kunde genomföras på
 
+studiecentret innan pandemin gjorde det nödvändigt
+att tillfälligt stänga studiecentret.
+
+Studieresan med lärare från Malmö. Från vänster: Möte med organisatinen Youths against settlements i Hebron. Studiegruppen på taket av Bildas Studiecenter i Jerusalem. Besök i Old Moshe, ultraortodoxt kvarter.
+
+Vilken resa! Jag håller fortfarande på
+och bearbetar den.
+
+Bilda Sydväst hade tur och lyckades i
+
+februari genomföra en studieresa innan
+restriktionerna satte in. Det var en resa
+med universitetslärare samt gymnasielä-
+rare från Malmö. Syftet med resan var
+att främja ett bättre undervisningsklimat
+vad gäller just undervisning om Israel och
+Palestina och om ockupationen utan att
+skapa konflikt och förvirring i diskussio-
+ner bland studenter. Syftet var också att
+lära sig hur man jobbar med att förhindra
+antisemitism, samt utöka kunskap genom
+att besöka historiska och religiösa platser.
+
+Innan resan hade de två grupperna studie-
+cirkel och introduktionsträff tillsammans
+med resepedagogen och i samverkan med
+Bildas studiecenter SCSC i Jerusalem.
+En av deltagarna säger att hon under och
 efter resan insåg hur mycket studiecirkeln
 och förberedelserna inför resan betytt.
 ”Syftet med resan var alltid klart och
@@ -22068,11 +24777,11 @@ till”.
 
 Deltagarna beskriver studieresan som
 välplanerad, spännande, lärorik, utveck-
+
 lande, utmanande, omtumlande, an-
 strängande, äventyrlig och rolig.
 
 Resepedagogen Angela Linden bekräftar
-
 detta och säger att många av deltagarna
 som hon stöter på i olika sammanhang
 är nöjda och omtumlade av att ha gjort
@@ -22081,7 +24790,6 @@ deltagarna, nu knappt ett år efter resan,
 skriver till henne; ”Vilken resa du bjöd oss
 på! Jag håller fortfarande på och bearbe-
 tar den.”
-Studieresan med lärare från Malmö. Från vänster: Möte med organisatinen Youths against settlements i Hebron. Studiegruppen på taket av Bildas Studiecenter i Jerusalem. Besök i Old Moshe, ultraortodoxt kvarter.
 
 39
 
@@ -22089,48 +24797,46 @@ Studieresan med lärare från Malmö. Från vänster: Möte med organisatinen Yo
 
 Cirkelledarutveckling
 
-FÖR ATT DET SKA BLI studiecirklar i Bilda är cirkelle- ser i stan och en möjlighet att träffa andra.
+FÖR ATT DET SKA BLI studiecirklar i Bilda är cirkelle-
 darna ovärderliga. Deras engagemang och kompetens
-är en nyckel för att få kvalitativ verksamhet och inspi- Andra lösningar var att sommarläger delades upp
-rerade och aktiva deltagare. 2020 hade Bilda och genomfördes samtidigt men i mindre grupper, på
-9 816 aktiva cirkelledare runt om i landet. olika platser. En bibelskola i Kumla gjordes om och
-förlades till Bildas lärplattform Learnify. Det är ett bra
-Våra cirkelledare brinner för sina ämnen och att vara exempel när våra verktyg möjliggjort för cirkelledarna
-just ledare. Vi tror att vi göder deras engagemang och att genomföra verksamheten på ett nytt sätt. När det
-kvaliteten på cirklarna genom att erbjuda utbildningar gäller musikverksamhet har det många gånger svårt
-men också stöd av våra verksamhetsutvecklare. Det är att få kvalitativa rep digitalt. Körer har haft stora
+är en nyckel för att få kvalitativ verksamhet och inspi-
+rerade och aktiva deltagare. 2020 hade Bilda
+9 816 aktiva cirkelledare runt om i landet.
 
-verksamhetsutvecklare som kan sina ämnesområden utmaningar det här året och många var tvungna att
-och kan vara ett bra bollplank. Under det här unika ställa in sin verksamhet, men även där fanns kreativa
-året valde vi att fokusera extra mycket på kontakten lösningar. Exempelvis har man delat upp kören i min-
-med våra cirkelledare. Det kändes extra viktigt under dre grupper. Hela kören träffas digitalt, men man får
-de speciella förhållanden som rått för att se hur vi kan också möjlighet att repa fysiskt med den lilla gruppen.
-stötta dem att genomföra verksamhet på ett säkert Det har varit värdefullt att kunna hålla kören vid liv.
+Våra cirkelledare brinner för sina ämnen och att vara
+just ledare. Vi tror att vi göder deras engagemang och
+kvaliteten på cirklarna genom att erbjuda utbildningar
+men också stöd av våra verksamhetsutvecklare. Det är
+verksamhetsutvecklare som kan sina ämnesområden
+och kan vara ett bra bollplank. Under det här unika
+året valde vi att fokusera extra mycket på kontakten
+med våra cirkelledare. Det kändes extra viktigt under
+de speciella förhållanden som rått för att se hur vi kan
+stötta dem att genomföra verksamhet på ett säkert
 sätt.
-Stöd i omställningen
-Digitaliseringen, som vi har satsat på även före Utöver de vanliga cirkelledarutbildningarna erbjöd
-pandemin, tog ett språng framåt i Bildas verksamhet. Bilda utbildningar för digital omställning under 2020.
-Många cirkelledare var modiga och provade digitala Vid flera tillfällen erbjöd vi en digital utbildning som
-mötesverktyg och pedagogiska metoder som man vi kallar "Leda digital cirkel". Det handlar inte så
-aldrig provat tidigare. Bilda erbjöd snabbt stöd och mycket om tekniken, utan mer om hur man möjliggör
 
-utbildningar för våra cirkelledare för att möjliggöra ett gott samtalsklimat i det digitala rummet. Vilka
-att så många cirkelledare som möjligt kunde ställa om utmaningar och möjligheter finns. Men vi erbjöd även
-sin verksamhet med digitala mötesverktyg. För vissa mer tekniska utbildningar om digitala mötesverktyg,
-var det verkligen en möjlighet att ha cirklarna i det bland annat hur man livestreamar och vad man behö-
-digitala rummet, exempelvis studiecirklar i svenska ver tänka på. Under försommaren laserade vi också
-för kinesisktalande. I det fallet bor och verkar cirkel- Inspirationshäfte: Leda digital cirkel som innehåller
-ledaren i Södertälje, medan deltagarna kom från olika stöd till cirkelledare som är på väg eller redan har
-delar av landet.                  ställt om till digital mötesplats, med tips på pedago-
-giska metoder.
+Digitaliseringen, som vi har satsat på även före
+
+pandemin, tog ett språng framåt i Bildas verksamhet.
+Många cirkelledare var modiga och provade digitala
+mötesverktyg och pedagogiska metoder som man
+aldrig provat tidigare. Bilda erbjöd snabbt stöd och
+utbildningar för våra cirkelledare för att möjliggöra
+att så många cirkelledare som möjligt kunde ställa om
+sin verksamhet med digitala mötesverktyg. För vissa
+var det verkligen en möjlighet att ha cirklarna i det
+digitala rummet, exempelvis studiecirklar i svenska
+för kinesisktalande. I det fallet bor och verkar cirkel-
+ledaren i Södertälje, medan deltagarna kom från olika
+delar av landet.
+
 Men det har inte bara varit enkelt. Det var tufft för
-personer som känner ett digitalt utanförskap i vanliga Grundutbildning
-fall och extra mycket detta år. Därför har det varit Bildas grundutbildning är digital sedan tidigare vilket
-
-viktigt att vara kreativ och hitta mötesplatser på olika var extra värdefullt under detta år. Vi valde att lägga
-sätt. Under den varmare och ljusare delen av året var ett stort fokus på att höra av oss till cirkelledare och
-det många som träffades utomhus. Bildas metodmate- i samband med det uppmuntrade vi också fler att
-rial "Samtal på gång" fick en nystart och möjliggjorde genomföra Bildas webbaserade grundutbildning.
+personer som känner ett digitalt utanförskap i vanliga
+fall och extra mycket detta år. Därför har det varit
+viktigt att vara kreativ och hitta mötesplatser på olika
+sätt. Under den varmare och ljusare delen av året var
+det många som träffades utomhus. Bildas metodmate-
+rial "Samtal på gång" fick en nystart och möjliggjorde
 att fler kunde träffas. Istället för att ses i en lokal var
 de utomhus och samtalade i rörelse. I Örnsköldsvik
 erbjöds utomhusträffar för äldre som var kvar i stan
@@ -22138,96 +24844,191 @@ under sommaren med guidade visningar av olika plat-
 
 40
 
+ser i stan och en möjlighet att träffa andra.
+
+Andra lösningar var att sommarläger delades upp
+och genomfördes samtidigt men i mindre grupper, på
+olika platser. En bibelskola i Kumla gjordes om och
+förlades till Bildas lärplattform Learnify. Det är ett bra
+exempel när våra verktyg möjliggjort för cirkelledarna
+
+att genomföra verksamheten på ett nytt sätt. När det
+gäller musikverksamhet har det många gånger svårt
+att få kvalitativa rep digitalt. Körer har haft stora
+utmaningar det här året och många var tvungna att
+ställa in sin verksamhet, men även där fanns kreativa
+lösningar. Exempelvis har man delat upp kören i min-
+dre grupper. Hela kören träffas digitalt, men man får
+också möjlighet att repa fysiskt med den lilla gruppen.
+Det har varit värdefullt att kunna hålla kören vid liv.
+
+Stöd i omställningen
+Utöver de vanliga cirkelledarutbildningarna erbjöd
+Bilda utbildningar för digital omställning under 2020.
+
+Vid flera tillfällen erbjöd vi en digital utbildning som
+vi kallar "Leda digital cirkel". Det handlar inte så
+mycket om tekniken, utan mer om hur man möjliggör
+ett gott samtalsklimat i det digitala rummet. Vilka
+utmaningar och möjligheter finns. Men vi erbjöd även
+mer tekniska utbildningar om digitala mötesverktyg,
+bland annat hur man livestreamar och vad man behö-
+ver tänka på. Under försommaren laserade vi också
+Inspirationshäfte: Leda digital cirkel som innehåller
+stöd till cirkelledare som är på väg eller redan har
+ställt om till digital mötesplats, med tips på pedago-
+giska metoder.
+
+Grundutbildning
+
+Bildas grundutbildning är digital sedan tidigare vilket
+var extra värdefullt under detta år. Vi valde att lägga
+ett stort fokus på att höra av oss till cirkelledare och
+i samband med det uppmuntrade vi också fler att
+genomföra Bildas webbaserade grundutbildning.
+
 <!-- sida 607 -->
 
-Hur gör vi för att lösa
 Ledarutveckling i Sydväst
-konflikter?
 Under året har vi lagt störst fokus på att sadla om vår
-verksamhet till digital på grund av corona. Vi har jobbat Under hösten genomfördes en konflikthan-
-mycket med ledarvård, frågat vad våra ledare är i behov teringskurs helt digitalt. Det var 10 deltaga-
-av, kommit med förslag och redskap, utbildat och stöttat re i gruppen som kom från hela vår region.
-Just den geografiska spridningen och de
+verksamhet till digital på grund av corona. Vi har jobbat
+mycket med ledarvård, frågat vad våra ledare är i behov
+
+av, kommit med förslag och redskap, utbildat och stöttat
 upp. Då vi inte kunnat ses fysiskt har den personliga
-olika erfareheter som kom med den
 kontakten med våra ledare varit enormt viktig, det har
-var uppskattad.
 blivit många telefonsamtal och vändande mailkonversa-
 tioner.
-Kursens innehåll var att ta reda på; Vad
-en konflikt är, konfliktens ABC, hur vi
+
 Vi har jobbat mycket med att se till att våra ledare ska ha
-reagerar på konflikter, konfliktstilar,
 fått introduktionssamtal och gått webbutbildningen.
-konfliktens olika arenor/utveckling, träna
-på olika sätt att lösa konflikter, lyssnande
+
 Vi har aktivt deltagit i den nationella ledarutvecklings-
-och ”jag-budskap” samt om samtalet, och
 gruppen och tillsammans vridit och vänt på frågor,
-ett aktivt lyssnande och en vilja förstå den
 spanat framåt, utvärderat och utvecklat.
-andres behov. Efter varje träff fick delta-
-garna en uppgift att träna och reflektera
+
 Under året har vi anordnat en regional kompetensut-
-vidare på inför nästkommande träff.
 vecklingskurs med Bengt Jörnland samt erbjudit ett fler-
 tal fortbildningskurser i digitala verktyg, såsom Teams
-Det blev tydligt att det krävs mer av
 och Zoom.
+
+Den   personliga       kon-
+
+takten    med    våra
+
+ledare   har   varit
+
+enormt     viktig.
+
+Det   har  blivit  många
+
+telefonsamtal       och
+
+vändande      mailkon-
+
+versationer.
+
+Hur gör vi för att lösa
+konflikter?
+
+Under hösten genomfördes en konflikthan-
+teringskurs helt digitalt. Det var 10 deltaga-
+re i gruppen som kom från hela vår region.
+Just den geografiska spridningen och de
+olika erfareheter som kom med den
+var uppskattad.
+
+Kursens innehåll var att ta reda på; Vad
+en konflikt är, konfliktens ABC, hur vi
+reagerar på konflikter, konfliktstilar,
+konfliktens olika arenor/utveckling, träna
+på olika sätt att lösa konflikter, lyssnande
+
+och ”jag-budskap” samt om samtalet, och
+ett aktivt lyssnande och en vilja förstå den
+andres behov. Efter varje träff fick delta-
+garna en uppgift att träna och reflektera
+vidare på inför nästkommande träff.
+
+Det blev tydligt att det krävs mer av
 såväl ledare som deltagare att vara aktiv
 på olika sätt när mötet sker ”framför en
 skärm” och inte i det fysiskt gemensam-
 ma rummet. Det ger så mycket mer i en
 kurs om konflikter att även kunna läsa
 kroppsspråk, kunna ge och få ”snabba
-Den   personliga      kon-                 kommentarer” med mera. Pedagogiskt
+
+kommentarer” med mera. Pedagogiskt
 kunde vi ändå dela in i smågrupper, göra
-takten    med    våra                   fyrahörnsövningar och prova på rollspel.
+fyrahörnsövningar och prova på rollspel.
 Alla tyckte att det fungerat förvånansvärt
-ledare   har   varit
 bra. (Men svårt när teknik och uppkopp-
 ling ibland ”strular”.)
-enormt      viktig.
+
 Efter kursen var deltagarna väldigt sugna
-Det   har  blivit  många
 på mer och uppföljning efterfrågades di-
 rekt i den avslutande rundan. Gärna i vår,
-telefonsamtal       och
 och helst-om det går- i en icke digital kurs.
-vändande      mailkon-
-versationer.
+
 41
 
 <!-- sida 608 -->
 
 Offentliga               arrangemang
 
-BILDA BIDRAR VARJE ÅR med olika former av begränsad omfattning: Live at Heart och Bokmässan.
-folkbildningsverksamhet – seminarier, samtal, Det enda större arrangemang som genomfördes ”som
-workshops, kulturarrangemang – i ett antal större of- vanligt”, med medverkan från Bilda, var det kulturpo-
-fentliga arrangemang. Ett av syftena är att stärka och litiska konventet Folk och Kultur i Eskilstuna. En del
-bredda vår verksamhet och göra den relevant för nya planerade samtalsturnéer fick läggas på is.
+BILDA BIDRAR VARJE ÅR med olika former av
+folkbildningsverksamhet – seminarier, samtal,
+workshops, kulturarrangemang – i ett antal större of-
+fentliga arrangemang. Ett av syftena är att stärka och
+bredda vår verksamhet och göra den relevant för nya
 deltagare och målgrupper, ett annat att synliggöra och
-profilera Bilda för en bredare allmänhet. Att finnas I de fall arrangemang ställt om till digital form, har
-med där andra samhällsaktörer finns, för nätverkande Bilda bidragit med innehåll. Vi har också utvecklat
-och utveckling av nya samarbeten, är också en viktig nya samarbeten och format med samma syfte och
-framtidsstrategi.                 innehåll som de publika mötesplatserna och arrange-
 
+profilera Bilda för en bredare allmänhet. Att finnas
+med där andra samhällsaktörer finns, för nätverkande
+och utveckling av nya samarbeten, är också en viktig
+framtidsstrategi.
+
+De flesta större offentliga arrangemang sker i samver-
+kan med olika medlemsorganisationer och andra sam-
+arbetsparter, där det finns en tydlig ömsesidighet. Vi
+stöttar varandra, skapar och genomför tillsammans.
+
+På grund av restriktioner under den pågående pande-
+min, ställdes de flesta av de planerade större arrange-
+mangen under 2020 in: Littfest, Almedalsveckan och
+
+Existentiell Filmfestival. Mänskliga Rättighetsdagarna
+flyttades fram till april 2021 och kommer att genom-
+föras digitalt.
+
+En del kunde genomföras i digital form, om än i
+
+begränsad omfattning: Live at Heart och Bokmässan.
+Det enda större arrangemang som genomfördes ”som
+vanligt”, med medverkan från Bilda, var det kulturpo-
+litiska konventet Folk och Kultur i Eskilstuna. En del
+planerade samtalsturnéer fick läggas på is.
+
+I de fall arrangemang ställt om till digital form, har
+
+Bilda bidragit med innehåll. Vi har också utvecklat
+nya samarbeten och format med samma syfte och
+innehåll som de publika mötesplatserna och arrange-
 mangen. Genom inspelning och sändning på digitala
-De flesta större offentliga arrangemang sker i samver- plattformar har vi ökat tillgängligheten och räckvid-
-kan med olika medlemsorganisationer och andra sam- den för många arrangemang – även om vår grundläg-
-arbetsparter, där det finns en tydlig ömsesidighet. Vi gande vision att få människor att mötas såklart varit
-stöttar varandra, skapar och genomför tillsammans. svårare att förverkliga.
+plattformar har vi ökat tillgängligheten och räckvid-
+den för många arrangemang – även om vår grundläg-
+gande vision att få människor att mötas såklart varit
+svårare att förverkliga.
 
-På grund av restriktioner under den pågående pande- UR Samtiden
-min, ställdes de flesta av de planerade större arrange- Under året inledde Bilda ett samarbete med UR
-mangen under 2020 in: Littfest, Almedalsveckan och (Utbildningsradion) där vi utifrån vår profil skapar
-Existentiell Filmfestival. Mänskliga Rättighetsdagarna innehåll inom ramen för programformatet UR Sam-
-flyttades fram till april 2021 och kommer att genom- tiden. Programmen går att se på UR Play och visas i
-föras digitalt.                   SVT:s Kunskapskanalen. Hittills har vi producerat två
+UR Samtiden
+Under året inledde Bilda ett samarbete med UR
+(Utbildningsradion) där vi utifrån vår profil skapar
+innehåll inom ramen för programformatet UR Sam-
+
+tiden. Programmen går att se på UR Play och visas i
+SVT:s Kunskapskanalen. Hittills har vi producerat två
 programserier: ”Livssyn och livsmod”, om mänsklig
-
-En del kunde genomföras i digital form, om än i hållbarhet och existentiell hälsa, och ”Hålla ut, hålla
+hållbarhet och existentiell hälsa, och ”Hålla ut, hålla
 
 Foto från programserien Livssyn och livsmod som skapats av Bilda för UR Samtiden.
 42
@@ -22284,45 +25085,45 @@ kyrkornas och teologins bidrag till samhället.
 
 Stödfunktioner
 
-Ekonomi och administration        Anpassad kompetensutveckling på grund av
-Inom ekonomi och administration fokuserade pandemin. Som en följd av covid-19 reviderades
-arbetet på att förbättra och implementera nya ru- kompetensutvecklingsplanen löpande. Några planera-
-tiner samt förbättra de digitala arbetssätten. Arbe- de utbildningar blev inställda eller framflyttade, men
-tet med att implementera ett nytt ekonomisystem många kunde arrangeras digitalt.
+Ekonomi och administration
+Inom ekonomi och administration fokuserade
+arbetet på att förbättra och implementera nya ru-
+tiner samt förbättra de digitala arbetssätten. Arbe-
+
+tet med att implementera ett nytt ekonomisystem
 har fortsatt och kommer utmynna i nya rutiner för
-redovisning, lönehantering, uppföljning och analys. Under senare år har Bilda arbetat med ett koncept
-Förhoppningen är att hela det administrativa arbetet som kallas delat lärande och går ut på att en anställd
+redovisning, lönehantering, uppföljning och analys.
+Förhoppningen är att hela det administrativa arbetet
+genom detta kommer att underlättas när det nya eko-
+nomisystemet implementeras under 2021.
 
-genom detta kommer att underlättas när det nya eko- i organisationen delar med sig av en kompetens, er-
-nomisystemet implementeras under 2021. farenhet eller ett arbetssätt, digitalt. De medarbetare
-som har möjlighet att delta ansluter sig till passet. De
-Under första kvartalet 2020 driftsattes en ny webba- arrangeras av HR och har genomförts cirka 3-4 gånger
-serad rapporteringstjänst - E-tjänster - i studieför- per år. Under 2020 utvecklades detta koncept och
-bundens gemensamma verksamhetsrapporterings- genomfördes vid 30 tillfällen för delat lärande, vilket
-system Gustav. Bilda var det första studieförbundet var en del av en aktiv åtgärd under covid-19.
+Under första kvartalet 2020 driftsattes en ny webba-
+serad rapporteringstjänst - E-tjänster - i studieför-
+bundens gemensamma verksamhetsrapporterings-
+system Gustav. Bilda var det första studieförbundet
 som började arbeta med verktyget. E-tjänst är en plats
-där användaren kan skapa och hantera studiecirklar Värderingskonflikter, normer och antidiskri-
-och kulturprogram samt rapportera närvaro. Detta för minering. Ett arbete kring värderingskonflikter,
-att minska behovet av tidskrävande administration normer och antidiskriminering genomfördes under
-och därmed ge mer tid till verksamheten. året och detta arbete fortsätter under 2021. Arbetet
-innefattar kompetenshöjande insatser samt framta-
+där användaren kan skapa och hantera studiecirklar
 
-Under året togs ett nytt system för uppföljning av gande av ett verktyg som hjälper oss att fatta grunda-
-verksamhet gemensamt fram av alla studieförbund. de beslut i vår verksamhet.
+och kulturprogram samt rapportera närvaro. Detta för
+att minska behovet av tidskrävande administration
+och därmed ge mer tid till verksamheten.
+
+Under året togs ett nytt system för uppföljning av
+verksamhet gemensamt fram av alla studieförbund.
 Det möjliggör jämförelse av personuppgifter, vilket
-underlättar granskning av personuppgifter studieför- Ny miljöpolicy. Under hösten antogs en ny miljö-
-bunden emellan.                   policy med tillhörande regionala handlingsplaner.
-Kopplat till detta lanserades en digital utbildning för
-HR                                all personal.
-HR:s uppdrag inom Bilda är att utveckla och ge stöd i
-personalrelaterade processer. Vi arbetar för att all per- Utbildning kring folkbildningens idé. För att
-sonal ska ha en bra arbetsmiljö där alla kan vara sitt möjliggöra för medarbetare att fördjupa sig mer i
-bästa jag. Ett aktivt medarbetarskap i kombination folkbildningens idé och utveckling startades en upp-
-med ett moget ledarskap skapar förutsättningar för att dragsutbildning som vi tagit fram tillsammans med
-vi tillsammans kan utföra högkvalitativ verksamhet Linköpings universitet. En 5 högskolepoäng lång kurs
+underlättar granskning av personuppgifter studieför-
+bunden emellan.
 
-och bidra till Bildas övergripande mål och vision. påbörjades i slutet av 2020 och fortsätter under våren
-2021\.
+HR
+HR:s uppdrag inom Bilda är att utveckla och ge stöd i
+personalrelaterade processer. Vi arbetar för att all per-
+
+sonal ska ha en bra arbetsmiljö där alla kan vara sitt
+bästa jag. Ett aktivt medarbetarskap i kombination
+med ett moget ledarskap skapar förutsättningar för att
+vi tillsammans kan utföra högkvalitativ verksamhet
+och bidra till Bildas övergripande mål och vision.
+
 Covid-19 påverkade även HR:s arbete där HR bland
 annat ingick i organisationens krisledningsteam. Stort
 fokus lades på att hantera arbetsmiljörelaterade frå-
@@ -22331,34 +25132,74 @@ planerad verksamhet.
 
 44
 
+Anpassad kompetensutveckling på grund av
+pandemin. Som en följd av covid-19 reviderades
+kompetensutvecklingsplanen löpande. Några planera-
+de utbildningar blev inställda eller framflyttade, men
+många kunde arrangeras digitalt.
+
+Under senare år har Bilda arbetat med ett koncept
+
+som kallas delat lärande och går ut på att en anställd
+i organisationen delar med sig av en kompetens, er-
+farenhet eller ett arbetssätt, digitalt. De medarbetare
+som har möjlighet att delta ansluter sig till passet. De
+arrangeras av HR och har genomförts cirka 3-4 gånger
+per år. Under 2020 utvecklades detta koncept och
+genomfördes vid 30 tillfällen för delat lärande, vilket
+var en del av en aktiv åtgärd under covid-19.
+
+Värderingskonflikter, normer och antidiskri-
+minering. Ett arbete kring värderingskonflikter,
+normer och antidiskriminering genomfördes under
+året och detta arbete fortsätter under 2021. Arbetet
+
+innefattar kompetenshöjande insatser samt framta-
+gande av ett verktyg som hjälper oss att fatta grunda-
+de beslut i vår verksamhet.
+
+Ny miljöpolicy. Under hösten antogs en ny miljö-
+policy med tillhörande regionala handlingsplaner.
+Kopplat till detta lanserades en digital utbildning för
+all personal.
+
+Utbildning kring folkbildningens idé. För att
+möjliggöra för medarbetare att fördjupa sig mer i
+folkbildningens idé och utveckling startades en upp-
+dragsutbildning som vi tagit fram tillsammans med
+
+Linköpings universitet. En 5 högskolepoäng lång kurs
+påbörjades i slutet av 2020 och fortsätter under våren
+2021\.
+
 <!-- sida 611 -->
 
-Kommunikation                     Office 365 och uppgraderat dator- och mobilparken
-Efter flera år av större utvecklingsprojekt var fokus stod vi väl rustade tekniskt när pandemin kom. Bilda
-under 2020 på mindre förbättrings- och utvecklings- testade under året ett antal digitala verktyg för att er-
-arbete i det förbundsgemensamma kommunikations- sätta fysiska möten och arrangemang.
-arbetet, bland annat kring bilda.nu och nationell
-bild- och filmbank. Ett system för mediehantering Under våren 2020 bytte Bilda leverantör för IT-drif-
-implementerades, för att underlätta hanteringen av ten. Året präglades av förberedelser inför bytet samt
-bild- och filmmaterial. Utbildningar för alla använda- efterarbete – ett arbete som innebar konsolidering
+Kommunikation
+Efter flera år av större utvecklingsprojekt var fokus
+under 2020 på mindre förbättrings- och utvecklings-
+arbete i det förbundsgemensamma kommunikations-
 
-re sker digitalt i början av 2021. av IT-gemensamma resurser (servrar et cetera) samt
-möjliggjorde fokus på effektivisering av processer och
-På grund av coronapandemin ställdes en tänkt pro- rutiner kring IT-stödet. Avtalet med teleoperatören
-duktionsturné i Bildas regioner in, där vi skulle ha omförhandlades under 2020 och internetkapaciteten
-samlat in berättelser om Bildas verksamhet. uppgraderades på de orter där det var möjligt, för att
-möta organisationens behov.
+arbetet, bland annat kring bilda.nu och nationell
+bild- och filmbank. Ett system för mediehantering
+implementerades, för att underlätta hanteringen av
+bild- och filmmaterial. Utbildningar för alla använda-
+re sker digitalt i början av 2021.
+
+På grund av coronapandemin ställdes en tänkt pro-
+duktionsturné i Bildas regioner in, där vi skulle ha
+samlat in berättelser om Bildas verksamhet.
+
 Den redaktionella planeringen fick till viss del göras
-om som en följd av pandemin, för att stötta anpassad Under hösten 2020 påbörjades upphandling av nya
-verksamhet och satsningar på digital omställning. ekonomiprogram.
+om som en följd av pandemin, för att stötta anpassad
+verksamhet och satsningar på digital omställning.
+
 Det var stor samverkan mellan Bildas regioner i
-Kvalitetsarbete
 kommunikationen kring corona och de anpassningar
-som löpande gjordes utifrån myndigheters nationella Ett systematiskt kvalitetsarbete bidrar till att skapa
-och regionala rekommendationer. Kommunikations- en kultur av transparens och ansvarstagande. När
-funktionen ingick även i det förbundsgemensamma verksamhetens styrning och kontroll tydliggörs och
-kristeamet som arbetade med hanteringen av covid-19 synliggörs, skapar det trygghet för både personal och
-inom Bilda.                       ledning.
+som löpande gjordes utifrån myndigheters nationella
+och regionala rekommendationer. Kommunikations-
+funktionen ingick även i det förbundsgemensamma
+kristeamet som arbetade med hanteringen av covid-19
+inom Bilda.
 
 Den kompetensutveckling för kommunikatörer som
 var planerad kring tillgänglighet i kommunikationen
@@ -22369,7 +25210,6 @@ kommunikation fortsätter 2021.
 Under året utvärderades Bildas kommunikationsarbe-
 te i sociala medier och ett förbättringsarbete inleddes
 under hösten, bland annat om en följd av förändringar
-
 i plattformar och möjligheten att nå ut.
 
 IT
@@ -22380,73 +25220,144 @@ Sharepoint-plattform – Dokumentplatsen.
 
 Tack vare att Bilda redan under 2019 gått över till
 
+Office 365 och uppgraderat dator- och mobilparken
+stod vi väl rustade tekniskt när pandemin kom. Bilda
+testade under året ett antal digitala verktyg för att er-
+sätta fysiska möten och arrangemang.
+
+Under våren 2020 bytte Bilda leverantör för IT-drif-
+ten. Året präglades av förberedelser inför bytet samt
+
+efterarbete – ett arbete som innebar konsolidering
+av IT-gemensamma resurser (servrar et cetera) samt
+möjliggjorde fokus på effektivisering av processer och
+rutiner kring IT-stödet. Avtalet med teleoperatören
+omförhandlades under 2020 och internetkapaciteten
+uppgraderades på de orter där det var möjligt, för att
+möta organisationens behov.
+
+Under hösten 2020 påbörjades upphandling av nya
+ekonomiprogram.
+
+Kvalitetsarbete
+Ett systematiskt kvalitetsarbete bidrar till att skapa
+
+en kultur av transparens och ansvarstagande. När
+verksamhetens styrning och kontroll tydliggörs och
+synliggörs, skapar det trygghet för både personal och
+ledning.
+
 45
 
 <!-- sida 612 -->
 
-Systematiskt kvalitetsarbete      genomförts enligt anvisningar och krav, följa upp
-Bilda har ett helhetsperspektiv på kvalitetsarbete. regionens arbete med internkontroll, granska särskilt
-Kvalitetsarbetet handlar i grunden om att säkerställa riskfyllda verksamhetsområden och stödja regionens
-att verksamheten genomförs enligt gällande regelverk utvecklingsarbete inom internkontroll.
-och är i linje med statens folkbildningspolitiska syften
-med stödet till folkbildningen, Bildas ändamålspa- Bildas internkontroll har sin utgångspunkt i Folkbild-
-ragraf, Bildas strategidokument Möten över gränser ningsrådets anvisningar för folkbildningsverksam-
-och verksamhetsplaner. I allt vårt arbete strävar vi heten och som reglerar Bildas kärnverksamhet. Fokus
+Systematiskt kvalitetsarbete
+Bilda har ett helhetsperspektiv på kvalitetsarbete.
+Kvalitetsarbetet handlar i grunden om att säkerställa
+att verksamheten genomförs enligt gällande regelverk
 
-efter att säkra god kvalitet. Det systematiska kvalitets- ligger därför på den operativa och rapporterings-
-arbetet ska avspegla alla nivåer och innefattar såväl mässiga nivån som är central inom folkbildnings-
-administration som verksamhetsformer och innehåll. verksamheten. Under 2020 har Bilda även bearbetat
-identitets- och värderingsfrågor som utgör grunden
-Ansvarsfördelning mellan kansli och regioner för Bildas strategiska målstyrning.
+och är i linje med statens folkbildningspolitiska syften
+med stödet till folkbildningen, Bildas ändamålspa-
+ragraf, Bildas strategidokument Möten över gränser
+och verksamhetsplaner. I allt vårt arbete strävar vi
+efter att säkra god kvalitet. Det systematiska kvalitets-
+arbetet ska avspegla alla nivåer och innefattar såväl
+administration som verksamhetsformer och innehåll.
+
+Ansvarsfördelning mellan kansli och regioner
 Förbundsstyrelsen är ansvarig för all verksamhet
-Utökad intern granskning
 som rapporteras för statsbidrag. Förbundskansliet
-har det huvudsakliga ansvaret för att kvalitetssäkra Vi lämnade i januari 2021 en rapport till Folkbild-
-all den verksamhet som rapporteras för statsbidrag, ningsrådet som redovisar en utökad intern granskning
-men även regionerna arbetar aktivt och löpande med av verksamheten under åren 2017-19. Av Bildas totala
-kvalitetssäkring. Sedan 2020 möts funktionsansvariga antal studietimmar (3 751 000) under de tre åren
-för ekonomi, rapportering och kvalitet på regioner 2017-19 ströks 0,64 procent, motsvarande 23 906
-och kansliet regelbundet för att samråda och utveckla studietimmar, i den här granskningen.
+har det huvudsakliga ansvaret för att kvalitetssäkra
+all den verksamhet som rapporteras för statsbidrag,
+
+men även regionerna arbetar aktivt och löpande med
+kvalitetssäkring. Sedan 2020 möts funktionsansvariga
+för ekonomi, rapportering och kvalitet på regioner
+och kansliet regelbundet för att samråda och utveckla
 verksamheten. Förbundskansliet arbetar med riska-
-Deltagarnas upplevda betydelse
 nalys och åtgärdsarbete på olika nivåer inom Bilda
-och säkerställer att lärdomar, nya rutiner och instruk- Bilda genomför årligen deltagarenkäter för att mäta
-tioner sprids i organisationen. Riskhantering sker vad studiecirkeln betytt för våra deltagare. Delta-
-framför allt genom förebyggande insatser. garenkäten utgörs av frågor om upplevt lärande,
-deltagande, egenmakt, meningsskapande och enga-
-Kvalitetsarbete på regionnivå handlar bland annat om gemang. Årets mätning visar att studiecirklar framför
-att säkerställa en god intern kontroll och verksam- allt upplevs skapa delaktighet och meningsskapande.
-hetsstyrning genom att exempelvis skapa rutiner för Det ligger i linje med vad forskningen konstaterar
-ekonomi och rapportering, fördela ansvar, genomföra om studieförbundens bidrag och värden, nämligen
-riskanalyser och arbeta med handlings- och åtgärds- att folkbildningens ideella och meningsskapande
-planer. Kansliet stöder regionernas arbete genom dimensioner är starka. Deltagarna rankar sitt läran-
-instruktioner, mallar och lathundar. Bilda redovisar de relativt högt, men delaktigheten i lärprocessen
-årligen genomförandet och resultatet av bland annat och gemenskapen med andra värderas ännu högre.
-granskningar och justeringar av den statsbidragsbe- Folkbildning handlar också om att stärka individers
-rättigade verksamheten till Folkbildningsrådet. självförtroende och självbild. Därför ställer vi även
-frågor om deras egenmakt stärkts. Även här får vi ett
-Fördjupad granskning              positivt resultat.
+och säkerställer att lärdomar, nya rutiner och instruk-
+tioner sprids i organisationen. Riskhantering sker
+framför allt genom förebyggande insatser.
+
+Kvalitetsarbete på regionnivå handlar bland annat om
+att säkerställa en god intern kontroll och verksam-
+hetsstyrning genom att exempelvis skapa rutiner för
+
+ekonomi och rapportering, fördela ansvar, genomföra
+riskanalyser och arbeta med handlings- och åtgärds-
+planer. Kansliet stöder regionernas arbete genom
+instruktioner, mallar och lathundar. Bilda redovisar
+årligen genomförandet och resultatet av bland annat
+granskningar och justeringar av den statsbidragsbe-
+rättigade verksamheten till Folkbildningsrådet.
+
+Fördjupad granskning
 Under våren 2020 genomfördes en fördjupad gransk-
-ning av folkbildningsverksamheten 2019 i tre av Bild- Enkätundersökningen visar att effekterna av corona-
-as sex regioner. Den fördjupade granskningen syftade pandemin inte påverkat kvaliteten i de cirklar som
-till att granska om den inrapporterade verksamheten genomfördes under 2020. Tvärtom visar resultaten att
+ning av folkbildningsverksamheten 2019 i tre av Bild-
+as sex regioner. Den fördjupade granskningen syftade
+till att granska om den inrapporterade verksamheten
 
 46
 
+genomförts enligt anvisningar och krav, följa upp
+regionens arbete med internkontroll, granska särskilt
+riskfyllda verksamhetsområden och stödja regionens
+utvecklingsarbete inom internkontroll.
+
+Bildas internkontroll har sin utgångspunkt i Folkbild-
+ningsrådets anvisningar för folkbildningsverksam-
+
+heten och som reglerar Bildas kärnverksamhet. Fokus
+ligger därför på den operativa och rapporterings-
+mässiga nivån som är central inom folkbildnings-
+verksamheten. Under 2020 har Bilda även bearbetat
+identitets- och värderingsfrågor som utgör grunden
+för Bildas strategiska målstyrning.
+
+Utökad intern granskning
+Vi lämnade i januari 2021 en rapport till Folkbild-
+ningsrådet som redovisar en utökad intern granskning
+av verksamheten under åren 2017-19. Av Bildas totala
+antal studietimmar (3 751 000) under de tre åren
+2017-19 ströks 0,64 procent, motsvarande 23 906
+
+studietimmar, i den här granskningen.
+Deltagarnas upplevda betydelse
+
+Bilda genomför årligen deltagarenkäter för att mäta
+vad studiecirkeln betytt för våra deltagare. Delta-
+garenkäten utgörs av frågor om upplevt lärande,
+deltagande, egenmakt, meningsskapande och enga-
+gemang. Årets mätning visar att studiecirklar framför
+allt upplevs skapa delaktighet och meningsskapande.
+Det ligger i linje med vad forskningen konstaterar
+om studieförbundens bidrag och värden, nämligen
+att folkbildningens ideella och meningsskapande
+dimensioner är starka. Deltagarna rankar sitt läran-
+
+de relativt högt, men delaktigheten i lärprocessen
+och gemenskapen med andra värderas ännu högre.
+Folkbildning handlar också om att stärka individers
+självförtroende och självbild. Därför ställer vi även
+frågor om deras egenmakt stärkts. Även här får vi ett
+positivt resultat.
+
+Enkätundersökningen visar att effekterna av corona-
+pandemin inte påverkat kvaliteten i de cirklar som
+genomfördes under 2020. Tvärtom visar resultaten att
+
 <!-- sida 613 -->
 
-deltagarna värderat cirkelverksamheten något högre Projektstödsfunktionen
-än vid föregående mätning.        Bildas projektverksamhet har vuxit under de senaste
-(782 av 9 075 deltagare svarade.) åren och blir en allt viktigare del av verksamheten.
-Den centrala projektstödsfunktionens syfte är att
-stödja regionerna att bereda, följa upp och utvärdera
+deltagarna värderat cirkelverksamheten något högre
+än vid föregående mätning.
+(782 av 9 075 deltagare svarade.)
+
 Sammanställning deltagarundersökningar
-projekt genom att tillhandahålla projektmallar och
 (Skala 1–5. Fem är högst värde.)
-verktyg och bygga projektkompetens inom Bilda ge-
-nom rådgivning och utbildning. Under 2020 förstärk-
-Delaktighet              4,52    te förbundskansliet ytterligare sitt projektstödsarbete
-för att möta upp regionernas ökade behov av stöd.
+
+Delaktighet              4,52
+
 Lärande                  3,98
 
 Egenmakt                 3,77
@@ -22456,8 +25367,8 @@ Meningsskapande          4,32
 Engagemang               3,13
 
 Utvecklingsarbete
-Bilda arbetar kontinuerligt med att förbättra sitt
 
+Bilda arbetar kontinuerligt med att förbättra sitt
 kvalitetsarbete. Under 2020 genomfördes exempelvis
 följande utvecklingsarbete:
 
@@ -22471,13 +25382,24 @@ kontrollen (fördjupad granskning).
 • Övergång till digitala verktyg, såsom e-tjänster, som
 underlättar uppstart och rapportering av folkbild-
 ningsverksamheten för ledare och verksamhetsut-
-
 vecklare.
 
 Studieförbunden utvecklade samverkan med varandra
 även nya granskningsverktyg, arbetssätt och överens-
 kommelser för att kvalitetssäkra folkbildningsverk-
 samheten.
+
+Projektstödsfunktionen
+Bildas projektverksamhet har vuxit under de senaste
+åren och blir en allt viktigare del av verksamheten.
+Den centrala projektstödsfunktionens syfte är att
+
+stödja regionerna att bereda, följa upp och utvärdera
+projekt genom att tillhandahålla projektmallar och
+verktyg och bygga projektkompetens inom Bilda ge-
+nom rådgivning och utbildning. Under 2020 förstärk-
+te förbundskansliet ytterligare sitt projektstödsarbete
+för att möta upp regionernas ökade behov av stöd.
 
 <!-- sida 614 -->
 
@@ -22657,96 +25579,150 @@ i n
 a        – 7 1
 0 2 tnemukodig et
 art s
-prioriteringar.                                  Strategiska teman och prioriteringar
+
+prioriteringar.                                 Strategiska teman och prioriteringar
 Arenor och
 Religion, tro och kyrka
-bildningsrum  - särart, möten och dialog
-På förbundsstämman 2020 fattades                 Etablering och egenmakt
--nyanländas delakatighet i samhälle
+bildningsrum - särart, möten och dialog
+På förbundsstämman 2020 fattades                Etablering och egenmakt
+
 beslut om att förlänga dokumentet fram
-Mångfald, jämställdhet och mänsklig
-till stämman 2022, samtidigt som arbetet Strategiska värdegrund
-med att ta fram Bildas långsiktiga verk-         -olikheter är en tillgång i ipraktiken
+till stämman 2022, samtidigt som arbetet Strategiska
+med att ta fram Bildas långsiktiga verk-
 teman
-Den digitala människan
 samhetsinriktning ska pågå. Starten för
+
+-nyanländas delakatighet i samhälle
+Mångfald, jämställdhet och mänsklig
+värdegrund
+-olikheter är en tillgång i ipraktiken
+Den digitala människan
 -från nätkonsument till aktiv medaktör
-idé- och strategiarbetet var det verksam-        Mellanöstern
-Strategiska   -Jerusalem, en unik utsiktspunkt
+
+idé- och strategiarbetet var det verksam-       Mellanöstern
+Strategiska  -Jerusalem, en unik utsiktspunkt
 hetsforum för Bildas medlemsorganisa-
 Samhällsliv och civilsamhälle
 prioriteringar
-tioner som arrangerades i oktober 2020.          -ökad samverkan och nya uppdrag
-Arbetet sker i fortsatt dialog genom olika       Hälsa och livstolkning
+tioner som arrangerades i oktober 2020.         -ökad samverkan och nya uppdrag
+
+Arbetet sker i fortsatt dialog genom olika      Hälsa och livstolkning
 -en helhetssyn på människan
 mötesplatser under det kommande året
 Ett hållbart samhälle
 Verksamhetsplaner
-där medlemsorganisationer, förtroende-           - klimat och livsmiljö
+där medlemsorganisationer, förtroende-          - klimat och livsmiljö
 Handlingsplaner
-valda och medarbetare är delaktiga. Beslut       Ledarutveckling
+valda och medarbetare är delaktiga. Beslut      Ledarutveckling
 -inspiration, utveckling och
 om långsiktig verksamhetsinriktning
 fördjupning
 fastställs på förbundsstämman 2022.
+
 Bilda
 2021
+
 48
 
 <!-- sida 615 -->
 
 Regionfakta
 
-Bilda Sydväst                     Revisorer
-Bilda Sydväst omfattar Hallands län, Skåne län och Ordinarie:
-Västra Götalands län. Regionkontoret är beläget i Gö- Olov Ånskog, förtroendevald revisor (lämnade sitt
-teborg. Lokalkontor har under året funnits i Grästorp, uppdrag vid stämman)
-Malmö och Skövde samt projektarbetsplats i Kristian- Margareta Kjernald, förtroendevald revisor (vald vid
-stad. Lokalkontor i Borås har sagts upp under året. stämman)
-Ragnar Santesson, Winthers revisionsbyrå, auktorise-
-Styrelsen                         rad revisor
+Bilda Sydväst
+Bilda Sydväst omfattar Hallands län, Skåne län och
 
-Regionstyrelsen för Studieförbundet Bilda Sydväst har Revisorssuppleanter:
-under året haft 6 sammanträden samt regionstämma. Inga-Maj Sandberg, förtroendevald revisor (lämnade
-Styrelsen har varit representerad vid länsbildningsför- sitt uppdrag vid stämman)
-bundens årsmöten.                 Mats-Ola Kindstedt, Kungsbacka (vald vid stämman)
-Lena Isik, Winthers revisionsbyrå, auktoriserad revi-
-Styrelsen har under året haft följande sor
+Västra Götalands län. Regionkontoret är beläget i Gö-
+teborg. Lokalkontor har under året funnits i Grästorp,
+Malmö och Skövde samt projektarbetsplats i Kristian-
+stad. Lokalkontor i Borås har sagts upp under året.
+
+Styrelsen
+Regionstyrelsen för Studieförbundet Bilda Sydväst har
+under året haft 6 sammanträden samt regionstämma.
+Styrelsen har varit representerad vid länsbildningsför-
+bundens årsmöten.
+
+Styrelsen har under året haft följande
 sammansättning:
-Personal
+
 Anders Svensson, Kållered, ordförande
-Anders Roos, Malmö, v. ordförande Under 2020 var medelantalet anställda varit 37.
-Lena Jaremo, Halmstad, kassör     Regionchef: Maria Rödholm (januari-september), Ivar
-Övriga ledamöter:                 Hedén Judt (från oktober)
-Katrin Hakopian, Lindome (lämnade sitt uppdrag vid Enhetschefer: Karin Hallin, Ivar Hedén Judt (tom
-stämman)                          september), Peter Ljungqvist, Frida Rosen Babarik (tf
-Nina Palm, Malmö                  enhetschef från november)
+Anders Roos, Malmö, v. ordförande
+Lena Jaremo, Halmstad, kassör
+Övriga ledamöter:
+Katrin Hakopian, Lindome (lämnade sitt uppdrag vid
+stämman)
+Nina Palm, Malmö
 Evert Saffo, Trollhättan
-Länsbildningsförbund
 Braco Kaladjzic, Halmstad
-Alice Margareta Cooper, Gråbo     Studieförbundet Bilda Sydväst har varit representerat
-Ehab Rafael, Limhamn              i följande länsbildningsförbund:
+Alice Margareta Cooper, Gråbo
+Ehab Rafael, Limhamn
 EvaMarie Brännström (från 7 Maj)
-Västra Götalands bildningsförbund
 Ersättare:
-Maria Rödholm
+
 Robert Azrak, Göteborg (valdes vid stämman)
-Karin Hallin
 Anne Grudeborn, Kungsbacka (valdes vid stämman)
-Peter Ljungqvist
 Emil Mattson (lämnade sitt uppdrag vid stämman)
-Regionchef Maria Rödholm (till och med september) Hallands Bildningsförbund
-och sedermera Ivar Hedén Judt har varit adjungerad Peter Ljungqvist
+Regionchef Maria Rödholm (till och med september)
+och sedermera Ivar Hedén Judt har varit adjungerad
 till styrelsen och även varit styrelsens sekreterare.
-Christopher Bryan (till och med oktober) och seder- Skånes studieförbund i samverkan
-mera Charlotte Härnstam har varit adjungerad som Ivar Hedén Judt
+Christopher Bryan (till och med oktober) och seder-
+mera Charlotte Härnstam har varit adjungerad som
 personalrepresentant.
-Delregionala Folkbildningssamråd (DFS) och Lokala
-Valberedning:                     folkbildningsråd (LFS)
+
+Valberedning:
 Valberedningens ordförande har varit Ingemar Nordieng,
-Kungsbacka. Valberedningens övriga deltagare har varit Studieförbundet Bilda Sydväst har varit representerat
-Ulla Brattö, Tomislav Colic, Christer Hedgärd och Inge- inom DFS och LFS i kommuner där sådana finns och
-mar Strindö. Samtliga valdes om på stämman. vi har haft verksamhet.
+Kungsbacka. Valberedningens övriga deltagare har varit
+
+Ulla Brattö, Tomislav Colic, Christer Hedgärd och Inge-
+mar Strindö. Samtliga valdes om på stämman.
+
+Revisorer
+Ordinarie:
+Olov Ånskog, förtroendevald revisor (lämnade sitt
+uppdrag vid stämman)
+
+Margareta Kjernald, förtroendevald revisor (vald vid
+stämman)
+Ragnar Santesson, Winthers revisionsbyrå, auktorise-
+rad revisor
+Revisorssuppleanter:
+Inga-Maj Sandberg, förtroendevald revisor (lämnade
+sitt uppdrag vid stämman)
+Mats-Ola Kindstedt, Kungsbacka (vald vid stämman)
+Lena Isik, Winthers revisionsbyrå, auktoriserad revi-
+sor
+
+Personal
+Under 2020 var medelantalet anställda varit 37.
+Regionchef: Maria Rödholm (januari-september), Ivar
+Hedén Judt (från oktober)
+
+Enhetschefer: Karin Hallin, Ivar Hedén Judt (tom
+september), Peter Ljungqvist, Frida Rosen Babarik (tf
+enhetschef från november)
+
+Länsbildningsförbund
+Studieförbundet Bilda Sydväst har varit representerat
+i följande länsbildningsförbund:
+
+Västra Götalands bildningsförbund
+Maria Rödholm
+Karin Hallin
+Peter Ljungqvist
+
+Hallands Bildningsförbund
+Peter Ljungqvist
+
+Skånes studieförbund i samverkan
+Ivar Hedén Judt
+
+Delregionala Folkbildningssamråd (DFS) och Lokala
+folkbildningsråd (LFS)
+
+Studieförbundet Bilda Sydväst har varit representerat
+inom DFS och LFS i kommuner där sådana finns och
+vi har haft verksamhet.
+
 49
 
 <!-- sida 616 -->
@@ -23627,8 +26603,6 @@ Oo oo 0 0
 
 11
 
-N RP BOND
-
 34
 
 44
@@ -23809,6 +26783,8 @@ Oo oo 0 0
 2009
 2646
 16 775
+
+N RP BOND
 
 <!-- sida 621 -->
 
@@ -26081,100 +29057,149 @@ organisationer, kommunala enheter och fristående grupper.
 
 <!-- sida 637 -->
 
-100                 år          av
+100                 år           av
 
-fria              tankar
+fria               tankar
 
 Den 24:e september 1920 kallade Eric Carlsson sina kamrater i Slöinge, här i Halland,
-till den första studiecirkeln, Fria tankars hem. Namnet hittade hans bror Rudolf på
 
+till den första studiecirkeln, Fria tankars hem. Namnet hittade hans bror Rudolf på
 då målet var att deltagarna skulle tänka själva och att de skulle tänka fritt. Det blev
 startskottet för Studieförbundet Vuxenskolan och studiecirkeln i landsbygdsrörelsen.
 
 Delar av SV Hallands personalstyrka i Slöinge.
 
-Så 100 år senare, den 24 september 2020 satte Studiecirkelns kärna handlar om det goda
-sig SV Hallands personalstyrka på cyklarna och samtalet mellan människor och under 2020
-trampade från Laxbutiken i Heberg till Slöinge har SV haft en rad aktiviteter på temat Plats
-för att fira. Där träffade vi Rune, son till Rudolf, för samtal. SV Halland livesände en panel-
-som hade mycket att berätta i det strålande debatt från Kungsbacka den 27 oktober på
-solskenet. En fin sensommardag att minnas temat Det goda samtalet med Björn Lind
-länge. Till hjälp för minnet finns också flera (HBF) och Annika Hedman (Centern Kungs-
+Så 100 år senare, den 24 september 2020 satte
+sig SV Hallands personalstyrka på cyklarna och
 
-insändare och artiklar från lokalpressen. backa) som inbjudna gäster.
-Studiecirkeln har varit och är en fantastisk Det fria ordet är satt under allt större press runt
-möjlighet till hur vi med små medel kan om i världen. Även demokratin ifrågasätts allt
+trampade från Laxbutiken i Heberg till Slöinge
+för att fira. Där träffade vi Rune, son till Rudolf,
+som hade mycket att berätta i det strålande
+solskenet. En fin sensommardag att minnas
+länge. Till hjälp för minnet finns också flera
+insändare och artiklar från lokalpressen.
 
-träffas för att lära, reflektera och debattera. oftare och ibland känns det som att klockans
-Bredden av ämnen som man bildat sig i visare börjar röra sig åt fel håll. Vi måste ha
-under åren är som en fantastisk väv med koll på det historiska perspektivet och värna
-all världens mönster och färger, minst lika det öppna demokratiska samtalet. Därför
-aktuell idag som för 100 år sedan. Ingen behövs studiecirklar som verktyg för folkbild-
-dålig bedrift att åldras med sådan värdighet! ning i minst 100 år till!
+Studiecirkeln har varit och är en fantastisk
+möjlighet till hur vi med små medel kan
+träffas för att lära, reflektera och debattera.
+Bredden av ämnen som man bildat sig i
+under åren är som en fantastisk väv med
+all världens mönster och färger, minst lika
+
+aktuell idag som för 100 år sedan. Ingen
+dålig bedrift att åldras med sådan värdighet!
+
+Studiecirkelns kärna handlar om det goda
+samtalet mellan människor och under 2020
+har SV haft en rad aktiviteter på temat Plats
+för samtal. SV Halland livesände en panel-
+debatt från Kungsbacka den 27 oktober på
+
+temat Det goda samtalet med Björn Lind
+(HBF) och Annika Hedman (Centern Kungs-
+backa) som inbjudna gäster.
+
+Det fria ordet är satt under allt större press runt
+om i världen. Även demokratin ifrågasätts allt
+oftare och ibland känns det som att klockans
+visare börjar röra sig åt fel håll. Vi måste ha
+koll på det historiska perspektivet och värna
+det öppna demokratiska samtalet. Därför
+behövs studiecirklar som verktyg för folkbild-
+ning i minst 100 år till!
 
 5
 
 <!-- sida 638 -->
 
 Folkbildning
+
 SV utgår ifrån att all kunskap har lika värde,
 oavsett om det gäller yrkeskunskap, vetenskap-
 lig kunskap, kunskap vi får i vardagslivet eller
-
 konstnärlig kunskap. Lärande inom folkbild-
 ningen ska inte enbart ge faktakunskaper eller
 vissa färdigheter, utan ska också bidra till vid-
 gad förståelse av det samhälle vi lever och den
 personliga utvecklingen. Därför är det viktigt att
-alla deltagare är aktiva i inriktning och upplägg.
 
+alla deltagare är aktiva i inriktning och upplägg.
 Bildning handlar i högre grad om insikt och
 sammanhang än om att lära sig fakta. Reflek-
+
 tionen tillsammans med andra är sedan av-
 görande, då vi delar erfarenheter och ökar vår
-förståelse. Det är folkbildningens pedagogik – Vi kompletterade snabbt med ljud och inspel-
-att skapa delaktighet och en fördjupad demokrati. ningsmöjligheter vilket medförde att mindre
+förståelse. Det är folkbildningens pedagogik –
+att skapa delaktighet och en fördjupad demokrati.
 
-grupper kunde ha samma dator men att ljud
-Det är folkbildningens   och bild ändå fungerade bra, samt att vi nu
-kunde göra livesändningar via vårt YouTube-
+Det är folkbildningens
+
 pedagogik – att skapa
-konto.
 delaktighet och en för-
-Under våren gavs all personal möjlighet att
+
 djupad demokrati.
-snabbutbilda sig i de webbverktyg som vi
-växlade över till och kunde därigenom vidare-
-utbilda ledare och deltagare. Förutom att lära
-Studiecirkeln                    sig hantera den digitala färdigheten, behövde
-vi lära oss vett och etikett i de digitala rummen,
+
+Studiecirkeln
+
 Att delta i en studiecirkel är fritt och frivilligt,
-vilket vi märkte var en förutsättning för bra
 det bygger på människors egna initiativ och
-möten.
 motivation för att lära och mötas. Det handlar
 om att gemensamt vilja utvecklas och utmanas.
-Effekterna av den snabba digitala omställnin-
 I en cirkel ges utrymme för samtal om viktiga
-gen tror vi är här för stanna. Den ger alla större
+
 saker. Både det som rör vårt valda ämne, men
-möjligheter att delta, oavsett var du befinner
 också om sådant som händer omkring oss.
+
+Den stora omställningen
+Pandemin har tydligt påskyndat den digitala
+
+omställningen hos såväl personer som orga-
+nisationer. SV Halland var hyfsat rustade för
+att snabbt kunna förändra från fysiska träffar
+och möten till helt digitala eller semidigitala.
+
+Vi hade tillgång till den fysiska utrustning som
+krävdes i form av datorer, surfplattor och tele-
+foner. Redan tidigare förekom det studiecirk-
+lar och kurser som delvis kunde vara digitala
+eller där enskilda deltagare kopplades upp.
+
+Vi kompletterade snabbt med ljud och inspel-
+ningsmöjligheter vilket medförde att mindre
+grupper kunde ha samma dator men att ljud
+och bild ändå fungerade bra, samt att vi nu
+kunde göra livesändningar via vårt YouTube-
+
+konto.
+Under våren gavs all personal möjlighet att
+snabbutbilda sig i de webbverktyg som vi
+
+växlade över till och kunde därigenom vidare-
+utbilda ledare och deltagare. Förutom att lära
+sig hantera den digitala färdigheten, behövde
+vi lära oss vett och etikett i de digitala rummen,
+vilket vi märkte var en förutsättning för bra
+möten.
+
+Effekterna av den snabba digitala omställnin-
+gen tror vi är här för stanna. Den ger alla större
+möjligheter att delta, oavsett var du befinner
 dig och den borde rimligen ge ett större utbud
 av aktiviteter på landsbygden. Vi ser den inte
-Den stora omställningen
+
 som en ersättare för de fysiska träffar som gör
-Pandemin har tydligt påskyndat den digitala folkbildningen och studiecirkeln till den fan-
-omställningen hos såväl personer som orga- tastiska mötesplats den är, utan som ett kom-
-nisationer. SV Halland var hyfsat rustade för plement som stärker människors möjlighet att
-att snabbt kunna förändra från fysiska träffar delta.
-och möten till helt digitala eller semidigitala.
+folkbildningen och studiecirkeln till den fan-
+tastiska mötesplats den är, utan som ett kom-
+plement som stärker människors möjlighet att
+delta.
+
 För att kunna fortsätta denna omställning så
-Vi hade tillgång till den fysiska utrustning som krävs snabba insatser för att minska de digitala
-krävdes i form av datorer, surfplattor och tele- klyftorna som finns bland olika grupper i sam-
-foner. Redan tidigare förekom det studiecirk- hället. I vissa fall kan dessa ha blivit större
-lar och kurser som delvis kunde vara digitala under pandemin där några människor halkat
-eller där enskilda deltagare kopplades upp. efter än mer.
+krävs snabba insatser för att minska de digitala
+klyftorna som finns bland olika grupper i sam-
+hället. I vissa fall kan dessa ha blivit större
+under pandemin där några människor halkat
+efter än mer.
+
 6
 
 <!-- sida 639 -->
@@ -26195,35 +29220,49 @@ Funktionsrätt, Kultur, Organisationer, Projekt och Uppdrag.
 
 Kursverksamheten
 
-Varje år satsar vi på att erbjuda ett fullspäckat Folkhälsa och livslångt lärande
+Varje år satsar vi på att erbjuda ett fullspäckat
 kursprogram med ett brett och varierat kurs-
-Vår ambition är alltid att erbjuda kurser, cirklar,
 utbud i våra halländska kommuner. Det är med
-kultur och föreläsningar inom ett stort spek-
 stor entusiasm vi planerar för detta, eftersom
-trum av områden, för att så många människor
 vi vet att det kan vara helt avgörande för en
-som möjligt ska kunna hitta det där som får
+
 människas välmående att ha något menings-
-just deras hjärtan att klappa lite extra. 2020
 fullt och lustfyllt att längta efter - ett andnings-
-hade vi kurser i allt från rakubränning, street-
 hål i veckans måsten.
+
+2020 innebar att vi fick vara extra uppfinnings-
+rika när det gällde vår kursverksamhet och
+ändå försöka skapa möjligheter för människ-
+
+ors intressen utifrån rådande omständigheter
+och restriktioner. Det blev också ett år när vi
+på allvar slog ett slag för Hållbarhet i olika
+former – både i vårt utbud och vårt arbetssätt.
+
+Folkhälsa och livslångt lärande
+
+Vår ambition är alltid att erbjuda kurser, cirklar,
+kultur och föreläsningar inom ett stort spek-
+trum av områden, för att så många människor
+som möjligt ska kunna hitta det där som får
+just deras hjärtan att klappa lite extra. 2020
+hade vi kurser i allt från rakubränning, street-
 dance, hönsskötsel och språk, till dagsaktuell
 politik, kaffekunskap och historia.
+
 Upptäck mer om Varberg lockade t ex fulla
 kurser. Kursledaren har skrivit böcker om
 Varbergs historia och har stor lokal kännedom
+
 – perfekt för nyinflyttade eller för den som
-2020 innebar att vi fick vara extra uppfinnings-
 önskar nya kunskaper om sin hemstad och
-rika när det gällde vår kursverksamhet och
 förståelse för varför saker ser ut som de gör.
-ändå försöka skapa möjligheter för människ-
-ors intressen utifrån rådande omständigheter Gemensamt för alla våra kurser är att det all-
-och restriktioner. Det blev också ett år när vi tid finns gott om utrymme för deltagarna att
-på allvar slog ett slag för Hållbarhet i olika ställa frågor och vara delaktiga i utformningen
-former – både i vårt utbud och vårt arbetssätt. av träffarna.
+
+Gemensamt för alla våra kurser är att det all-
+tid finns gott om utrymme för deltagarna att
+ställa frågor och vara delaktiga i utformningen
+av träffarna.
+
 7
 
 <!-- sida 640 -->
@@ -26237,30 +29276,17 @@ och själ.
 Vi har kurser med samtal om livets olika skeen-
 den, kost- och matlagningsorienterade kurser
 och kurser i avslappning och meditation. Vi
+
 erbjöd även yoga i en mängd olika former och
 för olika fysiska förutsättningar. I Halmstad
 kunde man t ex göra yoga på en stol för den
-
 som inte kan vara på en matta, eller pröva
-acroyoga - en paryoga med akrobatisk touch. Acroyoga i Halmstad.
-
-Kultur är överhuvudtaget
-viktigt för vår hälsa och vårt
-välmående. Vi har t ex runt
-10 grupper som spelar drag-
-
-spel tillsammans. Att spela
-ett instrument är bra för
-hjärnan och välbefinnandet,
-samtidigt som den sociala
-gemenskapen fyller en viktig
-funktion.
+acroyoga - en paryoga med akrobatisk touch.
 
 Dragspelskurs.
 
 Det samma gäller våra olika kurser med hant-
 verk och konst i fokus – målning, sömnad,
-
 quiltning, järnsmide, tovning, chokladproduk-
 tion, drejning och möbeltapetsering. Tillsam-
 mans med de andra deltagarna är man med
@@ -26271,11 +29297,25 @@ Vi fortsätter också att utveckla vårt kursutbud i
 våra fyra dansstudior i Halland – Kungsbacka,
 Varberg, Falkenberg och Halmstad. Här kan
 både vuxna och barn få utlopp för sin krea-
+
 tivitet – och dessutom göra det tillsammans
 med andra som delar samma intresse. Street,
 Show, Hip Hop, Afro, Sensa, Tango och Bre-
-
 akdans – utbudet är stort och varierat.
+
+Acroyoga i Halmstad.
+
+Kultur är överhuvudtaget
+viktigt för vår hälsa och vårt
+
+välmående. Vi har t ex runt
+10 grupper som spelar drag-
+spel tillsammans. Att spela
+ett instrument är bra för
+hjärnan och välbefinnandet,
+samtidigt som den sociala
+gemenskapen fyller en viktig
+funktion.
 
 Alster från vår Raku-kurs samt
 öppen träning på Dansstudion.
@@ -26353,40 +29393,51 @@ våra Hönskurser
 
 Odla dina egna groddar
 
-Detta gäller även för våra odlingskurser som Anpassning, uppfinningsrikedom
-
-blir allt fler. I kursen Odla dina egna groddar och digitalisering
+Detta gäller även för våra odlingskurser som
+blir allt fler. I kursen Odla dina egna groddar
 ökade medvetenheten om både hälsa och miljö
-Sammanfattningsvis kan man säga att, trots de
 och det skapades också utrymme för ny spän-
-utmaningar som året innebar, var det många
 nande mat. Deltagarna var lyriska! Vi genom-
-deltagare som kom tillbaka till oss och helt nya
 förde också en Fröbytardag med Hallands
-personer hittade till våra kurser.
+
 trädgårdsförening.
-Deltagandet i vår kursverksamhet har av för-
 Kopplat till hållbar ekologisk utveckling och
-klarliga skäl totalt sett varit lägre än normalt,
 möjligheten att nå nya målgrupper genom-
-men med hjälp av de anpassningar som gjorts
+
 fördes också en digital föreläsningsserie med
-har många kurser också kunnat genomföras
 några kända profiler med lokal anknytning.
-– med färre personer i rummen, fler utom-
 Teman som Hållbara blomster, REKO ring
-husaktiviteter eller att kurser helt enkelt gått
 och Bokashi lockade både sanna entusiaster
-över helt till digital form.
 och de som var nyfikna på något nytt och håll-
-bart, och med detta nådde vi en ny spännande Året bjöd på många omställningsvilliga ledare
-blandning av deltagare i olika åldrar. och deltagare, allt eftersom restriktionerna
+bart, och med detta nådde vi en ny spännande
+blandning av deltagare i olika åldrar.
+
+Anpassning, uppfinningsrikedom
+och digitalisering
+
+Sammanfattningsvis kan man säga att, trots de
+utmaningar som året innebar, var det många
+deltagare som kom tillbaka till oss och helt nya
+personer hittade till våra kurser.
+
+Deltagandet i vår kursverksamhet har av för-
+klarliga skäl totalt sett varit lägre än normalt,
+men med hjälp av de anpassningar som gjorts
+har många kurser också kunnat genomföras
+– med färre personer i rummen, fler utom-
+husaktiviteter eller att kurser helt enkelt gått
+över helt till digital form.
+
+Året bjöd på många omställningsvilliga ledare
+och deltagare, allt eftersom restriktionerna
 blev fler. Plötsligt hade vi grupper som sjöng,
+
 stickade, läste spanska och utövade qigong –
 och allt detta via sin dator! Uppfinningsrike-
 domen var stor och det säger mycket om hur
 stark viljans kraft är för det som ligger oss
 varmt om hjärtat.
+
 11
 
 <!-- sida 644 -->
@@ -26394,7 +29445,6 @@ varmt om hjärtat.
 Funktionsrätt         och   särskilda      insatser
 
 Tillsammans med olika intresseorganisationer och myndigheter bedriver SV ett enga-
-
 gerat arbete med människor med någon form av funktionsvariation. Verksamheten
 ska göra det möjligt för dessa personer att, utifrån sina förutsättningar, delta inom en
 mängd olika ämnen.
@@ -26404,21 +29454,21 @@ ingår t ex vårt arbete med nyanlända och asylsökande.
 
 Digital omställning – röst, balans,
 dans och musik
-Mycket verksamhet fick göra uppehåll under När besöksförbudet infördes valde vi att delvis
 
-2o2o på grund av restriktioner, inte minst digitalisera verksamheten, vilket innebar att vi
-kopplat till riskgrupper. Men en del kunde varje fredag under både våren och hösten har
-också ställas om för att kunna köras digitalt – livesänt genom Zoom eller spelat live utomhus
-tack vare att våra verksamhetsutvecklare till- om vädret tillåtit. En verksamhet som både de
-sammans med cirkelledare varit engagerade boende och personalen uppskattat varmt.
+Mycket verksamhet fick göra uppehåll under
+2o2o på grund av restriktioner, inte minst
+kopplat till riskgrupper. Men en del kunde
+också ställas om för att kunna köras digitalt –
+tack vare att våra verksamhetsutvecklare till-
+sammans med cirkelledare varit engagerade
 och stöttat grupper och deltagare att kunna
 komma igång.
 
 En värdefull omställning var SV Hallands upp-
 skattade cirkel Röst, balans och dans som i och
 med digitaliseringen dessutom kunde erbjudas
-i hela Sverige. En utmaning med just den här
 
+i hela Sverige. En utmaning med just den här
 studiecirkeln är att cirkelledaren bär ett extra
 stort ansvar gentemot deltagarna som lider av
 en neurologisk sjukdom som t ex Parkinson,
@@ -26426,9 +29476,9 @@ afasi eller stroke. Det gör att man inte kan ha
 för många deltagare i gruppen. Man vill såklart
 inte tumma på säkerheten – om något skulle
 hända. Till vår stora glädje fungerade höstens
+
 digitala testomgång fantastiskt bra med många
 nöjda deltagare. Kursen, som fick namnet Röst,
-
 balans och dans - på distans kommer vi erbjuda
 även fortsättningsvis. Deltagare som inte har
 möjlighet att komma till en fysisk träff kan nu
@@ -26439,28 +29489,29 @@ verksamhet som vi bedriver på äldreboenden
 i Halland. I Varberg har t ex en cirkelledar-
 trubadur besökt olika boenden och berikat
 vardagen med allsång.
+
+När besöksförbudet infördes valde vi att delvis
+digitalisera verksamheten, vilket innebar att vi
+varje fredag under både våren och hösten har
+livesänt genom Zoom eller spelat live utomhus
+om vädret tillåtit. En verksamhet som både de
+
+boende och personalen uppskattat varmt.
+
 Trubaduren Mats utanför ett äldreboende.
 
 12
 
 <!-- sida 645 -->
 
-Den 1 november anordnade SV en välgörenhets-
-konsert för Musikhjälpen, tillsammans med
-vår musikgrupp Fantastiska Underhållnings-
-bandet. Eventet streamades från Arena Varberg
-och det bjöds på livemusik och dans. 20 000
-kronor samlades in för Musikhjälpen och temat
-2020; Ingen människa ska lämnas utan vård.
-
 Fantastiska Underhållningsbandet
 på välgörenhetskonserten.
 
 Att slippa göra resan ensam
-
 Ett fint samarbete med Demensförbundet
 och Halmstads nystartade demensförening
 resulterade i en cirkelledarutbildning i
+
 september. Utbildningen kunde genom-
 föras med vissa restriktioner och innebar
 att fyra nya ledare i Halland nu kan leda
@@ -26470,60 +29521,107 @@ Ledare och deltagare på cirkelledar-
 utbildning ”Att slippa göra resan ensam”
 samt artikel i Varbergsposten.
 
+Den 1 november anordnade SV en välgörenhets-
+konsert för Musikhjälpen, tillsammans med
+vår musikgrupp Fantastiska Underhållnings-
+bandet. Eventet streamades från Arena Varberg
+och det bjöds på livemusik och dans. 20 000
+
+kronor samlades in för Musikhjälpen och temat
+2020; Ingen människa ska lämnas utan vård.
+
 13
 
 <!-- sida 646 -->
 
-Demensförbundet har utvecklat en modell och Samarbetet med Kungsbacka kommun resul-
-studiematerial för samtalsgrupper med personer terade också i en föreläsningsserie om tre till-
-i yrkesverksam ålder som nyligen fått en fällen i början av året, för anhöriga till barn
-demensdiagnos och är tidigt i sin sjukdom. med olika funktionsnedsättningar – Boende,
-Cirklar blev snabbt fulltecknade och fick upp- sysselsättning och ekonomi.
-märksamhet i media, men på grund av rådande
-I Halmstad samarbetar SV även med vår nära
-läge kommer dessa att genomföras under
-granne, Träffpunkten Bredgatan 3. Det är en
-kommande år.
-verksamhet som vänder sig till vuxna personer
-SV Halland påbörjade även ett samarbete med med psykisk ohälsa eller psykisk funktions-
-Föreningen Glaukom som önskade en sam- nedsättning som behöver stöd för att kunna
-arbetspartner. Glaukom är en ögonsjukdom ta del av samhällets utbud och få möjlighet att
-som drabbar synnerven och påverkar syn- ingå i ett meningsfullt sammanhang. SV har i
-fältet. Föreningen är till för både de som har samarbete med socialförvaltningen och Träff-
-sjukdomen och anhöriga. Samarbetet drog punkten under 2020 haft cirklar i sömnad,
-snabbt igång med studiecirkeln Att leva med bild, måleri och digital utveckling med inrikt-
-glaukom.                         ning säkerhet på nätet.
-Psykisk hälsa – i samarbete med  Riktade statliga uppdrag
-region och kommuner
-Staten har sedan 2015 använt sig av s k riktade
-SV är från och med 2020 samverkande arran- statliga anslag. I början spetsade man in sig på
-gör för Psyklyftet, tillsammans med Kungs- två olika arrangemangstyper som kallades
-backa kommun, Region Halland och förenings- Svenska från dag ett och Vardagssvenska.
-livet. Ytterligare ett samarbete är satsningen Syftet med dessa är att ge asylsökande en
-för att uppmärksamma problematiken med snabb introduktion till det svenska språket
-våld mot kvinnor. Samarbetet skapade en för att sedan kunna gå vidare och läsa SFI
+Demensförbundet har utvecklat en modell och
+studiematerial för samtalsgrupper med personer
+i yrkesverksam ålder som nyligen fått en
+demensdiagnos och är tidigt i sin sjukdom.
+Cirklar blev snabbt fulltecknade och fick upp-
 
-fantastisk utställning helt i orange som lyste (Svenska för invandrare). Anslagen har varit
-upp kulturhuset Fyren i Kungsbacka i sam- uträknade så att SV Halland fått en kvot att
-band med Orange Day den 25 november. förhålla sig till inom varje arrangemangstyp.
-Ett projekt som också syftade till att mildra Antalet deltagare har varierat och baserats på
-ensamheten under pandemin genom att arbeta vilka volymer respektive studieförbund nått
-mot ett gemensamt mål och förmedla kunskap tidigare år, men har normalt legat på ca 100
-i ämnet.                         personer varje år inom dessa två områden. SV
+märksamhet i media, men på grund av rådande
+läge kommer dessa att genomföras under
+kommande år.
+
+SV Halland påbörjade även ett samarbete med
+Föreningen Glaukom som önskade en sam-
+arbetspartner. Glaukom är en ögonsjukdom
+som drabbar synnerven och påverkar syn-
+fältet. Föreningen är till för både de som har
+sjukdomen och anhöriga. Samarbetet drog
+snabbt igång med studiecirkeln Att leva med
+glaukom.
+
+Psykisk hälsa – i samarbete med
+region och kommuner
+SV är från och med 2020 samverkande arran-
+gör för Psyklyftet, tillsammans med Kungs-
+backa kommun, Region Halland och förenings-
+
+livet. Ytterligare ett samarbete är satsningen
+för att uppmärksamma problematiken med
+våld mot kvinnor. Samarbetet skapade en
+fantastisk utställning helt i orange som lyste
+upp kulturhuset Fyren i Kungsbacka i sam-
+band med Orange Day den 25 november.
+Ett projekt som också syftade till att mildra
+ensamheten under pandemin genom att arbeta
+
+mot ett gemensamt mål och förmedla kunskap
+i ämnet.
+
+Orange Day på Fyren i Kungsbacka
+
+Samarbetet med Kungsbacka kommun resul-
+terade också i en föreläsningsserie om tre till-
+fällen i början av året, för anhöriga till barn
+med olika funktionsnedsättningar – Boende,
+sysselsättning och ekonomi.
+
+I Halmstad samarbetar SV även med vår nära
+granne, Träffpunkten Bredgatan 3. Det är en
+verksamhet som vänder sig till vuxna personer
+
+med psykisk ohälsa eller psykisk funktions-
+nedsättning som behöver stöd för att kunna
+ta del av samhällets utbud och få möjlighet att
+ingå i ett meningsfullt sammanhang. SV har i
+samarbete med socialförvaltningen och Träff-
+punkten under 2020 haft cirklar i sömnad,
+bild, måleri och digital utveckling med inrikt-
+ning säkerhet på nätet.
+
+Riktade statliga uppdrag
+Staten har sedan 2015 använt sig av s k riktade
+statliga anslag. I början spetsade man in sig på
+två olika arrangemangstyper som kallades
+Svenska från dag ett och Vardagssvenska.
+
+Syftet med dessa är att ge asylsökande en
+snabb introduktion till det svenska språket
+för att sedan kunna gå vidare och läsa SFI
+(Svenska för invandrare). Anslagen har varit
+uträknade så att SV Halland fått en kvot att
+förhålla sig till inom varje arrangemangstyp.
+Antalet deltagare har varierat och baserats på
+vilka volymer respektive studieförbund nått
+tidigare år, men har normalt legat på ca 100
+
+personer varje år inom dessa två områden. SV
 Halland har varje år nått sin kvot och vissa år
 även kunnat ge fler möjligheten till studier i
-
 det svenska språket.
+
 Med åren har de olika arrangemangstyperna
 utökats till att även innehålla riktade insatser
-
 mot föräldrars delaktighet i sina barns lärande,
 uppsökande och motiverande insatser för ar-
 betslösa kvinnor, Svenska för föräldralediga
 och Arbetsmarknadsnära insatser på distans.
 I dessa senare uppdrag har kvoterna varit be-
+
 tydligt lägre.
-Orange Day på Fyren i Kungsbacka
 
 14
 
@@ -26618,26 +29716,62 @@ Feet By Beat
 
 <!-- sida 649 -->
 
-I Dansstudion Falkenberg har verksamheten Stora dansshower, avslutningar och uppträdan-
-ökat stort sedan starten. Det trillade in kamrat- den som vi normalt brukar arrangera fysiskt
-cirklar redan från början, så det har vi gott om. har fått ställas in och ta ny skepnad i digital
-Våra danskurser har under största delen av form. På Dansstudion i Varberg livesände vi
-2020 varit fyllda av danssugna barn och unga. varje dansgrupp på vårt Instagram-konto vid
+I Dansstudion Falkenberg har verksamheten
+ökat stort sedan starten. Det trillade in kamrat-
+cirklar redan från början, så det har vi gott om.
+Våra danskurser har under största delen av
+2020 varit fyllda av danssugna barn och unga.
 
-Alla kurser fylldes upp, med många på kö. Vi sista kurstillfället samt filmade och publicerade
-startade dessutom upp ett tillskott i form av på SV Hallands Youtube-konto. Responsen från
-Mini HipHop för de allra minsta, 4-6 år, och familjer och anhöriga har varit jättefin. Mycket
-det blev såklart en succé!       tacksamhet för att vi höll igång verksamhet
-under våren, då många barn och ungdomar
+Alla kurser fylldes upp, med många på kö. Vi
+startade dessutom upp ett tillskott i form av
+Mini HipHop för de allra minsta, 4-6 år, och
+det blev såklart en succé!
+
 Vi har många eldsjälar som är cirkelledare och
-påverkades starkt av situationen – dansen gav
 kursledare för våra barn och ungdomsgrupper
-dem en stund av ”normalt liv”.
 och som sprider ordet om Dansstudion. De är
-enormt fina ambassadörer, vilket vi är fantas- Även Dansstudion Falkenberg livesände av-
-tiskt stolta och glada över.     slutningen på våren. Men med Mini-HipHo-
+enormt fina ambassadörer, vilket vi är fantas-
+tiskt stolta och glada över.
+
+Dansledare från sommarlägret i Falkenberg
+\- två av våra många unga eldsjälar.
+
+Digitala shower och livesändningar
+
+Under större delen av året har alltså verksam-
+heten i våra dansstudior varit igång, men med
+respekt för de restriktioner som funnits.
+Handsprit, avstånd och minskat antal delta-
+gare i grupperna. Det var först när de skärpta
+restriktionerna för Halland kom i början av
+november som vi fick stänga ner och pausa
+verksamheten helt.
+
+2020 har av därför av förklarliga skäl varit
+ett år med väldigt mycket filminspelningar.
+Ungdomarna har själva spelat in, redigerat
+
+och delat på sociala medier.
+
+Stora dansshower, avslutningar och uppträdan-
+den som vi normalt brukar arrangera fysiskt
+har fått ställas in och ta ny skepnad i digital
+form. På Dansstudion i Varberg livesände vi
+varje dansgrupp på vårt Instagram-konto vid
+
+sista kurstillfället samt filmade och publicerade
+på SV Hallands Youtube-konto. Responsen från
+familjer och anhöriga har varit jättefin. Mycket
+tacksamhet för att vi höll igång verksamhet
+under våren, då många barn och ungdomar
+påverkades starkt av situationen – dansen gav
+dem en stund av ”normalt liv”.
+
+Även Dansstudion Falkenberg livesände av-
+slutningen på våren. Men med Mini-HipHo-
 parna gjorde vi annorlunda – att få visa upp
 för sina föräldrar och syskon är ju själva höjd-
+
 punkten! Vi hade tänkt att göra en utomhus-
 föreställning på baksidan av huset, men när
 dagen kom blåste storm och regnet piskade i
@@ -26647,113 +29781,131 @@ larfönstren och kika in på barnens uppvisning.
 Barnen var stolta och alla blev nöjda och glada
 att få vara med om detta.
 
-Dansledare från sommarlägret i Falkenberg
-\- två av våra många unga eldsjälar.
-
-Digitala shower och livesändningar
-
-Under större delen av året har alltså verksam-
-heten i våra dansstudior varit igång, men med
-respekt för de restriktioner som funnits.     Uppvisning Mini HipHop ht-20,
+Uppvisning Mini HipHop ht-20,
 med föräldrar i fönstren.
-Handsprit, avstånd och minskat antal delta-
-gare i grupperna. Det var först när de skärpta
-restriktionerna för Halland kom i början av 2020 har verkligen varit ett år att tänka nytt
-november som vi fick stänga ner och pausa och det är kul att vi möts av så mycket posi-
-verksamheten helt.               tivitet och från deltagare och föräldrar, som
+
+2020 har verkligen varit ett år att tänka nytt
+och det är kul att vi möts av så mycket posi-
+
+tivitet och från deltagare och föräldrar, som
 nedanstående mejl som kom till oss en dag:
-2020 har av därför av förklarliga skäl varit
-ett år med väldigt mycket filminspelningar. ”-Stort tack för allt ni gör på Dansstudion för
-Ungdomarna har själva spelat in, redigerat våra barn och unga, både ni på kontoret och
-och delat på sociala medier.     dansledarna gör ett fantastiskt jobb!”
+”-Stort tack för allt ni gör på Dansstudion för
+
+våra barn och unga, både ni på kontoret och
+dansledarna gör ett fantastiskt jobb!”
 
 17
 
 <!-- sida 650 -->
 
+SV  Hallands
+dansstipendium    2020
+
+Kevin Vo, Tobias Löfberg
+
+Motivering: ”Ni är två fantastiska
+ambassadörer för Dansstudion och SV
+och vi är stolta över att få ha er hos oss.
+
+Er utveckling under de senaste åren är
+fantastisk och er hunger i att utvecklas
+inom dansen motiverar unga i Halland.
+
+Ni är inte bara skickliga inom dansen
+utan förgyller också vår verksamhet
+med gott ledarskap, glädje och hopp
+om medmänsklighet.
+För att ni är de ni är!”
+
 West Movement på Dansens dag i Varberg.
 
 Fler axplock från året
 Dansens dag i april firades i samarbete med
-
 Varbergs kommun. Firandet ställdes om och
+
 marknadsfördes med att olika dansuppvis-
 ningar skulle ske under dagen och man upp-
 manades att följa eventet digitalt. Samman-
 lagt gjorde Dansstudion 10 uppträdanden på
 olika platser i centrala Varberg, bl a utanför
 ett äldreboende med tango och streetdance.
-SV  Hallands
 Det var en kall men solig dag och många av
-dansstipendium    2020
 grupperna tyckte att detta var den bästa Dan-
-Kevin Vo, Tobias Löfberg      sens dag som genomförts.
-Motivering: ”Ni är två fantastiska Skapa dans genomfördes i oktober i samar-
-ambassadörer för Dansstudion och SV bete med Region Halland. Det är en tävling
-och vi är stolta över att få ha er hos oss. där ungdomar från hela länet tävlar med sin
+sens dag som genomförts.
+
+Skapa dans genomfördes i oktober i samar-
+bete med Region Halland. Det är en tävling
+där ungdomar från hela länet tävlar med sin
+
 egengjorda koreografi. Den här gången körde
-Er utveckling under de senaste åren är
 man utan publik och livestreamade istället.
-fantastisk och er hunger i att utvecklas
 Samtliga deltagare var från SV Hallands
-inom dansen motiverar unga i Halland.
 Dansstudior och vinnarna Kevin och Tobias
-Ni är inte bara skickliga inom dansen från vår dansstudio i Falkenberg vann hela
-utan förgyller också vår verksamhet tävlingen - även regionalt.
-med gott ledarskap, glädje och hopp
+från vår dansstudio i Falkenberg vann hela
+tävlingen - även regionalt.
+
 Vi delade ut SV Hallands dansstipendium för
-om medmänsklighet.
 första gången, vilket tilldelades Kevin Vo och
-För att ni är de ni är!”
 Tobias Löfberg för deras insats inom dansen
 i hela Halland.
+
 18
 
 <!-- sida 651 -->
 
-Musiken
 I Falkenberg arrangerades även två fullsatta
 sommarläger som blev mycket uppskattade.
-I Halmstad utökades Dansstudion med ännu
-en danssal liksom en helt ny och efterlängtad
+
 Hösten startades upp med en föreläsning och
-musikstudio. Ett tidigare förråd inreddes och
 workshop för dansledarna som ungdomsjouren
-där kan ungdomarna nu spela in och skriva
 Tigerlilja i Varberg höll i gällande ledarskap.
-egen musik, vilket förstås öppnar för nya
+
 Här fick ledarna möjlighet att ställa anonyma
-möjligheter på musikfronten.
 frågor om vad som helst.
-Musikverksamheten i Falkenberg har vuxit
 Planeringen för Instagramprojektet Dance your
-starkt sedan ett par år och många musiker/
+
 mind up drog igång – där vi belyser ungas psykiska
-producenter har valt att samarbeta med oss
 hälsa och dansens positiva effekt på den.
-på olika sätt. Även i Halmstad samarbetar SV
-med flera musikgrupper inom flera genrer.
 Med våra dansarenor som bas har vi det bild-
-Bland annat finns ett samarbete med musik-
+
 ats flera ungdomsföreningar tillsammans med
-föreningen Balkan Soul som har föreningslo-
 Förbundet Vi Unga. Under 2020 fick dessa
-kaler med utrymme för både barn och vuxna
 föreningar extra stöd genom projektet Fören-
-att spela instrument och sjunga tillsammans.
 ingsliv för alla – med fokus på ungas organise-
 ring, arrangörskap, ledarskap, demokrati och
-Vi vet hur viktig en lokal och mötesplats kan
 samhällsförståelse. Vår projektledare stöttade
-vara för att kunna utveckla det man vill och
 med bl a utbildning i styrelsekunskap och bok-
-brinner för.
 föring och kunde hjälpa till vid föreningarnas
 årsmöten. Man tog också fram korta och enk-
+
 la informationsfilmer om hur föreningen t ex
 kan göra ett mötesprotokoll.
 
 Årsmöte Vi Unga i mars 2020.
+
+Musiken
+
+I Halmstad utökades Dansstudion med ännu
+en danssal liksom en helt ny och efterlängtad
+musikstudio. Ett tidigare förråd inreddes och
+där kan ungdomarna nu spela in och skriva
+egen musik, vilket förstås öppnar för nya
+möjligheter på musikfronten.
+
+Musikverksamheten i Falkenberg har vuxit
+starkt sedan ett par år och många musiker/
+producenter har valt att samarbeta med oss
+på olika sätt. Även i Halmstad samarbetar SV
+med flera musikgrupper inom flera genrer.
+
+Bland annat finns ett samarbete med musik-
+föreningen Balkan Soul som har föreningslo-
+kaler med utrymme för både barn och vuxna
+att spela instrument och sjunga tillsammans.
+
+Vi vet hur viktig en lokal och mötesplats kan
+vara för att kunna utveckla det man vill och
+brinner för.
 
 19
 
@@ -26815,60 +29967,70 @@ september 2020
 Organisationer
 
 Vi är eldsjälarnas bästa vän! Samarbetet med SV hjälper föreningar till ett bättre sty-
-
 relsearbete, och vässad kompetens för en vitalare verksamhet som gör det lättare att re-
+
 krytera medlemmar. Vi vet att det ”livslånga lärandet” i organisationer och föreningar
 skapar engagemang och stödjer den demokratiska processen. Föreningsverksamheten
-
 utgör en stor del av SV:s verksamhet - på nationell, regional och lokal nivå.
 
-Studieförbundet Vuxenskolan samarbetar idag Grundorganisationerna
+Studieförbundet Vuxenskolan samarbetar idag
 med mer än 140 lokala föreningar i länet.
-Lantbrukarnas Riksorganisation (LRF), Center-
 Folkbildningens stöd till civilsamhällets för-
-partiet (C) och Liberalerna (L), är SVs grund-
 eningsliv är av avgörande betydelse för vårt
-organisationer. De utser ombud till stämmor
 välfärdssamhälle. 2020 blev ett utmanande år
-och bemannar interna uppdrag i styrelser och
+
 för många av våra föreningar, cirklar har pla-
-valberedningar. Stadgarna säkerställer också
 nerats och lagts upp för att sedan skjutas fram
-att överläggningar ska ske med grundorgani-
 eller ställas in. Inställda kulturarrangemang
-sationerna inför viktiga vägval.
 har avlöst varandra. Kontakterna med våra
-föreningar har varit många och mer omfat- Under 2020 togs ett omtag med våra tre
-tande, försök till att hitta nya vägar och ställa grundorganisationer. Målet är att fördjupa de
-om verksamheten mot digitalt, stötta upp och regionala kontakterna och att besöka dem alla
-tänka framåt.                    kommunvis för att berätta om vårt samarbete
+föreningar har varit många och mer omfat-
+tande, försök till att hitta nya vägar och ställa
+om verksamheten mot digitalt, stötta upp och
+tänka framåt.
+
+Grundorganisationerna
+
+Lantbrukarnas Riksorganisation (LRF), Center-
+partiet (C) och Liberalerna (L), är SVs grund-
+organisationer. De utser ombud till stämmor
+och bemannar interna uppdrag i styrelser och
+valberedningar. Stadgarna säkerställer också
+att överläggningar ska ske med grundorgani-
+sationerna inför viktiga vägval.
+
+Under 2020 togs ett omtag med våra tre
+grundorganisationer. Målet är att fördjupa de
+regionala kontakterna och att besöka dem alla
+kommunvis för att berätta om vårt samarbete
+
 och för att inspirera till fler gemensamma
 aktiviteter. Under hösten 2020 genomfördes
 8 värdefulla möten och redan kan vi se att det
 kommit in nya idéer där vi på SV medverkat
 till utbildningar och arrangemang – och fler
 möten är inplanerade framåt.
+
 21
 
 <!-- sida 654 -->
 
-Det regionala samarbetet är framför allt Något som ändå fungerat för de flesta fören-
-mellan Halland och Västra Götaland men ingar är Vandringar under samtal, där man
-också med Värmland och det samarbetet har besöker olika platser och samtalar om dessa.
-kommit igång väldigt bra både internt inom SV En förening läste t ex om Pyttebanan, som
-och med grundorganisationerna. Bland annat var en smalspårig järnväg som gick mellan
-genomfördes en ordförandekonferens för Li- Falkenberg i Hallands län och Limmared i
-beralerna Väst den 29 augusti där SV Halland Älsvsborgs län. Linjen var i drift 1894-1961.
-och VGR hade en gemensam presentation som Som avslutning transporterades deltagarna
+Det regionala samarbetet är framför allt
+mellan Halland och Västra Götaland men
+också med Värmland och det samarbetet har
+kommit igång väldigt bra både internt inom SV
+och med grundorganisationerna. Bland annat
 
-en av huvudpunkterna på dagordningen. i en traktorskopa och fick se en del av banan
-som finns kvar.
+genomfördes en ordförandekonferens för Li-
+beralerna Väst den 29 augusti där SV Halland
+och VGR hade en gemensam presentation som
+en av huvudpunkterna på dagordningen.
+
 Ett annat område är de nationella samarbetena
 inom SV. Detta verkar nu ha kommit igång på
 flera fronter och innebär att vi kan lära och ta
 stöd av varandra och att samordna våra insatser.
-Genom fler kontakter, oftast digitala tills vi kan
 
+Genom fler kontakter, oftast digitala tills vi kan
 ses igen, kommer vi att kunna hitta många fler
 områden att samarbeta kring. Inte minst vik-
 tigt inför valet 2022.
@@ -26880,101 +30042,149 @@ vara en viktig partner i våra grundorganisatio-
 ners utvecklingsarbete!
 
 SPF seniorerna
-
 Med ökad ålder förändras förutsättningarna i
 livet snabbare än vad tidigare levnadsår med-
 fört. Tillsammans med SPF seniorerna verkar
 SV för att de goda åren som senior blir aktiva,
+
 kreativa och roliga. 2o2o fanns det dock fler
 utmaningar än vanligt på den fronten.
-
 När pandemin väl var ett faktum under våren
+
 rekommenderade SPF:s förbund föreningar-
 na att pausa sin verksamhet, vilket resulterade
-Utflykt och komfortabel
-i att de flesta cirklar ställdes in. Under våren transport vid Pyttebanan.
+i att de flesta cirklar ställdes in. Under våren
 och sommaren flyttade några cirklar utomhus
 och enstaka grupper möttes i lokaler där det
-I september startade en annan förening en
 fanns möjlighet att hålla avstånd.
-samtalscirkel om corona. Cirkelledaren satte
-ett maxantal på grund av restriktionerna, på
+
 Utbildningsradion sände programmet Senior-
-en eftermiddag var alla platserna uppbokade!
 surfarna under våren, med förhoppningen att
-Vilken längtan det var att få prata med andra
 många nya cirklar skulle starta. Även Tillsam-
-om denna pandemi och dela erfarenheter. SV
 mans mot ensamhet sändes som utbildnings-
-höll med lämplig lokal så att cirkeln kunde ge-
 serie – men pandemin satte stopp för det mes-
-nomföras på ett säkert sätt.
 ta just detta år.
+
+Något som ändå fungerat för de flesta fören-
+ingar är Vandringar under samtal, där man
+besöker olika platser och samtalar om dessa.
+En förening läste t ex om Pyttebanan, som
+var en smalspårig järnväg som gick mellan
+
+Falkenberg i Hallands län och Limmared i
+Älsvsborgs län. Linjen var i drift 1894-1961.
+Som avslutning transporterades deltagarna
+i en traktorskopa och fick se en del av banan
+som finns kvar.
+
+Utflykt och komfortabel
+transport vid Pyttebanan.
+
+I september startade en annan förening en
+samtalscirkel om corona. Cirkelledaren satte
+
+ett maxantal på grund av restriktionerna, på
+en eftermiddag var alla platserna uppbokade!
+Vilken längtan det var att få prata med andra
+om denna pandemi och dela erfarenheter. SV
+höll med lämplig lokal så att cirkeln kunde ge-
+nomföras på ett säkert sätt.
+
 22
 
 <!-- sida 655 -->
 
 ”Detta var ju riktigt
+
 spännande!”
 
 Genom SV har de flesta lokala föreningar
 erbjudits hjälp för att komma igång med sina
 cirklar digitalt, vilket vissa föreningar nappat
-
 på. Möten och träffar har kunnat ske via t ex
 plattformen zoom där deltagarna fått hjälp att
 koppla upp sig genom SV-kontoren. De som
 tagit steget har gjort det med stor förtjusning
 är vår upplevelse och flera upptäckte att det
+
 digitala ger nya möjligheter och inte är ”så far-
 ligt” trots allt.
-
 ”Detta var ju riktigt spännande!” som en del-
 ”Att lära sig Zoom”, digital
 träff med SPF seniorerna. tagare skrev i ett mejl efter en digital träff.
+
+Stolta stipendiemottagare från
+SPF seniorerna Skällinge-Nösslinge
+
+Utdelningen av årets förenings-
+stipendium blev framflyttad
+till 2 september, då ett 20-tal
+medlemmar i SPF seniorerna
+Skällinge-Nösslinge uppvakta-
+des med kaffe, tårta, blommor
+och det prestigefyllda stipen-
+
+diet på 10 000 kronor.
 
 SPF  seniorerna
 föreningsstipendium    2019
 
 SPF seniorerna Skällinge-Nösslinge
-Stolta stipendiemottagare från
-SPF seniorerna Skällinge-Nösslinge Motivering: Denna SPF seniorer-förening har
+
+Motivering: Denna SPF seniorer-förening har
 under året visat prov på stor skicklighet att med
 studiecirkelns hjälp engagerat sina medlemmar
-Utdelningen av årets förenings-
 i ett aktivt folkbildningsarbete.
-stipendium blev framflyttad
-till 2 september, då ett 20-tal Föreningen har genom sitt breda utbud skapat
-medlemmar i SPF seniorerna förutsättningar för alla att hitta studiecirklar med
-Skällinge-Nösslinge uppvakta- både nytta och nöje. Genom bland annat studie-
-des med kaffe, tårta, blommor cirklar i litteratur, språk, matlagning och släkt-
-och det prestigefyllda stipen- forskning, så har den förhållandevis lilla föreningen
-diet på 10 000 kronor.     under 2019 engagerat många av sina medlemmar.
+
+Föreningen har genom sitt breda utbud skapat
+förutsättningar för alla att hitta studiecirklar med
+både nytta och nöje. Genom bland annat studie-
+cirklar i litteratur, språk, matlagning och släkt-
+forskning, så har den förhållandevis lilla föreningen
+under 2019 engagerat många av sina medlemmar.
 
 23
 
 <!-- sida 656 -->
 
 Hembygdsrörelsen
-Många hembygdsföreningar har försökt att Våxtorps hembygdsförening har gjort den digi-
-hålla igång sin folkbildande verksamhet trots tala studiecirkeln Säker Föreningsgård som de
-att det varit svårt och många arrangemang har menar har gett ett helt nytt säkerhetsstänk runt
 
-fått ställas in. Under sommarhalvåret kunde hembygdsgården. I Getinge hembygdsförening
-ändå en hel del verksamhet genomföras utom- har man gjort ett webbseminarium som hand-
-hus, bl a föreläsningar, kulturvandringar och lade om Hembygdsportalens möjligheter och
-studiecirklar i byggnadsvård.    hur man kan utveckla sin hemsida.
+Många hembygdsföreningar har försökt att
+hålla igång sin folkbildande verksamhet trots
+att det varit svårt och många arrangemang har
+fått ställas in. Under sommarhalvåret kunde
+ändå en hel del verksamhet genomföras utom-
+hus, bl a föreläsningar, kulturvandringar och
+studiecirklar i byggnadsvård.
 
-Några föreningar har sedan fortsatt bygde- Hallands bildningsförbund tillsammans med
-forska på distans och digitalt. I t ex Knäreds övriga delar av den halländska hembygdsrö-
-forskarring- och hembygdsförening ställer relsen drog igång arbetet med den digitala ut-
-man om och gör en cykeltrimskarta över de lo- ställningen Hallands starka kvinnor - för att
-kalhistoriska platserna, detta har bidragit att uppmärksamma att vår demokrati firar 100
-nya medlemmar i deras förening har lockats år 2021. Den här utställningen berättar om
-att delta i studiecirkel.        tiden före och efter att den kvinnliga rösträt-
+Några föreningar har sedan fortsatt bygde-
+forska på distans och digitalt. I t ex Knäreds
+forskarring- och hembygdsförening ställer
+man om och gör en cykeltrimskarta över de lo-
+
+kalhistoriska platserna, detta har bidragit att
+nya medlemmar i deras förening har lockats
+att delta i studiecirkel.
+
+Våxtorps hembygdsförening har gjort den digi-
+tala studiecirkeln Säker Föreningsgård som de
+menar har gett ett helt nytt säkerhetsstänk runt
+hembygdsgården. I Getinge hembygdsförening
+har man gjort ett webbseminarium som hand-
+
+lade om Hembygdsportalens möjligheter och
+hur man kan utveckla sin hemsida.
+Hallands bildningsförbund tillsammans med
+
+övriga delar av den halländska hembygdsrö-
+relsen drog igång arbetet med den digitala ut-
+ställningen Hallands starka kvinnor - för att
+uppmärksamma att vår demokrati firar 100
+år 2021. Den här utställningen berättar om
+tiden före och efter att den kvinnliga rösträt-
 ten genomfördes och när kvinnorna tog plats i
-
 politiken. Här porträtteras starka och modiga
+
 kvinnor i Halland som gjorde skillnad och ut-
 ställningen med aktiviteter kommer fortsätta
 under kommande året.
@@ -26991,12 +30201,11 @@ Motivering: Föreningen har startat upp flertalet
 studiecirklar i och med nya forskningsområdet Genevad,
 där studiegrupper fördjupat sig i ämnen som hantverkare,
 affärer och idrott samt gårdar.
-
 Samtidigt har föreningen haft ett engagerat samarbete
+
 med ortens skola, cirklar inom trädgård och örtagård,
 framställan av hant- och konstverk inför utställning samt
 vård av historiska kläder och byggnader.
-
 Föreningen har även haft varierade utbud av kulturprogram
 och ett fint exempel är föreläsning med hjärt- och lungräddning.
 
@@ -27010,18 +30219,31 @@ SHF Gödestad
 Borrås skåra, SHF Värö-Stråvalla
 
 Axplock från andra samarbeten
-Under 2020 har fokus legat på att möjliggöra Ränneslövs folkdanslag har lärt sig, via teori,
-verksamhet och det har resulterat i många stildanser från 1600-och 1700-talet och Kung-
-föreningskontakter, anpassning av lokaler, säter-Gunnarsjö byalag fortsatte sina cirklar
-träffar utomhus och digital omställning. om byggnadsvård och bevarande av mötes-
 
-platser längs med de olika vandringslederna
+Under 2020 har fokus legat på att möjliggöra
+verksamhet och det har resulterat i många
+föreningskontakter, anpassning av lokaler,
+träffar utomhus och digital omställning.
+
 Flera släktforskarföreningar har hittat krea-
-som finns i bygden.
 tiva lösningar, i t ex Laholm har man delat upp
-sina cirklar som då också blivit mer ämnes- Det finns många exempel på att människor an-
-specifika - med ett färre antal deltagare från ca ser att bin och honung hör till den vackra och
-10-13 till 3-4 deltagare i större lokaler istället. soliga sidan av livet. Likt bina så har även de
+sina cirklar som då också blivit mer ämnes-
+specifika - med ett färre antal deltagare från ca
+10-13 till 3-4 deltagare i större lokaler istället.
+
+Stildans hos Ränneslövs folkdanslag
+
+Ränneslövs folkdanslag har lärt sig, via teori,
+stildanser från 1600-och 1700-talet och Kung-
+säter-Gunnarsjö byalag fortsatte sina cirklar
+om byggnadsvård och bevarande av mötes-
+platser längs med de olika vandringslederna
+
+som finns i bygden.
+Det finns många exempel på att människor an-
+ser att bin och honung hör till den vackra och
+
+soliga sidan av livet. Likt bina så har även de
 halländska biodlarföreningarna varit flitiga
 med att starta samarbete och planering kring
 cirklar i Föreningsteknik. SV lyckades sy ihop
@@ -27029,6 +30251,7 @@ ett koncept i de flesta av Hallands kommuner.
 Totalt fick 33 biodlare fördjupade kunskaper
 och en utvärdering som skickades ut vittnade
 om mycket nöjda deltagare.
+
 Under 2020 inleddes också samarbeten med
 flera nya föreningar i Halland – bland annat
 Mosaik Halmstad – en lokal förening under
@@ -27036,121 +30259,137 @@ Mosaik Halmstad – en lokal förening under
 riksförbundet Mosaik. Deras uppdrag är att
 främja mänskliga rättigheter, hälsa, säkerhet
 och delaktighet – visionen är att vara ett liv-
-Stildans hos Ränneslövs folkdanslag
 fullt nätverk av positiv integration.
 
 25
 
 <!-- sida 658 -->
 
-Projekt      och   uppdrag
+Projekt     och    uppdrag
 
-Projekt Bygdevårdarna            Dikesprojektet
+Projekt Bygdevårdarna
 Kulturmiljö Turism 2020
-Projektet syftar till att öka kunskapen om di-
-Detta är ett LEADER-projekt (EU) beviljat av kesröjning och markavvattningens påverkan
-LLUH och Jordbruksverket. Projektperioden på både jordbruk och annan mark. Projektet
-är på två år, ursprungligen till och med fe- drivs på uppdrag av Jordbruksverket med stöd
-bruari 2021 men nu förlängt till och med au- från EU:s landsbygdsprogram och i samarbete
-gusti 2021. Trots pandemin genomfördes en med LRF. Under 2020 har det varit begränsad
-rad olika aktiviteter bland annat bildades ett verksamhet men cirkelledarna har träffats för
-bygdevårdsteam i Unnaryd under sommaren en digital fortbildning och planerar att starta
+Detta är ett LEADER-projekt (EU) beviljat av
 
-2020\. En behovsinventering bland hembygds- upp igen 2021.
+LLUH och Jordbruksverket. Projektperioden
+är på två år, ursprungligen till och med fe-
+bruari 2021 men nu förlängt till och med au-
+gusti 2021. Trots pandemin genomfördes en
+rad olika aktiviteter bland annat bildades ett
+bygdevårdsteam i Unnaryd under sommaren
+2020\. En behovsinventering bland hembygds-
 föreningar och bygdegårdsföreningar är också
-gjord liksom praktisk hjälp med hemsidor. Fisk på land – i Halland
-Detta är ett projekt som drivs av Refarm i syfte
+
+gjord liksom praktisk hjälp med hemsidor.
 Under hösten har en förstudie om digitala
-att öka produktionen av fiskodling på land. SV
 hembygdsvandringar startats och leder för-
-skulle ha startat upp studiecirklar under hös-
+
 hoppningsvis till ett nytt projekt under 2021.
+
+26
+
+Dikesprojektet
+
+Projektet syftar till att öka kunskapen om di-
+kesröjning och markavvattningens påverkan
+på både jordbruk och annan mark. Projektet
+drivs på uppdrag av Jordbruksverket med stöd
+från EU:s landsbygdsprogram och i samarbete
+med LRF. Under 2020 har det varit begränsad
+verksamhet men cirkelledarna har träffats för
+en digital fortbildning och planerar att starta
+
+upp igen 2021.
+
+Fisk på land – i Halland
+Detta är ett projekt som drivs av Refarm i syfte
+att öka produktionen av fiskodling på land. SV
+skulle ha startat upp studiecirklar under hös-
+
 ten 2020 men projektet har tvingats ställa in
 detta på grund av pandemin. En cirkelledarut-
 bildning är dock planerad och därefter tas nytt
 beslut om studiecirklarna.
 
-26
-
 <!-- sida 659 -->
 
-SPIRA – Utökad samhälls-         Av unga för unga i Hylte
+SPIRA – Utökad samhälls-
 information
-Projektet startades i september 2021 och hål-
-SPIRA-projektet finansieras genom den s.k. ler på till och med augusti 2021. Det liknar i
-Paragraf 37, pengar som söks av Kungsbacka många delar Föreningsliv för alla i Kungs-
-Kommun i syfte att ge stöd till nyanlända (de backa och samarbetar tätt ihop med Hylte
-som fått uppehållstillstånd och boende i kom- kommun för att ungdomar ska organisera sig
-munen) för att korta vägen ut i samhället. och ges möjligheter till en meningsfull och in-
-Projektet avslutades under våren 2020 och på spirerande fritid.
-grund av att det inte beviljades nya medel så
-blev det ingen fortsättning.     Högläsarna
 
-Detta är ett projekt i Kungsbacka i samarbete
+SPIRA-projektet finansieras genom den s.k.
+Paragraf 37, pengar som söks av Kungsbacka
+Kommun i syfte att ge stöd till nyanlända (de
+som fått uppehållstillstånd och boende i kom-
+munen) för att korta vägen ut i samhället.
+Projektet avslutades under våren 2020 och på
+grund av att det inte beviljades nya medel så
+blev det ingen fortsättning.
+
 Föreningsliv för alla i Kungsbacka
-med Arbetsförmedlingen via deras extratjäns-
-Projektet har drivits i Kungsbacka i samarbete ter men har under pandemin tvingats till att
-med Förbundet Vi Unga. Sedan starten i slutet minska eller ställa in verksamhet. SV erbjuder
-av 2019 och det skapats möjligheter för ungas högläsning, diskussioner om aktuella ämnen
-organisering i syfte att påverka sin fritid likväl och mycket annat under tretimmars-pass ute
-som sin omgivning. Projektet hade uppnått på olika äldreboenden och träffpunkter för
-alla sina mål när det avslutades i november äldre och personer med funktionsnedsättning-
-och har gett upphov till ett liknande projekt i ar. Verksamheten är mycket uppskattad och
-Hylte.                           gynnar flera olika parter. Arbetsförmedlingen
-har förlängt extratjänsterna till och med mars
-2021 och efter det är målet att verksamheten
-ska kunna fortsätta i studiecirkelform.
+Projektet har drivits i Kungsbacka i samarbete
+med Förbundet Vi Unga. Sedan starten i slutet
+av 2019 och det skapats möjligheter för ungas
+
+organisering i syfte att påverka sin fritid likväl
+som sin omgivning. Projektet hade uppnått
+alla sina mål när det avslutades i november
+och har gett upphov till ett liknande projekt i
+Hylte.
 
 Överst: Afro-Kultur Vi unga
 Mitten: KiX Halmstad årsmöte
 Nederst: KiX Falkenberg
 
+Av unga för unga i Hylte
+
+Projektet startades i september 2021 och hål-
+ler på till och med augusti 2021. Det liknar i
+många delar Föreningsliv för alla i Kungs-
+backa och samarbetar tätt ihop med Hylte
+kommun för att ungdomar ska organisera sig
+och ges möjligheter till en meningsfull och in-
+spirerande fritid.
+
+Högläsarna
+
+Detta är ett projekt i Kungsbacka i samarbete
+med Arbetsförmedlingen via deras extratjäns-
+ter men har under pandemin tvingats till att
+minska eller ställa in verksamhet. SV erbjuder
+högläsning, diskussioner om aktuella ämnen
+
+och mycket annat under tretimmars-pass ute
+på olika äldreboenden och träffpunkter för
+äldre och personer med funktionsnedsättning-
+ar. Verksamheten är mycket uppskattad och
+gynnar flera olika parter. Arbetsförmedlingen
+har förlängt extratjänsterna till och med mars
+2021 och efter det är målet att verksamheten
+ska kunna fortsätta i studiecirkelform.
+
 27
 
 <!-- sida 660 -->
 
-STOM – Stöd och matchning
-Året blev framgångsrikt för Stöd och match-
-ning hos oss – och mot slutet av året tog vi ste-
-get till att driva verksamheten helt i egen regi!
-
-STOM görs på uppdrag av Arbetsförmedlingen
-med målet att coacha arbetssökande till jobb
-eller studier. Tidigare har vi drivit verksamheten
-
-som underleverantör till Samjobb, som har
-många års erfarenhet av uppdraget, men suc-
-cessivt har vi jobbat upp en allt mer självstän-
-dig verksamhet och kunnat redovisa fina resul-
-tat. Därför sökte vi och fick ett eget avtal med
-Arbetsförmedlingen, vilket vi är mycket stolta
-över – vi har därmed anställt ny personal till
-verksamheten för att kunna fortsätta att ut-
-veckla vidare.
 Svenska med Röda Korset
-Varbergs kamratgrupp.         Pandemin bidrog till mer arbetslöshet och un-
-der året ökade antalet inskrivna på våra orter.
-Målet med verksamheten är att ge arbetssö-
+Varbergs kamratgrupp.
+
 TIA – Tidiga insatser för
-kande verktyg att växa genom kunskap, själv-
 asylsökande
-insikt och delaktighet. Genom att arbeta både
+
 SV bedriver en mycket uppskattad verksam-
-individuellt och i grupp med olika aktiviteter
 het på Migrationsverkets flyktinganläggning
-från stom-verktygslådan så når vi resultat och
 Spenshult. Våra cirkelledare ger de nyanlända
-får fler deltagare som kommer ut i arbete eller
 inblick i svenska språket likväl som i svenska
-studier, blir självförsörjande och kan skrivas
 värderingar och hur samhälle och demokrati
-ut från arbetsförmedlingen.
+
 fungerar. De är också ett stort stöd vad gäller
-kontakter med myndigheter och att tolka olika STOM planerar att expandera och kommer
-slags information.               hädanefter att drivas vidare som en egen verk-
-samhet inom SV Halland.
+kontakter med myndigheter och att tolka olika
+slags information.
+
 Min säkerhet
 Projekt drivs av Jönköping men Halland av
+
 varit en av 14 län som deltagit under det sis-
 ta året. Projektet vänder sig till personer
 med intellektuell funktionsnedsättning och/
@@ -27159,13 +30398,52 @@ eller neuropsykiatrisk funktionsnedsättning
 pen och skapar en ökad trygghet och egen-
 makt. Kurserna tar upp olika typer av ris-
 ker som man kan råka ut för i vardagen och
+
 hur man hanterar dessa. Vi hoppas på en
 fortsättning så snart som möjligt då alla varit
 väldigt nöjda och kunskapen är viktig för mål-
 gruppen.
+
+STOM – Stöd och matchning
+
+Året blev framgångsrikt för Stöd och match-
+ning hos oss – och mot slutet av året tog vi ste-
+get till att driva verksamheten helt i egen regi!
+
+STOM görs på uppdrag av Arbetsförmedlingen
+med målet att coacha arbetssökande till jobb
+eller studier. Tidigare har vi drivit verksamheten
+som underleverantör till Samjobb, som har
+många års erfarenhet av uppdraget, men suc-
+cessivt har vi jobbat upp en allt mer självstän-
+dig verksamhet och kunnat redovisa fina resul-
+tat. Därför sökte vi och fick ett eget avtal med
+
+Arbetsförmedlingen, vilket vi är mycket stolta
+över – vi har därmed anställt ny personal till
+verksamheten för att kunna fortsätta att ut-
+veckla vidare.
+
+Pandemin bidrog till mer arbetslöshet och un-
+der året ökade antalet inskrivna på våra orter.
+Målet med verksamheten är att ge arbetssö-
+kande verktyg att växa genom kunskap, själv-
+insikt och delaktighet. Genom att arbeta både
+individuellt och i grupp med olika aktiviteter
+från stom-verktygslådan så når vi resultat och
+får fler deltagare som kommer ut i arbete eller
+
+studier, blir självförsörjande och kan skrivas
+ut från arbetsförmedlingen.
+STOM planerar att expandera och kommer
+
+hädanefter att drivas vidare som en egen verk-
+samhet inom SV Halland.
+
 Deltagare på STOM som
 ”tvingades” sluta tack vare
 att de fick jobb.
+
 28
 
 <!-- sida 661 -->
@@ -27174,139 +30452,197 @@ Cirkelledare
 
 Vad vore folkbildningen utan våra cirkelledare, det är runt dessa som verksamheten
 rör sig och utvecklas vidare. Vi är så oerhört stolta och tacksamma över den insats, det
+
 engagemang och klokskap som våra ledare bidrar med varje dag – för som cirkelledare
 har du en både viktig och spännande roll i SV.
 
-Cirkelledaren – i cirkelns mitt  Cirkelledarutbildningar
-– ny satsning
-Rollen som cirkelledare är att leda deltagarna
-till lärande och utveckling. I cirkeln lär man 2020 bestämde vi oss för att ta ett rejält grepp
-sig lika mycket om varandras erfarenheter, om våra cirkelledarutbildningar, så att alla
-som av studiematerialet och ledaren. Klimatet som jobbar som ledare hos oss får en grundut-
-behöver därför vara tillåtande och öppet. Om bildning och en gedigen introduktion. En in-
-studiecirkeln är navet som SV snurrar kring – sats vi gjorde var att utbilda alla våra verksam-
-så är det cirkelledaren som tillsammans med hetsutvecklare i Halland att kunna hålla en
-sin grupp påverkar hur cirkeln utvecklar sig. grundutbildning för cirkelledare. Detta blev
+Cirkelledaren – i cirkelns mitt
 
-Cirkelledarens roll är så värdefull, hen skapar en rejäl utbildningsinsats av oss själva internt,
-tillit och trygghet i gruppen, så att alla blir del- och med detta har vi stärkt organisationen så
-aktiga. För ju mer delaktighet, desto bättre fler kan utbilda och stötta våra cirkelledare
-kvalitet och resultat brukar det bli, det är vår och anordna fler utbildningar lokalt.
+Rollen som cirkelledare är att leda deltagarna
+till lärande och utveckling. I cirkeln lär man
+sig lika mycket om varandras erfarenheter,
+som av studiematerialet och ledaren. Klimatet
+behöver därför vara tillåtande och öppet. Om
+studiecirkeln är navet som SV snurrar kring –
+så är det cirkelledaren som tillsammans med
+sin grupp påverkar hur cirkeln utvecklar sig.
+
+Cirkelledarens roll är så värdefull, hen skapar
+tillit och trygghet i gruppen, så att alla blir del-
+aktiga. För ju mer delaktighet, desto bättre
+kvalitet och resultat brukar det bli, det är vår
 erfarenhet.
+
+Cirkelledarutbildningar
+– ny satsning
+
+2020 bestämde vi oss för att ta ett rejält grepp
+om våra cirkelledarutbildningar, så att alla
+som jobbar som ledare hos oss får en grundut-
+bildning och en gedigen introduktion. En in-
+sats vi gjorde var att utbilda alla våra verksam-
+hetsutvecklare i Halland att kunna hålla en
+grundutbildning för cirkelledare. Detta blev
+en rejäl utbildningsinsats av oss själva internt,
+
+och med detta har vi stärkt organisationen så
+fler kan utbilda och stötta våra cirkelledare
+och anordna fler utbildningar lokalt.
 
 29
 
 <!-- sida 662 -->
 
-Vi ser också behovet av att kunna anpassa ut- Årets cirkelledare 2020
+Vi ser också behovet av att kunna anpassa ut-
 bildningarna efter cirkelledarnas behov och
-Varje år så utser vi årets cirkelledare i Halland
 intresse. Grunden är densamma, men rollen
-och 2020 gick utmärkelsen till Håkan Widar
 som cirkelledare kan se olika ut om du leder
-från Varberg, för sin fina insats som kursle-
 en cirkel i din förening, om du leder den i ett
-dare för dragspelskurser i både Varberg och
+
 intresseområde för deltagare du inte kän-
-Falkenberg.
 ner eller om cirkeln är i din kamratgrupp. På
 SV Halland utvecklar vi därför numera mer
 skräddarsydda utbildningar och fördjupning-
 ar för våra cirkelledare.
-Årets cirkelledare  2020
 
+Årets cirkelledare  2020
 Håkan Widar
 
 Motivering: Håkan Widar är
 en fantastiskt omtyckt kursledare,
 som med sin stora kunskap och sitt
+
 engagemang spridit glädje under
 många år på SV!
-
 Under pandemiåret 2020 har han
 dessutom gjort allt för att anpassa
 sina dragspelskurser efter både
 grupper och individer, så det
+
 skulle bli så bra som möjligt
 för alla deltagare och kontinuitet
 i musicerandet, hela tiden
-
 lösningsfokuserad.
+
 Han är en sann folkbildare
 och en positiv inspiratör!
 
 Tidigare vinnare:
+
 2017 Nada Johari, Kungsbacka
 integration
-
 2018 Rebecka Karlsson
 Kix Falkenberg
+
 2019 Margaretha Persson
 SPF Seniorerna Snöstorp
 
 30
 
+Årets cirkelledare 2020
+
+Varje år så utser vi årets cirkelledare i Halland
+och 2020 gick utmärkelsen till Håkan Widar
+från Varberg, för sin fina insats som kursle-
+dare för dragspelskurser i både Varberg och
+Falkenberg.
+
 <!-- sida 663 -->
 
 Organisationen
 
-SV verkar för att vara lokalt närvarande i Förtroendevalda
-
+SV verkar för att vara lokalt närvarande i
 länets alla kommuner. Genom vårt lokala
-Engagemang och kunskap är viktiga ledord när
 engagemang blir SV en naturlig samarbets-
-man ingår i en styrelse. Andra viktiga faktorer
 part. För att offensivt kunna möta framtida
-är att varje förtroendevald finner sin roll i styr-
 utmaningar och behov erbjuder vi samtliga
-elsearbetet samt att det finns bra faktaunder-
+
 medarbetare (förtroendevalda, tjänstemän
-lag att tillgå innan viktiga beslut skall fattas.
 och cirkelledare) goda och återkommande
-möjligheter till kompetensutveckling. Styrelsens ledamöter
-Ordförande: Niclas Erlandsson
+möjligheter till kompetensutveckling.
+
 Pedagogisk utveckling
-Vice ordförande: Helén Andersson
+
 SV:s värdegrund och pedagogik genomsyrar
-Övriga ledamöter: Inga-Lill Kihlberg,
 alla studiecirklar, kurser och arrangemang.
-Sven-Anders Svensson, Claes Åkerberg,
-Ett aktivt pedagogiskt utvecklingsarbete är Maria Bronelius
-viktigt för vår verksamhet. Detta arbete ut- Anders Eriksson (Centerpartiet), Annika
-går från en öppenhet att pröva ny metodik, Arnesson (LRF), Olav Magnusson (Liberalerna),
-ny teknik och flexibla former för lärande och Åke Persson (SPF) adj
+Ett aktivt pedagogiskt utvecklingsarbete är
+
+viktigt för vår verksamhet. Detta arbete ut-
+går från en öppenhet att pröva ny metodik,
+ny teknik och flexibla former för lärande och
 omfattar all verksamma inom SV Halland.
-Revisorer
-Våra 1353 cirkelledare och kulturarbetare är Lena Olofsdotter, Gösta Gustafsson och
-mycket viktiga för oss och vi arbetar för att auktoriserad revisor från Grant Thornton
+
+Våra 1353 cirkelledare och kulturarbetare är
+mycket viktiga för oss och vi arbetar för att
 stärka deras roll inom SV Halland.
+
+Förtroendevalda
+
+Engagemang och kunskap är viktiga ledord när
+man ingår i en styrelse. Andra viktiga faktorer
+är att varje förtroendevald finner sin roll i styr-
+elsearbetet samt att det finns bra faktaunder-
+lag att tillgå innan viktiga beslut skall fattas.
+
+Styrelsens ledamöter
+Ordförande: Niclas Erlandsson
+
+Vice ordförande: Helén Andersson
+Övriga ledamöter: Inga-Lill Kihlberg,
+Sven-Anders Svensson, Claes Åkerberg,
+Maria Bronelius
+
+Anders Eriksson (Centerpartiet), Annika
+Arnesson (LRF), Olav Magnusson (Liberalerna),
+Åke Persson (SPF) adj
+Revisorer
+
+Lena Olofsdotter, Gösta Gustafsson och
+auktoriserad revisor från Grant Thornton
+
 Valberedning
 Gunnel Bengtsson (sammankallande), Cecilia
+
 Bengtsson, Jenny Axelsson, Lars Fagerström,
 Inger Brosved och Eva Persson.
+
 31
 
 <!-- sida 664 -->
 
 Personal
-Vi strävar efter att vara en attraktiv arbets- Nyanställda under året är Elisabeth Blide som
-givare som arbetar aktivt för en god arbetsmiljö. arbetar med projekt och våra grundorganisa-
-Inom avdelningen tillämpar vi ett insiktsfullt tioner. Pia Berglund anställdes som verksam-
 
-och hållbart ledarskap. Vi ger samtliga med- hetsutvecklare och Sandra Kosk övergick från
-arbetare kompetensutveckling utifrån deras sin projekttjänst till verksamhetsutvecklare.
-egen önskan och avdelningens behov. Under Samtliga med placering i Kungsbacka.
+Vi strävar efter att vara en attraktiv arbets-
+givare som arbetar aktivt för en god arbetsmiljö.
+Inom avdelningen tillämpar vi ett insiktsfullt
+och hållbart ledarskap. Vi ger samtliga med-
+arbetare kompetensutveckling utifrån deras
+egen önskan och avdelningens behov. Under
 året har samtliga tjänstemän deltagit i någon
-Stöd och Matchning utökades en kort period
 form av utbildning kopplat till deras roll.
-under hösten med Magnus Svanström. Våra
-Vi har under året varit 21 tjänstepersoner samt olika projekt har även innefattat tilldelade
-en projektanställd. Avdelningschef Joachim extratjänster från Arbetsförmedlingen.
+
+Vi har under året varit 21 tjänstepersoner samt
+en projektanställd. Avdelningschef Joachim
 Lindqvist arbetade som t.f. förbundschef fram
-Slutade sina tjänster gjorde Katarina Cronelid
+
 till mars 2020 och under den perioden så var
-och Anita Johansson, som båda gick i pension
 Kristina Svahn t.f. avdelningschef.
+
+Nyanställda under året är Elisabeth Blide som
+arbetar med projekt och våra grundorganisa-
+tioner. Pia Berglund anställdes som verksam-
+hetsutvecklare och Sandra Kosk övergick från
+sin projekttjänst till verksamhetsutvecklare.
+
+Samtliga med placering i Kungsbacka.
+Stöd och Matchning utökades en kort period
+under hösten med Magnus Svanström. Våra
+
+olika projekt har även innefattat tilldelade
+extratjänster från Arbetsförmedlingen.
+Slutade sina tjänster gjorde Katarina Cronelid
+
+och Anita Johansson, som båda gick i pension
 under året.
 
 32
@@ -27397,35 +30733,49 @@ att ständigt bli en bättre plats att arbeta på.
 <!-- sida 667 -->
 
 Kvalitetsarbetet
-SV ska uppvisa god kvalitet i alla delar av verk- Redan hösten 2019 började det, som skulle
-samheten, det förväntar sig våra deltagare, an- benämnas som ”Järvaskandalen” i folkbild-
-slagsgivare och samhället i övrigt. ningskretsar, att rullas upp. Ett antal studie-
 
-förbund hade blivit utsatta för bedrägeri från
+SV ska uppvisa god kvalitet i alla delar av verk-
+samheten, det förväntar sig våra deltagare, an-
+slagsgivare och samhället i övrigt.
+
 Inom SV arbetar vi tillsammans enligt en ge-
-flera stora föreningar vars verksamhet låg som
 mensam kvalitetsstrategi. Särskilt viktigt i vårt
-underlag för utbetalning av stora summor
 kvalitetsarbete är att ta reda på vad våra del-
-pengar.
 tagare, cirkelledare och samarbetspartners
-uppfattar om oss och vårt arbete. Deras syn- Med det som bakgrund krävde Folkbildnings-
-punkter tillsammans med SVs nationella led- rådet som är i myndighetsställe en extra genom-
-ningssystem är bärande faktorer i vårt kvali- lysning av alla studieförbunds verksamhet för
-tetsarbete.                      åren 2017-2019. Arbetet genomfördes under
-hösten 2020 och resulterade för SV Hallands
+uppfattar om oss och vårt arbete. Deras syn-
+punkter tillsammans med SVs nationella led-
+ningssystem är bärande faktorer i vårt kvali-
+tetsarbete.
+
 För att vi ska kunna leva upp till statens krav
-del att vi året 2019 hade rapporterat fel på nio
 och våra egna högt ställda förväntningar har vi
-deltagare och 184 studietimmar. Vi har alltid
 varje år interna genomlysningar. Utsedda per-
-värnat en hög säkerhet och kvalitet i vår verk-
+
 soner bland personalen gör en granskning av
-samhet och är därför stolta över resultatet av
 genomförd verksamhet i våra kommuner och
-den extra genomlysningen.
 utifrån det så kan vi ständigt göra förbättring-
 ar av vårt arbetssätt.
+
+Redan hösten 2019 började det, som skulle
+benämnas som ”Järvaskandalen” i folkbild-
+ningskretsar, att rullas upp. Ett antal studie-
+förbund hade blivit utsatta för bedrägeri från
+flera stora föreningar vars verksamhet låg som
+
+underlag för utbetalning av stora summor
+pengar.
+Med det som bakgrund krävde Folkbildnings-
+
+rådet som är i myndighetsställe en extra genom-
+lysning av alla studieförbunds verksamhet för
+åren 2017-2019. Arbetet genomfördes under
+hösten 2020 och resulterade för SV Hallands
+del att vi året 2019 hade rapporterat fel på nio
+deltagare och 184 studietimmar. Vi har alltid
+värnat en hög säkerhet och kvalitet i vår verk-
+samhet och är därför stolta över resultatet av
+
+den extra genomlysningen.
 
 35
 
@@ -27435,43 +30785,115 @@ Verksamhetsstatistik
 
 2018            2019                2020
 
-36
--EIDUTS RALKRIC RAMMIT AKINU
-ERAGATLED
-RRA
--EIDUTS RALKRIC RAMMIT AKINU
-ERAGATLED
-RRA
--EIDUTS RALKRIC RAMMIT AKINU
-ERAGATLED
-RONNIVK NÄM
-/
-RRA
 Falkenberg 471 17236 2175 223 566 19010 2194 269 429 14680 1558 1017 / 541 95
+
 Halmstad  735 27289 2934 270 710 26318 2672 248 545 19974 2116 1470 / 646 64
+
 Hylte     79 1670 441 70  77 1456 481  83  43 773  547 220 / 127 30
+
 Kungsbacka 426 11897 1997 349 419 12038 2121 360 278 5695 1456 1075 / 381 145
+
 Lahom     150 3832 821 170 155 4390 707 161 95 2385 575 356 / 219 22
+
 Varberg   569 14172 2762 244 581 16273 2848 358 424 10200 2092 1471 / 621 157
+
 Totalt:  2430 76096 10625 1326 2508 79485 10560 1479 1814 53707 7895 5425 / 2470 513
+
 2018            2019                2020
--EIDUTS RALKRIC RAMMIT AKINU
-ERAGATLED
-RRA
--EIDUTS RALKRIC RAMMIT AKINU
-ERAGATLED
-RRA
--EIDUTS RALKRIC RAMMIT AKINU
-ERAGATLED
-RONNIVK NÄM
-/
-RRA
+
 Kultur    509 28661 1299 209 611 30571 1324 169 554 28580 1098 688 / 410 40
+
 MBSS      291 4994 1333 141 242 5851 1152 168 116 2132 681 461 / 220 73
+
 Organisationer 797 19858 4363 916 811 20813 4301 1130 509 10813 3245 2000 / 1245 350
+
 Studieprogram 525 9996 3188 9 558 10339 3440 10 386 10339 2361 1865 / 496 6
+
 Övrigt    303 12425 1295 2 294 11978 1217 2 237 6180 1027 839 / 188 3
+
 Totalt:  2425 75934 10625 1277 2529 79638 10560 1479 1806 53754 7895 5425 / 2470 472
+
+36
+
+STUDIE-
+
+STUDIE-
+
+CIRKLAR
+
+CIRKLAR
+
+TIMMAR
+
+TIMMAR
+
+UNIKA
+
+UNIKA
+
+DELTAGARE
+
+DELTAGARE
+
+ARR
+
+ARR
+
+STUDIE-
+
+STUDIE-
+
+CIRKLAR
+
+CIRKLAR
+
+TIMMAR
+
+TIMMAR
+
+UNIKA
+
+UNIKA
+
+DELTAGARE
+
+DELTAGARE
+
+ARR
+
+ARR
+
+STUDIE-
+
+STUDIE-
+
+CIRKLAR
+
+CIRKLAR
+
+TIMMAR
+
+TIMMAR
+
+UNIKA
+
+UNIKA
+
+DELTAGARE
+
+DELTAGARE
+
+KVINNOR
+
+KVINNOR
+
+/ MÄN
+
+/ MÄN
+
+ARR
+
+ARR
 
 <!-- sida 669 -->
 
@@ -27480,77 +30902,105 @@ REVISIONSBERÄTTELSE
 Till föreningsstämman i SV Halland
 Org.nr. 802460-2990
 
-Vid upprättandet av årsredovisningen ansvarar styrelsen för
 Rapport om årsredovisningen
-bedömningen av föreningens förmåga att fortsätta verksamheten. Den
-upplyser, när så är tillämpligt, om förhållanden som kan påverka
-Uttalanden                        förmågan att fortsätta verksamheten och att använda antagandet om
-Vi har utfört en revision av årsredovisningen för SV Halland för år fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om
-2020\.                             styrelsen avser att likvidera föreningen, upphöra med verksamheten
-eller inte har något realistiskt alternativ till att göra något av detta.
+Uttalanden
+Vi har utfört en revision av årsredovisningen för SV Halland för år
+2020\.
 Enligt vår uppfattning har årsredovisningen upprättats i enlighet med
 årsredovisningslagen och ger en i alla väsentliga avseenden rättvisande
-Det registrerade revisionsbolagets ansvar
 bild av föreningens finansiella ställning per den 31 december 2020 och
-Våra mål är att uppnå en rimlig grad av säkerhet om huruvida
 av dess finansiella resultat för året enligt årsredovisningslagen.
-årsredovisningen som helhet inte innehåller några väsentliga
 Förvaltningsberättelsen är förenlig med årsredovisningens övriga
-felaktigheter, vare sig dessa beror på oegentligheter eller misstag, och
 delar.
-att lämna en revisionsberättelse som innehåller våra uttalanden. Rimlig
-Vi tillstyrker därför att föreningsstämman fastställer resultaträkningen säkerhet är en hög grad av säkerhet, men är ingen garanti för att en
-och balansräkningen.              revision som utförs enligt ISA och god revisionssed i Sverige alltid
-kommer att upptäcka en väsentlig felaktighet om en sådan finns.
-Grund för uttalanden              Felaktigheter kan uppstå på grund av oegentligheter eller misstag och
-Vi har utfört revisionen enligt god revisionssed i Sverige. Revisorernas anses vara väsentliga om de enskilt eller tillsammans rimligen kan
-ansvar enligt denna sed beskrivs närmare i avsnitten "Det registrerade förväntas påverka de ekonomiska beslut som användare fattar med
-revisionsbolagets ansvar" samt "De förtroendevalda revisorernas grund i årsredovisningen.
+Vi tillstyrker därför att föreningsstämman fastställer resultaträkningen
+och balansräkningen.
+Grund för uttalanden
+Vi har utfört revisionen enligt god revisionssed i Sverige. Revisorernas
+ansvar enligt denna sed beskrivs närmare i avsnitten "Det registrerade
+revisionsbolagets ansvar" samt "De förtroendevalda revisorernas
 ansvar". Vi är oberoende i förhållande till föreningen enligt god
-Som del av en revision enligt ISA använder vi professionellt omdöme
 revisorssed i Sverige. Vi som registrerat revisionsbolag har fullgjort
-och har en professionellt skeptisk inställning under hela revisionen.
 vårt yrkesetiska ansvar enligt dessa krav.
-Dessutom:
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och
-• identifierar och bedömer vi riskerna för väsentliga felaktigheter i
 ändamålsenliga som grund för våra uttalanden.
+Annan information än årsredovisningen
+Det är styrelsen som har ansvaret för den andra informationen. Den
+andra informationen består av Verksamhetsberättelse 2020 (men
+innefattar inte årsredovisningen och vår revisionsberättelse avseende
+denna).
+Vårt uttalande avseende årsredovisningen omfattar inte denna
+information och vi gör inget uttalande med bestyrkande avseende
+denna andra information.
+I samband med vår revision av årsredovisningen är det vårt ansvar att
+läsa den information som identifieras ovan och överväga om
+informationen i väsentlig utsträckning är oförenlig med
+årsredovisningen. Vid denna genomgång beaktar vi även den kunskap
+vi i övrigt inhämtat under revisionen samt bedömer om informationen
+i övrigt verkar innehålla väsentliga felaktigheter.
+Om vi, baserat på det arbete som har utförts avseende denna
+information, drar slutsatsen att den andra informationen innehåller en
+väsentlig felaktighet, är vi skyldiga att rapportera detta. Vi har inget att
+rapportera i det avseendet.
+Styrelsens ansvar
+Det är styrelsen som har ansvaret för att årsredovisningen upprättas
+och att den ger en rättvisande bild enligt årsredovisningslagen.
+Styrelsen ansvarar även för den interna kontroll som den bedömer är
+nödvändig för att upprätta en årsredovisning som inte innehåller några
+väsentliga felaktigheter, vare sig dessa beror på oegentligheter eller
+misstag.
+
+Vid upprättandet av årsredovisningen ansvarar styrelsen för
+bedömningen av föreningens förmåga att fortsätta verksamheten. Den
+upplyser, när så är tillämpligt, om förhållanden som kan påverka
+förmågan att fortsätta verksamheten och att använda antagandet om
+fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om
+styrelsen avser att likvidera föreningen, upphöra med verksamheten
+eller inte har något realistiskt alternativ till att göra något av detta.
+Det registrerade revisionsbolagets ansvar
+Våra mål är att uppnå en rimlig grad av säkerhet om huruvida
+årsredovisningen som helhet inte innehåller några väsentliga
+felaktigheter, vare sig dessa beror på oegentligheter eller misstag, och
+att lämna en revisionsberättelse som innehåller våra uttalanden. Rimlig
+säkerhet är en hög grad av säkerhet, men är ingen garanti för att en
+revision som utförs enligt ISA och god revisionssed i Sverige alltid
+kommer att upptäcka en väsentlig felaktighet om en sådan finns.
+Felaktigheter kan uppstå på grund av oegentligheter eller misstag och
+anses vara väsentliga om de enskilt eller tillsammans rimligen kan
+förväntas påverka de ekonomiska beslut som användare fattar med
+grund i årsredovisningen.
+Som del av en revision enligt ISA använder vi professionellt omdöme
+och har en professionellt skeptisk inställning under hela revisionen.
+Dessutom:
+• identifierar och bedömer vi riskerna för väsentliga felaktigheter i
 årsredovisningen, vare sig dessa beror på oegentligheter eller misstag,
 utformar och utför granskningsåtgärder bland annat utifrån dessa
-Annan information än årsredovisningen
 risker och inhämtar revisionsbevis som är tillräckliga och
-Det är styrelsen som har ansvaret för den andra informationen. Den ändamålsenliga för att utgöra en grund för våra uttalanden. Risken för
-andra informationen består av Verksamhetsberättelse 2020 (men att inte upptäcka en väsentlig felaktighet till följd av oegentligheter är
-innefattar inte årsredovisningen och vår revisionsberättelse avseende högre än för en väsentlig felaktighet som beror på misstag, eftersom
-denna).                           oegentligheter kan innefatta agerande i maskopi, förfalskning,
+ändamålsenliga för att utgöra en grund för våra uttalanden. Risken för
+att inte upptäcka en väsentlig felaktighet till följd av oegentligheter är
+högre än för en väsentlig felaktighet som beror på misstag, eftersom
+oegentligheter kan innefatta agerande i maskopi, förfalskning,
 avsiktliga utelämnanden, felaktig information eller åsidosättande av
-Vårt uttalande avseende årsredovisningen omfattar inte denna
 intern kontroll.
-information och vi gör inget uttalande med bestyrkande avseende
-denna andra information.          • skaffar vi oss en förståelse av den del av föreningens interna
+• skaffar vi oss en förståelse av den del av föreningens interna
 kontroll som har betydelse för vår revision för att utforma
-I samband med vår revision av årsredovisningen är det vårt ansvar att
 granskningsåtgärder som är lämpliga med hänsyn till
-läsa den information som identifieras ovan och överväga om
 omständigheterna, men inte för att uttala oss om effektiviteten i den
-informationen i väsentlig utsträckning är oförenlig med
 interna kontrollen.
-årsredovisningen. Vid denna genomgång beaktar vi även den kunskap
-vi i övrigt inhämtat under revisionen samt bedömer om informationen • utvärderar vi lämpligheten i de redovisningsprinciper som används
-i övrigt verkar innehålla väsentliga felaktigheter. och rimligheten i styrelsens uppskattningar i redovisningen och
+• utvärderar vi lämpligheten i de redovisningsprinciper som används
+och rimligheten i styrelsens uppskattningar i redovisningen och
 tillhörande upplysningar.
-Om vi, baserat på det arbete som har utförts avseende denna
-information, drar slutsatsen att den andra informationen innehåller en • drar vi en slutsats om lämpligheten i att styrelsen använder
-väsentlig felaktighet, är vi skyldiga att rapportera detta. Vi har inget att antagandet om fortsatt drift vid upprättandet av årsredovisningen. Vi
-rapportera i det avseendet.       drar också en slutsats, med grund i de inhämtade revisionsbevisen, om
+• drar vi en slutsats om lämpligheten i att styrelsen använder
+antagandet om fortsatt drift vid upprättandet av årsredovisningen. Vi
+drar också en slutsats, med grund i de inhämtade revisionsbevisen, om
 huruvida det finns någon väsentlig osäkerhetsfaktor som avser sådana
-Styrelsens ansvar                 händelser eller förhållanden som kan leda till betydande tvivel om
-Det är styrelsen som har ansvaret för att årsredovisningen upprättas föreningens förmåga att fortsätta verksamheten. Om vi drar slutsatsen
-och att den ger en rättvisande bild enligt årsredovisningslagen. att det finns en väsentlig osäkerhetsfaktor, måste vi i
-Styrelsen ansvarar även för den interna kontroll som den bedömer är revisionsberättelsen fästa uppmärksamheten på upplysningarna i
-nödvändig för att upprätta en årsredovisning som inte innehåller några årsredovisningen om den väsentliga osäkerhetsfaktorn eller, om
-väsentliga felaktigheter, vare sig dessa beror på oegentligheter eller sådana upplysningar är otillräckliga, modifiera uttalandet om
-misstag.                          årsredovisningen. Våra slutsatser baseras på de revisionsbevis som
+händelser eller förhållanden som kan leda till betydande tvivel om
+föreningens förmåga att fortsätta verksamheten. Om vi drar slutsatsen
+att det finns en väsentlig osäkerhetsfaktor, måste vi i
+revisionsberättelsen fästa uppmärksamheten på upplysningarna i
+årsredovisningen om den väsentliga osäkerhetsfaktorn eller, om
+sådana upplysningar är otillräckliga, modifiera uttalandet om
+årsredovisningen. Våra slutsatser baseras på de revisionsbevis som
+
 1 (2)
 DVD1RVL 3 o e e iae g : c r r ta2 iie ia tf fs3 ai i : t e eo i : l2 o l 4d dn y0 n 3: s2 : SG i1g ig.M n0n e2Te d.d2 b 6b y y
 
@@ -28229,81 +31679,131 @@ Lustfyllda                       möten
 
 stärker                 demokratin
 
-Vi     går igenom tuffa tider just nu. Vi lever väger våra åsikter mot andras och förstår att vi kan
-och verkar mitt i en pandemi, klimatkris, påverka och göra skillnad. Det är där vi inser att alla är
-allmän oro i världen och i vårt eget land viktiga för samhällsutvecklingen och för demokratin. Det
-drabbas vårt välfärdssystem av bidragsfusk är där vi kan känna framtidstro och livslust.
+Vi      går igenom tuffa tider just nu. Vi lever
+och verkar mitt i en pandemi, klimatkris,
+allmän oro i världen och i vårt eget land
+drabbas vårt välfärdssystem av bidragsfusk
 och bedrägerier.
-Nu när digitaliseringen av nödvändighet fått en rejäl
-Men … hur har vi då på Medborgarskolan Region knuff framåt och vi lever våra liv än mer på nätet, är det
-Väst klarat 2020? Med tillit till och från uppdragsgivare, för att navigera i det nya informationslandskapet nöd-
-styrelse, medarbetare, cirkelledare, samarbetspartners, vändigt med ett kritiskt och kreativt tänkande. Enligt
-deltagare, barn, elever och vårdnadshavare, samt med forskningen kan detta endast byggas utifrån information
-tålamod och ett aldrig sinande engagemang, har vi som vi i form av bildning lagrar i vårt långtidsminne. För
-tillsammans tagit oss igenom dagar, som blivit till veckor, att information skall bli kunskap och i sin tur bildning
-som blivit till månader och nu till ett år i ett extraordi- krävs en upplevelse som är kopplad till egna erfarenhe-
-närt tillstånd.                   ter eller sinnesintryck, såsom till exempel ett lustfyllt
-lärande i mötet med andra människor.
+Men … hur har vi då på Medborgarskolan Region
+Väst klarat 2020? Med tillit till och från uppdragsgivare,
+styrelse, medarbetare, cirkelledare, samarbetspartners,
+deltagare, barn, elever och vårdnadshavare, samt med
+tålamod och ett aldrig sinande engagemang, har vi
+tillsammans tagit oss igenom dagar, som blivit till veckor,
+som blivit till månader och nu till ett år i ett extraordi-
+närt tillstånd.
 Det är angeläget att fokusera på det som verkligen
-gör skillnad. Positiv skillnad. Det är i det lustfyllda Vi menar därför att en av våra viktigaste uppgifter,
-mötet, fysiskt eller digitalt, mellan människor – oavsett inom all vår verksamhet, är att säkerställa det lustfyllda
-bakgrund, livssituation, kön och ålder – som det hän- mötet.
+gör skillnad. Positiv skillnad. Det är i det lustfyllda
+mötet, fysiskt eller digitalt, mellan människor – oavsett
+bakgrund, livssituation, kön och ålder – som det hän-
 der. Det är där vi inges mod, stärks och utvecklas som
-individer. Det är där vi syns och hörs. Det är där vi lär av Birgitta Andrén Åkerblom
-och med varandra. Det är där vi formulerar våra tankar, Regionchef Medborgarskolan Region Väst
+individer. Det är där vi syns och hörs. Det är där vi lär av
+och med varandra. Det är där vi formulerar våra tankar,
+
 44
 ÅÅRRSSRREEDDOOVVIISSNNIINNGG 22002200 || MMeeddbboorrggaarrsskkoollaann RReeggiioonn VVäässtt
-lebaS
-afioS
-:otoF
+
+väger våra åsikter mot andras och förstår att vi kan
+påverka och göra skillnad. Det är där vi inser att alla är
+viktiga för samhällsutvecklingen och för demokratin. Det
+är där vi kan känna framtidstro och livslust.
+Nu när digitaliseringen av nödvändighet fått en rejäl
+knuff framåt och vi lever våra liv än mer på nätet, är det
+för att navigera i det nya informationslandskapet nöd-
+vändigt med ett kritiskt och kreativt tänkande. Enligt
+forskningen kan detta endast byggas utifrån information
+som vi i form av bildning lagrar i vårt långtidsminne. För
+att information skall bli kunskap och i sin tur bildning
+krävs en upplevelse som är kopplad till egna erfarenhe-
+ter eller sinnesintryck, såsom till exempel ett lustfyllt
+lärande i mötet med andra människor.
+Vi menar därför att en av våra viktigaste uppgifter,
+inom all vår verksamhet, är att säkerställa det lustfyllda
+mötet.
+Birgitta Andrén Åkerblom
+Regionchef Medborgarskolan Region Väst
+
+Foto: Sofia Sabel
 
 <!-- sida 691 -->
 
-OM   MEDBORGARSKOLAN
+STATENS FYRA SYFTEN
+Medborgarskolan styr, planerar, genomför och ut-
+värderar all verksamhet mot statens fyra syften:
 
-STATENS FYRA SYFTEN               VÄRDEGRUND
-Medborgarskolan styr, planerar, genomför och ut- Medborgarskolan vilar på en humanistisk värde-
-värderar all verksamhet mot statens fyra syften: grund. Grundtanken är att varje människa är fri
-att utforma sitt liv i sin strävan efter självförverk-
-Stärka och utveckla demokratin    ligande. I Medborgarskolan är det människans in-
-Medborgarskolan ger möjligheter till ett aktivt tresse för ny kunskap och utveckling i samverkan
-medborgarskap. Folkbildningen har stor betydelse med andra som står i centrum. Varje människas
-för ett hållbart demokratiskt samhälle. okränkbara värde ska genomsyra alla Medborgar-
-skolans verksamheter. Vårt syfte är att verka för
-Bidra till att göra det möjligt för en ökad en modern och självständig folkbildningsverksam-
-mångfald människor att påverka sin livs- het, utbildning och annan för individen utveck-
-situation och skapa engagemang att delta i lande verksamhet. Medborgarskolans värdegrund
-samhällsutvecklingen              uttrycks i våra fyra kärnvärden och ska ligga till
-Medborgarskolan bidrar till att människor organi- grund för alla våra aktiviteter.
+Stärka och utveckla demokratin
+Medborgarskolan ger möjligheter till ett aktivt
+medborgarskap. Folkbildningen har stor betydelse
+för ett hållbart demokratiskt samhälle.
+
+Bidra till att göra det möjligt för en ökad
+mångfald människor att påverka sin livs-
+situation och skapa engagemang att delta i
+samhällsutvecklingen
+Medborgarskolan bidrar till att människor organi-
 serar sig och ser sina möjligheter att påverka det
-omgivande samhället och världen.  Individen i centrum
-Varje människa är unik. Vi sätter individen i
-Utjämna utbildningsklyftor och höja bild- centrum och vill att var och en som kommer till
-nings- och utbildningsnivån i samhället oss ska ha möjlighet att utvecklas efter sina egna
-Medborgarskolan ger människor bredare kom- behov, förutsättningar och önskemål.
+omgivande samhället och världen.
+Utjämna utbildningsklyftor och höja bild-
+nings- och utbildningsnivån i samhället
+Medborgarskolan ger människor bredare kom-
 petens och bildning, och bidrar till att göra det
-livslånga lärandet möjligt för alla. Alla människor har frihet och ansvar att påverka
-sin egen och samhällets utveckling.
+livslånga lärandet möjligt för alla.
 Bidra till att bredda intresset för att öka
-delaktigheten i kulturlivet       Utveckling i samverkan
-Medborgarskolan erbjuder människor att på egna Vi tror att människor utvecklas bäst i samverkan
-villkor vara delaktiga i eller ta del av kultur. med andra. Därför vill vi skapa mötesplatser där ett
-givande och tagande får alla att känna delaktighet.
+delaktigheten i kulturlivet
+Medborgarskolan erbjuder människor att på egna
+villkor vara delaktiga i eller ta del av kultur.
+
 VERKSAMHETSIDÉ
-Med nya kunskaper, ökat självförtroende och
 Medborgarskolan är ett humanistiskt och demo-
-sociala nätverk får människor möjligheter och
 kratiskt studieförbund. Vi rustar människor för
-styrka att själva utforma och påverka sina liv.
 framtiden genom folkbildning, uppdrag och skolor.
-Ömsesidig respekt
+
 VISION
-Vi är alla lika mycket värda; varje människa är
-Mod och möjligheter för alla människor. värdefull bara för att hon finns till. Samtidigt har
-vi alla både ansvar och skyldigheter mot varandra.
+Mod och möjligheter för alla människor.
+
 MISSION
-Livslångt, lustfyllt lärande.     Humanism innebär medmänsklighet och förstå-
+Livslångt, lustfyllt lärande.
+
+OM  MEDBORGARSKOLAN
+
+VÄRDEGRUND
+Medborgarskolan vilar på en humanistisk värde-
+grund. Grundtanken är att varje människa är fri
+att utforma sitt liv i sin strävan efter självförverk-
+ligande. I Medborgarskolan är det människans in-
+tresse för ny kunskap och utveckling i samverkan
+med andra som står i centrum. Varje människas
+okränkbara värde ska genomsyra alla Medborgar-
+skolans verksamheter. Vårt syfte är att verka för
+en modern och självständig folkbildningsverksam-
+het, utbildning och annan för individen utveck-
+lande verksamhet. Medborgarskolans värdegrund
+uttrycks i våra fyra kärnvärden och ska ligga till
+grund för alla våra aktiviteter.
+Individen i centrum
+Varje människa är unik. Vi sätter individen i
+centrum och vill att var och en som kommer till
+oss ska ha möjlighet att utvecklas efter sina egna
+behov, förutsättningar och önskemål.
+Alla människor har frihet och ansvar att påverka
+sin egen och samhällets utveckling.
+
+Utveckling i samverkan
+Vi tror att människor utvecklas bäst i samverkan
+med andra. Därför vill vi skapa mötesplatser där ett
+givande och tagande får alla att känna delaktighet.
+
+Med nya kunskaper, ökat självförtroende och
+sociala nätverk får människor möjligheter och
+styrka att själva utforma och påverka sina liv.
+Ömsesidig respekt
+Vi är alla lika mycket värda; varje människa är
+värdefull bara för att hon finns till. Samtidigt har
+vi alla både ansvar och skyldigheter mot varandra.
+
+Humanism innebär medmänsklighet och förstå-
 else för oliktänkande och för andra kulturer.
+
 Kunskapens egenvärde
 All kunskap är värdefull. Insiktsfulla människor
 är en tillgång i det demokratiska samhället och
@@ -28321,69 +31821,108 @@ Så         blir            du
 
 klimatsmartare
 
-Sluta flyga, ät växtbaserat   och  framför   allt: utmana
+Sluta  flyga, ät växtbaserat   och framför   allt: utmana
 
 samhällets   strukturer.  Nu  är hög  tid att alla engagerar
-sig i klimatet, och  därför  bjöd Medborgarskolan      under
-
+sig i klimatet, och  därför  bjöd  Medborgarskolan     under
 hösten  på  gratis och  alldeles livsnödvändiga    föreläs-
+
 ningar  med   klimataktivisten   Josef  Henschel.
 
 Text SOFIA ERIKSSON Foto SÖREN HÅKANLIND
 
-K           lart vi vill rädda klimatet – men Klimatsmart semester, en sökmotor och en sajt där du
-hur ska vi göra det? Det kan vara superenkelt kan se hur stor just din klimatpåverkan
-svårt att veta – och ibland känns blir när du reser. I Klimatsmart semesters kalkylator
-det kanske också meningslöst att kan du se sanningen i vitögat och svart på vitt få siffror
-sopsortera och ställa bilen, välja på att den där weekendresan till USA kanske är billig
-bort långflyget och äta mindre för plånboken men inte för miljön. Här kan du också få
-kött när världen ser ut som den tips om hur – och kanske vart – du kan resa i stället.
+K           lart vi vill rädda klimatet – men
+hur ska vi göra det? Det kan vara
+svårt att veta – och ibland känns
+det kanske också meningslöst att
+sopsortera och ställa bilen, välja
+bort långflyget och äta mindre
+kött när världen ser ut som den
 gör. Politikerna bråkar, forsk-
-ningen ifrågasätts och världsdelar står i brand. Men STRUKTURFÖRÄNDRINGAR
-klimataktivisten Josef Henschel vill ingjuta hopp med Ett annat sätt att vara med och påverka klimatet är att
-hjälp av fakta, engagemang och konkreta tips. äta växtbaserat, det vill säga välja bort kött och meje-
-–I Sverige lever och konsumerar vi som att vi hade riprodukter samtidigt som du främjar lokal odling och
-fler än fyra jordklot att tillgå. Det är uppenbart att det dessutom får ett lite hälsosammare liv. Men det allra
-inte kommer att hålla. Vi måste göra något nu och vi viktigaste är att som medborgare vara med och påverka
-måste göra det tillsammans, säger han. strukturerna och politikerna så att de i sin tur kan
-fatta beslut som är gynnsamma för miljön och klimatet.
-SLUTA FLYGA                        –Vi befinner oss mitt i en klimatkris. För att bromsa
-Ett av de enklare sätten är att sluta flyga. En förlegad effekterna av den globala uppvärmningen måste vi inse
-politik med subventioner har lett till alldeles för billiga att problemen vi står inför är strukturella. Vi måste
-flygresor och det har dragit saker till sin spets, menar förändra de strukturer som låser fast oss i ett fossilbe-
-Josef Henschel. Numera kan man resa till Thailand roende, säger Josef.
+ningen ifrågasätts och världsdelar står i brand. Men
+klimataktivisten Josef Henschel vill ingjuta hopp med
+hjälp av fakta, engagemang och konkreta tips.
+–I Sverige lever och konsumerar vi som att vi hade
+fler än fyra jordklot att tillgå. Det är uppenbart att det
+inte kommer att hålla. Vi måste göra något nu och vi
+måste göra det tillsammans, säger han.
+SLUTA FLYGA
+Ett av de enklare sätten är att sluta flyga. En förlegad
+politik med subventioner har lett till alldeles för billiga
+flygresor och det har dragit saker till sin spets, menar
+Josef Henschel. Numera kan man resa till Thailand
 eller USA för några tusenlappar, och det vimlar av
-sökmotorer som räknar ut lägsta pris, ibland med flera Att göra sin röst hörd är inte så svårt som det verkar.
-mellanlandningar och komplicerade rutter som orsakar – Vi kan engagera oss politiskt, eller varför inte bli
-ännu mer utsläpp.                 aktivister, och samtidigt rösta klokt, säger han.
+sökmotorer som räknar ut lägsta pris, ibland med flera
+mellanlandningar och komplicerade rutter som orsakar
+ännu mer utsläpp.
 –Tur och retur New York innebär två ton koldiox-
-idutsläpp – det är en persons årsförbrukning, bara på INSPIRERANDE FÖRELÄSNING
-en enda resa. Det går helt enkelt inte att flyga till New I höst föreläste Josef Henschel om såväl klimatsmart
-York, konstaterar han.            semester som klimataktivism samt gav fakta, resone-
+idutsläpp – det är en persons årsförbrukning, bara på
+en enda resa. Det går helt enkelt inte att flyga till New
+York, konstaterar han.
+Josef har själv inte flugit på sex år; för honom exis-
+terar inte ens det som alternativ när han planerar för
+resor och transporter. För att sprida budskap och tan-
+kesätt kring resandet har han varit med och utvecklat
+
+Klimatsmart semester, en sökmotor och en sajt där du
+superenkelt kan se hur stor just din klimatpåverkan
+blir när du reser. I Klimatsmart semesters kalkylator
+kan du se sanningen i vitögat och svart på vitt få siffror
+på att den där weekendresan till USA kanske är billig
+för plånboken men inte för miljön. Här kan du också få
+tips om hur – och kanske vart – du kan resa i stället.
+STRUKTURFÖRÄNDRINGAR
+Ett annat sätt att vara med och påverka klimatet är att
+äta växtbaserat, det vill säga välja bort kött och meje-
+riprodukter samtidigt som du främjar lokal odling och
+dessutom får ett lite hälsosammare liv. Men det allra
+viktigaste är att som medborgare vara med och påverka
+strukturerna och politikerna så att de i sin tur kan
+fatta beslut som är gynnsamma för miljön och klimatet.
+–Vi befinner oss mitt i en klimatkris. För att bromsa
+effekterna av den globala uppvärmningen måste vi inse
+att problemen vi står inför är strukturella. Vi måste
+förändra de strukturer som låser fast oss i ett fossilbe-
+roende, säger Josef.
+Att göra sin röst hörd är inte så svårt som det verkar.
+– Vi kan engagera oss politiskt, eller varför inte bli
+aktivister, och samtidigt rösta klokt, säger han.
+INSPIRERANDE FÖRELÄSNING
+I höst föreläste Josef Henschel om såväl klimatsmart
+semester som klimataktivism samt gav fakta, resone-
 mang och tips om hur vi tillsammans, steg för steg, kan
-Josef har själv inte flugit på sex år; för honom exis- förändra världen.
-terar inte ens det som alternativ när han planerar för –Genom föreläsningar hoppas jag kunna ge några
-resor och transporter. För att sprida budskap och tan- tankeställare och samtidigt väcka lusten att resa på
-kesätt kring resandet har han varit med och utvecklat andra sätt än snabbt, billigt och långt. Resan i sig kan
+förändra världen.
+–Genom föreläsningar hoppas jag kunna ge några
+tankeställare och samtidigt väcka lusten att resa på
+andra sätt än snabbt, billigt och långt. Resan i sig kan
+
 6
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 693 -->
 
-Så blir du
+Så         blir            du
 Se filmen med Josef på medborgarskolan.se/klimatsmart-semester
 
 klimatsmartare
 
-bli en väldigt fin upplevelse för den som kan acceptera klimatet och få inspiration till att resa, leva och agera
-att saker och ting får ta tid – något som vi inte är vana klimatsmart. Föreläsningarna ägde rum på två platser
-vid nu för tiden.                 under hösten: Göteborg och Trollhättan. Halmstad och
-Skövde var också inbokade men dessvärre gjorde pan-
-Eftersom informationsdelning och diskussion är demin att dessa föreläsningar ställdes in.
+bli en väldigt fin upplevelse för den som kan acceptera
+att saker och ting får ta tid – något som vi inte är vana
+vid nu för tiden.
+Eftersom informationsdelning och diskussion är
 några av grunderna i en demokrati med ansvarsfulla
-och engagerade medborgare – och förstås något som –Det finns fortfarande tid att förhindra de värsta
-Medborgarskolan brinner för – var föreläsningarna effekterna av klimatförändringarna, säger Josef, men vi
-gratis och riktade sig till alla som vill lära sig mer om måste agera nu och vi måste vara många.
+och engagerade medborgare – och förstås något som
+Medborgarskolan brinner för – var föreläsningarna
+gratis och riktade sig till alla som vill lära sig mer om
+
+klimatet och få inspiration till att resa, leva och agera
+klimatsmart. Föreläsningarna ägde rum på två platser
+under hösten: Göteborg och Trollhättan. Halmstad och
+Skövde var också inbokade men dessvärre gjorde pan-
+demin att dessa föreläsningar ställdes in.
+–Det finns fortfarande tid att förhindra de värsta
+effekterna av klimatförändringarna, säger Josef, men vi
+måste agera nu och vi måste vara många.
 
 7
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
@@ -28542,62 +32081,101 @@ utrustade med nya lärdomar och därmed ny kraft inför kommande utmaningar.
 
 <!-- sida 697 -->
 
-VAD ÄR FOLKBILDNING?              ANDEL
-Den statsbidragsberättigade verksamheten har Medborgarskolans totala marknadsandel 2020
-tre verksamhetsformer: studiecirkel, annan folk- (baserat på timvärde) uppgick till 8,2 %. För
-bildningsverksamhet och kulturprogram, vilka region Västs del var andelen 32,2 %; för Västra
-kan genomföras genom fysiska sammankomster Götaland 11,1 % och för Halland 13,5 %.
+VAD ÄR FOLKBILDNING?
+Den statsbidragsberättigade verksamheten har
+tre verksamhetsformer: studiecirkel, annan folk-
+bildningsverksamhet och kulturprogram, vilka
+kan genomföras genom fysiska sammankomster
 eller i digital form.
-VOLYM
-Definitionsmässigt är studiecirkeln en liten grupp Medborgarskolan Sveriges studietimmar uppgick
-människor som utifrån sina behov och intressen 2020 till 590 148. Region Västs studietimmar
-söker kunskap. En studiecirkel kännetecknas uppgick till 191 811 (32,5 % av Medborgarskolans
-av att den är öppen för alla, utan formella krav totala volym).
+
+Definitionsmässigt är studiecirkeln en liten grupp
+människor som utifrån sina behov och intressen
+söker kunskap. En studiecirkel kännetecknas
+av att den är öppen för alla, utan formella krav
 på förkunskaper, deltagaren avgör själv om hen
-vill delta, deltagarna kan påverka cirkelns inne- Medborgarskolan Sveriges studietimmar inom an-
-håll och upplägg, den leder till ett lärande vars nan folkbildning uppgick 2020 till 50 611. Region
-syfte är utveckling och förändring, kunskap söks Västs studietimmar inom annan folkbildning
-gemensamt och diskussion och samtal är en viktig uppgick till 14 203 (28 % av Medborgarskolans
-del samt att det ska finnas tid för reflektion och totala volym).
+vill delta, deltagarna kan påverka cirkelns inne-
+håll och upplägg, den leder till ett lärande vars
+syfte är utveckling och förändring, kunskap söks
+gemensamt och diskussion och samtal är en viktig
+del samt att det ska finnas tid för reflektion och
 eftertanke mellan sammankomsterna.
-Antal kulturarrangemang i Medborgarskolan Sve-
-Annan folkbildningsverksamhet kan genomföras rige uppgick 2020 till 14 135 och i region Väst till
-i friare och flexiblare former. Det finns här möjlig- 2 046 (14,5 % av Medborgarskolans totala volym).
+Annan folkbildningsverksamhet kan genomföras
+i friare och flexiblare former. Det finns här möjlig-
 het att pröva nya former och utveckla nyskapande
-folkbildningsverksamhet.          2020 hade Medborgarskolan Sverige 34 957 unika
-deltagare i studiecirklar, medan region Väst hade
-Med kulturprogram avses föreläsning, teater, 8 498 (24,3 % av Medborgarskolan totalt). Antal
-sång, musik, dans, dramatisk framställning, film- unika deltagare i annan folkbildning i Medbor-
-visning, tvärkulturell verksamhet eller utställning garskolan Sverige uppgick till 30 884 och i region
-som framförs inför eller tillsammans med publik. Väst till 8 471 (27,4 % av Medborgarskolan totalt).
+folkbildningsverksamhet.
+Med kulturprogram avses föreläsning, teater,
+sång, musik, dans, dramatisk framställning, film-
+visning, tvärkulturell verksamhet eller utställning
+som framförs inför eller tillsammans med publik.
 Med tvärkulturell verksamhet avses en kombina-
-tion av två eller fler av de övriga kulturformerna. KVALITET
+tion av två eller fler av de övriga kulturformerna.
 Kulturprogram ska ha en sådan utformning att
-Det systematiska kvalitetsarbetet
 det bidrar till att skapa delaktighet, upplevelse
-Ett systematiskt kvalitetsarbete är en viktig
 och eftertanke.
+
+Statsbidragen, kommunbidragen och regionbi-
+dragen får endast användas till kostnader som är
+direkt förbundna med folkbildningsverksamheten.
+EKONOMI
+För att nå stabila ekonomiska förhållanden är mål-
+sättningen att visa ett årligt positivt resultat på vår
+omsättning samt att ansvarsfullt använda ekono-
+miska medel.
+
+Ur lönsamhetsaspekt håller förra årets positiva
+vändning i sig även 2020, trots ett stort intäkts-
+tapp inom den öppna kursverksamheten. Region
+Väst uppvisar 2020 ett resultat på motsvarande
+ca 8,7 miljoner.
+
+ANDEL
+Medborgarskolans totala marknadsandel 2020
+(baserat på timvärde) uppgick till 8,2 %. För
+region Västs del var andelen 32,2 %; för Västra
+Götaland 11,1 % och för Halland 13,5 %.
+VOLYM
+
+Medborgarskolan Sveriges studietimmar uppgick
+2020 till 590 148. Region Västs studietimmar
+uppgick till 191 811 (32,5 % av Medborgarskolans
+totala volym).
+Medborgarskolan Sveriges studietimmar inom an-
+nan folkbildning uppgick 2020 till 50 611. Region
+Västs studietimmar inom annan folkbildning
+uppgick till 14 203 (28 % av Medborgarskolans
+totala volym).
+
+Antal kulturarrangemang i Medborgarskolan Sve-
+rige uppgick 2020 till 14 135 och i region Väst till
+2 046 (14,5 % av Medborgarskolans totala volym).
+2020 hade Medborgarskolan Sverige 34 957 unika
+deltagare i studiecirklar, medan region Väst hade
+8 498 (24,3 % av Medborgarskolan totalt). Antal
+unika deltagare i annan folkbildning i Medbor-
+garskolan Sverige uppgick till 30 884 och i region
+Väst till 8 471 (27,4 % av Medborgarskolan totalt).
+
+KVALITET
+Det systematiska kvalitetsarbetet
+Ett systematiskt kvalitetsarbete är en viktig
 grund i vår verksamhet och en förutsättning för
 en korrekt redovisning av genomförd verksamhet.
-Statsbidragen, kommunbidragen och regionbi-
 Medborgarskolan Region Väst som studieförbund
-dragen får endast användas till kostnader som är
 hanterar medel från flera olika intressenter som t
-direkt förbundna med folkbildningsverksamheten.
 ex stat, regioner, kommuner och andra uppdrags-
 givare och vi måste därför arbeta systematiskt
-EKONOMI
 med rutiner, egenkontroll och internkontroll.
-För att nå stabila ekonomiska förhållanden är mål- Detta för att säkerställa att vi når rätt målgrup-
-sättningen att visa ett årligt positivt resultat på vår per och arbetar på ett effektivt sätt så att vi kan
-omsättning samt att ansvarsfullt använda ekono- nå så många som möjligt och samtidigt erbjuda
-miska medel.                      en verksamhet med rätt kvalitet. Det systema-
+Detta för att säkerställa att vi når rätt målgrup-
+per och arbetar på ett effektivt sätt så att vi kan
+nå så många som möjligt och samtidigt erbjuda
+en verksamhet med rätt kvalitet. Det systema-
 tiska kvalitetsarbetet gäller allt vi gör: från vårt
-Ur lönsamhetsaspekt håller förra årets positiva arbetssätt vid kontakter med nya föreningar och
-vändning i sig även 2020, trots ett stort intäkts- grupper, rekrytering av cirkelledare och introduk-
-tapp inom den öppna kursverksamheten. Region tion av nyanställda till rutiner för riskanalys och
-Väst uppvisar 2020 ett resultat på motsvarande uppföljning av verksamheten genom besök och
-ca 8,7 miljoner.                  egenkontroll av rapportering. Detta arbete bedrivs
+arbetssätt vid kontakter med nya föreningar och
+grupper, rekrytering av cirkelledare och introduk-
+tion av nyanställda till rutiner för riskanalys och
+uppföljning av verksamheten genom besök och
+egenkontroll av rapportering. Detta arbete bedrivs
+
 11
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
@@ -28608,161 +32186,247 @@ nomgår till exempel samtliga medarbetare inom kontroll av att huvudmannen har d
 vår folkbildningsverksamhet i region Väst en och insikt som krävs för skolverksamhet samt
 utbildning inom kvalitet och Folkbildningsrådets lämplighet att bedriva denna. Medborgarskolan
 rapporteringsregler, så även under 2020. Väst är godkända utan anmärkning i samtliga
+
 kommuner.
 Medborgarskolan ska utveckla och
+
 genomföra folkbildning, utbild-               Under året har Laholms kom-
 Kvalitet och
 ning och verksamhet av så-                      mun utövat tillsyn av verk-
 dan kvalitet att deltagares, hållbarhet          samheten på Nyckelpigans
-elevers, vårdnadshavares,                        förskola, Partille kom-
+elevers, vårdnadshavares,                         förskola, Partille kom-
+
 ledares, anslagsgivares Medborgarskolan ska utveckla och genomföra folkbildning, mun av verksamheten
-och uppdragsgivares krav utbildning och verksamhet av sådan kvalitet att deltagares, på Montessoriförskolan
-och förväntningar upp- elevers, vårdnadshavares, ledares, anslagsgivares och upp- Solstrålen och Göteborgs
-fylls. Det finns ett antal dragsgivares krav och förväntningar uppfylls. En hållbar kommun av verksamhe-
+
+och uppdragsgivares krav
+och förväntningar upp-
+fylls. Det finns ett antal
+processkartor och styran-
+de dokument som stödjer
+det dagliga arbetet och sä-
+kerställer att våra verksam-
+
+utbildning och verksamhet av sådan kvalitet att deltagares, på Montessoriförskolan
+elevers, vårdnadshavares, ledares, anslagsgivares och upp- Solstrålen och Göteborgs
+dragsgivares krav och förväntningar uppfylls. En hållbar kommun av verksamhe-
 utveckling är en utveckling som tillfredsställer dagens
-processkartor och styran-                         ten i förskolorna Do Re
+ten i förskolorna Do Re
 behov utan att äventyra kommande generationers
-de dokument som stödjer                          Mi, Grenen och Franska
+Mi, Grenen och Franska
 möjligheter att tillfredsställa sina behov.
-det dagliga arbetet och sä-                      förskolan samt granskat
-kerställer att våra verksam- Utdrag ur kvalitets- och hållbarhetspolicy huvudmannens arbete med
+förskolan samt granskat
+Utdrag ur kvalitets- och hållbarhetspolicy huvudmannens arbete med
+
 heter håller den kvalitetsnivå                 att följa upp förskolornas
-vi strävar efter. Systematiken för          resultat.
+vi strävar efter. Systematiken för           resultat.
 att identifiera och införa förbättringar omfattar
-bland annat deltagarutvärderingar, reklamations- HÅLLBARHET
+
+bland annat deltagarutvärderingar, reklamations-
 hantering, regional egenkontroll, internkontroll,
-Kärnan i Medborgarskolans verksamhet och vårt
 ledarenkäter och medarbetarundersökningar.
+
+En central del i ett systematiskt kvalitetsarbete
+är att följa upp och analysera verksamheten, i
+syfte att få en lärande organisation som sprider
+goda exempel och arbetar med ständiga förbätt-
+ringar.
+
+HÅLLBARHET
+Kärnan i Medborgarskolans verksamhet och vårt
 uppdrag som studieförbund är att ta samhällsan-
 svar och bidra till individers och samhällets ut-
-En central del i ett systematiskt kvalitetsarbete
 veckling. Vi anser därför att det är av största vikt
-är att följa upp och analysera verksamheten, i
 att vi medvetet arbetar med dessa frågor. Medbor-
-syfte att få en lärande organisation som sprider
 garskolan ska väga in sociala och miljömässiga
-goda exempel och arbetar med ständiga förbätt-
 aspekter i beslutsfattandet och ta ansvar för den
-ringar.
 påverkan som vi har på samhället och vår miljö.
+
 NKI – Nöjd kundindex
 Varje år följer vi upp genomförda kurser i vår öpp-
 na verksamhet. Under 2020 har detta varit extra
-Vi ska
-viktigt eftersom mycket av den öppna kursverk- Vi ska vara Vi ska
-utgå från
-samheten anpassats eller flyttats över till distans samhällets en schysst inspirera vår
-organisation omvärld
-på grund av den pågående pandemin. För 2020 behov
+viktigt eftersom mycket av den öppna kursverk-
+samheten anpassats eller flyttats över till distans
+på grund av den pågående pandemin. För 2020
 landade vi på ett Nöjdkundindex (NKI) på 4,4 (av
 max 5) och den positiva trend vi haft under flera
 år med färre reklamationer fortsätter. Under året
 har Medborgarskolan lanserat ett formulär på
-Vi kommunicerar vårt hållbarhetsarbete via till
 hemsidan för synpunkter och klagomål i syfte att
-exempel hemsida och sociala medier, vid introduk-
 ytterligare underlätta för våra kunder, deltagare
-tion av nyanställda/cirkelledare och vid möten.
 och andra intressenter att framföra synpunkter
-Öppen verksamhet har under året haft hållbarhet
 på vår verksamhet och få svar. Via formuläret är
-som tema. Vi har bland annat erbjudit kostnads-
 det även möjligt att vara helt anonym.
-fria föreläsningar på flera orter om Klimatsmart
-semester (se artikel och hänvisning till film på si-
 Skola/förskola skall givetvis uppfylla kraven på
-dan 6-7) och har under året fokuserat på att skapa
 systematiskt kvalitetsarbete enligt Skolverkets
-verksamhet med inriktning på hållbarhet.
 allmänna råd, Skollagens krav och kommunala
 riktlinjer. Detta arbete följs upp av styrelsen som
-På grund av pandemin har Medborgarskolan,
 huvudman. Under 2020 genomförde samtliga de
-precis som många andra aktörer, fått ställa om till
 kommuner där vi har skolverksamhet en ägar-
-digital verksamhet, där det varit möjligt. Hela vår
 och ledningsprövning av Medborgarskolan som
+
+Vi ska
+Vi ska vara Vi ska
+utgå från
+en schysst inspirera vår
+samhällets
+organisation omvärld
+behov
+Vi kommunicerar vårt hållbarhetsarbete via till
+exempel hemsida och sociala medier, vid introduk-
+tion av nyanställda/cirkelledare och vid möten.
+Öppen verksamhet har under året haft hållbarhet
+som tema. Vi har bland annat erbjudit kostnads-
+fria föreläsningar på flera orter om Klimatsmart
+semester (se artikel och hänvisning till film på si-
+dan 6-7) och har under året fokuserat på att skapa
+verksamhet med inriktning på hållbarhet.
+På grund av pandemin har Medborgarskolan,
+precis som många andra aktörer, fått ställa om till
+digital verksamhet, där det varit möjligt. Hela vår
+
 12
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 699 -->
 
-organisation har tagit ett stort kliv framåt vad minskning kan med stor sannolikhet kopplas till
-gäller användningen av digitala videokonferens- pandemin med minskad verksamhet och ökat
-tjänster för interna möten. Detta har ökat stort hemarbete, men trenden med minskad pappers-
-under året, vilket inneburit minskade resor. Vi förbrukning tycks fortsätta stadigt nedåt i takt
-har också satsat på att utrusta/komplettera alla med att vi blir allt mer digitala. Detta innebär
-våra orter med professionella videokonferenssys- även minskad postgång och därmed minskade
-tem vilket resulterar i mindre resande även för transporter. En stor fördel med den digitala han-
-våra deltagare. Detta gäller både folkbildning och teringen av närvarolistor och dokument är också
-i våra uppdrag. Många studiecirklar har flyttats den ökade säkerheten kring hantering av person-
-över till distans i realtid och ett stort arbete har uppgifter och ökad effektivitet i arbetet.
+organisation har tagit ett stort kliv framåt vad
+gäller användningen av digitala videokonferens-
+tjänster för interna möten. Detta har ökat stort
+under året, vilket inneburit minskade resor. Vi
+har också satsat på att utrusta/komplettera alla
+våra orter med professionella videokonferenssys-
+tem vilket resulterar i mindre resande även för
+våra deltagare. Detta gäller både folkbildning och
+i våra uppdrag. Många studiecirklar har flyttats
+över till distans i realtid och ett stort arbete har
 gjorts att kompetensutveckla våra cirkelledare
-och grupper i hur man genomför en studiecirkel Vår hemsida är numera vår viktigaste kanal för
-på distans och hur utrustning och program fung- att kommunicera vårt kursutbud och därför har
-erar. Dock har alla målgrupper ännu inte möjlig- vi från 2020 tagit bort vårt fysiska kursprogram,
-heter att delta i undervisning på distans på lika vilket också innebär en ytterligare minskad pap-
-villkor. Så för ökad hållbarhet framåt tror vi på en persförbrukning. Även inom förskola och skola
-mix av sätt att träffas, digitalt när det passar och ökar digitaliseringen bland annat genom ökad
-fysiskt när det är det bästa.     kommunikation via plattformarna Unikum inom
-förskola och Schoolsoft inom skola. Förbrukning
-Certifieringar ger stöd i         av el i våra egna lokaler samt antal körda mil
-förbättringsarbetet               i tjänsten har nästan halverats under 2020. Vi
-Genom att ansluta oss till olika  fortsätter att leasa begagnade bra datorer till våra
-typer av certifieringar som Miljö- datasalar/medarbetare när behovet finns, istället
-diplomering (nya folkbildningen)  för att köpa nytt.
+och grupper i hur man genomför en studiecirkel
+på distans och hur utrustning och program fung-
+erar. Dock har alla målgrupper ännu inte möjlig-
+heter att delta i undervisning på distans på lika
+villkor. Så för ökad hållbarhet framåt tror vi på en
+mix av sätt att träffas, digitalt när det passar och
+fysiskt när det är det bästa.
+Certifieringar ger stöd i
+förbättringsarbetet
+Genom att ansluta oss till olika
+typer av certifieringar som Miljö-
+diplomering (nya folkbildningen)
 och Grön Flagg (skolor) får vi en
-oberoende granskning och stöd av  Franska Skolan och samtliga förskolor har istäl-
-expertis i vår utveckling. Vår folk- let för miljödiplomering valt att arbeta med Grön
-bildnings- och uppdragsverksam-   Flagg. I maj 2020 miljöcertifierades även Fran-
-het är miljödiplomerade enligt    ska Skolan, vilket innebär att samtliga förskolor
-Svensk Miljöbas kriterier sedan   samt Franska skolan nu är certifierade enligt
-2014\. För att få behålla miljödiplomet gör en ex- Grön Flagg. Grön Flagg är både en certifiering och
-tern miljörevisor varje år en revision och ser över ett pedagogiskt verktyg för aktivt och långsiktigt
-vårt miljöarbete. Revisionen 2020 genomfördes av arbete med hållbar utveckling i skola och förskola
-en miljörevisor från Ramböll utan några noterade där barnen är involverade. I Grön Flagg-arbetet
-avvikelser.                       arbetar man både med hållbara nyckeltal för den
-egna enheten samt ett antal fokusområden som
-I vår miljöplan för 2020 fokuserade vi på: man vill arbeta med tillsammans med barnen och
-• miljökunskap/ miljöinformation  eleverna, till exempel ”De globala målen för hållbar
-• pappersförbrukning              utveckling”, ”Vi springer till Paris” (Livsstil och
-• elförbrukning                   hälsa) eller ”Minskat matsvinn”.
+oberoende granskning och stöd av
+expertis i vår utveckling. Vår folk-
+bildnings- och uppdragsverksam-
+het är miljödiplomerade enligt
+Svensk Miljöbas kriterier sedan
+2014\. För att få behålla miljödiplomet gör en ex-
+tern miljörevisor varje år en revision och ser över
+vårt miljöarbete. Revisionen 2020 genomfördes av
+en miljörevisor från Ramböll utan några noterade
+avvikelser.
+I vår miljöplan för 2020 fokuserade vi på:
+• miljökunskap/ miljöinformation
+• pappersförbrukning
+• elförbrukning
 • transporter
-Franska skolan har under året även genomfört en
-2020 är ett ovanligt år så det är svårt att avgöra översyn av sin hantering av kemikalier, både i verk-
-om vår förbrukningsstatistik minskat på grund av samheten och i undervisningen, i syfte att minska
-åtgärder vi gjort eller på grund av pandemin. miljörisken med att hantera onödiga kemikalier.
+2020 är ett ovanligt år så det är svårt att avgöra
+om vår förbrukningsstatistik minskat på grund av
+åtgärder vi gjort eller på grund av pandemin.
 Under 2019 lanserade vi vår interna digitala
-miljöutbildning, obligatorisk för alla fastanställda FN:s Global Compact
-medarbetare, och under 2020 har vi arbetat vidare Medborgarskolan Region Väst är
-på en digital variant av vår introduktion av nyan- anslutna till FN:s Global Com-
-ställda, där ett hållbarhetsavsnitt ingår. pact. Det är ett sätt för oss att ta
+miljöutbildning, obligatorisk för alla fastanställda
+medarbetare, och under 2020 har vi arbetat vidare
+på en digital variant av vår introduktion av nyan-
+ställda, där ett hållbarhetsavsnitt ingår.
+För 2020 hade vi ett mål på minskad pappersför-
+brukning med 5 % och detta mål har nåtts med
+råge. Andelen utskrivna kopior från våra skrivare
+har minskat med 24 %. En stor del av denna
+
+minskning kan med stor sannolikhet kopplas till
+pandemin med minskad verksamhet och ökat
+hemarbete, men trenden med minskad pappers-
+förbrukning tycks fortsätta stadigt nedåt i takt
+med att vi blir allt mer digitala. Detta innebär
+även minskad postgång och därmed minskade
+transporter. En stor fördel med den digitala han-
+teringen av närvarolistor och dokument är också
+den ökade säkerheten kring hantering av person-
+uppgifter och ökad effektivitet i arbetet.
+Vår hemsida är numera vår viktigaste kanal för
+att kommunicera vårt kursutbud och därför har
+vi från 2020 tagit bort vårt fysiska kursprogram,
+vilket också innebär en ytterligare minskad pap-
+persförbrukning. Även inom förskola och skola
+ökar digitaliseringen bland annat genom ökad
+kommunikation via plattformarna Unikum inom
+förskola och Schoolsoft inom skola. Förbrukning
+av el i våra egna lokaler samt antal körda mil
+i tjänsten har nästan halverats under 2020. Vi
+fortsätter att leasa begagnade bra datorer till våra
+datasalar/medarbetare när behovet finns, istället
+för att köpa nytt.
+Franska Skolan och samtliga förskolor har istäl-
+let för miljödiplomering valt att arbeta med Grön
+Flagg. I maj 2020 miljöcertifierades även Fran-
+ska Skolan, vilket innebär att samtliga förskolor
+samt Franska skolan nu är certifierade enligt
+Grön Flagg. Grön Flagg är både en certifiering och
+ett pedagogiskt verktyg för aktivt och långsiktigt
+arbete med hållbar utveckling i skola och förskola
+där barnen är involverade. I Grön Flagg-arbetet
+arbetar man både med hållbara nyckeltal för den
+egna enheten samt ett antal fokusområden som
+man vill arbeta med tillsammans med barnen och
+eleverna, till exempel ”De globala målen för hållbar
+utveckling”, ”Vi springer till Paris” (Livsstil och
+hälsa) eller ”Minskat matsvinn”.
+Franska skolan har under året även genomfört en
+översyn av sin hantering av kemikalier, både i verk-
+samheten och i undervisningen, i syfte att minska
+miljörisken med att hantera onödiga kemikalier.
+FN:s Global Compact
+Medborgarskolan Region Väst är
+anslutna till FN:s Global Com-
+pact. Det är ett sätt för oss att ta
 ställning, visa att vi åtar oss att
-För 2020 hade vi ett mål på minskad pappersför- uppfylla kraven i Global Compacts
-brukning med 5 % och detta mål har nåtts med principer och att på ett systema-
-råge. Andelen utskrivna kopior från våra skrivare tiskt vis fortsätta att mobilisera kring vårt sam-
-har minskat med 24 %. En stor del av denna hällsansvar.
+uppfylla kraven i Global Compacts
+principer och att på ett systema-
+tiskt vis fortsätta att mobilisera kring vårt sam-
+hällsansvar.
+
 13
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 <!-- sida 700 -->
 
-FN:s Global Compact bildades 1999 på uppmaning tivitetshus och föreningar för personer i olika former
-av FN:s generalsekreterare Kofi Annan som en hjälp av utanförskap. Här möter vi bland annat personer
-för företag och organisationer som vill visa att man med ångestsyndrom eller annan psykisk ohälsa,
-tar ett samhällsansvar i sin verksamhet. Global hemlösa kvinnor, personer som lever med missbruk
-Compact består av tio principer kring mänskliga eller kriminalitet och personer med intellektuella
-rättigheter, arbetsrättsliga frågor, miljö och antikor- funktionsnedsättningar. Vi har haft en stor kvali-
-ruption. Principerna grundar sig på FN:s deklara- tetsinriktad verksamhet för dessa grupper och fler
-tion om de mänskliga rättigheterna, ILO:s grundläg- samarbeten har knutits under året. Vi har bistått
-gande konventioner om de mänskliga rättigheterna flera med att starta egna studiecirklar, bland annat
-i arbetslivet, Rio-deklarationen samt FN:s konven- med hjälp av vårt anpassade studiematerial Bild-
-tion mot korruption.              ning på Box®. Dessa aktiviteter stärker målgrup-
+FN:s Global Compact bildades 1999 på uppmaning
+av FN:s generalsekreterare Kofi Annan som en hjälp
+för företag och organisationer som vill visa att man
+tar ett samhällsansvar i sin verksamhet. Global
+Compact består av tio principer kring mänskliga
+rättigheter, arbetsrättsliga frågor, miljö och antikor-
+ruption. Principerna grundar sig på FN:s deklara-
+tion om de mänskliga rättigheterna, ILO:s grundläg-
+gande konventioner om de mänskliga rättigheterna
+i arbetslivet, Rio-deklarationen samt FN:s konven-
+tion mot korruption.
+
+tivitetshus och föreningar för personer i olika former
+av utanförskap. Här möter vi bland annat personer
+med ångestsyndrom eller annan psykisk ohälsa,
+hemlösa kvinnor, personer som lever med missbruk
+eller kriminalitet och personer med intellektuella
+funktionsnedsättningar. Vi har haft en stor kvali-
+tetsinriktad verksamhet för dessa grupper och fler
+samarbeten har knutits under året. Vi har bistått
+flera med att starta egna studiecirklar, bland annat
+med hjälp av vårt anpassade studiematerial Bild-
+ning på Box®. Dessa aktiviteter stärker målgrup-
 pen och gör stor skillnad i deras vardag.
+
 Vi har under 2020 genomfört studiecirklar, annan
 folkbildning och kulturprogram tillsammans med
-MÄNSKLIGA  MILJÖ      ANTI-    föreningar eller samarbetspartners, bland andra:
-RÄTTIGHETER          KORRUPTION
+MÄNSKLIGA   MILJÖ     ANTI-     föreningar eller samarbetspartners, bland andra:
+RÄTTIGHETER         KORRUPTION
 • Föreningarna Hjälpande tassar, Silvagården
 och Labbehjärtat
 • Dagligverksamheterna Kajan Uppe/Nere,
@@ -28774,6 +32438,7 @@ mänskliga mänskliga
 rätten till kollektiva nyanlända kvinnor och barn
 rättigheter rättigheter
 förhandlingar • Integrationsprojekt i samarbete med Borås stad
+
 Vi ger extra stöd till personer med särskilda behov
 4 Inget   5 Inget   6 Ingen
 för att de ska känna sig trygga att delta i kurser i
@@ -28785,89 +32450,136 @@ utveckling inom området samt att hitta nya vägar
 till samarbeten med dessa målgrupper.
 till större försiktighets- utveckling av
 ansvarstagande principen miljövänlig teknik
+
+10 Motarbeta
+korruption
+
+TILLGÄNGLIGHET
+För Medborgarskolan är tillgänglighet en priori-
+terad fråga som i allra högsta grad ingår i vårt
+samhällsansvar. Vi vill försäkra oss om att alla
+människor har tillgång till utveckling på egna
+villkor och att individers olika behov tillgodoses.
+
 PERSONAL
 Vi har under året fortsatt arbeta med att stärka
-10 Motarbeta         organisationen i sin helhet. Ett perspektiv är ökad
-korruption          delaktighet genom förtydligat ansvar i hela orga-
+organisationen i sin helhet. Ett perspektiv är ökad
+delaktighet genom förtydligat ansvar i hela orga-
 nisationen samt tydliga mål med månatlig upp-
 följning för respektive verksamhet. Vi har arbetat
 vidare med att öka transparensen och förvalta
-TILLGÄNGLIGHET                    organisationens resurser medvetet och ansvars-
-För Medborgarskolan är tillgänglighet en priori- fullt. Vi har även fortsatt utveckla en kultur som
-terad fråga som i allra högsta grad ingår i vårt går i linje med våra värderingar och, inte minst,
-samhällsansvar. Vi vill försäkra oss om att alla springer ur den tillit och förtroende som region-
-människor har tillgång till utveckling på egna styrelsen visar organisationen och som har lett till
-villkor och att individers olika behov tillgodoses. det goda resultatet för tredje året i rad.
-Medborgarskolan Region Väst arbetar långsiktigt Regionen har under året löpande genomfört kompe-
-och strategiskt med att öka tillgängligheten på tensutveckling för medarbetare inom olika områden.
+organisationens resurser medvetet och ansvars-
+fullt. Vi har även fortsatt utveckla en kultur som
+går i linje med våra värderingar och, inte minst,
+springer ur den tillit och förtroende som region-
+styrelsen visar organisationen och som har lett till
+det goda resultatet för tredje året i rad.
+
+Medborgarskolan Region Väst arbetar långsiktigt
+och strategiskt med att öka tillgängligheten på
 olika sätt. Vi inhämtar och sprider kunskap och
-erfarenheter, vi bygger nätverk och skapar förtro- Vi har under året genomfört regelbundna digitala
-endefulla relationer. Vi finns med i olika samman- cirkelledarutbildningar, som introducerar Medbor-
-hang där tillgänglighetsfrågan står i fokus. garskolan och folkbildning till nya cirkelledare. På
+erfarenheter, vi bygger nätverk och skapar förtro-
+endefulla relationer. Vi finns med i olika samman-
+hang där tillgänglighetsfrågan står i fokus.
+För att nå personer som inte hittar till vår verksam-
+het genom de traditionella kanalerna, besöker vi ak-
+
+Regionen har under året löpande genomfört kompe-
+tensutveckling för medarbetare inom olika områden.
+
+Vi har under året genomfört regelbundna digitala
+cirkelledarutbildningar, som introducerar Medbor-
+garskolan och folkbildning till nya cirkelledare. På
 grund av pandemin har dock planerade nationella
-För att nå personer som inte hittar till vår verksam- cirkelledarutbildningar (för kompetenshöjning och
-het genom de traditionella kanalerna, besöker vi ak- pedagogisk utveckling) ställts in och skjutits upp.
+cirkelledarutbildningar (för kompetenshöjning och
+pedagogisk utveckling) ställts in och skjutits upp.
+
 14
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 701 -->
 
 I samband med pandemins utbrott producerade En regional utbildning för chefer och ledare ge-
+
 vi en film ”Guide till bättre onlinemöten” med en nomfördes fysiskt, under coronaanpassade förhål-
+
 av våra ledarutbildare, Anette Nääs, att användas landen, på hösten i Trollhättan.
+
 både internt och externt som ett stöd
+
 i den digitala utvecklingen.                 En nationell konferens för che-
 Personal  och        fer och ledare planerades till
 En viktig faktor för orga-                      hösten 2020, men på grund
 arbetsmiljö
-nisationens utveckling                          av pandemin och behovet att
+nisationens utveckling                           av pandemin och behovet att
 och presterade resultat På Medborgarskolan är det en självklarhet att orga- genomföras digitalt sköts
 har varit att under året nisation och arbetsmiljö ska präglas av lika villkor, jäm- den upp till våren 2021.
 fortsatt stärka organisa- ställdhet och mångfald. Medborgarskolan ska ha en ink-
 tionen genom vår kultur- luderande arbetsmiljö och ta tillvara mångfalden vilken Vi har även under 2020
 förändrande och individ- förbättrar förutsättningarna att nå full potential, både kontinuerligt arbetat med
 för den enskilda medarbetaren och för verksamheten.
-och kompetensstärkande                          resultatet från tidigare
+och kompetensstärkande                           resultatet från tidigare
 utbildningssatsning inom Utdrag ur personal- och arbetsmiljöpolicy medarbetarundersökningar,
-självledarskap och coachande                   senast den som genomfördes
-förhållningssätt ”Verktyg för                våren 2020. De förbättringsom-
-mod och möjligheter”. De flesta med-      råden som vi framför allt arbetar
-arbetare genomgick och avslutade utbildningen vidare med är av stressrelaterad karaktär. Un-
-under våren 2019. Under 2020 har vi genom- dersökningen visar även att medarbetarna har en
-fört utbildningen för nytillkomna medarbetare, hög förändringskraft som vi värnar om.
+
+självledarskap och coachande
+förhållningssätt ”Verktyg för
+mod och möjligheter”. De flesta med-
+arbetare genomgick och avslutade utbildningen
+under våren 2019. Under 2020 har vi genom-
+fört utbildningen för nytillkomna medarbetare,
 vilket även har inneburit en uppdatering för hela
-organisationen. Vi har kontinuerligt fortsatt att En uppdaterad varumärkesplattform, samt en
-vid möten påminna om och i det dagliga arbetet planerad varumärkesförflyttning för hela Medbor-
-använda oss av verktygen, modellerna och meto- garskolan, beslutades av förbundsstyrelsen i sep-
-derna från utbildningen.          tember 2019 och har under 2020 inneburit vidare
-arbete bland medarbetarna på regional nivå.
+organisationen. Vi har kontinuerligt fortsatt att
+vid möten påminna om och i det dagliga arbetet
+använda oss av verktygen, modellerna och meto-
+derna från utbildningen.
 På hösten genomfördes en digital introduktion för
-nyanställda under en heldag, där bland annat regi- Medarbetarna har under året erbjudits ett antal
-onchef och regionala nyckelfunktioner presentera- inspirationsföreläsningar, på nationell och regional
-de organisationen och den regionala verksamheten. nivå, anpassade till utmaningar i pandemitider.
+nyanställda under en heldag, där bland annat regi-
+onchef och regionala nyckelfunktioner presentera-
+de organisationen och den regionala verksamheten.
+
+senast den som genomfördes
+våren 2020. De förbättringsom-
+råden som vi framför allt arbetar
+vidare med är av stressrelaterad karaktär. Un-
+dersökningen visar även att medarbetarna har en
+hög förändringskraft som vi värnar om.
+En uppdaterad varumärkesplattform, samt en
+planerad varumärkesförflyttning för hela Medbor-
+garskolan, beslutades av förbundsstyrelsen i sep-
+tember 2019 och har under 2020 inneburit vidare
+arbete bland medarbetarna på regional nivå.
+
+Medarbetarna har under året erbjudits ett antal
+inspirationsföreläsningar, på nationell och regional
+nivå, anpassade till utmaningar i pandemitider.
 
 15
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 <!-- sida 702 -->
 
-MARKNAD  OCH  KOMMUNIKATION       att träffas igen i full styrka. Detta gjordes utefter
-en idé och illustration från deltagare i arbetsträ-
+MARKNAD  OCH  KOMMUNIKATION
 Medborgarskolan Region Väst har under året ak-
-ningen (som ingår i vår uppdragsverksamhet).
 tivt deltagit i det nationella marknads- och kom-
 munikationsarbetet via ett nationellt nätverk, där
-Parallellt har vi jobbat med att än mer synliggöra
 varje region representeras av en regionalt mark-
-vår verksamhet, dels via egna kanaler (webbplats,
 nads- och kommunikationsansvarig.
+
+Kommunikationen i regionen har under året,
+både internt och externt, i hög grad påverkats av
+och handlat om pågående pandemi.
+
+att träffas igen i full styrka. Detta gjordes utefter
+en idé och illustration från deltagare i arbetsträ-
+ningen (som ingår i vår uppdragsverksamhet).
+
+Parallellt har vi jobbat med att än mer synliggöra
+vår verksamhet, dels via egna kanaler (webbplats,
 sociala medier, nyhetsbrev) och dels via köpta me-
 dier, då främst digitalt. Medborgarskolans samt-
-Kommunikationen i regionen har under året,
 liga öppna kurser har under 2020 varit synliga
-både internt och externt, i hög grad påverkats av
 och tillgängliga även via Kurser.se.
-och handlat om pågående pandemi.
+
 Vår numera traditionella
 En uppdaterad varumärkes-
 Kommunikation         plojkurstävling har fortsatt
@@ -28890,45 +32602,50 @@ medarbetarna på regional    planer och strategier. foliehatt). Plojkursen är
 humoristiskt utformad och
 nivå.                    Utdrag ur kommunikationspolicy
 har blivit lite av en symbol
-för Medborgarskolans själ, det
+
 Vi har under året arbetat med
-lustfyllda lärandet. Fem personer
 att lyfta och tydliggöra Medbor-
-vann varsitt presentkort på valfri kurs,
 garskolans uppdrag som folkbildare och vårt
-vår som höst. Läs mer på medborgarskolan.se/
 samhällsansvar, som handlar om att förebygga ut-
-plojkurs.
 anförskap och ge människor möjlighet att mötas,
 stärkas och utvecklas som individer. Vi har därför
-Även sommaren 2020 arrangerade vi en fototävling
 i än högre grad förmedlat personliga berättelser,
-via Facebook i hela Sverige, med främsta syfte att
 i form av artiklar och filmer, om hur människor
-uppmuntra människors kreativitet och digitalt
 påverkas av vår verksamhet.
+Som ett led i att använda våra resurser mer an-
+svarsfullt övergav vi det fysiska kursprogrammet
+helt från och med våren 2020. Vi distribuerade i
+samband med detta ett vykort till drygt 200 000
+hushåll i regionen, där vi informerade om detta
+samt inbjöd att ta del av vårt utbud via vår hem-
+sida.
+
+för Medborgarskolans själ, det
+lustfyllda lärandet. Fem personer
+vann varsitt presentkort på valfri kurs,
+vår som höst. Läs mer på medborgarskolan.se/
+plojkurs.
+
+Även sommaren 2020 arrangerade vi en fototävling
+via Facebook i hela Sverige, med främsta syfte att
+uppmuntra människors kreativitet och digitalt
 erbjudas möjlighet att bidra med sina egenhändigt
 tagna bilder. Temat var Lustfyllt lärande, som går
-Som ett led i att använda våra resurser mer an-
 hand i hand med Medborgarskolans mission. Den
-svarsfullt övergav vi det fysiska kursprogrammet
 numera årliga fototävlingen drar varje år ett stort
-helt från och med våren 2020. Vi distribuerade i
 intresse och många deltagare. Engagemanget är
-samband med detta ett vykort till drygt 200 000
 det största vi hittills har haft på Facebook. Läs mer
-hushåll i regionen, där vi informerade om detta
 om tävlingen och se finalistbilderna på medborgar-
-samt inbjöd att ta del av vårt utbud via vår hem-
 skolan.se/fototavling-2020.
-sida.
+
 Båda tävlingarna enligt ovan genomförs natio-
 0
 2                          nellt men är initierade respektive drivs av Med-
-0  0
+0   0
 0 2 0 2 R E K U R S E R L 2 h e u n ål s k l t b f u y a r e U l h r L R s Sl E nR t t å 2 u0 2 i – l o k s v l t c b g u å f h a å y r r r s ! ll e t h L t i n – å vu o l k g å c s lb t u h å rf! a r y s r l l t i t – v o å g c r å h ! b I k o a h r m ö g s p a t a a rs n s k j g o m e l n a e n o d m R t f e e ö m g rd i a o e t n v K V i u ä e n n s s t k . v a a p ru d m u ä h r a k r e s g s l t ä ä d r j k e a a n v d , e d är
 S R
 U K NOITAMROFNISLLÄHMAS
+
 I LLÅHSUH LLIT
 DNALATÖG
 ARTSÄV
@@ -29086,12 +32803,13 @@ watch?v=1PiIXOsXphU eller via medborgarskolan.
 till befintliga kunder, där vi beklagade omständig-
 se/niclas-engelin.
 heterna kring pandemin och att vi ser fram emot
+
 16
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 703 -->
 
-Kunskap              du     har      glädje         av
+Kunskap              du     har       glädje         av
 
 Niclas Engelin är inte bara huvudperson i en kampanjfilm för
 Medborgarskolan. Han är också världskänd hårdrocksgitarrist i
@@ -29100,65 +32818,97 @@ och Engel. Några av sina första stapplande steg i musiklivet tog
 han faktiskt med hjälp av ett studieförbund.
 Text SOFIA ERIKSSON Foto JOHN AREBLAD
 
-Hur kom det sig att du började spela gitarr? – Det låter ju galet när du säger det ... men det är inget
-– Jag är uppvuxen i Röda Briljant i Tynnered i Gö- jag tänker på. För mig handlar det om att prestera och
-teborg, ett rätt tufft område där det var bäst att ha en leverera, vara hungrig och tillföra något. Jag älskar när
-vettig fritidssysselsättning för att inte hamna snett. Jag det är brötigt och smäller på och hoppas förstås att vi ska
-är sladdis med fyra äldre systrar och fick hänga med dem kunna ge oss ut och turnera snart igen. Jag har svårt för
-och deras killkompisar. Det var fotboll, musik och före- att gå på halvfart. Vi har kört lite livestreams och
-ningsliv som gällde, så mina föräldrar behövde aldrig hade en inofficiell spelning i somras i Höganäs
-oroa sig för mig. När jag var ungefär tio år gammal för 17 bilar och en hund, men det är ju inte
-hängde jag med till Fryshuset i Majorna och riktigt som det brukar vara.
+Hur kom det sig att du började spela gitarr?
+– Jag är uppvuxen i Röda Briljant i Tynnered i Gö-
+teborg, ett rätt tufft område där det var bäst att ha en
+vettig fritidssysselsättning för att inte hamna snett. Jag
+är sladdis med fyra äldre systrar och fick hänga med dem
+och deras killkompisar. Det var fotboll, musik och före-
+ningsliv som gällde, så mina föräldrar behövde aldrig
+oroa sig för mig. När jag var ungefär tio år gammal
+hängde jag med till Fryshuset i Majorna och
 började spela hårdrock. Sedan gick jag en
-kurs – farsan tyckte att jag behövde lära mig Är du en sån som alltid har med sig
-grunderna ordentligt – och så har jag suttit gitarren och sjunger och spelar vid alla
-och nött och övat för att forma mitt eget tillfällen, som i filmen?
-spel, det som gör att mina riff går att känna – Nä, sanningen är att jag faktiskt inte
-igen direkt.                              kan sjunga alls. I bland kan jag bli lite
-avis på de som bara halar fram en
-När bestämde du dig för att satsa helhjärtat gitarr och och får i gång en fest. Har
-på musiken?                                jag med mig gitarr på en fest så slutar
-– I början på 2000-talet jobbade jag som må- det alltid med att jag sitter och spelar sånt
-lare, men allt jag kunde tänka på var turnerande. som ingen känner till. På senaste semestern tog
-Jag blev så himla tankspridd på jobbet att jag tapet- jag med min bärbara vinylspelare i stället. Det är
-serade upp-ochner och i fel rum i en lägenhet. Hyres- riktigt kul!
+kurs – farsan tyckte att jag behövde lära mig
+grunderna ordentligt – och så har jag suttit
+och nött och övat för att forma mitt eget
+spel, det som gör att mina riff går att känna
+igen direkt.
+När bestämde du dig för att satsa helhjärtat
+på musiken?
+– I början på 2000-talet jobbade jag som må-
+lare, men allt jag kunde tänka på var turnerande.
+Jag blev så himla tankspridd på jobbet att jag tapet-
+serade upp-ochner och i fel rum i en lägenhet. Hyres-
 gästen blev asförbannad och chefen insåg att det var
-bäst att ge mig ledigt för att kunna spela på heltid. I Vad betyder folkbildning för dig?
-dag spelar jag med In Flames, We Sell the Dead, – Folkbildning står för vi:et, att göra
-Engel och Drömriket. I och med corona är myc- saker tillsammans och på det sättet bli en bra
-ket inställt så jag skriver musik till andra artis- medmänniska som känner empati och hjäl-
-ter och till mig själv och har tid att finslipa per andra. Tack vare Mats och Magnus
-detaljerna i studion. Vem vet, det kanske  Törnqvist, som var några av dem som
-blir en soloplatta?                       tog med mig på allt när jag var liten,
-fick jag känna mig delaktig. För min del blev det hårdrock,
-In Flames turnerar i vanliga fall över hela innebandy och fotboll. Men det spelar ju ingen roll vilket
-världen, har satt Göteborg på kartan som en av världens intresse du har; den som är med i en förening eller går en
-främsta death metal-städer och är en del av det som kallas kurs blir en del av något större.
+bäst att ge mig ledigt för att kunna spela på heltid. I
+dag spelar jag med In Flames, We Sell the Dead,
+Engel och Drömriket. I och med corona är myc-
+ket inställt så jag skriver musik till andra artis-
+ter och till mig själv och har tid att finslipa
+detaljerna i studion. Vem vet, det kanske
+blir en soloplatta?
+In Flames turnerar i vanliga fall över hela
+världen, har satt Göteborg på kartan som en av världens
+främsta death metal-städer och är en del av det som kallas
 det svenska musikundret. Hur känns det?
+
+– Det låter ju galet när du säger det ... men det är inget
+jag tänker på. För mig handlar det om att prestera och
+leverera, vara hungrig och tillföra något. Jag älskar när
+det är brötigt och smäller på och hoppas förstås att vi ska
+kunna ge oss ut och turnera snart igen. Jag har svårt för
+att gå på halvfart. Vi har kört lite livestreams och
+hade en inofficiell spelning i somras i Höganäs
+för 17 bilar och en hund, men det är ju inte
+riktigt som det brukar vara.
+Är du en sån som alltid har med sig
+gitarren och sjunger och spelar vid alla
+tillfällen, som i filmen?
+– Nä, sanningen är att jag faktiskt inte
+kan sjunga alls. I bland kan jag bli lite
+avis på de som bara halar fram en
+gitarr och och får i gång en fest. Har
+jag med mig gitarr på en fest så slutar
+det alltid med att jag sitter och spelar sånt
+som ingen känner till. På senaste semestern tog
+jag med min bärbara vinylspelare i stället. Det är
+riktigt kul!
+Vad betyder folkbildning för dig?
+– Folkbildning står för vi:et, att göra
+saker tillsammans och på det sättet bli en bra
+medmänniska som känner empati och hjäl-
+per andra. Tack vare Mats och Magnus
+Törnqvist, som var några av dem som
+tog med mig på allt när jag var liten,
+fick jag känna mig delaktig. För min del blev det hårdrock,
+innebandy och fotboll. Men det spelar ju ingen roll vilket
+intresse du har; den som är med i en förening eller går en
+kurs blir en del av något större.
+
 17
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 <!-- sida 704 -->
 
-Stärkt   samhälle     genom      IDEELLA       KRAFTER
+Stärkt    samhälle     genom     IDEELLA       KRAFTER
 
-Ett av syftena med folkbildning är att bidra till De allra flesta cirkelledare inom Medborgarsko-
-att göra det möjligt för människor att påverka sin lan arbetar dessutom helt ideellt, det är i princip
-livssituation och skapa engagemang att delta i endast cirkelledare i öppen verksamhet som är
-samhällsutvecklingen. Detta är kanske speciellt arvoderade. De bidrag vi får från stat, region och
-viktigt för unga personer. Utanförskap, orsakad av kommun används främst till olika typer av kost-
-till exempel psykisk ohälsa, missbruk, kriminali- nadsersättning för till exempel lokalhyra eller ma-
-tet eller arbetslöshet kostar samhället miljarder terial som behövs för att göra denna verksamhet
-för insatser inom bland annat sjukvård, rehabi- möjlig. Den ideella insats som cirkelledarna under
-litering, omvårdnad, insatser från rättsväsendet 2020 lagt ner motsvarar i tid 180 317 studietim-
-samt produktionsförluster. Och då har vi inte ens mar. Räknar vi om ledarnas ideella insats till
-berört den personliga förlusten som det innebär kronor blir det 47 394 520 kronor (vi har använt
-för en människa att leva i någon form av utan- oss av ett snittarvode/timma). Se mer sidan 9.
+Ett av syftena med folkbildning är att bidra till
+att göra det möjligt för människor att påverka sin
+livssituation och skapa engagemang att delta i
+samhällsutvecklingen. Detta är kanske speciellt
+viktigt för unga personer. Utanförskap, orsakad av
+till exempel psykisk ohälsa, missbruk, kriminali-
+tet eller arbetslöshet kostar samhället miljarder
+för insatser inom bland annat sjukvård, rehabi-
+litering, omvårdnad, insatser från rättsväsendet
+samt produktionsförluster. Och då har vi inte ens
+berört den personliga förlusten som det innebär
+för en människa att leva i någon form av utan-
 förskap. Samhället har mycket att vinna på att ar-
-beta förebyggande och det finns stora besparingar Om varje figur nedan representerar 5 000 timmar i
-att göra både i mänskliga hälsovinster och ekono- nedlagd tid, ser förhållandet mellan arvoderad och
-miska vinster.                    ideell insats ut ungefär så här:
-Med hjälp av statens, regionens och kommunens Arvoderad insats Ideell insats
+beta förebyggande och det finns stora besparingar
+att göra både i mänskliga hälsovinster och ekono-
+miska vinster.
+Med hjälp av statens, regionens och kommunens
 stöd till studiecirkelverksamhet samt i samverkan
 med lokala aktörer skapar vi verksamhet i socialt
 utsatta områden och för personer i någon form
@@ -29170,162 +32920,231 @@ het med inriktning musikstudio i samarbete med
 kommunerna i Kungälv och Alingsås, båda i syftet
 att skapa bra sysselsättning för ungdomar.
 
+De allra flesta cirkelledare inom Medborgarsko-
+lan arbetar dessutom helt ideellt, det är i princip
+endast cirkelledare i öppen verksamhet som är
+arvoderade. De bidrag vi får från stat, region och
+kommun används främst till olika typer av kost-
+nadsersättning för till exempel lokalhyra eller ma-
+terial som behövs för att göra denna verksamhet
+möjlig. Den ideella insats som cirkelledarna under
+2020 lagt ner motsvarar i tid 180 317 studietim-
+mar. Räknar vi om ledarnas ideella insats till
+kronor blir det 47 394 520 kronor (vi har använt
+oss av ett snittarvode/timma). Se mer sidan 9.
+Om varje figur nedan representerar 5 000 timmar i
+nedlagd tid, ser förhållandet mellan arvoderad och
+ideell insats ut ungefär så här:
+
+Arvoderad insats Ideell insats
+
 18
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 705 -->
 
-Folkbildning      skapar    NYA     MÖTEN        som
+Folkbildning      skapar    NYA     MÖTEN       som
 
 stärker    civilsamhället
 
-Sveriges riksdag antog 2014 en ny folkbildnings- Under 2020 skapade Medborgarskolan Region
-proposition, Allas kunskap – allas bildning. I Väst 556 st möjligheter till denna typ av möten
-den slog man fast att ”Folkbildningen ska ge genom våra öppna studiecirklar. I genomsnitt del-
-alla möjlighet att tillsammans med andra öka tog sex personer i varje cirkel, vilket i teorin gett
-sin kunskap och bildning för personlig utveck- 3 336 personer möjlighet att möta minst fem
-ling i samhället”. Folkbildningen är en del av det andra nya personer som de inte annars skulle ha
-svenska civilsamhället och spelar en viktig roll för träffat. För mer statistik, se sidan 9.
+Sveriges riksdag antog 2014 en ny folkbildnings-
+proposition, Allas kunskap – allas bildning. I
+den slog man fast att ”Folkbildningen ska ge
+alla möjlighet att tillsammans med andra öka
+sin kunskap och bildning för personlig utveck-
+ling i samhället”. Folkbildningen är en del av det
+svenska civilsamhället och spelar en viktig roll för
 den svenska demokratin.
-Vi inom Medborgarskolan är övertygade om att 3 336         16 680
-människor utvecklas genom att mötas. Att möta personer som nya möten
-personer med samma intresse i en studiecirkel, möter andra
+Vi inom Medborgarskolan är övertygade om att
+människor utvecklas genom att mötas. Att möta
+personer med samma intresse i en studiecirkel,
 personer som man kanske aldrig annars skulle ha
 träffat, ger nya insikter och förståelse vilket är en
-grundpelare i ett demokratiskt samhälle. Speciellt 556
-i vår öppna studiecirkelverksamhet, dit vem som nya mötesplatser
+grundpelare i ett demokratiskt samhälle. Speciellt
+i vår öppna studiecirkelverksamhet, dit vem som
 helst kan anmäla sig och delta, möts människor
 från olika åldersgrupper, bakgrunder, kön eller
 andra tillhörigheter. För oss är därför den öppna
 verksamheten en mycket viktig del av folkbild-
 ningsverksamheten.
 
+Under 2020 skapade Medborgarskolan Region
+Väst 556 st möjligheter till denna typ av möten
+genom våra öppna studiecirklar. I genomsnitt del-
+tog sex personer i varje cirkel, vilket i teorin gett
+3 336 personer möjlighet att möta minst fem
+andra nya personer som de inte annars skulle ha
+träffat. För mer statistik, se sidan 9.
+
+3 336                16 680
+personer som          nya möten
+möter andra
+
+556
+nya mötesplatser
+
 19
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 <!-- sida 706 -->
 
-Det  är något    SPECIELLT        med   våra   kursledare
+Det   är något   SPECIELLT        med    våra   kursledare
 
 Cirkelledarna har en central roll när det gäller att borgarskolan som det humanistiska studieförbun-
+
 realisera statens syften och enligt Folkbildnings- det med en tydlig värdegrund.
+
 rådets rapport nr 1 2014 Cirkelledare – folkbild-
+
 ningens fotfolk och drivkraft har cirkelledarna ”ett Under året har Medborgarskolans digitala ver-
+
 pedagogiskt uppdrag i demokratins tjänst”. Att sion av LIM uppdaterats och förnyats. Detta har
+
 vara cirkelledare innebär alltså att vara lite extra medfört en kvalitetssäkring av utbildningen och
+
 engagerad och ta på sig ett ansvar att lyssna, dela kommer även att öka tillgängligheten.
+
 med sig, samordna och leda en grupp kring ett ge-
 mensamt intresse. Därför har vi gjort en förnyad Antal cirkelledare med LIM ledarutbildning
+
 satsning på cirkelledarutbildning. Många av våra
+
 cirkelledare är det under ett par år och därför
-1 577   1 575
+1 577    1 575
 finns det ständigt ett behov av att grundutbilda
 1 149
 nya studiecirkelledare. Kunskapen kring folkbild-
+
 ning finns förstås kvar hos de cirkelledare som
+
 lämnar vår verksamhet och på så sätt får cirkel-
+
 ledarskapet betydelse både i det civila samhället
+
 och i arbetslivet.                      689      829      738
 60,0 %   52,6 %   46,9 %
 Våra cirkelledare är centrala för Medborgarsko-
+
 lans verksamhet, därför erbjuder vi alla ledare en
 grundutbildning samt påbyggnadsutbildningar i
-2020     2019    2018
 olika ämnen som till exempel pedagogik och meto-
-dik. Vår grundutbildning kallar vi LIM, Ledarin- Inför 2020 planerade regionen som vanligt för-
-troduktion i Medborgarskolan. LIM ger kunskap djupningsutbildningar (för kompetenshöjning och
-om bland annat statens fyra syften för folkbild- pedagogisk utveckling) för cirkelledarna, men på
-ning (se sidan 5), studiecirkelpedagogik inklusive grund av pandemin har dessa utbildningar ställts
-vikten av deltagarnas inflytande samt om Med- in och skjutits upp.
+dik. Vår grundutbildning kallar vi LIM, Ledarin-
+troduktion i Medborgarskolan. LIM ger kunskap
+om bland annat statens fyra syften för folkbild-
+ning (se sidan 5), studiecirkelpedagogik inklusive
+vikten av deltagarnas inflytande samt om Med-
+
+2020     2019    2018
+
+Inför 2020 planerade regionen som vanligt för-
+djupningsutbildningar (för kompetenshöjning och
+pedagogisk utveckling) för cirkelledarna, men på
+grund av pandemin har dessa utbildningar ställts
+in och skjutits upp.
 
 20
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 707 -->
 
-REGIONENS  OLIKA                  ställa in och ställa om till distans, beroende på typ
-av verksamhet och deltagarnas önskemål, vilket
+REGIONENS   OLIKA
 VERKSAMHETSTYPER
-har resulterat i kraftigt minskad verksamhet.
 Gemensamt för samtliga verksamhetstyper är att
 de stimulerar till ökad kunskap, social gemenskap,
-Vår öppna kursverksamhet har under året haft
 meningsfull sysselsättning samt förebygger och
-tema Hållbarhet. I samband med detta har vi
 minskar utanförskap. Vi arbetar efter en humanis-
-erbjudit en kostnadsfri föreläsning ”Klimatsmart
 tisk värdegrund där respekt, öppenhet och mång-
-semester” med miljöaktivisten Josef Henschel. Fö-
 fald är naturliga ingredienser. Medborgarskolans
-reläsningen blev på grund av pandemin uppskjuten
 värdegrund (se sidan 5) omfattas av och genomsy-
-från våren till hösten, då två av ett flertal plane-
 rar samtliga verksamheter.
-rade föreläsningstillfällen genomfördes i Göteborg
-och Trollhättan (se artikel på sidan 6-7).
+
 Styrelsen anser att det är av största vikt att vi
 har flera verksamhetsben att stå på, i huvudsak
-För övrigt har vi under året fokuserat på att skapa
 för att utnyttja regionens resurser. 2020 ligger
-verksamhet med inriktning på hållbarhet. På grund
 fördelningen mellan våra tre verksamhetstyper
-av pandemin har hållbarheten även blivit påtaglig i
 procentuellt (baserat på omsättning) på 38 % för
-form av omställning till distansverksamhet.
 folkbildning, 48 % för förskola/skola och 14 % för
 uppdrag. Under året har vi fortsatt att fokusera
-Regionens diplomutbildningar inom ekonomi och
 på samarbete mellan verksamhetstyperna. Samar-
-ett flertal estetiska ämnen har varit fortsatt popu-
 betet har stärkts och resulterat i ett bättre ut-
-lära. Utbildningarna omfattar en heldag i veckan
 nyttjande av lokaler och varandras verksamheter,
-per termin och vänder sig till dem som vill lägga
 nätverk och kompetens.
+UPPDRAG
+14 %         FÖRSKOLA/SKOLA
+48 %
+
+FOLKBILDNING
+38 %
+
+FOLKBILDNING
+Öppen verksamhet
+Denna verksamhetstyp vänder sig till allmänheten
+och erbjuder kurser och föreläsningar inom följande
+ämnesområden: Dans och teater, Djur och natur,
+Ekonomi och samhälle, Kommunikation, Konst och
+hantverk, Kropp och hälsa, Mat och dryck, Musik,
+Navigation och trafik, Språk.
+Mest populära ämnesområden under året har varit
+(i följande ordning): Konst och hantverk, Språk,
+Dans och teater, Musik samt Djur och natur.
+
+Följderna av pandemin har inom vår öppna kurs-
+verksamhet varit speciellt märkbara. Vi har under
+övervägande delar av året tvingats skjuta upp,
+
+ställa in och ställa om till distans, beroende på typ
+av verksamhet och deltagarnas önskemål, vilket
+har resulterat i kraftigt minskad verksamhet.
+
+Vår öppna kursverksamhet har under året haft
+tema Hållbarhet. I samband med detta har vi
+erbjudit en kostnadsfri föreläsning ”Klimatsmart
+semester” med miljöaktivisten Josef Henschel. Fö-
+reläsningen blev på grund av pandemin uppskjuten
+från våren till hösten, då två av ett flertal plane-
+rade föreläsningstillfällen genomfördes i Göteborg
+och Trollhättan (se artikel på sidan 6-7).
+För övrigt har vi under året fokuserat på att skapa
+verksamhet med inriktning på hållbarhet. På grund
+av pandemin har hållbarheten även blivit påtaglig i
+form av omställning till distansverksamhet.
+
+Regionens diplomutbildningar inom ekonomi och
+ett flertal estetiska ämnen har varit fortsatt popu-
+lära. Utbildningarna omfattar en heldag i veckan
+per termin och vänder sig till dem som vill lägga
 grunden till fortsatta studier, ny yrkesbana eller
 helt enkelt söker ny kunskap och energi i tillvaron.
-UPPDRAG
-14 %        FÖRSKOLA/SKOLA
-48 %
 Vi har generellt identifierat ett ökat intresse för
 kurser med praktiskt inriktning, såsom till exem-
 pel hantverk, sjöliv och jakt.
+
 För att möta den stora efterfrågan av keramik-
 kurser och andra hantverkskurser, har vi på olika
 håll i regionen sökt och till vår glädje hittat nya
 lokaler och därmed nya möjligheter för denna typ
 av verksamhet.
+
 Vi är mycket stolta över alla våra kompetenta
-FOLKBILDNING                        och engagerade kursledare och hävdar fortsatt
-38 %
+och engagerade kursledare och hävdar fortsatt
 att ”Det är något speciellt med våra kursledare”.
 Under devisen uppmärksammar vi regelbundet
-FOLKBILDNING
 våra kursledare i vår kommunikation. I år har vi
-Öppen verksamhet
 bland annat producerat och spridit artiklar och
-Denna verksamhetstyp vänder sig till allmänheten filmer om bland annat Josef Henschel (se sidan
-och erbjuder kurser och föreläsningar inom följande 6-7), rebellkirurgen Erik Erichsen (se medborgar-
-ämnesområden: Dans och teater, Djur och natur, skolan.se/rebellkirurgen) och Kristoffer Göbel (se
-Ekonomi och samhälle, Kommunikation, Konst och
+filmer om bland annat Josef Henschel (se sidan
+6-7), rebellkirurgen Erik Erichsen (se medborgar-
+skolan.se/rebellkirurgen) och Kristoffer Göbel (se
 youtube.com/watch?v=QoBeqyZYNss).
-hantverk, Kropp och hälsa, Mat och dryck, Musik,
-Navigation och trafik, Språk.
 Ansluten verksamhet
 Medborgarskolan Region Väst samarbetar med ett
-Mest populära ämnesområden under året har varit
 stort antal föreningar och grupper som bedriver
-(i följande ordning): Konst och hantverk, Språk,
 studiecirklar eller genomför kulturarrangemang
-Dans och teater, Musik samt Djur och natur.
 inom områden såsom musik, teater, dans, djur och
 natur. Löpande besök hos grupperna, både anmäl-
-Följderna av pandemin har inom vår öppna kurs-
 da och oanmälda, görs och dokumenteras som ett
-verksamhet varit speciellt märkbara. Vi har under
 led i vårt kvalitetsarbete.
-övervägande delar av året tvingats skjuta upp,
 Fortsättning på sidan 25
+
 21
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
@@ -29337,85 +33156,145 @@ och
 varm                  samvaro
 
 Varje  söndag   ses ett tjugotal syriska  kvinnor
-i en liten simhall i Viskafors.  Där  lär de sig
+i en liten simhall  i Viskafors.  Där  lär de sig
 
 simma   och  överkomma     sin rädsla  för vatten
 – men  får också  tid att umgås,   hjälpa
 
-varandra   och  lära sig mer   om  Sverige.
+varandra   och  lära sig mer  om  Sverige.
 
 Text SOFIA ERIKSSON Foto ANNA-LENA LUNDQVIST
 
-V          attenytan i den lilla, nästan fyrkan- allt från kulturaktiviteter och dans till matlagning,
-tiga bassängen är än så länge helt filmvisning och hälsovård. En viktig del av verksam-
-stilla och spegelblank, men snart heten är en egen radiokanal och en Facebooksida som
-ska Nour Nazir, Maram Almobaied, delger viktig samhällsinformation och nyheter. Många
-Linda Mahfuz och deras väninnor i av föreningens aktiviteter sker i form av studiecirklar,
-den syriska kulturföreningen Mul- och det är där Medborgarskolan kommer in i bilden.
-taka Asham hoppa i för dagens sim- Michelle Helander är kontaktperson på Medborgarsko-
-lektion. Det är söndag förmiddag och lan och har med tiden blivit mer och mer engagerad i
-den kommunala simhallen i Viskafors är bokad bara Multaka Ashams verksamhet.
-för dem. Två simlärare förbereder lektionen genom att – Multaka Asham är en förening som är otroligt in-
-lägga fram flytkorvar och simdynor vid bassängkanten. volverad och engagerad i så mycket, inte bara sina egna
-Det är varmt och fuktigt. Inifrån omklädningsrummet studiecirklar utan också i dialogsamtal med kommu-
-hörs duschvatten som strilar, skratt och prat. nen om olika samhällsfrågor på ganska hög nivå, ofta
-– Vi ser fram emot den här dagen hela veckan! Fyra tillsammans med andra kulturföreningar. Vår dialog
-timmar utan barn och man, det är härligt att få tid bara handlar om högt och lågt, snabba frågor eller långa
-för sig själv, säger Nour.        projekt – ett av många exempel på hur det kan vara att
-samverka med Medborgarskolan, säger Michelle.
+V          attenytan i den lilla, nästan fyrkan-
+tiga bassängen är än så länge helt
+stilla och spegelblank, men snart
+ska Nour Nazir, Maram Almobaied,
+Linda Mahfuz och deras väninnor i
+den syriska kulturföreningen Mul-
+taka Asham hoppa i för dagens sim-
+lektion. Det är söndag förmiddag och
+den kommunala simhallen i Viskafors är bokad bara
+för dem. Två simlärare förbereder lektionen genom att
+lägga fram flytkorvar och simdynor vid bassängkanten.
+Det är varmt och fuktigt. Inifrån omklädningsrummet
+hörs duschvatten som strilar, skratt och prat.
+– Vi ser fram emot den här dagen hela veckan! Fyra
+timmar utan barn och man, det är härligt att få tid bara
+för sig själv, säger Nour.
 De andra två nickar instämmande.
-– Och så är det bra att vi bara är kvinnor här. Det Nour håller med.
-tycker jag om. Vi lär oss något viktigt tillsammans, – Det är ett utmärkt samarbete. Medborgarskolan
-säger Linda.                      stöttar oss på alla möjliga sätt. Alla frågor som vi inte
-– Ja, vattenkunskap och att simma på rätt sätt. Det har koll på … jag bara ringer till Michelle så har hon en
-måste man kunna. Jag kunde inte alls simma förut men lösning. Jag berättar för mina kompisar i andra städer
-det kan jag nu, säger Maram medan hon gör sig redo för att Medborgarskolan finns och flera av dem har inlett
-dagens lektion.                   liknande samarbeten, säger hon.
-KULTURFÖRENING MED MÅNGA AKTIVITETER GEMENSKAP
-Multaka Asham har funnits sedan 2015, har ungefär Simskolan för kvinnor har funnits i ungefär ett år och
-400 medlemmar och fungerar som en samlingsplats för har snabbt blivit populär. Deltagarna är mellan 15 och
-personer som av olika anledningar kommit till Borås- nästan 70.
-trakten från Syrien och kringliggande länder. Förening- – De här timmarna betyder så mycket. Inte bara för
-en anordnar en mängd aktiviteter för sina medlemmar, att lära sig att simma utan också för hälsans skull. En
+– Och så är det bra att vi bara är kvinnor här. Det
+tycker jag om. Vi lär oss något viktigt tillsammans,
+säger Linda.
+– Ja, vattenkunskap och att simma på rätt sätt. Det
+måste man kunna. Jag kunde inte alls simma förut men
+det kan jag nu, säger Maram medan hon gör sig redo för
+dagens lektion.
+KULTURFÖRENING MED MÅNGA AKTIVITETER
+Multaka Asham har funnits sedan 2015, har ungefär
+400 medlemmar och fungerar som en samlingsplats för
+personer som av olika anledningar kommit till Borås-
+trakten från Syrien och kringliggande länder. Förening-
+en anordnar en mängd aktiviteter för sina medlemmar,
+
+allt från kulturaktiviteter och dans till matlagning,
+filmvisning och hälsovård. En viktig del av verksam-
+heten är en egen radiokanal och en Facebooksida som
+delger viktig samhällsinformation och nyheter. Många
+av föreningens aktiviteter sker i form av studiecirklar,
+och det är där Medborgarskolan kommer in i bilden.
+Michelle Helander är kontaktperson på Medborgarsko-
+lan och har med tiden blivit mer och mer engagerad i
+Multaka Ashams verksamhet.
+– Multaka Asham är en förening som är otroligt in-
+volverad och engagerad i så mycket, inte bara sina egna
+studiecirklar utan också i dialogsamtal med kommu-
+nen om olika samhällsfrågor på ganska hög nivå, ofta
+tillsammans med andra kulturföreningar. Vår dialog
+handlar om högt och lågt, snabba frågor eller långa
+projekt – ett av många exempel på hur det kan vara att
+samverka med Medborgarskolan, säger Michelle.
+Nour håller med.
+– Det är ett utmärkt samarbete. Medborgarskolan
+stöttar oss på alla möjliga sätt. Alla frågor som vi inte
+har koll på … jag bara ringer till Michelle så har hon en
+lösning. Jag berättar för mina kompisar i andra städer
+att Medborgarskolan finns och flera av dem har inlett
+liknande samarbeten, säger hon.
+GEMENSKAP
+Simskolan för kvinnor har funnits i ungefär ett år och
+har snabbt blivit populär. Deltagarna är mellan 15 och
+nästan 70.
+– De här timmarna betyder så mycket. Inte bara för
+att lära sig att simma utan också för hälsans skull. En
+
 22
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 709 -->
 
+kvinna som är med har problem med sina fötter och
+behöver träna på att gå, som behandling. Det kan hon
+göra här. En annan kvinna har diskbråck och slipper ha
+ont när hon rör sig i vattnet, säger Nour.
+VATTENRÄDSLA
+Från bassängen hörs nu simläraren Linas instruk-
+tioner. I dag står ryggsim på schemat. Alla kan inte
+svenska så bra men Lina visar tekniken och kommer
+med handfasta tips och korrigeringar. Maram och Linda
+och flera andra simmar ganska snart fram och tillbaka
+på rygg tvärs över bassängen medan andra behöver
+en hjälpande hand eller ett flytredskap för att öva på
+bentagen.
+– Simlärarna är så trevliga och duktiga på att lära
+ut till alla, oavsett vad vi kan innan. Första lektionen
+var det några i gruppen som fick lite panik och knappt
+vågade doppa ansiktet i vattnet. Men nu har de lärt sig
+så mycket och fått självförtroende, konstaterar Nour.
+I Syrien är det långt ifrån självklart att barn och
+unga lär sig simma.
+– Simundervisning finns, men det är inte viktigt i
+Syrien. Kanske för att det inte finns så många sjöar
+och för att många bor så långt från havet så att de inte
+tycker att det behövs. Det är inte heller en del av under-
+visningen i skolan, berättar Nour.
+Själv lärde hon sig simma som liten, något hon var väl-
+digt tacksam för när hon och hennes familj, make och
+tre små barn, flydde till Sverige för fyra sedan. Färden
+över Medelhavet tog två dygn i en alldeles för liten båt
+där det var så trångt att passagerarna satt som fast-
+
 Se filmen på medborgarskolan.se/viktig-simskola
 
-kvinna som är med har problem med sina fötter och kilade. Hon berättar hur hon fruktade för sitt liv när
-behöver träna på att gå, som behandling. Det kan hon vågorna gick höga.
-göra här. En annan kvinna har diskbråck och slipper ha – Jag vill inte komma ihåg – jag har försökt att
-ont när hon rör sig i vattnet, säger Nour. glömma kylan och hur rädda barnen var. Vi var 400 per-
+kilade. Hon berättar hur hon fruktade för sitt liv när
+vågorna gick höga.
+– Jag vill inte komma ihåg – jag har försökt att
+glömma kylan och hur rädda barnen var. Vi var 400 per-
 soner i en träbåt avsedd för 40 personer. Två dagar tog
-VATTENRÄDSLA                      det. Efter en sådan upplevelse ville vi aldrig bada igen.
-Från bassängen hörs nu simläraren Linas instruk- Det finns ju massor av fina sjöar kring Borås men jag
-tioner. I dag står ryggsim på schemat. Alla kan inte och barnen var rädda. Att kunna öva i en simhall har
-svenska så bra men Lina visar tekniken och kommer hjälpt mig få självförtroende och våga igen, säger hon.
-med handfasta tips och korrigeringar. Maram och Linda
-och flera andra simmar ganska snart fram och tillbaka BURKINI ELLER BADDRÄKT
-på rygg tvärs över bassängen medan andra behöver De flesta deltagarna väljer att bada i någon variant
-en hjälpande hand eller ett flytredskap för att öva på av burkini med långa ärmar och ben samt täckt hår,
-bentagen.                         badkläder som faktiskt inte skiljer sig nämnvärt från
-– Simlärarna är så trevliga och duktiga på att lära simlärarens våtdräkt och badmössa; ändå är det ett
-ut till alla, oavsett vad vi kan innan. Första lektionen kontroversiellt plagg som muslimska kvinnor ofta får
-var det några i gruppen som fick lite panik och knappt försvara.
-vågade doppa ansiktet i vattnet. Men nu har de lärt sig – Jag känner mig bekväm med burkini. I många
-så mycket och fått självförtroende, konstaterar Nour. länder är det ett stort problem att kvinnor har det, men
+det. Efter en sådan upplevelse ville vi aldrig bada igen.
+Det finns ju massor av fina sjöar kring Borås men jag
+och barnen var rädda. Att kunna öva i en simhall har
+hjälpt mig få självförtroende och våga igen, säger hon.
+BURKINI ELLER BADDRÄKT
+De flesta deltagarna väljer att bada i någon variant
+av burkini med långa ärmar och ben samt täckt hår,
+badkläder som faktiskt inte skiljer sig nämnvärt från
+simlärarens våtdräkt och badmössa; ändå är det ett
+kontroversiellt plagg som muslimska kvinnor ofta får
+försvara.
+– Jag känner mig bekväm med burkini. I många
+länder är det ett stort problem att kvinnor har det, men
 i Sverige är burkini något normalt och jag tycker att är
-I Syrien är det långt ifrån självklart att barn och fantastiskt att man kan välja att ta på sig vad man vill
-unga lär sig simma.               här, säger Linda.
-– Simundervisning finns, men det är inte viktigt i
-Syrien. Kanske för att det inte finns så många sjöar Simlektionen är slut och det är dags för en kort
-och för att många bor så långt från havet så att de inte lunchpaus. Sedan blir det vattengympa och badlek.
-tycker att det behövs. Det är inte heller en del av under- Diggiloo Diggiley dundrar ur högtalarna och kvin-
-visningen i skolan, berättar Nour. norna dansar loss i vattnet till musiken. Det märks att
-Själv lärde hon sig simma som liten, något hon var väl- stunderna i simhallen skapat en stor, viktig kvinnlig
-digt tacksam för när hon och hennes familj, make och gemenskap.
-tre små barn, flydde till Sverige för fyra sedan. Färden – Vi dansar, pratar, fikar, bastar. Det handlar inte
-över Medelhavet tog två dygn i en alldeles för liten båt bara om simkunskap och vattenvana utan om att ha det
-där det var så trångt att passagerarna satt som fast- roligt tillsammans! säger Nour.
+fantastiskt att man kan välja att ta på sig vad man vill
+här, säger Linda.
+Simlektionen är slut och det är dags för en kort
+lunchpaus. Sedan blir det vattengympa och badlek.
+Diggiloo Diggiley dundrar ur högtalarna och kvin-
+norna dansar loss i vattnet till musiken. Det märks att
+stunderna i simhallen skapat en stor, viktig kvinnlig
+gemenskap.
+– Vi dansar, pratar, fikar, bastar. Det handlar inte
+bara om simkunskap och vattenvana utan om att ha det
+roligt tillsammans! säger Nour.
 23
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
@@ -29447,37 +33326,95 @@ jobbar inom vård, skola och omsorg sig bemöter oförutsedda händelser. Precis
 mer stressade än före pandemin, och som vilken fysisk träning som helst. Deltagarna kan via den digitala
 tre av tio är så stressade att de riskerar – Många tycker att mindfulness är läroplattformen Totara ta del av filmer,
 att få utmattningssyndrom. flummigt. Men det är mental träning textkapitel och hjälpmedel för övning-
-med fokus på närvaro med alla sin- ar. De får också uppmaningar att öva
-Mindfulness-coachen Jenny Anders- nen. När vi tränar på tålamod och att på fokus och närvaro i helt vardagliga
-son är en av dem som i sitt yrke note- förvänta oss allt eller inget blir vi mer situationer, som när man duschar eller
-rat att folk blir allt mer stressade. flexibla i vårt förhållningssätt, säger äter, samt en egen workbook där de
-– Stress är ett folkhälsoproblem, och Jenny Andersson. kan notera tankar och reflektioner. En
-pandemin får människor att känna att       av utmaningarna i utmaningen är själv-
-de ännu mer tappar kontrollen. De kan Hon förklarar att det ofta är diskre- ledarskapet – det vill säga att faktiskt
-inte planera, vet inte vad som gäller och pansen mellan förväntan och verklig- genomföra detta på egen hand. Det
-upplever att ingenting är förutsägbart. het som är problemet. Förväntan är extra viktigt att öva sig på nu när
-Det föder stress, ångest och oro och då skapar oro över vad som ska hända, många jobbar hemifrån eller kanske till
-behöver vi vila mer i nuet, säger hon. och sedan blir vi besvikna när saker och med har blivit av med jobbet.
+
+Mindfulness-coachen Jenny Anders-
+son är en av dem som i sitt yrke note-
+rat att folk blir allt mer stressade.
+– Stress är ett folkhälsoproblem, och
+pandemin får människor att känna att
+de ännu mer tappar kontrollen. De kan
+inte planera, vet inte vad som gäller och
+upplever att ingenting är förutsägbart.
+Det föder stress, ångest och oro och då
+behöver vi vila mer i nuet, säger hon.
+Jenny Andersson har lärt ut mind-
+fulness och mental träning i olika
+sammanhang i tolv år. Hon berättar att
+mindfulness är ett begrepp som fun-
+nits i tusentals år och egentligen inte
+innebär något nytt under solen. Det
+handlar om närvaroträning och att leva
+i nuet med alla våra sinnen utan att
+döma eller värdera det som är.
+– Träningen hjälper människor när
+det är väldigt stressigt kring dem.
+De blir tydligare i sig själva och står
+stadigare inifrån. Jag ser gång på gång
+hur mindfulness hjälper folk sticker hål
+på illusionen om att man måste kunna
+planera, säger hon.
+För mindfulness handlar om just det
+– inte om att bli bättre på att planera
+
+med fokus på närvaro med alla sin-
+nen. När vi tränar på tålamod och att
+förvänta oss allt eller inget blir vi mer
+flexibla i vårt förhållningssätt, säger
+Jenny Andersson.
+Hon förklarar att det ofta är diskre-
+pansen mellan förväntan och verklig-
+het som är problemet. Förväntan
+skapar oro över vad som ska hända,
+och sedan blir vi besvikna när saker
 och ting inte blir som vi har tänkt.
-Jenny Andersson har lärt ut mind- – Mindfulness handlar också om att Just självledarskap har Jenny
-fulness och mental träning i olika släppa taget om det som varit, vilket Andersson också lärt ut online till när-
-sammanhang i tolv år. Hon berättar att annars ofta ger oss ångest. Det är ju mare 350 medarbetare internt inom
-mindfulness är ett begrepp som fun- här och nu vi lever, och det är det vi Medborgarskolan.
-nits i tusentals år och egentligen inte behöver öva oss på, säger hon. – Fokus har legat bland annat på att
-innebär något nytt under solen. Det        sätta mål, motivera sig själv och kommu-
-handlar om närvaroträning och att leva Lagom till jul lanserade därför Med- nicera med sig själv och andra. Mindful-
-i nuet med alla våra sinnen utan att borgarskolan Väst en gåva på nätet: ness är en del av det. Det har skapat en
-döma eller värdera det som är. en gratis online-kurs med fem dagars gemenskap och ett enhetligt språk som
-– Träningen hjälper människor när mental träning. Den blev en succé. jag tror att många saknar just nu.
-det är väldigt stressigt kring dem. Nästan 250 personer kände, mitt i
-De blir tydligare i sig själva och står julstressen och osäkerheten kring hur Jenny Andersson är noga med att
-stadigare inifrån. Jag ser gång på gång jul skulle få firas, att de ville ta sig tid betona att mindfulness inte bara är
-hur mindfulness hjälper folk sticker hål att titta inåt och sänka tempot. något för pandemitider, utan alltid.
-på illusionen om att man måste kunna        – Det är som en bruksanvisning till
-planera, säger hon.   Och som en uppföljning kom sedan vårt eget psyke och verktyg för att få
-en sex veckors så kallad challenge i oss att fungera som bäst. Det hjälper
-För mindfulness handlar om just det Medborgarskolans regi. Utmaningen är oss alla att bli medvetna om vad vi
-– inte om att bli bättre på att planera en digital självstudiekurs och går ut på behöver öva på.
+– Mindfulness handlar också om att
+släppa taget om det som varit, vilket
+annars ofta ger oss ångest. Det är ju
+här och nu vi lever, och det är det vi
+behöver öva oss på, säger hon.
+Lagom till jul lanserade därför Med-
+borgarskolan Väst en gåva på nätet:
+en gratis online-kurs med fem dagars
+mental träning. Den blev en succé.
+Nästan 250 personer kände, mitt i
+julstressen och osäkerheten kring hur
+jul skulle få firas, att de ville ta sig tid
+att titta inåt och sänka tempot.
+Och som en uppföljning kom sedan
+en sex veckors så kallad challenge i
+Medborgarskolans regi. Utmaningen är
+en digital självstudiekurs och går ut på
+
+ar. De får också uppmaningar att öva
+på fokus och närvaro i helt vardagliga
+situationer, som när man duschar eller
+äter, samt en egen workbook där de
+kan notera tankar och reflektioner. En
+av utmaningarna i utmaningen är själv-
+ledarskapet – det vill säga att faktiskt
+genomföra detta på egen hand. Det
+är extra viktigt att öva sig på nu när
+många jobbar hemifrån eller kanske till
+och med har blivit av med jobbet.
+Just självledarskap har Jenny
+Andersson också lärt ut online till när-
+mare 350 medarbetare internt inom
+Medborgarskolan.
+– Fokus har legat bland annat på att
+sätta mål, motivera sig själv och kommu-
+nicera med sig själv och andra. Mindful-
+ness är en del av det. Det har skapat en
+gemenskap och ett enhetligt språk som
+jag tror att många saknar just nu.
+Jenny Andersson är noga med att
+betona att mindfulness inte bara är
+något för pandemitider, utan alltid.
+– Det är som en bruksanvisning till
+vårt eget psyke och verktyg för att få
+oss att fungera som bäst. Det hjälper
+oss alla att bli medvetna om vad vi
+behöver öva på.
+
 24
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
@@ -29485,54 +33422,87 @@ För mindfulness handlar om just det Medborgarskolans regi. Utmaningen är oss a
 
 Fortsättning från sidan 21
 
-I slutet av 2020 genomgick studieförbunden en Utbildningen ger kunskap om fakta och varnings-
-nationell granskning av verksamheten 2017-2019, signaler och hur vi kan vara uppmärksamma och
-där vi för första gången hade möjlighet att samköra stötta de i vår närhet som mår dåligt.
+I slutet av 2020 genomgick studieförbunden en
+nationell granskning av verksamheten 2017-2019,
+där vi för första gången hade möjlighet att samköra
 vår verksamhetsrapportering med övriga studieför-
-bund för att söka efter eventuella felaktiga rappor- Här föds det svenska musikundret
-teringar. Resultatet av denna granskning har med- Regionens musikhus är en grundförutsättning för
-fört en utökad intern kontroll av Medborgarskolans att musikgrupper ska kunna utöva och utveckla sitt
-verksamhet som nyligen (början 2021) slutförts och intresse och borgar för kvalitet, lojalitet och stabi-
-kommer att innebära vissa strykningar av inrap- litet. Vi har under 2020 haft musikhus och studios
-porterade studietimmar för ovanstående period. på följande orter: Alingsås, Falkenberg, Halmstad,
-Varberg, Kungsbacka, Göteborg, Mölndal, Kungälv,
-Vi vill samtidigt understryka att Medborgarskolan Stenungsund, Älvängen, Trollhättan, Lidköping,
-har välkomnat genomförd granskning. Medborgar- Mariestad, Skara, Skövde och Borås.
+bund för att söka efter eventuella felaktiga rappor-
+teringar. Resultatet av denna granskning har med-
+fört en utökad intern kontroll av Medborgarskolans
+verksamhet som nyligen (början 2021) slutförts och
+kommer att innebära vissa strykningar av inrap-
+porterade studietimmar för ovanstående period.
+Vi vill samtidigt understryka att Medborgarskolan
+har välkomnat genomförd granskning. Medborgar-
 skolan har nolltolerans för all form av bidragsfusk
-och anser att allt missbruk av folkbildningsverk- För att hjälpa banden i sin utveckling erbjuder
-samhet är att uppfattas som en oacceptabel fientlig Medborgarskolan Amplified ett servicepaket av
-och olaglig handling. Folkbildning har, rätt genom- tjänster som bland annat replokaler, speltillfällen,
-förd, en väsentlig betydelse för den svenska demo- studioinspelningar, synlighet i media och möjlighet
-kratin. Vi gör därför, och kommer fortsatt göra, allt att bli recenserade. Vi har samarbeten med bland
-som står i vår makt för att säkerställa att vi kan andra Svenska Grammofonstudion och Sonic Train
-genomföra folkbildning på ett rättssäkert, korrekt Studios.
+och anser att allt missbruk av folkbildningsverk-
+samhet är att uppfattas som en oacceptabel fientlig
+och olaglig handling. Folkbildning har, rätt genom-
+förd, en väsentlig betydelse för den svenska demo-
+kratin. Vi gör därför, och kommer fortsatt göra, allt
+som står i vår makt för att säkerställa att vi kan
+genomföra folkbildning på ett rättssäkert, korrekt
 och kvalitativt sätt.
-Hösten 2018 startade Medborgarskolan Amplified
-Vi har under året startat en rad samarbeten och ett eget radioprogram på Västsveriges största rock-
-evenemang som rör våld i nära relationer. Vi är radiostation Pirate Rock Radio, där vi löpande lyft
-förvissade om att vi, när vi uppmärksammar och våra band. Programmet har under 2020 lagts på is,
-sprider kunskap om detta, inte bara kan stötta de bland annat på grund av pandemin, men kommer
-som är utsatta utan även ge kraft till omgivningen sannolikt att återupptas under hösten 2021.
+Vi har under året startat en rad samarbeten och
+evenemang som rör våld i nära relationer. Vi är
+förvissade om att vi, när vi uppmärksammar och
+sprider kunskap om detta, inte bara kan stötta de
+som är utsatta utan även ge kraft till omgivningen
 att säga stopp och vid behov ingripa.
-Våra ca 600 regionalt anslutna musikgrupper
-Under hashtaggen #jagärdinsyster har vi fortsatt rapporterade under året ca 200 000 verksamhets-
-spridit kunskap via bland annat föreläsningar och timmar och ca 500 kulturarrangemang (som till
-samarbeten med föreningar och kvinnojourer. Vi exempel uppträdanden och utställningar).
+
+Under hashtaggen #jagärdinsyster har vi fortsatt
+spridit kunskap via bland annat föreläsningar och
+samarbeten med föreningar och kvinnojourer. Vi
 har även ett rum öppet i våra lokaler, dit utsatta,
-och andra, personer kan komma vissa tider och få UPPDRAG FRÅN
+och andra, personer kan komma vissa tider och få
 stöd och råd.
+Genom projektmedel från Västra Götalandsregio-
+nen har vi i samarbete med Suicide Zero fortsatt
+drivit projektet Våga fråga, vilket innebär att vi
+erbjuder en utbildning om psykiska ohälsa och
+självmord till grupper och föreningar i regionen.
+
+Utbildningen ger kunskap om fakta och varnings-
+signaler och hur vi kan vara uppmärksamma och
+stötta de i vår närhet som mår dåligt.
+
+Här föds det svenska musikundret
+Regionens musikhus är en grundförutsättning för
+att musikgrupper ska kunna utöva och utveckla sitt
+intresse och borgar för kvalitet, lojalitet och stabi-
+litet. Vi har under 2020 haft musikhus och studios
+på följande orter: Alingsås, Falkenberg, Halmstad,
+Varberg, Kungsbacka, Göteborg, Mölndal, Kungälv,
+Stenungsund, Älvängen, Trollhättan, Lidköping,
+Mariestad, Skara, Skövde och Borås.
+För att hjälpa banden i sin utveckling erbjuder
+Medborgarskolan Amplified ett servicepaket av
+tjänster som bland annat replokaler, speltillfällen,
+studioinspelningar, synlighet i media och möjlighet
+att bli recenserade. Vi har samarbeten med bland
+andra Svenska Grammofonstudion och Sonic Train
+Studios.
+Hösten 2018 startade Medborgarskolan Amplified
+ett eget radioprogram på Västsveriges största rock-
+radiostation Pirate Rock Radio, där vi löpande lyft
+våra band. Programmet har under 2020 lagts på is,
+bland annat på grund av pandemin, men kommer
+sannolikt att återupptas under hösten 2021.
+
+Våra ca 600 regionalt anslutna musikgrupper
+rapporterade under året ca 200 000 verksamhets-
+timmar och ca 500 kulturarrangemang (som till
+exempel uppträdanden och utställningar).
+
+UPPDRAG  FRÅN
 FOLKBILDNINGSRÅDET
 Med uppdrag från staten har regionen under året
-Genom projektmedel från Västra Götalandsregio-
 fortsatt bedrivit riktade insatser, studiecirklar i
-nen har vi i samarbete med Suicide Zero fortsatt
 svenska och samhällsinformation, mot målgruppen
-drivit projektet Våga fråga, vilket innebär att vi
 asylsökande. För målgruppen nyanlända har vi även
-erbjuder en utbildning om psykiska ohälsa och
 bedrivit studiecirklar och riktade insatser speciellt
-självmord till grupper och föreningar i regionen.
 Fortsättning på sidan 29
+
 25
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
@@ -29549,50 +33519,92 @@ ut på arbetsmarknaden. Rusta och matcha blev lösningen.
 
 Text och foto SOFIA ERIKSSON
 
-N          är Madeleine Dahlgren börjar förutfattade meningen att jag redan kunde det mesta.
-berätta om sin arbetslivserfaren- Men han visste precis vad jag behövde bli bättre på,
-het, ja då förstår man att hennes cv säger Madeleine.
+N          är Madeleine Dahlgren börjar
+berätta om sin arbetslivserfaren-
+het, ja då förstår man att hennes cv
 är omfångsrikt. Redan som tonår-
-ing började hon jobba på pappans En av de första åtgärderna var att få fason på cv:t så
-turistbåtar i Vänern. Sedan blev det att Madeleine kunde lyfta fram det viktigaste i stället
-många år och flera varv runt jorden för att redovisa allt, och anpassa det beroende på vad
-till sjöss, kock- och livsmedelsutbild- för jobb hon skulle söka. Det blev också tydligt att hon
-ningar, diverse uppdrag inom västgötsk turism- och res- behövde komplettera med datakunskaper.
-taurangnäring, catering och egna restaurangsatsningar. – Jag var i stort sett analfabet på datorer. Men
-Listan bara fortsätter när hon berättar om sin prak- så startade Medborgarskolan en grundkurs i data på
-tiktid på Grythyttan, när hon jobbade som mässman distans som jag kunde delta i. Vi är femton personer
-på kemikalietanker och i Fazers fabrik med industriell från hela landet som är med. Vi började från grunden
-livsmedelsproduktion.             med att lära oss tangenterna, och redan nu efter nio
-– Båt, mat och turism, det är det jag har sysslat med. gånger håller vi på med Powerpoint och jag har blivit
-Jag fattade tidigt beslutet att inte skaffa barn, så jag helt bekväm med Word, Excel och Zoom.
+ing började hon jobba på pappans
+turistbåtar i Vänern. Sedan blev det
+många år och flera varv runt jorden
+till sjöss, kock- och livsmedelsutbild-
+ningar, diverse uppdrag inom västgötsk turism- och res-
+taurangnäring, catering och egna restaurangsatsningar.
+Listan bara fortsätter när hon berättar om sin prak-
+tiktid på Grythyttan, när hon jobbade som mässman
+på kemikalietanker och i Fazers fabrik med industriell
+livsmedelsproduktion.
+– Båt, mat och turism, det är det jag har sysslat med.
+Jag fattade tidigt beslutet att inte skaffa barn, så jag
 har alltid kunnat tacka ja, säger hon medan hon visar
-runt bland sjöbodarna i Spikens fiskeläge på Kållandsö Madeleine beskriver hur hon är uppkopplad mot kursle-
-i Lidköping. Där säsongsjobbar hon just nu med Vä- daren Elisabeth via sin padda en kväll i veckan medan
-nerns guld, det vill säga med att klämma rom ur siklöja. hon jobbar med uppgifterna på sin dator.
-– Kursen har hjälpt mig otroligt mycket. Och ledaren
-Men det är bara tillfälligt. Egentligen är Madeleine är helt fantastisk. Hade jag kunnat skulle jag lagt ett
-arbetssökande och deltar sedan ett halvår tillbaka i äpple på hennes kateder, säger Madeleine.
+runt bland sjöbodarna i Spikens fiskeläge på Kållandsö
+i Lidköping. Där säsongsjobbar hon just nu med Vä-
+nerns guld, det vill säga med att klämma rom ur siklöja.
+Men det är bara tillfälligt. Egentligen är Madeleine
+arbetssökande och deltar sedan ett halvår tillbaka i
 Rusta och matcha. Det är en matchningstjänst som
-Medborgarskolan utför på uppdrag av Arbetsförmed- FÖRELÄSNINGAR OCH STÖTTNING
-lingen. Den innebär att Medborgarskolan under ett år Hon har också haft nytta av sin handledare Aldins kon-
-stöttar den arbetssökande på olika vis, bland annat takter i näringslivet samt gått på digitala föreläsningar
-genom att ta fram en individuell handlingsplan. Det varje vecka där hon lärt sig mer om att söka jobb,
-handlar också om att stärka individen såväl kunskaps- mental inställning och digital teknik. Madeleine har
-mässigt som mentalt. Det kan Madeleine skriva under numera full koll på LinkedIn och att digitalt leta efter
-på.                               jobb som bättre passar hennes profil och ambitioner.
-– Jag var faktiskt ganska låg när jag kom till Med- – Jag kan egentligen ta vilket jobb som helst. Jag har
-borgarskolan första gången. Jag som alltid haft jobb, alltid sagt att det väsentliga är att vakna och vara glad
-varit chef och har massor av kontakter. Nu var jag över att få gå till jobbet. Men jag skulle gärna vilja hitta
-alltså så gammal att jag hamnat i en åtgärd. Tidigare något informatörs- eller säljjobb inom mina branscher;
-hade jag alltid rett ut sådana här saker på egen hand, där tror jag att jag skulle kunna göra stor nytta. Och
-men nu behövde jag be om hjälp, nej, det kändes inte jag söker också tjänster som lärarassistent och person-
-alls bra, säger hon.              lig assistent.
-FASON PÅ CV:T                      Än har hon inte fått napp även om hon fått komma
-Men känslan blev mer positiv redan vid första mötet på flera intervjuer. Att ta ett nej är också något hon har
-med handledaren Aldin Mesic på Medborgarskolan i blivit bättre på.
-Lidköping.                         – Det är inget jag ältar längre. Mycket tack vare
-– Han läste av mig väldigt snabbt. Jag kom till Aldin har jag fått ett bättre självförtroende. Min själv-
-honom med en ganska kritisk inställning och med den känsla har vuxit och jag känner mig sedd av Medbor-
+Medborgarskolan utför på uppdrag av Arbetsförmed-
+lingen. Den innebär att Medborgarskolan under ett år
+stöttar den arbetssökande på olika vis, bland annat
+genom att ta fram en individuell handlingsplan. Det
+handlar också om att stärka individen såväl kunskaps-
+mässigt som mentalt. Det kan Madeleine skriva under
+på.
+– Jag var faktiskt ganska låg när jag kom till Med-
+borgarskolan första gången. Jag som alltid haft jobb,
+varit chef och har massor av kontakter. Nu var jag
+alltså så gammal att jag hamnat i en åtgärd. Tidigare
+hade jag alltid rett ut sådana här saker på egen hand,
+men nu behövde jag be om hjälp, nej, det kändes inte
+alls bra, säger hon.
+FASON PÅ CV:T
+Men känslan blev mer positiv redan vid första mötet
+med handledaren Aldin Mesic på Medborgarskolan i
+Lidköping.
+– Han läste av mig väldigt snabbt. Jag kom till
+honom med en ganska kritisk inställning och med den
+
+förutfattade meningen att jag redan kunde det mesta.
+Men han visste precis vad jag behövde bli bättre på,
+säger Madeleine.
+En av de första åtgärderna var att få fason på cv:t så
+att Madeleine kunde lyfta fram det viktigaste i stället
+för att redovisa allt, och anpassa det beroende på vad
+för jobb hon skulle söka. Det blev också tydligt att hon
+behövde komplettera med datakunskaper.
+– Jag var i stort sett analfabet på datorer. Men
+så startade Medborgarskolan en grundkurs i data på
+distans som jag kunde delta i. Vi är femton personer
+från hela landet som är med. Vi började från grunden
+med att lära oss tangenterna, och redan nu efter nio
+gånger håller vi på med Powerpoint och jag har blivit
+helt bekväm med Word, Excel och Zoom.
+Madeleine beskriver hur hon är uppkopplad mot kursle-
+daren Elisabeth via sin padda en kväll i veckan medan
+hon jobbar med uppgifterna på sin dator.
+– Kursen har hjälpt mig otroligt mycket. Och ledaren
+är helt fantastisk. Hade jag kunnat skulle jag lagt ett
+äpple på hennes kateder, säger Madeleine.
+FÖRELÄSNINGAR OCH STÖTTNING
+Hon har också haft nytta av sin handledare Aldins kon-
+takter i näringslivet samt gått på digitala föreläsningar
+varje vecka där hon lärt sig mer om att söka jobb,
+mental inställning och digital teknik. Madeleine har
+numera full koll på LinkedIn och att digitalt leta efter
+jobb som bättre passar hennes profil och ambitioner.
+– Jag kan egentligen ta vilket jobb som helst. Jag har
+alltid sagt att det väsentliga är att vakna och vara glad
+över att få gå till jobbet. Men jag skulle gärna vilja hitta
+något informatörs- eller säljjobb inom mina branscher;
+där tror jag att jag skulle kunna göra stor nytta. Och
+jag söker också tjänster som lärarassistent och person-
+lig assistent.
+Än har hon inte fått napp även om hon fått komma
+på flera intervjuer. Att ta ett nej är också något hon har
+blivit bättre på.
+– Det är inget jag ältar längre. Mycket tack vare
+Aldin har jag fått ett bättre självförtroende. Min själv-
+känsla har vuxit och jag känner mig sedd av Medbor-
+
 26
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
@@ -29625,166 +33637,315 @@ pandemistrategi
 
 Medborgarskolan Västs sex förskolor tar varje dag hand om närmare 300 barn
 mellan 0 och 5 år. Men när pandemin bröt ut fick verksamheten anpassas – och hela
-
 tiden ställa om och tänka nytt, i takt med att smittläget förändrats.
+
 Text SOFIA ERIKSSON
 
-D         et har varit ett tufft personalen bli sjuk. Enligt förhållnings- Rutiner, kvalitet
-och annorlunda år reglerna behövde de vara hemma så och normalitet
-för Medborgarskolan fort de fick minsta förkylningssymptom, är A och O så att
-Västs förskoleverk- plus att några avdelningar drabbades barnen ska känna
-samhet, ett år som av viruset. Det hände att fem av åtta sig trygga. Under
-har kännetecknats pedagoger var hemma på samma gång, året har dock
-av flexibilitet och och det blev tufft att hitta vikarier, säger utevistelse blivit
-snabba lösningar Pernilla Chiarantona. vanligare. Dels
-beroende på smittläge och restriktioner,     hämtar och läm-
-berättar Pernilla Chiarantona som är Varje förskola har bara ett visst antal nar föräldrarna
-rektor på förskolan Nyckelpigan i hal- vikarier, personer som känner barnen nästan i samtliga
-ländska Mellbystrand samt samordnan- och kan verksamheten. Givetvis hade fall – utom för de
-de rektor för Medborgarskolan Västs sex man kunnat plocka in fler – men på allra minsta –
-förskolor i Göteborg, Angered, Eriksbo, grund av covid kändes det osäkert att utomhus, dels tillbringar barnen mer tid
-Mellbystrand, Jonsered och Stora Höga. låta vikarier vara på olika förskolor. ute, inte bara för lek utan också för under-
-–I början var det mest barnen som –När det var som tuffast fick avdel- visning, ibland hela dagen med picknick-
-var hemma med förkylningar eller för att ningarna helt enkelt samarbeta. Det lunch ute. Undervisningen har förresten
-föräldrarna kände rädsla inför eventuell hände också att vi bad föräldrar att fått nya inslag på grund av covid:
-smitta. Den största skillnaden var att vi hämta sina barn lite tidigare. I sista hand –Barnen har tillverkat egna mun-
-skickade hem barnen lite snabbare, det fick vi vädja till de föräldrar som har sina skydd, och de har fått se på filmer och
-vill säga direkt när de hade något symp- barn i förskolan 15 timmar att hålla dem berätta om sina upplevelser av covid.
-tom på sjukdom. Eftersom antalet barn hemma. Det är inget vi vill göra och vi vill Barnen hör ju vad de vuxna pratar om
-var färre behövde vi inte sätta in vikarie absolut aldrig tvinga någon, men jag upp- och har frågor som vi försöker besvara,
-om någon pedagog var sjuk utan klarade levde det som att förståelsen var stor för säger Pernilla Chiarantona.
-av verksamheten ändå, säger hon. situationen, säger Pernilla Chiarantona.
+D         et har varit ett tufft
+och annorlunda år
+för Medborgarskola
+Västs förskoleverk-
+samhet, ett år som
+har kännetecknats
+av flexibilitet och
+snabba lösningar
+beroende på smittläge och restriktioner,
+berättar Pernilla Chiarantona som är
+rektor på förskolan Nyckelpigan i hal-
+ländska Mellbystrand samt samordnan-
+de rektor för Medborgarskolan Västs sex
+förskolor i Göteborg, Angered, Eriksbo,
+Mellbystrand, Jonsered och Stora Höga.
+–I början var det mest barnen som
+var hemma med förkylningar eller för att
+föräldrarna kände rädsla inför eventuell
+smitta. Den största skillnaden var att vi
+skickade hem barnen lite snabbare, det
+vill säga direkt när de hade något symp-
+tom på sjukdom. Eftersom antalet barn
+var färre behövde vi inte sätta in vikarie
+om någon pedagog var sjuk utan klarade
+av verksamheten ändå, säger hon.
+Förskolorna sammanställde tidigt ett
+lista över föräldrar med samhällsviktiga
+yrken och planerade för att justera öp-
+pet- och arbetstider så att deras barn
+skulle kunna få omsorg när det behöv-
+des. Inga undantag behövde dock göras
+utan allt flöt på som vanligt.
+TUFFARE HÖST
+Efter sommaren förändrades bilden helt.
+–Barnen var friskare men nu började
+
+personalen bli sjuk. Enligt förhållnings-
+reglerna behövde de vara hemma så
+fort de fick minsta förkylningssymptom,
+plus att några avdelningar drabbades
+av viruset. Det hände att fem av åtta
+pedagoger var hemma på samma gång,
+och det blev tufft att hitta vikarier, säger
+Pernilla Chiarantona.
+Varje förskola har bara ett visst antal
+vikarier, personer som känner barnen
+och kan verksamheten. Givetvis hade
+man kunnat plocka in fler – men på
+grund av covid kändes det osäkert att
+låta vikarier vara på olika förskolor.
+–När det var som tuffast fick avdel-
+ningarna helt enkelt samarbeta. Det
+hände också att vi bad föräldrar att
+hämta sina barn lite tidigare. I sista hand
+fick vi vädja till de föräldrar som har sina
+barn i förskolan 15 timmar att hålla dem
+hemma. Det är inget vi vill göra och vi vill
+absolut aldrig tvinga någon, men jag upp-
+levde det som att förståelsen var stor för
+situationen, säger Pernilla Chiarantona.
+NYA PEDAGOGISKA INSLAG
+Redan före pandemin arbetade försko-
+lorna enligt HYFS, Hygien i förskolan,
+vars föreskrifter markant har minskat
+smittor av alla de slag på förskolor runt-
+om i landen de senaste åren. – Barnen
+var superduktiga redan innan, och för-
+äldrarna har lärt sig att tvätta händerna
+vid hämtning och lämning. Vi har också
+fler flaskor med handsprit utplacerade,
+säger Pernilla Chiarantona.
+
+Rutiner, kvalitet
+och normalitet
+är A och O så att
+barnen ska känna
+sig trygga. Under
+året har dock
+utevistelse blivit
+vanligare. Dels
+hämtar och läm-
+nar föräldrarna
+nästan i samtliga
+fall – utom för de
+allra minsta –
+utomhus, dels tillbringar barnen mer tid
+ute, inte bara för lek utan också för under-
+visning, ibland hela dagen med picknick-
+lunch ute. Undervisningen har förresten
+fått nya inslag på grund av covid:
+–Barnen har tillverkat egna mun-
+skydd, och de har fått se på filmer och
+berätta om sina upplevelser av covid.
+Barnen hör ju vad de vuxna pratar om
+och har frågor som vi försöker besvara,
+säger Pernilla Chiarantona.
 KOMMUNIKATION VIKTIG
-Förskolorna sammanställde tidigt ett NYA PEDAGOGISKA INSLAG I hennes roll som samordnande rektor
-lista över föräldrar med samhällsviktiga Redan före pandemin arbetade försko- har kommunikationen med föräldrarna
-yrken och planerade för att justera öp- lorna enligt HYFS, Hygien i förskolan, blivit mer intensiv än vanligt.
-pet- och arbetstider så att deras barn vars föreskrifter markant har minskat –Många är oroliga. Vi kommunice-
-skulle kunna få omsorg när det behöv- smittor av alla de slag på förskolor runt- rar på vårt forum Unikum och lägger
-des. Inga undantag behövde dock göras om i landen de senaste åren. – Barnen med länkar till Folkhälsomyndighetens
-utan allt flöt på som vanligt. var superduktiga redan innan, och för- information. Jag informerar om vad som
-äldrarna har lärt sig att tvätta händerna gäller när det varit utbrott bland perso-
-TUFFARE HÖST           vid hämtning och lämning. Vi har också nalen och får också många meddelanden
-Efter sommaren förändrades bilden helt. fler flaskor med handsprit utplacerade, från föräldrar som behöver lugnande
-–Barnen var friskare men nu började säger Pernilla Chiarantona. besked.
+I hennes roll som samordnande rektor
+har kommunikationen med föräldrarna
+blivit mer intensiv än vanligt.
+–Många är oroliga. Vi kommunice-
+rar på vårt forum Unikum och lägger
+med länkar till Folkhälsomyndighetens
+information. Jag informerar om vad som
+gäller när det varit utbrott bland perso-
+nalen och får också många meddelanden
+från föräldrar som behöver lugnande
+besked.
+
 28
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
 <!-- sida 715 -->
 
 Fortsättning från sidan 25
-för utrikesfödda kvinnor. Verksamheten har under och kommuner i Västra Götaland på orterna Ska-
-2020 totalt haft 914 deltagare.   ra, Skövde, Lidköping, Vänersborg och Göteborg.
+för utrikesfödda kvinnor. Verksamheten har under
+2020 totalt haft 914 deltagare.
 
-I samband med pandemin har studieförbunden 2020 Vi har även bedrivit projekt MEET, som är ett
-fått ytterligare ett folkbildningsuppdrag från staten samarbete med Coompanion Skaraborg. Projek-
-som omfattar arbetsmarknadsnära insatser för per- tet vänder sig till ungdomar 19-28 år, som idag
-soner som förlorat sina jobb och/eller är i behov av varken arbetar eller studerar och behöver stöd och
-omställning. Regionen har under hösten arrangerat stimulans för att komma närmare arbete eller ut-
-och erbjudit flera kostnadsfria distansutbildningar, bildning. Tack vare ett gott resultat och sina unika
-bland annat ”Hitta dig själv – hitta ett jobb” (se insatser för målgruppen, har projektet beviljats
-teaser youtube.com/watch?v=D5HpvW7t_9U). Verk- förlängning till och med 31 mars 2022. Projektet
-samheten har under året haft 88 deltagare. finanserieras med socialfondsmedel genom Leader
-Östra Skaraborg.
+I samband med pandemin har studieförbunden 2020
+fått ytterligare ett folkbildningsuppdrag från staten
+som omfattar arbetsmarknadsnära insatser för per-
+soner som förlorat sina jobb och/eller är i behov av
+omställning. Regionen har under hösten arrangerat
+och erbjudit flera kostnadsfria distansutbildningar,
+bland annat ”Hitta dig själv – hitta ett jobb” (se
+teaser youtube.com/watch?v=D5HpvW7t_9U). Verk-
+samheten har under året haft 88 deltagare.
+
 UPPDRAG
-Med stöd från Länsstyrelsen har vi dessutom
 Denna verksamhetstyp består för region Västs del
-bedrivit så kallade TIA-projekt (Tidiga Insatser för
 främst av ett antal arbetsmarknads- och integra-
-Asylsökande) på några orter i regionen.
 tionsprojekt, i samarbete med bland annat Arbets-
 förmedlingen, Försäkringskassan, ESF (Europe-
-Vi har under året bedrivit en systematisk om-
 iska Socialfonden) och kommuner.
-världsbevakning som har öppnat upp för nya
-verksamheter, i samverkan med andra aktörer
 Denna verksamhet ligger helt i linje med vårt
-och/eller verksamheter.
 folkbildningsuppdrag. Medborgarskolans huma-
 nistiska värdegrund präglar hela vår verksamhet
-Uppdragsverksamheten i regionen har under året i
 och vi värnar om alla människors rätt till utveck-
-genomsnitt haft 678 deltagare (ej unika) per månad.
 ling. Målgrupperna befinner sig ofta i en utsatt
 situation och utanförskap är inte ovanligt. Verk-
-SKOLA  OCH FÖRSKOLA
 samhetens fokus ligger på att hjälpa dessa perso-
-ner ut i arbete och in i samhället och folkbildning- Regionens skolverksamhet uppvisar även detta år
-ens pedagogik och metodik används. ett positivt resultat. Överskottet återinvesteras i
-verksamheterna.
+ner ut i arbete och in i samhället och folkbildning-
+ens pedagogik och metodik används.
 Till skillnad mot föregående år har tjänsterna
-Stöd och matchning och Rusta och matcha, där En omorganisation inom förskoleverksamheten
-Medborgarskolan är en av flera underleverantörer samt lägre pensionskostnader inom förskola/skola
-till Arbetsförmedlingen enligt LOV (Lagen om val- har bidragit till resultatet.
+Stöd och matchning och Rusta och matcha, där
+Medborgarskolan är en av flera underleverantörer
+till Arbetsförmedlingen enligt LOV (Lagen om val-
 frihet, vilket innebär att deltagarna själva väljer
-aktör), under 2020 erfarit en enorm efterfrågan. Medborgarskolan Region Väst är sedan flera år
-Vi har därmed snabbt fått ställa om verksamhe- tillbaka huvudman för en grundskola, Franska
-ten till den ökade efterfrågan och har under 2020 Skolan i Göteborg, som omfattar förskoleklass till
-bedrivit verksamhet i Falköping, Göteborg, Halm- och med årskurs nio samt fritidsverksamhet och
-stad, Kungsbacka, Kungälv, Lidköping, Mariestad, har en fransk profil. Franska Skolan är en av två
-Skara, Skövde, Stenungsund, Trollhättan, Udde- högstadieskolor i Sverige som bedriver spetsut-
-valla, Varberg och Vänersborg.    bildning i franska språket.
-På uppdrag av Arbetsförmedlingen bedriver vi Regionen driver sex förskolor med olika pedago-
-även arbetsträning på ett flertal orter i regionen. giska inriktningar. Verksamheterna utgår ifrån
-Verksamhetens syfte är att ge deltagarna möjlig- och följer de svenska styrdokumenten för förskola.
+aktör), under 2020 erfarit en enorm efterfrågan.
+Vi har därmed snabbt fått ställa om verksamhe-
+ten till den ökade efterfrågan och har under 2020
+bedrivit verksamhet i Falköping, Göteborg, Halm-
+stad, Kungsbacka, Kungälv, Lidköping, Mariestad,
+Skara, Skövde, Stenungsund, Trollhättan, Udde-
+valla, Varberg och Vänersborg.
+På uppdrag av Arbetsförmedlingen bedriver vi
+även arbetsträning på ett flertal orter i regionen.
+Verksamhetens syfte är att ge deltagarna möjlig-
 het att arbetsträna för att, på sikt, öka chanserna
-till arbete.                      • Franska Förskolan (franska språket)
+till arbete.
+
+Regionen har under året bedrivit ett ESF-projekt,
+Nystart 2.0, som vänder sig till personer med lång
+frånvaro från arbetsmarknaden. Projektet, som
+startade i april 2018, har fortsatt bedrivits även
+under 2020 i samarbete med Försäkringskassan
+
+och kommuner i Västra Götaland på orterna Ska-
+ra, Skövde, Lidköping, Vänersborg och Göteborg.
+
+Vi har även bedrivit projekt MEET, som är ett
+samarbete med Coompanion Skaraborg. Projek-
+tet vänder sig till ungdomar 19-28 år, som idag
+varken arbetar eller studerar och behöver stöd och
+stimulans för att komma närmare arbete eller ut-
+bildning. Tack vare ett gott resultat och sina unika
+insatser för målgruppen, har projektet beviljats
+förlängning till och med 31 mars 2022. Projektet
+finanserieras med socialfondsmedel genom Leader
+Östra Skaraborg.
+Med stöd från Länsstyrelsen har vi dessutom
+bedrivit så kallade TIA-projekt (Tidiga Insatser för
+Asylsökande) på några orter i regionen.
+Vi har under året bedrivit en systematisk om-
+världsbevakning som har öppnat upp för nya
+verksamheter, i samverkan med andra aktörer
+och/eller verksamheter.
+
+Uppdragsverksamheten i regionen har under året i
+genomsnitt haft 678 deltagare (ej unika) per månad.
+
+SKOLA OCH  FÖRSKOLA
+Regionens skolverksamhet uppvisar även detta år
+ett positivt resultat. Överskottet återinvesteras i
+verksamheterna.
+
+En omorganisation inom förskoleverksamheten
+samt lägre pensionskostnader inom förskola/skola
+har bidragit till resultatet.
+Medborgarskolan Region Väst är sedan flera år
+tillbaka huvudman för en grundskola, Franska
+Skolan i Göteborg, som omfattar förskoleklass till
+och med årskurs nio samt fritidsverksamhet och
+har en fransk profil. Franska Skolan är en av två
+högstadieskolor i Sverige som bedriver spetsut-
+bildning i franska språket.
+
+Regionen driver sex förskolor med olika pedago-
+giska inriktningar. Verksamheterna utgår ifrån
+och följer de svenska styrdokumenten för förskola.
+
+• Franska Förskolan (franska språket)
 • Förskolan Blå Musslan (allmän)
-Regionen har under året bedrivit ett ESF-projekt, • Förskolan Grenen (språk och kommunikation)
-Nystart 2.0, som vänder sig till personer med lång • Musikförskolan Do Re Mi (musik)
-frånvaro från arbetsmarknaden. Projektet, som • Montessoriförskolan Solstrålen
-startade i april 2018, har fortsatt bedrivits även (montessoripedagogik)
-under 2020 i samarbete med Försäkringskassan • Nyckelpigans förskola (allmän)
+• Förskolan Grenen (språk och kommunikation)
+• Musikförskolan Do Re Mi (musik)
+• Montessoriförskolan Solstrålen
+(montessoripedagogik)
+• Nyckelpigans förskola (allmän)
+
 29
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 <!-- sida 716 -->
 
-Franska Skolans grundskola har under året haft i finansieras med EU-bidrag.
+Franska Skolans grundskola har under året haft i
 genomsnitt per månad 377 elever och förskolorna
-tillsammans 287 barn.             Under våren 2020 gjordes en organisationsöver-
-syn av förskolorna – med avsikt att skapa ökad
-Sedan hösten 2019 har Franska Skolan två paral- balans i ekonomin samt för att säkerställa kva-
-lellklasser i årskurserna 4-9 och bedriver verksam- liteten i verksamheten – vilket resulterade i en
-het i nyrenoverade och ändamålsenliga lokaler. omorganisation. Bland annat har ett chefsled
-tagits bort, fördelningen av förskolorna mellan
-Pandemin har haft stor påverkan även på vår rektorerna har effektiviserats och en administra-
-verksamhet inom förskola/skola. Franska Skolan tör har rekryterats.
+tillsammans 287 barn.
+
+Sedan hösten 2019 har Franska Skolan två paral-
+lellklasser i årskurserna 4-9 och bedriver verksam-
+het i nyrenoverade och ändamålsenliga lokaler.
+Pandemin har haft stor påverkan även på vår
+verksamhet inom förskola/skola. Franska Skolan
 har periodvis bedrivit undervisning på distans,
-med efter omständigheterna goda resultat, och Franska Skolan miljöcertifierades genom Grön
-förskolorna har fortsatt bedriva verksamheten, Flagg/Håll Sverige Rent i maj 2020, vilket inne-
-trots viss oro och omställning bland föräldrar bär att samtliga förskole- och skolverksamheter
-och personal. Förskolorna planerade tidigt för att nu är certifierade. Verksamheterna har under
-speciellt barn med föräldrar med samhällsviktiga året löpande fortsatt utvecklingen av miljöarbe-
-yrken skulle kunna få omsorg när det behövdes. tet. Inom Grön Flagg arbetar man bland annat
-Verksamheten har under året fått anpassa sig till med ett antal fokusområden tillsammans med
-tuffa perioder med bland annat personalbrist, dels barnen, såsom till exempel ”Sopsamlarmonster,
-med anledning av att vissa medarbetare drab- Skräp och avfall”.
+med efter omständigheterna goda resultat, och
+förskolorna har fortsatt bedriva verksamheten,
+trots viss oro och omställning bland föräldrar
+och personal. Förskolorna planerade tidigt för att
+speciellt barn med föräldrar med samhällsviktiga
+yrken skulle kunna få omsorg när det behövdes.
+Verksamheten har under året fått anpassa sig till
+tuffa perioder med bland annat personalbrist, dels
+med anledning av att vissa medarbetare drab-
 bades av viruset men också på grund av restrik-
-tioner kring lindriga sjukdomssymtom. Läs mer i Skola/förskola har under året fortsatt öka sin
-artikeln på sidan 28.             samverkan via gemensam kompetensutveckling,
-enhetlig dokumentation samt fortsatt utveckling
-På grund av pandemin har Franska Skolan även av digitala verktyg för pedagogisk dokumentation
-fått pausa sitt påbörjade internationella EU- av, och förbättrad kommunikation med föräldrar
-projekt med skolor i Lyon i Frankrike. Projektet om, elevers och barns utveckling och lärande.
+tioner kring lindriga sjukdomssymtom. Läs mer i
+artikeln på sidan 28.
+På grund av pandemin har Franska Skolan även
+fått pausa sitt påbörjade internationella EU-
+projekt med skolor i Lyon i Frankrike. Projektet
 
 30
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
+finansieras med EU-bidrag.
+
+Under våren 2020 gjordes en organisationsöver-
+syn av förskolorna – med avsikt att skapa ökad
+balans i ekonomin samt för att säkerställa kva-
+liteten i verksamheten – vilket resulterade i en
+omorganisation. Bland annat har ett chefsled
+tagits bort, fördelningen av förskolorna mellan
+rektorerna har effektiviserats och en administra-
+tör har rekryterats.
+Franska Skolan miljöcertifierades genom Grön
+Flagg/Håll Sverige Rent i maj 2020, vilket inne-
+bär att samtliga förskole- och skolverksamheter
+nu är certifierade. Verksamheterna har under
+året löpande fortsatt utvecklingen av miljöarbe-
+tet. Inom Grön Flagg arbetar man bland annat
+med ett antal fokusområden tillsammans med
+barnen, såsom till exempel ”Sopsamlarmonster,
+Skräp och avfall”.
+Skola/förskola har under året fortsatt öka sin
+samverkan via gemensam kompetensutveckling,
+enhetlig dokumentation samt fortsatt utveckling
+av digitala verktyg för pedagogisk dokumentation
+av, och förbättrad kommunikation med föräldrar
+om, elevers och barns utveckling och lärande.
+
 <!-- sida 717 -->
 
-STYRELSENS    FÖRSLAG   OCH  TACK
+STYRELSENS   FÖRSLAG    OCH  TACK
 
-FÖRSLAG                           TACK
-Styrelsen för Medborgarskolan Region Väst före- Regionstyrelsen vill framföra ett varmt tack till
-slår 2022 års stämma att:         alla som bidragit med sitt engagemang och gjort
-arbetet möjligt under året: Medborgarskolans an-
-• Fastställa balansräkning per den 31 december 2020 slagsgivare, samarbetspartners, anslutna organi-
-samt resultaträkning 1 januari-31 december 2020 sationer, kursledare samt alla medarbetare.
-• Tillgängliga medel 46 855 055 kr balanseras i Ett särskilt tack vill vi som vanligt rikta till alla
-ny räkning                       er som deltagit i Medborgarskolans verksamhet i
-regionen!
+FÖRSLAG
+Styrelsen för Medborgarskolan Region Väst före-
+slår 2022 års stämma att:
+
+• Fastställa balansräkning per den 31 december 2020
+samt resultaträkning 1 januari-31 december 2020
+
+• Tillgängliga medel 46 855 055 kr balanseras i
+ny räkning
 
 Göteborg 2021-03-18
+
+TACK
+Regionstyrelsen vill framföra ett varmt tack till
+alla som bidragit med sitt engagemang och gjort
+arbetet möjligt under året: Medborgarskolans an-
+slagsgivare, samarbetspartners, anslutna organi-
+sationer, kursledare samt alla medarbetare.
+
+Ett särskilt tack vill vi som vanligt rikta till alla
+er som deltagit i Medborgarskolans verksamhet i
+regionen!
 
 Jonas Ransgård                    Marie Fridén
 Ordförande                        Vice ordförande
@@ -29805,148 +33966,142 @@ Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 FÖRVALTNINGSSBERÄTTELSE
 
-HÄNDELSER  UNDER  2020            satt fungerat så bra även under en pandemi är
-bland annat den satsning som vi påbörjade 2018
+HÄNDELSER  UNDER  2020
 Stärkta av föregående år gick vi in i 2020 med
-genom att arbeta med vår kulturförändrande,
 fokus på att säkerställa ytterligare ett år med po-
-individ- och kompetensstärkande utbildnings-
 sitivt resultat, att fortsatt stärka organisationen
-satsning inom självledarskap och coachande
 i sin helhet och med ambitionen att utöka våra
-förhållningssätt: Verktyg för mod och möjligheter
 samarbeten med bland annat kommuner, myndig-
-(VMM). Vi har sedan starten fortsatt att arbeta
 heter och organisationer för att via gemensamma
-med verktyg, modeller och metoder som främjar
 insatser i ännu högre grad bidra till individers och
-vår utveckling, kompetensutvecklat våra ledare
 samhällets utveckling.
-och chefer samt arbetat med att förtydliga det
-slags ledarskap som, baserat på Medborgarsko-
 Året har dock blivit allt annat än vi tänkt oss.
-lans värdegrund, skall gälla i vår organisation.
 Precis som i övriga samhället har pandemin
 påverkat oss starkt. Vi har behövt ta ställning till
-De misstänkta oegentligheter som ägde rum
 helt oväntade förutsättningar och snabbt ställa
-under 2015 och 2016, och som kraftigt negativt
 om till helt nya behov.
-påverkade resultatet 2017, har under året varit
-föremål för huvudförhandlingar i Göteborgs tings-
+
 År 2019 hade vi ett mycket bra resultat på knappt
-rätt. Sju av tio åtalade dömdes till bland annat
 8 miljoner, vilket gav 4,4 % i vinstmarginal. Sty-
-grovt bedrägeri respektive bedrägeri.
 relsens uppdrag till organisationen 2019 var bland
 annat att bygga en hållbar ekonomi. Resultatet för
-Vad gäller pandemin har vi, löpande och utan
 2020 är 8,7 miljoner, med en vinstmarginal på 4,6
-undantag, följt Folkhälsomyndighetens rekom-
 %. Efter tidigare fem år av negativt resultat, har
-mendationer. Inom folkbildningen och uppdrags-
 vi nu genom tre år av positivt resultat stärkt vår
-verksamheten har restriktionerna inneburit
 ekonomiska plattform (vilket vidare framgår av
-inga eller begränsade fysiska möten under långa
 flerårsöversikten på sidan 32). Det goda resultatet
-perioder. Detta har, förutom kraftigt minskade in-
 år 2020 består bland annat av ökad verksamhet
-täkter inom den öppna kursverksamheten, också
 inom uppdrag och arbetsmarknadsprojekt, en
-medfört ökad digitalisering och haft den positiva
 omorganisation inom förskoleverksamheten samt
-effekten av en utveckling av nya digitala möjlig-
 senarelagd lönerevision enligt avtal. Rabatt på
-heter. Våra förskolor och grundskola har fortsatt
 pension inom förskola/skola, sjuklöneersättning,
-bedriva verksamheten i sina respektive lokaler
 lägre arbetsgivaravgifter samt korttidspermit-
-med restriktioner i linje med Folkhälsomyndighe-
 teringsersättning (på grund av kraftigt minskad
-tens och respektive kommuns rekommendationer.
 verksamhet inom kursverksamheten) har också
-Franska Skolan har, precis som övriga regionens
 bidragit till resultatet.
-verksamheter, genomgått en digital utveckling och
-kompetenshöjning samt förberett och periodvis
 Folkbildningen, som består av bland annat kurs-
-genomfört viss undervisning digitalt.
 verksamhet och föreningssamarbeten, har drab-
 bats hårt av pandemin. Vår öppna kursverksam-
-Tidigt år 2020 beslutades att göra en organisato-
 het har erfarit ett dramatiskt tapp på 21 % av
-risk översyn av förskolorna med avsikt att skapa
 försäljningen och personalen inom enheten har
-en ekonomi i balans samt fortsatt säkerställa
 periodvis varit deltidspermitterade.
-kvaliteten i verksamheterna, vilket till stor del
-präglat året. Organisationsöversynen resulterade
 Inom uppdragsverksamheten har vi haft en
-i en omorganisation av förskolorna. Bland an-
 motsatt utveckling gällande tjänsterna Stöd och
-nat har ett chefsled tagits bort, fördelningen av
 matchning samt Rusta och matcha. Där ökade
-förskolorna mellan rektorerna har effektiviserats
 verksamheten kraftigt under våren och somma-
-samt en administratör har rekryterats.
 ren och har fortsatt öka under resterande del av
 året. Antalet deltagare har totalt ökat med 300 %
-Inom miljöområdet är vi fortsatt anslutna till
 jämfört med föregående år.
-FN:s Global Compact. Att vi under året har ökat
-antalet digitala arrangemang är även utifrån
 En bidragande faktor till att verksamheten fort-
+
 32
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
+satt fungerat så bra även under en pandemi är
+bland annat den satsning som vi påbörjade 2018
+genom att arbeta med vår kulturförändrande,
+individ- och kompetensstärkande utbildnings-
+satsning inom självledarskap och coachande
+förhållningssätt: Verktyg för mod och möjligheter
+(VMM). Vi har sedan starten fortsatt att arbeta
+med verktyg, modeller och metoder som främjar
+vår utveckling, kompetensutvecklat våra ledare
+och chefer samt arbetat med att förtydliga det
+slags ledarskap som, baserat på Medborgarsko-
+lans värdegrund, skall gälla i vår organisation.
+De misstänkta oegentligheter som ägde rum
+under 2015 och 2016, och som kraftigt negativt
+påverkade resultatet 2017, har under året varit
+föremål för huvudförhandlingar i Göteborgs tings-
+rätt. Sju av tio åtalade dömdes till bland annat
+grovt bedrägeri respektive bedrägeri.
+Vad gäller pandemin har vi, löpande och utan
+undantag, följt Folkhälsomyndighetens rekom-
+mendationer. Inom folkbildningen och uppdrags-
+verksamheten har restriktionerna inneburit
+inga eller begränsade fysiska möten under långa
+perioder. Detta har, förutom kraftigt minskade in-
+täkter inom den öppna kursverksamheten, också
+medfört ökad digitalisering och haft den positiva
+effekten av en utveckling av nya digitala möjlig-
+heter. Våra förskolor och grundskola har fortsatt
+bedriva verksamheten i sina respektive lokaler
+med restriktioner i linje med Folkhälsomyndighe-
+tens och respektive kommuns rekommendationer.
+Franska Skolan har, precis som övriga regionens
+verksamheter, genomgått en digital utveckling och
+kompetenshöjning samt förberett och periodvis
+genomfört viss undervisning digitalt.
+Tidigt år 2020 beslutades att göra en organisato-
+risk översyn av förskolorna med avsikt att skapa
+en ekonomi i balans samt fortsatt säkerställa
+kvaliteten i verksamheterna, vilket till stor del
+präglat året. Organisationsöversynen resulterade
+i en omorganisation av förskolorna. Bland an-
+nat har ett chefsled tagits bort, fördelningen av
+förskolorna mellan rektorerna har effektiviserats
+samt en administratör har rekryterats.
+Inom miljöområdet är vi fortsatt anslutna till
+FN:s Global Compact. Att vi under året har ökat
+antalet digitala arrangemang är även utifrån
+
 <!-- sida 719 -->
 
-miljösynpunkt positivt.           stöd och i samverkan med lokala aktörer och ide-
-ella krafter, fokuserar vi nu på att skapa verksam-
-Franska Skolan miljöcertifierades våren 2020 enligt het och lustfyllda möten som förenar människor
-Grön Flagg, vilket är ett verktyg för pedagogiskt med olika bakgrund, livssituation, kön och ålder,
-arbete med miljöfrågor i barngrupperna. Detta inne- som ökar människors kunskap, mod och möjlig-
-bär att samtliga våra förskolor och grundskola nu är heter, som bidrar till social gemenskap och me-
-certifierade enligt kraven i Grön Flagg. ningsfull sysselsättning och som höjer människors
-livskvalitet och därigenom leder till ett bättre
-Medborgarskolan Region Väst är fortsatt miljö- samhälle för alla.
+miljösynpunkt positivt.
+
+Franska Skolan miljöcertifierades våren 2020 enligt
+Grön Flagg, vilket är ett verktyg för pedagogiskt
+arbete med miljöfrågor i barngrupperna. Detta inne-
+bär att samtliga våra förskolor och grundskola nu är
+certifierade enligt kraven i Grön Flagg.
+Medborgarskolan Region Väst är fortsatt miljö-
 diplomerade enligt kraven i Svensk Miljöbas. Här
-ingår en årlig granskning av extern revisor och MEDLEMSORGANISATIONER
+ingår en årlig granskning av extern revisor och
 vid årets granskning noterades inga avvikelser.
-Medborgarskolans centralt anslutna medlems-
 Inom den öppna kursverksamheten har vi under
-organisationer är: Moderaterna, Moderata Ung-
 2020 haft tema hållbarhet.
-domsförbundet, Fria Moderata Studentförbundet,
-Rojalistiska föreningen, Förbundet Aktiva Senio-
+
 Vid förbundsstämman, som ägde rum i juni
-rer och Förbundet Aktiv Ungdom.
 månad, beslutades nya stadgar för förbund samt
 region. Huvudsaklig förändring gäller antal om-
-STYRELSE
 bud per region samt att förbundschef och region-
-chef inte längre är ledamot i respektive styrelse, Ordförande Jonas Ransgård
+chef inte längre är ledamot i respektive styrelse,
 se under rubriken Styrelse samt på sidan 44. Nya
-Vice ordförande Marie Fridén
 regionstadgar antogs vid extra regionstämma i
 anslutning till Förbundsstämman.
-Ledamöter     Linn Feldt
-Christina Rådegård
-FRAMTIDA  UTVECKLING                            Fredrik Sidahl
-Som många andra ställer vi oss frågan: Vad är det Björn Skår
-nya normala? När pandemin har lagt sig och vi   Per Stenberg
-återgår till en ny verklighet, hur ser den då ut? Ann-Marie Widegren
-Den nyvunna kunskap och förståelse för bland an- Regionchefen är adjungerad ledamot av styrelsen
-nat digitala sammanhang kommer att prägla vårt och regionens verkställande tjänsteman i enlighet
-liv även efter pandemin. Vi kommer att fortsätta med föreningens stadgar.
+FRAMTIDA  UTVECKLING
+Som många andra ställer vi oss frågan: Vad är det
+nya normala? När pandemin har lagt sig och vi
+återgår till en ny verklighet, hur ser den då ut?
+
+Den nyvunna kunskap och förståelse för bland an-
+nat digitala sammanhang kommer att prägla vårt
+liv även efter pandemin. Vi kommer att fortsätta
 vårt arbete för att öka tillgängligheten i våra
-verksamheter och det strategiska framtidsarbetet, PERSONAL
+verksamheter och det strategiska framtidsarbetet,
 som påbörjades 2019, har fått en ny dimension.
-Regionen har ett medelantal anställda om 242,
-varav 201 heltidstjänster samt 41 heltidstjänster
+
 Det är angeläget för oss att arbeta vidare med noll-
-som kursledare.
 tolerans för bidragsfusk, och hur vi gör nolltolerans
 för bidragsfusk i praktiken, det vill säga hur vi tol-
 kar regelverk och interngranskar i syfte att förädla
@@ -29958,7 +34113,45 @@ som finns i organisationen och hos våra samar-
 betspartners, fortsätta vår resa och ständigt vara
 lyhörda mot uppdragsgivare, till vår samtid och
 till framtida trender inom samhällsutvecklingen.
+
 Med hjälp av statens, regionens och kommunens
+
+stöd och i samverkan med lokala aktörer och ide-
+ella krafter, fokuserar vi nu på att skapa verksam-
+het och lustfyllda möten som förenar människor
+med olika bakgrund, livssituation, kön och ålder,
+som ökar människors kunskap, mod och möjlig-
+heter, som bidrar till social gemenskap och me-
+ningsfull sysselsättning och som höjer människors
+livskvalitet och därigenom leder till ett bättre
+samhälle för alla.
+MEDLEMSORGANISATIONER
+
+Medborgarskolans centralt anslutna medlems-
+organisationer är: Moderaterna, Moderata Ung-
+domsförbundet, Fria Moderata Studentförbundet,
+Rojalistiska föreningen, Förbundet Aktiva Senio-
+rer och Förbundet Aktiv Ungdom.
+STYRELSE
+Ordförande    Jonas Ransgård
+
+Vice ordförande Marie Fridén
+
+Ledamöter     Linn Feldt
+Christina Rådegård
+Fredrik Sidahl
+Björn Skår
+Per Stenberg
+Ann-Marie Widegren
+Regionchefen är adjungerad ledamot av styrelsen
+och regionens verkställande tjänsteman i enlighet
+med föreningens stadgar.
+
+PERSONAL
+Regionen har ett medelantal anställda om 242,
+varav 201 heltidstjänster samt 41 heltidstjänster
+som kursledare.
+
 33
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
@@ -30329,112 +34522,198 @@ Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 REVISIONSBERÄTTELSE
 
-Till föreningsstämman i Medborgarskolan Region Revisorns ansvar
-Väst, organisationsnummer 849400-1913 Mina mål är att uppnå en rimlig grad av säker-
-het om huruvida årsredovisningen som helhet inte
-innehåller några väsentliga felaktigheter, vare sig
+Till föreningsstämman i Medborgarskolan Region
+Väst, organisationsnummer 849400-1913
+
 RAPPORT OM ÅRSREDOVISNINGEN
-dessa beror på oegentligheter eller misstag, och att
-Uttalanden                        lämna en revisionsberättelse som innehåller mina
-Jag har utfört en revision av årsredovisningen för uttalanden. Rimlig säkerhet är en hög grad av
-Medborgarskolan Region Väst för år 2020. säkerhet, men är ingen garanti för att en revision
-som utförs enligt ISA och god revisionssed i Sverige
-Enligt min uppfattning har årsredovisningen alltid kommer att upptäcka en väsentlig felaktig-
-upprättats i enlighet med årsredovisningslagen het om en sådan finns. Felaktigheter kan uppstå
-och ger en i alla väsentliga avseenden rättvisande på grund av oegentligheter eller misstag och anses
-bild av föreningens finansiella ställning per den 31 vara väsentliga om de enskilt eller tillsammans
-december 2020 och av dess finansiella resultat och rimligen kan förväntas påverka de ekonomiska
-kassaflöde för året enligt årsredovisningslagen. beslut som användare fattar med grund i årsredo-
-visningen.
+Uttalanden
+Jag har utfört en revision av årsredovisningen för
+Medborgarskolan Region Väst för år 2020.
+
+Enligt min uppfattning har årsredovisningen
+upprättats i enlighet med årsredovisningslagen
+och ger en i alla väsentliga avseenden rättvisande
+bild av föreningens finansiella ställning per den 31
+december 2020 och av dess finansiella resultat och
+kassaflöde för året enligt årsredovisningslagen.
 Förvaltningsberättelsen är förenlig med årsredovis-
-ningens övriga delar.             Som del av en revision enligt ISA använder jag
-professionellt omdöme och har en professionellt
-Grund för uttalanden              skeptisk inställning under hela revisionen. Dess-
-Jag har utfört revisionen enligt International utom:
+ningens övriga delar.
+
+Grund för uttalanden
+Jag har utfört revisionen enligt International
 Standards on Auditing (ISA) och god revisions-
-sed i Sverige. Mitt ansvar enligt dessa standarder • identifierar och bedömer jag riskerna för väsent-
-beskrivs närmare i avsnittet Revisorns ansvar. Jag liga felaktigheter i årsredovisningen, vare sig dessa
-är oberoende i förhållande till föreningen enligt god beror på oegentligheter eller misstag, utformar och
-revisorssed i Sverige och har i övrigt fullgjort mitt utför granskningsåtgärder bland annat utifrån
-yrkesetiska ansvar enligt dessa krav. dessa risker och inhämtar revisionsbevis som är
-tillräckliga och ändamålsenliga för att utgöra en
-Jag anser att de revisionsbevis jag har inhämtat grund för mina uttalanden. Risken för att inte
-är tillräckliga och ändamålsenliga som grund för upptäcka en väsentlig felaktighet till följd av
-mina uttalanden.                  oegentligheter är högre än för en väsentlig felaktig-
-het som beror på misstag, eftersom oegentligheter
-Styrelsens ansvar                 kan innefatta agerande i maskopi, förfalskning,
-Det är styrelsen som har ansvaret för att årsredo- avsiktliga utelämnanden, felaktig information eller
-visningen upprättas och att den ger en rättvisande åsidosättande av intern kontroll.
+sed i Sverige. Mitt ansvar enligt dessa standarder
+beskrivs närmare i avsnittet Revisorns ansvar. Jag
+är oberoende i förhållande till föreningen enligt god
+revisorssed i Sverige och har i övrigt fullgjort mitt
+yrkesetiska ansvar enligt dessa krav.
+Jag anser att de revisionsbevis jag har inhämtat
+är tillräckliga och ändamålsenliga som grund för
+mina uttalanden.
+
+Styrelsens ansvar
+Det är styrelsen som har ansvaret för att årsredo-
+visningen upprättas och att den ger en rättvisande
 bild enligt årsredovisningslagen. Styrelsen ansvarar
-även för den interna kontroll som den bedömer är • skaffar jag mig en förståelse av den del av fören-
-nödvändig för att upprätta en årsredovisning som ingens interna kontroll som har betydelse för min
-inte innehåller några väsentliga felaktigheter, vare revision för att utforma granskningsåtgärder som
-sig dessa beror på oegentligheter eller misstag. är lämpliga med hänsyn till omständigheterna,
-men inte för att uttala mig om effektiviteten i den
-Vid upprättandet av årsredovisningen ansvarar interna kontrollen.
+även för den interna kontroll som den bedömer är
+nödvändig för att upprätta en årsredovisning som
+inte innehåller några väsentliga felaktigheter, vare
+sig dessa beror på oegentligheter eller misstag.
+
+Vid upprättandet av årsredovisningen ansvarar
 styrelsen för bedömningen av föreningens förmåga
-att fortsätta verksamheten. Den upplyser, när så är • utvärderar jag lämpligheten i de redovisnings-
-tillämpligt, om förhållanden som kan påverka för- principer som används och rimligheten i styrelsens
-mågan att fortsätta verksamheten och att använda uppskattningar i redovisningen och tillhörande
-antagandet om fortsatt drift. Antagandet om fort- upplysningar.
+att fortsätta verksamheten. Den upplyser, när så är
+tillämpligt, om förhållanden som kan påverka för-
+mågan att fortsätta verksamheten och att använda
+antagandet om fortsatt drift. Antagandet om fort-
 satt drift tillämpas dock inte om styrelsen avser att
-likvidera föreningen, upphöra med verksamheten • drar jag en slutsats om lämpligheten i att sty-
-eller inte har något realistiskt alternativ till att göra relsen använder antagandet om fortsatt drift vid
-något av detta.                   upprättandet av årsredovisningen. Jag drar också
+likvidera föreningen, upphöra med verksamheten
+eller inte har något realistiskt alternativ till att göra
+något av detta.
+
 42
 ÅRSREDOVISNING 2020 | Medborgarskolan Region Väst
 
+Revisorns ansvar
+Mina mål är att uppnå en rimlig grad av säker-
+het om huruvida årsredovisningen som helhet inte
+innehåller några väsentliga felaktigheter, vare sig
+dessa beror på oegentligheter eller misstag, och att
+lämna en revisionsberättelse som innehåller mina
+uttalanden. Rimlig säkerhet är en hög grad av
+säkerhet, men är ingen garanti för att en revision
+som utförs enligt ISA och god revisionssed i Sverige
+alltid kommer att upptäcka en väsentlig felaktig-
+het om en sådan finns. Felaktigheter kan uppstå
+på grund av oegentligheter eller misstag och anses
+vara väsentliga om de enskilt eller tillsammans
+rimligen kan förväntas påverka de ekonomiska
+beslut som användare fattar med grund i årsredo-
+visningen.
+Som del av en revision enligt ISA använder jag
+professionellt omdöme och har en professionellt
+skeptisk inställning under hela revisionen. Dess-
+utom:
+• identifierar och bedömer jag riskerna för väsent-
+liga felaktigheter i årsredovisningen, vare sig dessa
+beror på oegentligheter eller misstag, utformar och
+utför granskningsåtgärder bland annat utifrån
+dessa risker och inhämtar revisionsbevis som är
+tillräckliga och ändamålsenliga för att utgöra en
+grund för mina uttalanden. Risken för att inte
+upptäcka en väsentlig felaktighet till följd av
+oegentligheter är högre än för en väsentlig felaktig-
+het som beror på misstag, eftersom oegentligheter
+kan innefatta agerande i maskopi, förfalskning,
+avsiktliga utelämnanden, felaktig information eller
+åsidosättande av intern kontroll.
+
+• skaffar jag mig en förståelse av den del av fören-
+ingens interna kontroll som har betydelse för min
+revision för att utforma granskningsåtgärder som
+är lämpliga med hänsyn till omständigheterna,
+men inte för att uttala mig om effektiviteten i den
+interna kontrollen.
+• utvärderar jag lämpligheten i de redovisnings-
+principer som används och rimligheten i styrelsens
+uppskattningar i redovisningen och tillhörande
+upplysningar.
+
+• drar jag en slutsats om lämpligheten i att sty-
+relsen använder antagandet om fortsatt drift vid
+upprättandet av årsredovisningen. Jag drar också
+
 <!-- sida 729 -->
 
-en slutsats, med grund i de inhämtade revisions- tillräckliga och ändamålsenliga som grund för mitt
-bevisen, om huruvida det finns någon väsentlig uttalande.
+en slutsats, med grund i de inhämtade revisions-
+bevisen, om huruvida det finns någon väsentlig
 osäkerhetsfaktor som avser sådana händelser eller
-förhållanden som kan leda till betydande tvivel om Styrelsens ansvar
-föreningens förmåga att fortsätta verksamheten. Det är styrelsen som har ansvaret för förvaltningen.
+förhållanden som kan leda till betydande tvivel om
+föreningens förmåga att fortsätta verksamheten.
 Om jag drar slutsatsen att det finns en väsentlig
-osäkerhetsfaktor, måste jag i revisionsberättel- Revisorns ansvar
-sen fästa uppmärksamheten på upplysningarna i Mitt mål beträffande revisionen av förvaltningen,
-årsredovisningen om den väsentliga osäkerhetsfak- och därmed mitt uttalande om ansvarsfrihet, är att
-torn eller, om sådana upplysningar är otillräckliga, inhämta revisionsbevis för att med en rimlig grad
-modifiera uttalandet om årsredovisningen. Mina av säkerhet kunna bedöma om någon styrelsele-
-slutsatser baseras på de revisionsbevis som inhäm- damot i något väsentligt avseende företagit någon
-tas fram till datumet för revisionsberättelsen. Dock åtgärd eller gjort sig skyldig till någon försum-
-kan framtida händelser eller förhållanden göra att melse som kan föranleda ersättningsskyldighet
-en förening inte längre kan fortsätta verksamheten. mot föreningen.
-• utvärderar jag den övergripande presentationen, Rimlig säkerhet är en hög grad av säkerhet, men
-strukturen och innehållet i årsredovisningen, däri- ingen garanti för att en revision som utförs enligt
-bland upplysningarna, och om årsredovisningen god revisionssed i Sverige alltid kommer att upp-
-återger de underliggande transaktionerna och hän- täcka åtgärder eller försummelser som kan föran-
-delserna på ett sätt som ger en rättvisande bild. leda ersättningsskyldighet mot föreningen.
-Jag måste informera styrelsen om bland annat Som en del av en revision enligt god revisionssed
-revisionens planerade omfattning och inriktning i Sverige använder jag professionellt omdöme och
-samt tidpunkten för den. Jag måste också informe- har en professionellt skeptisk inställning under
-ra om betydelsefulla iakttagelser under revisionen, hela revisionen. Granskningen av förvaltningen
-däribland de eventuella betydande brister i den grundar sig främst på revisionen av räkenskaper-
-interna kontrollen som jag identifierat. na. Vilka tillkommande granskningsåtgärder som
-utförs baseras på min professionella bedömning
-med utgångspunkt i risk och väsentlighet.
+osäkerhetsfaktor, måste jag i revisionsberättel-
+sen fästa uppmärksamheten på upplysningarna i
+årsredovisningen om den väsentliga osäkerhetsfak-
+torn eller, om sådana upplysningar är otillräckliga,
+modifiera uttalandet om årsredovisningen. Mina
+slutsatser baseras på de revisionsbevis som inhäm-
+tas fram till datumet för revisionsberättelsen. Dock
+kan framtida händelser eller förhållanden göra att
+en förening inte längre kan fortsätta verksamheten.
+• utvärderar jag den övergripande presentationen,
+strukturen och innehållet i årsredovisningen, däri-
+bland upplysningarna, och om årsredovisningen
+återger de underliggande transaktionerna och hän-
+delserna på ett sätt som ger en rättvisande bild.
+Jag måste informera styrelsen om bland annat
+revisionens planerade omfattning och inriktning
+samt tidpunkten för den. Jag måste också informe-
+ra om betydelsefulla iakttagelser under revisionen,
+däribland de eventuella betydande brister i den
+interna kontrollen som jag identifierat.
+
 RAPPORT OM ANDRA KRAV ENLIGT
 LAGAR OCH ANDRA FÖRFATTNINGAR
-Det innebär att jag fokuserar granskningen på
 SAMT STADGAR
-sådana åtgärder, områden och förhållanden som
-Uttalanden                        är väsentliga för verksamheten och där avsteg
-Utöver min revision av årsredovisningen har jag och överträdelser skulle ha särskild betydelse för
-även utfört en revision av styrelsens förvaltning för föreningens situation. Jag går igenom och prövar
-Medborgarskolan Region Väst för år 2020. fattade beslut, beslutsunderlag, vidtagna åtgärder
-och andra förhållanden som är relevanta för mitt
-Jag tillstyrker att föreningsstämman beviljar uttalande om ansvarsfrihet.
+Uttalanden
+Utöver min revision av årsredovisningen har jag
+även utfört en revision av styrelsens förvaltning för
+Medborgarskolan Region Väst för år 2020.
+
+Jag tillstyrker att föreningsstämman beviljar
 styrelsens ledamöter ansvarsfrihet för räkenskaps-
-året.                             Göteborg 2021-03-18
+året.
+
 Grund för uttalanden
 Jag har utfört revisionen enligt god revisionssed i
-Sverige. Mitt ansvar enligt denna beskrivs närma- Roger Mattsson
-re i avsnittet Revisorns ansvar. Jag är oberoende i Auktoriserad revisor R Mattsson Revision AB
+Sverige. Mitt ansvar enligt denna beskrivs närma-
+re i avsnittet Revisorns ansvar. Jag är oberoende i
 förhållande till föreningen enligt god revisorssed i
 Sverige och har i övrigt fullgjort mitt yrkesetiska
 ansvar enligt dessa krav.
 Jag anser att de revisionsbevis jag har inhämtat är
+
+tillräckliga och ändamålsenliga som grund för mitt
+uttalande.
+
+Styrelsens ansvar
+Det är styrelsen som har ansvaret för förvaltningen.
+
+Revisorns ansvar
+Mitt mål beträffande revisionen av förvaltningen,
+och därmed mitt uttalande om ansvarsfrihet, är att
+inhämta revisionsbevis för att med en rimlig grad
+av säkerhet kunna bedöma om någon styrelsele-
+damot i något väsentligt avseende företagit någon
+åtgärd eller gjort sig skyldig till någon försum-
+melse som kan föranleda ersättningsskyldighet
+mot föreningen.
+Rimlig säkerhet är en hög grad av säkerhet, men
+ingen garanti för att en revision som utförs enligt
+god revisionssed i Sverige alltid kommer att upp-
+täcka åtgärder eller försummelser som kan föran-
+leda ersättningsskyldighet mot föreningen.
+Som en del av en revision enligt god revisionssed
+i Sverige använder jag professionellt omdöme och
+har en professionellt skeptisk inställning under
+hela revisionen. Granskningen av förvaltningen
+grundar sig främst på revisionen av räkenskaper-
+na. Vilka tillkommande granskningsåtgärder som
+utförs baseras på min professionella bedömning
+med utgångspunkt i risk och väsentlighet.
+
+Det innebär att jag fokuserar granskningen på
+sådana åtgärder, områden och förhållanden som
+är väsentliga för verksamheten och där avsteg
+och överträdelser skulle ha särskild betydelse för
+föreningens situation. Jag går igenom och prövar
+fattade beslut, beslutsunderlag, vidtagna åtgärder
+och andra förhållanden som är relevanta för mitt
+uttalande om ansvarsfrihet.
+Göteborg 2021-03-18
+
+Roger Mattsson
+Auktoriserad revisor R Mattsson Revision AB
 
 43
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
@@ -30443,25 +34722,41 @@ Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 
 ORGANISATION
 
-Medborgarskolan Region Väst är en av åtta Marknad och kommunikation
-självständiga regionala enheter i studieförbundet Sofi Johansson
+Medborgarskolan Region Väst är en av åtta
+självständiga regionala enheter i studieförbundet
 Medborgarskolan, registrerad som ideell förening
-med en egen styrelse och egna stadgar. Vaktmästeri
-Mirsad Rizvic
+med en egen styrelse och egna stadgar.
+
 REGIONKONTOR
-Regionkontoret ligger på Haga Östergata i NYA FOLKBILDNINGEN
-Göteborg. Vid regionkontoret arbetar: Folkbildning (öppen/ansluten verksamhet) och
-uppdragsverksamhet (arbetsmarknad/företagsut-
-Regionchef                        bildning) är i Medborgarskolan Region Väst intimt
-Birgitta Andrén Åkerblom          förknippade med varandra. Vi använder uttrycket
-”nya folkbildningen”.
+Regionkontoret ligger på Haga Östergata i
+Göteborg. Vid regionkontoret arbetar:
+
+Regionchef
+Birgitta Andrén Åkerblom
 Ekonomi
-Marie Jansson (controller)        Öppen verksamhet består främst av studiecirklar
-Helena Jenhall                    som är öppna för allmänheten.
+Marie Jansson (controller)
+Helena Jenhall
+
+Marknad och kommunikation
+Sofi Johansson
+
+Vaktmästeri
+Mirsad Rizvic
+
+NYA FOLKBILDNINGEN
+Folkbildning (öppen/ansluten verksamhet) och
+uppdragsverksamhet (arbetsmarknad/företagsut-
+bildning) är i Medborgarskolan Region Väst intimt
+förknippade med varandra. Vi använder uttrycket
+”nya folkbildningen”.
+Öppen verksamhet består främst av studiecirklar
+som är öppna för allmänheten.
+
 IT och telefoni                   Ansluten verksamhet består i huvudsak av studie-
 Bahman Farzad                     cirklar i grupper och föreningar som är anslutna
 Rasmus Köhler                     till Medborgarskolan.
 Abir Makna
+
 Kvalitet och miljö
 Kerstin Åsberg (biträdande regionchef)
 
@@ -30477,9 +34772,9 @@ Vaktmästeri
 FOLKBILDNING           FOLKBILDNING       SERVICE/ADMINISTRATION
 Fyrbodal Skaraborg     Halland Storgöteborg   Halland Storgöteborg
 
-Ansluten Öppen         Ansluten Öppen       Admin  Städ  Fastigheter
+Ansluten Öppen         Ansluten Öppen      Admin   Städ  Fastigheter
 
-Asyl                 Amplified
+Asyl                  Amplified
 
 Asyl
 
@@ -30488,47 +34783,53 @@ Asyl
 
 <!-- sida 731 -->
 
-Uppdragsverksamheten i region Väst består SKOLA/FÖRSKOLA
+Uppdragsverksamheten i region Väst består
 främst av arbetsmarknads- och integrationspro-
-Följande sju friskolor bedrivs i regionens regi:
 jekt i samarbete med Arbetsförmedlingen, Försäk-
-• Franska Skolan (årskurs F-9), Göteborg
 ringskassan, kommuner och ESF-rådet.
-• Franska Förskolan, Göteborg
-• Förskolan Blå Musslan, Stora Höga
+
 Verksamheten är indelad i två geografiska områ-
-• Förskolan Grenen, Göteborg
 den, där lokalkontoren indelats enligt följande:
-• Musikförskolan Do Re Mi, Göteborg
 Nordväst
-• Montessoriförskolan Solstrålen, Jonsered
 • Fyrbodal: Trollhättan, Uddevalla, Vänersborg
-• Nyckelpigans förskola, Mellbystrand
 • Skaraborg: Falköping, Lidköping, Mariestad,
 Skara, Skövde
-Ledningsgruppen för skolverksamheten består av
 Sydväst
-regionchef, kvalitets- och miljöansvarig/biträdan-
 • Storgöteborg: Borås, Göteborg, Kungälv,
-de regionchef, controller, regionstyrelsens ordfö-
 Stenungsund
-rande och vice ordförande, en rektor för Franska
 • Halland: Halmstad, Kungsbacka, Varberg
-Skolan samt fyra rektorer för förskolorna (varav
-en är samordnande). Funktionsansvariga vid regi-
 Ledningsgruppen för nya folkbildningen består
-onkontoret kallas in vid behov.
 av regionchef, kvalitets- och miljöansvarig/biträ-
 dande regionchef, controller, marknadsansvarig,
-REGIONAL  STYRGRUPP
 IT-ansvarig och tre verksamhetschefer (en för
-Styrgruppen består av samtliga medlemmar i led-
 uppdrag samt folkbildning i Nordväst, en för folk-
-ningsgruppen för Nya folkbildningen samt rektor för
 bildning i Sydväst samt en för service/administra-
-Franska Skolan samt samordnare för förskolorna.
 tion i Sydväst enligt organisationsschema nedan).
+
+SKOLA/FÖRSKOLA
+Följande sju friskolor bedrivs i regionens regi:
+• Franska Skolan (årskurs F-9), Göteborg
+• Franska Förskolan, Göteborg
+• Förskolan Blå Musslan, Stora Höga
+• Förskolan Grenen, Göteborg
+• Musikförskolan Do Re Mi, Göteborg
+• Montessoriförskolan Solstrålen, Jonsered
+• Nyckelpigans förskola, Mellbystrand
+Ledningsgruppen för skolverksamheten består av
+regionchef, kvalitets- och miljöansvarig/biträdan-
+de regionchef, controller, regionstyrelsens ordfö-
+rande och vice ordförande, en rektor för Franska
+Skolan samt fyra rektorer för förskolorna (varav
+en är samordnande). Funktionsansvariga vid regi-
+onkontoret kallas in vid behov.
+
+REGIONAL  STYRGRUPP
+Styrgruppen består av samtliga medlemmar i led-
+ningsgruppen för Nya folkbildningen samt rektor för
+Franska Skolan samt samordnare för förskolorna.
+
 UPPDRAG                FÖRSKOLA                 SKOLA
+
 Blå Musslan           Franska Skolans
 Arbets- ESF-  Utvecklings-    Do Re Mi               grundskola
 marknad projekt projekt      Franska Skolans
@@ -30596,62 +34897,87 @@ Birgitta Andrén Åkerblom
 
 <!-- sida 733 -->
 
-KONTAKTUPPGIFTER
+REGIONKONTOR
 
-REGIONKONTOR                      STORGÖTEBORG
+MEDBORGARSKOLAN REGION VÄST
 Haga Östergata 12 | 413 01 Göteborg
-MEDBORGARSKOLAN REGION VÄST       Tel 031-755 14 00 | (e-post borttagen)
-Haga Östergata 12 | 413 01 Göteborg
-Box 8080 | 504 37 Borås
 Tel 031-710 08 90 | (e-post borttagen)
-Besöksadress: Textile Fashion Center,
-Skaraborgsvägen 3 A
+
 NYA FOLKBILDNINGEN
-Tel 033-20 77 40 | (e-post borttagen)
+
 FYRBODAL
-Triogatan 5 | 442 34 Kungälv
 Storgatan 19 | 461 30 Trollhättan
-Tel 0303-180 90 | (e-post borttagen)
 Tel 0520-301 20 | (e-post borttagen)
-Nordanvindsgatan 14 | 444 30 Stenungsund
 Hamngatan 3 | 462 33 Vänersborg
-Tel 0303-814 10 | (e-post borttagen)
 Tel 0521-682 40 | (e-post borttagen)
-SKOLA/FÖRSKOLA
+
 Lagerbergsgatan 36 | 451 31 Uddevalla
 Tel 0522-165 77 | (e-post borttagen)
-FRANSKA SKOLAN GÖTEBORG
-Grundskola och förskola
 HALLAND
-Landalagången 3 | 411 30 Göteborg
 Skolgatan 5 | 302 32 Halmstad
-Tel 031-16 54 82 | (e-post borttagen)
 Tel 035-10 02 20 | (e-post borttagen)
-www.franskaskolangoteborg.se
-Kabelgatan 9 | 434 37 Kungsbacka  Besöksadress Franska Skolans högstadium
-Tel 0300-69 01 70 | (e-post borttagen) Molinsgatan 7 | 411 33 Göteborg
-Drottninggatan 20 | 432 41 Varberg FÖRSKOLAN BLÅ MUSSLAN
-Tel 0340-194 95 | (e-post borttagen) Stora vägen 14 | 444 60 Stora Höga
-Tel 0303-79 87 30 | (e-post borttagen)
+
+Kabelgatan 9 | 434 37 Kungsbacka
+Tel 0300-69 01 70 | (e-post borttagen)
+
+Drottninggatan 20 | 432 41 Varberg
+Tel 0340-194 95 | (e-post borttagen)
 SKARABORG
-Södra Trängallén 2 A | 541 46 Skövde FÖRSKOLAN GRENEN
-Tel 0500-48 25 15 | (e-post borttagen) Trädgårdsgärdet 140 | 424 68 Angered
-Tel 031-332 07 70/71 | (e-post borttagen)
+Södra Trängallén 2 A | 541 46 Skövde
+Tel 0500-48 25 15 | (e-post borttagen)
+
 Esplanaden 1 | 542 30 Mariestad
 Tel 0501-702 60 | (e-post borttagen)
+Sockerbruksgatan 1 (entré G/gavel) | 531 33 Lidköping
+Tel 0510-208 00 | (e-post borttagen)
+
+Klostergatan 1 D | 532 30 Skara
+Besöksadress: Stortorget 1
+Tel 0511-120 10 | (e-post borttagen)
+
+KONTAKTUPPGIFTER
+
+STORGÖTEBORG
+Haga Östergata 12 | 413 01 Göteborg
+Tel 031-755 14 00 | (e-post borttagen)
+Box 8080 | 504 37 Borås
+Besöksadress: Textile Fashion Center,
+Skaraborgsvägen 3 A
+Tel 033-20 77 40 | (e-post borttagen)
+
+Triogatan 5 | 442 34 Kungälv
+Tel 0303-180 90 | (e-post borttagen)
+Nordanvindsgatan 14 | 444 30 Stenungsund
+Tel 0303-814 10 | (e-post borttagen)
+
+SKOLA/FÖRSKOLA
+
+FRANSKA SKOLAN GÖTEBORG
+Grundskola och förskola
+Landalagången 3 | 411 30 Göteborg
+Tel 031-16 54 82 | (e-post borttagen)
+www.franskaskolangoteborg.se
+Besöksadress Franska Skolans högstadium
+Molinsgatan 7 | 411 33 Göteborg
+FÖRSKOLAN BLÅ MUSSLAN
+Stora vägen 14 | 444 60 Stora Höga
+Tel 0303-79 87 30 | (e-post borttagen)
+
+FÖRSKOLAN GRENEN
+Trädgårdsgärdet 140 | 424 68 Angered
+Tel 031-332 07 70/71 | (e-post borttagen)
+
 MONTESSORIFÖRSKOLAN SOLSTRÅLEN
 Jonseredsvägen 1 | 433 75 Jonsered
-Sockerbruksgatan 1 (entré G/gavel) | 531 33 Lidköping
 Tel 031-795 71 53 | (e-post borttagen)
-Tel 0510-208 00 | (e-post borttagen)
-Klostergatan 1 D | 532 30 Skara   MUSIKFÖRSKOLAN DO RE MI
+MUSIKFÖRSKOLAN DO RE MI
 Eriksbo Östergärde 15-17 | 224 34 Angered
-Besöksadress: Stortorget 1
 Tel 031-46 47 66 | (e-post borttagen)
-Tel 0511-120 10 | (e-post borttagen)
+
 NYCKELPIGANS FÖRSKOLA
 Kustvägen 2 B | 312 60 Mellbystrand
 Tel 0430-253 00 | (e-post borttagen)
+
 47
 Medborgarskolan Region Väst | ÅRSREDOVISNING 2020
 

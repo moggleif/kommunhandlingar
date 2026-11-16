@@ -1,0 +1,39 @@
+KK,AK,PN,Beskrivning
+,,,Malm och mineral
+13.10,28,A,"Gruvdrift eller gruvanläggning för brytning av malm, mineral eller kol,
+om verksamheten inte är tillstånds- eller anmälningspliktig enligt någon
+av beskrivningarna i 10.10 - 10.40."
+13.20,18,A,"Anläggning för rostning eller sintring av metallhaltig malm om
+verksamheten inte är tillståndspliktig enligt 13.30."
+13.30,14,B,"Anläggning för rostning eller sintring av metallhaltig malm för
+provändamål."
+13.40,28,A,"Anläggning för annan bearbetning eller anrikning av malm, mineral
+eller kol än rostning och sintring, om verksamheten inte är
+tillståndspliktig enligt 13.50."
+13.50,15,B,"Provbrytning inklusive annan bearbetning eller anrikning av malm,
+mineral eller kol än rostning och sintring."
+13.60,9,B,Anläggning för utvinning och produktion av asbest.
+,,,Annan utvinningsindustri
+13.70,3,C,"Djupborrning, som inte omfattas av 11.10 eller 11.20."
+,,,LIVSMEDEL OCH FODER M.M.
+,,,Animaliska råvaror
+15.10-1,19,B,"Slakteri för en produktion baserad på mer än 50 000 ton slaktvikt per
+kalenderår."
+15.10-2,11,B,"Slakteri för en produktion baserad på mer än 12 500 men högst 50 000
+ton slaktvikt per kalenderår."
+15.20,8,B,"Slakteri för en produktion baserad på mer än 7 500 ton slaktvikt per
+kalenderår, om verksamheten inte är tillståndspliktig enligt 15.10."
+15.30,4,C,"Slakteri för en produktion baserad på mer än 50 ton slaktvikt per
+kalenderår, om verksamheten inte är tillståndspliktig enligt 15.10 eller
+15.20."
+15.3001,2,U,"Slakteri för en produktion baserad på högst 50 ton slaktvikt per
+kalenderår, om verksamheten inte är tillståndspliktig enligt 15.10 eller
+15.20."
+15.40,20,B,"Anläggning för framställning av livsmedel med beredning och
+behandling av animaliska råvaror (utom mjölk) för en produktion av
+mer än 18 500 ton produkter per kalenderår, om verksamheten innebär
+annat än endast frysning."
+15.41,20,B,"Anläggning för tillverkning av livsmedel ur produkter av animaliskt
+ursprung baserad på mer än 40 000 ton råvara per kalenderår, om
+verksamheten inte är tillstånds- eller anmälningspliktig enligt 15.40
+eller 15.80."

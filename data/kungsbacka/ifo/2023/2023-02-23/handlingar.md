@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250803112118id_/https://kungsbacka.se/d
 sha256: 683861c2282769fe4e76827a123b38668ecb5cd39ddc0c1ba87a2e4169970059
 bytes: 7652906
 sidor: 194
-hamtad: 2026-10-26T08:46:23+00:00
-konverterad: 2026-10-26T08:47:02+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-15T23:04:07+00:00
+konverterad: 2026-11-15T23:04:34+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -741,20 +741,20 @@ Aktuella intyg Antal som tackat ja Genomförda bedömningar
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
 Negativa händelser
+
 Hälso- och sjukvårdspersonal har en skyldighet att rapportera in händelser i verksamheten som har orsakat en
 vårdskada eller som skulle kunna orsaka en vårdskada.
-
 I patientsäkerhetslagen beskrivs att en vårdskada är ”lidande, kroppslig eller psykisk skada eller sjukdom
 samt dödsfall som hade kunnat undvikas om adekvata åtgärder hade vidtagits vid patientens kontakt med
+
 hälso- och sjukvården. Det innebär att visar en utredning att verksamheten har vidtagit nödvändiga åtgärder
 och händelsen ändå inträffar så är det ingen brist i verksamheten, Detta gäller främst fall där det ofta finns ett
 omfattande preventivt arbete där verksamheterna har vidtagit det åtgärder som kan förväntas utan att inkräkta
-
 på patientens personliga integritet och behov.
 
 Utredda händelser VO HSL          Utredda händelser IF HSL
-211101-221031                   211101-221031
 
+211101-221031                    211101-221031
 700                              80
 600                              70
 60
@@ -770,19 +770,29 @@ Utredda händelser VO HSL          Utredda händelser IF HSL
 0                               0
 NOVDEC JAN FEBMARAPRMAJJUN JULAUGSEPOKT NOVDEC JAN FEBMARAPRMAJJUN JULAUGSEP OKT
 Brist i verksamheten Ingen brist i verksamheten Brist i verksamheten Ingen brist i verksamheten
-Inom förvaltningen för Vård & Omsorg har Inom förvaltningen för Individ & Familjeomsorg
-under perioden                   har under perioden
-1 nov 2021 – 31 oktober 2022 6354 händelser 1 nov 2021 – 31 oktober 2022
-rapporterats in. För 6105 av händelser har 721 händelser rapporterats in. 594 av dessa
-utredningen avslutats. Utredningen av dessa händelser hade utretts. Utredningarna av dessa
-visade att 2615 händelser inträffade på grund av har visat att 448 händelser inträffade på grund av
-brister i verksamheten.          brister i verksamheten.
+
+Inom förvaltningen för Vård & Omsorg har
+under perioden
+1 nov 2021 – 31 oktober 2022 6354 händelser
+rapporterats in. För 6105 av händelser har
+utredningen avslutats. Utredningen av dessa
+
+visade att 2615 händelser inträffade på grund av
+brister i verksamheten.
+
+Inom förvaltningen för Individ & Familjeomsorg
+har under perioden
+1 nov 2021 – 31 oktober 2022
+721 händelser rapporterats in. 594 av dessa
+händelser hade utretts. Utredningarna av dessa
+
+har visat att 448 händelser inträffade på grund av
+brister i verksamheten.
 
 Allvarlighetsgrad händelser VO   Allvarlighetsgrad händelser IF
 
-8%           0 Ingen              6%            0 Ingen
-
-1 Mindre                           1 Mindre
+8%           0 Ingen              6%           0 Ingen
+1 Mindre                          1 Mindre
 41%     2 Måttlig                 44%
 2 Måttlig
 50%
@@ -797,16 +807,23 @@ Allvarlighetsgrad händelser VO   Allvarlighetsgrad händelser IF
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Av de 2615 händelser som identifierats som Av de 448 händelser som identifierats som
-brister i verksamheten har drygt hälften av brister i verksamheten har 50% av händelserna
-händelserna inte inneburit någon konsekvens för inte inneburit någon konsekvens för patienten.
-
+Av de 2615 händelser som identifierats som
+brister i verksamheten har drygt hälften av
+händelserna inte inneburit någon konsekvens för
 patienten.
-En händelse har orsakat en betydande
-Fyra händelser har orsakat betydande konsekvens för patienten i form av en fraktur
-konsekvenser för patienten. Fördröjd efter fall
+
+Fyra händelser har orsakat betydande
+konsekvenser för patienten. Fördröjd
 smärtlindring, utebliven tillsyn hos palliativ
 patient och fel dos insulin.
+
+Av de 448 händelser som identifierats som
+brister i verksamheten har 50% av händelserna
+inte inneburit någon konsekvens för patienten.
+
+En händelse har orsakat en betydande
+konsekvens för patienten i form av en fraktur
+efter fall
 
 Typ av händelse VO  Merparten av de identifierade
 8%
@@ -819,22 +836,22 @@ Fall
 också utgör en stor del av de
 6%
 Vård och behandling insatser som sker dagligen i
-58%                        verksamheten.
+58%                         verksamheten.
 Dokumentation
 19%
 Information/kommunikation
 Övrigt
-Typ av händelse IF Merparten av de identifierade
+Typ av händelse IF  Merparten av de identifierade
 brister inom hälso- och
 11%
 sjukvården har handlat om
 4%
 Läkemedel
 hantering av läkemedel vilka
-9%                        Rehabilitering   också utgör en stor del av de
+9%                        Rehabilitering    också utgör en stor del av de
 insatser som sker dagligen i
 55%          Fall
-10%                                       verksamheten.
+10%                                        verksamheten.
 Vård och behandling
 11%
 Hjälpmedel

@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220320185422id_/https://www.kungsbacka
 sha256: [c4aa4929cf2de8cafbe37962e523ace0f96ac573d2ce02ef7a14ebaeb162ad4a, 3e2bf2e79a409e2bc53d71d1b1d110df4034298c58c8d338b8618eb6f624b92e, 44f08eceefe3db46973fd8cb6ef00a6c4f211598fad1a6f9b10823090738dc29]
 bytes: [55516696, 40509417, 17316855]
 sidor: 669
-hamtad: 2026-10-28T10:54:05+00:00
-konverterad: 2026-10-28T11:00:33+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:26:47+00:00
+konverterad: 2026-11-16T00:34:03+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -241,17 +241,12 @@ Kommundirektör                Biträdande kommundirektör
 
 <!-- sida 12 -->
 
-KUB2000, v2.0, 2012-05-23
-
 Gymnasium och arbetsmarknad
 2020-04-30
 
 Kungsbacka
-
 Arvid och Hildur Anderssons fond våren 2021
-
 Tillgängligt belopp för utdelning år 2021 är 31 848 kr.
-
 Styrelsen för Arvid och Hildur Anderssons fond föreslår för kommunstyrelsen att
 följande tilldelas stipendium våren 2021:
 
@@ -260,20 +255,18 @@ följande tilldelas stipendium våren 2021:
 Elin Hysén (L)
 Ordförande
 Nämnden för Gymnasium och Arbetsmarknad
-
 Gymnasium & Arbetsmarknad Kungsbacka kommun
 Clara Engstrand 434 43 Kungsbacka
 Direkt 0300-83 43 37
+clara.engstrand(Åkungsbacka.se Vänstern —
 
-Besöksadress
-clara.engstrand(Åkungsbacka.se
-
-Vägmästaren, Syréngatan 1
 Telefon 0300-83 40 00
 Fax 0300-83 47 04
 
 gymnasiumocharbetsmarknad(ÅQkungsbacka.se
 www.kungsbacka.se
+
+KUB2000, v2.0, 2012-05-23
 
 <!-- sida 13 -->
 
@@ -490,8 +483,6 @@ Förvaltningschef                   Registrator
 
 <!-- sida 18 -->
 
-KUB6000, 2.0, 2019-06-04
-
 ANSÖKAN OM PENGAR UR ERIK HJÄLMLÖVS STIFTELSE
 
 Gäller: [] Rekreationsresor Inköp av blommor till lokaler
@@ -503,8 +494,6 @@ Personuppgifter i ansökan behandlas i enlighet med Dataskyddsförordningen (GDP
 Kungsbacka kommun registreras det som allmän handling och dina personuppgifter sparas för att kunna hantera Kungsbacka
 ärendet. Läs mer om dataskydd och hur vi hanterar dina personuppgifter på www.kungsbacka.se/dataskydd 1 (2)
 Namn a Personnummer
-
-abe a |
 
 | Aktivitetshuset Regnbågen ID. |
 Adress
@@ -518,23 +507,27 @@ Postnummer och postort
 E-post Telefonnummer
 AN |
 Namn på person som är behjälplig med ansökan Telefonnummer - - a
-x - Kn I
 
 Ansökan avser
+
 Jyckens hunddagis, som var en sysselsättningsplats för människor med psykisk ohälsa i åldrarna 20-65 år, är
+
 | nedlagt. Istället har dessa människor börjat gå till aktivitetshuset Regnbågen, som är en kommunal verksamhet,
 och för att det ska bli en meningsfull sysselsättning för dem har vi handledare haft i uppdrag att försöka ta reda
-| på vad de själva önskar i aktivitet.
 
+| på vad de själva önskar i aktivitet.
 Det har visat sig att många har intresse av växter och natur så vi håller på att bygga upp aktiviteten ”gröna rum” i
 både inne och utomhusmiljö. Det är härligt att vara omgiven av gröna växter, men det är också stimulerande att = |
+
 | driva upp plantor från fröer för att sedan planteras ut och som resultat kanske skördas och tillagas i Regnbågens |
 kök där deltagarna har möjlighet att både laga maten som serveras och äta den. |
-
 Tanken är att deltagarna ska vara delaktiga i val av växter och att de ska få skapa en oas där de kan finna
 hjärnvila, avkoppling och samtidigt få livsinspiration.
+
 | I Regnbågens trädgård finns idag ett litet land, några pallkragar och ett äppelträd. Själva aktivitetshuset har
+
 | rabatter på kortsidorna, så det finns utrymme för utveckling samt underhåll av det som redan är befintligt. Men
+
 | då det råder sparbeting i Kommunen testar vi här med Erik Hjälmlövs stiftelse. |
 
 Bifoga följande dokument. Samtliga dokument krävs för att din ansökan ska kunna behandlas.
@@ -546,9 +539,8 @@ CJ Kopia av den senaste inkomstdeklarationen |
 
 För eventuell utbetalning, ange bank samt clearing- och kontonummer
 
-Datum Underskrift
+Datum — Underskrift
 
-R021-03-08 |
 Fylls i av Individ & Familjeomsorg/Våkxd & Omsorg
 Handläggare
 
@@ -563,6 +555,8 @@ Box 104 14 Storgatan 37 0300-83 40 00 individochfamiljeomsorgÅMkungsbacka.se
 434 24 Kungsbacka Fax vardochomsorg(Mkungsbacka.se
 
 0300-703 99 www.kungsbacka.se
+
+KUB6000, 2.0, 2019-06-04
 
 <!-- sida 19 -->
 
@@ -1053,23 +1047,28 @@ ekonomistyrprinciperna är det nämnden som ansvarar för att prioritera riskern
 I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns med beskrivning i tabellen nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-11
-tehkilonnaS
 4        8       12        16
+
 4
+
 3        6        9        12
 2 9
 3
+
 2        4        6        8
 1 3 4 5 6
 2                    7 8
+
 1        2        3        4
+
 1
+
 1        2         3        4
 Konsekvens
+
 •  •
 2 Hög 7 Medel Totalt: 9
+
 Kritisk        Sannolikhet           Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den inte
@@ -1081,6 +1080,10 @@ berörda intressenter och kommunen)
 år                    intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
+
+11
+
+Sannolikhet
 
 <!-- sida 33 -->
 
@@ -1104,68 +1107,55 @@ Intern kontrollplan 2022
 
 <!-- sida 34 -->
 
-13
-
-kommunen)
-
-senaste
-
-åren.
-semesterlagen
-intressenter
-och
-gott
-resultat
-de
-efterlevnad
-av
-berörda
-genomförts
-med
-3\.
-Vanligt
-Bristande
-besvärande
-för
-förvaltningar
-har
-ande
-risk:
-(uppfattas
-som
-avseende
-KS
-Personal
-Kommunövergrip
-3\.
-Kännbar
-Granskning risk
-ej
-tas
-till
-plan
-Kategorier
-Risker
-Sannolikhet
-Konsekvens
-Anledning
-till
-att
-5.2
-Risker
-\-
-Ej
-till
-plan
-Intern
-kontrollplan
-2022
-Nämnden
-för
-Kommunstyrelsen
-Kungsbacka
-kommun
 ■
+
+Näm nden fö r Komm uns tyre lsen
+
+Kungsbacka komm un
+
+In te rn kon tro llp lan 2022
+
+5 .2 R isker - E j till p lan
+
+An ledn ing till a tt
+
+Ka tego rier
+
+R isker
+
+Sanno likhe t
+
+Konsekvens
+
+risk e j tas till p lan
+
+Persona l
+
+Komm unöverg rip
+
+3 . Kännba r G ranskn ing
+
+ande risk :
+
+(upp fa ttas som avseende KS
+
+B ris tande
+
+besvä rande fö r fö rva ltn inga r ha r
+
+e fterlevnad av
+
+3 . Van lig t
+
+be rö rda genom fö rts m ed
+
+sem es terlagen
+
+in tressen te r och go tt resu lta t de
+
+komm unen ) senas te å ren .
+
+13
 
 <!-- sida 35 -->
 
@@ -5427,9 +5417,6 @@ Registreringsbeviset är skapat av Bolagsverket.
 
 <!-- sida 222 -->
 
-Kartbilaga
-
-1
 GRANSER
 Plaoornr.i\<los,racsooiiSt!J.cvOO:\~
 \-  --  1..mondnin\~s,;;riio\~ e\<iilll Bover\\,.et
@@ -5476,6 +5463,8 @@ Upprättad 18 november 2019
 ORIENTERINGSKARTA                                                vld .a. ,\~Lucmnnh:ir..,sws,ohn., f pjan A pj ll a n n , a - rl K :. : ,t i . r , i k n t Ljun;imo.n
 PLANKARTA
 
+K artb ilaga 1
+
 <!-- sida 223 -->
 
 Kartbilaga 2
@@ -5490,12 +5479,11 @@ Il
 
 <!-- sida 224 -->
 
-Kartbilaga
-
-3
 BYA
 3020m'
+
 \>\~<     .    ..
+
 ,\_
 ... .. '\~...:
 .• ">\<i<
@@ -5505,6 +5493,8 @@ Arkitektbyr n
 Design.
 <
 I I I I     \\
+
+K artb ilaga 3
 
 <!-- sida 225 -->
 
@@ -5883,20 +5873,19 @@ Hålgårdsvägen 6 E-post larsQfastkoll.se F-skatt
 
 <!-- sida 236 -->
 
-N 6368108
-603823
-E
-1:9 207
-Koordinatsystem
-SWEREF
-99
-TM
-N 6370589
-E
-330115
 LANTMÄTERIET
+N 6370589
+
 \------
+
+N 6368108 1:9 207
 Tänk på att gränserna i kartan inte alltid stämmer överens med verkligheten och de är inte juridiskt gällande. © Lantmäteriet
+
+E 328306
+
+E 330115
+
+Koord ina tsystem SW EREF 99 TM
 
 <!-- sida 237 -->
 
@@ -6028,35 +6017,27 @@ Foto taget åt sydöst, från planområdets nordvästra del.
 
 <!-- sida 241 -->
 
-N 6344166
-069413
-E
-1:179 324
-Koordinatsystem
-SWEREF
-99
-TM
-N 6392486
-E
-350096
 LANTMÄTERIET
+N 6392486
+
 · 153 7-
 769
+N 6344166 1:179 324
 Tänk på att gränserna i kartan inte alltid stämmer överens med verkligheten och de är inte juridiskt gällande. © Lantmäteriet
+
+E 314960
+
+E 350096
+
+Koord ina tsystem SW EREF 99 TM
 
 <!-- sida 242 -->
 
 — — X=6368400
 
-O006GL=A
-
 +8.5
 
 ÄSKATORP
-
-=Å
-
-00Z6GL
 
 +5
 
@@ -6282,6 +6263,10 @@ PBL 2010:900 med standardförfarande
 
 FJP32
 
+O006GL=A
+
+00Z6GL
+
 <!-- sida 243 -->
 
 Bilaga 6
@@ -6351,106 +6336,124 @@ strategi AB, Newsec Advice AB, Savills Sweden AB och Svefa AB. De är utarbetade
 Sektionen För Fastighetsvärdering inom Samhällsbyggarna och är avsedda för auktoriserade värderare inom Samhällsbyggarna. Villkoren
 gäller från 2010-12-01 vid värdering av hela, delar av fastigheter, tomträtter, byggnader på ofri grund eller liknande värderingsuppdrag inom
 Sverige. Såvitt ej annat framgår av värdeutlåtandet gäller följande;
+
 1 Värdeutlåtandets omfattning
-1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast 3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
-egendom eller motsvarande med tillhörande rättigheter och inte för den skada som kan åsamkas uppdragsgivaren eller
-skyldigheter i form av servitut, ledningsrätt, samfälligheter tredje man som en konsekvens av att värdebedömningen är
-och övriga rättigheter eller skyldigheter som framgår av ut- felaktig på grund av att värderingsobjektet är i behov av
-drag från Fastighetsregistret hänförligt till värderingsobjektet. sanering eller att det föreligger någon annan form av
-miljömässig belastning.
+1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast
+egendom eller motsvarande med tillhörande rättigheter och
+skyldigheter i form av servitut, ledningsrätt, samfälligheter
+och övriga rättigheter eller skyldigheter som framgår av ut-
+drag från Fastighetsregistret hänförligt till värderingsobjektet.
 1.2 Värdeutlåtandet omfattar även, i förekommande fall, till
-värderingsobjektet hörande fastighetstillbehör och byggnads- 4 Besiktning, tekniskt skick
-tillbehör, dock ej industritillbehör i annan omfattning än vad 4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
-som framgår av utlåtandet.         som beskrivs i utlåtandet är baserad på översiktlig okulär
-besiktning. Utförd besiktning har ej varit av sådan karaktär att
-1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från den uppfyller säljarens upplysningsplikt eller köparens under-
-Fastighetsregistret. Den information som erhållits genom sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
-Fastighetsregistret har förutsatts vara korrekt och fullständig, objektet förutsätts ha det skick och den standard som okulär-
-varför ytterligare utredning av legala förhållanden och besiktningen indikerade vid besiktningstillfället.
+värderingsobjektet hörande fastighetstillbehör och byggnads-
+tillbehör, dock ej industritillbehör i annan omfattning än vad
+som framgår av utlåtandet.
+1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från
+Fastighetsregistret. Den information som erhållits genom
+Fastighetsregistret har förutsatts vara korrekt och fullständig,
+varför ytterligare utredning av legala förhållanden och
 dispositionsrätt ej vidtagits. Vad gäller legala förhållanden
-utöver vad som framgår av Fastighetsregistret har dessa 4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
-enbart beaktats i den omfattning information därom lämnats förhållanden på egendomen, under marken eller i byggnaden,
-skriftligen av uppdragsgivaren/ägaren eller dennes ombud. som skulle påverka värdet. Inget ansvar tas för
+utöver vad som framgår av Fastighetsregistret har dessa
+enbart beaktats i den omfattning information därom lämnats
+skriftligen av uppdragsgivaren/ägaren eller dennes ombud.
 Förutom det som framgår av utdrag från Fastighetsregistret
-• sådant som skulle kräva specialistkompetens eller speciella
 samt av uppgifter som lämnats av uppdragsgivaren/ägaren
-kunskaper för att upptäcka.
 eller dennes ombud har det förutsatts att värderingsobjektet
-• funktionen (skadefriheten) och/eller konditionen hos bygg-
 inte belastas av icke inskrivna servitut, nyttjanderättsavtal
-nadsdetaljer, mekanisk utrustning, rörledningar eller
 eller andra avtal som i något avseende begränsar fastighets-
-elektriska komponenter.
 ägarens rådighet över egendomen samt att värderingsobjektet
 inte belastas av betungande utgifter, avgifter eller andra
-5 Ansvar
 gravationer. Vidare har det förutsatts att värderingsobjektet
-5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
 inte är föremål för tvist i något avseende.
-följd av fel i värdeutlåtandet skall framställas inom ett år från
-värderingstidpunkten (datum för undertecknande av värde-
 2 Förutsättningar för värdeutlåtande
-ringen).
 2.1 Den information som innefattas i värdeutlåtandet har in-
 samlats från källor som bedömts vara tillförlitliga. Samtliga
-5.2 Det maximala skadestånd som kan utgå för påvisad skada till
 uppgifter som erhållits genom uppdragsgivaren/ägaren eller
-följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
 dennes ombud och eventuella nyttjanderättshavare, har
-ringstidpunkten.
 förutsatts vara korrekta. Uppgifterna har endast kontrollerats
 genom en allmän rimlighetsbedömning. Vidare har förutsatts
-6 Värdeutlåtandets aktualitet
 att inget av relevans för värdebedömningen har utelämnats av
-6.1 Beroende på att de faktorer som påverkar värderingsobjektets
 uppdragsgivaren/ägaren eller dennes ombud.
-marknadsvärde förändras över tiden är den värdebedömning
-som återges i utlåtandet gällande endast vid värdetidpunkten
 2.2 De areor som läggs till grund för värderingen har erhållits
-med de förutsättningar och reservationer som angivits i utlå-
 genom uppdragsgivaren/ägaren eller dennes ombud. Värde-
-tandet.
 raren har förlitat sig på dessa areor och har inte mätt upp dem
 på plats eller på ritningar, men areorna har kontrollerats
-6.2 Framtida in- och utbetalningar samt värdeutveckling som
 genom en rimlighetsbedömning. Areorna har förutsatts vara
-redovisas i utlåtandet i förekommande fall, har gjorts utifrån
 uppmätta i enlighet med vid varje tillfälle gällande ”Svensk
-ett scenario som, enligt värderarens uppfattning, återspeglar
 Standard”.
-fastighetsmarknadens förväntningar om framtiden. Värdebe-
-dömningen innebär inte någon utfästelse om faktisk framtida
 2.3 Vad avser hyres- och arrendeförhållanden eller andra
-kassaflödes- och värdeutveckling.
 nyttjanderätter, har värdebedömningen i förekommande fall
 utgått från gällande hyres- och arrendeavtal samt övriga
-7 Värdeutlåtandets användande
 nyttjanderättsavtal. Kopior av dessa eller andra handlingar
-7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
 utvisande relevanta villkor har erhållits av uppdrags-
-uppdragsgivaren och skall användas i sin helhet till det syfte
 givaren/ägaren eller dennes ombud.
-som anges i utlåtandet.
 2.4 Värderingsobjektet förutsätts dels uppfylla alla erforderliga
-7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
 myndighetskrav och för fastigheten gällande villkor, såsom
-värderaren endast för direkt eller indirekt skada som kan
 planförhållanden etc, dels ha erhållit alla erforderliga myndig-
-drabba uppdragsgivaren om utlåtandet används enligt 7.1.
 hetstillstånd för dess användning på sätt som anges i ut-
-Värderaren är fri från allt ansvar för skada som drabbat tredje
 låtandet.
-man till följd av att denne använt sig av värdeutlåtandet eller
-uppgifter i detta.
 3 Miljöfrågor
 3.1 Värdebedömningen gäller under förutsättningen att mark eller
-7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
 byggnader inom värderingsobjektet inte är i behov av sane-
-refereras till i något annat skriftligt dokument, måste värde-
 ring eller att det föreligger någon annan form av miljömässig
-ringsföretaget godkänna innehållet och på vilket sätt
 belastning.
+
+3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
+inte för den skada som kan åsamkas uppdragsgivaren eller
+tredje man som en konsekvens av att värdebedömningen är
+felaktig på grund av att värderingsobjektet är i behov av
+sanering eller att det föreligger någon annan form av
+miljömässig belastning.
+4 Besiktning, tekniskt skick
+4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
+som beskrivs i utlåtandet är baserad på översiktlig okulär
+besiktning. Utförd besiktning har ej varit av sådan karaktär att
+den uppfyller säljarens upplysningsplikt eller köparens under-
+sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
+objektet förutsätts ha det skick och den standard som okulär-
+besiktningen indikerade vid besiktningstillfället.
+4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
+förhållanden på egendomen, under marken eller i byggnaden,
+som skulle påverka värdet. Inget ansvar tas för
+• sådant som skulle kräva specialistkompetens eller speciella
+kunskaper för att upptäcka.
+• funktionen (skadefriheten) och/eller konditionen hos bygg-
+nadsdetaljer, mekanisk utrustning, rörledningar eller
+elektriska komponenter.
+5 Ansvar
+5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
+följd av fel i värdeutlåtandet skall framställas inom ett år från
+värderingstidpunkten (datum för undertecknande av värde-
+ringen).
+5.2 Det maximala skadestånd som kan utgå för påvisad skada till
+följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
+ringstidpunkten.
+6 Värdeutlåtandets aktualitet
+6.1 Beroende på att de faktorer som påverkar värderingsobjektets
+marknadsvärde förändras över tiden är den värdebedömning
+som återges i utlåtandet gällande endast vid värdetidpunkten
+med de förutsättningar och reservationer som angivits i utlå-
+tandet.
+6.2 Framtida in- och utbetalningar samt värdeutveckling som
+redovisas i utlåtandet i förekommande fall, har gjorts utifrån
+ett scenario som, enligt värderarens uppfattning, återspeglar
+fastighetsmarknadens förväntningar om framtiden. Värdebe-
+dömningen innebär inte någon utfästelse om faktisk framtida
+kassaflödes- och värdeutveckling.
+7 Värdeutlåtandets användande
+7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
+uppdragsgivaren och skall användas i sin helhet till det syfte
+som anges i utlåtandet.
+7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
+värderaren endast för direkt eller indirekt skada som kan
+drabba uppdragsgivaren om utlåtandet används enligt 7.1.
+Värderaren är fri från allt ansvar för skada som drabbat tredje
+man till följd av att denne använt sig av värdeutlåtandet eller
+uppgifter i detta.
+7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
+refereras till i något annat skriftligt dokument, måste värde-
+ringsföretaget godkänna innehållet och på vilket sätt
 utlåtandet skall återges.
+
 2010-12-01 Ver 2
 
 <!-- sida 246 -->
@@ -7531,28 +7534,40 @@ Kungsbacka kommun                     Lokaliseringsutredning ny skola i Åsa    
 
 <!-- sida 270 -->
 
-\-
+Förstudie
 
-Förstudie                                               \\
+En förstudie för området norr om Kläppavägen upprättades
+2016\.
+
+En tät bebyggelse i form av radhus, parhus och villor
+föreslås tillsammans med områden för företag. Målet är att
+bebyggelsen ska skapa en tydlig gräns mot
+
+jordbrukslandskapet utan att det blir en barriär. Vid
+stationen föreslås flerbostadshus, företag och kontor.
+
+\-
+\\
 Bostäder
 •
 Verksamheter
-En förstudie för området norr om Kläppavägen upprättades Verksamheter/Bostäder
+Verksamheter/Bostäder
 •
-2016\.                                         Tågstation/Pendelparkering
+Tågstation/Pendelparkering
 Inget fastighetsägarintresse
 i nuläget
 1-4
-En tät bebyggelse i form av radhus, parhus och villor - Prioriteri ngsordn ing
+\-    Prioriteri ngsordn ing
 -e--
 Framtida vägkorsning/
-föreslås tillsammans med områden för företag. Målet är att knutpunkt med potential
-bebyggelsen ska skapa en tydlig gräns mot     Möjliga infarter. Läget ska
+knutpunkt med potential
+Möjliga infarter. Läget ska
 utredas i detaljplaneskedet.
-jordbrukslandskapet utan att det blir en barriär. Vid OBS! Den fördjupade översiktsplanen gäller,
+OBS! Den fördjupade översiktsplanen gäller,
 men i nuläget föreslås ny markanvändning
-stationen föreslås flerbostadshus, företag och kontor. endast för de fastigheter där det finns fastig
+endast för de fastigheter där det finns fastig
 hetsägare med intresse för planläggning.
+
 I förstudien föreslås bostäder. Eftersom varken FÖP eller
 förstudie pekar ut områden för kommunal service som
 skola, ska delar av områden utpekade för bostäder användas
@@ -7562,18 +7577,22 @@ t
 \~
 ·\~  -· fis \                I
 \--
--·\~     . .
+-·\~    . .
 Planerings-    och
 Förstudie för området norr om Kläppavägen
 byggprocessen
 Efter att en plats beslutats behöver en detaljplan upprättas innan skolan kan uppföras. Processen med detaljplaneläggning, projektering och byggnation förväntas
 ta 4-5 år från beslut om planuppdrag. Enligt lokalplanen ska den nya skolan vara färdig 2026. För att effektivisera processen kan vissa moment göras parallellt.
-Ffii,HAI                       FMH+E
+
+Ffii,HAI                        FMH+E
 •11m■    -                   Samråd    Granskning
-2021      I       2022              2023            2024        2025              2026 -
+
+2021      I       2022               2023           2024        2025              2026 -
 Fi@iill:@HE
 Projektering      Byggnation
+
 Exempel på möjlig tidplan med samordning mellan detaljplane‐, markköps‐ och byggprocess.
+
 Kungsbacka kommun                     Lokaliseringsutredning ny skola i Åsa                  Sida 5 av 17
 
 <!-- sida 271 -->
@@ -8239,79 +8258,137 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu-
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
 och boenden.
-Handläggningen av lokalbehoven behöver ske enligt ned-
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings-
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering.
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade
-Prioriteringsprincipen i fallande ordning:
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk-
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur-
-tige.                                        omvandlingar och som ger minskade
-driftskostnader samt lokalbehov på
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
 
 Behov   Insamling Förstudie Projektering Genomför- Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
 
 44 Kommunbudget 2022 och plan 2023–2024
 
 <!-- sida 294 -->
 
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2022–2026
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2022–2026. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Service avseende både investeringsutgifter samt drifts-
+kostnader. Lokalplanen bereds utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 INVESTERING OCH EXPLOATERING
 
 Nya hyror för lokalinvesteringar samt inhyrda boenden
-• Lokallösningar ska föreslås och väljas utifrån att budgeteras centralt och nämnden erhåller ram motsva-
-”Minska behovet av att bygga nytt genom att samut- rande 80 procent av hyran när lokalen är klar att tas i bruk.
-nyttja och bygga mer flexibelt” vilket innebär att loka- Resterande 20 procent finansieras inom respektive nämnds
-ler eller lokaldelar så långt det är möjligt planeras för ram. Ramtilldelning utgår inte för verksamhetsanpass-
-att kunna samnyttjas och användas för flera ändamål. ningar av lokaler.
-• Investeringar i egenägda lokaler ska genomföras om
-verksamheten har ett långsiktigt lokalbehov. Investeringsbudget och hyresmedel för lokaler och boen-
-• Inhyrning ska prövas som ett alternativ till att äga den tillhör kommunstyrelsen och kommunstyrelsen kan
-fastigheter, och väljas om det råder osäkerhet om verk- justera mellan olika lokalprojekt under året.
-samhetens framtida innehåll och/eller omfattning och
-med hänsyn till behovstid eller om investeringsmedel Projekt i lokalplanen får startas upp om de understiger 15
-saknas för egna investeringar.  miljoner i investeringsbelopp. För projekt som överstiger
-• Arbetet med lokalförsörjning ska bedrivas genom ett 15 miljoner kronor ska igångsättning beslutas av kommun-
-tätt samarbete med berörda förvaltningar. styrelsen.
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
 
-Lokalbehov 2022–2026
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får startas upp om de understiger 15
+miljoner i investeringsbelopp. För projekt som överstiger
+15 miljoner kronor ska igångsättning beslutas av kommun-
+styrelsen.
+
 I samband med kommunens investering i nya loka-
-Nämnderna i Kungsbacka kommun har lämnat in bostads- ler avsätts 1 procent av byggutgiften till konstnärlig
-och lokalbehov för perioden 2022–2026. Nämndernas utsmyckning. Nämnden för Kultur & Fritid får ansvaret
-beslutade behov uttrycks i volymmått, till exempel antal att upphandla och besluta om den konstnärliga utsmyck-
-platser, antal elever eller antal förskolebarn. Behoven ningen. Ett särskilt belopp avsätts som kan fördelas olika
-bearbetas och kostnadsbedöms utifrån nyckeltal framtagna mellan de lokaler som byggs. Det innebär att det inte alltid
-av Service avseende både investeringsutgifter samt drifts- blir 1 procent i konstnärlig utsmyckning per lokal utan
-kostnader. Lokalplanen bereds utifrån ett planerings- och det kan variera mellan olika lokaler men det blir alltid
-genomförandeperspektiv samt med utgångspunkt i ovan max 1 procent totalt per år. Gäller bara byggnaderna. Vid
-nämnda principer.                 investeringar i infrastruktur (gator och vägar mm) samt i
+ler avsätts 1 procent av byggutgiften till konstnärlig
+utsmyckning. Nämnden för Kultur & Fritid får ansvaret
+att upphandla och besluta om den konstnärliga utsmyck-
+ningen. Ett särskilt belopp avsätts som kan fördelas olika
+mellan de lokaler som byggs. Det innebär att det inte alltid
+blir 1 procent i konstnärlig utsmyckning per lokal utan
+det kan variera mellan olika lokaler men det blir alltid
+max 1 procent totalt per år. Gäller bara byggnaderna. Vid
+investeringar i infrastruktur (gator och vägar mm) samt i
 de fall kommunen hyr in lokal från extern fastighetsägare
 får ställning tas till konstnärlig utsmyckning i varje enskilt
 projekt.
@@ -8385,117 +8462,165 @@ för att fungera både som förskole- och skollokaler. Kommunens behov om utbygg
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 207 Fjärås Må förskola                         120
 224 b Liljan förskola avveckling -40
+
 226 Anneberg förskola                     120
 227 Kolla förskola                        160
-
 230 Björkris utbildningslokaler etapp 1 620
 231 Björkris utbildningslokaler etapp 2   180
 232 Trollelyckan förskola avveckling x
 233 Frillesås förskola           160
+
 234 Klockaregården förskola avveckling -160
 235 Åsa förskola etapp 1         120
-
-236 Åsa förskola etapp 2                   80
+236 Åsa förskola etapp 2                  80
 237 Åsa (Stora Loket) förskola avveckling -80
-238 Villa Emilia avveckling            x
+238 Villa Emilia avveckling           x
 239 Kvarteret Liljan förskola                  120
 324 Varlaskolan tillbyggnad 300
+
 329 Toråsskolan tillf. paviljong avveckling -100
 332 Björkris skola paviljong avveckling -100
-
 334 Frillesåsskolan paviljonger avveckling x
 335 Iserås skola                          200
-336 Åsa skola                                  500
+336 Åsa skola                                 500
 337 Åsa skola utbyggnad tillfällig lösning 150
-338 Kvarteret Liljan skola                     400
-339 Kvarteret Liljan idrottshall                x
 
+338 Kvarteret Liljan skola                    400
+339 Kvarteret Liljan idrottshall                x
 340 Klinnekärr förskola avveckling x
-341 Fjordskolan paviljong avveckling        x
+341 Fjordskolan paviljong avveckling       x
 128 Varlaskolan fullmått idrottshall x
 136 Björkris fullmått idrottshall x
 140 Iserås fullmått idrottshall                 x
-1202a Engelska skolan, skolpeng x x    x
-Summa utbildningsplatser 160 790   0  660 1 140
+
+1202a Engelska skolan, skolpeng x x   x
+Summa utbildningsplatser 160 790  0   660 1 140
 
 Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder. Nya
+förskolelokaler måste därför byggas.
+224 b Liljan förskola avveckling
+Förskola i centrala Kungsbacka måste ersättas på grund av
+att tillfälligt bygglov upphör.
+
 226 Anneberg förskola
 Området är föremål för exploatering av nya bostäder. Nya
-207 Fjärås Må förskola
 förskolelokaler måste därför byggas. Samordning sker med
-Området är föremål för exploatering av nya bostäder. Nya
 projekt 807 Anneberg vård- och omsorgsboende, projekt 414
-förskolelokaler måste därför byggas.
 Annebergs Bmss och projekt 1503 Datahall.
-224 b Liljan förskola avveckling
 227 Kolla förskola
-Förskola i centrala Kungsbacka måste ersättas på grund av
 Stort underskott av förskoleplatser i Kollaområdet ger behov
-att tillfälligt bygglov upphör.
 av förskola med 160 platser
+
 Kommunbudget 2022 och plan 2023–2024 47
 
 <!-- sida 297 -->
 
 INVESTERING OCH EXPLOATERING
 
-230 Björkris utbildningslokaler etapp 1 335 Iserås skola
-Området är föremål för exploatering av nytt bostadsområde. Delar av Iseråsskolan måste avvecklas då fastighetens har
-Nya utbildningsplatser måste därför byggas. Samordning nått sin tekniska livslängd och behöver ersättas med nya
-med projekt 136 Björkris fullmåtts idrottshall. lokaler. Samordning sker med projekt 140 Iserås fullmåtts
-idrottshall.
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 136 Björkris fullmåtts idrottshall.
 231 Björkris utbildningslokaler etapp 2
-Området är föremål för exploatering av nytt bostadsområde. 336 Åsa skola
-Nya utbildningsplatser måste därför byggas. Samordning Området är föremål för exploatering av nya bostadsområden.
-med projekt 230 utbildningslokal etapp 1. Nya utbildningsplatser måste därför byggas.
-232 Trollelyckan förskola avveckling 337 Åsa skola utbyggnad tillfällig lösning
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga Behov av ökade antal utbildningsplatser innan projekt 336
-lokaler samt att den tekniska livslängden har nått sitt slut. Åsa skola står klar. Utredning pågår.
-233 Frillesås förskola            338 Kvarteret Liljan skola
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Området är föremål för exploatering av nya bostadsområ-
-förskola.                         den. Nya utbildningsplatser måste därför byggas. Samordnas
-med projekt 339 Kvarteret liljan idrottshall och projekt 239
-234 Klockaregården förskola avveckling kvarteret Liljan förskola.
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 230 utbildningslokal etapp 1.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola.
+234 Klockaregården förskola avveckling
 Paviljong avvecklas när ny förskola projekt 233 i Frillesås
-står färdig.                      339 Kvarteret Liljan idrottshall
-Området är föremål för exploatering av nya bostadsområden.
-235 Åsa förskola etapp 1          Nya utbildningsplatser måste därför byggas. Samordnas med
-Området är föremål för exploatering av nytt bostadsområde. projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
-Nya utbildningsplatser måste därför byggas. Liljan förskola.
-236 Åsa förskola etapp 2          340 Klinnekärr förskola avveckling
-Området är föremål för exploatering av nytt bostadsområde. Paviljong måste avvecklas på grund av att tillfälligt bygglov
-Nya utbildningsplatser måste därför byggas. Samordning upphör.
+står färdig.
+
+235 Åsa förskola etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+236 Åsa förskola etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
 projekt 237 Åsa förskola avveckling.
-341 Fjordskolans paviljong avvecklas
-237 Åsa (Stora Loket) förskola avveckling Paviljong måste avvecklas på grund av att behovet flyttas till
-Paviljong avvecklas när ny förskola i Åsa står färdig projekt 335 Iseråsskolan.
-238 Villa Emilia avveckling       128 Varlaskolan fullmått idrottshall
-Avveckling av paviljong då inget behov finns och att hyresav- Varlaskolans idrottshall behöver ersättas med en ny full-
-talet löper ut.                   måttshall som tillgodoser skolverksamhetens och förenings-
-livets behov. Samordning sker med projekt 324 Varlaskolans
-239 Kvarteret Liljan förskola     tillbyggnad. Projektet startades 2019.
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut.
+239 Kvarteret Liljan förskola
 Området är föremål för exploatering av nya bostadsområden.
-Nya utbildningsplatser måste därför byggas. Samordnas med 136 Björkris fullmått idrottshall
-projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan I samband med en ny skola planeras ny fullmåtts idrotts-
-idrottshall.                      hall som tillgodoser skolverksamhetens och föreningslivets
-behov. Samordning sker med projekt 331 Björkris etapp 1.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan
+idrottshall.
 324 Varlaskolan tillbyggnad
-Om­ och tillbyggnation av skola för att ersätta befintliga 140 Iserås fullmått idrottshall
-specialsalar som nått sin tekniska livslängd och ta hand I samband med en ny skola planeras ny fullmåtts idrotts-
-om ökat elevantal inom de centrala delarna av Kungsbacka. hall som tillgodoser skolverksamhetens och föreningslivets
-Samordning sker med projekt 128 Varlaskolan fullmåtts behov. Samordning sker med projekt 335 Iserås skola.
+Om­ och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
 idrottshall. Projektet startades 2019.
-1202 a Engelska skolan skolpeng
-329 Toråsskolan tillfällig paviljong avvecklas Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-Paviljong avvecklas på grund av att tillfälligt bygglov upphör. skola till Engelska skolan enligt tilldelningsmodell för privata
-utförare inom skolverksamheten och fritidshemsverksam-
-332 Björkris skola paviljong avveckling heten.
+329 Toråsskolan tillfällig paviljong avvecklas
+Paviljong avvecklas på grund av att tillfälligt bygglov upphör.
+
+332 Björkris skola paviljong avveckling
 I samband med ny skola projekt 230 Björkris etapp 1 avveck-
 las paviljong i Björkris 1.
 334 Frillesåsskolan paviljonger avveckling
 När ny skolbyggnad i Frillesås står färdig så avvecklas 4
 stycken paviljonger då hyresavtal upphör.
 48 Kommunbudget 2022 och plan 2023–2024
+
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastighetens har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler. Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall.
+336 Åsa skola
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas.
+337 Åsa skola utbyggnad tillfällig lösning
+Behov av ökade antal utbildningsplatser innan projekt 336
+Åsa skola står klar. Utredning pågår.
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nya bostadsområ-
+den. Nya utbildningsplatser måste därför byggas. Samordnas
+med projekt 339 Kvarteret liljan idrottshall och projekt 239
+kvarteret Liljan förskola.
+339 Kvarteret Liljan idrottshall
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
+Liljan förskola.
+340 Klinnekärr förskola avveckling
+Paviljong måste avvecklas på grund av att tillfälligt bygglov
+upphör.
+341 Fjordskolans paviljong avvecklas
+Paviljong måste avvecklas på grund av att behovet flyttas till
+projekt 335 Iseråsskolan.
+
+128 Varlaskolan fullmått idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
+livets behov. Samordning sker med projekt 324 Varlaskolans
+tillbyggnad. Projektet startades 2019.
+136 Björkris fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 331 Björkris etapp 1.
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola.
+1202 a Engelska skolan skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Engelska skolan enligt tilldelningsmodell för privata
+utförare inom skolverksamheten och fritidshemsverksam-
+heten.
 
 <!-- sida 298 -->
 
@@ -8515,40 +8640,50 @@ Utformning av boende med särskild service kan vara att man bygger 12 stycken bo
 stycken gruppbostad och 6 stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-413 Bmss barn                               4
-414 Bmss Anneberg                          12
-502 Bmss Söderstaden              10
 
+413 Bmss barn                              4
+414 Bmss Anneberg                          12
+502 Bmss Söderstaden             10
 504 Bmss Björkris                     10
 505 Bostäder SBF och referensboende 10 10 10 10 10
-507 Bmss                          12
-508 a Bmss                             12
-508 b Bmss                             12
-508 c Bmss                             8
-508 d Bmss                                  2
+507 Bmss                         12
+508 a Bmss                            12
 
+508 b Bmss                            12
+508 c Bmss                            8
+508 d Bmss                                 2
 508 e Bmss                                 12
-508 f Bmss                                  6
-508 g Bmss                                      12
+508 f Bmss                                 6
+508 g Bmss                                     12
 508 h Bmss                                      6
-508 i Bmss                                      2
-508 j Bmss                 (12-)16
-510 Ordinärt boende           2   2    2    2   2
 
+508 i Bmss                                      2
+508 j Bmss                (12-)16
+510 Ordinärt boende          2    2   2    2    2
 Summa boendeplatser och lägenheter 28 34 54 48 32
 
 Noter
 
-413 Bmss barn                     504 Bmss Björkris
-Gruppbostad för barn, 4 platser.  Servicebostäder med gemensam lokal för personalstöd
-414 Bmss Anneberg                 505 Bostäder SBF och referensboende
-Behov av gruppbostäder planeras in i kommande nya Särskild bostadsförsörjningskö är avsedd för personer som
-område. Samordnas med projekt 1503 Datahall, projekt 807 inte själv kan skaffa en bostad på grund av starka sociala
-vård- och omsorgsboende Anneberg och projekt 226 Anne- och/eller medicinska skäl. Referensboende hyrs ut till kom-
-berg förskola.                    muninvånare som har starkt behov av en bostad och inte på
-egen hand har förmåga att lösa sin situation.
+413 Bmss barn
+Gruppbostad för barn, 4 platser.
+
+414 Bmss Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område. Samordnas med projekt 1503 Datahall, projekt 807
+vård- och omsorgsboende Anneberg och projekt 226 Anne-
+berg förskola.
 502 Bmss Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Bmss Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl. Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte på
+egen hand har förmåga att lösa sin situation.
 
 Kommunbudget 2022 och plan 2023–2024 49
 
@@ -8604,43 +8739,51 @@ Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal p
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende -26     40
 
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården avveckling                x
+805 Ekhaga vård- och omsorgsboende -26    40
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården avveckling               x
 809 Hemtjänstlokal Hede flytt x
-810 Pölagården avveckling     x
-Summa boendeplatser     120  -26   0  120
+810 Pölagården avveckling    x
+Summa boendeplatser     120 -26   0   120
 
 Noter
 
-803 Björkris vård- och omsorgsboende 808 Bukärrsgården avveckling
-Planering av nytt vård­ och omsorgsboende med 120 lägen- Planeras att avyttras när hyrestiden upphör.
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård­ och omsorgsboende med 120 lägen-
 heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      809 Hemtjänstlokal Hede flytt
-Planeras att samordnas med projekt 803 Björkris vård­ och
-805 Ekhaga vård- och omsorgsboende omsorgsboende.
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
 Modernisering befintligt eller nybyggnad av boendet. Avveck-
-ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe- 810 Pölagården avveckling
-ter.                              Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
-till förmån för Åsa HVB.
+ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe-
+ter.
 807 Anneberg vård- och omsorgsboende
 Planering av nytt vård­ och omsorgsboende med 80 lägenhe-
 ter i kommunen. Samordnas med projekt 1503 Datahall, pro-
 jekt 414 BMSS Anneberg och projekt 226 Anneberg förskola.
 
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör.
+
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård­ och
+omsorgsboende.
+810 Pölagården avveckling
+Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
+till förmån för Åsa HVB.
+
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-1407 Kullaviksskolan ombyggnad kök och      x
+1407 Kullaviksskolan ombyggnad kök och     x
 matsal
 1500 Kapareskolans ombyggnad kök x
 1501 Fjordskolan mottagningskök x
-
-1502 Iseråsskolan mottagningskök            x
-1503 Datahall                               x
+1502 Iseråsskolan mottagningskök           x
+1503 Datahall                              x
 1504 Toalettbyggnad Åsa camping x
+
 1505 Toalettbyggnad Gårda brygga badplats x
 
 Kommunbudget 2022 och plan 2023–2024 51
@@ -8650,40 +8793,48 @@ Kommunbudget 2022 och plan 2023–2024 51
 INVESTERING OCH EXPLOATERING
 
 Noter
-1503 Datahall
+
 1407 Kullaviksskolan ombyggnad kök och matsal
-Datahall/Serverrum och lagring för flertalet av kommunens
 Behov av att bygga om Kullaviksskolans mottagningskök och
-verksamhetssystem.
 matsal för att en förbättrad kvalitet utifrån nuvarande nivå,
 samt för en förbättrad arbetsmiljö.
-1504 Toalettbyggnad Åsa camping
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 1500 Kapareskolan ombyggnad kök
-ver ersättas.
 Den totala produktionen behöver utöka produktionskapa-
 citeten på Kapareskolans tillagningskök. Samordnas med
-1505 Toalettbyggnad Gårda brygga badplats
 projekt 1501 Fjordskolan mottagningskök och projekt 1502
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolans mottagningskök.
-ver ersättas.
 1501 Fjordskolan mottagningskök
 Nytt mottagningskök och avveckla av tre befintliga mottag-
 ningskök på skolan. Samordnas med projekt 1500 Kaparesko-
 lans ombyggnad.
+
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
 uppnått tekniskt slutdatum. Samordnas med projekt 335
 Iseråsskolan
+
+1503 Datahall
+Datahall/Serverrum och lagring för flertalet av kommunens
+verksamhetssystem.
+1504 Toalettbyggnad Åsa camping
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
+1505 Toalettbyggnad Gårda brygga badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-131 Arena inkl skyddsrum              x
+131 Arena inkl skyddsrum               x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
 1406 Duveheds omlastningsstation x
 1408 Skyddsrum Kvarteret Liljan                 x
-1410 Engångskostnader        x    x   x    x    x
+
+1410 Engångskostnader        x    x    x    x   x
+
 Noter
+
 131 Arena inklusive skyddsrum     1408 Skyddsrum Kvarteret Liljan
 Arenahall med placering söder om Kungsbacka Sportcenter. Exploateringen av kvarteret gör att befintligt skyddsrum
 måste ersättas.
@@ -8807,79 +8958,137 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu-
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
 och boenden.
-Handläggningen av lokalbehoven behöver ske enligt ned-
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings-
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering.
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade
-Prioriteringsprincipen i fallande ordning:
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk-
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur-
-tige.                                        omvandlingar och som ger minskade
-driftskostnader samt lokalbehov på
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
 
 Behov   Insamling Förstudie Projektering Genomför- Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
 
 44 Kommunbudget 2022 och plan 2023–2024
 
 <!-- sida 305 -->
 
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2022–2026
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2022–2026. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Service avseende både investeringsutgifter samt drifts-
+kostnader. Lokalplanen bereds utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 INVESTERING OCH EXPLOATERING
 
 Nya hyror för lokalinvesteringar samt inhyrda boenden
-• Lokallösningar ska föreslås och väljas utifrån att budgeteras centralt och nämnden erhåller ram motsva-
-”Minska behovet av att bygga nytt genom att samut- rande 80 procent av hyran när lokalen är klar att tas i bruk.
-nyttja och bygga mer flexibelt” vilket innebär att loka- Resterande 20 procent finansieras inom respektive nämnds
-ler eller lokaldelar så långt det är möjligt planeras för ram. Ramtilldelning utgår inte för verksamhetsanpass-
-att kunna samnyttjas och användas för flera ändamål. ningar av lokaler.
-• Investeringar i egenägda lokaler ska genomföras om
-verksamheten har ett långsiktigt lokalbehov. Investeringsbudget och hyresmedel för lokaler och boen-
-• Inhyrning ska prövas som ett alternativ till att äga den tillhör kommunstyrelsen och kommunstyrelsen kan
-fastigheter, och väljas om det råder osäkerhet om verk- justera mellan olika lokalprojekt under året.
-samhetens framtida innehåll och/eller omfattning och
-med hänsyn till behovstid eller om investeringsmedel Projekt i lokalplanen får startas upp om de understiger 15
-saknas för egna investeringar.  miljoner i investeringsbelopp. För projekt som överstiger
-• Arbetet med lokalförsörjning ska bedrivas genom ett 15 miljoner kronor ska igångsättning beslutas av kommun-
-tätt samarbete med berörda förvaltningar. styrelsen.
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
 
-Lokalbehov 2022–2026
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får startas upp om de understiger 15
+miljoner i investeringsbelopp. För projekt som överstiger
+15 miljoner kronor ska igångsättning beslutas av kommun-
+styrelsen.
+
 I samband med kommunens investering i nya loka-
-Nämnderna i Kungsbacka kommun har lämnat in bostads- ler avsätts 1 procent av byggutgiften till konstnärlig
-och lokalbehov för perioden 2022–2026. Nämndernas utsmyckning. Nämnden för Kultur & Fritid får ansvaret
-beslutade behov uttrycks i volymmått, till exempel antal att upphandla och besluta om den konstnärliga utsmyck-
-platser, antal elever eller antal förskolebarn. Behoven ningen. Ett särskilt belopp avsätts som kan fördelas olika
-bearbetas och kostnadsbedöms utifrån nyckeltal framtagna mellan de lokaler som byggs. Det innebär att det inte alltid
-av Service avseende både investeringsutgifter samt drifts- blir 1 procent i konstnärlig utsmyckning per lokal utan
-kostnader. Lokalplanen bereds utifrån ett planerings- och det kan variera mellan olika lokaler men det blir alltid
-genomförandeperspektiv samt med utgångspunkt i ovan max 1 procent totalt per år. Gäller bara byggnaderna. Vid
-nämnda principer.                 investeringar i infrastruktur (gator och vägar mm) samt i
+ler avsätts 1 procent av byggutgiften till konstnärlig
+utsmyckning. Nämnden för Kultur & Fritid får ansvaret
+att upphandla och besluta om den konstnärliga utsmyck-
+ningen. Ett särskilt belopp avsätts som kan fördelas olika
+mellan de lokaler som byggs. Det innebär att det inte alltid
+blir 1 procent i konstnärlig utsmyckning per lokal utan
+det kan variera mellan olika lokaler men det blir alltid
+max 1 procent totalt per år. Gäller bara byggnaderna. Vid
+investeringar i infrastruktur (gator och vägar mm) samt i
 de fall kommunen hyr in lokal från extern fastighetsägare
 får ställning tas till konstnärlig utsmyckning i varje enskilt
 projekt.
@@ -8953,117 +9162,165 @@ för att fungera både som förskole- och skollokaler. Kommunens behov om utbygg
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 207 Fjärås Må förskola                         120
 224 b Liljan förskola avveckling -40
+
 226 Anneberg förskola                     120
 227 Kolla förskola                        160
-
 230 Björkris utbildningslokaler etapp 1 620
 231 Björkris utbildningslokaler etapp 2   180
 232 Trollelyckan förskola avveckling x
 233 Frillesås förskola           160
+
 234 Klockaregården förskola avveckling -160
 235 Åsa förskola etapp 1         120
-
-236 Åsa förskola etapp 2                   80
+236 Åsa förskola etapp 2                  80
 237 Åsa (Stora Loket) förskola avveckling -80
-238 Villa Emilia avveckling            x
+238 Villa Emilia avveckling           x
 239 Kvarteret Liljan förskola                  120
 324 Varlaskolan tillbyggnad 300
+
 329 Toråsskolan tillf. paviljong avveckling -100
 332 Björkris skola paviljong avveckling -100
-
 334 Frillesåsskolan paviljonger avveckling x
 335 Iserås skola                          200
-336 Åsa skola                                  500
+336 Åsa skola                                 500
 337 Åsa skola utbyggnad tillfällig lösning 150
-338 Kvarteret Liljan skola                     400
-339 Kvarteret Liljan idrottshall                x
 
+338 Kvarteret Liljan skola                    400
+339 Kvarteret Liljan idrottshall                x
 340 Klinnekärr förskola avveckling x
-341 Fjordskolan paviljong avveckling        x
+341 Fjordskolan paviljong avveckling       x
 128 Varlaskolan fullmått idrottshall x
 136 Björkris fullmått idrottshall x
 140 Iserås fullmått idrottshall                 x
-1202a Engelska skolan, skolpeng x x    x
-Summa utbildningsplatser 160 790   0  660 1 140
+
+1202a Engelska skolan, skolpeng x x   x
+Summa utbildningsplatser 160 790  0   660 1 140
 
 Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder. Nya
+förskolelokaler måste därför byggas.
+224 b Liljan förskola avveckling
+Förskola i centrala Kungsbacka måste ersättas på grund av
+att tillfälligt bygglov upphör.
+
 226 Anneberg förskola
 Området är föremål för exploatering av nya bostäder. Nya
-207 Fjärås Må förskola
 förskolelokaler måste därför byggas. Samordning sker med
-Området är föremål för exploatering av nya bostäder. Nya
 projekt 807 Anneberg vård- och omsorgsboende, projekt 414
-förskolelokaler måste därför byggas.
 Annebergs Bmss och projekt 1503 Datahall.
-224 b Liljan förskola avveckling
 227 Kolla förskola
-Förskola i centrala Kungsbacka måste ersättas på grund av
 Stort underskott av förskoleplatser i Kollaområdet ger behov
-att tillfälligt bygglov upphör.
 av förskola med 160 platser
+
 Kommunbudget 2022 och plan 2023–2024 47
 
 <!-- sida 308 -->
 
 INVESTERING OCH EXPLOATERING
 
-230 Björkris utbildningslokaler etapp 1 335 Iserås skola
-Området är föremål för exploatering av nytt bostadsområde. Delar av Iseråsskolan måste avvecklas då fastighetens har
-Nya utbildningsplatser måste därför byggas. Samordning nått sin tekniska livslängd och behöver ersättas med nya
-med projekt 136 Björkris fullmåtts idrottshall. lokaler. Samordning sker med projekt 140 Iserås fullmåtts
-idrottshall.
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 136 Björkris fullmåtts idrottshall.
 231 Björkris utbildningslokaler etapp 2
-Området är föremål för exploatering av nytt bostadsområde. 336 Åsa skola
-Nya utbildningsplatser måste därför byggas. Samordning Området är föremål för exploatering av nya bostadsområden.
-med projekt 230 utbildningslokal etapp 1. Nya utbildningsplatser måste därför byggas.
-232 Trollelyckan förskola avveckling 337 Åsa skola utbyggnad tillfällig lösning
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga Behov av ökade antal utbildningsplatser innan projekt 336
-lokaler samt att den tekniska livslängden har nått sitt slut. Åsa skola står klar. Utredning pågår.
-233 Frillesås förskola            338 Kvarteret Liljan skola
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Området är föremål för exploatering av nya bostadsområ-
-förskola.                         den. Nya utbildningsplatser måste därför byggas. Samordnas
-med projekt 339 Kvarteret liljan idrottshall och projekt 239
-234 Klockaregården förskola avveckling kvarteret Liljan förskola.
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 230 utbildningslokal etapp 1.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola.
+234 Klockaregården förskola avveckling
 Paviljong avvecklas när ny förskola projekt 233 i Frillesås
-står färdig.                      339 Kvarteret Liljan idrottshall
-Området är föremål för exploatering av nya bostadsområden.
-235 Åsa förskola etapp 1          Nya utbildningsplatser måste därför byggas. Samordnas med
-Området är föremål för exploatering av nytt bostadsområde. projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
-Nya utbildningsplatser måste därför byggas. Liljan förskola.
-236 Åsa förskola etapp 2          340 Klinnekärr förskola avveckling
-Området är föremål för exploatering av nytt bostadsområde. Paviljong måste avvecklas på grund av att tillfälligt bygglov
-Nya utbildningsplatser måste därför byggas. Samordning upphör.
+står färdig.
+
+235 Åsa förskola etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+236 Åsa förskola etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
 projekt 237 Åsa förskola avveckling.
-341 Fjordskolans paviljong avvecklas
-237 Åsa (Stora Loket) förskola avveckling Paviljong måste avvecklas på grund av att behovet flyttas till
-Paviljong avvecklas när ny förskola i Åsa står färdig projekt 335 Iseråsskolan.
-238 Villa Emilia avveckling       128 Varlaskolan fullmått idrottshall
-Avveckling av paviljong då inget behov finns och att hyresav- Varlaskolans idrottshall behöver ersättas med en ny full-
-talet löper ut.                   måttshall som tillgodoser skolverksamhetens och förenings-
-livets behov. Samordning sker med projekt 324 Varlaskolans
-239 Kvarteret Liljan förskola     tillbyggnad. Projektet startades 2019.
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut.
+239 Kvarteret Liljan förskola
 Området är föremål för exploatering av nya bostadsområden.
-Nya utbildningsplatser måste därför byggas. Samordnas med 136 Björkris fullmått idrottshall
-projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan I samband med en ny skola planeras ny fullmåtts idrotts-
-idrottshall.                      hall som tillgodoser skolverksamhetens och föreningslivets
-behov. Samordning sker med projekt 331 Björkris etapp 1.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan
+idrottshall.
 324 Varlaskolan tillbyggnad
-Om­ och tillbyggnation av skola för att ersätta befintliga 140 Iserås fullmått idrottshall
-specialsalar som nått sin tekniska livslängd och ta hand I samband med en ny skola planeras ny fullmåtts idrotts-
-om ökat elevantal inom de centrala delarna av Kungsbacka. hall som tillgodoser skolverksamhetens och föreningslivets
-Samordning sker med projekt 128 Varlaskolan fullmåtts behov. Samordning sker med projekt 335 Iserås skola.
+Om­ och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
 idrottshall. Projektet startades 2019.
-1202 a Engelska skolan skolpeng
-329 Toråsskolan tillfällig paviljong avvecklas Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-Paviljong avvecklas på grund av att tillfälligt bygglov upphör. skola till Engelska skolan enligt tilldelningsmodell för privata
-utförare inom skolverksamheten och fritidshemsverksam-
-332 Björkris skola paviljong avveckling heten.
+329 Toråsskolan tillfällig paviljong avvecklas
+Paviljong avvecklas på grund av att tillfälligt bygglov upphör.
+
+332 Björkris skola paviljong avveckling
 I samband med ny skola projekt 230 Björkris etapp 1 avveck-
 las paviljong i Björkris 1.
 334 Frillesåsskolan paviljonger avveckling
 När ny skolbyggnad i Frillesås står färdig så avvecklas 4
 stycken paviljonger då hyresavtal upphör.
 48 Kommunbudget 2022 och plan 2023–2024
+
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastighetens har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler. Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall.
+336 Åsa skola
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas.
+337 Åsa skola utbyggnad tillfällig lösning
+Behov av ökade antal utbildningsplatser innan projekt 336
+Åsa skola står klar. Utredning pågår.
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nya bostadsområ-
+den. Nya utbildningsplatser måste därför byggas. Samordnas
+med projekt 339 Kvarteret liljan idrottshall och projekt 239
+kvarteret Liljan förskola.
+339 Kvarteret Liljan idrottshall
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
+Liljan förskola.
+340 Klinnekärr förskola avveckling
+Paviljong måste avvecklas på grund av att tillfälligt bygglov
+upphör.
+341 Fjordskolans paviljong avvecklas
+Paviljong måste avvecklas på grund av att behovet flyttas till
+projekt 335 Iseråsskolan.
+
+128 Varlaskolan fullmått idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
+livets behov. Samordning sker med projekt 324 Varlaskolans
+tillbyggnad. Projektet startades 2019.
+136 Björkris fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 331 Björkris etapp 1.
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola.
+1202 a Engelska skolan skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Engelska skolan enligt tilldelningsmodell för privata
+utförare inom skolverksamheten och fritidshemsverksam-
+heten.
 
 <!-- sida 309 -->
 
@@ -9083,40 +9340,50 @@ Utformning av boende med särskild service kan vara att man bygger 12 stycken bo
 stycken gruppbostad och 6 stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-413 Bmss barn                               4
-414 Bmss Anneberg                          12
-502 Bmss Söderstaden              10
 
+413 Bmss barn                              4
+414 Bmss Anneberg                          12
+502 Bmss Söderstaden             10
 504 Bmss Björkris                     10
 505 Bostäder SBF och referensboende 10 10 10 10 10
-507 Bmss                          12
-508 a Bmss                             12
-508 b Bmss                             12
-508 c Bmss                             8
-508 d Bmss                                  2
+507 Bmss                         12
+508 a Bmss                            12
 
+508 b Bmss                            12
+508 c Bmss                            8
+508 d Bmss                                 2
 508 e Bmss                                 12
-508 f Bmss                                  6
-508 g Bmss                                      12
+508 f Bmss                                 6
+508 g Bmss                                     12
 508 h Bmss                                      6
-508 i Bmss                                      2
-508 j Bmss                 (12-)16
-510 Ordinärt boende           2   2    2    2   2
 
+508 i Bmss                                      2
+508 j Bmss                (12-)16
+510 Ordinärt boende          2    2   2    2    2
 Summa boendeplatser och lägenheter 28 34 54 48 32
 
 Noter
 
-413 Bmss barn                     504 Bmss Björkris
-Gruppbostad för barn, 4 platser.  Servicebostäder med gemensam lokal för personalstöd
-414 Bmss Anneberg                 505 Bostäder SBF och referensboende
-Behov av gruppbostäder planeras in i kommande nya Särskild bostadsförsörjningskö är avsedd för personer som
-område. Samordnas med projekt 1503 Datahall, projekt 807 inte själv kan skaffa en bostad på grund av starka sociala
-vård- och omsorgsboende Anneberg och projekt 226 Anne- och/eller medicinska skäl. Referensboende hyrs ut till kom-
-berg förskola.                    muninvånare som har starkt behov av en bostad och inte på
-egen hand har förmåga att lösa sin situation.
+413 Bmss barn
+Gruppbostad för barn, 4 platser.
+
+414 Bmss Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område. Samordnas med projekt 1503 Datahall, projekt 807
+vård- och omsorgsboende Anneberg och projekt 226 Anne-
+berg förskola.
 502 Bmss Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Bmss Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl. Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte på
+egen hand har förmåga att lösa sin situation.
 
 Kommunbudget 2022 och plan 2023–2024 49
 
@@ -9172,43 +9439,51 @@ Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal p
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende -26     40
 
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården avveckling                x
+805 Ekhaga vård- och omsorgsboende -26    40
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården avveckling               x
 809 Hemtjänstlokal Hede flytt x
-810 Pölagården avveckling     x
-Summa boendeplatser     120  -26   0  120
+810 Pölagården avveckling    x
+Summa boendeplatser     120 -26   0   120
 
 Noter
 
-803 Björkris vård- och omsorgsboende 808 Bukärrsgården avveckling
-Planering av nytt vård­ och omsorgsboende med 120 lägen- Planeras att avyttras när hyrestiden upphör.
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård­ och omsorgsboende med 120 lägen-
 heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      809 Hemtjänstlokal Hede flytt
-Planeras att samordnas med projekt 803 Björkris vård­ och
-805 Ekhaga vård- och omsorgsboende omsorgsboende.
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
 Modernisering befintligt eller nybyggnad av boendet. Avveck-
-ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe- 810 Pölagården avveckling
-ter.                              Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
-till förmån för Åsa HVB.
+ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe-
+ter.
 807 Anneberg vård- och omsorgsboende
 Planering av nytt vård­ och omsorgsboende med 80 lägenhe-
 ter i kommunen. Samordnas med projekt 1503 Datahall, pro-
 jekt 414 BMSS Anneberg och projekt 226 Anneberg förskola.
 
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör.
+
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård­ och
+omsorgsboende.
+810 Pölagården avveckling
+Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
+till förmån för Åsa HVB.
+
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-1407 Kullaviksskolan ombyggnad kök och      x
+1407 Kullaviksskolan ombyggnad kök och     x
 matsal
 1500 Kapareskolans ombyggnad kök x
 1501 Fjordskolan mottagningskök x
-
-1502 Iseråsskolan mottagningskök            x
-1503 Datahall                               x
+1502 Iseråsskolan mottagningskök           x
+1503 Datahall                              x
 1504 Toalettbyggnad Åsa camping x
+
 1505 Toalettbyggnad Gårda brygga badplats x
 
 Kommunbudget 2022 och plan 2023–2024 51
@@ -9218,40 +9493,48 @@ Kommunbudget 2022 och plan 2023–2024 51
 INVESTERING OCH EXPLOATERING
 
 Noter
-1503 Datahall
+
 1407 Kullaviksskolan ombyggnad kök och matsal
-Datahall/Serverrum och lagring för flertalet av kommunens
 Behov av att bygga om Kullaviksskolans mottagningskök och
-verksamhetssystem.
 matsal för att en förbättrad kvalitet utifrån nuvarande nivå,
 samt för en förbättrad arbetsmiljö.
-1504 Toalettbyggnad Åsa camping
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 1500 Kapareskolan ombyggnad kök
-ver ersättas.
 Den totala produktionen behöver utöka produktionskapa-
 citeten på Kapareskolans tillagningskök. Samordnas med
-1505 Toalettbyggnad Gårda brygga badplats
 projekt 1501 Fjordskolan mottagningskök och projekt 1502
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolans mottagningskök.
-ver ersättas.
 1501 Fjordskolan mottagningskök
 Nytt mottagningskök och avveckla av tre befintliga mottag-
 ningskök på skolan. Samordnas med projekt 1500 Kaparesko-
 lans ombyggnad.
+
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
 uppnått tekniskt slutdatum. Samordnas med projekt 335
 Iseråsskolan
+
+1503 Datahall
+Datahall/Serverrum och lagring för flertalet av kommunens
+verksamhetssystem.
+1504 Toalettbyggnad Åsa camping
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
+1505 Toalettbyggnad Gårda brygga badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-131 Arena inkl skyddsrum              x
+131 Arena inkl skyddsrum               x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
 1406 Duveheds omlastningsstation x
 1408 Skyddsrum Kvarteret Liljan                 x
-1410 Engångskostnader        x    x   x    x    x
+
+1410 Engångskostnader        x    x    x    x   x
+
 Noter
+
 131 Arena inklusive skyddsrum     1408 Skyddsrum Kvarteret Liljan
 Arenahall med placering söder om Kungsbacka Sportcenter. Exploateringen av kvarteret gör att befintligt skyddsrum
 måste ersättas.
@@ -9373,79 +9656,137 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu-
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
 och boenden.
-Handläggningen av lokalbehoven behöver ske enligt ned-
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings-
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering.
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade
-Prioriteringsprincipen i fallande ordning:
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk-
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur-
-tige.                                        omvandlingar och som ger minskade
-driftskostnader samt lokalbehov på
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
 
 Behov   Insamling Förstudie Projektering Genomför- Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
 
 44 Kommunbudget 2022 och plan 2023–2024
 
 <!-- sida 316 -->
 
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2022–2026
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2022–2026. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Service avseende både investeringsutgifter samt drifts-
+kostnader. Lokalplanen bereds utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 INVESTERING OCH EXPLOATERING
 
 Nya hyror för lokalinvesteringar samt inhyrda boenden
-• Lokallösningar ska föreslås och väljas utifrån att budgeteras centralt och nämnden erhåller ram motsva-
-”Minska behovet av att bygga nytt genom att samut- rande 80 procent av hyran när lokalen är klar att tas i bruk.
-nyttja och bygga mer flexibelt” vilket innebär att loka- Resterande 20 procent finansieras inom respektive nämnds
-ler eller lokaldelar så långt det är möjligt planeras för ram. Ramtilldelning utgår inte för verksamhetsanpass-
-att kunna samnyttjas och användas för flera ändamål. ningar av lokaler.
-• Investeringar i egenägda lokaler ska genomföras om
-verksamheten har ett långsiktigt lokalbehov. Investeringsbudget och hyresmedel för lokaler och boen-
-• Inhyrning ska prövas som ett alternativ till att äga den tillhör kommunstyrelsen och kommunstyrelsen kan
-fastigheter, och väljas om det råder osäkerhet om verk- justera mellan olika lokalprojekt under året.
-samhetens framtida innehåll och/eller omfattning och
-med hänsyn till behovstid eller om investeringsmedel Projekt i lokalplanen får startas upp om de understiger 15
-saknas för egna investeringar.  miljoner i investeringsbelopp. För projekt som överstiger
-• Arbetet med lokalförsörjning ska bedrivas genom ett 15 miljoner kronor ska igångsättning beslutas av kommun-
-tätt samarbete med berörda förvaltningar. styrelsen.
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
 
-Lokalbehov 2022–2026
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får startas upp om de understiger 15
+miljoner i investeringsbelopp. För projekt som överstiger
+15 miljoner kronor ska igångsättning beslutas av kommun-
+styrelsen.
+
 I samband med kommunens investering i nya loka-
-Nämnderna i Kungsbacka kommun har lämnat in bostads- ler avsätts 1 procent av byggutgiften till konstnärlig
-och lokalbehov för perioden 2022–2026. Nämndernas utsmyckning. Nämnden för Kultur & Fritid får ansvaret
-beslutade behov uttrycks i volymmått, till exempel antal att upphandla och besluta om den konstnärliga utsmyck-
-platser, antal elever eller antal förskolebarn. Behoven ningen. Ett särskilt belopp avsätts som kan fördelas olika
-bearbetas och kostnadsbedöms utifrån nyckeltal framtagna mellan de lokaler som byggs. Det innebär att det inte alltid
-av Service avseende både investeringsutgifter samt drifts- blir 1 procent i konstnärlig utsmyckning per lokal utan
-kostnader. Lokalplanen bereds utifrån ett planerings- och det kan variera mellan olika lokaler men det blir alltid
-genomförandeperspektiv samt med utgångspunkt i ovan max 1 procent totalt per år. Gäller bara byggnaderna. Vid
-nämnda principer.                 investeringar i infrastruktur (gator och vägar mm) samt i
+ler avsätts 1 procent av byggutgiften till konstnärlig
+utsmyckning. Nämnden för Kultur & Fritid får ansvaret
+att upphandla och besluta om den konstnärliga utsmyck-
+ningen. Ett särskilt belopp avsätts som kan fördelas olika
+mellan de lokaler som byggs. Det innebär att det inte alltid
+blir 1 procent i konstnärlig utsmyckning per lokal utan
+det kan variera mellan olika lokaler men det blir alltid
+max 1 procent totalt per år. Gäller bara byggnaderna. Vid
+investeringar i infrastruktur (gator och vägar mm) samt i
 de fall kommunen hyr in lokal från extern fastighetsägare
 får ställning tas till konstnärlig utsmyckning i varje enskilt
 projekt.
@@ -9519,117 +9860,165 @@ för att fungera både som förskole- och skollokaler. Kommunens behov om utbygg
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 207 Fjärås Må förskola                         120
 224 b Liljan förskola avveckling -40
+
 226 Anneberg förskola                     120
 227 Kolla förskola                        160
-
 230 Björkris utbildningslokaler etapp 1 620
 231 Björkris utbildningslokaler etapp 2   180
 232 Trollelyckan förskola avveckling x
 233 Frillesås förskola           160
+
 234 Klockaregården förskola avveckling -160
 235 Åsa förskola etapp 1         120
-
-236 Åsa förskola etapp 2                   80
+236 Åsa förskola etapp 2                  80
 237 Åsa (Stora Loket) förskola avveckling -80
-238 Villa Emilia avveckling            x
+238 Villa Emilia avveckling           x
 239 Kvarteret Liljan förskola                  120
 324 Varlaskolan tillbyggnad 300
+
 329 Toråsskolan tillf. paviljong avveckling -100
 332 Björkris skola paviljong avveckling -100
-
 334 Frillesåsskolan paviljonger avveckling x
 335 Iserås skola                          200
-336 Åsa skola                                  500
+336 Åsa skola                                 500
 337 Åsa skola utbyggnad tillfällig lösning 150
-338 Kvarteret Liljan skola                     400
-339 Kvarteret Liljan idrottshall                x
 
+338 Kvarteret Liljan skola                    400
+339 Kvarteret Liljan idrottshall                x
 340 Klinnekärr förskola avveckling x
-341 Fjordskolan paviljong avveckling        x
+341 Fjordskolan paviljong avveckling       x
 128 Varlaskolan fullmått idrottshall x
 136 Björkris fullmått idrottshall x
 140 Iserås fullmått idrottshall                 x
-1202a Engelska skolan, skolpeng x x    x
-Summa utbildningsplatser 160 790   0  660 1 140
+
+1202a Engelska skolan, skolpeng x x   x
+Summa utbildningsplatser 160 790  0   660 1 140
 
 Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder. Nya
+förskolelokaler måste därför byggas.
+224 b Liljan förskola avveckling
+Förskola i centrala Kungsbacka måste ersättas på grund av
+att tillfälligt bygglov upphör.
+
 226 Anneberg förskola
 Området är föremål för exploatering av nya bostäder. Nya
-207 Fjärås Må förskola
 förskolelokaler måste därför byggas. Samordning sker med
-Området är föremål för exploatering av nya bostäder. Nya
 projekt 807 Anneberg vård- och omsorgsboende, projekt 414
-förskolelokaler måste därför byggas.
 Annebergs Bmss och projekt 1503 Datahall.
-224 b Liljan förskola avveckling
 227 Kolla förskola
-Förskola i centrala Kungsbacka måste ersättas på grund av
 Stort underskott av förskoleplatser i Kollaområdet ger behov
-att tillfälligt bygglov upphör.
 av förskola med 160 platser
+
 Kommunbudget 2022 och plan 2023–2024 47
 
 <!-- sida 319 -->
 
 INVESTERING OCH EXPLOATERING
 
-230 Björkris utbildningslokaler etapp 1 335 Iserås skola
-Området är föremål för exploatering av nytt bostadsområde. Delar av Iseråsskolan måste avvecklas då fastighetens har
-Nya utbildningsplatser måste därför byggas. Samordning nått sin tekniska livslängd och behöver ersättas med nya
-med projekt 136 Björkris fullmåtts idrottshall. lokaler. Samordning sker med projekt 140 Iserås fullmåtts
-idrottshall.
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 136 Björkris fullmåtts idrottshall.
 231 Björkris utbildningslokaler etapp 2
-Området är föremål för exploatering av nytt bostadsområde. 336 Åsa skola
-Nya utbildningsplatser måste därför byggas. Samordning Området är föremål för exploatering av nya bostadsområden.
-med projekt 230 utbildningslokal etapp 1. Nya utbildningsplatser måste därför byggas.
-232 Trollelyckan förskola avveckling 337 Åsa skola utbyggnad tillfällig lösning
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga Behov av ökade antal utbildningsplatser innan projekt 336
-lokaler samt att den tekniska livslängden har nått sitt slut. Åsa skola står klar. Utredning pågår.
-233 Frillesås förskola            338 Kvarteret Liljan skola
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Området är föremål för exploatering av nya bostadsområ-
-förskola.                         den. Nya utbildningsplatser måste därför byggas. Samordnas
-med projekt 339 Kvarteret liljan idrottshall och projekt 239
-234 Klockaregården förskola avveckling kvarteret Liljan förskola.
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 230 utbildningslokal etapp 1.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola.
+234 Klockaregården förskola avveckling
 Paviljong avvecklas när ny förskola projekt 233 i Frillesås
-står färdig.                      339 Kvarteret Liljan idrottshall
-Området är föremål för exploatering av nya bostadsområden.
-235 Åsa förskola etapp 1          Nya utbildningsplatser måste därför byggas. Samordnas med
-Området är föremål för exploatering av nytt bostadsområde. projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
-Nya utbildningsplatser måste därför byggas. Liljan förskola.
-236 Åsa förskola etapp 2          340 Klinnekärr förskola avveckling
-Området är föremål för exploatering av nytt bostadsområde. Paviljong måste avvecklas på grund av att tillfälligt bygglov
-Nya utbildningsplatser måste därför byggas. Samordning upphör.
+står färdig.
+
+235 Åsa förskola etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+236 Åsa förskola etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
 projekt 237 Åsa förskola avveckling.
-341 Fjordskolans paviljong avvecklas
-237 Åsa (Stora Loket) förskola avveckling Paviljong måste avvecklas på grund av att behovet flyttas till
-Paviljong avvecklas när ny förskola i Åsa står färdig projekt 335 Iseråsskolan.
-238 Villa Emilia avveckling       128 Varlaskolan fullmått idrottshall
-Avveckling av paviljong då inget behov finns och att hyresav- Varlaskolans idrottshall behöver ersättas med en ny full-
-talet löper ut.                   måttshall som tillgodoser skolverksamhetens och förenings-
-livets behov. Samordning sker med projekt 324 Varlaskolans
-239 Kvarteret Liljan förskola     tillbyggnad. Projektet startades 2019.
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut.
+239 Kvarteret Liljan förskola
 Området är föremål för exploatering av nya bostadsområden.
-Nya utbildningsplatser måste därför byggas. Samordnas med 136 Björkris fullmått idrottshall
-projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan I samband med en ny skola planeras ny fullmåtts idrotts-
-idrottshall.                      hall som tillgodoser skolverksamhetens och föreningslivets
-behov. Samordning sker med projekt 331 Björkris etapp 1.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan
+idrottshall.
 324 Varlaskolan tillbyggnad
-Om­ och tillbyggnation av skola för att ersätta befintliga 140 Iserås fullmått idrottshall
-specialsalar som nått sin tekniska livslängd och ta hand I samband med en ny skola planeras ny fullmåtts idrotts-
-om ökat elevantal inom de centrala delarna av Kungsbacka. hall som tillgodoser skolverksamhetens och föreningslivets
-Samordning sker med projekt 128 Varlaskolan fullmåtts behov. Samordning sker med projekt 335 Iserås skola.
+Om­ och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
 idrottshall. Projektet startades 2019.
-1202 a Engelska skolan skolpeng
-329 Toråsskolan tillfällig paviljong avvecklas Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-Paviljong avvecklas på grund av att tillfälligt bygglov upphör. skola till Engelska skolan enligt tilldelningsmodell för privata
-utförare inom skolverksamheten och fritidshemsverksam-
-332 Björkris skola paviljong avveckling heten.
+329 Toråsskolan tillfällig paviljong avvecklas
+Paviljong avvecklas på grund av att tillfälligt bygglov upphör.
+
+332 Björkris skola paviljong avveckling
 I samband med ny skola projekt 230 Björkris etapp 1 avveck-
 las paviljong i Björkris 1.
 334 Frillesåsskolan paviljonger avveckling
 När ny skolbyggnad i Frillesås står färdig så avvecklas 4
 stycken paviljonger då hyresavtal upphör.
 48 Kommunbudget 2022 och plan 2023–2024
+
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastighetens har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler. Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall.
+336 Åsa skola
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas.
+337 Åsa skola utbyggnad tillfällig lösning
+Behov av ökade antal utbildningsplatser innan projekt 336
+Åsa skola står klar. Utredning pågår.
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nya bostadsområ-
+den. Nya utbildningsplatser måste därför byggas. Samordnas
+med projekt 339 Kvarteret liljan idrottshall och projekt 239
+kvarteret Liljan förskola.
+339 Kvarteret Liljan idrottshall
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
+Liljan förskola.
+340 Klinnekärr förskola avveckling
+Paviljong måste avvecklas på grund av att tillfälligt bygglov
+upphör.
+341 Fjordskolans paviljong avvecklas
+Paviljong måste avvecklas på grund av att behovet flyttas till
+projekt 335 Iseråsskolan.
+
+128 Varlaskolan fullmått idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
+livets behov. Samordning sker med projekt 324 Varlaskolans
+tillbyggnad. Projektet startades 2019.
+136 Björkris fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 331 Björkris etapp 1.
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola.
+1202 a Engelska skolan skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Engelska skolan enligt tilldelningsmodell för privata
+utförare inom skolverksamheten och fritidshemsverksam-
+heten.
 
 <!-- sida 320 -->
 
@@ -9649,40 +10038,50 @@ Utformning av boende med särskild service kan vara att man bygger 12 stycken bo
 stycken gruppbostad och 6 stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-413 Bmss barn                               4
-414 Bmss Anneberg                          12
-502 Bmss Söderstaden              10
 
+413 Bmss barn                              4
+414 Bmss Anneberg                          12
+502 Bmss Söderstaden             10
 504 Bmss Björkris                     10
 505 Bostäder SBF och referensboende 10 10 10 10 10
-507 Bmss                          12
-508 a Bmss                             12
-508 b Bmss                             12
-508 c Bmss                             8
-508 d Bmss                                  2
+507 Bmss                         12
+508 a Bmss                            12
 
+508 b Bmss                            12
+508 c Bmss                            8
+508 d Bmss                                 2
 508 e Bmss                                 12
-508 f Bmss                                  6
-508 g Bmss                                      12
+508 f Bmss                                 6
+508 g Bmss                                     12
 508 h Bmss                                      6
-508 i Bmss                                      2
-508 j Bmss                 (12-)16
-510 Ordinärt boende           2   2    2    2   2
 
+508 i Bmss                                      2
+508 j Bmss                (12-)16
+510 Ordinärt boende          2    2   2    2    2
 Summa boendeplatser och lägenheter 28 34 54 48 32
 
 Noter
 
-413 Bmss barn                     504 Bmss Björkris
-Gruppbostad för barn, 4 platser.  Servicebostäder med gemensam lokal för personalstöd
-414 Bmss Anneberg                 505 Bostäder SBF och referensboende
-Behov av gruppbostäder planeras in i kommande nya Särskild bostadsförsörjningskö är avsedd för personer som
-område. Samordnas med projekt 1503 Datahall, projekt 807 inte själv kan skaffa en bostad på grund av starka sociala
-vård- och omsorgsboende Anneberg och projekt 226 Anne- och/eller medicinska skäl. Referensboende hyrs ut till kom-
-berg förskola.                    muninvånare som har starkt behov av en bostad och inte på
-egen hand har förmåga att lösa sin situation.
+413 Bmss barn
+Gruppbostad för barn, 4 platser.
+
+414 Bmss Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område. Samordnas med projekt 1503 Datahall, projekt 807
+vård- och omsorgsboende Anneberg och projekt 226 Anne-
+berg förskola.
 502 Bmss Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Bmss Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl. Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte på
+egen hand har förmåga att lösa sin situation.
 
 Kommunbudget 2022 och plan 2023–2024 49
 
@@ -9738,43 +10137,51 @@ Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal p
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende -26     40
 
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården avveckling                x
+805 Ekhaga vård- och omsorgsboende -26    40
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården avveckling               x
 809 Hemtjänstlokal Hede flytt x
-810 Pölagården avveckling     x
-Summa boendeplatser     120  -26   0  120
+810 Pölagården avveckling    x
+Summa boendeplatser     120 -26   0   120
 
 Noter
 
-803 Björkris vård- och omsorgsboende 808 Bukärrsgården avveckling
-Planering av nytt vård­ och omsorgsboende med 120 lägen- Planeras att avyttras när hyrestiden upphör.
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård­ och omsorgsboende med 120 lägen-
 heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      809 Hemtjänstlokal Hede flytt
-Planeras att samordnas med projekt 803 Björkris vård­ och
-805 Ekhaga vård- och omsorgsboende omsorgsboende.
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
 Modernisering befintligt eller nybyggnad av boendet. Avveck-
-ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe- 810 Pölagården avveckling
-ter.                              Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
-till förmån för Åsa HVB.
+ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe-
+ter.
 807 Anneberg vård- och omsorgsboende
 Planering av nytt vård­ och omsorgsboende med 80 lägenhe-
 ter i kommunen. Samordnas med projekt 1503 Datahall, pro-
 jekt 414 BMSS Anneberg och projekt 226 Anneberg förskola.
 
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör.
+
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård­ och
+omsorgsboende.
+810 Pölagården avveckling
+Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
+till förmån för Åsa HVB.
+
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-1407 Kullaviksskolan ombyggnad kök och      x
+1407 Kullaviksskolan ombyggnad kök och     x
 matsal
 1500 Kapareskolans ombyggnad kök x
 1501 Fjordskolan mottagningskök x
-
-1502 Iseråsskolan mottagningskök            x
-1503 Datahall                               x
+1502 Iseråsskolan mottagningskök           x
+1503 Datahall                              x
 1504 Toalettbyggnad Åsa camping x
+
 1505 Toalettbyggnad Gårda brygga badplats x
 
 Kommunbudget 2022 och plan 2023–2024 51
@@ -9784,40 +10191,48 @@ Kommunbudget 2022 och plan 2023–2024 51
 INVESTERING OCH EXPLOATERING
 
 Noter
-1503 Datahall
+
 1407 Kullaviksskolan ombyggnad kök och matsal
-Datahall/Serverrum och lagring för flertalet av kommunens
 Behov av att bygga om Kullaviksskolans mottagningskök och
-verksamhetssystem.
 matsal för att en förbättrad kvalitet utifrån nuvarande nivå,
 samt för en förbättrad arbetsmiljö.
-1504 Toalettbyggnad Åsa camping
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 1500 Kapareskolan ombyggnad kök
-ver ersättas.
 Den totala produktionen behöver utöka produktionskapa-
 citeten på Kapareskolans tillagningskök. Samordnas med
-1505 Toalettbyggnad Gårda brygga badplats
 projekt 1501 Fjordskolan mottagningskök och projekt 1502
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolans mottagningskök.
-ver ersättas.
 1501 Fjordskolan mottagningskök
 Nytt mottagningskök och avveckla av tre befintliga mottag-
 ningskök på skolan. Samordnas med projekt 1500 Kaparesko-
 lans ombyggnad.
+
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
 uppnått tekniskt slutdatum. Samordnas med projekt 335
 Iseråsskolan
+
+1503 Datahall
+Datahall/Serverrum och lagring för flertalet av kommunens
+verksamhetssystem.
+1504 Toalettbyggnad Åsa camping
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
+1505 Toalettbyggnad Gårda brygga badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-131 Arena inkl skyddsrum              x
+131 Arena inkl skyddsrum               x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
 1406 Duveheds omlastningsstation x
 1408 Skyddsrum Kvarteret Liljan                 x
-1410 Engångskostnader        x    x   x    x    x
+
+1410 Engångskostnader        x    x    x    x   x
+
 Noter
+
 131 Arena inklusive skyddsrum     1408 Skyddsrum Kvarteret Liljan
 Arenahall med placering söder om Kungsbacka Sportcenter. Exploateringen av kvarteret gör att befintligt skyddsrum
 måste ersättas.
@@ -9939,79 +10354,137 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu-
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
 och boenden.
-Handläggningen av lokalbehoven behöver ske enligt ned-
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings-
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering.
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade
-Prioriteringsprincipen i fallande ordning:
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk-
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur-
-tige.                                        omvandlingar och som ger minskade
-driftskostnader samt lokalbehov på
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
 
 Behov   Insamling Förstudie Projektering Genomför- Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
 
 44 Kommunbudget 2022 och plan 2023–2024
 
 <!-- sida 327 -->
 
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2022–2026
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2022–2026. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Service avseende både investeringsutgifter samt drifts-
+kostnader. Lokalplanen bereds utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 INVESTERING OCH EXPLOATERING
 
 Nya hyror för lokalinvesteringar samt inhyrda boenden
-• Lokallösningar ska föreslås och väljas utifrån att budgeteras centralt och nämnden erhåller ram motsva-
-”Minska behovet av att bygga nytt genom att samut- rande 80 procent av hyran när lokalen är klar att tas i bruk.
-nyttja och bygga mer flexibelt” vilket innebär att loka- Resterande 20 procent finansieras inom respektive nämnds
-ler eller lokaldelar så långt det är möjligt planeras för ram. Ramtilldelning utgår inte för verksamhetsanpass-
-att kunna samnyttjas och användas för flera ändamål. ningar av lokaler.
-• Investeringar i egenägda lokaler ska genomföras om
-verksamheten har ett långsiktigt lokalbehov. Investeringsbudget och hyresmedel för lokaler och boen-
-• Inhyrning ska prövas som ett alternativ till att äga den tillhör kommunstyrelsen och kommunstyrelsen kan
-fastigheter, och väljas om det råder osäkerhet om verk- justera mellan olika lokalprojekt under året.
-samhetens framtida innehåll och/eller omfattning och
-med hänsyn till behovstid eller om investeringsmedel Projekt i lokalplanen får startas upp om de understiger 15
-saknas för egna investeringar.  miljoner i investeringsbelopp. För projekt som överstiger
-• Arbetet med lokalförsörjning ska bedrivas genom ett 15 miljoner kronor ska igångsättning beslutas av kommun-
-tätt samarbete med berörda förvaltningar. styrelsen.
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
 
-Lokalbehov 2022–2026
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får startas upp om de understiger 15
+miljoner i investeringsbelopp. För projekt som överstiger
+15 miljoner kronor ska igångsättning beslutas av kommun-
+styrelsen.
+
 I samband med kommunens investering i nya loka-
-Nämnderna i Kungsbacka kommun har lämnat in bostads- ler avsätts 1 procent av byggutgiften till konstnärlig
-och lokalbehov för perioden 2022–2026. Nämndernas utsmyckning. Nämnden för Kultur & Fritid får ansvaret
-beslutade behov uttrycks i volymmått, till exempel antal att upphandla och besluta om den konstnärliga utsmyck-
-platser, antal elever eller antal förskolebarn. Behoven ningen. Ett särskilt belopp avsätts som kan fördelas olika
-bearbetas och kostnadsbedöms utifrån nyckeltal framtagna mellan de lokaler som byggs. Det innebär att det inte alltid
-av Service avseende både investeringsutgifter samt drifts- blir 1 procent i konstnärlig utsmyckning per lokal utan
-kostnader. Lokalplanen bereds utifrån ett planerings- och det kan variera mellan olika lokaler men det blir alltid
-genomförandeperspektiv samt med utgångspunkt i ovan max 1 procent totalt per år. Gäller bara byggnaderna. Vid
-nämnda principer.                 investeringar i infrastruktur (gator och vägar mm) samt i
+ler avsätts 1 procent av byggutgiften till konstnärlig
+utsmyckning. Nämnden för Kultur & Fritid får ansvaret
+att upphandla och besluta om den konstnärliga utsmyck-
+ningen. Ett särskilt belopp avsätts som kan fördelas olika
+mellan de lokaler som byggs. Det innebär att det inte alltid
+blir 1 procent i konstnärlig utsmyckning per lokal utan
+det kan variera mellan olika lokaler men det blir alltid
+max 1 procent totalt per år. Gäller bara byggnaderna. Vid
+investeringar i infrastruktur (gator och vägar mm) samt i
 de fall kommunen hyr in lokal från extern fastighetsägare
 får ställning tas till konstnärlig utsmyckning i varje enskilt
 projekt.
@@ -10085,117 +10558,165 @@ för att fungera både som förskole- och skollokaler. Kommunens behov om utbygg
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 207 Fjärås Må förskola                         120
 224 b Liljan förskola avveckling -40
+
 226 Anneberg förskola                     120
 227 Kolla förskola                        160
-
 230 Björkris utbildningslokaler etapp 1 620
 231 Björkris utbildningslokaler etapp 2   180
 232 Trollelyckan förskola avveckling x
 233 Frillesås förskola           160
+
 234 Klockaregården förskola avveckling -160
 235 Åsa förskola etapp 1         120
-
-236 Åsa förskola etapp 2                   80
+236 Åsa förskola etapp 2                  80
 237 Åsa (Stora Loket) förskola avveckling -80
-238 Villa Emilia avveckling            x
+238 Villa Emilia avveckling           x
 239 Kvarteret Liljan förskola                  120
 324 Varlaskolan tillbyggnad 300
+
 329 Toråsskolan tillf. paviljong avveckling -100
 332 Björkris skola paviljong avveckling -100
-
 334 Frillesåsskolan paviljonger avveckling x
 335 Iserås skola                          200
-336 Åsa skola                                  500
+336 Åsa skola                                 500
 337 Åsa skola utbyggnad tillfällig lösning 150
-338 Kvarteret Liljan skola                     400
-339 Kvarteret Liljan idrottshall                x
 
+338 Kvarteret Liljan skola                    400
+339 Kvarteret Liljan idrottshall                x
 340 Klinnekärr förskola avveckling x
-341 Fjordskolan paviljong avveckling        x
+341 Fjordskolan paviljong avveckling       x
 128 Varlaskolan fullmått idrottshall x
 136 Björkris fullmått idrottshall x
 140 Iserås fullmått idrottshall                 x
-1202a Engelska skolan, skolpeng x x    x
-Summa utbildningsplatser 160 790   0  660 1 140
+
+1202a Engelska skolan, skolpeng x x   x
+Summa utbildningsplatser 160 790  0   660 1 140
 
 Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder. Nya
+förskolelokaler måste därför byggas.
+224 b Liljan förskola avveckling
+Förskola i centrala Kungsbacka måste ersättas på grund av
+att tillfälligt bygglov upphör.
+
 226 Anneberg förskola
 Området är föremål för exploatering av nya bostäder. Nya
-207 Fjärås Må förskola
 förskolelokaler måste därför byggas. Samordning sker med
-Området är föremål för exploatering av nya bostäder. Nya
 projekt 807 Anneberg vård- och omsorgsboende, projekt 414
-förskolelokaler måste därför byggas.
 Annebergs Bmss och projekt 1503 Datahall.
-224 b Liljan förskola avveckling
 227 Kolla förskola
-Förskola i centrala Kungsbacka måste ersättas på grund av
 Stort underskott av förskoleplatser i Kollaområdet ger behov
-att tillfälligt bygglov upphör.
 av förskola med 160 platser
+
 Kommunbudget 2022 och plan 2023–2024 47
 
 <!-- sida 330 -->
 
 INVESTERING OCH EXPLOATERING
 
-230 Björkris utbildningslokaler etapp 1 335 Iserås skola
-Området är föremål för exploatering av nytt bostadsområde. Delar av Iseråsskolan måste avvecklas då fastighetens har
-Nya utbildningsplatser måste därför byggas. Samordning nått sin tekniska livslängd och behöver ersättas med nya
-med projekt 136 Björkris fullmåtts idrottshall. lokaler. Samordning sker med projekt 140 Iserås fullmåtts
-idrottshall.
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 136 Björkris fullmåtts idrottshall.
 231 Björkris utbildningslokaler etapp 2
-Området är föremål för exploatering av nytt bostadsområde. 336 Åsa skola
-Nya utbildningsplatser måste därför byggas. Samordning Området är föremål för exploatering av nya bostadsområden.
-med projekt 230 utbildningslokal etapp 1. Nya utbildningsplatser måste därför byggas.
-232 Trollelyckan förskola avveckling 337 Åsa skola utbyggnad tillfällig lösning
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga Behov av ökade antal utbildningsplatser innan projekt 336
-lokaler samt att den tekniska livslängden har nått sitt slut. Åsa skola står klar. Utredning pågår.
-233 Frillesås förskola            338 Kvarteret Liljan skola
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Området är föremål för exploatering av nya bostadsområ-
-förskola.                         den. Nya utbildningsplatser måste därför byggas. Samordnas
-med projekt 339 Kvarteret liljan idrottshall och projekt 239
-234 Klockaregården förskola avveckling kvarteret Liljan förskola.
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 230 utbildningslokal etapp 1.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola.
+234 Klockaregården förskola avveckling
 Paviljong avvecklas när ny förskola projekt 233 i Frillesås
-står färdig.                      339 Kvarteret Liljan idrottshall
-Området är föremål för exploatering av nya bostadsområden.
-235 Åsa förskola etapp 1          Nya utbildningsplatser måste därför byggas. Samordnas med
-Området är föremål för exploatering av nytt bostadsområde. projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
-Nya utbildningsplatser måste därför byggas. Liljan förskola.
-236 Åsa förskola etapp 2          340 Klinnekärr förskola avveckling
-Området är föremål för exploatering av nytt bostadsområde. Paviljong måste avvecklas på grund av att tillfälligt bygglov
-Nya utbildningsplatser måste därför byggas. Samordning upphör.
+står färdig.
+
+235 Åsa förskola etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+236 Åsa förskola etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
 projekt 237 Åsa förskola avveckling.
-341 Fjordskolans paviljong avvecklas
-237 Åsa (Stora Loket) förskola avveckling Paviljong måste avvecklas på grund av att behovet flyttas till
-Paviljong avvecklas när ny förskola i Åsa står färdig projekt 335 Iseråsskolan.
-238 Villa Emilia avveckling       128 Varlaskolan fullmått idrottshall
-Avveckling av paviljong då inget behov finns och att hyresav- Varlaskolans idrottshall behöver ersättas med en ny full-
-talet löper ut.                   måttshall som tillgodoser skolverksamhetens och förenings-
-livets behov. Samordning sker med projekt 324 Varlaskolans
-239 Kvarteret Liljan förskola     tillbyggnad. Projektet startades 2019.
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut.
+239 Kvarteret Liljan förskola
 Området är föremål för exploatering av nya bostadsområden.
-Nya utbildningsplatser måste därför byggas. Samordnas med 136 Björkris fullmått idrottshall
-projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan I samband med en ny skola planeras ny fullmåtts idrotts-
-idrottshall.                      hall som tillgodoser skolverksamhetens och föreningslivets
-behov. Samordning sker med projekt 331 Björkris etapp 1.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan
+idrottshall.
 324 Varlaskolan tillbyggnad
-Om­ och tillbyggnation av skola för att ersätta befintliga 140 Iserås fullmått idrottshall
-specialsalar som nått sin tekniska livslängd och ta hand I samband med en ny skola planeras ny fullmåtts idrotts-
-om ökat elevantal inom de centrala delarna av Kungsbacka. hall som tillgodoser skolverksamhetens och föreningslivets
-Samordning sker med projekt 128 Varlaskolan fullmåtts behov. Samordning sker med projekt 335 Iserås skola.
+Om­ och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
 idrottshall. Projektet startades 2019.
-1202 a Engelska skolan skolpeng
-329 Toråsskolan tillfällig paviljong avvecklas Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-Paviljong avvecklas på grund av att tillfälligt bygglov upphör. skola till Engelska skolan enligt tilldelningsmodell för privata
-utförare inom skolverksamheten och fritidshemsverksam-
-332 Björkris skola paviljong avveckling heten.
+329 Toråsskolan tillfällig paviljong avvecklas
+Paviljong avvecklas på grund av att tillfälligt bygglov upphör.
+
+332 Björkris skola paviljong avveckling
 I samband med ny skola projekt 230 Björkris etapp 1 avveck-
 las paviljong i Björkris 1.
 334 Frillesåsskolan paviljonger avveckling
 När ny skolbyggnad i Frillesås står färdig så avvecklas 4
 stycken paviljonger då hyresavtal upphör.
 48 Kommunbudget 2022 och plan 2023–2024
+
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastighetens har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler. Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall.
+336 Åsa skola
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas.
+337 Åsa skola utbyggnad tillfällig lösning
+Behov av ökade antal utbildningsplatser innan projekt 336
+Åsa skola står klar. Utredning pågår.
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nya bostadsområ-
+den. Nya utbildningsplatser måste därför byggas. Samordnas
+med projekt 339 Kvarteret liljan idrottshall och projekt 239
+kvarteret Liljan förskola.
+339 Kvarteret Liljan idrottshall
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
+Liljan förskola.
+340 Klinnekärr förskola avveckling
+Paviljong måste avvecklas på grund av att tillfälligt bygglov
+upphör.
+341 Fjordskolans paviljong avvecklas
+Paviljong måste avvecklas på grund av att behovet flyttas till
+projekt 335 Iseråsskolan.
+
+128 Varlaskolan fullmått idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
+livets behov. Samordning sker med projekt 324 Varlaskolans
+tillbyggnad. Projektet startades 2019.
+136 Björkris fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 331 Björkris etapp 1.
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola.
+1202 a Engelska skolan skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Engelska skolan enligt tilldelningsmodell för privata
+utförare inom skolverksamheten och fritidshemsverksam-
+heten.
 
 <!-- sida 331 -->
 
@@ -10215,40 +10736,50 @@ Utformning av boende med särskild service kan vara att man bygger 12 stycken bo
 stycken gruppbostad och 6 stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-413 Bmss barn                               4
-414 Bmss Anneberg                          12
-502 Bmss Söderstaden              10
 
+413 Bmss barn                              4
+414 Bmss Anneberg                          12
+502 Bmss Söderstaden             10
 504 Bmss Björkris                     10
 505 Bostäder SBF och referensboende 10 10 10 10 10
-507 Bmss                          12
-508 a Bmss                             12
-508 b Bmss                             12
-508 c Bmss                             8
-508 d Bmss                                  2
+507 Bmss                         12
+508 a Bmss                            12
 
+508 b Bmss                            12
+508 c Bmss                            8
+508 d Bmss                                 2
 508 e Bmss                                 12
-508 f Bmss                                  6
-508 g Bmss                                      12
+508 f Bmss                                 6
+508 g Bmss                                     12
 508 h Bmss                                      6
-508 i Bmss                                      2
-508 j Bmss                 (12-)16
-510 Ordinärt boende           2   2    2    2   2
 
+508 i Bmss                                      2
+508 j Bmss                (12-)16
+510 Ordinärt boende          2    2   2    2    2
 Summa boendeplatser och lägenheter 28 34 54 48 32
 
 Noter
 
-413 Bmss barn                     504 Bmss Björkris
-Gruppbostad för barn, 4 platser.  Servicebostäder med gemensam lokal för personalstöd
-414 Bmss Anneberg                 505 Bostäder SBF och referensboende
-Behov av gruppbostäder planeras in i kommande nya Särskild bostadsförsörjningskö är avsedd för personer som
-område. Samordnas med projekt 1503 Datahall, projekt 807 inte själv kan skaffa en bostad på grund av starka sociala
-vård- och omsorgsboende Anneberg och projekt 226 Anne- och/eller medicinska skäl. Referensboende hyrs ut till kom-
-berg förskola.                    muninvånare som har starkt behov av en bostad och inte på
-egen hand har förmåga att lösa sin situation.
+413 Bmss barn
+Gruppbostad för barn, 4 platser.
+
+414 Bmss Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område. Samordnas med projekt 1503 Datahall, projekt 807
+vård- och omsorgsboende Anneberg och projekt 226 Anne-
+berg förskola.
 502 Bmss Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Bmss Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl. Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte på
+egen hand har förmåga att lösa sin situation.
 
 Kommunbudget 2022 och plan 2023–2024 49
 
@@ -10304,43 +10835,51 @@ Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal p
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende -26     40
 
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården avveckling                x
+805 Ekhaga vård- och omsorgsboende -26    40
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården avveckling               x
 809 Hemtjänstlokal Hede flytt x
-810 Pölagården avveckling     x
-Summa boendeplatser     120  -26   0  120
+810 Pölagården avveckling    x
+Summa boendeplatser     120 -26   0   120
 
 Noter
 
-803 Björkris vård- och omsorgsboende 808 Bukärrsgården avveckling
-Planering av nytt vård­ och omsorgsboende med 120 lägen- Planeras att avyttras när hyrestiden upphör.
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård­ och omsorgsboende med 120 lägen-
 heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      809 Hemtjänstlokal Hede flytt
-Planeras att samordnas med projekt 803 Björkris vård­ och
-805 Ekhaga vård- och omsorgsboende omsorgsboende.
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
 Modernisering befintligt eller nybyggnad av boendet. Avveck-
-ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe- 810 Pölagården avveckling
-ter.                              Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
-till förmån för Åsa HVB.
+ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe-
+ter.
 807 Anneberg vård- och omsorgsboende
 Planering av nytt vård­ och omsorgsboende med 80 lägenhe-
 ter i kommunen. Samordnas med projekt 1503 Datahall, pro-
 jekt 414 BMSS Anneberg och projekt 226 Anneberg förskola.
 
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör.
+
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård­ och
+omsorgsboende.
+810 Pölagården avveckling
+Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
+till förmån för Åsa HVB.
+
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-1407 Kullaviksskolan ombyggnad kök och      x
+1407 Kullaviksskolan ombyggnad kök och     x
 matsal
 1500 Kapareskolans ombyggnad kök x
 1501 Fjordskolan mottagningskök x
-
-1502 Iseråsskolan mottagningskök            x
-1503 Datahall                               x
+1502 Iseråsskolan mottagningskök           x
+1503 Datahall                              x
 1504 Toalettbyggnad Åsa camping x
+
 1505 Toalettbyggnad Gårda brygga badplats x
 
 Kommunbudget 2022 och plan 2023–2024 51
@@ -10350,40 +10889,48 @@ Kommunbudget 2022 och plan 2023–2024 51
 INVESTERING OCH EXPLOATERING
 
 Noter
-1503 Datahall
+
 1407 Kullaviksskolan ombyggnad kök och matsal
-Datahall/Serverrum och lagring för flertalet av kommunens
 Behov av att bygga om Kullaviksskolans mottagningskök och
-verksamhetssystem.
 matsal för att en förbättrad kvalitet utifrån nuvarande nivå,
 samt för en förbättrad arbetsmiljö.
-1504 Toalettbyggnad Åsa camping
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 1500 Kapareskolan ombyggnad kök
-ver ersättas.
 Den totala produktionen behöver utöka produktionskapa-
 citeten på Kapareskolans tillagningskök. Samordnas med
-1505 Toalettbyggnad Gårda brygga badplats
 projekt 1501 Fjordskolan mottagningskök och projekt 1502
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolans mottagningskök.
-ver ersättas.
 1501 Fjordskolan mottagningskök
 Nytt mottagningskök och avveckla av tre befintliga mottag-
 ningskök på skolan. Samordnas med projekt 1500 Kaparesko-
 lans ombyggnad.
+
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
 uppnått tekniskt slutdatum. Samordnas med projekt 335
 Iseråsskolan
+
+1503 Datahall
+Datahall/Serverrum och lagring för flertalet av kommunens
+verksamhetssystem.
+1504 Toalettbyggnad Åsa camping
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
+1505 Toalettbyggnad Gårda brygga badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-131 Arena inkl skyddsrum              x
+131 Arena inkl skyddsrum               x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
 1406 Duveheds omlastningsstation x
 1408 Skyddsrum Kvarteret Liljan                 x
-1410 Engångskostnader        x    x   x    x    x
+
+1410 Engångskostnader        x    x    x    x   x
+
 Noter
+
 131 Arena inklusive skyddsrum     1408 Skyddsrum Kvarteret Liljan
 Arenahall med placering söder om Kungsbacka Sportcenter. Exploateringen av kvarteret gör att befintligt skyddsrum
 måste ersättas.
@@ -10516,79 +11063,137 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu-
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
 och boenden.
-Handläggningen av lokalbehoven behöver ske enligt ned-
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings-
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering.
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade
-Prioriteringsprincipen i fallande ordning:
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk-
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur-
-tige.                                        omvandlingar och som ger minskade
-driftskostnader samt lokalbehov på
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
 
 Behov   Insamling Förstudie Projektering Genomför- Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
 
 44 Kommunbudget 2022 och plan 2023–2024
 
 <!-- sida 339 -->
 
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2022–2026
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2022–2026. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Service avseende både investeringsutgifter samt drifts-
+kostnader. Lokalplanen bereds utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 INVESTERING OCH EXPLOATERING
 
 Nya hyror för lokalinvesteringar samt inhyrda boenden
-• Lokallösningar ska föreslås och väljas utifrån att budgeteras centralt och nämnden erhåller ram motsva-
-”Minska behovet av att bygga nytt genom att samut- rande 80 procent av hyran när lokalen är klar att tas i bruk.
-nyttja och bygga mer flexibelt” vilket innebär att loka- Resterande 20 procent finansieras inom respektive nämnds
-ler eller lokaldelar så långt det är möjligt planeras för ram. Ramtilldelning utgår inte för verksamhetsanpass-
-att kunna samnyttjas och användas för flera ändamål. ningar av lokaler.
-• Investeringar i egenägda lokaler ska genomföras om
-verksamheten har ett långsiktigt lokalbehov. Investeringsbudget och hyresmedel för lokaler och boen-
-• Inhyrning ska prövas som ett alternativ till att äga den tillhör kommunstyrelsen och kommunstyrelsen kan
-fastigheter, och väljas om det råder osäkerhet om verk- justera mellan olika lokalprojekt under året.
-samhetens framtida innehåll och/eller omfattning och
-med hänsyn till behovstid eller om investeringsmedel Projekt i lokalplanen får startas upp om de understiger 15
-saknas för egna investeringar.  miljoner i investeringsbelopp. För projekt som överstiger
-• Arbetet med lokalförsörjning ska bedrivas genom ett 15 miljoner kronor ska igångsättning beslutas av kommun-
-tätt samarbete med berörda förvaltningar. styrelsen.
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
 
-Lokalbehov 2022–2026
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får startas upp om de understiger 15
+miljoner i investeringsbelopp. För projekt som överstiger
+15 miljoner kronor ska igångsättning beslutas av kommun-
+styrelsen.
+
 I samband med kommunens investering i nya loka-
-Nämnderna i Kungsbacka kommun har lämnat in bostads- ler avsätts 1 procent av byggutgiften till konstnärlig
-och lokalbehov för perioden 2022–2026. Nämndernas utsmyckning. Nämnden för Kultur & Fritid får ansvaret
-beslutade behov uttrycks i volymmått, till exempel antal att upphandla och besluta om den konstnärliga utsmyck-
-platser, antal elever eller antal förskolebarn. Behoven ningen. Ett särskilt belopp avsätts som kan fördelas olika
-bearbetas och kostnadsbedöms utifrån nyckeltal framtagna mellan de lokaler som byggs. Det innebär att det inte alltid
-av Service avseende både investeringsutgifter samt drifts- blir 1 procent i konstnärlig utsmyckning per lokal utan
-kostnader. Lokalplanen bereds utifrån ett planerings- och det kan variera mellan olika lokaler men det blir alltid
-genomförandeperspektiv samt med utgångspunkt i ovan max 1 procent totalt per år. Gäller bara byggnaderna. Vid
-nämnda principer.                 investeringar i infrastruktur (gator och vägar mm) samt i
+ler avsätts 1 procent av byggutgiften till konstnärlig
+utsmyckning. Nämnden för Kultur & Fritid får ansvaret
+att upphandla och besluta om den konstnärliga utsmyck-
+ningen. Ett särskilt belopp avsätts som kan fördelas olika
+mellan de lokaler som byggs. Det innebär att det inte alltid
+blir 1 procent i konstnärlig utsmyckning per lokal utan
+det kan variera mellan olika lokaler men det blir alltid
+max 1 procent totalt per år. Gäller bara byggnaderna. Vid
+investeringar i infrastruktur (gator och vägar mm) samt i
 de fall kommunen hyr in lokal från extern fastighetsägare
 får ställning tas till konstnärlig utsmyckning i varje enskilt
 projekt.
@@ -10662,117 +11267,165 @@ för att fungera både som förskole- och skollokaler. Kommunens behov om utbygg
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 207 Fjärås Må förskola                         120
 224 b Liljan förskola avveckling -40
+
 226 Anneberg förskola                     120
 227 Kolla förskola                        160
-
 230 Björkris utbildningslokaler etapp 1 620
 231 Björkris utbildningslokaler etapp 2   180
 232 Trollelyckan förskola avveckling x
 233 Frillesås förskola           160
+
 234 Klockaregården förskola avveckling -160
 235 Åsa förskola etapp 1         120
-
-236 Åsa förskola etapp 2                   80
+236 Åsa förskola etapp 2                  80
 237 Åsa (Stora Loket) förskola avveckling -80
-238 Villa Emilia avveckling            x
+238 Villa Emilia avveckling           x
 239 Kvarteret Liljan förskola                  120
 324 Varlaskolan tillbyggnad 300
+
 329 Toråsskolan tillf. paviljong avveckling -100
 332 Björkris skola paviljong avveckling -100
-
 334 Frillesåsskolan paviljonger avveckling x
 335 Iserås skola                          200
-336 Åsa skola                                  500
+336 Åsa skola                                 500
 337 Åsa skola utbyggnad tillfällig lösning 150
-338 Kvarteret Liljan skola                     400
-339 Kvarteret Liljan idrottshall                x
 
+338 Kvarteret Liljan skola                    400
+339 Kvarteret Liljan idrottshall                x
 340 Klinnekärr förskola avveckling x
-341 Fjordskolan paviljong avveckling        x
+341 Fjordskolan paviljong avveckling       x
 128 Varlaskolan fullmått idrottshall x
 136 Björkris fullmått idrottshall x
 140 Iserås fullmått idrottshall                 x
-1202a Engelska skolan, skolpeng x x    x
-Summa utbildningsplatser 160 790   0  660 1 140
+
+1202a Engelska skolan, skolpeng x x   x
+Summa utbildningsplatser 160 790  0   660 1 140
 
 Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder. Nya
+förskolelokaler måste därför byggas.
+224 b Liljan förskola avveckling
+Förskola i centrala Kungsbacka måste ersättas på grund av
+att tillfälligt bygglov upphör.
+
 226 Anneberg förskola
 Området är föremål för exploatering av nya bostäder. Nya
-207 Fjärås Må förskola
 förskolelokaler måste därför byggas. Samordning sker med
-Området är föremål för exploatering av nya bostäder. Nya
 projekt 807 Anneberg vård- och omsorgsboende, projekt 414
-förskolelokaler måste därför byggas.
 Annebergs Bmss och projekt 1503 Datahall.
-224 b Liljan förskola avveckling
 227 Kolla förskola
-Förskola i centrala Kungsbacka måste ersättas på grund av
 Stort underskott av förskoleplatser i Kollaområdet ger behov
-att tillfälligt bygglov upphör.
 av förskola med 160 platser
+
 Kommunbudget 2022 och plan 2023–2024 47
 
 <!-- sida 342 -->
 
 INVESTERING OCH EXPLOATERING
 
-230 Björkris utbildningslokaler etapp 1 335 Iserås skola
-Området är föremål för exploatering av nytt bostadsområde. Delar av Iseråsskolan måste avvecklas då fastighetens har
-Nya utbildningsplatser måste därför byggas. Samordning nått sin tekniska livslängd och behöver ersättas med nya
-med projekt 136 Björkris fullmåtts idrottshall. lokaler. Samordning sker med projekt 140 Iserås fullmåtts
-idrottshall.
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 136 Björkris fullmåtts idrottshall.
 231 Björkris utbildningslokaler etapp 2
-Området är föremål för exploatering av nytt bostadsområde. 336 Åsa skola
-Nya utbildningsplatser måste därför byggas. Samordning Området är föremål för exploatering av nya bostadsområden.
-med projekt 230 utbildningslokal etapp 1. Nya utbildningsplatser måste därför byggas.
-232 Trollelyckan förskola avveckling 337 Åsa skola utbyggnad tillfällig lösning
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga Behov av ökade antal utbildningsplatser innan projekt 336
-lokaler samt att den tekniska livslängden har nått sitt slut. Åsa skola står klar. Utredning pågår.
-233 Frillesås förskola            338 Kvarteret Liljan skola
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Området är föremål för exploatering av nya bostadsområ-
-förskola.                         den. Nya utbildningsplatser måste därför byggas. Samordnas
-med projekt 339 Kvarteret liljan idrottshall och projekt 239
-234 Klockaregården förskola avveckling kvarteret Liljan förskola.
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 230 utbildningslokal etapp 1.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola.
+234 Klockaregården förskola avveckling
 Paviljong avvecklas när ny förskola projekt 233 i Frillesås
-står färdig.                      339 Kvarteret Liljan idrottshall
-Området är föremål för exploatering av nya bostadsområden.
-235 Åsa förskola etapp 1          Nya utbildningsplatser måste därför byggas. Samordnas med
-Området är föremål för exploatering av nytt bostadsområde. projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
-Nya utbildningsplatser måste därför byggas. Liljan förskola.
-236 Åsa förskola etapp 2          340 Klinnekärr förskola avveckling
-Området är föremål för exploatering av nytt bostadsområde. Paviljong måste avvecklas på grund av att tillfälligt bygglov
-Nya utbildningsplatser måste därför byggas. Samordning upphör.
+står färdig.
+
+235 Åsa förskola etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+236 Åsa förskola etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
 projekt 237 Åsa förskola avveckling.
-341 Fjordskolans paviljong avvecklas
-237 Åsa (Stora Loket) förskola avveckling Paviljong måste avvecklas på grund av att behovet flyttas till
-Paviljong avvecklas när ny förskola i Åsa står färdig projekt 335 Iseråsskolan.
-238 Villa Emilia avveckling       128 Varlaskolan fullmått idrottshall
-Avveckling av paviljong då inget behov finns och att hyresav- Varlaskolans idrottshall behöver ersättas med en ny full-
-talet löper ut.                   måttshall som tillgodoser skolverksamhetens och förenings-
-livets behov. Samordning sker med projekt 324 Varlaskolans
-239 Kvarteret Liljan förskola     tillbyggnad. Projektet startades 2019.
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut.
+239 Kvarteret Liljan förskola
 Området är föremål för exploatering av nya bostadsområden.
-Nya utbildningsplatser måste därför byggas. Samordnas med 136 Björkris fullmått idrottshall
-projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan I samband med en ny skola planeras ny fullmåtts idrotts-
-idrottshall.                      hall som tillgodoser skolverksamhetens och föreningslivets
-behov. Samordning sker med projekt 331 Björkris etapp 1.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan
+idrottshall.
 324 Varlaskolan tillbyggnad
-Om­ och tillbyggnation av skola för att ersätta befintliga 140 Iserås fullmått idrottshall
-specialsalar som nått sin tekniska livslängd och ta hand I samband med en ny skola planeras ny fullmåtts idrotts-
-om ökat elevantal inom de centrala delarna av Kungsbacka. hall som tillgodoser skolverksamhetens och föreningslivets
-Samordning sker med projekt 128 Varlaskolan fullmåtts behov. Samordning sker med projekt 335 Iserås skola.
+Om­ och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
 idrottshall. Projektet startades 2019.
-1202 a Engelska skolan skolpeng
-329 Toråsskolan tillfällig paviljong avvecklas Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-Paviljong avvecklas på grund av att tillfälligt bygglov upphör. skola till Engelska skolan enligt tilldelningsmodell för privata
-utförare inom skolverksamheten och fritidshemsverksam-
-332 Björkris skola paviljong avveckling heten.
+329 Toråsskolan tillfällig paviljong avvecklas
+Paviljong avvecklas på grund av att tillfälligt bygglov upphör.
+
+332 Björkris skola paviljong avveckling
 I samband med ny skola projekt 230 Björkris etapp 1 avveck-
 las paviljong i Björkris 1.
 334 Frillesåsskolan paviljonger avveckling
 När ny skolbyggnad i Frillesås står färdig så avvecklas 4
 stycken paviljonger då hyresavtal upphör.
 48 Kommunbudget 2022 och plan 2023–2024
+
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastighetens har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler. Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall.
+336 Åsa skola
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas.
+337 Åsa skola utbyggnad tillfällig lösning
+Behov av ökade antal utbildningsplatser innan projekt 336
+Åsa skola står klar. Utredning pågår.
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nya bostadsområ-
+den. Nya utbildningsplatser måste därför byggas. Samordnas
+med projekt 339 Kvarteret liljan idrottshall och projekt 239
+kvarteret Liljan förskola.
+339 Kvarteret Liljan idrottshall
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
+Liljan förskola.
+340 Klinnekärr förskola avveckling
+Paviljong måste avvecklas på grund av att tillfälligt bygglov
+upphör.
+341 Fjordskolans paviljong avvecklas
+Paviljong måste avvecklas på grund av att behovet flyttas till
+projekt 335 Iseråsskolan.
+
+128 Varlaskolan fullmått idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
+livets behov. Samordning sker med projekt 324 Varlaskolans
+tillbyggnad. Projektet startades 2019.
+136 Björkris fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 331 Björkris etapp 1.
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola.
+1202 a Engelska skolan skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Engelska skolan enligt tilldelningsmodell för privata
+utförare inom skolverksamheten och fritidshemsverksam-
+heten.
 
 <!-- sida 343 -->
 
@@ -10792,40 +11445,50 @@ Utformning av boende med särskild service kan vara att man bygger 12 stycken bo
 stycken gruppbostad och 6 stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-413 Bmss barn                               4
-414 Bmss Anneberg                          12
-502 Bmss Söderstaden              10
 
+413 Bmss barn                              4
+414 Bmss Anneberg                          12
+502 Bmss Söderstaden             10
 504 Bmss Björkris                     10
 505 Bostäder SBF och referensboende 10 10 10 10 10
-507 Bmss                          12
-508 a Bmss                             12
-508 b Bmss                             12
-508 c Bmss                             8
-508 d Bmss                                  2
+507 Bmss                         12
+508 a Bmss                            12
 
+508 b Bmss                            12
+508 c Bmss                            8
+508 d Bmss                                 2
 508 e Bmss                                 12
-508 f Bmss                                  6
-508 g Bmss                                      12
+508 f Bmss                                 6
+508 g Bmss                                     12
 508 h Bmss                                      6
-508 i Bmss                                      2
-508 j Bmss                 (12-)16
-510 Ordinärt boende           2   2    2    2   2
 
+508 i Bmss                                      2
+508 j Bmss                (12-)16
+510 Ordinärt boende          2    2   2    2    2
 Summa boendeplatser och lägenheter 28 34 54 48 32
 
 Noter
 
-413 Bmss barn                     504 Bmss Björkris
-Gruppbostad för barn, 4 platser.  Servicebostäder med gemensam lokal för personalstöd
-414 Bmss Anneberg                 505 Bostäder SBF och referensboende
-Behov av gruppbostäder planeras in i kommande nya Särskild bostadsförsörjningskö är avsedd för personer som
-område. Samordnas med projekt 1503 Datahall, projekt 807 inte själv kan skaffa en bostad på grund av starka sociala
-vård- och omsorgsboende Anneberg och projekt 226 Anne- och/eller medicinska skäl. Referensboende hyrs ut till kom-
-berg förskola.                    muninvånare som har starkt behov av en bostad och inte på
-egen hand har förmåga att lösa sin situation.
+413 Bmss barn
+Gruppbostad för barn, 4 platser.
+
+414 Bmss Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område. Samordnas med projekt 1503 Datahall, projekt 807
+vård- och omsorgsboende Anneberg och projekt 226 Anne-
+berg förskola.
 502 Bmss Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Bmss Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl. Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte på
+egen hand har förmåga att lösa sin situation.
 
 Kommunbudget 2022 och plan 2023–2024 49
 
@@ -10881,43 +11544,51 @@ Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal p
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende -26     40
 
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården avveckling                x
+805 Ekhaga vård- och omsorgsboende -26    40
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården avveckling               x
 809 Hemtjänstlokal Hede flytt x
-810 Pölagården avveckling     x
-Summa boendeplatser     120  -26   0  120
+810 Pölagården avveckling    x
+Summa boendeplatser     120 -26   0   120
 
 Noter
 
-803 Björkris vård- och omsorgsboende 808 Bukärrsgården avveckling
-Planering av nytt vård­ och omsorgsboende med 120 lägen- Planeras att avyttras när hyrestiden upphör.
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård­ och omsorgsboende med 120 lägen-
 heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      809 Hemtjänstlokal Hede flytt
-Planeras att samordnas med projekt 803 Björkris vård­ och
-805 Ekhaga vård- och omsorgsboende omsorgsboende.
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
 Modernisering befintligt eller nybyggnad av boendet. Avveck-
-ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe- 810 Pölagården avveckling
-ter.                              Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
-till förmån för Åsa HVB.
+ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe-
+ter.
 807 Anneberg vård- och omsorgsboende
 Planering av nytt vård­ och omsorgsboende med 80 lägenhe-
 ter i kommunen. Samordnas med projekt 1503 Datahall, pro-
 jekt 414 BMSS Anneberg och projekt 226 Anneberg förskola.
 
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör.
+
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård­ och
+omsorgsboende.
+810 Pölagården avveckling
+Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
+till förmån för Åsa HVB.
+
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-1407 Kullaviksskolan ombyggnad kök och      x
+1407 Kullaviksskolan ombyggnad kök och     x
 matsal
 1500 Kapareskolans ombyggnad kök x
 1501 Fjordskolan mottagningskök x
-
-1502 Iseråsskolan mottagningskök            x
-1503 Datahall                               x
+1502 Iseråsskolan mottagningskök           x
+1503 Datahall                              x
 1504 Toalettbyggnad Åsa camping x
+
 1505 Toalettbyggnad Gårda brygga badplats x
 
 Kommunbudget 2022 och plan 2023–2024 51
@@ -10927,40 +11598,48 @@ Kommunbudget 2022 och plan 2023–2024 51
 INVESTERING OCH EXPLOATERING
 
 Noter
-1503 Datahall
+
 1407 Kullaviksskolan ombyggnad kök och matsal
-Datahall/Serverrum och lagring för flertalet av kommunens
 Behov av att bygga om Kullaviksskolans mottagningskök och
-verksamhetssystem.
 matsal för att en förbättrad kvalitet utifrån nuvarande nivå,
 samt för en förbättrad arbetsmiljö.
-1504 Toalettbyggnad Åsa camping
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 1500 Kapareskolan ombyggnad kök
-ver ersättas.
 Den totala produktionen behöver utöka produktionskapa-
 citeten på Kapareskolans tillagningskök. Samordnas med
-1505 Toalettbyggnad Gårda brygga badplats
 projekt 1501 Fjordskolan mottagningskök och projekt 1502
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolans mottagningskök.
-ver ersättas.
 1501 Fjordskolan mottagningskök
 Nytt mottagningskök och avveckla av tre befintliga mottag-
 ningskök på skolan. Samordnas med projekt 1500 Kaparesko-
 lans ombyggnad.
+
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
 uppnått tekniskt slutdatum. Samordnas med projekt 335
 Iseråsskolan
+
+1503 Datahall
+Datahall/Serverrum och lagring för flertalet av kommunens
+verksamhetssystem.
+1504 Toalettbyggnad Åsa camping
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
+1505 Toalettbyggnad Gårda brygga badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-131 Arena inkl skyddsrum              x
+131 Arena inkl skyddsrum               x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
 1406 Duveheds omlastningsstation x
 1408 Skyddsrum Kvarteret Liljan                 x
-1410 Engångskostnader        x    x   x    x    x
+
+1410 Engångskostnader        x    x    x    x   x
+
 Noter
+
 131 Arena inklusive skyddsrum     1408 Skyddsrum Kvarteret Liljan
 Arenahall med placering söder om Kungsbacka Sportcenter. Exploateringen av kvarteret gör att befintligt skyddsrum
 måste ersättas.
@@ -11965,8 +12644,6 @@ FASTIGHETSVAÄRDERARE
 
 AK A
 
-svär LUme
-
 SAMHÄLLSBYGGARNA Göteborg 2019-10-02
 Lars Lindeberg
 Fastighetskoll Väst AB
@@ -11999,19 +12676,17 @@ Hålgårdsvägen 6           E-post (e-post borttagen)     F-skatt
 
 <!-- sida 370 -->
 
-N 6376015
-244423
-E
-1:1 825
-Koordinatsystem
-SWEREF
-99
-TM
-N 6376507
-E
-324799
 LANTMÄTERIET
+N 6376507
+
+N 6376015 1:1 825
 Fastighetsgränser i kartan är översiktliga och saknar rättsverkan, jämför beslut i lantmäterihandlingar och fastighetsrättslig karta/kartor. © Lantmäteriet
+
+E 324442
+
+E 324799
+
+Koord ina tsystem SW EREF 99 TM
 
 <!-- sida 371 -->
 
@@ -12115,27 +12790,30 @@ Bilaga 3
 
 <!-- sida 376 -->
 
-N 6372517
-392223
-E
-1:28 443
-Koordinatsystem
-SWEREF
-99
-TM
-N 6380181
-E
-327869
 LANTMÄTERIET
+N 6380181
+
 Ramnabergen
 ?\~t,•,\~, hålan ,
 .....
 ,-Svartevatten
+
 {)
+
 \_iorsbergen
+
 p
+
 1(
+
+N 6372517 1:28 443
 Fastighetsgränser i kartan är översiktliga och saknar rättsverkan, jämför beslut i lantmäterihandlingar och fastighetsrättslig karta/kartor. © Lantmäteriet
+
+E 322293
+
+E 327869
+
+Koord ina tsystem SW EREF 99 TM
 
 <!-- sida 377 -->
 
@@ -12192,106 +12870,124 @@ strategi AB, Newsec Advice AB, Savills Sweden AB och Svefa AB. De är utarbetade
 Sektionen För Fastighetsvärdering inom Samhällsbyggarna och är avsedda för auktoriserade värderare inom Samhällsbyggarna. Villkoren
 gäller från 2010-12-01 vid värdering av hela, delar av fastigheter, tomträtter, byggnader på ofri grund eller liknande värderingsuppdrag inom
 Sverige. Såvitt ej annat framgår av värdeutlåtandet gäller följande;
+
 1 Värdeutlåtandets omfattning
-1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast 3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
-egendom eller motsvarande med tillhörande rättigheter och inte för den skada som kan åsamkas uppdragsgivaren eller
-skyldigheter i form av servitut, ledningsrätt, samfälligheter tredje man som en konsekvens av att värdebedömningen är
-och övriga rättigheter eller skyldigheter som framgår av ut- felaktig på grund av att värderingsobjektet är i behov av
-drag från Fastighetsregistret hänförligt till värderingsobjektet. sanering eller att det föreligger någon annan form av
-miljömässig belastning.
+1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast
+egendom eller motsvarande med tillhörande rättigheter och
+skyldigheter i form av servitut, ledningsrätt, samfälligheter
+och övriga rättigheter eller skyldigheter som framgår av ut-
+drag från Fastighetsregistret hänförligt till värderingsobjektet.
 1.2 Värdeutlåtandet omfattar även, i förekommande fall, till
-värderingsobjektet hörande fastighetstillbehör och byggnads- 4 Besiktning, tekniskt skick
-tillbehör, dock ej industritillbehör i annan omfattning än vad 4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
-som framgår av utlåtandet.         som beskrivs i utlåtandet är baserad på översiktlig okulär
-besiktning. Utförd besiktning har ej varit av sådan karaktär att
-1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från den uppfyller säljarens upplysningsplikt eller köparens under-
-Fastighetsregistret. Den information som erhållits genom sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
-Fastighetsregistret har förutsatts vara korrekt och fullständig, objektet förutsätts ha det skick och den standard som okulär-
-varför ytterligare utredning av legala förhållanden och besiktningen indikerade vid besiktningstillfället.
+värderingsobjektet hörande fastighetstillbehör och byggnads-
+tillbehör, dock ej industritillbehör i annan omfattning än vad
+som framgår av utlåtandet.
+1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från
+Fastighetsregistret. Den information som erhållits genom
+Fastighetsregistret har förutsatts vara korrekt och fullständig,
+varför ytterligare utredning av legala förhållanden och
 dispositionsrätt ej vidtagits. Vad gäller legala förhållanden
-utöver vad som framgår av Fastighetsregistret har dessa 4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
-enbart beaktats i den omfattning information därom lämnats förhållanden på egendomen, under marken eller i byggnaden,
-skriftligen av uppdragsgivaren/ägaren eller dennes ombud. som skulle påverka värdet. Inget ansvar tas för
+utöver vad som framgår av Fastighetsregistret har dessa
+enbart beaktats i den omfattning information därom lämnats
+skriftligen av uppdragsgivaren/ägaren eller dennes ombud.
 Förutom det som framgår av utdrag från Fastighetsregistret
-• sådant som skulle kräva specialistkompetens eller speciella
 samt av uppgifter som lämnats av uppdragsgivaren/ägaren
-kunskaper för att upptäcka.
 eller dennes ombud har det förutsatts att värderingsobjektet
-• funktionen (skadefriheten) och/eller konditionen hos bygg-
 inte belastas av icke inskrivna servitut, nyttjanderättsavtal
-nadsdetaljer, mekanisk utrustning, rörledningar eller
 eller andra avtal som i något avseende begränsar fastighets-
-elektriska komponenter.
 ägarens rådighet över egendomen samt att värderingsobjektet
 inte belastas av betungande utgifter, avgifter eller andra
-5 Ansvar
 gravationer. Vidare har det förutsatts att värderingsobjektet
-5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
 inte är föremål för tvist i något avseende.
-följd av fel i värdeutlåtandet skall framställas inom ett år från
-värderingstidpunkten (datum för undertecknande av värde-
 2 Förutsättningar för värdeutlåtande
-ringen).
 2.1 Den information som innefattas i värdeutlåtandet har in-
 samlats från källor som bedömts vara tillförlitliga. Samtliga
-5.2 Det maximala skadestånd som kan utgå för påvisad skada till
 uppgifter som erhållits genom uppdragsgivaren/ägaren eller
-följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
 dennes ombud och eventuella nyttjanderättshavare, har
-ringstidpunkten.
 förutsatts vara korrekta. Uppgifterna har endast kontrollerats
 genom en allmän rimlighetsbedömning. Vidare har förutsatts
-6 Värdeutlåtandets aktualitet
 att inget av relevans för värdebedömningen har utelämnats av
-6.1 Beroende på att de faktorer som påverkar värderingsobjektets
 uppdragsgivaren/ägaren eller dennes ombud.
-marknadsvärde förändras över tiden är den värdebedömning
-som återges i utlåtandet gällande endast vid värdetidpunkten
 2.2 De areor som läggs till grund för värderingen har erhållits
-med de förutsättningar och reservationer som angivits i utlå-
 genom uppdragsgivaren/ägaren eller dennes ombud. Värde-
-tandet.
 raren har förlitat sig på dessa areor och har inte mätt upp dem
 på plats eller på ritningar, men areorna har kontrollerats
-6.2 Framtida in- och utbetalningar samt värdeutveckling som
 genom en rimlighetsbedömning. Areorna har förutsatts vara
-redovisas i utlåtandet i förekommande fall, har gjorts utifrån
 uppmätta i enlighet med vid varje tillfälle gällande ”Svensk
-ett scenario som, enligt värderarens uppfattning, återspeglar
 Standard”.
-fastighetsmarknadens förväntningar om framtiden. Värdebe-
-dömningen innebär inte någon utfästelse om faktisk framtida
 2.3 Vad avser hyres- och arrendeförhållanden eller andra
-kassaflödes- och värdeutveckling.
 nyttjanderätter, har värdebedömningen i förekommande fall
 utgått från gällande hyres- och arrendeavtal samt övriga
-7 Värdeutlåtandets användande
 nyttjanderättsavtal. Kopior av dessa eller andra handlingar
-7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
 utvisande relevanta villkor har erhållits av uppdrags-
-uppdragsgivaren och skall användas i sin helhet till det syfte
 givaren/ägaren eller dennes ombud.
-som anges i utlåtandet.
 2.4 Värderingsobjektet förutsätts dels uppfylla alla erforderliga
-7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
 myndighetskrav och för fastigheten gällande villkor, såsom
-värderaren endast för direkt eller indirekt skada som kan
 planförhållanden etc, dels ha erhållit alla erforderliga myndig-
-drabba uppdragsgivaren om utlåtandet används enligt 7.1.
 hetstillstånd för dess användning på sätt som anges i ut-
-Värderaren är fri från allt ansvar för skada som drabbat tredje
 låtandet.
-man till följd av att denne använt sig av värdeutlåtandet eller
-uppgifter i detta.
 3 Miljöfrågor
 3.1 Värdebedömningen gäller under förutsättningen att mark eller
-7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
 byggnader inom värderingsobjektet inte är i behov av sane-
-refereras till i något annat skriftligt dokument, måste värde-
 ring eller att det föreligger någon annan form av miljömässig
-ringsföretaget godkänna innehållet och på vilket sätt
 belastning.
+
+3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
+inte för den skada som kan åsamkas uppdragsgivaren eller
+tredje man som en konsekvens av att värdebedömningen är
+felaktig på grund av att värderingsobjektet är i behov av
+sanering eller att det föreligger någon annan form av
+miljömässig belastning.
+4 Besiktning, tekniskt skick
+4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
+som beskrivs i utlåtandet är baserad på översiktlig okulär
+besiktning. Utförd besiktning har ej varit av sådan karaktär att
+den uppfyller säljarens upplysningsplikt eller köparens under-
+sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
+objektet förutsätts ha det skick och den standard som okulär-
+besiktningen indikerade vid besiktningstillfället.
+4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
+förhållanden på egendomen, under marken eller i byggnaden,
+som skulle påverka värdet. Inget ansvar tas för
+• sådant som skulle kräva specialistkompetens eller speciella
+kunskaper för att upptäcka.
+• funktionen (skadefriheten) och/eller konditionen hos bygg-
+nadsdetaljer, mekanisk utrustning, rörledningar eller
+elektriska komponenter.
+5 Ansvar
+5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
+följd av fel i värdeutlåtandet skall framställas inom ett år från
+värderingstidpunkten (datum för undertecknande av värde-
+ringen).
+5.2 Det maximala skadestånd som kan utgå för påvisad skada till
+följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
+ringstidpunkten.
+6 Värdeutlåtandets aktualitet
+6.1 Beroende på att de faktorer som påverkar värderingsobjektets
+marknadsvärde förändras över tiden är den värdebedömning
+som återges i utlåtandet gällande endast vid värdetidpunkten
+med de förutsättningar och reservationer som angivits i utlå-
+tandet.
+6.2 Framtida in- och utbetalningar samt värdeutveckling som
+redovisas i utlåtandet i förekommande fall, har gjorts utifrån
+ett scenario som, enligt värderarens uppfattning, återspeglar
+fastighetsmarknadens förväntningar om framtiden. Värdebe-
+dömningen innebär inte någon utfästelse om faktisk framtida
+kassaflödes- och värdeutveckling.
+7 Värdeutlåtandets användande
+7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
+uppdragsgivaren och skall användas i sin helhet till det syfte
+som anges i utlåtandet.
+7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
+värderaren endast för direkt eller indirekt skada som kan
+drabba uppdragsgivaren om utlåtandet används enligt 7.1.
+Värderaren är fri från allt ansvar för skada som drabbat tredje
+man till följd av att denne använt sig av värdeutlåtandet eller
+uppgifter i detta.
+7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
+refereras till i något annat skriftligt dokument, måste värde-
+ringsföretaget godkänna innehållet och på vilket sätt
 utlåtandet skall återges.
+
 2010-12-01 Ver 2
 
 <!-- sida 382 -->
@@ -12789,19 +13485,17 @@ Hålgårdsvägen 6 E-post larsQfastkoll.se F-skatt
 
 <!-- sida 395 -->
 
-N 6377940
-970423
-E
-1:5 681
-Koordinatsystem
-SWEREF
-99
-TM
-N 6379470
-E
-325192
 LANTMÄTERIET                                                       Bilaga 1
+N 6379470
+
+N 6377940 1:5 681
 Tänk på att gränserna i kartan inte alltid stämmer överens med verkligheten och de är inte juridiskt gällande. © Lantmäteriet
+
+E 324079
+
+E 325192
+
+Koord ina tsystem SW EREF 99 TM
 
 <!-- sida 396 -->
 
@@ -13100,18 +13794,8 @@ Bild tagen mot nordost.
 
 <!-- sida 402 -->
 
-N 6375072
-178223
-E
-1:22 416
-Koordinatsystem
-SWEREF
-99
-TM
-N 6381112
-E
-327263
 LANTMÄTERIET                                                     Bilaga 4
+N 6381112
 \~    =           \\
 Brattås
 varte/fos
@@ -13127,10 +13811,13 @@ Stenmossen g
 I
 Falkbergel
 \~"\ H/ara mossen
+
 •\~r-<,
 ,--i;-G·l ässhålan
 Högaflåget
+
 ;t..= •
+
 ...
 -..::.\~;\~ -
 i
@@ -13143,7 +13830,9 @@ IBlo,r,g.å,s. \~,,. .
 ;.
 \~   se
 \~
+
 ,\~R'·J' r
+
 :  R
 \~        -,-' -\~-
 \-
@@ -13170,7 +13859,14 @@ u'ngsbacka                                       ••: 'I'
 \~,i',•\~ ·• ..
 ,.;,;. ----·•:,!
 : Sk """""\~••--·- .    ,I?,
+N 6375072 1:22 416
 Tänk på att gränserna i kartan inte alltid stämmer överens med verkligheten och de är inte juridiskt gällande. © Lantmäteriet
+
+E 322871
+
+E 327263
+
+Koord ina tsystem SW EREF 99 TM
 
 <!-- sida 403 -->
 
@@ -13230,106 +13926,124 @@ strategi AB, Newsec Advice AB, Savills Sweden AB och Svefa AB. De är utarbetade
 Sektionen För Fastighetsvärdering inom Samhällsbyggarna och är avsedda för auktoriserade värderare inom Samhällsbyggarna. Villkoren
 gäller från 2010-12-01 vid värdering av hela, delar av fastigheter, tomträtter, byggnader på ofri grund eller liknande värderingsuppdrag inom
 Sverige. Såvitt ej annat framgår av värdeutlåtandet gäller följande;
+
 1 Värdeutlåtandets omfattning
-1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast 3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
-egendom eller motsvarande med tillhörande rättigheter och inte för den skada som kan åsamkas uppdragsgivaren eller
-skyldigheter i form av servitut, ledningsrätt, samfälligheter tredje man som en konsekvens av att värdebedömningen är
-och övriga rättigheter eller skyldigheter som framgår av ut- felaktig på grund av att värderingsobjektet är i behov av
-drag från Fastighetsregistret hänförligt till värderingsobjektet. sanering eller att det föreligger någon annan form av
-miljömässig belastning.
+1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast
+egendom eller motsvarande med tillhörande rättigheter och
+skyldigheter i form av servitut, ledningsrätt, samfälligheter
+och övriga rättigheter eller skyldigheter som framgår av ut-
+drag från Fastighetsregistret hänförligt till värderingsobjektet.
 1.2 Värdeutlåtandet omfattar även, i förekommande fall, till
-värderingsobjektet hörande fastighetstillbehör och byggnads- 4 Besiktning, tekniskt skick
-tillbehör, dock ej industritillbehör i annan omfattning än vad 4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
-som framgår av utlåtandet.         som beskrivs i utlåtandet är baserad på översiktlig okulär
-besiktning. Utförd besiktning har ej varit av sådan karaktär att
-1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från den uppfyller säljarens upplysningsplikt eller köparens under-
-Fastighetsregistret. Den information som erhållits genom sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
-Fastighetsregistret har förutsatts vara korrekt och fullständig, objektet förutsätts ha det skick och den standard som okulär-
-varför ytterligare utredning av legala förhållanden och besiktningen indikerade vid besiktningstillfället.
+värderingsobjektet hörande fastighetstillbehör och byggnads-
+tillbehör, dock ej industritillbehör i annan omfattning än vad
+som framgår av utlåtandet.
+1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från
+Fastighetsregistret. Den information som erhållits genom
+Fastighetsregistret har förutsatts vara korrekt och fullständig,
+varför ytterligare utredning av legala förhållanden och
 dispositionsrätt ej vidtagits. Vad gäller legala förhållanden
-utöver vad som framgår av Fastighetsregistret har dessa 4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
-enbart beaktats i den omfattning information därom lämnats förhållanden på egendomen, under marken eller i byggnaden,
-skriftligen av uppdragsgivaren/ägaren eller dennes ombud. som skulle påverka värdet. Inget ansvar tas för
+utöver vad som framgår av Fastighetsregistret har dessa
+enbart beaktats i den omfattning information därom lämnats
+skriftligen av uppdragsgivaren/ägaren eller dennes ombud.
 Förutom det som framgår av utdrag från Fastighetsregistret
-• sådant som skulle kräva specialistkompetens eller speciella
 samt av uppgifter som lämnats av uppdragsgivaren/ägaren
-kunskaper för att upptäcka.
 eller dennes ombud har det förutsatts att värderingsobjektet
-• funktionen (skadefriheten) och/eller konditionen hos bygg-
 inte belastas av icke inskrivna servitut, nyttjanderättsavtal
-nadsdetaljer, mekanisk utrustning, rörledningar eller
 eller andra avtal som i något avseende begränsar fastighets-
-elektriska komponenter.
 ägarens rådighet över egendomen samt att värderingsobjektet
 inte belastas av betungande utgifter, avgifter eller andra
-5 Ansvar
 gravationer. Vidare har det förutsatts att värderingsobjektet
-5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
 inte är föremål för tvist i något avseende.
-följd av fel i värdeutlåtandet skall framställas inom ett år från
-värderingstidpunkten (datum för undertecknande av värde-
 2 Förutsättningar för värdeutlåtande
-ringen).
 2.1 Den information som innefattas i värdeutlåtandet har in-
 samlats från källor som bedömts vara tillförlitliga. Samtliga
-5.2 Det maximala skadestånd som kan utgå för påvisad skada till
 uppgifter som erhållits genom uppdragsgivaren/ägaren eller
-följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
 dennes ombud och eventuella nyttjanderättshavare, har
-ringstidpunkten.
 förutsatts vara korrekta. Uppgifterna har endast kontrollerats
 genom en allmän rimlighetsbedömning. Vidare har förutsatts
-6 Värdeutlåtandets aktualitet
 att inget av relevans för värdebedömningen har utelämnats av
-6.1 Beroende på att de faktorer som påverkar värderingsobjektets
 uppdragsgivaren/ägaren eller dennes ombud.
-marknadsvärde förändras över tiden är den värdebedömning
-som återges i utlåtandet gällande endast vid värdetidpunkten
 2.2 De areor som läggs till grund för värderingen har erhållits
-med de förutsättningar och reservationer som angivits i utlå-
 genom uppdragsgivaren/ägaren eller dennes ombud. Värde-
-tandet.
 raren har förlitat sig på dessa areor och har inte mätt upp dem
 på plats eller på ritningar, men areorna har kontrollerats
-6.2 Framtida in- och utbetalningar samt värdeutveckling som
 genom en rimlighetsbedömning. Areorna har förutsatts vara
-redovisas i utlåtandet i förekommande fall, har gjorts utifrån
 uppmätta i enlighet med vid varje tillfälle gällande ”Svensk
-ett scenario som, enligt värderarens uppfattning, återspeglar
 Standard”.
-fastighetsmarknadens förväntningar om framtiden. Värdebe-
-dömningen innebär inte någon utfästelse om faktisk framtida
 2.3 Vad avser hyres- och arrendeförhållanden eller andra
-kassaflödes- och värdeutveckling.
 nyttjanderätter, har värdebedömningen i förekommande fall
 utgått från gällande hyres- och arrendeavtal samt övriga
-7 Värdeutlåtandets användande
 nyttjanderättsavtal. Kopior av dessa eller andra handlingar
-7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
 utvisande relevanta villkor har erhållits av uppdrags-
-uppdragsgivaren och skall användas i sin helhet till det syfte
 givaren/ägaren eller dennes ombud.
-som anges i utlåtandet.
 2.4 Värderingsobjektet förutsätts dels uppfylla alla erforderliga
-7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
 myndighetskrav och för fastigheten gällande villkor, såsom
-värderaren endast för direkt eller indirekt skada som kan
 planförhållanden etc, dels ha erhållit alla erforderliga myndig-
-drabba uppdragsgivaren om utlåtandet används enligt 7.1.
 hetstillstånd för dess användning på sätt som anges i ut-
-Värderaren är fri från allt ansvar för skada som drabbat tredje
 låtandet.
-man till följd av att denne använt sig av värdeutlåtandet eller
-uppgifter i detta.
 3 Miljöfrågor
 3.1 Värdebedömningen gäller under förutsättningen att mark eller
-7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
 byggnader inom värderingsobjektet inte är i behov av sane-
-refereras till i något annat skriftligt dokument, måste värde-
 ring eller att det föreligger någon annan form av miljömässig
-ringsföretaget godkänna innehållet och på vilket sätt
 belastning.
+
+3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
+inte för den skada som kan åsamkas uppdragsgivaren eller
+tredje man som en konsekvens av att värdebedömningen är
+felaktig på grund av att värderingsobjektet är i behov av
+sanering eller att det föreligger någon annan form av
+miljömässig belastning.
+4 Besiktning, tekniskt skick
+4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
+som beskrivs i utlåtandet är baserad på översiktlig okulär
+besiktning. Utförd besiktning har ej varit av sådan karaktär att
+den uppfyller säljarens upplysningsplikt eller köparens under-
+sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
+objektet förutsätts ha det skick och den standard som okulär-
+besiktningen indikerade vid besiktningstillfället.
+4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
+förhållanden på egendomen, under marken eller i byggnaden,
+som skulle påverka värdet. Inget ansvar tas för
+• sådant som skulle kräva specialistkompetens eller speciella
+kunskaper för att upptäcka.
+• funktionen (skadefriheten) och/eller konditionen hos bygg-
+nadsdetaljer, mekanisk utrustning, rörledningar eller
+elektriska komponenter.
+5 Ansvar
+5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
+följd av fel i värdeutlåtandet skall framställas inom ett år från
+värderingstidpunkten (datum för undertecknande av värde-
+ringen).
+5.2 Det maximala skadestånd som kan utgå för påvisad skada till
+följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
+ringstidpunkten.
+6 Värdeutlåtandets aktualitet
+6.1 Beroende på att de faktorer som påverkar värderingsobjektets
+marknadsvärde förändras över tiden är den värdebedömning
+som återges i utlåtandet gällande endast vid värdetidpunkten
+med de förutsättningar och reservationer som angivits i utlå-
+tandet.
+6.2 Framtida in- och utbetalningar samt värdeutveckling som
+redovisas i utlåtandet i förekommande fall, har gjorts utifrån
+ett scenario som, enligt värderarens uppfattning, återspeglar
+fastighetsmarknadens förväntningar om framtiden. Värdebe-
+dömningen innebär inte någon utfästelse om faktisk framtida
+kassaflödes- och värdeutveckling.
+7 Värdeutlåtandets användande
+7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
+uppdragsgivaren och skall användas i sin helhet till det syfte
+som anges i utlåtandet.
+7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
+värderaren endast för direkt eller indirekt skada som kan
+drabba uppdragsgivaren om utlåtandet används enligt 7.1.
+Värderaren är fri från allt ansvar för skada som drabbat tredje
+man till följd av att denne använt sig av värdeutlåtandet eller
+uppgifter i detta.
+7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
+refereras till i något annat skriftligt dokument, måste värde-
+ringsföretaget godkänna innehållet och på vilket sätt
 utlåtandet skall återges.
+
 2010-12-01 Ver 2
 
 <!-- sida 406 -->
@@ -13444,12 +14158,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 409 -->
 
-3 .dvA
-20-70-1202             GROBETÖG  I
-12-1487 .rn låM
-41 agalibtkA          EDNAGGÄLERÖF        NETTÄRSGNINTLAVRÖF
-Dok.Id
-783367
 es.lotsmod.grobetoginettarsgnintlavrof.www                 00 07 237 - 130
 stalpbbeW                                    nofeleT
 grobetöG 51 004 00:61–00:80
@@ -13457,26 +14165,43 @@ es.mod@grobetoginettarsgnintlavrof 79135 xoB gaderf–gadnåm 41 natagerutS netS
 tsop-E       sserdatsoP  reditteppÖ     sserdasköseB
 .ttäs tanna åp noitamrofni röf sso atkatnoK .retfigppunosrep/es.lotsmod.www es ,retfigppunosrep va gnildnaheb snelotsmod mO
 )1 va( 1 adiS
+
 1 agalibtka :ragnildnah edagofiB
+
 greböjS ailiceC
+
 .00 07 237-130 nofelet rep tsalkne sso rån in – rogårf div anräg
 sso atkatnoK .negninggäldnah mo hco nelotsmod mo noitamrofni snnif nestalpbbew åP
 ?rogårf in raH
+
 .ralumroftkatnok/es.lotsmod.www dnävna ,tsop-e gilnav nä tehrekäs ergöh röF .ttäs tanna
 åp sanmäl etni åd revöheb eD .tamrof-FDP i tsleh ,tsop-e dem anragnildnah ni anräg akcikS
+
 .tsop-e aiv telåm i ragnildnah akciks nak iv tta ås ,sserdatsop-e åskco anmäL .åp
 sån nak in remmunnofelet tanna relle remmunlibom hco 12-1487 remmunlåm ,nman egppU
 tednartty ni rakciks in räN
+
 .ni timmok etni ravs togån mo nevä ,telåm arögva tta ammok nelotsmod
 nak tu ttåg rah nedit räN .1202 iluj 61 ned tsanes tednartty ah etsåm nelotsmoD
 .anragnildnah i råts mos ted retömeb in räd ednartty tgiltfirks tte ni anmäl aks iN
 nelotsmod llit ednartty tte anmäL
+
 .verb atted dem rejlöf anragnildnaH .telåm i ragnildnah ni ttåf rah nelotsmoD
+
 negallanummok tgilne gninvörpstehgilgal :relläg telåM
 nummok akcabsgnuK ./.       :retraP
+
 732§
+
 nummok akcabsgnuK
+
+3 .dvA
+20-70-1202             GROBETÖG  I
+12-1487 .rn låM
 '
+41 agalibtkA          EDNAGGÄLERÖF        NETTÄRSGNINTLAVRÖF
+
+D ok .Id 783367
 
 <!-- sida 410 -->
 
@@ -15210,28 +15935,44 @@ Strategiskt område: Förnyelseförmåga och konkurrenskraft
 Strategins mål
 Hållbar tillväxt byggd på konkurrenskraft, grön omställning
 samt ett attraktivt och inkluderande samhälle
+
 Strategiskt område
 Förnyelseförmåga och konkurrenskraft
 Mål strategiskt område
 En region med internationell konkurrenskraft och hållbar tillväxt
 
-Prioriteringar               Delmål
+Prioriteringar              Delmål
 Stimulera entreprenörskap och stödja företag i Fler nya företag och ökad överlevnadsgrad
 uppstartsfasen
-Främja den tekniska utvecklingen och digitala Fler kunskapsintensiva företag och jobb i
-omställningen i det halländska näringslivet regionen
-Främja internationalisering bland företagen Fler exportföretag och ökade exportintäkter till
+
+Främja den tekniska utvecklingen och digitala
+omställningen i det halländska näringslivet
+Främja internationalisering bland företagen
+
+Stimulera och attrahera offentliga och privata in-
+vesteringar i forskning och utveckling
+
+Stärka företagens innovationskapacitet
+
+Positionera Halland för att attrahera besökare,
+kompetenser, företag och investeringar
+Stimulera till hållbar omställning av det
+halländska näringslivet
+
+Fler kunskapsintensiva företag och jobb i
+regionen
+Fler exportföretag och ökade exportintäkter till
 regionen
 
-Stimulera och attrahera offentliga och privata in- Ökade investeringar i FoU bland regionens
-vesteringar i forskning och utveckling aktörer
+Ökade investeringar i FoU bland regionens
+aktörer
 
-Stärka företagens innovationskapacitet Fler innovativa företag i regionen
+Fler innovativa företag i regionen
 
-Positionera Halland för att attrahera besökare, Regionen ska attrahera fler etableringar, besö-
-kompetenser, företag och investeringar kare och kompetenser
-Stimulera till hållbar omställning av det Fler företag ska bedriva ett aktivt mångfalds-,
-halländska näringslivet      klimat- och miljöarbete
+Regionen ska attrahera fler etableringar, besö-
+kare och kompetenser
+Fler företag ska bedriva ett aktivt mångfalds-,
+klimat- och miljöarbete
 
 För att uppnå långsiktig regional utveckling och tillväxt behövs goda förutsättningar
 för entreprenörskap och innovation, som i sin tur genererar arbetstillfällen för män-
@@ -15854,8 +16595,8 @@ regional utveckling i Halland
 Inledning
 
 Hur ska Halland utvecklas hållbart de kommande femton åren?
-Hur ska vi möta vår tids samhällsutmaningar och fortsätta vara
 
+Hur ska vi möta vår tids samhällsutmaningar och fortsätta vara
 en stark och livskraftig region? Den här regionala utvecklings­
 
 strategin ger en övergripande beskrivning av Hallands styrkor
@@ -15863,30 +16604,52 @@ och utmaningar – och pekar ut en riktning för hur vi tillsammans
 
 behöver agera för att åstadkomma det vi vill uppnå.
 
-År 2035 vill vi leva i ett Halland som är närmare skådats i modern tid. Ännu har vi inte sett
-visionen om att vara den bästa livsplatsen. alla samhällskonsekvenser och det är fort­
-För att uppnå det krävs ett mer samman­ farande oklart vad vi behöver laga, utveckla
-hållet, livskraftigt och delaktigt Halland. och bygga upp igen. Det är också oklart vilka
-positiva effekter och lärdomar vi kommer att
-Goda livsvillkor ska gälla för alla, oavsett om ta med oss.
+År 2035 vill vi leva i ett Halland som är närmare
+visionen om att vara den bästa livsplatsen.
+För att uppnå det krävs ett mer samman­
+hållet, livskraftigt och delaktigt Halland.
+
+Goda livsvillkor ska gälla för alla, oavsett om
 du är född här, har vuxit upp här, åldrats här
-eller nyss flyttat hit. Det ska finnas likvärdiga Det vi däremot vet är att Halland historiskt
-möjligheter till utbildning, arbete och egen sett har klarat kriser bra. Det har berott på
-försörjning, ett balanserat och utvecklande flera olika faktorer. En viktig faktor är vår
-arbetsliv och en aktiv ålderdom. Genom hela framtidstro och vår förmåga att arbeta
-livet ska det finnas möjlighet till en menings­ tillsammans. Det är bara genom att arbeta
-full fritid och ett rikt kulturliv. Ingen ska tillsammans som vi kan lösa våra gemen­
-lämnas utanför.                samma p roblem. Och det är genom att
-utforska och lära av misstagen som vi blir
-Vår utveckling ska ske tillsammans med vår bättre på att f orma och driva utvecklingen.
+eller nyss flyttat hit. Det ska finnas likvärdiga
+möjligheter till utbildning, arbete och egen
+försörjning, ett balanserat och utvecklande
+arbetsliv och en aktiv ålderdom. Genom hela
+livet ska det finnas möjlighet till en menings­
+full fritid och ett rikt kulturliv. Ingen ska
+lämnas utanför.
+
+Vår utveckling ska ske tillsammans med vår
 omvärld. Det innebär att vi inte förbrukar eller
-missbrukar de naturliga resurserna. Utveck­ Med den regionala utvecklingsstrategin
-lingen ska även medföra positiva effekter på tar v i gemensamt sikte på framtiden.
-vår omvärld, både nationellt och globalt. Steg för steg närmar vi oss visionen:
-Halland – Bästa livsplatsen.
+missbrukar de naturliga resurserna. Utveck­
+lingen ska även medföra positiva effekter på
+vår omvärld, både nationellt och globalt.
+
 På grund av pandemin som råder i skrivande
 stund ställs krav på en omställning vars
 hastighet och omfattning aldrig tidigare
+
+skådats i modern tid. Ännu har vi inte sett
+alla samhällskonsekvenser och det är fort­
+farande oklart vad vi behöver laga, utveckla
+och bygga upp igen. Det är också oklart vilka
+positiva effekter och lärdomar vi kommer att
+ta med oss.
+
+Det vi däremot vet är att Halland historiskt
+sett har klarat kriser bra. Det har berott på
+flera olika faktorer. En viktig faktor är vår
+framtidstro och vår förmåga att arbeta
+tillsammans. Det är bara genom att arbeta
+tillsammans som vi kan lösa våra gemen­
+samma p roblem. Och det är genom att
+utforska och lära av misstagen som vi blir
+bättre på att f orma och driva utvecklingen.
+
+Med den regionala utvecklingsstrategin
+tar v i gemensamt sikte på framtiden.
+Steg för steg närmar vi oss visionen:
+Halland – Bästa livsplatsen.
 
 5
 
@@ -15924,46 +16687,76 @@ bygger det samhälle vi vill leva i.
 
 \\
 
+.ednaröfmoneg tlluftfark
+tte röf hco golaid gilreunitnok röf mrofttalp
+masnemeg ne rä nigetarts hco ,repaksnuk
+hco resruser ,ravsna akilo rah iV .ragnin
+­nällah tmas retehgidnym agiltats ardna
+hco neslerytssnäL ,dnallaH noigeR ,renoit
+­asinagro ednajmärf sgateröf ,rotkes nerubédi
+,nimedaka ,renummok xes stenäl ,retrap akilo
+snedankramstebra agäs lliv teD .nigetarts
+va tednaröfmoneg llit rardib mos rerötka
+ed alla rattafmo ne:SUR i ”iv” teppergeB
+.rerotkes hco rerötka va dderb ne moneg
+eks nigetarts räh ned va tednaröf moneg
+nevä revöheb tednagatmarf mos sicerP
+
+.tåmarf gnintkir masnemeg ne hco ragninamtu
+,rokryts aksdnällah attih eragildyt unnä tta röf
+rerötka aksdnällah dem ssecorpssimer hco
+­golaid ednattafmo ne röf galrednu tirav rah
+resylana asseD .”vitkepsrep tllenoitkesretni
+tte ru rokllivsvil hco vil snegninnällah – nevarg
+llit naggav nårF” tmas ”5302 igetartssgnilkcev
+­tu lanoiger llit sylana – nestalpsvil atsäb llit
+gäv åP” nesylana i timmokmarf mos nedårmo
+åp raresukof nigetartssgnilkcevtu alanoiger
+neD .tednagatmarf i gytkrev agitkiv tirav röfräd
+rah golaid hco sylanA .erakdisgnirän atavirp
+hco tevilsgnineröf ,nrotkesrutluk ,nedråv
+­kujs mosås ,negnilkcevtu alanoiger ned
+
 rakrevåp ttäs akilo åp mos renoitasinagro hco
 rerötka adliks ttiv röf ekrämtkir mos aregnuf
 annuk aks SUR nE .etni såtsröf ted rä tleknE
 
 .stalpsvil gitkaled hco gitfarksvil ,rabllåh rem
-.ednaröfmoneg tlluftfark ne tom negäv iv ramrof ragnirdnäröftamilk
-tte röf hco golaid gilreunitnok röf mrofttalp hco gnilkcevtu kilmäjo ne dem anragninamtu
-masnemeg ne rä nigetarts hco ,repaksnuk atöm tta moneg tmas nerå notmef angnåg
-hco resruser ,ravsna akilo rah iV .ragnin ed talkcevtu rah iv mos rokryts ed åp arav at
-­nällah tmas retehgidnym agiltats ardna tta moneG .tetilavksvil mos rareinifed avläjs
-hco neslerytssnäL ,dnallaH noigeR ,renoit ed ted ånppu hco noitautissvil nis akrevåp
-­asinagro ednajmärf sgateröf ,rotkes nerubédi nak avläjs anragninnällah tta ås emmyrtu
-,nimedaka ,renummok xes stenäl ,retrap akilo ­sgnildnah tte apaks revöheb tmasnemeg
-snedankramstebra agäs lliv teD .nigetarts iv tta nevä räbenni teD .roklliv akil åp negnil
-va tednaröfmoneg llit rardib mos rerötka ­kcevtusllähmas llit ardib hco låmsvil aråv
-ed alla rattafmo ne:SUR i ”iv” teppergeB agilkrevröf nak dnallaH i rob mos iv alla tta
-.rerotkes hco rerötka va dderb ne moneg ås nenalpleps anmäjtu anranåvni röf hco dem
-eks nigetarts räh ned va tednaröf moneg snammasllit tta ”röfnatu sanmäl aks negni”
-nevä revöheb tednagatmarf mos sicerP nepicnirp räbenni txetnok ksdnällah ne I
+ne tom negäv iv ramrof ragnirdnäröftamilk
+hco gnilkcevtu kilmäjo ne dem anragninamtu
+atöm tta moneg tmas nerå notmef angnåg
+ed talkcevtu rah iv mos rokryts ed åp arav at
+tta moneG .tetilavksvil mos rareinifed avläjs
+ed ted ånppu hco noitautissvil nis akrevåp
+nak avläjs anragninnällah tta ås emmyrtu
+­sgnildnah tte apaks revöheb tmasnemeg
+iv tta nevä räbenni teD .roklliv akil åp negnil
+­kcevtusllähmas llit ardib hco låmsvil aråv
+agilkrevröf nak dnallaH i rob mos iv alla tta
+ås nenalpleps anmäjtu anranåvni röf hco dem
+snammasllit tta ”röfnatu sanmäl aks negni”
+nepicnirp räbenni txetnok ksdnällah ne I
 
-.tåmarf gnintkir masnemeg ne hco ragninamtu       .dlräv rabllåh
-,rokryts aksdnällah attih eragildyt unnä tta röf ne röf tetebra i röfnatu sanmäl aks negni
-rerötka aksdnällah dem ssecorpssimer hco tta – gildyt rä nepicnirp ednaggäldnurg ned
-­golaid ednattafmo ne röf galrednu tirav rah räd nelåmstehrabllåh alabolg 71 ed hco 0302
-resylana asseD .”vitkepsrep tllenoitkesretni adnegA i pmatsva iv rat igetarts sgnilkcevtu
-tte ru rokllivsvil hco vil snegninnällah – nevarg alanoiger anned I .dnallaH talgärp
-llit naggav nårF” tmas ”5302 igetartssgnilkcev hco talkcevtu mos dit anned rednu dem
-­tu lanoiger llit sylana – nestalpsvil atsäb llit statebra hco tnäh rah tekcyM .tegäl va raled
-gäv åP” nesylana i timmokmarf mos nedårmo ­röf apaks hco paksnuk dem gateröf aggyb
-åp raresukof nigetartssgnilkcevtu alanoiger ,rammördob agilkrevröf tta åp sukof gål 5002
-neD .tednagatmarf i gytkrev agitkiv tirav röfräd nårf nigetarts I .tetebrasgnilkcevtu alanoiger
-rah golaid hco sylanA .erakdisgnirän atavirp aksdnällah ted röf ednadelgäv tirav nerå 51
-hco tevilsgnineröf ,nrotkesrutluk ,nedråv etsanes ed mos SUR edneågeröf nårf tsaf
-­kujs mosås ,negnilkcevtu alanoiger ned reggil ,nestalpsvil atsäB – dnallaH ,nenoisiV
+.dlräv rabllåh
+ne röf tetebra i röfnatu sanmäl aks negni
+tta – gildyt rä nepicnirp ednaggäldnurg ned
+räd nelåmstehrabllåh alabolg 71 ed hco 0302
+adnegA i pmatsva iv rat igetarts sgnilkcevtu
+alanoiger anned I .dnallaH talgärp
+hco talkcevtu mos dit anned rednu dem
+statebra hco tnäh rah tekcyM .tegäl va raled
+­röf apaks hco paksnuk dem gateröf aggyb
+,rammördob agilkrevröf tta åp sukof gål 5002
+nårf nigetarts I .tetebrasgnilkcevtu alanoiger
+aksdnällah ted röf ednadelgäv tirav nerå 51
+etsanes ed mos SUR edneågeröf nårf tsaf
+reggil ,nestalpsvil atsäB – dnallaH ,nenoisiV
 
 <!-- sida 471 -->
 
 Med                  sikte
 
-och              riktning
+och               riktning
 
 mot                den               bästa
 
@@ -15971,16 +16764,27 @@ livsplatsen
 
 2035
 
-Hallands vision är att vara den bästa Den globala överenskommelsen om
-livs platsen och det ska ske på ett sätt som hållbar utveckling och den grundläggande
-är m iljömässigt, socialt och ekonomiskt principen att ingen ska lämnas utanför är
-hållbart. I Halland år 2035 mår såväl hallän­ ramen för den utveckling som sker. Den
-ningen som platsen bra. Det är ett Halland pekar ut riktningen – att alla behövs och att
-i balans som t illfredsställer dagens behov det är viktigt att nå de som står längst ifrån
-utan att äventyra kommande generationers samhällsutvecklingen först.
+Hallands vision är att vara den bästa
+livs platsen och det ska ske på ett sätt som
+är m iljömässigt, socialt och ekonomiskt
+hållbart. I Halland år 2035 mår såväl hallän­
+ningen som platsen bra. Det är ett Halland
+i balans som t illfredsställer dagens behov
+utan att äventyra kommande generationers
 möjlig heter till ett gott liv. Ett Halland som är
-väl r ustat för m orgondagens utmaningar, Den riktning som vi behöver röra oss mot de
-var än i regionen de uppstår.  kommande 15 åren för att närma oss denna
+väl r ustat för m orgondagens utmaningar,
+var än i regionen de uppstår.
+
+Den globala överenskommelsen om
+hållbar utveckling och den grundläggande
+principen att ingen ska lämnas utanför är
+ramen för den utveckling som sker. Den
+pekar ut riktningen – att alla behövs och att
+det är viktigt att nå de som står längst ifrån
+samhällsutvecklingen först.
+
+Den riktning som vi behöver röra oss mot de
+kommande 15 åren för att närma oss denna
 vision kan sammanfattas så här:
 
 8
@@ -16005,91 +16809,173 @@ möjlighet till ett gott liv.
 
 Centrala kännetecken för Halland som bästa livsplats 2035
 
-Alla barn och unga har likvärdiga hälso­ och sjukvård. I Halland arbetar vi till­
-förutsättningar för goda uppväxt­ sammans för att skapa goda förutsättningar
-villkor                        för en god hälsa och ett gott liv – livet ut.
+Alla barn och unga har likvärdiga
+förutsättningar för goda uppväxt­
+villkor
 Alla barn och unga i Halland har likvärdiga
-förutsättningar för goda uppväxtvillkor som Samhällsutvecklingen bidrar till en
-stimulerar deras utveckling, inlärning, krea­ god och jämlik folkhälsa
-tivitet och hälsa. Goda uppväxtvillkor inne­ En god och jämlik folkhälsa skapar förutsätt­
-fattar även möjligheten till en meningsfull och ningar för hallänningarna att forma sina liv
-aktiv fritid. Genom att värdesätta barns rätt till efter egna önskemål och vara delaktiga i
-kulturella upplevelser och eget skapande samhällsutvecklingen genom hela livet.
-stärker vi deras förutsättningar att växa upp Alla delar av samhället bidrar på olika sätt
-till aktiva samhällsmedborgare. Barn och till en trygg och aktiv vardag, ett studie­ och
-unga ges också förutsättningar att göra arbets liv i balans, goda sociala nätverk, en
-medvetna val som inte begränsas av kön, hälsosam livsstil och andra faktorer som
-socioekonomiska faktorer, var i Halland de bor påverkar hallänningens hälsa positivt. I ett
-eller andra förhållanden. Genom ett syste­ större perspektiv stärker den goda folkhälsan
-matiskt barnrättsarbete för och till sammans hela Hallands utveckling.
+förutsättningar för goda uppväxtvillkor som
+stimulerar deras utveckling, inlärning, krea­
+tivitet och hälsa. Goda uppväxtvillkor inne­
+fattar även möjligheten till en meningsfull och
+aktiv fritid. Genom att värdesätta barns rätt till
+kulturella upplevelser och eget skapande
+stärker vi deras förutsättningar att växa upp
+till aktiva samhällsmedborgare. Barn och
+unga ges också förutsättningar att göra
+medvetna val som inte begränsas av kön,
+socioekonomiska faktorer, var i Halland de bor
+eller andra förhållanden. Genom ett syste­
+matiskt barnrättsarbete för och till sammans
 med barn och unga skapar vi en grogrund för
-hälsa, livslångt lärande och u tveckling. Särskilt fokus sätts på grupper i sårbara
-situationer samt på att arbeta för att de som
-Möjlighet ges till ett utvecklande behöver får ett individanpassat stöd och en
-arbetsliv och en fritid i balans tillgänglig och nära vård och omsorg.
-Människor i Halland har goda möjligheter till Digitaliseringens möjligheter och personalens
-en varaktig etablering på arbetsmarknaden kunskaper och erfarenheter tas tillvara för att
-och till egen försörjning. De ges också för­ utveckla tillgängligheten till såväl stödi nsatser
-utsättningar för en aktiv och meningsfull fritid som hälso­ och sjukvård.
+hälsa, livslångt lärande och u tveckling.
+
+Möjlighet ges till ett utvecklande
+arbetsliv och en fritid i balans
+Människor i Halland har goda möjligheter till
+en varaktig etablering på arbetsmarknaden
+och till egen försörjning. De ges också för­
+utsättningar för en aktiv och meningsfull fritid
 som möjliggör utveckling och återhämtning.
-Arbetsgivare stimulerar utveckling och Vardagslivet är miljömässigt
-lärande samt goda arbetsvillkor. Halland som hållbart
-karriär plats har stärkts, såväl i våra städer I Halland är det lätt att leva ett hållbart var­
-och tätorter som på våra landsbygder. dagsliv med låg belastning på miljö, klimat
+Arbetsgivare stimulerar utveckling och
+lärande samt goda arbetsvillkor. Halland som
+karriär plats har stärkts, såväl i våra städer
+och tätorter som på våra landsbygder.
+
+Åldrandet präglas av livskvalitet
+och meningsfullhet
+I Halland finns det möjlighet att åldras på ett
+aktivt, delaktigt och meningsfullt sätt. Äldre
+invånare kan forma sina egna liv, bibehålla en
+god hälsa och delta i samhällsutvecklingen.
+De äldre har god livskvalitet, hög medellivs­
+längd och låg sjuklighet, vilket också möjlig­
+görs av en god tillgång till en trygg och effektiv
+
+hälso­ och sjukvård. I Halland arbetar vi till­
+sammans för att skapa goda förutsättningar
+för en god hälsa och ett gott liv – livet ut.
+
+Samhällsutvecklingen bidrar till en
+god och jämlik folkhälsa
+En god och jämlik folkhälsa skapar förutsätt­
+ningar för hallänningarna att forma sina liv
+efter egna önskemål och vara delaktiga i
+samhällsutvecklingen genom hela livet.
+Alla delar av samhället bidrar på olika sätt
+till en trygg och aktiv vardag, ett studie­ och
+arbets liv i balans, goda sociala nätverk, en
+hälsosam livsstil och andra faktorer som
+påverkar hallänningens hälsa positivt. I ett
+större perspektiv stärker den goda folkhälsan
+hela Hallands utveckling.
+
+Särskilt fokus sätts på grupper i sårbara
+situationer samt på att arbeta för att de som
+behöver får ett individanpassat stöd och en
+tillgänglig och nära vård och omsorg.
+Digitaliseringens möjligheter och personalens
+kunskaper och erfarenheter tas tillvara för att
+utveckla tillgängligheten till såväl stödi nsatser
+som hälso­ och sjukvård.
+
+Vardagslivet är miljömässigt
+hållbart
+I Halland är det lätt att leva ett hållbart var­
+dagsliv med låg belastning på miljö, klimat
 och jordens resurser. Konsumtionsmönstren
-Åldrandet präglas av livskvalitet av varor och tjänster orsakar så små miljö­
-och meningsfullhet             och hälsoproblem som möjligt. Mångfunk­
-I Halland finns det möjlighet att åldras på ett tionell grönska och vattenmiljöer är naturliga
-aktivt, delaktigt och meningsfullt sätt. Äldre inslag i Halland och utformade för att skapa
-invånare kan forma sina egna liv, bibehålla en höga boendekvaliteter och rekreations­
-god hälsa och delta i samhällsutvecklingen. möjligheter samt skapa en robusthet mot
-De äldre har god livskvalitet, hög medellivs­ dagens och kommande klimatutmaningar.
-längd och låg sjuklighet, vilket också möjlig­ Den biologiska mångfalden och natur­ och
-görs av en god tillgång till en trygg och effektiv kulturmiljön bevaras, främjas och nyttjas
+av varor och tjänster orsakar så små miljö­
+och hälsoproblem som möjligt. Mångfunk­
+tionell grönska och vattenmiljöer är naturliga
+inslag i Halland och utformade för att skapa
+höga boendekvaliteter och rekreations­
+möjligheter samt skapa en robusthet mot
+dagens och kommande klimatutmaningar.
+Den biologiska mångfalden och natur­ och
+kulturmiljön bevaras, främjas och nyttjas
 
 10
 
 <!-- sida 474 -->
 
-hållbart. Jord­ och skogsbruket är hållbart, Samhället är inkluderande och alla
-och våra vattentillgångar är skyddade och människor har möjlighet att vara
-resurssäkrade. Ekosystemen har återhämtat delaktiga
-sig, eller är på väg att återhämta sig, och Delaktighet och ”tillsammansskap” är
-deras förmåga att långsiktigt generera eko­ väg ledande för den regionala hållbara
-systemtjänster är säkrad. Halland har gått utvecklingen. Tilliten mellan människor,
-över till cirkulär ekonomi, kretsloppen är och mellan människor och samhället, är
-resurseffektiva och så långt som möjligt fria avgörande faktorer som skapar en stark
-från farliga ämnen, och en god hushållning demokrati och handlingskraft.
+hållbart. Jord­ och skogsbruket är hållbart,
+och våra vattentillgångar är skyddade och
+resurssäkrade. Ekosystemen har återhämtat
+sig, eller är på väg att återhämta sig, och
+deras förmåga att långsiktigt generera eko­
+systemtjänster är säkrad. Halland har gått
+över till cirkulär ekonomi, kretsloppen är
+resurseffektiva och så långt som möjligt fria
+från farliga ämnen, och en god hushållning
 sker med naturresurserna.
-Alla ska kunna bidra utifrån sina förutsätt­
-Samhället är livskraftigt och tåligt ningar, oavsett kön, könsidentitet, sexuell
-Människors hälsa utsätts för minimal negativ läggning, ålder, eventuell funktions­
-miljöpåverkan samtidigt som miljöns positiva nedsättning, etnicitet, trosuppfattning,
-inverkan på människors hälsa främjas. Robust socioekonomi och utbildningsnivå.
-och säker digital, teknisk och fysisk infra­
-struktur sammankopplar hela regionen och Det finns goda möjligheter för
-förenklar för individer och företag att bo och forskning och innovation
-verka i hela Halland. Detta inkluderar även Satsningar genomförs på innovation och
-platser för möten, rekreation och aktivitet. testarenor för innovativa lösningar. På så
-Estetiska, konstnärliga och kulturhistoriska sätt skapas en grogrund för näringslivet,
-värden tas tillvara och skapar inkluderande, akademi, organisationer och det offentliga
-väl gestaltade och långsiktigt hållbara att hitta nya och hållbara lösningar på de
-miljöer i städer och på landsbygden. samhällsutmaningar vi står inför.
 
-Hallands samhällsstrukturer är robusta och En hållbar affärsutveckling stärker närings­
-flexibla nog för att möta de konsekvenser livets konkurrenskraft och det tillsammans
-som ett förändrat klimat medför, som en h ögre med en ökad förmåga till förnyelse och inno­
-medeltemperatur, extrem nederbörd, torka vation skapar förutsättning för hållbar tillväxt.
-och havsnivåhöjningar. Tillgången till ett Sambandet mellan ekonomisk tillväxt och
-dricksvatten av hög kvalitet är säkrad då vi miljöförstöring är brutet. På så sätt speglar
-hushåller med vårt vatten.     näringslivets utveckling samhällets utveck­
+Samhället är livskraftigt och tåligt
+Människors hälsa utsätts för minimal negativ
+miljöpåverkan samtidigt som miljöns positiva
+inverkan på människors hälsa främjas. Robust
+och säker digital, teknisk och fysisk infra­
+struktur sammankopplar hela regionen och
+förenklar för individer och företag att bo och
+verka i hela Halland. Detta inkluderar även
+platser för möten, rekreation och aktivitet.
+Estetiska, konstnärliga och kulturhistoriska
+värden tas tillvara och skapar inkluderande,
+väl gestaltade och långsiktigt hållbara
+miljöer i städer och på landsbygden.
+
+Hallands samhällsstrukturer är robusta och
+flexibla nog för att möta de konsekvenser
+som ett förändrat klimat medför, som en h ögre
+medeltemperatur, extrem nederbörd, torka
+och havsnivåhöjningar. Tillgången till ett
+dricksvatten av hög kvalitet är säkrad då vi
+hushåller med vårt vatten.
+
+Samhället planeras utifrån ett helhetspers­
+pektiv, där frågor rörande klimat, energi och
+andra resurser samspelar. Förutsättningar
+skapas för en fossilfri och giftfri livsmiljö samt
+en i övrigt minimal negativ belastning på
+människor och miljö.
+
+Samhället är inkluderande och alla
+människor har möjlighet att vara
+delaktiga
+Delaktighet och ”tillsammansskap” är
+väg ledande för den regionala hållbara
+utvecklingen. Tilliten mellan människor,
+och mellan människor och samhället, är
+avgörande faktorer som skapar en stark
+demokrati och handlingskraft.
+
+Alla ska kunna bidra utifrån sina förutsätt­
+ningar, oavsett kön, könsidentitet, sexuell
+läggning, ålder, eventuell funktions­
+nedsättning, etnicitet, trosuppfattning,
+socioekonomi och utbildningsnivå.
+
+Det finns goda möjligheter för
+forskning och innovation
+Satsningar genomförs på innovation och
+testarenor för innovativa lösningar. På så
+sätt skapas en grogrund för näringslivet,
+akademi, organisationer och det offentliga
+att hitta nya och hållbara lösningar på de
+samhällsutmaningar vi står inför.
+
+En hållbar affärsutveckling stärker närings­
+livets konkurrenskraft och det tillsammans
+med en ökad förmåga till förnyelse och inno­
+vation skapar förutsättning för hållbar tillväxt.
+Sambandet mellan ekonomisk tillväxt och
+miljöförstöring är brutet. På så sätt speglar
+näringslivets utveckling samhällets utveck­
 ling, och kan möta både marknadens och
-Samhället planeras utifrån ett helhetspers­ samhällets behov. Vi kraftsamlar tillsammans
-pektiv, där frågor rörande klimat, energi och där det finns särskilt stor potential vad gäller
-andra resurser samspelar. Förutsättningar innovation och tillväxt. Innovation är den
-skapas för en fossilfri och giftfri livsmiljö samt drivande faktorn för samhällsutveckling,
-en i övrigt minimal negativ belastning på offentliga organisationer och näringsliv,
-människor och miljö.           och bidrar på så sätt till hållbar tillväxt och
+samhällets behov. Vi kraftsamlar tillsammans
+där det finns särskilt stor potential vad gäller
+innovation och tillväxt. Innovation är den
+drivande faktorn för samhällsutveckling,
+offentliga organisationer och näringsliv,
+och bidrar på så sätt till hållbar tillväxt och
 skapar attraktivitet för alla invånare.
 
 11
@@ -16098,69 +16984,124 @@ skapar attraktivitet för alla invånare.
 
 En        påminnelse
 
-om          hur          det         var
+om          hur          det          var
 
 när          vi     startade
 
-År 2020, i en tid av pandemi, kantad av inkomstskillnaderna mellan kvinnor och
-upprop för ökad jämlikhet och en mer hållbar män i riket och ett ekonomiskt beroende för
-livsstil och med megatrender som globalise­ kvinnorna. Även ojämlikheten i livsvillkor
-ring och digitalisering, inleddes resan för vår ökade i Halland och det påverkade olika
-regionala utvecklingsstrategi. grupper genom hela livet. Konsekvenserna
-av ojäm lika livsvillkor visades bland annat
-Livet och det ekonomiska läget i att fler unga inte fullföljde gymnasieskolan
-var gott                       och att skillnaderna i hälsa ökade.
+År 2020, i en tid av pandemi, kantad av
+upprop för ökad jämlikhet och en mer hållbar
+livsstil och med megatrender som globalise­
+ring och digitalisering, inleddes resan för vår
+regionala utvecklingsstrategi.
+
+Livet och det ekonomiska läget
+var gott
 Halland stod stadigt i en tid där mångårig
-tillväxt sett till både människor och finanser Befolkningen blev allt äldre
-hade gett oss en rad goda medelvärden att En ökad livslängd med en friskare äldre
-vara glada och stolta över: Sveriges högsta befolkning och ett lågt barnafödande hade
-förvärvsfrekvens, längsta medellivslängd lett till en allt mer åldersrik befolknings­
-och högsta självskattade hälsa. Detta gav struktur allt mer å ldersrik. De friska äldre
-oss både skattekraft och människokraft för hallänningarna blev allt fler men hade inte
-att växa och utvecklas – för den genom ­ alltid möjlighet att på sina villkor fortsätta
-snitt liga hallänningen var livet i början av bidra till den halländska samhällsutveck­
-2020­ talet ganska gott att leva. lingen. För den halländska tillväxten var de
-en outnyttjad resurs.
+tillväxt sett till både människor och finanser
+hade gett oss en rad goda medelvärden att
+vara glada och stolta över: Sveriges högsta
+förvärvsfrekvens, längsta medellivslängd
+och högsta självskattade hälsa. Detta gav
+oss både skattekraft och människokraft för
+att växa och utvecklas – för den genom ­
+snitt liga hallänningen var livet i början av
+2020­ talet ganska gott att leva.
+
 Men hur jämställt och jämlikt var det?
-En stor utmaning för att uppnå visionen om den Klimat och miljö under press
-bästa livsplatsen kvarstod dock – att fortsätta Stormar, torka och översvämningar. Konse ­
-skapa fördelar av våra unika förutsättningar k venserna av människans miljö­ och klimat­
-på ett sätt som gynnar alla hallänningar. Det påverkan hade blivit allt mer påtagliga. I en
-halländska samhället präglades av ojäm­ transporttung region som Halland stod
-ställda och ojämlika villkor, där faktorer som transportsektorn för merparten av koldioxid­
-kön, etnisk härkomst och sexuell läggning utsläppen. Den omställning som vi stod inför
-innebar en sårbarhet för vissa grupper. gällde dock inte enbart näringslivet och trans­
-Exempel vis hade kvinnor till majoritet fort­ porter, utan i hög grad också offentlig sektor.
-farande huvudansvaret för hem och barn. Omställning, krisberedskap och innovationer
-Det tillsammans med en könssegregerad ar­ krävdes för att minska vårt klimatavtryck och
-betsmarknad i Halland skapade de högsta säkra Halland för kommande generationer.
+En stor utmaning för att uppnå visionen om den
+bästa livsplatsen kvarstod dock – att fortsätta
+skapa fördelar av våra unika förutsättningar
+på ett sätt som gynnar alla hallänningar. Det
+halländska samhället präglades av ojäm­
+ställda och ojämlika villkor, där faktorer som
+kön, etnisk härkomst och sexuell läggning
+innebar en sårbarhet för vissa grupper.
+Exempel vis hade kvinnor till majoritet fort­
+farande huvudansvaret för hem och barn.
+Det tillsammans med en könssegregerad ar­
+betsmarknad i Halland skapade de högsta
+
+inkomstskillnaderna mellan kvinnor och
+män i riket och ett ekonomiskt beroende för
+kvinnorna. Även ojämlikheten i livsvillkor
+ökade i Halland och det påverkade olika
+grupper genom hela livet. Konsekvenserna
+av ojäm lika livsvillkor visades bland annat
+i att fler unga inte fullföljde gymnasieskolan
+och att skillnaderna i hälsa ökade.
+
+Befolkningen blev allt äldre
+En ökad livslängd med en friskare äldre
+befolkning och ett lågt barnafödande hade
+lett till en allt mer åldersrik befolknings­
+struktur allt mer å ldersrik. De friska äldre
+hallänningarna blev allt fler men hade inte
+alltid möjlighet att på sina villkor fortsätta
+bidra till den halländska samhällsutveck­
+lingen. För den halländska tillväxten var de
+en outnyttjad resurs.
+
+Klimat och miljö under press
+Stormar, torka och översvämningar. Konse ­
+k venserna av människans miljö­ och klimat­
+påverkan hade blivit allt mer påtagliga. I en
+transporttung region som Halland stod
+transportsektorn för merparten av koldioxid­
+utsläppen. Den omställning som vi stod inför
+gällde dock inte enbart näringslivet och trans­
+porter, utan i hög grad också offentlig sektor.
+Omställning, krisberedskap och innovationer
+krävdes för att minska vårt klimatavtryck och
+säkra Halland för kommande generationer.
 
 1122
 
 <!-- sida 476 -->
 
-2020 – ett år präglat av pandemi viktig kunskap i arbetet med att främja
-som gav viktiga lärdomar framåt människors hälsa framöver.
+2020 – ett år präglat av pandemi
+som gav viktiga lärdomar framåt
 2020 var året då både människor och orga­
-nisationer visade hur snabbt vi kan anpassa Under pandemin har den halländska sjuk­
-oss och hur flexibla vi kan vara när det verk­ vården visat prov på sin förmåga att balans era
-ligen gäller. När de fysiska mötena mellan flexibilitet och uthållighet med en snabb om­
-människor begränsades uppstod nya krea­ ställning till nya rutiner, förändrade arbets­
-tiva och digitala lösningar. Pandemin visade uppgifter och samverkan över organisatoriska
-på vikten av en grundläggande digital kom­ gränser. Erfarenheterna från pandemin har
-petens och en robust och säker uppkoppling även gjort det tydligt hur näringslivet kan s tödja
-för att kunna ta del av det växande digitala hälso­ och sjukvården och att vårdens utveck­
-samhället. Samtidigt tydliggjordes också ling är en del av den regionala utvecklingen
-betydelsen av de fysiska mötena och de med innovativa l ösningar som brobyggare.
+nisationer visade hur snabbt vi kan anpassa
+oss och hur flexibla vi kan vara när det verk­
+ligen gäller. När de fysiska mötena mellan
+människor begränsades uppstod nya krea­
+tiva och digitala lösningar. Pandemin visade
+på vikten av en grundläggande digital kom­
+petens och en robust och säker uppkoppling
+för att kunna ta del av det växande digitala
+samhället. Samtidigt tydliggjordes också
+betydelsen av de fysiska mötena och de
 gemensamma upplevelserna.
-Det har varit en tid av omprövning och ifråga­
-Pandemin satte fokus på människors hälsa sättande som ger oss förutsättningar att
-och vad som påverkar denna utöver risken hitta nya lösningar. Att höja ambitionerna
-att bli sjuk i covid­19. Lärdomar om hur och ta tillvara möjligheten till innovation och
-distansundervisning, hemarbete, karantän, nytänkande för en hållbar omställning är en
-permitteringar, boendesituation, inställda av de positiva följder som pandemins
-kultur­ och fritidsaktiviteter och andra risk­ erfarenheter kan leda till.
+
+Pandemin satte fokus på människors hälsa
+och vad som påverkar denna utöver risken
+att bli sjuk i covid­19. Lärdomar om hur
+distansundervisning, hemarbete, karantän,
+permitteringar, boendesituation, inställda
+kultur­ och fritidsaktiviteter och andra risk­
 faktorer har påverkat människors hälsa blir
+
+viktig kunskap i arbetet med att främja
+människors hälsa framöver.
+
+Under pandemin har den halländska sjuk­
+vården visat prov på sin förmåga att balans era
+flexibilitet och uthållighet med en snabb om­
+ställning till nya rutiner, förändrade arbets­
+uppgifter och samverkan över organisatoriska
+gränser. Erfarenheterna från pandemin har
+även gjort det tydligt hur näringslivet kan s tödja
+hälso­ och sjukvården och att vårdens utveck­
+ling är en del av den regionala utvecklingen
+med innovativa l ösningar som brobyggare.
+
+Det har varit en tid av omprövning och ifråga­
+sättande som ger oss förutsättningar att
+hitta nya lösningar. Att höja ambitionerna
+och ta tillvara möjligheten till innovation och
+nytänkande för en hållbar omställning är en
+av de positiva följder som pandemins
+erfarenheter kan leda till.
 
 1133
 
@@ -16222,71 +17163,112 @@ Ta oss an arbetet tillsammans.
 
 <!-- sida 479 -->
 
-Ta   tillvara     Hallands          styrkor
+Ta   tillvara      Hallands         styrkor
 
-Vi är med rätta stolta över de framgångar vi tillväxt. Bostaden och bostadsförsörjningen
-nått och över våra speciella styrkor, men vi får är central för regional utveckling. Därför ska
-inte bli bekväma. Den bästa livsplatsen idag Halland kännetecknas av attraktiva och håll­
-är inte nödvändigtvis den bästa livsplatsen bara b oendemiljöer som ger fortsatt möjlighet
-imorgon. Vi måste ta tillvara och använda oss till halländsk utveckling och hållbar tillväxt.
+Vi är med rätta stolta över de framgångar vi
+nått och över våra speciella styrkor, men vi får
+inte bli bekväma. Den bästa livsplatsen idag
+är inte nödvändigtvis den bästa livsplatsen
+imorgon. Vi måste ta tillvara och använda oss
 av de styrkor vi har utvecklat hittills.
-Skogsbruket, jordbruket och livsmedels­
-Tre viktiga styrkor för Halland som produktionen är befintliga styrkor för Halland
-bästa livsplatsen:             som också har en viktig roll när det gäller
-• En attraktiv region som har goda för­ energi­ och klimatomställning. Att öka
-utsättningar för en hållbar utveckling. nyttjandet av lokala resurser och att minska
-• En plats präglad av närhet och importberoendet av livsmedel och bio­
-till gänglighet.             bränslen b idrar till den halländska samhälls­
-• Ett läge och ett engagemang som skapar utvecklingen genom att det stärker den lokala
-samarbetsmöjligheter.        näringslivsutvecklingen, skapar miljövinster
-och är en viktig del i en stärkt krisberedskap.
-En attraktiv region som har goda
-förutsättningar för en hållbar En plats präglad av närhet och
-utveckling                     tillgänglighet
-Hela Halland växer och erbjuder olika t yper I Halland finns en närhet mellan boende,
-av livsmiljöer utifrån olika mänskliga behov. natur­ och kulturupplevelser, arbete och
-Vår attraktivitet bygger på ett helhets­ utbildning – en förutsättning för en attraktiv
-perspektiv där möjlighet till utbildning och livsmiljö. Var du än bor i Halland finns det en
-arbete är en grund läggande förutsättning, kommunhuvudort i närheten, även om det
-som sedan byggs på med goda bostads­ inte alltid är den egna kommunens huvudort.
-miljöer, naturvärden, kulturupp levelser, Det är enkelt att resa inom Halland och till
-föreningsliv etc. Natur­ och kulturlandskap gemensamma utbildnings­ och arbets­
-såsom kust, skog, i nland, hav och sjöar marknader utanför Halland. Regionen är en
-utgör goda och a ttraktiva miljöer av stor sammanhängande helhet där det är lätt att
-betydelse för v isionen om att vara den förflytta sig utan att märka de administrativa
-bästa livsplatsen.             gränserna.
 
-Halland ska behålla och utveckla attraktivi­ Detta ger oss goda möjligheter att knyta ihop
-teten i regionen genom attraktiva och hela Halland och Halland med sitt omland,
-hållbara boendemiljöer som ger fortsatt vilket ytterligare stärks genom en utvecklad
-möjlighet till halländsk utveckling för digitalisering. Närheten mellan stad och
-människor och företag.         landsbygd ger också en bra grund till att
-utveckla tjänster och produkter inom grön
-Utvecklingen i Halland ska fortsatt grunda tillväxt och grön omställning samt kulturella
-sig i de olika hållbarhetsdimensionerna för och kreativa näringar.
+Tre viktiga styrkor för Halland som
+bästa livsplatsen:
+• En attraktiv region som har goda för­
+utsättningar för en hållbar utveckling.
+• En plats präglad av närhet och
+till gänglighet.
+• Ett läge och ett engagemang som skapar
+samarbetsmöjligheter.
+
+En attraktiv region som har goda
+förutsättningar för en hållbar
+utveckling
+Hela Halland växer och erbjuder olika t yper
+av livsmiljöer utifrån olika mänskliga behov.
+Vår attraktivitet bygger på ett helhets­
+perspektiv där möjlighet till utbildning och
+arbete är en grund läggande förutsättning,
+som sedan byggs på med goda bostads­
+miljöer, naturvärden, kulturupp levelser,
+föreningsliv etc. Natur­ och kulturlandskap
+såsom kust, skog, i nland, hav och sjöar
+utgör goda och a ttraktiva miljöer av stor
+betydelse för v isionen om att vara den
+bästa livsplatsen.
+
+Halland ska behålla och utveckla attraktivi­
+teten i regionen genom attraktiva och
+hållbara boendemiljöer som ger fortsatt
+möjlighet till halländsk utveckling för
+människor och företag.
+
+Utvecklingen i Halland ska fortsatt grunda
+sig i de olika hållbarhetsdimensionerna för
 att skapa en attraktiv livsplats och en hållbar
+
+tillväxt. Bostaden och bostadsförsörjningen
+är central för regional utveckling. Därför ska
+Halland kännetecknas av attraktiva och håll­
+bara b oendemiljöer som ger fortsatt möjlighet
+till halländsk utveckling och hållbar tillväxt.
+
+Skogsbruket, jordbruket och livsmedels­
+produktionen är befintliga styrkor för Halland
+som också har en viktig roll när det gäller
+energi­ och klimatomställning. Att öka
+nyttjandet av lokala resurser och att minska
+importberoendet av livsmedel och bio­
+bränslen b idrar till den halländska samhälls­
+utvecklingen genom att det stärker den lokala
+näringslivsutvecklingen, skapar miljövinster
+och är en viktig del i en stärkt krisberedskap.
+
+En plats präglad av närhet och
+tillgänglighet
+I Halland finns en närhet mellan boende,
+natur­ och kulturupplevelser, arbete och
+utbildning – en förutsättning för en attraktiv
+livsmiljö. Var du än bor i Halland finns det en
+kommunhuvudort i närheten, även om det
+inte alltid är den egna kommunens huvudort.
+Det är enkelt att resa inom Halland och till
+gemensamma utbildnings­ och arbets­
+marknader utanför Halland. Regionen är en
+sammanhängande helhet där det är lätt att
+förflytta sig utan att märka de administrativa
+gränserna.
+
+Detta ger oss goda möjligheter att knyta ihop
+hela Halland och Halland med sitt omland,
+vilket ytterligare stärks genom en utvecklad
+digitalisering. Närheten mellan stad och
+landsbygd ger också en bra grund till att
+utveckla tjänster och produkter inom grön
+tillväxt och grön omställning samt kulturella
+och kreativa näringar.
 
 16
 
 <!-- sida 480 -->
 
-Utvecklingen i Halland ska fortsatt präglas Utvecklingen i Halland ska fortsatt bygga på
-av insatser som främjar en känsla av närhet samarbeten och att vi nyttjar varandras enga­
-och tillgänglighet. Det ska vara enkelt att gemang, styrkor och olikheter för att få kraft
-resa hållbart och lätt att förflytta sig till tillsammans i de insatser som genomförs. Den
-arbete, studier, fritidsaktiviteter och kultur. privata sektorns mångåriga arbete med ”till­
-Väl fungerade transportmöjligheter och sammansskap” har skapat både utveckling
-utvecklad infrastruktur är viktigt för den och arbetstillfällen, och näringslivets snabb­
-halländska utvecklingen, och det är också rörlighet är viktigt för den omställning vi står
-av stor betydelse för Hallands utveckling inför. Offentlig sektor har en viktig roll som
-i ett mellanregionalt, nationellt och inter­ facilitator och som testarena för innovationer.
-nationellt sammanhang.         Akademin kommer att ha en stor roll i de
-behov av utveckling och tillgängliggörande
-Ett läge och ett engagemang som av ny kunskap som de kommande åren kräver
-skapar samarbetsmöjligheter    av oss. Idéburen sektor har både genom sitt
-Hallands strategiska läge i kombination med uppdrag och sin kompetens en viktig roll i att
-att vi är en mindre region, bestående av sex stärka och utveckla demokratin genom
-kommuner, ger oss en enorm styrka i den bildning och delaktighet.
+Utvecklingen i Halland ska fortsatt präglas
+av insatser som främjar en känsla av närhet
+och tillgänglighet. Det ska vara enkelt att
+resa hållbart och lätt att förflytta sig till
+arbete, studier, fritidsaktiviteter och kultur.
+Väl fungerade transportmöjligheter och
+utvecklad infrastruktur är viktigt för den
+halländska utvecklingen, och det är också
+av stor betydelse för Hallands utveckling
+i ett mellanregionalt, nationellt och inter­
+nationellt sammanhang.
+
+Ett läge och ett engagemang som
+skapar samarbetsmöjligheter
+Hallands strategiska läge i kombination med
+att vi är en mindre region, bestående av sex
+kommuner, ger oss en enorm styrka i den
 regionala samhällsutvecklingen. Den geo­
 grafiska närheten kompletteras av en närhet
 när det gäller relationer. De korta avstånden
@@ -16294,53 +17276,111 @@ och det begränsade antalet aktörer skapar
 fortsatt goda förutsättningar för tillit och
 f örtroendefullt samarbete.
 
+Utvecklingen i Halland ska fortsatt bygga på
+samarbeten och att vi nyttjar varandras enga­
+gemang, styrkor och olikheter för att få kraft
+tillsammans i de insatser som genomförs. Den
+privata sektorns mångåriga arbete med ”till­
+sammansskap” har skapat både utveckling
+och arbetstillfällen, och näringslivets snabb­
+rörlighet är viktigt för den omställning vi står
+inför. Offentlig sektor har en viktig roll som
+facilitator och som testarena för innovationer.
+Akademin kommer att ha en stor roll i de
+behov av utveckling och tillgängliggörande
+av ny kunskap som de kommande åren kräver
+av oss. Idéburen sektor har både genom sitt
+uppdrag och sin kompetens en viktig roll i att
+stärka och utveckla demokratin genom
+bildning och delaktighet.
+
 17
 
 <!-- sida 481 -->
 
 <!-- sida 482 -->
 
-Ta   itu  med      Hallands         utmaningar
+Ta   itu  med      Hallands          utmaningar
 
-För att närma oss visionen om den bästa För att stärka Halland genom en god och
-livsplatsen behöver vi också fokusera på långsiktig ekonomisk utveckling ska vi:
-de halländska utmaningarna: demografi­ • Skapa förutsättningar för en hållbar
-utmaningen, platsutmaningen och  livsplats genom att ge våra barn och
-demokrati utmaningen. Vi behöver se dem unga en god start i livet.
-och i nästa steg även hantera dem utifrån • Verka för en god och jämlik syssel­
-följande i nriktningar:          sättning på arbetsmarknaden och ett
-• Demografiutmaningen: Stärka Halland konkurrens kraftigt näringsliv som motor
-genom en god och långsiktig ekonomisk för välfärden.
-utveckling.                  • Verka för en god folkhälsa och ett
-• Platsutmaningen: Stärka en hållbar h älsofrämjande samhälle.
-närmiljö och en attraktiv livsmiljö i hela • Verka för en jämlik och innovativ
-Halland.                       hälso­ och sjukvård.
-• Demokratiutmaningen: Stärka Halland
-genom delaktighet och tillit. Skapa förutsättningar för en hållbar
-livsplats genom att ge våra barn och unga
-Stärka Halland genom en god och en god start i livet
-långsiktig ekonomisk utveckling Att investera i barns och ungas utveckling är
-Med Sveriges högsta medellivslängd står viktigt för en hållbar samhällsutveckling. Från
-Halland inför en demografisk utmaning. de första barnåren till etablering i vuxenlivet
-För en långsiktig ekonomisk hållbarhet som präglas människor av villkoren de lever i. Vi
-möjliggör förverkligandet av visionen om behöver säkerställa att alla barn redan från
-den bästa livsplatsen hela livet igenom, så tidig ålder får växa upp i en miljö som bidrar
-behöver så många som möjligt ges förutsätt­ till att barn och unga utvecklar de förmågor
-ningar att bidra i samhällsutvecklingen. Från och erfarenheter de behöver för att som
-de första levnadsåren och genom livets olika vuxna ha en god hälsa, kunna forma sina liv
-skeden behöver hallänningarna möjligheter efter egna önskemål och bidra som aktiva
-att klara skolan, välja utbildning, skaffa och samhällsmedborgare. För att uppnå detta
-behålla ett arbete, klara en omställning på är det centralt att utveckla tidiga och
-arbets marknaden, balansera familjelivet samordnade insatser från samhället som
-och åldras med skälig inkomst och god och kompenserar för skillnader i livsvillkor.
+För att närma oss visionen om den bästa
+livsplatsen behöver vi också fokusera på
+de halländska utmaningarna: demografi­
+utmaningen, platsutmaningen och
+demokrati utmaningen. Vi behöver se dem
+och i nästa steg även hantera dem utifrån
+följande i nriktningar:
+•  Demografiutmaningen: Stärka Halland
+genom en god och långsiktig ekonomisk
+utveckling.
+•  Platsutmaningen: Stärka en hållbar
+närmiljö och en attraktiv livsmiljö i hela
+Halland.
+•  Demokratiutmaningen: Stärka Halland
+genom delaktighet och tillit.
+
+Stärka Halland genom en god och
+långsiktig ekonomisk utveckling
+Med Sveriges högsta medellivslängd står
+Halland inför en demografisk utmaning.
+För en långsiktig ekonomisk hållbarhet som
+möjliggör förverkligandet av visionen om
+den bästa livsplatsen hela livet igenom, så
+behöver så många som möjligt ges förutsätt­
+ningar att bidra i samhällsutvecklingen. Från
+de första levnadsåren och genom livets olika
+skeden behöver hallänningarna möjligheter
+att klara skolan, välja utbildning, skaffa och
+behålla ett arbete, klara en omställning på
+arbets marknaden, balansera familjelivet
+och åldras med skälig inkomst och god och
 jämlik hälsa.
+
+Den ekonomiska tillväxten är nödvändig
+för bibehållen och utvecklad välfärd
+sam tidigt som välfärden är nödvändig för
+den ekonomiska tillväxten, bland annat
+genom kraven på en alltmer utbildad och
+i nkluderad arbetskraft.
+
+För att stärka Halland genom en god och
+långsiktig ekonomisk utveckling ska vi:
+• Skapa förutsättningar för en hållbar
+livsplats genom att ge våra barn och
+unga en god start i livet.
+• Verka för en god och jämlik syssel­
+sättning på arbetsmarknaden och ett
+konkurrens kraftigt näringsliv som motor
+för välfärden.
+• Verka för en god folkhälsa och ett
+h älsofrämjande samhälle.
+• Verka för en jämlik och innovativ
+hälso­ och sjukvård.
+
+Skapa förutsättningar för en hållbar
+livsplats genom att ge våra barn och unga
+en god start i livet
+Att investera i barns och ungas utveckling är
+viktigt för en hållbar samhällsutveckling. Från
+de första barnåren till etablering i vuxenlivet
+präglas människor av villkoren de lever i. Vi
+behöver säkerställa att alla barn redan från
+tidig ålder får växa upp i en miljö som bidrar
+till att barn och unga utvecklar de förmågor
+och erfarenheter de behöver för att som
+vuxna ha en god hälsa, kunna forma sina liv
+efter egna önskemål och bidra som aktiva
+samhällsmedborgare. För att uppnå detta
+är det centralt att utveckla tidiga och
+samordnade insatser från samhället som
+kompenserar för skillnader i livsvillkor.
+
 Vi behöver arbeta aktivt för att alla barn och
-Den ekonomiska tillväxten är nödvändig unga ska få förutsättningar att kunna fullfölja
-för bibehållen och utvecklad välfärd sin grundläggande utbildning i Halland och
-sam tidigt som välfärden är nödvändig för att det finns tillgång till en utbildningsmiljö
-den ekonomiska tillväxten, bland annat som kan anpassas efter varje barns behov.
-genom kraven på en alltmer utbildad och Barn och unga behöver rustas med färdig­
-i nkluderad arbetskraft.       heter och kunskaper för att kunna göra
+unga ska få förutsättningar att kunna fullfölja
+sin grundläggande utbildning i Halland och
+att det finns tillgång till en utbildningsmiljö
+som kan anpassas efter varje barns behov.
+Barn och unga behöver rustas med färdig­
+heter och kunskaper för att kunna göra
 
 19
 
@@ -16348,77 +17388,122 @@ i nkluderad arbetskraft.       heter och kunskaper för att kunna göra
 
 Forts. Stärka Halland genom en god och långsiktig ekonomisk utveckling
 
-utbildnings­ och yrkesval som inte påverkas För ett konkurrenskraftigt näringsliv behöver vi
-av strukturer eller stereotypa föreställningar skapa goda förutsättningar för alla människor,
-om kön eller andra faktorer. Ett rikt och oavsett kön eller andra bak grunds faktorer, att
-inkluderande förenings­ och kulturliv i hela starta, utveckla och driva företag. En viktig
-Halland behövs för att bygga gemenskap motor som skapar konkurrens kraft förutsätter
-och möjlighet att utveckla olika sorters arenor där företagsidéer och innovationer
-kompetenser. Alla barns rätt till ett socialt kan tillvaratas och utvecklas på bästa sätt.
-nätverk och trygga relationer med vuxna ska God tillgång till k ompetens med både bredd
-tillgodoses så att barn och ungas möjlig­ och spets e fterfrågas i det halländska
-heter kan tillvaratas.         näringslivet och behöver u tvecklas i regionen
-eller attraheras till regionen för att göra
-Verka för en god och jämlik sysselsättning regionen till en spännande karriär­ och livs­
-på arbetsmarknaden och ett konkurrens­ plats. Vi behöver f rämja en god tillgång till
-kraftigt näringsliv som motor för välfärden bostäder och en a rbetsmarknad som aktivt
-Ekonomin, och sysselsättningen i synnerhet, efterfrågar kompetens för att ge förutsätt­
-är en viktig motor för välfärden. Med andra ningar för fler att stanna kvar i Halland efter
-ord blir sysselsättningsnivån och den avslutad utbildning. Om Halland lyckas
-arbetande befolkningen avgörande för skapa förutsättningar för en god sysselsätt­
-välfärdens finansiering, inte demografin ning, ett ständigt l ärande i a rbetslivet, en
-och befolkningsutvecklingen i sig. utbildad arbetskraft som s tannar i Halland
-och ett konkurrens kraftigt näringsliv ger det
-Samtidigt kommer vi att behöva kompensera både individuell och samhällelig vinning.
+utbildnings­ och yrkesval som inte påverkas
+av strukturer eller stereotypa föreställningar
+om kön eller andra faktorer. Ett rikt och
+inkluderande förenings­ och kulturliv i hela
+Halland behövs för att bygga gemenskap
+och möjlighet att utveckla olika sorters
+kompetenser. Alla barns rätt till ett socialt
+nätverk och trygga relationer med vuxna ska
+tillgodoses så att barn och ungas möjlig­
+heter kan tillvaratas.
+
+Verka för en god och jämlik sysselsättning
+på arbetsmarknaden och ett konkurrens­
+kraftigt näringsliv som motor för välfärden
+Ekonomin, och sysselsättningen i synnerhet,
+är en viktig motor för välfärden. Med andra
+ord blir sysselsättningsnivån och den
+arbetande befolkningen avgörande för
+välfärdens finansiering, inte demografin
+och befolkningsutvecklingen i sig.
+
+Samtidigt kommer vi att behöva kompensera
 för arbetsmarknadens kontinuerliga föränd­
-ring. Individer behöver ges olika möjligheter Verka för en god folkhälsa och ett
-till sysselsättning för att kunna bidra till sam­ hälsofrämjande samhälle
-hällsutvecklingen utifrån sin egen kapacitet, En god hälsa i befolkningen är en förutsättning
-men också genom att möta förändrade krav för en hållbar utveckling. Halland har generellt
-på kompetens i arbetslivet. Ett verktyg för en god folkhälsa, men skillnaderna i hälsa
-att öka individers delaktighet och stimulera mellan olika grupper är stora och ökar. För att
-kunskapsutbyte kan vara att nyttja skapa samhälleliga förutsättningar för en god
-digitaliseringens möjligheter. och jämlik hälsa i hela befolkningen och sluta
-de påverkbara hälsoklyftorna inom en gene­
-Halland har en stor utmaning i att möjliggöra ration krävs ett intensivt arbete i H alland. Ett
-att alla hallänningar kan bidra till den ökat fokus på främjande och f örebyggande
-ekonomiska utvecklingen utifrån sina villkor. arbete i samhället som helhet i kombination
-När allt färre behöver försörja allt fler är det med tidig hälsovård minskar även behovet av
-viktigt att vi säkerställer att alla som kan sjukvård senare i livet.
+ring. Individer behöver ges olika möjligheter
+till sysselsättning för att kunna bidra till sam­
+hällsutvecklingen utifrån sin egen kapacitet,
+men också genom att möta förändrade krav
+på kompetens i arbetslivet. Ett verktyg för
+att öka individers delaktighet och stimulera
+kunskapsutbyte kan vara att nyttja
+digitaliseringens möjligheter.
+
+Halland har en stor utmaning i att möjliggöra
+att alla hallänningar kan bidra till den
+ekonomiska utvecklingen utifrån sina villkor.
+När allt färre behöver försörja allt fler är det
+viktigt att vi säkerställer att alla som kan
 arbeta får m öjligheten att göra det och på så
-sätt kan bidra till välfärden. Vi behöver arbeta Vi behöver utveckla ett hälsofrämjande sam­
-aktivt för att motverka den könssegregerade hälle som prioriterar insatser för en f örbättrad
-arbetsmarknaden, de könssegregerade ut­ fysisk, psykisk och social hälsa i befolkningen.
-bildningsvalen, de osakliga löneskillnaderna Alla aktörer i samhället, såsom akademi och
-mellan män och kvinnor samt diskrimineringen offentlig, privat samt idéburen sektor, behöver
-av sårbara grupper på arbetsmarknaden. ta ett gemensamt ansvar i a rbetet för en god
+sätt kan bidra till välfärden. Vi behöver arbeta
+aktivt för att motverka den könssegregerade
+arbetsmarknaden, de könssegregerade ut­
+bildningsvalen, de osakliga löneskillnaderna
+mellan män och kvinnor samt diskrimineringen
+av sårbara grupper på arbetsmarknaden.
+
+För ett konkurrenskraftigt näringsliv behöver vi
+skapa goda förutsättningar för alla människor,
+oavsett kön eller andra bak grunds faktorer, att
+starta, utveckla och driva företag. En viktig
+motor som skapar konkurrens kraft förutsätter
+arenor där företagsidéer och innovationer
+kan tillvaratas och utvecklas på bästa sätt.
+God tillgång till k ompetens med både bredd
+och spets e fterfrågas i det halländska
+näringslivet och behöver u tvecklas i regionen
+eller attraheras till regionen för att göra
+regionen till en spännande karriär­ och livs­
+plats. Vi behöver f rämja en god tillgång till
+bostäder och en a rbetsmarknad som aktivt
+efterfrågar kompetens för att ge förutsätt­
+ningar för fler att stanna kvar i Halland efter
+avslutad utbildning. Om Halland lyckas
+skapa förutsättningar för en god sysselsätt­
+ning, ett ständigt l ärande i a rbetslivet, en
+utbildad arbetskraft som s tannar i Halland
+och ett konkurrens kraftigt näringsliv ger det
+både individuell och samhällelig vinning.
+
+Verka för en god folkhälsa och ett
+hälsofrämjande samhälle
+En god hälsa i befolkningen är en förutsättning
+för en hållbar utveckling. Halland har generellt
+en god folkhälsa, men skillnaderna i hälsa
+mellan olika grupper är stora och ökar. För att
+skapa samhälleliga förutsättningar för en god
+och jämlik hälsa i hela befolkningen och sluta
+de påverkbara hälsoklyftorna inom en gene­
+ration krävs ett intensivt arbete i H alland. Ett
+ökat fokus på främjande och f örebyggande
+arbete i samhället som helhet i kombination
+med tidig hälsovård minskar även behovet av
+sjukvård senare i livet.
+
+Vi behöver utveckla ett hälsofrämjande sam­
+hälle som prioriterar insatser för en f örbättrad
+fysisk, psykisk och social hälsa i befolkningen.
+Alla aktörer i samhället, såsom akademi och
+offentlig, privat samt idéburen sektor, behöver
+ta ett gemensamt ansvar i a rbetet för en god
 
 20
 
 <!-- sida 484 -->
 
-och jämlik folkhälsa. Enbart genom att som ges erbjuds på lika v illkor för alla oavsett
-arbeta tillsammans kan vi ta tillvara de vårdgivare. Kostnadsbesparingar kan möjlig­
-olika aktörernas potential.    göras genom den medicintekno logiska och
-digitala utvecklingen, inte minst genom
-Vi behöver integrera ett hälsofrämjande minskad vårdtid och vård på rätt vårdnivå.
+och jämlik folkhälsa. Enbart genom att
+arbeta tillsammans kan vi ta tillvara de
+olika aktörernas potential.
+
+Vi behöver integrera ett hälsofrämjande
 perspektiv i allt arbete vi gör. Det handlar om
-hur vi bygger vårt samhälle, vilka möjligheter I en snabbföränderlig och uppkopplad värld
-till arbete och studier det finns, hur vi organi­ spelar datadriven innovation och digitali­
-serar och leder våra arbetsplatser och skolor, sering en avgörande roll. Den informations­
-vilka möjligheter till fritidsaktiviteter och tekno logiska utvecklingen förväntas kunna
-mötesplatser vi skapar – och mycket annat. minska kostnaderna ytterligare. Det redu­
-Därtill behöver vi utveckla generella insatser cerar b ehovet av vårdplatser, men kan också
-till hela befolkningen samt riktade insatser till innebära ordentliga effektivitetsvinster inte
-de med störst behov för att stärka folkhälsan minst för läkarbesök och kommunikation på
-och minska skillnaderna.       landsbygden. Samtidigt är digitaliseringen
-inte en universallösning, utan ett verktyg, en
-Verka för en jämlik och innovativ hälso­ och beteende förändring och ett arbetssätt som
-sjukvård                       kontinuerligt växer och utvecklas. För att
-En större andel äldre och en ökad livslängd är nyttja digitaliseringens möjligheter och
-två av orsakerna till en växande efterfrågan möta de u tmaningar som uppstår behövs
-på välfärdstjänster och en ökande total sam verkan och samordning mellan akademi
-kostnad för vård och omsorg. Sjukdomar som och offentlig, privat samt idéburen sektor.
+hur vi bygger vårt samhälle, vilka möjligheter
+till arbete och studier det finns, hur vi organi­
+serar och leder våra arbetsplatser och skolor,
+vilka möjligheter till fritidsaktiviteter och
+mötesplatser vi skapar – och mycket annat.
+Därtill behöver vi utveckla generella insatser
+till hela befolkningen samt riktade insatser till
+de med störst behov för att stärka folkhälsan
+och minska skillnaderna.
+
+Verka för en jämlik och innovativ hälso­ och
+sjukvård
+En större andel äldre och en ökad livslängd är
+två av orsakerna till en växande efterfrågan
+på välfärdstjänster och en ökande total
+kostnad för vård och omsorg. Sjukdomar som
 tidigare var dödliga går idag att bota eller
 leva med. Med en ökande livslängd uppstår
 nya sjukdomsmönster som kräver förändrade
@@ -16442,6 +17527,29 @@ När det gäller det ökade behovet av vård och
 omsorg behöver vi kunna säkerställa k valiteten
 i vården samt se till att den vård och b ehandling
 
+som ges erbjuds på lika v illkor för alla oavsett
+vårdgivare. Kostnadsbesparingar kan möjlig­
+göras genom den medicintekno logiska och
+digitala utvecklingen, inte minst genom
+minskad vårdtid och vård på rätt vårdnivå.
+
+I en snabbföränderlig och uppkopplad värld
+spelar datadriven innovation och digitali­
+sering en avgörande roll. Den informations­
+tekno logiska utvecklingen förväntas kunna
+minska kostnaderna ytterligare. Det redu­
+cerar b ehovet av vårdplatser, men kan också
+innebära ordentliga effektivitetsvinster inte
+minst för läkarbesök och kommunikation på
+landsbygden. Samtidigt är digitaliseringen
+inte en universallösning, utan ett verktyg, en
+beteende förändring och ett arbetssätt som
+kontinuerligt växer och utvecklas. För att
+nyttja digitaliseringens möjligheter och
+möta de u tmaningar som uppstår behövs
+sam verkan och samordning mellan akademi
+och offentlig, privat samt idéburen sektor.
+
 21
 
 <!-- sida 485 -->
@@ -16455,54 +17563,97 @@ i vården samt se till att den vård och b ehandling
 
 <!-- sida 486 -->
 
-Stärka en hållbar närmiljö och en nyttjande av den tekniska och digitala
-attraktiv livsmiljö i hela Halland utvecklingen, samt en ökad regional
-”Det övergripande målet för miljöpolitiken är samman hållning. Det innebär också att ta
-att till nästa generation lämna över ett sam­ ansvar för att minska den klimat­ och miljö­
+Stärka en hållbar närmiljö och en
+attraktiv livsmiljö i hela Halland
+”Det övergripande målet för miljöpolitiken är
+att till nästa generation lämna över ett sam­
 i::::
-hälle där de stora miljöproblemen är lösta, påverkan som vi ger upphov till genom vår
-i::::  utan att orsaka ökade miljö­ och hälso­ konsumtion och produktion u tanför Hallands
-i::::  problem utanför Sveriges gränser.” Detta är gränser. Likaså finns behov av ännu fler
-riksdagens definition av miljömålet. Genera­ gemensamma projekt mellan a kademi och
+hälle där de stora miljöproblemen är lösta,
+i::::  utan att orsaka ökade miljö­ och hälso­
+i::::  problem utanför Sveriges gränser.” Detta är
+riksdagens definition av miljömålet. Genera­
 i::::
-tionsmålet visar på den samhällsomställning offentlig, privat samt idéburen sektor. Den
+tionsmålet visar på den samhällsomställning
 i::::
-som krävs och är ett löfte till framtida gene­ biologiska mångfalden och natur­ och kultur­
-rationer om frisk luft, hälsosamma miljöer miljön ska bevaras, främjas och nyttjas håll­
-och rika miljö upplevelser.    bart samt vara tillgänglig för boende, före­
-tagare och besökare. Den potential som
-Halland behöver aktivt bidra för att den finns för en hållbar utveckling i natur­ och
-globala temperaturökningen ska stanna vid kulturmiljöer ska tillvaratas.
+som krävs och är ett löfte till framtida gene­
+rationer om frisk luft, hälsosamma miljöer
+och rika miljö upplevelser.
+Halland behöver aktivt bidra för att den
+globala temperaturökningen ska stanna vid
 1,5­gradersmålet enligt Parisavtalet. Det
-innebär att den klimatpåverkan som Halland Fungerande ekosystem är en förutsättning för
-ger upphov till såväl inom som utanför allt liv på jorden och utgör basen för en mång­
-regionen minskar genom omställning inom fald av de ekosystemtjänster som bidrar till en
-flera olika sektorer. Det måste därför finnas god livsmiljö. De halländska ekosystemen
-för utsättningar i Halland att leva ett hållbart ska skyddas och förvaltas så att de kan fort­
-vardagsliv där vår konsumtion är medveten sätta bidra med mat, dricksvatten, bioenergi,
-och det ekologiska fotavtrycket är minimalt. kolbindning, rekreation med mera. De gröna
-Stad och landsbygd är ömsesidigt beroende ytorna i vår stadsmiljö ska skyddas och
-av varandra för såväl en hållbar närmiljö som be varas eftersom de fungerar som oaser för
-en attraktiv livsmiljö, och att underlätta detta hallänningen och bidrar till en god folkhälsa
-samspel är därför avgörande för en hållbar och livskvalitet genom bra luftkvalitet, vatten­
-utveckling i Halland.          avrinning, hög biologisk mångfald, minskad
-värmestress och mindre buller.
+innebär att den klimatpåverkan som Halland
+ger upphov till såväl inom som utanför
+regionen minskar genom omställning inom
+flera olika sektorer. Det måste därför finnas
+för utsättningar i Halland att leva ett hållbart
+vardagsliv där vår konsumtion är medveten
+och det ekologiska fotavtrycket är minimalt.
+Stad och landsbygd är ömsesidigt beroende
+av varandra för såväl en hållbar närmiljö som
+en attraktiv livsmiljö, och att underlätta detta
+samspel är därför avgörande för en hållbar
+utveckling i Halland.
 För att stärka en hållbar närmiljö och en
-attraktiv livsmiljö i hela Halland ska vi: Omställningen till en konkurrenskraftig,
-• Främja grön omställning för en god cirkulär och klimat­ och miljömässigt hållbar
-livsmiljö och livskvalitet.  ekonomi samt energiomställning ska vara en
-• Säkerställa att helhetsperspektiv och del av den regionala utvecklingen. Genom
-hållbarhet präglar samhällsplaneringen. företagande och innovation, baserat på
-cirkulära materialflöden och hållbara affärs­
-Främja grön omställning för en god livsmiljö modeller, ska utvecklingen av en konkurrens­
-och livskvalitet               kraftig, resurseffektiv, cirkulär och bio­
-En hållbar utveckling av hela Halland inne­ baserad ekonomi stärkas i hela regionen.
+attraktiv livsmiljö i hela Halland ska vi:
+• Främja grön omställning för en god
+livsmiljö och livskvalitet.
+• Säkerställa att helhetsperspektiv och
+hållbarhet präglar samhällsplaneringen.
+Främja grön omställning för en god livsmiljö
+och livskvalitet
+En hållbar utveckling av hela Halland inne­
 fattar en omställning till ett fossilfritt Halland,
-en cirkulär ekonomi, en hög försörjnings­ Säkerställa att helhetsperspektiv och
-förmåga av livsmedel, regionala leverantörs­ hållbarhet präglar samhällsplaneringen
-och produktionskedjor, att andelen förnybar Hur vi planerar, bygger och förflyttar oss
-energi ökar och energianvändningen är behöver hänga samman med hur vi fördelar
-effektiv med minimal påverkan på miljön, våra ekologiska, sociala och ekonomiska
+en cirkulär ekonomi, en hög försörjnings­
+förmåga av livsmedel, regionala leverantörs­
+och produktionskedjor, att andelen förnybar
+energi ökar och energianvändningen är
+effektiv med minimal påverkan på miljön,
+
+nyttjande av den tekniska och digitala
+utvecklingen, samt en ökad regional
+samman hållning. Det innebär också att ta
+ansvar för att minska den klimat­ och miljö­
+påverkan som vi ger upphov till genom vår
+konsumtion och produktion u tanför Hallands
+gränser. Likaså finns behov av ännu fler
+gemensamma projekt mellan a kademi och
+offentlig, privat samt idéburen sektor. Den
+biologiska mångfalden och natur­ och kultur­
+miljön ska bevaras, främjas och nyttjas håll­
+bart samt vara tillgänglig för boende, före­
+tagare och besökare. Den potential som
+finns för en hållbar utveckling i natur­ och
+kulturmiljöer ska tillvaratas.
+
+Fungerande ekosystem är en förutsättning för
+allt liv på jorden och utgör basen för en mång­
+fald av de ekosystemtjänster som bidrar till en
+god livsmiljö. De halländska ekosystemen
+ska skyddas och förvaltas så att de kan fort­
+sätta bidra med mat, dricksvatten, bioenergi,
+kolbindning, rekreation med mera. De gröna
+ytorna i vår stadsmiljö ska skyddas och
+be varas eftersom de fungerar som oaser för
+hallänningen och bidrar till en god folkhälsa
+och livskvalitet genom bra luftkvalitet, vatten­
+avrinning, hög biologisk mångfald, minskad
+värmestress och mindre buller.
+
+Omställningen till en konkurrenskraftig,
+cirkulär och klimat­ och miljömässigt hållbar
+ekonomi samt energiomställning ska vara en
+del av den regionala utvecklingen. Genom
+företagande och innovation, baserat på
+cirkulära materialflöden och hållbara affärs­
+modeller, ska utvecklingen av en konkurrens­
+kraftig, resurseffektiv, cirkulär och bio­
+baserad ekonomi stärkas i hela regionen.
+
+Säkerställa att helhetsperspektiv och
+hållbarhet präglar samhällsplaneringen
+Hur vi planerar, bygger och förflyttar oss
+behöver hänga samman med hur vi fördelar
+våra ekologiska, sociala och ekonomiska
 
 23
 
@@ -16510,53 +17661,86 @@ effektiv med minimal påverkan på miljön, våra ekologiska, sociala och ekonom
 
 Forts. Stärka en hållbar närmiljö och en a ttraktiv livsmiljö i hela Halland
 
-resurser, samtidigt som det ska skapa för ut­ samtidigt svarar för behov och efterfrågan
-sättningar för regional utveckling. H alland på bostäder. Attraktiva boende miljöer och
-är idag en transportintensiv region, något en god bostads försörjning ska kännetecknas
-som vi inte har full rådighet över. Det är av sociala och eko logiska hållbarhets­
-därför v iktigt att vår infrastruktur och vårt dimensioner där alla har en plats på den
-transportsystem skapar förutsättningar för r egionala bostads marknaden. Den e nskilda
-hållbart r esande och hållbara transporter. bostaden skapar möjlighet för att kunna
-Hallänningarnas r ese­ och transportbehov utvecklas som människa, och därigenom
-ska stå i centrum för utvecklingen. Samtidigt skapar bostadsförsörjningen möjlighet till
-ska klimatsmarta satsningar i transport­ halländsk utveckling.
+resurser, samtidigt som det ska skapa för ut­
+sättningar för regional utveckling. H alland
+är idag en transportintensiv region, något
+som vi inte har full rådighet över. Det är
+därför v iktigt att vår infrastruktur och vårt
+transportsystem skapar förutsättningar för
+hållbart r esande och hållbara transporter.
+Hallänningarnas r ese­ och transportbehov
+ska stå i centrum för utvecklingen. Samtidigt
+ska klimatsmarta satsningar i transport­
 systemet som främjar ett hållbart resande
-fungera som en katalysator för omställnings­ Vikten av att möjliggöra attraktiva boende­
-arbetet och p åverka resebehov en. Trans­ miljöer i hela Halland skapar goda föru t­
-portsystemen behöver även knytas ihop än sättningar för andra delar i det regionala
-mer med annan samhälls planering. utvecklingsarbetet, såsom fler näringslivs­
-etableringar, hållbart resande och bättre
-Bostaden och bostadsförsörjningen är hälsa. En god bostadsförsörjning kräver
-central för regional utveckling och är en att bostadsbyggandet inte ses om en
-viktig komponent i visionen om den bästa enskild fråga, utan samspelar med övrig
-livs platsen. Halland ska kännetecknas av samhälls planering.
+fungera som en katalysator för omställnings­
+arbetet och p åverka resebehov en. Trans­
+portsystemen behöver även knytas ihop än
+mer med annan samhälls planering.
+
+Bostaden och bostadsförsörjningen är
+central för regional utveckling och är en
+viktig komponent i visionen om den bästa
+livs platsen. Halland ska kännetecknas av
 attraktiva och hållbara boendemiljöer som
+
+samtidigt svarar för behov och efterfrågan
+på bostäder. Attraktiva boende miljöer och
+en god bostads försörjning ska kännetecknas
+av sociala och eko logiska hållbarhets­
+dimensioner där alla har en plats på den
+r egionala bostads marknaden. Den e nskilda
+bostaden skapar möjlighet för att kunna
+utvecklas som människa, och därigenom
+skapar bostadsförsörjningen möjlighet till
+halländsk utveckling.
+
+Vikten av att möjliggöra attraktiva boende­
+miljöer i hela Halland skapar goda föru t­
+sättningar för andra delar i det regionala
+utvecklingsarbetet, såsom fler näringslivs­
+etableringar, hållbart resande och bättre
+hälsa. En god bostadsförsörjning kräver
+att bostadsbyggandet inte ses om en
+enskild fråga, utan samspelar med övrig
+samhälls planering.
 
 24
 
 <!-- sida 488 -->
 
-Stärka Halland genom delaktighet Förstärka delaktigheten för att främja
-och tillit                     jämlikhet och jämställdhet
-Den utvecklingsresa som vi står inför kräver När människors livsvillkor försämras, och
-en stabil grund av delaktighet och tillit. Det de därtill känner sig exkluderade och utan
-handlar om att göra tillsammans, ett grund­ politisk representation, ökar behoven av
-antagande om att vi alla har ett ansvar för erkännande och samhällelig tillhörighet,
-samhällsutvecklingen. Detta ansvars tagande vilket också är starkt kopplat till den geo­
-kräver dock möjliggörandet för individen att se grafiska platsen de lever och bor på. Den
-och ta sin roll, och en tillit till att engagemanget utsatthet som ofta präglar storstädernas
-spelar roll och kan ge avtryck. förorter, men som också finns i delar av
+Stärka Halland genom delaktighet
+och tillit
+Den utvecklingsresa som vi står inför kräver
+en stabil grund av delaktighet och tillit. Det
+handlar om att göra tillsammans, ett grund­
+antagande om att vi alla har ett ansvar för
+samhällsutvecklingen. Detta ansvars tagande
+kräver dock möjliggörandet för individen att se
+och ta sin roll, och en tillit till att engagemanget
+spelar roll och kan ge avtryck.
 
 För att stärka H alland genom delaktighet
 och tillit ska vi:
-• Förstärka delaktigheten för att främja
+•  Förstärka delaktigheten för att främja
 jämlikhet och jämställdhet.
-• Främja tilliten för en dynamisk
+•  Främja tilliten för en dynamisk
 samhällsutveckling.
+
+0      0     0
+
+Förstärka delaktigheten för att främja
+jämlikhet och jämställdhet
+När människors livsvillkor försämras, och
+de därtill känner sig exkluderade och utan
+politisk representation, ökar behoven av
+erkännande och samhällelig tillhörighet,
+vilket också är starkt kopplat till den geo­
+grafiska platsen de lever och bor på. Den
+utsatthet som ofta präglar storstädernas
+förorter, men som också finns i delar av
 
 \-
 \---
-0      0    0
 
 25
 
@@ -16564,55 +17748,90 @@ samhällsutveckling.
 
 Forts. Stärka Halland genom delaktighet och tillit
 
-Halland, är ett exempel på hur socioekono­ behöver det digitala gapet minskas. För att
-miska och socio kulturella ojämlikheter ingen ska lämnas utanför och för att alla ska
-påverkar varandra. Den fysiska platsen kan kunna vara delaktiga i samhälls utvecklingen
-ha en större påverkan på människors känsla krävs också robust och säker d igital och
-av delaktighet i samhällsutvecklingen än fy sisk infrastruktur. Detta möjligg ör att
-identitet och värderingar.     människor kan använda s amhällstjänster,
-driva företag, ta del av kultur och arbeta eller
-Hallänningarna behöver ha inflytande över studera på distans o beroende av var i
-sin vardag och de sociala sammanhang de Halland de bor.
+Halland, är ett exempel på hur socioekono­
+miska och socio kulturella ojämlikheter
+påverkar varandra. Den fysiska platsen kan
+ha en större påverkan på människors känsla
+av delaktighet i samhällsutvecklingen än
+identitet och värderingar.
+
+Hallänningarna behöver ha inflytande över
+sin vardag och de sociala sammanhang de
 ingår i oavsett kön, socioekonomi, eventuell
-funktionsnedsättning, eller var de väljer att Främja tilliten för en dynamisk samhälls­
-bo och arbeta i r egion en. För att människor utveckling
-ska känna m eningsfullhet, både individuellt Det finns idag tendenser som visar att flera
-och till sammans med a ndra, krävs det också sårbara grupper, som personer utanför
-att alla former av diskriminering och exklude­ arbetsmarknaden, personer med försämrad
-ring kraftigt motverkas och att de mänskliga hälsa och utrikesfödda, i genomsnitt har lägre
-rättigheterna säkras.          grad av tillit. För att kunna skapa förutsätt­
-ningar för delaktighet och gemensam sam­
-Ett aktivt arbete med delaktighet för våra hällsutveckling, och samtidigt följa principen
-barn och unga kommer att bygga förståelse om att ingen ska lämnas utanför, behöver vi
-mellan människor i olika åldrar och livssitua­ fokusera på att nå särskilt sårbara grupper
-tioner, och gör det möjligt för fler att ta aktiv genom ett aktivt arbete med tillit.
+funktionsnedsättning, eller var de väljer att
+bo och arbeta i r egion en. För att människor
+ska känna m eningsfullhet, både individuellt
+och till sammans med a ndra, krävs det också
+att alla former av diskriminering och exklude­
+ring kraftigt motverkas och att de mänskliga
+rättigheterna säkras.
+
+Ett aktivt arbete med delaktighet för våra
+barn och unga kommer att bygga förståelse
+mellan människor i olika åldrar och livssitua­
+tioner, och gör det möjligt för fler att ta aktiv
 del i olika former av gemenskap. Genom att
-satsa på livslångt lärande, kultur och bildning Avgörande för den samhälleliga tilliten,
-för människor i alla skeden av livet och i hela social tillit och för att legitimera våra gemen­
-Halland skapar vi bättre framtidsutsikter som samma ansträngningar är hur vi bygger vårt
-möjliggör den sociala rörligheten. samhälle, binder ihop stad och landsbygd,
+satsa på livslångt lärande, kultur och bildning
+för människor i alla skeden av livet och i hela
+Halland skapar vi bättre framtidsutsikter som
+möjliggör den sociala rörligheten.
+
+Digitaliseringens möjligheter skapar för­
+utsättningar för normbrytande tillgänglighet,
+inkludering, träffsäkerhet, närhet och effek ti­
+vitet. Att ha en grundläggande digital kompe­
+tens är en förutsättning för att kunna ta del av
+samhällsutvecklingen på lika villkor. Därför
+
+behöver det digitala gapet minskas. För att
+ingen ska lämnas utanför och för att alla ska
+kunna vara delaktiga i samhälls utvecklingen
+krävs också robust och säker d igital och
+fy sisk infrastruktur. Detta möjligg ör att
+människor kan använda s amhällstjänster,
+driva företag, ta del av kultur och arbeta eller
+studera på distans o beroende av var i
+Halland de bor.
+
+Främja tilliten för en dynamisk samhälls­
+utveckling
+Det finns idag tendenser som visar att flera
+sårbara grupper, som personer utanför
+arbetsmarknaden, personer med försämrad
+hälsa och utrikesfödda, i genomsnitt har lägre
+grad av tillit. För att kunna skapa förutsätt­
+ningar för delaktighet och gemensam sam­
+hällsutveckling, och samtidigt följa principen
+om att ingen ska lämnas utanför, behöver vi
+fokusera på att nå särskilt sårbara grupper
+genom ett aktivt arbete med tillit.
+
+Avgörande för den samhälleliga tilliten,
+social tillit och för att legitimera våra gemen­
+samma ansträngningar är hur vi bygger vårt
+samhälle, binder ihop stad och landsbygd,
 tillgängliggör offentlig service, skapar tillväxt
-Digitaliseringens möjligheter skapar för­ och inkluderar människor att delta i samhälls­
-utsättningar för normbrytande tillgänglighet, utvecklingen. Förhållandet fungerar även
-inkludering, träffsäkerhet, närhet och effek ti­ omvänt; tilliten i befolkningen är i sin tur
-vitet. Att ha en grundläggande digital kompe­ av görande för huruvida politiska beslut anses
-tens är en förutsättning för att kunna ta del av vara legitima, i vilken mån människor är
-samhällsutvecklingen på lika villkor. Därför beredda att delta i samhällsutvecklingen och
+och inkluderar människor att delta i samhälls­
+utvecklingen. Förhållandet fungerar även
+omvänt; tilliten i befolkningen är i sin tur
+av görande för huruvida politiska beslut anses
+vara legitima, i vilken mån människor är
+beredda att delta i samhällsutvecklingen och
 
 2266
 
 <!-- sida 490 -->
 
-en förutsättning för hela vårt välfärdssystem. Idéburen sektor spelar en viktig roll i att främja
-För att öka tilliten och tryggheten bland jämlikheten i samhället och kanaliserar
-våra invånare behöver vi därför motverka invånarnas synpunkter och intressen i den
-ojämlikhet och ojämställdhet mellan stad politiska processen. Kulturella mötesplatser
-och landsbygd, kust och inland samt när och andra arenor där olika grupper och
-det gäller hälsa, i synnerhet den psykiska, perspektiv möts i samtal och gemensamma
-försörjningsmöjligheter och inkomster. upplevelser är en annan viktig väg framåt
-– både för att öka tilliten i samhället och för
-För en bibehållen och ökad tillit till den att bryta ensamhet. Dessa arenor och sam­
-demokratiska samhällsstrukturen krävs även verkans ytor bör främjas och utvecklas.
+en förutsättning för hela vårt välfärdssystem.
+För att öka tilliten och tryggheten bland
+våra invånare behöver vi därför motverka
+ojämlikhet och ojämställdhet mellan stad
+och landsbygd, kust och inland samt när
+det gäller hälsa, i synnerhet den psykiska,
+försörjningsmöjligheter och inkomster.
+
+För en bibehållen och ökad tillit till den
+demokratiska samhällsstrukturen krävs även
 politisk synlighet, att de offentliga aktörerna
 ser och tar sin roll som demokratiaktör, och en
 synlig närvaro av offentliga institutioner
@@ -16624,37 +17843,48 @@ förtroendet för staten och andra offentliga
 aktörer minskar, eftersom det finns ett sam­
 band mellan tillit till myndigheter och närvaro.
 
+Idéburen sektor spelar en viktig roll i att främja
+jämlikheten i samhället och kanaliserar
+invånarnas synpunkter och intressen i den
+politiska processen. Kulturella mötesplatser
+och andra arenor där olika grupper och
+perspektiv möts i samtal och gemensamma
+upplevelser är en annan viktig väg framåt
+– både för att öka tilliten i samhället och för
+att bryta ensamhet. Dessa arenor och sam­
+verkans ytor bör främjas och utvecklas.
+
 27
 
 <!-- sida 491 -->
 
 Ta   oss    an   arbetet       tillsammans
 
-Den enda vägen till bästa livsplatsen 2035 är Vi behöver knyta samman vår region inom de
-den som bygger på ett gemensamt arbete. geografiska gränserna, men också med vår
-Komplexa samhällsutmaningar följer i den omvärld, tillsammans med våra invånare.
-allt snabbare utvecklingens spår. Vi behöver Samarbete mellan olika aktörer är en för ut­
-hitta sätt att hantera dessa utmaningar – och sättning för en handlingskraftig samhälls­
-det kan vi bara göra tillsammans med de som planering. Likaså behöver ett förstärkt gräns­
-är berörda. Det betyder nya arbetssätt och överskridande nätverkssamarbete ske mellan
-ett partnerskap i ögonhöjd, där halländska städer och aktörer med liknande behov för att
-aktörer skapar en samlad aktörskraft och lära av varandra, ta stöd i varandra och på så
-har ett handlingsutrymme att bidra till den sätt bygga strategiska a llianser. Inte enbart för
-halländska utvecklingen.       den halländska utvecklingen i sig, utan också
-för att utveckla förmågan att bidra till en bättre
-I en allt mer komplex värld blir det även värld lokalt likväl som globalt.
+Den enda vägen till bästa livsplatsen 2035 är
+den som bygger på ett gemensamt arbete.
+Komplexa samhällsutmaningar följer i den
+allt snabbare utvecklingens spår. Vi behöver
+hitta sätt att hantera dessa utmaningar – och
+det kan vi bara göra tillsammans med de som
+är berörda. Det betyder nya arbetssätt och
+ett partnerskap i ögonhöjd, där halländska
+aktörer skapar en samlad aktörskraft och
+har ett handlingsutrymme att bidra till den
+halländska utvecklingen.
+
+I en allt mer komplex värld blir det även
 svår are för enskilda aktörer att klara sitt
-uppdrag på egen hand. Därför måste vi Den globala överenskommelsen om hållbar
-nyttja den s tora p otential som finns i att utveckling ger oss både verktyg och ett
-involvera fler i såväl enskilda lösningar som gemen samt språk i detta arbete. De eko­
-i vår gemens amma samhällsutveckling. Vi logiska, sociala och ekonomiska utmaning­
-ska bli ännu bättre på att ta del av varandras arna som vi står inför tar inte hänsyn till
-kunskap och kompetens, likaså på att dela geografiska eller administrativa gränser.
-med oss av det vi vet och kan. Vi behöver därför arbeta med klimat och
-miljö, sammanhållning och resursfördelning
-För att möta komplexa samhällsutmaningar öppet, inkluderande och i kontinuerlig dialog
-i en komplex värld krävs samverkan över på olika nivåer för att hitta lösningar och
-lands­ och regiongränser. Att bygga och anpassa den region ala utvecklingen.
+uppdrag på egen hand. Därför måste vi
+nyttja den s tora p otential som finns i att
+involvera fler i såväl enskilda lösningar som
+i vår gemens amma samhällsutveckling. Vi
+ska bli ännu bättre på att ta del av varandras
+kunskap och kompetens, likaså på att dela
+med oss av det vi vet och kan.
+
+För att möta komplexa samhällsutmaningar
+i en komplex värld krävs samverkan över
+lands­ och regiongränser. Att bygga och
 vårda strategiska allianser samt att inhämta
 och sprida kunskap över regiongränsen är
 därför bärande delar av det regionala
@@ -16668,6 +17898,32 @@ och nyttja de strategiska allianser och
 sam arbeten som f örstärker Hallands utveck­
 lingskraft till sammans med andra regioner
 – såväl inom som utanför landets gränser.
+
+Vi behöver knyta samman vår region inom de
+geografiska gränserna, men också med vår
+omvärld, tillsammans med våra invånare.
+Samarbete mellan olika aktörer är en för ut­
+sättning för en handlingskraftig samhälls­
+planering. Likaså behöver ett förstärkt gräns­
+överskridande nätverkssamarbete ske mellan
+städer och aktörer med liknande behov för att
+lära av varandra, ta stöd i varandra och på så
+sätt bygga strategiska a llianser. Inte enbart för
+den halländska utvecklingen i sig, utan också
+för att utveckla förmågan att bidra till en bättre
+värld lokalt likväl som globalt.
+
+Den globala överenskommelsen om hållbar
+utveckling ger oss både verktyg och ett
+gemen samt språk i detta arbete. De eko­
+logiska, sociala och ekonomiska utmaning­
+arna som vi står inför tar inte hänsyn till
+geografiska eller administrativa gränser.
+Vi behöver därför arbeta med klimat och
+miljö, sammanhållning och resursfördelning
+öppet, inkluderande och i kontinuerlig dialog
+på olika nivåer för att hitta lösningar och
+anpassa den region ala utvecklingen.
 
 28
 
@@ -16705,50 +17961,89 @@ i vårt regionala utvecklingsarbete.
 
 <!-- sida 494 -->
 
-1\. Tillämpa ett helhetsorienterat Därför behöver vi säkerställa att de
-arbetssätt                     ekonomiska resurserna fördelas där
-För att möjliggöra en hållbar utveckling i allt behoven är störst och syftar till att uppnå
-arbete vi gör behöver vi arbeta organiserat långsiktig nytta.
+1\. Tillämpa ett helhetsorienterat
+arbetssätt
+För att möjliggöra en hållbar utveckling i allt
+arbete vi gör behöver vi arbeta organiserat
 med att koppla våra enskilda satsningar till
-alla tre dimensioner av hållbarhet: ekonomisk, 4. Bruka utan att förbruka eller
-ekologisk och social. Vi ska alltid, så länge missbruka ekologiska resurser
-det är relevant och ger mervärde, b eskriva Vi behöver säkerställa att våra resurser
-hur en enskild insats bidrar till helheten. hanteras på ett sätt som inte lämnar negativa
-Det ökar förmågan till både snabba och konsekvenser för våra barn och barnbarn.
-situations anpassade insatser, med strategisk Ett ansvarsfullt resursutnyttjande för att säkra
-höjd och en omfattande omställning på såväl miljö, folkhälsa och biologisk mångfald samt
-kort som lång sikt.            för att motverka klimatförändringar och social
-oro ska genomsyra alla våra ansträngningar
-2\. Ingen ska lämnas utanför    och satsningar.
+alla tre dimensioner av hållbarhet: ekonomisk,
+ekologisk och social. Vi ska alltid, så länge
+det är relevant och ger mervärde, b eskriva
+hur en enskild insats bidrar till helheten.
+Det ökar förmågan till både snabba och
+situations anpassade insatser, med strategisk
+höjd och en omfattande omställning på såväl
+kort som lång sikt.
+
+2\. Ingen ska lämnas utanför
 samhällsutvecklingen
-Vi behöver säkerställa att de grupper av 5. Samverka för genomförandekraft
-individer som lämnas utanför samhälls­ Ingen aktör har ett ensamt ansvar, varken
-utvecklingen ska kunna inkluderas både för strategin i sin helhet eller för de enskilda
-i det gemensamma arbetet för utveckling och satsningarna (prioriteringar, åtgärder och
-i f ördelningen av u tvecklingens resultat. För insatser). Däremot har alla distinkta roller
-att kunna uppnå detta behöver vi kontinuerligt för Hallands gemensamma utveckling.
-uppdatera vår kunskap om hur olika grupper Vi behöver sam arbeta bortom gamla mönster
-av individer p åverkas av de beslut, priorite­ av revir tänkande och gräns dragningar kring
-ringar, åtgärder och insatser vi gör. Genom att ansvar. Det handlar om för ändrade synsätt
-sätta människorna i centrum och inför varje och utvecklade sätt att styra och organisera
-prioritering, insats eller åtgärd analysera vilka i en ny tid.
+Vi behöver säkerställa att de grupper av
+individer som lämnas utanför samhälls­
+utvecklingen ska kunna inkluderas både
+i det gemensamma arbetet för utveckling och
+i f ördelningen av u tvecklingens resultat. För
+att kunna uppnå detta behöver vi kontinuerligt
+uppdatera vår kunskap om hur olika grupper
+av individer p åverkas av de beslut, priorite­
+ringar, åtgärder och insatser vi gör. Genom att
+sätta människorna i centrum och inför varje
+prioritering, insats eller åtgärd analysera vilka
 som berörs ska vi göra våra ansträngningar
-mer träffsäkra och effektiva. De mänskliga Framöver krävs samarbeten över sektors­ och
-rättigheterna, som b etonar allas lika värde, kommungränser och mellan organisationer
-delaktighet och in flytande, utgör en grund. som utgår från såväl vetenskaplig som
-erfarenhetsbaserad kunskap. Alla behöver
-3\. Anpassa ekonomiska resurser inte vara med på allt och de som går före i
-efter olika behov och långsiktig utvecklingen ska driva och inspirera. Med det
-nytta                          angreppsättet kommer olika aktörer i och
-Samspelet mellan produktion och konsum­ utan för vår region samt våra invånare i
-tion behöver harmoniseras. Den ekonomiska Halland att få större handlingsutrymme att
-tillväxten är nödvändig för bibehållet väl­ bidra till den halländska utvecklingen.
+mer träffsäkra och effektiva. De mänskliga
+rättigheterna, som b etonar allas lika värde,
+delaktighet och in flytande, utgör en grund.
+
+3\. Anpassa ekonomiska resurser
+efter olika behov och långsiktig
+nytta
+Samspelet mellan produktion och konsum­
+tion behöver harmoniseras. Den ekonomiska
+tillväxten är nödvändig för bibehållet väl­
 stånd, men det krävs ett förändrat synsätt när
 det gäller sambanden mellan ekonomisk
 tillväxt och välfärd. Inom ramen för hållbar
 utveckling och de ekologiska resurserna vi
 förfogar över är ekonomin ett medel för att
 uppnå målet med social sammanhållning.
+
+Därför behöver vi säkerställa att de
+ekonomiska resurserna fördelas där
+behoven är störst och syftar till att uppnå
+långsiktig nytta.
+
+4\. Bruka utan att förbruka eller
+missbruka ekologiska resurser
+Vi behöver säkerställa att våra resurser
+hanteras på ett sätt som inte lämnar negativa
+konsekvenser för våra barn och barnbarn.
+Ett ansvarsfullt resursutnyttjande för att säkra
+miljö, folkhälsa och biologisk mångfald samt
+för att motverka klimatförändringar och social
+oro ska genomsyra alla våra ansträngningar
+och satsningar.
+
+5\. Samverka för genomförandekraft
+Ingen aktör har ett ensamt ansvar, varken
+för strategin i sin helhet eller för de enskilda
+satsningarna (prioriteringar, åtgärder och
+insatser). Däremot har alla distinkta roller
+för Hallands gemensamma utveckling.
+Vi behöver sam arbeta bortom gamla mönster
+av revir tänkande och gräns dragningar kring
+ansvar. Det handlar om för ändrade synsätt
+och utvecklade sätt att styra och organisera
+i en ny tid.
+
+Framöver krävs samarbeten över sektors­ och
+kommungränser och mellan organisationer
+som utgår från såväl vetenskaplig som
+erfarenhetsbaserad kunskap. Alla behöver
+inte vara med på allt och de som går före i
+utvecklingen ska driva och inspirera. Med det
+angreppsättet kommer olika aktörer i och
+utan för vår region samt våra invånare i
+Halland att få större handlingsutrymme att
+bidra till den halländska utvecklingen.
 
 31
 
@@ -16768,70 +18063,126 @@ uppföljning                              och
 
 utvärdering
 
-En regional utvecklingsstrategi visar en hållbar regional utveckling och de nationella
-övergripande riktning och vägledning för en miljökvalitetsmålen. På regional och lokal nivå
-regions utveckling och ska arbetas fram av är kommunernas översiktsplaner och egna
-regionalt utvecklingsansvarig aktör. Region långsiktiga strategier och visioner tillsammans
-Halland har det regionala utvecklings­ med länsstyrelsens energi­ och klimatstrategi
-uppdraget att samordna, koordinera och leda exempel på centrala och närliggande utveck­
-processer som bidrar till en hållbar regional lingsplaner. Kopplat till nivåerna finns finan­
-tillväxt och samhällsutveckling. I enlighet med siella medel att tillgå som syftar till att möjlig­
-förordningen (2017:583) om regionalt utveck­ göra en förflyttning i målens riktning.
+En regional utvecklingsstrategi visar en
+övergripande riktning och vägledning för en
+regions utveckling och ska arbetas fram av
+regionalt utvecklingsansvarig aktör. Region
+Halland har det regionala utvecklings­
+uppdraget att samordna, koordinera och leda
+processer som bidrar till en hållbar regional
+tillväxt och samhällsutveckling. I enlighet med
+förordningen (2017:583) om regionalt utveck­
 lingsarbete har Region Halland ansvaret för
-att ta fram en regional utvecklingsstrategi, Det gemensamma genomförandet
-samordna insatser för att genomföra strategin Den långsiktighet och det fokus på över­
-samt följa upp och utvärdera strategin. RUS:en gripande samhällsutveckling som präglar
-omfattar tre centrala strategier som på kortare den regionala utvecklingsstrategin gör att
-sikt prioriterar och tydliggör förflyttning utifrån vi som samhällsutvecklande aktörer är
-RUS:ens riktning. De centrala strategierna är beroende av varandra.
+att ta fram en regional utvecklingsstrategi,
+samordna insatser för att genomföra strategin
+samt följa upp och utvärdera strategin. RUS:en
+omfattar tre centrala strategier som på kortare
+sikt prioriterar och tydliggör förflyttning utifrån
+RUS:ens riktning. De centrala strategierna är
 Tillväxtstrategi för Halland, Hälso- och
-sjukvårds strategi samt Kulturstrategi med Region Halland har ansvaret för att leda
-kulturplan, och de är i sin tur vägledande för framtagandet av den regionala utvecklings­
-andra genomförandeplaner, program och strategin, och har även ansvaret för uppfölj­
-andra strategier som påverkar Hallands ningen. Genom att involvera berörda aktörer
-utveckling.                    i uppföljning och genom att kommunicera
-analyser brett och lättillgängligt kan föränd­
-Den regionala utvecklingsstrategin tar även ringsbehov synliggöras. Genom att synlig­
-hänsyn till och bidrar till genomförandet av göra och förenkla vägar till finansiering på
-andra nationella och internationella mål som såväl regional som nationell och EU­nivå, och
-påverkar Hallands utveckling. Bland annat är genom att bistå med nätverk och arenor, kan
-det på global nivå Agenda 2030, på europeisk en gemensam handlingskraft skapas då fler
-nivå sammanhållningspolitiken och EU:s får möjlighet att bli en del av lösningen.
+sjukvårds strategi samt Kulturstrategi med
+kulturplan, och de är i sin tur vägledande för
+andra genomförandeplaner, program och
+andra strategier som påverkar Hallands
+utveckling.
+
+Den regionala utvecklingsstrategin tar även
+hänsyn till och bidrar till genomförandet av
+andra nationella och internationella mål som
+påverkar Hallands utveckling. Bland annat är
+det på global nivå Agenda 2030, på europeisk
+nivå sammanhållningspolitiken och EU:s
 tillväxtstrategi, på nationell nivå strategin för
+
+hållbar regional utveckling och de nationella
+miljökvalitetsmålen. På regional och lokal nivå
+är kommunernas översiktsplaner och egna
+långsiktiga strategier och visioner tillsammans
+med länsstyrelsens energi­ och klimatstrategi
+exempel på centrala och närliggande utveck­
+lingsplaner. Kopplat till nivåerna finns finan­
+siella medel att tillgå som syftar till att möjlig­
+göra en förflyttning i målens riktning.
+
+Det gemensamma genomförandet
+Den långsiktighet och det fokus på över­
+gripande samhällsutveckling som präglar
+den regionala utvecklingsstrategin gör att
+vi som samhällsutvecklande aktörer är
+beroende av varandra.
+
+Region Halland har ansvaret för att leda
+framtagandet av den regionala utvecklings­
+strategin, och har även ansvaret för uppfölj­
+ningen. Genom att involvera berörda aktörer
+i uppföljning och genom att kommunicera
+analyser brett och lättillgängligt kan föränd­
+ringsbehov synliggöras. Genom att synlig­
+göra och förenkla vägar till finansiering på
+såväl regional som nationell och EU­nivå, och
+genom att bistå med nätverk och arenor, kan
+en gemensam handlingskraft skapas då fler
+får möjlighet att bli en del av lösningen.
 
 33
 
 <!-- sida 497 -->
 
-Den centrala kraften för den halländska sam­ dessa styrdokument. För att få till en tydlig
-hällsutvecklingen ligger dock utanför region­ koppling behöver det övergripande målet om
-organisationen, och realiserandet av v isionen Halland som bästa livsplatsen i utvecklings­
-om den bästa livsplatsen kommer till största strategin vara överordnade målen i övriga
-del att ske genom andra. Det är tillsammans styrdokument. Den regionala utvecklings­
-som vi kommer att skapa förutsättningarna för strategin kommer därför att årligen följas upp
-Halland som den bästa livsplatsen år 2035. utifrån regionaliserade Agenda 2030­mål och
-understrategierna kommer att följas upp uti­
-Uppföljning av RUS och närliggande från tanken om hur de, utifrån sina respektive
-strategier                     områden, bidrar till att nå RUS:ens intentioner.
+Den centrala kraften för den halländska sam­
+hällsutvecklingen ligger dock utanför region­
+organisationen, och realiserandet av v isionen
+om den bästa livsplatsen kommer till största
+del att ske genom andra. Det är tillsammans
+som vi kommer att skapa förutsättningarna för
+Halland som den bästa livsplatsen år 2035.
+
+Uppföljning av RUS och närliggande
+strategier
 Den regionala utvecklingsstrategin är
-väg ledande för Region Hallands centrala I samband med att utvecklingsstrategin antas
-strategier och andra styrdokument. Alla styr­ kommer även en plan för analys och uppfölj­
-dokument ska bidra till att visionen om den ning att implementeras. Syftet med den är att
-bästa livsplatsen uppnås. Därför är det viktigt tydliggöra hur uppföljningen av utvecklings­
-att inriktningen i den regionala utvecklings­ arbetet ska genomföras och hur vi mäter
-strategin har en tydlig och stark koppling till måluppfyllnaden i länet.
+väg ledande för Region Hallands centrala
+strategier och andra styrdokument. Alla styr­
+dokument ska bidra till att visionen om den
+bästa livsplatsen uppnås. Därför är det viktigt
+att inriktningen i den regionala utvecklings­
+strategin har en tydlig och stark koppling till
+
+dessa styrdokument. För att få till en tydlig
+koppling behöver det övergripande målet om
+Halland som bästa livsplatsen i utvecklings­
+strategin vara överordnade målen i övriga
+styrdokument. Den regionala utvecklings­
+strategin kommer därför att årligen följas upp
+utifrån regionaliserade Agenda 2030­mål och
+understrategierna kommer att följas upp uti­
+från tanken om hur de, utifrån sina respektive
+områden, bidrar till att nå RUS:ens intentioner.
+
+I samband med att utvecklingsstrategin antas
+kommer även en plan för analys och uppfölj­
+ning att implementeras. Syftet med den är att
+tydliggöra hur uppföljningen av utvecklings­
+arbetet ska genomföras och hur vi mäter
+måluppfyllnaden i länet.
 
 34
 
 <!-- sida 498 -->
 
-Utvärdering av strategins bidrag rad olika utmaningar. Globala trender,
-till förändring                konjunkturen, nationella lagstiftningar och
-För att bedöma om de insatser vi genomför är andra faktorer utanför det regionala utveck­
-ändamålsenliga behöver vi systematiskt följa lingsarbetet har stor påverkan på de mål vi
-upp vilken inverkan de har på de mål som finns arbetar mot. Region Hallands ambition är
-i våra vägledande styrdokument. Att följa upp därför att utveckla tydliga effektlogiker om
-och mäta samhällsförändring är kantat av en hur det är tänkt att insatserna ska bidra till för­
+Utvärdering av strategins bidrag
+till förändring
+För att bedöma om de insatser vi genomför är
+ändamålsenliga behöver vi systematiskt följa
+upp vilken inverkan de har på de mål som finns
+i våra vägledande styrdokument. Att följa upp
+och mäta samhällsförändring är kantat av en
+
+rad olika utmaningar. Globala trender,
+konjunkturen, nationella lagstiftningar och
+andra faktorer utanför det regionala utveck­
+lingsarbetet har stor påverkan på de mål vi
+arbetar mot. Region Hallands ambition är
+därför att utveckla tydliga effektlogiker om
+hur det är tänkt att insatserna ska bidra till för­
 ändring och sedan följa upp om arbetet leder
 till de resultat som vi har förväntat oss.
 
@@ -16839,18 +18190,17 @@ till de resultat som vi har förväntat oss.
 
 <!-- sida 499 -->
 
-36
-Region
-Halland,
-2021\.
-Illustration:
-Julia
-Hermansson.
 Region Halland
 Box 517, 301 80 Halmstad
 (e-post borttagen)
+
 regionhalland.se
+
 l  l
+
+36
+
+Reg ion Ha lland , 202 1. Illustra tion : Ju lia He rm ansson .
 
 <!-- sida 500 -->
 
@@ -22076,7 +23426,7 @@ KUNGSB? CKA KOMMUN
 KOMMUNSTYRELSEN
 
 EKSTA
-FINS Kungsbacka 2021 -06- 17
+FINE Kungsbacka 2021 -06- 17
 
 Kungsbacka 2021-06-10 Kungsbacka Kommun
 Kommunfullmäktige
@@ -23093,7 +24443,6 @@ Miljö- och hälsoskyddsnämnden 2002-04-23
 Agenda 21 SOMMUN
 434 81 KUNGSBACKA
 ROSOR
--MHN-8E335 75 enn SN NSNNN7 8702-00 I IT
 
 Kungsbacka kommuns miljöpris
 
@@ -23496,7 +24845,7 @@ anknytning till kommunen. Företag, förening eller organisation skall vara- eta
 
 kommunen.
 
-Ansökan omfförslag till pristagare. |
+Ansökan om/förslag till pristagare. |
 Förslag till pristagare kan lämnas av alla och envar. Ledningsgruppen för Agenda 21 och
 Miljö- och hälsoskyddsnämnden äger rätt att initiera pristagare.
 

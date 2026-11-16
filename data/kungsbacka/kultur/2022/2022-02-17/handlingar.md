@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319200431id_/https://www.kungsbacka.
 sha256: 865638e8a2f5a1269ef366040a314c8477ce88475f5241790c0d0054ba50c372
 bytes: 32534263
 sidor: 329
-hamtad: 2026-10-27T09:07:18+00:00
-konverterad: 2026-10-27T09:08:53+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T23:34:51+00:00
+konverterad: 2026-11-15T23:35:54+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2247,28 +2247,45 @@ Totalt nämnden                      -24 261 -6 141 18 120              289     
 
 För varje projekt anges motivering och förslag till åtgärd vid avvikelse för avslutade projekt Projektnamn
 
-P                                         B
+P
+
 Ombudget avser byte av konstgräsmattor, Rydet b-plan och Ögärdets 11- och 7 mannaplaner. Försenade på grund av att själva upphandlingen fick tas
 om, därav tilldelning sent under året och arbetet är ej möjlig att genomföra under vintern. Konstgräsmattorna är i så pass dålig skick att det är angeläget
-att byta för att minska skaderiskerna. Budgetmedel för 2022 är avsatta för byte av andra konstgräsmattor enligt utbytessplan. Löpande investeringar
-Övriga investeringar
-Arbete pågår med att leta en möjlig parkeringsyta. Inväntar tillstånd för att kunna anlägga en liknande avfallshantering som på övriga badplatser, så Badplatser 2017 (Hanhalsholme)
+att byta för att minska skaderiskerna. Budgetmedel för 2022 är avsatta för byte av andra konstgräsmattor enligt utbytessplan.
+
+Arbete pågår med att leta en möjlig parkeringsyta. Inväntar tillstånd för att kunna anlägga en liknande avfallshantering som på övriga badplatser, så
 kallade moloker. Det är även planerat att ansluta toalett till kommunalt VA när det är möjligt.
+
+Processen för att anlägga ett utegym vid Smarholmens badplats är påbörjad.
+
+Avser belysning, avvaktar bygglov som befinner sig i överklagande process.
+Pågår. Projektet syftar till att använda andra bevattningsalternativ än kommunalt vatten till fritdsanläggningar. Arbete pågår med fotbollplanen vid Elof
+Lindälvskolan.
+
+Avser det totala beloppet för påbörjade byggprojekt inom lokalplanen. Budgeten tildelas KFT i samband med att starbesked för lokaler.
+
+Pågår
+Pågår
+
+B
+
+Löpande investeringar
+
+Övriga investeringar
+Badplatser 2017 (Hanhalsholme)
 Badplatser 2019
 
 Badplatser 2020 & 2021
-Processen för att anlägga ett utegym vid Smarholmens badplats är påbörjad.
-Avser belysning, avvaktar bygglov som befinner sig i överklagande process. Konstgräsplan Onsala
+
+Konstgräsplan Onsala
 Ny bevattnings alternativ
-Pågår. Projektet syftar till att använda andra bevattningsalternativ än kommunalt vatten till fritdsanläggningar. Arbete pågår med fotbollplanen vid Elof
-Lindälvskolan.
+
 Utställning naturum Fjärås Bräcka
 
-Avser det totala beloppet för påbörjade byggprojekt inom lokalplanen. Budgeten tildelas KFT i samband med att starbesked för lokaler. Konst 1%, ej utfördelad budget
+Konst 1%, ej utfördelad budget
 
-Pågår                                                                Konst, Sandlyckans vårdboende
+Konst, Sandlyckans vårdboende
 Konst, Fjärås Bräckaskolan
-Pågår
 Konst, trygghetsskapande syfte ute
 
 <!-- sida 53 -->
@@ -3097,380 +3114,6 @@ försvinner kanske även medför buller, byggtrafik o dyl.
 
 <!-- sida 80 -->
 
-öräS
-
-,9:1
-
-rräkuB
-
-va
-
-led
-
-moni
-
-redätsob
-
-röf
-
-nalpjlateD
-2202
-iraurbef
-51
-–
-iraunaj
-81 dårmaS
-moni
-redätsob
-röf
-röggiljöm
-nenalpjlateD
-.öräS
-i
-9:1
-rräkuB
-netehgitsaf
-!retknupnys
-dem nemmokläV
-reggil
-hco
-ogä
-tavirp
-i
-rä
-tedårmonalP
-hco
-murtnec
-öräS
-mo
-tsodron
-xarts
-röf
-nalpjlated
-åp
-retknupnys anmäl ud
-nak
-uN
-kramrutan
-va
-kasduvuh
-llit
-gadi
-råtseb
-.9:1
-rräkuB va led moni redätsob
-hco
-edneobrän
-va
-dnävnaläv
-rä
-mos
--knupnys
-anid
-ah iv
-lliv 2202 iraurbef 51
-tsaneS
-.nrabloks
-hco
-sserda
-,nman
-ttid egna tta gåhi moK
-.ret
-.gninkcetebstehgitsaf
-gardduvuh
-hco
-eftys
-snenalpjlateD
-ned
-tlatigid
-sallåh
-remmok etömsdårmas
-ttE
--öfppu
-aröggiljöm
-tta
-rä
-nenalpjlated
-dem
-tetfyS
-aiv ,svärk
-nalämnaröF
-.03:81-03:71 lk iraunaj
-62
--uk
-ned
-llit
-negat
-nysnäh
-dem
-redätsob
-va
-tednar
--orpalleutka/es.akcabsgnuk.www
-åp tsnäjt-e
-tkej
-.nedrävrutan
-agiltnfieb
-hco
-negnärret
-edarep
-:tsnäjt-e
-råv
-aiv retknupnys anid
-anmäL
-gnärret
-giltnfieb
-llit
-sassapna
-aks
-anredanggyB
--rap
-va
-mrof
-i
-redätsob
-02
-röggiljöm
-tegalsröfnalP
-tkejorpalleutka/es.akcabsgnuk.www
-sanräv
-aks
-nedlibspaksdnal
-hco
-nåm
-etsagiljöm
-akric
-dem
-suhsjlimafrefl
-tte
-tmas
-suhejdek
-relle
-:llit
-akcikS
-.redjöhsdanggyb
-i
-gninsnärgeb
-moneg
-va
-neled
-artsödron
-i tedårmosgokS
-.retehnegäl
-attå
-es.akcabsgnuk@terotnoksdanggybsllahmas
-gninderbtu
-stedårmonalp
-rasiv
-mos
-otofgylF
-tellätsi
-aks
-natu
-,saggybeb
-je
-sålseröf
-netehgitsaf
-relle
-ecivres
-lleisremmok
-hco
-lanummok
-llit
-netehräN
-tehgiljöm
-dem
-edårmovörts
-mos
-aregnuf
-ttastrof
-terotnoksdanggybsllähmaS
--röf
-adog
-rapaks
-kfiartvitkellok
-tmas
-tedårmorän
-i
-tgitkiv
-åskco
-ted
-rä
-gnindelna
-anned
-vA
-.kel
-llit
-nummok akcabsgnuK
-allu
-arabllåh
-arög
-annuk
-tta
-edneob
-ed
-röf
-ragninttästu
-nerutkurtsgäv
-aiv
-gis
-arör
-tta
-råg
-ttastrof
-ted
-tta
-grebennA
-akcabsgnuK
-18
-434
-öräS
-.negadrav
-i
-lav
--årmorutan
-ån
-tta
-röf
-nesleggybeb
-ayn
-ned
-moneg
-mläjH
-akcabsgnuK
-.ted
-nenalpjlated
-agalkrevö
-tta nettär arolröf
-nak
-uD
-adllaV
-rednu
-retknupnys
-agiltfirks ranmäl etni
-ud
-mo
-.gninksnarg relle
-dårmas
-såräjF
-nessecorpenalpjlateD
-läv
-ne
-tgilne ted
-srög
-nalpjlated ne marf rat nenummok
-räN
-alasnO
-åf
-,adröreb
-röf
-nysni arkäs
-tta etfys dem ssecorp
-dareinfied
-arknaröf
-tta hco
-tgiljöm
-mos galrednustulseb arb ås
-tte
-marf
-.tegalsröf
-asÅ
-dårmaS
-såsellirF
-åp retknupnys
-anmäl
-tta
-tehgiljöm ud rah tedårmas rednU
-mos
-sdnävna retknupnys
-anmoknI .tegalsröfenalpjlated
-snenalpjlated
-rasiv
-mos
-atrakstkisrevÖ
-snnfi
-ted
-mo tegalsröfnalp
-atebraeb tta röf hco galrednu
-.nummok
-akcabsgnuK
-i gniresilakol
-.ragnirdnä röf
-läks
-gninksnarG
--ed
-edatebraeb
-ted
-ppu iv rasiv negninksnarg rednU
--mäl
-tta
-tehgiljöm
-negiretå
-rah ud hco tegalsröfenalpjlat
-!tegalsröfnalp
-snnfi
-räH
-netehgiljöm
-atsis
-rä räh
-teD .tegalsröf åp retknupnys
-an
-.tegalsröf mo llit akcyt
-tta
-tkejorpalleutka/es.akcabsgnuk
-•
-ednagatnA
-értne
-stesuhsdatS
-•
--na
-retfE
-.tegalsröf
-edatebraebgidräf
-ted ratna nekitiloP
--odogllit
-retknupnys
-anis
-ttåf etni mos ed rah ednagat
-ketoilbib
-skivalluK
-hco
-neryF
-teketoilbiB
-•
-.nenalpjlated
-agalkrevö
-rokcev ert moni tta ttär addes
-:anräg
-atkatnoK
-tketikranalp
-,vahretniV
-annahoJ
-tfark agaL
-71
-04
-38
-0030
-let
-,(e-post borttagen)
--ed
-tigatna
-rah nekitilop
-tta ted retfe rokcev ert tsagidiT
-röjnegnisgniretaolpxe
-,llawdnuL
-bokaJ
-ergnäl
-etni ted
-rä åD
-.tfark agal ned renniv nenalpjlat
-16
-04
-38
-0030
-let
-,(e-post borttagen)
-.ned agalkrevö tta tgiljöm
 T Y
 CKATILL
 N R
@@ -3485,60 +3128,223 @@ O         U
 K         L
 L       K
 Ä V RÄALLA I N
-aloks
-öräS
-nedok-RQ
-annacS
-åp
-rem
-säl
-hco
-!adisbew
-stetkejorp
 n
-e g
+e
+g
 ä
 v
-ö r
+ö
+r
 ä
 s
-a r
+a
+r
 t
 s
 ä
 V
-tedårmonalP
-.nesleggybeb
-va
-gninmroftu
-giljöm
-ne
-rasiv
-navo
-nenoitartsullI
-.BA
-ngiseD
-tketikTRA/cidroNalliW
-va
-negatmarf
-rä
-nedliB
-.tedårmonalp
-moni
-saledröf
-sålseröf
-anredanggyb
-ruh
-rasiv
-mos
-atraksnoitartsullI
-BA
-ngiseD
-tketikTRA/cidroNalliW
-va
-negatmarf
-rä
-nedliB
+
+Detaljplan för bostäder inom del av Bukärr 1:9, Särö
+
+Samråd 18 januari – 15 februari 2022
+
+Välkommen med synpunkter!
+
+Detaljplanen möjliggör för bostäder inom
+
+fastigheten Bukärr 1:9 i Särö.
+
+Planområdet är i privat ägo och ligger
+
+strax nordost om Särö centrum och
+
+Nu kan du lämna synpunkter på detaljplan för
+
+består idag till huvudsak av naturmark
+
+bostäder inom del av Bukärr 1:9.
+
+som är välanvänd av närboende och
+
+Senast 15 februari 2022 vill vi ha dina synpunk-
+
+skolbarn.
+
+Planområdet
+
+ter. Kom ihåg att ange ditt namn, adress och
+
+fastighetsbeteckning.
+
+Ett samrådsmöte kommer hållas digitalt den
+
+Detaljplanens syfte och huvuddrag
+
+26 januari kl 17:30-18:30. Föranmälan krävs, via
+
+Syftet med detaljplanen är att möjliggöra uppfö-
+
+e-tjänst på www.kungsbacka.se/aktuellapro-
+
+randet av bostäder med hänsyn tagen till den ku-
+
+jekt
+
+perade terrängen och befintliga naturvärden.
+
+Illustrationen ovan visar en möjlig utformning av bebyggelsen.
+
+Bilden är framtagen av WillaNordic/ARTkitekt Design AB.
+
+Lämna dina synpunkter via vår e-tjänst:
+
+www.kungsbacka.se/aktuellaprojekt
+
+Planförslaget möjliggör 20 bostäder i form av par- Byggnaderna ska anpassas till befintlig terräng
+
+Särö skola
+
+Skicka till:
+
+eller kedjehus samt ett flerfamiljshus med cirka
+
+möjligaste mån och landskapsbilden ska värnas
+
+(e-post borttagen)
+
+åtta lägenheter. Skogsområdet i nordöstra delen av genom begränsning i byggnadshöjder.
+
+Flygfoto som visar planområdets utbredning
+
+eller
+
+fastigheten föreslås ej bebyggas, utan ska istället
+
+fortsatt fungera som strövområde med möjlighet
+
+Närheten till kommunal och kommersiell service
+
+Samhällsbyggnadskontoret
+
+till lek. Av denna anledning är det också viktigt
+
+i närområdet samt kollektivtrafik skapar goda för-
+
+Kungsbacka kommun
+
+att det fortsatt går att röra sig via vägstrukturen
+
+utsättningar för de boende att kunna göra hållbara
+
+ulla
+
+434 81 Kungsbacka
+
+Anneberg
+
+genom den nya bebyggelsen för att nå naturområ- val i vardagen.
+
+Särö
+
+Du kan förlora rätten att överklaga detaljplanen
+
+det.
+
+Kungsbacka
+
+Hjälm
+
+om du inte lämnar skriftliga synpunkter under
+
+Vallda
+
+samråd eller granskning.
+
+Fjärås
+
+Detaljplaneprocessen
+
+När kommunen tar fram en detaljplan görs det enligt en väl
+
+deﬁnierad process med syfte att säkra insyn för berörda, få
+
+Onsala
+
+fram ett så bra beslutsunderlag som möjligt och att förankra
+
+förslaget.
+
+Åsa
+
+Samråd
+
+Frillesås
+
+Under samrådet har du möjlighet att lämna synpunkter på
+
+detaljplaneförslaget. Inkomna synpunkter används som
+
+Översiktskarta som visar detaljplanens
+
+underlag och för att bearbeta planförslaget om det ﬁnns
+
+lokalisering i Kungsbacka kommun.
+
+skäl för ändringar.
+
+Granskning
+
+Under granskningen visar vi upp det bearbetade de-
+
+taljplaneförslaget och du har återigen möjlighet att läm-
+
+Här ﬁnns planförslaget!
+
+na synpunkter på förslaget. Det här är sista möjligheten
+
+att tycka till om förslaget.
+
+Scanna QR-koden
+
+Antagande
+
+och läs mer på
+
+• kungsbacka.se/aktuellaprojekt
+
+Politiken antar det färdigbearbetade förslaget. Efter an-
+
+projektets websida!
+
+• Stadshusets entré
+
+tagande har de som inte fått sina synpunkter tillgodo-
+
+• Biblioteket Fyren och Kullaviks bibliotek
+
+sedda rätt att inom tre veckor överklaga detaljplanen.
+
+Kontakta gärna:
+
+Laga kraft
+
+Johanna Vinterhav, planarkitekt
+
+Tidigast tre veckor efter det att politiken har antagit de-
+
+(e-post borttagen), tel 0300 83 40 17
+
+taljplanen vinner den laga kraft. Då är det inte längre
+
+Jakob Lundwall, exploateringsingenjör
+
+möjligt att överklaga den.
+
+Illustrationskarta som visar hur byggnaderna föreslås fördelas inom planområdet.
+
+(e-post borttagen), tel 0300 83 40 61
+
+Bilden är framtagen av WillaNordic/ARTkitekt Design AB
 
 <!-- sida 81 -->
 
@@ -5800,25 +5606,29 @@ Telefon:
 
 <!-- sida 141 -->
 
-Sida 1 av 2
-
 Kontaktuppgifter       till
 
-Gör så här:
 dataskyddsombud
+
+Använd den här blanketten för att anmäla kontaktuppgifter till en person
+som är dataskyddsombud för er verksamhet. Ett dataskyddsombud
+kan vara ombud för en eller flera personuppgiftsansvariga eller
+personuppgiftsbiträden. Ska ni anmäla samma dataskyddsombud för
+flera organisationer ska ni skicka in en blankett för varje organisation.
+
+Sida 1 av 2
+
+Gör så här:
 Spara ner filen och öppna den
 i Adobe Reader och fyll sedan
 i blanketten med hjälp av de
-Använd den här blanketten för att anmäla kontaktuppgifter till en person
 interaktiva fälten. Skicka därefter
-som är dataskyddsombud för er verksamhet. Ett dataskyddsombud
 den ifyllda blanketten och
-kan vara ombud för en eller flera personuppgiftsansvariga eller
 tillhörande underlag per e-post till
-personuppgiftsbiträden. Ska ni anmäla samma dataskyddsombud för
 (e-post borttagen).
-flera organisationer ska ni skicka in en blankett för varje organisation.
+
 Vi vill anmäla kontaktuppgifter till dataskyddsombud enligt:
+
 Kryssa för om anmälan av kontaktuppgifter till dataskyddsombudet gäller
 Dataskyddsförordningen
 dataskyddsförordningen och/eller brottsdatalagen. Välj minst en av dem. Om det
@@ -5827,6 +5637,7 @@ Brottsdatalagen
 respektive brottsdatalagen, fyll i en blankett för varje rättsområde.
 
 Personuppgiftsansvarig    eller personuppgiftsbiträde
+
 Organisationens namn
 
 Skriv namnet så specifikt så att det går att identifiera den personuppgifts ansvariga eller
@@ -5834,6 +5645,7 @@ personuppgiftsbiträdet, till exempel ”X-köpings kommun, socialnämnden”.
 Organisationsnummer
 
 Om organisationsnummer saknas ska ni lämna fältet tomt. Uppge inte personnummer för enskilda firmor.
+
 Organisationens postadress
 
 E-postadress till organisationen
@@ -5850,7 +5662,6 @@ Integritetsskyddsmyndigheten E-post: (e-post borttagen) | Telefon: 08-657 61 00 
 Integritetsskyddsmyndigheten Kontaktuppgifter till dataskyddsombud Sida 2 av 2
 
 Dataskyddsombud
-
 För- och efternamn
 
 Ni ska bara anmäla kontaktuppgifter till ett dataskyddsombud för varje personuppgiftsansvarig eller varje personuppgiftsbiträde.
@@ -5871,15 +5682,22 @@ du klicka på knappen här bredvid. Formuläret kommer då automatiskt
 sparas och bifogas i ett mejlutkast, redo att skickas in till oss. Dubbelkolla
 att allt ser rätt ut, och skicka mejlet till (e-post borttagen).
 
-Har ni frågor?         Kontakta oss          Allmän handling
-Läs mer om dataskyddsombud på Skicka in den ifyllda blanketten Innehållet i blanketten blir en allmän
-vår webbplats www.imy.se/dso per e-post eller brev till oss. handling när den kommer in till oss.
+Har ni frågor?
+Läs mer om dataskyddsombud på
+vår webbplats www.imy.se/dso
+Läs om hur vi behandlar era
+personuppgifter på www.imy.se/
+behandling-av-personuppgifter
+
+Kontakta oss          Allmän handling
+Skicka in den ifyllda blanketten Innehållet i blanketten blir en allmän
+per e-post eller brev till oss. handling när den kommer in till oss.
 Om någon begär ut handlingen gör
-Läs om hur vi behandlar era E-post: (e-post borttagen)
+E-post: (e-post borttagen)
 vi en sekretessprövning, det vill
-personuppgifter på www.imy.se/ Telefon: 08-657 61 00
+Telefon: 08-657 61 00
 säga en prövning om alla uppgifter
-behandling-av-personuppgifter Adress:
+Adress:
 i handlingen får lämnas ut eller
 Integritetsskyddsmyndigheten
 inte. Allmänna handlingar ska som
@@ -7558,14 +7376,9 @@ faktura
 
 Hanhals Idrottsförening 72038963 <02022-01-27 614 707
 
-HK Aranäs 72036230 2020-05-07 96 799 18 394 78405 Avbetalningsplanen innebär att föreningen ska betala
-HK Aranäs 72037707 2021-01-28 343 178 25 000 318 178 25 O00kr i månaden. Ny fakturor som inte ingår i
-
 HK Aranäs 72037956 2021-05-31 195 595 0 195 595 avbetalningsplanen ska betalas på förfallodatum.
-
 HK Aranäs 72037924 = 2021-05-31 9418 7103 2315]
 
-HK Aranäs 72038030 2021-05-31 5 264 0 5 264 Föreningen följer avbetalningsplanen
 Kulturföreningen Alléteatern 79089892 «2021-06-17 54 144 45 075 9 0691 Anståndet förlängt tom 220831
 
 Kulturföreningen Alléteatern 79090563 <2021-09-02 27 072 0

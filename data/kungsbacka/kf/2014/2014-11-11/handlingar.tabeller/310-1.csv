@@ -1,0 +1,35 @@
+KK,AK,PN,Beskrivning
+28.70-2,4,C,"Anläggning, som omfattas av högst två av följande punkter, för
+1. järnfosfatering, om verksamheten inte är tillståndspliktig enligt
+28.10,
+2. vattenbaserad avfettning som ger upphov till mer än 10 kubikmeter
+avloppsvatten per kalenderår, om verksamheten inte är fordonstvätt
+eller tillståndspliktig enligt någon av beskrivningarna i 39.10-39.50,
+3. betning med mer än 50 kilogram betpasta per kalenderår, om
+verksamheten ger upphov till avloppsvatten,
+4. blästring av mer än 500 kvadratmeter yta per kalenderår,
+5. våttrumling av mer än 1 ton metaller per kalenderår eller härdning av
+mer än 1 ton gods per kalenderår,
+6. termisk ytbehandling med en metallförbrukning av mer än 50
+kilogram men högst 2 ton per kalenderår, eller
+7. metallbeläggning med vakuummetod, om metallförbrukningen
+uppgår till mer än 500 kilogram per kalenderår."
+28.7001,1,U,"Anläggning, som omfattas av någon eller några av följande punkter, för
+1. vattenbaserad avfettning som ger upphov till högst 10 kubikmeter
+avloppsvatten per kalenderår, om verksamheten inte är fordonstvätt
+eller tillståndspliktig enligt någon av beskrivningarna i 39.10-39.50,
+2. betning med högst 50 kilogram betpasta per kalenderår, om
+verksamheten ger upphov till avloppsvatten,
+3. blästring av högst 500 kvadratmeter yta per kalenderår,
+4. våttrumling av högst 1 ton metaller per kalenderår eller härdning av
+högst 1 ton gods per kalenderår,
+5. termisk ytbehandling med en metallförbrukning av högst 50
+kilogram per kalenderår, eller
+6. metallbeläggning med vakuummetod, om metallförbrukningen
+uppgår till högst 500 kilogram per kalenderår."
+28.71,3,C,"Blästringsarbete omfattande mer än 500 kvadratmeter yta, om
+verksamheten inte är anmälningspliktig enligt 28.70."
+28.7101,1,U,Blästringsarbete omfattande högst 500 kvadratmeter yta.
+28.80,9,B,"Anläggning för att med kemiska eller termiska metoder yrkesmässigt ta
+bort lack eller färg från mer än 50 ton metallgods per kalenderår, om
+verksamheten inte är tillståndspliktig enligt 39.10, 39.20 eller 39.40."

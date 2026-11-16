@@ -12,13 +12,13 @@ kalla_url: https://web.archive.org/web/20220404172427id_/https://kungsbacka.se/d
 sha256: cb761a3467c4f9b1f1911bc4094c31f069c7fd338eec29a4df00728323815414
 bytes: 7842093
 sidor: 599
-hamtad: 2026-10-13T01:30:10+00:00
-konverterad: 2026-10-13T01:31:45+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-16T00:24:46+00:00
+konverterad: 2026-11-16T00:25:40+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
+tal_obekraftade: [28, 596]
 figurer: [14, 15, 18, 20, 21, 23, 24, 41, 596, 598]
 tolkade: []
 granskad: null
@@ -761,32 +761,16 @@ affärsrelationer byggs till ömsesidig nytta.
 <!-- sida 28 -->
 
 1 (5)
-
+TILLÄMPNINGSANVISNINGAR     FÖR  UPPHANDLINGSPOLICY
 Datum
 2009-04-09
-
-Service                                                      Kungsbacka kommun
-Serviceområde Upphandling                                     434 81 Kungsbacka
-Pehr Helsing
-Besöksadress
-Direkt 0300-83 40 73
-Stadshuset, Storgatan 37
-Mobil (mobilnummer borttaget)
-(e-post borttagen)                                  Telefon 0300-83 40 00
-Fax 0300-83 47 51
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 101BUK
-mroFinu
-TILLÄMPNINGSANVISNINGAR     FÖR  UPPHANDLINGSPOLICY
 Gällande lagstiftning och regelverk
 För all offentlig upphandling gäller att nedanstående grundläggande EG-rättsliga
 principer måste iakttas:
   Fri rörlighet för varor
   Etableringsfrihet
   Frihet att tillhandahålla tjänster
+
 Bestämmelserna i lagarna om offentlig upphandling ska därför tolkas mot bakgrund
 av dessa principer. Detsamma gäller de som följer av dessa, nämligen principerna
 om:
@@ -800,6 +784,7 @@ inte får ge ett lokalt företag företräde med anledning av dess geografiska
 läge.
   Ömsesidigt erkännande
 Intyg och certifikat som utfärdats av behöriga myndigheter i något
+
 medlemsland måste godtas i de övriga medlemsländerna.
   Proportionalitet
 Kvalifikationskraven och de krav som ställs i kravspecifikationen måste ha ett
@@ -812,6 +797,20 @@ För att anbudsgivarna ska ges samma förutsättningar för anbudsgivning
 måste förfrågningsunderlaget vara klart och tydligt och innehålla samtliga
 krav på det som ska upphandlas. Förfrågningsunderlaget ska inte frångås vid
 utvärdering.
+
+Service                                                      Kungsbacka kommun
+Serviceområde Upphandling                                     434 81 Kungsbacka
+Pehr Helsing
+Besöksadress
+Direkt 0300-83 40 73
+Stadshuset, Storgatan 37
+Mobil (mobilnummer borttaget)
+(e-post borttagen)                                  Telefon 0300-83 40 00
+Fax 0300-83 47 51
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB101 v 1.0, 2005-11-25
 
 <!-- sida 29 -->
 
@@ -2836,17 +2835,28 @@ hon på grund av brottet blir eller hon på grund av brottet blir eller
 
 Författningsförslag                        SOU 2021:61
 
-kan antas bli avskedad eller upp- kan antas bli avskedad eller upp-
-sagd från anställning eller drab- sagd från anställning eller drab-
+kan antas bli avskedad eller upp-
+sagd från anställning eller drab-
+bas av annat hinder eller synner-
+lig svårighet i yrkes- eller närings-
+utövning,
+8\. om ett straff utmätt efter
+brottets straffvärde skulle fram-
+stå som oproportionerligt strängt
+med hänsyn till andra rättsliga
+sanktioner till följd av brottet,
 
-bas av annat hinder eller synner- bas av annat hinder eller synner-
-lig svårighet i yrkes- eller närings- lig svårighet i yrkes- eller närings-
-utövning,             utövning,
-8\. om ett straff utmätt efter 7. om ett straff utmätt efter
-brottets straffvärde skulle fram- brottets straffvärde skulle fram-
-stå som oproportionerligt strängt stå som oproportionerligt strängt
-med hänsyn till andra rättsliga med hänsyn till andra rättsliga
-sanktioner till följd av brottet, sanktioner till följd av brottet,
+kan antas bli avskedad eller upp-
+sagd från anställning eller drab-
+bas av annat hinder eller synner-
+lig svårighet i yrkes- eller närings-
+utövning,
+7\. om ett straff utmätt efter
+brottets straffvärde skulle fram-
+stå som oproportionerligt strängt
+med hänsyn till andra rättsliga
+sanktioner till följd av brottet,
+
 eller                 eller
 9\. om någon annan omständ- 8. om någon annan omständ-
 lighet påkallar att den tilltalade lighet påkallar att den tilltalade
@@ -3079,23 +3089,35 @@ enligt detta kapitel ska det, utom enligt detta kapitel ska det, utom
 i fall som avses i 1, 2, 2 a, 2 d, 3 i fall som avses i 1, 2, 2 a, 2 d, 3
 eller 4 §, särskilt beaktas om den eller 4 §, särskilt beaktas om den
 sökande gjort sig skyldig till sökande gjort sig skyldig till
-brottslighet eller brottslighet i brott eller brott i förening med
-förening med annan missköt- annan misskötsamhet. Vid pröv-
-samhet. Vid prövning av uppe- ning av uppehållstillstånd enligt
-hållstillstånd enligt 3 a § första 3 a § första stycket 1 och andra
-stycket 1 och andra stycket ska stycket ska det särskilt beaktas
-det särskilt beaktas om utlän- om utlänningen eller utlänning-
-ningen eller utlänningens barn ens barn kan antas bli utsatt för
-kan antas bli utsatt för våld eller våld eller för annan allvarlig
-för annan allvarlig kränkning av kränkning av sin frihet eller frid
-sin frihet eller frid om uppehålls- om uppehållstillstånd skulle be-
-tillstånd skulle beviljas. viljas.
+
+brottslighet eller brottslighet i
+förening med annan missköt-
+samhet. Vid prövning av uppe-
+hållstillstånd enligt 3 a § första
+stycket 1 och andra stycket ska
+det särskilt beaktas om utlän-
+ningen eller utlänningens barn
+kan antas bli utsatt för våld eller
+för annan allvarlig kränkning av
+sin frihet eller frid om uppehålls-
+tillstånd skulle beviljas.
+
+brott eller brott i förening med
+annan misskötsamhet. Vid pröv-
+ning av uppehållstillstånd enligt
+3 a § första stycket 1 och andra
+stycket ska det särskilt beaktas
+om utlänningen eller utlänning-
+ens barn kan antas bli utsatt för
+våld eller för annan allvarlig
+kränkning av sin frihet eller frid
+om uppehållstillstånd skulle be-
+viljas.
 
 Uppehållstillstånd enligt 3 § första stycket 2 eller 3 och 3 a §
 andra stycket får beviljas endast efter medgivande också av den
 förälder till vilken anknytning inte åberopas, om den föräldern har
 del i vårdnaden av barnet.
-
 Uppehållstillstånd ska inte beviljas en person som har ställning
 som varaktigt bosatt i en annan EU-stat, eller hans eller hennes
 anhöriga, om personen utgör ett hot mot allmän ordning och
@@ -3117,26 +3139,45 @@ syn tas till den anknytning som syn tas till den anknytning som
 
 SOU 2021:61                              Författningsförslag
 
-utlänningen har till det svenska utlänningen har till Sverige och
-samhället och till om andra skäl till om andra skäl talar mot att
+utlänningen har till det svenska
+samhället och till om andra skäl
+talar mot att tillståndet återkallas.
+Vid en sådan bedömning skall
+särskilt beaktas
+1\. utlänningens levnadsomstän-
+digheter,
 
-talar mot att tillståndet återkallas. tillståndet återkallas.
-Vid en sådan bedömning skall Vid en sådan bedömning ska
-särskilt beaktas      särskilt beaktas
-1\. utlänningens levnadsomstän- 1. i vilken utsträckning utlän-
-digheter,             ningen har etablerat sig i det
-svenska samhället, och
-2\. om utlänningen har barn i 2. om utlänningen har barn i
-Sverige och, om så är fallet, Sverige och, om så är fallet,
-barnets behov av kontakt med barnets behov av kontakt med
-utlänningen, hur kontakten har utlänningen, hur kontakten har
-varit och hur den skulle påverkas varit och hur den skulle påverkas
-av att utlänningens uppehålls- av att utlänningens uppehålls-
-tillstånd återkallas, tillstånd återkallas, samt utlän-
-3\. utlänningens övriga familje- ningens övriga familjeförhållanden.
+2\. om utlänningen har barn i
+Sverige och, om så är fallet,
+barnets behov av kontakt med
+utlänningen, hur kontakten har
+
+varit och hur den skulle påverkas
+av att utlänningens uppehålls-
+tillstånd återkallas,
+3\. utlänningens övriga familje-
 förhållanden, och
 4\. hur länge utlänningen har
 vistats i Sverige.
+
+utlänningen har till Sverige och
+till om andra skäl talar mot att
+tillståndet återkallas.
+Vid en sådan bedömning ska
+särskilt beaktas
+1\. i vilken utsträckning utlän-
+ningen har etablerat sig i det
+svenska samhället, och
+2\. om utlänningen har barn i
+Sverige och, om så är fallet,
+barnets behov av kontakt med
+utlänningen, hur kontakten har
+
+varit och hur den skulle påverkas
+av att utlänningens uppehålls-
+tillstånd återkallas, samt utlän-
+ningens övriga familjeförhållanden.
+
 Vid bedömningen av om uppe-
 hållstillståndet bör återkallas en-
 ligt 3 § andra stycket ska också
@@ -3144,7 +3185,6 @@ särskilt beaktas om förhållandet
 har upphört främst på grund av att
 i förhållandet utlänningen, eller
 utlänningens barn, utsatts för våld
-
 eller för annan allvarlig kränk-
 ning av sin frihet eller frid.
 
@@ -3167,7 +3207,6 @@ Författningsförslag                        SOU 2021:61
 
 undersökningsledaren fått till-
 fälle att yttra sig.
-
 Om  uppehållstillståndet har
 beviljats efter ansökan av social-
 nämnden får tillståndet inte åter-
@@ -3192,17 +3231,25 @@ borgare som inte avvisas i an- borgare som inte avvisas i an-
 slutning till inresan eller under slutning till inresan eller under
 de tre första månaderna efter in- de tre första månaderna efter in-
 resan enligt första stycket får resan enligt första stycket får
+
 därefter utvisas av hänsyn till därefter utvisas av hänsyn till
 allmän ordning och säkerhet. allmän ordning eller säkerhet.
 
 14 §9
 
-En EES-medborgare eller en En EES-medborgare eller en
-familjemedlem till en EES-med- familjemedlem till en EES-med-
-borgare som har permanent borgare som har permanent
-uppehållsrätt får avvisas eller ut- uppehållsrätt får avvisas eller ut-
-visas enligt 11 § endast om det visas enligt 11 § endast om det är
-finns synnerliga skäl. särskilt påkallat av hänsyn till
+En EES-medborgare eller en
+familjemedlem till en EES-med-
+borgare som har permanent
+uppehållsrätt får avvisas eller ut-
+visas enligt 11 § endast om det
+finns synnerliga skäl.
+
+En EES-medborgare eller en
+familjemedlem till en EES-med-
+borgare som har permanent
+uppehållsrätt får avvisas eller ut-
+visas enligt 11 § endast om det är
+särskilt påkallat av hänsyn till
 allmän ordning eller säkerhet.
 
 8 Senaste lydelse: 2014:198.
@@ -3539,7 +3586,6 @@ Författningsförslag                        SOU 2021:61
 
 7 §11
 Ett barn får, under de förutsättningar som anges i 2 § första
-
 stycket 1 och 2, ställas under uppsikt.
 Ett barn får dessutom ställas Ett barn får dessutom ställas
 under uppsikt när beslut har under uppsikt när beslut har
@@ -3552,12 +3598,21 @@ delats om utvisning enligt 8 kap. delats om utvisning enligt 8 kap.
 
 12 kap.
 12 b §12
-Om  en förundersöknings- Om en förundersöknings-
-ledare har ansökt om tidsbegrän- ledare eller socialnämnd har
-sat uppehållstillstånd enligt ansökt om tidsbegränsat uppe-
-5 kap. 15 §, får Migrationsverket hållstillstånd enligt 5 kap. 15 §,
-besluta om inhibition av ett får Migrationsverket besluta om
-beslut att avvisa eller utvisa den inhibition av ett beslut att avvisa
+
+Om  en förundersöknings-
+ledare har ansökt om tidsbegrän-
+sat uppehållstillstånd enligt
+5 kap. 15 §, får Migrationsverket
+besluta om inhibition av ett
+beslut att avvisa eller utvisa den
+
+Om  en förundersöknings-
+ledare eller socialnämnd har
+ansökt om tidsbegränsat uppe-
+hållstillstånd enligt 5 kap. 15 §,
+får Migrationsverket besluta om
+inhibition av ett beslut att avvisa
+
 utlänning som ansökan avser. eller utvisa den utlänning som
 ansökan avser.
 
@@ -3571,8 +3626,8 @@ utlänningen
 1\. återvänt med uppehållstillstånd eller visering,
 2\. återvänt efter att ha fått sär- 2. återvänt efter att ha fått sär-
 skilt tillstånd till ett kort besök skilt tillstånd till ett kort besök
-
 här i landet enligt 8 kap. 25 § eller här i landet enligt 8 kap. 25 § eller
+
 8 a kap. 9 §, eller   8 a kap. 12 §, eller
 3\. efter återkomsten beviljats ett tidsbegränsat uppehållstillstånd.
 
@@ -3588,7 +3643,6 @@ SOU 2021:61                              Författningsförslag
 
 Vad som sägs i andra stycket 1 gäller under giltighetstiden för
 tillståndet eller viseringen.
-
 Ett beslut om avvisning eller utvisning som inte är förenat med
 något gällande förbud att återvända får inte heller verkställas om
 utlänningen är undantagen från krav på visering eller uppehålls-
@@ -3597,16 +3651,28 @@ skrifter som har meddelats med stöd av 2 kap. 9 §
 
 14 kap.
 4 §14
-Migrationsverkets beslut om Migrationsverkets beslut om
-avslag på en ansökan om tids- avslag på en ansökan om tids-
-begränsat uppehållstillstånd en- begränsat uppehållstillstånd en-
-ligt 5 kap. 15 § eller beslut om ligt 5 kap. 15 § eller beslut om
-återkallelse av ett tillstånd som återkallelse av ett tillstånd som
-meddelats med stöd av 5 kap. meddelats med stöd av 5 kap.
-15 § överklagas till migrations- 15 § överklagas till migrations-
-domstol. Endast förundersök- domstol. Sådana beslut får över-
-ningsledaren får överklaga sådana klagas endast av förundersök-
-beslut.               ningsledaren eller, om det är
+
+Migrationsverkets beslut om
+avslag på en ansökan om tids-
+begränsat uppehållstillstånd en-
+ligt 5 kap. 15 § eller beslut om
+återkallelse av ett tillstånd som
+meddelats med stöd av 5 kap.
+15 § överklagas till migrations-
+domstol. Endast förundersök-
+ningsledaren får överklaga sådana
+beslut.
+
+Migrationsverkets beslut om
+avslag på en ansökan om tids-
+begränsat uppehållstillstånd en-
+ligt 5 kap. 15 § eller beslut om
+återkallelse av ett tillstånd som
+meddelats med stöd av 5 kap.
+15 § överklagas till migrations-
+domstol. Sådana beslut får över-
+klagas endast av förundersök-
+ningsledaren eller, om det är
 socialnämnden som har ansökt
 om tillståndet, endast av social-
 nämnden.
@@ -3617,15 +3683,23 @@ Till böter döms en utlänning Till böter döms en utlänning
 som uppsåtligen eller av oakt- som uppsåtligen eller av oakt-
 samhet uppehåller sig i Sverige samhet uppehåller sig i Sverige
 utan föreskrivet tillstånd och utan föreskrivet tillstånd och
-utan att utlänningen har ansökt utan att utlänningen har ansökt
-om ett sådant tillstånd eller en om ett sådant tillstånd eller en
-förundersökningsledare har an- förundersökningsledare eller
 
-sökt om tidsbegränsat uppe- socialnämnd har ansökt om
-hållstillstånd för utlänningen tidsbegränsat uppehållstillstånd
-med stöd av 5 kap. 15 §. för utlänningen med stöd av
-I ringa fall skall åtal för brott 5 kap. 15 §.
+utan att utlänningen har ansökt
+om ett sådant tillstånd eller en
+förundersökningsledare har an-
+sökt om tidsbegränsat uppe-
+hållstillstånd för utlänningen
+med stöd av 5 kap. 15 §.
+I ringa fall skall åtal för brott
 enligt denna paragraf inte väckas
+
+utan att utlänningen har ansökt
+om ett sådant tillstånd eller en
+förundersökningsledare eller
+socialnämnd har ansökt om
+tidsbegränsat uppehållstillstånd
+för utlänningen med stöd av
+5 kap. 15 §.
 
 14 Senaste lydelse 2007:322.
 
@@ -8733,8 +8807,6 @@ Tabell 5.4 Domsluta med beslut om utvisning för folkbokförda individer,
 uppdelat på medborgarskap i EES-land, år 2015–2019
 Motsvarar tabell 10 i bilaga 2
 
-Domslut
-
 Påföljder och strafftider
 
 Även under 2015–2019 var fängelse den dominerande påföljden
@@ -8756,7 +8828,7 @@ u nder hela perioden framgår av tabell 5.5.
 
 [Tabell 216-1](handlingar.tabeller/216-1.csv)
 
-| Medborgarskap | med beslut om utvisning | Andel |
+| Medborgarskap | Domslut med beslut om utvisning | Andel |
 | --- | --- | --- |
 | EES medborgare | 42 | 13,3 |
 | Ej EES medborgare | 274 | 86,7 |
@@ -25559,64 +25631,101 @@ I tabell 12 presenteras samtliga domslut i tingsrätten med beslut om utvisning 
 
 <!-- sida 592 -->
 
-Statens offentliga utredningar  2021
+Statens  offentliga utredningar 2021
 
 Kronologisk förteckning
 
-1\. Säker och kostnadseffektiv it-drift 16. En väl fungerande ordning för val
-– rättsliga förutsättningar för och beslutsfattande i kommuner
-utkontraktering. I.    och regioner. Fi.
-2\. Krav på kunskaper i svenska och 17. Ett moderniserat konsumentskydd. Fi.
-samhällskunskap för svenskt 18. Bolags rörlighet över gränserna.
-medborgarskap. Ju.     Volym 1 & 2. Ju.
-3\. Skolbibliotek för bildning och 19. En stärkt försörjningsberedskap för
-utbildning. U.         hälso- och sjukvården. Del 1 och 2. S.
-4\. Informationsöverföring inom vård 20. Ecris-TCN – ett mer effektivt utbyte
-och omsorg. S.         av brottmålsdomar mot tredjelands-
-5\. Ett förbättrat system för arbetskrafts- medborgare. Ju.
-invandring. Ju.      21. En klimatanpassad miljöbalk för
-6\. God och nära vård. Rätt stöd till samtiden och framtiden. M.
-psykisk hälsa. S.    22. Hårdare regler för nya nikotin-
-7\. Förstärkt skydd för väljarna vid röst- produkter. S.
-mottagningen. Ju.    23. Stärkt planering för en hållbar
-8\. När behovet får styra utveckling. Fi.
-– ett tandvårdssystem för en mer jäm- 24. Äga avfall
-lik tandhälsa. Vol. 1 & Vol. 2, bilagor – en del av den cirkulära ekonomin. M.
+1\. Säker och kostnadseffektiv it-drift
+– rättsliga förutsättningar för
+utkontraktering. I.
+2\. Krav på kunskaper i svenska och
+samhällskunskap för svenskt
+medborgarskap. Ju.
+3\. Skolbibliotek för bildning och
+utbildning. U.
+4\. Informationsöverföring inom vård
+och omsorg. S.
+5\. Ett förbättrat system för arbetskrafts-
+invandring. Ju.
+6\. God och nära vård. Rätt stöd till
+psykisk hälsa. S.
+7\. Förstärkt skydd för väljarna vid röst-
+mottagningen. Ju.
+8\. När behovet får styra
+– ett tandvårdssystem för en mer jäm-
+lik tandhälsa. Vol. 1 & Vol. 2, bilagor
 \+ Sammanfattning (häfte). S.
-25\. Struktur för ökad motståndskraft. Ju.
 9\. Vem kan man lita på? Enkel och
-26\. Använd det som fungerar. M.
 ändamålsenlig användning av
-betrodda tjänster i den offentliga 27. Ett förbud mot rasistiska
-förvaltningen. I.      organisationer. Ju.
-10\. Radiologiska skador – skadestånd, 28. Immunitet för utställningsföremål. Ku.
-säkerheter, skadereglering. M. 29. Ökade möjligheter att förhindra
-11\. Bättre möjligheter för elever att nå illegal handel via post. I.
-kunskapskraven – aktivt stöd- och 30. Kampen om tiden
-elevhälsoarbete samt stärkt utbildning – mer tid till lärande. U.
-för elever med intellektuell funktions- 31. Kontroller på väg. I.
+betrodda tjänster i den offentliga
+förvaltningen. I.
+10\. Radiologiska skador – skadestånd,
+säkerheter, skadereglering. M.
+11\. Bättre möjligheter för elever att nå
+kunskapskraven – aktivt stöd- och
+elevhälsoarbete samt stärkt utbildning
+för elever med intellektuell funktions-
 nedsättning. U.
-32\. Papper, poddar och ...
-12\. Andra chans för krisande företag Pliktmateriallagstiftning för ett
-– En ny lag om företagsrekonstruktion. tryggat källmaterial. U.
+12\. Andra chans för krisande företag
+– En ny lag om företagsrekonstruktion.
 Ju.
+13\. En teknikneutral grundlags-
+bestämmelse för regeringsbeslut. Ju.
+14\. Boende på (o)lika villkor
+– merkostnader i bostad med särskild
+service för vuxna enligt LSS. S.
+15\. Föreningsfrihet och terrorist-
+organisationer. Ju.
+
+16\. En väl fungerande ordning för val
+och beslutsfattande i kommuner
+och regioner. Fi.
+17\. Ett moderniserat konsumentskydd. Fi.
+18\. Bolags rörlighet över gränserna.
+Volym 1 & 2. Ju.
+19\. En stärkt försörjningsberedskap för
+hälso- och sjukvården. Del 1 och 2. S.
+20\. Ecris-TCN – ett mer effektivt utbyte
+av brottmålsdomar mot tredjelands-
+medborgare. Ju.
+21\. En klimatanpassad miljöbalk för
+samtiden och framtiden. M.
+22\. Hårdare regler för nya nikotin-
+produkter. S.
+23\. Stärkt planering för en hållbar
+utveckling. Fi.
+24\. Äga avfall
+– en del av den cirkulära ekonomin. M.
+25\. Struktur för ökad motståndskraft. Ju.
+26\. Använd det som fungerar. M.
+27\. Ett förbud mot rasistiska
+organisationer. Ju.
+28\. Immunitet för utställningsföremål. Ku.
+29\. Ökade möjligheter att förhindra
+illegal handel via post. I.
+30\. Kampen om tiden
+– mer tid till lärande. U.
+31\. Kontroller på väg. I.
+32\. Papper, poddar och ...
+Pliktmateriallagstiftning för ett
+tryggat källmaterial. U.
 33\. En tioårig grundskola. Införandet
-13\. En teknikneutral grundlags- av en ny årskurs 1 i grundskolan,
-bestämmelse för regeringsbeslut. Ju. grundsärskolan, specialskolan och
-14\. Boende på (o)lika villkor sameskolan. U.
-– merkostnader i bostad med särskild 34. Börja med barnen! En sammanhållen
-service för vuxna enligt LSS. S. god och nära vård för barn och unga. S.
-15\. Föreningsfrihet och terrorist- 35. En stärkt rättsprocess och en ökad
-organisationer. Ju.    lagföring. Ju.
+av en ny årskurs 1 i grundskolan,
+grundsärskolan, specialskolan och
+sameskolan. U.
+34\. Börja med barnen! En sammanhållen
+god och nära vård för barn och unga. S.
+35\. En stärkt rättsprocess och en ökad
+lagföring. Ju.
 
 <!-- sida 593 -->
 
-36\. Gode män och förvaltare – en över- 59. Vägen till tillgänglighet – långsiktig,
-syn. Ju.              strategisk och i samverkan. S.
-37\. Stärkt rätt till personlig assistans. 60. Förenklingar för mikroföretag och
-Ökad rättssäkerhet för barn, fler modernisering av bokföringslagen. N.
-grundläggande behov och tryggare 61. Utvisning på grund av brott – ett
-sjukvårdande insatser. S. skärpt regelverk. Ju.
+36\. Gode män och förvaltare – en över-
+syn. Ju.
+37\. Stärkt rätt till personlig assistans.
+Ökad rättssäkerhet för barn, fler
+grundläggande behov och tryggare
+sjukvårdande insatser. S.
 38\. En ny lag om ordningsvakter m.m. Ju.
 39\. Ombuds tillgång till vård- och
 omsorgsuppgifter och förenklad
@@ -25659,93 +25768,116 @@ nummer och identitetsnummer. Fi.
 58\. Läge och kvalitet i hyressättningen.
 Ju.
 
+59\. Vägen till tillgänglighet – långsiktig,
+strategisk och i samverkan. S.
+60\. Förenklingar för mikroföretag och
+modernisering av bokföringslagen. N.
+61\. Utvisning på grund av brott – ett
+skärpt regelverk. Ju.
+
 <!-- sida 594 -->
 
-Statens offentliga utredningar  2021
+Statens  offentliga utredningar 2021
 
 Systematisk förteckning
 
-Finansdepartementet   Andra chans för krisande företag
-En väl fungerande ordning för val och – En ny lag om företagsrekonstruktion.
-beslutsfattande i kommuner och [12]
-regioner. [16]      En teknikneutral grundlags bestämmelse
-Ett moderniserat konsumentskydd. [17] för regeringsbeslut. [13]
-Stärkt planering för en hållbar utveckling. Föreningsfrihet och terroristorganisationer.
-[23]                  [15]
-Mervärdesskatt vid inhyrd personal för Bolags rörlighet över gränserna.
-vård och social omsorg. [40] Volym 1 & 2. [18]
-Stärkta åtgärder mot penningtvätt Ecris-TCN – ett mer effektivt utbyte av
-och finansiering av terrorism. [42] brottmålsdomar mot tredjelandsmed-
-borgare. [20]
+Finansdepartementet
+En väl fungerande ordning för val och
+beslutsfattande i kommuner och
+regioner. [16]
+Ett moderniserat konsumentskydd. [17]
+Stärkt planering för en hållbar utveckling.
+[23]
+Mervärdesskatt vid inhyrd personal för
+vård och social omsorg. [40]
+Stärkta åtgärder mot penningtvätt
+och finansiering av terrorism. [42]
 Ett nytt regelverk för bygglov. Del 1 och 2.
-[47]                Struktur för ökad motståndskraft. [25]
-Mikroföretagarkonto   Ett förbud mot rasistiska organisationer.
-– schabloniserad inkomstbeskattning [27]
-för de minsta företagen. [55] En stärkt rättsprocess och en ökad lag-
-Om folkbokföring, samordningsnummer föring. [35]
-och identitetsnummer. [57] Gode män och förvaltare – en översyn.
-[36]
-Infrastrukturdepartementet En ny lag om ordningsvakter m.m. [38]
-Säker och kostnadseffektiv it-drift Ett förstärkt skydd mot sexuella
-rättsliga förutsättningar för kränkningar. [43]
-utkontraktering. [1] Snabbare lagföring
-Vem kan man lita på? Enkel och ändamåls- – ett snabbförfarande i brottmål. [46]
-enlig användning av betrodda tjänster Kommuner mot brott. [49]
+[47]
+Mikroföretagarkonto
+– schabloniserad inkomstbeskattning
+för de minsta företagen. [55]
+Om folkbokföring, samordningsnummer
+och identitetsnummer. [57]
+Infrastrukturdepartementet
+Säker och kostnadseffektiv it-drift
+rättsliga förutsättningar för
+utkontraktering. [1]
+Vem kan man lita på? Enkel och ändamåls-
+enlig användning av betrodda tjänster
 i den offentliga förvaltningen. [9]
-Fri hyressättning vid nyproduktion. [50]
 Ökade möjligheter att förhindra illegal
-Ändrade regler i medborgarskapslagen. [54]
 handel via post. [29]
-Nya regler om utländska föräldraskap och
 Kontroller på väg. [31]
-adoption i vissa fall. [56]
-Läge och kvalitet i hyressättningen. [58]
 Justitiedepartementet
-Utvisning på grund av brott – ett skärpt
-Krav på kunskaper i svenska och regelverk. [61]
+Krav på kunskaper i svenska och
 samhällskunskap för svenskt
 medborgarskap. [2]
-Kulturdepartementet
 Ett förbättrat system för arbetskrafts-
-Immunitet för utställningsföremål. [28]
 invandring. [5]
 Förstärkt skydd för väljarna vid röst-
-mottagningen. [7]   Miljödepartementet
+mottagningen. [7]
+
+Andra chans för krisande företag
+– En ny lag om företagsrekonstruktion.
+[12]
+En teknikneutral grundlags bestämmelse
+för regeringsbeslut. [13]
+Föreningsfrihet och terroristorganisationer.
+[15]
+Bolags rörlighet över gränserna.
+Volym 1 & 2. [18]
+Ecris-TCN – ett mer effektivt utbyte av
+brottmålsdomar mot tredjelandsmed-
+borgare. [20]
+Struktur för ökad motståndskraft. [25]
+Ett förbud mot rasistiska organisationer.
+[27]
+En stärkt rättsprocess och en ökad lag-
+föring. [35]
+Gode män och förvaltare – en översyn.
+[36]
+En ny lag om ordningsvakter m.m. [38]
+Ett förstärkt skydd mot sexuella
+kränkningar. [43]
+Snabbare lagföring
+– ett snabbförfarande i brottmål. [46]
+Kommuner mot brott. [49]
+Fri hyressättning vid nyproduktion. [50]
+Ändrade regler i medborgarskapslagen. [54]
+Nya regler om utländska föräldraskap och
+adoption i vissa fall. [56]
+Läge och kvalitet i hyressättningen. [58]
+Utvisning på grund av brott – ett skärpt
+regelverk. [61]
+Kulturdepartementet
+Immunitet för utställningsföremål. [28]
+Miljödepartementet
 Radiologiska skador – skadestånd,
 säkerheter, skadereglering. [10]
 
 <!-- sida 595 -->
 
-En klimatanpassad miljöbalk för samtiden Vilja välja vård och omsorg.
-och framtiden. [21]    En hållbar kompetensförsörjning
-Äga avfall              inom vård och omsorg om äldre. [52]
-– en del av den cirkulära ekonomin. [24] Vägen till ökad tillgänglighet – långsiktig,
-Använd det som fungerar. [26] strategisk och i samverkan. [59]
+En klimatanpassad miljöbalk för samtiden
+och framtiden. [21]
+Äga avfall
+– en del av den cirkulära ekonomin. [24]
+Använd det som fungerar. [26]
 I en värld som ställer om.
-Sverige utan fossila drivmedel 2040. Utbildningsdepartementet
-[48]                 Skolbibliotek för bildning och utbildning.
-Skydd av arter – vårt gemensamma ansvar. [3]
-Vol. 1 och 2. [51]   Bättre möjligheter för elever att nå
-En rättssäker vindkraftsprövning. [53] kunskapskraven – aktivt stöd- och
-elevhälsoarbete samt stärkt utbildning
-för elever med intellektuell funktions-
+Sverige utan fossila drivmedel 2040.
+[48]
+Skydd av arter – vårt gemensamma ansvar.
+Vol. 1 och 2. [51]
+En rättssäker vindkraftsprövning. [53]
 Näringsdepartementet
-nedsättning. [11]
 En EU-anpassad djurläkemedels-
-Kampen om tiden
 lagstiftning. Del 1 och 2. [45]
-– mer tid till lärande. [30]
 Förenklingar för mikroföretag och
-Papper, poddar och ...
 modernisering av bokföringslagen.
-Pliktmateriallagstiftning för ett
 [60]
-tryggat källmaterial. [32]
-En tioårig grundskola. Införandet
 Socialdepartementet
-av en ny årskurs 1 i grundskolan,
-Informationsöverföring inom vård och grundsärskolan, specialskolan och
-omsorg. [4]            sameskolan. [33]
+Informationsöverföring inom vård och
+omsorg. [4]
 God och nära vård. Rätt stöd till psykisk
 hälsa. [6]
 När behovet får styra
@@ -25771,19 +25903,39 @@ behörighetskontroll inom vården. [39]
 VAB för vårdåtgärder i skolan. [41]
 Tillgänglighetsdirektivet. [44]
 
+Vilja välja vård och omsorg.
+En hållbar kompetensförsörjning
+inom vård och omsorg om äldre. [52]
+Vägen till ökad tillgänglighet – långsiktig,
+strategisk och i samverkan. [59]
+Utbildningsdepartementet
+Skolbibliotek för bildning och utbildning.
+[3]
+Bättre möjligheter för elever att nå
+kunskapskraven – aktivt stöd- och
+elevhälsoarbete samt stärkt utbildning
+för elever med intellektuell funktions-
+nedsättning. [11]
+Kampen om tiden
+– mer tid till lärande. [30]
+Papper, poddar och ...
+Pliktmateriallagstiftning för ett
+tryggat källmaterial. [32]
+En tioårig grundskola. Införandet
+av en ny årskurs 1 i grundskolan,
+grundsärskolan, specialskolan och
+sameskolan. [33]
+
 <!-- sida 596 -->
 
 103 33 Stockholm Växel 08-405 10 00 www.regeringen.se
 ISBN 978-91-525-0171-9 ISSN 0375-250X
-BA
-egirevS
-srednalE
-:galsmO
-ardnuc
-:dliB
-grebÖ
-S atengA
-:gnintebraebdliB
+
+Omslag: Elanders Sverige AB
+
+Bild: cundra
+
+Bildbearbetning: Agneta S Öberg
 
 <!-- sida 597 -->
 

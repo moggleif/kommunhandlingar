@@ -1,0 +1,43 @@
+KK,AK,PN,Beskrivning
+1.2001,2,U,"Anläggning med stadigvarande djurhållning med mer än 30 djurenheter
+(det högsta antalet djurenheter under året) men högst 100 djurenheter,
+dock inte inhägnad.
+Med en djurenhet avses samma som under 1.20-1
+Denna beskrivning gäller inte renskötsel."
+1.2002,1,U,"Anläggning med stadigvarande djurhållning med minst 4 men högst 30
+djurenheter (det högsta antalet djurenheter under året), dock inte
+inhägnad.
+Med en djurenhet avses samma som under 1.20-1
+Denna beskrivning gäller inte renskötsel."
+,,,Odling
+1.30,4,C,"Uppodling av annan mark än jordbruksmark för produktion av foder,
+livsmedel eller annan liknande jordbruksproduktion."
+1.3001,3,U,"Växthus eller kemikalieintensiv odling med en odlingsyta som är större
+än 5000 kvadratmeter"
+1.3002,2,U,"Växthus eller kemikalieintensiv odling med en odlingsyta som är större
+än 2000 men högst 5000 kvadratmeter"
+1.3003,2,U,Anläggning för torkning av gödsel
+1.3004,2,U,"Uppodling av jordbruksmark som är större än 100 hektar för
+produktion av foder, livsmedel eller annan liknande
+jordbruksproduktion."
+1.3005,1,U,"Uppodling av jordbruksmark som är större än 10 hektar men högst 100
+hektar för produktion av foder, livsmedel eller annan liknande
+jordbruksproduktion."
+1.3006,2,U,Fruktodling med en odlingsyta som är större än 1 hektar
+,,,FISKODLING M.M.
+5.10,7,B,"Fiskodling eller övervintring av fisk där mer än 40 ton foder förbrukas
+per kalenderår."
+5.20,3,C,"Fiskodling eller övervintring av fisk där mer än 1,5 ton foder förbrukas
+per kalenderår, om inte verksamheten är tillståndspliktig enligt 5.10."
+5.2001,1,U,"Fiskodling eller övervintring av fisk där högst 1,5 ton foder förbrukas
+per kalenderår."
+,,,"UTVINNING, BRYTNING OCH BEARBETNING AV TORV,
+OLJA, GAS, KOL, MALM, MINERAL, BERG, NATURGRUS
+M.M"
+,,,"Berg, naturgrus och andra jordarter"
+10.10,14 B,,"Täkt av torv med ett verksamhetsområde som är större än 150 hektar,
+om verksamheten inte
+1. omfattas av en bearbetningskoncession enligt lagen (1985:620) om
+vissa torvfyndigheter, eller
+2. endast innebär uppläggning och bortforsling av redan utbrutet och
+bearbetat material efter det att tillsynsmyndigheten meddelat beslut om"

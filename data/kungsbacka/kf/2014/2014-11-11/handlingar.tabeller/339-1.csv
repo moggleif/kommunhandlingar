@@ -1,0 +1,36 @@
+KK,AK,PN,Beskrivning
+,,,Förbränning
+90.180-1,31,A,"Anläggning där farligt avfall förbränns, om den tillförda mängden
+farligt avfall är mer än 25 000 ton per kalenderår."
+90.180-2,28,A,"Anläggning där farligt avfall förbränns, om den tillförda mängden
+farligt avfall är mer än 10 000 men högst 25 000 ton per kalenderår"
+90.180-3,20,A,"Anläggning där farligt avfall förbränns, om den tillförda mängden
+farligt avfall är mer än 2 500 men högst 10 000 ton per kalenderår."
+90.190,10,B,"Anläggning där farligt avfall förbränns, om verksamheten inte är
+tillståndspliktig enligt 90.180."
+90.200,26,A,"Anläggning där avfall förbränns, om den tillförda mängden avfall är
+större än 100 000 ton per kalenderår.
+I den tillförda mängden inräknas inte
+1. vegetabiliskt jord- och skogsbruksavfall som energiåtervinns, eller
+2. rent träavfall som energiåtervinns."
+90.210,20,B,"Anläggning där avfall förbränns, om den tillförda mängden avfall är
+större än 18 000 ton per kalenderår.
+I den tillförda mängden inräknas inte
+1. vegetabiliskt jord- och skogsbruksavfall som energiåtervinns, eller
+2. rent träavfall som energiåtervinns.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 90.200."
+90.220-1,10,B,"Anläggning där avfall förbränns, om den tillförda mängden avfall är
+större än 10 000 ton men högst 18 000 ton per kalenderår.
+I den tillförda mängden inräknas inte
+1. vegetabiliskt jord- och skogsbruksavfall som energiåtervinns, eller
+2. rent träavfall som energiåtervinns.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 90.200 eller 90.210."
+90.220-2,8,B,"Anläggning där avfall förbränns, om den tillförda mängden avfall är
+större än 1000 ton men högst 10 000 ton per kalenderår.
+I den tillförda mängden inräknas inte
+1. vegetabiliskt jord- och skogsbruksavfall som energiåtervinns, eller
+2. rent träavfall som energiåtervinns.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 90.200 eller 90.210."

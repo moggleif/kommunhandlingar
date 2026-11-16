@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320130542id_/https://www.kungsbacka.
 sha256: 761ae4424ac5e1bf4ed463d7198d3fcdf810ac0cbd8071d87246f8d59d1392b9
 bytes: 4771960
 sidor: 82
-hamtad: 2026-10-28T09:48:34+00:00
-konverterad: 2026-10-28T09:48:56+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:12:07+00:00
+konverterad: 2026-11-16T00:12:24+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3058,8 +3058,6 @@ Detta för att göra digitaliseringen som sker alltmer i vår kommun men även i
 lättare att nå och ta del av.
 
 Då först kan vi börja tänka på
-
-JA cg Å
 
 Ett smartare Kungsbacka
 

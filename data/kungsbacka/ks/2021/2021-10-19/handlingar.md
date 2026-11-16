@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320022417id_/https://www.kungsbacka.
 sha256: eb936fff3b186064626b1a3d7bec8776ad69a93ad6095eebb7c6b2725c00f6c1
 bytes: 40947484
 sidor: 574
-hamtad: 2026-10-28T09:41:58+00:00
-konverterad: 2026-10-28T09:44:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:10:30+00:00
+konverterad: 2026-11-16T00:11:53+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -12131,19 +12131,30 @@ bebyggas till ca 11% enligt förslaget.
 
 <!-- sida 267 -->
 
-Väst                                                                               Öst
+Väst
 
-Vårt förslag är att bygga friliggande villor samt radhus/lägenheter i max två Dagvatten kommer att omhändertas inom fastigheten genom stenkista och
-våningar. Vi vill skapa ett område som smälter in i naturen med fokus på bra fördröjningsmagasin, dagvattnet leds sedan till befintliga diken som vid
-materialval och miljö. Villorna är tänkta att vara äganderätter och radhusen/ behov kommer att breddas och göras om för att klara den ökade kapaciteten.
-lägenheterna hyresrätter. Vi vill bygga hyresrätter för att ge fler möjligheten att Till respektive boende kommer det finnas cirka två parkeringsplatser samt
-bo i den fina miljö som området erbjuder. Hyresrätterna kommer att anpassas ytor för förråd och miljöhus för källsortering. Infarten till fastigheten ligger
+Vårt förslag är att bygga friliggande villor samt radhus/lägenheter i max två
 
-till den äldre generationen, och skall vara attraktivt för såväl barnfamiljer som idag lite skymd, ett förslag är att flytta upp infarten på krönet i höjd med Elis
-ensamboende.                                                 väg för att få bättre sikt och öka trafiksäkerheten.
+våningar. Vi vill skapa ett område som smälter in i naturen med fokus på bra
+materialval och miljö. Villorna är tänkta att vara äganderätter och radhusen/
+lägenheterna hyresrätter. Vi vill bygga hyresrätter för att ge fler möjligheten att
+bo i den fina miljö som området erbjuder. Hyresrätterna kommer att anpassas
+till den äldre generationen, och skall vara attraktivt för såväl barnfamiljer som
+ensamboende.
 Inom området kommer det finnas möjlighet till odling av växter och bin, det
 kommer även finnas en bastu på höjden på norra delen av fastigheten som
 samtliga boende inom fastigheten får möjlighet att nyttja.
+
+Öst
+
+Dagvatten kommer att omhändertas inom fastigheten genom stenkista och
+
+fördröjningsmagasin, dagvattnet leds sedan till befintliga diken som vid
+behov kommer att breddas och göras om för att klara den ökade kapaciteten.
+Till respektive boende kommer det finnas cirka två parkeringsplatser samt
+ytor för förråd och miljöhus för källsortering. Infarten till fastigheten ligger
+idag lite skymd, ett förslag är att flytta upp infarten på krönet i höjd med Elis
+väg för att få bättre sikt och öka trafiksäkerheten.
 
 <!-- sida 268 -->
 
@@ -14381,18 +14392,10 @@ styrdokument Enheternas förmåga.
 
 Tabell 4. RSG:s förmåga redovisad per styrka och nivå. Nivå 1 innebär en grundförmåga, nivå 2 en utökad
 grundförmåga och nivå 3 innebär specialförmåga.
-
-inkluderat bemanning och anspänningstid
-
-För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
-förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i det
-operativa arbetet och övningsverksamheten ska därför synliggöra vad vi övar, varför och
-vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra och effektiva
-
-37 (56)
-)kes 09( 6-1 adnulörF )kes 09( 6-1 adråG )kes 09( 4-1 adråG akrytsgaD )kes 09( 6-1 aladetroK )kes 09( 6-1 deregnA )kes 09( 4-1 adnalsroT )kes 09( 6-1 ybdnuL )kes 09( 4-1 ladnlöM )kes 09( 4-1 emodniL )kes 09( 4-1 mureL )kes 09( 6-1 akcabsgnuK )kes 09( 4-1 öjsrejÖ )kes 024( 4-1 mureL )kes 084( 4-1 akcabsgnuK )kes 003( 4-1 såsellirF )kes 003( 4-1 ekcylnlöM )kes 003( 4-1 sådniH )kes 003( 2 -1 adnalväR )kes 003( 4-1 ösnoD )kes 006( 2 öjsrejÖ
 Enheternas förmåga Räddningstjänsten Storgöteborg
+inkluderat bemanning och anspänningstid
 Heltid            RiB
+
 Förmåga
 BRAND I BYGGNAD
 Brand i byggnad
@@ -14442,6 +14445,53 @@ Förmåga nivå 1
 Förmåga nivå 2 (inkluderar nivå 1)
 Förmåga nivå 3 (inkluderar nivå 1 & 2) / Specialförmåga. Förmåga och tillika spetsresurs som kan verka inom hela förbundet.
 Förmågan utgår till stor del från riskbilden inom respektive stationsområde
+För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
+förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i det
+operativa arbetet och övningsverksamheten ska därför synliggöra vad vi övar, varför och
+vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra och effektiva
+37 (56)
+
+Frölunda 1-6 (90 sek)
+
+Gårda 1-6 (90 sek)
+
+Gårda 1-4 (90 sek)
+
+Dagstyrka
+
+Kortedala 1-6 (90 sek)
+
+Angered 1-6 (90 sek)
+
+Torslanda 1-4 (90 sek)
+
+Lundby 1-6 (90 sek)
+
+Mölndal 1-4 (90 sek)
+
+Lindome 1-4 (90 sek)
+
+Lerum 1-4 (90 sek)
+
+Kungsbacka 1-6 (90 sek)
+
+Öjersjö 1-4 (90 sek)
+
+Lerum 1-4 (420 sek)
+
+Kungsbacka 1-4 (480 sek)
+
+Frillesås 1-4 (300 sek)
+
+Mölnlycke 1-4 (300 sek)
+
+Hindås 1-4 (300 sek)
+
+Rävlanda 1- 2 (300 sek)
+
+Donsö 1-4 (300 sek)
+
+Öjersjö 2 (600 sek)
 
 <!-- sida 316 -->
 
@@ -14876,62 +14926,79 @@ Remissversion: Handlingsprogram 2020–2023
 
 Placering av brandstationer med räddningsstyrkor samt vilken förmåga som finns på
 respektive brandstation framgår i kapitel 8.1.1.
+
 Tabell 8. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid olycka med farligt ämne.
 
-Område               Förmåga som omfattas av
+Område              Förmåga som omfattas av
+
+Brand i brandfarlig vätska och gas
+
+Farliga ämnen
+
+Farliga ämnen, nivå 2 (indikering)
+
+Farliga ämnen, nivå 3 (kem 3)
+
+Avancerad Indikering
+
+Sanering
+
+Förstärkt resurs för brand i
+brandfarlig vätska
+
+Storskalig oljebrandsläckning (SMC)
+
+UAS - Unmanned Aerial System
+
+Oljeskyddscontainer
+
+MIRG (Maritime Incident Response
+Group)
 
 \- att snabbt rädda enstaka personer som befinner sig i fara i område
 med brandfarlig vätska eller gas,
 \- att släcka brand i spill av olja eller polär produkt från tankbil eller
-Brand i brandfarlig vätska och gas
 järnvägsvagn,
 \- att släcka brand i mindre cistern med olja eller polär produkt,
 \- att kyla hotad cistern vid brand i cistern för brandfarlig vara.
 \- att snabbt rädda enstaka personer som befinner sig i område med
 farliga ämnen,
 \- att genomföra livräddande sanering av enstaka personer,
-Farliga ämnen
 \- att indikera brännbar atmosfär och annan farlig miljö,
 \- att akut begränsa skadeutbredningen genom övertäckning,
 uppsamling, och nedtvättning.
 \- att indikera riskområde för vanligt förekommande
-Farliga ämnen, nivå 2 (indikering)
 industrikemikalier
+
 \- att genomföra insats i område/utrymme med farliga ämnen
-Farliga ämnen, nivå 3 (kem 3) - att begränsa skadeutbredning genom tätning, övertäckning,
+\- att begränsa skadeutbredning genom tätning, övertäckning,
 uppsamling, impaktering, överpumpning, kylning och nedtvättning.
 \- att vara en nationell resurs vid olyckor med farliga ämnen, genom
 att kunna identifiera ett okänt ämne.
-Avancerad Indikering
 Förmågan regleras genom avtal mellan RSG och MSB
 \- att vara en nationell resurs för sanering av flera kontaminerade
 personer vid olyckor med farliga ämnen.
-Sanering
 Förmågan regleras genom avtal mellan RSG och MSB
 \- att möjliggöra kylning med vatten och släckförmåga med skum för
-Förstärkt resurs för brand i
 större bränder i brandfarlig vätska med hjälp av skumbilar, stor-
-brandfarlig vätska
 pump, slang och armaturer.
 \- att självständigt eller med hjälp av andra SMC-enheter släcka större
 bränder i oljedepåer.
-Storskalig oljebrandsläckning (SMC)
 Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen
 (SMC).
 \- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
+genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 \- att med länsa inringa olja runt en båt eller skydda vikar, vattendrag
-Oljeskyddscontainer
 och strandområden från oljepåslag.
+
 \- att med en grupp om ett befäl och 5 brandmän, som enskilt eller
 tillsammans med MIRG-styrkor från andra räddningstjänster, bistå
 Sjöfartsverket eller Kustbevakningen vid statlig räddningstjänst till
-MIRG (Maritime Incident Response
 havs.
-Group)
 Förmågan regleras genom avtal mellan RSG och Sjöfartsverket samt
 Kustbevakningen.
+
 46 (56)
 
 <!-- sida 325 -->
@@ -14939,41 +15006,54 @@ Kustbevakningen.
 Remissversion: Handlingsprogram 2020–2023
 
 8.2.5 Naturolycka
+
 Samtliga heltids- och RiB-styrkor kan spärra av och säkra olycksplatsen samt utföra räddning
 av enstaka personer. För mer komplicerade räddningsinsatser vid naturolyckor krävs
-
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 9)
+
 Placering av brandstationer med räddningsstyrkor samt vilken förmåga som finns på
 respektive brandstation framgår avsnitt 8.1.1.
-
 Tabell 9. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid naturolyckor.
 
-Område               Förmåga som omfattas av
+Område
+
+Resurs för ras och tung räddning
+(RTR)
+
+Terrängtransport
+
+Nationell förstärkningsresurs för
+urban sök- och räddning (NUSAR)
+
+UAS - Unmanned Aerial System
+
+Förmåga som omfattas av
 
 \- att genomföra räddningsinsatser vid naturolyckor där tunga fordon
 är inblandade såsom lastbilar, bussar och tåg,
-Resurs för ras och tung räddning
 \- att genomföra räddningsinsatser vid byggnadskollapser vid
-(RTR)
 naturolyckor genom stabiliserande åtgärder och att söka efter
 personer vid dessa händelser
 \- att genomföra transport av materiel eller personal i väglös terräng
-Terrängtransport       eller på väg med begränsad framkomlighet med MC, bandvagn
+eller på väg med begränsad framkomlighet med MC, bandvagn
 eller annat terrängfordon.
 \- att vara en nationell sök- och räddningsresurs för att söka efter och
 rädda människor vid stora komplexa räddningsinsatser med
-Nationell förstärkningsresurs för kollapsade byggnadskonstruktioner, orsakade av till exempel
-urban sök- och räddning (NUSAR) naturkatastrofer, olyckor, terrordåd eller krig.
+kollapsade byggnadskonstruktioner, orsakade av till exempel
+naturkatastrofer, olyckor, terrordåd eller krig.
 Förmågan regleras genom avtal mellan RSG och MSB
 \- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
+genomförande av räddningsinsatsen i form av bild och film från
 ovan.
+
 8.2.6 Drunkning
+
 Samtliga heltids- och RiB-styrkor kan utföra en första insats vid drunkningsolyckor. För mer
 komplicerade räddningsinsatser med behov av vattendykare, större båt etc. krävs
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 10)
+
 Tabell 10. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid drunkning.
-Område               Förmåga som omfattas av
+Område              Förmåga som omfattas av
 
 \- att rädda enstaka personer i ytläge eller på grunt vatten,
 Vattenlivräddning
@@ -14981,14 +15061,14 @@ Vattenlivräddning
 \- att med hjälp av båt med olika storlek bedriva räddningsinsats på
 och invid hav, sjöar och vattendrag. Båtarnas användningsområde
 kan sammanfattas till följande:
-\-  Livräddning vid hot om hopp från bro.
-\-  Resursuppbyggnad (personal och material) till södra
+\- Livräddning vid hot om hopp från bro.
+\- Resursuppbyggnad (personal och material) till södra
 Räddningsbåt
 skärgården vid större händelse.
-\-  Brandbekämpning vid bränder i fastigheter nära vatten och
+\- Brandbekämpning vid bränder i fastigheter nära vatten och
 vid brand i fartyg.
-\-  Dykplattform vid insats med vattendykare.
-\-  Andra räddningsuppdrag på och vid insjöar och vattendrag.
+\- Dykplattform vid insats med vattendykare.
+\- Andra räddningsuppdrag på och vid insjöar och vattendrag.
 \- att utföra räddningsdykning ner till 40 meters djup för att utföra
 sök och livräddningssinsats.
 \- RSG är en del i den internationella organisationen DiveSMART för
@@ -14996,6 +15076,7 @@ Räddningsdykare (vatten)
 att både kunna ta hjälp av andra organisationers vattendykare och
 hjälpa andra organisationer vid större komplexa olyckor med behov
 av vattendykare.
+
 47 (56)
 
 <!-- sida 326 -->
@@ -23875,7 +23956,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 544 -->
 
-[] Klngsbackabolna RA
 2021-03- 31
 Motion till Kf-möte 2021-03-29 DN sssssssssssssessnrsrnrnnsrnnnen nanna
 
@@ -24214,7 +24294,7 @@ Vi ser idag en fortsatt tillbakagång av demokratin i världen och det är en si
 beklaglig och på sikt illavarslande. Ett exempel är den ledande demokratin i världen, USA, som
 stadigt har fallit i mätningar under flera år.
 
-Attacken på USAs kongress den 6 januari 2021 och den allvarliga situationen som uppstod har
+Attacken på USAS kongress den 6 januari 2021 och den allvarliga situationen som uppstod har
 blivit en påminnelse om demokratins skörhet men också det faktiska behovet av att gemensamt
 värna om dess principer och ideal samt vårda dess strukturer. Vi behöver gemensamt agera och
 uppmärksamma demokratin för att reflektera men också inspirera varandra kring demokratins

@@ -12,13 +12,13 @@ kalla_url: https://web.archive.org/web/20220404172448id_/https://kungsbacka.se/d
 sha256: 9c0f4355cd2998ff7e848c22ce998891046f8d67ac732bd033e736089e5b9b2a
 bytes: 25145448
 sidor: 133
-hamtad: 2026-10-13T01:32:04+00:00
-konverterad: 2026-10-13T01:35:10+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:34:28+00:00
+konverterad: 2026-11-16T00:35:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ej-konverterad, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 31, 34, 35, 36, 51, 57, 58, 59, 60, 61, 63, 64, 66, 69, 72, 74, 75, 78, 86, 87, 91, 123, 124, 125]
+tal_obekraftade: [4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 31, 34, 35, 36, 51, 57, 58, 59, 60, 61, 63, 64, 66, 69, 72, 74, 75, 78, 79, 86, 87, 91, 123, 124, 125]
 figurer: [28, 30, 32, 33, 62, 65]
 tolkade: []
 granskad: null
@@ -296,7 +296,7 @@ Roadmappen är uppdelad i tre områden:
 . Kommungemensam eller förvaltningsöverskridande digitalisering = aktiviteter som initieras/drivs
 kommuncentral, av eller med en annan förvaltning.
 
-e - GAs Initiativ = aktiviteter initiativ som startas av GA för att möjliggöra ett effektivare arbetssätt.
+e - GASs Initiativ = aktiviteter initiativ som startas av GA för att möjliggöra ett effektivare arbetssätt.
 
 e Digitalisering för självständighet = initiativ/aktiviteter som startas/drivs av verksamheterna närmast
 målgruppen för att öka deras självständighet med hjälp av digitalisering.
@@ -305,17 +305,13 @@ Kungsbacka kommun Digital transformationsplan 2021-2023 Sida 3 av 7
 
 <!-- sida 8 -->
 
-Kommungemensam/förvaltningsövergripande
-
-digitalisering
-
 En plan kopplat till förvaltningens roadmap finns på kommande sidor. Initiativ från 2020 finns med om
 initiativet eller aktiviteter kopplat till initiativet kan förväntas sträcka sig in i 2021.
 
 Digitalisering som påverkar GA
 
 2021 -
-| 2021-2022 2022 2023
+2021-2022 2022 2023
 VR Nytt Implementering av
 filmbroduktion elevadministrationssyst Ezarkiv Utreda E-tjänster
 Digital introduktion för Chatbot E-portfolio
@@ -328,35 +324,41 @@ Förstärkning av autentisering Digitala S reg
 till olika system planeringsveckor Införa appen "Ny i
 Kungsbacka”
 Verktyg för )
-internkommunikation SEEN
+internkommunikation Be
 Automatiserad SMS-tjänst
-ee å Bokningsverktyg försörjningstödspr
+Se å Bokningsverktyg försörjningstödspr
 Digital mognad i s
 verksamhetssystem Ulner - a er
 Införa - för Införa app "Skills"
 APL-admini ion
 å Digitalisera
-E-vägledning vägledningsverktyg [Ena
+E-vägledning vägledningsverktyg | vg
 [ Digital arbetsmarknadsplan |
 GAs initiativ Digitalisering för självständighet
 Pågår: MI
 Idé/utreda:
 Planering:
-mean L - - 2 Vem som är mo
+mean L a - 2 Vem som är mo
 Initiativ Status Vad vi ska göra Hur vi ska göra huvudansvarig När
 Digitalisering för oo oo A Införa digitalt verktyg för Enheten för
 självständighet Pågående E-vägledning vägledning Er 2021-2022
-Kommungemensam/ Idé/utredning — | E-portfolio Utreda möjligheter i V-klass samt Enheten för 2020-2022
+Kommungemensam/ Idé/utredning E-portfolio Utreda möjligheter i V-klass samt Enheten för 2020-2022
 förvaltningsövergripande andra system Vägledning
 Kommungemensam/ 2 a | | Bevaka vilka system som kan Gymnasium och
 förvaltningsövergripande Pågående Implementering av E-arkiv sammankopplas med e-arkiv FO 2020-2022
 Kommungemensam/ 2 a Nytt Införande av nytt Förskola &
-mn Aa . Pågående oa . os . 2021
+
+\- so . Pågående om . om . 2021
 förvaltningsövergripande elevadministrationssystem | elevadministrationssystem Grundskola + GA
 Kommungemensam/ 2 a Digitaliserad introduktion PEEESE ES Gymnasium och
 förvaltningsövergripande Pågående RR RR ika introduktion, likt den arbetsmarknad 2020-2021
+
 kommungemensamma.
 Kungsbacka kommun Digital transformationsplan 2021-2023 Sida 4 av 7
+
+Kommungemensam/förvaltningsövergripande
+
+digitalisering
 
 <!-- sida 9 -->
 
@@ -372,7 +374,6 @@ förvaltningsövergripande digitalisera och automatisera arbetsmarknad
 Kommungemensam/ Pågående Digital mognad i Höja den digitala mognaden inom | Gymnasium och 20201
 förvaltningsövergripande e verksamhetssystem verksamhetssystem arbetsmarknad
 Utreda frågan om det går att
-oc ; h
 Kommungemensam/ Idé/utredning Chatbot införa en chatbot som kan svara Gymnasium oc OFLI002
 förvaltningsövergripande på enkla/vanliga frågor via arbetsmarknad
 kungsbacka.se.
@@ -1782,8 +1783,6 @@ integriteten Vv
 
 <!-- sida 59 -->
 
-U
-
 Kungsbacka
 
 « Insatser för stärkt systemförvaltning genom årlig uppföljning av rutiner
@@ -2316,15 +2315,14 @@ Folkhälsomyndigheten, 2019.
 
 <!-- sida 79 -->
 
-32-50-2102
+R utiner och stöd vid misstanke om suicidrisk
 
-,0.2v
-,0001BUK
-Rutiner och stöd vid misstanke om suicidrisk
 Rutinen visar hur elevhälsan och skolans personal ska agera då de möter elever där
 det framkommer misstanke om att suicidrisk föreligger. Det kan gälla elever som
+
 uttrycker suicidtankar, -planer eller -försök.
 Rutinen bör gås igenom med all personal på skolan.
+
 1 (7)
 Rutinen innehåller:
 Datum
@@ -2332,16 +2330,24 @@ Datum
 •  Checklista för en akutsituation, sid 2
 •  Telefonlista, sid 7, sista sidan
 •  Symtom och varningssignaler, sid 3
+
 •  Suicidstege som vägledning, sid 4
+
 •  Tips och råd inför bemötande och uppföljning i skolan, sid 5–6
+
 För ytterligare kompetensutveckling kan du läsa ”Suicidriskbedömning”,
 ”Prioritering BUP Halland” och ”Hur kan du hjälpa en person som har
+
 självmordstankar” https://www.1177.se/Halland/Tema/Psykisk-halsa/Att-vara-
 narstaende/Stod-och-rad1/Att-stodja-nagon-som-har-sjalvmordstankar/ .
+
 Det är inte elevhälsans eller annan skolpersonals uppgift att bedöma huruvida
 suicidrisk föreligger men ibland kan en bedömning av eventuellt behov av
 vidareremittering till specialistsjukvård behöva göras.
+
 Som ett stöd till detta finns en suicidstege bifogad.
+
+KUB1000, v2.0, 2012-05-23
 
 <!-- sida 80 -->
 
@@ -3761,28 +3767,44 @@ Strategiskt område: Förnyelseförmåga och konkurrenskraft
 Strategins mål
 Hållbar tillväxt byggd på konkurrenskraft, grön omställning
 samt ett attraktivt och inkluderande samhälle
+
 Strategiskt område
 Förnyelseförmåga och konkurrenskraft
 Mål strategiskt område
 En region med internationell konkurrenskraft och hållbar tillväxt
 
-Prioriteringar               Delmål
+Prioriteringar              Delmål
 Stimulera entreprenörskap och stödja företag i Fler nya företag och ökad överlevnadsgrad
 uppstartsfasen
-Främja den tekniska utvecklingen och digitala Fler kunskapsintensiva företag och jobb i
-omställningen i det halländska näringslivet regionen
-Främja internationalisering bland företagen Fler exportföretag och ökade exportintäkter till
+
+Främja den tekniska utvecklingen och digitala
+omställningen i det halländska näringslivet
+Främja internationalisering bland företagen
+
+Stimulera och attrahera offentliga och privata in-
+vesteringar i forskning och utveckling
+
+Stärka företagens innovationskapacitet
+
+Positionera Halland för att attrahera besökare,
+kompetenser, företag och investeringar
+Stimulera till hållbar omställning av det
+halländska näringslivet
+
+Fler kunskapsintensiva företag och jobb i
+regionen
+Fler exportföretag och ökade exportintäkter till
 regionen
 
-Stimulera och attrahera offentliga och privata in- Ökade investeringar i FoU bland regionens
-vesteringar i forskning och utveckling aktörer
+Ökade investeringar i FoU bland regionens
+aktörer
 
-Stärka företagens innovationskapacitet Fler innovativa företag i regionen
+Fler innovativa företag i regionen
 
-Positionera Halland för att attrahera besökare, Regionen ska attrahera fler etableringar, besö-
-kompetenser, företag och investeringar kare och kompetenser
-Stimulera till hållbar omställning av det Fler företag ska bedriva ett aktivt mångfalds-,
-halländska näringslivet      klimat- och miljöarbete
+Regionen ska attrahera fler etableringar, besö-
+kare och kompetenser
+Fler företag ska bedriva ett aktivt mångfalds-,
+klimat- och miljöarbete
 
 För att uppnå långsiktig regional utveckling och tillväxt behövs goda förutsättningar
 för entreprenörskap och innovation, som i sin tur genererar arbetstillfällen för män-

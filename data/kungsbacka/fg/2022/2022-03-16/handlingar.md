@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319213240id_/https://www.kungsbacka.
 sha256: 038eed4ab34d16c1c90b53545df43ece6ad4fa975c4e0a2b19a7e25f50bfc7b5
 bytes: 3744427
 sidor: 78
-hamtad: 2026-10-26T10:57:53+00:00
-konverterad: 2026-10-26T10:58:06+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T23:30:59+00:00
+konverterad: 2026-11-15T23:31:09+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
@@ -105,41 +105,60 @@ KUNGSBACKA  KOMMUN
 
 Ärende                Beteckning Förslag
 
-10\. Ansökan om rätt till bidrag för 2021-01351 Nämnden för Förskola & Grundskola beslutar att
-pedagogisk omsorg i enskild      bevilja sökande enskild firma rätt till bidrag för
-regi - Bryggans krabater         högst 24 barn i pedagogisk omsorg i form av
-familjedaghem. Beslutet ersätter beslut om rätt till
-Kl 17.55                         bidrag NFG § 9 2017-02-23.
-Beviljandet av bidrag gäller under förutsättning att
-Frida Byrsten, verksamhetschef   huvudmannen inkommer med kompletterande
-uppgifter och att dessa bedöms uppfylla kraven
-gällande personal, lokaler och barngruppens
-sammansättning. Samt att lokaler bedöms
-ändamålsenliga vid förvaltningens granskning på
-plats i samband med verksamhetsstart i ny lokal.
-Rätten till bidrag villkoras med att verksamhetens
-planerade utökning har påbörjats inom 18 månader.
+10\. Ansökan om rätt till bidrag för
+pedagogisk omsorg i enskild
+regi - Bryggans krabater
 
-11\. Lärarförbundets yrkande på 2022-00331 Nämnden för Förskola och Grundskola lämnar till
+Kl 17.55
 
-kompensation för medarbetare     kommunstyrelsen att besluta i frågan.
+Frida Byrsten, verksamhetschef
+
+11\. Lärarförbundets yrkande på
+kompensation för medarbetare
 på FG med anledning av covid
 
 Kl 18.05
 
 Ordförande (M)
 
-12\. Organisation förskolor Furulid 2022-00264 Från 1 augusti 2022 bildar Halla förskola och
-Furulids förskola en gemensam förskoleenhet med
-Kl 18.15                         namnet Furulids förskola.
+12\. Organisation förskolor Furulid
+
+Kl 18.15
 
 Skolchef
 
-13\. Kunskapen om mens och 2022-00258 Nämnden för Förskola och Grundskola har tagit del
-tillgången till mensskydd vara   av informationen och antecknar informationen i
-god på våra skolor               protokollet.
+13\. Kunskapen om mens och
+tillgången till mensskydd vara
+god på våra skolor
 
 Kl 18.25
+
+2021-01351 Nämnden för Förskola & Grundskola beslutar att
+bevilja sökande enskild firma rätt till bidrag för
+högst 24 barn i pedagogisk omsorg i form av
+familjedaghem. Beslutet ersätter beslut om rätt till
+bidrag NFG § 9 2017-02-23.
+Beviljandet av bidrag gäller under förutsättning att
+huvudmannen inkommer med kompletterande
+uppgifter och att dessa bedöms uppfylla kraven
+gällande personal, lokaler och barngruppens
+
+sammansättning. Samt att lokaler bedöms
+ändamålsenliga vid förvaltningens granskning på
+plats i samband med verksamhetsstart i ny lokal.
+Rätten till bidrag villkoras med att verksamhetens
+planerade utökning har påbörjats inom 18 månader.
+
+2022-00331 Nämnden för Förskola och Grundskola lämnar till
+kommunstyrelsen att besluta i frågan.
+
+2022-00264 Från 1 augusti 2022 bildar Halla förskola och
+Furulids förskola en gemensam förskoleenhet med
+namnet Furulids förskola.
+
+2022-00258 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
 
 Skolchef
 

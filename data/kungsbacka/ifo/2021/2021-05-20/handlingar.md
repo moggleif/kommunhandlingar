@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320130524id_/https://www.kungsbacka.
 sha256: aa34e83db52b53fab387fe3ab512a94ddc86f6d8dac1b92c235c10385031a7da
 bytes: 17689168
 sidor: 217
-hamtad: 2026-10-29T11:02:30+00:00
-konverterad: 2026-10-29T11:05:53+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:50:11+00:00
+konverterad: 2026-11-16T00:53:51+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tom, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -445,7 +445,7 @@ plank eller helst förråd).
 
 3.1 Material- och produktval
 
-Material- och produktval ska väljas så att en sund inomhusmiljö tillskapas och god
+Material- och produktval ska väljas så att en sund in omh usmiljö tillskapas och god
 städbarhet uppnås vilketinnebär att ytskikt ska vara lätta att hålla rent och inte
 samla damm eller smuts. Förslagsvis väljs naturmaterial, miljöan passade färger
 och lågemitteran de produkter. Lågemitterade produkter är en prioritet för
@@ -528,7 +528,7 @@ med dörröppnare om de har dörrstängare eller är tunga, alternativet är att
 förses med freeswing funktion. Yta som tas i anspråk av dörrar med dörröppnare
 ska om möjligt markeras.
 
-Trycken ska vara greppvänliga för han dsvaga och lätta attan vända för synskadade.
+Trycken ska vara greppvänliga för han dsvaga och lätta att an vända för synskadade.
 
 Mått på dörrar till lägenheter och i lägenheter ska följa Svensk Standard senaste
 utgåva.
@@ -715,7 +715,7 @@ Användaren ska kunna stänga av och sätta på sektioner, adresser och styrning
 stänga av sektionerna på tid (automatisk påslag av sektionen efter exempelvis 8 h).
 
 Indikeringstablån eller centralapparat, som så långt som möjligt ska vara inbyggd,
-ska finnas direktinnanför entrédörr eller särskilt utsedd angreppsväg (vid placering
+ska finnas direkt innanför entrédörr eller särskilt utsedd angreppsväg (vid placering
 vid personalentré behöver den inte vara inbyggd). Tablån ska visa vilken adress och
 sektion som larmat, även i klartext, exempelvis rum 24. Tablån ska även indikera om
 flera detektorer larmat. Man ska inte behöva sätta i nyckel för att se vilken sektion
@@ -1827,7 +1827,7 @@ Sid 18 (
 ft RFP
 Datum
 Kungsbacka 2021-02-02
-. Antal rum Antal pers Pos Utrymme
+. Antalrum Antal pers Pos Utrymme
 12-18 1.4 Lägenhet: sovrum/sovalkov
 
 Verksamhet Bostad
@@ -2141,13 +2141,14 @@ som innefattar både grupp- och servicebostäder är följande;
 
 samspelet sinsemellan en gruppbostad och servicebostad
 flexibiliteten över tid
+
 försörjning av bostäder över tid
 
 effektiva byggprocesser, byggkostnader och standardisering
 
-MmMoRB RH NM or
-
 god driftsekonomi
+
+MmMoRB RH NM or
 
 <!-- sida 51 -->
 
@@ -2585,153 +2586,212 @@ INNEHÅLLSFÖRTECKNING .........................................................
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-entreprenörer. Här är det lika naturligt att starta företag som att
 1\. Inledning
+
+Konkurrensutsättningsplanen utgör en inventering av nämndens
+verksamheter. Vilka verksamheter som finns inom nämndens
+ansvar, vilka verksamheter som i nuläget är konkurrensutsatta,
+vilka verksamheter som inte kan eller bör bli föremål för
+konkurrensutsättning samt vilka verksamheter som skulle kunna
+vara möjliga att konkurrensutsätta.
+
+Förslag till Årsplan för konkurrensutsättning av verksamhet ska tas
+fram årligen av förvaltningen för Individ & familjeomsorg. Årsplanen
+ska innehålla förslag på vilken eller vilka av nämndens
+verksamheter som eventuellt ska konkurrensutsättas
+nästkommande år.
+
+Konkurrensutsättningsplanen ska tillsammans med Årsplan för
+konkurrensutsättning av verksamhet, möjliggöra långsiktig
+planering gällande konkurrensutsättning av nämndens verksamhet.
+
+2\. Bakgrund  och syfte
+
+Kungsbacka kommuns Vision 2030 är en ledstjärna för
+kommunens långsiktiga utveckling. I visionen anges att i den
+valfrihet, mångfald och livskvalitet som präglar vardagen här,
+ständigt lockar nya invånare. Växtkraften ger oss mer resurser till
+den gemensamma välfärden, så att alla kan utvecklas och leva det
+goda livet, hela livet.
+
+I visionen poängteras också att kommunen ska sträva mot
+Västsveriges bästa företagsklimat där Kungsbacka kommun är
+känd för sitt goda värdskap och är det självklara valet för företag
+som vill etablera sig i Västsverige. Vi har det bästa klimatet för
+
+entreprenörer. Här är det lika naturligt att starta företag som att
 vara anställd. Även i Kungsbackas kommunbudget för 2021 står
 det att Kungsbacka ska arbeta för att bli Västsveriges bästa
-Konkurrensutsättningsplanen utgör en inventering av nämndens företagsklimat.
-verksamheter. Vilka verksamheter som finns inom nämndens
+företagsklimat.
+
 I Kungsbacka kommuns policy för konkurrensprövning anges att
-ansvar, vilka verksamheter som i nuläget är konkurrensutsatta,
 kommunens verksamheter ska vara öppna för alternativa utförare
-vilka verksamheter som inte kan eller bör bli föremål för
 och driftsformer och att konkurrensutsättning syftar till ökad
-konkurrensutsättning samt vilka verksamheter som skulle kunna
 valfrihet, kvalitetsutveckling och kostnadseffektivitet.
-vara möjliga att konkurrensutsätta.
 I tillämpningsanvisningarna för policyn beskrivs att nämnderna ska
-Förslag till Årsplan för konkurrensutsättning av verksamhet ska tas gå igenom sina verksamheter och bedöma lämpligheten för olika
-fram årligen av förvaltningen för Individ & familjeomsorg. Årsplanen driftsformer. Genomgången bör resultera i en plan över vilka
-ska innehålla förslag på vilken eller vilka av nämndens verksamheter som kan konkurrensutsättas.
-verksamheter som eventuellt ska konkurrensutsättas
+gå igenom sina verksamheter och bedöma lämpligheten för olika
+
+driftsformer. Genomgången bör resultera i en plan över vilka
+verksamheter som kan konkurrensutsättas.
 Nämnderna ska kontinuerligt pröva och ta ställning till i vilken form
-nästkommande år.
 deras verksamhet ska bedrivas. Nämnderna bör dels planera för
 olika alternativa driftsformer, dels ta ställning till de initiativ till
-Konkurrensutsättningsplanen ska tillsammans med Årsplan för
 alternativa driftsformer som uppkommer i verksamheten.
-konkurrensutsättning av verksamhet, möjliggöra långsiktig
-planering gällande konkurrensutsättning av nämndens verksamhet. Policyn anger även att all verksamhet som drivs av kommunen får
+
+Policyn anger även att all verksamhet som drivs av kommunen får
 utmanas, med undantag från myndighetsutövning, strategiska
-2\. Bakgrund  och syfte                                ledningsfunktioner och kommunala bolag. Verksamheter som
+ledningsfunktioner och kommunala bolag. Verksamheter som
 enligt lag eller förordning måste utföras av kommunen kan inte
-Kungsbacka kommuns Vision 2030 är en ledstjärna för   heller utmanas. Centralt i prövningen är att kommunens
-kommunens långsiktiga utveckling. I visionen anges att i den medborgare ska få högsta kvalitet till lägsta kostnad, få ökad
-valfrihet, mångfald och livskvalitet som präglar vardagen här, valfrihet och lättillgänglig information om kvalitetsjämförelser. Totalt
-ständigt lockar nya invånare. Växtkraften ger oss mer resurser till sett ska konkurrensutsättning innebära en fördel för
-den gemensamma välfärden, så att alla kan utvecklas och leva det kommuninvånarna.
-goda livet, hela livet.
+heller utmanas. Centralt i prövningen är att kommunens
+medborgare ska få högsta kvalitet till lägsta kostnad, få ökad
+valfrihet och lättillgänglig information om kvalitetsjämförelser. Totalt
+sett ska konkurrensutsättning innebära en fördel för
+kommuninvånarna.
+
 Beslut om konkurrensutsättning ska, innan beslut fattas i nämnd,
-I visionen poängteras också att kommunen ska sträva mot anmälas till kommunstyrelsen som informationsärende av
-Västsveriges bästa företagsklimat där Kungsbacka kommun är nämnden för Individ & Familjeomsorg. Vid tveksamhet om
-känd för sitt goda värdskap och är det självklara valet för företag konsekvenserna för kommunen totalt, överlämnar nämnden frågan
-som vill etablera sig i Västsverige. Vi har det bästa klimatet för till kommunstyrelsen för prövning.
+anmälas till kommunstyrelsen som informationsärende av
+nämnden för Individ & Familjeomsorg. Vid tveksamhet om
+konsekvenserna för kommunen totalt, överlämnar nämnden frågan
+till kommunstyrelsen för prövning.
 
 <!-- sida 64 -->
 
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-Följande styrdokument i Kungsbacka kommun reglerar    vara affärsmässig och säkerställa likabehandling, transparens och
-konkurrensutsättning inom nämnden för Individ & Familjeomsorgs öppenhet.
+Följande styrdokument i Kungsbacka kommun reglerar
+konkurrensutsättning inom nämnden för Individ & Familjeomsorgs
 verksamhet:
-Lag (2008:962) om valfrihetssystem (LOV) reglerar vad som ska
   Policy för konkurrensprövning, inklusive
-gälla för de kommuner och landsting som vill konkurrenspröva
 Tillämpningsanvisningar Policy för konkurrensprövning
-kommunala och landstingskommunala verksamheter genom att
   Upphandlingspolicy, inklusive Tillämpningsanvisningar för
-överlåta valet av utförare av stöd, vård- och omsorgstjänster till
 Upphandlingspolicy
-den enskilde i ett valfrihetssystem.
   Program för uppföljning och insyn av verksamhet som utförs
-Valfrihetssystem ska utformas i enlighet med EU-rättens
 av kommunala och privata utförare 2016–2018
+
+3\. Varför konkurrens?
+
+Konkurrensutsättning är när en kommun prövar om ett privat
+företag, en förening eller ett kooperativ helt eller delvis kan driva
+
+kommunalt finansierad verksamhet. Detta istället för att kommunen
+driver verksamheten i egen regi.
+Syftet med att utsätta nämndens verksamhet för
+konkurrensutsättning är att främja ett kostnadseffektivt
+användande av skattemedel, tillföra nytänkande, utveckla
+verksamhetens kvalitet samt att stimulera entreprenörskap.
+
+Syftet med nämndens konkurrensutsättning är även att skapa
+valmöjligheter för den enskilda med behov av tjänster inom
+nämndens verksamhetsområde, genom att öka antalet utförare
+samt att öka möjligheterna för medarbetare inom verksamheten att
+kunna arbeta hos fler arbetsgivare.
+
+4\. Former  för konkurrensutsättning
+
+Den offentliga upphandlingen av varor och tjänster regleras av Lag
+(2016:1145) om offentlig upphandling (LOU). Lagens
+grundprinciper är att all offentlig upphandling ska ske i konkurrens,
+
+vara affärsmässig och säkerställa likabehandling, transparens och
+öppenhet.
+
+Lag (2008:962) om valfrihetssystem (LOV) reglerar vad som ska
+gälla för de kommuner och landsting som vill konkurrenspröva
+kommunala och landstingskommunala verksamheter genom att
+överlåta valet av utförare av stöd, vård- och omsorgstjänster till
+den enskilde i ett valfrihetssystem.
+Valfrihetssystem ska utformas i enlighet med EU-rättens
 grundläggande principer om likabehandling och icke-diskriminering
 samt principerna om öppenhet, ömsesidigt erkännande och
-3\. Varför konkurrens?                                 proportionalitet.
+
+proportionalitet.
 I ett valfrihetssystem är priset fastställt på förhand och alla utförare
-Konkurrensutsättning är när en kommun prövar om ett privat
 inom en kommun eller ett landsting får samma ersättning för
-företag, en förening eller ett kooperativ helt eller delvis kan driva
 samma tjänst. På detta sätt konkurrerar utförarna med den kvalitet
-kommunalt finansierad verksamhet. Detta istället för att kommunen
 som de kan leverera och den enskilde väljer det alternativ som hen
-driver verksamheten i egen regi.
 uppfattar tillhandahåller den bästa kvaliteten.
-Syftet med att utsätta nämndens verksamhet för
+
 Beroende på upphandlingsform uppstår konkurrens på olika sätt
-konkurrensutsättning är att främja ett kostnadseffektivt
 och vid olika tidpunkter. Vid upphandling enligt LOU uppstår
-användande av skattemedel, tillföra nytänkande, utveckla
 konkurrensen under upphandlingen vid tillfället för
-verksamhetens kvalitet samt att stimulera entreprenörskap.
 anbudsutvärdering. Vid anskaffning av tjänster genom LOV
-Syftet med nämndens konkurrensutsättning är även att skapa uppstår konkurrensen först efter att avtalet ingåtts och
-valmöjligheter för den enskilda med behov av tjänster inom verksamheten startat, eftersom det är då utförarna konkurrerar om
-nämndens verksamhetsområde, genom att öka antalet utförare kunderna genom att försöka erbjuda bästa alternativet.
-samt att öka möjligheterna för medarbetare inom verksamheten att
+uppstår konkurrensen först efter att avtalet ingåtts och
+verksamheten startat, eftersom det är då utförarna konkurrerar om
+kunderna genom att försöka erbjuda bästa alternativet.
+
 Nämnden beslutar om de krav som ska ställas på nämndens
-kunna arbeta hos fler arbetsgivare.
 externa utförare. För externa utförare inom valfrihetssystemet
 regleras de krav som ställs på utföraren i ett förfrågningsunderlag.
-4\. Former för konkurrensutsättning
 För upphandlingar enligt LOU, regleras de krav som ställs på
 utföraren i ett upphandlingsdokument. Kraven i
-Den offentliga upphandlingen av varor och tjänster regleras av Lag
 förfrågningsunderlag och upphandlingsdokument utgör en del av
-(2016:1145) om offentlig upphandling (LOU). Lagens
 avtalet med utförarna.
-grundprinciper är att all offentlig upphandling ska ske i konkurrens,
 
 <!-- sida 65 -->
 
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-Förfrågningsunderlag och upphandlingsdokument är strategiska genom att utveckla förfrågningsunderlag och
-och viktiga dokument som utgör grunden för nämndens   upphandlingsdokument i dialog, men också för att öka marknadens
-konkurrensutsättning. Innan underlagen annonseras har nämnden intresse att inkomma med konkurrensmässigt starka anbud.
+Förfrågningsunderlag och upphandlingsdokument är strategiska
+och viktiga dokument som utgör grunden för nämndens
+konkurrensutsättning. Innan underlagen annonseras har nämnden
 fattat beslutat om förfrågningsunderlag och upphandlingsdokument
-Förvaltningen ska i sitt arbete med att föra dialog med marknaden
 och det är sedan utifrån dessa underlag och dokument som
-även samarbeta med kommunens Näringslivsenhet, förvaltningen
 intresserade externa utförare kan ansöka om att bedriva hemtjänst
-för Service samt övriga, förvaltningen för Vård & Omsorg samt
 alternativt lämna anbud.
-nämnders förvaltningar som blir berörda i och med att nämnden för
-Individ & Familjeomsorg konkurrensutsätter delar av sin
-verksamhet.
+
 4.1 Egenregianbud
 I enlighet med kommunens Policy för konkurrensprövning ska
 nämnden fatta beslut om den kommunala regin ska tillåtas att
-6\. Nämndens   huvudmanskap,    insyn i och
 lämna anbud i nämndens konkurrensutsättningar.
-uppföljning av konkurrensutsatt   verksamhet
+
 Ett anbud från kommunal regi, ett så kallat egenregianbud, innebär
 att förvaltningens egen verksamhet konkurrerar med externa
-anbudsgivare om uppdraget att driva den konkurrensutsatta I Kommunallag (2017:725) anges att kommuner kan besluta att
-verksamheten.                                         överlämna skötseln av kommunala angelägenheter till privata
-utförare. Med en privat utförare avses en juridisk person eller
+anbudsgivare om uppdraget att driva den konkurrensutsatta
+verksamheten.
 I förvaltningens förslag till beslut om Årsplan för
-enskild individ som mottagit uppdraget om skötseln av en
+
 konkurrensutsättning av verksamhet, ska förslag till beslut om
-kommunal angelägenhet.
 egenregianbud vara en av beslutspunkterna.
-Det anges vidare att om kommunen beslutar sig för att överlämna
 Nämnden fattar således beslut om den egna verksamheten ska få
-driften av en offentlig uppgift till en privat utförare, kvarstår ändå
 lämna anbud eller ej vid respektive konkurrensutsättning.
+
+5\. Nämndens   dialog med  marknaden
+
+Förvaltningen behöver föra en löpande dialog med marknaden.
+Både för att kvalitetssäkra arbetet med kommande upphandlingar,
+
+genom att utveckla förfrågningsunderlag och
+upphandlingsdokument i dialog, men också för att öka marknadens
+intresse att inkomma med konkurrensmässigt starka anbud.
+
+Förvaltningen ska i sitt arbete med att föra dialog med marknaden
+även samarbeta med kommunens Näringslivsenhet, förvaltningen
+för Service samt övriga, förvaltningen för Vård & Omsorg samt
+nämnders förvaltningar som blir berörda i och med att nämnden för
+Individ & Familjeomsorg konkurrensutsätter delar av sin
+verksamhet.
+
+6\. Nämndens   huvudmanskap,    insyn i och
+uppföljning av konkurrensutsatt   verksamhet
+
+I Kommunallag (2017:725) anges att kommuner kan besluta att
+överlämna skötseln av kommunala angelägenheter till privata
+utförare. Med en privat utförare avses en juridisk person eller
+enskild individ som mottagit uppdraget om skötseln av en
+kommunal angelägenhet.
+
+Det anges vidare att om kommunen beslutar sig för att överlämna
+driften av en offentlig uppgift till en privat utförare, kvarstår ändå
 kommunen som huvudman för verksamheten. Detta innebär att
 nämnden för Individ & Familjeomsorg är huvudman för den
 verksamhet som lämnats över till externa utförare och ansvarar då
 ytterst för den verksamhet som utförarna bedriver.
-5\. Nämndens   dialog med  marknaden
+
 I Kommunallagen anges även att nämnderna ansvarar för att se till
 att all verksamhet som ingår i nämndens ansvarsområde bedrivs
-Förvaltningen behöver föra en löpande dialog med marknaden.
 enligt mål, riktlinjer och föreskrifter, att den interna kontrollen är
-Både för att kvalitetssäkra arbetet med kommande upphandlingar,
 tillräcklig och att verksamheten bedrivs på ett i övrigt
 
 <!-- sida 66 -->
@@ -2784,43 +2844,60 @@ verksamheten.
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-8\. Verksamheter   som är konkurrensutsatta            Myndighetsutövning är en del av det kommunala uppdraget som
-inte är möjlig att konkurrensutsätta. Konkurrensutsättning kan inte
-heller ske av sådan verksamhet som enligt lag ska drivas av
-8.1 Ledsagning och avlösning i hemmet                 kommunen.
+8\. Verksamheter   som  är konkurrensutsatta
 
-Krisstöd är i dag placerat inom kommunal regi och bör inte
-konkurrensutsätts. Då stödet inte är en biståndsbedömd insats är
+8.1 Ledsagning och avlösning i hemmet
+
 Kommunfullmäktige i Kungsbacka kommun beslutade vid sitt
-det svårt att beräkna volym och uppnå kostnadseffektivitet vid en
 sammanträde 17 februari 2009 att kommunen ska tillämpa LOV.
-konkurrensutsättning.
 Kungsbacka kommun har beslutat att tillämpa lag (2008:962) om
 valfrihetssystem, LOV, för ledsagarservice och avlösarservice i
+
 hemmet utifrån LSS.
-10\. Verksamheter   som  kan utredas  för
 Nämnden för Individ och Familjeomsorg och nämnden för Vård &
-konkurrensutsättning
 omsorg har fått kommunfullmäktiges uppdrag att genomföra och
 administrera certifieringen, godkänna utförare samt förvalta och
 följa upp avtal. Syftet är att öka utbudet av utförare inom
-ledsagning och avlösning och att därigenom öka valfriheten för den Samtliga verksamhetsområden inom individ och Familjeomsorg så
-enskilde brukaren.                                    när som Myndighetsutövning och Krisstöd kan utredas för
-konkurrensutsättning.
+ledsagning och avlösning och att därigenom öka valfriheten för den
+enskilde brukaren.
+
 8.1 Personlig assistans
-Den 17 september 2020 gav Nämnden för Individ & Familjeomsorg
 Om en brukare får Personlig assistans beviljad utgår en
-förvaltningen i uppdrag att se på möjligheterna att
 assistansersättning. När man får ersättning för personlig assistans
-konkurrensutsätta behandlingsenheten (Öppenvård barn och
 betyder det att brukaren själv betalar för insatsen och har därmed
-Unga), bostad med särskild service och daglig verksamhet, samt
 rätt att själv välja utförare.
-att inkomma med tidsplan om fler områden Dnr 2019-00247.
-10.1 Boende med särskild service
-9\. Verksamheter   som inte kan eller bör
-Boende med särskild service (BmSS) finns som gruppbostad och
+
+9\. Verksamheter   som  inte kan eller bör
+
 konkurrensutsättas
+
+Myndighetsutövning är en del av det kommunala uppdraget som
+inte är möjlig att konkurrensutsätta. Konkurrensutsättning kan inte
+heller ske av sådan verksamhet som enligt lag ska drivas av
+kommunen.
+
+Krisstöd är i dag placerat inom kommunal regi och bör inte
+konkurrensutsätts. Då stödet inte är en biståndsbedömd insats är
+det svårt att beräkna volym och uppnå kostnadseffektivitet vid en
+konkurrensutsättning.
+
+10\. Verksamheter   som  kan utredas  för
+
+konkurrensutsättning
+
+Samtliga verksamhetsområden inom individ och Familjeomsorg så
+när som Myndighetsutövning och Krisstöd kan utredas för
+konkurrensutsättning.
+
+Den 17 september 2020 gav Nämnden för Individ & Familjeomsorg
+förvaltningen i uppdrag att se på möjligheterna att
+konkurrensutsätta behandlingsenheten (Öppenvård barn och
+Unga), bostad med särskild service och daglig verksamhet, samt
+att inkomma med tidsplan om fler områden Dnr 2019-00247.
+
+10.1 Boende med särskild service
+Boende med särskild service (BmSS) finns som gruppbostad och
+
 servicebostad. I både gruppbostad och servicebostad erbjuds/ges
 den enskilde stöd dygnet runt utifrån individuella behov.
 
@@ -2829,46 +2906,63 @@ den enskilde stöd dygnet runt utifrån individuella behov.
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-Kungsbacka kommun har idag 27 gruppbostäder och 7     Daglig verksamhet är en form av sysselsättning som ska vara
-servicebostäder. En av gruppbostäderna är för barn.   meningsfull och erbjuda stimulans, utveckling och gemenskap
-utifrån den enskildes behov. Syftet med insatsen är att bidra till den
-personliga utvecklingen och främja delaktighet i samhället.
-Daglig verksamhet är en insats som främst riktar sig till individer
+Kungsbacka kommun har idag 27 gruppbostäder och 7
+servicebostäder. En av gruppbostäderna är för barn.
+
 10.1.1 Gruppbostäder
-med autism, intellektuell funktionsnedsättning eller förvärvad
-Gruppbostäder är boenden för personer med fysiska eller hjärnskada.
+Gruppbostäder är boenden för personer med fysiska eller
 socialpsykiatriska funktionsnedsättningar som har omfattande
-behov av tillsyn och omvårdnad, så att det är nödvändigt att 10.3 Öppenvård barn och unga
-personal finns till hands dygnets alla timmar. Gruppbostaden På öppenvårdsenheten Barn och Unga arbetar 15
-består av ett mindre antal lägenheter som är samlade kring lokaler familjebehandlare med stöd- och behandlingsinsatser för barn och
-för gemensamma aktiviteter samt personalutrymmen. En fast unga 0–20 år och deras familjer. Till enheten hör också ett
-personalgrupp täcker de boendes hela stödbehov inklusive fritids- Familjefridsteam med 3 behandlare som arbetar med våld i nära
-och kulturella intressen.                             relation riktat till vuxna.
-Familjebehandlarna är uppdelade i ett barn- och ungdomsteam
-som arbetar på uppdrag av socialsekreterare på mottagning-, barn
+behov av tillsyn och omvårdnad, så att det är nödvändigt att
+personal finns till hands dygnets alla timmar. Gruppbostaden
+består av ett mindre antal lägenheter som är samlade kring lokaler
+för gemensamma aktiviteter samt personalutrymmen. En fast
+personalgrupp täcker de boendes hela stödbehov inklusive fritids-
+och kulturella intressen.
+
 10.1.2 Servicebostäder
-och ungdom-, familjehem- och familjerättsenheten.
 Servicebostäder är boenden för personer med fysiska eller
-Familjefridsteamet arbetar främst utifrån biståndsuppdrag från
 socialpsykiatriska funktionsnedsättningar med mindre omfattande
-Vuxenheten. I flera uppdrag arbetar Familjefridsteamet i ett tätt
 stödbehov än vid en gruppbostad. Servicebostäder är att se som
-samarbete med familjebehandlarna och då med fokus på våldet i
 ett mellanting mellan gruppbostad och ordinärt boende. En
-familjen.
 servicebostad består av ett antal lägenheter som har tillgång till
-Enheten har ett systemiskt synsätt där de ser familjen som en
+
 gemensam service och en fast personalgrupp. Lägenheterna är i
-helhet. Barnperspektivet och barns behov samt föräldraansvar och
 regel anpassade efter den enskildes behov och ligger oftast i
-vuxenansvar är i centrum.
 samma eller kringliggande hus. Varje boende ska erbjudas dygnet
 runt stöd i den egna lägenheten i den omfattning som han eller hon
 behöver.
+
 10.2 Daglig verksamhet
 Individer med funktionsnedsättning, är i yrkesverksam ålder och
 inte kan stå till arbetsmarknadens förfogande kan ansöka om
 daglig verksamhet.
+
+Daglig verksamhet är en form av sysselsättning som ska vara
+meningsfull och erbjuda stimulans, utveckling och gemenskap
+utifrån den enskildes behov. Syftet med insatsen är att bidra till den
+personliga utvecklingen och främja delaktighet i samhället.
+Daglig verksamhet är en insats som främst riktar sig till individer
+med autism, intellektuell funktionsnedsättning eller förvärvad
+hjärnskada.
+
+10.3 Öppenvård barn och unga
+
+På öppenvårdsenheten Barn och Unga arbetar 15
+familjebehandlare med stöd- och behandlingsinsatser för barn och
+unga 0–20 år och deras familjer. Till enheten hör också ett
+Familjefridsteam med 3 behandlare som arbetar med våld i nära
+relation riktat till vuxna.
+Familjebehandlarna är uppdelade i ett barn- och ungdomsteam
+som arbetar på uppdrag av socialsekreterare på mottagning-, barn
+och ungdom-, familjehem- och familjerättsenheten.
+
+Familjefridsteamet arbetar främst utifrån biståndsuppdrag från
+Vuxenheten. I flera uppdrag arbetar Familjefridsteamet i ett tätt
+samarbete med familjebehandlarna och då med fokus på våldet i
+familjen.
+Enheten har ett systemiskt synsätt där de ser familjen som en
+helhet. Barnperspektivet och barns behov samt föräldraansvar och
+vuxenansvar är i centrum.
 
 <!-- sida 69 -->
 
@@ -2903,30 +2997,26 @@ INNEHÅLLSFÖRTECKNING .........................................................
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-Ett anbud från kommunal regi, ett så kallat egenregianbud, innebär
 1\. Bakgrund
-att förvaltningens egen verksamhet konkurrerar med externa
-anbudsgivare om uppdraget att driva den konkurrensutsatta
-I Nämnden för Individ & Familjeomsorgs konkurrensutsättningsplan verksamheten.
+
+I Nämnden för Individ & Familjeomsorgs konkurrensutsättningsplan
 anges att förvaltningen årligen ska ta fram förslag till årsplan för
 konkurrensutsättning av verksamhet för Individ & Familjeomsorg.
 Årsplan ska innehålla förslag på vilken eller vilka av nämndens
-4\. Förvaltningens förslag
 verksamheter som eventuellt ska konkurrensutsättas
 nästkommande år.
 Årsplan för konkurrensutsättning av verksamhet ska tillsammans
-Förvaltningens förslag är att avvakta konkurrensutsättning av
 med konkurrensutsättningsplanen möjliggöra en långsiktig
-Öppenvårdsenheten Barn och Unga, bostad med särskild service
 planering gällande konkurrensutsättning av nämndens verksamhet.
-och daglig verksamhet.
-Förvaltningens förslag är även att under 2021-2022 fokusera på att
-2\. Konkurrensutsättning  av kommunal    drift
-uppdatera förvaltningens förfrågningsunderlag på LOV av
-Nämnden för Individ & Familjeomsorg gav förvaltningen i uppdrag ledsagning och avlösarservice. Samt att arbeta med rutiner och
-att se på möjligheterna att konkurrensutsätta Öppenvårdsenheten information kring arbetet med valfrihet inom ledsagning och
-Barn och Unga, bostad med särskild service och daglig avlösarservice.
+
+2\. Konkurrensutsättning   av kommunal   drift
+
+Nämnden för Individ & Familjeomsorg gav förvaltningen i uppdrag
+att se på möjligheterna att konkurrensutsätta Öppenvårdsenheten
+
+Barn och Unga, bostad med särskild service och daglig
 verksamhet.
+
 Förvaltningen ser att samtliga enheter som nämnden gav i uppdrag
 att undersöka är möjliga att konkurrensutsätta.
 
@@ -2935,6 +3025,23 @@ att undersöka är möjliga att konkurrensutsätta.
 I enlighet med kommunens Policy för konkurrensprövning ska
 nämnden fatta beslut om den kommunala regin ska tillåtas att
 lämna anbud i nämndens konkurrensutsättningar.
+
+Ett anbud från kommunal regi, ett så kallat egenregianbud, innebär
+att förvaltningens egen verksamhet konkurrerar med externa
+anbudsgivare om uppdraget att driva den konkurrensutsatta
+verksamheten.
+
+4\. Förvaltningens förslag
+
+Förvaltningens förslag är att avvakta konkurrensutsättning av
+Öppenvårdsenheten Barn och Unga, bostad med särskild service
+och daglig verksamhet.
+Förvaltningens förslag är även att under 2021-2022 fokusera på att
+uppdatera förvaltningens förfrågningsunderlag på LOV av
+
+ledsagning och avlösarservice. Samt att arbeta med rutiner och
+information kring arbetet med valfrihet inom ledsagning och
+avlösarservice.
 
 2 (2)
 

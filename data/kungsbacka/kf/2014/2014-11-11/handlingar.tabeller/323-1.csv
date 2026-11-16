@@ -1,0 +1,39 @@
+KK,AK,PN,Beskrivning
+39.7001,1,U,"Anläggning för lagring av
+1. gasformiga eller flytande petrokemiska produkter, oljor,
+petroleumprodukter eller brännbara gaser, om det i anläggningen lagras
+högst 5 000 ton vid ett och samma tillfälle,
+2. andra kemiska produkter än som avses i 1, om
+a) någon produkt enligt föreskrifter om klassificering och märkning av
+kemiska produkter som Kemikalieinspektionen har meddelat, är
+klassificerad eller uppfyller kriterierna för att klassificeras med de
+riskfraser som ingår i faroklasserna ""mycket giftig"", ""giftig"",
+""frätande"", ”cancerframkallande”, ”mutagen”, ”reproduktionstoxisk”
+eller ”miljöfarlig”, och
+b) det är fråga om en verksamhet för energiproduktion eller kemisk
+industri och anläggningen har kapacitet för lagring av högst 1 ton vid
+ett och samma tillfälle, eller
+3. andra kemiska produkter än som avses i 1 och 2 om det i
+anläggningen lagras mindre än 50 000 ton vid ett och samma tillfälle."
+39.80,7,B,"Anläggning för lagring av mer än 50 miljoner normalkubikmeter
+naturgas per kalenderår, om verksamheten inte är tillståndspliktig enligt
+39.60."
+39.8001,1,U,"Anläggning för lagring av högst 50 miljoner normalkubikmeter
+naturgas per kalenderår."
+39.90,3,C,"Anläggning för lagring av mer än 5 000 ton kol, torv eller bränsleflis
+eller annat träbränsle per kalenderår."
+39.9001,1,U,"Anläggning för lagring av högst 5 000 ton kol, torv eller bränsleflis
+eller annat träbränsle per kalenderår."
+,,,"GASFORMIGA BRÄNSLEN, EL, VÄRME OCH KYLA"
+,,,Gasformiga bränslen
+40.10,11,B,"Anläggning för framställning av mer än 150 000 kubikmeter gasformigt
+bränsle per kalenderår, om verksamheten inte är tillståndspliktig enligt
+23.10 eller 23.30."
+40.20,7,C,"Anläggning för framställning av gasformigt bränsle, om verksamheten
+inte är tillståndspliktig enligt 23.10, 23.30 eller 40.10."
+,,,Kärnkraft
+40.30,,A,Kärnkraftverk eller annan kärnreaktor.
+,,,Förbränning
+40.40-1,24,A,"Anläggning för förbränning med en total installerad tillförd effekt av
+mer än 300 megawatt."
+40.40-2,12,A,Gasturbin

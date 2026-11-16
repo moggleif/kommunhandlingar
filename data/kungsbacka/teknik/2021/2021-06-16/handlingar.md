@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319194541id_/https://www.kungsbacka.
 sha256: 77940994edef13e92c251cae9f9333029aa4167c59c8f52719e9a8cdf4a40e6b
 bytes: 6010919
 sidor: 84
-hamtad: 2026-10-28T11:45:35+00:00
-konverterad: 2026-10-28T11:46:30+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:45:46+00:00
+konverterad: 2026-11-16T00:46:27+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -1034,41 +1034,29 @@ het av år 2009)
 3kap§1
 3.8 Besluta om förvaltningens FC
 interna organisation
-
 3.9 Dataskydds- Utse dataskyddsombud för FC
 förordningen nämnden
 artikel 37
-
 3.10 | Dataskydds- Besluta om att helt eller FC xX
 förordningen delvis avslå framställan om
 artikel 12.5 begäran av utövande av
-
 registrerads rättigheter
-
 3.11 | Dataskydds- Teckna avtal om FC Skriftligt person-
 förordningen personuppgiftsbiträdes- uppgiftsbiträdesavta
 artikel 28 behandling av personuppgifter I ska tecknas i de
-
 för den fall någon annan
-
 personuppgiftsansvariges aktör behandlar
-
 räkning personuppgifter för
 den personuppgifts-
 ansvarige nämndens
-räkning.
-
 3.12 | Dataskydds- Hantera FC Xx Utreda samt vid
 förordningen personuppgiftsincidenter behov anmäla till
 artikel 33 och 34 tillsynsmyndigheten
-
 och informera de
 registrerade
-
 3.13 | Dataskydds- Beslut att godkänna FC Xx Dataskyddskontakt
 förordningen konsekvensbedömning vid upprättar
 artikel 35-36 viss personuppgifts- konsekvens-
-
 behandling bedömning som
 ligger till grund för
 beslut.

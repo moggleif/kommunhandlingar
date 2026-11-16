@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320033045id_/https://www.kungsbacka.
 sha256: b3c23300b20c07d93deacb99786de76b60f320ce776965d9f500740474624df6
 bytes: 16569477
 sidor: 280
-hamtad: 2026-10-29T10:58:18+00:00
-konverterad: 2026-10-29T11:00:17+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:48:50+00:00
+konverterad: 2026-11-16T00:50:04+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2018,10 +2018,19 @@ Gruppbostad/Servicebostad
 
 Bostad    Bostad      Bostad
 
+Bostad     Bostad     Bostad
+
 Gemensamhets-
 ytor
 
 Gruppbostad/Servicebostad
+
+Bostad    Bostad      Bostad
+
+Bostad     Bostad     Bostad
+
+Gemensamhets-
+ytor
 
 Ett BmSS ska ha 12 platser, detta innebär att två separata lokaler placeras i närheten av varandra
 
@@ -2029,16 +2038,14 @@ eller i direkt anslutning till varandra. Varje kluster ska ha 6 bostäder som sk
 separat gruppbostad eller fungera som en reguljär servicebostad. Övriga ytor som personaldelar
 ekonomiutrymmen och parkering/angöring kan beroende på hur planeringsförutsättningarna ser
 ut, placeras i ett av klustren eller någonstans där det är tillgängligt för båda klustren.
-raledlanosreP
-Bostad     Bostad     Bostad
-Bostad    Bostad      Bostad
-Bostad     Bostad     Bostad
-Gemensamhets-
-ytor
-nemmyrtuimonokE
-hco
-gnirekraP
-gnirögna
+
+Personaldelar
+
+Ekonomiutrymmen
+
+Parkering och
+
+angöring
 
 <!-- sida 50 -->
 
@@ -2403,44 +2410,51 @@ Förvaltningschef                      Verksamhetschef
 
 <!-- sida 60 -->
 
-0202/2984
-
-rnd
-:dllätstsaF
 Datum       Processnummer Diarienummer
 2021-03-23        3.10 1201/2021
+
 Regeringskansliet
 Finansdepartementet
+
 (e-post borttagen)
+
 Önskemål om utökat bemyndigande att meddela föreskrifter
 för friytor för lek och utevistelse vid skolor, förskolor,
 fritidshem och annan jämförlig verksamhet
+
 Boverket lämnar härmed förslag till ändring i 10 kap. 9 § plan- och
 byggförordningen (2011:338), PBF. Förslaget avser ett utökat bemyndigande
 för Boverket att meddela föreskrifter om friyta för lek och utevistelse vid
 fritidshem, skolor, förskolor och annan jämförlig verksamhet enligt 8 kap. 9 §
 andra stycket samt 10 och 11 §§ plan- och bygglagen (2010:900), PBL.
+
 Boverket önskar ett utökat bemyndigande att meddela föreskrifter om friyta för
 lek och utevistelse enligt 8 kap. 9 § andra stycket samt 10 och 11 §§ PBL.
 Boverket vill kunna ställa bindande krav på kvaliteter och placering av friytor
 för lek och utevistelse vid fritidshem, skolor, förskolor och annan jämförlig
 verksamhet. Boverket har dock inte för avsikt att genom föreskrifter ställa krav
 på friytornas storlek.
+
 Bakgrund
 Boverket tog år 2015, på uppdrag av regeringen, fram vägledningen ”Gör plats
 för barn och unga! En vägledning för planering, utformning och förvaltning av
 skolors och förskolors utemiljö”. I samband med vägledningen utarbetade och
 beslutade Boverket också allmänna råd – Boverkets allmänna råd (2015:1) om
 friytor för lek och utevistelse vid skolor, förskolor och fritidshem.
+
 Under remissen av de allmänna råden framförde flera remissinstanser att det är
 nödvändigt med föreskrifter för att tvinga kommuner och byggaktörer att se till
 att behovet av tillräckligt stor friyta vid skola och förskola tillgodoses.
 Boverket bedömde emellertid att det då var lämpligt att som första steg besluta
 om vägledning och allmänna råd och att en så ingripande reglering som
+
 föreskrifter inte var motiverad. Boverket skrev dock i konsekvensutredningen
 att man avsåg att utvärdera effekterna av de allmänna råden. Om utvärderingen
+
 Boverket, Box 534, 371 23 Karlskrona | Telefon: 0455-35 30 00
 E-post: (e-post borttagen) | Webbplats: www.boverket.se
+
+Fastställd: dnr 4892/2020
 
 <!-- sida 61 -->
 
@@ -5075,7 +5089,7 @@ uses the format 15.91.nnnn.nnmn .
 e 4Log-Type: The value is Message Tracking Log .
 
 e 4Date: The UTC date-time when the log file was created. The UTC date-time is represented in the ISO
-8601 date-time format: yyyy-mm-daT hh:mm:ss.fff, where yyyy = year, mm = month, dd = day, T
+8601 date-time format: yyyy-mm-daT hh:mm:ss.fffZ, where yyyy = year, mm = month, dd = day, T
 indicates the beginning of the time component, hh = hour, mm = minute, ss = second, fff = fractions of a
 second, and Z signifies Zulu, which is another way to denote UTC.
 
@@ -6685,9 +6699,6 @@ Kammarrätten i Göteborg
 
 Beslut: Nämnden för Service i Kungsbacka kommuns beslut den 18 december 2020, dnr SE
 2020-00336.
-
-Klagade: — NN co utiook com
-
 Min begäran
 
 1\. Jag begär att kammarrätten förklarar att de efterfrågade handlingarna är allmänna
@@ -8242,26 +8253,38 @@ FR-03
 
 Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
 du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3\. Tala om vilka bevis du vill hänvisa till.
-Förklara vad du vill visa med varje bevis.
+
 Överklaga skriftligt inom 3 veckor
-Skicka med skriftliga bevis som inte redan
-Tiden räknas oftast från den dag som du fick finns i målet.
+Tiden räknas oftast från den dag som du fick
 del av det skriftliga beslutet. I vissa fall räknas
-tiden i stället från beslutets datum. Det gäller 4. Lämna namn och personnummer eller
-om beslutet avkunnades vid en muntlig organisationsnummer.
+
+tiden i stället från beslutets datum. Det gäller
+om beslutet avkunnades vid en muntlig
 förhandling, eller om rätten vid förhandlingen
-Lämna aktuella och fullständiga uppgifter
 gav besked om datum för beslutet.
-om var domstolen kan nå dig: postadresser,
-e-postadresser och telefonnummer.
+
 För en part som företräder det allmänna (till
-exempel myndigheter) räknas tiden alltid från Om du har ett ombud, lämna också
-5 0    den dag domstolen meddelade beslutet. ombudets kontaktuppgifter.
+exempel myndigheter) räknas tiden alltid från
+5 0    den dag domstolen meddelade beslutet.
 0-
 2
 0
 2
+
+3\. Tala om vilka bevis du vill hänvisa till.
+Förklara vad du vill visa med varje bevis.
+Skicka med skriftliga bevis som inte redan
+finns i målet.
+
+4\. Lämna namn och personnummer eller
+organisationsnummer.
+Lämna aktuella och fullständiga uppgifter
+om var domstolen kan nå dig: postadresser,
+
+e-postadresser och telefonnummer.
+Om du har ett ombud, lämna också
+ombudets kontaktuppgifter.
+
 g •    Observera att överklagandet måste ha kommit 5. Skicka eller lämna in överklagandet till
 n
 ilk cev in till domstolen när tiden går ut. förvaltningsrätten. Du hittar adressen i
@@ -8319,8 +8342,9 @@ T
 •
 handlingar i målet vidare till kammarrätten.
 P
-v
 \-
+
+v
 3
 d ite  Så här gör du                      Har du tidigare fått brev genom förenklad
 d n                                       delgivning kan även kammarrätten skicka brev
@@ -8348,6 +8372,7 @@ in siv
 n
 Sida 1 av 2
 A
+
 www.domstol.se
 
 <!-- sida 261 -->
