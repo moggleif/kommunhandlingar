@@ -17,10 +17,10 @@ motioner, detaljplanerna med kommunens projekt och deras dokument och
 revisionens granskningar år för år, organens sammanträden 2026
 punkt för punkt, länkade från kalendern, och de fel i källan som ska meddelas
 kommunen går att läsa på webbplatsen:
-<https://moggleif.github.io/kommunhandlingar/>.
+<https://moggleif.github.io/kungsbackakommun/>.
 
 För en AI börjar poolen i
-<https://moggleif.github.io/kommunhandlingar/llms.txt>, som pekar på
+<https://moggleif.github.io/kungsbackakommun/llms.txt>, som pekar på
 indexet över alla dokument per kommun
 ([K47](docs/02-KRAV.md#k47--poolen-har-ett-index-och-en-ingång-för-ai)) och
 på protokollens paragrafer med diarienummer och beslut

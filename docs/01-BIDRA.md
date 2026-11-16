@@ -10,8 +10,8 @@
 ## Uppsättning från en tom maskin
 
 ```sh
-git clone https://github.com/moggleif/kommunhandlingar.git
-cd kommunhandlingar
+git clone https://github.com/moggleif/kungsbackakommun.git
+cd kungsbackakommun
 python3 -m venv .venv
 . .venv/bin/activate
 pip install -e ".[utveckling]"
@@ -62,7 +62,7 @@ fil ger en sida utan avvikelser. Med hela poolen tar det ett par minuter:
 
 ```sh
 touch avvikelser.jsonl
-python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar avvikelser.jsonl
+python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kungsbackakommun avvikelser.jsonl
 ```
 
 Hur filen hämtas står i `.github/workflows/webbplats.yml`. `_site/`
@@ -158,7 +158,7 @@ handling blir aldrig ett issue
 ([ADR-0022](decisions/0022-personuppgifter-maskas-vid-konverteringen.md)).
 Dokumentet i poolen rättas inte efter avvikelsen. De öppna avvikelserna
 står, grupperade efter status, på webbplatsens sida
-[Avvikelser](https://moggleif.github.io/kommunhandlingar/avvikelser.html)
+[Avvikelser](https://moggleif.github.io/kungsbackakommun/avvikelser.html)
 (K33).
 
 ## Datakontrollerna
