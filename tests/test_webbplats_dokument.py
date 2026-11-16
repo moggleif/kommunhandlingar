@@ -3,6 +3,7 @@
 import shutil
 import tempfile
 import unittest
+from dataclasses import replace
 from pathlib import Path
 
 from kommunhandlingar import frontmatter
@@ -144,7 +145,7 @@ class TestDokumentsida(unittest.TestCase):
 
 
 class TestBygg(unittest.TestCase):
-    def test_organsidor_dokumentsidor_och_tabeller(self):
+    def test_organsidor_sidor_med_text_och_tabeller(self):
         with tempfile.TemporaryDirectory() as tmp:
             rot, ut = Path(tmp) / "repo", Path(tmp) / "ut"
             (rot / "kommuner").mkdir(parents=True)
@@ -168,25 +169,13 @@ class TestBygg(unittest.TestCase):
                 'href="exempelby/fsn.html"', (ut / "exempelby.html").read_text()
             )
 
-    def test_dokument_utan_egen_sida_lankas_till_filen_i_repot(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            rot, ut = Path(tmp) / "repo", Path(tmp) / "ut"
-            (rot / "kommuner").mkdir(parents=True)
-            kommunfil = (FIXTURER / "exempelby.toml").read_text(encoding="utf-8")
-            (rot / "kommuner" / "exempelby.toml").write_text(
-                'dokumentsidor = ["protokoll"]\n' + kommunfil, encoding="utf-8"
-            )
-            mote = rot / "data" / "exempelby" / "fsn" / "2024" / "2024-05-02"
-            mote.mkdir(parents=True)
-            (mote / "protokoll.md").write_text(dokument(), encoding="utf-8")
-            (mote / "kallelse.md").write_text(dokument(typ="kallelse"))
-            bygg(rot, ut, REPO, TID)
-            sida = ut / "exempelby" / "fsn" / "2024" / "2024-05-02"
-            self.assertTrue((sida / "protokoll.html").exists())
-            self.assertFalse((sida / "kallelse.html").exists())
-            fil = f"{REPO}/blob/main/data/exempelby/fsn/2024/2024-05-02/kallelse.md"
-            organet = (ut / "exempelby" / "fsn.html").read_text()
-            self.assertIn(f'href="{fil}"', organet)
-            self.assertIn('href="fsn/2024/2024-05-02/protokoll.html"', organet)
-            index = (ut / "exempelby" / "index.jsonl").read_text()
-            self.assertIn(f'"sida": "{fil}"', index)
+    def test_typ_utanfor_sidor_med_text_visar_harkomsten_och_filen(self):
+        kommun = replace(exempelby(), sidor_med_text=("protokoll",))
+        mall = Mall([kommun], REPO, TID)
+        kallelse = las(dokument(typ="kallelse"), "fsn/2024/2024-05-02/kallelse.html")
+        html = dokumentsida(mall, kommun, kallelse, dokument(typ="kallelse"))
+        fil = f"{REPO}/blob/main/data/exempelby/fsn/2024/2024-05-02/kallelse.md"
+        self.assertIn(f'Texten står i <a href="{fil}">Markdown-filen i repot</a>', html)
+        self.assertNotIn("Mer text", html)
+        protokoll = las(dokument())
+        self.assertIn("Mer text", dokumentsida(mall, kommun, protokoll, dokument()))

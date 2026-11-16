@@ -38,14 +38,14 @@ class TestKommunfilen(unittest.TestCase):
         with self.assertRaises(Konfigurationsfel):
             tolka("exempelby", data)
 
-    def test_dokumentsidor_ar_typer(self):
+    def test_sidor_med_text_ar_typer(self):
         data = exempelby()
-        self.assertIsNone(tolka("exempelby", data).dokumentsidor)
-        data["dokumentsidor"] = ["protokoll", "kallelse"]
+        self.assertIsNone(tolka("exempelby", data).sidor_med_text)
+        data["sidor_med_text"] = ["protokoll", "kallelse"]
         self.assertEqual(
-            tolka("exempelby", data).dokumentsidor, ("protokoll", "kallelse")
+            tolka("exempelby", data).sidor_med_text, ("protokoll", "kallelse")
         )
-        data["dokumentsidor"] = ["beslut"]
+        data["sidor_med_text"] = ["beslut"]
         with self.assertRaisesRegex(Konfigurationsfel, "beslut"):
             tolka("exempelby", data)
 

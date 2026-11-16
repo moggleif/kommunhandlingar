@@ -21,7 +21,7 @@ KOMMUNFALT = {
     "omkonvertera",
     "grupper",
     "gruppmote",
-    "dokumentsidor",
+    "sidor_med_text",
 }
 ORGANFALT = {
     "id",
@@ -64,8 +64,8 @@ class Kommun:
     gruppmote: Gruppmote | None = None
     # Källor på Formpipe Meetings Plus (ADR-0080).
     meetingsplus_kallor: tuple[meetingsplus.Kalla, ...] = ()
-    # Typerna vars dokument får en egen sida på webbplatsen; None är alla (K18).
-    dokumentsidor: tuple[str, ...] | None = None
+    # Typerna som visar texten på dokumentets sida; None är alla (K18).
+    sidor_med_text: tuple[str, ...] | None = None
 
 
 def las(sokvag: Path) -> Kommun:
@@ -96,16 +96,16 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
         grupper,
         None if gruppmote is None else gruppmote_av(gruppmote, organ_id),
         tuple(k for k in alla if isinstance(k, meetingsplus.Kalla)),
-        dokumentsidor_av(data),
+        sidor_med_text_av(data),
     )
 
 
-def dokumentsidor_av(data: dict) -> tuple[str, ...] | None:
-    if "dokumentsidor" not in data:
+def sidor_med_text_av(data: dict) -> tuple[str, ...] | None:
+    if "sidor_med_text" not in data:
         return None
-    typer = schema.textlista(data, "dokumentsidor", "kommunen")
+    typer = schema.textlista(data, "sidor_med_text", "kommunen")
     if okanda := set(typer) - set(TYPORDNING):
-        raise Konfigurationsfel(f"kommunen: okänd typ i dokumentsidor: {min(okanda)}")
+        raise Konfigurationsfel(f"kommunen: okänd typ i sidor_med_text: {min(okanda)}")
     return typer
 
 

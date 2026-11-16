@@ -169,10 +169,13 @@ i kommunfilen hade bara kunnat ha det värdet (K14). Länkarna går till
 `main` och kan beskriva en nyare version än den regionen kör.
 
 GitHub Pages tar högst 1 GB. Kungsbackas sida är omkring 766 MB för
-5 210 dokument, och regionen väntas få tre till fyra gånger så mycket
-text. Därför säger kommunfilen vilka typer som får en egen sida
-(`dokumentsidor`, K18): för regionen kallelser och protokoll, 1 546 av
-20 632 filer. Bilagorna länkas till sin Markdown-fil i repot, som GitHub
-visar med front matter som tabell. Allt går att nå, och sidan ryms med
-marginal. En egen server (#18) hade gett alla en sida men står sist i
-planen. Utan fältet får alla dokument en sida, som i Kungsbacka.
+5 210 dokument, och nästan allt är dokumentens text. Regionen väntas få
+tre till fyra gånger så mycket. Därför säger kommunfilen vilka typer som
+visar texten på sin sida (`sidor_med_text`, K18): för regionen kallelser
+och protokoll, 1 546 av 20 632 filer. Bilagornas sidor visar härkomsten
+och länkar till Markdown-filen i repot, som GitHub visar med front matter
+som tabell. Varje dokument har kvar sin sida, så alla länkar på
+webbplatsen, i kalendern, målen och spåren fungerar som förut, och
+indexet är oförändrat. En egen server (#18) hade gett all text på sidan
+men står sist i planen. Utan fältet visar alla dokument sin text, som i
+Kungsbacka.

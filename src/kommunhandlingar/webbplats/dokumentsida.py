@@ -16,23 +16,22 @@ def dokumentsida(mall: Mall, kommun: Kommun, falt: dict[str, str], text: str) ->
     mote = motesnamn(falt["datum"], falt["lopnr"])
     organsida = f"{rot(adress)}{kommun.id}/{falt['organ']}.html"
     vag = [(f"{rot(adress)}{kommun.id}.html", kommun.namn), (organsida, organ)]
-    md = i_repot(mall, adress)
+    md = f"{mall.repo}/blob/main/data/{adress.removesuffix('.html')}.md"
     innehall = (
         stig([*vag, (f"{organsida}#{mote}", mote)])
         + harkomst(falt, md)
-        + (pdfsidor(text, falt) or "<p>Dokumentet har ingen text.</p>")
+        + texten(kommun, falt, text, md)
     )
     rubrik = f"{organ} {mote}: {dokumentrubrik(falt)}"
     return sida(mall, adress, rubrik, innehall)
 
 
-def har_egen_sida(kommun: Kommun, falt: dict[str, str]) -> bool:
-    return kommun.dokumentsidor is None or falt["typ"] in kommun.dokumentsidor
-
-
-def i_repot(mall: Mall, adress: str) -> str:
-    """Markdown-filen i repot bakom sidan `<kommun>/<sökväg>.html`."""
-    return f"{mall.repo}/blob/main/data/{adress.removesuffix('.html')}.md"
+# En typ utanför kommunfilens `sidor_med_text` visar bara härkomsten, så att
+# en stor pool ryms under GitHub Pages gräns (K18, ADR-0080).
+def texten(kommun: Kommun, falt: dict[str, str], text: str, md: str) -> str:
+    if kommun.sidor_med_text is not None and falt["typ"] not in kommun.sidor_med_text:
+        return f"<p>Texten står i {lank(md, 'Markdown-filen i repot')}.</p>"
+    return pdfsidor(text, falt) or "<p>Dokumentet har ingen text.</p>"
 
 
 # Hela front matter, i schemats ordning, med fältens egna namn.
