@@ -6,6 +6,7 @@ from kommunhandlingar.frontmatter import FALT, adresser, lista
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, lank, rot, sida, stig
+from kommunhandlingar.webbplats.meny import oversiktsnamn
 from kommunhandlingar.webbplats.organsida import dokumentrubrik
 from kommunhandlingar.webbplats.text import pdfsidor
 
@@ -15,7 +16,11 @@ def dokumentsida(mall: Mall, kommun: Kommun, falt: dict[str, str], text: str) ->
     organ = next(o.namn[0] for o in kommun.organ if o.id == falt["organ"])
     mote = motesnamn(falt["datum"], falt["lopnr"])
     organsida = f"{rot(adress)}{kommun.id}/{falt['organ']}.html"
-    vag = [(f"{rot(adress)}{kommun.id}.html", kommun.namn), (organsida, organ)]
+    oversikten = (
+        f"{rot(adress)}{kommun.id}.html",
+        oversiktsnamn(mall.kommuner, kommun),
+    )
+    vag = [oversikten, (organsida, organ)]
     md = f"{mall.repo}/blob/main/data/{adress.removesuffix('.html')}.md"
     # En typ utanför kommunfilens `sidor_med_text` visar bara härkomsten, så
     # att en stor pool ryms under GitHub Pages gräns (K18, ADR-0080).

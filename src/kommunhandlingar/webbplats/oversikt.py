@@ -12,10 +12,10 @@ from html import escape
 from kommunhandlingar.konfiguration import Kommun, Organ
 from kommunhandlingar.webbplats.flikar import SIDOR, overtid
 from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.meny import oversiktsnamn
 from kommunhandlingar.webbplats.organordning import grupperade
 from kommunhandlingar.webbplats.rakning import Organrad
 
-EN_KOMMUN = "Organ och handlingar"
 TOM = '<td class="tom">–<span class="dold"> saknas</span></td>'
 
 
@@ -35,8 +35,9 @@ def kommunsida(
         f'<th scope="col">Organ</th><th scope="col">Sammanträden</th>{huvud}'
         f"</tr></thead>{grupper}</table></div>"
     )
-    rubrik = EN_KOMMUN if len(mall.kommuner) == 1 else kommun.namn
-    return sida(mall, f"{kommun.id}.html", rubrik, innehall)
+    # En enda kommuns översikt är också startsidan (ADR-0082).
+    adress = "index.html" if mall.en_kommun else f"{kommun.id}.html"
+    return sida(mall, adress, oversiktsnamn(mall.kommuner, kommun), innehall)
 
 
 def inledning(dokument: list[dict]) -> str:

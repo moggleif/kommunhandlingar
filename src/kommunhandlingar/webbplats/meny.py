@@ -27,6 +27,7 @@ GEMENSAM = (
 Grupp = tuple[str, list[tuple[str, str]]]
 
 
+EN_KOMMUN = "Organ och handlingar"
 TEMAKNAPP = '<button type="button" class="tema" hidden>Mörkt tema</button>'
 
 
@@ -49,18 +50,31 @@ def en_kommuns_poster(
     kommun: Kommun, kalendrar: frozenset[str], aktuell: str
 ) -> list[str]:
     kalender = f"{kommun.id}/kalender.html"
+    kalenderpost = (
+        [post(kalender, "Kalender", aktuell)] if kommun.id in kalendrar else []
+    )
     om_poolen = [
         (statusadress(kommun.id), "Poolens status"),
         (avvikelser.ADRESS, "Avvikelser"),
     ]
     return (
-        [post(kalender, "Kalender", aktuell)] * (kommun.id in kalendrar)
+        kalenderpost
         + [
             enkel_undermeny(namn or "Organen", organlankar(kommun.id, organen), aktuell)
             for namn, organen in grupperade(kommun)
         ]
         + [enkel_undermeny("Om poolen", om_poolen, aktuell)]
     )
+
+
+# Med en enda kommun upprepar varken översiktens namn eller en rubrik
+# kommunens namn, som är sajtens (ADR-0082).
+def oversiktsnamn(kommuner: list[Kommun], kommun: Kommun) -> str:
+    return EN_KOMMUN if len(kommuner) == 1 else kommun.namn
+
+
+def kommunens(kommuner: list[Kommun], rubrik: str, kommun: Kommun) -> str:
+    return rubrik if len(kommuner) == 1 else f"{rubrik} – {kommun.namn}"
 
 
 # En pool med en enda kommun, som Kungsbackas eller regionens datarepo, heter

@@ -9,8 +9,8 @@ from dataclasses import replace
 
 from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.mal import Mal
-from kommunhandlingar.webbplats.mall import Mall, kommunens, sida
-from kommunhandlingar.webbplats.meny import TEMAKNAPP, meny
+from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.meny import TEMAKNAPP, kommunens, meny, oversiktsnamn
 from kommunhandlingar.webbplats.oversikt import kommunsida
 from kommunhandlingar.webbplats.rakning import Organrad
 from kommunhandlingar.webbplats.spar import Steg
@@ -80,6 +80,7 @@ class TestNavigering(unittest.TestCase):
         html = kommunsida(self.mall, exempelby(), [rad("bun", 0), rad("fsn", 0)], [])
         self.assertIn("<h1>Organ och handlingar</h1>", html)
         self.assertIn("<title>Organ och handlingar – Exempelby kommun</title>", html)
+        self.assertIn('class="sajtnamn" href="index.html" aria-current="page"', html)
 
     def test_varje_kommun_ar_en_post_i_menyn(self):
         andra = replace(exempelby(), id="andraby", namn="Andraby", grupper=())
@@ -98,9 +99,12 @@ class TestNavigering(unittest.TestCase):
 
     def test_kommunens_namn_i_rubriken_bara_med_flera_kommuner(self):
         andra = replace(exempelby(), id="andraby", namn="Andraby")
-        flera = Mall([exempelby(), andra], REPO, TID)
-        self.assertEqual(kommunens(self.mall, "Kalender", andra), "Kalender")
-        self.assertEqual(kommunens(flera, "Kalender", andra), "Kalender – Andraby")
+        self.assertEqual(kommunens([andra], "Kalender", andra), "Kalender")
+        self.assertEqual(
+            kommunens([exempelby(), andra], "Kalender", andra), "Kalender – Andraby"
+        )
+        self.assertEqual(oversiktsnamn([andra], andra), "Organ och handlingar")
+        self.assertEqual(oversiktsnamn([exempelby(), andra], andra), "Andraby")
 
     def test_sidan_heter_som_sin_enda_kommun(self):
         html = sida(self.mall, "exempelby/fsn.html", "Förskolan", "")

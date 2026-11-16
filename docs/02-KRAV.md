@@ -1903,8 +1903,9 @@ Hur och varför står i
 - **Givet** en sida på webbplatsen
 - **När** den byggs
 - **Så** har den en `nav class="sajtmeny"` med sajtens namn som länk till
-  startsidan och en lista med en undermeny för varje kommun och sist
-  avvikelserna, så att fem kommuner ryms inom sex poster.
+  startsidan, en lista med högst sex poster och sist knappen för mörkt
+  tema. Med flera kommuner är posterna en undermeny för varje kommun och
+  sist avvikelserna, så att fem kommuner ryms.
 - **Givet** en webbplats med en enda kommun, som Kungsbackas eller ett
   eget datarepo
 - **När** den byggs
@@ -1921,7 +1922,9 @@ Hur och varför står i
 - **Givet** en webbplats med en enda kommun
 - **När** den byggs
 - **Så** är startsidan kommunens översikt, med rubriken "Organ och
-  handlingar", och `<kommun>.html` finns kvar med samma innehåll.
+  handlingar", och `<kommun>.html` finns kvar med samma innehåll. Stigen
+  överst på organens, dokumentens, sammanträdenas och kalenderns sidor
+  börjar med "Organ och handlingar" i stället för kommunens namn.
 - **Givet** en webbplats med flera kommuner och en av dem
 - **När** menyn byggs
 - **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"

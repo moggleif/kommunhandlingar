@@ -19,7 +19,8 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import kalendervyer
 from kommunhandlingar.webbplats.kalender import GRUPPMOTE, Sammantrade, gruppmoten
 from kommunhandlingar.webbplats.kalenderfarger import farger, stil
-from kommunhandlingar.webbplats.mall import KALLKOD, Mall, kommunens, rot, sida, stig
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall, rot, sida, stig
+from kommunhandlingar.webbplats.meny import kommunens, oversiktsnamn
 
 SKRIPT = Path(__file__).with_name("kalender.js")
 ADR = "/blob/main/docs/decisions/"
@@ -64,7 +65,7 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
     if moten:
         namn[GRUPPMOTE] = f"Partiernas gruppmöte inför {namn[kommun.gruppmote.fore]}"
     innehall = (
-        stig([(f"{rot(adress)}{kommun.id}.html", kommun.namn)])
+        stig([(f"{rot(adress)}{kommun.id}.html", oversiktsnamn(mall.kommuner, kommun))])
         + f"<style>{STIL}{stil(farg)}</style>"
         + INLEDNING
         + kvalitet(mall, sammantraden, namn)
@@ -74,7 +75,7 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
         + kalendervyer.lista(sammantraden + moten, namn)
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
     )
-    return sida(mall, adress, kommunens(mall, "Kalender", kommun), innehall)
+    return sida(mall, adress, kommunens(mall.kommuner, "Kalender", kommun), innehall)
 
 
 def kvalitet(mall: Mall, sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:

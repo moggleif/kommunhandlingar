@@ -88,6 +88,10 @@ class Mall:
     # Detaljplanernas projekt per kommun och plan (K46).
     projekt: dict[str, dict[str, Projekt]] = field(default_factory=dict)
 
+    @property
+    def en_kommun(self) -> bool:
+        return len(self.kommuner) == 1
+
 
 def rot(adress: str) -> str:
     return "../" * adress.count("/")
@@ -119,12 +123,6 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 def menypost(adress: str, namn: str, aktuell: bool) -> str:
     markering = ' aria-current="page"' if aktuell else ""
     return f'<li><a href="{adress}"{markering}>{escape(namn)}</a></li>'
-
-
-# En pool med en enda kommun heter som den, så kommunens namn står inte en
-# gång till i rubriken (ADR-0082).
-def kommunens(mall: Mall, rubrik: str, kommun: Kommun) -> str:
-    return rubrik if len(mall.kommuner) == 1 else f"{rubrik} – {kommun.namn}"
 
 
 def stig(lankar: list[tuple[str, str]]) -> str:
