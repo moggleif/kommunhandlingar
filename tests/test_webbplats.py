@@ -180,7 +180,7 @@ class TestSidor(unittest.TestCase):
         self.assertEqual(
             luckavsnitt.kallor(kommun, "bun"),
             '<a href="https://exempelby.se/bun">mötessidan</a>, '
-            '<a href="https://mp.exempelby.se/bun">mötessidan</a>',
+            '<a href="https://mp.exempelby.se/bun">organets sida på Meetings Plus</a>',
         )
 
     def test_dokumentationen_lankas_i_kodens_repo_och_datat_i_poolens(self):
@@ -188,6 +188,11 @@ class TestSidor(unittest.TestCase):
         self.assertIn(f'href="{KALLKOD}/blob/main/docs/03-ARKITEKTUR.md', html)
         self.assertIn(f'Data: <a href="{REPO}">', html)
         self.assertIn(f'Källkod: <a href="{KALLKOD}">', html)
+
+    def test_poolen_i_kodens_repo_lankas_en_gang(self):
+        html = sidor.startsida(Mall([exempelby()], KALLKOD, TID))
+        self.assertIn(f'Källkod och data: <a href="{KALLKOD}">', html)
+        self.assertNotIn("Data:", html)
 
     def test_ar_utan_dokument_star_per_organ(self):
         html = self.statussida(dokument(datum="2021-05-02"), dokument())

@@ -1,6 +1,8 @@
 """Krav: K14 och K33 i docs/02-KRAV.md. Bygger webbplatsen:
-<utkatalog> <repoadress> <avvikelsefil>, där avvikelsefilen har de öppna
-avvikelserna i källan, ett issue per rad (ADR-0054).
+<utkatalog> <repoadress> <avvikelsefil>, där repoadressen är repot med
+poolens data och issues och avvikelsefilen har de öppna avvikelserna i
+källan, ett issue per rad (ADR-0054). Dokumentationen länkas alltid i
+kommunhandlingar (`KALLKOD`).
 """
 
 import sys

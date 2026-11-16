@@ -42,21 +42,17 @@ def tomma(ar: list[str]) -> str:
 
 def kallor(kommun: Kommun, organ_id: str) -> str:
     sitevision = [
-        motessidan(kalla.sidor[organ_id])
+        f'<a href="{escape(kalla.sidor[organ_id])}">mötessidan</a>'
         + (" och Internet Archive" if organ_id in kalla.wayback else "")
         for kalla in kommun.kallor
         if organ_id in kalla.sidor
     ]
     meetingsplus = [
-        motessidan(kalla.sidor[organ_id])
+        f'<a href="{escape(kalla.sidor[organ_id])}">organets sida på Meetings Plus</a>'
         for kalla in kommun.meetingsplus_kallor
         if organ_id in kalla.sidor
     ]
     return ", ".join(sitevision + meetingsplus)
-
-
-def motessidan(adress: str) -> str:
-    return f'<a href="{escape(adress)}">mötessidan</a>'
 
 
 def post(lucka: Lucka) -> str:

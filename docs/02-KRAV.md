@@ -234,6 +234,10 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   organet har den typen vid något annat sammanträde
 - **Så** redovisas sammanträdet som en lucka på statussidan, med det som
   saknas, organets källor i kommunfilen och när sidan byggdes.
+- **Givet** ett organ som läses på Formpipe Meetings Plus (K57)
+- **När** statussidan byggs
+- **Så** står organets sida på plattformen bland källorna, som
+  "organets sida på Meetings Plus".
 
 - **Givet** ett sammanträde med en kallelse men inga handlingar, eller
   tvärtom
@@ -480,15 +484,11 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en sida på webbplatsen
 - **När** den visas
 - **Så** har den samma meny (K39) och en sidfot som länkar till repot.
-- **Givet** en pool i ett eget datarepo, som regionens
+- **Givet** en pool i ett eget datarepo, som Region Hallands (ADR-0080)
 - **När** webbplatsen byggs
 - **Så** länkar sidfoten både datarepot och kommunhandlingar, och sidornas
   länkar till arkitekturen, ADR:erna och Bidra går till kommunhandlingar,
   där dokumentationen finns.
-- **Givet** ett organ som läses på Formpipe Meetings Plus (K57)
-- **När** statussidan byggs
-- **Så** står organets sida på plattformen bland luckornas källor, som
-  Sitevisions mötessidor.
 
 ## K15 — Figurer märks och kan tolkas
 
