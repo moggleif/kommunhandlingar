@@ -17,35 +17,39 @@ def dokumentsida(mall: Mall, kommun: Kommun, falt: dict[str, str], text: str) ->
     organsida = f"{rot(adress)}{kommun.id}/{falt['organ']}.html"
     vag = [(f"{rot(adress)}{kommun.id}.html", kommun.namn), (organsida, organ)]
     md = f"{mall.repo}/blob/main/data/{adress.removesuffix('.html')}.md"
+    # En typ utanför kommunfilens `sidor_med_text` visar bara härkomsten, så
+    # att en stor pool ryms under GitHub Pages gräns (K18, ADR-0080).
+    med_text = kommun.sidor_med_text is None or falt["typ"] in kommun.sidor_med_text
     innehall = (
         stig([*vag, (f"{organsida}#{mote}", mote)])
-        + harkomst(falt, md)
-        + texten(kommun, falt, text, md)
+        + harkomst(falt, md, med_text)
+        + (texten(falt, text) if med_text else utan_text(md))
     )
     rubrik = f"{organ} {mote}: {dokumentrubrik(falt)}"
     return sida(mall, adress, rubrik, innehall)
 
 
-# En typ utanför kommunfilens `sidor_med_text` visar bara härkomsten, så att
-# en stor pool ryms under GitHub Pages gräns (K18, ADR-0080).
-def texten(kommun: Kommun, falt: dict[str, str], text: str, md: str) -> str:
-    if kommun.sidor_med_text is not None and falt["typ"] not in kommun.sidor_med_text:
-        return f"<p>Texten står i {lank(md, 'Markdown-filen i repot')}.</p>"
+def texten(falt: dict[str, str], text: str) -> str:
     return pdfsidor(text, falt) or "<p>Dokumentet har ingen text.</p>"
 
 
-# Hela front matter, i schemats ordning, med fältens egna namn.
-def harkomst(falt: dict[str, str], md: str) -> str:
-    rader = [(namn, varde(namn, falt[namn])) for namn in FALT]
+def utan_text(md: str) -> str:
+    return f"<p>Texten står i {lank(md, 'Markdown-filen i repot')}.</p>"
+
+
+# Hela front matter, i schemats ordning, med fältens egna namn. Sidorna med
+# obekräftade tal länkar till sin rubrik när texten står på sidan.
+def harkomst(falt: dict[str, str], md: str, med_text: bool) -> str:
+    rader = [(namn, varde(namn, falt[namn], med_text)) for namn in FALT]
     rader.append(("I repot", lank(md, md)))
     poster = "".join(f"<dt>{escape(e)}</dt><dd>{v}</dd>" for e, v in rader)
     return f'<h2>Härkomst</h2><dl class="harkomst">{poster}</dl>'
 
 
-def varde(namn: str, text: str) -> str:
+def varde(namn: str, text: str, med_text: bool) -> str:
     if namn == "kalla_url":
         return ", ".join(lank(a, a) for a in adresser(text))
-    if namn == "tal_obekraftade":
+    if namn == "tal_obekraftade" and med_text:
         sidnr = [escape(s) for s in lista(text)]
         return ", ".join(f'<a href="#sida-{s}">{s}</a>' for s in sidnr) or "[]"
     return escape(text)

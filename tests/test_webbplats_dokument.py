@@ -145,7 +145,7 @@ class TestDokumentsida(unittest.TestCase):
 
 
 class TestBygg(unittest.TestCase):
-    def test_organsidor_sidor_med_text_och_tabeller(self):
+    def test_organsidor_dokumentsidor_och_tabeller(self):
         with tempfile.TemporaryDirectory() as tmp:
             rot, ut = Path(tmp) / "repo", Path(tmp) / "ut"
             (rot / "kommuner").mkdir(parents=True)
@@ -172,10 +172,12 @@ class TestBygg(unittest.TestCase):
     def test_typ_utanfor_sidor_med_text_visar_harkomsten_och_filen(self):
         kommun = replace(exempelby(), sidor_med_text=("protokoll",))
         mall = Mall([kommun], REPO, TID)
-        kallelse = las(dokument(typ="kallelse"), "fsn/2024/2024-05-02/kallelse.html")
-        html = dokumentsida(mall, kommun, kallelse, dokument(typ="kallelse"))
+        text = dokument(typ="kallelse", tal="[2]")
+        kallelse = las(text, "fsn/2024/2024-05-02/kallelse.html")
+        html = dokumentsida(mall, kommun, kallelse, text)
         fil = f"{REPO}/blob/main/data/exempelby/fsn/2024/2024-05-02/kallelse.md"
         self.assertIn(f'Texten står i <a href="{fil}">Markdown-filen i repot</a>', html)
         self.assertNotIn("Mer text", html)
+        self.assertNotIn('href="#sida-', html)
         protokoll = las(dokument())
         self.assertIn("Mer text", dokumentsida(mall, kommun, protokoll, dokument()))

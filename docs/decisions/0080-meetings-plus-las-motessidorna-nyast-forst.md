@@ -179,3 +179,11 @@ webbplatsen, i kalendern, målen och spåren fungerar som förut, och
 indexet är oförändrat. En egen server (#18) hade gett all text på sidan
 men står sist i planen. Utan fältet visar alla dokument sin text, som i
 Kungsbacka.
+
+Uppskattad storlek för regionen när poolen är ikapp: sidorna utan text
+omkring 10 kB styck, för 19 086 bilagor ungefär 185 MB; kallelserna och
+protokollen med text ungefär 150 MB; tabellerna, som kopieras för alla
+dokument så att indexet stämmer, ungefär 200 MB. Det ger omkring 550 MB,
+under gränsen. Priset är att en länk med `#sida-N` till en bilaga,
+från målen, spåren eller punktkorten, landar högst upp på sidan utan
+text, och att Markdown-filen saknar sidankare.

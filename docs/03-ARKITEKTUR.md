@@ -1849,7 +1849,9 @@ varje push till `main`, för hand och när ett issue med etiketten
 - **Dokumentets sida** (K18, `webbplats/dokumentsida.py`) visar hela
   front matter med fältens namn, i schemats ordning, med källan och
   `.md` i repot som länkar och sidorna i `tal_obekraftade` som länkar
-  till sidorna. Texten delas
+  till sidorna. Ett dokument vars typ inte står i kommunfilens
+  `sidor_med_text` visar bara härkomsten, med sidnumren som text, och en
+  länk till `.md`; tabellerna kopieras ändå. Texten delas
   vid `<!-- sida N -->` och renderas sida för sida
   (`webbplats/text.py`), under en rubrik med ankaret `sida-N`, sidans
   kvalitet ur `kvalitet_per_sida` och, för en sida i `tal_obekraftade`,
