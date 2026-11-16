@@ -1,0 +1,70 @@
+KK,AK,PN,Beskrivning
+50.20-1,4,C,"Anläggning där det per kalenderår hanteras mer än 5 000 kubikmeter
+flytande motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.20-2,3,C,"Anläggning där det per kalenderår hanteras mer än 1 000 kubikmeter
+men högst 5 000 kubikmeter flytande motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.2001,1,U,"Anläggning där det per kalenderår hanteras högst 1 000 kubikmeter
+flytande motorbränsle."
+50.20-3,4,C,"Anläggning där det per kalenderår hanteras mer än 5 miljon
+normalkubikmeter gas avsedd som motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.20-4,3,C,"Anläggning där det per kalenderår hanteras mer än 1 miljon
+normalkubikmeter men högst 5 miljoner normalkubikmeter gas avsett
+som motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.2002,1,U,"Anläggning där det per kalenderår hanteras högst 1 miljon
+normalkubikmeter gas avsett som motorbränsle."
+50.2003,2,U,Fordonsverkstad mer än 500 kvadratmeter
+50.2004,1,U,Fordonsverkstad högst 500 kvadratmeter
+50.2005,1,U,Parkeringsgarage med oljeavskiljare > 400 platser för motorfordon
+,,,INFRASTRUKTUR
+63.10-1,29,B,"Hamn där trafik medges för fartyg med en bruttodräktighet på mer än
+1 350 ton. Allmän hamn med mer än 5 000 anlöp per kalenderår
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. hamn för Försvarsmakten, eller
+2. färjekaj med högst tio planerade fartygsanlöp per kalenderår."
+63.10-2,24,B,"Hamn där trafik medges för fartyg med en bruttodräktighet på mer än 1
+350 ton. Allmän hamn med 2 000 - 5 000 anlöp per kalenderår
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. hamn för Försvarsmakten, eller
+2. färjekaj med högst tio planerade fartygsanlöp per kalenderår."
+63.10-3,16,B,"Hamn där trafik medges för fartyg med en bruttodräktighet på mer än 1
+350 ton. Allmän hamn med 50 - 2 000 anlöp per kalenderår
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. hamn för Försvarsmakten, eller
+2. färjekaj med högst tio planerade fartygsanlöp per kalenderår."
+63.10-4,8,B,"Hamn där trafik medges för fartyg med en bruttodräktighet på mer än 1
+350 ton. Allmän hamn med 10 - 50 anlöp per kalenderår
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. hamn för Försvarsmakten, eller
+2. färjekaj med högst tio planerade fartygsanlöp per kalenderår."
+63.10-5,7,B,"Hamn där trafik medges för fartyg med en bruttodräktighet på mer än 1
+350 ton. Allmän hamn med högst 10 anlöp per kalenderår
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. hamn för Försvarsmakten, eller
+2. färjekaj med högst tio planerade fartygsanlöp per kalenderår."
+63.20,7,C,"Fiskehamn eller hamn för Försvarsmakten.
+Anmälningsplikt enligt denna beskrivning gäller inte fiskehamn som är
+tillståndspliktig enligt 63.10."
+63.2001,3,U,"Småbåtshamn, marina eller båtklubb för mer än 50 fritidsbåtar eller
+liknande"
+63.2002,1,U,"Småbåtshamn, marina eller båtklubb för mer än 15 men högst 50
+fritidsbåtar eller liknande"
+63.30-1,28,A,"Civil flygplats med en instrumentbana som är längre än 1 200 meter.
+Mer än 50 000 landningar per kalenderår.
+Tillståndsplikt enligt denna beskrivning gäller inte flygplats som är
+tillståndspliktig enligt 63.40."
+63.30-2,20,A,"Civil flygplats med en instrumentbana som är längre än 1 200 meter.
+Mer än 20 000 landningar men högst 50 000 landningar per kalenderår.
+Tillståndsplikt enligt denna beskrivning gäller inte flygplats som är
+tillståndspliktig enligt 63.40."
+63.30-3,16,A,"Civil flygplats med en instrumentbana som är längre än 1 200 meter.
+Mer än 5 000 landningar men högst 20 000 landningar per kalenderår.
+Tillståndsplikt enligt denna beskrivning gäller inte flygplats som är
+tillståndspliktig enligt 63.40."

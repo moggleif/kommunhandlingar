@@ -1,0 +1,14 @@
+A. Lönenivå riksområde,33 480,31 540
+B. Lönenivåindex (genomsnitt 31 540),"1,062","0,985"
+"C. Genomsnittlig investeringsnivå, kr/inv.",3 062,3 062
+D. Löneandel,"0,35","0,35"
+"E. Lönekostnad snitt, kr/inv. (C*D)",1 072,1 072
+"F. Lönekostnad regionalt, kr/inv. (E*B)",1 138,1 056
+"G. Övriga kostnader, andel (1-D)","0,65","0,65"
+"H. Övriga kostnader snitt, kr/inv. (C*G)",1 990,1 990
+I. Klimatjustering,"1,05","1,082"
+J. Vägd klimatjustering,"1,046","1,046"
+"K. Klimatjustering, justering (I/J)","1,004","1,034"
+"L. Övriga kostnader, regionalt, kr/inv. (K*H)",1 998,2 059
+"M. Byggkostnader regional, kr/inv. (F+L)",3 135,3 114
+"N. Utfall, kr/inv.",73,52

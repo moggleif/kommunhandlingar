@@ -1,0 +1,153 @@
+KK,AK,PN,Beskrivning
+25.11-3,6,C,"Anläggning för att genom vulkning tillverka gummivaror, om
+produktionen baseras på mer än 50 ton men högst 100 ton ovulkad
+gummiblandning per kalenderår.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 25.10, 39.20 eller 39.30."
+25.11-4,4,C,"Anläggning för att genom vulkning tillverka gummivaror, om
+produktionen baseras på mer än 1 ton men högst 50 ton ovulkad
+gummiblandning per kalenderår.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 25.10, 39.20 eller 39.30."
+25.1101,1,U,"Anläggning för att genom vulkning tillverka gummivaror, om
+produktionen baseras på högst 1 ton ovulkad gummiblandning per
+kalenderår."
+25.20-1,9,B,"Anläggning för att genom ytterligare polymerisation tillverka produkter
+av polyuretan utan användning av toluendiisocyanat, om produktionen
+baseras på mer än 200 ton plastråvara per kalenderår,"
+25.20-2,10,B,"Anläggning för att genom ytterligare polymerisation tillverka produkter
+av
+1. polyuretan med användning av toluendiisocyanat, om produktionen
+baseras på mer än 500 ton plastråvara per kalenderår, eller
+2. annan plast, om produktionen baseras på mer än 500 ton plastråvara
+per kalenderår."
+25.20-3,8,B,"Anläggning för att genom ytterligare polymerisation tillverka produkter
+av
+1. polyuretan med användning av toluendiisocyanat, om produktionen
+baseras på mer än 20 men högst 500 ton plastråvara per kalenderår,
+eller
+2. annan plast, om produktionen baseras på mer än 20 men högst 500
+ton plastråvara per kalenderår."
+25.30,6,C,"Anläggning för att genom ytterligare polymerisation tillverka produkter
+av plast, om
+1. produktionen baseras på mer än 1 ton plastråvara per kalenderår, och
+2. verksamheten inte är tillståndspliktig enligt 25.20."
+25.3001,1,U,"Anläggning för att genom ytterligare polymerisation tillverka produkter
+av plast, om produktionen baseras på högst 1 ton plastråvara per
+kalenderår."
+25.40,8,B,Anläggning för flamlaminering med plast.
+25.50-1,7,C,"Anläggning där produktionen baseras på mer än 200 ton plastråvara per
+kalenderår och inte omfattar ytterligare polymerisation, för tillverkning
+av produkter av plast förutom endast mekanisk montering eller
+mekanisk bearbetning.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.50-2,4,C,"Anläggning där produktionen baseras på mer än 20 ton men högst 200
+ton plastråvara per kalenderår och inte omfattar ytterligare
+polymerisation, för tillverkning av produkter av plast förutom endast
+mekanisk montering eller mekanisk bearbetning.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.50-3,3,C,"Anläggning där produktionen baseras på mer än 1 ton men högst 20 ton
+plastråvara per kalenderår och inte omfattar ytterligare polymerisation,
+för tillverkning av produkter av plast förutom endast mekanisk
+montering eller mekanisk bearbetning.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.5001,1,U,"Anläggning där produktionen baseras på högst 1 ton plastråvara per
+kalenderår och inte omfattar ytterligare polymerisation, för tillverkning
+av produkter av plast förutom endast mekanisk montering eller
+mekanisk bearbetning."
+25.50-4,9,C,"Anläggning där produktionen baseras på mer än 20 ton plastråvara per
+kalenderår och inte omfattar ytterligare polymerisation, för beläggning
+eller kalandrering med plast.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.50-5,7,C,"Anläggning där produktionen baseras på mer än 10 ton men högst 20
+ton plastråvara per kalenderår och inte omfattar ytterligare
+polymerisation, för beläggning eller kalandrering med plast.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.50-6,5,C,"Anläggning där produktionen baseras på mer än 5 ton men högst 10 ton
+plastråvara per kalenderår och inte omfattar ytterligare polymerisation,
+för beläggning eller kalandrering med plast.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.50-7,4,C,"Anläggning där produktionen baseras på mer än 3 ton men högst 5 ton
+plastråvara per kalenderår och inte omfattar ytterligare polymerisation,
+för beläggning eller kalandrering med plast.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.50-8,3,C,"Anläggning där produktionen baseras på mer än 1 ton men högst 3 ton
+plastråvara per kalenderår och inte omfattar ytterligare polymerisation,
+för beläggning eller kalandrering med plast.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.20 eller 39.30."
+25.5002,1,U,"Anläggning där produktionen baseras på högst 1 ton plastråvara per
+kalenderår och inte omfattar ytterligare polymerisation, för beläggning
+eller kalandrering med plast."
+,,,ICKE-METALLISKA MINERALISKA PRODUKTER
+,,,"Glas, glasvaror och keramiska produkter"
+26.10,14,B,"Anläggning för
+1. tillverkning av mer än 5 000 ton glas eller glasfiber per kalenderår,
+eller
+2. smältning av mer än 5 000 ton mineraler per kalenderår, inklusive
+tillverkning av mineralull."
+26.1001,5,U,Anläggning för tillverkning av varor av glasfiber.
+26.20-1,11,B,"Anläggning för tillverkning av glas eller glasvaror som omfattar
+blandning av glasråvaror (mäng), smältning eller syrabehandling av
+glas, om verksamheten innebär att mer än 1 000 ton glasråvaror med
+tillsats av bly- eller arsenikföreningar förbrukas per kalenderår.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 26.10."
+26.20-2,8,B,"Anläggning för tillverkning av glas eller glasvaror som omfattar
+blandning av glasråvaror (mäng), smältning eller syrabehandling av
+glas, om verksamheten innebär att mer än 5 men högst 1 000 ton
+glasråvaror med tillsats av bly- eller arsenikföreningar förbrukas per
+kalenderår.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 26.10."
+26.20-3,11,B,"Anläggning för tillverkning av glas eller glasvaror som omfattar
+blandning av glasråvaror (mäng), smältning eller syrabehandling av
+glas, om verksamheten innebär att mer än 2 000 ton andra glasråvaror
+förbrukas per kalenderår.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 26.10."
+26.20-4,8,B,"Anläggning för tillverkning av glas eller glasvaror som omfattar
+blandning av glasråvaror (mäng), smältning eller syrabehandling av
+glas, om verksamheten innebär att mer än 500 men högst 2 000 ton
+andra glasråvaror förbrukas per kalenderår.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 26.10."
+26.30,5,C,"Anläggning för tillverkning av glas eller glasvaror som omfattar
+blandning av glasråvaror (mäng), smältning eller syrabehandling av
+glas, om verksamheten innebär att
+1. mer än 500 kilogram glasråvaror med tillsats av bly- eller
+arsenikföreningar förbrukas per kalenderår, eller
+2. mer än 5 ton andra glasråvaror förbrukas per kalenderår.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillståndspliktig enligt 26.10 eller 26.20."
+26.3001,2,U,"Anläggning för tillverkning av glas eller glasvaror som omfattar
+blandning av glasråvaror (mäng), smältning eller syrabehandling av
+glas, om verksamheten innebär att
+1. högst 500 kilogram glasråvaror med tillsats av bly- eller
+arsenikföreningar förbrukas per kalenderår, eller
+2. högst 5 ton andra glasråvaror förbrukas per kalenderår."
+26.40,8,C,"Anläggning för tillverkning av glasfiber, om verksamheten inte är
+tillståndspliktig enligt 26.10."
+26.50,11,B,"Anläggning för att genom bränning
+1. tillverka mer än 18 500 ton keramiska produkter per kalenderår, eller
+2. tillverka keramiska produkter med en ugnskapacitet som överstiger
+fyra kubikmeter och med en satsningsdensitet som överstiger 300
+kilogram per kubikmeter."
+26.51,11,B,"Anläggning för att genom bränning tillverka mer än 50 ton keramiska
+produkter per kalenderår, om glasyr med tillsats av tungmetaller
+används."
+26.5101,3,U,"Anläggning för att genom bränning tillverka högst 50 ton keramiska
+produkter per kalenderår, om glasyr med tillsats av tungmetaller
+används."
+26.60,9,C,"Anläggning för tillverkning av mer än 100 ton keramiska produkter per
+kalenderår, om verksamheten inte är tillståndspliktig enligt 26.50 eller
+26.51."
+26.6001,2,U,"Anläggning för tillverkning av högst 100 ton keramiska produkter per
+kalenderår."

@@ -1,0 +1,256 @@
+KK,AK,PN,Beskrivning
+20.80-4,7,C,"Anläggning för lagring av mer än 5 000 kubikmeter men högst 10 000
+kubikmeter timmer fast mått under bark (m3 fub) i vatten, om lagringen
+inte är tillståndspliktig enligt 20.70."
+20.80-5,5,C,"Anläggning för lagring av mer än 500 kubikmeter men högst 5 000
+kubikmeter timmer fast mått under bark (m3 fub) i vatten, om lagringen
+inte är tillståndspliktig enligt 20.70."
+20.8002,1,U,"Anläggning för lagring av högst 500 kubikmeter timmer fast mått under
+bark (m3 fub) i vatten."
+20.90,3,C,"Anläggning för lagring av timmer som inte sker i eller nära vattentäkt,
+om lagringen har pågått mer än sex veckor, behövs med anledning av
+storm eller orkan och omfattar
+1. mer än 20 000 kubikmeter timmer fast mått under bark (m3 fub) på
+land med begjutning av vatten, eller
+2. mer än 10 000 kubikmeter timmer fast mått under bark (m3 fub) i
+vatten."
+20.9001,1,U,"Anläggning för lagring av timmer som inte sker i eller nära vattentäkt,
+om lagringen har pågått mer än sex veckor, behövs med anledning av
+storm eller orkan och omfattar
+1. högst 20 000 kubikmeter timmer fast mått under bark (m3 fub) på
+land med begjutning av vatten, eller
+2. högst 10 000 kubikmeter timmer fast mått under bark (m3 fub) i
+vatten."
+,,,"MASSA, PAPPER OCH PAPPERSVAROR"
+21.10-1,25,A,"Anläggning för framställning av pappersmassa av trä eller andra fibrösa
+material. Mer än 300 000 ton massa (sulfat/sulfit) med blekning."
+21.10-2,22,A,"Anläggning för framställning av pappersmassa av trä eller andra fibrösa
+material. Högst 300 000 ton massa (sulfat/sulfit) med blekning."
+21.10-3,18,A,"Anläggning för framställning av pappersmassa av trä eller andra fibrösa
+material. Massa (sulfat/sulfit) utan blekning."
+21.10-4,19,A,"Anläggning för framställning av pappersmassa av trä eller andra fibrösa
+material. Mer än 200 000 ton massa (mekanisk/kemimekanisk)."
+21.10-5,16,A,"Anläggning för framställning av pappersmassa av trä eller andra fibrösa
+material. Högst 200 000 ton massa (mekanisk/kemimekanisk)."
+21.10-6,16,A,"Anläggning för framställning av mer än 10 000 ton returfibermassa per
+kalenderår."
+21.20-1,13,B,"Anläggning för framställning av mer än 1000 men högst 10 000 ton
+returfibermassa per kalenderår, om verksamheten inte är
+tillståndspliktig enligt 21.10."
+21.20-2,11,B,"Anläggning för framställning av mer än 1 men högst 1000 ton
+returfibermassa per kalenderår, om verksamheten inte är
+tillståndspliktig enligt 21.10."
+21.2001,4,U,"Anläggning för framställning av högst 1 ton returfibermassa per
+kalenderår."
+21.30,15,A,"Anläggning för framställning av mer än 7 000 ton papper, papp eller
+kartong per kalenderår."
+21.40,9,B,"Anläggning för framställning av mer än 100 ton papper, papp eller
+kartong per kalenderår, om verksamheten inte är tillståndspliktig enligt
+21.30."
+21.50,7,C,"Anläggning för tillverkning av mer än 10 ton papper, papp eller kartong
+per kalenderår, om verksamheten inte är tillståndspliktig enligt 21.30
+eller 21.40."
+21.5001,3,U,"Anläggning för framställning av högst 10 ton papper, papp eller
+kartong per kalenderår, om verksamheten inte är tillståndspliktig enligt
+21.30 eller 21.40."
+21.5002,2,U,"Anläggning för tillverkning av pappers- eller pappvaror med torr
+process"
+,,,FOTOGRAFISK ELLER GRAFISK PRODUKTION
+22.10,9,C,"Rulloffsettryckeri där tryckning sker med heatsetfärg, om
+verksamheten inte är tillstånds- eller anmälningspliktig enligt 39.20
+eller 39.30."
+22.20,5,C,Anläggning med tillverkning av metallklichéer.
+22.30,8,B,"Anläggning med utsläpp av processavloppsvatten där mer än 50 000
+kvadratmeter fotografiskt material i form av film eller papperskopior
+framkallas per kalenderår."
+22.40-1,3,C,"Anläggning utan utsläpp av processavloppsvatten där mer än 50 000
+kvadratmeter fotografiskt material i form av film eller papperskopior
+framkallas per kalenderår om verksamheten inte är tillståndspliktig
+enligt 22.30."
+22.4001,2,U,"Anläggning utan utsläpp av processavloppsvatten där mer än 15 000
+kvadratmeter men högst 50 000 kvadratmeter fotografiskt material i
+form av film eller papperskopior framkallas per kalenderår."
+22.4002,1,U,"Anläggning utan utsläpp av processavloppsvatten där mer än 5 000
+kvadratmeter men högst 15 000 kvadratmeter fotografiskt material i
+form av film eller papperskopior framkallas per kalenderår."
+22.4003,1,U,"Anläggning utan utsläpp av processavloppsvatten där högst 5 000
+kvadratmeter fotografiskt material i form av film eller papperskopior
+framkallas per kalenderår."
+22.40-2,6,C,"Anläggning med utsläpp av processavloppsvatten där mer än 15 000
+kvadratmeter men högst 50 000 kvadratmeter fotografiskt material i
+form av film eller papperskopior framkallas per kalenderår, om
+verksamheten inte är tillståndspliktig enligt 22.30."
+22.40-3,4,C,"Anläggning med utsläpp av processavloppsvatten där mer än 5 000
+kvadratmeter men högst 15 000 kvadratmeter fotografiskt material i
+form av film eller papperskopior framkallas per kalenderår, om
+verksamheten inte är tillståndspliktig enligt 22.30."
+22.4004,2,U,"Anläggning med utsläpp av processavloppsvatten där mer än 1 000
+kvadratmeter men högst 5 000 kvadratmeter fotografiskt material i
+form av film eller papperskopior framkallas per kalenderår, om
+verksamheten inte är tillståndspliktig enligt 22.30."
+22.4005,1,U,"Anläggning med utsläpp av processavloppsvatten där högst 1 000
+kvadratmeter fotografiskt material i form av film eller papperskopior
+framkallas per kalenderår."
+,,,"STENKOLSPRODUKTER, RAFFINERADE
+PETROLEUMPRODUKTER OCH KÄRNBRÄNSLE"
+23.10-1,19,A,Anläggning för tillverkning av koks
+23.10-2,25,A,"Anläggning för överföring av kol eller bituminös skiffer till gas- eller
+vätskeform."
+23.10-3,28,A,"Anläggning för grafittillverkning som inte är tillståndspliktig enligt
+31.40."
+23.1001,4,U,Anläggning för framställning av kol (hårt kol)
+23.20,19,B,"Anläggning för tillverkning av produkter ur kol, om verksamheten inte
+är tillståndspliktig enligt 23.10 eller 31.40."
+23.30-1,32,A,"Anläggning för raffinering av mer än 500 000 ton mineralolja eller
+naturgas per kalenderår."
+23.30-2,28,A,"Anläggning för raffinering av högst 500 000 ton mineralolja eller
+naturgas per kalenderår."
+23.40,16,A,"Anläggning för
+1. upparbetning av bestrålat kärnbränsle,
+2. framställning eller anrikning av kärnbränsle, eller
+3. behandling, lagring eller slutförvaring av bestrålat kärnbränsle"
+23.50,16,A,Anläggning för behandling eller lagring av obestrålat kärnbränsle.
+,,,KEMISKA PRODUKTER
+24.10-1,24,A,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka mer än 5 000 ton per kalenderår organiska ämnen."
+24.10-2,22,A,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka högst 5 000 ton per kalenderår organiska ämnen."
+24.10-3,26,A,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka kloralkali med amalgammetoden."
+24.10-4,24,A,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka kloralkali med annan metod än amalgammetoden."
+24.10-5,24,A,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka mer än 100 000 ton andra oorganiska ämnen än kloralkali per
+kalenderår."
+24.20,14,B,"Anläggning för att genom biokemiska processer i industriell skala
+tillverka läkemedelssubstanser."
+24.30,8,C,"Anläggning för att genom biokemiska processer yrkesmässigt tillverka
+läkemedelssubstanser i försöks-, pilot- eller laboratorieskala eller annan
+icke industriell skala."
+24.40-1,25,B,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka mer än 5 000 ton per kalenderår ytaktiva ämnen (tensider)"
+24.40-2,24,B,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka högst 5 000 ton per kalenderår ytaktiva ämnen (tensider)"
+24.40-3,24,B,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka bindemedel för färg och lack i form av basplastpolymerer av
+epoxi- eller polyuretanpolymerer"
+24.40-4,23,B,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka bindemedel för färg och lack - övriga ämnen"
+24.40-5,22,B,"Anläggning för att genom kemiska reaktioner i industriell skala
+tillverka bränsle ur vegetabiliska eller animaliska oljor."
+24.50,14,B,"Anläggning för tillverkning i industriell skala
+1. genom biosyntetiska reaktioner av
+a) alkohol för bränsle eller andra tekniska ändamål,
+b) organiska syror, eller
+c) biopolymerer, eller
+2. av biotekniska organismer för bekämpningsändamål."
+24.60-1,27,B,"Anläggning för tillverkning i industriell skala, genom kemiska
+reaktioner, av fosfor-, kväve- eller kaliuminnehållande gödselmedel.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 24.10."
+24.60-2,25,B,"Anläggning för tillverkning i industriell skala, genom kemiska
+reaktioner, av sprängämnen, fotokemikalier och bekämpningsmedel.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+tillståndspliktig enligt 24.10."
+24.60-3,11,B,"Anläggning för tillverkning i industriell skala, genom kemiska
+reaktioner, av acetylengas, lustgas och annan kemiskt framställd gas.
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. tillverkning av klorgas eller natriumhypoklorit i anslutning till
+bassängbad,
+2. tillverkning av natriumhypoklorit i vatten med högst 2 procent aktiv
+klorhalt för desinfektion i den verksamhet där tillverkningen sker, eller
+3. om verksamheten är tillståndspliktig enligt 24.10"
+24.60-4,11,B,"Anläggning för tillverkning i industriell skala, genom kemiska
+reaktioner, av andra oorganiska ämnen än de som nämns i 24.60-1,
+24.60-2 eller 24,60-3.
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. tillverkning av klorgas eller natriumhypoklorit i anslutning till
+bassängbad,
+2. tillverkning av natriumhypoklorit i vatten med högst 2 procent aktiv
+klorhalt för desinfektion i den verksamhet där tillverkningen sker, eller
+3. om verksamheten är tillståndspliktig enligt 24.10"
+24.70,8,C,"Anläggning för framställning genom destillation av mer än 5 000 ton
+gas per kalenderår."
+24.7001,3,U,"Anläggning för framställning genom destillation av högst 5 000 ton gas
+per kalenderår."
+24.80,8,B,"Anläggning för att genom kemiska reaktioner yrkesmässigt tillverka
+organiska eller oorganiska ämnen i försöks-, pilot- eller
+laboratorieskala eller annan icke industriell skala, om det i
+verksamheten används eller tillverkas någon kemisk produkt som,
+enligt föreskrifter om klassificering och märkning av kemiska
+produkter som Kemikalieinspektionen har meddelat, är klassificerad
+eller uppfyller kriterierna för att klassificeras med de riskfraser som
+ingår i faroklasserna ”mycket giftig”, ”giftig”, ”frätande”,
+”cancerframkallande”, ”mutagen”, ”reproduktionstoxisk” eller
+”miljöfarlig”.
+Tillståndsplikt enligt denna beskrivning gäller inte om verksamheten är
+anmälningspliktig enligt 24.81"
+24.81,8,C,"Anläggning för att genom kemiska reaktioner yrkesmässigt tillverka
+bränsle ur vegetabilisk eller animalisk olja i försöks-, pilot- eller
+laboratorieskala eller annan icke industriell skala."
+24.90,8,C,"Anläggning för att genom kemiska reaktioner yrkesmässigt tillverka
+organiska eller oorganiska ämnen, i försöks-, pilot- eller
+laboratorieskala eller annan icke industriell skala, om det i
+verksamheten inte används eller tillverkas någon kemisk produkt som,
+enligt föreskrifter om klassificering och märkning av kemiska
+produkter som Kemikalieinspektionen har meddelat, är klassificerad
+eller uppfyller kriterierna för att klassificeras med de riskfraser som
+ingår i faroklasserna ”mycket giftig”, ”giftig”, ”frätande”,
+”cancerframkallande”, ”mutagen”, ”reproduktionstoxisk” eller
+”miljöfarlig”."
+24.100,7,C,"Anläggning för tillverkning av konstgjorda mineralfibrer, om
+verksamheten inte är tillstånds- eller anmälningspliktig enligt någon
+annan beskrivning i denna bilaga."
+24.110-1,15,B,"Anläggning för att genom endast fysikaliska processer i industriell
+skala tillverka - mer än 20 000 ton per kalenderår -
+1. gas- eller vätskeformiga kemiska produkter,
+2. läkemedelssubstanser genom extraktion ur biologiskt material,
+3. sprängämnen,
+4. pyrotekniska artiklar, eller
+5. ammunition.
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. tillverkning av gasformiga kemiska produkter genom destillation,
+eller
+2. verksamhet som är tillståndspliktig enligt 39.20."
+24.110-2,13,B,"Anläggning för att genom endast fysikaliska processer i industriell
+skala tillverka - mer än 2 000 men högst 20 000 ton per kalenderår -
+1. gas- eller vätskeformiga kemiska produkter,
+2. läkemedelssubstanser genom extraktion ur biologiskt material,
+3. sprängämnen,
+4. pyrotekniska artiklar, eller
+5. ammunition.
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. tillverkning av gasformiga kemiska produkter genom destillation,
+eller
+2. verksamhet som är tillståndspliktig enligt 39.20."
+24.110-3,11,B,"Anläggning för att genom endast fysikaliska processer i industriell
+skala tillverka - mer än 1 000 men högst 2 000 ton per kalenderår -
+1. gas- eller vätskeformiga kemiska produkter,
+2. läkemedelssubstanser genom extraktion ur biologiskt material,
+3. sprängämnen,
+4. pyrotekniska artiklar, eller
+5. ammunition.
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. tillverkning av rengöringsmedel eller kroppsvårds-, kosmetik- eller
+hygienprodukter, om tillverkningen uppgår till högst 2 000 ton per
+kalenderår,
+2. tillverkning av gasformiga kemiska produkter genom destillation,
+eller
+3. verksamhet som är tillståndspliktig enligt 39.20."
+24.110-4,11,B,"Anläggning för att genom endast fysikaliska processer i industriell
+skala tillverka - mer än eller lika med 100 men högst 1 000 ton per
+kalenderår -
+1. gas- eller vätskeformiga kemiska produkter,
+2. läkemedelssubstanser genom extraktion ur biologiskt material,
+3. sprängämnen,
+4. pyrotekniska artiklar, eller
+5. ammunition.
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. tillverkning av färg eller lack, om tillverkningen uppgår till högst 1
+000 ton per kalenderår,
+2. tillverkning av rengöringsmedel eller kroppsvårds-, kosmetik- eller
+hygienprodukter, om tillverkningen uppgår till högst 2 000 ton per
+kalenderår,
+3. tillverkning av gasformiga kemiska produkter genom destillation,
+eller
+4. verksamhet som är tillståndspliktig enligt 39.20."

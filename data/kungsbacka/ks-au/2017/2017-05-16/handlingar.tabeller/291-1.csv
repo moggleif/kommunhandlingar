@@ -1,0 +1,32 @@
+KK,AK,PN,Beskrivning
+200.20-2,1,C,Fritidshem och öppen fritidsverksamhet
+200.20-3,1,U,Fritidsgård och liknande
+,,,Skönhetsvård och liknande
+200.30-1,2,U,Solarium
+200.30-2,1,U,"Skönhetsvård, hudvård, manikyr, pedikyr"
+200.30-3,1,U,Frisersalong
+,,,Vård och hälsa
+200.40-1,4,U,"Lokaler för vård eller annat omhändertagande med 10 boende
+eller mer"
+200.40-2,2,U,Lokaler för vård och annat omhändertagande med 9 boende eller färre
+200.40-3,2,C,"Fotvård, akupunktur"
+200.40-4,3,C,Tatuering eller piercing som egen verksamhet
+200.40-5,1,U,"Kiropraktor, naprapat, sjukgymnastik och liknande"
+200.40-6,1,U,Övriga alternativa behandlingar
+,,,Idrott och liknande
+200.50-1,2,U,"Idrottsanläggning, gym eller motsvarande 1"
+200.50-2,3,C,"Bassängbad som är upplåtna åt allmänheten eller som annars används
+av många människor"
+200.50-3,2,U,Strandbad
+,,,Boende
+200.60-1,6,U,Fastighetsägare med fler än 500 lägenheter
+200.60-2,5,U,Fastighetsägare med fler än 200 lägenheter men högst 500 lägenheter
+200.60-3,4,U,Fastighetsägare med fler än 25 lägenheter men högst 200 lägenheter
+200.60-4,3,U,Fastighetsägare med fler än 10 lägenheter men högst 25 lägenheter
+200.60-5,4,U,"Tillfälligt boende med mer än 8 bäddar, t.ex. hotell, vandrarhem,
+kursgård med övernattningsmöjlighet, folkhögskola med boende"
+200.60-6,3,U,Camping/stuganläggning
+200.60-7,1,U,"Övrigt tillfälligt boende, bed & breakfast eller liknande, med högst 8
+bäddar"
+,,,Förvaring av djur
+200.70-1,1,U,Lokaler för förvaring av djur

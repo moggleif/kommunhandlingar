@@ -1,0 +1,111 @@
+28.90,7,C,"Anläggning för att med kemiska eller termiska metoder yrkesmässigt ta
+bort lack eller färg, om verksamheten inte är tillståndspliktig enligt
+28.80, 39.10, 39.20 eller 39.40."
+,,,ELEKTRISKA ARTIKLAR
+31.10,26,A,"Anläggning för tillverkning av batterier eller ackumulatorer där
+kadmium, bly eller kvicksilver ingår."
+31.20,15,B,"Anläggning för tillverkning av batterier eller ackumulatorer där inte
+kadmium, bly eller kvicksilver ingår."
+31.30,5,C,"Anläggning för tillverkning eller reparation av kvicksilverinnehållande
+ljuskällor."
+31.40,28,A,"Anläggning för tillverkning av grafitelektroder genom bränning eller
+grafitisering."
+31.50,28,A,"Anläggning för tillverkning av kol- eller grafitelektroder, om
+verksamheten inte är tillståndspliktig enligt 31.40."
+31.60,7,C,Anläggning för tillverkning av elektrisk tråd eller elektrisk kabel.
+,,,METALLBEARBETNING M.M.
+34.10,7,C,"Anläggning för tillverkning av fler än 100 fordonsmotorer per
+kalenderår."
+34.1001,2,U,"Anläggning för tillverkning av högst 100 fordonsmotorer per
+kalenderår."
+34.20,4,C,"Provbänk för motorer, turbiner eller reaktorer."
+34.30-1,28,B,"Anläggning för tillverkning och sammansättning per kalenderår av fler
+än 200 000 motorfordon med en totalvikt per fordon som uppgår till
+högst 3,5 ton."
+34.30-2,24,B,"Anläggning för tillverkning och sammansättning per kalenderår av fler
+än 100 000 men högst 200 000 motorfordon med en totalvikt per
+fordon som uppgår till högst 3,5 ton."
+34.30-3,20,B,"Anläggning för tillverkning och sammansättning per kalenderår av fler
+än 50 000 men högst 100 000 motorfordon med en totalvikt per fordon
+som uppgår till högst 3,5 ton."
+34.30-4,12,B,"Anläggning för tillverkning och sammansättning per kalenderår av fler
+än 25 000 men högst 50 000 motorfordon med en totalvikt per fordon
+som uppgår till högst 3,5 ton."
+34.30-5,24,B,"Anläggning för tillverkning och sammansättning per kalenderår av fler
+än 20 000 motorfordon med en totalvikt per fordon som uppgår till mer
+än 3,5 ton."
+34.30-6,16,B,"Anläggning för tillverkning och sammansättning per kalenderår av fler
+än 5 000 men högst 20 000 motorfordon med en totalvikt per fordon
+som uppgår till mer än 3,5 ton."
+KK,AK,PN,Beskrivning
+34.30-7,10,B,"Anläggning för tillverkning och sammansättning per kalenderår av fler
+än 1 000 men högst 5 000 motorfordon med en totalvikt per fordon som
+uppgår till mer än 3,5 ton."
+34.40,9,C,"Anläggning för tillverkning och sammansättning per kalenderår av
+1. fler än 100 men högst 25 000 motorfordon med en totalvikt per
+fordon som uppgår till högst 3,5 ton, eller
+2. fler än 10 men högst 1 000 motorfordon med en totalvikt per fordon
+som uppgår till mer än 3,5 ton.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillståndspliktig enligt 34.30."
+34.4001,3,U,"Anläggning för tillverkning och sammansättning per kalenderår av
+1. högst 100 motorfordon med en totalvikt per fordon som uppgår till
+högst 3,5 ton, eller
+2. högst 10 motorfordon med en totalvikt per fordon som uppgår till
+mer än 3,5 ton."
+34.50,9,C,"Anläggning för
+1. tillverkning av järnvägsutrustning,
+2. tillverkning av flygplan, eller
+3. reparation av flygplan."
+34.60,22,A,"Anläggning där det förekommer maskinell metallbearbetning med en
+tillverkningsyta (exklusive yta för endast montering) större än 100 000
+kvadratmeter."
+34.70-1,16,B,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 75 kubikmeter, om
+verksamheten inte är tillståndspliktig enligt 34.30 eller 34.60. Med total
+tankvolym avses såväl volymen i ett fast centralt system för vätskor
+som volymen i lösa behållare som är kopplade till
+metallbearbetningsmaskin eller öppnade behållare som används för
+påfyllning av metallbearbetningsmaskin."
+34.70-2,14,B,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 20 men högst 75
+kubikmeter, om verksamheten inte är tillståndspliktig enligt 34.30 eller
+34.60. Med total tankvolym avses såväl volymen i ett fast centralt
+system för vätskor som volymen i lösa behållare som är kopplade till
+metallbearbetningsmaskin eller öppnade behållare som används för
+påfyllning av metallbearbetningsmaskin."
+KK,AK,PN,Beskrivning
+34.80-1,9,C,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 10 kubikmeter men högst 20
+kubikmeter, om verksamheten inte är tillstånds- eller anmälningspliktig
+enligt någon av beskrivningarna i 34.10-34.70, 35.10 eller 35.20.
+Med total tankvolym avses detsamma som i 34.70 andra stycket."
+34.80-2,6,C,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 5 kubikmeter men högst 10
+kubikmeter, om verksamheten inte är tillstånds- eller anmälningspliktig
+enligt någon av beskrivningarna i 34.10-34.70, 35.10 eller 35.20.
+Med total tankvolym avses detsamma som i 34.70 andra stycket."
+34.80-3,4,C,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 1 kubikmeter men högst 5
+kubikmeter, om verksamheten inte är tillstånds- eller anmälningspliktig
+enligt någon av beskrivningarna i 34.10-34.70, 35.10 eller 35.20.
+Med total tankvolym avses detsamma som i 34.70 andra stycket."
+34.8001,1,U,"Anläggning där det förekommer maskinell metallbearbetning och där
+total tankvolym för skärvätskor, processoljor och hydrauloljor i
+metallbearbetningsmaskinerna är större än 200 liter men högst 1
+kubikmeter. Med total tankvolym avses såväl volymen i ett fast centralt
+system för vätskor som volymen i lösa behållare som är kopplade till
+metallbearbetningsmaskin eller öppnade behållare som används för
+påfyllning av metallbearbetningsmaskin."
+35.10,28,A,"Byggande av en plattform som är avsedd att användas vid utvinning av
+olja eller gas inom havsområden, om verksamheten inte prövas enligt
+11 kap. miljöbalken."
+35.1001,18,U,"Plattform för verkstad på vattnet när fråga är om förläggning nära
+kusten för montering, utrustning, ombyggnad, reparation, underhåll
+eller liknande åtgärd."
+35.20,4,C,Skeppsvarv.

@@ -1,0 +1,172 @@
+"Er beteckning 19GS01
+Provtagare Johanna
+Provtagningsdatum 2019-02-05
+Labnummer O11102397",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+"filtrering metaller, vid provtagning *",ja,,,1,1,VITA
+Ca,43.8,5.5,mg/l,2,R,VITA
+Fe,7.47,0.91,mg/l,2,R,VITA
+K,106,13,mg/l,2,R,VITA
+Mg,21.3,2.5,mg/l,2,R,VITA
+Na,226,29,mg/l,2,R,VITA
+Al,29.0,8.9,µg/l,2,H,VITA
+As,5.70,1.48,µg/l,2,H,VITA
+Ba,21.7,4.3,µg/l,2,H,VITA
+Cd,<0.05,,µg/l,2,H,VITA
+Co,0.568,0.177,µg/l,2,H,VITA
+Cr,2.55,0.63,µg/l,2,H,VITA
+Cu,<1,,µg/l,2,H,VITA
+Hg,<0.02,,µg/l,2,F,VITA
+Mn,643,76,µg/l,2,R,VITA
+Ni,1.23,0.74,µg/l,2,H,VITA
+Pb,<0.2,,µg/l,2,H,VITA
+Zn,2.39,1.23,µg/l,2,H,VITA
+Mo,7.57,1.58,µg/l,2,H,VITA
+V,5.41,1.12,µg/l,2,H,VITA
+,,,,,,
+diklormetan,<2.0,,µg/l,3,2,INRO
+"1,1-dikloretan",<0.10,,µg/l,3,2,INRO
+"1,2-dikloretan",<0.50,,µg/l,3,2,INRO
+"trans-1,2-dikloreten",<0.10,,µg/l,3,2,INRO
+"cis-1,2-dikloreten",<0.10,,µg/l,3,2,INRO
+"1,2-diklorpropan",<1.0,,µg/l,3,2,INRO
+triklormetan (kloroform),<0.30,,µg/l,3,2,INRO
+tetraklormetan (koltetraklorid),<0.10,,µg/l,3,2,INRO
+"1,1,1-trikloretan",<0.10,,µg/l,3,2,INRO
+"1,1,2-trikloretan",<0.20,,µg/l,3,2,INRO
+trikloreten,<0.10,,µg/l,3,2,INRO
+tetrakloreten,<0.20,,µg/l,3,2,INRO
+vinylklorid,<1.0,,µg/l,3,2,INRO
+"1,1-dikloreten",<0.10,,µg/l,3,2,INRO
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+metan,4200,1680,µg/l,4,2,INRO
+etan,<1.0,,µg/l,4,2,INRO
+eten,<1.0,,µg/l,4,2,INRO
+,,,,,,
+alifater >C5-C8,<10,,µg/l,5,2,INRO
+alifater >C8-C10,<10,,µg/l,5,2,INRO
+alifater >C10-C12,<10,,µg/l,5,2,INRO
+alifater >C12-C16,13,4,µg/l,5,2,INRO
+alifater >C5-C16 *,13,,µg/l,5,2,INRO
+alifater >C16-C35,26,8,µg/l,5,2,INRO
+aromater >C8-C10,0.09,0.03,µg/l,5,2,INRO
+aromater >C10-C16,<0.775,,µg/l,5,2,INRO
+metylpyrener/metylfluorantener,<1.0,,µg/l,5,2,INRO
+metylkrysener/metylbens(a)antracener,<1.0,,µg/l,5,2,INRO
+aromater >C16-C35,<1.0,,µg/l,5,2,INRO
+bensen,<0.20,,µg/l,5,2,INRO
+toluen,0.30,0.09,µg/l,5,2,INRO
+etylbensen,<0.20,,µg/l,5,2,INRO
+"m,p-xylen",<0.20,,µg/l,5,2,INRO
+o-xylen,<0.20,,µg/l,5,2,INRO
+"xylener, summa *",<0.20,,µg/l,5,2,INRO
+naftalen,0.040,0.012,µg/l,5,2,INRO
+acenaftylen,<0.014,,µg/l,5,2,INRO
+acenaften,<0.014,,µg/l,5,2,INRO
+fluoren,0.015,0.004,µg/l,5,2,INRO
+fenantren,<0.014,,µg/l,5,2,INRO
+antracen,<0.014,,µg/l,5,2,INRO
+fluoranten,<0.014,,µg/l,5,2,INRO
+pyren,<0.014,,µg/l,5,2,INRO
+bens(a)antracen,<0.014,,µg/l,5,2,INRO
+krysen,<0.014,,µg/l,5,2,INRO
+bens(b)fluoranten,<0.014,,µg/l,5,2,INRO
+bens(k)fluoranten,<0.014,,µg/l,5,2,INRO
+bens(a)pyren,<0.014,,µg/l,5,2,INRO
+dibenso(ah)antracen,<0.014,,µg/l,5,2,INRO
+benso(ghi)perylen,<0.014,,µg/l,5,2,INRO
+indeno(123cd)pyren,<0.014,,µg/l,5,2,INRO
+"PAH, summa 16 *",0.055,,µg/l,5,2,INRO
+"PAH, summa cancerogena *",<0.049,,µg/l,5,2,INRO
+"PAH, summa övriga *",0.055,,µg/l,5,2,INRO
+"PAH, summa L *",0.040,,µg/l,5,2,INRO
+"PAH, summa M *",0.015,,µg/l,5,2,INRO
+"PAH, summa H *",<0.056,,µg/l,5,2,INRO
+"Er beteckning 19GS02
+Provtagare Johanna
+Provtagningsdatum 2019-02-05
+Labnummer O11102398",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+"filtrering metaller, vid provtagning *",ja,,,1,1,VITA
+Ca,30.9,3.9,mg/l,2,R,VITA
+Fe,0.771,0.093,mg/l,2,R,VITA
+K,85.9,10.5,mg/l,2,R,VITA
+Mg,11.9,1.4,mg/l,2,R,VITA
+Na,153,19,mg/l,2,R,VITA
+Al,119,24,µg/l,2,H,VITA
+As,1.77,0.35,µg/l,2,H,VITA
+Ba,30.0,5.5,µg/l,2,R,VITA
+Cd,<0.05,,µg/l,2,H,VITA
+Co,0.302,0.139,µg/l,2,H,VITA
+Cr,0.661,0.210,µg/l,2,H,VITA
+Cu,5.67,1.16,µg/l,2,H,VITA
+Hg,<0.02,,µg/l,2,F,VITA
+Mn,138,16,µg/l,2,R,VITA
+Ni,1.64,0.46,µg/l,2,H,VITA
+Pb,1.47,0.30,µg/l,2,H,VITA
+Zn,46.3,5.9,µg/l,2,R,VITA
+Mo,13.2,2.8,µg/l,2,H,VITA
+V,1.71,0.39,µg/l,2,H,VITA
+,,,,,,
+diklormetan,<2.0,,µg/l,3,2,INRO
+"1,1-dikloretan",<0.10,,µg/l,3,2,INRO
+"1,2-dikloretan",<0.50,,µg/l,3,2,INRO
+"trans-1,2-dikloreten",<0.10,,µg/l,3,2,INRO
+"cis-1,2-dikloreten",<0.10,,µg/l,3,2,INRO
+"1,2-diklorpropan",<1.0,,µg/l,3,2,INRO
+triklormetan (kloroform),<0.30,,µg/l,3,2,INRO
+tetraklormetan (koltetraklorid),<0.10,,µg/l,3,2,INRO
+"1,1,1-trikloretan",<0.10,,µg/l,3,2,INRO
+"1,1,2-trikloretan",<0.20,,µg/l,3,2,INRO
+trikloreten,<0.10,,µg/l,3,2,INRO
+tetrakloreten,<0.20,,µg/l,3,2,INRO
+vinylklorid,<1.0,,µg/l,3,2,INRO
+"1,1-dikloreten",<0.10,,µg/l,3,2,INRO
+metan,729,292,µg/l,4,2,INRO
+etan,<1.0,,µg/l,4,2,INRO
+eten,<1.0,,µg/l,4,2,INRO
+,,,,,,
+alifater >C5-C8,<10,,µg/l,5,2,INRO
+alifater >C8-C10,<10,,µg/l,5,2,INRO
+alifater >C10-C12,<10,,µg/l,5,2,INRO
+alifater >C12-C16,<10,,µg/l,5,2,INRO
+alifater >C5-C16 *,<20,,µg/l,5,2,INRO
+alifater >C16-C35,15,4,µg/l,5,2,INRO
+aromater >C8-C10,0.09,0.03,µg/l,5,2,INRO
+aromater >C10-C16,<0.775,,µg/l,5,2,INRO
+metylpyrener/metylfluorantener,<1.0,,µg/l,5,2,INRO
+"Er beteckning 19GS02
+Provtagare Johanna
+Provtagningsdatum 2019-02-05
+Labnummer O11102398",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+metylkrysener/metylbens(a)antracener,<1.0,,µg/l,5,2,INRO
+aromater >C16-C35,<1.0,,µg/l,5,2,INRO
+bensen,<0.20,,µg/l,5,2,INRO
+toluen,<0.20,,µg/l,5,2,INRO
+etylbensen,<0.20,,µg/l,5,2,INRO
+"m,p-xylen",<0.20,,µg/l,5,2,INRO
+o-xylen,<0.20,,µg/l,5,2,INRO
+"xylener, summa *",<0.20,,µg/l,5,2,INRO
+naftalen,0.039,0.012,µg/l,5,2,INRO
+acenaftylen,<0.014,,µg/l,5,2,INRO
+acenaften,<0.014,,µg/l,5,2,INRO
+fluoren,<0.014,,µg/l,5,2,INRO
+fenantren,<0.014,,µg/l,5,2,INRO
+antracen,<0.014,,µg/l,5,2,INRO
+fluoranten,0.037,0.011,µg/l,5,2,INRO
+pyren,0.040,0.012,µg/l,5,2,INRO
+bens(a)antracen,0.027,0.008,µg/l,5,2,INRO
+krysen,0.036,0.011,µg/l,5,2,INRO
+bens(b)fluoranten,0.072,0.022,µg/l,5,2,INRO
+bens(k)fluoranten,0.024,0.007,µg/l,5,2,INRO
+bens(a)pyren,0.049,0.015,µg/l,5,2,INRO
+dibenso(ah)antracen,<0.014,,µg/l,5,2,INRO
+benso(ghi)perylen,0.087,0.026,µg/l,5,2,INRO
+indeno(123cd)pyren,0.056,0.017,µg/l,5,2,INRO
+"PAH, summa 16 *",0.47,,µg/l,5,2,INRO
+"PAH, summa cancerogena *",0.26,,µg/l,5,2,INRO
+"PAH, summa övriga *",0.20,,µg/l,5,2,INRO
+"PAH, summa L *",0.039,,µg/l,5,2,INRO
+"PAH, summa M *",0.077,,µg/l,5,2,INRO
+"PAH, summa H *",0.35,,µg/l,5,2,INRO
