@@ -20,7 +20,8 @@ MOBILNUMMER = re.compile(
     r"(?<![\w+-])(?<!\d[,.])(?<!\b\d )(?<!\b\d\d )(?<!\b\d{3} )(?<!\b\d{4} )"
     r"(?:\+46 ?|0)7[02369](?:[- ]?\d){7}(?![\w-])(?! \d{1,4}\b)"
 )
-EPOST = re.compile(r"(?:[\w.+-]|\\_)+@[\w-]+(?:\.[\w-]+)+")
+# Börjar bara där ett ord börjar; annars prövas varje bokstav i varje ord.
+EPOST = re.compile(r"(?<![\w.+-])(?:[\w.+-]|\\_)+@[\w-]+(?:\.[\w-]+)+")
 # Efterleden är en fast lista, så att "platser" eller "vägar" följt av tal
 # i en tabellrad inte läses som en adress.
 EFTERLED = "väg|vägen|gata|gatan|gränd|gränden|stig|stigen|backe|backen"

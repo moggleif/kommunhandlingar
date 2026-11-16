@@ -12,6 +12,8 @@ Varje fel skrivs ut, och kommandot avslutas med fel om något hittades.
 
 import re
 import sys
+from functools import partial
+from multiprocessing import Pool
 from pathlib import Path
 
 from kommunhandlingar import datakontroll_tolkning, frontmatter
@@ -32,12 +34,16 @@ OBEKRAFTADE = {"ocr", "ej-konverterad"}
 
 
 def fel_i(data: Path) -> list[str]:
-    fel = []
-    for fil in sorted(data.rglob("*")):
-        if fil.is_file():
-            relativ = fil.relative_to(data).as_posix()
-            fel += [f"{relativ}: {f}" for f in filfel(data, fil)]
-    return fel
+    """Filerna prövas var för sig, på alla kärnor, i sorterad ordning."""
+    filer = [fil for fil in sorted(data.rglob("*")) if fil.is_file()]
+    with Pool() as pool:
+        fel = pool.map(partial(fel_i_fil, data), filer, chunksize=64)
+    return [rad for filens in fel for rad in filens]
+
+
+def fel_i_fil(data: Path, fil: Path) -> list[str]:
+    relativ = fil.relative_to(data).as_posix()
+    return [f"{relativ}: {f}" for f in filfel(data, fil)]
 
 
 def filfel(data: Path, fil: Path) -> list[str]:
