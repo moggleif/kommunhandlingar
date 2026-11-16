@@ -7,7 +7,7 @@ sidor och filer skrivna för hand.
 """
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall
 from kommunhandlingar.webbplats.sparslag import SLAGEN
 
 INLEDNING = """# kommunhandlingar
@@ -18,7 +18,7 @@ INLEDNING = """# kommunhandlingar
 
 Varje dokument börjar med front matter: varifrån det kom, när det hämtades
 och hur väl konverteringen lyckades. Fälten förklaras i
-[arkitekturen]({repo}/blob/main/docs/03-ARKITEKTUR.md#front-matter).
+[arkitekturen]({kod}/blob/main/docs/03-ARKITEKTUR.md#front-matter).
 `kvalitet` säger hur texten lästes. Tal på sidorna i `tal_obekraftade` är
 inte bekräftade och ska inte användas som data. Ett fält utan värde är
 `null`; tomt är inte noll. Poolen återger källan och drar inga slutsatser.
@@ -37,7 +37,7 @@ läs det då på sidan. `arenden` i indexet är protokollets alla diarienummer.
 
 
 def llms(mall: Mall) -> str:
-    avsnitt = [INLEDNING.format(repo=mall.repo)]
+    avsnitt = [INLEDNING.format(repo=mall.repo, kod=KALLKOD)]
     avsnitt += [kommunavsnitt(mall, kommun) for kommun in mall.kommuner]
     return "\n".join(avsnitt)
 

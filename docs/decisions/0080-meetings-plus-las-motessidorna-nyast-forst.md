@@ -157,3 +157,13 @@ regionen stannade efter 37 minuter på ett anslutningsfel på en av
 omkring 1 100 mötessidor, och ingenting hämtades. Med så många sidor
 blir det för ofta, så en mötessida som inte går att hämta stoppar nu
 bara sitt organs dag (K57).
+
+**Tillägg 2026-11-16, webbplatsen.** Regionens webbplats byggs i
+datarepot med samma kod och samma sidor, och publiceras på dess GitHub
+Pages. Sidornas länkar till data, Markdown-filer och issues går till
+datarepot, som skickas till bygget, men länkarna till arkitekturen,
+ADR:erna och Bidra går till kommunhandlingar (`KALLKOD` i
+`webbplats/mall.py`), eftersom dokumentationen bara finns här. En
+konstant räcker: koden har ett hem, och ett andra argument eller ett fält
+i kommunfilen hade bara kunnat ha det värdet (K14). Länkarna går till
+`main` och kan beskriva en nyare version än den regionen kör.

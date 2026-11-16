@@ -10,7 +10,7 @@ from pathlib import Path
 from kommunhandlingar.frontmatter import FALT
 from kommunhandlingar.webbplats.bygg import bygg
 from kommunhandlingar.webbplats.llms import handskrivna
-from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument
 
 MOTE = Path("fsn") / "2024" / "2024-05-02"
@@ -86,7 +86,8 @@ class TestIndex(Index):
         text = self.llms()
         self.assertTrue(text.startswith("# kommunhandlingar\n\n> "))
         self.assertIn("`tal_obekraftade`", text)
-        self.assertIn(f"{REPO}/blob/main/docs/03-ARKITEKTUR.md#front-matter", text)
+        self.assertIn(f"{KALLKOD}/blob/main/docs/03-ARKITEKTUR.md#front-matter", text)
+        self.assertIn(f"{REPO}/raw/main/<fil>", text)
         self.assertIn("## Exempelby kommun", text)
         self.assertIn("(exempelby/index.jsonl)", text)
         self.assertIn("[Översikt](exempelby.html)", text)

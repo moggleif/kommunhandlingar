@@ -4,12 +4,13 @@ from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.luckor import JUSTERING, Lucka, motesnamn
+from kommunhandlingar.webbplats.mall import KALLKOD
 from kommunhandlingar.webbplats.rakning import Organrad
 
 ADR = "/blob/main/docs/decisions/0020-luckor-raknas-fram-lagras-inte.md"
 
 
-def luckavsnitt(kommun: Kommun, rader: list[Organrad], repo: str) -> str:
+def luckavsnitt(kommun: Kommun, rader: list[Organrad]) -> str:
     organ = "".join(
         organluckor(kommun, rad) for rad in rader if rad.luckor or rad.tomma_ar
     )
@@ -19,7 +20,8 @@ def luckavsnitt(kommun: Kommun, rader: list[Organrad], repo: str) -> str:
         "handlingar, eller protokoll, när organet har dem vid andra sammanträden. "
         f"Ett protokoll räknas som saknat först {JUSTERING.days} dagar efter mötet. "
         "Ett år utan något dokument mellan organets första och sista står för sig. "
-        f'Hur luckorna räknas står i <a href="{escape(repo + ADR)}">ADR-0020</a>.</p>'
+        "Hur luckorna räknas står i "
+        f'<a href="{escape(KALLKOD + ADR)}">ADR-0020</a>.</p>'
         + (organ or "<p>Inga luckor.</p>")
     )
 
@@ -39,12 +41,18 @@ def tomma(ar: list[str]) -> str:
 
 
 def kallor(kommun: Kommun, organ_id: str) -> str:
-    return ", ".join(
+    sitevision = [
         f'<a href="{escape(kalla.sidor[organ_id])}">mötessidan</a>'
         + (" och Internet Archive" if organ_id in kalla.wayback else "")
         for kalla in kommun.kallor
         if organ_id in kalla.sidor
-    )
+    ]
+    meetingsplus = [
+        f'<a href="{escape(kalla.sidor[organ_id])}">organets sida på Meetings Plus</a>'
+        for kalla in kommun.meetingsplus_kallor
+        if organ_id in kalla.sidor
+    ]
+    return ", ".join(sitevision + meetingsplus)
 
 
 def post(lucka: Lucka) -> str:

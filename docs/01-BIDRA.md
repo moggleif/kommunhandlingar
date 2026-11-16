@@ -54,7 +54,9 @@ kontrollerar också att inga binärer är incheckade.
 ## Webbplatsen
 
 Webbplatsen byggs lokalt, från repots rot, till en katalog som öppnas i
-webbläsaren (K14, K18, K33, ADR-0012, ADR-0023, ADR-0054). Det sista
+webbläsaren (K14, K18, K33, ADR-0012, ADR-0023, ADR-0054). Repoadressen
+är repot med poolens data och issues; ett eget datarepo, som Region
+Hallands, anger sitt. Dokumentationen länkas alltid här. Det sista
 argumentet är filen med avvikelserna i källan, ett issue per rad; en tom
 fil ger en sida utan avvikelser. Med hela poolen tar det ett par minuter:
 

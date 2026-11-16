@@ -8,11 +8,12 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from kommunhandlingar import frontmatter
+from kommunhandlingar.adaptrar import meetingsplus
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las
 from kommunhandlingar.webbplats import luckavsnitt, rakning, sidor
 from kommunhandlingar.webbplats.bygg import bygg
-from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall
 
 FIXTURER = Path(__file__).parent / "fixtures"
 REPO = "https://github.com/exempel/kommunhandlingar"
@@ -172,6 +173,26 @@ class TestSidor(unittest.TestCase):
             luckavsnitt.kallor(kommun, "bun"),
             '<a href="https://exempelby.se/bun">mötessidan</a>',
         )
+
+    def test_meetings_plus_ar_en_kalla(self):
+        kalla = meetingsplus.Kalla({"bun": "https://mp.exempelby.se/bun"}, (), ())
+        kommun = replace(exempelby(), meetingsplus_kallor=(kalla,))
+        self.assertEqual(
+            luckavsnitt.kallor(kommun, "bun"),
+            '<a href="https://exempelby.se/bun">mötessidan</a>, '
+            '<a href="https://mp.exempelby.se/bun">organets sida på Meetings Plus</a>',
+        )
+
+    def test_dokumentationen_lankas_i_kodens_repo_och_datat_i_poolens(self):
+        html = self.statussida()
+        self.assertIn(f'href="{KALLKOD}/blob/main/docs/03-ARKITEKTUR.md', html)
+        self.assertIn(f'Data: <a href="{REPO}">', html)
+        self.assertIn(f'Källkod: <a href="{KALLKOD}">', html)
+
+    def test_poolen_i_kodens_repo_lankas_en_gang(self):
+        html = sidor.startsida(Mall([exempelby()], KALLKOD, TID))
+        self.assertIn(f'Källkod och data: <a href="{KALLKOD}">', html)
+        self.assertNotIn("Data:", html)
 
     def test_ar_utan_dokument_star_per_organ(self):
         html = self.statussida(dokument(datum="2021-05-02"), dokument())
