@@ -56,7 +56,7 @@ class TestNavigering(unittest.TestCase):
             html.startswith('<nav class="sajtmeny" aria-label="Webbplatsen">')
         )
         self.assertIn(
-            '<a class="sajtnamn" href="../index.html">Kommunhandlingar</a>', html
+            '<a class="sajtnamn" href="../index.html">Exempelby kommun</a>', html
         )
         toppen = re.sub(r"</summary>.*?</details>", "</summary></details>", html)
         poster = re.findall(r"<li><(?:a [^>]*|details><summary)>([^<]+)<", toppen)
@@ -77,6 +77,11 @@ class TestNavigering(unittest.TestCase):
         self.assertNotIn("andraby/kalender.html", html)
         self.assertIn('<p class="grupp">Organen</p>', html)
         self.assertNotIn('<p class="grupp"></p>', html)
+        self.assertIn('aria-current="page">Kommunhandlingar</a>', html)
+
+    def test_sidan_heter_som_sin_enda_kommun(self):
+        html = sida(self.mall, "exempelby/fsn.html", "Förskolan", "")
+        self.assertIn("<title>Förskolan – Exempelby kommun</title>", html)
 
     def test_sidan_laddar_den_gemensamma_menyn_fran_giffa(self):
         html = sida(self.mall, "index.html", "Start", "")

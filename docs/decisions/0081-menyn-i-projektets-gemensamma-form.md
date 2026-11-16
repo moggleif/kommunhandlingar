@@ -54,3 +54,8 @@ sist står avvikelserna. Så ryms fem kommuner inom sex poster.
 
 `tests/test_navigering.py` prövar menyns form och att varje sida laddar
 `/giffa/sajter.css` och `/giffa/sajter.js` (K58).
+
+**Tillägg 2026-11-16.** En webbplats med en enda kommun heter som den, så
+att Kungsbackas sajt heter "Kungsbacka kommun" och regionens datarepo
+"Region Halland" (ADR-0080). Projektägaren valde namnen. Med flera kommuner
+heter sajten "Kommunhandlingar" som förut (K58).

@@ -1903,6 +1903,11 @@ Hur och varför står i
 - **Så** har den en `nav class="sajtmeny"` med sajtens namn som länk till
   startsidan och en lista med en undermeny för varje kommun och sist
   avvikelserna, så att fem kommuner ryms inom sex poster.
+- **Givet** en webbplats med en enda kommun, som Kungsbackas eller ett
+  eget datarepo
+- **När** den byggs
+- **Så** heter sajten som kommunen, i menyn, på startsidan och i varje
+  sidas titel. Med flera kommuner heter den "Kommunhandlingar".
 - **Givet** en kommun
 - **När** menyn byggs
 - **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"
