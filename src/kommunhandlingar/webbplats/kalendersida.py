@@ -1,6 +1,6 @@
-"""Krav: K22, K32, K49 och K51 i docs/02-KRAV.md, ADR-0032, ADR-0053, ADR-0072
-och ADR-0074. Test: tests/test_kalender.py, tests/test_gruppmoten.py och
-tests/test_tema.py.
+"""Krav: K22, K32, K49, K51 och K58 i docs/02-KRAV.md, ADR-0032, ADR-0053,
+ADR-0072, ADR-0074 och ADR-0084. Test: tests/test_kalender.py,
+tests/test_gruppmoten.py, tests/test_tema.py och tests/test_navigering.py.
 
 Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen och
 källorna per organ och år, urvalet av organ, en tabell per månad och
@@ -19,8 +19,8 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import kalendervyer
 from kommunhandlingar.webbplats.kalender import GRUPPMOTE, Sammantrade, gruppmoten
 from kommunhandlingar.webbplats.kalenderfarger import farger, stil
-from kommunhandlingar.webbplats.mall import KALLKOD, Mall, rot, sida, stig
-from kommunhandlingar.webbplats.meny import kommunens, oversiktsnamn
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall, sida
+from kommunhandlingar.webbplats.meny import kommunens
 
 SKRIPT = Path(__file__).with_name("kalender.js")
 ADR = "/blob/main/docs/decisions/"
@@ -65,8 +65,7 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
     if moten:
         namn[GRUPPMOTE] = f"Partiernas gruppmöte inför {namn[kommun.gruppmote.fore]}"
     innehall = (
-        stig([(f"{rot(adress)}{kommun.id}.html", oversiktsnamn(mall.kommuner, kommun))])
-        + f"<style>{STIL}{stil(farg)}</style>"
+        f"<style>{STIL}{stil(farg)}</style>"
         + INLEDNING
         + kvalitet(mall, sammantraden, namn)
         + om_gruppmoten(kommun, moten, namn)

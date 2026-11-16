@@ -1,6 +1,6 @@
 """Krav: K39 och K58 i docs/02-KRAV.md, ADR-0060 och ADR-0081. Kod:
 src/kommunhandlingar/webbplats/meny.py, organordning.py, flikar.py, oversikt.py,
-organsida.py, sparsida.py och malsida.py."""
+organsida.py, sparsida.py, malsida.py och kalendersida.py."""
 
 import re
 import unittest
@@ -8,6 +8,7 @@ from collections import Counter
 from dataclasses import replace
 
 from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
+from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.mal import Mal
 from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.meny import kommunens, meny, oversiktsnamn
@@ -60,7 +61,9 @@ class TestNavigering(unittest.TestCase):
         )
         toppen = re.sub(r"</summary>.*?</details>", "</summary></details>", html)
         poster = re.findall(r"<li><(?:a [^>]*|details><summary)>([^<]+)<", toppen)
-        self.assertEqual(poster, ["Kalender", "Organen", "Om poolen"])
+        self.assertEqual(
+            poster, ["Handlingar och protokoll", "Kalender", "Organen", "Om poolen"]
+        )
         self.assertNotIn(f"<summary>{exempelby().namn}</summary>", html)
         self.assertNotIn('class="grupp"', html)
         self.assertIn('href="../exempelby/fsn.html" aria-current="page"', html)
@@ -71,6 +74,13 @@ class TestNavigering(unittest.TestCase):
             html,
         )
         self.assertTrue(html.endswith("</ul></nav>"))
+
+    def test_kalendern_har_ingen_stig_till_oversikten(self):
+        kalender = kalendersida(self.mall, exempelby(), [])
+        self.assertNotIn('aria-label="Här är du"', kalender)
+        self.assertIn('<a href="../index.html">Handlingar och protokoll</a>', kalender)
+        flera = Mall([exempelby(), replace(exempelby(), id="andraby")], REPO, TID)
+        self.assertNotIn('aria-label="Här är du"', kalendersida(flera, exempelby(), []))
 
     def test_en_kommun_utan_kalender_har_ingen_kalenderpost(self):
         html = meny([exempelby()], frozenset(), "index.html")
