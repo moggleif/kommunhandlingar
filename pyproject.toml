@@ -21,6 +21,11 @@ dependencies = [
 # Samma versioner i CI och lokalt; Dependabot håller dem uppdaterade.
 utveckling = ["ruff==0.17.4", "pip-audit==2.10.1"]
 
+# Webbplatsens skript och stilar följer med paketet, så att ett datarepo som
+# installerar en fast version kan bygga sidorna (ADR-0080).
+[tool.setuptools.package-data]
+"kommunhandlingar.webbplats" = ["*.js", "*.css"]
+
 [tool.ruff.lint]
 # Vanliga felkontroller plus gränserna i "Ren kod – strikt" i AGENTS.md.
 # Rader per funktion och fil kontrolleras av scripts/kontrollera_storlek.py.
