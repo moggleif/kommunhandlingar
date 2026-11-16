@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54 och K56 i
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54, K56 och K58 i
 docs/02-KRAV.md.
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
@@ -30,12 +30,16 @@ from kommunhandlingar.webbplats import (
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.llms import llms
-from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
 from kommunhandlingar.webbplats.malsida import malsida
 from kommunhandlingar.webbplats.meny import statusadress
 from kommunhandlingar.webbplats.organsida import organsida
-from kommunhandlingar.webbplats.oversikt import adresser, kommunsida, oversikt
+from kommunhandlingar.webbplats.oversikt import (
+    adresser,
+    oversikt,
+    startar_pa_oversikten,
+)
 from kommunhandlingar.webbplats.rakning import okanda, rakna
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
@@ -55,7 +59,7 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
     projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
     mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
     ut.mkdir(parents=True, exist_ok=True)
-    if len(kommuner) > 1:
+    if not startar_pa_oversikten(kommuner):
         (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     (ut / "llms.txt").write_text(llms(mall), encoding="utf-8")
     for kommun in kommuner:
@@ -89,7 +93,7 @@ def bygg_oversikten(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) 
     rader = rakna(kommun, dokument, mall.byggd.date())
     innehall = oversikt(mall, kommun, rader, dokument)
     for adress in adresser(mall, kommun):
-        html = kommunsida(mall, kommun, adress, innehall)
+        html = sida(mall, adress, kommun.namn, innehall)
         (ut / adress).write_text(html, encoding="utf-8")
 
 

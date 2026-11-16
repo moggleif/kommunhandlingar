@@ -11,20 +11,20 @@ from html import escape
 
 from kommunhandlingar.konfiguration import Kommun, Organ
 from kommunhandlingar.webbplats.flikar import SIDOR, overtid
-from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.organordning import grupperade
 from kommunhandlingar.webbplats.rakning import Organrad
 
 TOM = '<td class="tom">–<span class="dold"> saknas</span></td>'
 
 
+def startar_pa_oversikten(kommuner: list[Kommun]) -> bool:
+    return len(kommuner) == 1
+
+
 def adresser(mall: Mall, kommun: Kommun) -> list[str]:
     egen = f"{kommun.id}.html"
-    return [egen, "index.html"] if len(mall.kommuner) == 1 else [egen]
-
-
-def kommunsida(mall: Mall, kommun: Kommun, adress: str, innehall: str) -> str:
-    return sida(mall, adress, kommun.namn, innehall)
+    return [egen, "index.html"] if startar_pa_oversikten(mall.kommuner) else [egen]
 
 
 def oversikt(

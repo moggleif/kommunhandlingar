@@ -1913,6 +1913,9 @@ Hur och varför står i
 - **Så** är startsidan kommunens översikt med tabellen över organen, och
   `<kommun>.html` finns kvar med samma innehåll. Med flera kommuner listar
   startsidan kommunerna.
+- **Givet** en sida vars rubrik är sajtens namn
+- **När** den byggs
+- **Så** är sidans titel bara namnet, inte namnet två gånger.
 - **Givet** en kommun
 - **När** menyn byggs
 - **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"
