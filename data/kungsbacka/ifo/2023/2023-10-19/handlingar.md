@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250803050936id_/https://kungsbacka.se/d
 sha256: c28c6242ce358eb249db49e26dcc8056d5f596d1510c4936ea4fe352ab49071b
 bytes: 7588167
 sidor: 488
-hamtad: 2026-10-20T08:45:55+00:00
-konverterad: 2026-10-20T08:47:11+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-15T22:47:57+00:00
+konverterad: 2026-11-15T22:48:44+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2167,7 +2167,6 @@ Författningsförslag                        SOU 2023:57
 
 adress som anvisas av honom. adress som anvisas av denne.
 Betalning får alltid ske genom Betalning får alltid ske genom
-
 postanvisning, postgiro eller bank- bank eller någon annan liknande
 giro. Skall hyran betalas på en ort betalningsförmedlare. Om hyran
 utom riket, är hyresvärden skyldig ska betalas på en ort utanför
@@ -2187,15 +2186,24 @@ togs emot av det förmedlande kon- ningsuppdraget togs emot.
 toret.
 
 25 §2
-När hyresgästen använder lägen- Hyresgästen ska se till att det
-heten skall han se till att de som bor som krävs för att bevara trygghet,
-i omgivningen inte utsätts för stör- sundhet, ordning och gott skick
-ningar som i sådan grad kan vara inom fastigheten inte åsidosätts när
 
-skadliga för hälsan eller annars för- han eller hon använder lägenheten
-sämra deras bostadsmiljö att de inte (bristande skötsamhet).
+När hyresgästen använder lägen-
+heten skall han se till att de som bor
+i omgivningen inte utsätts för stör-
+ningar som i sådan grad kan vara
+skadliga för hälsan eller annars för-
+sämra deras bostadsmiljö att de inte
+
+Hyresgästen ska se till att det
+som krävs för att bevara trygghet,
+sundhet, ordning och gott skick
+inom fastigheten inte åsidosätts när
+han eller hon använder lägenheten
+(bristande skötsamhet).
+
 skäligen bör tålas (störningar i
 boendet). Hyresgästen skall vid sin
+
 användning av lägenheten också i
 övrigt iaktta allt som fordras för att
 bevara sundhet, ordning och gott
@@ -2505,7 +2513,6 @@ Författningsförslag                        SOU 2023:57
 
 stående eller tidigare närstående har utsatt hyresgästen eller någon i
 hyresgästens hushåll för brott.
-
 Om avtalet sägs upp på grund av förverkande har hyresvärden rätt
 till skadestånd.
 
@@ -2514,27 +2521,50 @@ Om hyresrätten är förverkad Om hyresrätten är förverkad
 på grund av ett förhållande som på grund av ett förhållande som
 avses i 42 § första stycket 1, 2, 4, avses i 42 § första stycket 1, 2, 4,
 7, 9 eller 10 men en rättelse görs 7, 9 eller 10 men en rättelse görs
-innan hyresvärden har sagt upp innan hyresvärden har sagt upp
-avtalet, kan hyresgästen inte avtalet, kan hyresgästen inte
-skiljas från lägenheten på den skiljas från lägenheten på den
-grunden. Detta gäller dock inte grunden. Detta gäller dock inte
-om hyresrätten är förverkad på om hyresrätten är förverkad på
-grund av särskilt allvarliga stör- grund av särskilt allvarlig bris-
-ningar i boendet. Hyresgästen tande skötsamhet, särskilt allvar-
-får inte heller skiljas från lägen- liga störningar i boendet eller
-heten om hyresvärden inte har störningar i boendet enligt 25 §
-sagt upp avtalet inom två måna- tredje stycket. Hyresgästen får
-der från det att hyresvärden fick inte heller skiljas från lägenheten
-vetskap om ett förhållande som om hyresvärden inte har sagt
-avses i 42 § första stycket 8 eller upp avtalet inom två månader
-11 eller hyresvärden inte inom från det att hyresvärden fick vet-
-två månader från det att hyres- skap om ett förhållande som av-
-värden fick vetskap om ett för- ses i 42 § första stycket 8 eller 11
 
-hållande som avses i 42 § första eller hyresvärden inte inom två
-stycket 4 sagt till hyresgästen att månader från det att hyresvärden
-göra rättelse.        fick vetskap om ett förhållande
+innan hyresvärden har sagt upp
+avtalet, kan hyresgästen inte
+skiljas från lägenheten på den
+grunden. Detta gäller dock inte
+om hyresrätten är förverkad på
+grund av särskilt allvarliga stör-
+ningar i boendet. Hyresgästen
+får inte heller skiljas från lägen-
+heten om hyresvärden inte har
+sagt upp avtalet inom två måna-
+der från det att hyresvärden fick
+vetskap om ett förhållande som
+avses i 42 § första stycket 8 eller
+
+11 eller hyresvärden inte inom
+två månader från det att hyres-
+värden fick vetskap om ett för-
+hållande som avses i 42 § första
+stycket 4 sagt till hyresgästen att
+göra rättelse.
+
+innan hyresvärden har sagt upp
+avtalet, kan hyresgästen inte
+skiljas från lägenheten på den
+grunden. Detta gäller dock inte
+om hyresrätten är förverkad på
+grund av särskilt allvarlig bris-
+tande skötsamhet, särskilt allvar-
+liga störningar i boendet eller
+störningar i boendet enligt 25 §
+tredje stycket. Hyresgästen får
+inte heller skiljas från lägenheten
+om hyresvärden inte har sagt
+upp avtalet inom två månader
+
+från det att hyresvärden fick vet-
+skap om ett förhållande som av-
+ses i 42 § första stycket 8 eller 11
+eller hyresvärden inte inom två
+månader från det att hyresvärden
+fick vetskap om ett förhållande
 som avses i 42 § första stycket 4
+
 sagt till hyresgästen att göra rät-
 telse.
 Om hyresrätten är förverkad på grund av ett förhållande som avses
@@ -2603,7 +2633,6 @@ Författningsförslag                        SOU 2023:57
 
 den som är behörig att ta emot hyra på hyresvärdens vägnar. Om
 hyresgästen inte har lämnat någon särskild adressuppgift, får hyres-
-
 värden sända meddelanden till den uthyrda lägenhetens adress.
 
 72 §8
@@ -2616,22 +2645,40 @@ samt.
 
 73 §9
 I hyrestvister som avses i 49, 54 I hyrestvister som avses i 49, 54
-eller 55 f § och i mål om åtgärds- eller 55 f § och i mål om åtgärds-
-föreläggande enligt 11 § första föreläggande enligt 11 § första
-stycket 5 eller 16 § andra stycket, stycket 5 eller 16 § andra stycket,
-om upprustningsföreläggande en- om upprustningsföreläggande en-
-ligt 18 a–18 c §§, om tillstånd till ligt 18 a–18 c §§, om tillstånd till
-förbättrings- och ändringsåtgär- förbättrings- och ändringsåtgär-
-der enligt 18 d–18 f §§, om förbud der enligt 18 d–18 f §§, om förbud
-mot sådana åtgärder enligt 18 h §, mot sådana åtgärder enligt 18 h §,
-om föreläggande om nytt hyres- om föreläggande om nytt hyres-
-avtal enligt 46 b § eller om utdö- avtal enligt 46 b § eller om utdö-
-mande av vite enligt 62 § ska mande av vite enligt 62 § ska
-vardera parten svara för sin rätte- vardera parten svara för sin rätte-
 
-gångskostnad i hovrätten, om inte gångskostnad i hovrätten, om inte
-något annat följer av 18 kap. 6 § något annat följer av 18 kap. 6 eller
-rättegångsbalken.     7 § rättegångsbalken.
+eller 55 f § och i mål om åtgärds-
+föreläggande enligt 11 § första
+stycket 5 eller 16 § andra stycket,
+om upprustningsföreläggande en-
+ligt 18 a–18 c §§, om tillstånd till
+förbättrings- och ändringsåtgär-
+
+eller 55 f § och i mål om åtgärds-
+föreläggande enligt 11 § första
+stycket 5 eller 16 § andra stycket,
+om upprustningsföreläggande en-
+ligt 18 a–18 c §§, om tillstånd till
+förbättrings- och ändringsåtgär-
+
+der enligt 18 d–18 f §§, om förbud
+mot sådana åtgärder enligt 18 h §,
+om föreläggande om nytt hyres-
+avtal enligt 46 b § eller om utdö-
+mande av vite enligt 62 § ska
+vardera parten svara för sin rätte-
+gångskostnad i hovrätten, om inte
+något annat följer av 18 kap. 6 §
+rättegångsbalken.
+
+der enligt 18 d–18 f §§, om förbud
+mot sådana åtgärder enligt 18 h §,
+om föreläggande om nytt hyres-
+avtal enligt 46 b § eller om utdö-
+mande av vite enligt 62 § ska
+vardera parten svara för sin rätte-
+gångskostnad i hovrätten, om inte
+något annat följer av 18 kap. 6 eller
+7 § rättegångsbalken.
 
 1\. Denna lag träder i kraft den 1 januari 2025.
 2\. De nya bestämmelserna tillämpas även i fråga om hyresavtal
@@ -2806,7 +2853,6 @@ SOU 2023:57                              Författningsförslag
 
 lämna en underrättelse om detta ska hyresnämnden lämna en
 till socialnämnden i den kommun underrättelse om detta till social-
-
 där lägenheten är belägen. nämnden i den kommun där
 lägenheten är belägen.
 Underrättelsen till socialnämnden ska lämnas så snart som
@@ -2815,23 +2861,31 @@ behöver någon underrättelse inte lämnas.
 
 19 c §4
 Vardera parten ska svara för sina kostnader i nämnden.
-Om en part har handlat på ett Om en part har handlat med
-sådant sätt som anges i 18 kap. sådan vårdslöshet eller försummelse
-6 § rättegångsbalken får nämn- som anges i 18 kap. 6 § rätte-
-den bestämma att den parten ska gångsbalken får nämnden bestäm-
-ersätta de kostnader som han ma att den parten ska ersätta de
-eller hon har orsakat motparten. kostnader som han eller hon har
+
+Om en part har handlat på ett
+sådant sätt som anges i 18 kap.
+6 § rättegångsbalken får nämn-
+den bestämma att den parten ska
+ersätta de kostnader som han
+eller hon har orsakat motparten.
+
+Om en part har handlat med
+sådan vårdslöshet eller försummelse
+som anges i 18 kap. 6 § rätte-
+gångsbalken får nämnden bestäm-
+ma att den parten ska ersätta de
+kostnader som han eller hon har
 orsakat motparten. Har partens
 ställföreträdare, ombud eller bi-
 träde handlat på ett sådant sätt får
 nämnden bestämma att han eller
+
 hon tillsammans med parten ska
 ersätta sådana kostnader.
 I fråga om hur kostnader ska fördelas i ett ärende som nämnden
 ska avgöra genom skiljedom gäller i stället 15 § andra stycket.
 
 23 §5
-
 Det finns bestämmelser om överklagande av hyresnämndens
 beslut i
 – 12 kap. 70 § jordabalken,
@@ -2841,6 +2895,7 @@ beslut i
 – 11 kap. 3 § bostadsrättslagen (1991:614),
 – 34 § bostadsförvaltningslagen (1977:792), och
 – 15 § lagen (1982:352) om rätt till fastighetsförvärv för ombild-
+
 ning till bostadsrätt eller kooperativ hyresrätt.
 
 4 Senaste lydelse 2019:246.
@@ -2989,15 +3044,24 @@ följande lydelse.
 Nuvarande lydelse     Föreslagen lydelse
 
 16 §1
-När rättshjälp har beviljats, När rättshjälp har beviljats,
-betalar staten kostnaderna för betalar staten kostnaderna för
-bevisning vid allmän domstol och bevisning vid allmän domstol,
-Arbetsdomstolen. Om inte något Arbetsdomstolen, arrendenämnd
-annat följer av lag eller föreskrifter och hyresnämnd. Om inte något
 
-som lämnats med stöd av lag annat följer av lag eller föreskrifter
-lämnas ersättning för bevisning som lämnats med stöd av lag
-med skäligt belopp.   lämnas ersättning för bevisning
+När rättshjälp har beviljats,
+betalar staten kostnaderna för
+bevisning vid allmän domstol och
+Arbetsdomstolen. Om inte något
+annat följer av lag eller föreskrifter
+som lämnats med stöd av lag
+lämnas ersättning för bevisning
+med skäligt belopp.
+
+När rättshjälp har beviljats,
+betalar staten kostnaderna för
+bevisning vid allmän domstol,
+Arbetsdomstolen, arrendenämnd
+och hyresnämnd. Om inte något
+annat följer av lag eller föreskrifter
+som lämnats med stöd av lag
+lämnas ersättning för bevisning
 med skäligt belopp.
 
 Denna lag träder i kraft den 1 januari 2025.
@@ -3019,8 +3083,8 @@ nämndsinstruktion ska ha följande lydelse.
 Nuvarande lydelse     Föreslagen lydelse
 
 15 §1
-Chefen för hyresnämnden får förordna den som har tillräcklig
 
+Chefen för hyresnämnden får förordna den som har tillräcklig
 kunskap och erfarenhet och som är anställd vid en hyresnämnd, en
 allmän domstol eller en allmän förvaltningsdomstol att på eget
 ansvar
@@ -3033,6 +3097,7 @@ görelser och uppgifter som hyresnämnden ska utfärda eller avge i
 samband med beslut,
 4\. fullgöra hyresnämndens uppgifter i samband med delgivningar,
 5\. förordna tolk,
+
 6\. besluta om ersättning enligt förordningen (1982:805) om er-
 sättning av allmänna medel till vittnen, m.m. samt om ersättning till
 tolkar, och
@@ -3040,15 +3105,24 @@ tolkar, och
 kommit in i rätt tid och, om så är fallet, vidta de åtgärder som detta
 medför.
 Chefen för hyresnämnden får Chefen för hyresnämnden får
-också förordna den som har till- också förordna den som har till-
-räcklig kunskap och erfarenhet räcklig kunskap och erfarenhet
-och som är anställd vid nämnden och som är anställd vid nämnden
-att på eget ansvar pröva en fråga att på eget ansvar,
-om godkännande av en överens- 1. besluta om avskrivning av ett
 
-kommelse som avses i 12 kap. 45 a ärende när ansökan har återkallats,
-och 56 §§ jordabalken. Ett förord- 2. besluta om avskrivning av ett
-nande får bara avse enkla ärenden ärende om medling enligt 12 kap.
+också förordna den som har till-
+räcklig kunskap och erfarenhet
+och som är anställd vid nämnden
+att på eget ansvar pröva en fråga
+om godkännande av en överens-
+kommelse som avses i 12 kap. 45 a
+och 56 §§ jordabalken. Ett förord-
+nande får bara avse enkla ärenden
+
+också förordna den som har till-
+räcklig kunskap och erfarenhet
+och som är anställd vid nämnden
+att på eget ansvar,
+1\. besluta om avskrivning av ett
+ärende när ansökan har återkallats,
+2\. besluta om avskrivning av ett
+ärende om medling enligt 12 kap.
 
 1 Senaste lydelse 2019:270.
 
@@ -14285,69 +14359,104 @@ den 1 september 2023.
 
 <!-- sida 326 -->
 
-Statens offentliga utredningar  2023
+Statens  offentliga utredningar 2023
 
 Kronologisk förteckning
 
-1\. Skärpta straff för flerfaldig brottslig- 17. En tydligare bestämmelse om hets
-het. Ju.               mot folkgrupp. Ju.
-2\. En inre marknad för digitala tjänster 18. Värdet av vinden. Kompensation,
-– ansvarsfördelning mellan myndig- incitament och planering för
-heter. Fi.             en hållbar fortsatt utbyggnad av
-3\. Nya regler om nödlidande kreditavtal vindkraften. Del 1 och 2. KN.
-och inkassoverksamhet. Ju. 19. Statlig forskningsfinansiering.
-4\. Posttjänst för hela slanten. Underlagsrapporter. U.
-Finansieringsmodeller för framtidens 20. Förbud mot bottentrålning i marina
-samhällsomfattande posttjänst. Fi. skyddade områden. LI.
-5\. Från delar till helhet. Tvångsvården 21. Informationsförsörjning på
-som en del av en sammanhållen och skolområdet. Skolverkets ansvar. U.
-personcentrerad vårdkedja. S. 22. Datalagring och åtkomst till
-6\. En lag om tilläggsskatt för företag elektronisk information. Ju.
-i stora koncerner. Fi. 23. Ett modernare socialförsäkringsskydd
-7\. På egna ben.         för gravida. S.
-Utvecklad samverkan för individers 24. Etablering för fler – jämställda möjlig-
-etablering på arbetsmarknaden. A. heter till integration. A.
-8\. Arbetslivskriminalitet – arbetet 25. Kunskapskrav för permanent uppe-
-i Sverige, en bedömning av omfatt- hållstillstånd. Ju.
+1\. Skärpta straff för flerfaldig brottslig-
+het. Ju.
+2\. En inre marknad för digitala tjänster
+– ansvarsfördelning mellan myndig-
+heter. Fi.
+3\. Nya regler om nödlidande kreditavtal
+och inkassoverksamhet. Ju.
+4\. Posttjänst för hela slanten.
+Finansieringsmodeller för framtidens
+samhällsomfattande posttjänst. Fi.
+5\. Från delar till helhet. Tvångsvården
+som en del av en sammanhållen och
+personcentrerad vårdkedja. S.
+6\. En lag om tilläggsskatt för företag
+i stora koncerner. Fi.
+7\. På egna ben.
+Utvecklad samverkan för individers
+etablering på arbetsmarknaden. A.
+8\. Arbetslivskriminalitet – arbetet
+i Sverige, en bedömning av omfatt-
 ningen, lärdomar från Danmark och
-26\. Översyn av entreprenörsansvaret. A.
 Finland. A.
-27\. Kamerabevakning för ett bättre djur-
 9\. Ett statligt huvudmannaskap
-skydd. LI.
 för personlig assistans.
-Ökad likvärdighet, långsiktighet 28. Samhället mot skolattacker. U.
-och kvalitet. S.     29. Varje rörelse räknas – hur skapar
-10\. Tandvårdens stöd till våldsutsatta vi ett samhälle som främjar fysisk
-patienter. S.          aktivitet? S.
-11\. Tillfälligt miljötillstånd för 30. Ett trygghetssystem för alla. Nytt
-samhällsviktig verksamhet regelverk för sjukpenninggrundande
-– för ökad försörjningsberedskap. KN. inkomst. S.
-12\. Förstärkt skydd för demokratin 31. Framtidens yrkeshögskola
-och domstolarnas oberoende. Ju. – stabil, effektiv och hållbar. U.
-13\. Patientöversikter inom EES och 32. Biometri – för en effektivare
-Sverige. S.            brottsbekämpning. Ju.
-14\. Organisera för hållbar utveckling. 33. Ett förbättrat resegarantisystem. Fi.
-KN.                  34. Bolag och brott – några åtgärder
-15\. Förnybart i tanken. Ett styrmedels- mot oseriösa företag. Ju.
-förslag för en stärkt bioekonomi. LI. 35. Nya regler om hållbarhetsredovisning.
-16\. Staten och betalningarna. Ju.
-Del 1 och 2. Fi.     36. Genomförande av minimilöne-
+Ökad likvärdighet, långsiktighet
+och kvalitet. S.
+10\. Tandvårdens stöd till våldsutsatta
+patienter. S.
+11\. Tillfälligt miljötillstånd för
+samhällsviktig verksamhet
+– för ökad försörjningsberedskap. KN.
+12\. Förstärkt skydd för demokratin
+och domstolarnas oberoende. Ju.
+13\. Patientöversikter inom EES och
+Sverige. S.
+14\. Organisera för hållbar utveckling.
+KN.
+15\. Förnybart i tanken. Ett styrmedels-
+förslag för en stärkt bioekonomi. LI.
+16\. Staten och betalningarna.
+Del 1 och 2. Fi.
+
+17\. En tydligare bestämmelse om hets
+mot folkgrupp. Ju.
+18\. Värdet av vinden. Kompensation,
+incitament och planering för
+en hållbar fortsatt utbyggnad av
+vindkraften. Del 1 och 2. KN.
+19\. Statlig forskningsfinansiering.
+Underlagsrapporter. U.
+20\. Förbud mot bottentrålning i marina
+skyddade områden. LI.
+21\. Informationsförsörjning på
+skolområdet. Skolverkets ansvar. U.
+22\. Datalagring och åtkomst till
+elektronisk information. Ju.
+23\. Ett modernare socialförsäkringsskydd
+för gravida. S.
+24\. Etablering för fler – jämställda möjlig-
+heter till integration. A.
+25\. Kunskapskrav för permanent uppe-
+hållstillstånd. Ju.
+26\. Översyn av entreprenörsansvaret. A.
+27\. Kamerabevakning för ett bättre djur-
+skydd. LI.
+28\. Samhället mot skolattacker. U.
+29\. Varje rörelse räknas – hur skapar
+vi ett samhälle som främjar fysisk
+aktivitet? S.
+30\. Ett trygghetssystem för alla. Nytt
+regelverk för sjukpenninggrundande
+inkomst. S.
+31\. Framtidens yrkeshögskola
+– stabil, effektiv och hållbar. U.
+32\. Biometri – för en effektivare
+brottsbekämpning. Ju.
+33\. Ett förbättrat resegarantisystem. Fi.
+34\. Bolag och brott – några åtgärder
+mot oseriösa företag. Ju.
+35\. Nya regler om hållbarhetsredovisning.
+Ju.
+36\. Genomförande av minimilöne-
 direktivet. A.
 
 <!-- sida 327 -->
 
-37\. Förstärkt skydd för den personliga 54. Centraliseringen av administrativa
-integriteten. Behovet av åtgärder mot tjänster till Statens servicecenter
-oskuldskontroller, oskuldsintyg och – en utvärdering. Fi.
-oskuldsingrepp samt omvändelseför- 55. Vem äger fastigheten. Ju.
+37\. Förstärkt skydd för den personliga
+integriteten. Behovet av åtgärder mot
+oskuldskontroller, oskuldsintyg och
+oskuldsingrepp samt omvändelseför-
 sök. Ju.
-56\. Några smittskyddsfrågor inom social-
-38\. Ett förstärkt konsumentskydd tjänsten och socialförsäkringen. S.
+38\. Ett förstärkt konsumentskydd
 mot riskfylld kreditgivning
-57\. Åtgärder för tryggare
 och överskuldsättning. Fi.
-bostadsområden. Ju.
 39\. En inre marknad för digitala tjänster
 – kompletteringar och ändringar i
 svensk rätt. Fi.
@@ -14389,82 +14498,121 @@ ring – för bättre ekonomisk trygghet,
 kunskap och rättssäkerhet. Volym 1
 och 2. S.
 
+54\. Centraliseringen av administrativa
+tjänster till Statens servicecenter
+– en utvärdering. Fi.
+55\. Vem äger fastigheten. Ju.
+56\. Några smittskyddsfrågor inom social-
+tjänsten och socialförsäkringen. S.
+57\. Åtgärder för tryggare
+bostadsområden. Ju.
+
 <!-- sida 328 -->
 
-Statens offentliga utredningar  2023
+Statens  offentliga utredningar 2023
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Skyddet för EU:s finansiella intressen.
-På egna ben.            Ändringar och kompletteringar
-Utvecklad samverkan för individers i svensk rätt. [49]
-etablering på arbetsmarknaden. [7] Centraliseringen av administrativa tjänster
-Arbetslivskriminalitet – arbetet i Sverige, till Statens servicecenter
-en bedömning av omfattningen, – en utvärdering. [54]
+Arbetsmarknadsdepartementet
+På egna ben.
+Utvecklad samverkan för individers
+etablering på arbetsmarknaden. [7]
+Arbetslivskriminalitet – arbetet i Sverige,
+en bedömning av omfattningen,
 lärdomar från Danmark och Finland. [8]
-Etablering för fler – jämställda möjligheter Försvarsdepartementet
-till integration. [24] En modell för svensk försörjnings-
-Översyn av entreprenörsansvaret. [26] beredskap. [50]
-Genomförande av minimilönedirektivet. Signalspaning i försvars-
-[36]                  underrättelseverksamhet
-– frågor med anledning
+Etablering för fler – jämställda möjligheter
+till integration. [24]
+Översyn av entreprenörsansvaret. [26]
+Genomförande av minimilönedirektivet.
+[36]
 Förutsättningarna för en ny kollektiv-
-av Europadomstolens dom. [51]
 avtalad arbetslöshetsförsäkring. [41]
-Justitiedepartementet
 Finansdepartementet
-Skärpta straff för flerfaldig brottslighet. [1]
 En inre marknad för digitala tjänster
-– ansvarsfördelning mellan myndig- Nya regler om nödlidande kreditavtal och
-heter. [2]            inkassoverksamhet. [3]
-Posttjänst för hela slanten. Förstärkt skydd för demokratin
-Finansieringsmodeller för framtidens och domstolarnas oberoende. [12]
-samhällsomfattande posttjänst. [4] En tydligare bestämmelse om hets mot
-En lag om tilläggsskatt för företag i stora folkgrupp. [17]
-koncerner. [6]      Datalagring och åtkomst till elektronisk
-Staten och betalningarna. Del 1 och 2. [16] information. [22]
-Ett förbättrat resegarantisystem. [33] Kunskapskrav för permanent uppehålls-
-tillstånd. [25]
+– ansvarsfördelning mellan myndig-
+heter. [2]
+Posttjänst för hela slanten.
+Finansieringsmodeller för framtidens
+samhällsomfattande posttjänst. [4]
+En lag om tilläggsskatt för företag i stora
+koncerner. [6]
+Staten och betalningarna. Del 1 och 2. [16]
+Ett förbättrat resegarantisystem. [33]
 Ett förstärkt konsumentskydd
-mot riskfylld kreditgivning Biometri – för en effektivare
-och överskuldsättning. [38] brottsbekämpning. [32]
-En inre marknad för digitala tjänster - Bolag och brott – några åtgärder
-kompletteringar och ändringar mot oseriösa företag. [34]
-i svensk rätt. [39] Nya regler om hållbarhetsredovisning. [35]
-En samordnad registerkontroll Förstärkt skydd för den personliga
-för upphandlande myndigheter integriteten. Behovet av åtgärder
-och enheter. [43]     mot oskuldskontroller, oskuldsintyg
-Övergångsrestriktioner – ökat förtroende och oskuldsingrepp samt omvändelse-
-för offentlig verksamhet. [45] försök. [37]
-En utvecklad arbetsgivardeklaration En översyn av regleringen om frihets-
-– åtgärder mot missbruk av berövande påföljder för unga. [44]
-välfärdssystemen. [47]. Vem äger fastigheten. [55]
+mot riskfylld kreditgivning
+och överskuldsättning. [38]
+En inre marknad för digitala tjänster -
+kompletteringar och ändringar
+i svensk rätt. [39]
+En samordnad registerkontroll
+för upphandlande myndigheter
+och enheter. [43]
+Övergångsrestriktioner – ökat förtroende
+för offentlig verksamhet. [45]
+En utvecklad arbetsgivardeklaration
+– åtgärder mot missbruk av
+välfärdssystemen. [47].
+
+Skyddet för EU:s finansiella intressen.
+Ändringar och kompletteringar
+i svensk rätt. [49]
+Centraliseringen av administrativa tjänster
+till Statens servicecenter
+– en utvärdering. [54]
+Försvarsdepartementet
+En modell för svensk försörjnings-
+beredskap. [50]
+Signalspaning i försvars-
+underrättelseverksamhet
+– frågor med anledning
+av Europadomstolens dom. [51]
+Justitiedepartementet
+Skärpta straff för flerfaldig brottslighet. [1]
+Nya regler om nödlidande kreditavtal och
+inkassoverksamhet. [3]
+Förstärkt skydd för demokratin
+och domstolarnas oberoende. [12]
+En tydligare bestämmelse om hets mot
+folkgrupp. [17]
+Datalagring och åtkomst till elektronisk
+information. [22]
+Kunskapskrav för permanent uppehålls-
+tillstånd. [25]
+Biometri – för en effektivare
+brottsbekämpning. [32]
+Bolag och brott – några åtgärder
+mot oseriösa företag. [34]
+Nya regler om hållbarhetsredovisning. [35]
+Förstärkt skydd för den personliga
+integriteten. Behovet av åtgärder
+mot oskuldskontroller, oskuldsintyg
+och oskuldsingrepp samt omvändelse-
+försök. [37]
+En översyn av regleringen om frihets-
+berövande påföljder för unga. [44]
+Vem äger fastigheten. [55]
 
 <!-- sida 329 -->
 
-Åtgärder för tryggare bostadsområden. En ändamålsenlig arbetsskadeförsäkring
-[57]                   – för bättre ekonomisk trygghet,
-kunskap och rättssäkerhet. Volym 1
-och 2. [53]
+Åtgärder för tryggare bostadsområden.
+[57]
+
 Klimat- och näringslivsdepartementet
-Några smittskyddsfrågor inom social-
 Tillfälligt miljötillstånd för
-tjänsten och socialförsäkringen. [56]
 samhällsviktig verksamhet
 – för ökad försörjningsberedskap. [11]
-Organisera för hållbar utveckling. [14] Utbildningsdepartementet
-Värdet av vinden. Kompensation, Statlig forskningsfinansiering.
-incitament och planering för Underlagsrapporter. [19]
-en hållbar fortsatt utbyggnad av Informationsförsörjning på skolområdet.
-vindkraften. Del 1 och 2. [18] Skolverkets ansvar. [21]
-Samhället mot skolattacker. [28]
-Landsbygds- och infrastrukturdepartementet Framtidens yrkeshögskola
-Förnybart i tanken. Ett styrmedelsförslag – stabil, effektiv och hållbar. [31]
+Organisera för hållbar utveckling. [14]
+Värdet av vinden. Kompensation,
+incitament och planering för
+en hållbar fortsatt utbyggnad av
+vindkraften. Del 1 och 2. [18]
+Landsbygds- och infrastrukturdepartementet
+Förnybart i tanken. Ett styrmedelsförslag
 för en stärkt bioekonomi. [15]
-Förbud mot bottentrålning i marina Utrikesdepartementet
-skyddade områden. [20] Ett modernare regelverk för legaliseringar,
-Kamerabevakning för ett bättre apostille och andra former av intygan-
-djurskydd. [27]        den. [42]
+Förbud mot bottentrålning i marina
+skyddade områden. [20]
+Kamerabevakning för ett bättre
+djurskydd. [27]
 Jakt och fiske i renbetesland. [46]
 Socialdepartementet
 Från delar till helhet. Tvångsvården
@@ -14492,6 +14640,25 @@ konventionen. [40]
 Rätt förutsättningar för sjukskrivning. [48]
 Ett stärkt och samlat skydd
 av välfärdssystemen. [52]
+
+En ändamålsenlig arbetsskadeförsäkring
+– för bättre ekonomisk trygghet,
+kunskap och rättssäkerhet. Volym 1
+och 2. [53]
+Några smittskyddsfrågor inom social-
+tjänsten och socialförsäkringen. [56]
+Utbildningsdepartementet
+Statlig forskningsfinansiering.
+Underlagsrapporter. [19]
+Informationsförsörjning på skolområdet.
+Skolverkets ansvar. [21]
+Samhället mot skolattacker. [28]
+Framtidens yrkeshögskola
+– stabil, effektiv och hållbar. [31]
+Utrikesdepartementet
+Ett modernare regelverk för legaliseringar,
+apostille och andra former av intygan-
+den. [42]
 
 <!-- sida 330 -->
 
@@ -20095,7 +20262,7 @@ Bilaga 1 – Källförteckning .................................................
 
 <!-- sida 464 -->
 
-1\. Sammanställd bedömning  och slutsatser
+1\. Sammanställd  bedömning  och slutsatser
 
 Den uppföljande granskningen visar att styrelse och nämnder delvis Nämnden för Individ & familjeomsorg
 har omhändertagit de rekommendationer som lämnades i 2021 års
@@ -20103,33 +20270,55 @@ Granskning av åtgärdsarbetet inom nämnden för Individ- &
 granskningar. Utifrån bedömningen att rekommendationerna inte
 eller endast delvis är omhändertagna kvarstår följande familjeomsorg
 rekommendationer:
- Säkerställ att nämndens styrning och uppföljning omfattar
-barnperspektivet i enlighet med lag och föreskrifter
+  Säkerställ att nämndens styrning och uppföljning omfattar
+
 Kommunstyrelsen
-Granskning av kommunens interna kontroller för att motverka  Säkerställa att risk- och konsekvensanalyser genomförs och
-följs upp på ett systematiskt sätt i enlighet med nämndens
+Granskning av kommunens interna kontroller för att motverka
 välfärdsbrott.
-ledningssystem för systematiskt kvalitetsarbete
   Tillse att en kommunövergripande handlingsplan för att
 motverka kvalificerade välfärdsbrott utarbetas
-Granskning av kommunens interna kontroller för att motverka
-  Tillse att kommunövergripande riktlinjer kopplat till välfärdsbrott
+  Tillse att kommunövergripande riktlinjer kopplat till
 kvalificerade välfärdsbrott i vidare bemärkelse utarbetas
-  Tillse att uppföljningen av nämnders arbete mot kvalificerade  Tillse att handläggare ute i linjen har det stöd som behövs i
-välfärdsbrott förstärks                           form av rutiner, metoder och verktyg för att förebygga,
-  Tillse att kommunens övergripande samordning, infrastruktur upptäcka och utreda kvalificerade välfärdsbrott
-och stödverksamhet för arbetet mot välfärdsbrott förstärks  Tillse att kompetensnivån kring kvalificerade välfärdsbrott
-  Tillse att nämnder samlar information och för statistik kopplat höjs genom att en anpassad utbildningsplan utarbetas och
-till kvalificerade välfärdsbrott och regelbundet rapporterar implementeras
-dessa till kommunstyrelsen                       Tillse att nämndspecifika riktlinjer utarbetas som ger konkret
+  Tillse att uppföljningen av nämnders arbete mot kvalificerade
+välfärdsbrott förstärks
+
+  Tillse att kommunens övergripande samordning, infrastruktur
+och stödverksamhet för arbetet mot välfärdsbrott förstärks
+  Tillse att nämnder samlar information och för statistik kopplat
+till kvalificerade välfärdsbrott och regelbundet rapporterar
+dessa till kommunstyrelsen
+
+Nämnden för service
+Granskning av måltidsverksamhet
+  Överväg att inför styrning samt följa upp kvalitetsmål
+gällande kundnöjdheten för måltidsverksamheten
+  Tydliggör uppföljningen av mål i styrkort eftersom inte alla
+mål följs upp med ordinarie processer i april- och
+delårsuppföljningen
+
+barnperspektivet i enlighet med lag och föreskrifter
+  Säkerställa att risk- och konsekvensanalyser genomförs och
+följs upp på ett systematiskt sätt i enlighet med nämndens
+ledningssystem för systematiskt kvalitetsarbete
+
+Granskning av kommunens interna kontroller för att motverka
+välfärdsbrott
+
+  Tillse att handläggare ute i linjen har det stöd som behövs i
+form av rutiner, metoder och verktyg för att förebygga,
+upptäcka och utreda kvalificerade välfärdsbrott
+  Tillse att kompetensnivån kring kvalificerade välfärdsbrott
+höjs genom att en anpassad utbildningsplan utarbetas och
+implementeras
+  Tillse att nämndspecifika riktlinjer utarbetas som ger konkret
 stöd till nämnderna för hur arbetsuppgifter kopplade till
-Nämnden för service                                    området ska utföras
-Granskning av måltidsverksamhet                       Tillse att arbetet med kontrollaktiviteter sker systematiskt
-  Överväg att inför styrning samt följa upp kvalitetsmål och riskbaserat för att motverka avsiktliga felutbetalningar
-gällande kundnöjdheten för måltidsverksamheten   Tillse att statistik förs över relevanta nyckeltal avseende
-  Tydliggör uppföljningen av mål i styrkort eftersom inte alla kvalificerade välfärdsbrott och att dessa rapporteras till
-mål följs upp med ordinarie processer i april- och intressenter inom och utanför kommunen
-delårsuppföljningen                              Tillse att samverkansformer internt och externt ses över för
+området ska utföras
+  Tillse att arbetet med kontrollaktiviteter sker systematiskt
+och riskbaserat för att motverka avsiktliga felutbetalningar
+  Tillse att statistik förs över relevanta nyckeltal avseende
+kvalificerade välfärdsbrott och att dessa rapporteras till
+intressenter inom och utanför kommunen
+  Tillse att samverkansformer internt och externt ses över för
 att tillse ändamålsenliga erfarenhetsutbyten och
 metodutveckling
 
@@ -20161,30 +20350,45 @@ intressenter inom och utanför kommunen
 
 2\. Inledning
 
-2.1. Bakgrund                                      2.2. Syfte
-EY har på uppdrag av de förtroendevalda revisorerna i Kungsbacka Syftet med granskningen har varit att bedöma om berörda nämnder
-kommun genomfört en uppföljning av 2021 års fördjupade och styrelse vidtagit åtgärder utifrån de ursprungliga
-granskningar. Uppföljningen har genomförts inom ramen för revisionsrapporternas rekommendationer.
+2.1. Bakgrund
+EY har på uppdrag av de förtroendevalda revisorerna i Kungsbacka
+kommun genomfört en uppföljning av 2021 års fördjupade
+granskningar. Uppföljningen har genomförts inom ramen för
 kommunrevisionens grundläggande granskning.
-2.3. Metod
+
 Den uppföljande granskningen omfattar följande granskningar:
-Uppföljningen har genomförts genom dokumentstudier och skriftliga
-  Granskning av måltidsverksamheten             frågor. Skriftliga frågor har ställts till berörd förvaltning. De skriftliga
-  Granskning av lokalförsörjning och hantering av frågorna har utgått från de rekommendationer som lämnades i
-verksamhetslokaler                            respektive granskningsrapport samt styrelse och nämnders
-  Granskning av individ- och familjeomsorgnämndens ursprungliga svar till revisionen.
+  Granskning av måltidsverksamheten
+  Granskning av lokalförsörjning och hantering av
+verksamhetslokaler
+
+  Granskning av individ- och familjeomsorgnämndens
 åtgärdsarbete
-Källförteckning återfinns i bilaga 1. Samtliga berörda nämnder och
   Granskning av interna kontroller kopplade till risken för
-styrelsen har getts möjlighet att sakfelskontrollera rapporten.
 kvalificerade välfärdsbrott
+
 I granskningarna lämnades sammanlagt:
+
  fem rekommendationer till kommunstyrelsen
  elva rekommendationer till nämnden för Individ &
 Familjeomsorg
  sju rekommendationer till nämnden för Gymnasium &
 Arbetsmarknad
  sex rekommendationer till nämnden för Service.
+
+2.2. Syfte
+Syftet med granskningen har varit att bedöma om berörda nämnder
+och styrelse vidtagit åtgärder utifrån de ursprungliga
+revisionsrapporternas rekommendationer.
+
+2.3. Metod
+Uppföljningen har genomförts genom dokumentstudier och skriftliga
+frågor. Skriftliga frågor har ställts till berörd förvaltning. De skriftliga
+frågorna har utgått från de rekommendationer som lämnades i
+respektive granskningsrapport samt styrelse och nämnders
+ursprungliga svar till revisionen.
+
+Källförteckning återfinns i bilaga 1. Samtliga berörda nämnder och
+styrelsen har getts möjlighet att sakfelskontrollera rapporten.
 
 5
 
@@ -20207,43 +20411,68 @@ bedömning var att nämnden i stort säkerställt en ändamålsenlig styrning oc
 
 <!-- sida 468 -->
 
-Tydliggör uppföljningen av Nämnden svarade att verksamhetsplaner med styrkort Uppföljningen visar att uppföljningen av mål i styrkort Inte omhändertagen
-mål i styrkort eftersom inte beslutas av förvaltningen och uppföljning sker för att följa inte har förändrats sedan granskningen 2021. Nämnden har inte åtgärdat
-alla mål följs upp med utvecklingen. I samband med bokslut lämnar förvaltningen   rekommendationen.
-Av svar från förvaltningen framgår att förvaltningen
-ordinarie processer i kommentarer, utifrån verksamhetsplan och styrkort, till     Nämnden har inte
-följer en stor mängd nyckeltal för att få kunskap om
-apriluppföljning och nämnden. Om betydande avvikelser uppkommer redovisas         tydliggjort uppföljningen av
-hur det går för verksamheterna. De nyckeltal som
-delårsrapport.    detta för nämnden.                                              mål i styrkort.
-lyfts för information till nämnden påvisar en trend i
-Uppföljningen består
-Vid varje nämndsmöte redovisar förvaltningen nyckeltal från negativ eller positiv riktning, förflyttning av resultat,
-fortsatt av en beskrivning
-styrkortet som har betydande avvikelse, både positivt och och/eller bibehållen god kvalitet i respektive
-av arbetet inom olika
-negativ avvikelse. Redovisningen omfattar utfall och verksamhet.
-områden vilket enligt vår
+Tydliggör uppföljningen av Nämnden svarade att verksamhetsplaner med styrkort
+mål i styrkort eftersom inte beslutas av förvaltningen och uppföljning sker för att följa
+alla mål följs upp med utvecklingen. I samband med bokslut lämnar förvaltningen
+ordinarie processer i kommentarer, utifrån verksamhetsplan och styrkort, till
+apriluppföljning och nämnden. Om betydande avvikelser uppkommer redovisas
+delårsrapport.    detta för nämnden.
+Vid varje nämndsmöte redovisar förvaltningen nyckeltal från
+styrkortet som har betydande avvikelse, både positivt och
+negativ avvikelse. Redovisningen omfattar utfall och
 målvärde. I mötesprotokollet för nämnden noteras vilka
-Uppföljningen av förvaltningens styrkort är en bild varken är en
 verksamheter vars mått har redovisats.
-tvåvägskommunikation. Nämnden har alltid möjlighet uppföljning av en indikator
-Nämnden anser att uppföljningen av mål i styrkort är tydlig att ställa frågor och efterfråga nyckeltal. Varje enskilt eller en avvikelsebaserad
-och följer den ordning, beskriven ovan, som är beslutad i nyckeltal är i sig inte relevant för nämnden att följa. uppföljning. Det finns
-nämnden.                          De behöver analyseras och sättas i ett större enligt vår mening inte en
-sammanhang, vilket bland annat görs i delårs- och tydligt logik i vad som
-årsrapporteringen.            redovisas för nämnden vid
-uppföljningstillfällena. Vi
+Nämnden anser att uppföljningen av mål i styrkort är tydlig
+och följer den ordning, beskriven ovan, som är beslutad i
+nämnden.
+
+Uppföljningen visar att uppföljningen av mål i styrkort Inte omhändertagen
+
+inte har förändrats sedan granskningen 2021.
+Av svar från förvaltningen framgår att förvaltningen
+följer en stor mängd nyckeltal för att få kunskap om
+hur det går för verksamheterna. De nyckeltal som
+lyfts för information till nämnden påvisar en trend i
+negativ eller positiv riktning, förflyttning av resultat,
+och/eller bibehållen god kvalitet i respektive
+verksamhet.
+Uppföljningen av förvaltningens styrkort är en
+tvåvägskommunikation. Nämnden har alltid möjlighet
+att ställa frågor och efterfråga nyckeltal. Varje enskilt
+nyckeltal är i sig inte relevant för nämnden att följa.
+De behöver analyseras och sättas i ett större
+sammanhang, vilket bland annat görs i delårs- och
+årsrapporteringen.
 I samband med att nämnden för Service tar fram en
-noterar dock att ett arbete
 ny målbild under 2023 arbetar förvaltningen med att
-pågår med avsikt att
 definiera nyckeltal kopplade till målbilden som ska
-tydliggöra uppföljningen av
 följas upp av nämnden. Detta tror förvaltningen
-mål i styrkort.
 kommer bidra till att tydliggöra uppföljningen av mål i
+
+Nämnden har inte åtgärdat
+rekommendationen.
+Nämnden har inte
+tydliggjort uppföljningen av
+mål i styrkort.
+Uppföljningen består
+fortsatt av en beskrivning
+av arbetet inom olika
+områden vilket enligt vår
+bild varken är en
+uppföljning av en indikator
+eller en avvikelsebaserad
+uppföljning. Det finns
+enligt vår mening inte en
+tydligt logik i vad som
+redovisas för nämnden vid
+uppföljningstillfällena. Vi
+noterar dock att ett arbete
+pågår med avsikt att
+tydliggöra uppföljningen av
+mål i styrkort.
+
 styrkort.
+
 7
 
 <!-- sida 469 -->

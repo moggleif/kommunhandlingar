@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320032123id_/https://www.kungsbacka.
 sha256: 5747d74c2f35226f42c0020c4d21105e5e289a9ca7d3740e3ff56817cad2edbc
 bytes: 15040270
 sidor: 130
-hamtad: 2026-10-27T10:08:47+00:00
-konverterad: 2026-10-27T10:10:09+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T23:49:57+00:00
+konverterad: 2026-11-15T23:50:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4002,14 +4002,10 @@ KF
 
 Justerare
 
-Ås
-
 Expedierat/bestyrkt , -
 nenee kvcber
 
 <!-- sida 101 -->
-
-KUB1001, v2.0, 2013-02-26
 
 TJÄNSTESKRIVELSE
 
@@ -4068,7 +4064,6 @@ kerstin.fredberg(Akungsbacka.se
 Kungsbacka kommun
 
 434 81 Kungsbacka
-
 Besöksadress
 
 Stadshuset, Storgatan 37
@@ -4079,6 +4074,8 @@ Fax 0300-83 41 64
 forskola.grundskola(Akungsbacka.se
 
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 102 -->
 
@@ -4102,8 +4099,6 @@ KUNGSBACKA KOMMUN
 2 (2)
 
 <!-- sida 103 -->
-
-uniForm KUB100 v 1.0, 2006-10-02
 
 Skolskjutsreglemente i Kungsbacka kommun
 
@@ -4156,6 +4151,8 @@ forskola.grundskola(Mkungsbacka.se
 
 www.kungsbacka.se
 
+uniForm KUB100 v 1.0, 2006-10-02
+
 <!-- sida 104 -->
 
 KUNGSBACKA KOMMUN
@@ -4204,8 +4201,6 @@ vårdnadshavare.
 
 <!-- sida 105 -->
 
-uniForm KUB100 v 1.0, 2006-10-02
-
 Kungsbacka
 
 Tillämpning av skolskjutsreglemente i Kungsbacka kommun
@@ -4251,21 +4246,26 @@ Beslut om skolskjuts fattas av rektor och det gäller även särskilt anordnad s
 med taxi. Blanketten ”Beställning och ändring av skolskjutsresor med taxi” ska alltid
 användas när man anmäler ny elev eller behöver ändra tiderna. I övrigt finns det
 särskilt framtagna rutiner som gäller för den särskilt anordnade skolskjutsen med
+
 taxi, ”Skolskjuts med taxi”.
 
 Förskola & Grundskola Kungsbacka kommun
-Magnus Fogelblad Utvecklingsledare 434 81 Kungsbacka
-Direkt 0300 - 83 52 96 Besöksadress
 
-Stadshuset, Storgatan 37
+Magnus Fogelblad Utvecklingsledare 434 81 Kungsbacka
+
+Direkt 0300 - 83 52 96 Besöksadress
+t
+
+magnus. fogelblad(Akungsbacka.se Stadshuset; Storgatan 37
 
 Telefon 0300-83 40 00
+
 Fax 0300-83 41 64
 
 forskola.grundskola(Akungsbacka.se
 www.kungsbacka.se
 
-magnus. fogelblad(Akungsbacka.se
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 106 -->
 
@@ -4380,8 +4380,6 @@ färdbevis från Västtrafik och fakturerar därefter kommunen för kostnaden.
 
 <!-- sida 108 -->
 
-uniForm KUB101 v 1.0, 2005-11-25
-
 TJÄNSTESKRIVELSE
 
 Nämnden för Förskola & Grundskola
@@ -4448,6 +4446,8 @@ Fax 0300-83 41 64
 forskola.grundskola(Qkungsbacka.se
 
 www.kungsbacka.se
+
+uniForm KUB101 v 1.0, 2005-11-25
 
 <!-- sida 109 -->
 
@@ -4578,8 +4578,6 @@ forskola.grundskola(Akungsbacka.se » www.kungsbacka.se
 
 <!-- sida 111 -->
 
-KUB1001, v2.0, 2013-02-26
-
 TJÄNSTESKRIVELSE
 
 Kommunstyrelsen
@@ -4617,7 +4615,7 @@ föreslås beslutas av nämnden för Förskola & Grundskola.
 
 \- /
 
-7
+fr—
 
 /
 
@@ -4625,7 +4623,7 @@ Njes /(N<
 Ann-Charlotte Järnström Sven-Erik Bergström
 kommundirektör verksamhetschef
 
-sockersreesefevrvarte act ace derfnkvadrs I
+2eckers Teese Terra te Hr td an) r De fen
 
 Kungsbacka
 
@@ -4644,6 +4642,7 @@ catarina.nyberg(äQkungsbacka.se
 
 Kungsbacka kommun
 434 81 Kungsbacka
+
 Besöksadress
 Stadshuset, Storgatan 37
 
@@ -4652,6 +4651,8 @@ Fax 0300-83 47 04
 
 kommun(akungsbacka.se
 www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 <!-- sida 112 -->
 
@@ -4710,8 +4711,6 @@ Paragrafen fortsätter
 
 Justerare Expedierat/bestyrkt
 SN
-
-JT LC
 
 <!-- sida 113 -->
 

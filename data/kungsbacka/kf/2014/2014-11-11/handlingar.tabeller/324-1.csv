@@ -1,0 +1,37 @@
+KK,AK,PN,Beskrivning
+40.50-1,17,B,"Anläggning för förbränning med en total installerad tillförd effekt av
+mer än 100 och högst 300 megawatt, om verksamheten inte är
+tillståndspliktig enligt 40.40."
+40.50-2,12,B,"Anläggning för förbränning med en total installerad tillförd effekt av
+mer än 50 och högst 100 megawatt, om verksamheten inte är
+tillståndspliktig enligt 40.40."
+40.51,11,B,"Anläggning för förbränning med en total installerad tillförd effekt av
+mer än 20 megawatt, om verksamheten inte är tillståndspliktig enligt
+40.40 eller 40.50."
+40.60-1,5,C,"Anläggning för förbränning med en total installerad tillförd effekt av
+mer än 5 MW men högst 20 MW, om annat bränsle används än enbart
+eldningsolja eller bränslegas.
+Anmälningsplikt enligt denna beskrivning gäller inte
+1. stationär förbränningsmotor avsedd endast som reservaggregat vid
+elavbrott, eller
+2. om verksamheten är tillstånds- eller anmälningspliktig enligt 40.40,
+40.50, 40.51 eller 40.70."
+40.60-2,3,C,"Anläggning för förbränning med en total installerad tillförd effekt av
+mer än 500 kilowatt men högst 5 MW, om annat bränsle används än
+enbart eldningsolja eller bränslegas.
+Anmälningsplikt enligt denna beskrivning gäller inte
+1. stationär förbränningsmotor avsedd endast som reservaggregat vid
+elavbrott, eller
+2. om verksamheten är tillstånds- eller anmälningspliktig enligt 40.40,
+40.50, 40.51 eller 40.70."
+40.60-3,5,C,"Anläggning för förbränning med en total installerad tillförd effekt av
+mer än 10 MW men högst 20 MW, om inget annat bränsle än
+eldningsolja eller bränslegas används.
+1. stationär förbränningsmotor avsedd endast som reservaggregat vid
+elavbrott, eller
+2. om verksamheten är tillstånds- eller anmälningspliktig enligt 40.40,
+40.50, 40.51 eller 40.70."
+40.6001,2,U,"Anläggning för förgasning med en total installerad tillförd effekt av
+högst 10 MW"
+40.70,9,C,"Gasturbinanläggning med en total installerad tillförd effekt av högst 20
+megawatt."

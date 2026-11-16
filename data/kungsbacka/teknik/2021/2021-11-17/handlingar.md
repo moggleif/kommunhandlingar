@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220319215154id_/https://www.kungsbacka.
 sha256: fb7c75b96ddcda7c44dea3ac0d3beb19e5f4da0994cc3cb29c9b0ae2afd87a0e
 bytes: 44128477
 sidor: 192
-hamtad: 2026-10-28T09:19:32+00:00
-konverterad: 2026-10-28T09:23:08+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:02:23+00:00
+konverterad: 2026-11-16T00:05:04+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker]
 tal_obekraftade: [68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136]
 figurer: [7, 8, 10, 50, 56, 146, 160, 162, 164, 170, 171, 172]
 tolkade: []
@@ -2887,8 +2887,6 @@ Sammanträdesdatum
 Kommunstyrelsens arbetsutskott led -1 3
 
 é
-NANA DT
-ÅA AN OJ,
 8 221 185/98-37
 
 Riktlinjer för fördelning av kostnader vid byggande samt drift och underhåll
@@ -2899,7 +2897,7 @@ för gatubelysning inom Kungsbacka kommun. Under budgetdiskussioner de se-
 naste åren har nedskärning av gatubelysningskostnader visat sig nödvändiga.
 Gatukontoret finner då att det inte längre går att följa antagna riktlinjer.
 
-Tekniska nämnden beslltade föreslå/kommunfullmäktige anta nya riktlinjer för
+Tekniska nämnden beslifåde föreslå/kommunfullmäktige anta nya riktlinjer för
 gatubelysning. N
 
 Ärendeberedning
@@ -3518,9 +3516,7 @@ ringsavtal ändras i enlighet med förslaget
 
 MARK- OCH BOSTADSKONTORET
 
-Nos Jusuwerd /yyjauudor
-
-Inger Gennerud Björsander
+Inger Gennerud Blörander
 
 <!-- sida 86 -->
 
@@ -3883,8 +3879,7 @@ remissvar 1998-03-23.
 
 MARK- OCH BOSTADSKONTORET
 
-Pgedsuunom utm(G / MAUNMAY
-Inger G ja Björsänder
+[AU fen ull rs UH MAudBr
 
 vägbelysn återremiss.DOC/igb
 
@@ -3943,7 +3938,6 @@ KUNGSBACKA = ”I5soso NNSg
 
 E KOMMUN Ert datum Er NA
 
-i
 /
 
 . Tekniska nämnden [KUNGGBECKZ Kor
@@ -4240,6 +4234,57 @@ BESLUT
 
 <!-- sida 101 -->
 
+KUNGSBACKA KOMMUN
+
+Kommunstyrelsens arbetsutskott 1999-02-02
+
+8 41/98-16
+
+Kommunens policy beträffande driftkostnader för belysning på enskilda
+vägar. Samordning med förslag från tekniska nämnden
+
+Mark- och bostadskontoret har fått i uppdrag att utreda konsekvenserna av att
+vägföreningarna själva tar över drift och underhåll av vägbelysning på enskilda
+vägar och att samordna detta med tekniska nämndens förslag till ändrade riktlin-
+jer för vägbelysning.
+
+Enligt nu gällande riktlinjer svarar vägförening, exploatör eller enskilda fastighets-
+ägare för nyinvestering och uppsättning av belysningsanläggningar utmed en-
+skilda vägar. Anläggningarna överlåts därefter till kommunen/gatukontoret, som
+ansvarar för drift och underhåll inklusive förnyelse av stolparna.
+
+Gatukontoret har upprättat förslag till ändrade riktlinjer för gatubelysningen, bilaga
+1\. Riktlinjerna antogs av tekniska nämnden 1998-04-23, 8 29. Kommunstyrelsens
+arbetsutskott har därefter överlämnat ärendet till mark- och bostadskontoret för
+samordning med utredningen om kommunens policy beträffande driftskostnader
+för belysning.
+
+Mark- och bostadskontoret redovisar i yttrande 1998-09-14 två alternativa ge-
+nomföranden.
+
+Ärendeberedning
+
+Mark- och bostadskontorets skrivelse 1998-09-14.
+
+Arbetsutskottet 8 355/98, 417/98 - Samråd med presidiet för tekniska nämnden,
+gatukontoret samt mark- och bostadsenheten.
+
+2
+
+dm farria al
+
+r 9 nn PR VAA
+å h ; - PP
+ff pF : S C> EA pa j ä € : CA q
+é ; — 5 ” i ”
+sf | S |
+fé a é x
+» /
+/ dk dd AN
+i
+gp u é .-
+fn &R
+
 <!-- sida 102 -->
 
 KUNGSBACKA
@@ -4521,8 +4566,6 @@ att bidrag skall utgå enligt alternativ C, dvs bidrag per belysningsstolpe
 att kommunstyrelsen fastställer bidragets storlek för år 2000 och att tek-
 niska nämnden därefter beslutar om bidragsnivån.
 
-A (TT Vf Ua ,
-& VASA YONG NNIN sand,
 Rolf Enskog Inger Gennerud Björsander
 
 Mark- och bostadschef Mark- och bostadsenheten
@@ -4539,7 +4582,6 @@ KUNGSBACKA KOMMUN
 KOMMUNSTYRELSEN
 1900-11-07 |
 Kommunstyrelsen / a d |
-Dnr 1/98 /6 |
 
 vägbelysn 990831.doc
 
@@ -4817,8 +4859,6 @@ att föreslå kommunfullmäktige fastställa förslag reviderat 1999-11-01 med
 "Riktlinjer för fördelning av kostnader vid byggande samt drift och under-
 håll av gatubelysning inom Kungsbacka kommun".
 
-A VA / 4
-VUNAL Ae Pytt Mr Mkt”
 Rolf Enskog Inger Gennerud Björn fd der
 
 Mark- och bostads Mark- och bostadsenheten
@@ -4857,8 +4897,6 @@ BESLUT
 Utdrag:
 
 Justerare Utdragsbestyrkande
-
-X reser Sf
 
 21012315 - & Copyright KOMMENTJUS BLANKETTER 98-08
 
@@ -5161,10 +5199,8 @@ KUNGSBACKA KOMMUN
 Energistyrelsen
 
 1990-01-24 6
-KUNGSBACKA K N |
-KOMMUNSTYRELSEN |
 90\. 02.
-ov ÖL LG 2 -00/
+ov ÖL LG 2 ”
 ENST § 4
 
 Yttrande över motion angånde översyn av regler
@@ -5343,8 +5379,6 @@ yttrande.
 
 Justerandes sign
 
-IR 2
-
 Utdragsbestyrkonde
 
 21 012 315 — KOMMENTUS GRUPPEN AB
@@ -5503,8 +5537,6 @@ drift och underhåll av gatubelysning ges till
 kommuninvånarna.
 
 Justerandes sign
-
-no
 
 ; 012 315 — KomMenNiws FÖRLAG AL
 

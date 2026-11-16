@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320130550id_/https://www.kungsbacka.
 sha256: 912997a9e241b358c5b76bd2c88fdf15d222d2822c19c266db8ecd5232e60cd1
 bytes: 7078070
 sidor: 121
-hamtad: 2026-10-29T09:51:47+00:00
-konverterad: 2026-10-29T09:52:22+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-16T00:46:39+00:00
+konverterad: 2026-11-16T00:47:02+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -578,46 +578,62 @@ handlingsplan Halland
 
 2021-2024                                   Kungsbacka kommun
 
-Se även handlingsplan       Uppföljning av Aktiviteter 2020:
-Utsatta grupper              2017-2018        dec 2020 – febr
-2021       Satsning på Vård - och stödsamordning
+Se även handlingsplan        Uppföljning av Aktiviteter 2020:
+Utsatta grupper             2017-2018        dec 2020 – febr
+
+2021        Satsning på Vård - och stödsamordning
 MÅL Halland       ” Vård och stödsamordning
 förväntas ge långsiktig effekt. Planerade
 skall erbjudas enligt nationella
 aktiviteter i handlingsplan 2017- 2018
 Öka den enskildes riktlinjer.
-livskvalitet och
 fortlöper och förlängs till 2024 inom Individ
+livskvalitet och
 I Hallands län har beslut fattats
-självbestämmande                              och familjeomsorg.
+självbestämmande                               och familjeomsorg.
 i samverkan mellan region
+
 minska antalet dagar i Halland och samtliga
-slutenvård samt att förebygga kommuner, om att vård- och Den länsgemensamma utbildning som
-återinläggningar. stödsamordning ska erbjudas genomförs av fördjupningsutbildade
+slutenvård samt att förebygga kommuner, om att vård- och
+återinläggningar. stödsamordning ska erbjudas
 till personer med schizofreni,
-medarbetare och i samverkan med
 schizofreniliknande tillstånd
-Alla aktuella patientgrupper eller annan psykossjukdom. kommunerna och Regionens psykiatri har
-som har behov,    Vård- och                   fallit ut väl och beslut tagits om att den ska
+Alla aktuella patientgrupper eller annan psykossjukdom.
+som har behov,    Vård- och
 erbjuds vård och  stödsamordning bör även
-stödsamordning    kunna erbjudas för personer fortgå löpande. (bilaga 4) I utbildningen har
-med missbruk, samsjuklighet brukare deltagit och delat erfarenheter av
-och/eller annan omfattande  psykisk sjukdom och vård och
+stödsamordning    kunna erbjudas för personer
+med missbruk, samsjuklighet
+och/eller annan omfattande
 komplicerad psykiatrisk
-stödsamordning.
 problematik vid behov. ”
+
+Den länsgemensamma utbildning som
+genomförs av fördjupningsutbildade
+medarbetare och i samverkan med
+kommunerna och Regionens psykiatri har
+fallit ut väl och beslut tagits om att den ska
+
+fortgå löpande. (bilaga 4) I utbildningen har
+brukare deltagit och delat erfarenheter av
+psykisk sjukdom och vård och
+stödsamordning.
+
 Samordnare för vård och stödsamordning
 anställdes i förvaltningen för IF under 2020.
 Samt förstärkta verksamhetsnära resurser
 inom boendestöd, sysselsättning SoL,
 missbruk öppenvård samt bostad med
+
 särskild service och daglig verksamhet.
+
 Kartläggning är gjord med berörda chefer
 och Voss medarbetare. En Workshop
 resulterade i en plan för gemensamma
 implementerings aktiviteter 2021. Fler
 brukare har erbjudits
+
 VOSS vilket ökar möjligheten till ett
+
 14
 
 <!-- sida 17 -->
@@ -670,30 +686,44 @@ medarbetare.
 
 2021-2024                                   Kungsbacka kommun
 
-Önskad effekt - kort sikt                     Planerad Aktivitet 2021 - Skapa
-Ökad kunskap och kännedom                     gemensamma rutiner för hur IF arbetar
-om förhållanden inom IF och                   med SIP.
-när och hur SIP ska användas                  Genom tvärprofessionell arbetsgrupp
-med utgångspunkt från                         kartlägga rutiner kopplade till SIP. Vid behov
+Önskad effekt - kort sikt
+Ökad kunskap och kännedom
+om förhållanden inom IF och
+när och hur SIP ska användas
+med utgångspunkt från
 individens behov och
-revidera rutiner, tillgängliggöra och sprida
 delaktighet
-kunskap.
 Önskad effekt - lång sikt
 tydliga rutiner och hög
-Planerad Aktivitet 2021 - Förbättra
 kunskap om SIP och dess
-metodstöd VOSS
 syfte vilket möjliggör att den
-enskilde kan påverka och ha                   Vad ska göras:
-inflytande under hela SIP-                    Se till att det finns rutiner och kunskap för
-processen.                                    att medarbetare ska arbeta evidensbaserat
-Ökad samverkan och tryggare                   med arbetssättet Vård och stödsamordning
+enskilde kan påverka och ha
+inflytande under hela SIP-
+processen.
+Ökad samverkan och tryggare
 invånare och effektivare
 utnyttjande av resurser.
+
+Planerad Aktivitet 2021 - Skapa
+gemensamma rutiner för hur IF arbetar
+med SIP.
+Genom tvärprofessionell arbetsgrupp
+kartlägga rutiner kopplade till SIP. Vid behov
+
+revidera rutiner, tillgängliggöra och sprida
+kunskap.
+
+Planerad Aktivitet 2021 - Förbättra
+metodstöd VOSS
+Vad ska göras:
+Se till att det finns rutiner och kunskap för
+att medarbetare ska arbeta evidensbaserat
+med arbetssättet Vård och stödsamordning
+
 Nyhetsbrev om VOSS och samverkan ska
 skickas ut regelbundet till berörda från
 februari 2021
+
 Önskad effekt kort sikt:
 Planerad Aktivitet 2021 - Förbättrad
 Medarbetare känner sig
@@ -701,14 +731,15 @@ struktursamverkan inom socialpsykiatriska
 säkrare med arbetssättet och
 området
 fler individer erbjuds Vård
-och stödsamordning.                           Genom att ge styrgrupp för vård och
-Önskad effekt lång sikt:                      stödsamordning ökat tydligt uppdrag att
-Ökad samverkan och större                     arbeta med samsyn om på vilket sätt vi ska
-möjlighet för individer att ta                samverka socialpsykiatriska frågor skapas
-hand om sitt liv                              förutsättningar att bedriva strukturerad
+och stödsamordning.                            Genom att ge styrgrupp för vård och
+Önskad effekt lång sikt:                       stödsamordning ökat tydligt uppdrag att
+Ökad samverkan och större                      arbeta med samsyn om på vilket sätt vi ska
+möjlighet för individer att ta                 samverka socialpsykiatriska frågor skapas
+hand om sitt liv                               förutsättningar att bedriva strukturerad
 intern och extern samverkan och skapa
 struktur, organisering och ansvarsfördelning
 i frågor som rör socialpsykiatri.
+
 16
 
 <!-- sida 19 -->
@@ -2097,7 +2128,6 @@ Förvaltningschef              Ekonomi- och utvecklingschef
 <!-- sida 54 -->
 
 CN D)
-and ban a
 ( . Se tfedemokKraterna
 
 Motion om handlingsplan för suicidprevention Kungsbacka 210307
@@ -2162,7 +2192,6 @@ Med anledning av ovanstående föreslår Sverigedemokraterna i Kungsbacka fullm�
 
 Sverigedemokraterna Kungsbacka genom
 
-; PAR /
 4 Z MD EZ LIBS TA
 Carita Boulwén (SD)
 

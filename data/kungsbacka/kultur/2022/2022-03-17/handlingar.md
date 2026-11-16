@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220319185542id_/https://www.kungsbacka.
 sha256: 66a7cf1560c9e7a1bfc3fb04e9bb242719cd84c81bc60b3fee7b37fdf5d2e0a7
 bytes: 26638659
 sidor: 371
-hamtad: 2026-10-26T10:53:58+00:00
-konverterad: 2026-10-26T10:55:42+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T23:29:48+00:00
+konverterad: 2026-11-15T23:30:59+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ej-konverterad, ocr, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ej-konverterad, ocr, ocr, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ej-konverterad, ocr, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ej-konverterad, ocr, ocr, ok, ok, ok, ok]
 tal_obekraftade: [16, 209, 210, 211, 215, 216, 217, 218, 219, 220, 221, 222, 223, 263, 270, 271, 274, 275, 276, 277, 278, 280, 281, 282, 283, 285, 286, 287, 290, 291, 293, 294, 295, 311, 312, 313, 328, 347, 348, 351, 352, 354, 355, 357, 358, 362, 363, 365, 366, 367]
 figurer: [136, 187, 213, 225, 228, 231, 235, 238, 247, 248, 250, 251, 253, 257, 258, 259, 260, 261, 262, 263, 269, 271, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 313, 314, 315, 316, 317, 318, 319, 320, 322, 323, 324, 325, 328, 330, 332, 333, 334, 335, 336, 337, 338, 339, 341, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367]
 tolkade: []
@@ -571,7 +571,6 @@ dagar och tider som otryggheten upplevs som störst.
 \- Att efter utredning skyndsamt återkomma med förslag till beslut i saken
 
 / å /
-VIPS a
 Carita Boulwén (SD)
 
 <!-- sida 17 -->
@@ -6330,6 +6329,8 @@ Totalt
 Befolkningsprognos
 (reviderad     december      2021)
 
+Befolkningsprognos 2021-2030, Kungsbacka kommun
+
 120 000
 
 ```osaker-tabell
@@ -6359,8 +6360,8 @@ Befolkningsprognos
 0
 
 2020     2021     2022     2023      2024     2025     2026     2027      2028     2029     2030     2031     2032      2033
-letitlexA
-Befolkningsprognos 2021-2030, Kungsbacka kommun
+
+Axeltitel
 
 <!-- sida 314 -->
 
@@ -6741,40 +6742,48 @@ Budgetdagen                   2022
 
 <!-- sida 341 -->
 
-3    box-modellen
+3     box-modellen
 
-3-box-modellen      är  en  enkel  modell   för  att
-strukturera   utvecklings    och  innovationsarbete.
+3-box-modellen       är en  enkel   modell   för att
+
+strukturera    utvecklings    och  innovationsarbete.
+
+2
+
+Dåtid
+
+Glöm     det    som    varit
+
+Det som   inte längre skapar  värde, som   vi ska
+sluta göra. Det som   hindrar oss  från att komma
+
+vidare (kan vara  arbetssätt, förhållningssätt,
+tankemodeller...)
+
+Modellen   är utvecklad  av Vijay Govindarajan   – Three-box   Solution
+
 3
 
 Skapa      framtiden
 
 Det  som  vi behöver  börja göra, det  som
+
 Framtid              kommer    att skapa  värde  framöver,  om
-
 tre/fem/tio  år. Proaktivt utforskande   och
+
 experimenterande.    Genom    stark
-
 interaktion  med  omvärlden    och
+
 målgruppen.
-2
 
-Dåtid
-
-Glöm      det   som     varit
-
-Det  som  inte längre skapar  värde,  som  vi ska                                         Hantera       nutiden
-
-sluta göra. Det  som  hindrar  oss från att komma                    1
+Hantera       nutiden
+1
 Det vi gör här och  nu, det vi gör som  skapar
-vidare (kan  vara arbetssätt,  förhållningssätt,
 värde idag. Förbättra  det  vi redan gör genom
-tankemodeller...)
+
 att effektivisera , förbättra kvalitet - ständiga
 förbättringar och  verksamhetsutveckling.
 Nutid
-
-Modellen   är utvecklad  av Vijay Govindarajan   – Three-box   Solution
 
 <!-- sida 342 -->
 
@@ -6943,6 +6952,14 @@ Planen är inte bindande. Lag (2020:76) .
 
 <!-- sida 352 -->
 
+\- | oo S Kungsbacka
+(O) ) Anneberg
+
+Strategi 2040
+
+En attraktiv kommun att bo, verka
+och vistas i
+
 <!-- sida 353 -->
 
 •  Fokusera         på   staden       för  att   skapa      förutsättningar            för   fler  invånare,        fler
@@ -7040,7 +7057,6 @@ Ett tryggare Kungsbacka
 
 <!-- sida 363 -->
 
-Läs
 \|
 
 Tre huvudaktiviteter inom området Ungdomar

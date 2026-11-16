@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172439id_/https://kungsbacka.se/d
 sha256: 671b78ab9193db037811e0252aa3d069ec6a3ae0b2f10413264fe8670930a5f0
 bytes: 20101145
 sidor: 1233
-hamtad: 2026-10-26T10:35:34+00:00
-konverterad: 2026-10-26T10:40:13+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-15T23:24:05+00:00
+konverterad: 2026-11-15T23:26:08+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6106,50 +6106,67 @@ Nämndens patientsäkerhetsberättelse 2021         2022-01-16
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Minska antal personal som                      Tillämpa fysisk distansering så
+Minska antal personal som
+hanterar patienter med smitta
+Covid-19 och Covidkorttids
+
+Avstånd mellan brukare bör
+upprätthållas i matsalar,
+patientkök och liknande
+
+Tilämpa fysisk distansering mellan
+personalen så att de inte smittar
+varandra i personalrum, matsalar,
+omklädningsrum etc
+
+Platsplanering
+
+Tillämpa fysisk distansering så
 Personal med symtom är inte på
-hanterar patienter med smitta    Koll på luftvägssymtom långt som möjligt mellan personal
+Koll på luftvägssymtom långt som möjligt mellan personal
 jobbet utan hemma
-Covid-19 och Covidkorttids                        och patienter
+och patienter
 Se till att personalomsättningen är
-Avstånd mellan brukare bör Minskad närkontakt i
+Minskad närkontakt i
 Begränsa användningen av så liten som möjligt. Undvik att
-upprätthållas i matsalar, ansiktsregionen mellan brukare
+ansiktsregionen mellan brukare
 gemensamma utrymmen samma vårdare arbetar på flera
-patientkök och liknande och personal
+och personal
 olika enheter
-Tilämpa fysisk distansering mellan             Se till att den personal som vårdar
+Se till att den personal som vårdar
 Efterfråga om nya boende kan ha
-personalen så att de inte smittar               brukare med misstänkt eller
+brukare med misstänkt eller
 Avrådan besök utsatts för smitta. Om så är fallet
-varandra i personalrum, matsalar,               konstaterad smitta inte också
+konstaterad smitta inte också
 isolera om möjligt
-omklädningsrum etc                              vårdar friska brukare
+vårdar friska brukare
 Informationsöverföring, SIP,
-Platsplanering                Basala hygienrutiner Hygienombud
+Basala hygienrutiner Hygienombud
 journalsystem/epidemirapport
+
 Provtagning av personal och
 Skyddsutrutning Munskydd/Visir i vårdnära arbete
 patienter
 
 5.1.1 Rutiner och riktlinjer
-
 Omfattande åtgärder har vidtagits för att förhindra smittspridning och för att bibehålla en god
+
 patientsäkerhet. Medicinskt ansvariga har tagit fram, och löpande reviderat, rutiner och riktlinjer för
 att stödja verksamheterna inom VO och IF att kunna arbeta systematiskt med att minska
 smittspridning och att säkerställa patientsäkerheten.
 
 5.1.2 Vaccination
+
 Under året har samtliga patienter erbjudits vaccination mot covid-19. Ett omfattande arbete har
 genomförts i syfte att erbjuda vaccination på ett säkert sätt. Biträdande förvaltningschef har rollen
-
 vaccinationssamordnare och har ansvarat för samordning och struktur i vaccinationsarbetet på
+
 övergripande nivå för både förvaltningen för Vård & Omsorg samt förvaltningen för Individ &
 Familjeomsorg. Vaccinationssamordnare VO/IF samt medicinskt ansvarig sjuksköterska har även
 samarbetat med kommuncentral vaccinationssamordnare och har funnits med i det förberedande
-
 arbetet kring vaccination av kommuninvånare. Veckovisa möten har genomförts på
 förvaltningsnivå tillsammans med ansvarig enhetschef samt verksamhetschef för
+
 sjuksköterskeverksamheten, representanter från HR, kommunikatör samt medicinskt ansvarig
 sjuksköterska för att hålla samman vaccinationsarbetet. Samarbete och representation har skett
 tillsammans med förvaltningen för Individ & Familjeomsorg. Vaccinationen genomfördes
@@ -9500,22 +9517,41 @@ Nuvarande lydelse     Föreslagen lydelse
 
 3 §1
 
-Vård skall också beslutas om Vård ska också beslutas om
-den unge utsätter sin hälsa eller den unge utsätter sin hälsa eller
-utveckling för en påtaglig risk att utveckling för en påtaglig risk att
-skadas genom missbruk av bero- skadas genom skadligt bruk eller
-endeframkallande medel, brotts- beroende av beroendeframkal-
-lig verksamhet eller något annat lande medel, brottslig verksamhet
-socialt nedbrytande beteende. eller något annat socialt nedbry-
+Vård skall också beslutas om
+den unge utsätter sin hälsa eller
+utveckling för en påtaglig risk att
+skadas genom missbruk av bero-
+endeframkallande medel, brotts-
+lig verksamhet eller något annat
+socialt nedbrytande beteende.
+
+Vård skall också beslutas om
+
+Vård ska också beslutas om
+den unge utsätter sin hälsa eller
+utveckling för en påtaglig risk att
+skadas genom skadligt bruk eller
+beroende av beroendeframkal-
+lande medel, brottslig verksamhet
+eller något annat socialt nedbry-
 tande beteende.
-Vård skall också beslutas om Vård ska också beslutas om
-den som dömts till sluten ung- den som dömts till sluten ung-
-domsvård enligt 32 kap. 5 § brotts- domsvård enligt 32 kap. 5 § brotts-
-balken vid verkställighetens slut balken vid verkställighetens slut
-bedöms vara i uppenbart behov bedöms vara i uppenbart behov
-av fortsatt vård för att inte löpa av fortsatt vård för att inte löpa
-sådan risk som avses i första sådan risk som avses i första
-stycket.              stycket.
+Vård ska också beslutas om
+
+den som dömts till sluten ung-
+domsvård enligt 32 kap. 5 § brotts-
+balken vid verkställighetens slut
+bedöms vara i uppenbart behov
+av fortsatt vård för att inte löpa
+sådan risk som avses i första
+stycket.
+
+den som dömts till sluten ung-
+domsvård enligt 32 kap. 5 § brotts-
+balken vid verkställighetens slut
+bedöms vara i uppenbart behov
+av fortsatt vård för att inte löpa
+sådan risk som avses i första
+stycket.
 
 16 §2
 Den som omfattas av bestäm- Den som omfattas av bestäm-
@@ -9524,7 +9560,6 @@ narkotika, alkoholhaltiga drycker, narkotika, alkoholhaltiga drycker,
 andra berusningsmedel, sådana andra berusningsmedel, sådana
 medel som avses i lagen medel som avses i lagen
 (1991:1969) om förbud mot vissa (1991:1969) om förbud mot vissa
-
 dopningsmedel eller sådana varor dopningsmedel eller sådana varor
 som omfattas av lagen (1999:42) som omfattas av lagen (1999:42)
 
@@ -9589,7 +9624,6 @@ att 21 och 24 §§ ska ha följande lydelse.
 Nuvarande lydelse     Föreslagen lydelse
 
 21 §1
-
 En patient får inte inneha
 1\. narkotika, alkoholhaltiga drycker, andra berusningsmedel eller
 sådana varor som omfattas av lagen (1999:42) om förbud mot vissa
@@ -9600,6 +9634,7 @@ dopningsmedel,
 ning i människokroppen,
 4\. andra föremål som är sär- 4. andra föremål som är sär-
 skilt ägnade att användas för skilt ägnade att användas för
+
 missbruk av eller annan befatt- bruk av, eller annan befattning
 ning med narkotika, eller med, narkotika, eller
 5\. annan egendom som kan skada honom eller henne själv eller
@@ -9609,14 +9644,22 @@ Påträffas sådan egendom som avses i första stycket, ska den om-
 händertas.
 
 24 §2
-Har narkotika, alkoholhaltiga Har narkotika, alkoholhaltiga
-drycker, andra berusningsmedel, drycker, andra berusningsmedel,
-sådana medel som avses i lagen sådana medel som avses i lagen
-(1991:1969) om förbud mot vissa (1991:1969) om förbud mot vissa
-dopningsmedel eller sådana varor dopningsmedel eller sådana varor
 
-som omfattas av lagen (1999:42) som omfattas av lagen (1999:42)
-om förbud mot vissa hälsofarliga om förbud mot vissa hälsofarliga
+Har narkotika, alkoholhaltiga
+drycker, andra berusningsmedel,
+sådana medel som avses i lagen
+(1991:1969) om förbud mot vissa
+dopningsmedel eller sådana varor
+som omfattas av lagen (1999:42)
+om förbud mot vissa hälsofarliga
+
+Har narkotika, alkoholhaltiga
+drycker, andra berusningsmedel,
+sådana medel som avses i lagen
+(1991:1969) om förbud mot vissa
+dopningsmedel eller sådana varor
+som omfattas av lagen (1999:42)
+om förbud mot vissa hälsofarliga
 
 1 Senaste lydelse 2014:522.
 2 Senaste lydelse 2019:359.
@@ -9627,17 +9670,28 @@ om förbud mot vissa hälsofarliga om förbud mot vissa hälsofarliga
 
 SOU 2021:93                              Författningsförslag
 
-varor omhändertagits enligt 21 varor omhändertagits enligt 21
-eller 22 § eller har sådan egen- eller 22 § eller har sådan egen-
+varor omhändertagits enligt 21
+eller 22 § eller har sådan egen-
+dom påträffats där patienter in-
+tagits för tvångsvård utan att det
+finns någon känd ägare till egen-
+domen, ska chefsöverläkaren låta
+förstöra eller sälja egendomen
+enligt bestämmelserna om beslag-
+tagen egendom i 2 § 1 första
+stycket lagen (1958:205) om för-
 
-dom påträffats där patienter in- dom påträffats där patienter in-
-tagits för tvångsvård utan att det tagits för tvångsvård utan att det
-finns någon känd ägare till egen- finns någon känd ägare till egen-
-domen, ska chefsöverläkaren låta domen, ska chefsöverläkaren låta
-förstöra eller sälja egendomen förstöra eller sälja egendomen
-enligt bestämmelserna om beslag- enligt bestämmelserna om beslag-
-tagen egendom i 2 § 1 första tagen egendom i 2 § 1 första
-stycket lagen (1958:205) om för- stycket lagen (1958:205) om för-
+varor omhändertagits enligt 21
+eller 22 § eller har sådan egen-
+dom påträffats där patienter in-
+tagits för tvångsvård utan att det
+finns någon känd ägare till egen-
+domen, ska chefsöverläkaren låta
+förstöra eller sälja egendomen
+enligt bestämmelserna om beslag-
+tagen egendom i 2 § 1 första
+stycket lagen (1958:205) om för-
+
 verkande av alkohol m.m. Det- verkande av alkohol m.m. Det-
 samma gäller i fråga om injek- samma gäller i fråga om injek-
 tionssprutor eller kanyler, som tionssprutor eller kanyler, som
@@ -9680,21 +9734,30 @@ samhet.
 3 kap.
 6 b §1
 Socialnämnden får utse en särskild person (kontaktperson) eller
-
 en familj (kontaktfamilj) med uppgift att hjälpa den enskilde och hans
 eller hennes närmaste i personliga angelägenheter, om den enskilde
 begär eller samtycker till det. För barn som inte har fyllt 15 år får
 kontaktperson utses endast om barnets vårdnadshavare begär eller
 samtycker till det. Har barnet fyllt 15 år får kontaktperson utses
 endast om barnet självt begär eller samtycker till det.
-Om en person som inte har Om en person som inte har
-fyllt 21 år har behov av särskilt fyllt 21 år har behov av särskilt
-stöd och särskild vägledning för stöd och särskild vägledning för
-att motverka en risk för missbruk att motverka en risk för skadligt
-av beroendeframkallande medel, bruk eller beroende av beroende-
-för brottslig verksamhet eller för framkallande medel, för brotts-
-något annat socialt nedbrytande lig verksamhet eller för något
-beteende, får nämnden utse en annat socialt nedbrytande bete-
+
+Om en person som inte har
+fyllt 21 år har behov av särskilt
+stöd och särskild vägledning för
+att motverka en risk för missbruk
+av beroendeframkallande medel,
+för brottslig verksamhet eller för
+något annat socialt nedbrytande
+beteende, får nämnden utse en
+
+Om en person som inte har
+fyllt 21 år har behov av särskilt
+stöd och särskild vägledning för
+att motverka en risk för skadligt
+bruk eller beroende av beroende-
+framkallande medel, för brotts-
+lig verksamhet eller för något
+annat socialt nedbrytande bete-
 
 1 Senaste lydelse 2012:776.
 
@@ -9704,38 +9767,65 @@ beteende, får nämnden utse en annat socialt nedbrytande bete-
 
 SOU 2021:93                              Författningsförslag
 
-särskilt kvalificerad kontaktper- ende, får nämnden utse en sär-
-son för den unge om denne skilt kvalificerad kontaktperson
+särskilt kvalificerad kontaktper-
+son för den unge om denne
+begär eller samtycker till det.
+För barn som inte har fyllt 15 år
+får en sådan kontaktperson utses
+endast om barnets vårdnads-
+havare begär eller samtycker till
+det. Har barnet fyllt 15 år får en
+särskilt kvalificerad kontaktper-
+son utses endast om barnet självt
+begär eller samtycker till det.
 
-begär eller samtycker till det. för den unge om denne begär
-För barn som inte har fyllt 15 år eller samtycker till det. För barn
-får en sådan kontaktperson utses som inte har fyllt 15 år får en
-endast om barnets vårdnads- sådan kontaktperson utses endast
-havare begär eller samtycker till om barnets vårdnadshavare begär
-det. Har barnet fyllt 15 år får en eller samtycker till det. Har bar-
-särskilt kvalificerad kontaktper- net fyllt 15 år får en särskilt kvali-
-son utses endast om barnet självt ficerad kontaktperson utses endast
-begär eller samtycker till det. om barnet självt begär eller sam-
+ende, får nämnden utse en sär-
+skilt kvalificerad kontaktperson
+för den unge om denne begär
+eller samtycker till det. För barn
+som inte har fyllt 15 år får en
+sådan kontaktperson utses endast
+om barnets vårdnadshavare begär
+eller samtycker till det. Har bar-
+net fyllt 15 år får en särskilt kvali-
+ficerad kontaktperson utses endast
+om barnet självt begär eller sam-
 tycker till det.
 
 7 §2
-Socialnämnden ska arbeta för Socialnämnden ska arbeta för
-att förebygga och motverka att förebygga och motverka
-missbruk av alkohol och andra skadligt bruk eller beroende av
-beroendeframkallande medel. alkohol och andra beroende-
-Socialnämnden ska även arbeta framkallande medel och spel om
-för att förebygga och motverka pengar.
+
+Socialnämnden ska arbeta för
+att förebygga och motverka
+missbruk av alkohol och andra
+beroendeframkallande medel.
+Socialnämnden ska även arbeta
+för att förebygga och motverka
+
+Socialnämnden ska arbeta för
+att förebygga och motverka
+skadligt bruk eller beroende av
+alkohol och andra beroende-
+framkallande medel och spel om
+pengar.
+
 missbruk av spel om pengar.
-Socialnämnden ska genom Socialnämnden ska genom
-information till myndigheter, information till myndigheter,
-grupper och enskilda och genom grupper och enskilda och genom
-uppsökande verksamhet sprida uppsökande verksamhet sprida
-kunskap om skadeverkningar av kunskap om skadligt bruk eller
+Socialnämnden ska genom
+information till myndigheter,
+grupper och enskilda och genom
+uppsökande verksamhet sprida
+kunskap om skadeverkningar av
+missbruk och om de hjälpmöjlig-
+heter som finns.
 
-missbruk och om de hjälpmöjlig- beroende och om de hjälpmöjlig-
-heter som finns.      heter som finns.
+Socialnämnden ska genom
+information till myndigheter,
+grupper och enskilda och genom
+uppsökande verksamhet sprida
+kunskap om skadligt bruk eller
+beroende och om de hjälpmöjlig-
+heter som finns.
+
 5 kap.
-
 1 §3
 Socialnämnden ska
 1\. verka för att barn och unga växer upp under trygga och goda
@@ -9755,15 +9845,24 @@ Författningsförslag                        SOU 2021:93
 
 3\. bedriva uppsökande verksamhet och annat förebyggande arbete
 för att förhindra att barn och unga far illa,
-
 4\. aktivt arbeta för att före- 4. aktivt arbeta för att före-
-bygga och motverka missbruk bygga och motverka skadligt bruk
-bland barn och unga av alkohol- eller beroende bland barn och unga
-haltiga drycker, andra berusnings- av alkoholhaltiga drycker, andra
-medel eller beroendeframkallande berusningsmedel eller beroende-
-medel samt dopningsmedel, framkallande medel samt dop-
+
+bygga och motverka missbruk
+bland barn och unga av alkohol-
+haltiga drycker, andra berusnings-
+medel eller beroendeframkallande
+medel samt dopningsmedel,
+
+5\. aktivt arbeta för att före-
+
+bygga och motverka skadligt bruk
+eller beroende bland barn och unga
+av alkoholhaltiga drycker, andra
+berusningsmedel eller beroende-
+framkallande medel samt dop-
 ningsmedel,
-5\. aktivt arbeta för att före- 5. aktivt arbeta för att före-
+5\. aktivt arbeta för att före-
+
 bygga och motverka missbruk av bygga och motverka skadligt
 spel om pengar bland barn och bruk eller beroende av spel om
 unga,                 pengar bland barn och unga,
@@ -9777,10 +9876,10 @@ riskerar att utvecklas ogynnsamt får det skydd och stöd som de behöver
 och, om barnets eller den unges bästa motiverar det, vård och fostran
 utanför det egna hemmet,
 9\. i sin omsorg om barn och unga tillgodose det särskilda behov
+
 av stöd och hjälp som kan finnas sedan ett mål eller ärende om vård-
 nad, boende, umgänge eller adoption har avgjorts, och
 10\. i sin omsorg om barn och unga tillgodose det särskilda behov
-
 av stöd och hjälp som kan finnas sedan vård och fostran utanför det
 egna hemmet upphört eller sedan verkställighet av sluten ungdoms-
 vård enligt lagen (1998:603) om verkställighet av sluten ungdoms-
@@ -9897,17 +9996,28 @@ som på grund av missbruk av person med skadligt bruk eller
 
 SOU 2021:93                              Författningsförslag
 
-alkohol, narkotika eller därmed beroende av alkohol, narkotika
-jämförbara medel som får vård eller därmed jämförbara medel
+alkohol, narkotika eller därmed
+jämförbara medel som får vård
+eller behandling i ett hem för
+vård eller boende eller i ett
+familjehem. Regeringen med-
+delar föreskrifter om den högsta
+ersättning som får tas ut för varje
+dag. För andra stöd- och hjälpin-
+satser får kommunen ta ut skälig
+ersättning.
 
-eller behandling i ett hem för som får vård eller behandling i
-vård eller boende eller i ett ett hem för vård eller boende
-familjehem. Regeringen med- eller i ett familjehem. Reger-
-delar föreskrifter om den högsta ingen meddelar föreskrifter om
-ersättning som får tas ut för varje den högsta ersättning som får tas
-dag. För andra stöd- och hjälpin- ut för varje dag. För andra stöd-
-satser får kommunen ta ut skälig och hjälpinsatser får kommunen
-ersättning.           ta ut skälig ersättning.
+beroende av alkohol, narkotika
+eller därmed jämförbara medel
+som får vård eller behandling i
+ett hem för vård eller boende
+eller i ett familjehem. Reger-
+ingen meddelar föreskrifter om
+den högsta ersättning som får tas
+ut för varje dag. För andra stöd-
+och hjälpinsatser får kommunen
+ta ut skälig ersättning.
+
 Om ett barn genom socialnämndens försorg får vård i ett annat
 hem än det egna, är föräldrarna skyldiga att i skälig utsträckning bidra
 till kommunens kostnader enligt grunder som regeringen föreskri-
@@ -9924,15 +10034,15 @@ på att nya medel används för på att nya medel används för
 missbruksändamål eller att änd- skadligt bruk eller beroende eller
 ringar sker i missbruksmönster av att ändringar sker i användnings-
 kända medel, ska nämnden utan mönstret av kända medel, ska
-
 dröjsmål anmäla detta till Folk- nämnden utan dröjsmål anmäla
 hälsomyndigheten.     detta till Folkhälsomyndigheten.
-16 kap.
 
+16 kap.
 10 §8
 Regeringen eller den myndighet som regeringen bestämmer får
 meddela sådana föreskrifter inom socialtjänsten som behövs till
 skydd för enskildas liv, personliga säkerhet eller hälsa i verksamhet
+
 som avser
 
 7 Senaste lydelse 2013:633.
@@ -9965,11 +10075,10 @@ Denna lag träder i kraft den 1 januari 2025.
 SOU 2021:93                              Författningsförslag
 
 1.5   Förslag till lag om ändring i lagen (2006:323)
-
 om utbyte av sprutor och kanyler
+
 Härigenom föreskrivs i fråga om lag (2006:232) om utbyte av sprutor
 och kanyler
-
 dels att 4, 5 samt 7 §§ ska upphöra att gälla,
 dels att rubriken närmast före 2 § ska ha ny lydelse samt att rubri-
 ken före 7 § ska utgå,
@@ -9978,13 +10087,23 @@ dels att 1, 2, 3 samt 6 §§ ska ha följande lydelse.
 Nuvarande lydelse     Föreslagen lydelse
 
 1 §1
-I denna lag finns bestämmel- I denna lag finns bestämmel-
-ser om verksamhet med utbyte ser om verksamhet med utbyte
-av sprutor och kanyler (sprutut- av sprutor och kanyler (sprutut-
-bytesverksamhet) i syfte att före- bytesverksamhet). Syftet med
-bygga spridning av hivinfektion sådan verksamhet är att förebygga
-och andra blodburna infektioner spridning av blodburna infektio-
-bland personer som missbrukar ner samt att främja fysisk och
+
+I denna lag finns bestämmel-
+ser om verksamhet med utbyte
+av sprutor och kanyler (sprutut-
+bytesverksamhet) i syfte att före-
+bygga spridning av hivinfektion
+och andra blodburna infektioner
+bland personer som missbrukar
+
+I denna lag finns bestämmel-
+ser om verksamhet med utbyte
+av sprutor och kanyler (sprutut-
+bytesverksamhet). Syftet med
+sådan verksamhet är att förebygga
+spridning av blodburna infektio-
+ner samt att främja fysisk och
+
 narkotika.            psykisk hälsa hos personer med
 skadligt bruk eller beroende av
 narkotika.
@@ -10071,16 +10190,27 @@ att 21 kap. 1, 25 kap. 12 samt 26 kap. 9 §§ ska ha följande lydelse.
 Nuvarande lydelse     Föreslagen lydelse
 
 21 kap.
-1 §
-Sekretess gäller för uppgift Sekretess gäller för uppgift
-som rör en enskilds hälsa eller som rör en enskilds hälsa eller
-sexualliv, såsom uppgifter om sexualliv, såsom uppgifter om
 
-sjukdomar, missbruk, sexuell lägg- sjukdomar, skadligt bruk eller
-ning, könsbyte, sexualbrott eller beroende, sexuell läggning, köns-
-annan liknande uppgift, om det byte, sexualbrott eller annan
-måste antas att den enskilde eller liknande uppgift, om det måste
-någon närstående till denne kom- antas att den enskilde eller någon
+1 §
+
+Sekretess gäller för uppgift
+som rör en enskilds hälsa eller
+sexualliv, såsom uppgifter om
+sjukdomar, missbruk, sexuell lägg-
+ning, könsbyte, sexualbrott eller
+annan liknande uppgift, om det
+måste antas att den enskilde eller
+någon närstående till denne kom-
+
+Sekretess gäller för uppgift
+som rör en enskilds hälsa eller
+sexualliv, såsom uppgifter om
+sjukdomar, skadligt bruk eller
+beroende, sexuell läggning, köns-
+byte, sexualbrott eller annan
+liknande uppgift, om det måste
+antas att den enskilde eller någon
+
 mer att lida betydande men om närstående till denne kommer att
 uppgiften röjs.       lida betydande men om uppgiften
 röjs.
@@ -10316,7 +10446,6 @@ Författningsförslag                        SOU 2021:93
 
 endeframkallande medel, läke- kotika, andra beroendeframkal-
 medel, dopningsmedel eller spel lande medel, läkemedel, dopnings-
-
 om pengar, och        medel eller spel om pengar, och
 3\. barn och unga som vårdas utanför det egna hemmet.
 Om det är möjligt bör organisationer som företräder dessa per-
@@ -10327,6 +10456,7 @@ gjort sina åtaganden enligt 8 kap.
 12 § tredje stycket, ska regionen,
 om inte annat avtalats, lämna
 ersättning till kommunen.
+
 Ersättning ska lämnas med ett
 belopp som motsvarar 40 procent
 av genomsnittskostnaden i riket
@@ -10341,20 +10471,29 @@ meddela föreskrifter om den ersätt-
 ning som avses i första stycket.
 
 Underrättelseskyldighet i fråga Underrättelseskyldighet i fråga
-
 om missbruk           om skadligt bruk eller beroende
+
 18 kap.
 1 §
 
-Om en nämnd som utövar led- Om en nämnd som utövar led-
-ning enligt 7 kap. 1 § eller 11 kap. ning enligt 7 kap. 1 § eller 11 kap.
-1 § i sin verksamhet iakttagit 1 § i sin verksamhet iakttagit
-något som tyder på att nya medel något som tyder på att nya medel
-används för missbruksändamål används för skadligt bruk eller
-eller att ändringar sker i miss- beroende eller att ändringar sker
-bruksmönster av kända medel, ska i användningsmönstret av kända
-nämnden utan dröjsmål anmäla medel, ska nämnden utan dröjs-
+Om en nämnd som utövar led-
+ning enligt 7 kap. 1 § eller 11 kap.
+1 § i sin verksamhet iakttagit
+något som tyder på att nya medel
+används för missbruksändamål
+eller att ändringar sker i miss-
+bruksmönster av kända medel, ska
+nämnden utan dröjsmål anmäla
 detta till Folkhälsomyndigheten.
+
+Om en nämnd som utövar led-
+ning enligt 7 kap. 1 § eller 11 kap.
+1 § i sin verksamhet iakttagit
+något som tyder på att nya medel
+används för skadligt bruk eller
+beroende eller att ändringar sker
+i användningsmönstret av kända
+medel, ska nämnden utan dröjs-
 
 58
 
@@ -10374,25 +10513,37 @@ Denna lag träder i kraft den 1 januari 2025.
 Författningsförslag                        SOU 2021:93
 
 1.10  Förslag till förordning om ändring
-
 i socialtjänstförordningen (2001:937)
+
 Härigenom föreskrivs i fråga om socialtjänstförordningen (2001:937)
 att 3 kap. 1, 4, 6, 12 §§ samt 8 kap. 1 § ska ha följande lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
-3 kap.
 
+3 kap.
 1 §1
 Med hem för vård eller boende Med hem för vård eller boende
-avses ett hem inom socialtjäns- avses ett hem inom socialtjäns-
-ten som tar emot enskilda för ten som, i förening med boende,
-vård eller behandling i förening ger stöd och hjälp som utvecklar
-med ett boende. Om ett sådant den boendes resurser och förmåga
-hem drivs av ett bolag, en före- att leva ett självständigt liv. Om
-ning, en samfällighet, en stiftelse ett sådant hem drivs av ett bolag,
-eller en enskild individ krävs dess- en förening, en samfällighet, en
-utom att verksamheten bedrivs stiftelse eller en enskild individ
-yrkesmässigt.         krävs dessutom att verksamhe-
+
+avses ett hem inom socialtjäns-
+ten som tar emot enskilda för
+vård eller behandling i förening
+med ett boende. Om ett sådant
+hem drivs av ett bolag, en före-
+ning, en samfällighet, en stiftelse
+eller en enskild individ krävs dess-
+utom att verksamheten bedrivs
+yrkesmässigt.
+
+avses ett hem inom socialtjäns-
+ten som, i förening med boende,
+ger stöd och hjälp som utvecklar
+den boendes resurser och förmåga
+att leva ett självständigt liv. Om
+ett sådant hem drivs av ett bolag,
+en förening, en samfällighet, en
+stiftelse eller en enskild individ
+krävs dessutom att verksamhe-
+
 ten bedrivs yrkesmässigt.
 Enligt 8 kap. 12 § hälso- och
 sjukvårdslagen (2017:30) och 6 kap.
@@ -10406,12 +10557,19 @@ former som avses i 5 kap. 5 § andra och tredje styckena eller 5 kap.
 
 4 §
 
-Verksamheten skall bedrivas i Verksamheten ska bedrivas i
-fortlöpande samarbete med den fortlöpande samarbete med den
-socialnämnd som har det samman- socialnämnd som har det samman-
-hållande ansvaret för att den en- hållande ansvaret för att den en-
-skilde får det stöd och den hjälp skilde får det stöd och den hjälp
-som han eller hon behöver. som han eller hon behöver och
+Verksamheten skall bedrivas i
+fortlöpande samarbete med den
+socialnämnd som har det samman-
+hållande ansvaret för att den en-
+skilde får det stöd och den hjälp
+som han eller hon behöver.
+
+Verksamheten ska bedrivas i
+fortlöpande samarbete med den
+socialnämnd som har det samman-
+hållande ansvaret för att den en-
+skilde får det stöd och den hjälp
+som han eller hon behöver och
 
 1 Senaste lydelse 2018:1935.
 
@@ -10436,22 +10594,33 @@ Hem som ger vård och behand-
 ling åt missbrukare av alkohol,
 narkotika eller flyktiga lösnings-
 medel bör ha tillgång till läkare
+
 med särskilda kunskaper som är
 lämpade för denna verksamhet.
 Dessutom bör hem som avses i denna bestämmelse ha tillgång till
 psykologisk expertis.
 
 12 §
-Om socialnämnden ansöker Om socialnämnden ansöker
-om inskrivning enligt 10 eller om inskrivning enligt 10 eller
-11 §§ skall nämnden foga sin 11 §§ ska nämnden foga sin
-utredning i ärendet till ansökan. utredning i ärendet till ansökan,
-Om  ansökan görs av någon samt en sådan individuell vård-
 
-annan skall den som beslutar om plan som avses i 6 kap. 1 § social-
-inskrivning höra socialnämnden, tjänstlagen (2001:453). Om ansö-
+Om socialnämnden ansöker
+om inskrivning enligt 10 eller
+11 §§ skall nämnden foga sin
+utredning i ärendet till ansökan.
+Om  ansökan görs av någon
+annan skall den som beslutar om
+inskrivning höra socialnämnden,
+
+Om socialnämnden ansöker
+om inskrivning enligt 10 eller
+11 §§ ska nämnden foga sin
+utredning i ärendet till ansökan,
+samt en sådan individuell vård-
+plan som avses i 6 kap. 1 § social-
+tjänstlagen (2001:453). Om ansö-
+
 om det behövs.        kan görs av någon annan ska den
 som beslutar om inskrivning
+
 höra socialnämnden, om det
 behövs.
 
@@ -10922,240 +11091,86 @@ ling för alla målbilder.
 
 Betänkandets innehåll och viktigaste budskap SOU 2021:93
 
-74
-tehgiljöm
-hco
-gnildnaheb
-ednaregnuf
-llit gnåglliT
-.gim
-rassap
-mos ted
-nårfitu ajläv
-tta
-pläjh
-åf
-hco
-dråv
-hco
-döts nårf dgnätsetu
-ilb
-etnI
-.asläho
-ksikysp
-hco edneoreb
-edåb
-dem
--nok
-i ammok
-,attih tta
-ttäl rä mos
-dråv hco
-dötS
-.ned
-revöheb
-gaj
-rän gilgnägllit
-rä mos
-hco dem
-tkat
-.tehleh
-ne
-mos
-pohi
-regnäh mos
-dråv hco
-dötS
--autis
-nim
-aretnah
-tta agåmröf
-nege
-nim i tkräts
-ilB
-.grosmo
-hco
-dråv
-nim
-revö ednatylfni
-ah hconoit
-tllufsgninem
-tte
-hco gadrav
-ednaregnuf
-nE
-.gnahnammas
-rarevlovni
-,åp
-ranssyl
-negrosmo
-hco nedråv
-ttA
-.krevtän
-ttim
-llit döts reg
-hco
-dem
-daldnaheb
-ilb hco
-esleåtsröf åf
-,åp danssyl
-ilB
-.ardna mos
-tkepser ammas
 Sammanhållen uppföljning av området skadligt bruk och beroende ska ske utifrån
 målbilder som tagits fram tillsammans med personer med samsjuklighet och anhöriga.
-anredliblåm
-hco
-galsröf
-aråv nallem
-negnilppoK
-1.3
-rugiF
-redliblåM
-galsröf
-snegnindertU
-sanrenoiger
-röf ravsna
-tte
-arav
-aks
-edneoreb
-hco
-kurb
-tgildaks
-va
-gnildnaheb
-llA
-.dråvkujs
-hco-osläh
-röf
-gnildnaheb
-dem
-tandromas
-seg
-aks edneoreb
-hco
-kurb
-tgildaks
-röf gnildnaheB
-.dnåtsllit
-aksirtaikysp
-ardna
-dem
-rejlöf
-mos
-hco åp
-atil nak gaj
-mos nosrep
-nE
-ksikysp
-hco
-ksisyf
-rajmärf
-mos
-ragningattomleksörtgål
-llit salkcevtu
-aks etybtuturpS
-.nessecorp
-aleh
-i
-.tehmaskrev
-nadås
-adujbre
-aks
-renoiger
-alla hco
-asläh
-relle
-dråv
-röf
-meh
-åp
-restasnisdråvkujs
-hco-osläh
-röf ravsna
-at
-aks anrenoigeR .)BVH(
-edneob
-.tehgilkujsmas
-dem
-renosrep
-röf akö
-aks
-dubmo
-agilnosrep
-llit negnåglliT
-.kurb
-tgildaks
-hco asläho
-ksikysp
-dem pläjh
-gidiT
-vohebsgnindromas
-arots
-dem
-ed röf tehmaskrevdöts
-hco-dråv
-dandromas
-nE
-.tsnäjtlaicos
-hco
-dråvkujs
-hco-osläh
-va tmasnemeg
-savirdeb
-hco
-tllarevö
-sannif
-aks
--snoitknuf
-åp sukof
-dem
-tehggyrt
-laicos
-,restasni
-ednaggyberöf
-ardna
-hco
-ednakösppU
-restasni
-tmas
-dötsgiröhna
-,vil
-tgidnätsvläjs
-tte
-llit
-retehgiljöm
-hco
-resruser
-,agåmröf
-.netsnäjtlaicos
-röf
-gardppu
-tagildytröf
-hco
-ttastrof
-tte arav
-aks
-agnu
-hco
-nrab
-llit
-savirdeb
-aks
-gniresitamgits
-daksnim
-hco ednatylfnirakurb
-tkrätsröf
-röf margorp
-ttE
-.renoitasinagrogiröhna
-hco
-rakurb
-,tneitap
-dem
-snammasllit
+
+74
+
+Figur 3.1
+
+Kopplingen mellan våra förslag och målbilderna
+
+Utredningens förslag
+
+Målbilder
+
+All behandling av skadligt bruk och beroende ska vara ett ansvar för regionernas
+
+Tillgång till fungerande behandling och möjlighet
+
+hälso- och sjukvård.
+
+att välja utifrån det som passar mig.
+
+Behandling för skadligt bruk och beroende ska ges samordnat med behandling för
+
+Inte bli utestängd från stöd och vård och få hjälp
+
+andra psykiatriska tillstånd.
+
+med både beroende och psykisk ohälsa.
+
+Sprututbyte ska utvecklas till lågtröskelmottagningar som främjar fysisk och psykisk
+
+En person som jag kan lita på och som följer med
+
+hälsa och alla regioner ska erbjuda sådan verksamhet.
+
+i hela processen.
+
+Regionerna ska ta ansvar för hälso- och sjukvårdsinsatser på hem för vård eller
+
+Stöd och vård som är lätt att hitta, komma i kon-
+
+boende (HVB).
+
+takt med och som är tillgänglig när jag behöver den.
+
+Tillgången till personliga ombud ska öka för personer med samsjuklighet.
+
+Stöd och vård som hänger ihop som en helhet.
+
+Tidig hjälp med psykisk ohälsa och skadligt bruk.
+
+En samordnad vård-och stödverksamhet för de med stora samordningsbehov
+
+Bli stärkt i min egen förmåga att hantera min situa-
+
+ska finnas överallt och bedrivas gemensamt av hälso- och sjukvård och socialtjänst.
+
+tion och ha inflytande över min vård och omsorg.
+
+En fungerande vardag och ett meningsfullt
+
+Uppsökande och andra förebyggande insatser, social trygghet med fokus på funktions-
+
+sammanhang.
+
+förmåga, resurser och möjligheter till ett självständigt liv, anhörigstöd samt insatser
+
+till barn och unga ska vara ett fortsatt och förtydligat uppdrag för socialtjänsten.
+
+Att vården och omsorgen lyssnar på, involverar
+
+och ger stöd till mitt nätverk.
+
+Ett program för förstärkt brukarinflytande och minskad stigmatisering ska bedrivas
+
+Bli lyssnad på, få förståelse och bli behandlad med
+
+tillsammans med patient, brukar och anhörigorganisationer.
+
+samma respekt som andra.
 
 <!-- sida 252 -->
 
@@ -11950,146 +11965,124 @@ Affect Disord. 2016;206:331–49.
 Definition, förekomst och konsekvenser av samsjuklighet SOU 2021:93
 
 94
-reiduts
-aksinilk
-i
-edneoreb
-relle
-kurb
-tgildaks
-dem
-renosrep
-soh
-resongaid
-aksirtaikysp
-ardna
-va
-tsmokeröF
-2.4
-llebaT
-tevil
-i gnåg
-nogåN
-anredanåm
-21
-etsaneS
-lepS
-redioipO
-nogåN
-lepS
-redioipO
-sibannaC
-nogåN
-lohoklA
-akitokran
-akitokran
-nanna
-nogåN
-%37
-% 94
-%
-85
-%
-94
-songaid
-ksirtaikysp
-%
-33
-%
-11
-%
-14
-vitkeffa/noisserpeD
-%
-05
-% 55
-%
-22
-%
-72
-%
-12
-%
-06
-%
-34
-modkujs
-%
-43
-%81
-%
-33
-modkujstsegnÅ
-%
-14
-%62
-%92
-%72
-%22
-%34
-%
-44
-%
-32
-% 75
-%
-65
-%
-11
-%
-07
-%
-04
-gninrötsstehgilnosreP
-%
-7
-modkujssokysP
-aksirtaikysporuen/dhdA
-%
-32
-%
-21
-%
-01
-%
-31
-dnåtsllit
-,8102
-.la
-te
-nossnakåH
-,5002
-.la
-te
-irteP
-,2102
-nessremtroO
-nav
-&
-kiremmE
-nav
-,5102
-.M
-retlaW
-,5102
-AA
-negahnethcU
-,4002
-.la
-te
-tnarG
-,5102
-.la te
-mheR
-:rolläK
-.8102
-nesneJ-ellivetterB
-&
-nesnaitsirhC
-,7102
-.la
-te
-nossnakåH
+
+Tabell 4.2 Förekomst av andra psykiatriska diagnoser hos personer med skadligt bruk eller beroende i kliniska studier
+
+Senaste 12 månaderna
+
+Någon gång i livet
+
+Alkohol
+
+Någon
+
+Cannabis
+
+Opioider
+
+Spel
+
+Någon
+
+Opioider
+
+Spel
+
+narkotika
+
+narkotika
+
+Någon annan
+
+psykiatrisk diagnos
+
+49 %
+
+58 %
+
+49 %
+
+73%
+
+Depression/affektiv
+
+41 %
+
+11 %
+
+33 %
+
+sjukdom
+
+43 %
+
+60 %
+
+21 %
+
+27 %
+
+22 %
+
+55 %
+
+50 %
+
+Ångestsjukdom
+
+33 %
+
+18 %
+
+34 %
+
+44 %
+
+43 %
+
+22 %
+
+27 %
+
+29 %
+
+26 %
+
+41 %
+
+Personlighetsstörning
+
+40 %
+
+70 %
+
+11 %
+
+56 %
+
+57 %
+
+23 %
+
+Psykossjukdom
+
+7 %
+
+Adhd/neuropsykiatriska
+
+tillstånd
+
+13 %
+
+10 %
+
+12 %
+
+23 %
+
+Källor: Rehm et al. 2015, Grant et al. 2004, Uchtenhagen AA 2015, Walter M. 2015, van Emmerik & van Oortmerssen 2012, Petri et al. 2005, Håkansson et al. 2018,
+
+Håkansson et al. 2017, Christiansen & Bretteville-Jensen 2018.
 
 <!-- sida 272 -->
 
@@ -38684,115 +38677,190 @@ Uppdraget ska redovisas senast den 30 november 2021.
 
 <!-- sida 863 -->
 
-Statens offentliga utredningar  2021
+Statens  offentliga utredningar 2021
 
 Kronologisk förteckning
 
-1\. Säker och kostnadseffektiv it-drift 16. En väl fungerande ordning för val
-– rättsliga förutsättningar för och beslutsfattande i kommuner
-utkontraktering. I.    och regioner. Fi.
-2\. Krav på kunskaper i svenska och 17. Ett moderniserat konsumentskydd. Fi.
-samhällskunskap för svenskt 18. Bolags rörlighet över gränserna.
-medborgarskap. Ju.     Volym 1 & 2. Ju.
-3\. Skolbibliotek för bildning och 19. En stärkt försörjningsberedskap för
-utbildning. U.         hälso- och sjukvården. Del 1 och 2. S.
-4\. Informationsöverföring inom vård 20. Ecris-TCN – ett mer effektivt utbyte
-och omsorg. S.         av brottmålsdomar mot tredjelands-
-5\. Ett förbättrat system för arbetskrafts- medborgare. Ju.
-invandring. Ju.      21. En klimatanpassad miljöbalk för
-6\. God och nära vård. Rätt stöd till samtiden och framtiden. M.
-psykisk hälsa. S.    22. Hårdare regler för nya nikotin-
-7\. Förstärkt skydd för väljarna vid röst- produkter. S.
-mottagningen. Ju.    23. Stärkt planering för en hållbar
-8\. När behovet får styra utveckling. Fi.
-– ett tandvårdssystem för en mer jäm- 24. Äga avfall
-lik tandhälsa. Vol. 1 & Vol. 2, bilagor – en del av den cirkulära ekonomin. M.
+1\. Säker och kostnadseffektiv it-drift
+– rättsliga förutsättningar för
+utkontraktering. I.
+2\. Krav på kunskaper i svenska och
+samhällskunskap för svenskt
+medborgarskap. Ju.
+3\. Skolbibliotek för bildning och
+utbildning. U.
+4\. Informationsöverföring inom vård
+och omsorg. S.
+5\. Ett förbättrat system för arbetskrafts-
+invandring. Ju.
+6\. God och nära vård. Rätt stöd till
+psykisk hälsa. S.
+7\. Förstärkt skydd för väljarna vid röst-
+mottagningen. Ju.
+8\. När behovet får styra
+– ett tandvårdssystem för en mer jäm-
+lik tandhälsa. Vol. 1 & Vol. 2, bilagor
 \+ Sammanfattning (häfte). S.
-25\. Struktur för ökad motståndskraft. Ju.
 9\. Vem kan man lita på? Enkel och
-26\. Använd det som fungerar. M.
 ändamålsenlig användning av
-betrodda tjänster i den offentliga 27. Ett förbud mot rasistiska
-förvaltningen. I.      organisationer. Ju.
-10\. Radiologiska skador – skadestånd, 28. Immunitet för utställningsföremål. Ku.
-säkerheter, skadereglering. M. 29. Ökade möjligheter att förhindra
-11\. Bättre möjligheter för elever att nå illegal handel via post. I.
-kunskapskraven – aktivt stöd- och 30. Kampen om tiden
-elevhälsoarbete samt stärkt utbildning – mer tid till lärande. U.
-för elever med intellektuell funktions- 31. Kontroller på väg. I.
+betrodda tjänster i den offentliga
+förvaltningen. I.
+10\. Radiologiska skador – skadestånd,
+säkerheter, skadereglering. M.
+11\. Bättre möjligheter för elever att nå
+kunskapskraven – aktivt stöd- och
+elevhälsoarbete samt stärkt utbildning
+för elever med intellektuell funktions-
 nedsättning. U.
-32\. Papper, poddar och ...
-12\. Andra chans för krisande företag Pliktmateriallagstiftning för ett
-– En ny lag om företagsrekonstruktion. tryggat källmaterial. U.
+12\. Andra chans för krisande företag
+– En ny lag om företagsrekonstruktion.
 Ju.
+13\. En teknikneutral grundlags-
+bestämmelse för regeringsbeslut. Ju.
+14\. Boende på (o)lika villkor
+– merkostnader i bostad med särskild
+service för vuxna enligt LSS. S.
+15\. Föreningsfrihet och terrorist-
+organisationer. Ju.
+
+16\. En väl fungerande ordning för val
+och beslutsfattande i kommuner
+och regioner. Fi.
+17\. Ett moderniserat konsumentskydd. Fi.
+18\. Bolags rörlighet över gränserna.
+Volym 1 & 2. Ju.
+19\. En stärkt försörjningsberedskap för
+hälso- och sjukvården. Del 1 och 2. S.
+20\. Ecris-TCN – ett mer effektivt utbyte
+av brottmålsdomar mot tredjelands-
+medborgare. Ju.
+21\. En klimatanpassad miljöbalk för
+samtiden och framtiden. M.
+22\. Hårdare regler för nya nikotin-
+produkter. S.
+23\. Stärkt planering för en hållbar
+utveckling. Fi.
+24\. Äga avfall
+– en del av den cirkulära ekonomin. M.
+25\. Struktur för ökad motståndskraft. Ju.
+26\. Använd det som fungerar. M.
+27\. Ett förbud mot rasistiska
+organisationer. Ju.
+28\. Immunitet för utställningsföremål. Ku.
+29\. Ökade möjligheter att förhindra
+illegal handel via post. I.
+30\. Kampen om tiden
+– mer tid till lärande. U.
+31\. Kontroller på väg. I.
+32\. Papper, poddar och ...
+Pliktmateriallagstiftning för ett
+tryggat källmaterial. U.
 33\. En tioårig grundskola. Införandet
-13\. En teknikneutral grundlags- av en ny årskurs 1 i grundskolan,
-bestämmelse för regeringsbeslut. Ju. grundsärskolan, specialskolan och
-14\. Boende på (o)lika villkor sameskolan. U.
-– merkostnader i bostad med särskild 34. Börja med barnen! En sammanhållen
-service för vuxna enligt LSS. S. god och nära vård för barn och unga. S.
-15\. Föreningsfrihet och terrorist- 35. En stärkt rättsprocess och en ökad
-organisationer. Ju.    lagföring. Ju.
+av en ny årskurs 1 i grundskolan,
+grundsärskolan, specialskolan och
+sameskolan. U.
+34\. Börja med barnen! En sammanhållen
+god och nära vård för barn och unga. S.
+35\. En stärkt rättsprocess och en ökad
+lagföring. Ju.
 
 <!-- sida 864 -->
 
-36\. Gode män och förvaltare – en över- 59. Vägen till tillgänglighet – långsiktig,
-syn. Ju.              strategisk och i samverkan. S.
-37\. Stärkt rätt till personlig assistans. 60. Förenklingar för mikroföretag och
-Ökad rättssäkerhet för barn, fler modernisering av bokföringslagen. N.
-grundläggande behov och tryggare 61. Utvisning på grund av brott – ett
-sjukvårdande insatser. S. skärpt regelverk. Ju.
-38\. En ny lag om ordningsvakter m.m. Ju. 62. Användning av e-legitimation i tjänsten
-39\. Ombuds tillgång till vård- och i den offentliga förvaltningen. I.
-omsorgsuppgifter och förenklad 63. Sveriges säkerhet
-behörighetskontroll inom vården. S. – behov av starkare skydd för nätverks-
-40\. Mervärdesskatt vid inhyrd personal och informationssystem. Fö.
-för vård och social omsorg. Fi. 64. Ersättning till brottsoffer. Ju.
-41\. VAB för vårdåtgärder i skolan. S. 65. Stärkt fokus på framtidens forsknings-
-42\. Stärkta åtgärder mot penningtvätt infrastruktur. U.
-och finansiering av terrorism. Fi. 66. Rätt mottagare. Demokrativillkor och
-43\. Ett förstärkt skydd mot sexuella integritet. Ku.
-kränkningar. Ju.     67. Vägen mot fossiloberoende jordbruk.
-44\. Tillgänglighetsdirektivet. S. N.
-45\. En EU-anpassad djurläkemedels- 68. Skärpta straff för brott i kriminella
-lagstiftning. Del 1 och 2. N. nätverk. Ju.
-46\. Snabbare lagföring 69. En sjukförsäkring med prevention,
-– ett snabbförfarande i brottmål. Ju. rehabilitering och trygghet.
-47\. Ett nytt regelverk för bygglov. Volym 1 och 2. S.
-Del 1 och 2. Fi.     70. Läromedelsutredningen
-48\. I en värld som ställer om. – böckernas betydelse och elevernas
-Sverige utan fossila drivmedel 2040. tillgång till kunskap. U.
-M.                   71. Riksintressen i hälso- och sjukvården
-49\. Kommuner mot brott. Ju. – stärkt statlig styrning för hållbar
-vårdinfrastruktur. S.
+36\. Gode män och förvaltare – en över-
+syn. Ju.
+37\. Stärkt rätt till personlig assistans.
+Ökad rättssäkerhet för barn, fler
+grundläggande behov och tryggare
+sjukvårdande insatser. S.
+38\. En ny lag om ordningsvakter m.m. Ju.
+39\. Ombuds tillgång till vård- och
+omsorgsuppgifter och förenklad
+behörighetskontroll inom vården. S.
+40\. Mervärdesskatt vid inhyrd personal
+för vård och social omsorg. Fi.
+41\. VAB för vårdåtgärder i skolan. S.
+42\. Stärkta åtgärder mot penningtvätt
+och finansiering av terrorism. Fi.
+43\. Ett förstärkt skydd mot sexuella
+kränkningar. Ju.
+44\. Tillgänglighetsdirektivet. S.
+45\. En EU-anpassad djurläkemedels-
+lagstiftning. Del 1 och 2. N.
+46\. Snabbare lagföring
+– ett snabbförfarande i brottmål. Ju.
+47\. Ett nytt regelverk för bygglov.
+Del 1 och 2. Fi.
+48\. I en värld som ställer om.
+Sverige utan fossila drivmedel 2040.
+M.
+49\. Kommuner mot brott. Ju.
 50\. Fri hyressättning vid nyproduktion.
-Ju.                  72. Högskoleprovets organisation
-och styrning. U.
-51\. Skydd av arter – vårt gemensamma
-ansvar. Vol. 1 och 2. M. 73. Regler för statliga elvägar. I.
-52\. Vilja välja vård och omsorg. 74. Ett modernt belöningssystem,
-En hållbar kompetensförsörjning de allmänna flaggdagarna och redovis-
-inom vård och omsorg om äldre. S. ningen av anslaget till hovet. Ju.
-53\. En rättssäker vindkraftsprövning. M. 75. En god kommunal hushållning.
-\+ Digital bilagedel för bilaga 3–6. Fi.
-54\. Ändrade regler i medborgarskaps-
-lagen. Ju.           76. EU:s förordning om terrorisminne-
-håll på internet – frågan om behörig
-55\. Mikroföretagarkonto
-myndighet. Ju.
-– schabloniserad inkomstbeskattning
-för de minsta företagen. Fi. 77. Från kris till kraft. Återstart för kul-
-turen. Ku.
-56\. Nya regler om utländska föräldraskap
-och adoption i vissa fall. Ju. 78. Börja med barnen! Följa upp hälsa
-och dela information för en god
-57\. Om folkbokföring, samordnings-
-och nära vård. S.
-nummer och identitetsnummer. Fi.
-79\. En uppföljning av skriftlighetskravet
-58\. Läge och kvalitet i hyressättningen.
-vid telefonförsäljning. Fi.
 Ju.
+51\. Skydd av arter – vårt gemensamma
+ansvar. Vol. 1 och 2. M.
+52\. Vilja välja vård och omsorg.
+En hållbar kompetensförsörjning
+inom vård och omsorg om äldre. S.
+53\. En rättssäker vindkraftsprövning. M.
+54\. Ändrade regler i medborgarskaps-
+lagen. Ju.
+55\. Mikroföretagarkonto
+– schabloniserad inkomstbeskattning
+för de minsta företagen. Fi.
+56\. Nya regler om utländska föräldraskap
+och adoption i vissa fall. Ju.
+57\. Om folkbokföring, samordnings-
+nummer och identitetsnummer. Fi.
+58\. Läge och kvalitet i hyressättningen.
+Ju.
+
+59\. Vägen till tillgänglighet – långsiktig,
+strategisk och i samverkan. S.
+60\. Förenklingar för mikroföretag och
+modernisering av bokföringslagen. N.
+61\. Utvisning på grund av brott – ett
+skärpt regelverk. Ju.
+62\. Användning av e-legitimation i tjänsten
+i den offentliga förvaltningen. I.
+63\. Sveriges säkerhet
+– behov av starkare skydd för nätverks-
+och informationssystem. Fö.
+64\. Ersättning till brottsoffer. Ju.
+65\. Stärkt fokus på framtidens forsknings-
+infrastruktur. U.
+66\. Rätt mottagare. Demokrativillkor och
+integritet. Ku.
+67\. Vägen mot fossiloberoende jordbruk.
+N.
+68\. Skärpta straff för brott i kriminella
+nätverk. Ju.
+69\. En sjukförsäkring med prevention,
+rehabilitering och trygghet.
+Volym 1 och 2. S.
+70\. Läromedelsutredningen
+– böckernas betydelse och elevernas
+tillgång till kunskap. U.
+71\. Riksintressen i hälso- och sjukvården
+– stärkt statlig styrning för hållbar
+vårdinfrastruktur. S.
+72\. Högskoleprovets organisation
+och styrning. U.
+73\. Regler för statliga elvägar. I.
+74\. Ett modernt belöningssystem,
+de allmänna flaggdagarna och redovis-
+ningen av anslaget till hovet. Ju.
+75\. En god kommunal hushållning.
+\+ Digital bilagedel för bilaga 3–6. Fi.
+76\. EU:s förordning om terrorisminne-
+håll på internet – frågan om behörig
+myndighet. Ju.
+77\. Från kris till kraft. Återstart för kul-
+turen. Ku.
+78\. Börja med barnen! Följa upp hälsa
+och dela information för en god
+och nära vård. S.
+79\. En uppföljning av skriftlighetskravet
+vid telefonförsäljning. Fi.
 
 <!-- sida 865 -->
 
@@ -38829,118 +38897,177 @@ personer med samsjuklighet. S.
 
 <!-- sida 866 -->
 
-Statens offentliga utredningar  2021
+Statens  offentliga utredningar 2021
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Vem kan man lita på? Enkel och ändamåls-
-ILO:s konvention om våld och enlig användning av betrodda tjänster
-trakasserier i arbetslivet [86] i den offentliga förvaltningen. [9]
+Arbetsmarknadsdepartementet
+ILO:s konvention om våld och
+trakasserier i arbetslivet [86]
+
+Finansdepartementet
+En väl fungerande ordning för val och
+beslutsfattande i kommuner och
+regioner. [16]
+Ett moderniserat konsumentskydd. [17]
+Stärkt planering för en hållbar utveckling.
+[23]
+Mervärdesskatt vid inhyrd personal för
+vård och social omsorg. [40]
+Stärkta åtgärder mot penningtvätt
+och finansiering av terrorism. [42]
+Ett nytt regelverk för bygglov. Del 1 och 2.
+[47]
+Mikroföretagarkonto
+– schabloniserad inkomstbeskattning
+för de minsta företagen. [55]
+Om folkbokföring, samordningsnummer
+och identitetsnummer. [57]
+En god kommunal hushållning.
+\+ Digital bilagedel för bilaga 3–6. [75]
+En uppföljning av skriftlighetskravet vid
+telefonförsäljning. [79]
+Försvarsdepartementet
+Sveriges säkerhet
+– behov av starkare skydd för nätverks-
+och informationssystem. [63]
+Säkerhetsprövning
+av totalförsvarspliktiga. [82]
+Infrastrukturdepartementet
+Säker och kostnadseffektiv it-drift
+rättsliga förutsättningar för
+utkontraktering. [1]
+
+Vem kan man lita på? Enkel och ändamåls-
+enlig användning av betrodda tjänster
+i den offentliga förvaltningen. [9]
 Ökade möjligheter att förhindra illegal
 handel via post. [29]
-Finansdepartementet
 Kontroller på väg. [31]
-En väl fungerande ordning för val och
-beslutsfattande i kommuner och Användning av e-legitimation i tjänsten
-regioner. [16]         i den offentliga förvaltningen. [62]
-Ett moderniserat konsumentskydd. [17] Regler för statliga elvägar. [73]
-Stärkt planering för en hållbar utveckling.
-[23]                 Justitiedepartementet
-Mervärdesskatt vid inhyrd personal för Krav på kunskaper i svenska och
-vård och social omsorg. [40] samhällskunskap för svenskt
-Stärkta åtgärder mot penningtvätt medborgarskap. [2]
-och finansiering av terrorism. [42] Ett förbättrat system för arbetskrafts-
-Ett nytt regelverk för bygglov. Del 1 och 2. invandring. [5]
-[47]                 Förstärkt skydd för väljarna vid röst-
-Mikroföretagarkonto     mottagningen. [7]
-– schabloniserad inkomstbeskattning Andra chans för krisande företag
-för de minsta företagen. [55] – En ny lag om företagsrekonstruktion.
-Om folkbokföring, samordningsnummer [12]
-och identitetsnummer. [57] En teknikneutral grundlags bestämmelse
-En god kommunal hushållning. för regeringsbeslut. [13]
-\+ Digital bilagedel för bilaga 3–6. [75] Föreningsfrihet och terroristorganisationer.
-En uppföljning av skriftlighetskravet vid [15]
-telefonförsäljning. [79] Bolags rörlighet över gränserna.
+Användning av e-legitimation i tjänsten
+i den offentliga förvaltningen. [62]
+Regler för statliga elvägar. [73]
+Justitiedepartementet
+Krav på kunskaper i svenska och
+samhällskunskap för svenskt
+medborgarskap. [2]
+Ett förbättrat system för arbetskrafts-
+invandring. [5]
+Förstärkt skydd för väljarna vid röst-
+mottagningen. [7]
+Andra chans för krisande företag
+– En ny lag om företagsrekonstruktion.
+[12]
+En teknikneutral grundlags bestämmelse
+för regeringsbeslut. [13]
+Föreningsfrihet och terroristorganisationer.
+[15]
+Bolags rörlighet över gränserna.
 Volym 1 & 2. [18]
-Försvarsdepartementet Ecris-TCN – ett mer effektivt utbyte av
+Ecris-TCN – ett mer effektivt utbyte av
 brottmålsdomar mot tredjelandsmed-
-Sveriges säkerhet
 borgare. [20]
-– behov av starkare skydd för nätverks-
-och informationssystem. [63] Struktur för ökad motståndskraft. [25]
-Säkerhetsprövning     Ett förbud mot rasistiska organisationer.
-av totalförsvarspliktiga. [82] [27]
+Struktur för ökad motståndskraft. [25]
+Ett förbud mot rasistiska organisationer.
+[27]
 En stärkt rättsprocess och en ökad lag-
-Infrastrukturdepartementet föring. [35]
-Säker och kostnadseffektiv it-drift Gode män och förvaltare – en översyn.
-rättsliga förutsättningar för [36]
-utkontraktering. [1] En ny lag om ordningsvakter m.m. [38]
+föring. [35]
+Gode män och förvaltare – en översyn.
+[36]
+En ny lag om ordningsvakter m.m. [38]
 Ett förstärkt skydd mot sexuella
 kränkningar. [43]
 
 <!-- sida 867 -->
 
-Snabbare lagföring    Använd det som fungerar. [26]
-– ett snabbförfarande i brottmål. [46] I en värld som ställer om.
-Kommuner mot brott. [49] Sverige utan fossila drivmedel 2040.
-Fri hyressättning vid nyproduktion. [50] [48]
-Ändrade regler i medborgarskapslagen. [54] Skydd av arter – vårt gemensamma ansvar.
-Vol. 1 och 2. [51]
+Snabbare lagföring
+– ett snabbförfarande i brottmål. [46]
+Kommuner mot brott. [49]
+Fri hyressättning vid nyproduktion. [50]
+Ändrade regler i medborgarskapslagen. [54]
 Nya regler om utländska föräldraskap och
-adoption i vissa fall. [56] En rättssäker vindkraftsprövning. [53]
+adoption i vissa fall. [56]
 Läge och kvalitet i hyressättningen. [58]
-Näringsdepartementet
 Utvisning på grund av brott – ett skärpt
-regelverk. [61]     En EU-anpassad djurläkemedels-
-lagstiftning. Del 1 och 2. [45]
+regelverk. [61]
 Ersättning till brottsoffer. [64]
-Förenklingar för mikroföretag och
 Skärpta straff för brott i kriminella
-modernisering av bokföringslagen.
 nätverk. [68]
-[60]
 Ett modernt belöningssystem,
-Vägen mot fossiloberoende jordbruk. [67]
 de allmänna flaggdagarna och redovis-
-ningen av anslaget till hovet. [74] En säker tillgång till dricksvatten av god
-kvalitet. [81]
+ningen av anslaget till hovet. [74]
 EU:s förordning om terrorisminnehåll på
 internet – frågan om behörig myndig-
-het. [76]           Socialdepartementet
-Granskning av Rättsmedicinalverkets Informationsöverföring inom vård och
-metod för medicinsk åldersbedömning omsorg. [4]
-i asylprocessen. [84] God och nära vård. Rätt stöd till psykisk
-Vägar till ett tryggare samhälle. hälsa. [6]
-Vol. 1och 2. [85]   När behovet får styra
-Granskning av utländska – ett tandvårdssystem för en mer jäm-
-direktinvesteringar. [87] lik tandhälsa. Vol. 1 & Vol. 2, bilagor
-Ett förbättrat system mot + Sammanfattning (häfte). [8]
-arbetskraftsexploatering m.m. [88] Boende på (o)lika villkor – merkostnader
-En översyn av den straffrättsliga i bostad med särskild service för vuxna
-regleringen om preskription. [90] enligt LSS. [14]
-Åtgärder i gränsnära områden. [92] En stärkt försörjningsberedskap för hälso-
-och sjukvården. Del 1 och 2. [19]
-Hårdare regler för nya nikotinprodukter.
+het. [76]
+Granskning av Rättsmedicinalverkets
+metod för medicinsk åldersbedömning
+i asylprocessen. [84]
+Vägar till ett tryggare samhälle.
+Vol. 1och 2. [85]
+Granskning av utländska
+direktinvesteringar. [87]
+Ett förbättrat system mot
+arbetskraftsexploatering m.m. [88]
+En översyn av den straffrättsliga
+regleringen om preskription. [90]
+Åtgärder i gränsnära områden. [92]
 Kulturdepartementet
-[22]
 Immunitet för utställningsföremål. [28]
-Börja med barnen! En sammanhållen god
 Rätt mottagare. Demokrativillkor och
-och nära vård för barn och unga. [34]
 integritet. [66]
-Stärkt rätt till personlig assistans.
 Från kris till kraft. Återstart för kulturen.
-Ökad rättssäkerhet för barn, fler
 [77]
-grundläggande behov och tryggare
-sjukvårdande insatser. [37]
-Miljödepartementet    Ombuds tillgång till vård- och
-Radiologiska skador – skadestånd, omsorgsuppgifter och förenklad
-säkerheter, skadereglering. [10] behörighetskontroll inom vården. [39]
-En klimatanpassad miljöbalk för samtiden VAB för vårdåtgärder i skolan. [41]
-och framtiden. [21] Tillgänglighetsdirektivet. [44]
+Miljödepartementet
+Radiologiska skador – skadestånd,
+säkerheter, skadereglering. [10]
+En klimatanpassad miljöbalk för samtiden
+och framtiden. [21]
 Äga avfall
 – en del av den cirkulära ekonomin. [24]
+
+Använd det som fungerar. [26]
+I en värld som ställer om.
+Sverige utan fossila drivmedel 2040.
+[48]
+Skydd av arter – vårt gemensamma ansvar.
+Vol. 1 och 2. [51]
+En rättssäker vindkraftsprövning. [53]
+Näringsdepartementet
+En EU-anpassad djurläkemedels-
+lagstiftning. Del 1 och 2. [45]
+Förenklingar för mikroföretag och
+modernisering av bokföringslagen.
+[60]
+Vägen mot fossiloberoende jordbruk. [67]
+En säker tillgång till dricksvatten av god
+kvalitet. [81]
+Socialdepartementet
+Informationsöverföring inom vård och
+omsorg. [4]
+God och nära vård. Rätt stöd till psykisk
+hälsa. [6]
+När behovet får styra
+– ett tandvårdssystem för en mer jäm-
+lik tandhälsa. Vol. 1 & Vol. 2, bilagor
+\+ Sammanfattning (häfte). [8]
+Boende på (o)lika villkor – merkostnader
+i bostad med särskild service för vuxna
+enligt LSS. [14]
+En stärkt försörjningsberedskap för hälso-
+och sjukvården. Del 1 och 2. [19]
+Hårdare regler för nya nikotinprodukter.
+[22]
+Börja med barnen! En sammanhållen god
+och nära vård för barn och unga. [34]
+Stärkt rätt till personlig assistans.
+Ökad rättssäkerhet för barn, fler
+grundläggande behov och tryggare
+sjukvårdande insatser. [37]
+Ombuds tillgång till vård- och
+omsorgsuppgifter och förenklad
+behörighetskontroll inom vården. [39]
+VAB för vårdåtgärder i skolan. [41]
+Tillgänglighetsdirektivet. [44]
 
 <!-- sida 868 -->
 
@@ -38998,15 +39125,11 @@ och styrning. [72]
 <!-- sida 869 -->
 
 103 33 Stockholm Växel 08-405 10 00 www.regeringen.se
-BA
-egirevS
-srednalE
-:galsmO
-grebÖ
-S
-atengA
-:dliB
 ISBN 978-91-525-0282-2 ISSN 0375-250X
+
+Omslag: Elanders Sverige AB
+
+Bild: Agneta S Öberg
 
 <!-- sida 870 -->
 
@@ -40163,17 +40286,31 @@ Nuvarande lydelse     Föreslagen lydelse
 48 kap.
 2 §1
 Strafföreläggande enligt detta Strafföreläggande enligt detta
-kapitel innebär att den misstänk- kapitel innebär att den misstänk-
-te föreläggs ett bötesstraff, efter te föreläggs ett bötesstraff, efter
-vad åklagaren anser att brottet vad åklagaren anser att brottet
-bör föranleda, som den miss- bör föranleda, som den miss-
-tänkte får godkänna omedelbart tänkte får godkänna omedelbart
-eller inom en viss tid. Under de eller inom en viss tid. Under de
-förutsättningar som anges i 4 § förutsättningar som anges i 4 §
-andra stycket får strafföreläg- andra stycket får strafföreläg-
-gande avse villkorlig dom eller gande avse villkorlig dom eller
-en sådan påföljd i förening med en sådan påföljd i förening med
+
+kapitel innebär att den misstänk-
+te föreläggs ett bötesstraff, efter
+vad åklagaren anser att brottet
+bör föranleda, som den miss-
+tänkte får godkänna omedelbart
+eller inom en viss tid. Under de
+förutsättningar som anges i 4 §
+andra stycket får strafföreläg-
+gande avse villkorlig dom eller
+en sådan påföljd i förening med
+
+kapitel innebär att den misstänk-
+te föreläggs ett bötesstraff, efter
+vad åklagaren anser att brottet
+bör föranleda, som den miss-
+tänkte får godkänna omedelbart
+eller inom en viss tid. Under de
+förutsättningar som anges i 4 §
+andra stycket får strafföreläg-
+gande avse villkorlig dom eller
+en sådan påföljd i förening med
+
 böter. Av 5 a § framgår att ett böter och under de förutsättningar
+
 strafföreläggande också får om- som anges i 4 § fjärde stycket får
 fatta ett enskilt anspråk som av- strafföreläggande avse ungdoms-
 ser betalningsskyldighet. tjänst. Av 5 a § framgår att ett
@@ -40269,10 +40406,9 @@ Denna lag träder i kraft den 1 januari 2023.
 
 <!-- sida 901 -->
 
-Författningsförslag                        SOU 2022:1
+Författningsförslag                         SOU 2022:1
 
 1.2   Förslag till lag om ändring i lagen (1964:167)
-
 med särskilda bestämmelser om unga
 lagöverträdare
 
@@ -40285,13 +40421,23 @@ dels att det i lagen ska införas tre nya paragrafer, 32 b §, 38 a § och
 Nuvarande lydelse     Föreslagen lydelse
 
 7 §1
-Vid förhör med den som inte Vid förhör med den som inte
-har fyllt arton år och som är har fyllt arton år och som är
-misstänkt för ett brott på vilket misstänkt för ett brott på vilket
-fängelse kan följa skall företrä- fängelse kan följa ska företrädare
-dare för socialtjänsten närvara för socialtjänsten närvara om det
-om det är möjligt och det kan ske inte finns särskilda skäl häremot
-utan men för utredningen. och det kan ske utan men för ut-
+
+Vid förhör med den som inte
+har fyllt arton år och som är
+misstänkt för ett brott på vilket
+fängelse kan följa skall företrä-
+dare för socialtjänsten närvara
+om det är möjligt och det kan ske
+utan men för utredningen.
+
+Vid förhör med den som inte
+har fyllt arton år och som är
+misstänkt för ett brott på vilket
+fängelse kan följa ska företrädare
+för socialtjänsten närvara om det
+inte finns särskilda skäl häremot
+och det kan ske utan men för ut-
+
 redningen.
 
 11 §2
@@ -40302,10 +40448,10 @@ enligt socialtjänstlagen (2001:453) har ansvaret för den unge, om
 denne har erkänt gärningen eller det annars finns skälig misstanke
 att han eller hon har begått brottet och sådant yttrande inte inhämtats
 under förundersökningen. Yttrande behöver inte inhämtas om brottet
-
 är ringa, om det är uppenbart att det finns förutsättningar för straff-
 varning eller åtalsunderlåtelse eller om det annars är obehövligt.
 Om förundersökningen gäller brott på vilket fängelse kan följa,
+
 ska, om möjligt, undersökningsledaren begära ett sådant yttrande
 som avses i första stycket senast i samband med delgivning av brotts-
 misstanke enligt 23 § kap. 18 § första stycket rättegångsbalken.
@@ -40509,15 +40655,24 @@ SOU 2022:1                               Författningsförslag
 
 36 b §6
 Är någon skäligen misstänkt Är någon skäligen misstänkt
-
 för att före femton års ålder olov- för att före femton års ålder olov-
-ligen ha brukat narkotika får ligen ha brukat narkotika får
-kroppsbesiktning genom tagande kroppsbesiktning genom tagande
-av prov från kroppen och under- av prov från kroppen och under-
-sökning av sådana prov företas, sökning av sådana prov företas,
-om det kan antas vara nödvändigt om det kan antas ha betydelse för
-för att avgöra behovet av social- att avgöra behovet av social-
-tjänstens insatser för den unge. tjänstens insatser för den unge.
+
+ligen ha brukat narkotika får
+kroppsbesiktning genom tagande
+av prov från kroppen och under-
+sökning av sådana prov företas,
+om det kan antas vara nödvändigt
+för att avgöra behovet av social-
+tjänstens insatser för den unge.
+
+ligen ha brukat narkotika får
+kroppsbesiktning genom tagande
+av prov från kroppen och under-
+sökning av sådana prov företas,
+om det kan antas ha betydelse för
+att avgöra behovet av social-
+tjänstens insatser för den unge.
+
 Sådan kroppsbesiktning beslutas av åklagare.
 Socialnämnden ska omedelbart underrättas om resultatet av en
 sådan kroppsbesiktning. Detsamma gäller den unges vårdnadshavare
@@ -40534,9 +40689,9 @@ rättegångsbalken gälla. rättegångsbalken gälla.
 Vid kroppsbesiktning enligt Vid kroppsbesiktning enligt
 36 b § ska 28 kap. 3 a och 9 §§, 36 b § ska 28 kap. 3 a och 9 §§,
 12 § andra stycket andra me- 12 § tredje stycket andra me-
-
 ningen, 13 § andra stycket och ningen, 13 § andra stycket och
 13 a § tredje stycket rättegångs- 13 a § tredje stycket rättegångs-
+
 balken gälla i tillämpliga delar. balken gälla i tillämpliga delar.
 
 38 §8
@@ -40664,25 +40819,37 @@ Denna lag träder i kraft den 1 januari 2023.
 SOU 2022:1                               Författningsförslag
 
 1.3   Förslag till lag om ändring i socialtjänstlagen
-
 (2001:453)
+
 Härigenom föreskrivs att 12 kap. 8 § socialtjänstlagen ska ha följande
 lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
-12 kap.
 
+12 kap.
 8 §1
 Har en domstol dömt någon Har en domstol dömt någon
-till ungdomsvård eller till ung- till ungdomsvård eller till ung-
-domstjänst, skall socialnämnden domstjänst, eller har ungdomstjänst
-underrätta åklagarmyndigheten, förordnats genom ett strafförelägg-
-om det kan antas att det finns ande som godkänts, ska social-
-förutsättningar för åtgärd enligt nämnden underrätta åklagarmyn-
-30 b § lagen (1964:167) med sär- digheten, om det kan antas att
-skilda bestämmelser om unga lag- det finns förutsättningar för åt-
-överträdare eller 32 kap. 4 § brotts- gärd enligt 30 b § lagen (1964:167)
-balken.               med särskilda bestämmelser om
+
+till ungdomsvård eller till ung-
+domstjänst, skall socialnämnden
+underrätta åklagarmyndigheten,
+om det kan antas att det finns
+förutsättningar för åtgärd enligt
+30 b § lagen (1964:167) med sär-
+skilda bestämmelser om unga lag-
+överträdare eller 32 kap. 4 § brotts-
+balken.
+
+till ungdomsvård eller till ung-
+domstjänst, eller har ungdomstjänst
+förordnats genom ett strafförelägg-
+ande som godkänts, ska social-
+nämnden underrätta åklagarmyn-
+digheten, om det kan antas att
+det finns förutsättningar för åt-
+gärd enligt 30 b § lagen (1964:167)
+med särskilda bestämmelser om
+
 unga lagöverträdare eller 32 kap.
 4 § brottsbalken.
 
@@ -40753,10 +40920,9 @@ Denna förordning träder i kraft den 1 januari 2023.
 
 <!-- sida 913 -->
 
-Författningsförslag                        SOU 2022:1
+Författningsförslag                         SOU 2022:1
 
 1.6   Förslag till förordning om ändring i förordningen
-
 (1994:1763) med särskilda bestämmelser om
 unga lagöverträdare
 
@@ -40766,27 +40932,51 @@ melser om unga lagöverträdare ska ha följande lydelse.
 Nuvarande lydelse     Föreslagen lydelse
 
 1 §1
-Har åklagaren med stöd av Har åklagaren med stöd av
-15 § lagen (1964:167) med sär- 15 § lagen (1964:167) med sär-
-skilda bestämmelser om unga lag- skilda bestämmelser om unga lag-
-överträdare utfärdat strafförelägg- överträdare utfärdat strafförelägg-
-ande, skall den unge underrättas ande, ska den unge underrättas om
-om beslutet vid ett personligt beslutet vid ett personligt
-sammanträffande och, om det är sammanträffande och, om det är
-möjligt, i vårdnadshavares när- möjligt, i vårdnadshavares när-
-varo. Om ett personligt samman- varo. Om ett personligt samman-
-träffande inte är möjligt eller träffande inte är möjligt eller
-brottet är ringa, får underrättel- brottet är ringa, får underrättel-
-sen vara skriftlig.   sen vara skriftlig.
-Har åklagaren med stöd av Har åklagaren med stöd av
-48 kap. 4 § rättegångsbalken ut- 48 kap. 4 § rättegångsbalken ut-
-färdat strafföreläggande som av- färdat strafföreläggande som av-
-ser villkorlig dom eller sådan på- ser ungdomstjänst, villkorlig dom
 
-följd i förening med böter innan eller villkorlig dom i förening
-den misstänkte fyllt 21 år, skall med böter innan den misstänkte
-åklagaren underrätta den miss- fyllt 21 år, ska åklagaren under-
-tänkte om beslutet vid ett per- rätta den misstänkte om beslutet
+Har åklagaren med stöd av
+15 § lagen (1964:167) med sär-
+skilda bestämmelser om unga lag-
+överträdare utfärdat strafförelägg-
+ande, skall den unge underrättas
+om beslutet vid ett personligt
+sammanträffande och, om det är
+möjligt, i vårdnadshavares när-
+varo. Om ett personligt samman-
+träffande inte är möjligt eller
+brottet är ringa, får underrättel-
+sen vara skriftlig.
+Har åklagaren med stöd av
+
+48 kap. 4 § rättegångsbalken ut-
+färdat strafföreläggande som av-
+ser villkorlig dom eller sådan på-
+följd i förening med böter innan
+den misstänkte fyllt 21 år, skall
+åklagaren underrätta den miss-
+tänkte om beslutet vid ett per-
+
+Har åklagaren med stöd av
+15 § lagen (1964:167) med sär-
+skilda bestämmelser om unga lag-
+överträdare utfärdat strafförelägg-
+ande, ska den unge underrättas om
+beslutet vid ett personligt
+sammanträffande och, om det är
+möjligt, i vårdnadshavares när-
+varo. Om ett personligt samman-
+träffande inte är möjligt eller
+brottet är ringa, får underrättel-
+sen vara skriftlig.
+Har åklagaren med stöd av
+
+48 kap. 4 § rättegångsbalken ut-
+färdat strafföreläggande som av-
+ser ungdomstjänst, villkorlig dom
+eller villkorlig dom i förening
+med böter innan den misstänkte
+fyllt 21 år, ska åklagaren under-
+rätta den misstänkte om beslutet
+
 sonligt sammanträffande. vid ett personligt sammanträff-
 ande.
 Om det är lämpligare, får en underrättelse enligt första och andra
@@ -40803,25 +40993,39 @@ Denna förordning träder i kraft den 1 januari 2023.
 SOU 2022:1                               Författningsförslag
 
 1.7   Förslag till förordning om ändring
-
 i åklagarförordningen (2004:1265)
+
 Härigenom föreskrivs att 11 § åklagarförordningen ska ha följande
 lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
 
 11 §1
-Endast riksåklagaren, vice riks- Endast riksåklagaren, vice riks-
-åklagaren, överåklagare, vice över- åklagaren, överåklagare, vice över-
-åklagare, chefsåklagare och vice åklagare, chefsåklagare och vice
-chefsåklagare får     chefsåklagare får handlägga frågor
-1\. utföra åklagarens uppgifter om ansvar för brott enligt förord-
-i fråga om bevistalan, och ningen (2014:1106) om handlägg-
-2\. handlägga frågor om ansvar ningen av ärenden om brott av
-för brott enligt förordningen anställda inom polisen och vissa
-(2014:1106) om handläggningen andra befattningshavare. Andra
-av ärenden om brott av anställda åklagare får dock vidta sådana åt-
-inom polisen och vissa andra be- gärder som inte utan fara kan
+
+Endast riksåklagaren, vice riks-
+åklagaren, överåklagare, vice över-
+åklagare, chefsåklagare och vice
+chefsåklagare får
+1\. utföra åklagarens uppgifter
+i fråga om bevistalan, och
+2\. handlägga frågor om ansvar
+för brott enligt förordningen
+(2014:1106) om handläggningen
+av ärenden om brott av anställda
+inom polisen och vissa andra be-
+
+Endast riksåklagaren, vice riks-
+åklagaren, överåklagare, vice över-
+åklagare, chefsåklagare och vice
+chefsåklagare får handlägga frågor
+om ansvar för brott enligt förord-
+ningen (2014:1106) om handlägg-
+ningen av ärenden om brott av
+anställda inom polisen och vissa
+andra befattningshavare. Andra
+åklagare får dock vidta sådana åt-
+gärder som inte utan fara kan
+
 fattningshavare.      skjutas upp.
 I fall som avses i första styck-
 et 2 får dock andra åklagare vidta

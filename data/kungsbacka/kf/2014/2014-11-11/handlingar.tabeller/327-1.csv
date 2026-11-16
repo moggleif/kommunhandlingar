@@ -1,0 +1,36 @@
+KK,AK,PN,Beskrivning
+50.20-1,4,C,"Anläggning där det per kalenderår hanteras mer än 5 000 kubikmeter
+flytande motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.20-2,3,C,"Anläggning där det per kalenderår hanteras mer än 1 000 kubikmeter
+men högst 5 000 kubikmeter flytande motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.2001,1,U,"Anläggning där det per kalenderår hanteras högst 1 000 kubikmeter
+flytande motorbränsle."
+50.20-3,4,C,"Anläggning där det per kalenderår hanteras mer än 5 miljon
+normalkubikmeter gas avsedd som motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.20-4,3,C,"Anläggning där det per kalenderår hanteras mer än 1 miljon
+normalkubikmeter men högst 5 normalkubikmeter gas avsett som
+motorbränsle.
+Anmälningsplikt enligt denna beskrivning gäller inte om verksamheten
+är tillstånds- eller anmälningspliktig enligt 39.60, 39.70 eller 39.80."
+50.2002,1,U,"Anläggning där det per kalenderår hanteras högst 1 miljon
+normalkubikmeter gas avsett som motorbränsle."
+50.2003,2,U,Fordonsverkstad mer än 500 kvadratmeter
+50.2004,1,U,Fordonsverkstad högst 500 kvadratmeter
+50.2005,1,U,Parkeringsgarage med oljeavskiljare > 400 platser för motorfordon
+,,,INFRASTRUKTUR
+63.10-1,29,B,"Hamn där trafik medges för fartyg med en bruttodräktighet på mer än
+1 350 ton. Allmän hamn med mer än 5 000 anlöp per kalenderår
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. hamn för Försvarsmakten, eller
+2. färjekaj med högst tio planerade fartygsanlöp per kalenderår."
+63.10-2,24,B,"Hamn där trafik medges för fartyg med en bruttodräktighet på mer än 1
+350 ton. Allmän hamn med 2 000 - 5 000 anlöp per kalenderår
+Tillståndsplikt enligt denna beskrivning gäller inte
+1. hamn för Försvarsmakten, eller
+2. färjekaj med högst tio planerade fartygsanlöp per kalenderår."

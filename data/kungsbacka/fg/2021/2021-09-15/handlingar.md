@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319213201id_/https://www.kungsbacka.
 sha256: 1bf3b8f23405fb4d742d71b6a3bf65296424b34ab8273f0665c45554e90bb66c
 bytes: 5030171
 sidor: 62
-hamtad: 2026-10-28T10:15:10+00:00
-konverterad: 2026-10-28T10:15:41+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-16T00:19:16+00:00
+konverterad: 2026-11-16T00:19:50+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -106,48 +106,69 @@ verksamhetscontroller
 
 <!-- sida 3 -->
 
-KUNGSBACKA  KOMMUN
+Ärende
 
-3(3)
+9\. Resursfördelningsmodell 2022
 
-Ärende                Beteckning Förslag
-
-9\.  Resursfördelningsmodell 2022 2021-00977 Nämnden för Förskola & Grundskola godkänner
-förslag till Resursfördelningsmodell 2022.
 Kl 18.25
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-10\. "Skolmiljarden" Utökad 2021-00914 Nämnden för Förskola & Grundskola beslutar om att
-satsning gällande tillfällig    fördela sin andel av den utökade satsningen av
-förstärkning av statligt stöd till statsbidraget skolmiljarden enligt samma princip
-skolväsendet 2021               som de tillkommit kommunen. Lika fördelning per
-elev i årskurs F-9 till både kommunala och
-Kl 18.35                        fristående grundskolor.
+10\. "Skolmiljarden" Utökad
+satsning gällande tillfällig
+
+förstärkning av statligt stöd till
+skolväsendet 2021
+
+Kl 18.35
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-11\. Underlag till kommunbudget 2021-00260
-
+11\. Underlag till kommunbudget
 2022 Förskola & Grundskola
 
 Kl 18.45
 
-12\. Delegeringsbeslut antagna av 2021-00031 Redovisning av beslut som fattats av förvaltningen
-nämnden 2021                    på delegation för nämnden noteras till protokollet.
+12\. Delegeringsbeslut antagna av
+nämnden 2021
 
 Kl 19.05
 
-13\. Information - Förskola & 2021-00022 Nämnden för Förskola och Grundskola har tagit del
-Grundskola arbetsutskott och    av informationen och antecknar informationen i
-nämnd                           protokollet.
+13\. Information - Förskola &
+Grundskola arbetsutskott och
+nämnd
 
 Kl 19.10
 
-Anders Ekström                    Lars Sundbom
-ordförande                        sekreterare
+KUNGSBACKA  KOMMUN
+
+3(3)
+
+Beteckning Förslag
+
+2021-00977 Nämnden för Förskola & Grundskola godkänner
+förslag till Resursfördelningsmodell 2022.
+
+2021-00914 Nämnden för Förskola & Grundskola beslutar om att
+fördela sin andel av den utökade satsningen av
+statsbidraget skolmiljarden enligt samma princip
+som de tillkommit kommunen. Lika fördelning per
+elev i årskurs F-9 till både kommunala och
+fristående grundskolor.
+
+2021-00260
+
+2021-00031 Redovisning av beslut som fattats av förvaltningen
+på delegation för nämnden noteras till protokollet.
+
+2021-00022 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
+
+Anders Ekström                   Lars Sundbom
+ordförande                       sekreterare
 
 <!-- sida 4 -->
 

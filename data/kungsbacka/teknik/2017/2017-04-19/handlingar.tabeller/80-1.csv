@@ -1,0 +1,71 @@
+nr,Typ,bredd,steg höjd,steg djup,"likfor
+miga_
+steg","antal_s
+teg","antal_
+trapp
+lopp","kon-
+trast",ramp,ledstång,"led
+stång
+höjd",fritext
+41,Trappa,300,20,30,T,4,0,F,F,båda_sid,or 120,In till socialtjänsten
+42,Trappa,160,6,28,F,11,0,F,F,en_sida,95,
+43,Trappa,500,8,30,F,9,0,F,T,båda_sid,or 110,Ramp bit bort
+44,Trappa,800,12,28,T,9,0,F,T,båda_sid,or 110,Rund
+45,Trappa,100,15,30,T,2,0,F,F,ingen_sid,a 0,
+46,Trappa,500,5,30,T,22,0,T,F,båda_sid,or 100,
+47,Trappa,300,5,28,T,24,2,T,F,båda_sid,or 93,Hiss o barnvagn ränna
+48,Trappa,225,15,30,T,25,2,F,T,båda_sid,or 60,
+49,Trappa,225,15,30,T,30,2,T,T,båda_sid,or 60,
+50,Trappa,200,5,30,T,6,0,T,T,en_sida,100,Smg-sten o marksten före
+51,Trappa,200,15,30,T,5,0,F,T,ingen_sid,a 0,
+52,Trappa,500,6,30,T,3,0,T,T,båda_sid,or 85,Granit
+53,Trappa,3600,5,30,T,2,0,T,T,en_sida,80,
+54,Trappa,180,17,30,F,3,0,F,F,en_sida,90,
+55,Trappa,400,15,25,T,3,3,F,T,ingen_sid,a 0,Till restaurang Rumpanbar
+56,Trappa,130,20,28,T,2,0,F,F,ingen_sid,a 0,Salong jan
+57,Trappa,230,20,25,T,2,0,F,F,ingen_sid,a 0,Willaumes butik
+58,Trappa,160,13,30,F,2,0,F,F,ingen_sid,a 0,Ruccola
+59,Trappa,130,22,24,T,2,0,F,F,en_sida,94,Nr 23
+60,Trappa,125,17,28,F,4,0,F,F,båda_sid,or 80,Krilles tips o trav
+61,Trappa,130,15,30,T,1,0,F,F,ingen_sid,a 0,Atmosfär
+62,Trappa,160,12,30,F,3,0,F,F,båda_sid,or 89,Synoptik
+63,Trappa,200,10,30,F,3,0,F,F,båda_sid,or 90,Audio vidEo
+64,Trappa,120,0,0,T,0,0,F,T,ingen_sid,a 0,Ramp till restaurant
+65,Trappa,130,15,30,F,4,0,F,F,båda_sid,or 75,Gino kläder
+66,Trappa,230,15,30,F,3,0,F,F,båda_sid,or 75,
+67,Trappa,150,18,28,F,4,0,F,F,båda_sid,or 90,Kba posten
+68,Trappa,129,10,30,F,3,0,F,F,båda_sid,or 75,Elektro tjänst
+69,Trappa,120,17,30,F,3,0,F,F,ingen_sid,a 0,Byt hem fast.förmedling
+70,Trappa,150,20,30,T,3,0,F,F,båda_sid,or 90,Moderarerna
+71,Trappa,120,15,20,T,4,0,F,F,båda_sid,or 100,Medic skin care
+72,Trappa,150,15,32,T,1,0,F,F,ingen_sid,a 0,Till restaurang
+73,Trappa,120,15,20,T,4,0,F,F,båda_sid,or 100,Medic skin care
+74,Trappa,120,15,20,F,3,0,F,F,ingen_sid,a 0,Till restaurang Mammas pasta
+75,Trappa,100,15,25,T,2,0,F,F,ingen_sid,a 0,
+76,Trappa,100,15,25,F,2,0,F,F,en_sida,100,
+77,Trappa,150,15,30,F,2,0,F,F,en_sida,90,
+78,Trappa,150,15,100,F,1,0,F,F,ingen_sid,a 0,
+79,Trappa,160,15,20,T,5,0,F,F,båda_sid,or 90,
+80,Trappa,160,15,20,T,5,0,F,F,båda_sid,or 90,
+81,Trappa,350,15,20,T,5,0,T,F,båda_sid,or 90,
+82,Trappa,100,10,25,F,2,0,F,F,ingen_sid,a 0,
+83,Trappa,120,15,15,T,1,0,F,F,ingen_sid,a 0,Galleri
+84,Trappa,120,20,25,T,2,0,F,F,en_sida,100,Rest storgatan
+85,Trappa,120,20,30,F,2,0,F,F,ingen_sid,a 0,Salong sollan
+86,Trappa,200,18,30,T,4,0,F,T,en_sida,90,"Dåligt utf racke till tr, lutn 22%,90 cm"
+87,Trappa,100,15,20,T,7,0,F,F,ingen_sid,a 0,Advokatfirma
+88,Trappa,200,15,100,F,1,0,F,T,ingen_sid,a 0,Ramp av förhöjd smg sten
+89,Trappa,400,15,25,T,5,0,F,T,båda_sid,or 90,
+90,Trappa,120,17,25,T,3,0,F,T,en_sida,90,
+91,Trappa,120,18,30,T,5,0,F,F,en_sida,110,
+92,Trappa,120,15,30,T,4,0,F,F,en_sida,110,
+93,Trappa,120,15,30,T,3,3,F,F,ingen_sid,a 0,
+383,Trappa,110,20,30,T,2,0,F,F,ingen_sid,a 0,"Ingen ramp, inget räcke"
+392,Trappa,120,15,30,T,2,0,F,F,ingen_sid,a 0,Ingen ledstång
+393,Trappa,120,15,30,T,2,0,F,F,höger sid,a 1100c,m
+396,Trappa,110,20,40,T,2,0,F,F,ingen_sid,a 0,
+398,Trappa,230,20,30,T,3,0,F,F,ingen_sid,a 0,
+405,Trappa,x,20,30,T,2,0,F,F,en sida,90,
+406,Trappa,x,8,0,T,1,0,F,F,Ingen led,stång0,
+407,Trappa,x,8,0,T,1,0,F,F,ingen leds,"tång,0",eSnnduabbelrisk på matta
+408,Trappa,x,20,20,T,2,0,F,F,Ingen led,stång0,

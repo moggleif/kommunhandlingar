@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320091733id_/https://www.kungsbacka.
 sha256: 0ecfc94dc8eb996f2feb2e7e23ce27196eea5903fecb5c666d0e32c1c1dcd655
 bytes: 4185927
 sidor: 39
-hamtad: 2026-10-26T10:50:50+00:00
-konverterad: 2026-10-26T10:52:52+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T23:29:32+00:00
+konverterad: 2026-11-15T23:29:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -166,7 +166,6 @@ Att vi återinför möjligheten för pensionärer att kunna äta på våra äldr
 självkostnadspris som dessa måltider har.
 
 Att köken utvecklas till tillagningskök på våra boenden.
-Ad LK Boar |
 (Johan Tolinsson (S) Maj- Britt Rane — Andersson ( S)
 
 Ledamot Kommunfullmäktige Ledamot Kommunfullmäktige
@@ -346,10 +345,7 @@ Samtal har skett löpande med företrädare för Serviceförvaltningen och de ä
 slutsatser som dras samt vilka resonemang som ligger bakom. Det förvaltningsgemensamma arbetet
 har skett i en god samarbetsanda utifrån de olika uppdrag som respektive förvaltning innehar.
 
-a SN
 /
-
-a
 
 Lillemor Berglund
 Förvaltningschef
@@ -1153,8 +1149,6 @@ att Kungsbacka kommun tar fram en träbyggnadsstrategi som ser över hur Kungsba
 som kommun kan främja trä som byggnadsmaterial.
 
 AA
-
-Kö
 Eva Borg (S)
 Kommunalråd
 

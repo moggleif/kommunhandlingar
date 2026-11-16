@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250809175127id_/https://kungsbacka.se/d
 sha256: 4842edfd04b29a05901d72423448010733ef24586acd536f611d361c03b2f0d5
 bytes: 5507183
 sidor: 42
-hamtad: 2026-10-20T10:08:06+00:00
-konverterad: 2026-10-20T10:08:24+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T22:58:01+00:00
+konverterad: 2026-11-15T22:58:15+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -307,7 +307,6 @@ Med detta föreslår Socialdemokraterna:
 
 \- att kommunfullmäktige beslutar att en utredning görs för att se över möjligheterna
 att återinföra fältassistenter i Kungsbacka kommun. 4
-; SE ( I RR Å LV rr
 
 AA UU
 Maj- Britt Rane [ÖR nen Susann Petrusson
@@ -536,10 +535,8 @@ verksamhet samt hemtjänstgrupper att ansöka om intraprenadstart.
 
 Ke mmunfullmäktigeledamöter C) FF ()
 
-) HN) - /) - / Föga | ÅA =
 \- AV 16 Vern KA CL CA YES ESS -
 in Skorit (S)/Shabnam Zåmani (S), Johan Tolinsson (S), Maj-Britt Rane Andersson (S)
-— / i [4
 
 <!-- sida 12 -->
 

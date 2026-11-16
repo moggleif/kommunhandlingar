@@ -1,0 +1,43 @@
+KK,AK,PN,Beskrivning
+10.2003,2,U,"Uppläggning och bortforsling av redan utbrutet och bearbetat material
+(berg, naturgrus eller andra jordarter) efter det att tillsynsmyndigheten
+meddelat beslut om att täkten är avslutad."
+10.30,5,C,"Täkt för markinnehavarens husbehov av mer än 10 000 ton naturgrus
+(totalt uttagen mängd)."
+10.3001,3,U,"Täkt för markinnehavarens husbehov av högst 10 000 ton naturgrus
+(totalt uttagen mängd)."
+10.40,3,C,"Täkt för markinnehavarens husbehov av
+1. mer än 10 000 ton berg (totalt uttagen mängd),
+2. torv med ett verksamhetsområde större än 5 hektar, eller
+3. mer än 50 000 kubikmeter torv (totalt uttagen mängd).
+Anmälningsplikt enligt denna beskrivning gäller
+inte om verksamheten
+1. omfattas av bearbetningskoncession enligt
+lagen (1985:620) om vissa torvfyndigheter,
+eller
+2. är tillståndspliktig enligt 10.10 eller 10.11."
+10.4001,1,U,"Täkt för markinnehavarens husbehov av
+1. högst 10 000 ton berg (totalt uttagen mängd),
+2. torv med ett verksamhetsområde på högst 5 hektar, eller
+3. högst 50 000 kubikmeter torv (totalt uttagen mängd)."
+10.50,4,C,"Anläggning för sortering eller krossning av berg, naturgrus eller andra
+jordarter
+1. inom område som omfattas av detaljplan eller områdesbestämmelser,
+eller
+2. utanför område som omfattas av detaljplan eller
+områdesbestämmelser, om verksamheten bedrivs på samma plats under
+en längre tid än trettio kalenderdagar under en tolvmånadersperiod."
+10.5001,2,U,"Anläggning för sortering eller krossning av berg, naturgrus eller andra
+jordarter utanför område som omfattas av detaljplan eller
+områdesbestämmelser, om verksamheten bedrivs på samma plats under
+högst trettio kalenderdagar under en tolvmånadersperiod."
+10.60,4,C,"Anläggning för framställning, bearbetning eller omvandling av bränsle
+eller bränsleprodukt som baseras på mer än 500 ton torv per kalenderår."
+10.6001,2,U,"Anläggning för framställning, bearbetning eller omvandling av bränsle
+eller bränsleprodukt som baseras på högst 500 ton torv per kalenderår."
+,,,"Råpetroleum, naturgas och kol"
+11.10,10,A,"Utvinning av råolja eller naturgas inom de områden som anges i 4 kap.
+5 § miljöbalken."
+11.20,7,B,"Utvinning av råolja eller naturgas inom andra områden än de som avses
+i 11.10."
+11.30,5,C,Industriell tillverkning av briketter av kol eller brunkol.

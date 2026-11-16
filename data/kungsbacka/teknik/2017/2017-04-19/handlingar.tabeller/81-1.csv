@@ -1,0 +1,10 @@
+nr,Typ,ytmaterial,jämnhet,bredd,höjd,väderskydd,belysn,cykelbana,taktil mark,visuell_mark_,tidtabell,akustisk_info,fritext
+453,Hållplats,asfalt,ojämn,225,12,T,F,F,ingen,F,T,F,
+454,Hållplats,betongplattor,jämn,800,12,T,F,T,ingen,F,T,F,2 sittpl
+455,Hållplats,asfalt,mkt_ojämn,190,8,F,F,F,ingen,F,T,F,
+457,Hållplats,betongplattor,jämn,300,12,F,T,F,ingen,F,T,F,
+458,Hållplats,betongplattor,jämn,300,15,T,T,F,sinus,T,T,T,G-l lika
+459,Hållplats,betongplattor,jämn,300,15,T,T,F,sinus,T,T,T,A-f lika
+460,Hållplats,asfalt,ojämn,150,15,T,T,T,ingen,F,T,F,
+461,Hållplats,asfalt,mkt_ojämn,120,12,F,F,T,ingen,F,T,F,Ej plattform
+462,Hållplats,betongplattor,jämn,300,15,T,T,F,sinus,T,T,T,G-l lika

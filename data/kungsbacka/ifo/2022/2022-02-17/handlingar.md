@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220320095946id_/https://www.kungsbacka
 sha256: [5672414d263c9becd767aaaa9d0b9dcfe8fe390a5ab80252eb8c769b2ff1d376, 5c074e67ec29fb65578de503639fb8cc1230447149fe307a1257695d7acf4f9c]
 bytes: [1387345, 7500891]
 sidor: 154
-hamtad: 2026-10-27T09:02:28+00:00
-konverterad: 2026-10-27T09:03:11+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T23:34:20+00:00
+konverterad: 2026-11-15T23:34:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2111,23 +2111,30 @@ Nämnden för Individ & Familjeomsorg             Kungsbacka kommun
 
 4.1 Risker - Till plan
 
-Uppföljningsrapport intern kontroll 2021 7
-tehkilonnaS
 4          8          12         16
 3
+
 4
+
 3          6          9          12
 1 2 4 6 8 9
 10
 3
+
 2          4          6           8
 5 7
 2
+
 1          2          3           4
+
 1
+
 1          2          3          4
+
 Konsekvens
+
 8 Hög 2 Medel Totalt: 10
+
 Kritisk        Sannolikhet          Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den
@@ -2140,6 +2147,10 @@ berörda intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 intressenter och kommunen)
 år
+
+Uppföljningsrapport intern kontroll 2021 7
+
+Sannolikhet
 
 <!-- sida 49 -->
 

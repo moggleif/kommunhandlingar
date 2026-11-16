@@ -1,0 +1,38 @@
+KK,AK,PN,Beskrivning
+85.1001,6,U,Sjukhus med högst 200 vårdplatser.
+85.20,5,C,"Anläggning för sterilisering av sjukvårdsartiklar, om etylenoxid
+används som steriliseringsmedel."
+85.3001,1,U,Tandläkarmottagning
+,,,RENING AV AVLOPPSVATTEN
+90.10-1,20,B,"Avloppsreningsanläggning med en anslutning av fler än 100 000
+personer eller som tar emot avloppsvatten med en föroreningsmängd
+som motsvarar mer än 100 000 personekvivalenter."
+90.10-2,16,B,"Avloppsreningsanläggning med en anslutning av fler än 20 000
+personer men högst 100 000 personer eller som tar emot avloppsvatten
+med en föroreningsmängd som motsvarar mer än 20 000
+personekvivalenter men högst 100 000 personekvivalenter."
+90.10-3,12,B,"Avloppsreningsanläggning med en anslutning av fler än 2 000 personer
+men högst 20 000 personer eller som tar emot avloppsvatten med en
+föroreningsmängd som motsvarar mer än 2 000 personekvivalenter
+men högst 20 000 personekvivalenter."
+90.20-1,8,C,"Avloppsreningsanläggning som är dimensionerad för mer än 500
+personekvivalenter, om verksamheten inte är tillståndspliktig enligt
+90.10."
+90.20-2,7,C,"Avloppsreningsanläggning som är dimensionerad för mer än 200
+personekvivalenter men högst 500 personekvivalenter, om
+verksamheten inte är tillståndspliktig enligt 90.10."
+90.2001,6,U,"Avloppsreningsanläggning som är dimensionerad för mer än 100
+personekvivalenter men högst 200 personekvivalenter."
+90.2002,5,U,"Avloppsreningsanläggning som är dimensionerad för mer än 25
+personekvivalenter men högst 100 personekvivalenter."
+,,,AVFALL
+,,,Mellanlagring
+90.30-1,11,B,"Anläggning för mellanlagring av annat avfall än farligt avfall om den totala avfallsmängden vid
+något enskilt tillfälle utgörs av
+1. mer än 100 000 ton avfall som inte är avsett för byggnads- eller
+anläggningsändamål, eller
+2. mer än 300 000 ton avfall om anläggningen inte är tillståndspliktig
+enligt 1.
+Tillståndsplikt enligt denna beskrivning gäller inte anläggning för
+lagring av avfall under längre tid än ett år innan det bortskaffas, eller
+tre år innan det återvinns eller behandlas."

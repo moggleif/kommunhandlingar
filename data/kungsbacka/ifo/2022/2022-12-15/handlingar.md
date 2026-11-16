@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241203010941id_/https://kungsbacka.se/d
 sha256: d5e5f61055ac8d4b685e617dc880161a39100769cfd3cd6fc7171fef13503867
 bytes: 9698635
 sidor: 184
-hamtad: 2026-10-26T09:04:08+00:00
-konverterad: 2026-10-26T09:04:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-15T23:09:12+00:00
+konverterad: 2026-11-15T23:10:12+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3057,33 +3057,70 @@ månadsanställda       index på hur många som ser     individer som bor i    
 
 Tillsammans
 
-skapar            vi    en
+skapar             vi   en
 
 hållbar            socialtjänst
 
 D
-en kommunala sektorn och socialtjänsten Förvaltningens fokus under 2023 och kommande år För att klara transformationen satsar vi på utveck-
-befinner sig i en tid som är föränderlig blir att hitta nya vägar som skapar hållbarhet i alla lande ledarskap (UL) och utvecklande medarbetarskap
-och komplex. Omvärlden är mer otrygg perspektiv – såväl ekonomiska som sociala. Både för (UM) och andra utbildningsinsatser på både grupp-
-och svårbedömd och utmaningarna fler. de vi är till för och gentemot varandra. De nya vägarna och individnivå, utifrån de behov som finns. Trygga
-Utveckling och förändring går snabbt och ställer kommer vi inte hitta ensamma utan vi kommer att medarbetare är en förutsättning för god leverans.
-krav på den egna rörelseförmågan och hållbarhet. utforska dem tillsammans med andra. Både genom Det är en viktig fråga även ur ett kompetensförsörj-
-De lösningar och metoder som fungerade igår får att främja och bidra till utveckling av Ett Kungsbacka, ningsperspektiv.
-allt sämre träffsäkerhet och morgondagen blir allt genom vår regionala samverkan i Halland och
-DÄRFÖR ÄR 2023
-svårare att förutse. Effekter av krig och pandemier Göteborgsregionen, och genom interaktion och års förvaltningsbudget inte en
-kan snabbt kräva omprioriteringar och ändringar av medskapande med den civila sektorn. På det sättet budget som kommer med svar inför framtiden. De
-arbetssätt. Färre medarbetare ska i framtiden leverera blir vi fler, starkare och mer robusta. svaren har vi inte.
-till fler och därför blir också kompetensförsörjningen                  Det är en budget som ska förbereda och rusta oss
+en kommunala sektorn och socialtjänste
+befinner sig i en tid som är föränderlig
+och komplex. Omvärlden är mer otrygg
+och svårbedömd och utmaningarna fler.
+Utveckling och förändring går snabbt och ställer
+krav på den egna rörelseförmågan och hållbarhet.
+De lösningar och metoder som fungerade igår får
+allt sämre träffsäkerhet och morgondagen blir allt
+svårare att förutse. Effekter av krig och pandemier
+kan snabbt kräva omprioriteringar och ändringar av
+arbetssätt. Färre medarbetare ska i framtiden leverera
+till fler och därför blir också kompetensförsörjningen
+mer krävande att säkerställa.
+Det kan skapa en känsla av press och otrygghet för
+oss som levererar välfärdstjänster. Inte minst eftersom
+vi är medvetna om den påverkan våra insatser har i
+
+människors liv.
+
+Förvaltningens fokus under 2023 och kommande år
+blir att hitta nya vägar som skapar hållbarhet i alla
+perspektiv – såväl ekonomiska som sociala. Både för
+de vi är till för och gentemot varandra. De nya vägarna
+kommer vi inte hitta ensamma utan vi kommer att
+utforska dem tillsammans med andra. Både genom
+att främja och bidra till utveckling av Ett Kungsbacka,
+
+genom vår regionala samverkan i Halland och
+Göteborgsregionen, och genom interaktion och
+medskapande med den civila sektorn. På det sättet
+blir vi fler, starkare och mer robusta.
+
 VI UPPMUNTRAR NU
-mer krävande att säkerställa.                      innovation genom att främja för den framtid som vi inte vet så mycket om.
-Det kan skapa en känsla av press och otrygghet för en kultur där det är bra att prova nytt och där det är Men en sak vet vi – framtiden går vi in i tillsammans
-oss som levererar välfärdstjänster. Inte minst eftersom helt okej att misslyckas. Våra misslyckanden kommer och ingen kommer behöva göra det själv.
-vi är medvetna om den påverkan våra insatser har i att lära oss mer om hur vi ska lyckas nästa gång. På
-Ivan Stipic, Förvaltningschef,
-människors liv.                    det sättet växer och utvecklas både medarbetarna och
-Individ & Familjeomsorg
+innovation genom att främja
+en kultur där det är bra att prova nytt och där det är
+helt okej att misslyckas. Våra misslyckanden kommer
+att lära oss mer om hur vi ska lyckas nästa gång. På
+det sättet växer och utvecklas både medarbetarna och
 verksamheterna.
+
+För att klara transformationen satsar vi på utveck-
+lande ledarskap (UL) och utvecklande medarbetarskap
+(UM) och andra utbildningsinsatser på både grupp-
+och individnivå, utifrån de behov som finns. Trygga
+medarbetare är en förutsättning för god leverans.
+Det är en viktig fråga även ur ett kompetensförsörj-
+ningsperspektiv.
+
+DÄRFÖR ÄR 2023
+års förvaltningsbudget inte en
+budget som kommer med svar inför framtiden. De
+svaren har vi inte.
+Det är en budget som ska förbereda och rusta oss
+för den framtid som vi inte vet så mycket om.
+Men en sak vet vi – framtiden går vi in i tillsammans
+och ingen kommer behöva göra det själv.
+
+Ivan Stipic, Förvaltningschef,
+Individ & Familjeomsorg
 
 <!-- sida 127 -->
 
@@ -3104,17 +3141,35 @@ ska bidra till att målen uppnås. Nämnden för Individ & Familjeomsorg
 har sedan kompletterat med mål och direktiv för det som nämnden ser
 som är extra viktigt för vår förvaltning.
 
-Mål  1 - En attraktiv kommun         Mål 2 - En hållbar utveckling          Mål 3 - Bästa företags-
-att bo, verka och vistas i            och en hälsosam  miljö              klimatet i Västsverige
+Mål  1 - En attraktiv kommun
+att bo, verka och vistas i
 
-I Kungsbacka ska invånarna vara trygga och få en god Kungsbacka ska växa med en långsiktigt hållbar Kungsbacka är en möjliggörare för entreprenörer och
-omsorg när de behöver stöd för att få livet att fungera. ekonomi. Valfrihet, mångfald och livskvalitet ska företagsamma människor. Vi samverkar med näringsliv
-Vi ska ha välkomnande och trygga miljöer och sam- prägla vardagen och locka nya invånare. Växtkraften och utbildning för att skapa nya arbetstillfällen och
+I Kungsbacka ska invånarna vara trygga och få en god
+omsorg när de behöver stöd för att få livet att fungera.
+Vi ska ha välkomnande och trygga miljöer och sam-
 
-tidigt erbjuda mötesplatser för samvaro, rekreation, ger oss mer resurser till den gemensamma välfärden. bidra till personalförsörjning i våra verksamheter.
+tidigt erbjuda mötesplatser för samvaro, rekreation,
 upplevelser och kreativa utbyten.
 
+Mål  2 - En hållbar utveckling
+och  en hälsosam  miljö
+
+Kungsbacka ska växa med en långsiktigt hållbar
+ekonomi. Valfrihet, mångfald och livskvalitet ska
+prägla vardagen och locka nya invånare. Växtkraften
+
+ger oss mer resurser till den gemensamma välfärden.
+
 För att ta del av kommunens vision och mål i sin helhet, besök kungsbacka.se
+
+Mål  3 - Bästa företags-
+klimatet i Västsverige
+
+Kungsbacka är en möjliggörare för entreprenörer och
+företagsamma människor. Vi samverkar med näringsliv
+och utbildning för att skapa nya arbetstillfällen och
+
+bidra till personalförsörjning i våra verksamheter.
 
 <!-- sida 128 -->
 
@@ -3178,9 +3233,9 @@ beslut som ändras i högre instans
 
 8
 
-Mål 2 - Individ & Familjeomsorg
-erbjuder kvinnor och  män, flickor
-och pojkar insatser på lika villkor
+Mål  2 - Individ & Familjeomsorg
+erbjuder kvinnor  och män,  flickor
+och  pojkar insatser på lika villkor
 
 Individ & Familjeomsorg ska erbjuda kvinnor och män,
 flickor och pojkar samma möjlighet att forma sitt eget
@@ -3190,26 +3245,36 @@ bemötande och bedömningar oavsett kön.
 
 Utfall Utfall Utfall
 Indikator
-2020  2021   2022
+2020   2021   2022
+
 Utredningstid i antal dagar från ansökan
 80     78     72
 till beslut om LSS-insats, kvinnor/flickor
+
 Utredningstid i antal dagar från ansökan
 78     77     76
 till beslut om LSS-insats, män/pojkar
-I beslutsprocesser,    bemötande
+
 Utredningstid i antal dagar från påbörjad
-utredning till avslutad utredning inom barn 100 104 100
-av  enskilda  och  som   arbetsgivare   ska
+utredning till avslutad utredning inom barn 100 104
 och ungdom 0-20 år, flickor
-vi beakta  jämställdhetsperspektivet
 Utredningstid i antal dagar från påbörjad
-utredning till avslutad utredning inom barn 91 96 95           och  utgå  ifrån individens  behov
+utredning till avslutad utredning inom barn 91 96
 och ungdom 0-20 år, pojkar
-och  förutsättningar.
 Utredningstid i antal dagar från påbörjad
-utredning till avslutad utredning för vuxna 45 35 25
-med missbruksproblem 21+, kvinnor                                 Nämnden för Individ & Familjeomsorg
+utredning till avslutad utredning för vuxna 45 35
+med missbruksproblem 21+, kvinnor
+
+I beslutsprocesser,    bemötande
+100
+av  enskilda  och  som   arbetsgivare   ska
+vi beakta  jämställdhetsperspektivet
+95                och  utgå  ifrån individens  behov
+
+och förutsättningar.
+25
+Nämnden för Individ & Familjeomsorg
+
 Utredningstid i antal dagar från påbörjad
 utredning till avslutad utredning för vuxna 30 33 36
 med missbruksproblem 21+, män
@@ -3218,21 +3283,35 @@ med missbruksproblem 21+, män
 
 9
 
-Mål 4 - Individ och Familjeomsorg  är
+Mål  3 - Individ & Familjeomsorg nyttjar
+digitaliseringens möjligheter för dem
+
+vi är till för och för att utveckla
+effektivare arbetssätt
+
+På Individ & Familjeomsorg nyttjar vi digitaliseringens möjligheter
+för att vara tillgängliga för invånare och för att individer med behov
+av stöd ska känna sig trygga, aktiva och självständiga med bibehållen
+integritet. Förvaltningens målgrupper behöver förutsättningar att
+tillgodogöra sig ny teknik som införs för att undvika att skapa ett
+
+digitalt utanförskap.
+
+Mål  4 - Individ och Familjeomsorg  är
 en attraktiv arbetsgivare och har en
 
-Mål 3 - Individ & Familjeomsorg  nyttjar              kompetensförsörjning   som  skapar stabil
-digitaliseringens möjligheter för dem                 grundbemanning   och  bidrar till hållbar
-vi är till för och för att utveckla                     verksamhet  utifrån kvalitet,
+kompetensförsörjning   som  skapar  stabil
+grundbemanning    och bidrar till hållbar
+verksamhet  utifrån kvalitet,
 
-effektivare arbetssätt                               arbetsmiljö och ekonomi
+arbetsmiljö  och ekonomi
 
-På Individ & Familjeomsorg nyttjar vi digitaliseringens möjligheter En stabil grundbemanning i verksamheten är en avgörande faktor för
-för att vara tillgängliga för invånare och för att individer med behov att med hållbarhet kunna ge de insatser som invånarna har behov av.
-av stöd ska känna sig trygga, aktiva och självständiga med bibehållen Kompetensförsörjningsarbetet syftar till att möta framtida krav och
-integritet. Förvaltningens målgrupper behöver förutsättningar att behov som ställs på vår verksamhet och främst att skapa en stabil och
-tillgodogöra sig ny teknik som införs för att undvika att skapa ett hållbar grundbemanning.
-digitalt utanförskap.                                 Chefer ska få förutsättningar att arbeta med utvecklande ledarskap
+En stabil grundbemanning i verksamheten är en avgörande faktor för
+att med hållbarhet kunna ge de insatser som invånarna har behov av.
+Kompetensförsörjningsarbetet syftar till att möta framtida krav och
+behov som ställs på vår verksamhet och främst att skapa en stabil och
+hållbar grundbemanning.
+Chefer ska få förutsättningar att arbeta med utvecklande ledarskap
 och medarbetare för att arbeta med utvecklande medarbetarskap. En
 hög kontinuitet och låg omsättning bland chefer är en nyckelfaktor
 för att utveckla och behålla medarbetare
@@ -3260,7 +3339,7 @@ Antal e-tjänster i förvaltningen 1      2      22      Andel stolta medarbetar
 
 10
 
-Nämndens                   direktiv
+Nämndens                    direktiv
 
 Förutom mål kan politikerna också besluta om direktiv.
 Detta gör de när det finns en tydlig viljeriktning och
@@ -3268,24 +3347,41 @@ Detta gör de när det finns en tydlig viljeriktning och
 något specifikt ska utföras. Direktiv gäller under ett
 eller två års tid.
 
-2023 har Kommunfullmäktige     i Kungsbacka  beslutat om
+2023  har Kommunfullmäktige    i Kungsbacka  beslutat om
 ett direktiv och Nämnden   för Individ & Familjeomsorg har
+
 fattat beslut om ett direktiv.
 
-NÄMNDDIREKTIV: Förvaltningen ska vidta åtgär- KF-DIREKTIV: Innovation och omställning till
-der för att säkra en långsiktigt hållbar ekonomi nya arbetssätt
+NÄMNDDIREKTIV: Förvaltningen ska vidta åtgär-
+der för att säkra en långsiktigt hållbar ekonomi
 och en verksamhet med god kvalitet.
+
+Förvaltningen ska vidta åtgärder för att nå en lång-
+siktigt hållbar ekonomi och en verksamhet av god
+kvalitet. För att skapa en hållbar socialtjänst ska nya
+arbetssätt och samarbeten utvecklas. Samverkan med
+andra nämnder, förvaltningar, myndigheter, närings-
+liv och civilsamhälle är nödvändigt för att klara upp-
+draget och de utmaningar vi står inför. Likaså krävs
+nya innovativa lösningar på problem och utmaningar
+
+i samhället.
+
+KF-DIREKTIV: Innovation och omställning till
+nya arbetssätt
+
 För att hantera och lösa samhällsutmaningar och
-Förvaltningen ska vidta åtgärder för att nå en lång- fortsatt möta behov och förväntningar hos invånare
-siktigt hållbar ekonomi och en verksamhet av god behöver vi utveckla innovationskraft och nya tekniska
-kvalitet. För att skapa en hållbar socialtjänst ska nya lösningar. Nya kompetenser och arbetssätt kommer att
-arbetssätt och samarbeten utvecklas. Samverkan med krävas men också en kultur som tillåter experimente-
-andra nämnder, förvaltningar, myndigheter, närings- rande och risktagande. Nämnderna får i uppdrag att:
-liv och civilsamhälle är nödvändigt för att klara upp- • Kompetensutveckla och förstärka med nya
-draget och de utmaningar vi står inför. Likaså krävs kompetenser
-nya innovativa lösningar på problem och utmaningar •
+fortsatt möta behov och förväntningar hos invånare
+behöver vi utveckla innovationskraft och nya tekniska
+lösningar. Nya kompetenser och arbetssätt kommer att
+krävas men också en kultur som tillåter experimente-
+rande och risktagande. Nämnderna får i uppdrag att:
+•
+Kompetensutveckla och förstärka med nya
+kompetenser
+•
 Utveckla och sprida nya arbetssätt
-i samhället.                       •
+•
 Bygga en kultur som inspirerar och tillåter
 experimenterande och testande, utforskande
 och medskapande
@@ -3363,92 +3459,177 @@ användas under 2023.
 
 <!-- sida 135 -->
 
-13
+Aktiviteter                   2023
 
-Aktiviteter                  2023
-
-Våra  aktiviteter  ska  bidra
 För att uppnå de politiska målen genomförs ett
-antal aktiviteter i förvaltningens verksamheter.                   till att vi når våra mål.
+antal aktiviteter i förvaltningens verksamheter.
+
 Nedan är ett axplock av det som ska göras 2023.
 
-Vi har nöjda och delaktiga                         Individ & Familjeomsorg  är en attraktiv
-brukare/klienter  som  får rätt                       arbetsgivare  och har en kompetens-
-insats på rätt nivå                             försörjning som  skapar stabil grund-
+Vi har nöjda och delaktiga
+brukare/klienter  som får rätt
 
-bemanning   och bidrar till hållbar
-Aktiviteter            Förväntade effekter
-verksamhet   utifrån kvalitet, arbetsmiljö
-• Införa ett förändrat arbetssätt Aktiviteterna förväntas bidra till
-och ekonomi
-med individens behov i centrum att stöd ges utifrån individens
-(IBIC)                behov och förutsättningar. Genom
-Aktiviteter            Förväntade effekter
-• Förstärka det utvecklande arbets- helhetssyn, samordning, arbete
-• Förbättra chefers organisator- Planerade aktiviteter ska bidra
-sättet för att öka rörligheten för utifrån verksamhetens processer
-iska förutsättningar genom Sunt till en kompetensförsörjning som
-de som är i behov av bostad med och den enskildes delaktighet
-arbetslivs verktyg Chefoskopet säkrar en stabil grundbemanning.
-särskild service      bidrar aktiviteterna till att skapa
-• Utveckla och implementera Genom att satsa på ett hållbart
-• Testa och utvärdera olika sätt för god omsorg för individer i behov
-processer och arbetssätt för att ledarskap ska chefsomsättningen
-brukare och anhöriga att vara av vårt stöd.
-arbeta med rätt bemanning minska. En hög kontinuitet bland
+insats på rätt nivå
+
+Aktiviteter
+• Införa ett förändrat arbetssätt
+med individens behov i centrum
+
+(IBIC)
+• Förstärka det utvecklande arbets-
+sättet för att öka rörligheten för
+de som är i behov av bostad med
+särskild service
+• Testa och utvärdera olika sätt för
+brukare och anhöriga att vara
 medskapande inom våra olika
-• Utvecklande medarbetarskap chefer är också en nyckelfaktor för
 verksamheter
-och ledarskap         att behålla medarbetare. Trygga
 • Genomföra processkartlägg-
-• Förvaltningsövergripande medarbetare är en förutsättning för
 ningar av prioriterade processer
-utbildningsplanering  att driva en verksamhet med god
 • Införa en ny organisation för
-kvalitet.
 vård- och stödsamordning
+
+Förväntade effekter
+Aktiviteterna förväntas bidra till
+att stöd ges utifrån individens
+
+behov och förutsättningar. Genom
+helhetssyn, samordning, arbete
+utifrån verksamhetens processer
+och den enskildes delaktighet
+bidrar aktiviteterna till att skapa
+god omsorg för individer i behov
+av vårt stöd.
+
+13
+
+Våra  aktiviteter  ska  bidra
+
+till att vi når våra mål.
+
+Individ & Familjeomsorg  är en attraktiv
+arbetsgivare och  har en kompetens-
+
+försörjning som skapar  stabil grund-
+bemanning   och bidrar till hållbar
+
+verksamhet   utifrån kvalitet, arbetsmiljö
+och ekonomi
+
+Aktiviteter
+• Förbättra chefers organisator-
+iska förutsättningar genom Sunt
+
+arbetslivs verktyg Chefoskopet
+• Utveckla och implementera
+processer och arbetssätt för att
+arbeta med rätt bemanning
+• Utvecklande medarbetarskap
+och ledarskap
+• Förvaltningsövergripande
+utbildningsplanering
+
+Förväntade effekter
+Planerade aktiviteter ska bidra
+till en kompetensförsörjning som
+
+säkrar en stabil grundbemanning.
+Genom att satsa på ett hållbart
+ledarskap ska chefsomsättningen
+minska. En hög kontinuitet bland
+chefer är också en nyckelfaktor för
+att behålla medarbetare. Trygga
+medarbetare är en förutsättning för
+att driva en verksamhet med god
+kvalitet.
 
 <!-- sida 136 -->
 
-14
+Individ & Familjeomsorg
+nyttjar digitaliseringens
 
-Individ & Familjeomsorg               Individ & Familjeomsorg               Förvaltningen  ska vidta
+möjligheter för dem  vi är till
+för och för att utveckla
 
-nyttjar digitaliseringens            erbjuder kvinnor och män,             åtgärder  för att säkra en
-möjligheter för dem  vi är till        flickor och pojkar insatser          långsiktigt hållbar ekonomi
-för och för att utveckla                   på lika villkor                  och en verksamhet   med
+effektivare arbetssätt
 
-effektivare arbetssätt                                                           god kvalitet
+Aktiviteter
 
-Aktiviteter                        Aktiviteter                           Aktiviteter:
+• Testa välfärdsteknik och digitala lösningar
+för ökad tillgänglighet, självständighet och
+trygghet
+• Utveckla förvaltningens digitaliseringsgrupper
+för att driva utveckling av digitala lösningar
+utifrån ett verksamhets- samt brukar- och
+klientnära perspektiv
+• Ta fram ett koncept för hur medarbetare ska
+kompetensstärkas för att kunna möta brukarnas
+behov av stöd i digitalisering och för att minska
+det digitala utanförskapet
+• Införa system för säker kommunikation
+med invånare
 
-• Testa välfärdsteknik och digitala lösningar • Aktiviteter ska tas fram utifrån resultatet i de • Ta fram och implementera riktlinjer för nämndens
-för ökad tillgänglighet, självständighet och brukarundersökningar som genomförs hösten 2022 ambitionsnivåer för utförande verksamheter.
-trygghet                          • En jämställdhetsplan ska tas fram för förvaltningen • Utveckla systematik för kvalitetsuppföljning
-• Utveckla förvaltningens digitaliseringsgrupper                        • Fortsatt utveckla hemmaplanslösningar
 Förväntade effekter
-för att driva utveckling av digitala lösningar                         • Kostnad per brukare
-utifrån ett verksamhets- samt brukar- och Vilka utmaningar som finns kan skilja sig åt mellan • Främja ett innovativt arbetssätt som ger möjlighet
-klientnära perspektiv             förvaltningens olika verksamheter. För att få effekt att våga testa nytt
-• Ta fram ett koncept för hur medarbetare ska och göra störst nytta kommer aktiviteter att planeras
-Förväntade effekter
-kompetensstärkas för att kunna möta brukarnas i varje verksamhet och på varje enhet utifrån resultat
-behov av stöd i digitalisering och för att minska i de brukarundersökningar som genomförs under Samtliga aktiviteter ska bidra till en hållbar social-
-det digitala utanförskapet        hösten 2022.                         tjänst där verksamheten har god kvalitet och där
-• Införa system för säker kommunikation En övergripande handlingsplan för hur vi ska arbeta ekonomin är långsiktigt hållbar. Genom att ta fram
-med invånare                      med jämställdhet ska tas fram för förvaltningen. och implementera beslutade riktlinjer för nämndens
-ambitionsnivå skapas en tydlighet och inriktning för
-Förväntade effekter
-verksamheten och för de i behov av våra insatser.
+
 Aktiviteterna ska bidra till att vi nyttjar digita-
 liserings möjligheter och användandet av väl-
 färdsteknik både för att hitta smarta och effektiva
 arbetssätt och för att bidra till ökad trygghet och
 självständighet hos brukare och klienter.
 
-<!-- sida 137 -->
+14
 
-15
+Individ & Familjeomsorg
+
+erbjuder kvinnor  och män,
+flickor och pojkar insatser
+på lika villkor
+
+Aktiviteter
+
+• Aktiviteter ska tas fram utifrån resultatet i de
+brukarundersökningar som genomförs hösten 2022
+• En jämställdhetsplan ska tas fram för förvaltningen
+
+Förväntade effekter
+Vilka utmaningar som finns kan skilja sig åt mellan
+förvaltningens olika verksamheter. För att få effekt
+och göra störst nytta kommer aktiviteter att planeras
+i varje verksamhet och på varje enhet utifrån resultat
+i de brukarundersökningar som genomförs under
+hösten 2022.
+En övergripande handlingsplan för hur vi ska arbeta
+
+med jämställdhet ska tas fram för förvaltningen.
+
+Förvaltningen ska vidta
+åtgärder för att säkra en
+
+långsiktigt hållbar ekonomi
+och  en verksamhet  med
+
+god  kvalitet
+
+Aktiviteter:
+
+• Ta fram och implementera riktlinjer för nämndens
+ambitionsnivåer för utförande verksamheter.
+• Utveckla systematik för kvalitetsuppföljning
+• Fortsatt utveckla hemmaplanslösningar
+• Kostnad per brukare
+• Främja ett innovativt arbetssätt som ger möjlighet
+att våga testa nytt
+
+Förväntade effekter
+Samtliga aktiviteter ska bidra till en hållbar social-
+tjänst där verksamheten har god kvalitet och där
+ekonomin är långsiktigt hållbar. Genom att ta fram
+och implementera beslutade riktlinjer för nämndens
+
+ambitionsnivå skapas en tydlighet och inriktning för
+verksamheten och för de i behov av våra insatser.
+
+<!-- sida 137 -->
 
 Läsguide
 
@@ -3458,34 +3639,49 @@ Kungsbacka kommun har fem kommunövergripande mål som är
 beslutade av kommunfullmäktige. Målen har sin utgångspunkt i vår
 vision som beskriver hur vi vill att samhället ska se ut år 2030.
 
-Aktiviteter och förväntade effekter
 ”En attraktiv kommun att bo verka och vistas i”
 I Kungsbacka ska invånarna vara trygga och få en god omsorg när
-Till varje kapitel beskrivs planerade aktiviteter som ska bidra
 de behöver stöd för att få livet att fungera. Vi ska ha välkomnande
-till att vi når målet och förväntade effekter av dessa.
 och trygga miljöer och samtidigt erbjuda mötesplatser för
 samvaro, rekreation, upplevelser och kreativa utbyten.
+
+Nämndmål
+
+Nämnden för Individ & Familjeomsorg har valt att sätta ett
+eget nämndmål kopplat till det kommunövergripande målet.
+
 ”Vi har nöjda och delaktiga brukare/
 klienter som får rätt insats på rätt nivå”
-Nämndmål
+För att skapa en verksamhet med god kvalitet och som
+är ekonomiskt hållbar på lång sikt ska stöd ges utifrån
+individens behov och förutsättningar. Detta kan vi uppnå
+genom våra medarbetares professionella kompetens,
+tillgång till bästa tillgängliga kunskap och genom att
+göra brukare och klienter delaktiga.
+
+15
+
+Aktiviteter och förväntade effekter
+
+Till varje kapitel beskrivs planerade aktiviteter som ska bidra
+till att vi når målet och förväntade effekter av dessa.
+
+”Vi har nöjda och delaktiga brukare/
+klienter som får rätt insats på rätt nivå”
+
 • Införa ett förändrat arbetssätt med individens behov i centrum (IBIC)
 • Förstärka det utvecklande arbetssättet för att öka rörligheten för de
-Nämnden för Individ & Familjeomsorg har valt att sätta ett som är i behov av bostad med särskild service
-eget nämndmål kopplat till det kommunövergripande målet. • Testa och utvärdera olika sätt för brukare och anhöriga att vara
+som är i behov av bostad med särskild service
+• Testa och utvärdera olika sätt för brukare och anhöriga att vara
 medskapande inom våra olika verksamheter
 • Genomföra processkartläggningar av prioriterade processer
-”Vi har nöjda och delaktiga brukare/           • Införa en ny organisation för vård- och stödsamordning
-klienter som får rätt insats på rätt nivå”
-För att skapa en verksamhet med god kvalitet och som
-är ekonomiskt hållbar på lång sikt ska stöd ges utifrån       Förväntade effekter
-individens behov och förutsättningar. Detta kan vi uppnå
+• Införa en ny organisation för vård- och stödsamordning
+
+Förväntade effekter
 Aktiviteterna förväntas bidra till att stöd ges utifrån individens behov
-genom våra medarbetares professionella kompetens,
 och förutsättningar. Genom helhetssyn, samordning, arbete utifrån
-tillgång till bästa tillgängliga kunskap och genom att
 verksamhetens processer och den enskildes delaktighet bidrar
-göra brukare och klienter delaktiga.      aktiviteterna till att skapa god omsorg för individer i behov av vårt stöd.
+aktiviteterna till att skapa god omsorg för individer i behov av vårt stöd.
 
 <!-- sida 138 -->
 
