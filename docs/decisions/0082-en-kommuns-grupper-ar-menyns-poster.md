@@ -44,9 +44,9 @@ namnet och lägger ett klick framför organen.
 * Med en enda kommun är posterna "Kalender" (när den finns), en
   undermeny per grupp i kommunfilen och sist "Om poolen" med statussidan
   och avvikelserna. Med flera kommuner gäller ADR-0081 som förut.
-* Översikten skrivs också som `index.html`, med rubriken "Organ och
-  handlingar", och märks som startsidan i menyn. `<kommun>.html` finns
-  kvar med samma innehåll, så att gamla länkar fungerar.
+* Översikten, som sedan tillägget till ADR-0081 också är startsidan,
+  får rubriken "Organ och handlingar" i stället för sajtens namn, och
+  `index.html` märks som startsidan i menyn.
 * Rubriker som slutade med kommunens namn, och stigen som började med
   det, gör det bara när poolen har flera kommuner (`kommunens()` och
   `oversiktsnamn()` i `webbplats/meny.py`).

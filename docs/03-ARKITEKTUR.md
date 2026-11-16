@@ -1761,7 +1761,8 @@ varje push till `main`, för hand och när ett issue med etiketten
 `avvikelse` öppnas, ändras, stängs eller byter etikett. Inget av det som byggs checkas in.
 
 - **Sidorna:** en startsida, en översikt per kommunfil i `kommuner/`
-  (`<kommun>.html`), en statussida per kommun (`<kommun>/status.html`),
+  (`<kommun>.html`; med en enda kommun är översikten också
+  startsidan), en statussida per kommun (`<kommun>/status.html`),
   en sida per organ i kommunfilen
   (`<kommun>/<organ>.html`), en sida per sammanträde punkt för punkt för
   organ med `sammantradessidor` (`<kommun>/<organ>/<år>/<sammanträde>.html`,

@@ -1921,10 +1921,14 @@ Hur och varför står i
   "Avvikelser".
 - **Givet** en webbplats med en enda kommun
 - **När** den byggs
-- **Så** är startsidan kommunens översikt, med rubriken "Organ och
-  handlingar", och `<kommun>.html` finns kvar med samma innehåll. Stigen
-  överst på organens, dokumentens, sammanträdenas och kalenderns sidor
-  börjar med "Organ och handlingar" i stället för kommunens namn.
+- **Så** är startsidan kommunens översikt med tabellen över organen och
+  rubriken "Organ och handlingar", och `<kommun>.html` finns kvar med
+  samma innehåll. Stigen överst på organens, dokumentens, sammanträdenas
+  och kalenderns sidor börjar med "Organ och handlingar" i stället för
+  kommunens namn. Med flera kommuner listar startsidan kommunerna.
+- **Givet** en sida vars rubrik är sajtens namn
+- **När** den byggs
+- **Så** är sidans titel bara namnet, inte namnet två gånger.
 - **Givet** en webbplats med flera kommuner och en av dem
 - **När** menyn byggs
 - **Så** har kommunens undermeny först gruppen "Översikt" med "Alla organ"

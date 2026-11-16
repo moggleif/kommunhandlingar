@@ -3,23 +3,28 @@
 Kommunens sida: en rad per organ med antalet sammanträden och en kolumn
 per sida över tid, så att det syns vilka organ som har vilka sidor. Ett
 utskott står direkt under organet det hör till, och organen står i
-kommunfilens grupper när den har några. En pool med en enda kommun har
-översikten som startsida, och då heter den inte som sajten (ADR-0082).
+kommunfilens grupper när den har några. En webbplats med en enda kommun
+börjar på kommunens sida, som då heter "Organ och handlingar" i stället för
+sajtens namn (K58, ADR-0082).
 """
 
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun, Organ
 from kommunhandlingar.webbplats.flikar import SIDOR, overtid
-from kommunhandlingar.webbplats.mall import Mall, sida
-from kommunhandlingar.webbplats.meny import oversiktsnamn
+from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.organordning import grupperade
 from kommunhandlingar.webbplats.rakning import Organrad
 
 TOM = '<td class="tom">–<span class="dold"> saknas</span></td>'
 
 
-def kommunsida(
+def adresser(mall: Mall, kommun: Kommun) -> list[str]:
+    egen = f"{kommun.id}.html"
+    return [egen, "index.html"] if mall.en_kommun else [egen]
+
+
+def oversikt(
     mall: Mall, kommun: Kommun, rader: list[Organrad], dokument: list[dict]
 ) -> str:
     sammantraden = {rad.id: rad.sammantraden for rad in rader}
@@ -30,14 +35,11 @@ def kommunsida(
         + "</tbody>"
         for namn, organen in grupperade(kommun)
     )
-    innehall = (
+    return (
         inledning(dokument) + '<div class="tabell"><table class="oversikt"><thead><tr>'
         f'<th scope="col">Organ</th><th scope="col">Sammanträden</th>{huvud}'
         f"</tr></thead>{grupper}</table></div>"
     )
-    # En enda kommuns översikt är också startsidan (ADR-0082).
-    adress = "index.html" if mall.en_kommun else f"{kommun.id}.html"
-    return sida(mall, adress, oversiktsnamn(mall.kommuner, kommun), innehall)
 
 
 def inledning(dokument: list[dict]) -> str:

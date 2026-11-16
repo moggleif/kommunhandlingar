@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54 och K56 i
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54, K56 och K58 i
 docs/02-KRAV.md.
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
@@ -30,12 +30,12 @@ from kommunhandlingar.webbplats import (
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.llms import llms
-from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
 from kommunhandlingar.webbplats.malsida import malsida
-from kommunhandlingar.webbplats.meny import statusadress
+from kommunhandlingar.webbplats.meny import oversiktsnamn, statusadress
 from kommunhandlingar.webbplats.organsida import organsida
-from kommunhandlingar.webbplats.oversikt import kommunsida
+from kommunhandlingar.webbplats.oversikt import adresser, oversikt
 from kommunhandlingar.webbplats.rakning import okanda, rakna
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
@@ -81,13 +81,16 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     sammantradesbygge.bygg(ut, mall, underlag)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
-    rader = rakna(kommun, dokument, mall.byggd.date())
-    html = kommunsida(mall, kommun, rader, dokument)
-    (ut / f"{kommun.id}.html").write_text(html, encoding="utf-8")
-    # En enda kommuns översikt är också startsidan (ADR-0082).
-    if mall.en_kommun:
-        (ut / "index.html").write_text(html, encoding="utf-8")
+    bygg_oversikten(ut, mall, kommun, dokument)
     bygg_organen(ut, mall, kommun, dokument)
+
+
+def bygg_oversikten(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> None:
+    rader = rakna(kommun, dokument, mall.byggd.date())
+    innehall = oversikt(mall, kommun, rader, dokument)
+    for adress in adresser(mall, kommun):
+        html = sida(mall, adress, oversiktsnamn(mall.kommuner, kommun), innehall)
+        (ut / adress).write_text(html, encoding="utf-8")
 
 
 def bygg_organen(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> None:

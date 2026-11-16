@@ -59,3 +59,11 @@ sist står avvikelserna. Så ryms fem kommuner inom sex poster.
 att Kungsbackas sajt heter "Kungsbacka kommun" och regionens datarepo
 "Region Halland" (ADR-0080). Projektägaren valde namnen. Med flera kommuner
 heter sajten "Kommunhandlingar" som förut (K58).
+
+**Tillägg 2026-11-16, startsidan.** En webbplats med en enda kommun börjar
+på kommunens översikt: `index.html` är samma tabell över organen som
+`<kommun>.html`, som finns kvar för länkar utifrån. Den tidigare startsidan
+var en mellansida med en enda länk vidare, och projektägaren bad att den
+skulle bort. Med flera kommuner finns startsidan med listan över
+kommunerna kvar. En sida vars rubrik är sajtens namn har bara namnet som
+titel (K58).

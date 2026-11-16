@@ -223,17 +223,21 @@ class TestBygg(unittest.TestCase):
     def test_webbplatsen_byggs_ur_kommunfilerna_och_poolen(self):
         self.spara(dokument())
         bygg(self.rot, self.ut, REPO, TID)
-        self.assertIn("Exempelby kommun", (self.ut / "index.html").read_text())
+        start = (self.ut / "index.html").read_text()
+        self.assertIn("<title>Organ och handlingar – Exempelby kommun</title>", start)
+        self.assertIn("<h1>Organ och handlingar</h1>", start)
+        self.assertIn('<table class="oversikt">', start)
+        self.assertIn('class="sajtnamn" href="index.html" aria-current="page"', start)
         status = (self.ut / "exempelby" / "status.html").read_text()
         self.assertIn("Dokument: 1", status)
         self.assertIn("<title>Poolens status – Exempelby kommun</title>", status)
 
-    def test_en_kommuns_oversikt_ar_startsidan(self):
-        self.spara(dokument())
+    def test_med_flera_kommuner_listar_startsidan_dem(self):
+        shutil.copy(FIXTURER / "exempelby.toml", self.rot / "kommuner" / "andraby.toml")
         bygg(self.rot, self.ut, REPO, TID)
         start = (self.ut / "index.html").read_text()
-        self.assertEqual(start, (self.ut / "exempelby.html").read_text())
-        self.assertIn("<h1>Organ och handlingar</h1>", start)
+        self.assertIn('<a href="andraby.html">', start)
+        self.assertNotIn('<table class="oversikt">', start)
 
     def test_okant_organ_typ_eller_kvalitet_stoppar_bygget(self):
         self.spara(dokument(organ="nedlagd", typ="beslut", kvalitet="bra"))

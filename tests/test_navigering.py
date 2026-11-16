@@ -11,7 +11,7 @@ from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.mal import Mal
 from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.meny import TEMAKNAPP, kommunens, meny, oversiktsnamn
-from kommunhandlingar.webbplats.oversikt import kommunsida
+from kommunhandlingar.webbplats.oversikt import adresser, oversikt
 from kommunhandlingar.webbplats.rakning import Organrad
 from kommunhandlingar.webbplats.spar import Steg
 from tests.test_webbplats import REPO, TID, exempelby
@@ -77,10 +77,9 @@ class TestNavigering(unittest.TestCase):
         self.assertNotIn("kalender.html", html)
 
     def test_en_kommuns_oversikt_heter_inte_som_sajten(self):
-        html = kommunsida(self.mall, exempelby(), [rad("bun", 0), rad("fsn", 0)], [])
-        self.assertIn("<h1>Organ och handlingar</h1>", html)
-        self.assertIn("<title>Organ och handlingar – Exempelby kommun</title>", html)
-        self.assertIn('class="sajtnamn" href="index.html" aria-current="page"', html)
+        self.assertEqual(
+            oversiktsnamn(self.mall.kommuner, exempelby()), "Organ och handlingar"
+        )
 
     def test_varje_kommun_ar_en_post_i_menyn(self):
         andra = replace(exempelby(), id="andraby", namn="Andraby", grupper=())
@@ -109,6 +108,16 @@ class TestNavigering(unittest.TestCase):
     def test_sidan_heter_som_sin_enda_kommun(self):
         html = sida(self.mall, "exempelby/fsn.html", "Förskolan", "")
         self.assertIn("<title>Förskolan – Exempelby kommun</title>", html)
+        html = sida(self.mall, "index.html", "Exempelby kommun", "")
+        self.assertIn("<title>Exempelby kommun</title>", html)
+
+    def test_en_enda_kommun_borjar_pa_sin_oversikt(self):
+        self.assertEqual(
+            adresser(self.mall, exempelby()), ["exempelby.html", "index.html"]
+        )
+        andra = replace(exempelby(), id="andraby")
+        mall = Mall([exempelby(), andra], REPO, TID)
+        self.assertEqual(adresser(mall, andra), ["andraby.html"])
 
     def test_sidan_laddar_den_gemensamma_menyn_fran_giffa(self):
         html = sida(self.mall, "index.html", "Start", "")
@@ -119,7 +128,7 @@ class TestNavigering(unittest.TestCase):
 
     def test_oversikten_har_en_kolumn_per_sida_och_antalet(self):
         rader = [rad("bun", 0), rad("fsn", 4)]
-        html = kommunsida(self.mall, exempelby(), rader, [])
+        html = oversikt(self.mall, exempelby(), rader, [])
         self.assertIn('<a href="exempelby/fsn.html">4</a>', html)
         self.assertIn('<a href="exempelby/fsn/mal-och-direktiv.html">2 mål</a>', html)
         self.assertIn('<a href="exempelby/fsn/initiativ.html">2 ärenden</a>', html)
@@ -136,7 +145,7 @@ class TestNavigering(unittest.TestCase):
 
     def test_utskottet_star_under_sin_namnd(self):
         rader = [rad("bun", 0), rad("fsn", 4), rad("bun-au", 1)]
-        html = kommunsida(self.mall, kommun_med_utskott(), rader, []).split("<main>")[1]
+        html = oversikt(self.mall, kommun_med_utskott(), rader, [])
         bun, utskott, fsn = (
             html.index(f'"exempelby/{o}.html"') for o in ("bun", "bun-au", "fsn")
         )
@@ -146,7 +155,7 @@ class TestNavigering(unittest.TestCase):
 
     def test_oversikten_borjar_med_dokumenten(self):
         dokument = [{"datum": "2024-05-02"}, {"datum": "2013-08-13"}] * 600
-        html = kommunsida(
+        html = oversikt(
             self.mall, exempelby(), [rad("bun", 0), rad("fsn", 0)], dokument
         )
         self.assertIn("<p>1 200 dokument från 2013-08-13 till 2024-05-02.", html)
@@ -164,7 +173,7 @@ class TestNavigering(unittest.TestCase):
             ),
         )
         rader = [rad("bun", 0), rad("fsn", 4), rad("bun-au", 1)]
-        html = kommunsida(self.mall, kommun, rader, []).split("<main>")[1]
+        html = oversikt(self.mall, kommun, rader, [])
         ordning = [
             html.index(t)
             for t in (
