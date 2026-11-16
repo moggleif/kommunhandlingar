@@ -107,7 +107,11 @@ class TestHamtningIDelar(Arkivbas):
         self.assertEqual(self.falt()["kallnyckel"], "s:1")
 
     def test_delar_med_hogre_kvalitet_tar_platsen(self):
-        self.klient.filer |= {W3: "begransad.pdf", W1: "skarvar.pdf", W2: "delade.pdf"}
+        self.klient.filer |= {
+            W3: "kort-begransad.pdf",
+            W1: "skarvar.pdf",
+            W2: "delade.pdf",
+        }
         self.kor(kandidat("s:1", W3))
         self.assertEqual(self.kor(i_delar(W1, W2)), ["konverterad"])
         falt = self.falt()
@@ -115,7 +119,7 @@ class TestHamtningIDelar(Arkivbas):
         self.assertEqual(frontmatter.lista(falt["tidigare_kallnycklar"]), ["s:1"])
 
     def test_en_fil_med_hogre_kvalitet_tar_platsen_fran_delar(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "kort-begransad.pdf"}
         self.klient.filer |= {W3: "skarvar.pdf"}
         self.kor(i_delar(W1, W2))
         self.assertEqual(self.kor(kandidat("s:1", W3)), ["konverterad"])

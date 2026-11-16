@@ -16,7 +16,7 @@ class TestOmkonverteringen(Steg2Fall):
         return replace(super().steg(kandidater, version), omkonvertera=True)
 
     def granskat(self) -> str:
-        self.klient.filer["u1"] = "sidor.pdf"
+        self.klient.filer["u1"] = "kort.pdf"
         self.kor(kandidat("s:1", "u1"), version="kommunhandlingar 0.1.0")
         _, huvud, kropp = self.md().read_text(encoding="utf-8").split("---\n", 2)
         falt = frontmatter.las(f"---\n{huvud}---\n") | {"granskad": "2026-10-22"}
@@ -32,7 +32,7 @@ class TestOmkonverteringen(Steg2Fall):
 
     def test_granskat_dokument_under_ny_adress_behaller_rattningen(self):
         text = self.granskat()
-        self.klient.filer["u3"] = "sidor.pdf"
+        self.klient.filer["u3"] = "kort.pdf"
         self.assertEqual(self.kor(kandidat("s:1", "u3")), ["ny adress, samma innehåll"])
         self.assertEqual(
             self.md().read_text(encoding="utf-8"),
@@ -41,7 +41,7 @@ class TestOmkonverteringen(Steg2Fall):
 
     def test_granskat_dokument_under_ny_kallnyckel_behaller_rattningen(self):
         text = self.granskat()
-        self.klient.filer["u2"] = "sidor.pdf"
+        self.klient.filer["u2"] = "kort.pdf"
         self.assertEqual(self.kor(kandidat("s:2", "u2")), ["ny adress, samma innehåll"])
         falt = self.falt()
         self.assertEqual(
@@ -52,7 +52,7 @@ class TestOmkonverteringen(Steg2Fall):
 
     def test_nytt_original_blir_en_ny_version_utan_granskning(self):
         self.granskat()
-        self.klient.filer["u2"] = "begransad.pdf"
+        self.klient.filer["u2"] = "kort-begransad.pdf"
         self.assertEqual(self.kor(kandidat("s:1", "u2")), ["konverterad"])
         self.assertEqual(self.falt()["granskad"], "null")
         self.assertNotIn("Rättad för hand.", self.md().read_text(encoding="utf-8"))

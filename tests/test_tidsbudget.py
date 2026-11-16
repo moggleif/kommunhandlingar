@@ -34,7 +34,7 @@ class TestBudgeten(unittest.TestCase):
         self.addCleanup(katalog.cleanup)
         self.data = Path(katalog.name)
         self.klient = Avbrytande()
-        self.klient.filer |= {f"u{n}": "sidor.pdf" for n in range(1, 5)}
+        self.klient.filer |= {f"u{n}": "kort.pdf" for n in range(1, 5)}
         self.klient.filer["u1"] = "fel:http-404"
         self.kandidater = [
             kandidat(f"s:{n}", f"u{n}", filnamn=f"{n}.pdf") for n in range(1, 5)
@@ -72,7 +72,7 @@ class TestBudgeten(unittest.TestCase):
         self.assertEqual(fel_i(self.data), [])
 
     def test_konverteringen_fangar_inte_tidsgransen(self):
-        self.klient.filer["u1"] = "sidor.pdf"
+        self.klient.filer["u1"] = "kort.pdf"
         with mock.patch(
             "kommunhandlingar.konvertering.dokument.las_sidor", side_effect=Tidsgrans
         ):
@@ -124,7 +124,7 @@ class TestDokumentetsGrans(unittest.TestCase):
         self.addCleanup(katalog.cleanup)
         self.data = Path(katalog.name)
         self.klient = Klient()
-        self.klient.filer |= {"u1": "sidor.pdf", "u2": "begransad.pdf"}
+        self.klient.filer |= {"u1": "kort.pdf", "u2": "kort-begransad.pdf"}
         self.kandidater = [
             kandidat("s:1", "u1"),
             kandidat("s:2", "u2", "kallelse", "2.pdf"),
@@ -151,7 +151,7 @@ class TestDokumentetsGrans(unittest.TestCase):
         las_sidor = dokument.las_sidor
 
         def forsta_tar_for_lang_tid(pdf):
-            if pdf.read_bytes() == (PDF / "sidor.pdf").read_bytes():
+            if pdf.read_bytes() == (PDF / "kort.pdf").read_bytes():
                 raise Dokumentgrans
             return las_sidor(pdf)
 
@@ -191,7 +191,7 @@ class TestDokumentetsGrans(unittest.TestCase):
 
     def test_en_ny_version_vid_gransen_skrivs_over(self):
         self.kor()
-        self.klient.filer["u1"] = "begransad.pdf"
+        self.klient.filer["u1"] = "kort-begransad.pdf"
         with mock.patch(
             "kommunhandlingar.konvertering.dokument.las_sidor",
             side_effect=Dokumentgrans,

@@ -91,7 +91,7 @@ class TestSteg2(Steg2Fall):
         self.assertEqual(list(self.md().parent.glob("*.tmp")), [])
 
     def test_samma_adress_hamtas_inte_igen(self):
-        self.klient.filer["u1"] = "sidor.pdf"
+        self.klient.filer["u1"] = "kort.pdf"
         self.kor(kandidat("s:1", "u1"))
         fore = self.md().read_text()
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["oförändrad"])
@@ -100,9 +100,9 @@ class TestSteg2(Steg2Fall):
 
     def test_ny_adress_med_samma_innehall_andrar_bara_adressen(self):
         self.klient.filer |= {
-            "u1": "sidor.pdf",
-            "u2": "begransad.pdf",
-            "u3": "sidor.pdf",
+            "u1": "kort.pdf",
+            "u2": "kort-begransad.pdf",
+            "u3": "kort.pdf",
         }
         self.kor(kandidat("s:1", "u1"))
         fore = self.md().read_text()
@@ -131,11 +131,11 @@ class TestSteg2(Steg2Fall):
         self.klient.filer["u1"] = "fel:tomt-svar"
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["ej hämtad (tomt-svar)"])
         self.assertEqual(self.falt()["hamtad"], falt["hamtad"])
-        self.klient.filer["u1"] = "sidor.pdf"
+        self.klient.filer["u1"] = "kort.pdf"
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad"])
 
     def test_misslyckat_forsok_skriver_aldrig_over_en_fullstandig_md(self):
-        self.klient.filer |= {"u1": "sidor.pdf", "u2": "fel:http-503"}
+        self.klient.filer |= {"u1": "kort.pdf", "u2": "fel:http-503"}
         self.kor(kandidat("s:1", "u1"))
         fore = self.md().read_text()
         self.assertEqual(
@@ -145,14 +145,14 @@ class TestSteg2(Steg2Fall):
         self.assertEqual(self.md().read_text(), fore)
 
     def test_tva_dokument_pa_samma_plats_far_namn(self):
-        self.klient.filer |= {"u1": "sidor.pdf", "u2": "begransad.pdf"}
+        self.klient.filer |= {"u1": "kort.pdf", "u2": "kort-begransad.pdf"}
         self.kor(
             kandidat("s:1", "u1"), kandidat("s:2", "u2", filnamn="Protokoll § 5.pdf")
         )
         self.assertEqual(self.falt("protokoll-protokoll-5")["namn"], "protokoll-5")
 
     def test_ny_kallnyckel_pa_platsen_blir_ny_version(self):
-        self.klient.filer |= {"u1": "sidor.pdf", "u2": "begransad.pdf"}
+        self.klient.filer |= {"u1": "kort.pdf", "u2": "kort-begransad.pdf"}
         self.kor(kandidat("s:1", "u1"))
         self.assertEqual(self.kor(kandidat("s:2", "u2")), ["konverterad"])
         falt = self.falt()
@@ -162,7 +162,7 @@ class TestSteg2(Steg2Fall):
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["tidigare källnyckel"])
 
     def test_tabellkatalogen_ersatts_som_helhet(self):
-        self.klient.filer |= {"u1": "sidor.pdf", "u2": "inte.pdf"}
+        self.klient.filer |= {"u1": "kort.pdf", "u2": "inte.pdf"}
         self.kor(kandidat("s:1", "u1"))
         self.kor(kandidat("s:1", "u2"))
         self.assertFalse(self.md().with_suffix(".tabeller").exists())
@@ -176,7 +176,7 @@ class TestSteg2(Steg2Fall):
         self.assertEqual(self.falt()["kalla_url"], "u2")
 
     def test_avbruten_korning_gors_fardig(self):
-        self.klient.filer |= {"u1": "sidor.pdf", "u2": "begransad.pdf"}
+        self.klient.filer |= {"u1": "kort.pdf", "u2": "kort-begransad.pdf"}
         self.kor(kandidat("s:1", "u1"))
         katalog = self.md().with_suffix(".tabeller")
         (katalog.parent / "protokoll.tabeller.ny").mkdir()
@@ -185,13 +185,10 @@ class TestSteg2(Steg2Fall):
         self.assertEqual(self.kor(kandidat("s:1", "u2")), ["konverterad"])
         rester = sorted(p.name for p in self.md().parent.iterdir())
         self.assertEqual(rester, ["protokoll.md", "protokoll.tabeller"])
-        self.assertEqual(
-            sorted(p.name for p in katalog.iterdir()),
-            ["12-1.csv", "14-1.csv", "16-1.csv", "2-1.csv", "3-1.csv"],
-        )
+        self.assertEqual(sorted(p.name for p in katalog.iterdir()), ["2-1.csv"])
 
     def test_bilaga_har_alltid_namn(self):
-        self.klient.filer["u1"] = "sidor.pdf"
+        self.klient.filer["u1"] = "kort.pdf"
         self.kor(kandidat("s:1", "u1", "bilaga", "Bilaga 1 Karta.pdf"))
         self.assertEqual(self.falt("bilaga-bilaga-1-karta")["namn"], "bilaga-1-karta")
 

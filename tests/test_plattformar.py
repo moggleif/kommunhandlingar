@@ -13,7 +13,7 @@ class TestPlattformar(Arkivbas):
     """Arkivets kandidater från två plattformar: `s:` och `e:`."""
 
     def test_lika_kvalitet_fran_en_annan_plattform_behaller_det_befintliga(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "sidor.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "kort.pdf"}
         resultat = self.kor(
             kandidat("s:1", W1), kandidat("e:1", W2, filnamn="Protokoll 2.pdf")
         )
@@ -26,7 +26,7 @@ class TestPlattformar(Arkivbas):
         self.assertEqual(len(list(self.data.rglob("*.md"))), 1)
 
     def test_hogre_kvalitet_fran_en_annan_plattform_tar_platsen(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "skarvar.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "skarvar.pdf"}
         resultat = self.kor(kandidat("s:1", W1), kandidat("e:1", W2))
         self.assertEqual(resultat, ["konverterad", "konverterad"])
         falt = self.falt()
@@ -35,14 +35,14 @@ class TestPlattformar(Arkivbas):
         self.assertEqual(len(list(self.data.rglob("*.md"))), 1)
 
     def test_lagre_kvalitet_fran_en_annan_plattform_tar_inte_platsen(self):
-        self.klient.filer |= {W1: "skarvar.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "skarvar.pdf", W2: "kort-begransad.pdf"}
         self.assertEqual(
             self.kor(kandidat("s:1", W1), kandidat("e:1", W2)), ["konverterad", SAMRE]
         )
         self.assertEqual(self.falt()["kvalitet"], "full")
 
     def test_ingen_av_de_tva_hamtas_igen(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "skarvar.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "skarvar.pdf"}
         self.kor(kandidat("s:1", W1), kandidat("e:1", W2))
         self.assertEqual(
             self.kor(kandidat("s:1", W1), kandidat("e:1", W2)),
@@ -50,7 +50,7 @@ class TestPlattformar(Arkivbas):
         )
 
     def test_den_som_forlorade_hamtas_inte_igen(self):
-        self.klient.filer |= {W1: "skarvar.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "skarvar.pdf", W2: "kort-begransad.pdf"}
         self.kor(kandidat("s:1", W1), kandidat("e:1", W2))
         self.assertEqual(
             self.kor(kandidat("s:1", W1), kandidat("e:1", W2)),
@@ -58,25 +58,25 @@ class TestPlattformar(Arkivbas):
         )
 
     def test_ett_misslyckat_forsok_lamnar_det_befintliga_orort(self):
-        self.klient.filer |= {W1: "skarvar.pdf", W2: "kapad:begransad.pdf"}
+        self.klient.filer |= {W1: "skarvar.pdf", W2: "kapad:kort-begransad.pdf"}
         resultat = self.kor(kandidat("s:1", W1), kandidat("e:1", W2))
         self.assertEqual(resultat[1], "ej hämtad (kapad), fullständig .md orörd")
         self.assertEqual(self.falt()["kallnyckel"], "s:1")
 
     def test_en_annan_typ_samma_dag_hamtas(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "sidor.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "kort.pdf"}
         resultat = self.kor(kandidat("s:1", W1), kandidat("e:1", W2, "kallelse"))
         self.assertEqual(resultat, ["konverterad", "konverterad"])
 
     def test_samma_plattform_far_flera_filer_av_typen(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "kort-begransad.pdf"}
         resultat = self.kor(
             kandidat("e:1", W1), kandidat("e:2", W2, filnamn="Protokoll § 5.pdf")
         )
         self.assertEqual(resultat, ["konverterad", "konverterad"])
 
     def test_ett_forsok_fran_en_annan_plattform_tas_over(self):
-        self.klient.filer |= {W1: "kapad:begransad.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "kapad:kort-begransad.pdf", W2: "kort-begransad.pdf"}
         self.kor(kandidat("s:1", W1))
         self.assertEqual(
             self.kor(kandidat("s:1", W1), kandidat("e:1", W2)),
@@ -92,7 +92,7 @@ class TestPlattformar(Arkivbas):
         self.assertEqual(len(list(self.data.rglob("*.md"))), 1)
 
     def test_den_overtagna_nyckeln_hamtas_inte_igen(self):
-        self.klient.filer |= {W1: "kapad:begransad.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "kapad:kort-begransad.pdf", W2: "kort-begransad.pdf"}
         self.kor(kandidat("s:1", W1))
         self.kor(kandidat("s:1", W1), kandidat("e:1", W2))
         self.assertEqual(
@@ -101,20 +101,20 @@ class TestPlattformar(Arkivbas):
         )
 
     def test_ett_forsok_fran_samma_plattform_tas_inte_over(self):
-        self.klient.filer |= {W1: "kapad:begransad.pdf", W3: "begransad.pdf"}
+        self.klient.filer |= {W1: "kapad:kort-begransad.pdf", W3: "kort-begransad.pdf"}
         self.kor(kandidat("s:1", W1))
         self.assertEqual(self.kor(kandidat("s:3", W3)), [LUCKOR])
         self.assertEqual(self.falt()["kallnyckel"], "s:1")
 
     def test_ett_forsok_fran_en_levande_kalla_tas_inte_over(self):
-        self.klient.filer |= {"u1": "fel:404", W2: "begransad.pdf"}
+        self.klient.filer |= {"u1": "fel:404", W2: "kort-begransad.pdf"}
         self.kor(kandidat("s:1", "u1"), arkiv=False)
         self.assertEqual(self.falt()["kvalitet"], "ej-hamtad")
         self.assertEqual(self.kor(kandidat("e:1", W2)), [LUCKOR])
         self.assertEqual(self.falt()["kallnyckel"], "s:1")
 
     def test_flera_dokument_av_typen_provas_inte(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "kort-begransad.pdf"}
         self.klient.filer |= {W3: "skarvar.pdf"}
         resultat = self.kor(
             kandidat("s:1", W1),
@@ -125,7 +125,7 @@ class TestPlattformar(Arkivbas):
         self.assertEqual(self.falt()["kallnyckel"], "s:1")
 
     def test_plattformen_som_redan_provats_provas_inte_igen(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "skarvar.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "skarvar.pdf"}
         self.klient.filer |= {W3: "skarvar.pdf"}
         self.kor(kandidat("s:1", W1), kandidat("e:1", W2))
         resultat = self.kor(kandidat("s:3", W3, filnamn="Annat.pdf"))
@@ -133,14 +133,14 @@ class TestPlattformar(Arkivbas):
         self.assertEqual(self.falt()["kallnyckel"], "e:1")
 
     def test_bilagor_provas_inte(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "skarvar.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "skarvar.pdf"}
         resultat = self.kor(
             kandidat("s:1", W1, "bilaga"), kandidat("e:1", W2, "bilaga")
         )
         self.assertEqual(resultat, ["konverterad", LUCKOR])
 
     def test_levande_kallor_provas_inte(self):
-        self.klient.filer |= {"u1": "skarvar.pdf", "u2": "begransad.pdf"}
+        self.klient.filer |= {"u1": "skarvar.pdf", "u2": "kort-begransad.pdf"}
         resultat = self.kor(
             kandidat("e:1", "u1"),
             kandidat("s:1", "u2", filnamn="Annat.pdf"),
@@ -151,7 +151,7 @@ class TestPlattformar(Arkivbas):
         self.assertEqual(self.falt("protokoll-annat")["kallnyckel"], "s:1")
 
     def test_flera_kandidater_fran_plattformen_provas_inte(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "skarvar.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "skarvar.pdf"}
         self.klient.filer |= {W3: "skarvar.pdf"}
         self.kor(kandidat("e:1", W1))
         resultat = self.kor(

@@ -62,21 +62,21 @@ class Arkivbas(unittest.TestCase):
 
 class TestArkivet(Arkivbas):
     def test_ett_dokument_i_poolen_andras_inte(self):
-        self.klient.filer |= {"u1": "begransad.pdf", W1: "sidor.pdf"}
+        self.klient.filer |= {"u1": "kort-begransad.pdf", W1: "kort.pdf"}
         self.kor(kandidat("s:1", "u1"), arkiv=False)
         self.assertEqual(self.kor(kandidat("s:1", W1)), [LUCKOR])
         self.assertEqual(self.klient.anrop, ["u1"])
         self.assertEqual(self.falt()["kalla_url"], "u1")
 
     def test_en_upptagen_plats_tas_inte(self):
-        self.klient.filer |= {"u1": "begransad.pdf", W2: "sidor.pdf"}
+        self.klient.filer |= {"u1": "kort-begransad.pdf", W2: "kort.pdf"}
         self.kor(kandidat("s:1", "u1"), arkiv=False)
         self.assertEqual(self.kor(kandidat("s:2", W2)), [LUCKOR])
         self.assertEqual(self.falt()["kallnyckel"], "s:1")
         self.assertEqual(len(list(self.data.rglob("*.md"))), 1)
 
     def test_tva_filer_ur_arkivet_pa_samma_plats_blir_tva_dokument(self):
-        self.klient.filer |= {W1: "begransad.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W1: "kort-begransad.pdf", W2: "kort-begransad.pdf"}
         resultat = self.kor(
             kandidat("s:1", W1), kandidat("s:2", W2, filnamn="Protokoll § 5.pdf")
         )
@@ -84,13 +84,13 @@ class TestArkivet(Arkivbas):
         self.assertEqual(self.falt("protokoll-protokoll-5")["kallnyckel"], "s:2")
 
     def test_ett_ej_hamtat_fylls_ur_arkivet(self):
-        self.klient.filer |= {"u1": "fel:robots", W1: "begransad.pdf"}
+        self.klient.filer |= {"u1": "fel:robots", W1: "kort-begransad.pdf"}
         self.kor(kandidat("s:1", "u1"), arkiv=False)
         self.assertEqual(self.kor(kandidat("s:1", W1)), ["konverterad"])
         self.assertEqual(self.falt()["kalla_url"], W1)
 
     def test_kapad_kopia(self):
-        self.klient.filer[W1] = "kapad:begransad.pdf"
+        self.klient.filer[W1] = "kapad:kort-begransad.pdf"
         self.assertEqual(self.kor(kandidat("s:1", W1)), ["ej hämtad (kapad)"])
         falt = self.falt()
         self.assertEqual((falt["kvalitet"], falt["fel"]), ("ej-hamtad", "kapad"))
@@ -99,11 +99,11 @@ class TestArkivet(Arkivbas):
         )
 
     def test_kapningen_provas_bara_for_arkivet(self):
-        self.klient.filer["u1"] = "kapad:begransad.pdf"
+        self.klient.filer["u1"] = "kapad:kort-begransad.pdf"
         self.assertEqual(self.kor(kandidat("s:1", "u1"), arkiv=False), ["konverterad"])
 
     def test_den_levande_kallans_forsok_skrivs_inte_om(self):
-        self.klient.filer |= {"u1": "fel:robots", W1: "kapad:begransad.pdf"}
+        self.klient.filer |= {"u1": "fel:robots", W1: "kapad:kort-begransad.pdf"}
         self.kor(kandidat("s:1", "u1"), arkiv=False)
         fore = self.md().read_text()
         self.assertEqual(
@@ -113,14 +113,14 @@ class TestArkivet(Arkivbas):
         self.assertEqual(self.md().read_text(), fore)
 
     def test_levande_dokument_pa_platsen_gar_fore_arkivet(self):
-        self.klient.filer |= {"u1": "begransad.pdf", W2: "sidor.pdf"}
+        self.klient.filer |= {"u1": "kort-begransad.pdf", W2: "kort.pdf"}
         self.kor(kandidat("s:1", "u1"), arkiv=False)
         resultat = self.kor(kandidat("s:1", "u1"), kandidat("s:2", W2))
         self.assertEqual(resultat, [LUCKOR, LUCKOR])
         self.assertEqual(len(list(self.data.rglob("*.md"))), 1)
 
     def test_arkivets_eget_forsok_skrivs_om_med_nytt_fel(self):
-        self.klient.filer |= {W1: "kapad:begransad.pdf", W2: "fel:anslutning"}
+        self.klient.filer |= {W1: "kapad:kort-begransad.pdf", W2: "fel:anslutning"}
         self.kor(kandidat("s:1", W1))
         self.assertEqual(self.kor(kandidat("s:1", W2)), ["ej hämtad (anslutning)"])
         self.assertEqual(
@@ -137,20 +137,20 @@ class TestOmkonverteringen(Arkivbas):
         behandla(steg, kandidat)
 
     def test_arkivets_dokument_fran_en_annan_version_konverteras_om(self):
-        self.klient.filer[W1] = "sidor.pdf"
+        self.klient.filer[W1] = "kort.pdf"
         self.gammal(kandidat("s:1", W1))
         self.assertEqual(self.kor(kandidat("s:1", W1)), ["konverterad om"])
         self.assertTrue(self.falt()["pipeline"].startswith("kommunhandlingar 0.2.0 /"))
         self.assertEqual(self.kor(kandidat("s:1", W1)), [LUCKOR])
 
     def test_ett_levande_dokument_konverteras_inte_om_ur_arkivet(self):
-        self.klient.filer |= {"u1": "sidor.pdf", W1: "sidor.pdf"}
+        self.klient.filer |= {"u1": "kort.pdf", W1: "kort.pdf"}
         self.gammal(kandidat("s:1", "u1"), arkiv=False)
         self.assertEqual(self.kor(kandidat("s:1", W1)), [LUCKOR])
         self.assertEqual(self.falt()["kalla_url"], "u1")
 
     def test_omkonverteringen_tas_efter_luckorna(self):
-        self.klient.filer[W1] = "sidor.pdf"
+        self.klient.filer[W1] = "kort.pdf"
         self.gammal(kandidat("s:1", W1))
         lista = [kandidat("s:1", W1), kandidat("s:2", W2, "kallelse")]
         self.assertEqual(ordna(self.steg(lista), lista), lista[::-1])
