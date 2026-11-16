@@ -480,6 +480,15 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en sida på webbplatsen
 - **När** den visas
 - **Så** har den samma meny (K39) och en sidfot som länkar till repot.
+- **Givet** en pool i ett eget datarepo, som regionens
+- **När** webbplatsen byggs
+- **Så** länkar sidfoten både datarepot och kommunhandlingar, och sidornas
+  länkar till arkitekturen, ADR:erna och Bidra går till kommunhandlingar,
+  där dokumentationen finns.
+- **Givet** ett organ som läses på Formpipe Meetings Plus (K57)
+- **När** statussidan byggs
+- **Så** står organets sida på plattformen bland luckornas källor, som
+  Sitevisions mötessidor.
 
 ## K15 — Figurer märks och kan tolkas
 

@@ -19,7 +19,7 @@ from kommunhandlingar.webbplats.flikar import MAL, flikar
 from kommunhandlingar.webbplats.mal import SLAG, Mal
 from kommunhandlingar.webbplats.malar import Underlag, aren
 from kommunhandlingar.webbplats.malkort import korten
-from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall, sida
 from kommunhandlingar.webbplats.malstatistik import protokollar, statistik
 from kommunhandlingar.webbplats.maltidslinje import namnden_rad, tidslinje
 
@@ -146,7 +146,7 @@ def ordning(mal: Mal) -> tuple[int, int, str]:
 
 def om_sidan(mall: Mall, fokus: bool) -> str:
     adr = [
-        f'<a href="{escape(mall.repo + ADR + fil)}">ADR-{fil[:4]}</a>'
+        f'<a href="{escape(KALLKOD + ADR + fil)}">ADR-{fil[:4]}</a>'
         for fil in (ADR_0044, ADR_0045, ADR_0050, ADR_0051, ADR_0056)
     ]
     return (

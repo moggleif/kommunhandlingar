@@ -72,6 +72,11 @@ footer { border-top: 1px solid var(--kant); margin-top: 3rem; padding: 1rem 0; }
 """
 
 
+# Dokumentationen bor med koden, också när poolen ligger i ett eget datarepo,
+# som regionens (K14).
+KALLKOD = "https://github.com/moggleif/kommunhandlingar"
+
+
 @dataclass(frozen=True)
 class Mall:
     kommuner: list[Kommun]
@@ -133,9 +138,11 @@ def lank(adress: str, text: str) -> str:
 
 
 def sidfot(mall: Mall) -> str:
-    repo = escape(mall.repo)
+    repo, kod = escape(mall.repo), escape(KALLKOD)
     tid = mall.byggd.strftime("%Y-%m-%d %H:%M UTC")
-    return (
-        f'<footer><p>Källkod och data: <a href="{repo}">{repo}</a>. '
-        f"Sidan byggdes {tid}.</p></footer>"
+    lankar = (
+        f'Källkod och data: <a href="{repo}">{repo}</a>'
+        if mall.repo == KALLKOD
+        else f'Data: <a href="{repo}">{repo}</a>. Källkod: <a href="{kod}">{kod}</a>'
     )
+    return f"<footer><p>{lankar}. Sidan byggdes {tid}.</p></footer>"

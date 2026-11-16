@@ -5,7 +5,7 @@ from html import escape
 from markdown_it import MarkdownIt
 
 from kommunhandlingar.webbplats.avvikelser import ADRESS, OKANT, ORDNING, Avvikelse
-from kommunhandlingar.webbplats.mall import Mall, lank, sida
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall, lank, sida
 
 # Som dokumenten (ADR-0023), men utan bilder: en bild i ett issue skulle bli
 # en extern resurs på sidan.
@@ -27,7 +27,7 @@ def inledning(repo: str) -> str:
         "en fil under fel möte. Varje avvikelse är ett "
         f'<a href="{escape(repo + ETIKETTEN)}">issue med etiketten avvikelse</a>'
         ", och hur de undersöks och meddelas står i "
-        f'<a href="{escape(repo + BIDRA)}">Bidra</a>. Sidan visar de öppna; '
+        f'<a href="{escape(KALLKOD + BIDRA)}">Bidra</a>. Sidan visar de öppna; '
         "personuppgifter i handlingarna står aldrig här.</p>"
     )
 

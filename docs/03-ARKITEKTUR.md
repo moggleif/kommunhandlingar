@@ -1788,7 +1788,10 @@ varje push till `main`, för hand och när ett issue med etiketten
   projektets gemensamma form – för varje kommun i bokstavsordning efter id
   en undermeny med översikten, kalendern när den finns, statussidan och
   organen grupp för grupp, och sist avvikelserna – och en
-  sidfot som länkar till repot och säger när sidan byggdes. Raden till
+  sidfot som länkar till repot och säger när sidan byggdes. En pool i
+  ett eget datarepo, som Region Hallands (ADR-0080), länkar sitt data och
+  sina issues där, och dokumentationen och källkoden i kommunhandlingar
+  (`KALLKOD` i `webbplats/mall.py`). Raden till
   projektets övriga sajter läggs dit av Giffås `sajter.js`, som varje sida
   laddar från samma värd före sidans egen stil, så att den egna stilen
   vinner. Utan Giffås filer, som vid förhandsvisning av `_site`, står

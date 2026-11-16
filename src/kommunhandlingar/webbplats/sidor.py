@@ -6,7 +6,7 @@ from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
 from kommunhandlingar.webbplats.luckavsnitt import luckavsnitt
-from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall, sida
 from kommunhandlingar.webbplats.meny import statusadress
 from kommunhandlingar.webbplats.rakning import Organrad, rakna
 
@@ -33,10 +33,10 @@ def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> st
         + "<h2>Dokument per organ</h2>"
         + dokumenttabell(rader)
         + "<h2>Kvalitet per organ</h2>"
-        + f'<p>Nivåerna förklaras i <a href="{escape(mall.repo + ARKITEKTUR)}'
+        + f'<p>Nivåerna förklaras i <a href="{escape(KALLKOD + ARKITEKTUR)}'
         '#konvertering-och-kvalitet">arkitekturen</a>.</p>'
         + kvalitetstabell(rader)
-        + luckavsnitt(kommun, rader, mall.repo)
+        + luckavsnitt(kommun, rader)
     )
     return sida(
         mall, statusadress(kommun.id), f"Poolens status – {kommun.namn}", innehall

@@ -19,7 +19,7 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import kalendervyer
 from kommunhandlingar.webbplats.kalender import GRUPPMOTE, Sammantrade, gruppmoten
 from kommunhandlingar.webbplats.kalenderfarger import farger, stil
-from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
+from kommunhandlingar.webbplats.mall import KALLKOD, Mall, rot, sida, stig
 
 SKRIPT = Path(__file__).with_name("kalender.js")
 ADR = "/blob/main/docs/decisions/"
@@ -80,7 +80,7 @@ def kalendersida(mall: Mall, kommun: Kommun, sammantraden: list[Sammantrade]) ->
 def kvalitet(mall: Mall, sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
     osakra = [s for s in sammantraden if s.osakert]
     adr = " och ".join(
-        f'<a href="{escape(mall.repo + ADR + fil)}">ADR-{fil[:4]}</a>'
+        f'<a href="{escape(KALLKOD + ADR + fil)}">ADR-{fil[:4]}</a>'
         for fil in (ADR_0032, ADR_0053)
     )
     return (
