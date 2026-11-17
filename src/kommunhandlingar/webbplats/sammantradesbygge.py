@@ -16,7 +16,7 @@ from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.punktsidor import sidor
 from kommunhandlingar.webbplats.sammantrade import Mote, Underlag, per_nummer
 from kommunhandlingar.webbplats.sammantradessida import sammantradessida
-from kommunhandlingar.webbplats.sparslag import SLAGEN
+from kommunhandlingar.webbplats.slagen import SLAGEN
 
 
 # `lasta` är kommunens dokument och paragrafernas rader, som bygget läst.

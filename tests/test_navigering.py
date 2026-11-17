@@ -1,4 +1,4 @@
-"""Krav: K39 och K58 i docs/02-KRAV.md, ADR-0060 och ADR-0081. Kod:
+"""Krav: K39, K58 och K59 i docs/02-KRAV.md, ADR-0060, ADR-0081 och ADR-0085. Kod:
 src/kommunhandlingar/webbplats/meny.py, organordning.py, flikar.py, oversikt.py,
 organsida.py, sparsida.py, malsida.py och kalendersida.py."""
 
@@ -137,22 +137,18 @@ class TestNavigering(unittest.TestCase):
         self.assertLess(tema, html.index("</head>"))
         self.assertLess(html.index("/giffa/sajter.css"), html.index("<style>"))
 
-    def test_oversikten_har_en_kolumn_per_sida_och_antalet(self):
+    def test_oversikten_har_en_kolumn_per_sida_kommunen_har_och_antalet(self):
         rader = [rad("bun", 0), rad("fsn", 4)]
         html = oversikt(self.mall, exempelby(), rader, [])
         self.assertIn('<a href="exempelby/fsn.html">4</a>', html)
         self.assertIn('<a href="exempelby/fsn/mal-och-direktiv.html">2 mål</a>', html)
         self.assertIn('<a href="exempelby/fsn/initiativ.html">2 ärenden</a>', html)
         self.assertNotIn("exempelby/bun/", html)
-        self.assertEqual(html.count('<td class="tom">'), 7 + 5)
-        for rubrik in (
-            "Mål och direktiv",
-            "Lokalbehov",
-            "Handlingsplaner",
-            "Detaljplaner",
-            "Granskningar",
-        ):
+        self.assertEqual(html.count('<td class="tom">'), 2)
+        for rubrik in ("Mål och direktiv", "Initiativärenden"):
             self.assertIn(f'<th scope="col">{rubrik}</th>', html)
+        for rubrik in ("Lokalbehov", "Detaljplaner", "Lokaler och investeringar"):
+            self.assertNotIn(f'<th scope="col">{rubrik}</th>', html)
 
     def test_utskottet_star_under_sin_namnd(self):
         rader = [rad("bun", 0), rad("fsn", 4), rad("bun-au", 1)]
@@ -196,7 +192,7 @@ class TestNavigering(unittest.TestCase):
             )
         ]
         self.assertEqual(ordning, sorted(ordning))
-        self.assertEqual(html.count('<th scope="rowgroup" colspan="9">'), 2)
+        self.assertEqual(html.count('<th scope="rowgroup" colspan="4">'), 2)
         self.assertEqual(html.count("<tbody>"), 2)
 
     def test_flikarna_pa_organets_sida(self):

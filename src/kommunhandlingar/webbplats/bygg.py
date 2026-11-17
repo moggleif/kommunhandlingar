@@ -37,10 +37,11 @@ from kommunhandlingar.webbplats.meny import oversiktsnamn, statusadress
 from kommunhandlingar.webbplats.organsida import organsida
 from kommunhandlingar.webbplats.oversikt import adresser, oversikt
 from kommunhandlingar.webbplats.rakning import okanda, rakna
+from kommunhandlingar.webbplats.slagen import SLAGEN
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
 from kommunhandlingar.webbplats.sparsida import sparsida
-from kommunhandlingar.webbplats.sparslag import DETALJPLANER, SLAGEN
+from kommunhandlingar.webbplats.sparslag import DETALJPLANER
 
 
 def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:

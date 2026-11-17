@@ -1337,7 +1337,8 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
   senaste sammanträdets datum, och har sedan en rad per organ, i
   kommunfilens ordning men med varje utskott direkt under organet det hör
   till (`hor_till`), med antalet sammanträden och en kolumn för varje
-  slags sida över tid. Cellen länkar till organets sida med antalet mål
+  slags sida över tid som något av kommunens organ har, mål och direktiv
+  inräknade (K59). Cellen länkar till organets sida med antalet mål
   eller saker på den, som "28 mål", och har ett streck när organet inte
   har sidan.
 - **Givet** en kommunfil med grupper
@@ -1952,3 +1953,32 @@ Hur och varför står i
 - **Så** laddar den `/giffa/sajter.css` och `/giffa/sajter.js`, som lägger
   raden till projektets övriga sajter ovanför menyn; utan skriptet står
   menyn som en lista.
+
+## K59 — Lokaler, remisser och överenskommelser steg för steg
+
+Hur och varför står i
+[ADR-0085](decisions/0085-lokaler-remisser-och-overenskommelser-som-spar.md)
+och [Lokaler, remisser och
+överenskommelser](03-ARKITEKTUR.md#lokaler-remisser-och-överenskommelser).
+Issue [#314](https://github.com/moggleif/kungsbackakommun/issues/314).
+
+- **Givet** en kommun med en fil med lokaler och investeringar, remisser
+  och yttranden eller överenskommelser och vårdval, där varje rad är ett
+  steg med år, fas, en text och en sida i vilket organs dokument som helst
+  i poolen som källa
+- **När** webbplatsen byggs
+- **Så** har varje organ med rader en sida om slaget, i översikten och
+  flikarna som de andra sidorna över tid (K39), med en tidslinje och kort
+  som redovisningarna (K42).
+- **Givet** en fil med en okänd fas eller något annat som stoppar en
+  annan spårfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden och felet.
+- **Givet** en kommun där inget organ har ett visst slags sida, mål och
+  direktiv inräknade
+- **När** kommunens översikt byggs
+- **Så** har tabellen ingen kolumn för den sidan.
+- **Givet** sidorna om granskningar och handlingsplaner
+- **När** de visas för en region
+- **Så** säger texten "revisionen", "styrelsen" och "gemensamma planer",
+  inget som bara gäller en kommun.

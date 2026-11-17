@@ -31,7 +31,7 @@ GRANSKNINGAR = Slag(
         "uppfoljning": (RUTER, "uppföljande granskning"),
     },
     inledning=(
-        "<p>Kommunrevisionens granskningar av nämnden år för år: när "
+        "<p>Revisionens granskningar av nämnden år för år: när "
         "revisionen beslutade projektplanen och antog rapporten, vad "
         "revisorerna bedömde, hur nämnden svarade, när revisionen berättade "
         "om granskningen i fullmäktige och när den följdes upp. Varje ikon "
@@ -40,11 +40,11 @@ GRANSKNINGAR = Slag(
     metod=(
         "<p>Revisionen publicerar bara sina protokoll, och där står sällan "
         "bedömningen. Rapporten finns i poolen när den ligger bland "
-        "nämndens, kommunstyrelsens eller fullmäktiges handlingar, oftast "
+        "nämndens, styrelsens eller fullmäktiges handlingar, oftast "
         "som underlag till nämndens svar. Bedömningen står som revisorerna "
         "skriver den, i rapporten eller återgiven i ärendet om svaret; "
         "saknas den står ingen bedömning. Granskningar av "
-        "hela kommunen står under kommunstyrelsen, och under en nämnd när "
+        "hela organisationen står under styrelsen, och under en nämnd när "
         "nämnden själv svarar. Den grundläggande granskningen, som "
         "revisionen gör av alla nämnder varje år, står med när nämnden har "
         "ett eget steg; information som nämnden bara noterar räknas inte. "

@@ -1,7 +1,8 @@
 """Krav: K39 i docs/02-KRAV.md, ADR-0060. Test: tests/test_navigering.py.
 
 Kommunens sida: en rad per organ med antalet sammanträden och en kolumn
-per sida över tid, så att det syns vilka organ som har vilka sidor. Ett
+per sida över tid som något av kommunens organ har (K59), så att det syns
+vilka organ som har vilka sidor. Ett
 utskott står direkt under organet det hör till, och organen står i
 kommunfilens grupper när den har några. En webbplats med en enda kommun
 börjar på kommunens sida, som då heter "Handlingar och protokoll" i stället för
@@ -28,10 +29,17 @@ def oversikt(
     mall: Mall, kommun: Kommun, rader: list[Organrad], dokument: list[dict]
 ) -> str:
     sammantraden = {rad.id: rad.sammantraden for rad in rader}
-    huvud = "".join(f'<th scope="col">{escape(r)}</th>' for _, r, _ in SIDOR)
+    antal = {o.id: overtid(mall, kommun.id, o.id) for o in kommun.organ}
+    sidor = kommunens_sidor(antal)
+    huvud = "".join(f'<th scope="col">{escape(r)}</th>' for _, r, _ in sidor)
     grupper = "".join(
-        f"<tbody>{grupprad(namn, len(SIDOR) + 2)}"
-        + "".join(organrad(mall, kommun.id, o, sammantraden[o.id]) for o in organen)
+        f"<tbody>{grupprad(namn, len(sidor) + 2)}"
+        + "".join(
+            organrad(kommun.id, o, sammantraden[o.id])
+            + celler(f"{kommun.id}/{o.id}", antal[o.id], sidor)
+            + "</tr>"
+            for o in organen
+        )
         + "</tbody>"
         for namn, organen in grupperade(kommun)
     )
@@ -40,6 +48,10 @@ def oversikt(
         f'<th scope="col">Organ</th><th scope="col">Sammanträden</th>{huvud}'
         f"</tr></thead>{grupper}</table></div>"
     )
+
+
+def kommunens_sidor(antal: dict[str, dict[str, int]]) -> list[tuple[str, str, str]]:
+    return [s for s in SIDOR if any(a[s[0]] for a in antal.values())]
 
 
 def inledning(dokument: list[dict]) -> str:
@@ -61,19 +73,20 @@ def grupprad(namn: str, kolumner: int) -> str:
     )
 
 
-def organrad(mall: Mall, kommun_id: str, organ: Organ, sammantraden: int) -> str:
-    klass = ' class="utskott"' if organ.hor_till else ""
-    organets = f"{kommun_id}/{organ.id}.html"
-    antal = overtid(mall, kommun_id, organ.id)
-    celler = "".join(
-        f'<td><a href="{kommun_id}/{organ.id}/{sida}.html">'
-        f"{antal[sida]} {escape(enhet)}</a></td>"
+def celler(organets: str, antal: dict[str, int], sidor: list) -> str:
+    return "".join(
+        f'<td><a href="{organets}/{sida}.html">{antal[sida]} {escape(enhet)}</a></td>'
         if antal[sida]
         else TOM
-        for sida, _, enhet in SIDOR
+        for sida, _, enhet in sidor
     )
+
+
+def organrad(kommun_id: str, organ: Organ, sammantraden: int) -> str:
+    klass = ' class="utskott"' if organ.hor_till else ""
+    organets = f"{kommun_id}/{organ.id}.html"
     return (
         f'<tr><th scope="row"{klass}><a href="{organets}">'
         f"{escape(organ.namn[0])}</a></th>"
-        f'<td><a href="{organets}">{sammantraden}</a></td>{celler}</tr>'
+        f'<td><a href="{organets}">{sammantraden}</a></td>'
     )

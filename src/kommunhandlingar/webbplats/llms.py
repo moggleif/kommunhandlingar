@@ -8,7 +8,7 @@ sidor och filer skrivna för hand.
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mall import KALLKOD, Mall
-from kommunhandlingar.webbplats.sparslag import SLAGEN
+from kommunhandlingar.webbplats.slagen import SLAGEN
 
 INLEDNING = """# kommunhandlingar
 

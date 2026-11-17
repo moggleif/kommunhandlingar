@@ -108,3 +108,4 @@ Regler för det här repot, utöver MADR:
 | 0082 | [En enda kommuns grupper är menyns poster, och dess översikt är startsidan](0082-en-kommuns-grupper-ar-menyns-poster.md) | accepted (0084 lägger Handlingar och protokoll först i menyn) |
 | 0083 | [Temaknappen står i Giffås sajtrad, och valet gäller på projektets alla sajter](0083-temaknappen-i-giffas-sajtrad.md) | accepted |
 | 0084 | [Handlingar och protokoll är menyns första post, och kalendern har ingen stig](0084-handlingar-och-protokoll-i-menyn.md) | accepted |
+| 0085 | [Lokaler och investeringar, remisser och yttranden och överenskommelser och vårdval blir tre nya slag av spår över tid](0085-lokaler-remisser-och-overenskommelser-som-spar.md) | accepted |
